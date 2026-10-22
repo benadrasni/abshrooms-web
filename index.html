@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>What's that mushroom</title>
+  <meta name="description" content="Coming soon.">
+  <link rel="canonical" href="https://whatsthatmushroom.app/">
+  <meta property="og:title" content="What's that mushroom">
+  <meta property="og:description" content="Coming soon.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://whatsthatmushroom.app/">
+  <meta property="og:image" content="https://whatsthatmushroom.app/mushroom.webp">
+  <meta name="theme-color" content="#f3eee4">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,520&amp;family=Source+Sans+3:wght@400;600&amp;display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --paper: #f3eee4;
+      --ink: #1a1612;
+      --ink-2: #5a5248;
+    }
+
+    * { box-sizing: border-box; }
+
+    html, body { margin: 0; min-height: 100%; }
+
+    body {
+      background: var(--paper);
+      color: var(--ink);
+      font-family: "Source Sans 3", "Source Sans Pro", sans-serif;
+    }
+
+    main {
+      min-height: 100vh;
+      min-height: 100dvh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: safe center;
+      padding: 40px 24px 32px;
+      text-align: center;
+    }
+
+    .mark {
+      margin: 0 0 28px;
+      font-family: Fraunces, Georgia, serif;
+      font-weight: 520;
+      font-size: 1.35rem;
+      letter-spacing: -0.02em;
+    }
+
+    img {
+      width: auto;
+      height: auto;
+      max-width: min(360px, 78vw);
+      max-height: min(58vh, 520px);
+      display: block;
+    }
+
+    h1 {
+      margin: 28px 0 0;
+      max-width: 28ch;
+      font-family: Fraunces, Georgia, serif;
+      font-weight: 520;
+      font-size: clamp(1.85rem, 4.5vw, 2.5rem);
+      letter-spacing: -0.03em;
+      line-height: 1.12;
+      text-wrap: balance;
+    }
+
+    .latin {
+      margin: 12px 0 0;
+      font-family: Fraunces, Georgia, serif;
+      font-style: italic;
+      font-weight: 460;
+      color: var(--ink-2);
+      font-size: 1.05rem;
+    }
+
+    footer {
+      margin-top: 32px;
+      color: var(--ink-2);
+      font-size: 0.95rem;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <p class="mark">What's that mushroom</p>
+    <img src="mushroom.webp" width="832" height="1248" alt="Penny bun, Boletus edulis, drawn as a botanical plate.">
+    <h1>Coming soon</h1>
+    <p class="latin">Boletus edulis</p>
+    <footer>whatsthatmushroom.app</footer>
+  </main>
+</body>
+</html>
