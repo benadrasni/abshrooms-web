@@ -1,4 +1,3 @@
-(function () {
   var STORAGE = "https://storage.googleapis.com/abshrooms-resources/";
   var MEDIA = "photos/Boletales/Boletaceae/Boletus_edulis/";
   var PLATE = STORAGE + MEDIA + "Boletus_edulis@1600.webp?v=2";
@@ -368,6 +367,7 @@
     Neoboletus: { rank: "genus", sk: "hríb" },
     Imleria: { rank: "genus", sk: "suchohríb" },
     Tylopilus: { rank: "genus", sk: "podhríb" },
+    Caloboletus: { rank: "genus" },
     Amanita: { rank: "genus", sk: "muchotrávka" },
     Macrolepiota: { rank: "genus", sk: "bedľa" },
     Chlorophyllum: { rank: "genus", sk: "bedľa" },
@@ -10375,6 +10375,18 @@
         uses: "The fruit body is inedible. It is too tough to eat. Dried fruit bodies are used in floral arrangements, and they were formerly worn as hat ornaments and set on brooches and buckles. Extracts have a long use in traditional Chinese, Japanese, and Korean medicine. Polysaccharide-K is approved in Japan as an adjuvant in cancer treatment and is not approved in the United States for any clinical condition. Studies have reported some adjuvant effect in some cancers in vitro and partly in vivo. Supplements have been linked to diarrhoea, darkened stool, and darkened nails. In 2020, in the United States, two firms were ordered to stop marketing products of this fungus as cancer drugs or immune stimulants.",
         confusion: "Stereum ostrea, Stereum hirsutum, Stereum subtomentosum, and other Stereum species have a smooth hymenium and no pores. Trametes hirsuta is thicker, and the fresh cap is whitish to grey and coarsely hairy rather than finely velvety. Trametes pubescens lacks starkly contrasting colour zones. Trametes ochracea is rigid rather than thin and flexible, thicker at the attachment, to about 10 mm, with less varied ochre and yellow-brown bands and without silky or glossy zones, and it forms less crowded clusters. Trametes ochracea often shares a trunk with this fungus, and the two are not always easy to separate. Trametes suaveolens is much paler and usually does not grow in overlapping tiers. Other Trametes species with only about 1–3 pores per mm are separated by that pore size.",
         notes: "The fruit bodies are eaten by the moth Nemaxera betulinella and by the flies Polyporivora picta and Mycetophila luctuosa. The fungus can damage stored timber and structural timber, including mine timbers and railway sleepers."
+      },
+      sk: {
+        description: "Tenká jednoročná drevokazná huba listnáčov s bielou hnilobou, saprotrofná na mŕtvom dreve a niekedy slabo parazitická na živých stromoch. Vyskytuje sa pravdepodobne po celom svete a je hojná v Európe od Škandinávie po Stredomorie, vrátane Británie a Írska, a tiež v Ázii, Severnej Amerike a Austrálii.",
+        cap: "Plodnica je jednoročná a sediaca, vejárovitá, s oblúkovitým obrysom, obličkovitá alebo ružicovitá. Klobúky často zrastajú vedľa seba aj poschodovito. Miesto prirastania sa môže zužovať, alebo klobúk krátko zbieha po dreve. Mladé plodnice sú len zriedka rozliato ohnuté a celkom mladá plodnica môže byť hrboľatým povlakom. Šírka býva zvyčajne 2–8 cm a dosahuje asi 10 cm, hoci mnohé stredoeurópske plodnice ostávajú v rozpätí 2–6 cm. Hĺbka je asi 1–4 cm. Klobúk je hrubý asi 1–3 mm a dužina pri mieste prirastania dosahuje až asi 3 mm. Za čerstva je klobúk ohybný. Povrch je jemne zamatový až chlpatý a chlpaté zóny sa striedajú s hladšími, hodvábnymi alebo lesklými. Zóny prechádzajú bielou, krémovou, okrovou, žltou, škoricovou, hrdzavou, hnedou, sivou, modrosivou, modrou a čiernou farbou a niekedy sú oranžové alebo olivové. Okraj je bledší, za mladi belavý až okrový, zvlnený a tenký. Staršie plodnice černejú a často ich sfarbujú riasy dozelena. Zelená sa uvádza aj ako farba zóny.",
+        hymenium: "Rúrky sú krátke, hlboké asi 1,5–3 mm. Póry sú drobné, asi 3–6 na mm a niekedy aj hustejšie, okrúhle až hranaté a vekom sa stávajú labyrintovými a sivými. Povrch pórov je biely, belavý, krémový alebo bledohnedý a po otlačení sa sfarbuje len slabo. Cystidy sa nenašli. Bazídiá sú kyjakovité, asi 18–20 × 3–4,5 μm, štvorvýtrusové a na báze so spônkou.",
+        stipe: "Hlúbik chýba. Klobúk je prirastený priamo, niekedy zúženou bázou, a môže krátko zbiehať po dreve.",
+        flesh: "Dužina je tenká a belavá, za čerstva tuhá a vláknitá a za sucha kožovitá. Tenká čierna línia na reze oddeľuje chlpatý povrch od dužiny pod ním. Vôňa a chuť sú nevýrazné. Reakcia dužiny s hydroxidom draselným je negatívna až žltkastá alebo žltá. Hyfový systém je trimitický. Hniloba je biela, postihuje beľ a huba rozkladá lignín.",
+        sporePrint: "Výtrusný prach je biely až belavý. Jeden opis zahŕňa aj žltú. Výtrusy sú valcovité až slabo zakrivené, hladké, tenkostenné, hyalínne a neamyloidné. Uverejnené rozmery sa pohybujú asi v rozpätí 4–7 × 1,5–2,5 μm, najčastejšie asi 4,5–6 × 1,5–2,5 μm.",
+        habitat: "Plodnice sú prítomné po celý rok. V Británii a Írsku sa nachádzajú najčastejšie na jeseň a v zime, keď sa uvoľňujú výtrusy. V strednej Európe sa čerstvé plodnice objavujú najmä od konca mája do augusta. Rastú na mŕtvych kmeňoch listnáčov, pňoch, naukladanom dreve, spadnutých konároch a vetvičkách, stojacom mŕtvom dreve aj na živých stromoch, do ktorých vnikajú cez malé rany. V strednej Európe je hlavným hostiteľom buk a obľúbeným hostiteľom je dub. Ďalšími hostiteľmi sú breza, hrab, lieska, vŕba, čerešňa a iné ovocné stromy a mnohé ďalšie listnáče. Ihličnany sú menej častým hostiteľom, v strednej Európe však nie sú zriedkavé. Rastie aj mimo lesa, na záhradnom dreve v styku s pôdou a na skladovanom aj zabudovanom dreve. Plodnice prečkávajú suché obdobia. Rast je dosť rýchly, takže ju podpňovka (Armillaria) nevytlačí.",
+        uses: "Plodnica je nejedlá. Je príliš tuhá na jedenie. Sušené plodnice sa používajú do kvetinových väzieb a kedysi sa nosili ako ozdoby na klobúkoch a pripevňovali sa na brošne a pracky. Výťažky majú dlhé využitie v tradičnej čínskej, japonskej a kórejskej medicíne. Polysacharid-K je v Japonsku schválený ako adjuvans pri liečbe rakoviny a v Spojených štátoch nie je schválený na žiadny klinický stav. Štúdie zaznamenali istý doplnkový účinok pri niektorých rakovinách in vitro a čiastočne in vivo. Doplnky stravy sa spájajú s hnačkou, stmavenou stolicou a stmavenými nechtami. V roku 2020 dostali v Spojených štátoch dve firmy príkaz prestať uvádzať výrobky z tejto huby na trh ako lieky proti rakovine alebo ako prostriedky na povzbudenie imunity.",
+        confusion: "Stereum ostrea, pevník chlpatý (Stereum hirsutum), pevník žltnúci (Stereum subtomentosum) a ďalšie druhy rodu Stereum majú hladké hyménium a nemajú póry. Trúdnikovec chlpatý (Trametes hirsuta) je hrubší a čerstvý klobúk je belavý až sivý a hrubo chlpatý, nie jemne zamatový. Trametes pubescens nemá ostro kontrastné farebné zóny. Trametes ochracea je tuhá, nie tenká a ohybná, pri mieste prirastania hrubšia, až asi do 10 mm, s menej pestrými okrovými a žltohnedými pásmi a bez hodvábnych alebo lesklých zón, a tvorí menej husté zhluky. Často rastie na tom istom kmeni ako táto huba a nedá sa od nej vždy ľahko odlíšiť. Trúdnikovec voňavý (Trametes suaveolens) je oveľa bledší a zvyčajne nerastie v prekrývajúcich sa poschodiach. Ďalšie druhy rodu Trametes, ktoré majú len asi 1–3 póry na mm, sa oddeľujú práve touto veľkosťou pórov.",
+        notes: "Plodnice požiera moľa Nemaxera betulinella a muchy Polyporivora picta a Mycetophila luctuosa. Huba môže poškodzovať skladované aj stavebné drevo, vrátane banského dreva a železničných podvalov."
       }
     },
     sources: {
@@ -10522,7 +10534,338 @@
     ]
   };
 
-  var CATALOG = [SPECIES, AMANITA, CHANTERELLE, RETICULATUS, PROCERA, PHALLOIDES, PANTHERINA, MORCHELLA, PLEUROTUS, LAETIPORUS, IMLERIA, ARMILLARIA, COPRINUS, GYROMITRA, RUBESCENS, HYPHOLOMA, AGARICUS, LECCINUM, SUILLUS, LACTARIUS, VIROSA, RUBROBOLETUS, CORTINARIUS, CRATERELLUS, FISTULINA, NEOBOLETUS, CALOCYBE, INOSPERMA, HYDNUM, SARCODON, RUSSULA, KUEHNEROMYCES, GALERINA, SPARASSIS, PAXILLUS, LEPISTA, ARTOMYCES, POLYPORUS, ALBOSTIPITATUM, HYGROPHOROPSIS, ENTOLOMA, PHALLUS, FOMES, AURICULARIA, TYLOPILUS, CHLOROPHYLLUM, EMETICA, TRICHOLOMA, LYCOPERDON, AURANTIACUM, CITRINA, PARDINUM, CALVATIA, CLITOCYBE, TRAMETES];
+  var PINOPHILUS_MEDIA = "photos/Boletales/Boletaceae/Boletus_pinophilus/";
+  var PINOPHILUS = {
+    id: 55,
+    name: "Boletus pinophilus",
+    author: "Pilát & Dermek",
+    family: "Boletaceae",
+    genus: "Boletus",
+    order: "Boletales",
+    edibility: "choice",
+    hymenium: "tubes",
+    path: ["Fungi", "Dikarya", "Basidiomycota", "Agaricomycotina", "Agaricomycetes", "Agaricomycetidae", "Boletales", "Boletaceae", "Boletus"],
+    summary: ["Boletales", "Boletaceae", "Boletus"],
+    added: "2026-10-24",
+    plate: STORAGE + PINOPHILUS_MEDIA + "Boletus_pinophilus@1600.webp",
+    plateGrid: STORAGE + PINOPHILUS_MEDIA + "Boletus_pinophilus@400.webp",
+    plateCredit: {
+      author: "Gemini",
+      license: "not stated"
+    },
+    photos: [
+      {
+        src: STORAGE + PINOPHILUS_MEDIA + "bp1.webp",
+        author: "Aorg1961",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Boletus_pinophilus_DSCF6372e.jpg"
+      },
+      {
+        src: STORAGE + PINOPHILUS_MEDIA + "bp2.webp",
+        author: "Svencapoeira",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Männi-kivipuravik.jpg"
+      },
+      {
+        src: STORAGE + PINOPHILUS_MEDIA + "bp3.webp",
+        author: "Jose Angel Urquia Goitia",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Onddo_pinua_azpitik.jpg"
+      },
+      {
+        src: STORAGE + PINOPHILUS_MEDIA + "bp4.webp",
+        author: "Dendrofil",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Hřib08441.JPG"
+      },
+      {
+        src: STORAGE + PINOPHILUS_MEDIA + "bp5.webp",
+        author: "valentin_kosterin",
+        license: "CC BY 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Boletus_pinophilus_4.jpg"
+      }
+    ],
+    capFrom: 6,
+    capTo: 30,
+    stipeHeightFrom: 7,
+    stipeHeightTo: 16,
+    stipeThickFrom: 3,
+    stipeThickTo: 10,
+    fruitingFrom: 4,
+    fruitingTo: 11,
+    label: { en: "pine bolete", sk: "hríb sosnový" },
+    names: {
+      en: [
+        "pinewood king bolete",
+        "red king bolete"
+      ],
+      sk: [
+        "hríb bôrový",
+        "hríb borový",
+        "bôrovka",
+        "borák",
+        "hríb obyčajný borový",
+        "hríb obyčajný bôrový"
+      ]
+    },
+    text: {
+      en: {
+        description: "An ectomycorrhizal mushroom of temperate and boreal pine woods. It is common and locally abundant throughout Europe, and it is reported from Asia. In Britain it is more frequent in mature Scots pine forests in Scotland than in plantations farther south. In southern Europe it is more a mountain species.",
+        cap: "The cap is commonly 6–30 cm across and can reach about 40 cm. It is hemispherical at first, then convex to thickly cushion-shaped, and finally almost flat. The colour is dark reddish brown to vinaceous or maroon, without a yellow band at the margin. The margin is pink or pale pink, sometimes with a purple tint, and on a young cap it may be pale pink with a white powdery flush. The surface is lumpy and often wrinkled, only weakly felty or bald, dry to slightly greasy, and viscid or slightly slimy in wet weather. The cuticle is thicker and more gelatinous than in Boletus edulis, Boletus reticulatus, and Boletus aereus, and at maturity it overhangs the tubes slightly.",
+        hymenium: "The tubes are adnate to almost free at the stipe and up to about 25 mm long. They and the small pores are white to cream at first, then yellow with an olive tint, and olive brown when fully mature. The pores near the stipe may take on a brownish tone. Cut tubes stay the same colour. A bruise on the pores may leave them unchanged, or turn them slightly blue-green at first and then brown.",
+        stipe: "The stipe is commonly 7–16 cm long and 3–10 cm thick, and large fruit bodies reach about 25 cm tall and 16 cm thick. It is almost spherical or egg-shaped when young, then club-shaped or barrel-shaped to cylindrical, and it stays relatively short and stout. The surface is cream-reddish to pale brown, white or whitish at the apex and the base, and sometimes close to the cap colour but slightly paler, with an orange-red flush toward the base. A net, white to pale brown and sometimes reddish, runs nearly to the base. On many fruit bodies the net is fine, and it is coarser than the net of Boletus edulis, Boletus reticulatus, and Boletus aereus.",
+        flesh: "The flesh is white, firm and dense when young, and softer when mature. It stays white when cut. A wine-red to reddish brown layer lies under the cap cuticle, and the base of the stipe may show brownish or yellowish spots. The taste is pleasant and mild. The odour is mild to mushroomy.",
+        sporePrint: "Olive brown to olive. The spores are fusiform to cylindric-ellipsoid and smooth, often with oil drops, about 13–21 × 3.5–6.5 μm.",
+        habitat: "Fruit bodies appear singly or in small groups. In Britain they fruit from summer into autumn, in Italy from as early as April, and in central Europe in two flushes, from May into June and again from August into November. It grows on poor, acid, sandy soil under pines, including in dry lichen heath, and also with spruce and fir. It fruits under sweet chestnut, oak, and beech as well, and possibly under birch and hornbeam.",
+        uses: "It is a choice edible, eaten fresh, dried, preserved, or cooked in the same ways as Boletus edulis. It is collected and sold in several countries. In the Borgotaro district of northern Italy it is one of four species sold as Fungo di Borgotaro. Collectors often prefer it to Boletus reticulatus because the flesh is less often tunnelled by insect larvae.",
+        confusion: "Boletus edulis has a paler stipe with a white net, a brown cap with a whitish margin, and a finer net. Boletus reticulatus has a paler cap that cracks into patches in dry weather and grows mainly with broadleaved trees. Boletus aereus has a darker bronzed felty cap, without the mahogany colour, and firmer flesh. Tylopilus felleus has pores with a pinkish tinge and a very bitter taste. Butyriboletus regius is pinker, and its pores are never white.",
+        notes: "A 2019 assessment places it as Least Concern, with a stable population. It can be locally very abundant in pine woods and in pine plantations of any age, and no major threat is known. It is treated as vulnerable in the Czech Republic. Native populations in western North America that were placed under this name are Boletus rex-veris, and those in eastern North America are Boletus pseudopinophilus. Native Chinese populations placed here are other species. It has also been reported from planted pines in Mexico, Chile, South Africa, and New Zealand. Fruit bodies under fir and spruce have been distinguished as a variety. It accumulates mercury, cadmium, and selenium, with the highest concentrations in the pores. A 2007 study of four boletes found little match between the number of fruit bodies and the mycelium in the soil beneath them."
+      },
+      sk: {
+        description: "Ektomykorízna huba miernych a boreálnych borín. V celej Európe je hojná a miestami veľmi početná a uvádza sa aj z Ázie. V Británii je častejšia v dospelých lesoch borovice lesnej v Škótsku ako vo výsadbách južnejšie. V južnej Európe je skôr horským druhom.",
+        cap: "Klobúk máva v priemere 6–30 cm a môže dosiahnuť asi 40 cm. Najprv je polguľovitý, potom klenutý až hrubo vankúšovitý a napokon takmer plochý. Farba je tmavo červenohnedá až vínová alebo mahagónová, bez žltého pásu pri okraji. Okraj je ružový alebo bledoružový, niekedy s purpurovým odtieňom, a na mladom klobúku môže byť bledoružový s bielym múčnatým povlakom. Povrch je hrboľatý a často vráskavý, len slabo plstnatý alebo holý, suchý až mierne mastný a za vlhka lepkavý alebo slabo slizký. Pokožka je hrubšia a viac rôsolovitá ako pri Boletus edulis, Boletus reticulatus a Boletus aereus a v dospelosti mierne prečnieva nad rúrky.",
+        hymenium: "Rúrky sú pri hlúbiku prirastené až takmer voľné a dlhé najviac asi 25 mm. Spolu s drobnými pórmi sú najprv biele až krémové, potom žlté s olivovým nádychom a v plnej zrelosti olivovohnedé. Póry pri hlúbiku môžu dostať hnedastý tón. Prerezané rúrky nemenia farbu. Otlačenie pórov ich môže nechať bez zmeny, alebo ich najprv slabo sfarbí do modrozelena a potom do hneda.",
+        stipe: "Hlúbik máva 7–16 cm na dĺžku a 3–10 cm na hrúbku a veľké plodnice dosahujú asi 25 cm výšky a 16 cm hrúbky. Za mladi je takmer guľovitý alebo vajcovitý, potom kyjakovitý alebo súdkovitý až valcovitý a zostáva pomerne krátky a hrubý. Povrch je krémovočervenkastý až bledohnedý, na vrchole a na báze biely alebo belavý, niekedy sa blíži farbe klobúka, ale je o niečo bledší, a k báze má oranžovočervený nádych. Sieťka, biela až bledohnedá a niekedy červenkastá, siaha takmer k báze. Na mnohých plodniciach je jemná a má hrubšie oká ako sieťka Boletus edulis, Boletus reticulatus a Boletus aereus.",
+        flesh: "Dužina je biela, za mladi pevná a hustá, v dospelosti mäkšia. Na reze zostáva biela. Pod pokožkou klobúka leží vínovočervená až červenohnedá vrstva a báza hlúbika môže mať hnedasté alebo žltkasté škvrny. Chuť je príjemná a mierna. Vôňa je mierna až hubová.",
+        sporePrint: "Výtrusný prach je olivovohnedý až olivový. Výtrusy sú vretenovité až valcovito elipsoidné a hladké, často s olejovými kvapkami, asi 13–21 × 3,5–6,5 μm.",
+        habitat: "Plodnice vyrastajú jednotlivo alebo v malých skupinách. V Británii plodí od leta do jesene, v Taliansku už od apríla a v strednej Európe v dvoch vlnách, od mája do júna a znova od augusta do novembra. Rastie na chudobnej, kyslej, piesočnatej pôde pod borovicami, aj v suchých lišajníkových vresoviskách, a tiež so smrekom a jedľou. Plodí aj pod gaštanom jedlým, dubom a bukom a možno aj pod brezou a hrabom.",
+        uses: "Je to výborná jedlá huba. Je sa čerstvá, sušená, konzervovaná alebo varená rovnakými spôsobmi ako hríb smrekový (Boletus edulis). Zbiera sa a predáva vo viacerých krajinách. V oblasti Borgotaro v severnom Taliansku je jedným zo štyroch druhov predávaných ako Fungo di Borgotaro. Hubári ju často uprednostňujú pred hríbom dubovým (Boletus reticulatus), lebo dužinu menej často prerývajú larvy hmyzu.",
+        confusion: "Hríb smrekový (Boletus edulis) má bledší hlúbik s bielou sieťkou, hnedý klobúk s belavým okrajom a jemnejšiu sieťku. Hríb dubový (Boletus reticulatus) má bledší klobúk, ktorý sa za sucha rozpuká na políčka, a rastie najmä s listnáčmi. Hríb bronzový (Boletus aereus) má tmavší bronzový plstnatý klobúk, bez mahagónovej farby, a pevnejšiu dužinu. Podhríb žlčový (Tylopilus felleus) má póry s ružovkastým nádychom a veľmi horkú chuť. Hríb kráľovský (Butyriboletus regius) je ružovejší a jeho póry nikdy nie sú biele.",
+        notes: "Hodnotenie z roku 2019 ho zaraďuje medzi málo dotknuté druhy (Least Concern), so stabilnou populáciou. V borinách a v borovicových výsadbách každého veku môže byť miestami veľmi hojný a nie je známe žiadne veľké ohrozenie. V Česku sa vedie ako zraniteľný druh (Vulnerable). Pôvodné populácie v západnej Severnej Amerike, ktoré sa viedli pod týmto menom, patria k druhu Boletus rex-veris a populácie vo východnej Severnej Amerike k druhu Boletus pseudopinophilus. Pôvodné čínske populácie zaraďované pod toto meno sú iné druhy. Uvádza sa aj z vysadených borovíc v Mexiku, Čile, Južnej Afrike a na Novom Zélande. Plodnice pod jedľou a smrekom sa odlišovali ako odroda. Hromadí ortuť, kadmium a selén a najvyššie koncentrácie sú v póroch. Štúdia štyroch hríbovitých húb z roku 2007 našla len malú zhodu medzi počtom plodníc a mycéliom v pôde pod nimi."
+      }
+    },
+    sources: {
+      en: [
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/boletus-pinophilus.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Boletus_pinophilus"
+        },
+        {
+          group: "text",
+          name: "Boletales.com",
+          href: "https://boletales.com/genera/boletus/b-pinophilus/"
+        },
+        {
+          group: "text",
+          name: "Fungipedia",
+          href: "https://www.fungipedia.org/en/hongos/boletus-pinophilus.html"
+        },
+        {
+          group: "text",
+          name: "IUCN",
+          href: "https://www.iucnredlist.org/species/122090237/222968707"
+        },
+        {
+          group: "text",
+          name: "SMNF",
+          href: "https://www.smnf.fr/wp-content/Photos_SMNF/Photos_SMNF_B/Boletus_pinophilus.htm"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Boletus-pinophilus/hrib-sosnovy/hrib-borovy/ID137"
+        },
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=309751",
+          detail: "309751"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=309751",
+          detail: "309751"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/309751"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5954949",
+          detail: "5954949"
+        }
+      ],
+      sk: [
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Boletus-pinophilus/hrib-sosnovy/hrib-borovy/ID137"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://sk.wikipedia.org/wiki/Hr%C3%ADb_sosnov%C3%BD"
+        },
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=309751",
+          detail: "309751"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5954949",
+          detail: "5954949"
+        }
+      ]
+    },
+    synonyms: [
+      "Boletus pinicola (Vittad.) A. Venturi",
+      "Boletus pinicola (Vittad.) Rea"
+    ]
+  };
+
+  var CALOBOLETUS_MEDIA = "photos/Boletales/Boletaceae/Caloboletus_calopus/";
+  var CALOBOLETUS = {
+    id: 56,
+    name: "Caloboletus calopus",
+    author: "(Pers.) Vizzini",
+    family: "Boletaceae",
+    genus: "Caloboletus",
+    order: "Boletales",
+    edibility: "poisonous",
+    hymenium: "tubes",
+    path: ["Fungi", "Dikarya", "Basidiomycota", "Agaricomycotina", "Agaricomycetes", "Agaricomycetidae", "Boletales", "Boletaceae", "Caloboletus"],
+    summary: ["Boletales", "Boletaceae", "Caloboletus"],
+    added: "2026-10-24",
+    plate: STORAGE + CALOBOLETUS_MEDIA + "Caloboletus_calopus@1600.webp",
+    plateGrid: STORAGE + CALOBOLETUS_MEDIA + "Caloboletus_calopus@400.webp",
+    plateCredit: {
+      author: "Albin Schmalfuß",
+      license: "public domain",
+      source: "https://commons.wikimedia.org/wiki/File:Sch%C3%B6nfu%C3%9Fr%C3%B6hrling-1.jpg"
+    },
+    photos: [
+      {
+        src: STORAGE + CALOBOLETUS_MEDIA + "cc1.webp",
+        author: "LukeEmski",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Caloboletus_calopus_LE_01.jpg"
+      },
+      {
+        src: STORAGE + CALOBOLETUS_MEDIA + "cc2.webp",
+        author: "Paweł Opioła",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Caloboletus_calopus_a4.jpg"
+      },
+      {
+        src: STORAGE + CALOBOLETUS_MEDIA + "cc3.webp",
+        author: "Per Marstad",
+        license: "CC BY 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Caloboletus_calopus_reticulum.jpg"
+      },
+      {
+        src: STORAGE + CALOBOLETUS_MEDIA + "cc4.webp",
+        author: "Tomasz Sobczak",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Caloboletus_calopus.jpg"
+      },
+      {
+        src: STORAGE + CALOBOLETUS_MEDIA + "cc5.webp",
+        author: "Jerzy Opioła",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Boletus_calopus_G2.jpg"
+      }
+    ],
+    capFrom: 3,
+    capTo: 20,
+    stipeHeightFrom: 3,
+    stipeHeightTo: 15,
+    stipeThickFrom: 1,
+    stipeThickTo: 5,
+    fruitingFrom: 6,
+    fruitingTo: 12,
+    label: { en: "bitter beech bolete", sk: "hríb červený" },
+    names: {
+      en: ["scarlet-stemmed bolete", "bitter bolete"],
+      sk: ["červienka"]
+    },
+    text: {
+      en: {
+        description: "An ectomycorrhizal bolete of coniferous and broadleaf woods. It ranges across Europe from the Mediterranean to the north, chiefly in the temperate zone, and it is most frequent in the mountains. It is also recorded in the Caucasus, Turkey, Pakistan, Yunnan, Korea, and Taiwan. Reports from North America and Japan are disputed.",
+        cap: "The cap is 3–20 cm across, and it occasionally reaches 25 cm. It starts hemispherical, with the margin inrolled for a long time and often irregularly wavy, and becomes convex or cushion-shaped. The disc can become flat, though some fruit bodies stay rounded into age. The surface is dry and matte, finely felted or downy when young and bald later, and it sometimes cracks or forms small scales at the centre. The colour runs from pale brown, clay brown, and milky coffee through smoky grey and grey-brown to olive-brown or yellowish brown, sometimes with an olive flush, and rarely with a reddish tint. The cuticle can overhang the margin.",
+        hymenium: "The tubes are 3–20 mm long and notched at the stipe. They are lemon yellow, then olive-yellow. The pores are small and round, at first grey-yellow or lemon yellow and later greenish or olive-yellow, and they match the tubes. Bruised or cut pores and tubes turn blue or blue-green. The basidia are club-shaped and four-spored, about 30–38 × 9–12 μm. The cystidia are club-shaped to spindle-shaped and hyaline, about 25–40 × 10–15 μm.",
+        stipe: "The stipe is 3–15 cm long and 1–5 cm thick. In Britain and Ireland it is often about 7–9 cm long and 3–5 cm thick. Young stipes are ventricose or barrel-shaped. Mature stipes are club-shaped to cylindrical, often thicker through the middle and narrowed under the cap or toward the base, and sometimes curved. The apex is bright yellow. Below that the stipe is carmine to pink-red, and the base is usually dull brown-red or brown. The whole stipe is sometimes red. Sun can fade the red, and on mature fruit bodies, or on specimens kept for a few days, the red can disappear and leave ochre-brown. A fine to fairly coarse net covers the surface. At the apex the net is white or pale yellow on the yellow ground. Lower down it is flesh-red, dirty red, or brownish yellow, and it browns from the base upward. The meshes become larger and more elongated downward and disappear at the very base. Bruised places turn blue. There is no ring.",
+        flesh: "The flesh is whitish, pale cream, or pale yellow, and it is often dirty reddish or purplish in the stipe base. A cut surface turns blue or blue-green. The change can be quick or only moderate, and it is sometimes weak, and the blue then fades. The cut can pass through white before the blue-green appears. Young flesh is hard. The smell is weak and mushroomy, or stronger and unpleasant and likened to ink. The taste is sweetish at first and then very bitter. The bitterness can fade in older fruit bodies and can vary from place to place. The flesh is strongly amyloid in Melzer's reagent.",
+        sporePrint: "Olive-yellow, pale ochre-olive, olivaceous snuff-brown, or brownish olive. The basidiospores are smooth, narrowly elliptical to subfusiform, about 12–16 × 4–6 μm.",
+        habitat: "Fruit bodies appear from June into December, and most often from July to October. They grow singly or in groups, often in the foothills and mountains and less often in the lowlands. The usual partners are spruce, fir, pine, beech, and oak. In central Europe the fungus is most frequent with spruce and beech, and it often grows on acid soil. In Britain and Ireland it is mainly on chalk or other alkaline or neutral ground under beech and oak, and it also occurs with pine and spruce. In Pakistan it has been recorded with Himalayan poplar and pindrow fir.",
+        uses: "Cooking does not remove the bitterness, and a single fruit body can spoil a dish. Some people develop a gastrointestinal illness after eating it. Fruit bodies have been eaten in the Russian Far East and in Ukraine.",
+        confusion: "Caloboletus radicans has little or no red on the stipe, a weaker net, and a rooting base, and it grows in warm calcareous broadleaf woods. Caloboletus kluzakii also has much less red on a yellow stipe and a weaker net, and it grows with broadleaf trees on calcareous soil. Caloboletus polygonius is more southern, grows in calcareous broadleaf woods, has a less netted stipe, and its flesh does not react in Melzer's reagent. Rubroboletus satanas has red pore mouths. Suillellus luridus has a darker cap, pores that become orange to red-orange, and orange-red flesh in the stipe base, and the flesh blues at once. Neoboletus luridiformis has red tubes. Xerocomellus chrysenteron has a stipe without a net. Other Xerocomellus species are smaller, softer, and more slender, with a brown cap and flesh that is not bitter. Boletus edulis has no red on the stipe, and its pores do not turn blue. Caloboletus rubripes, of western North America, is bitter and has a similar cap and yellow pores that bruise blue, but the reddish stipe has no net. Caloboletus inedulis is smaller and has a white to greyish-white cap. Caloboletus roseipes grows with hemlock. Caloboletus firmus has red pores and no net on the stipe.",
+        notes: "The bitter taste comes largely from calopin and O-acetylcyclocalopin A. The fruit bodies also contain the pulvinic acid derivatives atromentic acid, variegatic acid, and xerocomic acid, which inhibited cytochrome P450 enzymes in laboratory tests. The main volatile compounds are 3-octanone, 3-octanol, 1-octen-3-ol, and limonene. A comparison of European and North American collections concluded that the typical form does not occur in the United States, while several North American field guides still include it. In the Pacific Northwest, red-stemmed collections sequenced so far have matched Caloboletus rubripes rather than this species."
+      },
+      sk: {
+        description: "Ektomykorízna huba ihličnatých a listnatých lesov. Vyskytuje sa v Európe od Stredomoria na sever, najmä v miernom pásme, a najčastejšia je v horách. Zaznamenaná je aj na Kaukaze, v Turecku, Pakistane, v provincii Jün-nan, v Kórei a na Taiwane. Údaje zo Severnej Ameriky a z Japonska sú sporné.",
+        cap: "Klobúk má v priemere 3–20 cm a občas dosahuje 25 cm. Najprv je polguľovitý, s okrajom dlho podvinutým a často nepravidelne zvlneným, a potom sa stáva klenutým alebo vankúšovitým. Temeno sa môže sploštiť, hoci niektoré plodnice zostávajú do staroby zaoblené. Povrch je suchý a matný, za mladi jemne plstnatý alebo páperistý a neskôr holý, a v strede niekedy puká alebo tvorí drobné šupinky. Farba prechádza od bledohnedej, hlinovohnedej a kávovo mliečnej cez dymovo sivú a sivohnedú po olivovohnedú alebo žltkastohnedú, niekedy s olivovým nádychom a zriedka s červenkastým odtieňom. Pokožka môže presahovať okraj.",
+        hymenium: "Rúrky sú dlhé 3–20 mm a pri hlúbiku vykrojené. Najprv sú citrónovožlté, neskôr olivovožlté. Póry sú drobné a okrúhle, najprv sivožlté alebo citrónovožlté a neskôr zelenkasté alebo olivovožlté, a s rúrkami sa zhodujú. Otlačené alebo narezané póry a rúrky modrejú alebo modrozelenejú. Bazídiá sú kyjačkovité a štvorvýtrusné, asi 30–38 × 9–12 μm. Cystidy sú kyjačkovité až vretenovité a hyalínne, asi 25–40 × 10–15 μm.",
+        stipe: "Hlúbik je dlhý 3–15 cm a hrubý 1–5 cm. V Británii a Írsku býva často asi 7–9 cm dlhý a 3–5 cm hrubý. Mladé hlúbiky sú bruchaté alebo súdkovité. Dospelé sú kyjakovité až valcovité, často hrubšie v strede a pod klobúkom alebo k báze stenčené, a niekedy prehnuté. Vrchol je jasnožltý. Nižšie je hlúbik karmínový až ružovočervený a báza býva kalne hnedočervená alebo hnedá. Celý hlúbik býva niekedy červený. Slnko môže červenú vyblednúť a na dospelých plodniciach alebo na plodniciach ponechaných niekoľko dní môže červená zmiznúť a zostať okrovohnedá. Povrch kryje jemná až pomerne hrubá sieťka. Na vrchole je sieťka biela alebo bledožltá na žltom podklade. Nižšie je mäsovočervená, špinavočervená alebo hnedastožltá a od bázy nahor hnedne. Oká sú smerom nadol väčšie a pretiahnutejšie a na samej báze miznú. Otlačené miesta modrejú. Prsteň chýba.",
+        flesh: "Dužina je belavá, bledokrémová alebo bledožltá a v báze hlúbika často špinavo červenkastá alebo purpurová. Rezná plocha modrie alebo modrozelenie. Zmena môže byť rýchla alebo len mierna, niekedy je slabá a modrá potom vybledne. Rez môže najprv prejsť bielou, kým sa objaví modrozelená. Mladá dužina je tvrdá. Vôňa je slabá a hubová, alebo silnejšia a nepríjemná a pripomína atrament. Chuť je najprv sladkastá a potom veľmi horká. Horkosť môže v starších plodniciach slabnúť a môže sa líšiť od miesta k miestu. Dužina je v Melzerovom činidle silno amyloidná.",
+        sporePrint: "Výtrusný prach je olivovožltý, bledo okrovoolivový, olivovo tabakovohnedý alebo hnedastolivový. Bazídiospóry sú hladké, úzko elipsoidné až takmer vretenovité, asi 12–16 × 4–6 μm.",
+        habitat: "Plodnice sa objavujú od júna do decembra a najčastejšie od júla do októbra. Rastú jednotlivo alebo v skupinách, často v podhorí a v horách a zriedkavejšie v nížinách. Obvyklí partneri sú smrek, jedľa, borovica, buk a dub. V strednej Európe je huba najčastejšia so smrekom a bukom a často rastie na kyslej pôde. V Británii a Írsku je najmä na kriede alebo na inom zásaditom či neutrálnom podklade pod bukom a dubom a vyskytuje sa aj so smrekom a borovicou. V Pakistane bola zaznamenaná s himalájskym topoľom (Populus ciliata) a s jedľou Abies pindrow.",
+        uses: "Varenie horkosť neodstráni a jediná plodnica dokáže pokaziť jedlo. U niektorých ľudí sa po jej zjedení objavia žalúdočno-črevné ťažkosti. Plodnice sa jedli na ruskom Ďalekom východe a na Ukrajine.",
+        confusion: "Hríb horký (Caloboletus radicans) má na hlúbiku málo červenej alebo žiadnu, slabšiu sieťku a koreňujúcu bázu a rastie v teplých vápencových listnatých lesoch. Hríb Kluzákov (Caloboletus kluzakii) má na žltom hlúbiku tiež oveľa menej červenej a slabšiu sieťku a rastie s listnáčmi na vápencovej pôde. Caloboletus polygonius je južnejší, rastie vo vápencových listnatých lesoch, má menej sieťkovaný hlúbik a jeho dužina v Melzerovom činidle nereaguje. Hríb satanský (Rubroboletus satanas) má červené ústia pórov. Hríb siný (Suillellus luridus) má tmavší klobúk, póry, ktoré prechádzajú do oranžova až červenooranžova, a v báze hlúbika oranžovočervenú dužinu, ktorá hneď modrie. Hríb zrnitohlúbikový (Neoboletus luridiformis) má červené rúrky. Suchohríb žltomäsový (Xerocomellus chrysenteron) má hlúbik bez sieťky. Iné druhy rodu Xerocomellus sú menšie, mäkšie a štíhlejšie, s hnedým klobúkom a dužinou, ktorá nie je horká. Hríb smrekový (Boletus edulis) nemá na hlúbiku červenú a jeho póry nemodrejú. Caloboletus rubripes zo západu Severnej Ameriky je horký a má podobný klobúk a žlté póry, ktoré po otlačení modrejú, ale červenkastý hlúbik je bez sieťky. Caloboletus inedulis je menší a má biely až sivobiely klobúk. Caloboletus roseipes rastie s jedľovcom (Tsuga). Caloboletus firmus má červené póry a na hlúbiku sieťku nemá.",
+        notes: "Horká chuť pochádza najmä z kalopínu a O-acetylcyklokalopínu A. Plodnice obsahujú aj deriváty kyseliny pulvínovej, kyselinu atromentovú, variegátovú a xerokomovú, ktoré v laboratórnych skúškach tlmili enzýmy cytochrómu P450. Hlavné prchavé látky sú 3-oktanón, 3-oktanol, 1-oktén-3-ol a limonén. Na severe Slovenska ho hubári niekedy pokladajú za Rubroboletus satanas."
+      }
+    },
+    sources: {
+      en: [
+        { group: "text", name: "First Nature", href: "https://www.first-nature.com/fungi/caloboletus-calopus.php" },
+        { group: "text", name: "Wikipedia", href: "https://en.wikipedia.org/wiki/Caloboletus_calopus" },
+        { group: "text", name: "de.wikipedia", href: "https://de.wikipedia.org/wiki/Sch%C3%B6nfu%C3%9F-R%C3%B6hrling" },
+        { group: "text", name: "it.wikipedia", href: "https://it.wikipedia.org/wiki/Caloboletus_calopus" },
+        { group: "text", name: "nahuby.sk", href: "https://www.nahuby.sk/atlas-hub/Caloboletus-calopus/hrib-cerveny/hrib-krist/ID121" },
+        { group: "text", name: "Poľovníctvo a rybárstvo", href: "https://polovnictvo-rybarstvo.pluska.sk/na-hubach/huba-mesiaca-hrib-cerveny", detail: "hríb červený" },
+        { group: "text", name: "myko.cz", href: "https://www.myko.cz/myko-atlas/Caloboletus-calopus/" },
+        { group: "text", name: "botany.cz", href: "https://botany.cz/cs/boletus-calopus/" },
+        { group: "text", name: "Index Fungorum", href: "https://www.indexfungorum.org/Publications/Index%20Fungorum%20no.146.pdf", detail: "146" },
+        { group: "name", name: "Index Fungorum", href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=550547", detail: "550547" },
+        { group: "name", name: "Species Fungorum", href: "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=550547", detail: "550547" },
+        { group: "name", name: "MycoBank", href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/550547" },
+        { group: "name", name: "GBIF", href: "https://www.gbif.org/species/8203051", detail: "8203051" }
+      ],
+      sk: [
+        { group: "text", name: "nahuby.sk", href: "https://www.nahuby.sk/atlas-hub/Caloboletus-calopus/hrib-cerveny/hrib-krist/ID121", detail: "hríb červený" },
+        { group: "text", name: "Poľovníctvo a rybárstvo", href: "https://polovnictvo-rybarstvo.pluska.sk/na-hubach/huba-mesiaca-hrib-cerveny", detail: "červienka" },
+        { group: "name", name: "Index Fungorum", href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=550547", detail: "550547" },
+        { group: "name", name: "Species Fungorum", href: "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=550547", detail: "550547" },
+        { group: "name", name: "MycoBank", href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/550547" },
+        { group: "name", name: "GBIF", href: "https://www.gbif.org/species/8203051", detail: "8203051" }
+      ]
+    },
+    synonyms: [
+      "Boletus calopus Pers.",
+      "Suillus calopus (Pers.) Poir.",
+      "Dictyopus calopus (Pers.) Quél.",
+      "Tubiporus calopus (Pers.) Maire",
+      "Boletus olivaceus Schaeff.",
+      "Boletus lapidum J.F. Gmel.",
+      "Dictyopus olivaceus (Schaeff.) Quél.",
+      "Suillus olivaceus (Schaeff.) Kuntze",
+      "Tubiporus olivaceus (Schaeff.) Ricken"
+    ]
+  };
+
+  var CATALOG = [SPECIES, AMANITA, CHANTERELLE, RETICULATUS, PROCERA, PHALLOIDES, PANTHERINA, MORCHELLA, PLEUROTUS, LAETIPORUS, IMLERIA, ARMILLARIA, COPRINUS, GYROMITRA, RUBESCENS, HYPHOLOMA, AGARICUS, LECCINUM, SUILLUS, LACTARIUS, VIROSA, RUBROBOLETUS, CORTINARIUS, CRATERELLUS, FISTULINA, NEOBOLETUS, CALOCYBE, INOSPERMA, HYDNUM, SARCODON, RUSSULA, KUEHNEROMYCES, GALERINA, SPARASSIS, PAXILLUS, LEPISTA, ARTOMYCES, POLYPORUS, ALBOSTIPITATUM, HYGROPHOROPSIS, ENTOLOMA, PHALLUS, FOMES, AURICULARIA, TYLOPILUS, CHLOROPHYLLUM, EMETICA, TRICHOLOMA, LYCOPERDON, AURANTIACUM, CITRINA, PARDINUM, CALVATIA, CLITOCYBE, TRAMETES, PINOPHILUS, CALOBOLETUS];
 
   // Field key. Underside is species.hymenium. Season is the fruiting months.
   // where: wood, ground (with trees), grass. color uses the cap colours the text names.
@@ -10581,8 +10924,18 @@
     "Tricholoma pardinum": { where: ["ground"], color: ["white", "brown", "dark"] },
     "Calvatia gigantea": { where: ["ground", "grass"], color: ["white", "brown"] },
     "Clitocybe nebularis": { where: ["ground", "grass"], color: ["dark", "brown", "white"] },
-    "Trametes versicolor": { where: ["wood"], color: ["white", "yellow", "red", "brown", "green", "dark"] }
+    "Trametes versicolor": { where: ["wood"], color: ["white", "yellow", "red", "brown", "green", "dark"] },
+    "Boletus pinophilus": { where: ["ground"], color: ["brown", "red"] },
+    "Caloboletus calopus": { where: ["ground"], color: ["brown", "dark"] }
   };
+
+  var LANGS = [
+    { code: "en", name: "English" },
+    { code: "sk", name: "Slovenčina" }
+  ];
+  var PATH_LANGS = LANGS.map(function (item) { return item.code; }).filter(function (code) {
+    return code !== "en";
+  });
 
   function t(lang) {
     return COPY[lang] || COPY.en;
@@ -10619,9 +10972,17 @@
     var clean = path || "/";
     if (clean.charAt(0) !== "/") clean = "/" + clean;
     if (clean.length > 1 && clean.charAt(clean.length - 1) === "/") clean = clean.slice(0, -1);
-    if (lang === "sk") clean = clean === "/" ? "/sk" : "/sk" + clean;
+    if (lang && lang !== "en") clean = clean === "/" ? "/" + lang : "/" + lang + clean;
     if (clean === "/") return "/";
     return clean + "/";
+  }
+
+  function stripLang(path, lang) {
+    if (!lang || lang === "en") return path || "/";
+    var prefix = "/" + lang;
+    if (path === prefix) return "/";
+    if (path.indexOf(prefix + "/") === 0) return path.slice(prefix.length);
+    return path || "/";
   }
 
   function taxonLabel(name, lang) {
@@ -10748,8 +11109,8 @@
     return KEY_SEASON;
   }
 
-  function readSelection() {
-    var params = new URLSearchParams(location.search);
+  function readSelection(search) {
+    var params = new URLSearchParams(search == null ? location.search : search);
     var selection = {};
     KEY_AXES.forEach(function (axis) {
       var value = params.get(axis) || "";
@@ -10864,9 +11225,9 @@
     );
   }
 
-  function identifyPage(lang) {
+  function identifyPage(lang, search) {
     var copy = t(lang);
-    var selection = readSelection();
+    var selection = readSelection(search || "");
     var locale = lang === "sk" ? "sk" : "en";
     var number = function (n) { return n.toLocaleString(locale); };
     var underCounts = optionCounts(selection, "under");
@@ -10982,11 +11343,12 @@
     return { title: copy.keyTitle + " — " + copy.app, description: copy.keyLede, html: shell(lang, page, "identify") };
   }
 
-  function parse() {
-    var parts = location.pathname.split("/").filter(Boolean);
+  function parse(pathname) {
+    var path = pathname == null ? location.pathname : pathname;
+    var parts = path.split("/").filter(Boolean);
     var lang = "en";
-    if (parts[0] === "sk") {
-      lang = "sk";
+    if (PATH_LANGS.indexOf(parts[0]) >= 0) {
+      lang = parts[0];
       parts = parts.slice(1);
     }
     if (!parts.length) return { lang: lang, view: "home" };
@@ -11008,6 +11370,11 @@
       render();
       return;
     }
+    if (navigateTo) {
+      keepFor = "";
+      navigateTo(url);
+      return;
+    }
     history.pushState(null, "", url);
     render();
     window.scrollTo(0, 0);
@@ -11018,7 +11385,16 @@
   function writeSelection(selection) {
     var next = location.pathname + selectionSearch(selection);
     var here = location.pathname + location.search;
-    if (next !== here) history.replaceState(null, "", next);
+    if (next === here) {
+      render({ keepScroll: true });
+      return;
+    }
+    if (navigateTo) {
+      keepFor = next;
+      navigateTo(next, { replace: true });
+      return;
+    }
+    history.replaceState(null, "", next);
     render({ keepScroll: true });
   }
 
@@ -11032,8 +11408,9 @@
           '<a class="' + (active === "identify" ? "on" : "") + '" href="' + href("/identify", lang) + '">' + esc(copy.keyTitle) + "</a>" +
           '<a class="optional' + (active === "about" ? " on" : "") + '" href="' + href("/about", lang) + '">' + esc(copy.about) + "</a>" +
           '<select class="lang-select" aria-label="' + esc(copy.language) + '">' +
-            '<option value="en"' + (lang === "en" ? " selected" : "") + ">English</option>" +
-            '<option value="sk"' + (lang === "sk" ? " selected" : "") + ">Slovenčina</option>" +
+            LANGS.map(function (item) {
+              return '<option value="' + item.code + '"' + (lang === item.code ? " selected" : "") + ">" + esc(item.name) + "</option>";
+            }).join("") +
           "</select>" +
         "</nav>" +
       "</header>" +
@@ -11497,6 +11874,7 @@
     return {
       title: label + " (" + species.name + ") — " + copy.app,
       description: text.description || "",
+      image: species.plate,
       html: shell(lang, page, true)
     };
   }
@@ -11601,7 +11979,7 @@
 
   function viewModel(route) {
     if (route.view === "home") return home(route.lang);
-    if (route.view === "identify") return identifyPage(route.lang);
+    if (route.view === "identify") return identifyPage(route.lang, route.search || "");
     if (route.view === "about") return aboutPage(route.lang);
     if (route.view === "families") return indexPage(route.lang, "family");
     if (route.view === "genera") return indexPage(route.lang, "genus");
@@ -11611,22 +11989,37 @@
     return missing(route.lang);
   }
 
-  function setMeta(model, lang) {
+  function pageImage(model) {
+    if (model.image) return model.image;
+    var edulis = findSpecies("Boletus edulis");
+    return edulis ? edulis.plate : "";
+  }
+
+  function setMeta(model, lang, pathname) {
     document.title = model.title;
     document.documentElement.lang = lang;
-    var desc = model.description.slice(0, 240);
+    var desc = String(model.description || "").slice(0, 240);
     var tag = document.querySelector('meta[name="description"]');
     if (tag) tag.setAttribute("content", desc);
     var og = document.querySelector('meta[property="og:description"]');
     if (og) og.setAttribute("content", desc);
     var ogTitle = document.querySelector('meta[property="og:title"]');
     if (ogTitle) ogTitle.setAttribute("content", model.title);
+    var path = pathname == null ? location.pathname : pathname;
+    var url = "https://whatsthatmushroom.app" + (path.charAt(0) === "/" ? path : "/" + path);
     var canonical = document.querySelector('link[rel="canonical"]');
-    if (canonical) canonical.setAttribute("href", "https://whatsthatmushroom.app" + location.pathname);
+    if (canonical) canonical.setAttribute("href", url);
+    var ogUrl = document.querySelector('meta[property="og:url"]');
+    if (ogUrl) ogUrl.setAttribute("content", url);
+    var image = document.querySelector('meta[property="og:image"]');
+    var src = pageImage(model);
+    if (image && src) image.setAttribute("content", src);
   }
 
   function render(options) {
-    var keep = options && options.keepScroll;
+    var pathname = options && options.pathname != null ? options.pathname : location.pathname;
+    var search = options && options.search != null ? options.search : location.search;
+    var keep = (options && options.keepScroll) || keepFor === pathname + search;
     var filterScroll = 0;
     var y = window.scrollY;
     if (keep) {
@@ -11636,10 +12029,12 @@
       seasonOpen = false;
     }
     closeLightbox();
-    var route = parse();
+    var route = parse(pathname);
+    route.search = search;
     var model = viewModel(route);
     document.getElementById("app").innerHTML = model.html;
-    setMeta(model, route.lang);
+    setMeta(model, route.lang, pathname);
+    if (!keep) window.scrollTo(0, 0);
     if (keep) {
       window.scrollTo(0, y);
       var nextFilters = document.querySelector(".identify-filters");
@@ -11656,6 +12051,15 @@
       if (box) box.innerHTML = resultsHtml(input.value, route.lang);
     });
   }
+
+  var navigateTo = null;
+  var keepFor = "";
+  var listenersBound = false;
+
+  function bindCatalog(navigate) {
+    navigateTo = navigate;
+    if (listenersBound || typeof document === "undefined") return;
+    listenersBound = true;
 
   document.addEventListener("click", function (event) {
     var opener = event.target.closest(".photo-open");
@@ -11718,8 +12122,7 @@
   document.addEventListener("change", function (event) {
     if (!event.target.classList || !event.target.classList.contains("lang-select")) return;
     var route = parse();
-    var path = location.pathname;
-    if (route.lang === "sk") path = path.replace(/^\/sk(?=\/|$)/, "") || "/";
+    var path = stripLang(location.pathname, route.lang);
     var search = route.view === "identify" ? location.search : "";
     go(href(path, event.target.value) + search);
   });
@@ -11759,7 +12162,21 @@
     event.preventDefault();
     buttons[next].click();
   });
+  }
 
-  window.addEventListener("popstate", render);
-  render();
-})();
+  export {
+    CATALOG,
+    TAXA,
+    KEY,
+    COPY,
+    LANGS,
+    PATH_LANGS,
+    viewModel,
+    parse,
+    href,
+    findSpecies,
+    taxonNames,
+    displayName,
+    bindCatalog,
+    render
+  };
