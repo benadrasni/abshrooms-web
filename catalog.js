@@ -366,6 +366,7 @@
     Rubroboletus: { rank: "genus", sk: "hríb" },
     Neoboletus: { rank: "genus", sk: "hríb" },
     Imleria: { rank: "genus", sk: "suchohríb" },
+    Xerocomus: { rank: "genus", sk: "suchohríb" },
     Tylopilus: { rank: "genus", sk: "podhríb" },
     Caloboletus: { rank: "genus" },
     Amanita: { rank: "genus", sk: "muchotrávka" },
@@ -10865,7 +10866,598 @@
     ]
   };
 
-  var CATALOG = [SPECIES, AMANITA, CHANTERELLE, RETICULATUS, PROCERA, PHALLOIDES, PANTHERINA, MORCHELLA, PLEUROTUS, LAETIPORUS, IMLERIA, ARMILLARIA, COPRINUS, GYROMITRA, RUBESCENS, HYPHOLOMA, AGARICUS, LECCINUM, SUILLUS, LACTARIUS, VIROSA, RUBROBOLETUS, CORTINARIUS, CRATERELLUS, FISTULINA, NEOBOLETUS, CALOCYBE, INOSPERMA, HYDNUM, SARCODON, RUSSULA, KUEHNEROMYCES, GALERINA, SPARASSIS, PAXILLUS, LEPISTA, ARTOMYCES, POLYPORUS, ALBOSTIPITATUM, HYGROPHOROPSIS, ENTOLOMA, PHALLUS, FOMES, AURICULARIA, TYLOPILUS, CHLOROPHYLLUM, EMETICA, TRICHOLOMA, LYCOPERDON, AURANTIACUM, CITRINA, PARDINUM, CALVATIA, CLITOCYBE, TRAMETES, PINOPHILUS, CALOBOLETUS];
+  var XEROCOMUS_MEDIA = "photos/Boletales/Boletaceae/Xerocomus_subtomentosus/";
+  var XEROCOMUS = {
+    id: 57,
+    name: "Xerocomus subtomentosus",
+    author: "(L.) Quél.",
+    family: "Boletaceae",
+    genus: "Xerocomus",
+    order: "Boletales",
+    edibility: "edible",
+    hymenium: "tubes",
+    path: ["Fungi", "Dikarya", "Basidiomycota", "Agaricomycotina", "Agaricomycetes", "Agaricomycetidae", "Boletales", "Boletaceae", "Xerocomus"],
+    summary: ["Boletales", "Boletaceae", "Xerocomus"],
+    added: "2026-10-24",
+    plate: STORAGE + XEROCOMUS_MEDIA + "Xerocomus_subtomentosus@1600.webp",
+    plateGrid: STORAGE + XEROCOMUS_MEDIA + "Xerocomus_subtomentosus@400.webp",
+    plateCredit: {
+      author: "L. Dufour",
+      license: "public domain",
+      source: "https://www.biodiversitylibrary.org/page/3270629"
+    },
+    photos: [
+      {
+        src: STORAGE + XEROCOMUS_MEDIA + "xs1.webp",
+        author: "Gerhard Koller",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:2012-06-15_Xerocomus_subtomentosus_(L.)_Fr_228138.jpg"
+      },
+      {
+        src: STORAGE + XEROCOMUS_MEDIA + "xs2.webp",
+        author: "Daniel Ullrich",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Boletus_subtomentosus.jpg"
+      },
+      {
+        src: STORAGE + XEROCOMUS_MEDIA + "xs3.webp",
+        author: "Holger Krisp",
+        license: "CC BY 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Ziegenlippe_Xerocomus_subtomentosus.jpg"
+      },
+      {
+        src: STORAGE + XEROCOMUS_MEDIA + "xs4.webp",
+        author: "Thomas Pruß",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Ziegenlippe.jpg"
+      },
+      {
+        src: STORAGE + XEROCOMUS_MEDIA + "xs5.webp",
+        author: "mangoblatt",
+        license: "CC0",
+        licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/",
+        source: "https://commons.wikimedia.org/wiki/File:Xerocomus_subtomentosus_flesh_cut.jpg"
+      }
+    ],
+    capFrom: 3,
+    capTo: 12,
+    stipeHeightFrom: 4,
+    stipeHeightTo: 12,
+    stipeThickFrom: 1,
+    stipeThickTo: 2,
+    fruitingFrom: 6,
+    fruitingTo: 10,
+    label: { en: "suede bolete", sk: "suchohríb plstnatý" },
+    names: {
+      en: ["brown and yellow bolete", "boring brown bolete", "yellow-cracked bolete", "yellow cracking bolete"],
+      sk: ["hríb plstnatý", "suchohríb plstený"]
+    },
+    text: {
+      en: {
+        description: "An ectomycorrhizal bolete of broadleaf and mixed woods. It is widespread in Europe, common in the lowlands and hills and infrequent in Britain and Ireland, and it is reported from Asia, North America, Australia, Morocco under cork oak, and western Greenland with downy birch.",
+        cap: "The cap is typically 3–12 cm across, and exceptionally about 20 cm. It starts hemispherical, then becomes convex to flat, often with a wavy margin. The surface is dry and velvety or felty, later smoother, and in dry weather it cracks to yellowish or whitish flesh. The colour runs from olive and yellow-olive through ochre and tan to brown, and some caps are brick red, bright yellow, or red. The cuticle is hard to peel. Ammonia or potassium hydroxide turns it mahogany red at once. It is described both as a palisadoderm of septate cylindrical cells, smooth or nearly smooth, and as a fibrous trichoderm.",
+        hymenium: "The tubes are chrome yellow to bright yellow, later olive-yellow, about 5–15 mm deep, and adnate or slightly decurrent. They tear rather than pull apart cleanly. The pores are large and angular, the same colour, and about 1–3 mm across when old. They usually bruise blue or blue-green, though not on every fruit body, and a bruise may later turn brownish. On some fruit bodies the tubes scarcely blue. The basidia are clavate and four-spored, about 25–34 × 6.5–9 μm. The pleurocystidia are lanceolate and smooth, about 47–72 × 8–12 μm.",
+        stipe: "The stipe has no ring. It is cylindrical to spindle-shaped, often tapered or pointed at the base, and sometimes slightly swollen. It is typically 4–12 cm long, sometimes to 14 cm, and about 0.5–2 cm thick, sometimes to 2.5 cm. It is yellow, paler or brownish below, with brown, pinkish, or reddish granules or longitudinal ribs that can look like a coarse dotted net. The surface does not change when bruised. The basal mycelium is whitish, and some mycelial strands may be yellow.",
+        flesh: "The flesh is whitish to yellow, deeper yellow above the tubes, and pinkish or pinkish brown in the lower stipe. Cut flesh in the cap blues faintly or not at all, and the stipe flesh may flush slightly reddish. The cap flesh becomes soft. The stipe flesh stays fibrous and firm and browns toward the base. The taste is mild or somewhat acid. The odour is mild or not distinctive, sometimes slightly acid, and the stipe base of older fruit bodies can smell of iodoform.",
+        sporePrint: "Olive-brown to brownish olive. The spores are smooth under a light microscope, narrowly ellipsoid to subfusiform, with a shallow suprahilar depression, about 9–15 × 4–6 μm. Under an electron microscope the surface shows an ornament.",
+        habitat: "Fruit bodies appear singly or in small groups, from June to the end of October in central Europe and from August to October in Britain and Ireland. They grow in broadleaf and mixed woods and in parkland, mostly with oak, and also with beech, hornbeam, and birch, including the edges of conifer plantations where birch and willow grow. In Britain they are often on calcareous ground. Where the species is kept strictly with oak, including on pond banks in the lowlands and hills, records under other trees are treated as unreliable.",
+        uses: "It is edible and suitable in mixed dishes, and it can be dried. It is not highly regarded. The cap skin is sometimes bitter, and the tough bases of older stipes are left out.",
+        confusion: "Xerocomus ferrugineus has whitish, unchanging flesh, including in the stipe base, yellow basal mycelium, and pores that are olive even when young. It grows mostly with conifers, or with beech, birch, and willow, and not with oak. Xerocomus chrysonemus has bright yellow flesh in the stipe base and yellow basal mycelium, and the flesh usually does not blue. Xerocomus silwoodensis has a darker reddish-brown cap, grows with Populus, and has whitish flesh that becomes yellowish in the air. Xerocomellus chrysenteron cracks to pink or red flesh, is often smaller and softer, and has a reddish stipe that is usually not tapered. Aureoboletus moravicus smells of dill and coconut, has a brown line above the tubes, and does not blue. Imleria badia has a darker cap, blues more strongly, and is slimy or sticky when wet. Red-capped forms are separated from the group around Xerocomellus rubellus by the pinkish or pinkish-brown flesh in the stipe base and by cap-cuticle cells that are weakly incrusted or smooth.",
+        notes: "It was long confused in Europe with Xerocomus ferrugineus, and finds away from oak are now treated as unreliable and likely that species. A 2012 analysis of caps from the Notec Forest in western Poland found abundant potassium, phosphorus, and magnesium, with mean values of 46000, 8400, and 1100 mg/kg dry weight, and found that cadmium, mercury, and lead did not pose a threat to a consumer."
+      },
+      sk: {
+        description: "Ektomykorízna huba listnatých a zmiešaných lesov. V Európe je rozšírená, v nížinách a pahorkatinách hojná a v Británii a Írsku zriedkavejšia. Uvádzaná je z Ázie, Severnej Ameriky a Austrálie, z Maroka pod dubom korkovým a zo západného Grónska s brezou plstnatou.",
+        cap: "Klobúk máva v priemere 3–12 cm a výnimočne asi 20 cm. Najprv je polguľovitý, potom klenutý až plochý, často so zvlneným okrajom. Povrch je suchý a zamatový alebo plstnatý, neskôr hladší, a v suchom počasí puká na žltkastú alebo belavú dužinu. Farba prechádza od olivovej a žltoolivovej cez okrovú a svetlohnedú po hnedú a niektoré klobúky sú tehlovočervené, jasnožlté alebo červené. Pokožka sa ťažko lúpe. Amoniak alebo hydroxid draselný ju hneď sfarbí na mahagónovočerveno. Opisuje sa jednak ako palisádoderm zo septovaných valcovitých buniek, hladkých alebo takmer hladkých, jednak ako vláknitý trichoderm.",
+        hymenium: "Rúrky sú chrómovožlté až jasnožlté, neskôr olivovožlté, asi 5–15 mm hlboké a prirastené alebo mierne zbiehavé. Skôr sa trhajú, než by sa čisto oddelili. Póry sú veľké a hranaté, rovnakej farby a v starobe asi 1–3 mm široké. Zvyčajne otlačením modrejú alebo modrozelenejú, hoci nie na každej plodnici, a otlačenie môže neskôr zhnednúť. Na niektorých plodniciach rúrky takmer nemodrejú. Bazídiá sú kyjačkovité a štvorvýtrusné, asi 25–34 × 6,5–9 μm. Pleurocystidy sú kopijovité a hladké, asi 47–72 × 8–12 μm.",
+        stipe: "Hlúbik nemá prsteň. Je valcovitý až vretenovitý, často k báze stenčený alebo zahrotený a niekedy mierne zhrubnutý. Býva dlhý 4–12 cm, niekedy až 14 cm, a hrubý asi 0,5–2 cm, niekedy až 2,5 cm. Je žltý, nižšie bledší alebo hnedastý, s hnedými, ružkastými alebo červenkastými zrnkami alebo s pozdĺžnymi rebrami, ktoré vyzerajú ako hrubá bodkovaná sieťka. Povrch sa po otlačení nemení. Bazálne mycélium je belavé a niektoré vlákna môžu byť žlté.",
+        flesh: "Dužina je belavá až žltá, nad rúrkami sýtejšie žltá a v dolnej časti hlúbika ružkastá alebo ružovohnedá. Dužina klobúka po reze slabo modrie alebo vôbec nemodrie a dužina hlúbika môže slabo sčervenať. Dužina klobúka mäkne. Dužina hlúbika zostáva vláknitá a pevná a k báze hnedne. Chuť je mierna alebo mierne kyslastá. Vôňa je mierna alebo nevýrazná, niekedy mierne kyslastá, a báza hlúbika starších plodníc môže voňať po jodoforme.",
+        sporePrint: "Výtrusný prach je olivovohnedý až hnedastoolivový. Výtrusy sú pod svetelným mikroskopom hladké, úzko elipsoidné až takmer vretenovité, s plytkou suprahilárnou priehlbinou, asi 9–15 × 4–6 μm. Pod elektrónovým mikroskopom má povrch ornamentiku.",
+        habitat: "Plodnice sa objavujú jednotlivo alebo v malých skupinách, v strednej Európe od júna do konca októbra a v Británii a Írsku od augusta do októbra. Rastú v listnatých a zmiešaných lesoch a v parkoch, najmä s dubom, a tiež s bukom, hrabom a brezou, aj na okrajoch ihličnatých výsadieb, kde rastie breza a vŕba. V Británii bývajú často na vápnitom podklade. Tam, kde sa za tento druh pokladajú len plodnice pod dubom, aj na brehoch rybníkov v nížinách a pahorkatinách, sú nálezy pod inými stromami nespoľahlivé.",
+        uses: "Je jedlá, hodí sa do zmesí a dá sa sušiť. Nie je veľmi cenená. Pokožka klobúka býva niekedy horká a tuhé bázy starších hlúbikov sa vynechávajú.",
+        confusion: "Suchohríb červenohnedý (Xerocomus ferrugineus) má belavú, nemennú dužinu aj v báze hlúbika, žlté bazálne mycélium a póry, ktoré sú olivové už za mladi. Rastie najmä s ihličnanmi alebo s bukom, brezou a vŕbou, nie s dubom. Xerocomus chrysonemus má v báze hlúbika jasnožltú dužinu a žlté bazálne mycélium a dužina zvyčajne nemodrie. Suchohríb topoľový (Xerocomus silwoodensis) má tmavší červenohnedý klobúk, rastie s topoľom (Populus) a má belavú dužinu, ktorá na vzduchu žltne. Suchohríb žltomäsový (Xerocomellus chrysenteron) v puklinách ukazuje ružovú alebo červenú dužinu, býva často menší a mäkší a má červenkastý hlúbik, ktorý zvyčajne nie je stenčený. Aureoboletus moravicus vonia po kôpri a kokose, má nad rúrkami hnedú líniu a nemodrie. Suchohríb hnedý (Imleria badia) má tmavší klobúk, silnejšie modrie a za vlhka je slizký alebo lepkavý. Červenoklobúkové formy sa od okruhu suchohríba karmínového (Xerocomellus rubellus) líšia ružkastou alebo ružovohnedou dužinou v báze hlúbika a bunkami pokožky klobúka, ktoré sú slabo inkrustované alebo hladké.",
+        notes: "Dlho sa v Európe zamieňala s Xerocomus ferrugineus a nálezy mimo dubu sa dnes pokladajú za nespoľahlivé a pravdepodobne patria tomu druhu. Rozbor klobúkov z roku 2012 z Notečského lesa v západnom Poľsku zistil hojný draslík, fosfor a horčík, s priemernými hodnotami 46000, 8400 a 1100 mg/kg sušiny, a kadmium, ortuť a olovo pre konzumenta nepredstavovali hrozbu."
+      }
+    },
+    sources: {
+      en: [
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/boletus-subtomentosus.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Xerocomus_subtomentosus"
+        },
+        {
+          group: "text",
+          name: "Boletales.com",
+          href: "https://boletales.com/genera/xerocomus/x-subtomentosus/"
+        },
+        {
+          group: "text",
+          name: "antropocene.it",
+          href: "https://antropocene.it/en/2022/12/10/boletus-subtomentosus-2/"
+        },
+        {
+          group: "text",
+          name: "myko.cz",
+          href: "https://www.myko.cz/myko-atlas/Xerocomus-subtomentosus/"
+        },
+        {
+          group: "text",
+          name: "cs.wikipedia",
+          href: "https://cs.wikipedia.org/wiki/H%C5%99ib_plstnat%C3%BD"
+        },
+        {
+          group: "text",
+          name: "sk.wikipedia",
+          href: "https://sk.wikipedia.org/wiki/Suchohr%C3%ADb_plstnat%C3%BD"
+        },
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=121483",
+          detail: "121483"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=121483",
+          detail: "121483"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=216300",
+          detail: "216300"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/121483"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2519457",
+          detail: "2519457"
+        }
+      ],
+      sk: [
+        {
+          group: "text",
+          name: "sk.wikipedia",
+          href: "https://sk.wikipedia.org/wiki/Suchohr%C3%ADb_plstnat%C3%BD",
+          detail: "suchohríb plstnatý"
+        }
+      ]
+    },
+    synonyms: [
+      "Boletus subtomentosus L.",
+      "Tubiporus subtomentosus (L.) Paulet",
+      "Leccinum subtomentosum (L.) Gray",
+      "Rostkovites subtomentosus (L.) P. Karst.",
+      "Versipellis subtomentosa (L.) Quél.",
+      "Suillus subtomentosus (L.) Kuntze",
+      "Ceriomyces subtomentosus (L.) Murrill",
+      "Xerocomopsis subtomentosa (L.) Reichert",
+      "Boletus cupreus Schaeff.",
+      "Boletus crassipes Schaeff.",
+      "Boletus striipes Secr. ex Fr.",
+      "Xerocomus striaepes (Secr. ex Fr.) Quél.",
+      "Suillus striipes (Secr. ex Fr.) Kuntze",
+      "Boletus pannosus Rostk.",
+      "Suillus pannosus (Rostk.) Kuntze",
+      "Boletus lanatus Rostk.",
+      "Suillus lanatus (Rostk.) Kuntze",
+      "Xerocomus lanatus (Rostk.) Singer",
+      "Boletus leguei Boud.",
+      "Suillus leguei (Boud.) Kuntze",
+      "Xerocomus leguei (Boud.) Montegut ex Bon",
+      "Xerocomus marginalis (Boud.) E.-J. Gilbert",
+      "Boletus xanthus (E.-J. Gilbert) Merlo",
+      "Xerocomus xanthus (E.-J. Gilbert) Curreli"
+    ]
+  };
+
+  var VERSIPLLE_MEDIA = "photos/Boletales/Boletaceae/Leccinum_versipelle/";
+  var VERSIPLLE = {
+    id: 58,
+    name: "Leccinum versipelle",
+    author: "(Fr.) Snell",
+    family: "Boletaceae",
+    genus: "Leccinum",
+    order: "Boletales",
+    edibility: "edible",
+    hymenium: "tubes",
+    path: ["Fungi", "Dikarya", "Basidiomycota", "Agaricomycotina", "Agaricomycetes", "Agaricomycetidae", "Boletales", "Boletaceae", "Leccinum"],
+    summary: ["Boletales", "Boletaceae", "Leccinum"],
+    added: "2026-10-24",
+    plate: STORAGE + VERSIPLLE_MEDIA + "Leccinum_versipelle@1600.webp",
+    plateGrid: STORAGE + VERSIPLLE_MEDIA + "Leccinum_versipelle@400.webp",
+    plateCredit: {
+      author: "L. Dufour",
+      license: "public domain",
+      source: "https://commons.wikimedia.org/wiki/File:Atlas_des_champignons_comestibles_et_v%C3%A9n%C3%A9neux_(Planche_58)_(6358027377).jpg"
+    },
+    photos: [
+      {
+        src: STORAGE + VERSIPLLE_MEDIA + "lv1.webp",
+        author: "Tommi Nummelin",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Koivunpunikkitatti.JPG"
+      },
+      {
+        src: STORAGE + VERSIPLLE_MEDIA + "lv2.webp",
+        author: "Sanja565658",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Leccinum_versipelle_01.JPG"
+      },
+      {
+        src: STORAGE + VERSIPLLE_MEDIA + "lv3.webp",
+        author: "Randi Hausken",
+        license: "CC BY-SA 2.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0",
+        source: "https://commons.wikimedia.org/wiki/File:Leccinum_versipelle_-_Orange_Birch_Bolete_-_R%C3%B8dskrubb.jpg"
+      },
+      {
+        src: STORAGE + VERSIPLLE_MEDIA + "lv4.webp",
+        author: "Lukas",
+        license: "CC BY-SA 2.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0",
+        source: "https://commons.wikimedia.org/wiki/File:Leccinum_versipelle_(46507493412).jpg"
+      },
+      {
+        src: STORAGE + VERSIPLLE_MEDIA + "lv5.webp",
+        author: "CheloVechek",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Boletus_versipellis.jpg"
+      }
+    ],
+    capFrom: 4,
+    capTo: 20,
+    stipeHeightFrom: 8,
+    stipeHeightTo: 22,
+    stipeThickFrom: 2,
+    stipeThickTo: 7,
+    fruitingFrom: 5,
+    fruitingTo: 11,
+    label: { en: "orange birch bolete", sk: "kozák žltooranžový" },
+    names: { en: ["dark-stalked bolete"] },
+    text: {
+      en: {
+        description: "An ectomycorrhizal mushroom of birch woods, heaths, and scrub, solitary or in scattered groups. It is fairly common in Britain and Ireland and widespread through mainland Europe, from Scandinavia south to Portugal, Spain, and Italy, and east to Russia. It also occurs in parts of North America, including southeast Alaska.",
+        cap: "The cap is 4–20 cm across. It is hemispherical and rather thin when very young, then thickly fleshy, broadly convex or cushion-shaped, and it seldom flattens completely. The surface is matt and minutely downy or felted, usually dry, and sometimes slightly greasy in wet weather. The colour is yellow-orange, orange, reddish orange, or orange-brown, and a rare pale form is almost white, sometimes with a pink or orange tint. The cuticle overhangs the margin by about 2–4 mm when young, often as a ragged flap, and that overhang later disappears.",
+        hymenium: "The tubes are about 8–25 mm long, greyish white to mouse-grey or brownish grey, and nearly free or deeply depressed around the stipe. The pores are tiny, about 0.5 mm across, and round. They are grey, olive grey-brown, or mouse-grey when young and become paler, ochraceous, or brown with age. Bruised pores turn brownish or violaceous grey. The basidia are four-spored, and cystidia occur on the tube surface.",
+        stipe: "The stipe is 8–22 cm long and 2–7 cm thick, often nearer 2–4 cm, with no ring. It is elongated and club-shaped or ventricose when young and later more nearly cylindrical, and in maturity it is almost always narrower under the cap than at the base. The surface is white, pale grey, or yellowish grey, and from the start it is covered with contrasting grey-black to black woolly scales.",
+        flesh: "The flesh is whitish and firm when young. On cutting it may flush pink or reddish, then grey or violet-grey, and finally blackish. The cap flesh can be slow to change, turning grey only gradually before it blackens with a violet tinge, while the stipe, especially the base, turns blue-green and then almost black. Dried flesh becomes black. In older fruit bodies the cap softens, and the stipe base stays fibrous and can become woody. The odour is mild, and the taste is mild, pleasant, or sweet.",
+        sporePrint: "Ochraceous brown to olive-brown or yellow-brown. The spores are narrowly ellipsoid to fusiform and thin-walled, mostly 11–16.5 × 3.5–5 μm, with a length-to-width ratio near 3.5, and they are inamyloid. Occasional spores are as short as about 9 μm.",
+        habitat: "Fruit bodies appear from May to November. Central European records run from May to October, British and Irish ones from July to September, and broader European accounts from July or August into November. They grow on the ground with birch, on sandy, slightly acidic, or loamy soils, in deciduous and mixed woodland, heath, and scrub, in copses, and along paths, sometimes where conifers are also present. They can be locally abundant.",
+        uses: "Young, firm fruit bodies are a good edible mushroom when thoroughly cooked, though a cep is better in flavour and texture. Raw or undercooked fruit bodies can cause nausea and vomiting, so they need frying or boiling for 15–20 minutes. The flesh turns black when cooked. It is gathered for food in Finland, Latvia, Lithuania, Estonia, Belarus, southeast Alaska, and Russia, and in Czechia it is sold in markets.",
+        confusion: "Leccinum scabrum also grows with birch. It has a brown cap, and the stipe flesh does not show a marked colour change when cut. Leccinum albostipitatum grows with aspen. Its stipe stays white well into maturity, and the pore mouths are whitish when very young. Leccinum aurantiacum usually grows with oak or aspen, has reddish scales on the stipe, and likewise has whitish pore mouths when young. Leccinum piceinum grows with spruce, and Leccinum vulpinum grows with pine. Their stipe scales are brown rather than black.",
+        notes: "Following DNA analysis, many accounts treat Leccinum cerinum, Leccinum percandidum, and Leccinum roseotinctum as colour forms of this species. A 2025 assessment lists it as Least Concern. It has a wide distribution and a large, stable population, and no major threat is identified."
+      },
+      sk: {
+        description: "Ektomykorízna huba brezových lesov, vresovísk a krovín, rastie jednotlivo alebo v roztrúsených skupinách. V Británii a Írsku je pomerne hojná a v kontinentálnej Európe rozšírená, od Škandinávie na juh po Portugalsko, Španielsko a Taliansko a na východ po Rusko. Vyskytuje sa aj v častiach Severnej Ameriky vrátane juhovýchodnej Aljašky.",
+        cap: "Klobúk má 4–20 cm v priemere. Za mladi je polguľovitý a pomerne tenký, potom hrubo mäsitý, široko klenutý alebo vankúšovitý a len zriedka sa celkom sploští. Povrch je matný a jemne páperistý alebo plstnatý, zvyčajne suchý a za vlhka niekedy mierne mastný. Farba je žltooranžová, oranžová, červenooranžová alebo oranžovohnedá a zriedkavá bledá forma je takmer biela, niekedy s ružovým alebo oranžovým nádychom. Pokožka za mladi previsá nad okraj asi o 2–4 mm, často ako ostrapkaná blanka, a tento previs neskôr mizne.",
+        hymenium: "Rúrky sú asi 8–25 mm dlhé, sivobiele až myšavosivé alebo hnedosivé a pri hlúbiku takmer voľné alebo hlboko vykrojené. Póry sú drobné, asi 0,5 mm široké, a okrúhle. Za mladi sú sivé, olivovosivohnedé alebo myšavosivé a vekom blednú, sfarbujú sa do okrova alebo hnednú. Otlačené póry sa sfarbujú na hnedo alebo na fialovosivo. Bazídiá sú štvorvýtrusové a na povrchu rúrok sú cystidy.",
+        stipe: "Hlúbik je 8–22 cm dlhý a 2–7 cm hrubý, často skôr 2–4 cm, a nemá prsteň. Je predĺžený a za mladi kyjakovitý alebo bruchatý, neskôr takmer valcovitý a v dospelosti je takmer vždy pod klobúkom užší ako na báze. Povrch je biely, svetlosivý alebo žltkastosivý a od začiatku ho kryjú kontrastné sivočierne až čierne vlnené šupinky.",
+        flesh: "Dužina je belavá a za mladi pevná. Na reze môže zružovieť alebo sčervenať, potom siveje alebo fialovosivie a napokon černie. Dužina klobúka sa môže meniť pomaly, najprv len postupne siveje a potom černie s fialovým nádychom, kým hlúbik, najmä báza, zmodrozelenie a potom takmer sčernie. Usušená dužina sčernie. V starších plodniciach klobúk mäkkne a báza hlúbika ostáva vláknitá a môže zdrevnatieť. Vôňa je mierna a chuť mierna, príjemná alebo sladkastá.",
+        sporePrint: "Výtrusný prach je okrovohnedý až olivovohnedý alebo žltohnedý. Výtrusy sú úzko elipsoidné až vretenovité a tenkostenné, väčšinou 11–16,5 × 3,5–5 μm, s pomerom dĺžky k šírke okolo 3,5, a sú neamyloidné. Ojedinelé výtrusy sú krátke len asi 9 μm.",
+        habitat: "Plodnice sa objavujú od mája do novembra. Stredoeurópske údaje siahajú od mája do októbra, britské a írske od júla do septembra a širšie európske od júla alebo augusta do novembra. Rastú na zemi s brezou, na piesočnatých, slabo kyslých alebo hlinitých pôdach, v listnatých a zmiešaných lesoch, na vresoviskách a v krovinách, v hájikoch a pozdĺž ciest, niekedy aj tam, kde sú prítomné ihličnany. Miestami bývajú hojné.",
+        uses: "Mladé pevné plodnice sú po dôkladnej tepelnej úprave dobré jedlé huby, hoci Boletus edulis je chuťou aj konzistenciou lepší. Surové alebo nedostatočne tepelne upravené plodnice môžu spôsobiť nevoľnosť a vracanie, preto ich treba 15–20 minút smažiť alebo variť. Dužina pri tepelnej úprave černie. Na jedlo sa zbiera vo Fínsku, Lotyšsku, Litve, Estónsku, Bielorusku, na juhovýchodnej Aljaške a v Rusku a v Česku sa predáva na trhoch.",
+        confusion: "Kozák brezový (Leccinum scabrum) rastie tiež s brezou. Má hnedý klobúk a dužina hlúbika na reze nejaví výraznú zmenu farby. Kozák osikový (Leccinum albostipitatum) rastie s osikou. Jeho hlúbik ostáva biely dlho do dospelosti a ústia pórov sú za veľmi mladých plodníc belavé. Kozák dubový (Leccinum aurantiacum) rastie zvyčajne s dubom alebo s osikou, má na hlúbiku červenkasté šupinky a za mladi má tiež belavé ústia pórov. Kozák smrekový (Leccinum piceinum) rastie so smrekom a kozák sosnový (Leccinum vulpinum) s borovicou. Ich šupinky na hlúbiku sú hnedé, nie čierne.",
+        notes: "Po analýze DNA mnohé spracovania pokladajú Leccinum cerinum, Leccinum percandidum a Leccinum roseotinctum za farebné formy tohto druhu. Hodnotenie z roku 2025 ho uvádza ako málo dotknutý druh (Least Concern). Má široké rozšírenie a veľkú, stabilnú populáciu a nie je známa žiadna veľká hrozba. Na Slovensku rastie pod brezami."
+      }
+    },
+    sources: {
+      en: [
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/leccinum-versipelle.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Leccinum_versipelle"
+        },
+        {
+          group: "text",
+          name: "myko.cz",
+          href: "https://www.myko.cz/myko-atlas/Leccinum-versipelle/"
+        },
+        {
+          group: "text",
+          name: "MycoDB",
+          href: "https://www.mycodb.fr/fiche.php?genre=Leccinum&espece=versipelle"
+        },
+        {
+          group: "text",
+          name: "IUCN",
+          href: "https://www.iucnredlist.org/species/122090640/277348262"
+        },
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=287526",
+          detail: "287526"
+        },
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=168210",
+          detail: "168210"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=287526",
+          detail: "287526"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=17918",
+          detail: "17918"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/287526",
+          detail: "287526"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2524490",
+          detail: "2524490"
+        }
+      ],
+      sk: [
+        {
+          group: "name",
+          name: "Beliana",
+          href: "https://beliana.sav.sk/heslo/kozak",
+          detail: "kozák žltooranžový"
+        }
+      ]
+    },
+    synonyms: [
+      "Boletus versipellis Fr. & Hök",
+      "Krombholziella versipellis (Fr. & Hök) Bon",
+      "Suillus versipellis (Fr. & Hök) Kuntze",
+      "Leccinum roseotinctum Watling",
+      "Krombholziella roseotincta (Watling) Šutara",
+      "Boletus roseotinctus (Watling) Hlaváček",
+      "Leccinum cerinum M. Korhonen",
+      "Leccinum callitrichum Redeuilh",
+      "Boletus rufescens Secr. ex Konrad",
+      "Krombholziella rufescens (Secr. ex Konrad) Šutara",
+      "Leccinum rufescens (Secr. ex Konrad) Šutara",
+      "Krombholzia rufescens (Secr. ex Konrad) Singer",
+      "Trachypus rufescens (Secr. ex Konrad) Romagn.",
+      "Leccinum testaceoscabrum Secr. ex Singer",
+      "Boletus percandidus Vassilkov",
+      "Krombholziella percandida (Vassilkov) Šutara",
+      "Leccinum percandidum (Vassilkov) Watling",
+      "Boletus percandidus J. Blum",
+      "Leccinum percandidum (J. Blum) Lannoy & Estadès"
+    ]
+  };
+
+
+  var DURIUSCULUM_MEDIA = "photos/Boletales/Boletaceae/Leccinum_duriusculum/";
+  var DURIUSCULUM = {
+    id: 59,
+    name: "Leccinum duriusculum",
+    author: "(Schulzer ex Kalchbr.) Singer",
+    family: "Boletaceae",
+    genus: "Leccinum",
+    order: "Boletales",
+    edibility: "choice",
+    hymenium: "tubes",
+    path: ["Fungi", "Dikarya", "Basidiomycota", "Agaricomycotina", "Agaricomycetes", "Agaricomycetidae", "Boletales", "Boletaceae", "Leccinum"],
+    summary: ["Boletales", "Boletaceae", "Leccinum"],
+    added: "2026-10-24",
+    plate: STORAGE + DURIUSCULUM_MEDIA + "Leccinum_duriusculum@1600.webp",
+    plateGrid: STORAGE + DURIUSCULUM_MEDIA + "Leccinum_duriusculum@400.webp",
+    plateCredit: {
+      author: "Gemini",
+      license: "not stated"
+    },
+    photos: [
+      {
+        src: STORAGE + DURIUSCULUM_MEDIA + "ld1.webp",
+        author: "Nicolò Parrino",
+        license: "CC BY 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Leccinum_duriusculum_1.jpg"
+      },
+      {
+        src: STORAGE + DURIUSCULUM_MEDIA + "ld2.webp",
+        author: "Allar Antson",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Leccinum_duriusculum_4.jpg"
+      },
+      {
+        src: STORAGE + DURIUSCULUM_MEDIA + "ld3.webp",
+        author: "František Šaržík",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Leccinum_duriusculum_6.jpg"
+      },
+      {
+        src: STORAGE + DURIUSCULUM_MEDIA + "ld4.webp",
+        author: "Pumber",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Nyarfaerdestinoru.jpg"
+      },
+      {
+        src: STORAGE + DURIUSCULUM_MEDIA + "ld5.webp",
+        author: "Gerhard Koller",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Leccinum_duriusculum_254194.jpg"
+      }
+    ],
+    capFrom: 4,
+    capTo: 16,
+    stipeHeightFrom: 5,
+    stipeHeightTo: 20,
+    stipeThickFrom: 1,
+    stipeThickTo: 5,
+    fruitingFrom: 5,
+    fruitingTo: 10,
+    label: {
+      en: "slate bolete",
+      sk: "kozák topoľový"
+    },
+    names: {},
+    text: {
+      en: {
+        description: "An ectomycorrhizal mushroom of poplar and aspen woods, parks, and roadsides. It is widespread in temperate Europe, from Britain and Ireland through central and southern Europe to Scandinavia, and east into Siberia, and it also fruits under planted poplars beyond that range.",
+        cap: "The cap is usually 4–16 cm across, and a robust fruit body may reach about 20–25 cm. It is almost spherical or hemispherical at first, then convex to cushion-shaped, sometimes with a slightly depressed centre. The cuticle is finely downy or velvety when young and smoother later, dry and matt, and viscid or slimy in wet weather once mature. The colour runs from pale grey, buff, and grey-brown to umber, sepia, or reddish brown, sometimes paler or yellowish toward the margin. The margin often overhangs the tubes as a thin flap. The surface may crack finely with age, but it does not break into coarse patches and it is not pitted.",
+        hymenium: "The tubes are 10–30 mm long and depressed to nearly free around the stipe, sometimes broadly adnate. They are white or cream at first, then grey or dirty cream. The pores are small and round, about 0.3–0.5 mm across, the same colour as the tubes, and may take on an olive tint with age. They are not yellow. Bruised pores turn brownish, and some collections flush pink before they darken. The basidia are clavate and four-spored, about 20–37 × 6–9 μm, without clamp connections. Cystidia are abundant on the pore edge, lageniform and often with a long neck, about 20–75 × 5.5–17 μm and narrowing to a neck 2–4 μm wide, colourless or with brown contents.",
+        stipe: "The stipe is 5–20 cm long and 1–5 cm thick, cylindrical, swollen in the middle, or club-shaped, often narrower under the cap and thicker toward the base, with no ring. It is white, cream, or greyish, covered with fine scales that are pale brown at first and darken to brown-black, especially toward the base, sometimes arranged in longitudinal rows or joined into a loose net. On a young fruit body the scales at the apex stay white, leaving a pale zone under the cap until the cap expands. The base is often spotted blue-green. The upper third is sometimes finely ribbed.",
+        flesh: "The flesh is white and stays firm and compact for a long time, softening in the cap only when fully mature, while the stipe remains hard and fibrous. Cut flesh in the cap and the upper stipe turns salmon-pink to reddish and holds that colour for a long time, then grey-violet or grey-black. It does not always blacken completely. The flesh in the stipe base, which may already be yellowish green, turns blue-green. Formalin turns the flesh an intense red. The smell is weak and pleasant, and the taste is mild.",
+        sporePrint: "Olive-brown to yellow-brown. The spores are fusiform to ellipsoid, smooth, and often guttulate, about 12–18 × 4.5–6 μm. Published measurements also run as small as about 9–13 × 3.5–6 μm and as large as about 16–20 × 5–7 μm.",
+        habitat: "Fruit bodies appear from May to October: from late summer into autumn in Britain, from June into early October in central Europe, and from August to October in Slovakia. They grow on the ground, singly or in groups and sometimes in small clusters, in open woodland, at wood and meadow edges, in parks and cemeteries, and on roadsides, with poplars, especially white poplar and aspen, including planted trees, and they may stand several metres from the trunk. They can fruit in fairly dry weather. Accounts differ on the soil: some describe a preference for calcareous ground and others for acidic ground.",
+        uses: "Young, firm fruit bodies are a choice edible when thoroughly cooked, and the fibrous base of the stipe is best left out. The flesh stays firmer and less watery than that of other Leccinum species, and the taste is excellent, particularly after drying. It should not be eaten raw.",
+        notes: "A 2025 assessment lists it as Least Concern. It has a wide distribution and a large, stable population, and no major threat is identified. In Britain and Ireland it is infrequent and mostly southern and southeastern, and it is scarce enough that collecting it is discouraged. In Slovakia it is very rare, though regular on its sites. In Czechia it was long treated as uncommon and has been found more often in recent decades. Around Novosibirsk it fruits under planted white poplars in a mixed birch wood.",
+        confusion: "Leccinum scabrum grows with birch. Its flesh stays white or only faintly pink, and the stipe base does not turn blue-green. Leccinum versipelle also grows with birch. It has an orange-ochre cap, and the flesh bruises blue-green or violaceous grey. Leccinum variicolor grows with birch and has a mottled cap with paler patches, while this species has a more even cap and grows with poplar. Leccinum pseudoscabrum grows with hornbeam. Its cap is pitted, its pores become yellowish, and the flesh blackens more completely. Leccinum cyaneobasileucum grows with birch and is smaller. Its stipe base stains blue, and the flesh turns pink and then slowly blue. Leccinellum crocipodium grows with oak, beech, and hornbeam, has an ochre-yellow to yellow-brown cap, and does not stain blue-green at the stipe base. Leccinum rufum var. decipiens also grows with aspen. Its stipe scales stay pale for a long time, and the cap cuticle overhangs more strongly. Leccinum fuscoalbum has a darker brown cap, and the flesh blackens more strongly."
+      },
+      sk: {
+        description: "Ektomykorízna huba topoľových a osikových lesov, parkov a okrajov ciest. V miernom pásme Európy je rozšírená, od Británie a Írska cez strednú a južnú Európu po Škandináviu a na východ po Sibír, a plodí aj pod vysadenými topoľmi mimo tohto areálu.",
+        cap: "Klobúk má zvyčajne 4–16 cm v priemere a mohutná plodnica môže dosiahnuť asi 20–25 cm. Za mladi je takmer guľovitý alebo polguľovitý, potom klenutý až vankúšovitý, niekedy s mierne preliačeným stredom. Pokožka je za mladi jemne páperistá alebo zamatová a neskôr hladšia, suchá a matná a po dozretí za vlhka slizká. Farba prechádza od svetlosivej, plavej a sivohnedej po umbrovú, sépiovú alebo červenohnedú a k okraju býva niekedy svetlejšia alebo žltkastá. Okraj často previsá nad rúrky ako tenká blanka. Povrch môže vekom jemne rozpukať, no nerozpadá sa na hrubé políčka a nie je jamkatý.",
+        hymenium: "Rúrky sú 10–30 mm dlhé a pri hlúbiku vykrojené až takmer voľné, niekedy široko pripnuté. Za mladi sú biele alebo krémové, potom sivé alebo špinavokrémové. Póry sú drobné a okrúhle, asi 0,3–0,5 mm široké, rovnakej farby ako rúrky, a vekom môžu dostať olivový odtieň. Nie sú žlté. Otlačené póry hnednú a niektoré zbery najprv zružovejú a až potom stmavnú. Bazídiá sú kyjakovité a štvorvýtrusové, asi 20–37 × 6–9 μm, bez praczok. Cystidy sú hojné na okraji pórov, fľaškovité a často s dlhým hrdlom, asi 20–75 × 5,5–17 μm, a hrdlo sa zužuje na šírku 2–4 μm. Sú bezfarebné alebo s hnedým obsahom.",
+        stipe: "Hlúbik je 5–20 cm dlhý a 1–5 cm hrubý, valcovitý, v strede zhrubnutý alebo kyjakovitý, často pod klobúkom užší a k báze hrubší, a nemá prsteň. Je biely, krémový alebo sivastý a kryjú ho jemné šupinky, ktoré sú najprv svetlohnedé a tmavnú na hnedočierno, najmä k báze, niekedy zoradené v pozdĺžnych radoch alebo spojené do riedkej sieťky. Na mladej plodnici ostávajú šupinky na vrchole biele a pod klobúkom ostáva belavá zóna, kým sa klobúk neroztvorí. Báza býva modrozeleno škvrnitá. Horná tretina je niekedy jemne rebrovaná.",
+        flesh: "Dužina je biela a dlho ostáva pevná a hutná. V klobúku mäkne až pri plnej zrelosti, kým hlúbik ostáva tvrdý a vláknitý. Dužina klobúka a hornej časti hlúbika sa na reze sfarbí na lososovoružovo až červenkavo a túto farbu drží dlho, potom na sivofialovo alebo sivočierno. Nie vždy sčernie úplne. Dužina v báze hlúbika, ktorá už môže byť žltkastozelená, zmodrozelenie. Formalín ju sfarbí na sýtočerveno. Vôňa je slabá a príjemná a chuť mierna.",
+        sporePrint: "Výtrusný prach je olivovohnedý až žltohnedý. Výtrusy sú vretenovité až elipsoidné, hladké a často s kvapôčkou, asi 12–18 × 4,5–6 μm. Uverejnené rozmery siahajú aj k asi 9–13 × 3,5–6 μm a k asi 16–20 × 5–7 μm.",
+        habitat: "Plodnice sa objavujú od mája do októbra: v Británii od neskorého leta do jesene, v strednej Európe od júna do začiatku októbra a na Slovensku od augusta do októbra. Rastú na zemi, jednotlivo alebo v skupinách a niekedy v malých zväzkoch, v riedkom lese, na okraji lesa a lúky, v parkoch a na cintorínoch a pri cestách, s topoľmi, najmä s topoľom bielym a s osikou, aj s vysadenými stromami, a môžu stáť aj niekoľko metrov od kmeňa. Plodia aj za pomerne suchého počasia. Údaje o pôde sa rozchádzajú: jedny uvádzajú prednosť vápnitých pôd a iné kyslých.",
+        uses: "Mladé pevné plodnice sú po dôkladnej tepelnej úprave výborné jedlé huby a vláknitú bázu hlúbika je lepšie vynechať. Dužina ostáva pevnejšia a menej vodnatá ako u iných druhov rodu Leccinum a chuť je výborná, najmä po usušení. Nesmie sa jesť surová.",
+        notes: "Hodnotenie z roku 2025 ho uvádza ako málo dotknutý druh (Least Concern). Má široké rozšírenie a veľkú, stabilnú populáciu a nie je známa žiadna veľká hrozba. Na Slovensku je veľmi zriedkavý, no na svojich lokalitách pravidelný. V Česku bol dlho pokladaný za nehojný a v posledných desaťročiach sa nachádza častejšie. V okolí Novosibirska plodí pod vysadenými topoľmi bielymi v zmiešanom brezovom lese.",
+        confusion: "Kozák brezový (Leccinum scabrum) rastie s brezou. Dužina ostáva biela alebo len slabo ružovie a báza hlúbika nemodrozelenie. Kozák žltooranžový (Leccinum versipelle) rastie tiež s brezou. Má oranžovookrový klobúk a dužina sa otlačením sfarbuje na modrozeleno alebo na fialovosivo. Kozák rozličnofarebný (Leccinum variicolor) rastie s brezou a má fľakatý klobúk so svetlejšími škvrnami, kým tento druh má rovnomernejší klobúk a rastie s topoľom. Kozák hrabový (Leccinum pseudoscabrum) rastie s hrabom. Klobúk má jamkatý, póry mu žltnú a dužina černie úplnejšie. Leccinum cyaneobasileucum rastie s brezou a je menší. Báza hlúbika mu modrie a dužina najprv ružovie a potom pomaly modrie. Kozák žltopórový (Leccinellum crocipodium) rastie s dubom, bukom a hrabom, má okrovožltý až žltohnedý klobúk a na báze hlúbika nemodrozelenie. Kozák osikový hnedý (Leccinum rufum var. decipiens) rastie tiež s osikou. Šupinky na hlúbiku mu dlho ostávajú svetlé a pokožka klobúka previsá výraznejšie. Leccinum fuscoalbum má tmavší hnedý klobúk a dužina černie silnejšie.",
+      }
+    },
+    sources: {
+      en: [
+        {
+          group: "text",
+          name: "Wild Food UK",
+          href: "https://www.wildfooduk.com/mushroom-guide/slate-bolete/"
+        },
+        {
+          group: "text",
+          name: "englishfungi.org",
+          href: "https://www.englishfungi.org/Species/Leccinum%20duriusculum"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Leccinum_duriusculum"
+        },
+        {
+          group: "text",
+          name: "IUCN",
+          href: "https://www.iucnredlist.org/species/228710903/277346417"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Leccinum-duriusculum/kozak-topolovy/kozak-topolovy/ID214"
+        },
+        {
+          group: "text",
+          name: "myko.cz",
+          href: "https://www.myko.cz/myko-atlas/Leccinum-duriusculum/"
+        },
+        {
+          group: "text",
+          name: "naturatlas.cz",
+          href: "https://houby.naturatlas.cz/kozak-topolovy"
+        },
+        {
+          group: "text",
+          name: "mycology.su",
+          href: "https://mycology.su/leccinum-duriusculum.html"
+        },
+        {
+          group: "text",
+          name: "it.wikipedia",
+          href: "https://it.wikipedia.org/wiki/Leccinum_duriusculum"
+        },
+        {
+          group: "text",
+          name: "MycoDB",
+          href: "https://www.mycodb.fr/fiche.php?genre=Leccinum&espece=duriusculum"
+        },
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=287520",
+          detail: "287520"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=287520",
+          detail: "287520"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=227403",
+          detail: "227403"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=287520",
+          detail: "287520"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=17918",
+          detail: "17918"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/287520",
+          detail: "287520"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/8562027",
+          detail: "8562027"
+        }
+      ],
+      sk: [
+        {
+          group: "name",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Leccinum-duriusculum/kozak-topolovy/kozak-topolovy/ID214",
+          detail: "kozák topoľový"
+        }
+      ]
+    },
+    synonyms: ["Boletus duriusculus Schulzer ex Kalchbr.", "Krombholziella duriuscula (Schulzer ex Kalchbr.) Imler", "Gyroporus duriusculus (Schulzer ex Kalchbr.) Bigeard & A. Jacq.", "Krombholzia duriuscula (Schulzer ex Kalchbr.) E.-J. Gilbert", "Suillus duriusculus (Schulzer ex Kalchbr.) Kuntze", "Trachypus duriusculus (Schulzer ex Kalchbr.) Konrad & Maubl.", "Leccinum nigellum Redeuilh"]
+  }
+  var CATALOG = [SPECIES, AMANITA, CHANTERELLE, RETICULATUS, PROCERA, PHALLOIDES, PANTHERINA, MORCHELLA, PLEUROTUS, LAETIPORUS, IMLERIA, ARMILLARIA, COPRINUS, GYROMITRA, RUBESCENS, HYPHOLOMA, AGARICUS, LECCINUM, SUILLUS, LACTARIUS, VIROSA, RUBROBOLETUS, CORTINARIUS, CRATERELLUS, FISTULINA, NEOBOLETUS, CALOCYBE, INOSPERMA, HYDNUM, SARCODON, RUSSULA, KUEHNEROMYCES, GALERINA, SPARASSIS, PAXILLUS, LEPISTA, ARTOMYCES, POLYPORUS, ALBOSTIPITATUM, HYGROPHOROPSIS, ENTOLOMA, PHALLUS, FOMES, AURICULARIA, TYLOPILUS, CHLOROPHYLLUM, EMETICA, TRICHOLOMA, LYCOPERDON, AURANTIACUM, CITRINA, PARDINUM, CALVATIA, CLITOCYBE, TRAMETES, PINOPHILUS, CALOBOLETUS, XEROCOMUS, VERSIPLLE, DURIUSCULUM];
 
   // Field key. Underside is species.hymenium. Season is the fruiting months.
   // where: wood, ground (with trees), grass. color uses the cap colours the text names.
@@ -10926,7 +11518,10 @@
     "Clitocybe nebularis": { where: ["ground", "grass"], color: ["dark", "brown", "white"] },
     "Trametes versicolor": { where: ["wood"], color: ["white", "yellow", "red", "brown", "green", "dark"] },
     "Boletus pinophilus": { where: ["ground"], color: ["brown", "red"] },
-    "Caloboletus calopus": { where: ["ground"], color: ["brown", "dark"] }
+    "Caloboletus calopus": { where: ["ground"], color: ["brown", "dark"] },
+    "Xerocomus subtomentosus": { where: ["ground"], color: ["yellow", "brown", "red"] },
+    "Leccinum versipelle": { where: ["ground"], color: ["yellow", "brown", "red", "white"] },
+    "Leccinum duriusculum": { where: ["ground"], color: ["brown", "dark"] }
   };
 
   var LANGS = [
