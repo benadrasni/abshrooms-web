@@ -528,6 +528,8 @@ a.lang-chip:hover, a.lang-chip.on { border-color: var(--ink); }
 .identify-band h2 { font-family: Fraunces, Georgia, serif; font-weight: 520; font-size: 28px; margin: 0 0 10px; }
 .identify-band .lede { margin-bottom: 12px; }
 .identify-band a { color: var(--madder); }
+.about-sister { margin-top: 8px; font-size: 14px; color: var(--ink-2); }
+.about-sister a { color: var(--madder); }
 .identify-hero { align-items: center; padding-top: 28px; padding-bottom: 28px; }
 .identify-hero h1 { margin-top: 0; }
 .identify-hero .lede { margin: 0; max-width: 42ch; }

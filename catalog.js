@@ -165,7 +165,9 @@
       aboutSrcPlates: "Historic plates",
       aboutSrcPlatesSub: "Published mycological plates, kept as the species illustration",
       aboutSrcCommonsSub: "Field photographs chosen for the catalog",
-      aboutSeo: "About the mushroom encyclopedia What's that mushroom?"
+      aboutSeo: "About the mushroom encyclopedia What's that mushroom?",
+      sisterSite: "What's that flower?",
+      aboutSister: "Flowers are a separate field guide:"
     },
     sk: {
       app: "Aká je to huba?",
@@ -330,7 +332,9 @@
       aboutSrcPlates: "Historické ilustrácie",
       aboutSrcPlatesSub: "Uverejnené mykologické tabule, uložené ako ilustrácia druhu",
       aboutSrcCommonsSub: "Terénne fotografie vybrané pre katalóg",
-      aboutSeo: "O atlase húb Aká je to huba?"
+      aboutSeo: "O atlase húb Aká je to huba?",
+      sisterSite: "Čo to tu kvitne?",
+      aboutSister: "Kvety sú samostatný atlas:"
     }
   };
 
@@ -377,6 +381,8 @@
     Hydnum: { rank: "genus", sk: "jelenka" },
     Morchella: { rank: "genus", sk: "smrčok" },
     Pleurotus: { rank: "genus", sk: "hliva" },
+    Phyllotopsidaceae: { rank: "family" },
+    Pleurocybella: { rank: "genus" },
     "Incertae sedis": { rank: "subclass" },
     Polyporales: { rank: "order", sk: "trúdnikotvaré" },
     Polyporaceae: { rank: "family", sk: "trúdnikovité" },
@@ -11457,7 +11463,361 @@
     },
     synonyms: ["Boletus duriusculus Schulzer ex Kalchbr.", "Krombholziella duriuscula (Schulzer ex Kalchbr.) Imler", "Gyroporus duriusculus (Schulzer ex Kalchbr.) Bigeard & A. Jacq.", "Krombholzia duriuscula (Schulzer ex Kalchbr.) E.-J. Gilbert", "Suillus duriusculus (Schulzer ex Kalchbr.) Kuntze", "Trachypus duriusculus (Schulzer ex Kalchbr.) Konrad & Maubl.", "Leccinum nigellum Redeuilh"]
   }
-  var CATALOG = [SPECIES, AMANITA, CHANTERELLE, RETICULATUS, PROCERA, PHALLOIDES, PANTHERINA, MORCHELLA, PLEUROTUS, LAETIPORUS, IMLERIA, ARMILLARIA, COPRINUS, GYROMITRA, RUBESCENS, HYPHOLOMA, AGARICUS, LECCINUM, SUILLUS, LACTARIUS, VIROSA, RUBROBOLETUS, CORTINARIUS, CRATERELLUS, FISTULINA, NEOBOLETUS, CALOCYBE, INOSPERMA, HYDNUM, SARCODON, RUSSULA, KUEHNEROMYCES, GALERINA, SPARASSIS, PAXILLUS, LEPISTA, ARTOMYCES, POLYPORUS, ALBOSTIPITATUM, HYGROPHOROPSIS, ENTOLOMA, PHALLUS, FOMES, AURICULARIA, TYLOPILUS, CHLOROPHYLLUM, EMETICA, TRICHOLOMA, LYCOPERDON, AURANTIACUM, CITRINA, PARDINUM, CALVATIA, CLITOCYBE, TRAMETES, PINOPHILUS, CALOBOLETUS, XEROCOMUS, VERSIPLLE, DURIUSCULUM];
+  var PLEUROCYBELLA_MEDIA = "photos/Agaricales/Phyllotopsidaceae/Pleurocybella_porrigens/";
+  var PLEUROCYBELLA = {
+    id: 60,
+    name: "Pleurocybella porrigens",
+    author: "(Pers.) Singer",
+    family: "Phyllotopsidaceae",
+    genus: "Pleurocybella",
+    order: "Agaricales",
+    edibility: "deadly",
+    hymenium: "gills",
+    path: ["Fungi", "Dikarya", "Basidiomycota", "Agaricomycotina", "Agaricomycetes", "Agaricomycetidae", "Agaricales", "Phyllotopsidaceae", "Pleurocybella"],
+    summary: ["Agaricales", "Phyllotopsidaceae", "Pleurocybella"],
+    added: "2026-10-24",
+    plate: STORAGE + PLEUROCYBELLA_MEDIA + "Pleurocybella_porrigens@1600.webp",
+    plateGrid: STORAGE + PLEUROCYBELLA_MEDIA + "Pleurocybella_porrigens@400.webp",
+    plateCredit: {
+      author: "Gemini",
+      license: "not stated"
+    },
+    photos: [
+      {
+        src: STORAGE + PLEUROCYBELLA_MEDIA + "pcp1.webp",
+        author: "Katja Schulz",
+        license: "CC BY 2.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/2.0",
+        source: "https://commons.wikimedia.org/wiki/File:Angel%27s_Wings_(28902855281).jpg"
+      },
+      {
+        src: STORAGE + PLEUROCYBELLA_MEDIA + "pcp2.webp",
+        author: "David Rust",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:2011-10-21_Pleurocybella_porrigens_177980.jpg"
+      },
+      {
+        src: STORAGE + PLEUROCYBELLA_MEDIA + "pcp3.webp",
+        author: "Walt Sturgeon",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Pleurocybella_porrigens_(Pers.)_Singer_463464.jpg"
+      },
+      {
+        src: STORAGE + PLEUROCYBELLA_MEDIA + "pcp4.webp",
+        author: "Strobilomyces",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Pleurocybella_050919low.jpg"
+      },
+      {
+        src: STORAGE + PLEUROCYBELLA_MEDIA + "pcp5.webp",
+        author: "Jan Eckstein",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Pleurocybella_porrigens_Harz_Mountains.jpg"
+      }
+    ],
+    capFrom: 2,
+    capTo: 10,
+    fruitingFrom: 8,
+    fruitingTo: 11,
+    label: {
+      en: "angel's wings",
+      sk: "hlivuľa uškatá"
+    },
+    names: {
+      en: ["angel wing"]
+    },
+    text: {
+      en: {
+        description: "A saprobic white-rot mushroom on dead conifer wood. It is widespread in temperate forests of the Northern Hemisphere, mainly in Scotland and northern England within Britain, with occasional records in Wales and Ireland, and across northern mainland Europe, cooler parts of Asia, and parts of North America.",
+        cap: "The cap is 2–10 cm across and very thin. It is tongue-shaped, ear-shaped, petal-shaped, or fan-shaped, and often an incomplete funnel split down one side to the base. Young fruit bodies are pure white, with an inrolled margin. Older caps become cream to yellowish, and the margin turns wavy and lobed. The surface is smooth, or shortly felted when young and then nearly bald, with the felt often lasting near the attachment. The cuticle is not gelatinous. It is of clamped hyphae, reported as about 3–5 μm wide with hair-like ends and as 5–13 μm wide.",
+        hymenium: "The gills are white to ivory, later cream or yellowish, crowded and narrow, and they run down to the point of attachment. The basidia are four-spored, cylindrical to club-shaped, about 30–36 × 5–7.5 μm, and clamped at the base. Cystidia are absent. Cheilocystidia are absent, or few and scarcely different from the other cells along the gill edge. The gill trama is irregular.",
+        stipe: "A stipe is absent, or present only as a short, narrowed white stub where the cap meets the wood. There is no veil.",
+        flesh: "The flesh is white, very thin, and pliant, and translucent when young. The smell is faint and pleasant, or not distinctive, and the taste is mild. Both have been called absent.",
+        sporePrint: "White to whitish. The spores are subglobose to broadly ellipsoid, smooth, thin-walled, and hyaline, often with an oil drop. They measure about 5–7.5 × 4.5–7 μm, and they are inamyloid and not cyanophilous.",
+        habitat: "Fruit bodies appear from summer into late autumn, from August to November in Britain, Ireland, central Europe, and North America. They grow in overlapping clusters, sometimes partly fused, on well-rotted and often mossy conifer logs and stumps, especially spruce, fir, and hemlock, and more often in damp mountain woods.",
+        uses: "Older guides list it as edible, though the flesh is thin and the taste mild or bland. After fatal encephalopathy in Japan, chiefly in people with kidney disease, it is treated as deadly.",
+        notes: "In September and October 2004, 59 people in nine Japanese prefectures developed acute encephalopathy after eating it, and 17 died. Most of those who died had kidney disease, and their average age was about 70. Symptoms began within three weeks of the meal, and death followed 13 to 29 days after the symptoms started. A further death, in 2009, was a person on haemodialysis. The cause is not settled. Fruit bodies contain the unstable amino acid pleurocybellaziridine, which is toxic to rat brain cells in culture. One proposal is that a glycoprotein and a lectin together damage the blood–brain barrier and let that amino acid reach the brain, and that the three substances cause the injury only in combination. A Polish assessment treats the species as vulnerable.",
+        confusion: "Pleurotus ostreatus and Pleurotus pulmonarius have thicker flesh and usually grow on broadleaf wood. Their spores are elongated and subcylindrical to kidney-shaped, and the spore print of Pleurotus ostreatus may be faintly lilac. Panellus mitis has a distinct stipe. Crepidotus fruit bodies are smaller and leave a brown spore print. Hohenbuehelia has a short but distinct stipe."
+      },
+      sk: {
+        description: "Saprotrofná huba spôsobujúca bielu hnilobu na odumretom dreve ihličnanov. Je rozšírená v lesoch mierneho pásma severnej pologule, v Británii najmä v Škótsku a severnom Anglicku, s ojedinelými nálezmi vo Walese a Írsku, a ďalej v severnej kontinentálnej Európe, v chladnejších častiach Ázie a v častiach Severnej Ameriky.",
+        cap: "Klobúk je 2–10 cm široký a veľmi tenký. Je jazykovitý, uškovitý, lupienkovitý alebo vejárovitý a často tvorí neúplný lievik rozštiepený po jednej strane až k báze. Mladé plodnice sú čisto biele, s podvinutým okrajom. Staršie klobúky sa sfarbujú do krémova až žltkasta a okraj sa stáva zvlneným a laločnatým. Povrch je hladký, alebo za mladi krátko plstnatý a potom takmer lysý, pričom plst často pretrváva pri mieste prirastenia. Pokožka nie je želatínová. Tvoria ju hyfy s prackami, uvádzané ako asi 3–5 µm široké s vlasovitými zakončeniami a ako 5–13 µm široké.",
+        hymenium: "Lupene sú biele až slonovinové, neskôr krémové alebo žltkasté, husté a úzke a zbiehajú k miestu prirastenia. Bazídiá sú štvorvýtrusové, valcovité až kyjakovité, asi 30–36 × 5–7,5 µm, na báze s prackou. Cystidy chýbajú. Cheilocystidy chýbajú, alebo sú zriedkavé a od ostatných buniek na ostrí lupeňov sa sotva líšia. Trama lupeňov je nepravidelná.",
+        stipe: "Hlúbik chýba, alebo je prítomný len ako krátky zúžený biely kýpeť v mieste, kde klobúk prirastá k drevu. Závoj chýba.",
+        flesh: "Dužina je biela, veľmi tenká a ohybná, za mladi priesvitná. Vôňa je slabá a príjemná, alebo nevýrazná, a chuť je mierna. Obe sa uvádzajú aj ako chýbajúce.",
+        sporePrint: "Výtrusný prach je biely až belavý. Výtrusy sú takmer guľovité až široko elipsoidné, hladké, tenkostenné a hyalínne, často s olejovou kvapkou. Merajú asi 5–7,5 × 4,5–7 µm a sú neamyloidné a nie sú kyanofilné.",
+        habitat: "Plodnice sa objavujú od leta do neskorej jesene, od augusta do novembra v Británii, Írsku, strednej Európe a Severnej Amerike. Rastú v prekrývajúcich sa trsoch, niekedy čiastočne zrastené, na dobre rozloženom a často machom porastenom dreve ihličnanov, na kmeňoch a pňoch, najmä smreka, jedle a jedľovca, a častejšie vo vlhkých horských lesoch.",
+        uses: "Staršie príručky ju uvádzajú ako jedlú, hoci dužina je tenká a chuť mierna alebo mdlá. Po smrteľnej encefalopatii v Japonsku, najmä u ľudí s ochorením obličiek, sa pokladá za smrteľne jedovatú.",
+        confusion: "Hliva ustricová (Pleurotus ostreatus) a hliva buková (Pleurotus pulmonarius) majú hrubšiu dužinu a zvyčajne rastú na dreve listnáčov. Ich výtrusy sú pretiahnuté, takmer valcovité až obličkovité, a výtrusný prach hlivy ustricovej môže byť slabo fialkastý. Pňovka malá (Panellus mitis) má zreteľný hlúbik. Plodnice rodu pahliva (Crepidotus) sú menšie a zanechávajú hnedý výtrusný prach. Lastúrka (Hohenbuehelia) má krátky, ale zreteľný hlúbik.",
+        notes: "V septembri a októbri 2004 ochorelo v deviatich japonských prefektúrach 59 ľudí na akútnu encefalopatiu po jej konzumácii a 17 zomrelo. Väčšina zomrelých mala ochorenie obličiek a ich priemerný vek bol asi 70 rokov. Príznaky sa začali do troch týždňov od jedla a smrť nasledovala 13 až 29 dní po začiatku príznakov. Ďalšie úmrtie v roku 2009 sa týkalo človeka na hemodialýze. Príčina nie je ustálená. Plodnice obsahujú nestabilnú aminokyselinu pleurocybellaziridine, ktorá je v kultúre toxická pre mozgové bunky potkana. Podľa jedného návrhu glykoproteín a lektín spoločne poškodzujú hematoencefalickú bariéru a umožnia tejto aminokyseline dostať sa do mozgu, pričom tieto tri látky spôsobia poškodenie len v kombinácii. Poľské hodnotenie ju pokladá za zraniteľný druh (Vulnerable). Na Slovensku je zaznamenaná v okolí Makova, hojne na spadnutých kmeňoch jedle bielej v bukovo-jedľovom poraste."
+      }
+    },
+    sources: {
+      en: [
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/pleurocybella-porrigens.php",
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Pleurocybella_porrigens",
+        },
+        {
+          group: "text",
+          name: "MushroomExpert",
+          href: "https://mushroomexpert.com/fungionwood/gilled%20fungi/species%20pages/Pleurocybella%20porrigens.htm",
+        },
+        {
+          group: "text",
+          name: "E-Flora BC",
+          href: "https://linnet.geog.ubc.ca/Atlas/Atlas.aspx?sciname=Pleurocybella%20porrigens",
+        },
+        {
+          group: "text",
+          name: "Fungipedia",
+          href: "https://www.fungipedia.org/en/microscopias/josep/pleurocybella-porrigens",
+        },
+        {
+          group: "text",
+          name: "myko.cz",
+          href: "https://www.myko.cz/myko-atlas/Pleurocybella-porrigens/",
+        },
+        {
+          group: "text",
+          name: "grzyby.pl",
+          href: "https://www.grzyby.pl/gatunki/Pleurocybella_porrigens.htm",
+        },
+        {
+          group: "text",
+          name: "Asturnatura",
+          href: "https://www.asturnatura.com/especie/pleurocybella-porrigens",
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Pleurocybella-porrigens/hlivec-biely/hliva-usata/ID1820",
+        },
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=289763",
+          detail: "289763",
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=289763",
+          detail: "289763",
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=289763",
+          detail: "289763",
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=240731",
+          detail: "240731",
+        },
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=18302",
+          detail: "18302",
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/289763",
+          detail: "289763",
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2538000",
+          detail: "2538000",
+        },
+      ],
+      sk: [
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Pleurocybella-porrigens/hlivec-biely/hliva-usata/ID1820",
+          detail: "hlivuľa uškatá"
+        }
+      ]
+    },
+    synonyms: ["Agaricus porrigens Pers.", "Pleuropus porrigens (Pers.) Zaw.", "Pleurotus porrigens (Pers.) P. Kumm.", "Phyllotus porrigens (Pers.) P. Karst.", "Calathinus porrigens (Pers.) Quél.", "Dendrosarcus porrigens (Pers.) Kuntze", "Geopetalum porrigens (Pers.) Murrill", "Pleurotellus porrigens (Pers.) Kühner & Romagn.", "Nothopanus porrigens (Pers.) Singer", "Pleurotus albolanatus Peck"]
+  };
+  var BISPORIGERA_MEDIA = "photos/Agaricales/Amanitaceae/Amanita_bisporigera/";
+  var BISPORIGERA = {
+    id: 61,
+    name: "Amanita bisporigera",
+    author: "G.F. Atk.",
+    family: "Amanitaceae",
+    genus: "Amanita",
+    order: "Agaricales",
+    edibility: "deadly",
+    hymenium: "gills",
+    path: ["Fungi", "Dikarya", "Basidiomycota", "Agaricomycotina", "Agaricomycetes", "Agaricomycetidae", "Agaricales", "Amanitaceae", "Amanita"],
+    summary: ["Agaricales", "Amanitaceae", "Amanita"],
+    added: "2026-10-24",
+    plate: STORAGE + BISPORIGERA_MEDIA + "Amanita_bisporigera@1600.webp",
+    plateGrid: STORAGE + BISPORIGERA_MEDIA + "Amanita_bisporigera@400.webp",
+    plateCredit: {
+      author: "Gemini",
+      license: "not stated"
+    },
+    photos: [
+      {
+        src: STORAGE + BISPORIGERA_MEDIA + "bi1.webp",
+        author: "Dan Molter",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Amanita_bisporigera_17932.jpg"
+      },
+      {
+        src: STORAGE + BISPORIGERA_MEDIA + "bi2.webp",
+        author: "Dan Molter",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Amanita_bisporigera_55047.jpg"
+      },
+      {
+        src: STORAGE + BISPORIGERA_MEDIA + "bi3.webp",
+        author: "Dan Molter",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Amanita_bisporigera_49421.jpg"
+      },
+      {
+        src: STORAGE + BISPORIGERA_MEDIA + "bi4.webp",
+        author: "Nathan Wilson",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Amanita_bisporigera_674.jpg"
+      },
+      {
+        src: STORAGE + BISPORIGERA_MEDIA + "bi5.webp",
+        author: "Eli Talhouk",
+        license: "CC BY 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Amanita_bisporigera_destroying_angel_skirt.jpg"
+      }
+    ],
+    capFrom: 2.5,
+    capTo: 13,
+    stipeHeightFrom: 5.5,
+    stipeHeightTo: 14,
+    stipeThickFrom: 0.5,
+    stipeThickTo: 2,
+    fruitingFrom: 6,
+    fruitingTo: 11,
+    label: {
+      en: "eastern North American destroying angel"
+    },
+    names: {
+      en: [
+        "destroying angel",
+        "eastern destroying angel",
+        "eastern destroying angel amanita",
+        "North American two-spored destroying angel",
+        "deadly amanita",
+        "white death cap",
+        "angel of death"
+      ]
+    },
+    text: {
+      en: {
+        description: "An ectomycorrhizal mushroom of mixed coniferous and deciduous woodland, often with oak. It is common and widely distributed in eastern North America, from pine and oak woods in Texas north through Canada to boreal forest in Newfoundland and the Maritime Provinces. It is rare farther west.",
+        cap: "The cap is 2.5–13 cm across. It starts egg-shaped or oval, with the margin rolled in, then becomes convex to broadly convex, sometimes bell-shaped or nearly flat, and it may have a low broad umbo. The surface is bald, or very rarely keeps a patch of the universal veil. It is dry, or slightly sticky when moist, and white to ivory. The centre may turn pale tan, cream, straw yellow, or pale pink with age, and old wounds may become slightly rusty. A yellow or pink tint over the whole cap is rare. The margin is not lined.",
+        hymenium: "The gills are free or nearly free, close or crowded, and white, with many short gills. The basidia are club-shaped, thin-walled, and without clamps, 34–45 × 4–11 μm. They usually bear two spores. Three- or four-spored basidia are rare, though four-spored basidia may become more frequent as the season goes on. Cystidia are absent.",
+        stipe: "The stipe is 5.5–14 cm long and 0.5–2 cm thick, white, and solid. It tapers slightly toward the top and flares into a round bulb, and it may have fine lengthwise grooves. The surface is often shaggy or finely scaly, especially when young, and it may be nearly smooth. A thin white skirt-like ring hangs high on the stipe. The base sits in a white sack-like volva, up to 3.8 cm high and about 2 mm thick, which may stay buried or tear. The volva is sometimes lobed and may press against the stipe.",
+        flesh: "The flesh is thin and white, and it does not change colour when bruised. A drop of potassium hydroxide turns the cap surface bright yellow and the cap flesh yellow. A tyrosinase test gives no reaction on the outside or the inside. The smell is mild or pleasant when young and becomes sickly, cloying, or like rotting meat with age.",
+        sporePrint: "White. The spores are smooth, thin-walled, and globose to subglobose or broadly ellipsoid, 7–10 × 6–9.6 μm, and amyloid.",
+        habitat: "Fruit bodies appear in summer and autumn, often by early autumn, alone, scattered, or in groups on the ground. It grows with oak and possibly other hardwoods, and it has also been reported with birch and aspen in the west.",
+        uses: "It is deadly, and it is regarded as the most toxic member of the genus in North America. The fruit body contains amatoxins, chiefly α-amanitin, and the phallotoxin phallacidin, with little variation from one fruit body to another. One mature fruit body can hold a lethal dose, and the toxins are not destroyed by boiling, freezing, or drying.",
+        notes: "A 2025 assessment ranks it Least Concern. Field accounts separate it from the other white species of eastern North America by two-spored basidia, round spores, and the yellow reaction to potassium hydroxide, and sequence comparisons place Amanita pallidorosea as the closest relative. Collections from southeastern Arizona and central Mexico that resemble it react weakly or not at all to potassium hydroxide, and they have not been shown to be this species. Records from pine plantations in Colombia may have arrived with exported trees. The genes that assemble its amatoxins and phallotoxins have been identified. Adults of Tritoma biguttata affinis use the fruit bodies as a secondary food, and the slug Arion subfuscus has been seen feeding on them.",
+        confusion: "Amanita ocreata grows in western North America, is usually stockier, and has ellipsoid spores. It also turns yellow with potassium hydroxide. Amanita elliptosperma has ellipsoid spores and does not turn yellow with potassium hydroxide. Amanita magnivelaris has a thicker, felted ring and does not typically turn yellow with potassium hydroxide. Amanita virosiformis has elongated spores. Amanita virosa and Amanita verna are European species that do not occur naturally in North America. Amanita virosa turns yellow with potassium hydroxide and fruits later, in autumn. Amanita verna does not turn yellow with potassium hydroxide. Size is not a reliable way to separate these species. White forms of Amanita phalloides do not turn yellow with potassium hydroxide. Volvopluteus gloiocephalus has no ring, its mature gills and spore print are pink, and it usually grows in gardens, lawns, and woodchips. Leucoagaricus leucothites has no volva and has thick-walled dextrinoid spores. A button still wrapped in the universal veil can resemble a puffball until it is cut open lengthwise and the cap and gills show."
+      },
+      sk: {
+        description: "Ektomykorízna huba zmiešaných ihličnatých a listnatých lesov, často s dubom. Vo východnej Severnej Amerike je hojná a široko rozšírená, od borovicových a dubových lesov v Texase na sever cez Kanadu až po boreálny les na Newfoundlande a v Prímorských provinciách. Ďalej na západ je zriedkavá.",
+        cap: "Klobúk má 2,5–13 cm. Za mladi je vajcovitý alebo oválny, s podvinutým okrajom, potom sa stáva klenutým až široko klenutým, niekedy zvoncovitým alebo takmer plochým, a môže mať nízky široký hrboľ. Povrch je holý a len celkom výnimočne si ponechá útržok plachtičky. Klobúk je suchý, za vlhka mierne lepkavý, biely až slonovinový. Stred môže vekom získať svetlohnedý, krémový, slamovožltý alebo bledo ružový odtieň a staré rany môžu jemne zhrdzavieť. Žltý alebo ružový nádych po celom klobúku je zriedkavý. Okraj nie je ryhovaný.",
+        hymenium: "Lupene sú voľné alebo takmer voľné, husté až veľmi husté a biele, s mnohými krátkymi lupienkami. Bazídiá sú kyjakovité, tenkostenné a bez spojok, veľké 34–45 × 4–11 μm. Zvyčajne nesú dva výtrusy. Trojvýtrusové a štvorvýtrusové bazídiá sú zriedkavé, hoci štvorvýtrusové môžu byť ku koncu sezóny častejšie. Cystidy chýbajú.",
+        stipe: "Hlúbik je dlhý 5,5–14 cm a hrubý 0,5–2 cm, biely a plný. Smerom nahor sa mierne zužuje a naspodku sa rozširuje do okrúhlej hľuzy. Môže mať jemné pozdĺžne ryhy. Povrch je často strapatý alebo jemne šupinkatý, najmä za mladi, a niekedy je takmer hladký. Vysoko na hlúbiku visí tenký biely sukňovitý prsteň. Báza sedí v bielej vakovitej pošve, vysokej až 3,8 cm a hrubej asi 0,2 cm, ktorá môže ostať zahrabaná alebo sa roztrhnúť. Pošva je niekedy laločnatá a môže priliehať k hlúbiku.",
+        flesh: "Dužina je tenká a biela a po otlačení nemení farbu. Kvapka hydroxidu draselného (KOH) sfarbí povrch klobúka na jasnožlto a dužinu klobúka na žlto. Skúška tyrozinázou nedáva reakciu ani na povrchu, ani vnútri. Vôňa je za mladi mierna alebo príjemná a vekom sa stáva nepríjemne mdlou, presladenou alebo podobnou hnijúcemu mäsu.",
+        sporePrint: "Výtrusný prach je biely. Výtrusy sú hladké, tenkostenné, guľovité až takmer guľovité alebo široko elipsoidné, veľké 7–10 × 6–9,6 μm, a amyloidné.",
+        habitat: "Plodnice sa objavujú v lete a na jeseň, často už začiatkom jesene, jednotlivo, roztrúsene alebo v skupinách na zemi. Rastie s dubom a možno aj s inými listnáčmi a na západe sa uvádza aj s brezou a osikou.",
+        uses: "Je smrteľne jedovatá a v Severnej Amerike sa pokladá za najjedovatejší druh rodu. Plodnica obsahuje amatoxíny, najmä α-amanitín, a falotoxín falacidín. Obsah toxínov sa medzi jednotlivými plodnicami líši len málo. Jedna dospelá plodnica môže obsahovať smrteľnú dávku a toxíny neničí ani var, ani mrazenie, ani sušenie.",
+        notes: "Hodnotenie z roku 2025 ju zaraďuje ako málo dotknutý druh (Least Concern). V teréne ju od ostatných bielych druhov východnej Severnej Ameriky oddeľujú dvojvýtrusové bazídiá, guľovité výtrusy a žltá reakcia s hydroxidom draselným a porovnanie sekvencií stavia Amanita pallidorosea ako najbližšieho príbuzného. Zbery z juhovýchodnej Arizony a stredného Mexika, ktoré sa jej podobajú, reagujú na hydroxid draselný slabo alebo vôbec a ako tento druh sa nepreukázali. Údaje z borovicových plantáží v Kolumbii mohli prísť s vyvezenými stromami. Gény, ktoré skladajú jej amatoxíny a falotoxíny, sú známe. Dospelé jedince Tritoma biguttata affinis využívajú plodnice ako doplnkovú potravu a slimák Arion subfuscus bol pozorovaný, ako ich požiera.",
+        confusion: "Amanita ocreata rastie na západe Severnej Ameriky, zvyčajne je zavalitejšia a má elipsoidné výtrusy. Aj ona s hydroxidom draselným žltne. Amanita elliptosperma má elipsoidné výtrusy a s hydroxidom draselným nežltne. Amanita magnivelaris má hrubší plstnatý prsteň a s hydroxidom draselným zvyčajne nežltne. Amanita virosiformis má predĺžené výtrusy. Muchotrávka končistá (Amanita virosa) a muchotrávka biela (Amanita verna) sú európske druhy a v Severnej Amerike sa prirodzene nevyskytujú. Muchotrávka končistá s hydroxidom draselným žltne a plodí neskôr, na jeseň. Muchotrávka biela s hydroxidom draselným nežltne. Veľkosť nie je spoľahlivý spôsob, ako tieto druhy od seba oddeliť. Biele formy muchotrávky zelenej (Amanita phalloides) s hydroxidom draselným nežltnú. Volvopluteus gloiocephalus nemá prsteň, jeho dospelé lupene a výtrusný prach sú ružové a rastie zvyčajne v záhradách, na trávnikoch a v drevnej štiepke. Leucoagaricus leucothites nemá pošvu a má hrubostenné dextrinoidné výtrusy. Gombík ešte zabalený v plachtičke môže pripomínať prášnicu, kým sa pozdĺžne neprereže a neukáže sa klobúk s lupeňmi."
+      }
+    },
+    sources: {
+      en: [
+        {
+          group: "text",
+          name: "Kuo",
+          href: "https://www.mushroomexpert.com/amanita_bisporigera.html"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Amanita_bisporigera"
+        },
+        {
+          group: "text",
+          name: "Tulloss",
+          href: "http://www.amanitaceae.org/content/uploaded/legacy/bisporig.html"
+        },
+        {
+          group: "text",
+          name: "pl.wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Amanita_bisporigera"
+        },
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=208433",
+          detail: "208433"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=208433",
+          detail: "208433"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=208433",
+          detail: "208433"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/208433",
+          detail: "208433"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5452051",
+          detail: "5452051"
+        }
+      ]
+    },
+    synonyms: ["Amanitina bisporigera (G.F. Atk.) E.-J. Gilbert"]
+  };
+  var CATALOG = [SPECIES, AMANITA, CHANTERELLE, RETICULATUS, PROCERA, PHALLOIDES, PANTHERINA, MORCHELLA, PLEUROTUS, LAETIPORUS, IMLERIA, ARMILLARIA, COPRINUS, GYROMITRA, RUBESCENS, HYPHOLOMA, AGARICUS, LECCINUM, SUILLUS, LACTARIUS, VIROSA, RUBROBOLETUS, CORTINARIUS, CRATERELLUS, FISTULINA, NEOBOLETUS, CALOCYBE, INOSPERMA, HYDNUM, SARCODON, RUSSULA, KUEHNEROMYCES, GALERINA, SPARASSIS, PAXILLUS, LEPISTA, ARTOMYCES, POLYPORUS, ALBOSTIPITATUM, HYGROPHOROPSIS, ENTOLOMA, PHALLUS, FOMES, AURICULARIA, TYLOPILUS, CHLOROPHYLLUM, EMETICA, TRICHOLOMA, LYCOPERDON, AURANTIACUM, CITRINA, PARDINUM, CALVATIA, CLITOCYBE, TRAMETES, PINOPHILUS, CALOBOLETUS, XEROCOMUS, VERSIPLLE, DURIUSCULUM, PLEUROCYBELLA, BISPORIGERA];
 
   // Field key. Underside is species.hymenium. Season is the fruiting months.
   // where: wood, ground (with trees), grass. color uses the cap colours the text names.
@@ -11521,7 +11881,9 @@
     "Caloboletus calopus": { where: ["ground"], color: ["brown", "dark"] },
     "Xerocomus subtomentosus": { where: ["ground"], color: ["yellow", "brown", "red"] },
     "Leccinum versipelle": { where: ["ground"], color: ["yellow", "brown", "red", "white"] },
-    "Leccinum duriusculum": { where: ["ground"], color: ["brown", "dark"] }
+    "Leccinum duriusculum": { where: ["ground"], color: ["brown", "dark"] },
+    "Pleurocybella porrigens": { where: ["wood"], color: ["white", "yellow"] },
+    "Amanita bisporigera": { where: ["ground"], color: ["white"] }
   };
 
   var LANGS = [
@@ -11543,7 +11905,7 @@
   }
 
   function fold(value) {
-    return String(value || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().trim();
+    return String(value || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase().trim();
   }
 
   function displayName(label, fallback, lang) {
@@ -11570,6 +11932,20 @@
     if (lang && lang !== "en") clean = clean === "/" ? "/" + lang : "/" + lang + clean;
     if (clean === "/") return "/";
     return clean + "/";
+  }
+
+  var FLOWER_ORIGIN = "https://whatsthatflower.com";
+  // Path prefixes the flower site publishes. English, and any other code, stay on the English home.
+  var FLOWER_LANGS = [
+    "sk", "de", "fr", "cs", "pl", "ru", "es", "pt", "ja", "it", "nl", "uk", "hu",
+    "da", "sv", "no", "fi", "et", "lv", "lt", "hr", "sl", "sr", "bg", "ro", "hi",
+    "ko", "zh", "fa", "he", "ar", "id", "tr"
+  ];
+
+  function flowerUrl(lang) {
+    var code = String(lang || "").toLowerCase();
+    if (FLOWER_LANGS.indexOf(code) < 0) return FLOWER_ORIGIN + "/";
+    return FLOWER_ORIGIN + "/" + code + "/";
   }
 
   function stripLang(path, lang) {
@@ -12012,7 +12388,8 @@
       page +
       '<footer class="site-foot"><span>' + esc(countLabel(CATALOG.length, lang)) + "</span><span>" +
         '<a href="' + href("/identify", lang) + '">' + esc(copy.keyTitle) + "</a> · " +
-        '<a href="' + href("/about", lang) + '">' + esc(copy.about) + "</a>" +
+        '<a href="' + href("/about", lang) + '">' + esc(copy.about) + "</a> · " +
+        '<a href="' + flowerUrl(lang) + '">' + esc(copy.sisterSite) + "</a>" +
       "</span></footer>"
     );
   }
@@ -12561,6 +12938,7 @@
           "<h2>" + esc(copy.keyTitle) + "</h2>" +
           '<p class="lede">' + esc(copy.keyLede) + "</p>" +
           '<p><a href="' + href("/identify", lang) + '">' + esc(copy.keyOpen) + "</a></p>" +
+          '<p class="about-sister">' + esc(copy.aboutSister) + ' <a href="' + flowerUrl(lang) + '">' + esc(copy.sisterSite) + "</a></p>" +
         "</section>" +
       "</div>";
     return { title: copy.about + " — " + copy.app, description: copy.aboutSeo, html: shell(lang, page, "about") };
