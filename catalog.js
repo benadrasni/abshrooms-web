@@ -12595,7 +12595,7 @@ import {
           '<p><a href="' + href("/identify", lang) + '">' + esc(copy.keyOpen) + "</a></p>" +
         "</section>" +
       "</div>";
-    return { title: copy.app, description: copy.homeDesc, html: shell(lang, page, true), focusSearch: true };
+    return { title: copy.app, description: copy.homeDesc, html: shell(lang, page, true) };
   }
 
   function indexPage(lang, kind) {
@@ -13257,17 +13257,13 @@ import {
 
   export {
     CATALOG,
-    TAXA,
-    KEY,
     COPY,
     LANGS,
-    PATH_LANGS,
     viewModel,
     parse,
     href,
     findSpecies,
     taxonNames,
-    displayName,
     bindCatalog,
     render
   };
