@@ -19,7 +19,42 @@ const SITE = 'https://whatsthatmushroom.app';
 const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), '..');
 const BUILD = path.join(ROOT, 'build');
 const INDEXED = LANGS.map((item) => item.code);
-const OG_LOCALE = { en: 'en_US', sk: 'sk_SK' };
+const OG_LOCALE = {
+  en: 'en_US',
+  sk: 'sk_SK',
+  cs: 'cs_CZ',
+  de: 'de_DE',
+  fr: 'fr_FR',
+  pl: 'pl_PL',
+  hu: 'hu_HU',
+  uk: 'uk_UA',
+  ru: 'ru_RU',
+  es: 'es_ES',
+  pt: 'pt_PT',
+  nl: 'nl_NL',
+  da: 'da_DK',
+  sv: 'sv_SE',
+  no: 'nb_NO',
+  fi: 'fi_FI',
+  et: 'et_EE',
+  lv: 'lv_LV',
+  lt: 'lt_LT',
+  it: 'it_IT',
+  hr: 'hr_HR',
+  sl: 'sl_SI',
+  sr: 'sr_RS',
+  ro: 'ro_RO',
+  bg: 'bg_BG',
+  tr: 'tr_TR',
+  id: 'id_ID',
+  ja: 'ja_JP',
+  ko: 'ko_KR',
+  zh: 'zh_TW',
+  hi: 'hi_IN',
+  he: 'he_IL',
+  fa: 'fa_IR',
+  ar: 'ar_EG',
+};
 const RTL = new Set(['ar', 'fa', 'he']);
 
 function escapeHtml(value) {
