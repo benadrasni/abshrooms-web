@@ -6,7 +6,8 @@
   "scripts": {
     "start": "vite",
     "build": "vite build && node scripts/generate_seo.js",
-    "preview": "vite preview --port 8766 --strictPort"
+    "preview": "vite preview --port 8766 --strictPort",
+    "test": "node --test scripts/analyticsConsent.test.mjs"
   },
   "dependencies": {
     "react": "^19.3.1",

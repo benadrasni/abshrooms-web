@@ -218,6 +218,7 @@ function main() {
       ['genera', 'genera'],
       ['identify', 'identify'],
       ['about', 'about'],
+      ['privacy', 'privacy'],
     ].forEach(([slug, view]) => {
       emit(lang, [slug], { view });
     });

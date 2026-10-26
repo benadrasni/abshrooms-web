@@ -530,6 +530,71 @@ a.lang-chip:hover, a.lang-chip.on { border-color: var(--ink); }
 .identify-band a { color: var(--madder); }
 .about-sister { margin-top: 8px; font-size: 14px; color: var(--ink-2); }
 .about-sister a { color: var(--madder); }
+
+.privacy-copy { max-width: 68ch; }
+.privacy-copy h2 {
+  font-family: Fraunces, Georgia, serif;
+  font-weight: 520;
+  font-size: 22px;
+  margin: 28px 0 8px;
+}
+.privacy-copy p {
+  margin: 0 0 14px;
+  color: var(--ink-2);
+  font-size: 16px;
+  line-height: 1.55;
+}
+.privacy-copy a { color: var(--madder); }
+.ga-banner {
+  position: fixed;
+  z-index: 40;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px 24px;
+  flex-wrap: wrap;
+  padding: 14px 28px calc(14px + env(safe-area-inset-bottom));
+  background: var(--cream);
+  border-top: 1px solid var(--rule);
+}
+.ga-banner p {
+  margin: 0;
+  max-width: 68ch;
+  color: var(--ink-2);
+  font-size: 15px;
+  line-height: 1.45;
+}
+.ga-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+}
+.privacy-copy .ga-actions { margin: 8px 0 20px; }
+.ga-choice {
+  font: inherit;
+  font-size: 14px;
+  line-height: 1.2;
+  padding: 8px 14px;
+  border: 1px solid var(--ink);
+  background: var(--cream);
+  color: var(--ink);
+  text-decoration: none;
+  cursor: pointer;
+}
+.ga-choice[aria-pressed="true"] {
+  background: var(--ink);
+  color: var(--cream);
+}
+html.ga-ask body { padding-bottom: var(--ga-banner-h, 120px); }
+@media (max-width: 640px) {
+  .ga-banner { padding: 14px 16px calc(16px + env(safe-area-inset-bottom)); }
+  .ga-actions { width: 100%; }
+  .ga-choice { flex: 1; text-align: center; }
+}
 .identify-hero { align-items: center; padding-top: 28px; padding-bottom: 28px; }
 .identify-hero h1 { margin-top: 0; }
 .identify-hero .lede { margin: 0; max-width: 42ch; }
@@ -542,7 +607,7 @@ a.lang-chip:hover, a.lang-chip.on { border-color: var(--ink); }
 .identify-filters {
   position: sticky;
   top: var(--bar-h);
-  max-height: calc(100dvh - var(--bar-h));
+  max-height: calc(100dvh - var(--bar-h) - var(--ga-banner-h, 0px));
   overflow: auto;
   overscroll-behavior: contain;
   border-inline-end: 1px solid var(--rule);
@@ -773,7 +838,7 @@ a.lang-chip:hover, a.lang-chip.on { border-color: var(--ink); }
     position: fixed;
     left: 0;
     right: 0;
-    bottom: 0;
+    bottom: var(--ga-banner-h, 0px);
     z-index: 30;
     justify-content: center;
     padding: 12px 16px calc(12px + env(safe-area-inset-bottom));

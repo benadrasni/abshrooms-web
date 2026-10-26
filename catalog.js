@@ -1,3 +1,13 @@
+import {
+  allowAnalytics,
+  analyticsState,
+  refuseAnalytics,
+  trackFilterResult,
+  trackMushroom,
+  trackSearch,
+  trackSister
+} from "./src/analytics.js";
+
   var STORAGE = "https://storage.googleapis.com/abshrooms-resources/";
   var MEDIA = "photos/Boletales/Boletaceae/Boletus_edulis/";
   var PLATE = STORAGE + MEDIA + "Boletus_edulis@1600.webp?v=2";
@@ -167,7 +177,21 @@
       aboutSrcCommonsSub: "Field photographs chosen for the catalog",
       aboutSeo: "About the mushroom encyclopedia What's that mushroom?",
       sisterSite: "What's that flower?",
-      aboutSister: "Flowers are a separate field guide:"
+      aboutSister: "Flowers are a separate field guide:",
+      privacy: "Privacy",
+      privacySeo: "How this website uses Google Analytics, and how to allow or refuse it.",
+      gaBanner: "Google Analytics is off. Allow it to count pages, searches, Identify choices, and taps on the flower guide. Google receives that data.",
+      gaAllow: "Allow",
+      gaRefuse: "Refuse",
+      privacyLead: "This note covers the website. The Android and iOS app has its own privacy policy.",
+      privacyAppLink: "Privacy policy of the app",
+      privacyAnalyticsTitle: "Analytics",
+      privacyAnalytics: "The site uses Google Analytics to count which pages are opened, which language is in the address, the mushroom on a species page, the text of a search, and taps on the flower guide. On Identify, the chosen underside, place, cap colour, and season, and how many mushrooms matched, are sent as well. Google receives that data, including a cookie identifier and the IP address. It is not tied to an app account. A search is sent only after analytics is allowed.",
+      privacyChoiceTitle: "Your choice",
+      privacyChoice: "In the European Economic Area, the United Kingdom, and Switzerland, analytics stays off until you allow it. Elsewhere it is on unless you turn it off. The choice is saved in this browser.",
+      privacyStatusOn: "Analytics is on for this browser.",
+      privacyStatusOff: "Analytics is off for this browser.",
+      privacyContact: "The site is published by Adrian Benko."
     },
     sk: {
       app: "Aká je to huba?",
@@ -334,7 +358,21 @@
       aboutSrcCommonsSub: "Terénne fotografie vybrané pre katalóg",
       aboutSeo: "O atlase húb Aká je to huba?",
       sisterSite: "Čo to tu kvitne?",
-      aboutSister: "Kvety sú samostatný atlas:"
+      aboutSister: "Kvety sú samostatný atlas:",
+      privacy: "Súkromie",
+      privacySeo: "Ako táto stránka používa Google Analytics a ako ho povoliť alebo odmietnuť.",
+      gaBanner: "Google Analytics je vypnutý. Povoľte ho, ak má počítať stránky, vyhľadávania, voľby v kľúči a ťuknutia na atlas kvetov. Tieto údaje dostane Google.",
+      gaAllow: "Povoliť",
+      gaRefuse: "Odmietnuť",
+      privacyLead: "Táto poznámka sa týka webovej stránky. Aplikácia pre Android a iOS má vlastné zásady ochrany súkromia.",
+      privacyAppLink: "Zásady ochrany súkromia aplikácie",
+      privacyAnalyticsTitle: "Analytika",
+      privacyAnalytics: "Stránka používa Google Analytics na počítanie otvorených stránok, jazyka v adrese, huby na stránke druhu, textu vyhľadávania a ťuknutí na odkaz na atlas kvetov. Google tieto údaje dostane, vrátane identifikátora v cookie a IP adresy. Nie sú spojené s účtom v aplikácii. Pri kľúči sa pošle aj zvolená spodná strana, miesto, farba klobúka, obdobie a počet zhodných húb. Vyhľadávanie sa odošle až po povolení analytiky.",
+      privacyChoiceTitle: "Vaša voľba",
+      privacyChoice: "V Európskom hospodárskom priestore, v Spojenom kráľovstve a vo Švajčiarsku zostáva analytika vypnutá, kým ju nepovolíte. Inde je zapnutá, kým ju nevypnete. Voľba sa uloží v tomto prehliadači.",
+      privacyStatusOn: "Analytika je v tomto prehliadači zapnutá.",
+      privacyStatusOff: "Analytika je v tomto prehliadači vypnutá.",
+      privacyContact: "Stránku vydáva Adrian Benko."
     }
   };
 
@@ -11935,6 +11973,7 @@
   }
 
   var FLOWER_ORIGIN = "https://whatsthatflower.com";
+  var APP_PRIVACY = "https://storage.googleapis.com/abshrooms-resources/misc/PrivacyPolicyofWhatsthatmushroom.htm";
   // Path prefixes the flower site publishes. English, and any other code, stay on the English home.
   var FLOWER_LANGS = [
     "sk", "de", "fr", "cs", "pl", "ru", "es", "pt", "ja", "it", "nl", "uk", "hu",
@@ -12325,6 +12364,7 @@
     if (!parts.length) return { lang: lang, view: "home" };
     if (parts[0] === "identify" && parts.length === 1) return { lang: lang, view: "identify" };
     if (parts[0] === "about" && parts.length === 1) return { lang: lang, view: "about" };
+    if (parts[0] === "privacy" && parts.length === 1) return { lang: lang, view: "privacy" };
     if (parts[0] === "families" && parts.length === 1) return { lang: lang, view: "families" };
     if (parts[0] === "genera" && parts.length === 1) return { lang: lang, view: "genera" };
     if (parts[0] === "family" && parts[1]) return { lang: lang, view: "family", key: decodeURIComponent(parts[1]) };
@@ -12389,6 +12429,7 @@
       '<footer class="site-foot"><span>' + esc(countLabel(CATALOG.length, lang)) + "</span><span>" +
         '<a href="' + href("/identify", lang) + '">' + esc(copy.keyTitle) + "</a> · " +
         '<a href="' + href("/about", lang) + '">' + esc(copy.about) + "</a> · " +
+        '<a href="' + href("/privacy", lang) + '">' + esc(copy.privacy) + "</a> · " +
         '<a href="' + flowerUrl(lang) + '">' + esc(copy.sisterSite) + "</a>" +
       "</span></footer>"
     );
@@ -12944,6 +12985,34 @@
     return { title: copy.about + " — " + copy.app, description: copy.aboutSeo, html: shell(lang, page, "about") };
   }
 
+  function privacyPage(lang) {
+    var copy = t(lang);
+    var state = analyticsState();
+    var allowPressed = state.ready && state.on;
+    var refusePressed = state.ready && !state.on;
+    var status = state.ready
+      ? "<p>" + esc(state.on ? copy.privacyStatusOn : copy.privacyStatusOff) + "</p>"
+      : "";
+    var page =
+      '<div class="page">' +
+        '<div class="home-hero"><div><h1 class="common">' + esc(copy.privacy) + "</h1></div></div>" +
+        '<section class="band privacy-copy">' +
+          "<p>" + esc(copy.privacyLead) + ' <a href="' + APP_PRIVACY + '" target="_blank" rel="noopener noreferrer">' + esc(copy.privacyAppLink) + "</a></p>" +
+          "<h2>" + esc(copy.privacyAnalyticsTitle) + "</h2>" +
+          "<p>" + esc(copy.privacyAnalytics) + "</p>" +
+          "<h2>" + esc(copy.privacyChoiceTitle) + "</h2>" +
+          "<p>" + esc(copy.privacyChoice) + "</p>" +
+          status +
+          '<div class="ga-actions">' +
+            '<button type="button" class="ga-choice" data-ga="allow" aria-pressed="' + (allowPressed ? "true" : "false") + '">' + esc(copy.gaAllow) + "</button>" +
+            '<button type="button" class="ga-choice" data-ga="refuse" aria-pressed="' + (refusePressed ? "true" : "false") + '">' + esc(copy.gaRefuse) + "</button>" +
+          "</div>" +
+          "<p>" + esc(copy.privacyContact) + ' <a href="mailto:adrian.benko.us@gmail.com">adrian.benko.us@gmail.com</a></p>' +
+        "</section>" +
+      "</div>";
+    return { title: copy.privacy + " — " + copy.app, description: copy.privacySeo, html: shell(lang, page, false) };
+  }
+
   function missing(lang) {
     var copy = t(lang);
     var page = '<div class="page"><p class="center-msg">' + esc(copy.missing) + ' <a href="' + href("/", lang) + '">' + esc(copy.nav) + "</a></p></div>";
@@ -12954,6 +13023,7 @@
     if (route.view === "home") return home(route.lang);
     if (route.view === "identify") return identifyPage(route.lang, route.search || "");
     if (route.view === "about") return aboutPage(route.lang);
+    if (route.view === "privacy") return privacyPage(route.lang);
     if (route.view === "families") return indexPage(route.lang, "family");
     if (route.view === "genera") return indexPage(route.lang, "genus");
     if (route.view === "family") return taxonPage(route.lang, "family", route.key);
@@ -13018,16 +13088,38 @@
         if (focused) focused.focus();
       }
     }
+    if (route.view === "identify") {
+      var selection = readSelection(search);
+      var matched = 0;
+      CATALOG.forEach(function (species) {
+        if (matchesSelection(species, selection)) matched += 1;
+      });
+      trackFilterResult({
+        under: selection.under,
+        where: selection.where,
+        color: selection.color,
+        season: selection.season,
+        count: matched
+      });
+    }
+    clearTimeout(searchTimer);
     var input = document.getElementById("q");
     if (input) input.addEventListener("input", function () {
       var box = document.getElementById("results");
       if (box) box.innerHTML = resultsHtml(input.value, route.lang);
+      clearTimeout(searchTimer);
+      var term = input.value;
+      var lang = route.lang;
+      searchTimer = setTimeout(function () {
+        trackSearch(term, searchHits(term, lang).length);
+      }, 1000);
     });
   }
 
   var navigateTo = null;
   var keepFor = "";
   var listenersBound = false;
+  var searchTimer = 0;
 
   function bindCatalog(navigate) {
     navigateTo = navigate;
@@ -13035,6 +13127,13 @@
     listenersBound = true;
 
   document.addEventListener("click", function (event) {
+    var gaBtn = event.target.closest("[data-ga]");
+    if (gaBtn) {
+      if (gaBtn.getAttribute("data-ga") === "allow") allowAnalytics();
+      else refuseAnalytics();
+      render({ keepScroll: true });
+      return;
+    }
     var opener = event.target.closest(".photo-open");
     if (opener) {
       openLightbox(Number(opener.getAttribute("data-index")) || 0);
@@ -13085,6 +13184,25 @@
     var link = event.target.closest("a");
     if (!link) return;
     var url = new URL(link.href, location.origin);
+    var results = link.closest("#results");
+    if (results) {
+      var field = document.getElementById("q");
+      if (field) {
+        clearTimeout(searchTimer);
+        trackSearch(field.value, searchHits(field.value, parse().lang).length);
+      }
+    }
+    var mushroomPath = url.pathname.match(/\/mushroom\/([^/]+)\/?$/);
+    if (mushroomPath && url.origin === location.origin) {
+      var speciesName = mushroomPath[1];
+      try { speciesName = decodeURIComponent(speciesName); } catch (err) { /* keep the raw segment */ }
+      speciesName = speciesName.replace(/_/g, " ");
+      var source = results ? "search" : link.closest(".identify-page") ? "key" : "list";
+      trackMushroom(speciesName, source);
+    }
+    if (url.hostname === "whatsthatflower.com") {
+      trackSister(link.closest(".about-sister") ? "about" : "footer");
+    }
     if (url.origin !== location.origin) return;
     if (event.metaKey || event.ctrlKey || event.shiftKey || event.altKey || event.button !== 0) return;
     if (url.pathname === location.pathname && url.hash) return;
