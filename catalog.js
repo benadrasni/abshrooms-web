@@ -1,3 +1,4 @@
+import { LISTS } from "./lists.js";
 import {
   allowAnalytics,
   analyticsState,
@@ -24,6 +25,9 @@ import {
       one: "1 mushroom",
       many: "{n} mushrooms",
       recent: "Recently added",
+      lists: "Lists of mushrooms",
+      listLede: "Mushrooms in this list.",
+      emptyList: "No mushrooms in this list yet.",
       today: "Today",
       yesterday: "Yesterday",
       browse: "Browse",
@@ -95,7 +99,7 @@ import {
       sourcesLede: "Name records and the pages used for the text.",
       sourcesName: "Name",
       sourcesText: "Text",
-      homeDesc: "A field guide to mushrooms. Browse by family and genus, and open a species plate.",
+      homeDesc: "A field guide to mushrooms. Browse lists, families, and genera, and open a species plate.",
       keyTitle: "Identify",
       keyLede: "Narrow the catalog by the underside, where it grows, the cap colour, and the season. It does not confirm a name, and it is not a guide to eating.",
       keyOpen: "Open the key",
@@ -203,6 +207,9 @@ import {
       few: "{n} huby",
       many: "{n} húb",
       recent: "Nedávno pridané",
+      lists: "Zoznamy húb",
+      listLede: "Huby tohto zoznamu.",
+      emptyList: "V tomto zozname zatiaľ nie sú huby.",
       today: "Dnes",
       yesterday: "Včera",
       browse: "Listovať",
@@ -276,7 +283,7 @@ import {
       sourcesLede: "Záznamy o názve a stránky použité pre text.",
       sourcesName: "Názov",
       sourcesText: "Text",
-      homeDesc: "Sprievodca hubami. Listujte podľa čeľade a rodu a otvorte kartu druhu.",
+      homeDesc: "Sprievodca hubami. Prehliadajte zoznamy, čeľade a rody a otvorte kartu druhu.",
       keyTitle: "Kľúč",
       keyLede: "Zúžte katalóg podľa spodnej strany, miesta, farby klobúka a obdobia. Neurčuje to meno s istotou a nie je to návod na zber.",
       keyOpen: "Otvoriť kľúč",
@@ -12369,6 +12376,7 @@ import {
     if (parts[0] === "genera" && parts.length === 1) return { lang: lang, view: "genera" };
     if (parts[0] === "family" && parts[1]) return { lang: lang, view: "family", key: decodeURIComponent(parts[1]) };
     if (parts[0] === "genus" && parts[1]) return { lang: lang, view: "genus", key: decodeURIComponent(parts[1]) };
+    if (parts[0] === "list" && parts[1]) return { lang: lang, view: "list", key: decodeURIComponent(parts[1]) };
     if (parts[0] === "mushroom" && parts[1]) {
       return { lang: lang, view: "mushroom", key: decodeURIComponent(parts[1]).replace(/_/g, " ") };
     }
@@ -12458,16 +12466,201 @@ import {
     );
   }
 
-  function cell(species, lang, third, spoken) {
+  function cell(species, lang, third, spoken, mark) {
     var label = displayName(species.label[lang], species.name, lang);
+    var badge = mark && mark.text
+      ? '<div class="year' + (mark.state ? " state" : "") + '">' + esc(mark.text) + "</div>"
+      : "";
     return (
       '<a class="cell" href="' + href("/mushroom/" + encodeURIComponent(species.name), lang) + '">' +
         '<div class="art"><img src="' + species.plateGrid + '" alt="' + esc(label + ", " + species.name) + '"></div>' +
+        badge +
         '<div class="n">' + esc(label) + "</div>" +
         '<div class="l latin">' + esc(species.name) + "</div>" +
         '<div class="g' + (spoken ? " spoken" : "") + '">' + esc(third) + "</div>" +
       "</a>"
     );
+  }
+
+  function findList(id) {
+    for (var i = 0; i < LISTS.length; i++) {
+      if (LISTS[i].id === id) return LISTS[i];
+    }
+    return null;
+  }
+
+  function listLocales(doc) {
+    var locales = doc && doc.locales;
+    if (!locales || !locales.length) return ["en"];
+    return locales;
+  }
+
+  function listVisible(doc, lang) {
+    var locales = listLocales(doc);
+    return locales.indexOf(lang) >= 0 || locales.indexOf("*") >= 0;
+  }
+
+  function listText(map, lang) {
+    if (!map) return "";
+    var own = map[lang];
+    if (own && String(own).trim()) return String(own).trim();
+    if (map.en && String(map.en).trim()) return String(map.en).trim();
+    var keys = Object.keys(map);
+    for (var i = 0; i < keys.length; i++) {
+      var value = map[keys[i]];
+      if (value && String(value).trim()) return String(value).trim();
+    }
+    return "";
+  }
+
+  function resolveSpecies(entry) {
+    if (!entry) return null;
+    if (entry.name) {
+      var byName = findSpecies(entry.name);
+      if (byName) return byName;
+    }
+    if (entry.speciesId == null) return null;
+    for (var i = 0; i < CATALOG.length; i++) {
+      if (CATALOG[i].id === entry.speciesId) return CATALOG[i];
+    }
+    return null;
+  }
+
+  function presentList(doc, lang) {
+    var type = doc.type === "year" || doc.type === "region" ? doc.type : "species";
+    var resolved = [];
+    (doc.entries || []).forEach(function (entry, index) {
+      var species = resolveSpecies(entry);
+      if (!species) return;
+      resolved.push({
+        index: index,
+        species: species,
+        year: entry.year || 0,
+        region: entry.region || ""
+      });
+    });
+    resolved.sort(function (a, b) {
+      if (type === "year") {
+        if (!a.year && !b.year) return a.index - b.index;
+        if (!a.year) return 1;
+        if (!b.year) return -1;
+        if (a.year !== b.year) return b.year - a.year;
+        return a.index - b.index;
+      }
+      if (type === "region") {
+        if (!a.region && !b.region) return a.index - b.index;
+        if (!a.region) return 1;
+        if (!b.region) return -1;
+        var byRegion = a.region.toLowerCase().localeCompare(b.region.toLowerCase());
+        if (byRegion) return byRegion;
+        return a.index - b.index;
+      }
+      return a.index - b.index;
+    });
+    var cover = resolveSpecies({ name: doc.coverSpecies, speciesId: doc.coverSpeciesId });
+    if (!cover && resolved.length) cover = resolved[0].species;
+    return {
+      id: doc.id,
+      sort: doc.sort || 0,
+      title: listText(doc.titles, lang) || doc.id,
+      description: listText(doc.descriptions, lang),
+      sourceUrl: doc.sourceUrl || "",
+      cover: cover,
+      entries: resolved
+    };
+  }
+
+  function compareLists(a, b) {
+    if (a.sort !== b.sort) return a.sort - b.sort;
+    var left = a.title.toLowerCase();
+    var right = b.title.toLowerCase();
+    if (left < right) return -1;
+    if (left > right) return 1;
+    return 0;
+  }
+
+  function visibleLists(lang) {
+    return LISTS.filter(function (doc) { return listVisible(doc, lang); })
+      .map(function (doc) { return presentList(doc, lang); })
+      .filter(function (list) { return list.entries.length; })
+      .sort(compareLists);
+  }
+
+  function sourceHost(url) {
+    try {
+      return new URL(url).hostname.replace(/^www\./, "");
+    } catch (err) {
+      return "";
+    }
+  }
+
+  function listsHtml(lang) {
+    var copy = t(lang);
+    var lists = visibleLists(lang);
+    if (!lists.length) return "";
+    var cards = lists.map(function (list) {
+      var art = list.cover
+        ? '<div class="art"><img src="' + list.cover.plateGrid + '" alt=""></div>'
+        : '<div class="art"></div>';
+      return (
+        '<a class="cell" href="' + href("/list/" + encodeURIComponent(list.id), lang) + '">' +
+          art +
+          '<div class="n">' + esc(list.title) + "</div>" +
+          '<div class="g">' + esc(countLabel(list.entries.length, lang)) + "</div>" +
+        "</a>"
+      );
+    }).join("");
+    return (
+      '<section class="band">' +
+        '<div class="band-h"><h2>' + esc(copy.lists) + "</h2></div>" +
+        '<div class="list-line" style="--list-n: ' + lists.length + '">' + cards + "</div>" +
+      "</section>"
+    );
+  }
+
+  function listPage(lang, id) {
+    var copy = t(lang);
+    var doc = findList(id);
+    if (!doc || !listVisible(doc, lang)) return missing(lang);
+    var list = presentList(doc, lang);
+    var host = sourceHost(list.sourceUrl);
+    var source = host
+      ? '<a class="list-source" href="' + esc(list.sourceUrl) + '" target="_blank" rel="noopener noreferrer">' + esc(host) + "</a>"
+      : "";
+    var lede = (list.description || copy.listLede) + " " + countLabel(list.entries.length, lang);
+    var grid = list.entries.map(function (entry) {
+      var spoken = taxonLabel(entry.species.family, lang);
+      var mark = entry.region
+        ? { state: true, text: entry.region }
+        : entry.year
+          ? { text: String(entry.year) }
+          : null;
+      return cell(
+        entry.species,
+        lang,
+        spoken ? displayName(spoken, "", lang) : entry.species.family,
+        !!spoken,
+        mark
+      );
+    }).join("");
+    var body = grid
+      ? '<div class="grid">' + grid + "</div>"
+      : '<p class="center-msg">' + esc(copy.emptyList) + "</p>";
+    var page =
+      '<div class="page">' +
+        '<div class="home-hero"><div>' +
+          '<div class="kicker"><a href="' + href("/", lang) + '">' + esc(copy.nav) + "</a> · " + esc(copy.lists) + "</div>" +
+          '<h1 class="common">' + esc(list.title) + "</h1>" +
+          source +
+        '</div><p class="lede">' + esc(lede) + "</p></div>" +
+        body +
+      "</div>";
+    return {
+      title: list.title + " — " + copy.app,
+      description: lede,
+      image: list.cover ? list.cover.plate : "",
+      html: shell(lang, page, true)
+    };
   }
 
   function searchHits(query, lang) {
@@ -12578,6 +12771,7 @@ import {
           '<div class="band-h"><h2>' + esc(copy.recent) + "</h2></div>" +
           recentHtml(lang) +
         "</section>" +
+        listsHtml(lang) +
         '<section class="band">' +
           '<div class="band-h"><h2>' + esc(copy.browse) + "</h2></div>" +
           '<div class="browse-block">' +
@@ -13028,6 +13222,7 @@ import {
     if (route.view === "genera") return indexPage(route.lang, "genus");
     if (route.view === "family") return taxonPage(route.lang, "family", route.key);
     if (route.view === "genus") return taxonPage(route.lang, "genus", route.key);
+    if (route.view === "list") return listPage(route.lang, route.key);
     if (route.view === "mushroom") return mushroomPage(route.lang, route.key);
     return missing(route.lang);
   }
@@ -13255,15 +13450,34 @@ import {
   });
   }
 
+  function visibleListIds(lang) {
+    return visibleLists(lang).map(function (list) { return list.id; });
+  }
+
+  function listSpecies(id) {
+    var doc = findList(id);
+    if (!doc) return [];
+    return presentList(doc, "en").entries.map(function (entry) {
+      return {
+        name: entry.species.name,
+        year: entry.year || 0,
+        region: entry.region || ""
+      };
+    });
+  }
+
   export {
     CATALOG,
     COPY,
     LANGS,
+    LISTS,
     viewModel,
     parse,
     href,
     findSpecies,
     taxonNames,
+    visibleListIds,
+    listSpecies,
     bindCatalog,
     render
   };

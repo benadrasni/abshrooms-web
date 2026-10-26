@@ -12,6 +12,7 @@ import {
   findSpecies,
   taxonNames,
   viewModel,
+  visibleListIds,
 } from '../catalog.js';
 
 const SITE = 'https://whatsthatmushroom.app';
@@ -43,19 +44,30 @@ function pageUrl(lang, parts) {
   return SITE + '/' + segs.map((part) => encodeURIComponent(part)).join('/') + '/';
 }
 
-function hreflangTags(parts) {
-  return INDEXED.map(
-    (lang) =>
-      '<link rel="alternate" hreflang="' +
-      lang +
-      '" href="' +
-      escapeHtml(pageUrl(lang, parts)) +
-      '">'
-  ).concat([
-    '<link rel="alternate" hreflang="x-default" href="' +
-      escapeHtml(pageUrl('en', parts)) +
-      '">',
-  ]);
+function langsFor(parts) {
+  if (parts[0] === 'list' && parts[1]) {
+    return INDEXED.filter((lang) => visibleListIds(lang).indexOf(parts[1]) >= 0);
+  }
+  return INDEXED;
+}
+
+function hreflangTags(parts, langs) {
+  const codes = langs && langs.length ? langs : INDEXED;
+  const fallback = codes.indexOf('en') >= 0 ? 'en' : codes[0];
+  return codes
+    .map(
+      (lang) =>
+        '<link rel="alternate" hreflang="' +
+        lang +
+        '" href="' +
+        escapeHtml(pageUrl(lang, parts)) +
+        '">'
+    )
+    .concat([
+      '<link rel="alternate" hreflang="x-default" href="' +
+        escapeHtml(pageUrl(fallback, parts)) +
+        '">',
+    ]);
 }
 
 function stripSeo(html) {
@@ -85,7 +97,7 @@ function inject(template, opts) {
   const extra = [
     '<link rel="canonical" href="' + url + '">',
   ]
-    .concat(hreflangTags(opts.parts || []))
+    .concat(hreflangTags(opts.parts || [], opts.langs))
     .concat([
       '<meta property="og:type" content="website">',
       '<meta property="og:site_name" content="What\'s that mushroom?">',
@@ -121,18 +133,22 @@ function sitemapXml(entries) {
   const body = entries
     .map((entry) => {
       const loc = pageUrl(entry.lang, entry.parts);
-      const links = INDEXED.map(
-        (lang) =>
-          '    <xhtml:link rel="alternate" hreflang="' +
-          lang +
-          '" href="' +
-          pageUrl(lang, entry.parts).replace(/&/g, '&amp;') +
-          '"/>'
-      ).concat([
-        '    <xhtml:link rel="alternate" hreflang="x-default" href="' +
-          pageUrl('en', entry.parts).replace(/&/g, '&amp;') +
-          '"/>',
-      ]);
+      const codes = entry.langs && entry.langs.length ? entry.langs : INDEXED;
+      const fallback = codes.indexOf('en') >= 0 ? 'en' : codes[0];
+      const links = codes
+        .map(
+          (lang) =>
+            '    <xhtml:link rel="alternate" hreflang="' +
+            lang +
+            '" href="' +
+            pageUrl(lang, entry.parts).replace(/&/g, '&amp;') +
+            '"/>'
+        )
+        .concat([
+          '    <xhtml:link rel="alternate" hreflang="x-default" href="' +
+            pageUrl(fallback, entry.parts).replace(/&/g, '&amp;') +
+            '"/>',
+        ]);
       return (
         '  <url>\n    <loc>' +
         loc.replace(/&/g, '&amp;') +
@@ -168,6 +184,7 @@ function main() {
 
   function emit(lang, parts, route) {
     const model = modelFor(lang, route.view, route.key);
+    const langs = langsFor(parts);
     const image = model.image || (route.view === 'mushroom' ? '' : defaultImage);
     const description = String(model.description || '').slice(0, 240);
     const url = pageUrl(lang, parts);
@@ -180,6 +197,7 @@ function main() {
     const html = inject(template, {
       lang,
       parts,
+      langs,
       url,
       title: model.title,
       description,
@@ -208,7 +226,7 @@ function main() {
     } else {
       writePage(lang === 'en' ? parts : [lang].concat(parts), html);
     }
-    entries.push({ lang, parts });
+    entries.push({ lang, parts, langs });
   }
 
   INDEXED.forEach((lang) => {
@@ -251,6 +269,10 @@ function main() {
         key: genus,
         jsonLd: { name: genus, rank: 'Genus' },
       });
+    });
+
+    visibleListIds(lang).forEach((id) => {
+      emit(lang, ['list', id], { view: 'list', key: id });
     });
   });
 

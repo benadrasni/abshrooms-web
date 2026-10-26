@@ -226,6 +226,29 @@ button, input, select { font: inherit; color: inherit; }
   border-bottom: 1px solid var(--rule);
 }
 .recent-line .cell { grid-row: 2; border-bottom: 0; }
+.list-line {
+  display: grid;
+  /* Fixed to one Recently added plate. Leftover space in the row is not shared. */
+  grid-template-columns: repeat(
+    var(--list-n, 7),
+    min(220px, max(148px, calc(100% / 7)))
+  );
+  overflow-x: auto;
+  overscroll-behavior-x: contain;
+  -webkit-overflow-scrolling: touch;
+  border-top: 1px solid var(--rule);
+}
+.list-line .cell {
+  border-bottom: 0;
+  min-width: 0;
+}
+.list-line .cell .n {
+  font-size: 18px;
+  line-height: 1.25;
+  overflow-wrap: break-word;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+}
 .cell:hover, .cell:active { background: var(--cream); }
 .cell .art {
   aspect-ratio: 2 / 3;
@@ -236,6 +259,19 @@ button, input, select { font: inherit; color: inherit; }
 }
 .cell .art img { width: 100%; height: 100%; object-fit: contain; }
 .cell .n { font-family: Fraunces, Georgia, serif; font-size: 20px; margin-top: 12px; }
+.cell .year {
+  font-size: 11px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin-top: 12px;
+}
+.cell .year.state {
+  letter-spacing: 0.06em;
+  font-size: 13px;
+  line-height: 1.25;
+}
+.cell .year + .n { margin-top: 2px; }
 .cell .l { font-size: 14px; color: var(--ink-2); }
 .cell .g { font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-3); margin-top: 4px; }
 .cell .g.spoken { text-transform: none; letter-spacing: 0; font-size: 13px; }
@@ -248,6 +284,15 @@ button, input, select { font: inherit; color: inherit; }
   align-items: end;
 }
 .home-hero h1 { font-size: clamp(40px, 6vw, 64px); margin: 6px 0 0; }
+.list-source {
+  display: inline-block;
+  margin-top: 10px;
+  font-size: 14px;
+  color: var(--madder);
+  text-decoration: none;
+  border-bottom: 1px solid var(--rule);
+}
+.list-source:hover { border-bottom-color: var(--madder); }
 .home-hero .binomen { font-size: 20px; color: var(--ink-2); margin-top: 6px; }
 .home-hero .lede { margin: 0; max-width: 36ch; }
 
