@@ -144,10 +144,13 @@ test('about and privacy follow the language record', () => {
   const now = new Date();
   const today = dayKey(now);
   const yesterday = dayKey(new Date(now.getFullYear(), now.getMonth(), now.getDate() - 1));
-  const dated = [...siteCatalog]
-    .filter((species) => species.added !== today && species.added !== yesterday)
-    .sort((a, b) => (a.added < b.added ? 1 : -1))[0];
-  assert.ok(dated);
+  const recent = [...siteCatalog]
+    .sort((a, b) => {
+      if (a.added !== b.added) return a.added < b.added ? 1 : -1;
+      return b.id - a.id;
+    })
+    .slice(0, 7);
+  const dated = recent.find((species) => species.added !== today && species.added !== yesterday);
 
   for (const language of LANGS) {
     const copy = COPY[language.code];
@@ -188,14 +191,18 @@ test('about and privacy follow the language record', () => {
     assert.ok(privacy.html.includes(esc(copy.gaAllow)), language.code);
     assert.ok(privacy.html.includes(esc(copy.privacyAnalytics)), language.code);
 
-    const [year, month, day] = dated.added.split('-').map(Number);
-    const formatted = new Intl.DateTimeFormat(language.locale, {
-      day: 'numeric',
-      month: 'long',
-      year: 'numeric',
-    }).format(new Date(year, month - 1, day));
     const home = viewModel({ lang: language.code, view: 'home', search: '' });
-    assert.ok(home.html.includes(esc(formatted)), `${language.code} ${formatted}`);
+    if (dated) {
+      const [year, month, day] = dated.added.split('-').map(Number);
+      const formatted = new Intl.DateTimeFormat(language.locale, {
+        day: 'numeric',
+        month: 'long',
+        year: 'numeric',
+      }).format(new Date(year, month - 1, day));
+      assert.ok(home.html.includes(esc(formatted)), `${language.code} ${formatted}`);
+    } else {
+      assert.ok(home.html.includes(esc(copy.today)), `${language.code} today`);
+    }
   }
 
   assert.equal(COPY.sl.two, '{n} gobi');

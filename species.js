@@ -13942,5 +13942,669 @@ export const CATALOG = [
       "Protocrea cornu-damae (Pat.) Sacc. & D. Sacc. 1905",
       "Podostroma cornu-damae (Pat.) Boedijn 1934"
     ]
+  },
+  {
+    id: 66,
+    name: "Amanita exitialis",
+    author: "Zhu L. Yang & T.H. Li",
+    family: "Amanitaceae",
+    genus: "Amanita",
+    order: "Agaricales",
+    edibility: "deadly",
+    hymenium: "gills",
+    where: ["ground"],
+    color: ["white"],
+    path: [
+      "Fungi",
+      "Dikarya",
+      "Basidiomycota",
+      "Agaricomycotina",
+      "Agaricomycetes",
+      "Agaricomycetidae",
+      "Agaricales",
+      "Amanitaceae",
+      "Amanita"
+    ],
+    summary: ["Agaricales", "Amanitaceae", "Amanita"],
+    added: "2026-10-27",
+    plate: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_exitialis/Amanita_exitialis@1600.webp",
+    plateGrid: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_exitialis/Amanita_exitialis@400.webp",
+    plateCredit: {
+      author: "Gemini",
+      license: "not stated"
+    },
+    photos: [
+      {
+        src: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_exitialis/ex1.webp",
+        author: "Juan Zhong, Jianping Xu, and Ping Zhang",
+        license: "CC BY 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+        source: "https://doi.org/10.3390/genes12121907"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_exitialis/ex2.webp",
+        author: "Juan Zhong, Jianping Xu, and Ping Zhang",
+        license: "CC BY 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+        source: "https://doi.org/10.3390/genes12121907"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_exitialis/ex3.webp",
+        author: "小铖",
+        license: "CC BY-NC 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-nc/4.0",
+        source: "https://www.inaturalist.org/observations/83745795"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_exitialis/ex4.webp",
+        author: "小铖",
+        license: "CC BY-NC 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-nc/4.0",
+        source: "https://www.inaturalist.org/observations/83745795"
+      }
+    ],
+    capFrom: 4,
+    capTo: 8,
+    stipeHeightFrom: 7,
+    stipeHeightTo: 9,
+    stipeThickFrom: 0.5,
+    stipeThickTo: 1,
+    fruitingFrom: 3,
+    fruitingTo: 10,
+    label: {
+      en: "Guangzhou destroying angel"
+    },
+    names: {},
+    text: {
+      en: {
+        description: "An ectomycorrhizal mushroom of subtropical broadleaf woods in southern and southwestern China, above all with the evergreen Castanopsis fissa. It is known from Guangdong, Yunnan, Guizhou, and Zhejiang, and poisoning cases are known from Thailand. A two-spored collection from Odisha has been referred to this species.",
+        cap: "The cap is 4–8 cm across. It starts egg-shaped, then becomes convex and later flattens, sometimes with a slight depression in the centre. The surface is smooth and white, sometimes cream over the disc. The margin is not lined, and it does not carry hanging veil fragments.",
+        hymenium: "The gills are free, crowded, and white to whitish, up to 5 mm deep. Short gills are plentiful, taper toward the stipe, and lie in two or three tiers. The basidia are club-shaped, 27–55 × 10–15 μm, and almost all two-spored, rarely one-spored, with sterigmata 5–7 μm long, occasionally to 9 μm. Clamp connections are absent at the basidial bases.",
+        stipe: "The stipe is 7–9 cm long and 0.5–1 cm thick, white to whitish, nearly cylindrical or slightly narrower upward, with a slightly swollen apex. It is smooth or bears fine fibrillose scales. A thin white membranous ring sits at or just below the apex and may tear away as the cap expands. The base is a roughly spherical bulb 1–2 cm wide, seated in a thin white membranous volva whose free limb is about 7 mm to 2 cm high.",
+        flesh: "The flesh is white. Dilute potassium hydroxide turns every tissue yellow.",
+        sporePrint: "White. The spores are smooth, thin-walled, and globose to subglobose, rarely broadly ellipsoid, about (9–)9.5–12(–14.5) × (8.5–)9–11.5(–13) μm, with a small apiculus, and they turn blue in iodine.",
+        habitat: "Fruit bodies appear singly or in groups on the ground. In Guangdong they are abundant in the warm rains of March and April and continue into July. In Yunnan they appear from midsummer into autumn. The usual tree is Castanopsis fissa. At several Guangdong sites they also grow in mixed stands that include Lithocarpus glaber.",
+        uses: "It is deadly. It contains amatoxins and phallotoxins. Cooking, drying, and freezing do not destroy them.",
+        confusion: "Amanita bisporigera has a lower ring, smaller spores, typically 8–9.5 × 7–8.5 μm, and more inflated cells in the volva. Amanita oberwinklerana is four-spored, with ellipsoid spores, a ring that sits lower than the apex, a more fragile ring and volva, more inflated cells in the volva, and no yellow reaction to potassium hydroxide. Amanita subjunquillea var. alba is four-spored, with a lower ring and smaller spores. Amanita verna is four-spored. Amanita virosa is four-spored and has white recurved scales on the stipe. Amanita parviexitialis is two-spored, but the cap is about 3 cm across and slightly brown at the centre. Amanita suballiacea is four-spored, with smaller ellipsoid to broadly ellipsoid spores. Amanita pallidorosea and Amanita subpallidorosea often have a pink tint at the centre of the cap. Amanita rimosa may crack radially at the cap margin. Amanita chepangiana and Amanita alboumbelliformis have a lined margin, a hollow stipe, a base that is not bulbous, and short gills that are cut off squarely. Volvopluteus gloiocephalus has no ring, its mature gills and spore print are pink, and it grows on litter rather than with living trees.",
+        notes: "Nearly every basidium bears two spores, and each spore receives two nuclei, so it can establish a dikaryon without mating. Shared multilocus genotypes have been found at Guangdong sites more than 80 km apart. From 2019 to 2023 it caused more deaths in China than any other mushroom, 135 cases and 24 deaths. About 50 g fresh is estimated to hold enough toxin to kill a 50 kg adult, and the highest concentrations are in the cap and the gills."
+      },
+      sk: {
+        description: "Ektomykorízna huba subtropických listnatých lesov južnej a juhozápadnej Číny, predovšetkým so vždyzeleným druhom Castanopsis fissa. Je známa z provincií Kuang-tung, Jün-nan, Kuej-čou a Če-ťiang a prípady otravy sú známe z Thajska. K tomuto druhu bol priradený aj dvojvýtrusový zber z Urísy.",
+        cap: "Klobúk má v priemere 4–8 cm. Za mladi je vajcovitý, potom klenutý a neskôr sa rozprestiera, niekedy s miernou priehlbinou v strede. Povrch je hladký a biely, na temene niekedy krémový. Okraj nie je ryhovaný a nenesie ovisnuté zvyšky závoja.",
+        hymenium: "Lupene sú voľné, husté, biele až belavé a široké až 5 mm. Krátke lupienky sú početné, k hlúbiku sa zužujú a ležia v dvoch alebo troch radoch. Bazídiá sú kyjakovité, veľké 27–55 × 10–15 μm, takmer všetky dvojvýtrusové, zriedka jednovýtrusové, so sterigmami dlhými 5–7 μm, občas až 9 μm. Na báze bazídií chýbajú spojky.",
+        stipe: "Hlúbik je dlhý 7–9 cm a hrubý 0,5–1 cm, biely až belavý, takmer valcovitý alebo smerom nahor mierne zúžený, s mierne rozšíreným vrcholom. Je hladký alebo má jemné vláknité šupinky. Tenký biely blanitý prsteň sedí na vrchole alebo tesne pod ním a pri rozpínaní klobúka sa môže odtrhnúť. Báza je približne guľovitá hľuza široká 1–2 cm, vsadená do tenkej bielej blanitej pošvy, ktorej voľný lem je vysoký asi 0,7–2 cm.",
+        flesh: "Dužina je biela. Zriedený hydroxid draselný sfarbuje všetky pletivá na žlto.",
+        sporePrint: "Výtrusný prach je biely. Výtrusy sú hladké, tenkostenné, guľovité až takmer guľovité, zriedka široko elipsoidné, veľké približne (9–)9,5–12(–14,5) × (8,5–)9–11,5(–13) μm, s malým apikulom, a v jóde sa sfarbujú na modro.",
+        habitat: "Plodnice vyrastajú jednotlivo alebo v skupinách na zemi. V Kuang-tungu sú hojné za teplých dažďov v marci a apríli a vyskytujú sa ďalej až do júla. V Jün-nane sa objavujú od polovice leta do jesene. Obvyklým stromom je Castanopsis fissa. Na viacerých lokalitách v Kuang-tungu rastú aj v zmiešaných porastoch, v ktorých je aj Lithocarpus glaber.",
+        uses: "Je smrteľne jedovatá. Obsahuje amatoxíny a falotoxíny. Varenie, sušenie ani mrazenie ich nezničia.",
+        confusion: "Amanita bisporigera má nižšie položený prsteň, menšie výtrusy, zvyčajne 8–9,5 × 7–8,5 μm, a viac nafúknutých buniek v pošve. Amanita oberwinklerana je štvorvýtrusová, má elipsoidné výtrusy, prsteň položený nižšie než na vrchole, krehkejší prsteň aj pošvu, viac nafúknutých buniek v pošve a na hydroxid draselný nežltne. Amanita subjunquillea var. alba je štvorvýtrusová, s nižšie položeným prsteňom a menšími výtrusmi. Muchotrávka biela (Amanita verna) je štvorvýtrusová. Muchotrávka končistá (Amanita virosa) je štvorvýtrusová a na hlúbiku má biele spätne ohnuté šupiny. Amanita parviexitialis je dvojvýtrusová, no klobúk má v priemere asi 3 cm a v strede je jemne hnedastý. Amanita suballiacea je štvorvýtrusová a má menšie elipsoidné až široko elipsoidné výtrusy. Amanita pallidorosea a Amanita subpallidorosea majú v strede klobúka často ružový nádych. Amanita rimosa môže na okraji klobúka lúčovito puknúť. Amanita chepangiana a Amanita alboumbelliformis majú ryhovaný okraj, dutý hlúbik, bázu, ktorá nie je hľuzovitá, a krátke lupienky, ktoré sú rovno uťaté. Volvopluteus gloiocephalus nemá prsteň, jeho dospelé lupene a výtrusný prach sú ružové a rastie na opade, nie s živými stromami.",
+        notes: "Takmer každé bazídium nesie dva výtrusy a každý výtrus dostane dve jadrá, takže dokáže založiť dikaryón bez párenia. Spoločné multilokusové genotypy sa našli na lokalitách v Kuang-tungu vzdialených od seba viac ako 80 km. V rokoch 2019 až 2023 spôsobila v Číne viac úmrtí ako ktorákoľvek iná huba, 135 prípadov a 24 úmrtí. Odhaduje sa, že asi 50 g čerstvej plodnice obsahuje dosť toxínu na usmrtenie dospelého človeka s hmotnosťou 50 kg a najvyššie koncentrácie sú v klobúku a v lupeňoch."
+      }
+    },
+    sources: {
+      en: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Amanita_exitialis"
+        },
+        {
+          group: "text",
+          name: "Tulloss",
+          href: "http://tullabs.com/amanita/?Amanita+exitialis"
+        },
+        {
+          group: "text",
+          name: "Zhong, Xu, and Zhang",
+          href: "https://doi.org/10.3390/genes12121907",
+          detail: "Genes 12: 1907 (2021)"
+        },
+        {
+          group: "text",
+          name: "Mycopedia",
+          href: "http://www.mycopedia.top/result.php?details=Amanita%20exitialis"
+        },
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=467883",
+          detail: "467883"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=467883",
+          detail: "467883"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=467883",
+          detail: "467883"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/467883",
+          detail: "467883"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5452714",
+          detail: "5452714"
+        }
+      ]
+    },
+    synonyms: []
+  },
+  {
+    id: 67,
+    name: "Amanita fuliginea",
+    author: "Hongo",
+    family: "Amanitaceae",
+    genus: "Amanita",
+    order: "Agaricales",
+    edibility: "deadly",
+    hymenium: "gills",
+    where: ["ground"],
+    color: ["dark", "brown"],
+    path: [
+      "Fungi",
+      "Dikarya",
+      "Basidiomycota",
+      "Agaricomycotina",
+      "Agaricomycetes",
+      "Agaricomycetidae",
+      "Agaricales",
+      "Amanitaceae",
+      "Amanita"
+    ],
+    summary: ["Agaricales", "Amanitaceae", "Amanita"],
+    added: "2026-10-27",
+    plate: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_fuliginea/Amanita_fuliginea@1600.webp",
+    plateGrid: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_fuliginea/Amanita_fuliginea@400.webp",
+    plateCredit: {
+      author: "Gemini",
+      license: "not stated"
+    },
+    photos: [
+      {
+        src: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_fuliginea/fu1.webp",
+        author: "lxjfx",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Amanita_fuliginea_Hongo_803897.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_fuliginea/fu2.webp",
+        author: "lxjfx",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Amanita_fuliginea_Hongo_803896.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_fuliginea/fu3.webp",
+        author: "Paul Sinclair",
+        license: "CC BY-NC 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-nc/4.0",
+        source: "https://www.inaturalist.org/observations/70481955"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_fuliginea/fu4.webp",
+        author: "老山敬德",
+        license: "CC BY-NC 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-nc/4.0",
+        source: "https://www.inaturalist.org/observations/323213743"
+      }
+    ],
+    capFrom: 3,
+    capTo: 6,
+    stipeHeightFrom: 6,
+    stipeHeightTo: 10,
+    stipeThickFrom: 0.4,
+    stipeThickTo: 1,
+    fruitingFrom: 5,
+    fruitingTo: 10,
+    label: {
+      en: "East Asian brown death cap"
+    },
+    names: {},
+    text: {
+      en: {
+        description: "An ectomycorrhizal mushroom of woods dominated by oaks, Castanopsis, and other trees in the beech family. It is known from Japan, from eastern, southern, central, and southwestern China, and from a fagaceous forest in northern Thailand. In southern and central China it has repeatedly caused fatal poisonings.",
+        cap: "The cap is 3–6 cm across. It starts egg-shaped to bell-shaped, then becomes convex and later flat, sometimes with a low broad umbo. It is slightly sticky when wet and shiny when dry. The colour is sooty brown to blackish, darkest at the centre, with dark grey fibrils innate in the surface. The margin is not lined and carries no hanging veil, and it may split with age.",
+        hymenium: "The gills are free, crowded, and white to greyish white, about 3–4 mm broad, with even edges. Short gills are plentiful and taper toward the stipe. The full gills number about 80–100, and the short gills lie in one to three lengths. The basidia are club-shaped and four-spored, about 26–35 × 8–15 μm, with sterigmata about 4–5.5 μm long. Clamp connections are absent.",
+        stipe: "The stipe is 6–10 cm long and 0.4–1 cm thick. It is stuffed, then hollow, nearly equal or slightly narrower upward, with a slightly swollen apex. It is paler than the cap, white to greyish, and below the ring it carries grey to grey-brown fibrils and scales, often in a zigzag. A membranous ring sits near the apex. It is whitish at first, then dingy or grey, faintly lined, and persistent. The base is slightly bulbous to nearly spherical, sheathed in a white membranous volva that is free for about half its depth and splits into three to five lobes.",
+        flesh: "The flesh is white, thin, and unchanging. The odour is faint or lacking, and there is no distinct taste.",
+        sporePrint: "White. The spores are smooth, thin-walled, hyaline, and globose to subglobose, and they turn blue in iodine. Most are about 7.5–9.5 μm across, within a measured span of about 7–11 × 6.5–10 μm.",
+        habitat: "Fruit bodies appear singly or in small groups on the ground under Castanopsis, oaks, and other trees of the beech family. In Japan they fruit from summer into autumn. In China they fruit from late spring into summer. In northern Thailand they are known from late July.",
+        uses: "It is deadly. It contains amatoxins, including α-amanitin and β-amanitin, and phallotoxins. The highest concentrations are in the gills, the cap, and the stipe.",
+        confusion: "Amanita fuligineoides is larger, its stipe base is not globose to subglobose, and its volva has fewer inflated cells. Amanita subfuliginea has smaller spores. Amanita pseudoporphyria may carry veil fragments on the cap, has a white ring and a thick white volva, and the stipe thickens downward and bears white fibrils. Amanita porphyria grows under conifers, carries warty or patchy veil remnants on the cap, and has a shallow volva. Amanita elephas has a white ring and smaller spores. Amanita citrina var. grisea has a yellowish ring, a shallow reddish-brown volva, and an odd odour.",
+        notes: "The first confirmed poisoning, in 1997, involved 14 people and 9 deaths. Later counts for southern China give 33 incidents, 352 people poisoned, and 79 deaths. Toxin levels are already high in the button, peak while the fruit body is growing vigorously, and fall when it is mature. Amatoxins exceed phallotoxins in every tissue, and the place where the mushroom grew changes the total amount more than the balance between the two groups."
+      },
+      sk: {
+        description: "Ektomykorízna huba lesov, v ktorých prevládajú duby, Castanopsis a iné stromy z čeľade bukovitých. Je známa z Japonska, z východnej, južnej, strednej a juhozápadnej Číny a z lesa bukovitých v severnom Thajsku. V južnej a strednej Číne opakovane spôsobila smrteľné otravy.",
+        cap: "Klobúk má v priemere 3–6 cm. Za mladi je vajcovitý až zvoncovitý, potom klenutý a neskôr plochý, niekedy s nízkym širokým hrboľom. Za vlhka je mierne lepkavý a za sucha lesklý. Je sadzovohnedý až načernalý, najtmavší v strede, s tmavosivými vláknami vrodenými do povrchu. Okraj nie je ryhovaný, nenesie ovisnutý závoj a s vekom môže puknúť.",
+        hymenium: "Lupene sú voľné, husté, biele až sivobiele, široké asi 3–4 mm, s rovným ostrím. Krátke lupienky sú početné a k hlúbiku sa zužujú. Plných lupeňov je asi 80–100 a krátke lupienky ležia v jednom až troch radoch. Bazídiá sú kyjakovité a štvorvýtrusové, veľké asi 26–35 × 8–15 μm, so sterigmami dlhými asi 4–5,5 μm. Spojky chýbajú.",
+        stipe: "Hlúbik je dlhý 6–10 cm a hrubý 0,4–1 cm. Najprv je vycpaný, potom dutý, takmer rovnako hrubý alebo smerom nahor mierne zúžený, s mierne rozšíreným vrcholom. Je bledší ako klobúk, biely až sivastý, a pod prsteňom má sivé až sivohnedé vlákna a šupiny, často v cikcaku. Blanitý prsteň sedí pri vrchole. Najprv je belavý, potom zašlý alebo sivý, slabo ryhovaný a vytrvalý. Báza je mierne hľuzovitá až takmer guľovitá a obalená bielou blanitou pošvou, ktorá je voľná asi do polovice svojej hĺbky a rozdeľuje sa na tri až päť lalokov.",
+        flesh: "Dužina je biela, tenká a nemenná. Vôňa je slabá alebo chýba a chuť je nevýrazná.",
+        sporePrint: "Výtrusný prach je biely. Výtrusy sú hladké, tenkostenné, hyalínne, guľovité až takmer guľovité a v jóde sa sfarbujú na modro. Väčšina má v priemere asi 7,5–9,5 μm a namerané rozpätie je asi 7–11 × 6,5–10 μm.",
+        habitat: "Plodnice vyrastajú jednotlivo alebo v malých skupinách na zemi pod drevinami Castanopsis, pod dubmi a pod inými stromami z čeľade bukovitých. V Japonsku sa objavujú od leta do jesene, v Číne od neskorej jari do leta a v severnom Thajsku sú známe z konca júla.",
+        uses: "Je smrteľne jedovatá. Obsahuje amatoxíny, vrátane α-amanitínu a β-amanitínu, a falotoxíny. Najvyššie koncentrácie sú v lupeňoch, v klobúku a v hlúbiku.",
+        confusion: "Amanita fuligineoides je väčšia, báza jej hlúbika nie je guľovitá až takmer guľovitá a jej pošva má menej nafúknutých buniek. Amanita subfuliginea má menšie výtrusy. Amanita pseudoporphyria môže na klobúku niesť útržky plachtičky, má biely prsteň a hrubú bielu pošvu a jej hlúbik sa smerom nadol rozširuje a nesie biele vlákna. Amanita porphyria rastie pod ihličnanmi, na klobúku má bradavkovité alebo vločkovité zvyšky plachtičky a má plytkú pošvu. Amanita elephas má biely prsteň a menšie výtrusy. Amanita citrina var. grisea má žltkastý prsteň, plytkú červenohnedú pošvu a zvláštnu vôňu.",
+        notes: "Prvá potvrdená otrava v roku 1997 zasiahla 14 ľudí a 9 z nich zomrelo. Neskoršie údaje pre južnú Čínu uvádzajú 33 prípadov, 352 otrávených ľudí a 79 úmrtí. Hladiny toxínov sú vysoké už v gombíku, vrcholia, kým plodnica bujne rastie, a klesajú, keď dozrieva. V každom pletive je amatoxínov viac než falotoxínov. Miesto, kde huba rástla, mení celkové množstvo viac než pomer medzi oboma skupinami."
+      }
+    },
+    sources: {
+      en: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Amanita_fuliginea"
+        },
+        {
+          group: "text",
+          name: "Hongo",
+          href: "https://doi.org/10.51033/jjapbot.28_3_3541",
+          detail: "J. Jap. Bot. 28(3): 69 (1953)"
+        },
+        {
+          group: "text",
+          name: "Mikawa no yaso",
+          href: "https://mikawanoyasou.org/kinoko/kurotamagotengutake.htm"
+        },
+        {
+          group: "text",
+          name: "Sanmee and others",
+          href: "https://www.fungaldiversity.org/fdp/sfdp/32-7.pdf",
+          detail: "Fungal Diversity 32: 97 (2008)"
+        },
+        {
+          group: "text",
+          name: "Cai, Cui, and Yang",
+          href: "https://doi.org/10.3852/16-008",
+          detail: "Mycologia 108: 993 (2016)"
+        },
+        {
+          group: "text",
+          name: "Zhou and others",
+          href: "https://doi.org/10.1016/j.myc.2017.03.003",
+          detail: "Mycoscience 58: 267 (2017)"
+        },
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=292451",
+          detail: "292451"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=292451",
+          detail: "292451"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=292451",
+          detail: "292451"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/292451",
+          detail: "292451"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5451781",
+          detail: "5451781"
+        }
+      ]
+    },
+    synonyms: []
+  },
+  {
+    id: 68,
+    name: "Amanita rimosa",
+    author: "P. Zhang & Zhu L. Yang",
+    family: "Amanitaceae",
+    genus: "Amanita",
+    order: "Agaricales",
+    edibility: "deadly",
+    hymenium: "gills",
+    where: ["ground"],
+    color: ["white", "yellow", "brown"],
+    path: [
+      "Fungi",
+      "Dikarya",
+      "Basidiomycota",
+      "Agaricomycotina",
+      "Agaricomycetes",
+      "Agaricomycetidae",
+      "Agaricales",
+      "Amanitaceae",
+      "Amanita"
+    ],
+    summary: ["Agaricales", "Amanitaceae", "Amanita"],
+    added: "2026-10-27",
+    plate: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_rimosa/Amanita_rimosa@1600.webp",
+    plateGrid: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_rimosa/Amanita_rimosa@400.webp",
+    plateCredit: {
+      author: "Gemini",
+      license: "not stated"
+    },
+    photos: [
+      {
+        src: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_rimosa/ri1.webp",
+        author: "Benjarong Thongbai",
+        license: "CC BY 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/3.0",
+        source: "https://doi.org/10.11646/phytotaxa.286.4.1"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_rimosa/ri2.webp",
+        author: "James_Ruan",
+        license: "CC BY-NC 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-nc/4.0",
+        source: "https://www.inaturalist.org/observations/398012247"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_rimosa/ri3.webp",
+        author: "James_Ruan",
+        license: "CC BY-NC 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-nc/4.0",
+        source: "https://www.inaturalist.org/observations/398012247"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_rimosa/ri4.webp",
+        author: "Jyoji Irisa",
+        license: "CC BY-NC 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-nc/4.0",
+        source: "https://www.inaturalist.org/observations/334488169"
+      }
+    ],
+    capFrom: 3,
+    capTo: 6.2,
+    stipeHeightFrom: 5,
+    stipeHeightTo: 9,
+    stipeThickFrom: 0.3,
+    stipeThickTo: 1,
+    fruitingFrom: 6,
+    fruitingTo: 9,
+    label: {},
+    names: {},
+    text: {
+      en: {
+        description: "An ectomycorrhizal mushroom of broad-leaved woods, especially forests dominated by trees of the beech family. It is known from Jiangxi, Hunan, Hubei, Guangdong, Guizhou, Yunnan, and Hainan in China, and from northern Thailand. A sequenced collection is known from Hyogo, Japan. Fatal poisonings are recorded from southern China.",
+        cap: "The cap is 3–6.2 cm across. It begins hemispherical and becomes convex, then flat. The surface is dry or slightly sticky, and shiny when moist. It is white to yellowish white toward the margin. The centre is pale yellow to cream, and it may be slightly brown. The margin is not lined and carries no hanging veil. Fine radial ridges, sometimes clear only under a lens, run out to a margin that may crack.",
+        hymenium: "The gills are free, crowded, and white to whitish, about 4–5 mm broad. Short gills lie in two or three lengths and taper toward the stipe. The gill edge is sterile and bears inflated cells about 20–25 × 15–20 μm. The basidia are club-shaped and four-spored, 38–42 × 15–18 μm, with sterigmata 4–6 μm long. Clamp connections are absent at the basidia.",
+        stipe: "The stipe is 5–9 cm long and the shaft is 0.3–1 cm thick. The length of 7–9 cm includes the bulb. It is nearly cylindrical, slightly narrower upward, and solid. It is white to dirty white, sometimes with minute white scales, and it may bruise slightly yellowish white. A thin membranous ring sits near the apex. It is skirt-like, slightly lined, and white. The base has a globose to subglobose marginate bulb about 1.6–2 cm wide. A white limb of the volva rises as much as 1 cm from the margin of the bulb, and a membranous white inner limb is present.",
+        flesh: "The flesh is white. In the cap it is soft and about 2–3 mm thick above the stipe. In the stipe it is solid and white to whitish.",
+        sporePrint: "White. The spores are smooth, colourless, and thin-walled, globose to subglobose, occasionally broadly ellipsoid, and often flattened on the inner side. They measure (6.0–)6.3–8.3(–8.6) × (5.6–)5.8–7.4(–8.2) μm, on average about 7.0 × 6.6 μm, with Q 1.01–1.16(–1.18). The average Q is about 1.06. They turn blue in iodine.",
+        habitat: "Fruit bodies appear singly or scattered on the ground in broad-leaved forest, including woods of the beech family, from June into September.",
+        uses: "It is deadly. It contains amatoxins and causes acute liver injury, which can progress to liver failure. No specific antidote is known.",
+        notes: "In Wengyuan County, Guangdong, five people were poisoned, and two of them, a 15-year-old and a 7-year-old, died. Mushrooms collected at the site were identified as this species and as Amanita fuliginea. The cap skin is 130–190 μm thick and two-layered. Its upper layer is slightly gelatinized and contains abundant inflated cells, a combination unique in Amanita section Phalloideae."
+      },
+      sk: {
+        description: "Ektomykorízna huba listnatých lesov, najmä porastov, v ktorých prevládajú stromy z čeľade bukovitých. Je známa z provincií Ťiang-si, Chu-nan, Chu-pej, Kuang-tung, Kuej-čou, Jün-nan a Chaj-nan v Číne a zo severného Thajska. Sekvenovaný zber je známy z prefektúry Hjógo v Japonsku. Smrteľné otravy sú zaznamenané z južnej Číny.",
+        cap: "Klobúk má v priemere 3–6,2 cm. Za mladi je polguľovitý, potom klenutý a neskôr plochý. Povrch je suchý alebo mierne lepkavý a za vlhka lesklý. K okraju je biely až žltkastobiely. Stred je bledožltý až krémový a môže byť mierne hnedý. Okraj nie je ryhovaný a nenesie ovisnutý závoj. Jemné lúčovité hrebienky, niekedy zreteľné len pod lupou, siahajú k okraju, ktorý môže puknúť.",
+        hymenium: "Lupene sú voľné, husté, biele až belavé, široké asi 4–5 mm. Krátke lupienky ležia v dvoch alebo troch radoch a k hlúbiku sa zužujú. Ostrie lupeňov je sterilné a nesie nafúknuté bunky veľké asi 20–25 × 15–20 μm. Bazídiá sú kyjakovité a štvorvýtrusové, veľké 38–42 × 15–18 μm, so sterigmami dlhými 4–6 μm. Pri bazídiách spojky chýbajú.",
+        stipe: "Hlúbik je dlhý 5–9 cm a driek je hrubý 0,3–1 cm. Dĺžka 7–9 cm zahŕňa hľuzu. Je takmer valcovitý, smerom nahor mierne zúžený a plný. Je biely až špinavobiely, niekedy s drobnými bielymi šupinami, a po otlačení môže nadobudnúť slabý žltkastobiely odtieň. Tenký blanitý prsteň sedí pri vrchole. Je sukňovitý, slabo ryhovaný a biely. Báza má guľovitú až takmer guľovitú hľuzu s odsadeným okrajom, širokú asi 1,6–2 cm. Z okraja hľuzy vystupuje biely lem pošvy, vysoký až 1 cm, a prítomný je aj blanitý biely vnútorný lem.",
+        flesh: "Dužina je biela. V klobúku je mäkká a nad hlúbikom hrubá asi 2–3 mm. V hlúbiku je plná a biela až belavá.",
+        sporePrint: "Výtrusný prach je biely. Výtrusy sú hladké, bezfarebné a tenkostenné, guľovité až takmer guľovité, občas široko elipsoidné a často sploštené na vnútornej strane. Merajú (6,0–)6,3–8,3(–8,6) × (5,6–)5,8–7,4(–8,2) μm, v priemere asi 7,0 × 6,6 μm, s Q 1,01–1,16(–1,18). Priemerné Q je asi 1,06. V jóde sa sfarbujú na modro.",
+        habitat: "Plodnice vyrastajú jednotlivo alebo roztrúsene na zemi v listnatom lese, aj v lesoch bukovitých, od júna do septembra.",
+        uses: "Je smrteľne jedovatá. Obsahuje amatoxíny a spôsobuje akútne poškodenie pečene, ktoré môže prejsť do zlyhania pečene. Špecifické antidotum nie je známe.",
+        notes: "V okrese Wengyuan v provincii Kuang-tung sa otrávilo päť ľudí a dvaja z nich, pätnásťročné dieťa a sedemročné dieťa, zomreli. Huby nazbierané na mieste boli určené ako tento druh a ako Amanita fuliginea. Pokožka klobúka je hrubá 130–190 μm a dvojvrstvová. Jej vrchná vrstva je mierne rôsolovatá a obsahuje hojné nafúknuté bunky, čo je v sekcii Phalloideae rodu Amanita jedinečné spojenie."
+      }
+    },
+    sources: {
+      en: [
+        {
+          group: "text",
+          name: "Thongbai and others",
+          href: "https://doi.org/10.11646/phytotaxa.286.4.1",
+          detail: "Phytotaxa 286(4): 211 (2016)"
+        },
+        {
+          group: "text",
+          name: "China CDC",
+          href: "https://niohp.chinacdc.cn/kpdw/zdkz/201806/t20180601_172885.htm"
+        },
+        {
+          group: "text",
+          name: "iNaturalist",
+          href: "https://www.inaturalist.org/observations/334488169",
+          detail: "Hyogo"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Amanita_rimosa"
+        },
+        {
+          group: "name",
+          name: "Zhang and others",
+          href: "https://doi.org/10.1007/s13225-010-0018-4",
+          detail: "Fungal Diversity 42: 124 (2010)"
+        },
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=515098",
+          detail: "515098"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=515098",
+          detail: "515098"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=515098",
+          detail: "515098"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/515098",
+          detail: "515098"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/8091988",
+          detail: "8091988"
+        }
+      ]
+    },
+    synonyms: []
+  },
+  {
+    id: 69,
+    name: "Trogia venenata",
+    author: "Zhu L. Yang, Yan C. Li & L.P. Tang",
+    family: "Porotheleaceae",
+    genus: "Trogia",
+    order: "Agaricales",
+    edibility: "deadly",
+    hymenium: "gills",
+    where: ["wood"],
+    color: ["white", "red", "brown"],
+    path: [
+      "Fungi",
+      "Dikarya",
+      "Basidiomycota",
+      "Agaricomycotina",
+      "Agaricomycetes",
+      "Agaricomycetidae",
+      "Agaricales",
+      "Porotheleaceae",
+      "Trogia"
+    ],
+    summary: ["Agaricales", "Porotheleaceae", "Trogia"],
+    added: "2026-10-27",
+    plate: STORAGE + "photos/Agaricales/Porotheleaceae/Trogia_venenata/Trogia_venenata@1600.webp",
+    plateGrid: STORAGE + "photos/Agaricales/Porotheleaceae/Trogia_venenata/Trogia_venenata@400.webp",
+    plateCredit: {
+      author: "Gemini",
+      license: "not stated"
+    },
+    photos: [
+      {
+        src: STORAGE + "photos/Agaricales/Porotheleaceae/Trogia_venenata/tv1.webp",
+        author: "Guo-Qing Shi et al.",
+        license: "CC BY 2.5",
+        licenseUrl: "https://creativecommons.org/licenses/by/2.5/",
+        source: "https://doi.org/10.1371/journal.pone.0035894.g002"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Porotheleaceae/Trogia_venenata/tv2.webp",
+        author: "Fei Mi et al.",
+        license: "CC BY 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/4.0/",
+        source: "https://doi.org/10.1371/journal.pone.0149507.g001"
+      }
+    ],
+    fruitingFrom: 6,
+    fruitingTo: 9,
+    label: {
+      en: "little white mushroom"
+    },
+    names: {
+      en: ["nail-like mushroom"]
+    },
+    text: {
+      en: {
+        description: "A common wood-rotting mushroom that fruits in clusters on dead wood. It grows in the subtropical mountains of Yunnan, in southwestern China, and it is known only from the southwest, the centre, and the northwest of the province, between about 1,700 and 3,000 m.",
+        cap: "The fruit body is delicate, about 3–7 cm on the shorter axis and 5–10 cm on the longer. The cap is fan-shaped to petal-like, like a ginkgo leaf, with a wavy and partly translucent margin. It is white when fresh, and the colour also runs from pinkish through dirty white to light brown.",
+        hymenium: "The gills are narrow and decurrent.",
+        stipe: "The stipe is short and often off-centre or lateral. It is fibrous and pale to brownish, and it is not hollow.",
+        flesh: "The flesh is fragile and easy to break. A pleasant smell is lacking.",
+        habitat: "Fruit bodies appear from June into early September. Studied collections were made in the rainy months of June, July, and August. They grow in clusters, often profusely where the fungus is found, on dead trees, stumps, fallen trunks, and other rotten wood, in broad-leaved and mixed mountain forest, including woods dominated by trees of the beech, pine, and tea families. The places it has been found in the field lie between about 1,800 and 2,800 m.",
+        uses: "People who died after eating it had usually been well. Most lost consciousness during ordinary activity and died within about ten minutes, or fell into a coma and died within a day. A few convulsed or vomited while unconscious. Some had fainted or felt dizzy just beforehand, and some had mild symptoms, on and off for three to five days, that did not interrupt ordinary activity. From the last meal to death the median time was four days, within a span of 16 hours to 15 days. Two people who had eaten it and survived had blood glucose of 3.31 and 3.65 mmol/L. Examination of four people who had eaten it showed small patches of dead heart muscle with lymphocytes. In mice an extract of the fresh mushroom caused profound hypoglycaemia and death within hours. That course is experimental, and it is not the human one.",
+        notes: "The fruit bodies contain 2R-amino-4S-hydroxy-5-hexynoic acid, 2R-amino-5-hexynoic acid, and γ-guanidinobutyric acid. The two hexynoic amino acids are not amino acids used in proteins, and in mice they cause hypoglycaemia. One of them has been found in the heart blood of a person who died suddenly in a village where the mushroom grew. They do not account for every sudden death in the region. More than 400 sudden unexplained deaths have been recorded in northwestern Yunnan since 1978, the great majority in people who had seemed healthy, and more than nine in ten of them fell in June, July, and August. In the counties kept under special watch, 395 such deaths were counted from 1975 through 2009. Warnings not to eat unfamiliar mushrooms, and a later warning that named this mushroom, were followed by a sharp fall: about 73 percent fewer deaths from 2006 to 2009 than from 2002 to 2005. The deaths did not stop altogether. Barium in dried fruit bodies is about 0.5–22 µg per gram, and the averages at the sampled sites were about 5.4–12.2 µg per gram, comparable with other foods. It does not explain the deaths. People have picked the mushroom while gathering mushrooms that are eaten.",
+        confusion: "Trogia infundibuliformis has a funnel-shaped cap, a wavy margin, subdecurrent gills, a hygrophanous surface, a hollow stipe, and a pleasant smell. This species lacks those characters. Its cap is fan-shaped to petal-like, with a partly translucent wavy margin and narrow gills, and the stipe is fibrous, pale to brownish, and not hollow."
+      },
+      sk: {
+        description: "Hojná drevokazná huba, ktorá plodí v trsoch na mŕtvom dreve. Rastie v subtropických horách provincie Jün-nan na juhozápade Číny a je známa len z juhozápadu, stredu a severozápadu provincie, približne medzi 1 700 a 3 000 m.",
+        cap: "Plodnica je jemná, na kratšej osi asi 3–7 cm a na dlhšej 5–10 cm. Klobúk je vejárovitý až plátkovitý, ako list ginka, s vlnitým a sčasti priesvitným okrajom. Za čerstva je biely a farba prechádza aj od ružovkastej cez špinavobielu po svetlohnedú.",
+        hymenium: "Lupene sú úzke a zbiehavé.",
+        stipe: "Hlúbik je krátky a často excentrický alebo bočný. Je vláknitý, bledý až hnedastý a nie je dutý.",
+        flesh: "Dužina je krehká a ľahko sa láme. Príjemná vôňa chýba.",
+        habitat: "Plodnice sa objavujú od júna do začiatku septembra. Študované zbery pochádzajú z daždivých mesiacov júna, júla a augusta. Plodnice rastú v trsoch, často hojne tam, kde sa huba vyskytuje, na mŕtvych stromoch, pňoch, popadaných kmeňoch a inom spráchnivenom dreve, v listnatých a zmiešaných horských lesoch, aj v lesoch, v ktorých prevládajú stromy z čeľadí bukovitých, borovicovitých a čajovníkovitých. Miesta, kde bola nájdená v teréne, ležia približne medzi 1 800 a 2 800 m.",
+        uses: "Ľudia, ktorí po jej zjedení zomreli, bývali dovtedy zdraví. Väčšina stratila vedomie pri bežnej činnosti a zomrela približne do desiatich minút, alebo upadla do kómy a zomrela do jedného dňa. Niekoľkí mali v bezvedomí kŕče alebo vracali. Niektorí tesne predtým omdleli alebo mali závrat a niektorí mali s prestávkami po tri až päť dní mierne príznaky, ktoré neprerušili bežnú činnosť. Od posledného jedla po smrť bol medián štyri dni, v rozpätí od 16 hodín do 15 dní. Dvaja ľudia, ktorí ju zjedli a prežili, mali hladinu glukózy v krvi 3,31 a 3,65 mmol/l. Vyšetrenie štyroch ľudí, ktorí ju zjedli, ukázalo malé ložiská odumretého srdcového svalu s lymfocytmi. U myší výťažok z čerstvej huby spôsobil hlbokú hypoglykémiu a smrť v priebehu hodín. Tento priebeh je pokusný a nie je to priebeh u človeka.",
+        notes: "Plodnice obsahujú kyselinu 2R-amino-4S-hydroxy-5-hexínovú, kyselinu 2R-amino-5-hexínovú a kyselinu γ-guanidínmaslovú. Obe hexínové aminokyseliny sa v bielkovinách nevyskytujú a u myší spôsobujú hypoglykémiu. Jedna z nich sa našla v srdcovej krvi človeka, ktorý náhle zomrel v dedine, kde huba rástla. Tieto látky však nevysvetľujú každú náhlu smrť v oblasti. Od roku 1978 bolo na severozápade provincie Jün-nan zaznamenaných viac ako 400 náhlych nevysvetlených úmrtí, veľká väčšina postihla ľudí, ktorí sa predtým zdali zdraví, a viac ako deväť z desiatich pripadlo na jún, júl a august. V okresoch pod osobitným dohľadom napočítali od roku 1975 do roku 2009 takých úmrtí 395. Po varovaniach nejesť neznáme huby a po neskoršom varovaní, ktoré túto hubu pomenovalo, nastal prudký pokles: v rokoch 2006 až 2009 bolo úmrtí asi o 73 percent menej ako v rokoch 2002 až 2005. Úmrtia však neprestali úplne. Bárium v sušených plodniciach je asi 0,5–22 µg na gram a priemery na skúmaných miestach boli asi 5,4–12,2 µg na gram, porovnateľné s inými potravinami. Bárium úmrtia nevysvetľuje. Ľudia ju zbierali pri zbere húb, ktoré sa jedia.",
+        confusion: "Trogia infundibuliformis má lievikovitý klobúk, vlnitý okraj, slabo zbiehavé lupene, hygrofánny povrch, dutý hlúbik a príjemnú vôňu. Táto huba tieto znaky nemá. Jej klobúk je vejárovitý až plátkovitý, so sčasti priesvitným vlnitým okrajom a s úzkymi lupeňmi, a jej hlúbik je vláknitý, bledý až hnedastý a nie je dutý."
+      }
+    },
+    sources: {
+      en: [
+        {
+          group: "text",
+          name: "Yang, Li, and Tang",
+          href: "https://doi.org/10.1007/s11557-012-0809-y",
+          detail: "Mycological Progress 11(4): 937 (2012)"
+        },
+        {
+          group: "text",
+          name: "Shi and others",
+          href: "https://doi.org/10.1371/journal.pone.0035894",
+          detail: "PLOS ONE 7(5): e35894"
+        },
+        {
+          group: "text",
+          name: "Shi and others",
+          href: "https://doi.org/10.1371/journal.pone.0038712",
+          detail: "PLOS ONE 7(5): e38712"
+        },
+        {
+          group: "text",
+          name: "Mi and others",
+          href: "https://doi.org/10.1371/journal.pone.0149507",
+          detail: "PLOS ONE 11(2): e0149507"
+        },
+        {
+          group: "text",
+          name: "Zhou and others",
+          href: "https://doi.org/10.1002/anie.201106502",
+          detail: "Angewandte Chemie 51: 2368"
+        },
+        {
+          group: "text",
+          name: "Zhang and others",
+          href: "https://doi.org/10.1128/AEM.01798-12",
+          detail: "Applied and Environmental Microbiology 78: 8834"
+        },
+        {
+          group: "text",
+          name: "Rai and Ojha",
+          href: "https://doi.org/10.59265/mycoasia.2025-09",
+          detail: "MycoAsia 2025"
+        },
+        {
+          group: "text",
+          name: "C&EN",
+          href: "https://cen.acs.org/articles/90/i7/Behind-Mushroom-Scourge.html"
+        },
+        {
+          group: "text",
+          name: "ChemistryViews",
+          href: "https://www.chemistryviews.org/details/ezine/1455939/Deadly_Chinese_Mushrooms/"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Trogia_venenata"
+        },
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=549597",
+          detail: "549597"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=549597",
+          detail: "549597"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=549597",
+          detail: "549597"
+        },
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=18683",
+          detail: "18683"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/561711",
+          detail: "561711"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/8342755",
+          detail: "8342755"
+        },
+        {
+          group: "name",
+          name: "Na and others",
+          href: "https://doi.org/10.3897/mycokeys.105.118826",
+          detail: "MycoKeys 105"
+        }
+      ]
+    },
+    synonyms: []
   }
 ];

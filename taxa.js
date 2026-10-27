@@ -154,6 +154,12 @@ export const TAXA = {
   Pleurocybella: {
     rank: "genus"
   },
+  Porotheleaceae: {
+    rank: "family"
+  },
+  Trogia: {
+    rank: "genus"
+  },
   "Incertae sedis": {
     rank: "subclass"
   },

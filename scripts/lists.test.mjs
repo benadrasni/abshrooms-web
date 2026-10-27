@@ -35,8 +35,10 @@ test('a list page shows catalog species and skips the rest', () => {
   assert.match(page.title, /^Deadly poisonous — /);
   assert.match(page.html, /class="on" href="\/"/);
   assert.match(page.html, /Amanita phalloides/);
+  assert.match(page.html, /Amanita exitialis/);
+  assert.match(page.html, /Amanita fuliginea/);
+  assert.match(page.html, /Amanita rimosa/);
   assert.match(page.html, /Pleurocybella porrigens/);
-  assert.doesNotMatch(page.html, /Amanita exitialis/);
   assert.doesNotMatch(page.html, /class="year"/);
   const names = listSpecies('deadly-poisonous').map((row) => row.name);
   assert.deepEqual(names.slice(0, 3), ['Amanita phalloides', 'Amanita virosa', 'Amanita bisporigera']);
