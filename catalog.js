@@ -6299,6 +6299,7 @@ import {
     Pezizomycotina: { rank: "subphylum" },
     Agaricomycetes: { rank: "class", sk: "pečiarky" },
     Pezizomycetes: { rank: "class" },
+    Sordariomycetes: { rank: "class" },
     Agaricomycetidae: { rank: "subclass" },
     Pezizomycetidae: { rank: "subclass" },
     Boletales: { rank: "order", sk: "hríbotvaré" },
@@ -6393,7 +6394,11 @@ import {
     Lycoperdon: { rank: "genus", sk: "prášnica" },
     Calvatia: { rank: "genus", sk: "vatovec" },
     Clitocybaceae: { rank: "family", sk: "strmuľkovité" },
-    Clitocybe: { rank: "genus", sk: "strmuľka" }
+    Clitocybe: { rank: "genus", sk: "strmuľka" },
+    Hypocreomycetidae: { rank: "subclass" },
+    Hypocreales: { rank: "order" },
+    Hypocreaceae: { rank: "family" },
+    Trichoderma: { rank: "genus", sk: "zelenatka" }
   };
 
   var SPECIES = {
@@ -18209,7 +18214,156 @@ import {
     synonyms: []
   };
 
-  var CATALOG = [SPECIES, AMANITA, CHANTERELLE, RETICULATUS, PROCERA, PHALLOIDES, PANTHERINA, MORCHELLA, PLEUROTUS, LAETIPORUS, IMLERIA, ARMILLARIA, COPRINUS, GYROMITRA, RUBESCENS, HYPHOLOMA, AGARICUS, LECCINUM, SUILLUS, LACTARIUS, VIROSA, RUBROBOLETUS, CORTINARIUS, CRATERELLUS, FISTULINA, NEOBOLETUS, CALOCYBE, INOSPERMA, HYDNUM, SARCODON, RUSSULA, KUEHNEROMYCES, GALERINA, SPARASSIS, PAXILLUS, LEPISTA, ARTOMYCES, POLYPORUS, ALBOSTIPITATUM, HYGROPHOROPSIS, ENTOLOMA, PHALLUS, FOMES, AURICULARIA, TYLOPILUS, CHLOROPHYLLUM, EMETICA, TRICHOLOMA, LYCOPERDON, AURANTIACUM, CITRINA, PARDINUM, CALVATIA, CLITOCYBE, TRAMETES, PINOPHILUS, CALOBOLETUS, XEROCOMUS, VERSIPLLE, DURIUSCULUM, PLEUROCYBELLA, BISPORIGERA, BRUNNEOINCARNATA, VERNA, SUBNIGRICANS];
+  var TRICHODERMA_MEDIA = "photos/Hypocreales/Hypocreaceae/Trichoderma_cornu-damae/";
+  var TRICHODERMA = {
+    id: 65,
+    name: "Trichoderma cornu-damae",
+    author: "(Pat.) Z.X. Zhu & W.Y. Zhuang",
+    family: "Hypocreaceae",
+    genus: "Trichoderma",
+    order: "Hypocreales",
+    edibility: "deadly",
+    hymenium: "smooth",
+    path: [
+      "Fungi",
+      "Dikarya",
+      "Ascomycota",
+      "Pezizomycotina",
+      "Sordariomycetes",
+      "Hypocreomycetidae",
+      "Hypocreales",
+      "Hypocreaceae",
+      "Trichoderma"
+    ],
+    summary: [
+      "Hypocreales",
+      "Hypocreaceae",
+      "Trichoderma"
+    ],
+    added: "2026-10-27",
+    plate: STORAGE + TRICHODERMA_MEDIA + "Trichoderma_cornu-damae@1600.webp",
+    plateGrid: STORAGE + TRICHODERMA_MEDIA + "Trichoderma_cornu-damae@400.webp",
+    plateCredit: {
+      author: "Gemini",
+      license: "not stated",
+      source: ""
+    },
+    photos: [
+      {
+        src: STORAGE + TRICHODERMA_MEDIA + "tcd1.webp",
+        author: "Kouchan",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/",
+        source: "https://commons.wikimedia.org/wiki/File:Podostroma_cornu-damae.jpg"
+      },
+      {
+        src: STORAGE + TRICHODERMA_MEDIA + "tcd2.webp",
+        author: "Scott Loarie",
+        license: "CC0",
+        licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/",
+        source: "https://commons.wikimedia.org/wiki/File:Trichoderma_cornu-damae_4542200.jpg"
+      },
+      {
+        src: STORAGE + TRICHODERMA_MEDIA + "tcd3.webp",
+        author: "Atsushi Nakajima",
+        license: "CC BY 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/4.0/",
+        source: "https://www.inaturalist.org/observations/408152137"
+      },
+      {
+        src: STORAGE + TRICHODERMA_MEDIA + "tcd4.webp",
+        author: "Yoshihiro Tokue",
+        license: "CC BY 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/4.0/",
+        source: "https://www.inaturalist.org/observations/384740617"
+      },
+      {
+        src: STORAGE + TRICHODERMA_MEDIA + "tcd5.webp",
+        author: "Dan Osipov",
+        license: "CC BY 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/4.0/",
+        source: "https://www.inaturalist.org/observations/368596570"
+      }
+    ],
+    capFrom: 2,
+    capTo: 10,
+    stipeHeightFrom: 5,
+    stipeHeightTo: 20,
+    stipeThickFrom: 1,
+    stipeThickTo: 3,
+    fruitingFrom: 7,
+    fruitingTo: 10,
+    label: {
+      en: "poison fire coral"
+    },
+    names: {
+      en: []
+    },
+    text: {
+      en: {
+        description: "A deadly poisonous saprotrophic ascomycete fungus forming erect, bright red to orange-red, club-shaped or antler-like branched stromata. Native to temperate and subtropical East and Southeast Asia, including Japan, South Korea, and China, with isolated occurrences documented in Australia. It emerges on decaying wood, stumps, and buried roots in broadleaf forests during warm summer and autumn months.",
+        cap: "The stroma is 5–20 cm tall and 1–3 cm thick, solitary or clustering in small groups, consisting of erect, cylindrical to compressed, finger-like or antler-shaped lobes that are simple or irregularly branched near the tips. The surface is smooth to finely pimpled with the tiny openings of immersed perithecia, striking scarlet-red, vermilion, or vivid orange-red when fresh, fading to yellowish-orange in dry weather or with age, and whitish to pale pinkish-buff towards the base.",
+        hymenium: "The fertile hymenial tissue is not arranged in gills or tubes, but is embedded within the upper parts of the fleshy stroma. Minute flask-shaped to subglobose perithecia, measuring about 200–400 μm across, are immersed beneath the red stromal surface, discharging ascospores through tiny cylindrical ostiolar pores that dot the surface. The asci are cylindrical, unitunicate, eight-spored, with a thickened apical ring, measuring 55–75 × 3–4 μm.",
+        stipe: "A distinct stem is absent or poorly defined, represented by the sterile, narrowed lower portion of the stroma. It measures 1–4 cm long and 1–2.5 cm wide, cylindrical or tapering downwards into the woody substrate, whitish to yellowish-orange, solid, and devoid of a ring, veil, or volva.",
+        flesh: "The flesh is thick, fibrous-fleshy when fresh, becoming corky or tough with age, whitish to pale yellowish-cream in the interior, and does not change colour when cut or bruised. It has no distinct odour and a mild or indistinct taste. Contact with broken tissues should be strictly avoided.",
+        sporePrint: "Yellowish-white to pale yellow. The ascospores are two-celled, hyaline, finely spinulose or warty, readily disarticulating at the median septum into two distinct part-spores inside the ascus: a distal subglobose part-spore measuring 3.5–3.8 × 2.8–3.4 μm, and a proximal ellipsoidal part-spore measuring 2.6–4.3 × 2.8–3.5 μm.",
+        habitat: "Solitary, scattered, or in small tufts on or near decaying stumps, dead tree trunks, and buried decomposing roots of broadleaf trees, especially oaks and other fagaceous species. It fruits from July to October following heavy rainfall in humid, warm-temperate and subtropical forests.",
+        uses: "Deadly poisonous. Ingestion causes severe multi-organ toxicity, marked initially by abdominal pain, vomiting, and diarrhoea, followed within days by bone marrow suppression with profound leukopenia and thrombocytopenia, extensive desquamation and peeling of the skin, alopecia, acute kidney and liver failure, disseminated intravascular coagulation, cerebellar atrophy leading to ataxia and speech disorders, and fatal shock. The principal toxins are potent macrocyclic trichothecenes, predominantly satratoxin H and its acetate derivatives.",
+        confusion: "Superficially resembles edible species of Cordyceps or young Reishi (Ganoderma lingzhi) antlers, but Ganoderma develops a lacquered, woody crust with pores underneath. It also looks somewhat like the harmless edible coral fungi Clavulinopsis miyabeana and Clavaria rosea, but both lack embedded perithecial pores, have basidiospores on an external hymenium, and are fragile. Microscopic examination of the immersed perithecia and fragmenting ascospores easily distinguishes it from all coral-like basidiomycetes.",
+        notes: "This is one of the very few deadly poisonous ascomycetes known to science. Several fatal poisonings in Japan and South Korea resulted from people collecting the bright red stromata under the mistaken belief that they were medicinal fungi like Ganoderma or Cordyceps and steeping them in tea or sake. Chemical investigations revealed that its trichothecene mycotoxins act as powerful inhibitors of protein synthesis in eukaryotic cells, causing cellular apoptosis across multiple organ systems."
+      },
+      sk: {
+        description: "Smrteľne jedovatá saprotrofná vreckatá huba, ktorá tvorí vzpriamené, jasnočervené až oranžovočervené, kyjakovité alebo parohovito rozkonárené stromatá. Pochádza z miernych a subtropických oblastí východnej a juhovýchodnej Ázie vrátane Japonska, Južnej Kórey a Číny, pričom ojedinelé nálezy boli zaznamenané aj v Austrálii. Vyrastá na rozkladajúcom sa dreve, pňoch a zahrabaných koreňoch listnatých stromov počas teplých letných a jesenných mesiacov.",
+        cap: "Stroma je 5–20 cm vysoké a 1–3 cm hrubé, rastie jednotlivo alebo v menších trsoch a pozostáva zo vzpriamených, valcovitých až stlačených, prstovitých alebo parohovitých lalokov, ktoré sú jednoduché alebo na vrcholoch nepravidelne rozkonárené. Povrch je hladký až jemne bodkovaný drobnými ústiami ponorených peritécií, za čerstva nápadne šarlátovočervený, rumelkový až sýto oranžovočervený, za suchého počasia a vekom blednúci do žltooranžova, pričom smerom k báze je belavý až bledo ružovkastookrový.",
+        hymenium: "Výtrusorodé pletivo netvorí lupene ani rúrky, ale je ponorené vo vrchnej časti dužinatého stromata. Drobné fľaškovité až takmer guľovité peritéciá s priemerom približne 200–400 μm sú uložené pod červeným povrchom stromata a askospóry uvoľňujú cez mikroskopické valcovité ústia (ostioly), ktoré husto pokrývajú povrch. Vrecká (asci) sú valcovité, jednoblanné, osemvýtrusové, so zhrubnutým vrcholovým prstencom, s rozmermi 55–75 × 3–4 μm.",
+        stipe: "Výrazný hlúbik chýba alebo je nezreteľný a predstavuje ho len sterilná, zúžená spodná časť stromata. Meria 1–4 cm na dĺžku a 1–2,5 cm na šírku, je valcovitý alebo smerom k báze zúžený do drevného substrátu, belavý až žltooranžový, plný, bez prsteňa, plachtičky či pošvy.",
+        flesh: "Dužina je hrubá, za čerstva vláknito dužinatá, neskôr korkovitá až tuhá, vo vnútri belavá až bledo žltkastokrémová, pričom na reze a pri poranení nemení farbu. Vôňa je nevýrazná a chuť je mierna. Priamy kontakt s poškodeným pletivom je nebezpečný a treba sa mu vyhnúť.",
+        sporePrint: "Žltkastobiely až bledožltý. Askospóry sú dvojbunkové, bezfarebné, jemne ostnité až bradavičnaté a už vo vnútri vreciek sa v mieste stredovej priehradky ľahko rozpadávajú na dve samostatné čiastkové spóry: distálnu, takmer guľovitú spóru s rozmermi 3,5–3,8 × 2,8–3,4 μm a proximálnu, elipsoidnú spóru s rozmermi 2,6–4,3 × 2,8–3,5 μm.",
+        habitat: "Rastie jednotlivo, roztrúsene alebo v menších trsoch na tlejúcich pňoch, odumretých kmeňoch a zahrabaných rozkladajúcich sa koreňoch listnatých drevín, najmä dubov a iných bukovitých stromov. Plodnice sa objavujú od júla do októbra po výdatných zrážkach vo vlhkých teplých lesoch mierneho a subtropického pásma.",
+        uses: "Smrteľne jedovatá huba. Požitie vyvoláva ťažkú viacorgánovú intoxikáciu, ktorá sa spočiatku prejavuje bolesťami brucha, vracaním a hnačkami, po ktorých v priebehu niekoľkých dní nasleduje útlm kostnej drene s ťažkou leukopéniou a trombocytopéniou, rozsiahle odlupovanie kože na tvári a rukách, vypadávanie vlasov, akútne zlyhanie obličiek a pečene, diseminovaná intravaskulárna koagulácia, atrofia mozočka sprevádzaná poruchami reči a koordinácie pohybov a smrteľný šok. Hlavnými toxínmi sú mimoriadne účinné makrocyklické trichotecény, najmä satratoxín H a jeho acetátové deriváty.",
+        confusion: "Povrchne sa podobá na jedlé druhy rodu húsenica (Cordyceps) alebo na mladé parohovité plodnice lesklokôrovky (Ganoderma lingzhi), no lesklokôrovka vytvára drevnatú lakovanú kôru s pórmi na spodnej strane. Taktiež môže pripomínať neškodné koralovité huby Clavulinopsis miyabeana a kyjačik ružový (Clavaria rosea), ktoré však nemajú ponorené peritéciá, tvoria bazídiospóry na vonkajšom hyméniu a majú krehké plodnice. Mikroskopické vyšetrenie ponorených peritécií a rozpadávajúcich sa askospór ju spoľahlivo odlíši od všetkých koralovitých bazídiových húb.",
+        notes: "Predstavuje jednu z mála smrteľne jedovatých vreckatých húb na svete. V Japonsku a Južnej Kórei bolo zaznamenaných viacero smrteľných otráv po tom, čo si zberači pomýlili nápadne červené stromatá s liečivými hubami rodu Ganoderma či Cordyceps a pripravili si z nich odvar alebo výluh v alkohole. Toxikologické výskumy potvrdili, že prítomné trichotecénové mykotoxíny pôsobia ako extrémne silné inhibítory proteosyntézy v eukaryotických bunkách a vyvolávajú masívnu apoptózu vo viacerých orgánových sústavách."
+      }
+    },
+    sources: {
+      en: [
+        {
+          group: "text",
+          name: "Wikipedia (en)",
+          href: "https://en.wikipedia.org/wiki/Trichoderma_cornu-damae"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=808371",
+          detail: "808371"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/808371",
+          detail: "808371"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/9698565",
+          detail: "9698565"
+        }
+      ],
+      sk: [
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub-zoznam-rod?typ=latin&pismeno=T&rod=Trichoderma",
+          detail: "zelenatka"
+        }
+      ]
+    },
+    synonyms: ["Hypocrea cornu-damae Pat. 1895", "Podocrea cornu-damae (Pat.) Sacc. & D. Sacc. 1905", "Protocrea cornu-damae (Pat.) Sacc. & D. Sacc. 1905", "Podostroma cornu-damae (Pat.) Boedijn 1934"]
+  };
+
+  var CATALOG = [SPECIES, AMANITA, CHANTERELLE, RETICULATUS, PROCERA, PHALLOIDES, PANTHERINA, MORCHELLA, PLEUROTUS, LAETIPORUS, IMLERIA, ARMILLARIA, COPRINUS, GYROMITRA, RUBESCENS, HYPHOLOMA, AGARICUS, LECCINUM, SUILLUS, LACTARIUS, VIROSA, RUBROBOLETUS, CORTINARIUS, CRATERELLUS, FISTULINA, NEOBOLETUS, CALOCYBE, INOSPERMA, HYDNUM, SARCODON, RUSSULA, KUEHNEROMYCES, GALERINA, SPARASSIS, PAXILLUS, LEPISTA, ARTOMYCES, POLYPORUS, ALBOSTIPITATUM, HYGROPHOROPSIS, ENTOLOMA, PHALLUS, FOMES, AURICULARIA, TYLOPILUS, CHLOROPHYLLUM, EMETICA, TRICHOLOMA, LYCOPERDON, AURANTIACUM, CITRINA, PARDINUM, CALVATIA, CLITOCYBE, TRAMETES, PINOPHILUS, CALOBOLETUS, XEROCOMUS, VERSIPLLE, DURIUSCULUM, PLEUROCYBELLA, BISPORIGERA, BRUNNEOINCARNATA, VERNA, SUBNIGRICANS, TRICHODERMA];
 
   // Field key. Underside is species.hymenium. Season is the fruiting months.
   // where: wood, ground (with trees), grass. color uses the cap colours the text names.
@@ -18278,7 +18432,8 @@ import {
     "Pleurocybella porrigens": { where: ["wood"], color: ["white", "yellow"] },
     "Amanita bisporigera": { where: ["ground"], color: ["white"] },
     "Lepiota brunneoincarnata": { where: ["ground", "grass"], color: ["brown", "white", "red"] },
-    "Russula subnigricans": { where: ["ground"], color: ["white", "brown", "dark"] }
+    "Russula subnigricans": { where: ["ground"], color: ["white", "brown", "dark"] },
+    "Trichoderma cornu-damae": { where: ["wood", "ground"], color: ["red", "yellow"] }
   };
 
   var LANGS = [
