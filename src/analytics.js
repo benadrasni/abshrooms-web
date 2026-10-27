@@ -1,4 +1,4 @@
-import { nextConsentStep, parseCloudflareTrace } from './analyticsConsent.mjs';
+import { decisionFor, parseCloudflareTrace } from './analyticsConsent.mjs';
 import { analyticsLocation } from './identifyQuery.mjs';
 
 // Web stream on the abshrooms-a9d4c property shared with the Android and iOS apps.
@@ -15,7 +15,8 @@ let lastSearchKey = '';
 let lastFilterKey = '';
 let queuedPage = null;
 let queuedFilter = null;
-const consent = { settled: false, choice: '' };
+let settled = false;
+let choice = '';
 const listeners = new Set();
 
 function ready() {
@@ -30,13 +31,13 @@ function readChoice() {
   } catch (err) {
     value = '';
   }
-  consent.choice = value;
+  choice = value;
   return value;
 }
 
-function writeChoice(choice) {
-  const value = choice === 'granted' || choice === 'denied' ? choice : '';
-  consent.choice = value;
+function writeChoice(next) {
+  const value = next === 'granted' || next === 'denied' ? next : '';
+  choice = value;
   try {
     localStorage.setItem(CHOICE_KEY, value);
     return true;
@@ -47,7 +48,7 @@ function writeChoice(choice) {
 }
 
 export function analyticsState() {
-  return { ready: mode !== 'pending', on: mode === 'on', ask, choice: consent.choice };
+  return { ready: mode !== 'pending', on: mode === 'on', ask, choice };
 }
 
 export function resetAnalyticsState() {
@@ -59,8 +60,8 @@ export function resetAnalyticsState() {
   lastFilterKey = '';
   queuedPage = null;
   queuedFilter = null;
-  consent.settled = false;
-  consent.choice = '';
+  settled = false;
+  choice = '';
 }
 
 function publish() {
@@ -129,20 +130,19 @@ function turnOn() {
   publish();
 }
 
-function removeGtagScripts(doc) {
-  if (!doc || typeof doc.querySelectorAll !== 'function') return;
-  Array.from(doc.querySelectorAll('script[src*="googletagmanager.com/gtag/js"]')).forEach((node) => {
-    if (node && typeof node.remove === 'function') node.remove();
-  });
-}
-
 function turnOff({ ask: nextAsk }) {
   mode = 'off';
   ask = Boolean(nextAsk);
   lastPageKey = '';
   lastSearchKey = '';
   lastFilterKey = '';
-  if (typeof window !== 'undefined') window['ga-disable-' + GA_ID] = true;
+  if (typeof window !== 'undefined') {
+    window['ga-disable-' + GA_ID] = true;
+    if (installed && typeof window.gtag === 'function') {
+      window.gtag('consent', 'update', { analytics_storage: 'denied' });
+    }
+    clearGaCookies();
+  }
   publish();
 }
 
@@ -154,31 +154,33 @@ function settle(decision) {
   turnOff({ ask: decision.ask });
 }
 
-export function runConsentEvent(event) {
-  const step = nextConsentStep(consent, event);
-  if (step.choice === 'granted' || step.choice === 'denied') consent.choice = step.choice;
-  consent.settled = step.settled;
-  if (!step.decision) return { applied: false, decision: null };
-  settle(step.decision);
-  return { applied: true, decision: step.decision };
+function applyChoice(value) {
+  settled = true;
+  settle(decisionFor({ choice: value, loc: '' }));
+}
+
+function applyPending(loc) {
+  if (settled) return;
+  settled = true;
+  settle(decisionFor({ choice: '', loc: loc || '' }));
 }
 
 export function allowAnalytics() {
   writeChoice('granted');
-  runConsentEvent({ type: 'choice', choice: 'granted' });
+  applyChoice('granted');
 }
 
 export function refuseAnalytics() {
   const persisted = writeChoice('denied');
   const shouldReload = installed && persisted;
-  runConsentEvent({ type: 'choice', choice: 'denied' });
-  if (typeof window !== 'undefined') {
-    clearGaCookies();
-    if (typeof document !== 'undefined') removeGtagScripts(document);
-    installed = false;
-    if (shouldReload && window.location && typeof window.location.reload === 'function') {
-      window.location.reload();
-    }
+  applyChoice('denied');
+  if (
+    shouldReload &&
+    typeof window !== 'undefined' &&
+    window.location &&
+    typeof window.location.reload === 'function'
+  ) {
+    window.location.reload();
   }
 }
 
@@ -298,19 +300,22 @@ async function readRegion() {
 function boot() {
   if (typeof window === 'undefined') return;
   window['ga-disable-' + GA_ID] = true;
-  readChoice();
-  if (runConsentEvent({ type: 'stored' }).applied) return;
+  const stored = readChoice();
+  if (stored === 'granted' || stored === 'denied') {
+    applyChoice(stored);
+    return;
+  }
   const timer = setTimeout(() => {
-    runConsentEvent({ type: 'timeout' });
+    applyPending('');
   }, REGION_WAIT_MS);
   readRegion()
     .then((loc) => {
       clearTimeout(timer);
-      runConsentEvent({ type: 'region', loc });
+      applyPending(loc);
     })
     .catch(() => {
       clearTimeout(timer);
-      runConsentEvent({ type: 'error' });
+      applyPending('');
     });
 }
 

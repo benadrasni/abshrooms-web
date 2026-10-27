@@ -449,15 +449,17 @@ function identifyPage(lang, search, seasonOpen) {
   return { title: copy.keyTitle + " — " + copy.app, description: copy.keyLede, html: shell(lang, page, "identify") };
 }
 
-function parse(pathname) {
-  function decodeSegment(value) {
-    try {
-      return decodeURIComponent(value);
-    } catch (err) {
-      return null;
-    }
+function decodeSegment(value) {
+  try {
+    return decodeURIComponent(value);
+  } catch (err) {
+    return null;
   }
+}
 
+var KEYED = { family: true, genus: true, list: true, mushroom: true };
+
+function parse(pathname) {
   var path = pathname == null ? location.pathname : pathname;
   var parts = path.split("/").filter(Boolean);
   var lang = "en";
@@ -471,25 +473,11 @@ function parse(pathname) {
   if (parts[0] === "privacy" && parts.length === 1) return { lang: lang, view: "privacy" };
   if (parts[0] === "families" && parts.length === 1) return { lang: lang, view: "families" };
   if (parts[0] === "genera" && parts.length === 1) return { lang: lang, view: "genera" };
-  if (parts[0] === "family" && parts[1]) {
-    var family = decodeSegment(parts[1]);
-    if (family == null) return { lang: lang, view: "missing" };
-    return { lang: lang, view: "family", key: family };
-  }
-  if (parts[0] === "genus" && parts[1]) {
-    var genus = decodeSegment(parts[1]);
-    if (genus == null) return { lang: lang, view: "missing" };
-    return { lang: lang, view: "genus", key: genus };
-  }
-  if (parts[0] === "list" && parts[1]) {
-    var listId = decodeSegment(parts[1]);
-    if (listId == null) return { lang: lang, view: "missing" };
-    return { lang: lang, view: "list", key: listId };
-  }
-  if (parts[0] === "mushroom" && parts[1]) {
-    var mushroom = decodeSegment(parts[1]);
-    if (mushroom == null) return { lang: lang, view: "missing" };
-    return { lang: lang, view: "mushroom", key: mushroom.replace(/_/g, " ") };
+  if (KEYED[parts[0]] && parts[1]) {
+    var key = decodeSegment(parts[1]);
+    if (key == null) return { lang: lang, view: "missing" };
+    if (parts[0] === "mushroom") key = key.replace(/_/g, " ");
+    return { lang: lang, view: parts[0], key: key };
   }
   return { lang: lang, view: "missing" };
 }
