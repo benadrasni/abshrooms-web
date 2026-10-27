@@ -8,6 +8,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import {
   CATALOG,
+  COPY,
   LANGS,
   findSpecies,
   taxonNames,
@@ -19,43 +20,10 @@ const SITE = 'https://whatsthatmushroom.app';
 const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), '..');
 const BUILD = path.join(ROOT, 'build');
 const INDEXED = LANGS.map((item) => item.code);
-const OG_LOCALE = {
-  en: 'en_US',
-  sk: 'sk_SK',
-  cs: 'cs_CZ',
-  de: 'de_DE',
-  fr: 'fr_FR',
-  pl: 'pl_PL',
-  hu: 'hu_HU',
-  uk: 'uk_UA',
-  ru: 'ru_RU',
-  es: 'es_ES',
-  pt: 'pt_PT',
-  nl: 'nl_NL',
-  da: 'da_DK',
-  sv: 'sv_SE',
-  no: 'nb_NO',
-  fi: 'fi_FI',
-  et: 'et_EE',
-  lv: 'lv_LV',
-  lt: 'lt_LT',
-  it: 'it_IT',
-  hr: 'hr_HR',
-  sl: 'sl_SI',
-  sr: 'sr_RS',
-  ro: 'ro_RO',
-  bg: 'bg_BG',
-  tr: 'tr_TR',
-  id: 'id_ID',
-  ja: 'ja_JP',
-  ko: 'ko_KR',
-  zh: 'zh_TW',
-  hi: 'hi_IN',
-  he: 'he_IL',
-  fa: 'fa_IR',
-  ar: 'ar_EG',
-};
-const RTL = new Set(['ar', 'fa', 'he']);
+
+function languageOf(code) {
+  return LANGS.find((item) => item.code === code) || LANGS.find((item) => item.code === 'en');
+}
 
 function escapeHtml(value) {
   return String(value || '')
@@ -120,26 +88,30 @@ function inject(template, opts) {
   const description = escapeHtml(String(opts.description || '').slice(0, 240));
   const url = escapeHtml(opts.url);
   const lang = opts.lang || 'en';
+  const language = languageOf(lang);
   let html = template.replace(
     /<html lang="[^"]*"(?: dir="[^"]*")?>/,
-    '<html lang="' + lang + '" dir="' + (RTL.has(lang) ? 'rtl' : 'ltr') + '">'
+    '<html lang="' + lang + '" dir="' + language.dir + '">'
   );
   html = html.replace(/<title>[^<]*<\/title>/, '<title>' + title + '</title>');
   html = html.replace(
     /<meta name="description" content="[^"]*">/,
     '<meta name="description" content="' + description + '">'
   );
-  const extra = [
-    '<link rel="canonical" href="' + url + '">',
-  ]
-    .concat(hreflangTags(opts.parts || [], opts.langs))
+  const extra = []
+    .concat(
+      opts.skipCanonical
+        ? []
+        : ['<link rel="canonical" href="' + url + '">'].concat(hreflangTags(opts.parts || [], opts.langs))
+    )
     .concat([
+      opts.robots ? '<meta name="robots" content="' + escapeHtml(opts.robots) + '">' : '',
       '<meta property="og:type" content="website">',
       '<meta property="og:site_name" content="What\'s that mushroom?">',
-      '<meta property="og:locale" content="' + (OG_LOCALE[lang] || 'en_US') + '">',
+      '<meta property="og:locale" content="' + language.locale.replace(/-/g, '_') + '">',
       '<meta property="og:title" content="' + title + '">',
       '<meta property="og:description" content="' + description + '">',
-      '<meta property="og:url" content="' + url + '">',
+      opts.skipCanonical ? '' : '<meta property="og:url" content="' + url + '">',
       opts.image ? '<meta property="og:image" content="' + escapeHtml(opts.image) + '">' : '',
       '<meta name="twitter:card" content="' + (opts.image ? 'summary_large_image' : 'summary') + '">',
       opts.jsonLd
@@ -203,6 +175,21 @@ function sitemapXml(entries) {
 
 function modelFor(lang, view, key) {
   return viewModel({ lang, view, key, search: '' });
+}
+
+export function renderNotFound(template) {
+  const copy = COPY.en;
+  const model = viewModel({ lang: 'en', view: 'missing', search: '' });
+  return inject(template, {
+    lang: 'en',
+    parts: [],
+    url: SITE + '/',
+    title: model.title,
+    description: copy.missing,
+    noscript: '<p>' + escapeHtml(copy.missing) + '</p>',
+    robots: 'noindex',
+    skipCanonical: true,
+  });
 }
 
 function main() {
@@ -311,6 +298,7 @@ function main() {
     });
   });
 
+  fs.writeFileSync(path.join(BUILD, '404.html'), renderNotFound(template));
   fs.writeFileSync(path.join(BUILD, 'sitemap.xml'), sitemapXml(entries));
   console.log(
     'seo shells',
@@ -322,8 +310,11 @@ function main() {
     'genera',
     genera.length,
     'langs',
-    INDEXED.join(',')
+    INDEXED.join(','),
+    '404.html'
   );
 }
 
-main();
+if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
+  main();
+}

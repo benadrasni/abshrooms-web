@@ -22,6 +22,17 @@ function t(lang) {
   return COPY[lang] || COPY.en;
 }
 
+function languageOf(lang) {
+  var i;
+  for (i = 0; i < LANGS.length; i++) {
+    if (LANGS[i].code === lang) return LANGS[i];
+  }
+  for (i = 0; i < LANGS.length; i++) {
+    if (LANGS[i].code === "en") return LANGS[i];
+  }
+  return LANGS[0];
+}
+
 function esc(value) {
   return String(value == null ? "" : value).replace(/[&<>"']/g, function (ch) {
     return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[ch];
@@ -35,9 +46,8 @@ function fold(value) {
 function displayName(label, fallback, lang) {
   var raw = label ? String(label).trim() : "";
   if (raw) {
-    if (lang === "sk" || lang === "cs" || lang === "pl" || lang === "uk" || lang === "ru") {
-      return raw.charAt(0).toLocaleLowerCase() + raw.slice(1);
-    }
+    var language = languageOf(lang);
+    if (language.lower) return raw.charAt(0).toLocaleLowerCase(language.locale) + raw.slice(1);
     return raw;
   }
   return String(fallback || "").trim();
@@ -45,84 +55,8 @@ function displayName(label, fallback, lang) {
 
 function countLabel(n, lang) {
   var copy = t(lang);
-  if (lang === "sk" || lang === "cs") {
-    if (n === 1) return copy.one;
-    if (n >= 2 && n <= 4) return (copy.few || copy.many).replace("{n}", String(n));
-    return copy.many.replace("{n}", String(n));
-  }
-  if (lang === "pl") {
-    if (n === 1) return copy.one;
-    var mod10 = n % 10;
-    var mod100 = n % 100;
-    if (mod10 >= 2 && mod10 <= 4 && (mod100 < 10 || mod100 >= 20)) {
-      return (copy.few || copy.many).replace("{n}", String(n));
-    }
-    return copy.many.replace("{n}", String(n));
-  }
-  if (lang === "uk" || lang === "ru") {
-    var mod10 = n % 10;
-    var mod100 = n % 100;
-    if (mod10 === 1 && mod100 !== 11) {
-      return copy.one.replace("{n}", String(n));
-    }
-    if (mod10 >= 2 && mod10 <= 4 && (mod100 < 10 || mod100 >= 20)) {
-      return (copy.few || copy.many).replace("{n}", String(n));
-    }
-    return copy.many.replace("{n}", String(n));
-  }
-  if (lang === "lt") {
-    var mod10 = n % 10;
-    var mod100 = n % 100;
-    if (mod10 === 1 && mod100 !== 11) {
-      return copy.one.replace("{n}", String(n));
-    }
-    if (mod10 >= 2 && mod10 <= 9 && (mod100 < 10 || mod100 >= 20)) {
-      return (copy.few || copy.many).replace("{n}", String(n));
-    }
-    return copy.many.replace("{n}", String(n));
-  }
-  if (lang === "lv") {
-    var mod10 = n % 10;
-    var mod100 = n % 100;
-    if (mod10 === 1 && mod100 !== 11) {
-      return copy.one.replace("{n}", String(n));
-    }
-    if (mod10 === 0 || (mod100 >= 11 && mod100 <= 19)) {
-      return (copy.zero || copy.many).replace("{n}", String(n));
-    }
-    return (copy.few || copy.many).replace("{n}", String(n));
-  }
-  if (lang === "hr" || lang === "sr") {
-    var mod10 = n % 10;
-    var mod100 = n % 100;
-    if (mod10 === 1 && mod100 !== 11) {
-      return copy.one.replace("{n}", String(n));
-    }
-    if (mod10 >= 2 && mod10 <= 4 && (mod100 < 10 || mod100 >= 20)) {
-      return (copy.few || copy.many).replace("{n}", String(n));
-    }
-    return copy.many.replace("{n}", String(n));
-  }
-  if (lang === "sl") {
-    var mod100 = n % 100;
-    if (mod100 === 1) return copy.one.replace("{n}", String(n));
-    if (mod100 === 2) return String(n) + " gobi";
-    if (mod100 === 3 || mod100 === 4) return (copy.few || copy.many).replace("{n}", String(n));
-    return copy.many.replace("{n}", String(n));
-  }
-  if (lang === "ro") {
-    if (n === 1) return copy.one.replace("{n}", String(n));
-    var mod100 = n % 100;
-    if (n === 0 || (mod100 >= 1 && mod100 <= 19)) {
-      return (copy.few || copy.many).replace("{n}", String(n));
-    }
-    return copy.many.replace("{n}", String(n));
-  }
-  if (lang === "fr" || lang === "pt") {
-    if (n === 0 || n === 1) return copy.one.replace("{n}", String(n));
-    return copy.many.replace("{n}", String(n));
-  }
-  return (n === 1 ? copy.one : copy.many).replace("{n}", String(n));
+  var category = languageOf(lang).plural(n);
+  return copy[category].replace("{n}", String(n));
 }
 
 function href(path, lang) {
@@ -136,17 +70,16 @@ function href(path, lang) {
 
 var FLOWER_ORIGIN = "https://whatsthatflower.com";
 var APP_PRIVACY = "https://storage.googleapis.com/abshrooms-resources/misc/PrivacyPolicyofWhatsthatmushroom.htm";
-// Path prefixes the flower site publishes. English, and any other code, stay on the English home.
-var FLOWER_LANGS = [
-  "sk", "de", "fr", "cs", "pl", "ru", "es", "pt", "ja", "it", "nl", "uk", "hu",
-  "da", "sv", "no", "fi", "et", "lv", "lt", "hr", "sl", "sr", "bg", "ro", "hi",
-  "ko", "zh", "fa", "he", "ar", "id", "tr"
-];
 
 function flowerUrl(lang) {
   var code = String(lang || "").toLowerCase();
-  if (FLOWER_LANGS.indexOf(code) < 0) return FLOWER_ORIGIN + "/";
-  return FLOWER_ORIGIN + "/" + code + "/";
+  var i;
+  for (i = 0; i < LANGS.length; i++) {
+    if (LANGS[i].code !== code) continue;
+    if (code === "en") return FLOWER_ORIGIN + "/";
+    return FLOWER_ORIGIN + "/" + code + "/";
+  }
+  return FLOWER_ORIGIN + "/";
 }
 
 function stripLang(path, lang) {
@@ -178,7 +111,8 @@ function taxonTitle(name, lang) {
 function taxonNames(kind, lang) {
   var seen = {};
   var names = [];
-  var locale = lang === "sk" ? "sk" : "en";
+  var code = lang || "en";
+  var locale = languageOf(code).locale;
   CATALOG.forEach(function (species) {
     var name = kind === "family" ? species.family : species.genus;
     if (seen[name]) return;
@@ -186,7 +120,7 @@ function taxonNames(kind, lang) {
     names.push(name);
   });
   names.sort(function (a, b) {
-    return taxonTitle(a, locale).localeCompare(taxonTitle(b, locale), locale);
+    return taxonTitle(a, code).localeCompare(taxonTitle(b, code), locale);
   });
   return names;
 }
@@ -231,7 +165,7 @@ function addedLabel(added, lang) {
   if (added === key(yesterday)) return copy.yesterday;
   var parts = added.split("-");
   var date = new Date(Number(parts[0]), Number(parts[1]) - 1, Number(parts[2]));
-  return new Intl.DateTimeFormat(lang === "sk" ? "sk" : "en", {
+  return new Intl.DateTimeFormat(languageOf(lang).locale, {
     day: "numeric",
     month: "long",
     year: "numeric"
@@ -398,7 +332,7 @@ function keyButton(className, pressed, disabled, axis, id, inner) {
 function identifyPage(lang, search, seasonOpen) {
   var copy = t(lang);
   var selection = readSelection(search || "");
-  var locale = lang === "sk" ? "sk" : "en";
+  var locale = languageOf(lang).locale;
   var number = function (n) { return n.toLocaleString(locale); };
   var underCounts = optionCounts(selection, "under");
   var whereCounts = optionCounts(selection, "where");
@@ -803,7 +737,7 @@ function searchHits(query, lang) {
   var needle = fold(query);
   if (needle.length < 2) return [];
   var hits = [];
-  taxonNames("family").concat(taxonNames("genus")).forEach(function (name) {
+  taxonNames("family", lang).concat(taxonNames("genus", lang)).forEach(function (name) {
     var kind = TAXA[name].rank === "family" ? "family" : "genus";
     var spoken = taxonLabel(name, lang);
     var folded = fold(name);
@@ -937,7 +871,7 @@ function home(lang) {
 function indexPage(lang, kind) {
   var copy = t(lang);
   var title = kind === "family" ? copy.families : copy.genera;
-  var names = taxonNames(kind);
+  var names = taxonNames(kind, lang);
   var page =
     '<div class="page">' +
       '<div class="home-hero"><div><div class="kicker"><a href="' + href("/", lang) + '">' + esc(copy.nav) + "</a></div>" +
@@ -1088,17 +1022,53 @@ function photoCaption(copy, index, count) {
   return copy.photo.replace("{i}", String(index)).replace("{n}", String(count));
 }
 
+function httpUrl(value) {
+  var url = String(value || "").trim();
+  if (!/^https?:\/\//i.test(url)) return "";
+  return url;
+}
+
+function creditHtml(credit) {
+  if (!credit) return "";
+  var author = String(credit.author || "").trim();
+  var license = String(credit.license || "").trim();
+  var source = httpUrl(credit.source);
+  var licenseUrl = httpUrl(credit.licenseUrl);
+  var parts = [];
+  if (author && source) {
+    parts.push('<a href="' + esc(source) + '" target="_blank" rel="noopener noreferrer">' + esc(author) + "</a>");
+  } else if (author) {
+    parts.push(esc(author));
+  } else if (source) {
+    parts.push('<a href="' + esc(source) + '" target="_blank" rel="noopener noreferrer">' + esc(source) + "</a>");
+  }
+  if (license && licenseUrl) {
+    parts.push('<a href="' + esc(licenseUrl) + '" target="_blank" rel="noopener noreferrer">' + esc(license) + "</a>");
+  } else if (license) {
+    parts.push(esc(license));
+  }
+  if (!parts.length) return "";
+  return '<span class="credit">' + parts.join(" · ") + "</span>";
+}
+
+function creditPlain(credit) {
+  if (!credit) return "";
+  return [String(credit.author || "").trim(), String(credit.license || "").trim()].filter(Boolean).join(", ");
+}
+
 function photoBand(species, lang) {
   var copy = t(lang);
   var photos = species.photos;
   var figs = photos.map(function (photo, index) {
     var caption = photoCaption(copy, index + 1, photos.length);
+    var plain = creditPlain(photo);
+    var label = plain ? caption + ", " + plain : caption;
     return (
       "<figure>" +
-        '<button type="button" class="photo-open" data-index="' + index + '" aria-label="' + esc(caption) + '">' +
+        '<button type="button" class="photo-open" data-index="' + index + '" data-caption="' + esc(caption) + '" aria-label="' + esc(label) + '">' +
           '<img src="' + esc(photo.src) + '" alt="" loading="lazy">' +
         "</button>" +
-        '<figcaption class="dark-cap">' + esc(caption) + "</figcaption>" +
+        "<figcaption><span class=\"dark-cap\">" + esc(caption) + "</span>" + creditHtml(photo) + "</figcaption>" +
       "</figure>"
     );
   }).join("");
@@ -1116,9 +1086,12 @@ var lightOverflow = "";
 function lightItems() {
   return Array.prototype.map.call(document.querySelectorAll(".photos .photo-open"), function (button) {
     var img = button.querySelector("img");
+    var figure = button.closest("figure");
+    var credit = figure ? figure.querySelector(".credit") : null;
     return {
       src: img ? img.getAttribute("src") : "",
-      caption: button.getAttribute("aria-label") || ""
+      caption: button.getAttribute("data-caption") || "",
+      credit: credit ? credit.innerHTML : ""
     };
   });
 }
@@ -1142,7 +1115,7 @@ function paintLightbox() {
           ? '<button type="button" class="lightbox-nav lightbox-prev" data-delta="-1" aria-label="' + esc(copy.lightboxPrev) + '"><span aria-hidden="true">‹</span></button>' +
             '<button type="button" class="lightbox-nav lightbox-next" data-delta="1" aria-label="' + esc(copy.lightboxNext) + '"><span aria-hidden="true">›</span></button>'
           : "") +
-        '<div class="lightbox-body"><img alt="' + esc(item.caption) + '"><p></p></div>' +
+        '<div class="lightbox-body"><img alt="' + esc(item.caption) + '"><p></p><div class="credit lightbox-credit"></div></div>' +
       "</div>"
     );
     node = document.getElementById("lightbox");
@@ -1154,6 +1127,9 @@ function paintLightbox() {
   image.src = item.src;
   image.alt = item.caption;
   node.querySelector(".lightbox-body p").textContent = item.caption;
+  var credit = node.querySelector(".lightbox-credit");
+  credit.innerHTML = item.credit || "";
+  credit.hidden = !item.credit;
 }
 
 function openLightbox(index) {
@@ -1227,7 +1203,7 @@ function mushroomPage(lang, key) {
         '<span class="here latin">' + esc(species.name) + "</span>" +
       "</div>" +
       '<section class="spread">' +
-        '<div class="plate"><img src="' + species.plate + '" alt="' + plateAlt + '"><div class="cap">' + esc(copy.plate) + "</div></div>" +
+        '<div class="plate"><img src="' + esc(species.plate) + '" alt="' + plateAlt + '"><div class="cap">' + esc(copy.plate) + creditHtml(species.plateCredit) + "</div></div>" +
         '<div class="copy">' +
           '<div class="kicker">' + esc(species.family) + " · " + esc(species.order) + "</div>" +
           heading +
@@ -1273,16 +1249,18 @@ function aboutPage(lang) {
   var photos = "";
   if (species) {
     photos = species.photos.slice(0, 3).map(function (photo) {
-      return '<a href="' + toSpecies + '"><img src="' + esc(photo.src) + '" alt="' + esc(alt) + '"></a>';
+      return (
+        "<figure>" +
+          '<a href="' + toSpecies + '"><img src="' + esc(photo.src) + '" alt="' + esc(alt) + '"></a>' +
+          creditHtml(photo) +
+        "</figure>"
+      );
     }).join("");
   }
   var plate = species
-    ? '<div class="plate"><a href="' + toSpecies + '"><img src="' + esc(species.plate) + '" alt="' + esc(alt) + '"></a><div class="cap">' + esc(copy.plate) + "</div></div>"
+    ? '<div class="plate"><a href="' + toSpecies + '"><img src="' + esc(species.plate) + '" alt="' + esc(alt) + '"></a><div class="cap">' + esc(copy.plate) + creditHtml(species.plateCredit) + "</div></div>"
     : "";
-  var langs = [
-    { code: "en", name: "English" },
-    { code: "sk", name: "Slovenčina" }
-  ].map(function (item) {
+  var langs = LANGS.map(function (item) {
     var on = item.code === lang;
     return '<a class="lang-chip' + (on ? " on" : "") + '" href="' + href("/about", item.code) + '"' + (on ? ' aria-current="page"' : "") + ">" + esc(item.name) + "</a>";
   }).join("");
@@ -1294,7 +1272,7 @@ function aboutPage(lang) {
       "</div>" +
       '<div class="facts about-facts">' +
         '<div class="fact"><div class="k">' + esc(copy.aboutFactCollection) + '</div><div class="v">' + CATALOG.length + "</div></div>" +
-        '<div class="fact"><div class="k">' + esc(copy.aboutFactLanguages) + '</div><div class="v">2</div></div>' +
+        '<div class="fact"><div class="k">' + esc(copy.aboutFactLanguages) + '</div><div class="v">' + LANGS.length + "</div></div>" +
         '<div class="fact"><div class="k">' + esc(copy.aboutFactKey) + '</div><div class="v">' + esc(copy.aboutFactSteps) + "</div></div>" +
       "</div>" +
       '<section class="spread">' +
@@ -1317,7 +1295,7 @@ function aboutPage(lang) {
         "</div>" +
       "</section>" +
       '<section class="band">' +
-        '<div class="band-h"><h2>' + esc(copy.aboutLangsTitle) + "</h2><p>" + esc(copy.aboutLangsLede.replace("{n}", "2")) + "</p></div>" +
+        '<div class="band-h"><h2>' + esc(copy.aboutLangsTitle) + "</h2><p>" + esc(copy.aboutLangsLede.replace("{n}", String(LANGS.length))) + "</p></div>" +
         '<div class="langs">' + langs + "</div>" +
         '<aside class="note"><div class="k">' + esc(copy.aboutNamesK) + "</div><p>" + esc(copy.aboutNamesNote) + "</p></aside>" +
       "</section>" +
@@ -1412,7 +1390,7 @@ function pageImage(model) {
 function setMeta(model, lang, pathname) {
   document.title = model.title;
   document.documentElement.lang = lang;
-  document.documentElement.dir = (lang === "he" || lang === "fa" || lang === "ar") ? "rtl" : "ltr";
+  document.documentElement.dir = languageOf(lang).dir;
   var desc = String(model.description || "").slice(0, 240);
   var tag = document.querySelector('meta[name="description"]');
   if (tag) tag.setAttribute("content", desc);
@@ -1707,5 +1685,6 @@ export {
   taxonNames,
   visibleListIds,
   listSpecies,
+  countLabel,
   start
 };

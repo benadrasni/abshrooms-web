@@ -308,13 +308,13 @@ button, input, select { font: inherit; color: inherit; }
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 20px 24px 36px;
+  padding: 20px 24px 58px;
   position: sticky;
   top: var(--bar-h);
   align-self: start;
   max-height: calc(100vh - var(--bar-h));
 }
-.plate a {
+.plate > a {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -322,7 +322,7 @@ button, input, select { font: inherit; color: inherit; }
   text-decoration: none;
 }
 .plate img {
-  max-height: calc(100vh - var(--bar-h) - 72px);
+  max-height: calc(100vh - var(--bar-h) - 104px);
   max-width: 100%;
   width: auto;
   height: auto;
@@ -331,12 +331,24 @@ button, input, select { font: inherit; color: inherit; }
 .plate .cap {
   position: absolute;
   inset-inline-start: 24px;
-  bottom: 14px;
+  inset-inline-end: 24px;
+  bottom: 12px;
   font-size: 11px;
   letter-spacing: 0.16em;
   text-transform: uppercase;
   color: var(--ink-3);
 }
+.credit {
+  display: block;
+  margin-top: 4px;
+  font-size: 12px;
+  line-height: 1.35;
+  letter-spacing: 0;
+  text-transform: none;
+  overflow-wrap: anywhere;
+}
+.credit a { color: inherit; }
+.plate .credit { color: var(--ink-3); }
 .photos { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; }
 .photos figure { margin: 0; min-width: 0; background: #1f1b16; }
 .photos button {
@@ -348,14 +360,16 @@ button, input, select { font: inherit; color: inherit; }
   cursor: zoom-in;
 }
 .photos img { width: 100%; height: 220px; object-fit: cover; display: block; }
-.photos figcaption,
+.photos figcaption { padding: 8px 10px 10px; }
 .dark-cap {
-  padding: 8px 10px 10px;
+  display: block;
   font-size: 11px;
   letter-spacing: 0.12em;
   text-transform: uppercase;
   color: #c4b49a;
 }
+.photos .credit,
+.lightbox .credit { color: #c4b49a; }
 .lightbox {
   position: fixed;
   inset: 0;
@@ -414,6 +428,7 @@ button, input, select { font: inherit; color: inherit; }
 }
 .lightbox img { max-width: min(1100px, 94vw); max-height: 86vh; width: auto; height: auto; object-fit: contain; background: var(--cream); }
 .lightbox p { color: #e9e2d3; margin: 10px 0 0; font-size: 13px; letter-spacing: 0.08em; text-transform: uppercase; }
+.lightbox .credit { max-width: min(640px, 92vw); text-align: center; }
 .copy { padding: 36px 40px 48px; }
 .copy h1 { font-size: clamp(36px, 5vw, 56px); margin: 8px 0 6px; }
 .copy .binomen { font-size: 22px; color: var(--ink-2); }
@@ -436,8 +451,10 @@ button, input, select { font: inherit; color: inherit; }
 .about-copy h2 { font-family: Fraunces, Georgia, serif; font-weight: 520; font-size: 28px; margin: 0 0 12px; }
 .about-copy p { font-size: 16px; line-height: 1.55; color: var(--ink-2); max-width: 48ch; margin: 0 0 14px; }
 .about-photos { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-top: 18px; }
-.about-photos a { display: block; background: #1f1b16; }
+.about-photos figure { margin: 0; min-width: 0; }
+.about-photos figure > a { display: block; background: #1f1b16; }
 .about-photos img { width: 100%; height: 160px; object-fit: cover; display: block; }
+.about-photos .credit { color: var(--ink-3); }
 .about-tiles .tile { gap: 8px; }
 .about-tiles .tile span { font-size: 14px; line-height: 1.45; color: var(--ink-2); }
 .langs { display: flex; flex-wrap: wrap; gap: 8px; }

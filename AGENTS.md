@@ -4,7 +4,7 @@ Public field guide at https://whatsthatmushroom.app/ (also https://abshrooms-a9d
 
 The site does not read Firestore. `copy.js` holds the interface strings for 34 languages. `species.js` exports the `CATALOG` array, and each species carries `where` and `color` for the identify page. `taxa.js` holds rank vernaculars. `catalog.js` is the pages: it imports those modules and still exports `LANGS`, `COPY`, and `CATALOG`. English is unprefixed. Every other code in `LANGS` is a path prefix (`/sk/...`).
 
-A new language is one object in `copy.js`. Species text for that language is `text.{code}` on each species. Slovak plurals are special-cased in `countLabel`. Another language uses the English one/many line until that function grows a branch for it. `scripts/generate_seo.js` reads `LANGS` and writes one HTML shell per home, families, genera, identify, about, family, genus, and species URL, plus `sitemap.xml`.
+A new language is one object in `copy.js`: `code`, `name`, a BCP 47 `locale`, `dir` (`ltr` or `rtl`), and `plural`, a function of a count that returns `one`, `two`, `few`, `many`, or `zero`. `countLabel` is that category's line with `{n}` filled in. Slovak, Czech, Polish, Ukrainian, and Russian set `lower` so a stored capital is shown in lowercase. Dates, name order, text direction, and `og:locale` read the same object. Species text for that language is `text.{code}` on each species. `scripts/generate_seo.js` reads `LANGS` and writes one HTML shell per home, families, genera, identify, about, family, genus, and species URL, plus `sitemap.xml` and `404.html`. Hosting serves that file with status 404 when no file matches. The Vite dev server still falls back to `index.html`.
 
 ## Deploy Hosting
 

@@ -1,8 +1,75 @@
-// Interface strings. The language menu follows this array.
+// One record per language: code, name, BCP 47 locale, dir, and plural(n).
+// plural(n) is one, two, few, many, or zero for an integer count. The menu follows this array.
+
+function pluralOne(n) {
+  return n === 1 ? "one" : "many";
+}
+
+function pluralZeroOne(n) {
+  return n === 0 || n === 1 ? "one" : "many";
+}
+
+function pluralWestSlavic(n) {
+  if (n === 1) return "one";
+  if (n >= 2 && n <= 4) return "few";
+  return "many";
+}
+
+function pluralPolish(n) {
+  if (n === 1) return "one";
+  const mod10 = n % 10;
+  const mod100 = n % 100;
+  if (mod10 >= 2 && mod10 <= 4 && (mod100 < 10 || mod100 >= 20)) return "few";
+  return "many";
+}
+
+function pluralEastSlavic(n) {
+  const mod10 = n % 10;
+  const mod100 = n % 100;
+  if (mod10 === 1 && mod100 !== 11) return "one";
+  if (mod10 >= 2 && mod10 <= 4 && (mod100 < 10 || mod100 >= 20)) return "few";
+  return "many";
+}
+
+function pluralLithuanian(n) {
+  const mod10 = n % 10;
+  const mod100 = n % 100;
+  if (mod10 === 1 && mod100 !== 11) return "one";
+  if (mod10 >= 2 && mod10 <= 9 && (mod100 < 10 || mod100 >= 20)) return "few";
+  return "many";
+}
+
+function pluralLatvian(n) {
+  const mod10 = n % 10;
+  const mod100 = n % 100;
+  if (mod10 === 1 && mod100 !== 11) return "one";
+  if (mod10 === 0 || (mod100 >= 11 && mod100 <= 19)) return "zero";
+  return "few";
+}
+
+function pluralSlovenian(n) {
+  const mod100 = n % 100;
+  if (mod100 === 1) return "one";
+  if (mod100 === 2) return "two";
+  if (mod100 === 3 || mod100 === 4) return "few";
+  return "many";
+}
+
+function pluralRomanian(n) {
+  if (n === 1) return "one";
+  const mod100 = n % 100;
+  if (n === 0 || (mod100 >= 1 && mod100 <= 19)) return "few";
+  return "many";
+}
+
 export const LANGUAGES = [
   {
     code: "ar",
     name: "العربية",
+    locale: "ar-EG",
+    dir: "rtl",
+    plural: pluralOne,
+    lower: false,
     months: [
       "يناير",
       "فبراير",
@@ -201,6 +268,10 @@ export const LANGUAGES = [
   {
     code: "bg",
     name: "Български",
+    locale: "bg-BG",
+    dir: "ltr",
+    plural: pluralOne,
+    lower: false,
     months: [
       "януари",
       "февруари",
@@ -248,7 +319,6 @@ export const LANGUAGES = [
     lightboxNext: "Следваща",
     lightboxClose: "Затвори",
     cap: "Гугла",
-    capMeasure: "до {to} cm",
     season: "Сезон",
     edibility: "Ядливост",
     choice: "Отлична ядлива",
@@ -264,7 +334,7 @@ export const LANGUAGES = [
     smooth: "Гладка",
     teeth: "Шипчета",
     gleba: "Затворено",
-    capUpTo: "до {to} cm",
+    capUpTo: "до {n} cm",
     stipe: "Пънче",
     flesh: "Месо",
     spore: "Споров прашец",
@@ -286,7 +356,6 @@ export const LANGUAGES = [
       species: "Вид"
     },
     sourcesLede: "Източници и таксономични справки.",
-    sourcesClose: "Затвори източниците",
     homeDesc: "Илюстрован справочник за гъби: разпознавайте видовете по ламели, пори, цвят на гуглата, местообитание и сезон.",
     keyLede: "Използвайте определителя за стесняване на каталога по плодно тяло, местообитание, цвят на гуглата и сезон.",
     keyOpen: "Определител",
@@ -343,38 +412,21 @@ export const LANGUAGES = [
     aboutTilePhotoD: "Множество снимки от естествени местообитания документират цветовите вариации и етапите на растеж.",
     aboutTileTextT: "Ясни описания",
     aboutTileTextD: "Кратки текстове, фокусирани върху разпознаването, местообитанието, сезона и екологията.",
-    aboutLangsLede: "Предлага се на 26 езика.",
+    aboutLangsLede: "Сайтът е на {n} езика. Страницата на вида показва определителния текст, написан за този език. Народните имена никога не се измислят.",
     aboutNamesNote: "Местните народни имена и научната таксономия следват съвременните микологични стандарти.",
     aboutSourcesIntro: "Базирано на отворени микологични и научни източници.",
-    aboutSrcIfT: "Index Fungorum",
     aboutSrcIfSub: "Микологична номенклатура",
-    aboutSrcGbifT: "GBIF",
     aboutSrcGbifSub: "Глобални данни за биоразнообразието",
     aboutSrcGuides: "Микологична литература",
     aboutSrcGuidesSub: "Специализирани справочници и монографии",
     aboutSrcPlates: "Исторически ботанически илюстрации",
     aboutSrcPlatesSub: "Класически трудове по микология",
-    aboutSrcCommonsT: "Wikimedia Commons",
     aboutSrcCommonsSub: "Снимки със свободен лиценз",
     aboutSeo: "Микологичен каталог и справочник за разпознаване на гъби",
     aboutSister: "Вижте и нашия справочник за цветя",
-    aboutSisterLede: "Посетете What's that flower за разпознаване на диви цветя.",
-    aboutSisterLink: "What's that flower",
-    aboutSisterHref: "https://whatsthatflower.com/bg",
     gaBanner: "Този сайт използва бисквитки за анализ на трафика.",
-    gaAgree: "Приемам",
-    gaDecline: "Отказвам",
     privacy: "Поверителност",
-    analyticsConsent: "Съгласие за анализ",
-    cookieNotice: "Използваме аналитични бисквитки, за да разберем как се използва сайтът.",
-    privacyPolicy: "Политика за поверителност",
-    privacyLede: "Информация за обработката на данни и поверителността.",
     privacyAnalyticsTitle: "Уеб анализ",
-    privacyAnalyticsBody: "Използваме Google Analytics само с ваше съгласие за събиране на анонимна статистика.",
-    privacyDataTitle: "Лични данни",
-    privacyDataBody: "Не събираме и не съхраняваме лични данни, които могат да ви идентифицират.",
-    privacyContactTitle: "Контакт",
-    privacyContactBody: "За всякакви въпроси относно поверителността се свържете с нас.",
     also: "Нарича се още",
     habitat: "Местообитание",
     uses: "Употреба",
@@ -417,6 +469,10 @@ export const LANGUAGES = [
   {
     code: "zh",
     name: "中文",
+    locale: "zh-TW",
+    dir: "ltr",
+    plural: pluralOne,
+    lower: false,
     months: ["1月", "2月", "3月", "4月", "5月", "6月", "7月", "8月", "9月", "10月", "11月", "12月"],
     app: "那朵蘑菇是什麼？",
     nav: "蘑菇",
@@ -467,7 +523,7 @@ export const LANGUAGES = [
     smooth: "平滑",
     teeth: "齒狀突起",
     gleba: "產孢體",
-    capUpTo: "直徑達 {to} cm",
+    capUpTo: "直徑達 {n} cm",
     stipe: "菌柄",
     flesh: "菌肉",
     spore: "孢子印",
@@ -601,6 +657,10 @@ export const LANGUAGES = [
   {
     code: "hr",
     name: "Hrvatski",
+    locale: "hr-HR",
+    dir: "ltr",
+    plural: pluralEastSlavic,
+    lower: false,
     months: [
       "siječanj",
       "veljača",
@@ -620,7 +680,7 @@ export const LANGUAGES = [
     language: "Jezik",
     search: "Traži po nazivu, porodici, latinskom",
     empty: "Nijedna gljiva nije pronađena za ovu pretragu.",
-    one: "1 gljiva",
+    one: "{n} gljiva",
     few: "{n} gljive",
     many: "{n} gljiva",
     recent: "Nedavno dodano",
@@ -649,7 +709,6 @@ export const LANGUAGES = [
     lightboxNext: "Sljedeća",
     lightboxClose: "Zatvori",
     cap: "Klobuk",
-    capMeasure: "do {to} cm",
     season: "Sezona",
     edibility: "Jestivost",
     choice: "Izvrsna jestiva",
@@ -665,7 +724,7 @@ export const LANGUAGES = [
     smooth: "Glatko",
     teeth: "Bodlje",
     gleba: "Zatvoreno",
-    capUpTo: "do {to} cm",
+    capUpTo: "do {n} cm",
     stipe: "Stručak",
     flesh: "Meso",
     spore: "Otisak spora",
@@ -687,7 +746,6 @@ export const LANGUAGES = [
       species: "Vrsta"
     },
     sourcesLede: "Izvori i taksonomske reference.",
-    sourcesClose: "Zatvori izvore",
     homeDesc: "Ilustrirani vodič za gljive: prepoznajte vrste po listićima, porama, boji klobuka, staništu i sezoni.",
     keyLede: "Upotrijebite ključ za određivanje kako biste suzili izbor prema himeniju, staništu, boji klobuka i sezoni.",
     keyOpen: "Ključ za određivanje",
@@ -744,38 +802,21 @@ export const LANGUAGES = [
     aboutTilePhotoD: "Brojne fotografije iz prirodnih staništa prikazuju varijacije boja i stadije rasta.",
     aboutTileTextT: "Jasne bilješke",
     aboutTileTextD: "Sažeti opisi usmjereni na prepoznavanje, stanište, sezonu rasta i ekologiju.",
-    aboutLangsLede: "Dostupno na 26 jezika.",
+    aboutLangsLede: "Stranica je na {n} jezika. Stranica vrste prikazuje tekst za određivanje napisan za taj jezik. Narodni nazivi nikada se ne izmišljaju.",
     aboutNamesNote: "Lokalni narodni nazivi i znanstvena taksonomija prate suvremene mikološke standarde.",
     aboutSourcesIntro: "Temelji se na otvorenim mikološkim i znanstvenim izvorima.",
-    aboutSrcIfT: "Index Fungorum",
     aboutSrcIfSub: "Mikološka nomenklatura",
-    aboutSrcGbifT: "GBIF",
     aboutSrcGbifSub: "Globalni podaci o bioraznolikosti",
     aboutSrcGuides: "Mikološka literatura",
     aboutSrcGuidesSub: "Stručni priručnici i monografije",
     aboutSrcPlates: "Povijesne botaničke ilustracije",
     aboutSrcPlatesSub: "Klasična djela mikologije",
-    aboutSrcCommonsT: "Wikimedia Commons",
     aboutSrcCommonsSub: "Fotografije pod slobodnom licencom",
     aboutSeo: "Mikološki katalog i vodič za prepoznavanje gljiva",
     aboutSister: "Pogledajte i naš vodič za cvijeće",
-    aboutSisterLede: "Posjetite What's that flower za prepoznavanje divljeg cvijeća.",
-    aboutSisterLink: "What's that flower",
-    aboutSisterHref: "https://whatsthatflower.com/hr",
     gaBanner: "Ova stranica koristi kolačiće za analizu prometa.",
-    gaAgree: "Prihvati",
-    gaDecline: "Odbij",
     privacy: "Privatnost",
-    analyticsConsent: "Privola za analitiku",
-    cookieNotice: "Koristimo analitičke kolačiće kako bismo razumjeli posjećenost web-mjesta.",
-    privacyPolicy: "Pravila privatnosti",
-    privacyLede: "Informacije o obradi podataka i privatnosti.",
     privacyAnalyticsTitle: "Web analitika",
-    privacyAnalyticsBody: "Google Analytics koristimo samo uz vašu privolu za anonimnu statistiku posjećenosti.",
-    privacyDataTitle: "Osobni podaci",
-    privacyDataBody: "Ne prikupljamo niti pohranjujemo osobne podatke koji vas mogu identificirati.",
-    privacyContactTitle: "Kontakt",
-    privacyContactBody: "Za sva pitanja o privatnosti slobodno nam se obratite.",
     also: "Također",
     habitat: "Stanište",
     uses: "Upotreba",
@@ -818,6 +859,10 @@ export const LANGUAGES = [
   {
     code: "cs",
     name: "Čeština",
+    locale: "cs-CZ",
+    dir: "ltr",
+    plural: pluralWestSlavic,
+    lower: true,
     months: [
       "leden",
       "únor",
@@ -1018,6 +1063,10 @@ export const LANGUAGES = [
   {
     code: "da",
     name: "Dansk",
+    locale: "da-DK",
+    dir: "ltr",
+    plural: pluralOne,
+    lower: false,
     months: [
       "januar",
       "februar",
@@ -1095,7 +1144,7 @@ export const LANGUAGES = [
     classLede: "Familie og slægt åbner svampeindekser.",
     ranks: {
       kingdom: "Rige",
-      underrige: "Underrige",
+      subkingdom: "Underrige",
       phylum: "Række",
       subphylum: "Underrække",
       class: "Klasse",
@@ -1215,6 +1264,10 @@ export const LANGUAGES = [
   {
     code: "nl",
     name: "Nederlands",
+    locale: "nl-NL",
+    dir: "ltr",
+    plural: pluralOne,
+    lower: false,
     months: [
       "januari",
       "februari",
@@ -1412,6 +1465,10 @@ export const LANGUAGES = [
   {
     code: "en",
     name: "English",
+    locale: "en-US",
+    dir: "ltr",
+    plural: pluralOne,
+    lower: false,
     months: [
       "January",
       "February",
@@ -1609,6 +1666,10 @@ export const LANGUAGES = [
   {
     code: "et",
     name: "Eesti",
+    locale: "et-EE",
+    dir: "ltr",
+    plural: pluralOne,
+    lower: false,
     months: [
       "jaanuar",
       "veebruar",
@@ -1806,6 +1867,10 @@ export const LANGUAGES = [
   {
     code: "fi",
     name: "Suomi",
+    locale: "fi-FI",
+    dir: "ltr",
+    plural: pluralOne,
+    lower: false,
     months: [
       "tammikuu",
       "helmikuu",
@@ -2003,6 +2068,10 @@ export const LANGUAGES = [
   {
     code: "fr",
     name: "Français",
+    locale: "fr-FR",
+    dir: "ltr",
+    plural: pluralZeroOne,
+    lower: false,
     months: [
       "janvier",
       "février",
@@ -2022,7 +2091,7 @@ export const LANGUAGES = [
     language: "Langue",
     search: "Rechercher noms, familles, latin",
     empty: "Aucun champignon ne correspond à cette recherche.",
-    one: "1 champignon",
+    one: "{n} champignon",
     many: "{n} champignons",
     recent: "Récemment ajoutés",
     lists: "Listes de champignons",
@@ -2201,6 +2270,10 @@ export const LANGUAGES = [
   {
     code: "de",
     name: "Deutsch",
+    locale: "de-DE",
+    dir: "ltr",
+    plural: pluralOne,
+    lower: false,
     months: [
       "Januar",
       "Februar",
@@ -2399,6 +2472,10 @@ export const LANGUAGES = [
   {
     code: "he",
     name: "עברית",
+    locale: "he-IL",
+    dir: "rtl",
+    plural: pluralOne,
+    lower: false,
     months: [
       "ינואר",
       "פברואר",
@@ -2596,6 +2673,10 @@ export const LANGUAGES = [
   {
     code: "hi",
     name: "हिन्दी",
+    locale: "hi-IN",
+    dir: "ltr",
+    plural: pluralOne,
+    lower: false,
     months: [
       "जनवरी",
       "फ़रवरी",
@@ -2659,7 +2740,7 @@ export const LANGUAGES = [
     smooth: "चिकना",
     teeth: "दांते/कांटे",
     gleba: "ग्लेबा",
-    capUpTo: "{to} सेमी तक",
+    capUpTo: "{n} सेमी तक",
     stipe: "डंठल",
     flesh: "गूदा",
     spore: "बीजाणु छाप",
@@ -2793,6 +2874,10 @@ export const LANGUAGES = [
   {
     code: "hu",
     name: "Magyar",
+    locale: "hu-HU",
+    dir: "ltr",
+    plural: pluralOne,
+    lower: false,
     months: [
       "január",
       "február",
@@ -2990,6 +3075,10 @@ export const LANGUAGES = [
   {
     code: "id",
     name: "Bahasa Indonesia",
+    locale: "id-ID",
+    dir: "ltr",
+    plural: pluralOne,
+    lower: false,
     months: [
       "Januari",
       "Februari",
@@ -3053,7 +3142,7 @@ export const LANGUAGES = [
     smooth: "Halus",
     teeth: "Duri",
     gleba: "Gleba tertutup",
-    capUpTo: "hingga {to} cm",
+    capUpTo: "hingga {n} cm",
     stipe: "Tangkai",
     flesh: "Daging",
     spore: "Jejak spora",
@@ -3187,6 +3276,10 @@ export const LANGUAGES = [
   {
     code: "it",
     name: "Italiano",
+    locale: "it-IT",
+    dir: "ltr",
+    plural: pluralOne,
+    lower: false,
     months: [
       "gennaio",
       "febbraio",
@@ -3234,7 +3327,6 @@ export const LANGUAGES = [
     lightboxNext: "Successiva",
     lightboxClose: "Chiudi",
     cap: "Cappello",
-    capMeasure: "fino a {to} cm",
     season: "Stagione",
     edibility: "Commestibilità",
     choice: "Ottimo commestibile",
@@ -3250,7 +3342,7 @@ export const LANGUAGES = [
     smooth: "Liscio",
     teeth: "Aculei",
     gleba: "Gleba racchiusa",
-    capUpTo: "fino a {to} cm",
+    capUpTo: "fino a {n} cm",
     stipe: "Gambo",
     flesh: "Carne",
     spore: "Impronta sporale",
@@ -3272,7 +3364,6 @@ export const LANGUAGES = [
       species: "Specie"
     },
     sourcesLede: "Riferimenti e fonti tassonomiche.",
-    sourcesClose: "Chiudi fonti",
     homeDesc: "Guida illustrata ai funghi: identifica le specie per lamelle, pori, colore del cappello, habitat e stagione.",
     keyLede: "Usa la chiave di identificazione per restringere il catalogo in base alla superficie imeniale, all'habitat, al colore del cappello e alla stagione.",
     keyOpen: "Chiave di identificazione",
@@ -3329,38 +3420,21 @@ export const LANGUAGES = [
     aboutTilePhotoD: "Scatti multipli in habitat naturali documentano variazioni di colore, stadi di crescita e particolarità ambientali.",
     aboutTileTextT: "Note chiare",
     aboutTileTextD: "Descrizioni concise focalizzate su identificazione, caratteri distintivi, habitat, periodo di crescita ed ecologia.",
-    aboutLangsLede: "Disponibile in 26 lingue.",
+    aboutLangsLede: "Il sito è in {n} lingue. La pagina della specie mostra il testo di identificazione scritto per quella lingua. I nomi comuni non vengono mai inventati.",
     aboutNamesNote: "I nomi comuni regionali e la tassonomia scientifica seguono gli standard micologici correnti.",
     aboutSourcesIntro: "Costruito su fonti micologiche e scientifiche aperte.",
-    aboutSrcIfT: "Index Fungorum",
     aboutSrcIfSub: "Nomenclatura micologica",
-    aboutSrcGbifT: "GBIF",
     aboutSrcGbifSub: "Dati sulla biodiversità globale",
     aboutSrcGuides: "Letteratura micologica",
     aboutSrcGuidesSub: "Guide di riferimento e monografie",
     aboutSrcPlates: "Tavole botaniche storiche",
     aboutSrcPlatesSub: "Opere classiche di micologia",
-    aboutSrcCommonsT: "Wikimedia Commons",
     aboutSrcCommonsSub: "Fotografie con licenza aperta",
     aboutSeo: "Catalogo micologico e guida all'identificazione dei funghi",
     aboutSister: "Scopri anche la nostra guida ai fiori",
-    aboutSisterLede: "Visita What's that flower per identificare i fiori spontanei europei.",
-    aboutSisterLink: "What's that flower",
-    aboutSisterHref: "https://whatsthatflower.com/it",
     gaBanner: "Questo sito utilizza cookie per l'analisi del traffico.",
-    gaAgree: "Accetta",
-    gaDecline: "Rifiuta",
     privacy: "Privacy",
-    analyticsConsent: "Consenso analisi",
-    cookieNotice: "Utilizziamo cookie analitici per comprendere come i visitatori interagiscono con il sito.",
-    privacyPolicy: "Informativa sulla privacy",
-    privacyLede: "Informazioni sul trattamento dei dati e sulla privacy.",
     privacyAnalyticsTitle: "Analisi web",
-    privacyAnalyticsBody: "Utilizziamo Google Analytics solo previo tuo consenso per raccogliere statistiche anonime di navigazione.",
-    privacyDataTitle: "Dati personali",
-    privacyDataBody: "Non raccogliamo né conserviamo informazioni personali identificabili.",
-    privacyContactTitle: "Contatto",
-    privacyContactBody: "Per qualsiasi domanda relativa alla privacy, contattaci.",
     also: "Anche",
     habitat: "Habitat",
     uses: "Usi",
@@ -3403,6 +3477,10 @@ export const LANGUAGES = [
   {
     code: "ja",
     name: "日本語",
+    locale: "ja-JP",
+    dir: "ltr",
+    plural: pluralOne,
+    lower: false,
     months: ["1月", "2月", "3月", "4月", "5月", "6月", "7月", "8月", "9月", "10月", "11月", "12月"],
     app: "あのキノコは何ですか？",
     nav: "キノコ",
@@ -3453,7 +3531,7 @@ export const LANGUAGES = [
     smooth: "平滑",
     teeth: "針状突起",
     gleba: "グレバ（内部）",
-    capUpTo: "最大 {to} cm",
+    capUpTo: "最大 {n} cm",
     stipe: "柄",
     flesh: "肉",
     spore: "胞子紋",
@@ -3587,6 +3665,10 @@ export const LANGUAGES = [
   {
     code: "ko",
     name: "한국어",
+    locale: "ko-KR",
+    dir: "ltr",
+    plural: pluralOne,
+    lower: false,
     months: ["1월", "2월", "3월", "4월", "5월", "6월", "7월", "8월", "9월", "10월", "11월", "12월"],
     app: "그 버섯은 무엇입니까?",
     nav: "버섯",
@@ -3637,7 +3719,7 @@ export const LANGUAGES = [
     smooth: "매끄러움",
     teeth: "침형",
     gleba: "기본체(내부)",
-    capUpTo: "최대 {to} cm",
+    capUpTo: "최대 {n} cm",
     stipe: "대",
     flesh: "살",
     spore: "포자문",
@@ -3771,6 +3853,10 @@ export const LANGUAGES = [
   {
     code: "lv",
     name: "Latviešu",
+    locale: "lv-LV",
+    dir: "ltr",
+    plural: pluralLatvian,
+    lower: false,
     months: [
       "janvāris",
       "februāris",
@@ -3790,7 +3876,7 @@ export const LANGUAGES = [
     language: "Valoda",
     search: "Meklēt pēc nosaukuma, dzimtas, latīniski",
     empty: "Neviena sēne neatbilst meklētajam.",
-    one: "1 sēne",
+    one: "{n} sēne",
     many: "{n} sēnes",
     zero: "{n} sēņu",
     few: "{n} sēnes",
@@ -3970,6 +4056,10 @@ export const LANGUAGES = [
   {
     code: "lt",
     name: "Lietuvių",
+    locale: "lt-LT",
+    dir: "ltr",
+    plural: pluralLithuanian,
+    lower: false,
     months: [
       "sausis",
       "vasaris",
@@ -3989,7 +4079,7 @@ export const LANGUAGES = [
     language: "Kalba",
     search: "Ieškoti pagal pavadinimą, šeimą, lotyniškai",
     empty: "Nėra grybų, atitinkančių paiešką.",
-    one: "1 grybas",
+    one: "{n} grybas",
     many: "{n} grybų",
     few: "{n} grybai",
     recent: "Neseniai pridėti",
@@ -4168,6 +4258,10 @@ export const LANGUAGES = [
   {
     code: "no",
     name: "Norsk",
+    locale: "nb-NO",
+    dir: "ltr",
+    plural: pluralOne,
+    lower: false,
     months: [
       "januar",
       "februar",
@@ -4245,7 +4339,7 @@ export const LANGUAGES = [
     classLede: "Familie og slekt åpner soppregistre.",
     ranks: {
       kingdom: "Rike",
-      underrike: "Underrike",
+      subkingdom: "Underrike",
       phylum: "Rekke",
       subphylum: "Underrekke",
       class: "Klasse",
@@ -4365,6 +4459,10 @@ export const LANGUAGES = [
   {
     code: "fa",
     name: "فارسی",
+    locale: "fa-IR",
+    dir: "rtl",
+    plural: pluralOne,
+    lower: false,
     months: [
       "ژانویه",
       "فوریه",
@@ -4562,6 +4660,10 @@ export const LANGUAGES = [
   {
     code: "pl",
     name: "Polski",
+    locale: "pl-PL",
+    dir: "ltr",
+    plural: pluralPolish,
+    lower: true,
     months: [
       "styczeń",
       "luty",
@@ -4760,6 +4862,10 @@ export const LANGUAGES = [
   {
     code: "pt",
     name: "Português",
+    locale: "pt-PT",
+    dir: "ltr",
+    plural: pluralZeroOne,
+    lower: false,
     months: [
       "janeiro",
       "fevereiro",
@@ -4779,7 +4885,7 @@ export const LANGUAGES = [
     language: "Idioma",
     search: "Pesquisar nomes, famílias, latim",
     empty: "Nenhum cogumelo corresponde à pesquisa.",
-    one: "1 cogumelo",
+    one: "{n} cogumelo",
     many: "{n} cogumelos",
     recent: "Adicionados recentemente",
     lists: "Listas de cogumelos",
@@ -4957,6 +5063,10 @@ export const LANGUAGES = [
   {
     code: "ro",
     name: "Română",
+    locale: "ro-RO",
+    dir: "ltr",
+    plural: pluralRomanian,
+    lower: false,
     months: [
       "ianuarie",
       "februarie",
@@ -5005,7 +5115,6 @@ export const LANGUAGES = [
     lightboxNext: "Următoarea",
     lightboxClose: "Închide",
     cap: "Pălărie",
-    capMeasure: "până la {to} cm",
     season: "Sezon",
     edibility: "Comestibilitate",
     choice: "Comestibil excelent",
@@ -5021,7 +5130,7 @@ export const LANGUAGES = [
     smooth: "Neted",
     teeth: "Aculi",
     gleba: "Închis",
-    capUpTo: "până la {to} cm",
+    capUpTo: "până la {n} cm",
     stipe: "Picior",
     flesh: "Carne",
     spore: "Amprentă sporală",
@@ -5043,7 +5152,6 @@ export const LANGUAGES = [
       species: "Specie"
     },
     sourcesLede: "Surse și referințe taxonomice.",
-    sourcesClose: "Închide sursele",
     homeDesc: "Ghid ilustrat de ciuperci: identificați speciile după lamele, pori, culoarea pălăriei, habitat și sezon.",
     keyLede: "Folosiți cheia de determinare pentru a restrânge catalogul după stratul himenial, habitat, culoarea pălăriei și sezon.",
     keyOpen: "Cheie de determinare",
@@ -5100,38 +5208,21 @@ export const LANGUAGES = [
     aboutTilePhotoD: "Imagini din habitate naturale care documentează variația culorilor și stadiile de dezvoltare.",
     aboutTileTextT: "Descrieri clare",
     aboutTileTextD: "Note concise axate pe identificare, caractere distinctive, habitat și ecologie.",
-    aboutLangsLede: "Disponibil în 26 de limbi.",
+    aboutLangsLede: "Site-ul este în {n} de limbi. Pagina speciei arată textul de identificare scris pentru limba respectivă. Numele populare nu sunt niciodată inventate.",
     aboutNamesNote: "Denumirile populare locale și taxonomia științifică respectă standardele micologice actuale.",
     aboutSourcesIntro: "Bazat pe surse micologice și științifice deschise.",
-    aboutSrcIfT: "Index Fungorum",
     aboutSrcIfSub: "Nomenclatură micologică",
-    aboutSrcGbifT: "GBIF",
     aboutSrcGbifSub: "Date globale despre biodiversitate",
     aboutSrcGuides: "Literatură micologică",
     aboutSrcGuidesSub: "Ghiduri și monografii de specialitate",
     aboutSrcPlates: "Planșe botanice istorice",
     aboutSrcPlatesSub: "Lucrări clasice de micologie",
-    aboutSrcCommonsT: "Wikimedia Commons",
     aboutSrcCommonsSub: "Fotografii cu licență deschisă",
     aboutSeo: "Catalog micologic și ghid de identificare a ciupercilor",
     aboutSister: "Descoperiți și ghidul nostru de flori",
-    aboutSisterLede: "Vizitați What's that flower pentru identificarea florilor sălbatice.",
-    aboutSisterLink: "What's that flower",
-    aboutSisterHref: "https://whatsthatflower.com/ro",
     gaBanner: "Acest site utilizează cookie-uri pentru analiza traficului.",
-    gaAgree: "Acceptă",
-    gaDecline: "Refuză",
     privacy: "Confidențialitate",
-    analyticsConsent: "Consimțământ analiză",
-    cookieNotice: "Folosim cookie-uri analitice pentru a înțelege modul în care este utilizat site-ul.",
-    privacyPolicy: "Politica de confidențialitate",
-    privacyLede: "Informații despre prelucrarea datelor și confidențialitate.",
     privacyAnalyticsTitle: "Analiză web",
-    privacyAnalyticsBody: "Utilizăm Google Analytics numai cu acordul dumneavoastră pentru statistici anonime.",
-    privacyDataTitle: "Date cu caracter personal",
-    privacyDataBody: "Nu colectăm și nu stocăm date personale de identificare.",
-    privacyContactTitle: "Contact",
-    privacyContactBody: "Pentru orice întrebări privind confidențialitatea, vă rugăm să ne contactați.",
     also: "Numit și",
     habitat: "Habitat",
     uses: "Utilizări",
@@ -5174,6 +5265,10 @@ export const LANGUAGES = [
   {
     code: "ru",
     name: "Русский",
+    locale: "ru-RU",
+    dir: "ltr",
+    plural: pluralEastSlavic,
+    lower: true,
     months: [
       "январь",
       "февраль",
@@ -5193,7 +5288,7 @@ export const LANGUAGES = [
     language: "Язык",
     search: "Поиск названий, семейств, латыни",
     empty: "Ни один гриб не соответствует поиску.",
-    one: "1 гриб",
+    one: "{n} гриб",
     few: "{n} гриба",
     many: "{n} грибов",
     recent: "Недавно добавленные",
@@ -5372,6 +5467,10 @@ export const LANGUAGES = [
   {
     code: "sr",
     name: "Српски",
+    locale: "sr-RS",
+    dir: "ltr",
+    plural: pluralEastSlavic,
+    lower: false,
     months: [
       "јануар",
       "фебруар",
@@ -5391,7 +5490,7 @@ export const LANGUAGES = [
     language: "Језик",
     search: "Претрага по називу, породици, латинском",
     empty: "Ниједна гљива није пронађена за ову претрагу.",
-    one: "1 гљива",
+    one: "{n} гљива",
     few: "{n} гљиве",
     many: "{n} гљива",
     recent: "Недавно додато",
@@ -5420,7 +5519,6 @@ export const LANGUAGES = [
     lightboxNext: "Следећа",
     lightboxClose: "Затвори",
     cap: "Шешир",
-    capMeasure: "до {to} cm",
     season: "Сезона",
     edibility: "Јестивост",
     choice: "Одлична јестива",
@@ -5436,7 +5534,7 @@ export const LANGUAGES = [
     smooth: "Глатко",
     teeth: "Бодље",
     gleba: "Затворено",
-    capUpTo: "до {to} cm",
+    capUpTo: "до {n} cm",
     stipe: "Дршка",
     flesh: "Месо",
     spore: "Отисак спора",
@@ -5458,7 +5556,6 @@ export const LANGUAGES = [
       species: "Врста"
     },
     sourcesLede: "Извори и таксономске референце.",
-    sourcesClose: "Затвори изворе",
     homeDesc: "Илустровани водич за гљиве: препознајте врсте по листићима, цевчицама, боји шешира, станишту и сезони.",
     keyLede: "Користите кључ за одређивање да сузите избор по плодишту, станишту, боји шешира и сезони.",
     keyOpen: "Кључ за одређивање",
@@ -5515,38 +5612,21 @@ export const LANGUAGES = [
     aboutTilePhotoD: "Бројне фотографије из природног окружења документују промене боје и стадијуме развоја.",
     aboutTileTextT: "Јасне белешке",
     aboutTileTextD: "Кратки описи усмерени на препознавање, станиште, период раста и екологију.",
-    aboutLangsLede: "Доступно на 26 језика.",
+    aboutLangsLede: "Сајт је на {n} језика. Страница врсте приказује текст за одређивање написан за тај језик. Народни називи се никада не измишљају.",
     aboutNamesNote: "Локални народни називи и научна таксономија прате савремене миколошке стандарде.",
     aboutSourcesIntro: "Засновано на отвореним миколошким и научним изворима.",
-    aboutSrcIfT: "Index Fungorum",
     aboutSrcIfSub: "Миколошка номенклатура",
-    aboutSrcGbifT: "GBIF",
     aboutSrcGbifSub: "Глобални подаци о биодиверзитету",
     aboutSrcGuides: "Миколошка литература",
     aboutSrcGuidesSub: "Стручни приручници и монографије",
     aboutSrcPlates: "Историјске ботаничке илустрације",
     aboutSrcPlatesSub: "Класична дела микологије",
-    aboutSrcCommonsT: "Wikimedia Commons",
     aboutSrcCommonsSub: "Фотографије под слободном лиценцом",
     aboutSeo: "Миколошки каталог и водич за одређивање гљива",
     aboutSister: "Погледајте и наш водич за цвеће",
-    aboutSisterLede: "Посетите What's that flower за препознавање дивљег цвећа.",
-    aboutSisterLink: "What's that flower",
-    aboutSisterHref: "https://whatsthatflower.com/sr",
     gaBanner: "Овај сајт користи колачиће за анализу посећености.",
-    gaAgree: "Прихвати",
-    gaDecline: "Одбиј",
     privacy: "Приватност",
-    analyticsConsent: "Пристанак за аналитику",
-    cookieNotice: "Користимо аналитичке колачиће како бисмо разумели како корисници користе сајт.",
-    privacyPolicy: "Политика приватности",
-    privacyLede: "Информације о обради података и приватности.",
     privacyAnalyticsTitle: "Веб аналитика",
-    privacyAnalyticsBody: "Google Analytics користимо само уз ваш пристанак за прикупљање анонимне статистике.",
-    privacyDataTitle: "Лични подаци",
-    privacyDataBody: "Не прикупљамо нити чувамо личне податке који вас могу идентификовати.",
-    privacyContactTitle: "Контакт",
-    privacyContactBody: "За сва питања о приватности слободно нас контактирајте.",
     also: "Такође",
     habitat: "Станиште",
     uses: "Употреба",
@@ -5589,6 +5669,10 @@ export const LANGUAGES = [
   {
     code: "sk",
     name: "Slovenčina",
+    locale: "sk-SK",
+    dir: "ltr",
+    plural: pluralWestSlavic,
+    lower: true,
     months: [
       "január",
       "február",
@@ -5789,6 +5873,10 @@ export const LANGUAGES = [
   {
     code: "sl",
     name: "Slovenščina",
+    locale: "sl-SI",
+    dir: "ltr",
+    plural: pluralSlovenian,
+    lower: false,
     months: [
       "januar",
       "februar",
@@ -5808,7 +5896,8 @@ export const LANGUAGES = [
     language: "Jezik",
     search: "Iskanje po imenu, družini, latinščini",
     empty: "Za to iskanje ni bila najdena nobena goba.",
-    one: "1 goba",
+    one: "{n} goba",
+    two: "{n} gobi",
     few: "{n} gobe",
     many: "{n} gob",
     recent: "Nedavno dodano",
@@ -5837,7 +5926,6 @@ export const LANGUAGES = [
     lightboxNext: "Naslednja",
     lightboxClose: "Zapri",
     cap: "Klobuk",
-    capMeasure: "do {to} cm",
     season: "Sezona",
     edibility: "Užitnost",
     choice: "Odlična užitna",
@@ -5853,7 +5941,7 @@ export const LANGUAGES = [
     smooth: "Gladko",
     teeth: "Iglice",
     gleba: "Zaprto",
-    capUpTo: "do {to} cm",
+    capUpTo: "do {n} cm",
     stipe: "Bet",
     flesh: "Meso",
     spore: "Trosni prah",
@@ -5875,7 +5963,6 @@ export const LANGUAGES = [
       species: "Vrsta"
     },
     sourcesLede: "Viri in taksonomske reference.",
-    sourcesClose: "Zapri vire",
     homeDesc: "Ilustrirani vodnik po gobah: prepoznajte vrste po lističih, cevkah, barvi klobuka, rastišču in sezoni.",
     keyLede: "Uporabite določevalni ključ za zožitev izbire po trosovnici, rastišču, barvi klobuka in sezoni.",
     keyOpen: "Določevalni ključ",
@@ -5932,38 +6019,21 @@ export const LANGUAGES = [
     aboutTilePhotoD: "Številne fotografije iz naravnega okolja prikazujejo barvno spremenljivost in razvojne stopnje.",
     aboutTileTextT: "Jasna pojasnila",
     aboutTileTextD: "Jedrnati opisi, osredotočeni na prepoznavanje, rastišče, obdobje rasti in ekologijo.",
-    aboutLangsLede: "Na voljo v 26 jezikih.",
+    aboutLangsLede: "Spletno mesto je v {n} jezikih. Stran vrste pokaže določevalno besedilo, napisano za ta jezik. Ljudskih imen se ne izmišlja.",
     aboutNamesNote: "Lokalna slovenska imena in znanstvena taksonomija sledijo sodobnim mikološkim standardom.",
     aboutSourcesIntro: "Zasnovano na odprtih mikoloških in znanstvenih virih.",
-    aboutSrcIfT: "Index Fungorum",
     aboutSrcIfSub: "Mikološko izrazje",
-    aboutSrcGbifT: "GBIF",
     aboutSrcGbifSub: "Globalni podatki o biotski raznovrstnosti",
     aboutSrcGuides: "Mikološka literatura",
     aboutSrcGuidesSub: "Strokovni priročniki in monografije",
     aboutSrcPlates: "Zgodovinske botanične ilustracije",
     aboutSrcPlatesSub: "Klasična dela mikologije",
-    aboutSrcCommonsT: "Wikimedia Commons",
     aboutSrcCommonsSub: "Fotografije pod prosto licenco",
     aboutSeo: "Mikološki katalog in vodnik za določanje gob",
     aboutSister: "Oglejte si tudi naš vodnik po cvetlicah",
-    aboutSisterLede: "Obiščite What's that flower za prepoznavanje divjih rastlin.",
-    aboutSisterLink: "What's that flower",
-    aboutSisterHref: "https://whatsthatflower.com/sl",
     gaBanner: "To spletno mesto uporablja piškotke za analizo prometa.",
-    gaAgree: "Sprejmi",
-    gaDecline: "Zavrni",
     privacy: "Zasebnost",
-    analyticsConsent: "Privolitev v analitiko",
-    cookieNotice: "Uporabljamo analitične piškotke za spremljanje obiska spletišča.",
-    privacyPolicy: "Pravilnik o zasebnosti",
-    privacyLede: "Informacije o obdelavi podatkov in zasebnosti.",
     privacyAnalyticsTitle: "Spletna analitika",
-    privacyAnalyticsBody: "Google Analytics uporabljamo le z vašo privolitvijo za zbiranje anonimne statistike.",
-    privacyDataTitle: "Osebni podatki",
-    privacyDataBody: "Ne zbiramo in ne hranimo osebnih podatkov, ki bi omogočali identifikacijo.",
-    privacyContactTitle: "Stik",
-    privacyContactBody: "Za vprašanja o zasebnosti nam pišite.",
     also: "Tudi",
     habitat: "Rastišče",
     uses: "Uporaba",
@@ -6006,6 +6076,10 @@ export const LANGUAGES = [
   {
     code: "es",
     name: "Español",
+    locale: "es-ES",
+    dir: "ltr",
+    plural: pluralOne,
+    lower: false,
     months: [
       "enero",
       "febrero",
@@ -6203,6 +6277,10 @@ export const LANGUAGES = [
   {
     code: "sv",
     name: "Svenska",
+    locale: "sv-SE",
+    dir: "ltr",
+    plural: pluralOne,
+    lower: false,
     months: [
       "januari",
       "februari",
@@ -6280,7 +6358,7 @@ export const LANGUAGES = [
     classLede: "Familj och släkte öppnar svampregister.",
     ranks: {
       kingdom: "Rike",
-      underrike: "Underrike",
+      subkingdom: "Underrike",
       phylum: "Stam",
       subphylum: "Understam",
       class: "Klass",
@@ -6400,6 +6478,10 @@ export const LANGUAGES = [
   {
     code: "tr",
     name: "Türkçe",
+    locale: "tr-TR",
+    dir: "ltr",
+    plural: pluralOne,
+    lower: false,
     months: [
       "Ocak",
       "Şubat",
@@ -6447,7 +6529,6 @@ export const LANGUAGES = [
     lightboxNext: "Sonraki",
     lightboxClose: "Kapat",
     cap: "Şapka",
-    capMeasure: "{to} cm'ye kadar",
     season: "Mevsim",
     edibility: "Yenilebilirlik",
     choice: "Seçkin yemeklik",
@@ -6463,7 +6544,7 @@ export const LANGUAGES = [
     smooth: "Düz",
     teeth: "Dikenler",
     gleba: "Kapalı gleba",
-    capUpTo: "{to} cm'ye kadar",
+    capUpTo: "{n} cm'ye kadar",
     stipe: "Sap",
     flesh: "Etli kısım",
     spore: "Spor izi",
@@ -6485,7 +6566,6 @@ export const LANGUAGES = [
       species: "Tür"
     },
     sourcesLede: "Kaynaklar ve taksonomik referanslar.",
-    sourcesClose: "Kaynakları kapat",
     homeDesc: "Resimli mantar rehberi: mantar türlerini lamel, gözenek, şapka rengi, yaşam alanı ve mevsime göre tanıyın.",
     keyLede: "Kataloğu himenyum, yaşam alanı, şapka rengi ve mevsime göre daraltmak için teşhis anahtarını kullanın.",
     keyOpen: "Teşhis anahtarı",
@@ -6542,38 +6622,21 @@ export const LANGUAGES = [
     aboutTilePhotoD: "Doğal yaşam alanlarından çok sayıda fotoğraf renk değişimlerini ve büyüme evrelerini belgeler.",
     aboutTileTextT: "Açık açıklamalar",
     aboutTileTextD: "Teşhis, ayırt edici özellikler, yaşam alanı ve ekolojiye odaklanan kısa ve öz metinler.",
-    aboutLangsLede: "26 dilde erişilebilir.",
+    aboutLangsLede: "Site {n} dilde. Tür sayfası o dil için yazılmış teşhis metnini gösterir. Yaygın adlar asla uydurulmaz.",
     aboutNamesNote: "Yerel Türkçe isimler ve bilimsel taksonomi güncel mikolojik standartları izler.",
     aboutSourcesIntro: "Açık mikolojik ve bilimsel kaynaklar üzerine kurulmuştur.",
-    aboutSrcIfT: "Index Fungorum",
     aboutSrcIfSub: "Mikolojik isimlendirme",
-    aboutSrcGbifT: "GBIF",
     aboutSrcGbifSub: "Küresel biyoçeşitlilik verileri",
     aboutSrcGuides: "Mikoloji literatürü",
     aboutSrcGuidesSub: "Kaynak rehberler ve monografiler",
     aboutSrcPlates: "Tarihi botanik çizimler",
     aboutSrcPlatesSub: "Klasik mikoloji eserleri",
-    aboutSrcCommonsT: "Wikimedia Commons",
     aboutSrcCommonsSub: "Açık lisanslı fotoğraflar",
     aboutSeo: "Mikoloji kataloğu ve mantar teşhis rehberi",
     aboutSister: "Çiçek rehberimizi de keşfedin",
-    aboutSisterLede: "Yabani çiçekleri tanımak için What's that flower sitesini ziyaret edin.",
-    aboutSisterLink: "What's that flower",
-    aboutSisterHref: "https://whatsthatflower.com/tr",
     gaBanner: "Bu site trafik analizi için çerez kullanmaktadır.",
-    gaAgree: "Kabul et",
-    gaDecline: "Reddet",
     privacy: "Gizlilik",
-    analyticsConsent: "Analiz onayı",
-    cookieNotice: "Ziyaretçilerin siteyi nasıl kullandığını anlamak için analiz çerezleri kullanıyoruz.",
-    privacyPolicy: "Gizlilik politikası",
-    privacyLede: "Veri işleme ve gizlilik hakkında bilgiler.",
     privacyAnalyticsTitle: "Web analitiği",
-    privacyAnalyticsBody: "Google Analytics'i yalnızca onayınızla anonim istatistik toplamak için kullanıyoruz.",
-    privacyDataTitle: "Kişisel veriler",
-    privacyDataBody: "Kimliğinizi belirleyebilecek kişisel verileri toplamıyor ve saklamıyoruz.",
-    privacyContactTitle: "İletişim",
-    privacyContactBody: "Gizlilikle ilgili tüm sorularınız için bizimle iletişime geçebilirsiniz.",
     also: "Diğer adları",
     habitat: "Yaşam alanı",
     uses: "Kullanım",
@@ -6616,6 +6679,10 @@ export const LANGUAGES = [
   {
     code: "uk",
     name: "Українська",
+    locale: "uk-UA",
+    dir: "ltr",
+    plural: pluralEastSlavic,
+    lower: true,
     months: [
       "січень",
       "лютий",
@@ -6635,7 +6702,7 @@ export const LANGUAGES = [
     language: "Мова",
     search: "Пошук за назвами, родинами, латиною",
     empty: "Жоден гриб не відповідає пошуку.",
-    one: "1 гриб",
+    one: "{n} гриб",
     few: "{n} гриби",
     many: "{n} грибів",
     recent: "Нещодавно додані",
@@ -6818,9 +6885,20 @@ function stringsOf(language) {
   delete strings.code;
   delete strings.name;
   delete strings.months;
+  delete strings.locale;
+  delete strings.dir;
+  delete strings.plural;
+  delete strings.lower;
   return strings;
 }
 
 export const COPY = Object.fromEntries(LANGUAGES.map((language) => [language.code, stringsOf(language)]));
-export const LANGS = LANGUAGES.map(({ code, name }) => ({ code, name }));
+export const LANGS = LANGUAGES.map(({ code, name, locale, dir, plural, lower }) => ({
+  code,
+  name,
+  locale,
+  dir,
+  plural,
+  lower
+}));
 export const MONTHS = Object.fromEntries(LANGUAGES.map(({ code, months }) => [code, months]));
