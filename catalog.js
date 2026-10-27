@@ -13,6 +13,13 @@ import {
   trackSearch,
   trackSister
 } from "./src/analytics.js";
+import {
+  KEY_COLOR,
+  KEY_SEASON,
+  KEY_UNDER,
+  KEY_WHERE,
+  identifySearch
+} from "./src/identifyQuery.mjs";
 
 var PATH_LANGS = LANGS.map(function (item) { return item.code; }).filter(function (code) {
   return code !== "en";
@@ -173,10 +180,6 @@ function addedLabel(added, lang) {
 }
 
 var KEY_AXES = ["under", "where", "color", "season"];
-var KEY_UNDER = ["gills", "tubes", "ridges", "teeth", "pits", "smooth", "gleba"];
-var KEY_WHERE = ["wood", "ground", "grass"];
-var KEY_COLOR = ["white", "yellow", "red", "brown", "green", "purple", "dark"];
-var KEY_SEASON = ["spring", "summer", "autumn", "winter"];
 var SEASON_MONTHS = {
   spring: [3, 4, 5],
   summer: [6, 7, 8],
@@ -215,11 +218,10 @@ function keyChoices(axis) {
 }
 
 function readSelection(search) {
-  var params = new URLSearchParams(search == null ? location.search : search);
+  var params = new URLSearchParams(identifySearch(search == null ? location.search : search).slice(1));
   var selection = {};
   KEY_AXES.forEach(function (axis) {
-    var value = params.get(axis) || "";
-    selection[axis] = keyChoices(axis).indexOf(value) >= 0 ? value : "";
+    selection[axis] = params.get(axis) || "";
   });
   return selection;
 }
@@ -229,8 +231,7 @@ function selectionSearch(selection) {
   KEY_AXES.forEach(function (axis) {
     if (selection[axis]) params.set(axis, selection[axis]);
   });
-  var query = params.toString();
-  return query ? "?" + query : "";
+  return identifySearch(params.toString());
 }
 
 function fruitingMonths(species) {
@@ -448,6 +449,16 @@ function identifyPage(lang, search, seasonOpen) {
   return { title: copy.keyTitle + " — " + copy.app, description: copy.keyLede, html: shell(lang, page, "identify") };
 }
 
+function decodeSegment(value) {
+  try {
+    return decodeURIComponent(value);
+  } catch (err) {
+    return null;
+  }
+}
+
+var KEYED = { family: true, genus: true, list: true, mushroom: true };
+
 function parse(pathname) {
   var path = pathname == null ? location.pathname : pathname;
   var parts = path.split("/").filter(Boolean);
@@ -462,11 +473,11 @@ function parse(pathname) {
   if (parts[0] === "privacy" && parts.length === 1) return { lang: lang, view: "privacy" };
   if (parts[0] === "families" && parts.length === 1) return { lang: lang, view: "families" };
   if (parts[0] === "genera" && parts.length === 1) return { lang: lang, view: "genera" };
-  if (parts[0] === "family" && parts[1]) return { lang: lang, view: "family", key: decodeURIComponent(parts[1]) };
-  if (parts[0] === "genus" && parts[1]) return { lang: lang, view: "genus", key: decodeURIComponent(parts[1]) };
-  if (parts[0] === "list" && parts[1]) return { lang: lang, view: "list", key: decodeURIComponent(parts[1]) };
-  if (parts[0] === "mushroom" && parts[1]) {
-    return { lang: lang, view: "mushroom", key: decodeURIComponent(parts[1]).replace(/_/g, " ") };
+  if (KEYED[parts[0]] && parts[1]) {
+    var key = decodeSegment(parts[1]);
+    if (key == null) return { lang: lang, view: "missing" };
+    if (parts[0] === "mushroom") key = key.replace(/_/g, " ");
+    return { lang: lang, view: parts[0], key: key };
   }
   return { lang: lang, view: "missing" };
 }
@@ -518,7 +529,7 @@ function tile(name, lang, kind) {
   var path = kind === "family" ? "/family/" + encodeURIComponent(name) : "/genus/" + encodeURIComponent(name);
   var titleClass = !label && kind === "genus" ? "latin" : "";
   var icon = kind === "family"
-    ? '<img class="tile-icon" src="' + STORAGE + "families/" + encodeURIComponent(name) + '.webp" alt="" loading="lazy" onerror="this.hidden=true">'
+    ? '<img class="tile-icon" src="' + STORAGE + "families/" + encodeURIComponent(name) + '.webp" alt="" loading="lazy">'
     : "";
   var cls = kind === "family" ? "tile tile-with-icon" : "tile";
   return (
@@ -1336,8 +1347,9 @@ function aboutPage(lang) {
 function privacyPage(lang) {
   var copy = t(lang);
   var state = analyticsState();
-  var allowPressed = state.ready && state.on;
-  var refusePressed = state.ready && !state.on;
+  var choice = state.choice === "granted" || state.choice === "denied" ? state.choice : "";
+  var allowPressed = choice === "granted";
+  var refusePressed = choice === "denied";
   var status = state.ready
     ? "<p>" + esc(state.on ? copy.privacyStatusOn : copy.privacyStatusOff) + "</p>"
     : "";
@@ -1514,6 +1526,12 @@ var searchTimer = 0;
 function bindListeners() {
   if (listenersBound || typeof document === "undefined") return;
   listenersBound = true;
+
+document.addEventListener("error", function (event) {
+  var node = event.target;
+  if (!node || !node.classList || !node.classList.contains("tile-icon")) return;
+  node.hidden = true;
+}, true);
 
 document.addEventListener("click", function (event) {
   var gaBtn = event.target.closest("[data-ga]");
