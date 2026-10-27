@@ -5,7 +5,9 @@ import { TAXA } from "./taxa.js";
 import {
   allowAnalytics,
   analyticsState,
+  pageview,
   refuseAnalytics,
+  subscribeAnalytics,
   trackFilterResult,
   trackMushroom,
   trackSearch,
@@ -270,7 +272,6 @@ var COLOR_COPY = {
   purple: "colorPurple",
   dark: "colorDark"
 };
-var seasonOpen = false;
 
 function keyChoices(axis) {
   if (axis === "under") return KEY_UNDER;
@@ -394,7 +395,7 @@ function keyButton(className, pressed, disabled, axis, id, inner) {
   );
 }
 
-function identifyPage(lang, search) {
+function identifyPage(lang, search, seasonOpen) {
   var copy = t(lang);
   var selection = readSelection(search || "");
   var locale = lang === "sk" ? "sk" : "en";
@@ -487,22 +488,23 @@ function identifyPage(lang, search) {
           '<div class="identify-results-h">' +
             '<p id="identify-count" aria-live="polite">' + esc(countLabel(matches.length, lang)) + "</p>" +
             '<div class="identify-results-row">' +
-              '<button type="button" class="region-toggle' + (selection.season ? " on" : "") + '" data-season-toggle aria-expanded="' + (seasonOpen ? "true" : "false") + '" aria-controls="identify-season-panel">' +
-                esc(seasonName) +
-                '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 10l5 5 5-5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>' +
+              '<details class="season-details" id="identify-season-panel"' + (seasonOpen ? " open" : "") + ">" +
+                '<summary class="region-toggle' + (selection.season ? " on" : "") + '">' +
+                  esc(seasonName) +
+                  '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 10l5 5 5-5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>' +
+                "</summary>" +
+                '<div class="region-panel"><h2>' + esc(copy.seasonQuestion) + "</h2>" +
+                  '<p class="key-note">' + esc(copy.seasonNote) + '</p><div role="radiogroup" aria-label="' + esc(copy.seasonQuestion) + '">' +
+                  '<button type="button" role="radio" class="region-row" data-key="season" data-id="" aria-checked="' + (!selection.season ? "true" : "false") + '">' +
+                    '<span class="radio" aria-hidden="true"></span><span class="lbl">' + esc(copy.anySeason) + '</span><span class="num">' + number(anySeasonCount) + "</span></button>" +
+                  seasonRows +
+                "</div></div>" +
+              "</details>" +
               (active
                 ? '<div class="key-chips">' + chips +
                   '<button type="button" class="any-btn" data-key="clear">' + esc(copy.startOver) + "</button></div>"
                 : "") +
             "</div>" +
-            (seasonOpen
-              ? '<div class="region-panel" id="identify-season-panel"><h2>' + esc(copy.seasonQuestion) + "</h2>" +
-                '<p class="key-note">' + esc(copy.seasonNote) + '</p><div role="radiogroup" aria-label="' + esc(copy.seasonQuestion) + '">' +
-                '<button type="button" role="radio" class="region-row" data-key="season" data-id="" aria-checked="' + (!selection.season ? "true" : "false") + '">' +
-                  '<span class="radio" aria-hidden="true"></span><span class="lbl">' + esc(copy.anySeason) + '</span><span class="num">' + number(anySeasonCount) + "</span></button>" +
-                seasonRows +
-                "</div></div>"
-              : "") +
           "</div>" +
           (matches.length ? '<div class="grid">' + grid + "</div>" : '<p class="center-msg">' + esc(copy.keyEmpty) + "</p>") +
         "</section>" +
@@ -537,36 +539,15 @@ function parse(pathname) {
 
 function go(url) {
   var here = location.pathname + location.search;
-  if (url === here) {
-    render();
-    return;
-  }
-  if (navigateTo) {
-    keepFor = "";
-    navigateTo(url);
-    return;
-  }
-  history.pushState(null, "", url);
+  if (url !== here) history.pushState(null, "", url);
   render();
   window.scrollTo(0, 0);
 }
 
-var pendingFocus = "";
-
 function writeSelection(selection) {
   var next = location.pathname + selectionSearch(selection);
-  var here = location.pathname + location.search;
-  if (next === here) {
-    render({ keepScroll: true });
-    return;
-  }
-  if (navigateTo) {
-    keepFor = next;
-    navigateTo(next, { replace: true });
-    return;
-  }
-  history.replaceState(null, "", next);
-  render({ keepScroll: true });
+  if (next !== location.pathname + location.search) history.replaceState(null, "", next);
+  render();
 }
 
 function shell(lang, page, active) {
@@ -1410,7 +1391,7 @@ function missing(lang) {
 
 function viewModel(route) {
   if (route.view === "home") return home(route.lang);
-  if (route.view === "identify") return identifyPage(route.lang, route.search || "");
+  if (route.view === "identify") return identifyPage(route.lang, route.search || "", route.seasonOpen);
   if (route.view === "about") return aboutPage(route.lang);
   if (route.view === "privacy") return privacyPage(route.lang);
   if (route.view === "families") return indexPage(route.lang, "family");
@@ -1450,35 +1431,69 @@ function setMeta(model, lang, pathname) {
   if (image && src) image.setAttribute("content", src);
 }
 
-function render(options) {
-  var pathname = options && options.pathname != null ? options.pathname : location.pathname;
-  var search = options && options.search != null ? options.search : location.search;
-  var keep = (options && options.keepScroll) || keepFor === pathname + search;
-  var filterScroll = 0;
-  var y = window.scrollY;
-  if (keep) {
-    var filters = document.querySelector(".identify-filters");
-    if (filters) filterScroll = filters.scrollTop;
-  } else {
-    seasonOpen = false;
+var consentObserver = null;
+
+function consentBar(lang) {
+  var state = analyticsState();
+  if (!state.ask) return "";
+  var copy = t(lang);
+  return (
+    '<div class="ga-banner" role="region" aria-label="' + esc(copy.privacy) + '">' +
+      "<p>" + esc(copy.gaBanner) + "</p>" +
+      '<div class="ga-actions">' +
+        '<button type="button" class="ga-choice" data-ga="allow">' + esc(copy.gaAllow) + "</button>" +
+        '<button type="button" class="ga-choice" data-ga="refuse">' + esc(copy.gaRefuse) + "</button>" +
+        '<a class="ga-choice" href="' + href("/privacy", lang) + '">' + esc(copy.privacy) + "</a>" +
+      "</div>" +
+    "</div>"
+  );
+}
+
+function paintConsent(lang) {
+  var host = document.getElementById("consent");
+  if (!host) return;
+  if (consentObserver) {
+    consentObserver.disconnect();
+    consentObserver = null;
   }
+  var state = analyticsState();
+  var root = document.documentElement;
+  host.innerHTML = consentBar(lang);
+  if (!state.ask) {
+    root.classList.remove("ga-ask");
+    root.style.removeProperty("--ga-banner-h");
+    return;
+  }
+  root.classList.add("ga-ask");
+  var bar = host.querySelector(".ga-banner");
+  if (!bar) return;
+  var apply = function () {
+    root.style.setProperty("--ga-banner-h", bar.offsetHeight + "px");
+  };
+  apply();
+  if (typeof ResizeObserver === "undefined") return;
+  consentObserver = new ResizeObserver(apply);
+  consentObserver.observe(bar);
+}
+
+function render() {
+  var pathname = location.pathname;
+  var search = location.search;
+  var filters = document.querySelector(".identify-filters");
+  var filterScroll = filters ? filters.scrollTop : 0;
+  var y = window.scrollY;
   closeLightbox();
+  var seasonPanel = document.getElementById("identify-season-panel");
   var route = parse(pathname);
   route.search = search;
+  route.seasonOpen = !!(seasonPanel && seasonPanel.open);
   var model = viewModel(route);
   document.getElementById("app").innerHTML = model.html;
   setMeta(model, route.lang, pathname);
-  if (!keep) window.scrollTo(0, 0);
-  if (keep) {
-    window.scrollTo(0, y);
-    var nextFilters = document.querySelector(".identify-filters");
-    if (nextFilters) nextFilters.scrollTop = filterScroll;
-    if (pendingFocus) {
-      var focused = document.querySelector(pendingFocus);
-      pendingFocus = "";
-      if (focused) focused.focus();
-    }
-  }
+  paintConsent(route.lang);
+  window.scrollTo(0, y);
+  var nextFilters = document.querySelector(".identify-filters");
+  if (nextFilters) nextFilters.scrollTop = filterScroll;
   if (route.view === "identify") {
     var selection = readSelection(search);
     var matched = 0;
@@ -1505,15 +1520,20 @@ function render(options) {
       trackSearch(term, searchHits(term, lang).length);
     }, 1000);
   });
+  var copy = t(route.lang);
+  pageview({ pathname: pathname, search: search }, {
+    appName: copy.app,
+    lang: route.lang,
+    pageType: route.view === "missing" ? "other" : route.view,
+    species: route.view === "mushroom" ? route.key : ""
+  });
 }
 
-var navigateTo = null;
-var keepFor = "";
 var listenersBound = false;
+var started = false;
 var searchTimer = 0;
 
-function bindCatalog(navigate) {
-  navigateTo = navigate;
+function bindListeners() {
   if (listenersBound || typeof document === "undefined") return;
   listenersBound = true;
 
@@ -1522,7 +1542,6 @@ document.addEventListener("click", function (event) {
   if (gaBtn) {
     if (gaBtn.getAttribute("data-ga") === "allow") allowAnalytics();
     else refuseAnalytics();
-    render({ keepScroll: true });
     return;
   }
   var opener = event.target.closest(".photo-open");
@@ -1545,31 +1564,27 @@ document.addEventListener("click", function (event) {
       return;
     }
   }
-  var seasonToggle = event.target.closest("[data-season-toggle]");
-  if (seasonToggle) {
-    seasonOpen = !seasonOpen;
-    pendingFocus = "[data-season-toggle]";
-    render({ keepScroll: true });
-    return;
-  }
   var keyBtn = event.target.closest("[data-key]");
   if (keyBtn) {
     var axis = keyBtn.getAttribute("data-key");
     var id = keyBtn.getAttribute("data-id") || "";
+    if (axis === "clear" || axis === "season") {
+      var panel = document.getElementById("identify-season-panel");
+      if (panel) panel.open = false;
+    }
     if (axis === "clear") {
-      seasonOpen = false;
       writeSelection({ under: "", where: "", color: "", season: "" });
       return;
     }
     var selection = readSelection();
     selection[axis] = selection[axis] === id ? "" : id;
-    if (axis === "season") {
-      seasonOpen = false;
-      pendingFocus = "[data-season-toggle]";
-    } else {
-      pendingFocus = '[data-key="' + axis + '"][data-id="' + id + '"]';
-    }
     writeSelection(selection);
+    var focused = document.querySelector(
+      axis === "season"
+        ? "#identify-season-panel > summary"
+        : '[data-key="' + axis + '"][data-id="' + id + '"]'
+    );
+    if (focused) focused.focus({ preventScroll: true });
     return;
   }
   var link = event.target.closest("a");
@@ -1623,11 +1638,14 @@ document.addEventListener("keydown", function (event) {
     }
     return;
   }
-  if (event.key === "Escape" && seasonOpen) {
-    event.preventDefault();
-    seasonOpen = false;
-    pendingFocus = "[data-season-toggle]";
-    render({ keepScroll: true });
+  if (event.key === "Escape") {
+    var panel = document.getElementById("identify-season-panel");
+    if (panel && panel.open) {
+      event.preventDefault();
+      panel.open = false;
+      var summary = panel.querySelector("summary");
+      if (summary) summary.focus({ preventScroll: true });
+    }
     return;
   }
   var current = event.target.closest && event.target.closest("#identify-season-panel button[role='radio']");
@@ -1644,6 +1662,21 @@ document.addEventListener("keydown", function (event) {
   event.preventDefault();
   buttons[next].click();
 });
+}
+
+function start() {
+  if (started || typeof window === "undefined") return;
+  started = true;
+  bindListeners();
+  render();
+  window.addEventListener("popstate", function () {
+    render();
+    window.scrollTo(0, 0);
+  });
+  subscribeAnalytics(function () {
+    if (parse().view === "privacy") render();
+    else paintConsent(parse().lang);
+  });
 }
 
 function visibleListIds(lang) {
@@ -1674,6 +1707,5 @@ export {
   taxonNames,
   visibleListIds,
   listSpecies,
-  bindCatalog,
-  render
+  start
 };

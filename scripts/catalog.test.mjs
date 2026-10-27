@@ -1,6 +1,6 @@
 import assert from 'node:assert/strict';
 import test from 'node:test';
-import { COPY, LANGS, CATALOG as siteCatalog } from '../catalog.js';
+import { COPY, LANGS, CATALOG as siteCatalog, viewModel } from '../catalog.js';
 import { CATALOG } from '../species.js';
 
 const WHERE = new Set(['wood', 'ground', 'grass']);
@@ -23,6 +23,17 @@ test('each species carries its own identify facts', () => {
     assert.ok(species.fruitingFrom >= 1 && species.fruitingFrom <= 12, species.name);
     assert.ok(species.fruitingTo >= 1 && species.fruitingTo <= 12, species.name);
   }
+});
+
+test('the season panel is a details element', () => {
+  const model = viewModel({ lang: 'en', view: 'identify', search: '' });
+  assert.match(model.html, /<details class="season-details" id="identify-season-panel">/);
+  assert.equal(model.html.includes('data-season-toggle'), false);
+  assert.equal(model.html.includes('seasonOpen'), false);
+  assert.match(model.html, /role="radiogroup"/);
+  const chosen = viewModel({ lang: 'en', view: 'identify', search: '?season=summer', seasonOpen: true });
+  assert.match(chosen.html, /<details class="season-details" id="identify-season-panel" open>/);
+  assert.match(chosen.html, /data-key="season" data-id="summer"/);
 });
 
 test('every menu language has interface strings', () => {

@@ -1,6 +1,6 @@
 # Agent notes — abshrooms-web
 
-Public field guide at https://whatsthatmushroom.app/ (also https://abshrooms-a9d4c.web.app/). Vite + React. Repo: `~/whatsthatmushroom/web`.
+Public field guide at https://whatsthatmushroom.app/ (also https://abshrooms-a9d4c.web.app/). Vite. The pages are HTML strings from `catalog.js`. Repo: `~/whatsthatmushroom/web`.
 
 The site does not read Firestore. `copy.js` holds the interface strings for 34 languages. `species.js` exports the `CATALOG` array, and each species carries `where` and `color` for the identify page. `taxa.js` holds rank vernaculars. `catalog.js` is the pages: it imports those modules and still exports `LANGS`, `COPY`, and `CATALOG`. English is unprefixed. Every other code in `LANGS` is a path prefix (`/sk/...`).
 

@@ -112,7 +112,7 @@ function stripSeo(html) {
     .replace(/<meta property="og:[^"]+"[^>]*>/g, '')
     .replace(/<meta name="twitter:[^"]+"[^>]*>/g, '')
     .replace(/<script type="application\/ld\+json">[\s\S]*?<\/script>/g, '')
-    .replace(/<div id="root"><\/div><noscript>[\s\S]*?<\/noscript>/g, '<div id="root"></div>');
+    .replace(/<div id="app"><\/div><noscript>[\s\S]*?<\/noscript>/g, '<div id="app"></div>');
 }
 
 function inject(template, opts) {
@@ -151,8 +151,8 @@ function inject(template, opts) {
   html = html.replace('</head>', extra + '</head>');
   if (opts.noscript) {
     html = html.replace(
-      '<div id="root"></div>',
-      '<div id="root"></div><noscript>' + opts.noscript + '</noscript>'
+      '<div id="app"></div>',
+      '<div id="app"></div><noscript>' + opts.noscript + '</noscript>'
     );
   }
   return html;

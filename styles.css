@@ -810,7 +810,10 @@ html.ga-ask body { padding-bottom: var(--ga-banner-h, 120px); }
 }
 .region-toggle.on { background: var(--moss); color: var(--cream); border-color: var(--moss); }
 .region-toggle svg { width: 16px; height: 16px; display: block; }
-.region-toggle[aria-expanded="true"] svg { transform: rotate(180deg); }
+.season-details > summary { list-style: none; }
+.season-details > summary::-webkit-details-marker { display: none; }
+.season-details > summary::marker { content: none; }
+.season-details[open] > summary svg { transform: rotate(180deg); }
 .region-panel {
   position: absolute;
   z-index: 6;
