@@ -2,9 +2,9 @@
 
 Public field guide at https://whatsthatmushroom.app/ (also https://abshrooms-a9d4c.web.app/). Vite + React. Repo: `~/whatsthatmushroom/web`.
 
-The catalog stays in `catalog.js` (`LANGS`, `COPY`, `CATALOG`, `KEY`). The site does not read Firestore. English is unprefixed. Every other code in `LANGS` is a path prefix (`/sk/...`).
+The site does not read Firestore. `copy.js` holds the interface strings for 34 languages. `species.js` exports the `CATALOG` array, and each species carries `where` and `color` for the identify page. `taxa.js` holds rank vernaculars. `catalog.js` is the pages: it imports those modules and still exports `LANGS`, `COPY`, and `CATALOG`. English is unprefixed. Every other code in `LANGS` is a path prefix (`/sk/...`).
 
-A new language is a `LANGS` entry, a `COPY` block, and `text.{code}` on each species. Slovak plurals are special-cased in `countLabel`. Another language uses the English one/many line until that function grows a branch for it. `scripts/generate_seo.js` reads `LANGS` and writes one HTML shell per home, families, genera, identify, about, family, genus, and species URL, plus `sitemap.xml`.
+A new language is one object in `copy.js`. Species text for that language is `text.{code}` on each species. Slovak plurals are special-cased in `countLabel`. Another language uses the English one/many line until that function grows a branch for it. `scripts/generate_seo.js` reads `LANGS` and writes one HTML shell per home, families, genera, identify, about, family, genus, and species URL, plus `sitemap.xml`.
 
 ## Deploy Hosting
 
