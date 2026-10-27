@@ -14606,5 +14606,1099 @@ export const CATALOG = [
       ]
     },
     synonyms: []
+  },
+  {
+    id: 70,
+    name: "Laccaria amethystina",
+    author: "Cooke",
+    family: "Hydnangiaceae",
+    genus: "Laccaria",
+    order: "Agaricales",
+    edibility: "edible",
+    hymenium: "gills",
+    where: ["ground", "wood"],
+    color: ["purple", "brown", "white"],
+    path: [
+      "Fungi",
+      "Dikarya",
+      "Basidiomycota",
+      "Agaricomycotina",
+      "Agaricomycetes",
+      "Agaricomycetidae",
+      "Agaricales",
+      "Hydnangiaceae",
+      "Laccaria"
+    ],
+    summary: ["Agaricales", "Hydnangiaceae", "Laccaria"],
+    added: "2026-10-27",
+    plate: STORAGE + "photos/Agaricales/Hydnangiaceae/Laccaria_amethystina/Laccaria_amethystina@1600.webp",
+    plateGrid: STORAGE + "photos/Agaricales/Hydnangiaceae/Laccaria_amethystina/Laccaria_amethystina@400.webp",
+    plateCredit: {
+      author: "J. Sowerby",
+      license: "public domain",
+      licenseUrl: "https://creativecommons.org/publicdomain/mark/1.0/",
+      source: "https://commons.wikimedia.org/wiki/File:Coloured_Figures_of_English_Fungi_or_Mushrooms_-_t._187.png"
+    },
+    photos: [
+      {
+        src: STORAGE + "photos/Agaricales/Hydnangiaceae/Laccaria_amethystina/la1.webp",
+        author: "Jana Findrová",
+        license: "CC BY 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:20201010_Lakovka_ametystov%C3%A1.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Hydnangiaceae/Laccaria_amethystina/la2.webp",
+        author: "Björn Sothmann",
+        license: "CC BY-SA 2.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0",
+        source: "https://commons.wikimedia.org/wiki/File:Eichhof_06.08.2017_Amethyst_Deceiver_-_Laccaria_amethystina_(36505503414).jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Hydnangiaceae/Laccaria_amethystina/la3.webp",
+        author: "Ian Alexander",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:GT_Laccaria_amethystina.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Hydnangiaceae/Laccaria_amethystina/la4.webp",
+        author: "AJC1",
+        license: "CC BY-SA 2.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0",
+        source: "https://commons.wikimedia.org/wiki/File:Amethyst_Deceiver_(29413844764).jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Hydnangiaceae/Laccaria_amethystina/la5.webp",
+        author: "Norbert Nagel",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Amethyst_Deceiver_-_Laccaria_amethystina_or_Laccaria_amethystea_-_01.jpg"
+      }
+    ],
+    capFrom: 0.5,
+    capTo: 7,
+    stipeHeightFrom: 0.6,
+    stipeHeightTo: 12,
+    stipeThickFrom: 0.1,
+    stipeThickTo: 1,
+    fruitingFrom: 5,
+    fruitingTo: 12,
+    label: {
+      en: "amethyst deceiver",
+      sk: "lakovka ametystová"
+    },
+    names: {
+      en: ["amethyst laccaria"]
+    },
+    text: {
+      en: {
+        description: "A small ectomycorrhizal mushroom of leaf litter and moss in temperate woods, often in groups. It is widespread in Europe and grows in much of Asia, in Central and South America, and in eastern North America. Reports also place it in Africa, Australia, and New Zealand.",
+        cap: "The cap is usually 2–6 cm across and can reach 7 cm. East of the Rocky Mountains it is often only 0.5–3.5 cm. It is convex at first, with an inrolled margin, and later flat or wavy, typically with a central depression, and the edge may be lobed. The surface is smooth at first and later matte, scurfy, or finely scaly at the centre. It is hygrophanous. When moist it is deep amethyst, violet, or purplish lilac, sometimes greyish purple. As it dries it fades from the centre through lilac-brown to pale grey, buff, pale ochre, cream, or nearly white, and the margin can be faintly striate. The cap skin is a cutis of hyphae 6–20 μm wide, with upright cells or bundles of them. Potassium hydroxide turns the cap surface brownish.",
+        hymenium: "The gills are thick, 3–8 mm broad, and widely spaced, with shorter gills between them. They are broadly attached and sometimes run a short way down the stipe, or meet it with a slight notch. They are violet like the cap. Several accounts say they keep that colour after the cap has faded, though the faces become white with spores, and one account says the gills themselves pale before the cap turns buff. Older gills can be wavy. The basidia are club-shaped and colourless, 30–64.5 × 8.5–14 μm, usually four-spored and rarely two-spored, with sterigmata up to 10 μm long. Cheilocystidia are abundant, thin-walled, and colourless, filamentous to club-shaped or swollen, 25–65 × 4–12 μm, and occasionally up to 92 μm long.",
+        stipe: "The stipe is 0.6–12 cm tall and 0.1–1 cm thick. It is cylindrical, often bent or twisted, and sometimes slightly thicker at the base. It is fibrous and tough, solid when young, and later stuffed or hollow. The surface is fibrillose, with whitish fibres, and mealy near the top. It is violet like the cap and fades with it. Lilac to whitish mycelium binds the litter at the base. There is no ring.",
+        flesh: "The flesh is thin and watery, pale lilac when moist, and later pinkish brown or brownish. The smell is faint and not distinctive, sometimes mildly mushroomy. The taste is mild and sometimes slightly sweet.",
+        sporePrint: "White to whitish. The spores are globose, rarely slightly ellipsoid, and colourless, with a length-to-width ratio of about 1–1.07. Excluding the ornament they are about 7–11 μm across. They are inamyloid. The spines are about 1.4–3 μm long and more than 1 μm wide at the base. A British measurement stops at 1.5 μm.",
+        habitat: "Fruit bodies come from May into December. In Britain and Ireland, and in Slovakia, the main season is June to November. In the Czech lands they are recorded from June to November, including a May find, and east of the Rocky Mountains they fruit in late spring and summer. They grow in the litter and moss of deciduous and coniferous woods, especially with beech and oak, and also with other broadleaf and conifer trees, in parks and gardens. They appear alone, scattered, or in groups, on damp soil among leaves and sometimes on rotting twigs.",
+        uses: "It is edible and is not regarded as choice. Only the caps are worth cooking, because the stipes are fibrous and tough. The caps go into soups and sauces, where the colour is part of the point, and the gills are cleaned first. A large number is needed for a meal.",
+        confusion: "Laccaria laccata has the same shape and a tough fibrous stipe, but the cap and the gills are orange-brown, reddish brown, or pinkish ochre. Old fruit bodies that have faded to pale buff are then hard to separate from it, unless some violet remains in the gills. Laccaria bicolor has lilac gills when young, so a faded fruit body can resemble it. A mature Laccaria bicolor is more robust and is not violet all over. Laccaria amethysteo-occidentalis grows west of the Rocky Mountains with conifers. It is on average larger, the violet fades toward vinaceous rather than brown, and the spores are subglobose to broadly ellipsoid, with a length-to-width ratio of about 1.06–1.24 and shorter spines. Laccaria vinaceobrunnea, of the Gulf Coast, is deep purple only when very young and soon fades to violaceous brown and then dull orange-brown or buff. Its spores are intermediate in shape, and the cap skin is a palisadoderm. It grows with Quercus virginiana. Laccaria gomezii, of Central American and northern South American cloud forests with oak, is a darker purple and has closely spaced gills. Mycena pura is violet, but the gills are pale, the stipe is not fibrous, and it smells of radish. The lilac form of Inocybe geophylla has a pointed umbo, an unpleasant smell, and crowded gills that turn brown, with a brown spore print. Cortinarius violaceus has a felty cap and a cortina that catches a rusty-brown spore print, and other violet Cortinarius species share that cortina and that spore colour. Lepista nuda is fleshier and larger, and the fruit bodies differ in shape.",
+        notes: "Fruit bodies can concentrate arsenic. One measurement found about 100 micrograms per gram of dry weight, and on polluted soil the amount can be high. The mycelium grows readily where the soil is rich in ammonia or other nitrogen. A 2014 assessment in Murmansk Oblast and a 2020 assessment in the Republic of Karelia both treat it as rare and near threatened. Records from Siberia that carry this name still need checking, because some of that material may be Laccaria amethysteo-occidentalis."
+      },
+      sk: {
+        description: "Malá ektomykorízna huba opadanky a machu v lesoch mierneho pásma, často v skupinách. V Európe je široko rozšírená a rastie vo veľkej časti Ázie, v Strednej a Južnej Amerike a na východe Severnej Ameriky. Údaje ju uvádzajú aj z Afriky, z Austrálie a z Nového Zélandu.",
+        cap: "Klobúk má zvyčajne 2–6 cm v priemere a môže dosiahnuť 7 cm. Na východ od Skalnatých vrchov má často len 0,5–3,5 cm. Za mladi je klenutý, s podvinutým okrajom, neskôr plochý alebo zvlnený, spravidla s priehlbinou v strede, a okraj môže byť laločnatý. Povrch je najprv hladký, neskôr matný, otrubovitý alebo v strede jemne šupinkatý. Je hygrofánny. Za vlhka je sýto ametystový, fialový alebo purpurovolilavý, niekedy sivastopurpurový. Pri osychaní bledne od stredu, najprv do lilavohnedej a potom do svetlosivej, plavej, svetlookrovej, krémovej alebo takmer bielej a okraj môže byť slabo ryhovaný. Pokožka klobúka je kutis z hýf širokých 6–20 μm, so vzpriamenými bunkami alebo ich zväzkami. Hydroxid draselný sfarbí povrch klobúka hnedasto.",
+        hymenium: "Lupene sú hrubé, široké 3–8 mm a riedke, s kratšími lupienkami medzi nimi. Sú široko prirastené a niekedy krátko zbiehajú na hlúbik, alebo sa k nemu pripájajú s miernym výkrojom. Sú fialové ako klobúk. Viaceré opisy uvádzajú, že si túto farbu ponechávajú aj po vyblednutí klobúka, hoci sa plochy lupeňov pokrývajú bielymi výtrusmi, a podľa jedného opisu lupene samy blednú skôr, než klobúk prejde do plavej. Staršie lupene môžu byť zvlnené. Bazídiá sú kyjačikovité a bezfarebné, veľké 30–64,5 × 8,5–14 μm, zvyčajne štvorvýtrusné a zriedka dvojvýtrusné, so sterigmami dlhými až 10 μm. Cheilocystidy sú hojné, tenkostenné a bezfarebné, vláknité až kyjačikovité alebo vyduté, veľké 25–65 × 4–12 μm a občas dlhé až 92 μm.",
+        stipe: "Hlúbik je vysoký 0,6–12 cm a hrubý 0,1–1 cm. Je valcovitý, často ohnutý alebo skrútený a na báze niekedy mierne hrubší. Je vláknitý a tuhý, za mladi plný a neskôr vypchatý alebo dutý. Povrch je pozdĺžne vláknitý, s belavými vláknami, a pri vrchole múčnatý. Je fialový ako klobúk a bledne spolu s ním. Lilavé až belavé podhubie na báze zväzuje opadanku. Prsteň chýba.",
+        flesh: "Dužina je tenká a vodnatá, za vlhka bledolilavá a neskôr ružovohnedá alebo hnedastá. Vôňa je slabá a nevýrazná, niekedy mierne hubová. Chuť je mierna a niekedy slabo sladkastá.",
+        sporePrint: "Biely až belavý. Výtrusy sú guľovité, zriedka slabo elipsoidné a bezfarebné, s pomerom dĺžky k šírke asi 1–1,07. Bez výzdoby majú v priemere asi 7–11 μm. Sú neamyloidné. Ostne sú dlhé asi 1,4–3 μm a pri báze širšie než 1 μm. Britské meranie sa zastavuje pri 1,5 μm.",
+        habitat: "Plodnice prichádzajú od mája do decembra. Vo Veľkej Británii a Írsku, aj na Slovensku, je hlavné obdobie od júna do novembra. V Čechách sa uvádzajú od júna do novembra, vrátane májového nálezu, a na východ od Skalnatých vrchov plodia koncom jari a v lete. Rastú v opadanke a v machu listnatých aj ihličnatých lesov, najmä s bukom a dubom, a tiež s inými listnáčmi a ihličnanmi, v parkoch a záhradách. Objavujú sa jednotlivo, roztrúsene alebo v skupinách, na vlhkej pôde medzi lístím a niekedy na tlejúcich vetvičkách.",
+        uses: "Je to jedlá huba a nepokladá sa za zvlášť hodnotnú. Na tepelnú úpravu sa hodia len klobúky, lebo hlúbiky sú vláknité a tuhé. Klobúky sa dávajú do polievok a omáčok, pri ktorých záleží aj na farbe, a lupene sa vopred očistia. Na jedno jedlo ich treba veľké množstvo.",
+        confusion: "Lakovka obyčajná (Laccaria laccata) má rovnaký tvar a tuhý vláknitý hlúbik, no klobúk a lupene sú oranžovohnedé, červenohnedé alebo ružovkasto okrové. Staré plodnice vyblednuté do svetloplavej sa od nej potom ťažko odlíšia, ak v lupeňoch neostane niečo fialového. Lakovka dvojfarebná (Laccaria bicolor) má za mladi lilavé lupene, takže vyblednutá plodnica sa jej môže podobať. Dospelá lakovka dvojfarebná je mohutnejšia a nie je celá fialová. Laccaria amethysteo-occidentalis rastie na západ od Skalnatých vrchov s ihličnanmi. V priemere je väčšia, fialové sfarbenie bledne skôr do vínového odtieňa než do hneda a výtrusy sú takmer guľovité až široko elipsoidné, s pomerom dĺžky k šírke asi 1,06–1,24 a s kratšími ostňami. Laccaria vinaceobrunnea z pobrežia Mexického zálivu je sýto purpurová len pokiaľ je veľmi mladá a čoskoro bledne do fialovohnedej a potom do matnej oranžovohnedej alebo plavej. Výtrusy má tvarom prechodné a pokožka klobúka je palisádoderm. Rastie s dubom virgínskym (Quercus virginiana). Laccaria gomezii rastie v hmlových lesoch Strednej Ameriky a severnej Južnej Ameriky s dubom. Je tmavšie purpurová a má husté lupene. Prilbička reďkovková (Mycena pura) je fialová, no lupene má bledé, hlúbik nie je vláknitý a vonia reďkovkou. Lilavá forma vláknice hlinovolupeňovej (Inocybe geophylla) má špicatý hrboľ, nepríjemnú vôňu a husté lupene, ktoré hnednú, a hnedý výtrusný prach. Pavučinovec fialový (Cortinarius violaceus) má plstnatý klobúk a pavučinku, ktorá zachytáva hrdzavohnedý výtrusný prach, a tú istú pavučinku a farbu výtrusov majú aj iné fialové pavučinovce (Cortinarius). Pôvabnica fialová (Lepista nuda) je mäsitejšia a väčšia a jej plodnice sa líšia tvarom.",
+        notes: "Plodnice môžu hromadiť arzén. Jedno meranie zistilo asi 100 μg/g sušiny a na znečistenej pôde môže byť množstvo vysoké. Podhubie ochotne rastie v pôde bohatej na amoniak alebo iný dusík. Hodnotenie z roku 2014 v Murmanskej oblasti aj hodnotenie z roku 2020 v Karelskej republike ju zaraďujú ako vzácny a takmer ohrozený druh (Near Threatened). Nálezy zo Sibíri, ktoré nesú toto meno, ešte treba preveriť, lebo časť toho materiálu môže patriť druhu Laccaria amethysteo-occidentalis."
+      }
+    },
+    sources: {
+      en: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Laccaria_amethystina"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/laccaria-amethystina.php"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert",
+          href: "https://www.mushroomexpert.com/laccaria_amethystina.html"
+        },
+        {
+          group: "text",
+          name: "Slovak Wikipedia",
+          href: "https://sk.wikipedia.org/wiki/Lakovka_ametystov%C3%A1"
+        },
+        {
+          group: "text",
+          name: "Czech Wikipedia",
+          href: "https://cs.wikipedia.org/wiki/Lakovka_ametystov%C3%A1"
+        },
+        {
+          group: "text",
+          name: "botany.cz",
+          href: "https://botany.cz/cs/laccaria-amethistina/"
+        },
+        {
+          group: "text",
+          name: "myko.cz",
+          href: "https://www.myko.cz/myko-atlas/Laccaria-amethystina/"
+        },
+        {
+          group: "text",
+          name: "Грибы Сибири",
+          href: "https://mycology.su/laccaria-amethystina.html"
+        },
+        {
+          group: "text",
+          name: "Polish Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Lak%C3%B3wka_ametystowa"
+        },
+        {
+          group: "text",
+          name: "Fungipedia",
+          href: "https://www.fungipedia.org/hongos/laccaria-amethystina.html"
+        },
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=433576",
+          detail: "433576"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=433576",
+          detail: "433576"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=450745",
+          detail: "450745"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=17886",
+          detail: "17886"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/433576",
+          detail: "433576"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2530983",
+          detail: "2530983"
+        }
+      ],
+      sk: [
+        {
+          group: "text",
+          name: "Slovak Wikipedia",
+          href: "https://sk.wikipedia.org/wiki/Lakovka_ametystov%C3%A1"
+        }
+      ]
+    },
+    synonyms: [
+      "Agaricus amethystinus Huds.",
+      "Laccaria hudsonii Pázmány",
+      "Collybia amethystina (Cooke) Quél.",
+      "Clitocybe amethystina (Cooke) Peck",
+      "Agaricus lividopurpureus With."
+    ]
+  },
+{
+    id: 71,
+    name: "Hygrocybe conica",
+    author: "(Schaeff.) P. Kumm.",
+    family: "Hygrocybaceae",
+    genus: "Hygrocybe",
+    order: "Agaricales",
+    edibility: "poisonous",
+    hymenium: "gills",
+    where: [
+      "grass",
+      "ground"
+    ],
+    color: [
+      "red",
+      "yellow",
+      "green",
+      "brown",
+      "dark"
+    ],
+    path: [
+      "Fungi",
+      "Dikarya",
+      "Basidiomycota",
+      "Agaricomycotina",
+      "Agaricomycetes",
+      "Agaricomycetidae",
+      "Agaricales",
+      "Hygrocybaceae",
+      "Hygrocybe"
+    ],
+    summary: [
+      "Agaricales",
+      "Hygrocybaceae",
+      "Hygrocybe"
+    ],
+    added: "2026-10-27",
+    plate: STORAGE + "photos/Agaricales/Hygrocybaceae/Hygrocybe_conica/Hygrocybe_conica@1600.webp",
+    plateGrid: STORAGE + "photos/Agaricales/Hygrocybaceae/Hygrocybe_conica/Hygrocybe_conica@400.webp",
+    plateCredit: {
+      author: "L. Dufour",
+      license: "public domain",
+      source: "https://www.biodiversitylibrary.org/page/3270673"
+    },
+    photos: [
+      {
+        src: STORAGE + "photos/Agaricales/Hygrocybaceae/Hygrocybe_conica/hc1.webp",
+        author: "Andreas Kunze",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:2007-06-16_Hygrocybe_conica.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Hygrocybaceae/Hygrocybe_conica/hc2.webp",
+        author: "Kev Chapman",
+        license: "CC BY 2.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/2.0",
+        source: "https://commons.wikimedia.org/wiki/File:Fungi_(5065583477).jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Hygrocybaceae/Hygrocybe_conica/hc3.webp",
+        author: "AJC1",
+        license: "CC BY-SA 2.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0",
+        source: "https://commons.wikimedia.org/wiki/File:Blackening_Waxcap,_Hygrocybe_conica_(23031704795).jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Hygrocybaceae/Hygrocybe_conica/hc4.webp",
+        author: "AJC1",
+        license: "CC BY-SA 2.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0",
+        source: "https://commons.wikimedia.org/wiki/File:Blackening_Waxcap_Hygrocybe_conica_(15633528402).jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Hygrocybaceae/Hygrocybe_conica/hc5.webp",
+        author: "gailhampshire",
+        license: "CC BY 2.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/2.0",
+        source: "https://commons.wikimedia.org/wiki/File:Blackening_Waxcap._Hygrocybe_conica_(51973515839).jpg"
+      }
+    ],
+    capFrom: 0.5,
+    capTo: 12,
+    stipeHeightFrom: 1.5,
+    stipeHeightTo: 20,
+    stipeThickFrom: 0.2,
+    stipeThickTo: 2,
+    fruitingFrom: 6,
+    fruitingTo: 2,
+    label: {
+      en: "blackening waxcap",
+      sk: "lúčnica kužeľovitá"
+    },
+    names: {
+      en: [
+        "witch's hat",
+        "conical waxcap",
+        "conical slimy cap"
+      ]
+    },
+    text: {
+      en: {
+        description: "A grassland mushroom of meadows, lawns, verges, and dunes, also found in open woods and along paths. It grows alone or in groups. It occurs from the Mediterranean to Iceland and across North America, and it is recorded from northern Asia, North Africa, South America, Australia, New Guinea, and New Zealand.",
+        cap: "The cap is 0.5–12 cm across, usually about 2–10 cm. Fruit bodies in eastern North America are often smaller, with a cap about 1–6 cm across. It is sharply conical at first, sometimes bluntly so, and it expands but keeps a pointed umbo. The margin may become lobed or turn up, so an old cap is slightly bell-shaped, and small caps are often translucently striate. The surface is slimy or greasy in wet weather and dry and silky afterwards. The typical form is also described as not sticky. The colour is scarlet, orange, or yellow, sometimes paler at the margin, and some fruit bodies are bronze, olive-brown, or greenish, or yellow and then green without any red. It blackens in patches from the centre or the point, and an old cap can be entirely black and still shiny. Potassium hydroxide on the cap is negative. The cuticle is an ixocutis.",
+        hymenium: "The gills are free to narrowly attached. They are thick and waxy, and they are also described as thin. They are distant to close, broad, and pale, from whitish or lemon-yellow to orange, and only rarely reddish. They blacken with age and bruising, sometimes from the edge. Short gills are frequent. The basidia are 40–60 μm long and bear two, three, or four spores. Four-spored basidia have clamp connections, and two-spored basidia lack them. Cystidia are absent. The gill trama is regular, with fusiform cells 1000 μm or longer that may project from the gill edge.",
+        stipe: "The stipe is 1.5–12 cm long in European fruit bodies, and a length up to 20 cm is reported in North America. It is 0.2–2 cm thick. It is cylindrical, often grooved or twisted, and it has no ring. It is yellow, orange, or lemon-yellow, sometimes scarlet near the cap and whitish at the base, and the lower part may be streaked red or green. It is moist or slimy when fresh and soon dry and fibrillose, and some fruit bodies are not viscid. British fruit bodies are described as stuffed rather than hollow. In other accounts it is hollow with age. It blackens with age and handling, from the top downward or from the base. It is fragile and splits easily.",
+        flesh: "The flesh is thin and very fragile, yellow, orange, or the colour of the cap, and white in the stipe of some fruit bodies. It blackens when cut, quickly or slowly. The smell is not distinctive. The taste is not distinctive, or mild and sweet, in some accounts, and bitter in others.",
+        sporePrint: "White. The spores are ellipsoid, ovoid, or phaseoliform, sometimes constricted, smooth, and inamyloid, about 8.5–12 × 5–8 μm, and less than twice as long as wide. Spores from four-spored fruit bodies are about 8.5–10 × 6–7 μm, and those from two-spored fruit bodies about 9–11.5 × 5.5–7.5 μm.",
+        habitat: "In Britain and Ireland fruit bodies appear from July to November, and in Czechia from June to November, with a further appearance in spring after a mild winter. In eastern North America they appear from early summer through autumn, and in warmer climates into winter, including late autumn into mid-winter on the California coast. They grow alone, scattered, or in troops, sometimes in lines, in short unfertilised grass: meadows, pastures, lawns, churchyards, road verges, and dunes, and also in open woods, on rides, along paths, and at bog margins. They favour sunny places and are less common in closed woods. They tolerate more disturbance and fertiliser than most waxcaps and are among the first to appear on abandoned fields. Where grassland has been improved they become local, and where the grass remains short and unfertilised they are often abundant.",
+        uses: "It is regarded as poisonous, weakly so in some accounts. Eating it has been followed by strong gastric and intestinal upset, and a poisoning attributed to it has been reported from China. Some guides have called it edible. Other accounts leave the edibility unknown, or limit the reported effect to something minor, such as lightheadedness. The fruit bodies are insubstantial, slimy in wet weather, and they blacken when handled.",
+        confusion: "Hygrocybe conicoides grows on calcareous dunes, has yellow, salmon, or reddish gills, and blackens much more slowly and rarely all over. Its spores are longer and narrower, about 10–12.5 × 5–6 μm. Hygrocybe acutoconica does not blacken. Hygrocybe punicea is similar in stature and does not blacken. Hygrocybe coccinea and Hygrocybe miniata do not blacken. Hygrocybe nigrescens is separated by a blunter, less conical cap and a more robust fruit body, and it is reported from oak woods. Hygrocybe singeri also blackens and has a slimy stipe. It is known from the West Coast and the upper Great Lakes. Hygrocybe psittacina is more variegated and often turns green.",
+        notes: "The name covers a complex of closely related forms, at least eleven of them, and authors do not draw the same limits. Some authors do not separate Hygrocybe nigrescens, because two-spored and four-spored basidia can occur on one fruit body. Fruit bodies from fens that blacken only a little, with a striate cap and a peelable cuticle, have been separated as a variety, and their spores are a little longer and narrower. Collections filed under this name in California belong to a complex, and the European species is probably absent there. Many Australian collections assigned to it are Hygrocybe astatogala. Mature fruit bodies turn black and can remain standing for weeks. In Germany it is protected, as are the other waxcaps. It is treated as of least concern in Denmark, Finland, Norway, and Sweden. It has been treated as a mycorrhizal partner of grasses and as a saprobe on dead roots. A mutual association with mosses is now considered likely, and the nutritional mode is not settled."
+      },
+      sk: {
+        description: "Trávnatá huba lúk, trávnikov, okrajov ciest a dún, ktorá rastie aj vo svetlých lesoch a pozdĺž chodníkov. Vyskytuje sa jednotlivo alebo v skupinách. Rastie od Stredomoria po Island a v celej Severnej Amerike a je zaznamenaná zo severnej Ázie, severnej Afriky, Južnej Ameriky, Austrálie, Novej Guiney a Nového Zélandu.",
+        cap: "Klobúk má v priemere 0,5–12 cm, zvyčajne asi 2–10 cm. Plodnice na východe Severnej Ameriky bývajú menšie, s klobúkom asi 1–6 cm. Za mladi je ostro kužeľovitý, niekedy tupo, a rozprestiera sa, no zachováva si špicatý hrboľ. Okraj môže byť laločnatý alebo sa vyhrnie, takže starý klobúk je mierne zvoncovitý a malé klobúky bývajú priesvitne ryhované. Povrch je za vlhka slizký alebo mastný a potom suchý a hodvábny. Typická forma sa opisuje aj ako nelepivá. Farba je šarlátová, oranžová alebo žltá, na okraji niekedy bledšia, a niektoré plodnice sú bronzové, olivovohnedé alebo zelenkasté, alebo najprv žlté a potom zelené, bez červenej. Černie škvrnami od stredu alebo od hrotu a starý klobúk môže byť celý čierny a stále lesklý. Hydroxid draselný na klobúku nereaguje. Pokožka je ixokutis.",
+        hymenium: "Lupene sú voľné až úzko pripojené. Sú hrubé a voskovité, v iných opisoch tenké. Sú riedke až husté, široké a bledé, od belavých alebo citrónovožltých po oranžové a len zriedka červenkasté. Vekom a po otlačení černejú, niekedy od ostria. Krátke lupienky sú časté. Bazídiá sú dlhé 40–60 μm a nesú dva, tri alebo štyri výtrusy. Štvorvýtrusové bazídiá majú spojky, dvojvýtrusové ich nemajú. Cystidy chýbajú. Trama lupeňov je pravidelná, s vretenovitými bunkami dlhými 1000 μm alebo viac, ktoré môžu vyčnievať z ostria lupeňa.",
+        stipe: "Hlúbik je pri európskych plodniciach dlhý 1,5–12 cm a v Severnej Amerike sa uvádza dĺžka až 20 cm. Je hrubý 0,2–2 cm. Je valcovitý, často ryhovaný alebo skrútený, a nemá prsteň. Je žltý, oranžový alebo citrónovožltý, niekedy pri klobúku šarlátový a na báze belavý, a dolná časť môže byť žíhaná červeno alebo zeleno. Za čerstva je vlhký alebo slizký a čoskoro suchý a vláknitý. Niektoré hlúbiky nie sú slizké. Britské plodnice sa opisujú ako vycpané, nie duté. V iných opisoch je vekom dutý. Vekom a pri manipulácii černie, zhora nadol alebo od bázy. Je krehký a ľahko sa štiepi.",
+        flesh: "Dužina je tenká a veľmi krehká, žltá, oranžová alebo sfarbená ako klobúk a v hlúbiku niektorých plodníc biela. Na reze černie, rýchlo alebo pomaly. Vôňa je nevýrazná. Chuť je v niektorých opisoch nevýrazná alebo mierna a sladkastá a v iných horká.",
+        sporePrint: "Výtrusný prach je biely. Výtrusy sú elipsoidné, vajcovité alebo fazuľovité, niekedy zaškrtené, hladké a neamyloidné, približne 8,5–12 × 5–8 μm, a menej ako dvakrát také dlhé, ako sú široké. Výtrusy zo štvorvýtrusových plodníc merajú približne 8,5–10 × 6–7 μm a z dvojvýtrusových približne 9–11,5 × 5,5–7,5 μm.",
+        habitat: "V Británii a Írsku sa plodnice objavujú od júla do novembra a v Česku od júna do novembra, s ďalším výskytom na jar po miernej zime. Na východe Severnej Ameriky vyrastajú od začiatku leta do jesene a v teplejších krajoch až do zimy, na kalifornskom pobreží od neskorej jesene do polovice zimy. Rastú jednotlivo, roztrúsene alebo v húfoch, niekedy v radoch, v nízkej nehnojenej tráve: na lúkach, pasienkoch, trávnikoch, cintorínoch, okrajoch ciest a dunách, a aj vo svetlých lesoch, na priesekoch, pozdĺž chodníkov a na okrajoch rašelinísk. Obľubujú slnečné miesta a v zapojených lesoch sú menej časté. Znášajú viac narušenia a hnojív ako väčšina lúčnic a patria medzi prvé huby na opustených poliach. Tam, kde sa trávniky hnojili, stávajú sa lokálnymi, a tam, kde tráva ostáva nízka a nehnojená, bývajú často hojné.",
+        uses: "Považuje sa za jedovatú, v niektorých opisoch za slabo jedovatú. Po jej zjedení nasledovali silné žalúdočné a črevné ťažkosti a z Číny sa uvádza otrava, ktorá sa jej pripisuje. Niektoré príručky ju označili za jedlú. Iné nechávajú jedlosť neznámu alebo obmedzujú uvedený účinok na niečo mierne, napríklad ľahký závrat. Plodnice sú nevýdatné, za vlhka slizké a pri manipulácii černejú.",
+        confusion: "Lúčnica kužeľovitá pieskomilná (Hygrocybe conicoides) rastie na vápnitých dunách, má žlté, lososové alebo červenkasté lupene a černie oveľa pomalšie a len zriedka celá. Jej výtrusy sú dlhšie a užšie, približne 10–12,5 × 5–6 μm. Hygrocybe acutoconica nečernie. Lúčnica granátovočervená (Hygrocybe punicea) je podobného vzrastu a nečernie. Lúčnica šarlátová (Hygrocybe coccinea) a lúčnica krvavá (Hygrocybe miniata) nečernejú. Hygrocybe nigrescens sa oddeľuje tupším, menej kužeľovitým klobúkom a mohutnejšou plodnicou a uvádza sa z dubových lesov. Hygrocybe singeri takisto černie a má slizký hlúbik. Je známa zo západného pobrežia a z horných Veľkých jazier. Lúčnica žltozelená (Hygrocybe psittacina) je pestrejšia a často zelenie.",
+        notes: "Meno zahŕňa komplex navzájom blízkych foriem, najmenej jedenástich, a autori nekladú rovnaké hranice. Niektorí autori neoddeľujú Hygrocybe nigrescens, lebo na jednej plodnici môžu byť dvojvýtrusové aj štvorvýtrusové bazídiá. Plodnice zo slatín, ktoré černejú len málo, s ryhovaným klobúkom a stiahnuteľnou pokožkou, sa oddeľovali ako odroda a ich výtrusy sú o niečo dlhšie a užšie. Mnohé austrálske zbery vedené pod týmto menom patria k Hygrocybe astatogala. Dospelé plodnice sčernejú a môžu zostať stáť celé týždne. V Nemecku je chránená, rovnako ako ostatné druhy rodu Hygrocybe. V Dánsku, Fínsku, Nórsku a Švédsku sa hodnotí ako málo dotknutý druh (Least Concern). Považovala sa za mykorízneho partnera tráv a za saprotrofnú hubu na odumretých koreňoch. Za pravdepodobné sa teraz pokladá vzájomné spolužitie s machmi a spôsob výživy nie je ustálený. Okruh tejto huby je zaznamenaný na alpínskych lúkach Tatier, Nízkych Tatier, Malej Fatry a Veľkej Fatry. Typická forma sa zbierala pri Sninských rybníkoch na východnom Slovensku."
+      }
+    },
+    sources: {
+      en: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Hygrocybe_conica"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/hygrocybe-conica.php"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert",
+          href: "https://www.mushroomexpert.com/hygrocybe_conica.html"
+        },
+        {
+          group: "text",
+          name: "MykoWeb",
+          href: "https://www.mykoweb.com/CAF/species/Hygrocybe_conica.html"
+        },
+        {
+          group: "text",
+          name: "German Wikipedia",
+          href: "https://de.wikipedia.org/wiki/Kegeliger_Saftling"
+        },
+        {
+          group: "text",
+          name: "Czech Wikipedia",
+          href: "https://cs.wikipedia.org/wiki/Voskovka_ku%C5%BEelovit%C3%A1"
+        },
+        {
+          group: "text",
+          name: "botany.cz",
+          href: "https://botany.cz/cs/hygrocybe-conica/"
+        },
+        {
+          group: "text",
+          name: "Fungipedia",
+          href: "https://www.fungipedia.org/hongos/hygrocybe-conica.html"
+        },
+        {
+          group: "text",
+          name: "MycoDB",
+          href: "https://www.mycodb.fr/fiche.php?genre=Hygrocybe&espece=conica"
+        },
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=356885",
+          detail: "356885"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=356885",
+          detail: "356885"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/356885",
+          detail: "356885"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2538524",
+          detail: "2538524"
+        }
+      ],
+      sk: [
+        {
+          group: "text",
+          name: "Kautmanová 2001",
+          href: "https://www.snm.sk/swift_data/source/prirodovedne_muzeum/zborn%C3%ADky/zborn%C3%ADk%202001/05%20-%20KAUTMANOV%C3%81,%20I.%20-%20Three%20Interesting%20Taxa%20of%20Waxcaps%20Related%20to%20Conical.pdf",
+          detail: "Acta Rer. Natur. Mus. Nat. Slov. 47"
+        },
+        {
+          group: "text",
+          name: "Spravodajca 53",
+          href: "http://mykospol.sk/wp-content/uploads/2022/03/Spravodajca_53_web.pdf"
+        }
+      ]
+    },
+    synonyms: [
+      "Agaricus conicus Schaeff.",
+      "Hypophyllum conicum (Schaeff.) Paulet",
+      "Hygrophorus conicus (Schaeff.) Fr.",
+      "Godfrinia conica (Schaeff.) Maire",
+      "Agaricus aurantius Bolton",
+      "Agaricus tristis Pers.",
+      "Hygrocybe pseudoconica J.E. Lange",
+      "Hygrophorus tristis (Pers.) Bres.",
+      "Hygrocybe tristis (Pers.) F.H. Møller",
+      "Hygrophorus olivaceoniger P.D. Orton",
+      "Hygrocybe olivaceonigra (P.D. Orton) M.M. Moser",
+      "Hygrocybe conicopalustris Bon",
+      "Hygrocybe chloroides (Malençon) Kovalenko",
+      "Hygrocybe cinereifolia Courtec. & Priou"
+    ]
+  },
+  {
+    id: 72,
+    name: "Marasmius oreades",
+    author: "(Bolton) Fr.",
+    family: "Marasmiaceae",
+    genus: "Marasmius",
+    order: "Agaricales",
+    edibility: "choice",
+    hymenium: "gills",
+    where: [
+      "grass"
+    ],
+    color: [
+      "white",
+      "yellow",
+      "red",
+      "brown"
+    ],
+    path: [
+      "Fungi",
+      "Dikarya",
+      "Basidiomycota",
+      "Agaricomycotina",
+      "Agaricomycetes",
+      "Agaricomycetidae",
+      "Agaricales",
+      "Marasmiaceae",
+      "Marasmius"
+    ],
+    summary: ["Agaricales", "Marasmiaceae", "Marasmius"],
+    added: "2026-10-27",
+    plate: STORAGE + "photos/Agaricales/Marasmiaceae/Marasmius_oreades/Marasmius_oreades@1600.webp",
+    plateGrid: STORAGE + "photos/Agaricales/Marasmiaceae/Marasmius_oreades/Marasmius_oreades@400.webp",
+    plateCredit: {
+      author: "L. Dufour",
+      license: "not stated"
+    },
+    photos: [
+      {
+        src: STORAGE + "photos/Agaricales/Marasmiaceae/Marasmius_oreades/mo1.webp",
+        author: "Matej Frančeškin",
+        license: "CC BY 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Marasmius_oreades_438212688.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Marasmiaceae/Marasmius_oreades/mo2.webp",
+        author: "Matej Frančeškin",
+        license: "CC BY 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Marasmius_oreades_438212720.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Marasmiaceae/Marasmius_oreades/mo3.webp",
+        author: "Dr. Hans-Günter Wagner",
+        license: "CC BY-SA 2.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0",
+        source: "https://commons.wikimedia.org/wiki/File:Marasmius_oreades_(49188733398).jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Marasmiaceae/Marasmius_oreades/mo4.webp",
+        author: "Jose Angel Urquia Goitia",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Marasmius_oreades_12.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Marasmiaceae/Marasmius_oreades/mo5.webp",
+        author: "Archenzo",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:MarasmiusOreades.jpg"
+      }
+    ],
+    capFrom: 1,
+    capTo: 5,
+    stipeHeightFrom: 2,
+    stipeHeightTo: 10,
+    stipeThickFrom: 0.15,
+    stipeThickTo: 0.6,
+    fruitingFrom: 1,
+    fruitingTo: 12,
+    label: {
+      en: "fairy ring mushroom",
+      sk: "tanečnica poľná"
+    },
+    names: {
+      en: ["fairy ring champignon", "Scotch bonnet"],
+      sk: ["tanečnica", "klinček", "špička", "tančok", "potančok", "tancuľka", "pipíšky", "uľahliarky"]
+    },
+    text: {
+      en: {
+        description: "A common saprobic mushroom of lawns, meadows, pastures, parks, and other grass, often in troops, arcs, or rings after rain. It grows through the temperate zone of the northern hemisphere, including Britain, Ireland, mainland Europe, and most of North America, and it stays common on turf where people walk.",
+        cap: "The cap is about 1–5 cm across, and published measurements reach 6 or 7 cm. It is bluntly conical or hemispherical at first, then convex, and finally flat, and it keeps a broad umbo. The margin is thin and sometimes faintly lined or grooved, especially when moist or in age. The surface is smooth and bald, and strongly hygrophanous: orange-ochre, tan, reddish ochre, or pale brownish yellow and glossy when wet, drying to buff, pale ochre, or cream, and occasionally white or, rarely, pinkish. The cap cuticle is a hymeniform layer of club-shaped, pear-shaped, or cylindrical cells, without broom cells.",
+        hymenium: "The gills are thick and distant, up to 6 mm wide, with shorter gills between them. Field accounts describe them as adnexed, notched, or free at the stipe. A compiled description calls them adnate. They are white to cream when dry and ochre when wet. The basidia are 39–52 × 6–8 μm, with four sterigmata and a basal clamp. Cystidia are absent.",
+        stipe: "The stipe is 2–10 cm long and 1.5–6 mm thick, cylindrical, and sometimes slightly swollen at the base. It is solid, tough, and pliant, and it can be twisted without breaking. It is whitish, buff, or pale ochre, usually paler than the cap, and it darkens toward the base. The surface is finely white-felted when young and later bald, and the base is clothed with white mycelium.",
+        flesh: "The flesh is whitish, scant, and cartilaginous, and it is tough in the stipe. The smell is pleasant and mushroomy, and it is sometimes slightly of bitter almonds. Some accounts call the smell and the taste not distinctive. The taste is mild and slightly nutty.",
+        sporePrint: "White, or sometimes pale cream. The spores are smooth, hyaline, and ellipsoid to pip-shaped or fusoid, without a germ pore. They are inamyloid and about 6–11 × 4–6 μm.",
+        habitat: "In temperate Europe the fruit bodies appear from March into winter, and in Britain and Ireland from June to November. In warmer climates they fruit through the year. They grow in troops, arcs, or rings, usually after rain, in lawns, meadows, pastures, parks, orchards, gardens, and grassy roadsides, sometimes among coastal dune grasses and sometimes at the edge of woods.",
+        uses: "It is a choice edible mushroom. The caps are the part used, especially in soups and stews, and they are dried for storage. The stipes are tough and are discarded. The caps taste sweet.",
+        confusion: "Clitocybe rivulosa grows in the same grass and can form rings. Its gills are crowded and decurrent, its cap is white, grey, or ochre-brown and convex without an umbo, and its stipe is stiffer and less pliant. Agrocybe praecox has buff gills that darken and a brown spore print. Agrocybe pediades lacks an umbo, its stipe snaps easily, and the spore print turns the gills brown. Marasmius collinus has a smooth, fragile stipe that breaks when twisted, denser gills, and an unpleasant smell. Marasmius torquescens grows in the leaf litter of broad-leaved woods and has a dark rusty-brown to black lower stipe. Marasmius wynneae has a pale whitish cap, a dark stipe base, and smaller spores. Gymnopus dryophilus has much denser gills.",
+        notes: "Dried fruit bodies revive in water. They regain their shape and can form new cells and new spores. The fruit bodies contain the sugar trehalose, which lets the cells survive drying. Where the mycelium grows in a ring, the grass along the living edge is darker green, and the grass inside the ring is brown where the mycelium has died."
+      },
+      sk: {
+        description: "Bežná saprotrofná huba trávnikov, lúk, pasienkov, parkov a inej trávy, často v húfoch, oblúkoch alebo kruhoch po daždi. Rastie v miernom pásme severnej pologule, vrátane Británie, Írska, kontinentálnej Európy a väčšiny Severnej Ameriky, a ostáva hojná na trávnikoch, po ktorých sa chodí.",
+        cap: "Klobúk má v priemere asi 1–5 cm a uverejnené merania siahajú po 6 alebo 7 cm. Za mladi je tupo kužeľovitý alebo polguľovitý, potom klenutý a napokon plochý, a ponecháva si široký hrboľ. Okraj je tenký a niekedy slabo ryhovaný alebo žliabkovaný, najmä za vlhka alebo v starobe. Povrch je hladký a holý a výrazne hygrofánny: za vlhka oranžovookrový, okrovohnedý, červenkastookrový alebo bledo hnedožltý a lesklý, po oschnutí plavý, bledookrový alebo krémový, občas biely a zriedka ružovkastý. Pokožka klobúka je hymeniformná vrstva kyjakovitých, hruškovitých alebo valcovitých buniek, bez metlovitých buniek.",
+        hymenium: "Lupene sú hrubé a riedke, široké až 6 mm, s kratšími lupienkami medzi nimi. V teréne sa opisujú ako úzko prirastené, vykrojené alebo voľné pri hlúbiku. Súhrnný opis ich nazýva prirastenými. Za sucha sú biele až krémové a za vlhka okrové. Bazídiá merajú 39–52 × 6–8 μm, majú štyri sterigmy a bazálnu svorku. Cystidy chýbajú.",
+        stipe: "Hlúbik je dlhý 2–10 cm a hrubý 1,5–6 mm, valcovitý a na báze niekedy mierne zhrubnutý. Je plný, tuhý a ohybný a dá sa skrútiť bez zlomenia. Je belavý, plavý alebo bledookrový, zvyčajne bledší ako klobúk, a k báze tmavne. Za mladi je povrch jemne bielo plstnatý a neskôr holý, a bázu pokrýva biele mycélium.",
+        flesh: "Dužina je belavá, nevýdatná a chrupkovitá a v hlúbiku tuhá. Vôňa je príjemná a hubová a niekedy jemne po horkých mandliach. Niektoré opisy označujú vôňu aj chuť za nevýrazné. Chuť je mierna a jemne oriešková.",
+        sporePrint: "Výtrusný prach je biely, niekedy bledokrémový. Výtrusy sú hladké, hyalínne a elipsoidné až slzovité alebo vretenovité, bez klíčneho póru. Sú neamyloidné a merajú približne 6–11 × 4–6 μm.",
+        habitat: "V miernej Európe sa plodnice objavujú od marca do zimy a v Británii a Írsku od júna do novembra. V teplejších krajoch plodia po celý rok. Rastú v húfoch, oblúkoch alebo kruhoch, zvyčajne po daždi, na trávnikoch, lúkach, pasienkoch, v parkoch, sadoch, záhradách a na trávnatých okrajoch ciest, niekedy medzi trávami pobrežných dún a niekedy na okraji lesov.",
+        uses: "Je to výborná jedlá huba. Používajú sa klobúky, najmä do polievok a dusených jedál, a sušia sa na uskladnenie. Hlúbiky sú tuhé a odstraňujú sa. Klobúky chutia sladko.",
+        confusion: "Strmuľka pásikavá (Clitocybe rivulosa) rastie v tej istej tráve a môže tvoriť kruhy. Jej lupene sú husté a zbiehavé, klobúk je biely, sivý alebo okrovohnedý a klenutý, bez hrboľa, a hlúbik je tuhší a menej ohybný. Poľnička včasná (Agrocybe praecox) má plavé lupene, ktoré tmavnú, a hnedý výtrusný prach. Poľnička polguľovitá (Agrocybe pediades) nemá hrboľ, jej hlúbik sa ľahko zlomí a výtrusný prach sfarbuje lupene dohneda. Tanečnica úhorová (Marasmius collinus) má hladký krehký hlúbik, ktorý sa pri skrútení zlomí, hustejšie lupene a nepríjemnú vôňu. Tanečnica kožovitá (Marasmius torquescens) rastie v opadanom lístí listnatých lesov a dolná časť hlúbika je tmavo hrdzavohnedá až čierna. Tanečnica fialovosivá (Marasmius wynneae) má bledý belavý klobúk, tmavú bázu hlúbika a menšie výtrusy. Peniazovka dubová (Gymnopus dryophilus) má oveľa hustejšie lupene.",
+        notes: "Usušené plodnice vo vode ožijú. Nadobudnú pôvodný tvar a môžu tvoriť nové bunky a nové výtrusy. Plodnice obsahujú cukor trehalózu, ktorý bunkám umožňuje prežiť vyschnutie. Tam, kde mycélium rastie v kruhu, je tráva pozdĺž živého okraja tmavšie zelená a vnútri kruhu hnedá, kde mycélium odumrelo."
+      }
+    },
+    sources: {
+      en: [
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/marasmius-oreades.php"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert",
+          href: "https://www.mushroomexpert.com/marasmius_oreades.html"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Marasmius_oreades"
+        },
+        {
+          group: "text",
+          name: "Fungipedia",
+          href: "https://www.fungipedia.org/en/hongos/marasmius-oreades.html"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Marasmius-oreades/tanecnica-polna/spicka-obecna/ID733"
+        },
+        {
+          group: "text",
+          name: "myko.cz",
+          href: "https://www.myko.cz/myko-atlas/Marasmius-oreades/"
+        },
+        {
+          group: "text",
+          name: "botany.cz",
+          href: "https://botany.cz/cs/marasmius-oreades/"
+        },
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=174712",
+          detail: "174712"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/Synonymy.asp?RecordID=174712",
+          detail: "174712"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/174712",
+          detail: "174712"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2537250",
+          detail: "2537250"
+        }
+      ],
+      sk: [
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Marasmius-oreades/tanecnica-polna/spicka-obecna/ID733"
+        }
+      ]
+    },
+    synonyms: [
+      "Agaricus oreades Bolton",
+      "Collybia oreades (Bolton) P. Kumm.",
+      "Scorteus oreades (Bolton) Earle",
+      "Agaricus caryophylleus Schaeff.",
+      "Pleurotus caryophylleus (Schaeff.) Sacc.",
+      "Marasmius caryophylleus (Schaeff.) J. Schröt.",
+      "Chamaeceras caryophylleus (Schaeff.) Kuntze",
+      "Agaricus coriaceus Lightf.",
+      "Agaricus pratensis Huds.",
+      "Gymnopus pratensis Gray",
+      "Agaricus pseudomouceron Bull.",
+      "Chamaeceras albidus (Schulzer) Kuntze"
+    ]
+  },
+  {
+    id: 73,
+    name: "Cordyceps militaris",
+    author: "(L.) Fr.",
+    family: "Cordycipitaceae",
+    genus: "Cordyceps",
+    order: "Hypocreales",
+    edibility: "edible_with_caution",
+    hymenium: "smooth",
+    where: [
+      "grass",
+      "ground",
+      "wood"
+    ],
+    color: [
+      "yellow",
+      "red"
+    ],
+    path: [
+      "Fungi",
+      "Dikarya",
+      "Ascomycota",
+      "Pezizomycotina",
+      "Sordariomycetes",
+      "Hypocreomycetidae",
+      "Hypocreales",
+      "Cordycipitaceae",
+      "Cordyceps"
+    ],
+    summary: ["Hypocreales", "Cordycipitaceae", "Cordyceps"],
+    added: "2026-10-27",
+    plate: STORAGE + "photos/Hypocreales/Cordycipitaceae/Cordyceps_militaris/Cordyceps_militaris@1600.webp",
+    plateGrid: STORAGE + "photos/Hypocreales/Cordycipitaceae/Cordyceps_militaris/Cordyceps_militaris@400.webp",
+    plateCredit: {
+      author: "James Sowerby",
+      license: "public domain",
+      source: "https://commons.wikimedia.org/wiki/File:Coloured_Figures_of_English_Fungi_or_Mushrooms_-_t._60.jpg"
+    },
+    photos: [
+      {
+        src: STORAGE + "photos/Hypocreales/Cordycipitaceae/Cordyceps_militaris/cm1.webp",
+        author: "Andreas Kunze",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:2010-08-06_Cordyceps_militaris_1.jpg"
+      },
+      {
+        src: STORAGE + "photos/Hypocreales/Cordycipitaceae/Cordyceps_militaris/cm2.webp",
+        author: "David Evans",
+        license: "CC BY 2.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/2.0",
+        source: "https://commons.wikimedia.org/wiki/File:Flickr_-_Scarlet_Caterpillarclub_-_Fungi.jpg"
+      },
+      {
+        src: STORAGE + "photos/Hypocreales/Cordycipitaceae/Cordyceps_militaris/cm3.webp",
+        author: "Matej Frančeškin",
+        license: "CC BY 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Cordyceps_militaris_452741553.jpg"
+      },
+      {
+        src: STORAGE + "photos/Hypocreales/Cordycipitaceae/Cordyceps_militaris/cm4.webp",
+        author: "Jose Ramon Pato",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:2008-12-14_Cordyceps_militaris_3107128906.jpg"
+      }
+    ],
+    capFrom: 0.2,
+    capTo: 1,
+    stipeHeightFrom: 1,
+    stipeHeightTo: 8,
+    stipeThickFrom: 0.1,
+    stipeThickTo: 1,
+    fruitingFrom: 5,
+    fruitingTo: 1,
+    label: {
+      en: "scarlet caterpillarclub",
+      sk: "žezlovka hmyzová"
+    },
+    names: {
+      en: ["scarlet caterpillar fungus", "scarlet caterpillar club"]
+    },
+    text: {
+      en: {
+        description: "A parasitic club of grassland, moss, and woodland edges, growing alone or in groups from a buried moth or butterfly pupa. It occurs through the Northern Hemisphere and is found more often in eastern North America than west of the Rocky Mountains. In Britain and Ireland it is infrequent and easily overlooked.",
+        cap: "The fruit body is one club, orange to scarlet, and only rarely branched. The fertile head is slightly swollen and granular with raised pores. British heads are 0.5–4 cm long and 2–4 mm thick. The whole club is 1–8 cm high: often 2–5 cm in central Europe, 2–8 cm long and up to about 5 mm thick in North America, and 15–70 mm long by 3–10 mm thick in a French account. The head is wider than the sterile base.",
+        hymenium: "The fertile surface is the orange head. Flask-shaped to spherical perithecia lie immersed in it, and they are sometimes half-embedded or nearly superficial. Each opens by a small raised pore. The asci are long and cylindrical, eight-spored, about 300–510 × 3.5–5 μm, with an apical cap about 3.5–5 μm thick.",
+        stipe: "The sterile stem is the lower part of the club. In Britain it is 1–3 cm long and 1–1.5 mm thick, usually wavy, smoother than the head, and a paler orange. It narrows where it meets the buried insect.",
+        flesh: "The flesh is whitish to pale watery orange, with a firmer outer layer.",
+        sporePrint: "White. The ascospores are smooth, hyaline, and long and thread-like, with many cross-walls. They break into ellipsoidal part-spores. British and North American accounts give those segments as about 2–4.5 × 1–1.5 μm. Central European accounts give about 3–7 × 1–1.2 μm, and a French account gives 4–7 × 1–1.5 μm.",
+        habitat: "In Britain and Ireland the clubs appear in summer and autumn, and across much of Europe from August into November. In North America they appear in summer and fall. In Slovakia they are recorded from May into January. They grow alone or in small groups, in grass, in moss, on bare soil, and along woodland edges and damp banks. The usual host is a buried pupa of a moth or butterfly, less often a caterpillar, and a French account also includes adult moths. The insect lies in the soil or in well-decayed wood. The mycelium colonizes the living insect, and the club later grows from the buried remains.",
+        uses: "North American field guides treat it as inedible or only probably edible. It is treated as inedible in Slovakia and as of no culinary interest in France. In Britain it is given no major culinary value apart from its use in Chinese medicine. In Asia the clubs are cooked in soups and hot pot, and the species is an approved novel food in China. The fruit body contains a protein, CMP18, that kills cells in laboratory tests and may be harmful raw. Cooking destroys it. Sold as a supplement, it lacks sufficient evidence of safety or effectiveness, and the claims largely follow its resemblance to Ophiocordyceps sinensis. In the European Union the mycelium and the fruit body are an unauthorised novel food. In 2025, products on the Dutch market were ordered withdrawn. Mycelium of Ophiocordyceps sinensis sold in supplements is not treated as novel.",
+        confusion: "Clavulinopsis laeticolor is an orange club that can be mistaken for this species before the base is dug up. Cordyceps militaris has a pimply fertile head and grows from a buried pupa or larva. Tolypocladium ophioglossoides is reddish brown to black above and yellow, brown, or black below, and yellow cords connect it to a buried Elaphomyces.",
+        notes: "The fungus produces cordycepin, a nucleoside analogue of adenosine. It is cultivated on rice, on silkworm pupae, and in liquid media in China, Vietnam, Taiwan, and Indonesia. It was the German mushroom of the year in 2007, and it is the Dutch mushroom of the year for 2026. A white powdery growth on the pupae has been called Isaria farinosa, and it is not established that this growth is the same species. Of the Cordyceps species recorded in Britain and Ireland, this is the one most often found."
+      },
+      sk: {
+        description: "Parazitická kyjakovitá huba trávnatých miest, machu a lesných okrajov, ktorá rastie jednotlivo alebo v skupinách zo zahrabanej kukly nočného alebo denného motýľa. Vyskytuje sa na severnej pologuli a častejšie na východe Severnej Ameriky ako na západ od Skalnatých hôr. V Británii a Írsku je zriedkavá a ľahko sa prehliadne.",
+        cap: "Plodnica je jeden kyjak, oranžový až šarlátový, a len zriedka rozkonárený. Plodná hlava je mierne zdurená a zrnitá od vyvýšených pórov. Britské hlavy sú dlhé 0,5–4 cm a hrubé 0,2–0,4 cm. Celý kyjak je vysoký 1–8 cm. V strednej Európe meria často 2–5 cm, v Severnej Amerike 2–8 cm na dĺžku a najviac asi 0,5 cm na hrúbku a vo francúzskom opise 1,5–7 cm na dĺžku a 0,3–1 cm na hrúbku. Hlava je širšia ako sterilná báza.",
+        hymenium: "Plodný povrch je oranžová hlava. Fľaškovité až guľovité peritéciá ležia v nej ponorené a niekedy sú napoly vnorené alebo takmer povrchové. Každé sa otvára malým vyvýšeným pórom. Vrecká sú dlhé a valcovité, osemvýtrusové, približne 300–510 × 3,5–5 μm, s vrcholovým viečkom hrubým približne 3,5–5 μm.",
+        stipe: "Sterilný hlúbik je spodná časť kyja. V Británii je dlhý 1–3 cm a hrubý 0,1–0,15 cm, zvyčajne zvlnený, hladší ako hlava a bledšie oranžový. Zužuje sa tam, kde prechádza do zahrabaného hmyzu.",
+        flesh: "Dužina je belavá až bledo vodnatooranžová, s pevnejšou vonkajšou vrstvou.",
+        sporePrint: "Výtrusný prach je biely. Askospóry sú hladké, hyalínne, dlhé a niťovité, s mnohými priečnymi priehradkami. Rozpadajú sa na elipsoidné čiastkové spóry. Britské a severoamerické opisy uvádzajú tieto čiastkové spóry približne 2–4,5 × 1–1,5 μm. Stredoeurópske opisy uvádzajú približne 3–7 × 1–1,2 μm a francúzsky opis 4–7 × 1–1,5 μm.",
+        habitat: "V Británii a Írsku sa kyjaky objavujú v lete a na jeseň a vo veľkej časti Európy od augusta do novembra. V Severnej Amerike vyrastajú v lete a na jeseň. Na Slovensku sú zaznamenané od mája do januára. Rastú jednotlivo alebo v malých skupinách, v tráve, v machu, na holej pôde a pozdĺž okrajov lesov a vlhkých svahov. Obvyklým hostiteľom je zahrabaná kukla nočného alebo denného motýľa, menej často húsenica, a francúzsky opis uvádza aj dospelé nočné motýle. Hmyz leží v pôde alebo v silno rozloženom dreve. Mycélium osídľuje živý hmyz a kyjak neskôr vyrastá zo zahrabaných zvyškov.",
+        uses: "Severoamerické terénne príručky ju pokladajú za nejedlú alebo len za pravdepodobne jedlú. Na Slovensku sa pokladá za nejedlú a vo Francúzsku za bez kuchynského významu. V Británii sa jej nepripisuje väčší kuchynský význam okrem použitia v čínskej medicíne. V Ázii sa kyjaky varia do polievok a hot potu a v Číne je tento druh schválenou novou potravinou. Plodnica obsahuje bielkovinu CMP18, ktorá v laboratórnych skúškach zabíja bunky a za surova môže škodiť. Varenie ju ničí. V doplnkoch stravy chýbajú dostatočné dôkazy o jej bezpečnosti a účinnosti a tvrdenia do veľkej miery vychádzajú z podobnosti s Ophiocordyceps sinensis. V Európskej únii patria mycélium aj plodnica medzi nepovolené nové potraviny. V roku 2025 boli výrobky na holandskom trhu nariadené stiahnuť. Mycélium Ophiocordyceps sinensis predávané v doplnkoch sa za novú potravinu nepovažuje.",
+        confusion: "Pakonárovka úhľadná (Clavulinopsis laeticolor) je oranžový kyjak, s ktorým sa tento druh dá zameniť, kým sa nevykope báza. Cordyceps militaris má zrnitú plodnú hlavu a vyrastá zo zahrabanej kukly alebo larvy. Žezlovka srnková (Tolypocladium ophioglossoides) je navrchu červenohnedá až čierna a naspodku žltá, hnedá alebo čierna a so zahrabaným Elaphomyces ju spájajú žlté povrazce.",
+        notes: "Huba tvorí kordycepín, nukleozidový analóg adenozínu. Pestuje sa na ryži, na kuklách priadky morušovej a v tekutých živných pôdach v Číne, vo Vietname, na Taiwane a v Indonézii. V Nemecku bola hubou roka v roku 2007 a v Holandsku je hubou roka 2026. Biely práškovitý porast na kuklách sa nazýval Isaria farinosa a nie je preukázané, že tento porast je ten istý druh."
+      }
+    },
+    sources: {
+      en: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Cordyceps_militaris"
+        },
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/cordyceps-militaris.php"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert",
+          href: "https://www.mushroomexpert.com/cordyceps_militaris.html"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert",
+          href: "https://www.mushroomexpert.com/cordyceps_ophioglossoides.html"
+        },
+        {
+          group: "text",
+          name: "German Wikipedia",
+          href: "https://de.wikipedia.org/wiki/Puppen-Kernkeule"
+        },
+        {
+          group: "text",
+          name: "MycoDB",
+          href: "https://www.mycodb.fr/fiche.php?genre=Cordyceps&espece=militaris"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Cordyceps-militaris/zezlovka-hmyzova/housenice-cervena/ID825"
+        },
+        {
+          group: "text",
+          name: "Nederlandse Mycologische Vereniging",
+          href: "https://www.mycologen.nl/onderzoek/soort-van-het-jaar/"
+        },
+        {
+          group: "text",
+          name: "NVWA",
+          href: "https://www.nvwa.nl/onderwerpen/voedingssupplementen/inspectie--en-onderzoeksresultaten-supplementen/inspectieresultaten-2025/inspectieresultaten-cordyceps-militaris-2025"
+        },
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=237604",
+          detail: "237604"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=237604",
+          detail: "237604"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/237604",
+          detail: "237604"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/7567077",
+          detail: "7567077"
+        }
+      ],
+      sk: [
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Cordyceps-militaris/zezlovka-hmyzova/housenice-cervena/ID825"
+        }
+      ]
+    },
+    synonyms: [
+      "Clavaria militaris L.",
+      "Sphaeria militaris (L.) J.F. Gmel.",
+      "Cordylia militaris (L.) Fr.",
+      "Hypoxylon militare (L.) Mérat",
+      "Xylaria militaris (L.) Gray",
+      "Corynesphaera militaris (L.) Dumort.",
+      "Kentrosporium militare (L.) Wallr.",
+      "Torrubia militaris (L.) Tul. & C. Tul.",
+      "Clavaria squamosa Lam.",
+      "Clavaria granulosa Bull."
+    ]
+  }
+,
+  {
+    id: 74,
+    name: "Hericium erinaceus",
+    author: "(Bull.) Pers.",
+    family: "Hericiaceae",
+    genus: "Hericium",
+    order: "Russulales",
+    edibility: "choice",
+    hymenium: "teeth",
+    where: ["wood"],
+    color: ["white", "yellow", "brown"],
+    path: [
+      "Fungi",
+      "Dikarya",
+      "Basidiomycota",
+      "Agaricomycotina",
+      "Agaricomycetes",
+      "Russulales",
+      "Hericiaceae",
+      "Hericium",
+    ],
+    summary: ["Russulales", "Hericiaceae", "Hericium"],
+    added: "2026-10-27",
+    plate: STORAGE + "photos/Russulales/Hericiaceae/Hericium_erinaceus/Hericium_erinaceus@1600.webp",
+    plateGrid: STORAGE + "photos/Russulales/Hericiaceae/Hericium_erinaceus/Hericium_erinaceus@400.webp",
+    plateCredit: {
+      author: "L. Dufour",
+      license: "public domain",
+      source: "https://www.biodiversitylibrary.org/page/3270856"
+    },
+    photos: [
+      {
+        src: STORAGE + "photos/Russulales/Hericiaceae/Hericium_erinaceus/he1.webp",
+        author: "Henk Monster",
+        license: "CC BY 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Detail_of_a_very_young_Hericium_erinaceus_(Bearded_Tooth_or_Lion%27s_Mane_Mushroom,_D%3D_Igel-Stachelbart_or_L%C3%B6wenm%C3%A4hne,_F%3D_Hydne_h%C3%A9risson,_NL%3D_Pruikzwam)_white_spores_and_causes_white_rot,_at_Wolfheze_-_panoramio.jpg"
+      },
+      {
+        src: STORAGE + "photos/Russulales/Hericiaceae/Hericium_erinaceus/he2.webp",
+        author: "Henk Monster",
+        license: "CC BY 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Close-up_of_Hericium_erinaceus_(Bearded_Tooth_or_Lion%27s_Mane_Mushroom,_D%3D_Igel-Stachelbart_or_L%C3%B6wenm%C3%A4hne,_F%3D_Hydne_h%C3%A9risson,_NL%3D_Pruikzwam),_in_the_sunshine,_after_my_composition_image_of_yesterday_-_panoramio.jpg"
+      },
+      {
+        src: STORAGE + "photos/Russulales/Hericiaceae/Hericium_erinaceus/he3.webp",
+        author: "Henk Monster",
+        license: "CC BY 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Further_growth_to_maturity_of_Hericium_erinaceus_(Bearded_Tooth_or_Lion%27s_Mane_Mushroom,_D%3D_Igel-Stachelbart_or_L%C3%B6wenm%C3%A4hne,_F%3D_Hydne_h%C3%A9risson,_NL%3D_Pruikzwam)_white_spores_and_causes_white_rot,_at_Wolfheze_-_panoramio.jpg"
+      },
+      {
+        src: STORAGE + "photos/Russulales/Hericiaceae/Hericium_erinaceus/he4.webp",
+        author: "Henk Monster",
+        license: "CC BY 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Hericium_erinaceus_(Bearded_Tooth_or_Lion%27s_Mane_Mushroom,_D%3D_Igel-Stachelbart_or_L%C3%B6wenm%C3%A4hne,_F%3D_Hydne_h%C3%A9risson,_NL%3D_Pruikzwam)_white_spores_and_causes_white_rot,_at_Schaarsbergen_forest_-_panoramio.jpg"
+      },
+      {
+        src: STORAGE + "photos/Russulales/Hericiaceae/Hericium_erinaceus/he5.webp",
+        author: "Lukas",
+        license: "CC BY-SA 2.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0",
+        source: "https://commons.wikimedia.org/wiki/File:Hericium_erinaceus_(30890449762).jpg"
+      },
+    ],
+    capFrom: 10,
+    capTo: 30,
+    stipeHeightFrom: 1,
+    stipeHeightTo: 3,
+    fruitingFrom: 7,
+    fruitingTo: 12,
+    label: {
+      en: "lion's mane",
+      sk: "koralovec ježovitý"
+    },
+    names: {
+      en: ["bearded tooth", "bearded hedgehog", "tree hedgehog"]
+    },
+    text: {
+      en: {
+        description: "A wood-rotting tooth fungus of old broadleaf woods. It is native to Europe, chiefly on beech and oak, and rare across much of that range. A 2025 study limits this name to the European fungus. The same form in eastern Asia and in eastern and western North America belongs to other species.",
+        cap: "There is no separate cap. The fruit body is an unbranched cushion, rounded, heart-shaped, or elongate, usually 10–25 cm across and up to about 30 cm, and about 7–18 cm high, on a short broad attachment. It is white, then cream, pale yellow, or wax-yellow, and ochre to brown with age. The upper surface may be shortly hairy or felted.",
+        hymenium: "Crowded pendant spines cover the underside. They are thick at the base, conical, pointed, and brittle. They are usually 1–5 cm long, sometimes 6 cm, and occasionally 8 cm. They are white, then cream or wax-yellow, and then ochre or brown. The basidia are clavate, 25–40 × 5–8 μm, and four-spored, with a basal clamp. Cylindrical gloeocystidia are present. The hyphae are monomitic and generative, hyaline and clamped, thin- to thick-walled, about 3–15 μm wide, and amyloid.",
+        stipe: "A distinct stipe is usually absent. The fruit body is sessile, or it has a short broad white base about 1–3 cm long. There is no ring.",
+        flesh: "The flesh is thick, white, elastic, and firm, and it becomes tough with age. A fresh cut stays white. Dried flesh turns yellowish to reddish brown. The smell is mild, sometimes faintly fruity or a little like curdled milk. The taste is mild to sweet.",
+        sporePrint: "White. The spores are broadly ellipsoid to subglobose, thick-walled, smooth to finely roughened, and amyloid. They often contain one large oil drop. They measure about 5–7 × 4–5.5 μm.",
+        habitat: "Fruit bodies appear from July to November, and into early winter in France and Spain. In a mild winter an old fruit body can still be present in January. They grow singly or in small groups, from wounds on living beech and oak and from dead trunks, stumps, and fallen logs of those trees and of other hardwoods, including hornbeam, ash, maple, black locust, plane, walnut, and tree of heaven. The rot is white and can enter the heartwood. They also appear on piles of sawdust. The same trunk can fruit again in later years.",
+        uses: "Young fruit bodies are a choice edible, and the flavour has been compared to lobster, fish, or tender meat. Older fruit bodies turn tough. The fungus is cultivated on hardwood logs and on sawdust, and the fruit bodies are sold.",
+        confusion: "Hericium coralloides is branched and coral-like, with shorter spines, and it usually grows on beech and ash. Hericium cirrhatum has shorter spines, about 10–15 mm long, and a thinner tiered bracket with distinct caps. Hericium alpestre is branched and grows on conifer wood. Hericium americanum is branched, with long spines, and it grows in eastern North America. An immature branched Hericium can start as one clump, and a young long-spined fruit body can have spines of 1 cm or less, so the unbranched cushion of a mature fruit body is the clearer separation. Hydnum repandum and Hydnum rufescens have spines under a smooth cap and grow on the ground.",
+        notes: "A 2019 assessment lists the species as Least Concern and as declining, while treating the European, Asian, and North American fungi as one species. Wild fruit bodies are legally protected in Britain, Poland, and Slovakia. In Britain the protection is under Schedule 8 of the Wildlife and Countryside Act 1981. In Poland it has been strictly protected since 1995, and a national list marks it as endangered. In Slovakia the fine for one fruit body is 100 euros. A Czech national list treats it as vulnerable. Much of the cultivated material sold under this name is an East Asian species. Hericenones and erinacines are reported from fruit bodies and mycelium sold under this name, and a medicinal effect is unproven."
+      },
+      sk: {
+        description: "Drevokazná huba s ostňami, typická pre staré listnaté lesy. Je pôvodná v Európe, najmä na buku a dube, a na veľkej časti tohto areálu je vzácna. Štúdia z roku 2025 viaže toto meno len na európsku hubu. Rovnaká forma vo východnej Ázii a vo východnej aj západnej Severnej Amerike patrí iným druhom.",
+        cap: "Samostatný klobúk chýba. Plodnica je nerozkonárená a vankúšovitá, okrúhla, srdcovitá alebo predĺžená, zvyčajne 10–25 cm široká a až okolo 30 cm, vysoká asi 7–18 cm, na krátkom a širokom nasadení. Je biela, potom krémová, bledožltá alebo voskovožltá a v starobe okrová až hnedá. Vrchný povrch môže byť krátko chlpatý alebo plstnatý.",
+        hymenium: "Spodnú stranu pokrývajú husté visiace ostne. Na báze sú hrubé, kužeľovité, zahrotené a lámavé. Zvyčajne sú dlhé 1–5 cm, niekedy 6 cm a výnimočne 8 cm. Sú biele, potom krémové alebo voskovožlté a napokon okrové alebo hnedé. Bazídiá sú kyjačkovité, veľké 25–40 × 5–8 μm, štvorvýtrusové, s bazálnou svorkou. Prítomné sú valcovité gloeocystidy. Hýfy sú monomitické a generatívne, hyalínne, so svorkami, tenko- až hrubostenné, široké asi 3–15 μm a amyloidné.",
+        stipe: "Zreteľný hlúbik zvyčajne chýba. Plodnica je prisadnutá, alebo má krátku a širokú bielu bázu dlhú asi 1–3 cm. Prsteň chýba.",
+        flesh: "Dužina je hrubá, biela, pružná a pevná a v starobe tuhne. Čerstvý rez ostáva biely. Sušená dužina sa sfarbuje na žltkastú až červenkastohnedú. Vôňa je mierna, niekedy slabo ovocná alebo trochu ako zrazené mlieko. Chuť je mierna až sladkastá.",
+        sporePrint: "Výtrusný prach je biely. Výtrusy sú široko elipsoidné až takmer guľovité, hrubostenné, hladké až jemne drsné a amyloidné. Často obsahujú jednu veľkú olejovú kvapku. Merajú asi 5–7 × 4–5,5 μm.",
+        habitat: "Plodnice sa objavujú od júla do novembra a vo Francúzsku a Španielsku až do začiatku zimy. V miernej zime môže stará plodnica vydržať ešte v januári. Rastú jednotlivo alebo v malých skupinách, z rán živých bukov a dubov a z odumretých kmeňov, pňov a ležiacich kmeňov týchto drevín aj iných listnáčov, vrátane hrabu, jaseňa, javora, agáta, platana, orecha a pajaseňa. Hniloba je biela a môže vniknúť do jadra dreva. Objavujú sa aj na hromadách pilín. Ten istý kmeň môže plodiť aj v ďalších rokoch.",
+        uses: "Mladé plodnice sú výborne jedlé a chuťou pripomínajú homára, rybu alebo jemné mäso. Staršie plodnice tuhnu. Huba sa pestuje na klátoch listnatých drevín aj na pilinách a plodnice sa predávajú.",
+        confusion: "Koralovec bukový (Hericium coralloides) je rozkonárený a koralovitý, s kratšími ostňami, a rastie zvyčajne na buku a jaseňi. Koralovec trúdnikovitý (Hericium cirrhatum) má kratšie ostne, dlhé asi 10–15 mm, a tenšiu poschodovitú konzolu s výraznými klobúkmi. Koralovec jedľový (Hericium alpestre) je rozkonárený a rastie na dreve ihličnanov. Hericium americanum je rozkonárená, s dlhými ostňami, a rastie vo východnej Severnej Amerike. Nedospelý rozkonárený koralovec môže začínať ako jeden trs a mladá plodnica s dlhými ostňami môže mať ostne dlhé 1 cm alebo menej, takže zreteľnejším rozdielom je nerozkonárený vankúš dospelej plodnice. Jelenka poprehýbaná (Hydnum repandum) a jelenka ryšavá (Hydnum rufescens) majú ostne pod hladkým klobúkom a rastú na zemi.",
+        notes: "Hodnotenie z roku 2019 ho zaraďuje ako málo dotknutý druh (Least Concern) s ubúdajúcou početnosťou, pričom európske, ázijské a severoamerické huby berie ako jeden druh. Voľne rastúce plodnice sú zákonom chránené v Británii, Poľsku a na Slovensku. V Poľsku je prísne chránený od roku 1995 a národný zoznam ho označuje ako ohrozený. Na Slovensku je pokuta za jednu plodnicu 100 eur. Český národný zoznam ho vedie ako zraniteľný druh (Vulnerable). Veľká časť pestovaného materiálu predávaného pod týmto menom je východoázijský druh. Z plodníc a mycélia predávaných pod týmto menom sa uvádzajú hericenóny a erinacíny a liečivý účinok nie je preukázaný."
+      }
+    },
+    sources: {
+      en: [
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/hericium-erinaceus.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Hericium_erinaceus"
+        },
+        {
+          group: "text",
+          name: "Persoonia",
+          href: "https://doi.org/10.3114/persoonia.2025.55.04",
+          detail: "2025"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert",
+          href: "https://www.mushroomexpert.com/hericium_erinaceus.html"
+        },
+        {
+          group: "text",
+          name: "IUCN",
+          href: "https://www.iucnredlist.org/species/70401627/70401637"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Hericium-erinaceus/koralovec-jezovity/koralovec-jezaty/ID198",
+          detail: "koralovec ježovitý"
+        },
+        {
+          group: "text",
+          name: "myko.cz",
+          href: "https://www.myko.cz/myko-atlas/Hericium-erinaceus/"
+        },
+        {
+          group: "text",
+          name: "grzyby.pl",
+          href: "https://grzyby.pl/gatunki/Hericium_erinaceum.htm"
+        },
+        {
+          group: "text",
+          name: "MycoDB",
+          href: "https://www.mycodb.fr/fiche.php?genre=Hericium&espece=erinaceus"
+        },
+        {
+          group: "text",
+          name: "Fungipedia",
+          href: "https://www.fungipedia.org/hongos/hericium-erinaceus.html"
+        },
+        {
+          group: "text",
+          name: "Asturnatura",
+          href: "https://www.asturnatura.com/especie/hericium-erinaceus"
+        },
+        {
+          group: "text",
+          name: "botany.cz",
+          href: "https://botany.cz/cs/hericium-erinaceus/"
+        },
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=356812",
+          detail: "356812"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=356812",
+          detail: "356812"
+        },
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.speciesfungorum.org/names/genusrecord.asp?RecordId=17740",
+          detail: "17740"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/356812",
+          detail: "356812"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5248508",
+          detail: "5248508"
+        },
+      ],
+      sk: [
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Hericium-erinaceus/koralovec-jezovity/koralovec-jezaty/ID198",
+          detail: "koralovec ježovitý"
+        },
+        {
+          group: "text",
+          name: "botany.cz",
+          href: "https://botany.cz/cs/hericium-erinaceus/"
+        }
+      ]
+    },
+    synonyms: [
+      "Hydnum erinaceus Bull.",
+      "Clavaria erinaceus (Bull.) Paulet",
+      "Dryodon erinaceus (Bull.) P. Karst.",
+      "Martella echinus Scop.",
+      "Hericium echinus (Scop.) Pers.",
+      "Hydnum echinus (Scop.) Fr.",
+      "Manina cordiformis Scop.",
+      "Hydnum hystricinum Batsch",
+      "Hericium hystricinum (Batsch) Quél.",
+      "Martella hystricinum (Batsch) Kuntze",
+      "Hydnum caput-medusae Bull.",
+      "Hericium caput-medusae (Bull.) Pers.",
+      "Merisma caput-medusae (Bull.) Spreng.",
+      "Dryodon caput-medusae (Bull.) Quél.",
+      "Clavaria caput-medusae Bull.",
+      "Clavaria conferta Paulet",
+      "Hericium hystrix Pers.",
+      "Hydnum hystrix (Pers.) Fr.",
+      "Merisma hystrix (Pers.) Spreng.",
+      "Martella hystrix (Pers.) Lloyd",
+      "Hericium grande Raf.",
+      "Hydnum grande (Raf.) Steud.",
+      "Steccherinum quercinum Gray",
+      "Hydnum unguiculatum (Pers.) Streinz",
+      "Hericium cardium Pers.",
+      "Hydnum omasum Panizzi",
+      "Dryodon juranus Quél.",
+      "Hydnum juranum (Quél.) Sacc. & D. Sacc."
+    ]
   }
 ];

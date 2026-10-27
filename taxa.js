@@ -65,6 +65,22 @@ export const TAXA = {
     rank: "genus",
     sk: "líška"
   },
+  Hygrocybaceae: {
+    rank: "family",
+    sk: "lúčnicovité"
+  },
+  Hygrocybe: {
+    rank: "genus",
+    sk: "lúčnica"
+  },
+  Marasmiaceae: {
+    rank: "family",
+    sk: "špičkovité"
+  },
+  Marasmius: {
+    rank: "genus",
+    sk: "tanečnica"
+  },
   Amanitaceae: {
     rank: "family",
     sk: "muchotrávkovité"
@@ -76,6 +92,14 @@ export const TAXA = {
   Hydnaceae: {
     rank: "family",
     sk: "jelenkovité"
+  },
+  Hydnangiaceae: {
+    rank: "family",
+    sk: "plávkovcovité"
+  },
+  Laccaria: {
+    rank: "genus",
+    sk: "lakovka"
   },
   Morchellaceae: {
     rank: "family",
@@ -155,7 +179,8 @@ export const TAXA = {
     rank: "genus"
   },
   Porotheleaceae: {
-    rank: "family"
+    rank: "family",
+    sk: "kráterovčekovité"
   },
   Trogia: {
     rank: "genus"
@@ -409,10 +434,26 @@ export const TAXA = {
     rank: "order"
   },
   Hypocreaceae: {
-    rank: "family"
+    rank: "family",
+    sk: "mäsenkovité"
   },
   Trichoderma: {
     rank: "genus",
     sk: "zelenatka"
+  },
+  Cordycipitaceae: {
+    rank: "family",
+    sk: "žezlovkovité"
+  },
+  Cordyceps: {
+    rank: "genus"
+  },
+  Hericiaceae: {
+    rank: "family",
+    sk: "koralovcovité"
+  },
+  Hericium: {
+    rank: "genus",
+    sk: "koralovec"
   }
 };
