@@ -274,6 +274,10 @@ test('a species page shows the plate and photo credits stored on the record', ()
   assert.match(slovak.html, /Fotografia 1 z 5/);
   assert.match(slovak.html, />UuMUfQ</);
 
+  const deathcap = viewModel({ lang: 'sk', view: 'mushroom', key: 'Amanita phalloides', search: '' });
+  assert.match(deathcap.html, /Celobiele plodnice sú farebná forma/);
+  assert.doesNotMatch(deathcap.html, /All-white fruit bodies/);
+
   const reticulatus = viewModel({ lang: 'en', view: 'mushroom', key: 'Boletus reticulatus', search: '' });
   assert.match(reticulatus.html, /<span class="credit">Gemini · not stated<\/span>/);
 

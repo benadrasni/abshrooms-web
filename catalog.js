@@ -1171,6 +1171,7 @@ function mushroomText(species, lang) {
   function pick(field) {
     var val = own[field];
     if (val && String(val).trim()) return val;
+    if (field === "notes") return "";
     return en[field] || "";
   }
   return {

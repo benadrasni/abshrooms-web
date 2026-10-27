@@ -73,6 +73,13 @@ export const TAXA = {
     rank: "genus",
     sk: "lúčnica"
   },
+  Hygrophoraceae: {
+    rank: "family",
+    sk: "šťavnačkovité"
+  },
+  Gliophorus: {
+    rank: "genus"
+  },
   Marasmiaceae: {
     rank: "family",
     sk: "špičkovité"
@@ -203,6 +210,10 @@ export const TAXA = {
   Fomes: {
     rank: "genus",
     sk: "práchnovec"
+  },
+  Ganoderma: {
+    rank: "genus",
+    sk: "lesklokôrovka"
   },
   Trametes: {
     rank: "genus"
@@ -427,6 +438,9 @@ export const TAXA = {
     rank: "genus",
     sk: "strmuľka"
   },
+  Collybia: {
+    rank: "genus"
+  },
   Hypocreomycetidae: {
     rank: "subclass"
   },
@@ -455,5 +469,17 @@ export const TAXA = {
   Hericium: {
     rank: "genus",
     sk: "koralovec"
+  },
+  Gomphaceae: {
+    rank: "family",
+    sk: "lievikovcovité"
+  },
+  Gomphus: {
+    rank: "genus",
+    sk: "lievikovec"
+  },
+  Gomphales: {
+    rank: "order",
+    sk: "lievikovcotvaré"
   }
 };

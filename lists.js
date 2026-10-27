@@ -110,7 +110,7 @@ export const LISTS = [
         "year": 2015
       },
       {
-        "name": "Lepista personata",
+        "name": "Collybia personata",
         "year": 2016
       },
       {
@@ -481,7 +481,7 @@ export const LISTS = [
         "year": 2015
       },
       {
-        "name": "Lepista personata",
+        "name": "Collybia personata",
         "year": 2016
       },
       {
