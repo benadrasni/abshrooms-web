@@ -1,4 +1,5 @@
-import { decisionFor, parseCloudflareTrace } from './analyticsConsent.mjs';
+import { nextConsentStep, parseCloudflareTrace } from './analyticsConsent.mjs';
+import { analyticsLocation } from './identifyQuery.mjs';
 
 // Web stream on the abshrooms-a9d4c property shared with the Android and iOS apps.
 const GA_ID = 'G-C3N3E9LE8J';
@@ -14,7 +15,7 @@ let lastSearchKey = '';
 let lastFilterKey = '';
 let queuedPage = null;
 let queuedFilter = null;
-let regionSettled = false;
+const consent = { settled: false, choice: '' };
 const listeners = new Set();
 
 function ready() {
@@ -22,24 +23,44 @@ function ready() {
 }
 
 function readChoice() {
+  let value = '';
   try {
-    const value = localStorage.getItem(CHOICE_KEY);
-    return value === 'granted' || value === 'denied' ? value : '';
+    const stored = localStorage.getItem(CHOICE_KEY);
+    if (stored === 'granted' || stored === 'denied') value = stored;
   } catch (err) {
-    return '';
+    value = '';
   }
+  consent.choice = value;
+  return value;
 }
 
 function writeChoice(choice) {
+  const value = choice === 'granted' || choice === 'denied' ? choice : '';
+  consent.choice = value;
   try {
-    localStorage.setItem(CHOICE_KEY, choice);
+    localStorage.setItem(CHOICE_KEY, value);
+    return true;
   } catch (err) {
     /* private mode keeps the choice in memory only */
+    return false;
   }
 }
 
 export function analyticsState() {
-  return { ready: mode !== 'pending', on: mode === 'on', ask };
+  return { ready: mode !== 'pending', on: mode === 'on', ask, choice: consent.choice };
+}
+
+export function resetAnalyticsState() {
+  mode = 'pending';
+  ask = false;
+  installed = false;
+  lastPageKey = '';
+  lastSearchKey = '';
+  lastFilterKey = '';
+  queuedPage = null;
+  queuedFilter = null;
+  consent.settled = false;
+  consent.choice = '';
 }
 
 function publish() {
@@ -108,19 +129,20 @@ function turnOn() {
   publish();
 }
 
-function turnOff({ ask: nextAsk, disableScript }) {
+function removeGtagScripts(doc) {
+  if (!doc || typeof doc.querySelectorAll !== 'function') return;
+  Array.from(doc.querySelectorAll('script[src*="googletagmanager.com/gtag/js"]')).forEach((node) => {
+    if (node && typeof node.remove === 'function') node.remove();
+  });
+}
+
+function turnOff({ ask: nextAsk }) {
   mode = 'off';
   ask = Boolean(nextAsk);
   lastPageKey = '';
   lastSearchKey = '';
   lastFilterKey = '';
-  if (disableScript && typeof window !== 'undefined') {
-    window['ga-disable-' + GA_ID] = true;
-    if (installed && typeof window.gtag === 'function') {
-      window.gtag('consent', 'update', { analytics_storage: 'denied' });
-    }
-    clearGaCookies();
-  }
+  if (typeof window !== 'undefined') window['ga-disable-' + GA_ID] = true;
   publish();
 }
 
@@ -129,34 +151,51 @@ function settle(decision) {
     turnOn();
     return;
   }
-  turnOff({ ask: decision.ask, disableScript: true });
+  turnOff({ ask: decision.ask });
+}
+
+export function runConsentEvent(event) {
+  const step = nextConsentStep(consent, event);
+  if (step.choice === 'granted' || step.choice === 'denied') consent.choice = step.choice;
+  consent.settled = step.settled;
+  if (!step.decision) return { applied: false, decision: null };
+  settle(step.decision);
+  return { applied: true, decision: step.decision };
 }
 
 export function allowAnalytics() {
   writeChoice('granted');
-  turnOn();
+  runConsentEvent({ type: 'choice', choice: 'granted' });
 }
 
 export function refuseAnalytics() {
-  writeChoice('denied');
-  turnOff({ ask: false, disableScript: true });
+  const persisted = writeChoice('denied');
+  const shouldReload = installed && persisted;
+  runConsentEvent({ type: 'choice', choice: 'denied' });
+  if (typeof window !== 'undefined') {
+    clearGaCookies();
+    if (typeof document !== 'undefined') removeGtagScripts(document);
+    installed = false;
+    if (shouldReload && window.location && typeof window.location.reload === 'function') {
+      window.location.reload();
+    }
+  }
 }
 
 function sendPageview(loc, meta) {
   if (!ready()) return;
   const info = meta || {};
-  const pathname = loc.pathname || '/';
-  const search = loc.search || '';
-  const key = pathname + search;
+  const key = analyticsLocation(loc.pathname || '/', loc.search || '');
   if (key === lastPageKey) return;
   lastPageKey = key;
   const species = String(info.species || '').trim();
+  const origin = window.location && window.location.origin ? window.location.origin : '';
   const params = {
     page_path: key,
-    page_location: window.location.origin + key,
+    page_location: origin + key,
     page_title: species
       ? species + TITLE_GAP + (info.appName || "What's that mushroom?")
-      : document.title || '',
+      : (typeof document !== 'undefined' && document.title) || '',
     page_type: info.pageType || 'other',
     lang: info.lang || 'en',
     send_to: GA_ID,
@@ -259,27 +298,19 @@ async function readRegion() {
 function boot() {
   if (typeof window === 'undefined') return;
   window['ga-disable-' + GA_ID] = true;
-  const choice = readChoice();
-  if (choice === 'granted' || choice === 'denied') {
-    settle(decisionFor({ choice, loc: '' }));
-    return;
-  }
+  readChoice();
+  if (runConsentEvent({ type: 'stored' }).applied) return;
   const timer = setTimeout(() => {
-    if (regionSettled || readChoice()) return;
-    settle(decisionFor({ choice: '', loc: '' }));
+    runConsentEvent({ type: 'timeout' });
   }, REGION_WAIT_MS);
   readRegion()
     .then((loc) => {
-      regionSettled = true;
       clearTimeout(timer);
-      if (readChoice()) return;
-      settle(decisionFor({ choice: '', loc }));
+      runConsentEvent({ type: 'region', loc });
     })
     .catch(() => {
-      regionSettled = true;
       clearTimeout(timer);
-      if (readChoice()) return;
-      settle(decisionFor({ choice: '', loc: '' }));
+      runConsentEvent({ type: 'error' });
     });
 }
 

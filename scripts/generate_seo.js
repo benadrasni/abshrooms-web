@@ -25,6 +25,20 @@ function languageOf(code) {
   return LANGS.find((item) => item.code === code) || LANGS.find((item) => item.code === 'en');
 }
 
+// Each species payload differs, so a static Content-Security-Policy hash cannot
+// allow every shell, and Firebase Hosting cannot nonce a response. The inline
+// <script type="application/ld+json"> is a script element. firebase.json allows
+// it with script-src-elem 'unsafe-inline' and keeps event handlers off with
+// script-src-attr 'none'. A nonce or hash source in script-src-elem would
+// ignore 'unsafe-inline' and block these shells.
+export function jsonLdScript(value) {
+  const json = JSON.stringify(value)
+    .replace(/</g, '\\u003c')
+    .replace(/\u2028/g, '\\u2028')
+    .replace(/\u2029/g, '\\u2029');
+  return '<script type="application/ld+json">' + json + '</script>';
+}
+
 function escapeHtml(value) {
   return String(value || '')
     .replace(/&/g, '&amp;')
@@ -114,9 +128,7 @@ function inject(template, opts) {
       opts.skipCanonical ? '' : '<meta property="og:url" content="' + url + '">',
       opts.image ? '<meta property="og:image" content="' + escapeHtml(opts.image) + '">' : '',
       '<meta name="twitter:card" content="' + (opts.image ? 'summary_large_image' : 'summary') + '">',
-      opts.jsonLd
-        ? '<script type="application/ld+json">' + JSON.stringify(opts.jsonLd) + '</script>'
-        : '',
+      opts.jsonLd ? jsonLdScript(opts.jsonLd) : '',
     ])
     .filter(Boolean)
     .join('');

@@ -1,6 +1,6 @@
 import assert from 'node:assert/strict';
 import test from 'node:test';
-import { COPY, LANGS, CATALOG as siteCatalog, countLabel, viewModel } from '../catalog.js';
+import { COPY, LANGS, CATALOG as siteCatalog, countLabel, parse, viewModel } from '../catalog.js';
 import { CATALOG } from '../species.js';
 
 const WHERE = new Set(['wood', 'ground', 'grass']);
@@ -279,4 +279,18 @@ test('a species page shows the plate and photo credits stored on the record', ()
   const about = viewModel({ lang: 'en', view: 'about', search: '' });
   assert.match(about.html, /class="credit">(?:<a[^>]*>)?L\. Dufour/);
   assert.match(about.html, />UuMUfQ</);
+});
+
+test('a bad percent-encoding is the missing page, including lists', () => {
+  assert.equal(parse('/mushroom/%E0%A4%A/').view, 'missing');
+  assert.equal(parse('/family/%/').view, 'missing');
+  assert.equal(parse('/genus/%ZZ/').view, 'missing');
+  assert.equal(parse('/list/%/').view, 'missing');
+  assert.equal(parse('/list/%ZZ/').view, 'missing');
+  assert.equal(parse('/sk/list/%E0%A4%A/').view, 'missing');
+  assert.equal(parse('/sk/list/%E0%A4%A/').lang, 'sk');
+  assert.equal(parse('/list/deadly-poisonous/').view, 'list');
+  assert.equal(parse('/list/deadly-poisonous/').key, 'deadly-poisonous');
+  assert.equal(parse('/mushroom/Boletus%20edulis/').key, 'Boletus edulis');
+  assert.equal(parse('/mushroom/Boletus_edulis/').key, 'Boletus edulis');
 });

@@ -29,3 +29,29 @@ export function decisionFor({ choice, loc }) {
   if (CONSENT_COUNTRIES.has(code)) return { load: false, ask: true };
   return { load: true, ask: false };
 }
+
+// A choice always applies, including after a timeout has settled.
+// stored, region, timeout, and error stay ignored once settled, so a late
+// loc=US cannot turn collection on.
+export function nextConsentStep(state, event) {
+  const type = event && event.type;
+  const settled = Boolean(state && state.settled);
+  if (type === 'choice') {
+    const choice = event.choice === 'granted' || event.choice === 'denied' ? event.choice : '';
+    if (!choice) return { settled, decision: null };
+    return { settled: true, choice, decision: decisionFor({ choice, loc: '' }) };
+  }
+  if (settled) return { settled: true, decision: null };
+  if (type === 'stored') {
+    const choice = state && (state.choice === 'granted' || state.choice === 'denied') ? state.choice : '';
+    if (!choice) return { settled: false, decision: null };
+    return { settled: true, decision: decisionFor({ choice, loc: '' }) };
+  }
+  if (type === 'region') {
+    return { settled: true, decision: decisionFor({ choice: '', loc: event.loc || '' }) };
+  }
+  if (type === 'timeout' || type === 'error') {
+    return { settled: true, decision: decisionFor({ choice: '', loc: '' }) };
+  }
+  return { settled: false, decision: null };
+}
