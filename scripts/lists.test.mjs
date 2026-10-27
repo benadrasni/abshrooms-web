@@ -36,7 +36,7 @@ test('a list page shows catalog species and skips the rest', () => {
   assert.match(page.html, /class="on" href="\/"/);
   assert.match(page.html, /Amanita phalloides/);
   assert.match(page.html, /Pleurocybella porrigens/);
-  assert.doesNotMatch(page.html, /Amanita verna/);
+  assert.doesNotMatch(page.html, /Amanita exitialis/);
   assert.doesNotMatch(page.html, /class="year"/);
   const names = listSpecies('deadly-poisonous').map((row) => row.name);
   assert.deepEqual(names.slice(0, 3), ['Amanita phalloides', 'Amanita virosa', 'Amanita bisporigera']);
@@ -71,4 +71,16 @@ test('a list for another language is not a page', () => {
   assert.equal(slovak.view, 'list');
   const page = viewModel({ ...slovak, search: '' });
   assert.match(page.html, /Táto stránka v katalógu nie je/);
+});
+
+test('mushroom page falls back to English when text for language is missing', () => {
+  const de = viewModel({ lang: 'de', view: 'mushroom', key: 'Boletus edulis', search: '' });
+  assert.ok(de.description.length > 0);
+  assert.match(de.description, /^A large ectomycorrhizal mushroom/);
+  assert.match(de.html, /A large ectomycorrhizal mushroom/);
+
+  const skAuricularia = viewModel({ lang: 'sk', view: 'mushroom', key: 'Auricularia auricula-judae', search: '' });
+  assert.ok(skAuricularia.description.length > 0);
+  assert.match(skAuricularia.description, /^A wood-rotting jelly fungus/);
+  assert.match(skAuricularia.html, /A wood-rotting jelly fungus/);
 });

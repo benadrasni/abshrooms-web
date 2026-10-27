@@ -6323,6 +6323,7 @@ import {
     Amanita: { rank: "genus", sk: "muchotrávka" },
     Macrolepiota: { rank: "genus", sk: "bedľa" },
     Chlorophyllum: { rank: "genus", sk: "bedľa" },
+    Lepiota: { rank: "genus", sk: "bedlička" },
     Cantharellus: { rank: "genus", sk: "kuriatko" },
     Craterellus: { rank: "genus", sk: "lievik" },
     Hydnum: { rank: "genus", sk: "jelenka" },
@@ -17764,7 +17765,451 @@ import {
     },
     synonyms: ["Amanitina bisporigera (G.F. Atk.) E.-J. Gilbert"]
   };
-  var CATALOG = [SPECIES, AMANITA, CHANTERELLE, RETICULATUS, PROCERA, PHALLOIDES, PANTHERINA, MORCHELLA, PLEUROTUS, LAETIPORUS, IMLERIA, ARMILLARIA, COPRINUS, GYROMITRA, RUBESCENS, HYPHOLOMA, AGARICUS, LECCINUM, SUILLUS, LACTARIUS, VIROSA, RUBROBOLETUS, CORTINARIUS, CRATERELLUS, FISTULINA, NEOBOLETUS, CALOCYBE, INOSPERMA, HYDNUM, SARCODON, RUSSULA, KUEHNEROMYCES, GALERINA, SPARASSIS, PAXILLUS, LEPISTA, ARTOMYCES, POLYPORUS, ALBOSTIPITATUM, HYGROPHOROPSIS, ENTOLOMA, PHALLUS, FOMES, AURICULARIA, TYLOPILUS, CHLOROPHYLLUM, EMETICA, TRICHOLOMA, LYCOPERDON, AURANTIACUM, CITRINA, PARDINUM, CALVATIA, CLITOCYBE, TRAMETES, PINOPHILUS, CALOBOLETUS, XEROCOMUS, VERSIPLLE, DURIUSCULUM, PLEUROCYBELLA, BISPORIGERA];
+  var BRUNNEOINCARNATA_MEDIA = "photos/Agaricales/Agaricaceae/Lepiota_brunneoincarnata/";
+  var BRUNNEOINCARNATA = {
+    id: 62,
+    name: "Lepiota brunneoincarnata",
+    author: "Chodat & C. Martín",
+    family: "Agaricaceae",
+    genus: "Lepiota",
+    order: "Agaricales",
+    edibility: "deadly",
+    hymenium: "gills",
+    path: ["Fungi", "Dikarya", "Basidiomycota", "Agaricomycotina", "Agaricomycetes", "Agaricomycetidae", "Agaricales", "Agaricaceae", "Lepiota"],
+    summary: ["Agaricales", "Agaricaceae", "Lepiota"],
+    added: "2026-10-26",
+    plate: STORAGE + BRUNNEOINCARNATA_MEDIA + "Lepiota_brunneoincarnata@1600.webp",
+    plateGrid: STORAGE + BRUNNEOINCARNATA_MEDIA + "Lepiota_brunneoincarnata@400.webp",
+    plateCredit: {
+      author: "Gemini",
+      license: "not stated"
+    },
+    photos: [
+      {
+        src: STORAGE + BRUNNEOINCARNATA_MEDIA + "lb1.webp",
+        author: "Murselin Guney (Beyrek)",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:2015-10-11_Lepiota_brunneoincarnata_Chodat_%26_C._Mart%C3%ADn_564314.jpg"
+      },
+      {
+        src: STORAGE + BRUNNEOINCARNATA_MEDIA + "lb2.webp",
+        author: "Claude PAGE",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Lepiota_brunneoincarnata.jpg"
+      },
+      {
+        src: STORAGE + BRUNNEOINCARNATA_MEDIA + "lb3.webp",
+        author: "Strobilomyces",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "http://creativecommons.org/licenses/by-sa/3.0/",
+        source: "https://commons.wikimedia.org/wiki/File:Lepiota_brunneoincarnata_060823w.jpg"
+      },
+      {
+        src: STORAGE + BRUNNEOINCARNATA_MEDIA + "lb4.webp",
+        author: "Strobilomyces",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Lepiota_brunneoincarnata_170929w.JPG"
+      },
+      {
+        src: STORAGE + BRUNNEOINCARNATA_MEDIA + "lb5.webp",
+        author: "Alan Rockefeller",
+        license: "CC BY 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/4.0/",
+        source: "https://www.inaturalist.org/observations/61844174"
+      }
+    ],
+    capFrom: 2,
+    capTo: 7,
+    stipeHeightFrom: 2,
+    stipeHeightTo: 5,
+    stipeThickFrom: 0.5,
+    stipeThickTo: 1,
+    fruitingFrom: 7,
+    fruitingTo: 11,
+    label: {
+      en: "deadly dapperling",
+      sk: "bedlička hnedoružová"
+    },
+    names: {
+      en: [
+        "flesh-brown parasol",
+        "deadly parasol"
+      ]
+    },
+    text: {
+      en: {
+        description: "A small saprotrophic mushroom of parks, gardens, grassy fields, roadsides, and woodland clearings. Widely distributed across temperate Europe and parts of Asia east to China, it favours warm summer and autumn conditions and nutrient-rich or sandy soils. It is absent from the Americas and Australasia.",
+        cap: "The cap is 2–7 cm across, initially hemispherical or bell-shaped, then expanding to broadly convex or nearly flat with a slight, low umbo. The surface is dry, with a whitish to cream background densely covered by pinkish-brown, reddish-brown, or wine-brown fibrous scales that often break into concentric rings toward the paler margin, which remains slightly inrolled when young. The centre typically retains a solid, dark reddish-brown disc.",
+        hymenium: "The gills are free from the stipe, crowded, and white to pale cream. The basidia are club-shaped, mostly four-spored, measuring 25–35 × 6–8 μm. Cheilocystidia are abundant, cylindrical to narrowly clavate, forming a sterile edge along the gills. Pleurocystidia are absent.",
+        stipe: "The stipe is 2–5 cm long and 0.5–1 cm thick, cylindrical, straight or slightly curved, and hollow with age. The apex above the ring zone is smooth and whitish to pale pinkish tan. An indistinct, woolly or fibrous dark brown ring-like zone marks the middle or lower stipe, below which the surface is decorated with concentric bands of dark brown to purplish-brown fibrous scales similar to those on the cap.",
+        flesh: "The flesh is thin, white in the cap and stipe apex, becoming tinged vinaceous red to pinkish brown when cut or bruised, particularly in the lower stipe. The smell is faintly fruity, sweet, or reminiscent of oil paint and cedarwood. The taste is sweetish or mild, but it must not be tasted.",
+        sporePrint: "White. The spores are ellipsoid to oblong-ellipsoid, smooth, hyaline, 7–10 × 4.5–5.5 μm, and dextrinoid, staining red-brown in Melzer's reagent.",
+        habitat: "Fruit bodies appear from July to November, alone, scattered, or in small groups on soil and amongst grass in parks, gardens, lawns, road verges, coastal sand dunes, and deciduous or mixed woodland borders.",
+        uses: "It is deadly poisonous. The fruit bodies contain lethal concentrations of amatoxins, predominantly alpha-amanitin, which cause severe delayed gastrointestinal distress followed by fatal liver and kidney necrosis. Poisonings often occur when it is mistaken for edible mushrooms such as Marasmius oreades or Tricholoma terreum.",
+        notes: "It is one of the most toxic species within the genus Lepiota. Chemical analyses confirm alpha-amanitin concentrations comparable to those of Amanita phalloides, with as little as 100 grams of fresh mushroom capable of producing lethal liver failure. Multiple fatal poisonings have been documented across southern Europe, North Africa, Turkey, and Iran. Molecular phylogenetics places it in Lepiota section Ovisporae alongside other amatoxin-producing dapperlings.",
+        confusion: "Marasmius oreades grows in similar grassy rings but has an unscaled, smooth, buff cap, broad and distant gills, a tough fibrous stipe without scales, and inamyloid spores. Tricholoma terreum grows with conifers, has notched to adnexed gills, a grey fibrous cap without pinkish or vinaceous tones, and lacks any ring zone or scales on the stipe. Macrolepiota procera is vastly larger, with a prominent movable double ring and snakeskin stipe. Lepiota subincarnata is smaller, more uniformly pink, and possesses much smaller spores. Lepiota cristata has a strong pungent carbolic or rubber-like odour and projectile-shaped, spurred spores. Lepiota ignivolvata has a bright orange-red stain at the base of its stipe ring."
+      },
+      sk: {
+        description: "Malá saprotrofná huba parkov, záhrad, trávnatých lúk, okrajov ciest a lesných svetlín. Je široko rozšírená v miernom pásme Európy a v častiach Ázie na východ až po Čínu. Obľubuje teplé letné a jesenné počasie a na živiny bohaté alebo piesčité pôdy. V Severnej Amerike a v Australázii sa nevyskytuje.",
+        cap: "Klobúk má 2–7 cm v priemere. Za mladi je polguľovitý až zvonkovitý, neskôr sa rozprestiera do široko klenutého až takmer plochého tvaru s nízkym, nevýrazným hrboľom. Povrch je suchý, na belavom až krémovom podklade husto pokrytý ružovohnedými, červenohnedými až vínovohnedými vláknitými šupinkami, ktoré sa smerom k svetlejšiemu, za mladi mierne podvinutému okraju často rozpadajú do sústredných kruhov. Stred klobúka si zvyčajne zachováva celistvý, tmavý červenohnedý terč.",
+        hymenium: "Lupene sú voľné, husté a biele až bledo krémové. Bazídiá sú kyjakovité, prevažne štvorvýtrusové, veľké 25–35 × 6–8 μm. Cheilocystidy sú hojné, valcovité až úzko kyjakovité, tvoriace sterilné ostrie lupeňov. Pleurocystidy chýbajú.",
+        stipe: "Hlúbik je dlhý 2–5 cm a hrubý 0,5–1 cm, valcovitý, rovný alebo mierne prehnutý a vekom dutý. Vrchol nad prsteňovou zónou je hladký a belavý až bledo ružovkastý. V strednej alebo dolnej časti hlúbika sa nachádza nevýrazná, vlnatá až vláknitá tmavohnedá prsteňovitá zóna, pod ktorou je hlúbik ozdobený priečnymi pásmi tmavohnedých až fialovohnedých vláknitých šupiniek, podobných tým na klobúku.",
+        flesh: "Dužina je tenká, v klobúku a vo vrchole hlúbika biela, po rozrezaní alebo otlačení nadobúda vínovočervený až ružovohnedý nádych, najmä v dolnej časti hlúbika. Vôňa je slabo ovocná, sladkastá alebo pripomína olejové farby a cédrové drevo. Chuť je sladkastá alebo mierna, no v žiadnom prípade sa nesmie ochutnávať.",
+        sporePrint: "Výtrusný prach je biely. Výtrusy sú elipsoidné až podlhovasto elipsoidné, hladké, bezfarebné, veľké 7–10 × 4,5–5,5 μm a dextrinoidné, v Melzerovom činidle sa sfarbujú do červenohneda.",
+        habitat: "Plodnice sa objavujú od júla do novembra, jednotlivo, roztrúsene alebo v malých skupinách na zemi a v tráve v parkoch, záhradách, na trávnikoch, pri okrajoch ciest, na pobrežných piesočných dunách a na okrajoch listnatých i zmiešaných lesov.",
+        uses: "Je smrteľne jedovatá. Plodnice obsahujú smrteľné množstvá amatoxínov, najmä α-amanitínu, ktoré vyvolávajú oneskorené ťažké žalúdočno-črevné ťažkosti a následne nekrózu pečene a obličiek. K otravám často dochádza pri zámene za jedlé druhy, akými sú tanečnica poľná (Marasmius oreades) alebo čírovka zemná (Tricholoma terreum).",
+        notes: "Patrí k najjedovatejším druhom rodu bedlička (Lepiota). Chemické rozbory potvrdzujú obsah α-amanitínu v koncentráciách porovnateľných s muchotrávkou zelenou, pričom už 100 gramov čerstvých plodníc môže spôsobiť smrteľné zlyhanie pečene. Zaznamenané boli viaceré smrteľné otravy v južnej Európe, severnej Afrike, Turecku a Iráne. Molekulárna fylogenetika ju zaraďuje do sekcie Ovisporae k ďalším bedličkám produkujúcim amatoxíny.",
+        confusion: "Tanečnica poľná (Marasmius oreades) rastie na podobných trávnatých stanovištiach v čarodejných kruhoch, no má hladký, nešupinkatý klobúk bledožltohnedej farby, riedke lupene, tuhý vláknitý hlúbik bez šupín a neamyloidné výtrusy. Čírovka zemná (Tricholoma terreum) rastie pod borovicami, má vykrojené až pripojené lupene, sivý vláknitý klobúk bez ružových či vínových odtieňov a nemá na hlúbiku šupinky ani prsteňovú zónu. Bedľa vysoká (Macrolepiota procera) je nepomerne väčšia, s masívnym posuvným dvojitým prsteňom a hadovitým vzorom na hlúbiku. Bedlička hnedoškvrnitá (Lepiota subincarnata) je menšia, ružovejšia a má podstatne menšie výtrusy. Bedlička hrebenitá (Lepiota cristata) má prenikavý nepríjemný zápach po svietiplyne či gume a ostrohaté výtrusy v tvare projektilu. Bedlička ohňovopošvová (Lepiota ignivolvata) má na báze hlúbika prsteň, ktorý sa sfarbuje do oranžovočervena."
+      }
+    },
+    sources: {
+      en: [
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/lepiota-brunneoincarnata.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Lepiota_brunneoincarnata"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=247927",
+          detail: "247927"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=247927",
+          detail: "247927"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/247927",
+          detail: "247927"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2535390",
+          detail: "2535390"
+        }
+      ],
+      sk: [
+        {
+          group: "text",
+          name: "Nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Lepiota-brunneoincarnata/bedlicka-hnedoruzova/bedla-hnedocervenava/ID7",
+          detail: "bedlička hnedoružová"
+        }
+      ]
+    },
+    synonyms: ["Lepiota barlae Pat.", "Lepiota barlaeana Pat.", "Lepiota patouillardii Sacc. & Trotter"]
+  };
+    var VERNA_MEDIA = "photos/Agaricales/Amanitaceae/Amanita_verna/";
+  var VERNA = {
+    id: 63,
+    name: "Amanita verna",
+    author: "Bull. ex Lam.",
+    family: "Amanitaceae",
+    genus: "Amanita",
+    order: "Agaricales",
+    edibility: "deadly",
+    hymenium: "gills",
+    path: [
+      "Fungi",
+      "Dikarya",
+      "Basidiomycota",
+      "Agaricomycotina",
+      "Agaricomycetes",
+      "Agaricomycetidae",
+      "Agaricales",
+      "Amanitaceae",
+      "Amanita"
+    ],
+    summary: [
+      "Agaricales",
+      "Amanitaceae",
+      "Amanita"
+    ],
+    added: "2026-10-26",
+    plate: STORAGE + VERNA_MEDIA + "Amanita_verna@1600.webp",
+    plateGrid: STORAGE + VERNA_MEDIA + "Amanita_verna@400.webp",
+    plateCredit: {
+      author: "Gemini",
+      license: "not stated"
+    },
+    photos: [
+      {
+        src: STORAGE + VERNA_MEDIA + "ave1.webp",
+        author: "Walter J. Pilsak",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Amanita_verna.jpg"
+      },
+      {
+        src: STORAGE + VERNA_MEDIA + "ave2.webp",
+        author: "Sinisa Radic",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Amanita_verna_2.jpg"
+      },
+      {
+        src: STORAGE + VERNA_MEDIA + "ave3.webp",
+        author: "Sinisa Radic",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Amanita_verna_4.jpg"
+      },
+      {
+        src: STORAGE + VERNA_MEDIA + "ave4.webp",
+        author: "Roberto Petruzzo",
+        license: "CC BY-SA 2.5",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/2.5",
+        source: "https://commons.wikimedia.org/wiki/File:100_6289.JPG"
+      },
+      {
+        src: STORAGE + VERNA_MEDIA + "ave5.webp",
+        author: "Ki7sun3",
+        license: "CC0",
+        licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/",
+        source: "https://commons.wikimedia.org/wiki/File:Weisser-Knollenbl%C3%A4tterpilz.jpg"
+      }
+    ],
+    capFrom: 5,
+    capTo: 10,
+    stipeHeightFrom: 7,
+    stipeHeightTo: 15,
+    stipeThickFrom: 1,
+    stipeThickTo: 2,
+    fruitingFrom: 5,
+    fruitingTo: 10,
+    label: { en: "fool's mushroom", sk: "muchotrávka biela" },
+    names: {
+      en: ["spring destroying angel", "spring amanita", "white destroying angel"],
+      sk: ["muchotrávka jarná"]
+    },
+    text: {
+      en: {
+        description: "A deadly poisonous ectomycorrhizal mushroom with a pure white fruit body and a persistent basal volva. Native to southern and central Europe, and extending into parts of western Asia and northern Africa. It occurs primarily in warm lowland forests and Mediterranean woodland, and is rare or absent in northern latitudes.",
+        cap: "The cap is 5–10 cm across, initially hemispherical or campanulate, becoming convex and eventually nearly flat. The surface is smooth, slightly tacky when moist but soon dry, silkily glossy, and pure white, occasionally developing a pale cream or yellowish tint at the centre with age. The margin is smooth and not striate.",
+        hymenium: "The gills are free from the stipe, crowded, thin, and persistently pure white throughout development. Shorter gills are interspersed between the full-length gills.",
+        stipe: "The stipe is 7–15 cm tall and 1–2 cm thick, cylindrical or tapering slightly upward, solid when young and becoming stuffed to hollow. The surface is white, smooth or with faint silky fibrils. A delicate, membranous, white, skirt-like ring hangs from the upper third of the stipe. The base is bulbously enlarged and enclosed in a prominent, free, white, sack-like volva.",
+        flesh: "The flesh is white, soft, and unchanging when cut or bruised. It does not turn yellow when tested with potassium hydroxide. The odour is faint and indistinct when fresh, becoming sickly sweet in older fruit bodies.",
+        sporePrint: "White. The spores are broadly ellipsoid to subglobose, smooth, amyloid, and measure 8.5–11.5 × 7–9 μm.",
+        habitat: "Solitary or in small scattered groups on the ground in warm deciduous woodlands, parks, and forest edges, forming ectomycorrhizal relationships mainly with oaks, chestnuts, hornbeams, and beeches, and rarely with conifers. Fruit bodies appear from May to October, especially in late spring and early summer.",
+        uses: "Deadly poisonous. The fruit body contains lethal concentrations of amatoxins and phallotoxins that resist cooking, freezing, and drying. Ingestion causes severe gastrointestinal symptoms after a characteristic delay of six to twenty-four hours, followed by progressive liver and kidney necrosis that is frequently fatal.",
+        notes: "The species is one of the classic deadly destroying angels of section Phalloideae. Amatoxins within the tissues inhibit RNA polymerase II, halting cellular protein synthesis and causing massive hepatocellular destruction. Historical reports from North America often confused native white amanitas with this European taxon, but molecular phylogenetics restricts true occurrences of this species to Europe and the Mediterranean basin.",
+        confusion: "Agaricus species, such as Agaricus campestris and Agaricus arvensis, lack a volva at the stipe base, and their gills turn pink and eventually chocolate brown. Leucoagaricus leucothites has a ring but no volva, and its flesh does not react with potassium hydroxide. Calocybe gambosa fruits in spring and has crowded cream gills, no ring, and no volva, and smells strongly of fresh meal. Amanita virosa fruits later in autumn, has a more conical cap and a flocculose stipe, and turns bright yellow with potassium hydroxide. Amanita phalloides var. alba also has a free volva and a skirt-like ring, but fruits in autumn and differs in microscopic characters. In North America, similar deadly white destroying angels include Amanita bisporigera, which has two-spored basidia and turns yellow with potassium hydroxide, and Amanita ocreata."
+      },
+      sk: {
+        description: "Smrteľne jedovatá ektomykorízna huba s čisto bielou plodnicou a nápadnou trvalou pošvou na báze hlúbika. Pôvodná je v južnej a strednej Európe a zasahuje do častí západnej Ázie a severnej Afriky. Vyskytuje sa predovšetkým v teplých nížinných lesoch a v stredomorskom pásme a v severných zemepisných šírkach je vzácna alebo úplne chýba.",
+        cap: "Klobúk má v priemere 5–10 cm. Za mladi je polguľovitý až zvoncovitý, neskôr klenutý až takmer plochý. Povrch je hladký, za vlhka mierne lepkavý, no čoskoro suchý, hodvábne lesklý a čisto biely, v starobe občas s bledokrémovým alebo jemne žltkastým odtieňom v strede. Okraj klobúka je hladký a neryhovaný.",
+        hymenium: "Lupene sú voľné, husté, tenké a počas celého vývinu trvalo čisto biele. Medzi dlhými lupeňmi sú vložené kratšie lupienky.",
+        stipe: "Hlúbik je 7–15 cm dlhý a 1–2 cm hrubý, valcovitý alebo smerom nahor mierne zúžený, za mladi plný, neskôr vypchatý až dutý. Povrch je biely, hladký alebo s jemnými hodvábnymi vláknami. V hornej tretine hlúbika visí jemný, blanitý, biely sukňovitý prsteň. Báza je hľuzovito zhrubnutá a uzavretá vo výraznej, voľnej, bielej vakovitej pošve.",
+        flesh: "Dužina je biela, mäkká a na reze nemenná. Kvapka hydroxidu draselného (KOH) nevyvoláva žlté sfarbenie. Vôňa je za čerstva slabá a nevýrazná, u starších plodníc až nepríjemne nasladlá.",
+        sporePrint: "Biely. Výtrusy sú široko elipsoidné až takmer guľovité, hladké, amyloidné a merajú 8,5–11,5 × 7–9 μm.",
+        habitat: "Rastie jednotlivo alebo v malých roztrúsených skupinách na zemi v teplých listnatých lesoch, parkoch a na lesných okrajoch. Tvorí ektomykorízu najmä s dubmi, gaštanmi, hrabmi a bukmi, zriedkavo s ihličnanmi. Plodnice sa objavujú od mája do októbra, najmä koncom jari a začiatkom leta.",
+        uses: "Smrteľne jedovatá huba. Plodnica obsahuje smrteľné koncentrácie amatoxínov a falotoxínov, ktoré sa neničia varom, mrazením ani sušením. Po požití sa po typickom latentnom období šiestich až dvadsiatich štyroch hodín dostavujú ťažké žalúdočno-črevné príznaky, nasledované postupnou nekrózou pečene a obličiek, ktorá často končí smrťou.",
+        notes: "Patrí medzi klasické smrteľne jedovaté muchotrávky sekcie Phalloideae. Obsiahnuté amatoxíny inhibujú RNA polymerázu II, čím zastavujú syntézu bunkových bielkovín a vyvolávajú rozsiahle zlyhanie pečeňových buniek. Na Slovensku je to zriedkavý teplomilný druh, ktorý sa vyskytuje najmä v nížinách a pahorkatinách južných oblastí. Staršie severoamerické záznamy vznikli zámenou s tamojšími pôvodnými bielymi druhmi, keďže molekulárna fylogenetika potvrdila výskyt tohto taxónu výlučne v Európe a v Stredomorí.",
+        confusion: "Jedlé druhy pečiarok, napríklad pečiarka poľná (Agaricus campestris) a pečiarka ovčia (Agaricus arvensis), nemajú na báze hlúbika pošvu a ich lupene sa postupne menia z ružových na čokoládovohnedé. Bedlička biela (Leucoagaricus leucothites) má prsteň, no pošva jej chýba a jej dužina s hydroxidom draselným nereaguje. Čírovka májová (Calocybe gambosa) rastie na jar, má husté krémové lupene, nemá prsteň ani pošvu a výrazne vonia po čerstvej múke. Muchotrávka končistá (Amanita virosa) plodí neskôr na jeseň, má kužeľovitejší klobúk, šupinkatý hlúbik a s hydroxidom draselným reaguje jasnožlto. Biela forma muchotrávky zelenej (Amanita phalloides var. alba) má rovnako voľnú pošvu aj sukňovitý prsteň, no plodí na jeseň a líši sa mikroskopickými znakmi. V Severnej Amerike rastú podobné smrteľne jedovaté biele muchotrávky, napríklad Amanita bisporigera, ktorá má dvojvýtrusové bazídiá a žltne s KOH, a Amanita ocreata."
+      }
+    },
+    sources: {
+      en: [
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/amanita-verna.php"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Amanita_verna"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=163667",
+          detail: "163667"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=163667",
+          detail: "163667"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/163667",
+          detail: "163667"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5240320",
+          detail: "5240320"
+        }
+      ],
+      sk: [
+        {
+          group: "text",
+          name: "Nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Amanita-verna/muchotravka-biela/muchomurka-jarni/ID284",
+          detail: "muchotrávka biela"
+        }
+      ]
+    },
+    synonyms: ["Agaricus vernus Bull.", "Amanitina verna (Bull. ex Lam.) E.-J. Gilbert", "Venenarius vernus (Bull. ex Lam.) Murrill", "Agaricus venenatus Roques"]
+  };
+    var SUBNIGRICANS_MEDIA = "photos/Russulales/Russulaceae/Russula_subnigricans/";
+  var SUBNIGRICANS = {
+    id: 64,
+    name: "Russula subnigricans",
+    author: "Hongo",
+    family: "Russulaceae",
+    genus: "Russula",
+    order: "Russulales",
+    edibility: "deadly",
+    hymenium: "gills",
+    path: [
+      "Fungi",
+      "Dikarya",
+      "Basidiomycota",
+      "Agaricomycotina",
+      "Agaricomycetes",
+      "Incertae sedis",
+      "Russulales",
+      "Russulaceae",
+      "Russula"
+    ],
+    summary: [
+      "Russulales",
+      "Russulaceae",
+      "Russula"
+    ],
+    added: "2026-10-26",
+    plate: STORAGE + SUBNIGRICANS_MEDIA + "Russula_subnigricans@1600.webp",
+    plateGrid: STORAGE + SUBNIGRICANS_MEDIA + "Russula_subnigricans@400.webp",
+    plateCredit: {
+      author: "Gemini",
+      license: "not stated"
+    },
+    photos: [
+      {
+        src: STORAGE + SUBNIGRICANS_MEDIA + "rsub1.webp",
+        author: "中距離快速",
+        license: "CC0",
+        licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/",
+        source: "https://commons.wikimedia.org/wiki/File:Russula_subnigricans.jpg"
+      },
+      {
+        src: STORAGE + SUBNIGRICANS_MEDIA + "rsub2.webp",
+        author: "Garry Lydon",
+        license: "CC BY 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/4.0/",
+        source: "https://www.inaturalist.org/observations/241063967"
+      },
+      {
+        src: STORAGE + SUBNIGRICANS_MEDIA + "rsub3.webp",
+        author: "Okumura Jun",
+        license: "CC BY-NC 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-nc/4.0/",
+        source: "https://www.inaturalist.org/observations/289229146"
+      },
+      {
+        src: STORAGE + SUBNIGRICANS_MEDIA + "rsub4.webp",
+        author: "Okumura Jun",
+        license: "CC BY-NC 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-nc/4.0/",
+        source: "https://www.inaturalist.org/observations/289229146"
+      },
+      {
+        src: STORAGE + SUBNIGRICANS_MEDIA + "rsub5.webp",
+        author: "Okumura Jun",
+        license: "CC BY-NC 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-nc/4.0/",
+        source: "https://www.inaturalist.org/observations/289229146"
+      }
+    ],
+    capFrom: 5,
+    capTo: 12,
+    stipeHeightFrom: 4,
+    stipeHeightTo: 9,
+    stipeThickFrom: 1.5,
+    stipeThickTo: 3,
+    fruitingFrom: 6,
+    fruitingTo: 10,
+    label: { en: "false blackening russula" },
+    names: {
+      en: ["rank russula"]
+    },
+    text: {
+      en: {
+        description: "A deadly poisonous ectomycorrhizal mushroom with a robust, brittle fruit body that bruises red when injured without turning black. Native to East and Southeast Asia, including Japan, China, and Taiwan. It occurs primarily in warm-temperate broadleaf and mixed forests, growing on the ground in association with fagaceous trees during summer and autumn.",
+        cap: "The cap is 5–12 cm across, initially convex with an incurved margin, becoming broadly convex to plane and eventually shallowly depressed to funnel-shaped at the centre. The surface is dry, smooth or finely velvety when young, whitish to pale greyish-buff at first, darkening with age to smoky grey, brownish-black, or sooty brown. The margin is smooth, remaining even and neither striate nor grooved. When bruised or scratched, the surface slowly turns pale pinkish-red to wine red.",
+        hymenium: "The gills are adnate to subdecurrent, moderately distant to subdistant, rather thick and brittle, with shorter intermediate gills interspersed between the full-length gills. They are cream to pale yellowish-white, staining reddish-pink when bruised or cut, and do not blacken.",
+        stipe: "The stipe is 4–9 cm tall and 1.5–3 cm thick, stout, cylindrical or tapering slightly toward the base, solid and firm when young, becoming stuffed with a brittle, crumbly interior. The surface is dry, smooth or faintly longitudinal-fibrillose, whitish to pale greyish-brown, bruising reddish where handled and darkening to smoky brown in age. It lacks a ring and a volva.",
+        flesh: "The flesh is thick, firm, brittle, and white, characteristically blushing pale pinkish-red to wine red within minutes of exposure to air, but never turning black. The odour is faint and indistinct, and the taste is mild.",
+        sporePrint: "White. The spores are broadly ellipsoid to subglobose, measuring 7–9.5 × 6–8 μm, with an amyloid ornamentation of low warts connected by fine lines forming a partial network.",
+        habitat: "Solitary, scattered, or in small groups on the ground in broadleaf and mixed evergreen forests, forming mycorrhizal associations with fagaceous trees such as Castanopsis, Quercus, and Lithocarpus, as well as pines. It fruits from June to October following warm monsoon rains.",
+        uses: "Deadly poisonous. Ingestion causes rapid-onset nausea, vomiting, and diarrhoea within thirty minutes to two hours, followed by severe generalized rhabdomyolysis—the massive breakdown of skeletal muscle tissue. The condition frequently precipitates acute kidney injury, hyperkalemia, cardiac arrest, respiratory failure, and death. The primary myotoxin is cycloprop-2-ene carboxylic acid.",
+        confusion: "Resembles Russula nigricans, whose flesh stains red when cut but subsequently blackens within twenty minutes, and which has much more widely spaced, thick gills. Russula densifolia also stains red and then blackens, but features crowded, thin gills. Russula albonigra turns directly black without a preceding red stage. The North American Russula eccentrica stains red then brownish-grey, lacks the cyclopropene toxin, and is not associated with rhabdomyolysis.",
+        notes: "The fatal myotoxicity of this fungus was elucidated in 2009 by isolation of cycloprop-2-ene carboxylic acid, an unusually strained, low-molecular-weight compound that triggers toxic breakdown of skeletal muscle fibres. Only a fraction of a fruit body can deliver a lethal dose in humans, causing a mortality rate exceeding fifty percent in documented poisonings across Japan and southern China."
+      },
+      sk: {
+        description: "Smrteľne jedovatá ektomykorízna huba s robustnými, krehkými plodnicami, ktorých dužina po poranení červenie a nikdy nečernie. Pochádza z východnej a juhovýchodnej Ázie, najmä z Japonska, Číny a Taiwanu. Vyskytuje sa predovšetkým v teplých listnatých a zmiešaných lesoch, kde rastie na zemi pod bukovitými drevinami v letnom a jesennom období.",
+        cap: "Klobúk má 5–12 cm v priemere, za mladi je polguľovitý s podvinutým okrajom, neskôr plocho klenutý až plochý a v dospelosti v strede plytko preliačený až lievikovitý. Povrch je suchý, za mladi jemne zamatový, spočiatku belavý až bledo sivookrový, vekom tmavnúci do dymovosivej, hnedosivej až sadzovohnedej farby. Okraj zostáva hladký a nie je ryhovaný. Pri otlačení alebo poškriabaní povrch pomaly získava bledočervený až vínovočervený odtieň.",
+        hymenium: "Lupene sú pripojené až mierne zbiehavé, stredne riedke, pomerne hrubé a krehké, pričom medzi celistvými lupeňmi sa nachádzajú kratšie medzilupienky. Majú smotanovú až bledo žltkastobielu farbu, pri poranení či narezaní sa sfarbujú do červenkastoružova a nečernejú.",
+        stipe: "Hlúbik je 4–9 cm vysoký a 1,5–3 cm hrubý, robustný, valcovitý alebo smerom k báze mierne zúžený, v mladosti pevný a plný, neskôr vyplnený krehkou drobivou dužinou. Povrch je suchý, hladký alebo jemne pozdĺžne vláknitý, belavý až bledo sivohnedastý, pri manipulácii červenajúci a v starobe tmavnúci do dymovohnedej. Chýba mu prsteň aj pošva.",
+        flesh: "Dužina je hrubá, pevná, krehká a biela, pričom po narezaní alebo na poranených miestach v priebehu niekoľkých minút na vzduchu nápadne ružovie až vínovočervenie, no nikdy nečernie. Vôňa je slabá, nevýrazná a chuť je mierna.",
+        sporePrint: "Biely. Výtrusy sú široko elipsoidné až takmer guľovité, s rozmermi 7–9,5 × 6–8 μm, pokryté amyloidnými bradavkami spojenými jemnými líniami do čiastočnej sieťky.",
+        habitat: "Rastie jednotlivo, roztrúsene alebo v menších skupinách na zemi v teplých listnatých a zmiešaných lesoch, kde tvorí ektomykorízu s bukovitými drevinami (najmä rodmi Castanopsis, Quercus a Lithocarpus), ako aj s borovicami. Plodnice vyrastajú od júna do októbra po výdatných monzúnových dažďoch.",
+        uses: "Smrteľne jedovatá huba. Požitie vyvoláva prudkú nevoľnosť, vracanie a hnačky v priebehu tridsiatich minút až dvoch hodín, po ktorých nasleduje ťažká generalizovaná rabdomyolýza – masívny rozpad kostrového svalstva. Tento stav často vedie k akútnemu zlyhaniu obličiek, hyperkaliémii, zástave srdca, zlyhaniu dýchania a smrti. Primárnym mykotoxínom je kyselina cykloprop-2-énkarboxylová.",
+        confusion: "Podobá sa na plávku černastú (Russula nigricans), ktorej dužina na reze síce najprv červenie, no do dvadsiatich minút nezvratne černie, a má výrazne redšie lupene. Podobne aj plávka hustolupenová (Russula densifolia) mení farbu dužiny z červenej na čiernu a vyznačuje sa podstatne hustejšími lupeňmi. Plávka bieločierna (Russula albonigra) černie priamo bez počiatočnej červenej fázy. Severoamerická Russula eccentrica síce na reze červenie a neskôr sivohnedne, no neobsahuje cyklopropénové toxíny a nespôsobuje rabdomyolýzu.",
+        notes: "Príčina smrteľnej mykotoxikózy tohto druhu bola objasnená v roku 2009 izoláciou kyseliny cykloprop-2-énkarboxylovej, mimoriadne reaktívnej nízkomolekulárnej zlúčeniny, ktorá spúšťa deštrukciu kostrových svalových vlákien. Na smrteľnú otravu človeka postačuje zlomok jedinej plodnice a úmrtnosť pri zdokumentovaných otravách v Japonsku a južnej Číne presahuje päťdesiat percent."
+      }
+    },
+    sources: {
+      en: [
+        {
+          group: "text",
+          name: "Wikipedia (en)",
+          href: "https://en.wikipedia.org/wiki/Russula_subnigricans"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=305414",
+          detail: "305414"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/305414",
+          detail: "305414"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/3359054",
+          detail: "3359054"
+        }
+      ],
+      sk: []
+    },
+    synonyms: []
+  };
+
+  var CATALOG = [SPECIES, AMANITA, CHANTERELLE, RETICULATUS, PROCERA, PHALLOIDES, PANTHERINA, MORCHELLA, PLEUROTUS, LAETIPORUS, IMLERIA, ARMILLARIA, COPRINUS, GYROMITRA, RUBESCENS, HYPHOLOMA, AGARICUS, LECCINUM, SUILLUS, LACTARIUS, VIROSA, RUBROBOLETUS, CORTINARIUS, CRATERELLUS, FISTULINA, NEOBOLETUS, CALOCYBE, INOSPERMA, HYDNUM, SARCODON, RUSSULA, KUEHNEROMYCES, GALERINA, SPARASSIS, PAXILLUS, LEPISTA, ARTOMYCES, POLYPORUS, ALBOSTIPITATUM, HYGROPHOROPSIS, ENTOLOMA, PHALLUS, FOMES, AURICULARIA, TYLOPILUS, CHLOROPHYLLUM, EMETICA, TRICHOLOMA, LYCOPERDON, AURANTIACUM, CITRINA, PARDINUM, CALVATIA, CLITOCYBE, TRAMETES, PINOPHILUS, CALOBOLETUS, XEROCOMUS, VERSIPLLE, DURIUSCULUM, PLEUROCYBELLA, BISPORIGERA, BRUNNEOINCARNATA, VERNA, SUBNIGRICANS];
 
   // Field key. Underside is species.hymenium. Season is the fruiting months.
   // where: wood, ground (with trees), grass. color uses the cap colours the text names.
@@ -17790,6 +18235,7 @@ import {
     "Suillus luteus": { where: ["ground"], color: ["brown"] },
     "Lactarius deliciosus": { where: ["ground"], color: ["yellow", "red"] },
     "Amanita virosa": { where: ["ground"], color: ["white"] },
+    "Amanita verna": { where: ["ground"], color: ["white"] },
     "Rubroboletus satanas": { where: ["ground"], color: ["white", "green", "brown"] },
     "Cortinarius rubellus": { where: ["ground"], color: ["brown", "yellow"] },
     "Craterellus cornucopioides": { where: ["ground"], color: ["dark", "brown"] },
@@ -17830,7 +18276,9 @@ import {
     "Leccinum versipelle": { where: ["ground"], color: ["yellow", "brown", "red", "white"] },
     "Leccinum duriusculum": { where: ["ground"], color: ["brown", "dark"] },
     "Pleurocybella porrigens": { where: ["wood"], color: ["white", "yellow"] },
-    "Amanita bisporigera": { where: ["ground"], color: ["white"] }
+    "Amanita bisporigera": { where: ["ground"], color: ["white"] },
+    "Lepiota brunneoincarnata": { where: ["ground", "grass"], color: ["brown", "white", "red"] },
+    "Russula subnigricans": { where: ["ground"], color: ["white", "brown", "dark"] }
   };
 
   var LANGS = [
@@ -17888,12 +18336,14 @@ import {
   }
 
   function displayName(label, fallback, lang) {
-    var value = String(label || fallback || "").trim();
-    if (!value) return "";
-    if (lang === "sk" || lang === "cs" || lang === "pl" || lang === "uk" || lang === "ru") {
-      return value.charAt(0).toLocaleLowerCase() + value.slice(1);
+    var raw = label ? String(label).trim() : "";
+    if (raw) {
+      if (lang === "sk" || lang === "cs" || lang === "pl" || lang === "uk" || lang === "ru") {
+        return raw.charAt(0).toLocaleLowerCase() + raw.slice(1);
+      }
+      return raw;
     }
-    return value;
+    return String(fallback || "").trim();
   }
 
   function countLabel(n, lang) {
@@ -18474,16 +18924,19 @@ import {
   }
 
   function cell(species, lang, third, spoken, mark) {
-    var label = displayName(species.label[lang], species.name, lang);
+    var raw = species.label && species.label[lang] ? String(species.label[lang]).trim() : "";
+    var label = raw ? displayName(raw, "", lang) : "";
     var badge = mark && mark.text
       ? '<div class="year' + (mark.state ? " state" : "") + '">' + esc(mark.text) + "</div>"
       : "";
+    var alt = label ? esc(label + ", " + species.name) : esc(species.name);
     return (
       '<a class="cell" href="' + href("/mushroom/" + encodeURIComponent(species.name), lang) + '">' +
-        '<div class="art"><img src="' + species.plateGrid + '" alt="' + esc(label + ", " + species.name) + '"></div>' +
+        '<div class="art"><img src="' + species.plateGrid + '" alt="' + alt + '"></div>' +
         badge +
-        '<div class="n">' + esc(label) + "</div>" +
-        '<div class="l latin">' + esc(species.name) + "</div>" +
+        (label
+          ? '<div class="n">' + esc(label) + '</div><div class="l latin">' + esc(species.name) + "</div>"
+          : '<div class="n latin">' + esc(species.name) + "</div>") +
         '<div class="g' + (spoken ? " spoken" : "") + '">' + esc(third) + "</div>" +
       "</a>"
     );
@@ -18709,9 +19162,15 @@ import {
     return hits.map(function (hit) {
       if (hit.kind === "mushroom") {
         var familySpoken = taxonLabel(hit.family, lang);
+        var raw = hit.label ? String(hit.label).trim() : "";
+        var spoken = raw ? displayName(raw, "", lang) : "";
         return (
           '<a class="result" href="' + href("/mushroom/" + encodeURIComponent(hit.name), lang) + '">' +
-            "<span><b>" + esc(displayName(hit.label, hit.name, lang)) + '</b> <span class="latin">' + esc(hit.name) + "</span></span>" +
+            "<span>" +
+              (spoken
+                ? "<b>" + esc(spoken) + '</b> <span class="latin">' + esc(hit.name) + "</span>"
+                : '<b class="latin">' + esc(hit.name) + "</b>") +
+            "</span>" +
             '<span class="muted">' + esc(familySpoken ? displayName(familySpoken, "", lang) : hit.family) + "</span>" +
           "</a>"
         );
@@ -18917,7 +19376,10 @@ import {
   function sourcesColumn(species, lang) {
     var copy = t(lang);
     var grouped = { name: [], text: [] };
-    (species.sources[lang] || []).forEach(function (item) {
+    var sources = (species.sources && species.sources[lang] && species.sources[lang].length)
+      ? species.sources[lang]
+      : ((species.sources && species.sources.en) || []);
+    sources.forEach(function (item) {
       (grouped[item.group] || grouped.text).push(item);
     });
     var columns = sourceColumn(copy.sourcesName, grouped.name) + sourceColumn(copy.sourcesText, grouped.text);
@@ -19038,17 +19500,47 @@ import {
     paintLightbox();
   }
 
+  function mushroomText(species, lang) {
+    var texts = (species && species.text) || {};
+    var own = texts[lang];
+    var en = texts.en || {};
+    if (!own) return en;
+    function pick(field) {
+      var val = own[field];
+      if (val && String(val).trim()) return val;
+      return en[field] || "";
+    }
+    return {
+      description: pick("description"),
+      cap: pick("cap"),
+      hymenium: pick("hymenium"),
+      stipe: pick("stipe"),
+      flesh: pick("flesh"),
+      sporePrint: pick("sporePrint"),
+      habitat: pick("habitat"),
+      uses: pick("uses"),
+      confusion: pick("confusion"),
+      notes: pick("notes")
+    };
+  }
+
   function mushroomPage(lang, key) {
     var copy = t(lang);
     var species = findSpecies(key);
     if (!species) return missing(lang);
-    var text = species.text[lang] || {};
-    var label = displayName(species.label[lang], species.name, lang);
+    var text = mushroomText(species, lang);
+    var raw = species.label && species.label[lang] ? String(species.label[lang]).trim() : "";
+    var spoken = raw ? displayName(raw, "", lang) : "";
     var familySpoken = taxonLabel(species.family, lang);
     var orderSpoken = taxonLabel(species.order, lang);
     var genusSpoken = taxonLabel(species.genus, lang);
     var aka = species.names[lang] || [];
     var edible = species.edibility === "choice" || species.edibility === "edible" || species.edibility === "edible_with_caution";
+    var heading = spoken
+      ? '<h1 class="common">' + esc(spoken) + "</h1>" +
+        '<div class="binomen latin">' + esc(species.name) + ' <span class="author">' + esc(species.author) + "</span></div>"
+      : '<h1 class="common latin">' + esc(species.name) + ' <span class="author">' + esc(species.author) + "</span></h1>";
+    var plateAlt = spoken ? esc(spoken + ", " + species.name) : esc(species.name);
     var page =
       '<div class="page">' +
         '<div class="crumb">' +
@@ -19059,11 +19551,10 @@ import {
           '<span class="here latin">' + esc(species.name) + "</span>" +
         "</div>" +
         '<section class="spread">' +
-          '<div class="plate"><img src="' + species.plate + '" alt="' + esc(label + ", " + species.name) + '"><div class="cap">' + esc(copy.plate) + "</div></div>" +
+          '<div class="plate"><img src="' + species.plate + '" alt="' + plateAlt + '"><div class="cap">' + esc(copy.plate) + "</div></div>" +
           '<div class="copy">' +
             '<div class="kicker">' + esc(species.family) + " · " + esc(species.order) + "</div>" +
-            '<h1 class="common">' + esc(label) + "</h1>" +
-            '<div class="binomen latin">' + esc(species.name) + ' <span class="author">' + esc(species.author) + "</span></div>" +
+            heading +
             (aka.length ? '<div class="aka">' + esc(copy.also) + " " + esc(aka.join(", ")) + "</div>" : "") +
             '<div class="facts">' +
               (capMeasure(species, copy) ? '<div class="fact"><div class="k">' + esc(copy.cap) + '</div><div class="v">' + esc(capMeasure(species, copy)) + "</div></div>" : "") +
@@ -19085,8 +19576,9 @@ import {
         photoBand(species, lang) +
         taxonomyBand(species, lang) +
       "</div>";
+    var head = spoken ? spoken + " (" + species.name + ")" : species.name;
     return {
-      title: label + " (" + species.name + ") — " + copy.app,
+      title: head + " — " + copy.app,
       description: text.description || "",
       image: species.plate,
       html: shell(lang, page, true)
@@ -19098,9 +19590,10 @@ import {
   function aboutPage(lang) {
     var copy = t(lang);
     var species = findSpecies(ABOUT_SPECIES);
-    var label = species ? displayName(species.label[lang], species.name, lang) : "";
+    var raw = species && species.label && species.label[lang] ? String(species.label[lang]).trim() : "";
+    var label = raw ? displayName(raw, "", lang) : "";
     var toSpecies = species ? href("/mushroom/" + encodeURIComponent(species.name), lang) : "";
-    var alt = species ? label + ", " + species.name : "";
+    var alt = species ? (label ? label + ", " + species.name : species.name) : "";
     var photos = "";
     if (species) {
       photos = species.photos.slice(0, 3).map(function (photo) {
