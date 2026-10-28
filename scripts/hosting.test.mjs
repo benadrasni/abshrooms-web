@@ -2,7 +2,7 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import test from 'node:test';
 import { jsonLdScript, renderNotFound } from './generate_seo.js';
-import { viewModel } from '../catalog.js';
+import { COPY, viewModel } from '../catalog.js';
 
 const TEMPLATE = `<!DOCTYPE html>
 <html lang="en">
@@ -29,6 +29,9 @@ test('the generated 404 shell is a real not-found page', () => {
   const html = renderNotFound(TEMPLATE);
   assert.match(html, /<title>What's that mushroom\?<\/title>/);
   assert.match(html, /name="description" content="That page is not in the catalog\."/);
+  const missing = viewModel({ lang: 'en', view: 'missing', search: '' });
+  assert.equal(missing.description, COPY.en.missing);
+  assert.equal(viewModel({ lang: 'sk', view: 'missing', search: '' }).description, COPY.sk.missing);
   assert.match(html, /name="robots" content="noindex"/);
   assert.match(html, /<div id="app"><\/div><noscript><p>That page is not in the catalog\.<\/p><\/noscript>/);
   assert.match(html, /src="\/assets\/index\.js"/);
@@ -74,6 +77,8 @@ test('the content security policy allows json-ld, list styles, and self-hosted f
   const catalog = fs.readFileSync(new URL('../catalog.js', import.meta.url), 'utf8');
   assert.match(catalog, /addEventListener\(\s*"error"/);
   assert.doesNotMatch(catalog, /onerror=/);
+  assert.match(catalog, /src="' \+ esc\(species\.plateGrid\) \+ '"/);
+  assert.match(catalog, /src="' \+ esc\(list\.cover\.plateGrid\) \+ '"/);
   const html = fs.readFileSync(new URL('../index.html', import.meta.url), 'utf8');
   const css = fs.readFileSync(new URL('../styles.css', import.meta.url), 'utf8');
   assert.doesNotMatch(html, /fonts\.googleapis\.com|fonts\.gstatic\.com/);

@@ -713,7 +713,13 @@ export const LISTS = [
         "name": "Gyromitra esculenta"
       },
       {
-        "name": "Tricholoma equestre"
+        "name": "Cortinarius rubellus"
+      },
+      {
+        "name": "Inosperma erubescens"
+      },
+      {
+        "name": "Galerina marginata"
       },
       {
         "name": "Russula subnigricans"

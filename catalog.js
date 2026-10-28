@@ -553,7 +553,7 @@ function cell(species, lang, third, spoken, mark) {
   var alt = label ? esc(label + ", " + species.name) : esc(species.name);
   return (
     '<a class="cell" href="' + href("/mushroom/" + encodeURIComponent(species.name), lang) + '">' +
-      '<div class="art"><img src="' + species.plateGrid + '" alt="' + alt + '"></div>' +
+      '<div class="art"><img src="' + esc(species.plateGrid) + '" alt="' + alt + '"></div>' +
       badge +
       (label
         ? '<div class="n">' + esc(label) + '</div><div class="l latin">' + esc(species.name) + "</div>"
@@ -681,7 +681,7 @@ function listsHtml(lang) {
   if (!lists.length) return "";
   var cards = lists.map(function (list) {
     var art = list.cover
-      ? '<div class="art"><img src="' + list.cover.plateGrid + '" alt=""></div>'
+      ? '<div class="art"><img src="' + esc(list.cover.plateGrid) + '" alt=""></div>'
       : '<div class="art"></div>';
     return (
       '<a class="cell" href="' + href("/list/" + encodeURIComponent(list.id), lang) + '">' +
@@ -1377,7 +1377,7 @@ function privacyPage(lang) {
 function missing(lang) {
   var copy = t(lang);
   var page = '<div class="page"><p class="center-msg">' + esc(copy.missing) + ' <a href="' + href("/", lang) + '">' + esc(copy.nav) + "</a></p></div>";
-  return { title: copy.app, description: copy.homeDesc, html: shell(lang, page, false) };
+  return { title: copy.app, description: copy.missing, html: shell(lang, page, false) };
 }
 
 function viewModel(route) {

@@ -1,6 +1,6 @@
 import assert from 'node:assert/strict';
 import test from 'node:test';
-import { listSpecies, parse, viewModel, visibleListIds } from '../catalog.js';
+import { CATALOG, listSpecies, parse, viewModel, visibleListIds } from '../catalog.js';
 
 test('the home page shows the lists for that language', () => {
   assert.deepEqual(visibleListIds('en'), ['us-state-mushrooms', 'deadly-poisonous']);
@@ -43,6 +43,16 @@ test('a list page shows catalog species and skips the rest', () => {
   const names = listSpecies('deadly-poisonous').map((row) => row.name);
   assert.deepEqual(names.slice(0, 3), ['Amanita phalloides', 'Amanita virosa', 'Amanita bisporigera']);
   assert.equal(names.at(-1), 'Pleurocybella porrigens');
+  assert.match(page.html, /Cortinarius rubellus/);
+  assert.match(page.html, /Inosperma erubescens/);
+  assert.match(page.html, /Galerina marginata/);
+  assert.doesNotMatch(page.html, /Tricholoma equestre/);
+});
+
+test('the deadly list matches species marked deadly', () => {
+  const listed = listSpecies('deadly-poisonous').map((row) => row.name).sort();
+  const marked = CATALOG.filter((species) => species.edibility === 'deadly').map((species) => species.name).sort();
+  assert.deepEqual(listed, marked);
 });
 
 test('region lists sort by place and year lists put the newest year first', () => {
@@ -58,8 +68,8 @@ test('region lists sort by place and year lists put the newest year first', () =
   assert.ok(html.indexOf('Minnesota') < html.indexOf('Utah'));
 
   const years = listSpecies('mushroom-of-the-year-de');
-  assert.equal(years[0].name, 'Coprinus comatus');
-  assert.equal(years[0].year, 2024);
+  assert.equal(years[0].name, 'Hericium erinaceus');
+  assert.equal(years[0].year, 2026);
   assert.equal(years.at(-1).name, 'Leccinum aurantiacum');
   assert.equal(years.at(-1).year, 1994);
   assert.ok(years.length < 34);
@@ -90,6 +100,6 @@ test('mushroom page falls back to English when text for language is missing', ()
 
   const skAuricularia = viewModel({ lang: 'sk', view: 'mushroom', key: 'Auricularia auricula-judae', search: '' });
   assert.ok(skAuricularia.description.length > 0);
-  assert.match(skAuricularia.description, /^A wood-rotting jelly fungus/);
-  assert.match(skAuricularia.html, /A wood-rotting jelly fungus/);
+  assert.match(skAuricularia.description, /^Drevokazná rôsolovitá huba/);
+  assert.match(skAuricularia.html, /Drevokazná rôsolovitá huba/);
 });

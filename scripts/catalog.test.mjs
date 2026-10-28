@@ -201,7 +201,8 @@ test('about and privacy follow the language record', () => {
       }).format(new Date(year, month - 1, day));
       assert.ok(home.html.includes(esc(formatted)), `${language.code} ${formatted}`);
     } else {
-      assert.ok(home.html.includes(esc(copy.today)), `${language.code} today`);
+      const label = recent.some((species) => species.added === today) ? copy.today : copy.yesterday;
+      assert.ok(home.html.includes(esc(label)), `${language.code} ${label}`);
     }
   }
 
