@@ -62,7 +62,7 @@ function pluralRomanian(n) {
   return "many";
 }
 
-export const LANGUAGES = [
+const LANGUAGES = [
   {
     code: "ar",
     name: "العربية",
