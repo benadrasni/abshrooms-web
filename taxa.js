@@ -481,5 +481,19 @@ export const TAXA = {
   Gomphales: {
     rank: "order",
     sk: "lievikovcotvaré"
+  },
+  Serpulaceae: {
+    rank: "family",
+    sk: "drevokazovité"
+  },
+  Serpula: {
+    rank: "genus"
+  },
+  Tuberaceae: {
+    rank: "family",
+    sk: "hľuzovkovité"
+  },
+  Choiromyces: {
+    rank: "genus"
   }
 };

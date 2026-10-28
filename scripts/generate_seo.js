@@ -15,6 +15,7 @@ import {
   viewModel,
   visibleListIds,
 } from '../catalog.js';
+import { appleSmartBanner } from '../src/appLink.mjs';
 
 const SITE = 'https://whatsthatmushroom.app';
 const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -107,6 +108,13 @@ function inject(template, opts) {
     /<html lang="[^"]*"(?: dir="[^"]*")?>/,
     '<html lang="' + lang + '" dir="' + language.dir + '">'
   );
+  const parts = opts.parts || [];
+  if (parts[0] === 'mushroom' && parts.length > 1) {
+    html = html.replace(
+      '<meta name="apple-itunes-app" content="app-id=6826707489">',
+      '<meta name="apple-itunes-app" content="' + escapeHtml(appleSmartBanner(opts.url)) + '">'
+    );
+  }
   html = html.replace(/<title>[^<]*<\/title>/, '<title>' + title + '</title>');
   html = html.replace(
     /<meta name="description" content="[^"]*">/,

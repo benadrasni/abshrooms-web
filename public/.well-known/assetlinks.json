@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "sk.ab.shrooms",
+      "sha256_cert_fingerprints": [
+        "39:CE:C3:59:3F:D9:55:CE:97:46:0E:7C:5B:39:AF:13:D5:B3:D8:DD:11:12:DF:CE:E6:F7:04:5D:96:CD:10:D2",
+        "0A:81:99:42:5F:1B:99:8B:EF:84:05:76:3E:00:8F:F8:88:E1:64:F8:33:DF:57:03:DA:EC:E4:D1:79:F8:79:62"
+      ]
+    }
+  }
+]

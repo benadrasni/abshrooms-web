@@ -16812,5 +16812,695 @@ export const CATALOG = [
       "Lepista saeva (Fr.) P.D. Orton",
       "Clitocybe saeva (Fr.) H.E. Bigelow & A.H. Sm."
     ]
+  },
+  {
+    id: 80,
+    name: "Serpula lacrymans",
+    author: "(Wulfen) J. Schröt.",
+    family: "Serpulaceae",
+    genus: "Serpula",
+    order: "Boletales",
+    edibility: "inedible",
+    hymenium: "pits",
+    where: [
+      "wood"
+    ],
+    color: [
+      "white",
+      "yellow",
+      "brown",
+      "red",
+      "dark"
+    ],
+    path: [
+      "Fungi",
+      "Dikarya",
+      "Basidiomycota",
+      "Agaricomycotina",
+      "Agaricomycetes",
+      "Agaricomycetidae",
+      "Boletales",
+      "Serpulaceae",
+      "Serpula"
+    ],
+    summary: [
+      "Boletales",
+      "Serpulaceae",
+      "Serpula"
+    ],
+    added: "2026-10-28",
+    plate: STORAGE + "photos/Boletales/Serpulaceae/Serpula_lacrymans/Serpula_lacrymans@1600.webp",
+    plateGrid: STORAGE + "photos/Boletales/Serpulaceae/Serpula_lacrymans/Serpula_lacrymans@400.webp",
+    plateCredit: {
+      author: "L. Dufour",
+      license: "public domain",
+      source: "https://www.viagallica.com/f/_champignons_-_planches_dufour/champignons_-_planche_dufour_065.htm"
+    },
+    photos: [
+      {
+        src: STORAGE + "photos/Boletales/Serpulaceae/Serpula_lacrymans/sl1.webp",
+        author: "Ralf Roletschek",
+        license: "GFDL 1.2",
+        licenseUrl: "https://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+        source: "https://commons.wikimedia.org/wiki/File:Holzschaedlinge-38.jpg"
+      },
+      {
+        src: STORAGE + "photos/Boletales/Serpulaceae/Serpula_lacrymans/sl2.webp",
+        author: "Epp",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:2011-10-27_Serpula_lacrymans_cropped.jpg"
+      },
+      {
+        src: STORAGE + "photos/Boletales/Serpulaceae/Serpula_lacrymans/sl3.webp",
+        author: "Ralf Roletschek",
+        license: "GFDL 1.2",
+        licenseUrl: "https://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+        source: "https://commons.wikimedia.org/wiki/File:Holzschaedlinge-37.jpg"
+      },
+      {
+        src: STORAGE + "photos/Boletales/Serpulaceae/Serpula_lacrymans/sl4.webp",
+        author: "Verber31",
+        license: "CC BY 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:M%C3%A9rule.jpg"
+      }
+    ],
+    capFrom: 5,
+    capTo: 50,
+    fruitingFrom: 1,
+    fruitingTo: 12,
+    label: {
+      en: "dry rot fungus",
+      sk: "drevokaz slzivý"
+    },
+    names: {
+      en: [
+        "dry rot",
+        "house fungus",
+        "true dry rot"
+      ]
+    },
+    text: {
+      en: {
+        description: "A thick annual brown-rot crust of worked timber in houses and other buildings, saprotrophic on dead wood and only rarely found on wood outdoors. It is widespread through temperate Europe, including Britain and Ireland, and through cooler parts of Asia, North America, Australia, New Zealand, and Oceania.",
+        cap: "The fruit body is annual and usually a resupinate sheet, attached directly to timber or to plaster and masonry. The width is commonly 5–50 cm. Many central-European fruit bodies stay within 5–30 cm, and fused sheets reach about 1 m, or about 2 m in one account. The thickness is usually 2–12 mm and often 5–10 mm. One account finds most fruit bodies only 1–5 mm thick, with an upper extreme near 3 cm. A young fruit body is cushion-like and white or yellowish. The centre then becomes the coloured hymenium, while a white, yellowish, or greyish cottony margin remains, usually to about 2 cm wide. A reflexed cap is uncommon. When one forms it mostly projects no more than about 2 cm, though occasional pilei are 2–10 cm across and up to 2 cm thick. An actively growing surface often bears watery or milky droplets. Old, dry fruit bodies turn dark brown, and the folded surface flattens.",
+        hymenium: "The surface is merulioid. Folds and wrinkles form large, irregular, labyrinthine pits, not true tubes and not gills. The colour is yellow-orange to rusty yellow when young, then rust, red-brown, brown, or dark brown, and sometimes olive-brown. The pits are large, about 1–2 mm across. Cystidia are absent. Hyphoid cystidioles may be present. The basidia are clavate, about 30–60 × 5–8 μm, with four sterigmata and a basal clamp.",
+        stipe: "There is no stipe. The fruit body is attached directly. A short reflexed bracket is uncommon.",
+        flesh: "The flesh is whitish to greyish white, soft, spongy, and elastic. The smell is mushroomy when young, sometimes strong indoors, and it becomes unpleasant with age. One account calls it damp and rotten. The taste is mild. The hyphal system is dimitic. Generative hyphae are clamped, thin-walled, and 2–4 μm wide. The subhymenial hyphae sit in a gelatinous matrix. Skeletal hyphae are more frequent in the cords. They are thick-walled, 2–4 μm wide, and cyanophilous. The decay is a brown cubical rot. The fungus degrades cellulose and hemicellulose and leaves the lignin, so the wood darkens, cracks into cubes, and finally powders.",
+        sporePrint: "The deposit is yellow-brown to brown or rust-brown, and a heavy fall can dust nearby surfaces. The spores are narrowly ellipsoid to ellipsoid, smooth, thick-walled, and yellowish. Some have drops and a small apiculus. Published measurements run about 8–12 × 4.5–6 μm. One monograph gives 9–12 × 5–6 μm and describes the spores as not dextrinoid and cyanophilous. Another gives 9–11 × 4.5–5.5 μm, with up to five oil drops.",
+        habitat: "Fruit bodies form all year in buildings. Fresh ones are reported mainly from spring through autumn, and in heated buildings also in winter, with one account placing the main flush from late summer into winter. They grow on beams, floors, joists, doors, roof timbers, cellar wood, and timber in unventilated lofts and mines. Soft conifer wood, especially pine, is the usual host. Hardwood is uncommon. The fungus also colonises paper, textiles, particle board, straw, and reed. Mycelial cords cross plaster, brick, poor mortar, and porous concrete, and a fruit body can form on those surfaces. It needs damp, shaded, still air. Fruiting is favoured when the wood holds about 30–40 percent moisture. Growth is reported from about 3 to 26°C, with an optimum near 21–22°C, and it stops above about 26°C. The cords can carry water from a damp source across masonry toward drier timber, and one account says the fungus also produces water as it decays the wood. Accounts differ on whether decay can begin below about 20 percent wood moisture. The rot often continues when no fruit body is visible. Outdoors it is rare, on natural wood in the Himalayas, northern California, the Czech Republic, and East Asia.",
+        confusion: "Serpula himantioides has smaller and thinner fruit bodies. It grows on dead conifer wood in forests and on untreated timber outdoors. Coniophora puteana occurs in forests and in buildings. Its hymenium is smooth and is usually dusted with spores.",
+        notes: "This is the most damaging destroyer of indoor wood in temperate regions. The brown cubical rot can advance through floors, joists, and roof timbers before a fruit body appears. The cords cross masonry, so the decay is often far from the damp source. Two lineages are known. One is a less aggressive wild lineage in North America. The other is aggressive, in nature and in buildings, and it occurs on several continents. Wild fruit bodies are rare. A 1991 account put the annual cost of repairing this decay in the United Kingdom at least at £150 million. Old fruit bodies and mycelium can release irritating nitrogen compounds, and headaches, nausea, and dizziness have been reported."
+      },
+      sk: {
+        description: "Hrubá jednoročná drevokazná huba opracovaného dreva v domoch a iných budovách, s hnedou hnilobou, saprotrofná na mŕtvom dreve a len zriedka na dreve vonku. Je rozšírená v miernom pásme Európy vrátane Británie a Írska a v chladnejších častiach Ázie, Severnej Ameriky, Austrálie, Nového Zélandu a Oceánie.",
+        cap: "Plodnica je jednoročná a zvyčajne rozliaty povlak, prirastený priamo na drevo alebo na omietku a murivo. Šírka je zvyčajne 5–50 cm. Mnohé stredoeurópske plodnice ostávajú v rozpätí 5–30 cm a zrastené povlaky dosahujú asi 1 m, podľa jedného opisu asi 2 m. Hrúbka je zvyčajne 2–12 mm a často 5–10 mm. Jeden opis nachádza väčšinu plodníc hrubých len 1–5 mm. Horná hranica je pri 3 cm. Mladá plodnica je vankúšikovitá a biela alebo žltkastá. Stred sa potom stáva sfarbeným hyméniom a ostáva biely, žltkastý alebo sivastý vatovitý okraj, zvyčajne široký asi do 2 cm. Odstávajúci klobúk je neobvyklý. Keď vznikne, väčšinou vyčnieva najviac asi 2 cm, hoci jednotlivé klobúky majú naprieč 2–10 cm a sú hrubé až 2 cm. Na aktívne rastúcom povrchu bývajú vodnaté alebo mliečne kvapôčky. Staré suché plodnice tmavohnednú a zriasnený povrch sa splošťuje.",
+        hymenium: "Povrch je merulioidný. Záhyby a vrásky tvoria veľké nepravidelné labyrintové jamky. Nie sú to pravé rúrky ani lupene. Farba je za mladi žltooranžová až hrdzavožltá, potom hrdzavá, červenohnedá, hnedá alebo tmavohnedá a niekedy olivovohnedá. Jamky sú veľké, asi 1–2 mm. Cystidy chýbajú. Hyfovité cystidioly môžu byť prítomné. Bazídiá sú kyjakovité, asi 30–60 × 5–8 μm, so štyrmi sterigmami a s bazálnou spônkou.",
+        stipe: "Hlúbik chýba. Plodnica je prirastená priamo. Krátky odstávajúci klobúčik je neobvyklý.",
+        flesh: "Dužina je belavá až sivobiela, mäkká, hubovitá a pružná. Vôňa je za mladi hubová, v interiéri niekedy silná, a vekom sa stáva nepríjemnou. Jeden opis ju označuje za vlhkú a hnilobnú. Chuť je mierna. Hyfový systém je dimitický. Generatívne hýfy majú spony, sú tenkostenné a široké 2–4 μm. Hýfy subhyménia ležia v želatínovitej hmote. Skeletové hýfy sú častejšie v povrazcoch. Sú hrubostenné, široké 2–4 μm a cyanofilné. Hniloba je hnedá a kockovitá. Huba rozkladá celulózu a hemicelulózu a lignín ponecháva, takže drevo tmavne, praská na kocky a napokon sa rozpadá na prach.",
+        sporePrint: "Nános je žltohnedý až hnedý alebo hrdzavohnedý a silný spad môže poprášiť blízke plochy. Výtrusy sú úzko elipsoidné až elipsoidné, hladké, hrubostenné a žltkasté. Niektoré majú kvapky a malý apikulus. Uverejnené rozmery sa pohybujú asi v rozpätí 8–12 × 4,5–6 μm. Jedna monografia uvádza 9–12 × 5–6 μm a výtrusy opisuje ako nedextrinoidné a cyanofilné. Iná uvádza 9–11 × 4,5–5,5 μm, až s piatimi olejovými kvapkami.",
+        habitat: "Plodnice sa tvoria v budovách po celý rok. Čerstvé sa uvádzajú najmä od jari do jesene a vo vykurovaných budovách aj v zime. Jeden opis kladie hlavné obdobie od neskorého leta do zimy. Rastú na trámoch, podlahách, stropniciach, dverách, strešnom dreve, dreve v pivniciach a na dreve v nevetraných povalách a baniach. Obvyklým hostiteľom je mäkké drevo ihličnanov, najmä borovica. Drevo listnáčov je neobvyklé. Huba osídľuje aj papier, textílie, drevotriesku, slamu a trstinu. Mycéliové povrazce prechádzajú omietkou, tehlou, chudobnou maltou a pórovitým betónom a plodnica sa môže vytvoriť aj na týchto povrchoch. Potrebuje vlhko, tieň a nehybný vzduch. Plodeniu praje drevo s asi 30–40 % vlhkosti. Rast sa uvádza asi od 3 do 26 °C, s optimom pri 21–22 °C, a nad asi 26 °C sa zastavuje. Povrazce môžu prenášať vodu z vlhkého zdroja cez murivo k suchšiemu drevu a jeden opis hovorí, že huba pri rozklade dreva vodu aj tvorí. Opisy sa nezhodujú v tom, či hniloba môže začať pri vlhkosti dreva pod asi 20 %. Hniloba často pokračuje, aj keď plodnica nie je viditeľná. Vonku je zriedkavá, na prírodnom dreve v Himalájach, v severnej Kalifornii, v Česku a vo východnej Ázii.",
+        confusion: "Drevokaz lesný (Serpula himantioides) má menšie a tenšie plodnice. Rastie na mŕtvom dreve ihličnanov v lesoch a na neošetrenom dreve vonku. Chrastavka pivničná (Coniophora puteana) sa vyskytuje v lesoch aj v budovách. Jej hyménium je hladké a zvyčajne poprášené výtrusmi.",
+        notes: "V miernom pásme je to najškodlivejší ničiteľ dreva v interiéroch. Hnedá kockovitá hniloba môže postupovať podlahami, stropnicami a strešným drevom skôr, ako sa objaví plodnica. Povrazce prechádzajú murivom, takže hniloba býva často ďaleko od zdroja vlhkosti. Poznáme dve línie. Jedna je menej agresívna línia z voľnej prírody v Severnej Amerike. Druhá je agresívna, v prírode aj v budovách, a vyskytuje sa na viacerých svetadieloch. Plodnice vo voľnej prírode sú zriedkavé. Na Slovensku sa najčastejšie nachádza vo vlhkých pivniciach, suterénoch a chatách. Staré plodnice a mycélium môžu uvoľňovať dráždivé dusíkaté zlúčeniny a hlásili sa bolesti hlavy, nevoľnosť a závraty."
+      }
+    },
+    sources: {
+      en: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Serpula_lacrymans"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Serpula_(fungus)"
+        },
+        {
+          group: "text",
+          name: "Rogers Mushrooms",
+          href: "https://rogersmushrooms.com/gallery/DisplayBlock~bid~6778~gid~.asp"
+        },
+        {
+          group: "text",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/details/26/53886"
+        },
+        {
+          group: "text",
+          name: "Brill",
+          href: "https://brill.com/edcollchap/book/9789086867226/BP000007.pdf"
+        },
+        {
+          group: "text",
+          name: "myko.cz",
+          href: "https://www.myko.cz/myko-atlas/Serpula-lacrymans/"
+        },
+        {
+          group: "text",
+          name: "grzyby.pl",
+          href: "https://www.grzyby.pl/gatunki/Serpula_lacrymans.htm"
+        },
+        {
+          group: "text",
+          name: "carodreva.sk",
+          href: "https://carodreva.sk/starostlivost/pozor-na-drevokazne-huby-nie-je-lahke-zbavit-sa-ich/"
+        },
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=102458",
+          detail: "102458"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=102458",
+          detail: "102458"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/102458",
+          detail: "102458"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5239534",
+          detail: "5239534"
+        }
+      ],
+      sk: [
+        {
+          group: "text",
+          name: "carodreva.sk",
+          href: "https://carodreva.sk/starostlivost/pozor-na-drevokazne-huby-nie-je-lahke-zbavit-sa-ich/",
+          detail: "drevokaz slzivý"
+        }
+      ]
+    },
+    synonyms: [
+      "Boletus lacrymans Wulfen",
+      "Merulius lacrymans (Wulfen) Schumach.",
+      "Gyrophora lacrymans (Wulfen) Pat.",
+      "Sesia lacrymans (Wulfen) P. Karst.",
+      "Gyrophana lacrymans (Wulfen) Pat.",
+      "Xylomyzon lacrymans (Wulfen) Murrill",
+      "Merulius vastator Tode",
+      "Boletus obliquus Bolton",
+      "Merulius destruens Pers.",
+      "Serpula destruens (Pers.) Gray",
+      "Xylomyzon destruens (Pers.) Pers.",
+      "Xylophagus destruens (Pers.) Link ex Krünitz",
+      "Sistotrema cellare Pers.",
+      "Xylomyzon pelliceum Pers.",
+      "Merulius lacrymabundus Link",
+      "Merulius giganteus Saut.",
+      "Sesia gigantea (Saut.) Kuntze",
+      "Merulius guillemotii Boud.",
+      "Merulius domesticus K.R. Falck",
+      "Serpula domestica (K.R. Falck) Bondartsev",
+      "Merulius terrestris Burt",
+      "Serpula terrestris (Burt) S. Ahmad",
+      "Merulius carbonarius Lloyd"
+    ]
+  },
+  {
+    id: 81,
+    name: "Choiromyces meandriformis",
+    author: "Vittad.",
+    family: "Tuberaceae",
+    genus: "Choiromyces",
+    order: "Pezizales",
+    edibility: "edible_with_caution",
+    hymenium: "gleba",
+    where: [
+      "ground",
+    ],
+    color: [
+      "white",
+      "yellow",
+      "brown",
+      "red",
+      "dark",
+    ],
+    path: [
+      "Fungi",
+      "Dikarya",
+      "Ascomycota",
+      "Pezizomycotina",
+      "Pezizomycetes",
+      "Pezizomycetidae",
+      "Pezizales",
+      "Tuberaceae",
+      "Choiromyces",
+    ],
+    summary: [
+      "Pezizales",
+      "Tuberaceae",
+      "Choiromyces",
+    ],
+    added: "2026-10-28",
+    plate: STORAGE + "photos/Pezizales/Tuberaceae/Choiromyces_meandriformis/Choiromyces_meandriformis@1600.webp",
+    plateGrid: STORAGE + "photos/Pezizales/Tuberaceae/Choiromyces_meandriformis/Choiromyces_meandriformis@400.webp",
+    plateCredit: {
+      author: "L. Dufour",
+      license: "public domain",
+      source: "https://www.viagallica.com/f/_champignons_-_planches_dufour/champignons_-_planche_dufour_080.htm",
+    },
+    photos: [
+      {
+        src: STORAGE + "photos/Pezizales/Tuberaceae/Choiromyces_meandriformis/cm1.webp",
+        author: "Holger Krisp",
+        license: "CC BY 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Stachelsporige_M%C3%A4andertr%C3%BCffel_Choiromyces_maeandriformis_1.jpg",
+      },
+      {
+        src: STORAGE + "photos/Pezizales/Tuberaceae/Choiromyces_meandriformis/cm2.webp",
+        author: "Holger Krisp",
+        license: "CC BY 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Stachelsporige_M%C3%A4andertr%C3%BCffel_Choiromyces_maeandriformis_2.jpg",
+      },
+      {
+        src: STORAGE + "photos/Pezizales/Tuberaceae/Choiromyces_meandriformis/cm3.webp",
+        author: "Ars Matevosian",
+        license: "CC0",
+        licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/",
+        source: "https://www.inaturalist.org/observations/174464187",
+      },
+      {
+        src: STORAGE + "photos/Pezizales/Tuberaceae/Choiromyces_meandriformis/cm4.webp",
+        author: "szegedigombasz",
+        license: "CC0",
+        licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/",
+        source: "https://www.inaturalist.org/observations/167657604",
+      },
+      {
+        src: STORAGE + "photos/Pezizales/Tuberaceae/Choiromyces_meandriformis/cm5.webp",
+        author: "Deutsche Gesellschaft für Mykologie",
+        license: "CC BY 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Maeandertrueffel.jpg",
+      },
+    ],
+    capFrom: 2,
+    capTo: 20,
+    fruitingFrom: 6,
+    fruitingTo: 11,
+    label: {
+      en: "white truffle",
+      sk: "bielohľuzovka obyčajná",
+    },
+    names: {
+      sk: [
+        "jelenia huba",
+        "jelienka",
+        "jelenica",
+        "zimné srdce",
+      ],
+    },
+    text: {
+      en: {
+        description: "A truffle that fruits in the soil of broadleaf and coniferous woods and often pushes its crown above the surface. It is widespread in Europe, from Britain, Spain, and Italy through central Europe to the Carpathians, and it is native in Britain.",
+        cap: "The fruit body is an irregular, potato-like tuber. It is commonly about 4–12 cm across. Published sizes run from about 2 cm to about 20 cm, and occasional fruit bodies are larger. The peridium is thin, up to about 1 mm, leathery, and not peelable. It is smooth, with broad polygonal folds, and it often cracks into patches, especially in wet weather. The colour is whitish to grey-white at first, then cream, ochre-yellow, or yellow-brown, sometimes pinkish, with reddish, rust, or dark brown spots. Slugs and insects often gnaw the surface.",
+        hymenium: "The gleba is solid and firm, with no chambers and no gills. It is whitish at first, then cream, pale yellow, greyish white, or grey. Winding veins, whitish, grey, ochre, or pale brown, meander through it. One account reads those veins as the brown fertile tissue, and another as sterile veins around the fertile areas. The asci are clavate to saccate and eight-spored, about 120–180 μm long, occasionally to 200 μm, and about 50–70 μm wide. One account calls the stalks long and another short. The asci do not stain in Melzer’s reagent.",
+        stipe: "There is no stipe.",
+        flesh: "The young gleba is firm, compact, and whitish, and it discolours as it ripens. A young fruit body has little smell, or a slight smell of garlic. At maturity the smell is strong and aromatic, compared with boiled maize, green herbs, nuts, or cheese. With age it can turn unpleasant, of garlic, of mice, or of sweaty feet. The smell grows stronger as the fruit body dries, and it draws insects and slugs, which often spoil the fruit body. The taste is mild and pleasant, nutty or like hazelnut and mushroom, and sometimes slightly hot.",
+        sporePrint: "The deposit is yellowish to cream. The ascospores are globose and yellow-brown when mature, about 15–22 μm across without the ornament. They are covered with blunt cylindrical spines, sometimes curved, about 3–6 μm high.",
+        habitat: "Fruit bodies appear from June into November, most often from July to October. They grow in coniferous, broadleaf, and mixed woods, and less often in scrub or at a wood edge, on sandy, loamy, or clay soil. The soil may be calcareous or basic, and the fungus is also recorded on more acid ground. It is ectomycorrhizal with oak, beech, hazel, fir, spruce, willow, and poplar. In the Carpathians it is recorded from about 500 to 1,200 m. The fruit bodies sit shallowly, singly or in groups, with the crown or the upper half above the soil.",
+        uses: "Young fruit bodies are eaten cooked, in small amounts, as an aromatic seasoning for soups and meat, or dried and ground. They are inferior to the true truffles. Opinions of the culinary value differ. Raw or overripe fruit bodies can cause stomach pain and vomiting, and in southern Europe the fungus is treated as a gastrointestinal irritant. In Spain it may not be sold.",
+        confusion: "Tuber magnatum is usually smaller. Its mature interior is reddish with white veins, and the smell and taste are pleasant and somewhat garlicky. Its asci hold one to three spores, occasionally four, ornamented with a wide-meshed reticulum, and it is a Mediterranean species. Immature fruit bodies of this species are sometimes sold as that truffle. A mature Scleroderma, including Scleroderma citrinum and Scleroderma verrucosum, has an almost black interior. Choiromyces magnusii is smaller, fruits in spring, has veins that do not meander, and grows under Cistus.",
+        notes: "Some accounts treat this as the same fungus as Choiromyces venosus. Immature fruit bodies are sometimes sold as Tuber magnatum. In Germany a 1992 assessment placed it in category 2, and a later list places it in category 3. In 2001 it was named mushroom of the year there, to draw attention to fungi that fruit underground. In Germany it is known mainly from the Alpine foothills and the uplands, and it is missing from the northern plain.",
+      },
+      sk: {
+        description: "Hľuzovitá huba, ktorá plodí v pôde listnatých a ihličnatých lesov a temeno často vytláča nad povrch. V Európe je rozšírená od Británie, Španielska a Talianska cez strednú Európu po Karpaty a v Británii je pôvodná.",
+        cap: "Plodnica je nepravidelná hľuza podobná zemiaku. Bežne meria asi 4–12 cm. Uverejnené rozmery siahajú asi od 2 cm do 20 cm a ojedinele je ešte väčšia. Perídium je tenké, hrubé najviac asi 1 mm, kožovité a nedá sa olúpať. Povrch je hladký, s širokými mnohouholníkovými záhybmi, a najmä za vlhkého počasia sa často rozpukáva na políčka. Najprv je belavý až sivobiely, neskôr krémový, okrovožltý alebo žltohnedý, niekedy ružovkastý, s červenkastými, hrdzavými alebo tmavohnedými škvrnami. Slimáky a hmyz povrch často obhrýzajú.",
+        hymenium: "Gléba je celistvá a pevná, bez komôrok a bez lupeňov. Najprv je belavá, neskôr krémová, bledožltá, belavosivá alebo sivá. Vinú sa ňou kľukaté žilky, belavé, sivé, okrové alebo bledohnedé. Podľa jedného výkladu sú tieto žilky hnedým plodným pletivom a podľa druhého sterilnými žilkami okolo plodných plôch. Vrecká sú kyjakovité až vakovité a osemvýtrusové, dlhé asi 120–180 μm, výnimočne až 200 μm, a široké asi 50–70 μm. Podľa jedného údaja sú ich stopky dlhé a podľa druhého krátke. V Melzerovom činidle sa vrecká nezafarbujú.",
+        stipe: "Hlúbik chýba.",
+        flesh: "Mladá gléba je pevná, kompaktná a belavá a dozrievaním mení farbu. Mladá plodnica takmer nevoní alebo slabo vonia po cesnaku. V zrelosti je vôňa silná a aromatická a pripomína varenú kukuricu, zelené byliny, orechy alebo syr. Vekom môže byť nepríjemná, po cesnaku, po myšiach alebo po spotených nohách. Keď plodnica vysychá, vôňa silnie a láka hmyz a slimáky, ktoré ju často poškodia. Chuť je mierna a príjemná, oriešková alebo ako lieskový orech a huba, a niekedy mierne pálivá.",
+        sporePrint: "Výtrusný prach je žltkastý až krémový. Askospóry sú guľovité a v zrelosti žltohnedé, bez ornamentiky v priemere asi 15–22 μm. Pokrývajú ich tupé valcovité ostne, niekedy zakrivené, vysoké asi 3–6 μm.",
+        habitat: "Plodnice sa objavujú od júna do novembra, najčastejšie od júla do októbra. Rastú v ihličnatých, listnatých a zmiešaných lesoch, zriedkavejšie v krovinách alebo na okraji lesa, na piesočnatej, hlinitéj alebo ílovitej pôde. Pôda môže byť vápnitá alebo zásaditá a huba je zaznamenaná aj na kyslejšom podklade. Je ektomykorízna s dubom, bukom, lieskou, jedľou, smrekom, vŕbou a topoľom. V Karpatoch sa udáva asi od 500 do 1 200 m. Plodnice ležia plytko, jednotlivo alebo v skupinách, a nad pôdu vyčnieva temeno alebo horná polovica.",
+        uses: "Mladé plodnice sa jedia tepelne upravené a v malom množstve, ako aromatické korenie do polievok a k mäsu, alebo sa sušia a melú. Pravým hľuzovkám sa nevyrovnajú. Názory na kuchynskú hodnotu sa rozchádzajú. Surové alebo prezreté plodnice môžu spôsobiť bolesť žalúdka a vracanie a v južnej Európe sa huba pokladá za dráždidlo tráviaceho traktu. V Španielsku sa nesmie predávať.",
+        confusion: "Hľuzovka belavá (Tuber magnatum) je zvyčajne menšia. Jej zrelé vnútro je červenkasté s bielymi žilkami a vôňa aj chuť sú príjemné a trochu cesnakové. Vrecká nesú jeden až tri výtrusy, výnimočne štyri, so širokookou sieťkou, a ide o stredomorský druh. Nedozreté plodnice tejto huby sa niekedy predávajú ako hľuzovka belavá. Zrelý pestrec (Scleroderma), vrátane pestrecca obyčajného (Scleroderma citrinum) a pestrecca bradavičnatého (Scleroderma verrucosum), má vnútro takmer čierne. Choiromyces magnusii je menšia, plodí na jar, jej žilky sa nekľukatia a rastie pod Cistus.",
+        notes: "Niektoré opisy pokladajú túto hubu za totožnú s Choiromyces venosus. Nedozreté plodnice sa niekedy predávajú ako Tuber magnatum. V Nemecku ju hodnotenie z roku 1992 zaradilo do kategórie 2 a neskorší zoznam ju zaraďuje do kategórie 3. V roku 2001 tam bola hubou roka, aby sa upozornilo na huby, ktoré plodia pod zemou. V Nemecku je známa najmä z predhoria Álp a z vrchovín a na severnej nížine chýba. Na Slovensku je niekde hojná a inde zriedkavá.",
+      },
+    },
+    sources: {
+      en: [
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Choiromyces-meandriformis/bielohluzovka-obycajna/belolanyz-obecny/ID15",
+        },
+        {
+          group: "text",
+          name: "myko.cz",
+          href: "https://www.myko.cz/myko-atlas/Choiromyces-meandriformis/",
+        },
+        {
+          group: "text",
+          name: "grzyby.pl",
+          href: "https://www.grzyby.pl/gatunki/Choiromyces_meandriformis.htm",
+        },
+        {
+          group: "text",
+          name: "Pilzfreunde Stuttgart",
+          href: "https://www.pilzfreun.de/2018/08/august-2018-maeandertrueffel/",
+        },
+        {
+          group: "text",
+          name: "Fundkorb",
+          href: "https://fundkorb.de/pilze/choiromyces-maeandriformis-stachelsporige-m%C3%A4andertr%C3%BCffel",
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://de.wikipedia.org/wiki/Stachelsporige_M%C3%A4andertr%C3%BCffel",
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://ro.wikipedia.org/wiki/Choiromyces_meandriformis",
+        },
+        {
+          group: "text",
+          name: "Trufamania",
+          href: "https://trufamania.com/Choiromyces%20venosus%20English.htm",
+        },
+        {
+          group: "text",
+          name: "Trufamania",
+          href: "https://trufamania.com/false-truffles.htm",
+        },
+        {
+          group: "text",
+          name: "Antropocene",
+          href: "https://antropocene.it/en/2023/02/10/choiromyces-meandriformis-2/",
+        },
+        {
+          group: "text",
+          name: "DGfM",
+          href: "https://www.dgfm-ev.de/de/ueber-uns/news/pilz-des-jahres-2001-maeandertrueffel",
+        },
+        {
+          group: "text",
+          name: "Fungipedia",
+          href: "https://www.fungipedia.org/hongos/choiromyces-meandriformis.html",
+        },
+        {
+          group: "text",
+          name: "NBN Atlas",
+          href: "https://species.nbnatlas.org/species/NBNSYS0000019510",
+        },
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=147587",
+          detail: "147587",
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=147587",
+          detail: "147587",
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/147587",
+          detail: "147587",
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2593184",
+          detail: "2593184",
+        },
+      ],
+      sk: [
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Choiromyces-meandriformis/bielohluzovka-obycajna/belolanyz-obecny/ID15",
+          detail: "bielohľuzovka obyčajná",
+        },
+      ],
+    },
+    synonyms: [
+      "Rhizopogon meandriformis (Vittad.) Corda",
+      "Tuber meandriformis (Vittad.) Ricken",
+      "Tuber album Sowerby",
+    ],
+  },
+  {
+    id: 82,
+    name: "Hericium coralloides",
+    author: "(Scop.) Pers.",
+    family: "Hericiaceae",
+    genus: "Hericium",
+    order: "Russulales",
+    edibility: "edible",
+    hymenium: "teeth",
+    where: ["wood"],
+    color: ["white", "yellow", "brown"],
+    path: [
+      "Fungi",
+      "Dikarya",
+      "Basidiomycota",
+      "Agaricomycotina",
+      "Agaricomycetes",
+      "Russulales",
+      "Hericiaceae",
+      "Hericium",
+    ],
+    summary: ["Russulales", "Hericiaceae", "Hericium"],
+    added: "2026-10-28",
+    plate: STORAGE + "photos/Russulales/Hericiaceae/Hericium_coralloides/Hericium_coralloides@1600.webp",
+    plateGrid: STORAGE + "photos/Russulales/Hericiaceae/Hericium_coralloides/Hericium_coralloides@400.webp",
+    plateCredit: {
+      author: "J.C. Schaeffer",
+      license: "not stated",
+    },
+    photos: [
+      {
+        src: STORAGE + "photos/Russulales/Hericiaceae/Hericium_coralloides/hc1.webp",
+        author: "Siga",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Hericium_coralloides_auf_Fagus.jpg",
+      },
+      {
+        src: STORAGE + "photos/Russulales/Hericiaceae/Hericium_coralloides/hc2.webp",
+        author: "Tobias 67",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Hericium_coralloides_TP01_Buchenwald_Serrahn_Germany.jpg",
+      },
+      {
+        src: STORAGE + "photos/Russulales/Hericiaceae/Hericium_coralloides/hc3.webp",
+        author: "Krzysztof Ziarnek, Kenraiz",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Hericium_coralloides_kz01.jpg",
+      },
+      {
+        src: STORAGE + "photos/Russulales/Hericiaceae/Hericium_coralloides/hc4.webp",
+        author: "Jerzy Opioła",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Hericium_coralloides_DK91_(2).jpg",
+      },
+      {
+        src: STORAGE + "photos/Russulales/Hericiaceae/Hericium_coralloides/hc5.webp",
+        author: "Lukas Large",
+        license: "CC BY-SA 2.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0",
+        source: "https://commons.wikimedia.org/wiki/File:Hericium_coralloides_(50614172936).jpg",
+      },
+    ],
+    capFrom: 8,
+    capTo: 50,
+    stipeThickFrom: 1,
+    stipeThickTo: 4,
+    fruitingFrom: 7,
+    fruitingTo: 11,
+    label: {
+      en: "coral tooth",
+      sk: "koralovec bukový",
+    },
+    names: {
+      en: ["coral tooth fungus", "comb coral mushroom"],
+    },
+    text: {
+      en: {
+        description: "A wood-rotting tooth fungus of old broadleaf woods. It grows across Europe and Asia and through much of North America, chiefly on fallen beech and other hardwoods. It is uncommon across much of Europe. Some collections under this name may belong to related species that have not yet been separated.",
+        cap: "There is no separate cap. The fruit body is an open, repeatedly branched mass, coral-like, rising from a short base. It is usually 10–30 cm across, sometimes only about 8 cm, up to about 40 cm, and less often 50 cm. It can stand about 20 cm high. The branches are about 0.5–1 cm thick. The whole fruit body is white, then cream or pale yellow to ochre, and the tips turn brown with age.",
+        hymenium: "Short pendant spines cover the branches and gather at the tips. They are pointed and hang downward. They are usually about 5–10 mm long and 1.5–3 mm thick, though some accounts give them as 1–2 cm long. They are white, then cream or pale yellow to ochre, and the tips turn brown with age. The basidia are clavate, about 15–45 × 3–7 μm, and four-spored, with a basal clamp. Cylindrical to fusiform or moniliform gloeocystidia are present, and reported sizes run up to about 70 × 10 μm. The hyphae are monomitic and generative, clamped, thin- to thick-walled, hyaline, and amyloid, and about 2–21 μm wide.",
+        stipe: "A distinct stipe is usually absent. The fruit body rises from a short white to cream base about 1–4 cm thick. The base is often lateral, or it forms a central core, and sometimes it is almost missing. There is no ring.",
+        flesh: "The flesh is white, firm, and compact, and a fresh cut stays white. It is soft when fresh and becomes brittle with age. The smell and the taste are mild. The smell is sometimes compared to radish, and a raw fruit body does not always taste pleasant.",
+        sporePrint: "White to whitish. The spores are broadly ellipsoid to subglobose, thick-walled, smooth to finely warted, and amyloid. They often contain one oil drop. They measure about 3–5 × 2.5–4 μm.",
+        habitat: "Fruit bodies appear from July to November. In Slovakia they appear mainly in October and November, and in warmer parts of western North America they can appear from November into March. They grow singly or in small groups on dead hardwood, especially fallen trunks and thick branches of beech, and also on oak, ash, elm, hornbeam, and birch. They also grow on living beech, where the rot is white. They are rarely on conifer wood.",
+        uses: "It is edible. Young fruit bodies are the ones worth eating, and they are said to be good. Older fruit bodies turn brittle. In Poland only cultivated or imported fruit bodies may be sold.",
+        confusion: "Hericium erinaceus is an unbranched cushion, and its spines are usually 1–5 cm long. Hericium cirrhatum forms tiered thin brackets with distinct caps. Fine spines also cover its upper surface, and the spines underneath are about 10–15 mm long. Hericium alpestre grows on fir, from Europe into central Asia. It is more compact. Its spines are longer, about 10–20 mm, and they stand in tufts at the branch tips rather than in a comb along the branches. Its spores are larger, about (5–)5.5–6.5(–7) × 4.5–6(–6.5) μm, and the flesh stains pinkish with age. Some books call that fir fungus Hericium flagellum. Hericium americanum grows in eastern North America, mostly on hardwood. It is stockier, with shorter branches, spines often longer than 1 cm, spores about 5.5–7 × 4.5–6 μm, and a pinkish stain. Older American books applied Hericium coralloides to that fungus and Hericium ramosum to the short-spined species. Hericium abietis grows in the Pacific Northwest on conifer wood, including fir and hemlock. It is massive, its spores are about 4.5–5.5 × 4–4.5 μm, and it stains pinkish. Hydnum repandum and Hydnum rufescens have spines under a smooth cap and grow on the ground.",
+        notes: "In Poland a national list marks it as vulnerable, and wild fruit bodies have been partly protected since 2014, after strict protection from 1983 to 2014. In Britain it has not been formally assessed. An unofficial list from 2006 treats it as near threatened, and in England it is a species of principal importance under section 41 of the Natural Environment and Rural Communities Act 2006. It is infrequent but widespread in southern and eastern England, scattered in the Midlands and in Yorkshire, recorded once in Wales, and not recorded in the wild in Scotland. It is uncommon in old beech and mixed woods in Slovakia and rare in old beech woods in the Czech Republic, and collecting in both countries is discouraged. The name as now used covers more than one lineage, and a well-supported group of collections from eastern and western Canada, the southwestern and northwestern United States, Russia, Sweden, and Ukraine may be a separate species.",
+      },
+      sk: {
+        description: "Drevokazná huba s ostňami, typická pre staré listnaté lesy. Rastie v Európe, Ázii a na veľkej časti Severnej Ameriky, najmä na ležiacom buku a iných listnáčoch. Na veľkej časti Európy je nehojná. Niektoré nálezy pod týmto menom môžu patriť príbuzným druhom, ktoré ešte neboli oddelené.",
+        cap: "Samostatný klobúk chýba. Plodnica je otvorená, opakovane rozkonárená a koralovitá a vyrastá z krátkej bázy. Zvyčajne je široká 10–30 cm, niekedy len asi 8 cm, dosahuje asi 40 cm a zriedkavejšie 50 cm. Môže byť vysoká asi 20 cm. Konáre sú hrubé asi 0,5–1 cm. Celá plodnica je biela, potom krémová alebo bledožltá až okrová a konce v starobe hnednú.",
+        hymenium: "Konáre pokrývajú krátke visiace ostne, ktoré sa zhromažďujú na ich koncoch. Sú zahrotené a visia nadol. Zvyčajne sú dlhé asi 5–10 mm a hrubé 1,5–3 mm. Podľa niektorých údajov dosahujú dĺžku 10–20 mm. Sú biele, potom krémové alebo bledožlté až okrové a konce v starobe hnednú. Bazídiá sú kyjačkovité, veľké asi 15–45 × 3–7 μm, štvorvýtrusové, s bazálnou svorkou. Prítomné sú valcovité až vretenovité alebo korálikovité gloeocystidy a uvádzané rozmery siahajú asi do 70 × 10 μm. Hýfy sú monomitické a generatívne, so svorkami, tenko- až hrubostenné, hyalínne a amyloidné, široké asi 2–21 μm.",
+        stipe: "Zreteľný hlúbik zvyčajne chýba. Plodnica vyrastá z krátkej bielej až krémovej bázy hrubej asi 1–4 cm. Báza je často bočná, niekedy tvorí stredovú os a inokedy takmer chýba. Prsteň chýba.",
+        flesh: "Dužina je biela, pevná a kompaktná a čerstvý rez ostáva biely. Za čerstva je mäkká a v starobe sa stáva krehkou. Vôňa aj chuť sú mierne. Vôňa sa niekedy prirovnáva k reďkvi a surová plodnica nechutí vždy príjemne.",
+        sporePrint: "Výtrusný prach je biely až belavý. Výtrusy sú široko elipsoidné až takmer guľovité, hrubostenné, hladké až jemne bradavičnaté a amyloidné. Často obsahujú jednu olejovú kvapku. Merajú asi 3–5 × 2,5–4 μm.",
+        habitat: "Plodnice sa objavujú od júla do novembra, na Slovensku najmä v októbri a novembri a v teplejších častiach západnej Severnej Ameriky od novembra do marca. Rastú jednotlivo alebo v malých skupinách na odumretom dreve listnáčov, najmä na ležiacich kmeňoch a hrubých konároch buka, ďalej na dube, jaseni, breste, hrabe a breze, aj na živom buku, kde je hniloba biela. Na dreve ihličnanov sú zriedkavé.",
+        uses: "Je jedlá. Mladé plodnice sa oplatí jesť a pokladajú sa za dobré. Staršie plodnice krehnú. V Poľsku sa smú predávať len pestované alebo dovezené plodnice.",
+        confusion: "Koralovec ježovitý (Hericium erinaceus) je nerozkonárený vankúš a jeho ostne sú zvyčajne dlhé 1–5 cm. Koralovec trúdnikovitý (Hericium cirrhatum) tvorí poschodovité tenké konzoly s výraznými klobúkmi. Jemné ostne má aj na vrchnom povrchu a ostne naspodku sú dlhé asi 10–15 mm. Koralovec jedľový (Hericium alpestre) rastie na jedli, od Európy po strednú Áziu. Je kompaktnejší. Ostne má dlhšie, asi 10–20 mm, a stoja v chumáčoch na koncoch konárov, nie v hrebeni pozdĺž nich. Výtrusy má väčšie, asi (5–)5,5–6,5(–7) × 4,5–6(–6,5) μm, a dužina mu vekom ružovie. Niektoré knihy volajú túto jedľovú hubu Hericium flagellum. Hericium americanum rastie na východe Severnej Ameriky, najmä na listnáčoch. Je zavalitejšia, s kratšími konármi, ostne má často dlhšie ako 1 cm, výtrusy asi 5,5–7 × 4,5–6 μm a dužina jej ružovie. Staršie americké knihy prisudzovali meno Hericium coralloides tejto hube a Hericium ramosum druhu s krátkymi ostňami. Hericium abietis rastie na pacifickom severozápade na dreve ihličnanov, vrátane jedle a jedľovca. Je mohutná, výtrusy má asi 4,5–5,5 × 4–4,5 μm a dužina jej ružovie. Jelenka poprehýbaná (Hydnum repandum) a jelenka ryšavá (Hydnum rufescens) majú ostne pod hladkým klobúkom a rastú na zemi.",
+        notes: "V Poľsku ho národný zoznam označuje ako zraniteľný druh (Vulnerable) a voľne rastúce plodnice sú od roku 2014 čiastočne chránené, po prísnej ochrane od roku 1983 do roku 2014. V starých bučinách a zmiešaných lesoch na Slovensku je nehojný a v starých bučinách v Česku vzácny. V oboch krajinách sa zbieranie neodporúča. Dnešné použitie mena pokrýva viac ako jednu líniu a dobre podložená skupina nálezov z východnej a západnej Kanady, juhozápadu a severozápadu Spojených štátov, Ruska, Švédska a Ukrajiny môže byť samostatný druh.",
+      },
+    },
+    sources: {
+      en: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Hericium_coralloides",
+        },
+        {
+          group: "text",
+          name: "MushroomExpert",
+          href: "https://www.mushroomexpert.com/hericium_coralloides.html",
+        },
+        {
+          group: "text",
+          name: "Fungi of Great Britain and Ireland",
+          href: "https://fungi.myspecies.info/taxonomy/term/6996",
+        },
+        {
+          group: "text",
+          name: "Persoonia",
+          href: "https://doi.org/10.3114/persoonia.2025.55.04",
+          detail: "2025",
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Hericium-clathroides/koralovec-bukovy/koralovec-bukovy/ID196",
+          detail: "koralovec bukový",
+        },
+        {
+          group: "text",
+          name: "myko.cz",
+          href: "https://www.myko.cz/myko-atlas/Hericium-coralloides/",
+        },
+        {
+          group: "text",
+          name: "grzyby.pl",
+          href: "https://www.grzyby.pl/gatunki/Hericium_coralloides.htm",
+        },
+        {
+          group: "text",
+          name: "cs.wikipedia",
+          href: "https://cs.wikipedia.org/wiki/Kor%C3%A1lovec_bukov%C3%BD",
+        },
+        {
+          group: "text",
+          name: "Fungipedia",
+          href: "https://www.fungipedia.org/hongos/hericium-coralloides.html",
+        },
+        {
+          group: "text",
+          name: "MycoDB",
+          href: "https://www.mycodb.fr/fiche.php?genre=Hericium&espece=coralloides",
+        },
+        {
+          group: "text",
+          name: "Ochrana prírody Slovenska",
+          href: "https://www.sopsr.sk/publikacie/ochprsl/OP2_2006.pdf",
+        },
+        {
+          group: "text",
+          name: "NP Veľká Fatra",
+          href: "https://www.zilina.sp21.sk/a/qu9ucxlstzml9xv9nzkobhwi/vzacny-nalez-vo-velkej-fatre-ak-ho-objavite-nechajte-ho-na-mieste",
+        },
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=120231",
+          detail: "120231",
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=120231",
+          detail: "120231",
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=201931",
+          detail: "201931",
+        },
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.speciesfungorum.org/names/genusrecord.asp?RecordId=17740",
+          detail: "17740",
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/120231",
+          detail: "120231",
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5248532",
+          detail: "5248532",
+        },
+        {
+          group: "name",
+          name: "BHL",
+          href: "https://www.biodiversitylibrary.org/page/4338417",
+          detail: "1821",
+        },
+      ],
+      sk: [
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Hericium-clathroides/koralovec-bukovy/koralovec-bukovy/ID196",
+          detail: "koralovec bukový",
+        },
+      ],
+    },
+    synonyms: [
+      "Hydnum coralloides Scop.",
+      "Hydnum coralloideum Batsch",
+      "Medusina coralloides (Scop.) Chevall.",
+      "Merisma coralloides (Scop.) Spreng.",
+      "Friesites coralloides (Scop.) P. Karst.",
+      "Dryodon coralloides (Scop.) P. Karst.",
+      "Manina coralloides (Scop.) Banker",
+      "Hydnum crispum Scop.",
+      "Hydnum laciniatum Leers",
+      "Hericium laciniatum (Leers) Banker",
+      "Clavaria madreporaeformis Retz.",
+      "Hydnum ramosum Bull.",
+      "Hericium ramosum (Bull.) Letell.",
+      "Hydnum stalactiticum Schrank",
+      "Hericium stalactiticum (Schrank) Rabenh.",
+      "Hericium reichii Opiz",
+      "Hydnum caput-ursi Fr.",
+      "Friesites caput-ursi (Fr.) P. Karst.",
+      "Dryodon caput-ursi (Fr.) P. Karst.",
+      "Hericium caput-ursi (Fr.) Banker",
+      "Manina caput-ursi (Fr.) Banker",
+      "Hydnum aciculare Sacc.",
+      "Dryodon acicularis (Sacc.) Bourdot",
+    ],
   }
 ];

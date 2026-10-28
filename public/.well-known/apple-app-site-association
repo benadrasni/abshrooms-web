@@ -1,0 +1,43 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "7T8SX9VBGV.sk.ab.shrooms",
+        "paths": [
+          "NOT /mushroom/",
+          "NOT /*/mushroom/",
+          "/mushroom/*",
+          "/*/mushroom/*"
+        ],
+        "components": [
+          {
+            "/": "/mushroom/",
+            "exclude": true,
+            "comment": "Species index"
+          },
+          {
+            "/": "/mushroom",
+            "exclude": true
+          },
+          {
+            "/": "/*/mushroom/",
+            "exclude": true
+          },
+          {
+            "/": "/*/mushroom",
+            "exclude": true
+          },
+          {
+            "/": "/mushroom/*",
+            "comment": "English species page"
+          },
+          {
+            "/": "/*/mushroom/*",
+            "comment": "Species page with a language prefix"
+          }
+        ]
+      }
+    ]
+  }
+}
