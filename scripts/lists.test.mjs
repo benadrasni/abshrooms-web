@@ -65,6 +65,13 @@ test('region lists sort by place and year lists put the newest year first', () =
   assert.ok(years.length < 34);
 });
 
+test('2016 on the German and Hungarian year lists is Collybia personata', () => {
+  const germany = listSpecies('mushroom-of-the-year-de');
+  const hungary = listSpecies('mushroom-of-the-year-hu');
+  assert.equal(germany.find((row) => row.year === 2016).name, 'Collybia personata');
+  assert.equal(hungary.find((row) => row.year === 2016).name, 'Collybia personata');
+});
+
 test('a list for another language is not a page', () => {
   const hidden = viewModel({ lang: 'en', view: 'list', key: 'mushroom-of-the-year-de', search: '' });
   assert.match(hidden.html, /That page is not in the catalog/);
