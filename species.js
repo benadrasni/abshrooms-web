@@ -79,14 +79,28 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 11,
     label: {
+      de: "Gemeiner Steinpilz",
       en: "penny bun",
       sk: "hríb smrekový"
-    },
+    ,
+      cs: "hřib smrkový"},
     names: {
       en: ["cep", "king bolete", "porcini"],
       sk: ["hríb podborovník", "smrekáč", "hríb obyčajný smrekový"]
-    },
+    ,
+      cs: ["pravák","hřib pravý","bílý hřib"]},
     text: {
+      de: {
+          "description": "Ein großer ektomykorrhizabildender Pilz. Heimisch in ganz Europa, Nordamerika und Teilen Asiens. Mit gepflanzten Bäumen wurde er nach Christchurch in Neuseeland, in die Adelaide Hills in Australien sowie in Kiefernplantagen in Südafrika und Simbabwe eingeschleppt.",
+          "cap": "Der Hut misst gewöhnlich 5–30 cm im Durchmesser, mitunter mehr, ist jung halbkugelig und flacht im Alter ab. Er ist rötlich braun, oft mit einem helleren Rand, und bei feuchtem Wetter schmierig. Ein ausgewachsener Fruchtkörper kann etwa 1 kg wiegen. Ein Exemplar von der Isle of Skye im Jahr 1995 erreichte einen Hutdurchmesser von 42 cm.",
+          "hymenium": "Die Röhren sind etwa 1–2 cm lang. Die Poren sind klein, etwa zwei bis drei pro Millimeter. Sie sind weißlich und wirken in der Jugend wie verstopft, werden dann gelb und später grüngelb bis bräunlich. Bei Druck oder Berührung verfärben sie sich nicht.",
+          "stipe": "Der Stiel ist meist 6–25 cm lang und 2–7 cm dick, weiß oder gelblich. In der Jugend ist er an der Basis oft bauchig angeschwollen und wird später zylindrischer. Ein feines, erhabenes weißes Netz überzieht den oberen Teil, bisweilen auch den gesamten Stiel. Das Fleisch an der Stielbasis ist manchmal dunkelgelb gefärbt.",
+          "flesh": "Das Fleisch ist weiß, in der Jugend dick und fest, im Alter schwammig werdend. Angeschnittenes oder verletztes Fleisch bleibt weiß, zeigt jedoch unmittelbar unter der Huthaut einen zarten rosafarbenen oder weinrötlich-braunen Hauch.",
+          "habitat": "Fruchtkörper erscheinen im Sommer und Herbst, einzeln oder in Gruppen zu zweit oder dritt. Er wächst in Gemeinschaft mit lebenden Bäumen, darunter Kiefern, Fichten, Hemlocktannen, Tannen, Buchen, Eichen und Kastanien, in kühl-gemäßigten sowie subtropischen Wäldern.",
+          "sporePrint": "Olivbraun. Die Sporen sind elliptisch bis spindelförmig, etwa 12–17 × 5–7 μm groß.",
+          "uses": "Ein hervorragender Speisepilz, der in der Saison frisch zubereitet oder noch häufiger getrocknet und eingeweicht für Suppen, Pasta und Risotto verwendet wird. Er lässt sich nicht verlässlich kultivieren.",
+          "confusion": "Zu den Verwechslungsmöglichkeiten gehören der Gemeine Gallenröhrling (Tylopilus felleus), der ein dunkles Netz auf hellerem Stiel und im Alter rosa werdende Poren besitzt, sowie der Satans-Röhrling (Rubroboletus satanas), der einen roten Stiel aufweist und dessen Fleisch bei Verletzung blaut. Der Schwarzhütige Steinpilz (Boletus aereus), der Kiefern-Steinpilz (Boletus pinophilus) und der Sommer-Steinpilz (Boletus reticulatus) sind verwandte europäische Arten, die vom Gemeinen Steinpilz abgegrenzt werden. Molekularbiologische Studien ordnen früher getrennt geführte Taxa wie Boletus betulicola, Boletus persoonii, Boletus quercicola und Boletus venturii dem Formenkreis von Boletus edulis zu."
+    },
       en: {
         description: "A large ectomycorrhizal mushroom. Native across Europe, North America, and parts of Asia. Introduced with planted trees at Christchurch in New Zealand, in the Adelaide Hills of Australia, and in pine plantations in South Africa and Zimbabwe.",
         cap: "The cap is usually 5–30 cm across, sometimes larger, convex when young and flattening with age. It is reddish brown, often with a paler margin, and viscid when moist. A mature fruit body can weigh about 1 kg. A specimen from Skye in 1995 had a cap 42 cm across.",
@@ -109,9 +123,32 @@ export const CATALOG = [
         uses: "Je to výborná a medzi hubármi mimoriadne obľúbená jedlá huba. V kuchyni je všestranne využiteľná čerstvá v polievkach, omáčkach či rizote a výborne sa hodí najmä na sušenie.",
         confusion: "Zámena je možná s jedlým hríbom dubovým (Boletus reticulatus), hríbom sosnovým (Boletus pinophilus) a hríbom bronzovým (Boletus aereus). Na spoločných stanovištiach pod ihličnanmi rastie nejedlý, výrazne horký podhríb žlčový (Tylopilus felleus), ktorý má na hlúbiku tmavú sieťku a v dospelosti ružovkasté rúrky. Jedovatý hríb satanský (Rubroboletus satanas) má červené póry aj hlúbik a na reze modrie.",
         notes: "Molekulárne štúdie zahŕňajú do druhu Boletus edulis aj taxóny uvádzané predtým samostatne ako Boletus betulicola, Boletus persoonii, Boletus quercicola a Boletus venturii."
+      },
+      cs: {
+            "description": "Velká ektomykorhizní houba. Původní je v Evropě, Severní Americe a v částech Asie. Byla zavlečena s vysazenými stromy do města Christchurch na Novém Zélandu, do pohoří Adelaide Hills v Austrálii a do borových plantáží v Jihoafrické republice a Zimbabwe.",
+            "cap": "Klobouk má obvykle 5–30 cm v průměru, vzácně i více, v mládí je polokulovitý a stářím se zplošťuje. Je červenohnědý, často se světlejším okrajem a za vlhka slizký. Zralá plodnice může vážit okolo 1 kg.",
+            "hymenium": "Rourky jsou asi 1–2 cm dlouhé. Póry jsou drobné, asi dvě až tři na milimetr. V mládí jsou bělavé a jakoby ucpané, později žluté a posléze zelenožluté až hnědé. Po otlačení nemění barvu.",
+            "stipe": "Třeň je obvykle 6–25 cm vysoký a 2–7 cm tlustý, bílý nebo nažloutlý. V mládí bývá na bázi břichatý a později válcovitější. Jemná vystouplá síťka pokrývá horní část, někdy i celý třeň. Dužnina v bázi třeně je někdy tmavě žlutá.",
+            "flesh": "Dužnina je bílá, v mládí tlustá a pevná, stářím poněkud houbovitá. Na řezu či po poranění zůstává bílá, jen těsně pod pokožkou klobouku mívá slabě narůžovělý nebo vínově hnědavý nádech.",
+            "sporePrint": "Olivově hnědý. Výtrusy jsou eliptické až vřetenovité, velké přibližně 12–17 × 5–7 μm.",
+            "habitat": "Plodnice vyrůstají v létě a na podzim, jednotlivě nebo po dvou až třech. Roste s živými stromy včetně borovic, smrků, jedlovců, jedlí, buků, dubů a kaštanovníků v chladně mírných až subtropických lesích.",
+            "uses": "Výborná jedlá houba, která se konzumuje čerstvá v sezóně a ještě častěji sušená a následně namočená v polévkách, těstovinách a rizotu. Nelze ji spolehlivě pěstovat jako zemědělskou plodinu.",
+            "confusion": "Mezi podobné druhy patří hřib žlučník (Tylopilus felleus), který má tmavou síťku na světlém třeni a póry, jež stářím růžoví, a hřib satan (Rubroboletus satanas), jenž má červený třeň a dužninu po poranění modrající. Hřib bronzový (Boletus aereus), hřib borový (Boletus pinophilus) a hřib dubový (Boletus reticulatus) jsou příbuzné evropské druhy oddělované od hřibu smrkového. Molekulární studie řadí taxony dříve označované jako Boletus betulicola, Boletus persoonii, Boletus quercicola a Boletus venturii do komplexu hřibu smrkového."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Gemeiner_Steinpilz"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -181,6 +218,18 @@ export const CATALOG = [
           href: "https://en.wikipedia.org/wiki/Boletus_edulis",
           detail: "English"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Boletus-edulis/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Hřib_smrkový"
+            }
       ]
     },
     synonyms: [
@@ -267,14 +316,29 @@ export const CATALOG = [
     fruitingFrom: 8,
     fruitingTo: 11,
     label: {
+      de: "Fliegenpilz",
       en: "fly agaric",
       sk: "muchotrávka červená"
-    },
+    ,
+      cs: "muchomůrka červená"},
     names: {
       en: ["fly amanita", "red toadstool"],
       sk: ["mucholapka", "muchomôrka", "mušárka", "mucharka", "muchačka", "hadačka"]
-    },
+    ,
+      cs: ["mucholapka"]},
     text: {
+      de: {
+          "description": "Ein ektomykorrhizabildender Pilz in Laub- und Nadelwäldern. Häufig in der gesamten nördlichen Hemisphäre, einschließlich Großbritanniens, Irlands, Kontinentaleuropas, Asiens, der Vereinigten Staaten und Kanadas. In Australien (einschließlich Tasmanien) und Neuseeland wurde er eingeschleppt.",
+          "cap": "Der Hut erreicht ausgewachsen 10–20 cm Durchmesser, ist leuchtend rot oder gelegentlich orange. Er ist in der Jugend abgerundet bis halbkugelig und flacht meist ab, bisweilen leicht niedergedrückt. Unregelmäßige weiße Reste des Velum universale haften der Hutoberfläche an und können bei Regen abgewaschen werden.",
+          "hymenium": "Die Lamellen sind weiß, frei und stehen dicht. Mit zunehmender Reife des Fruchtkörpers nehmen sie eine blassgelbliche Tönung an.",
+          "stipe": "Der Stiel ist 10–25 cm lang und 1–2 cm dick, weiß, mit einer hängenden, gerieften weißen Manschette (Ring). Die Basis ist knollig verdickt und trägt weiße Reste der Volva, die in konzentrische Schuppengürtel aufbrechen.",
+          "flesh": "Das Fleisch ist weiß, direkt unter der Huthaut befindet sich eine goldgelbe Zone. Der Geruch ist unauffällig.",
+          "habitat": "Fruchtkörper erscheinen von August bis November. Er wächst mit Laub- und Nadelbäumen, insbesondere Birke, Kiefer und Fichte.",
+          "sporePrint": "Weiß. Die Sporen sind oval, etwa 9–13 × 6,5–9 μm groß und inamyloid (zeigen keine Blaufärbung mit Jod).",
+          "uses": "Der Fliegenpilz ist giftig. Er enthält Muscimol und Ibotensäure; tödliche Vergiftungen sind jedoch extrem selten. Ein Abkochen in reichlich Wasser mit anschließendem Wegschütten der Flüssigkeit ist lediglich eine historische Praxis und macht ihn nicht verlässlich sicher essbar.",
+          "confusion": "Der Kaiserling (Amanita caesarea) hat einen orangen Hut mit gerieftem Rand und einen gelben Stiel; er kommt in Nordeuropa kaum vor. Der Perlpilz (Amanita rubescens) kann einen tief orangebraunen Hut aufweisen, rötet jedoch im Fleisch bei Verletzung. Der Buchen-Spei-Täubling (Russula nobilis) besitzt einen leuchtend roten Hut, jedoch weder Ring noch Scheide. Viele Autoren führen den braunen Königsfliegenpilz (Amanita regalis) als eigenständige Art.",
+          "notes": "Früher wurde er zur Fliegenbekämpfung verwendet. Pilz des Jahres 2022 in Deutschland."
+    },
       en: {
         description: "An ectomycorrhizal mushroom of hardwood and conifer woods. Frequent through the northern hemisphere, including Britain and Ireland, mainland Europe, Asia, the United States, and Canada. Introduced in Australia (including Tasmania) and New Zealand.",
         cap: "The cap is 10–20 cm across at maturity, red or occasionally orange. It is rounded when young and usually flattens, sometimes becoming slightly concave. Irregular white fragments of the universal veil lie on the cap and can wash off in wet weather.",
@@ -298,9 +362,33 @@ export const CATALOG = [
         uses: "Je to jedovatá huba s neurotoxickým a psychotropným účinkom. Obsahuje kyselinu iboténovú a muscimol; smrteľné otravy sú však veľmi zriedkavé.",
         confusion: "Na Slovensku v horských smrečinách zriedkavo rastie príbuzná jedovatá muchotrávka kráľovská (Amanita regalis), ktorá sa líši pečeňovohnedým až tmavohnedým klobúkom so žltkastými bradavkami. V teplých listnatých lesoch možno dažďom obmyté plodnice zameniť s výbornou jedlou muchotrávkou cisárskou (Amanita caesarea), ktorá má však zlatožlté lupene, žltý hlúbik a na báze voľnú bielu pošvu. Jedlá muchotrávka červenkastá (Amanita rubescens) má na poranených miestach vínovočervenejúcu dužinu.",
         notes: "Používala sa na trávenie múch."
+      },
+      cs: {
+            "description": "Ektomykorhizní houba listnatých i jehličnatých lesů. Hojná je na celé severní polokouli včetně Británie a Irska, kontinentální Evropy, Asie, Spojených států a Kanady. Byla zavlečena do Austrálie (včetně Tasmánie) a na Nový Zéland.",
+            "cap": "Klobouk má v dospělosti 10–20 cm v průměru, je červený nebo příležitostně oranžový a posetý bílými bradavkami, které déšť může smýt a odhalit hladkou pokožku. V mládí je polokulovitý a stářím se zplošťuje. Okraj klobouku bývá v dospělosti krátce rýhovaný.",
+            "hymenium": "Lupeny jsou bílé, volné a husté. Stářím získávají světle žlutý odstín a po dotyku barvu nemění.",
+            "stipe": "Třeň je 10–25 cm vysoký a 1–2 cm tlustý, bílý, s měkkým visutým prstenem a na bázi se zduřelou hlízou, kterou lemují soustředné prstence bradavek.",
+            "flesh": "Dužnina je bílá, těsně pod pokožkou klobouku se zlatožlutou vrstvou. Na řezu či po poranění barvu nemění.",
+            "sporePrint": "Bílý. Výtrusy jsou oválné, přibližně 9–13 × 6,5–9 μm velké a amyloidní reakci nevykazují.",
+            "habitat": "Plodnice vyrůstají od srpna do listopadu. Roste s listnáči i jehličnany, nejčastěji s břízami, borovicemi a smrky.",
+            "uses": "Je jedovatá. Obsahuje muscimol a kyselinu ibotenovou, které působí na centrální nervový systém. Příznaky otravy zahrnují zmatenost, závratě, svalové záškuby a hluboký spánek s živými sny. Smrtelné otravy jsou velmi vzácné. Důkladné povaření ve velkém množství vody se slitím tekutiny je pouze historickou praxí.",
+            "confusion": "Muchomůrka císařka (Amanita caesarea) má oranžový klobouk s rýhovaným okrajem a žlutý třeň a v severní a střední Evropě se vyskytuje jen velmi vzácně. Muchomůrka růžovka (Amanita rubescens) může mít sytě oranžovohnědý klobouk a její dužnina po poranění červená. Holubinka vrhavka (Russula emetica) má zářivě červený klobouk, ale postrádá prsten i pochvu. Mnozí autoři vedou hnědou muchomůrku královskou (Amanita regalis) jako samostatný druh.",
+            "notes": "V minulosti se používala k hubení much."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Fliegenpilz"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -358,6 +446,18 @@ export const CATALOG = [
           name: "nahuby.sk",
           href: "https://www.nahuby.sk/atlas-hub/Amanita-muscaria/muchotravka-cervena/muchomurka-cervena/ID287"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Amanita-muscaria/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Muchomůrka_červená"
+            }
       ]
     },
     synonyms: [
@@ -440,9 +540,11 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 11,
     label: {
+      de: "Echter Pfifferling",
       en: "chanterelle",
       sk: "kuriatko jedlé"
-    },
+    ,
+      cs: "liška obecná"},
     names: {
       en: ["girolle"],
       sk: [
@@ -468,8 +570,21 @@ export const CATALOG = [
         "tanečnice",
         "kuriatka obyčajné"
       ]
-    },
+    ,
+      cs: ["kuřátko","lištice"]},
     text: {
+      de: {
+          "description": "Ein ektomykorrhizabildender Pilz. Heimisch in Europa von Skandinavien bis zum Mittelmeerraum; in Großbritannien und Irland häufig, aber standortgebunden. Im engeren Sinne handelt es sich um eine europäische Art. Nordamerikanische Funde, die früher unter diesem Namen geführt wurden, gehören anderen Arten an.",
+          "cap": "Der Hut misst bis zu 10 cm im Durchmesser und ist meist trichterförmig vertieft, mit einem welligen, unregelmäßigen Rand. Die Färbung reicht von hellgelb bis satt eigelb. Ein feiner weißlicher Reif kann den Hut mitunter bedecken.",
+          "hymenium": "Die Fruchtschicht an der Unterseite besteht aus Leisten (Gabelleisten) statt echten Lamellen. Dicke, aderig-runzelige Falten laufen weit am Stiel herab. Nahe dem Stiel verlaufen sie geradlinig, zum Hutrand hin sind sie gegabelt und gewundener.",
+          "stipe": "Der Stiel hat die gleiche Farbe wie der Hut oder ist etwas blasser, vollreif massiv und zur Basis hin verjüngt, wobei er nahtlos in den Hut übergeht. Er ist 2–8 cm lang und 0,5–1,5 cm dick. In Büscheln sind die Stiele oft gebogen und an der Basis bisweilen verwachsen.",
+          "flesh": "Das Fleisch ist weiß. Der Geruch erinnert zart an Aprikosen. Der Geschmack ist mild mit einer leicht scharfen, pfefferigen Note, wenn er roh gekaut wird.",
+          "habitat": "Fruchtkörper erscheinen von Juni bis Oktober oder November. Er wächst mit Laub- und Nadelbäumen, besonders mit Eiche, Buche, Birke, Kiefer und Fichte, auf nährstoffarmen, sauren Böden.",
+          "sporePrint": "Blassgelb bis cremeweiß. Die Sporen sind ellipsoid, glatt, 7,5–10 × 4,5–6 μm groß und inamyloid.",
+          "uses": "Ein hervorragender Speisepilz mit festem Fleisch und aromatischem Geschmack. Er wird gebraten, geschmort oder eingekocht und behält seine Textur gut beim Garen. Durch Trocknen wird er oft zäh und ledrig, weshalb Einfrieren oder Einlegen bevorzugt wird.",
+          "confusion": "Der Falsche Pfifferling (Hygrophoropsis aurantiaca) besitzt eng stehende, mehrfach gegabelte echte Lamellen, blasseres Fleisch und einen dünneren, dunkleren Stiel; er gilt als ungenießbar oder bedingt bekömmlich. Der Ölbaumpilz (Omphalotus olearius) wächst büschelig an Holz im Mittelmeerraum, besitzt echte Lamellen, bioluminesziert im Dunkeln und ist schwer giftig.",
+          "notes": "Cantharellus pallens wird als eigenständige Art geführt."
+    },
       en: {
         description: "An ectomycorrhizal mushroom. Native in Europe from Scandinavia to the Mediterranean, and frequent but localised in Britain and Ireland. In the strict sense it is European. North American fungi once placed under this name are other species.",
         cap: "The cap is up to 10 cm across and usually funnel-shaped, with a wavy irregular margin. The colour runs from light yellow to deep egg-yolk yellow. A fine white bloom sometimes masks it.",
@@ -492,9 +607,33 @@ export const CATALOG = [
         habitat: "Plodnice sa objavujú od júna do októbra a v miernej jeseni aj v novembri. Rastie najčastejšie v listnatých lesoch s dubom, bukom, gaštanom alebo lieskou, aj pod ihličnanmi (najmä smrekom a borovicou), predovšetkým na kyslých pôdach.",
         uses: "Je to výborná a veľmi cenená jedlá huba. Dužina je tuhá, na vzduchu sa takmer nekazí a hmyz plodnice takmer nenapáda. Hodí sa do polievok, omáčok, praženice a mladé plodnice sa nakladajú do sladkokyslého alebo octového nálevu.",
         confusion: "Kuriatku jedlému sa veľmi podobá jedlé kuriatko bledé (Cantharellus pallens), ktoré má mäsitejšie plodnice, belavý povrch klobúka a rastie najmä v listnatých lesoch. Častou zámenou je liškovec pomarančový (Hygrophoropsis aurantiaca), ktorý má živšie oranžové sfarbenie, pružnú dužinu a pravé, husto usporiadané lupene. Na dreve listnáčov v trsoch rastie jedovatá hliva olivová (Omphalotus olearius), ktorá má takisto pravé lupene."
+      },
+      cs: {
+            "description": "Ektomykorhizní houba. Původní je v Evropě od Skandinávie po Středomoří. V přísném smyslu jde o evropský druh; severoamerické houby dříve řazené pod toto jméno představují jiné druhy.",
+            "cap": "Klobouk má až 10 cm v průměru a obvykle je nálevkovitý se zvlněným laločnatým okrajem. Zbarvený je žloutkově žlutě až oranžově žlutě a povrch má suchý a hladký.",
+            "hymenium": "Spodní strana nese spíše lišty než pravé lupeny. Tlusté, žilkovité vidlené lišty sbíhají hluboko na třeň a mají stejnou barvu jako klobouk nebo jsou o něco světlejší.",
+            "stipe": "Třeň má stejnou barvu jako klobouk nebo je poněkud světlejší, pevný, směrem k bázi se zužuje a měří obvykle 3–6 cm na délku a 1–2 cm na šířku.",
+            "flesh": "Dužnina je bílá. Vůně je slabě meruňková. Chuť je mírná a po delším žvýkání zlehka peprná. Na řezu či po poranění zůstává bílá.",
+            "sporePrint": "Bledě žlutý až krémově bílý, někdy s mírným narůžovělým nádechem. Výtrusy jsou eliptické, hladké, přibližně 8–11 × 4,5–6 μm.",
+            "habitat": "Plodnice vyrůstají od června do října a v mírnějším podnebí až do listopadu. Roste pod buky, duby, borovicemi a smrky.",
+            "uses": "Výborná jedlá houba. Tepelně upravené plodnice mají pevnou texturu a jemnou chuť a hodí se do omáček, k dušení i nakládání do octa.",
+            "confusion": "Lištička pomerančová (Hygrophoropsis aurantiaca) je zářivěji oranžová, má husté pravé lupeny a dužninu barvy klobouku namísto bílé. Kalichovka oranžová (Omphalotus olearius) a Omphalotus illudens jsou jedovaté, rostou na dřevě listnáčů a mají pravé lupeny. Liška ametystová (Cantharellus amethysteus) má fialové šupinky na klobouku a je vedena jako samostatný druh.",
+            "notes": "Liška bledá (Cantharellus pallens) je samostatný druh."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Echter_Pfifferling"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -562,6 +701,18 @@ export const CATALOG = [
           name: "nahuby.sk",
           href: "https://www.nahuby.sk/atlas-hub/Cantharellus-cibarius/kuriatko-jedle/liska-obecna/ID231"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Cantharellus-cibarius/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Liška_obecná_(houba)"
+            }
       ]
     },
     synonyms: [
@@ -658,14 +809,29 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 10,
     label: {
+      de: "Sommer-Steinpilz",
       en: "summer bolete",
       sk: "hríb dubový"
-    },
+    ,
+      cs: "hřib dubový"},
     names: {
       en: ["summer cep"],
       sk: ["hríb dubák", "hríb sieťkovaný", "dubák", "hríb obyčajný - dubák"]
-    },
+    ,
+      cs: ["dubák","hřib síťkovaný"]},
     text: {
+      de: {
+          "description": "Ein ektomykorrhizabildender Dickröhrling von Laubwäldern. Heimisch in weiten Teilen Europas und nach Osten bis Asien reichend. Er bevorzugt wärmebegünstigte Standorte auf basenreichen Böden.",
+          "cap": "Der Hut erreicht typischerweise 10–20 cm Durchmesser (bei kleineren Exemplaren im Schnitt 7–12 cm). Er ist hellbraun bis graubräunlich oder haselnussbraun, samtig-filzig und neigt bei trockenem Wetter zum feldartigen Aufreißen. Der Rand ist nicht merklich heller gefärbt als die Hutmitte.",
+          "hymenium": "Die Röhren und kleinen Poren sind in der Jugend weiß und verfärben sich mit dem Alter über gelblich zu olivgrün. Bei Druck oder Berührung verändern sie ihre Farbe nicht wesentlich.",
+          "stipe": "Der Stiel ist 8–18 cm lang und 2,5–6 cm dick, bauchig bis tonnenförmig, selten keulig. Ein deutliches, erhabenes helles Netz bedeckt den blassbraunen Grund fast bis zur Stielbasis, wobei es an der Spitze und Basis dunkler und in der Mitte bisweilen rosa überhaucht sein kann.",
+          "flesh": "Das Fleisch ist weiß und bleibt auch im Anschnitt unveränderlich weiß, im Alter leicht vergilbend. Es ist etwas weicher als das des Gemeinen Steinpilzes. Der Geruch ist angenehm pilzig, der Geschmack mild und nussig.",
+          "habitat": "Fruchtkörper erscheinen von Mai bis Oktober, oft schon vor Beginn des Hochsommers. Er wächst vor allem unter Laubbäumen wie Eichen und Buchen, seltener unter Nadelbäumen wie Fichten.",
+          "sporePrint": "Olivbraun (tabakbraun). Die Sporen sind spindelig-ellipsoid, glatt, etwa 13–15 × 4,5–5,5 μm groß.",
+          "uses": "Ein hervorragender Speisepilz, geschmacklich dem Gemeinen Steinpilz ebenbürtig und in der Küche auf die gleiche Weise verwendbar.",
+          "confusion": "Der Gemeine Steinpilz (Boletus edulis) fruchtet meist später im Jahr, besitzt eine glatte, bei Feuchtigkeit schmierige Huthaut mit oft weißlichem Rand und ein weißes Netz, das sich meist auf die obere Stielhälfte beschränkt. Der Schwarzhütige Steinpilz (Boletus aereus) hat einen dunkleren, fast bronzeschwarzen Hut und festeres Fleisch. Der Gemeine Gallenröhrling (Tylopilus felleus) besitzt ein grobes dunkles Netz auf hellerem Grund, rosa getönte Poren und schmeckt gallebitter. Giftige Röhrlinge wie der Satans-Röhrling (Rubroboletus satanas) haben rote Poren und blauen im Schnitt.",
+          "notes": "Nachweise reichen nach Osten bis in die Region Primorje. Eine Beurteilung aus dem Jahr 2019 stuft die Art als nicht gefährdet (Least Concern) mit stabilem Bestand ein."
+    },
       en: {
         description: "An ectomycorrhizal mushroom. A common bolete of Mediterranean, temperate, and hemiboreal woods throughout Europe. It is rare in Britain and Ireland and more frequent in southern Europe. Records from North America and Japan once placed under this name belong to other species, and a southern African record under planted pine is treated as likely introduced.",
         cap: "The cap is typically 10–20 cm across (averaging 7–12 cm in smaller specimens), light yellowish brown to mid brown. It starts velvety, then becomes wrinkled or finely cracked in dry weather. The margin is not markedly paler than the centre.",
@@ -689,9 +855,33 @@ export const CATALOG = [
         uses: "Je to výborná jedlá huba, jeden z najchutnejších hríbovitých druhov, a v kuchyni sa používa rovnako ako hríb smrekový. Výborne sa hodí na sušenie, do polievok a omáčok.",
         confusion: "Od hríba smrekového (Boletus edulis) sa líši matným, bledším a za sucha často políčkovito rozpukaným klobúkom, tmavším hlúbikom a svetlou sieťkou siahajúcou takmer po bázu. Hríb bronzový (Boletus aereus) má tmavohnedý až čiernohnedý klobúk s bielym oinovatením pri okraji a rastie v teplých oblastiach pod dubmi a bukmi. Hríb sosnový (Boletus pinophilus) má hrboľatý červenohnedý klobúk a viaže sa najmä na borovice. Nejedlý podhríb žlčový (Tylopilus felleus) má horkú dužinu, tmavú sieťku na hlúbiku a v dospelosti ružovkasté póry.",
         notes: "Hodnotenie IUCN z roku 2019 ho zaraďuje medzi málo dotknuté druhy (Least Concern)."
+      },
+      cs: {
+            "description": "Ektomykorhizní houba. Běžný hřib mediteránních, mírných a hemiboreálních lesů v celé Evropě. Nálezy ze Severní Ameriky a Japonska dříve spojované s tímto jménem patří jiným druhům a jihoafrický záznam pod vysazenou borovicí je považován za pravděpodobně zavlečený.",
+            "cap": "Klobouk má obvykle 10–20 cm v průměru, v mládí je polokulovitý a později klenutý. Pokožka je světle hnědá, okrová až šedohnědá, sametová a za suchého počasí často rozpukaná do políček.",
+            "hymenium": "Rourky a drobné póry jsou v mládí bílé, stářím žloutnou a nakonec zelenají. Po otlačení nemění barvu.",
+            "stipe": "Třeň je 8–18 cm vysoký a 2,5–6 cm tlustý, břichatý až válcovitý, světle hnědý až okrový. Celý třeň až k bázi pokrývá výrazná vystouplá bílá síťka.",
+            "flesh": "Dužnina je bílá. Na řezu zůstává bílá a pod pokožkou klobouku může mírně žloutnout. Má příjemnou sladce houbovou vůni.",
+            "sporePrint": "Olivově hnědý. Výtrusy jsou vřetenovité, přibližně 13–16 × 4,5–5,5 μm velké.",
+            "habitat": "Plodnice vyrůstají od května do října. Roste v listnatých lesích pod duby, buky a habry, méně často pod kaštanovníky, lípami a jehličnany.",
+            "uses": "Výborná jedlá houba, stejně hodnotná jako hřib smrkový (Boletus edulis) a využívaná obdobným způsobem.",
+            "confusion": "Hřib smrkový (Boletus edulis) má světlejší třeň, bílou síťku omezenou obvykle na horní část, hnědý klobouk s bělavým okrajem a plodí později. Hřib bronzový (Boletus aereus) má klobouk tmavší a dužninu mnohem pevnější. Hřib žlučník (Tylopilus felleus) má tmavší síťku na světlejším třeni, narůžovělé póry a velmi hořkou chuť. Jedovaté červené hřiby, jako je hřib satan (Rubroboletus satanas), mají červené póry nebo třeň a na řezu modrají.",
+            "notes": "Na východ je zaznamenán až do Přímořského kraje. Podle hodnocení z roku 2019 je málo dotčeným druhem (Least Concern) se stabilní populací."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Sommer-Steinpilz"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -759,6 +949,18 @@ export const CATALOG = [
           name: "nahuby.sk",
           href: "https://www.nahuby.sk/atlas-hub/Boletus-reticulatus/hrib-dubovy/hrib-dubovy/ID122"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Boletus-reticulatus/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Hřib_dubový"
+            }
       ]
     },
     synonyms: [
@@ -847,9 +1049,11 @@ export const CATALOG = [
     fruitingFrom: 7,
     fruitingTo: 11,
     label: {
+      de: "Gemeiner Riesenschirmling",
       en: "parasol",
       sk: "bedľa vysoká"
-    },
+    ,
+      cs: "bedla vysoká"},
     names: {
       en: ["parasol mushroom"],
       sk: [
@@ -889,8 +1093,21 @@ export const CATALOG = [
         "svákovka",
         "vysoká nôžka"
       ]
-    },
+    ,
+      cs: ["bedla jedlá","parazol"]},
     text: {
+      de: {
+          "description": "Ein großer saprotropher Blätterpilz. Weit verbreitet und häufig in ganz Mitteleuropa sowie im gemäßigten Eurasien. Nordamerikanische Nachweise bedürfen noch der Bestätigung.",
+          "cap": "Der Hut erreicht 10–25 cm, selten bis zu 30 cm im Durchmesser. Er beginnt kugelig oder eiförmig und hellbraun, öffnet sich dann glockig bis flach mit einem dunkleren zentralen Buckel. Die braune Huthaut reißt dabei konzentrisch in dunklere, faserige Schuppen auf einem helleren, weißlich-faserigen Untergrund auf.",
+          "hymenium": "Die Lamellen sind breit, dicht stehend, weiß bis cremefarben und frei, wobei sie in einigem Abstand vor dem Stiel an einem knorpeligen Ring (Kollar) enden.",
+          "stipe": "Der Stiel wird bis zu 30 cm lang und 1–1,5 cm dick (an der knolligen Basis bis 2,5 cm). Die Basis besitzt keine Scheide. Die Oberfläche ist auf hellem Grund charakteristisch braun genattert (Schlangenhautmuster). Ein dicker, zweischichtiger wattiger Ring sitzt im oberen Drittel und lässt sich am Stiel verschieben. Im Inneren ist der Stiel zäh, faserig und hohl.",
+          "flesh": "Das Fleisch ist weiß und verfärbt sich im Anschnitt nicht wesentlich. Im Hut ist es weich und schwammig, im Stiel zäh und holzig-faserig. Der Geruch und Geschmack sind angenehm nussartig.",
+          "habitat": "Fruchtkörper erscheinen von Juni bis November. Er wächst auf Lichtungen, an Waldrändern, auf Magerwiesen, Waldweiden und Grasflächen, einzeln oder in Trupps und Hexenringen.",
+          "sporePrint": "Weiß bis cremeweiß. Die Sporen sind ellipsoid, glatt, dickwandig, etwa 12–18 × 8–12 μm groß, mit Keimpore und dextrinoid.",
+          "uses": "Ein hervorragender Speisepilz, der vor dem Verzehr erhitzt werden muss. Die Hüte werden gern wie Schnitzel paniert und gebraten. Die harten, zähen Stiele werden verworfen oder getrocknet zu Pilzpulver vermahlen.",
+          "confusion": "Der Gemeine Safranschirmling (Chlorophyllum rhacodes) ist kleiner, besitzt gröbere aufgerichtete Schuppen, einen ungenatterten Stiel und rötet bei Anschnitt stark im Fleisch. Der giftige Grüne Schirmling (Chlorophyllum molybdites) besitzt grünliche Lamellen und einen grünen Sporenstaub. Kleine Schirmlingsarten der Gattung Lepiota, die tödlich giftig sein können, bleiben meist unter 10 cm Hutdurchmesser und müssen unbedingt gemieden werden. Junge Knollenblätterpilze (Amanita) besitzen eine häutige Basisscheide.",
+          "notes": "Var. procera und var. pseudo-olivascens sind anerkannt. Letztere entwickelt olivfarbene Flecken auf dem Hut und wächst unter Nadelbäumen. Die Art ist im gemäßigten Eurasien weit verbreitet; nordamerikanische Nachweise bedürfen noch der Bestätigung."
+    },
       en: {
         description: "A saprobic mushroom. Frequent in southern Britain and Ireland, and less common in northern England and Scotland except on sheltered coasts. It also occurs in most of mainland Europe, and through temperate Eurasia. North American records are still unconfirmed.",
         cap: "The cap is 10–25 cm across, occasionally reaching 30 cm. It starts spherical and pale brown to tan, with a darker brown crown that breaks into concentric rings of scales as the skin cracks, and it expands until it is flat with a prominent dark umbo.",
@@ -913,9 +1130,33 @@ export const CATALOG = [
         habitat: "Plodnice sa v Európe objavujú od júna (ojedinele už od mája) do novembra. Rastie jednotlivo, v malých skupinách alebo v čarovných kruhoch na lesných svetlinách, okrajoch listnatých a ihličnatých lesov, rúbaniskách, lúkach, trvalých pasienkoch, medzi papradím, na ustálených pieskových dunách a pri cestách, zriedkavo aj v parkoch a záhradách. Na Slovensku je hojná od nížin po podhorské oblasti.",
         uses: "Je to výborná jedlá huba. Mladé, ešte uzavreté klobúky sú vhodné na plnenie alebo do octového nálevu. Dospelé klobúky sa vyprážajú v trojobale na spôsob viedenského rezňa a hodia sa aj do praženice. Plodnice (vrátane tuhých hlúbikov) sú vhodné aj na sušenie a prípravu hubového prášku.",
         confusion: "Možná je zámena s jedlou bedľou štíhlou (Macrolepiota mastoidea) a s druhmi z okruhu bedle červenejúcej (Chlorophyllum rhacodes), ktorých dužina na reze červenie a na hlúbiku nemajú hadovité šupinkovanie. V trávnatých a synantropných biotopoch hrozí zámena s jedovatou bedľou záhradnou (Chlorophyllum brunneum) a s prudko jedovatými drobnými druhmi rodu bedlička (Lepiota), ktoré majú spravidla klobúk užší ako 10 cm. Nerozvinuté plodnice možno pri nepozornosti zameniť s mladými plodnicami muchotrávok, napríklad muchotrávky tigrovanej (Amanita pantherina)."
+      },
+      cs: {
+            "description": "Saprotrofní houba. Vyskytuje se ve většině kontinentální Evropy a napříč mírnou Eurasií. Severoamerické nálezy jsou dosud nepotvrzené.",
+            "cap": "Klobouk má 10–25 cm v průměru, vzácně dosahuje až 30 cm. Začíná jako vejčitý, otevírá se do zvoncovitého a zralý je ploše deštníkovitý s výrazným tmavohnědým středovým hrbolem. Pokožka klobouku je světle hnědá a záhy se trhá na velké tmavé šupiny na bělavém podkladě.",
+            "hymenium": "Lupeny jsou široké, husté, volné a končí v určité vzdálenosti od třeně u chrupavčitého límečku. Jsou bílé až světle krémové.",
+            "stipe": "Třeň je až 30 cm (vzácně 40 cm) vysoký a 1–2,5 cm tlustý, válcovitý, dutý, na bázi ztlustlý do kulovité hlízy. Povrch pokrývá hnědé klikaté hadovité žíhání. Nese velký, posuvný, dvojitý plstnatý prsten.",
+            "flesh": "Dužnina je bílá a na řezu barvu výrazně nemění. V klobouku je měkká, ve třeni tuhá a vláknitá. Má příjemnou oříškovou chuť i vůni.",
+            "sporePrint": "Bílý nebo velmi světle krémový. Výtrusy jsou eliptické, hladké, přibližně 15–20 × 10–13 μm.",
+            "habitat": "Plodnice vyrůstají od léta do podzimu. Roste na světlých okrajích lesů, mýtinách, loukách a pastvinách.",
+            "uses": "Výborná jedlá houba. Klobouky se obvykle smaží obalované jako řízky nebo se připravují na pánvi. Třeně jsou příliš tuhé na přímou konzumaci, ale hodí se k usušení a rozemletí na houbové koření.",
+            "confusion": "Bedla červenající (Chlorophyllum rhacodes) je menší, má větší odstávající šupiny, třeň bez hadovitého vzoru a její dužnina na řezu červená. Zelenolupeňka Morganova (Chlorophyllum molybdites) má zelenavé lupeny a zelený výtrusný prach a třeň bez hadovitého vzoru. Drobné druhy rodu bedla (Lepiota) mohou být smrtelně jedovaté, proto je bezpečnější nesbírat rozvinuté plodnice pod 10 cm. Nebezpečné mohou být též mladé nerozvinuté bílé plodnice muchomůrek.",
+            "notes": "Rozlišují se var. procera a var. pseudo-olivascens, která má na klobouku olivové tóny a roste pod jehličnany. Severoamerické nálezy vyžadují potvrzení."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Gemeiner_Riesenschirmling"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -973,6 +1214,18 @@ export const CATALOG = [
           name: "Wikipedia",
           href: "https://sk.wikipedia.org/wiki/Bed%C4%BEa_vysok%C3%A1"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Macrolepiota-procera/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Bedla_vysoká"
+            }
       ]
     },
     synonyms: [
@@ -1065,9 +1318,11 @@ export const CATALOG = [
     fruitingFrom: 7,
     fruitingTo: 11,
     label: {
+      de: "Grüner Knollenblätterpilz",
       en: "death cap",
       sk: "muchotrávka zelená"
-    },
+    ,
+      cs: "muchomůrka zelená"},
     names: {
       en: ["deathcap", "death cup", "deadly amanita"],
       sk: [
@@ -1080,8 +1335,21 @@ export const CATALOG = [
         "pečiarka jedovatá",
         "huba uzlovatá"
       ]
-    },
+    ,
+      cs: ["hlízová muchomůrka"]},
     text: {
+      de: {
+          "description": "Ein ektomykorrhizabildender Pilz in Laubwäldern, besonders bei Eichen. Heimisch in weiten Teilen Europas von Irland und Südskandinavien über das Mittelmeergebiet bis Marokko und Algerien, mit Vorkommen im Nordiran. Eingeschleppt in Nordamerika, Australien, Südafrika und Südamerika.",
+          "cap": "Der Hut misst 5–15 cm im Durchmesser. Er ist anfangs eiförmig bis halbkugelig und fast weiß, später gelbgrün, olivgrün oder bronzefarben, meist zur Mitte hin dunkler eingewachsen faserig, und flacht im Alter ab. Der Rand ist ungerieft. Hüllreste fehlen meist oder hinterlassen nur einzelne flüchtige weiße Fetzen. Eine rein weiße Farbform (var. alba) kommt vor.",
+          "hymenium": "Die Lamellen sind frei, breit, dicht stehend und rein weiß, im Alter bisweilen schwach cremefarben mit zartem grünlichen Schimmer.",
+          "stipe": "Der Stiel ist 7–15 cm lang, weißlich mit blasser grünlich-marmorierter Zickzack-Natterung. Im oberen Teil hängt eine zarte, oft geriefte Manschette. Die Stielbasis ist knollig verdickt und von einer weiten, sackartigen, häutigen weißen Scheide (Volva) umgeben, die innen oft grünlich getönt ist.",
+          "flesh": "Das Fleisch ist weiß und verfärbt sich im Anschnitt nicht. Der Geruch junger Fruchtkörper ist unauffällig oder süßlich-honigartig, im Alter wird er unangenehm aasig und widerlich.",
+          "habitat": "Fruchtkörper erscheinen von Juli bis November in Laubwäldern, vor allem bei Eichen, Buchen und Kastanien, seltener im Nadelwald.",
+          "sporePrint": "Weiß. Die Sporen sind glatt, breit ellipsoid, 7–12 × 6–9 μm groß und amyloid.",
+          "uses": "Tödlich giftig. Er enthält hitzestabile Amatoxine und Phallotoxine, die weder durch Kochen noch durch Trocknen oder Einfrieren zerstört werden. Er verursacht den Großteil aller tödlichen Pilzvergiftungen weltweit.",
+          "confusion": "Der Gelbe Knollenblätterpilz (Amanita citrina) riecht nach rohen Kartoffeln, besitzt flockige Velumreste auf dem Hut und eine abgesetzte, gerandete Knolle ohne sackartige Scheide. Champignons (Agaricus) haben keine Scheide und ihre Lamellen verfärben sich rosa und später schokoladenbraun. Weiße Formen können mit dem Kegelhütigen Knollenblätterpilz (Amanita virosa) verwechselt werden. Grüne Täublinge wie der Frauentäubling (Russula cyanoxantha) oder der Grasgrüne Täubling (Russula aeruginea) besitzen brüchiges Fleisch und weder Ring noch Scheide.",
+          "notes": "Rein weiße Fruchtkörper stellen eine Farbform dar. Pilz des Jahres 2019 in Deutschland."
+    },
       en: {
         description: "An ectomycorrhizal mushroom of broadleaf woods, especially with oak. Native across much of Europe, from Ireland and southern Scandinavia through the Mediterranean to Morocco and Algeria, with reports from northern Iran. Introduced in North America, Australia, South Africa, and parts of South America.",
         cap: "The cap is 5–15 cm across. It starts egg-shaped and almost white, then becomes yellow, bronze, or olive, usually darker in the centre, and flattens with age. The margin is not lined. Veil fragments are soon lost, though a large creamy patch can remain in dry weather. An all-white form occurs.",
@@ -1105,9 +1373,33 @@ export const CATALOG = [
         uses: "Je smrteľne jedovatá. Obsahuje amatoxíny a falotoxíny, ktoré varenie, sušenie ani mrazenie nezničia, a spôsobuje väčšinu smrteľných otráv hubami s ťažkým poškodením pečene a obličiek.",
         confusion: "Mierne jedovatá až nejedlá muchotrávka citrónová (Amanita citrina) má na klobúku mapovité zvyšky plachtičky, prirastenú obriezkovitú pošvu na hľuze a jej dužina páchne po surových zemiakoch. Zelené druhy plávok, napríklad plávka trávovozelená (Russula aeruginea), plávka zelenkastá (Russula virescens) či plávka buková (Russula heterophylla), majú krehkú lámavú dužinu a nemajú ani prsteň, ani pošvu. Biela forma muchotrávky zelenej sa zamieňa s jedlými pečiarkami (Agaricus), ktoré však nemajú pošvu a ich lupene sa menia z ružovej na čokoládovohnedú, alebo so smrteľne jedovatou muchotrávkou končistou (Amanita virosa) a muchotrávkou jarnou (Amanita verna). Mladé plodnice uzavreté v pošve pripomínajú prášnice alebo vajíčka muchotrávky cisárskej (Amanita caesarea).",
         notes: "Celobiele plodnice sú farebná forma. Na Slovensku je v nižších a teplejších polohách veľmi hojná a v najsevernejších oblastiach sa nevyskytuje."
+      },
+      cs: {
+            "description": "Ektomykorhizní houba listnatých lesů, rostoucí zejména pod duby. Původní je ve velké části Evropy od Irska a jižní Skandinávie přes Středomoří až po Maroko a Alžírsko, s hlášeními ze severního Íránu. Byla zavlečena do Severní Ameriky, Austrálie, Jihoafrické republiky a částí Jižní Ameriky.",
+            "cap": "Klobouk má 5–15 cm v průměru. Začíná vejčitý a polokulovitý, pak se rozvíjí do klenutého až plochého. Barva je olivově zelená, žlutozelená až bledě bělavá, s radiálně vrostlými vlákny a obvykle bez plachetkových zbytků.",
+            "hymenium": "Lupeny jsou volné, široké a husté. Jsou trvale čistě bílé.",
+            "stipe": "Třeň je 7–15 cm vysoký a 1–2 cm tlustý, bělavý s bledě zelenkavým klikatým hadovitým vzorem. Nese visutý bílý prsten a na bázi vyrůstá z hluboké, volné, bílé vakovité pochvy.",
+            "flesh": "Dužnina je bílá a na řezu barvu nemění. V mládí má slabou vůni, ve stáří nasládle medovou až nepříjemnou.",
+            "sporePrint": "Bílý. Výtrusy jsou hladké, eliptické, přibližně 7–12 × 6–9 μm, a jsou amyloidní.",
+            "habitat": "Plodnice vyrůstají v létě a na podzim, od července do listopadu. Roste v listnatých lesích pod duby, buky a kaštanovníky.",
+            "uses": "Je smrtelně jedovatá. Obsahuje amatoxiny, které vaření, mrazení ani sušení neničí. Příznaky otravy nastupují až po 6–24 hodinách po požití a zahrnují těžké zvracení, křeče a vodnaté průjmy, po nichž následuje selhání jater a ledvin.",
+            "confusion": "Muchomůrka citronová (Amanita citrina) mívá na klobouku hnědavé zbytky plachetky a na bázi má ostře odsedlou hlízu namísto volné vakovité pochvy. Pečárky (Agaricus) nemají pochvu a jejich lupeny jsou růžové a později tmavě hnědé. Bílá forma se může podobat muchomůrce jízlivé (Amanita virosa). Zelené holubinky včetně holubinky trávozelené (Russula aeruginea) mají křehkou dužninu a nemají prsten ani pochvu. Mladá nerozvinutá plodnice v plachetce může připomínat pýchavku, dokud ji podélně nerozkrojíme.",
+            "notes": "Čistě bílé plodnice představují albinotickou barevnou formu."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Gr%C3%BCner_Knollenbl%C3%A4tterpilz"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -1170,6 +1462,18 @@ export const CATALOG = [
           name: "nahuby.sk",
           href: "https://www.nahuby.sk/atlas-hub/Amanita-phalloides/muchotravka-zelena/muchomurka-zelena/ID304"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Amanita-phalloides/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Muchomůrka_zelená"
+            }
       ]
     },
     synonyms: [
@@ -1254,13 +1558,28 @@ export const CATALOG = [
     fruitingFrom: 8,
     fruitingTo: 11,
     label: {
+      de: "Pantherpilz",
       en: "panther cap",
       sk: "muchotrávka tigrovaná"
-    },
+    ,
+      cs: "muchomůrka tygrovaná"},
     names: {
       en: ["panthercap", "false blusher", "panther amanita"]
-    },
+    ,
+      cs: ["muchomůrka panterová"]},
     text: {
+      de: {
+          "description": "Ein ektomykorrhizabildender Pilz in Laub- und Mischwäldern, besonders bei Buche und Eiche. In Mitteleuropa und im südlichen Europa verbreitet, nach Norden hin seltener. Er kommt auch in Westasien vor und wächst gelegentlich bei Nadelbäumen oder auf Trockenrasen.",
+          "cap": "Der Hut ist 5–12 cm breit, glänzend braun bis graubraun, von blass ockerfarben bis dunkelbraun variierend. Der Rand ist fein und deutlich gerieft. Auf der Oberfläche liegen zahlreiche rein weiße, kleine Hüllreste (Warzen), die bei Regen abgewaschen werden können.",
+          "hymenium": "Die Lamellen sind rein weiß, frei, dicht stehend und ziemlich breit.",
+          "stipe": "Der Stiel ist 6–12 cm lang, rein weiß, mit einem hängenden, ungerieften Ring im mittleren oder unteren Drittel, der im Alter oft schlaff herabhängt. Die stielknollige Basis steckt in einer charakteristischen knolligen Verdickung mit einer gerandeten Scheide, über der ein oder mehrere wulstige Riefengürtel (Bergsteigersöckchen) liegen.",
+          "flesh": "Das Fleisch ist weiß und rötet im Anschnitt nicht. Der Geruch ist rettichartig.",
+          "habitat": "Fruchtkörper erscheinen von August bis November in Laub- und Mischwäldern, vor allem unter Eichen und Buchen, seltener unter Fichten und Kiefern.",
+          "sporePrint": "Weiß. Die Sporen sind glatt, breit ellipsoid, 8–12 × 6,7–7,5 μm groß und inamyloid.",
+          "uses": "Giftig und deutlich toxischer als der Fliegenpilz. Er enthält Ibotensäure und Muscimol in hoher Konzentration und löst das Pantherina-Syndrom aus, das mit Delirium, Krämpfen und Koma einhergehen kann. Todesfälle kommen vor.",
+          "confusion": "Der Perlpilz (Amanita rubescens) rötet im Anschnitt und an verletzten Stellen, hat graurosa Hüllschuppen und einen gerieften Ring. Der Graue Wulstling (Amanita excelsa) besitzt graue, flächige Hüllfetzen, einen gerieften Ring und eine rundliche Knolle ohne abgesetzten Rand. Bei starkem Regen können die weißen Flocken abgewaschen sein, sodass der Hut kahl erscheint.",
+          "notes": "Im westlichen Nordamerika unter diesem Namen geführte braune Wulstlinge gehören anderen Arten an; die hier angegebenen Maße beziehen sich auf europäische Fruchtkörper."
+    },
       en: {
         description: "An ectomycorrhizal mushroom of deciduous woodland, especially beech, and of mixed woods with oak. It is a rare find in Britain and Ireland and much more frequent farther south in Europe. It is also recorded across western Asia, and it occurs less often with conifers and rarely in meadows.",
         cap: "The cap is 5–12 cm across. It is shiny brown or grey-brown, and the colour runs from pale ochre to very dark brown. The margin is very finely lined. The cap starts domed and flattens with age. Pure white remains of the universal veil are usually dotted fairly evenly over the surface. They can wash off in wet weather.",
@@ -1284,9 +1603,33 @@ export const CATALOG = [
         uses: "Je prudko jedovatá, ešte jedovatejšia než muchotrávka červená. Obsahuje kyselinu iboténovú a muscimol; spôsobuje ťažké otravy s tráviacimi aj nervovými poruchami, ktoré sa vo výnimočných prípadoch končia smrťou.",
         confusion: "Zámena je možná s jedlou, no chuťovo menej hodnotnou muchotrávkou hrubou (Amanita excelsa), ktorá má sivé útržky plachtičky, ryhovaný prsteň a nemá ostro obrezanú pošvu, a s výbornou jedlou muchotrávkou červenkastou (Amanita rubescens), ktorej dužina na poranených miestach vínovočervenie a prsteň je zreteľne ryhovaný. Zameniť sa dá aj s jedovatou muchotrávkou olivovohnedastou (Amanita franchetii), ktorá má žltkasté bradavky.",
         notes: "Hnedé muchotrávky zo západu Severnej Ameriky uvádzané pod týmto menom predstavujú iné druhy."
+      },
+      cs: {
+            "description": "Ektomykorhizní houba listnatých lesů, zejména bučin a dubových smíšených lesů. Běžná je v jižní a střední Evropě a západní Asii, méně často roste pod jehličnany a vzácně na loukách.",
+            "cap": "Klobouk má 5–12 cm v průměru. Je leskle hnědý nebo šedohnědý, hustě posetý drobnými čistě bílými bradavkami, které lze snadno setřít. V dospělosti má okraj klobouku zřetelné rýhování.",
+            "hymenium": "Lupeny jsou bílé, volné, husté a poměrně široké.",
+            "stipe": "Třeň je 6–12 cm vysoký a 1–2 cm tlustý, bílý a směrem nahoru se mírně zužuje. Nese tenký, hladký, bílý prsten bez rýhování a na bázi má zduřelou kulovitou hlízu s úzkou přirostlou pochvou zakončenou jedním až třemi prstencovitými záhyby.",
+            "flesh": "Dužnina je bílá a po poranění zůstává bílá. Vůně je nevýrazná až slabě ředkvová a chuť nasládlá.",
+            "sporePrint": "Bílý. Výtrusy jsou hladké, eliptické, neamyloidní, přibližně 9–12 × 7–9 μm.",
+            "habitat": "Plodnice vyrůstají od léta do podzimu. Roste pod buky, duby, kaštanovníky, borovicemi a smrky.",
+            "uses": "Je jedovatá. Obsahuje kyselinu ibotenovou a muscimol a způsobuje těžší otravy než muchomůrka červená. Symptomy nastupují během 30 minut až dvou hodin a zahrnují zmatenost, závratě, poruchy vidění, křeče a hluboký spánek.",
+            "confusion": "Muchomůrka šedivka (Amanita excelsa) má šedavé bradavky na klobouku, robustnější třeň, rýhovaný prsten a chybí jí výrazný lem pochvy. Muchomůrka růžovka (Amanita rubescens) na třeni i v dužnině po poranění růžoví a červená. Bílé bradavky se v dešti mohou smýt, takže je možný i zcela holý hnědý klobouk.",
+            "notes": "V západní Severní Americe patří hnědé muchomůrky označované tímto jménem jiným druhům; zde uvedené rozměry platí pro evropské plodnice."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Pantherpilz"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -1345,6 +1688,18 @@ export const CATALOG = [
           href: "https://www.nahuby.sk/atlas-hub/Amanita-pantherina/muchotravka-tigrovana/muchomurka-tygrovana/ID298",
           detail: "muchotrávka tigrovaná"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Amanita-pantherina/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Muchomůrka_tygrovaná"
+            }
       ]
     },
     synonyms: [
@@ -1426,9 +1781,11 @@ export const CATALOG = [
     fruitingFrom: 3,
     fruitingTo: 6,
     label: {
+      de: "Speise-Morchel",
       en: "morel",
       sk: "smrčok jedlý"
-    },
+    ,
+      cs: "smrž obecný"},
     names: {
       en: ["common morel", "yellow morel"],
       sk: [
@@ -1445,8 +1802,21 @@ export const CATALOG = [
         "smrekár",
         "smrečkár"
       ]
-    },
+    ,
+      cs: ["smrž jedlý"]},
     text: {
+      de: {
+          "description": "Ein beliebter Frühlingspilz auf kalkhaltigen Böden. Im engeren Sinne handelt es sich um eine europäische Art, die auch aus China gemeldet ist. In Mitteleuropa gebietsweise verbreitet. Nordamerikanische Funde unter diesem Namen stellen andere Arten dar.",
+          "cap": "Der Hut ist 3–8 cm breit und 5–12 cm hoch, rundlich, eiförmig oder unregelmäßig wabenartig geformt und innen hohl. Die Fruchtschicht besteht aus unregelmäßigen Waben, die durch gewundene Leisten voneinander getrennt sind. Die Farbe reicht von blass cremegelb über ocker bis graugelb und bräunlich, wobei die Rippen meist heller als die Waben sind.",
+          "hymenium": "Die Fruchtschicht kleidet das Innere der Gruben und Waben aus. Als Schlauchpilz (Ascomycota) bildet er Schläuche (Asci), die jeweils acht einzellige Sporen enthalten.",
+          "stipe": "Der Stiel ist 4–10 cm lang und 1,5–4 cm dick, weißlich bis gelblich, mehlig-körnig bereift, zur Basis hin oft gefurcht oder verdickt und wie der Hut vollständig hohl. Hut und Stiel bilden einen durchgehenden Hohlraum.",
+          "flesh": "Das Fleisch ist weißlich bis blassocker, dünn, brüchig-wachsartig. Geruch und Geschmack sind sehr angenehm würzig.",
+          "habitat": "Fruchtkörper erscheinen im Frühjahr von April bis Juni. Er wächst in Auwäldern, an Flussufern, in kalkreichen Laubmischwäldern unter Eschen, Ulmen und Pappeln sowie auf alten Obstwiesen und gestörten Böden.",
+          "sporePrint": "Cremegelb bis ockergelblich. Die Sporen sind glatt, breit ellipsoid, etwa 18–24 × 11–14 μm groß.",
+          "uses": "Ein hervorragender Speisepilz von exquisitem Aroma, der besonders getrocknet an Würzkraft gewinnt. Roh ist er giftig und muss vor dem Verzehr gründlich durchgegart werden.",
+          "confusion": "Die Frühjahrs-Giftlorchel (Gyromitra esculenta) besitzt einen hirnartig gewundenen, rotbraunen Hut und mehrere getrennte Kammern im Inneren; sie ist lebensgefährlich giftig. Die Spitz-Morchel (Morchella elata) hat einen spitzeren, kegelförmigen Hut mit regelmäßigeren Längsrippen. Die Halbfreie Morchel (Morchella semilibera) besitzt einen Hut, der nur am oberen Drittel des Stiels angewachsen ist.",
+          "notes": "Es handelt sich um eine europäische Art, die auch aus China gemeldet ist."
+    },
       en: {
         description: "A spring mushroom of chalky woodland. In the strict sense it is European, and it is also reported from China. It is an infrequent find in Britain and Ireland, and it occurs through mainland Europe. North American fungi once placed under this name are other species.",
         cap: "The cap is 3–8 cm across and 5–12 cm tall. It is sometimes conical, and more often globose or an elongated oval. It is hollow. Irregular pits are separated by narrow ridges. The colour runs from pale cream to ochre, yellowish brown, or mid brown, and it usually darkens with age. The ridges are usually slightly paler than the pits. The margin is inrolled and fused to the stipe.",
@@ -1469,9 +1839,33 @@ export const CATALOG = [
         habitat: "Plodnice sa objavujú od marca do začiatku júna. Rastie v lužných a listnatých lesoch (najmä pod jaseňom, brestom a topoľom), v krovinách, ovocných sadoch a záhradách, obľubuje výživné a vápenaté pôdy.",
         uses: "Po dôkladnej tepelnej úprave je to výborná a vysoko cenená jedlá huba; surové plodnice sú však jedovaté a spôsobujú tráviace ťažkosti. Používa sa do polievok, omáčok, na vyprážanie na masle, plnenie mäsom a hodí sa aj na sušenie.",
         confusion: "Podobný jedlý smrčok kužeľovitý (Morchella conica) a smrčok vysoký (Morchella elata) majú tmavšie, kužeľovito zahrotené klobúky s jamkami usporiadanými v pozdĺžnych radoch. Nebezpečná je zámena so smrteľne jedovatým ušiakom obyčajným (Gyromitra esculenta), ktorý má červenohnedý, mozgovito poprehýbaný klobúk bez pravidelných jamiek a jeho hlúbik má na reze viacero nepravidelných komôrok namiesto jednej súvislej dutiny."
+      },
+      cs: {
+            "description": "Jarní houba vápnitých lesních stanovišť. V přísném smyslu jde o evropský druh hlášený též z Číny. Vyskytuje se napříč kontinentální Evropou; severoamerické houby dříve ztotožňované s tímto taxonem představují jiné druhy.",
+            "cap": "Klobouk má 4–10 cm na výšku a 3–6 cm na šířku. Je vejčitý až kuželovitý se zaobleným vrcholem. Povrch tvoří hluboké nepravidelné jamky a žebra připomínající plástev. Zbarvený je žlutohnědě, okrově až světle plavě.",
+            "hymenium": "Hymenium pokrývá vnitřek jamek a skládá se z vřecek obsahujících askospory.",
+            "stipe": "Třeň je 3–8 cm dlouhý a 1,5–3 cm tlustý, bělavý až krémový, dutý a na bázi zbrázděný. Plynule přechází v dutinu klobouku.",
+            "flesh": "Dužnina je tenká, voskovitá, křehká, bělavá, s jemnou příjemnou vůní a chutí.",
+            "sporePrint": "Bledě okrový až smetanový. Askospory jsou eliptické, hladké, přibližně 18–24 × 11–14 μm.",
+            "habitat": "Plodnice vyrůstají na jaře od dubna do května v lužních lesích, křovinách, zahradách a na vápnitých půdách pod jasany, jilmy a ovocnými stromy.",
+            "uses": "Výborná jedlá houba. V syrovém stavu obsahuje termolabilní látky dráždící žaludek, proto vyžaduje důkladnou tepelnou úpravu. Skvěle se hodí k plnění, dušení na másle i do omáček.",
+            "confusion": "Smrž kuželovitý (Morchella elata) má klobouk tmavší s jamkami uspořádanými v podélných řadách a je špičatější. Ucháč obecný (Gyromitra esculenta) je jedovatý, jeho klobouk je červenohnědý a mozkovitě laločnatý a třeň má komůrkatý, nikoli souvisle dutý. Chřapáč kadeřavý (Helvella crispa) má žebernatý rýhovaný třeň s podélnými dutinami.",
+            "notes": "Je to evropský druh, který je uváděn i z Číny."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Speise-Morchel"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -1546,6 +1940,18 @@ export const CATALOG = [
           name: "Wikipedia",
           href: "https://sk.wikipedia.org/wiki/Smr%C4%8Dok_jedl%C3%BD"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Morchella-esculenta/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Smrž_obecný"
+            }
       ]
     },
     synonyms: [
@@ -1648,9 +2054,11 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 2,
     label: {
+      de: "Austern-Seitling",
       en: "oyster mushroom",
       sk: "hliva ustricová"
-    },
+    ,
+      cs: "hlíva ústřičná"},
     names: {
       en: ["grey oyster mushroom", "oyster fungus", "pearl oyster mushroom"],
       sk: [
@@ -1697,8 +2105,21 @@ export const CATALOG = [
         "pesere",
         "panoše"
       ]
-    },
+    ,
+      cs: []},
     text: {
+      de: {
+          "description": "Ein holzzersetzender Pilz, der an Laubholz büschelig wächst. Weit verbreitet in den gemäßigten und subtropischen Wäldern der Welt. Das Myzel ist fähig, Fadenwürmer (Nematoden) zu lähmen und zu verdauen.",
+          "cap": "Der Hut ist 5–18 cm breit (selten bis 30 cm), muschel- oder spatelförmig, mit anfangs eingerolltem, später welligem Rand. Die Hutfarbe ist sehr variabel, von schiefergrau und blaugrau über braungrau bis dunkelbraun, im Alter oft aufhellend.",
+          "hymenium": "Die Lamellen sind weiß bis cremefarben, breit, stehen dicht und laufen weit am Stiel herab, wo sie oft netzartig verbunden sind.",
+          "stipe": "Der Stiel ist kurz, 1–4 cm lang und 1–2 cm dick, oft seitlich angesetzt oder fehlend, weißlich und an der Basis striegelig behaart. Fruchtkörper wachsen dachziegelartig übereinander.",
+          "flesh": "Das Fleisch ist weiß, saftig und fest, im Stiel zäher werdend. Der Geruch ist angenehm pilzig, mitunter schwach anisartig, der Geschmack mild.",
+          "habitat": "Fruchtkörper erscheinen vor allem im Spätherbst und Winter nach den ersten Kälteeinbrüchen an stehendem oder liegendem Totholz von Laubbäumen, besonders Rotbuche, Pappel und Weide.",
+          "sporePrint": "Weißlich mit zartem Flieder- oder Graustich. Die Sporen sind glatt, zylindrisch bis leicht nierenförmig, 8–12,5 × 3–4,5 μm groß.",
+          "uses": "Ein hervorragender Speisepilz, der weltweit in großem Maßstab kultiviert wird. Roh kann er Magen-Darm-Beschwerden verursachen und muss daher gegart werden.",
+          "confusion": "Der Rillstielige Seitling (Pleurotus cornucopiae) fruchtet im Sommer und besitzt tief herablaufende Rillen am Stiel. Der Taubenblaue Seitling (Pleurotus columbinus) gilt oft als Varietät. Der giftige Ohrförmige Weißseitling (Pleurocybella porrigens) wächst an Nadelholz, ist kleiner und rein weiß. Der Gelbstielige Muschelseitling (Sarcomyxa serotina) hat einen olivgrünlichen Hut und ockergelbe Lamellen.",
+          "notes": "Pleurotus columbinus ist eine blaugraue Form, die zuweilen als eigene Art betrachtet wird; Pleurotus floridanus wird getrennt geführt. Das Myzel fängt und verdaut Nematoden. Arten dieser Gattung enthalten Lovastatin, ein cholesterinsenkendes Statin."
+    },
       en: {
         description: "A saprobic mushroom, sometimes weakly parasitic, on broadleaf wood. It occurs throughout Britain and Ireland and in most of mainland Europe, and it is widely recorded in much of Asia, including Japan, and in parts of North America. It is absent from the Pacific Northwest.",
         cap: "The cap is typically 5–18 cm across (occasionally 2–30 cm, averaging near 15 cm). It is white, cream, brown, smoky grey, or blue-grey, and bracket-like, shell-shaped, fan-shaped, or oyster-shaped, with a lateral or eccentric stipe. It starts convex, with an inrolled margin when young, and becomes flatter or centrally depressed, with a wavy margin that is sometimes split. Fruit bodies often grow in overlapping tiers, each stipe attached separately.",
@@ -1722,9 +2143,33 @@ export const CATALOG = [
         uses: "Je to výborná jedlá huba, ktorá sa vo veľkom aj komerčne pestuje. Mladé plodnice majú jemnú chuť a mäkkú dužinu; používajú sa do polievok, prívarkov, gulášov, rizota, na nakladanie do octu alebo sa vyprážajú. Staršie plodnice a hlúbiky sú tuhé.",
         confusion: "Hliva dubová (Pleurotus dryinus) má plstnatý až oinovatený klobúk, v mladosti prsteň na hlúbiku a rastie skôr jednotlivo. Hliva buková (Pleurotus pulmonarius) je bledšia, belavá až sivookrová, s veľmi hustými žltnúcimi lupeňmi, a plodí častejšie v lete, pričom oba druhy sa môžu krížiť. Hliva lievikovitá (Pleurotus cornucopiae) má hlboko lievikovitý klobúk a žilkovito pospájané lupene zbiehajúce až k báze hlúbika. Na dreve ihličnanov rastie biela hlivuľa uškatá (Pleurocybella porrigens), ktorá je tenkostennejšia, nemá hlúbik a u ľudí s ochorením obličiek môže spôsobiť smrteľnú otravu. Podobná pahliva hniezdovitá (Phyllotopsis nidulans) má oranžovožltý chlpatý klobúk a nepríjemný zápach. Jedovaté druhy rodu húževnatček (Lentinellus) majú zúbkaté ostrie lupeňov.",
         notes: "Oceľovomodrá forma sa niekedy uvádza ako Pleurotus columbinus. Významnými obsahovými látkami sú betaglukán pleurán s imunomodulačnými účinkami a lovastatín znižujúci hladinu cholesterolu."
+      },
+      cs: {
+            "description": "Saprotrofní, někdy slabě parazitická dřevokazná houba listnatých stromů. Vyskytuje se po celé Evropě, v mírné Asii včetně Japonska a v částech Severní Ameriky.",
+            "cap": "Klobouk má 5–20 cm v průměru, vějířovitý až jazykovitý, často uspořádaný ve střechovitých trsech. Pokožka je hladká, zbarvená břidlicově šedě, ocelově modrošedě až tmavě šedohnědě.",
+            "hymenium": "Lupeny jsou husté, bílé až šedobílé, ve stáří žloutnoucí a sbíhající hluboko na třeň.",
+            "stipe": "Třeň je 1–4 cm dlouhý a 1–3 cm tlustý, postranní, bílý a na bázi plstnatý, někdy téměř zakrnělý.",
+            "flesh": "Dužnina je bílá, v klobouku pružná a masitá, ve třeni tuhá a vláknitá. Má příjemnou nasládlou houbovou vůni.",
+            "sporePrint": "Bělavý s lila až šedomodrým nádechem. Výtrusy jsou válcovité až eliptické, hladké, přibližně 8–11 × 3–4 μm.",
+            "habitat": "Plodnice vyrůstají od podzimu do jara, často i během mírné zimy, na kmenech a pařezech listnáčů, zejména buků, vrb, topolů a bříz.",
+            "uses": "Výborná jedlá houba pěstovaná po celém světě. V syrovém stavu obsahuje termolabilní látky, proto vyžaduje důkladnou tepelnou úpravu. Využívá se do polévek, gulášů, směsí i k nakládání.",
+            "confusion": "Hlíva dubová (Pleurotus dryinus) má bělavý klobouk s plstnatým okrajem a pomíjivý prsten na třeni. Hlíva plicní (Pleurotus pulmonarius) je světlejší a plodí častěji v létě. Drobnější trepkovitky (Crepidotus) zůstávají pod 4 cm v průměru. Hlíva ušatá (Pleurocybella porrigens) roste na dřevě jehličnanů a může být nebezpečná pro osoby s onemocněním ledvin. Podobné jsou též hlíva miskovitá (Pleurotus cornucopiae), hlívečka lupenitá (Hohenbuehelia petaloides) a nejedlá hlíva hnízdovitá (Phyllotopsis nidulans). Mezi toxické cizokrajné druhy patří Omphalotus nidiformis v Austrálii a Omphalotus olivascens a strmělka vosková (Clitocybe dealbata) v Severní Americe. Hlíva máčková (Pleurotus eryngii) je příbuzný pěstovaný druh.",
+            "notes": "Hlíva holubí (Pleurotus columbinus) je modrošedá forma někdy vyčleňovaná jako samostatný druh a Pleurotus floridanus je rovněž veden odděleně. Mycelium hlívy polapí a tráví půdní hlístice. Druhy tohoto rodu obsahují lovastatin, který snižuje hladinu cholesterolu v krvi."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Austern-Seitling"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -1804,6 +2249,18 @@ export const CATALOG = [
           name: "nahuby.sk",
           href: "https://www.nahuby.sk/atlas-hub/Pleurotus-ostreatus/hliva-ustricovita/hliva-ustricna/ID89"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Pleurotus-ostreatus/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Hlíva_ústřičná"
+            }
       ]
     },
     synonyms: [
@@ -1900,13 +2357,28 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 11,
     label: {
+      de: "Gemeiner Schwefelporling",
       en: "chicken of the woods",
       sk: "sírovec obyčajný"
-    },
+    ,
+      cs: "sírovec žlutooranžový"},
     names: {
       en: ["sulphur polypore", "sulphur shelf", "chicken polypore", "lobster of the woods"]
-    },
+    ,
+      cs: ["choroš sírový"]},
     text: {
+      de: {
+          "description": "Ein auffälliger Porling an lebendem und totem Laubholz, selten an Eibe. Weit verbreitet in ganz Europa und Nordamerika. Er lebt als Parasit und Saprotroph und verursacht im Kernholz eine intensive Braunfäule.",
+          "cap": "Die konsolen- bis fächerförmigen Hüte werden 10–40 cm breit und 3–12 cm dick und wachsen meist dachziegelig übereinander. Die Oberseite ist jung leuchtend schwefelgelb bis lachs- oder orangerot, samtig und saftig, im Alter verblassend und kreidig-brüchig werdend.",
+          "hymenium": "Die Unterseite trägt feine Röhren (1,5–4 mm lang) mit leuchtend schwefelgelben Poren (2–4 pro Millimeter), die im Alter blassgelb verblassen.",
+          "stipe": "Ein Stiel fehlt; die Fruchtkörper sitzen stiellos oder mit verschmälertem Ansatz direkt am Holz.",
+          "flesh": "Das Fleisch ist jung weich, saftig und gelblich-weiß, später trocken und bröckelig wie Kreide. Es riecht angenehm pilzig und schmeckt schwach säuerlich.",
+          "habitat": "Fruchtkörper erscheinen von Mai bis September an lebenden Stämmen oder Stümpfen von Laubbäumen, vor allem Eichen, Weiden, Pappeln, Obstbäumen und Robinien, seltener an Nadelholz.",
+          "sporePrint": "Weiß. Die Sporen sind breit ellipsoid bis eiförmig, 5–7 × 3,5–4,5 μm groß.",
+          "uses": "Jung und saftig ein guter Speisepilz, dessen Geschmack und Textur an Hühnerfleisch erinnern (engl. Chicken of the Woods). Er muss vor dem Verzehr gut durchgegart werden. An Eibe gewachsene Exemplare sind wegen möglicher Toxinaufnahme zu meiden. Manche Personen reagieren mit Unverträglichkeiten.",
+          "confusion": "Der Riesenporling (Meripilus giganteus) besitzt bräunliche Hüte und Poren, die bei Verletzung rasch schwärzen. In Nordamerika kommen nah verwandte Arten wie Laetiporus cincinnatus, Laetiporus huroniensis und Laetiporus gilbertsonii vor.",
+          "notes": "Laetiporus cincinnatus, Laetiporus huroniensis, Laetiporus gilbertsonii und Laetiporus montanus sind eigenständige Arten."
+    },
       en: {
         description: "A bracket fungus of living and dead broadleaved trees, and sometimes of yew. It is infrequent in many parts of Britain and Ireland and locally common, including in yew woodland. The same fungus, or species very close to it, is reported across northern Europe and, in North America, east of the Rocky Mountains.",
         cap: "Individual brackets are typically 10–40 cm wide (occasionally 5–60 cm across) and 3–12 cm thick. Young brackets are soft and spongy, with broad wavy margins that become thinner and paler with age. The colour runs from bright orange and pinkish orange to egg yellow or pale creamy yellow, and old brackets fade to tan or whitish.",
@@ -1930,9 +2402,33 @@ export const CATALOG = [
         uses: "Mladé šťavnaté plodnice sú po tepelnej úprave jedlé a niektorí hubári ich pokladajú za lahôdku. Upravujú sa na spôsob viedenského rezňa, nakladajú sa do octového nálevu alebo sa používajú v nakyslých omáčkach a gulášoch. Surová huba je nejedlá a staršie plodnice sú tuhé a drevnaté. Plodnice rastúce na tise a agáte sa nezbierajú, pretože môžu vyvolať vracanie a hnačky; exempláre z duba bývajú niekedy mierne trpké.",
         confusion: "Zámena s inými hubami je pre žiarivé sfarbenie málo pravdepodobná. Tvarom trsov a niekedy aj chuťou môže mladé plodnice pripomínať vejárovec obrovský (Meripilus giganteus), ktorý je však okrovohnedý a jeho póry aj dužina po otlačení a na reze černejú. V horských smrečinách rastie príbuzný sírovec horský (Laetiporus montanus).",
         notes: "Laetiporus montanus, Laetiporus cincinnatus, Laetiporus huroniensis a Laetiporus gilbertsonii sú samostatné druhy."
+      },
+      cs: {
+            "description": "Dřevokazná houba působící hnědou hnilobu listnáčů. Je široce rozšířená v Evropě a v mírných oblastech Asie a Severní Ameriky.",
+            "cap": "Plodnice tvoří velké střechovité trsy o šířce 10–40 cm a tloušťce 1–4 cm. Povrch je sametový až zvlněný, zářivě sírově žlutý až oranžově žlutý, stářím vybledající.",
+            "hymenium": "Rourky jsou 2–5 mm dlouhé, sírově žluté. Póry jsou drobné, 3–4 na milimetr, zářivě žluté a po otlačení nemění barvu.",
+            "stipe": "Třeň chybí nebo je redukován na krátké boční ztloustnutí.",
+            "flesh": "Dužnina je v mládí měkká, šťavnatá a sýrovitá, světle žlutá, stářím tuhá a drobivá. Má nakyslou vůni i chuť.",
+            "sporePrint": "Bílý až světle nažloutlý. Výtrusy jsou eliptické, hladké, přibližně 5–7 × 3,5–5 μm.",
+            "habitat": "Plodnice vyrůstají od května do září na živých i odumřelých kmenech listnatých stromů, zvláště dubů, vrb, topolů a ovocných stromů.",
+            "uses": "Jedlá houba s výhradou. Ke sběru se hodí výhradně mladé, měkké okraje plodnic. Vyžaduje důkladnou tepelnou úpravu (alespoň 20 minut), neboť v syrovém stavu může způsobit žaludeční nevolnost. Texturou připomíná kuřecí maso.",
+            "confusion": "Bledé plodnice mohou připomínat vějířovec obrovský (Meripilus giganteus), jehož póry po otlačení černají. V Severní Americe roste na bázích dubů Laetiporus cincinnatus s bělavými póry, Laetiporus persicinus hnědne po otlačení, Laetiporus huroniensis roste na jehličnanech a Laetiporus gilbertsonii na eukalyptech a dubech na západě.",
+            "notes": "Komplex sírovce zahrnuje více příbuzných druhů, jako jsou Laetiporus cincinnatus, Laetiporus huroniensis, Laetiporus gilbertsonii a Laetiporus montanus."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Gemeiner_Schwefelporling"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "name",
@@ -2035,6 +2531,18 @@ export const CATALOG = [
           name: "Encyclopaedia Beliana",
           href: "https://beliana.sav.sk/heslo/hlinovec"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Laetiporus-sulphureus/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Sírovec_žlutooranžový"
+            }
       ]
     },
     synonyms: [
@@ -2161,14 +2669,29 @@ export const CATALOG = [
     fruitingFrom: 8,
     fruitingTo: 11,
     label: {
+      de: "Maronen-Röhrling",
       en: "bay bolete",
       sk: "suchohríb hnedý"
-    },
+    ,
+      cs: "hřib hnědý"},
     names: {
       en: ["bay boletus", "bay-brown bolete", "bay-capped bolete", "false cep"],
       sk: ["hríb hnedý", "masliak", "gaštaniak"]
-    },
+    ,
+      cs: ["suchohřib hnědý","podborovák","panský hřib"]},
     text: {
+      de: {
+          "description": "Ein weit verbreiteter ektomykorrhizabildender Röhrling in Nadel- und Mischwäldern. Heimisch in weiten Teilen Europas sowie in Nordamerika und Asien. Er bevorzugt saure, nährstoffarme Böden und meidet Kalkböden.",
+          "cap": "Der Hut misst typischerweise 5–15 cm im Durchmesser, ist kastanien- bis maronenbraun oder dunkelbraun, anfangs halbkugelig, später polsterförmig gewölbt. Die Oberfläche ist jung samtig und glättet sich im Alter; bei feuchtem Wetter wird sie klebrig-schmierig.",
+          "hymenium": "Die Röhren sind 1–2 cm lang, cremeweiß bis blassgelb, später olivgelblich. Die eckigen Poren (1–3 pro Millimeter) sind cremefarben bis gelbgrün und bläuen bei Druck oder Verletzung intensiv blaugrün.",
+          "stipe": "Der Stiel ist 4–15 cm lang und 1–4 cm dick, zylindrisch bis leicht keulig, längsfaserig bräunlich gestreift auf blasserem Grund, jedoch ohne echtes Netz. An der Stielbasis haftet weißes Myzel.",
+          "flesh": "Das Fleisch ist weißlich bis blassgelb und blaut im Anschnitt vor allem über den Röhren und an der Stielspitze schwach bis mäßig. Der Geruch ist schwach fruchtig, der Geschmack mild.",
+          "habitat": "Fruchtkörper erscheinen vom Spätsommer bis in den Spätherbst (August bis November) einzeln oder gesellig unter Kiefern, Fichten und anderen Nadelbäumen, seltener unter Buchen und Eichen.",
+          "sporePrint": "Olivbraun. Die Sporen sind spindelig-ellipsoid, glatt, etwa 11–15 × 4–5,5 μm groß.",
+          "uses": "Ein hervorragender und geschätzter Speisepilz, der sich vorzüglich zum Braten, Schmoren und Trocknen eignet. Ältere Exemplare werden leicht schwammig.",
+          "confusion": "Der Gemeine Steinpilz (Boletus edulis) hat ein deutliches weißes Netz am Stiel und seine Poren blauen nicht. Die Ziegenlippe (Xerocomus subtomentosus) besitzt größere, leuchtend gelbe Poren, die kaum blauen, und einen filzigen Hut. Der Bitterröhrling (Tylopilus felleus) hat ein dunkles Stielnetz, rosa Poren und schmeckt bitter.",
+          "notes": "Eine Beurteilung aus dem Jahr 2019 stuft die Art als nicht gefährdet (Least Concern) mit stabilem Bestand ein. Fruchtkörper können Schwermetalle sowie radioaktives Cäsium-137 anreichern."
+    },
       en: {
         description: "An ectomycorrhizal mushroom of coniferous and mixed woods. A 2019 assessment lists it as native across much of Europe and in Canada, the United States, and Russia. It is common in Britain and Ireland. Further records are reported from Turkey, Jordan, China, Taiwan, and central Mexico.",
         cap: "The cap is typically 5–15 cm across (3–9 cm in North American collections). It is bay brown, chestnut, dark brown, or reddish brown, finely downy or velvety when young and smooth later. It becomes sticky or slimy in wet weather and soon dries. The margin is narrow and overhanging, and the cuticle is difficult to peel from the flesh.",
@@ -2192,9 +2715,33 @@ export const CATALOG = [
         uses: "Je to výborná a všestranne využiteľná jedlá huba, jedna z najhojnejších hríbovitých húb, vhodná do polievok, omáčok, praženice aj na sušenie.",
         confusion: "Možná je zámena s jedlým hríbom smrekovým (Boletus edulis), ktorý má na hlúbiku bielu sieťku a rúrky, ktoré po otlačení nemodrejú, alebo so suchohríbom plstnatým (Xerocomus subtomentosus), ktorý má suchý zamatový klobúk a širšie žlté póry. Na rovnakých stanovištiach rastie nejedlý, horký podhríb žlčový (Tylopilus felleus) s tmavou sieťkou na hlúbiku a ružovejúcimi pórmi. Forma opisovaná predtým ako suchohríb vresový (Boletus badiorufus), dnes považovaná za synonymum tohto druhu, sa vyznačuje veľmi krátkymi, takmer nemodrejúcimi rúrkami a dole zahroteným hlúbikom.",
         notes: "Hodnotenie IUCN z roku 2019 ho zaraďuje medzi málo dotknuté druhy (Least Concern). Hnedé farbivo norbadión A v pokožke klobúka viaže ťažké kovy a rádioaktívne cézium-137."
+      },
+      cs: {
+            "description": "Velká ektomykorhizní houba jehličnatých a smíšených lesů. Běžná je v celé Evropě a v mírných oblastech Severní Ameriky.",
+            "cap": "Klobouk má 4–15 cm v průměru, polokulovitý, pak sklenutý až plochý. Pokožka je kaštanově až tmavě čokoládově hnědá, za sucha sametová, za vlhka slizká.",
+            "hymenium": "Rourky jsou 8–15 mm dlouhé, bledě žluté až zelenožluté. Póry jsou drobné, hranaté, v mládí krémové, pak žlutozelené a po poranění či otlačení rychle modrozelenají.",
+            "stipe": "Třeň je 5–12 cm vysoký a 1,5–4 cm tlustý, válcovitý, vláknitý, podélně žíhaný a zbarvený hnědavě, bez vyvinuté síťky.",
+            "flesh": "Dužnina je bělavá až světle žlutá, nad rourkami a pod pokožkou na řezu slabě modrá, s mírnou příjemnou chutí a slabě ovocnou vůní.",
+            "sporePrint": "Olivově hnědý. Výtrusy jsou vřetenovité, hladké, přibližně 12–15 × 4,5–5,5 μm.",
+            "habitat": "Roste hojně od července do listopadu v jehličnatých a smíšených lesích pod smrky a borovicemi, často v mechu a borůvčí.",
+            "uses": "Výborná a mezi houbaři velmi vyhledávaná jedlá houba. Hodí se k sušení, smažení, do polévek i do octa.",
+            "confusion": "Hřib smrkový (Boletus edulis) mívá někdy kaštanově hnědý klobouk, ale jeho třeň nese vystouplou bílou síťku a jeho póry nemodrají. Hřib osikový (Leccinum aurantiacum) a křemenáč březový (Leccinum versipelle) mají šupinkatý třeň a dužninu šednoucí až černající. Hřib sametový (Xerocomellus pruinatus) má dužninu sytě žlutou a třeň žlutý s červeným tečkováním. Hřib žlučník (Tylopilus felleus) má výraznou tmavou síťku na třeni, stářím růžovějící póry a je odporně hořký.",
+            "notes": "Podle hodnocení z roku 2019 je málo dotčeným druhem (Least Concern) se stabilní populací. Plodnice mohou bioakumulovat rtuť, kobalt a nikl a pigment norbadion A zakoncentrovává radioaktivní cesium 137."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Maronen-R%C3%B6hrling"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "name",
@@ -2286,6 +2833,18 @@ export const CATALOG = [
           name: "Wikipedia",
           href: "https://sk.wikipedia.org/wiki/Suchohr%C3%ADb_hned%C3%BD"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Imleria-badia/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Hřib_hnědý"
+            }
       ]
     },
     synonyms: [
@@ -2379,9 +2938,11 @@ export const CATALOG = [
     fruitingFrom: 7,
     fruitingTo: 11,
     label: {
+      de: "Honiggelber Hallimasch",
       en: "honey fungus",
       sk: "podpňovka obyčajná"
-    },
+    ,
+      cs: "václavka obecná"},
     names: {
       en: ["honey mushroom", "bootlace fungus"],
       sk: [
@@ -2434,8 +2995,21 @@ export const CATALOG = [
         "chladnačka",
         "halamaš"
       ]
-    },
+    ,
+      cs: ["podtrnka"]},
     text: {
+      de: {
+          "description": "Ein gefürchteter Parasit an lebenden Laubbäumen und Saprotroph an totem Holz. Weit verbreitet in Europa und Nordamerika. Das im Holz wachsende Myzel zeigt Biolumineszenz (Leuchtholz), während die Fruchtkörper selbst nicht leuchten.",
+          "cap": "Der Hut ist 3,5–15 cm breit, honiggelb bis ockerbraun oder rötlich-braun, oft mit dunklerer Mitte. Anfangs halbkugelig, später ausgebreitet mit gewelltem Rand. Der Hut ist vor allem zur Mitte hin mit feinen dunklen Schüppchen besetzt, die im Alter abgewischt werden können.",
+          "hymenium": "Die Lamellen sind angewachsen bis leicht herablaufend, weißlich bis blass fleischfarben, im Alter bräunlich gefleckt.",
+          "stipe": "Der Stiel ist 6–20 cm lang und 0,5–2,5 cm dick, zähfaserig, an der Basis oft büschelig verwachsen, gelblich-braun bis oliv-schwarzbraun. Im oberen Drittel sitzt ein beständiger, dicker, weißer, unterseits gelblich beflockter Ring.",
+          "flesh": "Das Fleisch ist weißlich, fest, im Stiel zähfaserig. Der Geruch ist angenehm, der Geschmack anfangs mild, hinterlässt jedoch ein kratzendes Gefühl im Rachen.",
+          "habitat": "Fruchtkörper erscheinen von September bis November büschelig an Stümpfen, Wurzeln und Stämmen verschiedener Laubbäume, besonders Eichen und Buchen.",
+          "sporePrint": "Weiß bis blass cremefarben. Die Sporen sind ellipsoid, glatt, 7–9 × 5–6 μm groß und inamyloid.",
+          "uses": "Bedingt essbar. Er ist roh giftig und verursacht schwere Magen-Darm-Störungen. Er muss mindestens 15–20 Minuten gründlich gekocht werden, wobei das Kochwasser weggeschüttet wird. Nur die Hüte junger Pilze verwenden.",
+          "confusion": "Andere Hallimasch-Arten wie Armillaria ostoyae (an Nadelholz mit dunkleren Schuppen) und Armillaria gallica sind ähnlich. Das Gifthäubling (Galerina marginata) wächst ebenfalls an Holz, hat braunen Sporenstaub, einen flüchtigen Ring und ist tödlich giftig. Der Grünblättrige Schwefelkopf (Hypholoma fasciculare) hat grünliche Lamellen und schmeckt bitter.",
+          "notes": "Das aktive Myzel im faulenden Holz erzeugt Biolumineszenz."
+    },
       en: {
         description: "A parasitic mushroom on living broadleaf wood, and a saprobe on stumps and dead roots. It is common in Britain and Ireland and through much of mainland Europe, rarer in Scandinavia and more frequent farther south, and it is recorded in eastern and southeastern North America and in California.",
         cap: "The cap is 3.5–15 cm across. It is honey-yellow to golden yellow or red-brown, usually darker at the centre. It starts deeply convex and flattens, often developing a raised centre and a wavy, striate margin. Fine dark or brownish scales cover the young cap, most noticeably toward the centre, though they may wear away with age. The surface is dry to tacky when wet.",
@@ -2457,9 +3031,32 @@ export const CATALOG = [
         habitat: "Plodnice sa objavujú od júla do novembra (na Slovensku najhojnejšie od konca septembra do polovice októbra). Rastú v hustých trsoch na živých kmeňoch, pňoch a podzemných koreňoch listnatých stromov vrátane dubov a ovocných drevín, pričom v pôde a pod kôrou sa huba šíri tuhými čiernymi povrazcami podhubia (rizomorfami). Po odumretí hostiteľa ďalej rozkladá drevo.",
         uses: "Zbierajú sa len mladé klobúky (hlúbiky sú príliš tuhé a vláknité), ktoré sú jedlé až po dôkladnej tepelnej úprave trvajúcej aspoň 15–20 minút; hodia sa najmä na nakladanie do octového nálevu a do polievok. Surové alebo nedostatočne uvarené plodnice spôsobujú vážne žalúdočné a črevné ťažkosti a u citlivých osôb môže vyvolať nevoľnosť aj dobre uvarená huba.",
         confusion: "Do sedemdesiatych rokov 20. storočia sa pod týmto menom uvádzalo viacero príbuzných druhov. Podpňovka smreková (Armillaria ostoyae) má na spodnej strane prsteňa tmavohnedé až čierne šupinky a rastie najmä na ihličnanoch. Podpňovka žltá (Armillaria gallica) má hľuzovitú bázu hlúbika a len pavučinovú prstencovú zónu. Podpňovka bezprsteňová (Desarmillaria tabescens) prsteň vôbec nemá. Nejedlá šupinačka strapatá (Pholiota squarrosa) má hrubo šupinatý klobúk aj hlúbik, hrdzavohnednúce lupene a reďkovkovú chuť. Nebezpečná je zámena s jedovatou strapcovkou zväzkovitou (Hypholoma fasciculare), ktorá má sírovožlté až olivovozelené lupene a horkú chuť, alebo so smrteľne jedovatou kapucňovkou okrovohnedou (Galerina marginata), ktorá je drobnejšia a má hrdzavohnedý výtrusný prach."
+      },
+      cs: {
+            "description": "Dřevokazná houba, která parazituje na živých listnáčích a následně roste saprotrofně na jejich mrtvém dřevě. Rozšířena je v mírném pásmu severní polokoule.",
+            "cap": "Klobouk má 3–15 cm v průměru, nejprve polokulovitý, pak sklenutý s tupým hrbolem. Zbarvený je medově žlutě, žlutohnědě až rezavě hnědě a povrch pokrývají drobné tmavé šupinky soustředěné především ve středu.",
+            "hymenium": "Lupeny jsou mírně sbíhavé, husté, zprvu bělavé, později narůžovělé až hnědavě skvrnité.",
+            "stipe": "Třeň je 6–15 cm dlouhý a 1–2 cm tlustý, válcovitý, na bázi ztlustlý a často srostlý s dalšími třeni do trsu. Nese nápadný bílý až nažloutlý blanitý prsten.",
+            "flesh": "Dužnina je bílá až nažloutlá, v klobouku měkká, ve třeni tuhá a vláknitá, s mírně trpkou chutí a příjemnou houbovou vůní.",
+            "sporePrint": "Bílý až krémový. Výtrusy jsou eliptické, hladké, přibližně 7–9 × 5–6 μm.",
+            "habitat": "Vyrůstá od září do listopadu v mohutných trsech na kořenech, pařezech a kmenech listnatých stromů, zejména dubů a buků.",
+            "uses": "Jedlá houba s výhradou. V syrovém stavu nebo při nedostatečném povaření je jedovatá a způsobuje žaludeční nevolnost. Vyžaduje důkladnou tepelnou úpravu (minimálně 20 minut varu). K jídlu se sbírají pouze mladé kloboučky, tradičně do guláše či k nakládání do octa.",
+            "confusion": "Václavka smrková (Armillaria ostoyae) roste na jehličnanech, má tmavší šupiny a tlustší prsten. Šupinovka kostrbatá (Pholiota squarrosa) má suchý třeň hustě pokrytý odstávajícími šupinami a hnědý výtrusný prach. Jedovatá třepenitka svazčitá (Hypholoma fasciculare) má sírově žlutou dužninu s hořkou chutí, zelenošedé lupeny a postrádá blanitý prsten. Opeňka měnlivá (Kuehneromyces mutabilis) má třeň pod prstenem tmavě šupinkatý a příjemnou vůni."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Honiggelber_Hallimasch"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -2582,6 +3179,18 @@ export const CATALOG = [
           href: "https://www.gbif.org/species/2536891",
           detail: "2536891"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Armillaria-mellea/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Václavka_obecná"
+            }
       ]
     },
     synonyms: [
@@ -2675,13 +3284,28 @@ export const CATALOG = [
     fruitingFrom: 4,
     fruitingTo: 11,
     label: {
+      de: "Schopf-Tintling",
       en: "shaggy inkcap",
       sk: "hnojník obyčajný"
-    },
+    ,
+      cs: "hnojník obecný"},
     names: {
       en: ["lawyer's wig", "shaggy mane", "shaggy ink cap"]
-    },
+    ,
+      cs: []},
     text: {
+      de: {
+          "description": "Ein saprotropher Pilz auf nährstoffreichen Böden, Rasenflächen und Wegrändern. Kosmopolitisch auf der Nord- und Südhalbkugel verbreitet. Die reifen Lamellen zerfließen durch Autolyse tintenartig zu einer schwarzen Flüssigkeit.",
+          "cap": "Der Hut ist 5–15 cm hoch und 3–6 cm breit, anfangs walzenförmig geschlossen, dann glockig. Er ist weiß, mit abstehenden zottigen Schuppen besetzt, die zur Spitze hin ockerbraun getönt sind. Reife Hüte schwärzen vom Rand her und zerfließen rasch.",
+          "hymenium": "Die Lamellen stehen sehr dicht, sind frei, anfangs rein weiß, färben sich über rosa zu tiefschwarz und zerfließen zusammen mit dem Hutrand zu schwarzer Tinte.",
+          "stipe": "Der Stiel ist 10–25 cm lang und 1–2 cm dick, weiß, hohl, an der Basis leicht verdickt, mit einem dünnen, verschieblichen weißen Ring, der bald abfällt.",
+          "flesh": "Das Fleisch ist weiß, im Hut sehr zart und zerbrechlich. Geruch und Geschmack sind angenehm mild.",
+          "habitat": "Fruchtkörper erscheinen von Mai bis November auf Fettwiesen, Parkrasen, Gärten, Schotterwegen und Ruderalstellen.",
+          "sporePrint": "Schwarz. Die Sporen sind ellipsoid, glatt, mit auffälliger Keimpore, etwa 10–14 × 6,5–8,5 μm groß.",
+          "uses": "Ein hervorragender Speisepilz, solange die Lamellen noch vollkommen rein weiß sind. Er muss nach dem Sammeln sehr rasch verarbeitet werden, da der Tintenzerfall auch nach der Ernte fortschreitet. Die Art enthält kein Coprin.",
+          "confusion": "Der Faltentintling (Coprinopsis atramentaria) besitzt einen graubraunen, kahlen, längsgerillten Hut, enthält Coprin und führt in Verbindung mit Alkohol zu schweren Vergiftungen (Coprinus-Syndrom).",
+          "notes": "Er reichert Schwermetalle an, insbesondere Quecksilber. Pilz des Jahres 2024 in Deutschland."
+    },
       en: {
         description: "A saprobic mushroom of meadows, lawns, path edges, and open woodland. It is widespread and common in Britain and Ireland and through mainland Europe, from Scandinavia to the Mediterranean, and it also occurs in North America. It appears to have been introduced to Australia, New Zealand, and Iceland.",
         cap: "The cap is 5–15 cm tall (occasionally up to 20 cm) and 3–8 cm across. It is oval to cylindrical when young, expanding into a narrow bell shape. The surface is white with a pale brown crown and breaks into large, shaggy, recurved scales. At maturity the cap darkens and deliquesces (dissolves into black ink) from the lower margin upward until only a small disc remains at the top of the stipe.",
@@ -2705,9 +3329,33 @@ export const CATALOG = [
         uses: "Mladé pevné plodnice s čisto bielymi lupeňmi sú výborná jedlá huba. Keďže po zbere rýchlo starnú a roztápajú sa na nejedlú čiernu hmotu, musia sa tepelne upraviť krátko po nazbieraní. Na rozdiel od hnojníka atramentového (Coprinopsis atramentaria) tento druh neobsahuje koprín, takže v kombinácii s alkoholom nespôsobuje otravu.",
         confusion: "V mladosti sa mu môže podobať nejedlý hnojník strakatý (Coprinopsis picacea), ktorý má však tmavohnedý až čiernohnedý klobúk s kontrastnými bielymi útržkami plachtičky a nepríjemný zápach. Menší hnojník atramentový (Coprinopsis atramentaria) má sivohnedý, takmer hladký klobúk a obsahuje koprín, ktorý pri požití alkoholu vyvoláva akútnu otravu. V Severnej Amerike sa s mladými plodnicami zamieňa jedovatý druh Chlorophyllum molybdites.",
         notes: "Na rozdiel od väčšiny ostatných hnojníkov preradených do čeľade Psathyrellaceae zostal v čeľadi pečiarkovité (Agaricaceae). Hodnotenie IUCN z roku 2019 (upravené v roku 2022) ho zaraďuje medzi málo dotknuté druhy (Least Concern)."
+      },
+      cs: {
+            "description": "Saprotrofní houba bohatých travnatých půd. Hojně se vyskytuje v mírném pásmu celé severní polokoule.",
+            "cap": "Klobouk je 4–10 cm vysoký a 3–6 cm široký, v mládí válcovitý až kuželovitý, později zvoncovitý. Pokožka je čistě bílá, hustě pokrytá odstávajícími šupinami, na temeni okrová.",
+            "hymenium": "Lupeny jsou volné, husté, nejprve čistě bílé, pak růžovějící a nakonec se spolu s kloboukem od okraje roztékají na černou kašovitou tekutinu (autolýza).",
+            "stipe": "Třeň je 10–25 cm vysoký a 1–2 cm tlustý, bílý, dutý, hedvábně lesklý, na bázi ztlustlý, s úzkým posuvným bílým prstenem.",
+            "flesh": "Dužnina je tenká, bílá a křehká, s jemnou příjemnou vůní a chutí.",
+            "sporePrint": "Černý. Výtrusy jsou eliptické s nápadným klíčním pórem, hladké, přibližně 10–14 × 6,5–8,5 μm.",
+            "habitat": "Roste od května do listopadu na loukách, v zahradách, parcích, u cest a na hnojených ruderálních plochách.",
+            "uses": "Výborná jedlá houba, avšak pouze v raném mládí, dokud jsou lupeny zcela čistě bílé. Po utržení se musí ihned zpracovat, jinak rychle podlehne autolýze. Na rozdíl od hnojníku inkoustového neobsahuje koprin a nezpůsobuje antabusový syndrom při požití alkoholu.",
+            "confusion": "Hnojník inkoustový (Coprinopsis atramentaria) má klobouk šedohnědý, rýhovaný a hladký bez bílých šupin; v kombinaci s alkoholem způsobuje otravu. Hnojník strakatý (Coprinopsis picacea) má tmavě hnědý klobouk s velkými bílými plstnatými záplatami a je nejedlý. Hnojník třpytivý (Coprinellus micaceus) je menší, roste v trsech na dřevě a má na klobouku třpytivá zrníčka.",
+            "notes": "Zatímco většina hnojníků byla přeřazena do čeledi Psathyrellaceae, tento druh zůstává v čeledi Agaricaceae. Podle hodnocení z roku 2019 je málo dotčeným druhem (Least Concern). Mycelium dokáže imobilizovat a trávit půdní hlístice."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Schopf-Tintling"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -2817,6 +3465,18 @@ export const CATALOG = [
           href: "https://www.gbif.org/species/7987658",
           detail: "7987658"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Coprinus-comatus/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Hnojník_obecný"
+            }
       ]
     },
     synonyms: [
@@ -2907,14 +3567,29 @@ export const CATALOG = [
     fruitingFrom: 4,
     fruitingTo: 7,
     label: {
+      de: "Frühjahrs-Giftlorchel",
       en: "false morel",
       sk: "ušiak obyčajný"
-    },
+    ,
+      cs: "ucháč obecný"},
     names: {
       en: ["turban fungus", "brain mushroom", "beefsteak morel", "elephant ears", "rain mushroom"],
       sk: ["ušiak", "ucháč", "uško", "volovo ucho", "pšeničňak", "majovka", "lesný smrh"]
-    },
+    ,
+      cs: []},
     text: {
+      de: {
+          "description": "Ein Frühlingspilz auf sandigen Böden unter Kiefern. Verbreitet in den borealen und gemäßigten Regionen Europas und Nordamerikas. Als Schlauchpilz bildet er Sporen in Schläuchen (Asci).",
+          "cap": "Der Hut ist 4–10 cm breit und 3–8 cm hoch, unregelmäßig rundlich, hirnartig gefaltet und gewunden, rotbraun, kastanienbraun bis dunkelbraun, innen gekammert-hohl.",
+          "hymenium": "Die Fruchtschicht überzieht die Außenseite der Hirnwindungen. In den Schläuchen reifen jeweils acht glatte, elliptische Sporen heran.",
+          "stipe": "Der Stiel ist 3–6 cm lang und 1,5–3 cm dick, runzelig-gefurcht, weißlich bis blass fleischfarben, innen hohl oder schwammig-gekammert.",
+          "flesh": "Das Fleisch ist weißlich, wachsartig, dünn und brüchig. Der Geruch ist angenehm würzig.",
+          "habitat": "Fruchtkörper erscheinen im Frühjahr von März bis Mai auf sandigen Böden in Kiefernwäldern, auf Kahlschlägen und an Wegrändern.",
+          "sporePrint": "Hellgelb bis ockerlich. Die Sporen sind ellipsoid, glatt, mit zwei Öltröpfchen, 18–22 × 9–12 μm groß.",
+          "uses": "Tödlich giftig. Sie enthält das Zellgift Gyromitrin, das im Körper zu Monomethylhydrazin abgebaut wird. Auch nach Abkochen oder Trocknen verbleiben gefährliche Restmengen, und die entstehenden Dämpfe beim Kochen sind giftig.",
+          "confusion": "Die Speise-Morchel (Morchella esculenta) hat regelmäßige Waben mit deutlichen Rippen, einen einzelnen durchgehenden Hohlraum und einen zylindrischeren Stiel. Die Bischofsmütze (Gyromitra infula) fruchtet im Herbst. Die Riesen-Lorchel (Gyromitra gigas) hat einen helleren, gelbbraunen Hut.",
+          "notes": "Gyromitrin und seine Abbauprodukte bleiben auch nach Kochen oder Trocknen gefährlich."
+    },
       en: {
         description: "A spring mushroom of sandy coniferous woodland. It is widespread in Europe, where it is more frequent in the mountains than in the lowlands, and it is also recorded across much of North America. In Britain and Ireland it is rarely recorded and very localised.",
         cap: "The cap is 5–15 cm across and 4–8 cm tall. It is red-brown, irregularly lobed, and rather like a brain, and it is usually broader than it is tall. Rounded margins of the folds leave irregular hollow chambers inside the cap.",
@@ -2936,9 +3611,32 @@ export const CATALOG = [
         habitat: "Plodnice sa objavujú od apríla (niekedy už v marci pri topení snehu) do júla. Rastie na piesočnatej a kyslej pôde v ihličnatých lesoch, najčastejšie pod borovicami a smrekmi, občas aj pod osikami, najmä na miestach s narušeným povrchom pôdy, na rúbaniskách a okrajoch lesných ciest.",
         uses: "Je smrteľne jedovatá v surovom stave aj pri nedostatočnej úprave. Obsahuje prudký jed gyromitrín, ktorý sa v tele premieňa na monometylhydrazín (MMH) a poškodzuje pečeň, centrálnu nervovú sústavu a červené krvinky. Hoci sa v niektorých krajinách severnej a východnej Európy tradične konzumovala po opakovanom prevarení a zliatí vody, ani varenie nezaručuje úplné odstránenie toxínu a otravu môže spôsobiť už vdychovanie výparov pri varení.",
         confusion: "Nebezpečná je zámena s jedlým smrčkom jedlým (Morchella esculenta) alebo smrčkom kužeľovitým (Morchella conica), ktoré však majú klobúk pokrytý sieťou pravidelných jamiek a priehradiek (nie mozgovitými závitmi) a celá plodnica má na reze jednu súvislú dutinu. Podobný ušiak obrovský (Gyromitra gigas) má svetlejší, žemľovookrový až olivovohnedastý klobúk, býva väčší (60–160 mm) a rastie najmä v listnatých a zmiešaných lesoch."
+      },
+      cs: {
+            "description": "Jarní vřeckovýtrusná houba písčitých jehličnatých lesů. Široce se vyskytuje v mírném a boreálním pásmu Evropy a Severní Ameriky.",
+            "cap": "Klobouk má 3–12 cm v průměru, je nepravidelně mozkovitě až laločnatě zprohýbaný, dutý, zbarvený červenohnědě, kaštanově až tmavě hnědě.",
+            "hymenium": "Hladký povrch mozkovitých záhybů tvoří hymenium složené z vřecek obsahujících askospory.",
+            "stipe": "Třeň je 3–8 cm dlouhý a 1,5–3 cm tlustý, bělavý až narůžovělý, nepravidelně rýhovaný a dutý s komůrkami.",
+            "flesh": "Dužnina je tenká, voskovitá, křehká, bělavá až narůžovělá, s příjemnou houbovou vůní.",
+            "sporePrint": "Bělavý až nažloutlý. Askospory jsou eliptické se dvěma tukovými kapkami, hladké, přibližně 18–24 × 9–13 μm.",
+            "habitat": "Vyrůstá od března do května v borových a smrkových lesích na písčité půdě, často podél lesních cest a na pasekách.",
+            "uses": "Smrtelně jedovatá houba. Obsahuje nebezpečný toxin gyromitrin, který se v těle rozkládá na monometylhydrazin, prudký jaterní a neurologický jed. Povaření ani sušení toxiny zcela neodstraní a výpary vznikající při vaření jsou rovněž jedovaté. Tepelná úprava houbu nečiní bezpečnou.",
+            "confusion": "Jedlý smrž obecný (Morchella esculenta) a smrž kuželovitý (Morchella elata) mají klobouk s pravidelnými jamkami a žebry připomínajícími plástev, nikoli mozkovité laloky. Ucháč obrovský (Gyromitra gigas) je světlejší, okrově žlutohnědý a roste spíše pod listnáči. Chřapáč kadeřavý (Helvella crispa) má bílý sedlovitý klobouk a rýhovaný třeň."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Fr%C3%BChjahrs-Giftlorchel"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -3043,6 +3741,18 @@ export const CATALOG = [
           href: "https://www.gbif.org/species/5258510",
           detail: "5258510"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Gyromitra-esculenta/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Ucháč_obecný"
+            }
       ]
     },
     synonyms: [
@@ -3128,13 +3838,28 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 10,
     label: {
+      de: "Perlpilz",
       en: "blusher",
       sk: "muchotrávka červenkastá"
-    },
+    ,
+      cs: "muchomůrka růžovka"},
     names: {
       en: ["blushing amanita"]
-    },
+    ,
+      cs: ["masák","růžovka"]},
     text: {
+      de: {
+          "description": "Ein sehr häufiger ektomykorrhizabildender Wulstling in Laub- und Nadelwäldern auf sauren Böden. Weit verbreitet in ganz Europa und Teilen Asiens.",
+          "cap": "Der Hut ist 5–20 cm breit, anfangs halbkugelig, dann gewölbt bis flach. Die Farbe reicht von fleischrötlich bis rötlichbraun oder graubraun. Auf der Oberfläche sitzen unregelmäßige graurötliche bis schmutzigweiße Schuppen (Hüllreste).",
+          "hymenium": "Die Lamellen sind weiß, dicht stehend, frei, im Alter oder bei Berührung typisch weinrötlich fleckend.",
+          "stipe": "Der Stiel ist 7–15 cm lang und 1–2 cm dick, weißlich, unterhalb des Rings rötlich-bräunlich überlaufen. Der hängende, breite Ring ist auf der Oberseite deutlich längsgerieft. Die knollige Basis ist ohne Scheide und rötet an Madengängen.",
+          "flesh": "Das Fleisch ist weiß und verfärbt sich bei Verletzung oder im Anschnitt langsam charakteristisch weinrot bis fleischrötlich. Geruch unauffällig.",
+          "habitat": "Fruchtkörper erscheinen von Juni bis Oktober in Nadel- und Laubwäldern, besonders unter Fichten, Kiefern, Buchen und Eichen.",
+          "sporePrint": "Weiß. Die Sporen sind glatt, breit ellipsoid, 8–9 × 5–5,5 μm groß und amyloid.",
+          "uses": "Essbar, aber nur gut durchgegart! Roh enthält er hitzelabile Hämolysine, die rote Blutkörperchen zerstören. Er darf keinesfalls roh verzehrt werden.",
+          "confusion": "Der hochgiftige Pantherpilz (Amanita pantherina) hat rein weiße Hüllreste, einen ungerieften Ring, eine gerandete Knolle mit Scheidenwülsten und rötet niemals im Fleisch. Der Graue Wulstling (Amanita excelsa) hat weißes, unveränderliches Fleisch und riecht nach Rettich.",
+          "notes": "Eine Form hat einen schwefelgelben Ring und ist ansonsten identisch."
+    },
       en: {
         description: "An ectomycorrhizal mushroom of deciduous and coniferous woodland, often in small groups on poor acidic soil. It is very common in Britain, Ireland, and mainland Europe, and native to Europe and Asia. In South Africa it is thought to have been introduced with planted trees. North American records are treated as other species.",
         cap: "The cap is 5–20 cm across, though some mature caps are only about 2.5 cm. The colour runs from nearly white through pink and brown to almost black, and it is often brownish pink. Irregular off-white or grey fragments of the universal veil usually stay on the surface, and heavy rain can wash them off. The cap starts domed and flattens, and it sometimes becomes slightly funnel-shaped.",
@@ -3157,9 +3882,33 @@ export const CATALOG = [
         habitat: "Plodnice sa objavujú od júna do novembra (pri miernom počasí až do decembra). Rastie v listnatých aj ihličnatých lesoch od nížin až po horské smrečiny, tiež na rašeliniskách, v parkoch a alejach, často vo veľkom množstve aj za suchšieho počasia.",
         uses: "Po dôkladnej tepelnej úprave je to vynikajúca jedlá huba; za surova je však jedovatá, pretože obsahuje termolabilný hemolytický toxín (rubescenslyzín), ktorý sa varením alebo dusením rozkladá. Tepelne upravené čerstvé plodnice sú vhodné do polievok, omáčok, praženíc či na vyprážanie a mladé uzavreté plodnice sa po prevarení nakladajú do octového nálevu. Na sušenie nie je vhodná.",
         confusion: "Nebezpečná je zámena s prudko jedovatou muchotrávkou tigrovanou (Amanita pantherina), ktorej dužina na reze ani pri poranení nikdy nečervenie, prsteň na vrchnej strane nemá ryhovanie a hľuzu na báze hlúbika obopína prirastená pošva s ostro odsadeným golierikovitým okrajom a prstencovitými pásikmi. Podobná jedlá, no chuťovo menej hodnotná muchotrávka hrubá (Amanita excelsa) má sivohnedý klobúk so sivými útržkami plachtičky a takisto nemennú bielu dužinu, ktorá nečervenie."
+      },
+      cs: {
+            "description": "Ektomykorhizní houba listnatých i jehličnatých lesů. Hojná je v celé Evropě a v mírných oblastech Asie.",
+            "cap": "Klobouk má 6–18 cm v průměru, polokulovitý, pak sklenutý až plochý. Pokožka je světle hnědá, růžovohnědá až masově načervenalá, posetá špinavě bílými až šedavými bradavkami.",
+            "hymenium": "Lupeny jsou volné, husté, bílé, stářím a po poranění červenající nebo rezavě skvrnité.",
+            "stipe": "Třeň je 7–16 cm vysoký a 1,5–3 cm tlustý, bílý s růžovým nádechem, na bázi hlízovitě ztlustlý bez volné pochvy. Nese široký bílý visutý prsten, který je na svrchní straně zřetelně rýhovaný.",
+            "flesh": "Dužnina je bílá, po poranění a na řezu nápadně růžoví až vínově červená, zvláště v bázi třeně a chodbách po hmyzu. Má jemnou vůni a lahodnou chuť.",
+            "sporePrint": "Bílý. Výtrusy jsou eliptické, hladké, amyloidní, přibližně 8–10 × 5,5–7 μm.",
+            "habitat": "Roste velmi hojně od června do listopadu v lesích všech typů pod smrky, borovicemi, buky a duby.",
+            "uses": "Výborná a velmi oblíbená jedlá houba. V syrovém stavu je jedovatá, protože obsahuje termolabilní hemolytický toxin rubescenslysin ničící červené krvinky. Vyžaduje důkladnou tepelnou úpravu (alespoň 15–20 minut). Skvěle se hodí ke smažení na kmíně, obalování i do směsí.",
+            "confusion": "Jedovatá muchomůrka tygrovaná (Amanita pantherina) má dužninu trvale bílou, nerýhovaný prsten a na bázi třeně hlízu s odsedlým lemem. Muchomůrka šedivka (Amanita excelsa) na řezu nečervená a má nepříjemnou ředkvovou vůni.",
+            "notes": "Jedna forma (var. annulosulphurea) má sírově žlutý prsten a jinak je shodná."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Perlpilz"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -3236,6 +3985,18 @@ export const CATALOG = [
           href: "https://www.gbif.org/species/7496350",
           detail: "7496350"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Amanita-rubescens/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Muchomůrka_růžovka"
+            }
       ]
     },
     synonyms: [
@@ -3326,13 +4087,28 @@ export const CATALOG = [
     fruitingFrom: 1,
     fruitingTo: 12,
     label: {
+      de: "Grünblättriger Schwefelkopf",
       en: "sulphur tuft",
       sk: "strapcovka zväzkovitá"
-    },
+    ,
+      cs: "třepenitka svazčitá"},
     names: {
       en: ["sulfur tuft", "clustered woodlover"]
-    },
+    ,
+      cs: []},
     text: {
+      de: {
+          "description": "Ein sehr häufiger, büschelig wachsender holzzersetzender Pilz an totem Laub- und Nadelholz. Weit verbreitet in Europa, Nordamerika und Teilen Asiens.",
+          "cap": "Der Hut misst 2–7 cm im Durchmesser, ist leuchtend schwefelgelb mit oft fuchsig-orangeroter Mitte, gewölbt bis flach mit stumpfem Buckel. Am Rand hängen oft dunklere Velumreste.",
+          "hymenium": "Die Lamellen stehen dicht, sind angewachsen, anfangs schwefelgelb, dann charakteristisch grüngelb bis olivgrün und im Alter durch die Sporen dunkel purpurbraun werdend.",
+          "stipe": "Der Stiel ist 5–12 cm lang und 0,5–1 cm dick, schwefelgelb, zur Basis hin rostbraun nachdunkelnd, oft geschwungen und büschelig verwachsen.",
+          "flesh": "Das Fleisch ist schwefelgelb, fest, geruchlos oder schwach pilzig und schmeckt intensiv gallenbitter.",
+          "habitat": "Fruchtkörper erscheinen fast ganzjährig, besonders von Mai bis November, in dichten Büscheln an Stümpfen, faulendem Holz und vergrabenen Wurzeln.",
+          "sporePrint": "Purpurbraun. Die Sporen sind glatt, ellipsoid, 6–7,8 × 4–4,5 μm groß, mit deutlicher Keimpore.",
+          "uses": "Giftig. Er verursacht heftige Magen-Darm-Vergiftungen mit Erbrechen, Krämpfen und Durchfällen. Der extrem bittere Geschmack verhindert meist größere Mahlzeiten.",
+          "confusion": "Der Rauchblättrige Schwefelkopf (Hypholoma capnoides) hat helle, rauchgraue Lamellen ohne Grünton, milden Geschmack und ist essbar. Der Ziegelrote Schwefelkopf (Hypholoma lateritium) hat einen ziegelroten Hut und olivbräunliche Lamellen.",
+          "notes": "Der bittere Geschmack schützt meist vor schwereren Vergiftungen."
+    },
       en: {
         description: "A wood-rotting mushroom of dense tufts on stumps and fallen trunks. It is very common in Britain and Ireland and across most of mainland Europe, especially in the north and the centre. It is also common in North America, and it is recorded in Iran and in eastern Anatolia.",
         cap: "The cap is 2–7 cm across. It is sulphur yellow, often tan at the centre, and convex or slightly umbonate. Dark velar remnants cling to the margin.",
@@ -3354,9 +4130,32 @@ export const CATALOG = [
         habitat: "Plodnice sa objavujú takmer po celý rok, najhojnejšie od mája do novembra. Rastie vo veľkých trsoch na pňoch, odumretých kmeňoch a koreňoch listnatých aj ihličnatých stromov.",
         uses: "Je jedovatá a pre výrazne horkú chuť aj nepožívateľná. Po požití spôsobuje po 5 až 10 hodinách ťažké žalúdočné a črevné otravy sprevádzané bolesťami brucha, nevoľnosťou, úporným vracaním a hnačkami.",
         confusion: "Podobá sa jej jedlá strapcovka maková (Hypholoma capnoides), ktorá má miernu, nehorkú chuť, belavé až makovo sivomodrasté lupene (bez žltých a zelených tónov) a rastie na dreve ihličnanov. Nejedlá strapcovka tehlovočervená (Hypholoma lateritium) má tehlovočervený klobúk a väčšie plodnice na dreve listnáčov. Menej skúsení hubári si ju môžu zameniť aj s jedlou šupinačkou menlivou (Kuehneromyces mutabilis) alebo podpňovkou obyčajnou (Armillaria mellea)."
+      },
+      cs: {
+            "description": "Saprotrofní dřevokazná houba rostoucí v bohatých trsech na mrtvém dřevě. Běžná je v celé Evropě, Severní Americe a mírné Asii.",
+            "cap": "Klobouk má 2–7 cm v průměru, polokulovitý, pak sklenutý, v mládí se zbytky závoje na okraji. Pokožka je sírově žlutá až žlutooranžová, ve středu rezavě hnědá.",
+            "hymenium": "Lupeny jsou husté, připojené, zpočátku sírově žluté, pak olivově zelenožluté a ve stáří purpurově hnědé.",
+            "stipe": "Třeň je 4–10 cm dlouhý a 0,3–0,8 cm tlustý, válcovitý, často prohnutý, sírově žlutý, k bázi rezavějící, s pomíjivým pavučinovitým prstencem.",
+            "flesh": "Dužnina je sírově žlutá, tenká, s odporně hořkou chutí a slabou zemitou vůní.",
+            "sporePrint": "Fialově hnědý až tmavě hnědý. Výtrusy jsou eliptické s klíčním pórem, hladké, přibližně 6,5–8 × 4–5 μm.",
+            "habitat": "Roste od dubna do prosince v bohatých trsech na pařezech, kmenech a kořenech jehličnatých i listnatých stromů.",
+            "uses": "Jedovatá houba. Obsahuje toxiny způsobující silné žaludeční a střevní křeče, zvracení a průjmy. Její extrémní hořkost obvykle zabrání konzumaci většího množství.",
+            "confusion": "Jedlá třepenitka maková (Hypholoma capnoides) má lupeny kouřově šedé bez zeleného odstínu, bílou dužninu a příjemnou nehořkou chuť; roste pouze na jehličnanech. Jedlá opeňka měnlivá (Kuehneromyces mutabilis) má třeň pod prstenem tmavě šupinatý a příjemnou chuť. Václavka obecná (Armillaria mellea) má bílý výtrusný prach a zřetelný prsten."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Gr%C3%BCnbl%C3%A4ttriger_Schwefelkopf"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -3446,6 +4245,18 @@ export const CATALOG = [
           href: "https://www.gbif.org/species/3293632",
           detail: "3293632"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Hypholoma-fasciculare/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Třepenitka_svazčitá"
+            }
       ]
     },
     synonyms: [
@@ -3545,9 +4356,11 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 10,
     label: {
+      de: "Wiesen-Champignon",
       en: "field mushroom",
       sk: "pečiarka poľná"
-    },
+    ,
+      cs: "pečárka polní"},
     names: {
       en: ["meadow mushroom", "pink bottom"],
       sk: [
@@ -3571,8 +4384,21 @@ export const CATALOG = [
         "žampion",
         "šampion"
       ]
-    },
+    ,
+      cs: ["žampion polní"]},
     text: {
+      de: {
+          "description": "Ein saprotropher Blätterpilz auf Weiden, Wiesen und Parkrasen. Weit verbreitet und häufig in ganz Europa, Nordafrika, Asien, Nordamerika und Australasien.",
+          "cap": "Der Hut ist 3–10 cm breit, weiß bis cremeweiß, anfangs halbkugelig, dann gewölbt bis ausgebreitet. Die Oberfläche ist seidig-glatt oder fein faserschuppig, der Rand behängt mit Velumresten.",
+          "hymenium": "Die Lamellen sind frei, dicht stehend, jung leuchtend rosa, später schokoladenbraun bis schwarzbraun.",
+          "stipe": "Der Stiel ist 3–10 cm lang und 1–2 cm dick, zylindrisch oder zur Basis hin verjüngt, weiß, mit einem zarten, vergänglichen, häutigen Ring.",
+          "flesh": "Das Fleisch ist weiß, im Anschnitt unveränderlich oder schwach rötend, niemals gelbend. Geruch und Geschmack sind angenehm pilzig.",
+          "habitat": "Fruchtkörper erscheinen von Juni bis Oktober nach ergiebigen Regenfällen auf Viehweiden, Wiesen und Rasenflächen, oft in Hexenringen.",
+          "sporePrint": "Dunkelbraun bis schokoladenbraun. Die Sporen sind glatt, eiförmig bis ellipsoid, 6,5–9 × 4–6 μm groß.",
+          "uses": "Ein hervorragender Speisepilz. Er wird in der Küche wie der Zucht-Champignon verwendet, bräunt jedoch rasch nach der Ernte.",
+          "confusion": "Der giftige Karbol-Champignon (Agaricus xanthodermus) verfärbt sich an der Stielbasis sofort intensiv chromgelb und riecht unangenehm nach Karbol (Tinte). Der Weiße Knollenblätterpilz (Amanita verna) und weiße Formen von Amanita phalloides haben rein weiße Lamellen, eine Volva an der Stielbasis und weißen Sporenstaub; sie sind tödlich giftig.",
+          "notes": "Eine Beurteilung aus dem Jahr 2018 stuft die Art als nicht gefährdet (Least Concern) ein. Wässrige Extrakte zeigten in vitro eine insulinähnliche Wirkung auf den Glukosestoffwechsel. Pilz des Jahres 2018 in Deutschland."
+    },
       en: {
         description: "A saprobic mushroom of grazed meadows, lawns, and other grassy places, and rarely found in woodland. It is widespread and common in Britain and Ireland and through most of Europe. It is also reported from northern and southern Africa, Asia, North America, Australia, and New Zealand.",
         cap: "The cap is 3–10 cm across, white to creamy white, convex to broadly convex at first and flattening with age. The surface is smooth and glossy to finely silky, sometimes breaking into small brownish or fibrillose scales, and the margin usually stays down-turned or slightly inrolled with fragments of the partial veil.",
@@ -3596,9 +4422,33 @@ export const CATALOG = [
         uses: "Je to výborná jedlá huba, jedna z najchutnejších voľne rastúcich pečiarok. Hodí sa na vyprážanie, dusenie, do polievok, omáčok, rizota aj k mäsitým jedlám. Keďže plodnice rýchlo dozrievajú a mäknú, nehodí sa na komerčné pestovanie; nezbierajú sa ani plodnice pri frekventovaných cestách, pretože hromadia ťažké kovy.",
         confusion: "Jedovatá pečiarka páchnuca (Agaricus xanthodermus) na báze hlúbika a na okraji klobúka po otlačení alebo prekrojení okamžite chrómovožltne a páchne po karbole alebo atramente. Jedlá pečiarka ovčia (Agaricus arvensis) je väčšia, slabo žltne a vonia po aníze. Smrteľne jedovaté muchotrávky — muchotrávka zelená (Amanita phalloides, najmä jej biela forma), muchotrávka jarná (Amanita verna) a muchotrávka končistá (Amanita virosa) — sa spoľahlivo líšia trvalo bielymi lupeňmi a voľnou vakovitou pošvou na báze hlúbika. Jedovaté biele strmuľky (Clitocybe) rastúce v tráve majú zbiehavé biele lupene a biely výtrusný prach.",
         notes: "Hodnotenie IUCN z roku 2018 (uverejnené v roku 2019 s opravou z roku 2022) zaraďuje druh medzi málo dotknuté druhy (Least Concern)."
+      },
+      cs: {
+            "description": "Saprotrofní houba luk a travnatých ploch. Široce se vyskytuje v mírném pásmu Evropy, Asie a Severní Ameriky.",
+            "cap": "Klobouk má 4–10 cm v průměru, zpočátku polokulovitý, později klenutý až plochý. Pokožka je suchá, bílá až světle krémová, hladká nebo jemně vláknitě šupinkatá.",
+            "hymenium": "Lupeny jsou volné, husté, v mládí živě růžové, později čokoládově hnědé až černohnědé.",
+            "stipe": "Třeň je 3–8 cm dlouhý a 1–2 cm tlustý, válcovitý, k bázi zúžený, bílý, s tenkým blanitým pomíjivým prstenem.",
+            "flesh": "Dužnina je bílá, na řezu neměnná nebo jen nepatrně narůžovělá v horní části třeně. Má příjemnou houbovou vůni a lahodnou chuť.",
+            "sporePrint": "Čokoládově hnědý. Výtrusy jsou eliptické, hladké, přibližně 6,5–8,5 × 4,5–6 μm.",
+            "habitat": "Roste od května do listopadu na loukách, pastvinách, trávnících a zahradách, často v kruzích (čarodějných kruzích).",
+            "uses": "Výborná jedlá houba tradičně ceněná v kuchyni do polévek, omáček i k pečení a smažení.",
+            "confusion": "Jedovatá pečárka zápašná (Agaricus xanthodermus) na bázi třeně po poranění intenzivně chromově žloutne a nepříjemně páchne po karbolu (inkoustu). Smrtelně jedovatá muchomůrka zelená v bílé formě (Amanita phalloides var. alba) a muchomůrka jízlivá (Amanita virosa) mají lupeny trvale čistě bílé a na bázi třeně volnou pochvu.",
+            "notes": "Podle hodnocení z roku 2018 (publikovaného v roce 2019) je málo dotčeným druhem (Least Concern). Vodné extrakty vykazují in vitro inzulinomimetickou aktivitu."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Wiesen-Champignon"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -3702,6 +4552,18 @@ export const CATALOG = [
           href: "https://www.gbif.org/species/5243458",
           detail: "5243458"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Agaricus-campestris/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Pečárka_polní"
+            }
       ]
     },
     synonyms: [
@@ -3797,14 +4659,29 @@ export const CATALOG = [
     fruitingFrom: 7,
     fruitingTo: 11,
     label: {
+      de: "Gemeiner Birkenpilz",
       en: "brown birch bolete",
       sk: "kozák brezový"
-    },
+    ,
+      cs: "kozák březový"},
     names: {
       en: ["birch bolete", "rough-stemmed bolete", "scaber stalk"],
       sk: ["brezák"]
-    },
+    ,
+      cs: []},
     text: {
+      de: {
+          "description": "Ein ektomykorrhizabildender Raufußröhrling, der streng an Birken gebunden ist. Häufig in ganz Europa, Nordamerika und Teilen Asiens.",
+          "cap": "Der Hut misst 5–15 cm im Durchmesser, ist graubraun, gelbbraun bis dunkelbraun, anfangs halbkugelig, dann polsterförmig. Die Huthaut ist jung fein samtig, bei Nässe klebrig-schmierig.",
+          "hymenium": "Die Röhren sind um den Stiel tief ausgebuchtet, 1–2 cm lang, cremeweiß, später schmutzig grau. Die Poren sind klein, rundlich und verfärben sich auf Druck bräunlich, niemals blau.",
+          "stipe": "Der Stiel ist 7–20 cm lang und 1,5–3,5 cm dick, schlank keulig, weißlich bis grau, dicht besetzt mit dunklen, grauschwarzen Schüppchen (Raufuß).",
+          "flesh": "Das Fleisch ist weiß, jung fest, im Alter schwammig und wasserreich. Im Anschnitt bleibt es weiß oder verfärbt sich allenfalls zart rosa, niemals blau. Beim Kochen schwärzt es.",
+          "habitat": "Fruchtkörper erscheinen von Juni bis November unter Birken in Wäldern, Mooren, Parks und Heiden.",
+          "sporePrint": "Olivbraun bis tabakbraun. Die Sporen sind spindelig, glatt, 14–20 × 4,5–6 μm groß.",
+          "uses": "Essbar und wohlschmeckend, solange die Pilze jung und fest sind. Ältere Exemplare sind schwammig.",
+          "confusion": "Die Birken-Rotkappe (Leccinum versipelle) hat einen orangeroten Hut und Fleisch, das im Anschnitt violettgrau bis schwarz anläuft. Der Moorbirkenpilz (Leccinum holopus) ist weißlich gefärbt.",
+          "notes": "Er ist streng an die Birke als Mykorrhizapartner gebunden."
+    },
       en: {
         description: "An ectomycorrhizal mushroom of birch woods, including planted birches. It is frequent in Britain and Ireland and common across mainland Europe, from Scandinavia to the Mediterranean and the Iberian Peninsula. It is very common in North America, recorded from the Himalayas, and introduced in Australia and New Zealand.",
         cap: "The cap is 5–15 cm across. It is hemispherical at first, then convex or cushion-shaped, and flattens with age, often with a wavy margin. The surface is finely velvety when young and smoother later, dry in fair weather and becoming viscid when wet, in shades of grey-brown to yellowish or reddish brown. A very pale, almost white form occurs rarely.",
@@ -3826,9 +4703,32 @@ export const CATALOG = [
         habitat: "Plodnice sa objavujú od júna do novembra. Rastú na zemi výhradne pod brezami, najmä pod brezou previsnutou (Betula pendula) a brezou plstnatou (Betula pubescens), v zmiešaných lesoch, brezových hájoch, na vresoviskách aj v parkoch.",
         uses: "Mladé a pevné plodnice sú po dôkladnej tepelnej úprave chutné jedlé huby (staršie klobúky sú príliš mäkké a vodnaté). Hodia sa do praženice, polievok, omáčok aj na sušenie napríklad do vianočnej kapustnice. Podobne ako ostatné kozáky sa nesmie konzumovať surový.",
         confusion: "S nebezpečne jedovatými hubami sa nezamení, no podobá sa mu viacero príbuzných jedlých kozákov. Pod brezami rastie aj kozák žltooranžový (Leccinum versipelle) s oranžovožltým klobúkom a dužinou, ktorá na reze sivofialovie až modrozelenie, kozák bieložltý (Leccinum holopus) s belavým klobúkom v rašeliniskách, kozák rôznofarebný (Leccinum variicolor) s fľakatým klobúkom a modrozelenejúcou bázou hlúbika a kozák čierny (Leccinum melaneum) s čiernohnedým klobúkom. Kozák osikový (Leccinum albostipitatum) rastie pod osikami a má oranžovočervený klobúk, zatiaľ čo kozák hrabový (Leccinum pseudoscabrum) rastie pod hrabmi a jeho dužina na reze fialovosivie až černie."
+      },
+      cs: {
+            "description": "Ektomykorhizní houba vázaná výhradně na břízy. Běžná je v celé Evropě a v mírném a chladném pásmu Asie i Severní Ameriky.",
+            "cap": "Klobouk má 4–15 cm v průměru, zprvu polokulovitý, pak sklenutý. Pokožka je suchá, matná, za vlhka mírně lepkavá, zbarvená šedohnědě až špinavě hnědě.",
+            "hymenium": "Rourky jsou 1–2,5 cm dlouhé, bělavé až špinavě krémové, stářím šedohnědé. Póry jsou drobné, stejně zbarvené a po otlačení nemění barvu.",
+            "stipe": "Třeň je 7–18 cm vysoký a 1,5–3,5 cm tlustý, válcovitý až mírně kyjovitý, bělavý a hustě pokrytý drobnými černohnědými šupinkami.",
+            "flesh": "Dužnina je bílá, v klobouku měkká, ve třeni tuhá a vláknitá. Na řezu barvu nemění nebo jen velmi nepatrně šedne. Má příjemnou slabou vůni a mírnou chuť.",
+            "sporePrint": "Hnědý až tabákově hnědý. Výtrusy jsou vřetenovité, hladké, přibližně 14–20 × 5–6,5 μm.",
+            "habitat": "Roste od června do listopadu pod břízami v lesích, rašeliništích, zahradách a na vřesovištích.",
+            "uses": "Jedlá houba dobré kvality. Třeně starších plodnic bývají příliš dřevnaté, proto se často sbírají jen klobouky. Hodí se do smaženic, omáček i k sušení, ačkoli sušením dužnina černá. V syrovém stavu může způsobit zažívací potíže, vyžaduje proto důkladné provaření.",
+            "confusion": "Kozák bělostný (Leccinum holopus) roste na rašeliništích a je celý bělavý. Křemenáč osikový (Leccinum albostipitatum) má zářivě oranžovočervený klobouk a roste pod osikami. Hřib žlučník (Tylopilus felleus) má na třeni síťku, růžovějící póry a je odporně hořký."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Gemeiner_Birkenpilz"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -3929,6 +4829,18 @@ export const CATALOG = [
           href: "https://www.gbif.org/species/9141390",
           detail: "9141390"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Leccinum-scabrum/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Kozák_březový"
+            }
       ]
     },
     synonyms: [
@@ -4022,9 +4934,11 @@ export const CATALOG = [
     fruitingFrom: 8,
     fruitingTo: 11,
     label: {
+      de: "Butter-Röhrling",
       en: "slippery jack",
       sk: "masliak obyčajný"
-    },
+    ,
+      cs: "klouzek obecný"},
     names: {
       en: ["sticky bun", "pine boletus"],
       sk: [
@@ -4072,8 +4986,21 @@ export const CATALOG = [
         "podborovka",
         "sošňak"
       ]
-    },
+    ,
+      cs: []},
     text: {
+      de: {
+          "description": "Ein ektomykorrhizabildender Schmierröhrling unter zweinadeligen Kiefern. Weit verbreitet in Eurasien und Nordamerika, eingeschleppt auf der Südhalbkugel.",
+          "cap": "Der Hut ist 4–12 cm breit, schokoladen- bis rotbraun oder ockerbraun, gewölbt bis flach. Bei Feuchtigkeit bedeckt ihn eine dicke, schleimige Huthaut, die sich leicht abziehen lässt.",
+          "hymenium": "Die Röhren sind kurz, blassgelb bis satt zitronengelb. Die kleinen Poren sind eckig und verfärben sich auf Druck kaum.",
+          "stipe": "Der Stiel ist 4–10 cm lang und 1–2,5 cm dick, zylindrisch, weißlich bis gelblich, mit einem häutigen, violett-weißlichen Ring. Oberhalb des Rings ist er braun punktiert.",
+          "flesh": "Das Fleisch ist weißlich-gelblich, weich, saftig, im Anschnitt unveränderlich. Geruch und Geschmack sind angenehm mild-säuerlich.",
+          "habitat": "Fruchtkörper erscheinen von Juni bis November unter Kiefern auf sandigen oder kalkhaltigen Böden.",
+          "sporePrint": "Ocker- bis zimtbraun. Die Sporen sind ellipsoid-spindelig, 7–10 × 3–3,5 μm groß.",
+          "uses": "Ein guter Speisepilz. Die schleimige Huthaut sollte vor der Zubereitung abgezogen werden, da sie bei empfindlichen Personen Durchfall auslösen kann.",
+          "confusion": "Der Körnchen-Röhrling (Suillus granulatus) hat keinen Ring und sondert milchige Tröpfchen an den Poren ab. Der Gold-Röhrling (Suillus grevillei) wächst unter Lärchen und hat einen goldgelben Hut.",
+          "notes": "Er lebt in strikter Ektomykorrhiza mit zweinadeligen Kiefernarten."
+    },
       en: {
         description: "An ectomycorrhizal mushroom of pine woods and of pine plantations. Fruit bodies often appear in large numbers. It is native across Eurasia, from Ireland to Korea, and it has been introduced with pines in North and South America, southern Africa, Australia, and New Zealand. It is common in Britain and Ireland.",
         cap: "The cap is typically 4–10 cm across, rarely reaching 20 cm. It is conical to hemispherical at first, then convex, and later broadly convex to nearly flat, sometimes with a low umbo. The colour is dark chestnut, reddish brown, or chocolate brown, fading to yellowish brown or dull tan, and often radially streaked. It is covered in a thick layer of slime when wet, becoming glossy when dry, and the cuticle peels off easily. In young fruit bodies, remnants of the partial veil often hang from the margin.",
@@ -4097,9 +5024,33 @@ export const CATALOG = [
         uses: "Je to výborná jedlá huba, považovaná za najchutnejší druh masliaka. Hodí sa do polievok, omáčok, praženice aj na nakladanie do octového nálevu. Pred tepelnou úpravou sa odporúča stiahnuť slizkú pokožku klobúka (a pri starších plodniciach odstrániť aj rúrky), pretože sliz v pokrme sliznatie a u citlivých ľudí môže sťažiť trávenie.",
         confusion: "Pod borovicami na rovnakých stanovištiach rastie jedlý masliak zrnitý (Suillus granulatus), ktorý však nemá závoj ani prsteň na hlúbiku. Jedlý masliak smrekovcový (Suillus grevillei) má prsteň, no jeho klobúk je zlatožltý až oranžovohnedý a rastie výhradne pod smrekovcom. Mladý sliziak hôrny (Gomphidius glutinosus) má takisto slizký hnedý klobúk, ale namiesto rúrok má riedke zbiehavé lupene.",
         notes: "Hodnotenie IUCN z roku 2018 ho zaraďuje medzi málo dotknuté druhy (Least Concern)."
+      },
+      cs: {
+            "description": "Ektomykorhizní houba vázaná na dvoudomé borovice. Hojně se vyskytuje v celé Evropě a byla zavlečena do borových plantáží po celém světě.",
+            "cap": "Klobouk má 4–12 cm v průměru, polokulovitý, pak sklenutý. Pokožka je za vlhka silně slizká, čokoládově hnědá až žlutohnědá a lze ji snadno sloupnout.",
+            "hymenium": "Rourky jsou 6–12 mm dlouhé, bledě žluté, později sytě žluté až okrové. V mládí jsou zakryté bělavým blanitým závojem. Póry jsou drobné, zprvu žluté, stářím tmavnoucí.",
+            "stipe": "Třeň je 4–10 cm vysoký a 1–2,5 cm tlustý, válcovitý, nad prstenem žlutavý s drobnými zrníčky, pod prstenem hnědavý. Nese výrazný blanitý prsten, který je zespodu nafialovělý.",
+            "flesh": "Dužnina je měkká, bělavá až světle žlutá, na řezu neměnná. Má jemnou ovocnou vůni a příjemnou nakyslou chuť.",
+            "sporePrint": "Okrově hnědý. Výtrusy jsou eliptické až vřetenovité, hladké, přibližně 7–10 × 3–3,5 μm.",
+            "habitat": "Roste od května do listopadu pod borovicemi, zejména na písčitých půdách a prosvětlených okrajích lesů.",
+            "uses": "Výborná jedlá houba. Slizkou pokožku klobouku je vhodné před kuchyňskou úpravou stáhnout, protože může u citlivých osob působit projímavě. Výtečně se hodí do polévek, omáček i k nakládání do octa.",
+            "confusion": "Klouzek zrnitý (Suillus granulatus) postrádá prsten a na třeni roní v mládí mléčné kapičky; je jedlý. Klouzek sličný (Suillus grevillei) roste výhradně pod modříny a má zářivě žlutooranžový klobouk.",
+            "notes": "Podle hodnocení z roku 2018 je málo dotčeným druhem (Least Concern)."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Butter-R%C3%B6hrling"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -4198,6 +5149,18 @@ export const CATALOG = [
           href: "https://www.gbif.org/species/7777157",
           detail: "7777157"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Suillus-luteus/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Klouzek_obecný"
+            }
       ]
     },
     synonyms: [
@@ -4287,14 +5250,29 @@ export const CATALOG = [
     fruitingFrom: 8,
     fruitingTo: 10,
     label: {
+      de: "Edel-Reizker",
       en: "saffron milkcap",
       sk: "rýdzik pravý"
-    },
+    ,
+      cs: "ryzec pravý"},
     names: {
       en: ["delicious milkcap", "saffron milk cap", "delicious milk cap"],
       sk: ["rýdzik", "hrýdzik", "rydzak", "rydz", "ryndzik", "ryžik", "krvávka", "borúvka", "podbúrka"]
-    },
+    ,
+      cs: ["ryzec borový"]},
     text: {
+      de: {
+          "description": "Ein geschätzter ektomykorrhizabildender Milchling unter Kiefern. Heimisch in Europa und Teilen Asiens, bevorzugt auf sandigen oder kalkhaltigen Böden.",
+          "cap": "Der Hut ist 4–14 cm breit, trichterförmig vertieft mit eingerolltem Rand, orangerot mit dunkleren konzentrischen Zonen, bei Nässe schmierig, im Alter grünfleckig.",
+          "hymenium": "Die Lamellen sind lebhaft karottenorange, gedrängt, leicht herablaufend, bei Verletzung grün fleckend.",
+          "stipe": "Der Stiel ist 3–8 cm lang und 1–2,5 cm dick, zylindrisch, hohl, orange mit dunkleren Gruben (Grübchen).",
+          "flesh": "Das Fleisch ist brüchig, weißlich, sondert beim Anschneiden reichlich karottenrote Milch ab, die sich langsam grünlich verfärbt. Geschmack mild, leicht bitterlich.",
+          "habitat": "Fruchtkörper erscheinen von August bis November in Kiefernwäldern, Heiden und auf grasigen Waldwegen.",
+          "sporePrint": "Blass ockerfarben. Die Sporen sind breit ellipsoid, warzig-netzig, 7–9 × 6–7 μm groß.",
+          "uses": "Ein hervorragender Speisepilz, besonders zum scharfen Anbraten in Butter oder Olivenöl geeignet. Der Urin kann sich nach dem Verzehr harmlos rötlich färben.",
+          "confusion": "Der Fichten-Reizker (Lactarius deterrimus) wächst unter Fichten, verfärbt sich rascher und intensiver grün und schmeckt bitterer. Der Lachs-Reizker (Lactarius salmonicolor) wächst unter Tannen.",
+          "notes": "Er wächst ausschließlich in Symbiose mit Kiefern."
+    },
       en: {
         description: "An ectomycorrhizal mushroom of pine woods. It is native to Europe, including the Mediterranean basin, and it has been introduced with pines to Chile, Australia, New Zealand, and South Africa. Populations in North America and Central America that have carried the same name are different species.",
         cap: "The cap is 6–20 cm across. It starts convex with an inrolled margin and a central depression, and becomes broadly funnel-shaped with age. The surface is carrot-orange to reddish orange with darker concentric zones, bruises green, and often develops greyish-green patches as it ages. It is smooth, matt when dry, and viscid when wet.",
@@ -4318,9 +5296,33 @@ export const CATALOG = [
         uses: "Je to výborná, vysoko cenená jedlá huba. Najlepšie sú mladé klobúky s podvinutým okrajom; výborne sa hodia na opekanie, grilovanie, dusenie, do praženice aj na nakladanie do octového nálevu alebo solenie. Tradične sa vo veľkom zbiera najmä v Španielsku, Provensálsku, Poľsku, na Cypre a v Rusku. Na sušenie nie je vhodná, pretože sušením stráca arómu.",
         confusion: "Príbuzné jedlé rýdziky s oranžovým alebo červeným mliekom sa líšia mykoríznym hostiteľom a zmenou farby mlieka: rýdzik smrekový (Lactarius deterrimus) rastie pod smrekmi, má menej pásikavý klobúk, hlúbik bez jamiek a jeho oranžové mlieko do 30–60 minút vínovočervenie; rýdzik lososovoružový (Lactarius salmonicolor) rastie pod jedľami a takmer nezelenie; pod borovicami rastie aj rýdzik krvavý (Lactarius sanguifluus), ktorý hneď roní tmavé vínovočervené mlieko, rýdzik oranžovokrvavý (Lactarius semisanguifluus), ktorého oranžové mlieko za 5–10 minút vínovočervenie, a rýdzik tmavohnedý (Lactarius quieticolor) s tlmenejšími hnedooranžovými tónmi na kyslých pôdach. Jedovatý rýdzik kravský (Lactarius torminosus) rastie pod brezami, má ružovkastý klobúk s husto chlpatým okrajom a pálčivé biele mlieko.",
         notes: "Rímska freska z Herculanea sa považuje za jedno z najstarších vyobrazení tejto huby. Molekulárna a morfologická štúdia Nuytinckovej, Verbekenovej a Millera (2007) potvrdila, že ide o čisto európsky druh odlišný od severoamerických a stredoamerických taxónov."
+      },
+      cs: {
+            "description": "Ektomykorhizní houba rostoucí pod borovicemi na zásaditých i kyselých půdách. Běžná je v Evropě a byla introdukována s borovicemi na jižní polokouli.",
+            "cap": "Klobouk má 4–12 cm v průměru, nejprve sklenutý s podvinutým okrajem, později nálevkovitý. Pokožka je oranžová s tmavšími soustřednými kruhy, za vlhka lepkavá a stářím zelenající.",
+            "hymenium": "Lupeny jsou husté, křehké, zářivě oranžové, mírně sbíhavé na třeň, po otlačení zelenající.",
+            "stipe": "Třeň je 3–7 cm vysoký a 1–2,5 cm tlustý, válcovitý, dutý, oranžový s tmavšími oválnými vmáčklými skvrnami (jamkami).",
+            "flesh": "Dužnina je křehká, zrnitá, bělavá, v kůře oranžová. Roní hojné zářivě oranžové mléko (latex), které na vzduchu pomalu po 15–30 minutách červená až hnědne a posléze zelená. Chuť je mírná, slabě kořenitá.",
+            "sporePrint": "Bledě žlutavý až krémový. Výtrusy jsou eliptické, amyloidní se síťnatou ornamentikou, přibližně 7–9 × 6–7 μm.",
+            "habitat": "Roste od srpna do listopadu výhradně pod borovicemi, často na travnatých okrajích lesů a pastvinách na vápenci.",
+            "uses": "Výborná a vysoce ceněná jedlá houba. Tradičně se opéká na másle a kmíně, smaží nebo nakládá do octa. Způsobuje neškodné červené zbarvení moči.",
+            "confusion": "Ryzec smrkový (Lactarius deterrimus) roste pod smrky, má tenčí dužninu, po otlačení ještě výrazněji zelená a jeho oranžové mléko po chvíli zhořkne; je jedlý. Ryzec krvomléčný (Lactarius sanguifluus) má mléko od počátku vínově červené. Ryzec polokrvomléčný (Lactarius semisanguifluus) má oranžové mléko, které se záhy mění na vínově červené.",
+            "notes": "Římská freska z Herculanea je považována za jedno z nejstarších vyobrazení této houby. Molekulární práce potvrdily, že jde o evropský druh odlišný od severoamerických taxonů dříve spojovaných s tímto jménem."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Edel-Reizker"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -4426,6 +5428,18 @@ export const CATALOG = [
           href: "https://www.gbif.org/species/5248629",
           detail: "5248629"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Lactarius-deliciosus/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Ryzec_pravý"
+            }
       ]
     },
     synonyms: [
@@ -4512,13 +5526,28 @@ export const CATALOG = [
     fruitingFrom: 8,
     fruitingTo: 11,
     label: {
+      de: "Kegelhütiger Knollenblätterpilz",
       en: "destroying angel",
       sk: "muchotrávka končistá"
-    },
+    ,
+      cs: "muchomůrka jízlivá"},
     names: {
       en: ["European destroying angel"]
-    },
+    ,
+      cs: []},
     text: {
+      de: {
+          "description": "Ein tödlich giftiger ektomykorrhizabildender Wulstling in sauren Bergmisch- und Nadelwäldern. Weit verbreitet in Nord- und Mitteleuropa.",
+          "cap": "Der Hut ist 5–10 cm breit, rein weiß, anfangs kegelig bis glockig, später ausgebreitet mit oft leicht asymmetrischer Mitte, bei Feuchtigkeit klebrig.",
+          "hymenium": "Die Lamellen sind rein weiß, frei, gedrängt stehend.",
+          "stipe": "Der Stiel ist 8–14 cm lang und 1–2 cm dick, rein weiß, flockig-wollig behaart, mit einem zarten, vergänglichen weißen Ring. Die Stielbasis steckt in einer weiten, sackartigen weißen Scheide.",
+          "flesh": "Das Fleisch ist rein weiß. Mit Kalilauge (KOH) verfärbt es sich sofort lebhaft chromgelb. Der Geruch ist widerlich süßlich bis rettichartig.",
+          "habitat": "Fruchtkörper erscheinen von August bis Oktober in Nadel- und Buchenwäldern auf sauren, silikatischen Böden.",
+          "sporePrint": "Weiß. Die Sporen sind kugelig, glatt, 7–10 μm groß und stark amyloid.",
+          "uses": "Tödlich giftig! Enthält Amatoxine. Ein einziger Pilz führt zu Leber- und Nierenversagen mit hoher Sterblichkeit.",
+          "confusion": "Weiße Formen des Grünen Knollenblätterpilzes (Amanita phalloides var. alba) verfärben sich mit KOH nicht gelb. Der Frühlings-Knollenblätterpilz (Amanita verna) wächst im Frühjahr in wärmeren Laubwäldern. Weiße Egerlinge (Agaricus) haben dunkle Sporen und keine Scheide.",
+          "notes": "Die sofortige Gelbfärbung mit Kalilauge ist ein sicheres diagnostisches Merkmal."
+    },
       en: {
         description: "An ectomycorrhizal mushroom of woodland. It is infrequent in the lowlands and more plentiful in the mountains, and frequent in Scandinavian conifer forests. It occurs through Europe, including Britain and Ireland, with confirmed records from northern Asia. North American records under this name belong to other species.",
         cap: "The cap is 5–10 cm across, and some fruit bodies reach 12 cm. It starts egg-shaped and pure white, then becomes bell-shaped or occasionally almost flat, often with a broad umbo, and it is often tilted. The margin is not lined. The centre may turn ivory. Veil fragments soon wash off and are rarely left on a mature cap.",
@@ -4540,9 +5569,32 @@ export const CATALOG = [
         habitat: "Plodnice sa objavujú koncom leta a na jeseň, od júla do novembra. Rastie najmä na kyslých pôdach v horských a podhorských ihličnatých, listnatých aj zmiešaných lesoch, najčastejšie pod smrekom, borovicou, jedľou, bukom, brezou a gaštanom.",
         uses: "Je smrteľne jedovatá. Plodnice obsahujú amatoxíny a falotoxíny, ktoré spôsobujú ťažké a často fatálne poškodenie pečene a obličiek; už jeden klobúk môže usmrtiť dospelého človeka.",
         confusion: "Najčastejšie sa zamieňa s jedlými svetlými pečiarkami, napríklad s pečiarkou hájovou (Agaricus sylvicola) alebo pečiarkou poľnou (Agaricus campestris), ktoré však nikdy nemajú na báze hlúbika pošvu a ich lupene sa menia z ružovej na čokoládovohnedú. Smrteľne jedovatá muchotrávka jarná (Amanita verna) a biela forma muchotrávky zelenej (Amanita phalloides var. alba) majú pravidelnejšie pologuľovitý až klenutý klobúk, hladký až jemne pásikavý hlúbik a ich dužina nereaguje s KOH žlto. Mierne jedovatá biela odroda muchotrávky citrónovožltej (Amanita citrina var. alba) má na klobúku útržky plachtičky, obrezanú hľuzu bez voľnej vakovitej pošvy a páchne po surových zemiakoch."
+      },
+      cs: {
+            "description": "Ektomykorhizní houba podhorských a horských jehličnatých a smíšených lesů. Vyskytuje se v chladnějších oblastech Evropy a severní Asie.",
+            "cap": "Klobouk má 5–10 cm v průměru, zpočátku kuželovitý až zvoncovitý, později nesouměrně klenutý, čistě sněhově bílý, za vlhka lepkavý, hladký a lesklý.",
+            "hymenium": "Lupeny jsou volné, husté, trvale čistě bílé.",
+            "stipe": "Třeň je 8–15 cm vysoký a 1–2 cm tlustý, štíhlý, bílý, hrubě šupinkatý až vlnatě plstnatý. Nese tenký, pomíjivý bílý prsten a na bázi vyrůstá z hluboké volné bílé vakovité pochvy.",
+            "flesh": "Dužnina je bílá, křehká, s nepříjemným pachem po syrových bramborách až starém mase.",
+            "sporePrint": "Bílý. Výtrusy jsou kulovité, hladké, silně amyloidní, přibližně 8–10 μm.",
+            "habitat": "Roste od července do října v kyselých horských a podhorských smrčinách a borinách, méně často pod buky.",
+            "uses": "Smrtelně jedovatá houba. Obsahuje stejné množství smrtících amatoxinů a falotoxinů jako muchomůrka zelená. Způsobuje těžké selhání jater a ledvin po zákeřné bezpříznakové latenci 6–24 hodin. Žádná kuchyňská úprava toxiny nezničí.",
+            "confusion": "Mladé plodnice lze fatálně zaměnit s jedlými pečárkami (např. Agaricus campestris nebo Agaricus silvicola), které však mají v dospělosti růžové až čokoládově hnědé lupeny a nemají volnou pochvu. Bílá forma muchomůrky zelené (Amanita phalloides var. alba) má hladší třeň a roste v teplejších listnatých lesích. Muchomůrka jarní (Amanita verna) má třeň hladký a plodí v teplých doubravách."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Kegelh%C3%BCtiger_Knollenbl%C3%A4tterpilz"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -4615,6 +5667,18 @@ export const CATALOG = [
           href: "https://www.gbif.org/species/5240323",
           detail: "5240323"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Amanita-virosa/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Muchomůrka_jízlivá"
+            }
       ]
     },
     synonyms: ["Agaricus virosus Fr.", "Amanitina virosa (Bertill.) E.-J. Gilbert"]
@@ -4689,9 +5753,11 @@ export const CATALOG = [
     fruitingFrom: 5,
     fruitingTo: 9,
     label: {
+      de: "Satans-Röhrling",
       en: "devil's bolete",
       sk: "hríb satanský"
-    },
+    ,
+      cs: "hřib satan"},
     names: {
       en: ["Satan's bolete"],
       sk: [
@@ -4705,8 +5771,21 @@ export const CATALOG = [
         "zbojnícka noha",
         "sinál"
       ]
-    },
+    ,
+      cs: ["satan"]},
     text: {
+      de: {
+          "description": "Ein wärmeliebender, giftiger Dickröhrling auf Kalkböden in lichten Laubwäldern. Selten in Mitteleuropa und streng geschützt.",
+          "cap": "Der Hut misst 6–30 cm im Durchmesser, ist kreidig-weiß bis hell grauweich, samtig-matt, dickfleischig und polsterförmig gewölbt.",
+          "hymenium": "Die Röhren sind gelblich bis olivgrün und blauen im Schnitt. Die Poren sind jung gelborange, werden bald blutrot bis karminrot und blauen auf Druck.",
+          "stipe": "Der Stiel ist 5–15 cm lang und 4–12 cm dick, knollig-bauchig, im oberen Teil gelborange, zur Basis hin karminrot, überzogen von einem feinen roten Maschennetz.",
+          "flesh": "Das Fleisch ist weißlich bis blassgelb, läuft im Anschnitt mäßig blau an und verblasst wieder. Geruch jung unbedeutend, im Alter widerlich aasig.",
+          "habitat": "Fruchtkörper erscheinen von Juni bis September in warmen Laubwäldern unter Eichen, Buchen und Hainbuchen auf Kalk.",
+          "sporePrint": "Olivbraun. Die Sporen sind spindelig, glatt, 10–16 × 4,5–7,5 μm groß.",
+          "uses": "Giftig! Er ruft schwere Magen-Darm-Störungen mit Erbrechen und Durchfall hervor. Das Toxin Bolesatin wird dafür verantwortlich gemacht.",
+          "confusion": "Der Schönfuß-Röhrling (Caloboletus calopus) hat gelbe Poren und bitteres Fleisch. Der Hexen-Röhrling (Neoboletus luridiformis) hat einen dunkelbraunen Hut und blaut sofort intensiv dunkelblau.",
+          "notes": "Rote-Liste-Bewertungen stufen die Art als gefährdet (Vulnerable) ein. Pilz des Jahres 1999 in Deutschland."
+    },
       en: {
         description: "An ectomycorrhizal mushroom of warm broad-leaved woods on calcareous soil. It is mostly southern in Europe, rare or absent farther north, and in Britain and Ireland limited to chalk in southern England. It is also reported from Turkey, Crimea, Ukraine, northern Israel, and Cyprus. Western North American records belong to Rubroboletus eastwoodiae.",
         cap: "The cap is typically 6–30 cm across (exceptionally reaching 40–50 cm). It starts hemispherical with an inrolled margin and becomes convex, often with a wavy or lobed margin when old. The surface is chalky white, greyish white, or silvery buff, sometimes tinged olive, ochre, or brownish with age. It is finely velvety at first, later smooth, and slightly viscid in wet weather; the cuticle does not peel.",
@@ -4730,9 +5809,33 @@ export const CATALOG = [
         uses: "Je jedovatý, najmä za surova alebo pri nedostatočnej tepelnej úprave. Obsahuje glykoproteínový toxín bolesatín (a stopy muskarínu) a spôsobuje ťažké gastrointestinálne otravy sprevádzané nevoľnosťou, bolesťami brucha, prudkým vracaním a krvavou hnačkou trvajúcou až šesť hodín; nevoľnosť môže vyvolať už ochutnanie surovej dužiny. Hoci sa v niektorých oblastiach historicky konzumoval po dlhom varení, tepelná úprava sa nepovažuje za spoľahlivo bezpečnú.",
         confusion: "Blízko príbuzný hríb ružovokožý (Rubroboletus rhodoxanthus) a hríb Le Galovej (Rubroboletus legaliae) majú na klobúku výrazné ružové až staroružové odtiene; pri hríbe ružovokožom navyše citrónovožltá dužina na reze modrie iba v klobúku. Hríb siný (Suillellus luridus) má okrovohnedý až olivovohnedý klobúk, oranžovočervenú bázu hlúbika na reze a dužinu, ktorá okamžite intenzívne tmavomodrie. Hríb zrnitohlúbikový (Neoboletus luridiformis) má tmavohnedý klobúk a na hlúbiku namiesto sieťky červené zrnká. Nejedlý hríb červený (Caloboletus calopus) má bledý klobúk a červenú sieťku na hlúbiku, ale jeho póry sú trvalo citrónovožlté a dužina je výrazne horká.",
         notes: "V červených zoznamoch Británie aj Českej republiky je zaradený ako zraniteľný druh (Vulnerable)."
+      },
+      cs: {
+            "description": "Mohutná ektomykorhizní houba teplomilných listnatých lesů na vápencovém podloží. Je rozšířená v jižní a střední Evropě, v severnějších oblastech je velmi vzácná.",
+            "cap": "Klobouk má 10–30 cm v průměru, polokulovitý, těžký a masitý. Pokožka je křídově bělavá, šedobílá až stříbřitě šedá, matná a suchá.",
+            "hymenium": "Rourky jsou 1–2 cm dlouhé, žlutozelené. Póry jsou drobné, záhy krvavě až karmínově červené, po otlačení modrající.",
+            "stipe": "Třeň je 6–15 cm vysoký a 4–10 cm tlustý, břichatý až kulovitý, v horní části žlutý, uprostřed a dole karmínově červený, pokrytý jemnou červenou síťkou.",
+            "flesh": "Dužnina je bělavá až světle žlutá, na řezu slabě a pomalu modrající. Ve stáří nepříjemně páchne hnilobou.",
+            "sporePrint": "Olivově hnědý. Výtrusy jsou vřetenovité, hladké, přibližně 11–14 × 5–6 μm.",
+            "habitat": "Roste od července do září v teplých vápencových doubravách a bučinách.",
+            "uses": "Jedovatá houba. V syrovém stavu působí těžké a úporné žaludeční a střevní otravy s prudkým zvracením a dehydratací. Tepelnou úpravou se toxicita snižuje, avšak houba zůstává zdraví škodlivá a nepoživatelná.",
+            "confusion": "Hřib kovář (Neoboletus luridiformis) má klobouk tmavě hnědý, třeň bez síťky s červenými zrníčky a dužnina po poranění okamžitě intenzivně modrá; je jedlý po uvaření. Hřib koloděj (Suillellus luridus) má olivově hnědý klobouk a výraznou síťku na třeni. Hřib nachový (Rubroboletus rhodoxanthus) má na klobouku růžové tóny a žlutou dužninu, která modrá pouze v klobouku.",
+            "notes": "V Červeném seznamu České republiky je klasifikován jako zranitelný druh (Vulnerable)."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Satans-R%C3%B6hrling"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -4835,6 +5938,18 @@ export const CATALOG = [
           href: "https://www.gbif.org/species/7722553",
           detail: "7722553"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Rubroboletus-satanas/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Hřib_satan"
+            }
       ]
     },
     synonyms: [
@@ -4923,11 +6038,25 @@ export const CATALOG = [
     fruitingFrom: 8,
     fruitingTo: 11,
     label: {
+      de: "Spitzgebuckelter Raukopf",
       en: "deadly webcap",
       sk: "pavučinovec otravný"
-    },
+    ,
+      cs: "pavučinec plyšový"},
     names: {},
     text: {
+      de: {
+          "description": "Ein tödlich giftiger Haarschleierling auf feuchten, sauren Moorböden unter Nadelbäumen. Vor allem in Skandinavien und Mitteleuropa verbreitet.",
+          "cap": "Der Hut ist 4–8 cm breit, fuchsrot bis zimtbraun, kegelig mit spitzem Buckel, feinfasrig bis schuppig.",
+          "hymenium": "Die Lamellen sind zimtbraun bis rostbraun, dick, entfernt stehend und angewachsen.",
+          "stipe": "Der Stiel ist 5–10 cm lang und 0,7–1,5 cm dick, gelbbräunlich mit zickzackartigen gelblichen Gürtelzonen des Velums.",
+          "flesh": "Das Fleisch ist cremefarben bis gelblich-braun, riecht schwach rettichartig und schmeckt mild.",
+          "habitat": "Fruchtkörper erscheinen von August bis November in sauren Fichten- und Kiefernwäldern zwischen Torfmoosen (Sphagnum).",
+          "sporePrint": "Rostbraun. Die Sporen sind breit ellipsoid bis mandelförmig, warzig, 9–12 × 6,5–8,5 μm groß.",
+          "uses": "Tödlich giftig! Enthält das Nierengift Orellanin, das erst nach Tagen oder Wochen zu partiellem oder vollständigem Nierenversagen führt.",
+          "confusion": "Wurde fatal mit Pfifferlingen (Cantharellus cibarius) verwechselt, die jedoch Leisten statt Lamellen und einen gelben Hut besitzen. Der Orangefuchsige Raukopf (Cortinarius orellanus) wächst bei Laubbäumen und hat einen flacheren Buckel.",
+          "notes": "Das Gift Orellanin führt erst nach Tagen bis Wochen zum Nierenversagen."
+    },
       en: {
         description: "A mycorrhizal mushroom of small groups on damp acid soil under conifers. It is rare in southern England and Wales, more frequent farther north in the British Isles, and very common in Scandinavia and northern mainland Europe. It also occurs in North America and in the mountains of central Japan.",
         cap: "The cap is 4–8 cm across. It is tawny brown to orange, convex at first, then flattening, and it keeps a slight or sometimes pronounced umbo. The surface is dry and slightly scaly, and the margin often stays slightly rolled down.",
@@ -4949,9 +6078,32 @@ export const CATALOG = [
         habitat: "Plodnice sa objavujú od augusta do novembra. Rastie s borovicou a smrekom na vlhkej kyslej pôde, často v rašelinníku (Sphagnum), vo vlhkých ihličnatých a podmáčaných zmiešaných lesoch od podhorí do horského pásma.",
         uses: "Je smrteľne jedovatá. Obsahuje orelanín, silný nefrotoxín, ktorý ničí obličkové kanáliky a spôsobuje akútne a často nezvratné zlyhanie obličiek. Zákernosť otravy spočíva v mimoriadne dlhom bezpríznakovom období: prvé príznaky (úporný smäd, bolesti hlavy a bedier, zimnica a nevoľnosť) sa objavujú až 2 až 14 dní po požití.",
         confusion: "Rovnako smrteľne jedovatý pavučinovec plyšový (Cortinarius orellanus) má tupší klobúk bez ostrého hrboľa, hlúbik bez žltých kľukatých pásov a rastie v teplých listnatých lesoch pod dubmi a bukmi. Neskúsení hubári si tento druh smrteľne zamieňajú s jedlým kuriatkom jedlým (Cantharellus cibarius) alebo s kuriatkom lievikovitým (Craterellus tubaeformis), ktoré však majú na spodnej strane klobúka nízke vidlicovité lišty namiesto lupeňov a nemajú pavučinku ani pásikavý hlúbik."
+      },
+      cs: {
+            "description": "Ektomykorhizní houba vlhkých podhorských a horských jehličnatých lesů a rašeliníků. Vyskytuje se v severní a střední Evropě a v boreálních oblastech.",
+            "cap": "Klobouk má 3–8 cm v průměru, kuželovitý až zvoncovitý se špičatým středovým hrbolem. Pokožka je suchá, jemně plstnatá až šupinkatá, liščí červenohnědá až rezavě hnědá.",
+            "hymenium": "Lupeny jsou řídké, tlusté, připojené, zpočátku rezavě okrové, v dospělosti skořicově hnědé od výtrusného prachu.",
+            "stipe": "Třeň je 5–12 cm vysoký a 0,5–1,5 cm tlustý, válcovitý, zbarvený shodně s kloboukem a ovázaný několika žlutavými klikatými páskami plachetky. V mládí je spojen s kloboukem rezavou pavučinkou (kortinou).",
+            "flesh": "Dužnina je nažloutlá až rezavě hnědá, vláknitá, se slabou ředkvovou vůní a mírnou chutí.",
+            "sporePrint": "Rezavě hnědý. Výtrusy jsou široce eliptické až mandlovité, bradavčité, přibližně 9–11,5 × 6,5–8,5 μm.",
+            "habitat": "Roste od srpna do října v jehličnatých lesích pod smrky a borovicemi, zejména v mechu, borůvčí a rašeliníku.",
+            "uses": "Smrtelně jedovatá houba. Obsahuje orellanin, prudký a zákeřný nefrotoxin. Příznaky otravy selháním ledvin nastupují až po extrémně dlouhé době latence (2 dny až 3 týdny po požití). V té době již bývají ledviny nevratně poškozeny a pacient je odkázán na dialýzu či transplantaci. Žádná úprava orellanin neodbourá.",
+            "confusion": "Podobný je rovněž smrtelně jedovatý pavučinec plyšový horský neboli pavučinec skořicový (Cortinarius orellanus), který má plochý klobouk a roste v listnatých lesích pod duby. Nebezpečná může být záměna se slizákem lepkavým (Chroogomphus rutilus) nebo liškou obecnou (Cantharellus cibarius)."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Spitzgebuckelter_Raukopf"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -5035,6 +6187,18 @@ export const CATALOG = [
           href: "https://www.gbif.org/species/2528663",
           detail: "2528663"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Cortinarius-rubellus/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Pavučinec_plyšový"
+            }
       ]
     },
     synonyms: [
@@ -5117,13 +6281,28 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 12,
     label: {
+      de: "Totentrompete",
       en: "horn of plenty",
       sk: "lievik trúbkovitý"
-    },
+    ,
+      cs: "stroček trubkovitý"},
     names: {
       en: ["trumpet of death", "black trumpet", "black chanterelle", "trumpet of the dead"]
-    },
+    ,
+      cs: ["kominíček"]},
     text: {
+      de: {
+          "description": "Ein hervorragender ektomykorrhizabildender Speisepilz in Laubwäldern. Durch seine dunkle Färbung im Laub oft schwer zu entdecken.",
+          "cap": "Der Fruchtkörper ist trichter- bis trompetenförmig, 4–8 cm breit, innen tief hohl bis zur Stielbasis, grauschwarz bis tiefschwarz mit krausem Rand.",
+          "hymenium": "Die Außenseite ist fruchtbar, glatt bis schwach runzelig, aschgrau bis bläulich-grau bereift.",
+          "stipe": "Der Stiel geht nahtlos in den hohlen Trichter über, ist dünnfleischig und schwarzgrau.",
+          "flesh": "Das Fleisch ist dünn, zäh, schwarzbraun. Geruch angenehm aromatisch, Geschmack würzig.",
+          "habitat": "Fruchtkörper erscheinen von August bis November in Buchen- und Eichenwäldern auf basenreichen Böden.",
+          "sporePrint": "Weiß bis blassgelblich. Die Sporen sind glatt, breit ellipsoid, 11,5–16 × 7–10 μm groß.",
+          "uses": "Ein vorzüglicher Würz- und Speisepilz. Er eignet sich herausragend zum Trocknen und wird gemahlen als aromatisches Pilzpulver genutzt.",
+          "confusion": "Die Graue Kraterelle (Craterellus cinereus) besitzt deutliche Leisten auf der Außenseite. Der Krauser Kraterelle (Pseudocraterellus undulatus) hat einen stark gewellten Rand.",
+          "notes": "Eine Beurteilung aus dem Jahr 2024 stuft die Art als nicht gefährdet (Least Concern) ein."
+    },
       en: {
         description: "A mycorrhizal mushroom that is hard to see against leaf litter. In the strict sense it is European, from Scandinavia to the Mediterranean, and localised but often abundant where it occurs in Britain and Ireland. A broader complex once included under this name occurs in the Americas and in Asia, including Japan.",
         cap: "The cap is funnel-shaped, 4–8 cm across, with an inrolled margin. The upper, infertile surface is grey-brown to dark grey or black, with wrinkled striations toward the margin.",
@@ -5147,9 +6326,33 @@ export const CATALOG = [
         uses: "Je to výborná jedlá huba aj napriek nevzhľadnému zovňajšku. Hodí sa do polievok, omáčok, na zaváranie v octovom náleve a na sušenie. Usušené a rozdrvené plodnice sa používajú ako korenie.",
         confusion: "Zámena s jedovatými hubami je pre charakteristický tvar a farbu nepravdepodobná. Podobá sa jej jedlý lievik kučeravý (Craterellus sinuosus), ktorý je menší, bledšie sivohnedý a má silne zvlnený klobúk aj vráskavú vonkajšiu plodnú stranu, a jedlý lievik popolavý (Craterellus cinereus), ktorý má na vonkajšej strane zreteľné vidlicovito rozkonárené zbiehavé lišty (nepravé lupene).",
         notes: "Hodnotenie IUCN z roku 2024 zaraďuje druh medzi málo dotknuté druhy (Least Concern)."
+      },
+      cs: {
+            "description": "Ektomykorhizní houba listnatých a smíšených lesů. Hojná je v celé Evropě, v mírné Asii a v Severní Americe.",
+            "cap": "Plodnice je 3–12 cm vysoká a 2–8 cm široká, hluboce nálevkovitá až trubkovitá, dutá až k bázi. Vnitřní povrch je šedočerný až uhelně černý, jemně šupinkatý a okraj je zvlněný a ohrnutý.",
+            "hymenium": "Vnější povrch tvoří hymenium, které je hladké nebo jen mírně vrásčité (bez lupenů a lišt), zbarvené šedě až popelavě modrošedě od poprašku výtrusů.",
+            "stipe": "Třeň je plynulým pokračováním trubkovitého klobouku a přechází přímo v dutou černou bázi.",
+            "flesh": "Dužnina je tenká, křehká, šedočerná, s příjemnou ovocnou vůní a mírnou lahodnou chutí.",
+            "sporePrint": "Bělavý až světle smetanový. Výtrusy jsou eliptické, hladké, přibližně 11–14 × 7–9 μm.",
+            "habitat": "Roste od srpna do listopadu ve skupinách až trsech v listnatých lesích pod buky, duby a habry, zvláště na těžších hlinitých půdách.",
+            "uses": "Výborná jedlá houba. Je ceněna zejména jako sušená houba, která po rozemletí slouží jako aromatické černé koření do omáček a polévek. Tradičně se používá do vánočního kuby.",
+            "confusion": "Liška nálevkovitá (Craterellus tubaeformis) má žlutavý třeň a na spodní straně zřetelné větvené lišty; je jedlá. Stroček kadeřavý (Pseudocraterellus undulatus) je drobnější a má zprohýbaný laločnatý okraj klobouku a plavě hnědé odstíny.",
+            "notes": "Podle hodnocení z roku 2024 je málo dotčeným druhem (Least Concern)."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Totentrompete"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -5220,6 +6423,18 @@ export const CATALOG = [
           href: "https://www.gbif.org/species/2554662",
           detail: "2554662"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Craterellus-cornucopioides/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Stroček_trubkovitý"
+            }
       ]
     },
     synonyms: [
@@ -5314,13 +6529,28 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 11,
     label: {
+      de: "Ochsenzunge",
       en: "beefsteak fungus",
       sk: "pečeňovec dubový"
-    },
+    ,
+      cs: "pstřeň dubový"},
     names: {
       en: ["beefsteak polypore", "ox tongue", "poor man's steak", "tongue mushroom"]
-    },
+    ,
+      cs: ["volský jazyk"]},
     text: {
+      de: {
+          "description": "Ein ungewöhnlicher Porling an alten Eichen. Erinnert im Aussehen und Querschnitt verblüffend an ein Stück rohes Rindfleisch oder Leber.",
+          "cap": "Der Hut ist zungen- oder nierenförmig, 10–25 cm breit und 2–6 cm dick, blutrot bis leberbraun, mit feinkörniger, feuchter Oberfläche.",
+          "hymenium": "Die Röhren sind frei voneinander stehend (nicht miteinander verwachsen), cremeweiß, später gelblich bis bräunlich.",
+          "stipe": "Meist ungestielt oder mit kurzem, seitlichem, dickem Stielansatz am Stamm.",
+          "flesh": "Das Fleisch ist dick, saftig, faserig, blutrot marmoriert wie Fleisch und sondert rötlichen Saft ab. Geschmack säuerlich.",
+          "habitat": "Fruchtkörper erscheinen von Juli bis Oktober an lebenden alten Eichen und Edelkastanien.",
+          "sporePrint": "Rosa-ocker bis blassbraun. Die Sporen sind eiförmig, 4,5–6 × 3,5–4,5 μm groß.",
+          "uses": "Essbar, vor allem jung. Wegen des säuerlichen Geschmacks wird er gern mariniert oder gebraten verzehrt.",
+          "confusion": "Der Zottige Schillerporling (Inonotus hispidus) besitzt einen struppig behaarten Hut und wächst an Eiche und Apfelbaum. Sehr junge Fruchtkörper können dem Gemeinen Schwefelporling (Laetiporus sulphureus) ähneln, der flachere, dachziegelig übereinander gestapelte Konsolen bildet. Arten der Gattung Ischnoderma (Teerfleckenporlinge) besitzen miteinander verwachsene Röhren. Der Eichen-Zungenporling (Buglossoporus quercinus) wächst an ähnlichen Standorten, besitzt jedoch eine gelbbraune Huthaut und längere Sporen. Die Dreifarbige Tramete (Daedaleopsis confragosa var. tricolor) ist nur etwa 1 cm dick und bildet Lamellen aus. Die Zinnobertramete (Pycnoporus cinnabarinus) ist kleiner, holzig und hat länglich-eckige Poren.",
+          "notes": "Er erzeugt im Eichenholz eine begehrte Braunfärbung (Geflämmte Eiche)."
+    },
       en: {
         description: "A bracket fungus of living and dead oak, sometimes on sweet chestnut and other broadleaved trees. It is widespread and fairly common in Britain and Ireland, through mainland Europe, and in North America, especially east of the Rocky Mountains. It is also reported from Africa, Australia, subtropical India, and the Canary Islands.",
         cap: "The bracket starts nearly globose and warty, then becomes tongue-shaped or semicircular. It is typically 10–25 cm across and 2–6 cm thick. Large fruit bodies reach about 30 cm across and about 8 cm thick, and a very young one can be only about 5 cm across. The upper surface is rough or fibrous, often radially streaked, and sticky or slimy when wet. Young brackets are orange-red to blood red, then liver red, purplish, or reddish brown, and dark brown in age.",
@@ -5344,9 +6574,33 @@ export const CATALOG = [
         uses: "Mladé plodnice sú jedlé po dôkladnej tepelnej úprave. Varia sa domäkka, vyprážajú sa alebo sa dávajú do guláša a do octového nálevu. Chuť je kyslá a slabo horká, dužina je bohatá na triesloviny a ťažko stráviteľná. Jedni mladé plodnice hodnotia priaznivo, iní ich nepočítajú medzi lepšie jedlé huby. Staršie plodnice sú tuhé a ich šťava môže podráždiť žalúdok, preto sa pred varením namáčajú cez noc.",
         confusion: "Ryšavec srstnatý (Inonotus hispidus) má výrazne chlpatý klobúk a rastie na dube aj na jabloni. Veľmi mladé plodnice môžu pripomínať sírovec obyčajný (Laetiporus sulphureus), ktorý tvorí plochejšie plodnice naukladané nad sebou. Pri rode Ischnoderma sú rúrky navzájom zrastené. Brezovník dubový (Buglossoporus quercinus) rastie na podobných miestach, má žltohnedú pokožku klobúka a dlhšie výtrusy. Daedaleopsis confragosa var. tricolor je hrubá len asi 1 cm a má lupene. Červenica rumelková (Pycnoporus cinnabarinus) je menšia a drevnatá, s predĺženými hranatými pórmi.",
         notes: "V severnej Európe je to jediný druh rodu. Fistulina antarctica, Fistulina endoxantha a Fistulina pumiliae sú samostatné druhy na pabuku. Napadnuté jadrové drevo duba sa predáva ako brown oak. Na Slovensku je tento druh rozšírený v starých dubových lesoch."
+      },
+      cs: {
+            "description": "Dřevokazná houba starých dubů a kaštanovníků. Široce se vyskytuje v mírném pásmu Evropy a Severní Ameriky.",
+            "cap": "Plodnice je 10–25 cm široká a 2–6 cm tlustá, jazykovitá až ledvinovitá. Povrch je v mládí jemně papilnatý, slizký, zářivě krvavě červený až masově červený, stářím hnědne.",
+            "hymenium": "Rourky jsou 1–1,5 cm dlouhé, bělavé až nažloutlé, stářím hnědnoucí. Zvláštností je, že jednotlivé rourky k sobě nejsou srostlé a lze je snadno oddělit. Póry jsou drobné a po otlačení hnědnou.",
+            "stipe": "Třeň je krátký, postranní, tlustý a masitý, často však zcela chybí.",
+            "flesh": "Dužnina je tlustá, masitá, šťavnatá, červeně žíhaná a vzhledem i strukturou připomíná hovězí maso. Při naříznutí roní krvavě červenou kyselou šťávu. Má příjemnou kyselkavou chuť.",
+            "sporePrint": "Bledě rezavě hnědý. Výtrusy jsou kapkovité až eliptické, hladké, přibližně 4,5–5,5 × 3–4 μm.",
+            "habitat": "Roste od července do října na živých kmenech a pařezech starých dubů a kaštanovníků.",
+            "uses": "Jedlá houba dobré chuti. Sbírají se mladé a šťavnaté plodnice, které se pro svou kyselost často nakládají, dusí nebo smaží po způsobu hovězího bifteku.",
+            "confusion": "Rezavec štětinatý (Inonotus hispidus) má silně chlupatý klobouk a roste na dubech a jabloních. Velmi mladé plodnice mohou připomínat sírovec žlutooranžový (Laetiporus sulphureus), který tvoří plošší střechovité klobouky nad sebou. Smolokorka (Ischnoderma) má rourky vzájemně srostlé. Choroš dubový (Buglossoporus quercinus) roste na podobných místech, má žlutohnědou pokožku klobouku a delší výtrusy. Síťkovec trojbarvý (Daedaleopsis confragosa var. tricolor) je jen asi 1 cm tlustý a má lupeny. Outkovka rumělková (Pycnoporus cinnabarinus) je menší, dřevnatá, s protáhlými hranatými póry.",
+            "notes": "V severní Evropě je jediným druhem tohoto rodu. Fistulina antarctica, Fistulina endoxantha a Fistulina pumiliae jsou samostatné druhy na pabucích (Nothofagus). Infikované dubové jádrové dřevo se prodává jako hnědý dub."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Eichen-Leberreischling"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -5434,6 +6688,18 @@ export const CATALOG = [
           href: "https://www.gbif.org/species/2531012",
           detail: "2531012"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Fistulina-hepatica/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Pstřeň_dubový"
+            }
       ]
     },
     synonyms: [
@@ -5526,9 +6792,11 @@ export const CATALOG = [
     fruitingFrom: 5,
     fruitingTo: 11,
     label: {
+      de: "Flockenstieliger Hexen-Röhrling",
       en: "scarletina bolete",
       sk: "hríb zrnitohlúbikový"
-    },
+    ,
+      cs: "hřib kovář"},
     names: {
       en: ["red foot bolete", "dotted stemmed bolete", "dotted stem bolete"],
       sk: [
@@ -5551,8 +6819,21 @@ export const CATALOG = [
         "koniak",
         "počeč"
       ]
-    },
+    ,
+      cs: ["modrák","hřib kovářovitý"]},
     text: {
+      de: {
+          "description": "Ein beliebter Speisepilz aus der Gruppe der Hexenröhrlinge. Weit verbreitet in Laub- und Nadelwäldern auf sauren Böden.",
+          "cap": "Der Hut ist 5–20 cm breit, dunkelbraun, samtig, polsterförmig gewölbt.",
+          "hymenium": "Die Röhren sind gelblich-oliv, im Schnitt sofort tiefblau anlaufend. Die Poren sind leuchtend blutrot bis feuerrot.",
+          "stipe": "Der Stiel ist 5–15 cm lang und 2–5 cm dick, gelborange, dicht besetzt mit roten Flöckchen (ohne Netz!).",
+          "flesh": "Das Fleisch ist fest, leuchtend gelb und blaut bei Verletzung oder im Anschnitt augenblicklich intensiv tintenblau. Geschmack mild.",
+          "habitat": "Fruchtkörper erscheinen von Mai bis November unter Fichten, Buchen und Eichen auf sauren Böden.",
+          "sporePrint": "Olivbraun. Die Sporen sind spindelig, glatt, 12–17 × 5–7 μm groß.",
+          "uses": "Ein hervorragender Speisepilz, der jedoch gut durchgegart werden muss, da er roh Magen-Darm-Giftstoffe enthält. Die intensive Blaufärbung verschwindet beim Kochen.",
+          "confusion": "Der Netzstielige Hexen-Röhrling (Suillellus luridus) hat ein deutliches Netz am Stiel und eine weinrote Schicht unter den Röhren. Der giftige Satans-Röhrling (Rubroboletus satanas) hat einen kreideweißen Hut und ein rotes Netz.",
+          "notes": "Roh giftig; nach ausreichendem Garen ein ausgezeichneter Speisepilz."
+    },
       en: {
         description: "An ectomycorrhizal mushroom of acid coniferous and beech woods. It is widespread in Europe, with further reports from the Caucasus, Asia Minor, the Near East, North America, and, as a form, North Africa. It is fairly common in Britain and Ireland, more so in the mountains and foothills than the lowlands.",
         cap: "The cap is 5–20 cm across, occasionally to 25 cm. It is hemispherical, then convex or cushion-shaped, and flatter in age. The surface is usually dark brown, bay, or chocolate brown, less often paler brown, olive-tinged, or coppery bronze, finely felty or velvety and matt when young, then bald, and briefly a little slimy in wet weather. Bruised places darken, sometimes almost to black. Paler caps occur, especially on fruit bodies that grow with oaks. The cap cuticle begins as a trichoderm of erect cylindrical to weakly club-shaped hyphal ends, 3–6 μm wide, which soon lie flat and become somewhat gelatinous.",
@@ -5576,9 +6857,33 @@ export const CATALOG = [
         uses: "Po dôkladnej tepelnej úprave je to veľmi chutná jedlá huba a v niekoľkých európskych krajinách sa bežne zbiera, hoci niektorým ľuďom po nej býva nevoľno. V niektorých krajoch ju uprednostňujú pred hríbom smrekovým (Boletus edulis). Pri varení modrá farba mizne. Surové alebo nedovarené plodnice spôsobujú vracanie a hnačku, a preto sa sušenie neodporúča.",
         confusion: "Hríb siný (Suillellus luridus) má na hlúbiku červenú sieťku, tmavšiu čiaru na styku rúrok s dužinou klobúka a oranžovočervené až oranžovožlté dno rúrok a uprednostňuje kriedovú pôdu. Hríb Quéletov (Suillellus queletii) má hladší a bledší hlúbik s jemnejšími vločkami, často červenkastý klobúk a v báze hlúbika purpurovočervenú dužinu, ktorá je amyloidná. Suillellus mendax má aj sieťku, aj bodky, červenšie odtiene na klobúku aj hlúbiku a amyloidnú dužinu v báze hlúbika. Hríb satanský (Rubroboletus satanas) má bledosivý až kriedovobiely klobúk, hľuzovitý hlúbik s červenou sieťkou a dužinu, ktorá modrie len mierne. Hríb Dupainov (Rubroboletus dupainii) má žiarivo červený klobúk. Hríb vlčí (Rubroboletus lupinus) má hladký hlúbik. Rubroboletus pulcherrimus má sieťkovaný hlúbik a je väčší. Hríb vínovočervený (Imperator rhodopurpureus) uprednostňuje neutrálnu pôdu. Hríb žltý (Neoboletus junquilleus) má žltý klobúk. Hríb zrnitohlúbikový odfarbený (Neoboletus xanthopus) je na klobúku aj hlúbiku žltší, s menšími vločkami a s plsťou na báze hlúbika, a rastie v teplých dubových lesoch.",
         notes: "Modranie spôsobuje kyselina variegátová, ktorá sa na vzduchu oxiduje, a červenú farbu pórov variegatorubín. Na Slovensku ju zberatelia často obchádzajú, lebo ich odrádzajú červené póry a intenzívne modranie."
+      },
+      cs: {
+            "description": "Ektomykorhizní houba podhorských a horských lesů. Hojně roste v celé Evropě a v mírných oblastech Asie.",
+            "cap": "Klobouk má 6–20 cm v průměru, polokulovitý, pak sklenutý. Pokožka je suchá, sametová až plstnatá, zbarvená tmavě hnědě, čokoládově až černohnědě.",
+            "hymenium": "Rourky jsou 1–2 cm dlouhé, žlutozelené. Póry jsou drobné, karmínově až krvavě červené a po doteku ihned silně modrají.",
+            "stipe": "Třeň je 6–15 cm vysoký a 2–5 cm tlustý, břichatý až válcovitý, žlutý a hustě pokrytý drobnými karmínově červenými zrníčky či šupinkami (bez síťky).",
+            "flesh": "Dužnina je tuhá, sytě žlutá, po poranění a na řezu okamžitě intenzivně indigově modrá. Má jemnou příjemnou vůni a chuť.",
+            "sporePrint": "Olivově hnědý. Výtrusy jsou vřetenovité, hladké, přibližně 12–16 × 4,5–6 μm.",
+            "habitat": "Roste od května do listopadu pod smrky, jedlemi, buky a duby, zejména na kyselých půdách.",
+            "uses": "Jedlá houba s výhradou. V syrovém stavu nebo při krátkém varu je jedovatá a způsobuje žaludeční křeče a zvracení. Vyžaduje důkladnou tepelnou úpravu (minimálně 20–25 minut varu). Po uvaření je vynikající a modrá barva dužniny zcela zmizí.",
+            "confusion": "Hřib koloděj (Suillellus luridus) má klobouk světlejší, olivově okrový a na třeni má nápadnou síťku. Jedovatý hřib satan (Rubroboletus satanas) má klobouk křídově bělavý a roste v teplých vápencových doubravách. Hřib kříšť (Caloboletus calopus) má žluté póry, červený třeň se síťkou a je odporně hořký.",
+            "notes": "Modrání dužniny způsobuje kyselina variegatová oxidující na vzduchu a červenou barvu pórů způsobuje variegatorubin."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Flockenstieliger_Hexen-R%C3%B6hrling"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -5655,6 +6960,18 @@ export const CATALOG = [
           href: "https://www.nahuby.sk/atlas-hub/Neoboletus-luridiformis/hrib-zrnitohlubikovy/hrib-kovar/ID145",
           detail: "hríb zrnitohlúbikový"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Sutorius-luridiformis/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Hřib_kovář"
+            }
       ]
     },
     synonyms: [
@@ -5742,13 +7059,28 @@ export const CATALOG = [
     fruitingFrom: 4,
     fruitingTo: 6,
     label: {
+      de: "Mairitterling",
       en: "St. George's mushroom",
       sk: "čírovnica májová"
-    },
+    ,
+      cs: "čirůvka májovka"},
     names: {
       sk: ["čírovka májová", "májovka"]
-    },
+    ,
+      cs: ["májovka"]},
     text: {
+      de: {
+          "description": "Ein beliebter Frühlingsspeisepilz, der typischerweise um den Georgstag (23. April) und im Mai auf Wiesen und an Waldrändern erscheint.",
+          "cap": "Der Hut ist 5–12 cm breit, dickfleischig, weißlich bis cremegelb, polsterförmig mit lange eingerolltem Rand.",
+          "hymenium": "Die Lamellen stehen sehr dicht, sind schmal, cremeweiß und am Stiel ausgebuchtet angewachsen.",
+          "stipe": "Der Stiel ist 4–9 cm lang und 1,5–3 cm dick, stämmig, weißlich, voll und fest.",
+          "flesh": "Das Fleisch ist dick, weiß, fest, mit intensivem mehlartigem Geruch (Gurken-Mehl-Geruch) und mildem Geschmack.",
+          "habitat": "Fruchtkörper erscheinen von April bis Juni auf Weiden, Wiesen, in Parkanlagen und lichten Gebüschen, oft in Hexenringen.",
+          "sporePrint": "Weiß. Die Sporen sind ellipsoid, glatt, 5–7 × 3,5–4 μm groß.",
+          "uses": "Ein geschätzter Speisepilz mit typischem Mehlgeschmack, der beim Erhitzen milder wird.",
+          "confusion": "Lebensgefährliche Verwechslungsgefahr mit dem Ziegelroten Risspilz (Inosperma erubescens), der zur gleichen Zeit am gleichen Ort wächst, aber im Alter rötet, bräunliche Lamellen und keinen Mehlgeruch hat. Auch der Riesen-Rötling (Entoloma sinuatum) fruchtet später mit rosa Sporenpulver.",
+          "notes": "Eine Beurteilung aus dem Jahr 2019 stuft die Art als nicht gefährdet (Least Concern) ein."
+    },
       en: {
         description: "A fleshy saprobic mushroom of calcareous grassland, meadows, orchards, and grassy woodland edges, often in rings. It is widespread in Europe, plentiful in some districts and missing from others, and reported from North America. The fruit bodies are among the first large mushrooms of spring.",
         cap: "The cap is 4–15 cm across, most often about 5–12 cm. It is hemispherical, bell-shaped, or conical at first, with a long-inrolled margin, and later convex to flat, often staying domed, wavy, or misshapen. The surface is smooth, matte, and silky, and bare. It is whitish to cream or beige, sometimes flushed light brown or grey-brown, and often becomes ochre-yellow, tan, or yellowish brown with age. Yellow caps occur as well.",
@@ -5772,9 +7104,33 @@ export const CATALOG = [
         uses: "Je to výborná jedlá huba. Varí sa v omeletách, rizote, polievkach a omáčkach, suší sa, nakladá alebo inak konzervuje. Traduje sa, že je jedlá aj surová, zvyčajne sa však tepelne upravuje. Uprednostňujú sa mladé plodnice, lebo staršie bývajú často prevŕtané larvami múch. Plodnice z frekventovaných ciest môžu obsahovať znečistenie z dopravy. V Baskicku je jarnou lahôdkou a komerčné množstvá sa dovážajú z Rumunska, Maďarska, Turecka a z východnej Európy. V strednom Taliansku si ju cenia od 16. storočia.",
         confusion: "Vláknica Patouillardova (Inosperma erubescens) rastie na tých istých jarných miestach, aj v parkoch a listnatých lesoch. Je prudko jedovatá. Lupene má bledoružové, nie biele, úzko prirastené a po otlačení červenejú a plodnica vonia ostro a ovocne, nie múčne. Hodvábnica veľká (Entoloma sinuatum) je prudko jedovatá. Má redšie lupene, ktoré sa sfarbujú do lososovoružova až mäsovočervena, a mäsovoružový výtrusný prach. Niektoré zdroje označujú jej vôňu za žluknutú, iné uvádzajú, že dužina môže voňať aj chutiť múčne, a preto sa treba spoľahnúť na ružové lupene a výtrusný prach. Plodí od mája do jesene vo svetlých listnatých lesoch a na okraji lesa môžu obe huby rásť spolu. Machovka obyčajná (Clitopilus prunulus) je jedlá a vonia tiež múčne, lupene má však zbiehavé a plodí neskôr v roku. Čírovnica opásaná (Tricholomella constricta) plodí na jeseň na pôde bohatej na dusík, má koreňujúci hlúbik a prsteň.",
         notes: "Hodnotenie z roku 2019 ho zaraďuje medzi málo dotknuté druhy (Least Concern). Na Slovensku je miestami hojný a inde celkom chýba; v Belianskych Tatrách plodí až v júni a júli."
+      },
+      cs: {
+            "description": "Jarní saprotrofní houba luk, pastvin a okrajů křovin. Vyskytuje se hojně po celé Evropě.",
+            "cap": "Klobouk má 5–12 cm v průměru, masitý, polokulovitý s dlouho podvinutým okrajem, později klenutý až zprohýbaný. Barva je bělavá, krémová až světle kožově žlutá.",
+            "hymenium": "Lupeny jsou velmi husté, úzké, u třeně vykrojené až zoubkem připojené, zbarvené bělavě až světle krémově.",
+            "stipe": "Třeň je 4–9 cm vysoký a 1,5–3 cm tlustý, válcovitý až kyjovitý, masitý, bílý až nažloutlý, podélně vláknitý.",
+            "flesh": "Dužnina je tlustá, pevná, bílá, s charakteristickou silnou vůní a chutí po čerstvě umleté mouce.",
+            "sporePrint": "Bílý. Výtrusy jsou eliptické, hladké, přibližně 5–6,5 × 3–4 μm.",
+            "habitat": "Vyrůstá od dubna do června na loukách, travnatých mezích, v zahradách a na okrajích listnatých lesů, často v bohatých kruzích.",
+            "uses": "Výborná a velmi oblíbená jarní jedlá houba. Pro svou moučnou vůni i chuť je skvělá do omáček, polévek a pod maso.",
+            "confusion": "Nebezpečná je záměna se smrtelně jedovatou závojenkou olovovou (Entoloma sinuatum), která roste později (od června) v lesích a má v dospělosti růžové lupeny. Smrtelně jedovatá vláknice začervenalá (Inosperma erubescens) má kuželovitý klobouk a na poraněných místech nápadně červená.",
+            "notes": "Podle hodnocení z roku 2019 je málo dotčeným druhem (Least Concern)."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Maipilz"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -5888,6 +7244,18 @@ export const CATALOG = [
           href: "https://www.nahuby.sk/atlas-hub/Calocybe-gambosa/cirovnica-majova/ciruvka-majovka/ID57",
           detail: "čírovnica májová"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Calocybe-gambosa/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Čirůvka_májovka"
+            }
       ]
     },
     synonyms: [
@@ -5983,13 +7351,28 @@ export const CATALOG = [
     fruitingFrom: 5,
     fruitingTo: 9,
     label: {
+      de: "Ziegelroter Risspilz",
       en: "deadly fibrecap",
       sk: "vláknica Patouillardova"
-    },
+    ,
+      cs: "vláknice začervenalá"},
     names: {
       en: ["red-staining Inocybe", "red-staining fibrecap", "brick-red tear mushroom"]
-    },
+    ,
+      cs: ["vláknice patouillardova"]},
     text: {
+      de: {
+          "description": "Ein lebensgefährlich giftiger Risspilz auf Kalkböden im Frühjahr und Frühsommer. Er enthält extrem hohe Konzentrationen an Muscarin.",
+          "cap": "Der Hut ist 2,5–9 cm breit, anfangs kegelig, dann ausgebreitet mit spitzem Buckel, weißlich bis strohgelb, radialfaserig einreißend, im Alter und auf Druck ziegelrot fleckend.",
+          "hymenium": "Die Lamellen sind anfangs weißlich, werden olivbraun und flecken bei Berührung rötlich.",
+          "stipe": "Der Stiel ist 2,5–12 cm lang und 0,4–2 cm dick, zylindrisch, weißlich, im Alter und bei Druck rasch ziegelrot anlaufend, ohne Ring.",
+          "flesh": "Das Fleisch ist weißlich, rötet im Anschnitt langsam. Geruch schwach fruchtig, im Alter unangenehm spermatisch, keineswegs mehlartig.",
+          "habitat": "Fruchtkörper erscheinen von Mai bis Juli in kalkreichen Laubwäldern, Parks und Gärten unter Buchen, Eichen und Linden.",
+          "sporePrint": "Ockerbraun bis lehmbraun. Die Sporen sind glatt, bohnenförmig, 9–15 × 5–8 μm groß.",
+          "uses": "Tödlich giftig! Enthält enorme Mengen an Muscarin, die das Muscarin-Syndrom (starker Schweißausbruch, Speichelfluss, Herz-Kreislauf-Kollaps) hervorrufen. Schon kleine Mengen können tödlich sein.",
+          "confusion": "Wird häufig mit dem essbaren Mairitterling (Calocybe gambosa) verwechselt, der jedoch rein weißes Sporenpulver hat, niemals rötet und stark nach Mehl riecht.",
+          "notes": "Enthält deutlich mehr Muscarin als der Fliegenpilz und kann in geringer Dosis tödlich wirken."
+    },
       en: {
         description: "An ectomycorrhizal mushroom of calcareous deciduous woods, parks, and grassy places, usually with beech, oak, lime, or hornbeam. It is widespread in Europe, recorded from eastern Anatolia, and in Israel under oak and pine. In western Siberia it fruits on lawns and in planted broadleaf shade.",
         cap: "The cap is 2.5–9 cm across, and some fruit bodies reach 12 cm. It is conical or bell-shaped at first, with an inrolled margin, and later convex to flat, usually keeping a broad umbo. The margin often turns up and splits radially. The surface is dry and silky, with fine radial fibres rather than scales, though a cracked margin can break into patches, and it is slightly sticky in wet weather. Young caps are white to cream or pale ochre. They become straw-coloured to ochre and then brick-red or cinnabar, with red stains where the surface is bruised or split.",
@@ -6012,9 +7395,32 @@ export const CATALOG = [
         uses: "Je smrteľne jedovatá. Plodnice obsahujú veľké množstvo muskarínu. Ochorenie sa môže začať do pätnástich minút až dvoch hodín nevoľnosťou, studeným potom, silným slinením a slzením, zvracaním, bolestivou hnačkou a kŕčmi, potom poruchou srdcovej činnosti, sťaženým dýchaním, slabosťou a zahmleným videním, pričom človek ostáva pri vedomí. Uverejnené smrteľné množstvo je asi 40–50 g v čerstvom stave a úmrtie bolo zaznamenané v Surrey v roku 1937.",
         confusion: "Čírovnica májová (Calocybe gambosa) plodí na tých istých jarných miestach. Jej lupene ostávajú belavé až krémové a nečervenajú, klobúk nie je lúčovito vláknitý a dužina silno vonia po múke. Vláknica Godeyova (Inocybe godeyi) je menšia, vonia ovocím a na báze hlúbika má obrúbenú hľuzu. Inosperma bongardii po otlačení tiež červenie, ale klobúk je hrubo vláknitý až šupinatý a vôňa je ostrá a chemická. Inocybe pyriodora červenie pomaly, má hrubostenné pleurocystidy a ťažkú sladkú vôňu. Iné bledé druhy tejto skupiny sú menšie a s vekom ani po otlačení nečervenajú. V Izraeli bola zamenená s čírovkou zemnou (Tricholoma terreum), ktorá rastie na tom istom stanovišti a nečervenie. Zamieňala sa aj s druhmi pečiarky (Agaricus) a s pavučinovcom inovaťovým (Cortinarius caperatus). Táto huba nemá prsteň a jej lupene po otlačení červenajú.",
         notes: "Na Slovensku je táto huba menej rozšírená, v niektorých rokoch častejšia a hojnejšia v teplejších oblastiach."
+      },
+      cs: {
+            "description": "Ektomykorhizní houba teplomilných listnatých lesů, parků a zahrad na vápencovém podloží. Široce se vyskytuje v Evropě a v mírné Asii.",
+            "cap": "Klobouk má 3–8 cm v průměru, zprvu kuželovitý, pak sklenutý s ostrým středovým hrbolem. Pokožka je radiálně vláknitá, bílá až krémová, stářím a po otlačení rezavě červenající až cihlově červená.",
+            "hymenium": "Lupeny jsou husté, připojené, zpočátku bělavé, později olivově hnědé a na ostří po otlačení červenající.",
+            "stipe": "Třeň je 4–8 cm vysoký a 0,8–1,5 cm tlustý, válcovitý, bílý až narůžovělý, po dotyku pomalu červenající.",
+            "flesh": "Dužnina je bílá, po poranění pomalu červenající. Má slabou ovocnou vůni a mírnou chuť.",
+            "sporePrint": "Hlinitě hnědý. Výtrusy jsou fazolovité až eliptické, hladké, přibližně 11–14 × 6–8 μm.",
+            "habitat": "Roste od května do července v listnatých lesích pod buky, duby a lípami na vápnité půdě.",
+            "uses": "Smrtelně jedovatá houba. Obsahuje extrémně vysokou koncentraci muskarinu (až 200× více než muchomůrka červená). Způsobuje muskarinový syndrom charakterizovaný silným pocením, slzením, zúžením zornic, zvracením a zástavou srdce. Může usmrtit dospělého člověka již za 1–2 hodiny.",
+            "confusion": "Často bývá tragicky zaměněna za jedlou čirůvku májovku (Calocybe gambosa), která však na lomu ani po otlačení nečervená a voní silně moučně. Pečárky (Agaricus) mají prsten na třeni a v mládí růžové lupeny."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Ziegelroter_Risspilz"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -6111,6 +7517,18 @@ export const CATALOG = [
           name: "botany.cz",
           href: "https://botany.cz/cs/inocybe-erubescens/"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Inosperma-erubescens/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Vláknice_začervenalá"
+            }
       ]
     },
     synonyms: ["Inocybe erubescens A. Blytt", "Inocybe patouillardii Bres."]
@@ -6191,14 +7609,29 @@ export const CATALOG = [
     fruitingFrom: 7,
     fruitingTo: 12,
     label: {
+      de: "Semmel-Stoppelpilz",
       en: "wood hedgehog",
       sk: "jelenka poprehýbaná"
-    },
+    ,
+      cs: "lišák zprohýbaný"},
     names: {
       en: ["hedgehog mushroom", "hedgehog fungus", "sweet tooth"],
       sk: ["bláznivé kuriatko", "pochabé kuriatko", "biely vlkolak", "žltý srniak"]
-    },
+    ,
+      cs: ["jelenka zprohýbaná"]},
     text: {
+      de: {
+          "description": "Ein ektomykorrhizabildender Stoppelpilz. Weit verbreitet und häufig in ganz Europa sowohl in Nadel- als auch in Laubwäldern. Eine Revision aus dem Jahr 2018 bestätigt Nachweise aus Europa; Funde aus Nordamerika und Ostasien gehören anderen Arten an.",
+          "cap": "Der Hut ist 3–15 cm breit, anfangs gewölbt, dann unregelmäßig verbogen, wellig oder gelappt, oft mit eingedellter Mitte. Die Oberfläche ist trocken, samtig-filzig bis kahl, cremefarben, semmelgelb bis blass ocker-orange, am Rand oft heller. Bei Druck und im Alter verfärbt er sich ocker- bis orangebraun.",
+          "hymenium": "Die Hutunterseite ist dicht mit weichen, brüchigen, 2–7 mm langen Stacheln (Stoppeln) besetzt. Sie laufen meist etwas am Stiel herab, sind anfangs weißlich bis cremefarben, später hutfarben und brechen bei Berührung leicht ab.",
+          "stipe": "Der Stiel ist 2–10 cm lang und 0,5–3 cm dick, zylindrisch, oft unregelmäßig dick und exzentrisch angesetzt, weißlich bis blasscreme, bräunt bei Berührung langsam und besitzt keinen Ring.",
+          "flesh": "Das Fleisch ist dick, fest, brüchig, weißlich bis schwach gelblich. Geruch angenehm fruchtig, Geschmack mild bis schwach säuerlich oder pfeffrig; ältere Fruchtkörper werden bitter.",
+          "habitat": "Fruchtkörper erscheinen von Juli bis November, einzeln, in Gruppen oder Hexenringen unter Fichten, Kiefern, Tannen und Buchen auf sauren bis basenreichen Böden.",
+          "sporePrint": "Weiß bis blass cremefarben. Die Sporen sind glatt, breit ellipsoid bis fast rundlich, 6,5–9 × 5,5–7,5 μm groß.",
+          "uses": "Ein hervorragender Speisepilz, besonders jung gesammelt, da ältere Exemplare bitter werden. Er behält beim Kochen seine feste Textur und verliert die pfeffrige Note.",
+          "confusion": "Der Rötliche Stoppelpilz (Hydnum rufescens) ist kleiner, zierlicher, lebhafter orange gefärbt und besitzt nicht herablaufende Stoppeln. Pfifferlinge (Cantharellus) besitzen Leisten statt abbrechender Stoppeln.",
+          "notes": "Eine Beurteilung aus dem Jahr 2019 stuft die Art als nicht gefährdet (Least Concern) ein."
+    },
       en: {
         description: "An ectomycorrhizal mushroom. It is widespread and common in Europe, in both coniferous and deciduous woodland. A 2018 revision verifies records from Europe. Fungi from North America and eastern Asia once placed under this name are other species. Older accounts extend it across the temperate northern hemisphere.",
         cap: "The cap is 3–15 cm across. It is convex at first, then plane, wavy, or lobed, and sometimes depressed. The margin is rolled inward when young, and crowded caps become misshapen. The surface is dry and smooth to finely felted. It is cream, yellow, or orange-ochre, usually paler toward the margin, and it can fade nearly white. Bruising and age bring ochre to orange-brown.",
@@ -6222,9 +7655,33 @@ export const CATALOG = [
         uses: "Je to výborná jedlá huba. Uprednostňujú sa mladé plodnice, lebo staršie horknú. Pevná dužina sa dáva do polievok, dusených jedál a rizota, často s inými hubami. Predáva sa na európskych trhoch. Tepelná úprava zmierňuje korenistú chuť.",
         confusion: "Jelenka ryšavá (Hydnum rufescens) je menšia a klobúk má sýtejšiu marhuľovú, oranžovú alebo hrdzavú farbu. Ostne má prirastené alebo voľné, nie zbiehavé, okraj klobúka je ostrejšie ohraničený a klobúk je menej plstnatý. Hydnum ellipsosporum má klobúk v priemere 3–5 cm a elipsoidné výtrusy veľké 9–11 × 6–7,5 μm. Bledé plodnice nemožno od Hydnum boreorepandum odlíšiť bez sekvencie a výtrusy oboch sú v podstate rovnako veľké. Hydnum slovenicum má oranžovookrový klobúk a menšie výtrusy, v priemere 7,5 × 6,4 μm. Hydnum albidum je samostatný menší druh, biely až bledo sivožltý, s drobnými takmer guľovitými výtrusmi. Kuriatko jedlé (Cantharellus cibarius) a kuriatko bledé (Cantharellus pallens) majú hrubé vidlicovité žilky, nie ostne.",
         notes: "Hodnotenie z roku 2019 ho zaraďuje ako málo dotknutý druh (Least Concern)."
+      },
+      cs: {
+            "description": "Ektomykorhizní houba listnatých i jehličnatých lesů. Běžně se vyskytuje v mírném pásmu celé severní polokoule.",
+            "cap": "Klobouk má 4–15 cm v průměru, nepravidelně zprohýbaný, laločnatý, suchý a matný. Barva je bělavá, krémová až světle okrově žlutá.",
+            "hymenium": "Hymenium tvoří husté, křehké, 2–6 mm dlouhé ostny, které jsou sbíhavé na třeň. Zbarvené jsou krémově až nažloutle a dají se snadno od dužniny odloupnout.",
+            "stipe": "Třeň je 3–8 cm dlouhý a 1–3 cm tlustý, masitý, často výstředný a nepravidelný, bílý až nažloutlý.",
+            "flesh": "Dužnina je bílá, tuhá, křehká, s příjemnou houbovou vůní a mírnou, ve stáří slabě nahořklou chutí.",
+            "sporePrint": "Bílý. Výtrusy jsou široce eliptické až kulovité, hladké, přibližně 7–9 × 6–7 μm.",
+            "habitat": "Roste od července do listopadu v listnatých i jehličnatých lesích pod buky, smrky a borovicemi, často ve velkých pruzích či kruzích.",
+            "uses": "Výborná jedlá houba. Sbírají se mladé plodnice; u starších je vhodné ostny oškrábat a houbu déle povařit, aby se odstranila hořkost. Hodí se do směsí a k nakládání do octa.",
+            "confusion": "Lišák ryšavý (Hydnum rufescens) je menší, křehčí a zbarvený rezavě oranžově; je rovněž jedlý. Liška obecná (Cantharellus cibarius) má na spodní straně lišty, nikoli ostny.",
+            "notes": "Podle hodnocení z roku 2019 je málo dotčeným druhem (Least Concern)."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Semmel-Stoppelpilz"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -6325,6 +7782,18 @@ export const CATALOG = [
           href: "https://www.nahuby.sk/atlas-hub/Hydnum-repandum/jelenka-poprehybana/lisak-zprohybany/ID169",
           detail: "jelenka poprehýbaná"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Hydnum-repandum/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Lišák_zprohýbaný"
+            }
       ]
     },
     synonyms: [
@@ -6420,9 +7889,11 @@ export const CATALOG = [
     fruitingFrom: 7,
     fruitingTo: 12,
     label: {
+      de: "Habichtspilz",
       en: "shingled hedgehog",
       sk: "jelenkovec škridlicovitý"
-    },
+    ,
+      cs: "lošák jelení"},
     names: {
       en: ["scaly hedgehog", "scaly tooth"],
       sk: [
@@ -6437,8 +7908,21 @@ export const CATALOG = [
         "jastrab",
         "kaniarka"
       ]
-    },
+    ,
+      cs: ["srnka","lošák šupinatý"]},
     text: {
+      de: {
+          "description": "Ein ektomykorrhizabildender Stacheling der Gebirgsnadelwälder unter Fichten. Weit verbreitet in Europa und Nordamerika, in Mitteleuropa gebietsweise stark zurückgegangen.",
+          "cap": "Der Hut misst 5–25 cm (selten bis 30 cm) im Durchmesser, ist anfangs gewölbt, später verflacht bis trichterförmig eingedellt. Die graubraune bis dunkelbraune Oberfläche ist mit auffälligen, dicken, konzentrisch angeordneten, aufgerichteten dunklen Schuppen besetzt.",
+          "hymenium": "Die Unterseite trägt gedrängte, brüchige Stacheln, die am Stiel herablaufen. Sie sind bis zu 1,5 cm lang, anfangs weißlich-grau, später graubraun bis dunkelbraun.",
+          "stipe": "Der Stiel ist 3–10 cm lang und 1–4 cm dick, oft kurz und gedrungen, weißlich-grau bis bräunlich, voll und fest.",
+          "flesh": "Das Fleisch ist dick, zäh, weißlich-grau bis bräunlich. Geruch angenehm würzig, Geschmack jung mild, im Alter bitterlich.",
+          "habitat": "Fruchtkörper erscheinen von August bis November in montanen Nadelwäldern unter Fichten auf sauren, nährstoffarmen Böden.",
+          "sporePrint": "Braun. Die Sporen sind unregelmäßig höckerig-warzig, rundlich, etwa 6–8 × 5–7 μm groß.",
+          "uses": "Jung essbar und als Würzpilz verwendbar; ältere Fruchtkörper sind bitter und zäh. Er eignet sich hervorragend zum Trocknen und Vermahlen.",
+          "confusion": "Der Kiefern-Habichtspilz (Sarcodon squamosus) wächst unter Kiefern und besitzt feinere Schuppen. Der Gallen-Stacheling (Sarcodon scabrosus) hat einen blaugrünen Stielfuß und schmeckt extrem bitter.",
+          "notes": "Pilz des Jahres 1996 in Deutschland."
+    },
       en: {
         description: "An ectomycorrhizal mushroom of spruce woods, also found with fir. It is widespread in Europe and North America, and it is reported from Japan. Records from the British Isles and the Netherlands belong to a separate pine associate. It is locally common in mountain spruce woods and was formerly more abundant.",
         cap: "The cap is 5–25 cm across and can reach about 30 cm. It is convex at first, with an inrolled margin, then plane to funnel-shaped, often with a deep central depression that may open into a hole. The margin becomes wavy or lobed. The surface is dry and brown, grey-brown, or buff, sometimes with a reddish tint, and paler toward the edge. Coarse, thick, dark brown to blackish scales stand up in the centre, often in rough concentric zones, and lie flatter toward the margin. With age the scales darken and turn upward.",
@@ -6462,9 +7946,33 @@ export const CATALOG = [
         uses: "Mladé plodnice sa jedia, hoci dužina je tuhá a akosť je len priemerná. Staršie sú horké a kožovité. Predvarenie horkosť zmierňuje. Nakladajú sa alebo sa sušia a používajú ako korenie a v Bulharsku sa sušená huba melie na aromatickú múku. Surové plodnice môžu byť jedovaté a niektoré zbery spôsobujú žalúdočné a črevné ťažkosti.",
         confusion: "Jelenkovec sosnový (Sarcodon squamosus) má menšie, viac pritisnuté šupiny a rastie s borovicou. Jelenkovec horký (Hydnellum scabrosum) má jemnejšie šupiny, veľmi horkú chuť a modrozelenú dužinu v báze hlúbika. Jelenkovec fialovomäsový (Hydnellum joeides) je hnedý a jeho dužina sa na reze pomaly sfarbuje do fialova. Strobilomyces strobilaceus vyzerá zhora strapatý, má však póry. Jelenka poprehýbaná (Hydnum repandum) má hladký krémový, žltý alebo oranžový klobúk a bledé ostne, bez hrubých tmavých šupín.",
         notes: "Staré plodnice tohto druhu a príbuzných obsahujú modrozelené farbivá, ktorými sa farbila vlna. Červený zoznam Poľska z roku 2006 ho zaraďuje ako zraniteľný druh (Vulnerable). V Poľsku bol prísne chránený do roku 2014."
+      },
+      cs: {
+            "description": "Ektomykorhizní houba horských a podhorských jehličnatých lesů, vázaná především na smrky. Vyskytuje se v mírném a boreálním pásmu Evropy a Asie.",
+            "cap": "Klobouk má 6–20 cm v průměru, polokulovitý, pak plochý s prohloubeným středem. Povrch pokrývají nápadné velké, soustředně uspořádané, odstávající tmavohnědé šupiny na světlejším šedohnědém podkladě.",
+            "hymenium": "Hymenium na spodní straně klobouku tvoří křehké, šedohnědé ostny dlouhé 5–12 mm, které sbíhají na třeň.",
+            "stipe": "Třeň je 4–8 cm vysoký a 1,5–3 cm tlustý, pevný, válcovitý, šedohnědý a hladký.",
+            "flesh": "Dužnina je špinavě bělavá až světle hnědá, tuhá, s kořenitou vůní a mírnou, ve stáří hořkou chutí.",
+            "sporePrint": "Hnědý. Výtrusy jsou téměř kulovité, výrazně bradavčité, přibližně 6–8 × 5–6 μm.",
+            "habitat": "Roste od srpna do listopadu ve starých jehličnatých lesích pod smrky a borovicemi, často ve skupinách.",
+            "uses": "Jedlá houba s výhradou. K jídlu se hodí pouze mladé plodnice; starší jsou hořké a tuhé. Usušený a rozemletý se v minulosti používal jako houbové koření.",
+            "confusion": "Lošák šupinatý (Sarcodon squamosus) roste pod borovicemi na písčitých půdách a má menší, přitisklé šupiny na klobouku. Lošák drsný (Sarcodon scabrosus) má v bázi třeně modrozelenou dužninu a je hořký.",
+            "notes": "Staré plodnice tohoto druhu a jeho příbuzných obsahují modrozelené pigmenty, které se v minulosti používaly k barvení vlny."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Habichtspilz"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -6541,6 +8049,18 @@ export const CATALOG = [
           href: "https://www.nahuby.sk/atlas-hub/Sarcodon-imbricatus/jelenkovec-skridlicovity/losak-jeleni/ID172",
           detail: "jelenkovec škridlicovitý"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Sarcodon-imbricatus/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Lošák_jelení"
+            }
       ]
     },
     synonyms: [
@@ -6644,13 +8164,28 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 11,
     label: {
+      de: "Frauentäubling",
       en: "charcoal burner",
       sk: "plávka modrastá"
-    },
+    ,
+      cs: "holubinka namodralá"},
     names: {
       en: ["variegated russula"]
-    },
+    ,
+      cs: []},
     text: {
+      de: {
+          "description": "Ein sehr häufiger und beliebter ektomykorrhizabildender Speisepilz in Laub- und Mischwäldern. Bekannt für seine biegsamen, nicht splitternden Lamellen.",
+          "cap": "Der Hut ist 5–15 cm breit, sehr variabel gefärbt in violetten, stahlblauen, olivgrünen und purpurnen Tönen, oft scheckig gemustert. Anfangs halbkugelig, dann ausgebreitet und in der Mitte vertieft.",
+          "hymenium": "Die Lamellen sind weiß, dicht stehend und besitzen eine für Täublinge untypische weiche, elastische Konsistenz; sie splittern beim Drüberstreichen mit dem Finger nicht.",
+          "stipe": "Der Stiel ist 4–10 cm lang und 1,5–3 cm dick, rein weiß, fest, voll, später schwammig gekammert.",
+          "flesh": "Das Fleisch ist rein weiß, unter der Huthaut oft violettlich getönt, fest und spröde. Geruch unauffällig, Geschmack mild und nussartig. Eisensulfat (FeSO4) ruft fast keine Farbreaktion hervor.",
+          "habitat": "Fruchtkörper erscheinen von Juni bis November vor allem unter Rotbuchen und Eichen, seltener unter Fichten.",
+          "sporePrint": "Rein weiß. Die Sporen sind breit ellipsoid, fein warzig, etwa 7–9 × 6–7 μm groß.",
+          "uses": "Ein hervorragender Speisepilz mit festem, schmackhaftem Fleisch, vielseitig verwendbar in Pfannengerichten, Suppen und Salaten.",
+          "confusion": "Grüne Formen können flüchtig an den tödlich giftigen Grünen Knollenblätterpilz (Amanita phalloides) erinnern, der jedoch eine Volva, einen Ring und splitternde Lamellen besitzt. Andere Täublinge haben splitternde Lamellen.",
+          "notes": "Die weichen, nicht splitternden Lamellen und die negative Eisensulfatreaktion sind arttypisch. Pilz des Jahres 1997 in Deutschland."
+    },
       en: {
         description: "An ectomycorrhizal mushroom of broadleaf and mixed woods, most often with beech and oak and also with spruce and fir. It is widespread in Europe from the Mediterranean to central Fennoscandia, and it is reported from North Africa, the Canary Islands, temperate Asia, and parts of North and Central America.",
         cap: "The cap is commonly 5–15 cm across, with published extremes of about 4.5–18 cm. It is hemispherical at first, then convex, and later flattened to shallowly depressed, sometimes nearly funnel-shaped. The surface is smooth to finely radially veined, sticky and shiny when wet. The skin peels from a short distance at the margin to about halfway. Colours include lilac, purple, wine, grey, olive, and green, often mottled and darker toward the centre, which may fade to ochre. The margin stays sharp and smooth for a long time and may become faintly grooved only in age. Sodium hydroxide turns the cap skin brownish, and sulfuric acid turns it greenish yellow.",
@@ -6674,9 +8209,33 @@ export const CATALOG = [
         uses: "Je to dobrá jedlá huba s miernou orieškovou chuťou. Dužina ostáva po tepelnej úprave mäkšia než dužina mnohých iných jedlých druhov rodu. Opeká sa a používa sa do omeliet, polievok a dusených jedál. Plodnice bývajú často červivé.",
         confusion: "Plávka fialovozelená (Russula ionochlora) a Russula parazurea sú menšie, majú krehké lupene a nedávajú čistobiely výtrusný prach. Plávka strakatá (Russula grisea) má krémový výtrusný prach, viac sivomodrý klobúk s fialovými alebo zelenými odtieňmi a krémové lupene. Plávka buková (Russula heterophylla) má dužinu, ktorá so soľami železa ružovie, a menšie výtrusy. Plávka zelenkastá (Russula virescens) má popukaný zelený klobúk, dužinu, ktorá so soľami železa ružovooranžovie, a pokožku klobúka tvorenú prevažne guľovitými bunkami. Plávka chrómovožltá (Russula claroflava) má v starobe sivnúcu dužinu, krehké lupene a tmavokrémový až bledookrový výtrusný prach. Russula xerampelina je v sfarbení klobúka rovnako premenlivá a vonia po kraboch alebo po rybe. Plávka olivová (Russula olivacea) môže mať strakatý klobúk a má žlté výtrusy. Plávka trávovozelená (Russula aeruginea) je jednotnejšie zelená, často rastie s brezou, má krémový výtrusný prach a krehké lupene a chuť má mierne štipľavú.",
         notes: "Hodnotenie z roku 2025 ho zaraďuje ako málo dotknutý druh (Least Concern), africké nálezy ponecháva ako neisté a austrálske údaje oddeľuje ako iný druh."
+      },
+      cs: {
+            "description": "Velká ektomykorhizní houba listnatých i smíšených lesů. Hojně roste v celé Evropě a v mírných oblastech Asie.",
+            "cap": "Klobouk má 5–15 cm v průměru, masitý, zprvu polokulovitý, pak sklenutý s prohloubeným středem. Pokožka je proměnlivě zbarvená v tónech fialové, ocelově modré, olivově zelené až šedofialové, paprsčitě žilkovaná a do poloviny sloupnutelná.",
+            "hymenium": "Lupeny jsou husté, připojené, čistě bílé a pro tuto holubinku zcela typicky pružné, špekovité a měkké – při přejetí prstem se nelámou.",
+            "stipe": "Třeň je 5–10 cm vysoký a 1,5–3 cm tlustý, válcovitý, pevný, čistě bílý, někdy se slabým fialovým nádechem.",
+            "flesh": "Dužnina je bílá, pod pokožkou klobouku fialkavá, pevná, s příjemnou oříškovou chutí a nenápadnou vůní. Se síranem železnatým (FeSO4) nereaguje (zůstává bez reakce na rozdíl od jiných holubinek).",
+            "sporePrint": "Čistě bílý. Výtrusy jsou eliptické, bradavčité, amyloidní, přibližně 7–9 × 6–7 μm.",
+            "habitat": "Roste od června do listopadu v listnatých i jehličnatých lesích, zejména pod buky, duby a smrky.",
+            "uses": "Výborná jedlá houba, mnohými mykology považovaná za vůbec nejchutnější holubinku. Hodí se ke všem kuchyňským úpravám.",
+            "confusion": "Od všech ostatních holubinek se spolehlivě pozná podle měkkých a nelámavých lupenů a negativní reakce na FeSO4. Zelené formy mohou nezkušení sběratelé zaměnit se smrtelně jedovatou muchomůrkou zelenou (Amanita phalloides), která má však prsten a volnou pochvu na bázi třeně. Holubinka buková (Russula nobilis) je silně pálivá a má křehké lámavé lupeny.",
+            "notes": "Podle hodnocení z roku 2025 je málo dotčeným druhem (Least Concern)."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Frauent%C3%A4ubling"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -6756,6 +8315,18 @@ export const CATALOG = [
           href: "https://www.nahuby.sk/atlas-hub/Russula-cyanoxantha/plavka-modrasta/holubinka-namodrala/ID458",
           detail: "plávka modrastá"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Russula-cyanoxantha/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Holubinka_namodralá"
+            }
       ]
     },
     synonyms: [
@@ -6844,14 +8415,29 @@ export const CATALOG = [
     fruitingFrom: 1,
     fruitingTo: 12,
     label: {
+      de: "Gemeines Stockschwämmchen",
       en: "sheathed woodtuft",
       sk: "šupinačka menlivá"
-    },
+    ,
+      cs: "opeňka měnlivá"},
     names: {
       en: ["brown stew fungus", "two-toned pholiota", "velvet toughshank"],
       sk: ["šupinovka menlivá"]
-    },
+    ,
+      cs: []},
     text: {
+      de: {
+          "description": "Ein sehr beliebter, büschelig wachsender holzzersetzender Speisepilz an Laubholz. Durch extreme Verwechslungsgefahr mit dem tödlichen Gifthäubling nur für Kenner geeignet.",
+          "cap": "Der Hut ist 2–7 cm breit, stark hygrophan: feucht honiggelb bis zimtbraun mit durchscheinend gerieftem Rand, abtrocknend von der Mitte her ockergelblich aufhellend.",
+          "hymenium": "Die Lamellen sind gedrängt, schmal, anfangs hellbraun, später rostbraun gefärbt.",
+          "stipe": "Der Stiel ist 3–8 cm lang und 0,3–0,8 cm dick, zäh, elastisch, oberhalb des häutigen Rings blass und glatt, unterhalb des Rings dunkelbraun und auffallend sperrig abstehend geschuppt.",
+          "flesh": "Das Fleisch ist im Hut zart und wässrig, im Stiel zähfaserig. Geruch angenehm würzig-pilzig, Geschmack mild.",
+          "habitat": "Fruchtkörper erscheinen von Mai bis November in dichten Büscheln an Stümpfen und liegenden Stämmen von Laubbäumen, vor allem Buche und Birke.",
+          "sporePrint": "Rostbraun. Die Sporen sind glatt, ellipsoid, mit Keimpore, 6–7,5 × 4–4,5 μm groß.",
+          "uses": "Ein vorzüglicher Speisepilz für Suppen und Saucen, von dem nur die zarten Hüte verwendet werden.",
+          "confusion": "Lebensgefährliche Verwechslungsgefahr mit dem tödlich giftigen Gifthäubling (Galerina marginata), der silbrig-weißlich längsfaserig genattert ist (keine abstehenden Schuppen unter dem Ring besitzt) und nach Mehl riecht.",
+          "notes": "Das abstehend geschuppte Stielteil unterhalb des Rings unterscheidet es sicher vom Gifthäubling."
+    },
       en: {
         description: "A wood-rotting mushroom of tufts on stumps and fallen trunks. It is common through Britain and Ireland and across Europe, from the Mediterranean to Iceland and Scandinavia. It is widespread in Asia, including the Caucasus, Siberia, and Japan, and in North America, especially the montane west, and in Australia.",
         cap: "The cap is 1.5–10 cm across, most often about 2–8 cm. It starts obtuse, hemispherical, or bell-shaped, with the margin incurved, and it becomes convex or nearly flat, often with a low broad umbo. The surface is hygrophanous and greasy or sticky when moist, from a separable pellicle, and the moist margin is closely translucent-striate. The colour is reddish cinnamon, dull cinnamon, or orange-brown, drying pale ochre, honey yellow, or pinkish buff from the centre outward, so a darker watery band often remains around a paler disc. Very young caps may carry fine white veil fibrils or tiny scales, but the surface is soon smooth.",
@@ -6875,9 +8461,33 @@ export const CATALOG = [
         uses: "Klobúky sa vyprážajú alebo sa nimi dochucujú omáčky a polievky a chuť je najlepšia po tepelnej úprave. Hlúbiky sú príliš tuhé a odhadzujú sa. Na tom istom dreve rastie smrteľne jedovatá podobná huba, a preto viaceré príručky radia nezbierať ju, kým sa tieto dve nedajú s istotou odlíšiť.",
         confusion: "Smrteľne jedovatá kapucňovka okrovohnedastá (Galerina marginata) rastie na tom istom dreve, jednotlivo alebo v menších trsoch. Táto huba osychá od stredu k okraju, takže okraj ostáva tmavším vodnatým pásom, kým kapucňovka okrovohnedastá osychá od okraja do stredu. Hlúbik pod prsteňom je tu šupinatý a pri kapucňovke okrovohnedastej býva zvyčajne hodvábny, hoci šupiny sa môžu objaviť aj na nej, takže tento znak nie je celkom spoľahlivý. Vôňa aj chuť sú tu korenisté alebo hubové a mierne. Kapucňovka okrovohnedastá vonia a chutí múčne, alebo po múke až po reďkovke, a jej výtrusy sú väčšie a bradavičnaté. KOH na klobúku tu farbu nemení a klobúk kapucňovky okrovohnedastej sfarbí do červena. Obe sa niekedy dajú odlíšiť len pod mikroskopom. Jedovatá strapcovka zväzkovitá (Hypholoma fasciculare) a príbuzné trsovité strapcovky (Hypholoma) majú sivofialový alebo sivočierny výtrusný prach, hladký hlúbik, slabú hygrofánnu zmenu alebo nijakú a nemajú prsteň. Jedlá strapcovka maková (Hypholoma capnoides) má hladký hlúbik a jej lupene sa menia na sivohnedé až purpurovohnedé. Druhy šupinovky (Pholiota) na tom istom stanovišti majú často šupinatejší klobúk. Niektoré sú slizké a prsteň, ak je prítomný, je vláknitý a čoskoro sa stráca. Nejedlá drobuľka vodomilná (Psathyrella piluliformis) nemá prsteň a jej výtrusný prach je takmer čiernohnedý. Jedlá plamienka zimná (Flammulina velutipes) má tmavší zamatový hlúbik a biely výtrusný prach. Podpňovky (Armillaria), vrátane Armillaria nabsnona na jelši, majú biely výtrusný prach.",
         notes: "Hodnotenie z roku 2019 ho zaraďuje medzi málo dotknuté druhy (Least Concern) a trend populácie v tom hodnotení je stabilný."
+      },
+      cs: {
+            "description": "Saprotrofní dřevokazná houba rostoucí v bohatých trsech na tlejícím dřevě listnáčů. Široce se vyskytuje v celé Evropě, Asii a Severní Americe.",
+            "cap": "Klobouk má 2–7 cm v průměru, polokulovitý, pak sklenutý s tupým hrbolem. Pokožka je výrazně hygrofánní: za vlhka skořicově až medově hnědá a lesklá, při vysychání od středu nápadně bledne do světle okrové.",
+            "hymenium": "Lupeny jsou husté, připojené až mírně sbíhavé, zpočátku světle hnědavé, později sytě rezavě hnědé.",
+            "stipe": "Třeň je 3–8 cm dlouhý a 0,3–0,8 cm tlustý, válcovitý, tuhý, nahoře světlejší s úzkým prstenem. Pod prstenem je třeň tmavě hnědý a hustě pokrytý odstávajícími rezavě černými šupinkami.",
+            "flesh": "Dužnina v klobouku je tenká, bělavá až světle okrová, s příjemnou houbovou a slabě kořeněnou vůní i chutí.",
+            "sporePrint": "Rezavě hnědý. Výtrusy jsou eliptické s klíčním pórem, hladké, přibližně 6–7,5 × 4–4,5 μm.",
+            "habitat": "Roste od dubna do listopadu v bohatých trsech na pařezech a padlých kmenech listnatých stromů, zejména buků a bříz.",
+            "uses": "Výborná a velmi oblíbená jedlá houba. Sbírají se pouze kloboučky, protože třeně jsou příliš tuhé. Skvěle se hodí do bramboračky, polévek a omáček.",
+            "confusion": "Smrtelně nebezpečná je záměna se smrtelně jedovatou čepičatkou jehličnanovou (Galerina marginata), která roste především na jehličnanech a její třeň pod prstenem je stříbřitě vláknitý, nikoli odstávavě šupinkatý. Třepenitka svazčitá (Hypholoma fasciculare) má sírově žluté lupeny s olivovým nádechem a hořkou dužninu.",
+            "notes": "Podle hodnocení z roku 2019 je málo dotčeným druhem (Least Concern) se stabilní populací."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Gemeines_Stockschw%C3%A4mmchen"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -6983,6 +8593,18 @@ export const CATALOG = [
           href: "https://www.gbif.org/species/2533962",
           detail: "2533962"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Kuehneromyces-mutabilis/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Opeňka_měnlivá"
+            }
       ]
     },
     synonyms: [
@@ -7064,13 +8686,28 @@ export const CATALOG = [
     fruitingFrom: 1,
     fruitingTo: 12,
     label: {
+      de: "Gifthäubling",
       en: "funeral bell",
       sk: "kapucňovka okrovohnedastá"
-    },
+    ,
+      cs: "čepičatka jehličnanová"},
     names: {
       en: ["deadly skullcap", "autumn skullcap", "deadly Galerina", "marginate Pholiota"]
-    },
+    ,
+      cs: []},
     text: {
+      de: {
+          "description": "Ein tödlich giftiger, holzzersetzender Pilz an Nadel- und Laubholz. Enthält dieselben lebensgefährlichen Amatoxine wie der Grüne Knollenblätterpilz.",
+          "cap": "Der Hut ist 1,5–4 cm breit, gewölbt, hygrophan: feucht ocker- bis gelbbraun mit schwach gerieftem Rand, trocken blass gelblich.",
+          "hymenium": "Die Lamellen sind anfangs hell ockerbraun, später rostbraun und am Stiel angewachsen.",
+          "stipe": "Der Stiel ist 2–7 cm lang und 0,2–0,5 cm dick, bräunlich, mit einem flüchtigen häutigen Ring. Unterhalb des Rings ist der Stiel silbrig-weißlich längsfaserig überzogen (niemals abstehend geschuppt!).",
+          "flesh": "Das Fleisch ist dünn, bräunlich, mit deutlichem Mehlgeruch und mehlartigem Geschmack.",
+          "habitat": "Fruchtkörper erscheinen von August bis November einzeln oder in kleinen Trupps an vermorschtem Nadelholz, seltener an Laubholz.",
+          "sporePrint": "Rostbraun. Die Sporen sind ellipsoid bis mandelförmig, warzig, 8–11 × 5–6,5 μm groß.",
+          "uses": "Tödlich giftig! Enthält tödliche Mengen Amatoxine, die Leber und Nieren zerstören. Kochen oder Trocknen zerstört das Gift nicht.",
+          "confusion": "Wird häufig mit dem essbaren Stockschwämmchen (Kuehneromyces mutabilis) verwechselt, das jedoch abstehende dunkle Schuppen unter dem Ring hat und würzig riecht. Auch mit dem Rauchblättrigen Schwefelkopf (Hypholoma capnoides) verwechselbar.",
+          "notes": "Die Gifte werden weder durch Kochen noch durch Trocknen zerstört."
+    },
       en: {
         description: "A wood-rotting mushroom that fruits alone or in small clusters on stumps, fallen trunks, and buried wood. It is widespread in the Northern Hemisphere, through Europe, Asia, and North America, and it is also recorded in Australia and Antarctica. In Britain and Ireland it is uncommon.",
         cap: "The cap is usually 1–7 cm across, occasionally to 8 cm, and a narrower treatment gives 0.5–4 cm. It is hemispherical or bell-shaped at first, then convex to almost flat, sometimes with a low umbo. The margin is inrolled when young and can be translucently striate when moist. The surface is moist and slightly sticky, then shiny or matte. It is hygrophanous, rufous brown to orange-brown at the centre and honey yellow or ochre toward the margin, fading to dull tan as it dries. A pale veil may cling to the margin of a very young cap.",
@@ -7092,9 +8729,32 @@ export const CATALOG = [
         habitat: "V Európe sa plodnice objavujú od mája do decembra, najčastejšie v lete a na jeseň, a stredná Európa má aj skorú jarnú vlnu. V miernom pásme Severnej Ameriky sa objavujú po celý rok, najčastejšie na jar a na jeseň. Rastie na tlejúcom dreve ihličnanov aj listnáčov, na pňoch, spadnutých kmeňoch, konároch, pilinách, olúpanej kôre a zahrabanom dreve a spôsobuje vláknitú bielu hnilobu. Skupiny a malé trsy sú obvyklé, vyskytujú sa aj jednotlivé plodnice. Na Slovensku rastie na dreve ihličnanov aj listnáčov a v lužných lesoch býva medzi najhojnejšími hubami.",
         uses: "Je smrteľne jedovatá. Obsahuje amatoxíny vrátane α-amanitínu a γ-amanitínu, teda rovnakú skupinu toxínov ako muchotrávka zelená (Amanita phalloides). Príznaky sa začínajú niekoľko hodín po jedle a niekedy až na druhý deň: silná bolesť brucha, vracanie a hnačka. Môže nasledovať zdanlivé zlepšenie a potom poškodenie pečene, krvácanie do tráviaceho traktu, zlyhanie obličiek, kóma alebo smrť, často približne do týždňa. Ťažká otrava môže zanechať trvalé poškodenie pečene a obličiek. V rokoch 1978 až 1995 bolo v Európe a Severnej Amerike hlásených desať takýchto otráv, z toho dve smrteľné.",
         confusion: "Jedlá šupinačka menlivá (Kuehneromyces mutabilis) má na hlúbiku šupiny až po prsteň, korenistú alebo aromatickú vôňu, hladké výtrusy a klobúk, ktorý je v strede často bledší ako na okraji. Zriedkavejšia a bližšia je Kuehneromyces vernalis, ktorej výtrusy sú hladké a majú klíčny pór. Jedlá plamienka zimná (Flammulina velutipes) má biele až bledožlté lupene, biely výtrusný prach, hladké elipsoidné výtrusy veľké 6,5–9 × 2,5–4 μm, nemá prsteň a jej hlúbik tmavne a stáva sa zamatovým. Jedlá strapcovka maková (Hypholoma capnoides) má lupene najprv belavé a potom sivomodré. Jedlá podpňovka obyčajná (Armillaria mellea) má biely výtrusný prach. Druhy šupinačky (Pholiota) majú často šupinatý klobúk, tmavohnedý výtrusný prach a hladké výtrusy."
+      },
+      cs: {
+            "description": "Drobná saprotrofní dřevokazná houba rostoucí na tlejícím dřevě, zejména jehličnanů. Vyskytuje se po celé severní polokouli v Evropě, Asii i Severní Americe.",
+            "cap": "Klobouk má 1–4 cm v průměru, kuželovitý, pak sklenutý s prosvítavě rýhovaným okrajem. Pokožka je hygrofánní, za vlhka okrově medová až rezavě hnědá, vysycháním blednoucí do žlutookrové.",
+            "hymenium": "Lupeny jsou husté, připojené až mírně sbíhavé, zprvu světle okrové, ve stáří rezavě hnědé.",
+            "stipe": "Třeň je 2–6 cm vysoký a 0,2–0,5 cm tlustý, válcovitý, dutý, s drobným mizejícím prstencem. Pod prstenem je hnědý a pokrytý jemnými stříbřitě bílými podélnými vlákny (nikdy nemá odstávající šupiny).",
+            "flesh": "Dužnina je tenká, okrová, s moučnou vůní i chutí.",
+            "sporePrint": "Rezavě hnědý. Výtrusy jsou mandlovité, jemně bradavčité, přibližně 8–11 × 5–6,5 μm.",
+            "habitat": "Roste od srpna do listopadu na mechem porostlých pařezech a rozpadajícím se dřevě jehličnanů (smrků a borovic), vzácněji i listnáčů.",
+            "uses": "Smrtelně jedovatá houba. Obsahuje stejné množství amatoxinů jako muchomůrka zelená. Způsobuje selhání jater a ledvin. Toxiny nelze zničit vařením, sušením ani mražením.",
+            "confusion": "Záměna s jedlou opeňkou měnlivou (Kuehneromyces mutabilis) je hlavní příčinou fatálních otrav tímto druhem. Opeňka má třeň pod prstenem výrazně pokrytý hrubými odstávajícími tmavými šupinami. Třepenitka svazčitá (Hypholoma fasciculare) má zelenavé lupeny a je silně hořká."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Gift-H%C3%A4ubling"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -7181,6 +8841,18 @@ export const CATALOG = [
           href: "https://www.nahuby.sk/atlas-hub/Galerina-marginata/kapucnovka-okrovohnedasta/cepicatka-jehlicnanova/ID188",
           detail: "kapucňovka okrovohnedastá"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Galerina-marginata/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Čepičatka_jehličnanová"
+            }
       ]
     },
     synonyms: [
@@ -7280,14 +8952,29 @@ export const CATALOG = [
     fruitingFrom: 7,
     fruitingTo: 12,
     label: {
+      de: "Krause Glucke",
       en: "cauliflower fungus",
       sk: "kučierka veľká"
-    },
+    ,
+      cs: "kotrč kadeřavý"},
     names: {
       en: ["wood cauliflower", "cauliflower mushroom", "brain fungus"],
       sk: ["barania hlava"]
-    },
+    ,
+      cs: []},
     text: {
+      de: {
+          "description": "Ein auffälliger, wie ein Badeschwamm oder Blumenkohl aussehender holzzersetzender Pilz am Fuße alter Kiefern. Ein sehr beliebter Speisepilz.",
+          "cap": "Der Fruchtkörper wird 10–40 cm breit, bis 20 cm hoch und mehrere Kilogramm schwer. Er besteht aus einem dicken, fleischigen Strunk, aus dem unzählige blattartig gewundene, gekräuselte, gelblich-weiße bis ockerfarbene Verzweigungen entspringen.",
+          "hymenium": "Die Fruchtschicht überzieht beidseitig die gekräuselten Verzweigungen.",
+          "stipe": "Der Stiel ist dick, knollig, tief im Wurzelbereich der Wirtskiefer verankert.",
+          "flesh": "Das Fleisch ist weißlich, elastisch, im Strunk zäh. Geruch angenehm nussig-würzig, Geschmack mild.",
+          "habitat": "Fruchtkörper erscheinen von August bis November am Stammgrund oder über Wurzeln lebender alter Kiefern auf sandigen Böden.",
+          "sporePrint": "Cremeweiß bis blassgelblich. Die Sporen sind glatt, breit ellipsoid, 5–7 × 4–4,5 μm groß.",
+          "uses": "Ein hervorragender Speisepilz, besonders für Suppen, Ragouts und Bratgerichte geeignet. Wegen der krausen Verästelungen muss er gründlich von Sand und Erde gereinigt werden.",
+          "confusion": "Die Breitblättrige Glucke (Sparassis laminosa) wächst an Eichen und besitzt breitere, weniger gekräuselte Lappen.",
+          "notes": "Verursacht im Wurzelholz eine intensive Braunfäule."
+    },
       en: {
         description: "A brown-rot fungus of conifer woods, parasitic on living roots and saprotrophic on stumps, most often with pine. It is widespread from the Mediterranean through central Europe to northern Scotland and the southern coasts of Scandinavia, and it is reported from North Africa. North American records under this name, and some Asian ones, are other species in the same complex.",
         cap: "The fruit body is commonly 10–40 cm across and about 10–25 cm tall. Smaller ones are about 5 cm across and 5 cm tall, and large ones weigh several kilograms, to about 6 kg. It is irregularly rounded, a dense mass of flattened, wavy, curled lobes with toothed edges, fused in places and leaving cavities between them. The lobes are whitish or cream at first, then yellowish, and brownish in age, sometimes with a darker margin as they dry. Young lobes are tough and rubbery and later become softer. A dry fruit body is brittle.",
@@ -7309,9 +8996,32 @@ export const CATALOG = [
         habitat: "Plodnice sa v strednej Európe objavujú od júla do decembra, s vrcholom v septembri a októbri, v Británii a Írsku od júla do októbra a podľa niektorých opisov aj do novembra, na Slovensku od augusta do októbra a v českých opisoch od júla do novembra. Rastú na báze živých ihličnanov alebo na pňoch, najmä pri borovici lesnej, a tiež pri iných boroviciach, smreku, smrekovci a príležitostne pri duglaske tisolistej. Huba vniká cez rany na koreňoch alebo v dolnej časti kmeňa a spôsobuje hnedú hnilobu jadrového dreva. Rozložené drevo vonia po terpentíne. V pni môže prežívať niekoľko rokov a odtiaľ nakaziť nové stromy. Vyskytuje sa na mnohých pôdach, ktoré nie sú ani veľmi suché, ani veľmi mokré. Na Slovensku rastie najčastejšie v borovicových lesoch na piesočnatej pôde, vrátane Záhoria.",
         uses: "Za mladi a za čerstva je to výborná jedlá huba. Keď laloky zhnednú a plodnica sa začína kaziť, stáva sa nestráviteľnou a necháva sa. Dužina je za surova trochu chrupkovitá a po uvarení ostáva pevná. Používa sa do polievok, aj do polievky na spôsob držkovej, smaží sa a suší sa do omáčok. V záhyboch sa zachytávajú ihličie, pôda a larvy. Krátke blanšírovanie, v jednom opise asi 2–3 minúty, urobí hmotu pružnou, takže sa ľahšie preplachuje pod vodou; dá sa aj nakrájať na niekoľko centimetrov hrubé plátky a namočiť. Varí sa pomaly. V chladničke vydrží týždeň aj dlhšie a dá sa sušiť alebo uchovať v oleji či v studenej vode.",
         confusion: "Kučierka jedľová (Sparassis brevipes) má širšie, menej kučeravé, lopatkovité konce lalokov, často s bledým zhrubnutým okrajom, a nemá spojky. Má mydlovú vôňu. Rastie na jedli, menej často na buku, smreku alebo smrekovci, a uvádza sa aj pri borovici. Sparassis spathulata má rovnejšie, vzpriamenejšie laloky a rastie pri listnáčoch vo východnej Severnej Amerike, uvádza sa však aj pri borovici. Sparassis radicata sa v západnej Severnej Amerike vedie ako samostatný druh a má dlhú zakoreňujúcu bázu. Trsovnica lupeňovitá (Grifola frondosa) rastie na báze dubov a má sivohnedé vejárovité úkrojky s pórmi na spodnej strane. Druhy strapačky (Ramaria) majú vzpriamené konáre, ktoré nie sú na koncoch sploštené a kučeravé. Korunovec svietnikovitý (Artomyces pyxidatus) a korunkovec (Artomyces microsporus) rastú na pevnom odumretom dreve a ich vzpriamené konáre sa končia malými korunkami."
+      },
+      cs: {
+            "description": "Parazitická a saprotrofní dřevokazná houba napadající kořeny a báze kmenů borovic. Hojně se vyskytuje v jehličnatých lesích Evropy a mírné Asie.",
+            "cap": "Plodnice je kulovitá až polštářovitá, 10–35 cm v průměru a váží až několik kilogramů. Tvoří ji bohatě rozvětvený keřík hustě nahloučených, zploštělých, silně zkadeřených a vlnitých lupenitých větviček. Barva je krémová, světle žlutá až okrová, na okrajích větviček stářím hnědnoucí.",
+            "hymenium": "Hladký povrch zkadeřených větviček tvoří hymenium nesoucí výtrusy.",
+            "stipe": "Třeň je tlustý, hlízovitý, hluboko zanořený do půdy a připojený ke kořenům stromu.",
+            "flesh": "Dužnina je voskovitá, pružná, bílá, s příjemnou oříškovou až kořeněnou vůní a lahodnou chutí.",
+            "sporePrint": "Bělavý až nažloutlý. Výtrusy jsou široce eliptické, hladké, přibližně 5–7 × 4–4,5 μm.",
+            "habitat": "Roste od srpna do listopadu u bází živých borovic a na jejich pařezech na písčitých půdách.",
+            "uses": "Výborná a velmi vyhledávaná jedlá houba. Vyžaduje pečlivé vyprání od písku a jehličí, které se zachycují mezi větvičkami. Je proslulá svou pevnou křupavou texturou a skvěle se hodí do falešné dršťkové polévky, gulášů a k nakládání.",
+            "confusion": "Kotrč Němcův (Sparassis nemecii) roste vzácně u bází jedlí a má světlejší, méně zkadeřené větvičky; je rovněž jedlý. Korunokyjka svícnovitá (Artomyces pyxidatus) roste na dřevě listnáčů a větvičky mají na koncích korunkovité jamky."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Krause_Glucke"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -7395,6 +9105,18 @@ export const CATALOG = [
           href: "https://www.nahuby.sk/atlas-hub/Sparassis-crispa/kucierka-velka/kotrc-kaderavy/ID226",
           detail: "kučierka veľká"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Sparassis-crispa/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Kotrč_kadeřavý"
+            }
       ]
     },
     synonyms: [
@@ -7482,9 +9204,11 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 11,
     label: {
+      de: "Kahler Krempling",
       en: "brown roll-rim",
       sk: "čechračka podvinutá"
-    },
+    ,
+      cs: "čechratka podvinutá"},
     names: {
       en: [
         "common roll-rim",
@@ -7495,8 +9219,21 @@ export const CATALOG = [
         "brown chanterelle",
         "involved navel-stool"
       ]
-    },
+    ,
+      cs: []},
     text: {
+      de: {
+          "description": "Ein sehr häufiger ektomykorrhizabildender Blätterpilz in Laub- und Nadelwäldern. Früher oft als Speisepilz verzehrt, heute als gefährlich giftig (Paxillus-Syndrom) bekannt.",
+          "cap": "Der Hut ist 5–15 cm breit, ockergrau bis olivbraun, anfangs gewölbt mit stark eingerolltem, samtig-filzigem Rand, später trichterförmig vertieft.",
+          "hymenium": "Die Lamellen sind lehmgelb bis ockerbraun, laufen weit am Stiel herab, sind am Stielansatz oft netzig verbunden und bräunen bei Berührung sofort intensiv.",
+          "stipe": "Der Stiel ist 3–8 cm lang und 1–2 cm dick, zylindrisch, voll, hutfarben oder heller, bräunt auf Druck.",
+          "flesh": "Das Fleisch ist gelblich, weich, saftig und bräunt im Anschnitt rasch. Geschmack säuerlich.",
+          "habitat": "Fruchtkörper erscheinen von Juli bis November unter Birken, Fichten, Kiefern und Buchen auf sauren Böden.",
+          "sporePrint": "Rostbraun. Die Sporen sind ellipsoid, glatt, 7–9 × 5–6 μm groß.",
+          "uses": "Giftig! Er kann das potenziell tödliche Paxillus-Syndrom auslösen, eine antikörpervermittelte Immunhämolyse, bei der nach wiederholtem Verzehr rote Blutkörperchen zerstört werden.",
+          "confusion": "Der Samtfußkrempling (Tapinella atrotomentosa) wächst an Stümpfen und hat einen auffällig samtig-schwarzen Stiel.",
+          "notes": "Das Paxillus-Syndrom führt durch Antikörperbildung zur Zerstörung der roten Blutkörperchen."
+    },
       en: {
         description: "An ectomycorrhizal mushroom of broadleaf and coniferous woods, parks, and gardens. In Europe it ranges from Scandinavia to the Iberian Peninsula, and it also occurs in temperate Asia and northern North America. It has been introduced with planted trees to Australia, New Zealand, South Africa, and South America.",
         cap: "The cap is commonly 4–12 cm across, with published extremes of about 2–15 cm and, in one account, about 20 cm. It is hemispherical or convex at first, then flattened, and later depressed to funnel-shaped. The margin stays strongly inrolled for a long time and is downy or felty, and it may become grooved in age. The surface is finely felted when young, later smoother, and slightly sticky when wet. The colour runs from ochre-brown and yellow-brown to olive-brown or rusty brown, and bruising and age darken it.",
@@ -7520,9 +9257,33 @@ export const CATALOG = [
         uses: "V strednej a východnej Európe sa hojne jedla, často nakladaná, solená alebo dusená, a pokladala sa za podradnú. V častiach východnej Európy, najmä v Poľsku, sa ešte solí a nakladá. Surové plodnice spôsobujú ťažkú žalúdočnú poruchu. Varenie neodstráni antigén, ktorý po opakovaných jedlách môže spôsobiť, že imunitný systém ničí červené krvinky. Reakcia môže viesť k zlyhaniu obličiek, šoku a zlyhaniu dýchania, aj u ľudí, ktorí ju roky jedli len s miernymi žalúdočnými ťažkosťami. Julius Schäffer zomrel v roku 1944, sedemnásť dní po jej konzumácii.",
         confusion: "Lievikovité huby rodu strmuľka (Clitocybe) majú biele lupene a biely výtrusný prach. Rýdzik odporný (Lactarius turpis) je tmavšie olivový a ako iné rýdziky (Lactarius) roní mlieko. Čechračka jelšová (Paxillus rubicundulus), uvádzaná aj ako Paxillus filamentosus, rastie len s jelšou. Je menšia a bledšia, s tenkým klobúkom, ktorý má smerom k okraju pritisnuté šupiny, s dužinou, ktorá takmer nehnedne, so sýto žltookrovými lupeňmi, ktoré nemenia farbu, a s menšími výtrusmi, asi 5,5–8,5 × 4–5 μm. Paxillus obscurisporus má klobúky až asi 40 cm, okraj, ktorý sa skôr rozvinie a sploští, a k báze zúžený hlúbik s krémovým mycéliom. Paxillus validus rastie pod listnáčmi v parkoch, má hlúbik viac-menej rovnakej hrúbky a klobúky až asi 20 cm. Kryštály v jeho rizomorfách dosahujú asi 2,5 μm, kým kryštály v rizomorfách iných druhov rodu Paxillus ostávajú pod asi 0,5 μm. Paxillus cuprinus v starobe medenohnedne, má trochu mandľovité výtrusy so stiahnutým vrcholom a rastie s brezou na otvorených miestach. Čechračka parková (Paxillus vernalis) má tmavší výtrusný prach a hrubší hlúbik, asi 2–4 cm, a rastie pod osikou a brezou. Čechračkovec zamatový (Tapinella atrotomentosa) rastie na pňoch ihličnanov alebo vedľa nich a má krátky hrubý hlúbik pokrytý tmavohnedým zamatom. Čechračkovec lastúrovitý (Tapinella panuoides) nemá hlúbik, alebo len krátky bočný, a rastie na dreve ihličnanov.",
         notes: "Viaceré podobné druhy boli neskôr oddelené od plodníc vedených pod týmto menom. Na Slovensku je zaznamenaná na kyslých piesčitých a na živiny chudobných pôdach, aj v mokradiach, najmä pod smrekmi, borovicami a brezami."
+      },
+      cs: {
+            "description": "Ektomykorhizní houba široce rozšířená v listnatých i jehličnatých lesích a parcích. Hojná je po celé Evropě a v mírném pásmu Asie i Severní Ameriky.",
+            "cap": "Klobouk má 5–15 cm v průměru, sklenutý s prohloubeným středem a nápadně silně a dlouho podvinutým plstnatým okrajem. Zbarvený je okrově hnědě až olivově hnědě.",
+            "hymenium": "Lupeny jsou husté, rozvětvené, hluboko sbíhavé na třeň, snadno oddělitelné od dužniny. Mají okrově žlutou barvu a po dotyku či otlačení rychle rezavě hnědnou.",
+            "stipe": "Třeň je 3–8 cm dlouhý a 1–2 cm tlustý, válcovitý, světlejší než klobouk a po otlačení rovněž tmavě hnědne.",
+            "flesh": "Dužnina je měkká, nažloutlá, po poranění hnědnoucí, s nakyslou chutí a nenápadnou vůní.",
+            "sporePrint": "Rezavě hnědý. Výtrusy jsou eliptické, hladké, přibližně 7,5–10 × 5–6 μm.",
+            "habitat": "Roste velmi hojně od července do listopadu pod břízami, smrky, borovicemi a duby na kyselých půdách.",
+            "uses": "Jedovatá až smrtelně jedovatá houba. Ačkoli byla dříve po povaření běžně konzumována, vyvolává u vnímavých osob těžkou autoimunitní reakci (Paxillus syndrom). V těle se vytvářejí protilátky proti antigenům čechratky, které při opakovaném požití způsobí masivní rozpad vlastních červených krvinek (hemolýzu), selhání ledvin a smrt.",
+            "confusion": "Čechratka olšová (Paxillus rubicundulus) je drobnější, má šupinkatý klobouk a roste výhradně pod olšemi. Ryzec ryšavý (Lactarius subdulcis) roní bílé mléko a jeho lupeny nejsou sbíhavé ani oddělitelné od dužniny.",
+            "notes": "Z plodnic dříve vedených pod tímto jménem bylo později vyčleněno několik podobných druhů."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Kahler_Krempling"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -7642,6 +9403,18 @@ export const CATALOG = [
           href: "https://www.nahuby.sk/atlas-hub/Paxillus-involutus/cechracka-podvinuta/cechratka-podvinuta/ID21",
           detail: "čechračka podvinutá"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Paxillus-involutus/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Čechratka_podvinutá"
+            }
       ]
     },
     synonyms: [
@@ -7725,14 +9498,29 @@ export const CATALOG = [
     fruitingFrom: 8,
     fruitingTo: 12,
     label: {
+      de: "Violetter Rötelritterling",
       en: "wood blewit",
       sk: "pôvabnica fialová"
-    },
+    ,
+      cs: "čirůvka fialová"},
     names: {
       en: ["blewit", "blue foot", "amethyst lepista", "blue-gilled agaric"],
       sk: ["hliva", "modrá hliva", "proficla"]
-    },
+    ,
+      cs: []},
     text: {
+      de: {
+          "description": "Ein farbenprächtiger saprotropher Herbstpilz in Wäldern, Parks und Gärten. Er zeichnet sich durch intensive Violetttöne und einen süßlich-aromatischen Duft aus.",
+          "cap": "Der Hut ist 5–15 cm breit, fleischig, leuchtend violett bis lilablau, verblasst im Alter von der Mitte her zu braunocker.",
+          "hymenium": "Die Lamellen sind lebhaft violett, dicht stehend, am Stiel ausgebuchtet angewachsen und lassen sich leicht vom Hutfleisch abschieben.",
+          "stipe": "Der Stiel ist 4–10 cm lang und 1–3 cm dick, kräftig, keulig, längsfaserig violett überlaufen mit weißlich-violettem Basismyzel.",
+          "flesh": "Das Fleisch ist zart violettlich bis weißlich, weich. Geruch angenehm parfümiert-aromatisch (erinnert an Multivitaminsaft), Geschmack mild.",
+          "habitat": "Fruchtkörper erscheinen von September bis Dezember in Laub- und Nadelwäldern auf nährstoffreichem Humus und Nadelstreu, oft in großen Hexenringen.",
+          "sporePrint": "Blass rötlich-ocker bis fleischfarben. Die Sporen sind ellipsoid, fein punktiert-warzig, 5,5–8 × 4–5 μm groß.",
+          "uses": "Ein guter Speisepilz, muss aber gründlich gegart werden, da er roh blutzersetzende Hämolysine enthält.",
+          "confusion": "Gefährliche Verwechslungsgefahr mit violetten Schleierlingen (Cortinarius), wie dem Bocks-Dickfuß (Cortinarius traganus) oder dem Dunkelvioletten Schleierling (Cortinarius violaceus), die rostbraunes Sporenpulver und eine Schleiercortina besitzen.",
+          "notes": "Roh enthält er hitzelabile Hämolysine und darf nicht roh verzehrt werden."
+    },
       en: {
         description: "A fleshy saprobic mushroom of leaf litter in woods, parks, and gardens, often in rings or rows. It is native to temperate Europe and North America, reported from Asia, North Africa, and South America, and introduced in Australia and New Zealand, where it is becoming more common.",
         cap: "The cap is 2.5–15 cm across, and occasionally reaches 20 cm. It is convex, with a long-inrolled margin, and later flat or slightly depressed, often wavy, and the edge may turn up. The surface is smooth and slightly hygrophanous, tacky or viscid when wet, and the young margin can look frosted. Young caps are violet, lilac, or purple-blue. The colour fades from the centre to tan, ochre, or brown, and some caps are brown or buff from the start. North American fruit bodies are often a duller tan, while the gills and the stipe usually keep some purple. The cap skin is a cutis or an ixocutis of hyphae 2–8 μm wide, with clamp connections.",
@@ -7756,9 +9544,33 @@ export const CATALOG = [
         uses: "Je to výborná jedlá huba, ak je dôkladne tepelne upravená, a za surova sa neje. Surová dužina obsahuje termolabilný hemolyzín, ktorý rozkladá červené krvinky a dôkladnou tepelnou úpravou sa ničí. Menšine ľudí spôsobia dobre uvarené plodnice aj tak tráviace ťažkosti. Prednosť majú mladé klobúky. Restujú sa, dusia sa na masle alebo v smotanovej omáčke, alebo sa dávajú do praženice, cestovín, ryže, syrových jedál, svetlého mäsa a dusených jedál, aj s pórkom alebo cibuľou. Sušia sa, alebo sa blanšírujú a uchovávajú v olivovom oleji či v bielom octe. Voľne rastúce plodnice prijímajú ťažké kovy ľahšie ako mnohé iné huby a jedia sa s mierou. Huba sa predáva vo Francúzsku, Španielsku a Portugalsku a širšie aj na európskych trhoch. Pestované plodnice z Veľkej Británie, Holandska a Francúzska vraj chutia horšie ako voľne rastúce. Nasekaná a uvarená v železnom hrnci farbí látku alebo papier na trávovozeleno. Uvádza sa, že potláča baktérie a kvasinky a že znižuje hladinu cukru v krvi u ľudí s cukrovkou. Plodnice, ktoré zmrzli ešte zdravé, možno hneď po rozmrazení tepelne upraviť.",
         confusion: "Pavučinovce fialových farieb, medzi nimi pavučinovec fialový (Cortinarius violaceus), pavučinovec (Cortinarius alboviolaceus), pavučinovec smradľavý (Cortinarius traganus) a zriedkavý pavučinovec (Cortinarius camphoratus), majú hrdzavohnedý výtrusný prach a pavučinku. Na hlúbiku často ostáva prsteňovitá zóna a hnedé výtrusy ju poprášia. Pavučinovec fialový (Cortinarius violaceus) má tmavší fialový klobúk s plstnatou pokožkou. Niektoré z týchto druhov nepríjemne páchnu. Jedlá pôvabnica ružovkastá (Lepista sordida) je menšia a štíhlejšia, ružovofialová, silno hygrofánna a rýchlo bledne. Často má hrboľ, hlúbik je tenký a zvyčajne rastie jednotlivo alebo v malých skupinách, častejšie v tráve a na lúkach. Jedlá pôvabnica dvojfarebná (Lepista personata), uvádzaná aj ako Lepista saeva a Collybia personata, má fialový len hlúbik. Klobúk a lupene nie sú fialkasté a rastie v trávnatých porastoch mimo lesa. Pôvabnica sivomodrá (Lepista glaucocana) je zvyčajne veľmi bledo fialkastá až belavá a nehnedne, hoci plodnice v západnej Sibíri môžu byť väčšie a niekedy výrazne sfarbené. Niektorí autori ju považujú za odrodu. V lesoch je zriedkavá, najmä vo vápencových bučinách. Jedlá lakovka ametystová (Laccaria amethystina) je oveľa štíhlejšia, s tenkým hlúbikom a s klobúkom v strede preliačeným.",
         notes: "Štúdia z roku 2015 zisťuje, že tento druh nie je blízky druhu Lepista densifolia. Na Slovensku je tento druh všeobecne rozšírený od nížin po hory."
+      },
+      cs: {
+            "description": "Saprotrofní houba bohatých lesních půd a humózního opadu. Běžně se vyskytuje v mírném pásmu Evropy, Asie a Severní Ameriky.",
+            "cap": "Klobouk má 5–15 cm v průměru, polokulovitý, pak sklenutý až plochý se zvlněným okrajem. V mládí je sytě modrofialový, stářím vybledá do hnědofialové až kožově hnědé barvy.",
+            "hymenium": "Lupeny jsou husté, tenké, zoubkem připojené, zbarvené sytě fialově, stářím blednoucí.",
+            "stipe": "Třeň je 5–10 cm vysoký a 1,5–3 cm tlustý, válcovitý, na bázi hlízovitý s fialovou plstí, podélně vláknitý a zbarvený fialově.",
+            "flesh": "Dužnina je masitá, světle fialová až bělavá, s příjemnou, silně aromatickou ovocně kořeněnou vůní a mírnou chutí.",
+            "sporePrint": "Světle růžovookrový. Výtrusy jsou eliptické, jemně bradavčité, přibližně 6–8 × 4–5 μm.",
+            "habitat": "Vyrůstá od září do listopadu (často až do zámrazu) v listnatých i jehličnatých lesích, zahradách a parcích na tlusté vrstvě listí a jehličí, často v kruzích.",
+            "uses": "Výborná jedlá houba, zvláště vhodná do směsí, polévek i k nakládání do octa. V syrovém stavu obsahuje termolabilní hemolyziny, proto vyžaduje důkladnou tepelnou úpravu (alespoň 15–20 minut).",
+            "confusion": "Nezkušení sběratelé ji mohou zaměnit s jedovatými fialovými pavučinci, například s pavučincem kozlím (Cortinarius traganus), který má rezavě hnědé lupeny, nepříjemný zápach po acetylenu a v mládí pavučinku. Čirůvka špinavá (Lepista sordida) je menší, tenkomasá a hygrofánní.",
+            "notes": "Studie z roku 2015 zjistila, že tento druh není blízce příbuzný s Lepista densifolia."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Violetter_R%C3%B6telritterling"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -7860,6 +9672,18 @@ export const CATALOG = [
           href: "https://www.nahuby.sk/atlas-hub/Lepista-nuda/povabnica-fialova/ciruvka-fialova/ID507",
           detail: "pôvabnica fialová"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Lepista-nuda/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Čirůvka_fialová"
+            }
       ]
     },
     synonyms: [
@@ -7956,13 +9780,28 @@ export const CATALOG = [
     fruitingFrom: 5,
     fruitingTo: 10,
     label: {
+      de: "Becherkoralle",
       en: "crown-tipped coral",
       sk: "korunovec svietnikovitý"
-    },
+    ,
+      cs: "korunokyjka svícnovitá"},
     names: {
       en: ["crown-tipped coral fungus", "crown coral"]
-    },
+    ,
+      cs: ["korunovec svícnovitý"]},
     text: {
+      de: {
+          "description": "Eine saprotrophe Koralle an morschem Laubholz, selten an Nadelholz. Typisch sind die becherförmig gekrönten Astspitzen.",
+          "cap": "Der Fruchtkörper wird 4–12 cm hoch und 2–10 cm breit, korallenförmig verzweigt, cremeweiß bis ockergelblich, mit becherartig vertieften Astenden, die an den Rändern kleine Zähnchen tragen.",
+          "hymenium": "Die glatte Fruchtschicht überzieht die Außenseite der aufrechten Äste.",
+          "stipe": "Ein kurzer, strunkartiger Fuß (1–3 cm) entspringt direkt dem faulenden Holz.",
+          "flesh": "Das Fleisch ist elastisch, zäh, weißlich. Geschmack mild, nach längerem Kauen schärflich-brennend.",
+          "habitat": "Fruchtkörper erscheinen von Juni bis September an toten Stämmen und Stümpfen von Pappel, Weide, Buche und seltener Kiefer.",
+          "sporePrint": "Weiß. Die Sporen sind winzig, ellipsoid, fein punktiert, 3,6–5,5 × 2–3 μm groß und amyloid.",
+          "uses": "In Mitteleuropa als ungenießbar eingestuft; in Nordamerika mitunter als essbar bezeichnet.",
+          "confusion": "Die Steife Koralle (Ramaria stricta) wächst ebenfalls an Holz, schmeckt bitter und besitzt keine becherförmig gekrönten Astspitzen.",
+          "notes": "Pilz des Jahres 2015 in Deutschland."
+    },
       en: {
         description: "A saprotrophic coral fungus of rotten wood across the temperate Northern Hemisphere. It is widespread in Europe, Asia, and North America, uncommon in much of western Europe, and rare in Britain. In North America it occurs in the east, the Rocky Mountains, and Mexico, and it is absent or rare on the Pacific coast.",
         cap: "The fruit body is about 2–13 cm tall and 2–10 cm across, and it is commonly 4–12 cm tall. Upright branches, about 1–5 mm thick, rise repeatedly from a short base and join below into thicker limbs. They stand close together. Each tip opens into a shallow cup with about 3–6 short points on the rim, and the same whorl is repeated down the branch ranks. The colour is whitish, cream, or pale flesh-pink at first, then yellowish or ochre, sometimes with a pinkish cast. The tips often turn brown with age. Dried fruit bodies become cinnamon to brown.",
@@ -7986,9 +9825,33 @@ export const CATALOG = [
         uses: "V strednej Európe sa považuje za nejedlú. Niektoré severoamerické opisy ju označujú za jedlú v čerstvom stave a uvádzajú ju aj ako jedlú za surova, hoci lepšie tepelne upravenú. K roku 2014 nebola na žiadnom z nemeckých zoznamov jedlých húb, húb so spornou potravinovou hodnotou ani jedovatých húb. Plodnice bývajú často malé.",
         confusion: "Strapačka vzpriamená (Ramaria stricta) tiež rastie na dreve a má vzpriamené konáre. Jej konce nemajú korunku, má biele koreňovité mycéliové povrazce a chuť pri žuvaní dužiny neprechádza do pálivej. Ostatné druhy strapačky (Ramaria) rastú na zemi a nekončia sa čiaškami. Druhy rodu Clavulinopsis nemajú čiaškovité konce. Korunovec (Artomyces microsporus) je tvarom podobný, s konármi husto natlačenými od bázy až po vrchol, s kratšími výtrusmi dlhými asi 3–3,8 μm a s väzbou na odumretú borovicu. Artomyces cristatus je malý a jeho plodnice sú nerozkonárené, alebo len zriedka dvakrát rozkonárené.",
         notes: "Z tekutej kultúry boli získané pyxidatoly A–C, tsuicoline E a omphadiol. V Poľsku sa považuje za zraniteľný druh (Vulnerable), spájaný s úbytkom lužných listnatých lesov. Na Slovensku sa uvádza na silno rozložených ležiacich kmeňoch listnáčov, aj od apríla."
+      },
+      cs: {
+            "description": "Saprotrofní dřevokazná houba tlejícího dřeva listnáčů, zejména osik a topolů. Vyskytuje se v mírném a boreálním pásmu Evropy, Asie a Severní Ameriky.",
+            "cap": "Plodnice je keříčkovitá, 4–12 cm vysoká a 3–8 cm široká, bohatě větvená jako svícen. Větvičky jsou vzpřímené, krémové až světle žlutookrové, zakončené miskovitým rozšířením s drobnými korunkovitými hroty na okraji.",
+            "hymenium": "Hladký povrch větviček tvoří hymenium nesoucí výtrusy.",
+            "stipe": "Třeň je krátký, zúžený k bázi, plstnatý a vyrůstá přímo z tlejícího dřeva.",
+            "flesh": "Dužnina je pružná, chrupavčitá, bělavá až nažloutlá, se slabou kořeněnou vůní a mírnou, po chvíli slabě palčivou chutí.",
+            "sporePrint": "Bílý. Výtrusy jsou eliptické, jemně bradavčité, amyloidní, přibližně 4–5,5 × 2–3 μm.",
+            "habitat": "Roste od května do října na tlejících padlých kmenech a větvích osik, topolů a vrb, vzácněji i jiných listnáčů.",
+            "uses": "Nejedlá houba pro tuhou dužninu a slabě palčivou chuť (některými autory uváděna jako jedlá v nouzi).",
+            "confusion": "Jiné keříčkovité houby, jako jsou kuřátka (Ramaria) a kuřátečka (Clavulina), nemají větvičky zakončené charakteristickými korunkovitými mističkami a rostou z půdy, nikoli ze dřeva listnáčů.",
+            "notes": "Z tekutých kultur byly izolovány pyxidatoly A–C, tsuicolin E a omfadiol. V Polsku je hodnocena jako zranitelný druh v důsledku úbytku lužních listnatých lesů."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Verzweigte_Becherkoralle"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -8096,6 +9959,18 @@ export const CATALOG = [
           href: "https://polovnictvo-rybarstvo.pluska.sk/na-hubach/koraly-sa-ukryvaju-aj-v-nasich-lesoch-kde-ich-hladat",
           detail: "Slovensko"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Artomyces-pyxidatus/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Korunokyjka_svícnovitá"
+            }
       ]
     },
     synonyms: [
@@ -8185,14 +10060,29 @@ export const CATALOG = [
     fruitingFrom: 5,
     fruitingTo: 11,
     label: {
+      de: "Eichhase",
       en: "umbrella polypore",
       sk: "trúdnik klobúčkatý"
-    },
+    ,
+      cs: "choroš oříš"},
     names: {
       en: ["lumpy bracket"],
       sk: ["barania hlava"]
-    },
+    ,
+      cs: ["choroš větvený"]},
     text: {
+      de: {
+          "description": "Ein großer, aus hunderten kleinen Einzelhüten bestehender büscheliger Porling an den Wurzeln alter Eichen und Buchen. Er entspringt einem unterirdischen Sklerotium.",
+          "cap": "Der gesamte Fruchtkörper wird 10–50 cm breit und besteht aus einem verzweigten weißen Strunk mit unzähligen runden, gestielten, 1–4 cm breiten, hell graubraunen Einzelhütchen.",
+          "hymenium": "Die Poren an der Unterseite der Einzelhütchen sind weiß, fein und laufen am Stielchen herab.",
+          "stipe": "Die zahlreichen Stiele vereinigen sich zu einem dicken, gemeinsamen weißen Strunk.",
+          "flesh": "Das Fleisch ist weiß, jung zart und saftig, im Alter zäh. Geruch angenehm mehlartig, Geschmack mild.",
+          "habitat": "Fruchtkörper erscheinen von Juni bis Oktober am Fuße lebender Eichen und Buchen auf kalkreichen Böden.",
+          "sporePrint": "Weiß. Die Sporen sind zylindrisch, glatt, 7–10 × 2,5–3,5 μm groß.",
+          "uses": "Jung ein hervorragender Speisepilz von delikatem Geschmack. Das unterirdische Sklerotium wird in der traditionellen chinesischen Medizin als Zhu Ling geschätzt.",
+          "confusion": "Der Klapperschwamm (Grifola frondosa) hat fächerförmige, dunklere graubraune Hüte mit seitlichen Stielen und entspringt keinem echten Sklerotium.",
+          "notes": "Entspringt einem unterirdischen schwarzen Sklerotium (Zhu Ling)."
+    },
       en: {
         description: "A white-rot fungus of deciduous woods, parasitic on living roots and saprotrophic on the stump. It has a temperate distribution in the Northern Hemisphere, from central and eastern Europe north to southern Fennoscandia, across North America, and through the Caucasus and Siberia to Pakistan. In Britain it is rare and mostly southern.",
         cap: "The fruit body is a thick, fleshy, branching trunk that bears many small, round, centrally stalked caps, sometimes several hundred, and it arises from an underground sclerotium. The whole cluster is commonly 10–50 cm across and may weigh several kilograms. Individual caps are 1–5 cm across, most often 2–4 cm. They are thin, broadly convex or plano-convex at first, then flat to shallowly depressed, umbilicate, or funnel-shaped, with a thin wavy margin. The surface is cream, pale ochre, greyish brown, pale yellow-brown, smoky brown, or whitish, often with greyish or grey-brown fibrous scales or fine radial fibrils, especially when young, and it turns ochre and then brown with age. The margin may bruise yellow. The fruit body is short-lived and collapses in wet weather.",
@@ -8216,9 +10106,33 @@ export const CATALOG = [
         uses: "Mladé, čerstvé plodnice sú výborné do polievok a omáčok, alebo sa sušia. Staršie plodnice horknú alebo sú nepríjemné.",
         confusion: "Trsovnica lupeňovitá (Grifola frondosa) má väčšie, vejárovité alebo listovité úkrojky s bočným hlúbikom, kým tento druh má veľa malých, okrúhlych klobúkov so stredovým hlúbikom. Vejárovec obrovský (Meripilus giganteus) má hrubšie, lopatkovité úkrojky s excentrickým hlúbikom a rastie najmä pri buku. Kučierka veľká (Sparassis crispa) je bledšia, s kučeravými lalokmi, a rastie pri ihličnanoch, najmä pri borovici lesnej. Podpňovka bezprsteňová (Armillaria tabescens) má lupene. Trúdnik hľuzovitý (Polyporus tuberaster) tiež vyrastá zo sklerócia a jeho plodnica je jeden klobúk.",
         notes: "V prírode sa uvádza, že podzemné sklerócium vzniká tam, kde je prítomné mycélium niektorého druhu rodu Armillaria, vrátane Armillaria gallica a Armillaria cepistipes. Sklerócium sa v čínskej medicíne používa ako močopudný prostriedok viac ako 2000 rokov. Huba je nehojná a podľa niektorých opisov sa plodnice nemajú zbierať."
+      },
+      cs: {
+            "description": "Parazitická a saprotrofní houba kořenů a bází starých listnatých stromů, zejména dubů a buků. Vyrůstá z podzemního sklerocia. Vyskytuje se v mírném pásmu Evropy, Asie a Severní Ameriky.",
+            "cap": "Plodnice tvoří velký trs o průměru 15–40 cm, složený ze stovek drobných okrouhlých kloboučků o průměru 1–4 cm. Kloboučky jsou uprostřed mírně vhloubené, zbarvené světle hnědě až šedožlutě.",
+            "hymenium": "Rourky jsou krátké (1–2 mm), bílé, sbíhající na třeň. Póry jsou drobné, bílé až smetanové.",
+            "stipe": "Jednotlivé kloboučky mají tenké třeně, které se mnohonásobně větví a spojují do společného mohutného centrálního třeně.",
+            "flesh": "Dužnina je bílá, v mládí měkká a křehká, s příjemnou houbovou vůní a mírnou chutí.",
+            "sporePrint": "Bílý. Výtrusy jsou válcovité, hladké, přibližně 7–10 × 2,5–3,5 μm.",
+            "habitat": "Roste od června do října u bází živých i odumřelých dubů, buků a habrů v teplých listnatých lesích.",
+            "uses": "Výborná jedlá houba. Sbírají se mladé plodnice, které jsou skvělé do polévek, pod maso i k naložení do octa. V tradiční asijské medicíně se podzemní sklerocium (Zhu Ling) využívá jako diuretikum.",
+            "confusion": "Trsnatec lupenitý (Grifola frondosa) má kloboučky vějířovité a lžícovité, postranně připojené a tmavší šedohnědé barvy. Vějířovec obrovský (Meripilus giganteus) má klobouky mnohem větší a jeho póry po otlačení černají.",
+            "notes": "V přírodě se podzemní sklerocium tvoří za přítomnosti mycelia václavek (Armillaria gallica a Armillaria cepistipes). Sklerocium se v čínské medicíně používá jako diuretikum již více než 2000 let. Houba je poměrně vzácná a doporučuje se ji chránit."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Eichhase"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -8287,6 +10201,18 @@ export const CATALOG = [
           href: "https://www.nahuby.sk/atlas-hub/Polyporus-umbellatus/trudnik-klobuckaty/choros-oris/ID753",
           detail: "trúdnik klobúčkatý"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Polyporus-umbellatus/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Choroš_oříš"
+            }
       ]
     },
     synonyms: [
@@ -8380,9 +10306,11 @@ export const CATALOG = [
     fruitingFrom: 5,
     fruitingTo: 11,
     label: {
+      de: "Weißstielige Rotkappe",
       en: "aspen bolete",
       sk: "kozák osikový"
-    },
+    ,
+      cs: "křemenáč osikový"},
     names: {
       sk: [
         "kozák",
@@ -8400,8 +10328,21 @@ export const CATALOG = [
         "osikáč",
         "červený pán"
       ]
-    },
+    ,
+      cs: ["kozák osikový"]},
     text: {
+      de: {
+          "description": "Ein prächtiger ektomykorrhizabildender Raufußröhrling unter Zitterpappeln (Espen). Charakteristisch sind die jung rein weißen Stielschuppen.",
+          "cap": "Der Hut ist 5–20 cm breit, leuchtend orangerot bis ziegelrot, samtig-filzig mit überhängender Huthaut.",
+          "hymenium": "Die Röhren sind weißlich bis hellgrau, Poren fein, verfärben sich auf Druck bräunlich.",
+          "stipe": "Der Stiel ist 8–20 cm lang und 2–4 cm dick, weiß, jung mit rein weißen, erst im Alter bräunenden Schüppchen besetzt.",
+          "flesh": "Das Fleisch ist weiß, verfärbt sich im Anschnitt erst weinrötlich, dann grauviolett und schließlich schwärzlich.",
+          "habitat": "Fruchtkörper erscheinen von Juni bis Oktober unter Zitterpappeln auf verschiedenen Böden.",
+          "sporePrint": "Olivbraun. Die Sporen sind spindelig, glatt, 13–18 × 4,5–6 μm groß.",
+          "uses": "Ein hervorragender Speisepilz, der beim Kochen dunkelt. Er muss gut durchgegart werden.",
+          "confusion": "Die Birken-Rotkappe (Leccinum versipelle) wächst bei Birken und hat von Anfang an schwarze Stielschuppen. Die Eichen-Rotkappe (Leccinum aurantiacum) hat rotbraune Schuppen.",
+          "notes": "Wächst in strikter Ektomykorrhiza mit Zitterpappeln (Populus tremula)."
+    },
       en: {
         description: "An ectomycorrhizal mushroom of aspen and poplar woods, growing singly or in loose groups. It is common in Scandinavia and in the mountains of central Europe, rarer in the lowlands and toward the south and west, and uncommon in Britain. It is also recorded from northern Asia and, rarely, North America.",
         cap: "The cap is 3–25 cm across. It is hemispherical at first, then convex, and later cushion-shaped to nearly flat, sometimes with the margin turned up. The surface is dry and finely felty or fibrillose, vivid orange to orange-red or orange-brown when young, sometimes brick-red or dark red, and it fades or cracks with age, especially in rain. The margin is thin, and the skin hangs over the tubes as a flap, up to about 4–6 mm in young fruit bodies. The cap cuticle is a cutis of narrow cylindrical hyphae.",
@@ -8423,9 +10364,32 @@ export const CATALOG = [
         habitat: "Plodnice sa objavujú od mája do novembra, najčastejšie od júna do októbra a v Británii od augusta do novembra. Rastú na zemi s osikou (Populus tremula) a podľa niektorých údajov aj s inými topoľmi, v zmiešaných lesoch, na okrajoch a čistinách a na vlhkých miestach, častejšie na kyslej pôde ako na suchej alebo zásaditej.",
         uses: "Pevné mladé plodnice sú jedlé po dôkladnej tepelnej úprave. Dužina sa považuje za dobrú a pri varení tmavne; táto farba nezmizne a je neškodná. Surová dužina sa jesť nemá.",
         confusion: "Kozák dubový (Leccinum aurantiacum) má už za mladi červenohnedé šupinky na hlúbiku, hustejšie a tmavšie ako bledé šupinky tohto druhu, a klobúk býva často červenší alebo podľa niektorých údajov so zelenkastým odtieňom. Údaje ho viažu na dub alebo na osiku. Kozák žltooranžový (Leccinum versipelle) rastie s brezou, je mohutnejší, má žltookerový klobúk a hrubé čierne šupinky a otlačením černie bez červeného medzistupňa. Kozák smrekový (Leccinum piceinum) rastie so smrekom a má na klobúku zelenkastý odtieň."
+      },
+      cs: {
+            "description": "Ektomykorhizní houba vázaná na osiky (Populus tremula). Široce se vyskytuje v mírném a chladném pásmu Evropy.",
+            "cap": "Klobouk má 5–20 cm v průměru, polokulovitý, pak sklenutý. Pokožka je suchá, jemně plstnatá, zářivě oranžovočervená až cihlově červená, na okraji mírně přesahující přes rourky.",
+            "hymenium": "Rourky jsou 1–2,5 cm dlouhé, zprvu bílé až krémové, stářím šedohnědé. Póry jsou drobné, stejně zbarvené a po otlačení šednou až tmavnou.",
+            "stipe": "Třeň je 8–20 cm vysoký a 2–4,5 cm tlustý, válcovitý až kyjovitý, bílý. V mládí jsou šupinky na třeni zcela čistě bílé a teprve v dospělosti a stářím rezavějí až hnědnou.",
+            "flesh": "Dužnina je pevná, bílá, na řezu zprvu růžovějící, později fialově šednoucí a nakonec černající. Má příjemnou slabou vůni a chuť.",
+            "sporePrint": "Hnědý. Výtrusy jsou vřetenovité, hladké, přibližně 13–17 × 4–5 μm.",
+            "habitat": "Roste od června do října pod osikami na lesních okrajích, mýtinách a ve světlých listnatých lesích.",
+            "uses": "Výborná jedlá houba. Vyžaduje důkladnou tepelnou úpravu (v syrovém stavu může způsobit nevolnost). Na řezu i při vaření dužnina černá, což je přirozená vlastnost křemenáčů.",
+            "confusion": "Křemenáč březový (Leccinum versipelle) má klobouk žlutooranžový a šupinky na třeni jsou od mládí černé; roste pod břízami. Křemenáč krvavý (Leccinum aurantiacum) roste pod duby a jeho šupinky na třeni jsou od počátku rezavohnědé."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Wei%C3%9Fstielige_Rotkappe"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -8505,6 +10469,18 @@ export const CATALOG = [
           href: "https://www.nahuby.sk/atlas-hub/Leccinum-albostipitatum/kozak-osikovy/kremenac-osikovy-belotrenovy/ID210",
           detail: "kozák osikový"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Leccinum-rufum/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Křemenáč_osikový"
+            }
       ]
     },
     synonyms: [
@@ -8593,13 +10569,28 @@ export const CATALOG = [
     fruitingFrom: 7,
     fruitingTo: 1,
     label: {
+      de: "Falscher Pfifferling",
       en: "false chanterelle",
       sk: "líška oranžová"
-    },
+    ,
+      cs: "lištička pomerančová"},
     names: {
       sk: ["tanečnica", "divé kuriatko"]
-    },
+    ,
+      cs: []},
     text: {
+      de: {
+          "description": "Ein häufiger saprotropher Blätterpilz in Nadelwäldern auf sauren Böden. Er wird oft fälschlicherweise für den Echten Pfifferling gehalten.",
+          "cap": "Der Hut ist 2–7 cm breit, lebhaft orangegelb bis blass orange, gewölbt mit eingerolltem Rand, später trichterförmig vertieft, samtig-matt.",
+          "hymenium": "Die Lamellen sind leuchtend orange, dünn, engstehend, mehrfach gabelig geteilt und laufen am Stiel herab.",
+          "stipe": "Der Stiel ist 2–6 cm lang und 0,3–0,8 cm dick, oft gebogen, hutfarben oder dunkler bräunlich überlaufen, voll, später hohl.",
+          "flesh": "Das Fleisch ist blass orange bis gelblich, weich, dünn. Geruch unauffällig, Geschmack mild.",
+          "habitat": "Fruchtkörper erscheinen von August bis November in Nadelwäldern auf Nadelstreu und morschem Holz.",
+          "sporePrint": "Cremeweiß. Die Sporen sind ellipsoid, glatt, 5,5–7 × 3,5–4,5 μm groß und dextrinoid.",
+          "uses": "Ungenießbar oder minderwertig essbar; kann bei empfindlichen Personen Magen-Darm-Beschwerden auslösen.",
+          "confusion": "Der Echte Pfifferling (Cantharellus cibarius) hat dickliche, aderige Leisten statt dünner, gabeliger Lamellen, festes weißes Fleisch und einen angenehmen Aprikosenduft.",
+          "notes": "Eine Beurteilung aus dem Jahr 2019 stuft die Art als nicht gefährdet (Least Concern) ein."
+    },
       en: {
         description: "A saprotrophic mushroom of conifer and mixed woods, heaths, and woodchip beds, growing singly or in groups and sometimes in rings. It is widespread in temperate Europe, North America, and northern Asia, and it is recorded from Central and South America, Australia, and New Zealand.",
         cap: "The cap is 2–10 cm across. It is convex at first, then flat, and later depressed or funnel-shaped. The margin stays inrolled for a long time and later becomes wavy or lobed. The surface is dry and finely velvety to felty, sometimes finely scaly. The colour runs from pale yellow through orange to orange-red or orange-brown. The centre is often darker or olive-brown in age, and some fruit bodies are very pale. The cap cuticle is either a trichoderm of hyphae 4–15 μm wide or a layer of repent or tangled clamped hyphae about 7–12 μm wide. Potassium hydroxide on the cap is negative to reddish.",
@@ -8623,9 +10614,33 @@ export const CATALOG = [
         uses: "Dlho sa považovala za jedovatú. Nie je považovaná za nebezpečne jedovatú, má však zlú chuť a na konzumáciu sa neodporúča. Niektorí ľudia majú po výdatnom jedle žalúdočné ťažkosti, zvyčajne mierne, a hlásené boli aj halucinácie. Závažné prípady sa považujú za zámenu s rodom Omphalotus alebo za nezvyčajnú individuálnu reakciu. Predáva sa vo Francúzsku a v Belgicku a jedia ju vo Francúzsku a v Španielsku, aj Zapotekovia a Tepehuáni. V Taliansku sa odporúča nezbierať ju pre možnú zámenu s jedovatými druhmi.",
         confusion: "Kuriatko jedlé (Cantharellus cibarius) je hrubšie a tuhšie, bledožlté, má tupé lišty namiesto pravých lupeňov a vonia po marhuliach. Jedlé kuriatko oranžové (Cantharellus friesii) je oranžovejšie, no stále má lišty a tuhšiu dužinu. Jedovaté sú hliva olivová (Omphalotus olearius) a Omphalotus illudens. Rastú v trsoch na dreve listnáčov, napríklad olivy, duba alebo gaštana, majú hrubšie plodnice a pravé lupene, ktoré sa nevetvia. Líška hrdzavá (Hygrophoropsis rufa) má hnedší klobúk aj hlúbik a hnedý zamatový alebo šupinkatý povrch. Líška veľkovýtrusná (Hygrophoropsis macrospora) má krémové lupene aj krémový hlúbik a dlhšie výtrusy. Hygrophoropsis fuscosquamula má na tlmeno oranžovom klobúku jemné hnedé šupiny, dlhšie výtrusy a trichoderm. Aphroditeola olida je menšia a ružovkastá, s vôňou po cukríkoch a s menšími neamyloidnými výtrusmi. Chrysomphalina chrysophylla má žltohnedý klobúk a nevetvené žlté lupene. Haasiella splendidissima má ružový výtrusný prach a nevetvené lupene. Infundibulicybe gibba je bledšia a má biele nevetvené lupene. Bledá forma tohto druhu môže mať tiež biele lupene, tie sú však stále vidlicovité a ľahko sa oddelia od dužiny.",
         notes: "Dve niekdajšie odrody sú dnes samostatné druhy Hygrophoropsis macrospora a Hygrophoropsis rufa. Plodnice vedené pod týmto menom v Kalifornii patria k neopísanému komplexu. Občas sa vyskytnú kyjačkovité plodnice s poprehýbaným lupeňovým pletivom a aj forma podobná smrčku. Na Slovensku rastie v nížinách aj v podhorských krajoch, najmä v podhorí, a zvyčajne vo veľkých skupinách."
+      },
+      cs: {
+            "description": "Saprotrofní houba rostoucí na jehličnatém opadu a tlejícím dřevě. Běžná je v celé Evropě, Asii i Severní Americe.",
+            "cap": "Klobouk má 2–7 cm v průměru, zpočátku sklenutý s podvinutým okrajem, později nálevkovitý. Pokožka je plstnatá, jasně žlutooranžová až sytě oranžová, stářím vybledající.",
+            "hymenium": "Lupeny jsou velmi husté, tenké, vidlené, sbíhavé na třeň, zářivě oranžové (výrazně sytější barvy než klobouk).",
+            "stipe": "Třeň je 3–6 cm dlouhý a 0,3–0,8 cm tlustý, tenký, často prohnutý, zbarvený oranžově až hnědooranžově, na bázi tmavší.",
+            "flesh": "Dužnina je tenká, měkká, žlutooranžová, bez výrazné vůně a s mírnou chutí.",
+            "sporePrint": "Bílý až bledě krémový. Výtrusy jsou eliptické, hladké, dextrinoidní, přibližně 5,5–7 × 3,5–4,5 μm.",
+            "habitat": "Roste od srpna do listopadu v jehličnatých a smíšených lesích pod borovicemi a smrky, často v mechu na tlejících větvičkách a pařezech.",
+            "uses": "Nejedlá houba (některými autory uváděna jako podřadná jedlá). Má vodnatou a chuťově nevýraznou dužninu a u citlivějších osob může vyvolat zažívací potíže.",
+            "confusion": "Často bývá laiky zaměňována za výbornou jedlou lišku obecnou (Cantharellus cibarius), která se liší tlustší pevnou dužninou, meruňkovou vůní a zejména vidlenými žilkovitými lištami, nikoli hustými tenkými pravými lupeny. Jedovatá kalichovka oranžová (Omphalotus olearius) tvoří trsy na bázi listnáčů.",
+            "notes": "Dvě dřívější variety jsou dnes samostatnými druhy: Hygrophoropsis macrospora a Hygrophoropsis rufa."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Falscher_Pfifferling"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -8703,6 +10718,18 @@ export const CATALOG = [
           href: "https://www.nahuby.sk/atlas-hub/Hygrophoropsis-aurantiaca/liska-oranzova/listicka-pomerancova/ID250",
           detail: "líška oranžová"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Hygrophoropsis-aurantiaca/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Lištička_pomerančová"
+            }
       ]
     },
     synonyms: [
@@ -8798,14 +10825,29 @@ export const CATALOG = [
     fruitingFrom: 5,
     fruitingTo: 11,
     label: {
+      de: "Riesen-Rötling",
       en: "livid pinkgill",
       sk: "hodvábnica veľká"
-    },
+    ,
+      cs: "závojenka olovová"},
     names: {
       en: ["livid entoloma", "livid agaric", "leaden entoloma", "lead poisoner", "grey pinkgill"],
       sk: ["zvonovec veľký", "zvonovec olovový"]
-    },
+    ,
+      cs: ["závojenka velká"]},
     text: {
+      de: {
+          "description": "Ein schwer giftiger, stattlicher ektomykorrhizabildender Rötling in warmen Laubwäldern auf Kalkböden. Verursacht schwere Magen-Darm-Vergiftungen.",
+          "cap": "Der Hut misst 5–18 cm im Durchmesser, ist elfenbeinweiß, ockergelb bis bleigrau, seidig glänzend, fleischig gewölbt mit eingerolltem Rand.",
+          "hymenium": "Die Lamellen sind anfangs gelblich-weiß, verfärben sich mit der Sporenreife charakteristisch fleischrosa bis lachsrosa.",
+          "stipe": "Der Stiel ist 5–12 cm lang und 1,5–3,5 cm dick, kräftig, weiß, voll, längsfaserig, ohne Ring.",
+          "flesh": "Das Fleisch ist weiß, dick und fest. Geruch intensiv mehlartig (Gurken-Mehl-Geruch), Geschmack mild.",
+          "habitat": "Fruchtkörper erscheinen von Juli bis Oktober in wärmebegünstigten Laubwäldern unter Eichen und Buchen auf Kalk.",
+          "sporePrint": "Fleischrosa bis lachsfarben. Die Sporen sind eckig (5–6-eckig), glatt, 8–11 × 7–9 μm groß.",
+          "uses": "Schwer giftig! Verursacht heftiges Erbrechen, Bauchkrämpfe und Durchfälle. Er ist für viele Pilzvergiftungen im Spätsommer verantwortlich.",
+          "confusion": "Wird wegen des Mehlgeruchs fatal mit dem Mairitterling (Calocybe gambosa) verwechselt, der jedoch im Frühjahr fruchtet und weiße Lamellen sowie weißes Sporenpulver hat. Auch Verwechslung mit der Nebelkappe (Clitocybe nebularis) möglich.",
+          "notes": "Die eckigen Sporen und die rosafarbenen Lamellen im Alter sind kennzeichnend."
+    },
       en: {
         description: "A mushroom of warmer broadleaf woods, most often with oak and beech. It is treated as mycorrhizal with those trees and with willow, though a saprotrophic habit is allowed. It ranges from the Mediterranean to Denmark, southern Norway, Estonia, and Belarus, and it is reported from North America and northern Asia.",
         cap: "The cap is commonly 5–20 cm across, and a width of 30 cm has been recorded. It begins hemispherical, conical, or bell-shaped, with an inrolled margin, then becomes convex and later flattened and wavy, often with a broad blunt umbo. The surface is smooth, silky, and finely innate-fibrillose, sometimes spotted or netted with fibres, and slightly sticky when young. The thin skin can be peeled. It is not hygrophanous. Colours run from ivory and whitish through yellowish, grey-ochre, pale grey-brown, and ochre, sometimes with a faint lilac-grey tint, and the cap darkens with age. The margin is thin, later wavy, and it may split in hot weather. Pigment in the cap cuticle is intracellular.",
@@ -8829,9 +10871,33 @@ export const CATALOG = [
         uses: "Spôsobuje ťažkú žalúdočno-črevnú otravu. Príznaky nastupujú asi od pol hodiny do štyroch hodín po jedle a zahŕňajú nevoľnosť, vracanie, kolikovitú bolesť, hnačku a bolesť hlavy, so stratou tekutín a solí, s kŕčmi a niekedy s obehovým kolapsom. Choroba môže trvať asi dva dni, prípadne niekoľko dní. Akútna toxicita pečene a psychiatrické príznaky, vrátane zmeny nálady, delíria, zmätenosti a depresie, sú nezvyčajné a depresia môže trvať mesiace. Otrava môže byť smrteľná, najmä u detí a u oslabených ľudí, hoci často býva ťažká a nie smrteľná. Zaznamenané sú úmrtia dospelých aj detí. Podieľa sa na veľkej časti otráv hubami v Európe, podľa jedného výpočtu asi na desatine, vrátane 70 nemocničných prípadov v Ženeve v roku 1983 a 33 zo 145 prípadov za päť rokov v jednej nemocnici v Parme. Toxíny neboli izolované. Vinylglycín je podozrivý, boli hlásené lektíny, ktoré zhlukujú červené krvinky skupiny A, a zaznamenaný bol insekticídny účinok na octomilky.",
         confusion: "Čírovnica májová (Calocybe gambosa) má husté biele lupene, ktoré nikdy nezružovejú, biely výtrusný prach a výraznejšiu múčnu vôňu a plodí najmä na jar. Obe môžu rásť spolu na okraji lesa. Entoloma sepium plodí tiež skôr, v tom istom jarnom období. Machovka obyčajná (Clitopilus prunulus) má zbiehavé lupene a múčnu vôňu a jej lupene sú najprv belavé a potom ružové. Strmuľka inovaťová (Clitocybe nebularis) má husté belavé zbiehavé lupene, ktoré nezružovejú, sladkastú vôňu a neskoršiu sezónu. Hodvábnica šedobiela (Entoloma lividoalbum) má hygrofánny klobúk. Čírovka hodvábna (Tricholoma columbetta) je biela, s hodvábne lesklým klobúkom a hlúbikom, so slabou vôňou, ktorá nie je múčna, a s bielym výtrusným prachom. Pečiarka poľná (Agaricus campestris) má prsteň, lupene prechádzajúce z ružovej do čokoládovohnedej a tmavohnedý výtrusný prach. Clitocybe multiceps rastie na pacifickom severozápade, má biele výtrusy a zvyčajne rastie v trsoch. Ostatné druhy rodu hodvábnica (Entoloma) bývajú menšie a rod čírovka (Tricholoma) má biele výtrusy.",
         notes: "Plodnice kedysi odlíšené ako Entoloma eulividum, s okrovým klobúkom a s lupeňmi bez žltej farby, sú sem zahrnuté."
+      },
+      cs: {
+            "description": "Ektomykorhizní houba teplomilných listnatých lesů, rostoucí především na vápencovém podloží. Vyskytuje se v jižní a střední Evropě a v mírné Asii.",
+            "cap": "Klobouk má 6–18 cm v průměru, masitý, polokulovitý, pak sklenutý se zprohýbaným okrajem. Pokožka je hedvábně lesklá, zbarvená popelavě šedě, olovově šedě až světle kožově.",
+            "hymenium": "Lupeny jsou husté, zoubkem připojené, zpočátku nažloutlé, později charakteristicky lososově růžové od dozrávajících výtrusů.",
+            "stipe": "Třeň je 6–14 cm vysoký a 1,5–3,5 cm tlustý, masitý, válcovitý až kyjovitý, bílý a podélně vláknitý.",
+            "flesh": "Dužnina je bílá, pevná, s nápadnou moučnou vůní a chutí.",
+            "sporePrint": "Lososově růžový. Výtrusy jsou hranaté (pěti- až šestiboké), hladké, přibližně 8–11 × 7–9 μm.",
+            "habitat": "Roste od června do října v teplých listnatých lesích pod duby, buky a habry na zásaditých půdách.",
+            "uses": "Jedovatá houba. Způsobuje těžké otravy zažívacího traktu doprovázené prudkým zvracením, vodnatými průjmy a dehydratací. Nástup příznaků je rychlý (1–3 hodiny po jídle). Pro oslabené osoby a děti může být otrava smrtelná.",
+            "confusion": "Tragická bývá záměna s jedlou čirůvkou májovkou (Calocybe gambosa), která však roste na jaře (duben–květen) a má trvale bílé lupeny. Podobná jedlá strmělka mlženka (Clitocybe nebularis) roste na podzim a má sbíhavé bělavé lupeny a jinou vůni. Závojenka podtrnka (Entoloma clypeatum) roste na jaře pod růžovitými dřevinami.",
+            "notes": "Plodnice dříve popisované jako Entoloma eulividum s okrovým kloboukem a lupeny bez žlutých tónů jsou zahrnovány do tohoto druhu."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Riesen-R%C3%B6tling"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -8900,6 +10966,18 @@ export const CATALOG = [
           href: "https://sk.wikipedia.org/wiki/Hodvábnica_veľká",
           detail: "hodvábnica veľká"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Entoloma-sinuatum/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Závojenka_olovová"
+            }
       ]
     },
     synonyms: [
@@ -8992,13 +11070,28 @@ export const CATALOG = [
     fruitingFrom: 5,
     fruitingTo: 11,
     label: {
+      de: "Gemeine Stinkmorchel",
       en: "common stinkhorn",
       sk: "hadovka smradľavá"
-    },
+    ,
+      cs: "hadovka smrdutá"},
     names: {
       en: ["stinkhorn", "witch's egg"]
-    },
+    ,
+      cs: []},
     text: {
+      de: {
+          "description": "Ein auffälliger saprotropher Pilz, der aus einem unterirdischen Hexenei entspringt und im ausgewachsenen Zustand intensiv nach Aas riecht, um Fliegen zur Sporenverbreitung anzulocken.",
+          "cap": "Der hutförmige Kopfteil ist 3–5 cm hoch, weißlich-wabenartig gerippt, zu Beginn von einer dunkel olivgrünen, klebrigen, übelriechenden Sporenmasse (Gleba) bedeckt, die von Fliegen abgeweidet wird.",
+          "hymenium": "Die Sporen entstehen in der schleimigen, olivgrünen Gleba auf dem Kopfteil.",
+          "stipe": "Der Stiel ist 10–20 cm lang und 2–4 cm dick, weiß, schwammig-hohl, porös, an der Basis in einer weißen, gallertigen Scheide (Rest des Hexeneis) wurzelnd.",
+          "flesh": "Das Fleisch des Stiels ist weiß und brüchig. Die Gleba riecht durchdringend aasartig und süßlich-faulig.",
+          "habitat": "Fruchtkörper erscheinen von Juni bis Oktober in Laub- und Nadelwäldern, Parks und Gärten auf humosem Boden.",
+          "sporePrint": "Grünlich-gelb. Die Sporen sind zylindrisch, glatt, 3,5–5 × 1,5–2 μm groß.",
+          "uses": "Im Jugendstadium (als noch geschlossenes Hexenei) nach Entfernen der Gallertschicht essbar; geschmacklich an Rettich erinnernd. Ausgewachsen ungenießbar.",
+          "confusion": "Die Dünen-Stinkmorchel (Phallus hadriani) besitzt ein auffällig violett oder rosa gefärbtes Hexenei und wächst auf Sandböden.",
+          "notes": "Pilz des Jahres 2020 in Deutschland."
+    },
       en: {
         description: "A saprotrophic fungus of humus-rich soil and rotting wood in woods, parks, and gardens. It is widespread from the Mediterranean through central Europe to Ireland, Scotland, and Scandinavia, and it is reported from much of North America and from parts of Asia, Africa, Central America, south-eastern Australia, and Iceland.",
         cap: "The young fruit body is an egg, commonly 3–6 cm high and 3–6 cm across, sometimes to about 8 cm across. It is whitish to cream or pinkish, and sometimes yellowish or purplish, on white mycelial cords that may themselves be purplish. The mature head is thimble- or bell-shaped, about 2–4.5 cm high and 2.5–5 cm across, and about 3–6 cm high in central North America, with a small white disc at the tip. Under the slime the surface is a white honeycomb of deep pits. After insects remove the slime the head is pale to yellowish and pitted, and the bare stalk can persist for several days.",
@@ -9022,9 +11115,33 @@ export const CATALOG = [
         uses: "Je sa neotvorené vajce. Koža a rôsol sa olúpnu a pevný biely stred sa je surový, chrumkavý, s chuťou reďkovky, alebo sa obalí a vypráža. Vo Francúzsku a v Nemecku sa vajcia nakladajú alebo dávajú do klobás. Názory na chuť sa rôznia. Rozvinutá plodnica sa necháva pre zápach.",
         confusion: "Hadovka Hadriánova (Phallus hadriani) má ružové až fialové vajce a pošvu a kratší hlúbik. V Británii rastie na pieskových dunách a inde na piesočnatej pôde v teplých krajoch. V Severnej Amerike sa pošva tohto druhu mení od belavej cez žltkastú a ružovkastú po purpurovú alebo červenohnedú, takže samotná purpurová pošva tieto dve huby neoddelí. Niektoré západoamerické zdroje stále používajú purpurovú pošvu na oddelenie hadovky Hadriánovej. Psíkovka obyčajná (Mutinus caninus) je oveľa menšia, zapácha slabšie a pod glébou má oranžovú voštinu, nie bielu voštinu na oddelenom klobúku. Mutinus ravenelii sa oddeľuje rovnako a hlúbik rodu Mutinus sa z vajca čisto neodlomí. Hrubá biela sieť alebo čipkovitá suknička pod klobúkom sa považuje za odrodu tohto druhu, za var. pseudoduplicatus alebo var. togatus. Britskí autori na túto závojnatú formu použili meno Dictyophora duplicata. Stredoeurópske zdroje ponechávajú sieťovanú hubu ako odrodu, nie ako samostatný americký druh. Po odstránení gléby môže jamkovitý klobúk pripomínať smrčok jedlý (Morchella esculenta). Oddelí ich zostávajúca pošva, dutý hubovitý hlúbik, stopy slizu a plodí v lete a na jeseň, nie na jar. Phallus ravenelii je častejšia na východ od Mississippi a tento druh sa uvádza častejšie na západ od nej.",
         notes: "Po otvorení vajca sa hlúbik môže predĺžiť o 10–15 cm za hodinu a rozpínajúca sa plodnica môže vyvinúť tlak asi 1,33 kPa, dosť na to, aby sa pretlačila cez asfalt. Bzučivky, medzi nimi Calliphora vicina, Lucilia caesar a Lucilia ampullacea, a mucha Dryomyza anilis požierajú glébu a čoskoro vypúšťajú tekuté výkaly plné výtrusov. Chrobáky Oeceoptoma thoracica a Meligethes viridescens sú priťahované a viac sa živia pletivom. Na Slovensku rastie v lesoch takmer ako burinný druh a často aj na úkor iných druhov."
+      },
+      cs: {
+            "description": "Saprotrofní břichatkovitá houba lesních i zahradních půd. Běžně se vyskytuje v celé Evropě a v mírném pásmu Asie i Severní Ameriky.",
+            "cap": "Kloboukovitá část na vrcholu nosiče je kuželovitá, 3–5 cm vysoká, s voštinovitě žebrovaným povrchem. V dospělosti je pokryta olivově zelenou slizkou glebou páchnoucí po mršině.",
+            "hymenium": "Hymenium tvoří slizká gleba na povrchu klobouku, v níž jsou uloženy výtrusy. Zápach láká mouchy, které sliz požírají a roznášejí výtrusy.",
+            "stipe": "Nosič (receptakulum) je 10–20 cm vysoký a 2–4 cm tlustý, válcovitý, pórovitý, bílý a dutý. Vyrůstá z podzemního kulovitého vajíčka s bílou volnou pochvou.",
+            "flesh": "Dužnina nosiče je křehká, pěnovitá a pórovitá. Mladé stadium (vajíčko) má vnitřní želatinózní vrstvu.",
+            "sporePrint": "Žlutavý. Výtrusy jsou eliptické, hladké, přibližně 3,5–5 × 1,5–2 μm.",
+            "habitat": "Roste od května do listopadu v listnatých i jehličnatých lesích, zahradách a parcích na bohatých humózních půdách.",
+            "uses": "Jedlá v raném stadiu vajíčka (tzv. čertovo vajíčko). Po oloupání vnější slupky a rosolovité vrstvy lze bílé křehké jádro smažit či nakládat. Dospělá plodnice je kvůli nesnesitelnému mršinovému zápachu nepoživatelná.",
+            "confusion": "Psivka obecná (Mutinus caninus) je menší, nosič má oranžový a klobouček je bez voštinového rýhování. Hadovka valčická (Phallus Hadriani) vyrůstá z růžového až fialového vajíčka v písku.",
+            "notes": "Po prasknutí vajíčka se nosič dokáže prodloužit o 10–15 cm za hodinu a vyvinout tlak až 1,33 kPa, schopný prorazit asfalt. Bzučivky (Calliphora vicina, Lucilia caesar) a další mouchy požírají glebu a šíří výtrusy trusem; přitahováni jsou i mrchožrouti (Oeceoptoma thoracica)."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Gemeine_Stinkmorchel"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -9108,6 +11225,18 @@ export const CATALOG = [
           href: "https://sk.wikipedia.org/wiki/Hadovka_smradľavá",
           detail: "hadovka smradľavá"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Phallus-impudicus/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Hadovka_smrdutá"
+            }
       ]
     },
     synonyms: [
@@ -9193,9 +11322,11 @@ export const CATALOG = [
     fruitingFrom: 1,
     fruitingTo: 12,
     label: {
+      de: "Echter Zunderschwamm",
       en: "tinder fungus",
       sk: "práchnovec kopytovitý"
-    },
+    ,
+      cs: "troudnatec kopytovitý"},
     names: {
       en: [
         "hoof fungus",
@@ -9206,8 +11337,21 @@ export const CATALOG = [
         "tinder bracket"
       ],
       sk: ["hubáň", "hubaňa", "vakalia", "bakalia", "trud"]
-    },
+    ,
+      cs: []},
     text: {
+      de: {
+          "description": "Ein mehrjähriger, hufförmiger Baumpilz an Laubbäumen, besonders an geschwächten Birken und Buchen. Historisch zur Herstellung von Zunder und Pilzleder genutzt.",
+          "cap": "Der Fruchtkörper ist konsolen- bis hufförmig, 10–40 cm breit und bis 20 cm dick. Die dicke, harte Kruste ist konzentrisch gefurcht, aschgrau bis dunkelgrau oder schwärzlich.",
+          "hymenium": "Die Unterseite trägt geschichtete Röhren mit winzigen, rundlichen, ockergrauen bis zimtbraunen Poren (3–4 pro Millimeter).",
+          "stipe": "Stiellos; wächst fest angewachsen seitlich am Stamm.",
+          "flesh": "Die Trama ist rotbraun, zäh-filzig bis holzig-hart. Geruch angenehm holzartig-fruchtig.",
+          "habitat": "Fruchtkörper wachsen ganzjährig an stehenden und liegenden Stämmen von Laubbäumen (vor allem Rotbuche und Birke) und verursachen Weißfäule.",
+          "sporePrint": "Hellgelblich. Die Sporen sind zylindrisch, glatt, 15–20 × 5–7 μm groß.",
+          "uses": "Ungenießbar da holzhart. Das Fleisch wurde historisch gekocht, weichgeklopft und als Zunder zum Feueranzünden oder zur Herstellung von Kleidung verwendet.",
+          "confusion": "Der Rotrandige Baumschwamm (Fomitopsis pinicola) hat eine wachsartige, harzige Kruste mit rötlich-orangem Zuwachsrand und wächst meist an Nadelholz.",
+          "notes": "Pilz des Jahres 1995 in Deutschland."
+    },
       en: {
         description: "A perennial white-rot bracket of hardwoods, parasitic on the living trunk and saprotrophic on dead wood and stumps. It ranges through temperate Europe, North Africa, the Canary Islands, and Asia, including India and Pakistan, to eastern North America, and it occurs in southern Africa. It is rare in southern Britain and Ireland and common in Scotland.",
         cap: "The fruit body is perennial and sessile, hoof-shaped or a thick bracket, and attached along its full width. It is often solitary, and sometimes tiered or fused. The width is commonly 10–40 cm, with large fruit bodies to about 50 cm and exceptional ones to 60 cm. On birch it is usually smaller, often to about 20 cm across. The height is commonly about 7–15 cm and reaches about 20–25 cm in old fruit bodies, with a thickness of about 20 cm at the attachment. After the first years the bracket thickens more than it widens. The surface is a hard, dull crust about 1–3 mm thick, black and glossy in section, concentrically ridged, and not varnished. It is pale grey, grey-brown, grey-ochre, dirty yellowish brown, or nut-brown when young, and silvery grey to nearly black when old. Young fruit bodies and the growing zone are yellow, reddish brown, rust-brown, or leather-yellow. The margin is blunt and rounded, and paler than the crust behind it.",
@@ -9230,9 +11374,32 @@ export const CATALOG = [
         uses: "Plodnica je nejedlá. Je príliš drevnatá a dužina je horká alebo štipľavá. Vláknitá trama sa oddávna spracúvala na amadou, ktoré slúžilo ako kresadlo a pomaly tlejúci knôt, po ubití ako materiál podobný koži na čiapky, rukavice a nohavice, a aj na sušenie muškárskych mušiek. Ötzi mal pri sebe štyri kusy použité ako kresadlo. Dužina sa predávala ako prostriedok na zastavenie krvácania z rán. Prášok, čaj a pálenka z nej sa vnútorne užívali ešte v dvadsiatom storočí. V antických a stredovekých textoch mená agaricum a Polyporus officinalis zvyčajne označujú Laricifomes officinalis, nie tento druh.",
         confusion: "Práchnovček pásikavý (Fomitopsis pinicola) rastie častejšie na ihličnanoch, má bledšiu tramu a póry po otlačení nemenia farbu. Brezovník obyčajný (Fomitopsis betulina) je jednoročný, rastie na breze a má oveľa hladší vrchný povrch. Lesklokôrovka plochá (Ganoderma applanatum) je plochejšia, často so silno hnedým vrchným povrchom, hnedým výtrusným prachom a bradavičnatými výtrusmi, a jej póry po stlačení výrazne tmavnú. Ohňovec obyčajný (Phellinus igniarius) je tmavší, s tvrdou drevnatou kôrou, ktorá sa nevtláča, a kôra v zásade neprechádza do krvavočervena. Fomes fasciatus máva okolo 4–5 pórov na mm a menšie výtrusy, asi 7,5–16 × 2,5–6 μm. Fomes inzengae je samostatný druh teplejších južných a nížinných miest, aj v častiach strednej Európy, a oba druhy môžu rásť v tej istej oblasti. Hustota pórov, veľkosť výtrusov a šírka skeletových hýf sa prekrývajú, takže tieto znaky ich neoddeľujú. Merania z roku 2019 uviedli pre Fomes inzengae oveľa menšie výtrusy, asi 9–12,5 × 2,8–3,8 μm, no neskoršie merania zo strednej Európy našli výtrusy v tom istom rozpätí ako pri tomto druhu.",
         notes: "Na Slovensku sa vyskytuje na celom území, na listnatých drevinách."
+      },
+      cs: {
+            "description": "Vytrvalá parazitická a saprotrofní dřevokazná houba působící bílou hnilobu listnáčů, zejména buků a bříz. Běžně se vyskytuje v celé Evropě, Asii a Severní Americe.",
+            "cap": "Plodnice je víceletá, bokem přirostlá, kopytovitého tvaru, 10–40 cm široká a 5–20 cm tlustá. Povrch tvoří velmi tvrdá, dřevnatá kůra se soustřednými vlnitými pásy, zbarvená šedě, popelavě až tmavě šedohnědě.",
+            "hymenium": "Rourky jsou vrstevnaté (každý rok přirůstá nová vrstva dlouhá 2–6 mm), rezavě hnědé. Póry jsou drobné, okrouhlé, šedookrové až hnědé, na jaře se světlejším lemem.",
+            "stipe": "Třeň zcela chybí; plodnice přirůstá přímo k dřevu kmenu.",
+            "flesh": "Dužnina (tramet) je plstnatá, korkovitá až dřevnatá, rezavě hnědá a suchá, bez výrazné chuti i vůně.",
+            "sporePrint": "Bílý až světle nažloutlý. Výtrusy jsou válcovité, hladké, přibližně 15–20 × 5–7 μm.",
+            "habitat": "Roste celoročně na živých i padlých kmenech listnatých stromů, zvláště buků, bříz a topolů.",
+            "uses": "Nejedlá houba pro zcela dřevnatou konzistenci. V minulosti byla mimořádně důležitá pro výrobu troudu (amadou) na rozdělávání ohně a plstěných textilií, klobouků a obvazů stavících krvácení.",
+            "confusion": "Ohňovec obecný (Phellinus igniarius) je tmavší, roste na vrbách a jeho dužnina je ještě tvrdší a dřevnatější. Troudnatec pásovaný (Fomitopsis pinicola) má na okraji plodnice zářivě žlutooranžový až červený pás a roste hlavně na jehličnanech."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Zunderschwamm"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -9312,6 +11479,18 @@ export const CATALOG = [
           href: "https://www.nahuby.sk/atlas-hub/Fomes-fomentarius/prachnovec-kopytovity/troudnatec-kopytovity/ID516",
           detail: "práchnovec kopytovitý"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Fomes-fomentarius/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Troudnatec_kopytovitý"
+            }
       ]
     },
     synonyms: [
@@ -9403,14 +11582,29 @@ export const CATALOG = [
     fruitingFrom: 1,
     fruitingTo: 12,
     label: {
+      de: "Judasohr",
       en: "jelly ear",
       sk: "uchovec bazový"
-    },
+    ,
+      cs: "boltcovitka ucho jidášovo"},
     names: {
       en: ["Judas's ear", "Jew's ear", "wood ear", "ear fungus", "common ear fungus"],
       sk: ["uchovka bazová", "judášovo ucho"]
-    },
+    ,
+      cs: ["ucho jidášovo","boltcovitka bezová"]},
     text: {
+      de: {
+          "description": "Ein gallertartiger, ohrmuschelförmiger Holzpilz, der vor allem an abgestorbenen Ästen des Schwarzen Holunders wächst. Ein geschätzter Speise- und Vitalpilz (Mu-Err).",
+          "cap": "Der Fruchtkörper ist muschel- oder ohrenförmig gelappt, 3–10 cm breit, rotbraun bis violettbraun, gallertartig-elastisch, bei Trockenheit hornartig schrumpfend.",
+          "hymenium": "Die Fruchtschicht befindet sich auf der meist wellig-faltigen Innenseite der Ohrmuschel.",
+          "stipe": "Ein Stiel fehlt weitgehend; er sitzt punktförmig am Holz.",
+          "flesh": "Das Fleisch ist gallertartig, zäh-elastisch, bräunlich durchscheinend. Geschmack und Geruch unauffällig mild.",
+          "habitat": "Ganzjährig, besonders im Spätherbst und Winter, an totem Holz von Schwarzem Holunder und anderen Laubbäumen.",
+          "sporePrint": "Weiß. Die Sporen sind gekrümmt-zylindrisch (wurstförmig), glatt, 14–18 × 5–7 μm groß.",
+          "uses": "Ein beliebter Speisepilz, besonders in der asiatischen Küche (Mu-Err). Kann getrocknet und nach erneutem Einweichen verwendet werden.",
+          "confusion": "Der Gezonte Ohrlappenpilz (Auricularia mesenterica) besitzt eine borstig behaarte, gezonte Oberseite.",
+          "notes": "Pilz des Jahres 2017 in Deutschland."
+    },
       en: {
         description: "A wood-rotting jelly fungus of living and dead broadleaf wood, growing singly, in groups, or in crowded clusters, as a weak parasite and a saprotroph. In the strict sense it is a European species. Older accounts treated it as widespread across the northern temperate zone.",
         cap: "The fruit body is 3–12 cm across, occasionally to 13 cm, and about 1–3 mm thick. It is cup-shaped or ear-shaped at first and later irregularly lobed, and it is attached at one side or by a very short base. The outer surface is reddish tan to brown, often with a purplish tint, and finely downy. It is smoother when young, then folded and wrinkled, and it darkens with age, sometimes nearly to black when dry. The inner surface is paler, grey-brown to flesh brown, smooth or veined, and sometimes glossy. Rare fruit bodies lack pigment and grow among the ordinary brown ones. Hairs on the outer surface are about 100–150 μm long, sometimes to 250 μm, and 5–7.5 μm wide. They are hyaline and thick-walled, with a narrow lumen, a slightly swollen base, and an acute or blunt tip, and they often grow in tufts.",
@@ -9434,9 +11628,33 @@ export const CATALOG = [
         uses: "Je jedlá po uvarení a za surova sa neje. Chuť aj vôňa sú mierne a cení sa skôr pre pevnú chrupkovitú konzistenciu než pre chuť. Konzumuje sa pomerne málo, hoci v Poľsku bežne. Usušené plodnice možno namočiť a vrátia sa do väčšej veľkosti, niekedy na troj- až štvornásobok suchej veľkosti. Predáva sa sadba na pestovanie na klátoch listnáčov alebo na sterilnom náhradnom substráte. Huba používaná vo východoázijskej kuchyni a medicíne je príbuzný druh.",
         confusion: "Uchovka pásikatá (Auricularia mesenterica) je nejedlá a rastie v hrubších, konzolovitých poschodiach. Vrchný povrch má pásikavý a hrubšie plstnatý a hyménium má často tmavšie alebo purpurové. Jedlý uchovec cerový (Auricularia cerrina) je tmavšie sivý až takmer čierny, s sivšími až belavými chlpmi, s líniou medully v dužine a s menšími výtrusmi. Bol opísaný z duba cerového v Česku a oba druhy môžu rásť na dube. Auricularia cornea je chlpatejšia a kožovitejšia, s výraznou líniou medully, menšími výtrusmi a premenlivou farbou. Auricularia heimuer je veľmi podobná a rastie vo východnej Ázii. Má kratšie bazídiá a výtrusy asi 11–13 × 4–5 μm. Auricularia angiospermarum rastie na dreve severoamerických listnáčov. Má kratšie bazídiá a výtrusy asi 13–15 × 4,8–5,5 μm. Auricularia americana rastie na severoamerických ihličnanoch a má kratšie výtrusy, asi 14–16,5 × 4,5–5,4 μm. Nejedlý tmavorôsolovec vŕbový (Exidia recisa) rastie na tenkých konárikoch. Je priesvitnejší, nestáva sa lastúrovitým a ostrý okraj má rebrovaný. Nejedlý tmavorôsolovec mozgovitý (Exidia glandulosa) je tmavší a jeho sterilný povrch je zrnitý a bradavičnatý. Phaeotremella frondosa tvorí zoskupené mozgovité záhyby, nikdy nie zreteľné ucho, a povrch má úplne hladký. Tremella foliacea má tú istú podobu: zoskupené mozgovité záhyby, žiadne zreteľné ucho a úplne hladký povrch. Škľabka plstnatá (Schizophyllum amplum) je menšia, zvonka belavá a plstnatá, uprednostňuje topoľ a vŕbu a má jednobunkové bazídiá. Čiaška hnedá (Peziza badia) je miskovitá, s krátkym hlúbikom a nepriesvitnou dužinou, a zvyčajne rastie pri zemi.",
         notes: "Nepigmentované plodnice boli na úrovni druhu pomenované Auricularia lactea a nie sú samostatným druhom. Štúdia sekvencií DNA obmedzila tento druh na Európu. Severoamerické a východoázijské huby, predtým vedené pod týmto menom, sú iné druhy. Plodnica, ktorá uschla natoľko, že stratila väčšinu hmotnosti, ešte môže uvoľniť časť výtrusov. V 19. storočí sa plodnica v ľudovom liečiteľstve používala pri bolestiach hrdla, bolestiach očí a pri žltačke a ako sťahujúci prostriedok. Na Slovensku rastie na celom území všade tam, kde je baza čierna, a príležitostne aj na agáte."
+      },
+      cs: {
+            "description": "Saprotrofní houba rostoucí na odumřelém dřevě listnáčů, zejména bezu černého. Rozšířená je v mírném a subtropickém pásmu po celém světě.",
+            "cap": "Plodnice je miskovitá až škeblovitá, tvarem nápadně připomínající lidský boltec, 3–10 cm široká. Vnitřní povrch je hladký až vlnitý, lesklý, červenohnědý až tmavě hnědý. Vnější strana je matná, jemně sametová a šedohnědá.",
+            "hymenium": "Hladký vnitřní povrch tvoří hymenium nesoucí výtrusy.",
+            "stipe": "Třeň je zakrnělý nebo zcela chybí; plodnice přisedá přímo ke dřevu.",
+            "flesh": "Dužnina je za vlhka pružná, rosolovitě chrupavčitá a poloprůsvitná, za sucha se scvrkává do tvrdé rohovité hmoty a po navlhčení opět nabobtná. Má neutrální chuť a je bez vůně.",
+            "sporePrint": "Bílý. Výtrusy jsou ledvinité až válcovité, hladké, přibližně 13–15 × 5–6 μm.",
+            "habitat": "Roste celoročně (velmi hojně i v zimě během oblev) na tlejících větvích a kmíncích černého bezu (Sambucus nigra), vzácněji i jiných listnáčů.",
+            "uses": "Jedlá a v asijské kuchyni vysoce ceněná houba. Oblíbená je pro svou chrupavčitou texturu do polévek, čínských pokrmů, rizot a salátů. Výborně se suší a po namočení ve vodě zcela obnoví původní tvar a pružnost.",
+            "confusion": "Boltcovitka mozkovitá (Auricularia mesenterica) má svrchní stranu pásovanou a hrubě plstnatou a tvoří polorozlité plodnice na kmenech jilmů a dubů. Černorosol bukový (Exidia nigricans) je měkce rosolovitý a nepravidelně mozkovitý.",
+            "notes": "Studie sekvencí DNA vymezily tento druh na Evropu; severoamerické a východoasijské houby dříve spojované s tímto jménem představují jiné druhy. Plodnice i po vyschnutí a ztrátě většiny hmotnosti dokáže po navlhčení uvolňovat výtrusy. V 19. století se v lidovém léčitelství používala při bolestech v krku, očí a jako adstringens."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Judasohr"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -9533,6 +11751,18 @@ export const CATALOG = [
           name: "Pluska",
           href: "https://polovnictvo-rybarstvo.pluska.sk/polovnictvo/vyrazte-lesa-oblubenu-azijsku-hubu-pripomina-ludske-ucho"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Auricularia-auricula-judae/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Boltcovitka_ucho_Jidášovo"
+            }
       ]
     },
     synonyms: [
@@ -9634,14 +11864,29 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 11,
     label: {
+      de: "Gemeiner Gallenröhrling",
       en: "bitter bolete",
       sk: "podhríb žlčový"
-    },
+    ,
+      cs: "hřib žlučník"},
     names: {
       en: ["bitter tylopilus"],
       sk: ["horkáč", "štiplák"]
-    },
+    ,
+      cs: ["žlučák","hořčák"]},
     text: {
+      de: {
+          "description": "Ein ungenießbarer Dickröhrling in Nadelwäldern auf sauren Böden. Er ist der häufigste Doppelgänger des Steinpilzes und verdirbt durch bitteren Geschmack jedes Pilzgericht.",
+          "cap": "Der Hut ist 5–15 cm breit, hellbraun, lederbraun bis graubraun, samtig, polsterförmig gewölbt.",
+          "hymenium": "Die Röhren sind jung weißlich, färben sich aber bald charakteristisch schmutzigrosa bis fleischrosa. Die Poren sind eckig und färben sich auf Druck bräunlich.",
+          "stipe": "Der Stiel ist 6–14 cm lang und 2–5 cm dick, keulig, ockerbraun, überzogen von einem erhabenen, grobmaschigen dunklen Maschennetz auf hellerem Grund.",
+          "flesh": "Das Fleisch ist weiß, schwammig, im Anschnitt unveränderlich oder schwach rosa anlaufend. Geruch unauffällig, Geschmack extrem bitter.",
+          "habitat": "Fruchtkörper erscheinen von Juni bis Oktober in Nadelwäldern unter Fichten und Kiefern auf sauren Böden oder an morschen Stümpfen.",
+          "sporePrint": "Rosa bis fleischbräunlich. Die Sporen sind spindelig, glatt, 11–15 × 4–5 μm groß.",
+          "uses": "Ungenießbar! Schon ein einziges kleines Stück macht ein ganzes Pilzgericht durch unerträgliche Bitterkeit ungenießbar. Ungiftig, aber unverdaulich.",
+          "confusion": "Der Gemeine Steinpilz (Boletus edulis) hat ein feines weißes Netz auf braunem Grund, im Alter gelbgrüne Poren und schmeckt angenehm nussig-mild.",
+          "notes": "Die rosa Färbung der reifen Röhren und das dunkle Stielnetz sind die besten Unterscheidungsmerkmale zum Steinpilz."
+    },
       en: {
         description: "An ectomycorrhizal bolete of deciduous and coniferous woods. It is widespread in Europe and in eastern North America south into Mexico and Central America, and it is recorded in China, Korea, and Pakistan. It is occasional in Britain and Ireland and more frequent farther north. A 2025 assessment lists it as Least Concern.",
         cap: "The cap is typically 4–15 cm across, sometimes to 18 or 20 cm, and some North American caps reach about 30 cm. It starts hemispherical, becomes convex or cushion-shaped, and is usually flat at maturity, sometimes with a shallow central depression. The colour runs from yellow-brown, ochre, and sometimes yellow-orange through grey-brown and walnut brown to dark brown, sometimes with an olive cast, and it fades toward tan. Young caps are downy, velvety, or finely felted. Older caps are smooth and matte, and they sometimes crack. The surface is slightly sticky and shiny only when wet. The skin is difficult to peel, and bruised places can blacken.",
@@ -9665,9 +11910,33 @@ export const CATALOG = [
         uses: "Horkosť je taká silná, že sa huba pokladá za nejedlú, a jediná plodnica dokáže pokaziť jedlo. Za jedovatú sa nepovažuje. Varením horkosť silnie. Plodnice sa predávajú na mexických trhoch. V častiach Francúzska, Rumunska a bývalého východného Nemecka ich dusili v odstredenom mlieku a potom jedli, alebo sušili a mleli na práškové dochucovadlo. Sušené plodnice sa v niektorých krajinách používajú namiesto čierneho korenia. Ľudia, ktorí nevnímajú niektoré horké látky, horkosť nemusia cítiť. Samotná látka nebola identifikovaná. Betaglukán z plodníc bol v laboratórnych skúškach cytotoxický a povzbudzoval fagocytózu a iné výťažky tlmili pankreatickú lipázu alebo vykazovali miernu antibakteriálnu aktivitu. Tieto laboratórne výsledky nie sú uznané ako lekárske použitie.",
         confusion: "Mladé plodnice sa na prvý pohľad takmer nelíšia od mladého hríba smrekového (Boletus edulis), ktorý má bledý hlúbik s bielou sieťkou a póry, ktoré žltnú do olivova, a nie do ružova. Suchohríb hnedý (Imleria badia) má žlté rúrky, ktoré po otlačení modrejú, a nemá hrubú tmavú sieťku. Suchohríb plstnatý (Xerocomus subtomentosus) má žlté póry a štíhlejší hlúbik. Tylopilus rubrobrunneus rastie s listnáčmi vo východnej Severnej Amerike, má purpurový až purpurovohnedý klobúk a je tiež horký. Tylopilus variobrunneus má červenohnedý až gaštanovohnedý klobúk, za mladi olivové tóny, výtrusy zvyčajne asi 9–13 × 3–4,5 μm a miernu až slabo horkú chuť. Tylopilus rhoadsiae z juhovýchodu Spojených štátov má bledší klobúk, ktorý zostáva menší, asi do 9 cm. Tylopilus indecisus a Tylopilus ferrugineus majú menej výrazne sieťkované hlúbiky. Tylopilus neofelleus z listnatých lesov Číny, Novej Guiney, Japonska a Taiwanu má vínovohnedý klobúk, ružovohnedý až vínový hlúbik, výtrusy asi 11–14 × 4–5 μm a dlhšie pleurocystidy, asi 49–107 × 14–24 μm. Austrálske zbery s trvalo menšími výtrusmi patria druhu Tylopilus brevisporus.",
         notes: "Tento druh je jediným druhom rodu v Európe. Hodnotenie z roku 2025 ho zaraďuje medzi málo dotknuté druhy (Least Concern). Severoamerické plodnice vedené pod týmto menom nemusia patriť európskemu druhu, s možnou výnimkou tých pri splanievanom smreku obyčajnom. Austrálske zbery s trvalo menšími výtrusmi sú Tylopilus brevisporus. Plodnice prijímajú cézium-137 z kontaminovanej pôdy a polónium-210 hromadia len obmedzene. Mycélium rastie v axenickej kultúre a pri dvanásťhodinovom dni dokáže tvoriť malé, často deformované plodnice, s klobúkmi často s priemerom 0,5–1 cm a často bez hlúbika. Len málo druhov čeľade Boletaceae plodí bez hostiteľa. Paenibacillus tylopili, izolovaný z mykorizosféry, rozkladá chitín. V Severnej Amerike môže plodnice napádať mucha Megaselia pygmaeoides; v Európe táto mucha uprednostňuje iné hríby. Pleseň Sepedonium ampullosporum ich môže parazitovať. Na dužine klobúka formaldehyd sfarbuje pletivo doružova a soli železa do sivozelena. Hydroxid draselný zvyčajne sfarbuje pokožku klobúka do oranžova. Na Slovensku je tento druh veľmi hojný v borových, smrekových a zmiešaných lesoch."
+      },
+      cs: {
+            "description": "Ektomykorhizní houba jehličnatých a smíšených lesů na kyselých půdách. Běžně se vyskytuje v Evropě a Severní Americe.",
+            "cap": "Klobouk má 5–15 cm v průměru, polokulovitý, pak klenutý až plochý. Pokožka je suchá, matná, světle hnědá, okrově hnědá až žlutohnědá.",
+            "hymenium": "Rourky jsou 1–2 cm dlouhé, u třeně hluboce vykrojené, v mládí čistě bílé, stářím však nápadně růžovějící až masově růžové. Póry jsou drobné, stejně zbarvené a po otlačení hnědnou.",
+            "stipe": "Třeň je 6–14 cm vysoký a 2–4,5 cm tlustý, válcovitý až kyjovitý, okrově žlutohnědý, pokrytý velmi nápadnou, vystouplou tmavohnědou až černohnědou síťkou s velkými oky.",
+            "flesh": "Dužnina je bílá, pod pokožkou mírně nahnědlá, na řezu neměnná nebo slabě růžovějící. Má odporně hořkou chuť a slabou houbovou vůni.",
+            "sporePrint": "Růžový až masově růžovohnědý. Výtrusy jsou vřetenovité, hladké, přibližně 11–15 × 4–5 μm.",
+            "habitat": "Roste od června do října pod smrky a borovicemi na kyselých půdách, často u starých pařezů.",
+            "uses": "Nejedlá houba pro extrémně hořkou chuť, která se vařením ještě zesiluje. Jediná plodnice dokáže znehodnotit celé jídlo z hub. Není však jedovatá a nezpůsobuje otravu.",
+            "confusion": "Mladé plodnice bývají často zaměňovány za jedlý hřib smrkový (Boletus edulis) nebo hřib dubový (Boletus reticulatus), které se liší bílou síťkou na třeni, stářím žloutnoucími až zelenožlutými póry (nikdy nerůžoví) a lahodnou nasládlou chutí. Hřib kříšť (Caloboletus calopus) má žluté póry a červený třeň.",
+            "notes": "Je jediným druhem tohoto rodu v Evropě. Podle hodnocení z roku 2025 je málo dotčeným druhem (Least Concern). Plodnice přijímají cesium 137 z kontaminované půdy. Hydroxid draselný (KOH) barví pokožku klobouku obvykle oranžově."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Gemeiner_Gallenr%C3%B6hrling"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -9745,6 +12014,18 @@ export const CATALOG = [
           href: "https://www.nahuby.sk/atlas-hub/Tylopilus-felleus/Podhrib-zlcovy/Hrib-zlucnik/ID490",
           detail: "podhríb žlčový"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Tylopilus-felleus/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Hřib_žlučník"
+            }
       ]
     },
     synonyms: [
@@ -9832,11 +12113,25 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 11,
     label: {
+      de: "Gemeiner Safranschirmling",
       en: "shaggy parasol",
       sk: "bedľa červenejúca"
-    },
+    ,
+      cs: "bedla červenající"},
     names: {},
     text: {
+      de: {
+          "description": "Ein großer saprotropher Schirmling in Wäldern, Parks und Gärten. Charakteristisch sind die dachziegelartigen Schuppen und das bei Verletzung safranrot verfärbende Fleisch.",
+          "cap": "Der Hut ist 5–18 cm breit, kugelig bis ausgebreitet, grauweißlich mit großen, groben, braunen, konzentrisch aufgerichteten Schuppen.",
+          "hymenium": "Die Lamellen sind frei, dicht, weißlich, flecken bei Berührung rötlich-bräunlich.",
+          "stipe": "Der Stiel ist 5–20 cm lang und 1–3,5 cm dick, glatt, weißlich bis bräunlich, ungenattert, mit dicker Knolle und doppeltem, verschieblichem Ring.",
+          "flesh": "Das Fleisch ist weiß, läuft bei Verletzung oder im Anschnitt innerhalb von Sekunden leuchtend safranorange bis blutrot an. Geruch angenehm würzig.",
+          "habitat": "Fruchtkörper erscheinen von Juli bis November in Nadel- und Laubwäldern auf nährstoffreichen Böden und Kompost.",
+          "sporePrint": "Weiß bis zart cremefarben. Die Sporen sind ellipsoid, glatt, dextrinoid, 8–13 × 5–8 μm groß.",
+          "uses": "Essbar, muss jedoch gut erhitzt werden. Bei manchen Menschen löst er Magen-Darm-Unverträglichkeiten aus.",
+          "confusion": "Der Parasol (Macrolepiota procera) besitzt einen auffällig genatterten Stiel und sein Fleisch verfärbt sich im Anschnitt nicht rot. Der Garten-Safranschirmling (Chlorophyllum brunneum) hat eine scharf gerandete Knolle und ist giftverdächtig.",
+          "notes": "Die sofortige Safran- bis Blutfärbung des Fleisches bei Verletzung ist charakteristisch."
+    },
       en: {
         description: "A large saprobic agaric of woods, hedges, and humus-rich disturbed ground. It is frequent in Britain and Ireland and widespread through Europe and North America, where it is more often found from the Rocky Mountains eastward. Fruit bodies grow alone, scattered, or in troops and rings.",
         cap: "The cap is 5–18 cm across. It starts egg-shaped or nearly round, then becomes bell-shaped or convex, and later flat or very broadly bell-shaped, often with an umbo. It is rarely fully flat. The surface is dry and soft. A young cap is smooth and brown to orange-brown. The cuticle then breaks into large brown scales over a whitish, cream, or pale brown fibrillose ground. The scales are shaggy and tile-like, and darker than the ground, while the centre stays smooth or cracked and brown. At the centre and on the scales the pileipellis is a trichoderm, and on the pale fibrillose surface it is a cutis. Potassium hydroxide on the cap is negative, or pinkish on the brown areas, and ammonia is negative.",
@@ -9860,9 +12155,33 @@ export const CATALOG = [
         uses: "Bežne sa varí a konzumuje a je menej chutná než bedľa vysoká (Macrolepiota procera). Spôsobila aj vážne žalúdočné ťažkosti. Časť hlásených ťažkostí sa pokladá za individuálnu reakciu a niektoré opisy ju už neodporúčajú. V roku 2023 bola vyradená z českého zoznamu trhových húb.",
         confusion: "Bedľa vysoká (Macrolepiota procera) má menšie šupiny, na hlúbiku hnedobiely hadovitý vzor a dužina jej nečervenie. Bedličník záhradný (Chlorophyllum brunneum) má na báze obrúbenú hľuzu, jednoduchý prsteň namiesto dvojitého a kratší, hrubší hlúbik. Rastie v záhradách, na komposte a na hnojenej pôde. Výtrusy má trvalo uťaté a cheilocystidy dlhšie a užšie. Bedličník Olivierov (Chlorophyllum olivieri) má šupiny, ktoré nekontrastujú so sivohnedým podkladom klobúka. Je hojná v opade ihličnanov, hľuzu má menej vyvinutú a výtrusy o niečo menšie, asi 8–11 × 5–7 μm. Jedovatý druh Chlorophyllum molybdites má v dospelosti zelené lupene a zelený výtrusný prach. Pečiarka obrovská (Agaricus augustus) môže v teréne vyzerať podobne a má tmavohnedý alebo purpurovohnedý výtrusný prach.",
         notes: "Plodnice majú postupne sa rozširujúcu hľuzu a dvojitý prsteň. Chlorophyllum brunneum má obrúbenú hľuzu."
+      },
+      cs: {
+            "description": "Velká saprotrofní houba lesního opadu, křovin a humózních půd. Vyskytuje se hojně v Evropě a v Severní Americe.",
+            "cap": "Klobouk má 5–18 cm v průměru. Začíná vejčitý až kulovitý, pak je klenutý až plochý bez výrazného středového hrbolu. Pokožka je šedohnědá, záhy se trhá na velké odstávající šupiny na světlém podkladě.",
+            "hymenium": "Lupeny jsou volné, husté, břichaté, bílé až krémové, po poranění a stářím červenající až nahnědlé.",
+            "stipe": "Třeň je 5–21 cm vysoký a 1–3,5 cm tlustý, s plynule se rozšiřující bází. Povrch je hladký, bělavý až nahnědlý, bez hadovitého žíhání. Nese tlustý dvojitý posuvný prsten.",
+            "flesh": "Dužnina je bílá a tlustá. Na lomu a řezu ihned oranžoví až šafránově červená a posléze hnědne. Má příjemnou houbovou vůni.",
+            "sporePrint": "Bílý až světle krémový. Výtrusy jsou hladké, bezbarvé, dextrinoidní, přibližně 9–12 × 6–7 μm.",
+            "habitat": "Plodnice vyrůstají od léta do podzimu v jehličnatých i smíšených lesích, mraveništích a zahradách v humózní půdě.",
+            "uses": "Jedlá houba s výhradou. Je chutná, avšak u citlivých osob může vyvolat alergickou reakci nebo zažívací potíže. Vyžaduje důkladnou tepelnou úpravu.",
+            "confusion": "Bedla vysoká (Macrolepiota procera) má menší šupinky a hnědobílé hadovité žíhání na třeni a její dužnina na řezu nečervená. Bedla zahradní (Chlorophyllum brunneum) má odsedlou hlízu a roste v zahradách a na kompostech. Zelenolupeňka Morganova (Chlorophyllum molybdites) má zelenavý výtrusný prach.",
+            "notes": "Plodnice mají pozvolnou hlízu a dvojitý prsten. Chlorophyllum brunneum má ostře odsedlou hlízu."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Gemeiner_Safranschirmling"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -9930,6 +12249,18 @@ export const CATALOG = [
           href: "https://www.nahuby.sk/atlas-hub/Chlorophyllum-rhacodes/bedla-cervenejuca/bedla-cervenajici/ID1",
           detail: "bedľa červenejúca"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Chlorophyllum-rachodes/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Bedla_červenající"
+            }
       ]
     },
     synonyms: [
@@ -10016,13 +12347,28 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 11,
     label: {
+      de: "Kirschroter Spei-Täubling",
       en: "sickener",
       sk: "plávka škodlivá"
-    },
+    ,
+      cs: "holubinka vrhavka"},
     names: {
       en: ["emetic russula", "vomiting russula"]
-    },
+    ,
+      cs: []},
     text: {
+      de: {
+          "description": "Ein ektomykorrhizabildender Täubling in feuchten Nadelwäldern und Mooren. Durch seinen brennend scharfen Geschmack und Giftigkeit bekannt.",
+          "cap": "Der Hut ist 3–10 cm breit, leuchtend kirschrot bis scharlachrot, bei Feuchtigkeit glänzend-schmierig. Die Huthaut lässt sich weitgehend abziehen.",
+          "hymenium": "Die Lamellen sind rein weiß, spröde, brüchig, am Stiel frei oder fast frei.",
+          "stipe": "Der Stiel ist 4–10 cm lang und 1–2,5 cm dick, rein weiß, zylindrisch, schwammig.",
+          "flesh": "Das Fleisch ist weiß, unter der Huthaut rötlich getönt, brüchig. Geruch schwach obstartig-fruchtig, Geschmack sofort brennend scharf.",
+          "habitat": "Fruchtkörper erscheinen von Juli bis November in sauren Moorwäldern unter Fichten und Kiefern zwischen Torfmoos.",
+          "sporePrint": "Rein weiß. Die Sporen sind breit ellipsoid, warzig-netzig, 7,5–11 × 6,5–9 μm groß.",
+          "uses": "Giftig! Er ruft rasch einsetzende Magen-Darm-Vergiftungen mit Erbrechen und Bauchkrämpfen hervor.",
+          "confusion": "Der Buchen-Spei-Täubling (Russula nobilis) wächst unter Buchen. Andere rote Täublinge wie der Apfeltäubling (Russula paludosa) schmecken mild und sind essbar.",
+          "notes": "Der sofortige brennend scharfe Geschmack zeichnet ihn aus."
+    },
       en: {
         description: "An ectomycorrhizal mushroom of damp conifer woods and sphagnum bogs, most often with spruce and pine. It is widespread in Europe from the Mediterranean to northern Fennoscandia, including Britain and Ireland, and it is reported from North Africa, northern Asia, and parts of North and Central America.",
         cap: "The cap is commonly 3–10 cm across, and some accounts start near 2.5 cm. It is hemispherical, then convex, and later flat and shallowly depressed, sometimes with a low umbo. The surface is smooth, sticky, and shiny when wet. It is scarlet to cherry red, sometimes darker at the centre and less often pink. The pigment is water-soluble and fades to pink, orange, or white blotches. The margin stays smooth for a long time and later becomes shortly grooved for about 2–7 mm, and it may turn wavy or knobbly. The cuticle peels about halfway in some accounts and from two thirds to almost the centre, often nearly completely, in others. The flesh under the cuticle is pink. The cap skin bears pileocystidia about 4.5–14 μm wide, with one to three septa, and they stain in sulfobenzaldehyde and sulfovanillin.",
@@ -10046,9 +12392,33 @@ export const CATALOG = [
         uses: "Surové alebo nedostatočne tepelne upravené plodnice spôsobujú nevoľnosť, vracanie, kolikovitú bolesť brucha a hnačku, zvyčajne do pol hodiny až troch hodín a niekedy už do jednej hodiny. Otrava je spravidla žalúdočno-črevná. V krajných prípadoch sa objavili kŕče a kóma a smrteľný priebeh je nepravdepodobný okrem slabých ľudí, ľudí s oslabenou imunitou a veľmi malých detí. Za dráždivé látky sa považujú seskviterpény, medzi nimi laktarorufín A, furándiol, metoxyfuranalkohol a jedna nepomenovaná zlúčenina. Predvarenie alebo nakladanie, ako sa robí v Rusku a vo východnej Európe, vraj odstraňuje štipľavú chuť a veľkú časť jedovatosti a dôkladná tepelná úprava vraj toxíny tiež rozkladá. Pre štipľavú chuť ju niektoré opisy označujú aj za nejedlú.",
         confusion: "Plávka buková (Russula nobilis) rastie s bukom, v dospelosti ostáva klenutejšia, má pevnejšiu dužinu a pokožka sa jej lúpe len asi do tretiny alebo len pri okraji. Plávka lesná (Russula silvestris) je o niečo menej štipľavá a rastie na suchšej pôde pod dubom a borovicou. Plávka brezová (Russula betularum) je menšia a krehkejšia, ružový klobúk jej rýchlo bledne, výtrusy má o niečo väčšie a zvyčajne rastie s brezou. Plávka vodnatá (Russula aquosa) rastie na rašeline a dužinu má takmer miernu. Plávka močiarna (Russula paludosa) má podobné vlhké ihličnaté stanovištia, v mladých lupeňoch je nanajvýš slabo štipľavá, hlúbik máva červenkastý a výtrusný prach bledookrový. Plávka krvavá (Russula sanguinaria) má v hlúbiku červenkastý nádych. Plávka zlatá (Russula aurea) má žltú farbu v hlúbiku, v lupeňoch aj v dužine. Plávka hnedočervená (Russula badia) má červenohnedý klobúk, živicovú vôňu, pevnejšiu dužinu, štipľavá chuť sa dostaví až s oneskorením, výtrusný prach má okrový až žltý a hlúbik niekedy ružovkastý. Plávka krehká (Russula fragilis) má vykrojené lupene a hlúbik sa jej s naftolom sfarbuje do modra. Russula nana rastie na arktických a subarktických horských lúkach so zakrpatenou vŕbou alebo s medvedicou alpínskou. Na východe a severe Spojených štátov má Russula rugulosa zvráskavenú bradavičnatú pokožku, krémové výtrusy a miernu chuť.",
         notes: "Hodnotenie z roku 2025 ho zaraďuje ako málo dotknutý druh (Least Concern). Tvorí ektomykorízu s drevinami z čeľade borovicovité na severnej pologuli. Austrálske nálezy patria druhu Russula persanguinea. Niektoré juhoamerické údaje sa posudzujú opatrne. V podhorských oblastiach je dosť hojná."
+      },
+      cs: {
+            "description": "Ektomykorhizní houba vlhkých jehličnatých lesů a rašelinišť, vázaná především na smrky a borovice. Rozšířená je v boreálním a mírném pásmu Evropy, Asie i Severní Ameriky.",
+            "cap": "Klobouk má 3–10 cm v průměru, polokulovitý, pak plochý s mírně prohloubeným středem a rýhovaným okrajem. Pokožka je zářivě šarlatově až krvavě červená, za vlhka slizká a lesklá, snadno sloupnutelná až ke středu.",
+            "hymenium": "Lupeny jsou volné až připojené, křehké, čistě bílé, stářím nažloutlé.",
+            "stipe": "Třeň je 4–8 cm vysoký a 1–2 cm tlustý, válcovitý, křehký, čistě bílý a podélně vrásčitý.",
+            "flesh": "Dužnina je křehká, bílá, pod pokožkou klobouku načervenalá. Má ovocnou vůni a nesnesitelně ostře pálivou chuť.",
+            "sporePrint": "Čistě bílý až velmi světle krémový. Výtrusy jsou téměř kulovité, ostnité, amyloidní, přibližně 8–10 × 7–8 μm.",
+            "habitat": "Roste od června do října v mokrých jehličnatých lesích, rašeliništích a v mechu rašeliníku pod smrky a borovicemi.",
+            "uses": "Jedovatá houba. V syrovém i nedovařeném stavu způsobuje akutní zánět žaludku a střev s prudkým zvracením, kolikami a průjmem.",
+            "confusion": "Holubinka buková (Russula nobilis) roste pod buky, zůstává v dospělosti klenutější, má pevnější dužninu a pokožku sloupnutelnou jen na okraji. Holubinka lesní (Russula silvestris) je méně palčivá a roste na sušších stanovištích. Holubinka březová (Russula betularum) je křehčí, růžová a roste pod břízami. Holubinka rašelinná (Russula paludosa) roste v rašeliníku, má však mírnou chuť a okrový výtrusný prach.",
+            "notes": "Podle hodnocení z roku 2025 je málo dotčeným druhem (Least Concern). Tvoří ektomykorhizu s borovicovitými dřevinami na severní polokouli."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Kirschroter_Spei-T%C3%A4ubling"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -10123,6 +12493,18 @@ export const CATALOG = [
           href: "https://www.nahuby.sk/atlas-hub/Russula-emetica/plavka-skodliva/holubinka-vrhavka/ID470",
           detail: "plávka škodlivá"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Russula-emetica/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Holubinka_vrhavka"
+            }
       ]
     },
     synonyms: [
@@ -10217,14 +12599,29 @@ export const CATALOG = [
     fruitingFrom: 7,
     fruitingTo: 12,
     label: {
+      de: "Grünling",
       en: "yellow knight",
       sk: "čírovka zelenkastá"
-    },
+    ,
+      cs: "čirůvka zelánka"},
     names: {
       en: ["man on horseback", "saddle-shaped tricholoma"],
       sk: ["sviňurka", "sviňúvka", "zelenka", "sviňúrka"]
-    },
+    ,
+      cs: ["zelánka"]},
     text: {
+      de: {
+          "description": "Ein ektomykorrhizabildender Ritterling in sandigen Kiefernwäldern. Früher ein hochgeschätzter Speisepilz, heute als gefährlicher Giftpilz (Rhabdomyolyse) eingestuft.",
+          "cap": "Der Hut ist 5–12 cm breit, gelbgrün bis olivgelb mit feinen bräunlichen Schüppchen in der Mitte, bei Feuchtigkeit klebrig.",
+          "hymenium": "Die Lamellen sind schwefelgelb bis zitronengelb, dicht stehend, am Stiel ausgebuchtet angewachsen.",
+          "stipe": "Der Stiel ist 4–10 cm lang und 1–2,5 cm dick, zylindrisch, gelblich, voll und fest.",
+          "flesh": "Das Fleisch ist weißlich, unter der Huthaut gelblich. Geruch und Geschmack angenehm mehlartig.",
+          "habitat": "Fruchtkörper erscheinen von September bis November in lichten Kiefernwäldern auf sandigen, nährstoffarmen Böden.",
+          "sporePrint": "Weiß. Die Sporen sind ellipsoid, glatt, 6–8 × 4–5 μm groß.",
+          "uses": "Giftig! Wiederholter Verzehr größerer Mengen kann zu einer schweren Rhabdomyolyse (Auflösung von Muskelfasern) mit möglichem tödlichen Verlauf führen.",
+          "confusion": "Der Schwefel-Ritterling (Tricholoma sulphureum) ist ganzheitlich gelb, riecht penetrant nach Leuchtgas und ist ungenießbar.",
+          "notes": "Tricholoma frondosae wird als Pappelbegleiter unterschieden. Schwere Vergiftungsfälle (Rhabdomyolyse) nach wiederholten üppigen Mahlzeiten führten dazu, dass er heute als Giftpilz eingestuft wird. Pilz des Jahres 2021 in Deutschland."
+    },
       en: {
         description: "A fleshy ectomycorrhizal mushroom of sandy pine woods, often in groups or rings, with the fruit bodies half buried in sand, moss, or needle litter. It is native across the temperate northern hemisphere, in Europe and North America, and it is reported from Asia and Central America.",
         cap: "The cap is 4–15 cm across. It is convex, hemispherical, or broadly conical, with the margin long inrolled, and later flattened, wavy, or slightly depressed, often with a low broad umbo. The colour runs from lemon yellow, chrome yellow, and greenish yellow to honey yellow, brownish yellow, or olive brown, and the centre is darker brown. Appressed orange-brown to umber scales or fibrils sit at the centre, without prominent blackish radiating fibrils. The surface is viscid when wet and soon dry, and it is usually encrusted with sand. Areas that stayed under the litter remain paler. The skin can be peeled. Accounts describe either a cutis passing into a trichoderm, with cylindrical hyphae about 20–45 × 2–7 μm, cylindrical or club-shaped tips, and brown pigment, or a smoother ixocutis of hyphae 2.5–5 μm wide that is hyaline to reddish in potassium hydroxide. Potassium hydroxide does not change the cap colour. Clamp connections are absent throughout the fruit body.",
@@ -10248,9 +12645,33 @@ export const CATALOG = [
         uses: "Dlho sa zbierala a predávala ako dobrá jedlá huba a niektoré krajové opisy ju dodnes vysoko cenia, no tento úsudok je dnes sporný. Vo väčšom množstve spôsobila rabdomyolýzu. Dvanásť francúzskych prípadov z rokov 1992 až 2000 zahŕňalo tri úmrtia a neskoršie prípady sú známe z Poľska aj z iných krajín. Toxín nie je známy. Predaj je vo Francúzsku zakázaný. V Nemecku úradné odporúčanie znie nejesť ju. Poľská skúška z roku 2018, jedno vyprážané jedlo s hmotnosťou 300 g u desiatich dobrovoľníkov, nenašla žiadny účinok a predaj tam podľa predpisu z roku 2008 stále povoľujú, no neskoršie prehľady radia hubu nezbierať.",
         confusion: "Čírovka sírovožltá (Tricholoma sulphureum) nemá hnedoolivový stred klobúka, má riedke lupene, tenší hlúbik, sírovožltú dužinu a silný zápach po svietiplyne alebo síre. Čírovka zelenohnedastá (Tricholoma sejunctum) má biele až slabo žltkasté lupene, černasté vrastené lúčovité vlákna a horkú alebo štipľavú chuť. Tricholoma subsejunctum a čírovka olivovohnedá (Tricholoma viridilutescens) majú tiež biele lupene a rastú v zmiešaných lesoch. Čírovka severská (Tricholoma aestuans) má kužeľovitejší klobúk a výrazne ostrú, pálivú chuť, belavú dužinu a nevýraznú vôňu a rastie vo vyšších polohách pod ihličnanmi. Čírovka osiková (Tricholoma frondosae) má sýtejšiu žltoolivovú farbu, je štíhlejšia, s výraznejšími šupinami na klobúku a s menšími výtrusmi, a uprednostňuje topole a osiku na bohatšej pôde, kým tento druh rastie na piesku veľmi chudobnom na živiny pod borovicami. Tricholoma chrysophyllum rastie s dubom cezmínovým a má mierne šupinkatý hlúbik a olivovejší, šupinatejší klobúk. Čírovka ihličinová (Tricholoma arvernense) môže mať rovnaké hnedé, horčicové a žltozelené tóny klobúka a niekedy aj rovnaké lesy, no lupene má biele, bez žltej farby. Smrteľne jedovatá muchotrávka zelená (Amanita phalloides) má biele lupene, pošvu, zvyčajne prsteň a sladkastú vôňu pripomínajúcu med. Entoloma luridum, na hornom Stredozápade a na východe Severnej Ameriky, zdieľa stanovište, no zrelé lupene aj výtrusný prach sú hnedoružové a vôňa nie je múčna.",
         notes: "Niektorí autori stále oddeľujú mohutnejšiu hrboľatú dunovú formu, kým sa komplex nereviduje. Japonský materiál tej dunovej formy stojí na vlastnej vetve, oddelene od európskych plodníc tohto druhu aj od európskeho materiálu vedeného pod tým istým menom. Tricholoma ulvenii má bledšie citrónové sfarbenie, o niečo menšie výtrusy a širšie hýfy v trame lupeňov a severoeurópske sekvencie ITS ju od tohto druhu neoddeľujú. V Nemecku je druh zákonom chránený pred zberom. Hodnotenie z roku 2016 ho zaraďuje ako málo dotknutý druh (Least Concern). Poľský červený zoznam ho zaraďuje do kategórie I, s neurčeným ohrozením."
+      },
+      cs: {
+            "description": "Masitá ektomykorhizní houba písčitých borových lesů. Původní je v mírném pásmu severní polokoule v Evropě a Severní Americe.",
+            "cap": "Klobouk má 4–15 cm v průměru, polokulovitý, pak sklenutý s tupým hrbolem. Pokožka je za vlhka slizká, zbarvená sírově žlutě až žlutoolivově, ve středu s hnědavými šupinkami.",
+            "hymenium": "Lupeny jsou husté, zoubkem připojené, nápadně sírově žluté až zelenožluté.",
+            "stipe": "Třeň je 3–10 cm vysoký a 0,6–3 cm tlustý, pevný, válcovitý, světle sírově žlutý až žlutozelený.",
+            "flesh": "Dužnina je bílá až slabě nažloutlá, pod pokožkou klobouku žlutá, s příjemnou moučnou vůní a chutí.",
+            "sporePrint": "Bílý. Výtrusy jsou eliptické, hladké, přibližně 6–8 × 4–5 μm.",
+            "habitat": "Plodnice vyrůstají od července do prosince. Roste v písčitých borech pod borovicemi, často napůl zanořená v písku a jehličí.",
+            "uses": "Jedovatá houba. Ačkoli byla po staletí sbírána a prodávána jako vyhlášená jedlá houba, novodobé lékařské studie prokázaly, že při opakované konzumaci ve větším množství vyvolává těžkou rhabdomyolýzu (rozpad kosterního svalstva), která vedla k úmrtím.",
+            "confusion": "Čirůvka sírožlutá (Tricholoma sulphureum) postrádá hnědoolivový střed klobouku, má řídké lupeny, tenčí třeň a páchne po svítiplynu nebo síře. Čirůvka oddělená (Tricholoma sejunctum) má bělavé lupeny a hořkou chuť. Muchomůrka zelená (Amanita phalloides) má bílé lupeny, pochvu, prsten a nasládlou medovou vůni.",
+            "notes": "Někteří autoři rozlišují robustnější formu z přímořských dun. Podle hodnocení z roku 2016 je zabezpečeným druhem."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Gr%C3%BCnling_(Pilz)"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -10348,6 +12769,18 @@ export const CATALOG = [
           href: "https://www.nahuby.sk/atlas-hub/Tricholoma-equestre/cirovka-zelenkasta/ciruvka-zelanka/ID52",
           detail: "čírovka zelenkastá"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Tricholoma-equestre/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Čirůvka_zelánka"
+            }
       ]
     },
     synonyms: [
@@ -10441,14 +12874,29 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 11,
     label: {
+      de: "Flaschen-Stäubling",
       en: "common puffball",
       sk: "prášnica bradavičnatá"
-    },
+    ,
+      cs: "pýchavka obecná"},
     names: {
       en: ["warted puffball", "gem-studded puffball", "gemmed puffball", "devil's snuff-box"],
       sk: ["prašivka", "fúkavičná huba", "čertov tabak"]
-    },
+    ,
+      cs: ["pýchavka bradavičnatá"]},
     text: {
+      de: {
+          "description": "Ein sehr häufiger saprotropher Bauchpilz in Laub- und Nadelwäldern. Charakteristisch sind die abwischbaren kegeligen Stacheln auf der Außenhülle.",
+          "cap": "Der Fruchtkörper ist 3–8 cm hoch und 2–5 cm breit, birnen- bis flaschenförmig, weiß, dicht besetzt mit spitzen, leicht abwischbaren Stacheln, die nach dem Abfallen ein netzartiges Muster hinterlassen.",
+          "hymenium": "Die Sporenmasse (Gleba) reift im Inneren des oberen Kopfteils heran.",
+          "stipe": "Der untere sterile Teil bildet einen stielartigen Fuß, der innen gekammert ist.",
+          "flesh": "Die Gleba ist jung rein weiß und fest; bei der Reife zerfällt sie in ein olivbraunes Sporenpulver, das durch eine Scheitelöffnung entweicht.",
+          "habitat": "Fruchtkörper erscheinen von Juli bis November einzeln oder in Gruppen auf dem Waldboden in Laub- und Nadelwäldern.",
+          "sporePrint": "Olivbraun. Die Sporen sind kugelig, fein warzig, 3,5–4,5 μm groß.",
+          "uses": "Jung essbar, solange das Innere rein weiß und fest ist. Sobald eine gelbliche Verfärbung einsetzt, ungenießbar.",
+          "confusion": "Junge Fruchtkörper des hochgiftigen Knollenblätterpilzes (Amanita) im Eistadium unterscheiden sich im Längsschnitt durch die bereits erkennbaren Lamellenanlagen.",
+          "notes": "Eine Beurteilung aus dem Jahr 2017 stuft die Art als nicht gefährdet (Least Concern) ein."
+    },
       en: {
         description: "A saprotrophic fungus of woodland litter and grassy ground. It is common across Europe, including Britain, Ireland, and Slovakia, and through temperate North America from Alaska to Mexico, and it is reported from parts of Asia, Africa, Australia, New Zealand, South America, Greenland, and Iceland.",
         cap: "The fruit body is pear-shaped or club-shaped, sometimes nearly round, with a rounded or flattened head on a narrower sterile base. It is commonly 2–6 cm across and 4–9 cm tall. Published measurements run from about 1.5 cm across and 3 cm tall to about 7 cm across and 10 cm tall, and the fertile head is about 2–5 cm across. Young fruit bodies are white to cream. Short firm cone-shaped spines about 1 mm high cover the head, often with smaller spines or granules around the larger ones. The spines are whitish, grey, or brown, and the tips are often ochre or brown. They rub off and leave round scars, often in a net that is clearest on the head and weaker toward the base. The surface then turns yellowish, ochre, grey-brown, or olive-brown. A small pore opens at the top. The outer skin is paper thin.",
@@ -10472,9 +12920,33 @@ export const CATALOG = [
         uses: "Jedia sa len plodnice, ktorých vnútro je ešte biele a pevné. Tvrdá pokožka sa zlúpe. Kým je vnútro biele, hubu možno jesť surovú, krátko osmažiť na masle do zlatista alebo pridať do omelety či polievky. Varením stvrdne. Pripravuje sa aj dusením. Keď je vnútro žlté, olivové alebo hnedé, necháva sa. Údaje o chuti sa rozchádzajú: niektoré ju označujú za dobrú a vôňa môže byť príliš silná na to, aby sa miešala s inými hubami.",
         confusion: "Jedlá prášnica hruškovitá (Apioperdon pyriforme) má málo výrazných ostňov alebo nijaké, rastie na hnijúcom dreve a po opadaní ostňov nezanecháva sieť. Zahrabané drevo môže budiť dojem, že rastie na pôde. Prášnica ježovitá (Lycoperdon echinatum) je tmavšia, často s červenkastým nádychom, a má oveľa dlhšie ostne. Prášnica tmavá (Lycoperdon nigrescens) je tmavšia. Jej ostne stoja v skupinách, ich konce sa zbiehajú, ostne sú zložené a sieť nezanechávajú. Prášnica huňatá (Lycoperdon umbrinum) má mäkšie a tenšie ostne, ktoré nezanechávajú jazvy. Jej zrelá gléba je tmavohnedá až purpurovohnedá a báza má purpurový nádych. Prášnica lúpavá (Lycoperdon marginatum) zhadzuje ostne v nepravidelných plátoch. Prášnica stopkatá (Lycoperdon excipuliforme) je väčšia a sivejšia. Jej jemnejšie ostne nezanechávajú vzor a v zrelosti sa horná časť úplne rozpadne. Jedlá prášnica závojová (Lycoperdon mammiforme) sa rozpadá na veľké krémové šupiny, nie na krátke kužeľovité ostne. Jedovatý pestrec obyčajný (Scleroderma citrinum) má hrubé perídium a vnútro je najprv bledosivé a potom hnedé alebo čierne. Mladá muchotrávka, vrátane jedovatej muchotrávky červenej (Amanita muscaria) a smrteľne jedovatej muchotrávky zelenej (Amanita phalloides), má na zvislom reze obrys klobúka, lupene a pošvu. Táto huba zárodky lupeňov nemá.",
         notes: "Hodnotenie z roku 2019 ho zaraďuje ako málo dotknutý druh (Least Concern). Plodnice hromadia kadmium, olovo, ortuť a selén a používali sa ako ukazovateľ znečistenia pôdy. Z plodníc bola izolovaná kyselina lykoperdová."
+      },
+      cs: {
+            "description": "Saprotrofní břichatkovitá houba lesního opadu a travnatých půd. Hojná je po celé Evropě, v mírné Asii i Severní Americe.",
+            "cap": "Plodnice je 3–8 cm vysoká a 2–5 cm široká, hruškovitá až kyjovitá. Vnější okrovka je bílá až šedobílá, posetá drobnými kuželovitými bradavkami, které po opadnutí zanechávají na vnitřní okrovce síťkovaný vzor.",
+            "hymenium": "Vnitřní dužnina (gleba) vyplňuje horní část. V mládí je bílá a pevná, při dozrávání žloutne a v dospělosti se mění v suchý olivově hnědý výtrusný prach, který se uvolňuje otvorem na vrcholu.",
+            "stipe": "Sterilní spodní část plodnice tvoří stopkovitý třeň plynule přecházející v horní část.",
+            "flesh": "Mladá gleba i sterilní báze jsou obě bílé. V dospělosti se gleba rozpadá na olivově hnědý prach.",
+            "sporePrint": "Výtrusná hmota je olivově hnědá a stářím tmavne do tmavohnědé. Výtrusy jsou kulovité, bradavčité, přibližně 3,5–4,5 μm.",
+            "habitat": "Plodnice vyrůstají od června do listopadu v lesích, parcích a loukách, často v početných skupinách.",
+            "uses": "Jedlá houba, avšak výhradně v mládí, dokud je vnitřek zcela čistě bílý a pevný. Skvěle se hodí ke smažení obalená v trojobalu jako řízek.",
+            "confusion": "Pýchavka hruškovitá (Apioperdon pyriforme) má jen málo nevýrazných ostnů, roste na tlejícím dřevě a po opadnutí ostnů nezanechává síťku. Pýchavka ježatá (Lycoperdon echinatum) je tmavší a má mnohem delší ostny. Pýchavka černající (Lycoperdon nigrescens) má ostny tmavší a uspořádané ve sbíhavých skupinkách. Pestřec obecný (Scleroderma citrinum) má tlustou tuhou okrovku a vnitřek záhy tmavne do šedočerné barvy. Mladé plodnice muchomůrek (např. Amanita muscaria a Amanita phalloides) mají při podélném rozkrojení zřetelný obrys klobouku, lupenů a pochvy.",
+            "notes": "Podle hodnocení z roku 2019 je málo dotčeným druhem (Least Concern). Plodnice akumulují kadmium, olovo, rtuť a selen a byly využívány k indikaci znečištění půdy. Z plodnic byla izolována kyselina lycoperdová."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Flaschen-St%C3%A4ubling"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -10561,6 +13033,18 @@ export const CATALOG = [
           href: "https://polovnictvo-rybarstvo.pluska.sk/na-hubach/prasnicu-bielou-tvrdou-duzi-nou-mozno-bez-obav-konzumovat-co-este-hodi",
           detail: "23 Nov 2023"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Lycoperdon-perlatum/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Pýchavka_obecná"
+            }
       ]
     },
     synonyms: ["Lycoperdon gemmatum Batsch", "Lycoperdon lacunosum Bull.", "Lycoperdon bonordenii Massee"]
@@ -10642,14 +13126,29 @@ export const CATALOG = [
     fruitingFrom: 7,
     fruitingTo: 11,
     label: {
+      de: "Laubwald-Rotkappe",
       en: "orange oak bolete",
       sk: "kozák dubový"
-    },
+    ,
+      cs: "křemenáč krvavý"},
     names: {
       en: ["red-capped scaber stalk", "orange bolete", "copper-top", "orange-capped bolete"],
       sk: ["kozák hrdzavejúci"]
-    },
+    ,
+      cs: ["křemenáč dubový"]},
     text: {
+      de: {
+          "description": "Ein hervorragender ektomykorrhizabildender Speisepilz unter Laubbäumen, vor allem Eichen und Buchen. Er zeichnet sich durch seinen orangeroten Hut und rötlich-braune Schuppen am Stiel aus.",
+          "cap": "Der Hut misst 5–20 cm im Durchmesser, ist leuchtend orangerot bis fuchsigbraun, samtig-filzig, polsterförmig gewölbt.",
+          "hymenium": "Die Röhren sind cremeweiß bis graubraun, Poren fein, verfärben sich auf Druck bräunlich.",
+          "stipe": "Der Stiel ist 8–20 cm lang und 2–4 cm dick, weißlich, dicht besetzt mit anfangs rötlich-braunen, später schwarzbraunen Schüppchen.",
+          "flesh": "Das Fleisch ist weiß, läuft im Anschnitt zunächst graurosa bis lila an und verfärbt sich schließlich schwarzviolett. Beim Kochen schwärzt es.",
+          "habitat": "Fruchtkörper erscheinen von Juni bis Oktober in Laubwäldern unter Eichen, Buchen, Linden und Birken.",
+          "sporePrint": "Ocker- bis olivbraun. Die Sporen sind spindelig, glatt, 13–18 × 4–5,5 μm groß.",
+          "uses": "Ein hervorragender Speisepilz, der vor dem Verzehr ausreichend durchgegart werden muss.",
+          "confusion": "Die Birken-Rotkappe (Leccinum versipelle) wächst unter Birken und hat von Jugend an schwarze Stielschuppen. Die Weißstielige Rotkappe (Leccinum albostipitatum) wächst bei Espen.",
+          "notes": "Pilz des Jahres 1994 in Deutschland."
+    },
       en: {
         description: "An ectomycorrhizal mushroom of broadleaf woods and their edges. It is uncommon but widespread in Britain and Ireland, fairly common through northern and central mainland Europe, and abundant in Scandinavia, becoming rarer farther south in the lowlands. Records under this name in North America may belong to other species.",
         cap: "The cap is 4–15 cm across. It is nearly globose at first, with the skin pressed to the stipe, then hemispherical to convex, and it may flatten or become misshapen. The surface is finely felty when young and smoother or finely scaly later, dry, and only slightly tacky in wet weather, in brick red, orange-red, or date brown. The margin is blunt and overhangs the pores by about 2–4 mm, often as ragged flaps. The cap skin is a trichoderm of partly erect hyphae about 7–13 μm wide, with brown pigment.",
@@ -10672,9 +13171,32 @@ export const CATALOG = [
         uses: "Mladé pevné plodnice sa jedia po dôkladnej tepelnej úprave. Dužina je mäkšia ako dužina Boletus edulis a na panvici veľmi stmavne; plodnice sa aj sušia. Nedostatočne tepelne upravené plodnice spôsobili vracanie a niektorí ľudia uvádzajú žalúdočné a črevné ťažkosti. Oneskorené ochorenie hlásené zo Severnej Ameriky môže súvisieť s inými oranžovoklobúkatými druhmi.",
         confusion: "Kozák osikový (Leccinum albostipitatum) má šupinky na hlúbiku za mladi biele a až neskôr červenejúce a klobúk čistejšie oranžový. Rastie s osikou a topoľom. Kozák žltooranžový (Leccinum versipelle) rastie s brezou, má oranžový až žltookerový klobúk a od začiatku hrubé čierne šupinky a v báze hlúbika sa otlačením farbí na modrozeleno až černasto. Kozák sosnový (Leccinum vulpinum) rastie s borovicou a kozák smrekový (Leccinum piceinum) so smrekom a má za mladi sivé póry. Nie každé spracovanie tieto ihličnanové druhy oddeľuje. V Severnej Amerike rastie Leccinum insigne s osikou alebo brezou a Leccinum atrostipitatum s brezou.",
         notes: "Na Slovensku rastie v listnatých lesoch, najmä pod dubmi a inými listnáčmi, občas aj pod osikami."
+      },
+      cs: {
+            "description": "Ektomykorhizní houba listnatých lesů, rostoucí zejména pod duby. Rozšířená je v severní a střední Evropě.",
+            "cap": "Klobouk má 4–15 cm v průměru. V mládí je téměř kulovitý s přesahující pokožkou, později polokulovitý až sklenutý. Pokožka je suchá, zbarvená cihlově červeně, rezavě hnědě až sytě červenohnědě.",
+            "hymenium": "Rourky jsou 1–3 cm dlouhé, bělavé až krémové, stářím šedohnědé. Póry jsou drobné, stejně zbarvené a po otlačení tmavnou.",
+            "stipe": "Třeň je 5–25 cm dlouhý a 1,5–5 cm tlustý, často břichatý až kyjovitý, bělavý a pokrytý šupinkami, které jsou od mládí rezavě hnědé a stářím tmavnou do černohnědé.",
+            "flesh": "Dužnina je bělavá, tlustá a v mládí pevná. Na řezu nejprve šedomodrá, pak tmavě fialově šedne a nakonec černá.",
+            "sporePrint": "Hnědý až olivově okrový. Výtrusy jsou vřetenovité, hladké, přibližně 13–18 × 4,5–5,5 μm.",
+            "habitat": "Plodnice vyrůstají od července do listopadu. Rostou na zemi pod duby na lesních okrajích a v doubravách.",
+            "uses": "Mladé pevné plodnice se konzumují po důkladné tepelné úpravě. Třeň stářím dřevnatí a často se odstraňuje. Dužnina při vaření i sušení černá.",
+            "confusion": "Křemenáč osikový (Leccinum albostipitatum) má v mládí šupinky na třeni čistě bílé a klobouk čistěji oranžový; roste pod osikami. Křemenáč březový (Leccinum versipelle) roste pod břízami, má žlutooranžový klobouk a hrubé černé šupinky od počátku. Křemenáč borový (Leccinum vulpinum) roste pod borovicemi a křemenáč smrkový (Leccinum piceinum) pod smrky."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Laubwald-Rotkappe"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -10758,6 +13280,18 @@ export const CATALOG = [
           href: "https://polovnictvo-rybarstvo.pluska.sk/na-hubach/kozakov-je-nasich-lesoch-dost-ako-nich-vyznat-2",
           detail: "kozák dubový"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Leccinum-aurantiacum/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Křemenáč_krvavý"
+            }
       ]
     },
     synonyms: [
@@ -10846,13 +13380,28 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 11,
     label: {
+      de: "Gelber Knollenblätterpilz",
       en: "false deathcap",
       sk: "muchotrávka citrónovožltá"
-    },
+    ,
+      cs: "muchomůrka citronová"},
     names: {
       en: ["false death cap", "false death-cap", "citron amanita"]
-    },
+    ,
+      cs: ["muchomůrka citrónová"]},
     text: {
+      de: {
+          "description": "Ein sehr häufiger ektomykorrhizabildender Wulstling in Laub- und Nadelwäldern auf sauren Böden. Charakteristisch sind der Geruch nach rohen Kartoffeln und die gerandete Knolle.",
+          "cap": "Der Hut ist 5–10 cm breit, blass zitronengelb bis weißlich, besetzt mit unregelmäßigen, weißlichen bis bräunlichen Hüllresten (Velumresten).",
+          "hymenium": "Die Lamellen sind weiß bis blassgelblich, frei, gedrängt stehend.",
+          "stipe": "Der Stiel ist 6–12 cm lang und 1–2 cm dick, weißlich-gelb, mit einem hängenden, ungerieften gelblichen Ring. Die Basis endet in einer auffällig gerandeten, kugeligen Knolle.",
+          "flesh": "Das Fleisch ist weiß, unveränderlich. Geruch intensiv nach rohen Kartoffeln oder Keller, Geschmack unangenehm.",
+          "habitat": "Fruchtkörper erscheinen von August bis November in Nadel- und Buchenwäldern auf sauren Böden.",
+          "sporePrint": "Weiß. Die Sporen sind kugelig, glatt, 8–10 μm groß und amyloid.",
+          "uses": "Ungenießbar bis schwach giftig (enthält Bufotenin). Wegen der hohen Verwechslungsgefahr mit dem tödlichen Grünen Knollenblätterpilz strikt zu meiden.",
+          "confusion": "Der tödlich giftige Grüne Knollenblätterpilz (Amanita phalloides) hat eine sackartige, ungerandete Scheide (Volva), riecht nicht nach Kartoffeln und hat einen eingewachsen faserigen Hut.",
+          "notes": "Der charakteristische Geruch nach Kartoffelkeimen und die scharf abgesetzte Knolle sind diagnostisch."
+    },
       en: {
         description: "An ectomycorrhizal mushroom of coniferous and broadleaf woodland. It is frequent from the Mediterranean to the Hebrides and southern Scandinavia, and east through central Europe to Belarus and Estonia. It is also reported from the Caucasus, Korea, Japan, the Canary Islands, Australia, and South Africa.",
         cap: "The cap is usually 4–10 cm across, and it can be as small as 3 cm or, in the white form, as wide as 12 cm. It is pale lemon yellow, yellow-green, greyish, or whitish, always in a light shade. A white form lacks the yellow pigment and can grow among the yellow fruit bodies. Young caps are rounded or egg-shaped, then convex, and at length flat, with the margin staying downturned, smooth, and not lined. The surface is greasy and shiny in wet weather. Thick flaky veil patches, white, cream, grey, or brownish, usually lie on the cap and are often denser toward the centre. They can wash off, or be missing altogether.",
@@ -10875,9 +13424,33 @@ export const CATALOG = [
         habitat: "Plodnice sa objavujú najmä od augusta do novembra. V strednej Európe môžu začínať už v júni, kým v Británii a Írsku trvá sezóna od augusta do novembra. Rastie s ihličnanmi aj s listnáčmi. V strednej Európe je obvyklým partnerom smrek, potom buk a tiež borovica, dub a breza, na kyslej, bázami chudobnej a živinami chudobnej pôde, ktorá ostáva primerane vlhká. V Británii a Írsku je zvlášť hojná s bukom na zásaditej alebo neutrálnej pôde a zriedkavejšie na silno kyslej pôde.",
         uses: "Surové plodnice sú mierne jedovaté. Obvykle uvádzanou látkou je bufotenín. Niektoré správy hovoria, že ho zahrievanie ničí. V nízkej koncentrácii sa uvádza alfa-amanitín. Vôňa a chuť sú nepríjemné, plodnica sa ľahko zamieňa so smrteľne jedovatými muchotrávkami, a preto ostáva nejedená.",
         confusion: "Smrteľne jedovatá muchotrávka zelená (Amanita phalloides) má voľnú laločnatú pošvu a lúčovito vláknitý klobúk, na ktorom hrubé útržky plachtičky zvyčajne chýbajú. Jej farby siahajú od bielej po olivovú, bez žltého nádychu, a dospelé plodnice voňajú sladkasto. Muchotrávka končistá (Amanita virosa) a muchotrávka jarná (Amanita verna) sú smrteľne jedovaté a majú tiež voľnú vreckovitú pošvu. Muchotrávka končistá si v dospelosti zriedka ponecháva útržky plachtičky, klobúk ostáva mierne klenutý a prsteň je tenký, vysoko na hlúbiku. Muchotrávka slamovožltá (Amanita gemmata) má sýtejšie žltý klobúk s ryhovaným okrajom, tenšie biele útržky plachtičky a prsteň, ktorý čoskoro mizne, a nemá vôňu surových zemiakov. Muchotrávka šiškovitá (Amanita strobiliformis) je väčšia, s bielym až okrovým klobúkom, hrubými strapkatými zvyškami plachtičky a prsteňom, ktorý sa rozpadá na vločky, a ani ona tú vôňu nemá."
+      },
+      cs: {
+            "description": "Ektomykorhizní houba jehličnatých i listnatých lesů. Běžně se vyskytuje od Středomoří až po Hebridy a jižní Skandinávii a východně přes střední Evropu do Běloruska a Estonska.",
+            "cap": "Klobouk má obvykle 4–10 cm v průměru, polokulovitý, pak sklenutý až plochý. Pokožka je světle citronově žlutá až bělavá, posetá velkými nepravidelnými hnědavě krémovými plachetkovými záplatami.",
+            "hymenium": "Lupeny jsou volné, husté, široké asi 6–12 mm, bílé až světle nažloutlé.",
+            "stipe": "Třeň je 4–15 cm vysoký a 1–2 cm tlustý, bělavý až bledě žlutý, s měkkým visutým žlutavým prstenem. Na bázi má nápadnou kulovitou hlízu s ostře odsedlým lemem.",
+            "flesh": "Dužnina je bílá, ve třeni měkká a vatovitá, na řezu barvu nemění. Má charakteristický nepříjemný pach po syrových bramborách.",
+            "sporePrint": "Bílý. Výtrusy jsou hladké, bezbarvé a amyloidní, kulovité, přibližně 8–10 μm.",
+            "habitat": "Plodnice vyrůstají zejména od srpna do listopadu pod borovicemi, buky, duby a smrky na chudých kyselých půdách.",
+            "uses": "V syrovém stavu je mírně jedovatá. Obsahuje bufotenin, který se teplem rozkládá. Pro odporný bramborový pach a nebezpečí záměny se smrtelně jedovatou muchomůrkou zelenou se nesbírá.",
+            "confusion": "Muchomůrka zelená (Amanita phalloides) má volnou laločnatou pochvu a radiálně vláknitý klobouk obvykle bez tlustých záplat, barvy od bílé po olivovou bez žlutého tónu a ve stáří voní nasládle. Muchomůrka jízlivá (Amanita virosa) a muchomůrka jarní (Amanita verna) mají rovněž volnou vakovitou pochvu. Muchomůrka slámová (Amanita gemmata) má sytěji žlutý klobouk s rýhovaným okrajem, prchavý prsten a postrádá bramborový pach. Muchomůrka šiškovitá (Amanita strobiliformis) je větší, bílá až okrová, s tlustými zubatými zbytky plachetky a rovněž nepáchne po bramborách.",
+            "notes": "Bledě žluté muchomůrky ve východní Severní Americe dříve řazené pod toto jméno představují jiné druhy; zde uvedené míry platí pro evropské plodnice."
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Gelber_Knollenbl%C3%A4tterpilz"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -10971,6 +13544,18 @@ export const CATALOG = [
           href: "https://botany.cz/cs/amanita-citrina/",
           detail: "muchotrávka citrónovožltá"
         }
+      ],
+      cs: [
+            {
+                  "group": "text",
+                  "name": "Česká mykologická společnost",
+                  "href": "https://www.myko.cz/myko-atlas/Amanita-citrina/"
+            },
+            {
+                  "group": "text",
+                  "name": "Wikipedia",
+                  "href": "https://cs.wikipedia.org/wiki/Muchomůrka_citronová"
+            }
       ]
     },
     synonyms: [
@@ -11063,6 +13648,8 @@ export const CATALOG = [
     fruitingFrom: 5,
     fruitingTo: 11,
     label: {
+      de: "Tiger-Ritterling",
+      cs: "čirůvka tygrovaná",
       en: "tiger tricholoma",
       sk: "čírovka tigrovaná"
     },
@@ -11077,6 +13664,30 @@ export const CATALOG = [
       ]
     },
     text: {
+      de: {
+          "description": "Ein stark giftiger, stattlicher ektomykorrhizabildender Ritterling in montanen Nadel- und Buchenwäldern auf Kalkböden.",
+          "cap": "Der Hut ist 6–15 cm breit, silbergrau bis graubraun, dicht bedeckt mit dunkleren, konzentrisch angeordneten Schuppen (Tigermuster).",
+          "hymenium": "Die Lamellen sind weißlich bis blassgelblich, oft mit wässrigen Tröpfchen besetzt, ausgebuchtet angewachsen.",
+          "stipe": "Der Stiel ist 5–12 cm lang und 2–4 cm dick, stämmig keulig, weißlich, zur Basis hin ockerlich verfärbend.",
+          "flesh": "Das Fleisch ist weiß, fest. Geruch und Geschmack angenehm mehlartig.",
+          "habitat": "Fruchtkörper erscheinen von August bis November in Bergwäldern unter Tannen, Fichten und Buchen auf Kalk.",
+          "sporePrint": "Weiß. Die Sporen sind breit ellipsoid, glatt, 8–10 × 5,5–7 μm groß.",
+          "uses": "Stark giftig! Verursacht schwere gastrointestinale Vergiftungen mit heftigem Erbrechen und Durchfall.",
+          "confusion": "Der Gemeine Erd-Ritterling (Tricholoma terreum) ist wesentlich kleiner, dünnfleischiger, riecht nicht nach Mehl und ist essbar.",
+          "notes": "Eine Beurteilung aus dem Jahr 2019 stuft die Art als nicht gefährdet (Least Concern) ein."
+    },
+      cs: {
+          "description": "Velká dužnatá ektomykorhizní houba vápnitých listnatých a jehličnatých lesů, rostoucí jednotlivě nebo ve skupinách a někdy v čarodějných kruzích. Je původní v celé Evropě, kde je hojnější na jihu a v horách, a je hlášena z jihozápadního Turecka, Číny, Japonska a mírného pásma Severní Ameriky.",
+          "cap": "Klobouk má v průměru 5–15 cm, někdy jen 3 cm a vzácně až 20 cm. Začíná polokulovitý, zvoncovitý nebo široce kuželovitý, s dlouho podvinutým okrajem, později se zplošťuje, často s širokým nízkým hrbolem a vlnitým nebo laločnatým okrajem. Základní barva je bělavá, stříbřitě šedá, krémově šedá nebo bledě okrová. Tmavě šedé, šedohnědé, sépiové nebo černavé šupiny leží v soustředných kruzích, směrem ke středu větší a k okraji jemnější. Povrch je suchý a pokožka se špatně loupe. Může mírně přesahovat přes lupeny. Pokožku tvoří cutis až trichoderm válcovitých hyf širokých 2–9 μm, s kyjovitými konci širokými až 11 μm, svázanými v šupinách. Pigment je vnitřní i inkrustující a inkrustace je silnější směrem k subcutis. Přezky jsou přítomny.",
+          "hymenium": "Lupeny jsou vykrojené, často s malým zoubkem, ačkoli některé popisy je uvádějí jako volné. Hustota kolísá od řídkých po husté a nejčastěji jsou středně husté. Jsou tlusté a široké až asi 12 mm, s hojnými zkrácenými lupínky. Zpočátku jsou bílé, pak krémové nebo matně šedé, někdy se žlutým, olivovým nebo nazelenalým nádechem, a ostří může být zubaté. Za vlhkého počasí ostří často roní čiré vodnaté kapky, stejně jako horní část třeně. Bazidie jsou válcovité až kyjovité, převážně čtyřvýtrusé a někdy dvouvýtrusé, o rozměrech asi 39–50 × 8–9,6 μm. Chloupky na ostří lupenů jsou řídké a podobají se bazidiolám nebo jsou nepravidelně tvarované. Cystidy na ploše lupenů chybí.",
+          "stipe": "Třeň je 3–12 cm vysoký, vzácně až 15 cm, a 1,5–4 cm tlustý. Je plný a robustní, válcovitý, kyjovitý nebo hlízovitý, někdy vřetenovitý, na bázi často dvakrát tlustší než na vrcholu. Prsten chybí. Povrch je bílý, krémový, světle šedý nebo světle hnědý, jemně vláknitý až sametový a někdy jemně plstnatý nebo slabě tečkovaný. Na vrcholu se v mládí mohou objevovat vodnaté kapky. Báze se při otlačení nebo stářím zbarvuje okrově, špinavě hnědě nebo žlutě a může mít mírně růžovohnědý nádech.",
+          "flesh": "Dužnina je tlustá a pevná. Je bělavá, pod pokožkou klobouku našedlá a ve spodní části třeně nažloutlá až rezavá, kde bývá někdy růžová. Na řezu barvu nemění, kromě zmíněné báze. Vůně je moučná, jako čerstvá mouka, a u některých plodnic travnatá, zemitá nebo spermatická, zpočátku slabá a později nepříjemná. Chuť je mírná a moučná. Pod ultrafialovým světlem dužnina fluoreskuje lila fialově.",
+          "sporePrint": "Bílý. Výtrusy jsou elipsoidní až vejčité, vzácně téměř kulovité, hladké a hyalinní, s výrazným apikulem, neamyloidní, 7,5–10 × 5–7 μm, se záznamy až 12 × 8 μm. Poměr délky k šířce je asi 1,2–1,7, obvykle kolem 1,3–1,5.",
+          "habitat": "Plodnice vyrůstají od srpna do října a nálezy sahají od května do listopadu. Je ektomykorhizní na vápnitých nebo jinak zásaditých půdách, jednotlivě, ve skupinách nebo v kruzích, pod bukem, jedlí, smrkem a dubem, častěji ve vyšších polohách. V pohoří Jura může být hojná. Z Nizozemska ani z Britských ostrovů hlášena nebyla. Na Slovensku plodí od srpna do října v listnatých a smíšených lesích, pod bukem a někdy pod dubem, smrkem či jedlí. V České republice je vzácná, hlavně s bukem a jedlí. V Polsku je častá pouze na vápnitých nebo zásaditých půdách, pod bukem a pod smrkem a jedlí, v létě a na podzim. V Německu je roztroušená, především na jihu a v jižním Meklenbursku. V Severní Americe se toto jméno používá pro severskou a horskou houbu s jehličnany a také pro pobřežní kalifornskou houbu s litokarpem, planikou a dubem zpeřeným, což nemusí být tentýž druh. Plodnice pod tímto pobřežním jménem se objevují i v zimě. Některé horské zprávy ze západních pohoří mohou patřit druhu Tricholoma smithii.",
+          "uses": "Požití i v malém množství způsobuje těžkou gastroenteritidu. Nevolnost, závratě, zvracení, průjem, křeče v břiše, pocení a úzkost začínají asi po půl hodině až dvou hodinách. Akutní onemocnění trvá často dvě až šest hodin a zotavení obvykle trvá čtyři až šest dní. Byly zaznamenány křeče v lýtkách a poruchy jaterních funkcí, ačkoli trvalé poškození nebývá obvyklým následkem. Při jednom společném jídle dva klobouky těžce otrávily sedm lidí a kočku. Toxin je neznámý. Způsobuje zánět sliznice žaludku a střev. Úmrtí v důsledku oběhového selhání a dehydratace není vyloučeno a smrtelné případy jsou výjimečné.",
+          "confusion": "Záměna je možná s jedlou čirůvkou zemní (Tricholoma terreum), která je mnohem menší a křehčí, má klobouk široký 3–8 cm bez velkých soustředných šupin, tenčí třeň a roste především pod borovicemi bez moučného zápachu. Čirůvka šupinkatá (Tricholoma atrosquamosum) má drobnější šupinky na klobouku i třeni a výraznou kořenitou vůni. Čirůvka stříbrošedá (Tricholoma argyraceum) má světlejší šupinky a žloutnoucí dužninu. Nebezpečná je také záměna s jedlou čirůvkou havelkou (Tricholoma portentosum), která má žlutavé tóny na klobouku a třeni a radiálně vláknitý, nešupinatý povrch klobouku.",
+          "notes": "V České republice je zařazena v Červeném seznamu hub jako kriticky ohrožený druh (CR) vápnitých půd a vázána zejména na zachovalé horské bučiny a jedlobučiny."
+    },
       en: {
         description: "A large fleshy ectomycorrhizal mushroom of calcareous broadleaf and conifer woodland, growing alone or in groups and sometimes in rings. It is native across Europe, where it is more common in the south and in the mountains, and it is reported from south-western Turkey, China, Japan, and temperate North America.",
         cap: "The cap is 5–15 cm across, sometimes only 3 cm and occasionally as much as 20 cm. It starts hemispherical, bell-shaped, or broadly conical, with the margin long inrolled, and later flattens, often with a broad low umbo and a wavy or lobed edge. The ground colour is whitish, silvery grey, cream-grey, or pale ochre. Dark grey, grey-brown, sepia, or blackish scales lie in concentric rings, larger toward the centre and finer toward the margin. The surface is dry, and the skin is hard to peel. It can extend a little past the gills. The cuticle is a cutis to a trichoderm of cylindrical hyphae 2–9 μm wide, with club-shaped tips up to 11 μm wide, bundled in the scales. The pigment is both internal and incrusting, and the incrustation is stronger toward the subcutis. Clamp connections are present.",
@@ -11103,6 +13714,30 @@ export const CATALOG = [
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Tiger-Ritterling"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
+      cs: [
+          {
+                "group": "text",
+                "name": "Česká mykologická společnost",
+                "href": "https://www.myko.cz/myko-atlas/Tricholoma-pardinum/"
+          },
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://cs.wikipedia.org/wiki/Čirůvka_tygrovaná"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -11296,6 +13931,8 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 11,
     label: {
+      de: "Riesenbovist",
+      cs: "pýchavka obrovská",
       en: "giant puffball",
       sk: "vatovec obrovský"
     },
@@ -11303,6 +13940,30 @@ export const CATALOG = [
       sk: ["vatovec"]
     },
     text: {
+      de: {
+          "description": "Ein riesiger, kugelförmiger saprotropher Bauchpilz auf Wiesen, Weiden und Parkrasen. Er kann gigantische Ausmaße erreichen.",
+          "cap": "Der Fruchtkörper ist kugelig bis polsterförmig, 20–60 cm im Durchmesser (selten über 1 Meter) und bis über 10 kg schwer. Die Außenhülle ist glatt, lederartig, rein weiß, später gelbbraun aufreißend.",
+          "hymenium": "Die gesamte Sporenmasse (Gleba) reift im Inneren des Fruchtkörpers heran.",
+          "stipe": "Ein Stiel fehlt; der Fruchtkörper ist nur mit feinen Myzelsträngen im Boden verankert.",
+          "flesh": "Die Gleba ist jung rein weiß, fest und quarkähnlich; bei der Reife zerfällt sie in ein olivbraunes, staubendes Sporenpulver.",
+          "habitat": "Fruchtkörper erscheinen von Juli bis Oktober auf nährstoffreichen Wiesen, Weiden und Parkanlagen.",
+          "sporePrint": "Olivbraun. Die Sporen sind rundlich, fein warzig, 3,5–5,5 μm groß.",
+          "uses": "Jung essbar, solange das Fleisch vollkommen weiß und fest ist. Scheibenweise paniert wie Schnitzel gebraten ein beliebter Speisepilz.",
+          "confusion": "Der Hasen-Stäubling (Bovistella utriformis) ist mit 6–15 cm Durchmesser deutlich kleiner, birnen- bis beutelförmig, besitzt eine felderig aufreißende Außenhülle und einen sterilen Strunk. Der Beutel-Stäubling (Lycoperdon excipuliforme) besitzt eine warzige bis flockige Oberfläche und einen langen stielartigen Fuß. Die nordamerikanische Calvatia booniana kann über 60 cm erreichen, reißt jedoch in dicke polygonale Schuppen auf. Boviste der Gattung Bovista bleiben wesentlich kleiner. Der Dickschalige Kartoffelbovist (Scleroderma citrinum) ist viel kleiner, derb-knollig und sein Inneres färbt sich schon früh schwarzviolett mit weißer Marmorierung. Junge Knollenblätterpilze (Amanita) im Eistadium zeigen im Längsschnitt bereits Lamellen- und Stielanlagen.",
+          "notes": "Eine Beurteilung aus dem Jahr 2019 stuft die Art als nicht gefährdet (Least Concern) ein."
+    },
+      cs: {
+          "description": "Velmi nápadná, obrovská saprotrofní houba kulovitého až zploštěle vejčitého tvaru, rostoucí na travnatých stanovištích bohatých na živiny. Je rozšířená v mírném pásmu celého světa, zejména v Evropě a Severní Americe.",
+          "cap": "Plodnice je téměř kulovitá, zploštělá nebo vejčitá, o průměru 10–50 cm (někdy až 80 cm i více) a hmotnosti několika kilogramů (zaznamenány i kusy přes 10–20 kg). Vnější okurka (exoperidie) je zpočátku bílá, hladká, jemně kožovitá nebo sametová, později nažloutlá až kožově hnědá, která se postupně odlupuje v nepravidelných plátech a odhaluje vnitřní okurku (endoperidii). Ta se v dospělosti nepravidelně trhá a rozpadá, čímž uvolňuje obrovské množství výtrusů.",
+          "hymenium": "Výtrusorodé rouško tvoří vnitřek plodnice, tzv. gleba. V mládí je gleba čistě bílá, hustá, pevná a pružná. Později přechází přes žlutozelenou do olivově hnědé a v plné zralosti se mění v suchou, prachovitou hnědou hmotu prostoupenou vláknitým kapiliciem.",
+          "stipe": "Třeň chybí nebo je redukován na krátkou, zúženou a nařasenou bázi přirostlou k substrátu pomocí bílých myceliových provazců.",
+          "flesh": "Dužnina (gleba) je v mládí čistě bílá, jemná, kompaktní a masitá, s příjemnou houbovou vůní a mírnou chutí. Stárnutím měkne, žloutne a při vysychání se stává prachovitou a nepříjemně páchnoucí.",
+          "sporePrint": "Výtrusný prach je olivově hnědý až tmavě tabákově hnědý. Výtrusy jsou kulovité, hladké až jemně bradavčité, o průměru 3,5–5,5 μm.",
+          "habitat": "Roste od června do listopadu na loukách, pastvinách, v parcích, zahradách, na travnatých mezích, okrajích lesů a v křovinách, vždy na humózních půdách bohatých na dusík. Plodnice se objevují jednotlivě nebo v menších skupinách, někdy tvoří i velké čarodějné kruhy.",
+          "uses": "Vynikající jedlá houba, avšak ke sběru a konzumaci se hodí výhradně mladé plodnice s dokonale bílou, pevnou dužninou na řezu. Oblíbená je nakrájená na plátky a smažená jako řízek. Jakmile dužnina začne žloutnout nebo měknout, je nepoživatelná.",
+          "confusion": "Díky své obrovské velikosti a hladkému bílému povrchu je pýchavka obrovská v dospělosti prakticky nezaměnitelná. Mladé menší plodnice se mohou podobat jiným velkým pýchavkám, například pýchavce dlabané (Calvatia utriformis), která má však výrazně políčkovitě rozpukaný povrch a sterilní spodní část tvořící výraznou bázi, jež po rozpadu gleby vytrvává jako miska.",
+          "notes": "Jedna dospělá plodnice může vyprodukovat až několik bilionů (10^12) výtrusů, což z ní činí jeden z nejplodnějších organismů na Zemi. Látka kalvacin izolovaná z plodnic byla zkoumána pro své protinádorové účinky."
+    },
       en: {
         description: "A saprotrophic fungus of nutrient-rich meadows, pastures, and open ground. It is local in Britain and Ireland and occurs through temperate Europe, including Slovakia, from the Great Plains eastward in North America, where surveys have not found it in Arizona or Florida, and in parts of Asia and the southern hemisphere.",
         cap: "The fruit body is sessile, a slightly flattened or irregular globe, sometimes lobed or split down one side, and there is no distinct cap. It is commonly 10–50 cm across. Fruit bodies over 50 cm are not rare, and the usual upper size is about 80 cm. Published extremes include a diameter of 150 cm and a weight of 23.3 kg, and weights above 20 kg are on record. The outer skin is thin, smooth, and leathery. Measurements of it run from under 1 mm to about 2–3 mm. It is finely velvety when young and later bald, sometimes with only faint scales. The colour is white at first, then cream or yellowish, and in age greenish yellow, olive-brown, reddish brown, or dark brown. The top cracks into irregular patches. The thin inner skin is fragile and breaks up, and the outer skin falls away in pieces. The base may be wrinkled.",
@@ -11329,6 +13990,30 @@ export const CATALOG = [
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Riesenbovist"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
+      cs: [
+          {
+                "group": "text",
+                "name": "Česká mykologická společnost",
+                "href": "https://www.myko.cz/myko-atlas/Calvatia-gigantea/"
+          },
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://cs.wikipedia.org/wiki/Pýchavka_obrovská"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -11512,6 +14197,8 @@ export const CATALOG = [
     fruitingFrom: 8,
     fruitingTo: 12,
     label: {
+      de: "Nebelgrauer Trichterling",
+      cs: "strmělka mlženka",
       en: "clouded funnel",
       sk: "strmuľka inovaťová"
     },
@@ -11519,6 +14206,30 @@ export const CATALOG = [
       en: ["clouded agaric", "cloudy clitocybe", "cloud funnel", "clouded funnel cap"]
     },
     text: {
+      de: {
+          "description": "Ein sehr häufiger, stattlicher saprotropher Spätherbstpilz in der Laub- und Nadelstreu. Bildet oft riesige Hexenringe.",
+          "cap": "Der Hut ist 6–18 cm breit, aschgrau bis graubraun, weißlich bereift, fleischig gewölbt mit eingerolltem Rand, später ausgebreitet.",
+          "hymenium": "Die Lamellen sind cremeweiß bis blassgelblich, dicht stehend, leicht am Stiel herablaufend und leicht vom Hutfleisch lösbar.",
+          "stipe": "Der Stiel ist 6–12 cm lang und 1,5–3,5 cm dick, keulig, weißlich-faserig, voll, später schwammig.",
+          "flesh": "Das Fleisch ist dick, weiß, fest. Geruch intensiv süßlich-würzig (aufdringlich), Geschmack schwach säuerlich.",
+          "habitat": "Fruchtkörper erscheinen von September bis November in Laub- und Nadelwäldern in dicken Streuschichten.",
+          "sporePrint": "Cremegelb. Die Sporen sind ellipsoid, glatt, 6–8 × 3,5–5 μm groß.",
+          "uses": "Bedingt essbar, wird heute jedoch nicht mehr empfohlen. Er enthält Nebularin und kann individuelle Magen-Darm-Vergiftungen auslösen.",
+          "confusion": "Verwechslungsmöglichkeit mit dem giftigen Riesen-Rötling (Entoloma sinuatum), der rosa Lamellen und eckige Sporen besitzt.",
+          "notes": "Das hitzelabile Toxin Nebularin besitzt antibakterielle Eigenschaften."
+    },
+      cs: {
+          "description": "Hojná, velká a masitá saprotrofní houba pozdního podzimu, rostoucí v bohatých vrstvách opadu v jehličnatých i listnatých lesích. Je rozšířená v mírném pásmu celé severní polokoule.",
+          "cap": "Klobouk má 5–20 cm v průměru, nejprve polokulovitý s podvinutým okrajem, později klenutý až ploše rozprostřený, uprostřed někdy mírně prohloubený. Barva je popelavě šedá, šedohnědá až šedobělavá, v mládí často pokrytá jemným bělavým ojíněním (odtud název mlženka). Za sucha bledne do krémově šedé.",
+          "hymenium": "Lupeny jsou husté, úzké, mírně sbíhavé na třeň nebo připojené, snadno oddělitelné od dužniny klobouku. Zpočátku jsou bělavé, později krémové až žlutavé.",
+          "stipe": "Třeň je 6–12 cm vysoký a 1,5–4 cm tlustý, válcovitý, směrem k bázi často kyjovitě rozšířený, plný, později vatovitě vycpaný. Je bělavý, podélně světle šedavě vláknitý, na bázi obalený bílou plstí mycelia poutajícího tlející listí a jehličí.",
+          "flesh": "Dužnina je tlustá, pevná, bílá a neměnná. Má velmi nápadnou, pronikavou a specifickou sladce aromatickou až mírně zatuchlou vůni a mírnou chuť.",
+          "sporePrint": "Bělavý až světle krémový. Výtrusy jsou elipsoidní, hladké, bezbarvé, 6–8 × 3,5–5 μm.",
+          "habitat": "Roste od září do prosince, často až do prvních mrazů, v jehličnatých, listnatých i smíšených lesích, parcích a křovinách, v silné vrstvě tlejícího opadu. Vyskytuje se často v početných skupinách, řadách nebo velkých čarodějných kruzích.",
+          "uses": "Uváděna jako jedlá s výhradou. Má velmi silné aroma, které ne každému vyhovuje, a u citlivých osob může vyvolat žaludeční nevolnost. Vyžaduje důkladnou tepelnou úpravu (alespoň 20 minut) a předvaření s odlitím vody. Často se nakládá do octa.",
+          "confusion": "Může dojít k nebezpečné záměně se smrtelně jedovatou závojenkou olovovou (Entoloma sinuatum), která však roste dříve (v létě a časném podzimu) v teplých listnatých lesích pod duby a buky, má v dospělosti růžové lupeny a moučnou vůni. Záměna je možná i s jedlou strmělkou velikou (Infundibulicybe geotropa), která má trychtýřovitý klobouk s výrazným středovým hrbolem a světlejší okrovou barvu.",
+          "notes": "Obsahuje látku nebularin, která má antibiotické a cytostatické účinky. Na plodnicích strmělky mlženky často parazituje drobná rovetka pýchavkovitá (Asterophora lycoperdoides) nebo rovetka cizopasná (Asterophora parasitica)."
+    },
       en: {
         description: "A fleshy saprobic mushroom of leaf litter in conifer and broadleaf woods, often in rings or troops. It is widespread in Europe from the Mediterranean and North Africa to the Arctic Circle and east to Belarus, and it is reported from North America and Japan and introduced in New Zealand.",
         cap: "The cap is commonly 5–20 cm across. Published widths also run from 5 cm to 25 cm, and a Californian account gives 4–30 cm. It begins convex, sometimes conical, with an inrolled margin, then becomes flat, wavy, or slightly depressed, and it may turn shallowly funnel-shaped while the margin stays downturned. A broad umbo is occasional, and the margin can become lobed with age. The surface is dry to moist, smooth or matte, and radially fibrillose, and it is not hygrophanous. In wet weather it can feel slightly greasy. Young caps carry a whitish bloom over the whole surface, and the bloom later remains only at the centre. The colour is cloud grey, ash grey, or grey-brown, usually paler toward the margin, from beige to nearly white. Wet weather darkens it to grey or grey-brown, and dry weather fades it to pale grey or whitish grey-brown. Some fruit bodies are whitish from the start. The thin skin peels as far as the centre. The cap skin is a cutis of branching hyphae about 1.5–7 μm wide, with clamp connections, and some cells carry brown pigment. Potassium hydroxide does not change the colour of the cap.",
@@ -11545,6 +14256,30 @@ export const CATALOG = [
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Nebelgrauer_Trichterling"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
+      cs: [
+          {
+                "group": "text",
+                "name": "Česká mykologická společnost",
+                "href": "https://www.myko.cz/myko-atlas/Clitocybe-nebularis/"
+          },
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://cs.wikipedia.org/wiki/Strmělka_mlženka"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -11740,6 +14475,8 @@ export const CATALOG = [
     fruitingFrom: 1,
     fruitingTo: 12,
     label: {
+      de: "Schmetterlings-Tramete",
+      cs: "outkovka pestrá",
       en: "turkey tail",
       sk: "trúdnikovec pestrý"
     },
@@ -11747,6 +14484,30 @@ export const CATALOG = [
       en: ["turkeytail", "many-zoned polypore"]
     },
     text: {
+      de: {
+          "description": "Ein extrem häufiger holzzersetzender Porling an totem Laubholz. Berühmt für seine vielfarbigen, samtigen Zuwachszonen und medizinische Nutzung.",
+          "cap": "Die flachen Hüte sind 3–10 cm breit, fächer- oder rosettenförmig, dünn, konzentrisch gezont in Grau-, Braun-, Blau-, Schwarz- und Gelbtönen mit weißem Rand, fein samtig behaart.",
+          "hymenium": "Die Unterseite trägt weiße bis cremefarbene Poren (3–5 pro Millimeter) mit kurzen Röhren.",
+          "stipe": "Stiellos; seitlich dachziegelig dem Substrat angewachsen.",
+          "flesh": "Das Fleisch ist weiß, zäh, lederig. Geruch pilzig.",
+          "habitat": "Ganzjährig an abgestorbenen Stämmen und Stümpfen von Laubbäumen, besonders Buche, Eiche und Birke.",
+          "sporePrint": "Weiß. Die Sporen sind zylindrisch, leicht gekrümmt, glatt, 5–6 × 1,5–2,5 μm groß.",
+          "uses": "Ungenießbar da holzig-zäh. Als Heilpilz (Coriolus versicolor, Yun Zhi) in der traditionellen Medizin zur Immunstärkung geschätzt.",
+          "confusion": "Andere Trametenarten wie Trametes ochracea oder Lenzites betulina (mit lamelligem Hymenophor) sind ähnlich.",
+          "notes": "Polysaccharid K (PSK) aus diesem Pilz wird in Japan als Adjuvans in der Krebstherapie eingesetzt."
+    },
+      cs: {
+          "description": "Velmi hojná dřevokazná stopkovýtrusá houba tvořící jednoleté, tenké, vějířovité plodnice se soustředně páskovaným povrchem. Roste celosvětově na tlejícím dřevě listnáčů a je významná v tradiční medicíně.",
+          "cap": "Klobouky jsou ploché, vějířovité až polokruhovité, 2–10 cm široké a pouze 1–5 mm tlusté, bokem přirostlé k substrátu, často střechovitě uspořádané nad sebou nebo srostlé do rozsáhlých trsů. Svrchní povrch je sametově chlupatý, lesklý a nápadně soustředně pásovaný s měnícími se barvami: od rezavě hnědé, okrové, šedé, černé až po modravé a žlutavé odstíny, s bílým nebo světle krémovým okrajem.",
+          "hymenium": "Rourky jsou velmi krátké, 1–3 mm dlouhé, s drobnými póry (3–5 na mm), zpočátku bílé až světle krémové, ve stáří žloutnoucí až našedlé. Při otlačení nemění barvu.",
+          "stipe": "Třeň chybí; plodnice přirůstají přímo k dřevu bázi nebo bokem.",
+          "flesh": "Dužnina je tenká (1–3 mm), tuhá, kožovitá až korkovitá, bílá nebo světle krémová, s nevýraznou vůní a chutí.",
+          "sporePrint": "Bílý. Výtrusy jsou válcovité, mírně prohnuté (alantoidní), hladké, bezbarvé, 5–7 × 1,5–2,5 μm.",
+          "habitat": "Roste po celý rok na mrtvém dřevě listnáčů (pařezech, kmenech, větvích), zejména buků, dubů a bříz, velmi vzácně i na jehličnanech. Plodnice vytrvávají i přes zimu.",
+          "uses": "Nejedlá houba pro svou tuhou, kožovitou konzistenci. Je však vysoce ceněna v tradiční medicíně (v Asii známá jako Yun Zhi) pro obsah polysacharidopeptidů (PSP a PSK / krestin), které mají imunomodulační a protinádorové účinky.",
+          "confusion": "Podobná je outkovka pásovaná (Trametes ochracea), která má tlustší plodnice na bázi (trojúhelníkovitý profil) a méně kontrastní okrové tóny bez modrých či černých pásů. Outkovka sametová (Trametes pubescens) je světlá, krémově bílá a bez výrazných barevných pásů. Pevník chlupatý (Stereum hirsutum) má hladké spodní rouško bez rourek a pórů.",
+          "notes": "Způsobuje intenzivní bílou hnilobu dřeva díky schopnosti rozkládat lignin enzymy lakkázami a peroxidázami."
+    },
       en: {
         description: "A thin annual white-rot bracket of hardwood, saprotrophic on dead wood and sometimes a weak parasite of living trees. It is probably worldwide, and it is common through Europe from Scandinavia to the Mediterranean, including Britain and Ireland, and through Asia, North America, and Australia.",
         cap: "The fruit body is annual and sessile, fan-shaped, semicircular, kidney-shaped, or rosette-like. Caps often fuse side by side and in tiers. The attachment may narrow, or the cap may run a short way down the wood. Young fruit bodies are rarely effused-reflexed, and a very young one can be a lumpy crust. The width is commonly 2–8 cm and reaches about 10 cm, though many central-European fruit bodies stay within 2–6 cm. The depth is about 1–4 cm. The cap is about 1–3 mm thick, and the flesh at the attachment is up to about 3 mm. It is flexible when fresh. The surface is finely velvety to hairy, with hairy zones alternating with smoother, silky, or glossy ones. The zones run through white, cream, ochre, yellow, cinnamon, rust, brown, grey, blue-grey, blue, and black, and sometimes orange or olive. The margin is paler, whitish to ochre when young, wavy, and thin. Older fruit bodies blacken, and they are often greened by algae. Green is also reported as a zone colour.",
@@ -11773,6 +14534,30 @@ export const CATALOG = [
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Schmetterlings-Tramete"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
+      cs: [
+          {
+                "group": "text",
+                "name": "Česká mykologická společnost",
+                "href": "https://www.myko.cz/myko-atlas/Trametes-versicolor/"
+          },
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://cs.wikipedia.org/wiki/Outkovka_pestrá"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -11992,6 +14777,8 @@ export const CATALOG = [
     fruitingFrom: 4,
     fruitingTo: 11,
     label: {
+      de: "Kiefern-Steinpilz",
+      cs: "hřib borový",
       en: "pine bolete",
       sk: "hríb sosnový"
     },
@@ -12007,6 +14794,30 @@ export const CATALOG = [
       ]
     },
     text: {
+      de: {
+          "description": "Ein prächtiger ektomykorrhizabildender Dickröhrling unter Kiefern. Heimisch in borealen und montanen Kiefernwäldern Europas.",
+          "cap": "Der Hut ist 6–30 cm breit, rotbraun, kastanienbraun bis weinrötlich, uneben-runzelig, feucht klebrig, mit feinem rosa Hauch am Rand.",
+          "hymenium": "Die Röhren sind jung weiß, dann gelb und schließlich olivgrün. Poren klein, verfärben sich auf Druck bräunlich.",
+          "stipe": "Der Stiel ist 7–16 cm lang und 3–10 cm dick, wuchtig keulig bis bauchig, rötlich-braun überlaufen, mit einem feinen hellen Netz bedeckt.",
+          "flesh": "Das Fleisch ist weiß, fest, unter der Huthaut charakteristisch weinrötlich gefärbt. Geruch und Geschmack angenehm mild und nussig.",
+          "habitat": "Fruchtkörper erscheinen von Mai bis November in lichten Kiefernwäldern auf sauren, sandigen Böden.",
+          "sporePrint": "Olivbraun. Die Sporen sind spindelig, glatt, 13–21 × 3,5–6,5 μm groß.",
+          "uses": "Ein hervorragender Speisepilz von gleicher Qualität wie der Gemeine Steinpilz.",
+          "confusion": "Der Gemeine Steinpilz (Boletus edulis) hat einen helleren, glatten Hut ohne weinrötliche Töne. Der Sommer-Steinpilz (Boletus reticulatus) wächst bei Laubbäumen.",
+          "notes": "Eine Beurteilung aus dem Jahr 2019 stuft die Art als nicht gefährdet (Least Concern) mit stabilem Bestand ein."
+    },
+      cs: {
+          "description": "Velký, masitý a velmi ceněný ektomykorhizní druh z okruhu hřibu smrkového, význačný hrbolkatým, tmavě červenohnědým až vínově hnědým kloboukem. Vyskytuje se v jehličnatých a smíšených lesích mírného pásma Evropy.",
+          "cap": "Klobouk má průměr 6–25 cm, v mládí polokulovitý, později klenutý až ploše rozprostřený. Povrch je nápadně nerovný, hrbolkatý až vrásčitý, v mládí jemně bělavě ojíněný, suchý, za vlhka lepkavý. Barva je sytě červenohnědá, vínově hnědá, kaštanová až čokoládově hnědá, často s fialovým nádechem.",
+          "hymenium": "Rourky jsou 10–25 mm dlouhé, u třeně vykrojené, zpočátku bělavé, později žluté až žlutozelené a ve stáří olivově zelené. Póry jsou drobné, okrouhlé, zbarvené stejně jako rourky, v mládí na okraji klobouku někdy mírně hnědavě naběhlé, po otlačení nemění barvu.",
+          "stipe": "Třeň je 7–18 cm vysoký a 3–8 cm tlustý, v mládí břichatý až soudkovitý, později válcovitý až kyjovitý, velmi masitý a pevný. Povrch je okrově hnědavý až červenohnědý, pokrytý jemnou bělavou až hnědavou síťkou, která je nejvýraznější v horní polovině.",
+          "flesh": "Dužnina je bílá, pevná, pod pokožkou klobouku vínově načervenalá až hnědočervená. Na řezu nemění barvu. Chuť i vůně jsou příjemně houbové a nasládlé.",
+          "sporePrint": "Olivově hnědý. Výtrusy jsou vřetenovité, hladké, žlutohnědé, o rozměrech 14–18 × 4,5–6 μm.",
+          "habitat": "Plodí od května do listopadu (s maximem na jaře a počátkem podzimu) pod borovicemi na písčitých a kyselých půdách, vzácněji i pod smrky nebo buky ve vyšších polohách.",
+          "uses": "Výborná jedlá houba špičkové kvality, všestranně kulinářsky využitelná k sušení, dušení i do polévek a omáček.",
+          "confusion": "Záměna je možná s hřibem smrkovým (Boletus edulis), který má světlejší hnědý klobouk s bílým lemem a bílou dužninu pod pokožkou. Hřib dubový (Boletus reticulatus) má světlejší, šedookrový až plavý sametový klobouk a výraznou síťku po celém třeni. Nejedlý hřib žlučník (Tylopilus felleus) má růžovějící póry, hrubou tmavou síťku a odporně hořkou chuť.",
+          "notes": "V České republice je hřib borový zařazen v Červeném seznamu hub jako téměř ohrožený druh (NT) a zasluhuje si ochranu stanovišť."
+    },
       en: {
         description: "An ectomycorrhizal mushroom of temperate and boreal pine woods. It is common and locally abundant throughout Europe, and it is reported from Asia. In Britain it is more frequent in mature Scots pine forests in Scotland than in plantations farther south. In southern Europe it is more a mountain species.",
         cap: "The cap is commonly 6–30 cm across and can reach about 40 cm. It is hemispherical at first, then convex to thickly cushion-shaped, and finally almost flat. The colour is dark reddish brown to vinaceous or maroon, without a yellow band at the margin. The margin is pink or pale pink, sometimes with a purple tint, and on a young cap it may be pale pink with a white powdery flush. The surface is lumpy and often wrinkled, only weakly felty or bald, dry to slightly greasy, and viscid or slightly slimy in wet weather. The cuticle is thicker and more gelatinous than in Boletus edulis, Boletus reticulatus, and Boletus aereus, and at maturity it overhangs the tubes slightly.",
@@ -12033,6 +14844,30 @@ export const CATALOG = [
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Kiefern-Steinpilz"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
+      cs: [
+          {
+                "group": "text",
+                "name": "Česká mykologická společnost",
+                "href": "https://www.myko.cz/myko-atlas/Boletus-pinophilus/"
+          },
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://cs.wikipedia.org/wiki/Hřib_borový"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -12197,6 +15032,8 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 12,
     label: {
+      de: "Schönfuß-Röhrling",
+      cs: "hřib kříšť",
       en: "bitter beech bolete",
       sk: "hríb červený"
     },
@@ -12205,6 +15042,30 @@ export const CATALOG = [
       sk: ["červienka"]
     },
     text: {
+      de: {
+          "description": "Ein ektomykorrhizabildender Dickröhrling in Nadel- und Laubwäldern, besonders in den Gebirgen Europas. Trotz seiner prächtigen Farben ungenießbar.",
+          "cap": "Der Hut ist 3–20 cm breit (selten bis 25 cm), blassbraun, ledergrau bis lehmfarben, matt-filzig, polsterförmig gewölbt.",
+          "hymenium": "Die Röhren sind zitronengelb bis olivgelb, im Schnitt blauend. Die Poren sind klein, rund, zitronengelb und verfärben sich auf Druck blaugrün.",
+          "stipe": "Der Stiel ist 3–15 cm lang und 1–5 cm dick, keulig bis bauchig, oben zitronengelb, darunter karminrot bis purpurrot, mit einem deutlichen hellen Netz überzogen.",
+          "flesh": "Das Fleisch ist weißlich bis blassgelb, im Anschnitt langsam blauend. Geruch schwach säuerlich, Geschmack nach kurzer Zeit intensiv bitter.",
+          "habitat": "Fruchtkörper erscheinen von Juli bis Oktober in sauren montanen Nadelwäldern unter Fichten sowie in Buchenwäldern.",
+          "sporePrint": "Olivbraun. Die Sporen sind spindelig, glatt, 12–16 × 4–6 μm groß.",
+          "uses": "Ungenießbar und schwach giftig. Schon ein kleiner Pilz verdirbt durch seine bittere Schärfe jedes Pilzgericht und kann Magen-Darm-Beschwerden auslösen.",
+          "confusion": "Der Wurzelnde Bitterröhrling (Caloboletus radicans) hat keinen roten Stiel und wächst in warmen Laubwäldern. Der giftige Satans-Röhrling (Rubroboletus satanas) hat blutrote Poren.",
+          "notes": "Die gelben Poren in Verbindung mit dem roten Stielnetz und dem bitteren Geschmack sind typisch."
+    },
+      cs: {
+          "description": "Nápadný, masitý ektomykorhizní hřib s popelavě šedým kloboukem a dvoubarevným žlutočerveným třeněm, rostoucí převážně v podhorských a horských jehličnatých a smíšených lesích. Je nejedlý pro silně hořkou chuť.",
+          "cap": "Klobouk má 5–15 cm v průměru, polokulovitý, později klenutý. Povrch je suchý, matný, jemně plstnatý, v dospělosti olysalý. Barva je světle šedá, křídově bělavá, popelavá až šedohnědá, někdy s olivovým tónem.",
+          "hymenium": "Rourky jsou u třeně vykrojené, 8–18 mm dlouhé, citronově žluté až olivově žluté, na řezu rychle modrající. Póry jsou drobné, zaoblené, zpočátku sytě žluté, později žlutozelené, po otlačení okamžitě zelenomodrající.",
+          "stipe": "Třeň je 5–12 cm dlouhý a 2–5 cm tlustý, zpočátku soudkovitý, později kyjovitý nebo válcovitý. V horní části je citronově žlutý, ve střední a spodní části karmínově až krvavě červený. Celý povrch je pokryt výraznou plastickou bělavou až žlutavou síťkou, která ve spodní části přechází do červené.",
+          "flesh": "Dužnina je hustá, tvrdá, bělavá až světle žlutá, na řezu intenzivně modrající, zejména v klobouku a horní části třeně. Vůně je mírně nakyslá až nepříjemná, chuť je zpočátku mírná, ale vzápětí silně a trvale hořká.",
+          "sporePrint": "Olivově hnědý. Výtrusy jsou elipsoidně vřetenovité, hladké, 11–16 × 4,5–6 μm.",
+          "habitat": "Roste od července do října na kyselých půdách v podhorských a horských lesích, převážně pod smrky, jedlemi a buky.",
+          "uses": "Nejedlá houba pro nesnesitelně hořkou chuť dužniny, která se neztrácí ani dlouhým vařením. Jediná plodnice může znehodnotit celé jídlo.",
+          "confusion": "Záměna je možná s jedovatým hřibem satanem (Rubroboletus satanas), který však roste na vápencích v teplých listnatých lesích pod duby a má krvavě červené póry. Podobný nejedlý hřib medotrpký (Caloboletus radicans) má rovněž světlý klobouk a hořkou chuť, ale jeho třeň je celý žlutý bez červeného zbarvení a postrádá výraznou síťku.",
+          "notes": "Hořkou chuť způsobují specifické seskviterpenové sloučeniny calopiny."
+    },
       en: {
         description: "An ectomycorrhizal bolete of coniferous and broadleaf woods. It ranges across Europe from the Mediterranean to the north, chiefly in the temperate zone, and it is most frequent in the mountains. It is also recorded in the Caucasus, Turkey, Pakistan, Yunnan, Korea, and Taiwan. Reports from North America and Japan are disputed.",
         cap: "The cap is 3–20 cm across, and it occasionally reaches 25 cm. It starts hemispherical, with the margin inrolled for a long time and often irregularly wavy, and becomes convex or cushion-shaped. The disc can become flat, though some fruit bodies stay rounded into age. The surface is dry and matte, finely felted or downy when young and bald later, and it sometimes cracks or forms small scales at the centre. The colour runs from pale brown, clay brown, and milky coffee through smoky grey and grey-brown to olive-brown or yellowish brown, sometimes with an olive flush, and rarely with a reddish tint. The cuticle can overhang the margin.",
@@ -12231,6 +15092,30 @@ export const CATALOG = [
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Sch%C3%B6nfu%C3%9F-R%C3%B6hrling"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
+      cs: [
+          {
+                "group": "text",
+                "name": "Česká mykologická společnost",
+                "href": "https://www.myko.cz/myko-atlas/Caloboletus-calopus/"
+          },
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://cs.wikipedia.org/wiki/Hřib_kříšť"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -12430,6 +15315,8 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 10,
     label: {
+      de: "Ziegenlippe",
+      cs: "hřib plstnatý",
       en: "suede bolete",
       sk: "suchohríb plstnatý"
     },
@@ -12443,6 +15330,30 @@ export const CATALOG = [
       sk: ["hríb plstnatý", "suchohríb plstený"]
     },
     text: {
+      de: {
+          "description": "Ein häufiger ektomykorrhizabildender Filzröhrling in Laub- und Nadelwäldern. Er zeichnet sich durch einen samtigen Hut und weite, leuchtend gelbe Poren aus.",
+          "cap": "Der Hut ist 3–12 cm breit, olivbraun, gelbbraun bis lederfarben, samtig-filzig, bei Trockenheit oft felderig aufreißend.",
+          "hymenium": "Die Röhren sind leuchtend gelb bis goldgelb. Die Poren sind auffallend weit, eckig und verfärben sich auf Druck kaum oder nur schwach grünblau.",
+          "stipe": "Der Stiel ist 4–10 cm lang und 1–2 cm dick, schlank zylindrisch, gelblich mit bräunlicher Riefung oder feinen rötlichen Fasern, ohne echtes Netz.",
+          "flesh": "Das Fleisch ist weißlich-gelblich, im Hut weich, im Stiel faserig, im Anschnitt kaum verfärbend. Geschmack mild.",
+          "habitat": "Fruchtkörper erscheinen von Juni bis November in Laub- und Nadelwäldern unter Eichen, Buchen, Kiefern und Fichten.",
+          "sporePrint": "Olivbraun. Die Sporen sind spindelig-ellipsoid, 10–14 × 4–5,5 μm groß.",
+          "uses": "Essbar und wohlschmeckend, solange die Exemplare jung und fest sind.",
+          "confusion": "Die Braune Ziegenlippe (Xerocomus ferrugineus) hat rostbraune Töne und gelbes Basismyzel. Der Rotfußröhrling (Xerocomellus chrysenteron) zeigt rote Töne unter der aufreißenden Huthaut.",
+          "notes": "Eine Beurteilung aus dem Jahr 2019 stuft die Art als nicht gefährdet (Least Concern) ein."
+    },
+      cs: {
+          "description": "Běžný ektomykorhizní druh z okruhu suchohřibů s plstnatým žlutohnědým kloboukem a širokými sírově žlutými póry, rostoucí v listnatých i jehličnatých lesích mírného pásma.",
+          "cap": "Klobouk má průměr 4–12 cm, polokulovitý, později sklenutý až rozprostřený. Povrch je suchý, jemně plstnatý až semišový, za sucha někdy políčkovitě rozpukaný. Barva kolísá od žlutohnědé přes olivově hnědou až po okrově hnědou.",
+          "hymenium": "Rourky jsou 6–15 mm dlouhé, u třeně připojené až mírně sbíhavé, živě sírově žluté až žlutozelené. Póry jsou nápadně široké, nepravidelně hranaté, zbarvené stejně jako rourky, po otlačení obvykle neměnné nebo jen slabě a pomalu modrozelenající.",
+          "stipe": "Třeň je 4–10 cm dlouhý a 1–2,5 cm tlustý, válcovitý nebo směrem k bázi zúžený. Barva je žlutavá až světle okrová, na povrchu často s podélnými rezavě hnědými žilkami nebo žebry tvořícími hrubou protáhlou síťku.",
+          "flesh": "Dužnina je bělavá až světle krémově žlutá, v bázi třeně často nahnědlá, na řezu neměnná nebo v klobouku jen nepatrně modrající. Vůně je příjemná, slabě houbová, chuť jemná a mírná.",
+          "sporePrint": "Olivově hnědý. Výtrusy jsou elipsoidně vřetenovité, hladké, 10–14 × 4–5,5 μm.",
+          "habitat": "Plodí od června do listopadu v listnatých i jehličnatých lesích pod duby, buky, lipami, smrky a borovicemi, často na okrajích cest a lesních světlinách.",
+          "uses": "Dobrá jedlá houba vhodná k nejrůznějšímu kuchyňskému zpracování, zejména do směsí a polévek.",
+          "confusion": "Podobný hřib osikový (Xerocomus ferrugineus) má rezavě hnědý klobouk, jasně žluté bazální mycelium a jeho dužnina na řezu vůbec nemodrá. Suchohřib sametový (Xerocomellus pruinatus) má tmavší hnědý klobouk s vínovým podkladem a žlutou dužninu, která na řezu pomalu modrá. Hřib žlutomasý neboli babka (Xerocomellus chrysenteron) má klobouk políčkovitě rozpukaný s červenavou vrstvičkou pod pokožkou.",
+          "notes": "Při reakci s čpavkem (NH3) se pokožka klobouku barví charakteristicky mahagonově červeně."
+    },
       en: {
         description: "An ectomycorrhizal bolete of broadleaf and mixed woods. It is widespread in Europe, common in the lowlands and hills and infrequent in Britain and Ireland, and it is reported from Asia, North America, Australia, Morocco under cork oak, and western Greenland with downy birch.",
         cap: "The cap is typically 3–12 cm across, and exceptionally about 20 cm. It starts hemispherical, then becomes convex to flat, often with a wavy margin. The surface is dry and velvety or felty, later smoother, and in dry weather it cracks to yellowish or whitish flesh. The colour runs from olive and yellow-olive through ochre and tan to brown, and some caps are brick red, bright yellow, or red. The cuticle is hard to peel. Ammonia or potassium hydroxide turns it mahogany red at once. It is described both as a palisadoderm of septate cylindrical cells, smooth or nearly smooth, and as a fibrous trichoderm.",
@@ -12469,6 +15380,30 @@ export const CATALOG = [
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Ziegenlippe"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
+      cs: [
+          {
+                "group": "text",
+                "name": "Česká mykologická společnost",
+                "href": "https://www.myko.cz/myko-atlas/Xerocomus-subtomentosus/"
+          },
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://cs.wikipedia.org/wiki/Hřib_plstnatý"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -12648,6 +15583,8 @@ export const CATALOG = [
     fruitingFrom: 5,
     fruitingTo: 11,
     label: {
+      de: "Birken-Rotkappe",
+      cs: "křemenáč březový",
       en: "orange birch bolete",
       sk: "kozák žltooranžový"
     },
@@ -12655,6 +15592,30 @@ export const CATALOG = [
       en: ["dark-stalked bolete"]
     },
     text: {
+      de: {
+          "description": "Ein beliebter ektomykorrhizabildender Raufußröhrling, der streng an Birken gebunden ist. Typisch sind der orangerote Hut und die von Jugend an schwarzen Stielschuppen.",
+          "cap": "Der Hut ist 6–20 cm breit, leuchtend gelborange bis orangerot, samtig-filzig, polsterförmig mit überhängendem Huthautrand.",
+          "hymenium": "Die Röhren sind cremeweiß, später graubraun, tief um den Stiel ausgebuchtet. Poren fein, verfärben sich auf Druck graubraun.",
+          "stipe": "Der Stiel ist 8–20 cm lang und 2–4 cm dick, kräftig, weißlich, von Jugend an dicht besetzt mit tiefschwarzen Schuppen.",
+          "flesh": "Das Fleisch ist weiß, läuft im Anschnitt zunächst grauviolett, dann schwarzblau bis tiefschwarz an. Geschmack mild.",
+          "habitat": "Fruchtkörper erscheinen von Juni bis Oktober unter Birken auf sauren, moorigen oder sandigen Böden.",
+          "sporePrint": "Olivbraun. Die Sporen sind spindelig, glatt, 12–16 × 4–5 μm groß.",
+          "uses": "Ein hervorragender Speisepilz, der jedoch gut durchgegart werden muss, da er roh unbekömmlich ist. Das Fleisch schwärzt beim Kochen.",
+          "confusion": "Die Laubwald-Rotkappe (Leccinum aurantiacum) wächst bei Eichen und Buchen und hat zunächst rotbraune Stielschuppen. Die Weißstielige Rotkappe (Leccinum albostipitatum) wächst bei Espen.",
+          "notes": "Die schwarzen Stielschuppen von Jugend an und die strikte Bindung an Birken sind kennzeichnend."
+    },
+      cs: {
+          "description": "Vysoký, masitý a velmi vyhledávaný ektomykorhizní druh z čeledi hřibovitých s nápadně cihlově až oranžově červeným kloboukem a černě šupinatým třeněm, vázaný výhradně na břízy.",
+          "cap": "Klobouk má 5–20 cm v průměru, nejprve polokulovitý s okrajem těsně přitisknutým ke třeni, později klenutý až polštářovitý. Pokožka klobouku na okraji přesahuje přes rourky jako blanitý lem. Barva je zářivě oranžová, rezavě oranžová až cihlově červená, povrch je jemně plstnatý, v dospělosti olysalý.",
+          "hymenium": "Rourky jsou 10–25 mm dlouhé, hluboce vykrojené u třeně, bělavé až šedobílé, ve stáří šedookrové. Póry jsou drobné, okrouhlé, zpočátku bělavé, později šedavé, při otlačení zvolna šedofialovějící až černající.",
+          "stipe": "Třeň je 8–20 cm vysoký a 2–5 cm tlustý, válcovitý nebo směrem k bázi kyjovitě rozšířený, velmi pevný a tuhý. Je bělavý, hustě pokrytý drobnými odstálými šupinkami, které jsou v mládí šedé, ale velmi brzy černají.",
+          "flesh": "Dužnina je bílá, pevná, v třeni vláknitá až tuhá. Na řezu se barví nejprve do vínově růžové až šedofialové barvy a posléze šedne až černá, na bázi třeně často přechází do modrozelené. Vůně i chuť jsou nenápadné a příjemné.",
+          "sporePrint": "Okrově hnědý. Výtrusy jsou vřetenovité, hladké, světle hnědé, 13–17 × 4–5,5 μm.",
+          "habitat": "Roste od června do října pod břízami (často bříza bělokorá a bříza pýřitá) ve světlých lesích, na vřesovištích, rašeliništích i v parcích.",
+          "uses": "Výborná a velmi oblíbená jedlá houba. Pevná dužnina je skvělá na smažení, dušení i do směsí. Tmavnutí dužniny při vaření a sušení je přirozené a neovlivňuje kvalitu.",
+          "confusion": "Záměna je možná s jinými druhy křemenáčů: křemenáč osikový (Leccinum aurantiacum) roste pod osikami a jeho šupinky na třeni jsou dlouho rezavě hnědé, nikoli černé. Křemenáč borový (Leccinum vulpinum) roste pod borovicemi a má tmavší červenohnědý klobouk. Všechny druhy křemenáčů jsou jedlé.",
+          "notes": "Mladé plodnice křemenáče březového nebývají téměř vůbec červivé díky vysoké hustotě dužniny."
+    },
       en: {
         description: "An ectomycorrhizal mushroom of birch woods, heaths, and scrub, solitary or in scattered groups. It is fairly common in Britain and Ireland and widespread through mainland Europe, from Scandinavia south to Portugal, Spain, and Italy, and east to Russia. It also occurs in parts of North America, including southeast Alaska.",
         cap: "The cap is 4–20 cm across. It is hemispherical and rather thin when very young, then thickly fleshy, broadly convex or cushion-shaped, and it seldom flattens completely. The surface is matt and minutely downy or felted, usually dry, and sometimes slightly greasy in wet weather. The colour is yellow-orange, orange, reddish orange, or orange-brown, and a rare pale form is almost white, sometimes with a pink or orange tint. The cuticle overhangs the margin by about 2–4 mm when young, often as a ragged flap, and that overhang later disappears.",
@@ -12681,6 +15642,30 @@ export const CATALOG = [
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Birken-Rotkappe"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
+      cs: [
+          {
+                "group": "text",
+                "name": "Česká mykologická společnost",
+                "href": "https://www.myko.cz/myko-atlas/Leccinum-versipelle/"
+          },
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://cs.wikipedia.org/wiki/Křemenáč_březový"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -12851,11 +15836,37 @@ export const CATALOG = [
     fruitingFrom: 5,
     fruitingTo: 10,
     label: {
+      de: "Pappel-Raufuß",
+      cs: "kozák topolový",
       en: "slate bolete",
       sk: "kozák topoľový"
     },
     names: {},
     text: {
+      de: {
+          "description": "Ein ektomykorrhizabildender Raufußröhrling unter Pappeln, besonders Zitterpappeln und Weißpappeln. Auffallend durch sein ungewöhnlich festes Fleisch.",
+          "cap": "Der Hut ist 5–15 cm breit, graubraun bis lederbraun, polsterförmig gewölbt, samtig-filzig, trocken.",
+          "hymenium": "Die Röhren sind cremeweiß bis graugelblich, im Alter bräunend. Poren klein, rundlich, verfärben sich auf Druck bräunlich.",
+          "stipe": "Der Stiel ist 7–15 cm lang und 1,5–3,5 cm dick, voll, fest, weißlich mit feinen dunkelbraunen bis schwärzlichen Schüppchen; an der Basis oft blaugrün fleckend.",
+          "flesh": "Das Fleisch ist weiß und sehr fest, verfärbt sich im Anschnitt rötlich-grau und in der Stielbasis charakteristisch blaugrün.",
+          "habitat": "Fruchtkörper erscheinen von Juli bis Oktober unter Pappeln in Parkanlagen, Auen und lichten Wäldern.",
+          "sporePrint": "Olivbraun. Die Sporen sind spindelig, 13–17 × 4,5–6 μm groß.",
+          "uses": "Ein hervorragender Speisepilz, dessen Fleisch beim Kochen fester bleibt als bei vielen anderen Raufußröhrlingen.",
+          "confusion": "Der Gemeine Birkenpilz (Leccinum scabrum) wächst bei Birken, hat weicheres Fleisch und zeigt keine blaugrüne Verfärbung an der Stielbasis.",
+          "notes": "Die blaugrüne Verfärbung in der Stielbasis und das auffallend feste Fleisch sind typisch."
+    },
+      cs: {
+          "description": "Statný a pevný ektomykorhizní zástupce rodu kozák s tvrdou dužninou, rostoucí výhradně pod topoly (zejména pod osikou a topolem bílým). Je vysoce ceněn pro svou pevnou konzistenci.",
+          "cap": "Klobouk má průměr 5–15 cm, zpočátku polokulovitý, později klenutý až polštářovitý. Povrch je v mládí jemně sametový až plstnatý, později olysává a za vlhka je mírně lepkavý. Barva je šedohnědá, světle hnědá, kaštanová až kožově hnědá, často s šedavým nebo mírně okrovým odstínem.",
+          "hymenium": "Rourky jsou 10–25 mm dlouhé, u třeně hluboce vykrojené, v mládí bělavé, později krémově šedé až šedookrové. Póry jsou velmi drobné, zaoblené, stejné barvy jako rourky, po otlačení hnědnoucí.",
+          "stipe": "Třeň je 8–18 cm vysoký a 2–4 cm tlustý, pevný, tvrdý, vřetenovitý až kyjovitý. Povrch je bělavý, hustě pokrytý drobnými, zprvu hnědavými, později černohnědými až černými šupinkami, které jsou uspořádané v podélných řadách.",
+          "flesh": "Dužnina je nápadně pevná a tvrdá (odtud latinský název duriusculum). V klobouku a horní části třeně na řezu nejprve zrůžoví nebo získá vínově fialový nádech a posléze šedne až černá; v bázi třeně se zbarvuje nápadně modrozeleně. Vůně i chuť jsou velmi příjemné, houbové.",
+          "sporePrint": "Hnědý až tabákově hnědý. Výtrusy jsou vřetenovité, hladké, světle žlutohnědé, 13–17 × 4,5–6 μm.",
+          "habitat": "Plodí od června do října pod topoly, zejména topolem osikou (Populus tremula) a topolem bílým (Populus alba), často na travnatých okrajích lesů, hrázích rybníků a v remízcích.",
+          "uses": "Výborná jedlá houba patřící k nejkvalitnějším kozákům díky pevné a tvrdé dužnině, která ani v dospělosti neměkne tolik jako u kozáka březového.",
+          "confusion": "Záměna je možná s běžným kozákem březovým (Leccinum scabrum), který roste pod břízami, má měkčí dužninu, jež na řezu vůbec nemění barvu, a třeň postrádá modrozelené tóny na bázi. Křemenáč osikový (Leccinum aurantiacum) má nápadně oranžový klobouk.",
+          "notes": "V Červeném seznamu hub ČR je veden jako druh vyžadující pozornost (LC), v některých oblastech je poměrně hojný."
+    },
       en: {
         description: "An ectomycorrhizal mushroom of poplar and aspen woods, parks, and roadsides. It is widespread in temperate Europe, from Britain and Ireland through central and southern Europe to Scandinavia, and east into Siberia, and it also fruits under planted poplars beyond that range.",
         cap: "The cap is usually 4–16 cm across, and a robust fruit body may reach about 20–25 cm. It is almost spherical or hemispherical at first, then convex to cushion-shaped, sometimes with a slightly depressed centre. The cuticle is finely downy or velvety when young and smoother later, dry and matt, and viscid or slimy in wet weather once mature. The colour runs from pale grey, buff, and grey-brown to umber, sepia, or reddish brown, sometimes paler or yellowish toward the margin. The margin often overhangs the tubes as a thin flap. The surface may crack finely with age, but it does not break into coarse patches and it is not pitted.",
@@ -12882,6 +15893,30 @@ export const CATALOG = [
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Leccinum"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
+      cs: [
+          {
+                "group": "text",
+                "name": "Česká mykologická společnost",
+                "href": "https://www.myko.cz/myko-atlas/Leccinum-duriusculum/"
+          },
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://cs.wikipedia.org/wiki/Kozák_topolový"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -13067,6 +16102,8 @@ export const CATALOG = [
     fruitingFrom: 8,
     fruitingTo: 11,
     label: {
+      de: "Ohrförmiger Weißseitling",
+      cs: "hlíva ušatá",
       en: "angel's wings",
       sk: "hlivuľa uškatá"
     },
@@ -13074,6 +16111,30 @@ export const CATALOG = [
       en: ["angel wing"]
     },
     text: {
+      de: {
+          "description": "Ein rein weißer, holzzersetzender Seitling an morschem Nadelholz in montanen Bergmischwäldern. Früher als Speisepilz gesammelt, heute nach tödlichen Vergiftungen in Japan als giftig bekannt.",
+          "cap": "Der Hut ist 2–8 cm breit, spatel- bis ohrförmig oder zungenförmig, rein weiß bis cremeweiß, dünnfleischig mit eingerolltem Rand.",
+          "hymenium": "Die Lamellen sind rein weiß, engstehend, schmal und laufen zur Anwachsstelle herab.",
+          "stipe": "Stiellos; seitlich mit verschmälertem Ansatz am Nadelholz angewachsen.",
+          "flesh": "Das Fleisch ist rein weiß, dünn, zart und elastisch. Geruch unauffällig, Geschmack mild.",
+          "habitat": "Fruchtkörper erscheinen von August bis November an morschen Stümpfen und Stämmen von Nadelbäumen (besonders Fichte und Tanne).",
+          "sporePrint": "Weiß. Die Sporen sind fast kugelig bis breit ellipsoid, glatt, 5,5–7 × 4,5–6 μm groß.",
+          "uses": "Giftig! In Japan kam es 2004 zu zahlreichen schweren Enzephalopathien mit Todesfolge, besonders bei Personen mit vorgeschädigten Nieren.",
+          "confusion": "Der essbare Austern-Seitling (Pleurotus ostreatus) und der Lungen-Seitling (Pleurotus pulmonarius) haben graue bis braune Hüte und wachsen überwiegend an Laubholz.",
+          "notes": "Die Vergiftungsfälle betrafen vor allem nierenkranke Patienten (Pleurocybella-Enzephalopathie)."
+    },
+      cs: {
+          "description": "Drobná až středně velká bílá dřevokazná houba vějířovitého až uchatého tvaru, rostoucí saprotrofně na tlejícím dřevě jehličnanů v chladnějších oblastech severní polokoule. Dříve byla pokládána za jedlou, avšak po vlně smrtelných otrav v Japonsku je považována za jedovatou.",
+          "cap": "Klobouk má 2–10 cm v průměru, tenký, vějířovitý, lopatkovitý nebo lžícovitý, na bázi zúžený a přirostlý k substrátu. Okraj je zpočátku podvinutý, později zvlněný až laločnatý. Povrch je hladký, čistě bílý až krémově bělavý, za vlhka mírně lesklý.",
+          "hymenium": "Lupeny jsou velmi husté, úzké, sbíhající k bázi plodnice, čistě bílé až světle nažloutlé.",
+          "stipe": "Třeň zcela chybí; plodnice přirůstá k dřevu přímo zúženou boční částí klobouku.",
+          "flesh": "Dužnina je tenká, křehká, čistě bílá, bez výrazné vůně a s mírnou chutí.",
+          "sporePrint": "Bílý. Výtrusy jsou téměř kulovité až široce elipsoidní, hladké, hyalinní, neamyloidní, o rozměrech 5,5–7 × 4,5–6 μm.",
+          "habitat": "Roste na podzim (srpen až listopad) na silně rozložených pařezech a padlých kmenech jehličnanů (především smrků, jedlí a jedlovců) v horských pralesovitých lesích.",
+          "uses": "Jedovatá houba. Přestože byla dlouho v atlasech uváděna jako jedlá, v roce 2004 způsobila v Japonsku hromadnou epidemii encefalopatie u desítek lidí (převážně s chronickým onemocněním ledvin), z nichž řada zemřela. Její sběr ke konzumaci se přísně nedoporučuje.",
+          "confusion": "Podobná je jedlá hlíva plicní (Pleurotus pulmonarius) a hlíva ústřičná (Pleurotus ostreatus), které však rostou téměř výhradně na listnáčích, tvoří větší a masitější plodnice a mají výrazný třeň a šedavé až hnědavé tóny. Neškodný bělochoroš severský (Climacocystis borealis) má pórovité rouško a tvrdší konzistenci.",
+          "notes": "V České republice je hlíva ušatá kriticky ohroženým druhem (CR) vázaným na zachovalé horské jedlobučiny a smrčiny."
+    },
       en: {
         description: "A saprobic white-rot mushroom on dead conifer wood. It is widespread in temperate forests of the Northern Hemisphere, mainly in Scotland and northern England within Britain, with occasional records in Wales and Ireland, and across northern mainland Europe, cooler parts of Asia, and parts of North America.",
         cap: "The cap is 2–10 cm across and very thin. It is tongue-shaped, ear-shaped, petal-shaped, or fan-shaped, and often an incomplete funnel split down one side to the base. Young fruit bodies are pure white, with an inrolled margin. Older caps become cream to yellowish, and the margin turns wavy and lobed. The surface is smooth, or shortly felted when young and then nearly bald, with the felt often lasting near the attachment. The cuticle is not gelatinous. It is of clamped hyphae, reported as about 3–5 μm wide with hair-like ends and as 5–13 μm wide.",
@@ -13100,6 +16161,30 @@ export const CATALOG = [
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Ohrf%C3%B6rmiger_Wei%C3%9Fseitling"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
+      cs: [
+          {
+                "group": "text",
+                "name": "Česká mykologická společnost",
+                "href": "https://www.myko.cz/myko-atlas/Pleurocybella-porrigens/"
+          },
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://cs.wikipedia.org/wiki/Hlíva"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -13301,6 +16386,30 @@ export const CATALOG = [
       ]
     },
     text: {
+      de: {
+          "description": "Ein tödlich giftiger ektomykorrhizabildender Wulstling des östlichen Nordamerikas. Als einer der berüchtigten Zerstörenden Engel (Destroying Angels) gefürchtet.",
+          "cap": "Der Hut ist 3–10 cm breit, rein weiß, glatt, anfangs halbkugelig, dann ausgebreitet, bei Feuchtigkeit leicht klebrig.",
+          "hymenium": "Die Lamellen sind rein weiß, frei, gedrängt stehend.",
+          "stipe": "Der Stiel ist 6–14 cm lang und 0,5–1,5 cm dick, schlank zylindrisch, rein weiß, mit einem zarten häutigen Ring und einer sackartigen weißen Volva an der Basis.",
+          "flesh": "Das Fleisch ist rein weiß. Mit Kalilauge (KOH) färbt es sich sofort lebhaft gelb. Geruch unauffällig, später unangenehm.",
+          "habitat": "Fruchtkörper erscheinen von Sommer bis Herbst in Laub- und Mischwäldern des östlichen Nordamerikas unter Eichen und Kiefern.",
+          "sporePrint": "Weiß. Die Sporen sind kugelig bis breit ellipsoid, glatt, 7,5–9,5 × 6,5–8,5 μm groß und amyloid. Die Basidien sind fast durchweg zweisporig.",
+          "uses": "Tödlich giftig! Enthält tödliche Mengen an Amatoxinen. Verursacht schweres Leber- und Nierenversagen.",
+          "confusion": "Ähnelt anderen weißen Knollenblätterpilzen wie Amanita virosa (viersporig) und Amanita verna. Champignons (Agaricus) haben im Alter braune Lamellen und keine Volva.",
+          "notes": "Kein belegter deutscher Volksname; wissenschaftlicher Name gezeigt. Charakterisiert durch fast ausschließlich zweisporige Basidien."
+    },
+      cs: {
+          "description": "Smrtelně jedovatá, čistě bílá ektomykorhizní houba z čeledi muchomůrkovitých, hojně rozšířená ve východní části Severní Ameriky. Patří do skupiny bílých ničících andělů.",
+          "cap": "Klobouk má 3–10 cm v průměru, zpočátku vejčitý až polokulovitý, později klenutý až plochý, čistě bílý, hladký, za vlhka mírně lepkavý, s hladkým, nerýhovaným okrajem.",
+          "hymenium": "Lupeny jsou volné, husté, bílé, se zkrácenými lupínky.",
+          "stipe": "Třeň je 6–14 cm dlouhý a 0,5–1,5 cm tlustý, bílý, hladký nebo jemně vločkatý, na bázi zakončený výraznou kulovitou hlízou uzavřenou v bílé blanité pochvě (volva). V horní části nese blanitý bílý prsten.",
+          "flesh": "Dužnina je bílá, tenká, neměnná, s nevýraznou vůní a mírnou chutí.",
+          "sporePrint": "Bílý. Výtrusy jsou kulovité až téměř kulovité, hladké, amyloidní, 7,5–10 × 7–9 μm. Bazidie nesou téměř výhradně pouze dva výtrusy (dvouvýtrusé bazidie).",
+          "habitat": "Roste od léta do podzimu na zemi v listnatých i smíšených lesích, zejména pod duby, v celé východní části Severní Ameriky.",
+          "uses": "Smrtelně jedovatá. Obsahuje vysoké koncentrace smrtících amatoxinů (zejména alfa-amanitinu), které způsobují těžké poškození jater a ledvin se selháním orgánů.",
+          "confusion": "Záměna je možná s dalšími bílými druhy muchomůrek: evropská muchomůrka jarní (Amanita verna) a muchomůrka jízlivá (Amanita virosa) mají čtyřvýtrusé bazidie. Závojenka olovová (Entoloma sinuatum) a bělochorošovité houby se liší absencí pochvy a jinou barvou lupenů či výtrusného prachu.",
+          "notes": "Pokožka klobouku a dužnina reagují s hydroxidem draselným (KOH) okamžitým jasně žlutým zbarvením."
+    },
       en: {
         description: "An ectomycorrhizal mushroom of mixed coniferous and deciduous woodland, often with oak. It is common and widely distributed in eastern North America, from pine and oak woods in Texas north through Canada to boreal forest in Newfoundland and the Maritime Provinces. It is rare farther west.",
         cap: "The cap is 2.5–13 cm across. It starts egg-shaped or oval, with the margin rolled in, then becomes convex to broadly convex, sometimes bell-shaped or nearly flat, and it may have a low broad umbo. The surface is bald, or very rarely keeps a patch of the universal veil. It is dry, or slightly sticky when moist, and white to ivory. The centre may turn pale tan, cream, straw yellow, or pale pink with age, and old wounds may become slightly rusty. A yellow or pink tint over the whole cap is rare. The margin is not lined.",
@@ -13327,6 +16436,20 @@ export const CATALOG = [
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://en.wikipedia.org/wiki/Amanita_bisporigera"
+          }
+    ],
+      cs: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://en.wikipedia.org/wiki/Amanita_bisporigera"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -13458,6 +16581,7 @@ export const CATALOG = [
     fruitingFrom: 7,
     fruitingTo: 11,
     label: {
+      de: "Fleischbräunlicher Schirmling",
       en: "deadly dapperling",
       sk: "bedlička hnedoružová"
     },
@@ -13465,6 +16589,30 @@ export const CATALOG = [
       en: ["flesh-brown parasol", "deadly parasol"]
     },
     text: {
+      de: {
+          "description": "Ein kleiner, tödlich giftiger Schirmling auf grasigen Böden, in Gärten und Parkanlagen. Er enthält lebensgefährliche Amatoxine.",
+          "cap": "Der Hut misst 2–6 cm im Durchmesser, ist fleischbraun bis rötlichbraun, bedeckt mit dunkleren konzentrischen Schuppen auf weißlich-rosa Grund.",
+          "hymenium": "Die Lamellen sind frei, dicht stehend, weiß bis cremefarben.",
+          "stipe": "Der Stiel ist 2–5 cm lang und 0,3–0,7 cm dick, hutfarben beschuppt, mit einer dunklen Ringzone.",
+          "flesh": "Das Fleisch ist weißlich, im Stiel schwach rötend. Geruch fruchtig.",
+          "habitat": "Fruchtkörper erscheinen von August bis Oktober an warmen Standorten, in Parks, Gärten und an Wegrändern.",
+          "sporePrint": "Weiß. Die Sporen sind ellipsoid, dextrinoid, 7–9 × 4–5 μm groß.",
+          "uses": "Tödlich giftig! Enthält tödliche Amatoxine und hat in Südeuropa und Mitteleuropa wiederholt zu tödlichen Vergiftungen geführt.",
+          "confusion": "Wird fatal mit essbaren Wiesenchampignons oder kleinen Riesenschirmlingen verwechselt. Alle kleinen Schirmlinge (unter 8 cm Hutbreite) sind strikt zu meiden!",
+          "notes": "Enthält Amatoxine wie der Grüne Knollenblätterpilz."
+    },
+      cs: {
+          "description": "Drobná, avšak smrtelně jedovatá lupenatá houba z rodu bedlička, vyskytující se v teplejších oblastech Evropy, Asie a severní Afriky v parcích, zahradách a na travnatých místech.",
+          "cap": "Klobouk má 2–6 cm v průměru, zprvu polokulovitý, později sklenutý až plochý s nízkým středovým hrbolkem. Na bělavém až růžovém podkladu je hustě pokryt drobnými soustřednými hnědočervenými, vínovými až tmavě hnědými šupinkami.",
+          "hymenium": "Lupeny jsou volné, husté, zpočátku bílé, později krémové.",
+          "stipe": "Třeň je 2–5 cm dlouhý a 3–8 mm tlustý, válcovitý, pod pomíjivým prstencovitým páskem hustě pokrytý vínově hnědými až růžovohnědými šupinkami na světlém podkladu.",
+          "flesh": "Dužnina je tenká, bílá, v bázi třeně často slabě narůžovělá nebo vínová, s příjemnou ovocnou vůní a mírnou chutí.",
+          "sporePrint": "Bílý. Výtrusy jsou elipsoidní, hladké, dextrinoidní, 7–9 × 4–5 μm.",
+          "habitat": "Plodí od srpna do října na travnatých místech, v parcích, na polích, v křovinách a na okrajích cest na teplých, vápnitých půdách.",
+          "uses": "Smrtelně jedovatá houba! Obsahuje stejné amatoxiny jako muchomůrka zelená v koncentracích schopných vyvolat akutní selhání jater i po požití malého množství.",
+          "confusion": "Může být snadno zaměněna s jedlou špičkou obecnou (Marasmius oreades) nebo drobnými jedlými pečárkami (Agaricus), které však mají v dospělosti čokoládově hnědé lupeny a nemají šupinatý klobouk s vínovými tóny. Ostatní nejedlé a jedovaté bedličky (např. Lepiota cristata) mají odlišný zápach a tvar výtrusů.",
+          "notes": "Byla příčinou řady smrtelných otrav v jižní Evropě, Turecku a Íránu."
+    },
       en: {
         description: "A small saprotrophic mushroom of parks, gardens, grassy fields, roadsides, and woodland clearings. Widely distributed across temperate Europe and parts of Asia east to China, it favours warm summer and autumn conditions and nutrient-rich or sandy soils. It is absent from the Americas and Australasia.",
         cap: "The cap is 2–7 cm across, initially hemispherical or bell-shaped, then expanding to broadly convex or nearly flat with a slight, low umbo. The surface is dry, with a whitish to cream background densely covered by pinkish-brown, reddish-brown, or wine-brown fibrous scales that often break into concentric rings toward the paler margin, which remains slightly inrolled when young. The centre typically retains a solid, dark reddish-brown disc.",
@@ -13491,6 +16639,25 @@ export const CATALOG = [
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Schirmlinge"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
+      cs: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://en.wikipedia.org/wiki/Lepiota_brunneoincarnata"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -13614,6 +16781,8 @@ export const CATALOG = [
     fruitingFrom: 5,
     fruitingTo: 10,
     label: {
+      de: "Frühlings-Knollenblätterpilz",
+      cs: "muchomůrka jarní",
       en: "fool's mushroom",
       sk: "muchotrávka jarná"
     },
@@ -13622,6 +16791,30 @@ export const CATALOG = [
       sk: ["muchotrávka biela"]
     },
     text: {
+      de: {
+          "description": "Ein tödlich giftiger ektomykorrhizabildender Wulstling wärmeliebender Laubwälder, der vor allem im Frühjahr und Frühsommer erscheint.",
+          "cap": "Der Hut ist 4–10 cm breit, rein weiß, halbkugelig bis ausgebreitet, kahl und glatt.",
+          "hymenium": "Die Lamellen sind rein weiß, frei, dicht stehend.",
+          "stipe": "Der Stiel ist 6–12 cm lang und 1–2 cm dick, rein weiß, glatt oder schwach beflockt, mit hängendem weißem Ring und sackartiger Volva an der Knolle.",
+          "flesh": "Das Fleisch ist rein weiß, unveränderlich. Mit Kalilauge (KOH) zeigt es im Gegensatz zu Amanita virosa keine Gelbfärbung.",
+          "habitat": "Fruchtkörper erscheinen von Mai bis Juli in warmen Laubwäldern unter Eichen und Buchen auf kalkreichen Böden.",
+          "sporePrint": "Weiß. Die Sporen sind breit ellipsoid bis rundlich, glatt, 8–11 × 7–9 μm groß und amyloid.",
+          "uses": "Tödlich giftig! Enthält dieselben zerstörerischen Amatoxine wie der Grüne Knollenblätterpilz.",
+          "confusion": "Ähnelt weißen Egerlingen (Agaricus), die jedoch niemals eine Scheide besitzen und deren Lamellen braun werden.",
+          "notes": "Reagiert mit KOH negativ, im Unterschied zu Amanita virosa."
+    },
+      cs: {
+          "description": "Smrtelně jedovatá, čistě bílá ektomykorhizní houba z čeledi muchomůrkovitých, rostoucí v teplých oblastech jižní a střední Evropy převážně v dubových lesích na jaře a v časném létě.",
+          "cap": "Klobouk má 4–10 cm v průměru, polokulovitý, později klenutý až plochý, čistě bílý, uprostřed někdy slabě nažloutlý nebo krémový, hladký, za vlhka slabě lepkavý, s hladkým nerýhovaným okrajem.",
+          "hymenium": "Lupeny jsou volné, husté, čistě bílé, se zaobleným ostřím.",
+          "stipe": "Třeň je 6–12 cm dlouhý a 1–2 cm tlustý, válcovitý, bílý, hladký nebo jemně vločkatý. V horní části nese bílý, tenký převislý prsten. Báze třeně je hlízovitá a vězí v hluboké, volné, bílé blanité pochvě (volva).",
+          "flesh": "Dužnina je tenká, bílá, pod pokožkou neměnná. Vůně je v mládí nenápadná, ve stáří nepříjemně nasládlá, chuť je mírná (ochutnávání je však životu nebezpečné!).",
+          "sporePrint": "Bílý. Výtrusy jsou široce elipsoidní až kulovité, hladké, amyloidní, 8–11 × 7–9 μm.",
+          "habitat": "Roste od května do srpna v teplých listnatých lesích, zejména pod duby a kaštanovníky, na písčitých i vápenitých půdách.",
+          "uses": "Smrtelně jedovatá houba! Obsahuje vysoké množství buněčných jedů amatoxinů a falotoxinů způsobujících těžké poškození jater.",
+          "confusion": "Záměna je možná s bílými jedlými žampiony (Agaricus), které se však liší nepřítomností pochvy a růžovými až čokoládově hnědými lupeny v dospělosti. Podobná je rovněž smrtelně jedovatá bílá forma muchomůrky zelené (Amanita phalloides var. alba) a muchomůrka jízlivá (Amanita virosa), která má kuželovitý klobouk a šupinatý třeň a roste na podzim v jehličnanech.",
+          "notes": "Na rozdíl od muchomůrky jízlivé nereaguje dužnina ani pokožka klobouku s roztokem KOH žlutým zbarvením."
+    },
       en: {
         description: "A deadly poisonous ectomycorrhizal mushroom with a pure white fruit body and a persistent basal volva. Native to southern and central Europe, and extending into parts of western Asia and northern Africa. It occurs primarily in warm lowland forests and Mediterranean woodland, and is rare or absent in northern latitudes.",
         cap: "The cap is 5–10 cm across, initially hemispherical or campanulate, becoming convex and eventually nearly flat. The surface is smooth, slightly tacky when moist but soon dry, silkily glossy, and pure white, occasionally developing a pale cream or yellowish tint at the centre with age. The margin is smooth and not striate.",
@@ -13648,6 +16841,30 @@ export const CATALOG = [
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Fr%C3%BChlings-Knollenbl%C3%A4tterpilz"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
+      cs: [
+          {
+                "group": "text",
+                "name": "Česká mykologická společnost",
+                "href": "https://www.myko.cz/myko-atlas/Amanita-verna/"
+          },
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://cs.wikipedia.org/wiki/Muchomůrka_jarní"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -13782,6 +16999,30 @@ export const CATALOG = [
       en: ["rank russula"]
     },
     text: {
+      de: {
+          "description": "Ein berüchtigter, tödlich giftiger Täubling Ostasiens (Japan, China, Taiwan). Er verursacht eine fatale Rhabdomyolyse (Auflösung von Muskelgewebe).",
+          "cap": "Der Hut ist 5–12 cm breit, graubraun bis rußbraun, gewölbt mit vertiefter Mitte.",
+          "hymenium": "Die Lamellen sind weißlich bis cremefarben, dick, entfernt stehend, verfärben sich bei Verletzung zunächst rötlich, schwärzen jedoch nicht vollständig nach.",
+          "stipe": "Der Stiel ist 3–8 cm lang und 1–2,5 cm dick, zylindrisch, graubraun.",
+          "flesh": "Das Fleisch ist weißlich, läuft bei Verletzung langsam rosa-rötlich an. Geschmack mild.",
+          "habitat": "Fruchtkörper erscheinen im Sommer in Laub- und Mischwäldern Ostasiens unter Eichen und Kiefern.",
+          "sporePrint": "Weiß. Die Sporen sind rundlich, warzig, 7–9 × 6–8 μm groß.",
+          "uses": "Tödlich giftig! Das Toxin Cycloprop-2-encarbonsäure löst eine massive Zerstörung der Skelettmuskulatur aus, die zu Atemlähmung und Herzstillstand führt.",
+          "confusion": "Verwechselbar mit harmlosen schwärzenden Täublingen wie Russula nigricans (Dickblättriger Schwarztäubling), der jedoch nach dem Röten tiefschwarz wird.",
+          "notes": "Kein belegter deutscher Volksname; wissenschaftlicher Name gezeigt. Das Toxin ist Cycloprop-2-encarbonsäure."
+    },
+      cs: {
+          "description": "Smrtelně jedovatá ektomykorhizní holubinka z podrodu Compactae, rozšířená ve východní a jihovýchodní Asii (zejména v Číně, Japonsku a na Tchaj-wanu). Je známá tím, že vyvolává akutní rhabdomyolýzu (rozpad svalových vláken).",
+          "cap": "Klobouk má 6–12 cm v průměru, pevný, zpočátku sklenutý, později vmáčklý až nálevkovitý, světle hnědý až šedohnědý, za vlhka slizký.",
+          "hymenium": "Lupeny jsou tlusté, poměrně řídké, připojené až mírně sbíhavé, krémové až nažloutlé, na otlačených místech červenající.",
+          "stipe": "Třeň je 4–8 cm dlouhý a 1–2,5 cm tlustý, válcovitý, pevný, zbarvený podobně jako klobouk nebo o něco světlejší.",
+          "flesh": "Dužnina je bílá, na řezu se barví pomalu do červena, ale na rozdíl od příbuzných druhů po zčervenání nečerná. Vůně i chuť jsou nevýrazné.",
+          "sporePrint": "Bílý. Výtrusy jsou kulovité až široce elipsoidní s jemnou síťkovitou ornamentikou, amyloidní, 7–9 × 6–8 μm.",
+          "habitat": "Roste od léta do podzimu pod listnáči i jehličnany v monzunových lesích východní Asie.",
+          "uses": "Smrtelně jedovatá houba s mortalitou přesahující 50 %. Způsobuje destrukci kosterního svalstva vedoucí k selhání ledvin a srdeční zástavě.",
+          "confusion": "Záměna je snadná s jinými černajícími holubinkami: holubinka černající (Russula nigricans) na řezu nejprve zčervená a do 20 minut zčerná a má velmi řídké lupeny. Holubinka hustolistá (Russula densifolia) rovněž červená a následně černá, ale má velmi husté lupeny.",
+          "notes": "Toxinem je unikátní cykloprop-2-enkarboxylová kyselina, která narušuje energetický metabolismus svalových buněk."
+    },
       en: {
         description: "A deadly poisonous ectomycorrhizal mushroom with a robust, brittle fruit body that bruises red when injured without turning black. Native to East and Southeast Asia, including Japan, China, and Taiwan. It occurs primarily in warm-temperate broadleaf and mixed forests, growing on the ground in association with fagaceous trees during summer and autumn.",
         cap: "The cap is 5–12 cm across, initially convex with an incurved margin, becoming broadly convex to plane and eventually shallowly depressed to funnel-shaped at the centre. The surface is dry, smooth or finely velvety when young, whitish to pale greyish-buff at first, darkening with age to smoky grey, brownish-black, or sooty brown. The margin is smooth, remaining even and neither striate nor grooved. When bruised or scratched, the surface slowly turns pale pinkish-red to wine red.",
@@ -13808,6 +17049,20 @@ export const CATALOG = [
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Russula_subnigricans"
+          }
+    ],
+      cs: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://en.wikipedia.org/wiki/Russula_subnigricans"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -13920,6 +17175,30 @@ export const CATALOG = [
       en: []
     },
     text: {
+      de: {
+          "description": "Ein bizarrer, tödlich giftiger Schlauchpilz in Ostasien. Die leuchtend roten Fruchtkörper ähneln Korallen oder Geweihstangen.",
+          "cap": "Der stromaartige Fruchtkörper wird 5–20 cm hoch und 1–3 cm dick, geweihartig oder keulenförmig verzweigt, leuchtend scharlachrot bis orangerot.",
+          "hymenium": "Die Fruchtschicht besteht aus winzigen, eingesenkten krugförmigen Perithezien unter der roten Rinde, aus denen die Ascosporen austreten.",
+          "stipe": "Der untere sterile Teil bildet einen unauffälligen, im Holz wurzelnden Fuß.",
+          "flesh": "Das Fleisch ist faserig-zäh, weißlich bis gelblich, geruchlos.",
+          "habitat": "Fruchtkörper erscheinen von Juli bis Oktober an verrottenden Stümpfen und Wurzeln von Laubbäumen in Japan, Korea und China.",
+          "sporePrint": "Gelblich-weiß. Die Sporen zerfallen in den Schläuchen in kleine Teilsporen.",
+          "uses": "Tödlich giftig! Enthält hochtoxische Trichothecene (Satratoxin H), die schwere multiple Organschäden, Knochenmarkdepression und Hautablösung auslösen.",
+          "confusion": "Wurde in Asien fatal mit Heilpilzen wie Reishi (Ganoderma) oder Cordyceps verwechselt.",
+          "notes": "Kein belegter deutscher Volksname; wissenschaftlicher Name gezeigt. Einer der wenigen tödlich giftigen Schlauchpilze weltweit."
+    },
+      cs: {
+          "description": "Výrazná, jasně červená vřeckovýtrusá houba z čeledi Hypocreaceae s parohovitě větvenými stromaty, rostoucí v horských lesích Japonska, Koreje a Číny. Patří k nejjedovatějším vřeckovýtrusým houbám světa.",
+          "cap": "Plodnice tvoří vzpřímená, kyjovitá až parohovitě rozvětvená stromata vysoká 5–15 cm a tlustá 1–2 cm. Povrch je zářivě červený až oranžově červený, hladký, posetý drobnými tečkami (ústími zanořených perithecií).",
+          "hymenium": "Rouško je tvořeno perithecii zanořenými do povrchu stromatu. Vřecka jsou válcovitá, obsahující osm dvoubuničných askospor, které se v dospělosti rozpadají na jednotlivé buňky.",
+          "stipe": "Třeňová část plynule přechází ve stroma a je na bázi světlejší, žlutavá.",
+          "flesh": "Dužnina stromatu je tuhá, bílá až nažloutlá, bez nápadné vůně.",
+          "sporePrint": "Bezbarvý (hyalinní). Askospory jsou elipsoidní, hladké, dělící se na kulovité partispory.",
+          "habitat": "Roste od léta do podzimu na tlejícím dřevě a kořenech listnáčů v lesích mírného až subtropického pásma východní Asie.",
+          "uses": "Smrtelně jedovatá! Obsahuje trichothecenové mykotoxiny (např. satratoxin H), které způsobují nekrózu kůže, selhání kostní dřeně a vnitřních orgánů. Už pouhý dotyk může způsobit dermatitidu.",
+          "confusion": "Může být laiky zaměněna za léčivou housenici (Cordyceps) nebo mladé parohovité formy lesklokorky (Ganoderma), případně za neškodné korálovité stopkovýtrusé houby (Clavulinopsis miyabeana), které však nemají zanořená perithecia a jsou křehké.",
+          "notes": "V Japonsku je známa pod jménem kaentake a způsobila zde několik tragických smrtelných otrav při záměně za jedlé léčivé houby."
+    },
       en: {
         description: "A deadly poisonous saprotrophic ascomycete fungus forming erect, bright red to orange-red, club-shaped or antler-like branched stromata. Native to temperate and subtropical East and Southeast Asia, including Japan, South Korea, and China, with isolated occurrences documented in Australia. It emerges on decaying wood, stumps, and buried roots in broadleaf forests during warm summer and autumn months.",
         cap: "The stroma is 5–20 cm tall and 1–3 cm thick, solitary or clustering in small groups, consisting of erect, cylindrical to compressed, finger-like or antler-shaped lobes that are simple or irregularly branched near the tips. The surface is smooth to finely pimpled with the tiny openings of immersed perithecia, striking scarlet-red, vermilion, or vivid orange-red when fresh, fading to yellowish-orange in dry weather or with age, and whitish to pale pinkish-buff towards the base.",
@@ -13946,6 +17225,20 @@ export const CATALOG = [
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Trichoderma_cornu-damae"
+          }
+    ],
+      cs: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://en.wikipedia.org/wiki/Trichoderma_cornu-damae"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -14060,6 +17353,30 @@ export const CATALOG = [
     },
     names: {},
     text: {
+      de: {
+          "description": "Ein tödlich giftiger weißer Knollenblätterpilz Südchinas und Thailands. Er ist in China für zahlreiche tödliche Vergiftungen verantwortlich.",
+          "cap": "Der Hut ist 4–8 cm breit, rein weiß, glatt, anfangs eiförmig, später gewölbt bis flach.",
+          "hymenium": "Die Lamellen sind frei, dicht stehend, weiß.",
+          "stipe": "Der Stiel ist 7–9 cm lang und 0,5–1 cm dick, weiß, mit zartem Ring und kugeliger Basalknolle in einer weißen Scheide.",
+          "flesh": "Das Fleisch ist weiß. Mit Kalilauge (KOH) reagieren alle Gewebe sofort lebhaft gelb.",
+          "habitat": "Fruchtkörper erscheinen im Frühling und Sommer in subtropischen Laubwäldern unter Castanopsis fissa.",
+          "sporePrint": "Weiß. Die Sporen sind rundlich, glatt, 9,5–12 × 9–11,5 μm groß und amyloid. Die Basidien sind fast durchweg zweisporig.",
+          "uses": "Tödlich giftig! Enthält tödliche Mengen Amatoxine, die zu schwerem Leberzerfall führen.",
+          "confusion": "Amanita bisporigera (Östlicher Zerstörender Engel) hat einen tiefer sitzenden Ring und kleinere Sporen. Amanita oberwinklerana ist viersporig, hat ellipsoide Sporen und reagiert mit Kalilauge nicht gelb. Der Frühlings-Knollenblätterpilz (Amanita verna) und der Kegelhütige Knollenblätterpilz (Amanita virosa) sind viersporig. Der Große Scheidling (Volvopluteus gloiocephalus) besitzt keinen Ring, rosafarbenen Sporenstaub und wächst auf Ackerböden statt in Mykorrhiza.",
+          "notes": "Kein belegter deutscher Volksname; wissenschaftlicher Name gezeigt. Ursache zahlreicher tödlicher Vergiftungsfälle in Guangdong."
+    },
+      cs: {
+          "description": "Smrtelně jedovatá, bílá ektomykorhizní houba z rodu muchomůrka, popsaná z jižní Číny (provincie Kuang-tung), kde má na svědomí velký počet fatálních otrav.",
+          "cap": "Klobouk má 4–9 cm v průměru, bílý, uprostřed někdy s nažloutlým odstínem, hladký, v mládí polokulovitý, později klenutý až plochý, na okraji nerýhovaný.",
+          "hymenium": "Lupeny jsou volné, husté, bílé, s hojnými zkrácenými lupínky.",
+          "stipe": "Třeň je 7–12 cm dlouhý a 0,5–1,2 cm tlustý, bílý, na bázi s výraznou hlízou obalenou bílou blanitou pochvou (volva). V horní části třeně se nachází bílý blanitý prsten.",
+          "flesh": "Dužnina je tenká, bílá, s nenápadnou vůní i chutí.",
+          "sporePrint": "Bílý. Výtrusy jsou kulovité, hladké, amyloidní, 9,5–12 × 9–11,5 μm. Bazidie jsou charakteristicky převážně dvouvýtrusé.",
+          "habitat": "Roste na jaře a v létě v subtropických listnatých lesích, zejména pod stromy z čeledi bukovitých (Castanopsis, Quercus).",
+          "uses": "Smrtelně jedovatá houba! Obsahuje vysoké koncentrace letálních amatoxinů, které poškozují játra a ledviny.",
+          "confusion": "Velmi podobná je muchomůrka jarní (Amanita verna) a muchomůrka jízlivá (Amanita virosa), které se však liší čtyřvýtrusými bazidiemi a odlišným geografickým rozšířením.",
+          "notes": "V Číně způsobila v letech 2019–2023 více úmrtí po požití hub než kterýkoli jiný druh."
+    },
       en: {
         description: "An ectomycorrhizal mushroom of subtropical broadleaf woods in southern and southwestern China, above all with the evergreen Castanopsis fissa. It is known from Guangdong, Yunnan, Guizhou, and Zhejiang, and poisoning cases are known from Thailand. A two-spored collection from Odisha has been referred to this species.",
         cap: "The cap is 4–8 cm across. It starts egg-shaped, then becomes convex and later flattens, sometimes with a slight depression in the centre. The surface is smooth and white, sometimes cream over the disc. The margin is not lined, and it does not carry hanging veil fragments.",
@@ -14086,6 +17403,20 @@ export const CATALOG = [
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://en.wikipedia.org/wiki/Amanita_exitialis"
+          }
+    ],
+      cs: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://en.wikipedia.org/wiki/Amanita_exitialis"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -14215,6 +17546,30 @@ export const CATALOG = [
     },
     names: {},
     text: {
+      de: {
+          "description": "Ein tödlich giftiger Knollenblätterpilz Ostasiens (China, Japan). Er ist als ostasiatischer brauner Knollenblätterpilz bekannt.",
+          "cap": "Der Hut ist 3–6 cm breit, rußbraun bis schwärzlich, mit dunklen eingewachsenen Radialfasern, glatt.",
+          "hymenium": "Die Lamellen sind frei, weiß bis grauweiß, dicht stehend.",
+          "stipe": "Der Stiel ist 6–11 cm lang und 0,4–1 cm dick, weißlich mit grauen Schüppchen, mit hängendem Ring und knolliger Basis in einer sackartigen Volva.",
+          "flesh": "Das Fleisch ist weiß, unter der Huthaut graubraun. Mit KOH reagiert es gelb.",
+          "habitat": "Fruchtkörper erscheinen von Sommer bis Herbst in Laub- und Eichenwäldern Ostasiens.",
+          "sporePrint": "Weiß. Die Sporen sind rundlich, glatt, 7–9 μm groß und amyloid.",
+          "uses": "Tödlich giftig! Verursacht tödliche Amatoxin-Vergiftungen mit Leberversagen.",
+          "confusion": "Ähnelt dem europäischen Grünen Knollenblätterpilz (Amanita phalloides), ist jedoch zierlicher und rußgrau gefärbt.",
+          "notes": "Kein belegter deutscher Volksname; wissenschaftlicher Name gezeigt. Tödlicher Giftpilz in China."
+    },
+      cs: {
+          "description": "Smrtelně jedovatá ektomykorhizní houba z rodu muchomůrka s tmavě šedohnědým až černavým kloboukem, rozšířená v Číně, Japonsku a Thajsku pod stromy z čeledi bukovitých.",
+          "cap": "Klobouk má 3–6 cm v průměru, vejčitý až zvoncovitý, později klenutý až plochý, sazovitě hnědý až černavý, na středu nejtmavší, s vrostlými tmavě šedými vlákny, za vlhka lepkavý.",
+          "hymenium": "Lupeny jsou volné, husté, bílé až šedobílé.",
+          "stipe": "Třeň je 6–10 cm dlouhý a 4–10 mm tlustý, válcovitý, bílý až šedavý, pod prstenem pokrytý šedohnědými šupinkami a klikatými vlákny. Na bázi je zakončen malou hlízou s bílou blanitou pochvou.",
+          "flesh": "Dužnina je tenká, bílá, neměnná, bez výrazného zápachu.",
+          "sporePrint": "Bílý. Výtrusy jsou kulovité až téměř kulovité, hladké, amyloidní, 7,5–9,5 μm.",
+          "habitat": "Plodí od pozdního jara do léta na zemi pod duby a kaštanovníky (Castanopsis) v lesích východní a jihovýchodní Asie.",
+          "uses": "Smrtelně jedovatá houba obsahující vysoké dávky alfa- a beta-amanitinu.",
+          "confusion": "Podobná je muchomůrka porfyrová (Amanita porphyria), která však roste v jehličnanech mírného pásma a má odlišnou vůni po bramborách a jinou stavbu pochvy.",
+          "notes": "V jižní Číně je zodpovědná za stovky těžkých otrav s desítkami úmrtí."
+    },
       en: {
         description: "An ectomycorrhizal mushroom of woods dominated by oaks, Castanopsis, and other trees in the beech family. It is known from Japan, from eastern, southern, central, and southwestern China, and from a fagaceous forest in northern Thailand. In southern and central China it has repeatedly caused fatal poisonings.",
         cap: "The cap is 3–6 cm across. It starts egg-shaped to bell-shaped, then becomes convex and later flat, sometimes with a low broad umbo. It is slightly sticky when wet and shiny when dry. The colour is sooty brown to blackish, darkest at the centre, with dark grey fibrils innate in the surface. The margin is not lined and carries no hanging veil, and it may split with age.",
@@ -14241,6 +17596,20 @@ export const CATALOG = [
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://en.wikipedia.org/wiki/Amanita_fuliginea"
+          }
+    ],
+      cs: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://en.wikipedia.org/wiki/Amanita_fuliginea"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -14381,6 +17750,28 @@ export const CATALOG = [
     label: {},
     names: {},
     text: {
+      de: {
+          "description": "Ein tödlich giftiger weißer Wulstling in den subtropischen Wäldern Südchinas.",
+          "cap": "Der Hut ist 4–7 cm breit, weiß bis elfenbeinfarben, glatt, am Rand im Alter oft charakteristisch radial einreißend.",
+          "hymenium": "Die Lamellen sind frei, rein weiß, gedrängt stehend.",
+          "stipe": "Der Stiel ist 6–10 cm lang, weiß, schlank zylindrisch, mit häutiger Manschette und weißer Scheide an der Knolle.",
+          "flesh": "Das Fleisch ist rein weiß. Mit KOH verfärbt es sich intensiv gelb.",
+          "habitat": "Fruchtkörper erscheinen im Sommer in subtropischen Eichen- und Buchenmischwäldern Südchinas.",
+          "sporePrint": "Weiß. Die Sporen sind kugelig, glatt, 6,3–8,3 × 5,8–7,4 μm groß und amyloid.",
+          "uses": "Tödlich giftig! Enthält Amatoxine und führt zu fatalem akutem Leberversagen.",
+          "notes": "Kein belegter deutscher Volksname; wissenschaftlicher Name gezeigt. Der radial einreißende Hutrand gab der Art den Namen."
+    },
+      cs: {
+          "description": "Smrtelně jedovatá ektomykorhizní houba z rodu muchomůrka, rostoucí v listnatých lesích jižní Číny a severního Thajska, vázaná především na stromy z čeledi bukovitých.",
+          "cap": "Klobouk má 3–6,2 cm v průměru, polokulovitý, později klenutý až rozprostřený. Povrch je suchý nebo slabě lepkavý, bělavý až žlutobílý, na středu bledě žlutý až krémový, k okraji jemně radiálně rýhovaný až paprsčitě rozpukaný.",
+          "hymenium": "Lupeny jsou volné, husté, bílé až bělavé, se zkrácenými lupínky.",
+          "stipe": "Třeň je 5–9 cm dlouhý a 3–10 mm tlustý, válcovitý, bílý, zakončený kulovitou lemovanou hlízou s bílou blanitou pochvou. V horní části nese tenký bílý prsten.",
+          "flesh": "Dužnina je bílá, tenká a měkká v klobouku, plná ve třeni.",
+          "sporePrint": "Bílý. Výtrusy jsou kulovité až téměř kulovité, hladké, amyloidní, 6,3–8,3 × 5,8–7,4 μm.",
+          "habitat": "Roste jednotlivě nebo roztroušeně na zemi v listnatých lesích pod stromy čeledi bukovitých od června do září.",
+          "uses": "Smrtelně jedovatá houba způsobující akutní selhání jater vlivem obsažených amatoxinů.",
+          "notes": "V okrese Weng-jüan v provincii Kuang-tung způsobila otravu pěti lidí, z nichž dva zemřeli."
+    },
       en: {
         description: "An ectomycorrhizal mushroom of broad-leaved woods, especially forests dominated by trees of the beech family. It is known from Jiangxi, Hunan, Hubei, Guangdong, Guizhou, Yunnan, and Hainan in China, and from northern Thailand. A sequenced collection is known from Hyogo, Japan. Fatal poisonings are recorded from southern China.",
         cap: "The cap is 3–6.2 cm across. It begins hemispherical and becomes convex, then flat. The surface is dry or slightly sticky, and shiny when moist. It is white to yellowish white toward the margin. The centre is pale yellow to cream, and it may be slightly brown. The margin is not lined and carries no hanging veil. Fine radial ridges, sometimes clear only under a lens, run out to a margin that may crack.",
@@ -14405,6 +17796,20 @@ export const CATALOG = [
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://en.wikipedia.org/wiki/Amanita_rimosa"
+          }
+    ],
+      cs: [
+          {
+                "group": "text",
+                "name": "Zdroj",
+                "href": "https://doi.org/10.11646/phytotaxa.286.4.1"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -14523,6 +17928,30 @@ export const CATALOG = [
       en: ["nail-like mushroom"]
     },
     text: {
+      de: {
+          "description": "Ein kleiner, weißer, tödlich giftiger Holzpilz der Provinz Yunnan im Südwesten Chinas. Er wurde als Ursache des plötzlichen ungeklärten Herztodes (Yunnan Sudden Death Syndrome) identifiziert.",
+          "cap": "Der Hut ist 1–4 cm breit, trichterförmig, rein weiß, dünnfleischig und zart.",
+          "hymenium": "Die Lamellen sind weiß, gabelig geteilt und laufen am Stiel herab.",
+          "stipe": "Der Stiel ist 1,5–3 cm lang, dünn, zylindrisch, weißlich.",
+          "flesh": "Das Fleisch ist weiß, sehr dünn, fast geruchlos.",
+          "habitat": "Fruchtkörper erscheinen während der sommerlichen Regenzeit an morschem Holz in Bergwäldern Yunnans.",
+          "sporePrint": "Weiß. Die Sporen sind winzig, glatt, hyalin und inamyloid.",
+          "uses": "Tödlich giftig! Enthält toxische unnatürliche Aminosäuren, die zu schwerer Hypoglykämie, Herzrhythmusstörungen und plötzlichem Herztod führen.",
+          "confusion": "Die ähnliche Trogia infundibuliformis besitzt einen trichterförmigen Hut mit hohlem Stiel und angenehmem Geruch. Der Pilz erinnert zudem flüchtig an kleine holzbewohnende Seitlinge (Pleurotus) oder weiße Nabelinge (Omphalina).",
+          "notes": "Kein belegter deutscher Volksname; wissenschaftlicher Name gezeigt. Auslöser von über 400 ungeklärten Todesfällen in Yunnan."
+    },
+      cs: {
+          "description": "Drobná dřevokazná houba z čeledi Porotheleaceae, tvořící trsy křehkých bělavých plodnic na mrtvém dřevě v horských lesích provincie Jün-nan v jihozápadní Číně. Způsobuje záhadný syndrom náhlého nevysvětlitelného úmrtí.",
+          "cap": "Plodnice jsou vějířovité až lžícovité nebo lupenité (připomínající list jinanu), 3–7 × 5–10 cm velké, s vlnitým, částečně průsvitným okrajem, bílé až narůžovělé nebo světle hnědavé.",
+          "hymenium": "Lupeny jsou úzké a sbíhavé.",
+          "stipe": "Třeň je krátký, postranní nebo výstředný, vláknitý, plný, bledý až hnědavý.",
+          "flesh": "Dužnina je velmi tenká a křehká, bez výrazného zápachu.",
+          "sporePrint": "Bílý. Výtrusy jsou drobné, hladké, hyalinní, neamyloidní.",
+          "habitat": "Roste v početných trsech od června do září na tlejícím dřevě, pařezech a padlých kmenech v horských lesích v nadmořských výškách 1 700 až 3 000 m.",
+          "uses": "Smrtelně jedovatá! Způsobuje těžkou hypoglykémii a srdeční arytmie končící náhlou smrtí.",
+          "confusion": "Podobná neškodná Trogia infundibuliformis má nálevkovitý klobouk s dutým třeněm a příjemnou vůní. Vzdáleně připomíná drobné hlívy (Pleurotus) rostoucí na dřevě.",
+          "notes": "Obsahuje neproteinové aminokyseliny (např. kyselinu 2R-amino-4S-hydroxy-5-hexynovou), které blokují syntézu glukózy v játrech."
+    },
       en: {
         description: "A common wood-rotting mushroom that fruits in clusters on dead wood. It grows in the subtropical mountains of Yunnan, in southwestern China, and it is known only from the southwest, the centre, and the northwest of the province, between about 1,700 and 3,000 m.",
         cap: "The fruit body is delicate, about 3–7 cm on the shorter axis and 5–10 cm on the longer. The cap is fan-shaped to petal-like, like a ginkgo leaf, with a wavy and partly translucent margin. It is white when fresh, and the colour also runs from pinkish through dirty white to light brown.",
@@ -14547,6 +17976,20 @@ export const CATALOG = [
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://en.wikipedia.org/wiki/Trogia_venenata"
+          }
+    ],
+      cs: [
+          {
+                "group": "text",
+                "name": "Zdroj",
+                "href": "https://doi.org/10.1007/s11557-012-0809-y"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -14729,6 +18172,8 @@ export const CATALOG = [
     fruitingFrom: 5,
     fruitingTo: 12,
     label: {
+      de: "Violetter Lacktrichterling",
+      cs: "lakovka ametystová",
       en: "amethyst deceiver",
       sk: "lakovka ametystová"
     },
@@ -14736,6 +18181,30 @@ export const CATALOG = [
       en: ["amethyst laccaria"]
     },
     text: {
+      de: {
+          "description": "Ein kleiner, intensiv violett gefärbter ektomykorrhizabildender Blätterpilz in Laub- und Nadelwäldern auf feuchten, humosen Böden.",
+          "cap": "Der Hut ist 1–6 cm breit, leuchtend tiefviolett, hygrophan: bei Trockenheit zu blass lila oder weißlich ausblassend, gewölbt mit genabelter Mitte.",
+          "hymenium": "Die Lamellen sind dick, entfernt stehend, leuchtend violett und mit weißem Sporenstaub bepudert.",
+          "stipe": "Der Stiel ist 4–10 cm lang und 0,3–0,8 cm dick, zäh, elastisch, längsfaserig violett gestreift mit weißlich-violettem Basismyzel.",
+          "flesh": "Das Fleisch ist dünn, violett, wässrig. Geruch unbedeutend, Geschmack mild.",
+          "habitat": "Fruchtkörper erscheinen von Juli bis November massenhaft in Laub- und Nadelwäldern auf feuchtem Humus.",
+          "sporePrint": "Weiß. Die Sporen sind kugelig, stachelig, 7–10 μm groß.",
+          "uses": "Essbar und wohlschmeckend, besonders als bunter Mischpilz. Er reichert jedoch Schwermetalle und Arsen stärker an als andere Pilze.",
+          "confusion": "Der Gemeine Rettich-Helmling (Mycena pura) riecht stark nach Rettich und ist giftig. Violete Schleierlinge (Cortinarius) haben rostbraune Sporen.",
+          "notes": "Eine Beurteilung aus dem Jahr 2019 stuft die Art als nicht gefährdet (Least Concern) ein."
+    },
+      cs: {
+          "description": "Hojná, drobná až středně velká ektomykorhizní houba s nápadně sytě fialovým zbarvením celé plodnice, rostoucí v opadu vlhkých listnatých i jehličnatých lesů mírného pásma.",
+          "cap": "Klobouk má 1–6 cm v průměru, nejprve polokulovitý, později klenutý až ploše rozprostřený, uprostřed často prohloubený. Za vlhka je sytě ametystově až fialově zbarvený a na okraji prosvítavě rýhovaný, za sucha silně bledne (je hygrofánní) do špinavě bělavé nebo okrově narůžovělé barvy.",
+          "hymenium": "Lupeny jsou tlusté, široké, řídké, připojené až mírně sbíhavé, živě ametystově fialové, v dospělosti bíle poprášené výtrusným prachem.",
+          "stipe": "Třeň je 4–10 cm dlouhý a 2–7 mm tlustý, válcovitý, pružný, podélně bělavě vláknitý na fialovém podkladě, na bázi s fialovou plstí mycelia.",
+          "flesh": "Dužnina je tenká, vodnatá, fialová, za sucha blednoucí, s nevýraznou vůní a mírnou chutí.",
+          "sporePrint": "Bílý. Výtrusy jsou kulovité, ostnité, 8–10 μm v průměru (bez ostnů).",
+          "habitat": "Roste velmi hojně od června do listopadu v listnatých i jehličnatých lesích, parcích a zahradách na vlhkých humózních půdách pod buky, duby i smrky.",
+          "uses": "Jedlá a chutná houba. Sbírají se kloboučky do směsí a polévek, které obohatí svou pěknou barvou.",
+          "confusion": "Může být zaměněna za slabě jedovatou helmovku ředkvičkovou (Mycena pura), která má však výraznou ředkvičkovou vůni a chuť, hustší lupeny a hladké elipsoidní výtrusy. Fialové pavučince (Cortinarius) mají rezavě hnědé lupeny a hnědý výtrusný prach.",
+          "notes": "Je známo, že plodnice lakovky ametystové dokážou akumulovat arsen z půdy, proto se nedoporučuje její sběr na znečištěných stanovištích."
+    },
       en: {
         description: "A small ectomycorrhizal mushroom of leaf litter and moss in temperate woods, often in groups. It is widespread in Europe and grows in much of Asia, in Central and South America, and in eastern North America. Reports also place it in Africa, Australia, and New Zealand.",
         cap: "The cap is usually 2–6 cm across and can reach 7 cm. East of the Rocky Mountains it is often only 0.5–3.5 cm. It is convex at first, with an inrolled margin, and later flat or wavy, typically with a central depression, and the edge may be lobed. The surface is smooth at first and later matte, scurfy, or finely scaly at the centre. It is hygrophanous. When moist it is deep amethyst, violet, or purplish lilac, sometimes greyish purple. As it dries it fades from the centre through lilac-brown to pale grey, buff, pale ochre, cream, or nearly white, and the margin can be faintly striate. The cap skin is a cutis of hyphae 6–20 μm wide, with upright cells or bundles of them. Potassium hydroxide turns the cap surface brownish.",
@@ -14762,6 +18231,30 @@ export const CATALOG = [
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Violetter_Lacktrichterling"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
+      cs: [
+          {
+                "group": "text",
+                "name": "Česká mykologická společnost",
+                "href": "https://www.myko.cz/myko-atlas/Laccaria-amethystina/"
+          },
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://cs.wikipedia.org/wiki/Lakovka_ametystová"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -14956,6 +18449,8 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 2,
     label: {
+      de: "Kegeliger Saftling",
+      cs: "voskovka kuželovitá",
       en: "blackening waxcap",
       sk: "lúčnica kužeľovitá"
     },
@@ -14967,6 +18462,30 @@ export const CATALOG = [
       ]
     },
     text: {
+      de: {
+          "description": "Ein farbenfroher Saftling magerer Wiesen und Weiden. Charakteristisch ist das völlige Schwärzen aller Fruchtkörperteile im Alter oder bei Berührung.",
+          "cap": "Der Hut ist 2–6 cm breit, spitz kegelig bis glockig, feurig rot, orange oder gelb, radialfaserig, bei Feuchtigkeit schmierig, bald schwärzend.",
+          "hymenium": "Die Lamellen sind gelborange bis rötlich, frei bis fast frei und schwärzen bei Berührung.",
+          "stipe": "Der Stiel ist 4–9 cm lang und 0,5–1 cm dick, gelb mit orangen Fasern, längsstreifig, hohl, im Alter vollständig tiefschwarz anlaufend.",
+          "flesh": "Das Fleisch ist dünn, gelborange und schwärzt bei Verletzung rasch. Geruch unauffällig.",
+          "habitat": "Fruchtkörper erscheinen von Juni bis November auf Magerwiesen, Halbtrockenrasen und Waldlichtungen.",
+          "sporePrint": "Weiß. Die Sporen sind glatt, ellipsoid, 8–11 × 5–7 μm groß.",
+          "uses": "Giftverdächtig bis schwach giftig. Verursacht Magen-Darm-Beschwerden und steht unter Naturschutz.",
+          "confusion": "Der Schwärzende Saftling (Hygrocybe nigrescens) besitzt größere Sporen und wird oft als eigene Art geführt. Der Spitzgebuckelte Saftling (Hygrocybe acutoconica) schwärzt nicht. Der Granatrote Saftling (Hygrocybe punicea) ist größer, nicht spitzkegelig und schwärzt ebenfalls nicht. Der Kirschrote Saftling (Hygrocybe coccinea) und der Mennigrote Saftling (Hygrocybe miniata) sind kleiner und verfärben sich nicht schwarz.",
+          "notes": "Eine Beurteilung aus dem Jahr 2019 stuft die Art als nicht gefährdet (Least Concern) ein."
+    },
+      cs: {
+          "description": "Drobná až středně velká voskovka s nápadně špičatým kloboukem a pestrými žlutooranžovými až červenými barvami, která se vyznačuje rychlým a výrazným černáním všech částí při stárnutí nebo poranění.",
+          "cap": "Klobouk má 2–6 cm v průměru, výrazně ostře kuželovitý, v dospělosti až zvoncovitý s ostrým vrcholem. Povrch je lepkavý, podélně paprsčitě vláknitý, zářivě šarlatově červený, oranžový až žlutooranžový, na okraji často laločnatý. Při dotyku nebo stářím rychle černá.",
+          "hymenium": "Lupeny jsou volné až úzce připojené, břichaté, tlusté, voskovité, zpočátku světle žluté až oranžové, později šednoucí a nakonec úplně černající.",
+          "stipe": "Třeň je 4–9 cm dlouhý a 3–8 mm tlustý, válcovitý, dutý, podélně vláknitý a kroucený, žlutý až oranžový, směrem k bázi bělavý, při poranění černající.",
+          "flesh": "Dužnina je křehká, tenká, žlutavá, na vzduchu rychle černající, bez výrazné vůně a chuti.",
+          "sporePrint": "Bílý. Výtrusy jsou elipsoidní, hladké, hyalinní, 8–11 × 5–7 μm.",
+          "habitat": "Roste od července do listopadu na nehnojených loukách, pastvinách, travnatých lesních lemech a okrajích cest na kyselých i vápnitých půdách.",
+          "uses": "Nejedlá až slabě jedovatá houba. U citlivějších osob může vyvolat mírné zažívací potíže.",
+          "confusion": "Podobná voskovka šarlatová (Hygrocybe coccinea) a voskovka vosková (Hygrocybe ceracea) nemají tak ostře kuželovitý klobouk a jejich dužnina ani povrch po poranění vůbec nečernají.",
+          "notes": "Je bioindikátorem zachovalých, starých travních porostů s nízkou hladinou dusíku."
+    },
       en: {
         description: "A grassland mushroom of meadows, lawns, verges, and dunes, also found in open woods and along paths. It grows alone or in groups. It occurs from the Mediterranean to Iceland and across North America, and it is recorded from northern Asia, North Africa, South America, Australia, New Guinea, and New Zealand.",
         cap: "The cap is 0.5–12 cm across, usually about 2–10 cm. Fruit bodies in eastern North America are often smaller, with a cap about 1–6 cm across. It is sharply conical at first, sometimes bluntly so, and it expands but keeps a pointed umbo. The margin may become lobed or turn up, so an old cap is slightly bell-shaped, and small caps are often translucently striate. The surface is slimy or greasy in wet weather and dry and silky afterwards. The typical form is also described as not sticky. The colour is scarlet, orange, or yellow, sometimes paler at the margin, and some fruit bodies are bronze, olive-brown, or greenish, or yellow and then green without any red. It blackens in patches from the centre or the point, and an old cap can be entirely black and still shiny. Potassium hydroxide on the cap is negative. The cuticle is an ixocutis.",
@@ -14993,6 +18512,30 @@ export const CATALOG = [
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Kegeliger_Saftling"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
+      cs: [
+          {
+                "group": "text",
+                "name": "Česká mykologická společnost",
+                "href": "https://www.myko.cz/myko-atlas/Hygrocybe-conica/"
+          },
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://cs.wikipedia.org/wiki/Voskovka_kuželovitá"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -15178,6 +18721,8 @@ export const CATALOG = [
     fruitingFrom: 1,
     fruitingTo: 12,
     label: {
+      de: "Nelken-Schwindling",
+      cs: "špička obecná",
       en: "fairy ring mushroom",
       sk: "tanečnica poľná"
     },
@@ -15186,6 +18731,30 @@ export const CATALOG = [
       sk: ["tanečnica", "klinček", "špička", "tančok", "potančok", "tancuľka", "pipíšky", "uľahliarky"]
     },
     text: {
+      de: {
+          "description": "Ein beliebter saprotropher Speisepilz auf Wiesen, Weiden und Parkrasen. Bildet oft riesige Hexenringe und lebt nach dem Eintrocknen bei Befeuchtung wieder auf.",
+          "cap": "Der Hut ist 2–5 cm breit, fleischfarben-bräunlich bis ocker-creme, hygrophan, mit stumpfem Buckel und schwach gerieftem Rand.",
+          "hymenium": "Die Lamellen sind cremeweiß bis hell ockerlich, auffallend dick und entfernt stehend, fast frei.",
+          "stipe": "Der Stiel ist 4–7 cm lang und 0,3–0,5 cm dick, zäh, elastisch (lässt sich um den Finger wickeln, ohne zu brechen), blass ockerlich.",
+          "flesh": "Das Fleisch ist zäh, weißlich. Geruch intensiv würzig nach Blausäure oder Bittermandeln, Geschmack angenehm süßlich.",
+          "habitat": "Fruchtkörper erscheinen von Mai bis November in Hexenringen auf Wiesen, Weiden und Sportplätzen.",
+          "sporePrint": "Weiß. Die Sporen sind ellipsoid bis tropfenförmig, glatt, 7–9 × 4–6 μm groß.",
+          "uses": "Ein hervorragender Würz- und Speisepilz, besonders geeignet für Suppen und Saucen. Nur die zarten Hüte verwenden; trocknet vorzüglich.",
+          "confusion": "Gefährliche Verwechslungsmöglichkeit mit giftigen weißen Trichterlingen (Clitocybe), die jedoch dicht stehende, herablaufende Lamellen und brüchige Stiele haben.",
+          "notes": "Die extreme Zähigkeit des Stiels und die entfernt stehenden Lamellen sind kennzeichnend."
+    },
+      cs: {
+          "description": "Drobná, houževnatá saprotrofní houba rostoucí v početných pruzích a čarodějných kruzích v trávě na loukách, pastvinách a trávnících mírného pásma celého světa.",
+          "cap": "Klobouk má 2–6 cm v průměru, nejprve polokulovitý, později sklenutý až plochý s tupým středovým hrbolem. Povrch je hladký, za vlhka okrově hnědý až masově zbarvený a na okraji slabě rýhovaný, za sucha bledne do krémově kožové až bělavé barvy.",
+          "hymenium": "Lupeny jsou volné nebo úzce připojené, nápadně řídké, široké, se zkrácenými lupínky, krémové až bělavé, po usušení a opětovném navlhčení schopné znovu nabobtnat.",
+          "stipe": "Třeň je 3–8 cm dlouhý a 2–5 mm tlustý, válcovitý, tuhý, pružný a nelámavý, na vrcholu bledý, směrem k bázi plavě hnědavý a jemně plstnatý.",
+          "flesh": "Dužnina je tenká, bělavá, pružná, s příjemnou houbovou vůní připomínající hořké mandle a nasládlou mírnou chutí.",
+          "sporePrint": "Bílý. Výtrusy jsou elipsoidní až kapkovité, hladké, hyalinní, 7–9 × 4–6 μm.",
+          "habitat": "Plodí od května do listopadu na loukách, pastvinách, mezích, v zahradách a na fotbalových hřištích v bohatých čarodějných kruzích.",
+          "uses": "Výtečná a velmi oblíbená jedlá houba, tradičně sbíraná do polévek (slavná špičková polévka), omáček a k sušení. Sbírají se pouze kloboučky, tuhé třeně se odstraňují.",
+          "confusion": "Nebezpečná je záměna se smrtelně jedovatými bílými druhy strmělek, např. strmělkou odbarvenou (Clitocybe rivulosa) a strmělkou listomilnou (Clitocybe phyllophila), které mají husté, sbíhavé lupeny, křehký třeň a moučnou vůni. Jedovatá závojenka jarní (Entoloma vernum) má v dospělosti růžové lupeny.",
+          "notes": "Mycelium v půdě produkuje kyselinu kyanovodíkovou a dusíkaté látky, což způsobuje, že tráva v pruhu růstu špiček je zprvu spálená a následně bujně tmavě zelená."
+    },
       en: {
         description: "A common saprobic mushroom of lawns, meadows, pastures, parks, and other grass, often in troops, arcs, or rings after rain. It grows through the temperate zone of the northern hemisphere, including Britain, Ireland, mainland Europe, and most of North America, and it stays common on turf where people walk.",
         cap: "The cap is about 1–5 cm across, and published measurements reach 6 or 7 cm. It is bluntly conical or hemispherical at first, then convex, and finally flat, and it keeps a broad umbo. The margin is thin and sometimes faintly lined or grooved, especially when moist or in age. The surface is smooth and bald, and strongly hygrophanous: orange-ochre, tan, reddish ochre, or pale brownish yellow and glossy when wet, drying to buff, pale ochre, or cream, and occasionally white or, rarely, pinkish. The cap cuticle is a hymeniform layer of club-shaped, pear-shaped, or cylindrical cells, without broom cells.",
@@ -15212,6 +18781,30 @@ export const CATALOG = [
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Nelken-Schwindling"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
+      cs: [
+          {
+                "group": "text",
+                "name": "Česká mykologická společnost",
+                "href": "https://www.myko.cz/myko-atlas/Marasmius-oreades/"
+          },
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://cs.wikipedia.org/wiki/Špička_obecná"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -15373,6 +18966,8 @@ export const CATALOG = [
     fruitingFrom: 5,
     fruitingTo: 1,
     label: {
+      de: "Puppen-Kernkeule",
+      cs: "housenice červená",
       en: "scarlet caterpillarclub",
       sk: "žezlovka hmyzová"
     },
@@ -15380,6 +18975,30 @@ export const CATALOG = [
       en: ["scarlet caterpillar fungus", "scarlet caterpillar club"]
     },
     text: {
+      de: {
+          "description": "Ein parasitärer Schlauchpilz, der unterirdisch an Schmetterlingspuppen parasitiert. Bekannt für seinen hohen Gehalt an bioaktiven Wirkstoffen wie Cordycepin.",
+          "cap": "Der keulenförmige Fruchtkörper (Stroma) wird 2–5 cm hoch und 0,3–0,8 cm dick, leuchtend orange bis zinnoberrot, mit feinkörnig punktierter Oberfläche (Ostiolen).",
+          "hymenium": "Die Schläuche (Asci) liegen in eingesenkten Perithezien im oberen keuligen Teil.",
+          "stipe": "Der untere sterile Teil ist blasser orange und wurzelt direkt in der vergrabenen Insektenpuppe.",
+          "flesh": "Das Fleisch ist blass orange, zäh-elastisch.",
+          "habitat": "Fruchtkörper erscheinen von August bis November in Wäldern und auf Moorböden, entspringend aus im Boden vergrabenen Schmetterlingspuppen.",
+          "sporePrint": "Weißlich. Die fadenförmigen Sporen zerfallen in kleine Teilsporen (3,5–6 × 1–1,5 μm).",
+          "uses": "Als Speisepilz ohne Bedeutung, wird jedoch in Asien und der Alternativmedizin als hochgeschätzter Vital- und Heilpilz kultiviert.",
+          "confusion": "Die Kopfige Kernkeule (Tolypocladium capitatum) und die Zungen-Kernkeule (Tolypocladium ophioglossoides) wachsen auf unterirdischen Hirschtrüffeln (Elaphomyces) statt auf Insektenpuppen. Der Chinesische Raupenpilz (Ophiocordyceps sinensis) ist dunkler braun und parasitiert auf Raupen von Wurzelbohrern im tibetischen Hochland. Cordyceps bifusispora besitzt zweisporige Schläuche.",
+          "notes": "Pilz des Jahres 2007 in Deutschland."
+    },
+      cs: {
+          "description": "Vřeckovýtrusá entomopatogenní houba tvořící vzpřímená oranžovočervená kyjovitá stromata, která vyrůstají z podzemních kukel a housenek motýlů v lesích mírného pásma.",
+          "cap": "Stroma (plodnice) je kyjovité až válcovité, 2–6 cm vysoké a 3–8 mm široké, jednoduché nebo vzácně rozvětvené, jasně oranžové, šarlatové až oranžovočervené, na povrchu hustě poseté tmavšími bradavičkami (ústími zanořených perithecií).",
+          "hymenium": "Výtrusorodé rouško tvoří perithecia zanořená v horní kyjovité části stromatu. Vřecka jsou velmi dlouhá, válcovitá, obsahující osm nitkovitých askospor.",
+          "stipe": "Spodní sterilní část stromatu je hladká, světleji zbarvená (bledě oranžová až žlutavá) a pod zemí vyrůstá přímo ze zbytků kukly hmyzu přeměněné v tvrdé sklerocium.",
+          "flesh": "Dužnina je pružná, masitá, oranžově žlutá, bez výrazné vůně.",
+          "sporePrint": "Bílý. Askospory jsou velmi dlouhé, nitkovité, mnohobuněčné, které se v dospělosti rozpadají na drobné válcovité partispory o rozměrech 3–6 × 1–1,5 μm.",
+          "habitat": "Roste od srpna do listopadu na zemi v mechu a opadu v jehličnatých i listnatých lesích, parcích a rašeliništích, parazitujíc na kuklách motýlů skrytých v půdě.",
+          "uses": "Nejedlá v kulinářském smyslu pro drobné rozměry, ale vysoce ceněná v tradiční medicíně a moderní farmakologii jako alternativa housenice čínské (Ophiocordyceps sinensis). Obsahuje bioaktivní látku cordycepin s protizánětlivými a imunomodulačními účinky.",
+          "confusion": "Může se podobat neškodným kuřátkům (např. Clavulinopsis helvola), která však vyrůstají přímo z půdy bez napadeného hmyzu na bázi a mají hladký povrch bez perithecií.",
+          "notes": "Housenice červená je úspěšně uměle pěstována na pevných zrnitých substrátech pro farmaceutický průmysl."
+    },
       en: {
         description: "A parasitic club of grassland, moss, and woodland edges, growing alone or in groups from a buried moth or butterfly pupa. It occurs through the Northern Hemisphere and is found more often in eastern North America than west of the Rocky Mountains. In Britain and Ireland it is infrequent and easily overlooked.",
         cap: "The fruit body is one club, orange to scarlet, and only rarely branched. The fertile head is slightly swollen and granular with raised pores. British heads are 0.5–4 cm long and 2–4 mm thick. The whole club is 1–8 cm high: often 2–5 cm in central Europe, 2–8 cm long and up to about 5 mm thick in North America, and 15–70 mm long by 3–10 mm thick in a French account. The head is wider than the sterile base.",
@@ -15406,6 +19025,30 @@ export const CATALOG = [
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Puppen-Kernkeule"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
+      cs: [
+          {
+                "group": "text",
+                "name": "Česká mykologická společnost",
+                "href": "https://www.myko.cz/myko-atlas/Cordyceps-militaris/"
+          },
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://cs.wikipedia.org/wiki/Housenice_červená"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -15573,6 +19216,8 @@ export const CATALOG = [
     fruitingFrom: 7,
     fruitingTo: 12,
     label: {
+      de: "Igel-Stachelbart",
+      cs: "korálovec ježatý",
       en: "lion's mane",
       sk: "koralovec ježovitý"
     },
@@ -15580,6 +19225,30 @@ export const CATALOG = [
       en: ["bearded tooth", "bearded hedgehog", "tree hedgehog"]
     },
     text: {
+      de: {
+          "description": "Ein seltener, geschützter Holzpilz alter Buchenwälder. Seine Gestalt erinnert an einen weißen Igel oder eine Löwenmähne.",
+          "cap": "Der Fruchtkörper ist knollenförmig, 10–25 cm breit, rein weiß bis cremefarben, dicht bedeckt mit herabhängenden, 2–5 cm langen, weichen Stacheln.",
+          "hymenium": "Die Fruchtschicht überzieht die Außenseite der dicht herabhängenden Stacheln.",
+          "stipe": "Stiellos oder mit kurzem seitlichem Strunk fest am Holz verankert.",
+          "flesh": "Das Fleisch ist weiß, faserig, elastisch. Geruch angenehm fruchtig, Geschmack süßlich-aromatisch mit feiner Kokos- oder Hummernote.",
+          "habitat": "Fruchtkörper erscheinen von August bis November an Wundstellen alter lebender Laubbäume, vor allem Rotbuchen und Eichen.",
+          "sporePrint": "Weiß. Die Sporen sind fast kugelig, fein warzig, amyloid, 5–6,5 × 4,5–5,5 μm groß.",
+          "uses": "Ein hervorragender, delikater Speisepilz und bedeutender Heilpilz, der weltweit kultiviert wird. Wildfunde sind streng geschützt und dürfen nicht gesammelt werden.",
+          "confusion": "Der Ästige Stachelbart (Hericium coralloides) ist korallenartig verzweigt mit kürzeren Stacheln.",
+          "notes": "Pilz des Jahres 2026 in Deutschland."
+    },
+      cs: {
+          "description": "Velmi nápadná a vzácná dřevokazná houba tvořící kulovité až polštářovité plodnice hustě pokryté dlouhými převislými ostny, rostoucí na starých živých i mrtvých listnáčích (především dubu a buku).",
+          "cap": "Plodnice je kompaktní, polštářovitá nebo hlízovitá, 10–30 cm velká, zpočátku čistě bílá až krémová, později žloutnoucí a v dospělosti rezavě hnědnoucí. Je přirostlá k substrátu masitou bází a celá hustě porostlá visícími, měkkými ostny dlouhými 1–5 cm.",
+          "hymenium": "Hymenium pokrývá povrch dlouhých svisle visících ostnů (zubů), na nichž se tvoří bazidie s výtrusy.",
+          "stipe": "Třeň chybí nebo je zredukován na krátkou masitou postranní bázi pevně srostlou se dřevem.",
+          "flesh": "Dužnina je tlustá, pevná, masitá, čistě bílá, s příjemnou houbovou vůní a lahodnou nasládlou chutí připomínající maso krabů nebo humrů.",
+          "sporePrint": "Bílý. Výtrusy jsou kulovité až široce elipsoidní, hladké až jemně bradavčité, amyloidní, 5–6,5 × 4,5–5,5 μm.",
+          "habitat": "Roste od srpna do listopadu jako parazit a saprotrof v dutinách a na kmenech starých listnatých stromů, zejména dubů a buků v zachovalých pralesovitých rezervacích.",
+          "uses": "Vynikající jedlá houba a vysoce ceněná medicinální houba (v Asii zvaná Yamabushitake). Obsahuje hericenony a erinaciny stimulující růst nervových buněk (NGF) a podporující paměť a kognitivní funkce.",
+          "confusion": "Podobný je korálovec bukový (Hericium coralloides), který má však plodnice silně rozvětvené jako mořský korál s kratšími ostny, a korálovec jedlový (Hericium flagellum) rostoucí na dřevě jedlí.",
+          "notes": "V České republice je korálovec ježatý zařazen v Červeném seznamu hub jako zranitelný druh (VU) a zasluhuje přísnou ochranu."
+    },
       en: {
         description: "A wood-rotting tooth fungus of old broadleaf woods. It is native to Europe, chiefly on beech and oak, and rare across much of that range. A 2025 study limits this name to the European fungus. The same form in eastern Asia and in eastern and western North America belongs to other species.",
         cap: "There is no separate cap. The fruit body is an unbranched cushion, rounded, heart-shaped, or elongate, usually 10–25 cm across and up to about 30 cm, and about 7–18 cm high, on a short broad attachment. It is white, then cream, pale yellow, or wax-yellow, and ochre to brown with age. The upper surface may be shortly hairy or felted.",
@@ -15606,6 +19275,30 @@ export const CATALOG = [
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Igel-Stachelbart"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
+      cs: [
+          {
+                "group": "text",
+                "name": "Česká mykologická společnost",
+                "href": "https://www.myko.cz/myko-atlas/Hericium-erinaceus/"
+          },
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://cs.wikipedia.org/wiki/Korálovec_ježatý"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -15835,11 +19528,37 @@ export const CATALOG = [
     fruitingFrom: 5,
     fruitingTo: 10,
     label: {
+      de: "Glänzender Lackporling",
+      cs: "lesklokorka lesklá",
       en: "lacquered bracket",
       sk: "lesklokôrovka obyčajná"
     },
     names: {},
     text: {
+      de: {
+          "description": "Ein einjähriger Holzporling an Laubbäumen mit auffallend lackartig glänzender Hut- und Stielkruste. Als Reishi der berühmteste Heilpilz der traditionellen asiatischen Medizin.",
+          "cap": "Der Hut ist 5–20 cm breit, fächer- oder nierenförmig, konzentrisch gefurcht, leuchtend rotbraun, kastanienbraun bis schwarzrot mit auffallend glänzender Lackschicht und weißlichem Zuwachsrand.",
+          "hymenium": "Die Poren an der Unterseite sind winzig (4–6 pro Millimeter), weißlich, später bräunlich verfärbend.",
+          "stipe": "Der Stiel ist meist seitlich angesetzt, 5–20 cm lang, knorrig verbogen und mit demselben dunklen Glanzlack wie der Hut überzogen.",
+          "flesh": "Das Fleisch ist zäh, holzig-korkig, rotbraun. Geschmack intensiv bitter.",
+          "habitat": "Fruchtkörper erscheinen von Mai bis Oktober an Wurzeln und Stämmen von Laubbäumen, besonders Eichen.",
+          "sporePrint": "Rostbraun. Die Sporen sind ellipsoid mit abgestutztem Ende, doppelwandig, fein warzig, 7–12 × 6–8 μm groß.",
+          "uses": "Als Speisepilz ungenießbar da holzhart und bitter. Als Heilpilz (Reishi / Lingzhi) zur Zubereitung von Tees und Extrakten weltweit hoch geschätzt.",
+          "confusion": "Der Harzige Lackporling (Ganoderma resinaceum) ist meist ungestielt und hat eine matte Kruste, deren Schmelzpunkt abweicht.",
+          "notes": "Die glänzende Lackschicht schmilzt in einer Flamme."
+    },
+      cs: {
+          "description": "Dřevokazná stopkovýtrusá houba s nápadně lakovaným lesklým povrchem klobouku a třeně, parazitující a saprotrofně rostoucí na dřevě listnáčů. Patří k nejvýznamnějším léčivým houbám světa.",
+          "cap": "Klobouk má 5–25 cm v průměru, ledvinovitý, vějířovitý až kruhovitý, plochý, na povrchu soustředně zbrázděný. Je pokryt lesklou pryskyřičnatou kůrou, která vypadá jako nalakovaná. Barva přechází od žluté a oranžové na okraji přes červenohnědou až po kaštanově a tmavě purpurově černou u báze.",
+          "hymenium": "Rourky jsou 5–20 mm dlouhé, jednovrstevné nebo slabě vrstevnaté, okrově hnědé. Póry jsou drobné, okrouhlé (4–5 na mm), zpočátku bílé až krémové, po otlačení hnědnoucí.",
+          "stipe": "Třeň je 5–20 cm dlouhý a 1–3 cm tlustý, válcovitý, často nepravidelný a hrbolatý, postranní, zbarvený a lakovaný stejně jako klobouk.",
+          "flesh": "Dužnina je tuhá, korkovitá až dřevnatá, rezavě hnědá, bez výrazné vůně a s nahořklou chutí.",
+          "sporePrint": "Hnědý. Výtrusy jsou vejčité, na vrcholu uťaté, se dvěma stěnami (vnitřní stěna je bradavčitá), žlutohnědé, 8–12 × 5,5–7,5 μm.",
+          "habitat": "Plodí od května do října na kořenech, pařezech a bázích kmenů živých i odumřelých listnáčů (především dubů) v teplejších oblastech.",
+          "uses": "Nejedlá pro dřevnatou konzistenci. Používá se k přípravě odvarů, tinktur a extraktů v tradiční čínské medicíně (Reishi, Lingzhi) pro své výrazné imunostimulační, protirakovinné a adaptogenní vlastnosti.",
+          "confusion": "Podobná lesklokorka ploská (Ganoderma applanatum) tvoří ploché bokem přirostlé plodnice bez lakované kůry a bez třeně.",
+          "notes": "Lesklý lakový povrch tvoří vrstva ztuhlých pryskyřičných výpotků, která taje nad plamenem zápalky."
+    },
       en: {
         description: "An annual bracket of broadleaved wood, parasitic on living trunks and saprotrophic on stumps and roots. It occurs through temperate and Mediterranean Europe, north to southern Scandinavia, and in parts of China. It is uncommon in Britain and Ireland. Most of the records from outside Europe belong to other species.",
         cap: "The fruit body is annual, and an old one sometimes lasts two or three years. It is usually stipitate and rarely sessile. The cap is fan-shaped, kidney-shaped, oval, spatulate, or semicircular, slightly convex, and sometimes lobed. It is commonly about 5–20 cm across, from about 3 cm to about 25 cm, and about 1–3 cm thick. Many caps are only 6–10 cm across. The surface is concentrically furrowed and lumpy, under a hard shiny lacquer. A young cap is yellow to yellow-ochre, then rust-red to mahogany from the centre, and purple, purple-brown, or black-brown in age. The margin is blunt, and white, yellow, or cream while the cap is growing. When growth stops, the whole cap is mahogany to purple-brown or nearly black. Fallen spores dull the shine.",
@@ -15866,6 +19585,30 @@ export const CATALOG = [
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Gl%C3%A4nzender_Lackporling"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
+      cs: [
+          {
+                "group": "text",
+                "name": "Česká mykologická společnost",
+                "href": "https://www.myko.cz/myko-atlas/Ganoderma-lucidum/"
+          },
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://cs.wikipedia.org/wiki/Lesklokorka_lesklá"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -16047,6 +19790,8 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 2,
     label: {
+      de: "Schweinsohr",
+      cs: "stročkovec kyjovitý",
       en: "pig's ears",
       sk: "lievikovec kyjakovitý"
     },
@@ -16054,6 +19799,30 @@ export const CATALOG = [
       en: ["pig's ear", "violet chanterelle", "clustered chanterelle"]
     },
     text: {
+      de: {
+          "description": "Ein seltener, ektomykorrhizabildender Pilz montaner Nadelwälder auf Kalkböden. Seine violetten Leisten und kreiselförmige Gestalt sind unverwechselbar.",
+          "cap": "Der Fruchtkörper ist keulen- bis kreiselförmig, 4–15 cm breit und 6–15 cm hoch, oben abgeflacht bis trichterförmig vertieft, lila bis violettgrau, später ockerbräunlich aufhellend.",
+          "hymenium": "Die Außenseite ist mit dicken, aderigen, gegabelten und querverbundenen Leisten bedeckt, die weit herablaufen und lebhaft violett gefärbt sind.",
+          "stipe": "Der Stiel geht nahtlos in den Hut über, ist kurz, dick, voll, blass lila bis weißlich.",
+          "flesh": "Das Fleisch ist dick, weißlich bis zart lila, weich. Geruch angenehm pilzig, Geschmack mild.",
+          "habitat": "Fruchtkörper erscheinen von Juli bis Oktober in Bergwäldern unter Fichten und Tannen auf Kalk.",
+          "sporePrint": "Ockergelb bis olivbraun. Die Sporen sind ellipsoid, warzig, 9–16 × 4–7,5 μm groß.",
+          "uses": "Ein hervorragender Speisepilz von feinem Aroma. Da die Art in ganz Mitteleuropa stark gefährdet und streng geschützt ist, darf sie nicht gesammelt werden.",
+          "confusion": "Die Abgestutzte Riesenkeule (Clavariadelphus truncatus) ist schlanker, gelb gefärbt, oben abgeflacht und auf der Außenseite nur runzelig statt mit dicken Leisten besetzt. Gomphus crassipes wächst in alten Kiefern- und Zedernwäldern des Mittelmeerraums, ist deutlicher in Hut und Stiel gegliedert, hat ein blasseres grauviolettes Hymenophor und im Anschnitt deutlich violettes Fleisch. Der Schuppige Schweinsohr-Röhrling (Turbinellus floccosus) besitzt eine ähnliche Trichterform, dessen Hut ist jedoch dicht schuppig.",
+          "notes": "Pilz des Jahres 1998 in Deutschland."
+    },
+      cs: {
+          "description": "Velká, nápadná a vzácná ektomykorhizní houba z čeledi Gomphaceae s fialově zbarvenými plodnicemi kyjovitého až nálevkovitého tvaru, rostoucí v horských jedlobučinách a smrčinách.",
+          "cap": "Plodnice je kyjovitá až zploštěle nálevkovitá, 5–15 cm vysoká a 4–10 cm široká na vrcholu, na okrajích nepravidelně zvlněná a laločnatá. Horní plocha klobouku je zpočátku fialová, později blednoucí do žlutookrové až kožově hnědé barvy, jemně plstnatá nebo šupinkatá.",
+          "hymenium": "Výtrusorodé rouško na vnější straně plodnice je tvořeno podélnými, zprohýbanými, větvenými a pospojovanými žebry až vráskami, které jsou zpočátku živě fialové, později fialově šedé a poprášené výtrusy.",
+          "stipe": "Třeň je krátký, masitý, plynule přecházející v klobouk, zúžený k bázi, fialový až hnědofialový.",
+          "flesh": "Dužnina je tlustá, pevná, masitá, bílá až mramorovaně nažloutlá, s příjemnou aromatickou vůní a jemnou chutí.",
+          "sporePrint": "Okrově žlutý až skořicově hnědý. Výtrusy jsou elipsoidní, jemně bradavčité, 10–14 × 4,5–6 μm.",
+          "habitat": "Plodí od července do října v horských a podhorských lesích na vápnitých i kyselých půdách, převážně pod jedlemi (Abies alba) a smrky.",
+          "uses": "Vynikající jedlá houba, avšak v České republice je přísně chráněná a nesmí se sbírat!",
+          "confusion": "Může vzdáleně připomínat lišku obecnou (Cantharellus cibarius), která je však celá žlutá, nebo stročka trubkovitého (Craterellus cornucopioides), který je černohnědý, tenký a dutý.",
+          "notes": "V České republice je zařazen v Červeném seznamu hub jako kriticky ohrožený druh (CR) a chráněn zákonem."
+    },
       en: {
         description: "An ectomycorrhizal mushroom. It grows with conifers, and in Europe also with beech. Native in temperate Europe, where it is now rare and no longer found in the British Isles, and in temperate Asia and North America, most often in the mountains and the Pacific Northwest.",
         cap: "A young fruit body is club-shaped, with a flat or slightly hollow top, and it opens into a wavy, lobed vase or fan. Several caps often share one stipe and fuse along their edges. The top is dry and smooth to finely felted, sometimes with small brown hair-like patches near the margin. It is lilac to violet at first, then lilac-grey, ochre, orange-brown, olive-brown, or creamy tan. The fruit body is commonly 4–15 cm across and 6–15 cm tall, and large ones reach about 20 cm.",
@@ -16080,6 +19849,30 @@ export const CATALOG = [
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Schweinsohr_(Pilz)"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
+      cs: [
+          {
+                "group": "text",
+                "name": "Česká mykologická společnost",
+                "href": "https://www.myko.cz/myko-atlas/Gomphus-clavatus/"
+          },
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://cs.wikipedia.org/wiki/Stročkovec_kyjovitý"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -16279,6 +20072,8 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 12,
     label: {
+      de: "Papageigrüner Saftling",
+      cs: "voskovka papouščí",
       en: "parrot waxcap",
       sk: "lúčnica žltozelená"
     },
@@ -16289,6 +20084,30 @@ export const CATALOG = [
       ]
     },
     text: {
+      de: {
+          "description": "Ein kleiner, extrem schleimiger Saftling magerer Graslandbiotope. Bekannt für sein fantastisches Farbenspiel aus Grün, Gelb und Orange.",
+          "cap": "Der Hut ist 1–5 cm breit, glockig bis gewölbt mit stumpfem Buckel, von einer dicken grünen Schleimschicht bedeckt, die später zu Orange, Gelb oder Rosa aufreißt.",
+          "hymenium": "Die Lamellen sind dick, gelborange mit oft grünlicher Schneide, am Stiel breit angewachsen.",
+          "stipe": "Der Stiel ist 3–7 cm lang und 0,3–0,8 cm dick, hohl, sehr schleimig, im oberen Teil papageigrün, zur Basis hin gelborange.",
+          "flesh": "Das Fleisch ist dünn, wässrig gelbgrün. Geruchlos, Geschmack mild.",
+          "habitat": "Fruchtkörper erscheinen von August bis November auf ungedüngten Magerwiesen und Schafweiden.",
+          "sporePrint": "Weiß. Die Sporen sind ellipsoid, glatt, 7,5–10 × 4,5–6 μm groß.",
+          "uses": "Ungenießbar bis minderwertig, zudem geschützt als Zeigerart naturnaher Magerwiesen.",
+          "confusion": "Der Zähe Saftling (Gliophorus laetus) ist orange gefärbt, hat einen schleimigen Stiel und herablaufende Lamellen ohne Grüntöne. Der Stumpfe Saftling (Hygrocybe chlorophana) ist leuchtend zitronengelb und besitzt keine Grünpigmente. Gliophorus reginae ist purpurbraun statt grün. Die Varietät Gliophorus psittacinus var. perplexa ist bräunlich orange ohne jegliche Grüntöne.",
+          "notes": "Pilz des Jahres 2003 in Deutschland."
+    },
+      cs: {
+          "description": "Drobná voskovka s nápadně pestrým papouščím zbarvením s převládajícími zelenými tóny a velmi slizkým povrchem, rostoucí na nehnojených travnatých stanovištích.",
+          "cap": "Klobouk má 1–4 cm v průměru, zpočátku polokulovitý až zvoncovitý, později klenutý s tupým hrbolem. Povrch je silně slizký a lesklý. V mládí je klobouk trávově až papouščí zelený, stárnutím bledne a prosvítají žluté, oranžové až masově červené odstíny.",
+          "hymenium": "Lupeny jsou tlusté, voskovité, široce připojené, zpočátku žlutozelené až zelené, později žluté až oranžové.",
+          "stipe": "Třeň je 3–7 cm dlouhý a 2–6 mm tlustý, válcovitý, dutý, silně slizký, na vrcholu sytě zelený, směrem k bázi žlutavý až oranžový.",
+          "flesh": "Dužnina je tenká, vodnatá, zelenavá až žlutá, bez výrazné vůně a chuti.",
+          "sporePrint": "Bílý. Výtrusy jsou elipsoidní, hladké, hyalinní, 7,5–9 × 4,5–5,5 μm.",
+          "habitat": "Roste od července do listopadu na loukách, pastvinách, travnatých okrajích cest a lesních světlinách chudých na dusík.",
+          "uses": "Nejedlá houba pro své drobné rozměry a slizkost; některé prameny uvádějí možnost mírných zažívacích potíží.",
+          "confusion": "Gliophorus perplexus postrádá zelenou barvu na vrcholu třeně a je oranžový až cihlově červený. Voskovka stinná (Gliophorus sciophanus) je převážně červená evropská houba odlišovaná od tohoto druhu. Gliophorus reginae je růžová až masově růžová, větší, robustnější a pouze mírně slizká. Voskovka radostná (Gliophorus laetus) je oranžová nebo žlutá, v mládí není zelená a má zřetelně sbíhavé lupeny. Voskovka žlutozelená (Hygrocybe chlorophana) je celá žlutá, v mládí bez zelených tónů a v dospělosti má dutý třeň. Starší vybledlé žluté plodnice mohou být zaměněny za jiné žluté voskovky, ale vrchol třeně zůstává zelený. Gliophorus graminicolor a Gliophorus viridis jsou zelené australské houby dříve uváděné pod tímto jménem.",
+          "notes": "Je důležitým bioindikátorem ekologicky cenných travních společenstev."
+    },
       en: {
         description: "A grassland mushroom of short meadows, pastures, lawns, and verges, also found in grassy woods and on mossy banks. It grows alone or in small groups. It occurs from the Mediterranean to Iceland and Greenland and across much of Europe, and it is recorded from the Americas, southern Africa, Japan, and one site near Sydney.",
         cap: "The cap is 1–5 cm across. It starts hemispherical or bell-shaped, with a blunt umbo, and expands to convex or nearly flat while keeping that umbo. The margin is translucently striate and may split with age. Young caps are covered in thick green slime. The surface is strongly slimy in wet weather and shiny, silky, or matt when dry. The colour is dark green, olive, or blue-green at first, often yellow toward the centre, and yellow, orange, pink, purple, or brown-red may be mixed in. The green washes off or fades, so an older cap is yellow, ochre, orange, pink, or pale, sometimes whitish. The cuticle is an ixocutis of clamped hyphae about 1–5 μm wide, the upper ones gelatinized.",
@@ -16315,6 +20134,30 @@ export const CATALOG = [
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Papageigr%C3%BCner_Saftling"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
+      cs: [
+          {
+                "group": "text",
+                "name": "Česká mykologická společnost",
+                "href": "https://www.myko.cz/myko-atlas/Gliophorus-psittacinus/"
+          },
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://cs.wikipedia.org/wiki/Voskovka_papouščí"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -16504,6 +20347,8 @@ export const CATALOG = [
     fruitingFrom: 5,
     fruitingTo: 2,
     label: {
+      de: "Schwarzhütiger Steinpilz",
+      cs: "hřib bronzový",
       en: "bronze bolete",
       sk: "hríb bronzový"
     },
@@ -16512,6 +20357,30 @@ export const CATALOG = [
       sk: []
     },
     text: {
+      de: {
+          "description": "Ein wärmeliebender, seltener Dickröhrling lichter Eichen- und Buchenwälder. Gilt unter Feinschmeckern als einer der schmackhaftesten Pilze überhaupt.",
+          "cap": "Der Hut ist 6–20 cm breit, dunkelbraun, bronzebraun bis fast schwarz, fein samtig-filzig, polsterförmig gewölbt mit sehr festem Fleisch.",
+          "hymenium": "Die Röhren sind jung rein weiß, später gelbgrünlich. Poren fein, weiß, im Alter grünlich, verfärben sich auf Druck nicht.",
+          "stipe": "Der Stiel ist 5–15 cm lang und 3–8 cm dick, bauchig-knollig, ockerbraun bis lederbraun, mit einem feinen, weißlichen bis bräunlichen Maschennetz überzogen.",
+          "flesh": "Das Fleisch ist rein weiß, bemerkenswert fest und schwer, im Anschnitt völlig unveränderlich. Geruch angenehm nussig-aromatisch, Geschmack hervorragend mild.",
+          "habitat": "Fruchtkörper erscheinen von Juli bis Oktober in wärmebegünstigten Eichen- und Buchenwäldern auf Kalk- und Silikatböden.",
+          "sporePrint": "Olivbraun. Die Sporen sind spindelig, glatt, 12–16 × 4–5 μm groß.",
+          "uses": "Ein Speisepilz von allerhöchster Güte, von Kennern noch über den Gemeinen Steinpilz gestellt.",
+          "confusion": "Der Gemeine Steinpilz (Boletus edulis) hat einen helleren, glatten Hut mit oft weißem Rand. Der Kiefern-Steinpilz (Boletus pinophilus) hat rotbraune Farbtöne.",
+          "notes": "Pilz des Jahres 2008 in Deutschland."
+    },
+      cs: {
+          "description": "Vzácný, teplomilný a mimořádně ceněný ektomykorhizní druh z okruhu hřibu smrkového s tmavě kaštanově až černohnědým kloboukem a pevnou dužninou, rostoucí v teplých listnatých lesích.",
+          "cap": "Klobouk má 6–20 cm (vzácně až 25 cm) v průměru, masitý, polokulovitý, později klenutý až ploše rozprostřený. Povrch je suchý, sametově plstnatý, tmavě čokoládově hnědý, bronzově hnědý až černohnědý, často se světlejšími měděnými nebo okrovými skvrnami.",
+          "hymenium": "Rourky jsou 8–20 mm dlouhé, u třeně hluboce vykrojené, v mládí čistě bílé, později žluté až žlutozelené a ve stáří olivově zelené. Póry jsou drobné, okrouhlé, zbarvené stejně jako rourky, po otlačení nemění barvu.",
+          "stipe": "Třeň je 6–15 cm vysoký a 3–8 cm tlustý, velmi masitý, zpočátku soudkovitý až břichatý, později kyjovitý, skořicově až hnědavě okrový, pokrytý jemnou hnědavou síťkou.",
+          "flesh": "Dužnina je bílá, velmi pevná a tvrdá, pod pokožkou klobouku nahnědlá, na řezu neměnná. Vůně i chuť jsou výtečné, intenzivně příjemně houbové a nasládlé.",
+          "sporePrint": "Olivově hnědý. Výtrusy jsou vřetenovité, hladké, žlutohnědé, 12–16 × 4–5,5 μm.",
+          "habitat": "Plodí od června do října v teplých nížinných a pahorkatinných listnatých lesích, převážně pod duby (Quercus), buky a kaštanovníky na vápnitých i kyselých půdách.",
+          "uses": "Vynikající jedlá houba špičkové chuti, avšak v České republice je velmi vzácná a zasluhuje ochranu a šetření.",
+          "confusion": "Podobný je hřib smrkový (Boletus edulis), který má světlejší hnědý klobouk s bílým lemem a bělavější třeň, a hřib borový (Boletus pinophilus), který má hrbolkatý červenohnědý klobouk a roste s borovicemi. Hřib dubový (Boletus reticulatus) má světlejší šedookrový klobouk a hustou vystouplou síťku po celém třeni.",
+          "notes": "V Červeném seznamu hub České republiky je hřib bronzový zařazen jako zranitelný druh (VU)."
+    },
       en: {
         description: "An ectomycorrhizal mushroom of warm broad-leaved woods. It is widespread in central and southern Europe and North Africa, and much more common in the south. It is rare in Britain and Ireland, where it is mainly southern, and absent from the far north of Europe. In the north of its range it is local.",
         cap: "The cap is commonly 5–20 cm across. Large fruit bodies reach about 25 cm, and caps of about 30 cm and about 40 cm have been found. It is hemispherical at first, then convex to cushion-shaped, and finally flat or slightly depressed. The colour is dark chocolate brown to blackish brown, often with bronze, copper, or olive patches with age, and it stays dark to the margin. The margin may be a warmer reddish brown. The surface is dry and finely velvety when young, later smooth, and sometimes slightly greasy. It is less wrinkled and lumpy than the cap of Boletus pinophilus. With age it may become bald and crack into patches. A young cap may carry a pale bloom.",
@@ -16538,6 +20407,30 @@ export const CATALOG = [
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Schwarzh%C3%BCtiger_Steinpilz"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
+      cs: [
+          {
+                "group": "text",
+                "name": "Česká mykologická společnost",
+                "href": "https://www.myko.cz/myko-atlas/Boletus-aereus/"
+          },
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://cs.wikipedia.org/wiki/Hřib_bronzový"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -16694,6 +20587,8 @@ export const CATALOG = [
     fruitingFrom: 9,
     fruitingTo: 12,
     label: {
+      de: "Lilastiel-Rötelritterling",
+      cs: "čirůvka dvoubarvá",
       en: "field blewit",
       sk: "pôvabnica dvojfarebná"
     },
@@ -16701,6 +20596,30 @@ export const CATALOG = [
       en: ["blue-leg"]
     },
     text: {
+      de: {
+          "description": "Ein wohlschmeckender Spätherbstpilz auf Wiesen, Weiden und Waldlichtungen. Typisch ist der Kontrast zwischen blassem Hut und leuchtend violettem Stiel.",
+          "cap": "Der Hut ist 5–15 cm breit, blass lederfarben, graubraun bis cremefarben, dickfleischig gewölbt mit eingerolltem Rand, ohne Violetttöne.",
+          "hymenium": "Die Lamellen sind cremefarben bis hell graubeige, dicht stehend, am Stiel ausgebuchtet angewachsen.",
+          "stipe": "Der Stiel ist 4–9 cm lang und 1,5–3 cm dick, stämmig keulig, dicht mit leuchtend violetten bis lilafarbenen Fasern überzogen.",
+          "flesh": "Das Fleisch ist dick, weißlich-creme, im Stiel zart lila. Geruch angenehm pilzig, Geschmack mild.",
+          "habitat": "Fruchtkörper erscheinen von Oktober bis Dezember (oft noch nach ersten Frösten) auf Wiesen, Weiden, Parkrasen und an Waldrändern.",
+          "sporePrint": "Blassrosa bis cremefarben. Die Sporen sind ellipsoid, fein punktiert, 6–8 × 4–5 μm groß.",
+          "uses": "Ein hervorragender Speisepilz für die späte Herbstsaison, muss jedoch gut erhitzt werden.",
+          "confusion": "Der Violetter Rötelritterling (Lepista nuda) hat auch einen violetten Hut und violette Lamellen und wächst im Wald.",
+          "notes": "Pilz des Jahres 2016 in Deutschland."
+    },
+      cs: {
+          "description": "Statná a masitá saprotrofní houba pozdního podzimu, význačná bledým kloboukem a kontrastně fialovým třeněm, rostoucí na travnatých stanovištích.",
+          "cap": "Klobouk má 6–15 cm v průměru, masitý, polokulovitý, později klenutý až plochý s podvinutým okrajem. Povrch je hladký, matný, světle kožově hnědavý, krémově šedý až plavě okrový.",
+          "hymenium": "Lupeny jsou husté, úzké, u třeně vykrojené až zoubkem připojené, snadno oddělitelné od klobouku, bělavé až šedookrové, ve stáří s masovým nádechem.",
+          "stipe": "Třeň je 4–9 cm dlouhý a 1,5–3,5 cm tlustý, válcovitý nebo na bázi mírně ztlustlý, plný, nápadně sytě fialově vláknitý až modrofialový, ve stáří blednoucí.",
+          "flesh": "Dužnina je tlustá, pevná, bílá až světle šedavá, s příjemnou jemnou vůní a nasládlou chutí.",
+          "sporePrint": "Bledě růžový až krémově narůžovělý. Výtrusy jsou elipsoidní, jemně bradavčité, 6–8 × 4–5 μm.",
+          "habitat": "Roste od září do prosince na loukách, pastvinách, v parcích, zahradách a na okrajích lesů, často ve velkých kruzích a pruzích.",
+          "uses": "Výborná a velmi oblíbená jedlá houba, vhodná k jakékoliv kulinářské úpravě, zejména k nakládání do octa, do polévek a omáček.",
+          "confusion": "Záměna je možná s jedlou čirůvkou fialovou (Lepista nuda), která má však i klobouk a lupeny fialově zbarvené a roste častěji v lesích. Nebezpečné pavučince (Cortinarius) s fialovými tóny mají v dospělosti rezavě hnědé lupeny a pavučinkovou plachetku.",
+          "notes": "V České republice je zařazena v Červeném seznamu hub jako téměř ohrožený druh (NT) vlivem úbytku přirozených nehnojených pastvin."
+    },
       en: {
         description: "A fleshy saprobic mushroom of grassland, meadows, pastures, parks, gardens, and the edges of woods, often standing in rings or in groups. It is widespread in Europe, from Britain and Ireland across the mainland through central and southern Europe, and it is reported from North America.",
         cap: "The cap is commonly 5–15 cm across, and it reaches 16 cm. It begins hemispherical, stays convex for a long time, and later becomes flat or shallowly depressed, sometimes slightly concave. The margin remains inrolled for a long time, then becomes sharp and wavy. The surface is smooth, dry, and silky, and it turns sticky or glistening when wet. It is not hygrophanous, or only slightly so. The colour is pale cream, whitish, grey, grey-ochre, buff, light brown, or ochre-grey to grey-beige, often with a brownish tint. A lilac tint is occasional on a young cap, and the colour pales with age. The cap is not violet. The cap skin is a cutis of cylindrical hyaline hyphae 2–4 μm wide, with slightly thickened walls, lying parallel or slightly interwoven, and with clamps at the septa.",
@@ -16727,6 +20646,30 @@ export const CATALOG = [
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Lilastiel-R%C3%B6telritterling"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
+      cs: [
+          {
+                "group": "text",
+                "name": "Česká mykologická společnost",
+                "href": "https://www.myko.cz/myko-atlas/Lepista-personata/"
+          },
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://cs.wikipedia.org/wiki/Čirůvka_dvoubarvá"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -16891,6 +20834,8 @@ export const CATALOG = [
     fruitingFrom: 1,
     fruitingTo: 12,
     label: {
+      de: "Echter Hausschwamm",
+      cs: "dřevomorka domácí",
       en: "dry rot fungus",
       sk: "drevokaz slzivý"
     },
@@ -16902,6 +20847,30 @@ export const CATALOG = [
       ]
     },
     text: {
+      de: {
+          "description": "Der gefährlichste Holzzerstörer in Gebäuden. Er kann über kräftige Myzelstränge Wasser über weite Strecken transportieren und verbautes Nadel- und Laubholz zerstören.",
+          "cap": "Der Fruchtkörper ist flach ausgebreitet (resupinat) bis krustenförmig mit wulstigem weißem Zuwachsrand, oft tellergroß, ockerbraun bis rostbraun mit feuchten Guttationströpfchen.",
+          "hymenium": "Die Fruchtschicht ist unregelmäßig runzelig-faltig bis grubig-poroid, rostbraun durch die reifenden Sporen.",
+          "stipe": "Ein Stiel fehlt; wächst krustig dem Bauholz oder Mauerwerk an.",
+          "flesh": "Das Fleisch ist schwammig-lederig, zäh, rostbraun. Geruch dumpf modrig.",
+          "habitat": "Wächst im Verborgenen in feuchten Gebäuden an Balken, Dielen, Fußleisten und kann selbst trockenes Mauerwerk durchwachsen.",
+          "sporePrint": "Rostbraun. Die Sporen sind ellipsoid, glatt, dickwandig, gelbbraun, 9–12 × 5–6 μm groß.",
+          "uses": "Völlig ungenießbar. Als gefährlichster Bauschädling gefürchtet, der Bauholz durch intensive Braunfäule (Würfelbruch) rasch zerstört.",
+          "confusion": "Der Wilde Hausschwamm (Serpula himantioides) hat dünnere Fruchtkörper und wächst überwiegend im Wald.",
+          "notes": "Pilz des Jahres 2004 in Deutschland."
+    },
+      cs: {
+          "description": "Nechvalně známá dřevokazná houba způsobující ničivou hnědou hnilobu dřevěných konstrukcí v budovách i v přírodě. Vyznačuje se schopností vést vodu myceliovými provazci na velké vzdálenosti.",
+          "cap": "Plodnice jsou rozlité, polorozlité až konzolovité, 5–50 cm velké (někdy i přes 1 metr), měkce masité až houbovité. V mládí mají bílý plstnatý okraj, který roní kapky tekutiny (odtud název lacrymans – slzící). Střední část je rezavě hnědá až skořicová, vrásčitá až nepravidelně pórovitá.",
+          "hymenium": "Hymenium pokrývá vrásčitý, žilnatý až lamelovitě pórovitý hnědorezavý povrch plodnice.",
+          "stipe": "Třeň chybí; plodnice přirůstá přímo celou plochou k napadenému dřevu, zdivu nebo omítce.",
+          "flesh": "Dužnina je v mládí měkká a pružná, později kožovitá až suchá a křehká, s charakteristickým zatuchlým houbovým pachem.",
+          "sporePrint": "Rezavě hnědý. Výtrusy jsou elipsoidní, hladké, tlustostěnné, žlutohnědé, 9–12 × 5–6 μm.",
+          "habitat": "Roste především v interiérech budov (podlahy, trámy, sklepy, chaty) se špatným větráním a vlhkostí, velmi vzácně i v přírodě na mrtvém dřevě jehličnanů.",
+          "uses": "Zcela nejedlá houba. Je považována za jednoho z nejnebezpečnějších škůdců stavebního dřeva, schopného rozložit dřevěné části budov během několika měsíců.",
+          "confusion": "Může být zaměněna za dřevomorku lesní (Serpula himantioides), která má tenčí plodnice a roste převážně v přírodních lesích, nebo za jiné rozlité kornatcovité a chorošovité houby (např. Coniophora puteana), které však netvoří tak mohutné provazce mycelia.",
+          "notes": "Myceliové provazce (rhizomorfy) mohou mít tloušťku až 8 mm a prorůstají i skrz cihlové zdivo a maltu."
+    },
       en: {
         description: "A thick annual brown-rot crust of worked timber in houses and other buildings, saprotrophic on dead wood and only rarely found on wood outdoors. It is widespread through temperate Europe, including Britain and Ireland, and through cooler parts of Asia, North America, Australia, New Zealand, and Oceania.",
         cap: "The fruit body is annual and usually a resupinate sheet, attached directly to timber or to plaster and masonry. The width is commonly 5–50 cm. Many central-European fruit bodies stay within 5–30 cm, and fused sheets reach about 1 m, or about 2 m in one account. The thickness is usually 2–12 mm and often 5–10 mm. One account finds most fruit bodies only 1–5 mm thick, with an upper extreme near 3 cm. A young fruit body is cushion-like and white or yellowish. The centre then becomes the coloured hymenium, while a white, yellowish, or greyish cottony margin remains, usually to about 2 cm wide. A reflexed cap is uncommon. When one forms it mostly projects no more than about 2 cm, though occasional pilei are 2–10 cm across and up to 2 cm thick. An actively growing surface often bears watery or milky droplets. Old, dry fruit bodies turn dark brown, and the folded surface flattens.",
@@ -16926,6 +20895,30 @@ export const CATALOG = [
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Echter_Hausschwamm"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
+      cs: [
+          {
+                "group": "text",
+                "name": "Česká mykologická společnost",
+                "href": "https://www.myko.cz/myko-atlas/Serpula-lacrymans/"
+          },
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://cs.wikipedia.org/wiki/Dřevomorka_domácí"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -17112,6 +21105,8 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 11,
     label: {
+      de: "Deutsche Trüffel",
+      cs: "bělolanýž obecný",
       en: "white truffle",
       sk: "bielohľuzovka obyčajná",
     },
@@ -17124,6 +21119,30 @@ export const CATALOG = [
       ],
     },
     text: {
+      de: {
+          "description": "Eine unterirdisch bis halboberirdisch wachsende Trüffel in Laub- und Nadelwäldern. Berühmt für ihren intensiven Duft und kulinarische Verwendung.",
+          "cap": "Der Fruchtkörper ist knollen- bis kartoffelförmig, 5–15 cm groß und bis über 500 g schwer, gelblich-weiß bis lederbraun, rissig-runzelig.",
+          "hymenium": "Das Fruchtgewebe (Gleba) ist im Inneren fest, weißlich mit gewundenen gelbbraunen Adern (Mäandermuster). In Schläuchen (Asci) entstehen stachelige Sporen.",
+          "stipe": "Stiellos; wächst unterirdisch oder bricht bei Reife buckelig durch die Bodenoberfläche.",
+          "flesh": "Das Fleisch ist fest, weißlich marmoriert. Geruch intensiv aromatisch (würzig bis knoblauchartig), Geschmack aromatisch.",
+          "habitat": "Fruchtkörper reifen von Juli bis Oktober in Buchen- und Fichtenwäldern auf lehmigen Böden.",
+          "sporePrint": "Hell ockerbraun. Die Sporen sind kugelig, dicht mit bis zu 5 μm langen Stacheln besetzt, 16–22 μm groß.",
+          "uses": "Ein hochgeschätzter Speise- und Würzpilz, der wie echte Trüffeln dünn über Gerichte gehobelt wird. Muss durchgegart werden.",
+          "confusion": "Die Weiße Alba-Trüffel (Tuber magnatum) hat glatte bis netzige Sporen und eine abweichende Innenstruktur.",
+          "notes": "Pilz des Jahres 2001 in Deutschland."
+    },
+      cs: {
+          "description": "Podzemní až polopodzemní vřeckovýtrusá houba tvořící velké hlízovité plodnice připomínající brambory, rostoucí pod povrchem půdy v jehličnatých i listnatých lesích.",
+          "cap": "Plodnice je hlízovitá, nepravidelně laločnatá a zbrázděná, 4–12 cm v průměru (vzácně i přes 15 cm). Vnější okurka (peridie) je hladká, zpočátku bělavá až světle okrová, později kožově žlutá až rezavě hnědá s nepravidelnými prasklinami.",
+          "hymenium": "Vnitřní dužnina (gleba) je pevná, masitá, bělavá až krémově žlutavá, protkaná labyrintem meandrovitě zprohýbaných sterilních bělavých žilek a plodných hnědavých pásů s vřecky.",
+          "stipe": "Třeň chybí.",
+          "flesh": "Dužnina je tvrdá, masitá, s pronikavou, intenzivně kořenitou aromatickou vůní připomínající sýr nebo křen a mírnou chutí.",
+          "sporePrint": "Výtrusy jsou kulovité, pokryté nápadnými tupými ostny a tyčinkami, žlutohnědé, 16–22 μm v průměru (bez ostnů).",
+          "habitat": "Roste od června do října pod povrchem půdy nebo zčásti vystupuje na povrch v jehličnatých (smrk) i listnatých lesích (buk, dub) na hlinitých a vápnitých půdách.",
+          "uses": "Jedlá houba, ceněná pro své silné aroma a využívaná jako koření do omáček a polévek. V syrovém stavu však může působit mírně projímavě, proto vyžaduje tepelnou úpravu.",
+          "confusion": "Podobný je pravý lanýž bílý (Tuber magnatum), který však roste v jižní Evropě a má jemnější mramorování, nebo nejedlý pestřec obecný (Scleroderma citrinum), který má tvrdou tmavou okurku a uvnitř černofialovou prachovitou glebu.",
+          "notes": "V České republice je bělolanýž obecný v Červeném seznamu hub veden jako zranitelný druh (VU)."
+    },
       en: {
         description: "A truffle that fruits in the soil of broadleaf and coniferous woods and often pushes its crown above the surface. It is widespread in Europe, from Britain, Spain, and Italy through central Europe to the Carpathians, and it is native in Britain.",
         cap: "The fruit body is an irregular, potato-like tuber. It is commonly about 4–12 cm across. Published sizes run from about 2 cm to about 20 cm, and occasional fruit bodies are larger. The peridium is thin, up to about 1 mm, leathery, and not peelable. It is smooth, with broad polygonal folds, and it often cracks into patches, especially in wet weather. The colour is whitish to grey-white at first, then cream, ochre-yellow, or yellow-brown, sometimes pinkish, with reddish, rust, or dark brown spots. Slugs and insects often gnaw the surface.",
@@ -17150,6 +21169,30 @@ export const CATALOG = [
       },
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Deutsche_Tr%C3%BCffel"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
+      cs: [
+          {
+                "group": "text",
+                "name": "Česká mykologická společnost",
+                "href": "https://www.myko.cz/myko-atlas/Choiromyces-meandriformis/"
+          },
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://cs.wikipedia.org/wiki/Bělolanýž_obecný"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -17329,6 +21372,8 @@ export const CATALOG = [
     fruitingFrom: 7,
     fruitingTo: 11,
     label: {
+      de: "Ästiger Stachelbart",
+      cs: "korálovec bukový",
       en: "coral tooth",
       sk: "koralovec bukový",
     },
@@ -17336,6 +21381,30 @@ export const CATALOG = [
       en: ["coral tooth fungus", "comb coral mushroom"],
     },
     text: {
+      de: {
+          "description": "Ein wunderschöner, korallenartig verzweigter Holzpilz an Totholz alter Buchen. Eine Zeigerart urwaldnaher Laubwälder.",
+          "cap": "Der Fruchtkörper wird 10–30 cm breit, rein weiß bis cremefarben, korallenartig reich verzweigt. An den Unterseiten der Äste hängen 0,5–1,5 cm lange, feine Stacheln.",
+          "hymenium": "Die Fruchtschicht bedeckt die herabhängenden feinen Stacheln.",
+          "stipe": "Mit einem dicken Strunk fest im Holz verankert.",
+          "flesh": "Das Fleisch ist weiß, faserig, zart elastisch. Geruch angenehm pilzig, Geschmack mild.",
+          "habitat": "Fruchtkörper erscheinen von August bis November an morschen Stämmen und starken Ästen von Rotbuchen.",
+          "sporePrint": "Weiß. Die Sporen sind fast kugelig, glatt bis feinst punktiert, amyloid, 3,5–5 × 3–4 μm groß.",
+          "uses": "Jung essbar und wohlschmeckend, aber streng geschützt und wegen seiner Seltenheit unbedingt zu schonen.",
+          "confusion": "Der Igel-Stachelbart (Hericium erinaceus) ist knollenförmig unverzweigt mit langen Zotten. Der Tannen-Stachelbart (Hericium flagellum) wächst an Weißtanne.",
+          "notes": "Pilz des Jahres 2006 in Deutschland."
+    },
+      cs: {
+          "description": "Nádherná a nápadná dřevokazná houba tvořící bohatě rozvětvené bílé plodnice připomínající mořský korál, rostoucí na tlejícím dřevě buků v pralesovitých porostech.",
+          "cap": "Plodnice je keříčkovitá, 10–30 cm široká i vysoká, tvořená masivní bází, z níž vyrůstá množství křehkých větví a větviček. Celá plodnice je zpočátku čistě zářivě bílá, ve stáří slabě žloutnoucí až krémová.",
+          "hymenium": "Hymenium pokrývá jemné, šídlovité ostny dlouhé 5–15 mm, které visí na spodní straně větví v hřebínkovitých řadách.",
+          "stipe": "Třeň je zkrácen na pevnou tlustou bázi přirostlou k tlejícímu dřevu.",
+          "flesh": "Dužnina je křehká, měkká, čistě bílá, s příjemnou houbovou vůní a lahodnou mírnou chutí.",
+          "sporePrint": "Bílý. Výtrusy jsou široce elipsoidní až kulovité, jemně bradavčité, amyloidní, 3,5–5 × 3–4 μm.",
+          "habitat": "Roste od srpna do listopadu na padlých kmenech a tlejících pařezech buků (Fagus sylvatica) v přirozených bučinách a rezervacích.",
+          "uses": "Vynikající jedlá houba špičkové kvality, vhodná do polévek a směsí, avšak pro svou vzácnost by se měla chránit.",
+          "confusion": "Podobný korálovec ježatý (Hericium erinaceus) tvoří nerozvětvené polštářovité plodnice s dlouhými splývavými ostny. Korálovec jedlový (Hericium flagellum) roste výhradně na jedlích a má delší ostny na koncích větví a větší výtrusy.",
+          "notes": "V České republice je korálovec bukový zařazen v Červeném seznamu hub jako zranitelný druh (VU) a chráněn."
+    },
       en: {
         description: "A wood-rotting tooth fungus of old broadleaf woods. It grows across Europe and Asia and through much of North America, chiefly on fallen beech and other hardwoods. It is uncommon across much of Europe. Some collections under this name may belong to related species that have not yet been separated.",
         cap: "There is no separate cap. The fruit body is an open, repeatedly branched mass, coral-like, rising from a short base. It is usually 10–30 cm across, sometimes only about 8 cm, up to about 40 cm, and less often 50 cm. It can stand about 20 cm high. The branches are about 0.5–1 cm thick. The whole fruit body is white, then cream or pale yellow to ochre, and the tips turn brown with age.",
@@ -17362,6 +21431,30 @@ export const CATALOG = [
       },
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/%C3%84stiger_Stachelbart"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
+      cs: [
+          {
+                "group": "text",
+                "name": "Česká mykologická společnost",
+                "href": "https://www.myko.cz/myko-atlas/Hericium-coralloides/"
+          },
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://cs.wikipedia.org/wiki/Korálovec_bukový"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -17590,6 +21683,7 @@ export const CATALOG = [
     fruitingFrom: 1,
     fruitingTo: 12,
     label: {
+      de: "Gelber Faltenschirmling",
       en: "plantpot dapperling",
       sk: "bedľovec citrónovožltý"
     },
@@ -17603,6 +21697,30 @@ export const CATALOG = [
       ]
     },
     text: {
+      de: {
+          "description": "Ein tropischer saprotropher Schirmling, der in Mitteleuropa sehr häufig in Blumentöpfen, Gewächshäusern und Pflanzkübeln auf Blumenerde fruchtet.",
+          "cap": "Der Hut ist 2–6 cm breit, leuchtend zitronengelb bis schwefelgelb, kegelig bis glockig, dünnfleischig, radial gefaltet-gerieft und mehlig beflockt.",
+          "hymenium": "Die Lamellen sind hellgelb, frei, dicht stehend.",
+          "stipe": "Der Stiel ist 4–8 cm lang und 0,3–0,6 cm dick, zylindrisch mit verdickter Basis, zitronengelb, mit einem zarten, flüchtigen gelben Ring.",
+          "flesh": "Das Fleisch ist sehr dünn, blassgelb. Geruch schwach pilzig, Geschmack unauffällig.",
+          "habitat": "Ganzjährig in geheizten Gewächshäusern und Innenräumen in Pflanztöpfen auf humusreicher Blumenerde.",
+          "sporePrint": "Weiß. Die Sporen sind ellipsoid, glatt, dickwandig mit Keimpore, dextrinoid, 8–11 × 5–7 μm groß.",
+          "uses": "Giftig! Der Verzehr ruft Magen-Darm-Beschwerden hervor. Für die Zimmerpflanzen ist er vollkommen harmlos.",
+          "confusion": "Der Strohgelbe Faltenschirmling (Leucocoprinus straminellus) ist blasser, bisweilen weißlich, kleiner und zarter, mit kleineren Sporen (5–7 × 4–6 μm) ohne Keimpore. Leucocoprinus flavescens besitzt einen blassgelben bis weißen Hut mit bräunlicher Mitte und kleinere Sporen. Leucocoprinus tricolor hat eine braune Hutmitte, hellere Gelbtöne und eine chromgelbe Stielbasis. Der Zerbrechliche Faltenschirmling (Leucocoprinus fragilissimus) hat einen extrem dünnen Hut und blasse Lamellen. Leucocoprinus brunneoluteus hat einen ausgeprägten braunen Buckel und dünnes, zerbrechliches Fleisch. Der Kreideweiße Faltenschirmling (Leucocoprinus cretaceus) ist von ähnlicher Gestalt, aber kreideweiß gefärbt. Leucoagaricus sulphurellus hat Lamellen, die bei Verletzung leuchtend blaugrün anlaufen. Der Gold-Mistpilz (Bolbitius titubans) wächst auf Grasland, seine gelben Lamellen bräunen im Alter zimtbraun und sein Stiel hat keinen Ring.",
+          "notes": "Die gelbe Farbe rührt von den Indolalkaloiden Birnbaumin A und B her."
+    },
+      cs: {
+          "description": "Drobná, zářivě sírově žlutá lupenatá houba z rodu bedlovec, která se v mírném pásmu vyskytuje výhradně jako synantropní druh v květináčích, sklenících a pařeništích na humózním substrátu.",
+          "cap": "Klobouk má 2–5 cm v průměru, nejprve vejčitý až kuželovitý, později klenutý až zvoncovitý se středovým hrbolkem. Povrch je zářivě sírově žlutý až citronově žlutý, hustě pokrytý drobnými žlutými šupinkami a zrníčky, s hřebínkovitě rýhovaným okrajem.",
+          "hymenium": "Lupeny jsou volné, husté, světle sírově žluté až žlutavé.",
+          "stipe": "Třeň je 3–8 cm dlouhý a 2–5 mm tlustý, válcovitý, směrem k bázi hlízovitě rozšířený, dutý, křehký, žlutý, v horní třetině s úzkým žlutým blanitým prstencem.",
+          "flesh": "Dužnina je velmi tenká, žlutavá, bez výrazné vůně a chuti.",
+          "sporePrint": "Bílý. Výtrusy jsou elipsoidní, hladké, tlustostěnné s klíčním pórem, dextrinoidní, 8–11 × 5–7 μm.",
+          "habitat": "Plodí po celý rok v interiérech, květináčích pokojových rostlin a sklenících v bohatém zahradnickém substrátu a mulčovací kůře.",
+          "uses": "Mírně jedovatá houba. Požití vyvolává gastrointestinální potíže (nevolnost, zvracení, bolesti břicha). Pro pokojové rostliny je však neškodná a rozkládá odumřelé organické zbytky v půdě.",
+          "confusion": "Leucocoprinus straminellus je o něco bledší, někdy bělavý, menší a křehčí, s menšími výtrusy bez klíčního póru. Leucocoprinus flavescens má bledě nažloutlý až bílý klobouk s hnědavým středem a menší výtrusy. Leucocoprinus tricolor má hnědý střed klobouku, světlejší žluté barvy a chromově žlutou bázi třeně. Leucocoprinus fragilissimus má extrémně tenký klobouk a bledé lupeny. Leucocoprinus brunneoluteus má výrazný hnědý hrbol a tenkou, křehkou dužninu. Bedlovec křídový (Leucocoprinus cretaceus) má podobnou stavbu a je křídově bílý. Leucoagaricus sulphurellus má lupeny, které při poranění jasně modrozelenají. Slzečník žloutkový (Bolbitius titubans) roste na travnatých stanovištích, jeho žluté lupeny stárnutím skořicově hnědnou a třeň nemá prsten.",
+          "notes": "Zářivě žluté zbarvení způsobují specifické indolové alkaloidy birnbaumin A a birnbaumin B."
+    },
       en: {
         description: "A saprobic mushroom, common through the tropics and subtropics and present in the warmer temperate zones of Europe, North America, and Australia. In Britain, Ireland, and the Czech Republic it is known from hothouses and plant pots rather than from the wild. It also fruits outdoors where the weather is warm.",
         cap: "The cap is 2–6 cm across, and occasionally about 7 cm. It begins egg-shaped, cylindrical, or conical, then expands to bell-shaped, hemispherical, or nearly flat, often with a low umbo. The surface is dry and lemon yellow to sulphur yellow, smooth to powdery, with ragged fibrous scales that rub off easily. The scales sit more densely at the centre, where they darken to a deeper yellow or brownish. The margin is sulcate-striate, paler in the grooves, and inrolled when young. On drying the cap fades and may turn tan, ochre, or brownish.",
@@ -17627,6 +21745,25 @@ export const CATALOG = [
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Gelber_Faltenschirmling"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
+      cs: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://en.wikipedia.org/wiki/Leucocoprinus_birnbaumii"
+          }
+    ],
       en: [
         {
           group: "text",
@@ -17777,6 +21914,8 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 11,
     label: {
+      de: "Gemeiner Tiegelteuerling",
+      cs: "pohárovka obecná",
       en: "common bird's nest fungus",
       sk: "pohárovček obyčajný"
     },
@@ -17784,6 +21923,30 @@ export const CATALOG = [
       en: ["white-egg bird's nest", "common bird's nest"]
     },
     text: {
+      de: {
+          "description": "Ein winziger saprotropher Nestling an Holzabfällen und Zweigen. Seine Becher erinnern verblüffend an ein Miniaturvogelnest mit Eiern.",
+          "cap": "Der becherförmige Fruchtkörper (Peridie) ist 3–10 mm breit und 2–10 mm hoch, anfangs mit gelbem Filzdeckel (Epiphragma) verschlossen, der später aufreißt und die glatte weiße Innenseite freigibt.",
+          "hymenium": "Lamellen und Röhren fehlen. Die Sporen entstehen im Inneren von 4–10 linsenförmigen, weißlichen Peridiolen ('Eiern'), die über Funiculi an der Becherwand befestigt sind.",
+          "stipe": "Stiellos; sitzt mit verschmälertem Ansatz dem Holz auf.",
+          "flesh": "Das Fleisch ist dünn, zäh, lederig. Geruchlos.",
+          "habitat": "Fruchtkörper erscheinen von Juni bis November gesellig an verrottenden Zweigen, Holzspänen, Rindenmulch und Pflanzenresten.",
+          "sporePrint": "Farblos (hyalin). Die Sporen sind ellipsoid, glatt, dickwandig, 6–11,5 × 3–6 μm groß.",
+          "uses": "Ungenießbar aufgrund der winzigen Größe und zähen Konsistenz.",
+          "confusion": "Arten der Gattung Cyathus (z. B. der Gestreifte Teuerling, Cyathus striatus) haben innen längsgerillte Becher und dunkle Peridiolen.",
+          "notes": "Die Peridiolen werden durch auftreffende Wassertropfen wie aus einer Schleuder herauskatapultiert. Pilz des Jahres 2014 in Deutschland."
+    },
+      cs: {
+          "description": "Drobná saprotrofní houba z čeledi hnízdovkovitých (Nidulariaceae) tvořící miskovité až pohárkovité plodnice obsahující drobná čočkovitá tělíska (peridioly) připomínající ptačí hnízdo s vajíčky.",
+          "cap": "Plodnice (peridie) je pohárkovitá až miskovitá, 3–10 mm široká a 2–10 mm vysoká, v mládí uzavřená žlutým až okrovým plstnatým víčkem (epifragma). Po jeho roztržení se odhalí hladký, lesklý bělavý vnitřek pohárku. Vnější povrch je žlutavý, plstnatý, stárnutím olysávající a hnědnoucí.",
+          "hymenium": "Lupeny ani rourky chybí. Výtrusorodé rouško je uzavřeno uvnitř drobných čočkovitých peridiol (4–10 v jednom pohárku) o průměru 1–2 mm, které jsou světle okrové až bělavé a k vnitřní stěně pohárku připevněné pružným poutkem (funiculus).",
+          "stipe": "Třeň chybí; plodnice přirůstá přímo k substrátu zúženou bází.",
+          "flesh": "Dužnina (stěna pohárku) je tenká, kožovitá, pružná, bez výrazné vůně.",
+          "sporePrint": "Bezbarvý (hyalinní). Výtrusy jsou elipsoidní, hladké, tlustostěnné, 6–11,5 × 3–6 μm.",
+          "habitat": "Roste od června do listopadu ve skupinách na tlejících větvičkách, dřevní štěpce, zbytcích rostlin, trusu a mulči v lesích i zahradách.",
+          "uses": "Nejedlá houba pro své nepatrné rozměry a tuhou kožovitou konzistenci.",
+          "confusion": "Podobné druhy z rodu číšenka (Cyathus), např. číšenka rýhovaná (Cyathus striatus), mají uvnitř pohárku nápadně podélně rýhovanou stěnu a tmavě šedé peridioly. Číšenka hrncovitá (Cyathus olla) má širší nálevkovitý pohárek a šedé peridioly.",
+          "notes": "Výtrusná tělíska (peridioly) jsou z pohárku vymršťována dopadajícími dešťovými kapkami do vzdálenosti až jednoho metru."
+    },
       en: {
         description: "A tiny saprotrophic fungus of twigs, wood chips, and other woody debris. It has a circumpolar temperate range: recorded in most of Europe, including Slovakia and the Canary Islands, from Alaska to Mexico in North America, in Chile and Tierra del Fuego, and also in Iceland, Japan, Australia, and New Zealand.",
         cap: "The fruit body, a cup-forming peridium, is 3–10 mm across at the mouth and 2–10 mm tall. It begins cushion-shaped to nearly round and is closed by a yellow to orange, felty lid. As the lid tears away, the fruit body becomes barrel-shaped and then cup- or crucible-shaped, with nearly parallel sides. The wall is a single layer of tightly interwoven hyphae, about 0.25–0.5 mm thick. The outside is yellow to ochre and coarsely felted when young. It wears smooth, turns cinnamon to brown, and old weathered cups may bleach to dirty white. The inside is smooth, shiny, and whitish to grey.",
@@ -17808,6 +21971,30 @@ export const CATALOG = [
       }
     },
     sources: {
+      de: [
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://de.wikipedia.org/wiki/Gemeiner_Tiegelteuerling"
+          },
+          {
+                "group": "text",
+                "name": "Deutsche Gesellschaft für Mykologie",
+                "href": "https://www.dgfm-ev.de/"
+          }
+    ],
+      cs: [
+          {
+                "group": "text",
+                "name": "Česká mykologická společnost",
+                "href": "https://www.myko.cz/myko-atlas/Crucibulum-laeve/"
+          },
+          {
+                "group": "text",
+                "name": "Wikipedia",
+                "href": "https://cs.wikipedia.org/wiki/Hořenec_(Nezabylice)"
+          }
+    ],
       en: [
         {
           group: "text",
