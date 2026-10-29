@@ -1,6 +1,7 @@
 // Editorial lists from Firestore curated_lists on abshrooms-a9d4c.
 // A language sees a list when locales contains that code or "*".
 // Species the catalog does not have are skipped at render time.
+// scripts/lists.test.mjs records year-list names the catalog does not have yet.
 // Snapshot taken 2026-10-26.
 export const LISTS = [
   {
@@ -50,7 +51,7 @@ export const LISTS = [
         "year": 2000
       },
       {
-        "name": "Choiromyces maeandriformis",
+        "name": "Choiromyces meandriformis",
         "year": 2001
       },
       {
@@ -359,7 +360,7 @@ export const LISTS = [
         "year": 2018
       },
       {
-        "name": "Choiromyces maeandriformis",
+        "name": "Choiromyces meandriformis",
         "year": 2017
       },
       {
@@ -387,7 +388,7 @@ export const LISTS = [
         "year": 2011
       },
       {
-        "name": "Hericium clathroides",
+        "name": "Hericium coralloides",
         "year": 2010
       },
       {
