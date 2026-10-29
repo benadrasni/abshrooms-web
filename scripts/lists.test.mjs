@@ -102,7 +102,6 @@ const YEAR_LIST_GAPS = [
   ['mushroom-of-the-year-de', 2011, 'Clathrus ruber'],
   ['mushroom-of-the-year-de', 2012, 'Cantharellus cinereus'],
   ['mushroom-of-the-year-de', 2013, 'Entoloma incanum'],
-  ['mushroom-of-the-year-de', 2014, 'Crucibulum laeve'],
   ['mushroom-of-the-year-de', 2023, 'Mitrula paludosa'],
   ['mushroom-of-the-year-de', 2025, 'Clavaria zollingeri'],
   ['mushroom-of-the-year-de', 2027, 'Lactarius lignyotus'],

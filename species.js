@@ -17703,5 +17703,194 @@ export const CATALOG = [
       "Agaricus aureus F.M. Bailey",
       "Lepiota pseudolicmophora Rea"
     ]
+  },
+  {
+    id: 84,
+    name: "Crucibulum laeve",
+    author: "(Huds.) Kambly",
+    family: "Nidulariaceae",
+    genus: "Crucibulum",
+    order: "Agaricales",
+    edibility: "inedible",
+    hymenium: "gleba",
+    where: ["wood"],
+    color: ["yellow", "brown", "white"],
+    path: [
+      "Fungi",
+      "Dikarya",
+      "Basidiomycota",
+      "Agaricomycotina",
+      "Agaricomycetes",
+      "Agaricomycetidae",
+      "Agaricales",
+      "Nidulariaceae",
+      "Crucibulum"
+    ],
+    summary: ["Agaricales", "Nidulariaceae", "Crucibulum"],
+    added: "2026-10-29",
+    plate: STORAGE + "photos/Agaricales/Nidulariaceae/Crucibulum_laeve/Crucibulum_laeve@1600.webp",
+    plateGrid: STORAGE + "photos/Agaricales/Nidulariaceae/Crucibulum_laeve/Crucibulum_laeve@400.webp",
+    plateCredit: {
+      author: "L. Dufour",
+      license: "public domain",
+      source: "https://www.biodiversitylibrary.org/page/3270662"
+    },
+    photos: [
+      {
+        src: STORAGE + "photos/Agaricales/Nidulariaceae/Crucibulum_laeve/cl1.webp",
+        author: "Gilles San Martin",
+        license: "CC BY-SA 2.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0",
+        source: "https://commons.wikimedia.org/wiki/File:Crucibulum_laeve_-_Vieux-Sautour2.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Nidulariaceae/Crucibulum_laeve/cl2.webp",
+        author: "ImagePerson",
+        license: "CC BY 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Common_Bird%27s_Nest_Fungus_Crucibulum_laeve_2058.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Nidulariaceae/Crucibulum_laeve/cl3.webp",
+        author: "Björn S...",
+        license: "CC BY-SA 2.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0",
+        source: "https://commons.wikimedia.org/wiki/File:Crucibulum_laeve_(28582556414).jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Nidulariaceae/Crucibulum_laeve/cl4.webp",
+        author: "Matej Frančeškin",
+        license: "CC BY 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Crucibulum_laeve_432070455.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Nidulariaceae/Crucibulum_laeve/cl5.webp",
+        author: "Gilles San Martin",
+        license: "CC BY-SA 2.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0",
+        source: "https://commons.wikimedia.org/wiki/File:Crucibulum_laeve_-_Vieux-Sautour1.jpg"
+      }
+    ],
+    capFrom: 0.3,
+    capTo: 1,
+    fruitingFrom: 6,
+    fruitingTo: 11,
+    label: {
+      en: "common bird's nest fungus",
+      sk: "pohárovček obyčajný"
+    },
+    names: {
+      en: ["white-egg bird's nest", "common bird's nest"]
+    },
+    text: {
+      en: {
+        description: "A tiny saprotrophic fungus of twigs, wood chips, and other woody debris. It has a circumpolar temperate range: recorded in most of Europe, including Slovakia and the Canary Islands, from Alaska to Mexico in North America, in Chile and Tierra del Fuego, and also in Iceland, Japan, Australia, and New Zealand.",
+        cap: "The fruit body, a cup-forming peridium, is 3–10 mm across at the mouth and 2–10 mm tall. It begins cushion-shaped to nearly round and is closed by a yellow to orange, felty lid. As the lid tears away, the fruit body becomes barrel-shaped and then cup- or crucible-shaped, with nearly parallel sides. The wall is a single layer of tightly interwoven hyphae, about 0.25–0.5 mm thick. The outside is yellow to ochre and coarsely felted when young. It wears smooth, turns cinnamon to brown, and old weathered cups may bleach to dirty white. The inside is smooth, shiny, and whitish to grey.",
+        hymenium: "There are no gills or pores. The spore-bearing tissue is enclosed in the peridioles, the 'eggs' that lie in the cup. A cup usually holds about four to ten of them, occasionally up to fifteen. They are flattened, disc-shaped, 1–2 mm wide and 0.2–0.4 mm thick, and pale ochre to white; a whitish outer covering (the tunica) encloses each one. Each peridiole is tethered to the cup wall by a stout elastic cord, the funiculus, which ends in a small knob under the disc. Inside a peridiole, club-shaped basidia with four spores each line the cavity, mixed with sterile hyphae.",
+        stipe: "There is no stipe. The fruit body is attached to the wood or debris by its narrowed base.",
+        flesh: "The wall is a thin, firm layer, and there is no distinctive smell or taste.",
+        sporePrint: "Colourless. The spores are hyaline, smooth, thick-walled, and ellipsoid, about 6–11.5 × 3–6 μm.",
+        habitat: "Fruit bodies grow alone, scattered, or in dense groups on twigs, sticks, cones, nutshells, wood chips, old matting, plant stems, straw, and dung, in broadleaf, mixed, and conifer woods and in the open. They are seldom found on large logs or on bare soil. They fruit from early summer to late autumn in Europe, and from spring through autumn in North America, or through winter in warmer climates.",
+        notes: "Raindrops, or water dripping from a leaf above, splash the peridioles out of the cup. The smooth inner walls slope at about 70–75° from horizontal, which gives a good splash. The peridioles tend to stick to nearby vegetation, where herbivores may eat them and spread the spores. In liquid culture the fungus makes salfredins, compounds that inhibit the enzyme aldose reductase.",
+        confusion: "Cyathus species have a three-layered wall, lack the yellow to orange lid, and in young fruit bodies are closed by a thin white membrane instead; Weathered Cyathus with the hairy outside worn off are easily mistaken for it. Crucibulum parvulum is smaller, 1.5–3 mm across the mouth, and never yellow. Nidula has no cord attaching the peridioles. Nidularia deformis has no lid and turns dark brown with age."
+      },
+      sk: {
+        description: "Drobná saprotrofná huba rastúca na konárikoch, drevnej štiepke a inom drevnom odpade. Má cirkumpolárne rozšírenie v miernom pásme: zaznamenaná je vo väčšine Európy vrátane Slovenska a Kanárskych ostrovov, od Aljašky po Mexiko v Severnej Amerike, v Čile a na Ohňovej zemi, ako aj na Islande, v Japonsku, Austrálii a na Novom Zélande.",
+        cap: "Plodnica, pohárikovité perídium, má pri ústí 3–10 mm v priemere a je vysoká 2–10 mm. Najprv je vankúšikovitá až takmer guľovitá a uzavretá žltým až oranžovým plstnatým viečkom. Keď sa viečko roztrhne a odpadne, plodnica sa stáva súdkovitou a potom pohárovitou až téglikovitou, s takmer rovnobežnými bokmi. Stenu tvorí jediná vrstva tesne poprepletaných hýf, hrubá asi 0,25–0,5 mm. Zvonka je za mladi žltá až okrová a hrubo plstnatá, neskôr sa ošúcha do hladka, zhnedne do škoricova až hneda a staré, zvetrané poháriky môžu vybieleť do špinavobiela. Vnútro je hladké, lesklé a belavé až sivé.",
+        hymenium: "Lupene ani póry nemá. Výtrusorodé pletivo je uzavreté v peridiolách, teda „vajíčkach“ uložených v pohári. V pohári ich je zvyčajne asi štyri až desať, zriedkavo až pätnásť. Sú sploštené, kotúčovité, 1–2 mm široké a 0,2–0,4 mm hrubé, bledookrové až biele a každé obaľuje belavý vonkajší obal (tunika). Každé peridiolum je k stene pohára pripojené pevnou pružnou šnúrkou (funikulom), ktorá sa končí malým uzlíkom pod kotúčikom. Dutinu peridiola vystielajú kyjakovité bazídiá so štyrmi výtrusmi, premiešané so sterilnými hýfami.",
+        stipe: "Hlúbik nemá. Plodnica je k drevu alebo odpadu pripevnená zúženou bázou.",
+        flesh: "Stena je tenká, pevná vrstva a nemá nijakú výraznú vôňu ani chuť.",
+        sporePrint: "Bezfarebná. Výtrusy sú hyalínne, hladké, hrubostenné a elipsoidné, veľké asi 6–11,5 × 3–6 μm.",
+        habitat: "Plodnice rastú jednotlivo, roztrúsene alebo v hustých skupinách na konárikoch, prútikoch, šiškách, orechových škrupinách, drevnej štiepke, starých rohožiach, rastlinných stonkách, slame a na truse, v listnatých, zmiešaných a ihličnatých lesoch aj na otvorených miestach. Na veľkých kmeňoch alebo holej pôde sa nachádzajú len zriedka. V Európe plodia od začiatku leta do neskorej jesene, v Severnej Amerike od jari do jesene a v teplejších oblastiach aj cez zimu.",
+        notes: "Dažďové kvapky alebo voda kvapkajúca z listu nad nimi vystrelia peridioly z pohára. Hladké vnútorné steny sú naklonené asi 70–75° od vodorovnej roviny, čo vystreľovaniu dobre pomáha. Peridioly sa často prilepia na okolitú vegetáciu, kde ich môžu zožrať bylinožravce a rozšíriť výtrusy. V tekutej kultúre huba vytvára salfredíny, látky, ktoré brzdia enzým aldózareduktázu. Na Slovensku sa plodnice vyskytujú najmä od septembra do novembra.",
+        confusion: "Druhy rodu Cyathus majú trojvrstvovú stenu, chýba im žlté až oranžové viečko a mladé plodnice sú namiesto toho uzavreté tenkou bielou blanou. Zvetrané druhy rodu Cyathus s odretým chlpatým povrchom sa s ňou dajú ľahko zameniť. Crucibulum parvulum je menší, s ústím širokým 1,5–3 mm, a nikdy nie je žltý. Druhy rodu Nidula nemajú šnúrku, ktorá by pripájala peridioly. Nidularia deformis nemá viečko a vekom tmavohnedne."
+      }
+    },
+    sources: {
+      en: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Crucibulum_(fungus)"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert",
+          href: "https://www.mushroomexpert.com/crucibulum_laeve.html"
+        },
+        {
+          group: "text",
+          name: "de.wikipedia",
+          href: "https://de.wikipedia.org/wiki/Gemeiner_Tiegelteuerling"
+        },
+        {
+          group: "text",
+          name: "gobe.si",
+          href: "https://www.gobe.si/Gobe/CrucibulumLaeve"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Crucibulum-laeve/poharovcek-obycajny/poharovka-obecna/ID496"
+        },
+        {
+          group: "text",
+          name: "FotoNet",
+          href: "https://fotonet.sk/atlas/fungi_huby/crucibulum-laeve"
+        },
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=252929",
+          detail: "252929"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=252929",
+          detail: "252929"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/252929",
+          detail: "252929"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5243575",
+          detail: "5243575"
+        }
+      ],
+      sk: [
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Crucibulum-laeve/poharovcek-obycajny/poharovka-obecna/ID496",
+          detail: "pohárovček obyčajný"
+        },
+        {
+          group: "text",
+          name: "FotoNet",
+          href: "https://fotonet.sk/atlas/fungi_huby/crucibulum-laeve",
+          detail: "pohárovček obyčajný"
+        }
+      ]
+    },
+    synonyms: [
+      "Peziza laevis Huds.",
+      "Nidularia laevis (Huds.) Huds.",
+      "Cyathella laevis (Huds.) Brot.",
+      "Peziza scutellaris O.F. Müll.",
+      "Peziza lentifera Huds.",
+      "Cyathus scutellaris (O.F. Müll.) Roth",
+      "Cyathodes scutellare (O.F. Müll.) Kuntze",
+      "Cyathus crucibuliformis Hoffm.",
+      "Cyathus crucibulum Pers.",
+      "Nidularia crucibulum Fr.",
+      "Crucibulum vulgare Tul. & C. Tul."
+    ]
   }
 ];

@@ -499,5 +499,13 @@ export const TAXA = {
   },
   Choiromyces: {
     rank: "genus"
+  },
+  Nidulariaceae: {
+    rank: "family",
+    sk: "hniezdovcovité"
+  },
+  Crucibulum: {
+    rank: "genus",
+    sk: "pohárovček"
   }
 };
