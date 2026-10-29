@@ -17279,8 +17279,8 @@ export const CATALOG = [
     ],
     summary: ["Russulales", "Hericiaceae", "Hericium"],
     added: "2026-10-28",
-    plate: STORAGE + "photos/Russulales/Hericiaceae/Hericium_coralloides/Hericium_coralloides@1600.webp",
-    plateGrid: STORAGE + "photos/Russulales/Hericiaceae/Hericium_coralloides/Hericium_coralloides@400.webp",
+    plate: STORAGE + "photos/Russulales/Hericiaceae/Hericium_coralloides/Hericium_coralloides@1600.webp?v=2",
+    plateGrid: STORAGE + "photos/Russulales/Hericiaceae/Hericium_coralloides/Hericium_coralloides@400.webp?v=2",
     plateCredit: {
       author: "J.C. Schaeffer",
       license: "not stated",
@@ -17502,5 +17502,206 @@ export const CATALOG = [
       "Hydnum aciculare Sacc.",
       "Dryodon acicularis (Sacc.) Bourdot",
     ],
+  },
+  {
+    id: 83,
+    name: "Leucocoprinus birnbaumii",
+    author: "(Corda) Singer",
+    family: "Agaricaceae",
+    genus: "Leucocoprinus",
+    order: "Agaricales",
+    edibility: "poisonous",
+    hymenium: "gills",
+    where: [
+      "ground",
+      "grass",
+      "wood"
+    ],
+    color: [
+      "yellow",
+      "brown"
+    ],
+    path: [
+      "Fungi",
+      "Dikarya",
+      "Basidiomycota",
+      "Agaricomycotina",
+      "Agaricomycetes",
+      "Agaricomycetidae",
+      "Agaricales",
+      "Agaricaceae",
+      "Leucocoprinus"
+    ],
+    summary: [
+      "Agaricales",
+      "Agaricaceae",
+      "Leucocoprinus"
+    ],
+    added: "2026-10-28",
+    plate: STORAGE + "photos/Agaricales/Agaricaceae/Leucocoprinus_birnbaumii/Leucocoprinus_birnbaumii@1600.webp",
+    plateGrid: STORAGE + "photos/Agaricales/Agaricaceae/Leucocoprinus_birnbaumii/Leucocoprinus_birnbaumii@400.webp",
+    plateCredit: {
+      author: "Imagine",
+      license: "not stated"
+    },
+    photos: [
+      {
+        src: STORAGE + "photos/Agaricales/Agaricaceae/Leucocoprinus_birnbaumii/lb1.webp",
+        author: "Zinnmann",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:20170714_Leucocoprinus_birnbaumii_-_05.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Agaricaceae/Leucocoprinus_birnbaumii/lb2.webp",
+        author: "Mark Price",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:2010-12-29_Leucocoprinus_birnbaumii_(Corda)_Singer_140142.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Agaricaceae/Leucocoprinus_birnbaumii/lb3.webp",
+        author: "Igor",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:2016-10-02_Leucocoprinus_birnbaumii_(Corda)_Singer_671503.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Agaricaceae/Leucocoprinus_birnbaumii/lb4.webp",
+        author: "Larali21",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Flowerpot_parasol.JPG"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Agaricaceae/Leucocoprinus_birnbaumii/lb5.webp",
+        author: "Zinnmann",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:20170713_Leucocoprinus_birnbaumii_-_02.jpg"
+      }
+    ],
+    capFrom: 2,
+    capTo: 6,
+    stipeHeightFrom: 3,
+    stipeHeightTo: 10,
+    stipeThickFrom: 0.15,
+    stipeThickTo: 0.8,
+    fruitingFrom: 1,
+    fruitingTo: 12,
+    label: {
+      en: "plantpot dapperling",
+      sk: "bedľovec citrónovožltý"
+    },
+    names: {
+      en: [
+        "flowerpot parasol",
+        "yellow parasol",
+        "yellow houseplant mushroom",
+        "lemon-yellow lepiota",
+        "yellow pleated parasol"
+      ]
+    },
+    text: {
+      en: {
+        description: "A saprobic mushroom, common through the tropics and subtropics and present in the warmer temperate zones of Europe, North America, and Australia. In Britain, Ireland, and the Czech Republic it is known from hothouses and plant pots rather than from the wild. It also fruits outdoors where the weather is warm.",
+        cap: "The cap is 2–6 cm across, and occasionally about 7 cm. It begins egg-shaped, cylindrical, or conical, then expands to bell-shaped, hemispherical, or nearly flat, often with a low umbo. The surface is dry and lemon yellow to sulphur yellow, smooth to powdery, with ragged fibrous scales that rub off easily. The scales sit more densely at the centre, where they darken to a deeper yellow or brownish. The margin is sulcate-striate, paler in the grooves, and inrolled when young. On drying the cap fades and may turn tan, ochre, or brownish.",
+        hymenium: "The gills are free and often remote from the stipe. They are sulphur yellow, or a little paler than the cap, with a yellow edge. They are crowded to only moderately spaced, up to about 4 mm broad, and short gills are frequent. They may become ventricose, and the edges can be fringed. The cheilocystidia reach about 50 × 15 μm. They are ventricose and rostrate, thin-walled, and smooth. Pleurocystidia are absent. The basidioles are inflated.",
+        stipe: "The stipe is 3–10 cm long. The shaft is usually 1.5–5 mm thick, and some European collections are 5–8 mm thick. The base is bulbous or club-shaped and 4–15 mm across. The surface is dry, lemon yellow to sulphur yellow, and powdery to finely woolly-scaly, and it may brown with age. A thin membranous ring, yellow above and whitish underneath, can sit anywhere on the stipe. It is movable, fragile, and often gone. The interior is hollow but pithy, and shiny white. The mycelium at the base is pale yellow.",
+        flesh: "The flesh is thin and dull whitish to yellowish. It is firm when young and becomes softer and more fragile later. The odour is indistinct or faintly mushroomy, and sometimes unpleasant. The taste is mild.",
+        sporePrint: "White. The spores are ellipsoid to slightly almond-shaped, smooth, and thick-walled, mostly about 8–12 × 5–7 μm and sometimes as short as 7–9 × 5–6 μm, with a germ pore about 1–2 μm wide. They are dextrinoid. Some collections average a little smaller, about 7.7–10.5 × 5.9–7.3 μm.",
+        habitat: "Fruit bodies grow on humus, compost, and potting soil, alone, scattered, or in small clusters, in flowerpots, greenhouses, and hotbeds. In warm weather they also fruit outdoors in gardens, lawns, and on disturbed ground in woodland, sometimes around stumps. In unheated British greenhouses they appear from June to October. In heated greenhouses and indoor pots they can appear in any month. Outdoors in North America they fruit in summer. One collection in Egypt grew from the stump of a dead lemon tree in autumn.",
+        confusion: "Leucocoprinus straminellus is slightly paler, sometimes whitish, smaller, and more fragile, with smaller spores about 5–7 × 4–6 μm that lack a germ pore. Leucocoprinus flavescens has a pale yellowish to white cap with a brownish centre and smaller spores. Leucocoprinus tricolor has a brown cap centre, paler yellow colours, and a chrome-yellow stipe base. Leucocoprinus fragilissimus has an extremely thin cap and pale gills. Leucocoprinus brunneoluteus has a pronounced brown umbo and thin, fragile flesh. Leucocoprinus cretaceus is similar in stature and is chalk white. Leucoagaricus sulphurellus has gills that bruise bright blue-green. Bolbitius titubans grows in grassland, its yellow gills turn cinnamon as the spores mature, and the stipe has no ring.",
+        notes: "Tiny hard sclerotia, about 0.5–0.8 mm long, form on the soil among the mycelium. They are whitish beige to pale yellowish white. The fungus does not harm the living plant. In a clear orchid pot the sclerotia can collect, spoil the look of the plant, and change how the substrate holds water. The yellow colour comes from two indole alkaloids, birnbaumin A and birnbaumin B. Birnbaumin B is the major pigment. Eating the fruit bodies is reported to cause a gastroenteritis-like illness. How severe that poisoning is remains uncertain, and some accounts treat the toxicity as unknown."
+      },
+      sk: {
+        description: "Saprotrofná huba, hojná v trópoch a subtrópoch a prítomná aj v teplejších miernych oblastiach Európy, Severnej Ameriky a Austrálie. V Británii, Írsku a v Českej republike je známa zo skleníkov a z kvetináčov, nie z voľnej prírody. Plodí aj vonku, tam kde je počasie teplé.",
+        cap: "Klobúk má v priemere 2–6 cm, výnimočne asi 7 cm. Za mladi je vajcovitý, valcovitý alebo kužeľovitý, potom sa rozprestiera do zvoncovitého, polguľovitého alebo takmer plochého tvaru, často s nízkym hrboľom. Povrch je suchý, citrónovožltý až sírovožltý, hladký až práškovitý, s otrhanými vláknitými šupinkami, ktoré sa ľahko zotrú. V strede sú šupinky hustejšie a tmavnú do sýtejšej žltej alebo hnedastej. Okraj je brázdovito ryhovaný, v ryhách bledší a za mladi podvinutý. Po zaschnutí klobúk bledne a môže prejsť do plavej, okrovej alebo hnedastej farby.",
+        hymenium: "Lupene sú voľné a často od hlúbika odsadené. Sú sírovožlté alebo o niečo bledšie než klobúk a majú žlté ostrie. Sú husté až len stredne riedke, široké najviac asi 4 mm, a krátke lupene sú časté. Môžu byť bruchaté a ostrie môže byť rozstrapkané. Cheilocystidy dosahujú asi 50 × 15 μm. Sú bruchaté a zobáčikaté, tenkostenné a hladké. Pleurocystidy chýbajú. Bazidioly sú nafúknuté.",
+        stipe: "Hlúbik je dlhý 3–10 cm. Driek býva hrubý 1,5–5 mm a niektoré európske nálezy 5–8 mm. Báza je hľuzovitá alebo kyjakovitá a široká 4–15 mm. Povrch je suchý, citrónovožltý až sírovožltý, práškovitý až jemne vlnato šupinkatý a vekom môže hnednúť. Tenký blanitý prsteň, zhora žltý a zospodu belavý, môže sedieť kdekoľvek na hlúbiku. Je posuvný, krehký a často už chýba. Vnútro je duté, ale dreňovité, a lesklo biele. Podhubie na báze je bledožlté.",
+        flesh: "Dužina je tenká, matne belavá až žltkastá. Za mladi je pevná, neskôr mäkšia a krehkejšia. Vôňa je nevýrazná alebo slabo hubová, niekedy nepríjemná. Chuť je mierna.",
+        sporePrint: "Biely. Výtrusy sú elipsoidné až slabo mandľovité, hladké a hrubostenné, prevažne asi 8–12 × 5–7 μm a niekedy len 7–9 × 5–6 μm, s klíčnym pórom širokým asi 1–2 μm. Sú dextrinoidné. Niektoré nálezy majú v priemere o niečo menšie výtrusy, asi 7,7–10,5 × 5,9–7,3 μm.",
+        habitat: "Plodnice rastú jednotlivo, roztrúsene alebo v malých trsoch na humuse, komposte a zemine v kvetináčoch, v skleníkoch a v pareniskách. V teplom počasí plodia aj vonku, v záhradách, na trávnikoch a na narušenej pôde v lese, niekedy okolo pňov. V nevykurovaných britských skleníkoch sa objavujú od júna do októbra. Vo vykurovaných skleníkoch a v izbových kvetináčoch môžu vyrásť v ktoromkoľvek mesiaci. Vonku v Severnej Amerike plodia v lete. Jeden nález v Egypte vyrástol na jeseň z pňa odumretého citrónovníka.",
+        confusion: "Bedľovec obnažený (Leucocoprinus straminellus) je o niečo bledší, niekedy belavý, menší a krehkejší a má menšie výtrusy, asi 5–7 × 4–6 μm, bez klíčneho póru. Leucocoprinus flavescens má bledožltkastý až biely klobúk s hnedastým stredom a menšie výtrusy. Leucocoprinus tricolor má hnedý stred klobúka, bledšie žlté farby a chrómovožltú bázu hlúbika. Leucocoprinus fragilissimus má krajne tenký klobúk a bledé lupene. Leucocoprinus brunneoluteus má výrazný hnedý hrboľ a tenkú krehkú dužinu. Leucocoprinus cretaceus má podobnú postavu a kriedovo biele sfarbenie. Leucoagaricus sulphurellus má lupene, ktoré sa po otlačení sfarbujú do jasnej modrozelenej. Hnojovec žltý (Bolbitius titubans) rastie v trávnatých porastoch, jeho žlté lupene pri dozrievaní výtrusov hnednú do škoricova a na hlúbiku nemá prsteň.",
+        notes: "Na pôde medzi podhubím sa tvoria drobné tvrdé skleróciá, dlhé asi 0,5–0,8 mm. Sú belavo béžové až bledožltkastobiele. Huba živú rastlinu nepoškodzuje. V priehľadnom kvetináči s orchideou sa skleróciá môžu hromadiť, kaziť vzhľad rastliny a meniť vododržnosť substrátu. Žlté sfarbenie pochádza z dvoch indolových alkaloidov, birnbaumínu A a birnbaumínu B. Hlavným farbivom je birnbaumín B. Po požití plodníc sa opisuje ochorenie podobné gastroenteritíde. Závažnosť tejto otravy ostáva neistá a niektoré správy pokladajú jedovatosť za neznámu. Na Slovensku je doložená z kvetináča pri Udavskom."
+      }
+    },
+    sources: {
+      en: [
+        {
+          group: "text",
+          name: "First Nature",
+          href: "https://www.first-nature.com/fungi/leucocoprinus-birnbaumii.php"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert",
+          href: "https://www.mushroomexpert.com/leucocoprinus_birnbaumii.html"
+        },
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Leucocoprinus_birnbaumii"
+        },
+        {
+          group: "text",
+          name: "myko.cz",
+          href: "https://www.myko.cz/myko-atlas/Leucocoprinus-birnbaumii/"
+        },
+        {
+          group: "text",
+          name: "grzyby.pl",
+          href: "https://grzyby.pl/gatunki/Leucocoprinus_birnbaumii.htm"
+        },
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=333327",
+          detail: "333327"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=333327",
+          detail: "333327"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/field/Mycobank%20%23/333327",
+          detail: "333327"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/2535598",
+          detail: "2535598"
+        }
+      ],
+      sk: [
+        {
+          group: "text",
+          name: "botany.cz",
+          href: "https://botany.cz/cs/leucocoprinus-birnbaumii/",
+          detail: "bedľovec citrónovožltý"
+        },
+        {
+          group: "text",
+          name: "Lizoň",
+          href: "http://mykospol.sk/wp-content/uploads/2019/04/Spravodajca_c-322005.pdf",
+          detail: "Spravodajca SMS 32 (2005)"
+        }
+      ]
+    },
+    synonyms: [
+      "Agaricus birnbaumii Corda",
+      "Bolbitius birnbaumii (Corda) Sacc. & Traverso",
+      "Agaricus luteus Bolton",
+      "Lepiota lutea Godfrin",
+      "Leucocoprinus luteus (Godfrin) Locq.",
+      "Lepiota aurea Massee",
+      "Agaricus aureus F.M. Bailey",
+      "Lepiota pseudolicmophora Rea"
+    ]
   }
 ];

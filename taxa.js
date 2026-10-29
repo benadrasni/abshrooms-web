@@ -159,6 +159,10 @@ export const TAXA = {
     rank: "genus",
     sk: "bedlička"
   },
+  Leucocoprinus: {
+    rank: "genus",
+    sk: "bedľovec"
+  },
   Cantharellus: {
     rank: "genus",
     sk: "kuriatko"
