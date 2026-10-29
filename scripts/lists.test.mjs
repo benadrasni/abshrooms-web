@@ -83,6 +83,27 @@ test('2016 on the German and Hungarian year lists is Collybia personata', () => 
   assert.equal(hungary.find((row) => row.year === 2016).name, 'Collybia personata');
 });
 
+test('the Estonian year list keeps a genus pick as a genus', () => {
+  const rows = listSpecies('mushroom-of-the-year-et');
+  assert.equal(rows[0].genus, 'Heterobasidion');
+  assert.equal(rows[0].year, 2025);
+  assert.equal(rows[1].name, 'Boletus edulis');
+  assert.equal(rows[1].year, 2023);
+  const chanterelle = rows.find((row) => row.year === 2017);
+  assert.equal(chanterelle.genus, 'Cantharellus');
+  assert.equal(chanterelle.name, 'Cantharellus');
+  const root = rows.find((row) => row.year === 2025);
+  assert.equal(root.genus, 'Heterobasidion');
+  const page = viewModel({ lang: 'et', view: 'list', key: 'mushroom-of-the-year-et', search: '' });
+  assert.match(page.html, /href="\/et\/genus\/Cantharellus\/"/);
+  assert.match(page.html, /class="n latin">Cantharellus/);
+  assert.match(page.html, />Perekond</);
+  assert.doesNotMatch(page.html, /Cantharellus%20cibarius/);
+  assert.match(page.html, /Heterobasidion/);
+  assert.doesNotMatch(page.html, /href="[^"]*Heterobasidion/);
+  assert.ok(page.html.indexOf('>2023<') < page.html.indexOf('>2017<'));
+});
+
 test('German and Latvian year lists link the catalog species', () => {
   const germanPage = viewModel({ lang: 'de', view: 'list', key: 'mushroom-of-the-year-de', search: '' });
   assert.match(germanPage.html, /href="\/de\/mushroom\/Choiromyces%20meandriformis\/"/);
@@ -145,6 +166,11 @@ const YEAR_LIST_GAPS = [
   ['mushroom-of-the-year-hu', 2026, 'Agaricus bohusii'],
   ['mushroom-of-the-year-fi', 2025, 'Albatrellus ovinus'],
   ['mushroom-of-the-year-fi', 2026, 'Lactarius camphoratus'],
+  ['mushroom-of-the-year-et', 2020, 'Cladonia stellaris'],
+  ['mushroom-of-the-year-et', 2021, 'Hydnellum fuligineoviolaceum'],
+  ['mushroom-of-the-year-et', 2022, 'Epichloë typhina'],
+  ['mushroom-of-the-year-et', 2024, 'Lactarius camphoratus'],
+  ['mushroom-of-the-year-et', 2026, 'Sarcosoma globosum'],
 ];
 
 function yearRowKey(id, year, name) {
@@ -157,6 +183,7 @@ test('every year-list row is a catalog species or an acknowledged gap', () => {
   for (const list of LISTS) {
     if (list.type !== 'year') continue;
     for (const entry of list.entries) {
+      if (entry.genus) continue;
       if (!findSpecies(entry.name)) missing.add(yearRowKey(list.id, entry.year, entry.name));
     }
   }

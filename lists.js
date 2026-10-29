@@ -1,6 +1,7 @@
 // Editorial lists from Firestore curated_lists on abshrooms-a9d4c.
 // A language sees a list when locales contains that code or "*".
 // Species the catalog does not have are skipped at render time.
+// A genus row stays a genus. One species in that genus supplies the picture.
 // scripts/lists.test.mjs records year-list names the catalog does not have yet.
 // Snapshot taken 2026-10-26.
 export const LISTS = [
@@ -12,14 +13,10 @@ export const LISTS = [
       "de"
     ],
     "titles": {
-      "de": "Pilz des Jahres — Deutschland",
-      "sk": "Huba roka — Nemecko",
-      "en": "Mushroom of the year — Germany"
+      "de": "Pilz des Jahres — Deutschland"
     },
     "descriptions": {
-      "de": "Jährlich gewählt von Deutsche Gesellschaft für Mykologie, seit 1994.",
-      "en": "Chosen each year by the German Mycological Society (DGfM), since 1994.",
-      "sk": "Každoročne vyberá Deutsche Gesellschaft für Mykologie, od roku 1994."
+      "de": "Jährlich gewählt von Deutsche Gesellschaft für Mykologie, seit 1994."
     },
     "entries": [
       {
@@ -170,13 +167,9 @@ export const LISTS = [
       "de"
     ],
     "titles": {
-      "de": "Pilz des Jahres — Österreich",
-      "sk": "Huba roka — Rakúsko",
-      "en": "Mushroom of the year — Austria"
+      "de": "Pilz des Jahres — Österreich"
     },
     "descriptions": {
-      "en": "Chosen each year by Naturschutzbund Österreich (2016–2018) and the Austrian Mycological Society (since 2019), since 2016.",
-      "sk": "Každoročne vyberá Naturschutzbund Österreich und Österreichische Mykologische Gesellschaft, od roku 2016.",
       "de": "Jährlich gewählt von Naturschutzbund Österreich und Österreichische Mykologische Gesellschaft, seit 2016."
     },
     "entries": [
@@ -235,13 +228,9 @@ export const LISTS = [
       "nl"
     ],
     "titles": {
-      "nl": "Paddenstoel van het jaar — Nederland",
-      "sk": "Huba roka — Holandsko",
-      "en": "Mushroom of the year — Netherlands"
+      "nl": "Paddenstoel van het jaar"
     },
     "descriptions": {
-      "en": "Chosen each year by the Dutch Mycological Society (NMV), since 2013.",
-      "sk": "Každoročne vyberá Nederlandse Mycologische Vereniging, od roku 2013.",
       "nl": "Jaarlijks gekozen door de Nederlandse Mycologische Vereniging, sinds 2013."
     },
     "entries": [
@@ -313,13 +302,9 @@ export const LISTS = [
       "lv"
     ],
     "titles": {
-      "sk": "Huba roka — Lotyšsko",
-      "en": "Mushroom of the year — Latvia",
-      "lv": "Gada sēne — Latvija"
+      "lv": "Gada sēne"
     },
     "descriptions": {
-      "en": "Chosen each year by the Latvian Mycological Society, since 2003.",
-      "sk": "Každoročne vyberá Latvijas Mikologu biedrība, od roku 2003.",
       "lv": "Ik gadu izvēlas Latvijas Mikologu biedrība, kopš 2003."
     },
     "entries": [
@@ -431,14 +416,10 @@ export const LISTS = [
       "hu"
     ],
     "titles": {
-      "sk": "Huba roka — Maďarsko",
-      "hu": "Év gombája — Magyarország",
-      "en": "Mushroom of the year — Hungary"
+      "hu": "Év gombája"
     },
     "descriptions": {
-      "sk": "Každoročne vyberá Magyar Mikológiai Társaság, közönségszavazással, od roku 2006.",
-      "hu": "Évente választja a Magyar Mikológiai Társaság, közönségszavazással, 2006 óta.",
-      "en": "Chosen each year by the Hungarian Mycological Society, by public vote, since 2006."
+      "hu": "Évente választja a Magyar Mikológiai Társaság, közönségszavazással, 2006 óta."
     },
     "entries": [
       {
@@ -537,14 +518,10 @@ export const LISTS = [
       "fi"
     ],
     "titles": {
-      "fi": "Vuoden sieni — Suomi",
-      "sk": "Huba roka — Fínsko",
-      "en": "Mushroom of the year — Finland"
+      "fi": "Vuoden sieni"
     },
     "descriptions": {
-      "fi": "Martat valitsee vuosittain.",
-      "en": "Chosen each year by Martat, the Finnish home economics association.",
-      "sk": "Každoročne vyberá Martat."
+      "fi": "Martat valitsee vuosittain."
     },
     "entries": [
       {
@@ -566,6 +543,64 @@ export const LISTS = [
     ],
     "sourceUrl": "https://www.martat.fi/",
     "coverSpecies": "Cantharellus cibarius"
+  },
+  {
+    "id": "mushroom-of-the-year-et",
+    "type": "year",
+    "sort": 56,
+    "locales": [
+      "et"
+    ],
+    "titles": {
+      "et": "Aasta seen"
+    },
+    "descriptions": {
+      "et": "Valib igal aastal Eesti Mükoloogiaühing, alates 2017."
+    },
+    "entries": [
+      {
+        "genus": "Cantharellus",
+        "year": 2017
+      },
+      {
+        "name": "Fomes fomentarius",
+        "year": 2018
+      },
+      {
+        "name": "Coprinus comatus",
+        "year": 2019
+      },
+      {
+        "name": "Cladonia stellaris",
+        "year": 2020
+      },
+      {
+        "name": "Hydnellum fuligineoviolaceum",
+        "year": 2021
+      },
+      {
+        "name": "Epichloë typhina",
+        "year": 2022
+      },
+      {
+        "name": "Boletus edulis",
+        "year": 2023
+      },
+      {
+        "name": "Lactarius camphoratus",
+        "year": 2024
+      },
+      {
+        "genus": "Heterobasidion",
+        "year": 2025
+      },
+      {
+        "name": "Sarcosoma globosum",
+        "year": 2026
+      }
+    ],
+    "sourceUrl": "https://et.wikipedia.org/wiki/Aasta_seen",
+    "coverSpecies": "Boletus edulis"
   },
   {
     "id": "us-state-mushrooms",

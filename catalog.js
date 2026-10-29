@@ -544,6 +544,29 @@ function tile(name, lang, kind) {
   );
 }
 
+function genusCell(entry, lang, mark) {
+  var copy = t(lang);
+  var spoken = taxonLabel(entry.genus, lang);
+  var title = spoken ? displayName(spoken, "", lang) : entry.genus;
+  var badge = mark && mark.text
+    ? '<div class="year' + (mark.state ? " state" : "") + '">' + esc(mark.text) + "</div>"
+    : "";
+  var portrait = entry.species;
+  var art = portrait && portrait.plateGrid
+    ? '<div class="art"><img src="' + esc(portrait.plateGrid) + '" alt="' + esc(title) + '"></div>'
+    : '<div class="art"></div>';
+  var name = spoken
+    ? '<div class="n">' + esc(title) + '</div><div class="l latin">' + esc(entry.genus) + "</div>"
+    : '<div class="n latin">' + esc(entry.genus) + "</div>";
+  var inner = art + badge + name + '<div class="g">' + esc(copy.genus) + "</div>";
+  if (!portrait) return '<div class="cell">' + inner + "</div>";
+  return (
+    '<a class="cell" href="' + href("/genus/" + encodeURIComponent(entry.genus), lang) + '">' +
+      inner +
+    "</a>"
+  );
+}
+
 function cell(species, lang, third, spoken, mark) {
   var raw = species.label && species.label[lang] ? String(species.label[lang]).trim() : "";
   var label = raw ? displayName(raw, "", lang) : "";
@@ -607,15 +630,45 @@ function resolveSpecies(entry) {
   return null;
 }
 
+function speciesInGenus(genus) {
+  return CATALOG.filter(function (species) {
+    return species.genus === genus;
+  }).sort(function (a, b) {
+    return a.name < b.name ? -1 : a.name > b.name ? 1 : 0;
+  });
+}
+
+/** One species plate stands for the genus. Null when the book has none. */
+function portraitOfGenus(genus) {
+  var rows = speciesInGenus(genus);
+  var i;
+  for (i = 0; i < rows.length; i++) {
+    if (rows[i].plateGrid || rows[i].plate) return rows[i];
+  }
+  return rows.length ? rows[0] : null;
+}
+
 function presentList(doc, lang) {
   var type = doc.type === "year" || doc.type === "region" ? doc.type : "species";
   var resolved = [];
   (doc.entries || []).forEach(function (entry, index) {
+    var genus = entry && entry.genus ? String(entry.genus).trim() : "";
+    if (genus) {
+      resolved.push({
+        index: index,
+        species: portraitOfGenus(genus),
+        genus: genus,
+        year: entry.year || 0,
+        region: entry.region || ""
+      });
+      return;
+    }
     var species = resolveSpecies(entry);
     if (!species) return;
     resolved.push({
       index: index,
       species: species,
+      genus: "",
       year: entry.year || 0,
       region: entry.region || ""
     });
@@ -639,7 +692,14 @@ function presentList(doc, lang) {
     return a.index - b.index;
   });
   var cover = resolveSpecies({ name: doc.coverSpecies, speciesId: doc.coverSpeciesId });
-  if (!cover && resolved.length) cover = resolved[0].species;
+  if (!cover) {
+    for (var c = 0; c < resolved.length; c++) {
+      if (resolved[c].species) {
+        cover = resolved[c].species;
+        break;
+      }
+    }
+  }
   return {
     id: doc.id,
     sort: doc.sort || 0,
@@ -710,12 +770,13 @@ function listPage(lang, id) {
     : "";
   var lede = (list.description || copy.listLede) + " " + countLabel(list.entries.length, lang);
   var grid = list.entries.map(function (entry) {
-    var spoken = taxonLabel(entry.species.family, lang);
     var mark = entry.region
       ? { state: true, text: entry.region }
       : entry.year
         ? { text: String(entry.year) }
         : null;
+    if (entry.genus) return genusCell(entry, lang, mark);
+    var spoken = taxonLabel(entry.species.family, lang);
     return cell(
       entry.species,
       lang,
@@ -1685,7 +1746,8 @@ function listSpecies(id) {
   if (!doc) return [];
   return presentList(doc, "en").entries.map(function (entry) {
     return {
-      name: entry.species.name,
+      name: entry.genus || (entry.species ? entry.species.name : ""),
+      genus: entry.genus || "",
       year: entry.year || 0,
       region: entry.region || ""
     };
