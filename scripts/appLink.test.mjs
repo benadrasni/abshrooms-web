@@ -20,7 +20,15 @@ test('the Smart App Banner names a species and nothing else', () => {
   );
   assert.equal(
     appleSmartBanner('https://whatsthatmushroom.app/mushroom/Boletus%20edulis'),
-    'app-id=6826707489, app-argument=https://whatsthatmushroom.app/mushroom/Boletus%20edulis',
+    'app-id=6826707489',
+  );
+  assert.equal(
+    appleSmartBanner('https://whatsthatmushroom.app/mushroom/foo/../Boletus%20edulis/'),
+    species,
+  );
+  assert.equal(
+    appleSmartBanner('https://evil.example/mushroom/Boletus%20edulis/'),
+    'app-id=6826707489',
   );
   assert.equal(
     appleSmartBanner('https://whatsthatmushroom.app/sk/mushroom/Boletus%20edulis/'),
@@ -49,7 +57,15 @@ test('the Smart App Banner names a species and nothing else', () => {
     'app-id=6826707489',
   );
   assert.equal(
+    appleSmartBanner('https://whatsthatmushroom.app/mushroom/Boletus%20edulis/?'),
+    'app-id=6826707489',
+  );
+  assert.equal(
     appleSmartBanner('https://whatsthatmushroom.app/mushroom/Boletus%20edulis/#cap'),
+    'app-id=6826707489',
+  );
+  assert.equal(
+    appleSmartBanner('https://whatsthatmushroom.app/mushroom/Boletus%20edulis/#'),
     'app-id=6826707489',
   );
   assert.equal(appleSmartBanner('not a url /mushroom/Boletus%20edulis/'), 'app-id=6826707489');

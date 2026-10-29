@@ -2,23 +2,28 @@ import { LANGS } from '../copy.js';
 
 export const IOS_APP_ID = '6826707489';
 
+const SITE = 'https://whatsthatmushroom.app';
 const LANG_PREFIX = new Set(LANGS.map((item) => item.code).filter((code) => code !== 'en'));
 
-// Smart App Banner content. The app-argument is a species path:
-// /mushroom/<slug> or /<lang>/mushroom/<slug>. Every other page just opens the app.
-export function appleSmartBanner(canonicalUrl) {
+// A species URL on this site: /mushroom/<slug>/ or /<lang>/mushroom/<slug>/.
+// Returns that URL, or null. The banner is formatted from the URL that passed.
+function speciesUrl(canonicalUrl) {
   const raw = String(canonicalUrl || '');
+  if (raw.includes('?') || raw.includes('#')) return null;
   let url;
   try {
     url = new URL(raw);
   } catch {
-    return `app-id=${IOS_APP_ID}`;
+    return null;
   }
-  if (url.protocol !== 'https:' || url.username || url.password || url.search || url.hash) {
-    return `app-id=${IOS_APP_ID}`;
-  }
-  const match = url.pathname.match(/^\/(?:([^/]+)\/)?mushroom\/([^/]+)\/?$/);
-  if (!match) return `app-id=${IOS_APP_ID}`;
-  if (match[1] && !LANG_PREFIX.has(match[1])) return `app-id=${IOS_APP_ID}`;
-  return `app-id=${IOS_APP_ID}, app-argument=${raw}`;
+  if (url.origin !== SITE || url.username || url.password) return null;
+  const match = url.pathname.match(/^\/(?:([^/]+)\/)?mushroom\/([^/]+)\/$/);
+  if (!match || (match[1] && !LANG_PREFIX.has(match[1]))) return null;
+  return url;
+}
+
+export function appleSmartBanner(canonicalUrl) {
+  const url = speciesUrl(canonicalUrl);
+  const id = `app-id=${IOS_APP_ID}`;
+  return url ? `${id}, app-argument=${url.origin}${url.pathname}` : id;
 }

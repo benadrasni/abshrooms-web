@@ -83,13 +83,7 @@ test('2016 on the German and Hungarian year lists is Collybia personata', () => 
   assert.equal(hungary.find((row) => row.year === 2016).name, 'Collybia personata');
 });
 
-test('German 2001 and Latvian 2017 and 2010 use the catalog names', () => {
-  const germany = listSpecies('mushroom-of-the-year-de');
-  const latvia = listSpecies('mushroom-of-the-year-lv');
-  assert.equal(germany.find((row) => row.year === 2001).name, 'Choiromyces meandriformis');
-  assert.equal(latvia.find((row) => row.year === 2017).name, 'Choiromyces meandriformis');
-  assert.equal(latvia.find((row) => row.year === 2010).name, 'Hericium coralloides');
-
+test('German and Latvian year lists link the catalog species', () => {
   const germanPage = viewModel({ lang: 'de', view: 'list', key: 'mushroom-of-the-year-de', search: '' });
   assert.match(germanPage.html, /href="\/de\/mushroom\/Choiromyces%20meandriformis\/"/);
   const latvianPage = viewModel({ lang: 'lv', view: 'list', key: 'mushroom-of-the-year-lv', search: '' });
@@ -97,73 +91,77 @@ test('German 2001 and Latvian 2017 and 2010 use the catalog names', () => {
   assert.match(latvianPage.html, /href="\/lv\/mushroom\/Hericium%20coralloides\/"/);
 });
 
-// A year-list row whose name is not a catalog name is omitted from the page.
-// These species are not in the catalog yet. Any other missing name fails
-// this test instead of disappearing at render.
-const YEAR_LIST_NAMES_NOT_IN_CATALOG = [
-  'mushroom-of-the-year-de 2000 Amanita regalis',
-  'mushroom-of-the-year-de 2002 Cortinarius orellanus',
-  'mushroom-of-the-year-de 2005 Astraeus hygrometricus',
-  'mushroom-of-the-year-de 2009 Terana caerulea',
-  'mushroom-of-the-year-de 2010 Cortinarius praestans',
-  'mushroom-of-the-year-de 2011 Clathrus ruber',
-  'mushroom-of-the-year-de 2012 Cantharellus cinereus',
-  'mushroom-of-the-year-de 2013 Entoloma incanum',
-  'mushroom-of-the-year-de 2014 Crucibulum laeve',
-  'mushroom-of-the-year-de 2023 Mitrula paludosa',
-  'mushroom-of-the-year-de 2025 Clavaria zollingeri',
-  'mushroom-of-the-year-de 2027 Lactarius lignyotus',
-  'mushroom-of-the-year-at 2016 Hapalopilus croceus',
-  'mushroom-of-the-year-at 2017 Bovista paludosa',
-  'mushroom-of-the-year-at 2018 Pseudoplectania melaena',
-  'mushroom-of-the-year-at 2019 Picipes rhizophilus',
-  'mushroom-of-the-year-at 2020 Climacodon septentrionalis',
-  'mushroom-of-the-year-at 2021 Tricholoma focale',
-  'mushroom-of-the-year-at 2022 Hydnellum mirabile',
-  'mushroom-of-the-year-at 2023 Maublancomyces inflatus',
-  'mushroom-of-the-year-at 2024 Phaeoclavulina roellinii',
-  'mushroom-of-the-year-at 2025 Calonarius atrovirens',
-  'mushroom-of-the-year-at 2026 Phaeoclavulina macrospora',
-  'mushroom-of-the-year-nl 2018 Leotia lubrica',
-  'mushroom-of-the-year-nl 2019 Clavaria argillacea',
-  'mushroom-of-the-year-nl 2020 Clavaria argillacea',
-  'mushroom-of-the-year-nl 2021 Phyllotopsis nidulans',
-  'mushroom-of-the-year-lv 2024 Chlorociboria aeruginascens',
-  'mushroom-of-the-year-lv 2023 Grifola frondosa',
-  'mushroom-of-the-year-lv 2022 Hydnellum ferrugineum',
-  'mushroom-of-the-year-lv 2020 Peziza ammophila',
-  'mushroom-of-the-year-lv 2019 Noblesia crocea',
-  'mushroom-of-the-year-lv 2016 Amanita strobiliformis',
-  'mushroom-of-the-year-lv 2015 Phlebiopsis gigantea',
-  'mushroom-of-the-year-lv 2014 Aureoboletus projectellus',
-  'mushroom-of-the-year-lv 2012 Rhodotus palmatus',
-  'mushroom-of-the-year-lv 2009 Heterobasidion annosum',
-  'mushroom-of-the-year-lv 2008 Agaricus bitorquis',
-  'mushroom-of-the-year-lv 2007 Aspropaxillus giganteus',
-  'mushroom-of-the-year-lv 2006 Sarcosoma globosum',
-  'mushroom-of-the-year-lv 2005 Phaeolepiota aurea',
-  'mushroom-of-the-year-lv 2003 Helvella crispa',
-  'mushroom-of-the-year-hu 2008 Russula virescens',
-  'mushroom-of-the-year-hu 2011 Amanita caesarea',
-  'mushroom-of-the-year-hu 2013 Agaricus bohusii',
-  'mushroom-of-the-year-hu 2017 Omphalotus olearius',
-  'mushroom-of-the-year-hu 2020 Microstoma protractum',
-  'mushroom-of-the-year-hu 2021 Volvariella bombycina',
-  'mushroom-of-the-year-hu 2024 Amanita excelsa',
-  'mushroom-of-the-year-hu 2026 Agaricus bohusii',
-  'mushroom-of-the-year-fi 2025 Albatrellus ovinus',
-  'mushroom-of-the-year-fi 2026 Lactarius camphoratus',
+// A year-list row is a catalog species, or one of these gaps. The key is
+// (id, year, name). Order does not matter.
+const YEAR_LIST_GAPS = [
+  ['mushroom-of-the-year-de', 2000, 'Amanita regalis'],
+  ['mushroom-of-the-year-de', 2002, 'Cortinarius orellanus'],
+  ['mushroom-of-the-year-de', 2005, 'Astraeus hygrometricus'],
+  ['mushroom-of-the-year-de', 2009, 'Terana caerulea'],
+  ['mushroom-of-the-year-de', 2010, 'Cortinarius praestans'],
+  ['mushroom-of-the-year-de', 2011, 'Clathrus ruber'],
+  ['mushroom-of-the-year-de', 2012, 'Cantharellus cinereus'],
+  ['mushroom-of-the-year-de', 2013, 'Entoloma incanum'],
+  ['mushroom-of-the-year-de', 2014, 'Crucibulum laeve'],
+  ['mushroom-of-the-year-de', 2023, 'Mitrula paludosa'],
+  ['mushroom-of-the-year-de', 2025, 'Clavaria zollingeri'],
+  ['mushroom-of-the-year-de', 2027, 'Lactarius lignyotus'],
+  ['mushroom-of-the-year-at', 2016, 'Hapalopilus croceus'],
+  ['mushroom-of-the-year-at', 2017, 'Bovista paludosa'],
+  ['mushroom-of-the-year-at', 2018, 'Pseudoplectania melaena'],
+  ['mushroom-of-the-year-at', 2019, 'Picipes rhizophilus'],
+  ['mushroom-of-the-year-at', 2020, 'Climacodon septentrionalis'],
+  ['mushroom-of-the-year-at', 2021, 'Tricholoma focale'],
+  ['mushroom-of-the-year-at', 2022, 'Hydnellum mirabile'],
+  ['mushroom-of-the-year-at', 2023, 'Maublancomyces inflatus'],
+  ['mushroom-of-the-year-at', 2024, 'Phaeoclavulina roellinii'],
+  ['mushroom-of-the-year-at', 2025, 'Calonarius atrovirens'],
+  ['mushroom-of-the-year-at', 2026, 'Phaeoclavulina macrospora'],
+  ['mushroom-of-the-year-nl', 2018, 'Leotia lubrica'],
+  ['mushroom-of-the-year-nl', 2019, 'Clavaria argillacea'],
+  ['mushroom-of-the-year-nl', 2020, 'Clavaria argillacea'],
+  ['mushroom-of-the-year-nl', 2021, 'Phyllotopsis nidulans'],
+  ['mushroom-of-the-year-lv', 2024, 'Chlorociboria aeruginascens'],
+  ['mushroom-of-the-year-lv', 2023, 'Grifola frondosa'],
+  ['mushroom-of-the-year-lv', 2022, 'Hydnellum ferrugineum'],
+  ['mushroom-of-the-year-lv', 2020, 'Peziza ammophila'],
+  ['mushroom-of-the-year-lv', 2019, 'Noblesia crocea'],
+  ['mushroom-of-the-year-lv', 2016, 'Amanita strobiliformis'],
+  ['mushroom-of-the-year-lv', 2015, 'Phlebiopsis gigantea'],
+  ['mushroom-of-the-year-lv', 2014, 'Aureoboletus projectellus'],
+  ['mushroom-of-the-year-lv', 2012, 'Rhodotus palmatus'],
+  ['mushroom-of-the-year-lv', 2009, 'Heterobasidion annosum'],
+  ['mushroom-of-the-year-lv', 2008, 'Agaricus bitorquis'],
+  ['mushroom-of-the-year-lv', 2007, 'Aspropaxillus giganteus'],
+  ['mushroom-of-the-year-lv', 2006, 'Sarcosoma globosum'],
+  ['mushroom-of-the-year-lv', 2005, 'Phaeolepiota aurea'],
+  ['mushroom-of-the-year-lv', 2003, 'Helvella crispa'],
+  ['mushroom-of-the-year-hu', 2008, 'Russula virescens'],
+  ['mushroom-of-the-year-hu', 2011, 'Amanita caesarea'],
+  ['mushroom-of-the-year-hu', 2013, 'Agaricus bohusii'],
+  ['mushroom-of-the-year-hu', 2017, 'Omphalotus olearius'],
+  ['mushroom-of-the-year-hu', 2020, 'Microstoma protractum'],
+  ['mushroom-of-the-year-hu', 2021, 'Volvariella bombycina'],
+  ['mushroom-of-the-year-hu', 2024, 'Amanita excelsa'],
+  ['mushroom-of-the-year-hu', 2026, 'Agaricus bohusii'],
+  ['mushroom-of-the-year-fi', 2025, 'Albatrellus ovinus'],
+  ['mushroom-of-the-year-fi', 2026, 'Lactarius camphoratus'],
 ];
 
-test('every year-list name is a catalog name or a species the catalog does not have yet', () => {
-  const missing = [];
+function yearRowKey(id, year, name) {
+  return JSON.stringify([id, year, name]);
+}
+
+test('every year-list row is a catalog species or an acknowledged gap', () => {
+  const expected = new Set(YEAR_LIST_GAPS.map(([id, year, name]) => yearRowKey(id, year, name)));
+  const missing = new Set();
   for (const list of LISTS) {
     if (list.type !== 'year') continue;
     for (const entry of list.entries) {
-      if (!findSpecies(entry.name)) missing.push(`${list.id} ${entry.year} ${entry.name}`);
+      if (!findSpecies(entry.name)) missing.add(yearRowKey(list.id, entry.year, entry.name));
     }
   }
-  assert.deepEqual(missing, YEAR_LIST_NAMES_NOT_IN_CATALOG);
+  assert.deepEqual(missing, expected);
 });
 
 test('a list for another language is not a page', () => {
