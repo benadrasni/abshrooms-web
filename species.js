@@ -79,6 +79,7 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 11,
     label: {
+      tr: "çörek mantarı",
       sl: "jesenski goban",
       hr: "crnogorični vrganj",
       sr: "прави вргањ",
@@ -96,7 +97,9 @@ export const CATALOG = [
       pt: 'tortulho',
       da: 'spiselig rørhat',
       no: 'steinsopp',
-      sv: 'stensopp'
+      sv: 'stensopp',
+      ro: 'hrib',
+      bg: 'обикновена манатарка'
     },
     names: {
       en: ["cep", "king bolete", "porcini"],
@@ -107,9 +110,22 @@ export const CATALOG = [
       nl: ['Eekhoorntjesbrood'],
       pt: ['cogumelo-de-Bordéus', 'boleto-comestível'],
       da: ['Karl Johan'],
-      sv: ['karljohan', 'karljohans svamp', 'karljohanssvamp']
+      sv: ['karljohan', 'karljohans svamp', 'karljohanssvamp'],
+      ro: ['hrib cenușiu', 'mănătarcă'],
+      bg: ['манатарка', 'меча гъба', 'самунка']
     },
     text: {
+      tr: {
+          "description": "Büyük, ektomikorizal bir mantardır. Avrupa, Kuzey Amerika ve Asya'nın çeşitli bölgelerinde doğal olarak yayılış gösterir. Yeni Zelanda'da Christchurch'e, Avustralya'da Adelaide Hills'e ve Güney Afrika ile Zimbabve'deki çam plantasyonlarına dikilen ağaçlarla birlikte taşınmıştır.",
+          "cap": "Şapka genellikle 5–30 cm genişliğinde olup bazen daha da büyüyebilir; gençken dışbükeydir ve yaşlandıkça düzleşir. Kırmızımsı kahverengi renktedir, kenarları genellikle daha açıktır ve nemli havalarda yapışkan bir doku kazanır. Olgun bir meyve gövdesi yaklaşık 1 kg ağırlığa ulaşabilir. 1995 yılında Skye'da bulunan bir örneğin şapka genişliği 42 cm olarak ölçülmüştür.",
+          "hymenium": "Borucuklar yaklaşık 1–2 cm derinliğindedir. Gözenekler küçüktür, milimetre başına yaklaşık iki veya üç gözenek düşer. Gençken beyazımsı ve tıkalı görünür, ardından sararır ve zamanla yeşilimsi sarıdan kahverengiye döner. Ezildiğinde veya berelendiğinde renk değiştirmez.",
+          "stipe": "Sap genellikle 6–25 cm uzunluğunda ve 2–7 cm kalınlığında olup beyaz veya sarımsıdır. Gençken tabanda genellikle şişkindir ve daha sonra silindirik bir form alır. İnce ve belirgin bir ağ deseni sapın üst kısmını, bazen de tamamını kaplar. Sapın tabanındaki etli kısım bazen koyu sarıdır.",
+          "flesh": "Etli kısım beyaz, kalın ve gençken serttir; yaşlandıkça bir miktar süngerimsi hale gelir. Kesildiğinde veya ezildiğinde beyaz kalır, yalnızca şapka kütikulasının hemen altında soluk pembe veya şarabi kahverengi bir ton barındırabilir.",
+          "habitat": "Meyve gövdeleri yaz ve sonbahar aylarında, tek tek veya ikişer üçerli gruplar halinde ortaya çıkar. Serin ılıman ve subtropikal ormanlarda çam, ladin, baldıran, göknar, kayın, meşe ve kestane gibi canlı ağaçlarla birlikte yetişir.",
+          "sporePrint": "Zeytin kahverengisi. Sporlar eliptik ile mekik şeklinde olup yaklaşık 12–17 × 5–7 μm boyutlarındadır.",
+          "uses": "Seçkin yemeklik bir mantardır; mevsiminde taze olarak tüketildiği gibi, daha çok kurutulup suda bekletildikten sonra çorbalarda, makarnalarda ve risottolarda kullanılır. Güvenilir bir ticari tarım ürünü olarak yetiştirilememektedir.",
+          "confusion": "Benzer türler arasında, açık renkli bir sap üzerinde koyu renkli bir ağ desenine ve pembemsi gözeneklere sahip olan pestifal mantarı (Tylopilus felleus) ile kırmızı bir sapa ve ezildiğinde maviye dönen bir ete sahip olan şeytan mantarı (Rubroboletus satanas) yer alır. Bronz çörek mantarı (Boletus aereus), çam boleti (Boletus pinophilus) ve yaz çörek mantarı (Boletus reticulatus), Boletus edulis türünden ayrı tutulan yakın akraba Avrupa türleridir. Moleküler çalışmalar Boletus betulicola, Boletus persoonii, Boletus quercicola ve Boletus venturii gibi taksonları Boletus edulis kompleksi içerisinde değerlendirmektedir."
+    },
       sl: {
           "description": "Velika ektomikorizna goba. Samonikla je po vsej Evropi, Severni Ameriki in delih Azije. Z nasajenimi drevesi je bila zanesena v Christchurch na Novi Zelandiji, v hribovje Adelaide Hills v Avstraliji ter v borove nasade v Južni Afriki in Zimbabveju.",
           "cap": "Klobuk ima premer običajno 5–30 cm, včasih več, pri mladih gobah je izbočen in se s starostjo zravna. Je rdečkastorjav, pogosto s svetlejšim robom, v vlažnem vremenu pa lepljiv. Zrel trosnjak lahko tehta približno 1 kg. Primerek z otoka Skye iz leta 1995 je imel premer klobuka kar 42 cm.",
@@ -300,9 +316,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar uppträder under sommar och höst, enstaka eller i grupper om två eller tre. Den växer tillsammans med levande träd, däribland tall, gran, hemlock, ädelgran, bok, ek och äkta kastanj, i kyltempererade och subtropiska skogar.',
       uses: 'Den är en läcker matsvamp som äts färsk under säsongen och ännu oftare torkas och blötläggs till soppor, pasta och risotto. Den odlas inte som en pålitlig kommersiell gröda.',
       confusion: 'Förväxlingsarter inkluderar gallsopp (Tylopilus felleus), som har ett mörkt ådernät på en ljus fot och porer som blir rosa, samt djävulssopp (Rubroboletus satanas), som har röd fot och kött som blånar vid tryck. Svartbrun stensopp (Boletus aereus), rödbrun stensopp (Boletus pinophilus) och finluden stensopp (Boletus reticulatus) är närstående europeiska arter som hålls åtskilda från Boletus edulis. Molekylära studier placerar namn som Boletus betulicola, Boletus persoonii, Boletus quercicola och Boletus venturii i Boletus edulis-komplexet.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică de dimensiuni mari. Este indigenă în întreaga Europă, în America de Nord și în părți din Asia. A fost introdusă odată cu arbori plantați la Christchurch în Noua Zeelandă, în Adelaide Hills din Australia și în plantații de pin din Africa de Sud și Zimbabwe.',
+      cap: 'Pălăria are de obicei 5–30 cm lățime, uneori mai mare, fiind convexă în tinerețe și aplatizându-se odată cu vârsta. Este brun-roșiatică, adesea cu o margine mai palidă, și devine vâscoasă la umezeală. Un corp fructifer matur poate cântări în jur de 1 kg. Un exemplar găsit în Skye în 1995 a avut o pălărie de 42 cm lățime.',
+      hymenium: 'Tuburile au o adâncime de aproximativ 1–2 cm. Porii sunt mici, circa doi sau trei pe milimetru. Sunt albicioși și par înfundați la început, devenind apoi galbeni și ulterior galben-verzui până la bruni. Nu își schimbă culoarea la apăsare sau rănire.',
+      stipe: 'Piciorul are de obicei 6–25 cm înălțime și 2–7 cm grosime, fiind alb sau gălbui. Este adesea umflat la bază în tinerețe și devine mai cilindric ulterior. O rețea fină și reliefată acoperă partea superioară, uneori întregul picior. Carnea de la baza piciorului este uneori galben-închis.',
+      flesh: 'Carnea este albă, groasă și fermă în tinerețe, devenind oarecum spongioasă odată cu vârsta. Carnea tăiată sau lovită rămâne albă, prezentând o nuanță slabă rozacee sau brun-vinacee chiar sub cuticula pălăriei.',
+      sporePrint: 'Brun-măsliniu. Sporii sunt eliptici până la fusiformi, de circa 12–17 × 5–7 μm.',
+      habitat: 'Corpurile fructifere apar vara și toamna, solitare sau în grupuri de câte două ori trei. Crește în asociere cu arbori vii, printre care pinul, molidul, tsuga, bradul, fagul, stejarul și castanul, în păduri temperate reci și subtropicale.',
+      uses: 'Este o ciupercă de calitate gastronomică superioară (comestibil excelent), consumată proaspătă în sezon și mai ales uscată și apoi rehidratată, în supe, paste și risotto. Nu se cultivă în mod fiabil ca producție agricolă comercială.',
+      confusion: 'Speciile asemănătoare includ hribul amar (Tylopilus felleus), care are o rețea întunecată pe un picior palid și pori care devin rozalii, și buretele dracului (Rubroboletus satanas), care are un picior roșu și carne ce se albăstrește la atingere sau tăiere. Hribul arămiu (Boletus aereus), hribul de pin (Boletus pinophilus) și hribul de vară (Boletus reticulatus) sunt specii europene înrudite, menținute distincte de Boletus edulis. Studiile moleculare plasează denumiri precum Boletus betulicola, Boletus persoonii, Boletus quercicola și Boletus venturii în cadrul complexului Boletus edulis.'
+    },
+    bg: {
+      description: 'Едра ектомикоризна гъба. Среща се естествено в Европа, Северна Америка и части от Азия. Пренесена е със засадени дървета в Крайстчърч в Нова Зеландия, в хълмовете край Аделаида в Австралия и в борови плантации в Южна Африка и Зимбабве.',
+      cap: 'Гуглата обикновено е с диаметър 5–30 cm, понякога и по-голяма, изпъкнала в младост и разпростираща се с възрастта. Тя е червеникавокафява, често с по-блед ръб, и лепкава при влажно време. Зряло плодно тяло може да тежи около 1 kg. Образец от остров Скай от 1995 г. е имал гугла с диаметър 42 cm.',
+      hymenium: 'Тръбичките са дълбоки около 1–2 cm. Порите са малки, около две до три на милиметър. Те са белезникави и изглеждат запълнени при младите екземпляри, след което пожълтяват, а по-късно стават зеленикавожълти до кафяви. Не променят цвета си при натиск.',
+      stipe: 'Пънчето обикновено е високо 6–25 cm и дебело 2–7 cm, бяло или жълтеникаво. В основата често е луковично задебелено при младите гъби и по-цилиндрично по-късно. Фина изпъкнала мрежичка покрива горната част, а понякога и цялото пънче. Месото в основата понякога е тъмножълто.',
+      flesh: 'Месото е бяло, дебело и плътно в младост, като с възрастта става донякъде гъбесто. При разрез или натиск остава бяло, с едва забележим розов или виненокафяв оттенък непосредствено под кожицата на гуглата.',
+      sporePrint: 'Маслиненокафяв. Спорите са елипсовидни до вретеновидни, с размери около 12–17 × 5–7 μm.',
+      habitat: 'Плодните тела се появяват през лятото и есента, поединично или по две до три заедно. Расте в микориза с живи дървета, включително бор, смърч, хемлок, ела, бук, дъб и кестен, в хладноумерени и субтропични гори.',
+      uses: 'Отлична ядлива гъба, консумирана прясна през сезона и по-често сушена и след това накисната, в супи, паста и ризото. Не се отглежда като надеждна култивирана култура.',
+      confusion: 'Подобните видове включват жлъчната гъба (Tylopilus felleus), която има тъмна мрежица на бледо пънче и пори, които порозовяват, както и дяволската гъба (Rubroboletus satanas), която има червено пънче и месо, посиняващо при натиск. Бронзовата манатарка (Boletus aereus), боровата манатарка (Boletus pinophilus) и дъбовата манатарка (Boletus reticulatus) са сродни европейски видове, отделени от Boletus edulis. Молекулярни изследвания поставят имена като Boletus betulicola, Boletus persoonii, Boletus quercicola и Boletus venturii в комплекса Boletus edulis.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/corek-mantari-boletus-edulis/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/%C3%87%C3%B6rek_mantar%C4%B1"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -572,6 +622,35 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Karljohanssvamp'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Boletus_edulis'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/boletus-edulis'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%9E%D0%B1%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B0_%D0%BC%D0%B0%D0%BD%D0%B0%D1%82%D0%B0%D1%80%D0%BA%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -658,6 +737,7 @@ export const CATALOG = [
     fruitingFrom: 8,
     fruitingTo: 11,
     label: {
+      tr: "sinek mantarı",
       sl: "rdeča mušnica",
       hr: "crvena muhara",
       sr: "мухара",
@@ -675,7 +755,9 @@ export const CATALOG = [
       pt: 'amanita mata-moscas',
       da: 'rød fluesvamp',
       no: 'rød fluesopp',
-      sv: 'röd flugsvamp'
+      sv: 'röd flugsvamp',
+      ro: 'buretele muștelor',
+      bg: 'червена мухоморка'
     },
     names: {
       en: ["fly amanita", "red toadstool"],
@@ -683,9 +765,22 @@ export const CATALOG = [
     ,
       cs: ["mucholapka"],
       es: ['falsa oronja'],
-      pt: ['mata-moscas', 'rosalgar', 'agário-das-moscas']
+      pt: ['mata-moscas', 'rosalgar', 'agário-das-moscas'],
+      ro: ['muscăriță']
     },
     text: {
+      tr: {
+          "description": "Geniş yapraklı ve iğne yapraklı ormanlarda yetişen ektomikorizal bir mantardır. Britanya ve İrlanda, kıta Avrupası, Asya, Amerika Birleşik Devletleri ve Kanada dahil olmak üzere Kuzey Yarımküre genelinde yaygındır. Avustralya'ya (Tazmanya dahil) ve Yeni Zelanda'ya sonradan girmiştir.",
+          "cap": "Şapka olgunlukta 10–20 cm genişliğinde, kırmızı veya nadiren turuncudur. Gençken yarım küre biçimindedir ve genellikle düzleşir, bazen hafifçe içbükey hale gelir. Evrensel peçenin düzensiz beyaz parçaları şapka üzerinde yer alır ve yağışlı havalarda yıkanıp kaybolabilir.",
+          "hymenium": "Lameller beyaz, serbest ve sıktır. Meyve gövdesi olgunlaştıkça soluk sarıya döner.",
+          "stipe": "Sap 10–25 cm uzunluğunda ve 1–2 cm kalınlığında, beyaz olup oluklu, sarkık ve beyaz bir halkaya sahiptir. Taban kısmı şişkindir ve volvanın pullu halkalara ayrılan beyaz kalıntılarını taşır.",
+          "flesh": "Etli kısım beyazdır, şapka kütikulasının hemen altında altın sarısı bir tabaka bulunur. Belirgin bir kokusu yoktur.",
+          "habitat": "Meyve gövdeleri ağustos ayından kasım ayına kadar görülür. Sert odunlu geniş yapraklılar ve iğne yapraklılarla, özellikle huş, çam ve ladin ağaçlarıyla birlikte yetişir.",
+          "sporePrint": "Beyaz. Sporlar oval, yaklaşık 9–13 × 6,5–9 μm boyutlarındadır ve iyotta maviye dönmez.",
+          "uses": "Sinek mantarı zehirlidir. Müsimol ve ibotenik asit içerir; ölümcül zehirlenmeler ise son derece nadirdir. Bol suda kaynatılıp suyunun dökülmesi yalnızca tarihsel bir uygulamadır ve mantarı güvenli bir besin haline getirmez.",
+          "confusion": "İmparator mantarı (Amanita caesarea) çizgili kenarlı turuncu bir şapkaya ve sarı bir sapa sahiptir; Kuzey Avrupa'da son derece nadirdir veya hiç bulunmaz. Kızaran gelin mantarı (Amanita rubescens) koyu turuncu bir şapkaya sahip olabilir ve etli kısmı berelendiğinde kızarır. Ağulu kirmit mantarı (Russula emetica) parlak kırmızı bir şapkaya sahiptir ancak halkası ve volvası yoktur. Birçok araştırmacı kahverengi Amanita regalis türünü ayrı bir tür olarak değerlendirir.",
+          "notes": "Geleneksel olarak karasineklere karşı sinek öldürücü olarak kullanılmıştır."
+    },
       sl: {
           "description": "Ektomikorizna goba listnatih in iglastih gozdov. Pogosta je po vsej severni polobli, vključno z Britanskim otočjem, celinsko Evropo, Azijo ter Združenimi državami Amerike in Kanado. Zanesena je bila tudi v Avstralijo (vključno s Tasmanijo) in na Novo Zelandijo.",
           "cap": "Zrel klobuk ima premer 10–20 cm ter je živo rdeče do občasno oranžne barve. V mladosti je polkrožen, z zorenjem pa se splošči in ima včasih rahlo udrto osredje. Površino prekrivajo nepravilni beli ostanki ovojnice, ki jih dež lahko spere.",
@@ -889,9 +984,45 @@ export const CATALOG = [
       uses: 'Röd flugsvamp är giftig. Den innehåller muskimol och ibotensyra; dödsfall till följd av förgiftning är mycket sällsynta. Förvällning i rikligt med vatten där kokvattnet hälls bort är en rent historisk sedvänja och gör inte svampen säker att äta.',
       confusion: 'Kejsarflugsvamp (Amanita caesarea) har orange hatt med strimmig kant och gul fot, och är sällsynt eller saknas helt i norra Europa. Rodnande flugsvamp (Amanita rubescens) kan ha en mörkt orangebrun hatt, men köttet rodnar vid brytning eller skada. Giftkremla (Russula emetica) har lysande röd hatt, men saknar ring och strumpa. Många författare behandlar den bruna flugsvampen (Amanita regalis) som en separat art.',
       notes: 'Den användes förr i hushåll för att bekämpa flugor.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică din pădurile de foioase și conifere. Este frecventă în întreaga emisferă nordică, inclusiv în Marea Britanie și Irlanda, Europa continentală, Asia, Statele Unite și Canada. A fost introdusă în Australia (inclusiv Tasmania) și Noua Zeelandă.',
+      cap: 'Pălăria are 10–20 cm lățime la maturitate, fiind roșie sau ocazional portocalie. Este semisferică în tinerețe și de obicei se aplatizează, devenind uneori ușor concavă. Fragmente albe neregulate ale vălului universal se găsesc pe pălărie și pot fi spălate de ploi.',
+      hymenium: 'Lamelele sunt albe, libere și dese. Devin galben-palide pe măsură ce corpul fructifer se maturizează.',
+      stipe: 'Piciorul are 10–25 cm lungime și 1–2 cm grosime, este alb, prevăzut cu un inel alb, membranos, striat și atârnător. Baza este bulboasă și păstrează resturi albe ale volvei, dispuse în cercuri concentrice de solzi.',
+      flesh: 'Carnea este albă, cu un strat galben-auriu chiar sub cuticula pălăriei. Mirosul nu este distinctiv.',
+      sporePrint: 'Alb. Sporii sunt ovali, de circa 9–13 × 6,5–9 μm, și nu devin albaștri în reactivul iodat.',
+      habitat: 'Corpurile fructifere apar din august până în noiembrie. Crește în asociere cu foioase și conifere, în special mesteacăn, pin și molid.',
+      uses: 'Buretele muștelor este otrăvitor. Conține muscimol și acid ibotenic, însă intoxicațiile letale sunt extrem de rare. Fierberea în apă abundentă cu aruncarea apei este o simplă practică istorică și nu o transformă într-o ciupercă sigură pentru consum.',
+      confusion: 'Buretele domnesc (Amanita caesarea) are o pălărie portocalie cu marginea striată și un picior galben, fiind extrem de rară sau absentă în nordul Europei. Cucul (Amanita rubescens) poate avea o pălărie de un portocaliu închis, iar carnea sa se înroșește la lovire sau secțiune. Vinețica focului (Russula emetica) are o pălărie de un roșu aprins, dar este lipsită de inel și volvă. Mulți autori consideră specia brună Amanita regalis drept o specie separată.',
+      notes: 'A fost folosită în mod tradițional împotriva muștelor.'
+    },
+    bg: {
+      description: 'Ектомикоризна гъба в широколистни и иглолистни гори. Често срещана в цялото Северно полукълбо, включително на Британските острови, в континентална Европа, Азия, САЩ и Канада. Пренесена е и в Австралия (включително Тасмания) и Нова Зеландия.',
+      cap: 'Гуглата достига 10–20 cm в диаметър в зрялост, яркочервена или понякога оранжева. Тя е полукълбовидна в младост и обикновено се изравнява с възрастта, понякога с леко вдлъбнат център. Повърхността е посипана с неправилни бели парченца от остатъци от общото покривало, които дъждът може да отмие.',
+      hymenium: 'Ламелите са бели, свободни и гъсти. С узряването на плодното тяло придобиват бледожълт оттенък.',
+      stipe: 'Пънчето е с дължина 10–25 cm и дебелина 1–2 cm, бяло, с набраздено висящо бяло пръстенче. Основата е луковично задебелена и заобиколена от концентрични редове от бели остатъци от покривалото.',
+      flesh: 'Месото е бяло, със златистожълт пласт непосредствено под кожицата на гуглата. Миризмата не е характерна.',
+      sporePrint: 'Бял. Спорите са овални, около 9–13 × 6,5–9 μm, и не посиняват в йоден разтвор.',
+      habitat: 'Плодните тела се появяват от август до ноември. Расте в съобщество с широколистни и иглолистни дървета, особено с бреза, бор и смърч.',
+      uses: 'Отровна гъба. Съдържа мусцимол и иботенова киселина; смъртните отравяния са изключително редки. Варенето в обилно количество вода с изхвърляне на отварата е само историческа практика и не я прави безопасна за консумация.',
+      confusion: 'Булката (Amanita caesarea) има оранжева гугла с набразден ръб и жълто пънче, но се отличава по жълтите ламели и свободната бяла волва. Бисерната гъба (Amanita rubescens) може да има тъмно оранжевокафява гугла, но месото ѝ порозовява при нараняване. Бясната гъба (Russula emetica) има яркочервена гугла, но няма пръстенче и волва. Кралската мухоморка (Amanita regalis) се разглежда от много автори като самостоятелен вид.',
+      notes: 'В миналото се е използвала за примамване и унищожаване на мухи.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/sinek-mantari-amanita-muscaria/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Sinek_mantar%C4%B1"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -1144,6 +1275,30 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/R%C3%B6d_flugsvamp'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Amanita_muscaria'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/amanita-muscaria'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%B2%D0%B5%D0%BD%D0%B0_%D0%BC%D1%83%D1%85%D0%BE%D0%BC%D0%BE%D1%80%D0%BA%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -1226,6 +1381,7 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 11,
     label: {
+      tr: "sarı kız mantarı",
       sl: "navadna lisička",
       hr: "lisičarka",
       sr: "лисичарка",
@@ -1243,7 +1399,9 @@ export const CATALOG = [
       pt: 'crista-de-galo',
       da: 'almindelig kantarel',
       no: 'kantarell',
-      sv: 'kantarell'
+      sv: 'kantarell',
+      ro: 'gălbior',
+      bg: 'пачи крак'
     },
     names: {
       en: ["girolle"],
@@ -1274,9 +1432,23 @@ export const CATALOG = [
       cs: ["kuřátko","lištice"],
       es: ['chantarela', 'cabrilla'],
       nl: ['Dooierzwam'],
-      pt: ['rapazinhos', 'canário']
+      pt: ['rapazinhos', 'canário'],
+      ro: ['burete galben', 'gălbenel'],
+      bg: ['обикновен пачи крак']
     },
     text: {
+      tr: {
+          "description": "Ektomikorizal bir mantardır. İskandinavya'dan Akdeniz'e kadar tüm Avrupa'da yerli olup Britanya ve İrlanda'da sık rastlanan ancak yerel kalan bir türdür. Dar anlamda Avrupa'ya özgüdür. Daha önce bu ad altında sınıflandırılan Kuzey Amerika örnekleri başka türlere aittir.",
+          "cap": "Şapka 10 cm genişliğe kadar ulaşabilir ve genellikle huni biçimindedir; kenarları dalgalı ve düzensizdir. Rengi parlak sarıdan soluk sarımsı beyaz veya krem tonlarına kadar değişebilir.",
+          "hymenium": "Alt yüzey gerçek lameller yerine kıvrımlar taşır. Kalın ve kırışık damarlar sapa doğru belirgin şekilde sarkar ve genellikle çatallanır ya da birbirine bağlanır. Bu kıvrımlar şapkayla aynı renktedir.",
+          "stipe": "Sap şapkayla aynı renkte veya biraz daha soluktur, dolgundur ve tabana doğru daralır.",
+          "flesh": "Etli kısım beyazdır. Hafif kayısı kokuludur. Pişmemiş etin tadı hafif acımsı ve biberlidir.",
+          "habitat": "Meyve gövdeleri haziran ayından ekim ayına kadar, ılıman sonbaharlarda ise kasım ayına kadar görülür. Huş, kayın, meşe ve çam gibi ağaçlarla birlikte yosunlu, asidik zeminlerde yetişir.",
+          "sporePrint": "Soluk sarıdan kremsi beyaza kadar, bazen hafif pembemsi bir tondadır. Sporlar eliptik, pürüzsüz ve yaklaşık 8–11 × 4,5–6 μm boyutlarındadır.",
+          "uses": "Seçkin yemeklik bir mantardır. Pişirildiğinde meyvemsi, kayısıyı andıran hoş bir aromaya ve sağlam bir dokuya kavuşur; çorbalarda, soslarda ve tereyağında sote edilerek tüketilir.",
+          "confusion": "Yalancı kazayağı (Hygrophoropsis aurantiaca) daha parlak turuncudur, gerçek ve sık çatallanan lamellere sahiptir ve kütükler veya orman döküntüleri üzerinde yetişir. Zehirli zeytin mantarı (Omphalotus olearius) koyu sarı veya turuncudur, yaprak döken ağaçların kütüklerinde kümeler halinde büyür ve gerçek lamellere sahiptir.",
+          "notes": "Cantharellus pallens ayrı bir tür olarak kabul edilmektedir."
+    },
       sl: {
           "description": "Ektomikorizna goba. Samonikla je v Evropi od Skandinavije do Sredozemlja, na Britanskem otočju pa je pogosta, a neenakomerno razširjena. V ožjem smislu je to evropska vrsta. Severnoameriške lisičke, ki so jih nekoč uvrščali pod to ime, danes pripadajo drugim vrstam.",
           "cap": "Klobuk ima premer do 10 cm in je običajno lijakaste oblike, z valovitim in nepravilnim robom. Barva sega od svetlo rumene do globoko rumenjakasto rumene. Včasih ga prekriva nežen belkast poprh.",
@@ -1477,9 +1649,44 @@ export const CATALOG = [
       habitat: 'Fruktkroppar växer från försommaren till senhösten på marken bland löv eller mossa. Den bildar mykorrhiza med löv- och barrträd, inklusive bok, ek, björk, tall och gran, gärna på sur, näringsfattig sandjord.',
       uses: 'En mycket uppskattad och eftertraktad läcker matsvamp. Den steks ofta i smör, används i såser, stuvningar, soppor och på smörgåsar, eller konserveras genom torkning, förvällning eller infrysning.',
       confusion: 'Narrkantarell (Hygrophoropsis aurantiaca) har äkta, tunna, tätt sittande orange skivor och mjukare kött; den är oätlig eller av lågt matvärde. Lysande trattskivling (Omphalotus olearius) är en giftig trälevande art i södra Europa med bioluminescens och äkta skivor.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică. Este indigenă în Europa din Scandinavia până în bazinul mediteranean; este frecventă, dar cu o răspândire neregulată în Marea Britanie și Irlanda. În sens strict este o specie europeană. Gălbiorii din America de Nord, încadrați cândva sub acest nume, aparțin acum altor specii.',
+      cap: 'Pălăria are până la 10 cm lățime și este de obicei în formă de pâlnie, cu o margine ondulată și neregulată. Culoarea variază de la galben-deschis până la galben-gălbenuș profund. O brumă albicioasă fină o acoperă uneori.',
+      hymenium: 'Partea inferioară poartă pliuri decurente și bifurcate, mai degrabă decât lamele adevărate. Pliurile groase și încrețite coboară pe picior, fiind de aceeași culoare cu pălăria sau ceva mai deschise.',
+      stipe: 'Piciorul are aceeași culoare ca pălăria sau este ceva mai palid, plin și cărnos, adesea îngustându-se spre bază.',
+      flesh: 'Carnea este albă. Mirosul amintește slab de caise. Gustul corpului fructifer crud este ușor piperat.',
+      sporePrint: 'Galben-palid până la ocru-crem. Sporii sunt elipsoidali, de circa 8–11 × 4,5–6 μm.',
+      habitat: 'Corpurile fructifere apar din iunie până în octombrie, prelungindu-se în noiembrie într-o toamnă blândă. Crește pe sol acid cu fagi, stejari, mesteceni, pini și molizi, adesea ascunsă printre frunze căzute sau mușchi.',
+      uses: 'Gălbiorul este o ciupercă comestibilă excelentă (comestibil excelent). Corpurile fructifere gătite au o aromă fructată și o textură fermă. Nu se recomandă uscarea, care le face aspre și fibroase.',
+      confusion: 'Gălbiorul fals (Hygrophoropsis aurantiaca) este de un portocaliu mai strălucitor, cu lamele adevărate, dese și înguste ce coboară pe picior, și crește adesea pe lemn putred sau pe sol conifer. Buricul de aur (Omphalotus olearius) este o ciupercă toxică mediteraneană cu lamele adevărate, care crește în tufe pe lemn de foioase. Gomphus clavatus are o formă de pâlnie mai neregulată și nuanțe purpurii spre violet.'
+    },
+    bg: {
+      description: 'Ектомикоризна гъба. Среща се естествено в Европа от Скандинавия до Средиземноморието, широко разпространена, макар че на места числеността ѝ намалява. Подобни форми в Северна Америка, Азия и Африка се отнасят към други видове от същия род.',
+      cap: 'Гуглата достига до 10 cm в диаметър и обикновено е фуниевидна, с вълнообразен неправилен ръб. Цветът варира от светложълт до наситен яйченожълт. Повърхността е гладка и суха.',
+      hymenium: 'Долната повърхност носи разклонени надлъжни жилки (лъжливи ламели), а не същински ламели. Дебели набръчкани гънки се спускат ниско по пънчето, разклоняват се дихотомично и се свързват напречно помежду си. Те са със същия цвят като гуглата.',
+      stipe: 'Пънчето е оцветено като гуглата или малко по-бледо, плътно и изтъняващо към основата, с височина 3–8 cm и дебелина 0,5–1,5 cm. То плавно преминава в гуглата без рязка граница.',
+      flesh: 'Месото е бяло. Миризмата слабо напомня на кайсии. Вкусът на суровото месо не е изразен, но след кратко сдъвкване се усеща пикантна, леко лютива жилка.',
+      sporePrint: 'Светложълт до кремавобял, понякога със слаб розов оттенък. Спорите са елипсовидни и гладки, около 8–11 × 4,5–6 μm.',
+      habitat: 'Плодните тела се появяват от юни до октомври, а при мека есен и през ноември. Расте най-често в мъхове или горска постеля под бук, дъб, бор и смърч, на кисели бедни почви.',
+      uses: 'Отлична ядлива гъба. Сготвените плодни тела имат плодов аромат с нотка на кайсия. Плътното месо изисква по-дълга топлинна обработка от повечето ядливи видове.',
+      confusion: 'Лъжливият пачи крак (Hygrophoropsis aurantiaca) е с по-ярко оранжев цвят, има гъсти същински ламели и расте върху разлагаща се дървесина или иглички. Горчивата миризливка (Omphalotus olearius) е отровен средиземноморски вид с истински низбягващи ламели, растящ на туфи върху широколистна дървесина.',
+      notes: 'Видът Cantharellus pallens се разглежда като отделен таксон с по-бледожълта или белезникава гугла.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/sarikiz-mantari-cantharellus-cibarius/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Cantharellus_cibarius"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -1752,6 +1959,35 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Kantarell'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Cantharellus_cibarius'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/cantharellus-cibarius'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%9F%D0%B0%D1%87%D0%B8_%D0%BA%D1%80%D0%B0%D0%BA'
+        }
       ]
     },
     synonyms: [
@@ -1848,6 +2084,7 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 10,
     label: {
+      tr: "yaz çörek mantarı",
       sl: "poletni goban",
       hr: "raspucani vrganj",
       sr: "испуцали вргањ",
@@ -1865,7 +2102,9 @@ export const CATALOG = [
       pt: 'boleto-da-primavera',
       da: 'sommer-rørhat',
       no: 'bleklodden steinsopp',
-      sv: 'finluden stensopp'
+      sv: 'finluden stensopp',
+      ro: 'hrib de vară',
+      bg: 'дъбова манатарка'
     },
     names: {
       en: ["summer cep"],
@@ -1875,9 +2114,22 @@ export const CATALOG = [
       es: ['boleto estival', 'boleto reticulado'],
       nl: ['Zomereekhoorntjesbrood'],
       pt: ['tortulho'],
-      sv: ['sämsksopp']
+      sv: ['sämsksopp'],
+      bg: ['мрежеста манатарка', 'лятна манатарка']
     },
     text: {
+      tr: {
+          "description": "Ektomikorizal bir mantardır. Avrupa genelinde Akdeniz, ılıman ve hemiboreal ormanlarda yaygın bir bolet türüdür. Britanya ve İrlanda'da nadir görülürken Güney Avrupa'da daha sıktır. Kuzey Amerika ve Japonya'dan bu ad altında yapılan eski kayıtlar başka türlere aittir; Güney Afrika'daki dikili çam ormanlarında kaydedilen örneğin ise taşınmış olduğu düşünülmektedir.",
+          "cap": "Şapka genellikle 10–20 cm genişliğindedir (küçük örneklerde ortalama 7–12 cm). Başlangıçta yarım küre şeklindedir ve daha sonra dışbükeyleşir. Soluk kahverengiden kestane veya gri-kahverengine kadar değişir ve genellikle kadifemsidir. Kuru havalarda kütikula sıklıkla çatlar ve altındaki beyaz eti ortaya çıkaran bir ağ dokusu oluşturur.",
+          "hymenium": "Borucuklar ve küçük gözenekler gençken beyazdır, yaşlandıkça yeşilimsi sarıya döner. Ezildiğinde lekelenmez veya renk değiştirmez.",
+          "stipe": "Sap 8–18 cm uzunluğunda ve 2,5–6 cm kalınlığında olup genellikle fıçı biçimlidir ve yaşla birlikte daha silindirik hale gelir. Açık kahverengi veya devetüyü zemin üzerinde belirgin, kabartılı ve açık renkli bir ağ deseni tabana kadar uzanır.",
+          "flesh": "Etli kısım beyazdır. Kesilen et beyaz kalır ve yaşlandıkça hafifçe sararır. Hoş bir kokuya ve tatlımsı, fındıksı bir tada sahiptir.",
+          "habitat": "Meyve gövdeleri Britanya ve İrlanda'da haziran ayından ekim ayına kadar, kıta Avrupası genelinde ise mayıs ayından itibaren görülür. Geniş yapraklı ormanlarda ve parklarda kayın, meşe ve kestane ile birlikte, bazen de ıhlamur altında yetişir.",
+          "sporePrint": "Zeytin kahverengisi (zeytinsi tütün kahvesi). Sporlar mekiksi ve pürüzsüz olup yaklaşık 13–15 × 4–5,5 μm boyutlarındadır.",
+          "uses": "Seçkin yemeklik bir mantardır; Boletus edulis kadar lezzetlidir ve aynı tariflerde kullanılır. Taze olarak kızartılabilir veya kurutularak saklanabilir.",
+          "confusion": "Çörek mantarı (Boletus edulis) daha soluk bir sapa, beyaz bir ağ desenine, beyazımsı kenarlı kahverengi bir şapkaya ve nemli havalarda yapışkan bir yüzeye sahiptir. Pestifal mantarı (Tylopilus felleus) aşırı acı bir tada, koyu renkli bir ağ desenine ve olgunlaştığında pembemsi olan gözeneklere sahiptir.",
+          "notes": "Doğuya doğru Primorsky Krayı'na kadar kaydedilmiştir. 2019 yılındaki bir değerlendirmede Asgari Endişe (Least Concern) kategorisinde sınıflandırılmıştır."
+    },
       sl: {
           "description": "Ektomikorizna goba toploljubnih gozdov. Samonikla je v Evropi ter sega proti vzhodu do Primorskega okraja v Rusiji. Pojavlja se zlasti v nižinskih in gričevnatih gozdovih v toplejših mesecih.",
           "cap": "Klobuk ima premer 6–20 cm, včasih več, sprva je polkrožen, kasneje se izboči in zravna. Barva je bledo do temno rjava, sivorjava ali lešnikovo rjava. Površina je žametasta in v suhem vremenu pogosto značilno razpoka v drobna polja.",
@@ -2079,9 +2331,44 @@ export const CATALOG = [
       habitat: 'Fruktkroppar bildas från maj till september. Den växer i symbios med ädla lövträd, särskilt ek, bok, avenbok och lind, främst i varmare lövskogar och parker.',
       uses: 'En läcker matsvamp av högsta kvalitet, på samma kulinariska nivå som stensopp. Den steks färsk, torkas eller tillagas i soppor och svamprätter.',
       confusion: 'Stensopp (Boletus edulis) har slätare, fetare eller klibbig hatthud, ett ådernät som främst begränsas till fotens övre del, och växer även med barrträd. Gallsopp (Tylopilus felleus) har ett grovt, mörkbrunt ådernät, porer som blir rosa och extremt bitter smak.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică. Este un hrib comun în pădurile mediteraneene, temperate și boreale din Europa, ajungând la nord până în sudul Scandinaviei. Este prezent și în nordul Africii.',
+      cap: 'Pălăria are de obicei 10–20 cm lățime (o medie de 7–12 cm la exemplarele mai mici, ajungând ocazional la 40 cm). Pălăria este mai întâi semisferică și apoi convexă, adesea crăpându-se într-o rețea de fisuri fine în verile secetoase. Cuticula este fin catifelată și mată, de culoare brun-cenușie până la brun-deschis sau ocru.',
+      hymenium: 'Tuburile și porii mici sunt albi în tinerețe, devenind galben-verzui și ulterior măslinii odată cu vârsta. Nu se pătează la apăsare sau tăiere.',
+      stipe: 'Piciorul are 8–18 cm lungime și 2,5–6 cm grosime, fiind adesea în formă de butoiaș sau îngroșat la bază, apoi mai cilindric. O rețea reliefată, de culoare brun-deschisă sau albicioasă, acoperă piciorul de la vârf până la bază.',
+      flesh: 'Carnea este albă. Carnea tăiată rămâne albă și se îngălbenește ușor la maturitate. Mirosul și gustul sunt foarte plăcute, dulci și de ciupercă proaspătă.',
+      sporePrint: 'Brun-măsliniu. Sporii sunt alungiți până la fusiformi, de 12–16 × 4,5–5,5 μm.',
+      habitat: 'Corpurile fructifere apar din iunie până în octombrie în Marea Britanie și Irlanda, adesea mai devreme decât cele ale lui Boletus edulis. Crește în asociere ectomicorizică cu arbori de foioase, mai ales stejar, fag, carpen și castan comestibil.',
+      uses: 'Este o specie comestibilă excelentă (comestibil excelent), de aceeași valoare ca Boletus edulis și utilizată în aceleași preparate culinare.',
+      confusion: 'Hribul (Boletus edulis) are un picior mai palid, o rețea predominant albă și o pălărie brună cu o cuticulă netedă și adesea unsuroasă. Hribul de pin (Boletus pinophilus) are o pălărie brun-roșiatică mai închisă și crește de regulă cu conifere. Hribul arămiu (Boletus aereus) are o pălărie mult mai închisă la culoare, aproape neagră sau de bronz închis.'
+    },
+    bg: {
+      description: 'Ектомикоризна гъба. Често срещана манатарка в средиземноморските, умерените и хемибориалните гори на Европа, разпространена на изток до Южен Урал и Кавказ.',
+      cap: 'Гуглата обикновено е с диаметър 10–20 cm (средно 7–12 cm при по-дребни екземпляри), светложълтеникавокафява до сивокафява или тютюневокафява. Кожицата е суха, фино кадифена, а при сухо време често се напуква на мрежа от малки пукнатини.',
+      hymenium: 'Тръбичките и малките пори са бели в младост, като с възрастта стават зеленикавожълти. Не променят цвета си при нараняване.',
+      stipe: 'Пънчето е с дължина 8–18 cm и дебелина 2,5–6 cm, по-често буревидно и само понякога бухалковидно. То е бледосивокафяво или светлоохрено, покрито по цялата си дължина с релефна белезникава до кафеникава мрежичка.',
+      flesh: 'Месото е бяло. При разрез остава бяло и леко пожълтява с възрастта. То е по-малко плътно от месото на обикновената манатарка, особено в пънчето.',
+      sporePrint: 'Маслиненокафяв. Спорите са вретеновидни и гладки, около 13–15 × 4,5–5,5 μm.',
+      habitat: 'Плодните тела се появяват от май до октомври, често още в началото на лятото. Расте в широколистни и смесени гори в микориза с дъб, бук, кестен и габър.',
+      uses: 'Отлична ядлива гъба, с качества, сравними с тези на обикновената манатарка, и използвана в същите кулинарни рецепти.',
+      confusion: 'Обикновената манатарка (Boletus edulis) има по-гладка, лепкава при влага гугла със светъл ръб и мрежичка предимно в горната част на пънчето. Жлъчната гъба (Tylopilus felleus) се отличава с тъмна изпъкнала мрежица и пори, които порозовяват с възрастта. Бронзовата манатарка (Boletus aereus) има значително по-тъмна, почти черна до шоколадовокафява гугла.',
+      notes: 'Оценка от 2019 г. го определя като незастрашен (Least Concern) със стабилна популация.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/yaz-corek-mantari-boletus-reticulatus/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/%C3%87%C3%B6rek_mantar%C4%B1"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -2334,6 +2621,35 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Finluden_stensopp'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Boletus_aestivalis'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/boletus-reticulatus'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%94%D1%8A%D0%B1%D0%BE%D0%B2%D0%B0_%D0%BC%D0%B0%D0%BD%D0%B0%D1%82%D0%B0%D1%80%D0%BA%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -2422,6 +2738,7 @@ export const CATALOG = [
     fruitingFrom: 7,
     fruitingTo: 11,
     label: {
+      tr: "şemsiye mantarı",
       sl: "orjaški dežnik",
       hr: "velika sunčanica",
       sr: "сунчаница",
@@ -2439,7 +2756,9 @@ export const CATALOG = [
       pt: 'frade',
       da: 'stor kæmpeparasolhat',
       no: 'stor parasollsopp',
-      sv: 'stolt fjällskivling'
+      sv: 'stolt fjällskivling',
+      ro: 'parasol',
+      bg: 'сърнела'
     },
     names: {
       en: ["parasol mushroom"],
@@ -2483,9 +2802,23 @@ export const CATALOG = [
     ,
       cs: ["bedla jedlá","parazol"],
       es: ['apagador', 'galamperna'],
-      pt: ['púcara', 'marifusa', 'chapéu-de-sol', 'parasol']
+      pt: ['púcara', 'marifusa', 'chapéu-de-sol', 'parasol'],
+      ro: ['burete șerpesc', 'pălăria șarpelui'],
+      bg: ['вретенка', 'кукумарка', 'самодивска гъба']
     },
     text: {
+      tr: {
+          "description": "Saprofit (saprotrof) bir mantardır. Güney Britanya ve İrlanda'da sık görülür, korunaklı kıyılar hariç kuzey İngiltere ve İskoçya'da daha az yaygındır. Ayrıca kıta Avrupası'nın çoğunda ve ılıman Avrasya boyunca yetişir. Kuzey Amerika kayıtları henüz doğrulanmamıştır.",
+          "cap": "Şapka 10–25 cm genişliğinde olup nadiren 30 cm'ye ulaşabilir. Gençken küre biçiminde başlar, ardından çan şeklini alır ve merkezinde belirgin koyu kahverengi bir tümsek (umbo) bırakarak düzleşir. Yüzeyi soluk zemin üzerinde konsantrik olarak dizilmiş iri, koyu kahverengi pullarla kaplıdır.",
+          "hymenium": "Lameller geniş, sık ve serbesttir; sapa varmadan bir miktar mesafe önce sonlanır. Başlangıçta beyazdır, zamanla krem rengine döner ve ezildiğinde lekelenmez.",
+          "stipe": "Sap 30 cm boya ve 1–1,5 cm kalınlığa ulaşabilir; tabandaki soğan kısmı 2,5 cm genişliğe kadar varır. İçi boştur ve açık renkli zemin üzerinde yılan derisini andıran kahverengi zikzak desenler taşır. Sap üzerinde serbestçe yukarı aşağı kaydırılabilen kalın, çift katlı, saçaklı ve beyazımsı kahverengi bir halka bulunur.",
+          "flesh": "Etli kısım beyazdır ve kesildiğinde belirgin bir renk değişimi göstermez. Şapkada yumuşak, sapta ise lifli ve serttir. Hoş, fındıksı bir kokuya ve ceviz benzeri bir tada sahiptir.",
+          "habitat": "Meyve gövdeleri Britanya ve İrlanda'da haziran ayından kasım ayına kadar, güney Avrupa'da ise daha geç dönemlerde görülür. Çayırlarda, otlaklarda, meralarda, açıklık ormanlarda ve orman kenarlarında tek tek ya da peri halkaları halinde yetişir.",
+          "sporePrint": "Beyaz veya çok soluk krem. Sporlar elipsoid ile ovoid biçiminde, pürüzsüz ve yaklaşık 15–20 × 10–13 μm boyutlarındadır; belirgin bir çimlenme deliği taşır ve dekstrinoiddir.",
+          "uses": "Seçkin yemeklik bir mantardır ve meyve gövdeleri pişirilerek tüketilmelidir. Şapkaları ızgarada, tereyağında sote edilerek veya pane şeklinde pişirilir; sert ve lifli olan sap kısımları ise genellikle kurutulup toz haline getirilerek çorbalarda tatlandırıcı olarak kullanılır.",
+          "confusion": "Kızaran şemsiye mantarı (Chlorophyllum rhacodes) daha küçüktür, belirgin şekilde kıvrık iri pullara, desensiz düz bir sapa ve kesildiğinde veya ezildiğinde turuncudan kırmızımsı kahverengine dönen bir ete sahiptir. Zehirli Chlorophyllum molybdites yeşilimsi bir spor izine sahiptir ve Kuzey Amerika ile subtropikal bölgelerde bulunur. Ölümcül derecede zehirli olan Lepiota türleri çok daha küçüktür (genellikle şapka çapı 10 cm'nin oldukça altındadır) ve asla bu boyutlara ulaşmaz.",
+          "notes": "Var. procera ve var. pseudo-olivascens olmak üzere iki varyetesi tanınmaktadır. İkinci varyete berelendiğinde zeytin yeşili tonlar geliştirir."
+    },
       sl: {
           "description": "Zelo velika saprotrofna goba z značilnim visokim stasom. Razširjena je v zmernem pasu Evrazije, navedbe iz Severne Amerike pa še zahtevajo potrditev.",
           "cap": "Klobuk meri v premeru 10–30 cm ali več. Sprva je jajčast do kroglast, nato se odpre v obliki širokega zvona in postane ploščat z izrazito osrednjo temnorjavo grbo. Površina je pokrita z velikimi, rjavimi, koncentrično razporejenimi luskami na svetlejši podlagi.",
@@ -2686,9 +3019,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar påträffas från juli till oktober. Den växer saprotroft i gräsmarker, betesbackar, skogsbryn, gläntor och längs vägrenar.',
       uses: 'En läcker matsvamp med utmärkt smak. Endast hatten används eftersom foten är för seg och träig. Hatten paneras och steks ofta hel som en vegetarisk schnitzel.',
       confusion: 'Rodnande fjällskivling (Chlorophyllum rhacodes) har kött som snabbt rodnar vid snitt eller skada och saknar fotens vattrade zickzackmönster. Den giftiga grönsporig fjällskivling (Chlorophyllum molybdites) har grönt sporavtryck och är en subtropisk art.'
+    },
+    ro: {
+      description: 'Ciupercă saprotrofă. Este frecventă în sudul Marii Britanii și al Irlandei și mai rară spre nord, fiind larg răspândită pe întreg teritoriul Europei, precum și în alte regiuni temperate ale lumii.',
+      cap: 'Pălăria are 10–25 cm lățime, atingând ocazional 30 cm. Debutează sferică sau ovoidală, amintind de o măciucă de tobă, apoi se deschide ca o umbrelă largă cu un mamelon central proeminent. Cuticula se rupe în solzi bruni mari și neregulați pe un fond fibros albicios.',
+      hymenium: 'Lamelele sunt late, dese și libere, oprindu-se la distanță de picior în jurul unui guler cartilaginos. Sunt albe sau crem, căpătând o tentă slab brunie la bătrânețe.',
+      stipe: 'Piciorul atinge până la 30 cm înălțime (uneori 40 cm) și 1–1,5 cm grosime, lărgindu-se până la 2,5 cm la baza bulboasă. Prezintă solzișori bruni dispuși în benzi transversale șerpuite pe un fond palid. Inelul este dublu, gros, membranos și mobil pe picior.',
+      flesh: 'Carnea este albă și nu își schimbă culoarea semnificativ la tăiere. În pălărie este fragedă și moale, iar în picior este fibroasă și tare. Are un miros plăcut și o aromă discretă de alune.',
+      sporePrint: 'Alb. Sporii sunt elipsoidali, netezi, de circa 12–18 × 8,5–11 μm.',
+      habitat: 'Corpurile fructifere apar din iunie până în noiembrie în Marea Britanie și Irlanda, crescând solitare sau în pâlcuri pe pășuni, poieni, liziere și margini de drum înierbate.',
+      uses: 'Este o specie comestibilă excelentă (comestibil excelent), iar corpurile fructifere trebuie bine gătite. Pălăriile sunt delicioase pane sau fripte, în timp ce picioarele lemnoase sunt prea tari și pot fi uscate și măcinate ca pudră aromatizantă.',
+      confusion: 'Buretele șerpesc șofrăniu (Chlorophyllum rhacodes) este mai mic, cu solzi mai mari și mai groși pe pălărie, picior neted lipsit de model șerpuit și carnea care devine roșiatică sau portocalie la secțiune. Chlorophyllum molybdites, o specie toxică comună în America de Nord și subtropicală, are o amprentă sporală verzuie.'
+    },
+    bg: {
+      description: 'Сапротрофна гъба. Широко разпространена в умерените райони, срещаща се по горски поляни, пасища и край пътища в цяла Европа.',
+      cap: 'Гуглата е с диаметър 10–25 cm, понякога достигаща 30 cm. В началото е сферична до яйцевидна, а по-късно се разтваря до звънчевидна и почти плоска с изпъкнало централно кафяво връхче. Кожицата се разкъсва на концентрични кафяви люспи върху белезникав влакнест фон.',
+      hymenium: 'Ламелите са широки, гъсти, свободни от пънчето, бели до бледокремави.',
+      stipe: 'Пънчето е високо до 30–40 cm и дебело 1–2 cm, в основата луковично задебелено до 3–4 cm. Повърхността му е покрита с характерни кафяви напречни люспести ивици (шарка на змийска кожа). Носи голям подвижен двуслоен пръстен с парцалив ръб.',
+      flesh: 'Месото е бяло, меко и сухо в гуглата, а в пънчето влакнесто и жилаво. Не променя цвета си при нараняване. Има приятен орехов вкус и миризма.',
+      sporePrint: 'Бял. Спорите са елипсовидни, гладки, с размери около 15–20 × 10–13 μm, декстриноидни.',
+      habitat: 'Плодните тела се появяват от юли до ноември, най-често в края на лятото и есента. Расте на светли места в широколистни и иглолистни гори, сечища, пасища и ливади.',
+      uses: 'Отлична ядлива гъба. Обикновено се панира или пържи цялата гугла; жилавото пънче се отстранява или суши и смила на прах за подправка.',
+      confusion: 'Лъжливата сърнела (Chlorophyllum rhacodes) има люспеста гугла, но месото ѝ става оранжево-червено при разрез. Отровната Chlorophyllum venenatum също почервенява при нараняване. Дребните отровни видове от род Lepiota (сърнелки) достигат едва няколко сантиметра в диаметър и никога нямат подвижен пръстен.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/semsiye-mantari-macrolepiota-procera/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Macrolepiota_procera"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -2941,6 +3308,35 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Stolt_fj%C3%A4llskivling'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Macrolepiota_procera'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/macrolepiota-procera'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%A1%D1%8A%D1%80%D0%BD%D0%B5%D0%BB%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -3033,6 +3429,7 @@ export const CATALOG = [
     fruitingFrom: 7,
     fruitingTo: 11,
     label: {
+      tr: "köygöçüren mantarı",
       sl: "zelena mušnica",
       hr: "zelena pupavka",
       sr: "зелена пупавка",
@@ -3050,7 +3447,9 @@ export const CATALOG = [
       pt: 'chapéu-da-morte',
       da: 'grøn fluesvamp',
       no: 'grønn fluesopp',
-      sv: 'lömsk flugsvamp'
+      sv: 'lömsk flugsvamp',
+      ro: 'buretele viperei',
+      bg: 'зелена мухоморка'
     },
     names: {
       en: ["deathcap", "death cup", "deadly amanita"],
@@ -3067,9 +3466,22 @@ export const CATALOG = [
     ,
       cs: ["hlízová muchomůrka"],
       es: ['oronja verde', 'faloidina'],
-      pt: ['cicuta-verde', 'rebenta-bois']
+      pt: ['cicuta-verde', 'rebenta-bois'],
+      bg: ['пакостница']
     },
     text: {
+      tr: {
+          "description": "Ölümcül zehirli ve ektomikorizal bir mantardır. Avrupa genelinde meşe, kayın ve kestane ağaçlarının altında doğal olarak yayılış gösterir. Kuzey Amerika'ya, Avustralya'ya, Yeni Zelanda'ya ve Güney Amerika'ya dikilen ağaçlarla birlikte taşınmış ve buralarda yerleşmiştir.",
+          "cap": "Şapka 5–15 cm genişliğinde olup gençken yarım küre biçimlidir ve zamanla düzleşir. Rengi sarımsı yeşil, zeytin yeşili veya tunç yeşilidir, genellikle merkezde daha koyudur ve bazen neredeyse beyaz olabilir. Yüzeyi nemli havalarda hafifçe yapışkandır ve genellikle peçe kalıntısı barındırmaz.",
+          "hymenium": "Lameller beyaz, serbest, sık ve saptan ayrıdır. Mantar kurusa veya yaşlansa dahi beyaz rengini korur.",
+          "stipe": "Sap 8–15 cm uzunluğunda ve 1–2 cm kalınlığında, beyaz veya çok soluk yeşilimsi olup genellikle zikzak veya hare desenleri taşır. Üst kısımda sarkık, zar yapısında ve beyaz bir halka bulunur. Sapın tabanı, büyük ve beyaz bir çanak biçiminde belirgin bir volva ile çevrilidir.",
+          "flesh": "Etli kısım beyazdır ve derinin altında hafifçe yeşilimsi olabilir; kesildiğinde renk değiştirmez. Gençken kokusu hafif ve hoşken, yaşlandıkça bayıltıcı, tatlımsı ve mide bulandırıcı bir kokuya dönüşür.",
+          "habitat": "Meyve gövdeleri yaz sonundan sonbahar sonlarına kadar görülür. Özellikle meşe, kayın, kestane ve fındık gibi geniş yapraklı ağaçların altında, bazen de iğne yapraklılar arasında yetişir.",
+          "sporePrint": "Beyaz. Sporlar küremsi ile oval biçiminde, pürüzsüz, yaklaşık 8–11 × 7–9 μm boyutlarındadır ve amiloid reaksiyon verir.",
+          "uses": "Ölümcül zehirlidir. Bilinen mantar kaynaklı ölüm vakalarının büyük çoğunluğundan sorumludur. Amatoksinler ve fallotoksinler içerir; bu toksinler pişirme, kurutma, dondurma veya kabuk soymayla kesinlikle yok edilemez. Karaciğer ve böbrek yetmezliğine yol açarak ölüme neden olur.",
+          "confusion": "Çayır mantarı (Agaricus campestris) gençken pembe, olgunlukta çikolata kahverengisi lamellere sahiptir ve volvası bulunmaz. Yenilebilir Russula türleri (örneğin Russula virescens) kırılgandır, halka ve volva taşımaz. Yeşilimsi yaprak mantarları veya beyaz çayır mantarlarıyla karıştırılması ölümcül sonuçlar doğurur.",
+          "notes": "Amanitin toksinleri protein sentezini engelleyerek hücresel yıkıma neden olur. Belirtiler genellikle tüketimden 6–24 saat sonra başlar."
+    },
       sl: {
           "description": "Smrtno strupena ektomikorizna goba. Domača je v Evropi, kjer je splošno razširjena. Z vnesenimi drevesi je bila zanesena v številne druge dele sveta, vključno s Severno Ameriko, Avstralijo in Južno Afriko. Odgovorna je za večino smrtnih primerov zastrupitev z gobami na svetu.",
           "cap": "Klobuk ima premer 5–15 cm, sprva je polkrožen do zvonast, kasneje se izboči in splošči. Barva je značilno oljčno zelena, rumenkastozelena ali bledo sivkastozelena, z vraščenimi radialnimi vlakenci, v vlažnem vremenu rahlo lepljiva. Obstajajo tudi povsem beli primerki.",
@@ -3272,9 +3684,44 @@ export const CATALOG = [
       habitat: 'Fruktkroppar utvecklas från juli till oktober. Den bildar mykorrhiza med lövträd, framför allt ek, bok och hassel, främst på näringsrik mark i tempererade zoner.',
       uses: 'Dödligt giftig. Svampen innehåller dödliga mängder amatoxiner och fallotoxiner som orsakar svåra leverskador och organsvikt. Varken kokning, stekning, torkning eller frysning förstör gifterna.',
       confusion: 'Vitgul flugsvamp (Amanita citrina) har en tydligt avsatt kantad fotknöl, luktar rå potatis och bär ofta hylleplättar på hatten. Ätbara champinjoner (Agaricus) skiljer sig genom att deras skivor snabbt blir rosa och slutligen chokladbruna, och de saknar strumpa vid fotbasen. Rutkremla (Russula virescens) har gröngrå sprickig hatt, sprött kött och saknar både ring och strumpa.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică din pădurile de foioase, mai ales cu stejar. Este indigenă în Europa, unde este larg răspândită, și a fost introdusă accidental în America de Nord, Australia, Noua Zeelandă și Africa de Sud odată cu arborii de parc importați.',
+      cap: 'Pălăria are 5–15 cm lățime. Începe ovoidală și aproape albă, apoi devine convexă și ulterior plată. Culoarea variază de la galben-măsliniu la verde-măsliniu sau galben-verzui, adesea mai palidă spre margine și mai închisă în centru. Cuticula este netedă și mătăsoasă la uscăciune, devenind ușor lipicioasă la umezeală.',
+      hymenium: 'Lamelele sunt libere, late și dese. Sunt de un alb pur la început și rămân albe pe măsură ce corpul fructifer se maturizează.',
+      stipe: 'Piciorul are 7–15 cm lungime și este albicios, adesea cu un desen șerpuit zig-zag de nuanțe verzui sau galben-palide. Inelul este membranos, atârnător, alb și striat fin. Baza este cuprinsă într-o volvă albă, mare, saciformă și liberă.',
+      flesh: 'Carnea este albă și nu își schimbă culoarea la tăiere. Mirosul este slab la început, dar devine neplăcut, dulceag și grețos odată cu vârsta.',
+      sporePrint: 'Alb. Sporii sunt aproape sferici până la ovali, amiloizi, de aproximativ 8–11 × 7–9 μm.',
+      habitat: 'Corpurile fructifere apar vara și toamna, din iulie până în noiembrie în Marea Britanie și Europa temperată. Crește pe solul pădurilor de foioase, în special sub stejari, fagi și castani.',
+      uses: 'Este mortală. Conține amatoxine puternice, pe care fierberea, uscarea sau congelarea nu le distrug deloc. Simptomele apar adesea abia după 6–24 de ore de la ingestie, conducând la insuficiență hepatică și renală gravă.',
+      confusion: 'Buretele de lămâie (Amanita citrina) păstrează de obicei fragmente brun-crem de văl pe pălărie, are un miros pregnant de cartof crud și o volvă tăiată neted la buza bulbului. Ciuperca de bălegar (Agaricus campestris) și alte ciuperci albe de câmp au lamele care devin rozalii și apoi brun-ciocolatii la maturitate, fiind complet lipsite de volvă. Russula virescens și alte vinețele verzi au carnea sfărâmicioasă ca creta și nu au inel sau volvă.'
+    },
+    bg: {
+      description: 'Смъртоносно отровна ектомикоризна гъба. Среща се естествено в Европа, а също така е интродуцирана в Северна Америка, Австралия и Нова Зеландия с фиданки от дъб и кестен.',
+      cap: 'Гуглата е с диаметър 5–15 cm, отначало звънчевидна до полукълбовидна, после разперена до плоска. Цветът варира от маслиненозелен до жълтеникавозелен, често с по-тъмни радиални влакна и по-блед ръб. Повърхността е лепкава при влажно време и гладка при изсъхване.',
+      hymenium: 'Ламелите са бели, свободни, гъсти и не променят цвета си с възрастта.',
+      stipe: 'Пънчето е високо 7–15 cm и дебело 1–2 cm, бяло или белезникаво, често с бледозеленикави зигзагообразни шарки. В горната част носи висящо бяло пръстенче, а в основата е луковично задебелено и обвито в голяма, торбовидна бяла волва.',
+      flesh: 'Месото е бяло, крехко, неизменящо се при нараняване. Миризмата при младите екземпляри е слаба и медена, а при старите става неприятна и задушлива.',
+      sporePrint: 'Бял. Спорите са овални до закръглени, гладки, с размери около 8–11 × 7–9 μm, амилоидни.',
+      habitat: 'Плодните тела се появяват от юли до ноември. Расте в широколистни и смесени гори, най-често под дъб, бук, кестен и леска.',
+      uses: 'Смъртоносно отровна гъба, отговорна за по-голямата част от фаталните гъбни отравяния. Съдържа аматоксини и фалотоксини, които не се разрушават при варене, печене, сушене или замразяване. Първите признаци на отравяне се проявяват след 6–24 часа.',
+      confusion: 'Жълтата мухоморка (Amanita citrina) има подобен цвят, но носи остатъци от общото покривало по гуглата, мирише на суров картоф и има ясна жлебовидна волва. Печурките (Agaricus) имат розови до шоколадовокафяви ламели и нямат волва. Зелената гълъбка (Russula virescens) няма пръстенче и волва, а месото ѝ е трошливо.',
+      notes: 'Съществува и чисто бяла форма (Amanita phalloides var. alba).'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/koygocuren-mantari-amanita-phalloides/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/K%C3%B6yg%C3%B6%C3%A7%C3%BCren_mantar%C4%B1"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -3532,6 +3979,30 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/L%C3%B6msk_flugsvamp'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Amanita_phalloides'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/amanita-phalloides'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0_%D0%BC%D1%83%D1%85%D0%BE%D0%BC%D0%BE%D1%80%D0%BA%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -3616,6 +4087,7 @@ export const CATALOG = [
     fruitingFrom: 8,
     fruitingTo: 11,
     label: {
+      tr: "panter mantarı",
       sl: "panterjeva mušnica",
       hr: "panterova muhara",
       sr: "пантеровка",
@@ -3633,15 +4105,31 @@ export const CATALOG = [
       pt: 'amanita-pantera',
       da: 'panter-fluesvamp',
       no: 'panterfluesopp',
-      sv: 'panterflugsvamp'
+      sv: 'panterflugsvamp',
+      ro: 'burete pestriț',
+      bg: 'пантерка'
     },
     names: {
       en: ["panthercap", "false blusher", "panther amanita"]
     ,
       cs: ["muchomůrka panterová"],
-      es: ['falso galipierno']
+      es: ['falso galipierno'],
+      ro: ['buretele panterei'],
+      bg: ['петниста мухоморка']
     },
     text: {
+      tr: {
+          "description": "Zehirli ve ektomikorizal bir mantardır. Avrupa, Batı Asya ve Akdeniz havzasında yaygın olarak bulunur. Geniş yapraklı ve iğne yapraklı ormanlarda meşe, kayın, çam ve ladin ile mikorizal ortaklık kurar.",
+          "cap": "Şapka 4–11 cm genişliğinde olup başlangıçta yarım küre şeklindedir, daha sonra dışbükeyleşir ve zamanla düzleşir. Rengi koyu kahverengi, kestane kahvesi veya fındık rengidir. Şapkanın üzerinde evrensel peçeden arta kalan saf beyaz, küçük ve düzenli pullar yer alır. Şapka kenarı olgunlukta belirgin şekilde çizgilidir.",
+          "hymenium": "Lameller beyaz, serbest, sık ve kalabalık dizilimlidir. Yaşlandıkça hafifçe sararabilir veya lekelenebilir.",
+          "stipe": "Sap 6–14 cm uzunluğunda ve 1–2 cm kalınlığında, beyaz, silindirik ve tabana doğru soğan gibi şişkindir. Sapın orta veya alt kısmında ince, beyaz ve sarkık bir halka bulunur. Taban soğanı üzerinde belirgin bir olukla ayrılmış dar, yakalık benzeri bir volva kenarı yer alır.",
+          "flesh": "Etli kısım beyazdır ve kesildiğinde renk değiştirmez; şapka derisinin altında koyulaşma görülmez. Kokusu hafif olup ham patatesi veya turpu andırır.",
+          "habitat": "Meyve gövdeleri yaz ortasından sonbahar sonuna kadar görülür. Kayın, meşe ve kestane gibi geniş yapraklı ormanlarda ve çam ormanlarında tek tek veya dağınık gruplar halinde yetişir.",
+          "sporePrint": "Beyaz. Sporlar elipsoid, pürüzsüz, yaklaşık 8,5–12 × 6,5–8,5 μm boyutlarındadır ve iyot ile inamiloiddir.",
+          "uses": "Zehirlidir. Yüksek konsantrasyonlarda ibotenik asit ve müsimol içerir. Pantherina sendromuna neden olarak merkezi sinir sistemini etkiler; kas seğirmeleri, sanrılar, kafa karışıklığı ve koma ile sonuçlanan ağır zehirlenmelere yol açar.",
+          "confusion": "Kızaran gelin mantarı (Amanita rubescens) kızaran ete, grimsi pullara ve çizgili olmayan bir şapka kenarına sahiptir. Gri gelin mantarı (Amanita excelsa var. spissa) çizgili bir halkaya, grimsi peçe artıklarına sahiptir ve berelendiğinde kızarmaz.",
+          "notes": "İbotenik asit ve müsimol içeriği Amanita muscaria'dan belirgin biçimde daha yoğundur."
+    },
       sl: {
           "description": "Zelo strupena ektomikorizna goba. Pogosta je v Evropi in delih Azije v listnatih in mešanih gozdovih.",
           "cap": "Klobuk meri 4–12 cm v premeru, sprva je polkrožen, nato zravnan. Je rjave, sivorjave do lešnikovo rjave barve. Po celotni površini je gosto posut z drobnimi, snežno belimi, zlahka odstranljivimi luskicami. Rob klobuka je pri odraslih gobah izrazito nažlebljen.",
@@ -3844,9 +4332,44 @@ export const CATALOG = [
       habitat: 'Fruktkroppar påträffas från juli till oktober. Den växer i symbios med löv- och barrträd, särskilt ek, bok, björk, tall och gran, på torr till frisk mark.',
       uses: 'Giftig. Den innehåller muskimol och ibotensyra i betydligt högre koncentrationer än röd flugsvamp och kan orsaka allvarliga förgiftningar med nervpåverkan, hallucinationer och medvetslöshet.',
       confusion: 'Rodnande flugsvamp (Amanita rubescens) skiljer sig genom att dess kött rodnar vid skada eller insektsangrepp, dess ring är tydligt strimmig på ovansidan och dess hattkant är slät. Grå flugsvamp (Amanita excelsa) har gråaktiga hylleplättar på hatten och kött som inte rodnar.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică din pădurile de foioase, în special de fag, și din pădurile de conifere. Este răspândită în întreaga Europă și în regiuni din Asia de Vest.',
+      cap: 'Pălăria are 5–12 cm lățime. Este brună sau cenușiu-brună lucioasă, iar cuticula este presărată cu numeroase fragmente albe de văl universal, mici, pure și regulate. Marginea pălăriei devine evident striată la maturitate.',
+      hymenium: 'Lamelele sunt albe, libere, dese și destul de late. Rămân albe pe tot parcursul dezvoltării.',
+      stipe: 'Piciorul are 6–12 cm lungime și este de un alb curat. Un inel membranos atârnător este situat la mijlocul sau în jumătatea inferioară a piciorului. Baza bulboasă prezintă o margine circulară reliefată distinctă, cu una sau două brățări inelare dispuse deasupra ei.',
+      flesh: 'Carnea este albă și nu devine roz sau roșie la tăiere. Mirosul este slab, amintind de ridiche sau pământ.',
+      sporePrint: 'Alb. Sporii sunt elipsoidali, de circa 9–12 × 7–9 μm, și nu reacționează în iod (neamiloizi).',
+      habitat: 'Corpurile fructifere apar din august până în noiembrie în Marea Britanie și Irlanda, crescând pe soluri calcaroase sau nisipoase în păduri de foioase și mixte.',
+      uses: 'Este otrăvitoare și mai toxică decât Amanita muscaria. Conține acid ibotenic și muscimol în concentrații ridicate, provocând intoxicații neurotoxice severe.',
+      confusion: 'Amanita excelsa are fragmente cenușii de văl pe pălărie, un picior mai robust cu un inel striat în partea superioară și o volvă nedelimitată neted. Cucul (Amanita rubescens) are o pălărie ocru-roșiatică sau brună cu fragmente murdare de văl, iar carnea sa se înroșește treptat la tăiere sau lovire.'
+    },
+    bg: {
+      description: 'Ектомикоризна гъба в широколистни и смесени гори. Широко разпространена в умерените райони на Европа и Азия.',
+      cap: 'Гуглата е с диаметър 5–12 cm, сивокафява, маслиненокафява или охренокафява, осеяна с множество дребни бели парченца от общото покривало. Ръбът в зрялост е фино набразден.',
+      hymenium: 'Ламелите са чисто бели, свободни и гъсти, оставащи бели през целия жизнен цикъл.',
+      stipe: 'Пънчето е бяло, високо 6–12 cm и дебело 1–2 cm. Носи тънко висящо бяло пръстенче в средната или долната част. Основата е луковично задебелена и ограничена от ясен пръстеновиден улей над прирасналата волва.',
+      flesh: 'Месото е бяло и не променя цвета си при нараняване. Миризмата е слаба, наподобяваща сурова ряпа.',
+      sporePrint: 'Бял. Спорите са широко елипсовидни, гладки, 8–12 × 6,7–7,5 μm, неамилоидни.',
+      habitat: 'Плодните тела се появяват от юли до ноември. Среща се под дъб, бук, кестен, а понякога и под бор и смърч.',
+      uses: 'Силно отровна гъба, по-токсична от червената мухоморка. Съдържа иботенова киселина и мусцимол, засягащи централната нервна система.',
+      confusion: 'Бисерната гъба (Amanita rubescens) се отличава по месото, което при разрез или нараняване постепенно почервенява или порозовява. Сивата мухоморка (Amanita excelsa) има сивкави остатъци от покривалото и няма рязък улей над луковицата.',
+      notes: 'Подобни видове от Северна Америка се отнасят към отделни таксони от същия род.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/panter-mantari-amanita-pantherina/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Amanita_pantherina"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -4095,6 +4618,30 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Panterflugsvamp'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Amanita_pantherina'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/amanita-pantherina'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BD%D1%82%D0%B5%D1%80%D0%BA%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -4176,6 +4723,7 @@ export const CATALOG = [
     fruitingFrom: 3,
     fruitingTo: 6,
     label: {
+      tr: "kuzugöbeği mantarı",
       sl: "užitni smrček",
       hr: "obični smrčak",
       sr: "крути смрчак",
@@ -4193,7 +4741,9 @@ export const CATALOG = [
       pt: 'morchela',
       da: 'spiselig morkel',
       no: 'rundmorkel',
-      sv: 'rund toppmurkla'
+      sv: 'rund toppmurkla',
+      ro: 'zbârciog galben',
+      bg: 'обикновена смръчкула'
     },
     names: {
       en: ["common morel", "yellow morel"],
@@ -4216,9 +4766,23 @@ export const CATALOG = [
       es: ['colmenilla', 'cagarria'],
       pt: ['cogumelo-de-São-Jorge', 'panturra'],
       no: ['grønnlig rundmorkel'],
-      sv: ['morckla', 'stor toppmurkla', 'toppmurkla']
+      sv: ['morckla', 'stor toppmurkla', 'toppmurkla'],
+      ro: ['zbârciog'],
+      bg: ['смръчкула', 'бучка гъба', 'корминка']
     },
     text: {
+      tr: {
+          "description": "Saprofit ve fakültatif mikorizal bir ascomycete mantarıdır. Avrupa, Asya ve Kuzey Amerika'da ılıman kuşakta geniş yayılış gösterir. Genellikle ilkbaharda ortaya çıkar ve en çok aranan yabani mantarlardan biridir.",
+          "cap": "Şapka (başçık) 4–10 cm yüksekliğinde ve 3–6 cm genişliğinde olup yumurta veya koni biçimindedir. Yüzeyi derin çukurlar ve bunları çevreleyen düzensiz, birbirine bağlı kıvrımlı sırtlarla kaplıdır; görünümü bal peteğini veya süngeri andırır. Rengi sarımsı kahverengi, devetüyü veya bal sarısıdır. Şapka tabanı doğrudan sapa kaynaşmıştır ve tüm mantarın içi tamamen boştur.",
+          "hymenium": "Himenyum şapkanın yüzeyindeki çukurları kaplar. Askuslar silindirik, sekiz sporlu olup bazidiyum içermez.",
+          "stipe": "Sap 3–8 cm uzunluğunda ve 1,5–3 cm kalınlığında, beyazımsı veya soluk sarımsı renktedir. İçi tamamen boş, yüzeyi genellikle pürüzlü veya hafif taneciklidir; tabana doğru hafifçe kalınlaşır.",
+          "flesh": "Etli kısım ince, gevrek, mumsu ve beyazımsıdır. Hoş ve kendine has bir kokusu ile tatlımsı, fındıksı bir lezzeti vardır.",
+          "habitat": "Meyve gövdeleri nisan ve mayıs aylarında ortaya çıkar. Kireçli topraklarda, nehir kenarlarında, dişbudak, karaağaç ve elma ağaçlarının altında, orman açıklıklarında ve yangın geçirmiş alanlarda yetişir.",
+          "sporePrint": "Krem rengi ile sarımsı devetüyü. Askosporlar eliptik, pürüzsüz ve yaklaşık 18–25 × 11–15 μm boyutlarındadır.",
+          "uses": "Seçkin yemeklik bir mantardır. Çiğ olarak tüketildiğinde gastrointestinal toksisiteye yol açtığı için kesinlikle iyice pişirilmelidir. Fransız mutfağında krema sosları ve et yemeklerinde son derece değerlidir; kurutulduğunda aroması daha da yoğunlaşır.",
+          "confusion": "Kuzugöbeği ebesi (Gyromitra esculenta) beyinsi kıvrımlara sahiptir, bal peteği çukurları barındırmaz, içi tek bir boşluk olmayıp bölmelidir ve ölümcül giromitrin toksini içerir. Verpa bohemica serbest, yüksük gibi bir şapkaya sahiptir. Yarı serbest kuzugöbeği (Morchella semilibera) şapkasının alt yarısı saptan ayrık olan yenilebilir bir türdür.",
+          "notes": "Yangın alanlarında bol miktarda fruktifikasyon göstermesiyle bilinir."
+    },
       sl: {
           "description": "Zgodnja spomladanska zaprtotrosnica (Ascomycota). Je saprotrofna in fakultativno mikorizna vrsta. Naravno je razširjena v Evropi, poročajo pa o njej tudi iz Kitajske.",
           "cap": "Klobuk ima premer 3–8 cm in višino 4–10 cm, je jajčaste do zaobljene oblike, z votlo notranjostjo. Površino sestavljajo globoke nepravilne jamice, obdane z vijugastimi rebrastimi grebeni, ki spominjajo na satovje. Barva jamic sega od svetlo rumenkastosive do oker rjave.",
@@ -4420,9 +4984,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar kommer fram i april till juni. Den växer på kalkrik, näringsrik mark i lövskogar, trädgårdar, fruktodlingar, parker och på brandplatser.',
       uses: 'En läcker matsvamp av hög kulinarisk rang. Den måste tillagas ordentligt före förtäring eftersom den som rå innehåller magtarmretande toxiner.',
       confusion: 'Den dödligt giftiga stenmurklan (Gyromitra esculenta) har hjärnlikt vindlad, rödbrun mössa utan regelbundna gropar och åsar. Fingerborgsmurkla (Verpa bohemica) har en mössa som sitter fästad endast vid fotens absoluta spets. Halvfri toppmurkla (Morchella semilibera) är ätlig och har en mössa vars nedre hälft hänger fritt från foten.'
+    },
+    ro: {
+      description: 'Ciupercă ascomicetă de primăvară din pădurile pe sol calcaros. În sens strict este o specie europeană, saprotrofă și facultativ micorizică. Denumirea a fost aplicată pe scară largă la nivel mondial la zbârciogi galbeni înrudiți.',
+      cap: 'Pălăria are 3–8 cm lățime și 5–12 cm înălțime. Este adesea ovoidală până la conică sau aproape rotundă, cu o rețea complicată de alveole adânci și neregulate separate de creste sinuoase. Culoarea variază de la ocru-gălbui la brun-gălbui, crestele devenind adesea mai deschise.',
+      hymenium: 'Suprafața fertilă căptușește alveolele. Acolo se găsesc ascele microscopice producătoare de spori. Suprafața exterioară a crestelor rămâne sterilă.',
+      stipe: 'Piciorul este alb sau crem-palid, uneori cu pete brune spre bază. Are 3–9 cm lungime și 1,5–4 cm grosime, este gol la interior și continuu cu cavitatea pălăriei, adesea îngroșat sau plisat la bază.',
+      flesh: 'Carnea pălăriei este cerată, fragilă și subțire. Mirosul și gustul ciupercii crude sunt plăcute, devenind bogate și aromate la gătit.',
+      sporePrint: 'Crem-gălbui până la ocru-palid. Sporii sunt elipsoidali, netezi, de circa 18–24 × 11–14 μm.',
+      habitat: 'Corpurile fructifere apar din martie până la începutul lui iunie. Crește pe soluri calcaroase sau bogate în nutrienți, sub frasini, ulmi, meri și în păduri aluviale de luncă.',
+      uses: 'Este o specie comestibilă de mare valoare gastronomică (comestibil excelent), odată ce este gătită temeinic. Corpurile fructifere crude conțin toxine gastrointestinale termolabile ce pot cauza tulburări severe, astfel că nu trebuie consumată crudă niciodată.',
+      confusion: 'Zbârciogul conic (Morchella elata) are o pălărie mai întunecată, cu alveolele dispuse în șiruri verticale paralele. Zbârciogul gras (Gyromitra esculenta) are o pălărie pliată neregulat ca un creier, brun-roșiatică, și conține giromitrină, o toxină periculos de periculoasă și potențial letală.'
+    },
+    bg: {
+      description: 'Пролетна торбеста гъба (аскомицет). Сапротрофна и факултативно микоризна. Широко разпространена в умерените пояси на Европа и Азия.',
+      cap: 'Гуглата е с размери 3–8 cm в ширина и 5–12 cm във височина, яйцевидна до закръглена, с неправилни килийки, наподобяващи пчелна пита. Цветът варира от жълтеникавокафяв до сивоохрен. Килийките са разделени от надлъжни и напречни стерилни ребра.',
+      hymenium: 'Фертилната повърхност постила вътрешността на килийките, където са разположени спорообразуващите аски. Ребрата между килийките са стерилни.',
+      stipe: 'Пънчето е бяло до кремаво, кухо, високо 3–10 cm и дебело 1,5–4 cm, в основата често нагънато или разширено.',
+      flesh: 'Месото е тънко, крехко и восъчно, с приятен аромат и мек вкус.',
+      sporePrint: 'Кремав до бледоохрен. Спорите са гладки, елипсовидни, 18–22 × 11–14 μm, оформящи се в аски.',
+      habitat: 'Плодните тела се появяват през пролетта от март до май. Расте в широколистни гори, край речни корита, под ясен, бряст и овощни дървета, често на варовити почви.',
+      uses: 'Отлична ядлива гъба след задължителна задълбочена топлинна обработка. В сурово състояние причинява стомашно-чревни разстройства.',
+      confusion: 'Обикновената дипленка (Gyromitra esculenta) има неправилно нагъната, мозъковидна гугла с червеникавокафяв цвят и е силно отровна. Островърхата смръчкула (Morchella elata) има по-тъмни килийки, разположени в отчетливи надлъжни редици.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/kuzugobegi-mantari-morchella-esculenta/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Kuzug%C3%B6be%C4%9Fi"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -4677,6 +5275,35 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Rund_toppmurkla'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Morchella_esculenta'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/morchella-esculenta'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%9E%D0%B1%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B0_%D1%81%D0%BC%D1%80%D1%8A%D1%87%D0%BA%D1%83%D0%BB%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -4779,6 +5406,7 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 2,
     label: {
+      tr: "kavak mantarı",
       sl: "bukov ostrigar",
       hr: "bukovača",
       sr: "буковача",
@@ -4796,7 +5424,9 @@ export const CATALOG = [
       pt: 'cogumelo-ostra',
       da: 'almindelig østershat',
       no: 'blågrå østerssopp',
-      sv: 'ostronmussling'
+      sv: 'ostronmussling',
+      ro: 'păstrăv de fag',
+      bg: 'кладница'
     },
     names: {
       en: ["grey oyster mushroom", "oyster fungus", "pearl oyster mushroom"],
@@ -4847,9 +5477,22 @@ export const CATALOG = [
     ,
       cs: [],
       es: ['seta de chopo'],
-      pt: ['repolga']
+      pt: ['repolga'],
+      ro: ['burete negru']
     },
     text: {
+      tr: {
+          "description": "Odun çürüten, saprofit ve nematofag bir mantardır. Dünya genelinde ılıman ve subtropikal ormanlarda yaygındır. Geniş yapraklı sert ağaçların gövdelerinde ve devrilmiş kütüklerinde büyük, üst üste binen kümeler halinde yetişir.",
+          "cap": "Şapka 5–25 cm genişliğinde olup istiridye, yelpaze veya böbrek şeklindedir. Başlangıçta koyu kurşuni gri veya mavi-gridir; olgunlaştıkça kahverengimsi gri veya krem rengine açılır. Yüzeyi pürüzsüz, çıplak ve nemli havalarda hafifçe kaygandır; kenarı gençken içe kıvrıktır.",
+          "hymenium": "Lameller beyaz veya krem rengidir, sık ve geniştir; sapa doğru belirgin şekilde sarkar ve sap tabanında damarlı bir desen oluşturur.",
+          "stipe": "Sap genellikle körelmiş, kısa (1–3 cm) ve yana doğru eğiktir (eksantrik veya lateral); bazen neredeyse hiç yoktur. Beyaz veya açık gri renkli olup tabanda sert lifli ve beyaz tüylüdür.",
+          "flesh": "Etli kısım beyaz, kalın ve gençken yumuşaktır; yaşlandıkça sapa yakın kısımlarda lifli ve sert hale gelir. Hafif anason veya mantarımsı hoş bir kokusu vardır.",
+          "habitat": "Meyve gövdeleri özellikle sonbahar ve kış aylarında, serin havalarda ortaya çıkar. Kayın, meşe, kavak, söğüt ve huş kütüklerinde ve zayıflamış canlı ağaç gövdelerinde büyür.",
+          "sporePrint": "Beyaz ile açık leylak veya grimsi eflatun. Sporlar silindirik veya silindirik-eliptik, pürüzsüz, yaklaşık 7,5–11 × 3–4 μm boyutlarındadır.",
+          "uses": "Seçkin yemeklik bir mantardır. Isıya duyarlı hemolitik maddeler içerdiğinden çiğ tüketilmemeli, iyice pişirilmelidir. Ticari olarak en çok yetiştirilen kültür mantarlarından biridir.",
+          "confusion": "Zehirli Omphalotus nidiformis (hayalet mantar) Avustralya'da bulunur ve biyolüminesans gösterir. Yenilebilir Pleurotus pulmonarius yaz aylarında çıkar ve daha açık soluk renklidir.",
+          "notes": "Miselleri nematodları felç ederek sindirebilen nematofag bir yapıya sahiptir."
+    },
       sl: {
           "description": "Saprotrofna in lesna gliva, ki lahko deluje tudi kot plenilka glist (nematofagna gliva). Naravno je razširjena v zmernih in subtropskih gozdovih po vsem svetu ter je ena najbolj gojenih gob na svetu.",
           "cap": "Klobuk meri 5–20 cm v premeru, je pahljačaste, ledvičaste ali školjkaste oblike z gladko površino. Barva sega od temno sive, skrilasto modrikaste do rjavkaste ali bledo sivkaste, v starosti posvetli.",
@@ -5052,9 +5695,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar bildas från hösten till vintern och under milda perioder, ofta i stora, taktegellagda gyttringar på döda stammar och stubbar av lövträd, särskilt bok, björk, asp och poppel.',
       uses: 'En mycket uppskattad och god matsvamp som säljs i livsmedelsbutiker världen över. Den bör tillagas väl; svampen innehåller värmekänsliga hemolytiska ämnen och ska inte ätas rå.',
       confusion: 'Öronmussling (Pleurocybella porrigens) växer uteslutande på barrved, saknar fot helt och är tunnare och vitare. Grönmussling (Sarcomyxa serotina) har olivgrön till gulbrun hatt med ett slemmigt gelatinöst skikt under hatthuden och gulaktiga skivor. Den australiska spökmusslingen (Omphalotus nidiformis) är giftig och kraftigt självlysande.'
+    },
+    ro: {
+      description: 'Ciupercă saprotrofă, uneori slab parazită, care crește pe lemnul arborilor de foioase. Este de asemenea nematofagă, miceliul său paralizând și digerând nematozii din lemn. Răspândită pe scară largă în întreaga Europă, Asia și America de Nord.',
+      cap: 'Pălăria are de obicei 5–18 cm lățime (ocazional 2–30 cm). Are formă de scoică, evantai sau spatulă, fiind netedă și cărnoasă. Culoarea variază de la cenușiu-albăstrui sau ardezie în tinerețe până la brun-cenușiu sau cafeniu la maturitate.',
+      hymenium: 'Lamelele sunt albe, devenind galben-palide sau ocru odată cu vârsta, sunt dese și decurente adânc pe picior, adesea anastomozate la bază.',
+      stipe: 'Piciorul este alb sau crem, scurt și pâslos la bază. Este adesea excentric sau lateral, iar uneori lipsește aproape complet când pălăriile cresc în etaj suprapus direct pe trunchi.',
+      flesh: 'Carnea este albă și fermă, devenind dură și fibroasă în picior. Gustul este blând și plăcut, iar mirosul amintește slab de anason.',
+      sporePrint: 'Alb până la cenușiu-liliachiu palid. Sporii sunt cilindrici până la elipsoidali, de 7,5–11 × 3–4 μm.',
+      habitat: 'Corpurile fructifere apar în principal toamna și iarna, deși pot apărea oricând pe vreme umedă și răcoroasă. Crește în tufe imbricate dense pe trunchiuri căzute sau vii de fag, plop, mesteacăn și alți arbori de foioase.',
+      uses: 'Este o specie comestibilă căutată (comestibil excelent), larg cultivată și vândută în magazine. Păstrăvul de fag conține hemolizine termolabile și trebuie gătit temeinic înainte de consum.',
+      confusion: 'Păstrăvul de plop (Pleurotus dryinus) are o pălărie păstoasă sau solzoasă și un inel trecător pe picior. Aripile de înger (Pleurocybella porrigens) sunt mai mică, albă, crește exclusiv pe lemn putred de conifere și nu are gust de anason. Păstrăvul târziu (Sarcomyxa serotina) are nuanțe măslinii-verzui pe pălărie și un picior scurt punctat cu solzișori bruni.'
+    },
+    bg: {
+      description: 'Дърворазрушаваща сапротрофна гъба, развиваща се по широколистна дървесина. Широко разпространена в горите на Европа, Азия и Северна Америка, както и масово култивирана по целия свят.',
+      cap: 'Гуглата е с диаметър 5–20 cm, ветриловидна, полукръгла или раковинообразна. Цветът е сиво-кафяв, стоманеносив или тъмносив, избледняващ до белезникав при застаряване. Повърхността е гладка.',
+      hymenium: 'Ламелите са бели до сивобели, гъсти, спускащи се дълбоко по пънчето (низбягващи), понякога разклоняващи се в основата.',
+      stipe: 'Пънчето често е късо, странично разположено или почти липсващо, плътно и бяло, покрито с бял пух в основата.',
+      flesh: 'Месото е бяло, дебело и еластично в гуглата, по-жилаво в пънчето. Има приятен гъбен аромат и мек вкус.',
+      sporePrint: 'Бял до бледолилав или сивкав. Спорите са цилиндрични, гладки, 8–12 × 3–4 μm.',
+      habitat: 'Плодните тела израстват на кичури върху живи, отслабени или мъртви широколистни дървета (особено бук, топола, върба) от късна есен до зимата и ранна пролет.',
+      uses: 'Отлична ядлива гъба. Търси се и се цени както от диворастящи находища, така и от промишлено култивиране. В суров вид съдържа термолабилни хемолизини, поради което изисква топлинна обработка.',
+      confusion: 'Горчивата миризливка (Omphalotus olearius) има ярко оранжев до жълт цвят и е силно отровна. Белезникавата кладница (Pleurotus pulmonarius) се появява през лятото и има по-светъл кремав цвят.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/istiridye-mantari-pleurotus-ostreatus/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Kavak_mantar%C4%B1"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -5324,6 +6001,35 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Ostronmussling'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Pleurotus_ostreatus'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/pleurotus-ostreatus'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B0%D0%B4%D0%BD%D0%B8%D1%86%D0%B0_(%D0%B3%D1%8A%D0%B1%D0%B0)'
+        }
       ]
     },
     synonyms: [
@@ -5420,6 +6126,7 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 11,
     label: {
+      tr: "kükürt mantarı",
       sl: "žvepleni lepoluknjičar",
       hr: "žuti kruh",
       sr: "шумско пиле",
@@ -5436,15 +6143,30 @@ export const CATALOG = [
       nl: 'Zwavelzwam',
       da: 'svovlporesvamp',
       no: 'svovelkjuke',
-      sv: 'svavelticka'
+      sv: 'svavelticka',
+      ro: 'găina de pădure',
+      bg: 'сярна гъба'
     },
     names: {
       en: ["sulphur polypore", "sulphur shelf", "chicken polypore", "lobster of the woods"]
     ,
       cs: ["choroš sírový"],
-      es: ['políporo azufrado']
+      es: ['políporo azufrado'],
+      ro: ['puiul pădurii']
     },
     text: {
+      tr: {
+          "description": "Geniş yapraklı ağaçlarda kahverengi küp çürüklüğüne neden olan parazit ve odun çürüten saprofit bir polipor mantarıdır. Avrupa ve Kuzey Amerika'da meşe, kestane, kiraz ve söğüt gibi canlı veya ölü yaşlı ağaç gövdelerinde geniş yayılış gösterir.",
+          "cap": "Meyve gövdesi raf şeklinde, üst üste binen yelpazeler halinde 10–40 cm genişliğe ve birkaç kilogram ağırlığa ulaşabilir. Üst yüzeyi dalgalı, kadifemsi ve parlak kükürt sarısı, turuncu veya somon renklidir; kenarları kalın ve etlidir.",
+          "hymenium": "Alt yüzey küçük, parlak kükürt sarısı gözeneklerden oluşur; borucuklar 1–4 mm derinliğindedir. Gençken bazen sarı renkli damlacıklar salgılar.",
+          "stipe": "Belirgin bir sapı yoktur; doğrudan ağaç gövdesine geniş veya dar bir tabanla tutunur.",
+          "flesh": "Etli kısım gençken kalın, sulu ve yumuşaktır; yaşlandıkça beyazımsı, kuru ve tebeşir gibi ufalanır hale gelir. Kokusu mantarımsı veya hafif ekşimsidir.",
+          "habitat": "Meyve gövdeleri mayıs ayından sonbahara kadar görülür. Yaşlı meşeler, kestaneler, porsuklar ve meyve ağaçları üzerinde yaygındır.",
+          "sporePrint": "Beyaz. Sporlar elipsoid ile ovoid biçiminde, pürüzsüz ve yaklaşık 5–7 × 3,5–5 μm boyutlarındadır.",
+          "uses": "Şartlı yenilebilir bir mantardır. Yalnızca genç ve sulu kenar kısımları iyice pişirilerek tüketilmelidir; dokusu tavuk etine benzer. Bazı bireylerde alerjik reaksiyonlara ve sindirim sorunlarına yol açabilir; özellikle porsuk (Taxus) veya okaliptüs üzerinde yetişen örneklerin tüketilmemesi önerilir.",
+          "confusion": "Yaşlı ve solmuş meyve gövdeleri, berelendiğinde veya sürtüldüğünde gözenekleri hızla siyahlaşan dev polipor (Meripilus giganteus) ile karıştırılabilir. Çam süngeri (Phaeolus schweinitzii) iğne yapraklılarda yetişir, pas kahverengisidir ve serttir.",
+          "notes": "Odun üzerinde oluşturduğu kahverengi çürüklük ağacın iç yapısını zayıflatarak rüzgarda devrilmesine zemin hazırlar."
+    },
       sl: {
           "description": "Lesna zajedavska in saprotrofna goba, ki povzroča rjavo trohnobo lesa. Razširjena je v Evropi in Severni Ameriki na živih in odmrlih listnatih drevesih.",
           "cap": "Trosnjaki rastejo v obsežnih strehastih skupinah. Posamezni pahljačasti ali polkrožni klobuki merijo 10–40 cm v širino in do 4 cm v debelino. Površina je žametasta, živo žvepleno rumene do živo oranžne barve, pogosto z valovitim robom.",
@@ -5647,9 +6369,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar uppträder från maj till hösten, främst på levande gamla lövträd, särskilt ek, men även på pil, ask, körsbär och fruktträd.',
       uses: 'Ungt och saftigt kött från ytterkanten är ätligt och tillagas ofta stekt eller panerat; i engelskspråkiga länder kallas den \'chicken of the woods\' för sitt kycklinglika kött. Den kan dock orsaka överkänslighetsreaktioner eller magbesvär hos vissa personer.',
       confusion: 'Gropticka (Phaeolus schweinitzii) växer vid basen av barrträd och har mörkbrunt kött och gulbruna till olivbruna porer. Jätteticka (Meripilus giganteus) bildar stora rosetter vid basen av lövträd, men har gråbruna hattar och porer som svartnar vid beröring.'
+    },
+    ro: {
+      description: 'Ciupercă parazită și saprotrofă ce formează console pe arbori de foioase vii și morți, mai rar pe conifere. Produce o putregai brun intens în interiorul lemnului gazdă. Comună în Europa și America de Nord.',
+      cap: 'Consolele individuale au de regulă 10–40 cm lățime (ocazional 5–60 cm), adesea crescând suprapuse în etaje mari de până la câțiva metri lățime. Partea superioară este ondulată, catifelată, de un portocaliu-strălucitor până la galben-sulfuriu, decolorându-se odată cu vârsta.',
+      hymenium: 'Tuburile sunt scurte, de 1,5–4 mm adâncime. Porii sunt mici, rotunzi sau ovali, de un galben-sulfuriu aprins. La exemplarele tinere se pot observa picături fine de lichid pe pori.',
+      stipe: 'Piciorul lipsește. Consolele se prind direct de trunchi printr-o bază îngustată sau largă.',
+      flesh: 'Carnea este albă până la galben-portocalie când este umedă și proaspătă, devenind albă, aspră și cretoasă la uscare. Mirosul este plăcut, amintind de carne sau ciupercă.',
+      sporePrint: 'Alb. Sporii sunt elipsoidali până la ovoidali, netezi, de circa 5–7 × 3,5–5 μm.',
+      habitat: 'Corpurile fructifere apar în principal vara și toamna (din aprilie până în noiembrie). Parazitează stejari, sălcii, pruni, cireși, castani și salcâmi bătrâni.',
+      uses: 'Corpurile fructifere tinere și suculente sunt comestibile bune (comestibil). Se taie felii și se gătesc bine, având textura cărnii de pui. Ciuperca trebuie consumată doar gătită, iar exemplarele mai bătrâne devin lemnoase și amare.',
+      confusion: 'Exemplarele palide pot fi confundate cu (Meripilus giganteus), ai cărui pori se înnegresc rapid la atingere sau rănire. (Phaeolus schweinitzii) crește pe conifere și are o carne brun-închisă.'
+    },
+    bg: {
+      description: 'Паразитна и сапротрофна дървесна гъба (полипор), причиняваща кафяво гниене. Расте върху стари широколистни дървета в Европа и Северна Америка.',
+      cap: 'Плодните тела образуват едри керемидообразно разположени конзоли, всяка с ширина 10–40 cm и дебелина 1–4 cm. Цветът е ярко сярножълт до оранжев, избледняващ с възрастта до тебеширенобял. Ръбът е дебел, заоблен и вълнообразен.',
+      hymenium: 'Тръбичките са къси, ярко сярножълти, с малки закръглени пори (2–4 на милиметър).',
+      stipe: 'Пънче липсва; конзолите са прираснали странично към ствола на дървото.',
+      flesh: 'Месото в младост е меко, сочно и нежно, с жълтеникав оттенък, а с възрастта става сухо, чупливо и сиренесто. Има леко кисел вкус и гъбен аромат.',
+      sporePrint: 'Бял. Спорите са широко елипсовидни, гладки, 5–7 × 3,5–5 μm.',
+      habitat: 'Плодните тела се развиват от май до октомври върху живи и повалени дъбове, върби, тополи, орехи и череши.',
+      uses: 'Ядлива гъба в млада възраст, докато месото е сочно и меко. Задължително се вари или пържи продължително; консумацията в сурово състояние или при стари екземпляри води до стомашни неразположения.',
+      confusion: 'Гигантският полипорус (Meripilus giganteus) образува подобни едри конзоли, но цветът му е кафяв, а порите почерняват при натиск.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/orman-tavugu-laetiporus-sulphureus/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/K%C3%BCk%C3%BCrt_mantar%C4%B1"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -5932,6 +6688,35 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Svavelticka'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Laetiporus_sulphureus'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/laetiporus-sulphureus'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%A1%D1%8F%D1%80%D0%BD%D0%B0_%D0%B3%D1%8A%D0%B1%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -6058,6 +6843,7 @@ export const CATALOG = [
     fruitingFrom: 8,
     fruitingTo: 11,
     label: {
+      tr: "meyboleti",
       sl: "kostanjasti goban",
       hr: "kestenjasti baršunovac",
       sr: "кестењасти вргањ",
@@ -6074,7 +6860,9 @@ export const CATALOG = [
       nl: 'Kastanjeboleet',
       da: 'brunstokket rørhat',
       no: 'svartbrun rørsopp',
-      sv: 'brunsopp'
+      sv: 'brunsopp',
+      ro: 'hrib murg',
+      bg: 'канеленокафява манатарка'
     },
     names: {
       en: ["bay boletus", "bay-brown bolete", "bay-capped bolete", "false cep"],
@@ -6082,6 +6870,18 @@ export const CATALOG = [
     ,
       cs: ["suchohřib hnědý","podborovák","panský hřib"]},
     text: {
+      tr: {
+          "description": "Ektomikorizal bir mantardır. Avrupa ve Kuzey Amerika'da iğne yapraklı ve karışık ormanlarda yaygın olarak yetişir. Özellikle çam ve ladin ağaçlarının altında asidik topraklarda ve yosunlar arasında sıkça görülür.",
+          "cap": "Şapka 4–15 cm genişliğinde olup gençken yarım küre biçimlidir, daha sonra dışbükeyleşir ve düzleşir. Rengi kestane kahvesi, koyu kahverengi veya çikolata renklidir. Yüzeyi kuru havalarda kadifemsi, nemli havalarda ise yapışkandır.",
+          "hymenium": "Borucuklar ve gözenekler başlangıçta krem veya soluk sarıdır; olgunlukta yeşilimsi sarıya döner. Gözeneklere dokunulduğunda veya berelendiğinde belirgin şekilde mavimsi yeşile lekelenir.",
+          "stipe": "Sap 4–12 cm uzunluğunda ve 1–4 cm kalınlığında, silindirik veya tabana doğru hafifçe incelen yapıdadır. Şapkadan daha açık kahverengimsi olup üzerinde ince boyuna lifler bulunur; ağ deseni taşımaz.",
+          "flesh": "Etli kısım beyazımsı veya açık sarıdır; kesildiğinde şapkanın hemen üzerinde ve borucukların üstünde hafifçe maviye döner, ardından yavaşça solar. Hoş, meyvemsi bir kokusu vardır.",
+          "habitat": "Meyve gövdeleri ağustos ayından kasım ayına kadar görülür. Çam, ladin ve bazen meşe veya kayın ormanlarında, yosunlu ve asidik zeminlerde tek tek veya gruplar halinde yetişir.",
+          "sporePrint": "Zeytin kahverengisi. Sporlar elipsoid ile mekiksi, pürüzsüz ve yaklaşık 12–15 × 4,5–5,5 μm boyutlarındadır.",
+          "uses": "Seçkin yemeklik bir mantardır. Kurutulduğunda aroması güçlenir ve Boletus edulis gibi çorbalarda ve yemeklerde yaygın olarak kullanılır. Ağır metalleri ve radyoaktif sezyumu biriktirme eğilimi yüksektir.",
+          "confusion": "Çörek mantarı (Boletus edulis) belirgin bir beyaz ağ desenine sahiptir ve gözenekleri berelendiğinde maviye dönmez. Pestifal mantarı (Tylopilus felleus) aşırı acıdır ve koyu renkli bir ağ deseni taşır.",
+          "notes": "Mantar dokularında theanine amino asidi türevleri tespit edilmiştir."
+    },
       sl: {
           "description": "Ektomikorizna goba iglastih in mešanih gozdov. Pogosta je v Evropi in Severni Ameriki ter spada med najbolj priljubljene užitne gobe.",
           "cap": "Klobuk meri 4–15 cm v premeru, sprva je polkrožen, nato blazinast in zravnan. Je temno kostanjasto rjave do čokoladno rjave barve, v vlažnem vremenu lepljiv, v suhem pa gladek ali rahlo žametast.",
@@ -6284,9 +7084,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar bildas från juli till november. Den växer i mykorrhiza med barrträd, framför allt gran och tall, ofta i mossiga skogsmiljöer och på murken ved.',
       uses: 'En mycket god matsvamp som plockas flitigt. Den passar utmärkt att steka, stuva, frysa in eller torka.',
       confusion: 'Stensopp (Boletus edulis) har ett ljust upphöjt ådernät på foten och rör som inte blånar vid tryck. Gallsopp (Tylopilus felleus) har ett grovt mörkt nätmönster på foten, porer som blir rosa och outhärdligt bitter smak.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică. Este comună în pădurile de conifere și mixte din întreaga Europă și America de Nord.',
+      cap: 'Pălăria are de obicei 4–15 cm lățime, fiind semisferică la început și apoi convexă spre plată. Cuticula este catifelată la uscăciune și devine lucioasă sau ușor vâscoasă pe vreme umedă. Culoarea este brun-castanie până la brun-închis sau brun-roșiatică.',
+      hymenium: 'Tuburile au 0,8–1,5 cm lungime. Porii sunt mici, unghiulari, inițial albicioși sau galben-deschis, apoi galben-verzui. La apăsare sau lovire, porii și tuburile se colorează rapid în albastru-verzui.',
+      stipe: 'Piciorul are 4–12 cm lungime și 1–3 cm grosime, cilindric sau ușor îngroșat spre bază, de culoare brun-deschisă sau cafeniu-gălbuie, cu dungi fine longitudinale, lipsit de o rețea reliefată.',
+      flesh: 'Carnea este albicioasă până la crem-gălbuie, virând lent în albăstrui-palid chiar deasupra tuburilor și la vârful piciorului atunci când este tăiată. Mirosul este slab și plăcut, iar gustul este dulceag.',
+      sporePrint: 'Brun-măsliniu. Sporii sunt alungiți-eliptici, de circa 12–15 × 4,5–5,5 μm.',
+      habitat: 'Corpurile fructifere apar din iulie până în noiembrie. Crește pe soluri acide în păduri de molid și pin, dar și sub fagi și stejari, adesea printre mușchi sau pe buturugi putrede de rășinoase.',
+      uses: 'Este o specie comestibilă foarte bună (comestibil), recoltată intens pentru consum proaspăt sau uscat.',
+      confusion: 'Hribul (Boletus edulis) are o rețea albă evidentă pe picior, iar porii săi nu se albăstresc la atingere. Hribul amar (Tylopilus felleus) are o rețea brun-închisă pronunțată pe picior, pori ce devin rozalii și un gust extrem de amar. Xerocomus subtomentosus are pori mai largi, unghiulari, care abia dacă se albăstresc.'
+    },
+    bg: {
+      description: 'Ектомикоризна гъба. Широко разпространена в иглолистните и смесените гори на Европа и Северна Америка.',
+      cap: 'Гуглата е с диаметър 5–15 cm, канеленокафява до тъмнокестенява, отначало полукълбовидна, после изпъкнала до плоска. При влажно време е лепкава, а при сухо – гладка и слабо матова.',
+      hymenium: 'Тръбичките са бледожълти до маслиненожълти, с малки ъгловати пори. При натиск тръбичките и порите бързо посиняват или позеленяват.',
+      stipe: 'Пънчето е цилиндрично, високо 5–12 cm и дебело 1–3 cm, светлокафяво с надлъжни кафяви влакна, без релефна мрежичка.',
+      flesh: 'Месото е белезникаво или бледожълто, под кожицата кафяво. При разрез бавно и слабо посинява, предимно над тръбичките и в пънчето.',
+      sporePrint: 'Маслиненокафяв. Спорите са вретеновидни, гладки, около 12–15 × 4,5–5,5 μm.',
+      habitat: 'Плодните тела се появяват от август до ноември, най-често под смърч и бор на кисели почви, понякога върху силно разложена дървесина.',
+      uses: 'Отлична ядлива гъба, ценена наравно с обикновената манатарка, подходяща за сушене, пържене и консервиране.',
+      confusion: 'Обикновената манатарка (Boletus edulis) има бяла мрежичка по пънчето и пори, които не посиняват при натиск. Жлъчната гъба (Tylopilus felleus) има много горчив вкус, изпъкнала тъмна мрежица и розовеещи пори.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/bayir-mantari-imleria-badia/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/%C3%87%C3%B6rek_mantar%C4%B1"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -6558,6 +7392,30 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Brunsopp'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Imleria_badia'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/imleria-badia'
+        }
       ]
     },
     synonyms: [
@@ -6651,6 +7509,7 @@ export const CATALOG = [
     fruitingFrom: 7,
     fruitingTo: 11,
     label: {
+      tr: "bal mantarı",
       sl: "sivorumena mraznica",
       hr: "medena puza",
       sr: "пуза",
@@ -6668,7 +7527,9 @@ export const CATALOG = [
       pt: 'armilária-cor-de-mel',
       da: 'ægte honningsvamp',
       no: 'ekte honningsopp',
-      sv: 'sydlig honungsskivling'
+      sv: 'sydlig honungsskivling',
+      ro: 'ghebă tomnatică',
+      bg: 'обикновена пънчушка'
     },
     names: {
       en: ["honey mushroom", "bootlace fungus"],
@@ -6724,9 +7585,23 @@ export const CATALOG = [
       ]
     ,
       cs: ["podtrnka"],
-      es: ['cabeza de medusa']
+      es: ['cabeza de medusa'],
+      ro: ['halimaș', 'ghebă cu inel'],
+      bg: ['припънка', 'пънчушка', 'светеща пънчушка']
     },
     text: {
+      tr: {
+          "description": "Canlı ağaçlarda tahripkar bir parazit, ölü odunlarda ise saprofit olarak yaşayan odun çürüten bir mantardır. Kuzey Yarımküre'nin ılıman bölgelerinde yaygındır ve kök çürüklüğüne yol açarak orman ağaçlarına ciddi zarar verir.",
+          "cap": "Şapka 3–15 cm genişliğinde olup başlangıçta dışbükeydir ve zamanla düzleşir; merkezinde genellikle hafif bir tümsek bulunur. Rengi bal sarısı, sarımsı kahverengi veya kehribar rengidir. Yüzeyi özellikle merkeze doğru koyu renkli, dökülebilen küçük pullarla kaplıdır.",
+          "hymenium": "Lameller başlangıçta beyazımsı veya krem rengindedir; yaşlandıkça sararır ve pas rengi lekeler geliştirir. Sapa hafifçe sarkar veya yapışıktır.",
+          "stipe": "Sap 5–15 cm uzunluğunda ve 1–2 cm kalınlığında, lifli, sert ve tabana doğru birleşen kümeler halindedir. Üst kısımda belirgin, kalıcı, beyaz ve sarı kenarlı pamuksu bir halka taşır.",
+          "flesh": "Etli kısım beyaz veya krem rengidir, sapta liflidir. Kokusu hoş, hafif tatlımsıdır; tadı başlangıçta tatlı olup sonradan boğazda hafif acımsı ve yakıcı bir his bırakır.",
+          "habitat": "Meyve gövdeleri sonbaharda, genellikle eylül ayından kasım ayına kadar görülür. Geniş yapraklı ağaçların (özellikle meşe, kayın) kütüklerinde ve köklerinde yoğun kümeler halinde çıkar.",
+          "sporePrint": "Beyaz veya çok soluk krem. Sporlar elipsoid, pürüzsüz ve yaklaşık 7–9 × 5–6 μm boyutlarındadır.",
+          "uses": "Şartlı yenilebilir bir mantardır. Çiğ veya az pişmiş tüketildiğinde mide bulantısı ve sindirim bozukluğuna yol açar; bu nedenle haşlanıp suyu döküldükten sonra iyice pişirilmelidir. Yalnızca yumuşak şapkaları tüketilir, sapları fazla serttir.",
+          "confusion": "Zehirli kükürt öbeği mantarı (Hypholoma fasciculare) kükürt yeşili lamellere, acı bir tada sahiptir ve belirgin bir halka taşımaz. Galerina marginata ölümcül zehirlidir, kahverengi spor izine sahiptir ve odun üzerinde yetişir.",
+          "notes": "Vejetatif miselleri ve rizomorfları karanlıkta biyolüminesans (soğuk ışık) yayma özelliğine sahiptir."
+    },
       sl: {
           "description": "Zajedavska in saprotrofna lesna goba. Široko je razširjena v Evropi, Severni Ameriki in drugih zmernih območjih. Je nevaren povzročitelj koreninske trohnobe dreves.",
           "cap": "Klobuk ima premer 3–15 cm, sprva je polkrožen, nato zvonast do zravnan z nizko grbico. Barva je medeno rumena, oker do rjavkasta, prekrita z drobnimi temnejšimi luskicami, ki so zgoščene na osredju.",
@@ -6923,9 +7798,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar bildas från sensommaren till senhösten i stora täta knippen vid basen av levande eller döda lövträd, särskilt ek, bok, björk och fruktträd.',
       uses: 'Ätlig efter noggrann och grundlig tillagning, men ska aldrig ätas rå då den i okokt tillstånd innehåller magtarmretande toxiner. Endast hattarna används då fötterna är för sega.',
       confusion: 'Fjälltofsing (Pholiota squarrosa) har torr, kraftigt fjällig hatt och fot, brunt sporpulver och växer också i knippen på ved. Mörk honungsskivling (Armillaria ostoyae) växer främst på barrträd och har mörkare, gråbrun hatt med kraftiga fjäll.'
+    },
+    ro: {
+      description: 'Ciupercă parazită devastatoare pe arbori vii și saprotrofă pe lemn mort de foioase. Miceliul său vegetativ produce bioluminescență în lemnul putred și formează rizomorfe negre subterane extinse. Este răspândită în regiunile temperate din Europa, Asia și America de Nord.',
+      cap: 'Pălăria are 3–15 cm lățime, convexă la început, apoi aplatizată, adesea cu un mamelon central scăzut. Culoarea este galben-mieriu până la brun-ocru sau brun-măsliniu, presărată în centru cu solzișori fini, întunecați, care pot fi spălați de ploaie.',
+      hymenium: 'Lamelele sunt inițial albicioase sau crem, devenind ocru-ruginii sau pătate cu roșiatic odată cu vârsta, ușor decurente pe picior.',
+      stipe: 'Piciorul are 6–18 cm lungime și 0,5–2 cm grosime, este fibros, rigid, îngroșat la bază, de culoare galben-mierie în partea superioară și brun-închis spre bază. Poartă un inel membranos alb-gălbui persistent și bine dezvoltat.',
+      flesh: 'Carnea este albă sau albicioasă, fermă în pălărie și fibroasă în picior. Mirosul este plăcut, de ciupercă, iar gustul este dulceag, lăsând ulterior o senzație astringentă.',
+      sporePrint: 'Alb până la crem-foarte palid. Sporii sunt elipsoidali, de 7–9 × 5–6 μm.',
+      habitat: 'Corpurile fructifere apar toamna (septembrie–noiembrie), crescând de obicei în tufe mari și dense la baza trunchiurilor de foioase (stejar, fag, mesteacăn) sau pe rădăcini îngropate.',
+      uses: 'Este o specie comestibilă apreciată (comestibil cu precauție), însă necesită fierbere temeinică înainte de preparare, cu aruncarea apei de fierbere. Corpurile fructifere crude sau insuficient gătite sunt toxice și determină tulburări gastrointestinale.',
+      confusion: 'Gheba pucioasă (Hypholoma fasciculare) are lamele verzui-sulfurii și un gust amar intens, fiind toxică. Gheba de brad (Galerina marginata) este o ciupercă mică, mortală, ce crește pe lemn de conifere și are o amprentă sporală brun-ruginie. Gheba ciobanilor (Kuehneromyces mutabilis) are piciorul solzos sub inel și amprentă sporală brună.'
+    },
+    bg: {
+      description: 'Паразитна и сапротрофна гъба, причиняваща бяло гниене по корените и стволовете на живи и мъртви дървета. Вегетативният мицел проявява биолуминесценция (светене в тъмното).',
+      cap: 'Гуглата е с диаметър 3–12 cm, меденожълта, жълто-кафява или охра, в центъра покрита с малки тъмни люспици, които с възрастта опадват.',
+      hymenium: 'Ламелите са белезникави, по-късно кремави до жълтеникаво-розови, леко низбягващи по пънчето.',
+      stipe: 'Пънчето е високо 6–15 cm и дебело 0,5–2 cm, влакнесто, жилаво, в основата често слято с други пънчета в снопове. Носи отчетливо трайно ципесто бяло пръстенче с жълтеникав долен ръб.',
+      flesh: 'Месото е бяло, плътно в гуглата и жилаво в пънчето, с приятен киселичък вкус и характерен аромат.',
+      sporePrint: 'Бял до бледокремав. Спорите са елипсовидни, гладки, 7–9 × 5–6 μm.',
+      habitat: 'Плодните тела се появяват на големи туфи през есента (септември–ноември) върху дънери, корени и пънове на широколистни (рядко иглолистни) дървета.',
+      uses: 'Ядлива гъба след задължително продължително варене (отварата се изхвърля). В сурово състояние или при недостатъчно готвене предизвиква токсично стомашно разстройство. Използват се предимно младите гугли.',
+      confusion: 'Отровната пънчушка (Hypholoma fasciculare) има сярножълти до зеленикави ламели и горчив вкус. Кичурестата пънчушка (Kuehneromyces mutabilis) има двуцветна влажна гугла и люспесто кафяво пънче под пръстена.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/bal-mantari-armillaria-mellea/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Mantar"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -7238,6 +8147,35 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Sydlig_honungsskivling'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Armillaria_mellea'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/armillaria-mellea'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%9E%D0%B1%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B0_%D0%BF%D1%8A%D0%BD%D1%87%D1%83%D1%88%D0%BA%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -7331,6 +8269,7 @@ export const CATALOG = [
     fruitingFrom: 4,
     fruitingTo: 11,
     label: {
+      tr: "pösteki mantarı",
       sl: "velika tintnica",
       hr: "velika gnojištarka",
       sr: "велика гнојиштарка",
@@ -7348,16 +8287,31 @@ export const CATALOG = [
       pt: 'coprino-cabeludo',
       da: 'stor parykhat',
       no: 'matblekksopp',
-      sv: 'fjällig bläcksvamp'
+      sv: 'fjällig bläcksvamp',
+      ro: 'burete cu perucă',
+      bg: 'порцеланова копринка'
     },
     names: {
       en: ["lawyer's wig", "shaggy mane", "shaggy ink cap"]
     ,
       cs: [],
       es: ['coprino barbudo', 'apagador'],
-      pt: ['gota-de-tinta']
+      pt: ['gota-de-tinta'],
+      bg: ['воловарка', 'мастиленка']
     },
     text: {
+      tr: {
+          "description": "Saprofit ve nematofag bir mantardır. Dünya çapında ılıman bölgelerde yaygın olup zengin topraklarda, çayırlarda, yol kenarlarında ve parklarda sıkça görülür.",
+          "cap": "Şapka 4–10 cm yüksekliğinde ve 3–5 cm genişliğinde olup başlangıçta silindirik veya yumurta biçimlidir; daha sonra çan şeklini alır. Yüzeyi beyaz zemin üzerinde kabarık, pöstekiyi andıran kaba beyaz ve devetüyü pullarla kaplıdır. Olgunlaştıkça kenarlardan başlayarak siyah bir sıvıya dönüşerek erir (otoliz).",
+          "hymenium": "Lameller serbest, son derece sık ve incedir; başlangıçta saf beyazdır, hızla pembeleşir ve ardından siyah mürekkep kıvamında bir sıvıya dönüşerek kendi kendini sindirir.",
+          "stipe": "Sap 10–20 cm uzunluğunda ve 1–2 cm kalınlığında, beyaz, pürüzsüz, silindirik ve içi boştur; tabana doğru hafifçe kalınlaşır. Sap üzerinde gevşek, aşağı yukarı kayabilen ince beyaz bir halka bulunur.",
+          "flesh": "Etli kısım beyaz, yumuşak ve incedir; erime başladığında hızla kararır. Belirgin bir kokusu yoktur, tadı hafiftir.",
+          "habitat": "Meyve gövdeleri ilkbahardan sonbahar sonuna kadar, özellikle yağmurlu dönemlerde görülür. Gübreli çayırlarda, bahçelerde, yol kenarlarında ve yeni işlenmiş topraklarda gruplar halinde yetişir.",
+          "sporePrint": "Siyah veya siyahımsı kahverengi. Sporlar elipsoid, pürüzsüz, belirgin bir çimlenme deliğine sahip ve yaklaşık 10–13 × 6,5–8 μm boyutlarındadır.",
+          "uses": "Seçkin yemeklik bir mantardır. Yalnızca lamelleri henüz tamamen beyaz olan genç örnekleri toplanmalı ve otoliz başlamadan hemen pişirilmelidir. Kurutmaya uygun değildir.",
+          "confusion": "Mürekkep mantarı (Coprinopsis atramentaria) daha grimsi ve pürüzsüz bir şapkaya sahiptir, pullu değildir ve alkolle birlikte tüketildiğinde koprin sendromuna yol açar.",
+          "notes": "Otoliz mekanizması sporların rüzgarla yayılmasını kolaylaştırır; miselleri toprak nematodlarını avlayabilir."
+    },
       sl: {
           "description": "Saprotrofna goba z značilnim valjastim klobukom, ki se s staranjem raztopi v črno tekočino. Pogosta je po vsem svetu na travnikih, ob poteh in na vrtovih.",
           "cap": "Klobuk meri 4–10 cm v višino in 3–6 cm v premeru, sprva je podolgovat, valjast ali jajčast, kasneje zvonast. Je bele barve, po vsej površini pokrit z mehkimi, belimi do svetlo rjavkastimi luskami. Ko dozori, se od roba navzgor samorazkroji (avtoliza) v gosto črno črnilo.",
@@ -7560,9 +8514,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar växer från maj till senhösten i gräsmattor, parker, vägrenar, komposter och på bearbetad, kväverik jord.',
       uses: 'En mycket god och delikat matsvamp, men endast unga, helt vita exemplar kan ätas. Den måste tillagas omgående efter plockning eftersom den snabbt bryts ner till bläck. Den innehåller inte koprin och kan förtäras tillsammans med alkohol.',
       confusion: 'Grå bläcksvamp (Coprinopsis atramentaria) har slät, grå eller gråbrun hatt och innehåller koprin, vilket orsakar allvarliga förgiftningssymptom i kombination med alkohol.'
+    },
+    ro: {
+      description: 'Ciupercă saprotrofă ce crește pe soluri bogate în nutrienți și îngrășăminte. Corpul fructifer se autodigeră printr-un proces de deliquescență, transformându-se într-o masă lichidă de cerneală neagră pentru dispersarea sporilor. Răspândită larg în întreaga lume.',
+      cap: 'Pălăria are 4–10 cm lățime și 6–15 cm înălțime, inițial cilindrică sau ovoidală, acoperind piciorul ca un degetar, apoi clopotită. Este albă, acoperită cu solzi mari, lânoși și moi, căpătând nuanțe rozalii și apoi dizolvându-se în negru de la margine în sus.',
+      hymenium: 'Lamelele sunt libere, foarte dese și subțiri. Sunt de un alb pur la început, devin rozalii și apoi se lichefiază rapid într-un fluid negru.',
+      stipe: 'Piciorul are 10–25 cm lungime și 1–2 cm grosime, este alb, mătăsos, gol la interior și se îngustează spre vârf. Poartă un inel îngust, alb, mobil, care adesea cade pe măsură ce piciorul se alungește.',
+      flesh: 'Carnea este albă, moale și fragedă în tinerețe. Nu are miros deosebit, iar gustul este delicat și plăcut.',
+      sporePrint: 'Negru. Sporii sunt eliptici, netezi, cu un por germinativ evident, de 10–13 × 6,5–8 μm.',
+      habitat: 'Corpurile fructifere apar din primăvară până la sfârșitul toamnei (mai–noiembrie). Crește pe pajiști fertilizate, peluze, parcuri, terenuri virane și pe marginea drumurilor.',
+      uses: 'Este o specie comestibilă excelentă (comestibil excelent) atunci când este foarte tânără, cât timp lamelele sunt complet albe. Trebuie preparată sau gătită la scurt timp după culegere pentru a preveni autodigestia. Spre deosebire de Coprinopsis atramentaria, nu conține coprină și poate fi consumată în siguranță cu alcool.',
+      confusion: 'Buretele de cerneală (Coprinopsis atramentaria) are o pălărie netedă sau fibros-cenușie fără solzi lânoși albi și provoacă sindromul coprinian (intoxicație severă) dacă este consumat concomitent cu băuturi alcoolice.'
+    },
+    bg: {
+      description: 'Сапротрофна гъба. Често срещана по поляни, тревни площи, паркове и крайпътни насипи, богати на хранителни вещества.',
+      cap: 'Гуглата отначало е цилиндрична или яйцевидна, висока 5–15 cm и широка 3–6 cm, бяла, покрита с рошави бели до охра люспи. С узряването се разтваря звънчевидно и се разтича от ръба нагоре в черно мастило (автолиза).',
+      hymenium: 'Ламелите са свободни, изключително гъсти, в началото чисто бели, след това порозовяват и накрая бързо се превръщат в черна течност.',
+      stipe: 'Пънчето е кухо, бяло, копринено блестящо, високо 10–25 cm и дебело 1–2 cm, с малко подвижно пръстенче.',
+      flesh: 'Месото е бяло, крехко, с деликатен приятен вкус и слаба миризма.',
+      sporePrint: 'Черен. Спорите са елипсовидни, гладки, с пора на поникване, около 10–13 × 6,5–8 μm.',
+      habitat: 'Плодните тела се появяват от пролетта до есента по открити тревисти места, градини и компост.',
+      uses: 'Отлична ядлива гъба, но само в съвсем млада възраст, докато ламелите са напълно бели. Трябва да се сготви в рамките на няколко часа след откъсване.',
+      confusion: 'Мастилената копринка (Coprinopsis atramentaria) има по-гладка сива гугла и предизвиква копринов синдром при консумация с алкохол.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/posteki-mantari-coprinus-comatus/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/P%C3%B6steki_mantar%C4%B1"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -7862,6 +8850,35 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Fj%C3%A4llig_bl%C3%A4cksvamp'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Coprinus_comatus'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/coprinus-comatus'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%86%D0%B5%D0%BB%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0_%D0%BA%D0%BE%D0%BF%D1%80%D0%B8%D0%BD%D0%BA%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -7952,6 +8969,7 @@ export const CATALOG = [
     fruitingFrom: 4,
     fruitingTo: 7,
     label: {
+      tr: "kuzugöbeği ebesi",
       sl: "pomladanski hrček",
       hr: "proljetna moždanica",
       sr: "рани хрчак",
@@ -7969,16 +8987,31 @@ export const CATALOG = [
       pt: 'falsa-morchela',
       da: 'ægte stenmorkel',
       no: 'sandmorkel',
-      sv: 'stenmurkla'
+      sv: 'stenmurkla',
+      ro: 'zbârciog gras',
+      bg: 'дипленка'
     },
     names: {
       en: ["turban fungus", "brain mushroom", "beefsteak morel", "elephant ears", "rain mushroom"],
       sk: ["ušiak", "ucháč", "uško", "volovo ucho", "pšeničňak", "majovka", "lesný smrh"]
     ,
       cs: [],
-      es: ['mitra', 'falsa colmenilla']
+      es: ['mitra', 'falsa colmenilla'],
+      bg: ['обикновена дипленка', 'сплесната бучка', 'мечо ухо']
     },
     text: {
+      tr: {
+          "description": "Zehirli ve saprofit bir ascomycete mantarıdır. Avrupa ve Kuzey Amerika'da iğne yapraklı ormanlarda, özellikle kumlu topraklarda ilkbahar aylarında ortaya çıkar.",
+          "cap": "Şapka 3–12 cm genişliğinde ve 4–10 cm yüksekliğinde olup düzensiz yuvarlak veya lobludur; yüzeyi derin beyin kıvrımları gibi kıvrımlı ve dalgalıdır. Rengi kırmızımsı kahverengi, kestane kahvesi veya koyu çikolata rengidir. Şapkanın içi tek bir boşluk olmayıp birden fazla bölmeye ayrılmıştır.",
+          "hymenium": "Himenyum şapkanın kıvrımlı dış yüzeyini kaplar. Askuslar silindirik ve sekiz sporludur.",
+          "stipe": "Sap 2–6 cm uzunluğunda ve 1,5–3 cm kalınlığında, beyazımsı veya soluk sarımsı, oluklu, içi boş ve kabadır.",
+          "flesh": "Etli kısım kırılgan, mumsu ve açık renklidir. Hoş bir kokusu vardır.",
+          "habitat": "Meyve gövdeleri nisan ve mayıs aylarında, karların erimesinin ardından görülür. Çam ormanlarında, kumluk zeminlerde, yol kenarlarında ve odun atıklarının bulunduğu yerlerde yetişir.",
+          "sporePrint": "Krem veya soluk sarımsı. Askosporlar eliptik, pürüzsüz ve yaklaşık 18–22 × 9–12 μm boyutlarındadır.",
+          "uses": "Ölümcül zehirlidir. İçerdiği giromitrin toksini vücutta monometilhidrazine dönüşür. Pişirme veya kurutma toksinleri tamamen yok etmez ve kaynama sırasında çıkan buharlar dahi solunduğunda ağır zehirlenmeye yol açar. Karaciğer, böbrek ve sinir sistemine ölümcül zararlar verir.",
+          "confusion": "Gerçek kuzugöbeği (Morchella esculenta) bal peteği şeklinde düzenli çukurlara ve kıvrımlara sahiptir, beyinsi değildir ve içi tamamen tek parça boşluktur.",
+          "notes": "Geleneksel olarak bazı ülkelerde kaynatılarak tüketilse de bu son derece tehlikeli ve ölümcül bir uygulamadır."
+    },
       sl: {
           "description": "Zgodnja spomladanska zaprtotrosnica (Ascomycota). Razširjena je v iglastih gozdovih Evrope in Severne Amerike, zlasti na peščenih tleh pod bori.",
           "cap": "Klobuk meri 3–12 cm v premeru, je nepravilno okrogel do sploščen, z značilno močno nagubano, možganasto površino. Barva je rdečkastorjava, kostanjeva do temno rjava. V notranjosti je votel z več prekati.",
@@ -8176,9 +9209,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar utvecklas från april till juni, främst i tallhedar, på sandiga stigar, hjulspår, hyggen och brandplatser.',
       uses: 'Dödligt giftig. Svampen innehåller det potenta giftet gyromitrin som i kroppen bryts ned till monometylhydrazin (raketbränsle). Gifterna försvinner inte helt vid kokning eller torkning, och ångorna under tillagning är mycket giftiga. I Sverige avråder Livsmedelsverket numera helt från att äta stenmurkla.',
       confusion: 'Ätbara toppmurklor (Morchella) har en regelbundet kamrad mössa med tydliga gropar och åsar i ett vaxkakemönster. Biskopsmössa (Gyromitra infula) fruktifierar på hösten och har vanligen en sadelformad mössa med två till tre uppstående flikar.'
+    },
+    ro: {
+      description: 'Ciupercă ascomicetă timpurie de primăvară din pădurile de conifere pe soluri nisipoase. Comună în Europa Centrală și de Nord, precum și în America de Nord.',
+      cap: 'Pălăria are 3–10 cm lățime și 4–8 cm înălțime, cu aspect sinuos, puternic cutat și pliat în cute neregulate ce seamănă frapant cu creierul uman sau cu un miez de nucă. Culoarea este brun-roșiatică, brun-castanie sau ciocolatie.',
+      hymenium: 'Suprafața fertilă acoperă toate cutele exterioare ale pălăriei. Ascele conțin câte opt ascospori elipsoidali.',
+      stipe: 'Piciorul are 3–8 cm lungime și 1,5–3 cm grosime, este scurt, albicios până la gălbui-palid sau rozaliu, brăzdat longitudinal și neregulat gol pe dinăuntru.',
+      flesh: 'Carnea este albicioasă, subțire, ceroasă și foarte fragilă. Mirosul este plăcut, de ciupercă proaspătă.',
+      sporePrint: 'Galben-deschis până la ocru-palid. Sporii sunt eliptici, netezi, de circa 18–22 × 9–12 μm.',
+      habitat: 'Corpurile fructifere apar din martie până în mai. Crește pe soluri nisipoase sub pini și molizi, de-a lungul potecilor forestiere și pe terenuri defrișate.',
+      uses: 'Ciuperca este otrăvitoare și potențial mortală (mortal). Conține giromitrină, o toxină hidrazinică ce se descompune în monometilhidrazină (un compus folosit ca propulsant de rachete). Toxinele persistă chiar și după fierbere sau uscare, iar vaporii emanați în timpul preparării sunt toxici prin inhalare.',
+      confusion: 'Zbârciogul galben (Morchella esculenta) și zbârciogul conic (Morchella elata) au alveole adânci regulate separate de creste sterile asemănătoare unui fagure, nu pliuri cerebriforme sinuoase. Gyromitra gigas este mai mare, cu nuanțe mai deschise galben-ocrice și ascospori prevăzuți cu apendici.'
+    },
+    bg: {
+      description: 'Пролетна торбеста гъба (аскомицет). Смъртоносно отровна. Расте по песъчливи почви в иглолистни гори в северните и планинските райони на Европа и Северна Америка.',
+      cap: 'Гуглата е с диаметър 4–10 cm, нагъната и диплена, наподобяваща повърхността на човешки мозък. Цветът е червеникавокафяв до тъмнокестеняв.',
+      hymenium: 'Фертилната повърхност покрива външните гънки на гуглата, където спорите узряват в аски.',
+      stipe: 'Пънчето е белезникаво или сивкаво, късо, кухо и надлъжно набраздено, високо 3–6 cm.',
+      flesh: 'Месото е тънко, крехко и восъчно, белезникаво до кафеникаво, с приятна миризма.',
+      sporePrint: 'Светложълт. Спорите са елипсовидни, гладки, 18–22 × 9–12 μm, съдържащи две маслени капки.',
+      habitat: 'Плодните тела израстват през пролетта (април–май) в иглолистни гори, предимно под бор, по горски пътища и сечища.',
+      uses: 'Смъртоносно отровна гъба. Съдържа токсина гиромитрин, който в организма се превръща в монометилхидразин. Термичната обработка и сушенето не премахват напълно токсините, а отделящите се при варене пари са токсични. Всякаква консумация е животозастрашаваща.',
+      confusion: 'Смръчкулите (Morchella) имат правилни килийки и ребра (като пчелна пита), а не нагънати мозъковидни дипли, и се появяват по същото време на пролетта.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/kuzugobegi-ebesi-gyromitra-esculenta/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Gyromitra_esculenta"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -8468,6 +9535,30 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Stenmurkla'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Gyromitra_esculenta'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/gyromitra-esculenta'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%94%D0%B8%D0%BF%D0%BB%D0%B5%D0%BD%D0%BA%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -8553,6 +9644,7 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 10,
     label: {
+      tr: "kızaran gelin mantarı",
       sl: "rdečkasta mušnica",
       hr: "biserna muhara",
       sr: "бисеровка",
@@ -8570,15 +9662,31 @@ export const CATALOG = [
       pt: 'amanita-vinosa',
       da: 'rødmende fluesvamp',
       no: 'rødnende fluesopp',
-      sv: 'rodnande flugsvamp'
+      sv: 'rodnande flugsvamp',
+      ro: 'cuc',
+      bg: 'бисерна гъба'
     },
     names: {
       en: ["blushing amanita"]
     ,
       cs: ["masák","růžovka"],
-      es: ['golmizo']
+      es: ['golmizo'],
+      ro: ['plopenchi'],
+      bg: ['бисерка', 'перла']
     },
     text: {
+      tr: {
+          "description": "Ektomikorizal bir mantardır. Avrupa genelinde yaprak döken ve iğne yapraklı ormanlarda oldukça yaygındır. Meşe, kayın, çam ve ladin ile mikorizal bağ kurar.",
+          "cap": "Şapka 5–15 cm genişliğinde olup başlangıçta yarım küre şeklindedir ve daha sonra düzleşir. Rengi devetüyü, kırmızımsı kahverengi veya et rengidir. Üzerinde evrensel peçeden kalan kirli beyaz veya grimsi, kolayca dökülebilen pullar bulunur. Şapka kenarı çizgili değildir.",
+          "hymenium": "Lameller beyaz, serbest ve sıktır; berelendiğinde veya yaşlandıkça yavaşça pembe-kırmızıya lekelenir.",
+          "stipe": "Sap 7–15 cm uzunluğunda ve 1–2,5 cm kalınlığında, beyazımsı veya pembe tonlardadır; berelendiğinde şarabi kırmızıya döner. Üst kısmında belirgin, sarkık, beyaz ve üst yüzeyi boyuna çizgili geniş bir halka taşır. Taban soğanı belirgin bir volva kılıfı barındırmaz.",
+          "flesh": "Etli kısım beyazdır; hava ile temas ettiğinde, kesildiğinde veya böcekler tarafından zedelendiğinde karakteristik olarak pembemsi kırmızı veya şarabi bir renk alır. Belirgin bir kokusu yoktur.",
+          "habitat": "Meyve gövdeleri yaz başından sonbahar sonuna kadar görülür. Asidik veya nötr zeminlerde yaprak döken ve iğne yapraklı ormanlarda tek tek veya dağınık gruplar halinde yetişir.",
+          "sporePrint": "Beyaz. Sporlar elipsoid, pürüzsüz, yaklaşık 8–10 × 6–7 μm boyutlarında olup amiloiddir.",
+          "uses": "Şartlı yenilebilir bir mantardır. Alyuvarları parçalayan ısıya duyarlı rubescens-lizini toksini içerdiğinden çiğ tüketildiğinde zehirlenmeye yol açar; bu nedenle mutlaka iyice pişirilmelidir.",
+          "confusion": "Zehirli panter mantarı (Amanita pantherina) saf beyaz pullara, çizgili şapka kenarına sahiptir ve eti asla kızarmaz. Amanita excelsa çizgili bir halkaya sahiptir ancak eti kesildiğinde kızarmaz.",
+          "notes": "Etinin ve berelenen yerlerinin kızarması en belirgin ayırt edici özelliğidir."
+    },
       sl: {
           "description": "Ektomikorizna goba, pogosta po vsej Evropi in Severni Ameriki v listnatih in iglastih gozdovih.",
           "cap": "Klobuk meri 5–15 cm v premeru, sprva je polkrožen, nato zravnan. Barva je mesnato rdečkasta, rjavkasta ali sivorjava, posuta z umazano belimi do sivorjavkastimi krpicami. Rob ni nažlebljen.",
@@ -8780,9 +9888,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar kommer fram från juli till oktober i barr- och lövskogar, ofta tillsammans med gran, tall, björk och ek.',
       uses: 'Ätlig efter noggrann upphettning. Den innehåller värmekänsliga hemolytiska gifter (rubescenslysin) och är giftig i rått tillstånd.',
       confusion: 'Den giftiga panterflugsvampen (Amanita pantherina) har rent vitt oföränderligt kött som aldrig rodnar, en slät o её strimmad ring, samt kantad fotknöl med skarpa ringvalkar. Grå flugsvamp (Amanita excelsa) har oföränderligt vitt kött och luktar rädisa.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică comună în pădurile de foioase și conifere. Este larg răspândită în Europa și părți din Asia, crescând pe o gamă variată de soluri.',
+      cap: 'Pălăria are 5–15 cm lățime, convexă la început și apoi aplatizată. Culoarea variază de la ocru-roșiatic până la brun-castaniu sau cărămiziu. Cuticula este presărată cu numeroși negi sau solzi mici, cenușii până la brun-roșiatici, resturi ale vălului universal.',
+      hymenium: 'Lamelele sunt albe, libere și dese, căpătând adesea pete roșiatice odată cu vârsta sau la presare.',
+      stipe: 'Piciorul are 6–16 cm lungime și 1–3 cm grosime, albicios în partea superioară și nuanțat cu roșiatic spre bază. Inelul este larg, membranos, atârnător, alb și striat vizibil pe fața superioară. Baza este bulboasă, lipsită de o volvă bine conturată, prezentând pete roșiatice evidente.',
+      flesh: 'Carnea este albă, căpătând o colorație roz-roșiatică sau vinacee caracteristică la contactul cu aerul, mai ales în picior și în galeriile săpate de larve. Mirosul nu este distinctiv.',
+      sporePrint: 'Alb. Sporii sunt elipsoidali, amiloizi, de aproximativ 8–10 × 5,5–7 μm.',
+      habitat: 'Corpurile fructifere apar din iunie până în noiembrie. Crește în păduri de stejar, fag, pin și molid, atât pe soluri acide cât și pe soluri calcaroase.',
+      uses: 'Este o specie comestibilă bună (comestibil cu precauție), însă necesită preparare termică temeinică. Conține hemolizine termolabile care distrug globulele roșii, toxine ce sunt distruse complet numai prin fierbere sau frigere adecvată; consumată crudă este toxică.',
+      confusion: 'Buretele pestriț (Amanita pantherina) este toxic, are carnea neschimbătoare la tăiere (rămâne albă), inel nestriat pe fața superioară și o volvă bine delimitată cu margine circulară la baza piciorului.'
+    },
+    bg: {
+      description: 'Ектомикоризна гъба. Често срещана в широколистни и иглолистни гори в цяла Европа и Северна Америка.',
+      cap: 'Гуглата е с диаметър 6–15 cm, първоначално полукълбовидна, после плоска. Цветът е червеникавокафяв до бледоохрен, покрита със сивкави или белезникави парченца от покривалото.',
+      hymenium: 'Ламелите са бели, свободни, гъсти, като при нараняване бавно се покриват с червеникави петна.',
+      stipe: 'Пънчето е бяло, към основата розовеещо, високо 8–16 cm и дебело 1–3 cm, завършващо с луковица без свободна волва. Носи широко, набраздено отгоре бяло пръстенче.',
+      flesh: 'Месото е бяло, но при излагане на въздух бавно се оцветява в розово-червеникаво или винено, особено в ходовете на ларвите. Миризмата е слаба.',
+      sporePrint: 'Бял. Спорите са овални, гладки, амилоидни, около 8–10 × 6–7 μm.',
+      habitat: 'Плодните тела се появяват от юни до ноември в разнообразни гори, под бук, дъб, бор и смърч.',
+      uses: 'Ядлива след задължителна пълна топлинна обработка. В сурово състояние съдържа термолабилни хемолизини, които разрушават червените кръвни клетки.',
+      confusion: 'Пантерката (Amanita pantherina) е силно отровна; отличава се по чисто бялото си месо, което никога не почервенява, и по отчетливия улей над луковицата.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/kizaran-gelin-mantari-amanita-rubescens/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Amanita_rubescens"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -9049,6 +10191,35 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Rodnande_flugsvamp'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Amanita_rubescens'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/amanita-rubescens'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%91%D0%B8%D1%81%D0%B5%D1%80%D0%BD%D0%B0_%D0%B3%D1%8A%D0%B1%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -9139,6 +10310,7 @@ export const CATALOG = [
     fruitingFrom: 1,
     fruitingTo: 12,
     label: {
+      tr: "kükürt öbeği mantarı",
       sl: "navadna žveplenjača",
       hr: "prava sumporača",
       sr: "сумпорача",
@@ -9155,16 +10327,31 @@ export const CATALOG = [
       nl: 'Gewone zwavelkop',
       da: 'knippe-svovlhat',
       no: 'besk svovelsopp',
-      sv: 'svavelgul slöjskivling'
+      sv: 'svavelgul slöjskivling',
+      ro: 'ghebă pucioasă',
+      bg: 'отровна пънчушка'
     },
     names: {
       en: ["sulfur tuft", "clustered woodlover"]
     ,
       cs: [],
       es: ['seta fasciculada'],
-      sv: ['gyttrad svavelskivling']
+      sv: ['gyttrad svavelskivling'],
+      bg: ['лъжлива пънчушка']
     },
     text: {
+      tr: {
+          "description": "Odun çürüten saprofit bir mantardır. Kuzey Yarımküre'de son derece yaygındır. Geniş yapraklı ve iğne yapraklı ağaçların ölü kütüklerinde, köklerinde ve gömülü odun parçalarında yoğun kümeler halinde yetişir.",
+          "cap": "Şapka 2–6 cm genişliğinde olup başlangıçta yarım küre biçimlidir ve zamanla dışbükeyleşerek düzleşir. Rengi parlak kükürt sarısı veya yeşilimsi sarıdır; merkez kısmı genellikle turuncu-kahverengidir. Kenarları gençken soluk sarı peçe kalıntıları taşır.",
+          "hymenium": "Lameller sık ve sapa yapışıktır; başlangıçta kükürt sarısı veya yeşilimsi sarıdır, daha sonra sporların olgunlaşmasıyla zeytin yeşili ve koyu mor-kahverengine döner.",
+          "stipe": "Sap 5–10 cm uzunluğunda ve 4–8 mm kalınlığında, ince, silindirik ve genellikle kıvrıktır. Şapka gibi kükürt sarısı renktedir, tabana doğru pas kahverengisine döner; üst kısımda silik, lifli ve koyulaşan bir peçe izi taşır.",
+          "flesh": "Etli kısım ince, kükürt sarısı renktedir. Hoş olmayan bir kokusu ve aşırı derecede acı bir tadı vardır.",
+          "habitat": "Meyve gövdeleri ilkbahardan kış başına kadar, çoğunlukla sonbaharda görülür. Ormanlarda, parklarda ve bahçelerde çürüyen kütükler üzerinde büyük öbekler halinde çıkar.",
+          "sporePrint": "Koyu morumsu kahverengi. Sporlar elipsoid, pürüzsüz, belirgin bir çimlenme deliği taşıyan ve yaklaşık 6–8 × 4–5 μm boyutlarındadır.",
+          "uses": "Zehirlidir. İçerdiği fasikülol toksinleri nedeniyle tüketildiğinde şiddetli mide bulantısı, kusma, karın ağrısı ve ishale yol açar. Aşırı acı tadı pişirmeyle kaybolmaz.",
+          "confusion": "Yenilebilir tuğla kırmızısı kükürt mantarı (Hypholoma lateritium) daha tuğla kırmızısı bir şapkaya sahiptir. Püsküllüoynak mantarı (Kuehneromyces mutabilis) sarı-kahverengi pullu bir sapa ve kahverengi spor izine sahiptir. Bal mantarı (Armillaria mellea) beyaz spor izi taşır.",
+          "notes": "Odun dokusunu hızla parçalayarak beyaz çürüklüğe yol açar."
+    },
       sl: {
           "description": "Zelo pogosta lesna saprotrofna goba, razširjena v Evropi, Severni Ameriki in drugod po svetu. Raste v gostih šopih na lesu.",
           "cap": "Klobuk meri 2–6 cm v premeru, sprva je polkrožen, kasneje zravnan z nizko grbo. Je žvepleno rumene barve, na osredju oranžnorjavkast ali rdečkast, proti robu svetlejši z ostanki koprene.",
@@ -9361,9 +10548,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar påträffas från maj till senhösten i stora knippen på stubbar, rötter och död ved av både löv- och barrträd.',
       uses: 'Giftig och oätlig. Innehåller fascikuloler som orsakar kraftiga mag- och tarmbesvär med illamående, kräkningar och diarré.',
       confusion: 'Rökslöjskivling (Hypholoma capnoides) växer på barrstubbar och skiljer sig genom rökgrå skivor utan gröntoning och en mild, angenäm nötsmak. Tegelröd slöjskivling (Hypholoma lateritium) är större med tegelröd hatt. Föränderlig tofsskivling (Kuehneromyces mutabilis) har tvåfärgad, fuktighetsberoende hatt och brunfjällig fot.'
+    },
+    ro: {
+      description: 'Ciupercă saprotrofă lignicolă foarte comună ce crește în tufe compacte pe lemn putred de foioase și conifere. Este frecventă în întreaga Europă, America de Nord și Asia.',
+      cap: 'Pălăria are 2–6 cm lățime, convexă la început și apoi aplatizată, adesea cu un mamelon scăzut. Culoarea este galben-sulfurie strălucitoare, cu centrul mai închis, de la portocaliu-ruginiu la brun-roșiatic. Marginea păstrează adesea resturi fine de văl parțial galben.',
+      hymenium: 'Lamelele sunt dese, adnate sau slab decurente. La început sunt galben-sulfurii, devenind ulterior măsliniu-verzui caracteristice și în final brun-purpurii pe măsură ce sporii se maturizează.',
+      stipe: 'Piciorul are 5–10 cm lungime și 0,3–0,8 cm grosime, este zvelt, curbat, galben-sulfuriu în partea superioară și brun-ruginiu spre bază. Zona inelară este slab marcată de resturile cortinei care devin negricioase de la spori.',
+      flesh: 'Carnea este galbenă, subțire în pălărie și fibroasă în picior. Mirosul este neplăcut, iar gustul este extrem de amar și persistent.',
+      sporePrint: 'Brun-purpuriu închis. Sporii sunt elipsoidali, netezi, de 6–8 × 4–4,5 μm.',
+      habitat: 'Corpurile fructifere apar din primăvară până la primele înghețuri de iarnă (mai–decembrie). Crește în tufe dense de zeci de exemplare pe buturugi, rădăcini și trunchiuri putrede.',
+      uses: 'Ciuperca este otrăvitoare (otrăvitor). Conține fasciculoli care provoacă sindrom gastrointestinal sever însoțit de greață, vărsături și colici. Gustul extrem de amar împiedică în mod normal ingestia accidentală.',
+      confusion: 'Gheba de vară (Kuehneromyces mutabilis) este comestibilă, are pălărie higrofană brun-gălbuie, lamele brune fără tentă verzuie și un inel evident cu piciorul solzos sub inel. Gheba tomnatică (Armillaria mellea) crește de asemenea în tufe, dar are o amprentă sporală albă și un inel membranos alb-gălbui.'
+    },
+    bg: {
+      description: 'Дърворазрушаваща сапротрофна гъба, израстваща на гъсти снопове по мъртва дървесина. Много честа в горите на Европа и Северна Америка.',
+      cap: 'Гуглата е с диаметър 2–6 cm, изпъкнала до плоска, сярножълта с по-тъмен оранжево-кафяв център. Ръбът при младите гъби носи дребни белезникави остатъци от частично покривало.',
+      hymenium: 'Ламелите са гъсти, прираснали, отначало сярножълти, после маслиненозеленикави до тъмнопурпурно-кафяви.',
+      stipe: 'Пънчето е тънко, жилаво, кухо, сярножълто в горната част и кафеникаво към основата, високо 5–10 cm и дебело 3–7 mm.',
+      flesh: 'Месото е жълто, тънко, със силно горчив вкус и неприятна миризма.',
+      sporePrint: 'Тъмнолилаво-кафяв. Спорите са елипсовидни, гладки, 6–8 × 4–4,5 μm.',
+      habitat: 'Плодните тела се развиват от пролетта до късна есен на големи снопове върху пънове и паднали стволове на широколистни и иглолистни дървета.',
+      uses: 'Отровна гъба. Съдържа токсини, предизвикващи тежко стомашно-чревно разстройство със силни болки, гадене и повръщане. Силно горчивият вкус се запазва при готвене.',
+      confusion: 'Обикновената пънчушка (Armillaria mellea) има бели ламели и ципест пръстен. Тухленочервената пънчушка (Hypholoma lateritium) има по-едра тухленочервена гугла и не е сярножълта.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/kukurt-obegi-mantari-hypholoma-fasciculare/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Hypholoma_fasciculare"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -9628,6 +10849,30 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Svavelgul_sl%C3%B6jskivling'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Hypholoma_fasciculare'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/hypholoma-fasciculare'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%9E%D1%82%D1%80%D0%BE%D0%B2%D0%BD%D0%B0_%D0%BF%D1%8A%D0%BD%D1%87%D1%83%D1%88%D0%BA%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -9727,6 +10972,7 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 10,
     label: {
+      tr: "çayır mantarı",
       sl: "travniški kukmak",
       hr: "poljska pečurka",
       sr: "рудњача",
@@ -9744,7 +10990,9 @@ export const CATALOG = [
       pt: 'cacavina-dos-prados',
       da: 'mark-champignon',
       no: 'beitesjampinjong',
-      sv: 'ängschampinjon'
+      sv: 'ängschampinjon',
+      ro: 'ciupercă de bălegar',
+      bg: 'полска печурка'
     },
     names: {
       en: ["meadow mushroom", "pink bottom"],
@@ -9773,9 +11021,22 @@ export const CATALOG = [
       cs: ["žampion polní"],
       es: ['champiñón de prado'],
       nl: ['Weidechampignon'],
-      pt: ['cogumelo-dos-prados']
+      pt: ['cogumelo-dos-prados'],
+      ro: ['șampinion de câmp']
     },
     text: {
+      tr: {
+          "description": "Saprofit bir mantardır. Dünya genelinde meralarda, otlaklarda ve çayırlarda son derece yaygın bir türdür. Organik maddece zengin topraklarda peri halkaları veya gruplar halinde yetişir.",
+          "cap": "Şapka 5–10 cm genişliğinde olup başlangıçta yarım küre biçimlidir, daha sonra dışbükeyleşir ve düzleşir. Yüzeyi beyaz veya soluk krem renklidir; kuru, pürüzsüz veya hafif lifli-pulludur.",
+          "hymenium": "Lameller serbest, son derece sık ve geniştir; gençken parlak pembe renktedir, sporlar olgunlaştıkça koyu çikolata kahverengisine ve neredeyse siyaha döner.",
+          "stipe": "Sap 3–8 cm uzunluğunda ve 1–2 cm kalınlığında, beyaz, silindirik ve tabana doğru hafifçe daralan yapıdadır. Üst kısımda ince, kırılgan ve tek katlı beyaz bir halka bulunur; bu halka olgunlukta kolayca kaybolabilir. Volva bulunmaz.",
+          "flesh": "Etli kısım beyaz ve kalındır; kesildiğinde bazen çok hafif pembemsi bir renk alabilir ancak asla sararmaz. Hoş, mantarımsı bir kokusu ve tatlımsı bir lezzeti vardır.",
+          "habitat": "Meyve gövdeleri yaz sonu ve sonbaharda, yağmurların ardından görülür. Otlaklarda, at veya koyun meralarında, çimenlik alanlarda ve bahçelerde yetişir; orman içinde bulunmaz.",
+          "sporePrint": "Koyu çikolata kahverengisi. Sporlar elipsoid, pürüzsüz ve yaklaşık 6,5–8,5 × 4,5–5,5 μm boyutlarındadır.",
+          "uses": "Seçkin yemeklik bir mantardır. Kültür mantarına benzeyen mükemmel bir lezzete sahiptir; ızgarada, sotede veya çorbalarda yaygın olarak tüketilir.",
+          "confusion": "Ölümcül köygöçüren mantarı (Amanita phalloides) beyaz lamellere ve tabanda bir volvaya sahiptir. Zehirli sararan çayır mantarı (Agaricus xanthodermus) ezildiğinde tabanında hızla parlak sarıya döner ve fenol (mürekkep/ilaç) kokar.",
+          "notes": "Otlaklarda organik maddeleri ayrıştırarak toprağın azot döngüsüne katkıda bulunur."
+    },
       sl: {
           "description": "Saprotrofna goba, naravno razširjena po travnikih in pašnikih Evrope in Azije. Nabirajo jo že stoletja kot cenjeno divjo gobo.",
           "cap": "Klobuk meri 5–10 cm v premeru, sprva je polkrožen, nato izbočen in zravnan. Je bele ali umazano bele barve, včasih s svetlo rjavkastimi luskicami, suh in svilnat.",
@@ -9978,9 +11239,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar växer från juli till oktober i gräsmarker, hästhagar, ängar och parker, ofta i häxringar.',
       uses: 'En mycket god matsvamp som kan tillagas på många sätt. Bör dock inte ätas rå i större mängder.',
       confusion: 'Giftchampinjon (Agaricus xanthodermus) gulnar snabbt och intensivt vid fotbasen och luktar obehagligt av karbol (bläck/tusch). Dödligt giftiga vita flugsvampar, såsom lömsk flugsvamp (Amanita phalloides) och vit flugsvamp (Amanita virosa), skiljer sig genom att de alltid har rent vita skivor och en strumpa vid fotbasen.'
+    },
+    ro: {
+      description: 'Ciupercă saprotrofă comună din pajiști și pășuni. Este răspândită pe scară largă în întreaga Europă, Asia și America de Nord.',
+      cap: 'Pălăria are 4–10 cm lățime, fiind semisferică în tinerețe și aplatizându-se ulterior. Cuticula este albă sau crem-deschis, uscată, netedă sau fin scămoasă, căpătând nuanțe ocru-deschise odată cu vârsta.',
+      hymenium: 'Lamelele sunt libere, dese și înguste. La exemplarele foarte tinere sunt roz-deschis, virând treptat în roz intens și apoi în brun-ciocolatiu închis sau brun-negricios la maturitate.',
+      stipe: 'Piciorul are 3–8 cm lungime și 1–2 cm grosime, cilindric sau îngustat spre bază, alb. Poartă un inel membranos alb, îngust și fragil, care adesea se rupe sau dispare.',
+      flesh: 'Carnea este albă și groasă, căpătând o tentă foarte slabă rozacee la tăiere. Mirosul și gustul sunt foarte plăcute, tipice de ciupercă proaspătă.',
+      sporePrint: 'Brun-ciocolatiu închis. Sporii sunt eliptici, netezi, de 6,5–8,5 × 4,5–5,5 μm.',
+      habitat: 'Corpurile fructifere apar din iulie până în noiembrie în Marea Britanie și Europa temperată. Crește pe pășuni, fânețe, peluze și terenuri îngrășate natural cu bălegar de vite sau cai, formând adesea cercuri ale vrăjitoarelor.',
+      uses: 'Este o specie comestibilă excelentă (comestibil excelent), foarte apreciată și consumată pe scară largă în numeroase mâncăruri tradiționale.',
+      confusion: 'Buretele viperei (Amanita phalloides) este mortal și are lamele albe neschimbătoare, o volvă mare saciformă la baza piciorului și pălărie adesea galben-verzuie. Agaricus xanthodermus este toxic și se distinge prin îngălbenirea intensă și instantanee a bazei piciorului la secțiune, precum și prin mirosul neplăcut de fenol sau cerneală.'
+    },
+    bg: {
+      description: 'Сапротрофна почвена гъба, израстваща по пасища, ливади и тревни площи. Широко разпространена в умерените пояси на цялото земно кълбо.',
+      cap: 'Гуглата е с диаметър 4–10 cm, бяла, полукълбовидна в младост, след това изпъкнала до плоска. Кожицата е суха, копринена или слабо люспеста, лесно отделяща се от месото.',
+      hymenium: 'Ламелите са свободни, гъсти, в младост ярки наситено розови, а по-късно шоколадовокафяви до тъмнокафяви.',
+      stipe: 'Пънчето е бяло, цилиндрично или леко изтъняващо към основата, високо 3–8 cm и дебело 1–2 cm, с нежно единично бяло пръстенче, което бързо опадва.',
+      flesh: 'Месото е бяло, плътно, на въздух слабо порозовяващо. Миризмата е приятна, типично гъбна, а вкусът – мек и сладникав.',
+      sporePrint: 'Тъмно шоколадовокафяв. Спорите са елипсовидни, гладки, 6,5–8 × 4,5–5,5 μm.',
+      habitat: 'Плодните тела се появяват от май до ноември по открити затревени терени, пасища за добитък и ливади.',
+      uses: 'Добра ядлива гъба, широко събирана за кулинарни цели.',
+      confusion: 'Смъртоносните бяла мухоморка (Amanita virosa) и зелена мухоморка (Amanita phalloides) имат бели ламели и волва в основата на пънчето. Карболовата печурка (Agaricus xanthodermus) е отровна и се познава по пожълтяването на основата на пънчето и неприятния мирис на карбол/мастило.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/cayir-mantari-agaricus-campestris/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Agaricus_campestris"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -10269,6 +11564,35 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/%C3%84ngschampinjon'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Agaricus_campestris'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/agaricus-campestris'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%86%D0%B5%D0%BB%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0_%D0%BA%D0%BE%D0%BF%D1%80%D0%B8%D0%BD%D0%BA%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -10364,6 +11688,7 @@ export const CATALOG = [
     fruitingFrom: 7,
     fruitingTo: 11,
     label: {
+      tr: "pullu örgübacak mantarı",
       sl: "brezov ded",
       hr: "brezov djed",
       sr: "брезов дед",
@@ -10380,7 +11705,9 @@ export const CATALOG = [
       nl: 'Gewone berkenboleet',
       da: 'brun skælrørhat',
       no: 'brunskrubb',
-      sv: 'björksopp'
+      sv: 'björksopp',
+      ro: 'burete călugăresc',
+      bg: 'брезовка'
     },
     names: {
       en: ["birch bolete", "rough-stemmed bolete", "scaber stalk"],
@@ -10388,9 +11715,23 @@ export const CATALOG = [
     ,
       cs: [],
       es: ['boleto áspero'],
-      sv: ['mörk björksopp', 'rodnande strävsopp', 'strävsopp']
+      sv: ['mörk björksopp', 'rodnande strävsopp', 'strävsopp'],
+      ro: ['pitarcă'],
+      bg: ['обикновена брезовка']
     },
     text: {
+      tr: {
+          "description": "Ektomikorizal bir mantardır. Avrupa, Asya ve Kuzey Amerika'da özellikle huş ağaçlarıyla mutlak mikorizal ortaklık kurarak geniş alanlarda yetişir.",
+          "cap": "Şapka 5–15 cm genişliğinde olup başlangıçta yarım küre şeklindedir ve daha sonra dışbükeyleşir. Rengi açık kahverengiden grimsi kahverengiye veya koyu taba rengine kadar değişir. Yüzeyi pürüzsüz, kuru ve nemli havalarda hafifçe yapışkandır.",
+          "hymenium": "Borucuklar ve küçük gözenekler başlangıçta beyazımsıdır; olgunlaştıkça kirli krem veya soluk gri-kahverengine döner. Ezildiğinde renk değiştirmez.",
+          "stipe": "Sap 7–18 cm uzunluğunda ve 1,5–3,5 cm kalınlığında, uzun, silindirik veya tabana doğru hafifçe kalınlaşan yapıdadır. Beyaz zemin üzerinde boyuna dizilmiş çok sayıda küçük, sert, grimsi-siyah pullarla (örgübacak deseni) kaplıdır.",
+          "flesh": "Etli kısım beyazdır; kesildiğinde genellikle renk değiştirmez veya yalnızca çok hafif pembemsi-grimsi bir ton alabilir, asla mavileşmez. Yaşlandıkça şapkada yumuşar, sapta ise lifli hale gelir.",
+          "habitat": "Meyve gövdeleri yaz ortasından sonbahar sonuna kadar görülür. Huş ağaçlarının bulunduğu ormanlarda, bataklık kenarlarında ve tundralarda yetişir.",
+          "sporePrint": "Kahverengi veya zeytinimsi kahverengi. Sporlar uzun mekiksi, pürüzsüz ve yaklaşık 14–19 × 5–6 μm boyutlarındadır.",
+          "uses": "Yenilebilir bir mantardır. Gençken toplanması önerilir; pişirildiğinde etli kısmı kararır. Kurutularak veya sote edilerek tüketilebilir; sapları lifli olduğundan genellikle ayıklanır.",
+          "confusion": "Kırk örgübacak mantarı (Leccinum versipelle) parlak turuncu şapkalıdır ve eti kesildiğinde gri-mor renge döner. Esmer porfirolet (Porphyrellus porphyrosporus) grimsi gözeneklere sahiptir ve çam ormanlarında yetişir.",
+          "notes": "Huş ağaçlarının bulunduğu ekosistemlerde en yaygın görülen mikorizal mantarlardan biridir."
+    },
       sl: {
           "description": "Ektomikorizna goba, strogo vezana na breze. Široko je razširjena v Evropi, Aziji in Severni Ameriki.",
           "cap": "Klobuk meri 5–15 cm v premeru, sprva je polkrožen, nato blazinasto izbočen. Je sivorjave, rjave ali temno rjave barve, v vlažnem vremenu nekoliko lepljiv, suh pa gladek.",
@@ -10587,9 +11928,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar bildas från juli till oktober. Den växer uteslutande i mykorrhiza med björkar på både fuktiga och torra marker.',
       uses: 'Ätlig matsvamp. Den måste tillagas ordentligt före förtäring, då råa strävsoppar orsakar illamående och magbesvär. Köttet mjuknar fort vid tillagning och hatten mörknar ofta.',
       confusion: 'Tegelsopp (Leccinum versipelle) har rödorange hatt och kött som snabbt blånar eller svartnar vid snitt. Gallsopp (Tylopilus felleus) har ett upphöjt ådernät i stället för svarta fjäll på foten och är extremt bitter.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică strict asociată cu mestecenii. Este foarte comună în Europa, Asia de Nord și America de Nord.',
+      cap: 'Pălăria are 4–15 cm lățime, convexă la început și apoi pernițată. Cuticula este netedă, uleioasă pe vreme umedă, de culoare brun-cenușie, brun-deschisă sau brun-cafenie.',
+      hymenium: 'Tuburile sunt lungi, de până la 2 cm, inițial albe, apoi gri-albicioase și brun-cenușii. Porii sunt mici, rotunzi, albicioși până la cenușii, neschimbându-se la presare.',
+      stipe: 'Piciorul are 7–18 cm lungime și 1,5–3 cm grosime, este zvelt, alungit, îngustat spre vârf, albicios și acoperit pe toată lungimea cu solzișori aspri mici, cenușii până la negricioși.',
+      flesh: 'Carnea este albă și moale în pălărie, devenind repede spongioasă, și fibroasă în picior. Carnea tăiată rămâne albă sau devine foarte slab cenușie, fără a se înnegri sau înroși pregnant. Mirosul și gustul sunt plăcute.',
+      sporePrint: 'Brun-măsliniu până la brun-gălbui. Sporii sunt fusiformi, de 14–19 × 5–6,5 μm.',
+      habitat: 'Corpurile fructifere apar din iunie până în noiembrie. Crește pe soluri umede exclusiv sub mesteceni (Betula pendula, Betula pubescens), în păduri, turbării și liziere.',
+      uses: 'Este o specie comestibilă bună (comestibil). Se consumă gătită; carnea tinde să se înnegrească la fierbere. Piciorul fibros este adesea îndepărtat.',
+      confusion: 'Alte specii de Leccinum asociate cu mesteacănul includ Leccinum versipelle, care are o pălărie portocalie-cărămizie și carne ce virează în gri-violet la secțiune. Pitarca dură (Leccinum duriusculum) crește sub plopi tremurători și are carnea ce virează în roz și apoi în negricios la tăiere.'
+    },
+    bg: {
+      description: 'Ектомикоризна гъба, свързана строго с брези. Разпространена в цяла Европа, Северна Азия и Северна Америка.',
+      cap: 'Гуглата е с диаметър 5–15 cm, сивокафява до тъмнокафява, полукълбовидна, после възглавничковидна. Повърхността е гладка, суха, леко лепкава при влажно време.',
+      hymenium: 'Тръбичките са дълги, белезникави, с възрастта сиво-кафеникави, с дребни сивкави пори, които не променят цвета си при натиск.',
+      stipe: 'Пънчето е стройно, високо 8–18 cm и дебело 1,5–3 cm, изтъняващо нагоре, покрито с гъсти малки тъмносиви до черни люспици върху белезникав фон.',
+      flesh: 'Месото е бяло, меко в гуглата и влакнесто в пънчето. При разрез не променя цвета си или едва забележимо порозовява.',
+      sporePrint: 'Тютюневокафяв до маслиненокафяв. Спорите са вретеновидни, гладки, около 14–19 × 5–6 μm.',
+      habitat: 'Плодните тела се срещат от юни до ноември изключително под брези в гори, торфища и покрайнини.',
+      uses: 'Добра ядлива гъба след топлинна обработка. При готвене месото потъмнява; пънчето често се отстранява поради влакнестата му структура.',
+      confusion: 'Оранжевата брезовка (Leccinum aurantiacum) има ярко оранжева до червено-кафява гугла и месо, което при разрез посивява до черно-виолетово. Жлъчната гъба (Tylopilus felleus) има тъмна мрежица и горчив вкус.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/pullu-orgubacak-leccinum-scabrum/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/%C3%87%C3%B6rek_mantar%C4%B1"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -10875,6 +12250,35 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Bj%C3%B6rksopp'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Leccinum_scabrum'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/leccinum-scabrum'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%91%D1%80%D0%B5%D0%B7%D0%BE%D0%B2%D0%BA%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -10968,6 +12372,7 @@ export const CATALOG = [
     fruitingFrom: 8,
     fruitingTo: 11,
     label: {
+      tr: "kaypak mantarı",
       sl: "maslena lupljivka",
       hr: "prstenasti sluzavac",
       sr: "осинац",
@@ -10984,7 +12389,9 @@ export const CATALOG = [
       nl: 'Bruine ringboleet',
       da: 'brungul slimrørhat',
       no: 'smørsopp',
-      sv: 'smörsopp'
+      sv: 'smörsopp',
+      ro: 'turta vacii',
+      bg: 'масловка'
     },
     names: {
       en: ["sticky bun", "pine boletus"],
@@ -11035,9 +12442,23 @@ export const CATALOG = [
       ]
     ,
       cs: [],
-      es: ['boleto anillado']
+      es: ['boleto anillado'],
+      ro: ['untișor'],
+      bg: ['обикновена масловка']
     },
     text: {
+      tr: {
+          "description": "Ektomikorizal bir mantardır. Kuzey Yarımküre'nin ılıman bölgelerinde yerli olup çam ağaçlarıyla zorunlu mikorizal ortaklık kurar. Çam plantasyonlarıyla birlikte Güney Yarımküre'ye de yayılmıştır.",
+          "cap": "Şapka 4–12 cm genişliğinde olup başlangıçta yarım küre biçimlidir, daha sonra dışbükeyleşir ve düzleşir. Koyu kahverengi, kestane rengi veya çikolata sarısıdır. Yüzeyi son derece kalın, yapışkan ve kaygan sümüksü bir tabaka ile kaplıdır; bu tabaka kolayca soyulabilir.",
+          "hymenium": "Borucuklar ve gözenekler gençken parlak sarıdır; yaşlandıkça koyulaşarak hardal sarısına döner. Gençken beyazımsı bir kısmi peçe ile örtülüdür.",
+          "stipe": "Sap 4–8 cm uzunluğunda ve 1–2,5 cm kalınlığında, silindirik, sarımsı beyaz olup üzerinde belirgin, zarımsı, üst kısmı beyaz alt kısmı morumsu kahverengi bir halka taşır. Halkanın yukarısında küçük tanecikli benekler bulunur.",
+          "flesh": "Etli kısım beyazımsı veya açık sarıdır; kesildiğinde renk değiştirmez. Kokusu hafif ve hoştur.",
+          "habitat": "Meyve gövdeleri yaz sonundan sonbahara kadar görülür. İki iğneli çamların (özellikle sarıçam ve karaçam) altında, genç plantasyonlarda ve kumlu topraklarda yetişir.",
+          "sporePrint": "Koyu sarı veya devetüyü kahverengisi. Sporlar elipsoid ile mekiksi, pürüzsüz ve yaklaşık 7–10 × 3–3,5 μm boyutlarındadır.",
+          "uses": "Yenilebilir bir mantardır. Tüketilmeden önce yapışkan şapka derisi mutlaka soyulmalıdır; aksi takdirde müshil etkisi yapabilir ve sindirim rahatsızlığına yol açabilir. Çorbalarda ve sote olarak tüketilir.",
+          "confusion": "Benekli kaypak mantarı (Suillus granulatus) halka taşımaz. Melez kaypak mantarı (Suillus grevillei) melez ağaçları altında yetişir ve parlak altın sarısı bir şapkaya sahiptir.",
+          "notes": "Çam ormanlarının gençleşmesinde ve fidan gelişiminde hayati bir mikorizal rol oynar."
+    },
       sl: {
           "description": "Ektomikorizna goba, tesno povezana z bori. Razširjena je po vsej Evropi, Aziji in Severni Ameriki ter zanesena z bori na južno poloblo.",
           "cap": "Klobuk meri 4–12 cm v premeru, sprva je polkrožen, nato zravnan. Je temno rjav, čokoladno rjav do rumenkastorjav, prekrit z debelo sluzasto kožico, ki jo je mogoče zlahka v celoti olupiti.",
@@ -11240,9 +12661,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar uppträder från juli till november. Den växer i mykorrhiza med tallar, ofta längs sandiga skogsvägar, stigar och i glesa tallhedar.',
       uses: 'En god och uppskattad matsvamp. Den slemmiga hatthuden bör dras av före tillagning då den kan verka laxerande och ger en slemmig konsistens.',
       confusion: 'Grynsopp (Suillus granulatus) saknar ring på foten och har små kådlika vätskedroppar på rörmynningarna som ung. Örsopp (Suillus bovinus) saknar ring, har vidare och mer kantiga porer samt mer elastiskt kött.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică asociată cu pinii cu două ace. Este indigenă în Europa și Asia și a fost introdusă pe scară largă în America de Nord, America de Sud, Africa de Sud, Australia și Noua Zeelandă.',
+      cap: 'Pălăria are 5–12 cm lățime, convexă la început și apoi aplatizată. Cuticula este foarte vâscoasă și mucilaginoasă la umezeală, brun-ciocolatie până la galben-brună, putând fi decojită cu ușurință de pe carnea pălăriei.',
+      hymenium: 'Tuburile sunt scurte, de 0,5–1 cm adâncime, galben-palide la început și galben-închis la maturitate. Porii sunt mici, rotunzi, galbeni, acoperiți în tinerețe de un văl membranos albicios.',
+      stipe: 'Piciorul are 4–10 cm lungime și 1–2,5 cm grosime, cilindric, albicios până la gălbui, presărat cu puncte fine deasupra inelului. Poartă un inel membranos evident, alb-violet pe partea inferioară.',
+      flesh: 'Carnea este albicioasă până la galben-palid, moale și apoasă. Nu își schimbă culoarea la tăiere. Mirosul este slab de ciupercă, iar gustul este ușor acrișor și plăcut.',
+      sporePrint: 'Brun-ocru. Sporii sunt elipsoidali până la fusiformi, de circa 7–9 × 3–3,5 μm.',
+      habitat: 'Corpurile fructifere apar din iulie până în noiembrie. Crește pe soluri nisipoase în plantații și păduri tinere de pin (Pinus sylvestris, Pinus nigra).',
+      uses: 'Este o specie comestibilă bună (comestibil). Se recomandă îndepărtarea cuticulei vâscoase înainte de gătire, deoarece aceasta poate provoca efecte laxative la persoanele sensibile.',
+      confusion: 'Pitoașca (Suillus granulatus) crește de asemenea sub pini, dar este lipsit complet de inel pe picior. Untișorul de zadă (Suillus grevillei) crește strict asociat cu laricele și are o pălărie galben-portocalie strălucitoare.'
+    },
+    bg: {
+      description: 'Ектомикоризна гъба, свързана с двуиглени борове. Често срещана в боровата зона на Европа, Азия и Северна Америка, интродуцирана и в Южното полукълбо.',
+      cap: 'Гуглата е с диаметър 4–12 cm, тъмнокафява, шоколадовокафява или охрена, покрита с дебел, силно слузест слой при влажно време. Кожицата се обелва лесно.',
+      hymenium: 'Тръбичките са бледожълти до златистожълти, къси, с малки пори. При младите екземпляри химениумът е покрит от ципесто белезникаво-виолетово частично покривало.',
+      stipe: 'Пънчето е цилиндрично, бяло до жълтеникаво, с кафяво-виолетов ципест пръстен, над който повърхността е покрита с фини зрънца.',
+      flesh: 'Месото е меко, белезникаво до бледожълто, не променя цвета си при нараняване. Има приятен плодов аромат.',
+      sporePrint: 'Глинестокафяв до охренокафяв. Спорите са елипсовидни до вретеновидни, гладки, 7–9 × 3–3,5 μm.',
+      habitat: 'Плодните тела израстват от юни до ноември в млади борови гори, горски поляни и плантации.',
+      uses: 'Много добра ядлива гъба. Препоръчва се кожицата на гуглата да се обели преди кулинарна обработка, тъй като слузта може да има разхлабващ ефект.',
+      confusion: 'Зърнестата масловка (Suillus granulatus) няма пръстенче по пънчето. Елегантната масловка (Suillus grevillei) расте единствено под лиственица и има яркожълта до оранжева гугла.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/kaypak-mantari-suillus-luteus/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Boletus_luteus"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -11526,6 +12981,35 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Sm%C3%B6rsopp'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Suillus_luteus'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/suillus-luteus'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -11615,6 +13099,7 @@ export const CATALOG = [
     fruitingFrom: 8,
     fruitingTo: 10,
     label: {
+      tr: "kanlıca mantarı",
       sl: "užitna sirovka",
       hr: "plemenita rujnica",
       sr: "рујница",
@@ -11632,7 +13117,9 @@ export const CATALOG = [
       pt: 'níscaro',
       da: 'velsmagende mælkehat',
       no: 'furumatriske',
-      sv: 'tallblodriska'
+      sv: 'tallblodriska',
+      ro: 'râșcov de brad',
+      bg: 'обикновена млечница'
     },
     names: {
       en: ["delicious milkcap", "saffron milk cap", "delicious milk cap"],
@@ -11642,9 +13129,23 @@ export const CATALOG = [
       es: ['mizclo', 'rebollón'],
       nl: ['Edele melkzwam'],
       pt: ['sancha', 'pinheira', 'vaca-vermelha'],
-      sv: ['läcker riska', 'läckerriska']
+      sv: ['läcker riska', 'läckerriska'],
+      ro: ['râșcov'],
+      bg: ['рижика']
     },
     text: {
+      tr: {
+          "description": "Ektomikorizal bir mantardır. Avrupa, Kuzey Afrika ve Asya'da çam ormanlarında yaygındır. Çam ağaçlarıyla kurduğu ortaklık nedeniyle dünyanın diğer bölgelerindeki plantasyonlara da taşınmıştır.",
+          "cap": "Şapka 4–14 cm genişliğinde olup başlangıçta dışbükeydir, zamanla merkezden çökerek huni biçimini alır. Rengi turuncu veya havuç kırmızısıdır ve üzerinde koyu konsantrik halkalar yer alır. Yaşlandıkça veya berelendikçe yeşilimsi lekeler geliştirir.",
+          "hymenium": "Lameller parlak havuç turuncusudur, sık dizilimlidir ve sapa hafifçe sarkar; zedelendiğinde yavaşça bakır yeşiline döner.",
+          "stipe": "Sap 3–7 cm uzunluğunda ve 1,5–2,5 cm kalınlığında, turuncu renkte, silindirik veya tabana doğru daralandır. İçi zamanla boşalır ve yüzeyinde koyu turuncu sığ çukurcuklar (skrobikül) bulunur.",
+          "flesh": "Etli kısım kırılgan, tebeşirsi, soluk turuncudur; kesildiğinde parlak havuç turuncusu bir süt (lateks) salgılar. Bu süt havayla temas ettiğinde yarım saat içinde yavaşça şarabi kırmızıya ve ardından yeşile döner. Meyvemsi hoş bir kokusu vardır.",
+          "habitat": "Meyve gövdeleri ağustos ayından kasım ayına kadar görülür. Çam türleri (Pinus) altında, iğne yaprak döküntüleri arasında ve asidik topraklarda yaygın olarak yetişir.",
+          "sporePrint": "Soluk pembe veya açık devetüyü. Sporlar yuvarlağımsı ile elipsoid, yüzeyinde amiloid bir ağ deseni taşıyan ve yaklaşık 7–9 × 6–7 μm boyutlarındadır.",
+          "uses": "Seçkin yemeklik bir mantardır. Akdeniz ülkelerinde ve Türkiye'de en çok toplanan ve ticareti yapılan mantarlardan biridir; ızgarada, fırında veya zeytinyağında kızartılarak tüketilir. İdrarı kırmızımsı bir renge boyayabilir.",
+          "confusion": "Ladin kanlıcası (Lactarius deterrimus) ladin ağaçları altında yetişir ve hızla koyu yeşile lekelenir. Zehirli dalgalı mantar (Lactarius torminosus) beyaz süt salgılar ve tüylü şapka kenarına sahiptir.",
+          "notes": "İçerdiği azulen türevi doğal pigmentler kendine has parlak turuncu rengini verir."
+    },
       sl: {
           "description": "Ektomikorizna goba borovih gozdov. Široko je razširjena v Evropi, zanesena pa je bila tudi v Avstralijo in na Novo Zelandijo.",
           "cap": "Klobuk meri 4–14 cm v premeru, sprva je izbočen z uvitim robom, kasneje se ugrezne v lijakasto obliko. Je korenčasto oranžne do rdečkasto oranžne barve z značilnimi koncentričnimi kolobarji, v starosti ali ob dotiku se obarva umazano zeleno.",
@@ -11847,9 +13348,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar bildas från augusti till november. Den växer uteslutande med tall, gärna på sandig och kalkrik mark.',
       uses: 'En läcker och mycket uppskattad matsvamp i stora delar av Europa, särskilt stekt i smör eller inlagd. Urinen kan tillfälligt färgas rödaktig efter intag.',
       confusion: 'Granblodriska (Lactarius deterrimus) växer med gran, har en mjölksaft som inom 10–30 minuter övergår i mörkrött eller vinrött, och grönfärgas snabbare och kraftigare. Skogsriska och skäggriska (Lactarius torminosus) har vit, mycket pepprig mjölksaft och luden hattkant.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică asociată cu pinii. Este indigenă în Europa și a fost introdusă accidental în Australia, Noua Zeelandă și Africa de Sud.',
+      cap: 'Pălăria are 4–14 cm lățime, convexă cu centrul adâncit la început, devenind larg infundibuliformă (în formă de pâlnie). Cuticula este lipicioasă la umezeală, de culoare portocalie până la ocru-morcov, cu zone concentrice mai întunecate și pătându-se adesea cu verde-verigris odată cu vârsta.',
+      hymenium: 'Lamelele sunt dense, decurente, de un portocaliu intens ca morcovul, devenind verzui atunci când sunt strivite sau la bătrânețe.',
+      stipe: 'Piciorul are 3–7 cm lungime și 1–2,5 cm grosime, cilindric, de aceeași culoare portocalie ca pălăria, prezentând mici gropițe (scrobicule) mai întunecate pe suprafață. Devine gol pe dinăuntru la maturitate.',
+      flesh: 'Carnea este fragilă, casantă, albicioasă în centru și portocalie spre margine. Emite un latex (lapte) portocaliu-morcov abundent la rupere, care după câteva ore virează lent în roșu și apoi în verzui. Mirosul este fructat și plăcut, iar gustul este blând până la slab iutișor.',
+      sporePrint: 'Crem-ocru palid. Sporii sunt elipsoidali, reticulați, amiloizi, de circa 7,5–9,5 × 6–7 μm.',
+      habitat: 'Corpurile fructifere apar din august până în noiembrie. Crește pe soluri nisipoase sau calcaroase în păduri și plantații de pin.',
+      uses: 'Râșcovul este o ciupercă comestibilă excelentă (comestibil excelent), foarte apreciată în bucătăria mediteraneană și est-europeană, prăjită în unt, coaptă pe plită sau conservată în saramură.',
+      confusion: 'Râșcovul de molid (Lactarius deterrimus) crește sub molizi și latexul său virează rapid în roșu-închis și apoi verde. Râșcovul de mesteacăn (Lactarius torminosus) crește sub mesteceni, are marginea pălăriei puternic lânos-păroasă, un latex alb neschimbător și un gust extrem de iute, fiind toxică crudă.'
+    },
+    bg: {
+      description: 'Ектомикоризна гъба, свързана с борови дървета. Широко разпространена и много ценена в цяла Европа.',
+      cap: 'Гуглата е с диаметър 4–12 cm, оранжева до морковеночервена, с ясно изразени концентрични кръгове, фуниевидна при застаряване. При нараняване или с възрастта придобива зеленикави петна.',
+      hymenium: 'Ламелите са наситено оранжеви, гъсти, слабо низбягващи по пънчето, отделящи обилен оранжев латекс при срязване, който след време позеленява.',
+      stipe: 'Пънчето е цилиндрично, кухо, оранжево, с по-тъмни кръгли ямички (вдлъбнатини) по повърхността.',
+      flesh: 'Месото е крехко, морковeнооранжево по периферията и белезникаво в средата, бавно позеленяващо на въздух. Има приятен смолист аромат и леко пикантен вкус.',
+      sporePrint: 'Бледоострен до кремав. Спорите са широко елипсовидни, с амилоиден релеф, 7–9 × 6–7 μm.',
+      habitat: 'Плодните тела се появяват от август до ноември в иглолистни гори и покрайнини, изключително под борове.',
+      uses: 'Отлична ядлива гъба, традиционно пържена на тиган, печена или маринована.',
+      confusion: 'Смърчовата млечница (Lactarius deterrimus) расте под смърч и позеленява много по-бързо и интензивно. Отровната лъжлива млечница (Lactarius torminosus) има влакнесто-космат ръб, расте под брези и отделя лютив бял латекс.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/kanlica-mantari-lactarius-deliciosus/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Lactarius_deliciosus"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -12150,6 +13685,35 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Tallblodriska'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Lactarius_deliciosus'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/lactarius-deliciosus'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%9E%D0%B1%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B0_%D0%BC%D0%BB%D0%B5%D1%87%D0%BD%D0%B8%D1%86%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -12236,6 +13800,7 @@ export const CATALOG = [
     fruitingFrom: 8,
     fruitingTo: 11,
     label: {
+      tr: "ölüm meleği mantarı",
       sl: "koničasta mušnica",
       hr: "smrdljiva pupavka",
       sr: "смрдљива пупавка",
@@ -12253,15 +13818,30 @@ export const CATALOG = [
       pt: 'anjo-destruidor',
       da: 'snehvid fluesvamp',
       no: 'hvit fluesopp',
-      sv: 'vit flugsvamp'
+      sv: 'vit flugsvamp',
+      ro: 'burete tomnatic',
+      bg: 'бяла леплива мухоморка'
     },
     names: {
       en: ["European destroying angel"]
     ,
       cs: [],
-      es: ['oronja fétida']
+      es: ['oronja fétida'],
+      bg: ['леплива бяла мухоморка', 'бяла мухоморка']
     },
     text: {
+      tr: {
+          "description": "Ölümcül zehirli ve ektomikorizal bir mantardır. Kuzey ve Doğu Avrupa'da yaygın olup güney bölgelerde daha çok dağlık alanlarda görülür. Asidik zeminli iğne yapraklı ve karışık ormanlarda yetişir.",
+          "cap": "Şapka 5–10 cm genişliğinde olup başlangıçta konik veya yarım küre biçimlidir, daha sonra asimetrik dışbükeyleşir. Saf beyaz renktedir, bazen merkezinde çok soluk sarımsı bir ton bulunabilir. Yüzeyi pürüzsüz ve nemli havalarda yapışkandır.",
+          "hymenium": "Lameller serbest, sık, kalabalık ve saf beyazdır; yaşlandıkça da beyaz rengini korur.",
+          "stipe": "Sap 8–15 cm uzunluğunda ve 1–1,5 cm kalınlığında, saf beyaz, tabana doğru şişkinleşen yapıdadır. Yüzeyi belirgin şekilde kaba, pamuksu veya pullu liflerle kaplıdır. Üst kısımda kırılgan, ince ve yırtılabilen beyaz bir halka bulunur. Tabanda geniş, torba şeklinde beyaz bir volva yer alır.",
+          "flesh": "Etli kısım beyazdır ve kesildiğinde renk değiştirmez. Gençken hafif turp kokuludur, yaşlandıkça nahoş ve tatlımsı çürük kokusuna dönüşür. KOH (potasyum hidroksit) damlatıldığında parlak sarıya döner.",
+          "habitat": "Meyve gövdeleri yaz sonundan sonbahara kadar görülür. Ladin, çam ve bazen huş ağaçlarının altında, asidik ve yosunlu topraklarda yetişir.",
+          "sporePrint": "Beyaz. Sporlar küremsi, pürüzsüz, amiloid ve yaklaşık 8–10 μm çapındadır.",
+          "uses": "Ölümcül zehirlidir. Amatoksinler ve fallotoksinler içerir. Küçük bir parçası dahi ölümcül karaciğer ve böbrek yetmezliğine yol açar. Pişirme, kurutma veya dondurma toksinleri yok etmez.",
+          "confusion": "Beyaz ölüm mantarı (Amanita verna) ilkbaharda Akdeniz ikliminde ve meşe altında çıkar. Çayır mantarı (Agaricus campestris) pembe-kahverengi lamellere sahiptir ve volvası yoktur. Beyaz çayır mantarı (Leucoagaricus leucothites) volva taşımaz.",
+          "notes": "KOH reaksiyonunun parlak sarı olması Amanita verna ve Amanita phalloides f. alba'dan ayrılmasında önemli bir kimyasal ayıraçtır."
+    },
       sl: {
           "description": "Smrtno strupena ektomikorizna goba. Razširjena je v severni in gorski Evropi, zlasti v iglastih gozdovih.",
           "cap": "Klobuk meri 5–10 cm v premeru, sprva je stožčast do zvonast, kasneje se delno zravna, a pogosto ohrani koničasto obliko ali asimetričnost. Je povsem bele barve, v vlažnem vremenu lepljiv, suh pa svetleč in gladek.",
@@ -12459,9 +14039,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar påträffas från juli till oktober i mossiga granskogar och blandskogar, gärna på fuktig, näringsfattig och sur mark.',
       uses: 'Dödligt giftig. Innehåller dödliga koncentrationer av amatoxiner som förstör lever och njurar. Varken kokning, stekning eller torkning oskadliggör giftet.',
       confusion: 'Lömsk flugsvamp (Amanita phalloides) har oftast grönaktig till olivbrun hatt. Vita champinjoner (Agaricus) saknar strumpa vid fotbasen och får snabbt rosa till chokladbruna skivor.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică mortală din pădurile de conifere și foioase pe soluri acide. Comună în Europa de Nord și Centrală, fiind mai rară în sudul continentului.',
+      cap: 'Pălăria are 5–10 cm lățime, inițial conică sau ovoidală, apoi convexă până la asimetric aplatizată. Este de un alb pur, adesea cu centrul foarte slab ocru-palid, netedă și mătăsoasă la uscăciune, devenind ușor lipicioasă la umezeală.',
+      hymenium: 'Lamelele sunt libere, dese și late, de un alb pur permanent.',
+      stipe: 'Piciorul are 8–15 cm lungime și 1–2 cm grosime, este zvelt, alb, acoperit cu solzișori lânoși sau bumbăcoși scămoși. Inelul alb este fragil și se rupe adesea. Baza se termină cu un bulb rotund învelit într-o volvă mare, saciformă și albă.',
+      flesh: 'Carnea este albă și neschimbătoare la tăiere. Mirosul este slab la început, devenind grețos și respingător odată cu vârsta.',
+      sporePrint: 'Alb. Sporii sunt sferici, netezi, amiloizi, de circa 9–12 × 8–10 μm.',
+      habitat: 'Corpurile fructifere apar din august până în noiembrie. Crește pe soluri acide și sărace în nutrienți, în asociere cu molid, pin, mesteacăn și fag.',
+      uses: 'Este mortală (mortal). Conține doze mari de amatoxine și virotoxine care provoacă distrugerea celulară ireversibilă a ficatului și a rinichilor.',
+      confusion: 'Buretele primăvăratic (Amanita verna) este de asemenea alb și mortal, dar apare primăvara și vara în păduri calde de foioase pe sol calcaros și are piciorul neted. Ciupercile de câmp (Agaricus spp.) au lamele care devin rozalii și apoi brun-negricioase și nu au volvă la baza piciorului.'
+    },
+    bg: {
+      description: 'Смъртоносно отровна ектомикоризна гъба. Среща се в планинските иглолистни и смесени гори на Европа и Северна Азия.',
+      cap: 'Гуглата е с диаметър 5–10 cm, чисто бяла, понякога със слаб жълтеникав оттенък в центъра, конична до звънчевидна, по-късно изпъкнала. Повърхността е лепкава при влага и копринена при изсъхване.',
+      hymenium: 'Ламелите са чисто бели, свободни и гъсти.',
+      stipe: 'Пънчето е бяло, високо 8–15 cm и дебело 1–2 cm, покрито с рошави парцалести люспи, с бяло ципесто пръстенче и торбовидна бяла волва в основата.',
+      flesh: 'Месото е бяло, крехко, с неприятна сладникава задушлива миризма при стари екземпляри.',
+      sporePrint: 'Бял. Спорите са сферични, гладки, амилоидни, около 8–10 μm.',
+      habitat: 'Плодните тела се развиват от юли до октомври предимно в планински смърчови и букови гори на кисели почви.',
+      uses: 'Смъртоносно отровна гъба, съдържаща летални дози аматоксини. Причинява фатална чернодробна и бъбречна недостатъчност; токсините не се разграждат при готвене.',
+      confusion: 'Печурките (Agaricus) имат розови до тъмнокафяви ламели и нямат волва. Бялата мухоморка (Amanita verna) се появява през пролетта в широколистни гори и има по-гладко пънче.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/olum-melegi-amanita-virosa/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Amanita_virosa"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -12719,6 +14333,30 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Vit_flugsvamp'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Amanita_virosa'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/amanita-virosa'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%91%D1%8F%D0%BB%D0%B0_%D0%BC%D1%83%D1%85%D0%BE%D0%BC%D0%BE%D1%80%D0%BA%D0%B0'
+        }
       ]
     },
     synonyms: ["Agaricus virosus Fr.", "Amanitina virosa (Bertill.) E.-J. Gilbert"]
@@ -12793,6 +14431,7 @@ export const CATALOG = [
     fruitingFrom: 5,
     fruitingTo: 9,
     label: {
+      tr: "şeytan mantarı",
       sl: "vražji goban",
       hr: "sotonski vrganj",
       sr: "лудара",
@@ -12810,7 +14449,9 @@ export const CATALOG = [
       pt: 'boleto-de-satanás',
       da: 'Satans rørhat',
       no: 'satansopp',
-      sv: 'djävulssopp'
+      sv: 'djävulssopp',
+      ro: 'buretele dracului',
+      bg: 'дяволска гъба'
     },
     names: {
       en: ["Satan's bolete"],
@@ -12828,9 +14469,22 @@ export const CATALOG = [
     ,
       cs: ["satan"],
       es: ['mataparientes', 'hongo de satán'],
-      nl: ['Wolfsboleet']
+      nl: ['Wolfsboleet'],
+      bg: ['дяволска манатарка']
     },
     text: {
+      tr: {
+          "description": "Zehirli ve ektomikorizal bir mantardır. Güney ve Orta Avrupa'da, Akdeniz havzasında kireçli topraklarda geniş yapraklı sıcak ormanlarda yetişir. Kuzey Avrupa'da nadirdir.",
+          "cap": "Şapka 10–30 cm genişliğinde olup çok iri ve ağırdır; başlangıçta yarım küre biçimlidir ve zamanla dışbükeyleşir. Rengi tebeşir beyazı, gümüşi gri veya soluk devetüyüdür; yaşlandıkça hafif yeşilimsi-kahverengi tonlar alabilir. Yüzeyi kuru ve kadifemsidir.",
+          "hymenium": "Borucuklar sarımsı yeşildir; gözenekler başlangıçta sarı iken hızla kan kırmızısı, turuncu-kırmızı veya yakut kırmızısına döner. Berelendiğinde veya basıldığında yavaşça maviye lekelenir.",
+          "stipe": "Sap 5–15 cm uzunluğunda ve 4–10 cm kalınlığında, devasa, soğan şeklinde veya fıçı gibi şişkindir. Üst kısmı sarımsı, orta ve alt kısmı parlak kırmızı veya karmin kırmızısıdır; üzerinde ince kırmızı bir ağ deseni bulunur. Ezildiğinde maviye döner.",
+          "flesh": "Etli kısım beyazımsı veya açık sarıdır; kesildiğinde yavaşça ve zayıfça maviye döner, ardından solar. Gençken zayıf kokuluyken yaşlandıkça son derece nahoş, çürümüş et kokusuna bürünür.",
+          "habitat": "Meyve gövdeleri yaz ortasından sonbahar başına kadar görülür. Sıcak meşe, kayın ve kestane ormanlarında kireçli zeminlerde tek tek veya küçük gruplar halinde yetişir.",
+          "sporePrint": "Zeytin kahverengisi. Sporlar elipsoid ile mekiksi, pürüzsüz ve yaklaşık 11–15 × 5–7 μm boyutlarındadır.",
+          "uses": "Zehirlidir. İçerdiği bolesatin proteini ve toksinler nedeniyle şiddetli kusma, kramp ve kanlı ishale yol açan ağır gastrointestinal zehirlenmeye neden olur. Pişirilse dahi toksisitesini korur.",
+          "confusion": "Kuzumantarı (Neoboletus luridiformis) koyu kahverengi kadife bir şapkaya sahiptir ve eti anında koyu laciverte döner. Kızılcadamarlı bolet (Suillellus luridus) zeytin kahverengi şapkalıdır ve belirgin ağ desenine sahiptir.",
+          "notes": "Bolesatin toksini protein sentezini engelleyici özellik gösterir."
+    },
       sl: {
           "description": "Strupena ektomikorizna goba toploljubnih listnatih gozdov. Razširjena je v južni in srednji Evropi na apnenčastih tleh.",
           "cap": "Klobuk meri 10–30 cm v premeru, je masiven, sprva polkrožen, kasneje blazinast. Je kredasto bele, umazano sive ali bledo kavne barve z usnjato gladko površino.",
@@ -13033,9 +14687,44 @@ export const CATALOG = [
       habitat: 'Fruktkroppar kommer fram från juli till september i varma lövskogar och parker, i mykorrhiza med ek, bok och lind på kalkrika jordar.',
       uses: 'Giftig. Svampen orsakar svåra mag- och tarmförgiftningar med våldsamma kräkningar och diarréer. Den innehåller bolesatin och är giftig även efter tillagning.',
       confusion: 'Blodsopp (Neoboletus luridiformis) har mörkbrun hatt, kraftigt blånande kött och växer på surare mark. Eldsopp (Suillellus luridus) har gulbrun till olivbrun hatt, grovt ådernät på foten och kraftigt blånande kött. Bittersopp (Caloboletus calopus) har gula porer och är oätligt bitter.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică termofilă din pădurile de foioase pe sol calcaros. Este răspândită în sudul și centrul Europei, devenind rară spre nord.',
+      cap: 'Pălăria are 10–25 cm lățime, uneori până la 30 cm, masivă, semisferică și apoi pernițată. Cuticula este uscată, mată, fin catifelată la început, de culoare alb-cenușie, crem sau ocru-palidă, căpătând adesea nuanțe verzui-murdare odată cu vârsta.',
+      hymenium: 'Tuburile sunt de 1–2 cm lungime, galbene la început și apoi galben-verzui. Porii sunt mici, rotunzi, inițial galbeni, devenind rapid de un roșu-sângeriu aprins până la roșu-portocaliu. Se pătează în albastru la atingere.',
+      stipe: 'Piciorul are 5–15 cm lungime și 4–10 cm grosime, este masiv, bulbos sau sferic în tinerețe, galben la vârf și roșu-purpuriu carmin în rest, acoperit de o rețea fină roșiatică.',
+      flesh: 'Carnea este alb-gălbuie sau crem, virând lent în albastru-deschis când este tăiată sau lovită. Mirosul este slab la exemplarele tinere, devenind fetid și cadaveric la bătrânețe.',
+      sporePrint: 'Brun-măsliniu. Sporii sunt fusiformi-eliptici, de 11–15 × 5–7 μm.',
+      habitat: 'Corpurile fructifere apar în verile calde și la începutul toamnei (iunie–septembrie). Crește în păduri luminoase de stejar, fag și carpen pe soluri calcaroase.',
+      uses: 'Ciuperca este otrăvitoare (otrăvitor). Conține bolesatină și provoacă sindrom gastrointestinal sever, cu vărsături repetate și deshidratare acută.',
+      confusion: 'Hribul frumos (Caloboletus calopus) are o pălărie cenușie, pori galbeni neschimbători în roșu și carne foarte amară. Mânătarca țigănească (Neoboletus luridiformis) are pălăria de un brun-castaniu închis catifelat și carnea care se albăstrește instantaneu și intens la tăiere.'
+    },
+    bg: {
+      description: 'Отровна ектомикоризна гъба. Топлолюбив вид, разпространен в южните и умерените части на Европа върху варовити почви.',
+      cap: 'Гуглата е масивна, с диаметър 10–25 cm (понякога до 30 cm), тебеширенобяла, сивобелезникава до бледооловна, суха и кадифена.',
+      hymenium: 'Тръбичките са жълти, а порите са кървавочервени до оранжево-червени (жълти в най-ранна младост). При натиск порите и тръбичките посиняват.',
+      stipe: 'Пънчето е дебело, клубенковидно или бъчвовидно, високо 6–15 cm и дебело 4–10 cm, покрито с релефна червена мрежичка върху жълтеникав фон.',
+      flesh: 'Месото е белезникаво до бледожълто, при разрез слабо посинява. При застаряване отделя неприятна гнилна миризма.',
+      sporePrint: 'Маслиненокафяв. Спорите са вретеновидни, гладки, около 11–14 × 5–6 μm.',
+      habitat: 'Плодните тела се срещат през лятото (юли–септември) в светли широколистни гори, предимно под дъб, бук и габър на варовити терени.',
+      uses: 'Отровна гъба. Съдържа токсичния протеин болесатин, причиняващ тежки стомашно-чревни разстройства с продължително повръщане и дехидратация.',
+      confusion: 'Червеностъблената манатарка (Neoboletus luridiformis) има тъмнокафява гугла и месо, което мигновено става тъмносиньо при нараняване. Красивата манатарка (Caloboletus calopus) има жълти пори и много горчив вкус.',
+      notes: 'В Червената книга на Република България видът е категоризиран като уязвим (Vulnerable).'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/seytan-mantari-rubroboletus-satanas/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/%C5%9Eeytan_mantar%C4%B1"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -13313,6 +15002,35 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Dj%C3%A4vulssopp'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Rubroboletus_satanas'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/rubroboletus-satanas'
+        },
+        {
+          group: 'text',
+          name: 'Червена книга на Република България',
+          href: 'http://e-ecodb.bas.bg/rdb/bg/vol1/Bolsatan.html'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%94%D1%8F%D0%B2%D0%BE%D0%BB%D1%81%D0%BA%D0%B0_%D0%B3%D1%8A%D0%B1%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -13401,6 +15119,7 @@ export const CATALOG = [
     fruitingFrom: 8,
     fruitingTo: 11,
     label: {
+      tr: "ecel örümcek mantarı",
       sl: "najlepša koprenka",
       hr: "hrastova koprenka",
       lt: "rausvasis nuosėdis",
@@ -13416,12 +15135,25 @@ export const CATALOG = [
       nl: 'Fraaie gifgordijnzwam',
       da: 'puklet gift-slørhat',
       no: 'spiss giftslørsopp',
-      sv: 'toppig giftspindling'
+      sv: 'toppig giftspindling',
+      ro: 'pălărie ucigașă'
     },
     names: { es: ['seta de orellana roja'],
       sv: ['toppig giftspindelskivling', 'toppig spindelskivling']
     },
     text: {
+      tr: {
+          "description": "Ölümcül zehirli ve ektomikorizal bir mantardır. Kuzey ve Orta Avrupa'da, özellikle İskandinavya ve Britanya'nın kuzeyinde iğne yapraklı ormanlarda yaygındır.",
+          "cap": "Şapka 3–8 cm genişliğinde olup başlangıçta konik veya çan biçimlidir, daha sonra dışbükeyleşir ve merkezinde belirgin sivri bir tümsek (umbo) barındırır. Rengi pas kırmızısı, tilki kırmızısı veya tarçın kahverengisidir. Yüzeyi kuru, ince lifli veya ince pulludur.",
+          "hymenium": "Lameller başlangıçta pas sarısı veya turuncu-kahverengidir; sporlar olgunlaştıkça pas kırmızısı-kahverengiye döner. Sapa yapışık veya hafifçe sarkıktır.",
+          "stipe": "Sap 5–12 cm uzunluğunda ve 0,5–1,5 cm kalınlığında, silindirik veya tabana doğru hafifçe daralandır; şapkayla aynı pas kırmızısı rengindedir. Gençken örümcek ağı benzeri kortina kalıntıları ve sap üzerinde sarımsı zikzak lif bantları taşır.",
+          "flesh": "Etli kısım sarımsı kırmızı veya pas rengidir; kesildiğinde renk değiştirmez. Turp benzeri hafif bir kokusu vardır.",
+          "habitat": "Meyve gövdeleri ağustos ayından kasım ayına kadar görülür. Ladin ve çam ormanlarında, yosunlu ve asidik zeminlerde, özellikle turbalık alanlarda yetişir.",
+          "sporePrint": "Pas kahverengisi. Sporlar elipsoid ile badem biçiminde, belirgin şekilde siğilli ve yaklaşık 9–12 × 6,5–8,5 μm boyutlarındadır.",
+          "uses": "Ölümcül zehirlidir. Orellanin toksini içerir. Zehirlenme belirtileri tüketimden 2 ila 14 gün sonra ortaya çıkar ve kalıcı böbrek yetmezliğine ve ölüme yol açar. Pişirme veya kurutma toksini yok etmez.",
+          "confusion": "Bakır kızılı mantar (Chroogomphus rutilus) sapa sarkan lamellere ve koyu zeytin-siyah spor izine sahiptir. Yenilebilir sarı kız mantarı (Cantharellus cibarius) damarlı kıvrımlara ve sarı spor izine sahiptir.",
+          "notes": "Orellanin toksini ultraviyole ışık altında karakteristik mavi-yeşil floresan ışıma yapar."
+    },
       sl: {
           "description": "Smrtno strupena ektomikorizna goba iglastih gozdov. Razširjena je v severni in srednji Evropi ter Severni Ameriki na kislih tleh z mahom.",
           "cap": "Klobuk meri 3–8 cm v premeru, je stožčast do zvonast z ostro osrednjo grbico. Barva je enakomerno lisičje rdeča, rjavorumena do cimetasto rjava, s fino vlaknato do drobno luskasto suho površino.",
@@ -13618,9 +15350,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar växer från augusti till oktober bland mossa och blåbärsris i fuktig, mager granskog, ofta intill kärrkanter.',
       uses: 'Dödligt giftig. Innehåller det njurskadande giftet orellanin. Förgiftningssymptom uppträder först efter 2–14 dagar, då irreversibel njursvikt redan inträffat. Varken kokning, frysning eller torkning oskadliggör giftet.',
       confusion: 'Giftspindling (Cortinarius orellanus) har trubbigare hatt utan spetsig puckel och växer med lövträd i södra Europa. Kantarell (Cantharellus cibarius) och narrkantarell skiljer sig genom gul färg och avsaknad av rödbruna skivor. Laxskivling (Laccaria laccata) har vitt sporpulver och saknar spetsig puckel.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică mortală din pădurile de conifere pe soluri umede și acide. Este întâlnită în Europa de Nord și Centrală, precum și în America de Nord.',
+      cap: 'Pălăria are 3–8 cm lățime, inițial conică sau clopotită, păstrând un mamelon ascuțit central chiar și după aplatizare. Cuticula este uscată, fin solzoasă sau scămoasă, de culoare brun-roșiatică până la brun-cărămizie sau ruginie.',
+      hymenium: 'Lamelele sunt late, destul de distanțate, inițial de culoare ocru-ruginie, devenind brun-ruginii pe măsură ce sporii se maturizează.',
+      stipe: 'Piciorul are 5–12 cm lungime și 0,5–1,5 cm grosime, cilindric sau ușor umflat spre bază, de aceeași culoare brun-roșiatică ca pălăria, marcat de benzi oblice sau zig-zag galben-aurii din resturile vălului.',
+      flesh: 'Carnea este galben-ruginie sau galben-roșiatică, mai închisă la baza piciorului. Mirosul amintește slab de ridiche sau hrean.',
+      sporePrint: 'Brun-ruginiu. Sporii sunt sferici până la scurt-eliptici, verucoși, de 9–11,5 × 7,5–9 μm.',
+      habitat: 'Corpurile fructifere apar din august până în noiembrie. Crește pe soluri acide și turbării sub molizi și pini, printre perne de mușchi Sphagnum.',
+      uses: 'Ciuperca este mortală (mortal). Conține orellanină, o toxină cu efect întârziat de 2 până la 14 zile, ce cauzează nefrită toxică și distrugerea totală a rinichilor.',
+      confusion: 'Cortinarius orellanus crește sub arbori de foioase (stejar, fag) și are o pălărie mai rotunjită fără mamelon ascuțit proeminent. Laccaria laccata are lamele rozalii și amprentă sporală albă.'
+    },
+    bg: {
+      description: 'Смъртоносно отровна ектомикоризна гъба от род Cortinarius (паяжинници). Разпространена в иглолистните гори на Северна и Централна Европа и Северна Америка.',
+      cap: 'Гуглата е с диаметър 3–8 cm, конична до звънчевидна с остър връх, по-късно изпъкнала, с червеникавокафяв до лисичеоранжев цвят. Повърхността е суха и фино влакнеста.',
+      hymenium: 'Ламелите са охрено-ръждиви до канеленокафяви, редки, дебели, прираснали към пънчето.',
+      stipe: 'Пънчето е цилиндрично, високо 5–12 cm и дебело 0,5–1,5 cm, жълтеникаво с червеникавокафяви зигзагообразни пояси от остатъци от кортината.',
+      flesh: 'Месото е жълтеникаво до червеникаво-охрено, плътно, с лека миризма на ряпа.',
+      sporePrint: 'Ръждивокафяв. Спорите са почти закръглени до широко елипсовидни, брадавичести, 9–11 × 7–8,5 μm.',
+      habitat: 'Плодните тела израстват от август до октомври предимно сред торфен мъх (сфагнум) във влажни смърчови и борови гори.',
+      uses: 'Смъртоносно отровна гъба. Съдържа токсина ореланин, който води до бавно развиваща се необратима бъбречна недостатъчност. Токсинът не се унищожава при готвене или сушене; латентният период до първите симптоми може да трае от 2 до 14 дни.',
+      confusion: 'Пачият крак (Cantharellus cibarius) има жълто месо с плодов аромат и надлъжни жилки вместо същински ламели. Обикновената млечница (Lactarius deliciosus) отделя морковенооранжев латекс.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/ecel-orumcek-mantari-cortinarius-rubellus/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27nin_zehirli_mantarlar%C4%B1_listesi"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -13869,6 +15635,18 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Toppig_giftspindling'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Cortinarius_rubellus'
+        }
       ]
     },
     synonyms: [
@@ -13951,6 +15729,7 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 12,
     label: {
+      tr: "borazan mantarı",
       sl: "črna trobenta",
       hr: "crna trubača",
       sr: "мрка трубача",
@@ -13968,7 +15747,9 @@ export const CATALOG = [
       pt: 'trompeta-da-morte',
       da: 'trompetsvamp',
       no: 'svart trompetsopp',
-      sv: 'svart trumpetsvamp'
+      sv: 'svart trumpetsvamp',
+      ro: 'trâmbița morților',
+      bg: 'тръбенка'
     },
     names: {
       en: ["trumpet of death", "black trumpet", "black chanterelle", "trumpet of the dead"]
@@ -13976,9 +15757,23 @@ export const CATALOG = [
       cs: ["kominíček"],
       es: ['cuerno de la abundancia'],
       nl: ['Doodstrompet'],
-      pt: ['corno-da-abundância', 'orelha-de-morcego', 'viuvinhas']
+      pt: ['corno-da-abundância', 'orelha-de-morcego', 'viuvinhas'],
+      ro: ['trâmbița piticilor'],
+      bg: ['черна тръбенка', 'рогачка']
     },
     text: {
+      tr: {
+          "description": "Ektomikorizal bir mantardır. Avrupa, Asya ve Kuzey Amerika'da geniş yapraklı ormanlarda yaygın olarak yetişir. Özellikle kayın ve meşe ağaçlarıyla mikorizal bağ kurar.",
+          "cap": "Meyve gövdesi 3–8 cm genişliğinde ve 4–10 cm yüksekliğinde, derin borazan, huni veya trompet biçimindedir; ortası tabana kadar içi boş bir tüp şeklindedir. Üst yüzeyi koyu gri, kahverengimsi siyah veya kömür karasıdır; kenarları dalgalı, kıvrık ve düzensizdir.",
+          "hymenium": "Dış alt yüzey pürüzsüz, hafif damarlı veya kırışıktır; gerçek lameller bulunmaz. Rengi kül grisi veya mavi-gridir; sporlar olgunlaştıkça beyazımsı pudralı bir görünüm kazanır.",
+          "stipe": "Belirgin bir sapı yoktur; huni şeklindeki şapka aşağıya doğru incelerek doğrudan tabana bağlanır ve içi tamamen boştur.",
+          "flesh": "Etli kısım ince, elastik, siyahımsı gridir. Hoş, meyvemsi ve aromatik bir kokusu vardır.",
+          "habitat": "Meyve gövdeleri ağustos ayından kasım ayına kadar görülür. Kayın ve meşe ormanlarında, nemli yaprak döküntüleri arasında ve yosunlu yerlerde kümeler halinde yetişir.",
+          "sporePrint": "Beyaz ile soluk krem. Sporlar elipsoid, pürüzsüz ve yaklaşık 11–15 × 7–9 μm boyutlarındadır.",
+          "uses": "Seçkin yemeklik bir mantardır. Fransız mutfağında «trompette de la mort» adıyla bilinir ve 'fakir adamın trüfü' olarak anılır. Kurutulduğunda aroması fevkalade yoğunlaşır; çorbalara, soslara ve risottoya harika bir lezzet katar.",
+          "confusion": "Küllü borazan mantarı (Craterellus cinereus) alt yüzeyinde daha belirgin kıvrımlı damarlar taşır. Dalgalı trompet mantarı (Pseudocraterellus undulatus) kahverengimsi sarı tonlardadır.",
+          "notes": "Koyu rengi ve dökülmüş yapraklar arasına gizlenmesi nedeniyle orman zemininde fark edilmesi oldukça zordur."
+    },
       sl: {
           "description": "Ektomikorizna goba nenavadnega videza. Razširjena je v Evropi, Severni Ameriki in delih Azije v listnatih gozdovih.",
           "cap": "Trosnjak je trobentaste ali globoko lijakaste oblike, visok 4–12 cm in širok 2–8 cm, z valovitim zavihanim robom. Površina je luskasta, pepelnato siva do črna, v suhem vremenu svetlejša siva.",
@@ -14181,9 +15976,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar påträffas från augusti till november, ofta i stora klungor bland lövförna i ädellövskogar med ek, bok och hassel på kalkrik mark.',
       uses: 'En utsökt och eftersökt läcker matsvamp. Den lämpar sig synnerligen väl för torkning, varefter den kan smulas sönder och användas som krydda i såser och grytor.',
       confusion: 'Grå trumpetsvamp (Craterellus cinereus) har tydliga, grenade åsar på undersidan. Kruskantarell (Pseudocraterellus undulatus) är mindre, mer flikig och har gråbrun, rynkad undersida.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică înrudită cu gălbiorii. Este răspândită în pădurile de foioase din întreaga Europă, Asia și America de Nord.',
+      cap: 'Corpul fructifer este complet tubular, în formă de pâlnie adâncă sau corn, de 3–8 cm lățime și 4–12 cm înălțime, gol pe dinăuntru până la bază. Marginea este ondulată și răsfrântă în afară. Suprafața interioară este fin scămoasă, cenușiu-închisă până la negricioasă.',
+      hymenium: 'Suprafața fertilă exterioară este netedă sau slab încrețită longitudinal, lipsită de lamele adevărate, de culoare cenușiu-cenușie sau cenușiu-albăstruie când sporii sunt maturi.',
+      stipe: 'Nu există o delimitare clară între pălărie și picior, pâlnia continuându-se îngustată spre baza tubulară neagră.',
+      flesh: 'Carnea este foarte subțire, elastică, membranoasă, de culoare cenușie până la neagră. Mirosul este plăcut, intens aromat și fructat la uscare.',
+      sporePrint: 'Alb până la crem-gălbui palid. Sporii sunt elipsoidali, netezi, de 11–14 × 7–9 μm.',
+      habitat: 'Corpurile fructifere apar din august până în noiembrie. Crește în grupuri dense pe soluri umede și argiloase în păduri de fag și stejar, adesea camuflată în covorul de frunze moarte.',
+      uses: 'Este o specie comestibilă de mare valoare (comestibil excelent), extrem de apreciată la gătit. Se pretează excelent la uscare și măcinare ca pudră condimentară fină pentru sosuri.',
+      confusion: 'Trâmbița cenușie (Craterellus cinereus) are pliuri evidente sub pălărie. Trâmbița creață (Pseudocraterellus undulatus) are o pălărie brun-gălbuie cu marginea foarte creponată și pliuri anastomozate.'
+    },
+    bg: {
+      description: 'Ектомикоризна гъба. Широко разпространена в широколистните и смесените гори на умерената зона на Северното полукълбо.',
+      cap: 'Плодното тяло е с фуниевидна до тръбовидна форма с разперен, вълнообразен ръб, дълбоко кухо до основата. Диаметърът е 3–8 cm, а височината – 5–12 cm. Цветът отвътре е сажденосив до черно-кафяв.',
+      hymenium: 'Външната спороносна повърхност е гладка или слабо набръчкана, без същински ламели, пепелявосива до синкавосива от узрелия споров прашец.',
+      stipe: 'Пънчето не е обособено, а представлява стеснена тръбовидна долна част на самото плодно тяло.',
+      flesh: 'Месото е тънко, крехко, сиво-черно, с много приятен аромат и мек вкус.',
+      sporePrint: 'Бял до бледокремав. Спорите са елипсовидни, гладки, 11–14 × 7–9 μm.',
+      habitat: 'Плодните тела се срещат на групи от август до ноември в букови и дъбови гори върху богати на хумус почви.',
+      uses: 'Отлична ядлива гъба. Изключително ценена за сушене и стриване на прах като ароматна кулинарна подправка за супи и сосове.',
+      confusion: 'Къдравата тръбенка (Pseudocraterellus undulatus) има по-силно надиплен ръб и жълтеникаво-кафеникав оттенък.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/borazan-mantari-craterellus-cornucopioides/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Mantar"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -14454,6 +16283,35 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Svart_trumpetsvamp'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Craterellus_cornucopioides'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/craterellus-cornucopioides'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%A2%D1%80%D1%8A%D0%B1%D0%B5%D0%BD%D0%BA%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -14548,6 +16406,7 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 11,
     label: {
+      tr: "biftek mantarı",
       sl: "jetrasta cevača",
       hr: "vukovo meso",
       sr: "говеђи језик",
@@ -14565,7 +16424,9 @@ export const CATALOG = [
       pt: 'língua-de-vaca',
       da: 'oksetunge',
       no: 'oksetungesopp',
-      sv: 'oxtungssvamp'
+      sv: 'oxtungssvamp',
+      ro: 'limba boului',
+      bg: 'чернодробна гъба'
     },
     names: {
       en: ["beefsteak polypore", "ox tongue", "poor man's steak", "tongue mushroom"]
@@ -14575,6 +16436,18 @@ export const CATALOG = [
       pt: ['língua-de-boi', 'gasalho']
     },
     text: {
+      tr: {
+          "description": "Yaşlı geniş yapraklı ağaçlarda kahverengi çürüklüğe yol açan parazit ve odun çürüten saprofit bir mantardır. Avrupa, Asya ve Kuzey Amerika'da özellikle meşe ve kestane ağaçlarında yetişir.",
+          "cap": "Meyve gövdesi 10–25 cm genişliğinde ve 2–6 cm kalınlığında, dil veya böbrek biçimindedir. Yüzeyi kan kırmızısı, ciğer kırmızısı veya pas rengi kahverengidir; pürüzlü, sivilceli ve nemli havalarda yapışkandır.",
+          "hymenium": "Alt yüzey krem veya soluk sarı renkli gözeneklerden oluşur; yaşlandıkça kızıl kahverengine döner ve berelendiğinde kırmızılaşır. Borucuklar birbirine kaynaşmamış olup tek tek ayrılabilir tüpler halindedir.",
+          "stipe": "Genellikle kısa, yanal ve kalındır veya tamamen yok denecek kadar körelmiştir.",
+          "flesh": "Etli kısım kalın, etli, sulu ve kırmızımsıdır; kesildiğinde çiğ dana etini veya ciğeri andıran lifli mermerimsi çizgiler gösterir ve kırmızı bir sıvı salgılar. Tadı belirgin şekilde ekşimsi ve hoştur.",
+          "habitat": "Meyve gövdeleri ağustos ayından kasım ayına kadar görülür. Yaşlı canlı meşe ve kestane kütüklerinin alt kısımlarında veya yaralarında tek tek çıkar.",
+          "sporePrint": "Pembe-kahverengi veya pas rengi. Sporlar ovoid ile elipsoid, pürüzsüz ve yaklaşık 4,5–6 × 3–4 μm boyutlarındadır.",
+          "uses": "Yenilebilir bir mantardır. Ekşimsi tadı ve etimsi dokusuyla bilinir; genç örnekleri dilimlenip ızgarada pişirilebilir veya salatalarda çiğ olarak da tüketilebilir.",
+          "confusion": "Kaba kıllı polipor (Inonotus hispidus) elma ve meşe ağaçlarında yetişir, kaba tüylüdür, kırmızı et dokusuna sahip değildir ve yenmez.",
+          "notes": "Meşe ağacında oluşturduğu hafif kahverengi çürüklük ahşaba zengin koyu bir ton katar ve mobilyacılıkta 'fıçı meşesi' olarak değer görür."
+    },
       sl: {
           "description": "Zajedavska in saprotrofna lesna goba. Razširjena je v Evropi in Severni Ameriki ter povzroča rjavenje hrastovega lesa.",
           "cap": "Klobuk meri 10–25 cm v širino in 2–6 cm v debelino, je pahljačaste, jezikaste ali ledvičaste oblike. Površina je krvavordeča do jetrasto rjava, groba in v vlažnem vremenu sluzasta.",
@@ -14777,9 +16650,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar bildas från augusti till oktober på stammar och stubbar av mycket gamla levande eller döda ekar och äkta kastanjer.',
       uses: 'Ätlig matsvamp. Köttet skärs i skivor och steks eller tillagas i grytor; den syrliga smaken mildras vid tillagning.',
       confusion: 'Borstticka (Inonotus hispidus) har borstig, mörkbrun hatt och växer på andra lövträd. Gropticka (Phaeolus schweinitzii) växer vid tallar och har brunt, träigt kött.'
+    },
+    ro: {
+      description: 'Ciupercă parazită și saprotrofă pe arbori bătrâni de stejar și castan comestibil. Provoacă în lemnul gazdă o colorație brun-roșiatică decorativă prețuită în tâmplărie. Răspândită în Europa, America de Nord și Australia.',
+      cap: 'Corpul fructifer are 10–25 cm lățime și 2–6 cm grosime, în formă de consolă semicirculară, spatulată sau de limbă masivă. Suprafața este rugoasă, catifelată și gelatinoasă la umezeală, de culoare roșu-sângerie până la brun-roșiatică ca ficatul.',
+      hymenium: 'Format din tuburi distincte, libere între ele (nesudate lateral), de 0,5–1,5 cm lungime, inițial alb-gălbui și apoi brun-roșiatice. Porii sunt mărunți, rotunzi, pătându-se în roșu-brun la atingere.',
+      stipe: 'Piciorul este scurt, lateral și îngroșat sau adesea lipsește complet.',
+      flesh: 'Carnea este groasă, suculentă, fibroasă, de un roșu intens cu striații radiale albicioase ce amintesc frapant de carnea de vită crudă. La tăiere secretă un suc roșiatic astringent. Gustul este acrișor și proaspăt.',
+      sporePrint: 'Rozaliu-ocru până la brun-ruginiu. Sporii sunt ovali, de circa 4,5–6 × 3,5–4,5 μm.',
+      habitat: 'Corpurile fructifere apar din august până în noiembrie pe trunchiurile și buturugile de stejar bătrân.',
+      uses: 'Este o specie comestibilă bună (comestibil) în stadiu tânăr. Se taie felii subțiri și se poate găti pane sau prăji la tigaie.',
+      confusion: 'Aspectul de limbă roșie însângerată și tuburile libere între ele o diferențiază de alte ciuperci de pe stejar, precum iasca galbenă (Inonotus dryadeus) sau găina de pădure (Laetiporus sulphureus).'
+    },
+    bg: {
+      description: 'Паразитна и сапротрофна дървесна гъба, развиваща се по стволовете на стари дъбове и кестени. Причинява кафяво оцветяване на дървесината, ценено в дърводелството.',
+      cap: 'Плодното тяло е месесто, езиковидно или бъбрековидно, с ширина 10–25 cm и дебелина 2–6 cm. Повърхността е кървавочервена до чернодробно кафява, грапава и лепкава при влажно време.',
+      hymenium: 'Тръбичките са свободни една от друга, белезникави до розово-кремави, при натиск покафеняващи.',
+      stipe: 'Пънчето е късо, странично разположено и дебело, или липсва.',
+      flesh: 'Месото е червеникаво, сочно, мраморно нашарено със светли жилки, силно наподобяващо сурово говеждо месо или черен дроб. Отделя червеникав сок и има приятно кисел вкус.',
+      sporePrint: 'Розово-кафяв. Спорите са овални, гладки, около 4,5–6 × 3,5–4 μm.',
+      habitat: 'Плодните тела се появяват от август до октомври в основата или по хралупите на стари живи дъбове и кестени.',
+      uses: 'Добра ядлива гъба в млада възраст. Може да се консумира прясна на тънки резени в салати или пържена.',
+      confusion: 'Поради уникалния си вид на сурово месо и отделните несраснали тръбички почти няма опасни двойници сред дървесните гъби.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/biftek-mantari-fistulina-hepatica/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Fistulina_hepatica"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -15052,6 +16959,35 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Oxtungssvamp'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Fistulina_hepatica'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/fistulina-hepatica'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B4%D1%80%D0%BE%D0%B1%D0%BD%D0%B0_%D0%B3%D1%8A%D0%B1%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -15144,6 +17080,7 @@ export const CATALOG = [
     fruitingFrom: 5,
     fruitingTo: 11,
     label: {
+      tr: "kuzumantarı",
       sl: "žametasti goban",
       hr: "baršunasti vrganj",
       sr: "глатконошка",
@@ -15160,7 +17097,9 @@ export const CATALOG = [
       nl: 'Gewone heksenboleet',
       da: 'punktstokket indigo-rørhat',
       no: 'blodrørsopp',
-      sv: 'blodsopp'
+      sv: 'blodsopp',
+      ro: 'mânătarcă țigănească',
+      bg: 'червеностъблена манатарка'
     },
     names: {
       en: ["red foot bolete", "dotted stemmed bolete", "dotted stem bolete"],
@@ -15188,9 +17127,22 @@ export const CATALOG = [
       cs: ["modrák","hřib kovářovitý"],
       es: ['boleto punteado'],
       nl: ['Heksenboleet'],
-      da: ['punktstokket rørhat']
+      da: ['punktstokket rørhat'],
+      ro: ['hrib cărămiziu']
     },
     text: {
+      tr: {
+          "description": "Ektomikorizal bir mantardır. Avrupa'da yaygın olup yaprak döken ve iğne yapraklı ormanlarda, özellikle kayın, meşe, ladin ve göknar altında asidik zeminlerde yetişir.",
+          "cap": "Şapka 6–20 cm genişliğinde olup başlangıçta yarım küre biçimlidir ve zamanla dışbükeyleşir. Koyu kahverengi, kestane kahvesi veya kadifemsi süet rengindedir; yüzeyi kuru ve mattır.",
+          "hymenium": "Borucuklar sarı-yeşildir; gözenekler başlangıçta turuncu iken hızla kan kırmızısı veya yakut kırmızısına döner. Dokunulduğunda veya berelendiğinde anında koyu mavi-siyaha lekelenir.",
+          "stipe": "Sap 6–15 cm uzunluğunda ve 2–5 cm kalınlığında, sarı zemin üzerinde yoğun kırmızı benekler ve taneciklerle kaplıdır; ağ deseni kesinlikle taşımaz. Ezildiğinde anında maviye döner.",
+          "flesh": "Etli kısım parlak sarıdır; kesildiği anda saniyeler içinde koyu lacivert-maviye döner ve daha sonra yavaşça solar. Hoş, mantarımsı bir kokusu vardır.",
+          "habitat": "Meyve gövdeleri haziran ayından kasım ayına kadar görülür. Asidik zeminli kayın, ladin ve meşe ormanlarında yaygındır.",
+          "sporePrint": "Zeytin kahverengisi. Sporlar mekiksi, pürüzsüz ve yaklaşık 12–17 × 5–7 μm boyutlarındadır.",
+          "uses": "Şartlı yenilebilir bir mantardır. Çiğ tüketildiğinde gastrointestinal zehirlenmeye yol açan toksinler içerir; ancak en az 15–20 dakika iyice pişirildiğinde bu toksinler parçalanır ve mükemmel lezzette bir yemeklik mantara dönüşür.",
+          "confusion": "Zehirli şeytan mantarı (Rubroboletus satanas) tebeşir beyazı bir şapkaya ve kırmızı bir ağ desenine sahiptir. Suillellus luridus belirgin kırmızı bir ağ deseni taşır.",
+          "notes": "Kesildiğinde görülen hızlı mavi renk değişimi variegatik asidin oksitlenmesinden kaynaklanır."
+    },
       sl: {
           "description": "Ektomikorizna goba iglastih in mešanih gozdov. Razširjena je po vsej Evropi in zelo priljubljena med izkušenimi gobarskimi poznavalci.",
           "cap": "Klobuk meri 6–20 cm v premeru, sprva je polkrožen, nato blazinast. Je temno rjave, kavne do skoraj črnorjave barve z žametasto, mat površino, ki v starosti nekoliko ogoli.",
@@ -15393,9 +17345,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar uppträder från juni till oktober i sura löv- och barrskogar, ofta tillsammans med gran, bok och ek.',
       uses: 'En mycket god matsvamp efter noggrann genomstekning eller kokning. I rått tillstånd är den giftig och orsakar mag- och tarmbesvär.',
       confusion: 'Den giftiga djävulssoppen (Rubroboletus satanas) har kritvit till ljusgrå hatt och ett fint rött ådernät på foten. Eldsopp (Suillellus luridus) har gulbrun hatt och ett tydligt rött ådernät på foten.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică robustă din pădurile de conifere și foioase. Este comună pe scară largă în Europa și Asia.',
+      cap: 'Pălăria are 6–20 cm lățime, semisferică și apoi convexă. Cuticula este uscată, fin catifelată, de culoare brun-închis, brun-castanie până la brun-negricioasă.',
+      hymenium: 'Tuburile sunt galben-verzui, virând instantaneu în albastru-închis la secțiune. Porii sunt mici, rotunzi, de un roșu-portocaliu aprins până la roșu-sângeriu, devenind imediat albastru-indigo la atingere.',
+      stipe: 'Piciorul are 6–15 cm lungime și 2–5 cm grosime, robust, cilindric sau îngroșat la bază, galben-portocaliu, acoperit dens cu granule fine roșii-cărămizii, fără rețea reliefată.',
+      flesh: 'Carnea este galbenă și fermă, virând imediat și intens în albastru-închis spre indigo la tăiere sau rănire. Mirosul este slab de ciupercă, iar gustul este blând și plăcut.',
+      sporePrint: 'Brun-măsliniu. Sporii sunt fusiformi, de circa 12–17 × 4,5–6 μm.',
+      habitat: 'Corpurile fructifere apar din iunie până în noiembrie în păduri montane de molid și brad, precum și sub fagi și stejari pe soluri acide.',
+      uses: 'Este o specie comestibilă foarte bună (comestibil cu precauție) după o preparare termică temeinică de cel puțin 20 de minute. În stare crudă este toxică, provocând tulburări gastrointestinale.',
+      confusion: 'Buretele dracului (Rubroboletus satanas) este toxic, are pălăria de un alb-cenușiu palid, o rețea roșie evidentă pe picior și un miros respingător la maturitate. Suillellus luridus are o rețea roșie reliefată pe picior.'
+    },
+    bg: {
+      description: 'Ектомикоризна гъба. Често срещана в иглолистните и широколистните гори на Европа върху кисели почви.',
+      cap: 'Гуглата е с диаметър 8–20 cm, тъмнокафява, кадифена, възглавничковидна.',
+      hymenium: 'Тръбичките са жълтозеленикави, а порите са дребни, наситено червени до оранжево-червени, мигновено посиняващи при натиск.',
+      stipe: 'Пънчето е масивно, жълтеникаво, покрито с гъсти дребни червени зрънца или люспици (точчици), без мрежичка, високо 6–15 cm и дебело 2–5 cm.',
+      flesh: 'Месото е наситено жълто, като при разрез или нараняване моментално се оцветява в тъмносиньо до мастилено. Няма отчетлива миризма.',
+      sporePrint: 'Маслиненокафяв. Спорите са вретеновидни, гладки, около 12–16 × 5–6 μm.',
+      habitat: 'Плодните тела се срещат от май до ноември под смърч, ела, бук и дъб.',
+      uses: 'Много добра ядлива гъба след задължително продължително готвене. В суров вид е отровна и причинява стомашни разстройства.',
+      confusion: 'Дяволската гъба (Rubroboletus satanas) има белезникава гугла и мрежичка по пънчето. Огнената манатарка (Suillellus luridus) има кафява гугла, но носи изразена тъмна мрежица по пънчето.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/kuzumantari-neoboletus-luridiformis/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/%C3%87%C3%B6rek_mantar%C4%B1"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -15652,6 +17638,35 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Blodsopp'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Boletus_erythropus'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/neoboletus-luridiformis'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%B2%D0%B5%D0%BD%D0%BE%D1%81%D1%82%D1%8A%D0%B1%D0%BB%D0%B5%D0%BD%D0%B0_%D0%BC%D0%B0%D0%BD%D0%B0%D1%82%D0%B0%D1%80%D0%BA%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -15739,6 +17754,7 @@ export const CATALOG = [
     fruitingFrom: 4,
     fruitingTo: 6,
     label: {
+      tr: "kokulu beyaz cincile",
       sl: "majniška lepoglavka",
       hr: "bijela đurđevača",
       sr: "ђурђевача",
@@ -15756,15 +17772,31 @@ export const CATALOG = [
       pt: 'cogumelo-de-São-Jorge',
       da: 'vårmusseron',
       no: 'vårfagerhatt',
-      sv: 'vårmusseron'
+      sv: 'vårmusseron',
+      ro: 'buretele lui Sfântul Gheorghe',
+      bg: 'майска гъба'
     },
     names: {
       sk: ["čírovka májová", "májovka"]
     ,
       cs: ["májovka"],
-      es: ['perrechico', 'blanquilla']
+      es: ['perrechico', 'blanquilla'],
+      ro: ['burete de mai', 'nicorete'],
+      bg: ['гергьовка']
     },
     text: {
+      tr: {
+          "description": "Saprofit bir mantardır. Avrupa'da yaygın olup ilkbaharda çayırlarda, meralarda, yol kenarlarında ve kireçli zeminlerde peri halkaları halinde ortaya çıkar.",
+          "cap": "Şapka 5–12 cm genişliğinde olup kalın, etli ve başlangıçta yarım küre biçimlidir; kenarları belirgin şekilde içe kıvrıktır ve daha sonra dalgalı olarak açılır. Rengi beyaz, krem veya soluk devetüyüdür; yüzeyi pürüzsüz ve derimsi bir his verir.",
+          "hymenium": "Lameller dar, son derece sık ve sapa yapışıktır; beyaz veya krem renklidir.",
+          "stipe": "Sap 4–8 cm uzunluğunda ve 1,5–3 cm kalınlığında, kalın, sert, silindirik ve tabana doğru şişkindir; şapkayla aynı beyaz veya krem renktedir.",
+          "flesh": "Etli kısım kalın, sert ve beyazdır. Çok belirgin ve kuvvetli taze un (salatalık/tahıl) kokusuna ve hoş bir tada sahiptir.",
+          "habitat": "Meyve gövdeleri nisan ayından haziran başına kadar (özellikle Hıdırellez/Aziz George günü civarında) görülür. Otlaklarda, kireçli çayırlarda, kireçtaşı tepelerinde ve çalılık kenarlarında yetişir.",
+          "sporePrint": "Beyaz. Sporlar elipsoid, pürüzsüz ve yaklaşık 5–7 × 3,5–4 μm boyutlarındadır.",
+          "uses": "Seçkin yemeklik bir mantardır. İlkbaharın en değerli yemeklik türlerinden biridir; kuvvetli un aroması pişirildiğinde yerini zengin ve lezzetli bir tada bırakır.",
+          "confusion": "Zehirli ağulu kıvrıkbaş mantarı (Entoloma sinuatum) yaz ve sonbaharda çıkar, sarımsı-pembe lamellere ve pembe spor izine sahiptir. Zehirli ağlak kümbet mantarı (Inosperma erubescens) konik şapkalıdır ve berelendiğinde kızarır.",
+          "notes": "Geleneksel olarak Avrupa'da 23 Nisan Aziz George gününde ortaya çıkmasıyla meşhurdur."
+    },
       sl: {
           "description": "Zgodnja spomladanska saprotrofna goba travnikov in gozdnih robov. Razširjena je v Evropi in Aziji.",
           "cap": "Klobuk meri 5–12 cm v premeru, je masiven, sprva polkrožen z močno spodvitim robom, kasneje se delno zravna. Barva je kremasto bela, bledo oker ali usnjato rumenkasta, površina je gladka in suha.",
@@ -15967,9 +17999,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar bildas från maj till juni i betesmarker, parker, vägrenar, skogsbryn och kalkrika gräsmarker, ofta i stora häxringar.',
       uses: 'En uppskattad och välsmakande matsvamp som är en av vårens första matsvampar. Den passar utmärkt att steka eller stuva.',
       confusion: 'Bolmörtsskivling (Entoloma sinuatum) är starkt giftig, fruktifierar senare på sommaren/hösten och får rosa skivor vid mognad. Gifttråding (Inosperma erubescens) är dödligt giftig, rodnar långsamt vid brytning och har bruna sporer.'
+    },
+    ro: {
+      description: 'Ciupercă saprotrofă timpurie de primăvară din pajiști și liziere. Răspândită în întreaga Europă, apărând tradițional în preajma sărbătorii Sfântului Gheorghe.',
+      cap: 'Pălăria are 5–15 cm lățime, foarte cărnoasă și compactă, inițial semisferică cu marginea răsfrântă spre interior, apoi convexă. Cuticula este netedă, mată, de culoare albă, crem sau ocru-deschis.',
+      hymenium: 'Lamelele sunt foarte dese, înguste, adnate sau slab dințate la picior, inițial albe și apoi crem-gălbui.',
+      stipe: 'Piciorul are 4–9 cm lungime și 1,5–3,5 cm grosime, robust, cilindric sau îngroșat spre bază, de aceeași culoare albă sau crem ca pălăria.',
+      flesh: 'Carnea este albă, groasă și fermă. Mirosul și gustul sunt puternice și caracteristice, de făină proaspătă măcinată.',
+      sporePrint: 'Alb. Sporii sunt elipsoidali, netezi, de circa 5–7 × 3,5–4,5 μm.',
+      habitat: 'Corpurile fructifere apar din aprilie până în iunie. Crește în cercuri mari ale vrăjitoarelor pe pășuni calcaroase, liziere, fânețe și tufișuri de mărăcini.',
+      uses: 'Este o specie comestibilă de mare valoare (comestibil excelent), extrem de căutată primăvara pentru carnea sa consistentă și aroma distinctă de făină.',
+      confusion: 'Buretele cărămiziu (Inosperma erubescens) este o ciupercă toxică mortală ce poate apărea în același sezon; se distinge prin înroșirea cărnii și a lamelelor la lovire, mirosul fructat și sporii bruni. Entoloma sinuatum apare mai târziu, are lamele roz la maturitate și miros neplăcut de făină râncedă.'
+    },
+    bg: {
+      description: 'Пролетна сапротрофна гъба, израстваща по пасища, храсталаци и горски покрайнини. Широко разпространена в умерените пояси на Европа.',
+      cap: 'Гуглата е с диаметър 5–12 cm, дебела, месеста, отначало полукълбовидна с подвит ръб, после плоска. Цветът е бял, кремав до бледоохрен.',
+      hymenium: 'Ламелите са белезникави до кремави, много гъсти, тесни и прираснали към пънчето.',
+      stipe: 'Пънчето е бяло, плътно, масивно, високо 4–8 cm и дебело 1,5–3 cm.',
+      flesh: 'Месото е бяло, компактно, със силен и характерен аромат и вкус на прясно брашно.',
+      sporePrint: 'Бял. Спорите са елипсовидни, гладки, около 5–6 × 3–4 μm.',
+      habitat: 'Плодните тела се появяват през пролетта (април–юни, особено около Гергьовден) по поляни, пасища и покрайнини на храсти, често в самодивски кръгове.',
+      uses: 'Отлична ядлива гъба, високо ценена заради пролетното си плододаване и ароматното си месо.',
+      confusion: 'Смъртоносно отровната червеникава дипленка (Inosperma erubescens) се появява по същото време, но месото ѝ почервенява при нараняване и няма брашнян мирис. Отровните бели орешарки (Clitocybe dealbata) са по-дребни и с низбягващи ламели.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/kokulu-cincile-calocybe-gambosa/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Mantar"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -16268,6 +18334,35 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/V%C3%A5rmusseron'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Calocybe_gambosa'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/calocybe-gambosa'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B9%D1%81%D0%BA%D0%B0_%D0%B3%D1%8A%D0%B1%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -16363,6 +18458,7 @@ export const CATALOG = [
     fruitingFrom: 5,
     fruitingTo: 9,
     label: {
+      tr: "ağlak kümbet mantarı",
       sl: "rdečkasta razcepljenka",
       hr: "crvenkasta cjepača",
       sr: "црвенкаста цепача",
@@ -16379,7 +18475,9 @@ export const CATALOG = [
       nl: 'Giftige vezelkop',
       da: 'giftig trævlhat',
       no: 'vårtrevlesopp',
-      sv: 'gifttråding'
+      sv: 'gifttråding',
+      ro: 'burete cărămiziu',
+      bg: 'вълчи зъб'
     },
     names: {
       en: ["red-staining Inocybe", "red-staining fibrecap", "brick-red tear mushroom"]
@@ -16389,6 +18487,18 @@ export const CATALOG = [
       sv: ['patouillards trådskivling', 'tegelröd trådskivling']
     },
     text: {
+      tr: {
+          "description": "Ölümcül zehirli ve ektomikorizal bir mantardır. Avrupa'da ilkbahar ve yaz aylarında kayın, meşe ve ıhlamur gibi geniş yapraklı ağaçların altında kireçli topraklarda yetişir.",
+          "cap": "Şapka 3–8 cm genişliğinde olup başlangıçta konik veya çan biçimlidir; zamanla merkezinde sivri bir tümsek bırakarak açılır ve kenarları sıklıkla radyal olarak çatlar. Beyaz veya fildişi renklidir; berelendiğinde, kesildiğinde veya yaşlandıkça yavaşça tuğla kırmızısına veya pas kırmızısına döner.",
+          "hymenium": "Lameller başlangıçta beyazımsıdır; sporlar olgunlaştıkça zeytinsi kahverengiye döner ve berelendiğinde kırmızı lekeler geliştirir. Sapa yapışık veya serbesttir.",
+          "stipe": "Sap 4–8 cm uzunluğunda ve 0,8–1,5 cm kalınlığında, silindirik, beyaz liflidir; dokunulduğunda ve tabanda belirgin şekilde kırmızılaşır. Halka veya volva taşımaz.",
+          "flesh": "Etli kısım beyazdır; havayla temas ettiğinde veya kesildiğinde yavaşça parlak kırmızıya veya pembe-kırmızıya döner. Kokusu gençken hafif ve meyvemsi, yaşlandıkça bayıltıcı ve nahoştur.",
+          "habitat": "Meyve gövdeleri mayıs ve haziran aylarında (bazen temmuza kadar) görülür. Kireçli geniş yapraklı ormanlarda, parklarda ve bahçelerde kayın ve meşe altında tek tek veya küçük gruplar halinde yetişir.",
+          "sporePrint": "Kahverengi veya tütün kahverengisi. Sporlar fasulye şeklinde veya elipsoid, pürüzsüz ve yaklaşık 12–15 × 6,5–8 μm boyutlarındadır.",
+          "uses": "Ölümcül zehirlidir. Son derece yüksek oranda muskarin içerir (Amanita muscaria'dan katbekat fazladır). Şiddetli terleme, tükürük salgısı, gözyaşı, görme bozukluğu, kalp yavaşlaması ve solunum durmasına yol açan muskarinik sendroma ve ölüme neden olur.",
+          "confusion": "İlkbaharda çıkan yenilebilir kokulu beyaz cincile (Calocybe gambosa) un kokuludur, berelendiğinde kızarmaz ve beyaz spor izi taşır. Çayır mantarları pembe-kahverengi lamellere ve halkaya sahiptir.",
+          "notes": "Muskarin toksini vücutta parasempatik sinir sistemini aşırı uyararak hayati tehlike yaratır; atropin spesifik panzehiridir."
+    },
       sl: {
           "description": "Smrtno strupena spomladanska ektomikorizna goba. Razširjena je v Evropi v listnatih gozdovih in parkih.",
           "cap": "Klobuk meri 3–8 cm v premeru, sprva je stožčast ali zvonast, kasneje zravnan z izrazito topo grbo. Barva je sprva belkasta do oker, s staranjem in ob poškodbi pa se po celotni površini obarva opečnato rdeče ali rdečkasto. Rob je pogosto radialno razpokan.",
@@ -16586,9 +18696,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar påträffas från maj till juli i parker, trädgårdar och ädellövskogar med bok, ek och lind på kalkrik mark.',
       uses: 'Dödligt giftig. Innehåller extremt höga halter av muskarin som orsakar allvarlig muskarinförgiftning med kraftiga svettningar, tårflöde, andnöd och hjärtstillestånd.',
       confusion: 'Vårmusseron (Calocybe gambosa) har vitt sporpulver, kött som inte rodnar och en tydlig doft av mjöl. Nejlikbrosking (Marasmius oreades) har seg fot, vitt sporpulver och växer på magrare ängsmark.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică mortală de primăvară și început de vară. Este întâlnită în Europa Centrală și de Sud, crescând pe soluri calcaroase.',
+      cap: 'Pălăria are 3–8 cm lățime, inițial conică sau clopotită, cu un mamelon central obtuz, apoi aplatizată și adesea crăpată radial la margine. Culoarea este alb-crem la început, pătându-se și virând rapid în roșu-cărămiziu sau roz-roșiatic la atingere și odată cu vârsta.',
+      hymenium: 'Lamelele sunt dese, adnate, inițial albicioase, devenind măsliniu-brunii și pătate cu pete roșii-cărămizii.',
+      stipe: 'Piciorul are 4–10 cm lungime și 0,8–1,5 cm grosime, cilindric, albicios la început și virând treptat în roșu-cărămiziu la manipulare.',
+      flesh: 'Carnea este albă, virând în roșu la secțiune. Mirosul este dulceag și fructat la început, devenind neplăcut la bătrânețe.',
+      sporePrint: 'Brun-gălbui până la brun-ocru. Sporii sunt netezi, alungiți, de circa 11–15 × 6–8 μm.',
+      habitat: 'Corpurile fructifere apar din mai până în iulie în păduri de foioase (fag, stejar, carpen) și parcuri pe soluri calcaroase.',
+      uses: 'Ciuperca este mortală (mortal). Conține cantități masive de muscarină (mult mai concentrate decât în Amanita muscaria), provocând sindrom colinergic acut și deces prin stop cardiorespirator.',
+      confusion: 'Buretele lui Sfântul Gheorghe (Calocybe gambosa) apare în aceeași perioadă, dar carnea sa rămâne albă și nu se înroșește la tăiere sau atingere, are miros puternic de făină și amprentă sporală albă.'
+    },
+    bg: {
+      description: 'Смъртоносно отровна ектомикоризна гъба от семейство Inocybaceae. Расте през пролетта и ранното лято в широколистни и смесени гори в Европа.',
+      cap: 'Гуглата е с диаметър 3–8 cm, първоначално конична до звънчевидна, по-късно разперена с остър централен връх. Цветът е белезникав до бледожълтеникав, бързо покриващ се с тухленочервени или розово-червени петна при допир или застаряване. Повърхността е радиално влакнеста и се напуква по ръба.',
+      hymenium: 'Ламелите са гъсти, прираснали, отначало белезникави, след това маслиненокафяви с червеникави петна.',
+      stipe: 'Пънчето е цилиндрично, бяло до розовеещо, почервеняващо при пипане, високо 4–10 cm и дебело 0,8–1,5 cm.',
+      flesh: 'Месото е бяло, бавно почервеняващо при нараняване, със слаб плодов аромат.',
+      sporePrint: 'Глинестокафяв до тютюневокафяв. Спорите са гладки, бобовидни до елипсовидни, 9–14 × 5–7 μm.',
+      habitat: 'Плодните тела се срещат от май до юли в широколистни гори и паркове, предимно под бук и липа на варовити почви.',
+      uses: 'Смъртоносно отровна гъба, съдържаща изключително високи концентрации на мускарин (многократно по-високи от тези в червената мухоморка). Предизвиква тежък холинергичен синдром, водещ до сърдечна и дихателна недостатъчност.',
+      confusion: 'Майската гъба (Calocybe gambosa) расте по същото време на годината, но има силен аромат на брашно, ламелите ѝ остават бели и никога не почервенява при докосване.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/aglak-kumbet-inosperma-erubescens/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27nin_zehirli_mantarlar%C4%B1_listesi"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -16860,6 +19004,30 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Gifttr%C3%A5ding'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Inocybe_erubescens'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/inosperma-erubescens'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%92%D1%8A%D0%BB%D1%87%D0%B8_%D0%B7%D1%8A%D0%B1'
+        }
       ]
     },
     synonyms: ["Inocybe erubescens A. Blytt", "Inocybe patouillardii Bres."]
@@ -16940,6 +19108,7 @@ export const CATALOG = [
     fruitingFrom: 7,
     fruitingTo: 12,
     label: {
+      tr: "beyaz sığır dili mantarı",
       sl: "rumeni ježek",
       hr: "prosenjak",
       sr: "јежевица",
@@ -16957,7 +19126,9 @@ export const CATALOG = [
       pt: 'língua-de-vaca',
       da: 'almindelig pigsvamp',
       no: 'sørlig blek piggsopp',
-      sv: 'blek taggsvamp'
+      sv: 'blek taggsvamp',
+      ro: 'flocoșel',
+      bg: 'жълта рогачка'
     },
     names: {
       en: ["hedgehog mushroom", "hedgehog fungus", "sweet tooth"],
@@ -16965,9 +19136,23 @@ export const CATALOG = [
     ,
       cs: ["jelenka zprohýbaná"],
       es: ['gamuza', 'lengua de gato'],
-      pt: ['pé-de-carneiro']
+      pt: ['pé-de-carneiro'],
+      ro: ['burete cu ghimpi'],
+      bg: ['овчи нос']
     },
     text: {
+      tr: {
+          "description": "Ektomikorizal bir mantardır. Avrupa genelinde hem iğne yapraklı hem de yaprak döken ormanlarda yaygın ve sıktır. 2018 yılındaki bir revizyon Avrupa kayıtlarını doğrulamıştır. Kuzey Amerika ve Doğu Asya'dan bu ad altında yapılan eski kayıtlar başka türlere aittir.",
+          "cap": "Şapka 3–15 cm genişliğinde olup başlangıçta dışbükeydir; daha sonra düzleşir, dalgalı veya loblu bir hal alır. Krem, devetüyü veya açık sarımsı devetüyü renktedir; kuru, pürüzsüz ve kadifemsi bir yüzeye sahiptir.",
+          "hymenium": "Alt yüzey gerçek lameller yerine 2–7 mm uzunluğunda sık, yumuşak ve kırılgan dikenlerle kaplıdır. Dikenler beyazımsı veya soluk devetüyü renktedir ve sapa hafifçe sarkar; kolayca kırılıp dökülebilir.",
+          "stipe": "Sap 2–10 cm uzunluğunda ve 0,5–3 cm kalınlığında, silindirik veya tabana doğru hafifçe kalınlaşan yapıdadır; şapkayla aynı renkte veya biraz daha açık renklidir. Genellikle merkezin dışında (eksantrik) yer alır.",
+          "flesh": "Etli kısım kalın, sert, kırılgan ve beyazımsıdır; berelendiğinde veya havayla temas ettiğinde hafifçe sarımsı-kahverengiye dönebilir. Hoş, meyvemsi bir kokusu ve tatlımsı, hafif biberli bir tadı vardır.",
+          "habitat": "Meyve gövdeleri temmuz ayından kasım ayına kadar görülür. Kayın, meşe, kestane, çam ve ladin ağaçlarının altında asidik veya kireçli zeminlerde peri halkaları ya da dağınık gruplar halinde yetişir.",
+          "sporePrint": "Beyaz ile açık krem rengi. Sporlar pürüzsüz, ince çeperli, şeffaf, yarı küremsi ile geniş elipsoid biçiminde ve yaklaşık 6,5–9 × 5,5–7 μm boyutlarındadır.",
+          "uses": "Seçkin yemeklik bir mantardır. Yaşlı örnekler acılaşabileceğinden taze ve genç gövdeler tercih edilir; pişirilmeden önce altındaki dikenlerin temizlenmesi acılığı azaltır. Kızartılarak veya güveçlerde pişirilir; kurutmaya da uygundur.",
+          "confusion": "Turuncu sığır dili mantarı (Hydnum rufescens) daha küçüktür, daha koyu turuncu-kayısı rengi şapkaya ve sapa sarkmayan dikenlere sahiptir. Sarcodon imbricatus kahverengi pullu bir şapkaya sahiptir.",
+          "notes": "2019 yılındaki bir değerlendirmede Asgari Endişe (Least Concern) kategorisinde listelenmiştir."
+    },
       sl: {
           "description": "Ektomikorizna goba z igličasto trosovnico. Samonikla je v Evropi, Severni Ameriki in delih Azije v listnatih in mešanih gozdovih.",
           "cap": "Klobuk ima premer 5–15 cm, je nepravilne, izbočene do sploščene oblike z valovitim robom. Barva je bledo rumena, kremasto oker do bledo oranžna, površina je suha in žametasta.",
@@ -17169,9 +19354,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar utvecklas från juli till november i barr- och lövskogar, ofta i mykorrhiza med gran, tall och bok, och växer gärna i täta rader eller ringar.',
       uses: 'En mycket god och uppskattad matsvamp som sällan angrips av insekter. Den steks, stuvas, torkas eller fryses in efter förvällning.',
       confusion: 'Rödgul taggsvamp (Hydnum rufescens) är mindre, spensligare, har rödgul hatt och taggar som inte löper nedför foten.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică. Este larg răspândită și comună în Europa, Asia și America de Nord, crescând pe o mare varietate de soluri forestiere.',
+      cap: 'Pălăria are 3–15 cm lățime. Este convexă la început, apoi aplatizată și adesea deprimată neregulat în centru, cu marginea ondulată sau lobată. Suprafața este uscată, netedă sau fin catifelată, de culoare crem-albicioasă, galben-ocru palid până la somon-deschis.',
+      hymenium: 'Partea inferioară este acoperită cu aculi deși, moi și fragili, lungi de 2–7 mm, care coboară adesea ușor pe picior. Aculii sunt albicioși la început, căpătând nuanțe ocru-gălbui sau portocalii-deschis odată cu vârsta. Se desprind ușor la atingere.',
+      stipe: 'Piciorul are 2–10 cm lungime și 0,5–3 cm grosime, cilindric sau îngroșat spre bază, adesea excentric. Este plin, robust, albicios sau de aceeași culoare palidă ca pălăria.',
+      flesh: 'Carnea este groasă, fermă, casantă, albă până la gălbuie-palid, virând lent în galben-brun la contactul cu aerul. Mirosul este plăcut, ușor fructat, iar gustul este blând în tinerețe, devenind amărui la exemplarele bătrâne.',
+      sporePrint: 'Alb până la crem-palid. Sporii sunt rotunzi până la elipsoidali, netezi, de circa 6,5–9 × 5,5–7 μm.',
+      habitat: 'Corpurile fructifere apar din iulie până în noiembrie în păduri de foioase și conifere, asociate cu fagul, stejarul, molidul și pinul, formând adesea șiruri sau cercuri ale vrăjitoarelor.',
+      uses: 'Este o specie comestibilă de mare valoare (comestibil excelent). Se recomandă exemplarele tinere; la exemplarele mai mature aculii pot fi rași pentru a îndepărta gustul ușor amărui înainte de gătire.',
+      confusion: 'Flocoșelul roșiatic (Hydnum rufescens) este mai mic, cu pălăria de un portocaliu-caisă mai intens, aculi mai scurți și nedecurenți, și crește adesea în locuri mai umede. Buretele uliului (Sarcodon imbricatus) este mult mai mare, brun-cenușiu, cu solzi mari pe pălărie.'
+    },
+    bg: {
+      description: 'Ектомикоризна гъба с шипчест хименофор. Широко разпространена в горите на умерената зона на Европа, Азия и Северна Америка.',
+      cap: 'Гуглата е с диаметър 4–12 cm, неправилна, изпъкнала до вдлъбната, често с нагънат и напукан ръб. Цветът е бледокремав, жълтеникав до бледооранжев. Повърхността е суха и гладка.',
+      hymenium: 'Хименофорът се състои от гъсти, чупливи шипчета, спускащи се по пънчето. Те са белезникави до светложълти, лесно отделящи се при докосване.',
+      stipe: 'Пънчето е бяло до кремаво, масивно, плътно, ексцентрично или централно разположено, високо 3–8 cm и дебело 1–3 cm.',
+      flesh: 'Месото е бяло, плътно и чупливо, на въздух бавно придобиващо оранжев оттенък. Има приятен плодов аромат и леко пикантен вкус при стари екземпляри.',
+      sporePrint: 'Бял. Спорите са широко елипсовидни, гладки, 7–9 × 6–7 μm.',
+      habitat: 'Плодните тела се появяват от юли до ноември на групи или самодивски кръгове в иглолистни и широколистни гори (под бук, дъб, смърч и бор).',
+      uses: 'Много добра ядлива гъба. Препоръчва се шипчетата да се остържат при по-старите гъби, за да се избегне лека горчивина.',
+      confusion: 'Червеникавата рогачка (Hydnum rufescens) е по-дребна, с по-тънка оранжево-червеникава гугла и ненанизбягващи шипчета. Пачият крак (Cantharellus cibarius) има жилки вместо шипчета.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/sigir-dili-hydnum-repandum/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Mantar"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -17457,6 +19676,35 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Blek_taggsvamp'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Hydnum_repandum'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/hydnum-repandum'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%AF%D0%B4%D0%BB%D0%B8%D0%B2%D0%B0_%D0%B3%D1%8A%D0%B1%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -17552,6 +19800,7 @@ export const CATALOG = [
     fruitingFrom: 7,
     fruitingTo: 12,
     label: {
+      tr: "kiremit balaban mantarı",
       sl: "rjavi ježevec",
       hr: "srnjača",
       sr: "срњача",
@@ -17568,7 +19817,9 @@ export const CATALOG = [
       nl: 'Geschubde stekelzwam',
       da: 'skællet kødpigsvamp',
       no: 'granskjellpigg',
-      sv: 'fjällig taggsvamp s.str.'
+      sv: 'fjällig taggsvamp s.str.',
+      ro: 'buretele uliului',
+      bg: 'кафява сърненка'
     },
     names: {
       en: ["scaly hedgehog", "scaly tooth"],
@@ -17588,9 +19839,23 @@ export const CATALOG = [
       cs: ["srnka","lošák šupinatý"],
       es: ['diente de venado', 'gallinácea'],
       no: ['skjellstorpigg'],
-      sv: ['fjällig taggsvamp']
+      sv: ['fjällig taggsvamp'],
+      ro: ['porcan', 'ciupercă de pâine'],
+      bg: ['сърнена рогачка']
     },
     text: {
+      tr: {
+          "description": "Ladin ve göknar ormanlarında yetişen ektomikorizal bir mantardır. Avrupa ve Kuzey Amerika'da yaygındır ve Japonya'dan da bildirilmiştir. Dağlık ladin ormanlarında yerel olarak sık görülür.",
+          "cap": "Şapka 5–25 cm genişliğinde olup 30 cm'ye kadar ulaşabilir; başlangıçta dışbükeydir, daha sonra düzleşir ve merkezinde sığ bir çukurluk oluşur. Gri-kahverengi veya koyu kahverengidir; yüzeyi konsantrik olarak dizilmiş belirgin, kalkık, iri ve kiremit gibi dizilen koyu kahverengi pullarla kaplıdır.",
+          "hymenium": "Alt yüzey gerçek lameller yerine 1 cm uzunluğa kadar ulaşabilen sık ve kırılgan dikenler taşır. Dikenler sapa doğru sarkar; başlangıçta beyazımsı veya açık gridir, sporlar olgunlaştıkça kahverengiye döner.",
+          "stipe": "Sap 3–10 cm uzunluğunda ve 1–4 cm kalınlığında, kısa, kalın, silindirik veya tabanda şişkindir; grimsi kahverengi olup pürüzsüzdür.",
+          "flesh": "Etli kısım kalın, sert, beyazımsı veya soluk gridir; sap tabanında kahverengimsi bir ton alır. Kokusu baharatımsı ve hoştur; tadı başlangıçta tatlımsı olup yaşlandıkça acılaşır.",
+          "habitat": "Meyve gövdeleri yaz sonundan sonbahara kadar görülür. Dağlık iğne yapraklı ormanlarda, özellikle yaşlı ladin ağaçlarının altında kumlu veya asidik zeminlerde yetişir.",
+          "sporePrint": "Kahverengi veya grimsi kahverengi. Sporlar yarı küremsi ile düzensiz yuvarlak, kaba yumrulu ve yaklaşık 6–8 × 5–7 μm boyutlarındadır.",
+          "uses": "Yenilebilir bir mantardır. Yalnızca genç meyve gövdeleri tüketilmelidir; yaşlandıkça eti sertleşir ve tadı acılaşır. Kurutulup toz haline getirilerek çorbalarda ve et yemeklerinde baharat olarak kullanılır.",
+          "confusion": "Çam balaban mantarı (Sarcodon squamosus) çam ağaçları altında yetişir ve daha küçük, daha yatık pullara sahiptir. Beyaz sığır dili mantarı (Hydnum repandum) krem renklidir ve pullu değildir.",
+          "notes": "Eski meyve gövdeleri mavi-yeşil pigmentler içerir ve geleneksel yün boyamacılığında kullanılmıştır."
+    },
       sl: {
           "description": "Velika ektomikorizna goba iglastih gozdov z igličasto trosovnico. Razširjena je v gorskih območjih Evrope in Severne Amerike.",
           "cap": "Klobuk meri 8–25 cm v premeru, sprva je izbočen, nato zravnan in v osredju udrto lijakast. Barva je rjava do sivorjava, pokrita z velikimi, grobimi, temnorjavimi koncentričnimi luskami, ki se dvigajo kot skodle.",
@@ -17792,9 +20057,44 @@ export const CATALOG = [
       habitat: 'Fruktkroppar bildas från augusti till oktober på marken i äldre, mossrika granskogar, ofta i stora ringar.',
       uses: 'Ätlig som ung. Äldre exemplar blir beska och lämpar sig främst för avkokning och inläggning eller som torkad krydda.',
       confusion: 'Motaggsvamp (Sarcodon squamosus) växer med tall på sandiga hedmarker, har plattare fjäll och används traditionellt för att färga garn grönt.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică din pădurile de molid, întâlnită și în asociere cu pinul. Răspândită în regiunile montane și boreale din Europa și America de Nord.',
+      cap: 'Pălăria are 5–25 cm lățime (putând atinge 30 cm), masivă, convexă la început și apoi larg deprimată în formă de pâlnie. Suprafața este brun-cenușie până la brun-închis, acoperită cu solzi mari, groși, imbricați și ridicați spre centru.',
+      hymenium: 'Partea inferioară poartă aculi deși, fragili, de 0,5–1,5 cm lungime, decurenți pe picior. Sunt cenușii-albicioși la început, devenind brun-cenușii sau bruni la maturitate.',
+      stipe: 'Piciorul are 3–10 cm lungime și 1–4 cm grosime, robust, cilindric sau îngroșat la bază, cenușiu-palid până la brun-deschis, neted sau fin fibros.',
+      flesh: 'Carnea este groasă, albicioasă până la cenușiu-deschis sau brun-cenușie, fermă în tinerețe și devenind dură. Mirosul este aromat, de ciupercă uscată, iar gustul este plăcut la exemplarele tinere și amar la cele bătrâne.',
+      sporePrint: 'Brun. Sporii sunt colțuroși-tuberculați, bruni, de 5,5–7,5 × 4,5–5,5 μm.',
+      habitat: 'Corpurile fructifere apar din iulie până în octombrie în păduri montane mature de conifere, pe soluri nisipoase sau calcaroase acoperite de mușchi.',
+      uses: 'Exemplarele tinere sunt comestibile (comestibil), deși carnea este densă; se pretează foarte bine la uscare și măcinare ca pulbere aromatică pentru supe și sosuri. Exemplarele mature devin lemnoase și amare.',
+      confusion: 'Specia înrudită (Sarcodon squamosus) este foarte asemănător, dar are solzi mai mici și mai alipiți, crește asociat strict cu pinul pe soluri nisipoase și are o nuanță mai brun-măslinie.'
+    },
+    bg: {
+      description: 'Ектомикоризна гъба в смърчови гори, срещаща се също и под ела. Широко разпространена в планинските и бореалните райони на Евразия и Северна Америка.',
+      cap: 'Гуглата е с диаметър 5–25 cm (достигаща до около 30 cm), отначало изпъкнала с подвит ръб, след това плоска до фуниевидна. Цветът е сивокафяв до тъмнокафяв, покрит с едри, изпъкнали, концентрично разположени кафяви люспи.',
+      hymenium: 'Хименофорът се състои от гъсти, чупливи сивкаво-кафяви шипчета с дължина до 1 cm, спускащи се по пънчето.',
+      stipe: 'Пънчето е масивно, дебело, сиво-кафеникаво, високо 3–10 cm и дебело 1–4 cm, често задебелено в основата.',
+      flesh: 'Месото е дебело, белезникаво до бледосиво или кафяво в основата на пънчето, плътно, с възрастта жилаво. Има силен пикантен аромат и леко нагарчащ вкус при стари екземпляри.',
+      sporePrint: 'Кафяв до сиво-кафяв. Спорите са почти закръглени, силно брадавичести до ъгловати, около 5,5–8 × 5–7 μm.',
+      habitat: 'Плодните тела се появяват от август до ноември в планински иглолистни гори, предимно под смърч.',
+      uses: 'Ядлива в млада възраст, докато месото е крехко. При по-стари екземпляри става жилава и горчива, подходяща за сушене и стриване на прах за подправка.',
+      confusion: 'Боровата сърненка (Sarcodon squamosus) расте под бор и има по-прилегнали люспи. Hydnellum peckii има корковидно жилаво месо и отделя червени капки.',
+      notes: 'Оценка от 2024 г. определя статуса ѝ като незастрашен (Least Concern) в глобален мащаб.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/kiremit-balaban-sarcodon-imbricatus/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Mantar"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -18056,6 +20356,30 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Fj%C3%A4llig_taggsvamp'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Sarcodon_imbricatus'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/sarcodon-imbricatus'
+        }
       ]
     },
     synonyms: [
@@ -18159,6 +20483,7 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 11,
     label: {
+      tr: "sırtıgökçe mantarı",
       sl: "modrikasta golobica",
       hr: "ljubičastozelena krasnica",
       sr: "љубичастозелена красница",
@@ -18176,7 +20501,9 @@ export const CATALOG = [
       pt: 'rússula-iridescente',
       da: 'broget skørhat',
       no: 'broket kremle',
-      sv: 'brokkremla'
+      sv: 'brokkremla',
+      ro: 'vinețica porumbeilor',
+      bg: 'сивовиолетова гълъбка'
     },
     names: {
       en: ["variegated russula"]
@@ -18187,6 +20514,18 @@ export const CATALOG = [
       sv: ['mellankremla']
     },
     text: {
+      tr: {
+          "description": "Geniş yapraklı ve karışık ormanlarda yetişen ektomikorizal bir mantardır; en çok kayın ve meşe altında, bazen de ladin ve göknar ile birlikte bulunur. Akdeniz'den İskandinavya'ya kadar tüm Avrupa'da yaygındır; Kuzey Afrika, Kanarya Adaları ve ılıman Asya'dan da bildirilmiştir.",
+          "cap": "Şapka genellikle 5–15 cm genişliğinde olup 18 cm'ye kadar ulaşabilir; başlangıçta yarım küre biçimlidir, daha sonra dışbükeyleşir ve ortası çökük düz bir hal alır. Rengi son derece değişkendir; koyu menekşe moru, çelik mavisi, yeşilimsi, zeytuni ve kahverengimsi tonların karışımından oluşur. Nemli havalarda yapışkan ve parlaktır.",
+          "hymenium": "Lameller beyaz ile açık krem rengindedir; sık, dokunulduğunda yağlımsı bir his veren ve esnek bir yapıdadır; parmakla sürtüldüğünde kırılmaz, bükülür.",
+          "stipe": "Sap 5–10 cm uzunluğunda ve 1,5–3 cm kalınlığında, saf beyaz, bazen hafif leylak tonlu, silindirik, sert ve dolgundur.",
+          "flesh": "Etli kısım beyaz, kalın ve serttir; şapka kütikulasının hemen altında genellikle menekşe tonları barındırır. Demir sülfat (FeSO4) uygulandığında yeşile veya pembeye dönmez, reaksiyon vermez. Kokusu hafif, tadı fındıksı ve lezzetlidir.",
+          "habitat": "Meyve gövdeleri Avrupa'da haziran ayından kasım başına kadar görülür. Kayın, meşe, kestane ve ıhlamur ormanlarında asidik veya kireçli zeminlerde yaygın olarak yetişir.",
+          "sporePrint": "Saf beyaz. Sporlar geniş elipsoid, pürüzsüz yüzey üzerinde ince siğiller taşıyan ve çoğunlukla 7–9 × 5,5–7 μm boyutlarındadır.",
+          "uses": "Seçkin yemeklik bir mantardır. Fındıksı ve yumuşak lezzetiyle en çok takdir edilen Russula türlerinden biridir; etli kısmı pişirildiğinde diriliğini korur. Sotede, çorbada veya ızgarada mükemmeldir.",
+          "confusion": "Menekşe kirmiti (Russula ionochlora) ve kül renkli kirmit (Russula parazurea) daha küçüktür ve kırılgan lamellere sahiptir. Zehirli köygöçüren mantarı (Amanita phalloides) bir halkaya ve taban volvasına sahiptir.",
+          "notes": "2025 yılındaki bir değerlendirmede Asgari Endişe (Least Concern) kategorisinde sınıflandırılmıştır."
+    },
       sl: {
           "description": "Ektomikorizna goba listnatih in mešanih gozdov. Je ena najpogostejših in najbolj cenjenih golobic v Evropi.",
           "cap": "Klobuk meri 5–15 cm v premeru, sprva je polkrožen, nato zravnan in v sredini rahlo udrt. Barva je zelo spremenljiva: mešanica vijoličaste, jekleno modre, zelenkaste in sivkaste, včasih rjavkaste. Površina je vlažna, rahlo mastna in radialno žarkasto vlaknata.",
@@ -18389,9 +20728,44 @@ export const CATALOG = [
       uses: 'En läcker och mycket välsmakande matsvamp av högsta klass. Dess milda smak och fasta konsistens gör den mångsidig i köket.',
       confusion: 'Grönkremla (Russula aeruginea) och gaffelkremla (Russula heterophylla) har spröda skivor som smulas sönder vid beröring och reagerar kraftigt med järnsulfat.',
       notes: 'En bedömning från 2025 klassar den som livskraftig (Least Concern). Fynd från Nordamerika och Afrika som tillskrivits detta namn kan representera skilda arter.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică comună din pădurile de foioase și mixte, mai ales sub fagi și stejari. Este frecventă în întreaga Europă.',
+      cap: 'Pălăria are 5–15 cm lățime, convexă la început și apoi aplatizată cu centrul ușor deprimat. Culoarea este extrem de variabilă, o combinație marmorată de violet, verzui, cenușiu, purpuriu și cafeniu. Cuticula este umedă, grasă la atingere și striată fin radial.',
+      hymenium: 'Lamelele sunt albe până la crem-palid, dese și flexibile, unsuroase la atingere; spre deosebire de majoritatea vinețelelor, lamelele sale nu sunt casante și nu se fărâmițează când se trece degetul peste ele.',
+      stipe: 'Piciorul are 5–10 cm lungime și 1,5–3,5 cm grosime, cilindric, alb, uneori spălat cu nuanțe foarte slabe liliachii, plin și rigid în tinerețe.',
+      flesh: 'Carnea este albă, fermă și compactă, căpătând adesea o tentă purpurie imediat sub cuticulă. Mirosul este imperceptibil, iar gustul este dulceag, plăcut de nucă.',
+      sporePrint: 'Alb. Sporii sunt eliptici, fin verucoși, de circa 7–9 × 6–7 μm.',
+      habitat: 'Corpurile fructifere apar din iunie până în noiembrie în păduri de foioase (fag, stejar, carpen) și mixte, pe soluri fertile sau argiloase.',
+      uses: 'Este una dintre cele mai bune vinețele comestibile (comestibil excelent). Textura fermă și gustul de nucă o fac ideală prăjită, în tocănițe sau coaptă.',
+      confusion: 'Russula ionochlora și Russula parazurea sunt mai mici, au lamele casante și fragile ca creta. Buretele viperei (Amanita phalloides) are volvă la baza piciorului, inel și lamele libere.'
+    },
+    bg: {
+      description: 'Ектомикоризна гъба в широколистни и смесени гори, особено под бук и дъб. Много честа и широко разпространена в Европа.',
+      cap: 'Гуглата е с диаметър 5–15 cm, изключително разнообразна по окраска: виолетова, синьо-зелена, маслинена или кафява, често с мраморен прелив на тези цветове. Повърхността е влажна и радиално влакнеста.',
+      hymenium: 'Ламелите са бели, гъсти, меки, еластични и мазни на пипане – при прокарване на пръст те се огъват, без да се трошат, което е рядък и ключов белег за род Russula.',
+      stipe: 'Пънчето е цилиндрично, чисто бяло (рядко със слаб лилав оттенък), плътно, високо 5–10 cm и дебело 1,5–3 cm.',
+      flesh: 'Месото е бяло, плътно, под кожицата виолетово. Вкусът е мек, орехов, а миризмата – приятна, ненатрапчива.',
+      sporePrint: 'Чисто бял. Спорите са широко елипсовидни, с дребни брадавички, 7–9 × 5,5–7 μm.',
+      habitat: 'Плодните тела израстват от юни до ноември в букови, дъбови и смесени гори.',
+      uses: 'Отлична ядлива гъба, една от най-ценените и вкуси гълъбки, подходяща за всякаква кулинарна употреба.',
+      confusion: 'Зелената мухоморка (Amanita phalloides) има пръстенче и волва, които напълно липсват при гълъбките. Други виолетови или зелени гълъбки имат трошливи, чупливи ламели.',
+      notes: 'Оценка от 2025 г. определя вида като незастрашен (Least Concern) с нарастваща популация.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/sirtigokce-russula-cyanoxantha/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Mantar"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -18656,6 +21030,35 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Brokkremla'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Russula_cyanoxantha'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/russula-cyanoxantha'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B2%D0%BE%D0%B2%D0%B8%D0%BE%D0%BB%D0%B5%D1%82%D0%BE%D0%B2%D0%B0_%D0%B3%D1%8A%D0%BB%D1%8A%D0%B1%D0%BA%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -18744,6 +21147,7 @@ export const CATALOG = [
     fruitingFrom: 1,
     fruitingTo: 12,
     label: {
+      tr: "püsküllüoynak mantarı",
       sl: "mala štorovka",
       hr: "aromatična panjevčica",
       sr: "променљива пањевчица",
@@ -18760,16 +21164,31 @@ export const CATALOG = [
       nl: 'Stobbezwammetje',
       da: 'foranderlig skælhat',
       no: 'stubbeskjellsopp',
-      sv: 'föränderlig tofsskivling'
+      sv: 'föränderlig tofsskivling',
+      ro: 'gheba ciobanilor',
+      bg: 'кичуреста пънчушка'
     },
     names: {
       en: ["brown stew fungus", "two-toned pholiota", "velvet toughshank"],
       sk: ["šupinovka menlivá"]
     ,
       cs: [],
-      es: ['mata envainada de los bosques']
+      es: ['mata envainada de los bosques'],
+      ro: ['ghebă de vară']
     },
     text: {
+      tr: {
+          "description": "Ağaç kütükleri ve devrilmiş gövdeler üzerinde sık kümeler halinde yaşayan odun çürüten saprofit bir mantardır. Britanya, İrlanda ve kıta Avrupası boyunca Akdeniz'den İskandinavya'ya kadar yaygındır. Kafkaslar, Sibirya, Japonya, Kuzey Amerika ve Avustralya'da da geniştir.",
+          "cap": "Şapka 2–8 cm genişliğinde olup başlangıçta yarım küre biçimlidir ve zamanla dışbükeyleşerek düzleşir; ortasında geniş bir tümsek kalır. Belirgin şekilde higrofandır; nemliyken parlak tarçın veya bal kahverengisidir, kurudukça merkezden başlayarak açık sarımsı devetüyü veya saman sarısına döner ve iki renkli bir görünüm sergiler.",
+          "hymenium": "Lameller sık, ince ve sapa yapışık veya hafif sarkıktır; başlangıçta soluk devetüyü rengindedir, sporlar olgunlaştıkça tarçın veya pas kahverengisine döner.",
+          "stipe": "Sap 3–10 cm uzunluğunda ve 3–10 mm kalınlığında, silindirik, lifli ve serttir. Üst kısımda dar, kalıcı ve kahverengimsi bir halka bulunur. Halkanın üzeri pürüzsüz ve soluk sarıdır; halkanın alt kısmı ise koyu kahverengi zemin üzerinde geriye kıvrık kaba pullarla kaplıdır.",
+          "flesh": "Etli kısım ince, soluk sarımsı veya devetüyüdür. Hoş, baharatımsı veya mantarımsı bir kokusu ve tatlımsı bir lezzeti vardır.",
+          "habitat": "Meyve gövdeleri ılıman iklimlerde hemen her ay, özellikle mayıs ayından kasım sonuna kadar görülür. Kayın, huş, meşe ve kızılağaç kütüklerinde büyük, üst üste binen öbekler halinde yetişir.",
+          "sporePrint": "Aşıboyası kahverengisi veya tarçın rengi. Sporlar elipsoid, pürüzsüz, belirgin bir çimlenme deliği taşıyan ve yaklaşık 6–8 × 4–5 μm boyutlarındadır.",
+          "uses": "Seçkin yemeklik bir mantardır. Hoş aroması nedeniyle çorbalara, soslara ve et yemeklerine lezzet katmak için şapkaları kullanılır; sert ve lifli olan sapları tüketilmez.",
+          "confusion": "Ölümcül zehirli cenaze çanı mantarı (Galerina marginata) aynı kütükler üzerinde tek tek veya küçük gruplar halinde yetişir; halkanın altındaki sapı pullu olmayıp beyazımsı ipeksi liflerle kaplıdır ve koku/tat farkı bulunur.",
+          "notes": "2019 yılındaki bir değerlendirmede Asgari Endişe (Least Concern) kategorisinde listelenmiştir."
+    },
       sl: {
           "description": "Lesna saprotrofna goba, razširjena po vsej Evropi in Severni Ameriki. Raste v gostih šopih na štorih in odmrlem lesu listavcev.",
           "cap": "Klobuk meri 2–6 cm v premeru, je polkrožen do zravnan z nizko grbico. Površina je močno higrofana: v vlažnem stanju je cimetasto rjava do medeno rumena, ko se začne sušiti, pa od sredine navzven posvetli v bledo oker barvo.",
@@ -18972,9 +21391,43 @@ export const CATALOG = [
       uses: 'En mycket god matsvamp som lämpar sig utmärkt i soppor och såser. Endast hattarna tillvaratas eftersom fötterna är träiga och sega.',
       confusion: 'Den dödligt giftiga gifthättingen (Galerina marginata) är en mycket farlig förväxlingsart som också växer på ved; den har silkesfibrig, silverglänsande fot utan utstående grova fjäll under ringen och torkar inte upp i två tydliga färgzoner på samma sätt.',
       notes: 'En bedömning från 2019 klassar arten som livskraftig (Least Concern) med stabil populationsutveckling.'
+    },
+    ro: {
+      description: 'Ciupercă saprotrofă lignicolă ce crește în tufe dense pe buturugi și trunchiuri căzute de foioase. Este comună în Europa, Asia și America de Nord.',
+      cap: 'Pălăria are 2–8 cm lățime, convexă la început și apoi aplatizată cu un mamelon central scăzut. Este puternic higrofană: de culoare brun-gălbuie sau brun-aurie când este umedă, uscându-se de la centru spre margine într-un ocru-deschis palid, dând adesea un aspect bicolour.',
+      hymenium: 'Lamelele sunt dese, adnate până la slab decurente, inițial galben-deschise și devenind brun-scorțișorii la maturitate odată cu dezvoltarea sporilor.',
+      stipe: 'Piciorul are 3–10 cm lungime și 0,3–1 cm grosime, este rigid, curbat, palid deasupra inelului și brun-închis spre bază. Poartă un inel membranos îngust; sub inel, piciorul este acoperit evident cu solzișori mici, ascuțiți și zbârliți.',
+      flesh: 'Carnea este subțire în pălărie, albicioasă până la brun-deschisă, și fibroasă în picior. Mirosul și gustul sunt foarte plăcute, aromatice.',
+      sporePrint: 'Brun-ruginiu până la brun-scorțișoriu. Sporii sunt elipsoidali, netezi, de 6–7,5 × 4–5 μm.',
+      habitat: 'Corpurile fructifere apar din aprilie până în noiembrie (și iarna în perioadele blânde). Crește în tufe imbricate numeroase pe lemn mort de foioase (fag, stejar, mesteacăn).',
+      uses: 'Pălăriile sunt excelente comestibile (comestibil excelent), folosite în supe, sosuri și mâncăruri cu carne. Picioarele fibroase sunt prea tari și se aruncă.',
+      confusion: 'Gheba de brad (Galerina marginata) este o specie mortală extrem de periculoasă ce conține amatoxine și poate crește pe același lemn; se distinge prin piciorul argintiu-mătăsos fibros sub inel, lipsit complet de solzișori zbârliți.'
+    },
+    bg: {
+      description: 'Дърворазрушаваща сапротрофна гъба, израстваща на големи туфи по пънове и паднали стволове на широколистни дървета. Широко разпространена в умерените пояси на Европа и Азия.',
+      cap: 'Гуглата е с диаметър 2–8 cm, хигрофанна: при влажно време е меденокафява или жълтеникавокафява, а при изсъхване избледнява до кремаво-охрена от центъра навън, образувайки двуцветна зонтална окраска.',
+      hymenium: 'Ламелите са гъсти, слабо низбягващи, в началото бледожълтеникави, след това канеленокафяви.',
+      stipe: 'Пънчето е тънко, жилаво, високо 3–10 cm и дебело 4–8 mm, с тясно ципесто пръстенче. Над пръстенчето е гладко и бледо, а под него – покрито с тъмнокафяви стърчащи люспици.',
+      flesh: 'Месото е тънко, белезникаво до кафеникаво, с приятен аромат и мек вкус.',
+      sporePrint: 'Ръждивокафяв до канелен. Спорите са елипсовидни, гладки, около 6–7,5 × 4–5 μm.',
+      habitat: 'Плодните тела се развиват от април до ноември на големи снопове по мъртва дървесина (особено бук, бреза и дъб).',
+      uses: 'Добра ядлива гъба, ценна за супи и ястия. Използват се предимно гуглите, тъй като пънчетата са твърди и жилави.',
+      confusion: 'Смъртоносно отровната отровна галерина (Galerina marginata) може да расте на същите пънове; тя има пънче с белезникави копринени влакна без стърчащи кафяви люспи и мирише на брашно.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/puskulluoynak-kuehneromyces-mutabilis/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Mantar"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -19260,6 +21713,35 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/F%C3%B6r%C3%A4nderlig_tofsskivling'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Kuehneromyces_mutabilis'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/kuehneromyces-mutabilis'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%9A%D0%B8%D1%87%D1%83%D1%80%D0%B5%D1%81%D1%82%D0%B0_%D0%BF%D1%8A%D0%BD%D1%87%D1%83%D1%88%D0%BA%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -19341,6 +21823,7 @@ export const CATALOG = [
     fruitingFrom: 1,
     fruitingTo: 12,
     label: {
+      tr: "cenaze çanı mantarı",
       sl: "obrobljena kučmica",
       hr: "rebrasta patuljica",
       sr: "мала смрт",
@@ -19357,7 +21840,9 @@ export const CATALOG = [
       nl: 'Bundelmosklokje',
       da: 'randbæltet hjelmhat',
       no: 'flatklokkehatt',
-      sv: 'gifthätting'
+      sv: 'gifthätting',
+      ro: 'ghebă de brad',
+      bg: 'отровна галерина'
     },
     names: {
       en: ["deadly skullcap", "autumn skullcap", "deadly Galerina", "marginate Pholiota"]
@@ -19368,6 +21853,18 @@ export const CATALOG = [
       sv: ['strimmig tofsskivling']
     },
     text: {
+      tr: {
+          "description": "Kütükler, devrilmiş ağaç gövdeleri ve gömülü odun kalıntıları üzerinde tek tek veya küçük gruplar halinde yetişen odun çürüten saprofit bir mantardır. Avrupa, Asya ve Kuzey Amerika dahil olmak üzere Kuzey Yarımküre genelinde yaygındır; ayrıca Avustralya ve Antarktika'dan da kaydedilmiştir.",
+          "cap": "Şapka 1–7 cm genişliğinde olup başlangıçta konik veya dışbükeydir, zamanla düzleşir; ortasında silik bir tümsek bulunabilir. Higrofandır; nemliyken bal sarısı, koyu sarı-kahverengi veya pas kahverengisidir ve kenarları ince çizgilidir; kurudukça soluk devetüyü veya sarımsı taba rengine açılır.",
+          "hymenium": "Lameller sık, sapa yapışık veya hafifçe sarkıktır; başlangıçta soluk sarı veya devetüyü iken olgunlukta pas kahverengisine döner.",
+          "stipe": "Sap 2–8 cm uzunluğunda ve 2–9 mm kalınlığında, silindirik veya tabana doğru hafifçe kalınlaşandır. Üst kısımda ince, zarımsı, kolayca kaybolabilen beyazımsı bir halka taşır. Halkanın altındaki sap yüzeyi kahverengidir ve boyuna uzanan beyazımsı ipeksi liflerle kaplıdır; kaba pullar taşımaz.",
+          "flesh": "Etli kısım ince, sarımsı veya sulu kahverengidir. Belirgin unsu (taze un) bir kokuya ve tada sahiptir.",
+          "habitat": "Meyve gövdeleri mayıs ayından aralık ayına kadar, en çok sonbaharda görülür. İğne yapraklı ve geniş yapraklı ağaçların çürümekte olan kütüklerinde ve dallarında yetişir.",
+          "sporePrint": "Pas kahverengisi veya tütün kahverengisi. Sporlar geniş elipsoid ile badem biçiminde, yüzeyi pürüzlü-siğilli ve yaklaşık 8,5–11 × 5,5–7 μm boyutlarındadır.",
+          "uses": "Ölümcül zehirlidir. Amanita phalloides ile aynı sınıftan olan ölümcül amatoksinleri (α-amanitin ve γ-amanitin) içerir. Tüketildiğinde şiddetli karaciğer ve böbrek hasarına yol açarak ölüme neden olur. Pişirme veya kurutma toksinleri parçalamaz.",
+          "confusion": "Yenilebilir püsküllüoynak mantarı (Kuehneromyces mutabilis) halkanın altında geriye kıvrık kaba kahverengi pullar taşır, pürüzsüz ipeksi lifli değildir ve yoğun demetler halinde büyür.",
+          "notes": "Odun üzerinde yetişen küçük kahverengi mantarlar arasında en tehlikeli amatoksin kaynağıdır."
+    },
       sl: {
           "description": "Smrtno strupena lesna saprotrofna goba. Široko je razširjena na severni polobli, v Evropi, Aziji in Severni Ameriki ter zanesena v Avstralijo.",
           "cap": "Klobuk meri 1,5–4 cm v premeru, sprva je polkrožen do zvonast, kasneje zravnan z nizko grbo. Je higrofan, oker rjave do rdečkastorjave barve, v vlažnem vremenu prosojno nažlebljen ob robu, ob sušenju posvetli v rumenkasto oker.",
@@ -19561,9 +22058,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar bildas från augusti till november, enstaka eller i små klungor på murkna stubbar, lågor och flis av barrträd, men förekommer även på lövved.',
       uses: 'Dödligt giftig. Svampen innehåller samma livsfarliga amatoxiner som vit och lömsk flugsvamp, vilket leder till irreversibla leverskador. Varken kokning eller torkning oskadliggör giftet.',
       confusion: 'Föränderlig tofsskivling (Kuehneromyces mutabilis) växer i stora gyttrade tuvor och har en fot som nedom ringen är mörk och tätt täckt av utstående grova fjäll. Rökslöjskivling (Hypholoma capnoides) har grå skivor och mörkt purpurbrunt sporpulver.'
+    },
+    ro: {
+      description: 'Ciupercă saprotrofă lignicolă mortală ce crește solitară sau în grupuri mici pe lemn putred de conifere și foioase. Este răspândită în întreaga Europă, Asia, America de Nord și Australia.',
+      cap: 'Pălăria are 1–7 cm lățime, convexă la început și apoi aplatizată, adesea cu un mamelon obtuz. Este higrofană, de culoare brun-ocru până la galben-miere la umezeală, uscându-se într-un galben-auriu mat. Marginea este striată transparent pe vreme umedă.',
+      hymenium: 'Lamelele sunt dese, adnate sau ușor decurente, inițial ocru-gălbui și devenind brun-ruginii odată cu maturizarea sporilor.',
+      stipe: 'Piciorul are 2–8 cm lungime și 0,2–0,9 cm grosime, cilindric, brun-deschis la vârf și brun-negricios spre bază. Poartă un inel mic, membranos și subțire; sub inel, piciorul este neted și marcat de fibrile mătăsoase argintii longitudinale, fără solzi.',
+      flesh: 'Carnea este subțire, gălbuie până la brun-apoasă. Mirosul și gustul amintesc de făină proaspătă.',
+      sporePrint: 'Brun-ruginiu. Sporii sunt elipsoidali, verucoși, de circa 8–11 × 5–6,5 μm.',
+      habitat: 'Corpurile fructifere apar din mai până în decembrie, cel mai adesea toamna. Crește pe trunchiuri căzute, bușteni și crengi putrede de conifere (molid, pin) și ocazional pe foioase.',
+      uses: 'Ciuperca este mortală (mortal). Conține cantități letale de amatoxine (α-amanitină), identice cu cele din Amanita phalloides. Nicio metodă de gătire, uscare sau congelare nu elimină aceste toxine.',
+      confusion: 'Gheba ciobanilor (Kuehneromyces mutabilis) este comestibilă și se separă prin solzii aspri și zbârliți de pe piciorul situat sub inel. Gheba tomnatică (Armillaria mellea) are amprentă sporală albă și crește în tufe masive.'
+    },
+    bg: {
+      description: 'Смъртоносно отровна дърворазрушаваща сапротрофна гъба. Расте поединично или на малки групи по гниеща дървесина в цялото Северно полукълбо.',
+      cap: 'Гуглата е дребна, с диаметър 1–5 cm (рядко до 7 cm), звънчевидна до изпъкнала, меденокафява до охра-кафява, хигрофанна, с прозиращо набразден ръб при влажно време.',
+      hymenium: 'Ламелите са гъсти, прираснали до слабо низбягващи, охрени до ръждивокафяви.',
+      stipe: 'Пънчето е тънко, кухо, високо 2–8 cm и дебело 2–8 mm, с малко нетрайно пръстенче. Под пръстена е покрито със сребристобели прилегнали копринени влакна, без стърчащи люспи.',
+      flesh: 'Месото е тънко, жълтеникаво-кафеникаво, с миризма и вкус на брашно.',
+      sporePrint: 'Ръждивокафяв. Спорите са бадемовидни, брадавичести, 8–11 × 5–6,5 μm.',
+      habitat: 'Плодните тела се срещат от май до декември по паднали стволове, пънове и дървесни стърготини на иглолистни и широколистни дървета.',
+      uses: 'Смъртоносно отровна гъба. Съдържа аматоксини (същите смъртоносни токсини като при зелената мухоморка), разрушаващи черния дроб и бъбреците.',
+      confusion: 'Кичурестата пънчушка (Kuehneromyces mutabilis) има стърчащи тъмни люспици по пънчето под пръстена и приятен аромат. Зимната припънка (Flammulina velutipes) има кадифено тъмнокафяво пънче без пръстен и бял споров прашец.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/cenaze-cani-galerina-marginata/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Galerina_autumnalis"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -19830,6 +22361,30 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Gifth%C3%A4tting'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Galerina_marginata'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/galerina-marginata'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%9E%D1%82%D1%80%D0%BE%D0%B2%D0%BD%D0%B0_%D0%B3%D1%8A%D0%B1%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -19929,6 +22484,7 @@ export const CATALOG = [
     fruitingFrom: 7,
     fruitingTo: 12,
     label: {
+      tr: "karnabahar mantarı",
       sl: "borov glivec",
       hr: "kovrčasta kokica",
       sr: "коврџава кокица",
@@ -19945,16 +22501,31 @@ export const CATALOG = [
       nl: 'Grote sponszwam',
       da: 'kruset blomkålssvamp',
       no: 'blomkålsopp',
-      sv: 'blomkålssvamp'
+      sv: 'blomkålssvamp',
+      ro: 'creasta cocoșului',
+      bg: 'зелчеста гъба'
     },
     names: {
       en: ["wood cauliflower", "cauliflower mushroom", "brain fungus"],
       sk: ["barania hlava"]
     ,
       cs: [],
-      es: ['barba de cabra']
+      es: ['barba de cabra'],
+      ro: ['crețușcă', 'crețișoare']
     },
     text: {
+      tr: {
+          "description": "İğne yapraklı ağaçların köklerinde ve tabanlarında kahverengi kök çürüklüğüne neden olan parazit ve odun çürüten saprofit bir mantardır. Avrupa, Asya ve Kuzey Amerika'da özellikle yaşlı çam ormanlarında yaygındır.",
+          "cap": "Meyve gövdesi 10–35 cm genişliğinde ve 10–20 cm yüksekliğinde olup karnabahar, deniz süngeri veya dantel yumağını andıran devasa bir küre biçimindedir. Kalın, etli ve kök benzeri bir tabandan çıkan çok sayıda kıvrık, yassı, şerit benzeri dalcıktan oluşur. Rengi krem, saman sarısı veya soluk sarımsı devetüyüdür; kenarları yaşlandıkça kahverengileşir.",
+          "hymenium": "Himenyum kıvrımlı şeritlerin her iki yüzeyini de kaplar; pürüzsüz veya hafif dalgalıdır.",
+          "stipe": "Sap kısmı kalın, etli, kök şeklinde olup toprak altına ve ağaç köklerine derinden bağlanır; dallanmalar doğrudan bu gövdeden çıkar.",
+          "flesh": "Etli kısım beyaz veya krem rengidir, gençken elastik ve diridir. Fındıksı ve hoş bir kokusu ile tatlımsı, lezzetli bir tadı vardır.",
+          "habitat": "Meyve gövdeleri ağustos ayından kasım ayına kadar görülür. Yaşlı çam ağaçlarının (Pinus) tabanlarında veya taze çam kütüklerinde tek tek yetişir.",
+          "sporePrint": "Soluk sarı veya krem. Sporlar elipsoid, pürüzsüz ve yaklaşık 5–7 × 4–5 μm boyutlarındadır.",
+          "uses": "Seçkin yemeklik bir mantardır. Fındıksı aroması ve kıtır dokusuyla mükemmel bir lezzete sahiptir. Aralarına giren toprak ve yaprak döküntüleri dikkatlice temizlendikten sonra tereyağında sote edilir veya çorbalara eklenir; kurutulmaya da elverişlidir.",
+          "confusion": "Geniş yapraklı karnabahar mantarı (Sparassis spathulata) ve meşe karnabahar mantarı (Sparassis laminosa) daha yassı ve geniş yaprak benzeri dallara sahiptir ve meşe altında yetişir.",
+          "notes": "Büyük meyve gövdeleri birkaç kilogram ağırlığa ulaşabilir ve aynı ağaç tabanında ardışık yıllarda yeniden oluşabilir."
+    },
       sl: {
           "description": "Zajedavska in saprotrofna lesna goba z značilnim videzom cvetače ali morske spužve. Razširjena je v iglastih gozdovih Evrope in Severne Amerike.",
           "cap": "Trosnjak je kroglast do nepravilen, meri 10–35 cm v premeru in lahko tehta več kilogramov. Sestavljen je iz gostih, valovitih, močno nakodranih in ploščatih vejic, ki spominjajo na narezano zelje. Barva je bledo rumenkasta, kremasta do umazano oker z rjavkastim robom.",
@@ -20149,9 +22720,44 @@ export const CATALOG = [
       habitat: 'Fruktkroppar uppträder från augusti till november vid basen av gamla tallar, där svampen orsakar en långsam brunröta i rötter och stambas.',
       uses: 'En läcker och mycket eftersökt matsvamp. Den kräver noggrann rensning för att få bort barr och jord mellan flikarna, och passar utmärkt att steka i smör eller använda i stuvningar.',
       confusion: 'Bredflikig blomkålssvamp (Sparassis laminosa / Sparassis nemecii) växer vid ekar och har bredare, mindre krusiga och plattare flikar.'
+    },
+    ro: {
+      description: 'Ciupercă parazită și saprotrofă ce cauzează o putregai brun la rădăcinile și baza trunchiurilor de conifere, în special pin. Răspândită în Europa și America de Nord.',
+      cap: 'Corpul fructifer este o masă mare, globulară, de 10–40 cm lățime și 10–25 cm înălțime (cântărind adesea câteva kilograme), alcătuită dintr-o multitudine de ramuri lamelare plate, crețe, ondulate și întrepătrunse, asemănătoare unei căpățâni mari de conopidă sau unui burete de baie. Culoarea este alb-gălbuie, crem până la ocru-deschis.',
+      hymenium: 'Suprafața fertilă este netedă și acoperă ambele fețe ale ramurilor lamelare crețe.',
+      stipe: 'Baza este un trunchi cărnos, scurt și gros, adesea adânc ancorat în sol sau conectat la rădăcinile pinului.',
+      flesh: 'Carnea este albă, elastică, ceroasă în tinerețe și devenind mai tare. Mirosul este foarte plăcut, dulceag și aromat, de nucă proaspătă.',
+      sporePrint: 'Crem-gălbui până la ocru-palid. Sporii sunt elipsoidali, netezi, de circa 5–7 × 4–5 μm.',
+      habitat: 'Corpurile fructifere apar din august până în noiembrie la baza trunchiurilor bătrâne de pin (Pinus sylvestris) sau pe buturugi recente.',
+      uses: 'Este o specie comestibilă deosebit de apreciată (comestibil excelent) în stadiu tânăr. Se spală cu atenție pentru a îndepărta resturile de ace de pin și sol dintre ramuri, fiind excelentă în supe, sotată sau pane.',
+      confusion: 'Creasta de foioase (Sparassis brevipes) are ramuri mai late, în formă de spatulă, mai puțin creponate și crește în păduri de foioase sub fagi și stejari.'
+    },
+    bg: {
+      description: 'Паразитна и сапротрофна дървесна гъба, причиняваща кафяво гниене в основата на иглолистни дървета (особено бор). Среща се в Европа и Северна Америка.',
+      cap: 'Плодното тяло е с размери 10–40 cm в диаметър и тегло до няколко килограма. Има кълбовидна форма и наподобява глава от къдраво зеле или гъба за баня, съставена от множество плоски, надиплени, къдрави разклонения с вълнообразен назъбен ръб. Цветът е кремав, жълтеникав до светлоохрен.',
+      hymenium: 'Фертилната повърхност е гладка и покрива двете страни на къдравите разклонения.',
+      stipe: 'Пънчето е късо, дебело и клубенковидно, дълбоко вкоренено в почвата или свързано с корените на дървото.',
+      flesh: 'Месото е бяло, еластично и восъчно, с приятен аромат на лешници и деликатен вкус.',
+      sporePrint: 'Белезникав до бледожълтеникав. Спорите са елипсовидни, гладки, около 5–7 × 4–5 μm.',
+      habitat: 'Плодните тела се появяват от август до ноември в основата на стари борови дървета.',
+      uses: 'Отлична ядлива гъба в млада възраст. Изисква внимателно почистване от горски отпадъци между гънките преди кулинарна обработка.',
+      confusion: 'Широколистната зелчеста гъба (Sparassis brevipes) расте под дъб и има по-широки, по-малко надиплени дялове.',
+      notes: 'В Червената книга на Република България видът е включен с категория застрашен (Endangered).'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/karnabahar-mantari-sparassis-crispa/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Mantar"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -20425,6 +23031,40 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Blomk%C3%A5lssvamp'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Sparassis_crispa'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Червена книга на Република България',
+          href: 'http://e-ecodb.bas.bg/rdb/bg/vol1/Spacrisp.html'
+        },
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/sparassis-crispa'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%97%D0%B5%D0%BB%D1%87%D0%B5%D1%81%D1%82%D0%B0_%D0%B3%D1%8A%D0%B1%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -20512,6 +23152,7 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 11,
     label: {
+      tr: "zehirli pax mantarı",
       sl: "navadna podvihanka",
       hr: "obična uvijača",
       sr: "обична увијача",
@@ -20528,7 +23169,9 @@ export const CATALOG = [
       nl: 'Gewone krulzoom',
       da: 'almindelig netbladhat',
       no: 'pluggsopp',
-      sv: 'pluggskivling'
+      sv: 'pluggskivling',
+      ro: 'burete porcesc',
+      bg: 'киселка'
     },
     names: {
       en: [
@@ -20545,6 +23188,18 @@ export const CATALOG = [
       es: ['seta enrollada']
     },
     text: {
+      tr: {
+          "description": "Geniş yapraklı ve iğne yapraklı ağaçlarla ortaklık kuran ektomikorizal ve fakültatif saprofit bir mantardır. Kuzey Yarımküre genelinde huş, meşe, ladin ve çam ormanlarında son derece yaygındır; Güney Yarımküre'deki dikili ağaçlıklara da girmiştir.",
+          "cap": "Şapka 4–15 cm genişliğinde olup başlangıçta dışbükeydir, zamanla merkezden çökerek huni şeklini alır. Zeytinsi kahverengi, sarı-kahverengi veya pas rengidir; yüzeyi gençken kadifemsi veya tüylüdür, nemli havalarda yapışkanlaşır. Kenarları belirgin şekilde içe doğru sıkıca kıvrıktır.",
+          "hymenium": "Lameller sık, sapa belirgin şekilde sarkar ve sap tabanında damarlarla birbirine bağlanır; başlangıçta sarımsı devetüyü iken dokunulduğunda veya berelendiğinde hızla koyu pas kahverengisine lekelenir. Şapka etinden kolayca soyulabilir.",
+          "stipe": "Sap 3–8 cm uzunluğunda ve 1–2 cm kalınlığında, silindirik veya tabana doğru incelen, şapkayla aynı renkte veya biraz daha açık renklidir; berelendiğinde kahverengileşir.",
+          "flesh": "Etli kısım kalın, yumuşak, sarımsı veya açık devetüyüdür; kesildiğinde hızla kahverengi lekelenir. Ekşimsi hoş bir kokusu ve hafif buruk bir tadı vardır.",
+          "habitat": "Meyve gövdeleri yaz ortasından sonbahar sonuna kadar görülür. Asidik zeminlerde, orman kenarlarında, parklarda ve huş korularında tek tek veya kümeler halinde yetişir.",
+          "sporePrint": "Pas kahverengisi veya kahverengi. Sporlar elipsoid, pürüzsüz ve yaklaşık 7,5–10 × 5–6 μm boyutlarındadır.",
+          "uses": "Ölümcül zehirlidir. Geçmişte kaynatılarak tüketilmiş olsa da, vücutta antikor oluşumunu tetikleyerek otoimmün hemolitik anemiye yol açan Paxillus sendromuna neden olduğu kanıtlanmıştır. Tekrarlanan tüketimler alyuvarların kitlesel yıkımına, böbrek yetmezliğine ve ölüme yol açar.",
+          "confusion": "Kadife saplı pax mantarı (Tapinella atrotomentosa) kalın, koyu kadife siyah bir sapa sahiptir ve kütükler üzerinde yetişir. Çıntar türleri (Lactarius spp.) süt salgılar.",
+          "notes": "Daha önce bu ad altında toplanan meyve gövdelerinden daha sonra birkaç benzer tür ayrılmıştır."
+    },
       sl: {
           "description": "Ektomikorizna goba, zelo pogosta po vsej Evropi, Aziji in Severni Ameriki. Dolgo je veljala za užitno, dokler niso odkrili njenega nevarnega imunološkega delovanja.",
           "cap": "Klobuk meri 5–15 cm v premeru, sprva je izbočen, nato zravnan in v osredju udrto lijakast. Rob klobuka je izrazito in močno podvihan navznoter, polsten. Barva je olivno rjava, okrasto rjava do sivorjava, v vlažnem vremenu lepljiva.",
@@ -20746,9 +23401,43 @@ export const CATALOG = [
       uses: 'Giftig. Svampen ansågs förr ätlig efter kokning, men orsakar ett allvarligt immunologiskt syndrom (paxillussyndrom) där antikroppar bildas och leder till livshotande hemolys (sönderfall av röda blodkroppar) och njursvikt vid upprepad konsumtion.',
       confusion: 'Sammetsfotad pluggskivling (Tapinella atrotomentosa) är större, har en tjock mörkt brunsvart sammetsluden fot och växer på stubbar av barrträd. Alpluggskivling (Paxillus filamentosus) är mindre, fjällig och växer uteslutande under al.',
       notes: 'Flera närstående kryptiska arter har under senare år urskiljts ur det traditionella artkomplexet.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică comună din pădurile de foioase și conifere, parcuri și grădini. Frecventă în întreaga Europă, Asia și America de Nord.',
+      cap: 'Pălăria are 4–15 cm lățime, convexă la început, apoi aplatizată cu centrul adâncit în formă de pâlnie. Marginea este puternic răsfrântă și rulată spre interior (involută), pâsloasă în tinerețe. Culoarea este brun-ocru, brun-măslinie sau cafeniu-gălbuie, pătându-se în brun-închis la lovire.',
+      hymenium: 'Lamelele sunt dese, înguste, adânc decurente pe picior, adesea anastomozate lângă bază. Sunt galbene-aurii la început, devenind brun-ruginii și pătându-se imediat în brun-roșiatic la atingere.',
+      stipe: 'Piciorul are 3–8 cm lungime și 1–2 cm grosime, cilindric sau îngustat la bază, de aceeași culoare ca pălăria sau ceva mai palid, pătându-se în brun la atingere.',
+      flesh: 'Carnea este gălbuie, moale și suculentă în pălărie, devenind brun-roșiatică la secțiune. Mirosul este slab de ciupercă, iar gustul este acrișor.',
+      sporePrint: 'Brun-ruginiu. Sporii sunt elipsoidali, netezi, de circa 8–10 × 5–6 μm.',
+      habitat: 'Corpurile fructifere apar din iulie până în noiembrie în păduri, parcuri și turbării, sub mesteceni, pini, molizi și stejari, adesea pe soluri acide.',
+      uses: 'Ciuperca este otrăvitoare și potențial mortală (otrăvitor). Deși a fost consumată în trecut după fierbere în unele regiuni din Europa de Est, consumul repetat poate declanșa sindromul paxilian — o reacție imunologică autoimună severă ce produce hemoliză acută, colaps renal și deces.',
+      confusion: 'Ciupercile albe în formă de pâlnie din genul (Clitocybe) au lamele albe ce nu se pătează la atingere și amprentă sporală albă. Râșcovul negru (Lactarius turpis) are latex albicios și carnea nu se pătează în brun la atingere.'
+    },
+    bg: {
+      description: 'Ектомикоризна гъба. Широко разпространена и често срещана в широколистни, иглолистни и градски гори в цялото Северно полукълбо.',
+      cap: 'Гуглата е с диаметър 5–15 cm, маслиненокафява до жълтокафява, първоначално изпъкнала, по-късно вдлъбната в центъра. Ръбът е дебел, силно и трайно подвит навътре, покрит с власинки при младите екземпляри.',
+      hymenium: 'Ламелите са жълтеникаво-охрени, гъсти, спускащи се по пънчето, лесно отделящи се от месото на гуглата. При натиск бързо потъмняват до червеникавокафяви.',
+      stipe: 'Пънчето е цилиндрично или изтъняващо в основата, високо 4–8 cm и дебело 1–2 cm, със същия цвят като гуглата, покафеняващо при докосване.',
+      flesh: 'Месото е бледожълтеникаво, дебело, сочно, при разрез покафенява. Има слаб кисел вкус.',
+      sporePrint: 'Ръждивокафяв до глинестокафяв. Спорите са елипсовидни, гладки, около 8–10 × 5–6 μm.',
+      habitat: 'Плодните тела израстват от юли до ноември под бреза, дъб, бор и смърч по влажни места.',
+      uses: 'Отровна гъба. Макар в миналото да е събирана и консумирана след варене, днес е доказано, че причинява синдром на Паксилус (автоимунна хемолитична анемия), предизвикан от натрупване на антигени при многократна консумация, водещ до внезапен летален изход.',
+      confusion: 'Едрата миризливка (Infundibulicybe geotropa) има белезникави ламели и бял споров прашец. Млечниците (Lactarius) отделят млечен сок при нараняване.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/zehirli-pax-paxillus-involutus/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/August_Johann_Georg_Karl_Batsch"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -21048,6 +23737,30 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Pluggskivling'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Paxillus_involutus'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/paxillus-involutus'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%9A%D0%B8%D1%81%D0%B5%D0%BB%D0%BA%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -21131,6 +23844,7 @@ export const CATALOG = [
     fruitingFrom: 8,
     fruitingTo: 12,
     label: {
+      tr: "mor cincile",
       sl: "vijoličasta kolesnica",
       hr: "modra koturnica",
       sr: "модрикача",
@@ -21148,16 +23862,31 @@ export const CATALOG = [
       pt: 'pé-azul',
       da: 'violet hekseringshat',
       no: 'blå ridderhatt',
-      sv: 'blåmusseron'
+      sv: 'blåmusseron',
+      ro: 'nicorete violet',
+      bg: 'виолетка'
     },
     names: {
       en: ["blewit", "blue foot", "amethyst lepista", "blue-gilled agaric"],
       sk: ["hliva", "modrá hliva", "proficla"]
     ,
       cs: [],
-      es: ['borracha', 'cabo azul']
+      es: ['borracha', 'cabo azul'],
+      bg: ['виолетова есенна миризливка']
     },
     text: {
+      tr: {
+          "description": "Zengin organik madde ve yaprak döküntülerini ayrıştıran saprofit bir mantardır. Avrupa, Asya ve Kuzey Amerika'da yaprak döken ve iğne yapraklı ormanlarda, bahçelerde ve kompost yığınlarında yaygın olarak bulunur.",
+          "cap": "Şapka 5–15 cm genişliğinde olup başlangıçta dışbükeydir ve kenarları içe kıvrıktır; daha sonra düzleşir ve dalgalı bir hal alır. Gençken canlı leylak, menekşe veya mor renktedir; yaşlandıkça merkezden başlayarak kahverengimsi veya devetüyü tona açılır. Yüzeyi pürüzsüz ve çıplaktır.",
+          "hymenium": "Lameller sık, sapa yapışık veya hafifçe çentiklidir; parlak menekşe veya leylak moru renktedir, yaşlandıkça devetüyü moruna döner. Şapka etinden kolayca ayrılabilir.",
+          "stipe": "Sap 4–10 cm uzunluğunda ve 1–2,5 cm kalınlığında, silindirik veya tabanda hafifçe şişkindir; şapkayla aynı menekşe veya leylak rengindedir ve üzeri boyuna ince beyaz liflerle kaplıdır. Tabanda genellikle menekşe renkli yoğun misel yumağı taşır.",
+          "flesh": "Etli kısım kalın, yumuşak ve soluk leylak veya beyazımsıdır. Çok karakteristik, hoş, meyvemsi veya çiçeksi bir kokuya ve tatlımsı bir lezzete sahiptir.",
+          "habitat": "Meyve gövdeleri sonbaharda ve kış başlarında, genellikle ilk donlara kadar görülür. İğne yaprak ve yaprak döküntülerinin üzerinde, çürüyen kütük talaşlarında, bahçelerde ve kompost yığınlarında büyük peri halkaları halinde yetişir.",
+          "sporePrint": "Soluk pembe veya pembemsi devetüyü. Sporlar elipsoid, yüzeyinde ince siğiller taşıyan ve yaklaşık 6–8 × 4–5 μm boyutlarındadır.",
+          "uses": "Seçkin yemeklik bir mantardır. Isıya duyarlı hemolitik maddeler içerdiğinden çiğ tüketilmemeli, mutlaka iyice pişirilmelidir. Hoş kokusu ve aromasıyla güveçlerde, sote olarak ve soslarda mükemmel bir lezzet sunar.",
+          "confusion": "Zehirli mor Cortinarius türleri (örneğin Cortinarius violaceus) örümcek ağı benzeri kortinaya ve pas kahverengisi spor izine sahiptir. Lepista sordida daha küçük, daha ince etlidir.",
+          "notes": "2015 yılındaki bir çalışma bu türün Lepista densifolia ile yakın akraba olmadığını ortaya koymuştur."
+    },
       sl: {
           "description": "Saprotrofna goba jesenskih gozdov z značilno vijolično barvo. Razširjena je v Evropi, Severni Ameriki in Aziji.",
           "cap": "Klobuk meri 5–15 cm v premeru, sprva je polkrožen z uvitim robom, nato zravnan. Je živo vijolične do modrikasto vijoličaste barve, v starosti zbledi v rjavkasto vijoličasto s svetlejšim robom.",
@@ -21358,9 +24087,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar uppträder sent på hösten, från september till november, bland lövförna, kompost och barrmatta, ofta i stora ringar.',
       uses: 'En god matsvamp som lämpar sig väl för stekning och stuvning. Den kan orsaka magbesvär i rått tillstånd och måste tillagas väl.',
       confusion: 'Giftiga lila spindelskivlingar (släktet Cortinarius) har brunt sporpulver, trådlik spindelväv (cortina) som ung och brunaktiga skivor med åldern. Blek blåmusseron (Lepista glaucocana) är mycket blekare med ljust lavendelgrå hatt.'
+    },
+    ro: {
+      description: 'Ciupercă saprotrofă cărnoasă ce descompune litiera de frunze și ace din păduri, grădini și parcuri. Este larg răspândită în Europa, America de Nord și Asia.',
+      cap: 'Pălăria are 4–15 cm lățime, convexă la început și apoi aplatizată, cu marginea ondulată. Culoarea este de un violet intens sau purpuriu-liliachiu în tinerețe, decolorându-se odată cu vârsta spre brun-cenușiu sau cafeniu începând din centru.',
+      hymenium: 'Lamelele sunt dese, subțiri, sinuate sau slab decurente, de o culoare violetă intensă caracteristică, devenind brun-liliachii la maturitate.',
+      stipe: 'Piciorul are 4–10 cm lungime și 1–3 cm grosime, robust, cilindric sau îngroșat la bază, de aceeași culoare violetă ca pălăria, acoperit de fibrile argintii longitudinale.',
+      flesh: 'Carnea este groasă, fragedă, de culoare liliachie până la albicioasă. Mirosul este aromatic și fructat, amintind de portocale arse sau anason, iar gustul este blând și plăcut.',
+      sporePrint: 'Roz-somon palid. Sporii sunt elipsoidali, fin verucoși, de 6–8 × 4–5 μm.',
+      habitat: 'Corpurile fructifere apar toamna târziu (septembrie–decembrie), adesea rezistând primelor geruri. Crește în litieră groasă de conifere și foioase sau în grămezi de compost, formând cercuri mari ale vrăjitoarelor.',
+      uses: 'Este o specie comestibilă foarte bună (comestibil cu precauție) după gătire temeinică. Corpurile fructifere crude conțin hemolizine termolabile ce pot provoca tulburări digestive dacă nu sunt preparate termic adecvat.',
+      confusion: 'Speciile de Cortinarius cu nuanțe violete (cum este Cortinarius violaceus sau Cortinarius traganus) au o cortină formată din fire de păianjen ce lasă o zonă inelară brun-ruginie și o amprentă sporală brun-ruginie distinctă.'
+    },
+    bg: {
+      description: 'Сапротрофна гъба по горска постеля, изгниващи листа и иглички. Широко разпространена в горите и парковете на умерената зона на Северното полукълбо.',
+      cap: 'Гуглата е с диаметър 5–15 cm, наситено виолетова до синьо-виолетова в младост, избледняваща с възрастта до кафяво-виолетова с по-тъмен център. Повърхността е гладка и матова.',
+      hymenium: 'Ламелите са наситено лилави до синьо-виолетови, гъсти, прираснали със зъбче към пънчето, запазващи виолетовия си цвят дълго време.',
+      stipe: 'Пънчето е цилиндрично, масивно, високо 5–10 cm и дебело 1–3 cm, лилаво-виолетово, покрито със сребристо-виолетови влакна, с виолетов мицелен мъх в основата.',
+      flesh: 'Месото е плътно, меко, бледовиолетово, със сладникав плодов аромат и приятен вкус.',
+      sporePrint: 'Бледорозов до меснорозов. Спорите са елипсовидни, фино брадавичести, 6–8 × 4–5 μm.',
+      habitat: 'Плодните тела се развиват през есента (октомври–декември, до първите студове) на големи групи и самодивски кръгове в иглолистни и широколистни гори.',
+      uses: 'Много добра ядлива гъба след задължителна пълна топлинна обработка. В сурово състояние предизвиква стомашно разстройство.',
+      confusion: 'Виолетовият паяжинник (Cortinarius violaceus) и други лилави паяжинници имат ръждивокафяв споров прашец и остатъци от кортина. Ливадната виолетка (Collybia personata) има светла бежова гугла и виолетов цвят само по пънчето.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/mor-cincile-lepista-nuda/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Lepista_nuda"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -21647,6 +24410,35 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Bl%C3%A5musseron'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Lepista_nuda'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/lepista-nuda'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%92%D0%B8%D0%BE%D0%BB%D0%B5%D1%82%D0%BA%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -21743,6 +24535,7 @@ export const CATALOG = [
     fruitingFrom: 5,
     fruitingTo: 10,
     label: {
+      tr: "çalımantarı",
       sl: "cvetoča grmulja",
       hr: "zdjeličasta capica",
       lt: "taurinis žvakidėlis",
@@ -21757,13 +24550,26 @@ export const CATALOG = [
       nl: 'Kroontjesknotszwam',
       da: 'kandelabersvamp',
       no: 'begerfingersopp',
-      sv: 'kandelabersvamp'
+      sv: 'kandelabersvamp',
+      bg: 'чашеносещ корал'
     },
     names: {
       en: ["crown-tipped coral fungus", "crown coral"]
     ,
       cs: ["korunovec svícnovitý"]},
     text: {
+      tr: {
+          "description": "Çürüyen sert odunlu ağaç gövdeleri üzerinde yaşayan odun çürüten saprofit bir mercan mantarıdır. Avrupa, Asya ve Kuzey Amerika'da yaygındır; özellikle nehir kenarlarındaki nemli yaprak döken ormanlarda huş, kavak ve söğüt kütüklerinde yetişir.",
+          "cap": "Meyve gövdesi 4–12 cm yüksekliğinde ve 2–10 cm genişliğinde olup çok dallı bir çalı veya mercan biçimindedir. Dallar dikey olarak yükselir ve her dalın ucu karakteristik olarak küçük bir fincan veya minyatür bir taç şeklinde çukurlaşarak kenarlarından yeni küçük uçlar verir. Rengi başlangıçta beyazımsı veya soluk kremdir; zamanla devetüyü, kehribar sarısı veya pembemsi taba rengine döner.",
+          "hymenium": "Himenyum dalların dış yüzeyini kaplar; pürüzsüzdür.",
+          "stipe": "Sap kısmı kısa, kalın, beyazımsı ve tabanda birleşiktir; doğrudan çürüyen oduna tutunur.",
+          "flesh": "Etli kısım elastik, lifli, beyaz veya krem rengidir. Baharatımsı hoş bir kokusu vardır; çiğ tadı başlangıçta hafiftir ancak kısa sürede dilde yakıcı ve biberli bir his bırakır.",
+          "habitat": "Meyve gövdeleri ilkbahardan sonbahara kadar görülür. Çürümekte olan yaprak döken ağaç kütüklerinde, özellikle kavak, dişbudak ve söğüt üzerinde tek tek veya gruplar halinde yetişir.",
+          "sporePrint": "Beyaz. Sporlar küçük, elipsoid, ince siğilli, amiloid ve yaklaşık 4–5,5 × 2–3 μm boyutlarındadır.",
+          "uses": "Yenilebilir bir mantardır. Pişirildiğinde biberli tadı yumuşar; taze dalları sote edilerek veya çorbalarda garnitür olarak tüketilir.",
+          "confusion": "Toprakta yetişen sarı mercan mantarı (Ramaria flava) ve beyaz mercan mantarı (Clavulina coralloides) dal uçlarında fincan benzeri taç çöküntüleri taşımaz ve doğrudan kütük üzerinde yetişmez.",
+          "notes": "Sıvı kültürlerinden piksidatol A–C, tsuikolin E ve omfadiol bileşikleri izole edilmiştir. Polonya'da nehir kenarı geniş yapraklı ormanların azalması nedeniyle Hassas (Vulnerable) kategorisinde değerlendirilmektedir."
+    },
       sl: {
           "description": "Lesna saprotrofna goba grmičaste oblike z značilnimi kronastimi vršički vejic. Razširjena je v Evropi, Severni Ameriki in Aziji.",
           "cap": "Trosnjak je grmičast, visok 4–12 cm in širok 2–10 cm, sestavljen iz številnih pokončnih vejic. Konci vejic so skledasto razširjeni in nosijo venček 3–6 drobnih šilastih izrastkov (kronic). Barva je bledo kremasta, bledo rumenkasta do oker rjava.",
@@ -21965,9 +24771,43 @@ export const CATALOG = [
       uses: 'Ätlig men av ringa matvärde på grund av sin sega konsistens och lätt peppriga bismak.',
       confusion: 'Andra fingersvampar (Ramaria och Clavulina) växer vanligen på marken och saknar de kandelaberlikt skålformade grenspetsarna med små kransställda uddar.',
       notes: 'I Polen betraktas den som sårbar (Vulnerable) till följd av minskningen av lövrika sumpskogar. Pyxidatoler och andra bioaktiva metaboliter har isolerats ur flytande kulturer.'
+    },
+    ro: {
+      description: 'Ciupercă coraloidă saprotrofă ce crește pe lemn putred în pădurile temperate din Europa, Asia și America de Nord.',
+      cap: 'Corpul fructifer are 4–13 cm înălțime și 2–10 cm lățime, fiind alcătuit din ramificații verticale repetate. Vârfurile ramurilor sunt caracteristic scobite în formă de cupă mică (pyxidate), fiecare cupă purtând de-a lungul marginii noi ramuri mici dispuse în coroană.',
+      hymenium: 'Suprafața fertilă este netedă și acoperă toate ramurile exterioare, de culoare alb-gălbuie, crem până la ocru-deschis.',
+      stipe: 'Prezintă o bază scurtă, cărnoasă, din care pornesc ramurile principale, adânc ancorată în lemnul putred prin cordoane miceliene albe.',
+      flesh: 'Carnea este albicioasă până la gălbuie, elastică și destul de tenace în tinerețe. Mirosul este slab de ciupercă proaspătă, iar gustul devine iute sau piperat după câteva momente de mestecare.',
+      sporePrint: 'Alb. Sporii sunt elipsoidali, fin verucoși, amiloizi, de circa 4–5,5 × 2–3 μm.',
+      habitat: 'Corpurile fructifere apar din iulie până în octombrie pe trunchiuri căzute, bușteni și crengi putrede de plop, salcie și alți arbori de foioase.',
+      uses: 'Este considerată necomestibilă (necomestibil) în Europa din cauza consistenței pieloase și a gustului piperat iute.',
+      confusion: 'Specia (Ramaria stricta) crește de asemenea pe lemn, dar ramurile sale au vârfurile ascuțite ca niște dinți, nu terminate în cupe mici pyxidate, și are amprentă sporală galben-brună.'
+    },
+    bg: {
+      description: 'Сапротрофна дървесна кораловидна гъба. Расте по гниеща дървесина в умерените гори на Северното полукълбо.',
+      cap: 'Плодното тяло е с височина 4–12 cm и ширина 2–10 cm, храстовидно разклонено, кремаво, бледожълтеникаво до бледообагрено в охра. Клонките завършват с характерни чашковидни разширения с малки зъбчета по ръба (наподобяващи свещник).',
+      hymenium: 'Фертилната повърхност е гладка и покрива външната страна на изправените клонки, носещи базидии.',
+      stipe: 'Основата е къса, стеснена, свързана с гниещата дървесина.',
+      flesh: 'Месото е белезникаво, еластично, със специфична леко парлива жилка при застаряване.',
+      sporePrint: 'Бял. Спорите са дребни, елипсовидни, гладки до слабо грапави, амилоидни, около 4–5 × 2–3 μm.',
+      habitat: 'Плодните тела се появяват от май до октомври върху паднали гниещи стволове и клони на широколистни дървета (особено трепетлика, топола, върба).',
+      uses: 'В Европа се счита за неядлива поради жилавата си консистенция и пиперлив вкус при по-старите образци.',
+      confusion: 'Видовете от род Ramaria (коралки) растат предимно на земята и нямат чашковидни короноподобни върхове на клонките.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/calimantari-artomyces-pyxidatus/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Mantar"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -22240,6 +25080,25 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Kandelabersvamp'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'MycoBank',
+          href: 'https://www.mycobank.org/page/Name%20details%20page/name/Artomyces%20pyxidatus'
+        },
+        {
+          group: 'text',
+          name: 'Index Fungorum',
+          href: 'https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=107386'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/artomyces-pyxidatus'
+        }
       ]
     },
     synonyms: [
@@ -22329,6 +25188,7 @@ export const CATALOG = [
     fruitingFrom: 5,
     fruitingTo: 11,
     label: {
+      tr: "küme mantarı",
       sl: "razvejani luknjičar",
       hr: "jelenovo uho",
       sr: "јеленово уво",
@@ -22345,16 +25205,31 @@ export const CATALOG = [
       nl: 'Schermpjeseikhaas',
       da: 'skærmformet stilkporesvamp',
       no: 'skjermkjuke',
-      sv: 'grenticka'
+      sv: 'grenticka',
+      ro: 'bureți iepurești',
+      bg: 'сенниковиден полипорус'
     },
     names: {
       en: ["lumpy bracket"],
       sk: ["barania hlava"]
     ,
       cs: ["choroš větvený"],
-      es: ['hortensia']
+      es: ['hortensia'],
+      bg: ['сенникова праханка']
     },
     text: {
+      tr: {
+          "description": "Geniş yapraklı ağaçların köklerinde beyaz çürüklüğe yol açan parazit ve saprofit bir polipor mantarıdır. Avrupa, Asya ve Kuzey Amerika'da yaşlı meşe ve kayın ormanlarında bulunur; toprak altında siyah renkli bir sklerotiyum oluşturur.",
+          "cap": "Meyve gövdesi 10–40 cm genişliğinde olup kalın, beyaz, etli ve çok dallı ortak bir gövdeden çıkan yüzlerce küçük, dairesel, göbekli şapkadan oluşan yoğun bir küme halindedir. Tekil şapkalar 1–4 cm çapında, dairesel, merkezden hafif çökük ve sarımsı beyaz, devetüyü veya soluk kahverengidir.",
+          "hymenium": "Alt yüzey beyaz veya krem renkli çok küçük gözeneklerden oluşur; borucuklar sapa doğru belirgin şekilde sarkar.",
+          "stipe": "Tekil şapkalar ince sapçıklarla dallanmış ana gövdeye bağlanır; ana sap kalın, etli ve beyazdır; toprak altındaki sklerotiyumdan yükselir.",
+          "flesh": "Etli kısım beyaz, yumuşak ve gençken suludur; yaşlandıkça sertleşir. Hoş, fındıksı ve unsu bir kokusu ile lezzetli bir tadı vardır.",
+          "habitat": "Meyve gövdeleri yaz ve sonbaharda görülür. Yaşlı meşe, kayın ve kestane ağaçlarının köklerinde veya kütük diplerinde tekil kümeler halinde yetişir.",
+          "sporePrint": "Beyaz. Sporlar silindirik, pürüzsüz ve yaklaşık 7–10 × 2,5–3,5 μm boyutlarındadır.",
+          "uses": "Seçkin yemeklik bir mantardır. Genç meyve gövdeleri mükemmel bir doku ve lezzete sahiptir; çorbalarda, sote olarak ve güveçlerde tüketilir. Geleneksel Çin tıbbında 'Zhu Ling' adıyla sklerotiyumu 2000 yılı aşkın süredir idrar söktürücü ve bağışıklık güçlendirici olarak kullanılmaktadır.",
+          "confusion": "Yelpaze poliporu (Grifola frondosa) yelpaze şeklinde gri-kahverengi şapkalara sahiptir ve dairesel saplı tekil şapkacıklardan oluşmaz.",
+          "notes": "Doğada toprak altı sklerotiyumunun Armillaria türlerinin miselleriyle temas halinde geliştiği bildirilmektedir. Nadir bulunan bir türdür."
+    },
       sl: {
           "description": "Zajedavska in saprotrofna goba, ki tvori velike razvejane šope z več sto drobnimi klobuki. Razširjena je v listnatih gozdovih Evrope, Severne Amerike in Azije ter raste iz podzemnega sklerocija.",
           "cap": "Celoten šop meri 20–50 cm v premeru in tehta do več kilogramov. Sestavljen je iz stotin majhnih, okroglih klobukov s premerom 1–4 cm, ki so v sredini nekoliko udrli. Barva je bledo rjavkasta, sivorjava do oker.",
@@ -22556,9 +25431,44 @@ export const CATALOG = [
       uses: 'En utmärkt och delikat matsvamp i ungt tillstånd. På grund av sin sällsynthet bör den i regel skonas i naturen.',
       confusion: 'Korallticka (Grifola frondosa) bildar liknande stora tuvor men har solfjäderformade, mörkare gråbruna hattar med sidoställda skaft. Svampkål och blomkålssvamp har krusiga flikar utan porer.',
       notes: 'Det underjordiska sklerotiet bildas i naturen i samspel med honungsskivlingar och har använts som urindrivande medel inom traditionell kinesisk medicin i över 2000 år.'
+    },
+    ro: {
+      description: 'Ciupercă saprotrofă și parazită ce provoacă putregai alb la rădăcinile arborilor de foioase, dezvoltându-se dintr-un sclerote subteran negricios. Este întâlnită rar în pădurile temperate din Europa și America de Nord.',
+      cap: 'Corpul fructifer este o tufă masivă de 15–40 cm lățime, formată din zeci sau sute de pălăriuțe rotunde individuale, mici (de 1–4 cm lățime), centrale, de culoare cenușiu-deschisă, ocru până la brun-gălbuie.',
+      hymenium: 'Sub fiecare pălăriuță se găsesc tuburi foarte scurte (1–2 mm), albe, ce coboară decurent pe tulpiniță. Porii sunt mici, albi până la crem.',
+      stipe: 'Piciorușele albe se unesc repetat într-un trunchi comun gros și cărnos, conectat la sclerotele subteran.',
+      flesh: 'Carnea este albă, fragedă și moale la exemplarele tinere, devenind fibroasă la maturitate. Mirosul amintește de făină sau mărar, iar gustul este foarte plăcut.',
+      sporePrint: 'Alb. Sporii sunt cilindrici, netezi, de circa 7–10 × 2,5–3,5 μm.',
+      habitat: 'Corpurile fructifere apar din iunie până în octombrie la baza stejarilor, fagilor și carpenilor bătrâni.',
+      uses: 'Este o specie comestibilă foarte căutată (comestibil excelent) în stadiu tânăr, folosită în supe și sosuri rafinate. În medicina tradițională chineză, sclerotele este utilizat sub numele de Zhu Ling ca diuretic.',
+      confusion: 'Foalele vacii (Grifola frondosa) au pălării mult mai mari, semicirculare în formă de spatulă sau frunză, fără pălăriuțe circulare centrate pe piciorușe.'
+    },
+    bg: {
+      description: 'Паразитна и сапротрофна дървесна гъба, причиняваща бяло гниене по корените на широколистни дървета. Развива се от подземен склероций.',
+      cap: 'Плодното тяло представлява голяма туфа с диаметър 20–50 cm, съставена от десетки до стотици малки отделни кръгли гуглички (с диаметър 1–4 cm всяка), разположени на разклонени бели стъбълца. Гугличките са бледоожълтеникави до сивокафяви, вдлъбнати в центъра.',
+      hymenium: 'Тръбичките са къси, бели, спускащи се по пънчетата, с малки бели пори.',
+      stipe: 'Множество малки пънчета се съединяват в обща дебела бяла основа.',
+      flesh: 'Месото е бяло, меко и крехко в младост, по-късно жилаво, с приятен аромат и орехов вкус.',
+      sporePrint: 'Бял. Спорите са цилиндрични, гладки, 7–10 × 2,5–3,5 μm.',
+      habitat: 'Плодните тела израстват от юли до октомври в основата на живи дъбове, букове и кестени.',
+      uses: 'Добра ядлива гъба в млада възраст, подходяща за супи и ястия. Склероцият се използва в традиционната медицина.',
+      confusion: 'Листовидната грифола (Grifola frondosa) има по-едри ветриловидни лопатести шапки със странични стъбла, без правилни кръгли централно закрепени гугли.',
+      notes: 'В Червената книга на Република България видът е включен с категория застрашен (Endangered).'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/kume-mantari-polyporus-umbellatus/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Mantar"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -22807,6 +25717,40 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Grenticka'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Polyporus_umbellatus'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Червена книга на Република България',
+          href: 'http://e-ecodb.bas.bg/rdb/bg/vol1/Polumbel.html'
+        },
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/polyporus-umbellatus'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD_%D0%BF%D0%BE%D0%BB%D0%B8%D0%BF%D0%BE%D1%80%D1%83%D1%81'
+        }
       ]
     },
     synonyms: [
@@ -22939,6 +25883,17 @@ export const CATALOG = [
       es: ['boleto de pie blanco']
     },
     text: {
+      tr: {
+          "description": "Titrek kavak (Populus tremula) ağaçlarıyla zorunlu mikorizal ortaklık kuran ektomikorizal bir mantardır. Kuzey, Orta ve Doğu Avrupa'da yaygın olup daha önce geniş anlamda Leccinum aurantiacum kompleksi içinde değerlendirilmiştir.",
+          "cap": "Şapka 6–20 cm genişliğinde olup başlangıçta yarım küre biçimlidir ve daha sonra dışbükeyleşir. Parlak turuncu, tuğla turuncusu veya tilki kırmızısıdır; yüzeyi pürüzsüz, kuru ve hafif kadifemsidir. Kenarlarda kütikula hafifçe sarkar.",
+          "hymenium": "Borucuklar ve küçük gözenekler başlangıçta beyaz veya krem rengidir; yaşlandıkça grimsi devetüyü tona döner. Berelendiğinde yavaşça kahverengimsi griye lekelenir.",
+          "stipe": "Sap 8–20 cm uzunluğunda ve 1,5–4 cm kalınlığında, uzun, silindirik ve tabana doğru hafifçe kalınlaşandır. Beyaz zemin üzerinde başlangıçta tamamen beyaz pullarla kaplıdır; yaşlandıkça bu pullar pas rengine veya kahverengimsi kırmızıya döner.",
+          "flesh": "Etli kısım kalın, sert ve beyazdır; kesildiğinde hızla leylak-pembeye veya şarabi renge döner, ardından koyu morumsu gri veya siyahımsı bir hal alır; sap tabanında mavi-yeşil lekeler oluşabilir. Kokusu hafif, tadı tatlımsıdır.",
+          "habitat": "Meyve gövdeleri yaz başından sonbahar sonuna kadar görülür. Özellikle titrek kavakların (Populus tremula) altında, hafif ve asidik topraklarda tek tek veya küçük gruplar halinde yetişir.",
+          "sporePrint": "Kahverengi veya zeytin kahverengisi. Sporlar mekiksi, pürüzsüz ve yaklaşık 13–18 × 4–5,5 μm boyutlarındadır.",
+          "uses": "Seçkin yemeklik bir mantardır. Pişirildiğinde eti siyahlaşır ancak mükemmel bir lezzete sahiptir. Çiğ veya az pişmiş tüketilmesi sindirim rahatsızlığına yol açabileceğinden en az 15–20 dakika iyice pişirilmelidir.",
+          "confusion": "Som örgübacak mantarı (Leccinum aurantiacum) meşe ağaçları altında yetişir ve sapında gençken kahverengi pullar taşır. Kırk örgübacak mantarı (Leccinum versipelle) huş ağaçları altında yetişir ve sapında siyah pullar bulunur."
+    },
       sl: {
           "description": "Ektomikorizna goba, strogo vezana na trepetliko (Populus tremula). Razširjena je v Evropi in severni Aziji.",
           "cap": "Klobuk meri 5–18 cm v premeru, je polkrožen do blazinast, živo oranžne, rdečeoranžne do opečno rdeče barve, z nekoliko visečo kožico čez rob.",
@@ -23132,9 +26087,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar utvecklas från juli till oktober i mykorrhiza med asp (Populus tremula) i skogsbryn, hagar och blandskogar.',
       uses: 'En god matsvamp som måste tillagas ordentligt före förtäring. Råa strävsoppar orsakar mag- och tarmbesvär.',
       confusion: 'Aspsopp (Leccinum aurantiacum) har från början brunaktiga till rödbruna fotfjäll och växer ofta med ek. Tegelsopp (Leccinum versipelle) växer med björk och har från tidig ålder svarta fjäll på foten.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică strict asociată cu plopul tremurător (Populus tremula). Răspândită în pădurile temperate și boreale din Europa.',
+      cap: 'Pălăria are 4–20 cm lățime, semisferică la început și apoi pernițată. Cuticula este fin catifelată la uscăciune, de culoare portocaliu-aprins până la roșu-cărămiziu strălucitor.',
+      hymenium: 'Tuburile au 1–3 cm lungime, albicioase la început, apoi cenușii-crem. Porii sunt mărunți, rotunzi, albicioși până la ocru-cenușiu la maturitate.',
+      stipe: 'Piciorul are 6–20 cm lungime și 1,5–4 cm grosime, robust, cilindric sau îngroșat spre bază. O trăsătură distinctivă constă în solzișorii de pe picior, care sunt de un alb pur în tinerețe, căpătând nuanțe brunii doar la bătrânețe.',
+      flesh: 'Carnea este albă și densă în tinerețe, virând la tăiere mai întâi în roz-violet și apoi în cenușiu-negricios. Mirosul și gustul sunt plăcute de ciupercă proaspătă.',
+      sporePrint: 'Brun-măsliniu. Sporii sunt fusiformi, de circa 13–18 × 4–5,5 μm.',
+      habitat: 'Corpurile fructifere apar din iunie până în noiembrie exclusiv sub plopi tremurători (Populus tremula).',
+      uses: 'Este o specie comestibilă foarte bună (comestibil) după o gătire adecvată; la preparare carnea se înnegrește caracteristic.',
+      confusion: 'Hriba de plop (Leccinum aurantiacum) crește sub stejari sau alte foioase și are solzișorii de pe picior bruni-roșiatici încă de la început. Pitărcuța de mesteacăn (Leccinum versipelle) crește sub mesteceni și are solzișorii de pe picior negri încă din stadiu tânăr.'
+    },
+    bg: {
+      description: 'Ектомикоризна гъба от род Leccinum (брезовки), свързана с трепетлика (Populus tremula). Разпространена в Европа.',
+      cap: 'Гуглата е с диаметър 5–20 cm, полукълбовидна до изпъкнала, ярко оранжева до червено-оранжева. Кожицата слабо надвисва над тръбичките по ръба.',
+      hymenium: 'Тръбичките са белезникави до кремавосиви, дълги, с малки закръглени пори, потъмняващи при натиск.',
+      stipe: 'Пънчето е стройно, масивно, бяло, покрито с бели люспици в млада възраст, които едва при застаряване стават кафеникави или сивкави.',
+      flesh: 'Месото е бяло, плътно, като при разрез постепенно се оцветява във виолетово-сиво до черно. Има мек вкус и слаб гъбен аромат.',
+      sporePrint: 'Охренокафяв до тютюневокафяв. Спорите са вретеновидни, гладки, около 13–18 × 4–5,5 μm.',
+      habitat: 'Плодните тела се срещат от юни до октомври изключително под трепетлики (Populus tremula).',
+      uses: 'Добра ядлива гъба след продължително готвене. При термична обработка месото потъмнява до черно.',
+      confusion: 'Оранжевата брезовка (Leccinum aurantiacum) има ръждивокафяви до черни люспици по пънчето още в най-млада възраст и расте под дъб или други широколистни дървета.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/som-orgubacak-leccinum-aurantiacum/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Mantar"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -23364,6 +26353,25 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Vitfotad_aspsopp'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'MycoBank',
+          href: 'https://www.mycobank.org/page/Name%20details%20page/name/Leccinum%20albostipitatum'
+        },
+        {
+          group: 'text',
+          name: 'Index Fungorum',
+          href: 'https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=515220'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/leccinum-albostipitatum/'
+        }
       ]
     },
     synonyms: [
@@ -23452,6 +26460,7 @@ export const CATALOG = [
     fruitingFrom: 7,
     fruitingTo: 1,
     label: {
+      tr: "yalancı kazayağı",
       sl: "divji lisičkovec",
       hr: "lažna lisičica",
       sr: "лажна лисичарка",
@@ -23469,7 +26478,9 @@ export const CATALOG = [
       pt: 'falsa-míscaro',
       da: 'almindelig orangekantarel',
       no: 'falsk kantarell',
-      sv: 'narrkantarell'
+      sv: 'narrkantarell',
+      ro: 'gălbior fals',
+      bg: 'лъжлив пачи крак'
     },
     names: {
       sk: ["tanečnica", "divé kuriatko"]
@@ -23479,6 +26490,18 @@ export const CATALOG = [
       sv: ['falsk kantarell']
     },
     text: {
+      tr: {
+          "description": "İğne yapraklı orman döküntüleri ve çürümekte olan odunlar üzerinde yaşayan saprofit bir mantardır. Avrupa, Asya, Kuzey Amerika ve Avustralya'da iğne yapraklı ormanlarda ve fundalıklarda son derece yaygındır.",
+          "cap": "Şapka 2–8 cm genişliğinde olup başlangıçta dışbükeydir, daha sonra düzleşir ve merkezden huni şeklinde çökükleşir; kenarları uzun süre içe kıvrık kalır. Rengi parlak turuncu, turuncu-sarı veya kayısı rengidir; kuru, ince kadifemsi veya keçe gibi bir yüzeye sahiptir.",
+          "hymenium": "Lameller gerçek lamellerdir; son derece sık, ince ve sapa doğru belirgin şekilde sarkar; defalarca ikiye çatallanır (dikotomik). Parlak turuncu veya altın sarısı renktedir; şapka renginden daha canlıdır.",
+          "stipe": "Sap 3–6 cm uzunluğunda ve 4–10 mm kalınlığında, silindirik veya hafifçe kıvrık, şapkayla aynı turuncu renkte veya tabana doğru kahverengileşen yapıdadır; içi dolgundur ve zamanla süngerimsi hale gelir.",
+          "flesh": "Etli kısım ince, yumuşak, soluk turuncu veya sarımsıdır. Belirgin bir kokusu yoktur; tadı hafif ve tatsızdır.",
+          "habitat": "Meyve gövdeleri ağustos ayından kasım sonuna kadar görülür. Çam ve ladin ormanlarında, çürüyen kütükler, talaşlar ve iğne yaprak döküntüleri üzerinde tek tek veya gruplar halinde yetişir.",
+          "sporePrint": "Beyaz veya çok soluk krem. Sporlar elipsoid, pürüzsüz, dekstrinoid ve yaklaşık 5,5–7,5 × 3,5–4,5 μm boyutlarındadır.",
+          "uses": "Yenilebilirliği tartışmalıdır; genellikle yenmez veya şartlı yenilebilir kabul edilir. Bazı kişilerde sindirim rahatsızlıklarına yol açabilir; tadı yavan ve kalitesizdir.",
+          "confusion": "Gerçek sarı kız mantarı (Cantharellus cibarius) gerçek lameller yerine kalın kıvrımlara (damarlara) sahiptir, hoş kayısı kokuludur, beyaz ete sahiptir ve toprakta mikorizal olarak yetişir.",
+          "notes": "Hygrophoropsis macrospora ve Hygrophoropsis rufa daha önce bu türün varyetesi olarak kabul edilirken artık ayrı türler olarak ayrılmıştır."
+    },
       sl: {
           "description": "Saprotrofna goba iglastih gozdov z oranžnimi lističi. Pogosta je v Evropi in Severni Ameriki na tleh in lesnih ostankih.",
           "cap": "Klobuk meri 2–8 cm v premeru, sprva je izbočen, nato zravnan in v osredju lijakast. Je živo oranžne do rumenooranžne barve, s tankim, dolgo spodvitim robom.",
@@ -23680,9 +26703,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar påträffas från augusti till november på marken bland barrförna och på murken barrved.',
       uses: 'Mindre god matsvamp eller oätlig; smaken är fadd och konsistensen sladdrig. Den har orsakat lindriga matsmältningsbesvär hos känsliga individer.',
       confusion: 'Kantarell (Cantharellus cibarius) har tjocka, grenade åsar (inte tunna skivor), fast vitt kött och en distinkt behaglig aprikosdoft.'
+    },
+    ro: {
+      description: 'Ciupercă saprotrofă comună din pădurile de conifere și mixte. Este răspândită în Europa, America de Nord și alte regiuni temperate.',
+      cap: 'Pălăria are 2–8 cm lățime, convexă la început, apoi aplatizată și deprimată în formă de pâlnie, cu marginea rulată spre interior. Cuticula este fin catifelată, uscată, de un portocaliu intens până la galben-portocaliu, decolorându-se la maturitate.',
+      hymenium: 'Lamelele sunt adevărate (nu pliuri), subțiri, dese, decurente pe picior și ramificate dicotomic (bifurcate repetat). Culoarea este de un portocaliu aprins, mai intensă decât cea a pălăriei.',
+      stipe: 'Piciorul are 2–7 cm lungime și 0,3–1 cm grosime, cilindric, adesea curbat, portocaliu-deschis sau căpătând o colorație brun-negricioasă spre bază la maturitate.',
+      flesh: 'Carnea este subțire, moale, bumbăcoasă, de culoare galben-portocalie palidă. Mirosul este slab și nesemnificativ, iar gustul este blând.',
+      sporePrint: 'Alb până la crem-foarte palid. Sporii sunt elipsoidali, dextrinoizi, de circa 5,5–7 × 3,5–4,5 μm.',
+      habitat: 'Corpurile fructifere apar din august până în decembrie pe sol acoperit de ace, pe mușchi sau pe lemn putred de rășinoase (pin, molid).',
+      uses: 'Este considerată necomestibilă sau fără valoare gastronomică (necomestibil). Deși a fost consumată în unele zone fără incidente grave, la unele persoane provoacă tulburări digestive.',
+      confusion: 'Gălbiorul (Cantharellus cibarius) este mult mai ferm și cărnos, are o culoare galben-gălbenuș uniformă, pliuri decurente boante (nu lamele ascuțite și dese) și un miros plăcut de caise.'
+    },
+    bg: {
+      description: 'Сапротрофна гъба по иглолистна горска постеля и силно разложена дървесина. Често срещана в горите на Европа и Северна Америка.',
+      cap: 'Гуглата е с диаметър 3–8 cm, фуниевидна с подвит ръб, оранжево-жълта до наситено оранжева, с матова, фино кадифена повърхност.',
+      hymenium: 'Ламелите са същински, гъсти, многократно дихотомично разклонени, ярко оранжеви, спускащи се надолу по пънчето.',
+      stipe: 'Пънчето е цилиндрично, тънко, извито, оранжево с кафеникава основа, високо 3–6 cm и дебело 4–8 mm.',
+      flesh: 'Месото е меко, тънко, бледооранжево, с ненатрапчив мирис и неопределен вкус.',
+      sporePrint: 'Бял до бледокремав. Спорите са елипсовидни, гладки, декстриноидни, 5,5–7 × 3,5–4,5 μm.',
+      habitat: 'Плодните тела израстват от август до ноември предимно в борови и смърчови гори върху гниещи иглички или пънове.',
+      uses: 'Счита се за неядлива или нискокачествена гъба; при някои хора предизвиква стомашно разстройство.',
+      confusion: 'Същинският пачи крак (Cantharellus cibarius) има дебели, жилковидни надлъжни гънки вместо тънки ламели, плътно бяло месо с приятен аромат на кайсии и расте на почва в микориза.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/yalanci-kazayagi-hygrophoropsis-aurantiaca/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Mantar"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -23945,6 +27002,30 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Narrkantarell'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Hygrophoropsis_aurantiaca'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/hygrophoropsis-aurantiaca'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%9B%D1%8A%D0%B6%D0%BB%D0%B8%D0%B2_%D0%BF%D0%B0%D1%87%D0%B8_%D0%BA%D1%80%D0%B0%D0%BA'
+        }
       ]
     },
     synonyms: [
@@ -24040,6 +27121,7 @@ export const CATALOG = [
     fruitingFrom: 5,
     fruitingTo: 11,
     label: {
+      tr: "ağulu kıvrıkbaş mantarı",
       sl: "velika rdečelistka",
       hr: "olovasta rudoliska",
       sr: "оловаста рудолиска",
@@ -24057,7 +27139,9 @@ export const CATALOG = [
       pt: 'cogumelo-impostor',
       da: 'giftig rødblad',
       no: 'giftrødspore',
-      sv: 'bolmörtsskivling'
+      sv: 'bolmörtsskivling',
+      ro: 'ciuperca pieptănușului',
+      bg: 'отровен родофилус'
     },
     names: {
       en: ["livid entoloma", "livid agaric", "leaden entoloma", "lead poisoner", "grey pinkgill"],
@@ -24066,9 +27150,22 @@ export const CATALOG = [
       cs: ["závojenka velká"],
       es: ['pérfida', 'falsa pardilla'],
       no: ['giftig rødskivesopp'],
-      sv: ['giftig rödskivling']
+      sv: ['giftig rödskivling'],
+      bg: ['отровна сливовка']
     },
     text: {
+      tr: {
+          "description": "Geniş yapraklı ormanlarda ektomikorizal olarak yetişen zehirli bir mantardır. Avrupa'da meşe, kayın ve gürgen ağaçlarının altında kireçli topraklarda yaz sonu ve sonbaharda ortaya çıkar.",
+          "cap": "Şapka 6–18 cm genişliğinde olup kalın, etli ve başlangıçta dışbükeydir; zamanla dalgalı ve düzensiz bir şekilde açılır; merkezinde silik bir tümsek bulunabilir. Rengi fildişi beyazı, açık gri, devetüyü veya kurşuni gridir; yüzeyi kuru ve ipeksi parlaklıktadır.",
+          "hymenium": "Lameller başlangıçta sarımsı beyazdır; sporlar olgunlaştıkça somon pembesi veya kirli pembe renge döner. Sapa çentikli veya serbesttir.",
+          "stipe": "Sap 6–14 cm uzunluğunda ve 1,5–3,5 cm kalınlığında, kalın, sert, silindirik veya tabanda şişkindir; beyaz renkte olup boyuna liflidir.",
+          "flesh": "Etli kısım kalın, sert ve beyazdır. Çok belirgin ve kuvvetli taze un (salatalık) kokusuna ve başlangıçta hoş bir tada sahiptir.",
+          "habitat": "Meyve gövdeleri ağustos ayından ekim sonuna kadar görülür. Sıcak meşe ve kayın ormanlarında, kireçli ve killi topraklarda küçük gruplar veya peri halkaları halinde yetişir.",
+          "sporePrint": "Somon pembesi. Sporlar belirgin şekilde köşeli (5–6 köşeli), pürüzsüz ve yaklaşık 8–11 × 7–9,5 μm boyutlarındadır.",
+          "uses": "Zehirlidir. Ciddi sindirim sistemi zehirlenmesine (gastrointestinal sendrom) yol açar. Tüketimden 1–3 saat sonra başlayan şiddetli kusma, karın krampları, ishal ve dehidrasyon ile kendini gösterir; yaşlılarda veya çocuklarda ölümcül olabilir.",
+          "confusion": "İlkbaharda çıkan kokulu beyaz cincile (Calocybe gambosa) beyaz lamellere ve beyaz spor izine sahiptir. Clitocybe nebularis sarkan sarımsı lamellere sahiptir. Çayır mantarları koyu çikolata kahverengisi lameller taşır.",
+          "notes": "Daha önce Entoloma eulividum adıyla ayrılan aşıboyası şapkalı formlar bu türün kapsamına dahil edilmiştir."
+    },
       sl: {
           "description": "Zelo strupena ektomikorizna goba toploljubnih listnatih gozdov. Razširjena je v Evropi in delih Azije na apnenčastih tleh.",
           "cap": "Klobuk meri 6–18 cm v premeru, je masiven, sprva polkrožen, nato zravnan z valovitim robom. Je bledo pepelnato sive, umazano bele do bledo oker barve s svilnato gladko površino.",
@@ -24270,9 +27367,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar uppträder från juli till oktober i varma lövskogar och parker med ek och bok på kalkrik lera.',
       uses: 'Mycket giftig. Svampen orsakar allvarliga förgiftningar med intensiva kräkningar, buksmärtor och diarré som kan leda till uttorkning och leverpåverkan.',
       confusion: 'Vårmusseron (Calocybe gambosa) växer på våren och har vita sporer och vita skivor som aldrig blir rosa. Bolmörtsskivlingen förväxlas ibland olyckligt med ängschampinjon eller pudrad trattskivling.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică mare și otrăvitoare din pădurile calde de foioase pe sol calcaros. Este întâlnită în Europa Centrală și de Sud.',
+      cap: 'Pălăria are 5–20 cm lățime, cărnoasă, inițial semisferică sau convexă, apoi aplatizată cu marginea sinuoasă și ondulată. Cuticula este uscată, mătăsoasă, de culoare alb-cenușie, ocru-deschis până la cafeniu-palid.',
+      hymenium: 'Lamelele sunt late, sinuate sau dințate la picior. La început sunt galben-palide, căpătând o colorație roz-somon evidentă pe măsură ce sporii se maturizează.',
+      stipe: 'Piciorul are 5–15 cm lungime și 1,5–3,5 cm grosime, masiv, albicios, fin fibros, adesea umflat spre bază.',
+      flesh: 'Carnea este albă, compactă și groasă. Mirosul amintește de făină proaspătă la început, devenind grețos și rânced la maturitate.',
+      sporePrint: 'Roz-somon. Sporii sunt unghiulari, cu 5–6 colțuri, de 8–11 × 7–9,5 μm.',
+      habitat: 'Corpurile fructifere apar din iunie până în octombrie în păduri de stejar, fag și carpen pe soluri calcaroase.',
+      uses: 'Ciuperca este otrăvitoare toxică severă (otrăvitor). Provoacă sindrom resinoidian acut cu vărsături violente, diaree și deshidratare ce necesită adesea spitalizare.',
+      confusion: 'Buretele lui Sfântul Gheorghe (Calocybe gambosa) apare exclusiv primăvara, are lamele permanent albe și amprentă sporală albă. Cenușăreasa (Clitocybe nebularis) are lamele decurente alb-gălbui și amprentă sporală crem-albicioasă.'
+    },
+    bg: {
+      description: 'Силно отровна ектомикоризна гъба. Топлолюбив вид, разпространен в широколистните гори на Европа върху глинести и варовити почви.',
+      cap: 'Гуглата е масивна, с диаметър 6–18 cm, отначало звънчевидна до полукълбовидна с подвит ръб, след това изпъкнала до разперена с тъпа гърбица. Цветът е сиво-белезникав, охренокафяв до оловносив.',
+      hymenium: 'Ламелите са свободни до прираснали със зъбче, отначало жълтеникави, а след узряване на спорите стават с характерен сьомговорозов цвят.',
+      stipe: 'Пънчето е бяло, плътно, масивно, високо 5–14 cm и дебело 1,5–3,5 cm, в основата често разширено.',
+      flesh: 'Месото е дебело, бяло, с отчетлива миризма на прясно брашно в младост, която при старите екземпляри става неприятна.',
+      sporePrint: 'Розов. Спорите са с характерна ъгловата форма (5–6-стенни), около 8–11 × 7–9,5 μm.',
+      habitat: 'Плодните тела се развиват от юли до октомври под дъб, бук и габър.',
+      uses: 'Силно отровна гъба. Причинява тежък стомашно-чревен токсичен синдром с интензивно повръщане, болки в корема и опасно обезводняване.',
+      confusion: 'Майската гъба (Calocybe gambosa) расте през пролетта и има чисто бели ламели и бял споров прашец. Обикновената орешарка (Clitocybe nebularis) има низбягващи белезникави ламели и кремав споров прашец.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/agulu-kivrikbas-entoloma-sinuatum/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27nin_zehirli_mantarlar%C4%B1_listesi"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -24521,6 +27652,30 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Bolm%C3%B6rtsskivling'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Entoloma_sinuatum'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/entoloma-sinuatum'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%9E%D1%82%D1%80%D0%BE%D0%B2%D0%BD%D0%B0_%D0%B3%D1%8A%D0%B1%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -24613,6 +27768,7 @@ export const CATALOG = [
     fruitingFrom: 5,
     fruitingTo: 11,
     label: {
+      tr: "pis kokulu boynuz mantarı",
       sl: "smrdljivi mavrahovec",
       hr: "smrdljivi stršak",
       sr: "обична бестидница",
@@ -24630,16 +27786,32 @@ export const CATALOG = [
       pt: 'falo-impúdico',
       da: 'almindelig stinksvamp',
       no: 'stanksopp',
-      sv: 'stinksvamp'
+      sv: 'stinksvamp',
+      ro: 'burete pucios',
+      bg: 'обикновен фалус'
     },
     names: {
       en: ["stinkhorn", "witch's egg"]
     ,
       cs: [],
       es: ['colmenilla fétida'],
-      sv: ['liksvamp']
+      sv: ['liksvamp'],
+      ro: ['burete puturos'],
+      bg: ['дервишка гъба', 'смрадливка']
     },
     text: {
+      tr: {
+          "description": "Toprakta ve çürüyen odun kalıntılarında yaşayan saprofit bir gasteromiset mantarıdır. Avrupa, Asya ve Kuzey Amerika'da ormanlarda, bahçelerde ve parklarda yaygın olarak bulunur.",
+          "cap": "Olgun meyve gövdesi beyaz, gözenekli, süngerimsi silindirik bir sapın ucunda yer alan 2–5 cm yüksekliğinde konik bir başçıktan oluşur. Başçık başlangıçta koyu zeytin yeşili, sümüksü, pis leş kokulu bir gleba tabakası ile kaplıdır; sinekler glebayı tükettikten sonra altındaki beyaz petekli çukurcuklu yapı ortaya çıkar.",
+          "hymenium": "Gleba başçığın dış yüzeyinde yer alır; yapışkan, koyu yeşil ve sporlarla doludur. Güçlü kokusu sayesinde leş sineklerini kendine çekerek sporlarını dağıtır.",
+          "stipe": "Sap 10–25 cm uzunluğunda ve 2–4 cm kalınlığında, beyaz, süngerimsi, içi boş ve kırılgandır; tabanda torba şeklinde beyaz veya sarımsı bir volva (yumurta kalıntısı) içinde yer alır.",
+          "flesh": "Etli kısım süngerimsi ve kırılgandır. Olgunlukta etrafa metrelerce uzaktan duyulabilen ağır bir leş ve çürümüş et kokusu yayar.",
+          "habitat": "Meyve gövdeleri haziran ayından ekim sonuna kadar görülür. Yaprak döken ve karışık ormanlarda, humuslu topraklarda ve parklardaki malç yığınlarında yetişir.",
+          "sporePrint": "Zeytin yeşili veya sarımsı yeşil (gleba içinde). Sporlar elipsoid, pürüzsüz ve yaklaşık 3,5–5 × 1,5–2 μm boyutlarındadır.",
+          "uses": "Şartlı yenilebilir bir mantardır. Yalnızca genç 'yumurta' (cadı yumurtası) evresindeyken dış kabuk ve jel tabakası soyularak içteki sert çekirdek çiğ veya kızartılarak yenebilir; olgunlaştığında kokusu nedeniyle kesinlikle tüketilmez.",
+          "confusion": "Köpek boynuz mantarı (Mutinus caninus) daha küçük, turuncu-kırmızı başlıklı ve daha zayıf kokuludur. Pembe boynuz mantarı (Phallus hadriani) morumsu-pembe bir yumurtaya sahiptir ve kumlu topraklarda yetişir.",
+          "notes": "Yumurta yarıldıktan sonra sap saatte 10–15 cm uzayabilir ve genişleyen meyve gövdesi asfaltı delebilecek düzeyde basınç uygulayabilir."
+    },
       sl: {
           "description": "Saprotrofna goba z izrazito falusno obliko in močnim smradom po mrhovini. Razširjena je v gozdovih Evrope in Severne Amerike.",
           "cap": "Sprva raste kot podzemno ali delno odkrito »hudičevo jajce« bele barve. Ko ovojnica poči, v nekaj urah zraste bel votel bet, na vrhu katerega je zvonast klobuk, prekrit z olivno zeleno, sluzasto trosovnico (glebo), ki neznosno smrdi po mrhovini in privablja muhe.",
@@ -24842,9 +28014,43 @@ export const CATALOG = [
       uses: 'I häxäggsstadiet är den ätlig efter att det yttre geléskiktet avlägsnats, och kan skäras i skivor och stekas med nötig smak. Den utvuxna svampen är oätlig på grund av sin stank.',
       confusion: 'Hundstinksvamp (Mutinus caninus) är mindre, spensligare, har rödorange spets och saknar en fristående klocklik mössa på toppen.',
       notes: 'Det expanderande skaftet kan skjuta upp med en hastighet av flera centimeter i timmen och kan lyfta asfalt. Spyflugor och dyngflugor lockas till gleban av doftämnena och sprider sporerna vidare.'
+    },
+    ro: {
+      description: 'Ciupercă saprotrofă răspândită în păduri, parcuri și grădini pe soluri bogate în humus și lemn putred. Este comună în Europa, Asia și America de Nord.',
+      cap: 'Corpul fructifer debutează ca un «ou» subteran sau semi-îngropat de 3–6 cm, albicios, cu un strat gros gelatinos interior. La maturitate, oul se rupe și din el se înalță un receptacul conic de 2–5 cm lățime pe vârful piciorului, prevăzut cu o suprafață alveolată reticulată.',
+      hymenium: 'Suprafața fertilă este gleba vâscoasă, verde-măsliniu închis, care acoperă pălăria conică și emană un miros puternic de hoit pentru a atrage muștele ce transportă sporii.',
+      stipe: 'Piciorul este alb, spongios, poros, cilindric, gol la interior, de 10–25 cm lungime și 2–4 cm grosime, pornind din resturile saciforme ale volvei gelatinoase.',
+      flesh: 'Carnea piciorului este albă, fragilă și spongioasă. Mirosul exemplarului matur este cadaveric și respingător de la distanță.',
+      sporePrint: 'Galben-verzui. Sporii sunt elipsoidali, netezi, de 3,5–5 × 1,5–2 μm, răspândiți prin intermediul insectelor.',
+      habitat: 'Corpurile fructifere apar din mai până în noiembrie în păduri de foioase și conifere pe sol bogat în materie organică.',
+      uses: 'În stadiul tânăr de «ou», înainte de desfacerea piciorului, este comestibilă (comestibil); se îndepărtează stratul gelatinos exterior, iar miezul cărnos se poate prăji. Corpurile fructifere mature sunt necomestibile din cauza mirosului.',
+      confusion: 'Specia de dune (Phallus hadriani) are un ou și o volvă de culoare roz-purpurie și crește adesea pe dune de nisip. Buretele de câine (Mutinus caninus) este mai mic, cu vârful receptaculului portocaliu-roșiatic și gleba mai puțin fetidă.'
+    },
+    bg: {
+      description: 'Сапротрофна базидиева гъба от разред Phallales. Широко разпространена в горите и парковете на умерената зона на Евразия и Северна Америка.',
+      cap: 'В младост плодното тяло представлява полуподземно белезникаво «яйце» с диаметър 4–6 cm. При узряване обвивката се разпуква и за няколко часа израства цилиндрично поресто бяло стъбло с конична напръстниковидна шапчица на върха, покрита с тъмнозелена маслинена слузеста глеба, излъчваща силна воня на мърша.',
+      hymenium: 'Спороносният слой (глеба) се разполага по външната нагъната повърхност на шапката. Силната миризма привлича мухи, които разнасят спорите.',
+      stipe: 'Стъблото е бяло, поресто, кухо и гъбесто, високо 10–25 cm и дебело 2–4 cm, излизащо от разкъсаната кожеста волва в основата.',
+      flesh: 'В зрялост стъблото е трошливо и гъбесто. В стадий на «яйце» месото съдържа желатинов пласт.',
+      sporePrint: 'Жълтеникаво-зелен. Спорите са елипсовидни, гладки, дребни, около 3,5–5 × 1,5–2 μm.',
+      habitat: 'Плодните тела се срещат от юни до ноември в богати на хумус широколистни и смесени гори, градини и паркове.',
+      uses: 'В зряла възраст е неядлива поради отблъскващата миризма. В стадий на неотворено «яйце» се счита за ядлива след обелване на външната желатинова обвивка.',
+      confusion: 'Mutinus caninus е по-дребен, с оранжево или червеникаво стъбло без отделна шапчица на върха.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/pis-kokulu-boynuz-phallus-impudicus/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Mantar"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -25123,6 +28329,30 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Stinksvamp'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Phallus_impudicus'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/phallus-impudicus'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%9E%D0%B1%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD_%D1%84%D0%B0%D0%BB%D1%83%D1%81'
+        }
       ]
     },
     synonyms: [
@@ -25208,6 +28438,7 @@ export const CATALOG = [
     fruitingFrom: 1,
     fruitingTo: 12,
     label: {
+      tr: "kav mantarı",
       sl: "bukova kresilka",
       hr: "bukova guba",
       sr: "прави труд",
@@ -25225,7 +28456,9 @@ export const CATALOG = [
       pt: 'isca',
       da: 'almindelig tøndersvamp',
       no: 'knuskkjuke',
-      sv: 'fnöskticka'
+      sv: 'fnöskticka',
+      ro: 'iască',
+      bg: 'праханова гъба'
     },
     names: {
       en: [
@@ -25241,9 +28474,23 @@ export const CATALOG = [
       cs: [],
       es: ['casco de caballo'],
       pt: ['fungo-do-fogo', 'casca-de-árvore'],
-      sv: ['fnösk-ticka']
+      sv: ['fnösk-ticka'],
+      ro: ['copită de iască', 'văcălie de fag'],
+      bg: ['праханка']
     },
     text: {
+      tr: {
+          "description": "Canlı veya ölü sert odunlu ağaçlarda beyaz çürüklüğe yol açan parazit ve odun çürüten saprofit bir polipor mantarıdır. Avrupa, Asya, Afrika ve Kuzey Amerika'da özellikle kayın ve huş ağaçlarında çok yaygındır.",
+          "cap": "Meyve gövdesi çok yıllık, odunsu, at toynağı biçiminde 10–40 cm genişliğinde ve 10–20 cm kalınlığındadır. Üst yüzeyi sert kabuklu, konsantrik halkalı ve olukludur; rengi gümüşi gri, kül grisi veya siyahımsıdır.",
+          "hymenium": "Alt yüzey düz veya hafif içbükey olup küçük, dairesel, devetüyü veya grimsi kahverengi gözeneklerden oluşur; her yıl yeni bir borucuk tabakası eklenir.",
+          "stipe": "Sapı yoktur; doğrudan ağaç gövdesine çok sağlam ve geniş bir tabanla tutunur.",
+          "flesh": "Etli kısım mantarımsı-odunsu, tarçın kahverengisi veya süet kıvamındadır; serttir ve kırılması zordur. Meyvemsi hoş bir kokusu vardır.",
+          "habitat": "Yıl boyunca ağaç gövdelerinde görülür. Yaşlı veya devrilmiş kayın, huş, kavak ve meşe ağaçlarında tek tek veya gruplar halinde yetişir.",
+          "sporePrint": "Beyaz veya çok açık krem. Sporlar silindirik, pürüzsüz ve yaklaşık 15–20 × 5–7 μm boyutlarındadır.",
+          "uses": "Yenmez. Çok sert ve odunsu olduğu için besin değeri yoktur. Tarih öncesi çağlardan bu yana içteki kadifemsi mantar dokusu kaynatılıp dövülerek ateş yakmak için kav (tinder) olarak kullanılmıştır; ayrıca giysi, şapka yapımında ve kanamayı durdurucu pansuman olarak değerlendirilmiştir.",
+          "confusion": "Kırmızı kenarlı polipor (Fomitopsis pinicola) iğne yapraklılarda yetişir ve kenarında turuncu-kırmızı parlak bir reçine bandı taşır. Yassı polipor (Ganoderma applanatum) daha yassı ve kahverengi spor izine sahiptir.",
+          "notes": "Ötzi adlı buzadamın yanında taşınan mantarlardan biri kav mantarıdır."
+    },
       sl: {
           "description": "Večletna lesna zajedavska in saprotrofna goba kopitaste oblike. Razširjena je po vsej severni polobli na listavcih.",
           "cap": "Trosnjak je kopitaste oblike, trd in olesenel, širok 10–40 cm in debel do 20 cm. Zgornja površina ima debelo, trdo, koncentrično conirano skorjo sivkaste, pepelnate do skoraj črne barve.",
@@ -25440,9 +28687,43 @@ export const CATALOG = [
       habitat: 'Fleråriga fruktkroppar sitter året om på döda eller försvagade stammar av lövträd, framför allt björk och bok, där den orsakar vitröta.',
       uses: 'Oätlig och stenhård. Den har historiskt haft en mycket stor betydelse för tillverkning av fnöske för eldslagning samt för läderliknande textilier och blodstillande förband.',
       confusion: 'Klibbticka (Fomitopsis pinicola) har en hartsartad skorpa som smälter vid upphettning med tändsticka och ofta en rödorange tillväxtkant. Eldticka (Phellinus igniarius) har mörkare, sprucken skorpa och mörkbrunt kött.'
+    },
+    ro: {
+      description: 'Ciupercă parazită și saprotrofă perenă ce provoacă putregai alb în lemnul arborilor de foioase, în special fag și mesteacăn. Răspândită pe scară largă în întreaga emisferă nordică.',
+      cap: 'Corpul fructifer este peren, în formă de copită de cal masivă, de 10–40 cm lățime și 5–25 cm grosime. Suprafața superioară este tare ca piatra, lemnoasă, brăzdată de șanțuri concentrice cenușii, brun-cenușii sau negricioase ce marchează anii de creștere.',
+      hymenium: 'Format din straturi suprapuse anuale de tuburi lungi și înguste (de până la 10 cm adâncime), de culoare brun-ruginie. Porii sunt mici, rotunzi, cenușii-deschiși până la brun-deschis.',
+      stipe: 'Nu are picior, consola fiind fixată direct și puternic pe trunchi.',
+      flesh: 'Carnea este tare, lemnoasă, fibroasă și pâsloasă, de culoare brun-scorțișorie. Mirosul amintește de lemn proaspăt sau ciupercă uscată.',
+      sporePrint: 'Alb. Sporii sunt alungiți-cilindrici, netezi, de 15–20 × 5–7 μm.',
+      habitat: 'Corpurile fructifere sunt prezente tot timpul anului pe trunchiuri bătrâne, slăbite sau moarte de fag și mesteacăn.',
+      uses: 'Ciuperca este complet necomestibilă (necomestibil) din cauza texturii lemnoase. Tradițional, stratul interior fibros a fost fiert în leșie și bătut cu ciocanul pentru a produce iască inflamabilă folosită la aprinderea focului și materiale textile poroase.',
+      confusion: 'Iasca de brad (Fomitopsis pinicola) crește mai frecvent pe conifere, are o dungă marginală galben-roșiatică strălucitoare și emană o rășină lipicioasă la căldură. Iasca dură (Phellinus igniarius) are pori mai mici și carne extrem de dură ca fierul.'
+    },
+    bg: {
+      description: 'Многогодишна дърворазрушаваща паразитна и сапротрофна гъба, причиняваща бяло гниене по широколистни дървета (особено бук и бреза). Среща се в Европа, Азия и Северна Америка.',
+      cap: 'Плодното тяло е коритовидно или с форма на конско копито, твърдо и дървенисто, с ширина 10–40 cm и дебелина до 20 cm. Горната повърхност е с концентрични бразди и твърда кора, пепелявосива до тъмносива или черно-кафява.',
+      hymenium: 'Хименофорът се състои от многослойни тръбички, с малки закръглени пори (3–4 на милиметър), белезникаво-сиви до канеленокафяви.',
+      stipe: 'Пънче напълно липсва; плодното тяло е широко прираснало към дървесината.',
+      flesh: 'Тъканта (трама) е кафява, плътна, корковидна до кадифена, твърда.',
+      sporePrint: 'Светложълт до бял. Спорите са цилиндрични, гладки, около 15–20 × 5–7 μm.',
+      habitat: 'Плодното тяло расте целогодишно по живи и повалени стволове на бук, бреза, топола и други широколистни видове.',
+      uses: 'Неядлива дървесна гъба. В миналото вътрешната ѝ мека тъкан се е обработвало за получаване на лесно запалим прахан за палене на огън.',
+      confusion: 'Лъжливата праханка (Phellinus igniarius) расте предимно по върба и има много по-твърда, почти камениста ръждивокафява вътрешност.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/kav-mantari-fomes-fomentarius/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Kav_mantar%C4%B1"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -25712,6 +28993,30 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Fn%C3%B6skticka'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Fomes_fomentarius'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/fomes-fomentarius'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D1%85%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0_%D0%B3%D1%8A%D0%B1%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -25803,6 +29108,7 @@ export const CATALOG = [
     fruitingFrom: 1,
     fruitingTo: 12,
     label: {
+      tr: "ağaç kulak mantarı",
       sl: "bezgova uhljevka",
       hr: "judino uho",
       sr: "јудино уво",
@@ -25819,7 +29125,9 @@ export const CATALOG = [
       pt: 'orelha-de-Judas',
       da: 'almindelig judasøre',
       no: 'judasøre',
-      sv: 'judasöra'
+      sv: 'judasöra',
+      ro: 'urechea lui Iuda',
+      bg: 'Юдино ухо'
     },
     names: {
       en: ["Judas's ear", "Jew's ear", "wood ear", "ear fungus", "common ear fungus"],
@@ -25827,9 +29135,22 @@ export const CATALOG = [
     ,
       cs: ["ucho jidášovo","boltcovitka bezová"],
       es: ['hongo de saúco'],
-      nl: ['Judasoor']
+      nl: ['Judasoor'],
+      ro: ['burete de soc']
     },
     text: {
+      tr: {
+          "description": "Ölü ve çürümekte olan geniş yapraklı ağaç dallarında beyaz çürüklüğe neden olan saprofit bir jelatinimsi mantardır. Avrupa genelinde özellikle mürver (Sambucus) ağaçlarında yaygındır. DNA dizileme çalışmaları bu türün dar anlamda Avrupa'ya özgü olduğunu göstermiştir.",
+          "cap": "Meyve gövdesi 3–10 cm genişliğinde olup insan kulağı, fincan veya dalgalı loblar biçimindedir. Rengi kırmızımsı kahverengi, kestane kahvesi veya morumsu kahverengidir; nemliyken jelatinimsi, yarı saydam ve elastiktir, kuruduğunda ise sert, boynuzsu ve siyahımsı bir hal alır. Üst yüzeyi çok ince kadifemsi tüylerle kaplıdır.",
+          "hymenium": "Himenyum meyve gövdesinin iç ve alt yüzeyini kaplar; pürüzsüz veya damarlı-kırışık olup şapkayla aynı renktedir.",
+          "stipe": "Belirgin bir sapı yoktur; doğrudan dala çok dar bir tabanla tutunur.",
+          "flesh": "Etli kısım ince, jelatinimsi ve kıkırdaksıdır. Belirgin bir kokusu veya tadı yoktur.",
+          "habitat": "Yıl boyunca, özellikle sonbahar ve kış aylarında yağışlı dönemlerde görülür. Yaşlı mürver dallarında, bazen de dişbudak, kayın ve ceviz üzerinde kümeler halinde yetişir.",
+          "sporePrint": "Beyaz. Sporlar sosis biçiminde (allantoid), pürüzsüz ve yaklaşık 15–22 × 5–7 μm boyutlarındadır.",
+          "uses": "Seçkin yemeklik bir mantardır. Asya mutfağında çok popülerdir; kıkırdaksı ve çıtır dokusu nedeniyle çorbalara, salatalara ve sotelere eklenir. Kurutulduğunda tamamen büzüşür ve suya konulduğunda tekrar orijinal formuna döner.",
+          "confusion": "Yapraksı titrek mantar (Tremella foliacea) daha kıvrımlı yaprak şeklindedir. Kömürsü ağaç jölesi (Exidia glandulosa) parlak siyah renklidir.",
+          "notes": "19. yüzyılda halk hekimliğinde boğaz ağrıları, göz iltihapları ve sarılık tedavisinde kullanılmıştır."
+    },
       sl: {
           "description": "Želatinasta lesna saprotrofna goba značilne uhljevite oblike. Široko je razširjena po zmernih območjih sveta.",
           "cap": "Trosnjak meri 3–10 cm v premeru, je tanek, skledaste do izrazito uhljevite oblike, z nagubano površino. Barva je rdečkastorjava, vijoličasto rjava do temno rjava, v suhem stanju se skrči in postane trda ter skoraj črna, po dežju pa spet nabrekne.",
@@ -26031,9 +29352,43 @@ export const CATALOG = [
       uses: 'En ätlig matsvamp som är mycket populär i det asiatiska köket för sin krispiga och broskiga konsistens, särskilt i soppor och wokrätter. Den torkas lätt och återfår snabbt sin form vid blötläggning.',
       confusion: 'Auricularia mesenterica växer i tjockare, konsollika skikt; dess ovansida är zonerad och mer grovfiltad, och hymeniet är ofta mörkare eller purpurtonat. Auricularia cerrina är mörkare grå till nästan svart med gråare till vitaktiga hår, en märgstrimma genom köttet och mindre sporer. Auricularia cornea är hårigare och mer läderartad med mindre sporer. Auricularia heimuer är mycket snarlik i Östasien med kortare basidier och sporer på cirka 11–13 × 4–5 μm. Auricularia angiospermarum växer på nordamerikansk lövved med kortare basidier och sporer på cirka 13–15 × 4,8–5,5 μm. Auricularia americana växer på nordamerikanska barrträd och har kortare sporer (cirka 14–16,5 × 4,5–5,4 μm). Pilkrös (Exidia recisa) växer på tunna kvistar, är mer genomskinlig, blir inte snäckformad och har en fårad kant. Svartkrös (Exidia glandulosa) är mörkare med knottrig och vårtig steril yta. Brun krös (Phaeotremella frondosa) och bladig krös (Tremella foliacea) bildar gyttrade, hjärnlika veck, aldrig ett distinkt öra, och har helt slät yta. Poppelskål (Schizophyllum amplum) är mindre, vitaktig och filtad på utsidan. Brun skålsvamp (Peziza badia) är skålformad med kort fot och ogenomskinligt kött.',
       notes: 'Svampen kan torka ut helt och därefter återupplivas vid regn och fortsätta avge sporer. Den har historiskt använts inom folkmedicinen vid halsont och ögonbesvär.'
+    },
+    ro: {
+      description: 'Ciupercă saprotrofă și slab parazită ce crește pe lemnul arborilor de foioase, aproape exclusiv pe soc negru (Sambucus nigra). Comună pe tot globul în zonele temperate.',
+      cap: 'Corpul fructifer are 3–12 cm lățime, fiind elastic, gelatinos și având forma caracteristică a unei urechi umane sau a unei cupe neregulate. Suprafața exterioară este fin catifelată, de culoare brun-roșiatică până la brun-măslinie.',
+      hymenium: 'Suprafața fertilă interioară este netedă sau brăzdată de pliuri sinuoase ca niște vene, lucioasă, brun-roșiatică sau purpurie-închis.',
+      stipe: 'Piciorul lipsește sau este foarte scurt, corpul fructifer fixându-se lateral direct pe ramură.',
+      flesh: 'Carnea este subțire, gelatinoasă, elastică și flexibilă la umezeală, devenind cornoasă, tare și neagră la uscăciune, dar rehidratându-se rapid la contactul cu apa.',
+      sporePrint: 'Alb. Sporii sunt alantoizi (în formă de cârnăcior), netezi, de circa 16–18 × 6–8 μm.',
+      habitat: 'Apare pe tot parcursul anului pe ramuri uscate sau bătrâne de soc (Sambucus nigra), mai rar pe alți arbori de foioase.',
+      uses: 'Este o specie comestibilă bună (comestibil). Este folosită pe scară largă în bucătăria asiatică pentru textura sa cartilaginoasă și crocantă în supe și salate.',
+      confusion: 'Urechiușa vălurită (Auricularia mesenterica) crește în console etajate mai groase, cu fața superioară cenușie, puternic pâsloasă și zonată. Urechiușa neagră (Exidia glandulosa) este neagră, complet gelatinoasă și lipsită de forma de ureche.'
+    },
+    bg: {
+      description: 'Желатинозна дървесна сапротрофна гъба. Широко разпространена по света, развиваща се най-често по мъртва дървесина от черен бъз (Sambucus nigra).',
+      cap: 'Плодното тяло е с форма на човешко ухо или раковина, тънко, с ширина 3–10 cm. Повърхността е вълнообразна, червеникавокафява до тъмнолилаво-кафява, фино кадифена отвън и гладка с жилки отвътре.',
+      hymenium: 'Спороносният слой заема вътрешната гладка повърхност на плодното тяло.',
+      stipe: 'Пънчето е много късо и странично закрепено, или липсва.',
+      flesh: 'Месото е еластично, желатинозно, хрущялно, в сухо време изсъхващо до твърдо и роговично, а при овлажняване бързо възстановяващо обема си.',
+      sporePrint: 'Бял. Спорите са наденицовидни до бобовидни, гладки, 14–18 × 5–7 μm.',
+      habitat: 'Плодните тела се срещат целогодишно, най-често в хладните и влажни есенно-зимни месеци върху мъртви клони от бъз, бук и ясен.',
+      uses: 'Добра ядлива гъба с хрупкава хрущялна текстура, популярна съставка в азиатската кухня (известна като «черна дървесна гъба» или «му ер»).',
+      confusion: 'Auricularia mesenterica има по-дебела конзолна форма и силно окосмена зонирана горна повърхност.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/yahuda-kulagi-auricularia-auricula-judae/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Mantar"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -26310,6 +29665,35 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Judas%C3%B6ra'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Auricularia_auricula-judae'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/auricularia-auricula-judae'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%AE%D0%B4%D0%B8%D0%BD%D0%BE_%D1%83%D1%85%D0%BE'
+        }
       ]
     },
     synonyms: [
@@ -26411,6 +29795,7 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 11,
     label: {
+      tr: "pestifal mantarı",
       sl: "žolčasti grenivec",
       hr: "žučni vrganj",
       sr: "жучара",
@@ -26427,7 +29812,9 @@ export const CATALOG = [
       nl: 'Bittere boleet',
       da: 'galderørhat',
       no: 'gallerørsopp',
-      sv: 'gallsopp'
+      sv: 'gallsopp',
+      ro: 'hrib amar',
+      bg: 'жлъчна гъба'
     },
     names: {
       en: ["bitter tylopilus"],
@@ -26435,9 +29822,22 @@ export const CATALOG = [
     ,
       cs: ["žlučák","hořčák"],
       es: ['falso boleto'],
-      nl: ['Galboleet']
+      nl: ['Galboleet'],
+      ro: ['fierea pădurii']
     },
     text: {
+      tr: {
+          "description": "Ektomikorizal bir mantardır. Avrupa'da iğne yapraklı ve karışık ormanlarda, özellikle çam, ladin, kayın ve meşe altında asidik zeminlerde yaygın olarak yetişir; cinsin Avrupa'daki tek temsilcisidir.",
+          "cap": "Şapka 5–15 cm genişliğinde olup başlangıçta yarım küre biçimlidir, daha sonra dışbükeyleşir ve düzleşir. Açık kahverengi, kestane sarısı veya taba rengidir; yüzeyi kuru, mat ve başlangıçta ince kadifemsidir.",
+          "hymenium": "Borucuklar ve gözenekler başlangıçta beyazdır; sporlar olgunlaştıkça karakteristik olarak kirli pembeye veya et rengine döner. Ezildiğinde veya dokunulduğunda kahverengimsi lekelenir.",
+          "stipe": "Sap 6–14 cm uzunluğunda ve 2–5 cm kalınlığında, sarımsı kahverengi veya devetüyü zemin üzerinde belirgin, kalın, koyu kahverengi veya siyahımsı kabartılı bir ağ deseni taşır; tabana doğru şişkindir.",
+          "flesh": "Etli kısım beyaz, kalın ve yumuşaktır; kesildiğinde genellikle renk değiştirmez veya hafif pembemsi bir ton alabilir. Dayanılmaz derecede acı bir safra tadına sahiptir.",
+          "habitat": "Meyve gövdeleri temmuz ayından ekim sonuna kadar görülür. Asidik topraklarda, çam ve ladin ormanlarında, bazen çürümüş kütükler üzerinde tek tek veya küçük gruplar halinde yetişir.",
+          "sporePrint": "Pembe veya şarabi kahverengi. Sporlar mekiksi ile silindirik, pürüzsüz ve yaklaşık 11–15 × 4–5 μm boyutlarındadır.",
+          "uses": "Yenmez. Zehirli değildir ancak aşırı acı tadı nedeniyle tüketilemez; tek bir örneği dahi içine girdiği tüm bir tencere yemeği yenmeyecek derecede acılaştırır. Pişirme veya kurutma acılığını gidermez.",
+          "confusion": "Çörek mantarı (Boletus edulis) soluk renkli bir ağ desenine, sarı-yeşil olgun gözeneklere ve tatlı, fındıksı bir tada sahiptir.",
+          "notes": "2025 yılındaki bir değerlendirmede Asgari Endişe (Least Concern) kategorisinde listelenmiştir."
+    },
       sl: {
           "description": "Ektomikorizna goba iglastih in mešanih gozdov. Pogosta je v Evropi in Severni Ameriki na kislih tleh.",
           "cap": "Klobuk meri 5–15 cm v premeru, sprva je polkrožen, nato blazinast. Je rjave, sivorjave do rumenkastorjave barve, z gladko, suho površino.",
@@ -26639,9 +30039,43 @@ export const CATALOG = [
       uses: 'Oätlig på grund av sin genomträngande bittra gallsak. En enda liten bit gallsopp kan förstöra en hel svampstuvning. Den är inte giftig men helt oaptitlig.',
       confusion: 'Stensopp (Boletus edulis) skiljer sig genom ett vitt eller ljust ådernät upptill på foten, rör och porer som mognar till gröngult (aldrig rosa) och en behaglig mild nötsmak.',
       notes: 'En bedömning från 2025 klassar arten som livskraftig (Least Concern). Den är den enda arten i släktet Tylopilus i Europa.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică comună din pădurile de conifere și foioase pe soluri acide. Răspândită în Europa și estul Americii de Nord.',
+      cap: 'Pălăria are 4–15 cm lățime, semisferică la început și apoi convexă. Cuticula este uscată, mată, fin catifelată în tinerețe, de culoare brun-deschisă, ocru-gălbuie până la cafeniu.',
+      hymenium: 'Tuburile au 1,5–2 cm adâncime, inițial albe, devenind roz-murdare la maturitate. Porii sunt mici, unghiulari, inițial albi, devenind roz-liliachii și pătându-se în brun la presare.',
+      stipe: 'Piciorul are 5–15 cm lungime și 1,5–4 cm grosime, robust, îngroșat la bază, de culoare galben-maronie, acoperit de o rețea proeminentă cu ochiuri mari, de culoare brun-închisă.',
+      flesh: 'Carnea este albă și groasă, căpătând o nuanță foarte slabă rozacee la tăiere. Mirosul este slab, dar gustul este extrem de amar și persistent.',
+      sporePrint: 'Roz-brun sau roz-somon. Sporii sunt fusiformi, netezi, de 11–15 × 4–5 μm.',
+      habitat: 'Corpurile fructifere apar din iunie până în noiembrie pe soluri nisipoase și acide sub molizi, pini, fagi și mesteceni, adesea lângă buturugi putrede.',
+      uses: 'Ciuperca este necomestibilă (necomestibil) din cauza amărăciunii sale extreme. O singură bucățică de hrib amar adăugată accidental într-o mâncare de hribi compromite complet preparatul.',
+      confusion: 'Hribul (Boletus edulis) are o rețea fină albă pe picior, tuburi și pori care devin galbeni-verzui (niciodată rozalii), un gust dulceag și o amprentă sporală măslinie.'
+    },
+    bg: {
+      description: 'Ектомикоризна гъба. Често срещана в иглолистните и смесените гори на Европа и Северна Америка върху кисели почви.',
+      cap: 'Гуглата е с диаметър 5–15 cm, светлокафява, сиво-жълтеникава до охрена, отначало полукълбовидна, по-късно изпъкнала до плоска. Повърхността е суха и гладка.',
+      hymenium: 'Тръбичките са бели в младост, но бързо стават мръснорозови с узряването на спорите. Порите са малки, бели до розови, при натиск покафеняващи.',
+      stipe: 'Пънчето е бухалковидно до цилиндрично, жълто-кафеникаво, високо 7–15 cm и дебело 2–4 cm, покрито с едра, релефна тъмнокафява мрежичка.',
+      flesh: 'Месото е бяло, дебело, меко, при разрез не променя цвета си или съвсем слабо порозовява. Вкусът е изключително горчив.',
+      sporePrint: 'Розов до бледокафяво-розов. Спорите са вретеновидни, гладки, около 11–15 × 4–5 μm.',
+      habitat: 'Плодните тела се срещат от юли до октомври под смърч, бор и бук, често в основата на стари пънове.',
+      uses: 'Неядлива гъба поради непоносимо горчивия си вкус, който не изчезва при готвене и разваля цялото ястие.',
+      confusion: 'Обикновената манатарка (Boletus edulis) има светла мрежичка по пънчето, бели до жълтозелени пори (никога розови) и приятен сладникав вкус.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/pestifal-mantari-tylopilus-felleus/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Mantar"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -26899,6 +30333,30 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Gallsopp'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Tylopilus_felleus'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/tylopilus-felleus'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%96%D0%BB%D1%8A%D1%87%D0%BD%D0%B0_%D0%B3%D1%8A%D0%B1%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -26986,6 +30444,7 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 11,
     label: {
+      tr: "kızaran şemsiye mantarı",
       sl: "rdečeča zelenolistka",
       hr: "kuštrava sunčanica",
       sr: "сунчаница са љуштуром",
@@ -27002,10 +30461,24 @@ export const CATALOG = [
       nl: 'Gewone knolparasolzwam',
       da: 'ægte rabarberhat',
       no: 'rødnende parasollsopp',
-      sv: 'rodnande fjällskivling'
+      sv: 'rodnande fjällskivling',
+      ro: 'burete șerpesc șofrăniu',
+      bg: 'лъжлива сърнела'
     },
     names: { es: ['apagador menor'] },
     text: {
+      tr: {
+          "description": "Zengin humuslu topraklarda ve iğne yaprak döküntülerinde yaşayan saprofit bir mantardır. Avrupa ve Kuzey Amerika'da iğne yapraklı ormanlarda, bahçelerde ve parklarda yaygındır.",
+          "cap": "Şapka 8–18 cm genişliğinde olup başlangıçta küre biçimlidir, zamanla çan şeklini alır ve dışbükeyleşerek düzleşir. Gri-kahverengi veya devetüyü zemin üzerinde kaba, kalın, geriye kıvrık koyu kahverengi pullarla kaplıdır; şapka merkezi düz ve koyu kahverengidir.",
+          "hymenium": "Lameller serbest, sık, başlangıçta beyaz veya krem rengidir; zedelendiğinde veya yaşlandıkça kırmızımsı-turuncuya ve kahverengiye lekelenir.",
+          "stipe": "Sap 10–20 cm uzunluğunda ve 1–2 cm kalınlığında, silindirik, tabanda soğan gibi şişkindir; pürüzsüz, desensiz ve kirli beyazdır; yılan derisi deseni taşımaz. Üst kısımda serbestçe kayabilen kalın, çift katlı, beyaz ve saçaklı bir halka bulunur.",
+          "flesh": "Etli kısım beyaz ve kalındır; kesildiği veya berelendiği anda hızla parlak safran turuncusuna, ardından kırmızımsı kahverengine döner. Hoş, fındıksı bir kokusu vardır.",
+          "habitat": "Meyve gövdeleri yaz sonundan sonbahar sonuna kadar görülür. Ladin ve çam ormanlarında karınca yuvaları yakınında, parklarda ve kompost yığınlarında yetişir.",
+          "sporePrint": "Beyaz veya açık krem. Sporlar elipsoid, pürüzsüz, dekstrinoid ve yaklaşık 9–12 × 6–7 μm boyutlarındadır.",
+          "uses": "Seçkin yemeklik bir mantardır. Meyve gövdeleri mutlaka pişirilmelidir; çiğ tüketilmesi sindirim bozukluğuna yol açabilir. Bazı bireylerde hafif alerjik reaksiyonlara neden olabileceğinden ilk kez tüketilirken dikkatli olunmalıdır.",
+          "confusion": "Büyük şemsiye mantarı (Macrolepiota procera) daha büyüktür, sapında yılan derisi deseni taşır ve eti kesildiğinde kızarmaz. Zehirli Chlorophyllum brunneum belirgin basık kenarlı taban soğanına sahiptir.",
+          "notes": "Meyve gövdeleri kademeli bir taban soğanına ve çift katlı bir halkaya sahiptir."
+    },
       sl: {
           "description": "Saprotrofna goba iglastih in mešanih gozdov z luskastim klobukom in pordečelostjo mesa ob poškodbah. Razširjena je v Evropi in Severni Ameriki.",
           "cap": "Klobuk meri 8–18 cm v premeru, sprva je kroglast do zvonast, kasneje zravnan. Površina se raztrga v velike, grobe, koncentrične sive do rjavkaste luske na beli vlaknati podlagi.",
@@ -27206,9 +30679,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar påträffas från juli till november i myrstackar, på komposter, i barrförna under gran samt i parker och trädgårdar.',
       uses: 'En god matsvamp efter tillagning, men kan ge magbesvär hos enstaka känsliga personer. Den ska inte ätas rå.',
       confusion: 'Stolt fjällskivling (Macrolepiota procera) har vattrad fot med ormskinnsmönster och kött som inte rodnar. Den giftiga grönsporig fjällskivling (Chlorophyllum molybdites) har grönt sporpulver.'
+    },
+    ro: {
+      description: 'Ciupercă saprotrofă mare din păduri, grădini și parcuri pe soluri bogate în humus. Este larg răspândită în Europa și America de Nord.',
+      cap: 'Pălăria are 5–18 cm lățime, inițial sferică sau ovoidală, apoi convexă spre plată. Cuticula se rupe în solzi mari, groși, brun-cenușii, imbricați pe un fond fibros albicios.',
+      hymenium: 'Lamelele sunt libere, dese și late, albe la început, pătându-se în roșiatic la atingere.',
+      stipe: 'Piciorul are 6–20 cm lungime și 1–3 cm grosime, cilindric, cu o bază puternic bulboasă. Spre deosebire de Macrolepiota procera, piciorul este neted, albicios și complet lipsit de model șerpuit. Poartă un inel dublu, gros, mobil pe picior.',
+      flesh: 'Carnea este albă și groasă, virând rapid la rupere sau tăiere într-un portocaliu-șofraniu intens și apoi în brun-roșiatic. Mirosul și gustul sunt plăcute, aromate.',
+      sporePrint: 'Alb până la crem-palid. Sporii sunt elipsoidali, netezi, de circa 9–12 × 6–7 μm.',
+      habitat: 'Corpurile fructifere apar din iulie până în noiembrie în păduri de conifere și foioase, parcuri, grămezi de compost și tufișuri.',
+      uses: 'Este o specie comestibilă foarte bună (comestibil) odată gătită bine. La unele persoane sensibile poate cauza reacții gastrointestinale alergice minore.',
+      confusion: 'Parasolul (Macrolepiota procera) este mai înalt și mai zvelt, are piciorul marcat de benzi șerpuite brunii și carnea nu se colorează în portocaliu la tăiere. Chlorophyllum brunneum are un bulb marginal tăiat abrupt la baza piciorului.'
+    },
+    bg: {
+      description: 'Сапротрофна гъба, израстваща в иглолистни гори, паркове и градини. Широко разпространена в умерените пояси на Северното полукълбо.',
+      cap: 'Гуглата е с диаметър 8–18 cm, кълбовидна в младост, след това изпъкнала до плоска. Кожицата се напуква на едри концентрични сивокафяви люспи върху светъл фон.',
+      hymenium: 'Ламелите са бели до кремави, свободни, гъсти, при нараняване придобиващи оранжево-червеникав оттенък.',
+      stipe: 'Пънчето е високо 10–20 cm и дебело 1–2 cm, гладко, белезникаво, без кафяви люспести ивици (за разлика от същинската сърнела), с луковица в основата и подвижен пръстен.',
+      flesh: 'Месото е бяло и плътно, като при разрез или нараняване бързо се оцветява в оранжево, а след това в ръждивочервено или кафеникаво.',
+      sporePrint: 'Бял. Спорите са елипсовидни, гладки, декстриноидни, 9–12 × 6–7 μm.',
+      habitat: 'Плодните тела се появяват от юли до ноември на богати на хумус места под смърч, в паркове и компостни купчини.',
+      uses: 'Добра ядлива гъба след топлинна обработка, но при някои хора може да предизвика индивидуална стомашна непоносимост.',
+      confusion: 'Същинската сърнела (Macrolepiota procera) има шарка от кафяви люспи по пънчето и месото ѝ не променя цвета си при нараняване. Отровната Chlorophyllum brunneum има рязко ограничена луковица и може да причини стомашно разстройство.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/kizaran-semsiye-chlorophyllum-rhacodes/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Mantar"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -27451,6 +30958,35 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Rodnande_fj%C3%A4llskivling'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Macrolepiota_rhacodes'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/chlorophyllum-rhacodes'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%9B%D1%8A%D0%B6%D0%BB%D0%B8%D0%B2%D0%B0_%D1%81%D1%8A%D1%80%D0%BD%D0%B5%D0%BB%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -27537,6 +31073,7 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 11,
     label: {
+      tr: "ağulu kirmit mantarı",
       sl: "bljuvna golobica",
       hr: "paprena krasnica",
       sr: "шумска бљувара",
@@ -27553,16 +31090,31 @@ export const CATALOG = [
       nl: 'Grootsporige braakrussula',
       da: 'stor gift-skørhat',
       no: 'rødkremle',
-      sv: 'giftkremla'
+      sv: 'giftkremla',
+      ro: 'vinețica focului',
+      bg: 'бясна гъба'
     },
     names: {
       en: ["emetic russula", "vomiting russula"]
     ,
       cs: [],
       nl: ['Braakrussula'],
-      no: ['giftkremle']
+      no: ['giftkremle'],
+      ro: ['scuipatul dracului']
     },
     text: {
+      tr: {
+          "description": "İğne yapraklı ağaçlarla ektomikorizal ortaklık kuran zehirli bir mantardır. Kuzey Yarımküre genelinde çam ve ladin ormanlarında, özellikle turbalık ve yosunlu nemli alanlarda yaygındır.",
+          "cap": "Şapka 4–10 cm genişliğinde olup başlangıçta dışbükeydir, zamanla düzleşir ve ortası hafifçe çökükleşir. Parlak kırmızı, al veya kiraz kırmızısıdır; nemli havalarda yapışkan ve parlaktır. Kütikula şapkanın neredeyse tamamından kolayca soyulabilir; kenarları olgunlukta ince çizgilidir.",
+          "hymenium": "Lameller saf beyazdır, orta sıklıktadır ve sapa serbest veya hafifçe yapışıktır; kırılgan ve gevrektir.",
+          "stipe": "Sap 4–8 cm uzunluğunda ve 1–2 cm kalınlığında, saf beyaz, silindirik, kırılgan ve süngerimsidir; boyuna ince çizgili olabilir.",
+          "flesh": "Etli kısım beyazdır, şapka kütikulasının altında pembe-kırmızı bir renk taşıyabilir; kırılgan ve tebeşir gibi ufalanır. Meyvemsi bir kokusu ve dilde hemen hissedilen yakıcı, son derece acı ve biberli bir tadı vardır.",
+          "habitat": "Meyve gövdeleri yaz ortasından sonbahar sonuna kadar görülür. Çam ve ladin ormanlarında sphagnum yosunları arasında ve bataklık kenarlarında tek tek veya küçük gruplar halinde yetişir.",
+          "sporePrint": "Saf beyaz. Sporlar geniş elipsoid ile küremsi, belirgin dikenli ve amiloid ağ desenli olup yaklaşık 8–10,5 × 6,5–8 μm boyutlarındadır.",
+          "uses": "Zehirlidir. İçerdiği seskiterpen bileşikleri nedeniyle tüketildiğinde şiddetli mide bulantısı, kusma, karın krampları ve ishale yol açar.",
+          "confusion": "Yenilebilir bataklık kirmiti (Russula paludosa) elma kırmızısıdır ancak tadı tamamen tatlıdır. Kayın kirmiti (Russula nobilis) kayın altında yetişir ve kütikulası soyulmaz.",
+          "notes": "2025 yılındaki bir değerlendirmede Asgari Endişe (Least Concern) kategorisinde listelenmiştir."
+    },
       sl: {
           "description": "Ektomikorizna goba iglastih gozdov z živo rdečim klobukom in pekočim okusom. Razširjena je na severni polobli v vlažnih predelih.",
           "cap": "Klobuk meri 4–10 cm v premeru, sprva je polkrožen, nato zravnan in v osredju rahlo udrt. Je živo škrlatno rdeče do krvavordeče barve, v vlažnem vremenu lepljiv in svetleč, kožica se zlahka olupi skoraj do osredja.",
@@ -27764,9 +31316,43 @@ export const CATALOG = [
       uses: 'Giftig. Svampen innehåller magtarmretande ämnen som orsakar häftiga kräkningar, magsmärtor och diarré. Dess brännande skarpa smak gör den dessutom oätlig.',
       confusion: 'Andra röda kremlor, såsom den ätliga sillkremlan (Russula xerampelina) som luktar skaldjur och har mild smak, eller tegelkremlan (Russula decolorans) som grånar i köttet.',
       notes: 'En bedömning från 2025 klassar arten som livskraftig (Least Concern). Den bildar ektomykorrhiza med tallväxter över hela norra halvklotet.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică otrăvitoare din pădurile de conifere pe soluri umede și turbării. Este comună în Europa, Asia și America de Nord.',
+      cap: 'Pălăria are 3–10 cm lățime, convexă la început și apoi aplatizată cu centrul ușor adâncit. Cuticula este netedă, lucioasă, ușor lipicioasă la umezeală, de un roșu aprins de foc, roșu-stacojiu sau cireșiu. Cuticula se decojește ușor aproape până în centrul pălăriei.',
+      hymenium: 'Lamelele sunt libere sau slab adnate, fragile, casante ca creta, de un alb pur permanent.',
+      stipe: 'Piciorul are 4–8 cm lungime și 1–2 cm grosime, cilindric, alb, fragil și casant, lipsit de inel sau volvă.',
+      flesh: 'Carnea este albă, casantă, roșiatică chiar sub cuticula pălăriei. Mirosul este fructat și plăcut, dar gustul este extrem de iute și arzător.',
+      sporePrint: 'Alb. Sporii sunt rotunzi până la ovali, spinoși, amiloizi, de circa 8–10 × 7–8 μm.',
+      habitat: 'Corpurile fructifere apar din august până în noiembrie în păduri umede de molid și pin, în turbării și printre perne de mușchi Sphagnum.',
+      uses: 'Ciuperca este otrăvitoare (otrăvitor). Provoacă sindrom gastrointestinal acut cu greață puternică și vărsături la scurt timp după ingerare.',
+      confusion: 'Alte vinețele roșii dulci, precum Russula paludosa sau Russula vesca, au carnea dulceagă de nucă și nu sunt iuți. Buretele muștelor (Amanita muscaria) are inel, volvă și solzi albi pe pălărie.'
+    },
+    bg: {
+      description: 'Отровна ектомикоризна гъба. Расте във влажни иглолистни гори и торфища в Северното полукълбо.',
+      cap: 'Гуглата е с диаметър 4–10 cm, ярко кървавочервена до вишневочервена, блестяща и лепкава при влажно време. Кожицата се обелва лесно до центъра.',
+      hymenium: 'Ламелите са чисто бели, умерено гъсти, много крехки и чупливи.',
+      stipe: 'Пънчето е цилиндрично, чисто бяло, чупливо, високо 4–8 cm и дебело 1–2 cm.',
+      flesh: 'Месото е бяло, крехко, със слаб плодов мирис и силно парещ, изключително лютив вкус.',
+      sporePrint: 'Чисто бял. Спорите са широко елипсовидни, с шипчест релеф, амилоидни, около 8–10 × 7–8 μm.',
+      habitat: 'Плодните тела се срещат от юли до октомври предимно сред торфен мъх (Sphagnum) под бор и смърч.',
+      uses: 'Отровна гъба. Силно лютивият ѝ вкус и токсините предизвикват остро стомашно разстройство с гадене и повръщане.',
+      confusion: 'Ядливата кафявовиолетова гълъбка (Russula vesca) има приятен орехов вкус и необелваща се докрай кожица. Червената мухоморка (Amanita muscaria) има бяло пръстенче и волва.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/agulu-kirmit-russula-emetica/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Russula_silvicola"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -28011,6 +31597,30 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Giftkremla'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Russula_emetica'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/russula-emetica'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%91%D1%8F%D1%81%D0%BD%D0%B0_%D0%B3%D1%8A%D0%B1%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -28105,6 +31715,7 @@ export const CATALOG = [
     fruitingFrom: 7,
     fruitingTo: 12,
     label: {
+      tr: "sarıkarakız mantarı",
       sl: "zelenkasta kolobarnica",
       hr: "zelenkasta vitezovka",
       sr: "зеленка",
@@ -28122,7 +31733,9 @@ export const CATALOG = [
       pt: 'míscaro',
       da: 'ægte ridderhat',
       no: 'riddermusserong',
-      sv: 'riddarmusseron'
+      sv: 'riddarmusseron',
+      ro: 'buretele călărețului',
+      bg: 'жълтозелена бархетна гъба'
     },
     names: {
       en: ["man on horseback", "saddle-shaped tricholoma"],
@@ -28131,9 +31744,23 @@ export const CATALOG = [
       cs: ["zelánka"],
       es: ['seta caballera', 'verderol'],
       pt: ['míscaro-amarelo'],
-      sv: ['stor riddarmusseron', 'tallmusseron']
+      sv: ['stor riddarmusseron', 'tallmusseron'],
+      ro: ['galbenuș'],
+      bg: ['жълтушка']
     },
     text: {
+      tr: {
+          "description": "Çam ağaçlarıyla ektomikorizal ortaklık kuran zehirli bir mantardır. Avrupa, Asya ve Kuzey Amerika'da kumlu topraklarda çam ormanlarında yaygındır.",
+          "cap": "Şapka 5–12 cm genişliğinde olup başlangıçta dışbükeydir, daha sonra düzleşir ve merkezinde silik bir tümsek barındırır. Canlı kükürt sarısı, sarımsı yeşil veya zeytin sarısıdır; merkezde ince kahverengimsi pullar taşır. Nemli havalarda yapışkandır ve üzerine genellikle kum taneleri yapışır.",
+          "hymenium": "Lameller parlak kükürt sarısı renktedir, kabadır, orta sıklıktadır ve sapa çentiklidir.",
+          "stipe": "Sap 4–10 cm uzunluğunda ve 1–2,5 cm kalınlığında, sarı veya soluk sarımsı, silindirik ve serttir; tabana doğru hafifçe kalınlaşabilir.",
+          "flesh": "Etli kısım beyazımsı veya açık sarıdır; kütikulanın altında daha sarıdır. Unsu hoş bir kokusu ve tatlımsı bir tadı vardır.",
+          "habitat": "Meyve gövdeleri sonbaharda, özellikle eylül ayından kasım sonuna kadar görülür. Kumlu zeminli çam ormanlarında tek tek veya gruplar halinde yetişir.",
+          "sporePrint": "Beyaz. Sporlar elipsoid, pürüzsüz ve yaklaşık 6–8 × 4–5 μm boyutlarındadır.",
+          "uses": "Zehirlidir. Uzun yıllar popüler bir yemeklik mantar olarak tüketilmesine rağmen, peş peşe yapılan aşırı tüketimlerin ölümcül rabdomiyolize (iskelet kası yıkımı) yol açtığı kanıtlanmıştır; kas erimesi, akut böbrek ve kalp yetmezliğine neden olabilir.",
+          "confusion": "Zehirli kükürt karakız mantarı (Tricholoma sulphureum) gaz/havagazı kokar ve seyrektir. Örümcek mantarları (Cortinarius spp.) pas kahverengisi spor izine ve kortinaya sahiptir.",
+          "notes": "Almanya'da toplanması yasal olarak koruma altındadır. 2016 yılındaki bir değerlendirmede popülasyonu güvende olarak nitelendirilmiştir."
+    },
       sl: {
           "description": "Ektomikorizna goba peščenih borovih gozdov. Razširjena je v Evropi in Severni Ameriki. Nekdaj je veljala za cenjeno užitno gobo, danes pa velja za nevarno strupeno.",
           "cap": "Klobuk meri 5–12 cm v premeru, sprva je stožčasto izbočen, nato zravnan z valovitim robom. Je žvepleno rumene do zelenkasto rumene barve z rjavkastim osredjem in drobnimi rjavkastimi luskicami.",
@@ -28334,9 +31961,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar växer från september till november i glesa tallhedar på mager, sandig mark bland mossa och renlavar.',
       uses: 'Tidigare ansedd som en god matsvamp, men betraktas numera som giftig eller olämplig. Upprepat intag i stora mängder har orsakat fall av rabdomyolys (nedbrytning av muskelvävnad) med dödlig utgång.',
       confusion: 'Svavelmusseron (Tricholoma sulphureum) skiljer sig genom en genomträngande obehaglig lukt av lysgas och gult kött i hela fruktkroppen.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică robustă din pădurile de pin pe soluri nisipoase. Este răspândită în Europa, Asia și America de Nord.',
+      cap: 'Pălăria are 4–12 cm lățime, cărnoasă, convexă la început și apoi aplatizată cu un mamelon central obtuz. Cuticula este lipicioasă la umezeală, galben-verzuie, galben-aurie sau măslinie, presărată în centru cu solzișori fini bruni.',
+      hymenium: 'Lamelele sunt dese, dințate la picior, de o culoare galben-sulfurie strălucitoare caracteristică.',
+      stipe: 'Piciorul are 3–8 cm lungime și 1–2,5 cm grosime, robust, cilindric sau îngroșat la bază, de aceeași culoare galbenă ca lamelele.',
+      flesh: 'Carnea este albă în centrul pălăriei și gălbuie spre margine și sub cuticulă. Mirosul și gustul amintesc de făină proaspătă.',
+      sporePrint: 'Alb. Sporii sunt elipsoidali, netezi, de circa 6–8 × 4–5 μm.',
+      habitat: 'Corpurile fructifere apar toamna (septembrie–noiembrie) pe soluri nisipoase în păduri și plantații de pin.',
+      uses: 'Ciuperca a fost considerată multă vreme o specie comestibilă de calitate, dar consumul repetat în cantități mari poate cauza rabdomioliză gravă și potențial letală (distrugerea țesutului muscular); în prezent este clasificată ca otrăvitoare (otrăvitor).',
+      confusion: 'Cavalerul pucioasă (Tricholoma sulphureum) este complet galbenă, mai subțire și emană un miros grețos și respingător de gaz de iluminat sau carbid.'
+    },
+    bg: {
+      description: 'Ектомикоризна гъба от род Tricholoma, свързана с борове по песъчливи почви в Европа и Северна Америка.',
+      cap: 'Гуглата е с диаметър 5–12 cm, ярко сярножълта, жълто-зеленикава или жълтокафява в центъра, лепкава при влага, с фини люспици.',
+      hymenium: 'Ламелите са наситено сярножълти, гъсти, прираснали със зъбче към пънчето.',
+      stipe: 'Пънчето е жълто до жълтозеленикаво, плътно, масивно, високо 4–8 cm и дебело 1–2,5 cm.',
+      flesh: 'Месото е бяло до бледожълто, плътно, с характерна миризма на брашно.',
+      sporePrint: 'Бял. Спорите са елипсовидни, гладки, около 6–8 × 4–5 μm.',
+      habitat: 'Плодните тела се срещат от септември до ноември в борови гори на песъчливи терени.',
+      uses: 'Счита се за опасна и потенциално смъртоносно отровна при честа или обилна консумация. Макар в миналото да е събирана за храна, съвременни медицински изследвания доказаха, че причинява рабдомиолиза (разпадане на скелетните мускули) с фатален изход.',
+      confusion: 'Жълтата бархетна гъба (Tricholoma sulphureum) има силна отблъскваща миризма на светилен газ и е по-дребна.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/sarikarakiz-tricholoma-equestre/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27nin_zehirli_mantarlar%C4%B1_listesi"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -28619,6 +32280,30 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Riddarmusseron'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Tricholoma_equestre'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/tricholoma-equestre'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%96%D1%8A%D0%BB%D1%82%D0%BE%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0_%D0%B1%D0%B0%D1%80%D1%85%D0%B5%D1%82%D0%BD%D0%B0_%D0%B3%D1%8A%D0%B1%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -28712,6 +32397,7 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 11,
     label: {
+      tr: "puf mantarı",
       sl: "betičasta prašnica",
       hr: "tikvasta puhara",
       sr: "тикваста пухара",
@@ -28729,7 +32415,9 @@ export const CATALOG = [
       pt: 'bexiga-de-lobo',
       da: 'krystal-støvbold',
       no: 'vorterøyksopp',
-      sv: 'vårtig röksvamp'
+      sv: 'vårtig röksvamp',
+      ro: 'cașul ciorii',
+      bg: 'зърнеста пърхутка'
     },
     names: {
       en: ["warted puffball", "gem-studded puffball", "gemmed puffball", "devil's snuff-box"],
@@ -28740,6 +32428,18 @@ export const CATALOG = [
       pt: ['bufa-de-lobo']
     },
     text: {
+      tr: {
+          "description": "Orman zemininde ve çürüyen yaprak döküntülerinde yaşayan saprofit bir gasteromiset mantarıdır. Dünya çapında yaprak döken ve iğne yapraklı ormanlarda son derece yaygındır.",
+          "cap": "Meyve gövdesi 3–8 cm yüksekliğinde ve 2–6 cm genişliğinde, ters armut veya tokmak biçimindedir. Dış yüzeyi beyaz veya krem renklidir; üzerinde kolayca dökülebilen küçük konik dikenler ve siğiller bulunur; bu dikenler döküldüğünde altta ağsı bir iz kalır. Olgunlukta tepede küçük bir delik açılır.",
+          "hymenium": "Sporlar kapalı bir iç kütle (gleba) içinde üretilir. Gleba başlangıçta saf beyaz, sert ve homojendir; sporlar olgunlaştıkça sararır, zeytin yeşiline döner ve nihayetinde kahverengi toz bir spor kütlesi halini alır.",
+          "stipe": "Gövdenin alt kısmı sap benzeri steril bir taban oluşturur; beyaz veya açık renklidir ve tabana doğru incelir.",
+          "flesh": "Gençken iç etli kısım saf beyaz ve sıkıdır; hoş bir mantar kokusuna sahiptir. Sporlar olgunlaştığında ufalanan kuru toz kütlesine dönüşür.",
+          "habitat": "Meyve gövdeleri yaz ortasından sonbahar sonuna kadar görülür. Orman zemininde, çürüyen kütükler üzerinde ve yosunlu alanlarda gruplar halinde yetişir.",
+          "sporePrint": "Zeytin kahverengisi. Sporlar küremsi, ince siğilli ve yaklaşık 3,5–4,5 μm çapındadır.",
+          "uses": "Yenilebilir bir mantardır. Yalnızca iç kısmı tamamen saf beyaz ve sert olan genç örnekleri toplanıp pişirilmelidir; sararma veya kahverengileşme başladığında tüketilmez. Dış siğilli kabuğu soyularak sote edilir veya kızartılır.",
+          "confusion": "Scleroderma citrinum kalın sert kabukludur ve içi başlangıçta bile mor-siyahtır (zehirlidir). Genç Amanita yumurtaları kesildiğinde içeride embriyonik mantar taslağı gösterir.",
+          "notes": "2019 yılındaki bir değerlendirmede Asgari Endişe (Least Concern) kategorisinde listelenmiştir. Kadmiyum, kurşun ve cıva gibi ağır metalleri biriktirme kapasitesi yüksektir."
+    },
       sl: {
           "description": "Saprotrofna goba z zaprtim trosnjakom (glebo). Zelo pogosta je v gozdovih po vsem svetu.",
           "cap": "Trosnjak je betičaste ali hruškaste oblike, visok 4–9 cm in širok 3–6 cm. Površina je bela do bledo sivkasta, gosto posuta s stožčastimi bradavicami in bodicami, ki ob dotiku odpadejo in pustijo mrežast vzorec.",
@@ -28940,9 +32640,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar bildas från juli till november på marken bland förna i löv- och barrskogar, längs stigar och i trädgårdar, ofta i grupper.',
       uses: 'Ätlig som ung så länge köttet i genomskärning är helt vitt och fast. När spormassan börjar gulna är den oätlig.',
       confusion: 'Unga exemplar av giftiga flugsvampar i äggstadiet har ett embryonalt anlag till hatt och fot med skivor i genomskärning, vilket röksvampar helt saknar. Gyttrad röksvamp (Lycoperdon pyriforme) växer i täta tuvor på murken ved.'
+    },
+    ro: {
+      description: 'Ciupercă saprotrofă comună din păduri și pășuni. Este larg răspândită pe toate continentele.',
+      cap: 'Corpul fructifer are 3–8 cm înălțime și 2–5 cm lățime, în formă de pară inversată sau măciucă. Suprafața este albă, acoperită cu negi conici ascuțiți înconjurați de granule mici; la atingere sau maturitate, negii mari cad, lăsând pe cuticulă un model reticulat caracteristic.',
+      hymenium: 'Gleba fertilă umple capul rotund superior. În tinerețe este albă, fermă și compactă, devenind galben-măslinie și transformându-se la maturitate deplină într-o pulbere uscată de spori ce este expulzată printr-un orificiu apical mic.',
+      stipe: 'Baza sterilă este groasă, în formă de picior fals, cărnoasă și spongioasă, continuându-se până la sol.',
+      flesh: 'Carnea glebei tinere este de un alb pur, elastică și omogenă. Mirosul și gustul sunt plăcute și discrete.',
+      sporePrint: 'Brun-măsliniu. Sporii sunt sferici, fin verucoși, de circa 3,5–4,5 μm.',
+      habitat: 'Corpurile fructifere apar din iunie până în noiembrie în păduri de foioase și conifere, crescând solitare sau în pâlcuri pe sol bogat în frunzar.',
+      uses: 'Este o specie comestibilă bună (comestibil) exclusiv când este tânără, atâta timp cât carnea din interior este complet albă și fermă. Se taie felii și se prepară la tigaie sau pane.',
+      confusion: 'Cașul de buturugă (Apioperdon pyriforme) crește în tufe dense exclusiv pe lemn putred și are negi mărunți fără model reticular. Exemplarele tinere din genul (Amanita) aflate în stadiu de ou au schițe de lamele în secțiune verticală.'
+    },
+    bg: {
+      description: 'Сапротрофна базидиева гъба. Изключително честа и широко разпространена в горите и поляните по целия свят.',
+      cap: 'Плодното тяло е с крушовидна до бухалковидна форма, високо 4–9 cm и широко 3–5 cm. Горната закръглена част е покрита с конични брадавички и шипчета, които при опадване оставят видима мрежовидна шарка.',
+      hymenium: 'Хименофорът е вътрешен (глеба), затворен в плодното тяло. В младост глебата е чисто бяла и плътна, а при узряване се превръща в прахообразна маслиненокафява спорова маса, излитаща през малък отвор на върха.',
+      stipe: 'Долната стеснена част образува лъжливо стъбло, пълно със стерилна гъбеста тъкан.',
+      flesh: 'В млада възраст месото (глебата) е чисто бяло и еластично, с приятна гъбна миризма.',
+      sporePrint: 'Маслиненокафяв. Спорите са сферични, фино брадавичести, около 3,5–4,5 μm.',
+      habitat: 'Плодните тела се появяват от май до ноември поединично или на групи в иглолистни и широколистни гори.',
+      uses: 'Добра ядлива гъба, но единствено в млада възраст, докато глебата отвътре е чисто бяла. Щом започне да пожълтява или покафенява, става негодна за консумация.',
+      confusion: 'Младите плодни тела на отровните мухоморки (Amanita) в стадий на яйце имат зародиш на гугла и пънче при разрез. Брадавичестата пърхутка (Scleroderma citrinum) има жилава жълтеникава обвивка и чернееща отвътре глеба.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/puf-mantari-lycoperdon-perlatum/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Lycoperdon_perlatum"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -29214,6 +32948,35 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/V%C3%A5rtig_r%C3%B6ksvamp'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Lycoperdon_perlatum'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/lycoperdon-perlatum'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%97%D1%8A%D1%80%D0%BD%D0%B5%D1%81%D1%82%D0%B0_%D0%BF%D1%8A%D1%80%D1%85%D1%83%D1%82%D0%BA%D0%B0'
+        }
       ]
     },
     synonyms: ["Lycoperdon gemmatum Batsch", "Lycoperdon lacunosum Bull.", "Lycoperdon bonordenii Massee"]
@@ -29295,6 +33058,7 @@ export const CATALOG = [
     fruitingFrom: 7,
     fruitingTo: 11,
     label: {
+      tr: "som örgübacak mantarı",
       sl: "trepetlikov turek",
       hr: "crveni hrapavac",
       sr: "црвеноглави дед",
@@ -29311,7 +33075,9 @@ export const CATALOG = [
       nl: 'Rosse populierboleet',
       da: 'rustrød skælrørhat',
       no: 'eikeskrubb',
-      sv: 'aspsopp'
+      sv: 'aspsopp',
+      ro: 'hribă de plop',
+      bg: 'оранжева брезовка'
     },
     names: {
       en: ["red-capped scaber stalk", "orange bolete", "copper-top", "orange-capped bolete"],
@@ -29319,9 +33085,22 @@ export const CATALOG = [
     ,
       cs: ["křemenáč dubový"],
       es: ['boleto de álamo'],
-      sv: ['eksopp']
+      sv: ['eksopp'],
+      ro: ['pitărcuță de plop'],
+      bg: ['подосиновик']
     },
     text: {
+      tr: {
+          "description": "Meşe ağaçlarıyla (Quercus) ektomikorizal ortaklık kuran bir mantardır. Avrupa genelinde geniş yapraklı ormanlarda ve parklarda yaygın olarak yetişir.",
+          "cap": "Şapka 6–20 cm genişliğinde olup başlangıçta yarım küre biçimlidir, daha sonra dışbükeyleşir. Koyu turuncu, kızıl turuncu veya pas kahverengisidir; yüzeyi ince kadifemsi ve kurudur. Kenarlarda kütikula hafifçe sarkar.",
+          "hymenium": "Borucuklar ve küçük gözenekler başlangıçta krem veya soluk sarımsıdır; olgunlukta grimsi devetüyü tona döner. Berelendiğinde yavaşça koyu kahverengi-griye lekelenir.",
+          "stipe": "Sap 8–20 cm uzunluğunda ve 2–4 cm kalınlığında, kalın, silindirik ve tabana doğru hafifçe şişkindir. Beyaz zemin üzerinde başlangıçtan itibaren kahverengimsi veya pas rengi-kırmızı küçük pullarla kaplıdır; olgunlukta bu pullar siyahlaşır.",
+          "flesh": "Etli kısım beyaz ve kalındır; kesildiğinde hızla pembemsi kırmızıya, ardından morumsu griye ve siyaha döner; tabanda mavi-yeşil tonlar belirebilir. Kokusu hoş, tadı tatlımsıdır.",
+          "habitat": "Meyve gövdeleri yaz ortasından sonbahar sonuna kadar görülür. Özellikle yaşlı meşe ağaçlarının altında, killi veya kireçli topraklarda tek tek veya küçük gruplar halinde yetişir.",
+          "sporePrint": "Kahverengi veya zeytin kahverengisi. Sporlar mekiksi, pürüzsüz ve yaklaşık 13–18 × 4–5 μm boyutlarındadır.",
+          "uses": "Seçkin yemeklik bir mantardır. Pişirildiğinde eti siyahlaşır ancak lezzeti harikadır. Çiğ veya az pişmiş tüketilmesi mide rahatsızlıklarına yol açabileceğinden iyice pişirilmelidir.",
+          "confusion": "Beyaz saplı örgübacak mantarı (Leccinum albostipitatum) titrek kavak altında yetişir ve gençken sapında beyaz pullar taşır. Kırk örgübacak mantarı (Leccinum versipelle) huş ağaçları altında yetişir."
+    },
       sl: {
           "description": "Ektomikorizna goba z živo rdečeoranžnim klobukom. Razširjena je v Evropi in Aziji v sožitju z listavci.",
           "cap": "Klobuk meri 6–20 cm v premeru, sprva je polkrožen, kasneje blazinast. Je opečno rdeče do živo oranžne barve z gladko ali rahlo žametasto površino.",
@@ -29516,9 +33295,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar påträffas från juli till oktober i mykorrhiza med lövträd, framför allt ek och asp på frisk mark.',
       uses: 'En god matsvamp som måste tillagas väl före förtäring. Råa strävsoppar är giftiga och orsakar magbesvär.',
       confusion: 'Tegelsopp (Leccinum versipelle) växer med björk och har från början kolsvarta fotfjäll. Vitfotad aspsopp (Leccinum albostipitatum) har fotfjäll som länge förblir helt vita.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică mare asociată cu plopii și alte foioase. Este larg răspândită în Europa și America de Nord.',
+      cap: 'Pălăria are 5–20 cm lățime, semisferică la început și apoi pernițată. Cuticula este fin pâsloasă, de culoare roșu-portocalie, cărămizie sau brun-roșiatică, debordând adesea ușor peste marginea pălăriei.',
+      hymenium: 'Tuburile au 1–3 cm lungime, albicioase la început, apoi cenușii-crem. Porii sunt mici, rotunzi, albicioși până la ocru-cenușiu.',
+      stipe: 'Piciorul are 6–20 cm lungime și 2–5 cm grosime, robust, cilindric sau îngroșat la bază, albicios, acoperit pe toată lungimea cu solzișori aspri care sunt brun-roșiatici încă din tinerețe și devin negricioși la bătrânețe.',
+      flesh: 'Carnea este albă și tare în tinerețe, virând la tăiere mai întâi în violet-cenușiu și apoi în negricios. Mirosul și gustul sunt foarte plăcute.',
+      sporePrint: 'Brun-măsliniu. Sporii sunt fusiformi, netezi, de circa 13–18 × 4,5–5,5 μm.',
+      habitat: 'Corpurile fructifere apar din iulie până în noiembrie în păduri de foioase, mai ales sub plopi tremurători, stejari și fagi.',
+      uses: 'Este o specie comestibilă excelentă (comestibil excelent) după o preparare termică adecvată. Carnea se înnegrește în timpul gătirii.',
+      confusion: 'Specia (Leccinum albostipitatum) crește strict sub plop tremurător și are solzișorii de pe picior complet albi în tinerețe. Pitărcuța de mesteacăn (Leccinum versipelle) crește sub mesteceni și are solzii negri încă din stadiu timpuriu.'
+    },
+    bg: {
+      description: 'Ектомикоризна гъба. Среща се в широколистни и смесени гори в Европа и Азия, образуваща микориза с дъб, трепетлика и други дървесни видове.',
+      cap: 'Гуглата е с диаметър 5–20 cm, полукълбовидна, по-късно изпъкнала, ярко тухленочервена до оранжево-червена. Повърхността е суха и фино кадифена.',
+      hymenium: 'Тръбичките са белезникави, по-късно сивкави, дълги, с малки пори, потъмняващи при натиск.',
+      stipe: 'Пънчето е стройно и масивно, високо 8–20 cm и дебело 2–4 cm, покрито с гъсти люспици, които от червеникавокафяви бързо стават черни.',
+      flesh: 'Месото е бяло, плътно, като при разрез се оцветява първо във виолетово-сиво, а след това потъмнява до черно. Има мек вкус и слаб аромат.',
+      sporePrint: 'Охренокафяв. Спорите са вретеновидни, гладки, около 13–17 × 4–5 μm.',
+      habitat: 'Плодните тела се появяват от юни до октомври под дъб, бук, трепетлика и бреза.',
+      uses: 'Много добра ядлива гъба след продължителна термична обработка. При готвене месото потъмнява силно.',
+      confusion: 'Обикновената брезовка (Leccinum scabrum) има сиво-кафява гугла. Други червеношапчести видове от род Leccinum са сходни и също ядливи след сготвяне.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/som-orgubacak-leccinum-aurantiacum/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/%C3%87%C3%B6rek_mantar%C4%B1"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -29782,6 +33595,35 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Aspsopp'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Leccinum_aurantiacum'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/leccinum-aurantiacum'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%9E%D1%80%D0%B0%D0%BD%D0%B6%D0%B5%D0%B2%D0%B0_%D0%B1%D1%80%D0%B5%D0%B7%D0%BE%D0%B2%D0%BA%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -29870,6 +33712,7 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 11,
     label: {
+      tr: "patateskesesi mantarı",
       sl: "citronasta mušnica",
       hr: "žućkasta pupavka",
       sr: "лимунаста пупавка",
@@ -29887,16 +33730,31 @@ export const CATALOG = [
       pt: 'amanita-citrina',
       da: 'kugleknoldet fluesvamp',
       no: 'gul fluesopp',
-      sv: 'vitgul flugsvamp'
+      sv: 'vitgul flugsvamp',
+      ro: 'burete de lămâie',
+      bg: 'жълта мухоморка'
     },
     names: {
       en: ["false death cap", "false death-cap", "citron amanita"]
     ,
       cs: ["muchomůrka citrónová"],
       es: ['oronja limón', 'oronja amarilla'],
-      pt: ['falso-chapéu-da-morte', 'falsa-cicuta-verde']
+      pt: ['falso-chapéu-da-morte', 'falsa-cicuta-verde'],
+      bg: ['лимоненожълта мухоморка']
     },
     text: {
+      tr: {
+          "description": "Geniş yapraklı ve iğne yapraklı ormanlarda yetişen ektomikorizal bir mantardır. Avrupa'da meşe, kayın, çam ve huş ağaçlarının altında asidik ve kumlu zeminlerde son derece yaygındır.",
+          "cap": "Şapka 4–10 cm genişliğinde olup başlangıçta yarım küre biçimlidir ve zamanla dışbükeyleşerek düzleşir. Soluk limon sarısı, yeşilimsi sarı veya beyazımsıdır. Üzerinde evrensel peçeden kalan düzensiz, yassı, beyazımsı veya açık devetüyü pullar taşır.",
+          "hymenium": "Lameller serbest, sık ve beyazdır; zamanla çok soluk sarımsı bir ton alabilir.",
+          "stipe": "Sap 6–12 cm uzunluğunda ve 1–1,5 cm kalınlığında, beyaz veya çok soluk sarı, silindirik ve tabanda belirgin şekilde keskin kenarlı, yuvarlak ve büyük bir soğanla sonlanır. Üst kısımda sarkık, sarımsı beyaz bir halka bulunur. Taban soğanı üzerinde oluklu, keskin kenarlı bir volva kalıntısı yer alır.",
+          "flesh": "Etli kısım beyazdır, kütikulanın altında hafif sarımsıdır; kesildiğinde renk değiştirmez. Çok belirgin ve kuvvetli çiğ patates veya turp kokusuna sahiptir.",
+          "habitat": "Meyve gövdeleri ağustos ayından kasım sonuna kadar görülür. Asidik zeminli meşe, huş ve çam ormanlarında tek tek veya dağınık gruplar halinde yetişir.",
+          "sporePrint": "Beyaz. Sporlar küremsi, pürüzsüz, amiloid ve yaklaşık 8–10 × 7–9 μm boyutlarındadır.",
+          "uses": "Yenmez. Ölümcül derecede zehirli değildir ve az miktarda bufotenin içerir; ancak kötü tadı ve ölümcül köygöçüren mantarıyla (Amanita phalloides) büyük benzerlik taşıması nedeniyle toplanması ve tüketilmesi kesinlikle önerilmez.",
+          "confusion": "Ölümcül köygöçüren mantarı (Amanita phalloides) torba şeklinde serbest bir volvaya sahiptir, keskin kenarlı soğan taşımaz ve patates kokmaz.",
+          "notes": "Kuzey Amerika'nın doğusundan bu ad altında yapılan kayıtlar başka türlere aittir; buradaki ölçümler Avrupa örneklerine aittir."
+    },
       sl: {
           "description": "Ektomikorizna goba z značilnim vonjem po surovem krompirju. Zelo pogosta je v evropskih in severnoameriških gozdovih.",
           "cap": "Klobuk meri 5–10 cm v premeru, je polkrožen do zravnan. Je bledo citronasto rumene, rumenkastozelene ali umazano bele barve, posut z velikimi nepravilnimi belkastimi ali rjavkastimi krpami.",
@@ -30097,9 +33955,43 @@ export const CATALOG = [
       uses: 'Oätlig eller olämplig matsvamp på grund av sin oangenäma potatissmak och risk för förväxling med den dödliga lömska flugsvampen. Den innehåller små mängder bufotenin.',
       confusion: 'Den dödligt giftiga lömska flugsvampen (Amanita phalloides) har en säcklik, sladdrig strumpa vid basen i stället för en skarpt kantad fotknöl, saknar potatisdoft och har sällan hylleplättar på hatten.',
       notes: 'Den vita färgformen (var. alba) är helt vit och har samma doft av rå potatis och kantade fotknöl.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică comună din pădurile de foioase și conifere pe soluri acide și nisipoase. Frecventă în Europa și America de Nord.',
+      cap: 'Pălăria are 4–10 cm lățime, convexă la început și apoi aplatizată. Cuticula este galben-lămâie palidă până la alb-gălbuie, presărată cu fragmente mari, neregulate de văl de culoare brun-crem sau gălbuie.',
+      hymenium: 'Lamelele sunt libere, dese, albe până la slab gălbui.',
+      stipe: 'Piciorul are 5–12 cm lungime și 1–2 cm grosime, albicios până la galben-deschis. Poartă un inel membranos alb-gălbui atârnător. Baza se termină cu un bulb sferic mare, tăiat neted la margine ca o cupă circulară.',
+      flesh: 'Carnea este albă, neschimbătoare la tăiere. Are un miros caracteristic și puternic de cartof crud sau ridiche.',
+      sporePrint: 'Alb. Sporii sunt aproape sferici, netezi, amiloizi, de circa 8–10 × 7–9 μm.',
+      habitat: 'Corpurile fructifere apar din august până în noiembrie în păduri de stejar, fag, pin și mesteacăn pe soluri nisipoase și acide.',
+      uses: 'Ciuperca este considerată necomestibilă (necomestibil) din cauza mirosului neplăcut de cartof crud și a riscului ridicat de confuzie mortală cu Amanita phalloides.',
+      confusion: 'Buretele viperei (Amanita phalloides) este mortal și se distinge prin volva mare saciformă liberă la baza piciorului, pălăria adesea cu nuanțe măslinii și lipsa mirosului pregnant de cartof crud.'
+    },
+    bg: {
+      description: 'Ектомикоризна гъба. Често срещана в широколистни и иглолистни гори в цяла Европа и Северна Америка върху бедни кисели почви.',
+      cap: 'Гуглата е с диаметър 5–10 cm, лимоненожълта, бледожълтеникава до белезникава, полукълбовидна до плоска, покрита с неправилни белезникави или кафеникави парченца от общото покривало.',
+      hymenium: 'Ламелите са бели до бледожълтеникави, свободни и гъсти.',
+      stipe: 'Пънчето е бяло или бледожълтеникаво, високо 6–12 cm и дебело 1–2 cm, с висящо жълтеникаво пръстенче и рязко отсечена сферична луковица в основата, оградена от тясна прираснала волва.',
+      flesh: 'Месото е бяло, под кожицата жълтеникаво. Има силен и много характерен мирис на суров обелен картоф или ряпа.',
+      sporePrint: 'Бял. Спорите са закръглени до широко елипсовидни, гладки, амилоидни, около 8–10 × 7–9 μm.',
+      habitat: 'Плодните тела се срещат от август до ноември под дъб, бук, бор и смърч.',
+      uses: 'Счита се за неядлива поради отблъскващия си вкус на суров картоф и опасността от объркване със смъртоносната зелена мухоморка.',
+      confusion: 'Смъртоносната зелена мухоморка (Amanita phalloides) има свободна торбовидна волва в основата на пънчето, няма мирис на картоф и обикновено гуглата ѝ е без едри парченца от покривалото.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/patateskesesi-amanita-citrina/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Amanita_citrina"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -30373,6 +34265,30 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Vitgul_flugsvamp'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Amanita_citrina'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/amanita-citrina'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%96%D1%8A%D0%BB%D1%82%D0%B0_%D0%BC%D1%83%D1%85%D0%BE%D0%BC%D0%BE%D1%80%D0%BA%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -30465,6 +34381,7 @@ export const CATALOG = [
     fruitingFrom: 5,
     fruitingTo: 11,
     label: {
+      tr: "delikarakız mantarı",
       sl: "pegasta kolobarnica",
       hr: "tigrasta vitezovka",
       sr: "леопардовка",
@@ -30478,7 +34395,9 @@ export const CATALOG = [
       es: 'seta atigrada',
       nl: 'Tijgerridderzwam',
       da: 'tiger-ridderhat',
-      sv: 'pantermusseron'
+      sv: 'pantermusseron',
+      ro: 'gâscă tigrată',
+      bg: 'тигрова гъба'
     },
     names: {
       en: [
@@ -30489,9 +34408,22 @@ export const CATALOG = [
         "striped tricholoma",
         "poison trich"
       ],
-      es: ['atigrado', 'falsa negrilla']
+      es: ['atigrado', 'falsa negrilla'],
+      ro: ['golubincă otrăvitoare']
     },
     text: {
+      tr: {
+          "description": "Dağlık iğne yapraklı ve kayın ormanlarında yetişen ektomikorizal bir mantardır. Orta ve Güney Avrupa'nın dağlık bölgelerinde kireçli topraklarda ladin, göknar ve kayın ağaçlarıyla birlikte bulunur.",
+          "cap": "Şapka 6–15 cm genişliğinde olup kalın, etli ve başlangıçta yarım küre biçimlidir; kenarları içe kıvrıktır ve daha sonra dışbükeyleşir. Gümüşi gri, kurşuni gri veya grimsi kahverengidir; yüzeyi konsantrik olarak dizilmiş koyu gri-kahverengi pullarla kaplıdır.",
+          "hymenium": "Lameller beyaz veya krem rengidir, kalın, orta sıklıktadır ve sapa çentiklidir; gençken kenarlarında su damlacıkları salgılayabilir.",
+          "stipe": "Sap 6–12 cm uzunluğunda ve 2–3,5 cm kalınlığında, kalın, sert, silindirik veya tabana doğru şişkindir; beyaz veya grimsi devetüyü renktedir.",
+          "flesh": "Etli kısım kalın, sert ve beyazdır; kesildiğinde renk değiştirmez. Unsu hoş bir kokusu ve tatlımsı bir tadı vardır.",
+          "habitat": "Meyve gövdeleri ağustos ayından ekim sonuna kadar görülür. Dağlık bölgelerde kireçli zeminlerde ladin, göknar ve kayın ormanlarında tek tek veya küçük gruplar halinde yetişir.",
+          "sporePrint": "Beyaz. Sporlar elipsoid, pürüzsüz ve yaklaşık 8–11 × 5–7 μm boyutlarındadır.",
+          "uses": "Zehirlidir. Şiddetli gastrointestinal zehirlenmeye yol açar; tüketimden 15 dakika ila 2 saat sonra başlayan ağır kusma, karın krampları, ishal ve susuzluğa neden olur; bazen karaciğer hasarı da bildirilmiştir.",
+          "confusion": "Yenilebilir karaoğlan mantarı (Tricholoma terreum) daha küçük ve ince etlidir, un kokusu taşımaz. Pullu karakız mantarı (Tricholoma squarrulosum) siyah pullu bir sapa sahiptir.",
+          "notes": "2006 yılındaki bir değerlendirmede Çek Cumhuriyeti'nde Tehlike Altında (Endangered) olarak listelenmiştir."
+    },
       sl: {
           "description": "Strupena ektomikorizna goba gorskih iglastih in bukovih gozdov. Razširjena je v Evropi in Severni Ameriki na apnenčastih tleh.",
           "cap": "Klobuk meri 6–15 cm v premeru, je masiven, sprva polkrožen z močno spodvitim robom, nato zravnan. Površina je srebrnkasto siva do pepelnato siva, gosto prekrita s temnejšimi, koncentrično razporejenimi luskami (tigrast vzorec).",
@@ -30694,9 +34626,43 @@ export const CATALOG = [
       uses: 'Starkt giftig. Orsakar allvarliga och våldsamma mag- och tarmförgiftningar med svåra kräkningar, buksmärtor och diarréer som kan kräva sjukhusvård.',
       confusion: 'Jordmusseron (Tricholoma terreum) är mindre, spensligare, saknar mjöldoft och har gråare, icke-fjällig fot. Fjällig musseron (Tricholoma atrosquamosum) har mörkare svartaktiga fjäll på hatten och foten.',
       notes: 'Arten bedöms som starkt hotad (Endangered) i Tjeckien i en nationell rödlistebedömning från 2006.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică mare și otrăvitoare din pădurile montane pe sol calcaros. Este întâlnită în Europa Centrală și de Sud, precum și în America de Nord.',
+      cap: 'Pălăria are 5–15 cm lățime, foarte cărnoasă, semisferică la început și apoi convexă cu marginea răsfrântă spre interior. Cuticula este uscată, cenușiu-argintie până la cenușiu-brună, acoperită de solzi deși, concentrați, cenușiu-închiși sau negricioși, dispuși concentric.',
+      hymenium: 'Lamelele sunt late, dese, dințate la picior, albicioase până la galben-palid, adesea lăcrimând picături fine apoase în tinerețe.',
+      stipe: 'Piciorul are 4–12 cm lungime și 1,5–4 cm grosime, robust, masiv, îngroșat la bază, albicios, cu reflexe ocru-ruginii la atingere.',
+      flesh: 'Carnea este albă, densă și compactă. Mirosul și gustul sunt de făină proaspătă.',
+      sporePrint: 'Alb. Sporii sunt elipsoidali, netezi, de circa 8–10 × 5,5–7 μm.',
+      habitat: 'Corpurile fructifere apar din august până în octombrie în păduri montane de brad, molid și fag pe soluri calcaroase.',
+      uses: 'Ciuperca este otrăvitoare severă (otrăvitor). Produce o gastroenterită toxică acută și violentă chiar și în cantități mici, simptomele debutând la 15 minute până la 2 ore după ingestie.',
+      confusion: 'Cenușăreasa mică (Tricholoma terreum) este mult mai mică, fragilă și zveltă, crește sub pini și nu are carnea atât de groasă și masivă. Specia (Tricholoma atrosquamosum) are piciorul punctat cu solzișori negri.'
+    },
+    bg: {
+      description: 'Силно отровна ектомикоризна гъба. Среща се в планински иглолистни и широколистни гори в Европа върху варовити почви.',
+      cap: 'Гуглата е масивна, с диаметър 6–15 cm, полукълбовидна с подвит ръб, после плоска. Цветът е сребристосив до оловносив, покрит с концентрични тъмносиви до черно-кафяви триъгълни люспи, напомнящи тигрова шарка.',
+      hymenium: 'Ламелите са белезникави до жълтеникави, дебели, широки, прираснали със зъбче, понякога отделящи бистри капчици вода при влажно време.',
+      stipe: 'Пънчето е бяло до сивкаво, плътно, в основата често задебелено, високо 6–12 cm и дебело 2–4 cm.',
+      flesh: 'Месото е бяло, плътно, сивеещо под кожицата, с приятен аромат и вкус на прясно брашно.',
+      sporePrint: 'Бял. Спорите са елипсовидни, гладки, около 8–10 × 5,5–7 μm.',
+      habitat: 'Плодните тела се развиват от август до октомври под бук, смърч и ела на варовити терени.',
+      uses: 'Силно отровна гъба. Причинява много тежък стомашно-чревен синдром, започващ скоро след консумация, с продължително гадене, повръщане и дехидратация.',
+      confusion: 'Ядливата саждива гъба (Tricholoma terreum) е значително по-дребна, с по-тънко кухо пънче и няма концентрични едри люспи по гуглата.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/delikarakiz-tricholoma-pardinum/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Mantar"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -30972,6 +34938,25 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Pantermusseron'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Tricholoma_pardinum'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%A2%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%B0_%D0%B3%D1%8A%D0%B1%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -31055,6 +35040,7 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 11,
     label: {
+      tr: "dev ponpon mantarı",
       sl: "orjaška plešivka",
       hr: "golema puhara",
       sr: "велика пухара",
@@ -31071,7 +35057,9 @@ export const CATALOG = [
       pt: 'bufa-de-lobo-gigante',
       da: 'kæmpestøvbold',
       no: 'kjemperøyksopp',
-      sv: 'jätteröksvamp'
+      sv: 'jätteröksvamp',
+      ro: 'bășica porcului',
+      bg: 'гигантска пърхутка'
     },
     names: {
       sk: ["vatovec"],
@@ -31079,6 +35067,18 @@ export const CATALOG = [
       da: ['kæmpe-støvbold']
     },
     text: {
+      tr: {
+          "description": "Zengin topraklarda ve otlaklarda yaşayan saprofit bir gasteromiset mantarıdır. Dünya genelinde ılıman kuşakta çayırlarda, meralarda, meyve bahçelerinde ve orman açıklıklarında bulunur.",
+          "cap": "Meyve gövdesi devasa boyutlarda, küremsi veya basık küre şeklinde olup genellikle 20–60 cm çapında ve birkaç kilogram (bazen 10–20 kg) ağırlığındadır. Dış kabuk (peridyum) beyaz veya krem rengidir; pürüzsüz, derimsi ve incedir; yaşlandıkça sararır, kahverengileşir ve parçalanarak dökülür.",
+          "hymenium": "İç kısımdaki gleba başlangıçta saf beyaz, sık ve homojendir; sporlar olgunlaştıkça sarımsı yeşile ve son olarak devasa bir zeytin kahverengisi toz kütlesine dönüşür.",
+          "stipe": "Belirgin bir sapı yoktur; tabanda küçük misel iplikçikleriyle toprağa tutunur.",
+          "flesh": "Gençken iç etli kısım saf beyaz, taze peynir veya marşmelov kıvamındadır. Hoş, mantarımsı bir kokusu vardır.",
+          "habitat": "Meyve gövdeleri yaz sonundan sonbahara kadar görülür. Azotça zengin otlaklarda, meralarda, parklarda ve bahçelerde peri halkaları veya dağınık gruplar halinde yetişir.",
+          "sporePrint": "Zeytin kahverengisi. Sporlar küremsi, pürüzsüz veya çok ince siğilli ve yaklaşık 3,5–5,5 μm çapındadır.",
+          "uses": "Seçkin yemeklik bir mantardır. Yalnızca iç kısmı tamamen saf beyaz ve sert olan genç meyve gövdeleri tüketilebilir; sararma başladığında zehirleyici ve acı hale gelir. Dilimlenip tereyağında pane veya ızgara olarak pişirilir.",
+          "confusion": "Boyutları nedeniyle diğer türlerle karıştırılması neredeyse imkansızdır; küçük örnekleri yaygın puf mantarı (Lycoperdon perlatum) gibi türlerden ayrılır.",
+          "notes": "Tek bir büyük meyve gövdesi trilyonlarca (7 trilyondan fazla) spor üretebilir. Tarihte kanamayı durdurucu pansuman ve arıları sakinleştirmek için tütsü olarak kullanılmıştır."
+    },
       sl: {
           "description": "Zelo velika saprotrofna goba z zaprtim trosnjakom. Razširjena je po vsem svetu na travnikih in pašnikih ter velja za eno največjih gob na svetu.",
           "cap": "Trosnjak je kroglast ali sploščeno ovalen, s premerom 15–50 cm ali več, tehta lahko od 1 do več kot 10 kg. Zunanja ovojnica je sprva bela in usnjato gladka, sčasoma porumeni in razpoka v rjavkaste kosme.",
@@ -31282,9 +35282,43 @@ export const CATALOG = [
       uses: 'En mycket god matsvamp så länge köttet är helt vitt och fast. Den skärs ofta i tjocka skivor och steks eller paneras som schnitzel.',
       confusion: 'Skålröksvamp (Bovistella utriformis) är mycket mindre (cirka 6–15 cm bred), formad som ett tillplattat päron eller en mortelstöt, med vårtigt ytterskikt och en steril fotbas. Hög röksvamp (Lycoperdon excipuliforme) har en vårtig eller flockig yta och en steril fotdel. Calvatia booniana i västra Nordamerika kan överstiga 60 cm men dess yta spricker upp i stora polygonala fjäll. Äggröksvampar (släktet Bovista) är mycket mindre och inte alltid släta. Gulbrun rotsprängare (Scleroderma citrinum) är mycket mindre, fastare, och dess inre blir mörkt purpursvart med vit marmorering som ung. En ung flugsvamp (Amanita) visar anlag till skivor och fot i ett vertikalt snitt. En oöppnad stinksvamp (Phallus impudicus) har ett tjockt gelatinöst skikt inuti ägget. Jätteröksvampen har ett likformigt vitt inre och helt utan skivanlag.',
       notes: 'En enda stor fruktkropp kan producera flera biljoner sporer. Den har historiskt använts för att stilla blödningar och som rökmedel för att lugna bin.'
+    },
+    ro: {
+      description: 'Ciupercă saprotrofă uriașă ce crește pe pajiști, pășuni și grădini bine îngrășate. Este răspândită în regiunile temperate din Europa, Asia și America de Nord.',
+      cap: 'Corpul fructifer este uriaș, sferic sau neregulat ovoidal, de 15–50 cm în diametru (atingând uneori peste 80 cm și cântărind până la 10–20 kg). Suprafața exterioară este netedă, mătăsoasă, albă la început, devenind gălbuie și apoi brun-măslinie pe măsură ce se maturizează, crăpându-se neregulat pentru a elibera sporii.',
+      hymenium: 'Gleba fertilă umple întregul corp fructifer. La început este complet albă, compactă și cărnoasă, virând în galben-verzui și apoi într-o masă uriașă de pulbere brun-măslinie formată din trilioane de spori.',
+      stipe: 'Piciorul adevărat lipsește complet; corpul fructifer este ancorat în pământ printr-un cordon micelian alb gros.',
+      flesh: 'Carnea glebei tinere este albă ca zăpada, omogenă și elastică. Mirosul este plăcut de ciupercă proaspătă, iar gustul este dulceag.',
+      sporePrint: 'Brun-măsliniu. Sporii sunt sferici, netezi sau fin verucoși, de 3,5–5,5 μm.',
+      habitat: 'Corpurile fructifere apar din iunie până în octombrie pe pășuni grase, fânețe, livezi și parcuri, adesea solitare sau în cercuri mari ale vrăjitoarelor.',
+      uses: 'Este o specie comestibilă excelentă (comestibil excelent) atâta timp cât carnea interioară este de un alb pur. Se taie în felii groase și se prepară pane ca un șnițel delicios.',
+      confusion: 'Bovistella utriformis este mult mai mică (6–15 cm), are o bază sterilă pliată și suprafața crăpată în poligoane. Ciupercile otrăvitoare din genul Scleroderma au carnea interioară neagră-violacee încă din tinerețe.'
+    },
+    bg: {
+      description: 'Едра сапротрофна базидиева гъба. Разпространена по пасища, ливади и горски поляни в умерените пояси по целия свят.',
+      cap: 'Плодното тяло е кълбовидно или сплеснато-сферично, с гигантски размери: 20–60 cm в диаметър (понякога достигащо над 1 метър и тегло до 10–20 kg). Повърхността е гладка, кожеста, бяла в младост, по-късно пожълтяваща и покафеняваща.',
+      hymenium: 'Хименофорът е изцяло вътрешен (глеба). В младост глебата е чисто бяла и плътна, а при узряване се превръща в огромна маслиненокафява прахообразна маса от милиарди спори.',
+      stipe: 'Пънче липсва; плодното тяло е закрепено за почвата с тънък коренчевиден мицелен сноп.',
+      flesh: 'В младост месото е снежнобяло, нежно, гъбесто, с приятен гъбен аромат.',
+      sporePrint: 'Маслиненокафяв. Спорите са сферични, фино брадавичести, 4–5,5 μm.',
+      habitat: 'Плодните тела се появяват от юни до октомври по открити пасища, градини, паркове и поляни.',
+      uses: 'Отлична ядлива гъба в млада възраст, докато месото е напълно бяло. Обикновено се реже на дебели филии и се панира.',
+      confusion: 'Поради огромните си размери и сферична форма няма опасни отровни двойници.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/dev-ponpon-calvatia-gigantea/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Mantar"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -31570,6 +35604,35 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/J%C3%A4tter%C3%B6ksvamp'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Calvatia_gigantea'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/calvatia-gigantea'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%93%D0%B8%D0%B3%D0%B0%D0%BD%D1%82%D1%81%D0%BA%D0%B0_%D0%BF%D1%8A%D1%80%D1%85%D1%83%D1%82%D0%BA%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -31658,6 +35721,7 @@ export const CATALOG = [
     fruitingFrom: 8,
     fruitingTo: 12,
     label: {
+      tr: "dumanlı mantar",
       sl: "poprhnjena livka",
       hr: "siva maglenka",
       sr: "магленка",
@@ -31673,13 +35737,28 @@ export const CATALOG = [
       nl: 'Nevelzwam',
       da: 'tåge-tragthat',
       no: 'puddertraktsopp',
-      sv: 'pudrad trattskivling'
+      sv: 'pudrad trattskivling',
+      ro: 'cenușăreasă',
+      bg: 'обикновена орешарка'
     },
     names: {
       en: ["clouded agaric", "cloudy clitocybe", "cloud funnel", "clouded funnel cap"],
-      es: ['seta de brezo', 'platera de otoño']
+      es: ['seta de brezo', 'platera de otoño'],
+      bg: ['есенна миризливка']
     },
     text: {
+      tr: {
+          "description": "Zengin yaprak döküntüleri üzerinde yaşayan saprofit bir mantardır. Avrupa, Asya ve Kuzey Amerika'da iğne yapraklı ve geniş yapraklı ormanlarda son derece yaygındır.",
+          "cap": "Şapka 6–20 cm genişliğinde olup kalın, etli ve başlangıçta dışbükeydir; kenarları içe kıvrıktır ve zamanla düzleşerek hafifçe çökükleşir. Rengi duman grisi, kül grisi veya devetüyü gridir; yüzeyi gençken ince beyaz unlu bir tabaka ile kaplıdır, daha sonra pürüzsüzleşir.",
+          "hymenium": "Lameller sık, ince ve sapa hafifçe sarkar; başlangıçta beyaz veya krem rengidir, olgunlukta sarımsı devetüyü tona döner. Şapka etinden kolayca ayrılabilir.",
+          "stipe": "Sap 6–12 cm uzunluğunda ve 1,5–4 cm kalınlığında, kalın, silindirik ve tabana doğru belirgin şekilde soğan gibi kalınlaşandır; grimsi beyaz olup liflidir ve tabanda beyaz pamuksu miseller taşır.",
+          "flesh": "Etli kısım kalın ve beyazdır. Çok kuvvetli, nahoş, tatlımsı-baharatımsı ve unsu bir kokuya sahiptir.",
+          "habitat": "Meyve gövdeleri sonbahar ortasından kış başlarına kadar görülür. Kayın, meşe ve ladin ormanlarında kalın yaprak döküntüleri üzerinde devasa peri halkaları veya yoğun sıralar halinde yetişir.",
+          "sporePrint": "Krem veya soluk sarımsı. Sporlar elipsoid, pürüzsüz ve yaklaşık 6–8 × 3,5–5 μm boyutlarındadır.",
+          "uses": "Şartlı yenilebilir veya şüpheli bir mantardır. Geçmişte yaygın tüketilmesine karşın, içerdiği nebularin maddesi nedeniyle birçok insanda şiddetli mide bulantısı ve sindirim bozukluğuna yol açar; mutlaka haşlanıp suyu dökülerek pişirilmelidir.",
+          "confusion": "Zehirli Entoloma sinuatum sarımsı-pembe lamellere ve köşeli sporlara sahiptir. Kokulu beyaz cincile (Calocybe gambosa) ilkbaharda çıkar.",
+          "notes": "Yaşlı meyve gövdeleri bazen üzerlerini beyaz misellerle kaplayan parazit mantar Volvariella surrecta tarafından deforme edilir."
+    },
       sl: {
           "description": "Velika saprotrofna goba pozne jeseni. Zelo pogosta je v iglastih in listnatih gozdovih Evrope in Severne Amerike.",
           "cap": "Klobuk meri 8–20 cm v premeru, sprva je polkrožen z uvitim robom, nato zravnan in v osredju rahlo udrt. Je pepelnato sive do sivorjave barve, pri mladih gobah prekrit z značilnim belim poprhom.",
@@ -31881,9 +35960,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar bildas från september till november i tjock löv- och barrförna, ofta i stora rader eller häxringar.',
       uses: 'Olämplig som matsvamp. Den har tidigare ätits efter förvällning men orsakar ofta magbesvär och innehåller ämnet nebularin.',
       confusion: 'Den giftiga bolmörtsskivlingen (Entoloma sinuatum) har urnupna skivor som blir laxrosa med åldern och mjöldoft.'
+    },
+    ro: {
+      description: 'Ciupercă saprotrofă mare din litiera pădurilor de conifere și foioase. Este comună în Europa și America de Nord.',
+      cap: 'Pălăria are 5–20 cm lățime, cărnoasă, convexă la început cu marginea răsfrântă în jos, apoi aplatizată și deprimată în centru. Cuticula este netedă, acoperită inițial de o brumă fină cenușie, de culoare cenușiu-fumurie, brun-cenușie sau cafeniu-deschis.',
+      hymenium: 'Lamelele sunt dese, înguste, adnate până la scurt decurente, ușor separabile de carnea pălăriei. Culoarea este albicioasă la început, devenind crem-gălbuie la maturitate.',
+      stipe: 'Piciorul are 6–15 cm lungime și 1,5–4 cm grosime, robust, fibros, cilindric sau îngroșat la bază, de culoare cenușiu-palidă până la albicioasă.',
+      flesh: 'Carnea este albă, groasă și densă. Mirosul este puternic, dulceag-pământos și caracteristic, iar gustul este aromat.',
+      sporePrint: 'Galben-crem palid. Sporii sunt elipsoidali, netezi, de circa 6–8 × 3,5–5 μm.',
+      habitat: 'Corpurile fructifere apar toamna târziu (septembrie–decembrie) în păduri de molid, fag și stejar, adesea în șiruri mari sau cercuri ale vrăjitoarelor.',
+      uses: 'Este consumată în mod tradițional în unele zone (comestibil cu precauție), însă provoacă intoleranțe gastrice severe la multe persoane; conține nebularină și necesită fierbere prealabilă cu aruncarea apei.',
+      confusion: 'Ciuperca pieptănușului (Entoloma sinuatum) este o ciupercă toxică periculoasă ce se distinge prin lamelele care devin roz la maturitate, amprenta sporală roz și sporii unghiulari.'
+    },
+    bg: {
+      description: 'Едра сапротрофна гъба по горска постеля. Много честа в горите на Европа и Северна Америка през късната есен.',
+      cap: 'Гуглата е с диаметър 6–20 cm, изпъкнала с подвит ръб, по-късно плоска до леко вдлъбната в центъра. Цветът е пепелявосив, сиво-кафяв до белезникав, покрит с фин сивкав налеп в младост.',
+      hymenium: 'Ламелите са белезникави до жълтеникаво-кремави, много гъсти, слабо низбягващи по пънчето, лесно отделящи се от месото.',
+      stipe: 'Пънчето е масивно, цилиндрично или задебелено в основата, сиво-белезникаво, високо 6–12 cm и дебело 1,5–4 cm.',
+      flesh: 'Месото е дебело, бяло, плътно, със силен специфичен сладникаво-парфюмен или брашнян аромат.',
+      sporePrint: 'Светложълтеникав до кремав. Спорите са елипсовидни, гладки, 6–8 × 3,5–5 μm.',
+      habitat: 'Плодните тела израстват от септември до декември на големи групи и самодивски кръгове в широколистни и иглолистни гори.',
+      uses: 'Условно ядлива след задължително предварително изваряване и изхвърляне на водата. При много хора предизвиква стомашно разстройство поради съдържание на небуларин.',
+      confusion: 'Силно отровният отровен родофилус (Entoloma sinuatum) има сьомговорозови ламели в зрялост и розов споров прашец.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/dumanli-mantar-clitocybe-nebularis/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Clitocybe"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -32175,6 +36288,35 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Pudrad_trattskivling'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Clitocybe_nebularis'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/clitocybe-nebularis'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%9E%D0%B1%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B0_%D0%BE%D1%80%D0%B5%D1%88%D0%B0%D1%80%D0%BA%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -32259,6 +36401,7 @@ export const CATALOG = [
     fruitingFrom: 1,
     fruitingTo: 12,
     label: {
+      tr: "hindi kuyruğu mantarı",
       sl: "pisana ploskocevka",
       hr: "šarena tvrdokoška",
       sr: "ћуранов реп",
@@ -32275,14 +36418,30 @@ export const CATALOG = [
       pt: 'cauda-de-peru',
       da: 'broget læderporesvamp',
       no: 'silkekjuke',
-      sv: 'sidenticka'
+      sv: 'sidenticka',
+      ro: 'coada curcanului',
+      bg: 'пъстър траметес'
     },
     names: {
       en: ["turkeytail", "many-zoned polypore"],
       es: ['yesquero de varios colores'],
-      nl: ['Elfenbankje']
+      nl: ['Elfenbankje'],
+      ro: ['scorțar'],
+      bg: ['пуешка опашка']
     },
     text: {
+      tr: {
+          "description": "Ölü ve çürüyen sert ağaç gövdelerinde beyaz çürüklüğe yol açan odun çürüten saprofit bir polipor mantarıdır. Dünya çapında yaprak döken ağaç kütüklerinde ve dallarında en yaygın bulunan mantarlardan biridir.",
+          "cap": "Meyve gövdesi raf şeklinde, yassı, ince, yelpaze veya rozet biçiminde 3–10 cm genişliğinde olup üst üste binen çok sayıda katman halinde büyür. Üst yüzeyi kadifemsi tüylü ve mavi, kahverengi, siyah, devetüyü, turuncu ve beyaz konsantrik renk kuşaklarıyla parlak desenlidir; görünümü kabarmış hindi kuyruğunu andırır.",
+          "hymenium": "Alt yüzey beyaz, krem veya açık sarımsı çok küçük gözeneklerden (milimetre başına 3–5 gözenek) oluşur.",
+          "stipe": "Sapı yoktur; doğrudan odun yüzeyine yanal olarak tutunur.",
+          "flesh": "Etli kısım 1–3 mm kalınlığında, derimsi, sert ve beyazdır. Hoş bir mantar kokusu vardır.",
+          "habitat": "Yıl boyunca görülür. Meşe, kayın, huş ve diğer yaprak döken ağaç kütüklerinde yoğun basamaklar halinde yetişir.",
+          "sporePrint": "Beyaz veya açık krem. Sporlar silindirik veya hafif kıvrık, pürüzsüz ve yaklaşık 5–6 × 1,5–2 μm boyutlarındadır.",
+          "uses": "Yenmez. Derimsi ve sert yapısı nedeniyle doğrudan tüketilmez. Geleneksel tıpta ve modern farmakolojide en çok araştırılan tıbbi mantarlardan biridir; içerdiği polisakkarit K (PSK) ve polisakkarit-peptit (PSP) bileşikleri bağışıklık sistemini destekleyici ve kanser tedavisine yardımcı olarak kullanılmaktadır.",
+          "confusion": "Stereum hirsutum alt yüzeyinde gözenek taşımaz (pürüzsüzdür). Trametes ochracea daha soluk aşıboyası tonlarındadır.",
+          "notes": "Depolanan kerestelere ve maden direklerine zarar verebilen güçlü bir lignin parçalayıcıdır."
+    },
       sl: {
           "description": "Lesna saprotrofna goba z večbarvnimi koncentričnimi pasovi na klobuku. Pogosta je po vsem svetu na odmrlem lesu listavcev.",
           "cap": "Klobuki so pahljačasti ali polkrožni, tanki, prožni, široki 3–10 cm in debeli 1–3 mm, rastejo v gostih strehastih skupinah. Zgornja površina je žametasta, z izrazitimi koncentričnimi pasovi različnih barv: rjave, sive, črne, modrikaste, oker in bele.",
@@ -32483,9 +36642,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar uppträder året om på döda stammar, stubbar och grenar av lövträd, särskilt björk, bok och ek, och orsakar vitröta.',
       uses: 'Oätlig på grund av sin sega, träiga konsistens. Svampen är välkänd inom traditionell asiatisk medicin och innehåller polysackariderna PSP och PSK (krestin) som studerats för immunologiska egenskaper.',
       confusion: 'Zonticka (Trametes ochracea) är tjockare och har gulockra zoner utan mörka blåaktiga eller svarta band. Sammetsticka (Trametes pubescens) är tjockare och jämnt krämfärgad med luden yta.'
+    },
+    ro: {
+      description: 'Ciupercă saprotrofă anuală ce cauzează putregai alb pe lemnul arborilor de foioase. Este foarte comună în întreaga lume.',
+      cap: 'Corpurile fructifere sunt console subțiri, plate, semicirculare sau în formă de evantai, de 3–10 cm lățime și 1–3 mm grosime, crescând adesea în grupuri etajate dense. Suprafața superioară este catifelată, brăzdată de zone concentrice multicolore spectaculoase: brun, bej, negru, albastru, portocaliu și alb, cu marginea ondulată albă.',
+      hymenium: 'Tuburile sunt foarte scurte (1–2 mm), albe sau crem. Porii sunt mărunți, rotunzi până la unghiulari, de 3–5 pe milimetru, albi la început și gălbui la bătrânețe.',
+      stipe: 'Nu are picior, consolele prinzându-se direct pe lemn.',
+      flesh: 'Carnea este subțire, tare, pieloasă și tenace, de culoare albă. Mirosul este plăcut de ciupercă uscată.',
+      sporePrint: 'Alb. Sporii sunt cilindrici-alantoizi, netezi, de circa 5–7 × 1,5–2,5 μm.',
+      habitat: 'Apare pe tot parcursul anului pe buturugi, crengi căzute și trunchiuri moarte de foioase (fag, stejar, mesteacăn).',
+      uses: 'Ciuperca este necomestibilă (necomestibil) din cauza texturii lemnoase. Este utilizată pe scară largă în fitoterapie sub formă de decoct sau extracte polizaharidice (PSK, PSP) pentru stimularea sistemului imunitar.',
+      confusion: 'Speciile netede din genul (Stereum) au suprafața inferioară complet netedă, fără pori microscopici.'
+    },
+    bg: {
+      description: 'Многогодишна сапротрофна дървесна гъба (полипор), причиняваща бяло гниене по мъртва широколистна дървесина. Една от най-разпространените дървесни гъби в света.',
+      cap: 'Плодните тела са тънки, кожести ветриловидни или полукръгли конзоли с ширина 3–10 cm и дебелина 1–3 mm, израстващи на керемидообразни групи. Горната повърхност е кадифена, с концентрични многоцветни ивици (кафяви, сиви, охрени, синкави и бели) и светъл ръб.',
+      hymenium: 'Порите са много дребни (3–5 на милиметър), бели до бледокремави, при застаряване покафеняващи.',
+      stipe: 'Пънче липсва; конзолите са странично прикрепени.',
+      flesh: 'Месото е бяло, тънко, жилаво и кожесто.',
+      sporePrint: 'Бял. Спорите са цилиндрични, леко извити, гладки, около 5–6 × 1,5–2 μm.',
+      habitat: 'Плодните тела се срещат целогодишно по пънове, паднали клони и стволове на дъб, бук и други широколистни дървета.',
+      uses: 'Неядлива поради твърдата кожеста консистенция. Широко се използва в медицината заради съдържанието на полизахарид-K (PSK) с имуностимулиращи свойства.',
+      confusion: 'Стереумите (Stereum hirsutum) имат подобен вид, но долната им повърхност е напълно гладка, без пори.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/hindi-kuyrugu-trametes-versicolor/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Mantar"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -32738,6 +36931,30 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Sidenticka'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Trametes_versicolor'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/trametes-versicolor'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%9F%D1%8A%D1%81%D1%82%D1%8A%D1%80_%D1%82%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D0%B5%D1%81'
+        }
       ]
     },
     synonyms: [
@@ -32890,6 +37107,7 @@ export const CATALOG = [
     fruitingFrom: 4,
     fruitingTo: 11,
     label: {
+      tr: "çam boleti",
       sl: "borov goban",
       hr: "borov vrganj",
       sr: "боров вргањ",
@@ -32906,7 +37124,9 @@ export const CATALOG = [
       pt: 'boleto-dos-pinheiros',
       da: 'rødbrun rørhat',
       no: 'rødbrun steinsopp',
-      sv: 'rödbrun stensopp'
+      sv: 'rödbrun stensopp',
+      ro: 'hrib de pin',
+      bg: 'борова манатарка'
     },
     names: {
       en: ["pinewood king bolete", "red king bolete"],
@@ -32922,6 +37142,18 @@ export const CATALOG = [
       sv: ['kopparröd stensopp', 'purpurstensopp']
     },
     text: {
+      tr: {
+          "description": "Çam ağaçlarıyla ve bazen göknar veya kayınla ektomikorizal ortaklık kuran bir mantardır. Avrupa'da iğne yapraklı ormanlarda, özellikle sarıçam plantasyonlarında yaygın olarak yetişir.",
+          "cap": "Şapka 10–25 cm genişliğinde olup 30 cm'ye kadar çıkabilir; başlangıçta yarım küre biçimlidir ve zamanla dışbükeyleşir. Koyu kırmızımsı kahverengi, kestane kahvesi veya bordo-kahverengidir; yüzeyi kırışık, tümsekli ve gençken ince beyazımsı bir tozla kaplıdır.",
+          "hymenium": "Borucuklar ve küçük gözenekler başlangıçta beyazdır; olgunlaştıkça sararır ve zamanla zeytin yeşiline döner. Ezildiğinde renk değiştirmez.",
+          "stipe": "Sap 7–18 cm uzunluğunda ve 3–8 cm kalınlığında, masif, fıçı veya soğan şeklinde şişkindir; kırmızımsı kahverengi veya devetüyü zemin üzerinde ince beyaz bir ağ deseni taşır.",
+          "flesh": "Etli kısım beyaz, kalın ve serttir; şapka kütikulasının hemen altında belirgin şarabi kırmızı veya kahverengimsi kırmızı bir çizgi yer alır. Kesildiğinde beyaz kalır. Hoş, fındıksı bir kokusu ve tatlımsı bir lezzeti vardır.",
+          "habitat": "Meyve gövdeleri mayıs ayından kasım sonuna kadar görülür. Asidik ve kumlu zeminli çam ormanlarında tek tek veya gruplar halinde yetişir.",
+          "sporePrint": "Zeytin kahverengisi. Sporlar mekiksi, pürüzsüz ve yaklaşık 14–18 × 4,5–6 μm boyutlarındadır.",
+          "uses": "Seçkin yemeklik bir mantardır. Boletus edulis gibi en kaliteli yemeklik mantarlardan biridir; taze olarak pişirilebilir veya kurutularak saklanabilir.",
+          "confusion": "Çörek mantarı (Boletus edulis) daha açık sarı-kahverengi şapkalıdır ve kütikula altında kırmızı çizgi taşımaz. Bronz çörek mantarı (Boletus aereus) koyu bronz-siyah şapkalıdır ve meşe altında çıkar.",
+          "notes": "2019 yılındaki bir değerlendirmede kararlı bir popülasyona sahip Asgari Endişe (Least Concern) kategorisinde sınıflandırılmıştır. Ağır metalleri biriktirme eğilimi vardır."
+    },
       sl: {
           "description": "Ektomikorizna goba borovih gozdov z značilnim temno rdečkastorjavim klobukom. Razširjena je v Evropi v iglastih gozdovih.",
           "cap": "Klobuk meri 8–25 cm v premeru, sprva je polkrožen, nato blazinasto izbočen. Je značilne temno rdečkastorjave, mahagonijeve do vijoličastorjave barve, z nagubano, včasih rahlo belkasto poprhnjeno površino.",
@@ -33124,9 +37356,43 @@ export const CATALOG = [
       uses: 'En läcker matsvamp av högsta kvalitet, i klass med vanlig stensopp. Köttet förblir fast och välsmakande vid tillagning och torkning.',
       confusion: 'Stensopp (Boletus edulis) har slätare, ljusare brun till kastanjebrun hatt och växer även med gran och bok. Gallsopp (Tylopilus felleus) har mörkt ådernät, rosa porer och är extremt bitter.',
       notes: 'En bedömning från 2019 klassar arten som livskraftig (Least Concern) med stabil populationsutveckling. I Tjeckien behandlas den som sårbar (Vulnerable).'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică robustă asociată cu pinii din pădurile temperate și boreale. Este răspândită în Europa, în special în regiunile nisipoase și montane.',
+      cap: 'Pălăria are 6–30 cm lățime (putând atinge 40 cm), foarte masivă, semisferică la început și apoi convexă. Cuticula este uscată, fin încrețită și catifelată, de culoare brun-roșiatică închisă, castanie sau purpurie-cafenie, adesea acoperită de o brumă fină albicioasă la exemplarele tinere.',
+      hymenium: 'Tuburile au 1,5–3 cm lungime, inițial albe, devenind galben-verzui și apoi măslinii. Porii sunt mici, rotunzi, inițial albi, devenind galbeni și ulterior măslinii, fără a se păta la atingere.',
+      stipe: 'Piciorul are 7–18 cm lungime și 4–10 cm grosime, extrem de robust, ovoidal sau bulbos, brun-roșiatic deschis, acoperit de o rețea fină roșiatică.',
+      flesh: 'Carnea este albă, densă și compactă, nuanțată cu brun-roșiatic chiar sub cuticula pălăriei. Mirosul este foarte plăcut, iar gustul este dulceag de nucă.',
+      sporePrint: 'Brun-măsliniu. Sporii sunt fusiformi, netezi, de 14–19 × 4,5–6 μm.',
+      habitat: 'Corpurile fructifere apar din mai până în noiembrie în păduri montane de pin și molid pe soluri acide și nisipoase.',
+      uses: 'Este o specie comestibilă de primă calitate (comestibil excelent), la fel de apreciată ca Boletus edulis în gastronomie.',
+      confusion: 'Hribul (Boletus edulis) are o pălărie mai deschisă, brun-gălbuie cu cuticula netedă și unsuroasă, și un picior mai palid acoperit de o rețea albă.'
+    },
+    bg: {
+      description: 'Едра ектомикоризна гъба, свързана предимно с борове (Pinus). Разпространена в иглолистните гори на Европа.',
+      cap: 'Гуглата е с диаметър 8–25 cm (понякога до 30 cm), изпъкнала до плоска, с характерен тъмночервено-кафяв до виненокафяв цвят с пурпурен оттенък. Повърхността е набръчкана и фино кадифена.',
+      hymenium: 'Тръбичките са бели в младост, след това пожълтяват и накрая стават маслиненозелени. Не променят цвета си при нараняване.',
+      stipe: 'Пънчето е масивно, дебело, клубенковидно до бъчвовидно, високо 7–15 cm и дебело 4–10 cm, кафеникаво-червеникаво, покрито с фино релефна белезникава до червеникава мрежичка.',
+      flesh: 'Месото е бяло, дебело и плътно, непосредствено под кожицата с виненочервен оттенък. При разрез остава бяло.',
+      sporePrint: 'Маслиненокафяв. Спорите са вретеновидни, гладки, около 14–18 × 4,5–5,5 μm.',
+      habitat: 'Плодните тела се появяват от май до ноември предимно в планински борови гори, по-рядко под смърч и бук.',
+      uses: 'Отлична ядлива гъба, високо ценена заради плътното си вкусно месо.',
+      confusion: 'Обикновената манатарка (Boletus edulis) има по-светлокафява гугла с бял ръб. Бронзовата манатарка (Boletus aereus) има тъмнокафява до черна гугла и расте в топлолюбиви дъбови гори.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/cam-boleti-boletus-pinophilus/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/%C3%87%C3%B6rek_mantar%C4%B1"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -33390,6 +37656,35 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/R%C3%B6dbrun_stensopp'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Boletus_pinophilus'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/boletus-pinophilus'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%BE%D0%B2%D0%B0_%D0%BC%D0%B0%D0%BD%D0%B0%D1%82%D0%B0%D1%80%D0%BA%D0%B0'
+        }
       ]
     },
     synonyms: ["Boletus pinicola (Vittad.) A. Venturi", "Boletus pinicola (Vittad.) Rea"]
@@ -33471,6 +37766,7 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 12,
     label: {
+      tr: "pisbolet mantarı",
       sl: "leponogi goban",
       hr: "lijeponogi vrganj",
       sr: "лепоноги вргањ",
@@ -33486,15 +37782,30 @@ export const CATALOG = [
       nl: 'Pronksteelboleet',
       da: 'skønfodet rørhat',
       no: 'besk rørsopp',
-      sv: 'bittersopp'
+      sv: 'bittersopp',
+      ro: 'hrib frumos',
+      bg: 'красива манатарка'
     },
     names: {
       en: ["scarlet-stemmed bolete", "bitter bolete"],
       sk: ["červienka"],
       es: ['boleto de pie elegante', 'hongo amargo'],
-      sv: ['skönfotad sopp', 'skönsopp']
+      sv: ['skönfotad sopp', 'skönsopp'],
+      ro: ['hrib cu picior frumos']
     },
     text: {
+      tr: {
+          "description": "İğne yapraklı ve geniş yapraklı ormanlarda yetişen ektomikorizal bir bolet türüdür. Akdeniz'den kuzeye doğru Avrupa genelinde, özellikle ılıman kuşakta ve dağlık bölgelerde yaygındır. Ayrıca Kafkaslar, Türkiye, Pakistan, Yunnan, Kore ve Tayvan'dan da kaydedilmiştir.",
+          "cap": "Şapka 3–20 cm genişliğinde olup nadiren 25 cm'ye ulaşabilir; başlangıçta yarım küre biçimlidir, daha sonra dışbükeyleşir ve zamanla düzleşir. Tebeşir beyazı, açık kül grisi veya soluk devetüyü rengindedir; yüzeyi kuru, mat ve başlangıçta ince kadifemsidir.",
+          "hymenium": "Borucuklar 3–20 mm uzunluğunda ve sapa doğru çentiklidir; limon sarısı veya yeşilimsi sarıdır ve berelendiğinde hızla maviye lekelenir. Gözenekler küçük, yuvarlak ve parlak sarıdır; dokunulduğunda anında maviye döner.",
+          "stipe": "Sap 3–15 cm uzunluğunda ve 1–5 cm kalınlığında, fıçı biçimli veya silindirik, tabana doğru şişkindir. Üst kısmı parlak sarı, orta ve alt kısmı canlı karmin kırmızısı veya kan kırmızısıdır; üzerinde belirgin, kabartılı beyaz veya kırmızımsı bir ağ deseni bulunur.",
+          "flesh": "Etli kısım beyazımsı, soluk krem veya açık sarıdır; tabanda genellikle kirli kırmızımsıdır. Kesildiği veya havayla temas ettiği anda hafif veya orta derecede maviye döner, ardından solar. Dayanılmaz derecede acı bir tada ve hafif asidik bir kokuya sahiptir.",
+          "habitat": "Meyve gövdeleri haziran ayından aralık ayına kadar, en çok temmuz-ekim aylarında görülür. Dağlık bölgelerde kayın, meşe, göknar ve ladin ormanlarında asidik veya kireçli topraklarda yetişir.",
+          "sporePrint": "Zeytin sarısı, zeytin kahverengisi veya tütün kahvesi. Sporlar mekiksi ile elipsoid, pürüzsüz ve yaklaşık 11–16 × 4,5–6 μm boyutlarındadır.",
+          "uses": "Yenmez. Zehirli değildir ancak aşırı acı tadı pişirmeyle kaybolmaz; tek bir örneği bile tüm yemeği yenmeyecek derecede acılaştırır.",
+          "confusion": "Caloboletus radicans sapında kırmızı renk taşımaz veya çok zayıf taşır. Zehirli şeytan mantarı (Rubroboletus satanas) kırmızı gözeneklere sahiptir.",
+          "notes": "Acı tadı büyük oranda kalopin ve O-asetilsiklokalopin A bileşiklerinden kaynaklanır."
+    },
       sl: {
           "description": "Ektomikorizna goba iglastih in bukovih gozdov z vpadljivo rdečim betom in grenkim mesom. Razširjena je v Evropi in Severni Ameriki.",
           "cap": "Klobuk meri 5–15 cm v premeru, sprva je polkrožen, kasneje blazinast. Je pepelnato sive, bledo usnjate do kredasto sivkaste barve, z gladko ali fino žametasto površino.",
@@ -33697,9 +38008,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar påträffas från juli till oktober i mykorrhiza med bok, ek, gran och ädelgran på sur till kalkhaltig mark.',
       uses: 'Oätlig på grund av sin mycket bittra smak, som orsakas av calopin och relaterade föreningar. Smaken försvinner inte vid kokning.',
       confusion: 'Djävulssopp (Rubroboletus satanas) har blodröda porer. Blodsopp (Neoboletus luridiformis) har mörkbrun hatt och mörkröda porer. Gallsopp (Tylopilus felleus) har rosa porer och saknar röd färg på foten.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică din pădurile de conifere și foioase pe soluri acide sau calcaroase. Răspândită în Europa și America de Nord.',
+      cap: 'Pălăria are 3–20 cm lățime, convexă la început și apoi pernițată. Cuticula este uscată, mată, fin catifelată la exemplarele tinere, de culoare cenușiu-deschisă, bej-cenușie sau cafeniu-palidă.',
+      hymenium: 'Tuburile au 0,5–2 cm adâncime, inițial galben-deschise, devenind galben-măslinii. Porii sunt mici, rotunzi, galben-lămâie strălucitori, virând rapid în albastru la atingere sau presare.',
+      stipe: 'Piciorul are 3–15 cm lungime și 1–5 cm grosime, robust, bulbos la început și apoi cilindric, galben-strălucitor în partea superioară și roșu-carmin intens spre bază, acoperit de o rețea albicioasă sau roșiatică.',
+      flesh: 'Carnea este albă până la crem-gălbuie în pălărie și roșiatică la baza piciorului, virând în albastru la secțiune. Mirosul este slab acrișor, iar gustul este extrem de amar.',
+      sporePrint: 'Brun-măsliniu. Sporii sunt alungiți-fusiformi, netezi, de circa 12–16 × 4,5–6 μm.',
+      habitat: 'Corpurile fructifere apar din iulie până în noiembrie în păduri montane de molid, brad și fag.',
+      uses: 'Ciuperca este necomestibilă (necomestibil) din cauza amărăciunii sale intense și persistente, care nu dispare prin fierbere.',
+      confusion: 'Caloboletus radicans are o pălărie albicioasă, piciorul complet galben fără roșu (sau doar cu o tentă slabă la bază) și crește la câmpie sub foioase. Buretele dracului (Rubroboletus satanas) are pori roșii ca sângele și miros fetid la maturitate.'
+    },
+    bg: {
+      description: 'Ектомикоризна гъба. Среща се в планинските иглолистни и широколистни гори на Европа върху кисели почви.',
+      cap: 'Гуглата е с диаметър 5–15 cm, белезникава, сиво-бежова до бледооловна, суха и фино кадифена.',
+      hymenium: 'Тръбичките и порите са наситено лимоненожълти до маслиненожълти, бързо посиняващи при натиск.',
+      stipe: 'Пънчето е масивно, високо 6–12 cm и дебело 2–5 cm, в горната част жълто, а надолу наситено карминеночервено до пурпурно, покрито с фина белезникава мрежичка.',
+      flesh: 'Месото е белезникаво до бледожълто, при разрез посинява (предимно в гуглата). Вкусът е силно горчив.',
+      sporePrint: 'Маслиненокафяв. Спорите са вретеновидни, гладки, около 12–16 × 4,5–5,5 μm.',
+      habitat: 'Плодните тела се развиват от юли до октомври под бук, смърч и ела.',
+      uses: 'Неядлива гъба поради силно горчивия вкус на месото, който се запазва и при готвене. Може да причини стомашно разстройство.',
+      confusion: 'Дяволската гъба (Rubroboletus satanas) има червени пори и расте на варовити почви в топли дъбови гори. Червеностъблената манатарка (Neoboletus luridiformis) има тъмнокафява гугла и червени пори.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/pisbolet-caloboletus-calopus/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Mantar"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -33983,6 +38328,30 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Bittersopp'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Caloboletus_calopus'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/caloboletus-calopus'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D0%B0_%D0%BC%D0%B0%D0%BD%D0%B0%D1%82%D0%B0%D1%80%D0%BA%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -34074,6 +38443,7 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 10,
     label: {
+      tr: "tüylübolet mantarı",
       sl: "polsteni goban",
       hr: "podstavljeni baršunovac",
       sr: "златача",
@@ -34089,7 +38459,9 @@ export const CATALOG = [
       nl: 'Fluweelboleet',
       da: 'filtet rørhat',
       no: 'sørlig fløyelsrørsopp',
-      sv: 'sammetssopp'
+      sv: 'sammetssopp',
+      ro: 'buza caprei',
+      bg: 'кадифена манатарка'
     },
     names: {
       en: [
@@ -34099,9 +38471,22 @@ export const CATALOG = [
         "yellow cracking bolete"
       ],
       sk: ["hríb plstnatý", "suchohríb plstený"],
-      es: ['boleto aterciopelado']
+      es: ['boleto aterciopelado'],
+      ro: ['hrib mic']
     },
     text: {
+      tr: {
+          "description": "Geniş yapraklı ve karışık ormanlarda yetişen ektomikorizal bir bolet türüdür. Avrupa genelinde yaygın olup ovalarda ve tepelerde sıktır; Asya, Kuzey Amerika, Avustralya ve Kuzey Afrika'dan da bildirilmiştir.",
+          "cap": "Şapka genellikle 3–12 cm genişliğinde olup nadiren 20 cm'ye ulaşabilir; başlangıçta yarım küre biçimlidir ve zamanla dışbükeyleşir. Zeytinsi kahverengi, sarımsı kahverengi veya taba rengidir; yüzeyi belirgin şekilde kadifemsi veya süet derisi gibidir; kuru havalarda bazen hafifçe çatlar.",
+          "hymenium": "Borucuklar parlak sarı veya krom sarısıdır, yaşlandıkça zeytin sarısına döner; gözenekler geniş, köşeli ve bileşiktir; berelendiğinde zayıfça ve yavaşça mavi-yeşile lekelenebilir.",
+          "stipe": "Sap 3–10 cm uzunluğunda ve 1–2,5 cm kalınlığında, silindirik veya tabana doğru daralan yapıdadır; sarımsı zemin üzerinde boyuna kırmızımsı-kahverengi lifler veya oluklar taşır; belirgin bir ağ deseni taşımaz.",
+          "flesh": "Etli kısım beyazımsı veya açık sarıdır; borucukların hemen üzerinde daha sarı, sap tabanında pembemsi veya pas rengindedir; kesildiğinde genellikle renk değiştirmez veya çok zayıf maviye dönebilir. Hoş, meyvemsi bir kokusu vardır.",
+          "habitat": "Meyve gövdeleri haziran ayından ekim sonuna kadar görülür. Meşe, kayın, kestane, huş ve çam ağaçlarının altında tek tek veya küçük gruplar halinde yetişir.",
+          "sporePrint": "Zeytin kahverengisi. Sporlar mekiksi ile elipsoid, pürüzsüz ve yaklaşık 10–14 × 4–5,5 μm boyutlarındadır.",
+          "uses": "Yenilebilir bir mantardır. Genç gövdeleri karışık yemeklerde ve güveçlerde lezzetlidir; kurutulmaya elverişlidir. Şapka derisi kadifemsi kaldığında dokusu yumuşaktır.",
+          "confusion": "Pas rengi süet boleti (Xerocomus ferrugineus) pas rengi şapkaya, parlak sarı gözeneklere ve tamamen beyaz, renk değiştirmeyen ete sahiptir. Kırmızı süet boleti (Hortiboletus rubellus) parlak kırmızı şapkalıdır.",
+          "notes": "Avrupa'da uzun süre Xerocomus ferrugineus ile karıştırılmıştır."
+    },
       sl: {
           "description": "Ektomikorizna goba listnatih in mešanih gozdov. Široko je razširjena v Evropi, Aziji in Severni Ameriki.",
           "cap": "Klobuk meri 4–12 cm v premeru, je polkrožen do zravnan. Je olivno rjave, rumenkastorjave ali sivoolivnordečkaste barve z značilno polsteno, žametasto površino, ki v suši lahko nekoliko razpoka.",
@@ -34303,9 +38688,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar växer från juli till oktober i mykorrhiza med lövträd, särskilt ek och bok, men även under barrträd.',
       uses: 'Ätlig matsvamp av god kvalitet, särskilt som ung. Den passar bra i blandsvampsrätter.',
       confusion: 'Rutsopp (Xerocomellus chrysenteron) spricker upp i ett tydligt rutmönster med rött kött synligt i sprickorna. Brunsopp (Imleria badia) har mörkare brun hatt och porer som blånar kraftigt vid tryck.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică comună din pădurile de foioase și mixte. Este larg răspândită în Europa, Asia și America de Nord.',
+      cap: 'Pălăria are 3–12 cm lățime, convexă la început și apoi aplatizată. Cuticula este uscată, fin pâsloasă sau catifelată, de culoare galben-măslinie, ocru-cafenie sau brun-gălbuie, crăpându-se uneori fin la secetă.',
+      hymenium: 'Tuburile au 0,5–1,5 cm adâncime, galbene-aurii la început și devenind galben-verzui. Porii sunt mari, unghiulari, galbeni-strălucitori, virând uneori slab în albăstrui-verzui la apăsare fermă.',
+      stipe: 'Piciorul are 3–10 cm lungime și 1–2,5 cm grosime, cilindric sau îngustat la bază, gălbui, fin brăzdat longitudinal cu nervuri brun-roșiatice, fără inel.',
+      flesh: 'Carnea este albicioasă până la galben-deschis în pălărie și brun-roșiatică în baza piciorului, neschimbându-se sau virând foarte slab în albăstrui chiar deasupra tuburilor. Mirosul este slab de fructe, iar gustul este plăcut.',
+      sporePrint: 'Brun-măsliniu. Sporii sunt fusiformi, netezi, de circa 11–14 × 4,5–5,5 μm.',
+      habitat: 'Corpurile fructifere apar din iunie până în noiembrie sub fagi, stejari, mesteceni și pini pe soluri nisipoase sau argiloase.',
+      uses: 'Este o specie comestibilă bună (comestibil). Se folosește în mâncăruri mixte sau uscată; exemplarele mature devin repede moi.',
+      confusion: 'Xerocomus ferrugineus are carnea complet albă neschimbătoare, inclusiv în baza piciorului, și miceliul bazal galben. Hribul murg (Imleria badia) are o pălărie brun-castanie și pori care se albăstresc intens la atingere.'
+    },
+    bg: {
+      description: 'Ектомикоризна гъба. Широко разпространена в широколистните и смесените гори на Европа и Северна Америка.',
+      cap: 'Гуглата е с диаметър 4–12 cm, маслиненокафява, жълтеникавокафява до охра-маслинена, суха, с фино кадифена повърхност.',
+      hymenium: 'Тръбичките са жълти, а порите са едри, ъгловати, ярко златистожълти, слабо и бавно посиняващи или позеленяващи при силен натиск.',
+      stipe: 'Пънчето е цилиндрично или изтъняващо в основата, жълтеникаво с надлъжни кафяви ребра или рехава мрежовидна шарка, високо 5–10 cm и дебело 1–2 cm.',
+      flesh: 'Месото е бледожълтеникаво до белезникаво, меко, при разрез почти не променя цвета си или едва забележимо синее в гуглата. Има приятен плодов аромат.',
+      sporePrint: 'Маслиненокафяв. Спорите са вретеновидни, гладки, около 11–14 × 4,5–5,5 μm.',
+      habitat: 'Плодните тела се срещат от юни до ноември под дъб, бук, бор и смърч.',
+      uses: 'Добра ядлива гъба в млада възраст, подходяща за супи и пържене.',
+      confusion: 'Xerocomellus chrysenteron има червеникав пласт под кожицата на гуглата и се напуква силно на полета. Канеленокафявата манатарка (Imleria badia) има тъмнокестенява гугла и интензивно посиняващи пори.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/tuylubolet-xerocomus-subtomentosus/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Mantar"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -34554,6 +38973,35 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Sammetssopp'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Xerocomus_subtomentosus'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/xerocomus-subtomentosus'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B4%D0%B8%D1%84%D0%B5%D0%BD%D0%B0_%D0%BC%D0%B0%D0%BD%D0%B0%D1%82%D0%B0%D1%80%D0%BA%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -34660,6 +39108,7 @@ export const CATALOG = [
     fruitingFrom: 5,
     fruitingTo: 11,
     label: {
+      tr: "kırk örgübacak mantarı",
       sl: "brezov turek",
       hr: "opekasti djed",
       sr: "брезов турчин",
@@ -34675,14 +39124,28 @@ export const CATALOG = [
       nl: 'Oranje berkenboleet',
       da: 'orange skælrørhat',
       no: 'rødskrubb',
-      sv: 'tegelsopp'
+      sv: 'tegelsopp',
+      ro: 'pitărcuță'
     },
     names: {
       en: ["dark-stalked bolete"],
       es: ['boleto de abedul naranja'],
-      sv: ['blek björksopp', 'tegelfärgad björksopp', 'tegelröd björksopp']
+      sv: ['blek björksopp', 'tegelfärgad björksopp', 'tegelröd björksopp'],
+      ro: ['roniță']
     },
     text: {
+      tr: {
+          "description": "Huş ağaçlarıyla (Betula) ektomikorizal ortaklık kuran bir mantardır. Britanya, İrlanda ve kıta Avrupası boyunca İskandinavya'dan güneyde İspanya ve İtalya'ya, doğuda Rusya'ya kadar yaygındır; Kuzey Amerika'da da bulunur.",
+          "cap": "Şapka 4–20 cm genişliğinde olup başlangıçta yarım küre biçimlidir, daha sonra dışbükeyleşir. Parlak turuncu, tilki sarısı veya kızıl kahverengidir; yüzeyi kuru, mat ve ince keçemsidir; kütikula kenarlarda belirgin şekilde aşağı sarkar.",
+          "hymenium": "Borucuklar 8–25 mm uzunluğunda, grimsi beyaz ile fare grisi renktedir; küçük gözenekler yaşlandıkça kahverengimsi griye döner ve berelendiğinde koyulaşır.",
+          "stipe": "Sap 8–22 cm uzunluğunda ve 2–5 cm kalınlığında, uzun, silindirik veya tabana doğru hafifçe kalınlaşandır. Beyaz zemin üzerinde boyuna dizilmiş belirgin, sert ve siyahımsı pullarla (örgübacak deseni) kaplıdır.",
+          "flesh": "Etli kısım beyaz ve gençken serttir; kesildiği anda önce pembemsi kırmızıya veya şarabi renge döner, ardından koyu morumsu gri veya siyahımsı bir hal alır; sap tabanında mavi-yeşil lekeler oluşabilir.",
+          "habitat": "Meyve gövdeleri mayıs ayından kasım ayına kadar görülür. Özellikle huş ağaçlarının altında, fundalıklarda ve turbalık kenarlarında tek tek veya küçük gruplar halinde yetişir.",
+          "sporePrint": "Aşıboyası kahverengisi veya zeytin kahverengisi. Sporlar dar mekiksi, pürüzsüz ve yaklaşık 12,5–16 × 4–5 μm boyutlarındadır.",
+          "uses": "Seçkin yemeklik bir mantardır. Pişirildiğinde eti siyahlaşır ancak çok lezzetlidir. Çiğ veya az pişmiş tüketilmesi şiddetli sindirim rahatsızlığına yol açabileceğinden en az 15–20 dakika iyice pişirilmelidir.",
+          "confusion": "Pullu örgübacak mantarı (Leccinum scabrum) kahverengi şapkalıdır ve eti kesildiğinde renk değiştirmez. Som örgübacak mantarı (Leccinum aurantiacum) meşe altında yetişir.",
+          "notes": "DNA analizleri ışığında Leccinum cerinum ve Leccinum percandidum gibi taksonlar bu türün sinonimleri veya formları olarak değerlendirilmektedir."
+    },
       sl: {
           "description": "Ektomikorizna goba, strogo vezana na breze. Pogosta je v severni in srednji Evropi ter severni Aziji.",
           "cap": "Klobuk meri 6–20 cm v premeru, sprva je polkrožen, nato blazinasto izbočen. Je živo oranžne, oranžnorumene do oker oranžne barve, s fino žametasto površino in kožico, ki visi čez rob klobuka.",
@@ -34885,9 +39348,43 @@ export const CATALOG = [
       uses: 'En god och mycket populär matsvamp. Den måste tillagas ordentligt (minst 15–20 minuters genomstekning eller kokning), då råa strävsoppar orsakar illamående och magbesvär.',
       confusion: 'Björksopp (Leccinum scabrum) har gråbrun hatt och kött som inte ändrar färg vid snitt. Aspsopp (Leccinum aurantiacum) växer med ek eller asp och har bruna fotfjäll.',
       notes: 'En bedömning från 2025 klassar arten som livskraftig (Least Concern) med stor och stabil population.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică mare strict asociată cu mestecenii. Comună în regiunile temperate și nordice din Europa și Asia.',
+      cap: 'Pălăria are 4–20 cm lățime, semisferică și apoi pernițată. Cuticula este uscată, fin pâsloasă, de culoare portocaliu-cărămizie intensă, depășind marginea pălăriei printr-o membrană subțire răsfrântă.',
+      hymenium: 'Tuburile au 1–2,5 cm lungime, albicioase până la cenușiu-deschis. Porii sunt mărunți, rotunzi, cenușii-deschiși, devenind brun-cenușii odată cu vârsta.',
+      stipe: 'Piciorul are 8–20 cm lungime și 2–5 cm grosime, robust, cilindric sau îngroșat la bază, albicios, acoperit dens cu solzișori aspri mici, negri încă din tinerețe.',
+      flesh: 'Carnea este albă și tare în tinerețe, virând rapid la tăiere mai întâi în roz-violet, apoi în gri-albăstrui și în final în negru-purpuriu. Mirosul și gustul sunt foarte plăcute.',
+      sporePrint: 'Brun-ocru. Sporii sunt fusiformi, netezi, de 13–16 × 4–5 μm.',
+      habitat: 'Corpurile fructifere apar din mai până în noiembrie exclusiv sub mesteceni (Betula), în păduri, turbării și liziere.',
+      uses: 'Este o specie comestibilă bună (comestibil) după o preparare termică completă; carnea se înnegrește caracteristic în timpul gătirii.',
+      confusion: 'Buretele călugăresc (Leccinum scabrum) crește de asemenea sub mesteacăn, dar are o pălărie brună și carnea nu își schimbă culoarea în negru la tăiere. Hriba de plop (Leccinum aurantiacum) crește sub plopi sau stejari și are solzișorii de pe picior bruni-roșiatici în tinerețe.'
+    },
+    bg: {
+      description: 'Ектомикоризна гъба от род Leccinum (брезовки), свързана с брези (Betula). Разпространена в северните и планинските райони на Европа.',
+      cap: 'Гуглата е с диаметър 4–20 cm, полукълбовидна до изпъкнала, ярко оранжева до жълтеникаво-оранжева. Кожицата е суха, слабо овласинена, надвисваща над тръбичките по ръба.',
+      hymenium: 'Тръбичките са сиво-бели до мишесиви или кафяво-сиви, дълги 8–25 mm, с дребни сивкави пори.',
+      stipe: 'Пънчето е стройно и масивно, високо 8–22 cm и дебело 2–4 cm (понякога до 7 cm в основата), белезникаво, гъсто покрито с контрастни сиво-черни до черни люспици.',
+      flesh: 'Месото е бяло, плътно, като при разрез се оцветява първо в розово или червеникаво, след това бързо става сиво-виолетово до сиво-черно. Има мек вкус и приятен аромат.',
+      sporePrint: 'Охренокафяв до маслиненокафяв. Спорите са вретеновидни, гладки, около 12–16 × 4–5 μm.',
+      habitat: 'Плодните тела се срещат от май до ноември поединично или на групи в планински брезови гори и торфища.',
+      uses: 'Добра ядлива гъба след задължително продължително готвене. При термична обработка месото почернява.',
+      confusion: 'Обикновената брезовка (Leccinum scabrum) има кафява гугла и месото ѝ не потъмнява до черно.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/kirk-orgubacak-leccinum-versipelle/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/%C3%87%C3%B6rek_mantar%C4%B1"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -35128,6 +39625,30 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Tegelsopp'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Leccinum_versipelle'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/leccinum-versipelle/'
+        }
       ]
     },
     synonyms: [
@@ -35228,6 +39749,7 @@ export const CATALOG = [
     fruitingFrom: 5,
     fruitingTo: 10,
     label: {
+      tr: "sert örgübacak mantarı",
       sl: "trdikasti ded",
       hr: "topolov djed",
       sr: "јабланов дед",
@@ -35243,10 +39765,23 @@ export const CATALOG = [
       nl: 'Harde populierboleet',
       da: 'poppel-skælrørhat',
       no: 'brun ospeskrubb',
-      sv: 'brun aspsopp'
+      sv: 'brun aspsopp',
+      ro: 'pitărcuță dură'
     },
     names: { es: ['boleto de los chopos', 'faisán'] },
     text: {
+      tr: {
+          "description": "Kavak ve titrek kavak (Populus) ağaçlarıyla ektomikorizal ortaklık kuran bir mantardır. Ilıman Avrupa genelinde Britanya'dan İskandinavya'ya, Güney Avrupa'dan Sibirya'ya kadar yaygındır.",
+          "cap": "Şapka 4–16 cm genişliğinde olup başlangıçta yarım küre biçimlidir, daha sonra dışbükeyleşir ve düzleşir. Grimsi kahverengi, soluk taba rengi veya koyu duman kahverengisidir; yüzeyi kuru, kadifemsi ve yaşlandıkça pürüzsüzleşir.",
+          "hymenium": "Borucuklar 10–30 mm uzunluğunda olup sapa yakın çöküktür; gözenekler küçük, başlangıçta kirli beyaz veya soluk krem iken yaşla birlikte grimsi devetüyü tona döner ve berelendiğinde kahverengi lekelenir.",
+          "stipe": "Sap 5–18 cm uzunluğunda ve 1,5–4 cm kalınlığında, kalın, sert, silindirik veya tabanda soğan gibi şişkindir. Beyaz zemin üzerinde boyuna dizilmiş koyu kahverengi veya siyahımsı pullar taşır.",
+          "flesh": "Etli kısım kalın, son derece sert ve beyazdır; kesildiğinde hızla somon pembesi veya kırmızımsı-mor bir ton alır, daha sonra koyu griye ve siyaha döner; sap tabanında parlak mavi-yeşil lekeler belirir. Hoş bir kokusu ve tatlımsı bir tadı vardır.",
+          "habitat": "Meyve gövdeleri haziran ayından kasım ayına kadar görülür. Kavak ağaçlarının (özellikle ak kavak ve titrek kavak) altında, yol kenarlarında ve parklarda yetişir.",
+          "sporePrint": "Kahverengi veya zeytin kahverengisi. Sporlar mekiksi ile silindirik, pürüzsüz ve yaklaşık 13–17 × 4,5–6 μm boyutlarındadır.",
+          "uses": "Seçkin yemeklik bir mantardır. Sert ve sıkı et dokusu pişirildiğinde formunu çok iyi korur; diğer Leccinum türlerinde olduğu gibi çiğ tüketilmemeli, iyice pişirilmelidir.",
+          "confusion": "Pullu örgübacak mantarı (Leccinum scabrum) huş altında yetişir, daha yumuşak etlidir, eti kesildiğinde renk değiştirmez ve sap tabanında mavi-yeşil lekeler oluşturmaz.",
+          "notes": "Tür epiteti olan duriusculum, mantarın etli kısmının ve sapının sertliğine işaret eder."
+    },
       sl: {
           "description": "Ektomikorizna goba z izjemno čvrstim mesom. Raste v sožitju s trepetlikami in topoli v Evropi in Aziji.",
           "cap": "Klobuk meri 5–15 cm v premeru, sprva je polkrožen, kasneje blazinast. Je sivorjave, rjavkasto sive do temno rjave barve, suh in fino polsten.",
@@ -35450,9 +39985,44 @@ export const CATALOG = [
       uses: 'En god och fast matsvamp som behåller sin fina konsistens vid tillagning. Kräver grundlig upphettning precis som andra strävsoppar.',
       confusion: 'Björksopp (Leccinum scabrum) har mjukare kött som inte missfärgas vid snitt och växer uteslutande med björk.',
       notes: 'En bedömning från 2025 klassar arten som livskraftig (Least Concern) med stabil population.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică compactă asociată cu plopul tremurător (Populus tremula) și alți plopi. Este frecventă în Europa.',
+      cap: 'Pălăria are 4–16 cm lățime, semisferică la început și apoi convexă, foarte cărnoasă și fermă. Cuticula este fin catifelată la uscăciune, devenind unsuroasă la umezeală, de culoare brun-cenușie, brun-deschisă sau cafeniu-închisă.',
+      hymenium: 'Tuburile au 1–3 cm lungime, albicioase la început și devenind cenușii-crem. Porii sunt mărunți, rotunzi, albicioși, pătându-se în brun la atingere.',
+      stipe: 'Piciorul are 6–18 cm lungime și 1,5–4 cm grosime, robust, plin și tare, albicios, acoperit dens cu solzișori mici bruni sau negricioși, având adesea pete albastru-verzui caracteristice la bază.',
+      flesh: 'Carnea este albă și rămâne tare și compactă mult timp. La tăiere virează mai întâi în roz-somon sau roz-vinaceu și apoi în gri-negricios, baza piciorului prezentând o zonă verde-albăstruie. Mirosul și gustul sunt plăcute.',
+      sporePrint: 'Brun-ocru. Sporii sunt fusiformi, de 13–17 × 4,5–5,5 μm.',
+      habitat: 'Corpurile fructifere apar din iunie până în noiembrie sub plopi tremurători și plopi albi, pe soluri argiloase sau calcaroase.',
+      uses: 'Este o specie comestibilă excelentă (comestibil excelent), extrem de apreciată datorită cărnii sale dense și ferme care nu se înmoaie la fel de repede ca la alte specii de Leccinum.',
+      confusion: 'Buretele călugăresc (Leccinum scabrum) crește sub mesteacăn, are carnea mult mai moale și spongioasă și nu virează în roz și apoi în negricios la tăiere.'
+    },
+    bg: {
+      description: 'Ектомикоризна гъба от род Leccinum, свързана с тополи и трепетлики (Populus). Разпространена в широколистните гори на Европа.',
+      cap: 'Гуглата е с диаметър 4–16 cm (достигаща до 20–25 cm), първоначално полукълбовидна, после изпъкнала до плоска. Цветът е сивокафяв, опушенокафяв до кестеняв. Повърхността е кадифена при сухи условия и лепкава при дъжд.',
+      hymenium: 'Тръбичките са белезникави до кремави, с дребни сивкави пори, покафеняващи при натиск.',
+      stipe: 'Пънчето е цилиндрично или задебелено в средата, високо 5–20 cm и дебело 1–5 cm, бяло, покрито с фини чернеещи люспици, често със синьо-зеленикави петна в основата.',
+      flesh: 'Месото е бяло, много плътно и твърдо в младост, като при разрез порозовява в гуглата, става сиво-виолетово, а в основата на пънчето – синьо-зелено, потъмняващо накрая до черно.',
+      sporePrint: 'Маслиненокафяв. Спорите са вретеновидни, гладки, около 13–17 × 4,5–6 μm.',
+      habitat: 'Плодните тела израстват от май до октомври под бели тополи, трепетлики и черни тополи в гори и паркове.',
+      uses: 'Отлична ядлива гъба след цялостна термична обработка, ценена заради твърдото си месо.',
+      confusion: 'Обикновената брезовка (Leccinum scabrum) расте под бреза и има по-меко месо, което не се оцветява в синьо-зелено в основата на пънчето.',
+      notes: 'Оценка от 2025 г. класифицира вида като незастрашен (Least Concern).'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/som-orgubacak-leccinum-aurantiacum/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/%C3%87%C3%B6rek_mantar%C4%B1"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -35719,6 +40289,30 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Brun_aspsopp'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Leccinum_duriusculum'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/leccinum-duriusculum/'
+        }
       ]
     },
     synonyms: [
@@ -35803,6 +40397,7 @@ export const CATALOG = [
     fruitingFrom: 8,
     fruitingTo: 11,
     label: {
+      tr: "mermer mantarı",
       sl: "zleknjena školjkarica",
       hr: "bjelouškasta krikonoška",
       lt: "kriauklinė baltė",
@@ -35816,13 +40411,26 @@ export const CATALOG = [
       es: 'ala de ángel',
       da: 'kridthat',
       no: 'krittøsterssopp',
-      sv: 'öronmussling'
+      sv: 'öronmussling',
+      ro: 'aripi de înger'
     },
     names: {
       en: ["angel wing"],
       es: ['espátula blanca']
     },
     text: {
+      tr: {
+          "description": "Çürüyen iğne yapraklı ağaç kütüklerinde beyaz çürüklüğe yol açan odun çürüten saprofit bir mantardır. Kuzey Yarımküre'nin ılıman ve boreal ormanlarında, özellikle yaşlı ladin, köknar ve baldıran ormanlarında yetişir.",
+          "cap": "Şapka 2–8 cm genişliğinde olup yelpaze, istiridye veya melek kanadı biçimindedir; tabandan öne doğru uzar. Saf beyaz veya fildişi renklidir; yüzeyi pürüzsüz, ipeksi ve nemli havalarda yarı saydamdır; kenarları ince ve dalgalıdır.",
+          "hymenium": "Lameller sık, ince, dar ve sapa doğru sarkar; saf beyaz renktedir.",
+          "stipe": "Belirgin bir sapı yoktur; doğrudan çürüyen kütüğe yanal ve dar bir tabanla tutunur.",
+          "flesh": "Etli kısım son derece ince, narin, beyaz ve kırılgandır. Hafif mantarımsı hoş bir kokusu vardır.",
+          "habitat": "Meyve gövdeleri sonbaharda, özellikle eylül ayından kasım sonuna kadar görülür. İğne yapraklı ağaçların yosunlu çürük kütüklerinde ve devrilmiş gövdelerinde üst üste binen kümeler halinde yetişir.",
+          "sporePrint": "Beyaz. Sporlar küremsi ile yarı küremsi, pürüzsüz ve yaklaşık 5,5–7 × 5–6 μm boyutlarındadır.",
+          "uses": "Ölümcül zehirlidir. Uzun yıllar boyunca bazı ülkelerde (özellikle Japonya'da) yenilebilir olarak toplanmış olsa da, 2004 yılında Japonya'da kitlesel akut ensefalopati (beyin iltihabı) salgınına ve çok sayıda ölüme yol açtığı saptanmıştır. Özellikle böbrek rahatsızlığı olanlarda ve yaşlılarda ölümcül beyin hasarına neden olan toksinler içerir; kesinlikle tüketilmemelidir.",
+          "confusion": "Yenilebilir kavak mantarı (Pleurotus ostreatus) çok daha büyük, etli ve kalındır, geniş yapraklılarda yetişir ve gri-kahverengi şapkalıdır. Yumuşak kulakçık mantarı (Crepidotus mollis) geniş yapraklılarda yetişir ve kahverengi spor izi taşır.",
+          "notes": "İçerdiği pleurotsibellin amino asidi ve toksik bileşiklerin beyin hücrelerinde demiyelinizasyona yol açtığı tespit edilmiştir."
+    },
       sl: {
           "description": "Lesna saprotrofna goba bele barve, ki raste na odmrlem lesu iglavcev v severnih in gorskih gozdovih.",
           "cap": "Klobuk meri 2–8 cm v premeru, je lopataste, ledvičaste ali angelskim krilcem podobne oblike, snežno bele barve, tanek, prosojen in z gladko površino.",
@@ -36025,9 +40633,43 @@ export const CATALOG = [
       uses: 'Giftig. Svampen betraktades länge som ätlig, men orsakade hösten 2004 ett flertal dödsfall i Japan genom akut encefalopati (hjärnskada), särskilt hos personer med nedsatt njurfunktion. Den innehåller den toxiska aminosyran pleurocybellaziridin.',
       confusion: 'Ostronmussling (Pleurotus ostreatus) är större, kraftigare, växer på lövved och har grå till gråbrun hatt med kort sidoställd fot.',
       notes: 'I Polen bedöms arten som sårbar (Vulnerable). Sambandet mellan pleurocybellaziridin och andra komponenter i svampen studeras fortfarande.'
+    },
+    ro: {
+      description: 'Ciupercă saprotrofă ce cauzează putregai alb pe lemn putred de conifere în păduri montane și boreale. Este răspândită în emisfera nordică (Europa, Asia, America de Nord).',
+      cap: 'Pălăria are 2–10 cm lățime, fiind foarte subțire, flexibilă și delicată, în formă de limbă, spatulă sau aripă deschisă. Este de un alb pur permanent sau alb-fildeș, devenind translucidă pe vreme umedă.',
+      hymenium: 'Lamelele sunt dese, foarte înguste, albe până la crem-deschis la bătrânețe, decurente spre punctul de atașare.',
+      stipe: 'Piciorul lipsește complet sau este redus la un mic peduncul alb lateral.',
+      flesh: 'Carnea este albă, foarte subțire și fragilă. Mirosul și gustul sunt plăcute, discrete.',
+      sporePrint: 'Alb. Sporii sunt sferici până la ovali, netezi, de circa 5–7 × 4,5–6 μm.',
+      habitat: 'Corpurile fructifere apar din august până în noiembrie în grupuri imbricate pe buturugi și trunchiuri bătrâne de molid, brad și pin.',
+      uses: 'Deși a fost considerată comestibilă în trecut, a provocat intoxicații encefalopatice acute și decese în Japonia (în special la persoane cu afecțiuni renale preexistente); în prezent este clasificată ca otrăvitoare sau de evitat (otrăvitor).',
+      confusion: 'Păstrăvul de fag (Pleurotus ostreatus) are carnea mult mai groasă și cărnoasă, nuanțe cenușii-albăstrui sau brunii pe pălărie și crește pe lemn de foioase.'
+    },
+    bg: {
+      description: 'Сапротрофна дървесна гъба, развиваща се по гниеща иглолистна дървесина в умерените и бореалните райони на Северното полукълбо.',
+      cap: 'Плодното тяло е с диаметър 2–10 cm, много тънко, раковиновидно, езиковидно или ветриловидно, чисто бяло до кремавобяло. Повърхността е гладка, копринена при изсъхване.',
+      hymenium: 'Ламелите са чисто бели, много тесни, гъсти, спускащи се към точката на прикрепване.',
+      stipe: 'Пънче липсва или е представено от къса бяла странична основа.',
+      flesh: 'Месото е чисто бяло, изключително тънко, полупрозрачно при овлажняване, без особена миризма.',
+      sporePrint: 'Бял. Спорите са почти закръглени до широко елипсовидни, гладки, 5,5–7 × 4,5–6 μm.',
+      habitat: 'Плодните тела се появяват през есента на групи върху гниещи пънове и повалени стволове на смърч, ела и бор.',
+      uses: 'Отровна гъба. Макар в миналото в Япония да е била считана за ядлива, през 2004 г. там предизвика масови смъртоносни отравяния с остра прогресираща енцефалопатия, особено при хора с предшестващи бъбречни заболявания.',
+      confusion: 'Обикновената кладница (Pleurotus ostreatus) има много по-дебело сивкаво месо и расте предимно по широколистна дървесина.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/mermer-mantari-pleurocybella-porrigens/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Mantar"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -36287,6 +40929,18 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/%C3%96ronmussling'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Pleurocybella_porrigens'
+        }
       ]
     },
     synonyms: [
@@ -36392,6 +41046,18 @@ export const CATALOG = [
       ]
     },
     text: {
+      tr: {
+          "description": "Ölümcül zehirli ve ektomikorizal bir mantardır. Kuzey Amerika'nın doğusunda meşe, kayın ve çam ormanlarında yaygındır; kıtanın en ölümcül mantarlarından biridir.",
+          "cap": "Şapka 3–10 cm genişliğinde olup başlangıçta yarım küre biçimlidir, daha sonra dışbükeyleşir ve zamanla düzleşir; saf beyaz veya soluk fildişi renklidir; pürüzsüz ve nemli havalarda yapışkandır.",
+          "hymenium": "Lameller serbest, sık, kalabalık ve kalıcı olarak saf beyazdır.",
+          "stipe": "Sap 6–14 cm uzunluğunda ve 0,5–1,5 cm kalınlığında, saf beyaz, silindirik ve tabanda soğan gibi şişkindir. Üst kısımda ince, zar yapısında, yırtılabilen beyaz bir halka bulunur; tabanda ise torba şeklinde beyaz bir volva yer alır.",
+          "flesh": "Etli kısım ince, yumuşak ve beyazdır; kesildiğinde renk değiştirmez. KOH uygulandığında dokuları anında parlak altın sarısına döner.",
+          "habitat": "Meyve gövdeleri yaz ve sonbahar aylarında görülür. Meşe, kayın, huş ve çam ağaçlarının altında tek tek veya küçük dağınık gruplar halinde yetişir.",
+          "sporePrint": "Beyaz. Sporlar küremsi ile yarı küremsi, pürüzsüz, amiloid ve yaklaşık 7,5–10 × 6,5–8,5 μm boyutlarındadır; bazidiyumlar karakteristik olarak sadece iki spor taşır.",
+          "uses": "Ölümcül zehirlidir. Yüksek konsantrasyonlarda amatoksin içerir. Tüketildiğinde şiddetli karaciğer ve böbrek iflasına yol açarak ölüme neden olur; pişirme, kurutma veya dondurma toksinleri yok etmez.",
+          "confusion": "Ölüm meleği mantarı (Amanita virosa) kaba pullu bir sapa ve 4 sporlu bazidiyumlara sahiptir. Beyaz köygöçüren (Amanita phalloides f. alba) zeytinsi tonlar barındırabilir ve KOH ile sararmaz.",
+          "notes": "2025 yılındaki bir değerlendirmede Asgari Endişe (Least Concern) kategorisinde listelenmiştir. İki sporlu bazidiyumları mikroskobik olarak en belirgin özelliğidir."
+    },
       sl: {
           "description": "Smrtno strupena ektomikorizna goba vzhodne Severne Amerike. Je ena od severnoameriških belih mušnic, znanih kot uničevalni angel (destroying angel).",
           "cap": "Klobuk meri 3–10 cm v premeru, je polkrožen do zravnan, povsem bele barve, v vlažnem vremenu lepljiv, suh pa gladek in svetleč.",
@@ -36595,9 +41261,44 @@ export const CATALOG = [
       uses: 'Dödligt giftig. Innehåller dödliga koncentrationer av amatoxiner som leder till akut leversvikt.',
       confusion: 'Vit flugsvamp (Amanita virosa) och Amanita verna har fyrsporiga basidier och mer ovala sporer.',
       notes: 'En global rödlistebedömning från 2025 placerar arten som livskraftig (Least Concern).'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică mortală din pădurile de foioase și conifere din America de Nord, cunoscută acolo sub denumirea de înger distrugător.',
+      cap: 'Pălăria are 3–12 cm lățime, inițial ovoidală sau convexă, apoi aplatizată. Este de un alb imaculat, netedă, uscată sau ușor lipicioasă la umezeală.',
+      hymenium: 'Lamelele sunt libere, dese, albe permanent.',
+      stipe: 'Piciorul are 6–14 cm lungime și 0,5–2 cm grosime, alb, adesea fibros-scămos. Poartă un inel membranos alb atârnător în partea superioară. Baza este bulboasă și cuprinsă într-o volvă saciformă albă.',
+      flesh: 'Carnea este albă, subțire, neschimbătoare la tăiere. O picătură de hidroxid de potasiu (KOH) aplicată pe carne sau cuticulă produce instantaneu o reacție galben-aurie intensă.',
+      sporePrint: 'Alb. O trăsătură microscopică definitorie este că bazidiile sale poartă doar câte doi spori (bisporice), spre deosebire de majoritatea speciilor de Amanita care au patru spori.',
+      habitat: 'Corpurile fructifere apar din iulie până în octombrie pe sol în păduri de stejar, fag și pin din America de Nord.',
+      uses: 'Ciuperca este mortală (mortal). Conține cantități mari de amatoxine fatale ce distrug ficatul și rinichii.',
+      confusion: 'Amanita virosa are bazidii tetrasporice (cu patru spori) și crește în Europa. Buretele primăvăratic (Amanita verna) este de asemenea alb și mortal, dar este o specie europeană.'
+    },
+    bg: {
+      description: 'Смъртоносно отровна ектомикоризна гъба от род Amanita, разпространена в източната част на Северна Америка.',
+      cap: 'Гуглата е с диаметър 2,5–13 cm, яйцевидна в началото, после изпъкнала до плоска, чисто бяла, гладка, леко лепкава при влажно време.',
+      hymenium: 'Ламелите са чисто бели, свободни и гъсти, не променящи цвета си.',
+      stipe: 'Пънчето е бяло, високо 5,5–14 cm и дебело 0,5–2 cm, плътно, с фино влакнеста повърхност, висящо ципесто бяло пръстенче и торбовидна бяла волва в основата.',
+      flesh: 'Месото е бяло, неизменящо се при нараняване. При третиране с разтвор на калиева основа (KOH) веднага се оцветява в ярко златистожълто.',
+      sporePrint: 'Бял. Спорите са сферични до почти закръглени, гладки, амилоидни, около 8–10 × 7–9 μm; базидиите са двуспорови.',
+      habitat: 'Плодните тела се появяват през лятото и есента под дъб, бук и борове в Северна Америка.',
+      uses: 'Смъртоносно отровна гъба, един от най-токсичните видове мухоморки в Северна Америка. Съдържа летални концентрации на аматоксини.',
+      confusion: 'Amanita virosa има четириспорови базидии и по-рошаво пънче. Amanita ocreata се среща в западната част на Северна Америка и има елипсовидни спори.',
+      notes: 'Оценка от 2025 г. класифицира глобалния ѝ статус като незастрашен (Least Concern).'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/olum-melegi-amanita-virosa/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Amanita_bisporigera"
+          }
+    ],
       sl: [
           {
                 "group": "text",
@@ -36745,6 +41446,18 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://en.wikipedia.org/wiki/Amanita_bisporigera'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'MycoBank',
+          href: 'https://www.mycobank.org/page/Name%20details%20page/name/Amanita%20bisporigera'
+        },
+        {
+          group: 'text',
+          name: 'Index Fungorum',
+          href: 'https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=119426'
+        }
       ]
     },
     synonyms: ["Amanitina bisporigera (G.F. Atk.) E.-J. Gilbert"]
@@ -36825,6 +41538,7 @@ export const CATALOG = [
     fruitingFrom: 7,
     fruitingTo: 11,
     label: {
+      tr: "ölümcül pullu mantar",
       sl: "mesnorjavi dežniček",
       hr: "mesnatosmeđa štitarka",
       lt: "rudarausvė žvynabudėlė",
@@ -36835,13 +41549,26 @@ export const CATALOG = [
       es: 'lepiota mortal',
       nl: 'Gegordelde parasolzwam',
       da: 'brunrød parasolhat',
-      sv: 'bandad giftfjällskivling'
+      sv: 'bandad giftfjällskivling',
+      bg: 'червено-кафява сърнелка'
     },
     names: {
       en: ["flesh-brown parasol", "deadly parasol"],
       es: ['mucerón']
     },
     text: {
+      tr: {
+          "description": "Zengin topraklarda yaşayan saprofit bir mantardır. Ilıman Avrupa ve Asya'da parklarda, bahçelerde, çayırlarda ve yol kenarlarında yaygındır; Akdeniz iklimini ve sıcak yaz-sonbahar aylarını tercih eder.",
+          "cap": "Şapka 2–7 cm genişliğinde olup başlangıçta yarım küre veya çan biçimlidir, daha sonra dışbükeyleşir ve düzleşir; ortasında silik bir tümsek bulunur. Beyazımsı veya pembe zemin üzerinde konsantrik olarak dizilmiş koyu kahverengi, kırmızımsı kahverengi veya şarabi pullarla kaplıdır.",
+          "hymenium": "Lameller serbest, sık, başlangıçta beyaz, zamanla krem rengidir.",
+          "stipe": "Sap 2–5 cm uzunluğunda ve 5–10 mm kalınlığında, silindirik, tabanda hafifçe şişkindir. Ortasında koyu renkli lifli bir halka kuşağı bulunur; bu halkanın altındaki sap yüzeyi şapkayla aynı koyu şarabi-kahverengi pullarla kaplıdır.",
+          "flesh": "Etli kısım ince, beyazdır; şapkanın altında ve sap tabanında şarabi pembe tonlar alır. Meyvemsi hoş bir kokusu vardır.",
+          "habitat": "Meyve gövdeleri temmuz ayından kasım ayına kadar görülür. Parklarda, çimenliklerde, bahçelerde, yol kenarlarında ve orman açıklıklarında tek tek veya küçük kümeler halinde yetişir.",
+          "sporePrint": "Beyaz. Sporlar elipsoid, pürüzsüz, dekstrinoid ve yaklaşık 7–10 × 4–5 μm boyutlarındadır.",
+          "uses": "Ölümcül zehirlidir. Ölümcül amatoksinleri son derece yüksek konsantrasyonda içerir; küçük bir mantarın dahi tüketilmesi karaciğer ve böbrek yetmezliğine yol açarak ölüme neden olur.",
+          "confusion": "Yenilebilir Marasmius oreades pürüzsüz şapkalıdır ve pullu değildir. Büyük şemsiye mantarları (Macrolepiota procera) çok daha büyüktür ve serbest kayan halkaya sahiptir.",
+          "notes": "Lepiota cinsi içerisindeki en zehirli ve ölümcül türlerden biridir."
+    },
       sl: {
           "description": "Smrtno strupena saprotrofna goba manjših dimenzij. Razširjena je v Evropi in delih Azije v parkih, na travnikih in ob poteh.",
           "cap": "Klobuk meri 2–6 cm v premeru, sprva je polkrožen, nato zravnan z nizko grbo. Na rožnatobeli podlagi je gosto prekrit s temno rjavimi do vinsko rjavkastimi luskicami, zgoščenimi na osredju.",
@@ -37042,9 +41769,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar bildas från sensommaren till hösten i parker, trädgårdar, vägrenar och öppna gräsmarker på kalkrik och sandig mark.',
       uses: 'Dödligt giftig. Innehåller höga halter av amatoxiner som kan orsaka dödlig leversvikt redan vid mycket små mängder.',
       confusion: 'Stolt fjällskivling (Macrolepiota procera) är mycket större och har en tjock, rörlig dubbelring och vattrad fot. Rodnande fjällskivling är också betydligt större.'
+    },
+    ro: {
+      description: 'Ciupercă saprotrofă mică și mortală ce crește pe sol în parcuri, grădini, liziere și pășuni. Este răspândită în Europa și Asia.',
+      cap: 'Pălăria are 2–7 cm lățime, convexă la început și apoi aplatizată cu un mamelon central obtuz. Cuticula se rupe în solzișori mărunți, brun-roșiatici, purpurii-vinacei sau roz-castanii, concentrați spre centru pe un fond albicios.',
+      hymenium: 'Lamelele sunt libere, dese, albe până la crem-palid.',
+      stipe: 'Piciorul are 2–5 cm lungime și 0,5–1 cm grosime, cilindric, albicios deasupra zonei inelare și acoperit sub inel cu solzișori brun-roșiatici similari cu cei de pe pălărie.',
+      flesh: 'Carnea este subțire, albă în pălărie și devenind roz-vinacee în picior. Mirosul este dulceag și fructat.',
+      sporePrint: 'Alb. Sporii sunt elipsoidali, dextrinoizi, de circa 7–9 × 4–5 μm.',
+      habitat: 'Corpurile fructifere apar din iulie până în noiembrie în iarbă, parcuri, margini de drumuri și tufișuri.',
+      uses: 'Ciuperca este mortală (mortal). Conține amatoxine letale în concentrații ridicate și a provocat numeroase intoxicații fatale în Europa.',
+      confusion: 'Buretele de rouă (Marasmius oreades) are pălărie netedă brun-deschisă fără solzi purpurii și lamele distanțate. Micile specii comestibile de Agaricus au lamele rozalii ce devin brun-ciocolatii la maturitate.'
+    },
+    bg: {
+      description: 'Смъртоносно отровна дребна сапротрофна гъба. Топлолюбив вид, разпространен в паркове, градини, крайпътни тревни площи и храсталаци в Южна и Централна Европа и Азия.',
+      cap: 'Гуглата е малка, с диаметър 2–6 cm, полукълбовидна до плоска с тъпа гърбица. Покрита е с концентрично разположени виненокафяви до кафяви люспи върху белезникав фон с розов оттенък.',
+      hymenium: 'Ламелите са бели до бледокремави, свободни и гъсти.',
+      stipe: 'Пънчето е цилиндрично, високо 2–5 cm и дебело 4–9 mm, с нетрайна пръстеновидна зона, под която е покрито с виненокафяви люспици.',
+      flesh: 'Месото е тънко, бяло, в основата на пънчето с виненочервен оттенък, с приятен плодов мирис.',
+      sporePrint: 'Бял. Спорите са елипсовидни, гладки, декстриноидни, около 7–10 × 4,5–5,5 μm.',
+      habitat: 'Плодните тела се срещат от юли до ноември по открити затревени места, паркове и градини.',
+      uses: 'Смъртоносно отровна гъба. Съдържа фатални дози аматоксини; предизвиква тежка чернодробна кома и смърт при поглъщане дори на малки количества.',
+      confusion: 'Обикновената челядинка (Marasmius oreades) расте по сходни тревисти места, но има напълно гладка кожестоохрена гугла, редки ламели и жилаво гладко пънче.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/olumcul-pullu-lepiota-brunneoincarnata/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27nin_zehirli_mantarlar%C4%B1_listesi"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -37238,6 +41999,30 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Bandad_giftfj%C3%A4llskivling'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Lepiota_brunneoincarnata'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/lepiota-brunneoincarnata'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%B2%D0%B5%D0%BD%D0%BE-%D0%BA%D0%B0%D1%84%D1%8F%D0%B2%D0%B0_%D1%81%D1%8A%D1%80%D0%BD%D0%B5%D0%BB%D0%BA%D0%B0'
+        }
       ]
     },
     synonyms: ["Lepiota barlae Pat.", "Lepiota barlaeana Pat.", "Lepiota patouillardii Sacc. & Trotter"]
@@ -37318,6 +42103,7 @@ export const CATALOG = [
     fruitingFrom: 5,
     fruitingTo: 10,
     label: {
+      tr: "beyaz ölüm mantarı",
       sl: "pomladanska mušnica",
       hr: "bijela pupavka",
       sr: "бела пупавка",
@@ -37329,14 +42115,29 @@ export const CATALOG = [
       sk: "muchotrávka jarná",
       es: 'cicuta blanca',
       nl: 'Vroege knolamaniet',
-      pt: 'anjo-da-morte'
+      pt: 'anjo-da-morte',
+      ro: 'burete primăvăratic',
+      bg: 'пролетна мухоморка'
     },
     names: {
       en: ["spring destroying angel", "spring amanita", "white destroying angel"],
       sk: ["muchotrávka biela"],
-      es: ['cicuta blanca de primavera', 'oronja blanca']
+      es: ['cicuta blanca de primavera', 'oronja blanca'],
+      bg: ['бяла мухоморка']
     },
     text: {
+      tr: {
+          "description": "Ölümcül zehirli ve ektomikorizal bir mantardır. Güney ve Orta Avrupa'da, Akdeniz havzasında ve Batı Asya'da meşe, kestane ve çam ormanlarında ilkbahar aylarında ortaya çıkar.",
+          "cap": "Şapka 5–10 cm genişliğinde olup başlangıçta yarım küre biçimlidir, daha sonra dışbükeyleşir ve düzleşir. Kalıcı olarak saf beyaz veya fildişi renklidir; pürüzsüz ve çıplaktır.",
+          "hymenium": "Lameller serbest, sık, ince ve kalıcı olarak saf beyazdır.",
+          "stipe": "Sap 7–15 cm uzunluğunda ve 1–2 cm kalınlığında, saf beyaz, silindirik veya tabana doğru hafifçe daralandır. Üst kısımda sarkık, ince, zar yapısında beyaz bir halka taşır. Tabanda torba şeklinde belirgin beyaz bir volva bulunur.",
+          "flesh": "Etli kısım yumuşak ve beyazdır; kesildiğinde renk değiştirmez. KOH uygulandığında dokuları sararmaz (negatif reaksiyon).",
+          "habitat": "Meyve gövdeleri ilkbahar ve erken yaz aylarında (nisan-haziran) görülür. Sıcak geniş yapraklı ormanlarda, özellikle meşe ve kestane ağaçlarının altında kireçli topraklarda yetişir.",
+          "sporePrint": "Beyaz. Sporlar geniş elipsoid ile küremsi, pürüzsüz, amiloid ve yaklaşık 8,5–11 × 7–9 μm boyutlarındadır.",
+          "uses": "Ölümcül zehirlidir. Amatoksinler ve fallotoksinler içerir. Tüketildiğinde akut karaciğer nekrozuna ve çoklu organ yetmezliğine yol açarak ölüme neden olur. Pişirme veya kurutma toksinleri etkisiz hale getirmez.",
+          "confusion": "Yenilebilir çayır mantarları (Agaricus campestris) pembe-kahverengi lamellere sahiptir ve volva taşımaz. İlkbaharda çıkan beyaz mantarlar kesinlikle toplanmamalıdır.",
+          "notes": "KOH reaksiyonunun negatif olması onu parlak sarı reaksiyon veren Amanita virosa'dan ayırır."
+    },
       sl: {
           "description": "Smrtno strupena ektomikorizna goba toplejših krajev. Razširjena je v južni in srednji Evropi v listnatih gozdovih.",
           "cap": "Klobuk meri 4–10 cm v premeru, je polkrožen do zravnan, povsem bele barve, gladek in v vlažnem vremenu rahlo lepljiv.",
@@ -37538,9 +42339,43 @@ export const CATALOG = [
       uses: 'Dödligt giftig. Innehåller dödliga mängder amatoxiner som förstör lever och njurar.',
       confusion: 'Vit flugsvamp (Amanita virosa) har fnasig fot, gulnar med kaliumhydroxid och växer i barrskog på hösten. Ätbara champinjoner har rosa till chokladbruna skivor och saknar strumpa.',
       notes: 'Den är en av de klassiska vita dödsänglarna inom sektionen Phalloideae. Förekomsten är begränsad till Europa och Medelhavsområdet.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică mortală din pădurile calde de foioase pe sol calcaros. Este întâlnită în regiunile sudice și centrale ale Europei.',
+      cap: 'Pălăria are 5–10 cm lățime, inițial semisferică, apoi convexă spre aplatizată. Este complet albă, netedă, mătăsoasă, uneori cu o nuanță foarte slabă ocru-gălbuie în centru la maturitate.',
+      hymenium: 'Lamelele sunt libere, dese și late, de un alb imaculat permanent.',
+      stipe: 'Piciorul are 7–15 cm lungime și 1–2 cm grosime, cilindric sau îngustat spre vârf, alb, neted sau fin scămos. Poartă un inel membranos alb atârnător. Baza se termină cu un bulb sferic învelit într-o volvă mare, saciformă și albă.',
+      flesh: 'Carnea este albă și neschimbătoare la tăiere. Mirosul este slab la început, devenind neplăcut odată cu vârsta.',
+      sporePrint: 'Alb. Sporii sunt elipsoidali, netezi, amiloizi, de circa 8–11 × 7–9 μm.',
+      habitat: 'Corpurile fructifere apar din mai până în august (sfârșitul primăverii și vara) în păduri luminoase de stejar și fag pe soluri calcaroase.',
+      uses: 'Ciuperca este mortală (mortal). Conține amatoxine fatale extrem de periculoase ce provoacă necroză hepatică acută.',
+      confusion: 'Ciuperca de bălegar (Agaricus campestris) și alte ciuperci albe de câmp au lamele rozalii până la brun-ciocolatii la maturitate și nu au volvă la baza piciorului.'
+    },
+    bg: {
+      description: 'Смъртоносно отровна ектомикоризна гъба. Среща се предимно в топлолюбивите широколистни гори на Южна Европа през пролетта и ранното лято.',
+      cap: 'Гуглата е с диаметър 5–10 cm, чисто бяла (понякога с лек кремав оттенък в центъра), полукълбовидна до изпъкнала, гладка и лепкава при влажно време.',
+      hymenium: 'Ламелите са чисто бели, свободни и гъсти, не променящи цвета си.',
+      stipe: 'Пънчето е чисто бяло, гладко или фино люспесто, високо 7–12 cm и дебело 1–2 cm, с висящо ципесто бяло пръстенче и дълбока торбовидна бяла волва в луковично задебелената основа.',
+      flesh: 'Месото е бяло, крехко, без особена миризма в младост, при стареене с неприятен мирис.',
+      sporePrint: 'Бял. Спорите са широко елипсовидни до закръглени, гладки, амилоидни, около 8–11 × 7–9 μm.',
+      habitat: 'Плодните тела израстват от май до юли в топлолюбиви дъбови и букови гори на варовити почви.',
+      uses: 'Смъртоносно отровна гъба, съдържаща летални концентрации на аматоксини. Предизвиква фатално увреждане на черния дроб и бъбреците.',
+      confusion: 'Полската печурка (Agaricus campestris) има розови до тъмнокафяви ламели и няма волва. Бялата леплива мухоморка (Amanita virosa) се появява през есента в иглолистни гори и има рошаво пънче.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/beyaz-olum-amanita-verna/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Amanita_verna"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -37737,6 +42572,25 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://en.wikipedia.org/wiki/Amanita_verna'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Amanita_verna'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/amanita-verna'
+        }
       ]
     },
     synonyms: [
@@ -37828,6 +42682,18 @@ export const CATALOG = [
       en: ["rank russula"]
     },
     text: {
+      tr: {
+          "description": "Ölümcül zehirli ve ektomikorizal bir mantardır. Doğu ve Güneydoğu Asya'da (özellikle Japonya, Çin ve Tayvan) geniş yapraklı ve karışık ormanlarda yetişir.",
+          "cap": "Şapka 5–12 cm genişliğinde olup başlangıçta dışbükeydir, zamanla merkezden çökerek huni biçimini alır. Grimsi kahverengi, duman kahverengisi veya koyu kahverengidir; kuru ve pürüzsüzdür.",
+          "hymenium": "Lameller sapa yapışık veya hafifçe sarkıktır, kalın ve seyrektir; başlangıçta soluk krem iken berelendiğinde veya kesildiğinde karakteristik olarak kırmızıya lekelenir, ancak siyahlaşmaz.",
+          "stipe": "Sap 4–9 cm uzunluğunda ve 1,5–3 cm kalınlığında, kalın, silindirik, açık kahverengi veya grimsi olup berelendiğinde kırmızılaşır.",
+          "flesh": "Etli kısım kalın, sert, kırılgan ve beyazdır; kesildiğinde belirgin şekilde pembe-kırmızıya veya kan kırmızısına döner ve diğer kararan türlerin aksine siyaha dönüşmez.",
+          "habitat": "Meyve gövdeleri yaz ve sonbahar aylarında meşe ve kayın ormanlarında toprak üzerinde görülür.",
+          "sporePrint": "Beyaz. Sporlar geniş elipsoid ile yarı küremsi ve yaklaşık 7–9,5 × 6–8 μm boyutlarındadır.",
+          "uses": "Ölümcül zehirlidir. İçerdiği russulin ve sikloprop-2-en-karboksilik asit toksini nedeniyle iskelet kası hücrelerinin parçalanmasına (rabdomiyoliz) yol açar. Tüketimden kısa süre sonra böbrek yetmezliği, nefes darlığı, dolaşım çökmesi ve ölüme neden olur.",
+          "confusion": "Kararan kirmit mantarı (Russula nigricans) kesildiğinde önce kızarır, ardından hızla kömür karası renge döner.",
+          "notes": "Ölümcül kas toksisitesi 2009 yılında izole edilen sikloprop-2-en-karboksilik asit ile aydınlatılmıştır."
+    },
       sl: {
           "description": "Smrtno strupena ektomikorizna goba vzhodne Azije. Povzroča usodno rabdomiolizo in razpad mišičnega tkiva.",
           "cap": "Klobuk meri 6–12 cm v premeru, je izbočen do lijakast, umazano sive do rjavkasto sive barve, z žametasto površino.",
@@ -38029,9 +42895,43 @@ export const CATALOG = [
       uses: 'Dödligt giftig. Innehåller cykloprop-2-enkarboxylsyra, ett toxin som orsakar massiv nedbrytning av skelettmuskulatur (rabdomyolys) och akut hjärtsvikt.',
       confusion: 'Svartkremla (Russula nigricans) och tätsmultrig svartkremla rodnar och svartnar också, men har tätare skivor och saknar det livsfarliga toxinet.',
       notes: 'Giftverkan klarlades 2009 då toxinet isolerades; dödligheten i dokumenterade förgiftningsfall i Kina och Japan överstiger femtio procent.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică mortală din pădurile de foioase din Asia de Est (China, Japonia, Coreea, Taiwan).',
+      cap: 'Pălăria are 5–12 cm lățime, convexă la început și apoi deprimată în centru. Cuticula este uscată, de culoare cenușiu-brună până la brun-negricioasă.',
+      hymenium: 'Lamelele sunt adnate până la slab decurente, distanțate, groase și casante, de culoare crem-albicioasă, devenind roșiatice la rănire și apoi negricioase.',
+      stipe: 'Piciorul are 4–9 cm lungime și 1,5–3 cm grosime, robust, cilindric, albicios la început și căpătând nuanțe brun-cenușii.',
+      flesh: 'Carnea este groasă, fermă și casantă, albă, virând lent în roșu la tăiere fără a se înnegri rapid complet. Mirosul nu este distinctiv.',
+      sporePrint: 'Alb. Sporii sunt sferici, reticulați, de circa 7–9 × 6,5–8 μm.',
+      habitat: 'Corpurile fructifere apar din iulie până în septembrie pe sol în păduri de stejar și castan din Asia de Est.',
+      uses: 'Ciuperca este mortală (mortal). Conține acid rucellimic și alte toxine ce provoacă rabdomioliză acută fulminantă (distrugerea mușchilor striați scheletici și cardiaci), conducând la insuficiență circulatorie și respiratorie.',
+      confusion: 'Specia europeană (Russula nigricans) virează la tăiere mai întâi în roșu-sângeriu și apoi rapid în negru ca cărbunele, având lamele extrem de distanțate.'
+    },
+    bg: {
+      description: 'Смъртоносно отровна ектомикоризна гъба от род Russula (гълъбки), разпространена в широколистните и смесените гори на Източна Азия.',
+      cap: 'Гуглата е с диаметър 6–12 cm, изпъкнала до вдлъбната, сиво-кафеникава до тъмнокафява, с подвит ръб в младост.',
+      hymenium: 'Ламелите са белезникави до бледожълтеникави, дебели, сравнително редки, при нараняване бавно почервеняващи.',
+      stipe: 'Пънчето е цилиндрично, твърдо, сивкаво-кафяво, високо 5–9 cm и дебело 1,5–2,5 cm.',
+      flesh: 'Месото е бяло, като при разрез или нараняване бавно се оцветява в червено, но никога не почернява впоследствие (за разлика от неотровните сходни видове).',
+      sporePrint: 'Бял. Спорите са закръглени, с фино брадавичест амилоиден релеф, около 7–9 × 6,5–8 μm.',
+      habitat: 'Плодните тела се появяват през лятото под дъбови и вечнозелени широколистни дървета в Източна Азия.',
+      uses: 'Смъртоносно отровна гъба. Съдържа токсина русуласубнигрикол (циклопроп-2-ен карбоксилна киселина), предизвикващ масивна рабдомиолиза (разпад на скелетните мускули), остра бъбречна недостатъчност и миокардно увреждане с висока смъртност.',
+      confusion: 'Чернеещата гълъбка (Russula nigricans) при нараняване първо почервенява, но след това бързо става въгленочерна.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/agulu-kirmit-russula-emetica/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Mantar"
+          }
+    ],
       sl: [
           {
                 "group": "text",
@@ -38153,6 +43053,18 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://en.wikipedia.org/wiki/Russula_subnigricans'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'MycoBank',
+          href: 'https://www.mycobank.org/page/Name%20details%20page/name/Russula%20subnigricans'
+        },
+        {
+          group: 'text',
+          name: 'Index Fungorum',
+          href: 'https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=279430'
+        }
       ]
     },
     synonyms: []
@@ -38240,6 +43152,18 @@ export const CATALOG = [
       en: []
     },
     text: {
+      tr: {
+          "description": "Ölümcül zehirli bir ascomycete mantarıdır. Doğu Asya'da (özellikle Japonya ve Kore) ormanlık alanlarda çürüyen kütüklerin ve toprak altındaki odun köklerinin üzerinde yetişir.",
+          "cap": "Meyve gövdesi silindirik, loblu, çatallı veya geyik boynuzu biçiminde 3–13 cm yüksekliğinde dik çıkan stroma yapılarından oluşur. Parlak alev kırmızısı, mercan kırmızısı veya turuncu renktedir; yüzeyi hafif pürüzlüdür.",
+          "hymenium": "Peritesyumlar parlak kırmızı stromanın yüzeyine gömülüdür; askosporlar iki hücreli olup bölünerek küçük küremsi parçalara ayrılır.",
+          "stipe": "Belirgin bir sapı yoktur; geyik boynuzu benzeri dallanmış gövde doğrudan toprak veya odun tabanından yükselir.",
+          "flesh": "Etli kısım lifli, sert ve beyazımsıdır. Belirgin bir kokusu yoktur.",
+          "habitat": "Meyve gövdeleri yaz sonu ve sonbaharda meşe ve diğer yaprak döken ağaç kütüklerinin yakınında toprak üzerinde çıkar.",
+          "sporePrint": "Beyaz veya açık renkli. Askospor parçaları küremsi ve yaklaşık 3–4 μm çapındadır.",
+          "uses": "Ölümcül zehirlidir. Bilinen en zehirli mantarlardan biridir. Trikotesen mikotoksinleri (satratoksin H, roridin E) içerir; bu toksinler protein sentezini tamamen durdurur ve hücre ölümüne yol açar. Tüketildiğinde veya deriye temas ettiğinde çoklu organ yetmezliği, saç dökülmesi, kemik iliği baskılanması ve beyin hasarına neden olarak hızla öldürür.",
+          "confusion": "Geleneksel tıbbi mantarlar olan tırtıl mantarı (Cordyceps militaris) ve kırmızı ölümsüzlük mantarı (Ganoderma lucidum) ile karıştırılarak çay yapılması sonucu ölümcül zehirlenmeler kaydedilmiştir.",
+          "notes": "Mantar dünyasında doğrudan deriden emilerek dahi toksik etki yapabilen son derece nadir türlerden biridir."
+    },
       sl: {
           "description": "Izjemno nevarna smrtno strupena goba vzhodne Azije z živo rdečimi rogovitimi trosnjaki. Znana je bila pod imenom Podostroma cornu-damae.",
           "cap": "Trosnjak je kijast do rogovito razvejan, visok 4–10 cm in debel 1–2 cm, živo rdeče do oranžnordeče barve, po obliki spominja na jelenje rogovje.",
@@ -38441,9 +43365,43 @@ export const CATALOG = [
       uses: 'Dödligt giftig. Svampen innehåller potenta trichotecenmykotoxiner (bland annat satratoxiner) som hämmar proteinsyntesen och orsakar multipel organsvikt, håravfall och hudavlossning. Även beröring av fruktkropparna kan ge hudirritation.',
       confusion: 'Röd larvklubba (Cordyceps militaris) är mindre och växer på insektspuppor. Lackticka (Ganoderma) bildar förvedade konsoler med porer.',
       notes: 'Detta är en av ytterst få dödligt giftiga sporsäcksvampar. Flera dödsfall har inträffat då den förväxlats med medicinska svampar och bryggts till te.'
+    },
+    ro: {
+      description: 'Ciupercă ascomicetă mortală din Asia de Est (Japonia, Coreea), cunoscută sub denumirea de buretele corn-de-cerb.',
+      cap: 'Corpul fructifer este o stromă verticală de 5–20 cm înălțime și 1–3 cm grosime, simplă sau ramificată în formă de coarne de cerb sau degete groase, de culoare roșu-aprins până la roșu-portocaliu.',
+      hymenium: 'Suprafața fertilă este înglobată în țesutul stromatic roșu, unde se găsesc peritecii mici ce adăpostesc ascele cu ascospori.',
+      stipe: 'Nu există un picior delimitat, stroma cilindrică îngustându-se spre bază.',
+      flesh: 'Carnea este fibroasă, densă, albicioasă în interior și roșiatică la suprafață.',
+      sporePrint: 'Gălbui-deschis. Sporii sunt mici, bicelulari, desprinzându-se în celule parțiale de circa 3,5–4 × 3–3,5 μm.',
+      habitat: 'Apare din vară până în toamnă pe rădăcini putrede și buturugi subterane în pădurile din Japonia și Coreea.',
+      uses: 'Ciuperca este mortală (mortal). Conține micotoxine tricotecene extrem de puternice (satratoxine) care pot fi absorbite și prin piele, cauzând necroză a organelor interne, descuamarea pielii, leucopenie și deces.',
+      confusion: 'A fost confundată accidental în Asia cu specii din genul (Cordyceps) sau cu exemplare tinere de (Ganoderma).'
+    },
+    bg: {
+      description: 'Смъртоносно отровна торбеста гъба (аскомицет). Разпространена в Източна Азия (Япония, Корея, Китай), растяща по гниещи корени и дънери.',
+      cap: 'Стромата е с височина 5–20 cm и дебелина 1–3 cm, изправена, цилиндрична, често разклонена като еленови рога, с яркочервен до червено-оранжев цвят и блестяща гладка повърхност.',
+      hymenium: 'Химениумът не образува ламели или тръбички; спорообразуващите структури (перитеции с аски) са потопени в горната част на червената строма.',
+      stipe: 'Основата на стромата е стеснена и стерилна, преминаваща в гниещата дървесина.',
+      flesh: 'Месото е сочно и месесто в младост, по-късно корковидно и жилаво, белезникаво до жълтеникаво.',
+      sporePrint: 'Жълтеникавобял. Аскоспорите се образуват в аски, двуклетъчни са и се разпадат на полукръгли спори.',
+      habitat: 'Плодните тела израстват през лятото и есента поединично или на малки снопове върху разложена широколистна дървесина.',
+      uses: 'Смъртоносно отровна гъба, една от малкото смъртоносни торбести гъби в света. Съдържа мощни трихотеценови микотоксини, които причиняват полиорганна недостатъчност, косопад, десквамация на кожата и потискане на костния мозък.',
+      confusion: 'По външен вид напомня на млади плодни тела на Ganoderma lucidum или видове Cordyceps.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/olumsuzluk-mantari-reishi-ganoderma-lucidum/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Mantar"
+          }
+    ],
       sl: [
           {
                 "group": "text",
@@ -38577,6 +43535,18 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://en.wikipedia.org/wiki/Trichoderma_cornu-damae'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'MycoBank',
+          href: 'https://www.mycobank.org/page/Name%20details%20page/name/Trichoderma%20cornu-damae'
+        },
+        {
+          group: 'text',
+          name: 'Index Fungorum',
+          href: 'https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=809653'
+        }
       ]
     },
     synonyms: [
@@ -38659,6 +43629,18 @@ export const CATALOG = [
     },
     names: {},
     text: {
+      tr: {
+          "description": "Ölümcül zehirli ve ektomikorizal bir mantardır. Doğu Asya'da, özellikle Güney Çin'de (Guangdong ve çevresinde) subtropikal geniş yapraklı ormanlarda yetişir.",
+          "cap": "Şapka 4–9 cm genişliğinde olup başlangıçta dışbükeydir, daha sonra düzleşir; saf beyaz veya merkezinde soluk devetüyü-gri tonlar barındırır; pürüzsüz ve çıplaktır.",
+          "hymenium": "Lameller serbest, sık ve saf beyazdır.",
+          "stipe": "Sap 7–12 cm uzunluğunda ve 0,8–1,5 cm kalınlığında, saf beyaz, silindirik ve tabanda soğan gibi şişkindir; üst kısımda ince, zar yapısında beyaz bir halka, tabanda ise torba şeklinde beyaz bir volva bulunur.",
+          "flesh": "Etli kısım beyazdır ve kesildiğinde renk değiştirmez. KOH uygulandığında parlak sarı reaksiyon verir.",
+          "habitat": "Meyve gövdeleri ilkbahar ve erken yaz aylarında (mart-mayıs) subtropikal Fagaceae ormanlarında yetişir.",
+          "sporePrint": "Beyaz. Sporlar küremsi, pürüzsüz, amiloid ve yaklaşık 9,5–12 × 9–11,5 μm boyutlarındadır; bazidiyumların neredeyse tamamı 2 sporludur.",
+          "uses": "Ölümcül zehirlidir. Yüksek oranda amatoksin içerir; Çin'de kaydedilen mantar ölümlerinin en büyük sorumlularından biridir. Yaklaşık 50 gram taze mantar yetişkin bir insanı öldürmeye yeterlidir.",
+          "confusion": "Kuzey Amerika ölüm meleği (Amanita bisporigera) daha küçük sporlara sahiptir; ölüm meleği mantarı (Amanita virosa) boreal ve dağlık ormanlarda yetişir.",
+          "notes": "Bazidiyumlarının iki sporlu olması ve her sporun iki çekirdek alması sayesinde çiftleşme olmadan dikaryon oluşturabilir."
+    },
       sl: {
           "description": "Smrtno strupena bela mušnica vzhodne Azije. Razširjena je na Kitajskem (zlasti v provinci Guangdong) in v Indiji.",
           "cap": "Klobuk meri 4–9 cm v premeru, je polkrožen do zravnan, snežno bele barve, gladek, včasih z rumenim osredjem.",
@@ -38861,9 +43843,43 @@ export const CATALOG = [
       uses: 'Dödligt giftig. Svampen är den dödligaste svamparten i södra Kina och orsakar allvarliga leverskador genom höga halter av amatoxiner.',
       confusion: 'Amanita bisporigera och vit flugsvamp (Amanita virosa) är närstående arter i andra geografiska regioner.',
       notes: 'Under perioden 2019–2023 orsakade arten fler dödsfall i Kina än någon annan svamp. Cirka 50 gram färsk svamp beräknas räcka för att döda en vuxen människa.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică mortală din pădurile subtropicale de foioase din sudul Chinei și regiunile învecinate din Asia.',
+      cap: 'Pălăria are 4–8 cm lățime, convexă la început și apoi aplatizată. Este de un alb pur, adesea cu centrul foarte slab cenușiu-ocru la maturitate, netedă și mătăsoasă.',
+      hymenium: 'Lamelele sunt libere, dese, albe permanent.',
+      stipe: 'Piciorul are 7–10 cm lungime și 0,5–1 cm grosime, alb, zvelt, prevăzut cu un inel membranos alb fragil și o volvă saciformă albă la baza bulboasă.',
+      flesh: 'Carnea este albă și subțire. Reacționează instantaneu cu hidroxidul de potasiu (KOH), devenind galben-strălucitoare.',
+      sporePrint: 'Alb. Sporii sunt sferici până la subsferici, amiloizi, de circa 9,5–12 × 9–11,5 μm.',
+      habitat: 'Corpurile fructifere apar din martie până în mai pe sol în păduri subtropicale calde dominate de arbori din familia Fagaceae.',
+      uses: 'Ciuperca este mortală (mortal). Conține amatoxine letale și este responsabilă de numeroase decese provocate de intoxicații fungice în provincia Guangdong din China.',
+      confusion: 'Specia (Amanita bisporigera) are un inel situat mai jos pe picior și spori mai mici; iar (Amanita virosa) este o specie nordică europeană.'
+    },
+    bg: {
+      description: 'Смъртоносно отровна ектомикоризна гъба от род Amanita. Среща се в субтропичните широколистни гори на Южен Китай.',
+      cap: 'Гуглата е с диаметър 4–8 cm, чисто бяла, понякога със сивкав оттенък в центъра, изпъкнала до плоска, гладка.',
+      hymenium: 'Ламелите са чисто бели, свободни и гъсти.',
+      stipe: 'Пънчето е бяло, високо 7–9 cm и дебело 0,5–1 cm, почти цилиндрично, с ципесто бяло пръстенче и торбовидна бяла волва в луковичната основа.',
+      flesh: 'Месото е бяло. При третиране с калиева основа (KOH) пожълтява.',
+      sporePrint: 'Бял. Спорите са сферични до почти закръглени, гладки, амилоидни, около 9–12 × 9–11,5 μm; базидиите носят по две спори.',
+      habitat: 'Плодните тела се появяват през пролетта (март–май) на земята в субтропични гори под Castanopsis и Fagaceae.',
+      uses: 'Смъртоносно отровна гъба. Съдържа високи концентрации на аматоксини и фалотоксини, водещи до остра чернодробна недостатъчност с висок процент смъртност.',
+      confusion: 'Amanita bisporigera се среща в Северна Америка и има по-дребни спори.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/koygocuren-mantari-amanita-phalloides/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Amanita_exitialis"
+          }
+    ],
       sl: [
           {
                 "group": "text",
@@ -39012,6 +44028,18 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://en.wikipedia.org/wiki/Amanita_exitialis'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'MycoBank',
+          href: 'https://www.mycobank.org/page/Name%20details%20page/name/Amanita%20exitialis'
+        },
+        {
+          group: 'text',
+          name: 'Index Fungorum',
+          href: 'https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=481845'
+        }
       ]
     },
     synonyms: []
@@ -39089,6 +44117,18 @@ export const CATALOG = [
     },
     names: {},
     text: {
+      tr: {
+          "description": "Ölümcül zehirli ve ektomikorizal bir mantardır. Çin'de geniş yapraklı ve karışık ormanlarda meşe ve çam ağaçları altında yetişir; Asya'nın 'kahverengi köygöçüreni' olarak bilinir.",
+          "cap": "Şapka 3–8 cm genişliğinde olup başlangıçta dışbükeydir ve zamanla düzleşir; koyu grimsi kahverengi, füme kahverengisi veya is rengindedir; merkezde daha koyu, kenarlara doğru daha açıktır; yüzeyi ipeksi ve pürüzsüzdür.",
+          "hymenium": "Lameller serbest, sık, başlangıçta beyaz, zamanla krem rengidir.",
+          "stipe": "Sap 6–12 cm uzunluğunda ve 0,6–1,2 cm kalınlığında, beyazımsı zemin üzerinde koyu kahverengi veya grimsi zikzak lifler taşır; üstte zarımsı beyaz veya grimsi bir halka, tabanda ise beyaz bir volva bulunur.",
+          "flesh": "Etli kısım beyazdır; kesildiğinde renk değiştirmez. Nahoş bir kokusu vardır.",
+          "habitat": "Meyve gövdeleri yaz ve sonbahar aylarında Pinus massoniana ve meşe ormanlarında görülür.",
+          "sporePrint": "Beyaz. Sporlar küremsi ile yarı küremsi, amiloid ve yaklaşık 7–9 × 7–8,5 μm boyutlarındadır.",
+          "uses": "Ölümcül zehirlidir. Amatoksinler ve fallotoksinler içerir; Çin'de yüzlerce insanın zehirlenmesine ve çok sayıda ölüme yol açmıştır.",
+          "confusion": "Köygöçüren mantarı (Amanita phalloides) yeşilimsi tonlardadır. Benzer tür olan Amanita rimosa şapka derisinde radyal çatlaklar barındırır.",
+          "notes": "Amatoksin miktarı genç yumurta evresinde ve hızlı büyüme evresinde en yüksek seviyededir."
+    },
       sl: {
           "description": "Smrtno strupena ektomikorizna goba vzhodne Azije iz skupine zelene mušnice. Pogosta je na Kitajskem.",
           "cap": "Klobuk meri 3–7 cm v premeru, je polkrožen do zravnan, sivorjave do sajasto rjave barve, z vraščenimi radialnimi vlakenci.",
@@ -39291,9 +44331,43 @@ export const CATALOG = [
       uses: 'Dödligt giftig. Innehåller dödliga koncentrationer av amatoxiner och phallotoxiner som leder till akut leversvikt.',
       confusion: 'Panterflugsvamp (Amanita pantherina) har vårtor på hatten och en kantad fotknöl utan säcklik strumpa.',
       notes: 'Den är en av de vanligaste orsakerna till dödliga svampförgiftningar i södra Kina, med hundratals dokumenterade förgiftningsfall.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică mortală din pădurile de foioase din Asia de Est (China, Japonia).',
+      cap: 'Pălăria are 3–6 cm lățime, convexă la început și apoi aplatizată. Cuticula este netedă, de culoare cenușiu-brună până la brun-funinginie sau brun-negricioasă, adesea cu fibrile radiale întunecate.',
+      hymenium: 'Lamelele sunt libere, dese, albe până la cenușiu-albicioase.',
+      stipe: 'Piciorul are 6–10 cm lungime și 0,4–1 cm grosime, albicios până la cenușiu-palid, acoperit fin cu solzișori cenușii. Poartă un inel membranos cenușiu-deschis și o volvă albă saciformă la baza bulboasă.',
+      flesh: 'Carnea este albă și subțire, neschimbătoare la tăiere. Mirosul este slab.',
+      sporePrint: 'Alb. Sporii sunt sferici, netezi, amiloizi, de circa 7,5–9,5 μm.',
+      habitat: 'Corpurile fructifere apar din iulie până în septembrie sub stejari și castani în păduri temperate calde din Asia.',
+      uses: 'Ciuperca este mortală (mortal). Conține amatoxine puternice ce cauzează insuficiență hepatică acută fulminantă.',
+      confusion: 'Specia înrudită (Amanita fuligineoides) este mai mare și baza piciorului nu este la fel de bulboasă.'
+    },
+    bg: {
+      description: 'Смъртоносно отровна ектомикоризна гъба от род Amanita. Разпространена в широколистните и смесените гори на Източна Азия (Китай, Япония).',
+      cap: 'Гуглата е с диаметър 3–6 cm, сиво-кафява до саждивосива с тъмни радиални влакна, полукълбовидна, после изпъкнала до плоска.',
+      hymenium: 'Ламелите са бели до сиво-бели, свободни и гъсти.',
+      stipe: 'Пънчето е стройно, високо 6–10 cm и дебело 4–10 mm, бяло със сивкави люспици или шарки, с висящо пръстенче и торбовидна волва в луковичната основа.',
+      flesh: 'Месото е бяло, тънко, неизменящо се при нараняване.',
+      sporePrint: 'Бял. Спорите са сферични, гладки, амилоидни, около 8–11 μm.',
+      habitat: 'Плодните тела се развиват през лятото и есента под дъбове и дървета от род Castanopsis.',
+      uses: 'Смъртоносно отровна гъба. Съдържа аматоксини (алфа- и бета-аманитин), причиняващи тежка фатална чернодробна кома.',
+      confusion: 'Amanita fuligineoides е по-едра и има по-удължена базална луковица.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/koygocuren-mantari-amanita-phalloides/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Amanita_fuliginea"
+          }
+    ],
       sl: [
           {
                 "group": "text",
@@ -39455,6 +44529,18 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://en.wikipedia.org/wiki/Amanita_fuliginea'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'MycoBank',
+          href: 'https://www.mycobank.org/page/Name%20details%20page/name/Amanita%20fuliginea'
+        },
+        {
+          group: 'text',
+          name: 'Index Fungorum',
+          href: 'https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=356877'
+        }
       ]
     },
     synonyms: []
@@ -39530,6 +44616,18 @@ export const CATALOG = [
     label: {},
     names: {},
     text: {
+      tr: {
+          "description": "Ölümcül zehirli ve ektomikorizal bir mantardır. Çin'in güneyinde meşe ve kestane ormanlarında yetişir.",
+          "cap": "Şapka 4–9 cm genişliğinde olup başlangıçta dışbükeydir, daha sonra düzleşir; kahverengimsi gri veya soluk duman rengidir; kütikulası olgunlukta karakteristik olarak radyal çatlaklar sergiler.",
+          "hymenium": "Lameller serbest, sık ve beyazdır.",
+          "stipe": "Sap 7–13 cm uzunluğunda ve 0,8–1,5 cm kalınlığında, beyazımsı veya açık gridir; üstte sarkık beyaz bir halka, tabanda ise serbest bir volva taşır.",
+          "flesh": "Etli kısım beyazdır; kokusu zayıftır.",
+          "habitat": "Meyve gövdeleri yaz ve sonbaharda subtropikal yaprak döken ormanlarda çıkar.",
+          "sporePrint": "Beyaz. Sporlar küremsi, pürüzsüz, amiloid ve yaklaşık 7,5–9,5 × 7–9 μm boyutlarındadır.",
+          "uses": "Ölümcül zehirlidir. Ölümcül amatoksinler içerir ve ağır karaciğer yetmezliğine neden olur.",
+          "confusion": "Doğu Asya köygöçüreni (Amanita fuliginea) türüne çok benzer ancak şapka derisindeki belirgin radyal çatlaklarla ayrılır.",
+          "notes": "Şapka derisinin üst tabakası hafif jelatinleşmiştir ve şişkin hücreler barındırır."
+    },
       sl: {
           "description": "Smrtno strupena ektomikorizna goba jugovzhodne Azije z radialno razpokanim klobukom.",
           "cap": "Klobuk meri 4–8 cm v premeru, je sivorjav do rjavkast, z značilnimi radialnimi razpokami ob robu.",
@@ -39717,9 +44815,42 @@ export const CATALOG = [
       habitat: 'Fruktkroppar påträffas under sommaren i subtropiska löv- och blandskogar i Guangdong i södra Kina.',
       uses: 'Dödligt giftig. Innehåller livsfarliga mängder amatoxiner som leder till dödlig leverförgiftning.',
       notes: 'Hatthuden är unikt uppbyggd i två skikt med uppsvällda celler, en struktur som särskiljer den från andra arter inom sektionen Phalloideae.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică mortală din pădurile de foioase din sudul Chinei.',
+      cap: 'Pălăria are 3–6,5 cm lățime, semisferică la început și apoi convexă spre plată. Cuticula este albicioasă până la cenușiu-brună deschisă, prezentând la maturitate crăpături radiale caracteristice spre margine.',
+      hymenium: 'Lamelele sunt libere, dese, albe până la albicioase.',
+      stipe: 'Piciorul are 5–9 cm lungime și 0,3–1 cm grosime, albicios, cu un inel membranos subțire și o volvă saciformă la baza bulboasă.',
+      flesh: 'Carnea este albă și fragilă. Mirosul nu este distinctiv.',
+      sporePrint: 'Alb. Sporii sunt sferici, amiloizi, de circa 8–10 μm.',
+      habitat: 'Apare solitară pe sol în păduri calde de foioase din regiunile sudice ale Chinei.',
+      uses: 'Ciuperca este mortală (mortal). Conține amatoxine letale ce distrug celulele hepatice.'
+    },
+    bg: {
+      description: 'Смъртоносно отровна ектомикоризна гъба от род Amanita, ендемична за широколистните гори на провинция Гуандун в Южен Китай.',
+      cap: 'Гуглата е с диаметър 3–6,5 cm, сивкава до опушенокафява, полукълбовидна до плоска, с радиално разпукваща се кожица по ръба.',
+      hymenium: 'Ламелите са свободни, гъсти, бели до белезникави.',
+      stipe: 'Пънчето е бяло до белезникаво, високо 5–9 cm и дебело 3–10 mm, с пръстенче и малка волва в основата.',
+      flesh: 'Месото е бяло, тънко и меко в гуглата, без отличителна миризма.',
+      sporePrint: 'Бял. Спорите са сферични, гладки, амилоидни, около 8,5–11 × 8–10 μm.',
+      habitat: 'Плодните тела се развиват през пролетта в широколистни субтропични гори.',
+      uses: 'Смъртоносно отровна гъба, съдържаща летални дози аматоксини и предизвикваща остра чернодробна некроза.',
+      confusion: 'Сходна е с други дребни азиатски отровни мухоморки от секция Phalloideae.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/koygocuren-mantari-amanita-phalloides/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Amanita_rimosa"
+          }
+    ],
       sl: [
           {
                 "group": "text",
@@ -39875,6 +45006,18 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://en.wikipedia.org/wiki/Amanita_rimosa'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'MycoBank',
+          href: 'https://www.mycobank.org/page/Name%20details%20page/name/Amanita%20rimosa'
+        },
+        {
+          group: 'text',
+          name: 'Index Fungorum',
+          href: 'https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=564551'
+        }
       ]
     },
     synonyms: []
@@ -39934,6 +45077,18 @@ export const CATALOG = [
       en: ["nail-like mushroom"]
     },
     text: {
+      tr: {
+          "description": "Ölü geniş yapraklı ağaç dallarında ve kütüklerinde yaşayan odun çürüten saprofit bir mantardır. Güneybatı Çin'de, özellikle Yünnan eyaletinin dağlık köylerinde yetişir.",
+          "cap": "Şapka 1,5–4,5 cm genişliğinde olup basık dışbükey ile huni biçimindedir; saf beyaz veya kirli beyazdır; kenarları ince ve dalgalıdır.",
+          "hymenium": "Lameller sapa sarkar, dar ve seyrektir; beyaz veya soluk krem renklidir.",
+          "stipe": "Sap 2–5 cm uzunluğunda ve 2–4 mm kalınlığında, ince, beyaz, kıkırdaksı ve tabana doğru hafifçe tüylüdür.",
+          "flesh": "Etli kısım son derece ince, beyaz ve derimsidir.",
+          "habitat": "Meyve gövdeleri yaz aylarında, özellikle haziran-ağustos yağışlarında çürüyen yaprak döken kütüklerde çıkar.",
+          "sporePrint": "Beyaz. Sporlar silindirik veya dar elipsoid, pürüzsüz ve yaklaşık 6–8 × 2,5–3,5 μm boyutlarındadır.",
+          "uses": "Ölümcül zehirlidir. Yünnan'da 400'den fazla kişinin ani ve açıklanamayan ölümüne (Yünnan Ani Ölüm Sendromu) yol açtığı 2012 yılında kanıtlanmıştır. İçerdiği toksik heksinoik amino asitler vücutta ani ve ölümcül hipoglisemiye (kan şekeri çöküşü) ve kardiyak durmaya yol açar.",
+          "confusion": "Huni biçimli trogiya (Trogia infundibuliformis) daha derin huni şapkalı ve daha seyrek lamellidir. Yenilebilir küçük beyaz mantarlarla karıştırılarak toplanmıştır.",
+          "notes": "Halkın bu mantarı tüketmemesi yönünde yapılan uyarıların ardından bölgedeki ani ölümlerde %73'lük düşüş kaydedilmiştir."
+    },
       sl: {
           "description": "Majhna bela saprotrofna lesna goba jugozahodne Kitajske. Zgodovinsko je povzročila skrivnostni »sindrom nenadne smrti v Junanu«.",
           "cap": "Klobuk meri 1,5–4 cm v premeru, je pahljačast ali skledast, snežno bele barve, tanek in nekoliko prosojen.",
@@ -40130,9 +45285,42 @@ export const CATALOG = [
       uses: 'Dödligt giftig. Svampen innehåller icke-proteinogena toxiska aminosyror (bland annat 2-amino-4-pentinsyra) som orsakar akut hypoglykemi och dödlig hjärtarytmi.',
       confusion: 'Trattlik trogia (Trogia infundibuliformis) har trattformad hatt med vågig kant, något nedlöpande skivor, hygrofan yta, ihålig fot och angenäm doft; denna art saknar dessa drag. Dess hatt är solfjäderformad till kronbladsartad med delvis genomskinlig vågig kant och smala skivor, och foten är fibrös, blek till brunaktig och inte ihålig.',
       notes: 'Svampen identifierades som orsaken bakom det gåtfulla \'Yunnan Sudden Death Syndrome\', som under trettio år krävde över 400 människoliv i sydvästra Kina.'
+    },
+    ro: {
+      description: 'Ciupercă saprotrofă lignicolă mică și toxică din regiunile montane din sud-vestul Chinei (Yunnan).',
+      cap: 'Corpul fructifer este delicat, în formă de evantai sau pâlnie mică de 2–5 cm lățime, albicios până la crem-deschis, cu marginea ondulată.',
+      hymenium: 'Lamelele sunt înguste, decurente, adesea bifurcate, albicioase.',
+      stipe: 'Piciorul este scurt, adesea lateral sau excentric, de 1–3 cm lungime, albicios.',
+      flesh: 'Carnea este foarte subțire, fragilă și albă. Mirosul este plăcut de ciupercă proaspătă.',
+      sporePrint: 'Alb. Sporii sunt elipsoidali, netezi, de circa 5–7 × 3,5–4,5 μm.',
+      habitat: 'Corpurile fructifere apar în tufe dese pe lemn putred de foioase din iunie până în septembrie în timpul sezonului musonic.',
+      uses: 'Ciuperca este mortală (mortal). A fost identificată drept cauza «Sindromului morții subite din Yunnan», provocând sute de decese inexplicabile prin stop cardiac indus de aminoacizi toxici neproteici.',
+      confusion: 'Specia (Trogia infundibuliformis) are o formă de pâlnie mai regulată și nu conține acești aminoacizi toxici cardiaci.'
+    },
+    bg: {
+      description: 'Дърворазрушаваща сапротрофна гъба, разпространена в планинските гори на Югозападен Китай (провинция Юнан).',
+      cap: 'Гуглата е малка, крехка, с размери 3–7 cm, лопатовидна до ветриловидна, белезникава до бледокремава, набраздена по ръба.',
+      hymenium: 'Ламелите са тесни, редки, низбягващи по пънчето, белезникави.',
+      stipe: 'Пънчето е късо, странично разположено или почти липсващо, белезникаво-кафеникаво.',
+      flesh: 'Месото е тънко, крехко, трошливо, без приятен мирис.',
+      habitat: 'Плодните тела израстват на групи през лятото (юни–септември) по гниеща дървесина в планински гори.',
+      uses: 'Смъртоносно отровна гъба, причинител на прословутия «синдром на внезапната необяснима смърт в Юнан». Съдържа токсичните непротеиногенни аминокиселини 2R-амино-4S-хидрокси-5-хексинова и 2R-амино-5-хексинова киселина, предизвикващи масивна хипогликемия и внезапен фатален сърдечен арест.',
+      confusion: 'Trogia infundibuliformis има фуниевидна гугла с вълнообразен ръб.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/mermer-mantari-pleurocybella-porrigens/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Mantar"
+          }
+    ],
       sl: [
           {
                 "group": "text",
@@ -40329,6 +45517,18 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://en.wikipedia.org/wiki/Trogia_venenata'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'MycoBank',
+          href: 'https://www.mycobank.org/page/Name%20details%20page/name/Trogia%20venenata'
+        },
+        {
+          group: 'text',
+          name: 'Index Fungorum',
+          href: 'https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=561021'
+        }
       ]
     },
     synonyms: []
@@ -40411,6 +45611,7 @@ export const CATALOG = [
     fruitingFrom: 5,
     fruitingTo: 12,
     label: {
+      tr: "mor balmumsu mantar",
       sl: "vijoličasta bledivka",
       hr: "ljubičasta gljivica",
       sr: "љубичаста гљивица",
@@ -40426,14 +45627,29 @@ export const CATALOG = [
       nl: 'Amethistzwam',
       da: 'violet ametysthat',
       no: 'ametystsopp',
-      sv: 'ametistskivling'
+      sv: 'ametistskivling',
+      ro: 'amăgitoarea de ametist',
+      bg: 'аметистова гъба'
     },
     names: {
       en: ["amethyst laccaria"],
       es: ['lacaria amatista', 'pimpinela morada'],
-      nl: ['Rodekoolzwam']
+      nl: ['Rodekoolzwam'],
+      bg: ['аметистова хамелеонова гъба', 'лилавка']
     },
     text: {
+      tr: {
+          "description": "Geniş yapraklı ve iğne yapraklı ağaçlarla ortaklık kuran ektomikorizal bir mantardır. Avrupa, Asya ve Kuzey Amerika'da kayın, meşe ve çam ormanlarında nemli yaprak döküntüleri üzerinde son derece yaygındır.",
+          "cap": "Şapka 1–6 cm genişliğinde olup başlangıçta dışbükeydir, zamanla düzleşir ve ortası hafifçe çökükleşir. Canlı ametist moru veya menekşe rengindedir; higrofandır, kurudukça soluk pembemsi devetüyü veya leylak grisine döner.",
+          "hymenium": "Lameller kalın, aralıklı, balmumsu görünümlü ve sapa yapışık veya hafifçe sarkıktır; parlak ametist moru renktedir; sporlar olgunlaştıkça beyaz tozla kaplanır.",
+          "stipe": "Sap 4–10 cm uzunluğunda ve 3–8 mm kalınlığında, ince, silindirik, lifli ve serttir; şapkayla aynı mor renktedir ve üzeri boyuna beyaz liflerle kaplıdır; tabanda mor miseller bulunur.",
+          "flesh": "Etli kısım ince, morumsu ve kuruyunca soluktur. Belirgin bir kokusu yoktur; tadı tatlımsıdır.",
+          "habitat": "Meyve gövdeleri yaz sonundan sonbahar sonuna kadar görülür. Kayın, meşe ve çam ormanlarında asidik veya nötr humuslu zeminlerde dağınık gruplar halinde yetişir.",
+          "sporePrint": "Beyaz. Sporlar küremsi, belirgin kaba dikenlerle kaplı ve yaklaşık 8–11 μm çapındadır.",
+          "uses": "Yenilebilir bir mantardır. Şapkaları çorbalara ve sotelere hoş bir renk ve lezzet katar; sert sapları tüketilmez. Topraktaki arseniği yüksek oranda biriktirme eğilimi olduğundan kirli sanayi bölgelerinden veya yol kenarlarından toplanmamalıdır.",
+          "confusion": "Zehirli leylak renkli lifli mantar (Inocybe geophylla var. lilacina) un kokuludur ve kahverengi spor izi taşır. Mor cincile (Lepista nuda) çok daha büyüktür ve pembe spor izine sahiptir.",
+          "notes": "Toprağın amonyak ve azot bakımından zengin olduğu yerlerde miselleri hızla gelişir."
+    },
       sl: {
           "description": "Ektomikorizna goba z živo ametistno vijolično barvo. Razširjena je v Evropi, Severni Ameriki in delih Azije.",
           "cap": "Klobuk meri 2–6 cm v premeru, sprva je polkrožen, nato zravnan in v osredju rahlo udrt. Je živo ametistno vijolične barve, ko se posuši, pa močno zbledi v bledo sivkasto ali rožnatobelo barvo (higrofana goba).",
@@ -40635,9 +45851,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar uppträder från juli till november i mykorrhiza med bok, ek, gran och tall på fuktig, näringsrik mark.',
       uses: 'Ätlig matsvamp. Den har en mild och god smak och dess vackra lila färg behålls delvis vid tillagning. Den ackumulerar arsenik från jorden och bör därför inte ätas i alltför stora mängder.',
       confusion: 'Giftiga lila spindelskivlingar (Cortinarius) har brunt sporpulver och trådlik cortina. Blåmusseron (Lepista nuda) är mycket större, tjockköttig och har tätt sittande skivor och blekrosa sporpulver.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică mică din pădurile de foioase și conifere. Este foarte comună în întreaga Europă, Asia și America de Nord.',
+      cap: 'Pălăria are 2–6 cm lățime, convexă la început și apoi aplatizată cu centrul ușor deprimat. Este puternic higrofană: de un violet-ametist intens strălucitor pe vreme umedă, decolorându-se la uscăciune într-un liliachiu-cenușiu palid sau albicios.',
+      hymenium: 'Lamelele sunt groase, late, distanțate, adnate sau ușor decurente, de aceeași culoare violet-ametist intensă ca pălăria umedă.',
+      stipe: 'Piciorul are 4–10 cm lungime și 0,3–0,8 cm grosime, cilindric, zvelt, fibros și tenace, de culoare violetă, prezentând la bază un miceliu pufos liliachiu.',
+      flesh: 'Carnea este subțire, apoasă, violet-palidă. Mirosul și gustul sunt discrete și plăcute.',
+      sporePrint: 'Alb. Sporii sunt sferici, spinoși, de circa 8–10 μm.',
+      habitat: 'Corpurile fructifere apar din iulie până în decembrie în litiera și pe mușchiul din păduri de fag, stejar și molid.',
+      uses: 'Este o specie comestibilă bună (comestibil). Se consumă doar pălăriile, piciorul fiind prea fibros.',
+      confusion: 'Părăluța de câmp (Laccaria laccata) are aceeași talie și lamele groase, dar este de culoare ocru-cărămizie fără nuanțe violete. Violetele din genul (Cortinarius violaceus) sunt mult mai mari, masiv, cu cortină și spori bruni-ruginii.'
+    },
+    bg: {
+      description: 'Дребна ектомикоризна гъба сред горска постеля и мъхове. Широко разпространена в умерените гори на Северното полукълбо.',
+      cap: 'Гуглата е с диаметър 2–6 cm, наситено аметистововиолетова в младост и влажно време, силно хигрофанна – при изсъхване избледнява до бледолилава или кафеникаво-бежова.',
+      hymenium: 'Ламелите са дебели, широки, редки, с наситен виолетов цвят, прираснали до слабо низбягващи.',
+      stipe: 'Пънчето е цилиндрично, жилаво, влакнесто, виолетово, високо 4–10 cm и дебело 3–8 mm, с виолетов мицел в основата.',
+      flesh: 'Месото е тънко, бледовиолетово, без особена миризма и вкус.',
+      sporePrint: 'Бял. Спорите са сферични, покрити с отчетливи шипчета, около 8–10 μm.',
+      habitat: 'Плодните тела се появяват от юли до ноември в широколистни (особено букови) и иглолистни гори.',
+      uses: 'Ядлива гъба с посредствени качества. Използват се само гуглите, тъй като пънчето е твърде жилаво. Гъбата има свойството да акумулира арсен от почвата.',
+      confusion: 'Хамелеоновата гъба (Laccaria laccata) има подобна форма, но цветът ѝ е меснорозов или охрен. Отровните лилави паяжинници имат завеска (кортина) и ръждивокафяви спори.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/mor-balmumsu-laccaria-amethystina/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Mantar"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -40907,6 +46157,35 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Ametistskivling'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Laccaria_amethystina'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/laccaria-amethystina'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%90%D0%BC%D0%B5%D1%82%D0%B8%D1%81%D1%82%D0%BE%D0%B2%D0%B0_%D1%85%D0%B0%D0%BC%D0%B5%D0%BB%D0%B5%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0_%D0%B3%D1%8A%D0%B1%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -41007,6 +46286,7 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 2,
     label: {
+      tr: "alaca mummantarı",
       sl: "koničasta vlažnica",
       hr: "stožasta vlažnica",
       sr: "купаста влажница",
@@ -41022,7 +46302,9 @@ export const CATALOG = [
       nl: 'Zwartwordende wasplaat',
       da: 'kegle-vokshat',
       no: 'kjeglevokssopp',
-      sv: 'toppvaxing'
+      sv: 'toppvaxing',
+      ro: 'pălăria vrăjitoarei',
+      bg: 'чернееща черешова гъба'
     },
     names: {
       en: [
@@ -41031,9 +46313,22 @@ export const CATALOG = [
         "conical slimy cap"
       ],
       es: ['seta cónica'],
-      sv: ['toppvaxskivling']
+      sv: ['toppvaxskivling'],
+      bg: ['шапка на вещица']
     },
     text: {
+      tr: {
+          "description": "Eski otlaklarda ve çayırlarda yaşayan biyotrof veya saprofit bir mummantarıdır. Kuzey Yarımküre'de yaygın olup suni gübre görmemiş doğal meralarda ve fundalıklarda bulunur.",
+          "cap": "Şapka 2–6 cm genişliğinde olup belirgin şekilde sivri konik biçimindedir; olgunlukta bile konik formunu korur. Parlak kırmızı, turuncu veya sarı renktedir; yaşlandıkça, dokunulduğunda veya berelendiğinde hızla tamamen kömür karasına döner. Yüzeyi parlak, kaygan veya hafif yapışkandır.",
+          "hymenium": "Lameller kalın, serbest veya sapa dar yapışık, balmumsu ve aralıklıdır; başlangıçta sarı veya turuncudur, berelendiğinde ve kurudukça tamamen siyahlaşır.",
+          "stipe": "Sap 4–10 cm uzunluğunda ve 4–8 mm kalınlığında, silindirik, içi boş, boyuna lifli ve kabadır; sarı veya turuncudur; tabanı beyazdır; dokunulduğunda ve yaşlandıkça siyaha döner.",
+          "flesh": "Etli kısım ince, sarı-turuncudur; havayla temas ettiğinde derhal kararır. Kokusuz ve tatsızdır.",
+          "habitat": "Meyve gövdeleri yaz ortasından sonbahar sonuna kadar görülür. Doğal çayırlarda, otlaklarda ve kum tepelerinde tek tek veya küçük gruplar halinde yetişir.",
+          "sporePrint": "Beyaz. Sporlar elipsoid, pürüzsüz ve yaklaşık 8–11 × 5–6,5 μm boyutlarındadır.",
+          "uses": "Zehirli veya şüpheli kabul edilir; kesinlikle tüketilmez. Hafif sindirim rahatsızlıklarına yol açabilir ve besin değeri yoktur.",
+          "confusion": "Kumul mummantarı (Hygrocybe conicoides) kumullarda yetişir ve daha yavaş kararır. Sararan mummantarı (Hygrocybe chlorophana) kararmaz.",
+          "notes": "Olgunlaştığında tamamen kömür gibi siyahlaşarak haftalarca çayırda dik durabilmesiyle tanınır."
+    },
       sl: {
           "description": "Saprotrofna travniška goba z živo oranžnordečim klobukom, ki ob dotiku ali s starostjo popolnoma počrni. Razširjena je po vsem svetu.",
           "cap": "Klobuk meri 2–6 cm v premeru, je izrazito ostro stožčast, vlažen in lepljiv. Je živo rdeče, oranžne ali rumenkaste barve, ob dotiku ali staranju v nekaj urah počrni.",
@@ -41235,9 +46530,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar växer från juli till oktober i ogödslade naturbetesmarker, ängar, vägrenar och sanddyner.',
       uses: 'Oätlig eller svagt giftig; kan orsaka mag- och tarmbesvär och saknar matvärde.',
       confusion: 'Hygrocybe conicoides växer på kalkrika sanddyner, har gula eller rödaktiga skivor och svartnar mycket långsammare (sporer 10–12,5 × 5–6 μm). Hygrocybe acutoconica och scharlakansvaxing (Hygrocybe punicea) svartnar inte. Blodvaxing (Hygrocybe coccinea) och mönjevaxing (Hygrocybe miniata) svartnar inte. Hygrocybe nigrescens har trubbigare, mindre konisk hatt och växer i ekskogar. Hygrocybe singeri svartnar också men har klibbig fot. Papegojvaxing (Gliophorus psittacinus) är mer brokigt färgad och skiftar ofta i grönt.'
+    },
+    ro: {
+      description: 'Ciupercă saprotrofă din pajiști nefertilizate, fânețe, dune și poieni forestiere. Frecventă în Europa, Asia și America de Nord.',
+      cap: 'Pălăria are 2–8 cm lățime, ascuțit conică la început și menținându-și vârful conic chiar și după deschidere. Cuticula este lucioasă, vâscoasă la umezeală, de un roșu-stacojiu, portocaliu sau galben aprins. O trăsătură spectaculoasă este că toate părțile ciupercii se înnegresc complet la atingere, rănire sau pe măsură ce îmbătrânesc.',
+      hymenium: 'Lamelele sunt libere sau slab adnate, groase, ceroase, galben-deschise până la portocalii, înnegrindu-se lent odată cu vârsta sau la manipulare.',
+      stipe: 'Piciorul are 3–10 cm lungime și 0,4–1 cm grosime, cilindric, fibros-striat longitudinal, galben sau portocaliu cu baza albicioasă, virând treptat în negru la atingere.',
+      flesh: 'Carnea este subțire, fragilă, ceroasă, gălbuie, devenind neagră ca cărbunele la secțiune. Mirosul și gustul nu sunt distinctive.',
+      sporePrint: 'Alb. Sporii sunt elipsoidali, netezi, de circa 8–11 × 5–6,5 μm.',
+      habitat: 'Corpurile fructifere apar din iulie până în noiembrie pe pajiști naturale neatinse de îngrășăminte chimice, pășuni alpine și dune.',
+      uses: 'Este considerată otrăvitoare sau suspectă (otrăvitor), putând provoca tulburări gastrointestinale la consum.',
+      confusion: 'Alte specii de Hygrocybe cu pălărie roșie sau portocalie (precum Hygrocybe coccinea) nu se înnegresc deloc la atingere sau rănire.'
+    },
+    bg: {
+      description: 'Сапротрофна гъба по пасища, ливади и тревни площи. Широко разпространена в откритите тревни хабитати в цялото Северно полукълбо.',
+      cap: 'Гуглата е с диаметър 2–7 cm, рязко конична до острозвънчевидна, яркочервена, оранжева или жълта. Най-характерният белег на вида е, че при нараняване или застаряване цялото плодно тяло бавно и необратимо почернява.',
+      hymenium: 'Ламелите са свободни до тясно прираснали, дебели, восъчни, жълтеникави до оранжеви, бавно почерняващи.',
+      stipe: 'Пънчето е цилиндрично, надлъжно влакнесто, кухо, високо 5–10 cm и дебело 4–8 mm, жълто-оранжево, почерняващо при докосване.',
+      flesh: 'Месото е много крехко, тънко, жълтеникаво, бързо почерняващо на въздух.',
+      sporePrint: 'Бял. Спорите са елипсовидни, гладки, 8–12 × 5–7 μm.',
+      habitat: 'Плодните тела се срещат от юни до ноември по бедни пасища, ливади и горски поляни.',
+      uses: 'Счита се за слабо отровна или неядлива; консумацията ѝ може да причини стомашно-чревни разстройства.',
+      confusion: 'Други видове черешови гъби с червен или оранжев цвят не почерняват при допир или застаряване.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/alaca-mummantari-hygrocybe-conica/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Mantar"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -41491,6 +46820,25 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Toppvaxing'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Hygrocybe_conica'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/hygrocybe-conica'
+        }
       ]
     },
     synonyms: [
@@ -41593,6 +46941,7 @@ export const CATALOG = [
     fruitingFrom: 1,
     fruitingTo: 12,
     label: {
+      tr: "mıhbaşı mantarı",
       sl: "dišeča sehlica",
       hr: "vilin klinčac",
       sr: "вилин клинчић",
@@ -41608,15 +46957,31 @@ export const CATALOG = [
       nl: 'Weidekringzwam',
       da: 'elledans-bruskhat',
       no: 'nelliksopp',
-      sv: 'nejlikbrosking'
+      sv: 'nejlikbrosking',
+      ro: 'burete de rouă',
+      bg: 'обикновена челядинка'
     },
     names: {
       en: ["fairy ring champignon", "Scotch bonnet"],
       sk: ["tanečnica", "klinček", "špička", "tančok", "potančok", "tancuľka", "pipíšky", "uľahliarky"],
       es: ['bailarina', 'carrerilla', 'seta de corro'],
-      sv: ['nejlikbroskskivling']
+      sv: ['nejlikbroskskivling'],
+      ro: ['turtă'],
+      bg: ['челядинка', 'гвоздейка']
     },
     text: {
+      tr: {
+          "description": "Çimenlik alanlarda yaprak ve kök artıklarını ayrıştıran saprofit bir mantardır. Avrupa ve Kuzey Amerika'da otlaklarda, meralarda, parklarda ve bahçelerde devasa peri halkaları oluşturarak yetişir.",
+          "cap": "Şapka 2–5 cm genişliğinde olup başlangıçta dışbükeydir, daha sonra düzleşir ve merkezinde belirgin geniş bir tümsek (umbo) taşır. Rengi devetüyü, saman sarısı veya soluk taba rengindedir; higrofandır, ıslandığında koyulaşır, kuruduğunda açık krem rengine döner; yüzeyi pürüzsüz ve derimsidir.",
+          "hymenium": "Lameller serbest veya sapa serbestçe yapışıktır; kalın, belirgin şekilde seyrek ve geniştir; krem veya soluk devetüyü renktedir.",
+          "stipe": "Sap 3–7 cm uzunluğunda ve 2–5 mm kalınlığında, sert, son derece elastik ve bükülebilir; kolayca kırılmaz ve parmakla büküldüğünde geri yaylanır; soluk devetüyü renktedir.",
+          "flesh": "Etli kısım ince, beyaz veya açık devetüyüdür. Hoş, bademsi veya siyanik (taze fındık) kokusuna ve tatlımsı bir lezzete sahiptir.",
+          "habitat": "Meyve gövdeleri mayıs ayından kasım sonuna kadar görülür. Çayırlarda, otlaklarda, futbol sahalarında ve parklarda büyük daireler (peri halkaları) halinde yetişir.",
+          "sporePrint": "Beyaz. Sporlar damla biçimli veya elipsoid, pürüzsüz ve yaklaşık 7–10 × 4–6 μm boyutlarındadır.",
+          "uses": "Seçkin yemeklik bir mantardır. Zengin fındıksı aromasıyla çorbalara, soslara ve omletlere harika bir lezzet katar; kurutulduğunda aylarca saklanabilir ve suya konduğunda tamamen canlanarak orijinal formunu geri kazanır. Sert sapları ayıklanmalıdır.",
+          "confusion": "Ölümcül zehirli ölümcül pullu mantar (Lepiota brunneoincarnata) pullu şapkaya sahiptir. Zehirli beyaz huni mantarı (Clitocybe rivulosa) beyaz unsu şapkalı ve sık lamellidir.",
+          "notes": "İçerdiği trehaloz şekeri sayesinde kuruduktan sonra su aldığında hücreleri yeniden canlanabilir ve spor üretimine devam edebilir."
+    },
       sl: {
           "description": "Majhna saprotrofna travniška goba, ki pogosto tvori velike vilinske kroge na travnikih. Razširjena je v Evropi in Severni Ameriki.",
           "cap": "Klobuk meri 2–5 cm v premeru, sprva je polkrožen, nato zravnan s topo osrednjo grbico. Je usnjato rumenkaste, bledo oker ali mesnate barve, v suhem stanju posvetli, po dežju pa oživi.",
@@ -41819,9 +47184,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar uppträder från maj till senhösten i gräsmattor, betesbackar, ängar, parker och golfbanor, ofta i tydliga häxringar.',
       uses: 'En läcker och mycket uppskattad matsvamp med fyllig smak. Endast hattarna används då foten är alltför seg. Den är utmärkt att torka.',
       confusion: 'Gifttråding (Inosperma erubescens) och giftiga trattskivlingar (Clitocybe rivulosa) har tätare skivor, icke-seg fot och saknar den typiska nejlikdoften.'
+    },
+    ro: {
+      description: 'Ciupercă saprotrofă comună ce crește pe pajiști, peluze și pășuni. Are proprietatea remarcabilă de revivescență, rehidratându-se și reluându-și sporularea după perioade lungi de secetă. Frecventă în întreaga Europă și America de Nord.',
+      cap: 'Pălăria are 2–5 cm lățime, convexă la început și apoi aplatizată cu un mamelon central rotunjit obtuz. Cuticula este netedă, de culoare ocru-cafenie sau galben-brună la umezeală, decolorându-se la uscăciune spre crem-izabel.',
+      hymenium: 'Lamelele sunt distanțate, late, libere, de culoare alb-gălbuie până la crem-deschis.',
+      stipe: 'Piciorul are 3–8 cm lungime și 2–5 mm grosime, cilindric, foarte tenace, elastic și fibros (putând fi răsucit fără a se rupe), albicios în partea de sus și ocru-cafeniu spre bază.',
+      flesh: 'Carnea este subțire, albicioasă, elastică în pălărie și tenace în picior. Mirosul este dulceag și foarte plăcut, de migdale amare sau fân cosit, datorită urmelor de acid cianhidric, iar gustul este dulceag de nucă.',
+      sporePrint: 'Alb. Sporii sunt elipsoidali, netezi, de circa 7–9 × 4,5–5,5 μm.',
+      habitat: 'Corpurile fructifere apar din mai până în noiembrie în iarbă pe pășuni, fânețe și margini de drumuri, formând cercuri mari ale vrăjitoarelor.',
+      uses: 'Este o specie comestibilă excelentă (comestibil excelent). Se folosesc exclusiv pălăriile (picioarele fiind prea tenace), delicioase în supe, omlete sau uscate.',
+      confusion: 'Pâlnioara albă (Clitocybe rivulosa) este o ciupercă toxică mortală ce crește în aceleași pajiști; se distinge prin lamelele dese decurente pe picior și lipsa mamelonului central evident.'
+    },
+    bg: {
+      description: 'Сапротрофна гъба по тревни площи, пасища, ливади и паркове. Много честа в Европа, образуваща характерни самодивски кръгове в тревата.',
+      cap: 'Гуглата е малка, с диаметър 2–5 cm, изпъкнала с изразена тъпа гърбица в центъра, по-късно почти плоска. Цветът е кожестоохрен, бледожълтеникавокафяв до кремав. Хигрофанна е – изсъхва и лесно се възстановява след дъжд.',
+      hymenium: 'Ламелите са свободни до слабо прираснали, дебели, много редки, с междинни ламелули, белезникави до кремави.',
+      stipe: 'Пънчето е много жилаво, цилиндрично, плътно, еластично (може да се усуче без да се счупи), високо 3–7 cm и дебело 2–4 mm, белезникаво до бледообагрено в охра.',
+      flesh: 'Месото е белезникаво, тънко, със силен и изключително приятен сладникав аромат на горчиви бадеми (цианидна нотка).',
+      sporePrint: 'Бял. Спорите са елипсовидни, гладки, около 7–9 × 4,5–6 μm.',
+      habitat: 'Плодните тела се появяват от май до ноември на богати находища в трева по пасища, поляни и паркове.',
+      uses: 'Отлична ядлива гъба, изключително ароматна и ценена за супи и сосове. Събират се само гуглите, тъй като пънчетата са прекалено жилави.',
+      confusion: 'Отровните видове бели орешарки (Clitocybe dealbata, Clitocybe rivulosa) имат много гъсти низбягващи ламели, нямат гърбица на гуглата и пънчето им е чупливо, а не жилаво.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/mihbasi-mantari-marasmius-oreades/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Mantar"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -42064,6 +47463,35 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Nejlikbrosking'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Marasmius_oreades'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/marasmius-oreades'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%9E%D0%B1%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B0_%D1%87%D0%B5%D0%BB%D1%8F%D0%B4%D0%B8%D0%BD%D0%BA%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -42158,6 +47586,7 @@ export const CATALOG = [
     fruitingFrom: 5,
     fruitingTo: 1,
     label: {
+      tr: "tırtıl mantarı",
       sl: "kokonov glavatec",
       hr: "gusjeničar",
       et: "harilik kedristõlvik",
@@ -42171,7 +47600,8 @@ export const CATALOG = [
       nl: 'Rupsendoder',
       da: 'puppe-snyltekølle',
       no: 'rød åmeklubbe',
-      sv: 'röd larvklubba'
+      sv: 'röd larvklubba',
+      bg: 'обикновена рача нога'
     },
     names: {
       en: ["scarlet caterpillar fungus", "scarlet caterpillar club"],
@@ -42179,6 +47609,18 @@ export const CATALOG = [
       sv: ['larvklubba']
     },
     text: {
+      tr: {
+          "description": "Toprak altındaki güve ve kelebek pupaları veya tırtılları üzerinde endoparazit olarak yaşayan bir ascomycete mantarıdır. Avrupa, Asya ve Kuzey Amerika'da nemli ormanlarda ve fundalıklarda yaygın olarak bulunur.",
+          "cap": "Meyve gövdesi (stroma) 2–6 cm yüksekliğinde ve 3–8 mm kalınlığında, tokmak veya silindirik biçimdedir; parlak turuncu veya kızıl turuncu renktedir. Üst verimli kısım peritesyumların ağızlarından oluşan küçük tanecikli siğillerle kaplıdır.",
+          "hymenium": "Peritesyumlar stromanın üst kısmına gömülüdür; askuslar çok uzun, silindirik ve 8 sporludur; askosporlar ipliksidir ve çok sayıda küçük parçaya bölünür.",
+          "stipe": "Stroma tabanı daha soluk sarı-turuncudur ve toprak altındaki ölü böcek pupasına sıkıca tutunur.",
+          "flesh": "Etli kısım lifli, sert ve soluk turuncudur. Belirgin bir kokusu yoktur.",
+          "habitat": "Meyve gövdeleri yaz sonu ve sonbaharda görülür. Yosunlu çayırlarda, orman açıklıklarında ve nemli orman zemininde tek tek çıkar.",
+          "sporePrint": "Beyaz veya açık renkli. Askospor parçacıkları silindirik ve yaklaşık 3,5–6 × 1–1,5 μm boyutlarındadır.",
+          "uses": "Tıbbi ve yenilebilir bir mantardır. Geleneksel Çin tıbbında ve modern biyoteknolojide kordisepin, adenozin ve polisakkaritler açısından zengin olduğu için bağışıklık güçlendirici ve enerji artırıcı olarak çay veya ekstrakt şeklinde kullanılır.",
+          "confusion": "Başçıklı parazit mantarı (Tolypocladium capitatum) toprak altı trüf mantarları üzerinde parazittir ve sarı-kahverengi renktedir.",
+          "notes": "Laboratuvar ortamında tahıl substratları üzerinde yapay olarak yetiştirilebilmektedir."
+    },
       sl: {
           "description": "Zajedavska zaprtotrosnica (Ascomycota), ki parazitira na bubah in gosenicah metuljev v tleh. Razširjena je po vsej severni polobli.",
           "cap": "Trosnjak je kijaste oblike, visok 2–6 cm in debel 3–8 mm, živo oranžne do škrlatno rdeče barve. Zgornji odebeljeni del je hrapav zaradi ustij vgreznjenih peritecijev.",
@@ -42380,9 +47822,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar påträffas från augusti till november på marken i mossiga skogar och betesmarker, alltid fästade vid en puppan eller larv av en fjäril djupt i mossan.',
       uses: 'Ätlig och mycket uppskattad inom traditionell och modern asiatisk naturmedicin för sitt innehåll av cordycepin och polysackarider.',
       confusion: 'Hagfingersvamp (Clavulinopsis laeticolor) bildar orangea klubbor som kan förväxlas med denna art innan basen grävs upp; röd larvklubba har ett knottrigt fertilt huvud och växer ut från en underjordisk puppa eller larv. Hjorttryffelklubba (Tolypocladium ophioglossoides) är rödbrun till svart upptill och gul, brun eller svart nedom, och gula trådar förbinder den med en underjordisk hjorttryffel (Elaphomyces).'
+    },
+    ro: {
+      description: 'Ciupercă ascomicetă entomopatogenă ce parazitează crisalidele și pupele îngropate ale fluturilor de noapte. Este răspândită în Europa, Asia și America de Nord.',
+      cap: 'Corpul fructifer este o măciucă stromatică simplă de 2–6 cm înălțime și 2–6 mm grosime, de un portocaliu-aprins până la roșu-stacojiu.',
+      hymenium: 'Suprafața fertilă este partea superioară îngroșată a măciucii, presărată dens cu peritecii mici proeminente ce îi conferă un aspect rugos sau granulat.',
+      stipe: 'Baza este o tulpină sterilă mai subțire, galben-portocalie palidă, ce coboară în pământ până la crisalida îngropată a insectei gazdă.',
+      flesh: 'Carnea este albicioasă până la portocaliu-palid, elastică în tinerețe. Mirosul și gustul nu sunt semnificative.',
+      sporePrint: 'Alb până la gălbui-palid. Ascele lungi produc ascospori filamentoși care se fragmentează la maturitate în celule mici de 3–5 × 1–1,5 μm.',
+      habitat: 'Apare din iulie până în noiembrie pe sol printre mușchi și litieră în păduri și pajiști umede.',
+      uses: 'În ghidurile europene este tratată ca necomestibilă (necomestibil) din cauza dimensiunilor reduse. În medicina tradițională asiatică este cultivată pe scară largă pentru conținutul său de cordicepină și polizaharide bioactive.',
+      confusion: 'Specia galbenă (Clavulinopsis laeticolor) este o ciupercă coraloidă galben-portocalie saprotrofă ce nu crește pe insecte și nu are peritecii punctate pe suprafață.'
+    },
+    bg: {
+      description: 'Ентомопатогенна паразитна торбеста гъба (аскомицет). Паразитира върху какавиди и гъсеници на пеперуди, заровени в почвата или мъха.',
+      cap: 'Стромата е бухалковидна, висока 2–6 cm и дебела 3–8 mm, оранжева до яркочервена. Горната задебелена част е покрита с малки точици – отворите на потопените перитеции.',
+      hymenium: 'Спорообразуващите структури (перитеции) съдържат цилиндрични аски с дълги нишковидни аскоспори, които се разпадат на отделни сегменти.',
+      stipe: 'Стерилната долна част е гладка, цилиндрична, излизаща от мумифицираната какавида под земята.',
+      flesh: 'Месото е белезникаво до оранжево, влакнесто.',
+      sporePrint: 'Бял. Аскоспорите са много дълги, нишковидни, сегментирани в аските.',
+      habitat: 'Плодните тела израстват от август до ноември сред мъхове и горска постеля в широколистни и смесени гори.',
+      uses: 'Не се събира за кулинарни цели, но се култивира масово и намира широко приложение в традиционната източна медицина и биотехнологиите заради съдържанието на кордицепин.',
+      confusion: 'Видовете от род Clavulinopsis са сапротрофни, не израстват от заровени насекоми и нямат потопени перитеции.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/tirtil-mantari-cordyceps-militaris/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Cordyceps"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -42625,6 +48101,25 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/R%C3%B6d_larvklubba'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'MycoBank',
+          href: 'https://www.mycobank.org/page/Name%20details%20page/name/Cordyceps%20militaris'
+        },
+        {
+          group: 'text',
+          name: 'Index Fungorum',
+          href: 'https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=211756'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%9E%D0%B1%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B0_%D1%80%D0%B0%D1%87%D0%B0_%D0%BD%D0%BE%D0%B3%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -42715,6 +48210,7 @@ export const CATALOG = [
     fruitingFrom: 7,
     fruitingTo: 12,
     label: {
+      tr: "aslan yelesi mantarı",
       sl: "resasti bradovec",
       hr: "resasti igličar",
       sr: "лавља грива",
@@ -42730,14 +48226,28 @@ export const CATALOG = [
       pt: 'juba-de-leão',
       da: 'pindsvinepigsvamp',
       no: 'piggsvinsopp',
-      sv: 'igelkottstaggsvamp'
+      sv: 'igelkottstaggsvamp',
+      bg: 'игловиден корал'
     },
     names: {
       en: ["bearded tooth", "bearded hedgehog", "tree hedgehog"],
       es: ['barba de cabra', 'erizo'],
-      sv: ['igelkottsvamp']
+      sv: ['igelkottsvamp'],
+      bg: ['лъвска грива']
     },
     text: {
+      tr: {
+          "description": "Canlı veya devrilmiş sert odunlu ağaçlarda beyaz çürüklüğe yol açan parazit ve odun çürüten saprofit bir mantardır. Kuzey Yarımküre genelinde meşe, kayın, ceviz ve ceviz ağaçlarında yetişir; nadir ve koruma altında olan bir türdür.",
+          "cap": "Meyve gövdesi 10–30 cm genişliğinde olup küremsi, oval veya yastık biçiminde sarkık bir kütledir. Yüzeyi tamamen 1–5 cm uzunluğunda, aşağıya doğru sarkan yoğun, yumuşak, buz saçağını veya aslan yelesini andıran beyaz dikenlerle kaplıdır; yaşlandıkça krem veya sarımsı devetüyü tona döner.",
+          "hymenium": "Himenyum sarkan dikenlerin dış yüzeyini kaplar.",
+          "stipe": "Belirgin bir sapı yoktur; ağaç gövdesine kalın ve sağlam etli bir tabanla tutunur.",
+          "flesh": "Etli kısım kalın, elastik, süngerimsi ve beyazdır. Hoş, meyvemsi bir kokusu ve deniz ürünlerini (ıstakoz veya yengeç) andıran tatlımsı bir lezzeti vardır.",
+          "habitat": "Meyve gövdeleri yaz sonu ve sonbaharda görülür. Yaşlı canlı kayın ve meşe ağaçlarının kovuklarında veya devrilmiş kütüklerinde tek tek yetişir.",
+          "sporePrint": "Beyaz. Sporlar küremsi ile yarı küremsi, ince siğilli, amiloid ve yaklaşık 5–6,5 × 4,5–5,5 μm boyutlarındadır.",
+          "uses": "Seçkin yemeklik ve tıbbi bir mantardır. Istakoz benzeri dokusu ve lezzetiyle gurme mutfaklarda dilimlenip tereyağında kızartılarak tüketilir. İçerdiği herisenon ve erinasin bileşikleri sinir büyüme faktörünü (NGF) uyararak beyin sağlığını ve hafızayı destekler.",
+          "confusion": "Dede sakalı mantarı (Hericium coralloides) çok dallı mercan yapısındadır ve dikenleri dalların üzerinde yer alır.",
+          "notes": "Avrupa'nın birçok ülkesinde doğal popülasyonları nadir olduğu için toplanması sınırlandırılmış veya yasaklanmıştır."
+    },
       sl: {
           "description": "Nenavadna lesna saprotrofna in zajedavska goba z dolgimi visečimi iglicami. Razširjena je v starih listnatih gozdovih Evrope, Severne Amerike in Azije.",
           "cap": "Trosnjak je blazinaste do kroglaste oblike, meri 10–25 cm v premeru. Celotna površina je prekrita z gostimi, mehkimi, navzdol visečimi iglicami, dolgimi 1–5 cm. Barva je sprva snežno bela, kasneje kremasta in v starosti rumenkasta do bledo rjava.",
@@ -42940,9 +48450,44 @@ export const CATALOG = [
       habitat: 'Fruktkroppar uppträder under hösten högt uppe på stammar eller i håligheter av gamla, levande eller nyligen döda ädellövträd, särskilt bok och ek.',
       uses: 'En delikat och utsökt matsvamp med hummerliknande smak och fin konsistens. Den odlas kommersiellt under namn som \'lion\'s mane\' och studeras för nervskyddande ämnen (hericenoner och erinaciner). I Sverige är den fridlyst och rödlistad.',
       confusion: 'Koralltaggsvamp (Hericium coralloides) har rikt grenade grenar med kortare taggar som påminner om en vit havskorall.'
+    },
+    ro: {
+      description: 'Ciupercă saprotrofă și parazită rară ce crește pe trunchiurile arborilor bătrâni de foioase (mai ales fag și stejar). Răspândită în Europa, Asia și America de Nord.',
+      cap: 'Nu are pălărie individuală delimitată. Corpul fructifer este o masă masivă, globulară sau ovală, de 10–30 cm lățime, neramificată, din care atârnă în jos o cascadă deasă de aculi lungi.',
+      hymenium: 'Partea inferioară și laterală este acoperită complet de aculi lungi de 1–5 cm, paraleli, moi și atârnători. Sunt de un alb pur în tinerețe, devenind crem și apoi gălbui-bruni la bătrânețe.',
+      stipe: 'Piciorul lipsește sau este redus la o bază cărnoasă groasă prin care corpul se prinde direct de trunchiul arborelui.',
+      flesh: 'Carnea este groasă, albă, elastică și spongioasă în tinerețe. Mirosul este plăcut, amintind de ciupercă proaspătă sau fructe de mare, iar gustul gătit amintește de homar sau crabi.',
+      sporePrint: 'Alb. Sporii sunt sferici până la elipsoidali, fin amiloizi, de circa 5–6,5 × 4,5–5,5 μm.',
+      habitat: 'Corpurile fructifere apar din august până în noiembrie în scorburi sau pe trunchiuri bătrâne de fag și stejar.',
+      uses: 'Este o specie comestibilă de primă clasă (comestibil excelent) în stadiu tânăr, larg cultivată la nivel internațional pentru valoarea sa culinară și proprietățile nootrope (stimularea factorului de creștere a nervilor).',
+      confusion: 'Hericium coralloides este ramificat abundent în formă de coral, cu aculi mult mai scurți (sub 1 cm) dispuși de-a lungul ramurilor.'
+    },
+    bg: {
+      description: 'Рядка дърворазрушаваща паразитна и сапротрофна гъба, причиняваща бяло гниене по стари живи и паднали широколистни дървета (особено бук и дъб).',
+      cap: 'Плодното тяло е с размери 10–25 cm, компактно, възглавничковидно или сърцевидно, чисто бяло до кремаво в младост, по-късно жълтеникаво.',
+      hymenium: 'Хименофорът се състои от гъсти, дълги (1–5 cm), меки висящи шипчета, покриващи цялата долна и странична част и наподобяващи ледени висулки или лъвска грива.',
+      stipe: 'Пънче липсва или е оформено като къса плътна странична основа, закрепена за дървесината.',
+      flesh: 'Месото е бяло, дебело, еластично, с приятен аромат и деликатен вкус, наподобяващ месо от омар или рак.',
+      sporePrint: 'Бял. Спорите са широко елипсовидни до закръглени, фино брадавичести, амилоидни, около 5–6,5 × 4–5,5 μm.',
+      habitat: 'Плодните тела се развиват през есента (септември–ноември) по стволовете на стари широколистни дървета.',
+      uses: 'Отлична ядлива гъба в млада възраст. Ценен кулинарен деликатес и важен медицински вид, култивиран заради съдържанието на хериценони и еринацини, стимулиращи мозъчната дейност.',
+      confusion: 'Обикновеният корал (Hericium coralloides) има силно разклонена кораловидна структура с по-къси шипчета.',
+      notes: 'В Червената книга на Република България видът е включен с категория застрашен (Endangered).'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/aslan-yelesi-hericium-erinaceus/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Mantar"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -43224,6 +48769,35 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Igelkottstaggsvamp'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'MycoBank',
+          href: 'https://www.mycobank.org/page/Name%20details%20page/name/Hericium%20erinaceus'
+        },
+        {
+          group: 'text',
+          name: 'Index Fungorum',
+          href: 'https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=144357'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Червена книга на Република България',
+          href: 'http://e-ecodb.bas.bg/rdb/bg/vol1/Hererina.html'
+        },
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/hericium-erinaceus'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%98%D0%B3%D0%BB%D0%BE%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD_%D0%BA%D0%BE%D1%80%D0%B0%D0%BB'
+        }
       ]
     },
     synonyms: [
@@ -43347,6 +48921,7 @@ export const CATALOG = [
     fruitingFrom: 5,
     fruitingTo: 10,
     label: {
+      tr: "ölümsüzlük mantarı",
       sl: "svetlikava pološčenka",
       hr: "hrastova sjajnica",
       sr: "храстова сјајница",
@@ -43363,12 +48938,27 @@ export const CATALOG = [
       pt: 'pipa',
       da: 'skinnende lakporesvamp',
       no: 'lakkjuke',
-      sv: 'lackticka'
+      sv: 'lackticka',
+      ro: 'lingurița zânelor',
+      bg: 'лъскава ганодерма'
     },
     names: { es: ['reishi', 'seta pipa'],
-      pt: ['cogumelo-da-imortalidade', 'reishi']
+      pt: ['cogumelo-da-imortalidade', 'reishi'],
+      bg: ['лакирана ганодерма', 'рейши']
     },
     text: {
+      tr: {
+          "description": "Geniş yapraklı ağaçların köklerinde ve kütüklerinde beyaz çürüklüğe yol açan parazit ve odun çürüten saprofit bir polipor mantarıdır. Avrupa ve Asya'da özellikle meşe ve kestane ağaçlarında yetişir.",
+          "cap": "Şapka 5–20 cm genişliğinde olup böbrek, yelpaze veya yarım daire biçimindedir. Üst yüzeyi kalın, sert, vernik sürülmüş gibi parlak cilalı ve konsantrik dalgalıdır; koyu kırmızımsı kahverengi, kestane rengi veya bordo-kırmızıdır; aktif büyüyen kenarı beyaz veya parlak sarıdır.",
+          "hymenium": "Alt yüzey beyaz veya açık krem rengi çok küçük gözeneklerden oluşur; dokunulduğunda veya berelendiğinde kahverengileşir.",
+          "stipe": "Sap genellikle belirgin, 5–15 cm uzunluğunda, yanal, kıvrık ve şapka gibi parlak cilalı koyu kırmızı-kahverengidir.",
+          "flesh": "Etli kısım odunsu, mantarımsı, lifli ve mantar rengindedir (açık kahverengi); son derece serttir. Belirgin acı bir tadı vardır.",
+          "habitat": "Meyve gövdeleri yaz ve sonbaharda görülür. Meşe kütüklerinde, köklerinde ve devrilmiş ağaç diplerinde tek tek veya küçük gruplar halinde yetişir.",
+          "sporePrint": "Kahverengi veya pas kahverengisi. Sporlar oval, çift çeperli, iç çeperi siğilli ve yaklaşık 9–12 × 6–8 μm boyutlarındadır.",
+          "uses": "Yenmez. Çok sert ve odunsu olduğu için mutfakta pişirilerek tüketilmez. Doğu tıbbında 'Reishi' veya 'Lingzhi' adıyla binlerce yıldır ölümsüzlük ve gençlik iksiri olarak kurutulup çay veya tentür şeklinde tüketilir; triterpenler ve polisakkaritler bakımından çok zengindir.",
+          "confusion": "Reçineli polipor (Ganoderma resinaceum) genellikle sapsızdır ve kabuğu kibrit aleviyle erir.",
+          "notes": "Çin ve Japon kültüründe uzun yaşamın ve bilgeliğin sembolü olarak sanatta sıkça resmedilmiştir."
+    },
       sl: {
           "description": "Lesna goba z lakasto bleščečim klobukom in betom. V Aziji je znana kot Reishi ali Lingzhi in velja za eno najpomembnejših zdravilnih gob.",
           "cap": "Klobuk meri 5–20 cm v premeru, je ledvičaste ali pahljačaste oblike. Zgornja površina je trda, valovita in prekrita s svetlečo smolnato skorjo, ki je videti kot lakirana. Barva je živo rdečerjava, kostanjeva do temno škrlatna, rob klobuka pa je v obdobju rasti bel do rumen.",
@@ -43569,9 +49159,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar utvecklas från sommar till höst vid basen av stubbar och levande stammar av lövträd, särskilt ek.',
       uses: 'Oätlig och träig. Den är en av de mest berömda medicinska svamparna i världen, känd som \'Reishi\' i Japan och \'Lingzhi\' i Kina, och används i tinkturer och teer för sitt innehåll av triterpener och polysackarider.',
       confusion: 'Hartsticka (Ganoderma resinaceum) är vanligen fotlös eller kortskaftad med mattare ovansida och växer vid basen av gamla levande träd, särskilt ek. Ganoderma carnosum är mörkare och purpursvart med lång sidoställd fot på ädelgran och gran. Platticka (Ganoderma applanatum) är matt och ockrabrun, fotlös och brett fästad vid underlaget. Skorpan hos Ganoderma pfeifferi smälter i en låga precis som hos lackticka; dess porer täcks av gult vax under vintern och våren på bok. Ganoderma valesiacum växer på lärk i Alperna.'
+    },
+    ro: {
+      description: 'Ciupercă parazită și saprotrofă anuală ce cauzează putregai alb pe rădăcinile și baza arborilor de foioase. Este renumită pe plan mondial în medicina tradițională chineză sub numele de Reishi sau Lingzhi.',
+      cap: 'Pălăria are 5–20 cm lățime, în formă de rinichi, evantai sau semicirculară. Suprafața superioară este acoperită de o crustă dură, lăcuită, lucioasă ca porțelanul, marcată de zone concentrice, de culoare roșu-castanie, brun-purpurie până la galben-aurie spre marginea tânără în creștere.',
+      hymenium: 'Tuburile sunt subțiri, de 0,5–2 cm adâncime, brun-deschise. Porii sunt foarte mici, rotunzi, albicioși până la crem-palid, pătându-se în brun la atingere.',
+      stipe: 'Piciorul este de obicei lateral sau excentric, de 5–15 cm lungime și 1–3 cm grosime, cilindric, neregulat, acoperit de aceeași crustă lucioasă roșu-brună lăcuită ca pălăria.',
+      flesh: 'Carnea este tare, fibroasă, suberoză (ca pluta) și lemnoasă, de culoare brun-scorțișorie. Mirosul este aromat, iar gustul este foarte amar.',
+      sporePrint: 'Brun. Sporii sunt ovoidali cu perete dublu caracteristic, galben-bruni, de 9–12 × 6–8 μm.',
+      habitat: 'Corpurile fructifere apar din mai până în noiembrie la baza stejarilor, castanilor și altor arbori de foioase.',
+      uses: 'Este complet necomestibilă (necomestibil) la gătit din cauza texturii lemnoase. Este utilizată pe scară largă în fitoterapie sub formă de pulberi, ceaiuri și extracte concentrate pentru proprietățile sale imunomodulatoare și antioxidante.',
+      confusion: 'Ganoderma resinaceum este de obicei sesilă (fără picior lung) și are o carne mai moale din care se scurge o rășină galbenă când este străpunsă.'
+    },
+    bg: {
+      description: 'Едногодишна или многогодишна дърворазрушаваща сапротрофна и паразитна гъба (полипор). Разпространена в широколистните гори на Европа, Азия и Северна Америка.',
+      cap: 'Гуглата е с диаметър 5–20 cm, бъбрековидна до ветриловидна. Горната повърхност е покрита с твърда, гладка кора, която изглежда блестяща, сякаш лакирана, с концентрични ивици. Цветът прелива от жълтеникав по ръба до червено-кафяв, кестеняв или почти черен в центъра.',
+      hymenium: 'Тръбичките са белезникави до сивокафяви, с много малки закръглени пори (4–5 на милиметър), потъмняващи при натиск.',
+      stipe: 'Пънчето е странично закрепено, извито, цилиндрично, високо 5–15 cm и дебело 1–3 cm, покрито със същата тъмночервена лакирана кора.',
+      flesh: 'Месото е корковидно до дървенисто, жилаво, светлокафяво.',
+      sporePrint: 'Ръждивокафяв. Спорите са с двойна стена, яйцевидни с пресечен връх, брадавичести, около 9–12 × 6–8 μm.',
+      habitat: 'Плодните тела се развиват от юни до ноември в основата или по пъновете на широколистни дървета (предимно дъб).',
+      uses: 'Неядлива поради дървенистата си структура. Световноизвестна лечебна гъба (рейши или линг-дзи), използвана под формата на екстракти и чайове за укрепване на имунната система.',
+      confusion: 'Плоската ганодерма (Ganoderma applanatum) няма странично дълго пънче и горната ѝ повърхност е матова, кафява, без лакиран блясък.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/olumsuzluk-mantari-reishi-ganoderma-lucidum/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Ganoderma_lucidum"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -43826,6 +49450,30 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Lackticka'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Ganoderma_lucidum'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/ganoderma-lucidum'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%9B%D1%8A%D1%81%D0%BA%D0%B0%D0%B2%D0%B0_%D0%B3%D0%B0%D0%BD%D0%BE%D0%B4%D0%B5%D1%80%D0%BC%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -43933,6 +49581,7 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 2,
     label: {
+      tr: "mortopaç mantarı",
       sl: "čokata žilolistka",
       hr: "ljubičasta lisičica",
       sr: "свињско уво",
@@ -43947,7 +49596,9 @@ export const CATALOG = [
       es: 'oreja de cerdo',
       da: 'køllekantarel',
       no: 'fiolgubbe',
-      sv: 'violgubbe'
+      sv: 'violgubbe',
+      ro: 'urechea porcului',
+      bg: 'виолетова тръбенка'
     },
     names: {
       en: ["pig's ear", "violet chanterelle", "clustered chanterelle"],
@@ -43955,6 +49606,18 @@ export const CATALOG = [
       sv: ['klubblik trumpetsvamp']
     },
     text: {
+      tr: {
+          "description": "Dağlık iğne yapraklı ormanlarda yetişen ektomikorizal bir mantardır. Orta ve Kuzey Avrupa'nın dağlarında göknar ve ladin ağaçlarıyla ortaklık kurar; kireçli toprakları tercih eder.",
+          "cap": "Meyve gövdesi 4–10 cm genişliğinde ve 6–15 cm yüksekliğinde olup tokmak, huni veya kesik koni biçimindedir; tepesi düz veya hafif çöküktür. Rengi menekşe moru, leylak rengi veya kirli et rengidir; yaşlandıkça sarımsı kahverengiye açılır; kenarları dalgalı ve lobludur.",
+          "hymenium": "Dış alt yüzey sapa doğru uzanan derin kıvrımlı, kırışık, çatallanan ve birbirine bağlanan damarlardan oluşur; menekşe moru veya kül moru renktedir; sporlar olgunlaştıkça aşıboyası rengine döner.",
+          "stipe": "Sap kalın, etli, gövdeyle birleşiktir ve tabana doğru daralır; menekşe moru veya açık renklidir.",
+          "flesh": "Etli kısım kalın, sert, lifli ve beyazımsıdır. Hoş, meyvemsi bir kokusu ve tatlımsı, hafif fındıksı bir lezzeti vardır.",
+          "habitat": "Meyve gövdeleri yaz sonu ve sonbaharda görülür. Dağlık göknar ve ladin ormanlarında kireçli zeminlerde ve yosunlar arasında yoğun kümeler halinde yetişir.",
+          "sporePrint": "Aşıboyası kahverengisi veya sarı-kahverengi. Sporlar elipsoid, yüzeyinde ince siğiller taşıyan ve yaklaşık 10–14 × 4,5–6 μm boyutlarındadır.",
+          "uses": "Seçkin yemeklik bir mantardır. Genç meyve gövdeleri mükemmel bir lezzete sahiptir; güveçlerde ve sote olarak pişirilir.",
+          "confusion": "Borazan mantarı (Craterellus cornucopioides) grimsi siyah, tamamen içi boş ve incedir. Menekşe renkli sarıkız (Cantharellus amethysteus) sarı şapka üzerinde mor pullar taşır.",
+          "notes": "Avrupa'nın birçok ülkesinde orman tahribatı nedeniyle kırmızı listede yer almakta olup toplanması kısıtlanmıştır."
+    },
       sl: {
           "description": "Ektomikorizna goba kijaste do lijakaste oblike z značilno vijoličasto trosovnico. Razširjena je v gorskih iglastih gozdovih Evrope in Severne Amerike.",
           "cap": "Trosnjaki rastejo posamično ali v šopih, visoki so 5–15 cm in široki 4–10 cm. Zgornji del je sploščen do udrto lijakast, z valovitim robom, bledo oker do vijoličasto rjavkaste barve.",
@@ -44157,9 +49820,44 @@ export const CATALOG = [
       uses: 'En god matsvamp, men i Sverige och större delen av Europa är den sällsynt och rödlistad och bör absolut skonas i naturen.',
       confusion: 'Trubbklubbsvamp (Clavariadelphus truncatus) är smalare och gul med en platt topp och en yta som endast är rynkad, inte täckt av tjocka åsar. Gomphus crassipes växer i gamla tall- och cederskogar kring Medelhavet; dess hatt är tydligare avsatt från foten, hymeniet är blekare grålila, hatten är ljust gråbrun och köttet är tydligt violett vid snitt (sporer 11–17 × 5,5–7 μm). Turbinellus floccosus och Turbinellus kauffmanii har liknande vasform men hatten är täckt av fjäll. Pseudocraterellus pseudoclavatus växer under barrträd i centrala och västra USA.',
       notes: 'I Tyskland klassades den som sårbar (Vulnerable) 1992. I Sverige är arten sårbar och knuten till skyddsvärda kalkgranskogar.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică rară din pădurile montane mature de conifere (brad, molid) și fag. Răspândită în zonele montane din Europa și America de Nord.',
+      cap: 'Corpul fructifer are 4–12 cm lățime și 6–15 cm înălțime, în formă de măciucă la început, devenind larg infundibuliform sau trunchiat, adesea concrescut în tufe neregulate. Partea superioară este ondulată, netedă sau fin solzoasă, de culoare ocru-cafenie cu nuanțe violete la margine.',
+      hymenium: 'Partea inferioară fertilă este formată din pliuri boante groase, anastomozate și ramificate reticulat, care coboară adânc pe picior, de o culoare caracteristică violet-purpurie palidă până la liliachiu-brună.',
+      stipe: 'Piciorul este scurt, cărnos, plin, continuându-se direct cu pălăria fără o demarcație netedă.',
+      flesh: 'Carnea este albă până la gălbuie-palid, groasă și fragedă. Mirosul este plăcut, aromatic, iar gustul este dulceag.',
+      sporePrint: 'Galben-ocru. Sporii sunt alungiți-eliptici, verucoși, de 10–14 × 4,5–6 μm.',
+      habitat: 'Corpurile fructifere apar din iulie până în octombrie pe soluri calcaroase în păduri bătrâne de brad și molid.',
+      uses: 'Este o specie comestibilă excelentă (comestibil excelent), foarte apreciată acolo unde este încă abundentă; fiind rară și protejată în multe țări europene, recoltarea sa trebuie evitată.',
+      confusion: 'Gălbiorul (Cantharellus cibarius) este complet galben-auriu și nu are nuanțe purpurii. iar (Clavariadelphus truncatus) este galben-ocru fără pliuri reticulate violete pe picior.'
+    },
+    bg: {
+      description: 'Ектомикоризна базидиева гъба, свързана с иглолистни дървета (смърч и ела) и бук в планински гори върху варовити почви.',
+      cap: 'Плодното тяло е с бухалковидна до фуниевидна форма, високо 5–15 cm и широко 4–12 cm, често с надиплен, неправилен горен ръб. Горната повърхност е плоска до леко вдлъбната, първоначално виолетова, по-късно охрено-кафеникава.',
+      hymenium: 'Хименофорът е разположен от външната долна страна и се състои от релефни надлъжни, многократно разклонени и мрежовидно свързани жилки с наситен виолетов цвят, избледняващ с възрастта.',
+      stipe: 'Пънчето е късо, плътно, преминаващо плавно във фунията на плодното тяло.',
+      flesh: 'Месото е белезникаво до бледожълтеникаво, дебело и плътно, с приятен аромат и деликатен вкус.',
+      sporePrint: 'Охреножълт. Спорите са елипсовидни, брадавичести, около 10–14 × 4,5–6 μm.',
+      habitat: 'Плодните тела израстват от юли до октомври на групи или снопове в планински иглолистни и букови гори.',
+      uses: 'Добра ядлива гъба в млада възраст, но събирането ѝ в природата следва да се избягва поради голямата ѝ рядкост.',
+      confusion: 'Същинската тръбенка (Craterellus cornucopioides) е сиво-черна, тънкостенна и дълбоко куха.',
+      notes: 'В Червената книга на Република България видът е включен с категория уязвим (Vulnerable).'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/mortopac-gomphus-clavatus/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Mantar"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -44409,6 +50107,40 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Violgubbe'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Gomphus_clavatus'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Червена книга на Република България',
+          href: 'http://e-ecodb.bas.bg/rdb/bg/vol1/Gomclava.html'
+        },
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/gomphus-clavatus'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%92%D0%B8%D0%BE%D0%BB%D0%B5%D1%82%D0%BE%D0%B2%D0%B0_%D1%82%D1%80%D1%8A%D0%B1%D0%B5%D0%BD%D0%BA%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -44517,6 +50249,7 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 12,
     label: {
+      tr: "koca kanlıyama mantarı",
       sl: "papagajska vlažnica",
       hr: "papigasta vlažnica",
       sr: "папагајска влажница",
@@ -44531,7 +50264,8 @@ export const CATALOG = [
       nl: 'Papegaaizwammetje',
       da: 'papegøje-vokshat',
       no: 'papegøyevokssopp',
-      sv: 'papegojvaxing'
+      sv: 'papegojvaxing',
+      bg: 'папагалска черешова гъба'
     },
     names: {
       en: [
@@ -44543,6 +50277,18 @@ export const CATALOG = [
       sv: ['papegojvaxskivling']
     },
     text: {
+      tr: {
+          "description": "Otlaklarda ve doğal çayırlarda yaşayan biyotrof veya saprofit bir mummantarıdır. Avrupa, Asya ve Kuzey Amerika'da işlenmemiş eski meralarda ve fundalıklarda yaygın olarak bulunur.",
+          "cap": "Şapka 1–4 cm genişliğinde olup başlangıçta çan veya konik biçimlidir, daha sonra dışbükeyleşir. Renkleri papağan tüyü gibi rengarenk ve alacalıdır; parlak papağan yeşili, zümrüt yeşili zemin üzerinde turuncu, sarı veya pembe tonlar taşır; yaşlandıkça sararır veya devetüyü tona açılır. Yüzeyi son derece kalın, yapışkan ve kaygan sümüksü bir tabaka ile kaplıdır.",
+          "hymenium": "Lameller kalın, aralıklı, sapa yapışık veya çentiklidir; yeşilimsi sarı, parlak sarı veya turuncu renktedir.",
+          "stipe": "Sap 3–7 cm uzunluğunda ve 3–7 mm kalınlığında, silindirik, içi boş ve çok kaygandır; üst kısmı parlak yeşil, alt kısmı ise sarı veya turuncudur.",
+          "flesh": "Etli kısım ince, yumuşak, yeşilimsi sarıdır. Kokusuz ve tatsızdır.",
+          "habitat": "Meyve gövdeleri yaz sonundan sonbahar sonuna kadar görülür. Doğal çayırlarda, yosunlu otlaklarda ve orman açıklıklarında tek tek veya küçük gruplar halinde yetişir.",
+          "sporePrint": "Beyaz. Sporlar elipsoid, pürüzsüz ve yaklaşık 7,5–10 × 4,5–6 μm boyutlarındadır.",
+          "uses": "Yenmez. Küçük boyutları, aşırı sümüksü yapısı ve şüpheli toksisitesi nedeniyle mutfak değeri yoktur; bazı kaynaklarda hafif sindirim rahatsızlığına yol açabileceği belirtilir.",
+          "confusion": "Balmumsu sarı mummantarı (Hygrocybe ceracea) tamamen sarı renktedir ve yeşil tonlar barındırmaz. Zümrüt yeşili sümüksü renk yapısıyla diğer türlerden kolayca ayrılır.",
+          "notes": "Eski ve doğal meraların korunmuşluk durumunu gösteren ekolojik bir indikatör türdür."
+    },
       sl: {
           "description": "Majhna travniška goba z živahnimi papagajsko zelenimi in oranžnimi barvami ter debelo sluzjo. Razširjena je v Evropi in Severni Ameriki.",
           "cap": "Klobuk meri 1–4 cm v premeru, sprva je zvonast, nato zravnan z nizko grbico. Prekrit je z debelo plastjo zelene sluzi; osnovna barva se preliva od travniško zelene do oranžne, rumene in rožnate, ko se stara, pa zelena barva zbledi v oker.",
@@ -44745,9 +50491,43 @@ export const CATALOG = [
       uses: 'Oätlig på grund av sin ringa storlek och slemmiga konsistens, och saknar matvärde.',
       confusion: 'Gliophorus perplexus saknar grönt vid fotspetsen och är orange till tegelröd. Gliophorus sciophanus är den övervägande röda europeiska svamp som hålls åtskild från den. Gliophorus reginae är rosa till köttfärgad, större och mer robust, och endast svagt slemmig. Gul vaxskivling (Gliophorus laetus) är orange eller gul, inte grön som ung och har tydligt nedlöpande skivor. Toppvaxing (Hygrocybe conica) svartnar vid beröring. Äldre gula exemplar kan tas för andra gula vaxskivlingar, men fotens absoluta spets förblir grön.',
       notes: 'Arten fungerar som signalart för ogödslade och hävdade naturbetesmarker med hög biologisk mångfald.'
+    },
+    ro: {
+      description: 'Ciupercă mică din pajiști nefertilizate, fânețe și dune, recunoscută după coloritul său spectaculos verde ca papagalul. Comună în Europa și America de Nord.',
+      cap: 'Pălăria are 1–5 cm lățime, semisferică la început și apoi convexă cu un mamelon obtuz. Este acoperită de un strat gros gelatinos și vâscos. Culoarea este de un verde-papagal strălucitor la început, decolorându-se odată cu vârsta spre galben-portocaliu, roz-somon sau ocru, verdele persistând adesea doar în centru.',
+      hymenium: 'Lamelele sunt adnate sau dințate la picior, groase, ceroase, verzi-gălbui până la galben-portocalii.',
+      stipe: 'Piciorul are 2–8 cm lungime și 0,2–0,8 cm grosime, cilindric, foarte lipicios și vâscos, de culoare verde în partea superioară și galben-portocalie spre bază.',
+      flesh: 'Carnea este subțire, apoasă, fragilă, verde-palidă. Mirosul și gustul nu sunt distinctive.',
+      sporePrint: 'Alb. Sporii sunt elipsoidali, netezi, de circa 7,5–9,5 × 4,5–5,5 μm.',
+      habitat: 'Corpurile fructifere apar din august până în noiembrie pe pajiști naturale vechi, pășuni și dune de nisip.',
+      uses: 'Este considerată necomestibilă (necomestibil) din cauza dimensiunilor reduse și a mucusului vâscos abundent.',
+      confusion: 'Specia înrudită (Gliophorus perplexus) este lipsită de nuanțe verzi la vârful piciorului, fiind portocalie până la roșu-cărămiziu.'
+    },
+    bg: {
+      description: 'Дребна сапротрофна гъба по естествени бедни пасища, ливади и тревни площи. Разпространена в цяла Европа и Северна Америка.',
+      cap: 'Гуглата е малка, с диаметър 1–4 cm, камбанковидна до изпъкнала с гърбица, покрита с дебел слой силно лепкава и хлъзгава зелена слуз. Окраската е многоцветна – яркозелена в младост, по-късно преливаща в жълто, оранжево или розовеещо, запазваща зелени нюанси най-дълго по ръба.',
+      hymenium: 'Ламелите са дебели, редки, восъчни, прираснали към пънчето, жълти до зеленикаво-жълти.',
+      stipe: 'Пънчето е тънко, кухо, слузесто, високо 3–7 cm и дебело 2–5 mm, в горната част яркозелено, а надолу жълто или оранжево.',
+      flesh: 'Месото е тънко, крехко, зеленикаво-жълто, без отчетлива миризма.',
+      sporePrint: 'Бял. Спорите са елипсовидни, гладки, около 7,5–9 × 4,5–5,5 μm.',
+      habitat: 'Плодните тела се срещат от август до ноември по стари пасища и незастроени ливади.',
+      uses: 'Счита се за неядлива поради дребните си размери, дебелия слой слуз и съмнения за стомашно дразнене при по-големи количества.',
+      confusion: 'Поради яркозелената слуз и пъстрата преливаща окраска е трудно да бъде объркана с други видове.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/koca-kanliyama-gliophorus-psittacinus/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Mantar"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -45022,6 +50802,25 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Papegojvaxing'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'MycoBank',
+          href: 'https://www.mycobank.org/page/Name%20details%20page/name/Gliophorus%20psittacinus'
+        },
+        {
+          group: 'text',
+          name: 'Index Fungorum',
+          href: 'https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=282054'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/hygrocybe-psittacina'
+        }
       ]
     },
     synonyms: [
@@ -45107,6 +50906,7 @@ export const CATALOG = [
     fruitingFrom: 5,
     fruitingTo: 2,
     label: {
+      tr: "bronz çörek mantarı",
       sl: "črni goban",
       hr: "hajdinski vrganj",
       sr: "црни вргањ",
@@ -45120,15 +50920,31 @@ export const CATALOG = [
       pt: 'tortulho',
       da: 'bronze-rørhat',
       no: 'eikesteinsopp',
-      sv: 'svartbrun stensopp'
+      sv: 'svartbrun stensopp',
+      ro: 'hrib arămiu',
+      bg: 'бронзова манатарка'
     },
     names: {
       en: ["dark cep", "queen bolete", "black porcini", "black cap bolete"],
       sk: [],
       es: ['hongo negro', 'boleto bronceado'],
-      pt: ['boleto-negro']
+      pt: ['boleto-negro'],
+      ro: ['hrib pucios'],
+      bg: ['бронзовка']
     },
     text: {
+      tr: {
+          "description": "Geniş yapraklı sıcak ormanlarda yetişen ektomikorizal bir bolet türüdür. Güney ve Orta Avrupa'da, Akdeniz havzasında meşe, kestane ve kayın ağaçlarının altında yaygındır.",
+          "cap": "Şapka 7–20 cm genişliğinde olup 25 cm'ye ulaşabilir; kalın, sert ve başlangıçta yarım küre biçimlidir, daha sonra dışbükeyleşir. Koyu bronz kahverengi, çikolata siyahı veya neredeyse siyahtır; genellikle bakır rengi veya pas rengi lekeler taşır; yüzeyi kuru ve kadifemsidir.",
+          "hymenium": "Borucuklar ve küçük gözenekler başlangıçta saf beyazdır ve uzun süre beyaz kalır; olgunlukta yeşilimsi sarıya döner. Berelendiğinde renk değiştirmez.",
+          "stipe": "Sap 6–15 cm uzunluğunda ve 3–8 cm kalınlığında, masif, soğan veya fıçı gibi şişkindir; tarçın kahverengisi veya devetüyü zemin üzerinde üst kısımda ince beyazımsı, alt kısımda kahverengi bir ağ deseni taşır.",
+          "flesh": "Etli kısım beyaz, son derece kalın ve çok serttir; kesildiğinde kesinlikle renk değiştirmez. Çok hoş, yoğun fındıksı ve mantarımsı bir kokuya ve mükemmel bir tada sahiptir.",
+          "habitat": "Meyve gövdeleri yaz ortasından sonbahar sonuna kadar görülür. Sıcak meşe, pırnal meşesi, kestane ve kayın ormanlarında kireçli veya asidik zeminlerde yetişir.",
+          "sporePrint": "Zeytin kahverengisi. Sporlar mekiksi, pürüzsüz ve yaklaşık 12–16 × 4–5,5 μm boyutlarındadır.",
+          "uses": "Seçkin yemeklik bir mantardır. Çörek mantarları grubunun gastronomi açısından en lezzetli ve en sert etli türü kabul edilir; taze olarak her türlü yemekte kullanılır veya kurutulur.",
+          "confusion": "Çörek mantarı (Boletus edulis) daha açık kahverengi şapkalıdır ve kütikula kenarında beyaz bir çizgi taşır. Yaz çörek mantarı (Boletus reticulatus) çatlak kadifemsi şapkalıdır.",
+          "notes": "Akdeniz mikotasının en değerli ve aranan doğal gurme mantarlarından biridir."
+    },
       sl: {
           "description": "Toploljubna ektomikorizna goba iz skupine pravih gobanov s temno bronastim klobukom. Razširjena je v južni in osrednji Evropi v listnatih gozdovih.",
           "cap": "Klobuk meri 7–25 cm v premeru, sprva je polkrožen, nato blazinasto izbočen. Je temno rjave, bronaste do skoraj črne barve z značilnimi bakrenimi ali rjavkastimi lisami, površina je suha in žametasta.",
@@ -45331,9 +51147,43 @@ export const CATALOG = [
       uses: 'En delikatess och läcker matsvamp av högsta tänkbara kulinariska kvalitet. Köttet är fastare än hos vanlig stensopp.',
       confusion: 'Stensopp (Boletus edulis) har ljusare brun hatt med klibbigare yta. Rödbrun stensopp (Boletus pinophilus) har rödbrun till purpurbrun hatt och växer med tall.',
       notes: 'I Tjeckien bedöms arten som sårbar (Vulnerable). Den är vanligare i södra Europa och Medelhavsområdet.'
+    },
+    ro: {
+      description: 'Ciupercă ectomicorizică termofilă din pădurile calde de foioase. Este răspândită în sudul și centrul Europei, fiind foarte căutată pentru calitatea sa culinară.',
+      cap: 'Pălăria are 5–20 cm lățime (atingând uneori 25 cm), foarte cărnoasă și masivă, semisferică la început și apoi convexă. Cuticula este uscată, mată, fin catifelată în tinerețe, de culoare brun-închis, bronz-arămiu până la aproape negricioasă, adesea cu reflexe de cupru vechi.',
+      hymenium: 'Tuburile au 1–2,5 cm lungime, albe în tinerețe și devenind galben-verzui la maturitate. Porii sunt mici, rotunzi, inițial albi și înfundați, devenind galbeni și apoi măslinii, fără a se păta la atingere.',
+      stipe: 'Piciorul are 5–14 cm lungime și 3–8 cm grosime, foarte robust, bulbos sau în formă de butoiaș, de culoare brun-cafenie sau brun-roșiatică, acoperit de o rețea brună fină.',
+      flesh: 'Carnea este de un alb imaculat, extrem de densă și compactă (mai fermă decât la Boletus edulis). Carnea tăiată rămâne albă. Mirosul și gustul sunt foarte aromate și plăcute.',
+      sporePrint: 'Brun-măsliniu. Sporii sunt fusiformi, netezi, de 12–16 × 4–5,5 μm.',
+      habitat: 'Corpurile fructifere apar din iunie până în octombrie în păduri calde de stejar, fag, carpen și castan comestibil pe soluri calcaroase sau nisipoase.',
+      uses: 'Este considerat unul dintre cele mai bune hribe comestibile (comestibil excelent), extrem de căutat în gastronomia mediteraneană datorită cărnii sale foarte ferme și parfumate.',
+      confusion: 'Hribul (Boletus edulis) are o pălărie mai deschisă la culoare, cuticula netedă unsuroasă cu o margine albicioasă și un picior mai palid acoperit de o rețea albă.'
+    },
+    bg: {
+      description: 'Едра топлолюбива ектомикоризна гъба. Разпространена в широколистните гори на Централна и Южна Европа.',
+      cap: 'Гуглата е с диаметър 7–20 cm (понякога до 25 cm), полукълбовидна, по-късно изпъкнала, тъмнокафява, шоколадовокафява до почти черна, често с бронзови или охрени петна. Повърхността е суха, матова и фино кадифена.',
+      hymenium: 'Тръбичките са бели в младост, след това бледожълтеникави и накрая зеленикавожълти. Порите са малки, кръгли, със същия цвят, непосиняващи при натиск.',
+      stipe: 'Пънчето е дебело, масивно, клубенковидно до цилиндрично, високо 6–12 cm и дебело 3–7 cm, кафеникаво-охрено, покрито с фина кафеникава мрежичка.',
+      flesh: 'Месото е чисто бяло, изключително плътно и твърдо, не променящо цвета си при разрез. Има приятен аромат и сладникав орехов вкус.',
+      sporePrint: 'Маслиненокафяв. Спорите са вретеновидни, гладки, около 12–16 × 4–5 μm.',
+      habitat: 'Плодните тела се срещат от май до октомври в топлолюбиви дъбови, букови и кестенови гори.',
+      uses: 'Отлична ядлива гъба, считана от мнозина кулинари за най-вкусната сред всички манатарки благодарение на изключително твърдото и ароматно месо.',
+      confusion: 'Обикновената манатарка (Boletus edulis) има по-светла гугла с белезникав ръб. Дъбовата манатарка (Boletus reticulatus) има по-светла сиво-кафява напукана гугла.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/bronz-corek-boletus-aereus/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/%C3%87%C3%B6rek_mantar%C4%B1"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -45563,6 +51413,35 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Svartbrun_stensopp'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Boletus_aereus'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/boletus-aereus'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%91%D1%80%D0%BE%D0%BD%D0%B7%D0%BE%D0%B2%D0%B0_%D0%BC%D0%B0%D0%BD%D0%B0%D1%82%D0%B0%D1%80%D0%BA%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -45650,6 +51529,7 @@ export const CATALOG = [
     fruitingFrom: 9,
     fruitingTo: 12,
     label: {
+      tr: "morbacak mantarı",
       sl: "dvobarvna kolesnica",
       hr: "dvobojna koturnica",
       sr: "плавонога модрикача",
@@ -45665,13 +51545,27 @@ export const CATALOG = [
       nl: 'Paarssteelschijnridderzwam',
       da: 'bleg hekseringshat',
       no: 'lillastilket ridderhatt',
-      sv: 'höstmusseron'
+      sv: 'höstmusseron',
+      ro: 'violetă falsă',
+      bg: 'ливадна виолетка'
     },
     names: {
       en: ["blue-leg"],
       es: ['cabo azul', 'inverniza']
     },
     text: {
+      tr: {
+          "description": "Çayırlarda ve otlaklarda organik maddeyi ayrıştıran saprofit bir mantardır. Avrupa'da sonbahar sonu ve kış aylarında meralarda, otlaklarda ve kireçli çimenliklerde yaygın olarak bulunur.",
+          "cap": "Şapka 6–15 cm genişliğinde olup kalın, etli ve başlangıçta dışbükeydir; kenarları içe kıvrıktır ve zamanla düzleşir. Açık devetüyü, krem, grimsi bej veya soluk taba rengindedir; mor veya leylak tonları barındırmaz; yüzeyi pürüzsüz ve derimsidir.",
+          "hymenium": "Lameller sık, sapa çentikli veya serbesttir; soluk krem, devetüyü veya kirli beyaz renktedir; şapkadan kolayca ayrılabilir.",
+          "stipe": "Sap 4–8 cm uzunluğunda ve 1,5–3 cm kalınlığında, kalın, silindirik ve tabanda hafifçe şişkindir; soluk renkli şapkanın aksine çok canlı menekşe moru, lila veya mavi-mor liflerle kaplıdır.",
+          "flesh": "Etli kısım kalın, sert ve beyazımsı veya açık kremdir. Hoş, meyvemsi veya unsu bir kokusu ve tatlımsı bir lezzeti vardır.",
+          "habitat": "Meyve gövdeleri ekim ayından aralık sonuna kadar, hatta ılıman kış aylarında görülür. Otlaklarda, meralarda, kireçli yamaçlarda ve peri halkaları halinde yetişir.",
+          "sporePrint": "Soluk pembemsi devetüyü. Sporlar elipsoid, ince siğilli ve yaklaşık 6–8 × 4–5 μm boyutlarındadır.",
+          "uses": "Seçkin yemeklik bir mantardır. Soğuk kış günlerinde toplanan en lezzetli mantarlardan biridir; etli kısmı pişirildiğinde diriliğini korur; sote edilerek veya güveçlerde mükemmel bir lezzet sunar. Çiğ tüketilmemelidir.",
+          "confusion": "Mor cincile (Lepista nuda) mor bir şapkaya sahiptir ve orman içinde yetişir. Zehirli Cortinarius türleri pas rengi spor izi taşır.",
+          "notes": "Soğuğa ve hafif donlara karşı son derece dayanıklıdır."
+    },
       sl: {
           "description": "Saprotrofna travniška goba pozne jeseni z značilno vijoličasto obarvanim betom. Razširjena je v Evropi in delih Severne Amerike.",
           "cap": "Klobuk meri 6–15 cm v premeru, sprva je polkrožen z uvitim robom, nato zravnan. Je svetlo sivorjave, bledo kavne do bledo usnjate barve, gladek in suh.",
@@ -45873,9 +51767,43 @@ export const CATALOG = [
       habitat: 'Fruktkroppar uppträder sent på hösten från september till november i ogödslade betesmarker, parker, ängar och skogsbryn, ofta i stora ringar.',
       uses: 'En mycket god och uppskattad matsvamp med fast kött och mild smak. Den passar utmärkt att steka eller stuva.',
       confusion: 'Blåmusseron (Lepista nuda) har violett hatt och violetta skivor. Giftiga lila spindelskivlingar har brunt sporpulver och trådlik cortina.'
+    },
+    ro: {
+      description: 'Ciupercă saprotrofă cărnoasă de toamnă târzie din pajiști, pășuni și liziere. Comună în Europa.',
+      cap: 'Pălăria are 5–15 cm lățime, convexă la început cu marginea răsfrântă în jos, apoi aplatizată. Cuticula este netedă, mată, de culoare bej-cenușie, ocru-palidă sau cafeniu-deschisă, complet lipsită de nuanțe violete pe pălărie.',
+      hymenium: 'Lamelele sunt dese, înguste, sinuate la picior, albicioase până la crem-gălbui palid.',
+      stipe: 'Piciorul are 3–10 cm lungime și 1,5–3,5 cm grosime, robust, cilindric sau îngroșat la bază, de o culoare caracteristică violetă sau liliachie intensă, contrastând izbitor cu pălăria palidă.',
+      flesh: 'Carnea este albă, groasă și compactă. Mirosul este plăcut, aromat de ciupercă proaspătă, iar gustul este blând și dulceag.',
+      sporePrint: 'Roz-somon palid. Sporii sunt elipsoidali, fin verucoși, de 6–8 × 4–5 μm.',
+      habitat: 'Corpurile fructifere apar toamna târziu (septembrie–decembrie) în iarbă pe pășuni, fânețe și poieni, adesea în cercuri mari ale vrăjitoarelor.',
+      uses: 'Este o specie comestibilă foarte bună (comestibil cu precauție) după gătire temeinică. Nu se consumă crudă.',
+      confusion: 'Nicoretele violet (Lepista nuda) are atât pălăria cât și lamelele complet violete și crește de regulă în interiorul pădurilor în litieră groasă.'
+    },
+    bg: {
+      description: 'Сапротрофна гъба, израстваща по пасища, ливади и открити тревисти терени през късната есен. Широко разпространена в Европа.',
+      cap: 'Гуглата е с диаметър 6–15 cm, плътна, изпъкнала с подвит ръб, след това разперена. Цветът е белезникав, сиво-бежов до бледоохарен, гладък.',
+      hymenium: 'Ламелите са белезникави до бледосиви или кремави, гъсти, свободни до слабо прираснали към пънчето, без виолетови тонове.',
+      stipe: 'Пънчето е цилиндрично или задебелено в основата, високо 4–8 cm и дебело 1,5–3 cm, с характерен ярък виолетов до лилав цвят и надлъжни влакна, създаващ силен контраст със светлата гугла.',
+      flesh: 'Месото е бяло до белезникаво, дебело, плътно, с приятен аромат и мек вкус.',
+      sporePrint: 'Бледорозов до сивкаво-розов. Спорите са елипсовидни, фино брадавичести, около 6–8 × 4–5 μm.',
+      habitat: 'Плодните тела се появяват от септември до декември (често след първите застудявания) на самодивски кръгове по открити пасища и ливади.',
+      uses: 'Много добра ядлива гъба след цялостно готвене; не се консумира в суров вид.',
+      confusion: 'Обикновената виолетка (Lepista nuda) има изцяло виолетова гугла и виолетови ламели и расте в горите. Отровните паяжинници имат ръждивокафяви ламели и остатъци от кортина.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/morbacak-lepista-personata/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Mantar"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -46109,6 +52037,35 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/H%C3%B6stmusseron'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Lepista_personata'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/lepista-personata'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%9B%D0%B8%D0%B2%D0%B0%D0%B4%D0%BD%D0%B0_%D0%B2%D0%B8%D0%BE%D0%BB%D0%B5%D1%82%D0%BA%D0%B0'
+        }
       ]
     },
     synonyms: [
@@ -46205,6 +52162,7 @@ export const CATALOG = [
     fruitingFrom: 1,
     fruitingTo: 12,
     label: {
+      tr: "ev mantarı",
       sl: "hišni lesomor",
       hr: "kućni drvojed",
       sr: "кућна гљива",
@@ -46220,7 +52178,9 @@ export const CATALOG = [
       nl: 'Echte huiszwam',
       da: 'ægte hussvamp',
       no: 'ekte hussopp',
-      sv: 'hussvamp'
+      sv: 'hussvamp',
+      ro: 'burete de casă',
+      bg: 'домашна гъба'
     },
     names: {
       en: [
@@ -46230,9 +52190,22 @@ export const CATALOG = [
       ],
       es: ['hongo de la pudrición seca'],
       nl: ['Huiszwam'],
-      sv: ['äkta hussvamp']
+      sv: ['äkta hussvamp'],
+      ro: ['ciupercă de pivniță']
     },
     text: {
+      tr: {
+          "description": "Binalardaki ahşap aksamlarda ve kapalı alanlarda yıkıcı kahverengi kuru çürüklüğe yol açan odun çürüten saprofit bir mantardır. Ilıman kuşakta binalarda ahşap taşıyıcı kolonlara, döşemelere ve tarihi yapılara en ağır zararı veren türdür.",
+          "cap": "Meyve gövdesi yassı, kabuksu, süngerimsi ve genişleyen plakalar halinde 10–100 cm genişliğe ve birkaç santimetre kalınlığa ulaşabilir. Yüzeyi kıvrımlı, gözenekli veya kırışık peteksi yapıdadır; pas kahverengisi veya tarçın rengidir; kenarları beyaz, kalın ve pamuksudur.",
+          "hymenium": "Himenyum kırışık peteksi yüzeyi kaplar; olgunlukta milyonlarca pas kahverengisi sporla kaplanır.",
+          "stipe": "Sapı yoktur; doğrudan ahşap, tuğla veya sıva yüzeyine yayılır.",
+          "flesh": "Etli kısım süngerimsi, derimsi ve nemlidir; yüzeyinde berrak gözyaşı benzeri su damlacıkları salgılar (epiteti lacrymans buradan gelir). Ağır, rutubetli ve küflü bir koku yayar.",
+          "habitat": "Kapalı, nemli ve havalandırması yetersiz binalarda, döşeme altlarında, ahşap kirişlerde ve kilerlerde yıl boyunca ürer; kalın misel kordonları (rizomorflar) tuğla ve beton duvarları aşarak metrelerce uzaktaki kuru ahşaplara su taşıyabilir.",
+          "sporePrint": "Pas kahverengisi. Sporlar elipsoid, pürüzsüz, kalın çeperli ve yaklaşık 9–12 × 5–7 μm boyutlarındadır.",
+          "uses": "Yenmez. Toksik ve tahripkardır. Yaşlı gövdeleri ve miselleri solunum yollarını tahriş eden uçucu nitrojen bileşikleri salgılar; baş ağrısı ve mide bulantısına yol açabilir.",
+          "confusion": "Orman ev mantarı (Serpula himantioides) daha küçük ve ince meyve gövdeleri oluşturur ve doğal ormanlık alanlarda ölü iğne yapraklılarda yetişir.",
+          "notes": "Ahşabın selülozunu tüketerek mekanik direncini tamamen yok eder ve odunu küp şeklinde ufalanan kuru bir toza dönüştürür."
+    },
       sl: {
           "description": "Zelo nevarna lesna gliva, ki povzroča uničujočo rjavo trohnobo vgrajenega lesa v zgradbah. Razširjena je v zmernem pasu po vsem svetu.",
           "cap": "Trosnjak je ploščat, skorjast ali blazinast, debel do 2 cm in širok od nekaj centimetrov do več kot enega metra. Površina je rjavkasta do rjasto rjava, nagubano luknjičasta, z odebeljenim, belim, vatastim robom, iz katerega se pogosto izcejajo kapljice vode (solze).",
@@ -46433,9 +52406,43 @@ export const CATALOG = [
       uses: 'Oätlig. Svampen är en av de mest fruktade skadegörarna på träbyggnader och kan snabbt förstöra bärande konstruktioner.',
       confusion: 'Källarsvamp (Coniophora puteana) bildar tunnare, mörkbruna hinnor utan kraftiga vita mycelsträngar.',
       notes: 'Svampen orsakar omfattande skador på byggnader och dess sporer och mycel kan avge irriterande gaser som orsakar huvudvärk och illamående.'
+    },
+    ro: {
+      description: 'Ciupercă saprotrofă agresivă ce provoacă putregai brun distructiv în lemnul prelucrat din clădiri, case și pivnițe. Răspândită în întreaga lume.',
+      cap: 'Corpul fructifer este o crustă groasă, întinsă orizontal (resupinată) sau în console neregulate de 10–50 cm lățime și 1–3 cm grosime. Marginea în creștere este albă, pufoasă și lănoasă, secretând adesea picături limpezi de apă («lacrimi»).',
+      hymenium: 'Suprafața fertilă este merulioidă, formată dintr-o rețea de cute, pliuri și gropițe neregulate sinuoase, de culoare brun-ruginie până la cafeniu-închis.',
+      stipe: 'Nu are picior, crusta fixându-se direct pe bârne, scânduri, parchet sau zidărie.',
+      flesh: 'Carnea este moale, spongioasă și elastică în tinerețe, devenind pieloasă și fragilă la uscăciune. Mirosul este de mucegai și pivniță umedă.',
+      sporePrint: 'Brun-ruginiu. Sporii sunt elipsoidali, netezi, de circa 9–12 × 5–6,5 μm, produși în cantități enorme.',
+      habitat: 'Apare pe tot parcursul anului în interiorul clădirilor umede și slab ventilate, atacând grinzile și podelele din lemn.',
+      uses: 'Ciuperca este complet necomestibilă (necomestibil). Este un agent distructiv major al structurilor din lemn în construcții.',
+      confusion: 'Buretele de pădure (Serpula himantioides) produce corpuri fructifere mult mai subțiri și crește de regulă în natură pe lemn căzut de conifere.'
+    },
+    bg: {
+      description: 'Опасна дърворазрушаваща сапротрофна гъба, причиняваща деструктивно кафяво гниене на преработен дървен материал в сгради и жилищни постройки.',
+      cap: 'Плодното тяло е едногодишно, разстлано (ресупинатно) върху дървесината като дебела кожесто-гъбеста кора с диаметър от няколко сантиметра до над един метър. Ръбът е бял, пухест или ципест.',
+      hymenium: 'Фертилната повърхност е мерулиоидна – нагъната в лабиринтовидни и порести гънки, ръждивокафява, често отделяща бистри водни капки («сълзи»).',
+      stipe: 'Пънче напълно липсва; плодното тяло е слято с повърхността.',
+      flesh: 'Месото е меко, гъбесто, еластично, в сухо състояние крехко, със спарен гъбен мирис.',
+      sporePrint: 'Ръждивокафяв. Спорите са елипсовидни, гладки, дебелостенни, около 9–12 × 5–6 μm.',
+      habitat: 'Развива се целогодишно в закрити помещения, влажни мазета, подове, греди и ламперии, пренасяйки вода през мощни кореновидни мицелни снопове.',
+      uses: 'Неядлива гъба. Изключително опасен разрушител на дървени строителни конструкции, водещ до срутвания.',
+      confusion: 'Serpula himantioides образува значително по-тънки плодни тела и расте предимно сред природата по мъртва иглолистна дървесина.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/kav-mantari-fomes-fomentarius/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Mantar"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -46674,6 +52681,25 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/%C3%84kta_hussvamp'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Serpula_lacrymans'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/serpula-lacrymans/'
+        }
       ]
     },
     synonyms: [
@@ -46787,6 +52813,7 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 11,
     label: {
+      tr: "deliyumru mantarı",
       sl: "zgodnja prstenica",
       hr: "vijugava mirisnica",
       sr: "беличасти гомољ",
@@ -46800,7 +52827,9 @@ export const CATALOG = [
       es: 'trufa blanca',
       da: 'kartoffeltrøffel',
       no: 'kjempetrøffel',
-      sv: 'stjärnhovstryffel'
+      sv: 'stjärnhovstryffel',
+      ro: 'trufă albă',
+      bg: 'извитожилковиден бял трюфел'
     },
     names: {
       sk: [
@@ -46812,6 +52841,18 @@ export const CATALOG = [
       es: ['trufa de los cerdos', 'trufa de meandros']
     },
     text: {
+      tr: {
+          "description": "Toprak altında yetişen (hipogeik) ektomikorizal bir ascomycete mantarıdır. Avrupa'da yaprak döken ve iğne yapraklı ormanlarda, özellikle kayın, meşe ve ladin ağaçlarının altında killi veya kumlu topraklarda yetişir.",
+          "cap": "Meyve gövdesi toprak altında veya kısmen yüzeye çıkmış patates, yumru veya düzensiz taş biçimindedir; 5–15 cm genişliğinde ve birkaç yüz gram ağırlığında olabilir. Dış yüzeyi sarımsı beyaz, açık devetüyü veya soluk kahverengidir; pürüzsüz veya hafif çatlaklıdır.",
+          "hymenium": "İç kısımdaki gleba sert, etli ve beyazımsıdır; içi mermer damarlarını andıran çok sayıda kıvrımlı, labirent benzeri açık kahverengi steril çizgiler ve askus içeren verimli ceplerle doludur.",
+          "stipe": "Sapı yoktur; doğrudan toprak altındaki misellerden oluşan tekil bir yumrudur.",
+          "flesh": "Etli kısım sert ve yoğundur. Gençken hoş ve fındıksı bir kokuya sahipken yaşlandıkça son derece kuvvetli, aromatik, peynirimsi ve bayıltıcı bir koku kazanır.",
+          "habitat": "Meyve gövdeleri temmuz ayından ekim ayına kadar görülür. Dağlık ve ılıman ormanlarda yarı gömülü olarak yetişir.",
+          "sporePrint": "Sarımsı kahverengi. Askosporlar küremsi, kalın çeperli, yüzeyi uzun batıcı dikenlerle kaplı ve yaklaşık 16–22 μm çapındadır.",
+          "uses": "Şartlı yenilebilir bir mantardır. Kuzey ve Doğu Avrupa'da pişirilerek sevilerek tüketilir; ancak çiğ tüketildiğinde şiddetli gastrointestinal tahrişe yol açabilir, bu nedenle mutlaka pişirilmelidir. Beyaz trüf (Tuber magnatum) yerine sahte olarak satılabilmektedir.",
+          "confusion": "Hakiki beyaz trüf (Tuber magnatum) düzensiz elipsoid ağsı sporlara sahiptir ve dikenli spor taşımaz.",
+          "notes": "Meyve gövdesi büyüdükçe toprak yüzeyini çatlatarak kısmen dışarı çıkar ve kokusu sayesinde yaban domuzları tarafından bulunup dağıtılır."
+    },
       sl: {
           "description": "Podzemna zaprtotrosnica (Ascomycota) gomoljaste oblike. Razširjena je v srednji in severni Evropi v gorskih gozdovih.",
           "cap": "Trosnjak je podzemen ali delno izbočen iz tal, nepravilno gomoljast, velik 5–15 cm in težak do 500 g ali več. Površina je bledo rumenkasta, oker do svetlo rjavkasta, gladka ali drobno razpokana.",
@@ -47015,9 +53056,44 @@ export const CATALOG = [
       uses: 'Ätlig och välluktande som ung efter tillagning, men kan ge magbesvär om den äts rå eller i för stora mängder.',
       confusion: 'Vit tryffel (Tuber magnatum) har slätare sporer och mildare doft. Rotsvampar (Rhizopogon) saknar vindlande askmarmorerade ådror i köttet.',
       notes: 'I Tyskland klassades den som sårbar i äldre rödlistor. I Sverige förekommer den sällsynt och är mest känd från trakten kring Stjärnhov i Södermanland.'
+    },
+    ro: {
+      description: 'Ciupercă ascomicetă hipogee (subterană) ce fructifică în solul pădurilor de foioase și conifere. Este întâlnită în Europa Centrală și de Est.',
+      cap: 'Corpul fructifer este un tubercul subteran sau parțial ieșit la suprafață, neregulat lobat, de 5–15 cm în diametru (cântărind adesea 200–500 g). Peridiul exterior este neted, alb-gălbui la început, devenind galben-ocru sau brun-deschis la maturitate.',
+      hymenium: 'Gleba interioară este masivă, compactă și dură, albicioasă până la crem, străbătută de vene sinuoase meandriforme brune în care sunt înglobate ascele cu spori.',
+      stipe: 'Nu are picior.',
+      flesh: 'Carnea este densă și tare. Mirosul este intens, aromatic și pătrunzător, amintind de brânză maturată sau usturoi, iar gustul este plăcut de nucă.',
+      sporePrint: 'Galben-brun. Sporii sunt sferici, decorați cu negi ascuțiți lungi, de circa 16–22 μm.',
+      habitat: 'Corpurile fructifere se dezvoltă din iunie până în octombrie în soluri argiloase sau nisipoase sub molizi, pini, fagi și stejari.',
+      uses: 'Este o specie comestibilă apreciată (comestibil cu precauție) în cantități mici ca ciupercă aromatică. Se recomandă prepararea termică ușoară, deoarece consumată crudă în cantități mari poate produce deranjamente gastrice la unele persoane.',
+      confusion: 'Trufa albă veritabilă (Tuber magnatum) are vene interioare albicioase fine și spori reticulați (nu spinoși), având o valoare gastronomică comercială superioară.'
+    },
+    bg: {
+      description: 'Подземна торбеста гъба (бял трюфел, аскомицет). Ектомикоризен вид, растящ в почвата на широколистни и иглолистни гори в Европа.',
+      cap: 'Плодното тяло е подземно или полупоказано над почвата, с форма на неправилен картофен клубен с диаметър 4–12 cm (понякога до 15 cm) и тегло до 500 g. Повърхността е гладка или неравна, белезникава, жълтеникава до светлокафява.',
+      hymenium: 'Вътрешността (глеба) е плътна, твърда, белезникава до кремава, мраморно нашарена с криволичещи извити жилки (апотеции с аски).',
+      stipe: 'Пънче напълно липсва.',
+      flesh: 'Месото е твърдо, хрущялно в младост, със силен специфичен аромат на чесън, сирене и подправки.',
+      sporePrint: 'Жълтеникав. Аскоспорите са сферични, покрити с шипчета, жълто-кафяви, около 16–22 μm.',
+      habitat: 'Плодните тела се развиват от юни до ноември в глинести и варовити почви под дъб, бук, смърч и бор.',
+      uses: 'Ядлива гъба след топлинна обработка в малки количества като ароматизираща подправка. В суров вид или при стари екземпляри може да предизвика стомашно разстройство.',
+      confusion: 'Истинският бял трюфел (Tuber magnatum) има червеникаво-кафява глеба с бели жилки и не посинява/не пожълтява по същия начин.',
+      notes: 'В Червената книга на Република България видът е включен с категория застрашен (Endangered).'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/deliyumru-choiromyces-meandriformis/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Mantar"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -47264,6 +53340,35 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Stj%C3%A4rnhovstryffel'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'Societatea Micologică din România',
+          href: 'https://smro.ro/'
+        },
+        {
+          group: 'text',
+          name: 'Ordinul nr. 246/2006 (ciuperci comestibile permise)',
+          href: 'https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006'
+        },
+        {
+          group: 'text',
+          name: 'Wikipedia',
+          href: 'https://ro.wikipedia.org/wiki/Choiromyces_meandriformis'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Червена книга на Република България',
+          href: 'http://e-ecodb.bas.bg/rdb/bg/vol1/Chomaean.html'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%98%D0%B7%D0%B2%D0%B8%D1%82%D0%BE%D0%B6%D0%B8%D0%BB%D0%BA%D0%BE%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD_%D0%B1%D1%8F%D0%BB_%D1%82%D1%80%D1%8E%D1%84%D0%B5%D0%BB'
+        }
       ]
     },
     synonyms: [
@@ -47345,6 +53450,7 @@ export const CATALOG = [
     fruitingFrom: 7,
     fruitingTo: 11,
     label: {
+      tr: "dede sakalı mantarı",
       sl: "koralasti bradovec",
       hr: "koraljasti igličar",
       sr: "коврџава игличарка",
@@ -47360,13 +53466,27 @@ export const CATALOG = [
       nl: 'Kammetjesstekelzwam',
       da: 'koralpigsvamp',
       no: 'korallpiggsopp',
-      sv: 'koralltaggsvamp'
+      sv: 'koralltaggsvamp',
+      bg: 'обикновен корал'
     },
     names: {
       en: ["coral tooth fungus", "comb coral mushroom"],
-      es: ['coral', 'hongo real']
+      es: ['coral', 'hongo real'],
+      bg: ['корал']
     },
     text: {
+      tr: {
+          "description": "Ölü ve devrilmiş sert odunlu ağaç gövdelerinde beyaz çürüklüğe yol açan odun çürüten saprofit bir mantardır. Avrupa, Asya ve Kuzey Amerika'da özellikle yaşlı kayın ve huş ormanlarında nadir olarak bulunur.",
+          "cap": "Meyve gövdesi 10–30 cm genişliğinde ve yüksekliğinde olup deniz mercanını veya minyatür bir buz şelalesini andıran çok dallı, muhteşem bir yapıya sahiptir. Kalın bir tabandan yükselen dalların üzerinde 0,5–1 cm uzunluğunda çok sayıda ince, sivri uçlu sarkan beyaz dikenler yer alır; rengi saf beyaz veya fildişidir; yaşlandıkça sararır veya devetüyü tona döner.",
+          "hymenium": "Himenyum dalların altından sarkan dikenlerin dış yüzeyini kaplar.",
+          "stipe": "Belirgin bir sapı yoktur; doğrudan çürüyen kütüğe etli kalın bir tabanla tutunur.",
+          "flesh": "Etli kısım beyaz, elastik, yumuşak ve diridir. Hoş, taze ve hafif mantarımsı bir kokusu ile tatlımsı bir lezzeti vardır.",
+          "habitat": "Meyve gövdeleri ağustos ayından kasım sonuna kadar görülür. Yaşlı ormanlarda çürümekte olan kayın, huş ve meşe gövdelerinde tek tek yetişir.",
+          "sporePrint": "Beyaz. Sporlar küremsi ile yarı küremsi, pürüzsüz veya çok ince siğilli, amiloid ve yaklaşık 3,5–5 × 3–4 μm boyutlarındadır.",
+          "uses": "Seçkin yemeklik bir mantardır. Mükemmel bir dokuya ve narin bir aromaya sahiptir; taze dalları sote edilerek veya kızartılarak pişirilir. Doğada nadir bulunduğu için toplanması önerilmez ve birçok ülkede koruma altındadır.",
+          "confusion": "Aslan yelesi mantarı (Hericium erinaceus) dallanmamış tek parça sarkık bir yele biçimindedir. Mercan mantarları (Clavulina spp.) diken taşımaz.",
+          "notes": "Yaşlı doğal kayın ormanlarının sağlıklı yapısını simgeleyen önemli bir gösterge türdür."
+    },
       sl: {
           "description": "Izjemno slikovita lesna saprotrofna goba, ki spominja na belo morsko koralo. Razširjena je v starih naravnih listnatih gozdovih Evrope in Severne Amerike.",
           "cap": "Trosnjak je grmičasto razvejan, meri 10–30 cm v širino in višino. Iz osrednjega prirastišča izhaja več glavnih vej, ki se nadalje cepijo v številne drobne vejice, gosto posute s kratkimi, 5–10 mm dolgimi visečimi iglicami. Celotna goba je snežno bele barve, v starosti porumeni.",
@@ -47569,9 +53689,43 @@ export const CATALOG = [
       uses: 'Ätlig och god som ung, men är i Sverige rödlistad och en viktig signalart för skyddsvärd naturskog och bör skonas i naturen.',
       confusion: 'Igelkottstaggsvamp (Hericium erinaceus) är ogrenad och har mycket längre hängande taggar i en kompakt klump.',
       notes: 'I Polen bedöms arten som sårbar (Vulnerable). Den fungerar som en utmärkt indikatorart för skogar med lång trädkontinuitet och rik tillgång på död ved.'
+    },
+    ro: {
+      description: 'Ciupercă saprotrofă rară de o frumusețe spectaculoasă, ce crește pe lemn căzut de foioase (mai ales fag). Răspândită în pădurile temperate din Europa, Asia și America de Nord.',
+      cap: 'Nu are o pălărie propriu-zisă. Corpul fructifer este o tufă coraloidă deschisă, de 10–30 cm lățime și înălțime, alcătuită din ramuri groase repetat divizate, de un alb pur strălucitor.',
+      hymenium: 'Suprafața fertilă este alcătuită din aculi scurți (de 3–10 mm lungime), moi și delicați, ce atârnă ca niște țurțuri fini de-a lungul ramurilor și la vârfurile acestora.',
+      stipe: 'Piciorul este o bază scurtă, groasă și tare prin care corpul fructifer se prinde adânc în lemnul trunchiului putred.',
+      flesh: 'Carnea este albă, fragedă în tinerețe și devenind elastică. Mirosul este plăcut, proaspăt de ciupercă, iar gustul este dulceag.',
+      sporePrint: 'Alb. Sporii sunt aproape sferici, netezi sau fin verucoși, amiloizi, de circa 5–6,5 × 4,5–5,5 μm.',
+      habitat: 'Corpurile fructifere apar din iulie până în noiembrie pe trunchiuri mari căzute și buturugi de fag (Fagus sylvatica).',
+      uses: 'Este o specie comestibilă bună (comestibil) în stadiu tânăr, cât timp carnea este albă și moale. Fiind rară și ocrotită în numeroase regiuni, recoltarea sa din natură ar trebui evitată.',
+      confusion: 'Specia (Hericium erinaceus) este neramificată, formând o masă compactă unică din care atârnă aculi lungi de până la 5 cm.'
+    },
+    bg: {
+      description: 'Рядка сапротрофна дървесна гъба, развиваща се по гниещи стволове на широколистни дървета (предимно бук). Разпространена в Европа и Азия.',
+      cap: 'Плодното тяло е с диаметър 10–30 cm, богато дървовидно разклонено, наподобяващо морски корал, чисто бяло в младост, по-късно кремаво до бледоохрено.',
+      hymenium: 'Хименофорът се състои от къси (5–15 mm), фини висящи шипчета, разположени гребеновидно по долната страна на клонките.',
+      stipe: 'Пънчето представлява къса плътна основа, здраво прикрепена към мъртвата дървесина.',
+      flesh: 'Месото е бяло, крехко, меко в младост, с приятен гъбен аромат и деликатен вкус.',
+      sporePrint: 'Бял. Спорите са широко елипсовидни до закръглени, фино брадавичести, амилоидни, около 5–6,5 × 4,5–5,5 μm.',
+      habitat: 'Плодните тела се развиват от август до ноември по повалени букови стволове в стари гори.',
+      uses: 'Добра ядлива гъба в млада възраст. Поради рядкостта си заслужава опазване.',
+      confusion: 'Игловидният корал (Hericium erinaceus) не е разклонен, а има формата на плътна възглавничка с много дълги висящи шипчета.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/dede-sakali-hericium-coralloides/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Hericiaceae"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -47855,6 +54009,30 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Koralltaggsvamp'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'MycoBank',
+          href: 'https://www.mycobank.org/page/Name%20details%20page/name/Hericium%20coralloides'
+        },
+        {
+          group: 'text',
+          name: 'Index Fungorum',
+          href: 'https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=144708'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/hericium-coralloides'
+        },
+        {
+          group: 'text',
+          name: 'Уикипедия',
+          href: 'https://bg.wikipedia.org/wiki/%D0%9E%D0%B1%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD_%D0%BA%D0%BE%D1%80%D0%B0%D0%BB'
+        }
       ]
     },
     synonyms: [
@@ -47970,6 +54148,7 @@ export const CATALOG = [
     fruitingFrom: 1,
     fruitingTo: 12,
     label: {
+      tr: "sarı şalvarlı mantar",
       sl: "rumeni dežnikovec",
       hr: "žuta štitarka",
       sr: "жута саксијарка",
@@ -47998,6 +54177,18 @@ export const CATALOG = [
       sv: ['gul fjällskivling']
     },
     text: {
+      tr: {
+          "description": "Zengin saksı topraklarında, seralarda ve sıcak kompostlarda yaşayan saprofit bir mantardır. Tropikal ve subtropikal kökenli olup dünya genelinde iç mekan bitki saksılarında ve botanik bahçelerinde yaygın olarak görülür.",
+          "cap": "Şapka 2–6 cm genişliğinde olup başlangıçta yumurta veya çan biçimlidir, daha sonra dışbükeyleşir ve düzleşir; merkezinde belirgin bir tümsek kalır. Parlak kanarya sarısı veya limon sarısıdır; yüzeyi kolayca dökülebilen unsu, pullu sarı toz tanecikleriyle kaplıdır; kenarları olgunlukta belirgin şekilde çizgilidir.",
+          "hymenium": "Lameller serbest, sık, ince ve açık sarı veya kükürt sarısı renktedir.",
+          "stipe": "Sap 4–8 cm uzunluğunda ve 3–6 mm kalınlığında, silindirik, içi boş ve tabana doğru belirgin şekilde soğan gibi şişkindir; şapkayla aynı parlak sarı renktedir. Üst kısımda ince, zarımsı, kolayca kaybolabilen sarı bir halka taşır.",
+          "flesh": "Etli kısım son derece ince, sarımsı veya açık sarıdır. Belirgin bir kokusu yoktur.",
+          "habitat": "Yıl boyunca sıcak iç mekanlarda, özellikle saksı bitkilerinin dibinde, seralarda ve organik malç yığınlarında tek tek veya kümeler halinde yetişir.",
+          "sporePrint": "Beyaz. Sporlar elipsoid, pürüzsüz, belirgin bir çimlenme deliği taşıyan, dekstrinoid ve yaklaşık 8–11 × 5,5–7 μm boyutlarındadır.",
+          "uses": "Zehirlidir. Tüketildiğinde şiddetli mide bulantısı, kusma ve mide kramplarına yol açan gastrointestinal zehirlenmeye neden olur. Ev bitkilerine zarar vermez, yalnızca topraktaki organik atıkları ayrıştırır.",
+          "confusion": "Saman sarısı şalvarlı mantar (Leucocoprinus straminellus) daha küçük, saman sarısı çok daha soluk renktedir.",
+          "notes": "Sarı rengi birnbaumin A ve B adlı indol alkaloitlerinden kaynaklanır; miselleri arasında küçük sarımsı sert sklerotiyumlar oluşturur."
+    },
       sl: {
           "description": "Saprotrofna goba živo rumene barve, ki v zmernem pasu uspeva skoraj izključno v rastlinjakih, cvetličnih lončkih in na notranjih lončnicah.",
           "cap": "Klobuk meri 2–6 cm v premeru, sprva je zvonast do jajčast, nato se odpre v stožčasto obliko z izrazito grbo. Je žvepleno rumene do kanarčkasto rumene barve, prekrit z drobnimi rumenimi luskicami, z izrazito nažlebljenim robom.",
@@ -48198,9 +54389,43 @@ export const CATALOG = [
       uses: 'Giftig. Svampen orsakar mag- och tarmbesvär vid förtäring och ska inte ätas.',
       confusion: 'Leucocoprinus straminellus är något blekare, ibland vitaktig, mindre och skörare med mindre sporer (5–7 × 4–6 μm) utan groddpor. Leucocoprinus flavescens har blekgul till vit hatt med brunaktig mitt och mindre sporer. Leucocoprinus tricolor har brun hattmitt, blekare gula färger och kromgul fotbas. Leucocoprinus fragilissimus har extremt tunn hatt och bleka skivor. Leucocoprinus brunneoluteus har en utpräglat brun puckel och tunt kött. Kritvit veckskivling (Leucocoprinus cretaceus) har liknande resning och är kritvit. Leucoagaricus sulphurellus har skivor som blånar lysande blågrönt vid tryck. Guldhätting (Bolbitius titubans) växer på gräsmark, dess gula skivor blir kanelbruna när sporerna mognar och foten saknar ring.',
       notes: 'Den gula färgen orsakas av alkaloidpigmenten birnbaumin A och B. Mycelet bildar ofta små hårda gula korn (sklerotier) i blomjorden som inte skadar krukväxten.'
+    },
+    ro: {
+      description: 'Ciupercă saprotrofă tropicală și subtropicală ce apare frecvent în regiunile temperate în sere, ghivece de flori de apartament și grădini botanice.',
+      cap: 'Pălăria are 2–6 cm lățime, inițial conică sau ovoidală, apoi clopotită și aplatizată. Este de o culoare galben-lămâie strălucitoare sau galben-sulfurie, acoperită cu fulgi mici scămoși galbeni, cu marginea striată transparent.',
+      hymenium: 'Lamelele sunt libere, dese, subțiri, de culoare galben-deschisă.',
+      stipe: 'Piciorul are 3–9 cm lungime și 2–5 mm grosime, subțire, galben, îngroșat la bază, prevăzut cu un inel mic, galben și membranos.',
+      flesh: 'Carnea este foarte subțire, galben-palidă. Mirosul și gustul nu sunt distinctive.',
+      sporePrint: 'Alb. Sporii sunt elipsoidali, netezi, cu por germinativ evident, de 8–11 × 5–7 μm.',
+      habitat: 'Apare tot timpul anului în interior, pe pământul din ghivecele plantelor de apartament, compost cald și substraturi de seră.',
+      uses: 'Ciuperca este otrăvitoare (otrăvitor). Provoacă tulburări gastrointestinale la ingerare.',
+      confusion: 'Specia (Leucocoprinus straminellus) este mult mai mică, palidă și galben-pai deschis.'
+    },
+    bg: {
+      description: 'Тропическа и субтропическа сапротрофна гъба, широко разпространена в умерените пояси като обитател на парници, оранжерии и домашни саксии с цветя.',
+      cap: 'Гуглата е с диаметър 2–6 cm, ярко лимоненожълта до сярножълта, звънчевидна до конична, покрита с фини жълти люспици и брашнест налеп, с набразден ръб.',
+      hymenium: 'Ламелите са свободни, умерено гъсти, светло сярножълти.',
+      stipe: 'Пънчето е тънко, кухо, сярножълто, високо 4–9 cm и дебело 2–5 mm, с луковичка в основата и дребно пръстенче.',
+      flesh: 'Месото е много тънко, крехко, жълтеникаво, без изразена миризма.',
+      sporePrint: 'Бял. Спорите са елипсовидни, дебелостенни, с пора на поникване, около 8–11 × 5–7 μm.',
+      habitat: 'Плодните тела се появяват целогодишно в закрити помещения върху почва в саксии и парници.',
+      uses: 'Отровна гъба. Съдържа токсини, предизвикващи тежко стомашно разстройство при поглъщане.',
+      confusion: 'Leucocoprinus straminellus е по-дребен и със значително по-бледа, почти белезникава гугла.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/sari-salvarli-leucocoprinus-birnbaumii/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Mantar"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -48415,6 +54640,25 @@ export const CATALOG = [
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Gul_veckskivling'
         }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'MycoBank',
+          href: 'https://www.mycobank.org/page/Name%20details%20page/name/Leucocoprinus%20birnbaumii'
+        },
+        {
+          group: 'text',
+          name: 'Index Fungorum',
+          href: 'https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=299538'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/leucocoprinus-birnbaumii/'
+        }
       ]
     },
     synonyms: [
@@ -48501,6 +54745,7 @@ export const CATALOG = [
     fruitingFrom: 6,
     fruitingTo: 11,
     label: {
+      tr: "kuş yuvası mantarı",
       sl: "navadni lonček",
       hr: "žuta košarica",
       sr: "глатко гнездашце",
@@ -48516,7 +54761,8 @@ export const CATALOG = [
       nl: 'Geel nestzwammetje',
       da: 'krukkesvamp',
       no: 'brødkorg',
-      sv: 'gul brödkorgssvamp'
+      sv: 'gul brödkorgssvamp',
+      bg: 'жълта гнездовка'
     },
     names: {
       en: ["white-egg bird's nest", "common bird's nest"],
@@ -48525,6 +54771,18 @@ export const CATALOG = [
       sv: ['brödkorgsvamp', 'vanlig brödkorgsvamp']
     },
     text: {
+      tr: {
+          "description": "Çürüyen odun parçaları, ince dallar, ağaç kabukları ve malç üzerinde yaşayan odun çürüten saprofit bir gasteromiset mantarıdır. Avrupa, Asya, Kuzey Amerika ve Avustralasya'da çok yaygındır.",
+          "cap": "Meyve gövdesi 4–8 mm genişliğinde ve 4–8 mm yüksekliğinde olup minyatür bir fincan veya kuş yuvası biçimindedir. Dış yüzeyi sarımsı devetüyü veya açık kahverengidir; başlangıçta üstü sarı kadifemsi bir zar (epifragma) ile örtülüdür; zar yırtıldığında içinde minik mercek şeklinde beyazımsı 'yumurtalar' (peridiyoller) sergilenir.",
+          "hymenium": "Sporlar peridiyol adı verilen 1–2 mm çapındaki sert merceksi paketlerin içinde üretilir. Her yuvada 4–8 adet soluk krem veya beyazımsı peridiyol bulunur; bu paketler tabana ince esnek bir iplikçikle (funikulus) tutunur.",
+          "stipe": "Sapı yoktur; doğrudan odun veya dal yüzeyine düz bir tabanla tutunur.",
+          "flesh": "Etli kısım sert, derimsi ve incedir. Kokusu ve tadı önemsizdir.",
+          "habitat": "Meyve gövdeleri yaz ortasından kış başına kadar görülür. Orman zeminindeki dökülmüş dallarda, çürük kütüklerde, bahçe malçlarında ve ahşap çitlerde yoğun gruplar halinde yetişir.",
+          "sporePrint": "Beyaz (peridiyol içinden). Sporlar elipsoid, pürüzsüz ve yaklaşık 7–10 × 4–5,5 μm boyutlarındadır.",
+          "uses": "Yenmez. Çok küçük ve derimsi olduğu için herhangi bir mutfak değeri yoktur.",
+          "confusion": "Çizgili kuş yuvası mantarı (Cyathus striatus) iç yüzeyinde boyuna oluklar taşır ve peridiyolleri koyu gridir.",
+          "notes": "Yağmur damlaları fincanın içine düştüğünde suyun kinetik enerjisi peridiyolleri metrelerce uzağa fırlatır; açılan yapışkan iplikçikler çevre bitkilere tutunarak sporların yayılmasını sağlar."
+    },
       sl: {
           "description": "Drobna lesna saprotrofna goba, ki spominja na miniaturno ptičje gnezdo z jajci. Razširjena je po vsem svetu na lesnih ostankih.",
           "cap": "Trosnjak je skledaste ali čašaste oblike, visok 5–8 mm in širok 6–9 mm. Sprva je pokrit z rumenkasto žametasto opno (epifragmo), ki ob zrelosti poči in razkrije gladko notranjost s peridioli.",
@@ -48725,9 +54983,43 @@ export const CATALOG = [
       uses: 'Oätlig på grund av sin minimala storlek och läderartade konsistens.',
       confusion: 'Strimmig brödkorgssvamp (Cyathus striatus) har längsstrimmig insida och mörkgrå utsida. Grå brödkorgssvamp (Cyathus olla) har tunnare, blygrå skålar.',
       notes: 'När regndroppar träffar den snedställda skålens väggar slungas peridiolerna iväg flera decimeter och fastnar med sin klibbiga tråd på omgivande vegetation.'
+    },
+    ro: {
+      description: 'Ciupercă saprotrofă minusculă în formă de cuib de pasăre ce descompune crenguțe, așchii de lemn și resturi vegetale. Comună în Europa și America de Nord.',
+      cap: 'Corpul fructifer este o cupă minusculă de 4–9 mm lățime și 5–8 mm înălțime. La început este acoperit de un opercul galben-portocaliu catifelat (epifragmă); la maturitate, capacul se desprinde, dezvăluind interiorul neted al cupei în care se află mai multe «ouă» mici (peridiole) lenticulare albicioase.',
+      hymenium: 'Nu există lamele sau tuburi; sporii se formează în interiorul peridiolelor discoidale albicioase, care sunt expulzate din cupă prin forța picăturilor de ploaie.',
+      stipe: 'Nu are picior, cupa fixându-se direct pe crenguță sau lemn.',
+      flesh: 'Peretele cupei este subțire, tare și pielos.',
+      sporePrint: 'Alb. Sporii sunt elipsoidali, netezi, de circa 7–10 × 4–6 μm.',
+      habitat: 'Apare din vară până la sfârșitul toamnei în grupuri dense pe crenguțe căzute, așchii de lemn și scoarță putredă.',
+      uses: 'Este complet necomestibilă (necomestibil) din cauza dimensiunilor microscopice și a texturii pieloase.',
+      confusion: 'Speciile din genul (Cyathus) au peretele cupei format din trei straturi, interiorul striat sau cenușiu-închis și peridiole negre sau cenușii.'
+    },
+    bg: {
+      description: 'Дребна сапротрофна гъба от групата на гнездовките (птичи гнезда). Расте по гниещи клонки, кори и дървесен отпадък в цялото Северно полукълбо.',
+      cap: 'Плодното тяло е с размери 4–9 mm в диаметър и височина, чашковидно, отначало покрито с жълто-оранжево ципесто капаче (епифрагма), което се разпуква и разкрива вътрешността с лещовидни перидиоли.',
+      hymenium: 'Спорообразуващият слой е затворен вътре в малките сивкаво-бели «яйчица» (перидиоли), които се изхвърлят от чашката при удар от дъждовни капки.',
+      stipe: 'Пънче напълно липсва; чашката е прикрепена директно към субстрата.',
+      flesh: 'Стените на чашката са твърди, кожести, охренокафяви.',
+      sporePrint: 'Безцветен (бял). Спорите са елипсовидни, гладки, дебелостенни, около 7–10 × 4–6 μm.',
+      habitat: 'Плодните тела се срещат от юни до ноември на гъсти групи по изсъхнали клонки, шишарки и гниеща дървесина.',
+      uses: 'Неядлива гъба поради миниатюрните си размери и жилава кожеста тъкан.',
+      confusion: 'Видовете от род Cyathus (раирана гнездовка) имат трислойна сивокафява чашка с тъмни перидиоли.'
     }
     },
     sources: {
+      tr: [
+          {
+                "group": "name",
+                "name": "Türkiye Mantarları Listesi / Mantarlı Yaşam",
+                "href": "https://mantarliyasam.com/kus-yuvasi-crucibulum-laeve/"
+          },
+          {
+                "group": "text",
+                "name": "Vikipedi",
+                "href": "https://tr.wikipedia.org/wiki/Mantar"
+          }
+    ],
       sl: [
           {
                 "group": "name",
@@ -48956,6 +55248,25 @@ export const CATALOG = [
           group: 'text',
           name: 'Wikipedia',
           href: 'https://sv.wikipedia.org/wiki/Gul_br%C3%B6dkorgssvamp'
+        }
+      ],
+      ro: [
+        {
+          group: 'text',
+          name: 'MycoBank',
+          href: 'https://www.mycobank.org/page/Name%20details%20page/name/Crucibulum%20laeve'
+        },
+        {
+          group: 'text',
+          name: 'Index Fungorum',
+          href: 'https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=120286'
+        }
+      ],
+      bg: [
+        {
+          group: 'text',
+          name: 'Manatarka.org (Сайт за гъбите в България)',
+          href: 'https://manatarka.org/crucibulum-laeve'
         }
       ]
     },
