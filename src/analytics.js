@@ -1,4 +1,4 @@
-import { countryFromTraces, decisionFor } from './analyticsConsent.mjs';
+import { decisionFor, parseCloudflareTrace } from './analyticsConsent.mjs';
 import { analyticsLocation } from './identifyQuery.mjs';
 
 // Web-only property whatsthatmushroom.app. Android and iOS stay on abshrooms-a9d4c.
@@ -301,7 +301,7 @@ export function trackSister(place) {
 async function readRegion() {
   const response = await fetch('/cdn-cgi/trace', { cache: 'no-store', credentials: 'omit' });
   if (!response.ok) return '';
-  return countryFromTraces([await response.text()]);
+  return parseCloudflareTrace(await response.text());
 }
 
 function boot() {

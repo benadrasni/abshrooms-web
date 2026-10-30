@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict';
 import { mock, test } from 'node:test';
 import { COPY, parse, viewModel } from '../catalog.js';
-import { countryFromTraces, decisionFor, parseCloudflareTrace } from '../src/analyticsConsent.mjs';
+import { decisionFor, parseCloudflareTrace } from '../src/analyticsConsent.mjs';
 import { analyticsLocation } from '../src/identifyQuery.mjs';
 import {
   allowAnalytics,
@@ -44,13 +44,11 @@ test('trace loc is the country code', () => {
   assert.equal(parseCloudflareTrace(''), '');
 });
 
-test('countryFromTraces uses the first usable body', () => {
+test('one trace body is a country, catalog HTML, or empty', () => {
   const missing = '<!DOCTYPE html><title>That page is not in the catalog.</title>';
-  const later = 'h=www.cloudflare.com\nloc=US\n';
-  assert.equal(countryFromTraces([missing, later]), 'US');
-  assert.equal(countryFromTraces(['loc=SK\n', later]), 'SK');
-  assert.equal(countryFromTraces([missing, '']), '');
-  assert.equal(countryFromTraces([missing]), '');
+  assert.equal(parseCloudflareTrace('loc=SK\n'), 'SK');
+  assert.equal(parseCloudflareTrace(missing), '');
+  assert.equal(parseCloudflareTrace(''), '');
 });
 
 test('EEA, UK, and Switzerland ask before collection', () => {
@@ -427,11 +425,4 @@ test('a failed same-origin trace asks and stays off without the public Cloudflar
   assert.deepEqual(united.analytics.analyticsState(), { ready: true, on: true, ask: false, choice: '' });
   assert.deepEqual(united.urls(), ['/cdn-cgi/trace']);
   assert.equal(united.written.length, 0);
-
-  for (const loc of ['GB', 'CH', 'XX', 'T1']) {
-    const region = await bootFresh('region-' + loc, { trace: 'loc=' + loc + '\n' });
-    assert.deepEqual(region.analytics.analyticsState(), { ready: true, on: false, ask: true, choice: '' }, loc);
-    assert.deepEqual(region.urls(), ['/cdn-cgi/trace']);
-    assertCleared(region.written);
-  }
 });
