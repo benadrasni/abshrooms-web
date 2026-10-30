@@ -201,7 +201,7 @@ test('a list for another language is not a page', () => {
 });
 
 test('mushroom page falls back to English when text for language is missing', () => {
-  const fallback = viewModel({ lang: 'fr', view: 'mushroom', key: 'Boletus edulis', search: '' });
+  const fallback = viewModel({ lang: 'ja', view: 'mushroom', key: 'Boletus edulis', search: '' });
   assert.ok(fallback.description.length > 0);
   assert.match(fallback.description, /^A large ectomycorrhizal mushroom/);
   assert.match(fallback.html, /A large ectomycorrhizal mushroom/);
