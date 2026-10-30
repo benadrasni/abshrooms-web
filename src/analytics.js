@@ -1,4 +1,4 @@
-import { countryFromTraces, decisionFor, parseCloudflareTrace } from './analyticsConsent.mjs';
+import { countryFromTraces, decisionFor } from './analyticsConsent.mjs';
 import { analyticsLocation } from './identifyQuery.mjs';
 
 // Web-only property whatsthatmushroom.app. Android and iOS stay on abshrooms-a9d4c.
