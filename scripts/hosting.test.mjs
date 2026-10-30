@@ -58,8 +58,7 @@ test('the content security policy allows json-ld, list styles, and self-hosted f
   assert.match(csp, /font-src 'self'/);
   assert.match(csp, /style-src 'self' 'unsafe-inline'/);
   assert.match(csp, /script-src-attr 'none'/);
-  assert.match(csp, /connect-src [^;]*https:\/\/www\.cloudflare\.com/);
-  assert.doesNotMatch(csp, /https:\/\/\*\.cloudflare\.com/);
+  assert.doesNotMatch(csp, /cloudflare\.com/);
   assert.doesNotMatch(csp, /fonts\.googleapis\.com/);
   const directives = new Map();
   csp.split(';').forEach((part) => {
