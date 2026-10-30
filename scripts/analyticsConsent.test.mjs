@@ -44,12 +44,13 @@ test('trace loc is the country code', () => {
   assert.equal(parseCloudflareTrace(''), '');
 });
 
-test('a failed same-origin trace uses the next country', () => {
+test('countryFromTraces uses the first usable body', () => {
   const missing = '<!DOCTYPE html><title>That page is not in the catalog.</title>';
-  const cloudflare = 'h=www.cloudflare.com\nloc=US\n';
-  assert.equal(countryFromTraces([missing, cloudflare]), 'US');
-  assert.equal(countryFromTraces(['loc=SK\n', cloudflare]), 'SK');
+  const later = 'h=www.cloudflare.com\nloc=US\n';
+  assert.equal(countryFromTraces([missing, later]), 'US');
+  assert.equal(countryFromTraces(['loc=SK\n', later]), 'SK');
   assert.equal(countryFromTraces([missing, '']), '');
+  assert.equal(countryFromTraces([missing]), '');
 });
 
 test('EEA, UK, and Switzerland ask before collection', () => {
@@ -184,12 +185,14 @@ function restoreSurface() {
   resetAnalyticsState();
 }
 
+const GA_COOKIES = ['_ga', '_ga_HNL4783D4F', '_ga_C3N3E9LE8J', '_gid'];
+
 function assertCleared(written) {
   const names = written.map((value) => value.split('=')[0]);
-  for (const name of ['_ga', '_ga_HNL4783D4F', '_gid']) {
+  for (const name of GA_COOKIES) {
     assert.equal(names.includes(name), true, name);
   }
-  assert.equal(names.length, 9);
+  assert.equal(names.length, GA_COOKIES.length * 3);
 }
 
 test('refuse clears cookies and denies the tag, and reloads only when the denial was saved', (t) => {
@@ -215,6 +218,13 @@ test('refuse clears cookies and denies the tag, and reloads only when the denial
   assert.equal(analyticsState().choice, 'denied');
   assert.equal(window[GA_DISABLE], true);
   assertCleared(written);
+  for (const domain of ['', '; Domain=whatsthatmushroom.app', '; Domain=.whatsthatmushroom.app']) {
+    assert.equal(
+      written.includes('_ga_C3N3E9LE8J=; Max-Age=0; Path=/' + domain),
+      true,
+      domain || '(host-only)'
+    );
+  }
   const denied = window.dataLayer.filter((entry) => entry[0] === 'consent' && entry[1] === 'update');
   assert.equal(denied.at(-1)[2].analytics_storage, 'denied');
   assert.equal(reloads.length, 1);
@@ -296,8 +306,9 @@ function cookieDoc(written) {
   return doc;
 }
 
-async function bootFresh(id, { stored = '', trace, fail = false, hang = false } = {}) {
+async function bootFresh(id, { stored = '', trace, fail = false, hang = false, ok = true } = {}) {
   const written = [];
+  const urls = [];
   const doc = cookieDoc(written);
   let fetchCalls = 0;
   globalThis.document = doc;
@@ -314,18 +325,21 @@ async function bootFresh(id, { stored = '', trace, fail = false, hang = false } 
     },
     document: doc,
   };
-  globalThis.fetch = () => {
+  globalThis.fetch = (url) => {
     fetchCalls += 1;
+    const target = String(url);
+    urls.push(target);
+    if (target !== '/cdn-cgi/trace') return Promise.reject(new Error('unexpected ' + target));
     if (hang) return new Promise(() => {});
     if (fail) return Promise.reject(new Error('trace'));
     return Promise.resolve({
-      ok: true,
+      ok,
       text: async () => trace || '',
     });
   };
   const analytics = await import(new URL('../src/analytics.js?boot=' + id, import.meta.url));
   await new Promise((resolve) => setImmediate(resolve));
-  return { analytics, written, fetchCalls: () => fetchCalls };
+  return { analytics, written, fetchCalls: () => fetchCalls, urls: () => urls.slice() };
 }
 
 test('boot sends stored denial, an EU region, a timeout, and a trace error through the same off path', async (t) => {
@@ -343,28 +357,34 @@ test('boot sends stored denial, an EU region, a timeout, and a trace error throu
   assert.deepEqual(denied.analytics.analyticsState(), { ready: true, on: false, ask: false, choice: 'denied' });
   assert.equal(window[GA_DISABLE], true);
   assert.equal(denied.fetchCalls(), 0);
+  assert.deepEqual(denied.urls(), []);
   assertCleared(denied.written);
 
   const granted = await bootFresh('granted', { stored: 'granted' });
   assert.deepEqual(granted.analytics.analyticsState(), { ready: true, on: true, ask: false, choice: 'granted' });
   assert.equal(window[GA_DISABLE], false);
   assert.equal(granted.fetchCalls(), 0);
+  assert.deepEqual(granted.urls(), []);
   assert.equal(granted.written.length, 0);
 
   const europe = await bootFresh('eu', { trace: 'loc=DE\n' });
   assert.deepEqual(europe.analytics.analyticsState(), { ready: true, on: false, ask: true, choice: '' });
   assert.equal(window[GA_DISABLE], true);
+  assert.deepEqual(europe.urls(), ['/cdn-cgi/trace']);
   assertCleared(europe.written);
 
   const broken = await bootFresh('error', { fail: true });
   assert.deepEqual(broken.analytics.analyticsState(), { ready: true, on: false, ask: true, choice: '' });
+  assert.deepEqual(broken.urls(), ['/cdn-cgi/trace']);
   assertCleared(broken.written);
 
   mock.timers.enable({ apis: ['setTimeout'] });
   realClear = globalThis.clearTimeout;
   globalThis.clearTimeout = () => {};
   let finish = null;
-  globalThis.fetch = () => new Promise((resolve) => {
+  const lateUrls = [];
+  globalThis.fetch = (url) => new Promise((resolve) => {
+    lateUrls.push(String(url));
     finish = resolve;
   });
   const late = await import(new URL('../src/analytics.js?boot=late', import.meta.url));
@@ -380,4 +400,38 @@ test('boot sends stored denial, an EU region, a timeout, and a trace error throu
   await new Promise((resolve) => setImmediate(resolve));
   assert.deepEqual(late.analyticsState(), { ready: true, on: false, ask: true, choice: '' });
   assert.equal(window[GA_DISABLE], true);
+  assert.deepEqual(lateUrls, ['/cdn-cgi/trace']);
+});
+
+test('a failed same-origin trace asks and stays off without the public Cloudflare trace', async (t) => {
+  t.after(() => {
+    delete globalThis.window;
+    delete globalThis.document;
+    delete globalThis.localStorage;
+    delete globalThis.fetch;
+  });
+
+  const missing = '<!DOCTYPE html><title>That page is not in the catalog.</title>';
+  const notOk = await bootFresh('not-ok', { trace: 'loc=US\n', ok: false });
+  assert.deepEqual(notOk.analytics.analyticsState(), { ready: true, on: false, ask: true, choice: '' });
+  assert.equal(window[GA_DISABLE], true);
+  assert.deepEqual(notOk.urls(), ['/cdn-cgi/trace']);
+  assertCleared(notOk.written);
+
+  const html = await bootFresh('html', { trace: missing });
+  assert.deepEqual(html.analytics.analyticsState(), { ready: true, on: false, ask: true, choice: '' });
+  assert.deepEqual(html.urls(), ['/cdn-cgi/trace']);
+  assertCleared(html.written);
+
+  const united = await bootFresh('us', { trace: 'loc=US\nip=203.0.113.8\n' });
+  assert.deepEqual(united.analytics.analyticsState(), { ready: true, on: true, ask: false, choice: '' });
+  assert.deepEqual(united.urls(), ['/cdn-cgi/trace']);
+  assert.equal(united.written.length, 0);
+
+  for (const loc of ['GB', 'CH', 'XX', 'T1']) {
+    const region = await bootFresh('region-' + loc, { trace: 'loc=' + loc + '\n' });
+    assert.deepEqual(region.analytics.analyticsState(), { ready: true, on: false, ask: true, choice: '' }, loc);
+    assert.deepEqual(region.urls(), ['/cdn-cgi/trace']);
+    assertCleared(region.written);
+  }
 });

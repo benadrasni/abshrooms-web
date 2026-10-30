@@ -6,6 +6,8 @@ import { analyticsLocation } from './identifyQuery.mjs';
 // gtag/js?id=G-HNL4783D4F returns 404.
 const GA_ID = 'G-HNL4783D4F';
 const GA_TAG_ID = 'GT-TQRTL9JS';
+// Cookie left by the previous web property, G-C3N3E9LE8J.
+const LEGACY_GA_COOKIE = '_ga_C3N3E9LE8J';
 const CHOICE_KEY = 'wtm-ga';
 const REGION_WAIT_MS = 3000;
 const TITLE_GAP = ' — ';
@@ -101,7 +103,7 @@ function install() {
 
 function clearGaCookies() {
   if (typeof document === 'undefined') return;
-  const names = ['_ga', '_ga_' + GA_ID.slice(2), '_gid'];
+  const names = ['_ga', '_ga_' + GA_ID.slice(2), LEGACY_GA_COOKIE, '_gid'];
   const host = window.location.hostname;
   const domains = [''];
   if (host && host !== 'localhost' && host.includes('.')) {
@@ -294,28 +296,12 @@ export function trackSister(place) {
   });
 }
 
-// www.cloudflare.com answers with the visitor country and allows any origin.
-// Same-origin /cdn-cgi/trace is the catalog 404 until the apex is proxied.
-const TRACE_URLS = ['/cdn-cgi/trace', 'https://www.cloudflare.com/cdn-cgi/trace'];
-const TRACE_TIMEOUT_MS = 2000;
-
-async function readTrace(url) {
-  const response = await fetch(url, { cache: 'no-store', credentials: 'omit' });
-  if (!response.ok) return '';
-  return response.text();
-}
-
-function readTraceLimited(url) {
-  const timeout = new Promise((resolve) => {
-    setTimeout(() => resolve(''), TRACE_TIMEOUT_MS);
-  });
-  return Promise.race([readTrace(url).catch(() => ''), timeout]);
-}
-
+// Same-origin only. www.cloudflare.com/cdn-cgi/trace answers with the visitor
+// IP and must not run before consent. A failed or empty trace asks and stays off.
 async function readRegion() {
-  // Same-origin is first. A hung catalog 404 must not block the public trace.
-  const bodies = await Promise.all(TRACE_URLS.map(readTraceLimited));
-  return countryFromTraces(bodies);
+  const response = await fetch('/cdn-cgi/trace', { cache: 'no-store', credentials: 'omit' });
+  if (!response.ok) return '';
+  return countryFromTraces([await response.text()]);
 }
 
 function boot() {
