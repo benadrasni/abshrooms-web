@@ -201,10 +201,10 @@ test('a list for another language is not a page', () => {
 });
 
 test('mushroom page falls back to English when text for language is missing', () => {
-  const de = viewModel({ lang: 'de', view: 'mushroom', key: 'Boletus edulis', search: '' });
-  assert.ok(de.description.length > 0);
-  assert.match(de.description, /^A large ectomycorrhizal mushroom/);
-  assert.match(de.html, /A large ectomycorrhizal mushroom/);
+  const fallback = viewModel({ lang: 'fr', view: 'mushroom', key: 'Boletus edulis', search: '' });
+  assert.ok(fallback.description.length > 0);
+  assert.match(fallback.description, /^A large ectomycorrhizal mushroom/);
+  assert.match(fallback.html, /A large ectomycorrhizal mushroom/);
 
   const skAuricularia = viewModel({ lang: 'sk', view: 'mushroom', key: 'Auricularia auricula-judae', search: '' });
   assert.ok(skAuricularia.description.length > 0);
