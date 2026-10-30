@@ -1,4 +1,4 @@
-import { decisionFor, parseCloudflareTrace } from './analyticsConsent.mjs';
+import { countryFromTraces, decisionFor, parseCloudflareTrace } from './analyticsConsent.mjs';
 import { analyticsLocation } from './identifyQuery.mjs';
 
 // Web stream on the abshrooms-a9d4c property shared with the Android and iOS apps.
@@ -291,10 +291,28 @@ export function trackSister(place) {
   });
 }
 
-async function readRegion() {
-  const response = await fetch('/cdn-cgi/trace', { cache: 'no-store', credentials: 'omit' });
+// www.cloudflare.com answers with the visitor country and allows any origin.
+// Same-origin /cdn-cgi/trace is the catalog 404 until the apex is proxied.
+const TRACE_URLS = ['/cdn-cgi/trace', 'https://www.cloudflare.com/cdn-cgi/trace'];
+const TRACE_TIMEOUT_MS = 2000;
+
+async function readTrace(url) {
+  const response = await fetch(url, { cache: 'no-store', credentials: 'omit' });
   if (!response.ok) return '';
-  return parseCloudflareTrace(await response.text());
+  return response.text();
+}
+
+function readTraceLimited(url) {
+  const timeout = new Promise((resolve) => {
+    setTimeout(() => resolve(''), TRACE_TIMEOUT_MS);
+  });
+  return Promise.race([readTrace(url).catch(() => ''), timeout]);
+}
+
+async function readRegion() {
+  // Same-origin is first. A hung catalog 404 must not block the public trace.
+  const bodies = await Promise.all(TRACE_URLS.map(readTraceLimited));
+  return countryFromTraces(bodies);
 }
 
 function boot() {

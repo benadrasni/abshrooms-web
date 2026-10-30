@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict';
 import { mock, test } from 'node:test';
 import { COPY, parse, viewModel } from '../catalog.js';
-import { decisionFor, parseCloudflareTrace } from '../src/analyticsConsent.mjs';
+import { countryFromTraces, decisionFor, parseCloudflareTrace } from '../src/analyticsConsent.mjs';
 import { analyticsLocation } from '../src/identifyQuery.mjs';
 import {
   allowAnalytics,
@@ -42,6 +42,14 @@ test('trace loc is the country code', () => {
   assert.equal(parseCloudflareTrace('colo=VIE\nloc=us\n'), 'US');
   assert.equal(parseCloudflareTrace('<!doctype html><script>loc=US</script>'), '');
   assert.equal(parseCloudflareTrace(''), '');
+});
+
+test('a failed same-origin trace uses the next country', () => {
+  const missing = '<!DOCTYPE html><title>That page is not in the catalog.</title>';
+  const cloudflare = 'h=www.cloudflare.com\nloc=US\n';
+  assert.equal(countryFromTraces([missing, cloudflare]), 'US');
+  assert.equal(countryFromTraces(['loc=SK\n', cloudflare]), 'SK');
+  assert.equal(countryFromTraces([missing, '']), '');
 });
 
 test('EEA, UK, and Switzerland ask before collection', () => {
