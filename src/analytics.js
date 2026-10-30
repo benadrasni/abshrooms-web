@@ -2,7 +2,10 @@ import { countryFromTraces, decisionFor, parseCloudflareTrace } from './analytic
 import { analyticsLocation } from './identifyQuery.mjs';
 
 // Web-only property whatsthatmushroom.app. Android and iOS stay on abshrooms-a9d4c.
+// GT-TQRTL9JS is the Google tag. G-HNL4783D4F is its only destination, and
+// gtag/js?id=G-HNL4783D4F returns 404.
 const GA_ID = 'G-HNL4783D4F';
+const GA_TAG_ID = 'GT-TQRTL9JS';
 const CHOICE_KEY = 'wtm-ga';
 const REGION_WAIT_MS = 3000;
 const TITLE_GAP = ' — ';
@@ -92,7 +95,7 @@ function install() {
   window.gtag('config', GA_ID, { send_page_view: false });
   const script = document.createElement('script');
   script.async = true;
-  script.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_ID;
+  script.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_TAG_ID;
   document.head.appendChild(script);
 }
 
