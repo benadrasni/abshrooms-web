@@ -1,8 +1,8 @@
 import { countryFromTraces, decisionFor, parseCloudflareTrace } from './analyticsConsent.mjs';
 import { analyticsLocation } from './identifyQuery.mjs';
 
-// Web stream on the abshrooms-a9d4c property shared with the Android and iOS apps.
-const GA_ID = 'G-C3N3E9LE8J';
+// Web-only property whatsthatmushroom.app. Android and iOS stay on abshrooms-a9d4c.
+const GA_ID = 'G-HNL4783D4F';
 const CHOICE_KEY = 'wtm-ga';
 const REGION_WAIT_MS = 3000;
 const TITLE_GAP = ' — ';

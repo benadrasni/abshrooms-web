@@ -140,7 +140,7 @@ test('privacy buttons stay unpressed until a choice is stored', () => {
   resetAnalyticsState();
 });
 
-const GA_DISABLE = 'ga-disable-G-C3N3E9LE8J';
+const GA_DISABLE = 'ga-disable-G-HNL4783D4F';
 
 function installSurface() {
   const written = [];
@@ -186,7 +186,7 @@ function restoreSurface() {
 
 function assertCleared(written) {
   const names = written.map((value) => value.split('=')[0]);
-  for (const name of ['_ga', '_ga_C3N3E9LE8J', '_gid']) {
+  for (const name of ['_ga', '_ga_HNL4783D4F', '_gid']) {
     assert.equal(names.includes(name), true, name);
   }
   assert.equal(names.length, 9);
