@@ -540,11 +540,18 @@ test('router history calls miss a tag that wrapped them and listened for popstat
 
   const analytics = await import(new URL('../src/analytics.js?boot=unwrap', import.meta.url));
   await new Promise((resolve) => setImmediate(resolve));
+  let early = 0;
+  let tagPopstate = 0;
+  let after = 0;
+  let clicks = 0;
+  win.addEventListener('popstate', () => {
+    early += 1;
+  });
   analytics.allowAnalytics();
   assert.equal(typeof script.onload, 'function');
-
   start();
-  let tagPopstate = 0;
+  await Promise.resolve();
+
   const nativePush = historyObj.pushState;
   const nativeReplace = historyObj.replaceState;
   historyObj.pushState = (...args) => {
@@ -558,7 +565,13 @@ test('router history calls miss a tag that wrapped them and listened for popstat
   win.addEventListener('popstate', () => {
     tagPopstate += 1;
   });
+  win.addEventListener('click', () => {
+    clicks += 1;
+  });
   script.onload();
+  win.addEventListener('popstate', () => {
+    after += 1;
+  });
 
   history.pushState(null, '', '/identify/');
   history.replaceState(null, '', '/');
@@ -568,7 +581,69 @@ test('router history calls miss a tag that wrapped them and listened for popstat
     ['replace', null, '', '/'],
   ]);
 
+  app.innerHTML = '';
   win.dispatchEvent(new Event('popstate'));
+  win.dispatchEvent(new Event('click'));
   assert.equal(tagPopstate, 0);
+  assert.equal(early, 1);
+  assert.equal(after, 1);
+  assert.equal(clicks, 1);
   assert.equal(app.innerHTML.includes('What'), true);
+});
+
+test('a tag popstate listener is dropped whichever side of the router it is called from', async (t) => {
+  const win = new EventTarget();
+  win.location = {
+    hostname: 'whatsthatmushroom.app',
+    origin: 'https://whatsthatmushroom.app',
+  };
+  const doc = new EventTarget();
+  let script = null;
+  doc.createElement = () => {
+    script = {};
+    return script;
+  };
+  doc.head = { appendChild() {} };
+  const written = [];
+  Object.defineProperty(doc, 'cookie', {
+    configurable: true,
+    get() {
+      return '';
+    },
+    set(value) {
+      written.push(value);
+    },
+  });
+  globalThis.window = win;
+  globalThis.document = doc;
+  globalThis.localStorage = {
+    getItem() {
+      return '';
+    },
+    setItem() {},
+  };
+  globalThis.fetch = () => Promise.resolve({ ok: false, text: async () => '' });
+  t.after(() => {
+    delete globalThis.window;
+    delete globalThis.document;
+    delete globalThis.localStorage;
+    delete globalThis.fetch;
+  });
+
+  const analytics = await import(new URL('../src/analytics.js?boot=order', import.meta.url));
+  await new Promise((resolve) => setImmediate(resolve));
+  analytics.allowAnalytics();
+  await Promise.resolve();
+  let tag = 0;
+  let later = 0;
+  win.addEventListener('popstate', () => {
+    tag += 1;
+  });
+  script.onload();
+  win.addEventListener('popstate', () => {
+    later += 1;
+  });
+  win.dispatchEvent(new Event('popstate'));
+  assert.equal(tag, 0);
+  assert.equal(later, 1);
 });

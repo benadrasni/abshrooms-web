@@ -1727,15 +1727,10 @@ function start() {
   started = true;
   bindListeners();
   render();
-  // popstate is fired at the window, so capture and bubble listeners on this
-  // window run in registration order. Stopping propagation does not skip the
-  // tag's later listener; stopping it immediately does. The tag adds that
-  // listener when its script loads, which is after start().
-  window.addEventListener("popstate", function (event) {
+  window.addEventListener("popstate", function () {
     render();
     window.scrollTo(0, 0);
-    event.stopImmediatePropagation();
-  }, true);
+  });
   subscribeAnalytics(function () {
     if (parse().view === "privacy") render();
     else paintConsent(parse().lang);

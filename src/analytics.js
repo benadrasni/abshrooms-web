@@ -12,12 +12,15 @@ const CHOICE_KEY = 'wtm-ga';
 const REGION_WAIT_MS = 3000;
 const TITLE_GAP = ' — ';
 
-// GT-TQRTL9JS wraps pushState and replaceState once, then listens for popstate
-// on the bubble. send_page_view: false does not turn that off. These are the
-// methods from before that script runs. onload puts them back, and the tag
-// does not wrap again.
+// GT-TQRTL9JS wraps pushState and replaceState once and registers a window
+// popstate listener. send_page_view: false does not stop either. boot() saves
+// the history methods. install() turns on a filter in a microtask, after
+// start() has registered the router listener and before this async script
+// evaluates. The filter drops that popstate registration. onload puts the
+// history methods back and turns the filter off. The tag does not wrap again.
 let nativePushState = null;
 let nativeReplaceState = null;
+let popstateAddEventListener = null;
 
 function saveNativeHistory() {
   const nav = globalThis.history;
@@ -32,6 +35,24 @@ function restoreNativeHistory() {
   if (!nav) return;
   if (nativePushState) nav.pushState = nativePushState;
   if (nativeReplaceState) nav.replaceState = nativeReplaceState;
+}
+
+function beginPopstateFilter() {
+  const target = globalThis.window;
+  if (!target || popstateAddEventListener || typeof target.addEventListener !== 'function') return;
+  const native = target.addEventListener;
+  popstateAddEventListener = native;
+  target.addEventListener = function (type, listener, options) {
+    if (type === 'popstate') return;
+    return native.call(this, type, listener, options);
+  };
+}
+
+function endPopstateFilter() {
+  const target = globalThis.window;
+  if (!target || !popstateAddEventListener) return;
+  target.addEventListener = popstateAddEventListener;
+  popstateAddEventListener = null;
 }
 
 let mode = 'pending';
@@ -120,8 +141,12 @@ function install() {
   const script = document.createElement('script');
   script.async = true;
   script.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_TAG_ID;
-  script.onload = restoreNativeHistory;
+  script.onload = function () {
+    restoreNativeHistory();
+    endPopstateFilter();
+  };
   document.head.appendChild(script);
+  queueMicrotask(beginPopstateFilter);
 }
 
 function clearGaCookies() {
