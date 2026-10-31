@@ -66855,8 +66855,8 @@ export const CATALOG = [
     ],
     summary: ["Agaricales", "Nidulariaceae", "Crucibulum"],
     added: "2026-10-29",
-    plate: STORAGE + "photos/Agaricales/Nidulariaceae/Crucibulum_laeve/Crucibulum_laeve@1600.webp",
-    plateGrid: STORAGE + "photos/Agaricales/Nidulariaceae/Crucibulum_laeve/Crucibulum_laeve@400.webp",
+    plate: STORAGE + "photos/Agaricales/Nidulariaceae/Crucibulum_laeve/Crucibulum_laeve@1600.webp?v=2",
+    plateGrid: STORAGE + "photos/Agaricales/Nidulariaceae/Crucibulum_laeve/Crucibulum_laeve@400.webp?v=2",
     plateCredit: {
       author: "L. Dufour",
       license: "public domain",
