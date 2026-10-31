@@ -507,5 +507,9 @@ export const TAXA = {
   Crucibulum: {
     rank: "genus",
     sk: "pohárovček"
+  },
+  Clathrus: {
+    rank: "genus",
+    sk: "mrežovka"
   }
 };

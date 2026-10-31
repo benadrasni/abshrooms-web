@@ -67580,5 +67580,164 @@ export const CATALOG = [
       "Nidularia crucibulum Fr.",
       "Crucibulum vulgare Tul. & C. Tul."
     ]
+  },
+  {
+    id: 85,
+    name: "Clathrus ruber",
+    author: "P. Micheli ex Pers.",
+    family: "Phallaceae",
+    genus: "Clathrus",
+    order: "Phallales",
+    edibility: "inedible",
+    hymenium: "gleba",
+    where: ["ground", "wood", "grass"],
+    color: ["red", "yellow", "white"],
+    path: [
+          "Fungi",
+          "Dikarya",
+          "Basidiomycota",
+          "Agaricomycotina",
+          "Agaricomycetes",
+          "Phallomycetidae",
+          "Phallales",
+          "Phallaceae",
+          "Clathrus"
+        ],
+    summary: ["Phallales", "Phallaceae", "Clathrus"],
+    added: "2026-10-30",
+    plate: STORAGE + "photos/Phallales/Phallaceae/Clathrus_ruber/Clathrus_ruber@1600.webp",
+    plateGrid: STORAGE + "photos/Phallales/Phallaceae/Clathrus_ruber/Clathrus_ruber@400.webp",
+    plateCredit: {
+      author: "Anna Maria Hussey",
+      license: "public domain",
+      source: "https://commons.wikimedia.org/wiki/File:1847_Clathrus_ruber.jpg"
+    },
+    photos: [
+      {
+        src: STORAGE + "photos/Phallales/Phallaceae/Clathrus_ruber/cr1.webp",
+        author: "Didier Descouens",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:(MHNT)_Clathrus_ruber.jpg"
+      },
+      {
+        src: STORAGE + "photos/Phallales/Phallaceae/Clathrus_ruber/cr2.webp",
+        author: "Dave Gough",
+        license: "CC BY 2.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/2.0",
+        source: "https://commons.wikimedia.org/wiki/File:Clathrus_Ruber_-_Flickr_-_spacepleb.jpg"
+      },
+      {
+        src: STORAGE + "photos/Phallales/Phallaceae/Clathrus_ruber/cr3.webp",
+        author: "Tulumnes",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Brachycera_on_Clathrus_ruber_mushroom.jpg"
+      },
+      {
+        src: STORAGE + "photos/Phallales/Phallaceae/Clathrus_ruber/cr4.webp",
+        author: "Maarten Sepp",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Clathrus_ruber_-_with_%22eggs%22.jpg"
+      },
+      {
+        src: STORAGE + "photos/Phallales/Phallaceae/Clathrus_ruber/cr5.webp",
+        author: "Biusch",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Clathre_grillag%C3%A9.jpg"
+      }
+    ],
+    capFrom: 4,
+    capTo: 10,
+    fruitingFrom: 5,
+    fruitingTo: 11,
+    label: {
+      en: "red cage",
+      sk: "mrežovka červená"
+    },
+    names: {
+      en: ["latticed stinkhorn", "basket stinkhorn", "red cage fungus"]
+    },
+    text: {
+      en: {
+        description: "A saprotrophic stinkhorn that feeds on decaying woody plant material and grows alone or in groups. It is native to southern Europe, Macaronesia, western Turkey, North Africa, and western Asia, and is rare in central Europe. It has been spread, often with imported mulch, to other regions, including the British Isles, the Americas, and Australasia, and now occurs on every continent except Antarctica.",
+        cap: "The young fruit body is a white to greyish egg, egg-shaped to nearly round and up to about 6 cm across, with a delicate, leathery skin that develops a network of polygonal marks before it opens. A gelatinous layer up to 3 mm thick lies beneath the skin. The receptacle bursts the egg open, in as little as a few hours, and expands into a hollow sphere or oval cage 5–20 cm tall and 4–10 cm wide, made of interlaced arms that enclose 7–20 angular windows. The arms are red to pale orange, sometimes pink, and often paler toward the base. Their outer surface is ribbed or wrinkled, and they are up to 1.5 cm thick at the top and taper downward.",
+        hymenium: "There are no gills or pores. The spore-bearing tissue is the gleba, a dark olive-green to olive-brown, sticky, foul-smelling slime that covers the inner surfaces of the arms except near the base. Its smell of rotting meat draws flies and other insects, which feed on it and carry the spores away.",
+        stipe: "There is no true stipe, or only a very short one. The lattice rises directly from a cup-shaped volva, the remains of the egg skin, which stays around the base and is anchored to the ground by white cords (rhizomorphs).",
+        flesh: "The arms are spongy, soft, and brittle. In section each arm shows one wide inner tube and two indistinct rows of smaller tubes toward the outside.",
+        sporePrint: "Olive-brown. The spores are smooth and elongated, about 4–6 × 1.5–2 μm, with a small hilar scar at the point of attachment. The basidia are six-spored.",
+        habitat: "Fruit bodies grow alone or in groups on decaying wood and woody debris, in leaf and needle litter, on garden soil, lawns, and grassy places, and in wood-chip mulch, in gardens, parks, vineyards, and broadleaf or mixed woods. In central Europe they appear mainly in summer, in warm regions from spring through autumn, and in North America from October to March.",
+        uses: "Not used as food. Its edibility is not documented, the ripe fruit body smells of rotting meat, and many guides list it as inedible or poisonous. Reports of poisoning describe abdominal pain and convulsions.",
+        confusion: "Clathrus crispus, a tropical species, has a corrugated rim around each mesh of the lattice, which this species lacks. Clathrus columnatus has two to five long vertical orange or red spongy columns joined at the apex instead of a lattice. Clathrus archeri splits into separate arms soon after it emerges, so it never forms a closed lattice.",
+        notes: "The receptacle collapses about 24 hours after it emerges from the egg. Its orange to red colour comes mainly from the carotenoids lycopene and beta-carotene, the same pigments that colour tomatoes and carrots. The gelatinous layer of the egg is rich in calcium and potassium, which help it hold water while the receptacle grows quickly."
+      },
+      sk: {
+        description: "Saprotrofná smradľavá huba, ktorá sa živí rozkladajúcim sa drevným rastlinným materiálom a rastie jednotlivo alebo v skupinách. Pôvodne sa vyskytuje v južnej Európe, na Makaronézii, v západnom Turecku, v severnej Afrike a v západnej Ázii, v strednej Európe je zriedkavá. Šíri sa, často s dovezenou mulčovacou kôrou, aj do iných oblastí, napríklad na Britské ostrovy, do Ameriky a Austrálie, a dnes sa vyskytuje na všetkých kontinentoch okrem Antarktídy.",
+        cap: "Mladá plodnica je biele až sivastré vajce, vajcovité až takmer guľovité, široké do približne 6 cm, s jemnou, kožovitou kožkou, na ktorej sa pred otvorením vyvinie sieť mnohouholníkových znakov. Pod kožkou je rôsolovitá vrstva hrubá do 3 mm. Receptakulum vajce roztrhne, niekedy už za niekoľko hodín, a rozšíri sa do dutej gule alebo oválnej klietky vysokej 5–20 cm a širokej 4–10 cm, zloženej z prepletených ramien, ktoré ohraničujú 7–20 hranatých okien. Ramená sú červené až bledooranžové, niekedy ružové a často svetlejšie k báze. Ich vonkajší povrch je rebrovaný alebo zvráskavený, hore sú hrubé do 1,5 cm a smerom nadol sa zužujú.",
+        hymenium: "Lupene ani póry nemá. Výtrusorodým pletivom je gleba, tmavá olivovozelená až olivovohnedá, lepkavá a páchnuca slizovitá hmota, ktorá pokrýva vnútorné povrchy ramien okrem ich bázy. Jej pach po hnijúcom mäse priťahuje muchy a iný hmyz, ktorý ju požiera a roznáša výtrusy.",
+        stipe: "Pravý hlúbik nemá, alebo je len veľmi krátky. Mriežka vyrastá priamo z pohárovitej pošvy, zvyšku obalu vajca, ktorá zostáva okolo bázy a k pôde je pripevnená bielymi povrazcami (rizomorfami).",
+        flesh: "Ramená sú hubovité, mäkké a krehké. V reze je v každom ramene jedna široká vnútorná rúrka a smerom von dva nezreteľné rady menších rúrok.",
+        sporePrint: "Olivovohnedý. Výtrusy sú hladké a pretiahnuté, veľké asi 4–6 × 1,5–2 μm, s malou hilárnou jazvou v mieste prichytenia. Bazídiá sú šesťvýtrusné.",
+        habitat: "Plodnice rastú jednotlivo alebo v skupinách na rozkladajúcom sa dreve a drevnom odpade, v opade listov a ihličia, na záhradnej pôde, trávnikoch a trávnatých miestach a v mulčovacej štiepke, v záhradách, parkoch, vinohradoch a v listnatých alebo zmiešaných lesoch. V strednej Európe sa objavujú najmä v lete, v teplých oblastiach od jari do jesene a v Severnej Amerike od októbra do marca.",
+        uses: "Nepoužíva sa ako potravina. Jedlosť nie je zdokumentovaná, zrelá plodnica zapácha po hnijúcom mäse a mnohé príručky ju uvádzajú ako nejedlú alebo jedovatú. Správy o otrave opisujú bolesti brucha a kŕče.",
+        confusion: "Clathrus crispus, tropický druh, má okolo každého oka mriežky zvlnený lem, ktorý tomuto druhu chýba. Clathrus columnatus má namiesto mriežky dva až päť dlhých zvislých oranžových alebo červených hubovitých stĺpikov zrastených na vrchole. Clathrus archeri sa krátko po vynorení rozpadne na samostatné ramená, takže nikdy netvorí uzavretú mriežku.",
+        notes: "Receptakulum sa približne 24 hodín po vynorení z vajca zrúti. Oranžová až červená farba pochádza najmä z karotenoidov lykopénu a beta-karoténu, teda z rovnakých farbív, ktoré sfarbujú paradajky a mrkvu. Rôsolovitá vrstva vajca je bohatá na vápnik a draslík, ktoré jej pomáhajú udržať vodu, kým receptakulum rýchlo rastie."
+      }
+    },
+    sources: {
+      en: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://en.wikipedia.org/wiki/Clathrus_ruber"
+        },
+        {
+          "group": "text",
+          "name": "de.wikipedia",
+          "href": "https://de.wikipedia.org/wiki/Roter_Gitterling"
+        },
+        {
+          "group": "text",
+          "name": "BOTANY.cz",
+          "href": "https://botany.cz/cs/clathrus-ruber/"
+        },
+        {
+          "group": "text",
+          "name": "myko.cz",
+          "href": "https://www.myko.cz/myko-atlas/Clathrus-ruber/"
+        },
+        {
+          "group": "name",
+          "name": "Index Fungorum",
+          "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=232782",
+          "detail": "232782"
+        },
+        {
+          "group": "name",
+          "name": "Species Fungorum",
+          "href": "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=232782",
+          "detail": "232782"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239476",
+          "detail": "5239476"
+        }
+      ],
+      sk: [
+        {
+          "group": "text",
+          "name": "nahuby.sk",
+          "href": "https://www.nahuby.sk/atlas-hub/Clathrus-ruber/mrezovka-cervena/-/ID283",
+          "detail": "mrežovka červená"
+        }
+      ]
+    },
+    synonyms: [
+      "Clathrus flavescens Pers."
+    ]
   }
 ];
