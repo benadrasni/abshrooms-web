@@ -72055,5 +72055,928 @@ export const CATALOG = [
       "Lactariella lignyota (Fr.) J.Schröt.",
       "Lactifluus lignyotus (Fr.) Kuntze"
     ]
+  },
+  {
+    id: 90,
+    name: "Entoloma incanum",
+    author: "(Fr.) Hesler",
+    family: "Entolomataceae",
+    genus: "Entoloma",
+    order: "Agaricales",
+    edibility: "poisonous",
+    hymenium: "gills",
+    where: ["ground", "grass"],
+    color: ["yellow", "brown", "green"],
+    path: [
+      "Fungi",
+      "Dikarya",
+      "Basidiomycota",
+      "Agaricomycotina",
+      "Agaricomycetes",
+      "Agaricomycetidae",
+      "Agaricales",
+      "Entolomataceae",
+      "Entoloma"
+    ],
+    summary: ["Agaricales", "Entolomataceae", "Entoloma"],
+    added: "2026-10-31",
+    plate: STORAGE + "photos/Agaricales/Entolomataceae/Entoloma_incanum/Entoloma_incanum@1600.webp",
+    plateGrid: STORAGE + "photos/Agaricales/Entolomataceae/Entoloma_incanum/Entoloma_incanum@400.webp",
+    plateCredit: {
+      author: "James Sowerby",
+      license: "public domain",
+      source: "https://commons.wikimedia.org/wiki/File:1797_Coloured_Figures_of_English_Fungi_or_Mushrooms_-_t._162_crop.jpg"
+    },
+    photos: [
+      {
+        src: STORAGE + "photos/Agaricales/Entolomataceae/Entoloma_incanum/ei1.webp",
+        author: "zaca (Mushroom Observer)",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Entoloma_incanum_(Fr.)_Hesler_597172.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Entolomataceae/Entoloma_incanum/ei2.webp",
+        author: "Andreas Kunze",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:2007-09-29_Entoloma_incanum.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Entolomataceae/Entoloma_incanum/ei3.webp",
+        author: "Andreas Kunze",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:2007-09-29_Entoloma_incanum_2.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Entolomataceae/Entoloma_incanum/ei4.webp",
+        author: "Svencapoeira",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Roheline_punalehik.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Entolomataceae/Entoloma_incanum/ei5.webp",
+        author: "Svencapoeira",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Roheline_punalehik1.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Entolomataceae/Entoloma_incanum/ei6.webp",
+        author: "Alan Rockefeller",
+        license: "CC BY 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Entoloma_incanum_319162450.jpg"
+      }
+    ],
+    capFrom: 1,
+    capTo: 4,
+    fruitingFrom: 6,
+    fruitingTo: 10,
+    label: {
+      en: "mousepee pinkgill",
+      sk: "hodvábnica zelenohlúbiková",
+      cs: "závojenka plavozelenavá",
+      da: "grøngul rødblad",
+      nl: "groensteelsatijnzwam",
+      et: "roheline punalehik",
+      fi: "viherrusokas",
+      de: "Braungrüner Zärtling",
+      hu: "zöldes pitykegomba",
+      ja: "ワカクサウラベニタケ",
+      lt: "žalsvoji gijabudė",
+      pl: "dzwonkówka brązowozielona",
+      ru: "энтолома седая",
+      sv: "grönnopping"
+    },
+    names: {},
+    text: {
+      en: {
+        description: "A small, slender mushroom with a navelled, dull green to olive-brown cap, gills that turn pink as the spores ripen, and a bright greenish-yellow stem that turns blue-green when handled. It smells of mice. It grows in small groups in unfertilised, lime-rich grassland and sometimes in open woodland, and is widespread but local across Europe, Asia and North America.",
+        cap: "The cap is 10–40 mm across, occasionally smaller or up to about 60 mm, at first hemispherical, bell-shaped or conical, then convex to flat, usually with a depressed or navel-like centre. The margin is translucently grooved when moist, to about halfway to the centre. The surface is silky and radially fibrous, finely flaky or scaly in the centre, and olive-green, yellow-green, olive-brown or yellowish, sometimes lemon-yellow or reddish-brown, and usually darker in the centre. In dry weather the colours fade quickly to brownish or yellowish, so cap colour alone is unreliable.",
+        hymenium: "The gills are notched or attached to the stem, often with a small tooth running down it, rather distant to moderately crowded and fairly broad, with shorter gills mixed in. They are whitish or tinged green at first, then dirty pink as the spores ripen, and they stain blue-green where bruised. The edge is fertile and has no cystidia. The basidia are two- or four-spored, about 28–60 × 9–16 μm.",
+        stipe: "The stem is 20–80 mm long and 1–4 mm thick, cylindrical or slightly flattened, sometimes widening towards the base, hollow and brittle. It is smooth and shiny, bright green to greenish-yellow, later turning brownish, especially towards the base, and quickly turns dark blue-green where it is handled or broken. The base is covered with white felty mycelium. There is no ring.",
+        flesh: "The flesh is thin and fragile, light green to olive, and turns blue-green when cut or bruised, most strongly in the stem base. The smell is unpleasant and usually described as mice or burnt horn, sometimes also as cheesy or sweaty, but it is weak or absent in a few specimens. The taste is mild to unpleasant.",
+        sporePrint: "Pink to brownish pink. The spores are angular with 6–9 corners, irregular in outline, mostly about 10.5–13 × 7.5–9.5 μm with a wider reported range of 7–14 μm, and non-amyloid.",
+        habitat: "A saprotrophic fungus, although some authors regard its way of life as uncertain. It grows alone or in small groups in grass and moss on unfertilised, nutrient-poor, usually lime-rich soil, in meadows, pastures, dunes, lawns and road verges, and less often in open woodland, glades and along woodland tracks, and it reaches the subalpine zone in the Alps. Fruit bodies appear mainly from June to October and occasionally until November.",
+        uses: "Not edible. Many authors regard it as poisonous or suspect that it is, others list it only as inedible, and its small size, unpleasant smell and scarcity make it worthless for the table in any case.",
+        confusion: "The bright green stem that turns blue-green when handled, the smell of mice and the pink spore print separate it from most small grassland fungi. Entoloma pleopodium has a lemon-yellow cap, a darker brownish stem, no colour change when bruised and a sweet, fruity smell. Entoloma chlorophyllum has no smell and a brittle stem with a slightly bulbous, white-felted base. Hygrocybe psittacina has a slimy or sticky cap and stem, a cap that is never navelled and a white spore print. Clitocybe odora is also green but smells of aniseed and has a white spore print. Entoloma verae looks identical to the naked eye and differs only under the microscope, with slightly larger spores averaging 12.5 × 8 μm against 10.5 × 7.5 μm.",
+        notes: "An indicator of unfertilised, lime-rich grassland. National red lists rate it Near Threatened in Norway, Denmark and Sweden and Endangered in the Czech Republic and the Netherlands, and it is in the Red Data Book of Lithuania; the main causes are the fertilising and overgrowing of grassland and the end of grazing and mowing. A near-identical species, Entoloma verae, was described only in 2021, so older records may include both."
+      },
+      sk: {
+        description: "Malá, štíhla huba s pupkatým, matne zeleným až olivovohnedým klobúkom, lupeňmi, ktoré ružovejú, keď dozrievajú výtrusy, a jasne zelenožltým hlúbikom, ktorý sa pri dotyku mení na modrozelený. Páchne po myšiach. Rastie v malých skupinách na nehnojených, vápnitých lúkach a pasienkoch, niekedy aj v presvetlených lesoch, a je rozšírená, no roztrúsená v Európe, Ázii a Severnej Amerike.",
+        cap: "Klobúk je široký 10–40 mm, občas menší alebo až do 60 mm, spočiatku pologuľovitý, zvonovitý alebo kužeľovitý, potom vypuklý až plochý, zvyčajne s preliačeným alebo pupkatým stredom. Okraj je za vlhka priesvitne ryhovaný zhruba do polovice polomeru. Povrch je hodvábny a radiálne vláknitý, v strede jemne vločkatý alebo šupinkatý, olivovozelený, žltozelený, olivovohnedý alebo žltkastý, niekedy citrónovožltý alebo červenohnedý, v strede zvyčajne tmavší. V suchom počasí farby rýchlo blednú do hnedastej alebo žltkastej, takže samotná farba klobúka nie je spoľahlivým znakom.",
+        hymenium: "Lupene sú vykrojené alebo prirastené k hlúbiku, často so zúbkom zbiehajúcim po ňom, dosť riedke až mierne husté a pomerne široké, prestriedané kratšími lupienkami. Spočiatku sú belavé alebo so zeleným nádychom, potom špinavoružové, keď dozrievajú výtrusy, a po poranení sa sfarbujú modrozeleno. Ostrie je plodné a bez cystíd. Bazídie sú dvoj- alebo štvorvýtrusné, veľké asi 28–60 × 9–16 μm.",
+        stipe: "Hlúbik je 20–80 mm dlhý a 1–4 mm hrubý, valcovitý alebo mierne sploštený, niekedy sa k báze rozširuje, dutý a krehký. Je hladký a lesklý, jasne zelený až zelenožltý, neskôr hnedne, najmä k báze, a pri dotyku alebo zlomení rýchlo tmavne na modrozeleno. Báza je pokrytá bielym plstnatým podhubím. Prsteň chýba.",
+        flesh: "Dužina je tenká a krehká, svetlozelená až olivová, po rozrezaní alebo poranení sa sfarbuje modrozeleno, najsilnejšie v báze hlúbika. Vôňa je nepríjemná, zvyčajne sa opisuje ako vôňa myší alebo spáleného rohu, niekedy aj syrová či potná, no u niekoľkých plodníc je slabá alebo chýba. Chuť je mierna až nepríjemná.",
+        sporePrint: "Ružový až hnedoružový. Výtrusy sú uhlovité so 6–9 rohmi, nepravidelného obrysu, väčšinou asi 10,5–13 × 7,5–9,5 μm, pričom sa uvádza aj širší rozsah 7–14 μm, a neamyloidné.",
+        habitat: "Saprotrofná huba, hoci niektorí autori považujú jej spôsob života za neistý. Rastie jednotlivo alebo v malých skupinách v tráve a machu na nehnojenej, na živiny chudobnej, zvyčajne vápnitej pôde, na lúkach, pasienkoch, dunách, trávnikoch a okrajoch ciest, menej často v presvetlených lesoch, na čistinách a pri lesných cestách, a v Alpách vystupuje do subalpínskeho pásma. Plodnice sa objavujú hlavne od júna do októbra, ojedinele až do novembra.",
+        uses: "Nejedlá. Mnohí autori ju pokladajú za jedovatú alebo to o nej predpokladajú, iní ju uvádzajú len ako nejedlú a pre malú veľkosť, nepríjemný zápach a vzácnosť je na jedenie aj tak bezcenná.",
+        confusion: "Jasne zelený hlúbik, ktorý sa pri dotyku mení na modrozelený, vôňa po myšiach a ružový výtrusný prach ju odlišujú od väčšiny drobných lúčnych húb. Entoloma pleopodium má citrónovožltý klobúk, tmavší hnedastý hlúbik, po poranení nemení farbu a voňa sladko a ovocne. Entoloma chlorophyllum je bez vône a má krehký hlúbik s mierne hľuzovitou, bielo plstnatou bázou. Hygrocybe psittacina má slizký alebo lepkavý klobúk a hlúbik, klobúk nikdy nie je pupkatý a výtrusný prach je biely. Clitocybe odora je tiež zelená, ale vonia po anízi a má biely výtrusný prach. Entoloma verae je voľným okom nerozoznateľná a líši sa len pod mikroskopom, mierne väčšími výtrusmi s priemerom 12,5 × 8 μm oproti 10,5 × 7,5 μm.",
+        notes: "Indikátor nehnojených, vápnitých lúk. Národné červené zoznamy ju hodnotia ako takmer ohrozenú (Near Threatened) v Nórsku, Dánsku a Švédsku a ako ohrozenú (Endangered) v Česku a Holandsku a je zapísaná v Červenej knihe Litvy; hlavnými príčinami sú hnojenie a zarastanie lúk a koniec pasenia a kosenia. Takmer rovnaký druh, Entoloma verae, bol opísaný až v roku 2021, takže staršie nálezy môžu zahŕňať oba druhy."
+      },
+      ar: {
+        description: "فطر صغير نحيل له قبعة سرّية الوسط خضراء باهتة إلى بنية زيتونية، وصفائح تتحول إلى الوردي عند نضج الأبواغ، وساق خضراء مصفرّة زاهية تتحول إلى أخضر مزرق عند لمسها. رائحته كرائحة الفئران. ينمو في مجموعات صغيرة في المروج الغنية بالكلس غير المسمّدة وأحيانًا في الغابات المفتوحة، وهو منتشر لكنه موضعي في أوروبا وآسيا وأمريكا الشمالية.",
+        cap: "يبلغ عرض القبعة ١٠–٤٠ مم، وأحيانًا أقل أو حتى نحو ٦٠ مم، وهي في البداية نصف كروية أو جرسية أو مخروطية، ثم محدبة إلى مسطحة، وغالبًا ما يكون وسطها مقعّرًا سرّيّ الشكل. والحافة مخططة شفافة في الطقس الرطب حتى نحو نصف المسافة إلى الوسط. سطحها حريري وليفي شعاعي، وفي الوسط دقيق القشور أو متقشر، لونه أخضر زيتوني أو أخضر مصفرّ أو بني زيتوني أو مصفرّ، وأحيانًا أصفر ليموني أو بني محمرّ، وهو عادة أغمق في الوسط. وفي الطقس الجاف تبهت الألوان سريعًا إلى بني مائل أو مصفرّ، لذا لا يُعتمد على لون القبعة وحده.",
+        hymenium: "الصفائح محززة عند اتصالها بالساق أو متصلة بها، وغالبًا بسنّ صغيرة نازلة، متباعدة نوعًا ما إلى متقاربة باعتدال وعريضة نوعًا ما، وتتخللها صفائح أقصر. وهي بيضاء إلى مخضرّة قليلًا في الفطر الفتي، ثم وردية متسخة عند نضج الأبواغ، وتتلطخ بالأخضر المزرق حيث تتضرر. وحافة الصفيحة خصبة وخالية من الكيسات. الدعامات (البازيديا) ثنائية أو رباعية الأبواغ، قياسها نحو ٢٨–٦٠ × ٩–١٦ ميكرومتر.",
+        stipe: "يبلغ طول الساق ٢٠–٨٠ مم وسماكتها ١–٤ مم، أسطوانية أو مفلطحة قليلًا، وأحيانًا تتسع نحو القاعدة، مجوفة وهشة. وهي ملساء لامعة، خضراء زاهية إلى خضراء مصفرّة، ثم تصبح بنية مائلة، ولا سيما نحو القاعدة، وتتحول سريعًا إلى أخضر مزرق داكن عند لمسها أو كسرها. والقاعدة مغطاة بغزل فطري أبيض لبادي. ولا توجد حلقة.",
+        flesh: "اللحم رقيق هش، أخضر فاتح إلى زيتوني، ويتحول إلى أخضر مزرق عند القطع أو التضرر، ولا سيما في قاعدة الساق. الرائحة كريهة، وتوصف عادة بأنها رائحة فئران أو قرن محترق، وأحيانًا رائحة جبن أو عرق، لكنها ضعيفة أو غائبة في بعض العينات. الطعم معتدل إلى كريه.",
+        sporePrint: "وردي إلى وردي مائل إلى البني. الأبواغ زاويّة بـ٦–٩ زوايا، غير منتظمة المحيط، وقياسها في الغالب نحو ١٠٫٥–١٣ × ٧٫٥–٩٫٥ ميكرومتر، وقد ذُكر مدى أوسع هو ٧–١٤ ميكرومتر، وهي غير نشوية.",
+        habitat: "فطر رمّي، مع أن بعض المؤلفين يعدّون نمط حياته غير مؤكد. ينمو منفردًا أو في مجموعات صغيرة بين العشب والطحالب في تربة غير مسمّدة فقيرة بالمغذيات وغالبًا كلسية، في المروج والمراعي والكثبان والمروج المعشوشبة وأطراف الطرق، وبدرجة أقل في الغابات المفتوحة والمساحات الخالية وعلى طول الدروب الحرجية، ويصل في جبال الألب إلى النطاق شبه الألبي. تظهر الثمار في الغالب من يونيو إلى أكتوبر، وأحيانًا حتى نوفمبر.",
+        uses: "غير صالح للأكل. يعدّه كثير من المؤلفين سامًّا أو يشتبهون في ذلك، ويكتفي آخرون بالإشارة إلى أنه غير صالح للأكل، وهو على أي حال عديم القيمة للمائدة لصغر حجمه ورائحته الكريهة وندرته.",
+        confusion: "يتميز عن معظم فطريات المروج الصغيرة بالساق الخضراء الزاهية التي تتحول إلى أخضر مزرق عند اللمس، وبرائحة الفئران، وبطبعة الأبواغ الوردية. تتميز Entoloma pleopodium بقبعة صفراء ليمونية وساق أغمق مائلة إلى البني ولا تغيّر لونها عند التضرر ورائحتها حلوة فاكهية. وتخلو Entoloma chlorophyllum من الرائحة وساقها هشة وقاعدتها منتفخة قليلًا ولبادية بيضاء. أما Hygrocybe psittacina فقبعتها وساقها مخاطيتان أو لزجتان وقبعتها لا تكون سرّية الوسط أبدًا وطبعة أبواغها بيضاء. وتكون Clitocybe odora خضراء أيضًا لكنها تفوح برائحة اليانسون وطبعة أبواغها بيضاء. أما Entoloma verae فمطابقة بالعين المجردة ولا تُميَّز إلا بالمجهر من أبواغها الأكبر قليلًا، بمتوسط ١٢٫٥ × ٨ ميكرومتر مقابل ١٠٫٥ × ٧٫٥ ميكرومتر.",
+        notes: "نوع دالّ على المروج الكلسية غير المسمّدة. تصنّفه القوائم الحمراء الوطنية قريبًا من التهديد (Near Threatened) في النرويج والدنمارك والسويد ومهدّدًا بالانقراض (Endangered) في التشيك وهولندا، وهو مدرج في الكتاب الأحمر لليتوانيا؛ وأهم الأسباب هي تسميد المروج وزحف الشجيرات عليها وتوقف الرعي والجز. ولم يوصف النوع الشبيه به تمامًا Entoloma verae إلا عام ٢٠٢١، لذلك قد تشمل السجلات القديمة النوعين معًا."
+      },
+      bg: {
+        description: "Малка, стройна гъба с пъпообразно вдлъбната, бледозелена до маслиненокафява шапка, пластинки, които порозовяват при узряване на спорите, и ярък жълтеникавозелен крак, който при допир става синьозелен. Мирише на мишки. Расте на малки групи по ненаторени, богати на варовик ливади, а понякога и в редки гори; разпространена е, но локално, в Европа, Азия и Северна Америка.",
+        cap: "Шапката е с диаметър 10–40 mm, понякога по-малка или до около 60 mm, отначало полукълбовидна, камбановидна или конусовидна, после изпъкнала до плоска, обикновено с вдлъбнат, пъпообразен център. Периферията във влажно време е прозрачно набраздена до около половината от радиуса. Повърхността е копринена и лъчисто влакнеста, в центъра ситно люспеста или пухкава, маслиненозелена, жълтеникавозелена, маслиненокафява или жълтеникава, понякога лимоненожълта или червеникавокафява, обикновено по-тъмна в центъра. При сухо време цветовете бързо избледняват до кафеникави или жълтеникави, затова само цветът на шапката не е надежден.",
+        hymenium: "Пластинките са изрязани или прираснали към крака, често с малко слизащо зъбче, доста редки до умерено гъсти и доста широки, примесени с по-къси пластинки. Отначало са беловати или със зеленикав оттенък, при узряване на спорите — мръсно розови, а на повредените места стават синьозелени. Острието на пластинките е плодовито и без цистиди. Базидиите са двуспорови или четириспорови, с размери около 28–60 × 9–16 μm.",
+        stipe: "Кракът е дълъг 20–80 mm и дебел 1–4 mm, цилиндричен или леко сплескан, понякога разширен към основата, кух и чуплив. Той е гладък и лъскав, ярък зелен до жълтеникавозелен, по-късно кафеникав, особено към основата, а при допир или счупване бързо става тъмен синьозелен. Основата е покрита с бял, филцов мицел. Пръстен няма.",
+        flesh: "Месото е тънко и чупливо, светлозелено до маслиново, а при срязване или повреда става синьозелено, особено в основата на крака. Миризмата е неприятна, обикновено описвана като на мишки или изгорял рог, понякога и на сирене или пот, но при някои екземпляри е слаба или липсва. Вкусът е мек до неприятен.",
+        sporePrint: "Розов до кафеникаворозов. Спорите са ъгловати, с 6–9 ъгъла, с неправилни очертания, предимно около 10,5–13 × 7,5–9,5 μm, посочва се и по-широк диапазон 7–14 μm, и са неамилоидни.",
+        habitat: "Сапротрофна гъба, макар че някои автори смятат начина ѝ на живот за несигурен. Расте единично или на малки групи в трева и мъх върху ненаторена, бедна на хранителни вещества, най-често варовита почва, по ливади, пасища, дюни, тревни площи и крайпътни ивици, по-рядко в редки гори, поляни и край горски пътища, а в Алпите стига до субалпийския пояс. Плодните тела се появяват главно от юни до октомври, понякога до ноември.",
+        uses: "Негодна за ядене. Много автори я смятат за отровна или подозират, че е такава, други я посочват само като негодна за ядене, а заради дребния ѝ размер, неприятната миризма и рядкост за трапезата така или иначе е без стойност.",
+        confusion: "Ярко зеленият крак, който при допир става синьозелен, миризмата на мишки и розовият отпечатък от спори я отличават от повечето дребни ливадни гъби. Entoloma pleopodium има лимоненожълта шапка, по-тъмен, кафеникав крак, не променя цвета си при повреда и мирише сладко, плодово. Entoloma chlorophyllum е без мирис и има чуплив крак с леко луковична, бяло филцова основа. Hygrocybe psittacina има слузеста или лепкава шапка и крак, шапката ѝ никога не е пъпообразна, а отпечатъкът от спори е бял. Clitocybe odora също е зелена, но мирише на анасон и има бял отпечатък от спори. Entoloma verae е идентична с просто око и се различава само под микроскоп по малко по-едри спори, средно 12,5 × 8 μm срещу 10,5 × 7,5 μm.",
+        notes: "Индикатор за ненаторени, богати на варовик ливади. Националните червени списъци я оценяват като почти застрашена (Near Threatened) в Норвегия, Дания и Швеция и като застрашена (Endangered) в Чехия и Нидерландия, а е включена и в Червената книга на Литва; основните причини са торенето и обрастването на ливадите и прекратяването на пашата и косенето. Почти идентичен вид, Entoloma verae, е описан едва през 2021 г., така че по-старите находки може да обхващат и двата вида."
+      },
+      zh: {
+        description: "一種小型、纖細的蘑菇，菌蓋中央下凹如臍，呈暗淡的綠色至橄欖褐色，菌褶在孢子成熟時變成粉紅色，菌柄鮮黃綠色，一碰就變成藍綠色。有老鼠般的氣味。成小群生於未施肥、富含鈣質的草地上，有時也生於稀疏的林中，在歐洲、亞洲和北美洲分布廣泛但零星。",
+        cap: "菌蓋寬10–40毫米，有時更小或可達約60毫米，幼時半球形、鐘形或圓錐形，之後凸鏡形至平展，中央通常下凹呈臍狀。潮濕時邊緣有透明的條紋，延伸到半徑的一半左右。表面絲狀光滑並帶放射狀纖維，中央有細小的鱗片或絮狀物，橄欖綠、黃綠、橄欖褐或帶黃色，有時檸檬黃或紅褐色，中央通常顏色較深。乾燥天氣時顏色很快褪成褐色調或黃色調，因此單憑菌蓋顏色並不可靠。",
+        hymenium: "菌褶彎生或直生於菌柄，常有一個小的延生齒，相當稀疏至中等密度，相當寬，並夾雜較短的菌褶。幼時白色或帶綠色調，孢子成熟時變成髒粉紅色，受傷處染成藍綠色。菌褶邊緣可育，無囊狀體。擔子二孢或四孢，大小約28–60 × 9–16 μm。",
+        stipe: "菌柄長20–80毫米，粗1–4毫米，圓柱形或略扁，有時向基部變粗，中空而易碎。表面光滑有光澤，鮮綠至黃綠色，後變褐色調，尤其在基部，碰觸或折斷時很快變成深藍綠色。基部被白色氈狀菌絲覆蓋。無菌環。",
+        flesh: "菌肉薄而脆，淡綠至橄欖色，切開或受傷時變成藍綠色，尤其在菌柄基部。氣味難聞，通常形容為老鼠味或燒焦的角味，有時也像乳酪或汗味，但有些標本氣味微弱或沒有。味道溫和至令人不快。",
+        sporePrint: "粉紅色至褐粉紅色。孢子有角，具6–9個角，輪廓不規則，大多約10.5–13 × 7.5–9.5 μm，也有報告較寬的範圍7–14 μm，非類澱粉質。",
+        habitat: "腐生真菌，不過有些作者認為其生活方式尚不確定。單生或小群生於草和苔蘚之間，生長在未施肥、養分貧瘠且多半富含鈣質的土壤上，見於草地、牧場、沙丘、草坪和路邊，較少見於稀疏的林地、林間空地和林道旁，在阿爾卑斯山可上達亞高山帶。子實體主要在6月至10月出現，偶爾持續到11月。",
+        uses: "不可食用。許多作者認為它有毒或懷疑有毒，另一些只說它不可食用，而且它個頭小、氣味難聞又少見，無論如何都沒有食用價值。",
+        confusion: "鮮綠色、碰觸後變藍綠色的菌柄，老鼠般的氣味，以及粉紅色的孢子印，可將它與大多數小型草地蘑菇區分開來。Entoloma pleopodium菌蓋檸檬黃，菌柄較深而帶褐色，受傷時不變色，氣味甜而帶果香。Entoloma chlorophyllum無氣味，菌柄易碎，基部略呈球莖狀並覆有白色氈毛。Hygrocybe psittacina的菌蓋和菌柄黏滑，菌蓋從不下凹成臍狀，孢子印白色。Clitocybe odora也是綠色，但有茴香味，孢子印白色。Entoloma verae肉眼上完全相同，只能在顯微鏡下憑稍大的孢子區分，平均為12.5 × 8 μm，而本種為10.5 × 7.5 μm。",
+        notes: "未施肥、富含鈣質草地的指示種。各國紅色名錄在挪威、丹麥和瑞典將其評為近危（Near Threatened），在捷克和荷蘭評為瀕危（Endangered），立陶宛紅皮書也有收錄；主要原因是草地施肥和灌木化，以及放牧和割草的停止。一個幾乎相同的物種Entoloma verae直到2021年才被描述，因此較早的記錄可能涵蓋這兩個物種。"
+      },
+      hr: {
+        description: "Mala, vitka gljiva s udubljenim, pupkastim klobukom mutnozelene do maslinastosmeđe boje, listićima koji postaju ružičasti kad spore sazriju i jarkim žutozelenim stručkom koji na dodir postaje modrozelen. Miriše na miševe. Raste u malim skupinama na negnojenim travnjacima bogatim vapnom, a katkad u prorijeđenim šumama; raširena je, ali lokalna u Europi, Aziji i Sjevernoj Americi.",
+        cap: "Klobuk je širok 10–40 mm, ponekad manji ili do oko 60 mm, isprva polukuglast, zvonast ili stožast, zatim izbočen do ravan, obično s udubljenim, pupkastim središtem. Rub je po vlažnom vremenu prozirno prugast do otprilike polovice polumjera. Površina je svilenkasta i radijalno vlaknasta, u sredini fino pahuljasta ili ljuskasta, maslinastozelena, žutozelena, maslinastosmeđa ili žućkasta, ponekad limunskožuta ili crvenkastosmeđa, a obično tamnija u sredini. Po suhom vremenu boje brzo blijede u smećkaste ili žućkaste, pa sama boja klobuka nije pouzdana.",
+        hymenium: "Listići su izrezani ili prirasli uz stručak, često s malim spuštenim zubićem, prilično rijetki do umjereno gusti i prilično široki, isprepleteni kraćima. U mladosti su bjelkasti ili zelenkasto prošarani, kad spore sazriju prljavoružičasti, a na oštećenim mjestima poprime modrozelenu boju. Oštrica listića je plodna i bez cistida. Bazidije su dvosporne ili četverosporne, veličine oko 28–60 × 9–16 μm.",
+        stipe: "Stručak je dug 20–80 mm i debeo 1–4 mm, valjkast ili blago spljošten, ponekad prošireniji pri dnu, šupalj i lomljiv. Gladak je i sjajan, jarkozelen do žutozelen, poslije smećkast, osobito pri dnu, a na dodir ili pri lomljenju brzo poprimi tamnu modrozelenu boju. Dno je prekriveno bijelim, filcastim micelijem. Prstena nema.",
+        flesh: "Meso je tanko i lomljivo, svijetlozeleno do maslinasto, a na prerezu ili oštećenju postaje modrozeleno, osobito u dnu stručka. Miris je neugodan, obično opisan kao miris miševa ili paljenog roga, katkad i sira ili znoja, no kod nekih primjeraka je slab ili ga nema. Okus je blag do neugodan.",
+        sporePrint: "Ružičast do smećkastoružičast. Spore su uglate, sa 6–9 kutova, nepravilnog obrisa, uglavnom veličine oko 10,5–13 × 7,5–9,5 μm, a navodi se i širi raspon od 7–14 μm; neamiloidne su.",
+        habitat: "Saprotrofna gljiva, iako neki autori njezin način života smatraju nesigurnim. Raste pojedinačno ili u malim skupinama u travi i mahovini na negnojenom, hranjivima siromašnom, najčešće vapnenastom tlu, na livadama, pašnjacima, dinama, travnjacima i uz ceste, rjeđe u prorijeđenim šumama, na čistinama i uz šumske putove, a u Alpama dopire do subalpinskog pojasa. Plodišta se pojavljuju uglavnom od lipnja do listopada, povremeno do studenoga.",
+        uses: "Nejestiva. Mnogi autori smatraju je otrovnom ili to sumnjaju, drugi je navode samo kao nejestivu, a zbog sitne veličine, neugodnog mirisa i rijetkosti za stol je ionako bezvrijedna.",
+        confusion: "Jarkozeleni stručak koji na dodir postaje modrozelen, miris miševa i ružičast otisak spora razlikuju je od većine sitnih travnjačkih gljiva. Entoloma pleopodium ima limunskožut klobuk, tamniji, smećkast stručak, ne mijenja boju pri oštećenju i slatko, voćno miriše. Entoloma chlorophyllum je bez mirisa i ima lomljiv stručak s blago gomoljastim, bijelo filcastim dnom. Hygrocybe psittacina ima sluzav ili ljepljiv klobuk i stručak, klobuk joj nikad nije pupkast, a otisak spora je bijel. Clitocybe odora također je zelena, ali miriše na anis i ima bijeli otisak spora. Entoloma verae golim je okom identična i razlikuje se samo mikroskopom, po nešto većim sporama, u prosjeku 12,5 × 8 μm naprema 10,5 × 7,5 μm.",
+        notes: "Pokazatelj negnojenih travnjaka bogatih vapnom. Nacionalni crveni popisi ocjenjuju je kao gotovo ugroženu (Near Threatened) u Norveškoj, Danskoj i Švedskoj te kao ugroženu (Endangered) u Češkoj i Nizozemskoj, a nalazi se i u Crvenoj knjizi Litve; glavni uzroci su gnojidba i zarastanje travnjaka te prestanak ispaše i košnje. Gotovo identična vrsta, Entoloma verae, opisana je tek 2021., pa starija zabilježena nalazišta mogu obuhvaćati obje vrste."
+      },
+      cs: {
+        description: "Malá, štíhlá houba s pupkatým, matně zeleným až olivově hnědým kloboukem, lupeny, které růžoví, když dozrávají výtrusy, a jasně zelenožlutým třeněm, který se při dotyku zbarvuje do modrozelena. Zapáchá po myších. Roste v malých skupinách na nehnojených, vápnitých loukách a pastvinách, někdy i v řídkých lesích, a je rozšířená, ale ostrůvkovitá v Evropě, Asii a Severní Americe.",
+        cap: "Klobouk je široký 10–40 mm, občas menší nebo až 60 mm, zpočátku polokulovitý, zvonovitý nebo kuželovitý, později klenutý až plochý, obvykle s prohloubeným nebo pupkovitým středem. Okraj je za vlhka průsvitně rýhovaný zhruba do poloviny poloměru. Povrch je hedvábný a radiálně vláknitý, ve středu jemně vločkatý nebo šupinkatý, olivově zelený, žlutozelený, olivově hnědý nebo nažloutlý, někdy citronově žlutý nebo červenohnědý, uprostřed obvykle tmavší. Za sucha barvy rychle blednou do hnědavé nebo nažloutlé, takže samotná barva klobouku není spolehlivým znakem.",
+        hymenium: "Lupeny jsou vykrojené nebo přirostlé ke třeni, často se zoubkem sbíhajícím po něm, dosti řídké až středně husté a poměrně široké, prokládané kratšími lupínky. Zpočátku jsou bělavé nebo se zeleným nádechem, potom špinavě růžové, když dozrávají výtrusy, a při poranění se zbarvují modrozeleně. Ostří je plodné a bez cystid. Bazidie jsou dvou- nebo čtyřspórové, velké asi 28–60 × 9–16 μm.",
+        stipe: "Třeň je 20–80 mm dlouhý a 1–4 mm tlustý, válcovitý nebo mírně zploštělý, někdy se k bázi rozšiřuje, dutý a křehký. Je hladký a lesklý, jasně zelený až zelenožlutý, později hnědne, zejména k bázi, a při dotyku nebo zlomení rychle tmavne do modrozelena. Báze je pokryta bílým plstnatým mycelem. Prstenec chybí.",
+        flesh: "Dužnina je tenká a křehká, světle zelená až olivová, po rozříznutí nebo poranění se zbarvuje modrozeleně, nejsilněji v bázi třeně. Vůně je nepříjemná, obvykle se popisuje jako vůně myší nebo spáleného rohu, někdy i sýrová či potní, u několika plodnic je však slabá nebo chybí. Chuť je mírná až nepříjemná.",
+        sporePrint: "Růžový až hnědorůžový. Výtrusy jsou hranaté se 6–9 rohy, nepravidelného obrysu, většinou asi 10,5–13 × 7,5–9,5 μm, přičemž se uvádí i širší rozsah 7–14 μm, a neamyloidní.",
+        habitat: "Saprotrofní houba, i když někteří autoři považují její způsob života za nejistý. Roste jednotlivě nebo v malých skupinách v trávě a mechu na nehnojené, na živiny chudé, obvykle vápnité půdě, na loukách, pastvinách, dunách, trávnících a okrajích cest, méně často v řídkých lesích, na pasekách a podél lesních cest, a v Alpách vystupuje do subalpínského stupně. Plodnice se objevují hlavně od června do října, ojediněle až do listopadu.",
+        uses: "Nejedlá. Mnozí autoři ji pokládají za jedovatou nebo to o ní předpokládají, jiní ji uvádějí jen jako nejedlou a pro malou velikost, nepříjemný zápach a vzácnost je k jídlu stejně bezcenná.",
+        confusion: "Jasně zelený třeň, který se při dotyku zbarvuje do modrozelena, vůně po myších a růžový výtrusný prach ji odlišují od většiny drobných lučních hub. Entoloma pleopodium má citronově žlutý klobouk, tmavší nahnědlý třeň, po poranění nemění barvu a voní sladce a ovocně. Entoloma chlorophyllum je bez vůně a má křehký třeň s mírně hlízovitou, bíle plstnatou bází. Hygrocybe psittacina má slizký nebo lepkavý klobouk a třeň, klobouk nikdy není pupkatý a výtrusný prach je bílý. Clitocybe odora je také zelená, ale voní po anýzu a má bílý výtrusný prach. Entoloma verae je pouhým okem nerozeznatelná a liší se jen pod mikroskopem, mírně většími výtrusy o průměru 12,5 × 8 μm proti 10,5 × 7,5 μm.",
+        notes: "Indikátor nehnojených, vápnitých luk. Národní červené seznamy ji hodnotí jako téměř ohroženou (Near Threatened) v Norsku, Dánsku a Švédsku a jako ohroženou (Endangered) v Česku a Nizozemsku a je zapsána v Červené knize Litvy; hlavními příčinami jsou hnojení a zarůstání luk a konec pastvy a seče. Téměř shodný druh, Entoloma verae, byl popsán až v roce 2021, takže starší nálezy mohou zahrnovat oba druhy."
+      },
+      da: {
+        description: "En lille, slank svamp med en navlet, mat grøn til olivenbrun hat, lameller, der bliver lyserøde, når sporerne modner, og en klar grøngul stok, som bliver blågrøn, når den berøres. Den lugter af mus. Den vokser i små grupper på ugødet, kalkrigt græsland og nogle gange i åben skov og er udbredt, men lokal i Europa, Asien og Nordamerika.",
+        cap: "Hatten er 10–40 mm bred, af og til mindre eller op til omkring 60 mm, først halvkugleformet, klokkeformet eller kegleformet, derefter hvælvet til flad, som regel med nedtrykt, navlelignende midte. Randen er gennemskinnelig stribet i fugtigt vejr, omtrent halvvejs ind mod midten. Overfladen er silkeagtig og radiært trævlet, finskællet eller fnugget i midten og olivengrøn, gulgrøn, olivenbrun eller gullig, nogle gange citrongul eller rødbrun, og som regel mørkere i midten. I tørt vejr falmer farverne hurtigt til brunlige eller gullige, så hattens farve alene er upålidelig.",
+        hymenium: "Lamellerne er udbugtede eller tilvoksede, ofte med en lille tand, der løber ned ad stokken, ret spredte til moderat tætte og ret brede, blandet med kortere lameller. De er først hvidlige eller grønligt anløbne, derefter snavset lyserøde, når sporerne modner, og de farves blågrønne, hvor de skades. Lamelleggen er fertil og uden cystider. Basidierne har to eller fire sporer og måler omkring 28–60 × 9–16 μm.",
+        stipe: "Stokken er 20–80 mm lang og 1–4 mm tyk, cylindrisk eller let fladtrykt, nogle gange bredere mod bunden, hul og skør. Den er glat og blank, klart grøn til grøngul, senere brunlig, især mod bunden, og bliver hurtigt mørkt blågrøn, hvor den berøres eller brækkes. Bunden er dækket af hvidt, filtet mycelium. Der er ingen ring.",
+        flesh: "Kødet er tyndt og skørt, lysegrønt til olivenfarvet, og bliver blågrønt ved snit eller skade, kraftigst i stokbunden. Lugten er ubehagelig og beskrives som regel som mus eller brændt horn, nogle gange også som ostagtig eller sveden, men den er svag eller mangler hos nogle få eksemplarer. Smagen er mild til ubehagelig.",
+        sporePrint: "Lyserød til brunlig lyserød. Sporerne er kantede med 6–9 hjørner, uregelmæssige i omrids, for det meste omkring 10,5–13 × 7,5–9,5 μm, med et bredere angivet område på 7–14 μm, og ikke amyloide.",
+        habitat: "En saprotrof svamp, selv om nogle forfattere anser dens levevis for usikker. Den vokser enkeltvis eller i små grupper i græs og mos på ugødet, næringsfattig, oftest kalkrig jord, på enge, overdrev, klitter, plæner og vejkanter og mere sjældent i åben skov, lysninger og langs skovstier, og i Alperne når den op i den subalpine zone. Frugtlegemerne optræder hovedsagelig fra juni til oktober og af og til til november.",
+        uses: "Ikke spiselig. Mange forfattere regner den for giftig eller formoder det, andre angiver den kun som uspiselig, og på grund af dens ringe størrelse, ubehagelige lugt og sjældenhed er den under alle omstændigheder værdiløs som spisesvamp.",
+        confusion: "Den klart grønne stok, der bliver blågrøn ved berøring, lugten af mus og det lyserøde sporeaftryk adskiller den fra de fleste små græsmarkssvampe. Entoloma pleopodium har en citrongul hat, en mørkere, brunlig stok, skifter ikke farve ved skade og lugter sødt og frugtagtigt. Entoloma chlorophyllum er uden lugt og har en skør stok med let knoldet, hvidfiltet bund. Hygrocybe psittacina har slimet eller klæbrig hat og stok, en hat, der aldrig er navlet, og hvidt sporeaftryk. Clitocybe odora er også grøn, men lugter af anis og har hvidt sporeaftryk. Entoloma verae ser ens ud med det blotte øje og adskilles kun under mikroskop ved lidt større sporer, i gennemsnit 12,5 × 8 μm mod 10,5 × 7,5 μm.",
+        notes: "En indikatorart for ugødet, kalkrigt græsland. Nationale rødlister vurderer den som næsten truet (Near Threatened) i Norge, Danmark og Sverige og som moderat truet (Endangered) i Tjekkiet og Holland, og den er med i Litauens røde bog; de vigtigste årsager er gødskning og tilgroning af græsland og ophør af afgræsning og høslæt. En næsten identisk art, Entoloma verae, blev først beskrevet i 2021, så ældre fund kan omfatte begge arter."
+      },
+      nl: {
+        description: "Een kleine, slanke paddenstoel met een genavelde, doffe groene tot olijfbruine hoed, lamellen die roze worden als de sporen rijpen en een heldergroengele steel die blauwgroen verkleurt bij aanraking. Hij ruikt naar muizen. Hij groeit in kleine groepjes op onbemeste, kalkrijke graslanden en soms in open bos en komt in Europa, Azië en Noord-Amerika wijdverbreid maar plaatselijk voor.",
+        cap: "De hoed is 10–40 mm breed, soms kleiner of tot ongeveer 60 mm, eerst halfbolvormig, klokvormig of kegelvormig, daarna convex tot vlak, meestal met een ingedeukt, navelachtig midden. De rand is bij vochtig weer doorschijnend gegroefd, tot ongeveer halverwege de straal. Het oppervlak is zijdeachtig en radiaal vezelig, in het midden fijn vlokkig of schubbig, en olijfgroen, geelgroen, olijfbruin of geelachtig, soms citroengeel of roodbruin, in het midden meestal donkerder. Bij droog weer vervagen de kleuren snel tot bruinachtig of geelachtig, zodat de hoedkleur alleen niet betrouwbaar is.",
+        hymenium: "De lamellen zijn aangehecht of uitgerand, vaak met een klein tandje afgelopen, vrij wijd tot matig dicht uit elkaar staand en tamelijk breed, met kortere lamellen ertussen. Ze zijn eerst witachtig of groen getint, daarna vuilroze als de sporen rijpen, en kleuren blauwgroen waar ze beschadigd worden. De lamelsnede is vruchtbaar en zonder cystiden. De basidiën hebben twee of vier sporen en meten ongeveer 28–60 × 9–16 μm.",
+        stipe: "De steel is 20–80 mm lang en 1–4 mm dik, cilindrisch of licht afgeplat, soms naar de voet verbreed, hol en broos. Hij is glad en glanzend, helder groen tot groengeel, later bruinachtig, vooral naar de voet toe, en kleurt bij aanraking of breuk snel donker blauwgroen. De voet is bedekt met wit viltig mycelium. Er is geen ring.",
+        flesh: "Het vlees is dun en breekbaar, lichtgroen tot olijfkleurig, en kleurt blauwgroen bij insnijden of beschadiging, het sterkst in de steelvoet. De geur is onaangenaam en wordt meestal beschreven als muizen of verbrande hoorn, soms ook als kaasachtig of zweterig, maar bij enkele exemplaren is hij zwak of afwezig. De smaak is mild tot onaangenaam.",
+        sporePrint: "Roze tot bruinroze. De sporen zijn hoekig met 6–9 hoeken, onregelmatig van omtrek, meestal ongeveer 10,5–13 × 7,5–9,5 μm, met een ruimer gemeld bereik van 7–14 μm, en niet-amyloïde.",
+        habitat: "Een saprotrofe schimmel, al beschouwen sommige auteurs zijn manier van leven als onzeker. Hij groeit alleen of in kleine groepjes in gras en mos op onbemeste, voedselarme, meestal kalkrijke grond, in weiden, graslanden, duinen, gazons en bermen, en minder vaak in open bos, op open plekken en langs bospaden, en in de Alpen komt hij tot in de subalpiene zone voor. De vruchtlichamen verschijnen vooral van juni tot oktober en soms tot november.",
+        uses: "Niet eetbaar. Veel auteurs beschouwen hem als giftig of vermoeden dat, anderen vermelden hem alleen als oneetbaar, en door zijn geringe grootte, onaangename geur en zeldzaamheid is hij als maaltijd sowieso waardeloos.",
+        confusion: "De heldergroene steel die bij aanraking blauwgroen verkleurt, de muizengeur en het roze sporenpoeder onderscheiden hem van de meeste kleine graslandzwammen. Entoloma pleopodium heeft een citroengele hoed, een donkerdere bruinachtige steel, verkleurt niet bij beschadiging en ruikt zoet en fruitig. Entoloma chlorophyllum is reukloos en heeft een broze steel met een licht knolvormige, wit viltige voet. Hygrocybe psittacina heeft een slijmerige of kleverige hoed en steel, een hoed die nooit genaveld is en wit sporenpoeder. Clitocybe odora is ook groen, maar ruikt naar anijs en heeft wit sporenpoeder. Entoloma verae ziet er met het blote oog identiek uit en verschilt alleen onder de microscoop, door iets grotere sporen die gemiddeld 12,5 × 8 μm meten tegenover 10,5 × 7,5 μm.",
+        notes: "Een indicator van onbemeste, kalkrijke graslanden. Nationale rode lijsten beoordelen hem als gevoelig (Near Threatened) in Noorwegen, Denemarken en Zweden en als bedreigd (Endangered) in Tsjechië en Nederland, en hij staat in het Rode Boek van Litouwen; de belangrijkste oorzaken zijn bemesting en verruiging van graslanden en het stoppen van begrazing en maaien. Een bijna identieke soort, Entoloma verae, is pas in 2021 beschreven, zodat oudere vondsten beide soorten kunnen omvatten."
+      },
+      et: {
+        description: "Väike sale seen, kellel on nabaga, tuhm roheline kuni oliivpruun kübar, helbed, mis muutuvad eoste valmimisel roosaks, ning erk rohekaskollane jalg, mis puudutamisel muutub sinakasroheliseks. See lõhnab hiire järele. Kasvab väikeste rühmadena väetamata lubjarikastel niitudel ja vahel hõredates metsades ning on Euroopas, Aasias ja Põhja-Ameerikas laialt levinud, kuid kohati.",
+        cap: "Kübar on 10–40 mm lai, mõnikord väiksem või kuni umbes 60 mm, noorelt poolkerajas, kellukjas või koonusjas, hiljem kumer kuni lame, tavaliselt nõgusa või nabaga keskosaga. Serv on niiske ilmaga läbipaistvalt triibuline kuni umbes pooleni raadiusest. Pind on siidjas ja radiaalselt kiuline, keskel peenelt soomuseline, oliivroheline, rohekaskollane, oliivpruun või kollakas, vahel sidrunkollane või punakaspruun ning tavaliselt keskelt tumedam. Kuiva ilmaga luitub värv kiiresti pruunikaks või kollakaks, nii et ainult kübara värv pole usaldusväärne tunnus.",
+        hymenium: "Helbed on sälgulised või kinnikasvanud, sageli väikese jalale laskuva hambaga, üsna hõredad kuni mõõdukalt tihedad ja üsna laiad, nende vahel on lühemad helbed. Noorelt on need valkjad või rohekasvarjundiga, eoste valmimisel määrdunud roosad ning vigastatud kohtades muutuvad sinakasroheliseks. Helbeserv on viljakas ja ilma tsüstiidideta. Basiidid on kahe- või neljaeoselised, ligikaudu 28–60 × 9–16 μm.",
+        stipe: "Jalg on 20–80 mm pikk ja 1–4 mm paks, silindriline või kergelt lamenenud, vahel alusel laienenud, õõnes ja rabe. See on sile ja läikiv, erkroheline kuni rohekaskollane, hiljem pruunistuv, eriti alusel, ning muutub puudutamisel või murdmisel kiiresti tumedaks sinakasroheliseks. Alus on kaetud valge viltja seeneniidistikuga. Rõngast pole.",
+        flesh: "Liha on õhuke ja rabe, helerohelisest oliivrohelise toonini, ning lõikamisel või vigastamisel muutub sinakasroheliseks, eriti jala tüves. Lõhn on ebameeldiv, tavaliselt kirjeldatakse seda hiire- või kõrbenud sarve lõhnana, vahel ka juustu- või higilõhnana, kuid mõnel viljakehal on see nõrk või puudub. Maitse on mahe kuni ebameeldiv.",
+        sporePrint: "Roosa kuni pruunikasroosa. Eosed on nurgelised, 6–9 nurgaga, ebakorrapärase piirjoonega, enamasti ligikaudu 10,5–13 × 7,5–9,5 μm, laiema märgitud vahemikuga 7–14 μm, ning mitteamüloidsed.",
+        habitat: "Saprotroofne seen, kuigi mõned autorid peavad tema eluviisi ebaselgeks. Kasvab üksikult või väikeste rühmadena rohus ja samblas väetamata, toitainetevaesel, enamasti lubjarikkal mullal niitudel, karjamaadel, luidetel, muruplatsidel ja teeservades, harvemini hõredates metsades, lagendikel ja metsateede ääres, ning Alpides ulatub subalpiinsesse vööndisse. Viljakehad ilmuvad peamiselt juunist oktoobrini, aeg-ajalt novembrini.",
+        uses: "Mittesöödav. Paljud autorid peavad seda mürgiseks või kahtlustavad seda, teised nimetavad seda vaid mittesöödavaks ning väikese kasvu, ebameeldiva lõhna ja harulduse tõttu pole sellest igal juhul söögiseenena kasu.",
+        confusion: "Erkroheline jalg, mis puudutamisel muutub sinakasroheliseks, hiirelõhn ja roosa eosepulber eristavad seda enamikust väikestest niiduseentest. Entoloma pleopodium kübar on sidrunkollane, jalg tumedam ja pruunikam, vigastamisel värvi ei muuda ning lõhnab magusalt puuviljaselt. Entoloma chlorophyllum on lõhnatu ja tema jalg on rabe, alusel kergelt mugulajas ja valgeviltjas. Hygrocybe psittacina kübar ja jalg on limased või kleepuvad, kübar ei ole kunagi nabaga ning eosepulber on valge. Clitocybe odora on samuti roheline, kuid lõhnab aniisi järele ja eosepulber on valge. Entoloma verae on palja silmaga identne ning eristatav ainult mikroskoobis veidi suuremate eoste järgi, keskmiselt 12,5 × 8 μm versus 10,5 × 7,5 μm.",
+        notes: "Väetamata lubjarikaste niitude indikaatorliik. Riiklikud punased nimekirjad hindavad seda Norras, Taanis ja Rootsis ohulähedaseks (Near Threatened) ning Tšehhis ja Madalmaades ohustatuks (Endangered), ning see on kantud Leedu punasesse raamatusse; peamised põhjused on niitude väetamine ja kinnikasvamine ning karjatamise ja niitmise lõppemine. Peaaegu identne liik Entoloma verae kirjeldati alles 2021. aastal, nii et vanemad leiud võivad hõlmata mõlemat liiki."
+      },
+      fi: {
+        description: "Pieni, hoikka sieni, jolla on napamainen, himmeän vihreä tai oliivinruskea lakki, heltat, jotka muuttuvat vaaleanpunaisiksi itiöiden kypsyessä, ja kirkkaan vihertävänkeltainen jalka, joka sinivihertyy kosketettaessa. Se haisee hiirelle. Se kasvaa pienissä ryhmissä lannoittamattomilla, kalkkipitoisilla niityillä ja joskus harvapuustoisissa metsissä, ja on laajalle levinnyt mutta paikallinen Euroopassa, Aasiassa ja Pohjois-Amerikassa.",
+        cap: "Lakki on 10–40 mm leveä, joskus pienempi tai enintään noin 60 mm, aluksi puolipallomainen, kellomainen tai kartiomainen, sitten kupera tai litteä, yleensä keskeltä painunut ja napamainen. Reuna on kosteana läpikuultavan uurteinen noin puoleen väliin keskustaan asti. Pinta on silkkinen ja säteittäin säikeinen, keskeltä hienojakoisen hiutaleinen tai suomuinen sekä oliivinvihreä, keltavihreä, oliivinruskea tai kellertävä, joskus sitruunankeltainen tai punaruskea, ja yleensä keskeltä tummempi. Kuivalla säällä värit haalistuvat nopeasti ruskehtaviksi tai kellertäviksi, joten pelkkä lakin väri ei ole luotettava tuntomerkki.",
+        hymenium: "Heltat ovat lovimaisesti kiinnittyneet tai kasvaneet kiinni jalkaan, usein pienellä hampaalla jalalle laskeutuen, melko harvassa tai kohtalaisen tiheässä ja melko leveät, ja niiden välissä on lyhyempiä heltoja. Ne ovat aluksi valkoisenharmahtavat tai vihertävän sävyiset, sitten likaisenpunertavat itiöiden kypsyessä, ja ne värjäytyvät sinivihreiksi vaurioituessaan. Särmä on hedelmällinen eikä siinä ole kystidejä. Kantit ovat kaksi- tai neljäitiöisiä ja kooltaan noin 28–60 × 9–16 μm.",
+        stipe: "Jalka on 20–80 mm pitkä ja 1–4 mm paksu, lieriömäinen tai hieman litistynyt, joskus tyveä kohti levenevä, ontto ja hauras. Se on sileä ja kiiltävä, kirkkaanvihreä tai vihertävänkeltainen, myöhemmin ruskehtava, erityisesti tyvestä, ja muuttuu nopeasti tummansinivihreäksi, kun sitä kosketaan tai se katkaistaan. Tyvi on valkoisen, huopamaisen rihmaston peittämä. Rengasta ei ole.",
+        flesh: "Malto on ohutta ja haurasta, vaaleanvihreää tai oliivinvihertävää, ja muuttuu sinivihreäksi leikattaessa tai vaurioituessaan, erityisesti jalan tyvessä. Haju on epämiellyttävä ja kuvataan yleensä hiireksi tai palaneeksi sarveksi, joskus myös juustoiseksi tai hikiseksi, mutta joillakin yksilöillä se on heikko tai puuttuu. Maku on mieto tai epämiellyttävä.",
+        sporePrint: "Vaaleanpunainen tai ruskehtavan vaaleanpunainen. Itiöt ovat kulmikkaita ja niissä on 6–9 kulmaa, ääriviivoiltaan epäsäännöllisiä, enimmäkseen noin 10,5–13 × 7,5–9,5 μm, ja laajempana vaihteluvälinä on ilmoitettu 7–14 μm, eivätkä ne ole amyloidisia.",
+        habitat: "Saprotrofinen sieni, vaikka jotkut tutkijat pitävät sen elintapaa epävarmana. Se kasvaa yksittäin tai pienissä ryhmissä ruohossa ja sammalessa lannoittamattomalla, ravinneköyhällä ja useimmiten kalkkipitoisella maalla niityillä, laitumilla, dyyneillä, nurmikoilla ja tienpientareilla, harvemmin harvapuustoisissa metsissä, aukioilla ja metsäteiden varsilla, ja Alpeilla se nousee subalpiiniselle vyöhykkeelle. Itiöemät ilmestyvät pääasiassa kesäkuusta lokakuuhun ja joskus marraskuuhun asti.",
+        uses: "Ei syötävä. Monet tutkijat pitävät sitä myrkyllisenä tai epäilevät sitä sellaiseksi, toiset ilmoittavat sen vain syömäkelvottomaksi, ja pienen koon, epämiellyttävän hajun ja harvinaisuuden vuoksi sillä ei ole ruokasienenä mitään arvoa joka tapauksessa.",
+        confusion: "Kirkkaanvihreä jalka, joka sinivihertyy kosketettaessa, hiirenhaju ja vaaleanpunainen itiöjauhe erottavat sen useimmista pienistä niittysienistä. Entoloma pleopodium on lakiltaan sitruunankeltainen, sen jalka on tummempi ja ruskehtava, se ei muuta väriä vaurioituessaan ja haisee makealta ja hedelmäiseltä. Entoloma chlorophyllum on hajuton ja sillä on hauras jalka, jonka tyvi on hieman paksuuntunut ja valkohuopainen. Hygrocybe psittacina on lakiltaan ja jalaltaan limainen tai tahmea, sen lakki ei koskaan ole napamainen ja itiöjauhe on valkoinen. Clitocybe odora on myös vihreä, mutta haisee anikselle ja sen itiöjauhe on valkoinen. Entoloma verae on paljain silmin identtinen, ja sen erottaa vain mikroskoopilla hieman suurempien itiöiden perusteella, keskimäärin 12,5 × 8 μm verrattuna 10,5 × 7,5 μm:iin.",
+        notes: "Lannoittamattomien, kalkkipitoisten niittyjen indikaattorilaji. Kansalliset punaiset listat luokittelevat sen silmälläpidettäväksi (Near Threatened) Norjassa, Tanskassa ja Ruotsissa ja erittäin uhanalaiseksi (Endangered) Tšekissä ja Alankomaissa, ja se on mukana Liettuan punaisessa kirjassa; tärkeimmät syyt ovat niittyjen lannoitus ja umpeenkasvu sekä laiduntamisen ja niiton loppuminen. Lähes identtinen laji, Entoloma verae, kuvattiin vasta vuonna 2021, joten vanhemmat havainnot voivat kattaa molemmat lajit."
+      },
+      fr: {
+        description: "Un petit champignon élancé, au chapeau ombiliqué d'un vert terne à brun olive, aux lames qui rosissent à maturité des spores et au pied d'un vert jaune vif qui devient vert-bleu au toucher. Il sent la souris. Il pousse en petits groupes dans les prairies non fertilisées riches en calcaire et parfois dans les bois clairs, et il est répandu mais localisé en Europe, en Asie et en Amérique du Nord.",
+        cap: "Le chapeau mesure 10–40 mm de diamètre, parfois moins ou jusqu'à 60 mm environ, d'abord hémisphérique, campanulé ou conique, puis convexe à plat, le plus souvent avec un centre déprimé ou ombiliqué. La marge est striée par transparence par temps humide, jusqu'à la moitié du rayon environ. La surface est soyeuse et fibrilleuse radialement, finement floconneuse ou squameuse au centre, vert olive, vert jaune, brun olive ou jaunâtre, parfois jaune citron ou brun rougeâtre, et généralement plus foncée au centre. Par temps sec, les couleurs passent vite au brunâtre ou au jaunâtre, si bien que la couleur du chapeau seule n'est pas fiable.",
+        hymenium: "Les lames sont échancrées ou adnées au pied, souvent avec une petite dent décurrente, assez espacées à moyennement serrées et assez larges, mêlées de lamellules. Elles sont d'abord blanchâtres ou teintées de vert, puis rose sale à maturité des spores, et se tachent de bleu-vert aux endroits meurtris. L'arête est fertile et dépourvue de cystides. Les basides portent deux ou quatre spores et mesurent environ 28–60 × 9–16 μm.",
+        stipe: "Le pied mesure 20–80 mm de long et 1–4 mm d'épaisseur, cylindrique ou légèrement aplati, parfois élargi vers la base, creux et cassant. Il est lisse et brillant, vert vif à vert jaunâtre, puis brunissant, surtout vers la base, et il vire rapidement au vert-bleu foncé quand on le manipule ou le casse. La base est couverte d'un mycélium blanc feutré. Il n'y a pas d'anneau.",
+        flesh: "La chair est mince et fragile, vert clair à olive, et devient bleu-vert à la coupe ou au froissement, surtout à la base du pied. L'odeur est désagréable, le plus souvent décrite comme celle de souris ou de corne brûlée, parfois aussi fromagère ou de sueur, mais elle est faible ou absente chez quelques exemplaires. La saveur est douce à désagréable.",
+        sporePrint: "Rose à rose brunâtre. Les spores sont anguleuses à 6–9 angles, de contour irrégulier, mesurant le plus souvent 10,5–13 × 7,5–9,5 μm, avec une fourchette plus large de 7–14 μm signalée, et non amyloïdes.",
+        habitat: "Un champignon saprotrophe, bien que certains auteurs jugent son mode de vie incertain. Il pousse isolé ou en petits groupes dans l'herbe et la mousse, sur sol non fertilisé, pauvre en éléments nutritifs et le plus souvent calcaire, dans les prés, les pâturages, les dunes, les pelouses et les bords de route, plus rarement dans les bois clairs, les clairières et le long des chemins forestiers, et il monte jusqu'à l'étage subalpin dans les Alpes. Les fructifications apparaissent surtout de juin à octobre, parfois jusqu'en novembre.",
+        uses: "Non comestible. Beaucoup d'auteurs le considèrent comme toxique ou le soupçonnent de l'être, d'autres l'indiquent seulement comme non comestible, et sa petite taille, son odeur désagréable et sa rareté le rendent de toute façon sans intérêt pour la table.",
+        confusion: "Le pied vert vif qui devient vert-bleu au toucher, l'odeur de souris et la sporée rose le distinguent de la plupart des petits champignons de prairie. Entoloma pleopodium a un chapeau jaune citron, un pied plus foncé et brunâtre, ne change pas de couleur au froissement et sent le fruit sucré. Entoloma chlorophyllum est inodore et a un pied cassant à base légèrement bulbeuse, feutrée de blanc. Hygrocybe psittacina a un chapeau et un pied visqueux ou collants, un chapeau jamais ombiliqué et une sporée blanche. Clitocybe odora est aussi vert mais sent l'anis et a une sporée blanche. Entoloma verae est identique à l'œil nu et ne se distingue qu'au microscope, par des spores un peu plus grandes, de 12,5 × 8 μm en moyenne contre 10,5 × 7,5 μm.",
+        notes: "Un indicateur des prairies maigres non fertilisées et riches en calcaire. Les listes rouges nationales le classent comme quasi menacé (Near Threatened) en Norvège, au Danemark et en Suède et comme en danger (Endangered) en Tchéquie et aux Pays-Bas, et il figure dans le Livre rouge de Lituanie ; les principales causes sont la fertilisation et l'embroussaillement des prairies et l'arrêt du pâturage et de la fauche. Une espèce presque identique, Entoloma verae, n'a été décrite qu'en 2021, si bien que les anciennes mentions peuvent réunir les deux espèces."
+      },
+      de: {
+        description: "Ein kleiner, zierlicher Pilz mit genabeltem, mattgrünem bis olivbraunem Hut, Lamellen, die rosa werden, wenn die Sporen reifen, und einem leuchtend grüngelben Stiel, der bei Berührung blaugrün anläuft. Er riecht nach Mäusen. Er wächst in kleinen Gruppen auf ungedüngten, kalkreichen Wiesen und Weiden, manchmal auch in lichten Wäldern, und ist in Europa, Asien und Nordamerika weit verbreitet, aber nur örtlich zu finden.",
+        cap: "Der Hut ist 10–40 mm breit, gelegentlich kleiner oder bis etwa 60 mm, zuerst halbkugelig, glockig oder kegelig, dann gewölbt bis flach, meist mit vertiefter, nabelartiger Mitte. Der Rand ist bei Feuchtigkeit durchscheinend gerieft, etwa bis zur Hälfte des Radius. Die Oberfläche ist seidig und radialfaserig, in der Mitte feinflockig oder schuppig und olivgrün, gelbgrün, olivbraun oder gelblich, manchmal zitronengelb oder rotbraun, in der Mitte meist dunkler. Bei Trockenheit verblassen die Farben schnell zu bräunlich oder gelblich, sodass die Hutfarbe allein kein verlässliches Merkmal ist.",
+        hymenium: "Die Lamellen sind ausgebuchtet oder am Stiel angewachsen, oft mit einem kleinen Zahn herablaufend, ziemlich entfernt bis mäßig dicht stehend und recht breit, mit kürzeren Lamellen untermischt. Zuerst sind sie weißlich oder grünlich getönt, dann schmutzig rosa, wenn die Sporen reifen, und sie verfärben sich bei Verletzung blaugrün. Die Schneide ist fertil und ohne Zystiden. Die Basidien sind zwei- oder viersporig und etwa 28–60 × 9–16 μm groß.",
+        stipe: "Der Stiel ist 20–80 mm lang und 1–4 mm dick, zylindrisch oder leicht abgeflacht, zur Basis manchmal verbreitert, hohl und brüchig. Er ist glatt und glänzend, leuchtend grün bis grüngelb, später bräunlich, besonders zur Basis hin, und läuft bei Berührung oder Bruch rasch dunkel blaugrün an. Die Basis ist von weißem, filzigem Myzel bedeckt. Einen Ring gibt es nicht.",
+        flesh: "Das Fleisch ist dünn und zerbrechlich, hellgrün bis olivfarben und färbt sich beim Anschneiden oder bei Verletzung blaugrün, am stärksten in der Stielbasis. Der Geruch ist unangenehm und wird meist als Mäuse- oder Hornbrandgeruch beschrieben, manchmal auch als käsig oder schweißig, bei einigen Fruchtkörpern ist er aber schwach oder fehlt. Der Geschmack ist mild bis unangenehm.",
+        sporePrint: "Rosa bis bräunlich rosa. Die Sporen sind eckig mit 6–9 Ecken, im Umriss unregelmäßig, meist etwa 10,5–13 × 7,5–9,5 μm, wobei auch ein weiterer Bereich von 7–14 μm angegeben wird, und nichtamyloid.",
+        habitat: "Ein saprotropher Pilz, auch wenn manche Autoren seine Lebensweise für ungeklärt halten. Er wächst einzeln oder in kleinen Gruppen in Gras und Moos auf ungedüngtem, nährstoffarmem, meist kalkreichem Boden, auf Wiesen, Weiden, Dünen, Rasen und an Wegrändern, seltener in lichten Wäldern, auf Lichtungen und an Waldwegen, und er steigt in den Alpen bis in die subalpine Stufe auf. Die Fruchtkörper erscheinen hauptsächlich von Juni bis Oktober, vereinzelt noch bis November.",
+        uses: "Nicht essbar. Viele Autoren halten ihn für giftig oder vermuten es, andere führen ihn nur als ungenießbar, und wegen seiner geringen Größe, seines unangenehmen Geruchs und seiner Seltenheit ist er als Speisepilz ohnehin wertlos.",
+        confusion: "Der leuchtend grüne Stiel, der bei Berührung blaugrün anläuft, der Mäusegeruch und das rosa Sporenpulver unterscheiden ihn von den meisten kleinen Wiesenpilzen. Entoloma pleopodium hat einen zitronengelben Hut, einen dunkleren, bräunlichen Stiel, verfärbt sich bei Verletzung nicht und riecht süßlich-fruchtig. Entoloma chlorophyllum ist geruchlos und hat einen brüchigen Stiel mit leicht knolliger, weißfilziger Basis. Hygrocybe psittacina hat einen schleimigen oder klebrigen Hut und Stiel, einen Hut, der nie genabelt ist, und weißes Sporenpulver. Clitocybe odora ist ebenfalls grün, riecht aber nach Anis und hat weißes Sporenpulver. Entoloma verae sieht mit bloßem Auge gleich aus und unterscheidet sich nur unter dem Mikroskop durch etwas größere Sporen, die im Mittel 12,5 × 8 μm messen gegenüber 10,5 × 7,5 μm.",
+        notes: "Eine Zeigerart für ungedüngte, kalkreiche Magerrasen. Nationale Rote Listen stufen ihn in Norwegen, Dänemark und Schweden als potenziell gefährdet (Near Threatened) und in Tschechien und den Niederlanden als stark gefährdet (Endangered) ein, und in Litauen steht er im Roten Buch; die Hauptursachen sind Düngung und Verbrachung des Grünlands sowie das Ende von Beweidung und Mahd. Eine nahezu identische Art, Entoloma verae, wurde erst 2021 beschrieben, sodass ältere Funde beide Arten umfassen können. Pilz des Jahres 2013 in Deutschland."
+      },
+      he: {
+        description: "פטרייה קטנה ודקה עם כובע טבורי בצבע ירוק עמום עד חום־זית, למלות שהופכות לוורודות כשהנבגים מבשילים ורגל ירוקה־צהבהבה בוהקת שהופכת לירוקה־כחלחלה במגע. ריחה כריח עכברים. היא גדלה בקבוצות קטנות באחו עשיר בסיד שלא דושן ולעיתים ביערות פתוחים, ונפוצה אך מקומית באירופה, באסיה ובצפון אמריקה.",
+        cap: "רוחב הכובע 10–40 מ״מ, לעיתים פחות או עד כ־60 מ״מ. תחילה הוא חצי־כדורי, פעמוני או חרוטי, ואחר כך קמור עד שטוח, לרוב עם מרכז שקוע ודמוי טבור. השוליים מפוספסים בשקיפות במזג אוויר לח עד כמחצית הרדיוס. פני השטח משיים וסיביים ברדיאליות, במרכז קשקשיים דק או פתיתיים, בצבע ירוק־זית, ירוק־צהבהב, חום־זית או צהבהב, לעיתים צהוב־לימוני או חום־אדמדם, ולרוב כהים יותר במרכז. במזג אוויר יבש הצבעים דוהים במהירות לחומים או צהבהבים, ולכן צבע הכובע לבדו אינו אמין.",
+        hymenium: "הלמלות מחורצות או צמודות לרגל, לעיתים קרובות עם שן קטנה היורדת לאורכה, די מרוחקות עד צפופות במידה בינונית ורחבות למדי, ומשולבות בלמלות קצרות יותר. בצעירים הן לבנבנות או בעלות גוון ירקרק, ועם הבשלת הנבגים הופכות לוורודות מלוכלכות, ובמקומות פגועים הן מכתימות בירוק־כחלחל. קצה הלמלה פורה וחסר ציסטידיות. הבסידיות בעלות שניים או ארבעה נבגים, בגודל של כ־28–60 × 9–16 מיקרומטר.",
+        stipe: "אורך הרגל 20–80 מ״מ ועוביה 1–4 מ״מ, גלילית או מעט שטוחה, לעיתים מתרחבת לכיוון הבסיס, חלולה ושברירית. היא חלקה ומבריקה, ירוקה בוהקת עד ירוקה־צהבהבה, ואחר כך מחמימה לחום, במיוחד לכיוון הבסיס, ובמגע או בשבירה הופכת במהירות לירוקה־כחלחלה כהה. הבסיס מכוסה מיצליום לבן דמוי לבד. אין טבעת.",
+        flesh: "הבשר דק ושביר, ירוק בהיר עד זית, ובחיתוך או בפגיעה הופך לירוק־כחלחל, במיוחד בבסיס הרגל. הריח לא נעים ומתואר לרוב כריח עכברים או קרן שרופה, לעיתים גם כריח גבינה או זיעה, אך בדגימות מסוימות הוא חלש או חסר. הטעם עדין עד לא נעים.",
+        sporePrint: "ורוד עד ורוד־חום. הנבגים זוויתיים, בעלי 6–9 זוויות, בקווי מתאר לא סדירים, ברובם כ־10.5–13 × 7.5–9.5 מיקרומטר, ודווח גם על טווח רחב יותר של 7–14 מיקרומטר, והם אינם עמילואידיים.",
+        habitat: "פטרייה סאפרוטרופית, אם כי חלק מהכותבים רואים באורחות חייה עניין לא ודאי. היא גדלה בודדת או בקבוצות קטנות בין עשב וטחב, על קרקע שלא דושנה, דלה בחומרי הזנה ובעיקר גירנית, באחו, במרעה, בדיונות, במדשאות ובשולי דרכים, ופחות ביערות פתוחים, בקרחות ולאורך דרכי יער, ובאלפים היא מגיעה עד החגורה התת־אלפינית. גופי הפרי מופיעים בעיקר מיוני עד אוקטובר ולעיתים עד נובמבר.",
+        uses: "אינה אכילה. כותבים רבים רואים בה פטרייה רעילה או חושדים בכך, אחרים מציינים רק שהיא בלתי אכילה, ובשל גודלה הקטן, ריחה הלא נעים ונדירותה היא חסרת ערך לשולחן בכל מקרה.",
+        confusion: "הרגל הירוקה הבוהקת שהופכת לירוקה־כחלחלה במגע, ריח העכברים וטביעת הנבגים הוורודה מבדילים אותה ממרבית פטריות האחו הקטנות. ל־Entoloma pleopodium כובע צהוב־לימוני, רגל כהה וחומה יותר, היא אינה משנה צבע בפגיעה וריחה מתוק ופירותי. Entoloma chlorophyllum נטולת ריח, ורגלה שברירית עם בסיס מעט פקעתי ולבדי לבן. ל־Hygrocybe psittacina כובע ורגל רירניים או דביקים, כובעה אינו טבורי לעולם וטביעת הנבגים שלה לבנה. Clitocybe odora ירוקה גם היא, אך ריחה כריח אניס וטביעת הנבגים שלה לבנה. Entoloma verae זהה בעין בלתי מזוינת ומובחנת רק במיקרוסקופ לפי נבגים גדולים מעט יותר, בממוצע 12.5 × 8 מיקרומטר לעומת 10.5 × 7.5 מיקרומטר.",
+        notes: "מין מצביע של אחו גירני שלא דושן. הרשימות האדומות הלאומיות מדרגות אותו כ״כמעט מאוים״ (Near Threatened) בנורווגיה, בדנמרק ובשוודיה וכ״בסכנת הכחדה״ (Endangered) בצ׳כיה ובהולנד, והוא רשום בספר האדום של ליטא; הסיבות העיקריות הן דישון והשתלטות שיחים על האחו והפסקת הרעייה והקציר. מין כמעט זהה, Entoloma verae, תואר רק ב־2021, ולכן ייתכן שדיווחים ישנים כוללים את שני המינים."
+      },
+      hi: {
+        description: "छोटा और पतला कुकुरमुत्ता, जिसकी टोपी बीच में नाभि जैसी धँसी, फीकी हरी से जैतूनी-भूरी होती है, गिल्स बीजाणु पकने पर गुलाबी हो जाती हैं और तना चटक पीला-हरा होता है, जो छूने पर नीला-हरा हो जाता है। इससे चूहों जैसी गंध आती है। यह बिना खाद वाले चूनेदार घास के मैदानों में और कभी-कभी विरल जंगलों में छोटे समूहों में उगता है, और यूरोप, एशिया तथा उत्तरी अमेरिका में व्यापक किंतु स्थानीय है।",
+        cap: "टोपी 10–40 मिमी चौड़ी होती है, कभी-कभी इससे छोटी या लगभग 60 मिमी तक। शुरू में यह अर्धगोलाकार, घंटीनुमा या शंक्वाकार होती है, फिर उत्तल से चपटी हो जाती है, आमतौर पर बीच में धँसी हुई, नाभि जैसी। नम मौसम में किनारा त्रिज्या के लगभग आधे हिस्से तक पारभासी धारियों वाला होता है। सतह रेशमी और त्रिज्या की दिशा में रेशेदार होती है, बीच में बारीक पपड़ीदार या परतदार, जैतूनी-हरी, पीली-हरी, जैतूनी-भूरी या पीलापन लिए, कभी-कभी नींबू जैसी पीली या लालिमा लिए भूरी, और आमतौर पर बीच में अधिक गहरी। सूखे मौसम में रंग जल्दी फीके पड़कर भूरापन या पीलापन लिए हो जाते हैं, इसलिए अकेले टोपी का रंग भरोसेमंद नहीं है।",
+        hymenium: "गिल्स तने से कटी हुई या जुड़ी होती हैं, अक्सर नीचे उतरते छोटे दाँत के साथ, काफ़ी दूर-दूर से मध्यम घनी और काफ़ी चौड़ी, बीच में छोटी गिल्स मिली हुई। शुरू में सफ़ेदी लिए या हरापन लिए, बीजाणु पकने पर गंदी गुलाबी, और क्षतिग्रस्त जगहों पर नीले-हरे रंग के दाग पड़ जाते हैं। गिल का किनारा उपजाऊ होता है और उसमें सिस्टिडिया नहीं होते। बेसिडिया दो या चार बीजाणु वाले होते हैं, लगभग 28–60 × 9–16 μm।",
+        stipe: "तना 20–80 मिमी लंबा और 1–4 मिमी मोटा होता है, बेलनाकार या थोड़ा चपटा, कभी-कभी आधार की ओर चौड़ा, खोखला और भुरभुरा। यह चिकना और चमकदार होता है, चटक हरा से पीला-हरा, बाद में भूरापन लिए, खासकर आधार की ओर, और छूने या तोड़ने पर जल्दी गहरा नीला-हरा हो जाता है। आधार सफ़ेद, फेल्ट जैसे कवकजाल (माइसेलियम) से ढका होता है। छल्ला नहीं होता।",
+        flesh: "गूदा पतला और भुरभुरा होता है, हल्का हरा से जैतूनी, और काटने या क्षतिग्रस्त होने पर नीला-हरा हो जाता है, खासकर तने के आधार में। गंध अप्रिय होती है, आमतौर पर चूहों या जले हुए सींग जैसी बताई जाती है, कभी-कभी पनीर या पसीने जैसी भी, पर कुछ नमूनों में कमज़ोर होती है या नहीं होती। स्वाद हल्का से अप्रिय होता है।",
+        sporePrint: "गुलाबी से भूरापन लिए गुलाबी। बीजाणु कोणीय होते हैं, 6–9 कोनों वाले, अनियमित रूपरेखा के, अधिकतर लगभग 10.5–13 × 7.5–9.5 μm, और 7–14 μm का अधिक चौड़ा परास भी दर्ज है; वे एमिलॉइड नहीं होते।",
+        habitat: "मृतजीवी (सैप्रोट्रॉफ़) कवक, हालाँकि कुछ लेखक इसकी जीवनशैली को अनिश्चित मानते हैं। यह घास और काई के बीच अकेले या छोटे समूहों में बिना खाद वाली, पोषक तत्वों की कमी वाली और अधिकतर चूनेदार मिट्टी पर उगता है, घास के मैदानों, चरागाहों, रेत के टीलों, लॉन और सड़क किनारों पर, कम बार विरल जंगलों, खुली जगहों और जंगल के रास्तों के किनारे, और आल्प्स में उप-अल्पाइन पट्टी तक पहुँचता है। फलनकाय मुख्यतः जून से अक्टूबर तक, कभी-कभी नवंबर तक दिखते हैं।",
+        uses: "खाने योग्य नहीं। कई लेखक इसे विषैला मानते हैं या ऐसा संदेह करते हैं, कुछ केवल अखाद्य बताते हैं, और छोटे आकार, अप्रिय गंध और दुर्लभता के कारण यह वैसे भी भोजन के लिए बेकार है।",
+        confusion: "चटक हरा तना जो छूने पर नीला-हरा हो जाता है, चूहों जैसी गंध और गुलाबी बीजाणु छाप इसे अधिकांश छोटे घास के कुकुरमुत्तों से अलग करते हैं। Entoloma pleopodium की टोपी नींबू जैसी पीली, तना अधिक गहरा और भूरापन लिए होता है, क्षति पर रंग नहीं बदलता और गंध मीठी, फल जैसी होती है। Entoloma chlorophyllum गंधहीन है और उसका तना भुरभुरा होता है, आधार थोड़ा कंदनुमा और सफ़ेद फेल्ट जैसा। Hygrocybe psittacina की टोपी और तना चिपचिपे या लसदार होते हैं, टोपी कभी नाभि जैसी धँसी नहीं होती और बीजाणु छाप सफ़ेद होता है। Clitocybe odora भी हरी है, पर उसमें ऐनीज़ (सौंफ़ जैसी) गंध आती है और बीजाणु छाप सफ़ेद होता है। Entoloma verae नंगी आँख से एक जैसी दिखती है और केवल सूक्ष्मदर्शी में थोड़े बड़े बीजाणुओं से पहचानी जाती है, औसतन 12.5 × 8 μm बनाम 10.5 × 7.5 μm।",
+        notes: "बिना खाद वाले चूनेदार घास के मैदानों की सूचक प्रजाति। राष्ट्रीय रेड लिस्ट इसे नॉर्वे, डेनमार्क और स्वीडन में निकट संकटग्रस्त (Near Threatened) तथा चेकिया और नीदरलैंड में संकटग्रस्त (Endangered) आँकती हैं, और यह लिथुआनिया की रेड डेटा बुक में भी शामिल है; मुख्य कारण घास के मैदानों में खाद डालना और झाड़ियों का उग आना तथा चराई और कटाई का बंद होना हैं। लगभग एक जैसी प्रजाति Entoloma verae का वर्णन केवल 2021 में हुआ, इसलिए पुराने अभिलेखों में दोनों प्रजातियाँ शामिल हो सकती हैं।"
+      },
+      hu: {
+        description: "Kis, karcsú gomba köldökös, tompa zöldtől olívbarnáig terjedő kalappal, lemezekkel, amelyek a spórák érésekor rózsaszínűvé válnak, és élénk sárgászöld tönkkel, amely érintésre kékeszöldre változik. Egérszagú. Kis csoportokban nő trágyázatlan, meszes gyepeken és olykor ritkás erdőkben, Európában, Ázsiában és Észak-Amerikában elterjedt, de szórványos.",
+        cap: "A kalap 10–40 mm széles, olykor kisebb vagy akár 60 mm körüli, eleinte félgömb alakú, harang alakú vagy kúpos, később domború, majd lapos, többnyire bemélyedő, köldökös középpel. A széle nedves időben áttetszően bordázott, nagyjából a sugár feléig. Felszíne selymes és sugarasan szálas, közepén finoman pelyhes vagy pikkelyes, olívzöld, sárgászöld, olívbarna vagy sárgás, olykor citromsárga vagy vörösesbarna, és általában a közepén sötétebb. Száraz időben a színek gyorsan barnásra vagy sárgásra fakulnak, ezért a kalap színe önmagában megbízhatatlan.",
+        hymenium: "A lemezek a tönkhöz kivágottan vagy ahhoz nőttek, gyakran kis lefutó foggal, meglehetősen ritkák vagy mérsékelten sűrűek és meglehetősen szélesek, közéjük rövidebb lemezek ékelődnek. Eleinte fehéresek vagy zöldes árnyalatúak, a spórák érésekor piszkosrózsaszínűek, sérülésnél pedig kékeszöldre foltosodnak. A lemezél termő és cisztidák nélküli. A bazídiumok két- vagy négyspórásak, kb. 28–60 × 9–16 μm-esek.",
+        stipe: "A tönk 20–80 mm hosszú és 1–4 mm vastag, hengeres vagy kissé lapított, olykor a töve felé bővülő, üreges és törékeny. Sima és fényes, élénkzöldtől sárgászöldig terjedő, később barnuló, különösen a töve felé, és kezeléskor vagy törésnél gyorsan sötét kékeszöldre változik. A tövét fehér, molyhos micélium borítja. Gallérja nincs.",
+        flesh: "A húsa vékony és törékeny, halványzöldtől olívzöldig terjedő, és vágásra vagy sérülésre kékeszöldre változik, különösen a tönk tövében. Szaga kellemetlen, többnyire egérszagúnak vagy égett szarúszagúnak írják, olykor sajtos vagy izzadságszagú is, néhány példánynál azonban gyenge vagy hiányzik. Íze enyhétől kellemetlenig terjed.",
+        sporePrint: "Rózsaszín vagy barnás rózsaszín. A spórák szögletesek, 6–9 szöggel, szabálytalan körvonalúak, többnyire kb. 10,5–13 × 7,5–9,5 μm-esek, szélesebb jelzett tartományuk 7–14 μm, és nem amiloidok.",
+        habitat: "Szaprotróf gomba, bár egyes szerzők szerint életmódja bizonytalan. Egyesével vagy kis csoportokban nő fűben és mohában, trágyázatlan, tápanyagszegény, többnyire meszes talajon, réteken, legelőkön, dűnéken, gyepeken és út szélén, ritkábban ritkás erdőkben, tisztásokon és erdei utak mentén, az Alpokban pedig a szubalpin övig felhatol. A termőtestek főleg júniustól októberig, olykor novemberig jelennek meg.",
+        uses: "Nem ehető. Sok szerző mérgezőnek tartja vagy annak gyanítja, mások csak ehetetlenként tüntetik fel, és kis mérete, kellemetlen szaga és ritkasága miatt az asztalon amúgy sem ér semmit.",
+        confusion: "Az élénkzöld, érintésre kékeszöldre változó tönk, az egérszag és a rózsaszín spórapor megkülönbözteti a legtöbb kis gyepi gombától. Az Entoloma pleopodium kalapja citromsárga, tönkje sötétebb, barnás, sérülésre nem változtat színt, szaga édes, gyümölcsös. Az Entoloma chlorophyllum szagtalan, tönkje törékeny, töve enyhén gumós és fehéren molyhos. A Hygrocybe psittacina kalapja és tönkje nyálkás vagy ragadós, kalapja soha nem köldökös, spórapora fehér. A Clitocybe odora szintén zöld, de ánizsszagú, spórapora fehér. Az Entoloma verae szabad szemmel azonos, csak mikroszkóppal különböztethető meg valamivel nagyobb spórái alapján, átlagosan 12,5 × 8 μm a 10,5 × 7,5 μm-rel szemben.",
+        notes: "Trágyázatlan, meszes gyepek jelzőfaja. A nemzeti vörös listák mérsékelten fenyegetettnek (Near Threatened) minősítik Norvégiában, Dániában és Svédországban, veszélyeztetettnek (Endangered) pedig Csehországban és Hollandiában, és szerepel Litvánia vörös könyvében; a fő okok a gyepek trágyázása és beerdősülése, valamint a legeltetés és kaszálás megszűnése. Egy majdnem azonos faj, az Entoloma verae, csak 2021-ben került leírásra, így a régebbi adatok mindkét fajt magukban foglalhatják."
+      },
+      id: {
+        description: "Jamur kecil dan ramping dengan tudung berpusat cekung berwarna hijau kusam hingga cokelat zaitun, bilah yang menjadi merah muda saat spora matang, dan tangkai hijau kekuningan cerah yang berubah hijau kebiruan saat disentuh. Baunya seperti tikus. Tumbuh dalam kelompok kecil di padang rumput kaya kapur yang tidak dipupuk dan kadang di hutan terbuka, tersebar luas tetapi setempat-setempat di Eropa, Asia, dan Amerika Utara.",
+        cap: "Tudung berdiameter 10–40 mm, kadang lebih kecil atau hingga sekitar 60 mm, mula-mula setengah bola, lonceng, atau kerucut, kemudian cembung hingga datar, biasanya dengan bagian tengah yang cekung seperti pusar. Tepinya bergaris tembus cahaya saat cuaca lembap, sampai kira-kira setengah jari-jari. Permukaannya mengilap seperti sutra dan berserat radial, di tengah bersisik halus atau berserpih, berwarna hijau zaitun, hijau kekuningan, cokelat zaitun, atau kekuningan, kadang kuning lemon atau cokelat kemerahan, dan biasanya lebih gelap di tengah. Saat cuaca kering warnanya cepat memudar menjadi kecokelatan atau kekuningan, sehingga warna tudung saja tidak dapat diandalkan.",
+        hymenium: "Bilah menempel pada tangkai dengan lekukan atau menempel penuh, sering dengan gigi kecil yang menurun, agak jarang hingga cukup rapat dan agak lebar, bercampur dengan bilah yang lebih pendek. Mula-mula keputihan atau bernuansa kehijauan, kemudian merah muda kotor saat spora matang, dan bernoda hijau kebiruan di bagian yang rusak. Tepi bilah subur dan tidak memiliki sistidia. Basidia berspora dua atau empat, sekitar 28–60 × 9–16 μm.",
+        stipe: "Tangkai panjangnya 20–80 mm dan tebalnya 1–4 mm, berbentuk silinder atau sedikit pipih, kadang melebar ke arah pangkal, berongga dan rapuh. Permukaannya halus dan mengilap, hijau cerah hingga hijau kekuningan, kemudian kecokelatan, terutama ke arah pangkal, dan cepat berubah hijau kebiruan gelap bila disentuh atau dipatahkan. Pangkalnya tertutup miselium putih berfelt. Tidak ada cincin.",
+        flesh: "Daging tipis dan rapuh, hijau muda hingga zaitun, dan berubah hijau kebiruan bila diiris atau rusak, terutama di pangkal tangkai. Baunya tidak sedap, biasanya digambarkan seperti tikus atau tanduk terbakar, kadang juga seperti keju atau keringat, tetapi pada beberapa spesimen lemah atau tidak ada. Rasanya ringan hingga tidak enak.",
+        sporePrint: "Merah muda hingga merah muda kecokelatan. Spora bersudut, dengan 6–9 sudut, garis tepinya tidak beraturan, sebagian besar sekitar 10,5–13 × 7,5–9,5 μm, dengan kisaran yang lebih lebar 7–14 μm pernah dilaporkan, dan tidak amiloid.",
+        habitat: "Jamur saprotrof, meskipun sebagian penulis menganggap cara hidupnya belum pasti. Tumbuh sendiri atau dalam kelompok kecil di antara rumput dan lumut pada tanah yang tidak dipupuk, miskin hara, dan umumnya berkapur, di padang rumput, padang penggembalaan, bukit pasir, halaman rumput, dan tepi jalan, lebih jarang di hutan terbuka, tanah lapang, dan sepanjang jalan hutan, dan di Pegunungan Alpen naik hingga zona subalpin. Tubuh buah muncul terutama dari Juni hingga Oktober, sesekali sampai November.",
+        uses: "Tidak dapat dimakan. Banyak penulis menganggapnya beracun atau mencurigainya demikian, sebagian lain hanya menyebutnya tidak dapat dimakan, dan karena ukurannya kecil, baunya tidak sedap, dan jarang ditemukan, jamur ini bagaimanapun tidak bernilai untuk dimasak.",
+        confusion: "Tangkai hijau cerah yang berubah hijau kebiruan saat disentuh, bau tikus, dan jejak spora merah muda membedakannya dari sebagian besar jamur padang rumput kecil. Entoloma pleopodium bertudung kuning lemon, bertangkai lebih gelap dan kecokelatan, tidak berubah warna saat rusak, dan berbau manis seperti buah. Entoloma chlorophyllum tidak berbau dan bertangkai rapuh dengan pangkal agak membulat dan berfelt putih. Hygrocybe psittacina bertudung dan bertangkai berlendir atau lengket, tudungnya tidak pernah berpusat cekung, dan jejak sporanya putih. Clitocybe odora juga hijau, tetapi berbau adas manis dan berjejak spora putih. Entoloma verae tidak dapat dibedakan dengan mata telanjang dan hanya dikenali di bawah mikroskop dari sporanya yang sedikit lebih besar, rata-rata 12,5 × 8 μm dibandingkan 10,5 × 7,5 μm.",
+        notes: "Spesies penanda padang rumput berkapur yang tidak dipupuk. Daftar merah nasional menilainya hampir terancam (Near Threatened) di Norwegia, Denmark, dan Swedia serta genting (Endangered) di Ceko dan Belanda, dan spesies ini tercantum dalam Buku Merah Lituania; penyebab utamanya adalah pemupukan dan semak belukar yang menutupi padang rumput serta berhentinya penggembalaan dan pemotongan rumput. Spesies yang hampir identik, Entoloma verae, baru dideskripsikan pada 2021, sehingga catatan lama mungkin mencakup kedua spesies."
+      },
+      it: {
+        description: "Un fungo piccolo e slanciato, con cappello ombelicato di colore verde spento fino a bruno oliva, lamelle che diventano rosa quando le spore maturano e gambo di un verde giallastro vivo che vira al verde-bluastro al tocco. Ha odore di topo. Cresce in piccoli gruppi nei prati non concimati ricchi di calcare e talvolta nei boschi radi, ed è diffuso ma localizzato in Europa, Asia e Nord America.",
+        cap: "Il cappello misura 10–40 mm di diametro, talvolta meno o fino a circa 60 mm, dapprima emisferico, campanulato o conico, poi convesso fino a piano, di solito con il centro depresso o ombelicato. Il margine è striato per trasparenza con tempo umido, fino a circa metà del raggio. La superficie è sericea e radialmente fibrillosa, finemente fioccosa o squamulosa al centro, verde oliva, verde giallastro, bruno oliva o giallastra, talvolta giallo limone o bruno rossastro, e di solito più scura al centro. Con tempo secco i colori sbiadiscono rapidamente verso il brunastro o il giallastro, per cui il colore del cappello da solo non è affidabile.",
+        hymenium: "Le lamelle sono smarginate o aderenti al gambo, spesso con un piccolo dente decorrente, abbastanza distanziate o moderatamente fitte e piuttosto larghe, mescolate a lamellule più corte. Sono dapprima biancastre o sfumate di verde, poi rosa sporco quando le spore maturano, e macchiano di verde-bluastro dove vengono danneggiate. Il filo è fertile e privo di cistidi. I basidi hanno due o quattro spore e misurano circa 28–60 × 9–16 μm.",
+        stipe: "Il gambo è lungo 20–80 mm e spesso 1–4 mm, cilindrico o leggermente appiattito, talvolta allargato verso la base, cavo e fragile. È liscio e lucido, verde vivo fino a verde giallastro, poi brunastro, soprattutto verso la base, e vira rapidamente al verde-bluastro scuro quando viene toccato o spezzato. La base è ricoperta da micelio bianco e feltrato. L'anello è assente.",
+        flesh: "La carne è sottile e fragile, verde chiaro fino a olivastra, e vira al verde-bluastro al taglio o alla contusione, soprattutto nella base del gambo. L'odore è sgradevole e di solito descritto come di topo o di corno bruciato, talvolta anche di formaggio o di sudore, ma in alcuni esemplari è debole o assente. Il sapore è mite fino a sgradevole.",
+        sporePrint: "Rosa fino a rosa brunastro. Le spore sono angolose con 6–9 angoli, di contorno irregolare, per lo più di circa 10,5–13 × 7,5–9,5 μm, con un intervallo più ampio di 7–14 μm segnalato, e non amiloidi.",
+        habitat: "Un fungo saprotrofo, anche se alcuni autori ritengono incerto il suo modo di vita. Cresce isolato o in piccoli gruppi tra erba e muschio su suolo non concimato, povero di nutrienti e di solito ricco di calcare, in prati, pascoli, dune, tappeti erbosi e margini stradali, meno spesso in boschi radi, radure e lungo i sentieri forestali, e nelle Alpi sale fino alla fascia subalpina. I corpi fruttiferi compaiono soprattutto da giugno a ottobre e talvolta fino a novembre.",
+        uses: "Non commestibile. Molti autori lo considerano velenoso o sospettano che lo sia, altri lo indicano solo come non commestibile, e per le piccole dimensioni, l'odore sgradevole e la rarità è comunque privo di valore in cucina.",
+        confusion: "Il gambo verde vivo che vira al verde-bluastro al tocco, l'odore di topo e la sporata rosa lo distinguono dalla maggior parte dei piccoli funghi dei prati. Entoloma pleopodium ha il cappello giallo limone, il gambo più scuro e brunastro, non cambia colore alla contusione e ha un odore dolce e fruttato. Entoloma chlorophyllum è inodore e ha un gambo fragile con base leggermente bulbosa e feltrata di bianco. Hygrocybe psittacina ha cappello e gambo viscidi o appiccicosi, un cappello mai ombelicato e sporata bianca. Clitocybe odora è anch'esso verde, ma sa di anice e ha sporata bianca. Entoloma verae è identico a occhio nudo e si distingue solo al microscopio, per spore un po' più grandi, di 12,5 × 8 μm in media contro 10,5 × 7,5 μm.",
+        notes: "Un indicatore di prati magri non concimati e ricchi di calcare. Le liste rosse nazionali lo classificano come quasi minacciato (Near Threatened) in Norvegia, Danimarca e Svezia e come in pericolo (Endangered) in Cechia e nei Paesi Bassi, ed è inserito nel Libro rosso della Lituania; le cause principali sono la concimazione e l'inarbustimento dei prati e la fine del pascolo e dello sfalcio. Una specie quasi identica, Entoloma verae, è stata descritta solo nel 2021, per cui le segnalazioni più vecchie possono comprendere entrambe."
+      },
+      ja: {
+        description: "傘の中央がへそ状にくぼむ、くすんだ緑色からオリーブ褐色の小型でほっそりしたキノコで、ひだは胞子が熟すとピンク色になり、柄は鮮やかな黄緑色で、触れると青緑色に変わります。ネズミのような匂いがします。肥料を与えていない石灰質の草地に小さな群れで生え、ときに疎林にも生え、ヨーロッパ、アジア、北アメリカに広く分布しますが局所的です。",
+        cap: "傘は直径10–40 mm、ときにそれより小さく、または約60 mmに達し、はじめは半球形、鐘形または円錐形で、のちに丸山形から平らに開き、ふつう中央がくぼんでへそ状になります。縁は湿った天気では半径の半分ほどまで透けて条線が見えます。表面は絹状で放射状の繊維があり、中央は細かい鱗片状または綿くず状で、オリーブ緑色、黄緑色、オリーブ褐色または黄色みを帯び、ときにレモン黄色や赤褐色で、ふつう中央がより暗色です。乾いた天気では色が急速に褐色みや黄色みに褪せるため、傘の色だけでは確実な判断はできません。",
+        hymenium: "ひだは柄に湾生または直生し、しばしば小さな垂生歯があり、やや疎からやや密で、かなり幅が広く、短いひだが混じります。若いときは白っぽいか緑色を帯び、胞子が熟すと汚れたピンク色になり、傷つくと青緑色に染まります。ひだの縁は稔性で、嚢状体はありません。担子器は2胞子性または4胞子性で、約28–60 × 9–16 μmです。",
+        stipe: "柄は長さ20–80 mm、太さ1–4 mmで、円筒形またはやや扁平で、ときに基部に向かって太くなり、中空でもろいです。表面は滑らかでつやがあり、鮮やかな緑色から黄緑色で、のちに褐色みを帯び、とくに基部でそうなり、触れたり折ったりするとすぐに暗い青緑色に変わります。基部は白いフェルト状の菌糸に覆われています。つばはありません。",
+        flesh: "肉は薄くもろく、淡緑色からオリーブ色で、切ったり傷つけたりすると、とくに柄の基部で青緑色に変わります。匂いは不快で、ふつうネズミや焦げた角のようと表現され、ときにチーズや汗のようでもありますが、標本によってはかすかか、ほとんどありません。味はおだやかから不快なものまであります。",
+        sporePrint: "ピンク色から褐色を帯びたピンク色。胞子は角張っていて6–9個の角があり、輪郭は不規則で、多くは約10.5–13 × 7.5–9.5 μmで、7–14 μmというより広い範囲も報告されており、アミロイド性ではありません。",
+        habitat: "腐生菌ですが、生活様式は不確かだとする著者もいます。肥料を与えていない、栄養に乏しく多くは石灰質の土壌の、草やコケの間に単生または小さな群れで生え、草地、牧草地、砂丘、芝生、道端にみられ、疎林、林間の空き地、林道沿いにはそれほど多くなく、アルプスでは亜高山帯まで達します。子実体は主に6月から10月に現れ、ときに11月まで続きます。",
+        uses: "食べられません。多くの著者は有毒とみなすか、その疑いがあるとしており、ほかの著者は単に食用に適さないとしています。小さく、匂いが不快で、まれでもあるため、いずれにしても食材としての価値はありません。",
+        confusion: "触れると青緑色に変わる鮮やかな緑色の柄、ネズミのような匂い、ピンク色の胞子紋によって、ほとんどの小型の草地性キノコと区別できます。Entoloma pleopodiumは傘がレモン黄色で、柄はより暗い褐色みを帯び、傷つけても色が変わらず、甘い果実のような匂いがします。Entoloma chlorophyllumは無臭で、柄はもろく、基部はやや球根状で白いフェルト状です。Hygrocybe psittacinaは傘と柄が粘性またはべたつき、傘はへそ状にくぼむことがなく、胞子紋は白色です。Clitocybe odoraも緑色ですが、アニスの匂いがあり、胞子紋は白色です。Entoloma veraeは肉眼では同一で、わずかに大きな胞子によって顕微鏡でのみ区別でき、平均12.5 × 8 μmに対し10.5 × 7.5 μmです。",
+        notes: "肥料を与えていない石灰質の草地の指標種です。各国のレッドリストでは、ノルウェー、デンマーク、スウェーデンで準絶滅危惧（Near Threatened）、チェコとオランダで絶滅危惧（Endangered）と評価されており、リトアニアのレッドデータブックにも載っています。主な原因は草地への施肥と低木の侵入、そして放牧や刈り取りの中止です。ほとんど同一の種であるEntoloma veraeは2021年にようやく記載されたため、古い記録には両種が含まれている可能性があります。"
+      },
+      ko: {
+        description: "갓 가운데가 배꼽처럼 오목하고 칙칙한 녹색에서 올리브갈색인 작고 가느다란 버섯으로, 주름살은 포자가 익으면 분홍색이 되고 자루는 선명한 황록색이며 만지면 청록색으로 변합니다. 쥐 냄새가 납니다. 비료를 주지 않은 석회질 풀밭에 작은 무리로 자라며 때로 성긴 숲에서도 자라고, 유럽, 아시아, 북아메리카에 널리 분포하지만 국지적입니다.",
+        cap: "갓은 지름 10–40 mm, 때로 더 작거나 약 60 mm에 이르며, 처음에는 반구형, 종 모양 또는 원뿔형이다가 나중에 볼록한 모양에서 편평해지고, 보통 중앙이 오목한 배꼽 모양입니다. 가장자리는 습한 날씨에 반지름의 절반쯤까지 투명한 줄무늬가 보입니다. 표면은 비단 같고 방사상 섬유가 있으며, 중앙은 곱게 비늘 모양이거나 솜털 모양이고, 올리브녹색, 황록색, 올리브갈색 또는 누르스름하며, 때로 레몬황색이나 적갈색이고 보통 중앙이 더 어둡습니다. 건조한 날씨에는 색이 빠르게 갈색빛이나 누르스름하게 바래므로 갓 색만으로는 믿을 수 없습니다.",
+        hymenium: "주름살은 자루에 파인 모양으로 붙거나 바로 붙어 있고, 흔히 작은 내려붙은 이빨이 있으며, 꽤 성긴 것에서 보통 촘촘한 것까지 있고 꽤 넓으며, 짧은 주름살이 섞여 있습니다. 어릴 때는 흰빛이거나 녹색기가 돌고, 포자가 익으면 지저분한 분홍색이 되며, 상처가 나면 청록색으로 물듭니다. 주름살 가장자리는 임성이고 낭상체가 없습니다. 담자기는 2포자성 또는 4포자성이며 약 28–60 × 9–16 μm입니다.",
+        stipe: "자루는 길이 20–80 mm, 굵기 1–4 mm이고 원통형이거나 약간 납작하며, 때로 밑동으로 갈수록 굵어지고, 속이 비어 있고 잘 부서집니다. 표면은 매끈하고 윤기가 있으며 선명한 녹색에서 황록색이고, 나중에 특히 밑동 쪽이 갈색빛을 띠며, 만지거나 부러뜨리면 빠르게 짙은 청록색으로 변합니다. 밑동은 흰색 펠트 같은 균사로 덮여 있습니다. 턱받이는 없습니다.",
+        flesh: "살은 얇고 잘 부서지며 연한 녹색에서 올리브색이고, 자르거나 상처가 나면 특히 자루 밑동에서 청록색으로 변합니다. 냄새는 불쾌하며 보통 쥐나 탄 뿔 냄새로 묘사되고 때로 치즈나 땀 냄새 같기도 하지만, 일부 표본에서는 약하거나 없습니다. 맛은 순한 것에서 불쾌한 것까지 있습니다.",
+        sporePrint: "분홍색에서 갈색빛 분홍색. 포자는 각이 져 있고 6–9개의 각이 있으며 윤곽이 불규칙하고, 대부분 약 10.5–13 × 7.5–9.5 μm이며 7–14 μm의 더 넓은 범위도 보고되어 있고, 아밀로이드성이 아닙니다.",
+        habitat: "부생균이지만 일부 저자는 생활 방식이 불확실하다고 봅니다. 비료를 주지 않은 양분이 적고 대개 석회질인 토양의 풀과 이끼 사이에 홀로 또는 작은 무리로 자라며, 풀밭, 목초지, 모래언덕, 잔디밭, 길가에서 보이고, 성긴 숲, 숲속 빈터, 임도 가에서는 드물며 알프스에서는 아고산대까지 올라갑니다. 자실체는 주로 6월부터 10월까지, 때로 11월까지 나타납니다.",
+        uses: "먹을 수 없습니다. 많은 저자는 독이 있다고 보거나 그럴 것으로 의심하고, 다른 저자는 단지 식용이 아니라고만 하며, 크기가 작고 냄새가 불쾌하며 드물기 때문에 어느 쪽이든 식재료로서 가치가 없습니다.",
+        confusion: "만지면 청록색으로 변하는 선명한 녹색 자루, 쥐 냄새, 분홍색 포자 무늬로 대부분의 작은 풀밭 버섯과 구별됩니다. Entoloma pleopodium은 갓이 레몬황색이고 자루는 더 어둡고 갈색빛이며, 상처가 나도 색이 변하지 않고 달콤한 과일 냄새가 납니다. Entoloma chlorophyllum은 냄새가 없고 자루가 잘 부서지며 밑동이 약간 구근 모양이고 흰 펠트로 덮여 있습니다. Hygrocybe psittacina는 갓과 자루가 끈적거리거나 점액질이며, 갓이 배꼽처럼 오목해지는 일이 없고 포자 무늬가 흰색입니다. Clitocybe odora도 녹색이지만 아니스 냄새가 나고 포자 무늬가 흰색입니다. Entoloma verae는 육안으로 똑같으며 약간 더 큰 포자로만 현미경 아래에서 구별되는데, 평균 12.5 × 8 μm 대 10.5 × 7.5 μm입니다.",
+        notes: "비료를 주지 않은 석회질 풀밭의 지표종입니다. 각국의 적색목록은 이 종을 노르웨이, 덴마크, 스웨덴에서는 준위협(Near Threatened), 체코와 네덜란드에서는 위기(Endangered)로 평가하며, 리투아니아 적색자료집에도 올라 있습니다. 주요 원인은 풀밭의 비료 사용과 관목 침입, 그리고 방목과 풀베기의 중단입니다. 거의 똑같은 종인 Entoloma verae는 2021년에야 기재되었으므로, 오래된 기록에는 두 종이 모두 섞여 있을 수 있습니다."
+      },
+      lv: {
+        description: "Maza, slaida sēne ar nabveida iedobi cepurītes vidū, blāvi zaļu līdz olīvbrūnu cepurīti, plāksnītēm, kas, sporām nogatavojoties, kļūst rozā, un spilgti dzeltenzaļu kātiņu, kas pieskaroties kļūst zilzaļš. Tā smaržo pēc pelēm. Aug nelielās grupās neapmēslotās, kalkainās pļavās un reizēm retos mežos; Eiropā, Āzijā un Ziemeļamerikā ir plaši izplatīta, bet vietām.",
+        cap: "Cepurīte ir 10–40 mm plata, dažreiz mazāka vai līdz aptuveni 60 mm, sākumā pusloka, zvana vai konusa formas, vēlāk izliekta līdz plakana, parasti ar iedobtu, nabveida vidu. Mala mitrā laikā ir caurspīdīgi svītrota apmēram līdz rādiusa pusei. Virsma ir zīdaina un radiāli šķiedraina, vidū smalki pārslaina vai zvīņaina, olīvzaļa, dzeltenzaļa, olīvbrūna vai dzeltenīga, dažreiz citrondzeltena vai sarkanbrūna, un parasti vidū tumšāka. Sausā laikā krāsas ātri izbalē līdz brūngānai vai dzeltenīgai, tāpēc vien cepurītes krāsa nav droša pazīme.",
+        hymenium: "Plāksnītes ir izgrieztas vai piekļautas kātiņam, bieži ar nelielu nolaidenu zobiņu, diezgan retas līdz mēreni biezas un diezgan platas, sajauktas ar īsākām plāksnītēm. Jaunībā tās ir baltganas vai ar zaļganu nokrāsu, sporām nogatavojoties — netīri rozā, un bojājuma vietās iekrāsojas zilzaļas. Plāksnītes mala ir auglīga un bez cistīdām. Bazīdijas ir divu vai četru sporu, aptuveni 28–60 × 9–16 μm.",
+        stipe: "Kātiņš ir 20–80 mm garš un 1–4 mm resns, cilindrisks vai nedaudz saplacināts, dažreiz pamatnē paplašināts, dobs un trausls. Tas ir gluds un spīdīgs, spilgti zaļš līdz dzeltenzaļš, vēlāk brūngans, īpaši pamatnē, un, pieskaroties vai lūstot, ātri kļūst tumši zilzaļš. Pamatni klāj balta, filcaina micēlija. Gredzena nav.",
+        flesh: "Mīkstums ir plāns un trausls, gaiši zaļš līdz olīvzaļš, un, pārgriežot vai bojājot, kļūst zilzaļš, īpaši kātiņa pamatnē. Smarža ir nepatīkama, parasti aprakstīta kā peļu vai apdeguša raga, dažreiz arī siera vai sviedru, bet dažiem eksemplāriem tā ir vāja vai tās nav. Garša ir maiga līdz nepatīkama.",
+        sporePrint: "Rozā līdz brūngani rozā. Sporas ir kantainas, ar 6–9 leņķiem, neregulāra kontūra, galvenokārt aptuveni 10,5–13 × 7,5–9,5 μm, norādīts plašāks diapazons 7–14 μm, un neamiloīdas.",
+        habitat: "Saprotrofa sēne, lai gan daži autori tās dzīvesveidu uzskata par neskaidru. Aug atsevišķi vai nelielās grupās zālē un sūnās neapmēslotā, barības vielām nabadzīgā, visbiežāk kalkainā augsnē pļavās, ganībās, kāpās, zālienos un ceļmalās, retāk retos mežos, izcirtumos un meža ceļu malās, un Alpos sasniedz subalpīno joslu. Augļķermeņi parādās galvenokārt no jūnija līdz oktobrim, reizēm līdz novembrim.",
+        uses: "Neēdama. Daudzi autori to uzskata par indīgu vai tā domā, citi min tikai kā neēdamu, un mazā izmēra, nepatīkamās smaržas un retuma dēļ tā tāpat nav vērtīga kā ēdamā sēne.",
+        confusion: "Spilgti zaļais kātiņš, kas pieskaroties kļūst zilzaļš, peļu smarža un rozā sporu nospiedums to atšķir no lielākās daļas mazo pļavu sēņu. Entoloma pleopodium cepurīte ir citrondzeltena, kātiņš tumšāks, brūngans, bojāts nemaina krāsu un smaržo saldi, augļaini. Entoloma chlorophyllum ir bez smaržas, tās kātiņš ir trausls, pamatnē nedaudz bumbuļveidīgs un balti filcains. Hygrocybe psittacina cepurīte un kātiņš ir gļotaini vai lipīgi, cepurīte nekad nav nabveida un sporu nospiedums ir balts. Clitocybe odora arī ir zaļa, bet smaržo pēc anīsa, un sporu nospiedums ir balts. Entoloma verae ar neapbruņotu aci ir identiska, un to var atšķirt tikai mikroskopā pēc nedaudz lielākām sporām, vidēji 12,5 × 8 μm pret 10,5 × 7,5 μm.",
+        notes: "Neapmēslotu, kalkainu pļavu indikatorsuga. Nacionālajos sarkanajos sarakstos tā vērtēta kā gandrīz apdraudēta (Near Threatened) Norvēģijā, Dānijā un Zviedrijā un kā apdraudēta (Endangered) Čehijā un Nīderlandē, un tā iekļauta Lietuvas Sarkanajā grāmatā; galvenie cēloņi ir pļavu mēslošana un aizaugšana, kā arī ganīšanas un pļaušanas pārtraukšana. Gandrīz identiska suga Entoloma verae aprakstīta tikai 2021. gadā, tāpēc vecāki atradumi var ietvert abas sugas."
+      },
+      lt: {
+        description: "Mažas, liaunas grybas su įdubusiu, bambos pavidalo kepurėlės viduriu, blankiai žalios iki alyvuogių rudos spalvos kepurėle, lakšteliais, kurie sporoms bręstant tampa rausvi, ir ryškiu gelsvai žaliu kotu, kuris palietus tampa melsvai žalias. Kvepia pelėmis. Auga nedidelėmis grupėmis netręštose kalkingose pievose ir kartais retuose miškuose, yra paplitęs, bet vietomis Europoje, Azijoje ir Šiaurės Amerikoje.",
+        cap: "Kepurėlė yra 10–40 mm skersmens, kartais mažesnė arba iki maždaug 60 mm, iš pradžių pusrutulio, varpelio arba kūgio formos, vėliau išgaubta iki plokščios, dažniausiai su įdubusiu, bambos pavidalo viduriu. Kraštas drėgnu oru permatomai briaunotas maždaug iki pusės spindulio. Paviršius šilkinis ir radialiai plaušuotas, viduryje smulkiai dribsnėtas arba žvynuotas, alyvuogių žalias, gelsvai žalias, alyvuogių rudas arba gelsvas, kartais citrinos geltonas arba raudonai rudas, o viduryje paprastai tamsesnis. Sausu oru spalvos greitai išblunka iki rusvos arba gelsvos, todėl vien kepurėlės spalva nėra patikimas požymis.",
+        hymenium: "Lakšteliai prie koto prisitvirtinę su išpjova arba prie jo priaugę, dažnai su nedideliu nusileidžiančiu dantuku, gana reti iki vidutiniškai tankių ir gana platūs, išsidėstę kartu su trumpesniais. Jauni jie balkšvi arba su žalsvu atspalviu, sporoms bręstant nešvariai rausvi, o pažeistose vietose tampa melsvai žali. Lakštelių kraštas vaisingas, be cistidžių. Bazidės dvi- arba keturiasporės, apie 28–60 × 9–16 μm.",
+        stipe: "Kotas yra 20–80 mm ilgio ir 1–4 mm storio, cilindriškas arba šiek tiek suplotas, kartais prie pagrindo platėjantis, tuščiaviduris ir trapus. Jis lygus ir blizgus, ryškiai žalias iki gelsvai žalio, vėliau rusvėjantis, ypač prie pagrindo, o paliestas arba nulaužtas greitai tampa tamsiai melsvai žalias. Pagrindą dengia baltas veltinio pavidalo grybiena. Žiedo nėra.",
+        flesh: "Minkštimas plonas ir trapus, šviesiai žalias iki alyvuogių atspalvio, o perpjautas arba pažeistas tampa melsvai žalias, ypač koto pagrinde. Kvapas nemalonus, dažniausiai apibūdinamas kaip pelių arba apdegusio rago, kartais taip pat sūrio arba prakaito, tačiau kai kuriuose egzemplioriuose silpnas arba jo nėra. Skonis švelnus iki nemalonaus.",
+        sporePrint: "Rausva iki rusvai rausvos. Sporos kampuotos, su 6–9 kampais, netaisyklingo kontūro, dažniausiai apie 10,5–13 × 7,5–9,5 μm, nurodomas platesnis ribų intervalas 7–14 μm, neamiloidinės.",
+        habitat: "Saprotrofinis grybas, nors kai kurie autoriai jo gyvenimo būdą laiko neaiškiu. Auga pavieniui arba nedidelėmis grupėmis žolėje ir samanose netręštoje, maistinėmis medžiagomis skurdžioje, dažniausiai kalkingoje dirvoje pievose, ganyklose, kopose, vejose ir pakelėse, rečiau retuose miškuose, laukymėse ir miško keliuose, o Alpėse kyla iki subalpinės juostos. Vaisiakūniai pasirodo daugiausia nuo birželio iki spalio, kartais iki lapkričio.",
+        uses: "Nevalgomas. Daugelis autorių jį laiko nuodingu arba įtaria, kad toks yra, kiti nurodo tik kaip nevalgomą, o dėl mažo dydžio, nemalonaus kvapo ir retumo jis vis tiek neturi vertės kaip valgomasis grybas.",
+        confusion: "Ryškiai žalias kotas, kuris palietus tampa melsvai žalias, pelių kvapas ir rausvas sporų atspaudas atskiria jį nuo daugumos mažų pievų grybų. Entoloma pleopodium kepurėlė citrinos geltona, kotas tamsesnis, rusvas, pažeistas nekeičia spalvos, o kvapas saldus, vaisių. Entoloma chlorophyllum bekvapis, jo kotas trapus, prie pagrindo šiek tiek gumbuotas ir baltai veltininis. Hygrocybe psittacina kepurėlė ir kotas gleivėti arba lipnūs, kepurėlė niekada nebūna bambos pavidalo, sporų atspaudas baltas. Clitocybe odora irgi žalias, bet kvepia anyžiumi, sporų atspaudas baltas. Entoloma verae plika akimi nesiskiria ir atskiriama tik mikroskopu pagal šiek tiek didesnes sporas, vidutiniškai 12,5 × 8 μm, palyginti su 10,5 × 7,5 μm.",
+        notes: "Netręštų kalkingų pievų indikatorinė rūšis. Nacionaliniai raudonieji sąrašai ją vertina kaip beveik nykstančią (Near Threatened) Norvegijoje, Danijoje ir Švedijoje ir kaip nykstančią (Endangered) Čekijoje ir Nyderlanduose, taip pat ji įrašyta į Lietuvos raudonąją knygą; pagrindinės priežastys yra pievų tręšimas ir užžėlimas bei ganymo ir šienavimo nutraukimas. Beveik identiška rūšis Entoloma verae aprašyta tik 2021 m., todėl senesni radiniai gali apimti abi rūšis."
+      },
+      no: {
+        description: "En liten, slank sopp med navlet, matt grønn til olivenbrun hatt, skiver som blir rosa når sporene modnes, og en klar grønngul stilk som blir blågrønn ved berøring. Den lukter mus. Den vokser i små grupper på ugjødslet, kalkrik grasmark og noen ganger i åpen skog, og er utbredt, men lokal, i Europa, Asia og Nord-Amerika.",
+        cap: "Hatten er 10–40 mm bred, av og til mindre eller opptil omkring 60 mm, først halvkuleformet, klokkeformet eller kjegleformet, deretter hvelvet til flat, vanligvis med nedsunket, navlelignende midte. Kanten er gjennomskinnelig stripet i fuktig vær, omtrent halvveis inn mot midten. Overflaten er silkeaktig og radialt trevlet, finskjellet eller flokete i midten og olivengrønn, gulgrønn, olivenbrun eller gulaktig, noen ganger sitrongul eller rødbrun, og vanligvis mørkere i midten. I tørt vær falmer fargene raskt til brunlige eller gulaktige, så hattfargen alene er upålitelig.",
+        hymenium: "Skivene er utbuktet eller tilvokste, ofte med en liten tann som løper ned på stilken, ganske spredte til moderat tette og ganske brede, blandet med kortere skiver. De er først hvitaktige eller grønnlig anløpne, deretter skittenrosa når sporene modnes, og de farges blågrønne der de skades. Skiveeggen er fertil og uten cystider. Basidiene har to eller fire sporer og måler omkring 28–60 × 9–16 μm.",
+        stipe: "Stilken er 20–80 mm lang og 1–4 mm tykk, sylindrisk eller svakt flattrykt, noen ganger videre mot basis, hul og skjør. Den er glatt og blank, klart grønn til grønngul, senere brunaktig, særlig mot basis, og blir raskt mørk blågrønn der den berøres eller brekkes. Basis er dekket av hvitt, filtet mycel. Det er ingen ring.",
+        flesh: "Kjøttet er tynt og skjørt, lysegrønt til olivenfarget, og blir blågrønt ved snitt eller skade, kraftigst i stilkbasis. Lukten er ubehagelig og beskrives vanligvis som mus eller brent horn, noen ganger også som ostaktig eller svett, men den er svak eller mangler hos noen få eksemplarer. Smaken er mild til ubehagelig.",
+        sporePrint: "Rosa til brunaktig rosa. Sporene er kantete med 6–9 hjørner, uregelmessige i omriss, for det meste omkring 10,5–13 × 7,5–9,5 μm, med et videre oppgitt område på 7–14 μm, og ikke amyloide.",
+        habitat: "En saprotrof sopp, selv om noen forfattere anser livsmåten som usikker. Den vokser enkeltvis eller i små grupper i gress og mose på ugjødslet, næringsfattig, oftest kalkrik jord, på enger, beitemark, sanddyner, plener og veikanter, og mer sjelden i åpen skog, lysninger og langs skogsstier, og i Alpene når den opp i den subalpine sonen. Fruktlegemene opptrer hovedsakelig fra juni til oktober og av og til til november.",
+        uses: "Ikke spiselig. Mange forfattere regner den som giftig eller antar at den er det, andre oppgir den bare som uspiselig, og på grunn av den lille størrelsen, den ubehagelige lukten og sjeldenheten er den uansett verdiløs som matsopp.",
+        confusion: "Den klart grønne stilken som blir blågrønn ved berøring, lukten av mus og det rosa sporeavtrykket skiller den fra de fleste små gressmarkssopper. Entoloma pleopodium har sitrongul hatt, mørkere brunaktig stilk, skifter ikke farge ved skade og lukter søtt og fruktaktig. Entoloma chlorophyllum er luktfri og har skjør stilk med lett knollformet, kvitfiltet basis. Hygrocybe psittacina har slimet eller klissete hatt og stilk, en hatt som aldri er navlet, og hvitt sporeavtrykk. Clitocybe odora er også grønn, men lukter anis og har hvitt sporeavtrykk. Entoloma verae ser lik ut med det blotte øye og skilles bare under mikroskop ved litt større sporer, i gjennomsnitt 12,5 × 8 μm mot 10,5 × 7,5 μm.",
+        notes: "En indikatorart for ugjødslet, kalkrik grasmark. Nasjonale rødlister vurderer den som nær truet (Near Threatened) i Norge, Danmark og Sverige og som sterkt truet (Endangered) i Tsjekkia og Nederland, og den står i Litauens røde bok; de viktigste årsakene er gjødsling og gjengroing av grasmark og at beiting og slått opphører. En nesten identisk art, Entoloma verae, ble først beskrevet i 2021, så eldre funn kan omfatte begge artene."
+      },
+      fa: {
+        description: "قارچی کوچک و باریک با کلاهک ناف‌دار سبز مات تا قهوه‌ای زیتونی، تیغه‌هایی که هنگام رسیدن هاگ‌ها صورتی می‌شوند و ساقه‌ای سبز زردفام و روشن که با لمس سبز مایل به آبی می‌شود. بوی موش می‌دهد. در گروه‌های کوچک در چمنزارهای کودنخورده و آهکی و گاهی در جنگل‌های باز می‌روید و در اروپا، آسیا و آمریکای شمالی گسترده اما پراکنده است.",
+        cap: "کلاهک ۱۰ تا ۴۰ میلی‌متر قطر دارد، گاهی کمتر یا تا حدود ۶۰ میلی‌متر، ابتدا نیم‌کره‌ای، زنگوله‌ای یا مخروطی است، سپس محدب تا صاف می‌شود و معمولاً مرکزش فرورفته و ناف‌مانند است. لبهٔ آن در هوای مرطوب تا حدود نیمهٔ شعاع شفاف و خط‌دار است. سطح آن ابریشمی و شعاعی‌رشته‌دار است، در مرکز ریزپوسته‌دار یا پوسته‌دار، سبز زیتونی، سبز زردفام، قهوه‌ای زیتونی یا زردفام، گاهی زرد لیمویی یا قهوه‌ای مایل به قرمز، و معمولاً در مرکز تیره‌تر. در هوای خشک رنگ‌ها زود به قهوه‌ای‌فام یا زردفام محو می‌شوند، پس رنگ کلاهک به‌تنهایی قابل اعتماد نیست.",
+        hymenium: "تیغه‌ها بریده یا چسبیده به ساقه‌اند، اغلب با دندانهٔ کوچک روان، نسبتاً دور از هم تا کمی متراکم و نسبتاً پهن، و با تیغه‌های کوتاه‌تر آمیخته. در جوانی سفیدفام یا با سایهٔ سبزفام‌اند، هنگام رسیدن هاگ‌ها صورتی کثیف می‌شوند و در جاهای آسیب‌دیده سبز مایل به آبی لک می‌شوند. لبهٔ تیغه بارور و بدون سیستید است. بازیدی‌ها دو یا چهارهاگی و حدود ۲۸ تا ۶۰ × ۹ تا ۱۶ میکرومتر هستند.",
+        stipe: "ساقه ۲۰ تا ۸۰ میلی‌متر بلندی و ۱ تا ۴ میلی‌متر ضخامت دارد، استوانه‌ای یا کمی پهن، گاهی به سمت پایه گشادتر، توخالی و شکننده. صاف و براق، سبز روشن تا سبز زردفام، بعدها قهوه‌ای‌فام، به‌ویژه نزدیک پایه، و با لمس یا شکستن زود سبز مایل به آبیِ تیره می‌شود. پایه با ریسه‌های سفید نمدی پوشیده است. حلقه ندارد.",
+        flesh: "گوشت نازک و شکننده، سبز روشن تا زیتونی است و هنگام برش یا آسیب، به‌ویژه در پایهٔ ساقه، سبز مایل به آبی می‌شود. بو ناخوشایند است و معمولاً به بوی موش یا شاخ سوخته توصیف می‌شود، گاهی هم پنیری یا عرق، اما در برخی نمونه‌ها ضعیف است یا نیست. طعم ملایم تا ناخوشایند است.",
+        sporePrint: "صورتی تا صورتیِ مایل به قهوه‌ای. هاگ‌ها زاویه‌دارند، با ۶ تا ۹ زاویه و محیط نامنظم، بیشتر حدود ۱۰٫۵ تا ۱۳ × ۷٫۵ تا ۹٫۵ میکرومتر، و بازهٔ گسترده‌تر ۷ تا ۱۴ میکرومتر هم گزارش شده است؛ آمیلوئیدی نیستند.",
+        habitat: "قارچی ساپروتروف است، هرچند برخی پژوهشگران شیوهٔ زندگی آن را نامطمئن می‌دانند. به‌صورت منفرد یا در گروه‌های کوچک میان علف و خزه، روی خاک کودنخورده، کم‌مواد مغذی و بیشتر آهکی، در چمنزارها، مراتع، تپه‌های ماسه‌ای، چمن‌ها و حاشیهٔ جاده‌ها و کمتر در جنگل‌های باز، فضاهای باز و کنار راه‌های جنگلی می‌روید و در آلپ تا کمربند زیرآلپی بالا می‌رود. اندام‌های باردهی بیشتر از ژوئن تا اکتبر و گاهی تا نوامبر پدیدار می‌شوند.",
+        uses: "خوراکی نیست. بسیاری از پژوهشگران آن را سمی می‌دانند یا به سمی بودنش مشکوک‌اند، برخی دیگر فقط آن را غیرخوراکی ذکر می‌کنند، و به‌سبب اندازهٔ کوچک، بوی ناخوشایند و کمیابی، در هر حال برای سفره ارزشی ندارد.",
+        confusion: "ساقهٔ سبز روشن که با لمس سبز مایل به آبی می‌شود، بوی موش و رسوب هاگ صورتی آن را از بیشتر قارچ‌های کوچک چمنزار جدا می‌کند. Entoloma pleopodium کلاهک زرد لیمویی، ساقهٔ تیره‌تر و قهوه‌ای‌فام دارد، با آسیب رنگ عوض نمی‌کند و بویش شیرین و میوه‌ای است. Entoloma chlorophyllum بی‌بو است و ساقه‌ای شکننده با پایهٔ اندکی غده‌ای و نمدی سفید دارد. Hygrocybe psittacina کلاهک و ساقهٔ لزج یا چسبناک دارد، کلاهکش هرگز ناف‌دار نیست و رسوب هاگش سفید است. Clitocybe odora هم سبز است اما بوی انیسون می‌دهد و رسوب هاگش سفید است. Entoloma verae با چشم غیرمسلح یکسان است و فقط زیر میکروسکوپ از روی هاگ‌های کمی بزرگ‌تر تشخیص داده می‌شود، به‌طور میانگین ۱۲٫۵ × ۸ میکرومتر در برابر ۱۰٫۵ × ۷٫۵ میکرومتر.",
+        notes: "گونه‌ای شاخص برای چمنزارهای آهکی کودنخورده است. فهرست‌های سرخ ملی آن را در نروژ، دانمارک و سوئد نزدیک به تهدید (Near Threatened) و در چک و هلند در خطر انقراض (Endangered) ارزیابی کرده‌اند و در کتاب سرخ لیتوانی آمده است؛ مهم‌ترین دلایل کوددهی و بوته‌زار شدن چمنزارها و پایان چرا و علف‌بُری است. گونهٔ تقریباً یکسان Entoloma verae تنها در ۲۰۲۱ توصیف شد، بنابراین گزارش‌های قدیمی‌تر ممکن است هر دو گونه را دربر بگیرند."
+      },
+      pl: {
+        description: "Mały, smukły grzyb o pępkowatym, matowozielonym do oliwkowobrązowego kapeluszu, blaszkach różowiejących w miarę dojrzewania zarodników i jaskrawym żółtozielonym trzonie, który po dotknięciu robi się niebieskozielony. Pachnie myszami. Rośnie w małych grupach na nienawożonych, bogatych w wapń łąkach, a czasem w widnych lasach, i jest szeroko rozmieszczony, lecz lokalny w Europie, Azji i Ameryce Północnej.",
+        cap: "Kapelusz ma 10–40 mm średnicy, czasem mniej lub do około 60 mm, z początku półkulisty, dzwonkowaty lub stożkowaty, potem wypukły do płaskiego, zwykle z wklęśniętym, pępkowatym środkiem. Brzeg w wilgotną pogodę jest prześwitująco prążkowany mniej więcej do połowy promienia. Powierzchnia jest jedwabista i promieniście włóknista, pośrodku drobno łuseczkowata lub kosmkowata, oliwkowozielona, żółtozielona, oliwkowobrązowa lub żółtawa, czasem cytrynowożółta lub czerwonobrązowa, zwykle ciemniejsza pośrodku. W suchą pogodę barwy szybko płowieją do brązowawych lub żółtawych, więc sama barwa kapelusza nie jest wiarygodną cechą.",
+        hymenium: "Blaszki są wycięte lub przyrośnięte do trzonu, często z małym ząbkiem zbiegającym, dość rzadkie do średnio gęstych i dość szerokie, przemieszane z krótszymi. W młodości są białawe lub z zielonkawym odcieniem, potem brudnoróżowe przy dojrzałych zarodnikach, a w miejscach uszkodzeń zabarwiają się niebieskozielono. Ostrze blaszek jest płodne i pozbawione cystyd. Podstawki są dwu- lub czterozarodnikowe, mają około 28–60 × 9–16 μm.",
+        stipe: "Trzon ma 20–80 mm długości i 1–4 mm grubości, jest walcowaty lub lekko spłaszczony, czasem rozszerzony ku podstawie, pusty i kruchy. Jest gładki i błyszczący, jaskrawozielony do żółtozielonego, później brunatniejący, zwłaszcza ku podstawie, a przy dotknięciu lub złamaniu szybko staje się ciemnoniebieskozielony. Podstawa jest pokryta białą, filcowatą grzybnią. Pierścienia brak.",
+        flesh: "Miąższ jest cienki i kruchy, jasnozielony do oliwkowego, a po przecięciu lub uszkodzeniu robi się niebieskozielony, zwłaszcza w podstawie trzonu. Zapach jest nieprzyjemny, zwykle opisywany jako mysi lub palonego rogu, czasem także serowy lub potu, ale u niektórych owocników słaby lub nieobecny. Smak jest łagodny do nieprzyjemnego.",
+        sporePrint: "Różowy do brązowaworóżowego. Zarodniki są kanciaste, z 6–9 kątami, o nieregularnym zarysie, najczęściej mają około 10,5–13 × 7,5–9,5 μm, podawany jest szerszy zakres 7–14 μm, i są nieamyloidalne.",
+        habitat: "Grzyb saprotroficzny, choć niektórzy autorzy uważają jego tryb życia za niepewny. Rośnie pojedynczo lub w małych grupach wśród traw i mchów na nienawożonej, ubogiej w składniki pokarmowe, najczęściej wapiennej glebie, na łąkach, pastwiskach, wydmach, trawnikach i poboczach dróg, rzadziej w widnych lasach, na polanach i przy drogach leśnych, a w Alpach sięga piętra subalpejskiego. Owocniki pojawiają się głównie od czerwca do października, czasem do listopada.",
+        uses: "Niejadalny. Wielu autorów uważa go za trujący lub tak podejrzewa, inni podają go tylko jako niejadalny, a ze względu na małe rozmiary, nieprzyjemny zapach i rzadkość nie ma on w kuchni żadnej wartości.",
+        confusion: "Jaskrawozielony trzon, który po dotknięciu robi się niebieskozielony, zapach myszy i różowy wysyp zarodników odróżniają go od większości małych grzybów łąkowych. Entoloma pleopodium ma kapelusz cytrynowożółty, trzon ciemniejszy, brunatny, po uszkodzeniu nie zmienia barwy i pachnie słodko, owocowo. Entoloma chlorophyllum jest bezwonna, ma kruchy trzon z lekko bulwiastą, biało filcowatą podstawą. Hygrocybe psittacina ma śluzowaty lub lepki kapelusz i trzon, kapelusz nigdy nie jest pępkowaty, a wysyp zarodników jest biały. Clitocybe odora też jest zielona, ale pachnie anyżem i ma biały wysyp zarodników. Entoloma verae jest gołym okiem nie do odróżnienia i rozpoznaje się ją tylko pod mikroskopem po nieco większych zarodnikach, średnio 12,5 × 8 μm wobec 10,5 × 7,5 μm.",
+        notes: "Gatunek wskaźnikowy nienawożonych, bogatych w wapń łąk. Krajowe czerwone listy oceniają go jako bliski zagrożenia (Near Threatened) w Norwegii, Danii i Szwecji oraz jako zagrożony (Endangered) w Czechach i Holandii, a figuruje także w Czerwonej księdze Litwy; główne przyczyny to nawożenie i zarastanie łąk oraz zaprzestanie wypasu i koszenia. Niemal identyczny gatunek, Entoloma verae, został opisany dopiero w 2021 roku, więc starsze doniesienia mogą obejmować oba gatunki."
+      },
+      pt: {
+        description: "Um cogumelo pequeno e esguio, com chapéu umbilicado de verde-pálido a castanho-azeitonado, lâminas que ficam rosadas quando os esporos amadurecem e um pé verde-amarelado vivo que fica verde-azulado ao toque. Cheira a ratos. Cresce em pequenos grupos em prados não adubados e ricos em calcário e por vezes em bosques abertos, e é amplamente distribuído, mas localizado, na Europa, na Ásia e na América do Norte.",
+        cap: "O chapéu mede 10–40 mm de largura, por vezes menos ou até cerca de 60 mm, primeiro hemisférico, campanulado ou cónico, depois convexo a plano, normalmente com o centro deprimido ou umbilicado. A margem é estriada por transparência com tempo húmido, até cerca de metade do raio. A superfície é sedosa e radialmente fibrosa, finamente floconosa ou escamosa no centro, verde-azeitona, verde-amarelada, castanho-azeitonada ou amarelada, por vezes amarelo-limão ou castanho-avermelhada, e geralmente mais escura no centro. Com tempo seco as cores esmorecem depressa para acastanhado ou amarelado, pelo que a cor do chapéu, por si só, não é fiável.",
+        hymenium: "As lâminas são emarginadas ou adnadas ao pé, muitas vezes com um pequeno dente decorrente, bastante espaçadas a moderadamente apertadas e bastante largas, intercaladas com lamélulas mais curtas. Primeiro são esbranquiçadas ou com tom esverdeado, depois rosa-sujo quando os esporos amadurecem, e mancham de verde-azulado onde são danificadas. A aresta é fértil e sem cistídios. Os basídios têm dois ou quatro esporos e medem cerca de 28–60 × 9–16 μm.",
+        stipe: "O pé mede 20–80 mm de comprimento e 1–4 mm de espessura, cilíndrico ou ligeiramente achatado, por vezes alargado para a base, oco e quebradiço. É liso e brilhante, verde vivo a verde-amarelado, depois acastanhado, sobretudo para a base, e fica rapidamente verde-azulado escuro quando é manuseado ou partido. A base está coberta por micélio branco feltrado. Não tem anel.",
+        flesh: "A carne é fina e frágil, verde-clara a azeitonada, e fica verde-azulada quando cortada ou danificada, sobretudo na base do pé. O cheiro é desagradável e costuma descrever-se como a ratos ou a corno queimado, por vezes também a queijo ou a suor, mas é fraco ou ausente em alguns exemplares. O sabor é suave a desagradável.",
+        sporePrint: "Rosa a rosa-acastanhado. Os esporos são angulosos, com 6–9 ângulos, de contorno irregular, na maioria com cerca de 10,5–13 × 7,5–9,5 μm, havendo uma amplitude mais ampla de 7–14 μm referida, e não amiloides.",
+        habitat: "Um fungo sapróbio, embora alguns autores considerem incerto o seu modo de vida. Cresce isolado ou em pequenos grupos entre erva e musgo, em solo não adubado, pobre em nutrientes e geralmente rico em calcário, em prados, pastagens, dunas, relvados e bermas de caminhos, e menos vezes em bosques abertos, clareiras e caminhos florestais, e nos Alpes chega ao andar subalpino. Os corpos frutíferos surgem sobretudo de junho a outubro e ocasionalmente até novembro.",
+        uses: "Não comestível. Muitos autores consideram-no venenoso ou suspeitam que o seja, outros indicam-no apenas como não comestível, e pelo tamanho pequeno, pelo cheiro desagradável e pela raridade não tem qualquer valor para a mesa em todo o caso.",
+        confusion: "O pé verde vivo que fica verde-azulado ao toque, o cheiro a ratos e a esporada rosa distinguem-no da maioria dos pequenos cogumelos de prado. Entoloma pleopodium tem o chapéu amarelo-limão, o pé mais escuro e acastanhado, não muda de cor quando é danificado e cheira a fruta doce. Entoloma chlorophyllum não tem cheiro e tem um pé quebradiço com a base ligeiramente bulbosa e feltrada de branco. Hygrocybe psittacina tem o chapéu e o pé viscosos ou pegajosos, um chapéu que nunca é umbilicado e esporada branca. Clitocybe odora também é verde, mas cheira a anis e tem esporada branca. Entoloma verae é idêntico a olho nu e só se distingue ao microscópio, por esporos um pouco maiores, com 12,5 × 8 μm em média contra 10,5 × 7,5 μm.",
+        notes: "Um indicador de prados não adubados e ricos em calcário. As listas vermelhas nacionais classificam-no como quase ameaçado (Near Threatened) na Noruega, na Dinamarca e na Suécia e como em perigo (Endangered) na Chéquia e nos Países Baixos, e consta do Livro Vermelho da Lituânia; as principais causas são a adubação e o abandono e invasão dos prados e o fim do pastoreio e da ceifa. Uma espécie quase idêntica, Entoloma verae, só foi descrita em 2021, pelo que os registos mais antigos podem incluir ambas."
+      },
+      ro: {
+        description: "O ciupercă mică și zveltă, cu pălăria ombilicată, de un verde șters până la brun-măsliniu, cu lamele care devin roz când sporii se coc și cu piciorul de un verde-gălbui intens care se face verde-albăstrui la atingere. Miroase a șoarece. Crește în grupuri mici pe pajiști nefertilizate, bogate în calcar, uneori și prin păduri rare, și este răspândită, dar locală, în Europa, Asia și America de Nord.",
+        cap: "Pălăria are 10–40 mm în diametru, uneori mai puțin sau până la circa 60 mm, la început emisferică, campanulată sau conică, apoi convexă până la plată, de obicei cu centrul adâncit sau ombilicat. Marginea este striată prin transparență pe vreme umedă, până aproximativ la jumătatea razei. Suprafața este mătăsoasă și radial fibroasă, fin fulgoasă sau solzoasă în centru, verde-măslinie, verde-gălbuie, brun-măslinie sau gălbuie, uneori galben-lămâie sau brun-roșcată, de regulă mai închisă în centru. Pe vreme uscată culorile se șterg repede spre brunifiu sau gălbui, așa că doar culoarea pălăriei nu este un indiciu sigur.",
+        hymenium: "Lamelele sunt emarginate sau aderente la picior, adesea cu un mic dinte decurent, destul de depărtate până la moderat de dese și destul de late, amestecate cu lamele mai scurte. La început sunt albicioase sau cu tentă verzuie, apoi roz murdar când sporii se coc, și se pătează în verde-albăstrui acolo unde sunt lovite. Muchia este fertilă și fără cistide. Bazidiile au două sau patru spori și măsoară circa 28–60 × 9–16 μm.",
+        stipe: "Piciorul are 20–80 mm lungime și 1–4 mm grosime, cilindric sau ușor turtit, uneori lărgit spre bază, scorburos și fragil. Este neted și lucios, verde intens până la verde-gălbui, apoi brunifiu, mai ales spre bază, și se face repede verde-albăstrui închis când este atins sau rupt. Baza este acoperită cu miceliu alb, pâslos. Nu are inel.",
+        flesh: "Carnea este subțire și fragilă, verde deschis până la măslinie, și se face verde-albăstruie la tăiere sau la lovire, mai ales în baza piciorului. Mirosul este neplăcut și se descrie de obicei ca de șoarece sau de corn ars, uneori și ca de brânză sau de transpirație, dar la unele exemplare este slab sau lipsește. Gustul este blând până la neplăcut.",
+        sporePrint: "Roz până la roz-brunifiu. Sporii sunt angulari, cu 6–9 colțuri, cu contur neregulat, în mare parte de circa 10,5–13 × 7,5–9,5 μm, cu un interval mai larg raportat de 7–14 μm, și neamiloizi.",
+        habitat: "O ciupercă saprotrofă, deși unii autori consideră incert modul ei de viață. Crește izolat sau în grupuri mici, în iarbă și mușchi, pe sol nefertilizat, sărac în nutrienți și de obicei bogat în calcar, în pajiști, pășuni, dune, peluze și marginea drumurilor, mai rar în păduri rare, poieni și pe lângă drumurile forestiere, iar în Alpi urcă până în etajul subalpin. Corpurile fructifere apar mai ales din iunie până în octombrie și uneori până în noiembrie.",
+        uses: "Necomestibilă. Mulți autori o consideră otrăvitoare sau bănuiesc că ar fi, alții o menționează doar ca necomestibilă, iar din cauza mărimii mici, a mirosului neplăcut și a rarității nu are oricum nicio valoare pentru masă.",
+        confusion: "Piciorul verde intens care se face verde-albăstrui la atingere, mirosul de șoarece și pulberea sporilor roz o deosebesc de majoritatea ciupercilor mici de pajiște. Entoloma pleopodium are pălăria galben-lămâie, piciorul mai închis și brunifiu, nu își schimbă culoarea la lovire și miroase dulce, a fructe. Entoloma chlorophyllum este fără miros și are piciorul fragil, cu baza ușor bulboasă, pâslos-albă. Hygrocybe psittacina are pălăria și piciorul vâscoase sau lipicioase, pălăria nu este niciodată ombilicată, iar pulberea sporilor este albă. Clitocybe odora este tot verde, dar miroase a anason și are pulberea sporilor albă. Entoloma verae este identică cu ochiul liber și se deosebește doar la microscop, prin spori ceva mai mari, în medie de 12,5 × 8 μm față de 10,5 × 7,5 μm.",
+        notes: "Un indicator al pajiștilor nefertilizate, bogate în calcar. Listele roșii naționale o clasifică drept aproape amenințată (Near Threatened) în Norvegia, Danemarca și Suedia și drept pe cale de dispariție (Endangered) în Cehia și Țările de Jos, și figurează în Cartea Roșie a Lituaniei; cauzele principale sunt fertilizarea și înțelenirea pajiștilor și încetarea pășunatului și a cositului. O specie aproape identică, Entoloma verae, a fost descrisă abia în 2021, așa că observațiile mai vechi pot cuprinde ambele specii."
+      },
+      ru: {
+        description: "Небольшой тонкий гриб с вдавленной, пупковидной шляпкой тусклого зелёного до оливково-бурого цвета, пластинками, розовеющими по мере созревания спор, и ярко-зеленовато-жёлтой ножкой, которая от прикосновения становится сине-зелёной. Пахнет мышами. Растёт небольшими группами на неудобренных, богатых известью лугах, а иногда в светлых лесах; широко распространён, но локален в Европе, Азии и Северной Америке.",
+        cap: "Шляпка 10–40 мм в поперечнике, иногда меньше или до 60 мм, сначала полушаровидная, колокольчатая или коническая, затем выпуклая до плоской, обычно с вдавленным, пупковидным центром. Край во влажную погоду просвечивающе-полосатый примерно до половины радиуса. Поверхность шелковистая и радиально-волокнистая, в центре мелкохлопьевидная или чешуйчатая, оливково-зелёная, жёлто-зелёная, оливково-бурая или желтоватая, иногда лимонно-жёлтая или красновато-бурая, обычно темнее в центре. В сухую погоду окраска быстро выцветает до буроватой или желтоватой, поэтому один лишь цвет шляпки ненадёжен.",
+        hymenium: "Пластинки выемчатые или приросшие к ножке, часто с небольшим нисходящим зубцом, довольно редкие до умеренно частых и довольно широкие, с примесью более коротких. Вначале беловатые или с зеленоватым оттенком, при созревании спор грязно-розовые, а в местах повреждений становятся сине-зелёными. Край пластинок фертильный, без цистид. Базидии двух- или четырёхспоровые, около 28–60 × 9–16 мкм.",
+        stipe: "Ножка 20–80 мм длиной и 1–4 мм толщиной, цилиндрическая или слегка сплюснутая, иногда расширенная к основанию, полая и ломкая. Гладкая и блестящая, ярко-зелёная до жёлто-зелёной, позже буроватая, особенно к основанию, а при прикосновении или надломе быстро становится тёмно-сине-зелёной. Основание покрыто белым войлочным мицелием. Кольца нет.",
+        flesh: "Мякоть тонкая и ломкая, светло-зелёная до оливковой, на разрезе или при повреждении становится сине-зелёной, особенно в основании ножки. Запах неприятный, обычно описывается как мышиный или палёного рога, иногда ещё сырный или потный, но у некоторых экземпляров слабый или отсутствует. Вкус от мягкого до неприятного.",
+        sporePrint: "Розовый до буровато-розового. Споры угловатые, с 6–9 углами, неправильных очертаний, в основном около 10,5–13 × 7,5–9,5 мкм, указывается и более широкий диапазон 7–14 мкм, неамилоидные.",
+        habitat: "Сапротрофный гриб, хотя некоторые авторы считают его образ жизни неясным. Растёт поодиночке или небольшими группами в траве и мхе на неудобренной, бедной питательными веществами, чаще всего известковой почве, на лугах, пастбищах, дюнах, газонах и обочинах дорог, реже в светлых лесах, на полянах и вдоль лесных дорог, а в Альпах поднимается до субальпийского пояса. Плодовые тела появляются главным образом с июня по октябрь, иногда до ноября.",
+        uses: "Несъедобен. Многие авторы считают его ядовитым или подозревают это, другие указывают лишь, что он несъедобен, а из-за мелких размеров, неприятного запаха и редкости он в любом случае не имеет ценности для стола.",
+        confusion: "Ярко-зелёная ножка, которая от прикосновения становится сине-зелёной, мышиный запах и розовый споровый отпечаток отличают его от большинства мелких луговых грибов. У Entoloma pleopodium шляпка лимонно-жёлтая, ножка темнее, буроватая, при повреждении цвет не меняется, запах сладкий, фруктовый. Entoloma chlorophyllum не имеет запаха, ножка у неё ломкая, со слегка клубневидным, бело-войлочным основанием. У Hygrocybe psittacina шляпка и ножка слизистые или клейкие, шляпка никогда не бывает пупковидной, а споровый отпечаток белый. Clitocybe odora тоже зелёная, но пахнет анисом и имеет белый споровый отпечаток. Entoloma verae невооружённым глазом неотличима и распознаётся только под микроскопом по несколько более крупным спорам, в среднем 12,5 × 8 мкм против 10,5 × 7,5 мкм.",
+        notes: "Индикатор неудобренных, богатых известью лугов. Национальные красные списки оценивают его как близкий к угрожаемому состоянию (Near Threatened) в Норвегии, Дании и Швеции и как находящийся под угрозой исчезновения (Endangered) в Чехии и Нидерландах, он значится и в Красной книге Литвы; основные причины — удобрение и зарастание лугов, а также прекращение выпаса и сенокошения. Почти идентичный вид, Entoloma verae, описан лишь в 2021 году, поэтому более старые находки могут относиться к обоим видам."
+      },
+      sr: {
+        description: "Мала, витка гљива са пупкастим, мутнозеленим до маслинастосмеђим клобуком, листићима који постају ружичасти када споре сазру и јарком жутозеленом дршком која на додир постаје модрозелена. Мирише на мишеве. Расте у малим групама на ненађубреним травњацима богатим кречом, а понекад у проређеним шумама; раширена је, али локална у Европи, Азији и Северној Америци.",
+        cap: "Клобук је широк 10–40 mm, понекад мањи или до око 60 mm, у почетку полулоптаст, звонаст или купаст, затим испупчен до раван, обично са удубљеним, пупкастим средиштем. Ивица је по влажном времену провидно пругаста до отприлике половине полупречника. Површина је свиленкаста и радијално влакнаста, у средини фино пахуљаста или љускава, маслинастозелена, жутозелена, маслинастосмеђа или жућкаста, понекад лимунскожута или црвенкастосмеђа, а обично тамнија у средини. По сувом времену боје брзо бледе у смеђкасте или жућкасте, па сама боја клобука није поуздана.",
+        hymenium: "Листићи су урезани или прирасли уз дршку, често са малим спуштеним зубићем, прилично ретки до умерено густи и прилично широки, измешани са краћима. У младости су беличасти или зеленкасто прошарани, кад споре сазру прљаворужичасти, а на оштећењима поприме модрозелену боју. Оштрица листића је плодна и без цистида. Базидије су двоспорне или четвороспорне, величине око 28–60 × 9–16 μm.",
+        stipe: "Дршка је дугачка 20–80 mm и дебела 1–4 mm, ваљкаста или благо спљоштена, понекад шира при дну, шупља и ломљива. Глатка је и сјајна, јаркозелена до жутозелена, касније смеђкаста, нарочито при дну, а на додир или при ломљењу брзо постане тамна модрозелена. Подножје је прекривено белим, филцаним мицелијумом. Прстена нема.",
+        flesh: "Месо је танко и ломљиво, светлозелено до маслинасто, а на пресеку или оштећењу постаје модрозелено, нарочито у подножју дршке. Мирис је непријатан, обично описан као мирис мишева или паљеног рога, понекад и сира или зноја, али је код неких примерака слаб или изостаје. Укус је благ до непријатан.",
+        sporePrint: "Ружичаст до смеђкасторужичаст. Споре су угласте, са 6–9 углова, неправилног обриса, углавном величине око 10,5–13 × 7,5–9,5 μm, а наводи се и шири распон од 7–14 μm; неамилоидне су.",
+        habitat: "Сапротрофна гљива, иако неки аутори њен начин живота сматрају несигурним. Расте појединачно или у малим групама у трави и маховини на ненађубреном, хранљивим материјама сиромашном, најчешће кречњачком тлу, на ливадама, пашњацима, динама, травњацима и поред путева, ређе у проређеним шумама, на чистинама и поред шумских путева, а у Алпима допире до субалпског појаса. Плодоносна тела се јављају углавном од јуна до октобра, повремено до новембра.",
+        uses: "Нејестива. Многи аутори је сматрају отровном или то сумњају, други је наводе само као нејестиву, а због ситне величине, непријатног мириса и реткости за сто је ионако безвредна.",
+        confusion: "Јаркозелена дршка која на додир постаје модрозелена, мирис мишева и ружичаст отисак спора разликују је од већине ситних травњачких гљива. Entoloma pleopodium има лимунскожут клобук, тамнију, смеђкасту дршку, не мења боју при оштећењу и слатко, воћно мирише. Entoloma chlorophyllum је без мириса и има ломљиву дршку са благо кртоластим, бело филцаним подножјем. Hygrocybe psittacina има слузав или лепљив клобук и дршку, клобук јој никад није пупкаст, а отисак спора је бео. Clitocybe odora је такође зелена, али мирише на анис и има бели отисак спора. Entoloma verae је голим оком идентична и разликује се само микроскопом, по нешто већим спорама, у просеку 12,5 × 8 μm наспрам 10,5 × 7,5 μm.",
+        notes: "Показатељ ненађубрених травњака богатих кречом. Национални црвени спискови процењују је као скоро угрожену (Near Threatened) у Норвешкој, Данској и Шведској и као угрожену (Endangered) у Чешкој и Холандији, а налази се и у Црвеној књизи Литваније; главни узроци су ђубрење и зарастање травњака и прекид испаше и косидбе. Готово идентична врста, Entoloma verae, описана је тек 2021, па старији налази могу обухватати обе врсте."
+      },
+      sl: {
+        description: "Majhna, vitka goba s popkastim, medlo zelenim do olivnorjavim klobukom, lističi, ki ob zorenju trosov postanejo rožnati, in živo rumenozelenim betom, ki se ob dotiku obarva modrozeleno. Diši po miših. Raste v majhnih skupinah na negnojenih, apnenčastih travnikih in včasih v svetlih gozdovih; razširjena je, a krajevna v Evropi, Aziji in Severni Ameriki.",
+        cap: "Klobuk je širok 10–40 mm, včasih manjši ali do približno 60 mm, sprva polkrogelast, zvonast ali stožčast, nato izbočen do raven, običajno z vdrtim, popkastim središčem. Rob je v vlažnem vremenu presevno progast do približno polovice polmera. Površina je svilnata in radialno vlaknata, v sredini drobno kosmičasta ali luskasta, olivnozelena, rumenozelena, olivnorjava ali rumenkasta, včasih limonastorumena ali rdečkastorjava, običajno temnejša v sredini. V suhem vremenu barve hitro obledijo v rjavkaste ali rumenkaste, zato sama barva klobuka ni zanesljiva.",
+        hymenium: "Lističi so izrezani ali priraščeni na bet, pogosto z majhnim spuščajočim se zobcem, precej redki do zmerno gosti in precej široki, med njimi so krajši lističi. Sprva so belkasti ali zelenkasto obarvani, ob zorenju trosov umazano rožnati, na poškodovanih mestih pa se obarvajo modrozeleno. Rob lističev je plodan in brez cistid. Bazidiji so dvotrosni ali štiritrosni, veliki približno 28–60 × 9–16 μm.",
+        stipe: "Bet je dolg 20–80 mm in debel 1–4 mm, valjast ali rahlo sploščen, včasih pri dnu razširjen, votel in krhek. Je gladek in sijoč, živo zelen do rumenozelen, pozneje rjavkast, zlasti pri dnu, ob dotiku ali prelomu pa hitro postane temno modrozelen. Dno prekriva bel, polstast micelij. Obroča ni.",
+        flesh: "Meso je tanko in krhko, svetlo zeleno do olivno, ob prerezu ali poškodbi postane modrozeleno, zlasti v dnu beta. Vonj je neprijeten, običajno opisan kot po miših ali zažganem rogu, včasih tudi po siru ali znoju, pri nekaterih primerkih pa je šibek ali ga ni. Okus je blag do neprijeten.",
+        sporePrint: "Rožnat do rjavkasto rožnat. Trosi so kotni, s 6–9 koti, nepravilnih obrisov, večinoma veliki približno 10,5–13 × 7,5–9,5 μm, navaja se tudi širši razpon 7–14 μm, in niso amiloidni.",
+        habitat: "Saprotrofna goba, čeprav nekateri avtorji njen način življenja imajo za negotov. Raste posamič ali v majhnih skupinah v travi in mahu na negnojenih, s hranili revnih, večinoma apnenčastih tleh, na travnikih, pašnikih, sipinah, tratah in ob cestah, redkeje v svetlih gozdovih, na jasah in ob gozdnih poteh, v Alpah pa sega do subalpinskega pasu. Trosnjaki se pojavljajo predvsem od junija do oktobra, občasno do novembra.",
+        uses: "Neužitna. Mnogi avtorji jo imajo za strupeno ali to domnevajo, drugi jo navajajo le kot neužitno, zaradi majhnosti, neprijetnega vonja in redkosti pa je za mizo tako ali tako brez vrednosti.",
+        confusion: "Živo zeleni bet, ki se ob dotiku obarva modrozeleno, vonj po miših in rožnat trosni prah jo ločijo od večine majhnih travniških gob. Entoloma pleopodium ima limonastorumen klobuk, temnejši, rjavkast bet, ob poškodbi ne spremeni barve in diši sladko, sadno. Entoloma chlorophyllum je brez vonja in ima krhek bet z rahlo gomoljasto, belo polstasto bazo. Hygrocybe psittacina ima sluzast ali lepljiv klobuk in bet, klobuk nikoli ni popkast, trosni prah pa je bel. Clitocybe odora je prav tako zelena, a diši po janižu in ima bel trosni prah. Entoloma verae je s prostim očesom enaka in se loči le pod mikroskopom po nekoliko večjih trosih, povprečno 12,5 × 8 μm nasproti 10,5 × 7,5 μm.",
+        notes: "Kazalnik negnojenih, apnenčastih travnikov. Nacionalni rdeči seznami jo ocenjujejo kot skoraj ogroženo (Near Threatened) na Norveškem, Danskem in Švedskem ter kot ogroženo (Endangered) na Češkem in Nizozemskem, uvrščena pa je tudi v rdečo knjigo Litve; glavni vzroki so gnojenje in zaraščanje travnikov ter opustitev paše in košnje. Skoraj enaka vrsta, Entoloma verae, je bila opisana šele leta 2021, zato starejše najdbe lahko zajemajo obe vrsti."
+      },
+      es: {
+        description: "Un hongo pequeño y esbelto, con el sombrero umbilicado de color verde apagado a pardo oliváceo, las láminas que se vuelven rosadas cuando maduran las esporas y un pie verde amarillento intenso que se torna verde azulado al tocarlo. Huele a ratones. Crece en pequeños grupos en pastizales sin abonar ricos en cal y a veces en bosques abiertos, y está extendido pero localizado por Europa, Asia y América del Norte.",
+        cap: "El sombrero mide 10–40 mm de ancho, a veces menos o hasta unos 60 mm, al principio hemisférico, campanulado o cónico, luego convexo a plano, normalmente con el centro deprimido o umbilicado. El margen es estriado por transparencia con tiempo húmedo, hasta aproximadamente la mitad del radio. La superficie es sedosa y radialmente fibrosa, finamente escamosa o con copos en el centro, de color verde oliva, verde amarillento, pardo oliváceo o amarillento, a veces amarillo limón o pardo rojizo, y por lo general más oscura en el centro. Con tiempo seco los colores se decoloran rápido a pardusco o amarillento, de modo que el color del sombrero por sí solo no es fiable.",
+        hymenium: "Las láminas son escotadas o adnadas al pie, a menudo con un pequeño diente decurrente, bastante separadas a moderadamente apretadas y bastante anchas, mezcladas con laminillas más cortas. Al principio son blanquecinas o teñidas de verde, luego rosa sucio cuando maduran las esporas, y se manchan de verde azulado donde se dañan. El filo es fértil y sin cistidios. Los basidios tienen dos o cuatro esporas y miden unos 28–60 × 9–16 μm.",
+        stipe: "El pie mide 20–80 mm de largo y 1–4 mm de grosor, cilíndrico o ligeramente aplanado, a veces ensanchado hacia la base, hueco y quebradizo. Es liso y brillante, de verde intenso a verde amarillento, luego pardusco, sobre todo hacia la base, y se torna rápidamente verde azulado oscuro cuando se manipula o se rompe. La base está cubierta de un micelio blanco afieltrado. No tiene anillo.",
+        flesh: "La carne es delgada y frágil, de verde claro a oliva, y se vuelve verde azulada al cortarla o dañarla, sobre todo en la base del pie. El olor es desagradable y suele describirse como a ratones o a cuerno quemado, a veces también a queso o a sudor, pero en unos pocos ejemplares es débil o falta. El sabor es suave a desagradable.",
+        sporePrint: "Rosa a rosa parduzco. Las esporas son angulosas, con 6–9 ángulos, de contorno irregular, casi siempre de unos 10,5–13 × 7,5–9,5 μm, aunque se cita un intervalo más amplio de 7–14 μm, y no amiloides.",
+        habitat: "Un hongo saprótrofo, aunque algunos autores consideran incierto su modo de vida. Crece solitario o en pequeños grupos entre la hierba y el musgo, en suelo sin abonar, pobre en nutrientes y por lo general rico en cal, en prados, pastos, dunas, céspedes y bordes de caminos, y con menos frecuencia en bosques abiertos, claros y senderos forestales, y en los Alpes llega hasta el piso subalpino. Los cuerpos fructíferos aparecen sobre todo de junio a octubre y ocasionalmente hasta noviembre.",
+        uses: "No comestible. Muchos autores lo consideran venenoso o sospechan que lo es, otros solo lo indican como no comestible, y por su tamaño pequeño, su olor desagradable y su escasez carece de valor para la mesa en cualquier caso.",
+        confusion: "El pie verde intenso que se vuelve verde azulado al tocarlo, el olor a ratones y la esporada rosa lo distinguen de la mayoría de los pequeños hongos de pastizal. Entoloma pleopodium tiene el sombrero amarillo limón, el pie más oscuro y pardusco, no cambia de color al dañarse y huele dulce y afrutado. Entoloma chlorophyllum no tiene olor y presenta un pie quebradizo con la base algo bulbosa y afieltrada de blanco. Hygrocybe psittacina tiene el sombrero y el pie viscosos o pegajosos, un sombrero que nunca es umbilicado y esporada blanca. Clitocybe odora también es verde, pero huele a anís y tiene esporada blanca. Entoloma verae es idéntico a simple vista y solo se distingue al microscopio, por esporas algo mayores, de 12,5 × 8 μm de media frente a 10,5 × 7,5 μm.",
+        notes: "Un indicador de pastizales sin abonar ricos en cal. Las listas rojas nacionales lo califican como casi amenazado (Near Threatened) en Noruega, Dinamarca y Suecia y como en peligro (Endangered) en Chequia y los Países Bajos, y figura en el Libro Rojo de Lituania; las causas principales son el abonado y el embastecimiento de los pastizales y el fin del pastoreo y la siega. Una especie casi idéntica, Entoloma verae, se describió solo en 2021, por lo que las citas antiguas pueden incluir ambas."
+      },
+      sv: {
+        description: "En liten, smal svamp med navlad, matt grön till olivbrun hatt, skivor som blir rosa när sporerna mognar och en klar gröngul fot som blir blågrön vid beröring. Den luktar mus. Den växer i små grupper på ogödslad, kalkrik gräsmark och ibland i öppen skog och är vitt spridd men lokal i Europa, Asien och Nordamerika.",
+        cap: "Hatten är 10–40 mm bred, ibland mindre eller upp till omkring 60 mm, först halvklotformig, klockformig eller konisk, sedan välvd till flat, vanligen med nedsänkt, navelliknande mitt. Kanten är genomskinligt strimmig i fuktigt väder, ungefär halvvägs in mot mitten. Ytan är silkeslen och radiellt trådig, finflockig eller fjällig i mitten och olivgrön, gulgrön, olivbrun eller gulaktig, ibland citrongul eller rödbrun, och vanligen mörkare i mitten. I torrt väder bleknar färgerna snabbt till brunaktiga eller gulaktiga, så hattens färg ensam är otillförlitlig.",
+        hymenium: "Skivorna är utbuktade eller fastväxta, ofta med en liten tand som löper ned på foten, ganska glesa till måttligt tätt sittande och ganska breda, blandade med kortare skivor. De är först vitaktiga eller grönaktigt anlupna, sedan smutsrosa när sporerna mognar, och de fläckas blågröna där de skadas. Skivseggen är fertil och utan cystider. Basidierna har två eller fyra sporer och mäter omkring 28–60 × 9–16 μm.",
+        stipe: "Foten är 20–80 mm lång och 1–4 mm tjock, cylindrisk eller något tillplattad, ibland vidgad mot basen, ihålig och spröd. Den är slät och blank, klargrön till gröngul, senare brunaktig, särskilt mot basen, och blir snabbt mörkt blågrön där den berörs eller bryts. Basen är täckt av vitt, filtigt mycel. Ring saknas.",
+        flesh: "Köttet är tunt och sprött, ljusgrönt till olivfärgat, och blir blågrönt vid snitt eller skada, kraftigast i fotbasen. Lukten är obehaglig och beskrivs oftast som mus eller bränt horn, ibland också som ostaktig eller svettig, men den är svag eller saknas hos några få exemplar. Smaken är mild till obehaglig.",
+        sporePrint: "Rosa till brunaktigt rosa. Sporerna är kantiga med 6–9 hörn, oregelbundna i omrisset, för det mesta omkring 10,5–13 × 7,5–9,5 μm, med ett vidare uppgivet intervall på 7–14 μm, och inte amyloida.",
+        habitat: "En saprotrof svamp, även om vissa författare anser att dess levnadssätt är osäkert. Den växer ensam eller i små grupper i gräs och mossa på ogödslad, näringsfattig, oftast kalkrik mark, på ängar, betesmarker, sanddyner, gräsmattor och vägkanter, och mer sällan i öppen skog, gläntor och längs skogsstigar, och i Alperna når den upp i den subalpina zonen. Fruktkropparna uppträder huvudsakligen från juni till oktober och ibland till november.",
+        uses: "Inte ätlig. Många författare anser att den är giftig eller misstänker det, andra anger den bara som oätlig, och på grund av sin ringa storlek, obehagliga lukt och sällsynthet är den ändå värdelös som matsvamp.",
+        confusion: "Den klargröna foten som blir blågrön vid beröring, lukten av mus och det rosa sporavtrycket skiljer den från de flesta små gräsmarkssvampar. Entoloma pleopodium har citrongul hatt, mörkare brunaktig fot, ändrar inte färg vid skada och luktar sött och fruktigt. Entoloma chlorophyllum är luktlös och har en spröd fot med lätt knölig, vitfiltad bas. Hygrocybe psittacina har slemmig eller klibbig hatt och fot, en hatt som aldrig är navlad, och vitt sporavtryck. Clitocybe odora är också grön men luktar anis och har vitt sporavtryck. Entoloma verae ser likadan ut med blotta ögat och skiljs bara åt under mikroskop genom något större sporer, i genomsnitt 12,5 × 8 μm mot 10,5 × 7,5 μm.",
+        notes: "En indikatorart för ogödslad, kalkrik gräsmark. Nationella rödlistor bedömer den som nära hotad (Near Threatened) i Norge, Danmark och Sverige och som starkt hotad (Endangered) i Tjeckien och Nederländerna, och den finns med i Litauens röda bok; de viktigaste orsakerna är gödsling och igenväxning av gräsmark samt att bete och slåtter upphör. En nästan identisk art, Entoloma verae, beskrevs först 2021, så äldre fynd kan omfatta båda arterna."
+      },
+      tr: {
+        description: "Küçük, ince yapılı bir mantardır; şapkası göbekli ve soluk yeşilden zeytin kahvesine kadar değişir, lamelleri sporlar olgunlaşınca pembeleşir, sapı ise parlak sarımsı yeşildir ve dokunulduğunda mavimsi yeşile döner. Fare kokar. Gübrelenmemiş, kireççe zengin çayırlarda küçük gruplar halinde, bazen de seyrek ormanlarda yetişir; Avrupa'da, Asya'da ve Kuzey Amerika'da yaygındır ancak yerel olarak bulunur.",
+        cap: "Şapka 10–40 mm çapındadır, bazen daha küçük ya da yaklaşık 60 mm'ye kadar çıkar; önce yarım küre, çan ya da koni biçimlidir, sonra dışbükey ile düz arasında bir şekil alır ve genellikle ortası çukur, göbek biçimindedir. Kenarı nemli havada yarıçapın yaklaşık yarısına kadar saydam çizgilidir. Yüzeyi ipeksi ve ışınsal liflidir, ortada ince pullu ya da pul pul dökülür; zeytin yeşili, sarımsı yeşil, zeytin kahvesi ya da sarımsıdır, bazen limon sarısı ya da kırmızımsı kahverengidir ve genellikle ortada daha koyudur. Kuru havada renkler hızla kahverengimsiye ya da sarımsıya solar, bu yüzden tek başına şapka rengi güvenilir değildir.",
+        hymenium: "Lameller sapa girintili ya da yapışıktır, çoğunlukla sapa inen küçük bir dişle; oldukça seyrek ile orta sıklıkta, oldukça geniştir ve aralarında daha kısa lameller bulunur. Gençken beyazımsı ya da yeşilimsi tonludur, spor olgunlaşınca kirli pembeleşir ve zedelenen yerlerde mavimsi yeşile boyanır. Lamel kenarı verimlidir ve sistid taşımaz. Bazidler iki ya da dört sporludur ve yaklaşık 28–60 × 9–16 μm boyundadır.",
+        stipe: "Sap 20–80 mm uzunluğunda ve 1–4 mm kalınlığındadır, silindirik ya da hafif yassıdır, bazen tabana doğru genişler, boş ve kırılgandır. Pürüzsüz ve parlaktır, canlı yeşilden sarımsı yeşile kadar değişir, sonra özellikle tabana doğru kahverengileşir; dokunulduğunda ya da kırıldığında hızla koyu mavimsi yeşile döner. Tabanı beyaz, keçemsi bir miselyumla kaplıdır. Halka yoktur.",
+        flesh: "Et ince ve kırılgandır, açık yeşilden zeytin yeşiline kadar değişir; kesildiğinde ya da zedelendiğinde, özellikle sap tabanında, mavimsi yeşile döner. Koku hoş değildir, çoğunlukla fare ya da yanık boynuz kokusu olarak anlatılır, bazen de peynirimsi ya da ter kokusu gibidir; ancak bazı örneklerde zayıftır ya da hiç yoktur. Tadı yumuşaktan hoş olmayana kadar değişir.",
+        sporePrint: "Pembeden kahverengimsi pembeye. Sporlar köşelidir, 6–9 köşeye sahiptir, ana hatları düzensizdir, çoğunlukla yaklaşık 10,5–13 × 7,5–9,5 μm'dir; 7–14 μm gibi daha geniş bir aralık da bildirilmiştir; amiloid değildir.",
+        habitat: "Saprotrof bir mantardır; ancak bazı yazarlar beslenme biçimini belirsiz sayar. Tek tek ya da küçük gruplar halinde, gübrelenmemiş, besin bakımından fakir, çoğunlukla kireçli toprakta, çayırlarda, meralarda, kum tepelerinde, çimenlerde ve yol kenarlarında, daha az sıklıkla seyrek ormanlarda, açıklıklarda ve orman yolları boyunca ot ve yosun arasında yetişir; Alpler'de alt alpin kuşağa kadar çıkar. Meyve gövdeleri çoğunlukla haziran–ekim arasında, ara sıra kasım ayına kadar görülür.",
+        uses: "Yenmez. Birçok yazar onu zehirli sayar ya da öyle olduğundan şüphelenir, bazıları ise yalnızca yenmez olarak belirtir; küçük boyutu, hoş olmayan kokusu ve nadir bulunması nedeniyle sofra için zaten değersizdir.",
+        confusion: "Dokunulunca mavimsi yeşile dönen canlı yeşil sap, fare kokusu ve pembe spor baskısı onu çoğu küçük çayır mantarından ayırır. Entoloma pleopodium'un şapkası limon sarısıdır, sapı daha koyu ve kahverengimsidir, zedelenince renk değiştirmez ve tatlı, meyvemsi kokar. Entoloma chlorophyllum kokusuzdur; sapı kırılgandır, tabanı hafif soğansı ve beyaz keçemsidir. Hygrocybe psittacina'nın şapkası ve sapı balgamsı ya da yapışkandır, şapkası hiçbir zaman göbekli değildir ve spor baskısı beyazdır. Clitocybe odora da yeşildir, ancak anason kokar ve spor baskısı beyazdır. Entoloma verae çıplak gözle aynıdır ve yalnızca mikroskop altında, biraz daha büyük sporlarla ayırt edilir; ortalama 12,5 × 8 μm'ye karşılık 10,5 × 7,5 μm.",
+        notes: "Gübrelenmemiş, kireççe zengin çayırların gösterge türüdür. Ulusal kırmızı listeler onu Norveç, Danimarka ve İsveç'te tehdide yakın (Near Threatened), Çekya ve Hollanda'da ise tehlikede (Endangered) olarak değerlendirir ve Litvanya Kırmızı Kitabı'nda yer alır; başlıca nedenler çayırların gübrelenmesi ve çalılaşması ile otlatma ve biçmenin sona ermesidir. Neredeyse aynı olan Entoloma verae ancak 2021'de tanımlanmıştır, bu yüzden daha eski kayıtlar her iki türü de kapsıyor olabilir."
+      },
+      uk: {
+        description: "Невеликий тонкий гриб з пупкоподібно вдавленим, тьмяно-зеленим до оливково-бурим капелюшком, пластинками, що рожевіють у міру дозрівання спор, і яскравою зеленувато-жовтою ніжкою, яка від дотику стає синьо-зеленою. Пахне мишами. Росте невеликими групами на неудобрених, багатих на вапно луках, а іноді в рідких лісах; поширений, але локальний у Європі, Азії та Північній Америці.",
+        cap: "Капелюшок має 10–40 мм у поперечнику, іноді менше або до 60 мм, спочатку напівкулястий, дзвоникоподібний або конічний, потім опуклий до плоского, зазвичай із вдавленим, пупкоподібним центром. Край у вологу погоду просвічено-смугастий приблизно до половини радіуса. Поверхня шовковиста й радіально-волокниста, у центрі дрібнолускувата або пластівчаста, оливково-зелена, жовто-зелена, оливково-бура або жовтувата, іноді лимонно-жовта або червонувато-бура, зазвичай темніша в центрі. У суху погоду забарвлення швидко вицвітає до буруватого або жовтуватого, тому лише колір капелюшка ненадійний.",
+        hymenium: "Пластинки виїмчасті або приросли до ніжки, часто з невеликим збіжним зубцем, досить рідкі до помірно частих і досить широкі, з домішкою коротших. Спочатку білуваті або із зеленуватим відтінком, при дозріванні спор брудно-рожеві, а в місцях пошкоджень стають синьо-зеленими. Край пластинок фертильний, без цистид. Базидії дво- або чотириспорові, близько 28–60 × 9–16 мкм.",
+        stipe: "Ніжка 20–80 мм завдовжки та 1–4 мм завтовшки, циліндрична або трохи сплюснута, іноді розширена до основи, порожниста й ламка. Гладенька й блискуча, яскраво-зелена до жовто-зеленої, згодом буруватіє, особливо до основи, а від дотику чи зламу швидко стає темно-синьо-зеленою. Основа вкрита білим повстистим міцелієм. Кільця немає.",
+        flesh: "М'якуш тонкий і ламкий, світло-зелений до оливкового, на розрізі чи при пошкодженні стає синьо-зеленим, особливо в основі ніжки. Запах неприємний, зазвичай описується як мишачий або паленого рогу, іноді також сирний чи потовий, але в деяких екземплярів слабкий або відсутній. Смак від м'якого до неприємного.",
+        sporePrint: "Рожевий до буровато-рожевого. Спори кутасті, з 6–9 кутами, неправильних обрисів, переважно близько 10,5–13 × 7,5–9,5 мкм, зазначається й ширший діапазон 7–14 мкм, неамілоїдні.",
+        habitat: "Сапротрофний гриб, хоча деякі автори вважають його спосіб життя неясним. Росте поодинці або невеликими групами в траві та моху на неудобреному, бідному на поживні речовини, здебільшого вапняковому ґрунті, на луках, пасовищах, дюнах, газонах і узбіччях доріг, рідше в рідких лісах, на галявинах і вздовж лісових доріг, а в Альпах підіймається до субальпійського поясу. Плодові тіла з'являються переважно з червня по жовтень, іноді до листопада.",
+        uses: "Неїстівний. Багато авторів вважають його отруйним або підозрюють це, інші зазначають лише, що він неїстівний, а через дрібні розміри, неприємний запах і рідкісність він у будь-якому разі не має цінності для столу.",
+        confusion: "Яскраво-зелена ніжка, що від дотику стає синьо-зеленою, мишачий запах і рожевий відбиток спор відрізняють його від більшості дрібних лучних грибів. У Entoloma pleopodium капелюшок лимонно-жовтий, ніжка темніша, буруватого відтінку, при пошкодженні колір не змінюється, запах солодкий, фруктовий. Entoloma chlorophyllum не має запаху, ніжка в нього ламка, з трохи бульбоподібною, біло-повстистою основою. У Hygrocybe psittacina капелюшок і ніжка слизові або липкі, капелюшок ніколи не буває пупкоподібним, а відбиток спор білий. Clitocybe odora теж зеленого кольору, але пахне анісом і має білий відбиток спор. Entoloma verae неозброєним оком не відрізняється, а розпізнається лише під мікроскопом за дещо більшими спорами, у середньому 12,5 × 8 мкм проти 10,5 × 7,5 мкм.",
+        notes: "Індикатор неудобрених, багатих на вапно лучних угідь. Національні червоні списки оцінюють його як близький до загрозливого (Near Threatened) у Норвегії, Данії та Швеції і як зникаючий (Endangered) у Чехії та Нідерландах, він значиться й у Червоній книзі Литви; основні причини — удобрення й заростання лучних угідь, а також припинення випасу та сінокосіння. Майже ідентичний вид, Entoloma verae, описано лише 2021 року, тому давніші знахідки можуть стосуватися обох видів."
+      }
+    },
+    sources: {
+      en: [
+        {
+          "group": "name",
+          "name": "First Nature",
+          "href": "https://www.first-nature.com/fungi/entoloma-incanum.php"
+        },
+        {
+          "group": "name",
+          "name": "MushroomExpert.Com",
+          "href": "https://www.mushroomexpert.com/entoloma_incanum.html"
+        },
+        {
+          "group": "text",
+          "name": "de.wikipedia",
+          "href": "https://de.wikipedia.org/wiki/Braungr%C3%BCner_Z%C3%A4rtling"
+        },
+        {
+          "group": "name",
+          "name": "Artsdatabanken",
+          "href": "https://lister.artsdatabanken.no/rodlisteforarter/2021/16771",
+          "detail": "Near Threatened, 2021"
+        },
+        {
+          "group": "name",
+          "name": "Index Fungorum",
+          "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=330489",
+          "detail": "330489"
+        },
+        {
+          "group": "name",
+          "name": "Species Fungorum",
+          "href": "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=330489",
+          "detail": "330489"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8842718",
+          "detail": "8842718"
+        }
+      ],
+      sk: [
+        {
+          "group": "text",
+          "name": "nahuby.sk",
+          "href": "https://www.nahuby.sk/atlas-hub/Entoloma-incanum/hodvabnica-zelenohlubikova/zavojenka-plavozelenava/ID114",
+          "detail": "hodvábnica zelenohlúbiková"
+        }
+      ],
+      ar: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8842718",
+          "detail": "8842718"
+        }
+      ],
+      bg: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8842718",
+          "detail": "8842718"
+        }
+      ],
+      zh: [
+        {
+          "group": "name",
+          "name": "蘑菇云 moguyun",
+          "href": "https://www.moguyun.vip/2/22/E/Entoloma.html"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8842718",
+          "detail": "8842718"
+        }
+      ],
+      hr: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8842718",
+          "detail": "8842718"
+        }
+      ],
+      cs: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://cs.wikipedia.org/wiki/Z%C3%A1vojenka_plavozelenav%C3%A1"
+        },
+        {
+          "group": "text",
+          "name": "Česká mykologická společnost",
+          "href": "https://www.myko.cz/myko-atlas/Entoloma-incanum/"
+        }
+      ],
+      da: [
+        {
+          "group": "text",
+          "name": "Naturbasen",
+          "href": "https://www.naturbasen.dk/art/13839/groengul-roedblad",
+          "detail": "grøngul rødblad"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8842718",
+          "detail": "8842718"
+        }
+      ],
+      nl: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://nl.wikipedia.org/wiki/Groensteelsatijnzwam"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8842718",
+          "detail": "8842718"
+        }
+      ],
+      et: [
+        {
+          "group": "text",
+          "name": "Vikipeedia",
+          "href": "https://et.wikipedia.org/wiki/Roheline_punalehik"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8842718",
+          "detail": "8842718"
+        }
+      ],
+      fi: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://fi.wikipedia.org/wiki/Viherrusokas"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8842718",
+          "detail": "8842718"
+        }
+      ],
+      fr: [
+        {
+          "group": "text",
+          "name": "Mycocharentes",
+          "href": "https://www.mycocharentes.fr/pdf1/1566.pdf"
+        },
+        {
+          "group": "text",
+          "name": "SMNF",
+          "href": "https://www.smnf.fr/wp-content/Photos_SMNF/Photos_SMNF_E/Entoloma_incanum.htm"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8842718",
+          "detail": "8842718"
+        }
+      ],
+      de: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://de.wikipedia.org/wiki/Braungr%C3%BCner_Z%C3%A4rtling"
+        },
+        {
+          "group": "text",
+          "name": "DGfM, Pilz des Jahres 2013",
+          "href": "https://www.dgfm-ev.de/de/ueber-uns/news/pilz-des-jahres-2013-braungruener-zaertling"
+        }
+      ],
+      he: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8842718",
+          "detail": "8842718"
+        }
+      ],
+      hi: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8842718",
+          "detail": "8842718"
+        }
+      ],
+      hu: [
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://hu.wikipedia.org/wiki/Z%C3%B6ldes_pitykegomba"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8842718",
+          "detail": "8842718"
+        }
+      ],
+      id: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8842718",
+          "detail": "8842718"
+        }
+      ],
+      it: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://it.wikipedia.org/wiki/Entoloma_incanum"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8842718",
+          "detail": "8842718"
+        }
+      ],
+      ja: [
+        {
+          "group": "text",
+          "name": "日本きのこ学会 / キノコの写真・解説",
+          "href": "https://s-kinokonokai.sakura.ne.jp/kinoko/common/wakakusaurabenitake.htm",
+          "detail": "ワカクサウラベニタケ"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8842718",
+          "detail": "8842718"
+        }
+      ],
+      ko: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8842718",
+          "detail": "8842718"
+        }
+      ],
+      lv: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8842718",
+          "detail": "8842718"
+        }
+      ],
+      lt: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://lt.wikipedia.org/wiki/%C5%BDalsvoji_gijabud%C4%97"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8842718",
+          "detail": "8842718"
+        }
+      ],
+      no: [
+        {
+          "group": "name",
+          "name": "Artsdatabanken",
+          "href": "https://lister.artsdatabanken.no/rodlisteforarter/2021/16771"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8842718",
+          "detail": "8842718"
+        }
+      ],
+      fa: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8842718",
+          "detail": "8842718"
+        }
+      ],
+      pl: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://pl.wikipedia.org/wiki/Dzwonk%C3%B3wka_br%C4%85zowozielona"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8842718",
+          "detail": "8842718"
+        }
+      ],
+      pt: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8842718",
+          "detail": "8842718"
+        }
+      ],
+      ro: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://ro.wikipedia.org/wiki/Entoloma_incanum"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8842718",
+          "detail": "8842718"
+        }
+      ],
+      ru: [
+        {
+          "group": "text",
+          "name": "Википедия",
+          "href": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BD%D1%82%D0%BE%D0%BB%D0%BE%D0%BC%D0%B0_%D1%81%D0%B5%D0%B4%D0%B0%D1%8F"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8842718",
+          "detail": "8842718"
+        }
+      ],
+      sr: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8842718",
+          "detail": "8842718"
+        }
+      ],
+      sl: [
+        {
+          "group": "name",
+          "name": "Gobarsko društvo Lisička Maribor",
+          "href": "https://www.gobe.si/Gobe/EntolomaIncanum"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8842718",
+          "detail": "8842718"
+        }
+      ],
+      es: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8842718",
+          "detail": "8842718"
+        }
+      ],
+      sv: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://sv.wikipedia.org/wiki/Gr%C3%B6nnopping"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8842718",
+          "detail": "8842718"
+        }
+      ],
+      tr: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8842718",
+          "detail": "8842718"
+        }
+      ],
+      uk: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8842718",
+          "detail": "8842718"
+        }
+      ]
+    },
+    synonyms: [
+      "Agaricus incanus Fr.",
+      "Leptonia incana (Fr.) Gillet",
+      "Nolanea incana (Fr.) Fayod",
+      "Hyporrhodius incanus (Fr.) Henn.",
+      "Rhodophyllus incanus (Fr.) E.Horak",
+      "Agaricus murinus Sowerby",
+      "Agaricus sowerbyi Berk.",
+      "Agaricus euchlorus Lasch",
+      "Leptonia euchlora (Lasch) P.Kumm.",
+      "Rhodophyllus euchlorus (Lasch) Quél.",
+      "Nolanea euchlora (Lasch) Fayod",
+      "Hyporrhodius euchlorus (Lasch) Henn."
+    ]
   }
 ];

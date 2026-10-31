@@ -121,7 +121,6 @@ const YEAR_LIST_GAPS = [
   ['mushroom-of-the-year-de', 2009, 'Terana caerulea'],
   ['mushroom-of-the-year-de', 2010, 'Cortinarius praestans'],
   ['mushroom-of-the-year-de', 2012, 'Cantharellus cinereus'],
-  ['mushroom-of-the-year-de', 2013, 'Entoloma incanum'],
   ['mushroom-of-the-year-de', 2025, 'Clavaria zollingeri'],
   ['mushroom-of-the-year-at', 2016, 'Hapalopilus croceus'],
   ['mushroom-of-the-year-at', 2017, 'Bovista paludosa'],
