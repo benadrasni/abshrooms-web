@@ -511,5 +511,20 @@ export const TAXA = {
   Clathrus: {
     rank: "genus",
     sk: "mrežovka"
+  },
+  Leotiomycetes: {
+    rank: "class"
+  },
+  Leotiomycetidae: {
+    rank: "subclass"
+  },
+  Helotiales: {
+    rank: "order"
+  },
+  Cenangiaceae: {
+    rank: "family"
+  },
+  Mitrula: {
+    rank: "genus"
   }
 };

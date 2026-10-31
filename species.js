@@ -69239,5 +69239,938 @@ export const CATALOG = [
       "Amanita umbrina Pers.",
       "Amanita emilii Riel"
     ]
+  },
+  {
+    id: 87,
+    name: "Mitrula paludosa",
+    author: "Fr.",
+    family: "Cenangiaceae",
+    genus: "Mitrula",
+    order: "Helotiales",
+    edibility: "inedible",
+    hymenium: "smooth",
+    where: [
+      "ground",
+      "wood"
+    ],
+    color: [
+      "yellow"
+    ],
+    path: [
+      "Fungi",
+      "Dikarya",
+      "Ascomycota",
+      "Pezizomycotina",
+      "Leotiomycetes",
+      "Leotiomycetidae",
+      "Helotiales",
+      "Cenangiaceae",
+      "Mitrula"
+    ],
+    summary: ["Helotiales", "Cenangiaceae", "Mitrula"],
+    added: "2026-10-31",
+    plate: STORAGE + "photos/Helotiales/Cenangiaceae/Mitrula_paludosa/Mitrula_paludosa@1600.webp",
+    plateGrid: STORAGE + "photos/Helotiales/Cenangiaceae/Mitrula_paludosa/Mitrula_paludosa@400.webp",
+    plateCredit: {
+      author: "James Sowerby",
+      license: "public domain",
+      source: "https://commons.wikimedia.org/wiki/File:Coloured_Figures_of_English_Fungi_or_Mushrooms_-_t._293.jpg"
+    },
+    photos: [
+      {
+        src: STORAGE + "photos/Helotiales/Cenangiaceae/Mitrula_paludosa/mp1.webp",
+        author: "Jerzy Opioła",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Mitrula_paludosa_a1_(5).jpg"
+      },
+      {
+        src: STORAGE + "photos/Helotiales/Cenangiaceae/Mitrula_paludosa/mp2.webp",
+        author: "Lukas",
+        license: "CC BY-SA 2.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0",
+        source: "https://commons.wikimedia.org/wiki/File:Mitrula_paludosa_(33993388380).jpg"
+      },
+      {
+        src: STORAGE + "photos/Helotiales/Cenangiaceae/Mitrula_paludosa/mp3.webp",
+        author: "Björn S...",
+        license: "CC BY-SA 2.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0",
+        source: "https://commons.wikimedia.org/wiki/File:Mitrula_paludosa_(34756559931).jpg"
+      },
+      {
+        src: STORAGE + "photos/Helotiales/Cenangiaceae/Mitrula_paludosa/mp4.webp",
+        author: "Svencapoeira",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Pisipahtlik3.jpg"
+      },
+      {
+        src: STORAGE + "photos/Helotiales/Cenangiaceae/Mitrula_paludosa/mp5.webp",
+        author: "Derek Harper",
+        license: "CC BY-SA 2.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0",
+        source: "https://commons.wikimedia.org/wiki/File:Mitrula_paludosa_amid_Sphagnum_-_geograph.org.uk_-_1274714.jpg"
+      },
+      {
+        src: STORAGE + "photos/Helotiales/Cenangiaceae/Mitrula_paludosa/mp6.webp",
+        author: "Amada44",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Mitrula_paludosa_0897.jpg"
+      }
+    ],
+    capFrom: 0.3,
+    capTo: 1,
+    stipeHeightFrom: 2,
+    stipeHeightTo: 5,
+    stipeThickFrom: 0.1,
+    stipeThickTo: 0.3,
+    fruitingFrom: 4,
+    fruitingTo: 9,
+    label: {
+      en: "bog beacon",
+      sk: "čiapočka močiarna",
+      bg: "блатна митрула",
+      hr: "močvarna kapuljača",
+      cs: "čapulka bahenní",
+      da: "gul nøkketunge",
+      nl: "Beekmijtertje",
+      et: "pisipahtlik",
+      fi: "keltanupikka",
+      fr: "mitrule des marais",
+      de: "Sumpf-Haubenpilz",
+      hu: "mocsári sapkásgomba",
+      ja: "カンムリタケ",
+      ko: "습지등불버섯",
+      lv: "purvu micīte",
+      lt: "pelkinė mitrulė",
+      no: "sumpklubbemorkel",
+      pl: "mitróweczka błotna",
+      ru: "митрула болотная",
+      sl: "močvirska kapica",
+      sv: "klubbmurkling"
+    },
+    names: {
+      en: ["swamp beacon"]
+    },
+    text: {
+      en: {
+        description: "A small saprotrophic ascomycete that grows singly or in dense colonies on rotting plant debris in shallow, clean water. It is widespread but local in the cool temperate zone of Europe, North America and Japan, and the same colony can fruit at one spot for many years.",
+        cap: "The fertile head is smooth, glossy, hollow and brittle, bright yellow to golden or orange-yellow, and it fades with age. It is club-shaped, ovoid, spindle-shaped or cylindrical, often irregularly lobed or wrinkled, 5–30 mm tall and up to 10 mm wide, and it is sharply set off from the stipe. Rare white forms are known.",
+        hymenium: "The hymenium covers the smooth surface of the head. The asci stand among thread-like paraphyses, which are septate, sometimes branched, and slightly swollen at the tips.",
+        stipe: "The stipe is cylindrical, 20–50 mm long and occasionally up to 80 mm, and 1–3 mm thick. It is hollow, smooth and brittle, translucent white to whitish or greyish, sometimes tinged with pink, and slightly sticky when wet. The base is sometimes light brown. The whole fruit body is 2–8 cm tall.",
+        flesh: "The flesh is watery, waxy, translucent and thin, with no distinctive odour or taste.",
+        sporePrint: "White. The ascospores are cylindrical to narrowly ellipsoid or slightly spindle-shaped, smooth, hyaline and thin-walled, 10–19 × 2–4 μm. They contain oil drops, usually have no septum, and often develop a central septum when mature. The asci are cylindrical to club-shaped, 90–150 × 6–9 μm, eight-spored, with a weakly amyloid tip, and the spores lie in two irregular rows.",
+        habitat: "It grows on rotting leaves, needles, twigs, cones, mosses including Sphagnum, and algae in bogs, swamps, alder carrs, springs, ditches, woodland streams and the margins of pools, mostly in standing or slowly flowing water, partly submerged or with only the head above the surface. It favours shaded sites with nutrient-poor, oxygen-rich water and is more frequent at higher altitudes. Fruit bodies usually appear from April to September, sometimes as early as March in mild years, and again in autumn in Japan. They grow in groups of up to hundreds that form orange carpets.",
+        uses: "It is too small and thin-fleshed to be of culinary interest and is treated as inedible.",
+        confusion: "Vibrissea truncorum has a finely scaly stipe with a blackish tinge and a differently shaped head, and it grows on twigs that rise out of the water. Spathularia flavida is larger, with a flattened, spatula-shaped, paler yellow head without orange tones, and it grows under conifers in less wet sites. Heyderia abietis has a reddish stipe and a buff head, and it grows in damp places under fir and spruce. Cudoniella clavus is paler, with a more disc-shaped head. Several related Mitrula species can be told apart only under the microscope.",
+        notes: "Regarded as a sign of clean water. It is rare in many countries and is on national red lists, for example as critically endangered in Bulgaria and as vulnerable in Poland."
+      },
+      sk: {
+        description: "Malá saprotrofná vreckatá huba, ktorá rastie jednotlivo alebo v hustých skupinách na odumretých rastlinných zvyškoch v plytkej čistej vode. Je rozšírená, no lokálna v chladnejšom miernom pásme Európy, Severnej Ameriky a Japonska a tá istá kolónia môže na jednom mieste plodiť mnoho rokov.",
+        cap: "Plodná hlavička je hladká, lesklá, dutá a krehká, jasnožltá až zlatožltá alebo oranžovožltá, s vekom vyblednutá. Je kyjovitá, vajcovitá, vretenovitá alebo valcovitá, často nepravidelne laločnatá alebo zvraskatená, vysoká 5–30 mm a široká do 10 mm, od hlúbika je ostro oddelená. Poznajú sa vzácne biele formy.",
+        hymenium: "Výtrusorodá vrstva pokrýva hladký povrch hlavičky. Vrecká sú medzi niťovitými parafýzami, ktoré sú priehradkované, niekedy rozvetvené a na vrcholoch mierne zhrubnuté.",
+        stipe: "Hlúbik je valcovitý, 20–50 mm dlhý, výnimočne až 80 mm, a 1–3 mm hrubý. Je dutý, hladký a krehký, priesvitne biely až belavý alebo sivastý, niekedy s ružovým nádychom, a za vlhka mierne lepkavý. Báza je niekedy svetlohnedá. Celá plodnica je vysoká 2–8 cm.",
+        flesh: "Dužina je vodnatá, voskovitá, priesvitná a tenká, bez výraznej vône a chuti.",
+        sporePrint: "Výtrusný prach je biely. Askospóry sú valcovité až úzko elipsoidné alebo mierne vretenovité, hladké, hyalínne a tenkostenné, veľké 10–19 × 2–4 μm. Obsahujú olejové kvapky, väčšinou nemajú priehradku a často sa im pri dozrievaní vytvorí priehradka v strede. Vrecká sú valcovité až kyjovité, 90–150 × 6–9 μm, osemvýtrusové, so slabo amyloidným vrcholom, výtrusy ležia v dvoch nepravidelných radoch.",
+        habitat: "Rastie na zhnitých listoch, ihliciach, vetvičkách, šiškách, machoch vrátane rašeliníkov a na riasach v rašeliniskách, močiaroch, jelšinách, prameniskách, priekopách, lesných potokoch a na okrajoch mlák, väčšinou v stojatej alebo pomaly tečúcej vode, čiastočne ponorená alebo s hlavičkou nad hladinou. Uprednostňuje tienisté miesta s vodou chudobnou na živiny a bohatou na kyslík a častejšie sa vyskytuje vo vyšších polohách. Plodnice zvyčajne rastú od apríla do septembra, v miernych rokoch aj od marca, a v Japonsku znova na jeseň. Rastú v skupinách až po stovky plodníc, ktoré vytvárajú oranžové koberce.",
+        uses: "Je príliš malá a tenkomäsitá na kuchynské využitie a považuje sa za nejedlú.",
+        confusion: "Vibrissea truncorum má jemne šupinatý hlúbik s čiernastým nádychom a inak tvarovanú hlavičku a rastie na konárikoch vyčnievajúcich z vody. Spathularia flavida je väčšia, s plochou, lopatkovitou, svetlejšie žltou hlavičkou bez oranžových tónov a rastie pod ihličnanmi na menej vlhkých miestach. Heyderia abietis má červenkastý hlúbik a bledožltohnedú hlavičku a rastie na vlhkých miestach pod jedľami a smrekmi. Cudoniella clavus je bledšia, s viac kotúčovitou hlavičkou. Viaceré príbuzné druhy rodu Mitrula sa dajú rozlíšiť len pod mikroskopom.",
+        notes: "Považuje sa za ukazovateľa čistej vody. V mnohých krajinách je vzácna a je zapísaná v národných červených zoznamoch, napríklad ako kriticky ohrozený druh (Critically Endangered) v Bulharsku a ako zraniteľný druh (Vulnerable) v Poľsku."
+      },
+      ar: {
+        description: "فطر زقّي صغير رمّي، ينمو منفردًا أو في مستعمرات كثيفة على بقايا نباتية متعفنة في مياه ضحلة نظيفة. وهو واسع الانتشار لكنه موضعي في النطاق المعتدل البارد من أوروبا وأمريكا الشمالية واليابان، ويمكن للمستعمرة نفسها أن تُثمر في الموضع ذاته سنوات عديدة.",
+        cap: "الرأس الخصب أملس لامع مجوّف وهش، لونه أصفر ساطع إلى أصفر ذهبي أو أصفر برتقالي ويبهت مع التقدم في العمر. شكله هراوي أو بيضاوي أو مغزلي أو أسطواني، وغالبًا ما يكون مفصّصًا أو مجعّدًا على نحو غير منتظم، ارتفاعه ٥–٣٠ مم وعرضه حتى ١٠ مم، ويتميز بحدة عن الساق. وتُعرف أشكال بيضاء نادرة.",
+        hymenium: "يغطي الغشاء الخصب السطح الأملس للرأس. وتقع الأكياس الزقية بين خيوط عقيمة خيطية الشكل، مقسّمة بحواجز وقد تتفرع أحيانًا، وأطرافها منتفخة قليلًا.",
+        stipe: "الساق أسطواني طوله ٢٠–٥٠ مم وقد يصل أحيانًا إلى ٨٠ مم، وسمكه ١–٣ مم. وهو مجوّف أملس هش، أبيض شفاف إلى مبيضّ أو رمادي، وقد يكون فيه مسحة وردية، ويصبح لزجًا قليلًا عند الرطوبة. وقاعدته بنية فاتحة أحيانًا. ويبلغ ارتفاع الجسم الثمري كله ٢–٨ سم.",
+        flesh: "اللحم مائي شمعي شفاف ورقيق، بلا رائحة أو طعم مميزين.",
+        sporePrint: "أبيض. الأبواغ الزقية أسطوانية إلى إهليلجية ضيقة أو مغزلية قليلًا، ملساء شفافة رقيقة الجدار، حجمها ١٠–١٩ × ٢–٤ ميكرومتر. وتحتوي على قطرات زيت، وغالبًا لا حاجز فيها، وكثيرًا ما يتكون فيها حاجز مركزي عند النضج. أما الأكياس الزقية فأسطوانية إلى هراوية، حجمها ٩٠–١٥٠ × ٦–٩ ميكرومتر، ثمانية الأبواغ، وقمتها أميلويدية ضعيفًا، وتترتب الأبواغ فيها في صفين غير منتظمين.",
+        habitat: "ينمو على الأوراق والإبر والأغصان الصغيرة والمخاريط المتعفنة وعلى الحزازيات ومنها السفاغنوم وعلى الطحالب في المستنقعات الخثية والمستنقعات وغابات الألدر المستنقعية والينابيع والخنادق والجداول الحرجية وحواف البرك، وغالبًا في ماء راكد أو بطيء الجريان، مغمورًا جزئيًا أو لا يظهر فوق السطح إلا رأسه. ويفضّل المواضع الظليلة ذات الماء الفقير بالمغذيات والغني بالأكسجين، ويكثر في المرتفعات. وتظهر الأجسام الثمرية عادةً من أبريل إلى سبتمبر، وأحيانًا منذ مارس في السنوات المعتدلة، ومرة أخرى في الخريف في اليابان. وتنمو في مجموعات تصل إلى مئات الأجسام تشكّل بُسُطًا برتقالية.",
+        uses: "صغير جدًا ولحمه رقيق، فلا قيمة له في الطهي ويُعدّ غير صالح للأكل.",
+        confusion: "يتميّز Vibrissea truncorum بساق دقيقة القشور فيها مسحة سوداء ورأس مختلف الشكل، وينمو على أغصان صغيرة ترتفع من الماء. أما Spathularia flavida فأكبر، رأسه مسطح ملعقي الشكل وأفتح اصفرارًا بلا درجات برتقالية، وينمو تحت الصنوبريات في مواضع أقل رطوبة. ولدى Heyderia abietis ساق محمرّة ورأس بلون كريمي مصفرّ، وينمو في أماكن رطبة تحت أشجار التنوب والشوح. ويتميز Cudoniella clavus بأنه أشحب لونًا ورأسه أقرب إلى القرص. وبعض أنواع Mitrula القريبة لا يمكن تمييزها إلا بالمجهر.",
+        notes: "يُعدّ علامة على نظافة المياه. وهو نادر في بلدان كثيرة ومدرج في قوائم حمراء وطنية، فمثلًا هو مهدد بالانقراض بشدة (Critically Endangered) في بلغاريا ومعرّض للخطر (Vulnerable) في بولندا."
+      },
+      bg: {
+        description: "Дребна сапротрофна торбеста гъба, която расте единично или на гъсти групи по гниещи растителни остатъци в плитка чиста вода. Широко разпространена е, но на отделни места, в хладната умерена зона на Европа, Северна Америка и Япония, а една и съща колония може да образува плодни тела на едно място много години.",
+        cap: "Плодовата главичка е гладка, лъскава, куха и крехка, ярко жълта до златиста или оранжевожълта, като с възрастта избледнява. Тя е бухалковидна, яйцевидна, вретеновидна или цилиндрична, често неправилно дялана или набръчкана, висока 5–30 mm и широка до 10 mm, и е рязко обособена от дръжката. Известни са редки бели форми.",
+        hymenium: "Хименият покрива гладката повърхност на главичката. Аскусите са разположени между нишковидни парафизи, които са с прегради, понякога разклонени и с леко задебелени връхчета.",
+        stipe: "Дръжката е цилиндрична, дълга 20–50 mm, понякога до 80 mm, и дебела 1–3 mm. Тя е куха, гладка и крехка, полупрозрачно бяла до белезникава или сивкава, понякога с розов оттенък, и леко лепкава при влага. Основата е понякога светлокафява. Цялото плодно тяло е високо 2–8 cm.",
+        flesh: "Месото е водянисто, восъчно, полупрозрачно и тънко, без характерна миризма и вкус.",
+        sporePrint: "Бял. Аскоспорите са цилиндрични до тясноелипсовидни или леко вретеновидни, гладки, безцветни и тънкостенни, с размери 10–19 × 2–4 μm. Съдържат маслени капки, обикновено нямат преграда, а при зрялост често образуват преграда по средата. Аскусите са цилиндрични до бухалковидни, 90–150 × 6–9 μm, с по осем спори и слабо амилоиден връх, като спорите са наредени на два неправилни реда.",
+        habitat: "Расте по гниещи листа, иглички, клонки, шишарки, мъхове, включително сфагнум, и водорасли в торфени блата, мочурища, елшови гори, извори, канавки, горски потоци и по краищата на локви, най-често в стоящи или бавно течащи води, частично потопена или само с главичката над повърхността. Предпочита сенчести места с бедна на хранителни вещества и богата на кислород вода и е по-честа във високите части. Плодните тела се появяват обикновено от април до септември, понякога още през март в меки години, а в Япония и отново през есента. Растат на групи до стотици плодни тела, които образуват оранжеви килими.",
+        uses: "Твърде е дребна и тънкомесеста за кулинарна употреба и се счита за негодна за ядене.",
+        confusion: "Vibrissea truncorum има ситнопулеста дръжка с почернял оттенък и главичка с друга форма и расте по клонки, стърчащи от водата. Spathularia flavida е по-голяма, с сплескана, лопатовидна, по-бледожълта главичка без оранжеви нюанси и расте под иглолистни дървета на по-малко влажни места. Heyderia abietis има червеникава дръжка и бледожълтеникавокафява главичка и расте на влажни места под ела и смърч. Cudoniella clavus е по-бледа, с по-дисковидна главичка. Няколко сродни вида Mitrula се различават само под микроскоп.",
+        notes: "Смята се за показател за чиста вода. В много страни е рядка и е включена в национални червени списъци, например като критично застрашен вид (Critically Endangered) в България и като уязвим вид (Vulnerable) в Полша."
+      },
+      zh: {
+        description: "一種小型的腐生子囊菌，單生或密集成群生長於淺而清澈的水中腐爛的植物殘體上。它廣泛分布，但在歐洲、北美洲和日本的冷溫帶地區零星出現，同一群落可在同一地點連年結實。",
+        cap: "可孕的頭部光滑、有光澤、中空而易碎，鮮黃色至金黃色或橙黃色，老時褪色。呈棒狀、卵形、紡錘形或圓柱形，常有不規則的裂瓣或皺褶，高5–30毫米，寬可達10毫米，與菌柄界線分明。已知有罕見的白色型。",
+        hymenium: "子實層覆蓋頭部光滑的表面。子囊位於絲狀的側絲之間，側絲有隔膜，有時分枝，頂端略膨大。",
+        stipe: "菌柄圓柱形，長20–50毫米，偶爾可達80毫米，粗1–3毫米。中空、光滑而易碎，半透明白色至白色偏灰，有時帶粉紅色調，潮濕時略黏。基部有時呈淺褐色。整個子實體高2–8公分。",
+        flesh: "菌肉水質、蠟質、半透明而薄，無特殊的氣味和味道。",
+        sporePrint: "白色。子囊孢子圓柱形至狹橢圓形或略呈紡錘形，光滑、透明、壁薄，大小10–19 × 2–4 μm。內含油滴，通常無隔膜，成熟時常在中央形成一個隔膜。子囊圓柱形至棒狀，90–150 × 6–9 μm，內含八個孢子，頂端呈微弱的澱粉質反應，孢子排成兩列不規則的行。",
+        habitat: "生於泥沼、沼澤、赤楊沼澤林、泉水、溝渠、林間溪流和水塘邊緣的腐爛葉片、針葉、小枝、毬果、苔蘚（包括泥炭蘚）和藻類上，多在靜止或緩流的水中，部分沒入水中，或只有頭部露出水面。喜歡陰暗、貧營養而富含氧氣的水域，在海拔較高處更常見。子實體通常於4月至9月出現，溫和的年份有時早至3月，在日本秋季也會再次出現。它們成群生長，多達數百個，形成橙色的地毯。",
+        uses: "體型太小、菌肉太薄，沒有食用價值，被視為不可食用。",
+        confusion: "Vibrissea truncorum 的菌柄帶有細小鱗片並帶黑色調，頭部形狀不同，生於伸出水面的小枝上。Spathularia flavida 較大，頭部扁平呈匙狀，黃色較淡，沒有橙色調，生於針葉樹下較不潮濕之處。Heyderia abietis 的菌柄帶紅色，頭部呈淡黃褐色，生於冷杉和雲杉下的潮濕處。Cudoniella clavus 顏色較淡，頭部更接近盤狀。數個近緣的 Mitrula 種類只能在顯微鏡下區分。",
+        notes: "被視為水質清潔的指標。它在許多國家罕見，並被列入國家紅色名錄，例如在保加利亞為極危（Critically Endangered），在波蘭為易危（Vulnerable）。"
+      },
+      hr: {
+        description: "Mala saprotrofna askomiceta koja raste pojedinačno ili u gustim skupinama na trulim biljnim ostacima u plitkoj čistoj vodi. Rasprostranjena je, ali lokalna u hladnom umjerenom pojasu Europe, Sjeverne Amerike i Japana, a ista kolonija može na istom mjestu raditi plodišta mnogo godina.",
+        cap: "Plodna glavica je glatka, sjajna, šuplja i krhka, jarkožuta do zlatnožuta ili narančastožuta, a s godinama blijedi. Buzdovanasta je, jajasta, vretenasta ili valjkasta, često nepravilno režnjevita ili naborana, visoka 5–30 mm i široka do 10 mm te je oštro odvojena od stručka. Poznati su rijetki bijeli oblici.",
+        hymenium: "Plodni sloj prekriva glatku površinu glavice. Askusi stoje među končastim parafizama, koje su pregrađene, ponekad razgranate i na vrhovima blago zadebljane.",
+        stipe: "Stručak je valjkast, dug 20–50 mm, katkad do 80 mm, i debeo 1–3 mm. Šupalj je, gladak i krhak, prozirno bijel do bjelkast ili sivkast, ponekad s ružičastim prizvukom, a pri vlazi blago ljepljiv. Osnova je ponekad svijetlosmeđa. Cijelo plodište visoko je 2–8 cm.",
+        flesh: "Meso je vodenasto, voštano, prozirno i tanko, bez izrazitog mirisa i okusa.",
+        sporePrint: "Bijel. Askospore su valjkaste do usko elipsoidne ili blago vretenaste, glatke, hijaline i tankostijene, veličine 10–19 × 2–4 μm. Sadrže uljne kapljice, uglavnom nemaju pregradu, a pri zrelosti često dobiju pregradu na sredini. Askusi su valjkasti do buzdovanasti, 90–150 × 6–9 μm, osmerospori, sa slabo amiloidnim vrhom, a spore leže u dva nepravilna reda.",
+        habitat: "Raste na trulom lišću, iglicama, grančicama, češerima, mahovinama, uključujući tresetnu mahovinu (Sphagnum), i algama u tresetištima, močvarama, johovim močvarnim šumama, izvorima, jarcima, šumskim potocima i na rubovima lokvi, najčešće u stajaćoj ili sporo tekućoj vodi, djelomično potopljena ili samo s glavicom iznad površine. Voli sjenovita mjesta s vodom siromašnom hranjivim tvarima i bogatom kisikom, a češća je na većim nadmorskim visinama. Plodišta se obično pojavljuju od travnja do rujna, u blagim godinama ponekad već u ožujku, a u Japanu ponovno u jesen. Rastu u skupinama do nekoliko stotina plodišta koje čine narančaste sagove.",
+        uses: "Premalena je i pretankog mesa za kuhinjsku uporabu te se smatra nejestivom.",
+        confusion: "Vibrissea truncorum ima fino ljuskav stručak s crnkastim prizvukom i drukčije oblikovanu glavicu, a raste na grančicama koje strše iz vode. Spathularia flavida veća je, s plosnatom, lopatastom, svjetlije žutom glavicom bez narančastih tonova, a raste pod četinjačama na manje vlažnim mjestima. Heyderia abietis ima crvenkast stručak i blijedu žućkastosmeđu glavicu, a raste na vlažnim mjestima pod jelama i smrekama. Cudoniella clavus je blijeđa, s glavicom sličnijom disku. Nekoliko srodnih vrsta roda Mitrula može se razlikovati samo mikroskopom.",
+        notes: "Smatra se pokazateljem čiste vode. U mnogim je zemljama rijetka i nalazi se na nacionalnim crvenim popisima, na primjer kao kritično ugrožena vrsta (Critically Endangered) u Bugarskoj i kao osjetljiva vrsta (Vulnerable) u Poljskoj. Na Crvenom popisu gljiva Hrvatske ima kategoriju ugrožena vrsta (Endangered)."
+      },
+      cs: {
+        description: "Drobná saprotrofní vřeckovýtrusá houba, která roste jednotlivě nebo v hustých skupinách na tlejících rostlinných zbytcích v mělké čisté vodě. Je rozšířená, ale místní v chladnějším mírném pásu Evropy, Severní Ameriky a Japonska a stejná kolonie může na jednom místě plodit mnoho let.",
+        cap: "Plodná hlavice je hladká, lesklá, dutá a křehká, jasně žlutá až zlatožlutá nebo oranžovožlutá, s věkem bledne. Je kyjovitá, vejčitá, vřetenovitá nebo válcovitá, často nepravidelně laločnatá nebo svraskalá, vysoká 5–30 mm a široká do 10 mm a je ostře oddělená od třeně. Známé jsou vzácné bílé formy.",
+        hymenium: "Plodná vrstva pokrývá hladký povrch hlavice. Vřecka stojí mezi nitkovitými parafýzami, které jsou přehrádkované, někdy větvené a na koncích mírně ztluštělé.",
+        stipe: "Třeň je válcovitý, 20–50 mm dlouhý, výjimečně až 80 mm, a 1–3 mm tlustý. Je dutý, hladký a křehký, průsvitně bílý až bělavý nebo našedlý, někdy narůžovělý, a za vlhka mírně lepkavý. Báze je někdy světle hnědá. Celá plodnice je vysoká 2–8 cm.",
+        flesh: "Dužnina je vodnatá, voskovitá, průsvitná a tenká, bez výrazné vůně a chuti.",
+        sporePrint: "Bílý. Askospory jsou válcovité až úzce elipsoidní nebo mírně vřetenovité, hladké, hyalinní a tenkostěnné, 10–19 × 2–4 μm velké. Obsahují olejové kapky, obvykle nemají přepážku a při dozrávání často získají přepážku uprostřed. Vřecka jsou válcovitá až kyjovitá, 90–150 × 6–9 μm, osmivýtrusá, se slabě amyloidním vrcholem, a výtrusy leží ve dvou nepravidelných řadách.",
+        habitat: "Roste na tlejícím listí, jehličí, větvičkách, šiškách, mechu včetně rašeliníku a na řasách v rašeliništích, bažinách, olšinách, prameništích, příkopech, lesních potocích a na březích tůní, většinou ve stojaté nebo pomalu tekoucí vodě, částečně ponořená nebo jen s hlavicí nad hladinou. Dává přednost stinným místům s vodou chudou na živiny a bohatou na kyslík a častěji se vyskytuje ve vyšších polohách. Plodnice obvykle vyrůstají od dubna do září, v mírných letech někdy už v březnu, a v Japonsku znovu na podzim. Rostou ve skupinách až o stovkách plodnic, které tvoří oranžové koberce.",
+        uses: "Je příliš malá a tenkomasá pro kuchyňské využití a považuje se za nejedlou.",
+        confusion: "Vibrissea truncorum má jemně šupinatý třeň s načernalým nádechem a jinak tvarovanou hlavici a roste na větvičkách vyčnívajících z vody. Spathularia flavida je větší, s plochou, lopatkovitou, světleji žlutou hlavicí bez oranžových tónů a roste pod jehličnany na méně vlhkých místech. Heyderia abietis má načervenalý třeň a světle žlutohnědou hlavici a roste na vlhkých místech pod jedlemi a smrky. Cudoniella clavus je bledší, s hlavicí podobnější disku. Několik příbuzných druhů rodu Mitrula lze rozlišit jen mikroskopem.",
+        notes: "Považuje se za indikátor čisté vody. V mnoha zemích je vzácná a je zapsána v národních červených seznamech, například jako kriticky ohrožený druh (Critically Endangered) v Bulharsku a jako zranitelný druh (Vulnerable) v Polsku."
+      },
+      da: {
+        description: "En lille saprotrof sæksvamp, der vokser enkeltvis eller i tætte kolonier på rådnende plantedele i lavt, rent vand. Den er udbredt, men lokal i den kølige tempererede zone i Europa, Nordamerika og Japan, og den samme koloni kan bære frugtlegemer på samme sted i mange år.",
+        cap: "Det frugtbærende hoved er glat, blankt, hult og skørt, klart gult til gyldent eller orangegult, og det blegner med alderen. Det er køllformet, ægformet, spindelformet eller cylindrisk, ofte uregelmæssigt lappet eller rynket, 5–30 mm højt og op til 10 mm bredt, og det er skarpt afsat fra stokken. Sjældne hvide former er kendt.",
+        hymenium: "Hymeniet dækker hovedets glatte overflade. Sporesækkene (asci) står mellem trådformede parafyser, som har skillevægge, nogle gange er forgrenede og er lidt opsvulmede i spidserne.",
+        stipe: "Stokken er cylindrisk, 20–50 mm lang og undtagelsesvis op til 80 mm, og 1–3 mm tyk. Den er hul, glat og skør, gennemsigtigt hvid til hvidlig eller grålig, nogle gange med et lyserødt skær, og let klæbrig, når den er våd. Basis er nogle gange lysebrun. Hele frugtlegemet er 2–8 cm højt.",
+        flesh: "Kødet er vandigt, voksagtigt, gennemsigtigt og tyndt, uden udpræget lugt eller smag.",
+        sporePrint: "Hvidt. Askosporerne er cylindriske til smalt ellipsoide eller svagt spindelformede, glatte, farveløse og tyndvæggede, 10–19 × 2–4 μm. De indeholder oliedråber, har som regel ingen skillevæg og får ofte en skillevæg midt på, når de er modne. Sporesækkene er cylindriske til køllformede, 90–150 × 6–9 μm, otte-sporede, med en svagt amyloid spids, og sporerne ligger i to uregelmæssige rækker.",
+        habitat: "Den vokser på rådnende blade, nåle, kviste, kogler, mosser, herunder tørvemos, og alger i moser, sumpe, ellesumpe, kilder, grøfter, skovbække og ved kanten af vandhuller, mest i stillestående eller langsomt strømmende vand, delvis neddykket eller med kun hovedet over overfladen. Den foretrækker skyggefulde steder med næringsfattigt, iltrigt vand og er hyppigere i større højder. Frugtlegemerne optræder som regel fra april til september, i milde år nogle gange allerede i marts, og i Japan igen om efteråret. De vokser i grupper på op til hundredvis, som danner orange tæpper.",
+        uses: "Den er for lille og tyndkødet til at have kulinarisk interesse og betragtes som uspiselig.",
+        confusion: "Vibrissea truncorum har en fint skællet stok med et sortagtigt skær og et hoved med en anden form, og den vokser på kviste, der rager op af vandet. Spathularia flavida er større, med et fladtrykt, spatelformet, lysere gult hoved uden orange toner, og den vokser under nåletræer på mindre våde steder. Heyderia abietis har en rødlig stok og et lyst gulbrunt hoved, og den vokser på fugtige steder under ædelgran og gran. Cudoniella clavus er blegere, med et mere skiveformet hoved. Flere beslægtede Mitrula-arter kan kun skelnes under mikroskop.",
+        notes: "Anses for et tegn på rent vand. Den er sjælden i mange lande og står på nationale rødlister, for eksempel som kritisk truet (Critically Endangered) i Bulgarien og som sårbar (Vulnerable) i Polen."
+      },
+      nl: {
+        description: "Een kleine saprotrofe zakjeszwam die solitair of in dichte groepen groeit op rottend plantenmateriaal in ondiep, schoon water. Hij is wijdverbreid maar plaatselijk in de koele gematigde zone van Europa, Noord-Amerika en Japan, en dezelfde kolonie kan jarenlang op dezelfde plek vruchtlichamen vormen.",
+        cap: "De vruchtbare kop is glad, glanzend, hol en broos, helder geel tot goudgeel of oranjegeel, en verbleekt met de leeftijd. Hij is knotsvormig, eivormig, spoelvormig of cilindrisch, vaak onregelmatig gelobd of gerimpeld, 5–30 mm hoog en tot 10 mm breed, en scherp afgezet van de steel. Zeldzame witte vormen zijn bekend.",
+        hymenium: "Het hymenium bedekt het gladde oppervlak van de kop. De zakjes (asci) staan tussen draadvormige parafysen, die gesepteerd, soms vertakt en aan de top licht opgezwollen zijn.",
+        stipe: "De steel is cilindrisch, 20–50 mm lang en soms tot 80 mm, en 1–3 mm dik. Hij is hol, glad en broos, doorschijnend wit tot witachtig of grijsachtig, soms roze getint, en bij nat weer licht kleverig. De basis is soms lichtbruin. Het hele vruchtlichaam is 2–8 cm hoog.",
+        flesh: "Het vlees is waterig, wasachtig, doorschijnend en dun, zonder kenmerkende geur of smaak.",
+        sporePrint: "Wit. De ascosporen zijn cilindrisch tot smal ellipsoïde of licht spoelvormig, glad, kleurloos en dunwandig, 10–19 × 2–4 μm. Ze bevatten oliedruppels, hebben meestal geen tussenwand en vormen bij rijpheid vaak een tussenwand in het midden. De zakjes zijn cilindrisch tot knotsvormig, 90–150 × 6–9 μm, achtsporig, met een zwak amyloïde top, en de sporen liggen in twee onregelmatige rijen.",
+        habitat: "Hij groeit op rottende bladeren, naalden, takjes en kegels, op mossen, waaronder veenmos, en op algen in venen, moerassen, elzenbroekbossen, bronnen, sloten, bosbeken en langs de randen van poelen, meestal in stilstaand of langzaam stromend water, gedeeltelijk ondergedompeld of met alleen de kop boven het wateroppervlak. Hij geeft de voorkeur aan beschaduwde plaatsen met voedselarm, zuurstofrijk water en komt vaker voor op grotere hoogte. De vruchtlichamen verschijnen meestal van april tot september, in zachte jaren soms al in maart, en in Japan ook weer in de herfst. Ze groeien in groepen van wel honderden, die oranje tapijten vormen.",
+        uses: "Hij is te klein en te dunvlezig om culinair interessant te zijn en wordt als oneetbaar beschouwd.",
+        confusion: "Vibrissea truncorum heeft een fijn geschubde steel met een zwartachtige tint en een kop met een andere vorm, en groeit op takjes die boven het water uitsteken. Spathularia flavida is groter, met een afgeplatte, lepelvormige, lichter gele kop zonder oranje tinten, en groeit onder naaldbomen op minder natte plaatsen. Heyderia abietis heeft een roodachtige steel en een lichtgeelbruine kop en groeit op vochtige plaatsen onder zilverspar en fijnspar. Cudoniella clavus is bleker, met een meer schijfvormige kop. Enkele verwante Mitrula-soorten zijn alleen onder de microscoop te onderscheiden.",
+        notes: "Wordt beschouwd als een teken van schoon water. Hij is in veel landen zeldzaam en staat op nationale rode lijsten, bijvoorbeeld als kritiek bedreigd (Critically Endangered) in Bulgarije en als kwetsbaar (Vulnerable) in Polen. In Nederland is hij zeldzaam en staat hij als bedreigd op de Rode Lijst."
+      },
+      et: {
+        description: "Väike saprotroofne kottseen, mis kasvab üksikult või tihedates kolooniates madalas puhtas vees lagunevatel taimejäänustel. See on laialt levinud, kuid kohati esinev Euroopa, Põhja-Ameerika ja Jaapani jahedas parasvöötmes ning sama koloonia võib samas kohas vilja kanda mitu aastat.",
+        cap: "Viljakandev pea on sile, läikiv, õõnes ja rabe, erkkollane kuni kuldkollane või oranžikaskollane ning vananedes pleekub. See on nuijas, munajas, spindlikujuline või silindriline, sageli ebakorrapäraselt sagarane või kortsuline, 5–30 mm kõrge ja kuni 10 mm lai ning jalast järsult eraldunud. Teada on haruldasi valgeid vorme.",
+        hymenium: "Viljakandev kiht katab pea siledat pinda. Kotid (askused) asuvad niitjate paraafüüside vahel, mis on vaheseintega, mõnikord hargnenud ja tipus veidi paistes.",
+        stipe: "Jalg on silindriline, 20–50 mm pikk, harva kuni 80 mm, ja 1–3 mm jäme. See on õõnes, sile ja rabe, läbipaistvalt valge kuni valkjas või hallikas, mõnikord roosaka varjundiga, ning märjana kergelt kleepuv. Alus on mõnikord heleruske. Kogu viljakeha on 2–8 cm kõrge.",
+        flesh: "Viljaliha on vesine, vahajas, läbipaistev ja õhuke, ilma iseloomuliku lõhna ja maitseta.",
+        sporePrint: "Valge. Kottspoorid on silindrilised kuni kitsalt ellipsoidsed või veidi spindlikujulised, siledad, värvitud ja õhukese seinaga, 10–19 × 2–4 μm. Need sisaldavad õlitilku, tavaliselt puudub neil vahesein ning küpsena tekib neile sageli keskele vahesein. Kotid on silindrilised kuni nuijad, 90–150 × 6–9 μm, kaheksa eosega, nõrgalt amüloidse tipuga, ja eosed asetsevad kahes ebakorrapärases reas.",
+        habitat: "Kasvab lagunevatel lehtedel, okastel, okstel ja käbidel, sammaldel (sealhulgas turbasammaldel) ning vetikatel rabades, soodes, lepa-lodumetsades, allikates, kraavides, metsaojades ja lompide servades, enamasti seisvas või aeglaselt voolavas vees, osaliselt vee all või ainult peaga veepinnast kõrgemal. Eelistab varjulisi kohti, kus on toitainetevaene ja hapnikurikas vesi, ning on sagedasem kõrgemates piirkondades. Viljakehad ilmuvad tavaliselt aprillist septembrini, mahedatel aastatel vahel juba märtsis, ja Jaapanis uuesti sügisel. Nad kasvavad kuni sadadest viljakehadest koosnevates rühmades, mis moodustavad oranže vaipu.",
+        uses: "See on liiga väike ja õhukese viljalihaga, et olla köögis huvipakkuv, ning seda peetakse mittesöödavaks.",
+        confusion: "Vibrissea truncorum jalg on peenelt soomusjas ja mustjaspruuni varjundiga ning pea on teistsuguse kujuga; see kasvab veest väljaulatuvatel okstel. Spathularia flavida on suurem, tema pea on lame, labidakujuline ja heledama kollasega ilma oranži varjundita ning ta kasvab okaspuude all vähem märgades kohtades. Heyderia abietis jalg on punakas ja pea kahvatukollakaspruun ning ta kasvab niisketes kohtades nulgude ja kuuskede all. Cudoniella clavus on kahvatum ja tema pea on rohkem ketta kujuga. Mitu lähedast Mitrula liiki on eristatavad ainult mikroskoobi all.",
+        notes: "Peetakse puhta vee tunnuseks. See on paljudes riikides haruldane ja kantud riiklikesse punastesse nimekirjadesse, näiteks Bulgaarias kriitilises ohus liigina (Critically Endangered) ja Poolas ohualtis liigina (Vulnerable)."
+      },
+      fi: {
+        description: "Pieni saprotrofinen kotelosieni, joka kasvaa yksittäin tai tiheinä ryhminä lahoavilla kasvinjäänteillä matalassa, puhtaassa vedessä. Se on laajalle levinnyt mutta paikallinen Euroopan, Pohjois-Amerikan ja Japanin viileällä lauhkealla vyöhykkeellä, ja sama kasvusto voi tuottaa itiöemiä samalla paikalla monta vuotta.",
+        cap: "Itiöitä tuottava pää on sileä, kiiltävä, ontto ja hauras, kirkkaankeltainen tai kullankeltainen tai oranssinkeltainen, ja se vaalenee iän myötä. Se on nuijamainen, munamainen, karan muotoinen tai lieriömäinen, usein epäsäännöllisen liuskainen tai ryppyinen, 5–30 mm korkea ja enintään 10 mm leveä, ja se erottuu jyrkästi jalasta. Harvinaisia valkoisia muotoja tunnetaan.",
+        hymenium: "Itiölava peittää pään sileän pinnan. Kotelot ovat lankamaisten parafyysien välissä; parafyysit ovat väliseinällisiä, joskus haarautuneita ja kärjistään hieman paksuuntuneita.",
+        stipe: "Jalka on lieriömäinen, 20–50 mm pitkä, joskus jopa 80 mm, ja 1–3 mm paksu. Se on ontto, sileä ja hauras, läpikuultavan valkoinen tai valkeahko tai harmahtava, joskus vaaleanpunertava, ja märkänä hieman tahmea. Tyvi on joskus vaaleanruskea. Koko itiöemä on 2–8 cm korkea.",
+        flesh: "Malto on vetistä, vahamaista, läpikuultavaa ja ohutta, eikä sillä ole erityistä hajua tai makua.",
+        sporePrint: "Valkoinen. Kotelosienen itiöt ovat lieriömäisiä tai kapean soikeita tai hieman karamaisia, sileitä, värittömiä ja ohutseinäisiä, 10–19 × 2–4 μm. Ne sisältävät öljypisaroita, niissä ei yleensä ole väliseinää, ja kypsinä niihin muodostuu usein keskiseinä. Kotelot ovat lieriömäisiä tai nuijamaisia, 90–150 × 6–9 μm, kahdeksanitiöisiä ja kärjestään heikosti amyloidisia, ja itiöt ovat niissä kahdessa epäsäännöllisessä rivissä.",
+        habitat: "Se kasvaa lahoavilla lehdillä, neulasilla, oksilla ja kävyillä, sammalilla, muun muassa rahkasammalilla, ja levillä soilla, rämeillä, tervaleppäkorvissa, lähteillä, ojissa, metsäpuroissa ja lammikoiden reunoilla, enimmäkseen seisovassa tai hitaasti virtaavassa vedessä, osittain veden alla tai vain pää veden pinnan yläpuolella. Se suosii varjoisia paikkoja, joissa vesi on ravinneköyhää ja happirikasta, ja on yleisempi korkeammilla seuduilla. Itiöemät ilmestyvät yleensä huhtikuusta syyskuuhun, leutoina vuosina joskus jo maaliskuussa, ja Japanissa myös uudelleen syksyllä. Ne kasvavat jopa satojen itiöemien ryhmissä, jotka muodostavat oransseja mattoja.",
+        uses: "Se on liian pieni ja ohutlihainen ruokasieneksi, ja sitä pidetään syömäkelvottomana.",
+        confusion: "Vibrissea truncorum jalka on hienosuomuinen ja mustahtava ja pää on erimuotoinen; se kasvaa vedestä kohoavilla oksilla. Spathularia flavida on suurempi, ja sen pää on litteä, lapamainen ja vaaleamman keltainen ilman oranssia sävyä; se kasvaa havupuiden alla vähemmän märillä paikoilla. Heyderia abietis jalka on punertava ja pää vaalean kellanruskea, ja se kasvaa kosteilla paikoilla pihtojen ja kuusten alla. Cudoniella clavus on vaaleampi, ja sen pää on enemmän levymäinen. Useita lähisukuisia Mitrula-lajeja voi erottaa toisistaan vain mikroskoopilla.",
+        notes: "Sitä pidetään puhtaan veden merkkinä. Se on monissa maissa harvinainen ja kuuluu kansallisiin punaisiin listoihin, esimerkiksi Bulgariassa äärimmäisen uhanalaisena (Critically Endangered) ja Puolassa vaarantuneena (Vulnerable)."
+      },
+      fr: {
+        description: "Petit ascomycète saprotrophe qui pousse isolément ou en colonies denses sur des débris végétaux en décomposition dans une eau claire et peu profonde. Il est répandu mais localisé dans la zone tempérée fraîche d'Europe, d'Amérique du Nord et du Japon, et la même colonie peut fructifier au même endroit pendant de nombreuses années.",
+        cap: "La tête fertile est lisse, brillante, creuse et cassante, jaune vif à jaune doré ou jaune orangé, et elle pâlit avec l'âge. Elle est en massue, ovoïde, fusiforme ou cylindrique, souvent irrégulièrement lobée ou ridée, haute de 5 à 30 mm et large jusqu'à 10 mm, et nettement distincte du pied. De rares formes blanches sont connues.",
+        hymenium: "L'hyménium recouvre la surface lisse de la tête. Les asques se dressent parmi des paraphyses filiformes, cloisonnées, parfois ramifiées et légèrement renflées à l'extrémité.",
+        stipe: "Le pied est cylindrique, long de 20 à 50 mm et parfois jusqu'à 80 mm, et épais de 1 à 3 mm. Il est creux, lisse et cassant, blanc translucide à blanchâtre ou grisâtre, parfois teinté de rose, et légèrement visqueux par temps humide. La base est parfois brun clair. L'ensemble du carpophore mesure 2 à 8 cm de haut.",
+        flesh: "La chair est aqueuse, cireuse, translucide et mince, sans odeur ni saveur particulières.",
+        sporePrint: "Blanche. Les ascospores sont cylindriques à étroitement ellipsoïdes ou légèrement fusiformes, lisses, hyalines et à paroi mince, de 10–19 × 2–4 µm. Elles contiennent des gouttelettes d'huile, n'ont généralement pas de cloison et en développent souvent une, centrale, à maturité. Les asques sont cylindriques à claviformes, de 90–150 × 6–9 µm, à huit spores, avec un apex faiblement amyloïde, et les spores y sont disposées sur deux rangs irréguliers.",
+        habitat: "Il pousse sur des feuilles, des aiguilles, des brindilles et des cônes en décomposition, sur des mousses, dont les sphaignes, et sur des algues, dans les tourbières, les marais, les aulnaies marécageuses, les sources, les fossés, les ruisseaux forestiers et en bordure de mares, le plus souvent dans une eau stagnante ou à faible courant, partiellement immergé ou avec seulement la tête au-dessus de la surface. Il préfère les endroits ombragés où l'eau est pauvre en éléments nutritifs et riche en oxygène, et il est plus fréquent en altitude. Les carpophores apparaissent généralement d'avril à septembre, parfois dès mars lors des années douces, et de nouveau en automne au Japon. Ils poussent en groupes pouvant compter jusqu'à des centaines d'individus qui forment des tapis orange.",
+        uses: "Il est trop petit et trop mince pour présenter un intérêt culinaire et il est considéré comme non comestible.",
+        confusion: "Vibrissea truncorum a un pied finement écailleux à reflet noirâtre et une tête de forme différente, et il pousse sur des brindilles qui émergent de l'eau. Spathularia flavida est plus grande, avec une tête aplatie, en forme de spatule, d'un jaune plus pâle sans tons orangés, et elle pousse sous les conifères dans des endroits moins humides. Heyderia abietis a un pied rougeâtre et une tête chamois, et il pousse dans des endroits humides sous les sapins et les épicéas. Cudoniella clavus est plus pâle, avec une tête davantage en forme de disque. Plusieurs espèces voisines de Mitrula ne se distinguent qu'au microscope.",
+        notes: "Cette espèce est considérée comme un indicateur d'eau propre. Elle est rare dans de nombreux pays et figure sur des listes rouges nationales, par exemple comme en danger critique (Critically Endangered) en Bulgarie et comme vulnérable (Vulnerable) en Pologne."
+      },
+      de: {
+        description: "Ein kleiner saprotropher Schlauchpilz, der einzeln oder in dichten Kolonien auf faulenden Pflanzenresten in flachem, sauberem Wasser wächst. Er ist in der kühlgemäßigten Zone Europas, Nordamerikas und Japans weit verbreitet, aber nur stellenweise zu finden, und dieselbe Kolonie kann an einer Stelle viele Jahre lang Fruchtkörper bilden.",
+        cap: "Der fruchtbare Kopf ist glatt, glänzend, hohl und brüchig, leuchtend gelb bis goldgelb oder orangegelb und verblasst mit dem Alter. Er ist keulenförmig, eiförmig, spindelförmig oder zylindrisch, oft unregelmäßig gelappt oder runzelig, 5–30 mm hoch und bis 10 mm breit und deutlich vom Stiel abgesetzt. Seltene weiße Formen sind bekannt.",
+        hymenium: "Das Hymenium überzieht die glatte Oberfläche des Kopfes. Die Schläuche (Asci) stehen zwischen fadenförmigen Paraphysen, die septiert, manchmal verzweigt und an der Spitze leicht angeschwollen sind.",
+        stipe: "Der Stiel ist zylindrisch, 20–50 mm lang, gelegentlich bis 80 mm, und 1–3 mm dick. Er ist hohl, glatt und brüchig, durchscheinend weiß bis weißlich oder grau, manchmal rosa getönt, und bei Nässe leicht klebrig. Die Basis ist manchmal hellbraun. Der gesamte Fruchtkörper ist 2–8 cm hoch.",
+        flesh: "Das Fleisch ist wässrig, wachsartig, durchscheinend und dünn und hat keinen auffälligen Geruch oder Geschmack.",
+        sporePrint: "Weiß. Die Ascosporen sind zylindrisch bis schmal ellipsoid oder leicht spindelförmig, glatt, hyalin und dünnwandig, 10–19 × 2–4 μm groß. Sie enthalten Öltröpfchen, haben meist keine Septe und bilden bei Reife oft eine mittlere Septe aus. Die Asci sind zylindrisch bis keulig, 90–150 × 6–9 μm groß, achtsporig und an der Spitze schwach amyloid, und die Sporen liegen darin in zwei unregelmäßigen Reihen.",
+        habitat: "Er wächst auf faulenden Blättern, Nadeln, Zweigen und Zapfen sowie auf Moosen, darunter Torfmoose, und Algen in Mooren, Sümpfen, Erlenbruchwäldern, Quellen, Gräben, Waldbächen und an Tümpelrändern, meist in stehendem oder langsam fließendem Wasser, teilweise untergetaucht oder nur mit dem Kopf über der Oberfläche. Er bevorzugt schattige Stellen mit nährstoffarmem, sauerstoffreichem Wasser und kommt in höheren Lagen häufiger vor. Die Fruchtkörper erscheinen meist von April bis September, in milden Jahren mitunter schon im März, und in Japan zusätzlich im Herbst. Sie wachsen in Gruppen von bis zu mehreren Hundert Fruchtkörpern, die orangefarbene Teppiche bilden.",
+        uses: "Er ist zu klein und zu dünnfleischig, um kulinarisch interessant zu sein, und gilt als ungenießbar.",
+        confusion: "Vibrissea truncorum hat einen fein schuppigen Stiel mit schwärzlichem Ton und einen anders geformten Kopf und wächst auf aus dem Wasser ragenden Zweigen. Spathularia flavida ist größer, mit einem flachen, spatelförmigen, hellgelben Kopf ohne Orangetöne, und wächst unter Nadelbäumen an weniger nassen Stellen. Heyderia abietis hat einen rötlichen Stiel und einen blass gelbbräunlichen Kopf und wächst an feuchten Stellen unter Tannen und Fichten. Cudoniella clavus ist blasser und hat einen eher scheibenförmigen Kopf. Mehrere verwandte Mitrula-Arten lassen sich nur unter dem Mikroskop unterscheiden.",
+        notes: "Er gilt als Anzeiger für sauberes Wasser. In vielen Ländern ist er selten und steht auf nationalen Roten Listen, zum Beispiel in Bulgarien als vom Aussterben bedroht (Critically Endangered) und in Polen als gefährdet (Vulnerable). Pilz des Jahres 2023 in Deutschland."
+      },
+      he: {
+        description: "אסקומיצט קטן וסאפרוטרופי הגדל בבודדים או בקבוצות צפופות על שאריות צמחים נרקבות במים רדודים ונקיים. הוא נפוץ אך מקומי באזור הממוזג הקריר של אירופה, צפון אמריקה ויפן, ואותה קבוצה יכולה להניב גופי פרי באותו מקום שנים רבות.",
+        cap: "הראש הפורה חלק, מבריק, חלול ושביר, צהוב בוהק עד צהוב-זהוב או כתום-צהוב, ומחוויר עם הגיל. צורתו אלה, ביצה, ציר או גליל, לעיתים קרובות מחולק לאונות או מקומט באופן לא סדיר, גובהו 5–30 מ״מ ורוחבו עד 10 מ״מ, והוא מובחן בחדות מהגבעול. ידועות צורות לבנות נדירות.",
+        hymenium: "ההימניום מכסה את המשטח החלק של הראש. האסקים עומדים בין פרפיזות חוטיות, שיש בהן מחיצות, לעיתים מסועפות, וקצותיהן מעט נפוחים.",
+        stipe: "הגבעול גלילי, באורך 20–50 מ״מ ולעיתים עד 80 מ״מ, ובעובי 1–3 מ״מ. הוא חלול, חלק ושביר, לבן שקוף עד לבנבן או אפרפר, לעיתים בגוון ורדרד, ודביק מעט כשהוא רטוב. בסיסו לעיתים חום בהיר. גובה גוף הפרי כולו 2–8 ס״מ.",
+        flesh: "הבשר מימי, שעוותי, שקוף ודק, ללא ריח או טעם מובחנים.",
+        sporePrint: "לבן. נבגי האסקוס גליליים עד אליפסיים צרים או מעט בצורת ציר, חלקים, שקופים וקירם דק, בגודל 10–19 × 2–4 מיקרומטר. הם מכילים טיפות שמן, לרוב ללא מחיצה, ובהבשלה מתפתחת בהם לעיתים קרובות מחיצה מרכזית. האסקים גליליים עד בצורת אלה, 90–150 × 6–9 מיקרומטר, בעלי שמונה נבגים וקצה עמילואידי חלש, והנבגים מסודרים בהם בשתי שורות לא סדירות.",
+        habitat: "הוא גדל על עלים, מחטים, ענפונים ואצטרובלים נרקבים, על טחבים, ובהם ספגנום, ועל אצות בביצות כבול, בביצות, ביערות אלנוס לחים, במעיינות, בתעלות, בנחלי יער ובשולי בריכות, לרוב במים עומדים או זורמים לאט, שקוע חלקית או עם הראש בלבד מעל פני המים. הוא מעדיף מקומות מוצלים עם מים דלי חומרי הזנה ועשירים בחמצן, ושכיח יותר בגבהים גבוהים. גופי הפרי מופיעים בדרך כלל מאפריל עד ספטמבר, לעיתים כבר במרץ בשנים מתונות, וביפן גם שוב בסתיו. הם גדלים בקבוצות של עד מאות גופי פרי היוצרות שטיחים כתומים.",
+        uses: "הוא קטן מדי ודק בשר מכדי לעניין מבחינה קולינרית, ונחשב לא אכיל.",
+        confusion: "ל-Vibrissea truncorum יש גבעול מקשקש דק בגוון שחרחר וראש בצורה שונה, והוא גדל על ענפונים הבולטים מעל המים. Spathularia flavida גדולה יותר, עם ראש שטוח בצורת כף, צהוב בהיר יותר וללא גוונים כתומים, והיא גדלה מתחת למחטניים באתרים פחות רטובים. ל-Heyderia abietis יש גבעול אדמדם וראש בצבע שמנת-צהבהב, והוא גדל במקומות לחים מתחת לאשוחים. Cudoniella clavus חיוורת יותר, עם ראש דמוי דיסקית. כמה מינים קרובים של Mitrula ניתנים להבחנה רק במיקרוסקופ.",
+        notes: "הוא נחשב סימן למים נקיים. הוא נדיר במדינות רבות וכלול ברשימות אדומות לאומיות, למשל כמצוי בסכנת הכחדה חמורה (Critically Endangered) בבולגריה וכפגיע (Vulnerable) בפולין."
+      },
+      hi: {
+        description: "एक छोटा मृतोपजीवी एस्कोमाइसीट कवक, जो उथले साफ़ पानी में सड़ते पादप अवशेषों पर अकेले या घने समूहों में उगता है। यह यूरोप, उत्तरी अमेरिका और जापान के ठंडे समशीतोष्ण क्षेत्र में व्यापक रूप से फैला है, पर स्थानीय है, और एक ही समूह उसी स्थान पर कई वर्षों तक फलन कर सकता है।",
+        cap: "बीजाणुधारी सिर चिकना, चमकदार, खोखला और भंगुर होता है; इसका रंग चटक पीले से सुनहरे पीले या नारंगी-पीले तक होता है और उम्र के साथ फीका पड़ जाता है। यह गदा-आकार, अंडाकार, तर्कुरूप या बेलनाकार होता है, अक्सर अनियमित रूप से पालियुक्त या झुर्रीदार, 5–30 मिमी ऊँचा और 10 मिमी तक चौड़ा, और डंठल से स्पष्ट रूप से अलग दिखता है। दुर्लभ सफ़ेद रूप भी ज्ञात हैं।",
+        hymenium: "हाइमेनियम सिर की चिकनी सतह को ढकता है। एस्कस तंतुरूप पैराफाइसिस के बीच खड़े रहते हैं, जो पटयुक्त होते हैं, कभी-कभी शाखित होते हैं और सिरों पर थोड़े फूले होते हैं।",
+        stipe: "डंठल बेलनाकार होता है, 20–50 मिमी लंबा, कभी-कभी 80 मिमी तक, और 1–3 मिमी मोटा। यह खोखला, चिकना और भंगुर होता है, पारभासी सफ़ेद से सफ़ेदी लिए या धूसर, कभी-कभी गुलाबी आभा लिए, और गीले होने पर थोड़ा चिपचिपा। आधार कभी-कभी हल्का भूरा होता है। पूरा फलनकाय 2–8 सेमी ऊँचा होता है।",
+        flesh: "गूदा पानीदार, मोमी, पारभासी और पतला होता है, और इसकी कोई विशिष्ट गंध या स्वाद नहीं होती।",
+        sporePrint: "सफ़ेद। एस्कोबीजाणु बेलनाकार से संकरे दीर्घवृत्ताकार या थोड़े तर्कुरूप, चिकने, पारदर्शी और पतली दीवार वाले होते हैं, आकार 10–19 × 2–4 μm। इनमें तेल की बूँदें होती हैं, आमतौर पर पट नहीं होता, और परिपक्व होने पर अक्सर बीच में एक पट बन जाता है। एस्कस बेलनाकार से गदा-आकार के, 90–150 × 6–9 μm, आठ बीजाणुओं वाले, शीर्ष पर हल्के एमिलॉइड होते हैं, और बीजाणु दो अनियमित पंक्तियों में रहते हैं।",
+        habitat: "यह दलदलों, एल्डर के दलदली जंगलों, झरनों, खाइयों, जंगली नालों और तालाबों के किनारों में सड़ती पत्तियों, सुइयों, टहनियों, शंकुओं, स्फैग्नम सहित काई और शैवाल पर उगता है, ज़्यादातर ठहरे हुए या धीमे बहते पानी में, आंशिक रूप से डूबा हुआ या केवल सिर पानी के ऊपर। यह पोषक तत्वों में कम और ऑक्सीजन से भरपूर पानी वाली छायादार जगहें पसंद करता है और अधिक ऊँचाई पर ज़्यादा आम है। फलनकाय आमतौर पर अप्रैल से सितंबर तक दिखते हैं, हल्के वर्षों में कभी-कभी मार्च में ही, और जापान में पतझड़ में फिर से। ये सैकड़ों तक के समूहों में उगते हैं जो नारंगी कालीन बनाते हैं।",
+        uses: "यह खाने लायक़ होने के लिए बहुत छोटा और पतले गूदे वाला है, और इसे अखाद्य माना जाता है।",
+        confusion: "Vibrissea truncorum का डंठल बारीक शल्कों वाला और कालिमा लिए होता है, उसका सिर अलग आकार का होता है, और यह पानी से बाहर निकली टहनियों पर उगता है। Spathularia flavida बड़ा होता है, उसका सिर चपटा, चम्मच जैसा, हल्का पीला और नारंगी आभा रहित होता है, और यह कम गीली जगहों पर शंकुधारी पेड़ों के नीचे उगता है। Heyderia abietis का डंठल लालिमा लिए और सिर भूरा-पीला होता है, और यह फ़र और स्प्रूस के नीचे नम जगहों पर उगता है। Cudoniella clavus अधिक फीका होता है और उसका सिर अधिक चकती जैसा होता है। Mitrula की कई निकट संबंधी प्रजातियों को केवल सूक्ष्मदर्शी से अलग पहचाना जा सकता है।",
+        notes: "इसे स्वच्छ पानी का संकेतक माना जाता है। यह कई देशों में दुर्लभ है और राष्ट्रीय रेड लिस्ट में दर्ज है, उदाहरण के लिए बुल्गारिया में गंभीर रूप से संकटग्रस्त (Critically Endangered) और पोलैंड में सुभेद्य (Vulnerable)।"
+      },
+      hu: {
+        description: "Kis méretű, korhadéklakó tömlősgomba, amely egyesével vagy sűrű telepekben nő sekély, tiszta vízben elpusztult növényi maradványokon. Európa, Észak-Amerika és Japán hűvös mérsékelt övében elterjedt, de foltszerűen fordul elő, és ugyanaz a telep sok éven át teremhet ugyanazon a helyen.",
+        cap: "A termőréteget hordozó fejrész sima, fényes, üreges és törékeny, élénksárgától aranysárgáig vagy narancssárgáig terjedő színű, és idősen kifakul. Bunkós, tojásdad, orsószerű vagy hengeres, gyakran szabálytalanul karéjos vagy ráncos, 5–30 mm magas és legfeljebb 10 mm széles, a tönktől élesen elválik. Ritka fehér formái is ismertek.",
+        hymenium: "A termőréteg a fejrész sima felszínét borítja. Az aszkuszok fonalas parafizisek között állnak; ezek rekeszesek, olykor elágazók, csúcsukon enyhén duzzadtak.",
+        stipe: "A tönk hengeres, 20–50 mm hosszú, esetenként 80 mm-ig is megnő, vastagsága 1–3 mm. Üreges, sima és törékeny, áttetszően fehér, fehéresig vagy szürkésig terjedő, olykor rózsaszínes árnyalatú, nedvesen kissé tapadós. A töve olykor világosbarna. Az egész termőtest 2–8 cm magas.",
+        flesh: "A húsa vizenyős, viaszszerű, áttetsző és vékony, szaga és íze nem jellegzetes.",
+        sporePrint: "Fehér. A tömlőspórák hengeresek vagy keskenyen elliptikusak, esetleg enyhén orsószerűek, simák, színtelenek és vékony falúak, 10–19 × 2–4 μm méretűek. Olajcseppeket tartalmaznak, általában nincs bennük rekesz, éretten gyakran középen rekesz képződik. Az aszkuszok hengeresek vagy bunkósak, 90–150 × 6–9 μm méretűek, nyolcspórásak, csúcsuk gyengén amiloid, és a spórák két szabálytalan sorban helyezkednek el.",
+        habitat: "Elhalt levelek, tűlevelek, ágak és tobozok, mohák (köztük tőzegmoha) és algák korhadó maradványain nő lápokban, mocsarakban, égerlápokban, forrásoknál, árkokban, erdei patakokban és tavacskák szélén, többnyire álló vagy lassan folyó vízben, részben a víz alatt, vagy csak a feje emelkedik ki a víz fölé. A tápanyagszegény, oxigéndús vizű, árnyékos helyeket kedveli, és magasabb tengerszint feletti magasságon gyakoribb. A termőtestek általában áprilistól szeptemberig jelennek meg, enyhe években olykor már márciusban, Japánban ősszel újra. Akár több száz termőtestből álló csoportokban nőnek, amelyek narancssárga szőnyeget alkotnak.",
+        uses: "Túl kicsi és vékony húsú ahhoz, hogy konyhai szempontból érdekes legyen, nem ehetőnek tekintik.",
+        confusion: "A Vibrissea truncorum tönkje finoman pikkelyes, feketés árnyalatú, a feje más alakú, és a vízből kiemelkedő ágakon nő. A Spathularia flavida nagyobb, feje lapos, lapát alakú, halványabb sárga, narancssárga árnyalat nélkül, és tűlevelű fák alatt, kevésbé nedves helyeken él. A Heyderia abietis tönkje vöröses, feje halvány sárgásbarna, és nedves helyeken, jegenyefenyők és lucfenyők alatt nő. A Cudoniella clavus halványabb, feje inkább korong alakú. A Mitrula nemzetség több rokon faja csak mikroszkóppal különböztethető meg.",
+        notes: "A tiszta víz jelzőjének tekintik. Sok országban ritka, és nemzeti vörös listákon szerepel, például Bulgáriában kritikusan veszélyeztetett (Critically Endangered), Lengyelországban sebezhető (Vulnerable) fajként. Magyarországon ritka."
+      },
+      id: {
+        description: "Jamur askomiset saprotrof kecil yang tumbuh sendiri-sendiri atau dalam koloni padat pada sisa tumbuhan yang membusuk di air dangkal yang bersih. Jamur ini tersebar luas tetapi bersifat lokal di zona beriklim sedang yang sejuk di Eropa, Amerika Utara, dan Jepang, dan koloni yang sama dapat berbuah di tempat yang sama selama bertahun-tahun.",
+        cap: "Kepala fertilnya halus, mengilap, berongga, dan rapuh, berwarna kuning cerah hingga kuning keemasan atau kuning jingga, dan memudar seiring usia. Bentuknya seperti gada, bulat telur, gelendong, atau silinder, sering kali bercuping tidak beraturan atau berkerut, tingginya 5–30 mm dan lebarnya hingga 10 mm, serta terpisah tegas dari tangkai. Bentuk putih yang langka pernah diketahui.",
+        hymenium: "Himenium menutupi permukaan halus kepala. Askus berdiri di antara parafisis berbentuk benang, yang bersekat, kadang bercabang, dan sedikit membengkak di ujungnya.",
+        stipe: "Tangkainya silindris, panjang 20–50 mm dan kadang sampai 80 mm, tebal 1–3 mm. Tangkai berongga, halus, dan rapuh, putih tembus cahaya hingga keputihan atau keabu-abuan, kadang bersemu merah muda, dan sedikit lengket saat basah. Pangkalnya kadang cokelat muda. Seluruh tubuh buahnya setinggi 2–8 cm.",
+        flesh: "Dagingnya berair, seperti lilin, tembus cahaya, dan tipis, tanpa bau atau rasa yang khas.",
+        sporePrint: "Putih. Askosporanya silindris hingga elips sempit atau sedikit seperti gelendong, halus, hialin, dan berdinding tipis, berukuran 10–19 × 2–4 μm. Askospora mengandung tetesan minyak, biasanya tidak bersekat, dan sering membentuk satu sekat di tengah saat matang. Askusnya silindris hingga seperti gada, berukuran 90–150 × 6–9 μm, berspora delapan, dengan ujung amiloid lemah, dan spora tersusun dalam dua baris tidak beraturan.",
+        habitat: "Tumbuh pada daun, jarum, ranting, dan kerucut yang membusuk, pada lumut termasuk lumut gambut (Sphagnum), dan pada alga di rawa gambut, rawa, hutan rawa alder, mata air, parit, sungai kecil hutan, dan tepi kolam, kebanyakan di air tergenang atau mengalir lambat, sebagian terendam atau hanya kepalanya yang muncul di atas permukaan. Jamur ini menyukai tempat teduh dengan air miskin hara dan kaya oksigen serta lebih sering ditemukan di dataran yang lebih tinggi. Tubuh buah biasanya muncul dari April sampai September, kadang sudah pada Maret di tahun yang hangat, dan di Jepang muncul lagi pada musim gugur. Jamur ini tumbuh dalam kelompok hingga ratusan tubuh buah yang membentuk hamparan oranye.",
+        uses: "Jamur ini terlalu kecil dan berdaging tipis untuk menarik secara kuliner dan dianggap tidak dapat dimakan.",
+        confusion: "Vibrissea truncorum memiliki tangkai bersisik halus dengan semburat kehitaman dan kepala berbentuk lain, serta tumbuh pada ranting yang mencuat dari air. Spathularia flavida lebih besar, dengan kepala pipih berbentuk sendok, kuning lebih pucat tanpa nuansa oranye, dan tumbuh di bawah pohon konifer di tempat yang kurang basah. Heyderia abietis memiliki tangkai kemerahan dan kepala berwarna krem kekuningan, serta tumbuh di tempat lembap di bawah pohon fir dan spruce. Cudoniella clavus lebih pucat, dengan kepala yang lebih menyerupai cakram. Beberapa spesies Mitrula yang berkerabat hanya dapat dibedakan di bawah mikroskop.",
+        notes: "Dianggap sebagai tanda air yang bersih. Jamur ini langka di banyak negara dan masuk daftar merah nasional, misalnya sebagai kritis (Critically Endangered) di Bulgaria dan rentan (Vulnerable) di Polandia."
+      },
+      it: {
+        description: "Piccolo ascomicete saprotrofo che cresce isolato o in colonie dense su resti vegetali in decomposizione in acque basse e pulite. È diffuso ma localizzato nella zona temperata fresca di Europa, Nord America e Giappone, e la stessa colonia può fruttificare nello stesso punto per molti anni.",
+        cap: "La testa fertile è liscia, lucida, cava e fragile, di colore giallo vivo fino a giallo dorato o giallo-arancio, e sbiadisce con l'età. Ha forma clavata, ovoidale, fusiforme o cilindrica, spesso irregolarmente lobata o rugosa, alta 5–30 mm e larga fino a 10 mm, ed è nettamente distinta dal gambo. Sono note rare forme bianche.",
+        hymenium: "L'imenio ricopre la superficie liscia della testa. Gli aschi sono disposti tra parafisi filiformi, settate, talvolta ramificate e leggermente rigonfie all'apice.",
+        stipe: "Il gambo è cilindrico, lungo 20–50 mm e occasionalmente fino a 80 mm, e spesso 1–3 mm. È cavo, liscio e fragile, bianco traslucido fino a biancastro o grigiastro, a volte con sfumature rosate, e leggermente viscido con l'umidità. La base è talvolta marrone chiaro. L'intero corpo fruttifero è alto 2–8 cm.",
+        flesh: "La carne è acquosa, cerosa, traslucida e sottile, senza odore né sapore particolari.",
+        sporePrint: "Bianca. Le ascospore sono cilindriche o strettamente ellissoidali o leggermente fusiformi, lisce, ialine e a parete sottile, di 10–19 × 2–4 μm. Contengono gocce oleose, di solito sono prive di setto e spesso sviluppano un setto centrale a maturità. Gli aschi sono cilindrici o clavati, di 90–150 × 6–9 μm, con otto spore e apice debolmente amiloide, e le spore sono disposte su due file irregolari.",
+        habitat: "Cresce su foglie, aghi, rametti e coni in decomposizione, su muschi, tra cui gli sfagni, e su alghe in torbiere, paludi, ontaneti paludosi, sorgenti, fossi, ruscelli boschivi e margini di pozze, per lo più in acqua stagnante o a corrente lenta, in parte sommerso o con la sola testa fuori dalla superficie. Predilige luoghi ombreggiati con acqua povera di nutrienti e ricca di ossigeno ed è più frequente alle quote elevate. I corpi fruttiferi compaiono di solito da aprile a settembre, talvolta già a marzo negli anni miti, e in Giappone di nuovo in autunno. Crescono in gruppi fino a centinaia di esemplari che formano tappeti arancioni.",
+        uses: "È troppo piccolo e sottile di carne per avere interesse culinario ed è considerato non commestibile.",
+        confusion: "Vibrissea truncorum ha un gambo finemente squamoso con sfumatura nerastra e una testa di forma diversa, e cresce su rametti che emergono dall'acqua. Spathularia flavida è più grande, con una testa appiattita, a forma di spatola, di un giallo più pallido senza toni arancioni, e cresce sotto le conifere in luoghi meno umidi. Heyderia abietis ha un gambo rossastro e una testa camoscio, e cresce in luoghi umidi sotto abeti bianchi e abeti rossi. Cudoniella clavus è più pallida, con una testa più simile a un disco. Diverse specie affini di Mitrula si distinguono solo al microscopio.",
+        notes: "È considerato un indicatore di acque pulite. È raro in molti Paesi ed è inserito in liste rosse nazionali, per esempio come in pericolo critico (Critically Endangered) in Bulgaria e come vulnerabile (Vulnerable) in Polonia."
+      },
+      ja: {
+        description: "浅くてきれいな水中で腐った植物遺体に、単生または密集した群落をつくって生える小型の腐生性の子嚢菌です。ヨーロッパ、北アメリカ、日本の冷温帯に広く分布しますが、産地は限られ、同じ群落が同じ場所で長年にわたって子実体をつくることがあります。",
+        cap: "子実体の頭部は平滑で光沢があり、中空でもろく、鮮黄色から黄金色または橙黄色で、古くなると色あせます。形は棍棒形、卵形、紡錘形または円筒形で、不規則に裂片状になったりしわが寄ったりすることが多く、高さ5〜30 mm、幅は10 mmまでで、柄とははっきり区別されます。まれに白色の型が知られています。",
+        hymenium: "子実層は頭部の平滑な表面を覆います。子嚢は糸状の側糸の間に並び、側糸には隔壁があり、ときに分枝し、先端はやや膨らんでいます。",
+        stipe: "柄は円筒形で、長さ20〜50 mm、まれに80 mmに達し、太さは1〜3 mmです。中空で平滑、もろく、半透明の白色から白っぽい色や灰色がかった色で、ときに薄いピンク色を帯び、湿っているとやや粘性があります。基部は薄い褐色になることがあります。子実体全体の高さは2〜8 cmです。",
+        flesh: "肉は水っぽく、ろう質で半透明、薄く、特徴的な匂いや味はありません。",
+        sporePrint: "白色です。子嚢胞子は円筒形から細い楕円形またはやや紡錘形で、平滑、無色透明、壁は薄く、大きさは10〜19 × 2〜4 μmです。油滴を含み、通常は隔壁がなく、成熟するとしばしば中央に隔壁ができます。子嚢は円筒形から棍棒形で、90〜150 × 6〜9 μm、8個の胞子を含み、先端はわずかにアミロイド性で、胞子は不規則な2列に並びます。",
+        habitat: "湿原、沼地、ハンノキ林の湿地、湧水、溝、林内の小川、池の縁などで、腐った葉、針葉、小枝、球果、ミズゴケを含むコケ類、藻類に生えます。たいてい止水か緩やかな流水中で、一部が水に浸かるか頭部だけが水面から出ています。日陰で、栄養分が少なく酸素に富む水のある場所を好み、標高の高い場所でより多く見られます。子実体は通常4月から9月に現れ、暖かい年には3月に出ることもあり、日本では秋にも再び発生します。数百個にもなる群れをつくり、オレンジ色のじゅうたんのように広がります。",
+        uses: "小さくて肉が薄いため料理には向かず、食用不適とされています。",
+        confusion: "Vibrissea truncorum は柄に細かい鱗片があって黒みを帯び、頭部の形も異なり、水面から出た小枝に生えます。Spathularia flavida はより大きく、頭部は平たいへら形で、橙色味のないより淡い黄色をしており、針葉樹の下のあまり湿っていない場所に生えます。Heyderia abietis は柄が赤みを帯び、頭部は淡い黄褐色で、モミやトウヒの下の湿った場所に生えます。Cudoniella clavus はより淡色で、頭部はより円盤状です。近縁の Mitrula 属の数種は顕微鏡でしか区別できません。",
+        notes: "きれいな水の指標とされています。多くの国でまれで、国のレッドリストに載っており、たとえばブルガリアでは近絶滅種（Critically Endangered）、ポーランドでは危急種（Vulnerable）に分類されています。"
+      },
+      ko: {
+        description: "얕고 맑은 물속에서 썩어 가는 식물 잔해 위에 홀로 또는 빽빽한 무리를 이루어 자라는 작은 부생성 자낭균입니다. 유럽, 북아메리카, 일본의 서늘한 온대 지역에 널리 분포하지만 국지적이며, 같은 무리가 한곳에서 여러 해 동안 자실체를 맺기도 합니다.",
+        cap: "생식 부분인 머리는 매끈하고 윤이 나며 속이 비어 있고 부서지기 쉬우며, 선명한 노란색에서 황금색 또는 주황빛 노란색이고 나이가 들면 색이 바랩니다. 곤봉 모양, 달걀 모양, 방추형 또는 원통형이고 흔히 불규칙하게 갈라지거나 주름이 지며, 높이 5–30 mm, 너비 10 mm까지이고 자루와 뚜렷이 구분됩니다. 드물게 흰색 개체도 알려져 있습니다.",
+        hymenium: "자실층은 머리의 매끈한 표면을 덮습니다. 자낭은 실 모양의 측사 사이에 서 있으며, 측사에는 격벽이 있고 때로 가지를 치며 끝이 약간 부풀어 있습니다.",
+        stipe: "자루는 원통형이고 길이 20–50 mm, 드물게 80 mm까지 자라며 굵기는 1–3 mm입니다. 속이 비어 있고 매끈하며 부서지기 쉽고, 반투명한 흰색에서 희끄무레하거나 회색빛이며 때로 분홍빛을 띠고, 젖으면 약간 끈적합니다. 밑동은 때로 연한 갈색입니다. 자실체 전체의 높이는 2–8 cm입니다.",
+        flesh: "살은 물기가 많고 밀랍 같으며 반투명하고 얇고, 뚜렷한 냄새나 맛이 없습니다.",
+        sporePrint: "흰색입니다. 자낭포자는 원통형에서 좁은 타원형 또는 약간 방추형이며 매끈하고 무색투명하며 벽이 얇고, 크기는 10–19 × 2–4 μm입니다. 기름방울이 들어 있고 보통 격벽이 없으며 성숙하면 가운데에 격벽이 생기는 일이 많습니다. 자낭은 원통형에서 곤봉형이고 90–150 × 6–9 μm이며 포자 8개가 들어 있고 끝부분은 약하게 아밀로이드성이며, 포자는 불규칙한 두 줄로 놓입니다.",
+        habitat: "습지, 늪, 오리나무 늪지, 샘, 도랑, 숲속 개울, 웅덩이 가장자리에서 썩어 가는 잎, 침엽수 잎, 잔가지, 솔방울, 물이끼를 포함한 이끼류와 조류 위에 자랍니다. 대개 고여 있거나 천천히 흐르는 물속에서 일부가 잠기거나 머리만 수면 위로 나와 있습니다. 그늘지고 양분이 적으며 산소가 풍부한 물이 있는 곳을 좋아하고 고지대에서 더 흔합니다. 자실체는 보통 4월부터 9월까지 나타나며 따뜻한 해에는 3월에 나오기도 하고, 일본에서는 가을에 다시 나타납니다. 수백 개에 이르는 무리를 이루어 주황색 카펫처럼 퍼집니다.",
+        uses: "너무 작고 살이 얇아서 요리 가치가 없으며 먹을 수 없는 버섯으로 여겨집니다.",
+        confusion: "Vibrissea truncorum은 자루에 잔비늘이 있고 검은빛을 띠며 머리의 모양이 다르고, 물 밖으로 솟은 잔가지에서 자랍니다. Spathularia flavida는 더 크고 머리가 납작한 주걱 모양이며 주황빛이 없는 더 옅은 노란색이고, 덜 축축한 곳의 침엽수 아래에서 자랍니다. Heyderia abietis는 자루가 붉은빛을 띠고 머리가 옅은 황갈색이며, 전나무와 가문비나무 아래의 축축한 곳에서 자랍니다. Cudoniella clavus는 더 옅은 색이며 머리가 더 원반 모양입니다. 가까운 Mitrula속 몇몇 종은 현미경으로만 구별할 수 있습니다.",
+        notes: "깨끗한 물의 지표로 여겨집니다. 많은 나라에서 드물며 국가 적색 목록에 올라 있는데, 예를 들어 불가리아에서는 위급(Critically Endangered), 폴란드에서는 취약(Vulnerable)으로 분류됩니다."
+      },
+      lv: {
+        description: "Maza saprotrofa somiņsēne, kas aug atsevišķi vai blīvās kolonijās uz satrūdējušām augu atliekām seklā, tīrā ūdenī. Tā ir plaši izplatīta, bet vietām sastopama Eiropas, Ziemeļamerikas un Japānas vēsajā mērenajā joslā, un viena un tā pati kolonija var vienā vietā nest augļķermeņus daudzus gadus.",
+        cap: "Auglīgā galviņa ir gluda, spīdīga, dobja un trausla, spilgti dzeltena līdz zeltaini dzeltena vai oranži dzeltena, un ar vecumu nobāl. Tā ir vālesveidīga, olveida, vārpstveida vai cilindriska, bieži neregulāri daivaina vai grumbaina, 5–30 mm augsta un līdz 10 mm plata, un krasi atdalīta no kājiņas. Zināmas retas baltas formas.",
+        hymenium: "Auglīgā kārta klāj galviņas gludo virsmu. Somiņas (aski) atrodas starp pavedienveida parafīzēm, kas ir ar šķērssienām, dažkārt zarotas un galos nedaudz pietūkušas.",
+        stipe: "Kājiņa ir cilindriska, 20–50 mm gara, retumis līdz 80 mm, un 1–3 mm bieza. Tā ir dobja, gluda un trausla, caurspīdīgi balta līdz bālgana vai pelēcīga, dažkārt ar rozā nokrāsu, un mitrā laikā nedaudz lipīga. Pamatne dažkārt ir gaiši brūna. Viss augļķermenis ir 2–8 cm augsts.",
+        flesh: "Mīkstums ir ūdeņains, vaskains, caurspīdīgs un plāns, bez izteiktas smaržas vai garšas.",
+        sporePrint: "Balts. Askosporas ir cilindriskas līdz šauri elipsveida vai nedaudz vārpstveida, gludas, bezkrāsainas un plānsienu, 10–19 × 2–4 μm lielas. Tās satur eļļas pilienus, parasti ir bez šķērssienas, un nobriestot bieži veido vidēju šķērssienu. Somiņas ir cilindriskas līdz vālesveidīgas, 90–150 × 6–9 μm lielas, astoņsporu, ar vāji amiloīdu galotni, un sporas tajās atrodas divās neregulārās rindās.",
+        habitat: "Aug uz satrūdējušām lapām, skujām, zariņiem un čiekuriem, uz sūnām, tostarp sfagniem, un aļģēm purvos, staignājos, melnalkšņu purvos, avotos, grāvjos, meža strautos un dīķu malās, galvenokārt stāvošā vai lēni tekošā ūdenī, daļēji iegrimusi vai ar galviņu virs ūdens virsmas. Tā dod priekšroku ēnainām vietām ar barības vielām nabadzīgu, skābekļa bagātu ūdeni un biežāk sastopama augstākās vietās. Augļķermeņi parasti parādās no aprīļa līdz septembrim, maigos gados dažkārt jau martā, un Japānā atkal rudenī. Tie aug grupās līdz pat simtiem augļķermeņu, veidojot oranžus paklājus.",
+        uses: "Tā ir pārāk maza un plānmīksta, lai interesētu kulinārijā, un tiek uzskatīta par neēdamu.",
+        confusion: "Vibrissea truncorum kājiņa ir smalki zvīņaina ar melnīgu nokrāsu, galviņa ir citas formas, un tā aug uz zariņiem, kas paceļas no ūdens. Spathularia flavida ir lielāka, ar plakanu, lāpstveida, gaišāk dzeltenu galviņu bez oranžiem toņiem, un aug zem skujkokiem mazāk mitrās vietās. Heyderia abietis kājiņa ir sarkanīga un galviņa gaiši dzeltenbrūna, un tā aug mitrās vietās zem sudrabeglēm un eglēm. Cudoniella clavus ir bālāka, ar disku atgādinošāku galviņu. Vairākas radniecīgas Mitrula sugas var atšķirt tikai mikroskopā.",
+        notes: "Uzskata par tīra ūdens indikatoru. Daudzās valstīs tā ir reta un iekļauta valsts sarkanajos sarakstos, piemēram, Bulgārijā kā kritiski apdraudēta suga (Critically Endangered) un Polijā kā jutīga suga (Vulnerable). Latvijas Sarkanajā grāmatā tā ir jutīga suga (Vulnerable)."
+      },
+      lt: {
+        description: "Mažas saprotrofinis aukšliagrybis, augantis pavieniui arba tankiomis kolonijomis ant pūvančių augalų liekanų sekliame, švariame vandenyje. Jis paplitęs, bet vietomis aptinkamas vėsioje vidutinio klimato juostoje Europoje, Šiaurės Amerikoje ir Japonijoje, o ta pati kolonija toje pačioje vietoje gali nešti vaisiakūnius daug metų.",
+        cap: "Vaisingoji galvutė lygi, blizganti, tuščiavidurė ir trapi, ryškiai geltona iki auksinės arba oranžiškai geltonos, su amžiumi blunkanti. Ji būna lazdos, kiaušinio, verpstės formos arba cilindriška, dažnai netaisyklingai skiltinė ar raukšlėta, 5–30 mm aukščio ir iki 10 mm pločio, aiškiai atsiribojusi nuo koto. Žinomos retos baltos formos.",
+        hymenium: "Vaisinis sluoksnis dengia lygų galvutės paviršių. Sakeliai (askai) išsidėstę tarp siūliškų parafizių, kurios yra pertvarėtos, kartais šakotos, o galuose šiek tiek patinusios.",
+        stipe: "Kotas cilindriškas, 20–50 mm ilgio, kartais iki 80 mm, ir 1–3 mm storio. Jis tuščiaviduris, lygus ir trapus, permatomai baltas iki balkšvo ar pilkšvo, kartais rausvo atspalvio, o drėgnas truputį lipnus. Pagrindas kartais šviesiai rudas. Visas vaisiakūnis 2–8 cm aukščio.",
+        flesh: "Minkštimas vandeningas, vaškinis, permatomas ir plonas, be ryškaus kvapo ar skonio.",
+        sporePrint: "Baltas. Askosporos cilindriškos iki siaurai elipsiškų ar šiek tiek verpstiškų, lygios, bespalvės ir plonasienės, 10–19 × 2–4 μm dydžio. Jose yra riebalinių lašelių, paprastai pertvaros nėra, o subrendusios dažnai sudaro vidurinę pertvarą. Sakeliai cilindriški iki lazdiškų, 90–150 × 6–9 μm, aštuonsporiai, su silpnai amiloidine viršūne, o sporos juose išsidėsčiusios dviem netaisyklingomis eilėmis.",
+        habitat: "Auga ant pūvančių lapų, spyglių, šakelių ir kankorėžių, ant samanų, įskaitant durpines samanas, ir dumblių pelkėse, liūnuose, juodalksnynuose, šaltiniuose, grioviuose, miško upeliuose ir balų pakraščiuose, dažniausiai stovinčiame ar lėtai tekančiame vandenyje, iš dalies paniręs arba tik galvute virš paviršiaus. Mėgsta pavėsingas vietas su maistingųjų medžiagų neturtingu, deguonies turtingu vandeniu ir dažnesnis aukštesnėse vietose. Vaisiakūniai paprastai pasirodo nuo balandžio iki rugsėjo, švelniais metais kartais jau kovą, o Japonijoje dar kartą rudenį. Jie auga grupėmis iki šimtų vaisiakūnių, sudarančių oranžinius kilimus.",
+        uses: "Jis per mažas ir plonu minkštimu, kad būtų kulinariškai įdomus, todėl laikomas nevalgomu.",
+        confusion: "Vibrissea truncorum kotas smulkiai žvynuotas, juosvo atspalvio, o galvutė kitokios formos; jis auga ant iš vandens kyšančių šakelių. Spathularia flavida didesnė, jos galvutė plokščia, mentelės formos, blyškiau geltona be oranžinių atspalvių, auga po spygliuočiais mažiau drėgnose vietose. Heyderia abietis kotas rausvas, o galvutė gelsvai rusva, auga drėgnose vietose po eglėmis ir kėniais. Cudoniella clavus blyškesnė, jos galvutė labiau diskiška. Kelias giminingas Mitrula rūšis galima atskirti tik mikroskopu.",
+        notes: "Laikomas švaraus vandens rodikliu. Daugelyje šalių jis retas ir įrašytas į nacionalinius raudonuosius sąrašus, pavyzdžiui, Bulgarijoje kaip kritiškai nykstanti rūšis (Critically Endangered), o Lenkijoje kaip pažeidžiama rūšis (Vulnerable)."
+      },
+      no: {
+        description: "En liten saprotrof sekksporesopp som vokser enkeltvis eller i tette kolonier på råtnende planterester i grunt, rent vann. Den er utbredt, men lokal i den kjølige tempererte sonen i Europa, Nord-Amerika og Japan, og den samme kolonien kan bære fruktlegemer på samme sted i mange år.",
+        cap: "Det fertile hodet er glatt, blankt, hult og sprøtt, klart gult til gyllent eller oransjegult, og blir blekere med alderen. Det er køllformet, eggformet, spindelformet eller sylindrisk, ofte uregelmessig lappet eller rynket, 5–30 mm høyt og opptil 10 mm bredt, og skarpt avgrenset fra stilken. Sjeldne hvite former er kjent.",
+        hymenium: "Hymeniet dekker hodets glatte overflate. Sporesekkene (askusene) står mellom trådformede parafyser, som har tverrvegger, noen ganger er greinete og er litt oppsvulmede i tuppene.",
+        stipe: "Stilken er sylindrisk, 20–50 mm lang og unntaksvis opptil 80 mm, og 1–3 mm tykk. Den er hul, glatt og sprø, gjennomskinnelig hvit til hvitaktig eller gråaktig, noen ganger med et rosa skjær, og litt klebrig når den er våt. Basis er noen ganger lysebrun. Hele fruktlegemet er 2–8 cm høyt.",
+        flesh: "Kjøttet er vandig, voksaktig, gjennomskinnelig og tynt, uten tydelig lukt eller smak.",
+        sporePrint: "Hvitt. Askosporene er sylindriske til smalt ellipsoide eller svakt spindelformede, glatte, fargeløse og tynnveggede, 10–19 × 2–4 μm. De inneholder oljedråper, mangler som regel tverrvegg og får ofte en tverrvegg midt på når de er modne. Sporesekkene er sylindriske til køllformede, 90–150 × 6–9 μm, åttesporede, med svakt amyloid spiss, og sporene ligger i to uregelmessige rekker.",
+        habitat: "Den vokser på råtnende blader, nåler, kvister og kongler, på moser, blant annet torvmoser, og på alger i myrer, sumper, svartorsumpskoger, kilder, grøfter, skogsbekker og kanten av tjern, mest i stille eller sakteflytende vann, delvis neddykket eller med bare hodet over overflaten. Den foretrekker skyggefulle steder med næringsfattig, oksygenrikt vann og er hyppigere i høyereliggende strøk. Fruktlegemene kommer vanligvis fra april til september, i milde år noen ganger allerede i mars, og i Japan igjen om høsten. De vokser i grupper på opptil hundrevis, som danner oransje tepper.",
+        uses: "Den er for liten og tynnkjøttet til å ha kulinarisk interesse og regnes som uspiselig.",
+        confusion: "Vibrissea truncorum har en finskjellet stilk med svartaktig skjær og et hode med en annen form, og den vokser på kvister som stikker opp av vannet. Spathularia flavida er større, med et flatt, spatelformet, lysere gult hode uten oransje toner, og den vokser under bartrær på mindre våte steder. Heyderia abietis har en rødaktig stilk og et lyst gulbrunt hode, og den vokser på fuktige steder under edelgran og gran. Cudoniella clavus er blekere, med et mer skiveformet hode. Flere beslektede Mitrula-arter kan bare skilles under mikroskop.",
+        notes: "Regnes som et tegn på rent vann. Den er sjelden i mange land og står på nasjonale rødlister, for eksempel som kritisk truet (Critically Endangered) i Bulgaria og som sårbar (Vulnerable) i Polen. I Norge er den vurdert som livskraftig (Least Concern)."
+      },
+      fa: {
+        description: "قارچی کوچک و ساپروتروف از گروه آسکومیست‌ها که به‌صورت منفرد یا در کلنی‌های متراکم روی بقایای گیاهی در حال پوسیدن در آب کم‌عمق و پاک رشد می‌کند. این قارچ در منطقهٔ معتدلهٔ سرد اروپا، آمریکای شمالی و ژاپن گسترده است اما پراکنش آن موضعی است، و یک کلنی می‌تواند سال‌های زیادی در همان محل میوه‌تن تولید کند.",
+        cap: "سر بارور صاف، براق، توخالی و شکننده است، به رنگ زرد روشن تا زرد طلایی یا زرد نارنجی، و با افزایش سن کم‌رنگ می‌شود. شکل آن گرزی، تخم‌مرغی، دوکی یا استوانه‌ای است، اغلب با لوب‌های نامنظم یا چروکیده، با ارتفاع ۵ تا ۳۰ میلی‌متر و پهنای حداکثر ۱۰ میلی‌متر، و به‌روشنی از ساقه جدا می‌شود. شکل‌های سفید نادر نیز شناخته شده‌اند.",
+        hymenium: "هیمنیوم سطح صاف سر را می‌پوشاند. آسک‌ها میان پارافیزهای نخی‌شکل قرار دارند که دیوارهٔ عرضی دارند، گاهی منشعب‌اند و انتهایشان اندکی متورم است.",
+        stipe: "ساقه استوانه‌ای است، به طول ۲۰ تا ۵۰ میلی‌متر و گاهی تا ۸۰ میلی‌متر، و ضخامت ۱ تا ۳ میلی‌متر. توخالی، صاف و شکننده است، سفید نیمه‌شفاف تا مایل به سفید یا خاکستری، گاهی با رگه‌ای صورتی، و در حالت مرطوب کمی چسبناک. قاعدهٔ آن گاهی قهوه‌ای روشن است. کل میوه‌تن ۲ تا ۸ سانتی‌متر ارتفاع دارد.",
+        flesh: "گوشت آبکی، مومی، نیمه‌شفاف و نازک است و بو یا طعم مشخصی ندارد.",
+        sporePrint: "سفید. هاگ‌های آسکی استوانه‌ای تا بیضوی باریک یا اندکی دوکی‌شکل، صاف، بی‌رنگ و جداره‌نازک‌اند و اندازه‌ای برابر ۱۰ تا ۱۹ × ۲ تا ۴ میکرومتر دارند. دارای قطرات روغن‌اند، معمولاً دیوارهٔ عرضی ندارند و در رسیدگی اغلب یک دیوارهٔ مرکزی پیدا می‌کنند. آسک‌ها استوانه‌ای تا گرزی‌اند، با اندازهٔ ۹۰ تا ۱۵۰ × ۶ تا ۹ میکرومتر، هشت‌هاگی، با نوک آمیلوئیدی ضعیف، و هاگ‌ها در دو ردیف نامنظم قرار می‌گیرند.",
+        habitat: "روی برگ‌ها، سوزن‌ها، شاخه‌های کوچک و مخروط‌های در حال پوسیدن، روی خزه‌ها از جمله اسفاگنوم و روی جلبک‌ها در باتلاق‌های پیتی، مرداب‌ها، جنگل‌های باتلاقی توسکا، چشمه‌ها، کانال‌ها، جویبارهای جنگلی و حاشیهٔ برکه‌ها رشد می‌کند، بیشتر در آب ساکن یا کندجریان، تا حدی غوطه‌ور یا فقط با سر بیرون از سطح آب. جاهای سایه‌دار با آب کم‌مواد مغذی و غنی از اکسیژن را ترجیح می‌دهد و در ارتفاعات بالاتر رایج‌تر است. میوه‌تن‌ها معمولاً از آوریل تا سپتامبر ظاهر می‌شوند، در سال‌های معتدل گاهی از مارس، و در ژاپن بار دیگر در پاییز. در گروه‌هایی تا صدها میوه‌تن رشد می‌کنند که فرش‌های نارنجی می‌سازند.",
+        uses: "برای مصرف آشپزی بسیار کوچک و کم‌گوشت است و خوراکی نیست.",
+        confusion: "Vibrissea truncorum ساقه‌ای ریزپولکی با رگه‌ای سیاه‌فام و سری با شکل متفاوت دارد و روی شاخه‌های کوچکی می‌روید که از آب بیرون زده‌اند. Spathularia flavida بزرگ‌تر است، با سری پهن و کفچه‌ای و زرد روشن‌تر بدون طیف نارنجی، و زیر درختان سوزنی‌برگ در جاهای کم‌رطوبت‌تر می‌روید. Heyderia abietis ساقه‌ای مایل به قرمز و سری به رنگ کرم‌زرد دارد و در جاهای مرطوب زیر درختان سوزنی‌برگ می‌روید. Cudoniella clavus کم‌رنگ‌تر است و سرش بیشتر قرص‌مانند است. چند گونهٔ نزدیک Mitrula را فقط با میکروسکوپ می‌توان تشخیص داد.",
+        notes: "نشانهٔ آب پاک شمرده می‌شود. در بسیاری از کشورها کمیاب است و در فهرست‌های سرخ ملی آمده است، برای نمونه در بلغارستان به‌عنوان گونهٔ در معرض خطر انقراض شدید (Critically Endangered) و در لهستان به‌عنوان گونهٔ آسیب‌پذیر (Vulnerable)."
+      },
+      pl: {
+        description: "Mały saprotroficzny grzyb workowy, który rośnie pojedynczo lub w gęstych skupiskach na gnijących szczątkach roślinnych w płytkiej, czystej wodzie. Jest szeroko rozpowszechniony, ale lokalny w chłodnej strefie umiarkowanej Europy, Ameryki Północnej i Japonii, a to samo skupisko może owocować w jednym miejscu przez wiele lat.",
+        cap: "Płodna główka jest gładka, błyszcząca, pusta w środku i krucha, jaskrawożółta do złocistej lub pomarańczowożółtej, z wiekiem blaknie. Ma kształt maczugowaty, jajowaty, wrzecionowaty lub walcowaty, często jest nieregularnie klapowana lub pomarszczona, ma 5–30 mm wysokości i do 10 mm szerokości oraz jest wyraźnie oddzielona od trzonu. Znane są rzadkie białe formy.",
+        hymenium: "Hymenium pokrywa gładką powierzchnię główki. Worki (askusy) stoją wśród nitkowatych parafiz, które są przegrodzone, czasem rozgałęzione i lekko zgrubiałe na szczytach.",
+        stipe: "Trzon jest walcowaty, długości 20–50 mm, czasem do 80 mm, i grubości 1–3 mm. Jest pusty w środku, gładki i kruchy, przezroczyście biały do białawego lub szarawego, czasem z różowym odcieniem, a w stanie wilgotnym lekko kleisty. Podstawa bywa jasnobrązowa. Cały owocnik ma 2–8 cm wysokości.",
+        flesh: "Miąższ jest wodnisty, woskowaty, półprzezroczysty i cienki, bez wyraźnego zapachu i smaku.",
+        sporePrint: "Biały. Zarodniki (askospory) są walcowate do wąsko elipsoidalnych lub lekko wrzecionowatych, gładkie, bezbarwne i cienkościenne, wymiarów 10–19 × 2–4 μm. Zawierają krople oleju, zwykle nie mają przegrody, a w dojrzałości często wytwarzają przegrodę pośrodku. Worki są walcowate do maczugowatych, wymiarów 90–150 × 6–9 μm, o ośmiu askosporach, ze słabo amyloidalnym wierzchołkiem, a askospory leżą w nich w dwóch nieregularnych rzędach.",
+        habitat: "Rośnie na gnijących liściach, igłach, gałązkach i szyszkach, na mchach, w tym torfowcach, oraz na glonach w torfowiskach, bagnach, olsach, źródłach, rowach, leśnych strumieniach i na brzegach oczek wodnych, najczęściej w wodzie stojącej lub wolno płynącej, częściowo zanurzony lub tylko z główką nad powierzchnią. Preferuje zacienione miejsca z wodą ubogą w składniki pokarmowe i bogatą w tlen, a w wyższych położeniach jest częstszy. Owocniki pojawiają się zwykle od kwietnia do września, w łagodne lata czasem już w marcu, a w Japonii ponownie jesienią. Rosną w grupach liczących nawet setki owocników, które tworzą pomarańczowe dywany.",
+        uses: "Jest zbyt mały i cienkomiąższowy, by miał znaczenie kulinarne, i uważa się go za niejadalny.",
+        confusion: "Vibrissea truncorum ma drobno łuskowaty trzon z czarniawym odcieniem i główkę o innym kształcie, a rośnie na gałązkach wystających z wody. Spathularia flavida jest większa, ma spłaszczoną, łopatkowatą, jaśniejszą żółtą główkę bez pomarańczowych tonów i rośnie pod drzewami iglastymi w mniej wilgotnych miejscach. Heyderia abietis ma czerwonawy trzon i płowożółtą główkę, a rośnie w wilgotnych miejscach pod jodłami i świerkami. Cudoniella clavus jest bledsza, z bardziej tarczowatą główką. Kilka pokrewnych gatunków Mitrula można odróżnić tylko pod mikroskopem.",
+        notes: "Uważany za wskaźnik czystej wody. W wielu krajach jest rzadki i wpisany na krajowe czerwone listy, na przykład jako krytycznie zagrożony (Critically Endangered) w Bułgarii i jako narażony (Vulnerable) w Polsce."
+      },
+      pt: {
+        description: "Pequeno ascomicete saprotrófico que cresce isolado ou em colónias densas sobre restos vegetais em decomposição, em água límpida e pouco profunda. É amplamente distribuído, mas localizado, na zona temperada fria da Europa, da América do Norte e do Japão, e a mesma colónia pode frutificar no mesmo local durante muitos anos.",
+        cap: "A cabeça fértil é lisa, brilhante, oca e quebradiça, amarelo-vivo a amarelo-dourado ou amarelo-alaranjado, e esmorece com a idade. Tem forma de clava, ovoide, fusiforme ou cilíndrica, muitas vezes irregularmente lobada ou rugosa, com 5–30 mm de altura e até 10 mm de largura, e está nitidamente separada do estipe. São conhecidas raras formas brancas.",
+        hymenium: "O himénio cobre a superfície lisa da cabeça. Os ascos situam-se entre paráfises filiformes, septadas, por vezes ramificadas e ligeiramente dilatadas nas pontas.",
+        stipe: "O estipe é cilíndrico, com 20–50 mm de comprimento e ocasionalmente até 80 mm, e 1–3 mm de espessura. É oco, liso e quebradiço, branco translúcido a esbranquiçado ou acinzentado, por vezes com tom rosado, e ligeiramente viscoso quando molhado. A base é por vezes castanho-claro. O corpo frutífero inteiro tem 2–8 cm de altura.",
+        flesh: "A carne é aquosa, cerosa, translúcida e fina, sem cheiro nem sabor distintivos.",
+        sporePrint: "Branca. Os ascósporos são cilíndricos a estreitamente elipsoides ou ligeiramente fusiformes, lisos, hialinos e de parede fina, com 10–19 × 2–4 μm. Contêm gotículas de óleo, geralmente não têm septo e muitas vezes desenvolvem um septo central na maturidade. Os ascos são cilíndricos a claviformes, com 90–150 × 6–9 μm, com oito esporos e ápice fracamente amiloide, e os esporos dispõem-se em duas fiadas irregulares.",
+        habitat: "Cresce sobre folhas, agulhas, ramos e cones em decomposição, sobre musgos, incluindo esfagnos, e sobre algas, em turfeiras, pântanos, amiais encharcados, nascentes, valas, ribeiros florestais e margens de charcos, sobretudo em água parada ou de corrente lenta, parcialmente submerso ou apenas com a cabeça acima da superfície. Prefere locais sombrios com água pobre em nutrientes e rica em oxigénio e é mais frequente em maiores altitudes. Os corpos frutíferos surgem geralmente de abril a setembro, por vezes já em março nos anos amenos, e novamente no outono no Japão. Crescem em grupos de até centenas de exemplares que formam tapetes cor de laranja.",
+        uses: "É demasiado pequeno e de carne demasiado fina para ter interesse culinário e é considerado não comestível.",
+        confusion: "Vibrissea truncorum tem o estipe finamente escamoso, com tom enegrecido, e a cabeça de forma diferente, e cresce em ramos que emergem da água. Spathularia flavida é maior, com a cabeça achatada, em forma de espátula, de amarelo mais pálido e sem tons alaranjados, e cresce sob coníferas em locais menos húmidos. Heyderia abietis tem o estipe avermelhado e a cabeça de cor camurça, e cresce em locais húmidos sob abetos e espruces. Cudoniella clavus é mais pálida, com a cabeça mais discoide. Várias espécies aparentadas de Mitrula só se distinguem ao microscópio.",
+        notes: "É considerado um indicador de água limpa. É raro em muitos países e consta de listas vermelhas nacionais, por exemplo como criticamente em perigo (Critically Endangered) na Bulgária e vulnerável (Vulnerable) na Polónia."
+      },
+      ro: {
+        description: "Mică ciupercă ascomicetă saprotrofă care crește solitar sau în colonii dese pe resturi vegetale în descompunere, în ape puțin adânci și curate. Este larg răspândită, dar locală, în zona temperată răcoroasă a Europei, a Americii de Nord și a Japoniei, iar aceeași colonie poate fructifica în același loc timp de mulți ani.",
+        cap: "Capul fertil este neted, lucios, gol pe dinăuntru și fragil, galben aprins până la galben-auriu sau galben-portocaliu, și se decolorează odată cu vârsta. Are formă de măciucă, ovoidală, fusiformă sau cilindrică, adesea lobat sau încrețit neregulat, înalt de 5–30 mm și lat de până la 10 mm, și este net delimitat de picior. Se cunosc rare forme albe.",
+        hymenium: "Imeniul acoperă suprafața netedă a capului. Ascele stau între parafize filiforme, septate, uneori ramificate și ușor umflate la vârf.",
+        stipe: "Piciorul este cilindric, lung de 20–50 mm și uneori până la 80 mm, și gros de 1–3 mm. Este gol pe dinăuntru, neted și fragil, alb translucid până la albicios sau cenușiu, uneori cu nuanță roz, și ușor lipicios pe vreme umedă. Baza este uneori brun-deschis. Întregul corp fructifer are 2–8 cm înălțime.",
+        flesh: "Carnea este apoasă, ceroasă, translucidă și subțire, fără miros sau gust distinct.",
+        sporePrint: "Alb. Ascosporii sunt cilindrici până la îngust elipsoidali sau ușor fusiformi, netezi, hialini și cu perete subțire, de 10–19 × 2–4 μm. Conțin picături de ulei, de obicei nu au sept și adesea formează un sept central la maturitate. Ascele sunt cilindrice până la clavate, de 90–150 × 6–9 μm, cu opt spori și vârf slab amiloid, iar sporii sunt dispuși pe două rânduri neregulate.",
+        habitat: "Crește pe frunze, ace, ramuri și conuri în descompunere, pe mușchi, inclusiv sfagnum, și pe alge, în turbării, mlaștini, aninișuri mlăștinoase, izvoare, șanțuri, pâraie din păduri și pe marginea bălților, mai ales în apă stătătoare sau cu curgere lentă, parțial scufundată sau doar cu capul deasupra suprafeței. Preferă locuri umbrite, cu apă săracă în nutrienți și bogată în oxigen, și este mai frecventă la altitudini mai mari. Corpurile fructifere apar de obicei din aprilie până în septembrie, uneori încă din martie în anii blânzi, iar în Japonia din nou toamna. Cresc în grupuri de până la sute de exemplare, care formează covoare portocalii.",
+        uses: "Este prea mică și prea subțire la carne pentru a prezenta interes culinar și este considerată necomestibilă.",
+        confusion: "Vibrissea truncorum are piciorul fin solzos, cu nuanță negricioasă, și capul de altă formă, și crește pe ramuri care ies din apă. Spathularia flavida este mai mare, cu capul turtit, în formă de spatulă, galben mai pal și fără tonuri portocalii, și crește sub conifere în locuri mai puțin umede. Heyderia abietis are piciorul roșiatic și capul de culoare bej-gălbui, și crește în locuri umede sub brazi și molizi. Cudoniella clavus este mai palidă, cu capul mai asemănător unui disc. Mai multe specii înrudite de Mitrula pot fi deosebite doar la microscop.",
+        notes: "Este considerată un indicator al apei curate. Este rară în multe țări și figurează pe liste roșii naționale, de exemplu ca specie critic periclitată (Critically Endangered) în Bulgaria și vulnerabilă (Vulnerable) în Polonia."
+      },
+      ru: {
+        description: "Мелкий сапротрофный сумчатый гриб (аскомицет), растущий одиночно или плотными группами на гниющих растительных остатках в мелкой чистой воде. Широко распространён, но встречается локально в прохладной умеренной зоне Европы, Северной Америки и Японии; одна и та же колония может плодоносить на одном месте много лет.",
+        cap: "Фертильная головка гладкая, блестящая, полая и хрупкая, ярко-жёлтая до золотистой или оранжево-жёлтой, с возрастом выцветает. Она булавовидная, яйцевидная, веретеновидная или цилиндрическая, часто неправильно-лопастная или морщинистая, высотой 5–30 мм и до 10 мм шириной, резко отграничена от ножки. Известны редкие белые формы.",
+        hymenium: "Гимений покрывает гладкую поверхность головки. Аски расположены среди нитевидных парафиз, которые имеют перегородки, иногда ветвятся и слегка вздуты на концах.",
+        stipe: "Ножка цилиндрическая, длиной 20–50 мм, изредка до 80 мм, и толщиной 1–3 мм. Она полая, гладкая и хрупкая, полупрозрачно-белая до беловатой или сероватой, иногда с розоватым оттенком, во влажную погоду слегка липкая. Основание иногда светло-коричневое. Всё плодовое тело имеет высоту 2–8 см.",
+        flesh: "Мякоть водянистая, воскообразная, полупрозрачная и тонкая, без выраженного запаха и вкуса.",
+        sporePrint: "Белый. Аскоспоры цилиндрические до узкоэллипсоидных или слегка веретеновидных, гладкие, бесцветные и тонкостенные, размером 10–19 × 2–4 мкм. Они содержат капли масла, обычно без перегородки, а при созревании часто образуют перегородку посередине. Аски цилиндрические до булавовидных, размером 90–150 × 6–9 мкм, восьмиспоровые, со слабоамилоидной верхушкой, споры располагаются в них в два неправильных ряда.",
+        habitat: "Растёт на гниющих листьях, хвое, веточках и шишках, на мхах (в том числе сфагновых) и водорослях в болотах, топях, ольшаниках, у родников, в канавах, лесных ручьях и по краям прудов, чаще в стоячей или медленно текущей воде, частично погружённый в воду или с головкой над поверхностью. Предпочитает тенистые места с бедной питательными веществами, богатой кислородом водой и чаще встречается на больших высотах. Плодовые тела обычно появляются с апреля по сентябрь, в мягкие годы иногда уже в марте, а в Японии вновь осенью. Растёт группами до нескольких сотен экземпляров, образуя оранжевые ковры.",
+        uses: "Слишком мал и тонкомясист, чтобы представлять кулинарный интерес, и считается несъедобным.",
+        confusion: "У Vibrissea truncorum ножка мелкочешуйчатая с чернеющим оттенком, а головка иной формы; растёт на веточках, торчащих из воды. Spathularia flavida крупнее, головка плоская, лопатовидная, более бледно-жёлтая, без оранжевых тонов; растёт под хвойными в менее влажных местах. У Heyderia abietis ножка красноватая, головка светло-жёлто-бурая; растёт во влажных местах под пихтами и елями. Cudoniella clavus бледнее, головка более дисковидная. Несколько родственных видов Mitrula различимы только под микроскопом.",
+        notes: "Считается индикатором чистой воды. Во многих странах редок и внесён в национальные красные списки, например как находящийся на грани исчезновения (Critically Endangered) в Болгарии и уязвимый (Vulnerable) в Польше."
+      },
+      sr: {
+        description: "Мала сапротрофна гљива из раздела аскомицета (Ascomycota) која расте појединачно или у густим колонијама на трулим биљним остацима у плитким, чистим водама. Распрострањена је, али локална, у хладној умереној зони Европе, Северне Америке и Јапана, а иста колонија може на истом месту доносити плодна тела многим годинама.",
+        cap: "Плодна главица је глатка, сјајна, шупља и крта, јарко жута до златножута или наранџастожута, а с годинама бледи. Булавастог је, јајастог, вретенастог или цилиндричног облика, често неправилно режњевита или наборана, висока 5–30 mm и широка до 10 mm, и оштро је одвојена од дршке. Познати су ретки бели облици.",
+        hymenium: "Хименијум облаже глатку површину главице. Аскуси (врећице) стоје међу кончастим парафизама, које имају преграде, понекад су разгранате и на врховима благо отечене.",
+        stipe: "Дршка је ваљкаста, дуга 20–50 mm, понекад до 80 mm, и дебела 1–3 mm. Шупља је, глатка и крта, провидно бела до беличаста или сивкаста, понекад са ружичастим одсјајем, а кад је влажна, благо лепљива. Основа је понекад светлосмеђа. Цело плодно тело је високо 2–8 cm.",
+        flesh: "Месо је воденасто, воскасто, провидно и танко, без изразитог мириса и укуса.",
+        sporePrint: "Бео. Аскоспоре су ваљкасте до уско елиптичне или благо вретенасте, глатке, безбојне и танкозидне, димензија 10–19 × 2–4 μm. Садрже уљне капи, обично немају преграду, а при зрењу често образују једну централну преграду. Аскуси су ваљкасти до булавасти, димензија 90–150 × 6–9 μm, са осам спора и слабо амилоидним врхом, а споре у њима леже у два неправилна низа.",
+        habitat: "Расте на трулом лишћу, четинама, гранчицама и шишаркама, на маховинама, укључујући тресетне маховине (Sphagnum), и на алгама, у тресетиштима, мочварама, мочварним јовиковим шумама, на изворима, у јарцима, шумским потоцима и на ободима бара, углавном у стајаћој или споро текућој води, делимично потопљена или само са главицом изнад површине. Воли сеновита места са водом сиромашном хранљивим материјама и богатом кисеоником и чешћа је у вишим пределима. Плодна тела се обично појављују од априла до септембра, у благим годинама понекад већ у марту, а у Јапану поново у јесен. Расту у групама до неколико стотина примерака које граде наранџасте тепихе.",
+        uses: "Премала је и танког меса да би имала кулинарски значај и сматра се нејестивом.",
+        confusion: "Vibrissea truncorum има ситно љускаву дршку са црникастим призвуком и главицу другачијег облика, а расте на гранчицама које вире из воде. Spathularia flavida је већа, са спљоштеном, лопатастом, блеђе жутом главицом без наранџастих тонова, а расте испод четинара на мање влажним местима. Heyderia abietis има црвенкасту дршку и бледожућкастосмеђу главицу, а расте на влажним местима испод јела и смрча. Cudoniella clavus је блеђа, са главицом више налик диску. Неколико сродних врста рода Mitrula могу се разликовати само микроскопом.",
+        notes: "Сматра се показатељем чисте воде. Ретка је у многим земљама и налази се на националним црвеним листама, на пример као критично угрожена (Critically Endangered) у Бугарској и као рањива (Vulnerable) у Пољској."
+      },
+      sl: {
+        description: "Majhna saprotrofna zaprtotrosnica (Ascomycota), ki raste posamično ali v gostih kolonijah na trohnečih rastlinskih ostankih v plitvi, čisti vodi. Razširjena je, a krajevna, v hladnem zmernem pasu Evrope, Severne Amerike in Japonske, ista kolonija pa lahko na istem mestu rodi mnogo let.",
+        cap: "Rodna glavica je gladka, sijoča, votla in krhka, živo rumena do zlatorumena ali oranžnorumena, s starostjo pa zbledi. Je kijasta, jajčasta, vretenasta ali valjasta, pogosto nepravilno krpasta ali nagubana, visoka 5–30 mm in široka do 10 mm ter ostro ločena od beta. Znane so redke bele oblike.",
+        hymenium: "Trosovnica prekriva gladko površino glavice. Mešički (askusi) stojijo med nitastimi parafizami, ki imajo prečne stene, so včasih razvejane in na koncih rahlo nabrekle.",
+        stipe: "Bet je valjast, dolg 20–50 mm, občasno do 80 mm, in debel 1–3 mm. Je votel, gladek in krhek, prosojno bel do belkast ali sivkast, včasih z rožnatim odtenkom, v mokrem pa rahlo lepljiv. Dno je včasih svetlorjavo. Celoten trosnjak je visok 2–8 cm.",
+        flesh: "Meso je vodeno, voščeno, prosojno in tanko, brez izrazitega vonja ali okusa.",
+        sporePrint: "Bel. Askospore so valjaste do ozko elipsoidne ali rahlo vretenaste, gladke, brezbarvne in tankostenske, velike 10–19 × 2–4 μm. Vsebujejo oljne kapljice, praviloma nimajo pregrade, ob zrelosti pa pogosto razvijejo srednjo pregrado. Mešički so valjasti do kijasti, veliki 90–150 × 6–9 μm, z osmimi sporami in rahlo amiloidnim vrhom, spore pa ležijo v dveh nepravilnih vrstah.",
+        habitat: "Raste na trohnečem listju, iglicah, vejicah in storžih, na mahovih, tudi šotnih, in na algah v barjih, močvirjih, jelševjih, izvirih, jarkih, gozdnih potokih in ob robovih mlak, večinoma v stoječi ali počasi tekoči vodi, delno potopljena ali le z glavico nad gladino. Najraje ima senčna mesta z vodo, revno s hranili in bogato s kisikom, in je pogostejša više. Trosnjaki običajno rastejo od aprila do septembra, v blagih letih včasih že marca, na Japonskem pa znova jeseni. Rastejo v skupinah do več sto trosnjakov, ki oblikujejo oranžne preproge.",
+        uses: "Je premajhna in pretankega mesa, da bi bila kulinarično zanimiva, in velja za neužitno.",
+        confusion: "Vibrissea truncorum ima drobno luskast bet s črnkastim odtenkom in glavico drugačne oblike ter raste na vejicah, ki molijo iz vode. Spathularia flavida je večja, s ploščato, lopatasto, bledejše rumeno glavico brez oranžnih tonov, in raste pod iglavci na manj vlažnih mestih. Heyderia abietis ima rdečkast bet in bledo rumenorjavo glavico ter raste na vlažnih mestih pod jelkami in smrekami. Cudoniella clavus je bolj bleda, z bolj diskasto glavico. Več sorodnih vrst rodu Mitrula je mogoče ločiti le pod mikroskopom.",
+        notes: "Velja za kazalnik čiste vode. V mnogih državah je redka in uvrščena na nacionalne rdeče sezname, na primer kot kritično ogrožena (Critically Endangered) v Bolgariji in ranljiva (Vulnerable) na Poljskem."
+      },
+      es: {
+        description: "Pequeño hongo ascomiceto saprótrofo que crece solitario o en colonias densas sobre restos vegetales en descomposición en aguas someras y limpias. Está ampliamente distribuido pero es local en la zona templada fría de Europa, América del Norte y Japón, y la misma colonia puede fructificar en el mismo lugar durante muchos años.",
+        cap: "La cabeza fértil es lisa, brillante, hueca y quebradiza, de color amarillo vivo a amarillo dorado o amarillo anaranjado, y se decolora con la edad. Tiene forma de maza, ovoide, fusiforme o cilíndrica, a menudo irregularmente lobulada o arrugada, de 5–30 mm de altura y hasta 10 mm de anchura, y se distingue con nitidez del pie. Se conocen raras formas blancas.",
+        hymenium: "El himenio recubre la superficie lisa de la cabeza. Las ascas se disponen entre paráfisis filiformes, tabicadas, a veces ramificadas y ligeramente hinchadas en el ápice.",
+        stipe: "El pie es cilíndrico, de 20–50 mm de largo y ocasionalmente hasta 80 mm, y de 1–3 mm de grosor. Es hueco, liso y quebradizo, blanco translúcido a blanquecino o grisáceo, a veces con un tinte rosado, y ligeramente viscoso cuando está húmedo. La base es en ocasiones pardo claro. El cuerpo fructífero completo mide 2–8 cm de altura.",
+        flesh: "La carne es acuosa, cérea, translúcida y delgada, sin olor ni sabor distintivos.",
+        sporePrint: "Blanca. Las ascosporas son cilíndricas a estrechamente elipsoidales o ligeramente fusiformes, lisas, hialinas y de pared delgada, de 10–19 × 2–4 µm. Contienen gotas de aceite, por lo general carecen de septo y a menudo desarrollan un septo central en la madurez. Las ascas son cilíndricas a claviformes, de 90–150 × 6–9 µm, con ocho esporas y el ápice débilmente amiloide, y las esporas se disponen en dos filas irregulares.",
+        habitat: "Crece sobre hojas, acículas, ramitas y conos en descomposición, sobre musgos, incluidos los esfagnos, y sobre algas, en turberas, pantanos, alisedas encharcadas, manantiales, zanjas, arroyos forestales y orillas de charcas, sobre todo en agua estancada o de corriente lenta, parcialmente sumergido o con solo la cabeza sobre la superficie. Prefiere lugares sombríos con agua pobre en nutrientes y rica en oxígeno y es más frecuente en altitudes elevadas. Los cuerpos fructíferos aparecen por lo general de abril a septiembre, a veces ya en marzo en años suaves, y de nuevo en otoño en Japón. Crecen en grupos de hasta cientos de ejemplares que forman alfombras anaranjadas.",
+        uses: "Es demasiado pequeño y de carne demasiado fina para tener interés culinario y se considera no comestible.",
+        confusion: "Vibrissea truncorum tiene el pie finamente escamoso con un matiz negruzco y la cabeza de forma distinta, y crece sobre ramitas que sobresalen del agua. Spathularia flavida es mayor, con la cabeza aplanada, en forma de espátula, de un amarillo más pálido y sin tonos anaranjados, y crece bajo coníferas en lugares menos húmedos. Heyderia abietis tiene el pie rojizo y la cabeza de color ante, y crece en lugares húmedos bajo abetos y piceas. Cudoniella clavus es más pálida, con la cabeza más discoide. Varias especies emparentadas de Mitrula solo se distinguen al microscopio.",
+        notes: "Se considera un indicador de agua limpia. Es raro en muchos países y figura en listas rojas nacionales, por ejemplo como en peligro crítico (Critically Endangered) en Bulgaria y vulnerable (Vulnerable) en Polonia."
+      },
+      sv: {
+        description: "En liten saprotrof sporsäcksvamp som växer enstaka eller i tätt packade kolonier på ruttnande växtdelar i grunt, rent vatten. Den är vitt spridd men lokal i den svala tempererade zonen i Europa, Nordamerika och Japan, och samma koloni kan bära fruktkroppar på samma plats i många år.",
+        cap: "Det fertila huvudet är slätt, glänsande, ihåligt och sprött, klargult till gyllengult eller orangegult, och bleknar med åldern. Det är klubbformat, äggformat, spolformat eller cylindriskt, ofta oregelbundet flikigt eller skrynkligt, 5–30 mm högt och upp till 10 mm brett, och skarpt avgränsat från foten. Sällsynta vita former är kända.",
+        hymenium: "Det sporbärande skiktet täcker huvudets släta yta. Sporsäckarna (askarna) står mellan trådformade parafyser, som har tvärväggar, ibland är grenade och är något uppsvällda i topparna.",
+        stipe: "Foten är cylindrisk, 20–50 mm lång och ibland upp till 80 mm, och 1–3 mm tjock. Den är ihålig, slät och spröd, genomskinligt vit till vitaktig eller gråaktig, ibland med en rosa ton, och något kladdig när den är våt. Basen är ibland ljusbrun. Hela fruktkroppen är 2–8 cm hög.",
+        flesh: "Köttet är vattnigt, vaxartat, genomskinligt och tunt, utan tydlig lukt eller smak.",
+        sporePrint: "Vit. Askosporerna är cylindriska till smalt ellipsoida eller något spolformade, släta, färglösa och tunnväggiga, 10–19 × 2–4 μm. De innehåller oljedroppar, saknar vanligen tvärvägg och får ofta en mittvägg när de är mogna. Sporsäckarna är cylindriska till klubbformade, 90–150 × 6–9 μm, åttasporiga, med svagt amyloid topp, och sporerna ligger i två oregelbundna rader.",
+        habitat: "Den växer på ruttnande löv, barr, kvistar och kottar, på mossor, bland annat vitmossor, och på alger i myrar, kärr, klibbalskärr, källor, diken, skogsbäckar och kanten av småvatten, mestadels i stillastående eller långsamt rinnande vatten, delvis nedsänkt eller med bara huvudet över ytan. Den föredrar skuggiga platser med näringsfattigt, syrerikt vatten och är vanligare på högre höjd. Fruktkropparna kommer vanligen från april till september, i milda år ibland redan i mars, och i Japan åter på hösten. De växer i grupper på upp till hundratals, som bildar orange mattor.",
+        uses: "Den är för liten och tunnköttig för att vara intressant i matlagning och räknas som oätlig.",
+        confusion: "Vibrissea truncorum har en finfjällig fot med svartaktig ton och ett huvud med annan form, och den växer på kvistar som sticker upp ur vattnet. Spathularia flavida är större, med ett platt, spatelformat, blekare gult huvud utan orangea toner, och den växer under barrträd på mindre fuktiga platser. Heyderia abietis har en rödaktig fot och ett ljust gulbrunt huvud, och den växer på fuktiga platser under ädelgran och gran. Cudoniella clavus är blekare, med ett mer skivformigt huvud. Flera närstående Mitrula-arter kan bara skiljas åt under mikroskop.",
+        notes: "Anses vara en indikator på rent vatten. Den är sällsynt i många länder och finns på nationella rödlistor, till exempel som akut hotad (Critically Endangered) i Bulgarien och sårbar (Vulnerable) i Polen."
+      },
+      tr: {
+        description: "Sığ ve temiz sularda çürüyen bitki artıkları üzerinde tek tek veya sık koloniler halinde yetişen küçük, saprofit bir ascomycete mantarıdır. Avrupa, Kuzey Amerika ve Japonya'nın serin ılıman kuşağında yaygındır ancak yerel olarak bulunur; aynı koloni aynı yerde yıllarca meyve verebilir.",
+        cap: "Verimli baş pürüzsüz, parlak, içi boş ve kırılgandır; parlak sarıdan altın sarısına veya turuncumsu sarıya kadar değişen renktedir ve yaşlandıkça solar. Gürz biçimli, yumurtamsı, iğ biçimli veya silindirik olup çoğunlukla düzensiz loblu veya buruşuktur; 5–30 mm yüksekliğinde ve 10 mm'ye kadar genişliğindedir, sapından keskin biçimde ayrılır. Nadir beyaz formları bilinmektedir.",
+        hymenium: "Himenyum başın pürüzsüz yüzeyini kaplar. Askuslar, enine bölmeleri olan, bazen dallanan ve uçları hafifçe şişkin iplik biçimli parafizlerin arasında yer alır.",
+        stipe: "Sap silindiriktir, 20–50 mm uzunluğunda, ara sıra 80 mm'ye kadar çıkar ve 1–3 mm kalınlığındadır. İçi boş, pürüzsüz ve kırılgandır; yarı saydam beyazdan beyazımsıya veya grimsiye kadar değişir, bazen pembemsi bir ton taşır ve ıslakken hafif yapışkandır. Tabanı bazen açık kahverengidir. Meyve gövdesinin tamamı 2–8 cm yüksekliğindedir.",
+        flesh: "Et sulu, mumsu, yarı saydam ve incedir; belirgin bir kokusu veya tadı yoktur.",
+        sporePrint: "Beyaz. Askosporlar silindirikten dar elipsoide veya hafif iğ biçimliye kadar değişir; pürüzsüz, renksiz (hiyalin) ve ince çeperlidir, yaklaşık 10–19 × 2–4 μm boyutundadır. Yağ damlacıkları içerir, genellikle bölmesizdir ve olgunlukta sıklıkla ortada bir bölme oluşturur. Askuslar silindirikten gürz biçimliye kadar değişir, 90–150 × 6–9 μm boyutundadır, sekiz sporludur, ucu zayıf amiloittir ve sporlar iki düzensiz sıra halinde dizilir.",
+        habitat: "Turbalıklarda, bataklıklarda, kızılağaç bataklık ormanlarında, kaynaklarda, hendeklerde, orman derelerinde ve gölcük kenarlarında çürüyen yaprak, ibre, dal ve kozalak üzerinde, ayrıca yosun (Sphagnum dahil) ve algler üzerinde yetişir; çoğunlukla durgun veya yavaş akan suda, kısmen suya batık ya da yalnızca başı su yüzeyinin üzerinde bulunur. Besin bakımından fakir, oksijence zengin sulu, gölgeli yerleri tercih eder ve yüksek rakımlarda daha yaygındır. Meyve gövdeleri genellikle nisandan eylüle kadar görülür, ılıman yıllarda bazen mart ayında, Japonya'da ise sonbaharda yeniden ortaya çıkar. Yüzlerce bireye varan gruplar halinde büyür ve turuncu halılar oluşturur.",
+        uses: "Mutfakta ilgi görmeyecek kadar küçük ve ince etlidir; yenmez kabul edilir.",
+        confusion: "Vibrissea truncorum'un sapı ince pullu ve siyahımsı tonludur, başı farklı biçimlidir ve sudan çıkan dallar üzerinde yetişir. Spathularia flavida daha büyüktür, başı yassı, spatül biçimli ve turuncu tonlar içermeyen daha soluk sarıdır; iğne yapraklı ağaçların altında, daha az nemli yerlerde yetişir. Heyderia abietis'in sapı kırmızımsı, başı soluk sarımsı kahverengidir; göknar ve ladin altında nemli yerlerde yetişir. Cudoniella clavus daha soluktur, başı daha disk biçimlidir. Mitrula cinsindeki birkaç akraba tür yalnızca mikroskopla ayırt edilebilir.",
+        notes: "Temiz suyun göstergesi sayılır. Birçok ülkede nadirdir ve ulusal kırmızı listelerde yer alır; örneğin Bulgaristan'da kritik derecede tehlikede (Critically Endangered), Polonya'da ise hassas (Vulnerable) olarak değerlendirilir."
+      },
+      uk: {
+        description: "Дрібний сапротрофний сумчастий гриб (аскоміцет), що росте поодинці або щільними групами на гнилих рослинних рештках у мілкій чистій воді. Він широко поширений, але трапляється осередково в прохолодній помірній зоні Європи, Північної Америки та Японії, а та сама колонія може плодоносити на одному місці багато років.",
+        cap: "Фертильна головка гладенька, блискуча, порожниста й крихка, яскраво-жовта до золотистої або оранжево-жовтої, з віком вицвітає. Вона булавоподібна, яйцеподібна, веретеноподібна або циліндрична, часто нерівномірно-лопатева або зморшкувата, заввишки 5–30 мм і завширшки до 10 мм, різко відмежована від ніжки. Відомі рідкісні білі форми.",
+        hymenium: "Гіменій вкриває гладеньку поверхню головки. Сумки (аски) розташовані серед ниткоподібних парафіз, які мають перегородки, інколи розгалужені та злегка розбухлі на кінцях.",
+        stipe: "Ніжка циліндрична, завдовжки 20–50 мм, зрідка до 80 мм, і завтовшки 1–3 мм. Вона порожниста, гладенька й крихка, напівпрозоро-біла до білуватої або сіруватої, інколи з рожевуватим відтінком, у вологому стані трохи липка. Основа іноді світло-коричнева. Усе плодове тіло має висоту 2–8 см.",
+        flesh: "М'якоть водяниста, воскоподібна, напівпрозора й тонка, без виразного запаху та смаку.",
+        sporePrint: "Білий. Спори (аскоспори) циліндричні до вузькоеліпсоїдних або злегка веретеноподібних, гладенькі, безбарвні й тонкостінні, розмірами 10–19 × 2–4 мкм. Вони містять краплі олії, зазвичай без перегородки, а при дозріванні часто утворюють перегородку посередині. Аски циліндричні до булавоподібних, розмірами 90–150 × 6–9 мкм, восьмиспорові, зі слабоамілоїдною верхівкою, а спори розташовані в них у два нерівні ряди.",
+        habitat: "Росте на гнилому листі, хвої, гілочках і шишках, на мохах, зокрема сфагнових, і на водоростях у болотах, трясовинах, вільшаниках, біля джерел, у канавах, лісових струмках і по краях ставків, переважно в стоячій або повільно текучій воді, частково зануреним або лише з головкою над поверхнею. Віддає перевагу тінистим місцям із бідною на поживні речовини, багатою на кисень водою і частіше трапляється на більших висотах. Плодові тіла зазвичай з'являються з квітня по вересень, у м'які роки іноді вже в березні, а в Японії знову восени. Росте групами до кількох сотень плодових тіл, які утворюють оранжеві килими.",
+        uses: "Надто малий і тонком'якотий, щоб становити кулінарний інтерес, тому вважається неїстівним.",
+        confusion: "У Vibrissea truncorum ніжка дрібнолуската з чорнуватим відтінком, а головка іншої форми; росте на гілочках, що здіймаються з води. Spathularia flavida більша, головка плоска, лопатоподібна, блідо-жовта, без оранжевих тонів; росте під хвойними в менш вологих місцях. У Heyderia abietis ніжка червонувата, головка світло-жовтувато-бура; росте у вологих місцях під ялицями та ялинами. Cudoniella clavus блідіша, головка більш дископодібна. Кілька споріднених видів Mitrula розрізняються лише під мікроскопом.",
+        notes: "Вважається індикатором чистої води. У багатьох країнах рідкісний і внесений до національних червоних списків, наприклад у Болгарії як вид під критичною загрозою зникнення (Critically Endangered), а в Польщі як вразливий (Vulnerable)."
+      }
+    },
+    sources: {
+      en: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://en.wikipedia.org/wiki/Mitrula_paludosa"
+        },
+        {
+          "group": "text",
+          "name": "de.wikipedia",
+          "href": "https://de.wikipedia.org/wiki/Sumpf-Haubenpilz"
+        },
+        {
+          "group": "text",
+          "name": "pl.wikipedia",
+          "href": "https://pl.wikipedia.org/wiki/Mitr%C3%B3weczka_b%C5%82otna"
+        },
+        {
+          "group": "text",
+          "name": "Червена книга на България",
+          "href": "https://e-ecodb.bas.bg/rdb/bg/vol1/Mitpalud.html"
+        },
+        {
+          "group": "name",
+          "name": "Index Fungorum",
+          "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=159924",
+          "detail": "159924"
+        },
+        {
+          "group": "name",
+          "name": "Species Fungorum",
+          "href": "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=159924",
+          "detail": "159924"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5256775",
+          "detail": "5256775"
+        }
+      ],
+      sk: [
+        {
+          "group": "text",
+          "name": "nahuby.sk",
+          "href": "https://www.nahuby.sk/atlas-hub/Mitrula-paludosa/ciapocka-mociarna/capulka-bahenni/ID27",
+          "detail": "čiapočka močiarna"
+        }
+      ],
+      ar: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5256775",
+          "detail": "5256775"
+        }
+      ],
+      bg: [
+        {
+          "group": "text",
+          "name": "Уикипедия",
+          "href": "https://bg.wikipedia.org/wiki/%D0%91%D0%BB%D0%B0%D1%82%D0%BD%D0%B0_%D0%BC%D0%B8%D1%82%D1%80%D1%83%D0%BB%D0%B0"
+        },
+        {
+          "group": "name",
+          "name": "Червена книга на България",
+          "href": "https://e-ecodb.bas.bg/rdb/bg/vol1/Mitpalud.html"
+        }
+      ],
+      zh: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5256775",
+          "detail": "5256775"
+        }
+      ],
+      hr: [
+        {
+          "group": "name",
+          "name": "Crveni popis gljiva Hrvatske",
+          "href": "http://mycolsoc.hr/wp-content/uploads/2014/04/Crveni-popis-gljiva-Hrvatske.pdf"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5256775",
+          "detail": "5256775"
+        }
+      ],
+      cs: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://cs.wikipedia.org/wiki/%C4%8Capulka_bahenn%C3%AD"
+        },
+        {
+          "group": "text",
+          "name": "Česká mykologická společnost",
+          "href": "https://www.myko.cz/myko-atlas/Mitrula-paludosa/"
+        }
+      ],
+      da: [
+        {
+          "group": "name",
+          "name": "Danmarks Rødliste",
+          "href": "http://roedliste.au.dk/data.asp?ID=5142&gruppeID=93"
+        },
+        {
+          "group": "name",
+          "name": "Naturbasen",
+          "href": "https://www.naturbasen.dk/art/4970/gul-noekketunge"
+        }
+      ],
+      nl: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://nl.wikipedia.org/wiki/Beekmijtertje"
+        },
+        {
+          "group": "name",
+          "name": "Verspreidingsatlas",
+          "href": "https://www.verspreidingsatlas.nl/0642010"
+        }
+      ],
+      et: [
+        {
+          "group": "text",
+          "name": "Vikipeedia",
+          "href": "https://et.wikipedia.org/wiki/Pisipahtlik"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5256775",
+          "detail": "5256775"
+        }
+      ],
+      fi: [
+        {
+          "group": "name",
+          "name": "Suomen Lajitietokeskus",
+          "href": "https://laji.fi/taxon/MX.237561"
+        }
+      ],
+      fr: [
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://fr.wikipedia.org/wiki/Mitrula_paludosa"
+        },
+        {
+          "group": "name",
+          "name": "TAXREF",
+          "href": "https://taxref.mnhn.fr/taxref-web/taxa/48551",
+          "detail": "48551"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5256775",
+          "detail": "5256775"
+        }
+      ],
+      de: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://de.wikipedia.org/wiki/Sumpf-Haubenpilz"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5256775",
+          "detail": "5256775"
+        }
+      ],
+      he: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5256775",
+          "detail": "5256775"
+        }
+      ],
+      hi: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5256775",
+          "detail": "5256775"
+        }
+      ],
+      hu: [
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://hu.wikipedia.org/wiki/Mocs%C3%A1ri_sapk%C3%A1sgomba"
+        },
+        {
+          "group": "name",
+          "name": "Mikológiai Közlemények",
+          "href": "https://real-j.mtak.hu/29156/1/moeszia9-10.pdf"
+        }
+      ],
+      id: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5256775",
+          "detail": "5256775"
+        }
+      ],
+      it: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5256775",
+          "detail": "5256775"
+        }
+      ],
+      ja: [
+        {
+          "group": "text",
+          "name": "ウィキペディア",
+          "href": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%B3%E3%83%A0%E3%83%AA%E3%82%BF%E3%82%B1"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5256775",
+          "detail": "5256775"
+        }
+      ],
+      ko: [
+        {
+          "group": "name",
+          "name": "한국균학회지 (KCI)",
+          "href": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001361996"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5256775",
+          "detail": "5256775"
+        }
+      ],
+      lv: [
+        {
+          "group": "name",
+          "name": "Latvijas sēnes",
+          "href": "https://www.senes.lv/species/mitrula_paludosa.htm"
+        },
+        {
+          "group": "name",
+          "name": "Latvijas daba",
+          "href": "https://latvijasdaba.lv/senes/mitrula-paludosa-fr/"
+        }
+      ],
+      lt: [
+        {
+          "group": "name",
+          "name": "Lietuvos makroskopinių grybų ir kerpių sąvadas (2024)",
+          "href": "https://gamtostyrimai.lt/wp-content/uploads/2024/12/2024_Grybu_savadas_web.pdf"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5256775",
+          "detail": "5256775"
+        }
+      ],
+      no: [
+        {
+          "group": "name",
+          "name": "Norsk rødliste for arter 2021",
+          "href": "https://lister.artsdatabanken.no/rodlisteforarter/2021/895"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5256775",
+          "detail": "5256775"
+        }
+      ],
+      fa: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5256775",
+          "detail": "5256775"
+        }
+      ],
+      pl: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://pl.wikipedia.org/wiki/Mitr%C3%B3weczka_b%C5%82otna"
+        },
+        {
+          "group": "name",
+          "name": "grzyby.pl",
+          "href": "https://www.grzyby.pl/gatunki/Mitrula_paludosa.htm"
+        }
+      ],
+      pt: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5256775",
+          "detail": "5256775"
+        }
+      ],
+      ro: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5256775",
+          "detail": "5256775"
+        }
+      ],
+      ru: [
+        {
+          "group": "text",
+          "name": "Википедия",
+          "href": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D1%82%D1%80%D1%83%D0%BB%D0%B0_%D0%B1%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D0%B0%D1%8F"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5256775",
+          "detail": "5256775"
+        }
+      ],
+      sr: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5256775",
+          "detail": "5256775"
+        }
+      ],
+      sl: [
+        {
+          "group": "name",
+          "name": "Gobarsko društvo Lisička Maribor",
+          "href": "https://www.gobe.si/Gobe/MitrulaPaludosa"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5256775",
+          "detail": "5256775"
+        }
+      ],
+      es: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5256775",
+          "detail": "5256775"
+        }
+      ],
+      sv: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://sv.wikipedia.org/wiki/Klubbmurkling"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5256775",
+          "detail": "5256775"
+        }
+      ],
+      tr: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5256775",
+          "detail": "5256775"
+        }
+      ],
+      uk: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5256775",
+          "detail": "5256775"
+        }
+      ]
+    },
+    synonyms: [
+      "Clavaria epiphylla Dicks.",
+      "Clavaria phalloides Bull.",
+      "Clavaria spathula O.F.Müll.",
+      "Helvella aurantiaca A.Cumino",
+      "Leotia dicksonii Pers.",
+      "Leotia epiphylla (Dicks.) Hook.",
+      "Leotia uliginosa Grev.",
+      "Leotia uliginosa Pers.",
+      "Mitrula dicksonii (Pers.) Gray",
+      "Mitrula phalloides (Bull.) Chevall.",
+      "Mitrula spathula (O.F.Müll.) Fr.",
+      "Mitrula uliginosa (Pers.) Grev."
+    ]
   }
 ];
