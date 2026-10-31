@@ -1,4 +1,4 @@
-// Rank vernaculars. A Slovak name is stored on sk.
+// Rank vernaculars. A name is stored on the language code that has one.
 export const TAXA = {
   Fungi: {
     rank: "kingdom",
@@ -55,11 +55,19 @@ export const TAXA = {
   },
   Boletaceae: {
     rank: "family",
-    sk: "hríbovité"
+    sk: "hríbovité",
+    cs: "hřibovité",
+    de: "Steinpilzverwandte",
+    fr: "bolétacées",
+    hu: "tinórufélék",
+    pl: "borowikowate"
   },
   Hygrophoropsidaceae: {
     rank: "family",
-    sk: "líštičkovité"
+    sk: "líštičkovité",
+    cs: "lištičkovité",
+    fr: "hygrophoropsidacées",
+    pl: "lisówkowate"
   },
   Hygrophoropsis: {
     rank: "genus",
@@ -75,14 +83,21 @@ export const TAXA = {
   },
   Hygrophoraceae: {
     rank: "family",
-    sk: "šťavnačkovité"
+    sk: "šťavnačkovité",
+    cs: "šťavnatkovité",
+    pl: "wodnichowate"
   },
   Gliophorus: {
     rank: "genus"
   },
   Marasmiaceae: {
     rank: "family",
-    sk: "špičkovité"
+    sk: "špičkovité",
+    cs: "špičkovité",
+    de: "Schwindlingsverwandte",
+    fr: "marasmiacées",
+    hu: "szegfűgombafélék",
+    pl: "twardzioszkowate"
   },
   Marasmius: {
     rank: "genus",
@@ -90,19 +105,33 @@ export const TAXA = {
   },
   Amanitaceae: {
     rank: "family",
-    sk: "muchotrávkovité"
+    sk: "muchotrávkovité",
+    cs: "muchomůrkovité",
+    de: "Wulstlingsverwandte",
+    fr: "amanitacées",
+    hu: "galócafélék",
+    pl: "muchomorowate"
   },
   Agaricaceae: {
     rank: "family",
-    sk: "pečiarkovité"
+    sk: "pečiarkovité",
+    cs: "pečárkovité",
+    de: "Champignonverwandte",
+    fr: "agaricacées",
+    hu: "csiperkefélék",
+    pl: "pieczarkowate"
   },
   Hydnaceae: {
     rank: "family",
-    sk: "jelenkovité"
+    sk: "jelenkovité",
+    cs: "lišákovité",
+    pl: "kolczakowate"
   },
   Hydnangiaceae: {
     rank: "family",
-    sk: "plávkovcovité"
+    sk: "plávkovcovité",
+    cs: "lanýžovcovité",
+    pl: "piestróweczkowate"
   },
   Laccaria: {
     rank: "genus",
@@ -110,11 +139,17 @@ export const TAXA = {
   },
   Morchellaceae: {
     rank: "family",
-    sk: "smrčkovité"
+    sk: "smrčkovité",
+    cs: "smržovité",
+    hu: "kucsmagombafélék",
+    pl: "smardzowate"
   },
   Pleurotaceae: {
     rank: "family",
-    sk: "hlivovité"
+    sk: "hlivovité",
+    cs: "hlívovité",
+    de: "Seitlingsverwandte",
+    pl: "boczniakowate"
   },
   Boletus: {
     rank: "genus",
@@ -184,7 +219,8 @@ export const TAXA = {
     sk: "hliva"
   },
   Phyllotopsidaceae: {
-    rank: "family"
+    rank: "family",
+    pl: "boczniaczkowate"
   },
   Pleurocybella: {
     rank: "genus"
@@ -205,7 +241,11 @@ export const TAXA = {
   },
   Polyporaceae: {
     rank: "family",
-    sk: "trúdnikovité"
+    sk: "trúdnikovité",
+    cs: "chorošovité",
+    de: "Stielporlingsverwandte",
+    fr: "polyporacées",
+    pl: "żagwiowate"
   },
   Polyporus: {
     rank: "genus",
@@ -232,7 +272,9 @@ export const TAXA = {
   },
   Physalacriaceae: {
     rank: "family",
-    sk: "čaďovkovité"
+    sk: "čaďovkovité",
+    fr: "physalacriacées",
+    pl: "obrzękowcowate"
   },
   Armillaria: {
     rank: "genus",
@@ -244,7 +286,11 @@ export const TAXA = {
   },
   Discinaceae: {
     rank: "family",
-    sk: "ušiakovité"
+    sk: "ušiakovité",
+    cs: "desticovité",
+    de: "Giftlorchelverwandte",
+    fr: "discinacées",
+    pl: "krążkownicowate"
   },
   Gyromitra: {
     rank: "genus",
@@ -252,11 +298,19 @@ export const TAXA = {
   },
   Strophariaceae: {
     rank: "family",
-    sk: "golierovkovité"
+    sk: "golierovkovité",
+    cs: "límcovkovité",
+    de: "Träuschlingsverwandte",
+    fr: "strophariacées",
+    pl: "pierścieniakowate"
   },
   Suillaceae: {
     rank: "family",
-    sk: "masliakovité"
+    sk: "masliakovité",
+    cs: "klouzkovité",
+    de: "Schmierröhrlingsverwandte",
+    fr: "suillacées",
+    pl: "maślakowate"
   },
   Suillus: {
     rank: "genus",
@@ -280,11 +334,18 @@ export const TAXA = {
   },
   Russulaceae: {
     rank: "family",
-    sk: "plávkovité"
+    sk: "plávkovité",
+    cs: "holubinkovité",
+    de: "Täublingsverwandte",
+    fr: "russulacées",
+    pl: "gołąbkowate"
   },
   Auriscalpiaceae: {
     rank: "family",
-    sk: "lyžičkovcovité"
+    sk: "lyžičkovcovité",
+    cs: "lžičkovcovité",
+    de: "Ohrlöffelstachelingsverwandte",
+    pl: "szyszkogłówkowate"
   },
   Lactarius: {
     rank: "genus",
@@ -296,7 +357,12 @@ export const TAXA = {
   },
   Cortinariaceae: {
     rank: "family",
-    sk: "pavučinovcovité"
+    sk: "pavučinovcovité",
+    cs: "pavučincovité",
+    de: "Schleierlingsverwandte",
+    fr: "cortinariacées",
+    hu: "pókhálósgombafélék",
+    pl: "zasłonakowate"
   },
   Cortinarius: {
     rank: "genus",
@@ -304,7 +370,10 @@ export const TAXA = {
   },
   Fistulinaceae: {
     rank: "family",
-    sk: "pečeňovcovité"
+    sk: "pečeňovcovité",
+    cs: "pstřeňovité",
+    de: "Leberreischlingsverwandte",
+    pl: "ozorkowate"
   },
   Fistulina: {
     rank: "genus",
@@ -312,7 +381,9 @@ export const TAXA = {
   },
   Lyophyllaceae: {
     rank: "family",
-    sk: "čírovnicovité"
+    sk: "čírovnicovité",
+    cs: "líhovité",
+    pl: "kępkowcowate"
   },
   Calocybe: {
     rank: "genus",
@@ -320,7 +391,10 @@ export const TAXA = {
   },
   Inocybaceae: {
     rank: "family",
-    sk: "vláknicovité"
+    sk: "vláknicovité",
+    cs: "vláknicovité",
+    fr: "inocybacées",
+    pl: "strzępiakowate"
   },
   Inosperma: {
     rank: "genus",
@@ -331,11 +405,17 @@ export const TAXA = {
   },
   Bankeraceae: {
     rank: "family",
-    sk: "korkovkovité"
+    sk: "korkovkovité",
+    cs: "bělozubovité",
+    de: "Weißsporstachelingsverwandte",
+    pl: "kolcownicowate"
   },
   Paxillaceae: {
     rank: "family",
-    sk: "čechračkovité"
+    sk: "čechračkovité",
+    cs: "čechratkovité",
+    fr: "paxillacées",
+    pl: "krowiakowate"
   },
   Paxillus: {
     rank: "genus",
@@ -343,7 +423,10 @@ export const TAXA = {
   },
   Sparassidaceae: {
     rank: "family",
-    sk: "kučierkovité"
+    sk: "kučierkovité",
+    cs: "kotrčovité",
+    de: "Gluckenverwandte",
+    pl: "siedzuniowate"
   },
   Sparassis: {
     rank: "genus",
@@ -351,7 +434,11 @@ export const TAXA = {
   },
   Tricholomataceae: {
     rank: "family",
-    sk: "čírovkovité"
+    sk: "čírovkovité",
+    cs: "čirůvkovité",
+    de: "Ritterlingsverwandte",
+    hu: "pereszkefélék",
+    pl: "gąskowate"
   },
   Tricholoma: {
     rank: "genus",
@@ -385,7 +472,10 @@ export const TAXA = {
   },
   Entolomataceae: {
     rank: "family",
-    sk: "hodvábnicovité"
+    sk: "hodvábnicovité",
+    cs: "závojenkovité",
+    de: "Rötlingsverwandte",
+    pl: "dzwonkówkowate"
   },
   Entoloma: {
     rank: "genus",
@@ -393,7 +483,11 @@ export const TAXA = {
   },
   Phallaceae: {
     rank: "family",
-    sk: "hadovkovité"
+    sk: "hadovkovité",
+    cs: "hadovkovité",
+    de: "Stinkmorchelverwandte",
+    fr: "phallacées",
+    pl: "sromotnikowate"
   },
   Phallomycetidae: {
     rank: "subclass"
@@ -408,7 +502,10 @@ export const TAXA = {
   },
   Auriculariaceae: {
     rank: "family",
-    sk: "uchovkovité"
+    sk: "uchovkovité",
+    cs: "boltcovitkovité",
+    de: "Ohrlappenpilzverwandte",
+    pl: "uszakowate"
   },
   Auriculariomycetidae: {
     rank: "subclass"
@@ -424,7 +521,9 @@ export const TAXA = {
   },
   Lycoperdaceae: {
     rank: "family",
-    sk: "prášnicovité"
+    sk: "prášnicovité",
+    fr: "lycoperdacées",
+    pl: "purchawkowate"
   },
   Lycoperdon: {
     rank: "genus",
@@ -453,7 +552,10 @@ export const TAXA = {
   },
   Hypocreaceae: {
     rank: "family",
-    sk: "mäsenkovité"
+    sk: "mäsenkovité",
+    cs: "masenkovité",
+    de: "Krustenkugelpilzverwandte",
+    pl: "rozetkowate"
   },
   Trichoderma: {
     rank: "genus",
@@ -461,14 +563,20 @@ export const TAXA = {
   },
   Cordycipitaceae: {
     rank: "family",
-    sk: "žezlovkovité"
+    sk: "žezlovkovité",
+    de: "Kernkeulenverwandte",
+    fr: "cordycipitacées",
+    pl: "maczużnikowate"
   },
   Cordyceps: {
     rank: "genus"
   },
   Hericiaceae: {
     rank: "family",
-    sk: "koralovcovité"
+    sk: "koralovcovité",
+    cs: "korálovcovité",
+    de: "Stachelbartverwandte",
+    pl: "soplówkowate"
   },
   Hericium: {
     rank: "genus",
@@ -476,7 +584,9 @@ export const TAXA = {
   },
   Gomphaceae: {
     rank: "family",
-    sk: "lievikovcovité"
+    sk: "lievikovcovité",
+    cs: "stročkovcovité",
+    pl: "siatkoblaszkowate"
   },
   Gomphus: {
     rank: "genus",
@@ -488,21 +598,26 @@ export const TAXA = {
   },
   Serpulaceae: {
     rank: "family",
-    sk: "drevokazovité"
+    sk: "drevokazovité",
+    pl: "stroczkowate"
   },
   Serpula: {
     rank: "genus"
   },
   Tuberaceae: {
     rank: "family",
-    sk: "hľuzovkovité"
+    sk: "hľuzovkovité",
+    cs: "lanýžovité",
+    pl: "truflowate"
   },
   Choiromyces: {
     rank: "genus"
   },
   Nidulariaceae: {
     rank: "family",
-    sk: "hniezdovcovité"
+    sk: "hniezdovcovité",
+    de: "Nestlingsverwandte",
+    fr: "champignons nids d'oiseaux"
   },
   Crucibulum: {
     rank: "genus",
