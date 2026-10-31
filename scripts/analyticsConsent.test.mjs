@@ -1,6 +1,6 @@
 import assert from 'node:assert/strict';
 import { mock, test } from 'node:test';
-import { COPY, parse, viewModel } from '../catalog.js';
+import { COPY, parse, start, viewModel } from '../catalog.js';
 import { countryFromTraces, decisionFor, parseCloudflareTrace } from '../src/analyticsConsent.mjs';
 import { analyticsLocation } from '../src/identifyQuery.mjs';
 import {
@@ -468,7 +468,7 @@ test('a failed same-origin trace uses the public country and does not ask outsid
   assertCleared(sameOrigin.written);
 });
 
-test('navigation keeps the history methods from before a later wrapper', async (t) => {
+test('router history calls miss a tag that wrapped them and listened for popstate', async (t) => {
   const nativeCalls = [];
   const wrappedCalls = [];
   const historyObj = {
@@ -479,9 +479,48 @@ test('navigation keeps the history methods from before a later wrapper', async (
       nativeCalls.push(['replace', ...args]);
     },
   };
+  const win = new EventTarget();
+  win.location = {
+    hostname: 'whatsthatmushroom.app',
+    origin: 'https://whatsthatmushroom.app',
+    pathname: '/',
+    search: '',
+    hash: '',
+  };
+  win.scrollY = 0;
+  win.scrollTo = () => {};
+  const app = { innerHTML: '' };
+  const doc = new EventTarget();
+  let script = null;
+  doc.createElement = () => {
+    script = {};
+    return script;
+  };
+  doc.head = { appendChild() {} };
+  doc.getElementById = (id) => (id === 'app' ? app : null);
+  doc.querySelector = () => null;
+  doc.querySelectorAll = () => [];
+  doc.documentElement = {
+    lang: '',
+    dir: '',
+    classList: { add() {}, remove() {} },
+    style: { setProperty() {}, removeProperty() {} },
+  };
+  doc.body = { style: { overflow: '' } };
+  doc.title = '';
   const written = [];
-  const doc = cookieDoc(written);
+  Object.defineProperty(doc, 'cookie', {
+    configurable: true,
+    get() {
+      return '';
+    },
+    set(value) {
+      written.push(value);
+    },
+  });
   globalThis.history = historyObj;
+  globalThis.location = win.location;
+  globalThis.window = win;
   globalThis.document = doc;
   globalThis.localStorage = {
     getItem() {
@@ -489,46 +528,47 @@ test('navigation keeps the history methods from before a later wrapper', async (
     },
     setItem() {},
   };
-  globalThis.window = {
-    location: {
-      hostname: 'whatsthatmushroom.app',
-      origin: 'https://whatsthatmushroom.app',
-    },
-    document: doc,
-  };
   globalThis.fetch = () => Promise.resolve({ ok: false, text: async () => '' });
   t.after(() => {
     delete globalThis.history;
+    delete globalThis.location;
     delete globalThis.window;
     delete globalThis.document;
     delete globalThis.localStorage;
     delete globalThis.fetch;
   });
-  const analytics = await import(new URL('../src/analytics.js?boot=history', import.meta.url));
+
+  const analytics = await import(new URL('../src/analytics.js?boot=unwrap', import.meta.url));
   await new Promise((resolve) => setImmediate(resolve));
-  const originalPush = historyObj.pushState;
-  const originalReplace = historyObj.replaceState;
+  analytics.allowAnalytics();
+  assert.equal(typeof script.onload, 'function');
+
+  start();
+  let tagPopstate = 0;
+  const nativePush = historyObj.pushState;
+  const nativeReplace = historyObj.replaceState;
   historyObj.pushState = (...args) => {
     wrappedCalls.push(['push', ...args]);
-    originalPush(...args);
+    nativePush(...args);
   };
   historyObj.replaceState = (...args) => {
     wrappedCalls.push(['replace', ...args]);
-    originalReplace(...args);
+    nativeReplace(...args);
   };
-  analytics.pushLocation('/identify/?under=gills');
-  analytics.replaceLocation('/sk/');
+  win.addEventListener('popstate', () => {
+    tagPopstate += 1;
+  });
+  script.onload();
+
+  history.pushState(null, '', '/identify/');
+  history.replaceState(null, '', '/');
   assert.deepEqual(wrappedCalls, []);
   assert.deepEqual(nativeCalls, [
-    ['push', null, '', '/identify/?under=gills'],
-    ['replace', null, '', '/sk/'],
+    ['push', null, '', '/identify/'],
+    ['replace', null, '', '/'],
   ]);
-  const event = {
-    stopped: false,
-    stopImmediatePropagation() {
-      this.stopped = true;
-    },
-  };
-  analytics.suppressTagHistoryEvent(event);
-  assert.equal(event.stopped, true);
+
+  win.dispatchEvent(new Event('popstate'));
+  assert.equal(tagPopstate, 0);
+  assert.equal(app.innerHTML.includes('What'), true);
 });

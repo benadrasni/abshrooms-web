@@ -8,9 +8,6 @@ import {
   pageview,
   refuseAnalytics,
   subscribeAnalytics,
-  pushLocation,
-  replaceLocation,
-  suppressTagHistoryEvent,
   trackFilterResult,
   trackMushroom,
   trackSearch,
@@ -487,14 +484,14 @@ function parse(pathname) {
 
 function go(url) {
   var here = location.pathname + location.search;
-  if (url !== here) pushLocation(url);
+  if (url !== here) history.pushState(null, "", url);
   render();
   window.scrollTo(0, 0);
 }
 
 function writeSelection(selection) {
   var next = location.pathname + selectionSearch(selection);
-  if (next !== location.pathname + location.search) replaceLocation(next);
+  if (next !== location.pathname + location.search) history.replaceState(null, "", next);
   render();
 }
 
@@ -1730,11 +1727,15 @@ function start() {
   started = true;
   bindListeners();
   render();
+  // popstate is fired at the window, so capture and bubble listeners on this
+  // window run in registration order. Stopping propagation does not skip the
+  // tag's later listener; stopping it immediately does. The tag adds that
+  // listener when its script loads, which is after start().
   window.addEventListener("popstate", function (event) {
-    suppressTagHistoryEvent(event);
     render();
     window.scrollTo(0, 0);
-  });
+    event.stopImmediatePropagation();
+  }, true);
   subscribeAnalytics(function () {
     if (parse().view === "privacy") render();
     else paintConsent(parse().lang);

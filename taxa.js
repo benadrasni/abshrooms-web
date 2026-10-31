@@ -448,6 +448,10 @@ export const TAXA = {
     rank: "genus",
     sk: "pôvabnica"
   },
+  Tricholomatineae: {
+    rank: "suborder",
+    sk: "čírovkotvaré"
+  },
   Sarcodon: {
     rank: "genus",
     sk: "jelenkovec"

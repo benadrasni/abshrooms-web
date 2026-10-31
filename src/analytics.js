@@ -12,44 +12,26 @@ const CHOICE_KEY = 'wtm-ga';
 const REGION_WAIT_MS = 3000;
 const TITLE_GAP = ' — ';
 
-// The tag wraps these and also listens for popstate, then sends its own page_view.
-// send_page_view: false does not turn that listener off. Saved here, before the
-// tag script runs, so a navigation is counted once by pageview().
-let savedPushState = null;
-let savedReplaceState = null;
+// GT-TQRTL9JS wraps pushState and replaceState once, then listens for popstate
+// on the bubble. send_page_view: false does not turn that off. These are the
+// methods from before that script runs. onload puts them back, and the tag
+// does not wrap again.
+let nativePushState = null;
+let nativeReplaceState = null;
 
-function historyApi() {
+function saveNativeHistory() {
   const nav = globalThis.history;
-  if (!nav || typeof nav.pushState !== 'function' || typeof nav.replaceState !== 'function') return null;
-  return nav;
+  if (!nav || nativePushState) return;
+  if (typeof nav.pushState !== 'function' || typeof nav.replaceState !== 'function') return;
+  nativePushState = nav.pushState;
+  nativeReplaceState = nav.replaceState;
 }
 
-function rememberHistory() {
-  if (savedPushState) return;
-  const nav = historyApi();
+function restoreNativeHistory() {
+  const nav = globalThis.history;
   if (!nav) return;
-  savedPushState = nav.pushState.bind(nav);
-  savedReplaceState = nav.replaceState.bind(nav);
-}
-
-export function pushLocation(url) {
-  rememberHistory();
-  const nav = historyApi();
-  const push = savedPushState || nav.pushState.bind(nav);
-  push(null, '', url);
-}
-
-export function replaceLocation(url) {
-  rememberHistory();
-  const nav = historyApi();
-  const replace = savedReplaceState || nav.replaceState.bind(nav);
-  replace(null, '', url);
-}
-
-// The tag adds its popstate listener after this module boots. Stopping the event
-// keeps that listener from sending a second page_view. This listener still runs.
-export function suppressTagHistoryEvent(event) {
-  if (event && typeof event.stopImmediatePropagation === 'function') event.stopImmediatePropagation();
+  if (nativePushState) nav.pushState = nativePushState;
+  if (nativeReplaceState) nav.replaceState = nativeReplaceState;
 }
 
 let mode = 'pending';
@@ -138,6 +120,7 @@ function install() {
   const script = document.createElement('script');
   script.async = true;
   script.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_TAG_ID;
+  script.onload = restoreNativeHistory;
   document.head.appendChild(script);
 }
 
@@ -364,7 +347,7 @@ async function readRegion() {
 
 function boot() {
   if (typeof window === 'undefined') return;
-  rememberHistory();
+  saveNativeHistory();
   window['ga-disable-' + GA_ID] = true;
   const stored = readChoice();
   if (stored === 'granted' || stored === 'denied') {
