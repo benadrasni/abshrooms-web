@@ -107,6 +107,8 @@ test('the Estonian year list keeps a genus pick as a genus', () => {
 test('German and Latvian year lists link the catalog species', () => {
   const germanPage = viewModel({ lang: 'de', view: 'list', key: 'mushroom-of-the-year-de', search: '' });
   assert.match(germanPage.html, /href="\/de\/mushroom\/Choiromyces%20meandriformis\/"/);
+  assert.match(germanPage.html, /href="\/de\/mushroom\/Clathrus%20ruber\/"/);
+  assert.match(germanPage.html, /Roter Gitterling/);
   const latvianPage = viewModel({ lang: 'lv', view: 'list', key: 'mushroom-of-the-year-lv', search: '' });
   assert.match(latvianPage.html, /href="\/lv\/mushroom\/Choiromyces%20meandriformis\/"/);
   assert.match(latvianPage.html, /href="\/lv\/mushroom\/Hericium%20coralloides\/"/);
@@ -115,12 +117,10 @@ test('German and Latvian year lists link the catalog species', () => {
 // A year-list row is a catalog species, or one of these gaps. The key is
 // (id, year, name). Order does not matter.
 const YEAR_LIST_GAPS = [
-  ['mushroom-of-the-year-de', 2000, 'Amanita regalis'],
   ['mushroom-of-the-year-de', 2002, 'Cortinarius orellanus'],
   ['mushroom-of-the-year-de', 2005, 'Astraeus hygrometricus'],
   ['mushroom-of-the-year-de', 2009, 'Terana caerulea'],
   ['mushroom-of-the-year-de', 2010, 'Cortinarius praestans'],
-  ['mushroom-of-the-year-de', 2011, 'Clathrus ruber'],
   ['mushroom-of-the-year-de', 2012, 'Cantharellus cinereus'],
   ['mushroom-of-the-year-de', 2013, 'Entoloma incanum'],
   ['mushroom-of-the-year-de', 2023, 'Mitrula paludosa'],

@@ -67655,10 +67655,29 @@ export const CATALOG = [
     fruitingTo: 11,
     label: {
       en: "red cage",
-      sk: "mrežovka červená"
+      sk: "mrežovka červená",
+      zh: "紅籠頭菌",
+      cs: "mřížovka červená",
+      da: "rød gitterkugle",
+      nl: "traliestinkzwam",
+      fr: "clathre rouge",
+      de: "Roter Gitterling",
+      hu: "piros kosárgomba",
+      ja: "アカカゴタケ",
+      ko: "붉은바구니버섯",
+      no: "gittersopp",
+      pl: "okratek czerwony",
+      pt: "clatro-vermelho",
+      ru: "решёточник красный",
+      sl: "navadna mrežnica",
+      es: "clatro rojo",
+      uk: "решіточник червоний"
     },
     names: {
-      en: ["latticed stinkhorn", "basket stinkhorn", "red cage fungus"]
+      en: ["latticed stinkhorn", "basket stinkhorn", "red cage fungus"],
+      fr: ["clathre grillagé", "cœur de sorcière", "cage grillagée"],
+      de: ["Scharlachroter Gitterling"],
+      es: ["clatro cancelado"]
     },
     text: {
       en: {
@@ -67684,6 +67703,390 @@ export const CATALOG = [
         uses: "Nepoužíva sa ako potravina. Jedlosť nie je zdokumentovaná, zrelá plodnica zapácha po hnijúcom mäse a mnohé príručky ju uvádzajú ako nejedlú alebo jedovatú. Správy o otrave opisujú bolesti brucha a kŕče.",
         confusion: "Clathrus crispus, tropický druh, má okolo každého oka mriežky zvlnený lem, ktorý tomuto druhu chýba. Clathrus columnatus má namiesto mriežky dva až päť dlhých zvislých oranžových alebo červených hubovitých stĺpikov zrastených na vrchole. Clathrus archeri sa krátko po vynorení rozpadne na samostatné ramená, takže nikdy netvorí uzavretú mriežku.",
         notes: "Receptakulum sa približne 24 hodín po vynorení z vajca zrúti. Oranžová až červená farba pochádza najmä z karotenoidov lykopénu a beta-karoténu, teda z rovnakých farbív, ktoré sfarbujú paradajky a mrkvu. Rôsolovitá vrstva vajca je bohatá na vápnik a draslík, ktoré jej pomáhajú udržať vodu, kým receptakulum rýchlo rastie."
+      },
+      ar: {
+        description: "فطر رمّي كريه الرائحة يتغذى على مواد نباتية خشبية متحللة وينمو منفردًا أو في مجموعات. موطنه الأصلي جنوب أوروبا وماكرونيزيا وغرب تركيا وشمال أفريقيا وغرب آسيا، وهو نادر في وسط أوروبا. وقد انتشر، غالبًا مع نشارة مستوردة، إلى مناطق أخرى منها الجزر البريطانية والأمريكتان وأستراليزيا، ويوجد الآن في كل القارات عدا أنتاركتيكا.",
+        cap: "الجسم الثمري اليافع بيضة بيضاء إلى رمادية، بيضوية إلى شبه كروية وعرضها يصل إلى نحو 6 سم، لها جلد رقيق جلدي القوام تظهر عليه قبل الانفتاح شبكة من علامات متعددة الأضلاع. وتحت الجلد طبقة هلامية يصل سمكها إلى 3 ملم. يمزق الوعاء الثمري البيضة، أحيانًا في ساعات قليلة فقط، ويتمدد إلى كرة مجوفة أو قفص بيضوي ارتفاعه 5–20 سم وعرضه 4–10 سم، مكوّن من أذرع متشابكة تحيط بما بين 7 و20 نافذة زاوية. الأذرع حمراء إلى برتقالية باهتة، وأحيانًا وردية، وتكون غالبًا أفتح نحو القاعدة. سطحها الخارجي مضلّع أو متجعد، ويصل سمكها إلى 1.5 سم في الأعلى وتضيق نحو الأسفل.",
+        hymenium: "لا توجد خياشيم ولا مسام. النسيج الحامل للأبواغ هو الغليبا، وهي مادة مخاطية لزجة كريهة الرائحة لونها أخضر زيتوني داكن إلى بني زيتوني، تغطي الأسطح الداخلية للأذرع باستثناء ما قرب القاعدة. تجذب رائحتها التي تشبه اللحم المتعفن الذباب وحشرات أخرى تأكلها وتنشر الأبواغ.",
+        stipe: "لا يوجد ساق حقيقي، أو يوجد ساق قصير جدًا. ترتفع الشبكة مباشرة من كأس مغلِّف (فولفا) على شكل كوب، وهو بقية جلد البيضة، يبقى حول القاعدة ويتثبت في الأرض بخيوط بيضاء (ريزومورفات).",
+        flesh: "الأذرع إسفنجية ولينة وهشة. وفي المقطع تُظهر كل ذراع أنبوبًا داخليًا واسعًا واحدًا، وباتجاه الخارج صفين غير واضحين من أنابيب أصغر.",
+        sporePrint: "بني زيتوني. الأبواغ ملساء ومستطيلة، بقياس نحو 4–6 × 1.5–2 ميكرومتر، وفي موضع الالتصاق ندبة صغيرة. القواعد البوغية سداسية الأبواغ.",
+        habitat: "تنمو الأجسام الثمرية منفردة أو في مجموعات على الخشب المتحلل والفضلات الخشبية، وفي فرشة الأوراق والإبر، وعلى تربة الحدائق والمروج والأماكن العشبية وفي نشارة الخشب، في الحدائق والمتنزهات وكروم العنب والغابات عريضة الأوراق أو المختلطة. وفي وسط أوروبا تظهر في الصيف خاصة، وفي المناطق الدافئة من الربيع حتى الخريف، وفي أمريكا الشمالية من أكتوبر إلى مارس.",
+        uses: "لا تُستخدم غذاءً. صلاحيتها للأكل غير موثقة، والجسم الثمري الناضج تفوح منه رائحة اللحم المتعفن، وتصنفه كثير من الأدلة غير صالح للأكل أو سامًا. وتصف تقارير التسمم ألمًا في البطن وتشنجات.",
+        confusion: "يحيط بكل عين من عيون الشبكة في Clathrus crispus، وهو نوع استوائي، حافة متموجة لا يملكها هذا النوع. أما Clathrus columnatus فله بدل الشبكة من اثنين إلى خمسة أعمدة إسفنجية طويلة عمودية برتقالية أو حمراء ملتحمة عند القمة. وينقسم Clathrus archeri بعد ظهوره بقليل إلى أذرع منفصلة، فلا يكوّن شبكة مغلقة أبدًا.",
+        notes: "ينهار الوعاء الثمري بعد نحو 24 ساعة من خروجه من البيضة. ويأتي لونه البرتقالي إلى الأحمر أساسًا من الكاروتينات الليكوبين وبيتا كاروتين، وهي الأصباغ نفسها التي تلوّن الطماطم والجزر. والطبقة الهلامية للبيضة غنية بالكالسيوم والبوتاسيوم، وهما يساعدانها على حبس الماء بينما ينمو الوعاء الثمري بسرعة."
+      },
+      bg: {
+        description: "Сапротрофна гъба с неприятна миризма, която се храни с разлагащ се дървесен растителен материал и расте единично или на групи. Родом е от Южна Европа, Макаронезия, западна Турция, Северна Африка и Западна Азия, а в Централна Европа е рядка. Разпространила се е, често с внесен мулч, в други региони, включително Британските острови, Америка и Австралазия, и днес се среща на всички континенти освен Антарктида.",
+        cap: "Младото плодно тяло е бяло до сивкаво яйце, яйцевидно до почти кръгло и широко до около 6 см, с нежна, кожеста обвивка, върху която преди отварянето се появява мрежа от многоъгълни белези. Под обвивката има желатинест слой с дебелина до 3 мм. Рецептакулумът пробива яйцето, понякога само за няколко часа, и се разгръща в кухо кълбо или овална клетка с височина 5–20 см и ширина 4–10 см, изградена от преплетени рамена, които ограничават 7–20 ъгловати прозорчета. Раменете са червени до бледооранжеви, понякога розови и често по-светли към основата. Външната им повърхност е набраздена или набръчкана, отгоре са дебели до 1,5 см и надолу се стесняват.",
+        hymenium: "Няма пластинки или пори. Спороносната тъкан е глебата — тъмна маслиненозелена до маслиненокафява, лепкава и зловонна слуз, която покрива вътрешните страни на раменете, освен близо до основата. Миризмата ѝ на гниещо месо привлича мухи и други насекоми, които я ядат и разнасят спорите.",
+        stipe: "Истинско краче няма или то е много късо. Решетката израства направо от чашковидна вагина, остатък от обвивката на яйцето, която остава около основата и е закрепена за почвата с бели нишки (ризоморфи).",
+        flesh: "Раменете са гъбести, меки и чупливи. На разрез всяко рамо показва една широка вътрешна тръбичка и към външната страна два неясни реда по-малки тръбички.",
+        sporePrint: "Маслиненокафяв. Спорите са гладки и удължени, около 4–6 × 1,5–2 μm, с малък хиларен белег на мястото на прикрепване. Базидиите са шестоспорови.",
+        habitat: "Плодните тела растат единично или на групи върху разлагаща се дървесина и дървесни остатъци, в листна и иглолистна постилка, върху градинска почва, тревни площи и затревени места и в мулч от дървесни стърготини, в градини, паркове, лозя и широколистни или смесени гори. В Централна Европа се появяват главно през лятото, в топлите райони от пролет до есен, а в Северна Америка от октомври до март.",
+        uses: "Не се използва за храна. Ядливостта му не е документирана, зрялото плодно тяло мирише на гниещо месо и много определители го посочват като неядливо или отровно. Съобщенията за отравяния описват болки в корема и гърчове.",
+        confusion: "Clathrus crispus, тропически вид, има вълнообразен ръб около всяко око на решетката, който този вид няма. Clathrus columnatus има вместо решетка от два до пет дълги вертикални оранжеви или червени гъбести стълба, сраснали на върха. Clathrus archeri скоро след излизането се разпада на отделни рамена, затова никога не образува затворена решетка.",
+        notes: "Рецептакулумът се срутва около 24 часа след излизането от яйцето. Оранжевият до червения му цвят идва главно от каротеноидите ликопен и бета-каротин, същите пигменти, които оцветяват доматите и морковите. Желатинестият слой на яйцето е богат на калций и калий, които му помагат да задържа вода, докато рецептакулумът расте бързо."
+      },
+      zh: {
+        description: "一種以腐爛的木質植物材料為食的腐生惡臭真菌,單生或群生。原產於南歐、馬卡羅尼西亞、土耳其西部、北非和西亞,在中歐罕見。它常隨進口的覆蓋物傳播到其他地區,包括不列顛群島、美洲和澳大拉西亞,如今除南極洲外各大洲均有分布。",
+        cap: "幼嫩子實體是白色至灰白色的卵,卵形至近球形,寬可達約6公分,外有薄而革質的外皮,開裂前表面會出現由多邊形紋路組成的網。外皮下有厚達3公釐的膠質層。托架撐破卵,有時僅需幾個小時,展開成高5–20公分、寬4–10公分的中空球形或卵形籠狀體,由相互交織的臂構成,圍出7–20個有稜角的窗孔。臂為紅色至淡橙色,有時帶粉色,近基部常較淺,外表面有稜或皺褶,上部粗達1.5公分,向下漸細。",
+        hymenium: "沒有菌褶或菌孔。產孢組織是孢體(gleba),為暗橄欖綠至橄欖褐色、黏稠而惡臭的黏液,覆蓋在臂的內表面,近基部處除外。它腐肉般的氣味會吸引蒼蠅等昆蟲,昆蟲取食後便傳播孢子。",
+        stipe: "沒有真正的菌柄,或只有很短的一截。網格直接從杯狀的菌托(卵皮的殘留)中升起,菌托留在基部,並以白色的索狀物(菌索)固定在地面上。",
+        flesh: "臂為海綿質,柔軟易碎。橫切面上,每條臂可見一條寬的內管,向外有兩列不明顯的較小管。",
+        sporePrint: "橄欖褐色。孢子光滑、伸長,約4–6 × 1.5–2微米,附著處有一小的臍疤。擔子具六個孢子。",
+        habitat: "子實體單生或群生於腐爛的木材和木質殘體上、落葉和針葉層中、花園土壤、草坪和多草處以及木屑覆蓋物中,見於花園、公園、葡萄園以及闊葉林或混交林。在中歐主要出現於夏季,在溫暖地區從春季到秋季,在北美則從10月到次年3月。",
+        uses: "不作食用。其可食性沒有記載,成熟的子實體有腐肉般的氣味,許多指南將其列為不可食用或有毒。中毒報告描述了腹痛和抽搐。",
+        confusion: "Clathrus crispus 是熱帶物種,網格每個網眼周圍有波狀邊緣,本種沒有。Clathrus columnatus 沒有網格,而是有二至五根在頂端相連的長而直立的橙色或紅色海綿質柱。Clathrus archeri 出土後不久就裂成分開的臂,因此從不形成封閉的網格。",
+        notes: "托架從卵中伸出約24小時後塌陷。其橙色至紅色主要來自類胡蘿蔔素番茄紅素和β-胡蘿蔔素,與使番茄和胡蘿蔔著色的色素相同。卵的膠質層富含鈣和鉀,有助於在托架快速生長時保持水分。"
+      },
+      hr: {
+        description: "Saprotrofna gljiva neugodna mirisa koja se hrani raspadnutim drvenastim biljnim materijalom i raste pojedinačno ili u skupinama. Podrijetlom je iz južne Europe, Makaronezije, zapadne Turske, sjeverne Afrike i zapadne Azije, a u srednjoj je Europi rijetka. Raširila se, često s uvezenim malčem, u druge krajeve, uključujući Britansko otočje, Ameriku i Australaziju, i danas je prisutna na svim kontinentima osim na Antarktici.",
+        cap: "Mlado plodište je bijelo do sivkasto jaje, jajoliko do gotovo okruglo, široko do oko 6 cm, s nježnom, kožastom kožicom na kojoj se prije otvaranja pojavljuje mreža poligonalnih oznaka. Ispod kožice je želatinozan sloj debljine do 3 mm. Receptakul probija jaje, katkad u samo nekoliko sati, i razvija se u šuplju kuglu ili ovalni kavez visok 5–20 cm i širok 4–10 cm, sastavljen od isprepletenih krakova koji omeđuju 7–20 uglatih prozorčića. Krakovi su crveni do blijedonarančasti, ponekad ružičasti, a prema bazi često svjetliji. Vanjska im je površina rebrasta ili naborana, pri vrhu su debeli do 1,5 cm i prema dolje se sužavaju.",
+        hymenium: "Nema listića ni pora. Tkivo koje nosi spore je gleba, tamna maslinastozelena do maslinastosmeđa, ljepljiva i neugodno mirisna sluz koja prekriva unutarnje strane krakova, osim blizu baze. Njezin miris po trulom mesu privlači muhe i druge kukce, koji je jedu i raznose spore.",
+        stipe: "Pravoga stručka nema ili je vrlo kratak. Rešetka izrasta izravno iz čašaste ovojnice, ostatka kožice jajeta, koja ostaje oko baze i bijelim je vrpcama (rizomorfima) usidrena u tlo.",
+        flesh: "Krakovi su spužvasti, mekani i krhki. Na presjeku svaki krak pokazuje jednu široku unutarnju cijev i prema van dva nejasna reda manjih cijevi.",
+        sporePrint: "Maslinastosmeđ. Spore su glatke i izdužene, veličine oko 4–6 × 1,5–2 μm, s malim hilarnim ožiljkom na mjestu pričvršćenja. Bazidiji su sa šest spora.",
+        habitat: "Plodišta rastu pojedinačno ili u skupinama na raspadnutom drvu i drvnom otpadu, u listopadnoj i četinjavoj stelji, na vrtnoj zemlji, travnjacima i travnatim mjestima te u malču od drvne sječke, u vrtovima, parkovima, vinogradima i listopadnim ili mješovitim šumama. U srednjoj se Europi pojavljuju uglavnom ljeti, u toplim krajevima od proljeća do jeseni, a u Sjevernoj Americi od listopada do ožujka.",
+        uses: "Ne koristi se kao hrana. Jestivost mu nije dokumentirana, zrelo plodište zaudara na trulo meso, a mnogi ga vodiči navode kao nejestivog ili otrovnog. Izvješća o trovanju opisuju bolove u trbuhu i grčeve.",
+        confusion: "Clathrus crispus, tropska vrsta, ima valovit rub oko svakog oka rešetke, kojega ova vrsta nema. Clathrus columnatus umjesto rešetke ima dva do pet dugih okomitih narančastih ili crvenih spužvastih stupova srasli na vrhu. Clathrus archeri se ubrzo nakon izlaska raspada na zasebne krakove pa nikad ne tvori zatvorenu rešetku.",
+        notes: "Receptakul se urušava oko 24 sata nakon izlaska iz jajeta. Njegova narančasta do crvena boja potječe uglavnom od karotenoida likopena i beta-karotena, istih pigmenata koji boje rajčice i mrkvu. Želatinozni sloj jajeta bogat je kalcijem i kalijem, koji mu pomažu zadržati vodu dok receptakul brzo raste."
+      },
+      cs: {
+        description: "Saprotrofní zapáchající houba, která se živí rozkládajícím se dřevitým rostlinným materiálem a roste jednotlivě nebo ve skupinách. Původně se vyskytuje v jižní Evropě, na Makaronésii, v západním Turecku, v severní Africe a v západní Asii, ve střední Evropě je vzácná. Šíří se, často s dováženým mulčem, i do jiných oblastí, například na Britské ostrovy, do Ameriky a Austrálie, a dnes se vyskytuje na všech kontinentech kromě Antarktidy.",
+        cap: "Mladá plodnice je bílé až našedlé vejce, vejčité až téměř kulovité, široké až asi 6 cm, s jemnou, kožovitou slupkou, na které se před otevřením objeví síť mnohoúhelníkových značek. Pod slupkou leží rosolovitá vrstva silná až 3 mm. Receptákulum vejce protrhne, někdy už za několik hodin, a rozšíří se do duté koule nebo oválné klece vysoké 5–20 cm a široké 4–10 cm, složené z propletených ramen, která ohraničují 7–20 hranatých oken. Ramena jsou červená až světle oranžová, někdy růžová a často světlejší k bázi. Jejich vnější povrch je žebrovaný nebo svraštělý, nahoře jsou silná až 1,5 cm a směrem dolů se zužují.",
+        hymenium: "Lupeny ani rourky chybí. Výtrusorodým pletivem je gleba, tmavě olivově zelený až olivově hnědý, lepkavý a páchnoucí sliz, který pokrývá vnitřní plochy ramen kromě báze. Jeho pach po hnijícím mase přitahuje mouchy a jiný hmyz, který ho požírá a roznáší výtrusy.",
+        stipe: "Pravý třeň chybí, nebo je jen velmi krátký. Mřížka vyrůstá přímo z poharovité pochvy, zbytku obalu vejce, která zůstává kolem báze a k půdě je připevněna bílými provazci (rizomorfami).",
+        flesh: "Ramena jsou houbovitá, měkká a křehká. Na řezu je v každém rameni jedna široká vnitřní rourka a směrem ven dvě nezřetelné řady menších rourek.",
+        sporePrint: "Olivově hnědý. Výtrusy jsou hladké a protáhlé, velké asi 4–6 × 1,5–2 μm, s malou hilární jizvou v místě přichycení. Basidie jsou šestivýtrusné.",
+        habitat: "Plodnice rostou jednotlivě nebo ve skupinách na rozkládajícím se dřevě a dřevním odpadu, v opadu listí a jehličí, na zahradní půdě, trávnících a travnatých místech a v mulčovací štěpce, na zahradách, v parcích, vinohradech a v listnatých nebo smíšených lesích. Ve střední Evropě se objevují hlavně v létě, v teplých oblastech od jara do podzimu a v Severní Americe od října do března.",
+        uses: "Nepoužívá se jako potravina. Jedlost není doložena, zralá plodnice zapáchá po hnijícím mase a mnohé příručky ji uvádějí jako nejedlou nebo jedovatou. Zprávy o otravě popisují bolesti břicha a křeče.",
+        confusion: "Clathrus crispus, tropický druh, má kolem každého oka mřížky zvlněný lem, který tomuto druhu chybí. Clathrus columnatus má místo mřížky dva až pět dlouhých svislých oranžových nebo červených houbovitých sloupků srostlých na vrcholu. Clathrus archeri se krátce po vynoření rozpadne na samostatná ramena, takže nikdy netvoří uzavřenou mřížku.",
+        notes: "Receptákulum se asi 24 hodin po vynoření z vejce zhroutí. Oranžová až červená barva pochází především z karotenoidů lykopenu a beta-karotenu, tedy ze stejných barviv, která zbarvují rajčata a mrkev. Rosolovitá vrstva vejce je bohatá na vápník a draslík, které jí pomáhají udržet vodu, dokud receptákulum rychle roste."
+      },
+      da: {
+        description: "En saprotrof stinksvamp, der lever af nedbrydende vedagtigt plantemateriale og vokser enkeltvis eller i grupper. Den er oprindelig i Sydeuropa, Makaronesien, det vestlige Tyrkiet, Nordafrika og Vestasien og er sjælden i Mellemeuropa. Den er spredt, ofte med importeret barkflis, til andre egne, blandt andet De Britiske Øer, Amerika og Australasien, og findes nu på alle kontinenter undtagen Antarktis.",
+        cap: "Den unge frugtlegeme er et hvidligt til gråligt æg, ægformet til næsten rundt og op til ca. 6 cm i diameter, med en fin, læderagtig hud, hvor der inden åbningen opstår et net af polygonale mærker. Under huden ligger et gelélignende lag, op til 3 mm tykt. Receptaklet sprænger ægget, på blot få timer, og folder sig ud til en hul kugle eller oval bur, 5–20 cm høj og 4–10 cm bred, bygget af sammenflettede arme, der omslutter 7–20 kantede åbninger. Armene er røde til lysorange, undertiden lyserøde, og ofte lysere mod grunden. Deres yderside er ribbet eller rynket, og de er op til 1,5 cm tykke foroven og smalner af nedad.",
+        hymenium: "Der er hverken lameller eller porer. Det sporebærende væv er gleba, et mørkt olivengrønt til olivenbrunt, klæbrigt og ildelugtende slim, som dækker armenes indersider undtagen nær grunden. Dens lugt af rådnende kød lokker fluer og andre insekter til, som æder den og spreder sporerne.",
+        stipe: "Der er ingen egentlig stok, eller kun en meget kort. Gitteret rejser sig direkte fra en bægerformet skede, resterne af ægskallen, som bliver siddende omkring grunden og er forankret i jorden med hvide tråde (rhizomorfer).",
+        flesh: "Armene er svampede, bløde og skøre. På tværsnit viser hver arm ét bredt indre rør og to utydelige rækker af mindre rør mod ydersiden.",
+        sporePrint: "Olivenbrunt. Sporerne er glatte og aflange, ca. 4–6 × 1,5–2 μm, med et lille hilært ar, hvor de har siddet fast. Basidierne er seksporede.",
+        habitat: "Frugtlegemerne vokser enkeltvis eller i grupper på nedbrydende ved og træaffald, i løv- og nåleaffald, på havejord, plæner og græsklædte steder og i barkflis i haver, parker, vinmarker og løv- eller blandingsskov. I Mellemeuropa optræder de mest om sommeren, i varme egne fra forår til efterår og i Nordamerika fra oktober til marts.",
+        uses: "Bruges ikke som mad. Dens spiselighed er ikke dokumenteret, det modne frugtlegeme lugter af rådnende kød, og mange svampebøger opfører den som uspiselig eller giftig. Beretninger om forgiftning beskriver mavesmerter og kramper.",
+        confusion: "Clathrus crispus, en tropisk art, har en foldet kant rundt om hver maske i gitteret, som denne art mangler. Clathrus columnatus har to til fem lange lodrette orange eller røde, svampede søjler, der er forenet i toppen, i stedet for et gitter. Clathrus archeri deler sig kort efter fremkomsten i adskilte arme, så den aldrig danner et lukket gitter.",
+        notes: "Receptaklet falder sammen ca. 24 timer efter, at det er kommet ud af ægget. Den orange til røde farve skyldes hovedsagelig carotenoiderne lycopen og beta-caroten, de samme pigmenter, som farver tomater og gulerødder. Æggets gelélag er rigt på calcium og kalium, som hjælper det med at holde på vandet, mens receptaklet vokser hurtigt."
+      },
+      nl: {
+        description: "Een saprotrofe stinkzwam die leeft van verrottend houtig plantaardig materiaal en alleen of in groepen groeit. Hij is inheems in Zuid-Europa, Macaronesië, West-Turkije, Noord-Afrika en West-Azië en is zeldzaam in Midden-Europa. Hij is, vaak met geïmporteerde mulch, naar andere streken verspreid, waaronder de Britse Eilanden, Amerika en Australazië, en komt nu voor op alle continenten behalve Antarctica.",
+        cap: "Het jonge vruchtlichaam is een wit tot grijsachtig ei, eivormig tot bijna rond en tot ongeveer 6 cm breed, met een tere, leerachtige huid waarop vóór het openen een netwerk van veelhoekige tekens verschijnt. Onder de huid ligt een geleiachtige laag van maximaal 3 mm dik. Het receptaculum breekt het ei open, soms al binnen enkele uren, en ontvouwt zich tot een holle bol of ovale kooi van 5–20 cm hoog en 4–10 cm breed, opgebouwd uit vervlochten armen die 7–20 hoekige vensters omsluiten. De armen zijn rood tot lichtoranje, soms roze, en vaak lichter naar de basis. Hun buitenkant is geribd of gerimpeld; bovenaan zijn ze tot 1,5 cm dik en naar beneden lopen ze taps toe.",
+        hymenium: "Er zijn geen lamellen of poriën. Het sporendragende weefsel is de gleba, een donker olijfgroen tot olijfbruin, kleverig, stinkend slijm dat de binnenkanten van de armen bedekt, behalve vlak bij de basis. De geur van rottend vlees trekt vliegen en andere insecten aan, die het opeten en de sporen verspreiden.",
+        stipe: "Er is geen echte steel, of alleen een zeer korte. Het traliewerk komt rechtstreeks uit een bekervormige volva, het restant van de eihuid, die rond de basis blijft zitten en met witte strengen (rizomorfen) in de grond verankerd is.",
+        flesh: "De armen zijn sponsachtig, zacht en broos. In doorsnede toont elke arm één wijde binnenbuis en naar buiten toe twee onduidelijke rijen kleinere buisjes.",
+        sporePrint: "Olijfbruin. De sporen zijn glad en langwerpig, ongeveer 4–6 × 1,5–2 μm, met een klein hilair litteken op de aanhechtingsplaats. De basidiën zijn zessporig.",
+        habitat: "De vruchtlichamen groeien alleen of in groepen op rottend hout en houtafval, in blad- en naaldstrooisel, op tuingrond, gazons en grazige plekken en in houtsnippermulch, in tuinen, parken, wijngaarden en loof- of gemengd bos. In Midden-Europa verschijnen ze vooral in de zomer, in warme streken van lente tot herfst en in Noord-Amerika van oktober tot maart.",
+        uses: "Wordt niet als voedsel gebruikt. De eetbaarheid is niet gedocumenteerd, het rijpe vruchtlichaam ruikt naar rottend vlees en veel gidsen vermelden hem als oneetbaar of giftig. Meldingen van vergiftiging beschrijven buikpijn en krampen.",
+        confusion: "Clathrus crispus, een tropische soort, heeft een gegolfde rand rond elke maas van het traliewerk, die deze soort mist. Clathrus columnatus heeft in plaats van een traliewerk twee tot vijf lange verticale oranje of rode sponzige zuilen die aan de top vergroeid zijn. Clathrus archeri splitst kort na het verschijnen in losse armen en vormt dus nooit een gesloten traliewerk.",
+        notes: "Het receptaculum zakt ongeveer 24 uur na het verlaten van het ei in elkaar. De oranje tot rode kleur komt vooral van de carotenoïden lycopeen en bèta-caroteen, dezelfde pigmenten die tomaten en wortelen kleuren. De geleiachtige laag van het ei is rijk aan calcium en kalium, die helpen water vast te houden terwijl het receptaculum snel groeit."
+      },
+      et: {
+        description: "Saprotroofne haisev seen, mis toitub lagunevast puitunud taimsest materjalist ja kasvab üksikult või rühmiti. Ta on põline Lõuna-Euroopas, Makaroneesias, Lääne-Türgis, Põhja-Aafrikas ja Lääne-Aasias ning Kesk-Euroopas haruldane. Teda on, sageli imporditud multšiga, levitatud teistesse piirkondadesse, sealhulgas Briti saartele, Ameerikasse ja Austraaliasse, ning ta esineb nüüd kõigil mandritel peale Antarktika.",
+        cap: "Noor viljakeha on valge kuni hallikas muna, munajas kuni peaaegu kerajas ja kuni umbes 6 cm lai, õrna, nahkja koorega, millele tekib enne avanemist hulknurksete märkide võrk. Koore all on kuni 3 mm paksune tarretisekiht. Viljakandja puhkeb muna lõhki, vahel vaid mõne tunniga, ja avaneb õõnsaks kerakeseks või ovaalseks puuriks, mis on 5–20 cm kõrge ja 4–10 cm lai ning koosneb põimunud haradest, mis piiravad 7–20 nurgelist akent. Harud on punased kuni heleoranžid, vahel roosakad ja põhja suunas sageli heledamad. Nende välispind on ribiline või kortsuline, ülaosas on need kuni 1,5 cm paksud ja alla poole kitsenevad.",
+        hymenium: "Lamelle ega poore ei ole. Eosi kandev kude on gleba, tume oliivroheline kuni oliivpruun, kleepuv ja halvasti lõhnav lima, mis katab harude siseküljed, välja arvatud põhja lähedal. Selle mädaneva liha lõhn meelitab ligi kärbseid ja muid putukaid, kes seda söövad ja eoseid laiali kannavad.",
+        stipe: "Tõelist jalga ei ole või on see väga lühike. Võre tõuseb otse karikakujulisest tupest, muna koore jäänusest, mis jääb põhja ümber ja on valgete nööridega (risomorfidega) mulda kinnitunud.",
+        flesh: "Harud on käsnjad, pehmed ja rabedad. Läbilõikes on igas harus üks lai sisetoru ja väljapoole kaks ebaselget rida väiksemaid torusid.",
+        sporePrint: "Oliivpruun. Eosed on siledad ja piklikud, umbes 4–6 × 1,5–2 μm, kinnituskohas väike hilaarsilm. Eoslavad on kuuseoselised.",
+        habitat: "Viljakehad kasvavad üksikult või rühmiti lagunevas puidus ja puidujäätmetel, lehe- ja okkavarisel, aiamullal, muruplatsidel ja rohustel kohtadel ning puiduhakke multšis, aedades, parkides, viinamarjaistandustes ning lehtpuu- või segametsades. Kesk-Euroopas ilmuvad nad peamiselt suvel, soojades piirkondades kevadest sügiseni ja Põhja-Ameerikas oktoobrist märtsini.",
+        uses: "Toiduks ei kasutata. Söödavus ei ole dokumenteeritud, küps viljakeha lõhnab mädaneva liha järele ja paljud määrajad loetlevad seda mittesöödavana või mürgisena. Mürgistusteadetes kirjeldatakse kõhuvalu ja krampe.",
+        confusion: "Clathrus crispus, troopiline liik, on võre iga silma ümber laineline serv, mida sellel liigil ei ole. Clathrus columnatus on võre asemel kaks kuni viis pikka püstist oranži või punast käsnjat sammast, mis on tipus kokku kasvanud. Clathrus archeri laguneb pärast välja tulekut peagi eraldi harudeks, nii et ta ei moodusta kunagi suletud võret.",
+        notes: "Viljakandja vajub kokku umbes 24 tundi pärast munast väljumist. Selle oranž kuni punane värv tuleb peamiselt karotenoididest lükopeenist ja beetakaroteenist, samadest pigmentidest, mis värvivad tomateid ja porgandeid. Muna tarretisekiht on rikas kaltsiumi ja kaaliumi poolest, mis aitavad sel vett hoida, kuni viljakandja kiiresti kasvab."
+      },
+      fi: {
+        description: "Saprotrofinen löyhkäsieni, joka elää lahoavasta puuaineksesta ja kasvaa yksittäin tai ryhmissä. Se on alkuperäinen Etelä-Euroopassa, Makaronesiassa, Länsi-Turkissa, Pohjois-Afrikassa ja Länsi-Aasiassa, ja Keski-Euroopassa se on harvinainen. Se on levinnyt, usein tuodun multsin mukana, muille alueille, kuten Brittein saarille, Amerikkaan ja Australaasiaan, ja esiintyy nyt kaikilla mantereilla Antarktista lukuun ottamatta.",
+        cap: "Nuori itiöemä on valkoinen tai harmahtava muna, munanmuotoinen tai lähes pyöreä ja jopa noin 6 cm leveä, ohuella, nahkamaisella kuorella, johon ilmestyy ennen avautumista monikulmioisten kuvioiden verkko. Kuoren alla on enintään 3 mm paksu hyytelömäinen kerros. Itiöemäkehikko puhkaisee munan, joskus vain muutamassa tunnissa, ja avautuu ontoksi palloksi tai soikeaksi häkiksi, joka on 5–20 cm korkea ja 4–10 cm leveä ja jonka punoutuneet käsivarret rajaavat 7–20 kulmikasta aukkoa. Käsivarret ovat punaiset tai vaaleanoranssit, joskus vaaleanpunaiset, ja tyveä kohti usein vaaleammat. Niiden ulkopinta on uurteinen tai ryppyinen, ja ylhäältä ne ovat jopa 1,5 cm paksut ja kapenevat alaspäin.",
+        hymenium: "Heltteitä tai putkia ei ole. Itiöitä kantava kudos on gleba, tumman oliivinvihreä tai oliiviruskea, tahmea ja pahanhajuinen lima, joka peittää käsivarsien sisäpinnat tyveä lukuun ottamatta. Sen mätänevän lihan haju houkuttelee kärpäsiä ja muita hyönteisiä, jotka syövät sitä ja levittävät itiöt.",
+        stipe: "Varsi puuttuu tai on hyvin lyhyt. Ristikko nousee suoraan maljamaisesta tuppesta, munankuoren jäänteestä, joka jää tyven ympärille ja kiinnittyy maahan valkoisilla säikeillä (risomorfeilla).",
+        flesh: "Käsivarret ovat sienimäisiä, pehmeitä ja hauraita. Poikkileikkauksessa jokaisessa käsivarressa on yksi leveä sisäputki ja ulkopuolella kaksi epäselvää pienempien putkien riviä.",
+        sporePrint: "Oliiviruskea. Itiöt ovat sileitä ja pitkänomaisia, noin 4–6 × 1,5–2 μm, ja kiinnityskohdassa on pieni hilaariarpi. Tyvisolut eli basidit ovat kuusiitiöisiä.",
+        habitat: "Itiöemät kasvavat yksittäin tai ryhmissä lahoavalla puulla ja puujätteellä, lehti- ja neulaskarikkeessa, puutarhamaalla, nurmikoilla ja ruohoisilla paikoilla sekä puuhakemultsissa, puutarhoissa, puistoissa, viinitarhoissa sekä lehti- ja sekametsissä. Keski-Euroopassa ne ilmaantuvat pääasiassa kesällä, lämpimillä seuduilla keväästä syksyyn ja Pohjois-Amerikassa lokakuusta maaliskuuhun.",
+        uses: "Ei käytetä ruokana. Sen syötävyyttä ei ole dokumentoitu, kypsä itiöemä haisee mätänevältä lihalta, ja monet oppaat luokittelevat sen syömäkelvottomaksi tai myrkylliseksi. Myrkytyskertomuksissa kuvataan vatsakipua ja kouristuksia.",
+        confusion: "Clathrus crispus, trooppinen laji, on ristikon jokaisen silmän ympärillä poimuinen reuna, joka tältä lajilta puuttuu. Clathrus columnatus on ristikon sijaan kaksi–viisi pitkää pystysuoraa oranssia tai punaista sienimäistä pylvästä, jotka ovat kasvaneet yhteen huipulta. Clathrus archeri hajoaa pian esiin tulon jälkeen erillisiksi käsivarsiksi, joten se ei koskaan muodosta suljettua ristikkoa.",
+        notes: "Itiöemäkehikko romahtaa noin 24 tuntia munasta ilmestymisen jälkeen. Sen oranssi tai punainen väri tulee pääasiassa karotenoideista, lykopeenista ja beetakaroteenista, samoista väriaineista, jotka värjäävät tomaatit ja porkkanat. Munan hyytelömäinen kerros sisältää runsaasti kalsiumia ja kaliumia, jotka auttavat sitä pidättämään vettä itiöemäkehikon kasvaessa nopeasti."
+      },
+      fr: {
+        description: "Un champignon saprotrophe à l'odeur fétide, qui se nourrit de matière végétale ligneuse en décomposition et pousse isolément ou en groupes. Il est indigène dans le sud de l'Europe, en Macaronésie, dans l'ouest de la Turquie, en Afrique du Nord et en Asie occidentale, et il est rare en Europe centrale. Il s'est répandu, souvent avec du paillis importé, dans d'autres régions, notamment les îles Britanniques, les Amériques et l'Australasie, et se rencontre aujourd'hui sur tous les continents sauf l'Antarctique.",
+        cap: "Le jeune carpophore est un œuf blanc à grisâtre, ovoïde à presque sphérique et large jusqu'à environ 6 cm, à la peau fine et coriace sur laquelle apparaît, avant l'ouverture, un réseau de marques polygonales. Sous la peau se trouve une couche gélatineuse épaisse de 3 mm au plus. Le réceptacle déchire l'œuf, parfois en quelques heures seulement, et se déploie en une sphère creuse ou une cage ovale de 5–20 cm de haut et 4–10 cm de large, formée de bras entrelacés qui délimitent 7–20 fenêtres anguleuses. Les bras sont rouges à orange pâle, parfois roses, et souvent plus clairs vers la base. Leur surface externe est côtelée ou ridée ; ils mesurent jusqu'à 1,5 cm d'épaisseur en haut et s'amincissent vers le bas.",
+        hymenium: "Il n'y a ni lames ni pores. Le tissu porteur des spores est la gléba, une masse visqueuse vert olive foncé à brun olive, collante et d'odeur fétide, qui tapisse la face interne des bras sauf près de la base. Son odeur de viande en décomposition attire des mouches et d'autres insectes, qui s'en nourrissent et dispersent les spores.",
+        stipe: "Il n'y a pas de véritable pied, ou seulement un pied très court. Le treillis s'élève directement d'une volve en forme de coupe, reste de la peau de l'œuf, qui demeure autour de la base et est ancrée au sol par des cordons blancs (rhizomorphes).",
+        flesh: "Les bras sont spongieux, mous et cassants. En coupe, chaque bras montre un large tube interne et, vers l'extérieur, deux rangées indistinctes de tubes plus petits.",
+        sporePrint: "Brun olive. Les spores sont lisses et allongées, d'environ 4–6 × 1,5–2 μm, avec une petite cicatrice hilaire au point d'attache. Les basides sont à six spores.",
+        habitat: "Les carpophores poussent isolément ou en groupes sur du bois en décomposition et des débris ligneux, dans la litière de feuilles et d'aiguilles, sur la terre des jardins, les pelouses et les endroits herbeux, et dans le paillis de copeaux de bois, dans les jardins, les parcs, les vignobles et les forêts de feuillus ou mixtes. En Europe centrale, ils apparaissent surtout en été, dans les régions chaudes du printemps à l'automne, et en Amérique du Nord d'octobre à mars.",
+        uses: "Il n'est pas utilisé comme aliment. Sa comestibilité n'est pas documentée, le carpophore mûr sent la viande en décomposition et de nombreux guides le classent comme non comestible ou toxique. Les cas d'intoxication rapportés décrivent des douleurs abdominales et des convulsions.",
+        confusion: "Clathrus crispus, une espèce tropicale, a un bord ondulé autour de chaque maille du treillis, que cette espèce n'a pas. Clathrus columnatus a, au lieu d'un treillis, deux à cinq longues colonnes spongieuses verticales, orange ou rouges, soudées au sommet. Clathrus archeri se divise en bras séparés peu après son émergence et ne forme donc jamais de treillis fermé.",
+        notes: "Le réceptacle s'affaisse environ 24 heures après être sorti de l'œuf. Sa couleur orange à rouge provient surtout des caroténoïdes lycopène et bêta-carotène, les mêmes pigments qui colorent les tomates et les carottes. La couche gélatineuse de l'œuf est riche en calcium et en potassium, qui l'aident à retenir l'eau pendant la croissance rapide du réceptacle."
+      },
+      de: {
+        description: "Ein saprotropher Pilz mit aasartigem Geruch, der sich von zersetztem holzigem Pflanzenmaterial ernährt und einzeln oder in Gruppen wächst. Er ist in Südeuropa, auf Makaronesien, in der Westtürkei, in Nordafrika und in Westasien heimisch und in Mitteleuropa selten. Er wurde, oft mit importiertem Mulch, in andere Gebiete verschleppt, unter anderem auf die Britischen Inseln, nach Amerika und nach Australasien, und kommt heute auf allen Kontinenten außer der Antarktis vor.",
+        cap: "Der junge Fruchtkörper ist ein weißes bis gräuliches Ei, eiförmig bis fast kugelig und bis etwa 6 cm breit, mit einer zarten, ledrigen Haut, auf der sich vor dem Aufreißen ein Netz vieleckiger Zeichnungen bildet. Unter der Haut liegt eine gallertige Schicht von bis zu 3 mm Dicke. Der Receptaculum genannte Fruchtträger sprengt das Ei, mitunter schon binnen weniger Stunden, und entfaltet sich zu einer hohlen Kugel oder einem ovalen Gitter von 5–20 cm Höhe und 4–10 cm Breite aus verflochtenen Armen, die 7–20 eckige Fenster umschließen. Die Arme sind rot bis hell orange, manchmal rosa und zur Basis hin oft heller. Ihre Außenseite ist gerippt oder runzelig; oben sind die Arme bis zu 1,5 cm dick und verjüngen sich nach unten.",
+        hymenium: "Lamellen oder Poren fehlen. Das sporenbildende Gewebe ist die Gleba, eine dunkel olivgrüne bis olivbraune, klebrige, übel riechende Schleimmasse, die die Innenseiten der Arme mit Ausnahme der Basis bedeckt. Ihr Geruch nach verwesendem Fleisch lockt Fliegen und andere Insekten an, die sie fressen und die Sporen verbreiten.",
+        stipe: "Ein echter Stiel fehlt oder ist nur sehr kurz. Das Gitter erhebt sich unmittelbar aus einer becherförmigen Volva, dem Rest der Eihaut, die an der Basis bleibt und mit weißen Strängen (Rhizomorphen) im Boden verankert ist.",
+        flesh: "Die Arme sind schwammig, weich und brüchig. Im Schnitt zeigt jeder Arm eine weite innere Röhre und zwei undeutliche Reihen kleinerer Röhren zur Außenseite hin.",
+        sporePrint: "Olivbraun. Die Sporen sind glatt und länglich, etwa 4–6 × 1,5–2 μm groß, mit einer kleinen Hilarnarbe an der Ansatzstelle. Die Basidien sind sechssporig.",
+        habitat: "Die Fruchtkörper wachsen einzeln oder in Gruppen auf zersetztem Holz und Holzresten, in Laub- und Nadelstreu, auf Gartenboden, Rasen und Grasflächen sowie in Holzhäckselmulch, in Gärten, Parks, Weinbergen und Laub- oder Mischwäldern. In Mitteleuropa erscheinen sie vor allem im Sommer, in warmen Regionen vom Frühjahr bis zum Herbst und in Nordamerika von Oktober bis März.",
+        uses: "Wird nicht als Speisepilz verwendet. Seine Essbarkeit ist nicht belegt, der reife Fruchtkörper riecht nach verwesendem Fleisch, und viele Pilzbücher führen ihn als ungenießbar oder giftig. Berichte über Vergiftungen beschreiben Bauchschmerzen und Krämpfe.",
+        confusion: "Clathrus crispus, eine tropische Art, hat um jede Masche des Gitters einen gewellten Rand, der dieser Art fehlt. Clathrus columnatus hat statt eines Gitters zwei bis fünf lange senkrechte orangefarbene oder rote, schwammige Säulen, die an der Spitze verwachsen sind. Clathrus archeri zerfällt kurz nach dem Erscheinen in einzelne Arme und bildet daher nie ein geschlossenes Gitter.",
+        notes: "Der Fruchtträger fällt etwa 24 Stunden nach dem Austritt aus dem Ei in sich zusammen. Die orange bis rote Farbe stammt vor allem von den Carotinoiden Lycopin und Beta-Carotin, den Farbstoffen von Tomaten und Karotten. Die gallertige Schicht des Eis ist reich an Calcium und Kalium, die ihr helfen, Wasser zu halten, solange der Fruchtträger schnell wächst. Pilz des Jahres 2011 in Deutschland."
+      },
+      he: {
+        description: "פטרייה רקבובית מסריחה, הניזונה מחומר צמחי עצי מתכלה וגדלה בודדת או בקבוצות. היא ילידת דרום אירופה, מקרונזיה, מערב טורקיה, צפון אפריקה ומערב אסיה, ונדירה במרכז אירופה. היא התפשטה, לעיתים קרובות עם חומר חיפוי מיובא, לאזורים נוספים, ובהם האיים הבריטיים, אמריקה ואוסטרלזיה, ומצויה כיום בכל היבשות מלבד אנטארקטיקה.",
+        cap: "גוף הפרי הצעיר הוא ביצה לבנה עד אפרפרה, בצורת ביצה עד כמעט עגולה ברוחב של עד כ-6 ס\"מ, בעלת קליפה עדינה דמוית עור, שעליה מופיעה לפני ההיפתחות רשת של סימנים מצולעים. מתחת לקליפה שכבה ג'לטינית בעובי של עד 3 מ\"מ. גוף הנשיאה קורע את הביצה, לעיתים תוך שעות ספורות בלבד, ונפתח לכדור חלול או לכלוב אליפטי בגובה 5–20 ס\"מ וברוחב 4–10 ס\"מ, העשוי זרועות שזורות המקיפות 7–20 חלונות זוויתיים. הזרועות אדומות עד כתומות חיוורות, לעיתים ורדרדות, ולרוב בהירות יותר לכיוון הבסיס. פני השטח החיצוניים צלעותיים או מקומטים, והזרועות בעובי של עד 1.5 ס\"מ בחלקן העליון ומצטמצמות כלפי מטה.",
+        hymenium: "אין למינות או נקבוביות. הרקמה הנושאת את הנבגים היא הגלבה, ריר דביק ומסריח בצבע ירוק זית כהה עד חום זית, המכסה את הפנים הפנימיים של הזרועות, מלבד סמוך לבסיס. ריחה כבשר מרקיב מושך זבובים וחרקים אחרים, האוכלים אותה ומפיצים את הנבגים.",
+        stipe: "אין גבעול אמיתי, או שהוא קצר מאוד. הסבכה עולה ישירות מנרתיק בצורת גביע, שריד קליפת הביצה, הנשאר סביב הבסיס ומעוגן באדמה בחוטים לבנים (ריזומורפים).",
+        flesh: "הזרועות ספוגיות, רכות ושבירות. בחתך רוחב מראה כל זרוע צינור פנימי רחב אחד, ולכיוון החוץ שתי שורות לא ברורות של צינורות קטנים יותר.",
+        sporePrint: "חום זית. הנבגים חלקים וארוכים, בגודל של כ-4–6 × 1.5–2 מיקרומטר, עם צלקת קטנה בנקודת ההיצמדות. הבסידיות נושאות שישה נבגים.",
+        habitat: "גופי הפרי גדלים בודדים או בקבוצות על עץ מתכלה ופסולת עצית, בשכבת עלים ומחטים, באדמת גינה, במדשאות ובמקומות עשבוניים ובחומר חיפוי משבבי עץ, בגינות, בפארקים, בכרמים וביערות עלים רחבים או מעורבים. במרכז אירופה הם מופיעים בעיקר בקיץ, באזורים חמים מהאביב עד הסתיו, ובצפון אמריקה מאוקטובר עד מרץ.",
+        uses: "אינה משמשת למאכל. אכילותה אינה מתועדת, גוף הפרי הבשל מדיף ריח של בשר מרקיב, ומדריכים רבים מציגים אותה כבלתי אכילה או רעילה. דיווחים על הרעלה מתארים כאבי בטן ועוויתות.",
+        confusion: "ל-Clathrus crispus, מין טרופי, יש שפה גלית סביב כל עין ברשת, שאין למין זה. ל-Clathrus columnatus יש במקום סבכה שניים עד חמישה עמודים ספוגיים ארוכים ואנכיים בצבע כתום או אדום, המאוחים בקצה. ה-Clathrus archeri מתפצל זמן קצר לאחר היציאה לזרועות נפרדות, ולכן אינו יוצר לעולם סבכה סגורה.",
+        notes: "גוף הנשיאה קורס כ-24 שעות לאחר שיצא מהביצה. צבעו הכתום עד האדום נובע בעיקר מהקרוטנואידים ליקופן ובטא-קרוטן, אותם פיגמנטים הצובעים עגבניות וגזרים. השכבה הג'לטינית של הביצה עשירה בסידן ובאשלגן, המסייעים לה לשמור על מים בזמן שגוף הנשיאה גדל במהירות."
+      },
+      hi: {
+        description: "सड़ती हुई काष्ठीय पादप सामग्री पर पलने वाली एक मृतोपजीवी दुर्गंधयुक्त कवक, जो अकेली या समूहों में उगती है। यह दक्षिणी यूरोप, मैकरोनेशिया, पश्चिमी तुर्की, उत्तरी अफ़्रीका और पश्चिमी एशिया की मूल निवासी है और मध्य यूरोप में दुर्लभ है। यह अक्सर आयातित मल्च के साथ ब्रिटिश द्वीपों, अमेरिका और ऑस्ट्रेलेशिया सहित अन्य क्षेत्रों में फैल गई है और अब अंटार्कटिका को छोड़कर हर महाद्वीप पर पाई जाती है।",
+        cap: "कम उम्र का फलकाय एक सफ़ेद से धूसर अंडा होता है, अंडाकार से लगभग गोल और लगभग 6 सेमी तक चौड़ा, जिसकी पतली, चमड़े जैसी त्वचा पर खुलने से पहले बहुभुजी चिह्नों का जाल उभरता है। त्वचा के नीचे 3 मिमी तक मोटी जेलीनुमा परत होती है। ग्रहणक अंडे को फाड़ता है, कभी-कभी केवल कुछ घंटों में, और 5–20 सेमी ऊँचे और 4–10 सेमी चौड़े खोखले गोले या अंडाकार पिंजरे के रूप में फैल जाता है, जो आपस में गुँथी भुजाओं से बना होता है और 7–20 कोणीय खिड़कियाँ घेरता है। भुजाएँ लाल से हल्की नारंगी, कभी-कभी गुलाबी होती हैं और आधार की ओर अक्सर हल्की होती हैं। उनकी बाहरी सतह धारीदार या झुर्रीदार होती है, ऊपर वे 1.5 सेमी तक मोटी होती हैं और नीचे की ओर पतली होती जाती हैं।",
+        hymenium: "न गिल्स होते हैं न रंध्र। बीजाणु धारण करने वाला ऊतक ग्लेबा है, जो गहरे जैतूनी हरे से जैतूनी भूरे रंग का, चिपचिपा और दुर्गंधयुक्त लेसदार पदार्थ है और आधार के पास को छोड़कर भुजाओं की भीतरी सतहों को ढकता है। सड़े मांस जैसी इसकी गंध मक्खियों और अन्य कीटों को खींचती है, जो इसे खाते हैं और बीजाणु फैलाते हैं।",
+        stipe: "असली डंठल नहीं होता, या बहुत छोटा होता है। जालीदार संरचना अंडे की त्वचा के अवशेष, प्याले के आकार के वॉल्वा, से सीधे उठती है, जो आधार के चारों ओर बना रहता है और सफ़ेद डोरियों (राइज़ोमॉर्फ़) से ज़मीन में जमा रहता है।",
+        flesh: "भुजाएँ स्पंजी, मुलायम और भंगुर होती हैं। काटने पर हर भुजा में एक चौड़ी भीतरी नली और बाहर की ओर छोटी नलियों की दो अस्पष्ट पंक्तियाँ दिखती हैं।",
+        sporePrint: "जैतूनी भूरा। बीजाणु चिकने और लंबे होते हैं, लगभग 4–6 × 1.5–2 μm के, जुड़ाव के बिंदु पर एक छोटा हाइलर निशान होता है। बेसिडिया छह बीजाणुओं वाले होते हैं।",
+        habitat: "फलकाय अकेले या समूहों में सड़ती लकड़ी और काष्ठीय मलबे पर, पत्तियों और सुइयों की परत में, बगीचे की मिट्टी, लॉन और घास वाली जगहों पर और लकड़ी की चिप्स वाले मल्च में उगते हैं, बगीचों, उद्यानों, अंगूर के बागों और चौड़ी पत्ती या मिश्रित वनों में। मध्य यूरोप में ये मुख्यतः गर्मियों में दिखते हैं, गर्म क्षेत्रों में वसंत से शरद तक और उत्तरी अमेरिका में अक्टूबर से मार्च तक।",
+        uses: "भोजन के रूप में उपयोग नहीं होती। इसकी खाने योग्यता का कोई प्रलेखन नहीं है, पका फलकाय सड़े मांस जैसा गंधाता है और कई गाइड इसे अखाद्य या विषैला बताते हैं। विषाक्तता की रिपोर्टों में पेट दर्द और ऐंठन का वर्णन है।",
+        confusion: "उष्णकटिबंधीय प्रजाति Clathrus crispus की जाली के हर छेद के चारों ओर लहरदार किनारा होता है, जो इस प्रजाति में नहीं है। Clathrus columnatus में जाली के बजाय शीर्ष पर जुड़े दो से पाँच लंबे, सीधे, नारंगी या लाल स्पंजी स्तंभ होते हैं। Clathrus archeri निकलने के कुछ ही समय बाद अलग-अलग भुजाओं में बँट जाती है, इसलिए कभी बंद जाली नहीं बनाती।",
+        notes: "ग्रहणक अंडे से निकलने के लगभग 24 घंटे बाद ढह जाता है। इसका नारंगी से लाल रंग मुख्यतः कैरोटिनॉइड लाइकोपीन और बीटा-कैरोटीन से आता है, वही वर्णक जो टमाटर और गाजर को रंग देते हैं। अंडे की जेलीनुमा परत कैल्शियम और पोटैशियम से भरपूर होती है, जो ग्रहणक के तेज़ी से बढ़ने के दौरान उसे पानी रोके रखने में मदद करते हैं।"
+      },
+      hu: {
+        description: "Szaprotróf, kellemetlen szagú gomba, amely korhadó fás növényi anyagon él, egyesével vagy csoportosan nő. Őshonos Dél-Európában, Makaronéziában, Nyugat-Törökországban, Észak-Afrikában és Nyugat-Ázsiában, Közép-Európában ritka. Gyakran importált mulccsal más térségekbe is eljutott, például a Brit-szigetekre, Amerikába és Ausztráliába, és ma az Antarktisz kivételével minden kontinensen előfordul.",
+        cap: "A fiatal termőtest fehér vagy szürkésfehér tojás, tojásdad vagy majdnem gömbölyű, legfeljebb mintegy 6 cm széles, finom, bőrszerű burokkal, amelyen kinyílás előtt soklapú mintázat jelenik meg. A burok alatt legfeljebb 3 mm vastag kocsonyás réteg van. A termőtestváz áttöri a tojást, akár néhány óra alatt, és üreges gömbbé vagy ovális kosárrá nyílik, amely 5–20 cm magas és 4–10 cm széles, összefonódó karokból áll, és 7–20 szögletes nyílást fog közre. A karok pirosak, halvány narancssárgák, olykor rózsaszínűek, és tövük felé gyakran világosabbak. Külső felületük bordázott vagy ráncos, felül legfeljebb 1,5 cm vastagok, lefelé elvékonyodnak.",
+        hymenium: "Nincsenek lemezei vagy pórusai. A spórahordó szövet a gleba, sötét olajzöldtől olajbarnáig terjedő színű, ragacsos, bűzös nyálka, amely a karok belső felületét borítja, a töveik közelét kivéve. Rothadó húsra emlékeztető szagával legyeket és más rovarokat vonz, amelyek megeszik, és szétviszik a spórákat.",
+        stipe: "Valódi tönkje nincs, vagy csak nagyon rövid. A rács közvetlenül egy kehely alakú bocskorból emelkedik ki, amely a tojáshéj maradványa, a tő körül marad, és fehér szálakkal (rizomorfákkal) rögzül a talajhoz.",
+        flesh: "A karok szivacsosak, puhák és törékenyek. Metszetben mindegyik karban egy széles belső cső és kifelé két elmosódó sor kisebb cső látható.",
+        sporePrint: "Olajbarna. A spórák simák és megnyúltak, mintegy 4–6 × 1,5–2 μm méretűek, a tapadási ponton kis hilárisheggel. A bazídiumok hatspórásak.",
+        habitat: "A termőtestek egyesével vagy csoportosan nőnek korhadó fán és fás törmeléken, lomb- és tűalomban, kerti talajon, gyepen és füves helyeken, valamint faforgács-mulcsban, kertekben, parkokban, szőlőkben, lomb- vagy elegyes erdőkben. Közép-Európában főleg nyáron jelennek meg, a meleg tájakon tavasztól őszig, Észak-Amerikában októbertől márciusig.",
+        uses: "Nem élelmiszer. Ehetősége nem dokumentált, az érett termőtest rothadó húsra emlékeztető szagú, és sok kalauz nem ehetőnek vagy mérgezőnek sorolja. A mérgezésről szóló beszámolók hasi fájdalmat és görcsöket írnak le.",
+        confusion: "A Clathrus crispus, trópusi faj, a rács minden szemét hullámos perem övezi, amely ennél a fajnál hiányzik. A Clathrus columnatus rács helyett két–öt hosszú, függőleges, narancssárga vagy piros, szivacsos oszlopot visel, amelyek a csúcson összenőnek. A Clathrus archeri a kibújás után hamar különálló karokra szakad, ezért soha nem alkot zárt rácsot.",
+        notes: "A termőtestváz nagyjából 24 órával azután omlik össze, hogy kibújt a tojásból. Narancssárgától pirosig terjedő színét főként a likopin és a béta-karotin nevű karotinoidok adják, ugyanazok a festékanyagok, amelyek a paradicsomot és a sárgarépát színezik. A tojás kocsonyás rétege gazdag kalciumban és káliumban, amelyek segítenek megtartani a vizet, miközben a termőtestváz gyorsan nő."
+      },
+      id: {
+        description: "Jamur saprofit berbau busuk yang hidup dari bahan tumbuhan berkayu yang membusuk dan tumbuh sendiri atau berkelompok. Jamur ini asli Eropa selatan, Makaronesia, Turki barat, Afrika Utara, dan Asia barat, serta jarang di Eropa tengah. Jamur ini telah menyebar, sering bersama mulsa impor, ke wilayah lain, termasuk Kepulauan Britania, benua Amerika, dan Australasia, dan kini ditemukan di semua benua kecuali Antarktika.",
+        cap: "Tubuh buah muda berupa telur putih hingga keabu-abuan, berbentuk telur hingga hampir bulat dan lebar hingga sekitar 6 cm, dengan kulit tipis seperti kulit samak yang, sebelum membuka, menampakkan jaring tanda poligonal. Di bawah kulit terdapat lapisan agar-agar setebal hingga 3 mm. Reseptakel menyobek telur, kadang hanya dalam beberapa jam, lalu mengembang menjadi bola berongga atau sangkar lonjong setinggi 5–20 cm dan selebar 4–10 cm, tersusun dari lengan yang saling menjalin dan mengelilingi 7–20 jendela bersudut. Lengannya merah hingga oranye pucat, kadang merah muda, dan sering lebih pucat ke arah pangkal. Permukaan luarnya berusuk atau berkerut, tebalnya hingga 1,5 cm di bagian atas dan menyempit ke bawah.",
+        hymenium: "Tidak ada bilah atau pori. Jaringan pembawa spora adalah gleba, lendir lengket berbau busuk berwarna hijau zaitun tua hingga cokelat zaitun yang melapisi sisi dalam lengan, kecuali dekat pangkal. Baunya yang seperti daging busuk menarik lalat dan serangga lain, yang memakannya dan menyebarkan spora.",
+        stipe: "Tidak ada tangkai sejati, atau hanya sangat pendek. Kisi-kisinya muncul langsung dari volva berbentuk cawan, sisa kulit telur, yang tetap berada di sekeliling pangkal dan tertambat ke tanah oleh serabut putih (rizomorf).",
+        flesh: "Lengannya berspons, lunak, dan rapuh. Pada irisan melintang, setiap lengan memperlihatkan satu pipa dalam yang lebar dan, ke arah luar, dua deret samar pipa yang lebih kecil.",
+        sporePrint: "Cokelat zaitun. Spora halus dan memanjang, berukuran sekitar 4–6 × 1,5–2 μm, dengan bekas hilar kecil di titik perlekatannya. Basidia berspora enam.",
+        habitat: "Tubuh buah tumbuh sendiri atau berkelompok pada kayu membusuk dan sisa kayu, di serasah daun dan jarum, di tanah kebun, halaman rumput, dan tempat berumput, serta di mulsa serpih kayu, di kebun, taman, kebun anggur, serta hutan berdaun lebar atau campuran. Di Eropa tengah muncul terutama pada musim panas, di wilayah hangat dari musim semi hingga musim gugur, dan di Amerika Utara dari Oktober hingga Maret.",
+        uses: "Tidak dimakan. Kelayakan makannya tidak terdokumentasi, tubuh buah yang matang berbau daging busuk, dan banyak panduan mencantumkannya sebagai tidak dapat dimakan atau beracun. Laporan keracunan menggambarkan sakit perut dan kejang.",
+        confusion: "Clathrus crispus, spesies tropis, memiliki tepi bergelombang di sekeliling setiap mata jaring, yang tidak dimiliki spesies ini. Clathrus columnatus memiliki dua hingga lima tiang berspons berwarna oranye atau merah, panjang dan tegak, yang menyatu di ujung, bukan kisi-kisi. Clathrus archeri terbelah menjadi lengan-lengan terpisah tak lama setelah muncul, sehingga tidak pernah membentuk kisi tertutup.",
+        notes: "Reseptakel runtuh sekitar 24 jam setelah keluar dari telur. Warna oranye hingga merahnya terutama berasal dari karotenoid likopen dan beta-karoten, pigmen yang sama yang mewarnai tomat dan wortel. Lapisan agar-agar telurnya kaya kalsium dan kalium, yang membantunya menahan air selagi reseptakel tumbuh cepat."
+      },
+      it: {
+        description: "Un fungo saprofita dall'odore fetido che si nutre di materiale vegetale legnoso in decomposizione e cresce isolato o in gruppi. È originario dell'Europa meridionale, della Macaronesia, della Turchia occidentale, del Nord Africa e dell'Asia occidentale ed è raro nell'Europa centrale. Si è diffuso, spesso con pacciame importato, in altre regioni, tra cui le Isole Britanniche, le Americhe e l'Australasia, e oggi si trova su tutti i continenti tranne l'Antartide.",
+        cap: "Il giovane carpoforo è un uovo da bianco a grigiastro, ovoidale fino a quasi rotondo e largo fino a circa 6 cm, con una pelle delicata e coriacea sulla quale, prima dell'apertura, compare una rete di segni poligonali. Sotto la pelle c'è uno strato gelatinoso spesso fino a 3 mm. Il ricettacolo rompe l'uovo, a volte in poche ore, e si espande in una sfera cava o in una gabbia ovale alta 5–20 cm e larga 4–10 cm, formata da bracci intrecciati che delimitano 7–20 finestre angolose. I bracci sono da rossi ad arancio pallido, talvolta rosati, e spesso più chiari verso la base. La superficie esterna è costolata o rugosa; in alto i bracci sono spessi fino a 1,5 cm e si assottigliano verso il basso.",
+        hymenium: "Non ha lamelle né pori. Il tessuto che porta le spore è la gleba, una massa mucillaginosa da verde oliva scuro a bruno oliva, appiccicosa e maleodorante, che ricopre le superfici interne dei bracci tranne vicino alla base. Il suo odore di carne in putrefazione attira mosche e altri insetti, che se ne nutrono e disperdono le spore.",
+        stipe: "Non ha un vero gambo, oppure ne ha uno cortissimo. Il reticolo si alza direttamente da una volva a forma di coppa, il resto della pelle dell'uovo, che rimane attorno alla base ed è ancorata al terreno da cordoni bianchi (rizomorfe).",
+        flesh: "I bracci sono spugnosi, molli e fragili. In sezione ogni braccio mostra un ampio tubo interno e, verso l'esterno, due file indistinte di tubi più piccoli.",
+        sporePrint: "Bruno oliva. Le spore sono lisce e allungate, di circa 4–6 × 1,5–2 μm, con una piccola cicatrice ilare nel punto di attacco. I basidi hanno sei spore.",
+        habitat: "I carpofori crescono isolati o in gruppi su legno in decomposizione e residui legnosi, nella lettiera di foglie e aghi, sul terreno dei giardini, sui prati e nei luoghi erbosi e nel pacciame di cippato, in giardini, parchi, vigneti e boschi di latifoglie o misti. Nell'Europa centrale compaiono soprattutto in estate, nelle regioni calde dalla primavera all'autunno e in Nord America da ottobre a marzo.",
+        uses: "Non si usa come alimento. La sua commestibilità non è documentata, il carpoforo maturo emana odore di carne in putrefazione e molte guide lo indicano come non commestibile o velenoso. Le segnalazioni di intossicazione descrivono dolori addominali e convulsioni.",
+        confusion: "Clathrus crispus, una specie tropicale, ha un bordo ondulato attorno a ogni maglia del reticolo, che questa specie non ha. Clathrus columnatus ha, al posto del reticolo, da due a cinque lunghe colonne spugnose verticali, arancioni o rosse, unite all'apice. Clathrus archeri si divide in bracci separati poco dopo l'emersione, per cui non forma mai un reticolo chiuso.",
+        notes: "Il ricettacolo collassa circa 24 ore dopo essere uscito dall'uovo. Il suo colore da arancio a rosso deriva soprattutto dai carotenoidi licopene e beta-carotene, gli stessi pigmenti che colorano pomodori e carote. Lo strato gelatinoso dell'uovo è ricco di calcio e potassio, che lo aiutano a trattenere l'acqua mentre il ricettacolo cresce rapidamente."
+      },
+      ja: {
+        description: "腐朽した木質の植物遺体を栄養源とする腐生性の悪臭菌で、単生または群生します。南ヨーロッパ、マカロネシア、トルコ西部、北アフリカ、西アジアが原産で、中央ヨーロッパでは稀です。輸入されたマルチ材などに伴ってイギリス諸島、南北アメリカ、オーストララシアなど他の地域にも広がり、現在は南極大陸を除くすべての大陸に分布します。",
+        cap: "若い子実体は白色から灰白色の卵形からほぼ球形の卵で、幅は約6 cmに達し、薄い革質の皮に包まれ、開く前にその表面に多角形の模様の網目が現れます。皮の下には厚さ最大3 mmのゼラチン質の層があります。托(受器)は卵を破り、ときにわずか数時間で、高さ5〜20 cm、幅4〜10 cmの中空の球形または卵形の籠状に広がります。これは絡み合った腕でできており、7〜20個の角ばった窓を囲みます。腕は赤色から淡橙色で、ときに桃色を帯び、基部に近いほど淡くなることが多く、外面には肋状またはしわがあり、上部の太さは最大1.5 cmで下に向かって細くなります。",
+        hymenium: "ヒダも管孔もありません。胞子を生じる組織はグレバで、暗いオリーブ緑色からオリーブ褐色の粘り気のある悪臭を放つ粘液状で、基部付近を除く腕の内側の面を覆います。腐肉のような臭いがハエなどの昆虫を引き寄せ、昆虫がそれを食べて胞子を運びます。",
+        stipe: "本来の柄はないか、ごく短いものです。籠状の構造は、卵の皮の名残であるカップ状のつぼ(外被膜)から直接立ち上がり、つぼは基部に残って、白い菌糸束(根状菌糸束)で地面に固定されます。",
+        flesh: "腕はスポンジ状で柔らかく、もろいです。断面では、各腕に太い内側の管が1本あり、外側に向かって小さな管が不明瞭に2列並びます。",
+        sporePrint: "オリーブ褐色。胞子は平滑で細長く、大きさは約4〜6 × 1.5〜2 μmで、付着点に小さな臍の痕があります。担子器は6個の胞子をつけます。",
+        habitat: "子実体は、腐朽した木材や木質の残骸の上、落葉や落ち針葉の層、庭の土、芝生や草地、木材チップのマルチの中に、単生または群生し、庭、公園、ブドウ園、広葉樹林や混交林に生えます。中央ヨーロッパでは主に夏、暖かい地域では春から秋、北アメリカでは10月から3月に現れます。",
+        uses: "食用にはされません。食用になるかどうかは記録されておらず、成熟した子実体は腐肉のような臭いがし、多くの図鑑は不食または有毒としています。中毒の報告では、腹痛とけいれんが述べられています。",
+        confusion: "熱帯性の Clathrus crispus は、籠の各網目の周りに波打った縁があり、この種にはありません。Clathrus columnatus は籠状ではなく、先端で合着した2〜5本の長い垂直の橙色または赤色のスポンジ状の柱をもちます。Clathrus archeri は現れてまもなく別々の腕に裂けるため、閉じた籠を作ることはありません。",
+        notes: "托は卵から出て約24時間後に崩れます。橙色から赤色は主にカロテノイドのリコピンとβ-カロテンによるもので、トマトやニンジンを色づける色素と同じです。卵のゼラチン質の層はカルシウムとカリウムに富み、托が急速に成長する間、水分を保つのに役立ちます。"
+      },
+      ko: {
+        description: "썩어 가는 목질 식물 물질을 영양분으로 삼는 부생성 악취 버섯으로, 홀로 또는 무리 지어 자랍니다. 남유럽, 마카로네시아, 튀르키예 서부, 북아프리카, 서아시아가 원산이며 중부 유럽에서는 드뭅니다. 수입된 멀치 등을 따라 영국 제도, 아메리카, 오스트랄라시아 등 다른 지역으로 퍼졌고, 지금은 남극 대륙을 제외한 모든 대륙에서 발견됩니다.",
+        cap: "어린 자실체는 흰색에서 회백색의 달걀 모양에서 거의 둥근 알로, 너비가 약 6 cm에 이르며 얇고 가죽 같은 껍질에 싸여 있고, 열리기 전에 껍질에 다각형 무늬의 그물이 나타납니다. 껍질 아래에는 두께 3 mm까지의 젤라틴질 층이 있습니다. 수용기는 알을 터뜨리고, 때로는 불과 몇 시간 만에, 높이 5–20 cm, 너비 4–10 cm의 속이 빈 공 모양 또는 타원형 바구니로 펼쳐지는데, 서로 얽힌 팔로 이루어져 7–20개의 각진 창을 둘러쌉니다. 팔은 붉은색에서 연한 주황색이며 때로 분홍빛을 띠고 밑동으로 갈수록 흔히 더 옅습니다. 바깥면은 갈비뼈 모양이거나 주름져 있고, 위쪽 두께는 최대 1.5 cm이며 아래로 갈수록 가늘어집니다.",
+        hymenium: "주름살이나 관공은 없습니다. 포자를 만드는 조직은 글레바로, 짙은 올리브녹색에서 올리브갈색의 끈적이고 악취가 나는 점액이며, 밑동 근처를 뺀 팔의 안쪽 면을 덮고 있습니다. 썩은 고기 냄새가 파리와 다른 곤충을 끌어들이고, 곤충이 이를 먹고 포자를 퍼뜨립니다.",
+        stipe: "진짜 자루는 없거나 매우 짧습니다. 격자는 알껍질의 흔적인 컵 모양의 대주머니에서 곧바로 솟아오르며, 대주머니는 밑동에 남아 흰색 끈(균사다발)으로 땅에 고정됩니다.",
+        flesh: "팔은 스펀지 같고 부드러우며 잘 부서집니다. 단면에서 각 팔에는 넓은 안쪽 관이 하나 있고 바깥쪽으로 더 작은 관들이 불분명하게 두 줄로 늘어서 있습니다.",
+        sporePrint: "올리브갈색. 포자는 매끄럽고 길쭉하며 크기는 약 4–6 × 1.5–2 μm이고, 붙어 있던 자리에 작은 배꼽 흉터가 있습니다. 담자기는 포자가 6개씩 달립니다.",
+        habitat: "자실체는 썩어 가는 나무와 목질 잔해 위, 낙엽과 침엽 낙엽층, 정원 흙, 잔디밭과 풀밭, 나무 칩 멀치에서 홀로 또는 무리 지어 자라며, 정원, 공원, 포도밭, 활엽수림이나 혼합림에서 발견됩니다. 중부 유럽에서는 주로 여름에, 따뜻한 지역에서는 봄부터 가을까지, 북아메리카에서는 10월부터 3월까지 나타납니다.",
+        uses: "식용으로 쓰이지 않습니다. 식용 여부는 기록되어 있지 않고, 성숙한 자실체는 썩은 고기 냄새가 나며, 많은 도감이 식용 불가 또는 독성이 있다고 적고 있습니다. 중독 보고에는 복통과 경련이 서술되어 있습니다.",
+        confusion: "열대성인 Clathrus crispus는 격자의 각 그물눈 둘레에 물결 모양의 가장자리가 있으며, 이 종에는 없습니다. Clathrus columnatus는 격자 대신 꼭대기에서 붙은, 길고 곧은 주황색 또는 붉은색의 스펀지 같은 기둥 2–5개를 가집니다. Clathrus archeri는 나온 뒤 곧 따로따로 갈라진 팔로 쪼개지므로 닫힌 격자를 이루지 않습니다.",
+        notes: "수용기는 알에서 나온 지 약 24시간 뒤에 무너집니다. 주황색에서 붉은색은 주로 카로티노이드인 리코펜과 베타카로틴에서 나오며, 토마토와 당근에 색을 내는 것과 같은 색소입니다. 알의 젤라틴질 층은 칼슘과 칼륨이 풍부해 수용기가 빠르게 자라는 동안 수분을 붙들어 두는 데 도움이 됩니다."
+      },
+      lv: {
+        description: "Saprotrofa smirdīga sēne, kas barojas ar trūdošu koksnainu augu materiālu un aug atsevišķi vai grupās. Tā ir dzimtā Dienvideiropā, Makaronēzijā, Turcijas rietumos, Ziemeļāfrikā un Rietumāzijā, bet Centrāleiropā reta. Tā izplatījusies, bieži ar importētu mulču, uz citiem reģioniem, tostarp Britu salām, Amerikām un Austrālāziju, un tagad sastopama visos kontinentos, izņemot Antarktīdu.",
+        cap: "Jaunais augļķermenis ir balta līdz pelēcīga ola, olveida līdz gandrīz apaļa un līdz aptuveni 6 cm plata, ar maigu, ādainu apvalku, uz kura pirms atvēršanās parādās daudzstūrainu zīmju tīkls. Zem apvalka ir līdz 3 mm biezs želejveida slānis. Receptakuls pārplēš olu, dažkārt jau dažu stundu laikā, un izplešas dobā lodē vai ovālā būrī, kas ir 5–20 cm augsts un 4–10 cm plats un veidots no savijušām rokām, kuras ierobežo 7–20 leņķainus logus. Rokas ir sarkanas līdz gaiši oranžas, dažkārt rozā, un pret pamatni bieži gaišākas. To ārējā virsma ir ribota vai grumbaina, augšpusē tās ir līdz 1,5 cm biezas un uz leju sašaurinās.",
+        hymenium: "Plātņu un poru nav. Sporas nesošais audu slānis ir gleba — tumša olīvzaļa līdz olīvbrūna, lipīga, nelabi smakojoša gļotaina masa, kas klāj roku iekšpuses, izņemot vietas pie pamatnes. Tās puvušas gaļas smaka pievilina mušas un citus kukaiņus, kas to apēd un izplata sporas.",
+        stipe: "Īsta kāta nav, vai arī tas ir ļoti īss. Režģis izaug tieši no kausveida makstis, olas apvalka paliekām, kas paliek ap pamatni un ir piestiprināta zemei ar baltām auklām (rizomorfām).",
+        flesh: "Rokas ir sūkļainas, mīkstas un trauslas. Šķērsgriezumā katrā rokā redzama viena plata iekšējā caurule un uz āru divas neskaidras mazāku cauruļu rindas.",
+        sporePrint: "Olīvbrūns. Sporas ir gludas un iegarenas, aptuveni 4–6 × 1,5–2 μm, ar nelielu hilāro rētu piestiprināšanās vietā. Bazīdijas ir sešsporu.",
+        habitat: "Augļķermeņi aug atsevišķi vai grupās uz trūdošas koksnes un koksnes atliekām, lapu un skuju kritalās, dārza augsnē, zālienos un zālainās vietās, kā arī šķeldas mulčā, dārzos, parkos, vīnogulājos un lapu vai jauktos mežos. Centrāleiropā tie parādās galvenokārt vasarā, siltos reģionos no pavasara līdz rudenim, bet Ziemeļamerikā no oktobra līdz martam.",
+        uses: "Pārtikā neizmanto. Ēdamība nav dokumentēta, nobriedis augļķermenis smaka pēc puvušas gaļas, un daudzi noteicēji to min kā neēdamu vai indīgu. Ziņojumos par saindēšanos aprakstītas vēdersāpes un krampji.",
+        confusion: "Clathrus crispus, tropiska suga, ap katru režģa acs ir viļņota mala, kuras šai sugai nav. Clathrus columnatus režģa vietā ir divas līdz piecas garas vertikālas oranžas vai sarkanas sūkļainas kolonnas, kas virsotnē saaugušas kopā. Clathrus archeri neilgi pēc parādīšanās sadalās atsevišķās rokās, tāpēc tā nekad neveido slēgtu režģi.",
+        notes: "Receptakuls sabrūk aptuveni 24 stundas pēc iznākšanas no olas. Tā oranžo līdz sarkano krāsu galvenokārt rada karotinoīdi likopēns un beta karotīns, tie paši pigmenti, kas krāso tomātus un burkānus. Olas želejveida slānis ir bagāts ar kalciju un kāliju, kas palīdz tam noturēt ūdeni, kamēr receptakuls strauji aug."
+      },
+      lt: {
+        description: "Saprotrofinis smirdintis grybas, mintantis pūvančia mediena ir augantis pavieniui arba grupėmis. Jis kilęs iš Pietų Europos, Makaronezijos, vakarų Turkijos, Šiaurės Afrikos ir Vakarų Azijos, o Vidurio Europoje yra retas. Jis paplito, dažnai su importuotu mulču, į kitus regionus, įskaitant Britų salas, Ameriką ir Australaziją, ir dabar aptinkamas visuose žemynuose, išskyrus Antarktidą.",
+        cap: "Jaunas vaisiakūnis yra baltas ar pilkšvas kiaušinis, kiaušiniškas ar beveik apvalus, iki maždaug 6 cm pločio, su trapia, odiška luobele, ant kurios prieš atsiveriant atsiranda daugiakampių žymių tinklas. Po luobele yra iki 3 mm storio drebutinis sluoksnis. Receptakulas sprogdina kiaušinį, kartais vos per kelias valandas, ir išsiskleidžia į tuščiavidurį rutulį ar ovalų narvelį, 5–20 cm aukščio ir 4–10 cm pločio, sudarytą iš susipynusių „rankų“, kurios riboja 7–20 kampuotų langelių. Rankos raudonos ar blyškiai oranžinės, kartais rausvos, o link pagrindo dažnai šviesesnės. Jų išorinis paviršius briaunotas ar raukšlėtas, viršuje jos iki 1,5 cm storio ir žemyn siaurėja.",
+        hymenium: "Plokštelių ar porų nėra. Sporas nešantis audinys yra gleba — tamsiai alyvuogių žalias ar alyvuogių rudas, lipnus, nemaloniai kvepiantis gleivėtas sluoksnis, dengiantis rankų vidinius paviršius, išskyrus vietas prie pagrindo. Jos pūvančios mėsos kvapas privilioja muses ir kitus vabzdžius, kurie ją suėda ir išnešioja sporas.",
+        stipe: "Tikros kojelės nėra arba ji labai trumpa. Grotelės kyla tiesiai iš taurelės formos makšties, kiaušinio luobelės likučio, kuri lieka aplink pagrindą ir baltomis virvelėmis (rizomorfomis) pritvirtinta prie žemės.",
+        flesh: "Rankos kempinės, minkštos ir trapios. Pjūvyje kiekvienoje rankoje matomas vienas platus vidinis vamzdelis, o į išorę dvi neryškios mažesnių vamzdelių eilės.",
+        sporePrint: "Alyvuogių rudas. Sporos lygios ir pailgos, maždaug 4–6 × 1,5–2 μm, su nedideliu hilariniu randu prisitvirtinimo vietoje. Bazidės šešiasporės.",
+        habitat: "Vaisiakūniai auga pavieniui arba grupėmis ant pūvančios medienos ir medienos liekanų, lapų ir spyglių paklotėje, sodo dirvoje, vejose ir žolėtose vietose bei medžio drožlių mulče, soduose, parkuose, vynuogynuose ir lapuočių ar mišriuose miškuose. Vidurio Europoje jie pasirodo daugiausia vasarą, šiltuose regionuose nuo pavasario iki rudens, o Šiaurės Amerikoje nuo spalio iki kovo.",
+        uses: "Maistui nenaudojamas. Jo valgomumas nedokumentuotas, subrendęs vaisiakūnis kvepia pūvančia mėsa, o daugelis vadovų jį nurodo kaip nevalgomą ar nuodingą. Pranešimuose apie apsinuodijimus aprašomi pilvo skausmai ir traukuliai.",
+        confusion: "Clathrus crispus, tropinė rūšis, aplink kiekvieną grotelių akutę turi banguotą kraštą, kurio šiai rūšiai trūksta. Clathrus columnatus vietoj grotelių turi nuo dviejų iki penkių ilgų vertikalių oranžinių ar raudonų kempinių kolonėlių, viršūnėje suaugusių. Clathrus archeri netrukus po išlindimo skyla į atskiras rankas, todėl niekada nesudaro uždaro grotelių tinklo.",
+        notes: "Receptakulas subliūkšta maždaug praėjus 24 valandoms po išlindimo iš kiaušinio. Jo oranžinę ar raudoną spalvą daugiausia lemia karotenoidai likopenas ir beta karotinas — tie patys pigmentai, kurie nudažo pomidorus ir morkas. Kiaušinio drebutinis sluoksnis turtingas kalcio ir kalio, kurie padeda jam išlaikyti vandenį, kol receptakulas greitai auga."
+      },
+      no: {
+        description: "En saprotrof stinksopp som lever av nedbrutt vedaktig plantemateriale og vokser enkeltvis eller i grupper. Den er opprinnelig i Sør-Europa, Makaronesia, det vestlige Tyrkia, Nord-Afrika og Vest-Asia og er sjelden i Mellom-Europa. Den er spredt, ofte med importert bark til jorddekke, til andre regioner, blant annet De britiske øyer, Amerika og Australasia, og finnes nå på alle kontinenter unntatt Antarktis.",
+        cap: "Det unge fruktlegemet er et hvitt til gråaktig egg, eggformet til nesten rundt og opptil ca. 6 cm bredt, med en fin, lærartet hud der det før åpningen kommer et nett av mangekantede merker. Under huden ligger et gelélag på opptil 3 mm. Fruktbæreren sprenger egget, på bare noen timer, og folder seg ut til en hul kule eller et ovalt bur, 5–20 cm høyt og 4–10 cm bredt, bygd av sammenflettede armer som omslutter 7–20 kantete åpninger. Armene er røde til lyst oransje, noen ganger rosa, og ofte lysere mot basis. Yttersiden er ribbet eller rynket, og armene er opptil 1,5 cm tykke øverst og smalner av nedover.",
+        hymenium: "Det er verken skiver eller porer. Det sporebærende vevet er gleba, et mørkt olivengrønt til olivenbrunt, klebrig og illeluktende slim som dekker innsiden av armene, bortsett fra nær basis. Lukten av råtnende kjøtt trekker til seg fluer og andre insekter, som spiser det og sprer sporene.",
+        stipe: "Det er ingen egentlig stilk, eller bare en svært kort. Gitteret reiser seg direkte fra en begerformet skjede, restene av eggskallet, som blir sittende rundt basis og er festet til bakken med hvite tråder (rhizomorfer).",
+        flesh: "Armene er svampaktige, myke og sprø. I snitt viser hver arm ett vidt indre rør og to utydelige rekker med mindre rør mot utsiden.",
+        sporePrint: "Olivenbrunt. Sporene er glatte og avlange, ca. 4–6 × 1,5–2 μm, med et lite hilært arr der de har festet seg. Basidiene er seks-sporede.",
+        habitat: "Fruktlegemene vokser enkeltvis eller i grupper på nedbrutt ved og vedrester, i løv- og barstrø, på hagejord, plener og gresskledde steder og i flismulch, i hager, parker, vingårder og løv- eller blandingsskog. I Mellom-Europa kommer de hovedsakelig om sommeren, i varme strøk fra vår til høst og i Nord-Amerika fra oktober til mars.",
+        uses: "Brukes ikke som mat. Spiseligheten er ikke dokumentert, det modne fruktlegemet lukter av råtnende kjøtt, og mange soppbøker oppgir den som uspiselig eller giftig. Beretninger om forgiftning beskriver magesmerter og kramper.",
+        confusion: "Clathrus crispus, en tropisk art, har en bølget kant rundt hver maske i gitteret, som denne arten mangler. Clathrus columnatus har i stedet for gitter to til fem lange loddrette oransje eller røde, svampaktige søyler som er sammenvokst i toppen. Clathrus archeri deler seg like etter at den har kommet fram i separate armer, og danner derfor aldri et lukket gitter.",
+        notes: "Fruktbæreren faller sammen ca. 24 timer etter at den har kommet ut av egget. Den oransje til røde fargen kommer hovedsakelig fra karotenoidene lykopen og betakaroten, de samme pigmentene som farger tomater og gulrøtter. Eggets gelélag er rikt på kalsium og kalium, som hjelper det å holde på vann mens fruktbæreren vokser raskt."
+      },
+      fa: {
+        description: "قارچی پوسیده‌خوار و بدبو که از مواد گیاهی چوبیِ در حال تجزیه تغذیه می‌کند و به‌صورت تک‌تک یا گروهی رشد می‌کند. بومی جنوب اروپا، ماکارونزی، غرب ترکیه، شمال آفریقا و غرب آسیا است و در اروپای مرکزی کمیاب است. این قارچ، اغلب همراه با مالچ وارداتی، به مناطق دیگر از جمله جزایر بریتانیا، قاره‌های آمریکا و استرالازیا راه یافته و اکنون در همه قاره‌ها جز جنوبگان دیده می‌شود.",
+        cap: "بدنهٔ میوه‌دهندهٔ جوان تخمی سفید تا خاکستری‌رنگ است، تخم‌مرغی تا تقریباً گرد و تا حدود ۶ سانتی‌متر پهنا، با پوستی نازک و چرمی که پیش از باز شدن شبکه‌ای از نشانه‌های چندضلعی بر آن پدیدار می‌شود. زیر پوست لایه‌ای ژلاتینی تا ضخامت ۳ میلی‌متر وجود دارد. گیرنده تخم را می‌شکافد، گاهی تنها در چند ساعت، و به شکل کره‌ای توخالی یا قفسی بیضی به ارتفاع ۵ تا ۲۰ و پهنای ۴ تا ۱۰ سانتی‌متر باز می‌شود که از بازوهای درهم‌تنیده ساخته شده و ۷ تا ۲۰ پنجرهٔ زاویه‌دار را در میان می‌گیرد. بازوها قرمز تا نارنجی کم‌رنگ و گاهی صورتی‌اند و به سمت پایه اغلب روشن‌تر می‌شوند. سطح بیرونی آنها آجدار یا چروکیده است و در بالا تا ۱٫۵ سانتی‌متر ضخامت دارند و به پایین باریک می‌شوند.",
+        hymenium: "تیغه یا منفذی وجود ندارد. بافت اسپورزا گلبا است، لعابی چسبناک و بدبو به رنگ سبز زیتونی تیره تا قهوه‌ای زیتونی که سطح درونی بازوها را می‌پوشاند، جز در نزدیکی پایه. بوی گوشت گندیدهٔ آن مگس‌ها و حشرات دیگر را جلب می‌کند که آن را می‌خورند و اسپورها را پراکنده می‌کنند.",
+        stipe: "ساق واقعی وجود ندارد یا بسیار کوتاه است. شبکه مستقیماً از ولوایی جامی‌شکل، بازماندهٔ پوست تخم، برمی‌خیزد که پیرامون پایه می‌ماند و با ریسه‌های سفید (ریزومورف) در خاک مهار می‌شود.",
+        flesh: "بازوها اسفنجی، نرم و شکننده‌اند. در برش عرضی هر بازو یک لولهٔ درونی پهن و به سمت بیرون دو ردیف نامشخص از لوله‌های کوچک‌تر نشان می‌دهد.",
+        sporePrint: "قهوه‌ای زیتونی. اسپورها صاف و کشیده‌اند، حدود ۴ تا ۶ × ۱٫۵ تا ۲ میکرومتر، و در محل اتصال زخمی کوچک دارند. بازیدی‌ها شش‌اسپوره‌اند.",
+        habitat: "بدنه‌های میوه‌دهنده تک‌تک یا گروهی روی چوب در حال تجزیه و بقایای چوبی، در بستر برگ و سوزن، بر خاک باغ، چمن و جاهای علفی و در مالچ تراشه‌های چوب می‌رویند، در باغ‌ها، پارک‌ها، تاکستان‌ها و جنگل‌های پهن‌برگ یا آمیخته. در اروپای مرکزی بیشتر در تابستان پدیدار می‌شوند، در مناطق گرم از بهار تا پاییز و در آمریکای شمالی از اکتبر تا مارس.",
+        uses: "به‌عنوان غذا استفاده نمی‌شود. خوراکی بودن آن مستند نشده است، بدنهٔ میوه‌دهندهٔ رسیده بوی گوشت گندیده می‌دهد و بسیاری از راهنماها آن را غیرخوراکی یا سمی فهرست می‌کنند. گزارش‌های مسمومیت از دل‌درد و تشنج یاد می‌کنند.",
+        confusion: "Clathrus crispus، گونه‌ای گرمسیری، پیرامون هر چشمهٔ شبکه لبه‌ای موج‌دار دارد که این گونه ندارد. Clathrus columnatus به‌جای شبکه دو تا پنج ستون بلند، عمودی، نارنجی یا قرمز و اسفنجی دارد که در رأس به هم جوش خورده‌اند. Clathrus archeri اندکی پس از بیرون آمدن به بازوهای جدا از هم تقسیم می‌شود و بنابراین هرگز شبکه‌ای بسته نمی‌سازد.",
+        notes: "گیرنده حدود ۲۴ ساعت پس از بیرون آمدن از تخم فرو می‌ریزد. رنگ نارنجی تا قرمز آن عمدتاً از کاروتنوئیدهای لیکوپن و بتاکاروتن است، همان رنگدانه‌هایی که گوجه‌فرنگی و هویج را رنگ می‌کنند. لایهٔ ژلاتینی تخم از کلسیم و پتاسیم غنی است که به نگه‌داشتن آب کمک می‌کنند، در حالی که گیرنده به‌سرعت رشد می‌کند."
+      },
+      pl: {
+        description: "Saprotroficzny grzyb o przykrym zapachu, który żywi się rozkładającym się drzewnym materiałem roślinnym i rośnie pojedynczo lub w grupach. Pochodzi z południowej Europy, Makaronezji, zachodniej Turcji, Afryki Północnej i zachodniej Azji, a w Europie Środkowej jest rzadki. Rozprzestrzenił się, często wraz z importowanym kompostem z kory, do innych regionów, w tym na Wyspy Brytyjskie, do obu Ameryk i do Australazji, i występuje obecnie na wszystkich kontynentach z wyjątkiem Antarktydy.",
+        cap: "Młody owocnik to biało- do szarawego jajo, jajowate do prawie kulistego, szerokie do około 6 cm, o delikatnej, skórzastej osłonie, na której przed otwarciem pojawia się sieć wielokątnych znaków. Pod osłoną leży galaretowata warstwa o grubości do 3 mm. Receptakulum rozrywa jajo, nawet w ciągu kilku godzin, i rozwija się w pustą kulę lub owalną klatkę o wysokości 5–20 cm i szerokości 4–10 cm, zbudowaną ze splecionych ramion, które otaczają 7–20 kanciastych okien. Ramiona są czerwone do bladopomarańczowych, czasem różowe i często jaśniejsze ku podstawie. Ich zewnętrzna powierzchnia jest żebrowana lub pomarszczona, u góry mają do 1,5 cm grubości i zwężają się ku dołowi.",
+        hymenium: "Nie ma blaszek ani rurek. Tkanką zarodnikonośną jest gleba, ciemnooliwkowozielona do oliwkowobrązowej, lepka, cuchnąca śluzowata masa pokrywająca wewnętrzne powierzchnie ramion, z wyjątkiem okolic podstawy. Jej zapach gnijącego mięsa przyciąga muchy i inne owady, które ją zjadają i roznoszą zarodniki.",
+        stipe: "Prawdziwego trzonu brak lub jest bardzo krótki. Siatka wyrasta bezpośrednio z kielichowatej pochwy, resztki osłony jaja, która pozostaje wokół podstawy i jest zakotwiczona w podłożu białymi sznurami (ryzomorfami).",
+        flesh: "Ramiona są gąbczaste, miękkie i kruche. W przekroju każde ramię ma jedną szeroką rurkę wewnętrzną i ku zewnętrznej stronie dwa niewyraźne rzędy mniejszych rurek.",
+        sporePrint: "Oliwkowobrązowy. Zarodniki są gładkie i wydłużone, mają około 4–6 × 1,5–2 μm, z niewielką blizną hilarną w miejscu przyczepu. Podstawki są sześciozarodnikowe.",
+        habitat: "Owocniki rosną pojedynczo lub w grupach na rozkładającym się drewnie i drzewnych resztkach, w ściółce z liści i igieł, na ziemi ogrodowej, trawnikach i trawiastych miejscach oraz w ściółce ze zrębków drzewnych, w ogrodach, parkach, winnicach i lasach liściastych lub mieszanych. W Europie Środkowej pojawiają się głównie latem, w ciepłych regionach od wiosny do jesieni, a w Ameryce Północnej od października do marca.",
+        uses: "Nie jest używany jako pokarm. Jego jadalność nie jest udokumentowana, dojrzały owocnik pachnie gnijącym mięsem, a wiele atlasów podaje go jako niejadalny lub trujący. Doniesienia o zatruciach opisują bóle brzucha i drgawki.",
+        confusion: "Clathrus crispus, gatunek tropikalny, ma pofałdowany brzeg wokół każdego oczka siatki, którego ten gatunek nie ma. Clathrus columnatus ma zamiast siatki od dwóch do pięciu długich, pionowych, pomarańczowych lub czerwonych, gąbczastych słupków zrośniętych na szczycie. Clathrus archeri rozpada się krótko po wynurzeniu na osobne ramiona, więc nigdy nie tworzy zamkniętej siatki.",
+        notes: "Receptakulum zapada się około 24 godzin po wyjściu z jaja. Pomarańczowa do czerwonej barwa pochodzi głównie z karotenoidów likopenu i beta-karotenu, czyli tych samych barwników, które zabarwiają pomidory i marchew. Galaretowata warstwa jaja jest bogata w wapń i potas, które pomagają jej zatrzymywać wodę, gdy receptakulum szybko rośnie."
+      },
+      pt: {
+        description: "Um fungo saprófita de cheiro fétido que se alimenta de material vegetal lenhoso em decomposição e cresce isolado ou em grupos. É nativo do sul da Europa, da Macaronésia, do oeste da Turquia, do norte de África e do oeste da Ásia, e é raro na Europa Central. Foi disseminado, muitas vezes com mulch importado, para outras regiões, incluindo as Ilhas Britânicas, as Américas e a Australásia, e ocorre hoje em todos os continentes, exceto a Antártida.",
+        cap: "O corpo frutífero jovem é um ovo branco a acinzentado, ovoide a quase redondo e com até cerca de 6 cm de largura, com uma pele delicada e coriácea na qual, antes de se abrir, surge uma rede de marcas poligonais. Sob a pele há uma camada gelatinosa com até 3 mm de espessura. O receptáculo rompe o ovo, em apenas algumas horas, e expande-se numa esfera oca ou gaiola oval com 5–20 cm de altura e 4–10 cm de largura, formada por braços entrelaçados que delimitam 7–20 janelas angulosas. Os braços são vermelhos a laranja-pálido, por vezes rosados, e muitas vezes mais claros em direção à base. A superfície externa é nervurada ou enrugada, e os braços têm até 1,5 cm de espessura no topo e afilam para baixo.",
+        hymenium: "Não tem lamelas nem poros. O tecido portador dos esporos é a gleba, uma massa viscosa verde-oliva escura a castanho-oliva, pegajosa e de cheiro fétido, que cobre as faces internas dos braços, exceto perto da base. O seu cheiro a carne em putrefação atrai moscas e outros insetos, que se alimentam dela e dispersam os esporos.",
+        stipe: "Não tem pé verdadeiro, ou tem apenas um muito curto. A rede ergue-se diretamente de uma volva em forma de taça, o resto da pele do ovo, que permanece à volta da base e se fixa ao solo por cordões brancos (rizomorfos).",
+        flesh: "Os braços são esponjosos, moles e quebradiços. Em corte, cada braço mostra um tubo interior largo e, para o exterior, duas fiadas pouco nítidas de tubos mais pequenos.",
+        sporePrint: "Castanho-oliva. Os esporos são lisos e alongados, com cerca de 4–6 × 1,5–2 μm, com uma pequena cicatriz hilar no ponto de inserção. Os basídios têm seis esporos.",
+        habitat: "Os corpos frutíferos crescem isolados ou em grupos sobre madeira em decomposição e detritos lenhosos, na folhada de folhas e agulhas, em terra de jardim, relvados e locais herbosos, e em mulch de estilha de madeira, em jardins, parques, vinhas e florestas de folhosas ou mistas. Na Europa Central surgem sobretudo no verão, nas regiões quentes da primavera ao outono e, na América do Norte, de outubro a março.",
+        uses: "Não é usado como alimento. A sua comestibilidade não está documentada, o corpo frutífero maduro cheira a carne em putrefação e muitos guias classificam-no como não comestível ou venenoso. Os relatos de intoxicação descrevem dores abdominais e convulsões.",
+        confusion: "Clathrus crispus, uma espécie tropical, tem um bordo ondulado em torno de cada malha da rede, que esta espécie não tem. Clathrus columnatus tem, em vez de uma rede, duas a cinco colunas esponjosas longas e verticais, alaranjadas ou vermelhas, unidas no ápice. Clathrus archeri divide-se em braços separados pouco depois de emergir, pelo que nunca forma uma rede fechada.",
+        notes: "O receptáculo colapsa cerca de 24 horas depois de sair do ovo. A sua cor laranja a vermelha vem sobretudo dos carotenoides licopeno e betacaroteno, os mesmos pigmentos que dão cor aos tomates e às cenouras. A camada gelatinosa do ovo é rica em cálcio e potássio, que a ajudam a reter água enquanto o receptáculo cresce depressa."
+      },
+      ro: {
+        description: "O ciupercă saprofită cu miros fetid, care se hrănește cu material vegetal lemnos în descompunere și crește singură sau în grupuri. Este nativă în sudul Europei, Macaronezia, vestul Turciei, nordul Africii și vestul Asiei și este rară în Europa Centrală. S-a răspândit, adesea odată cu mulci importat, în alte regiuni, inclusiv Insulele Britanice, Americile și Australazia, și se întâlnește astăzi pe toate continentele, cu excepția Antarcticii.",
+        cap: "Corpul fructifer tânăr este un ou alb până la cenușiu, ovoid până aproape rotund și lat de până la circa 6 cm, cu o piele fină, coriacee, pe care înainte de deschidere apare o rețea de semne poligonale. Sub piele se află un strat gelatinos gros de până la 3 mm. Receptaculul sparge oul, uneori în doar câteva ore, și se desface într-o sferă goală sau o colivie ovală înaltă de 5–20 cm și lată de 4–10 cm, alcătuită din brațe împletite care delimitează 7–20 de ferestre unghiulare. Brațele sunt roșii până la portocaliu pal, uneori roz, și adesea mai deschise spre bază. Suprafața lor exterioară este nervurată sau încrețită, iar în partea de sus au până la 1,5 cm grosime și se subțiază spre bază.",
+        hymenium: "Nu are lamele sau pori. Țesutul purtător de spori este gleba, o masă vâscoasă verde-măslinie închis până la brun-măslinie, lipicioasă și urât mirositoare, care acoperă fețele interioare ale brațelor, cu excepția zonei din apropierea bazei. Mirosul ei de carne în putrefacție atrage muște și alte insecte, care o consumă și răspândesc sporii.",
+        stipe: "Nu are picior propriu-zis, sau are unul foarte scurt. Rețeaua se ridică direct dintr-o volvă în formă de cupă, rămășița pielii oului, care rămâne în jurul bazei și este ancorată în sol prin cordoane albe (rizomorfe).",
+        flesh: "Brațele sunt buretoase, moi și friabile. În secțiune, fiecare braț arată un tub interior larg și, spre exterior, două șiruri neclare de tuburi mai mici.",
+        sporePrint: "Brun-măsliniu. Sporii sunt netezi și alungiți, de circa 4–6 × 1,5–2 μm, cu o mică cicatrice hilară la locul de prindere. Bazidiile sunt cu șase spori.",
+        habitat: "Corpurile fructifere cresc singure sau în grupuri pe lemn în descompunere și resturi lemnoase, în litiera de frunze și ace, pe pământ de grădină, peluze și locuri ierboase și în mulci din așchii de lemn, în grădini, parcuri, podgorii și păduri de foioase sau mixte. În Europa Centrală apar mai ales vara, în regiunile calde din primăvară până toamna, iar în America de Nord din octombrie până în martie.",
+        uses: "Nu se folosește ca aliment. Comestibilitatea nu este documentată, corpul fructifer matur miroase a carne în putrefacție, iar multe ghiduri îl dau drept necomestibil sau otrăvitor. Relatările despre intoxicații descriu dureri abdominale și convulsii.",
+        confusion: "Clathrus crispus, o specie tropicală, are în jurul fiecărui ochi al rețelei un chenar ondulat, pe care această specie nu îl are. Clathrus columnatus are, în loc de rețea, două până la cinci coloane lungi, verticale, portocalii sau roșii, buretoase, unite în vârf. Clathrus archeri se desparte curând după ieșire în brațe separate, așa că nu formează niciodată o rețea închisă.",
+        notes: "Receptaculul se prăbușește la circa 24 de ore după ce iese din ou. Culoarea sa portocalie până la roșie provine mai ales din carotenoidele licopen și beta-caroten, aceiași pigmenți care colorează roșiile și morcovii. Stratul gelatinos al oului este bogat în calciu și potasiu, care îl ajută să rețină apa cât timp receptaculul crește rapid."
+      },
+      ru: {
+        description: "Сапротрофный гриб с неприятным запахом, питающийся разлагающимся древесным растительным материалом и растущий одиночно или группами. Родом из южной Европы, Макаронезии, западной Турции, Северной Африки и западной Азии; в Центральной Европе встречается редко. Распространился, часто с привозным мульчирующим материалом, в другие регионы, включая Британские острова, Америку и Австралазию, и теперь встречается на всех континентах, кроме Антарктиды.",
+        cap: "Молодое плодовое тело — белое или сероватое яйцо, яйцевидное или почти округлое, шириной до 6 см, с нежной кожистой оболочкой, на которой перед раскрытием проступает сеть многоугольных линий. Под оболочкой лежит студенистый слой толщиной до 3 мм. Рецептакул разрывает яйцо, порой всего за несколько часов, и разворачивается в полый шар или овальную клетку высотой 5–20 см и шириной 4–10 см из переплетённых перекладин, ограничивающих 7–20 угловатых окон. Перекладины красные или бледно-оранжевые, иногда розовые, к основанию нередко светлее. Их наружная поверхность рёбристая или морщинистая, вверху они толщиной до 1,5 см и сужаются книзу.",
+        hymenium: "Пластинок и пор нет. Спороносная ткань — глеба, тёмная оливково-зелёная или оливково-бурая липкая зловонная слизь, покрывающая внутренние стороны перекладин, кроме области вблизи основания. Её запах гниющего мяса привлекает мух и других насекомых, которые поедают её и разносят споры.",
+        stipe: "Настоящей ножки нет или она очень короткая. Решётка поднимается прямо из чашевидной вольвы, остатка оболочки яйца, которая остаётся вокруг основания и крепится к земле белыми шнурами (ризоморфами).",
+        flesh: "Перекладины губчатые, мягкие и хрупкие. На разрезе в каждой перекладине видна одна широкая внутренняя трубка и ближе к наружной стороне два нечётких ряда более мелких трубок.",
+        sporePrint: "Оливково-бурый. Споры гладкие и удлинённые, около 4–6 × 1,5–2 мкм, с небольшим рубчиком в месте прикрепления. Базидии шестиспоровые.",
+        habitat: "Плодовые тела растут одиночно или группами на разлагающейся древесине и древесных остатках, в лиственной и хвойной подстилке, на садовой почве, газонах и травянистых местах, а также в мульче из щепы, в садах, парках, виноградниках, лиственных и смешанных лесах. В Центральной Европе появляются главным образом летом, в тёплых регионах с весны до осени, а в Северной Америке с октября по март.",
+        uses: "В пищу не употребляется. Съедобность не документирована, зрелое плодовое тело пахнет гниющим мясом, и многие справочники считают его несъедобным или ядовитым. В сообщениях об отравлениях описаны боли в животе и судороги.",
+        confusion: "Clathrus crispus, тропический вид, имеет гофрированный край вокруг каждой ячейки решётки, чего у этого вида нет. У Clathrus columnatus вместо решётки от двух до пяти длинных вертикальных оранжевых или красных губчатых столбиков, сросшихся на вершине. Clathrus archeri вскоре после выхода распадается на отдельные лучи, поэтому никогда не образует замкнутой решётки.",
+        notes: "Рецептакул опадает примерно через 24 часа после выхода из яйца. Его оранжевый или красный цвет обусловлен главным образом каротиноидами ликопином и бета-каротином, теми же пигментами, что окрашивают помидоры и морковь. Студенистый слой яйца богат кальцием и калием, которые помогают ему удерживать воду, пока рецептакул быстро растёт."
+      },
+      sr: {
+        description: "Сапротрофна гљива непријатног мириса која се храни трулим дрвенастим биљним материјалом и расте појединачно или у групама. Потиче из јужне Европе, Макаронезије, западне Турске, северне Африке и западне Азије, а у средњој Европи је ретка. Раширила се, често са увезеним малчем, у друге крајеве, укључујући Британска острва, Америку и Аустралазију, и данас је присутна на свим континентима осим на Антарктику.",
+        cap: "Младо плодно тело је бело до сивкасто јаје, јајастог до готово округлог облика, широко до око 6 cm, са нежном, кожастом опном на којој се пре отварања појављује мрежа многоуглих ознака. Испод опне налази се желатинозни слој дебљине до 3 mm. Рецептакулум пробија јаје, понекад за свега неколико сати, и развија се у шупљу куглу или овални кавез висок 5–20 cm и широк 4–10 cm, сачињен од испреплетаних кракова који ограничавају 7–20 угластих прозорчића. Краци су црвени до бледонаранџасти, понекад ружичасти, а према бази често светлији. Спољашња им је површина ребраста или набрана, при врху су дебели до 1,5 cm и према доле се сужавају.",
+        hymenium: "Нема листића ни пора. Ткиво које носи споре је глеба, тамна маслинастозелена до маслинастосмеђа, лепљива и непријатно миришљава слуз која прекрива унутрашње стране кракова, осим близу базе. Њен мирис трулог меса привлачи муве и друге инсекте, који је једу и разносе споре.",
+        stipe: "Правог стручка нема или је веома кратак. Решетка израста директно из чашасте овојнице, остатка опне јајета, која остаје око базе и белим врпцама (ризоморфима) је усидрена у тло.",
+        flesh: "Краци су сунђерасти, меки и кртки. На пресеку сваки крак има једну широку унутрашњу цев и према споља два нејасна реда мањих цеви.",
+        sporePrint: "Маслинастосмеђ. Споре су глатке и издужене, величине око 4–6 × 1,5–2 μm, са малим хиларним ожиљком на месту причвршћивања. Базидије су са шест спора.",
+        habitat: "Плодна тела расту појединачно или у групама на трулом дрвету и дрвном отпаду, у лисној и четинарској простирци, на баштенској земљи, травњацима и травнатим местима и у малчу од дрвне сечке, у баштама, парковима, виноградима и лишћарским или мешовитим шумама. У средњој Европи се појављују углавном лети, у топлим крајевима од пролећа до јесени, а у Северној Америци од октобра до марта.",
+        uses: "Не користи се као храна. Јестивост му није документована, зрело плодно тело мирише на труло месо, а многи водичи га наводе као нејестиво или отровно. Извештаји о тровању описују болове у стомаку и грчеве.",
+        confusion: "Clathrus crispus, тропска врста, има валовиту ивицу око сваког ока решетке, коју ова врста нема. Clathrus columnatus уместо решетке има два до пет дугих усправних наранџастих или црвених сунђерастих стубова сраслих на врху. Clathrus archeri се убрзо након изласка распада на засебне краке, па никада не гради затворену решетку.",
+        notes: "Рецептакулум се урушава око 24 сата након изласка из јајета. Његова наранџаста до црвена боја потиче углавном од каротеноида ликопена и бета-каротена, истих пигмената који боје парадајз и шаргарепу. Желатинозни слој јајета богат је калцијумом и калијумом, који му помажу да задржи воду док рецептакулум брзо расте."
+      },
+      sl: {
+        description: "Saprotrofna smrdljiva goba, ki se hrani z razpadajočim lesnatim rastlinskim materialom in raste posamično ali v skupinah. Domuje v južni Evropi, na Makaronezijskih otokih, v zahodni Turčiji, severni Afriki in zahodni Aziji, v srednji Evropi pa je redka. Razširila se je, pogosto z uvoženim zastirkom, v druge predele, med drugim na Britansko otočje, v Ameriko in Avstralazijo, danes pa je prisotna na vseh celinah razen na Antarktiki.",
+        cap: "Mlad trosnjak je bela do sivkasta jajčasta tvorba, jajčasta do skoraj okrogla in široka do približno 6 cm, z nežno, usnjato kožico, na kateri se pred odprtjem pojavi mreža večkotnih znamenj. Pod kožico je želatinasta plast, debela do 3 mm. Receptakel jajce predre, včasih že v nekaj urah, in se razprostre v votlo kroglo ali ovalno kletko, visoko 5–20 cm in široko 4–10 cm, sestavljeno iz prepletenih krakov, ki obdajajo 7–20 oglatih okenc. Kraki so rdeči do bledo oranžni, včasih rožnati, proti dnu pa pogosto svetlejši. Zunanja površina je rebrasta ali nagubana, kraki so zgoraj debeli do 1,5 cm in se navzdol zožujejo.",
+        hymenium: "Nima listov ali por. Trosonosno tkivo je gleba, temno olivno zelena do olivno rjava, lepljiva in smrdeča sluz, ki prekriva notranje strani krakov, razen blizu dna. Njen vonj po gnilem mesu privablja muhe in druge žuželke, ki jo pojedo in raznašajo trose.",
+        stipe: "Pravega beta nima ali pa je zelo kratek. Mreža raste neposredno iz čašaste tulce, ostanka jajčne kožice, ki ostane okoli dna in je z belimi vrvicami (rizomorfami) zasidrana v tla.",
+        flesh: "Kraki so gobasti, mehki in krhki. Na prerezu je v vsakem kraku ena široka notranja cevka, navzven pa dve nejasni vrsti manjših cevk.",
+        sporePrint: "Olivno rjav. Trosi so gladki in podolgovati, veliki okoli 4–6 × 1,5–2 μm, z majhno hilarno brazgotino na mestu pritrditve. Bazidiji so šesttrosni.",
+        habitat: "Trosnjaki rastejo posamično ali v skupinah na razpadajočem lesu in lesnih ostankih, v listni in iglični stelji, na vrtni zemlji, travnikih in travnatih mestih ter v zastirki iz lesnih sekancev, v vrtovih, parkih, vinogradih in listnatih ali mešanih gozdovih. V srednji Evropi se pojavljajo predvsem poleti, v toplih krajih od pomladi do jeseni, v Severni Ameriki pa od oktobra do marca.",
+        uses: "Ne uporablja se kot hrana. Užitnost ni dokumentirana, zrel trosnjak smrdi po gnilem mesu, številni priročniki pa ga navajajo kot neužitnega ali strupenega. Poročila o zastrupitvah opisujejo bolečine v trebuhu in krče.",
+        confusion: "Clathrus crispus, tropska vrsta, ima okoli vsakega očesa mreže valovit rob, ki ga ta vrsta nima. Clathrus columnatus ima namesto mreže dva do pet dolgih navpičnih oranžnih ali rdečih gobastih stebričkov, zraslih na vrhu. Clathrus archeri se kmalu po izrastu razdeli na ločene krake, zato nikoli ne tvori sklenjene mreže.",
+        notes: "Receptakel se približno 24 ur po izstopu iz jajca zruši. Njegova oranžna do rdeča barva izvira predvsem iz karotenoidov likopena in beta-karotena, istih barvil, ki barvata paradižnik in korenje. Želatinasta plast jajca je bogata s kalcijem in kalijem, ki ji pomagata zadrževati vodo, medtem ko receptakel hitro raste."
+      },
+      es: {
+        description: "Un hongo saprotrofo de olor fétido que se alimenta de material vegetal leñoso en descomposición y crece solo o en grupos. Es nativo del sur de Europa, la Macaronesia, el oeste de Turquía, el norte de África y el oeste de Asia, y es raro en Europa central. Se ha extendido, a menudo con mantillo importado, a otras regiones, entre ellas las Islas Británicas, América y Australasia, y hoy se encuentra en todos los continentes excepto la Antártida.",
+        cap: "El cuerpo fructífero joven es un huevo blanco a grisáceo, ovoide a casi redondo y de hasta unos 6 cm de ancho, con una piel delicada y coriácea en la que, antes de abrirse, aparece una red de marcas poligonales. Bajo la piel hay una capa gelatinosa de hasta 3 mm de grosor. El receptáculo rompe el huevo, en tan solo unas horas, y se expande en una esfera hueca o jaula ovalada de 5–20 cm de alto y 4–10 cm de ancho, formada por brazos entrelazados que delimitan 7–20 ventanas angulosas. Los brazos son de color rojo a naranja pálido, a veces rosado, y a menudo más claros hacia la base. Su superficie externa es acostillada o arrugada, y miden hasta 1,5 cm de grosor en la parte superior y se estrechan hacia abajo.",
+        hymenium: "No tiene láminas ni poros. El tejido portador de las esporas es la gleba, una masa viscosa de color verde oliva oscuro a pardo oliváceo, pegajosa y de olor fétido, que cubre la cara interna de los brazos salvo cerca de la base. Su olor a carne en descomposición atrae a moscas y otros insectos, que se alimentan de ella y dispersan las esporas.",
+        stipe: "No tiene un pie verdadero, o solo uno muy corto. La red se alza directamente de una volva en forma de copa, el resto de la piel del huevo, que permanece alrededor de la base y se ancla al suelo mediante cordones blancos (rizomorfos).",
+        flesh: "Los brazos son esponjosos, blandos y quebradizos. En sección, cada brazo muestra un tubo interior ancho y dos hileras poco definidas de tubos más pequeños hacia el exterior.",
+        sporePrint: "Pardo oliváceo. Las esporas son lisas y alargadas, de unos 4–6 × 1,5–2 μm, con una pequeña cicatriz hilar en el punto de inserción. Los basidios tienen seis esporas.",
+        habitat: "Los cuerpos fructíferos crecen solos o en grupos sobre madera en descomposición y restos leñosos, en hojarasca y acículas, en tierra de jardín, céspedes y zonas de hierba, y en mantillo de astillas de madera, en jardines, parques, viñedos y bosques de caducifolios o mixtos. En Europa central aparecen sobre todo en verano, en las regiones cálidas de primavera a otoño y en Norteamérica de octubre a marzo.",
+        uses: "No se usa como alimento. Su comestibilidad no está documentada, el cuerpo fructífero maduro huele a carne en descomposición y muchas guías lo consideran no comestible o venenoso. Los informes de intoxicación describen dolor abdominal y convulsiones.",
+        confusion: "Clathrus crispus, una especie tropical, tiene un borde ondulado alrededor de cada malla de la red, que esta especie no tiene. Clathrus columnatus tiene, en lugar de una red, de dos a cinco columnas esponjosas largas, verticales, de color naranja o rojo y unidas en el ápice. Clathrus archeri se divide en brazos separados poco después de emerger, por lo que nunca forma una red cerrada.",
+        notes: "El receptáculo se desploma unas 24 horas después de salir del huevo. Su color naranja a rojo procede sobre todo de los carotenoides licopeno y betacaroteno, los mismos pigmentos que colorean los tomates y las zanahorias. La capa gelatinosa del huevo es rica en calcio y potasio, que le ayudan a retener agua mientras el receptáculo crece con rapidez."
+      },
+      sv: {
+        description: "En saprotrof stinksvamp som lever av förmultnande vedartat växtmaterial och växer enstaka eller i grupper. Den är ursprungligen hemmahörande i Sydeuropa, Makaronesien, västra Turkiet, Nordafrika och Västasien och är sällsynt i Mellaneuropa. Den har spridits, ofta med importerad barkmull, till andra regioner, bland annat Brittiska öarna, Amerika och Australasien, och förekommer nu på alla kontinenter utom Antarktis.",
+        cap: "Den unga fruktkroppen är ett vitt till gråaktigt ägg, äggformat till nästan runt och upp till cirka 6 cm brett, med ett fint, läderartat skal där ett nät av månghörniga märken framträder före öppningen. Under skalet ligger ett geléartat lager på upp till 3 mm. Fruktbäraren spräcker ägget, ibland på bara några timmar, och veckar ut sig till en ihålig klot eller oval bur, 5–20 cm hög och 4–10 cm bred, uppbyggd av sammanflätade armar som omsluter 7–20 kantiga öppningar. Armarna är röda till ljust orange, ibland rosa, och ofta ljusare mot basen. Ytterytan är räfflad eller skrynklig, och armarna är upp till 1,5 cm tjocka upptill och smalnar av nedåt.",
+        hymenium: "Det finns varken skivor eller porer. Den sporbärande vävnaden är gleban, ett mörkt olivgrönt till olivbrunt, klibbigt och illaluktande slem som täcker armarnas insidor utom nära basen. Dess lukt av ruttnande kött lockar flugor och andra insekter, som äter av det och sprider sporerna.",
+        stipe: "Det finns ingen egentlig fot, eller bara en mycket kort. Gallret reser sig direkt ur en bägarformad slida, resterna av äggskalet, som blir kvar kring basen och är förankrad i marken med vita trådar (rhizomorfer).",
+        flesh: "Armarna är svampiga, mjuka och spröda. I genomskärning visar varje arm ett vitt inre rör och mot utsidan två otydliga rader av mindre rör.",
+        sporePrint: "Olivbrunt. Sporerna är släta och avlånga, cirka 4–6 × 1,5–2 μm, med ett litet hilärt ärr där de suttit fast. Basidierna är sexsporiga.",
+        habitat: "Fruktkropparna växer enstaka eller i grupper på förmultnande ved och vedrester, i löv- och barrförna, på trädgårdsjord, gräsmattor och gräsbevuxna platser och i flismulch, i trädgårdar, parker, vingårdar och löv- eller blandskog. I Mellaneuropa uppträder de mest på sommaren, i varma trakter från vår till höst och i Nordamerika från oktober till mars.",
+        uses: "Används inte som mat. Ätligheten är inte dokumenterad, den mogna fruktkroppen luktar ruttet kött och många svampböcker anger den som oätlig eller giftig. Rapporter om förgiftning beskriver magsmärtor och kramper.",
+        confusion: "Clathrus crispus, en tropisk art, har en vågig kant kring varje maska i gallret, som den här arten saknar. Clathrus columnatus har i stället för galler två till fem långa lodräta orange eller röda svampiga pelare som växt ihop i toppen. Clathrus archeri delar sig strax efter att den kommit fram i separata armar och bildar därför aldrig ett slutet galler.",
+        notes: "Fruktbäraren faller ihop cirka 24 timmar efter att den kommit ut ur ägget. Den orangea till röda färgen kommer huvudsakligen från karotenoiderna lykopen och betakaroten, samma pigment som färgar tomater och morötter. Äggets geléartade lager är rikt på kalcium och kalium, som hjälper det att hålla kvar vatten medan fruktbäraren växer snabbt."
+      },
+      tr: {
+        description: "Çürüyen odunsu bitki maddesiyle beslenen, kötü kokulu, saprofit bir mantar; tek tek ya da gruplar hâlinde büyür. Güney Avrupa, Makaronezya, batı Türkiye, Kuzey Afrika ve batı Asya'ya özgüdür; Orta Avrupa'da nadirdir. Çoğunlukla ithal malçla birlikte İngiliz Adaları, Amerika kıtaları ve Avustralasya dahil başka bölgelere yayılmıştır ve bugün Antarktika dışındaki tüm kıtalarda bulunur.",
+        cap: "Genç meyve gövdesi beyaz ile grimsi renkte, yumurta biçimli ile hemen hemen yuvarlak, yaklaşık 6 cm genişliğe kadar bir yumurtadır; açılmadan önce üzerinde çokgen izlerden oluşan bir ağ beliren ince, deri gibi bir zarı vardır. Zarın altında 3 mm kalınlığa kadar jelimsi bir katman bulunur. Reseptakül yumurtayı bazen yalnızca birkaç saat içinde yarar ve 5–20 cm yüksekliğinde, 4–10 cm genişliğinde, 7–20 köşeli pencereyi çevreleyen iç içe geçmiş kollardan oluşan içi boş bir küre ya da oval bir kafes biçiminde açılır. Kollar kırmızıdan soluk turuncuya kadar değişir, bazen pembedir ve tabana doğru çoğunlukla daha açık renklidir. Dış yüzeyleri kaburgalı ya da kırışıktır; üstte 1,5 cm kalınlığa kadar çıkar ve aşağıya doğru incelir.",
+        hymenium: "Lamel ya da gözenek yoktur. Spor taşıyan doku, kolların iç yüzeylerini taban yakını dışında kaplayan koyu zeytin yeşilinden zeytin kahverengisine kadar değişen, yapışkan ve kötü kokulu bir balçık olan glebadır. Çürüyen et kokusu sinekleri ve başka böcekleri çeker; bunlar glebayı yer ve sporları taşır.",
+        stipe: "Gerçek bir sapı yoktur ya da çok kısadır. Kafes, yumurta zarının kalıntısı olan kadeh biçimli bir volvadan doğrudan yükselir; volva tabanın çevresinde kalır ve beyaz iplikçiklerle (rizomorflarla) toprağa tutunur.",
+        flesh: "Kollar süngerimsi, yumuşak ve kırılgandır. Kesitte her kolda bir geniş iç tüp ve dışa doğru iki belirsiz küçük tüp sırası görülür.",
+        sporePrint: "Zeytin kahverengi. Sporlar pürüzsüz ve uzundur, yaklaşık 4–6 × 1,5–2 μm boyutundadır ve tutunma noktasında küçük bir hilar iz vardır. Bazidler altı sporludur.",
+        habitat: "Meyve gövdeleri tek tek ya da gruplar hâlinde çürüyen odun ve odunsu artıklar üzerinde, yaprak ve iğne yaprak döküntüsünde, bahçe toprağında, çimenliklerde ve otlu yerlerde ve odun yongası malçında; bahçelerde, parklarda, bağlarda ve geniş yapraklı ya da karışık ormanlarda büyür. Orta Avrupa'da çoğunlukla yazın, sıcak bölgelerde ilkbahardan sonbahara, Kuzey Amerika'da ekimden mart ayına kadar görülür.",
+        uses: "Gıda olarak kullanılmaz. Yenebilirliği belgelenmemiştir, olgun meyve gövdesi çürüyen et gibi kokar ve birçok rehber onu yenmez ya da zehirli olarak listeler. Zehirlenme bildirimleri karın ağrısı ve kasılmaları anlatır.",
+        confusion: "Tropikal bir tür olan Clathrus crispus, kafesin her gözü çevresinde bu türde bulunmayan dalgalı bir kenar taşır. Clathrus columnatus kafes yerine tepede birleşen iki ila beş uzun, dikey, turuncu ya da kırmızı süngerimsi sütuna sahiptir. Clathrus archeri çıktıktan kısa süre sonra ayrı kollara ayrılır, bu yüzden hiçbir zaman kapalı bir kafes oluşturmaz.",
+        notes: "Reseptakül yumurtadan çıktıktan yaklaşık 24 saat sonra çöker. Turuncudan kırmızıya uzanan rengi çoğunlukla domatesleri ve havuçları da renklendiren pigmentler olan likopen ve beta-karoten karotenoidlerinden gelir. Yumurtanın jelimsi katmanı kalsiyum ve potasyumca zengindir; bu, reseptakül hızla büyürken suyu tutmasına yardım eder."
+      },
+      uk: {
+        description: "Сапротрофний гриб із неприємним запахом, що живиться розкладеним деревним рослинним матеріалом і росте поодинці або групами. Походить із південної Європи, Макаронезії, західної Туреччини, Північної Африки та західної Азії; у Центральній Європі трапляється рідко. Поширився, часто з імпортованим мульчем, в інші регіони, зокрема на Британські острови, в Америку та Австралазію, і нині трапляється на всіх континентах, крім Антарктиди.",
+        cap: "Молоде плодове тіло — біле або сірувате яйце, яйцеподібне або майже кругле, завширшки до 6 см, із ніжною шкірястою оболонкою, на якій перед розкриттям проступає сітка багатокутних ліній. Під оболонкою лежить драглистий шар завтовшки до 3 мм. Рецептакул розриває яйце, подекуди лише за кілька годин, і розгортається в порожню кулю або овальну клітку заввишки 5–20 см і завширшки 4–10 см із переплетених перекладин, що обмежують 7–20 кутастих вікон. Перекладини червоні або блідо-оранжеві, інколи рожеві, до основи часто світліші. Їхня зовнішня поверхня ребриста або зморшкувата, вгорі вони завтовшки до 1,5 см і звужуються донизу.",
+        hymenium: "Пластинок і пор немає. Спороносна тканина — глеба, темний оливково-зелений або оливково-бурий липкий смердючий слиз, що вкриває внутрішні боки перекладин, окрім ділянки біля основи. Її запах гниючого м'яса приваблює мух та інших комах, які поїдають її й розносять спори.",
+        stipe: "Справжньої ніжки немає або вона дуже коротка. Решітка здіймається просто з чашоподібної вольви, залишку оболонки яйця, яка лишається навколо основи й кріпиться до ґрунту білими шнурами (різоморфами).",
+        flesh: "Перекладини губчасті, м'які й крихкі. На розрізі кожна перекладина має одну широку внутрішню трубку, а ближче до зовнішнього боку — два нечіткі ряди дрібніших трубок.",
+        sporePrint: "Оливково-бурий. Спори гладенькі й видовжені, приблизно 4–6 × 1,5–2 мкм, із невеликим рубчиком у місці прикріплення. Базидії шестиспорові.",
+        habitat: "Плодові тіла ростуть поодинці або групами на розкладеній деревині й деревних рештках, у листяній та хвойній підстилці, на садовому ґрунті, газонах і трав'янистих місцях, а також у мульчі з тріски, у садах, парках, виноградниках, листяних і мішаних лісах. У Центральній Європі з'являються переважно влітку, в теплих регіонах із весни до осені, а в Північній Америці з жовтня по березень.",
+        uses: "У їжу не вживається. Їстівність не задокументована, зріле плодове тіло пахне гниючим м'ясом, і багато довідників вважають його неїстівним або отруйним. У повідомленнях про отруєння описано біль у животі та судоми.",
+        confusion: "Clathrus crispus, тропічний вид, має гофрований край навколо кожного вічка решітки, чого в цього виду немає. У Clathrus columnatus замість решітки від двох до п'яти довгих вертикальних оранжевих або червоних губчастих стовпчиків, зрослих на верхівці. Clathrus archeri невдовзі після виходу розпадається на окремі промені, тому ніколи не утворює замкненої решітки.",
+        notes: "Рецептакул опадає приблизно за 24 години після виходу з яйця. Його оранжевий або червоний колір зумовлений головно каротиноїдами лікопіном і бета-каротином, тими самими пігментами, що забарвлюють помідори й моркву. Драглистий шар яйця багатий на кальцій і калій, які допомагають йому утримувати воду, поки рецептакул швидко росте."
       }
     },
     sources: {
@@ -67734,10 +68137,1114 @@ export const CATALOG = [
           "href": "https://www.nahuby.sk/atlas-hub/Clathrus-ruber/mrezovka-cervena/-/ID283",
           "detail": "mrežovka červená"
         }
+      ],
+      ar: [
+        {
+          "group": "text",
+          "name": "ويكيبيديا",
+          "href": "https://ar.wikipedia.org/wiki/%D9%83%D9%84%D8%A7%D8%AB%D8%B1%D9%88%D8%B3_%D8%A3%D8%AD%D9%85%D8%B1"
+        }
+      ],
+      bg: [
+        {
+          "group": "text",
+          "name": "Уикипедия",
+          "href": "https://bg.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%B2%D0%B5%D0%BD%D0%B0_%D1%80%D0%B5%D1%88%D0%B5%D1%82%D0%BA%D0%B0"
+        }
+      ],
+      zh: [
+        {
+          "group": "text",
+          "name": "維基百科",
+          "href": "https://zh.wikipedia.org/wiki/%E7%BA%A2%E7%AC%BC%E5%A4%B4%E8%8F%8C"
+        },
+        {
+          "group": "name",
+          "name": "臺灣物種名錄",
+          "href": "https://taicol.tw/taxon/t0034918"
+        }
+      ],
+      hr: [
+        {
+          "group": "text",
+          "name": "Wikipedija na hrvatskome jeziku",
+          "href": "https://hr.wikipedia.org/wiki/Vje%C5%A1ti%C4%8Dino_srce"
+        }
+      ],
+      cs: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://cs.wikipedia.org/wiki/M%C5%99%C3%AD%C5%BEovka_%C4%8Derven%C3%A1"
+        },
+        {
+          "group": "text",
+          "name": "Česká mykologická společnost",
+          "href": "https://www.myko.cz/myko-atlas/Clathrus-ruber/"
+        },
+        {
+          "group": "text",
+          "name": "BOTANY.cz",
+          "href": "https://botany.cz/cs/clathrus-ruber/"
+        }
+      ],
+      da: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239476"
+        }
+      ],
+      nl: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://nl.wikipedia.org/wiki/Traliestinkzwam"
+        },
+        {
+          "group": "name",
+          "name": "Nederlands Soortenregister",
+          "href": "https://www.nederlandsesoorten.nl/linnaeus_ng/app/views/species/nsr_taxon.php?id=122713"
+        }
+      ],
+      et: [
+        {
+          "group": "text",
+          "name": "Vikipeedia",
+          "href": "https://et.wikipedia.org/wiki/Puna-v%C3%B5rkseen"
+        }
+      ],
+      fr: [
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://fr.wikipedia.org/wiki/Clathrus_ruber"
+        },
+        {
+          "group": "name",
+          "name": "TAXREF",
+          "href": "https://taxref.mnhn.fr/taxref-web/taxa/40260"
+        }
+      ],
+      de: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://de.wikipedia.org/wiki/Roter_Gitterling"
+        },
+        {
+          "group": "text",
+          "name": "Deutsche Gesellschaft für Mykologie",
+          "href": "https://www.dgfm-ev.de/de/ueber-uns/news/pilz-des-jahres-2011-roter-gitterling"
+        }
+      ],
+      hi: [
+        {
+          "group": "text",
+          "name": "विकिपीडिया",
+          "href": "https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A5%8D%E0%A4%B2%E0%A4%BE%E0%A4%A5%E0%A4%B0%E0%A4%B8_%E0%A4%B0%E0%A4%AC%E0%A4%B0"
+        }
+      ],
+      hu: [
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://hu.wikipedia.org/wiki/Piros_kos%C3%A1rgomba"
+        },
+        {
+          "group": "name",
+          "name": "Magyar Mikológiai Társaság",
+          "href": "https://gombaszaki.hu/gombak/fajlista/"
+        }
+      ],
+      id: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://id.wikipedia.org/wiki/Clathrus_ruber"
+        }
+      ],
+      it: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://it.wikipedia.org/wiki/Clathrus_ruber"
+        }
+      ],
+      ja: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239476"
+        }
+      ],
+      ko: [
+        {
+          "group": "name",
+          "name": "국가생물종목록",
+          "href": "https://naris.science.go.kr/resc/selectClassBySrch.do?pageIndex=319"
+        }
+      ],
+      no: [
+        {
+          "group": "text",
+          "name": "Artsdatabanken",
+          "href": "https://artsdatabanken.no/arter/takson/39588"
+        }
+      ],
+      fa: [
+        {
+          "group": "text",
+          "name": "ویکی‌پدیا",
+          "href": "https://fa.wikipedia.org/wiki/%D9%82%D8%A7%D8%B1%DA%86_%D9%82%D9%81%D8%B3_%D8%B3%D8%B1%D8%AE"
+        }
+      ],
+      pl: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://pl.wikipedia.org/wiki/Okratek_czerwony"
+        },
+        {
+          "group": "text",
+          "name": "grzyby.pl",
+          "href": "https://grzyby.pl/gatunki/Clathrus_ruber.htm"
+        }
+      ],
+      pt: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://pt.wikipedia.org/wiki/Clathrus_ruber"
+        },
+        {
+          "group": "text",
+          "name": "Museu Virtual Biodiversidade",
+          "href": "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/clathrus-ruber/"
+        }
+      ],
+      ru: [
+        {
+          "group": "text",
+          "name": "Википедия",
+          "href": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D1%88%D1%91%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA_%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9"
+        },
+        {
+          "group": "name",
+          "name": "Красная книга Российской Федерации",
+          "href": "https://rpn.gov.ru/upload/iblock/64a/7sdj3u08spvp5e2g4zo9sm0dq8qc1j26/Prikaz_320.pdf"
+        }
+      ],
+      sl: [
+        {
+          "group": "text",
+          "name": "Wikipedija",
+          "href": "https://sl.wikipedia.org/wiki/Navadna_mre%C5%BEnica"
+        },
+        {
+          "group": "name",
+          "name": "Operativni seznam gliv Slovenije (MZS, 2013)",
+          "href": "https://www.zdravgozd.si/dat/gradivo/22.pdf"
+        }
+      ],
+      es: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://es.wikipedia.org/wiki/Clathrus_ruber"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239476"
+        }
+      ],
+      sv: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://sv.wikipedia.org/wiki/Clathrus_ruber"
+        }
+      ],
+      tr: [
+        {
+          "group": "text",
+          "name": "Vikipedi",
+          "href": "https://tr.wikipedia.org/wiki/Clathrus_ruber"
+        }
+      ],
+      uk: [
+        {
+          "group": "text",
+          "name": "Вікіпедія",
+          "href": "https://uk.wikipedia.org/wiki/%D0%A0%D0%B5%D1%88%D1%96%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA_%D1%87%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B8%D0%B9"
+        },
+        {
+          "group": "name",
+          "name": "Червона книга України",
+          "href": "https://redbook-ua.org/item/clathrus-ruber-pers/"
+        }
       ]
     },
     synonyms: [
       "Clathrus flavescens Pers."
+    ]
+  },
+  {
+    id: 86,
+    name: "Amanita regalis",
+    author: "(Fr.) Michael",
+    family: "Amanitaceae",
+    genus: "Amanita",
+    order: "Agaricales",
+    edibility: "poisonous",
+    hymenium: "gills",
+    where: ["ground"],
+    color: ["brown", "yellow"],
+    path: [
+          "Fungi",
+          "Dikarya",
+          "Basidiomycota",
+          "Agaricomycotina",
+          "Agaricomycetes",
+          "Agaricomycetidae",
+          "Agaricales",
+          "Amanitaceae",
+          "Amanita"
+        ],
+    summary: ["Agaricales", "Amanitaceae", "Amanita"],
+    added: "2026-10-31",
+    plate: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_regalis/Amanita_regalis@1600.webp",
+    plateGrid: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_regalis/Amanita_regalis@400.webp",
+    plateCredit: {
+      author: "Edmund Michael",
+      license: "public domain",
+      source: "https://commons.wikimedia.org/wiki/File:Michael_-_Amanita_regalis.png"
+    },
+    photos: [
+      {
+        src: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_regalis/ar1.webp",
+        author: "Deutsche Gesellschaft für Mykologie",
+        license: "CC BY 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:A_regalis.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_regalis/ar2.webp",
+        author: "Mikael",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Amanita_regalis_52330.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_regalis/ar3.webp",
+        author: "Stephan van Helden",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Brauner_Fliegenpilz_(Amanita_regalis)_im_Fichtelseemoor_%C3%B6stlich_des_Sees_3.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_regalis/ar4.webp",
+        author: "Svencapoeira",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Kuning-k%C3%A4rbseseen.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_regalis/ar5.webp",
+        author: "Arthur Chapman",
+        license: "CC BY 2.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/2.0",
+        source: "https://commons.wikimedia.org/wiki/File:Amanita_regalis_young.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Amanitaceae/Amanita_regalis/ar6.webp",
+        author: "Andreas Gminder",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Amanita_regalis_(Fr.)_Michael_46468.jpg"
+      }
+    ],
+    capFrom: 10,
+    capTo: 25,
+    stipeHeightFrom: 10,
+    stipeHeightTo: 20,
+    stipeThickFrom: 1.5,
+    stipeThickTo: 2.5,
+    fruitingFrom: 7,
+    fruitingTo: 10,
+    label: {
+      en: "royal fly agaric",
+      sk: "muchotrávka kráľovská",
+      cs: "muchomůrka královská",
+      da: "brun fluesvamp",
+      et: "kuning-kärbseseen",
+      fi: "ruskokärpässieni",
+      fr: "amanite royale",
+      de: "Brauner Fliegenpilz",
+      hu: "barna galóca",
+      ja: "オウテングタケ",
+      lv: "brūnā mušmire",
+      lt: "kilnioji musmirė",
+      no: "brun fluesopp",
+      pl: "muchomor królewski",
+      ru: "мухомор королевский",
+      sl: "rjava mušnica",
+      sv: "brun flugsvamp",
+      uk: "мухомор королівський"
+    },
+    names: {
+      en: ["brown fly agaric", "king of Sweden amanita", "king fly agaric"],
+      de: ["Königs-Fliegenpilz"],
+      hu: ["királygalóca"]
+    },
+    text: {
+      en: {
+        description: "A poisonous ectomycorrhizal mushroom of conifer woods, most often with spruce. It is most frequent in northern Europe, especially Scandinavia, and also occurs in parts of central and eastern Europe, Korea, and Alaska. It has not been reported from southern or western Europe.",
+        cap: "The cap is 10–25 cm across, egg-shaped to rounded and wrapped in a yellowish veil when young, then convex and finally flat, with a grooved margin on older caps. It is yellow-brown to liver-brown, darker in the centre, sticky when wet and shiny when dry. It is covered with yellowish to ochre scabby warts, remains of the universal veil, often in rough concentric rings. The cuticle peels almost to the centre.",
+        hymenium: "The gills are crowded, free from the stipe, and white with a creamy-yellow tinge, sometimes with a yellowish edge. The basidia are club-shaped and have clamp connections at their bases.",
+        stipe: "The stipe is 10–20 cm long, occasionally up to 25 cm, and 1.5–2.5 cm thick, white to faintly yellowish, solid when young and hollow with age. The base swells into a bulb ringed with yellowish scaly warts, the remains of the volva. The ring is hanging, membranous, white to yellowish, and not grooved, with a ragged edge that is often yellowish-brown.",
+        flesh: "The flesh is white, faintly yellowish in the stipe, and golden-yellow to yellow-brown just under the cap cuticle. It does not change colour when cut, and the odour and taste are weak.",
+        sporePrint: "White. The spores are smooth, broadly ellipsoid, and about 9–12 × 7–8 μm. They are non-amyloid and do not turn blue in iodine.",
+        habitat: "Fruit bodies appear from July to October on the ground in coniferous and mixed woods, mostly in hills and mountains and on acid soils. It forms mycorrhiza with spruce and also with pine and birch, and fruit bodies sometimes grow in rings.",
+        uses: "Poisonous. It contains ibotenic acid and muscimol, as Amanita muscaria does, and poisoning is reported to be more serious than from A. muscaria and comparable to that from A. pantherina. Symptoms begin within about half an hour to three hours and include nausea, vomiting, dizziness, confusion, hallucinations, profuse salivation, and sweating. Cooking does not remove the toxins.",
+        confusion: "Amanita muscaria has a bright red cap. Amanita pantherina has white flesh under the cap cuticle and a cup-shaped bulb with a distinct rim. Amanita rubescens has white flesh under the cuticle that turns reddish when cut. Amanita excelsa has a grey-brown cap without yellow patches, white gills, and a white, grooved ring. Macrolepiota procera, with which it has often been confused, has dark scales fixed on a paler cap, a ring that moves freely on the stipe, and no volval remnants on the base.",
+        notes: "It is rare across much of its range and is on the threatened-species lists of several countries, including Germany, Poland, and Lithuania. Its rank is debated: it has been treated as a variety of Amanita muscaria, and molecular studies have given differing results. It accumulates vanadium, with Scandinavian specimens holding about 38–169 mg per kg of dry weight, many times the usual level in other fungi."
+      },
+      sk: {
+        description: "Jedovatá ektomykorízna huba ihličnatých lesov, najčastejšie so smrekom. Najčastejšia je v severnej Európe, najmä v Škandinávii, a vyskytuje sa aj v niektorých častiach strednej a východnej Európy, v Kórei a na Aljaške. Z južnej ani západnej Európy nebola hlásená.",
+        cap: "Klobúk má 100–250 mm v priemere, za mladi je vajcovitý až guľovitý a zahalený žltkastou plachtičkou, potom klenutý a napokon plochý, na okraji starších plodníc ryhovaný. Je žltohnedý až pečeňovohnedý, v strede tmavší, za vlhka lepkavý a za sucha lesklý. Pokrývajú ho žltkasté až okrové chrastovité bradavky, zvyšky všeobecného závoja, často v nepravidelných sústredných kruhoch. Pokožka sa dá stiahnuť takmer až do stredu.",
+        hymenium: "Lupene sú husté, voľné, biele s krémovožltkastým odtieňom, niekedy so žltkastou ostrinou. Bazídie sú kyjovité a na báze majú prackové spojenia.",
+        stipe: "Hlúbik je 100–200 mm dlhý, občas až 250 mm, a 15–25 mm hrubý, biely až slabo žltkastý, za mladi plný a v dospelosti dutý. Báza je zdurená do hľuzy so žltkastými šupinatými bradavkami, zvyškami pošvy. Prsteň je ovisnutý, blanitý, biely až žltkastý, nerýhovaný, s roztrhaným okrajom, často žltohnedým.",
+        flesh: "Dužina je biela, v hlúbiku slabo žltkastá a tesne pod pokožkou klobúka zlatožltá až žltohnedá. Na reze nemení farbu, vôňa aj chuť sú nevýrazné.",
+        sporePrint: "Výtrusný prach je biely. Výtrusy sú hladké, široko elipsoidné, veľké približne 9–12 × 7–8 μm, neamyloidné, v jóde nemodrajú.",
+        habitat: "Plodnice rastú od júla do októbra na zemi v ihličnatých a zmiešaných lesoch, najmä vo vyšších polohách a na kyslých pôdach. Tvorí mykorízu so smrekom, ale aj s borovicou a brezou. Plodnice niekedy rastú v kruhoch.",
+        uses: "Je to jedovatá huba. Obsahuje kyselinu iboténovú a muscimol ako Amanita muscaria a otrava je podľa dostupných údajov ťažšia ako po Amanita muscaria a porovnateľná s otravou druhom Amanita pantherina. Príznaky sa objavujú zhruba za pol hodiny až tri hodiny a patria k nim nevoľnosť, zvracanie, závraty, zmätenosť, halucinácie, silné slinenie a potenie. Tepelná úprava toxíny neodstráni.",
+        confusion: "Muchotrávka červená (Amanita muscaria) má jasnočervený klobúk. Muchotrávka tigrovaná (Amanita pantherina) má pod pokožkou klobúka bielu dužinu a na báze hlúbika pohárovitú hľuzu s výrazným okrajom. Muchotrávka červenkastá (Amanita rubescens) má pod pokožkou bielu dužinu, ktorá po poranení červenie. Amanita excelsa má sivohnedý klobúk bez žltých chrást, biele lupene a biely ryhovaný prsteň. Bedľa vysoká (Macrolepiota procera), s ktorou sa často zamieňala, má na svetlejšom klobúku tmavé prirastené šupiny, voľne posuvný prsteň a na báze hlúbika nemá zvyšky pošvy.",
+        notes: "Na Slovensku je pomerne zriedkavá a rastie v horských lesoch. Vo viacerých krajinách, vrátane Nemecka, Poľska a Litvy, patrí medzi ohrozené druhy z národných zoznamov. Jej postavenie je sporné: považovala sa za varietu druhu Amanita muscaria a molekulárne štúdie dávajú rozdielne výsledky. Hromadí vanád, škandinávske plodnice ho obsahovali približne 38–169 mg na kg sušiny, mnohonásobne viac než zvyčajne iné huby."
+      },
+      ar: {
+        description: "فطر سام يكوّن جذورًا فطرية (ميكوريزا) خارجية في الغابات الصنوبرية، وغالبًا مع التنوب. وهو الأكثر شيوعًا في شمال أوروبا، ولا سيما في إسكندنافيا، ويوجد أيضًا في أجزاء من وسط أوروبا وشرقها وفي كوريا وألاسكا. ولم يُسجَّل في جنوب أوروبا ولا غربها.",
+        cap: "قطر القبعة ١٠–٢٥ سم، وهي بيضاوية إلى مستديرة ومغلّفة بغلاف مصفرّ في الصغر، ثم محدبة وأخيرًا مسطحة، وحافتها مخددة في القبعات الأقدم. لونها بني مصفرّ إلى بني كبدي، أغمق في الوسط، لزجة عند الرطوبة ولامعة عند الجفاف. يغطيها نتوءات جربية مصفرّة إلى مغرية اللون هي بقايا الغلاف العام، وكثيرًا ما تتوزع في حلقات متحدة المركز غير منتظمة. وتنفصل بشرة القبعة تقريبًا حتى المركز.",
+        hymenium: "الصفائح كثيفة وحرة، بيضاء بدرجة كريمية مصفرّة، وأحيانًا بحافة مصفرّة. الأكياس البوغية (البازيديات) صولجانية الشكل وعند قاعدتها وصلات مشبكية.",
+        stipe: "طول الساق ١٠–٢٠ سم، وأحيانًا حتى ٢٥ سم، وسماكتها ١٫٥–٢٫٥ سم، وهي بيضاء إلى مصفرّة قليلًا، مصمتة في الصغر ومجوفة مع التقدم في العمر. تنتفخ القاعدة في بصلة تحيط بها نتوءات حرشفية مصفرّة هي بقايا الكيس (الفولفا). الحلقة متدلية غشائية، بيضاء إلى مصفرّة، غير مخددة، وحافتها ممزقة وغالبًا بنية مصفرّة.",
+        flesh: "اللحم أبيض، مصفرّ قليلًا في الساق، وأصفر ذهبي إلى بني مصفرّ تحت بشرة القبعة مباشرة. لا يتغير لونه عند القطع، والرائحة والطعم ضعيفان.",
+        sporePrint: "أبيض. الأبواغ ملساء، إهليلجية عريضة، حجمها نحو ٩–١٢ × ٧–٨ ميكرومتر، غير أميلويدية ولا تتحول إلى الأزرق مع اليود.",
+        habitat: "تظهر الثمار من يوليو إلى أكتوبر على الأرض في الغابات الصنوبرية والمختلطة، غالبًا في التلال والجبال وعلى التربة الحمضية. ويكوّن جذورًا فطرية مع التنوب، وكذلك مع الصنوبر والبتولا، وقد تنمو الثمار في حلقات.",
+        uses: "سام. يحتوي على حمض الإيبوتينيك والموسيمول مثل Amanita muscaria، ويُذكر أن التسمم به أشد من التسمم بـ A. muscaria ويماثل التسمم بـ A. pantherina. تبدأ الأعراض خلال نحو نصف ساعة إلى ثلاث ساعات، وتشمل الغثيان والقيء والدوار والتخليط الذهني والهلوسة وغزارة اللعاب والتعرق. والطهي لا يزيل السموم.",
+        confusion: "تملك Amanita muscaria قبعة حمراء زاهية. وتتميز Amanita pantherina بلحم أبيض تحت بشرة القبعة وبصلة كأسية الشكل ذات حافة واضحة عند قاعدة الساق. أما Amanita rubescens فلحمها أبيض تحت البشرة ويحمرّ عند القطع. وقبعة Amanita excelsa رمادية بنية بلا بقع صفراء، وصفائحها بيضاء وحلقتها بيضاء مخددة. أما Macrolepiota procera، التي كثيرًا ما اختلط بها، ففوق قبعتها الأفتح حراشف داكنة ملتصقة، وحلقتها تتحرك بحرية على الساق، وليس عند قاعدتها بقايا كيس.",
+        notes: "نادر في معظم نطاق انتشاره، وهو مدرج في قوائم الأنواع المهددة في عدة بلدان، منها ألمانيا وبولندا وليتوانيا. وتصنيفه محل خلاف: فقد عُومل على أنه صنف (variety) من Amanita muscaria، وأعطت الدراسات الجزيئية نتائج متباينة. وهو يراكم الفاناديوم، إذ احتوت عينات إسكندنافية على نحو ٣٨–١٦٩ ملغ لكل كغ من الوزن الجاف، أي أضعاف المستوى المعتاد في الفطريات الأخرى."
+      },
+      bg: {
+        description: "Отровна ектомикоризна гъба в иглолистни гори, най-често със смърч. Най-често се среща в Северна Европа, особено в Скандинавия, а също и в части от Централна и Източна Европа, в Корея и на Аляска. От Южна и Западна Европа не е съобщавана.",
+        cap: "Шапката е с диаметър 10–25 см, в млада възраст яйцевидна до закръглена и обвита в жълтеникав воал, после изпъкнала и накрая плоска, при по-старите с набраздена периферия. Тя е жълтокафява до чернодробнокафява, в центъра по-тъмна, при влага лепкава, а на сухо лъскава. Покрита е с жълтеникави до охрени краставични брадавици, остатъци от общия воал, често в неправилни концентрични кръгове. Кожицата се обелва почти до центъра.",
+        hymenium: "Пластинките са гъсти, свободни, бели с кремаво-жълтеникав оттенък, понякога с жълтеникаво острие. Базидиите са бухалковидни и при основата имат токи.",
+        stipe: "Дръжката е дълга 10–20 см, понякога до 25 см, и дебела 1,5–2,5 см, бяла до слабо жълтеникава, в млада възраст плътна, а с възрастта кух. Основата е задебелена в грудка с жълтеникави люспести брадавици, остатъци от обвивката. Пръстенът е увиснал, ципест, бял до жълтеникав, ненабразден, със разкъсан, често жълтокафяв край.",
+        flesh: "Месото е бяло, в дръжката слабо жълтеникаво, а точно под кожицата на шапката златистожълто до жълтокафяво. При срязване не променя цвета си, миризмата и вкусът са слаби.",
+        sporePrint: "Бял. Спорите са гладки, широко елипсовидни, с размери около 9–12 × 7–8 μm, неамилоидни и в йод не посиняват.",
+        habitat: "Плодните тела се появяват от юли до октомври на земята в иглолистни и смесени гори, предимно в хълмисти и планински места и на кисели почви. Образува микориза със смърч, а също с бор и бреза, като плодните тела понякога растат в кръгове.",
+        uses: "Отровна. Съдържа иботенова киселина и мусцимол, както Amanita muscaria, а отравянето, според съобщенията, е по-тежко, отколкото от A. muscaria, и съпоставимо с отравяне от A. pantherina. Симптомите започват след около половин час до три часа и включват гадене, повръщане, световъртеж, обърканост, халюцинации, обилно слюноотделяне и потене. Термичната обработка не премахва токсините.",
+        confusion: "Червената мухоморка (Amanita muscaria) има ярко червена шапка. Пантерката (Amanita pantherina) има под кожицата на шапката бяло месо, а в основата на дръжката чашковидна грудка с ясно изразен ръб. Бисерната гъба (Amanita rubescens) има под кожицата бяло месо, което при срязване порозовява. Amanita excelsa има сивокафява шапка без жълти петна, бели пластинки и бял набразден пръстен. Сърнелата (Macrolepiota procera), с която често е била бъркана, има върху по-светла шапка тъмни прирастнали люспи, свободно подвижен пръстен и няма остатъци от обвивка в основата на дръжката.",
+        notes: "В голяма част от ареала си е рядка и е включена в списъци на застрашени видове в няколко страни, сред които Германия, Полша и Литва. Рангът ѝ е спорен: разглеждана е като разновидност на Amanita muscaria, а молекулярните проучвания дават различни резултати. Натрупва ванадий, като скандинавските екземпляри съдържат около 38–169 мг на кг сухо тегло, многократно повече от обичайното при други гъби."
+      },
+      zh: {
+        description: "一種有毒的外生菌根真菌，生於針葉林中，最常與雲杉共生。它在北歐最為常見，尤其是斯堪的納維亞，也分布於中歐和東歐部分地區、韓國及阿拉斯加。南歐和西歐尚無記錄。",
+        cap: "菌蓋直徑10–25公分，幼時卵形至圓形，被淡黃色菌幕包裹，之後呈凸形，最後變平，老熟菌蓋邊緣有條紋。顏色為黃褐色至肝褐色，中央較深，潮濕時黏滑，乾燥時有光澤。表面覆有淡黃色至赭色的結痂狀疣，是外菌幕的殘留，常排成不規則的同心圓。菌蓋表皮可剝離至接近中央。",
+        hymenium: "菌褶密集，離生，白色帶奶油黃色調，有時邊緣呈淡黃色。擔子呈棒狀，基部有鎖狀聯合。",
+        stipe: "菌柄長10–20公分，有時可達25公分，粗1.5–2.5公分，白色至微帶淡黃色，幼時實心，成熟後中空。基部膨大成球莖，帶有淡黃色鱗片狀疣，是菌托的殘留。菌環下垂，膜質，白色至淡黃色，無條紋，邊緣破裂，常呈黃褐色。",
+        flesh: "菌肉白色，在菌柄中微帶淡黃色，在菌蓋表皮正下方為金黃色至黃褐色。切開後不變色，氣味和味道都很淡。",
+        sporePrint: "白色。孢子光滑，寬橢圓形，大小約9–12 × 7–8 μm，非澱粉質，遇碘不變藍。",
+        habitat: "子實體於7月至10月生於針葉林和混交林的地上，多見於丘陵和山地的酸性土壤。它與雲杉形成菌根，也與松樹和樺樹形成菌根，子實體有時成環狀生長。",
+        uses: "有毒。與Amanita muscaria一樣含有鵝膏蕈氨酸和蠅蕈醇，據報告中毒比A. muscaria更嚴重，與A. pantherina相當。症狀在大約半小時至三小時內開始，包括噁心、嘔吐、頭暈、意識混亂、幻覺、大量流口水和出汗。烹煮不能去除毒素。",
+        confusion: "Amanita muscaria的菌蓋鮮紅色。Amanita pantherina的菌蓋表皮下菌肉白色，菌柄基部有邊緣明顯的杯狀球莖。Amanita rubescens的表皮下菌肉白色，切開後變紅。Amanita excelsa的菌蓋灰褐色，沒有黃色斑塊，菌褶白色，菌環白色且有條紋。常與之混淆的Macrolepiota procera，在較淺色的菌蓋上有深色貼生鱗片，菌環可在菌柄上自由移動，基部沒有菌托殘留。",
+        notes: "它在分布區的大部分地方稀少，並列入包括德國、波蘭和立陶宛在內的數個國家的瀕危物種名單。其分類等級有爭議：它曾被視為Amanita muscaria的變種，分子研究的結果也不一致。它會累積釩，斯堪的納維亞標本每公斤乾重含約38–169毫克，是其他真菌常見含量的許多倍。"
+      },
+      hr: {
+        description: "Otrovna ektomikorizna gljiva crnogoričnih šuma, najčešće uz smreku. Najčešća je u sjevernoj Europi, osobito u Skandinaviji, a javlja se i u dijelovima srednje i istočne Europe, u Koreji i na Aljasci. Iz južne i zapadne Europe nije zabilježena.",
+        cap: "Klobuk je promjera 10–25 cm, u mladosti jajolik do okrugao i zamotan u žućkasti ovoj, zatim izbočen i naposljetku plosnat, kod starijih primjeraka s užljebljenim rubom. Žutosmeđ je do jetreno smeđ, u sredini tamniji, po vlažnom vremenu ljepljiv, a suh sjajan. Prekrivaju ga žućkaste do oker krastave bradavice, ostaci općeg ovoja, često u nepravilnim koncentričnim krugovima. Kožica se skida gotovo do sredine.",
+        hymenium: "Listići su gusti, slobodni, bijeli s krem žućkastim odsjajem, katkad sa žućkastom oštricom. Bazidiji su batinasti i pri dnu imaju kopče.",
+        stipe: "Stručak je dug 10–20 cm, katkad do 25 cm, i debeo 1,5–2,5 cm, bijel do slabo žućkast, u mladosti pun, a u starosti šupalj. Podnožje je zadebljano u gomolj sa žućkastim ljuskavim bradavicama, ostacima ovojnice. Prsten je viseći, opnast, bijel do žućkast, neužljebljen, s razderanim, često žutosmeđim rubom.",
+        flesh: "Meso je bijelo, u stručku slabo žućkasto, a odmah ispod kožice klobuka zlatnožuto do žutosmeđe. Na rezu ne mijenja boju, miris i okus su slabi.",
+        sporePrint: "Bijel. Spore su glatke, široko elipsoidne, veličine oko 9–12 × 7–8 μm, neamiloidne i u jodu ne poplave.",
+        habitat: "Plodišta niču od srpnja do listopada na tlu u crnogoričnim i mješovitim šumama, uglavnom u brdskim i planinskim krajevima i na kiselim tlima. Tvori mikorizu sa smrekom, ali i s borom i brezom, a plodišta katkad rastu u krugovima.",
+        uses: "Otrovna. Sadrži ibotensku kiselinu i muscimol, kao i Amanita muscaria, a otrovanje je, prema navodima, teže nego nakon A. muscaria i usporedivo s otrovanjem vrstom A. pantherina. Simptomi počinju za otprilike pola sata do tri sata, a uključuju mučninu, povraćanje, vrtoglavicu, smetenost, halucinacije, obilno slinjenje i znojenje. Kuhanje ne uklanja toksine.",
+        confusion: "Crvena muhara (Amanita muscaria) ima jarkocrveni klobuk. Panterova muhara (Amanita pantherina) ima ispod kožice klobuka bijelo meso, a na dnu stručka čašasti gomolj s izraženim rubom. Biserna muhara (Amanita rubescens) ima ispod kožice bijelo meso koje na rezu pocrveni. Amanita excelsa ima sivosmeđ klobuk bez žutih mrlja, bijele listiće i bijeli užljebljeni prsten. Velika sunčanica (Macrolepiota procera), s kojom su je često brkali, ima na svjetlijem klobuku tamne priražene ljuske, slobodno pomičan prsten i na dnu stručka nema ostataka ovojnice.",
+        notes: "U velikom dijelu areala je rijetka i nalazi se na popisima ugroženih vrsta u nekoliko zemalja, među njima u Njemačkoj, Poljskoj i Litvi. Njezin je rang sporan: smatrana je varijetetom vrste Amanita muscaria, a molekularna istraživanja daju različite rezultate. Nakuplja vanadij, skandinavski primjerci sadržavali su ga oko 38–169 mg po kg suhe tvari, višestruko više nego što je uobičajeno u drugim gljivama."
+      },
+      cs: {
+        description: "Jedovatá ektomykorhizní houba jehličnatých lesů, nejčastěji se smrkem. Nejhojnější je v severní Evropě, zejména ve Skandinávii, a vyskytuje se také v některých oblastech střední a východní Evropy, v Koreji a na Aljašce. Z jižní ani západní Evropy nebyla hlášena.",
+        cap: "Klobouk má 10–25 cm v průměru, v mládí je vejčitý až kulovitý a zahalený žlutavým obalem, později klenutý a nakonec plochý, na okraji starších plodnic rýhovaný. Je žlutohnědý až játrově hnědý, uprostřed tmavší, za vlhka lepkavý a za sucha lesklý. Pokrývají ho žlutavé až okrové strupovité bradavky, zbytky celkového obalu, často v nepravidelných soustředných kruzích. Pokožka se dá stáhnout téměř až do středu.",
+        hymenium: "Lupeny jsou husté, volné, bílé s krémově žlutavým nádechem, někdy se žlutavým ostřím. Basidie jsou kyjovité a na bázi mají přezky.",
+        stipe: "Třeň je 10–20 cm dlouhý, občas až 25 cm, a 1,5–2,5 cm tlustý, bílý až slabě nažloutlý, v mládí plný a ve stáří dutý. Báze je zduřelá v hlízu se žlutavými šupinkatými bradavkami, zbytky pochvy. Prsten je visící, blanitý, bílý až žlutavý, nerýhovaný, s roztřepeným okrajem, často žlutohnědým.",
+        flesh: "Dužnina je bílá, v třeni slabě nažloutlá a těsně pod pokožkou klobouku zlatožlutá až žlutohnědá. Po rozříznutí nemění barvu, vůně i chuť jsou nevýrazné.",
+        sporePrint: "Bílý. Výtrusy jsou hladké, široce elipsoidní, přibližně 9–12 × 7–8 μm velké, amyloidní reakci nevykazují a v jodu nemodrají.",
+        habitat: "Plodnice rostou od července do října na zemi v jehličnatých a smíšených lesích, převážně ve vyšších polohách a na kyselých půdách. Tvoří mykorhizu se smrkem, ale i s borovicí a břízou. Plodnice někdy rostou v kruzích.",
+        uses: "Je jedovatá. Obsahuje kyselinu ibotenovou a muscimol jako Amanita muscaria a otrava bývá podle dostupných údajů těžší než po Amanita muscaria a srovnatelná s otravou druhem Amanita pantherina. Příznaky se objevují zhruba za půl hodiny až tři hodiny a patří k nim nevolnost, zvracení, závratě, zmatenost, halucinace, silné slinění a pocení. Tepelná úprava toxiny neodstraní.",
+        confusion: "Muchomůrka červená (Amanita muscaria) má zářivě červený klobouk. Muchomůrka tygrovaná (Amanita pantherina) má pod pokožkou klobouku bílou dužninu a na bázi třeně hlízu s ostře ohraničeným lemem. Muchomůrka růžovka (Amanita rubescens) má pod pokožkou bílou dužninu, která po poranění červená. Amanita excelsa má šedohnědý klobouk bez žlutých šupinek, bílé lupeny a bílý rýhovaný prsten. Bedla vysoká (Macrolepiota procera), se kterou byla často zaměňována, má na světlejším klobouku tmavé přirostlé šupiny, volně posuvný prsten a na bázi třeně nemá zbytky pochvy.",
+        notes: "Je vzácná v převážné části areálu a figuruje na seznamech ohrožených druhů několika zemí, včetně Německa, Polska a Litvy. Její postavení je sporné: byla pokládána za varietu druhu Amanita muscaria a molekulární studie přinášejí rozdílné výsledky. Hromadí vanad, skandinávské plodnice ho obsahovaly přibližně 38–169 mg na kg sušiny, mnohonásobně více než jiné houby."
+      },
+      da: {
+        description: "En giftig, ektomykorrhizadannende svamp i nåleskov, oftest sammen med gran. Den er hyppigst i Nordeuropa, især Skandinavien, og forekommer også i dele af Central- og Østeuropa, i Korea og i Alaska. Den er ikke rapporteret fra Syd- eller Vesteuropa.",
+        cap: "Hatten er 10–25 cm bred, som ung ægformet til rund og indhyllet i et gulligt slør, derefter hvælvet og til sidst flad, på ældre hatte med furet rand. Den er gulbrun til leverbrun, mørkere i midten, klistret i fugtigt vejr og blank, når den er tør. Den er dækket af gullige til okkerfarvede skorpeagtige vorter, rester af det ydre slør, ofte i uregelmæssige koncentriske ringe. Hatskindet kan trækkes af næsten ind til midten.",
+        hymenium: "Lamellerne står tæt, er frie, hvide med en cremegul tone, nogle gange med gullig æg. Basidierne er kølleformede og har spænder ved basis.",
+        stipe: "Stokken er 10–20 cm lang, nogle gange op til 25 cm, og 1,5–2,5 cm tyk, hvid til svagt gullig, som ung fyldt og med alderen hul. Basis er udvidet til en knold med gullige skællede vorter, rester af skeden. Ringen er hængende, hindeagtig, hvid til gullig, uden furer og har en flosset, ofte gulbrun kant.",
+        flesh: "Kødet er hvidt, svagt gulligt i stokken og guldgult til gulbrunt lige under hatskindet. Det skifter ikke farve, når det skæres, og lugt og smag er svage.",
+        sporePrint: "Hvidt. Sporerne er glatte, bredt ellipsoide, omkring 9–12 × 7–8 μm, inamyloide og bliver ikke blå i jod.",
+        habitat: "Frugtlegemerne kommer fra juli til oktober på jorden i nåle- og blandskov, mest i bakket terræn og bjergegne og på sur jord. Den danner mykorrhiza med gran, men også med fyr og birk, og frugtlegemerne vokser nogle gange i ringe.",
+        uses: "Giftig. Den indeholder ibotensyre og muscimol, ligesom Amanita muscaria, og forgiftning angives at være alvorligere end af A. muscaria og sammenlignelig med forgiftning af A. pantherina. Symptomerne begynder efter omkring en halv time til tre timer og omfatter kvalme, opkastning, svimmelhed, forvirring, hallucinationer, kraftig spytafsondring og svedtendens. Tilberedning fjerner ikke giftstofferne.",
+        confusion: "Rød fluesvamp (Amanita muscaria) har en klart rød hat. Panter-fluesvamp (Amanita pantherina) har hvidt kød under hatskindet og en bægerformet knold med tydelig kant. Rødmende fluesvamp (Amanita rubescens) har hvidt kød under hatskindet, som rødmer, når det skæres. Amanita excelsa har en gråbrun hat uden gule pletter, hvide lameller og en hvid, furet ring. Stor kæmpeparasolhat (Macrolepiota procera), som den ofte er blevet forvekslet med, har mørke, fastsiddende skæl på en lysere hat, en ring, der kan flyttes frit på stokken, og ingen slederester ved basis.",
+        notes: "Den er sjælden i store dele af udbredelsesområdet og står på lister over truede arter i flere lande, blandt andet Tyskland, Polen og Litauen. Dens rang er omdiskuteret: den har været behandlet som en varietet af Amanita muscaria, og molekylære undersøgelser har givet forskellige resultater. Den ophober vanadium, og skandinaviske eksemplarer indeholdt omkring 38–169 mg pr. kg tørvægt, mange gange mere end sædvanligt hos andre svampe."
+      },
+      nl: {
+        description: "Een giftige, ectomycorrhizavormende paddenstoel van naaldbossen, meestal samen met de fijnspar. Hij komt het meest voor in Noord-Europa, vooral in Scandinavië, en ook in delen van Midden- en Oost-Europa, in Korea en in Alaska. Uit Zuid- en West-Europa is hij niet gemeld.",
+        cap: "De hoed is 10–25 cm breed, jong eivormig tot rond en omhuld door een geelachtig velum, later bol en ten slotte vlak, bij oudere hoeden met een gegroefde rand. Hij is geelbruin tot leverbruin, in het midden donkerder, bij vochtig weer kleverig en bij droog weer glanzend. Hij is bedekt met geelachtige tot okerkleurige schurftige wratten, resten van het algemene velum, vaak in onregelmatige concentrische kringen. De hoedhuid laat zich bijna tot het midden afpellen.",
+        hymenium: "De lamellen staan dicht opeen, zijn vrij, wit met een roomgeel waas, soms met een geelachtige snede. De basidiën zijn knotsvormig en hebben gespen aan de basis.",
+        stipe: "De steel is 10–20 cm lang, soms tot 25 cm, en 1,5–2,5 cm dik, wit tot zwak geelachtig, jong vol en op leeftijd hol. De voet is verdikt tot een knol met geelachtige schilferige wratten, resten van de volva. De ring is afhangend, vliezig, wit tot geelachtig, ongegroefd, met een rafelige, vaak geelbruine rand.",
+        flesh: "Het vlees is wit, zwak geelachtig in de steel en goudgeel tot geelbruin vlak onder de hoedhuid. Het verandert niet van kleur bij doorsnijden, en geur en smaak zijn zwak.",
+        sporePrint: "Wit. De sporen zijn glad, breed ellipsoïde, ongeveer 9–12 × 7–8 μm, niet-amyloïd en kleuren met jodium niet blauw.",
+        habitat: "De vruchtlichamen verschijnen van juli tot oktober op de grond in naald- en gemengde bossen, meestal in heuvel- en berggebieden en op zure bodems. Hij vormt mycorrhiza met de fijnspar, maar ook met den en berk, en de vruchtlichamen groeien soms in kringen.",
+        uses: "Giftig. Hij bevat ibotenzuur en muscimol, net als Amanita muscaria, en vergiftiging zou ernstiger zijn dan door A. muscaria en vergelijkbaar met die door A. pantherina. De verschijnselen beginnen na ongeveer een half uur tot drie uur en omvatten misselijkheid, braken, duizeligheid, verwardheid, hallucinaties, overvloedige speekselvloed en zweten. Koken verwijdert de gifstoffen niet.",
+        confusion: "De vliegenzwam (Amanita muscaria) heeft een felrode hoed. De panteramaniet (Amanita pantherina) heeft wit vlees onder de hoedhuid en een komvormige knol met een duidelijke rand. De parelamaniet (Amanita rubescens) heeft wit vlees onder de hoedhuid dat bij doorsnijden rood verkleurt. Amanita excelsa heeft een grijsbruine hoed zonder gele vlekken, witte lamellen en een witte, gegroefde ring. De grote parasolzwam (Macrolepiota procera), waarmee hij vaak verward is, heeft donkere, vastgegroeide schubben op een lichtere hoed, een verschuifbare ring op de steel en geen volvaresten aan de voet.",
+        notes: "Hij is in een groot deel van zijn verspreidingsgebied zeldzaam en staat op lijsten van bedreigde soorten in meerdere landen, waaronder Duitsland, Polen en Litouwen. Zijn rang is omstreden: hij is behandeld als variëteit van Amanita muscaria, en moleculaire studies hebben uiteenlopende resultaten gegeven. Hij hoopt vanadium op; Scandinavische exemplaren bevatten ongeveer 38–169 mg per kg droge stof, vele malen meer dan gebruikelijk bij andere paddenstoelen."
+      },
+      et: {
+        description: "Mürgine ektomükoriisne seen okaspuumetsades, kõige sagedamini kuuse all. Kõige sagedasem on Põhja-Euroopas, eriti Skandinaavias, ning esineb ka Kesk- ja Ida-Euroopa osades, Koreas ja Alaskal. Lõuna- või Lääne-Euroopast pole teda teatatud.",
+        cap: "Kübar on 10–25 cm läbimõõduga, noorena munajas kuni ümar ja kollaka kattega mähitud, hiljem kumer ja lõpuks lame, vanematel kübaratel on serv vaoline. See on kollakaspruun kuni maksapruun, keskelt tumedam, märjana kleepuv ja kuivana läikiv. Seda katavad kollakad kuni ookrikarva kärnased soomused, üldkatte jäänused, sageli ebaühtlastes kontsentrilistes ringides. Nahk tõmbub peaaegu keskkohani maha.",
+        hymenium: "Lamellid on tihedad, vabad, valged kreemikaskollase varjundiga, mõnikord kollaka servaga. Basiidid on nuijad ja nende alusel on pandlad.",
+        stipe: "Jalg on 10–20 cm pikk, vahel kuni 25 cm, ja 1,5–2,5 cm jäme, valge kuni nõrgalt kollakas, noorena täis ja vanana õõnes. Alus on paisunud mügarikuks, millel on kollakad soomusjad tüükad, tupe jäänused. Rõngas on rippuv, kilejas, valge kuni kollakas, vagudeta, narmendava, sageli kollakaspruuni servaga.",
+        flesh: "Viljaliha on valge, jalas nõrgalt kollakas ja kübaranaha all kuldkollane kuni kollakaspruun. Lõikamisel see värvi ei muuda, lõhn ja maitse on nõrgad.",
+        sporePrint: "Valge. Eosed on siledad, laialt ellipsoidsed, umbes 9–12 × 7–8 μm, mitteamüloidsed ja joodiga ei lähe siniseks.",
+        habitat: "Viljakehad ilmuvad juulist oktoobrini maapinnale okas- ja segametsades, enamasti künklikus ja mägises maastikus ning happelisel pinnasel. See moodustab mükoriisa kuusega, aga ka männi ja kasega, ning viljakehad kasvavad vahel ringides.",
+        uses: "Mürgine. See sisaldab ibotenaati ja muskimooli nagu Amanita muscaria, ning mürgistus olevat raskem kui A. muscaria puhul ja võrreldav A. pantherina põhjustatuga. Sümptomid algavad umbes poole tunni kuni kolme tunni jooksul ning nende hulka kuuluvad iiveldus, oksendamine, pearinglus, segasus, hallutsinatsioonid, rohke süljeeritus ja higistamine. Keetmine mürke ei eemalda.",
+        confusion: "Punasel kärbseseenel (Amanita muscaria) on erkpunane kübar. Panter-kärbseseenel (Amanita pantherina) on kübaranaha all valge viljaliha ja jala alusel teravaservaline kausjas mügar. Roosal kärbseseenel (Amanita rubescens) on kübaranaha all valge viljaliha, mis lõikamisel punetab. Amanita excelsa kübar on hallikaspruun ilma kollaste laikudeta, lamellid on valged ja rõngas valge, vaoline. Suurel sirmikul (Macrolepiota procera), kellega teda on sageli segi aetud, on heledal kübaral tumedad kinnikasvanud soomused, jalal vabalt liikuv rõngas ning aluselt puuduvad tupe jäänused.",
+        notes: "Eestis on ta haruldane. Suures osas levilast on ta haruldane ja kuulub mitme riigi, sealhulgas Saksamaa, Poola ja Leedu, ohustatud liikide nimekirjadesse. Tema järk on vaieldav: teda on käsitletud liigi Amanita muscaria varieteedina ning molekulaaruuringud on andnud erinevaid tulemusi. Ta koondab vanaadiumi, Skandinaavia isendites oli seda umbes 38–169 mg kuivmassi kilogrammi kohta, mitu korda rohkem kui teistes seentes tavaliselt."
+      },
+      fi: {
+        description: "Myrkyllinen, ektomykorritsainen sieni havumetsissä, useimmiten kuusen kanssa. Se on yleisin Pohjois-Euroopassa, erityisesti Skandinaviassa, ja esiintyy myös osissa Keski- ja Itä-Eurooppaa, Koreassa ja Alaskassa. Etelä- tai Länsi-Euroopasta sitä ei ole ilmoitettu.",
+        cap: "Lakki on 10–25 cm leveä, nuorena munamainen tai pyöreähkö ja keltaisen suojuksen peittämä, sitten kupera ja lopulta tasainen, vanhoilla lakeilla reuna on uurteinen. Se on kellanruskea tai maksanruskea, keskeltä tummempi, märkänä tahmea ja kuivana kiiltävä. Sitä peittävät kellertävät tai okranväriset rupiset laikut, yleissuojuksen jäänteet, usein epäselvinä samankeskisinä renkaina. Lakin pintakalvo kuoriutuu lähes keskelle asti.",
+        hymenium: "Heltat ovat tiheässä, vapaat, valkoiset kermankeltaisella sävyllä, joskus keltaisella reunalla. Tyvisolut ovat nuijamaisia, ja niiden tyvessä on solkiyhteydet.",
+        stipe: "Jalka on 10–20 cm pitkä, joskus jopa 25 cm, ja 1,5–2,5 cm paksu, valkoinen tai heikosti kellertävä, nuorena umpinainen ja vanhana ontto. Tyvi pullistuu mukuraksi, jossa on keltaisia suomumaisia syylämäisiä jäänteitä tupen jäännöksistä. Rengas on riippuva, kalvomainen, valkoinen tai kellertävä, uurtamaton ja reunasta rispaantunut, usein kellanruskea.",
+        flesh: "Malto on valkoista, jalassa heikosti kellertävää ja lakin pintakalvon alla kullankeltaista tai kellanruskeaa. Se ei muuta väriään leikattaessa, ja haju ja maku ovat heikot.",
+        sporePrint: "Valkoinen. Itiöt ovat sileitä, leveän ellipsimäisiä ja noin 9–12 × 7–8 μm kokoisia. Ne ovat inamyloideja eivätkä värjäydy jodilla siniseksi.",
+        habitat: "Itiöemät ilmestyvät heinäkuusta lokakuuhun maahan havu- ja sekametsissä, enimmäkseen kumpuilevilla ja vuoristoisilla alueilla ja happamilla mailla. Se muodostaa sienijuuren kuusen, mutta myös männyn ja koivun kanssa, ja itiöemät kasvavat joskus renkaina.",
+        uses: "Myrkyllinen. Se sisältää iboteenihappoa ja muskimolia kuten Amanita muscaria, ja myrkytyksen kerrotaan olevan vakavampi kuin A. muscaria -myrkytys ja verrattavissa A. pantherina -myrkytykseen. Oireet alkavat noin puolen tunnin – kolmen tunnin kuluessa, ja niitä ovat pahoinvointi, oksentelu, huimaus, sekavuus, aistiharhat, runsas syljeneritys ja hikoilu. Kypsentäminen ei poista myrkkyjä.",
+        confusion: "Punakärpässienellä (Amanita muscaria) on kirkkaanpunainen lakki. Pantterikärpässienellä (Amanita pantherina) on lakin pintakalvon alla valkoista maltoa ja jalan tyvessä kuppimainen mukula, jolla on selvä reuna. Rusokärpässienen (Amanita rubescens) malto on pintakalvon alla valkoista ja punertuu vahingoittuessaan. Amanita excelsa -lajilla on harmaanruskea, ilman keltaisia laikkuja oleva lakki, valkoiset heltat ja valkoinen uurteinen rengas. Ukonsienen (Macrolepiota procera), jonka kanssa se on usein sekoitettu, vaaleammassa lakissa on kiinteitä tummia suomuja, rengas liikkuu vapaasti jalalla eikä jalan tyvessä ole tupen jäänteitä.",
+        notes: "Suomessa se kasvaa koko maassa, mutta on punakärpässientä harvinaisempi. Laji on harvinainen suurella osalla esiintymisaluettaan, ja se on useiden maiden, muun muassa Saksan, Puolan ja Liettuan, uhanalaisten lajien luetteloissa. Sen arvo on kiistanalainen: sitä on pidetty lajin Amanita muscaria muunnoksena, ja molekyylitutkimukset ovat antaneet erilaisia tuloksia. Se kerää vanadiinia, ja skandinaaviset yksilöt sisälsivät sitä noin 38–169 mg kuiva-ainekiloa kohti, moninkertaisesti muihin sieniin verrattuna."
+      },
+      fr: {
+        description: "Un champignon vénéneux ectomycorhizien des forêts de conifères, le plus souvent associé à l'épicéa. Il est surtout fréquent dans le nord de l'Europe, en particulier en Scandinavie, et se rencontre aussi dans certaines régions d'Europe centrale et orientale, en Corée et en Alaska. Il n'a pas été signalé dans le sud ni dans l'ouest de l'Europe.",
+        cap: "Le chapeau mesure 10 à 25 cm de diamètre, de forme ovoïde à arrondie et enveloppé d'un voile jaunâtre chez le jeune, puis convexe et enfin plat, avec la marge striée chez les vieux sujets. Il est brun jaunâtre à brun foie, plus foncé au centre, visqueux par temps humide et luisant par temps sec. Il est couvert de verrues croûteuses jaunâtres à ocre, restes du voile général, souvent en cercles concentriques irréguliers. La cuticule se détache presque jusqu'au centre.",
+        hymenium: "Les lames sont serrées, libres, blanches avec une teinte jaune crème, parfois à arête jaunâtre. Les basides sont en massue et portent des boucles à la base.",
+        stipe: "Le pied mesure 10 à 20 cm de long, parfois jusqu'à 25 cm, et 1,5 à 2,5 cm d'épaisseur, blanc à faiblement jaunâtre, plein chez le jeune et creux avec l'âge. La base est renflée en un bulbe orné de verrues écailleuses jaunâtres, restes de la volve. L'anneau est pendant, membraneux, blanc à jaunâtre, non strié, au bord déchiqueté et souvent brun jaunâtre.",
+        flesh: "La chair est blanche, faiblement jaunâtre dans le pied et jaune doré à brun jaunâtre juste sous la cuticule du chapeau. Elle ne change pas de couleur à la coupe, et l'odeur et la saveur sont faibles.",
+        sporePrint: "Blanche. Les spores sont lisses, largement ellipsoïdes, d'environ 9–12 × 7–8 μm, inamyloïdes, et ne bleuissent pas à l'iode.",
+        habitat: "Les carpophores apparaissent de juillet à octobre sur le sol des forêts de conifères et mixtes, surtout en zone de collines et de montagne et sur sols acides. Il forme des mycorhizes avec l'épicéa, mais aussi avec le pin et le bouleau, et les carpophores poussent parfois en cercles.",
+        uses: "Vénéneux. Il contient de l'acide iboténique et du muscimol, comme Amanita muscaria, et l'intoxication serait plus grave qu'avec A. muscaria et comparable à celle d'A. pantherina. Les symptômes débutent après environ une demi-heure à trois heures et comprennent nausées, vomissements, vertiges, confusion, hallucinations, salivation abondante et transpiration. La cuisson n'élimine pas les toxines.",
+        confusion: "L'amanite tue-mouches (Amanita muscaria) a un chapeau rouge vif. L'amanite panthère (Amanita pantherina) a la chair blanche sous la cuticule et un bulbe en coupe à bord net. L'amanite rougissante (Amanita rubescens) a la chair blanche sous la cuticule, qui rougit à la coupe. Amanita excelsa a un chapeau gris brun sans taches jaunes, des lames blanches et un anneau blanc, strié. La lépiote élevée (Macrolepiota procera), avec laquelle il a souvent été confondu, a des écailles sombres adhérentes sur un chapeau plus clair, un anneau mobile sur le pied et aucun reste de volve à la base.",
+        notes: "Il est rare dans une grande partie de son aire et figure sur les listes d'espèces menacées de plusieurs pays, dont l'Allemagne, la Pologne et la Lituanie. Son rang est discuté : il a été traité comme variété d'Amanita muscaria, et les études moléculaires ont donné des résultats différents. Il accumule du vanadium ; les spécimens scandinaves en contenaient environ 38–169 mg par kg de matière sèche, bien plus que le niveau habituel chez les autres champignons."
+      },
+      de: {
+        description: "Ein giftiger, ektomykorrhizabildender Pilz in Nadelwäldern, am häufigsten mit der Fichte. Er ist in Nordeuropa, besonders in Skandinavien, am häufigsten und kommt auch in Teilen Mittel- und Osteuropas, in Korea und in Alaska vor. Aus Süd- und Westeuropa ist er nicht gemeldet.",
+        cap: "Der Hut ist 10–25 cm breit, in der Jugend eiförmig bis rundlich und von einem gelblichen Velum umhüllt, später gewölbt und schließlich flach, bei älteren Hüten mit gerieftem Rand. Er ist gelbbraun bis leberbraun, in der Mitte dunkler, bei Nässe klebrig und trocken glänzend. Er ist mit gelblichen bis ockerfarbenen, warzig-schorfigen Resten des Velum universale bedeckt, oft in grob konzentrischen Ringen. Die Huthaut lässt sich fast bis zur Mitte abziehen.",
+        hymenium: "Die Lamellen stehen gedrängt, sind frei, weiß mit cremegelbem Schimmer und haben manchmal eine gelbliche Schneide. Die Basidien sind keulenförmig und tragen an der Basis Schnallen.",
+        stipe: "Der Stiel ist 10–20 cm lang, gelegentlich bis 25 cm, und 1,5–2,5 cm dick, weiß bis schwach gelblich, jung voll und im Alter hohl. Die Basis ist zu einer Knolle verdickt, die mit gelblichen, schuppigen Warzen, den Resten der Volva, besetzt ist. Der Ring ist hängend, häutig, weiß bis gelblich und nicht gerieft, mit ausgefranstem, oft gelbbräunlichem Rand.",
+        flesh: "Das Fleisch ist weiß, im Stiel schwach gelblich und direkt unter der Huthaut goldgelb bis gelbbraun. Es verfärbt sich beim Anschneiden nicht, Geruch und Geschmack sind schwach.",
+        sporePrint: "Weiß. Die Sporen sind glatt, breit ellipsoid, etwa 9–12 × 7–8 μm groß, inamyloid und färben sich mit Jod nicht blau.",
+        habitat: "Die Fruchtkörper erscheinen von Juli bis Oktober auf dem Boden in Nadel- und Mischwäldern, vor allem in Hügel- und Berglagen und auf sauren Böden. Er bildet Mykorrhiza mit der Fichte, aber auch mit Kiefer und Birke, und die Fruchtkörper wachsen mitunter in Ringen.",
+        uses: "Giftig. Er enthält wie Amanita muscaria Ibotensäure und Muscimol, und Vergiftungen gelten als schwerer als durch A. muscaria und vergleichbar mit denen durch A. pantherina. Die Symptome beginnen etwa eine halbe Stunde bis drei Stunden nach dem Verzehr und umfassen Übelkeit, Erbrechen, Schwindel, Verwirrtheit, Halluzinationen, starken Speichelfluss und Schwitzen. Kochen beseitigt die Giftstoffe nicht.",
+        confusion: "Der Fliegenpilz (Amanita muscaria) hat einen leuchtend roten Hut. Der Pantherpilz (Amanita pantherina) hat unter der Huthaut weißes Fleisch und eine Knolle mit deutlich abgesetztem Rand. Der Perlpilz (Amanita rubescens) hat unter der Huthaut weißes Fleisch, das sich beim Anschneiden rötet. Amanita excelsa hat einen graubraunen Hut ohne gelbe Flecken, weiße Lamellen und einen weißen, gerieften Ring. Der Gemeine Riesenschirmling (Macrolepiota procera), mit dem er oft verwechselt wurde, hat dunkle, fest aufsitzende Schuppen auf hellerem Hut, einen verschiebbaren Ring und keine Volvareste an der Stielbasis.",
+        notes: "Er ist in weiten Teilen seines Verbreitungsgebiets selten und steht in mehreren Ländern, darunter Deutschland, Polen und Litauen, auf Listen gefährdeter Arten. Sein Rang ist umstritten: Er wurde als Varietät von Amanita muscaria behandelt, und molekulare Untersuchungen kamen zu unterschiedlichen Ergebnissen. Er reichert Vanadium an; skandinavische Exemplare enthielten etwa 38–169 mg je kg Trockenmasse, ein Vielfaches des bei anderen Pilzen üblichen Gehalts. In Deutschland liegen die Hauptvorkommen in den Mittelgebirgen Harz, Thüringer Wald, Erzgebirge, Fichtelgebirge und Bayerischer Wald. Pilz des Jahres 2000 in Deutschland."
+      },
+      he: {
+        description: "פטרייה רעילה היוצרת מיקוריזה חיצונית ביערות מחטניים, לרוב עם אשוח. היא נפוצה ביותר בצפון אירופה, ובעיקר בסקנדינביה, ומופיעה גם באזורים במרכז אירופה ובמזרחה, בקוריאה ובאלסקה. לא דווח עליה בדרום אירופה או במערבה.",
+        cap: "קוטר הכובע 10–25 ס״מ, והוא ביצתי עד עגול ועטוף במעטפת צהבהבה בצעירותו, אחר כך קמור ולבסוף שטוח, ובכובעים מבוגרים שוליו חרוצים. צבעו חום-צהבהב עד חום-כבד, כהה יותר במרכז, דביק בלחות ומבריק ביובש. הוא מכוסה יבלות גלדיות צהבהבות עד אוקרה, שרידי המעטפת הכללית, לעיתים קרובות בטבעות קונצנטריות לא סדירות. עור הכובע נקלף כמעט עד המרכז.",
+        hymenium: "הלמלות צפופות, חופשיות, לבנות בגוון קרם-צהבהב, ולעיתים בקצה צהבהב. הבסידיות אלוטיות ובבסיסן יש חיבורי אבזם.",
+        stipe: "אורך הגבעול 10–20 ס״מ, לעיתים עד 25 ס״מ, עוביו 1.5–2.5 ס״מ, לבן עד צהבהב קלות, מלא בצעירותו וחלול עם הגיל. הבסיס מתעבה לפקעת עם יבלות קשקשיות צהבהבות, שרידי הווּלווה. הטבעת צונחת, קרומית, לבנה עד צהבהבה, לא חרוצה, ושוליה קרועים ולעיתים קרובות חומים-צהבהבים.",
+        flesh: "הבשר לבן, צהבהב קלות בגבעול, וצהוב-זהוב עד חום-צהבהב ממש מתחת לעור הכובע. הוא אינו משנה צבע בחיתוך, והריח והטעם חלשים.",
+        sporePrint: "לבן. הנבגים חלקים, אליפסיים רחבים, בגודל של כ-9–12 × 7–8 מיקרומטר, לא עמילואידיים ואינם מכחילים ביוד.",
+        habitat: "גופי הפרי מופיעים מיולי עד אוקטובר על הקרקע ביערות מחטניים ומעורבים, בעיקר באזורי גבעות והרים ובקרקעות חומציות. היא יוצרת מיקוריזה עם אשוח, וגם עם אורן ולבנה, וגופי הפרי גדלים לפעמים בטבעות.",
+        uses: "רעילה. היא מכילה חומצה איבוטנית ומוסימול, כמו Amanita muscaria, ומדווח כי ההרעלה בה חמורה יותר מההרעלה ב-A. muscaria ודומה להרעלה ב-A. pantherina. התסמינים מתחילים כחצי שעה עד שלוש שעות לאחר האכילה וכוללים בחילה, הקאות, סחרחורת, בלבול, הזיות, ריור מרובה והזעה. בישול אינו מסלק את הרעלנים.",
+        confusion: "ל-Amanita muscaria כובע אדום בוהק. ל-Amanita pantherina בשר לבן מתחת לעור הכובע ופקעת בצורת גביע עם שפה ברורה בבסיס הגבעול. ל-Amanita rubescens בשר לבן מתחת לעור, שמאדים בחיתוך. ל-Amanita excelsa כובע אפור-חום ללא כתמים צהובים, למלות לבנות וטבעת לבנה חרוצה. ל-Macrolepiota procera, שהתבלבלו בינה לבינה לא פעם, יש על כובע בהיר יותר קשקשים כהים צמודים, טבעת הנעה בחופשיות על הגבעול, וללא שרידי וולווה בבסיס.",
+        notes: "היא נדירה בחלק גדול מתחום תפוצתה ורשומה ברשימות מינים מאוימים בכמה מדינות, ביניהן גרמניה, פולין וליטא. דרגתה הטקסונומית שנויה במחלוקת: היא נחשבה לזן של Amanita muscaria, ומחקרים מולקולריים הניבו תוצאות שונות. היא מצברת ונדיום, ובדגימות סקנדינביות נמדדו כ-38–169 מ״ג לכל ק״ג משקל יבש, פי כמה מהרמה הרגילה בפטריות אחרות."
+      },
+      hi: {
+        description: "शंकुधारी जंगलों का एक विषैला एक्टोमाइकोराइज़ल कवक, जो अक्सर स्प्रूस के साथ पाया जाता है। यह उत्तरी यूरोप में, विशेषकर स्कैंडिनेविया में, सबसे अधिक मिलता है और मध्य व पूर्वी यूरोप के कुछ भागों, कोरिया तथा अलास्का में भी पाया जाता है। दक्षिणी या पश्चिमी यूरोप से इसकी सूचना नहीं मिली है।",
+        cap: "टोपी का व्यास 10–25 सेमी होता है; युवावस्था में यह अंडाकार से गोल और पीले आवरण में लिपटी होती है, फिर उत्तल और अंत में चपटी हो जाती है, और पुरानी टोपियों का किनारा धारीदार होता है। इसका रंग पीला-भूरा से यकृत-भूरा होता है, बीच में अधिक गहरा, गीले मौसम में चिपचिपा और सूखे में चमकदार। इस पर पीले से गेरुए रंग के पपड़ीदार मस्से होते हैं, जो सार्वत्रिक आवरण के अवशेष हैं और अक्सर अनियमित संकेंद्रित वलयों में होते हैं। टोपी की त्वचा लगभग केंद्र तक छिल जाती है।",
+        hymenium: "गिल्स घनी, मुक्त, क्रीमी-पीले आभा वाली सफ़ेद होती हैं, कभी-कभी पीले किनारे के साथ। बेसिडिया गदाकार होते हैं और उनके आधार पर क्लैम्प संयोजन होते हैं।",
+        stipe: "डंठल 10–20 सेमी लंबा, कभी-कभी 25 सेमी तक, और 1.5–2.5 सेमी मोटा होता है; सफ़ेद से हल्का पीला, युवावस्था में ठोस और उम्र के साथ खोखला। आधार एक कंद में फूला होता है, जिस पर पीले शल्कीय मस्से होते हैं, जो वॉल्वा के अवशेष हैं। वलय लटकता हुआ, झिल्लीदार, सफ़ेद से पीला और बिना धारियों का होता है, जिसका किनारा फटा हुआ और अक्सर पीला-भूरा होता है।",
+        flesh: "गूदा सफ़ेद होता है, डंठल में हल्का पीला, और टोपी की त्वचा के ठीक नीचे सुनहरा-पीला से पीला-भूरा। काटने पर रंग नहीं बदलता, और गंध तथा स्वाद हल्के होते हैं।",
+        sporePrint: "सफ़ेद। बीजाणु चिकने, चौड़े दीर्घवृत्ताकार, लगभग 9–12 × 7–8 μm के होते हैं, ग़ैर-एमिलॉइड हैं और आयोडीन से नीले नहीं पड़ते।",
+        habitat: "फलनकाय जुलाई से अक्टूबर तक शंकुधारी और मिश्रित जंगलों की ज़मीन पर, ज़्यादातर पहाड़ियों और पर्वतों में तथा अम्लीय मिट्टी पर उगते हैं। यह स्प्रूस के साथ, और चीड़ व भोजपत्र के साथ भी माइकोराइज़ा बनाता है, और फलनकाय कभी-कभी वलयों में उगते हैं।",
+        uses: "विषैला। इसमें Amanita muscaria की तरह इबोटेनिक अम्ल और मस्किमोल होता है, और बताया गया है कि इससे विषाक्तता A. muscaria की विषाक्तता से अधिक गंभीर और A. pantherina की विषाक्तता के बराबर होती है। लक्षण लगभग आधे घंटे से तीन घंटे में शुरू होते हैं और इनमें मतली, उल्टी, चक्कर, भ्रम, मतिभ्रम, अत्यधिक लार आना और पसीना आना शामिल हैं। पकाने से विष नहीं हटते।",
+        confusion: "Amanita muscaria की टोपी चटक लाल होती है। Amanita pantherina में टोपी की त्वचा के नीचे सफ़ेद गूदा और डंठल के आधार पर स्पष्ट किनारे वाला प्यालेनुमा कंद होता है। Amanita rubescens में त्वचा के नीचे सफ़ेद गूदा होता है जो काटने पर लालिमा ले लेता है। Amanita excelsa की टोपी धूसर-भूरी, बिना पीले धब्बों की होती है, गिल्स सफ़ेद और वलय सफ़ेद, धारीदार होता है। Macrolepiota procera, जिससे इसे अक्सर भ्रमवश जोड़ा गया है, की हल्की टोपी पर गहरे चिपके शल्क होते हैं, वलय डंठल पर आसानी से खिसकता है, और आधार पर वॉल्वा के अवशेष नहीं होते।",
+        notes: "यह अपने अधिकांश वितरण क्षेत्र में दुर्लभ है और जर्मनी, पोलैंड तथा लिथुआनिया सहित कई देशों की संकटग्रस्त प्रजातियों की सूचियों में शामिल है। इसका वर्गीकरण-स्तर विवादित है: इसे Amanita muscaria की एक किस्म माना गया है, और आणविक अध्ययनों के परिणाम अलग-अलग रहे हैं। यह वैनेडियम जमा करता है; स्कैंडिनेवियाई नमूनों में लगभग 38–169 मिग्रा प्रति किग्रा शुष्क भार मिला, जो अन्य कवकों के सामान्य स्तर से कई गुना अधिक है।"
+      },
+      hu: {
+        description: "Mérgező, ektomikorrhizás gomba fenyőerdőkben, leggyakrabban lucfenyő alatt. Legelterjedtebb Észak-Európában, különösen Skandináviában, de előfordul Közép- és Kelet-Európa egyes részein, Koreában és Alaszkában is. Dél- és Nyugat-Európából nem jelentették.",
+        cap: "A kalap 10–25 cm átmérőjű, fiatalon tojásdad vagy gömbölyded, sárgás burokba burkolózik, később domború, végül lapos, idősebb példányokon bordázott szélű. Sárgásbarnától májbarnáig terjed, közepén sötétebb, nedvesen tapadós, szárazon fényes. Sárgástól okkerig terjedő, varasan szemölcsös burokmaradványok borítják, gyakran durván koncentrikus körökben. A kalapbőr majdnem a közepéig lehúzható.",
+        hymenium: "A lemezek sűrűn állnak, szabadok, fehérek krémsárgás árnyalattal, élük olykor sárgás. A bazídiumok bunkó alakúak, tövükön csatok vannak.",
+        stipe: "A tönk 10–20 cm hosszú, olykor 25 cm-ig is megnő, vastagsága 1,5–2,5 cm, fehér vagy halványan sárgás, fiatalon tömör, idősen üreges. A töve gumósan megvastagodik, sárgás, pikkelyes szemölcsökkel, a bocskor maradványaival. A gallér lecsüngő, hártyás, fehér vagy sárgás, nem bordázott, széle cafatos, gyakran sárgásbarna.",
+        flesh: "A húsa fehér, a tönkben halványan sárgás, a kalapbőr alatt aranysárgától sárgásbarnáig terjed. Vágásra nem színeződik el, szaga és íze gyenge.",
+        sporePrint: "Fehér. A spórák simák, tojásdadok vagy széles ellipszis alakúak, mintegy 9–12 × 7–8 μm méretűek, inamiloidok, jódra nem kékülnek.",
+        habitat: "A termőtestek júliustól októberig jelennek meg a talajon, fenyő- és vegyes erdőkben, főként dombvidéken és hegyvidéken, savanyú talajon. Lucfenyővel, de erdeifenyővel és nyírfával is mikorrhizát alkot, a termőtestek olykor boszorkánykörben nőnek.",
+        uses: "Mérgező. Iboténsavat és muszcimolt tartalmaz, akár az Amanita muscaria, és a mérgezés a jelentések szerint súlyosabb, mint az A. muscaria okozta, és az A. pantherina okozta mérgezéshez hasonló. A tünetek nagyjából fél órán belül, legkésőbb három óra múlva jelentkeznek: hányinger, hányás, szédülés, zavartság, hallucinációk, erős nyálfolyás és izzadás. A főzés a mérgeket nem távolítja el.",
+        confusion: "A légyölő galóca (Amanita muscaria) kalapja élénkvörös. A párducgalóca (Amanita pantherina) húsa a kalapbőr alatt fehér, tönkjének töve pedig éles szélű, kehely alakú gumó. A piruló galóca (Amanita rubescens) húsa a kalapbőr alatt fehér, vágásra vörösödik. Az Amanita excelsa kalapja szürkésbarna, sárga foltok nélkül, lemezei fehérek, gallérja fehér és bordázott. A nagy őzlábgomba (Macrolepiota procera), amellyel gyakran összetévesztették, világosabb kalapján sötét, ránőtt pikkelyeket visel, gallérja mozgatható, tönkjének tövén pedig nincsenek bocskormaradványok.",
+        notes: "Magyarországon ritka. Elterjedési területének nagy részén ritka, és több ország, köztük Németország, Lengyelország és Litvánia veszélyeztetett fajainak listáján szerepel. Rangja vitatott: az Amanita muscaria változataként is kezelték, a molekuláris vizsgálatok eltérő eredményt adtak. Vanádiumot halmoz fel, a skandináv példányok szárazanyagának kilogrammjában mintegy 38–169 mg volt, ami sokszorosa a más gombákban megszokott értéknek."
+      },
+      id: {
+        description: "Jamur beracun ektomikoriza di hutan konifer, paling sering bersama pohon spruce. Jamur ini paling umum di Eropa utara, terutama Skandinavia, dan juga ditemukan di beberapa bagian Eropa tengah dan timur, Korea, serta Alaska. Jamur ini belum pernah dilaporkan dari Eropa selatan atau barat.",
+        cap: "Tudungnya berdiameter 10–25 cm, saat muda berbentuk telur hingga bulat dan terbungkus selubung kekuningan, lalu cembung dan akhirnya datar, dengan tepi beralur pada tudung yang lebih tua. Warnanya cokelat kekuningan hingga cokelat hati, lebih gelap di tengah, lengket saat basah dan mengilap saat kering. Permukaannya tertutup kutil berkerak kekuningan hingga oker, sisa selubung umum, sering tersusun dalam lingkaran konsentris yang tidak teratur. Kulit tudungnya dapat dikupas hampir sampai ke tengah.",
+        hymenium: "Bilah rapat, bebas, putih dengan semburat kuning krem, kadang bertepi kekuningan. Basidianya berbentuk gada dan memiliki sambungan apit di pangkalnya.",
+        stipe: "Tangkainya panjang 10–20 cm, kadang sampai 25 cm, dan tebal 1,5–2,5 cm, putih hingga sedikit kekuningan, padat saat muda dan berongga seiring usia. Pangkalnya membengkak menjadi umbi dengan kutil bersisik kekuningan, sisa volva. Cincinnya menggantung, berselaput, putih hingga kekuningan, tidak beralur, dengan tepi compang-camping yang sering cokelat kekuningan.",
+        flesh: "Dagingnya putih, sedikit kekuningan di tangkai, dan kuning keemasan hingga cokelat kekuningan tepat di bawah kulit tudung. Tidak berubah warna saat dipotong, dengan bau dan rasa yang lemah.",
+        sporePrint: "Putih. Sporanya halus, berbentuk elips lebar, berukuran sekitar 9–12 × 7–8 μm, non-amiloid, dan tidak menjadi biru dengan yodium.",
+        habitat: "Tubuh buah muncul dari Juli sampai Oktober di tanah pada hutan konifer dan hutan campuran, kebanyakan di perbukitan dan pegunungan serta pada tanah asam. Jamur ini membentuk mikoriza dengan spruce, juga dengan pinus dan birch, dan tubuh buahnya kadang tumbuh berbentuk lingkaran.",
+        uses: "Beracun. Mengandung asam ibotenat dan muscimol, seperti Amanita muscaria, dan keracunannya dilaporkan lebih serius daripada akibat A. muscaria serta sebanding dengan akibat A. pantherina. Gejala dimulai dalam kira-kira setengah jam hingga tiga jam dan mencakup mual, muntah, pusing, kebingungan, halusinasi, air liur berlebihan, dan berkeringat. Memasak tidak menghilangkan racunnya.",
+        confusion: "Amanita muscaria bertudung merah cerah. Amanita pantherina berdaging putih di bawah kulit tudung dan memiliki umbi berbentuk cawan dengan tepi jelas di pangkal tangkai. Amanita rubescens berdaging putih di bawah kulit yang memerah saat dipotong. Amanita excelsa bertudung cokelat keabu-abuan tanpa bercak kuning, berbilah putih, dan bercincin putih beralur. Macrolepiota procera, yang sering tertukar dengannya, memiliki sisik gelap yang melekat pada tudung yang lebih pucat, cincin yang bergerak bebas pada tangkai, dan tidak ada sisa volva di pangkalnya.",
+        notes: "Jamur ini langka di sebagian besar wilayah sebarannya dan masuk daftar spesies terancam di beberapa negara, termasuk Jerman, Polandia, dan Lituania. Peringkatnya diperdebatkan: ia pernah diperlakukan sebagai varietas Amanita muscaria, dan studi molekuler memberi hasil yang berbeda. Jamur ini menimbun vanadium; spesimen Skandinavia mengandung sekitar 38–169 mg per kg berat kering, berkali-kali lipat kadar yang lazim pada jamur lain."
+      },
+      it: {
+        description: "Un fungo velenoso ectomicorrizico dei boschi di conifere, quasi sempre associato all'abete rosso. È più frequente nell'Europa settentrionale, soprattutto in Scandinavia, e si trova anche in alcune zone dell'Europa centrale e orientale, in Corea e in Alaska. Non è stato segnalato nell'Europa meridionale né in quella occidentale.",
+        cap: "Il cappello misura 10–25 cm di diametro, da giovane è ovoidale o arrotondato e avvolto in un velo giallastro, poi convesso e infine piano, con il margine scanalato negli esemplari vecchi. È bruno-giallastro fino a bruno fegato, più scuro al centro, viscido con l'umidità e lucido all'asciutto. È ricoperto da verruche crostose giallastre fino a ocra, resti del velo generale, spesso in cerchi concentrici irregolari. La cuticola si stacca quasi fino al centro.",
+        hymenium: "Le lamelle sono fitte, libere, bianche con una sfumatura giallo crema, a volte con il filo giallastro. I basidi sono clavati e hanno giunti a fibbia alla base.",
+        stipe: "Il gambo è lungo 10–20 cm, a volte fino a 25 cm, e spesso 1,5–2,5 cm, bianco fino a debolmente giallastro, pieno da giovane e cavo con l'età. La base è ingrossata in un bulbo con verruche squamose giallastre, resti della volva. L'anello è pendulo, membranoso, bianco fino a giallastro, non scanalato, con il bordo sfrangiato e spesso bruno-giallastro.",
+        flesh: "La carne è bianca, debolmente giallastra nel gambo e giallo oro fino a bruno-giallastra appena sotto la cuticola del cappello. Non cambia colore al taglio, e l'odore e il sapore sono deboli.",
+        sporePrint: "Bianca. Le spore sono lisce, largamente ellissoidali, di circa 9–12 × 7–8 μm, inamiloidi, e non diventano blu con lo iodio.",
+        habitat: "I carpofori compaiono da luglio a ottobre sul terreno di boschi di conifere e misti, soprattutto in zone collinari e montane e su suoli acidi. Forma micorrize con l'abete rosso, ma anche con il pino e la betulla, e i carpofori a volte crescono in cerchi.",
+        uses: "Velenoso. Contiene acido ibotenico e muscimolo, come Amanita muscaria, e si riferisce che l'intossicazione sia più grave di quella da A. muscaria e paragonabile a quella da A. pantherina. I sintomi iniziano dopo circa mezz'ora fino a tre ore e comprendono nausea, vomito, vertigini, confusione, allucinazioni, abbondante salivazione e sudorazione. La cottura non elimina le tossine.",
+        confusion: "L'ovolo malefico (Amanita muscaria) ha il cappello rosso vivo. La tignosa rigata (Amanita pantherina) ha la carne bianca sotto la cuticola e un bulbo a coppa con un bordo ben marcato. La tignosa vinata (Amanita rubescens) ha la carne bianca sotto la cuticola, che arrossa al taglio. Amanita excelsa ha il cappello grigio-bruno senza macchie gialle, lamelle bianche e un anello bianco, scanalato. La mazza di tamburo (Macrolepiota procera), con cui è stato spesso confuso, ha squame scure aderenti su un cappello più chiaro, un anello mobile sul gambo e nessun resto di volva alla base.",
+        notes: "È raro in gran parte del suo areale e compare negli elenchi delle specie minacciate di diversi paesi, tra cui Germania, Polonia e Lituania. Il suo rango è discusso: è stato trattato come varietà di Amanita muscaria, e gli studi molecolari hanno dato risultati diversi. Accumula vanadio; gli esemplari scandinavi ne contenevano circa 38–169 mg per kg di peso secco, molte volte più del livello abituale negli altri funghi."
+      },
+      ja: {
+        description: "針葉樹林に生える有毒の外生菌根菌で、最もよくトウヒと共生します。北ヨーロッパ、とくにスカンジナビアで最も多く、中央ヨーロッパや東ヨーロッパの一部、韓国、アラスカにも分布します。南ヨーロッパや西ヨーロッパからは報告されていません。",
+        cap: "傘の直径は10〜25 cmで、若いうちは卵形から丸形で黄色みを帯びた被膜に包まれ、その後まんじゅう形になり、やがて平らに開きます。古い傘では縁に条線があります。色は黄褐色から肝臓色の褐色で、中央がより濃く、湿ると粘り、乾くと光沢があります。表面には黄色みを帯びた色から黄土色のかさぶた状のいぼがあり、これは外被膜の名残で、しばしば不規則な同心円状に並びます。傘の表皮は中央近くまで剥がれます。",
+        hymenium: "ひだは密で離生し、クリーム色がかった黄白色で、縁が黄色みを帯びることもあります。担子器は棍棒形で、基部にクランプ（かすがい連結）があります。",
+        stipe: "柄は長さ10〜20 cm、ときに25 cmに達し、太さは1.5〜2.5 cmです。白色からわずかに黄色みを帯び、若いうちは中実で、成長すると中空になります。基部は球根状にふくらみ、黄色みを帯びた鱗片状のいぼがあり、これはつぼの名残です。つばは垂れ下がる膜質で、白色から黄色みを帯び、条線はなく、縁は裂けて黄褐色を帯びることが多いです。",
+        flesh: "肉は白色で、柄ではわずかに黄色みを帯び、傘の表皮のすぐ下では黄金色から黄褐色です。切っても変色せず、においと味は弱いです。",
+        sporePrint: "白色です。胞子は平滑で広楕円形、大きさは約9〜12 × 7〜8 μmで、非アミロイドであり、ヨウ素で青く染まりません。",
+        habitat: "子実体は7月から10月に、針葉樹林や混交林の地上に発生し、おもに丘陵や山地の酸性土壌で見られます。トウヒのほか、マツやカバノキとも菌根を作り、子実体が輪を描いて生えることもあります。",
+        uses: "有毒です。Amanita muscariaと同じくイボテン酸とムシモールを含み、中毒はA. muscariaによるものより重く、A. pantherinaによるものに匹敵すると報告されています。症状は約30分から3時間で現れ、吐き気、嘔吐、めまい、錯乱、幻覚、大量のよだれ、発汗などがみられます。加熱しても毒は除かれません。",
+        confusion: "Amanita muscariaは傘が鮮やかな赤色です。Amanita pantherinaは傘の表皮の下の肉が白く、柄の基部に縁のはっきりした杯形の球根があります。Amanita rubescensは表皮の下の肉が白く、切ると赤みを帯びます。Amanita excelsaは灰褐色の傘に黄色い斑がなく、ひだは白く、つばは白色で条線があります。しばしば混同されてきたMacrolepiota procera（カラカサタケ）は、淡い色の傘に暗色の鱗片が固着し、つばが柄の上を自由に動き、基部につぼの名残がありません。",
+        notes: "分布域の大部分でまれで、ドイツ、ポーランド、リトアニアを含むいくつかの国で絶滅危惧種のリストに載っています。分類上の位置づけには議論があり、Amanita muscariaの変種として扱われたこともあり、分子系統の研究でも結果が分かれています。バナジウムを蓄積し、スカンジナビアの標本では乾燥重量1 kgあたり約38〜169 mg含まれていて、ほかの菌類で通常みられる量の何倍にもなります。"
+      },
+      ko: {
+        description: "침엽수림에서 자라는 독버섯으로, 외생균근을 만들며 주로 가문비나무와 함께 발견됩니다. 북유럽, 특히 스칸디나비아에서 가장 흔하며 중부와 동부 유럽 일부, 한국, 알래스카에서도 나타납니다. 남유럽이나 서유럽에서는 보고된 적이 없습니다.",
+        cap: "갓은 지름 10–25 cm이며, 어릴 때는 달걀 모양에서 둥근 모양이고 노르스름한 막에 싸여 있다가 이후 볼록해지고 마침내 편평해지며, 오래된 갓은 가장자리에 홈이 있습니다. 색은 황갈색에서 간갈색이고 중앙이 더 짙으며, 젖으면 끈적하고 마르면 윤이 납니다. 노르스름한 색에서 황토색의 딱지 같은 사마귀가 덮고 있는데, 이는 보편 피막의 잔해이며 흔히 불규칙한 동심원을 이룹니다. 갓 표피는 중앙 가까이까지 벗겨집니다.",
+        hymenium: "주름살은 촘촘하고 떨어져 있으며, 크림빛 노란색이 도는 흰색이고 가장자리가 노르스름한 경우도 있습니다. 담자기는 곤봉 모양이며 기부에 꺾쇠 연결이 있습니다.",
+        stipe: "자루는 길이 10–20 cm, 때로 25 cm까지 자라며 굵기는 1.5–2.5 cm이고, 흰색에서 약간 노르스름한 색이며 어릴 때는 속이 차 있다가 자라면서 비게 됩니다. 기부는 구근 모양으로 부풀며 노르스름한 비늘 모양 사마귀가 있는데, 이는 대주머니의 잔해입니다. 고리는 아래로 처지고 막질이며 흰색에서 노르스름한 색이고 홈이 없으며, 가장자리는 찢어져 있고 흔히 황갈색을 띱니다.",
+        flesh: "살은 흰색이며 자루에서는 약간 노르스름하고 갓 표피 바로 아래에서는 황금빛 노란색에서 황갈색입니다. 자르면 색이 변하지 않으며 냄새와 맛은 약합니다.",
+        sporePrint: "흰색입니다. 포자는 매끈하고 넓은 타원형이며 크기는 약 9–12 × 7–8 μm이고, 비아밀로이드성이어서 요오드에 푸르게 변하지 않습니다.",
+        habitat: "자실체는 7월부터 10월까지 침엽수림과 혼합림의 땅 위에서 나며, 주로 구릉지와 산지의 산성 토양에서 자랍니다. 가문비나무뿐 아니라 소나무와 자작나무와도 균근을 만들며, 자실체가 원을 이루어 자라기도 합니다.",
+        uses: "독성이 있습니다. Amanita muscaria와 마찬가지로 이보텐산과 무시몰을 함유하며, 중독은 A. muscaria에 의한 것보다 심하고 A. pantherina에 의한 것과 비슷하다고 보고되어 있습니다. 증상은 대략 30분에서 3시간 안에 시작되며 메스꺼움, 구토, 어지럼증, 혼란, 환각, 심한 침 분비와 땀 흘림이 나타납니다. 익혀도 독소는 제거되지 않습니다.",
+        confusion: "Amanita muscaria는 갓이 선명한 붉은색입니다. Amanita pantherina는 갓 표피 아래의 살이 희고 자루 기부에 가장자리가 뚜렷한 잔 모양 구근이 있습니다. Amanita rubescens는 표피 아래의 살이 희며 자르면 붉어집니다. Amanita excelsa는 노란 얼룩이 없는 회갈색 갓과 흰 주름살, 흰색의 홈 있는 고리를 지닙니다. 흔히 혼동되어 온 Macrolepiota procera는 더 옅은 갓에 어두운 비늘이 붙어 있고, 고리가 자루 위에서 자유롭게 움직이며 기부에 대주머니의 잔해가 없습니다.",
+        notes: "분포 지역 대부분에서 드물며 독일, 폴란드, 리투아니아를 비롯한 여러 나라의 멸종위기종 목록에 올라 있습니다. 분류 계급에 대해서는 논란이 있어서 Amanita muscaria의 변종으로 다루어졌으며, 분자 연구 결과도 엇갈립니다. 바나듐을 축적하여 스칸디나비아 표본에는 건조 중량 1 kg당 약 38–169 mg이 들어 있었고, 이는 다른 균류의 통상 수준의 몇 배에 이릅니다."
+      },
+      lv: {
+        description: "Indīga ektomikorizas sēne skujkoku mežos, visbiežāk kopā ar egli. Visbiežāk sastopama Ziemeļeiropā, īpaši Skandināvijā, un sastopama arī dažās Centrāleiropas un Austrumeiropas daļās, Korejā un Aļaskā. No Dienvideiropas vai Rietumeiropas tā nav ziņota.",
+        cap: "Cepurīte ir 10–25 cm plata, jaunībā olveida līdz noapaļota un ietīta iedzeltenā apvalkā, vēlāk izliekta un beidzot plakana, vecākām cepurītēm mala rievota. Tā ir dzeltenbrūna līdz aknu brūna, vidū tumšāka, mitrumā lipīga un sausumā spīdīga. To klāj iedzeltenas līdz okerkrāsas kraupainas kārpiņas, kopējā apvalka paliekas, bieži nelīdzenos koncentriskos gredzenos. Miziņa novelkama gandrīz līdz pašam vidum.",
+        hymenium: "Lapiņas ir biezas, brīvas, baltas ar krēmdzeltenu nokrāsu, dažreiz ar iedzeltenu malu. Bazīdijas ir vālveida.",
+        stipe: "Kājiņa ir 10–20 cm gara, dažkārt līdz 25 cm, un 1,5–2,5 cm bieza, balta līdz viegli iedzeltena, jaunībā pilna, vecumā dobja. Pamatne ir sabiezējusi bumbuļveidā ar iedzeltenām zvīņainām kārpiņām, maksts paliekām. Gredzens ir nokarens, plēvains, balts līdz iedzeltens, nerievots, ar saplēstu, bieži dzeltenbrūnu malu.",
+        flesh: "Mīkstums ir balts, kājiņā viegli iedzeltens, bet tieši zem cepurītes miziņas zeltaini dzeltens līdz dzeltenbrūns. Pārgriežot tas nemaina krāsu, smarža un garša ir vāja.",
+        sporePrint: "Balts. Sporas ir gludas, plaši elipsoīdas, apmēram 9–12 × 7–8 μm, neamiloīdas un jodā nekļūst zilas.",
+        habitat: "Augļķermeņi parādās no jūlija līdz oktobrim uz zemes skujkoku un jauktos mežos, galvenokārt pauguraini un kalnainos apvidos un skābās augsnēs. Tā veido mikorizu ar egli, bet arī ar priedi un bērzu, un augļķermeņi dažreiz aug lokos.",
+        uses: "Indīga. Tā satur ibotēnskābi un muscimolu, tāpat kā Amanita muscaria, un saindēšanās, kā ziņots, ir smagāka nekā pēc A. muscaria un salīdzināma ar saindēšanos ar A. pantherina. Simptomi sākas apmēram pēc pusstundas līdz trim stundām, un tie ir slikta dūša, vemšana, reibonis, apjukums, halucinācijas, spēcīga siekalošanās un svīšana. Termiska apstrāde toksīnus neizjauc.",
+        confusion: "Sarkanajai mušmirei (Amanita muscaria) ir spilgti sarkana cepurīte. Panteru mušmirei (Amanita pantherina) zem cepurītes miziņas ir balts mīkstums un kājiņas pamatnē biķerveida bumbulis ar izteiktu malu. Sarkstošajai mušmirei (Amanita rubescens) zem miziņas ir balts mīkstums, kas pārgriežot sasārtojas. Amanita excelsa cepurīte ir pelēkbrūna bez dzeltenām plankumiem, lapiņas baltas un gredzens balts, rievots. Lielajai dižsardzenei (Macrolepiota procera), ar ko tā bieži jaukta, uz gaišākas cepurītes ir tumšas pieaugušas zvīņas, gredzens brīvi bīdāms un kājiņas pamatnē nav maksts atlieku.",
+        notes: "Lielā daļā izplatības areāla tā ir reta un iekļauta vairāku valstu, tostarp Vācijas, Polijas un Lietuvas, apdraudēto sugu sarakstos. Tās rangs ir apstrīdams: tā ir uzskatīta par Amanita muscaria varietāti, un molekulārie pētījumi devuši atšķirīgus rezultātus. Tā uzkrāj vanādiju, Skandināvijas eksemplāros tā bija aptuveni 38–169 mg uz kg sausnas, daudzkārt vairāk nekā parasti citās sēnēs."
+      },
+      lt: {
+        description: "Nuodingas ektomikorizinis grybas spygliuočių miškuose, dažniausiai su eglėmis. Dažniausias šiaurės Europoje, ypač Skandinavijoje, aptinkamas ir kai kuriose vidurio bei rytų Europos dalyse, Korėjoje ir Aliaskoje. Iš pietų ar vakarų Europos nėra pranešta.",
+        cap: "Kepurėlė 10–25 cm skersmens, jauna kiaušiniška ar apvali ir apgaubta gelsvu apvalkalu, vėliau iškili, galiausiai plokščia, senesnių kepurėlių kraštas rievėtas. Ji gelsvai ruda iki kepenų rudos spalvos, viduryje tamsesnė, drėgna lipni, sausa blizgi. Ją dengia gelsvos ar ochros spalvos šašinės karpelės, bendrojo apvalkalo likučiai, dažnai išsidėstę netaisyklingais koncentriniais ratais. Odelė nusilupa beveik iki pat vidurio.",
+        hymenium: "Plokštelės tankios, laisvos, baltos su kreminiu gelsvu atspalviu, kartais su gelsvu kraštu. Bazidės yra buožės pavidalo.",
+        stipe: "Kotas 10–20 cm ilgio, kartais iki 25 cm, ir 1,5–2,5 cm storio, baltas ar silpnai gelsvas, jaunas kietas, senas tuščiaviduris. Pagrindas išsiplėtęs į gumbą su gelsvomis žvyniškomis karpelėmis, makšties likučiais. Žiedas nusviręs, plėvėtas, baltas ar gelsvas, neraižytas, su suplyšusiu, dažnai gelsvai rudu kraštu.",
+        flesh: "Minkštimas baltas, kote silpnai gelsvas, o tiesiai po kepurėlės odele auksiškai geltonas iki gelsvai rudo. Perpjautas nekeičia spalvos, kvapas ir skonis silpni.",
+        sporePrint: "Balti. Sporos lygios, plačiai elipsoidinės, maždaug 9–12 × 7–8 μm, neamiloidinės ir nuo jodo nesimėlynuoja.",
+        habitat: "Vaisiakūniai auga nuo liepos iki spalio ant žemės spygliuočių ir mišriuose miškuose, dažniausiai kalvotose ir kalnuotose vietovėse ir rūgščiose dirvose. Sudaro mikorizę su egle, taip pat su pušimi ir beržu, vaisiakūniai kartais auga ratais.",
+        uses: "Nuodingas. Jame yra ibotenskabos ir muscimolio, kaip ir Amanita muscaria, o apsinuodijimas, pranešama, sunkesnis nei nuo A. muscaria ir panašus į apsinuodijimą A. pantherina. Simptomai prasideda maždaug po pusvalandžio ar per tris valandas, tai pykinimas, vėmimas, galvos svaigimas, sutrikusi sąmonė, haliucinacijos, gausus seilėtekis ir prakaitavimas. Virimas nuodų nepašalina.",
+        confusion: "Paprastoji musmirė (Amanita muscaria) turi ryškiai raudoną kepurėlę. Margoji musmirė (Amanita pantherina) po kepurėlės odele turi baltą minkštimą, o koto apačioje taurelės formos gumbą su ryškiu kraštu. Rausvoji musmirė (Amanita rubescens) po odele turi baltą minkštimą, kuris perpjautas parausta. Amanita excelsa turi pilkšvai rudą kepurėlę be geltonų dėmių, baltas plokšteles ir baltą rievėtą žiedą. Skėtinė žvynabudė (Macrolepiota procera), su kuria jis dažnai būdavo painiojamas, ant šviesesnės kepurėlės turi tamsius prisitvirtinusius žvynus, laisvai slankiojantį žiedą ir koto apačioje neturi makšties likučių.",
+        notes: "Daugelyje paplitimo vietų jis retas ir įrašytas į kelių šalių, tarp jų Vokietijos, Lenkijos ir Lietuvos, nykstančių rūšių sąrašus. Jo rangas ginčytinas: jis buvo laikomas Amanita muscaria atmaina, o molekuliniai tyrimai davė skirtingus rezultatus. Kaupia vanadį, Skandinavijos egzemplioriuose jo buvo maždaug 38–169 mg kg sausosios medžiagos, daug kartų daugiau nei įprastai kituose grybuose."
+      },
+      no: {
+        description: "En giftig, ektomykorrhizadannende sopp i barskog, oftest sammen med gran. Den er vanligst i Nord-Europa, særlig i Skandinavia, og forekommer også i deler av Sentral- og Øst-Europa, i Korea og i Alaska. Den er ikke rapportert fra Sør- eller Vest-Europa.",
+        cap: "Hatten er 10–25 cm bred, som ung eggformet til rund og innhyllet i et gulaktig slør, deretter hvelvet og til slutt flat, på eldre hatter med rillet kant. Den er gulbrun til leverbrun, mørkere i midten, klissen i fuktig vær og blank når den er tørr. Den er dekket av gulaktige til oker skorpeaktige vorter, rester av yttersløret, ofte i uregelmessige konsentriske ringer. Hattehuden lar seg trekke av nesten helt til midten.",
+        hymenium: "Skivene står tett, er frie, hvite med en kremgul tone, noen ganger med gulaktig egg. Basidiene er kølleformede og har spenner ved basis.",
+        stipe: "Stilken er 10–20 cm lang, noen ganger opptil 25 cm, og 1,5–2,5 cm tykk, hvit til svakt gulaktig, som ung full og med alderen hul. Basis er utvidet til en knoll med gulaktige skjellete vorter, rester av skjeden. Ringen er hengende, hinneaktig, hvit til gulaktig, urillet og har en frynset, ofte gulbrun kant.",
+        flesh: "Kjøttet er hvitt, svakt gulaktig i stilken og gullgult til gulbrunt rett under hattehuden. Det skifter ikke farge når det skjæres, og lukt og smak er svake.",
+        sporePrint: "Hvitt. Sporene er glatte, bredt ellipsoide, omtrent 9–12 × 7–8 μm, inamyloide og blir ikke blå i jod.",
+        habitat: "Fruktlegemene kommer fra juli til oktober på bakken i bar- og blandingsskog, mest i åsland og fjellområder og på sur jord. Den danner mykorrhiza med gran, men også med furu og bjørk, og fruktlegemene vokser noen ganger i ringer.",
+        uses: "Giftig. Den inneholder ibotensyre og muscimol, som Amanita muscaria, og forgiftning oppgis å være alvorligere enn av A. muscaria og sammenlignbar med forgiftning av A. pantherina. Symptomene begynner etter omtrent en halv time til tre timer og omfatter kvalme, oppkast, svimmelhet, forvirring, hallusinasjoner, kraftig spyttsekresjon og svetting. Koking fjerner ikke giftstoffene.",
+        confusion: "Rød fluesopp (Amanita muscaria) har en knallrød hatt. Panterfluesopp (Amanita pantherina) har hvitt kjøtt under hattehuden og en begerformet knoll med tydelig kant. Rødnende fluesopp (Amanita rubescens) har hvitt kjøtt under hattehuden som rødner når det skjæres. Amanita excelsa har en gråbrun hatt uten gule flekker, hvite skiver og en hvit, rillet ring. Stor parasollsopp (Macrolepiota procera), som den ofte er blitt forvekslet med, har mørke, fastsittende skjell på en lysere hatt, en ring som kan flyttes fritt på stilken og ingen slirerester ved basis.",
+        notes: "Den er sjelden i store deler av utbredelsesområdet og står på lister over truede arter i flere land, blant annet Tyskland, Polen og Litauen. Rangen er omdiskutert: den har vært behandlet som en varietet av Amanita muscaria, og molekylære studier har gitt ulike resultater. Den akkumulerer vanadium, og skandinaviske eksemplarer inneholdt omtrent 38–169 mg per kg tørrvekt, mange ganger mer enn vanlig hos andre sopper."
+      },
+      fa: {
+        description: "قارچی سمی که در جنگل‌های مخروطی، اغلب با صنوبر، ریشه‌قارچ (میکوریزای) بیرونی تشکیل می‌دهد. این قارچ در شمال اروپا، به‌ویژه در اسکاندیناوی، بیش از همه دیده می‌شود و در بخش‌هایی از اروپای مرکزی و شرقی، کره و آلاسکا نیز یافت می‌شود. از جنوب و غرب اروپا گزارش نشده است.",
+        cap: "کلاهک ۱۰ تا ۲۵ سانتی‌متر قطر دارد، در جوانی تخم‌مرغی تا گرد و پوشیده در پرده‌ای زردرنگ است، سپس محدب و سرانجام پهن می‌شود و لبه‌اش در کلاهک‌های مسن‌تر شیاردار است. رنگش از قهوه‌ای مایل به زرد تا قهوه‌ای جگری است، در مرکز تیره‌تر، در رطوبت چسبناک و در خشکی براق. آن را زگیل‌های پوسته‌ای زردرنگ تا خاکی، بازمانده‌های پوشش عمومی، می‌پوشانند که اغلب در حلقه‌های هم‌مرکز نامنظم قرار دارند. پوست کلاهک تقریباً تا مرکز کنده می‌شود.",
+        hymenium: "تیغه‌ها متراکم و آزادند، سفید با ته‌رنگ زرد خامه‌ای و گاهی با لبه‌ای مایل به زرد. بازیدی‌ها گرزی‌شکل‌اند و در قاعده‌شان اتصال‌های گیره‌ای دارند.",
+        stipe: "ساقه ۱۰ تا ۲۰ سانتی‌متر طول دارد، گاهی تا ۲۵ سانتی‌متر، و ضخامتش ۱٫۵ تا ۲٫۵ سانتی‌متر است، سفید تا کمی مایل به زرد، در جوانی توپر و با افزایش سن توخالی. قاعده به غده‌ای با زگیل‌های پولکی زردرنگ، بازمانده‌های ولوا، متورم می‌شود. حلقه آویزان، غشایی، سفید تا مایل به زرد و بدون شیار است و لبه‌ای ژنده و اغلب قهوه‌ای مایل به زرد دارد.",
+        flesh: "گوشت سفید است، در ساقه کمی مایل به زرد و درست زیر پوست کلاهک زرد طلایی تا قهوه‌ای مایل به زرد. هنگام بریدن تغییر رنگ نمی‌دهد و بو و طعمش ضعیف است.",
+        sporePrint: "سفید. هاگ‌ها صاف و بیضوی پهن‌اند، با اندازه‌ای نزدیک به ۹ تا ۱۲ × ۷ تا ۸ میکرومتر، غیرآمیلوئیدی‌اند و با ید آبی نمی‌شوند.",
+        habitat: "میوه‌تنه‌ها از ژوئیه تا اکتبر روی زمین در جنگل‌های مخروطی و آمیخته، بیشتر در تپه‌ها و کوهستان‌ها و روی خاک‌های اسیدی ظاهر می‌شوند. با صنوبر و نیز با کاج و توس ریشه‌قارچ تشکیل می‌دهد و میوه‌تنه‌ها گاهی در حلقه‌ها می‌رویند.",
+        uses: "سمی. مانند Amanita muscaria حاوی اسید ایبوتنیک و موسیمول است و گزارش شده که مسمومیت با آن شدیدتر از مسمومیت با A. muscaria و همانند مسمومیت با A. pantherina است. نشانه‌ها حدود نیم تا سه ساعت پس از مصرف آغاز می‌شوند و شامل تهوع، استفراغ، سرگیجه، آشفتگی ذهنی، توهم، ترشح فراوان بزاق و تعریق‌اند. پختن سموم را از بین نمی‌برد.",
+        confusion: "Amanita muscaria کلاهکی قرمز روشن دارد. Amanita pantherina زیر پوست کلاهک گوشتی سفید و در قاعده ساقه غده‌ای جام‌مانند با لبه‌ای مشخص دارد. Amanita rubescens زیر پوست گوشتی سفید دارد که هنگام بریدن سرخ می‌شود. Amanita excelsa کلاهکی خاکستری‌قهوه‌ای بدون لکه‌های زرد، تیغه‌های سفید و حلقه‌ای سفید و شیاردار دارد. Macrolepiota procera، که اغلب با آن اشتباه گرفته شده، روی کلاهک روشن‌تر خود پولک‌های تیره و چسبیده دارد، حلقه‌اش آزادانه روی ساقه جابه‌جا می‌شود و در قاعده بازمانده ولوا ندارد.",
+        notes: "در بخش بزرگی از پراکنش خود کمیاب است و در فهرست گونه‌های در معرض تهدید چند کشور، از جمله آلمان، لهستان و لیتوانی، آمده است. رتبه آن محل بحث است: آن را واریته‌ای از Amanita muscaria دانسته‌اند و پژوهش‌های مولکولی نتایج متفاوتی داده‌اند. وانادیوم را در خود انباشته می‌کند و نمونه‌های اسکاندیناویایی حدود ۳۸ تا ۱۶۹ میلی‌گرم در هر کیلوگرم وزن خشک داشتند که چندین برابر سطح معمول در قارچ‌های دیگر است."
+      },
+      pl: {
+        description: "Trujący grzyb ektomikoryzowy lasów iglastych, najczęściej występujący ze świerkiem. Najpospolitszy jest w północnej Europie, zwłaszcza w Skandynawii, a spotyka się go także w części Europy Środkowej i Wschodniej, w Korei i na Alasce. Nie notowano go w południowej ani zachodniej Europie.",
+        cap: "Kapelusz ma 10–25 cm średnicy, za młodu jajowaty do kulistego i owinięty żółtawą osłoną, potem wypukły i w końcu płaski, u starszych okazów z prążkowanym brzegiem. Jest żółtobrązowy do wątrobowobrązowego, pośrodku ciemniejszy, wilgotny jest lepki, a suchy błyszczący. Pokrywają go żółtawe do ochrowych łatki w kształcie brodawek, resztki osłony ogólnej, często ułożone w przybliżeniu w koncentryczne pierścienie. Skórka daje się zdjąć niemal do środka.",
+        hymenium: "Blaszki są gęste, wolne, białe z kremowożółtawym odcieniem, czasem z żółtawym ostrzem. Podstawki są maczugowate i mają u podstawy sprzążki.",
+        stipe: "Trzon ma 10–20 cm długości, czasem do 25 cm, i 1,5–2,5 cm grubości, jest biały do lekko żółtawego, za młodu pełny, a z wiekiem pusty. Podstawa jest zgrubiała w bulwę z żółtawymi łuskowatymi brodawkami, pozostałościami pochwy. Pierścień jest zwisający, błoniasty, biały do żółtawego, niekarbowany, z postrzępionym, często żółtobrązowym brzegiem.",
+        flesh: "Miąższ jest biały, w trzonie lekko żółtawy, a tuż pod skórką kapelusza złocistożółty do żółtobrązowego. Po przecięciu nie zmienia barwy, zapach i smak są słabe.",
+        sporePrint: "Biały. Zarodniki są gładkie, szeroko elipsoidalne, mają około 9–12 × 7–8 μm, są nieamyloidalne i nie niebieszczeją w jodzie.",
+        habitat: "Owocniki pojawiają się od lipca do października na ziemi w lasach iglastych i mieszanych, głównie na terenach wyżynnych i górskich oraz na glebach kwaśnych. Tworzy mikoryzę ze świerkiem, a także z sosną i brzozą, a owocniki czasem rosną w kręgach.",
+        uses: "Trujący. Zawiera kwas ibotenowy i muscymol, tak jak Amanita muscaria, a zatrucia uchodzą za cięższe niż po A. muscaria i porównywalne z zatruciami po A. pantherina. Objawy pojawiają się po około pół godziny do trzech godzin i obejmują nudności, wymioty, zawroty głowy, splątanie, halucynacje, silne ślinienie i pocenie się. Obróbka cieplna nie usuwa toksyn.",
+        confusion: "Muchomor czerwony (Amanita muscaria) ma jaskrawoczerwony kapelusz. Muchomor plamisty (Amanita pantherina) ma pod skórką kapelusza białe mięso, a u podstawy trzonu bulwę z wyraźnym brzegiem. Muchomor czerwieniejący (Amanita rubescens) ma pod skórką białe mięso, które po uszkodzeniu czerwienieje. Muchomor twardawy (Amanita excelsa) ma brązowoszary kapelusz bez żółtych łatek, białe blaszki i biały, karbowany pierścień. Czubajka kania (Macrolepiota procera), z którą często go mylono, ma na jaśniejszym kapeluszu ciemne, przyrośnięte łuski, ruchomy pierścień i nie ma resztek pochwy u podstawy trzonu.",
+        notes: "W Polsce jest gatunkiem rzadkim, a na czerwonej liście ma status V (narażony na wyginięcie); figuruje też na listach gatunków zagrożonych w Niemczech i na Litwie. Jego ranga jest dyskutowana: uznawano go za odmianę Amanita muscaria, a badania molekularne dają różne wyniki. Gromadzi wanad, okazy skandynawskie zawierały około 38–169 mg na kg suchej masy, wielokrotnie więcej niż zwykle inne grzyby."
+      },
+      pt: {
+        description: "Um cogumelo venenoso ectomicorrízico das florestas de coníferas, quase sempre associado ao abeto-vermelho. É mais frequente no norte da Europa, sobretudo na Escandinávia, e também ocorre em algumas zonas da Europa central e oriental, na Coreia e no Alasca. Não foi registado no sul nem no oeste da Europa.",
+        cap: "O chapéu mede 10–25 cm de diâmetro, quando jovem é ovoide a arredondado e está envolvido num véu amarelado, depois convexo e por fim plano, com a margem estriada nos exemplares velhos. É castanho-amarelado a castanho-fígado, mais escuro no centro, viscoso com humidade e brilhante a seco. Está coberto por verrugas crostosas amareladas a ocre, restos do véu geral, muitas vezes em círculos concêntricos irregulares. A cutícula separa-se quase até ao centro.",
+        hymenium: "As lâminas são apertadas, livres, brancas com um tom amarelo-creme, por vezes com o bordo amarelado. Os basídios são claviformes e têm grampos na base.",
+        stipe: "O pé mede 10–20 cm de comprimento, por vezes até 25 cm, e 1,5–2,5 cm de espessura, é branco a ligeiramente amarelado, maciço quando jovem e oco com a idade. A base alarga-se num bulbo com verrugas escamosas amareladas, restos da volva. O anel é pendente, membranoso, branco a amarelado, sem estrias, com o bordo rasgado e muitas vezes castanho-amarelado.",
+        flesh: "A carne é branca, ligeiramente amarelada no pé e amarelo-dourada a castanho-amarelada logo abaixo da cutícula do chapéu. Não muda de cor ao corte, e o cheiro e o sabor são fracos.",
+        sporePrint: "Branca. Os esporos são lisos, largamente elipsoides, de cerca de 9–12 × 7–8 μm, inamiloides, e não azulam com iodo.",
+        habitat: "Os carpóforos surgem de julho a outubro no solo de florestas de coníferas e mistas, sobretudo em zonas de colinas e montanha e em solos ácidos. Forma micorrizas com o abeto-vermelho, e também com o pinheiro e o vidoeiro, e os carpóforos por vezes crescem em círculos.",
+        uses: "Venenoso. Contém ácido iboténico e muscimol, como Amanita muscaria, e relata-se que a intoxicação é mais grave do que a causada por A. muscaria e comparável à de A. pantherina. Os sintomas começam ao fim de cerca de meia hora a três horas e incluem náuseas, vómitos, tonturas, confusão, alucinações, salivação abundante e transpiração. A cozedura não elimina as toxinas.",
+        confusion: "A amanita mata-moscas (Amanita muscaria) tem o chapéu vermelho-vivo. A amanita-pantera (Amanita pantherina) tem a carne branca sob a cutícula e um bulbo em forma de taça com um bordo bem marcado. A amanita-vinosa (Amanita rubescens) tem a carne branca sob a cutícula, que avermelha ao corte. Amanita excelsa tem o chapéu cinzento-acastanhado sem manchas amarelas, lâminas brancas e um anel branco e estriado. O frade (Macrolepiota procera), com que muitas vezes foi confundido, tem escamas escuras aderentes sobre um chapéu mais claro, um anel móvel no pé e nenhum resto de volva na base.",
+        notes: "É rara em grande parte da sua área e consta de listas de espécies ameaçadas de vários países, entre eles a Alemanha, a Polónia e a Lituânia. A sua categoria é discutida: foi tratada como variedade de Amanita muscaria, e os estudos moleculares deram resultados diferentes. Acumula vanádio; os exemplares escandinavos continham cerca de 38–169 mg por kg de peso seco, muitas vezes mais do que o habitual noutros fungos."
+      },
+      ro: {
+        description: "O ciupercă otrăvitoare, ectomicorizică, din pădurile de conifere, cel mai adesea alături de molid. Este cea mai frecventă în nordul Europei, mai ales în Scandinavia, și apare și în unele zone din centrul și estul Europei, în Coreea și în Alaska. Nu a fost semnalată în sudul sau vestul Europei.",
+        cap: "Pălăria are 10–25 cm în diametru, la tinerețe este ovoidală până la rotunjită și învelită într-un văl gălbui, apoi convexă și în cele din urmă plată, la exemplarele bătrâne cu marginea striată. Este galben-brună până la brun-ficatie, mai închisă în centru, lipicioasă pe vreme umedă și lucioasă pe uscat. Este acoperită cu negi crustoși gălbui până la ocru, resturi ale vălului general, adesea în cercuri concentrice neregulate. Cuticula se desprinde aproape până în centru.",
+        hymenium: "Lamelele sunt dese, libere, albe cu o nuanță galben-crem, uneori cu muchia gălbuie. Bazidiile sunt clavate și au la bază copci.",
+        stipe: "Piciorul are 10–20 cm lungime, uneori până la 25 cm, și 1,5–2,5 cm grosime, alb până la slab gălbui, plin la tinerețe și gol la maturitate. Baza este îngroșată într-un bulb cu negi solzoși gălbui, resturi ale volvei. Inelul este atârnat, membranos, alb până la gălbui, nestriat, cu marginea zdrențuită, adesea galben-brună.",
+        flesh: "Carnea este albă, slab gălbuie în picior și galben-aurie până la galben-brună chiar sub cuticula pălăriei. Nu își schimbă culoarea la tăiere, iar mirosul și gustul sunt slabe.",
+        sporePrint: "Alb. Sporii sunt netezi, larg elipsoidali, de circa 9–12 × 7–8 μm, inamiloizi și nu se colorează în albastru cu iod.",
+        habitat: "Corpurile fructifere apar din iulie până în octombrie pe sol, în păduri de conifere și mixte, mai ales în zone de deal și de munte și pe soluri acide. Formează micorize cu molidul, dar și cu pinul și mesteacănul, iar corpurile fructifere cresc uneori în cercuri.",
+        uses: "Otrăvitoare. Conține acid ibotenic și muscimol, ca Amanita muscaria, iar intoxicația este raportată ca fiind mai gravă decât cea cu A. muscaria și comparabilă cu cea cu A. pantherina. Simptomele apar după aproximativ o jumătate de oră până la trei ore și includ greață, vărsături, amețeli, confuzie, halucinații, salivație abundentă și transpirație. Fierberea nu înlătură toxinele.",
+        confusion: "Buretele muștelor (Amanita muscaria) are pălăria roșu aprins. Buretele pestriț (Amanita pantherina) are sub cuticula pălăriei carne albă, iar la baza piciorului un bulb în formă de cupă, cu margine distinctă. Cucul (Amanita rubescens) are sub cuticulă carne albă, care se înroșește la tăiere. Amanita excelsa are pălăria cenușiu-brună, fără pete galbene, lamele albe și inel alb, striat. Parasolul (Macrolepiota procera), cu care a fost adesea confundată, are pe o pălărie mai deschisă solzi închiși la culoare, aderenți, un inel mobil pe picior și nu are resturi de volvă la bază.",
+        notes: "Este rară în cea mai mare parte a arealului și figurează pe listele speciilor amenințate din mai multe țări, printre care Germania, Polonia și Lituania. Rangul ei este disputat: a fost tratată ca varietate a speciei Amanita muscaria, iar studiile moleculare au dat rezultate diferite. Acumulează vanadiu, exemplarele scandinave conțineau circa 38–169 mg per kg de substanță uscată, de multe ori mai mult decât de obicei la alte ciuperci."
+      },
+      ru: {
+        description: "Ядовитый эктомикоризный гриб хвойных лесов, чаще всего растущий вместе с елью. Наиболее обычен в северной Европе, особенно в Скандинавии, а также встречается в отдельных районах центральной и восточной Европы, в Корее и на Аляске. Из южной и западной Европы не сообщался.",
+        cap: "Шляпка диаметром 10–25 см, в молодости яйцевидная или округлая, окутанная желтоватым покрывалом, затем выпуклая и наконец плоская, у старых грибов с бороздчатым краем. Она желтовато-бурая до печёночно-бурой, в центре темнее, во влажную погоду клейкая, в сухую блестящая. Покрыта желтоватыми или охристыми струпьевидными бородавками, остатками общего покрывала, часто расположенными неровными концентрическими кругами. Кожица снимается почти до центра.",
+        hymenium: "Пластинки частые, свободные, белые со сливочно-желтоватым оттенком, иногда с желтоватым краем. Базидии булавовидные, у основания с пряжками.",
+        stipe: "Ножка длиной 10–20 см, иногда до 25 см, толщиной 1,5–2,5 см, белая или слегка желтоватая, в молодости плотная, с возрастом полая. Основание утолщено в клубень с желтоватыми чешуйчатыми бородавками, остатками вольвы. Кольцо свисающее, плёнчатое, белое или желтоватое, без бороздок, с разорванным, часто желтовато-бурым краем.",
+        flesh: "Мякоть белая, в ножке слегка желтоватая, а прямо под кожицей шляпки золотисто-жёлтая до жёлто-бурой. На разрезе цвет не меняет, запах и вкус слабые.",
+        sporePrint: "Белый. Споры гладкие, широко эллипсоидные, около 9–12 × 7–8 мкм, неамилоидные, в йоде не синеют.",
+        habitat: "Плодовые тела появляются с июля по октябрь на земле в хвойных и смешанных лесах, преимущественно в холмистой и горной местности и на кислых почвах. Образует микоризу с елью, а также с сосной и берёзой, плодовые тела иногда растут кругами.",
+        uses: "Ядовит. Содержит иботеновую кислоту и мусцимол, как Amanita muscaria, а отравление, по сообщениям, тяжелее, чем после A. muscaria, и сопоставимо с отравлением A. pantherina. Симптомы начинаются примерно через полчаса — три часа и включают тошноту, рвоту, головокружение, спутанность сознания, галлюцинации, обильное слюноотделение и потливость. Термическая обработка токсины не разрушает.",
+        confusion: "У мухомора красного (Amanita muscaria) ярко-красная шляпка. У мухомора пантерного (Amanita pantherina) под кожицей шляпки белая мякоть, а у основания ножки чашевидный клубень с отчётливым краем. У мухомора серо-розового (Amanita rubescens) под кожицей белая мякоть, краснеющая на разрезе. У Amanita excelsa серовато-бурая шляпка без жёлтых пятен, белые пластинки и белое бороздчатое кольцо. У гриба-зонтика пёстрого (Macrolepiota procera), с которым его часто путали, на более светлой шляпке тёмные приросшие чешуйки, свободно скользящее кольцо и нет остатков вольвы у основания ножки.",
+        notes: "На большей части ареала он редок и внесён в списки угрожаемых видов нескольких стран, в том числе Германии, Польши и Литвы. Его ранг оспаривается: его рассматривали как разновидность Amanita muscaria, а молекулярные исследования дают разные результаты. Накапливает ванадий: в скандинавских образцах его около 38–169 мг на кг сухой массы, во много раз больше обычного для других грибов."
+      },
+      sr: {
+        description: "Отровна ектомикоризна печурка четинарских шума, најчешће уз смрчу. Најчешћа је у северној Европи, посебно у Скандинавији, а јавља се и у деловима средње и источне Европе, у Кореји и на Аљасци. Из јужне и западне Европе није забележена.",
+        cap: "Шешир је пречника 10–25 цм, у младости јајаст до округласт и обавијен жућкастим овојем, затим испупчен и најзад раван, а код старијих примерака са избраздалом ивицом. Жутосмеђ је до јетрено смеђ, у средини тамнији, по влажном времену лепљив, а сув сјајан. Прекривају га жућкасте до окер красте налик брадавицама, остаци општег овоја, често у неправилним концентричним круговима. Кожица се скида готово до средине.",
+        hymenium: "Листићи су густи, слободни, бели са крем жућкастим нијансом, понекад са жућкастом оштрицом. Базидије су батинасте и при дну имају копче.",
+        stipe: "Дршка је дугачка 10–20 цм, понекад до 25 цм, и дебела 1,5–2,5 цм, бела до слабо жућкаста, у младости пуна, а у старости шупља. Подножје је задебљано у кртолу са жућкастим љускавим брадавицама, остацима овојнице. Прстен је висећи, опнаст, бео до жућкаст, неизбраздан, са искиданом, често жутосмеђом ивицом.",
+        flesh: "Месо је бело, у дршци слабо жућкасто, а одмах испод покожице шешира златножуто до жутосмеђе. На пресеку не мења боју, мирис и укус су слаби.",
+        sporePrint: "Бео. Споре су глатке, широко елипсоидне, величине око 9–12 × 7–8 μm, неамилоидне и у јоду не плаве.",
+        habitat: "Плодоносна тела никну од јула до октобра на тлу у четинарским и мешовитим шумама, углавном у брдским и планинским крајевима и на киселим земљиштима. Ствара микоризу са смрчом, али и са бором и брезом, а плодна тела понекад расту у круговима.",
+        uses: "Отровна. Садржи иботенску киселину и мускимол, као и Amanita muscaria, а тровање је, према наводима, теже него након A. muscaria и упоредиво са тровањем врстом A. pantherina. Симптоми почињу после отприлике пола сата до три сата, а укључују мучнину, повраћање, вртоглавицу, збуњеност, халуцинације, обилно лучење пљувачке и знојење. Кување не уклања токсине.",
+        confusion: "Мухара (Amanita muscaria) има јарко црвен шешир. Пантеровка (Amanita pantherina) има испод покожице шешира бело месо, а на дну дршке чашасту кртолу са израженом ивицом. Бисеровка (Amanita rubescens) има испод покожице бело месо које на пресеку поцрвени. Amanita excelsa има сивосмеђ шешир без жутих мрља, беле листиће и бео избраздан прстен. Сунчаница (Macrolepiota procera), са којом су је често мешали, има на светлијем шеширу тамне приљубљене љуске, слободно покретљив прстен и на дну дршке нема остатака овојнице.",
+        notes: "У великом делу подручја распрострањења је ретка и налази се на списковима угрожених врста у неколико земаља, међу њима у Немачкој, Пољској и Литванији. Њен ранг је споран: сматрана је варијететом врсте Amanita muscaria, а молекуларна истраживања дају различите резултате. Накупља ванадијум, скандинавски примерци садржали су га око 38–169 мг по кг суве материје, вишеструко више него што је уобичајено код других гљива."
+      },
+      sl: {
+        description: "Strupena ektomikorizna goba iglastih gozdov, najpogosteje pod smrekami. Najpogostejša je v severni Evropi, zlasti v Skandinaviji, pojavlja pa se tudi v delih srednje in vzhodne Evrope, v Koreji in na Aljaski. Iz južne ali zahodne Evrope ni bila sporočena.",
+        cap: "Klobuk meri 10–25 cm v premeru, v mladosti je jajčast do okrogel in zavit v rumenkasto ovojnico, nato izbočen in naposled raven, pri starejših primerkih z narebrenim robom. Je rumenorjav do jetrnorjav, v sredini temnejši, v vlažnem vremenu lepljiv in v suhem svetleč. Prekrivajo ga rumenkaste do okrasto rjave kraste podobne bradavice, ostanki splošne ovojnice, pogosto v grobih koncentričnih krogih. Kožica se da olupiti skoraj do sredine.",
+        hymenium: "Lističi so gosti, prosti, beli s kremno rumenkastim odtenkom, včasih z rumenkastim robom. Bazidiji so kijasti in imajo ob dnu zaponke.",
+        stipe: "Betu je 10–20 cm dolg, občasno do 25 cm, in 1,5–2,5 cm debel, bel do rahlo rumenkast, v mladosti poln in v starosti votel. Spodnji del je odebeljen v gomolj z rumenkastimi luskastimi bradavicami, ostanki tuljave. Kolobar je viseč, mrenast, bel do rumenkast, nenarebren, z razcefranim, pogosto rumenorjavim robom.",
+        flesh: "Meso je belo, v betu rahlo rumenkasto in tik pod kožico klobuka zlatorumeno do rumenorjavo. Ob prerezu ne spremeni barve, vonj in okus sta šibka.",
+        sporePrint: "Bel. Trosi so gladki, široko elipsoidni, veliki približno 9–12 × 7–8 μm, neamiloidni in se z jodom ne obarvajo modro.",
+        habitat: "Trosnjaki rastejo od julija do oktobra na tleh v iglastih in mešanih gozdovih, večinoma v hribovitih in gorskih krajih ter na kislih tleh. Tvori mikorizo s smreko, pa tudi z borom in brezo, trosnjaki pa včasih rastejo v krogih.",
+        uses: "Strupena. Vsebuje ibotensko kislino in muscimol, tako kot Amanita muscaria, zastrupitev pa naj bi bila hujša kot po A. muscaria in primerljiva z zastrupitvijo z A. pantherina. Znaki se pojavijo čez približno pol ure do tri ure in vključujejo slabost, bruhanje, vrtoglavico, zmedenost, halucinacije, močno slinjenje in potenje. Kuhanje toksinov ne odstrani.",
+        confusion: "Rdeča mušnica (Amanita muscaria) ima živo rdeč klobuk. Panterjeva mušnica (Amanita pantherina) ima pod kožico klobuka belo meso, na dnu beta pa kupast gomolj z izrazitim robom. Rdečkasta mušnica (Amanita rubescens) ima pod kožico belo meso, ki se ob prerezu rdeči. Amanita excelsa ima sivorjav klobuk brez rumenih peg, bele lističe in bel narebren kolobar. Orjaški dežnik (Macrolepiota procera), s katerim so jo pogosto zamenjevali, ima na svetlejšem klobuku temne priraščene luske, prosto premakljiv kolobar in na dnu beta nima ostankov tuljave.",
+        notes: "V večjem delu območja razširjenosti je redka in je na seznamih ogroženih vrst več držav, med njimi Nemčije, Poljske in Litve. Njen rang je sporen: obravnavali so jo kot varieteto vrste Amanita muscaria, molekularne raziskave pa dajejo različne rezultate. Kopiči vanadij, skandinavski primerki so ga vsebovali približno 38–169 mg na kg suhe snovi, večkrat več kot običajno pri drugih gobah."
+      },
+      es: {
+        description: "Un hongo venenoso ectomicorrícico de los bosques de coníferas, casi siempre asociado al abeto rojo. Es más frecuente en el norte de Europa, sobre todo en Escandinavia, y también se encuentra en algunas zonas de Europa central y oriental, en Corea y en Alaska. No se ha citado en el sur ni en el oeste de Europa.",
+        cap: "El sombrero mide de 10 a 25 cm de diámetro, de joven es ovoide a redondeado y está envuelto en un velo amarillento, luego convexo y por fin plano, con el margen estriado en los ejemplares viejos. Es pardo amarillento a pardo hígado, más oscuro en el centro, viscoso con humedad y brillante en seco. Está cubierto de verrugas costrosas amarillentas a ocres, restos del velo universal, a menudo en círculos concéntricos irregulares. La cutícula se separa casi hasta el centro.",
+        hymenium: "Las láminas son apretadas, libres, blancas con un matiz amarillo crema, a veces con el filo amarillento. Los basidios son claviformes y tienen fíbulas en la base.",
+        stipe: "El pie mide de 10 a 20 cm de largo, a veces hasta 25 cm, y de 1,5 a 2,5 cm de grosor, es blanco a débilmente amarillento, macizo de joven y hueco con la edad. La base se ensancha en un bulbo con verrugas escamosas amarillentas, restos de la volva. El anillo es colgante, membranoso, blanco a amarillento, sin estrías, con el borde desgarrado y a menudo pardo amarillento.",
+        flesh: "La carne es blanca, débilmente amarillenta en el pie y de amarillo dorado a pardo amarillento justo bajo la cutícula del sombrero. No cambia de color al cortarla, y el olor y el sabor son débiles.",
+        sporePrint: "Blanca. Las esporas son lisas, anchamente elipsoidales, de unos 9–12 × 7–8 μm, inamiloides, y no se tiñen de azul con yodo.",
+        habitat: "Los carpóforos aparecen de julio a octubre en el suelo de bosques de coníferas y mixtos, sobre todo en zonas de colinas y montaña y en suelos ácidos. Forma micorrizas con el abeto rojo, y también con pino y abedul, y los carpóforos a veces crecen en corros.",
+        uses: "Venenosa. Contiene ácido iboténico y muscimol, como Amanita muscaria, y se informa de que la intoxicación es más grave que la causada por A. muscaria y comparable a la de A. pantherina. Los síntomas empiezan a los treinta minutos o hasta tres horas y comprenden náuseas, vómitos, mareos, confusión, alucinaciones, salivación abundante y sudoración. La cocción no elimina las toxinas.",
+        confusion: "La matamoscas (Amanita muscaria) tiene el sombrero rojo vivo. La amanita pantera (Amanita pantherina) tiene la carne blanca bajo la cutícula y un bulbo en forma de copa con un borde marcado. La amanita vinosa (Amanita rubescens) tiene la carne blanca bajo la cutícula, que se enrojece al cortarla. Amanita excelsa tiene el sombrero gris pardo sin manchas amarillas, láminas blancas y un anillo blanco y estriado. El parasol (Macrolepiota procera), con el que a menudo se ha confundido, tiene escamas oscuras adheridas sobre un sombrero más claro, un anillo móvil sobre el pie y ningún resto de volva en la base.",
+        notes: "Es rara en gran parte de su área y figura en listas de especies amenazadas de varios países, entre ellos Alemania, Polonia y Lituania. Su rango es discutido: se ha tratado como variedad de Amanita muscaria, y los estudios moleculares han dado resultados diferentes. Acumula vanadio; los ejemplares escandinavos contenían unos 38–169 mg por kg de peso seco, muchas veces más de lo habitual en otros hongos."
+      },
+      sv: {
+        description: "En giftig, ektomykorrhizabildande svamp i barrskog, oftast med gran. Den är vanligast i norra Europa, särskilt Skandinavien, och förekommer också i delar av Central- och Östeuropa, i Korea och i Alaska. Den har inte rapporterats från södra eller västra Europa.",
+        cap: "Hatten är 10–25 cm bred, som ung äggformad till rundad och insvept i ett gulaktigt hölje, sedan välvd och till slut flat, på äldre hattar med refflad kant. Den är gulbrun till leverbrun, mörkare i mitten, kladdig när den är fuktig och blank när den är torr. Den är täckt av gulaktiga till ockrafärgade skorviga vårtor, rester av yttre höljet, ofta i ungefärliga koncentriska ringar. Hatthuden går att dra av nästan till mitten.",
+        hymenium: "Skivorna är tätt sittande, fria, vita med en gräddgul ton, ibland med gulaktig egg. Basidierna är klubbformade och har söljor vid basen.",
+        stipe: "Foten är 10–20 cm lång, ibland upp till 25 cm, och 1,5–2,5 cm tjock, vit till svagt gulaktig, som ung fylld och när den åldras ihålig. Basen är utvidgad till en knöl med gulaktiga fjälliga vårtor, rester av slidan. Ringen är hängande, hinnartad, vit till gulaktig, orefflad och har en fransig, ofta gulbrun kant.",
+        flesh: "Köttet är vitt, svagt gulaktigt i foten och guldgult till gulbrunt strax under hatthuden. Det ändrar inte färg när det skärs, och lukt och smak är svaga.",
+        sporePrint: "Vitt. Sporerna är släta, brett ellipsoida, ungefär 9–12 × 7–8 μm, inamyloida och blir inte blå i jod.",
+        habitat: "Fruktkropparna kommer från juli till oktober på marken i barr- och blandskog, mest i kuperad terräng och bergstrakter och på sur mark. Den bildar mykorrhiza med gran, men också med tall och björk, och fruktkropparna växer ibland i ringar.",
+        uses: "Giftig. Den innehåller ibotensyra och muscimol, liksom Amanita muscaria, och förgiftning uppges vara allvarligare än av A. muscaria och jämförbar med den av A. pantherina. Symtomen börjar inom ungefär en halvtimme till tre timmar och omfattar illamående, kräkningar, yrsel, förvirring, hallucinationer, kraftig salivavsöndring och svettningar. Tillagning tar inte bort gifterna.",
+        confusion: "Röd flugsvamp (Amanita muscaria) har en klarröd hatt. Panterflugsvamp (Amanita pantherina) har vitt kött under hatthuden och en bägarformad knöl med tydlig kant. Rodnande flugsvamp (Amanita rubescens) har vitt kött under hatthuden som rodnar när det skärs. Amanita excelsa har en gråbrun hatt utan gula fläckar, vita skivor och en vit, refflad ring. Stolt fjällskivling (Macrolepiota procera), som den ofta har förväxlats med, har mörka, fastsittande fjäll på en ljusare hatt, en ring som kan flyttas fritt på foten och inga slidrester vid basen.",
+        notes: "I Sverige är den vanlig i större delen av landet men sällsynt i Norrbotten, Skåne, Blekinge, Smålandskusten, Öland och Gotland. I stora delar av utbredningsområdet är den sällsynt, och den finns på listor över hotade arter i flera länder, bland annat Tyskland, Polen och Litauen. Dess rang är omdiskuterad: den har behandlats som en varietet av Amanita muscaria, och molekylära studier har gett olika resultat. Den ackumulerar vanadin, och skandinaviska exemplar innehöll ungefär 38–169 mg per kg torrvikt, många gånger mer än vanligt hos andra svampar."
+      },
+      tr: {
+        description: "İğne yapraklı ormanlarda, çoğunlukla ladinle birlikte yaşayan zehirli bir ektomikorizal mantar. En çok Kuzey Avrupa'da, özellikle İskandinavya'da görülür, ayrıca orta ve doğu Avrupa'nın bazı bölgelerinde, Kore'de ve Alaska'da bulunur. Güney ya da batı Avrupa'dan bildirilmemiştir.",
+        cap: "Şapka 10–25 cm çapındadır, gençken yumurta biçimli ile yuvarlak arasındadır ve sarımsı bir örtüyle sarılıdır, sonra dışbükey, en sonunda düzdür, yaşlı şapkalarda kenar oluklu olur. Sarımsı kahverengiden karaciğer kahverengisine kadar değişir, ortada daha koyudur, ıslakken yapışkan, kuruyken parlaktır. Üzeri, genel örtünün kalıntıları olan, sarımsıdan okra kadar değişen kabuklu siğillerle kaplıdır ve bunlar çoğu zaman düzensiz eş merkezli halkalar oluşturur. Şapka derisi neredeyse merkeze kadar soyulur.",
+        hymenium: "Lameller sıktır, serbesttir, krem sarısı bir tonla beyazdır, bazen kenarı sarımsıdır. Bazidyumlar topuz biçimlidir ve tabanlarında kopça bağlantıları vardır.",
+        stipe: "Sap 10–20 cm uzunluğunda, bazen 25 cm'ye kadar, 1,5–2,5 cm kalınlığındadır, beyazdan hafif sarımsıya kadar değişir, gençken dolu, yaşlandıkça boştur. Taban, volva kalıntısı olan sarımsı pullu siğillerle kaplı bir yumruya doğru şişer. Halka sarkık, zar gibi, beyazdan sarımsıya, oluksuzdur; kenarı parçalı ve çoğunlukla sarımsı kahverengidir.",
+        flesh: "Et beyazdır, sapta hafif sarımsıdır ve şapka derisinin hemen altında altın sarısından sarımsı kahverengiye kadar değişir. Kesildiğinde rengi değişmez, kokusu ve tadı zayıftır.",
+        sporePrint: "Beyaz. Sporlar pürüzsüz, geniş elipsoit biçimli, yaklaşık 9–12 × 7–8 μm boyutundadır, amiloid değildir ve iyotla maviye dönmez.",
+        habitat: "Meyve gövdeleri Temmuz'dan Ekim'e kadar toprakta, iğne yapraklı ve karışık ormanlarda, çoğunlukla tepelik ve dağlık yerlerde ve asidik topraklarda görülür. Ladinle, ayrıca çam ve huşla mikoriza oluşturur; meyve gövdeleri bazen halkalar hâlinde büyür.",
+        uses: "Zehirlidir. Amanita muscaria gibi ibotenik asit ve muskimol içerir; zehirlenmenin A. muscaria zehirlenmesinden daha ağır ve A. pantherina zehirlenmesine benzer olduğu bildirilmiştir. Belirtiler yaklaşık yarım saat ile üç saat içinde başlar; bulantı, kusma, baş dönmesi, kafa karışıklığı, halüsinasyonlar, aşırı tükürük salgılanması ve terleme görülür. Pişirmek zehirleri gidermez.",
+        confusion: "Sinek mantarı (Amanita muscaria) parlak kırmızı şapkalıdır. Panter mantarı (Amanita pantherina) şapka derisinin altında beyaz ete ve sap tabanında belirgin kenarlı, kadeh biçimli bir yumruya sahiptir. Kızaran gelin mantarı (Amanita rubescens) deri altında, kesilince kızaran beyaz ete sahiptir. Amanita excelsa gri kahverengi, sarı lekesiz bir şapkaya, beyaz lamellere ve beyaz, oluklu bir halkaya sahiptir. Sıklıkla karıştırılan şemsiye mantarı (Macrolepiota procera) daha açık renkli şapkasında koyu, yapışık pullara, sap üzerinde serbestçe kayan bir halkaya sahiptir ve tabanında volva kalıntısı yoktur.",
+        notes: "Yayılış alanının büyük bölümünde nadirdir ve Almanya, Polonya ve Litvanya dahil birçok ülkede tehdit altındaki türler listesinde yer alır. Sıralaması tartışmalıdır: Amanita muscaria'nın bir varyetesi olarak ele alınmıştır ve moleküler çalışmalar farklı sonuçlar vermiştir. Vanadyum biriktirir; İskandinav örneklerinde kuru ağırlıkta kg başına yaklaşık 38–169 mg bulunmuştur, bu da diğer mantarlardaki olağan düzeyin kat kat üzerindedir."
+      },
+      uk: {
+        description: "Отруйний ектомікоризний гриб хвойних лісів, найчастіше з ялиною. Найпоширеніший у північній Європі, особливо в Скандинавії, а також трапляється в окремих районах центральної та східної Європи, у Кореї та на Алясці. З південної та західної Європи не повідомлявся.",
+        cap: "Капелюшок діаметром 10–25 см, у молодості яйцеподібний або округлий, огорнутий жовтуватим покривалом, потім опуклий і нарешті плоский, у старих плодових тіл із борозенчастим краєм. Він жовтувато-бурий до печінково-бурого, у центрі темніший, у вологу погоду клейкий, у суху блискучий. Вкритий жовтуватими або охристими струпоподібними бородавками, залишками загального покривала, часто розташованими нерівними концентричними колами. Шкірка знімається майже до центру.",
+        hymenium: "Пластинки часті, вільні, білі з кремово-жовтуватим відтінком, іноді з жовтуватим краєм. Базидії булавоподібні, біля основи з пряжками.",
+        stipe: "Ніжка завдовжки 10–20 см, іноді до 25 см, завтовшки 1,5–2,5 см, біла або трохи жовтувата, у молодості щільна, з віком порожниста. Основа потовщена в бульбу з жовтуватими лусочкоподібними бородавками, залишками вольви. Кільце звисаюче, плівчасте, біле або жовтувате, без борозенок, із розірваним, часто жовтувато-бурим краєм.",
+        flesh: "М'якуш білий, у ніжці трохи жовтуватий, а безпосередньо під шкіркою капелюшка золотисто-жовтий до жовто-бурого. На зрізі колір не змінює, запах і смак слабкі.",
+        sporePrint: "Білий. Спори гладенькі, широко еліпсоїдні, близько 9–12 × 7–8 мкм, неамілоїдні, у йоді не синіють.",
+        habitat: "Плодові тіла з'являються з липня по жовтень на ґрунті в хвойних і мішаних лісах, переважно в пагорбистій і гірській місцевості та на кислих ґрунтах. Утворює мікоризу з ялиною, а також із сосною та березою, плодові тіла іноді ростуть колами.",
+        uses: "Отруйний. Містить іботенову кислоту й мусцимол, як Amanita muscaria, а отруєння, за повідомленнями, важче, ніж після A. muscaria, і порівнянне з отруєнням A. pantherina. Симптоми починаються приблизно через пів години — три години й охоплюють нудоту, блювання, запаморочення, сплутаність свідомості, галюцинації, рясне слиновиділення та пітливість. Термічна обробка токсини не руйнує.",
+        confusion: "У мухомора червоного (Amanita muscaria) яскраво-червоний капелюшок. У мухомора пантерного (Amanita pantherina) під шкіркою капелюшка білий м'якуш, а біля основи ніжки чашоподібна бульба з виразним краєм. У мухомора сіро-рожевого (Amanita rubescens) під шкіркою білий м'якуш, що червоніє на зрізі. У Amanita excelsa сіро-бурий капелюшок без жовтих плям, білі пластинки та біле борозенчасте кільце. У гриба-зонтика великого (Macrolepiota procera), з яким його часто плутали, на світлішому капелюшку темні приросли лусочки, вільно ковзне кільце й немає залишків вольви біля основи ніжки.",
+        notes: "На більшій частині ареалу він рідкісний і внесений до списків видів під загрозою в кількох країнах, зокрема в Німеччині, Польщі та Литві. Його ранг дискусійний: його розглядали як різновид Amanita muscaria, а молекулярні дослідження дають різні результати. Накопичує ванадій: у скандинавських зразках його близько 38–169 мг на кг сухої маси, у багато разів більше, ніж зазвичай в інших грибах."
+      }
+    },
+    sources: {
+      en: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://en.wikipedia.org/wiki/Amanita_regalis"
+        },
+        {
+          "group": "text",
+          "name": "de.wikipedia",
+          "href": "https://de.wikipedia.org/wiki/K%C3%B6nigs-Fliegenpilz"
+        },
+        {
+          "group": "text",
+          "name": "pl.wikipedia",
+          "href": "https://pl.wikipedia.org/wiki/Muchomor_kr%C3%B3lewski"
+        },
+        {
+          "group": "text",
+          "name": "Ruokavirasto",
+          "href": "https://www.ruokavirasto.fi/elintarvikkeet/ohjeita-kuluttajille/turvallisen-kayton-ohjeet/ruokasienet/myrkylliset-sienet/ruskokarpassieni/"
+        },
+        {
+          "group": "name",
+          "name": "Index Fungorum",
+          "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=454253",
+          "detail": "454253"
+        },
+        {
+          "group": "name",
+          "name": "Species Fungorum",
+          "href": "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=454253",
+          "detail": "454253"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5240248",
+          "detail": "5240248"
+        }
+      ],
+      sk: [
+        {
+          "group": "text",
+          "name": "nahuby.sk",
+          "href": "https://www.nahuby.sk/atlas-hub/Amanita-regalis/muchotravka-kralovska/-/ID291",
+          "detail": "muchotrávka kráľovská"
+        }
+      ],
+      ar: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5240248",
+          "detail": "5240248"
+        }
+      ],
+      bg: [
+        {
+          "group": "text",
+          "name": "Уикипедия",
+          "href": "https://bg.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D0%BB%D1%81%D0%BA%D0%B0_%D0%BC%D1%83%D1%85%D0%BE%D0%BC%D0%BE%D1%80%D0%BA%D0%B0"
+        }
+      ],
+      zh: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5240248",
+          "detail": "5240248"
+        }
+      ],
+      hr: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5240248",
+          "detail": "5240248"
+        }
+      ],
+      cs: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://cs.wikipedia.org/wiki/Muchom%C5%AFrka_kr%C3%A1lovsk%C3%A1"
+        },
+        {
+          "group": "text",
+          "name": "Česká mykologická společnost",
+          "href": "https://www.myko.cz/myko-atlas/Amanita-regalis/"
+        }
+      ],
+      da: [
+        {
+          "group": "name",
+          "name": "De danske svampenavne (2003)",
+          "href": "https://www.mycokey.com/MycokeyDK/DKkeysPDFs/DeDanskeSvampenavne.pdf"
+        }
+      ],
+      nl: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5240248",
+          "detail": "5240248"
+        }
+      ],
+      et: [
+        {
+          "group": "text",
+          "name": "Vikipeedia",
+          "href": "https://et.wikipedia.org/wiki/Kuning-k%C3%A4rbseseen"
+        }
+      ],
+      fi: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://fi.wikipedia.org/wiki/Ruskok%C3%A4rp%C3%A4ssieni"
+        },
+        {
+          "group": "text",
+          "name": "Ruokavirasto",
+          "href": "https://www.ruokavirasto.fi/elintarvikkeet/ohjeita-kuluttajille/turvallisen-kayton-ohjeet/ruokasienet/myrkylliset-sienet/ruskokarpassieni/"
+        },
+        {
+          "group": "name",
+          "name": "Suomen Lajitietokeskus",
+          "href": "https://laji.fi/taxon/MX.72358"
+        }
+      ],
+      fr: [
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://fr.wikipedia.org/wiki/Amanita_regalis"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5240248",
+          "detail": "5240248"
+        }
+      ],
+      de: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://de.wikipedia.org/wiki/K%C3%B6nigs-Fliegenpilz"
+        },
+        {
+          "group": "text",
+          "name": "Pilze Deutschland",
+          "href": "https://www.pilze-deutschland.de/organismen/amanita-muscaria-var-regalis-fr-sacc-1887-1"
+        }
+      ],
+      he: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5240248",
+          "detail": "5240248"
+        }
+      ],
+      hi: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5240248",
+          "detail": "5240248"
+        }
+      ],
+      hu: [
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://hu.wikipedia.org/wiki/Barna_gal%C3%B3ca"
+        }
+      ],
+      id: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5240248",
+          "detail": "5240248"
+        }
+      ],
+      it: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5240248",
+          "detail": "5240248"
+        }
+      ],
+      ja: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5240248",
+          "detail": "5240248"
+        }
+      ],
+      ko: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5240248",
+          "detail": "5240248"
+        }
+      ],
+      lv: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://lv.wikipedia.org/wiki/Br%C5%ABn%C4%81_mu%C5%A1mire"
+        },
+        {
+          "group": "name",
+          "name": "Latvijas makroskopisko bazīdijsēņu konspekts (2024)",
+          "href": "https://www.silava.lv/images/articles/Latvijas-Vegetacija/2024-34/2024-LatVeg-34.pdf"
+        }
+      ],
+      lt: [
+        {
+          "group": "name",
+          "name": "Lietuvos makroskopinių grybų ir kerpių sąvadas (2024)",
+          "href": "https://gamtostyrimai.lt/wp-content/uploads/2024/12/2024_Grybu_savadas_web.pdf"
+        }
+      ],
+      no: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://no.wikipedia.org/wiki/Brun_fluesopp"
+        },
+        {
+          "group": "name",
+          "name": "Normlisten 2024, NSNF",
+          "href": "https://soppognyttevekster.no/wp-content/uploads/2024/05/NORMLISTEN-I-WEBFORMAT-2024.pdf"
+        }
+      ],
+      fa: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5240248",
+          "detail": "5240248"
+        }
+      ],
+      pl: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://pl.wikipedia.org/wiki/Muchomor_kr%C3%B3lewski"
+        }
+      ],
+      pt: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://pt.wikipedia.org/wiki/Amanita_regalis"
+        }
+      ],
+      ro: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://ro.wikipedia.org/wiki/Amanita_regalis"
+        }
+      ],
+      ru: [
+        {
+          "group": "text",
+          "name": "Википедия",
+          "href": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%85%D0%BE%D0%BC%D0%BE%D1%80_%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5240248",
+          "detail": "5240248"
+        }
+      ],
+      sr: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5240248",
+          "detail": "5240248"
+        }
+      ],
+      sl: [
+        {
+          "group": "name",
+          "name": "Operativni seznam gliv Slovenije (MZS, 2013)",
+          "href": "https://www.zdravgozd.si/dat/gradivo/22.pdf"
+        }
+      ],
+      es: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://es.wikipedia.org/wiki/Amanita_regalis"
+        }
+      ],
+      sv: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://sv.wikipedia.org/wiki/Brun_flugsvamp"
+        }
+      ],
+      tr: [
+        {
+          "group": "text",
+          "name": "Vikipedi",
+          "href": "https://tr.wikipedia.org/wiki/Amanita_regalis"
+        }
+      ],
+      uk: [
+        {
+          "group": "text",
+          "name": "Вікіпедія",
+          "href": "https://uk.wikipedia.org/wiki/%D0%9C%D1%83%D1%85%D0%BE%D0%BC%D0%BE%D1%80_%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5240248",
+          "detail": "5240248"
+        }
+      ]
+    },
+    synonyms: [
+      "Amanita umbrina Pers.",
+      "Amanita emilii Riel"
     ]
   }
 ];
