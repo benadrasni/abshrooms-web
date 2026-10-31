@@ -1,6 +1,8 @@
-// One same-origin /cdn-cgi/trace reports an ISO country code. GB is the United Kingdom.
-// It works only while the site is proxied. A missing trace, Tor, or an anonymous
-// proxy must ask, so collection stays off.
+// /cdn-cgi/trace reports an ISO country code. GB is the United Kingdom.
+// Same-origin works only while the site is proxied. A later body can supply
+// the country. A missing trace, Tor, or an anonymous proxy must ask, so
+// collection stays off. A known country outside the EEA, the UK, and
+// Switzerland loads with no question.
 
 const CONSENT_COUNTRIES = new Set([
   'AT', 'BE', 'BG', 'HR', 'CY', 'CZ', 'DK', 'EE', 'FI', 'FR', 'DE', 'GR',
@@ -18,6 +20,15 @@ export function parseCloudflareTrace(text) {
   if (body.includes('<')) return '';
   const match = body.match(/(?:^|\n)loc=([A-Za-z0-9]{2})(?:\r?\n|$)/);
   return match ? match[1].toUpperCase() : '';
+}
+
+/** First usable country. Later bodies are fallbacks, not overrides. */
+export function countryFromTraces(bodies) {
+  for (const body of bodies || []) {
+    const loc = parseCloudflareTrace(body);
+    if (loc) return loc;
+  }
+  return '';
 }
 
 export function decisionFor({ choice, loc }) {

@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict';
 import { mock, test } from 'node:test';
 import { COPY, parse, viewModel } from '../catalog.js';
-import { decisionFor, parseCloudflareTrace } from '../src/analyticsConsent.mjs';
+import { countryFromTraces, decisionFor, parseCloudflareTrace } from '../src/analyticsConsent.mjs';
 import { analyticsLocation } from '../src/identifyQuery.mjs';
 import {
   allowAnalytics,
@@ -49,6 +49,15 @@ test('one trace body is a country, catalog HTML, or empty', () => {
   assert.equal(parseCloudflareTrace('loc=SK\n'), 'SK');
   assert.equal(parseCloudflareTrace(missing), '');
   assert.equal(parseCloudflareTrace(''), '');
+});
+
+test('the first usable country wins', () => {
+  const missing = '<!DOCTYPE html><title>That page is not in the catalog.</title>';
+  const cloudflare = 'h=www.cloudflare.com\nloc=US\n';
+  assert.equal(countryFromTraces([missing, cloudflare]), 'US');
+  assert.equal(countryFromTraces(['loc=SK\n', cloudflare]), 'SK');
+  assert.equal(countryFromTraces([missing, '']), '');
+  assert.equal(countryFromTraces([missing]), '');
 });
 
 test('EEA, UK, and Switzerland ask before collection', () => {
@@ -140,6 +149,7 @@ test('privacy buttons stay unpressed until a choice is stored', () => {
 });
 
 const GA_DISABLE = 'ga-disable-G-HNL4783D4F';
+const TRACE_URLS = ['/cdn-cgi/trace', 'https://www.cloudflare.com/cdn-cgi/trace'];
 
 function installSurface() {
   const written = [];
@@ -304,7 +314,7 @@ function cookieDoc(written) {
   return doc;
 }
 
-async function bootFresh(id, { stored = '', trace, fail = false, hang = false, ok = true } = {}) {
+async function bootFresh(id, { stored = '', trace, traces, fail = false, hang = false, ok = true } = {}) {
   const written = [];
   const urls = [];
   const doc = cookieDoc(written);
@@ -327,12 +337,15 @@ async function bootFresh(id, { stored = '', trace, fail = false, hang = false, o
     fetchCalls += 1;
     const target = String(url);
     urls.push(target);
-    if (target !== '/cdn-cgi/trace') return Promise.reject(new Error('unexpected ' + target));
+    if (!TRACE_URLS.includes(target)) return Promise.reject(new Error('unexpected ' + target));
     if (hang) return new Promise(() => {});
     if (fail) return Promise.reject(new Error('trace'));
+    const spec = traces && Object.prototype.hasOwnProperty.call(traces, target) ? traces[target] : trace;
+    const responseOk = spec && typeof spec === 'object' ? spec.ok !== false : ok;
+    const body = spec && typeof spec === 'object' ? spec.body : spec;
     return Promise.resolve({
-      ok,
-      text: async () => trace || '',
+      ok: responseOk,
+      text: async () => body || '',
     });
   };
   const analytics = await import(new URL('../src/analytics.js?boot=' + id, import.meta.url));
@@ -368,12 +381,12 @@ test('boot sends stored denial, an EU region, a timeout, and a trace error throu
   const europe = await bootFresh('eu', { trace: 'loc=DE\n' });
   assert.deepEqual(europe.analytics.analyticsState(), { ready: true, on: false, ask: true, choice: '' });
   assert.equal(window[GA_DISABLE], true);
-  assert.deepEqual(europe.urls(), ['/cdn-cgi/trace']);
+  assert.deepEqual(europe.urls(), TRACE_URLS);
   assertCleared(europe.written);
 
   const broken = await bootFresh('error', { fail: true });
   assert.deepEqual(broken.analytics.analyticsState(), { ready: true, on: false, ask: true, choice: '' });
-  assert.deepEqual(broken.urls(), ['/cdn-cgi/trace']);
+  assert.deepEqual(broken.urls(), TRACE_URLS);
   assertCleared(broken.written);
 
   mock.timers.enable({ apis: ['setTimeout'] });
@@ -398,10 +411,10 @@ test('boot sends stored denial, an EU region, a timeout, and a trace error throu
   await new Promise((resolve) => setImmediate(resolve));
   assert.deepEqual(late.analyticsState(), { ready: true, on: false, ask: true, choice: '' });
   assert.equal(window[GA_DISABLE], true);
-  assert.deepEqual(lateUrls, ['/cdn-cgi/trace']);
+  assert.deepEqual(lateUrls, TRACE_URLS);
 });
 
-test('a failed same-origin trace asks and stays off without the public Cloudflare trace', async (t) => {
+test('a failed same-origin trace uses the public country and does not ask outside the consent region', async (t) => {
   t.after(() => {
     delete globalThis.window;
     delete globalThis.document;
@@ -413,16 +426,44 @@ test('a failed same-origin trace asks and stays off without the public Cloudflar
   const notOk = await bootFresh('not-ok', { trace: 'loc=US\n', ok: false });
   assert.deepEqual(notOk.analytics.analyticsState(), { ready: true, on: false, ask: true, choice: '' });
   assert.equal(window[GA_DISABLE], true);
-  assert.deepEqual(notOk.urls(), ['/cdn-cgi/trace']);
+  assert.deepEqual(notOk.urls(), TRACE_URLS);
   assertCleared(notOk.written);
 
   const html = await bootFresh('html', { trace: missing });
   assert.deepEqual(html.analytics.analyticsState(), { ready: true, on: false, ask: true, choice: '' });
-  assert.deepEqual(html.urls(), ['/cdn-cgi/trace']);
+  assert.deepEqual(html.urls(), TRACE_URLS);
   assertCleared(html.written);
 
   const united = await bootFresh('us', { trace: 'loc=US\nip=203.0.113.8\n' });
   assert.deepEqual(united.analytics.analyticsState(), { ready: true, on: true, ask: false, choice: '' });
-  assert.deepEqual(united.urls(), ['/cdn-cgi/trace']);
+  assert.deepEqual(united.urls(), TRACE_URLS);
   assert.equal(united.written.length, 0);
+
+  const rescued = await bootFresh('rescued', {
+    traces: {
+      '/cdn-cgi/trace': missing,
+      'https://www.cloudflare.com/cdn-cgi/trace': 'h=www.cloudflare.com\nloc=US\n',
+    },
+  });
+  assert.deepEqual(rescued.analytics.analyticsState(), { ready: true, on: true, ask: false, choice: '' });
+  assert.deepEqual(rescued.urls(), TRACE_URLS);
+  assert.equal(rescued.written.length, 0);
+
+  const britain = await bootFresh('britain', {
+    traces: {
+      '/cdn-cgi/trace': { ok: false, body: '' },
+      'https://www.cloudflare.com/cdn-cgi/trace': 'loc=GB\n',
+    },
+  });
+  assert.deepEqual(britain.analytics.analyticsState(), { ready: true, on: false, ask: true, choice: '' });
+  assertCleared(britain.written);
+
+  const sameOrigin = await bootFresh('same-origin', {
+    traces: {
+      '/cdn-cgi/trace': 'loc=DE\n',
+      'https://www.cloudflare.com/cdn-cgi/trace': 'loc=US\n',
+    },
+  });
+  assert.deepEqual(sameOrigin.analytics.analyticsState(), { ready: true, on: false, ask: true, choice: '' });
+  assertCleared(sameOrigin.written);
 });

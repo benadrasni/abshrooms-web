@@ -1,4 +1,4 @@
-import { decisionFor, parseCloudflareTrace } from './analyticsConsent.mjs';
+import { countryFromTraces, decisionFor } from './analyticsConsent.mjs';
 import { analyticsLocation } from './identifyQuery.mjs';
 
 // Web-only property whatsthatmushroom.app. Android and iOS stay on abshrooms-a9d4c.
@@ -296,12 +296,30 @@ export function trackSister(place) {
   });
 }
 
-// Same-origin only. www.cloudflare.com/cdn-cgi/trace answers with the visitor
-// IP and must not run before consent. A failed or empty trace asks and stays off.
-async function readRegion() {
-  const response = await fetch('/cdn-cgi/trace', { cache: 'no-store', credentials: 'omit' });
+// Same-origin /cdn-cgi/trace is the catalog 404 until the apex is proxied.
+// www.cloudflare.com answers with the visitor country and allows any origin.
+// A missing country still asks and stays off. A known country outside the
+// EEA, the UK, and Switzerland loads with no question.
+const TRACE_URLS = ['/cdn-cgi/trace', 'https://www.cloudflare.com/cdn-cgi/trace'];
+const TRACE_TIMEOUT_MS = 2000;
+
+async function readTrace(url) {
+  const response = await fetch(url, { cache: 'no-store', credentials: 'omit' });
   if (!response.ok) return '';
-  return parseCloudflareTrace(await response.text());
+  return response.text();
+}
+
+function readTraceLimited(url) {
+  const timeout = new Promise((resolve) => {
+    setTimeout(() => resolve(''), TRACE_TIMEOUT_MS);
+  });
+  return Promise.race([readTrace(url).catch(() => ''), timeout]);
+}
+
+async function readRegion() {
+  // A hung catalog 404 must not block the public trace.
+  const bodies = await Promise.all(TRACE_URLS.map(readTraceLimited));
+  return countryFromTraces(bodies);
 }
 
 function boot() {
