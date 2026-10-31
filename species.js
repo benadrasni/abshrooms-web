@@ -71119,5 +71119,941 @@ export const CATALOG = [
       "Geastrum vulgare Corda",
       "Geastrum decaryi Pat."
     ]
+  },
+  {
+    id: 89,
+    name: "Lactarius lignyotus",
+    author: "Fr.",
+    family: "Russulaceae",
+    genus: "Lactarius",
+    order: "Russulales",
+    edibility: "edible",
+    hymenium: "gills",
+    where: [
+      "ground"
+    ],
+    color: [
+      "brown",
+      "dark"
+    ],
+    path: [
+      "Fungi",
+      "Dikarya",
+      "Basidiomycota",
+      "Agaricomycotina",
+      "Agaricomycetes",
+      "Incertae sedis",
+      "Russulales",
+      "Russulaceae",
+      "Lactarius"
+    ],
+    summary: ["Russulales", "Russulaceae", "Lactarius"],
+    added: "2026-10-31",
+    plate: STORAGE + "photos/Russulales/Russulaceae/Lactarius_lignyotus/Lactarius_lignyotus@1600.webp",
+    plateGrid: STORAGE + "photos/Russulales/Russulaceae/Lactarius_lignyotus/Lactarius_lignyotus@400.webp",
+    plateCredit: {
+      author: "New York State Museum",
+      license: "No restrictions",
+      source: "https://commons.wikimedia.org/wiki/File:Annual_report_(1910)_(14779639022).jpg"
+    },
+    photos: [
+      {
+        src: STORAGE + "photos/Russulales/Russulaceae/Lactarius_lignyotus/ll1.webp",
+        author: "Gerhard Koller (Gerhard)",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:2008-07-11_Lactarius_lignyotus_Fr_41556.jpg"
+      },
+      {
+        src: STORAGE + "photos/Russulales/Russulaceae/Lactarius_lignyotus/ll2.webp",
+        author: "Pilzvereins der Region Baden",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Lactarius_ligniotus.jpg"
+      },
+      {
+        src: STORAGE + "photos/Russulales/Russulaceae/Lactarius_lignyotus/ll3.webp",
+        author: "natureluvr01",
+        license: "CC BY 2.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/2.0",
+        source: "https://commons.wikimedia.org/wiki/File:Lactarius_lignyotus_(7996922924).jpg"
+      },
+      {
+        src: STORAGE + "photos/Russulales/Russulaceae/Lactarius_lignyotus/ll4.webp",
+        author: "Jerzy Opioła",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Lactarius_lignyotus_BW_46.1.jpg"
+      },
+      {
+        src: STORAGE + "photos/Russulales/Russulaceae/Lactarius_lignyotus/ll5.webp",
+        author: "Jerzy Opioła",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Lactarius_lignyotus_a1_(2).JPG"
+      },
+      {
+        src: STORAGE + "photos/Russulales/Russulaceae/Lactarius_lignyotus/ll6.webp",
+        author: "Игорь Лебединский",
+        license: "CC BY 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Lactarius_lignyotus3.jpg"
+      }
+    ],
+    capFrom: 2,
+    capTo: 8,
+    fruitingFrom: 7,
+    fruitingTo: 10,
+    label: {
+      en: "chocolate milky",
+      sk: "rýdzik čiernozamatový",
+      zh: "黑乳菇",
+      cs: "ryzec černohlávek",
+      da: "fløjls-mælkehat",
+      et: "must riisikas",
+      fi: "nokirousku",
+      fr: "lactaire velours",
+      de: "Schwarzkopf-Milchling",
+      hu: "ráncos tejelőgomba",
+      ja: "クロチチタケ",
+      lv: "koksnes pienaine",
+      lt: "juodasis piengrybis",
+      no: "sotriske",
+      pl: "mleczaj przydymiony",
+      ro: "lăptucă neagră",
+      ru: "млечник бурый",
+      sl: "črnikasta mlečnica",
+      es: "lactario negruzco",
+      sv: "sotriska",
+      uk: "хрящ-молочник чорний"
+    },
+    names: {
+      fr: ["lactaire couleur de suie"],
+      uk: ["хрящ-молочник деревний"]
+    },
+    text: {
+      en: {
+        description: "A medium-sized milk cap with a velvety, blackish-brown cap, a long stem of the same dark colour and strikingly white gills. It grows on the ground under conifers, especially spruce, in northern and mountain forests of Europe, northern Asia and eastern North America. Its white milk slowly turns pink in air.",
+        cap: "The cap is 20–80 mm across, sometimes up to 100 mm, at first conical to convex with a rolled-in margin, then flattening and becoming shallowly depressed, usually with a small pointed central bump (papilla). The surface is dry, finely velvety and matt, often radially wrinkled and veined, and blackish-brown to dark brown, nearly black when young. Paler brown forms and, rarely, almost white ones occur. The thin margin is often wavy and sometimes ridged.",
+        hymenium: "The gills are attached to the stem or slightly decurrent, thin, fairly well spaced, forked near the stem and mixed with shorter ones. They are white when young, becoming cream to pale ochre with age, and stain slowly pink to reddish where damaged. Where they run down the stem they are dark brown, which gives a sharp contrast with the pale gill face. The basidia are four-spored, about 55–70 × 10–14 μm, and the gill edge is sterile, with many thin-walled, cylindrical, often twisted cystidia 15–65 μm long.",
+        stipe: "The stem is 40–120 mm long and 5–15 mm thick, cylindrical and more or less equal, often flattened or curved, solid when young and later hollow. It is dry and velvety, coloured like the cap but whitish and felty at the base. The top is almost always ribbed or grooved where the gills run down onto it.",
+        flesh: "The flesh is white, thin and brittle yet slightly elastic and cottony. When cut it turns slowly pinkish to reddish, especially in the stem base, although the change can be weak or absent. The milk is white, watery and scant, stains the flesh pink and dries pinkish. The taste is mild and nutty, occasionally slightly bitter in old fruit bodies, and the smell is faint to pleasant.",
+        sporePrint: "Pale cream to yellowish orange. The spores are round to broadly elliptical, 8–10 μm, ornamented with amyloid warts and ridges up to 2 μm high that form an incomplete network.",
+        habitat: "An ectomycorrhizal fungus that grows on the ground, alone or in small groups and occasionally in large numbers, in acid, nutrient-poor coniferous forest, most often under spruce and also under fir, in damp, mossy places and near bogs. It is sometimes found on well-rotted wood near the ground. It is a northern and mountain species, widespread in northern Europe and, farther south, found mostly in the mountains, and it also occurs in northern Asia and eastern North America. Fruit bodies appear from July to October.",
+        uses: "Edible when cooked. Many European sources rate it as a very good edible mushroom with a mild, nutty taste, while others describe it as of little interest, bitter or only conditionally edible.",
+        confusion: "The dark, velvety cap with a small point, the strongly contrasting white gills that turn brown where they run onto the stem, and the grooved top of the stem are distinctive. Lactarius picinus grows in the same places but has a smooth cap without a point, a much stouter and smooth stem, crowded cream gills and acrid milk. Lactarius fuliginosus grows mostly under broadleaved trees and has yellowish gills and bitter milk. Lactarius azonites has a paler brown cap and acrid milk. Under the microscope the large, round spores with coarse, spiny-looking ornamentation are characteristic.",
+        notes: "A 2024 assessment rates the species Least Concern, with a stable population. It is a northern and mountain fungus, widespread in northern Europe and in the mountains farther south but rare in the lowlands. In Germany it is rare to very rare in the north, west and centre and appears on the red lists of many federal states, and in Denmark it is rare and was first recorded in 1961. In North America it forms a group of very similar varieties that differ mainly in how the milk stains and in the colour of the gill edges."
+      },
+      sk: {
+        description: "Stredne veľký rýdzik so zamatovým, čiernohnedým klobúkom, dlhým hlúbikom rovnakej tmavej farby a nápadne bielymi lupeňmi. Rastie na zemi pod ihličnanmi, najmä pod smrekmi, v severských a horských lesoch Európy, severnej Ázie a východu Severnej Ameriky. Jeho biele mlieko na vzduchu pomaly ružovie.",
+        cap: "Klobúk je široký 20–80 mm, niekedy až 100 mm, spočiatku kužeľovitý až vypuklý so zavinutým okrajom, potom sa vyrovnáva a plytko vyhlbuje, zvyčajne s malým špicatým hrbolčekom (papilou) v strede. Povrch je suchý, jemne zamatový a matný, často radiálne zvrásnený a žilnatý, čiernohnedý až tmavohnedý, v mladosti takmer čierny. Vyskytujú sa aj svetlejšie hnedé formy a zriedkavo takmer biele. Tenký okraj je často vlnitý a niekedy ryhovaný.",
+        hymenium: "Lupene sú prirastené až mierne zbiehavé, tenké, pomerne riedke, pri hlúbiku rozvidlené a prestriedané kratšími lupienkami. V mladosti sú biele, neskôr krémové až bledookrové a po poranení pomaly ružovejú až červenejú. Tam, kde zbiehajú po hlúbiku, sú tmavohnedé, čo vytvára ostrý kontrast s bledou plochou lupeňov. Bazídie sú štvorvýtrusné, veľké asi 55–70 × 10–14 μm; ostrie lupeňov je sterilné s mnohými tenkostennými, valcovitými, často skrútenými cystídami dlhými 15–65 μm.",
+        stipe: "Hlúbik je 40–120 mm dlhý a 5–15 mm hrubý, valcovitý a viac-menej rovnako hrubý, často sploštený alebo zahnutý, v mladosti plný a neskôr dutý. Je suchý a zamatový, sfarbený ako klobúk, no pri báze belavý a plstnatý. Vrch je takmer vždy rebrovitý alebo ryhovaný tam, kde naň zbiehajú lupene.",
+        flesh: "Dužina je biela, tenká a krehká, no mierne pružná a vatovitá. Po prerezaní pomaly ružovie až červenie, najmä v báze hlúbika, hoci táto zmena môže byť slabá alebo chýbať. Mlieko je biele, vodnaté a nehojné, zafarbuje dužinu na ružovo a pri zasychaní ružovie. Chuť je mierna a orieškovitá, v starých plodniciach občas mierne horká, vôňa slabá až príjemná.",
+        sporePrint: "Bledokrémový až žltooranžový. Výtrusy sú okrúhle až široko elipsoidné, 8–10 μm, zdobené amyloidnými bradavkami a hrebienkami vysokými do 2 μm, ktoré tvoria neúplnú sieťku.",
+        habitat: "Ektomykorízna huba rastúca na zemi, jednotlivo alebo v malých skupinách, občas vo veľkom počte, v kyslých, na živiny chudobných ihličnatých lesoch, najčastejšie pod smrekmi a aj pod jedľami, na vlhkých machovitých miestach a pri rašeliniskách. Občas sa nájde aj na dobre zhnitom dreve pri zemi. Je to severský a horský druh, rozšírený v severnej Európe a ďalej na juh najmä v horách; vyskytuje sa aj v severnej Ázii a vo východnej Severnej Amerike. Plodnice rastú od júla do októbra.",
+        uses: "Jedlý po tepelnej úprave. Mnohé európske zdroje ho hodnotia ako veľmi dobrú jedlú hubu s miernou orieškovou chuťou, iné ho opisujú ako málo zaujímavý, horký alebo len podmienečne jedlý.",
+        confusion: "Nápadný je tmavý zamatový klobúk s malým hrbolčekom, výrazne kontrastné biele lupene, ktoré tam, kde zbiehajú po hlúbiku, hnednú, a ryhovaný vrch hlúbika. Lactarius picinus rastie na tých istých miestach, ale má hladký klobúk bez hrbolčeka, oveľa hrubší hladký hlúbik, husté krémové lupene a pálivé mlieko. Lactarius fuliginosus rastie väčšinou pod listnáčmi a má žltkasté lupene a horké mlieko. Lactarius azonites má svetlejší hnedý klobúk a pálivé mlieko. Pod mikroskopom sú príznačné veľké okrúhle výtrusy s hrubou, ostnito pôsobiacou ornamentikou.",
+        notes: "Hodnotenie z roku 2024 ho zaraďuje medzi málo dotknuté druhy (Least Concern) so stabilnou populáciou. Je to severský a horský druh, rozšírený v severnej Európe a ďalej na juh v horách, no v nížinách vzácny. V Nemecku je na severe, západe a v strede vzácny až veľmi vzácny a figuruje v červených zoznamoch mnohých spolkových krajín, v Dánsku je vzácny a prvýkrát tam bol zaznamenaný v roku 1961. V Severnej Amerike tvorí skupinu veľmi podobných variet, ktoré sa líšia najmä zafarbovaním mlieka a farbou okraja lupeňov."
+      },
+      ar: {
+        description: "فطر لبني متوسط الحجم له قبعة مخملية بنية سوداء وساق طويلة بالدرجة الداكنة نفسها وصفائح بيضاء لافتة. ينمو على التربة تحت الصنوبريات، ولا سيما التنوب، في الغابات الشمالية والجبلية في أوروبا وشمال آسيا وشرق أمريكا الشمالية. ويتحول حليبه الأبيض ببطء إلى اللون الوردي عند تعرضه للهواء.",
+        cap: "يبلغ عرض القبعة ٢٠–٨٠ مم، وأحيانًا حتى ١٠٠ مم، وهي في البداية مخروطية إلى محدبة وحافتها ملتفة إلى الداخل، ثم تتسطح وتصبح مقعّرة قليلًا، وغالبًا في وسطها حدبة صغيرة مدببة (حُليمة). سطحها جاف ومخملي ناعم ومطفأ، وكثيرًا ما يكون مجعدًا وذا عروق شعاعية، ولونه بني مسود إلى بني داكن، ويكاد يكون أسود في الفطر الفتي. توجد أشكال بنية أفتح، ونادرًا أشكال شبه بيضاء. والحافة رقيقة وغالبًا متموجة وأحيانًا مخددة.",
+        hymenium: "الصفائح متصلة بالساق إلى نازلة عليها قليلًا، رقيقة ومتباعدة نوعًا ما، متشعبة قرب الساق وتتخللها صفائح أقصر. وهي بيضاء في الفطر الفتي، ثم تصبح كريمية إلى أوكرية شاحبة مع التقدم في العمر، وتتحول ببطء إلى الوردي إلى المحمر عند تضررها. وحيث تنزل على الساق تكون بنية داكنة، فتشكل تباينًا حادًا مع وجه الصفائح الشاحب. الدعامات (البازيديا) رباعية الأبواغ، طولها وعرضها نحو ٥٥–٧٠ × ١٠–١٤ ميكرومتر، وحافة الصفيحة عقيمة تكسوها كيسات كثيرة رقيقة الجدار أسطوانية ملتوية غالبًا طولها ١٥–٦٥ ميكرومتر.",
+        stipe: "يبلغ طول الساق ٤٠–١٢٠ مم وسماكتها ٥–١٥ مم، أسطوانية ومتساوية السماكة تقريبًا، وكثيرًا ما تكون مفلطحة أو منحنية، مصمتة في الفطر الفتي ثم مجوفة. وهي جافة ومخملية، بلون القبعة لكنها مبيضّة ولبادية عند القاعدة. وقمتها مضلعة أو مخددة دائمًا تقريبًا حيث تنزل عليها الصفائح.",
+        flesh: "اللحم أبيض رقيق هش لكنه مرن قليلًا وقطني الملمس. عند القطع يتحول ببطء إلى الوردي إلى المحمر، ولا سيما في قاعدة الساق، مع أن هذا التغير قد يكون ضعيفًا أو غائبًا. الحليب أبيض مائي وقليل، يصبغ اللحم بالوردي ويميل إلى الوردي عند جفافه. الطعم معتدل وفيه نكهة الجوز، وأحيانًا مرّ قليلًا في الثمار الهرمة، والرائحة خفيفة إلى لطيفة.",
+        sporePrint: "كريمي شاحب إلى برتقالي مصفرّ. الأبواغ مستديرة إلى بيضوية عريضة، قطرها ٨–١٠ ميكرومتر، وزخرفتها ثآليل وأعراف نشوية يصل ارتفاعها إلى ٢ ميكرومتر وتكوّن شبكة غير كاملة.",
+        habitat: "فطر ذو جذر فطري خارجي ينمو على التربة، منفردًا أو في مجموعات صغيرة، وأحيانًا بأعداد كبيرة، في غابات الصنوبريات الحمضية الفقيرة بالمغذيات، وغالبًا تحت التنوب وأيضًا تحت الشوح، في الأماكن الرطبة المكسوة بالطحالب وقرب المستنقعات. وقد يوجد أحيانًا على خشب متحلل جيدًا قرب الأرض. وهو نوع شمالي وجبلي، منتشر في شمال أوروبا، وفي الجنوب يوجد غالبًا في الجبال، ويوجد أيضًا في شمال آسيا وشرق أمريكا الشمالية. تظهر الأجسام الثمرية من يوليو إلى أكتوبر.",
+        uses: "صالح للأكل بعد الطهي. تصنّفه مصادر أوروبية كثيرة فطرًا صالحًا للأكل جيدًا جدًا بطعم معتدل فيه نكهة الجوز، بينما يصفه بعضها بأنه قليل الأهمية أو مرّ أو صالح للأكل بشروط فقط.",
+        confusion: "يتميز بالقبعة المخملية الداكنة ذات النتوء الصغير، وبالصفائح البيضاء شديدة التباين التي تتحول إلى البني حيث تنزل على الساق، وبقمة الساق المخددة. ينمو Lactarius picinus في الأماكن نفسها لكن قبعته ملساء بلا نتوء، وساقه أغلظ بكثير وملساء، وصفائحه كريمية متقاربة، وحليبه لاذع. وينمو Lactarius fuliginosus غالبًا تحت الأشجار عريضة الأوراق وله صفائح مصفرّة وحليب مرّ. أما Lactarius azonites فقبعته بنية أفتح وحليبه لاذع. وتتميز الأبواغ تحت المجهر بكونها كبيرة ومستديرة وبزخرفة خشنة تبدو شوكية.",
+        notes: "يصنَّف النوع في تقييم عام ٢٠٢٤ ضمن فئة أقل اهتمامًا (Least Concern) مع تعداد مستقر. وهو فطر شمالي وجبلي، منتشر في شمال أوروبا وفي الجبال جنوبًا، لكنه نادر في الأراضي المنخفضة. وفي ألمانيا هو نادر إلى نادر جدًا في الشمال والغرب والوسط ويرد في القوائم الحمراء لولايات اتحادية كثيرة، وفي الدنمارك هو نادر وسُجّل أول مرة عام ١٩٦١. وفي أمريكا الشمالية يشكل مجموعة من الأصناف المتشابهة جدًا التي تختلف أساسًا في تلوّن الحليب ولون حواف الصفائح."
+      },
+      bg: {
+        description: "Средно голяма млечница с кадифена, черновато-кафява шапка, дълъг крак със същия тъмен цвят и ярко бели пластинки. Расте по земята под иглолистни дървета, най-вече смърч, в северните и планинските гори на Европа, Северна Азия и източната част на Северна Америка. Бялото ѝ мляко бавно порозовява на въздух.",
+        cap: "Шапката е с диаметър 20–80 mm, понякога до 100 mm, отначало конусовидна до изпъкнала с подвита навътре периферия, после се заравнява и става плитко вдлъбната, обикновено с малка заострена изпъкналост (папила) в средата. Повърхността е суха, фино кадифена и матова, често лъчисто набръчкана и жилкава, черновато-кафява до тъмнокафява, а в млада възраст почти черна. Срещат се и по-светли кафяви форми, а рядко и почти бели. Тънката периферия често е вълниста, а понякога набраздена.",
+        hymenium: "Пластинките са прикрепени към крака или леко слизащи по него, тънки, доста редки, при крака раздвоени и смесени с по-къси. В млада възраст са бели, с възрастта стават кремави до бледоохрени, а при нараняване бавно порозовяват до зачервяват. Там, където слизат по крака, са тъмнокафяви, което създава рязък контраст със светлата повърхност на пластинките. Базидиите са четириспорови, с размери около 55–70 × 10–14 μm, а острието на пластинките е стерилно, с много тънкостенни, цилиндрични, често извити цистиди с дължина 15–65 μm.",
+        stipe: "Кракът е дълъг 40–120 mm и дебел 5–15 mm, цилиндричен и повече или по-малко с еднаква дебелина, често сплескан или извит, в млада възраст плътен, а по-късно кух. Той е сух и кадифен, в цвета на шапката, но при основата белезникав и филцов. Горната му част почти винаги е набраздена или с ребра там, където пластинките слизат по нея.",
+        flesh: "Месото е бяло, тънко и чупливо, но леко еластично и ватообразно. При срязване бавно порозовява до зачервява, особено в основата на крака, макар че промяната може да е слаба или да липсва. Млякото е бяло, водно и оскъдно, оцветява месото в розово и при изсъхване розовее. Вкусът е мек и ореховиден, в старите плодни тела понякога леко горчив, а миризмата е слаба до приятна.",
+        sporePrint: "Бледокремав до жълтеникавооранжев. Спорите са кръгли до широкоелиптични, 8–10 μm, с амилоидни брадавички и гребенчета с височина до 2 μm, които образуват непълна мрежа.",
+        habitat: "Ектомикоризна гъба, която расте по земята, единично или на малки групи, а понякога и в голям брой, в кисели, бедни на хранителни вещества иглолистни гори, най-често под смърч, а също и под ела, на влажни мъхести места и близо до блата. Понякога се среща и по добре изгнила дървесина близо до земята. Това е северен и планински вид, разпространен в Северна Европа, а по-на юг се среща предимно в планините, като расте и в Северна Азия и източна Северна Америка. Плодните тела се появяват от юли до октомври.",
+        uses: "Ядлива след готвене. Много европейски източници я оценяват като много добра ядлива гъба с мек ореховиден вкус, а други я описват като малко интересна, горчива или само условно ядлива.",
+        confusion: "Отличава се с тъмната кадифена шапка с малка издатина, силно контрастиращите бели пластинки, които покафеняват там, където слизат по крака, и набразденото връхче на крака. Lactarius picinus расте на същите места, но има гладка шапка без издатина, много по-дебел и гладък крак, гъсти кремави пластинки и лютиво мляко. Lactarius fuliginosus расте най-често под широколистни дървета и има жълтеникави пластинки и горчиво мляко. Lactarius azonites има по-светла кафява шапка и лютиво мляко. Под микроскоп са характерни едрите кръгли спори с грубо, наподобяващо бодли орнаментиране.",
+        notes: "Оценка от 2024 г. определя вида като незастрашен (Least Concern) със стабилна популация. Това е северна и планинска гъба, разпространена в Северна Европа и в планините по-на юг, но рядка в низините. В Германия е рядка до много рядка на север, запад и в центъра и фигурира в червените списъци на много федерални провинции, а в Дания е рядка и е регистрирана за първи път през 1961 г. В Северна Америка образува група от много сходни разновидности, които се различават главно по оцветяването на млякото и цвета на ръба на пластинките."
+      },
+      zh: {
+        description: "一種中等大小的乳菇，菌蓋呈天鵝絨狀的黑褐色，菌柄細長且同樣顏色深暗，菌褶白得特別醒目。生於歐洲、北亞和北美洲東部北方與山地森林的地面上，多在針葉樹尤其是雲杉下。白色乳汁遇空氣後慢慢變成粉紅色。",
+        cap: "菌蓋寬20–80毫米，有時可達100毫米，幼時圓錐形至凸鏡形，邊緣內捲，之後逐漸展平並略微下凹，中央通常有一個小而尖的突起（乳突）。表面乾燥，帶細密的絨毛質感而無光澤，常有放射狀皺紋和脈紋，黑褐色至深褐色，幼時近黑色。也有顏色較淺的褐色類型，偶有近白色者。邊緣薄，常呈波狀，有時有條紋。",
+        hymenium: "菌褶直生至稍延生，薄，間距稍疏，近菌柄處分叉，並夾雜較短的菌褶。幼時白色，老時變為奶油色至淡赭色，受傷處會慢慢變成粉紅至微紅色。延生到菌柄上的部分呈深褐色，與淺色的菌褶面形成鮮明對比。擔子四孢，大小約55–70 × 10–14 μm，菌褶邊緣不育，有許多薄壁、圓柱形且常彎曲的囊狀體，長15–65 μm。",
+        stipe: "菌柄長40–120毫米，粗5–15毫米，圓柱形，粗細大致均勻，常扁平或彎曲，幼時實心，後來中空。表面乾燥而有絨毛，顏色與菌蓋相同，但基部呈白色且帶氈狀。菌柄頂端在菌褶延生處幾乎總有稜或溝。",
+        flesh: "菌肉白色，薄而脆，但略有彈性並呈棉絮質感。切開後會慢慢變成粉紅至微紅色，尤其在菌柄基部，不過這種變化可能很弱或沒有。乳汁白色，水樣，量少，會使菌肉染成粉紅色，乾後帶粉紅色。味道溫和，帶堅果味，老熟子實體偶爾略帶苦味，氣味微弱至宜人。",
+        sporePrint: "淡奶油色至黃橙色。孢子圓形至寬橢圓形，8–10 μm，表面有類澱粉質的疣和稜脊，高達2 μm，形成不完整的網紋。",
+        habitat: "外生菌根真菌，單生或小群生於地面，偶爾大量出現，見於酸性、養分貧瘠的針葉林中，最常在雲杉下，也在冷杉下，多生於潮濕多苔蘚處和沼澤附近。有時也見於靠近地面、腐爛程度高的木頭上。這是北方和山地的物種，在北歐分布廣泛，在更南的地方多見於山區，在北亞和北美洲東部也有分布。子實體於7月至10月出現。",
+        uses: "煮熟後可食用。許多歐洲資料評為味道溫和、帶堅果味的上等食用菇，也有資料說它不太受重視、味苦或只能有條件食用。",
+        confusion: "深色、絨毛質感且有小尖突的菌蓋，對比強烈的白色菌褶（延生到菌柄處變褐），以及有溝紋的菌柄頂端，都是它的特徵。Lactarius picinus生於相同的地方，但菌蓋光滑無尖突，菌柄粗壯得多且光滑，菌褶密而呈奶油色，乳汁辛辣。Lactarius fuliginosus多生於闊葉樹下，菌褶偏黃，乳汁味苦。Lactarius azonites菌蓋褐色較淺，乳汁辛辣。在顯微鏡下，大而圓、表面紋飾粗糙似刺的孢子具有鑑別意義。",
+        notes: "2024年的評估將本種列為無危（Least Concern），族群穩定。這是一種北方和山地真菌，在北歐分布廣泛，在更南的山區也有，但在低地少見。在德國，它在北部、西部和中部少見至極少見，並列入許多聯邦州的紅色名錄；在丹麥它很少見，1961年首次被記錄。在北美洲，它構成一群非常相似的變種，主要差別在於乳汁的變色方式和菌褶邊緣的顏色。"
+      },
+      hr: {
+        description: "Srednje velika mliječnica s baršunastim, crnosmeđim klobukom, dugim stručkom iste tamne boje i upadljivo bijelim listićima. Raste na tlu pod četinjačama, osobito pod smrekom, u sjevernim i planinskim šumama Europe, sjeverne Azije i istočne Sjeverne Amerike. Njezino bijelo mlijeko na zraku polako poružičasti.",
+        cap: "Klobuk je širok 20–80 mm, ponekad do 100 mm, isprva stožast do izbočen s podvijenim rubom, zatim se spljošti i plitko udubi, obično s malom šiljastom kvržicom (papilom) u sredini. Površina je suha, fino baršunasta i mutna, često radijalno naborana i žilnata, crnosmeđa do tamnosmeđa, u mladosti gotovo crna. Postoje i svjetlije smeđe forme, a rijetko i gotovo bijele. Tanak rub često je valovit, a katkad izbrazdan.",
+        hymenium: "Listići su prirasli uz stručak ili blago spušteni niz njega, tanki, prilično rijetki, kraj stručka račvasti i isprepleteni kraćima. U mladosti su bijeli, s godinama postaju krem do blijedookerni, a na oštećenjima polako poružičaste do pocrvene. Tamo gdje se spuštaju niz stručak tamnosmeđi su, što daje oštar kontrast prema svijetloj plohi listića. Bazidije su četverosporne, veličine oko 55–70 × 10–14 μm, a oštrica listića je sterilna, s mnogo tankostijenih, cilindričnih, često uvijenih cistida dugih 15–65 μm.",
+        stipe: "Stručak je dug 40–120 mm i debeo 5–15 mm, valjkast i otprilike jednake debljine, često spljošten ili povijen, u mladosti pun, a poslije šupalj. Suh je i baršunast, boje klobuka, no pri dnu bjelkast i filcast. Vrh mu je gotovo uvijek rebrast ili izbrazdan tamo gdje se niz njega spuštaju listići.",
+        flesh: "Meso je bijelo, tanko i lomljivo, ali blago elastično i pamučasto. Na prerezu polako poružičasti do pocrveni, osobito u dnu stručka, iako ta promjena može biti slaba ili izostati. Mlijeko je bijelo, vodenasto i oskudno, meso boji ružičasto, a pri sušenju poružičasti. Okus je blag i orašast, u starim plodištima katkad blago gorak, a miris slab do ugodan.",
+        sporePrint: "Blijedokremast do žutonarančast. Spore su okrugle do široko elipsoidne, 8–10 μm, ukrašene amiloidnim bradavicama i grebenima visokim do 2 μm koji tvore nepotpunu mrežu.",
+        habitat: "Ektomikorizna gljiva koja raste na tlu, pojedinačno ili u malim skupinama, povremeno u velikom broju, u kiselim četinjačnim šumama siromašnim hranjivima, najčešće pod smrekom, a i pod jelom, na vlažnim, mahovinom obraslim mjestima i uz tresetišta. Ponekad se nađe i na dobro istrulom drvu uz tlo. To je sjeverna i planinska vrsta, rasprostranjena u sjevernoj Europi, a južnije se nalazi uglavnom u planinama; javlja se i u sjevernoj Aziji i istočnoj Sjevernoj Americi. Plodišta se pojavljuju od srpnja do listopada.",
+        uses: "Jestiva nakon kuhanja. Mnogi europski izvori ocjenjuju je kao vrlo dobru jestivu gljivu blagog, orašastog okusa, dok je drugi opisuju kao malo zanimljivu, gorku ili samo uvjetno jestivu.",
+        confusion: "Prepoznatljivi su tamni baršunasti klobuk s malom kvržicom, snažno kontrastni bijeli listići koji tamo gdje se spuštaju niz stručak posmeđe i izbrazdan vrh stručka. Lactarius picinus raste na istim mjestima, ali ima glatki klobuk bez kvržice, mnogo deblji i gladak stručak, guste krem listiće i ljuto mlijeko. Lactarius fuliginosus raste većinom pod listopadnim drvećem i ima žućkaste listiće i gorko mlijeko. Lactarius azonites ima svjetliji smeđi klobuk i ljuto mlijeko. Pod mikroskopom su karakteristične velike okrugle spore s grubim, bodljikavo djelujućim ukrasom.",
+        notes: "Procjena iz 2024. svrstava vrstu među najmanje zabrinjavajuće (Least Concern), sa stabilnom populacijom. To je sjeverna i planinska gljiva, rasprostranjena u sjevernoj Europi i u planinama južnije, ali rijetka u nizinama. U Njemačkoj je na sjeveru, zapadu i u sredini rijetka do vrlo rijetka i nalazi se na crvenim popisima mnogih saveznih zemalja, a u Danskoj je rijetka i prvi put je zabilježena 1961. U Sjevernoj Americi tvori skupinu vrlo sličnih varijeteta koji se razlikuju uglavnom po tome kako mlijeko mijenja boju i po boji ruba listića."
+      },
+      cs: {
+        description: "Středně velký ryzec se sametovým černohnědým kloboukem, dlouhým třeněm stejné tmavé barvy a nápadně bílými lupeny. Roste na zemi pod jehličnany, zejména pod smrky, v severských a horských lesích Evropy, severní Asie a východu Severní Ameriky. Jeho bílé mléko na vzduchu pomalu růžoví.",
+        cap: "Klobouk je široký 20–80 mm, někdy až 100 mm, zprvu kuželovitý až vypouklý se zavinutým okrajem, poté se rozprostírá a mělce prohlubuje, obvykle s malým špičatým hrbolkem (papilou) uprostřed. Povrch je suchý, jemně sametový a matný, často paprskovitě zvrásněný a žilnatý, černohnědý až tmavohnědý, v mládí téměř černý. Vyskytují se i světlejší hnědé formy a vzácně téměř bílé. Tenký okraj je často zvlněný a někdy rýhovaný.",
+        hymenium: "Lupeny jsou přirostlé až mírně sbíhavé, tenké, poměrně řídké, u třeně vidličnatě rozdělené a prokládané kratšími lupínky. V mládí jsou bílé, později krémové až světle okrové a při poranění pomalu růžoví až červenají. Tam, kde sbíhají po třeni, jsou tmavohnědé, což vytváří ostrý kontrast se světlou plochou lupenů. Basidie jsou čtyřvýtrusé, velké asi 55–70 × 10–14 μm, a ostří lupenů je sterilní s mnoha tenkostěnnými, válcovitými, často stočenými cystidami dlouhými 15–65 μm.",
+        stipe: "Třeň je 40–120 mm dlouhý a 5–15 mm tlustý, válcovitý a víceméně stejně silný, často zploštělý nebo prohnutý, v mládí plný a později dutý. Je suchý a sametový, zbarvený jako klobouk, ale při bázi bělavý a plstnatý. Vrchol je téměř vždy žebernatý nebo rýhovaný tam, kde na něj sbíhají lupeny.",
+        flesh: "Dužnina je bílá, tenká a křehká, ale mírně pružná a vatovitá. Po rozříznutí pomalu růžoví až červená, zejména v bázi třeně, přestože tato změna může být slabá nebo chybět. Mléko je bílé, vodnaté a nehojné, barví dužninu narůžovo a při zasychání růžoví. Chuť je mírná a oříšková, ve starých plodnicích občas mírně hořká, vůně slabá až příjemná.",
+        sporePrint: "Světle krémový až žlutooranžový. Výtrusy jsou kulovité až široce elipsoidní, 8–10 μm, zdobené amyloidními bradavkami a žebérky vysokými až 2 μm, které tvoří neúplnou síťku.",
+        habitat: "Ektomykorhizní houba rostoucí na zemi, jednotlivě nebo v malých skupinách, občas ve velkém počtu, v kyselých, na živiny chudých jehličnatých lesích, nejčastěji pod smrky a také pod jedlemi, na vlhkých mechatých místech a u rašelinišť. Občas se najde i na dobře zetlelém dřevě při zemi. Je to severský a horský druh, rozšířený v severní Evropě a dále na jih zejména v horách; vyskytuje se také v severní Asii a ve východní Severní Americe. Plodnice rostou od července do října.",
+        uses: "Jedlý po tepelné úpravě. Mnohé evropské zdroje jej hodnotí jako velmi dobrou jedlou houbu s mírnou oříškovou chutí, jiné jej popisují jako málo zajímavý, hořký nebo jen podmíněně jedlý.",
+        confusion: "Nápadný je tmavý sametový klobouk s malým hrbolkem, výrazně kontrastní bílé lupeny, které tam, kde sbíhají po třeni, hnědnou, a rýhovaný vrchol třeně. Lactarius picinus roste na stejných místech, ale má hladký klobouk bez hrbolku, mnohem silnější hladký třeň, husté krémové lupeny a ostré mléko. Lactarius fuliginosus roste většinou pod listnáči a má nažloutlé lupeny a hořké mléko. Lactarius azonites má světlejší hnědý klobouk a ostré mléko. Pod mikroskopem jsou příznačné velké kulovité výtrusy s hrubou, bodlinatě působící ornamentací.",
+        notes: "Posouzení z roku 2024 jej řadí mezi málo dotčené druhy (Least Concern) se stabilní populací. Je to severský a horský druh, rozšířený v severní Evropě a dále na jih v horách, ale v nížinách vzácný. V Německu je na severu, západě a ve středu vzácný až velmi vzácný a figuruje v červených seznamech mnoha spolkových zemí, v Dánsku je vzácný a poprvé tam byl zaznamenán v roce 1961. V Severní Americe tvoří skupinu velmi podobných variet, které se liší hlavně tím, jak se barví mléko, a barvou ostří lupenů."
+      },
+      da: {
+        description: "En mellemstor mælkehat med en fløjlsblød, sortbrun hat, en lang stok i samme mørke farve og iøjnefaldende hvide lameller. Den vokser på jorden under nåletræer, især gran, i nordlige og bjergrige skove i Europa, Nordasien og det østlige Nordamerika. Den hvide mælk bliver langsomt lyserød i luften.",
+        cap: "Hatten er 20–80 mm bred, nogle gange op til 100 mm, først kegleformet til hvælvet med indrullet kant, derefter fladere og svagt nedtrykt, som regel med en lille spids pukkel (papil) i midten. Overfladen er tør, fint fløjlsagtig og mat, ofte radialt rynket og året, og sortbrun til mørkebrun, næsten sort som ung. Der findes lysere brune former og sjældent næsten hvide. Den tynde kant er ofte bølget og undertiden furet.",
+        hymenium: "Lamellerne er tilvoksede til svagt nedløbende, tynde, ret spredte, gaffeldelte nær stokken og blandet med kortere lameller. De er hvide som unge, bliver med alderen cremefarvede til lyst okkergule og farves langsomt lyserøde til rødlige, hvor de beskadiges. Hvor de løber ned ad stokken, er de mørkebrune, hvilket giver en skarp kontrast til den lyse lamelflade. Basidierne er firsporede, cirka 55–70 × 10–14 μm, og lamelleggen er steril med mange tyndvæggede, cylindriske, ofte snoede cystider på 15–65 μm i længden.",
+        stipe: "Stokken er 40–120 mm lang og 5–15 mm tyk, cylindrisk og nogenlunde lige tyk, ofte fladtrykt eller bøjet, massiv som ung og senere hul. Den er tør og fløjlsagtig, farvet som hatten, men hvidlig og filtet ved basis. Toppen er næsten altid ribbet eller furet, hvor lamellerne løber ned ad den.",
+        flesh: "Kødet er hvidt, tyndt og skørt, men let elastisk og bomuldsagtigt. Ved snit bliver det langsomt lyserødt til rødligt, især i stokkens basis, selv om forandringen kan være svag eller udeblive. Mælken er hvid, vandig og sparsom, farver kødet lyserødt og tørrer lyserødt ud. Smagen er mild og nøddeagtig, nogle gange svagt bitter i gamle frugtlegemer, og lugten er svag til behagelig.",
+        sporePrint: "Lys cremefarvet til gulorange. Sporerne er runde til bredt elliptiske, 8–10 μm, prydet med amyloide vorter og kamme på op til 2 μm, som danner et ufuldstændigt net.",
+        habitat: "En ektomykorrhizadannende svamp, der vokser på jorden, enkeltvis eller i små grupper og undertiden i større antal, i sur, næringsfattig nåleskov, oftest under gran og også under ædelgran, på fugtige, mosbevoksede steder og nær moser. Den findes nogle gange på velnedbrudt ved tæt ved jorden. Det er en nordlig og bjergboende art, udbredt i Nordeuropa og længere sydpå mest i bjergene, og den findes også i Nordasien og det østlige Nordamerika. Frugtlegemerne kommer frem fra juli til oktober.",
+        uses: "Spiselig tilberedt. Mange europæiske kilder vurderer den som en meget god spisesvamp med mild, nøddeagtig smag, mens andre beskriver den som uinteressant, bitter eller kun betinget spiselig.",
+        confusion: "Den mørke, fløjlsagtige hat med en lille spids, de stærkt kontrasterende hvide lameller, der bliver brune, hvor de løber ned ad stokken, og den furede stoktop er karakteristiske. Lactarius picinus vokser samme steder, men har en glat hat uden spids, en meget kraftigere og glat stok, tætstillede cremefarvede lameller og skarp mælk. Lactarius fuliginosus vokser mest under løvtræer og har gullige lameller og bitter mælk. Lactarius azonites har en lysere brun hat og skarp mælk. Under mikroskop er de store, runde sporer med grov, pigget virkende ornamentering karakteristiske.",
+        notes: "En vurdering fra 2024 klassificerer arten som ikke truet (Least Concern) med en stabil bestand. Det er en nordlig og bjergboende svamp, udbredt i Nordeuropa og i bjergene længere sydpå, men sjælden i lavlandet. I Tyskland er den sjælden til meget sjælden i nord, vest og midten og står på de røde lister i mange delstater, og i Danmark er den sjælden og blev første gang registreret i 1961. I Nordamerika danner den en gruppe af meget ens varieteter, som hovedsagelig adskiller sig ved, hvordan mælken farves, og ved farven på lamelleggen."
+      },
+      nl: {
+        description: "Een middelgrote melkzwam met een fluwelige, zwartbruine hoed, een lange steel in dezelfde donkere kleur en opvallend witte lamellen. Hij groeit op de grond onder naaldbomen, vooral sparren, in noordelijke bossen en berggebieden van Europa, Noord-Azië en het oosten van Noord-Amerika. De witte melk wordt aan de lucht langzaam roze.",
+        cap: "De hoed is 20–80 mm breed, soms tot 100 mm, eerst kegelvormig tot convex met een ingerolde rand, daarna uitgespreid en ondiep ingedeukt, meestal met een kleine, spitse bult (papil) in het midden. Het oppervlak is droog, fijn fluweelachtig en mat, vaak radiaal gerimpeld en geaderd, en zwartbruin tot donkerbruin, bij jonge exemplaren bijna zwart. Er komen ook lichtere bruine vormen voor en zelden bijna witte. De dunne rand is vaak golvend en soms geribbeld.",
+        hymenium: "De lamellen zijn aangehecht tot licht aflopend, dun, vrij wijd uit elkaar, bij de steel gevorkt en afgewisseld met kortere lamellen. Ze zijn wit als ze jong zijn, worden met de leeftijd crème tot lichtokergeel en kleuren langzaam roze tot roodachtig waar ze beschadigd zijn. Waar ze langs de steel aflopen, zijn ze donkerbruin, wat een scherp contrast geeft met het lichte lamelvlak. De basidiën zijn viersporig, ongeveer 55–70 × 10–14 μm, en de lamelrand is steriel met veel dunwandige, cilindrische, vaak gedraaide cystiden van 15–65 μm lang.",
+        stipe: "De steel is 40–120 mm lang en 5–15 mm dik, cilindrisch en ongeveer even dik, vaak afgeplat of gebogen, jong vol en later hol. Hij is droog en fluweelachtig, gekleurd als de hoed, maar aan de basis witachtig en viltig. De top is bijna altijd geribbeld of gegroefd waar de lamellen erlangs aflopen.",
+        flesh: "Het vlees is wit, dun en broos, maar licht elastisch en watachtig. Na het doorsnijden kleurt het langzaam roze tot roodachtig, vooral in de steelbasis, hoewel die verkleuring zwak kan zijn of kan ontbreken. De melk is wit, waterig en schaars, kleurt het vlees roze en droogt roze op. De smaak is mild en nootachtig, bij oude vruchtlichamen soms licht bitter, en de geur is zwak tot aangenaam.",
+        sporePrint: "Lichtcrème tot geeloranje. De sporen zijn rond tot breed ellipsvormig, 8–10 μm, versierd met amyloïde wratten en richels tot 2 μm hoog die een onvolledig netwerk vormen.",
+        habitat: "Een ectomycorrhizavormende schimmel die op de grond groeit, alleen of in kleine groepen en soms in grote aantallen, in zure, voedselarme naaldbossen, meestal onder sparren en ook onder zilverspar, op vochtige, met mos begroeide plekken en bij venen. Soms wordt hij op goed verrot hout vlak bij de grond gevonden. Het is een noordelijke soort van berggebieden, wijdverbreid in Noord-Europa en verder naar het zuiden vooral in de bergen, en hij komt ook voor in Noord-Azië en het oosten van Noord-Amerika. De vruchtlichamen verschijnen van juli tot oktober.",
+        uses: "Eetbaar na bereiding. Veel Europese bronnen beoordelen hem als een zeer goede eetbare paddenstoel met een milde, nootachtige smaak, terwijl andere hem omschrijven als weinig interessant, bitter of slechts voorwaardelijk eetbaar.",
+        confusion: "De donkere, fluweelachtige hoed met een klein puntje, de sterk contrasterende witte lamellen die bruin worden waar ze langs de steel aflopen en de gegroefde steeltop zijn kenmerkend. Lactarius picinus groeit op dezelfde plekken, maar heeft een gladde hoed zonder puntje, een veel dikkere, gladde steel, dicht opeenstaande crèmekleurige lamellen en scherpe melk. Lactarius fuliginosus groeit vooral onder loofbomen en heeft gelige lamellen en bittere melk. Lactarius azonites heeft een lichtere bruine hoed en scherpe melk. Onder de microscoop zijn de grote, ronde sporen met grove, stekelig ogende ornamentatie kenmerkend.",
+        notes: "Een beoordeling uit 2024 classificeert de soort als niet bedreigd (Least Concern) met een stabiele populatie. Het is een noordelijke schimmel van berggebieden, wijdverbreid in Noord-Europa en in de bergen verder naar het zuiden, maar zeldzaam in het laagland. In Duitsland is hij in het noorden, westen en midden zeldzaam tot zeer zeldzaam en staat hij op de rode lijsten van veel deelstaten, en in Denemarken is hij zeldzaam en werd hij in 1961 voor het eerst vastgesteld. In Noord-Amerika vormt hij een groep zeer gelijkende variëteiten die vooral verschillen in de verkleuring van de melk en de kleur van de lamelrand."
+      },
+      et: {
+        description: "Keskmise suurusega riisikas mustjaspruuni sametise kübara, sama tumeda värvusega pika jala ja silmatorkavalt valgete helbetega. Kasvab maa peal okaspuude, eriti kuuskede all, Euroopa, Põhja-Aasia ja Põhja-Ameerika idaosa põhjapoolsetes ja mägimetsades. Selle valge piim muutub õhu käes aeglaselt roosaks.",
+        cap: "Kübar on 20–80 mm lai, mõnikord kuni 100 mm, noorelt koonusjas kuni kumer sissepööratud servaga, hiljem lamenev ja madalalt nõgus, tavaliselt keskel väikese terava muhuga (papill). Pind on kuiv, õrnalt sametine ja matt, sageli radiaalselt kortsuline ja soonik, mustjaspruun kuni tumepruun, noorelt peaaegu must. Esineb ka heledamaid pruune vorme ja harva peaaegu valgeid. Õhuke serv on sageli laineline ja vahel soonikuline.",
+        hymenium: "Helbed on kinnikasvanud kuni veidi mööda jalga laskuvad, õhukesed, üsna hõredad, jala juures kahvlilised ja nende vahel on lühemad helbed. Noorelt on need valged, vanemaks saades kreemjad kuni kahvatu ookerkollased ning vigastatud kohtades muutuvad aeglaselt roosakaks kuni punakaks. Seal, kus need jalale laskuvad, on need tumepruunid, mis annab teravalt kontrasti heleda helbepinnaga. Basiidid on neljaeoselised, ligikaudu 55–70 × 10–14 μm, ja helbeserv on steriilne, sellel on palju õhukese seinaga, silindrilisi, sageli keerdunud tsüstiide pikkusega 15–65 μm.",
+        stipe: "Jalg on 40–120 mm pikk ja 5–15 mm paks, silindriline ja enam-vähem ühepaksune, sageli lame või kõver, noorelt täis ja hiljem õõnes. See on kuiv ja sametine, kübaraga sama värvi, kuid alusel valkjas ja viltjas. Ülaosa on peaaegu alati ribiline või vaoline seal, kus helbed sellele laskuvad.",
+        flesh: "Liha on valge, õhuke ja rabe, kuid kergelt elastne ja vatjas. Läbilõikamisel muutub see aeglaselt roosakaks kuni punakaks, eriti jala tüves, kuigi muutus võib olla nõrk või puududa. Piim on valge, vesine ja vähene, värvib liha roosaks ja kuivades muutub roosakaks. Maitse on mahe ja pähkline, vanades viljakehades vahel kergelt kibe, lõhn nõrk kuni meeldiv.",
+        sporePrint: "Kahvatu kreemjas kuni kollakasoranž. Eosed on ümmargused kuni laialt ellipsoidsed, 8–10 μm, ornamendiks amüloidsed tüükad ja harjad kõrgusega kuni 2 μm, mis moodustavad mittetäieliku võrgustiku.",
+        habitat: "Ektomükoriisat moodustav seen, mis kasvab maa peal, üksikult või väikeste gruppidena, vahel ka suurel hulgal, happelistes toitainetevaestes okasmetsades, enamasti kuuskede, aga ka nulgude all, niisketes sammaldunud kohtades ja soode lähedal. Mõnikord leitakse seda ka maapinna lähedal hästi kõdunenud puidul. See on põhjapoolne ja mägedes kasvav liik, laialt levinud Põhja-Euroopas ja lõunapoolsemal alal peamiselt mägedes ning esineb ka Põhja-Aasias ja Põhja-Ameerika idaosas. Viljakehad ilmuvad juulist oktoobrini.",
+        uses: "Söödav küpsetatult. Paljud Euroopa allikad peavad seda väga heaks söögiseeneks, mille maitse on mahe ja pähkline, teised aga kirjeldavad seda vähehuvitava, kibeda või ainult tingimisi söödavana.",
+        confusion: "Iseloomulikud on tume sametine kübar väikese ogaga, tugevalt kontrastsed valged helbed, mis muutuvad pruuniks seal, kus need jalale laskuvad, ja vaoline jala ülaosa. Lactarius picinus kasvab samades kohtades, kuid tal on sile kübar ilma ogata, palju jämedam ja sile jalg, tihedad kreemjad helbed ning terav piim. Lactarius fuliginosus kasvab peamiselt lehtpuude all ning tal on kollakad helbed ja kibe piim. Lactarius azonites on heledama pruuni kübara ja terava piimaga. Mikroskoobis on iseloomulikud suured ümmargused eosed jämeda, okkalisena näiva ornamentatsiooniga.",
+        notes: "2024. aasta hinnangus on see ohuväline (Least Concern) ja asurkond on stabiilne. See on põhjapoolne ja mägedes kasvav seen, laialt levinud Põhja-Euroopas ja lõunapoolsemates mägedes, kuid madalikel haruldane. Saksamaal on see põhjas, läänes ja keskosas haruldane kuni väga haruldane ning kantud paljude liidumaade punastele nimekirjadele, Taanis on see haruldane ja registreeriti esimest korda 1961. aastal. Põhja-Ameerikas moodustab see rühma väga sarnaseid varieteete, mis erinevad peamiselt piima värvuse muutumise ja helbeserva värvuse poolest."
+      },
+      fi: {
+        description: "Keskikokoinen rousku, jolla on samettinen, mustanruskea lakki, pitkä, yhtä tumma jalka ja huomiota herättävän valkoiset heltat. Se kasvaa maassa havupuiden, erityisesti kuusen, alla Euroopan, Pohjois-Aasian ja Pohjois-Amerikan itäosan pohjoisissa ja vuoristoisissa metsissä. Sen valkoinen maito muuttuu ilmassa hitaasti vaaleanpunaiseksi.",
+        cap: "Lakin leveys on 20–80 mm, joskus jopa 100 mm. Nuorena se on kartiomainen tai kupera ja reuna on kiertynyt sisäänpäin, myöhemmin lakki litistyy ja painuu matalasti keskeltä, yleensä keskellä on pieni terävä kupu (papilla). Pinta on kuiva, hienosti samettinen ja himmeä, usein säteittäin ryppyinen ja suonikas, mustanruskea tai tummanruskea, nuorena lähes musta. Esiintyy myös vaaleampia ruskeita muotoja ja harvoin lähes valkoisia. Ohut reuna on usein aaltoileva ja joskus uurteinen.",
+        hymenium: "Heltat ovat kasvaneet kiinni jalkaan tai laskeutuvat siinä hieman alaspäin, ohuet, melko harvassa, jalan lähellä haarautuvat ja niiden välissä on lyhyempiä heltoja. Nuorena ne ovat valkoiset, vanhetessaan kermanväriset tai vaaleanokrat, ja vaurioituessaan ne muuttuvat hitaasti vaaleanpunaisiksi tai punertaviksi. Kohdassa, jossa ne laskeutuvat jalkaan, ne ovat tummanruskeat, mikä muodostaa jyrkän vastakohdan vaalealle heltapinnalle. Kantit ovat neljäitiöisiä, kooltaan noin 55–70 × 10–14 μm, ja heltan särmä on steriili, ja siinä on runsaasti ohutseinäisiä, lieriömäisiä, usein vääntyneitä kystidejä, joiden pituus on 15–65 μm.",
+        stipe: "Jalka on 40–120 mm pitkä ja 5–15 mm paksu, lieriömäinen ja suunnilleen tasapaksu, usein litistynyt tai taipunut, nuorena umpinainen ja myöhemmin ontto. Se on kuiva ja samettinen, lakin värinen, mutta tyvestä valkoinen ja huopamainen. Yläosa on lähes aina uurteinen tai harjanteinen kohdassa, jossa heltat laskeutuvat siihen.",
+        flesh: "Malto on valkoista, ohutta ja haurasta, mutta hieman joustavaa ja puuvillamaista. Leikattaessa se muuttuu hitaasti vaaleanpunertavaksi tai punertavaksi, erityisesti jalan tyvessä, vaikka muutos voi olla heikko tai puuttua kokonaan. Maitiaisneste on valkoista, vetistä ja niukkaa, värjää maltoa vaaleanpunaiseksi ja kuivuessaan muuttuu vaaleanpunertavaksi. Maku on mieto ja pähkinäinen, vanhoissa itiöemissä joskus hieman karvas, ja haju on heikko tai miellyttävä.",
+        sporePrint: "Vaalean kermanvärinen tai keltaisenoranssi. Itiöt ovat pyöreitä tai leveästi ellipsinmuotoisia, 8–10 μm, ja niiden pinnassa on amyloidisia syylyjä ja harjanteita, jotka ovat enintään 2 μm korkeita ja muodostavat epätäydellisen verkon.",
+        habitat: "Ektomykorritsallinen sieni, joka kasvaa maassa yksittäin tai pienissä ryhmissä, toisinaan runsaslukuisenakin, happamissa, ravinneköyhissä havumetsissä, useimmin kuusen ja myös pihtojen alla, kosteissa sammaleisissa paikoissa ja soiden lähellä. Joskus sen löytää myös maan lähellä olevalta hyvin lahonneelta puulta. Se on pohjoinen ja vuoristoinen laji, joka on yleinen Pohjois-Euroopassa ja etelämpänä esiintyy enimmäkseen vuoristoissa, ja sitä tavataan myös Pohjois-Aasiassa ja Pohjois-Amerikan itäosassa. Itiöemät ilmestyvät heinäkuusta lokakuuhun.",
+        uses: "Syötävä kypsennettynä. Monet eurooppalaiset lähteet pitävät sitä erittäin hyvänä ruokasienenä, jonka maku on mieto ja pähkinäinen, kun taas toiset kuvaavat sitä vähäisen kiinnostavana, karvaana tai vain ehdollisesti syötävänä.",
+        confusion: "Tunnusomaisia ovat tumma samettinen lakki, jossa on pieni kärki, jyrkästi vastakkaiset valkoiset heltat, jotka ruskeutuvat kohdassa, jossa ne laskeutuvat jalkaan, sekä uurteinen jalan yläosa. Lactarius picinus kasvaa samoilla paikoilla, mutta sen lakki on sileä ja kärjetön, jalka on paljon paksumpi ja sileä, heltat ovat tiheässä ja kermanväriset ja maito on polttavaa. Lactarius fuliginosus kasvaa enimmäkseen lehtipuiden alla, ja sillä on kellertävät heltat ja karvas maito. Lactarius azonites on vaaleamman ruskea lakiltaan, ja sen maito on polttavaa. Mikroskoopilla tunnusomaisia ovat suuret, pyöreät itiöt, joiden pintakuviointi on karkea ja piikkimäinen.",
+        notes: "Vuoden 2024 arvioinnissa laji on luokiteltu elinvoimaiseksi (Least Concern), ja sen kanta on vakaa. Se on pohjoinen ja vuoristoinen sieni, joka on yleinen Pohjois-Euroopassa ja etelämpänä vuoristoissa mutta harvinainen alavilla mailla. Saksassa se on pohjoisessa, lännessä ja keskiosassa harvinainen tai hyvin harvinainen ja sisältyy monien osavaltioiden uhanalaisluetteloihin, Tanskassa se on harvinainen ja havaittiin ensimmäisen kerran vuonna 1961. Pohjois-Amerikassa se muodostaa joukon hyvin samanlaisia muunnoksia, jotka eroavat pääasiassa maidon värjäytymisessä ja heltan särmän värissä."
+      },
+      fr: {
+        description: "Un lactaire de taille moyenne au chapeau velouté brun noir, au long pied de la même teinte sombre et aux lames remarquablement blanches. Il pousse sur le sol sous les conifères, surtout les épicéas, dans les forêts nordiques et de montagne d'Europe, d'Asie du Nord et de l'est de l'Amérique du Nord. Son lait blanc rosit lentement à l'air.",
+        cap: "Le chapeau mesure 20–80 mm de large, parfois jusqu'à 100 mm, d'abord conique à convexe avec une marge enroulée, puis étalé et faiblement déprimé, le plus souvent avec un petit mamelon pointu (papille) au centre. La surface est sèche, finement veloutée et mate, souvent ridée radialement et veinée, brun noir à brun foncé, presque noire chez les jeunes. Il existe des formes d'un brun plus clair et, rarement, presque blanches. La marge mince est souvent ondulée et parfois striée.",
+        hymenium: "Les lames sont adnées à légèrement décurrentes, minces, assez espacées, fourchues près du pied et entremêlées de lamellules. Blanches chez les jeunes, elles deviennent crème à ocre pâle avec l'âge et se teintent lentement de rose à rougeâtre aux endroits blessés. Là où elles descendent sur le pied, elles sont brun foncé, ce qui forme un net contraste avec la face claire des lames. Les basides sont tétrasporiques, d'environ 55–70 × 10–14 μm, et l'arête des lames est stérile, avec de nombreuses cystides à paroi mince, cylindriques, souvent tordues, longues de 15–65 μm.",
+        stipe: "Le pied mesure 40–120 mm de long et 5–15 mm d'épaisseur, cylindrique et d'épaisseur à peu près égale, souvent aplati ou courbé, plein chez les jeunes puis creux. Il est sec et velouté, de la couleur du chapeau, mais blanchâtre et feutré à la base. Le sommet est presque toujours côtelé ou sillonné là où les lames descendent.",
+        flesh: "La chair est blanche, mince et cassante, mais légèrement élastique et cotonneuse. À la coupe, elle devient lentement rosâtre à rougeâtre, surtout à la base du pied, bien que ce changement puisse être faible ou absent. Le lait est blanc, aqueux et peu abondant, teinte la chair en rose et rosit en séchant. La saveur est douce et de noisette, parfois légèrement amère chez les vieux sujets, et l'odeur est faible à agréable.",
+        sporePrint: "Crème pâle à jaune orangé. Les spores sont rondes à largement elliptiques, de 8–10 μm, ornées de verrues et de crêtes amyloïdes atteignant 2 μm de haut, qui forment un réseau incomplet.",
+        habitat: "Champignon ectomycorhizien qui pousse sur le sol, isolé ou en petits groupes, parfois en grand nombre, dans les forêts de conifères acides et pauvres en nutriments, le plus souvent sous les épicéas et aussi sous les sapins, dans les endroits humides couverts de mousse et près des tourbières. On le trouve parfois sur du bois bien pourri près du sol. C'est une espèce nordique et montagnarde, répandue en Europe du Nord et plus au sud surtout en montagne, qui existe aussi en Asie du Nord et dans l'est de l'Amérique du Nord. Les fructifications apparaissent de juillet à octobre.",
+        uses: "Comestible cuit. De nombreuses sources européennes le jugent très bon comestible, à la saveur douce et de noisette, tandis que d'autres le décrivent comme peu intéressant, amer ou seulement comestible sous conditions.",
+        confusion: "Le chapeau sombre et velouté avec un petit mamelon, les lames blanches fortement contrastées qui brunissent là où elles descendent sur le pied et le sommet sillonné du pied sont caractéristiques. Lactarius picinus pousse aux mêmes endroits, mais a un chapeau lisse sans mamelon, un pied bien plus épais et lisse, des lames crème serrées et un lait âcre. Lactarius fuliginosus pousse surtout sous les feuillus et a des lames jaunâtres et un lait amer. Lactarius azonites a un chapeau brun plus clair et un lait âcre. Au microscope, les grandes spores rondes à ornementation grossière, d'aspect épineux, sont caractéristiques.",
+        notes: "Une évaluation de 2024 classe l'espèce en préoccupation mineure (Least Concern), avec une population stable. C'est un champignon nordique et montagnard, répandu en Europe du Nord et en montagne plus au sud, mais rare en plaine. En Allemagne, il est rare à très rare dans le nord, l'ouest et le centre et figure sur les listes rouges de nombreux Länder, et au Danemark il est rare et n'a été signalé pour la première fois qu'en 1961. En Amérique du Nord, il forme un groupe de variétés très semblables, qui diffèrent surtout par la façon dont le lait change de couleur et par la couleur de l'arête des lames."
+      },
+      de: {
+        description: "Ein mittelgroßer Milchling mit samtigem, schwarzbraunem Hut, langem Stiel in derselben dunklen Farbe und auffallend weißen Lamellen. Er wächst am Boden unter Nadelbäumen, vor allem Fichten, in nördlichen und gebirgigen Wäldern Europas, Nordasiens und des östlichen Nordamerikas. Seine weiße Milch färbt sich an der Luft langsam rosa.",
+        cap: "Der Hut ist 20–80 mm breit, manchmal bis 100 mm, zuerst kegelig bis gewölbt mit eingerolltem Rand, dann ausgebreitet und flach niedergedrückt, meist mit einem kleinen spitzen Buckel (Papille) in der Mitte. Die Oberfläche ist trocken, fein samtig und matt, oft radial gerunzelt und geadert, schwarzbraun bis dunkelbraun, jung fast schwarz. Es gibt auch hellere braune Formen und selten fast weiße. Der dünne Rand ist oft wellig und manchmal gerieft.",
+        hymenium: "Die Lamellen sind angewachsen bis leicht herablaufend, dünn, ziemlich entfernt stehend, am Stiel gegabelt und mit kürzeren Lamellen untermischt. Jung sind sie weiß, im Alter werden sie cremefarben bis blass ockergelb und verfärben sich an verletzten Stellen langsam rosa bis rötlich. Wo sie am Stiel herablaufen, sind sie dunkelbraun, was einen scharfen Kontrast zur hellen Lamellenfläche bildet. Die Basidien sind viersporig, etwa 55–70 × 10–14 μm, und die Lamellenschneide ist steril mit vielen dünnwandigen, zylindrischen, oft gedrehten Zystiden von 15–65 μm Länge.",
+        stipe: "Der Stiel ist 40–120 mm lang und 5–15 mm dick, zylindrisch und ungefähr gleich dick, oft abgeflacht oder gebogen, jung voll und später hohl. Er ist trocken und samtig, wie der Hut gefärbt, an der Basis aber weißlich und filzig. Die Spitze ist fast immer gerippt oder gefurcht, wo die Lamellen herablaufen.",
+        flesh: "Das Fleisch ist weiß, dünn und brüchig, aber leicht elastisch und watteartig. Beim Anschneiden verfärbt es sich langsam rosa bis rötlich, besonders in der Stielbasis, auch wenn die Veränderung schwach sein oder fehlen kann. Die Milch ist weiß, wässrig und spärlich, färbt das Fleisch rosa und trocknet rosa ein. Der Geschmack ist mild und nussig, bei alten Fruchtkörpern manchmal leicht bitter, der Geruch schwach bis angenehm.",
+        sporePrint: "Hell cremefarben bis gelborange. Die Sporen sind rund bis breit ellipsoid, 8–10 μm, mit amyloiden Warzen und Graten von bis zu 2 μm Höhe verziert, die ein unvollständiges Netz bilden.",
+        habitat: "Ein Ektomykorrhizapilz, der am Boden wächst, einzeln oder in kleinen Gruppen, manchmal in großer Zahl, in sauren, nährstoffarmen Nadelwäldern, meist unter Fichten und auch unter Tannen, an feuchten, moosigen Stellen und nahe Mooren. Gelegentlich findet er sich auch auf gut vermodertem Holz nahe dem Boden. Es ist eine nordische und montane Art, die in Nordeuropa verbreitet ist und weiter südlich vor allem in den Bergen vorkommt; sie lebt auch in Nordasien und im östlichen Nordamerika. Die Fruchtkörper erscheinen von Juli bis Oktober.",
+        uses: "Gekocht essbar. Viele europäische Quellen bewerten ihn als sehr guten Speisepilz mit mildem, nussigem Geschmack, andere beschreiben ihn als wenig interessant, bitter oder nur bedingt essbar.",
+        confusion: "Kennzeichnend sind der dunkle, samtige Hut mit kleiner Spitze, die stark kontrastierenden weißen Lamellen, die dort braun werden, wo sie am Stiel herablaufen, und die gefurchte Stielspitze. Lactarius picinus wächst an denselben Standorten, hat aber einen glatten Hut ohne Spitze, einen viel dickeren, glatten Stiel, dicht stehende cremefarbene Lamellen und scharfe Milch. Lactarius fuliginosus wächst meist unter Laubbäumen und hat gelbliche Lamellen und bittere Milch. Lactarius azonites hat einen helleren braunen Hut und scharfe Milch. Unter dem Mikroskop sind die großen, runden Sporen mit grober, stachelig wirkender Ornamentierung kennzeichnend.",
+        notes: "Eine Bewertung von 2024 stuft die Art als nicht gefährdet (Least Concern) ein, mit stabiler Population. Es ist ein nordischer und montaner Pilz, der in Nordeuropa und weiter südlich in den Bergen verbreitet, im Flachland aber selten ist. In Deutschland ist er im Norden, Westen und in der Mitte selten bis sehr selten und steht in den Roten Listen vieler Bundesländer, in Dänemark ist er selten und wurde erstmals 1961 nachgewiesen. In Nordamerika bildet er eine Gruppe sehr ähnlicher Varietäten, die sich vor allem darin unterscheiden, wie sich die Milch verfärbt und welche Farbe die Lamellenschneide hat. Pilz des Jahres 2027 in Deutschland."
+      },
+      he: {
+        description: "פטרייה מפרישת חלב בגודל בינוני עם כובע קטיפתי חום־שחור, רגל ארוכה באותו גוון כהה ולמלות לבנות בולטות. היא גדלה על הקרקע מתחת לעצי מחט, בעיקר אשוחיות, ביערות צפוניים והרריים באירופה, בצפון אסיה ובמזרח צפון אמריקה. החלב הלבן שלה הופך לוורוד לאט באוויר.",
+        cap: "רוחב הכובע 20–80 מ״מ, לעיתים עד 100 מ״מ. תחילה הוא חרוטי עד קמור עם שולי כובע מגולגלים פנימה, ואחר כך נפרש ומעט שקוע, לרוב עם פטמה קטנה וחדה (פפילה) במרכז. פני השטח יבשים, קטיפתיים דק ועמומים, לעיתים קרובות מקומטים ברדיאליות ובעלי ורידים, חום־שחור עד חום כהה, ובצעירים כמעט שחור. קיימות גם צורות בגוון חום בהיר יותר, ולעיתים נדירות כמעט לבנות. השוליים הדקים לרוב גליים ולעיתים מחורצים.",
+        hymenium: "הלמלות צמודות עד יורדות מעט לאורך הרגל, דקות, די מרוחקות זו מזו, מפולגות בסמוך לרגל ומשולבות בלמלות קצרות יותר. בצעירים הן לבנות, ועם הגיל הופכות לקרם עד לאוקר בהיר, ובמקומות פגועים הופכות לאט לוורודות עד אדמדמות. במקום שבו הן יורדות לאורך הרגל הן חומות כהות, מה שיוצר ניגוד חד עם פני הלמלה הבהירים. הבסידיות בעלות ארבעה נבגים, בגודל של כ־55–70 × 10–14 מיקרומטר, וקצה הלמלה עקר ובו ציסטידיות רבות דקות דופן, גליליות ולעיתים קרובות מסובבות באורך 15–65 מיקרומטר.",
+        stipe: "אורך הרגל 40–120 מ״מ ועוביה 5–15 מ״מ, גלילית ובעובי שווה פחות או יותר, לעיתים קרובות שטוחה או מעוקלת, בצעירות מלאה ולאחר מכן חלולה. היא יבשה וקטיפתית, בצבע הכובע, אך בבסיס לבנבנה ובעלת מרקם לבד. החלק העליון כמעט תמיד מצולע או מחורץ במקום שבו הלמלות יורדות עליו.",
+        flesh: "הבשר לבן, דק ושביר, אך מעט גמיש ודמוי צמר גפן. בחיתוך הוא הופך לאט לוורדרד עד אדמדם, במיוחד בבסיס הרגל, אם כי השינוי עשוי להיות חלש או להיעדר. החלב לבן, מימי ומועט, צובע את הבשר בוורוד ומתייבש לוורוד. הטעם עדין ואגוזי, בגופי פרי זקנים לעיתים מעט מריר, והריח חלש עד נעים.",
+        sporePrint: "קרם בהיר עד כתום־צהבהב. הנבגים עגולים עד אליפסיים רחבים, 8–10 מיקרומטר, מעוטרים ביבלות ורכסים עמילואידיים בגובה עד 2 מיקרומטר היוצרים רשת לא שלמה.",
+        habitat: "פטרייה אקטומיקוריזית הגדלה על הקרקע, בודדת או בקבוצות קטנות, לעיתים במספרים גדולים, ביערות מחטניים חומציים ודלים בחומרי הזנה, לרוב מתחת לאשוחיות וגם מתחת לאשוחים, במקומות לחים וטחובים ובסמוך לביצות. לעיתים היא נמצאת גם על עץ רקוב היטב סמוך לקרקע. זהו מין צפוני והררי, נפוץ בצפון אירופה, ודרומה יותר בעיקר בהרים, והוא מצוי גם בצפון אסיה ובמזרח צפון אמריקה. גופי הפרי מופיעים מיולי עד אוקטובר.",
+        uses: "ניתנת לאכילה לאחר בישול. מקורות אירופיים רבים מדרגים אותה כפטרייה אכילה טובה מאוד בעלת טעם עדין ואגוזי, ואילו אחרים מתארים אותה כבעלת עניין מועט, מרירה או אכילה בתנאים בלבד.",
+        confusion: "האבחנה מבוססת על הכובע הכהה והקטיפתי עם הפטמה הקטנה, על הלמלות הלבנות בעלות הניגוד החזק שהופכות חומות במקום שבו הן יורדות לאורך הרגל, ועל קצה הרגל המחורץ. Lactarius picinus גדל באותם מקומות, אך כובעו חלק וללא פטמה, רגלו עבה וחלקה בהרבה, למלותיו צפופות ובצבע קרם והחלב שלו חריף. Lactarius fuliginosus גדל לרוב מתחת לעצים נשירים, ולמלותיו צהבהבות וחלבו מריר. ל־Lactarius azonites כובע חום בהיר יותר וחלב חריף. במיקרוסקופ האבחנה מבוססת על הנבגים העגולים והגדולים בעלי העיטור הגס שנראה קוצני.",
+        notes: "הערכה משנת 2024 מדרגת את המין כ״ללא חשש״ (Least Concern), עם אוכלוסייה יציבה. זוהי פטרייה צפונית והררית, נפוצה בצפון אירופה ובהרים דרומה יותר, אך נדירה בשפלה. בגרמניה היא נדירה עד נדירה מאוד בצפון, במערב ובמרכז ורשומה ברשימות האדומות של מדינות פדרליות רבות, ובדנמרק היא נדירה ותועדה לראשונה ב־1961. בצפון אמריקה היא יוצרת קבוצה של זנים דומים מאוד, שנבדלים בעיקר באופן שבו החלב משנה את צבעו ובצבע קצה הלמלה."
+      },
+      hi: {
+        description: "मध्यम आकार का दूधिया कुकुरमुत्ता, जिसकी टोपी मखमली काली-भूरी होती है, तना उसी गहरे रंग का लंबा होता है और गिल्स बहुत स्पष्ट रूप से सफ़ेद होती हैं। यह यूरोप, उत्तरी एशिया और पूर्वी उत्तरी अमेरिका के उत्तरी और पहाड़ी जंगलों में शंकुधारी पेड़ों, खासकर स्प्रूस के नीचे ज़मीन पर उगता है। इसका सफ़ेद दूध हवा में धीरे-धीरे गुलाबी हो जाता है।",
+        cap: "टोपी 20–80 मिमी चौड़ी होती है, कभी-कभी 100 मिमी तक। शुरू में यह शंक्वाकार से उत्तल होती है और किनारा भीतर की ओर मुड़ा रहता है, फिर फैल जाती है और हल्की धँस जाती है, आमतौर पर बीच में एक छोटी नुकीली गाँठ (पैपिला) होती है। सतह सूखी, बारीक मखमली और धुँधली होती है, अक्सर त्रिज्या की दिशा में झुर्रीदार और शिराओं वाली, काली-भूरी से गहरी भूरी, जवान अवस्था में लगभग काली। हल्की भूरी किस्में भी मिलती हैं और कभी-कभी लगभग सफ़ेद भी। पतला किनारा अक्सर लहरदार और कभी-कभी धारीदार होता है।",
+        hymenium: "गिल्स तने से जुड़ी हुई से हल्की नीचे उतरती हुई होती हैं, पतली और काफ़ी दूर-दूर, तने के पास द्विशाखित और छोटी गिल्स के साथ मिली हुई। जवान अवस्था में ये सफ़ेद होती हैं, उम्र के साथ क्रीम से हल्के गेरुए रंग की हो जाती हैं और चोट लगे स्थानों पर धीरे-धीरे गुलाबी से लालिमा लिए हो जाती हैं। जहाँ ये तने पर नीचे उतरती हैं वहाँ ये गहरी भूरी होती हैं, जिससे गिल्स की हल्की सतह के साथ तीखा अंतर बनता है। बेसिडिया चार बीजाणु वाले होते हैं, लगभग 55–70 × 10–14 μm, और गिल का किनारा बंध्य होता है, जिस पर 15–65 μm लंबे बहुत से पतली दीवार वाले, बेलनाकार, अक्सर मुड़े हुए सिस्टिडिया होते हैं।",
+        stipe: "तना 40–120 मिमी लंबा और 5–15 मिमी मोटा होता है, बेलनाकार और लगभग समान मोटाई का, अक्सर चपटा या मुड़ा हुआ, जवान अवस्था में ठोस और बाद में खोखला। यह सूखा और मखमली होता है, टोपी के रंग का, पर आधार पर सफ़ेदी लिए और फेल्ट जैसा। ऊपरी भाग लगभग हमेशा उभरी हुई धारियों वाला या खाँचेदार होता है, जहाँ गिल्स उस पर नीचे उतरती हैं।",
+        flesh: "गूदा सफ़ेद, पतला और भुरभुरा होता है, पर थोड़ा लचीला और रुई जैसा। काटने पर यह धीरे-धीरे गुलाबी से लालिमा लिए हो जाता है, खासकर तने के आधार में, हालाँकि यह बदलाव कमज़ोर हो सकता है या हो भी नहीं सकता। दूध सफ़ेद, पानी जैसा और कम मात्रा में होता है, गूदे को गुलाबी रंग देता है और सूखने पर गुलाबी हो जाता है। स्वाद हल्का और अखरोट जैसा होता है, पुराने फलनकायों में कभी-कभी थोड़ा कड़वा, और गंध हल्की से सुखद।",
+        sporePrint: "हल्का क्रीम से पीला-नारंगी। बीजाणु गोल से चौड़े दीर्घवृत्ताकार होते हैं, 8–10 μm, जिन पर 2 μm तक ऊँचे एमिलॉइड मस्से और उभार होते हैं जो एक अधूरा जाल बनाते हैं।",
+        habitat: "बाह्यमूलक कवक (एक्टोमाइकोराइज़ल) जो ज़मीन पर अकेले या छोटे समूहों में उगता है, कभी-कभी बड़ी संख्या में, अम्लीय और पोषक तत्वों की कमी वाले शंकुधारी जंगलों में, अधिकतर स्प्रूस के नीचे और फ़र के नीचे भी, नम काई वाली जगहों पर और दलदलों के पास। कभी-कभी यह ज़मीन के पास अच्छी तरह सड़ी लकड़ी पर भी मिलता है। यह उत्तरी और पहाड़ी प्रजाति है, जो उत्तरी यूरोप में व्यापक है और और दक्षिण में अधिकतर पहाड़ों में मिलती है; यह उत्तरी एशिया और पूर्वी उत्तरी अमेरिका में भी पाई जाती है। फलनकाय जुलाई से अक्टूबर तक दिखाई देते हैं।",
+        uses: "पकाने के बाद खाने योग्य। कई यूरोपीय स्रोत इसे हल्के, अखरोट जैसे स्वाद वाला बहुत अच्छा खाद्य कुकुरमुत्ता मानते हैं, जबकि अन्य इसे कम रुचिकर, कड़वा या केवल शर्तों के साथ खाने योग्य बताते हैं।",
+        confusion: "पहचान के लक्षण हैं: छोटी गाँठ वाली गहरी मखमली टोपी, तीखे अंतर वाली सफ़ेद गिल्स जो तने पर नीचे उतरने की जगह भूरी हो जाती हैं, और खाँचेदार तने का शीर्ष। Lactarius picinus उन्हीं जगहों पर उगता है, लेकिन उसकी टोपी चिकनी और बिना गाँठ की होती है, तना कहीं अधिक मोटा और चिकना होता है, गिल्स सघन और क्रीम रंग की होती हैं और दूध तीखा होता है। Lactarius fuliginosus ज़्यादातर चौड़ी पत्ती वाले पेड़ों के नीचे उगता है और उसकी गिल्स पीलापन लिए होती हैं और दूध कड़वा होता है। Lactarius azonites की टोपी हल्की भूरी और दूध तीखा होता है। सूक्ष्मदर्शी में मोटे, काँटेदार दिखने वाले अलंकरण वाले बड़े गोल बीजाणु पहचान के लक्षण हैं।",
+        notes: "2024 का आकलन इस प्रजाति को न्यूनतम चिंता (Least Concern) की श्रेणी में रखता है, और इसकी आबादी स्थिर है। यह उत्तरी और पहाड़ी कवक है, जो उत्तरी यूरोप में और दक्षिण में पहाड़ों में व्यापक है, पर निचले मैदानों में दुर्लभ है। जर्मनी में यह उत्तर, पश्चिम और मध्य भाग में दुर्लभ से बहुत दुर्लभ है और कई राज्यों की रेड लिस्ट में शामिल है, और डेनमार्क में यह दुर्लभ है और पहली बार 1961 में दर्ज की गई थी। उत्तरी अमेरिका में यह बहुत मिलती-जुलती किस्मों का एक समूह बनाती है, जो मुख्य रूप से दूध के रंग बदलने के तरीके और गिल के किनारे के रंग से अलग पहचानी जाती हैं।"
+      },
+      hu: {
+        description: "Közepes méretű tejelőgomba bársonyos, feketésbarna kalappal, ugyanolyan sötét színű hosszú tönkkel és feltűnően fehér lemezekkel. A talajon nő fenyők, főleg lucfenyők alatt, Európa, Észak-Ázsia és Észak-Amerika keleti részének északi és hegyvidéki erdeiben. Fehér teje a levegőn lassan rózsaszínűvé válik.",
+        cap: "A kalap 20–80 mm széles, olykor akár 100 mm, eleinte kúpos vagy domború, begöngyölt szélű, később kiterül és enyhén bemélyed, közepén általában kis hegyes dudorral (papilla). Felszíne száraz, finoman bársonyos és matt, gyakran sugarasan ráncos és eres, feketésbarna vagy sötétbarna, fiatalon szinte fekete. Léteznek világosabb barna formák is, és ritkán csaknem fehérek. A vékony szél gyakran hullámos, néha barázdált.",
+        hymenium: "A lemezek tönkhöz nőttek vagy enyhén lefutók, vékonyak, meglehetősen ritkásak, a tönk közelében villásan elágazók, közéjük rövidebb lemezek ékelődnek. Fiatalon fehérek, idősebb korban krémszínűek vagy halvány okkersárgák, sérülésnél lassan rózsaszínűvé vagy vörösesre változnak. Ahol a tönkön lefutnak, sötétbarnák, ami éles kontrasztot ad a lemezek világos felszínével. A bazídiumok négyspórásak, kb. 55–70 × 10–14 μm, a lemezél steril, sok vékony falú, hengeres, gyakran csavarodott, 15–65 μm hosszú cisztidával.",
+        stipe: "A tönk 40–120 mm hosszú és 5–15 mm vastag, hengeres és nagyjából egyenletes vastagságú, gyakran lapított vagy hajlott, fiatalon tömör, később üreges. Száraz és bársonyos, a kalap színű, tövénél azonban fehéres és molyhos. A teteje szinte mindig bordázott vagy barázdált ott, ahol a lemezek lefutnak rajta.",
+        flesh: "A húsa fehér, vékony és törékeny, de enyhén rugalmas és vattaszerű. Átvágva lassan rózsaszínűvé vagy vörösesre változik, különösen a tönk tövében, bár a változás gyenge lehet, vagy el is maradhat. A tejnedv fehér, vizenyős és kevés, rózsaszínűre festi a húst, és száradva rózsaszínű lesz. Íze enyhe és diós, idős termőtesteknél olykor kissé keserű, illata gyenge vagy kellemes.",
+        sporePrint: "Halvány krémszínű vagy sárgás narancssárga. A spórák gömbölyűek vagy széles elliptikusak, 8–10 μm, amiloid szemölcsökkel és legfeljebb 2 μm magas bordákkal díszítettek, amelyek hiányos hálózatot alkotnak.",
+        habitat: "Ektomikorrhizás gomba, amely a talajon nő, egyesével vagy kis csoportokban, néha nagy számban, savanyú, tápanyagszegény fenyvesekben, leggyakrabban lucfenyő, de jegenyefenyő alatt is, nedves, mohás helyeken és lápok közelében. Néha jól elkorhadt, talajközeli fán is megtalálható. Északi és hegyvidéki faj, Észak-Európában elterjedt, délebbre főleg a hegyekben él, és előfordul Észak-Ázsiában és Észak-Amerika keleti részén is. A termőtestek júliustól októberig jelennek meg.",
+        uses: "Főzve ehető. Sok európai forrás nagyon jó ehető gombának tartja, enyhe, diós ízzel, mások érdektelennek, keserűnek vagy csak feltételesen ehetőnek írják le.",
+        confusion: "Jellemző a sötét, bársonyos kalap kis csúccsal, az élesen kontrasztos fehér lemezek, amelyek ott barnulnak, ahol a tönkön lefutnak, és a barázdált tönkcsúcs. A Lactarius picinus ugyanazokon az élőhelyeken nő, de kalapja sima és csúcs nélküli, tönkje sokkal vastagabb és sima, lemezei sűrűk és krémszínűek, tejnedve pedig csípős. A Lactarius fuliginosus többnyire lombos fák alatt nő, lemezei sárgásak, teje keserű. A Lactarius azonites kalapja világosabb barna, teje csípős. Mikroszkóp alatt a nagy, gömbölyű, durva, tüskésnek látszó díszítésű spórák jellemzők.",
+        notes: "Egy 2024-es értékelés a fajt nem fenyegetettnek (Least Concern) minősíti, állománya stabil. Északi és hegyvidéki gomba, amely Észak-Európában és délebbre a hegyekben elterjedt, de a síkvidéken ritka. Németországban északon, nyugaton és középen ritka vagy nagyon ritka, és számos tartomány vörös listáján szerepel, Dániában ritka, és először 1961-ben jegyezték fel. Észak-Amerikában nagyon hasonló változatok csoportját alkotja, amelyek főként abban különböznek, hogyan változtatja a tejnedv a színét, és milyen színű a lemezél."
+      },
+      id: {
+        description: "Jamur susu berukuran sedang dengan tudung beludru cokelat kehitaman, tangkai panjang berwarna gelap yang sama, dan bilah putih yang mencolok. Tumbuh di tanah di bawah pohon runjung, terutama cemara spruce, di hutan utara dan pegunungan Eropa, Asia utara, dan Amerika Utara bagian timur. Getah putihnya perlahan berubah merah muda di udara.",
+        cap: "Tudung berdiameter 20–80 mm, kadang hingga 100 mm, mula-mula berbentuk kerucut hingga cembung dengan tepi menggulung ke dalam, kemudian mendatar dan sedikit cekung, biasanya dengan tonjolan kecil yang runcing di tengah (papila). Permukaannya kering, berbeludru halus dan kusam, sering berkerut radial dan berurat, berwarna cokelat kehitaman hingga cokelat tua, hampir hitam saat muda. Ada bentuk yang lebih pucat cokelat dan, jarang, yang hampir putih. Tepinya tipis, sering bergelombang dan kadang beralur.",
+        hymenium: "Bilah melekat pada tangkai atau sedikit menurun, tipis, cukup jarang, bercabang dua di dekat tangkai dan bercampur dengan bilah yang lebih pendek. Saat muda berwarna putih, dengan bertambahnya umur menjadi krem hingga kuning kecokelatan pucat, dan perlahan berubah merah muda hingga kemerahan di bagian yang rusak. Di tempat bilah menurun pada tangkai, warnanya cokelat tua sehingga kontras tajam dengan permukaan bilah yang pucat. Basidia berspora empat, sekitar 55–70 × 10–14 μm, dan tepi bilah steril, dengan banyak sistidia berdinding tipis, berbentuk silinder, sering terpuntir, panjang 15–65 μm.",
+        stipe: "Tangkai panjangnya 40–120 mm dan tebalnya 5–15 mm, berbentuk silinder dan kurang lebih sama tebal, sering pipih atau melengkung, padat saat muda dan kemudian berongga. Kering dan berbeludru, berwarna seperti tudung tetapi keputihan dan berfelt di pangkal. Bagian atasnya hampir selalu berusuk atau beralur di tempat bilah menurun.",
+        flesh: "Daging berwarna putih, tipis dan rapuh namun sedikit lentur dan seperti kapas. Saat diiris perlahan berubah kemerah-mudaan hingga kemerahan, terutama di pangkal tangkai, meskipun perubahan itu bisa lemah atau tidak ada. Getahnya putih, encer, dan sedikit, menodai daging menjadi merah muda dan mengering menjadi kemerah-mudaan. Rasanya lembut dan seperti kacang, kadang agak pahit pada tubuh buah tua, dan baunya samar hingga menyenangkan.",
+        sporePrint: "Krem pucat hingga oranye kekuningan. Spora bulat hingga elips lebar, 8–10 μm, berhias bintil dan rusuk amiloid setinggi hingga 2 μm yang membentuk jaring tidak lengkap.",
+        habitat: "Jamur ektomikoriza yang tumbuh di tanah, sendiri atau dalam kelompok kecil dan kadang dalam jumlah besar, di hutan runjung yang asam dan miskin hara, paling sering di bawah cemara spruce dan juga di bawah cemara fir, di tempat lembap berlumut dan dekat rawa gambut. Kadang ditemukan pada kayu yang sudah lapuk baik di dekat tanah. Spesies ini berasal dari wilayah utara dan pegunungan, tersebar luas di Eropa utara dan, lebih ke selatan, terutama ditemukan di pegunungan, serta terdapat di Asia utara dan Amerika Utara bagian timur. Tubuh buah muncul dari Juli hingga Oktober.",
+        uses: "Dapat dimakan setelah dimasak. Banyak sumber Eropa menilainya sebagai jamur konsumsi yang sangat baik dengan rasa lembut seperti kacang, sedangkan sumber lain menggambarkannya kurang menarik, pahit, atau hanya dapat dimakan dengan syarat.",
+        confusion: "Tudung gelap berbeludru dengan ujung kecil, bilah putih yang sangat kontras dan berubah cokelat di tempat bilah menurun pada tangkai, serta bagian atas tangkai yang beralur adalah ciri khasnya. Lactarius picinus tumbuh di tempat yang sama tetapi memiliki tudung licin tanpa ujung, tangkai yang jauh lebih kekar dan licin, bilah krem yang rapat, dan getah yang pedas. Lactarius fuliginosus tumbuh terutama di bawah pohon berdaun lebar dan memiliki bilah kekuningan serta getah pahit. Lactarius azonites memiliki tudung cokelat yang lebih pucat dan getah pedas. Di bawah mikroskop, spora bulat besar dengan ornamen kasar yang tampak berduri menjadi ciri khasnya.",
+        notes: "Penilaian tahun 2024 menempatkan spesies ini dalam kategori risiko rendah (Least Concern), dengan populasi yang stabil. Jamur ini berasal dari wilayah utara dan pegunungan, tersebar luas di Eropa utara dan di pegunungan lebih ke selatan, tetapi jarang di dataran rendah. Di Jerman jamur ini jarang hingga sangat jarang di utara, barat, dan tengah serta tercantum dalam daftar merah banyak negara bagian, dan di Denmark jamur ini jarang dan pertama kali tercatat pada 1961. Di Amerika Utara spesies ini membentuk kelompok varietas yang sangat mirip, yang berbeda terutama dalam cara getahnya menodai dan warna tepi bilah."
+      },
+      it: {
+        description: "Un lattario di medie dimensioni con cappello vellutato bruno-nerastro, gambo lungo dello stesso colore scuro e lamelle di un bianco vistoso. Cresce sul terreno sotto le conifere, soprattutto l'abete rosso, nelle foreste settentrionali e montane dell'Europa, dell'Asia settentrionale e dell'America settentrionale orientale. Il suo latte bianco diventa lentamente rosa all'aria.",
+        cap: "Il cappello misura 20–80 mm di diametro, a volte fino a 100 mm, dapprima da conico a convesso con margine involuto, poi appiattito e leggermente depresso, di solito con un piccolo umbone appuntito al centro (papilla). La superficie è asciutta, finemente vellutata e opaca, spesso rugosa in senso radiale e venata, da bruno-nerastra a bruno scuro, quasi nera da giovane. Esistono forme di un bruno più pallido e, raramente, quasi bianche. Il margine sottile è spesso ondulato e a volte solcato.",
+        hymenium: "Le lamelle sono adnate o leggermente decorrenti, sottili, piuttosto distanziate, forcate vicino al gambo e intercalate da lamellule. Da giovani sono bianche, con l'età diventano da crema a ocra pallido e, dove sono danneggiate, virano lentamente al rosato o al rossastro. Dove decorrono sul gambo sono bruno scuro, il che crea un netto contrasto con la faccia chiara delle lamelle. I basidi sono tetrasporici, di circa 55–70 × 10–14 μm, e il filo delle lamelle è sterile, con molti cistidi a parete sottile, cilindrici, spesso contorti, lunghi 15–65 μm.",
+        stipe: "Il gambo è lungo 40–120 mm e spesso 5–15 mm, cilindrico e più o meno uniforme, spesso appiattito o curvo, pieno da giovane e poi cavo. È asciutto e vellutato, del colore del cappello ma biancastro e feltrato alla base. La parte alta è quasi sempre costolata o solcata dove le lamelle vi decorrono.",
+        flesh: "La carne è bianca, sottile e fragile ma leggermente elastica e cotonosa. Al taglio vira lentamente al rosato o al rossastro, soprattutto nella base del gambo, anche se il cambiamento può essere debole o assente. Il latte è bianco, acquoso e scarso, macchia di rosa la carne e seccando diventa rosato. Il sapore è dolce e di nocciola, a volte leggermente amaro nei carpofori vecchi, e l'odore è debole o gradevole.",
+        sporePrint: "Crema pallido fino ad arancio giallastro. Le spore sono rotonde o largamente ellittiche, di 8–10 μm, ornate da verruche e creste amiloidi alte fino a 2 μm che formano un reticolo incompleto.",
+        habitat: "Un fungo ectomicorrizico che cresce sul terreno, isolato o in piccoli gruppi e talvolta in gran numero, in foreste di conifere acide e povere di nutrienti, più spesso sotto l'abete rosso e anche sotto l'abete bianco, in luoghi umidi e muschiosi e vicino alle torbiere. A volte si trova su legno ben marcio vicino al suolo. È una specie settentrionale e di montagna, diffusa nell'Europa settentrionale e, più a sud, presente soprattutto sui monti, e si trova anche nell'Asia settentrionale e nell'America settentrionale orientale. I carpofori compaiono da luglio a ottobre.",
+        uses: "Commestibile da cotto. Molte fonti europee lo giudicano un ottimo fungo commestibile dal sapore dolce e di nocciola, mentre altre lo descrivono come di scarso interesse, amaro o commestibile solo a certe condizioni.",
+        confusion: "Sono caratteristici il cappello scuro e vellutato con una piccola punta, le lamelle bianche fortemente contrastate che diventano brune dove decorrono sul gambo e la sommità solcata del gambo. Lactarius picinus cresce negli stessi luoghi, ma ha un cappello liscio senza punta, un gambo molto più robusto e liscio, lamelle crema fitte e latte acre. Lactarius fuliginosus cresce per lo più sotto le latifoglie e ha lamelle giallastre e latte amaro. Lactarius azonites ha un cappello bruno più pallido e latte acre. Al microscopio sono caratteristiche le grandi spore rotonde con ornamentazione grossolana, dall'aspetto spinoso.",
+        notes: "Una valutazione del 2024 classifica la specie a minor preoccupazione (Least Concern), con una popolazione stabile. È un fungo settentrionale e di montagna, diffuso nell'Europa settentrionale e sui monti più a sud, ma raro nelle pianure. In Germania è da raro a molto raro nel nord, nell'ovest e nel centro e compare nelle liste rosse di molti Stati federati, e in Danimarca è raro ed è stato segnalato per la prima volta nel 1961. In America settentrionale forma un gruppo di varietà molto simili che si distinguono soprattutto per come il latte macchia e per il colore del filo delle lamelle."
+      },
+      ja: {
+        description: "ビロード状の黒褐色の傘、同じ暗い色の長い柄、そして際立って白いひだをもつ中型のチチタケ属のキノコです。ヨーロッパ、北アジア、北アメリカ東部の北方や山地の森林で、針葉樹、とくにトウヒの下の地上に生えます。白い乳液は空気にふれると、ゆっくりとピンク色に変わります。",
+        cap: "傘は直径20–80 mm、ときに100 mmに達し、はじめは円錐形から丸山形で縁が内側に巻き、のちに平らに開いて浅くくぼみ、ふつう中央に小さく尖った突起（乳頭状突起）があります。表面は乾いていて、細かいビロード状でつやがなく、しばしば放射状にしわが寄って脈があり、黒褐色から暗褐色で、若いときはほとんど黒色です。より淡い褐色のものや、まれにほぼ白色のものもあります。薄い縁はしばしば波打ち、ときに溝があります。",
+        hymenium: "ひだは柄に直生するか、やや垂生し、薄く、やや疎で、柄の近くで二叉に分かれ、短いひだが混じります。若いときは白色で、成長とともにクリーム色から淡い黄土色になり、傷つくとゆっくりピンク色から赤みを帯びた色に変わります。柄に垂生する部分は暗褐色で、淡いひだの面と鋭い対照をなします。担子器は4胞子性で、約55–70 × 10–14 μm、ひだの縁は不稔で、薄壁で円筒形、しばしばねじれた長さ15–65 μmの嚢状体が多数あります。",
+        stipe: "柄は長さ40–120 mm、太さ5–15 mmで、円筒形でほぼ同じ太さであり、しばしば扁平または曲がり、若いときは中実で、のちに中空になります。乾いていてビロード状で、傘と同じ色ですが、基部は白っぽくフェルト状です。上部は、ひだが垂生するところでほとんど常に隆起した筋または溝があります。",
+        flesh: "肉は白色で薄くもろいものの、わずかに弾力があり綿状です。切るとゆっくりと淡いピンク色から赤みを帯びた色に変わり、とくに柄の基部で目立ちますが、変化が弱いか見られないこともあります。乳液は白色で水っぽく量が少なく、肉をピンク色に染め、乾くとピンクがかった色になります。味はおだやかでナッツのようで、古い子実体ではときにわずかに苦く、匂いはかすかか、心地よいものです。",
+        sporePrint: "淡いクリーム色から黄橙色。胞子は球形から広楕円形で、8–10 μm、高さ2 μmに達するアミロイド性のいぼと隆起で飾られ、不完全な網目をつくります。",
+        habitat: "外生菌根を形成する菌で、地上に単生または小さな群れで生え、ときに大量に発生します。酸性で栄養に乏しい針葉樹林に生え、最もよくトウヒの下にあり、モミの下にも生え、湿って苔むした場所や湿原の近くでみられます。地面近くのよく腐った木材上に見つかることもあります。北方および山地の種で、北ヨーロッパに広く分布し、さらに南では主に山地にみられるほか、北アジアと北アメリカ東部にも分布します。子実体は7月から10月に現れます。",
+        uses: "加熱すれば食べられます。ヨーロッパの多くの資料はおだやかでナッツのような味の非常によい食用キノコと評価していますが、ほかの資料は、興味をひくものではない、苦い、または条件付きでのみ食べられると述べています。",
+        confusion: "小さな尖りのある暗色のビロード状の傘、柄に垂生するところで褐色になる強く対照的な白いひだ、そして溝のある柄の上部が特徴です。Lactarius picinusは同じ場所に生えますが、傘は滑らかで尖りがなく、柄ははるかに太く滑らかで、ひだはクリーム色で密、乳液は辛みがあります。Lactarius fuliginosusは主に広葉樹の下に生え、ひだは黄色みを帯び、乳液は苦いです。Lactarius azonitesは傘がより淡い褐色で、乳液は辛みがあります。顕微鏡では、粗くとげ状に見える装飾をもつ大きな球形の胞子が特徴です。",
+        notes: "2024年の評価では、この種は軽度懸念（Least Concern）とされ、個体数は安定しています。北方および山地の菌で、北ヨーロッパと、さらに南の山地に広く分布しますが、低地ではまれです。ドイツでは北部、西部、中部でまれから非常にまれで、多くの州のレッドリストに載っており、デンマークではまれで、1961年に初めて記録されました。北アメリカでは非常によく似た変種のまとまりをつくり、おもに乳液の変色のしかたとひだの縁の色で区別されます。"
+      },
+      ko: {
+        description: "벨벳 같은 흑갈색 갓, 같은 어두운 색의 긴 자루, 눈에 띄게 흰 주름살을 가진 중형 젖버섯입니다. 유럽, 북아시아, 북아메리카 동부의 북부 및 산지 숲에서 침엽수, 특히 가문비나무 아래 땅에 자랍니다. 흰 젖은 공기 중에서 천천히 분홍색으로 변합니다.",
+        cap: "갓은 지름 20–80 mm, 때로는 100 mm에 이르며, 처음에는 원뿔형에서 볼록한 모양으로 가장자리가 안으로 말려 있다가 나중에 납작해지고 얕게 오목해지며, 보통 중앙에 작고 뾰족한 돌기(유두)가 있습니다. 표면은 건조하고 곱게 벨벳 같으며 광택이 없고, 흔히 방사상으로 주름지고 맥이 있으며, 흑갈색에서 진한 갈색이고 어릴 때는 거의 검은색입니다. 더 연한 갈색 형태와 드물게 거의 흰색인 것도 있습니다. 얇은 가장자리는 흔히 물결 모양이며 때로는 골이 있습니다.",
+        hymenium: "주름살은 자루에 붙거나 약간 내려붙고, 얇으며, 다소 성기고, 자루 가까이에서 두 갈래로 갈라지며 짧은 주름살이 섞여 있습니다. 어릴 때는 흰색이고 나이가 들면 크림색에서 연한 황토색이 되며, 상처가 나면 천천히 분홍색에서 붉은빛으로 변합니다. 자루에 내려붙은 부분은 진한 갈색이어서 연한 주름살 면과 뚜렷한 대조를 이룹니다. 담자기는 4포자성이며 약 55–70 × 10–14 μm이고, 주름살 가장자리는 불임성으로 길이 15–65 μm의 얇은 벽을 가진 원통형이며 흔히 뒤틀린 낭상체가 많습니다.",
+        stipe: "자루는 길이 40–120 mm, 굵기 5–15 mm이고 원통형으로 굵기가 거의 일정하며, 흔히 납작하거나 휘어 있고, 어릴 때는 속이 차 있다가 나중에 비게 됩니다. 건조하고 벨벳 같으며 갓과 같은 색이지만 밑동은 희끄무레하고 펠트 같습니다. 윗부분은 주름살이 내려붙는 곳에 거의 항상 능선이나 홈이 있습니다.",
+        flesh: "살은 흰색이고 얇고 잘 부서지지만 약간 탄력이 있고 솜 같습니다. 자르면 천천히 분홍빛에서 붉은빛으로 변하며 특히 자루 밑동에서 그렇지만, 변화가 약하거나 없을 수도 있습니다. 젖은 흰색이고 묽으며 양이 적고, 살을 분홍색으로 물들이며 마르면 분홍빛이 됩니다. 맛은 순하고 고소하며 늙은 자실체에서는 때로 약간 쓰고, 냄새는 희미하거나 좋습니다.",
+        sporePrint: "연한 크림색에서 노란빛 주황색. 포자는 원형에서 넓은 타원형이며 8–10 μm이고, 높이 2 μm에 이르는 아밀로이드성 사마귀와 능선으로 장식되어 불완전한 그물을 이룹니다.",
+        habitat: "외생균근성 균류로 땅에 홀로 또는 작은 무리로 자라며 때로 많은 수가 나옵니다. 산성이고 양분이 적은 침엽수림에서 자라며, 가문비나무 아래에서 가장 흔하고 전나무 아래에서도 자라고, 축축하고 이끼 낀 곳과 습지 근처에서 납니다. 때로 땅 가까이의 잘 썩은 나무에서도 발견됩니다. 북방 및 산지 종으로 북유럽에 널리 분포하고, 더 남쪽에서는 주로 산지에서 발견되며, 북아시아와 북아메리카 동부에도 분포합니다. 자실체는 7월부터 10월까지 나타납니다.",
+        uses: "익혀서 먹을 수 있습니다. 유럽의 많은 자료는 순하고 고소한 맛의 매우 좋은 식용버섯으로 평가하지만, 다른 자료는 별 관심을 끌지 못한다거나, 쓰다거나, 조건부로만 먹을 수 있다고 설명합니다.",
+        confusion: "작은 뾰족한 돌기가 있는 어둡고 벨벳 같은 갓, 자루에 내려붙는 곳에서 갈색으로 변하는 강한 대조의 흰 주름살, 홈이 있는 자루 윗부분이 특징입니다. Lactarius picinus는 같은 곳에서 자라지만 갓이 매끈하고 돌기가 없으며, 자루가 훨씬 굵고 매끈하고, 주름살이 크림색으로 촘촘하며 젖이 맵습니다. Lactarius fuliginosus는 주로 활엽수 아래에서 자라고 주름살이 누르스름하며 젖이 씁니다. Lactarius azonites는 갓이 더 연한 갈색이고 젖이 맵습니다. 현미경으로는 거칠고 가시처럼 보이는 장식을 가진 큰 원형 포자가 특징입니다.",
+        notes: "2024년 평가에서 이 종은 관심대상(Least Concern)으로 분류되며 개체군은 안정적입니다. 북방 및 산지의 균류로 북유럽과 더 남쪽의 산지에 널리 분포하지만 저지대에서는 드뭅니다. 독일에서는 북부, 서부, 중부에서 드물거나 매우 드물며 여러 주의 적색목록에 올라 있고, 덴마크에서는 드물며 1961년에 처음 기록되었습니다. 북아메리카에서는 매우 비슷한 변종들의 무리를 이루며, 주로 젖이 물드는 방식과 주름살 가장자리의 색으로 구별됩니다."
+      },
+      lv: {
+        description: "Vidēja izmēra pienaine ar samtainu, melnbrūnu cepurīti, garu kātiņu tādā pašā tumšā krāsā un ļoti baltām plāksnītēm. Aug uz zemes zem skujkokiem, galvenokārt eglēm, Eiropas, Ziemeļāzijas un Ziemeļamerikas austrumu daļas ziemeļu un kalnu mežos. Tās baltais piens gaisā lēni kļūst rozā.",
+        cap: "Cepurīte ir 20–80 mm plata, dažreiz līdz 100 mm, sākumā koniska līdz izliekta ar uz iekšu ieritinātu malu, pēc tam izplešas un kļūst sekli iedobta, parasti ar nelielu smailu izcilni vidū (papillu). Virsma ir sausa, smalki samtaina un matēta, bieži radiāli grumbaina un dzīslota, melnbrūna līdz tumši brūna, jaunībā gandrīz melna. Sastopamas arī gaišākas brūnas formas un reti — gandrīz baltas. Plānā mala bieži ir viļņaina un dažkārt rievota.",
+        hymenium: "Plāksnītes ir piekļautas kātiņam vai nedaudz nolaidenas, plānas, diezgan retas, pie kātiņa dakšveida un sajauktas ar īsākām plāksnītēm. Jaunībā tās ir baltas, vecumā kļūst krēmkrāsas līdz gaiši okerkrāsas un bojājuma vietās lēni iekrāsojas rozā līdz sarkanīgā krāsā. Tur, kur tās nolaižas pa kātiņu, tās ir tumši brūnas, kas rada krasu kontrastu ar gaišo plāksnīšu virsmu. Bazīdijas ir četrsporu, aptuveni 55–70 × 10–14 μm, un plāksnīšu mala ir sterila, ar daudzām plānsienu, cilindriskām, bieži savītām cistīdām, kuru garums ir 15–65 μm.",
+        stipe: "Kātiņš ir 40–120 mm garš un 5–15 mm resns, cilindrisks un aptuveni vienāda resnuma, bieži saplacināts vai izliekts, jaunībā pilns, vēlāk dobs. Tas ir sauss un samtains, cepurītes krāsā, bet pamatnē baltgans un filcains. Augšdaļa gandrīz vienmēr ir ribota vai rievota tur, kur plāksnītes nolaižas.",
+        flesh: "Mīkstums ir balts, plāns un trausls, bet viegli elastīgs un vatei līdzīgs. Pārgriežot tas lēni kļūst rozīgs līdz sarkanīgs, īpaši kātiņa pamatnē, lai gan izmaiņa var būt vāja vai tās var nebūt. Piens ir balts, ūdeņains un tā ir maz, krāso mīkstumu rozā un, žūstot, kļūst rozīgs. Garša ir maiga un riekstaina, vecos augļķermeņos dažkārt nedaudz rūgta, smarža — vāja līdz patīkama.",
+        sporePrint: "Gaiši krēmkrāsas līdz dzeltenīgi oranža. Sporas ir apaļas līdz plati elipsoidālas, 8–10 μm, rotātas ar amiloīdām kārpiņām un izciļņiem līdz 2 μm augstumā, kas veido nepilnīgu tīklu.",
+        habitat: "Ektomikorizas sēne, kas aug uz zemes, atsevišķi vai nelielās grupās, dažkārt lielā skaitā, skābos, barības vielām nabadzīgos skujkoku mežos, visbiežāk zem eglēm un arī zem baltegļiem, mitrās, sūnainās vietās un purvu tuvumā. Dažreiz tā sastopama arī uz labi satrūdējušas koksnes tuvu zemei. Tā ir ziemeļu un kalnu suga, plaši izplatīta Ziemeļeiropā, bet tālāk uz dienvidiem sastopama galvenokārt kalnos, kā arī ziemeļu Āzijā un Ziemeļamerikas austrumos. Augļķermeņi parādās no jūlija līdz oktobrim.",
+        uses: "Ēdama pēc termiskās apstrādes. Daudzi Eiropas avoti to vērtē kā ļoti labu ēdamo sēni ar maigu, riekstainu garšu, bet citi to raksturo kā maz interesantu, rūgtu vai tikai nosacīti ēdamu.",
+        confusion: "Raksturīga ir tumša, samtaina cepurīte ar nelielu smaili, krasi kontrastējošas baltas plāksnītes, kas kļūst brūnas tur, kur tās nolaižas pa kātiņu, un rievota kātiņa augšdaļa. Lactarius picinus aug tajās pašās vietās, bet tam ir gluda cepurīte bez smailes, daudz resnāks un gluds kātiņš, blīvas krēmkrāsas plāksnītes un ass piens. Lactarius fuliginosus aug galvenokārt zem lapkokiem, tam ir dzeltenīgas plāksnītes un rūgts piens. Lactarius azonites cepurīte ir gaišāk brūna, bet piens ass. Zem mikroskopa raksturīgas ir lielas apaļas sporas ar rupju, dzeloņainu šķietamu rotājumu.",
+        notes: "Vērtējumā 2024. gadā suga ir klasificēta kā vismazāk apdraudēta suga (Least Concern) ar stabilu populāciju. Tā ir ziemeļu un kalnu sēne, plaši izplatīta Ziemeļeiropā un kalnos tālāk uz dienvidiem, bet reta zemienēs. Latvijā tā ir reta. Vācijā tā ziemeļos, rietumos un centrālajā daļā ir reta līdz ļoti reta un iekļauta daudzu federālo zemju sarkanajos sarakstos, bet Dānijā tā ir reta un pirmoreiz reģistrēta 1961. gadā. Ziemeļamerikā tā veido grupu ar ļoti līdzīgām varietātēm, kas atšķiras galvenokārt pēc tā, kā piens iekrāso, un pēc plāksnīšu malas krāsas."
+      },
+      lt: {
+        description: "Vidutinio dydžio piengrybis aksomine juodai ruda kepurėle, ilgu tokios pačios tamsios spalvos kotu ir akivaizdžiai baltais lakšteliais. Auga ant žemės po spygliuočiais, ypač eglėmis, šiaurinėse ir kalnų Europos, Šiaurės Azijos ir Šiaurės Amerikos rytinės dalies miškuose. Jo baltos pieniškos sultys ore pamažu parausta.",
+        cap: "Kepurėlė yra 20–80 mm skersmens, kartais iki 100 mm, iš pradžių kūgiška iki išgaubtos su įlenktu kraštu, vėliau išsiplečia ir tampa negiliai įdubusi, dažniausiai su mažu smailiu gumburėliu viduryje (papile). Paviršius sausas, smulkiai aksominis ir matinis, dažnai radialiai raukšlėtas ir gyslotas, juodai ruda iki tamsiai rudos, jauna beveik juoda. Pasitaiko ir šviesesnių rudų formų, o retai – beveik baltų. Plonas kraštas dažnai banguotas, kartais grioveliuotas.",
+        hymenium: "Lakšteliai prisitvirtinę prie koto arba šiek tiek nusileidžia, ploni, gana reti, prie koto šakoti ir išsidėstę kartu su trumpesniais. Jauni jie balti, senstant tampa kreminiai iki šviesiai ochros spalvos, o pažeistose vietose lėtai paraudonuoja. Ten, kur jie nusileidžia koto link, jie tamsiai rudi, todėl aštriai kontrastuoja su šviesiu lakštelių paviršiumi. Bazidės keturiasporės, apie 55–70 × 10–14 μm, o lakštelių kraštas yra sterilus, su daugybe plonasienių, cilindriškų, dažnai susisukusių cistidžių, kurių ilgis 15–65 μm.",
+        stipe: "Kotas yra 40–120 mm ilgio ir 5–15 mm storio, cilindriškas ir daugmaž vienodo storio, dažnai suplotas arba išlinkęs, jaunas pilnaviduris, vėliau tuščiaviduris. Jis sausas ir aksominis, kepurėlės spalvos, bet prie pagrindo balkšvas ir veltinio pavidalo. Viršutinė dalis beveik visada briaunota arba grioveliuota ten, kur nusileidžia lakšteliai.",
+        flesh: "Minkštimas baltas, plonas ir trapus, bet šiek tiek tamprus ir vatiškas. Perpjautas pamažu parausta iki rausvo, ypač koto pagrinde, nors pokytis gali būti silpnas arba jo gali nebūti. Pieniškos sultys baltos, vandeningos ir negausios, dažo minkštimą rausvai ir džiūdamos rausvėja. Skonis švelnus ir riešutinis, senuose vaisiakūniuose kartais šiek tiek karstelėjęs, o kvapas silpnas arba malonus.",
+        sporePrint: "Šviesiai kreminė iki gelsvai oranžinės. Sporos apvalios iki plačiai elipsoidinių, 8–10 μm, papuoštos amiloidinėmis karpelėmis ir keteromis iki 2 μm aukščio, kurios sudaro nepilną tinklą.",
+        habitat: "Ektomikorizinis grybas, augantis ant žemės pavieniui arba nedidelėmis grupėmis, kartais dideliais kiekiais, rūgščiuose, maistinėmis medžiagomis skurdžiuose spygliuočių miškuose, dažniausiai po eglėmis ir taip pat po kėniais, drėgnose, samanotose vietose ir šalia pelkių. Kartais randamas ir ant gerai supuvusios medienos prie žemės. Tai šiaurinė ir kalnų rūšis, plačiai paplitusi šiaurės Europoje, o toliau į pietus randama daugiausia kalnuose, taip pat aptinkama Šiaurės Azijoje ir Šiaurės Amerikos rytuose. Vaisiakūniai pasirodo nuo liepos iki spalio.",
+        uses: "Valgomas išvirtas. Daugelis Europos šaltinių jį vertina kaip labai gerą valgomąjį grybą su švelniu, riešutiniu skoniu, o kiti apibūdina kaip mažai įdomų, kartų arba tik sąlygiškai valgomą.",
+        confusion: "Būdingi tamsi, aksominė kepurėlė su mažu smaigaliu, stipriai kontrastuojantys balti lakšteliai, kurie parunda ten, kur nusileidžia koto link, ir grioveliuotas koto viršus. Lactarius picinus auga tose pačiose vietose, bet turi lygią kepurėlę be smaigalio, daug storesnį ir lygų kotą, tankius kreminius lakštelius ir aštrias pieniškas sultis. Lactarius fuliginosus auga daugiausia po lapuočiais, turi gelsvus lakštelius ir kartokas pieniškas sultis. Lactarius azonites turi šviesesnę rudą kepurėlę ir aštrias pieniškas sultis. Po mikroskopu būdingos stambios apvalios sporos su šiurkščiu, spygliuotu atrodančiu ornamentu.",
+        notes: "2024 m. vertinime rūšis priskirta mažiausiai susirūpinimą keliančių rūšių grupei (Least Concern), jos populiacija stabili. Tai šiaurinis ir kalnų grybas, plačiai paplitęs šiaurės Europoje ir kalnuose toliau į pietus, bet retas lygumose. Lietuvoje jis yra retas. Vokietijoje šiaurėje, vakaruose ir centre jis retas arba labai retas ir įtrauktas į daugelio federalinių žemių raudonuosius sąrašus, o Danijoje jis retas ir pirmą kartą užregistruotas 1961 m. Šiaurės Amerikoje jis sudaro labai panašių atmainų grupę, kurios skiriasi daugiausia pieniškų sulčių dėmėjimu ir lakštelių krašto spalva."
+      },
+      no: {
+        description: "En middels stor riske med fløyelsmyk, svartbrun hatt, lang stilk i samme mørke farge og påfallende hvite skiver. Den vokser på bakken under bartrær, særlig gran, i nordlige skoger og fjellskoger i Europa, Nord-Asia og det østlige Nord-Amerika. Den hvite melken blir langsomt rosa i luft.",
+        cap: "Hatten er 20–80 mm bred, noen ganger opptil 100 mm, først kjegleformet til hvelvet med innrullet kant, så flatere og grunt nedtrykt, vanligvis med en liten spiss kul (papill) midt på. Overflaten er tørr, fint fløyelsmyk og matt, ofte radiært rynket og året, og svartbrun til mørkebrun, nesten svart som ung. Lysere brune former og, sjelden, nesten hvite former forekommer. Den tynne kanten er ofte bølget og noen ganger furet.",
+        hymenium: "Skivene er tilvokste eller litt nedløpende, tynne, ganske spredt plassert, gaffeldelte nær stilken og blandet med kortere skiver. De er hvite som unge, blir kremfargede til lyst oker med alderen og farges langsomt rosa til rødlige der de skades. Der de løper ned på stilken, er de mørkebrune, noe som gir en skarp kontrast til den lyse skiveflaten. Basidiene er firesporede, omtrent 55–70 × 10–14 μm, og skiveeggen er steril, med mange tynnveggede, sylindriske, ofte vridde cystider på 15–65 μm i lengde.",
+        stipe: "Stilken er 40–120 mm lang og 5–15 mm tykk, sylindrisk og omtrent like tykk hele veien, ofte flattrykt eller bøyd, massiv som ung og senere hul. Den er tørr og fløyelsmyk, farget som hatten, men hvitaktig og filtet ved basis. Toppen er nesten alltid ribbet eller furet der skivene løper ned på den.",
+        flesh: "Kjøttet er hvitt, tynt og sprøtt, men svakt elastisk og bomullsaktig. Ved snitt blir det langsomt rosa til rødlig, særlig i stilkbasis, selv om endringen kan være svak eller utebli. Melken er hvit, vandig og sparsom, farger kjøttet rosa og tørker rosa. Smaken er mild og nøtteaktig, av og til svakt bitter i gamle fruktlegemer, og lukten er svak til behagelig.",
+        sporePrint: "Lys krem til gulaktig oransje. Sporene er runde til bredt elliptiske, 8–10 μm, pyntet med amyloide vorter og rygger på opptil 2 μm som danner et ufullstendig nett.",
+        habitat: "En ektomykorrhizadannende sopp som vokser på bakken, enkeltvis eller i små grupper og av og til i stort antall, i sur, næringsfattig barskog, oftest under gran og også under edelgran, på fuktige, mosegrodde steder og nær myrer. Den finnes av og til på godt råtnet ved nær bakken. Det er en nordlig art og fjellart, utbredt i Nord-Europa og lenger sør mest i fjellet, og den forekommer også i Nord-Asia og det østlige Nord-Amerika. Fruktlegemene dukker opp fra juli til oktober.",
+        uses: "Spiselig når den er kokt. Mange europeiske kilder vurderer den som en meget god matsopp med mild, nøtteaktig smak, mens andre beskriver den som lite interessant, bitter eller bare betinget spiselig.",
+        confusion: "Den mørke, fløyelsmyke hatten med en liten spiss, de sterkt kontrasterende hvite skivene som blir brune der de løper ned på stilken, og den furede stilktoppen er karakteristiske. Lactarius picinus vokser på de samme stedene, men har glatt hatt uten spiss, en mye kraftigere og glatt stilk, tette kremfargede skiver og skarp melk. Lactarius fuliginosus vokser mest under løvtrær og har gulaktige skiver og bitter melk. Lactarius azonites har en lysere brun hatt og skarp melk. Under mikroskop er de store, runde sporene med grov, pigget ornamentering karakteristiske.",
+        notes: "En vurdering fra 2024 plasserer arten som livskraftig (Least Concern), med stabil bestand. Det er en nordlig soppart og fjellart, utbredt i Nord-Europa og i fjellet lenger sør, men sjelden i lavlandet. I Tyskland er den sjelden til svært sjelden i nord, vest og midten og står på de røde listene i mange delstater, og i Danmark er den sjelden og ble første gang registrert i 1961. I Nord-Amerika danner den en gruppe svært like varieteter som hovedsakelig skiller seg i hvordan melken farger og i fargen på skiveeggen."
+      },
+      fa: {
+        description: "قارچی شیرابه‌دار و متوسط با کلاهک مخملی قهوه‌ای‌مایل به سیاه، ساقه بلند به همان رنگ تیره و تیغه‌های سفید چشمگیر. روی خاک زیر مخروطیان، به‌ویژه نوئل، در جنگل‌های شمالی و کوهستانی اروپا، شمال آسیا و شرق آمریکای شمالی می‌روید. شیرابهٔ سفید آن در هوا آهسته صورتی می‌شود.",
+        cap: "قطر کلاهک ۲۰ تا ۸۰ میلی‌متر و گاهی تا ۱۰۰ میلی‌متر است. ابتدا مخروطی تا محدب با لبهٔ به‌داخل‌پیچیده است، سپس صاف می‌شود و کمی فرو می‌رود و معمولاً در مرکز برآمدگی کوچک و نوک‌تیزی (پاپیل) دارد. سطح آن خشک، به‌ظرافت مخملی و مات است، اغلب شعاعی چروکیده و رگه‌دار، قهوه‌ای‌مایل به سیاه تا قهوه‌ای تیره و در جوانی تقریباً سیاه. شکل‌های قهوه‌ای روشن‌تر و به‌ندرت تقریباً سفید هم دیده می‌شود. لبهٔ نازک اغلب موجدار و گاهی شیاردار است.",
+        hymenium: "تیغه‌ها به ساقه چسبیده یا کمی روان‌اند، نازک، نسبتاً دور از هم، نزدیک ساقه دوشاخه و با تیغه‌های کوتاه‌تر آمیخته. در جوانی سفیدند، با افزایش سن کرم تا اُخرایی روشن می‌شوند و در جاهای آسیب‌دیده آهسته صورتی تا مایل به قرمز می‌شوند. جایی که روی ساقه پایین می‌روند قهوه‌ای تیره‌اند و تضاد تندی با سطح روشن تیغه‌ها ایجاد می‌کنند. بازیدی‌ها چهارهاگی و حدود ۵۵ تا ۷۰ × ۱۰ تا ۱۴ میکرومتر هستند و لبهٔ تیغه عقیم است و سیستیدهای فراوان با دیوارهٔ نازک، استوانه‌ای و اغلب پیچ‌خورده به طول ۱۵ تا ۶۵ میکرومتر دارد.",
+        stipe: "ساقه ۴۰ تا ۱۲۰ میلی‌متر بلندی و ۵ تا ۱۵ میلی‌متر ضخامت دارد، استوانه‌ای و کم‌وبیش هم‌ضخامت است، اغلب پهن یا خمیده، در جوانی توپر و بعدها توخالی. خشک و مخملی و هم‌رنگ کلاهک است، اما در پایه سفیدفام و نمدی است. بالای آن تقریباً همیشه آجدار یا شیاردار است، در جایی که تیغه‌ها روی آن پایین می‌آیند.",
+        flesh: "گوشت سفید، نازک و شکننده است، اما کمی کشسان و پنبه‌ای. هنگام برش آهسته صورتی‌فام تا مایل به قرمز می‌شود، به‌ویژه در پایهٔ ساقه، هرچند این تغییر ممکن است ضعیف باشد یا نباشد. شیرابه سفید، آبکی و اندک است، گوشت را صورتی رنگ می‌کند و هنگام خشک شدن صورتی‌فام می‌شود. طعم ملایم و مغزمانند است، در اندام‌های باردهی پیر گاهی کمی تلخ، و بو ضعیف تا خوشایند.",
+        sporePrint: "کرم روشن تا نارنجی زردفام. هاگ‌ها گرد تا بیضی پهن‌اند، ۸ تا ۱۰ میکرومتر، با زگیل‌ها و برجستگی‌های آمیلوئیدی تا ۲ میکرومتر ارتفاع آراسته‌اند که شبکه‌ای ناقص می‌سازند.",
+        habitat: "قارچی اکتومیکوریزی که روی خاک به‌صورت منفرد یا در گروه‌های کوچک و گاهی به تعداد زیاد می‌روید، در جنگل‌های مخروطی اسیدی و فقیر از مواد مغذی، بیشتر زیر نوئل و همچنین زیر نراد، در جاهای مرطوب و خزه‌دار و نزدیک باتلاق‌ها. گاهی هم روی چوب خوب پوسیده نزدیک زمین یافت می‌شود. گونه‌ای شمالی و کوهستانی است که در شمال اروپا گسترده است و در جنوب‌تر بیشتر در کوهستان‌ها دیده می‌شود و در شمال آسیا و شرق آمریکای شمالی هم هست. اندام‌های باردهی از ژوئیه تا اکتبر ظاهر می‌شوند.",
+        uses: "پس از پخت خوراکی است. بسیاری از منابع اروپایی آن را قارچ خوراکی بسیار خوبی با طعم ملایم و مغزمانند می‌دانند، اما برخی دیگر آن را کم‌اهمیت، تلخ یا فقط مشروطاً خوراکی توصیف می‌کنند.",
+        confusion: "کلاهک تیره و مخملی با نوک کوچک، تیغه‌های سفید با تضاد شدید که در جایی که روی ساقه پایین می‌آیند قهوه‌ای می‌شوند، و بالای شیاردار ساقه شاخص‌اند. Lactarius picinus در همان جاها می‌روید، اما کلاهک صاف بدون نوک، ساقه بسیار ضخیم‌تر و صاف، تیغه‌های کرم متراکم و شیرابهٔ تند دارد. Lactarius fuliginosus بیشتر زیر درختان پهن‌برگ می‌روید و تیغه‌های زردفام و شیرابهٔ تلخ دارد. Lactarius azonites کلاهک قهوه‌ای روشن‌تر و شیرابهٔ تند دارد. زیر میکروسکوپ هاگ‌های درشت و گرد با آرایهٔ زبر و خارمانند شاخص‌اند.",
+        notes: "ارزیابی سال ۲۰۲۴ این گونه را در رده کمترین نگرانی (Least Concern) با جمعیتی پایدار قرار می‌دهد. این قارچی شمالی و کوهستانی است که در شمال اروپا و در کوهستان‌های جنوب‌تر گسترده است، اما در نواحی پست کمیاب است. در آلمان در شمال، غرب و مرکز کمیاب تا بسیار کمیاب است و در فهرست‌های سرخ بسیاری از ایالت‌ها آمده، و در دانمارک کمیاب است و نخستین بار در ۱۹۶۱ ثبت شد. در آمریکای شمالی گروهی از واریته‌های بسیار مشابه می‌سازد که بیشتر در نحوهٔ لکه‌گذاری شیرابه و رنگ لبهٔ تیغه‌ها با هم تفاوت دارند."
+      },
+      pl: {
+        description: "Średniej wielkości mleczaj o aksamitnym, czarnobrązowym kapeluszu, długim trzonie w tym samym ciemnym kolorze i wyraźnie białych blaszkach. Rośnie na ziemi pod drzewami iglastymi, zwłaszcza świerkami, w północnych i górskich lasach Europy, północnej Azji i wschodniej Ameryki Północnej. Jego białe mleczko na powietrzu powoli różowieje.",
+        cap: "Kapelusz ma 20–80 mm średnicy, czasem do 100 mm, z początku stożkowaty do wypukłego z podwiniętym brzegiem, potem spłaszczony i płytko wklęśnięty, zwykle z małym spiczastym garbkiem pośrodku (brodawką). Powierzchnia jest sucha, drobno aksamitna i matowa, często promieniście pomarszczona i użyłkowana, czarnobrązowa do ciemnobrązowej, w młodości prawie czarna. Zdarzają się jaśniejsze brązowe formy i, rzadko, prawie białe. Cienki brzeg jest często falisty, czasem prążkowany.",
+        hymenium: "Blaszki są przyrośnięte lub lekko zbiegające, cienkie, dość rzadkie, widlasto rozwidlone przy trzonie i przemieszane z krótszymi. W młodości są białe, z wiekiem stają się kremowe do bladookrowych, a w miejscach uszkodzeń powoli różowieją do czerwonawych. Tam, gdzie zbiegają na trzon, są ciemnobrązowe, co daje ostry kontrast z jasną powierzchnią blaszek. Podstawki są czterozarodnikowe, mają około 55–70 × 10–14 μm, a ostrze blaszek jest płonne, z licznymi cienkościennymi, walcowatymi, często skręconymi cystydami o długości 15–65 μm.",
+        stipe: "Trzon ma 40–120 mm długości i 5–15 mm grubości, jest walcowaty i mniej więcej równogruby, często spłaszczony lub zakrzywiony, w młodości pełny, później pusty w środku. Jest suchy i aksamitny, w kolorze kapelusza, ale przy podstawie białawy i filcowaty. Wierzchołek jest prawie zawsze żebrowany lub bruzdowany tam, gdzie zbiegają na niego blaszki.",
+        flesh: "Miąższ jest biały, cienki i kruchy, lecz lekko sprężysty i watowaty. Po przecięciu powoli różowieje do czerwonawego, zwłaszcza w podstawie trzonu, choć zmiana może być słaba lub jej brak. Mleczko jest białe, wodniste i skąpe, barwi miąższ na różowo i po wyschnięciu jest różowawe. Smak jest łagodny i orzechowy, w starych owocnikach czasem lekko gorzki, a zapach słaby do przyjemnego.",
+        sporePrint: "Jasnokremowy do żółtawopomarańczowego. Zarodniki są kuliste do szeroko elipsoidalnych, 8–10 μm, ozdobione amyloidalnymi brodawkami i grzbiecikami do 2 μm wysokości, tworzącymi niepełną siateczkę.",
+        habitat: "Grzyb ektomikoryzowy rosnący na ziemi, pojedynczo lub w małych grupach, czasem licznie, w kwaśnych, ubogich w składniki pokarmowe lasach iglastych, najczęściej pod świerkami, a także pod jodłami, w wilgotnych, omszałych miejscach i w pobliżu torfowisk. Czasem znajduje się go na dobrze zbutwiałym drewnie blisko ziemi. Jest gatunkiem północnym i górskim, szeroko rozprzestrzenionym w północnej Europie, a dalej na południe spotykanym głównie w górach, występuje też w północnej Azji i wschodniej Ameryce Północnej. Owocniki pojawiają się od lipca do października.",
+        uses: "Jadalny po ugotowaniu. Wiele europejskich źródeł ocenia go jako bardzo dobry grzyb jadalny o łagodnym, orzechowym smaku, inne opisują go jako mało interesujący, gorzki lub tylko warunkowo jadalny.",
+        confusion: "Charakterystyczne są ciemny, aksamitny kapelusz z małym szpicem, mocno kontrastujące białe blaszki, które brunatnieją tam, gdzie zbiegają na trzon, oraz bruzdowany wierzchołek trzonu. Lactarius picinus rośnie w tych samych miejscach, ale ma gładki kapelusz bez szpica, znacznie grubszy i gładki trzon, gęste kremowe blaszki i ostre mleczko. Lactarius fuliginosus rośnie głównie pod drzewami liściastymi i ma żółtawe blaszki oraz gorzkie mleczko. Lactarius azonites ma jaśniejszy brązowy kapelusz i ostre mleczko. Pod mikroskopem charakterystyczne są duże, kuliste zarodniki z grubą, kolczasto wyglądającą ornamentacją.",
+        notes: "Ocena z 2024 roku zalicza gatunek do kategorii najmniejszej troski (Least Concern), a jego populacja jest stabilna. To grzyb północny i górski, szeroko rozprzestrzeniony w północnej Europie i w górach dalej na południe, ale rzadki na nizinach. W Niemczech jest rzadki do bardzo rzadkiego na północy, zachodzie i w centrum i figuruje na czerwonych listach wielu krajów związkowych, a w Danii jest rzadki i po raz pierwszy odnotowano go w 1961 roku. W Ameryce Północnej tworzy grupę bardzo podobnych odmian, które różnią się głównie tym, jak mleczko plami, i kolorem ostrza blaszek."
+      },
+      pt: {
+        description: "Um lactário de tamanho médio com chapéu aveludado castanho-enegrecido, pé longo da mesma cor escura e lâminas de um branco marcante. Cresce no chão sob coníferas, sobretudo o abeto-vermelho, em florestas setentrionais e de montanha da Europa, da Ásia setentrional e do leste da América do Norte. O seu leite branco torna-se lentamente rosado ao ar.",
+        cap: "O chapéu mede 20–80 mm de diâmetro, por vezes até 100 mm, no início cónico a convexo com a margem enrolada para dentro, depois achatado e ligeiramente deprimido, geralmente com uma pequena protuberância pontiaguda no centro (papila). A superfície é seca, finamente aveludada e baça, muitas vezes radialmente enrugada e veiada, castanho-enegrecida a castanho-escura, quase preta quando jovem. Existem formas de castanho mais pálido e, raramente, quase brancas. A margem fina é frequentemente ondulada e por vezes sulcada.",
+        hymenium: "As lâminas são adnatas ou ligeiramente decorrentes, finas, bastante espaçadas, bifurcadas junto ao pé e intercaladas com lamélulas. São brancas quando jovens, tornam-se creme a ocre-pálido com a idade e, onde são danificadas, mancham lentamente de rosa a avermelhado. Onde descem pelo pé são castanho-escuras, o que cria um contraste nítido com a face clara das lâminas. Os basídios são tetrasporados, com cerca de 55–70 × 10–14 μm, e a aresta das lâminas é estéril, com muitos cistídios de parede fina, cilíndricos, frequentemente retorcidos, com 15–65 μm de comprimento.",
+        stipe: "O pé mede 40–120 mm de comprimento e 5–15 mm de espessura, é cilíndrico e mais ou menos igual em toda a extensão, muitas vezes achatado ou curvo, maciço quando jovem e depois oco. É seco e aveludado, da cor do chapéu, mas esbranquiçado e feltrado na base. O topo é quase sempre costelado ou sulcado onde as lâminas descem sobre ele.",
+        flesh: "A carne é branca, fina e quebradiça, mas ligeiramente elástica e algodonosa. Ao corte, torna-se lentamente rosada a avermelhada, sobretudo na base do pé, embora a alteração possa ser fraca ou não ocorrer. O leite é branco, aquoso e escasso, mancha a carne de rosa e, ao secar, fica rosado. O sabor é suave e a noz, por vezes ligeiramente amargo nos carpóforos velhos, e o cheiro é fraco a agradável.",
+        sporePrint: "Creme pálido a laranja-amarelado. Os esporos são redondos a largamente elípticos, de 8–10 μm, ornamentados com verrugas e cristas amiloides de até 2 μm de altura que formam uma rede incompleta.",
+        habitat: "Um fungo ectomicorrízico que cresce no chão, isolado ou em pequenos grupos e por vezes em grande número, em florestas de coníferas ácidas e pobres em nutrientes, mais frequentemente sob o abeto-vermelho e também sob o abeto-prateado, em locais húmidos e musgosos e perto de turfeiras. Por vezes encontra-se em madeira bem apodrecida junto ao solo. É uma espécie setentrional e de montanha, muito difundida no norte da Europa e, mais a sul, encontrada sobretudo nas montanhas, e ocorre também no norte da Ásia e no leste da América do Norte. Os carpóforos surgem de julho a outubro.",
+        uses: "Comestível depois de cozinhado. Muitas fontes europeias consideram-no um cogumelo comestível muito bom, de sabor suave e a noz, enquanto outras o descrevem como de pouco interesse, amargo ou apenas condicionalmente comestível.",
+        confusion: "São característicos o chapéu escuro e aveludado com uma pequena ponta, as lâminas brancas fortemente contrastantes que ficam castanhas onde descem pelo pé e o topo sulcado do pé. Lactarius picinus cresce nos mesmos locais, mas tem um chapéu liso sem ponta, um pé muito mais robusto e liso, lâminas apertadas de cor creme e leite acre. Lactarius fuliginosus cresce sobretudo sob árvores de folha larga e tem lâminas amareladas e leite amargo. Lactarius azonites tem um chapéu castanho mais pálido e leite acre. Ao microscópio, são característicos os esporos grandes e redondos com ornamentação grosseira, de aspeto espinhoso.",
+        notes: "Uma avaliação de 2024 classifica a espécie como pouco preocupante (Least Concern), com uma população estável. É um fungo setentrional e de montanha, muito difundido no norte da Europa e nas montanhas mais a sul, mas raro nas terras baixas. Na Alemanha é raro a muito raro no norte, no oeste e no centro e consta das listas vermelhas de muitos estados federados, e na Dinamarca é raro e foi registado pela primeira vez em 1961. Na América do Norte forma um grupo de variedades muito semelhantes, que diferem sobretudo na forma como o leite mancha e na cor da aresta das lâminas."
+      },
+      ro: {
+        description: "O ciupercă de lapte de mărime mijlocie, cu pălărie catifelată brun-negricioasă, picior lung de aceeași culoare închisă și lamele de un alb izbitor. Crește pe sol sub conifere, mai ales sub molid, în pădurile nordice și montane din Europa, Asia de Nord și estul Americii de Nord. Laptele ei alb devine încet roz la aer.",
+        cap: "Pălăria are 20–80 mm în diametru, uneori până la 100 mm, la început conică până la convexă, cu marginea răsucită spre interior, apoi se aplatizează și devine ușor adâncită, de obicei cu o mică umflătură ascuțită în centru (papilă). Suprafața este uscată, fin catifelată și mată, adesea încrețită radial și cu vene, brun-negricioasă până la brun închis, aproape neagră la tinerețe. Există forme de un brun mai pal și, rar, aproape albe. Marginea subțire este adesea ondulată și uneori brăzdată.",
+        hymenium: "Lamelele sunt aderente sau ușor decurente, subțiri, destul de depărtate, bifurcate lângă picior și amestecate cu lamele mai scurte. Sunt albe la tinerețe, devin crem până la ocru pal odată cu vârsta și se pătează încet în roz până la roșiatic acolo unde sunt rănite. Acolo unde coboară pe picior sunt brun închis, ceea ce creează un contrast puternic cu fața deschisă a lamelelor. Bazidiile sunt tetrasporice, de circa 55–70 × 10–14 μm, iar muchia lamelelor este sterilă, cu multe cistidii cu pereți subțiri, cilindrice, adesea răsucite, lungi de 15–65 μm.",
+        stipe: "Piciorul are 40–120 mm lungime și 5–15 mm grosime, este cilindric și aproximativ egal, adesea turtit sau curbat, plin la tinerețe și apoi gol pe dinăuntru. Este uscat și catifelat, de culoarea pălăriei, dar albicios și pâslos la bază. Partea de sus este aproape întotdeauna cu coaste sau brăzdată acolo unde coboară lamelele.",
+        flesh: "Carnea este albă, subțire și fragilă, dar ușor elastică și vătoasă. La tăiere devine încet rozalie până la roșiatică, mai ales la baza piciorului, deși schimbarea poate fi slabă sau poate lipsi. Laptele este alb, apos și puțin, pătează carnea în roz și se usucă rozaliu. Gustul este blând și de nucă, uneori ușor amar la exemplarele bătrâne, iar mirosul este slab până la plăcut.",
+        sporePrint: "Crem pal până la portocaliu gălbui. Sporii sunt rotunzi până la larg eliptici, de 8–10 μm, ornamentați cu negi și creste amiloide înalte de până la 2 μm, care formează o rețea incompletă.",
+        habitat: "O ciupercă ectomicorizică ce crește pe sol, izolat sau în grupuri mici și uneori în număr mare, în păduri de conifere acide și sărace în nutrienți, cel mai adesea sub molid și, de asemenea, sub brad, în locuri umede și acoperite de mușchi și lângă mlaștini. Uneori se găsește pe lemn bine putrezit aproape de sol. Este o specie nordică și montană, larg răspândită în nordul Europei și, mai la sud, întâlnită mai ales în munți, și apare și în Asia de Nord și în estul Americii de Nord. Corpurile fructifere apar din iulie până în octombrie.",
+        uses: "Comestibilă după fierbere. Multe surse europene o apreciază ca o ciupercă comestibilă foarte bună, cu gust blând de nucă, în timp ce altele o descriu ca fiind de mic interes, amară sau comestibilă doar condiționat.",
+        confusion: "Sunt caracteristice pălăria închisă și catifelată cu un mic vârf, lamelele albe puternic contrastante care devin brune unde coboară pe picior și partea de sus brăzdată a piciorului. Lactarius picinus crește în aceleași locuri, dar are pălăria netedă, fără vârf, un picior mult mai gros și neted, lamele crem dese și lapte acru. Lactarius fuliginosus crește mai ales sub foioase și are lamele gălbui și lapte amar. Lactarius azonites are pălăria brună mai pală și lapte acru. La microscop sunt caracteristici sporii mari, rotunzi, cu ornamentație grosieră, cu aspect spinos.",
+        notes: "O evaluare din 2024 încadrează specia la risc scăzut (Least Concern), cu o populație stabilă. Este o ciupercă nordică și montană, larg răspândită în nordul Europei și în munții mai la sud, dar rară în câmpie. În Germania este rară până la foarte rară în nord, vest și centru și figurează pe listele roșii ale multor landuri, iar în Danemarca este rară și a fost înregistrată pentru prima dată în 1961. În America de Nord formează un grup de varietăți foarte asemănătoare, care diferă mai ales prin felul în care laptele pătează și prin culoarea muchiei lamelelor."
+      },
+      ru: {
+        description: "Млечник среднего размера с бархатистой чёрно-бурой шляпкой, длинной ножкой того же тёмного цвета и ярко-белыми пластинками. Растёт на земле под хвойными, особенно под елями, в северных и горных лесах Европы, Северной Азии и востока Северной Америки. Его белый млечный сок на воздухе медленно розовеет.",
+        cap: "Шляпка 20–80 мм в поперечнике, иногда до 100 мм, сначала коническая до выпуклой с подвёрнутым краем, затем распростёртая и неглубоко вдавленная, обычно с небольшим острым бугорком в центре (сосочком). Поверхность сухая, тонко бархатистая и матовая, часто радиально морщинистая и жилковатая, чёрно-бурая до тёмно-коричневой, в молодости почти чёрная. Встречаются более светлые бурые формы и, редко, почти белые. Тонкий край часто волнистый, иногда рубчатый.",
+        hymenium: "Пластинки приросшие или слегка нисходящие по ножке, тонкие, довольно редкие, у ножки вильчато разветвлённые, между ними вкраплены более короткие. В молодости они белые, с возрастом становятся кремовыми до бледно-охристых, а в местах повреждения медленно розовеют до красноватых. Там, где они нисходят по ножке, они тёмно-коричневые, что даёт резкий контраст со светлой поверхностью пластинок. Базидии четырёхспоровые, около 55–70 × 10–14 мкм, край пластинок стерильный, с многочисленными тонкостенными, цилиндрическими, часто изогнутыми цистидами длиной 15–65 мкм.",
+        stipe: "Ножка 40–120 мм длиной и 5–15 мм толщиной, цилиндрическая и более или менее одинаковой толщины, часто сплюснутая или изогнутая, в молодости плотная, позже полая. Она сухая и бархатистая, окрашена как шляпка, но у основания беловатая и войлочная. Верхняя часть почти всегда ребристая или бороздчатая там, где по ней нисходят пластинки.",
+        flesh: "Мякоть белая, тонкая и ломкая, но слегка упругая и ватообразная. На разрезе медленно розовеет до красноватой, особенно в основании ножки, хотя изменение может быть слабым или отсутствовать. Млечный сок белый, водянистый и скудный, окрашивает мякоть в розовый цвет и при высыхании розовеет. Вкус мягкий и ореховый, у старых плодовых тел иногда слегка горьковатый, запах слабый или приятный.",
+        sporePrint: "Бледно-кремовый до жёлто-оранжевого. Споры округлые до широко эллиптических, 8–10 мкм, украшены амилоидными бородавками и гребнями высотой до 2 мкм, образующими неполную сеть.",
+        habitat: "Эктомикоризный гриб, растущий на земле, одиночно или небольшими группами, иногда в большом количестве, в кислых, бедных питательными веществами хвойных лесах, чаще всего под елью, а также под пихтой, во влажных, мшистых местах и около болот. Иногда его находят на хорошо перегнившей древесине у земли. Это северный и горный вид, широко распространённый в северной Европе, а южнее встречающийся главным образом в горах; он также растёт в Северной Азии и на востоке Северной Америки. Плодовые тела появляются с июля по октябрь.",
+        uses: "Съедобен после варки. Многие европейские источники оценивают его как очень хороший съедобный гриб с мягким ореховым вкусом, тогда как другие описывают его как малоинтересный, горький или только условно съедобный.",
+        confusion: "Характерны тёмная бархатистая шляпка с небольшим острием, сильно контрастирующие белые пластинки, которые буреют там, где нисходят по ножке, и бороздчатая верхушка ножки. Lactarius picinus растёт в тех же местах, но имеет гладкую шляпку без острия, гораздо более толстую и гладкую ножку, частые кремовые пластинки и едкий млечный сок. Lactarius fuliginosus растёт в основном под лиственными деревьями, имеет желтоватые пластинки и горький млечный сок. У Lactarius azonites более светлая бурая шляпка и едкий млечный сок. Под микроскопом характерны крупные округлые споры с грубой, шиповатой на вид орнаментацией.",
+        notes: "Оценка 2024 года относит вид к категории наименьшего риска (Least Concern), численность стабильна. Это северный и горный гриб, широко распространённый в северной Европе и в горах южнее, но редкий на равнинах. В Германии он редок или очень редок на севере, западе и в центре и внесён в красные списки многих земель, а в Дании редок и впервые был зарегистрирован в 1961 году. В Северной Америке он образует группу очень похожих разновидностей, отличающихся главным образом тем, как окрашивает млечный сок, и цветом края пластинок."
+      },
+      sr: {
+        description: "Средње велика млечница са баршунастим, црно-смеђим клобуком, дугом дршком исте тамне боје и упадљиво белим листићима. Расте на тлу испод четинара, нарочито смрче, у северним и планинским шумама Европе, северне Азије и источне Северне Америке. Њено бело млеко на ваздуху полако постаје ружичасто.",
+        cap: "Клобук је широк 20–80 mm, понекад до 100 mm, у почетку купаст до испупчен са подвијеном ивицом, затим се спљошти и плитко удуби, обично са малом оштром квржицом у средини (папилом). Површина је сува, фино баршунаста и мутна, често радијално наборана и жиласта, црно-смеђа до тамносмеђа, у младости готово црна. Постоје и светлије смеђе форме, а ретко и готово беле. Танка ивица је често таласаста, а понекад браздаста.",
+        hymenium: "Листићи су прирасли за дршку или благо силазни, танки, прилично ретки, рачвасти близу дршке и измешани са краћим. У младости су бели, с годинама постају крем до бледоохрасти, а на оштећеним местима полако порумене до црвенкастих. Тамо где силазе низ дршку тамносмеђи су, што даје оштар контраст према светлој површини листића. Базидије су четвороспорне, величине око 55–70 × 10–14 μm, а оштрица листића је стерилна, са много танкозидних, цилиндричних, често увијених цистида дужине 15–65 μm.",
+        stipe: "Дршка је дугачка 40–120 mm и дебела 5–15 mm, ваљкаста и приближно једнаке дебљине, често спљоштена или повијена, у младости пуна, а касније шупља. Сува је и баршунаста, боје клобука, али при дну беличаста и филцана. Врх је готово увек ребраст или избраздан тамо где листићи силазе на њега.",
+        flesh: "Месо је бело, танко и ломљиво, али благо еластично и памучасто. На пресеку полако порумени до црвенкастог, нарочито у подножју дршке, мада промена може бити слаба или изостати. Млеко је бело, водњикаво и оскудно, боји месо ружичасто и при сушењу порумени. Укус је благ и орашаст, у старим плодоносним телима понекад благо горак, а мирис слаб до пријатан.",
+        sporePrint: "Бледокремаст до жућкастонаранџаст. Споре су округле до широко елипсоидне, 8–10 μm, украшене амилоидним брадавицама и гребенима високим до 2 μm који граде непотпуну мрежу.",
+        habitat: "Ектомикоризна гљива која расте на тлу, појединачно или у малим групама, повремено у великом броју, у киселим четинарским шумама сиромашним хранљивим материјама, најчешће испод смрче, а и испод јеле, на влажним, маховином обраслим местима и поред тресетишта. Понекад се налази и на добро иструлелом дрвету уз тло. То је северна и планинска врста, раширена у северној Европи, а јужније се налази углавном у планинама; јавља се и у северној Азији и источној Северној Америци. Плодоносна тела се појављују од јула до октобра.",
+        uses: "Јестива после кувања. Многи европски извори оцењују је као веома добру јестиву гљиву благог, орашастог укуса, док је други описују као мало занимљиву, горку или само условно јестиву.",
+        confusion: "Карактеристични су тамни баршунасти клобук са малим шиљком, снажно контрастни бели листићи који посмеђе тамо где силазе низ дршку и избраздан врх дршке. Lactarius picinus расте на истим местима, али има глатки клобук без шиљка, много дебљу и глатку дршку, густе крем листиће и љуто млеко. Lactarius fuliginosus расте углавном испод листопадног дрвећа и има жућкасте листиће и горко млеко. Lactarius azonites има светлији смеђи клобук и љуто млеко. Под микроскопом су карактеристичне велике округле споре са грубим, бодљикаво изгледајућим украсом.",
+        notes: "Процена из 2024. сврстава врсту међу најмање забрињавајуће (Least Concern), са стабилном популацијом. То је северна и планинска гљива, раширена у северној Европи и у планинама јужније, али ретка у низијама. У Немачкој је на северу, западу и у средини ретка до веома ретка и налази се на црвеним листама многих савезних држава, а у Данској је ретка и први пут је забележена 1961. У Северној Америци гради групу веома сличних варијетета који се разликују углавном по томе како млеко боји и по боји оштрице листића."
+      },
+      sl: {
+        description: "Srednje velika mlečnica z žametnim, črnorjavim klobukom, dolgim betom iste temne barve in izrazito belimi lističi. Raste na tleh pod iglavci, zlasti pod smrekami, v severnih in gorskih gozdovih Evrope, severne Azije in vzhodne Severne Amerike. Njeno belo mleko na zraku počasi postane rožnato.",
+        cap: "Klobuk je širok 20–80 mm, včasih do 100 mm, sprva stožčast do izbočen z zavihanim robom, nato se razprostre in plitvo vdre, običajno z majhno koničasto grbo na sredini (papilo). Površina je suha, drobno žametna in medla, pogosto radialno nagubana in žilnata, črnorjava do temnorjava, v mladosti skoraj črna. Pojavljajo se tudi svetlejše rjave oblike in redko skoraj bele. Tanek rob je pogosto valovit, včasih rebrast.",
+        hymenium: "Lističi so priraščeni ali se rahlo spuščajo po betu, tanki, precej redki, ob betu vilasto razcepljeni in pomešani s krajšimi. V mladosti so beli, s starostjo postanejo kremni do bledo rumenorjavi, na poškodovanih mestih pa počasi postanejo rožnati do rdečkasti. Kjer se spuščajo po betu, so temnorjavi, kar ustvari oster kontrast s svetlo površino lističev. Bazidiji so štiritrosni, veliki približno 55–70 × 10–14 μm, rob lističev je sterilen, z mnogimi tankostenskimi, valjastimi, pogosto zavitimi cistidi, dolgimi 15–65 μm.",
+        stipe: "Bet je dolg 40–120 mm in debel 5–15 mm, valjast in približno enako debel, pogosto sploščen ali ukrivljen, v mladosti poln, pozneje votel. Je suh in žametan, barve klobuka, a ob dnu belkast in polstast. Vrh je skoraj vedno rebrast ali zbrazdan, kjer se lističi spuščajo po njem.",
+        flesh: "Meso je belo, tanko in krhko, a rahlo prožno in bombažasto. Ob prerezu počasi postane rožnato do rdečkasto, zlasti v dnu beta, čeprav je sprememba lahko šibka ali je ni. Mleko je belo, vodnato in ga je malo, meso obarva rožnato in ob sušenju postane rožnato. Okus je blag in oreščkast, pri starih trosnjakih včasih rahlo grenak, vonj pa šibek do prijeten.",
+        sporePrint: "Bledo kremne do rumenkasto oranžne barve. Trosi so okrogli do široko elipsoidni, 8–10 μm, okrašeni z amiloidnimi bradavicami in grebeni, visokimi do 2 μm, ki tvorijo nepopolno mrežo.",
+        habitat: "Ektomikorizna goba, ki raste na tleh, posamično ali v majhnih skupinah, občasno v velikem številu, v kislih, s hranili revnih iglastih gozdovih, najpogosteje pod smrekami, pa tudi pod jelkami, na vlažnih, mahovnatih krajih in ob barjih. Včasih jo najdemo tudi na dobro razkrojenem lesu blizu tal. Je severna in gorska vrsta, razširjena v severni Evropi, dlje proti jugu pa uspeva predvsem v gorah, uspeva pa tudi v severni Aziji in vzhodni Severni Ameriki. Trosnjaki se pojavljajo od julija do oktobra.",
+        uses: "Užitna po kuhanju. Številni evropski viri jo ocenjujejo kot zelo dobro užitno gobo z blagim, oreščkastim okusom, drugi pa jo opisujejo kot malo zanimivo, grenko ali le pogojno užitno.",
+        confusion: "Značilni so temen žametni klobuk z majhno konico, močno kontrastni beli lističi, ki porjavijo tam, kjer se spuščajo po betu, in zbrazdan vrh beta. Lactarius picinus raste na istih mestih, vendar ima gladek klobuk brez konice, veliko debelejši in gladek bet, goste kremne lističe in ostro mleko. Lactarius fuliginosus raste večinoma pod listavci in ima rumenkaste lističe ter grenko mleko. Lactarius azonites ima svetlejši rjav klobuk in ostro mleko. Pod mikroskopom so značilni veliki okrogli trosi z grobo, na videz bodičasto ornamentiko.",
+        notes: "Ocena iz leta 2024 uvršča vrsto med najmanj ogrožene (Least Concern), populacija je stabilna. Je severna in gorska goba, razširjena v severni Evropi in v gorah dlje proti jugu, a redka v nižinah. V Nemčiji je na severu, zahodu in v sredini redka do zelo redka in je na rdečih seznamih številnih zveznih dežel, na Danskem pa je redka in je bila prvič zabeležena leta 1961. V Severni Ameriki tvori skupino zelo podobnih različkov, ki se razlikujejo predvsem po tem, kako mleko obarva, in po barvi roba lističev."
+      },
+      es: {
+        description: "Un lactario de tamaño mediano con sombrero aterciopelado pardo negruzco, pie largo del mismo color oscuro y láminas de un blanco llamativo. Crece en el suelo bajo coníferas, sobre todo abetos rojos, en bosques septentrionales y de montaña de Europa, Asia septentrional y el este de Norteamérica. Su leche blanca se vuelve lentamente rosada al aire.",
+        cap: "El sombrero mide 20–80 mm de diámetro, a veces hasta 100 mm, al principio cónico a convexo con el margen enrollado hacia dentro, luego aplanado y ligeramente deprimido, normalmente con un pequeño mamelón puntiagudo en el centro (papila). La superficie es seca, finamente aterciopelada y mate, a menudo arrugada radialmente y veteada, de color pardo negruzco a pardo oscuro, casi negra cuando joven. Existen formas de pardo más pálido y, raramente, casi blancas. El margen delgado suele ser ondulado y a veces estriado.",
+        hymenium: "Las láminas son adnadas o ligeramente decurrentes, delgadas, bastante espaciadas, bifurcadas cerca del pie y mezcladas con laminillas más cortas. Son blancas de jóvenes, con la edad pasan a crema y ocre pálido, y donde se dañan manchan lentamente de rosa a rojizo. Donde descienden por el pie son pardo oscuras, lo que crea un fuerte contraste con la cara pálida de las láminas. Los basidios son tetraspóricos, de unos 55–70 × 10–14 μm, y el filo de las láminas es estéril, con muchos cistidios de pared delgada, cilíndricos, a menudo retorcidos, de 15–65 μm de longitud.",
+        stipe: "El pie mide 40–120 mm de largo y 5–15 mm de grosor, es cilíndrico y más o menos igual, a menudo aplanado o curvado, macizo de joven y luego hueco. Es seco y aterciopelado, del color del sombrero pero blanquecino y afieltrado en la base. La parte superior es casi siempre acostillada o surcada donde las láminas descienden por él.",
+        flesh: "La carne es blanca, delgada y quebradiza, pero ligeramente elástica y algodonosa. Al cortarla se vuelve lentamente rosada a rojiza, sobre todo en la base del pie, aunque el cambio puede ser débil o no producirse. El látex es blanco, acuoso y escaso, mancha la carne de rosa y al secarse se vuelve rosado. El sabor es suave y a nuez, a veces ligeramente amargo en los ejemplares viejos, y el olor es débil a agradable.",
+        sporePrint: "Crema pálido a naranja amarillento. Las esporas son redondas a ampliamente elípticas, de 8–10 μm, ornamentadas con verrugas y crestas amiloides de hasta 2 μm de altura que forman una red incompleta.",
+        habitat: "Un hongo ectomicorrícico que crece en el suelo, solitario o en pequeños grupos y a veces en gran número, en bosques de coníferas ácidos y pobres en nutrientes, con más frecuencia bajo abetos rojos y también bajo abetos, en lugares húmedos y musgosos y cerca de turberas. A veces se encuentra sobre madera bien podrida cercana al suelo. Es una especie septentrional y de montaña, ampliamente distribuida en el norte de Europa y, más al sur, hallada sobre todo en las montañas, y también aparece en el norte de Asia y el este de Norteamérica. Los carpóforos aparecen de julio a octubre.",
+        uses: "Comestible una vez cocinado. Muchas fuentes europeas lo valoran como un muy buen hongo comestible de sabor suave y a nuez, mientras que otras lo describen como de poco interés, amargo o solo comestible con condiciones.",
+        confusion: "Son característicos el sombrero oscuro y aterciopelado con una pequeña punta, las láminas blancas fuertemente contrastadas que se vuelven pardas donde descienden por el pie y la parte superior surcada del pie. Lactarius picinus crece en los mismos lugares, pero tiene el sombrero liso sin punta, un pie mucho más robusto y liso, láminas crema apretadas y látex acre. Lactarius fuliginosus crece sobre todo bajo árboles de hoja ancha y tiene láminas amarillentas y látex amargo. Lactarius azonites tiene el sombrero pardo más pálido y látex acre. Al microscopio son características las esporas grandes y redondas, con ornamentación gruesa de aspecto espinoso.",
+        notes: "Una evaluación de 2024 clasifica la especie en preocupación menor (Least Concern), con una población estable. Es un hongo septentrional y de montaña, ampliamente distribuido en el norte de Europa y en las montañas más al sur, pero raro en las tierras bajas. En Alemania es raro a muy raro en el norte, el oeste y el centro y figura en las listas rojas de muchos estados federados, y en Dinamarca es raro y se registró por primera vez en 1961. En Norteamérica forma un grupo de variedades muy parecidas que se distinguen sobre todo por cómo mancha el látex y por el color del filo de las láminas."
+      },
+      sv: {
+        description: "En medelstor riska med sammetslen, svartbrun hatt, lång fot i samma mörka färg och påfallande vita skivor. Den växer på marken under barrträd, särskilt gran, i nordliga skogar och bergsskogar i Europa, norra Asien och östra Nordamerika. Den vita mjölken blir långsamt rosa i luft.",
+        cap: "Hatten är 20–80 mm bred, ibland upp till 100 mm, först kägelformad till välvd med inrullad kant, sedan utbredd och grunt nedtryckt, vanligen med en liten spetsig puckel (papill) i mitten. Ytan är torr, fint sammetslen och matt, ofta radiellt skrynklig och åderig, svartbrun till mörkbrun, nästan svart som ung. Ljusare bruna former och, sällsynt, nästan vita förekommer. Den tunna kanten är ofta vågig och ibland räfflad.",
+        hymenium: "Skivorna är fastväxta eller något nedlöpande, tunna, ganska glesa, gaffeldelade nära foten och blandade med kortare skivor. Som unga är de vita, med åldern blir de gräddfärgade till blekt okra och fläckas långsamt rosa till rödaktiga där de skadas. Där de löper ned på foten är de mörkbruna, vilket ger en skarp kontrast mot den ljusa skivytan. Basidierna är fyrsporiga, ungefär 55–70 × 10–14 μm, och skivseggen är steril, med många tunnväggiga, cylindriska, ofta vridna cystider som är 15–65 μm långa.",
+        stipe: "Foten är 40–120 mm lång och 5–15 mm tjock, cylindrisk och ungefär lika tjock hela vägen, ofta tillplattad eller böjd, massiv som ung och senare ihålig. Den är torr och sammetslen, i hattens färg men vitaktig och filtig vid basen. Toppen är nästan alltid ribbad eller fårad där skivorna löper ned på den.",
+        flesh: "Köttet är vitt, tunt och sprött men något elastiskt och bomullsaktigt. Vid snitt blir det långsamt rosaaktigt till rödaktigt, särskilt i fotbasen, även om förändringen kan vara svag eller utebli. Mjölken är vit, vattnig och sparsam, färgar köttet rosa och torkar rosaaktig. Smaken är mild och nötaktig, ibland svagt bitter hos gamla fruktkroppar, och lukten är svag till behaglig.",
+        sporePrint: "Blekt gräddfärgad till gulorange. Sporerna är runda till brett elliptiska, 8–10 μm, prydda med amyloida vårtor och åsar på upp till 2 μm som bildar ett ofullständigt nät.",
+        habitat: "En ektomykorrhizabildande svamp som växer på marken, ensam eller i små grupper och ibland i stort antal, i sur, näringsfattig barrskog, oftast under gran och även under ädelgran, på fuktiga, mossiga platser och nära myrar. Den påträffas ibland på väl multnat trä nära marken. Det är en nordlig art och fjällart, utbredd i norra Europa och längre söderut mest i bergen, och den förekommer även i norra Asien och östra Nordamerika. Fruktkropparna visar sig från juli till oktober.",
+        uses: "Ätlig kokt. Många europeiska källor bedömer den som en mycket god matsvamp med mild, nötaktig smak, medan andra beskriver den som föga intressant, bitter eller endast villkorligt ätlig.",
+        confusion: "Den mörka, sammetslena hatten med en liten spets, de starkt kontrasterande vita skivorna som blir bruna där de löper ned på foten och den fårade fottoppen är kännetecknande. Lactarius picinus växer på samma platser men har en slät hatt utan spets, en mycket kraftigare och slät fot, täta gräddfärgade skivor och skarp mjölk. Lactarius fuliginosus växer mest under lövträd och har gulaktiga skivor och bitter mjölk. Lactarius azonites har en ljusare brun hatt och skarp mjölk. Under mikroskop är de stora, runda sporerna med grov, taggig ornamentik kännetecknande.",
+        notes: "En bedömning från 2024 klassar arten som livskraftig (Least Concern), med stabil population. Det är en nordlig svamp och fjällsvamp, utbredd i norra Europa och i bergen längre söderut, men sällsynt i låglandet. I Tyskland är den sällsynt till mycket sällsynt i norr, väster och mitten och finns med på rödlistorna i många delstater, och i Danmark är den sällsynt och noterades första gången 1961. I Nordamerika bildar den en grupp mycket lika varieteter som skiljer sig främst i hur mjölken fläckar och i färgen på skivseggen."
+      },
+      tr: {
+        description: "Kadifemsi, siyahımsı kahverengi şapkalı, aynı koyu renkte uzun saplı ve çarpıcı biçimde beyaz lamelli, orta boy bir süt mantarı. Avrupa'nın, kuzey Asya'nın ve Kuzey Amerika'nın doğusunun kuzey ve dağ ormanlarında, iğne yapraklıların, özellikle ladinin altında toprakta yetişir. Beyaz sütü havada yavaşça pembeleşir.",
+        cap: "Şapka 20–80 mm çapındadır, bazen 100 mm'ye kadar çıkar; önce konik ile dışbükey arasındadır ve kenarı içe kıvrıktır, sonra düzleşir ve sığ biçimde çukurlaşır, genellikle ortasında küçük, sivri bir çıkıntı (papilla) bulunur. Yüzeyi kuru, ince kadifemsi ve mattır, çoğunlukla ışınsal kırışık ve damarlıdır, siyahımsı kahverengiden koyu kahverengiye kadar değişir, gençken neredeyse siyahtır. Daha açık kahverengi biçimleri ve nadiren neredeyse beyaz olanları görülür. İnce kenarı çoğunlukla dalgalı, bazen oluklu olur.",
+        hymenium: "Lameller saba yapışık ya da hafifçe inicidir, incedir, oldukça seyrektir, sapa yakın yerde çatallıdır ve daha kısa lamellerle karışıktır. Gençken beyazdır, yaşlandıkça kremden soluk oka dönüşür ve zedelenen yerlerde yavaşça pembeden kırmızımsıya boyanır. Sap üzerinde indikleri yerde koyu kahverengidir; bu, lamel yüzeyinin açık rengiyle keskin bir zıtlık oluşturur. Bazidler dört sporludur, yaklaşık 55–70 × 10–14 μm boyundadır; lamel kenarı kısırdır ve 15–65 μm uzunluğunda, ince çeperli, silindirik, çoğunlukla bükülü çok sayıda sistid taşır.",
+        stipe: "Sap 40–120 mm uzunluğunda ve 5–15 mm kalınlığındadır, silindiriktir ve az çok eşit kalınlıktadır, çoğunlukla yassılaşmış ya da eğridir, gençken dolgun, sonra boştur. Kuru ve kadifemsidir, şapka renginde olup tabanda beyazımsı ve keçemsidir. Lamellerin üzerine indiği yerde üst kısmı neredeyse her zaman kaburgalı ya da oluklu olur.",
+        flesh: "Et beyaz, ince ve kırılgandır, ancak hafif esnek ve pamuksudur. Kesildiğinde, özellikle sap tabanında, yavaşça pembemsiden kırmızımsıya döner; yine de bu değişim zayıf olabilir ya da hiç olmayabilir. Süt beyaz, sulu ve azdır, eti pembeye boyar ve kuruyunca pembemsi olur. Tadı yumuşak ve cevizimsidir, yaşlı meyve gövdelerinde bazen hafif acıdır, kokusu belli belirsizden hoşa kadar değişir.",
+        sporePrint: "Soluk kremden sarımsı turuncuya. Sporlar yuvarlaktan geniş eliptiğe kadar değişir, 8–10 μm'dir, yüksekliği 2 μm'ye varan, tam olmayan bir ağ oluşturan amiloid siğiller ve kabartılarla süslüdür.",
+        habitat: "Toprakta tek tek ya da küçük gruplar halinde, bazen çok sayıda yetişen ektomikorizal bir mantardır; asidik ve besin bakımından fakir iğne yapraklı ormanlarda, çoğunlukla ladinin ve ayrıca göknarın altında, nemli, yosunlu yerlerde ve turbalıkların yakınında bulunur. Bazen toprağa yakın, iyi çürümüş odunda da bulunur. Kuzeyli ve dağ türüdür, kuzey Avrupa'da yaygındır, daha güneyde çoğunlukla dağlarda bulunur ve kuzey Asya ile Kuzey Amerika'nın doğusunda da yetişir. Meyve gövdeleri temmuzdan ekime kadar görülür.",
+        uses: "Pişirildikten sonra yenir. Pek çok Avrupa kaynağı onu yumuşak, cevizimsi tadıyla çok iyi bir yenen mantar olarak değerlendirir; diğerleri ise az ilgi çekici, acı ya da yalnızca koşullu olarak yenebilir diye tanımlar.",
+        confusion: "Küçük uçlu koyu ve kadifemsi şapka, sap üzerine indikleri yerde kahverengileşen belirgin zıtlıktaki beyaz lameller ve oluklu sap tepesi ayırt edicidir. Lactarius picinus aynı yerlerde yetişir, ancak şapkası düzgündür ve uçsuzdur, sapı çok daha tombul ve düzgündür, lamelleri sık ve krem renklidir, sütü ise yakıcıdır. Lactarius fuliginosus çoğunlukla geniş yapraklı ağaçların altında yetişir, lamelleri sarımsıdır ve sütü acıdır. Lactarius azonites'in şapkası daha soluk kahverengidir ve sütü yakıcıdır. Mikroskop altında kaba, dikenli görünümlü süslemeye sahip büyük, yuvarlak sporlar ayırt edicidir.",
+        notes: "2024 değerlendirmesi türü asgari endişe (Least Concern) kategorisinde sayar ve popülasyonu durağandır. Kuzeyli ve dağ mantarıdır; kuzey Avrupa'da ve daha güneyde dağlarda yaygındır, ancak ovalarda nadirdir. Almanya'da kuzeyde, batıda ve ortada nadirden çok nadire kadar değişir ve birçok eyaletin kırmızı listesinde yer alır; Danimarka'da nadirdir ve ilk kez 1961'de kaydedilmiştir. Kuzey Amerika'da, esas olarak sütün boyama biçimi ve lamel kenarının rengi bakımından ayrılan, çok benzer varyetelerden oluşan bir grup oluşturur."
+      },
+      uk: {
+        description: "Гриб-молочник середнього розміру з оксамитовим чорно-бурим капелюшком, довгою ніжкою того самого темного кольору та яскраво-білими пластинками. Росте на землі під хвойними, особливо під ялинами, у північних і гірських лісах Європи, Північної Азії та сходу Північної Америки. Його білий молочний сік на повітрі повільно рожевіє.",
+        cap: "Капелюшок має 20–80 мм у поперечнику, іноді до 100 мм, спочатку конічний до опуклого з підігнутим краєм, потім розпростертий і неглибоко вдавлений, зазвичай з невеликим гострим горбком посередині (сосочком). Поверхня суха, тонко оксамитова й матова, часто радіально зморшкувата та жилкувата, чорно-бура до темно-коричневої, у молодості майже чорна. Трапляються світліші бурі форми та, рідко, майже білі. Тонкий край часто хвилястий, подекуди рубчастий.",
+        hymenium: "Пластинки приросли до ніжки або трохи збігають по ній, тонкі, досить рідкі, біля ніжки вилчасто розгалужені, між ними трапляються коротші. У молодості вони білі, з віком стають кремовими до блідо-охристих, а в місцях ушкодження повільно рожевіють до червонуватих. Там, де вони збігають по ніжці, вони темно-коричневі, що дає різкий контраст зі світлою поверхнею пластинок. Базидії чотириспорові, близько 55–70 × 10–14 мкм, край пластинок стерильний, з численними тонкостінними, циліндричними, часто скрученими цистидами завдовжки 15–65 мкм.",
+        stipe: "Ніжка 40–120 мм завдовжки та 5–15 мм завтовшки, циліндрична й більш-менш однакової товщини, часто сплюснута або зігнута, у молодості щільна, пізніше порожниста. Вона суха й оксамитова, забарвлена як капелюшок, але біля основи біляста й повстиста. Верхня частина майже завжди ребриста або борозенчаста там, де по ній збігають пластинки.",
+        flesh: "М'якуш білий, тонкий і ламкий, але трохи пружний і ватоподібний. На зрізі повільно рожевіє до червонуватого, особливо в основі ніжки, хоча зміна може бути слабкою або її може не бути. Молочний сік білий, водянистий і скупий, забарвлює м'якуш у рожевий колір і при висиханні рожевіє. Смак м'який і горіховий, у старих плодових тіл іноді трохи гіркуватий, запах слабкий або приємний.",
+        sporePrint: "Блідо-кремовий до жовтувато-оранжевого. Спори округлі до широко еліптичних, 8–10 мкм, прикрашені амілоїдними бородавками та гребенями заввишки до 2 мкм, що утворюють неповну сітку.",
+        habitat: "Ектомікоризний гриб, що росте на землі, поодинці або невеликими групами, іноді у великій кількості, у кислих, бідних на поживні речовини хвойних лісах, найчастіше під ялиною, а також під ялицею, у вологих, моховитих місцях і поблизу боліт. Іноді його знаходять на добре зотлілій деревині біля землі. Це північний і гірський вид, широко поширений у північній Європі, а далі на південь трапляється переважно в горах; він росте також у Північній Азії та на сході Північної Америки. Плодові тіла з'являються з липня по жовтень.",
+        uses: "Їстівний після варіння. Багато європейських джерел оцінюють його як дуже хороший їстівний гриб з м'яким горіховим смаком, тоді як інші описують його як малоцікавий, гіркий або лише умовно їстівний.",
+        confusion: "Характерні темний оксамитовий капелюшок з невеликим вістрям, сильно контрастні білі пластинки, які буріють там, де збігають по ніжці, та борозенчаста верхівка ніжки. Lactarius picinus росте в тих самих місцях, але має гладкий капелюшок без вістря, значно товстішу й гладку ніжку, густі кремові пластинки та їдкий молочний сік. Lactarius fuliginosus росте переважно під листяними деревами, має жовтуваті пластинки та гіркий молочний сік. У Lactarius azonites світліший бурий капелюшок та їдкий молочний сік. Під мікроскопом характерні великі округлі спори з грубою, на вигляд колючою орнаментацією.",
+        notes: "Оцінка 2024 року відносить вид до категорії найменшого ризику (Least Concern), чисельність стабільна. Це північний і гірський гриб, широко поширений у північній Європі та в горах південніше, але рідкісний на рівнинах. У Німеччині він рідкісний або дуже рідкісний на півночі, заході та в центрі й внесений до червоних списків багатьох земель, а в Данії він рідкісний і вперше був зареєстрований 1961 року. В Україні він відомий лише в Карпатах і занесений до Червоної книги України як рідкісний вид. У Північній Америці він утворює групу дуже схожих різновидів, які відрізняються переважно тим, як забарвлює молочний сік, і кольором краю пластинок."
+      }
+    },
+    sources: {
+      en: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://en.wikipedia.org/wiki/Lactarius_lignyotus"
+        },
+        {
+          "group": "name",
+          "name": "MushroomExpert.Com",
+          "href": "https://www.mushroomexpert.com/lactarius_lignyotus.html"
+        },
+        {
+          "group": "text",
+          "name": "de.wikipedia",
+          "href": "https://de.wikipedia.org/wiki/Schwarzkopf-Milchling"
+        },
+        {
+          "group": "name",
+          "name": "IUCN Red List",
+          "href": "https://www.iucnredlist.org/species/260437633/260437635",
+          "detail": "Least Concern, 2024"
+        },
+        {
+          "group": "name",
+          "name": "Index Fungorum",
+          "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=165811",
+          "detail": "165811"
+        },
+        {
+          "group": "name",
+          "name": "Species Fungorum",
+          "href": "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=165811",
+          "detail": "165811"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7240050",
+          "detail": "7240050"
+        }
+      ],
+      sk: [
+        {
+          "group": "text",
+          "name": "nahuby.sk",
+          "href": "https://www.nahuby.sk/atlas-hub/Lactarius-lignyotus/rydzik-ciernozamatovy/ryzec-cernohlavek/ID559",
+          "detail": "rýdzik čiernozamatový"
+        }
+      ],
+      ar: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7240050",
+          "detail": "7240050"
+        }
+      ],
+      bg: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7240050",
+          "detail": "7240050"
+        }
+      ],
+      zh: [
+        {
+          "group": "name",
+          "name": "台灣生物多樣性網絡 TBN",
+          "href": "https://www.tbn.org.tw/taxa/77ca869b-dda8-4abc-9bf4-a8a466b48c48"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7240050",
+          "detail": "7240050"
+        }
+      ],
+      hr: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7240050",
+          "detail": "7240050"
+        }
+      ],
+      cs: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://cs.wikipedia.org/wiki/Ryzec_%C4%8Dernohl%C3%A1vek"
+        },
+        {
+          "group": "text",
+          "name": "Česká mykologická společnost",
+          "href": "https://www.myko.cz/myko-atlas/Lactarius-lignyotus/"
+        }
+      ],
+      da: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://da.wikipedia.org/wiki/Fl%C3%B8jls-m%C3%A6lkehat"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7240050",
+          "detail": "7240050"
+        }
+      ],
+      nl: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7240050",
+          "detail": "7240050"
+        }
+      ],
+      et: [
+        {
+          "group": "text",
+          "name": "Vikipeedia",
+          "href": "https://et.wikipedia.org/wiki/Must_riisikas"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7240050",
+          "detail": "7240050"
+        }
+      ],
+      fi: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://fi.wikipedia.org/wiki/Nokirousku"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7240050",
+          "detail": "7240050"
+        }
+      ],
+      fr: [
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://fr.wikipedia.org/wiki/Lactarius_lignyotus"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7240050",
+          "detail": "7240050"
+        }
+      ],
+      de: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://de.wikipedia.org/wiki/Schwarzkopf-Milchling"
+        },
+        {
+          "group": "text",
+          "name": "DGfM, Pilz des Jahres 2027",
+          "href": "https://www.dgfm-ev.de/de/ueber-uns/news/pilz-des-jahres-2027-schwarzkopf-milchling"
+        }
+      ],
+      he: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7240050",
+          "detail": "7240050"
+        }
+      ],
+      hi: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7240050",
+          "detail": "7240050"
+        }
+      ],
+      hu: [
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://hu.wikipedia.org/wiki/R%C3%A1ncos_tejel%C5%91gomba"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7240050",
+          "detail": "7240050"
+        }
+      ],
+      id: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7240050",
+          "detail": "7240050"
+        }
+      ],
+      it: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7240050",
+          "detail": "7240050"
+        }
+      ],
+      ja: [
+        {
+          "group": "name",
+          "name": "大菌輪",
+          "href": "https://mycoscouter.coolblog.jp/daikinrin/Pages/Lactarius_lignyotus_165811.html"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7240050",
+          "detail": "7240050"
+        }
+      ],
+      ko: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7240050",
+          "detail": "7240050"
+        }
+      ],
+      lv: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://lv.wikipedia.org/wiki/Koksnes_pienaine"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7240050",
+          "detail": "7240050"
+        }
+      ],
+      lt: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://lt.wikipedia.org/wiki/Juodasis_piengrybis"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7240050",
+          "detail": "7240050"
+        }
+      ],
+      no: [
+        {
+          "group": "name",
+          "name": "Artsdatabanken",
+          "href": "https://artsdatabanken.no/arter/takson/40415"
+        },
+        {
+          "group": "name",
+          "name": "Store norske leksikon",
+          "href": "https://snl.no/sotriske"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7240050",
+          "detail": "7240050"
+        }
+      ],
+      fa: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7240050",
+          "detail": "7240050"
+        }
+      ],
+      pl: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://pl.wikipedia.org/wiki/Mleczaj_przydymiony"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7240050",
+          "detail": "7240050"
+        }
+      ],
+      pt: [
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://pt.wikipedia.org/wiki/Lactarius_lignyotus"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7240050",
+          "detail": "7240050"
+        }
+      ],
+      ro: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://ro.wikipedia.org/wiki/Lactarius_lignyotus"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7240050",
+          "detail": "7240050"
+        }
+      ],
+      ru: [
+        {
+          "group": "text",
+          "name": "Википедия",
+          "href": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BB%D0%B5%D1%87%D0%BD%D0%B8%D0%BA_%D0%B1%D1%83%D1%80%D1%8B%D0%B9"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7240050",
+          "detail": "7240050"
+        }
+      ],
+      sr: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7240050",
+          "detail": "7240050"
+        }
+      ],
+      sl: [
+        {
+          "group": "name",
+          "name": "Gobarsko društvo Lisička Maribor",
+          "href": "https://www.gobe.si/Gobe/LactariusLignyotus"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7240050",
+          "detail": "7240050"
+        }
+      ],
+      es: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://es.wikipedia.org/wiki/Lactarius_lignyotus"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7240050",
+          "detail": "7240050"
+        }
+      ],
+      sv: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://sv.wikipedia.org/wiki/Sotriska"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7240050",
+          "detail": "7240050"
+        }
+      ],
+      tr: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7240050",
+          "detail": "7240050"
+        }
+      ],
+      uk: [
+        {
+          "group": "text",
+          "name": "Вікіпедія",
+          "href": "https://uk.wikipedia.org/wiki/%D0%A5%D1%80%D1%8F%D1%89-%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D0%B8%D0%BA_%D1%87%D0%BE%D1%80%D0%BD%D0%B8%D0%B9"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7240050",
+          "detail": "7240050"
+        }
+      ]
+    },
+    synonyms: [
+      "Lactariella lignyota (Fr.) J.Schröt.",
+      "Lactifluus lignyotus (Fr.) Kuntze"
+    ]
   }
 ];

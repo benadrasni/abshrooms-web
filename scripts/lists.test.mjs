@@ -69,8 +69,8 @@ test('region lists sort by place and year lists put the newest year first', () =
   assert.ok(html.indexOf('Minnesota') < html.indexOf('Utah'));
 
   const years = listSpecies('mushroom-of-the-year-de');
-  assert.equal(years[0].name, 'Hericium erinaceus');
-  assert.equal(years[0].year, 2026);
+  assert.equal(years[0].name, 'Lactarius lignyotus');
+  assert.equal(years[0].year, 2027);
   assert.equal(years.at(-1).name, 'Leccinum aurantiacum');
   assert.equal(years.at(-1).year, 1994);
   assert.ok(years.length < 34);
@@ -123,7 +123,6 @@ const YEAR_LIST_GAPS = [
   ['mushroom-of-the-year-de', 2012, 'Cantharellus cinereus'],
   ['mushroom-of-the-year-de', 2013, 'Entoloma incanum'],
   ['mushroom-of-the-year-de', 2025, 'Clavaria zollingeri'],
-  ['mushroom-of-the-year-de', 2027, 'Lactarius lignyotus'],
   ['mushroom-of-the-year-at', 2016, 'Hapalopilus croceus'],
   ['mushroom-of-the-year-at', 2017, 'Bovista paludosa'],
   ['mushroom-of-the-year-at', 2018, 'Pseudoplectania melaena'],
