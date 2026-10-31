@@ -8,6 +8,9 @@ import {
   pageview,
   refuseAnalytics,
   subscribeAnalytics,
+  pushLocation,
+  replaceLocation,
+  suppressTagHistoryEvent,
   trackFilterResult,
   trackMushroom,
   trackSearch,
@@ -484,14 +487,14 @@ function parse(pathname) {
 
 function go(url) {
   var here = location.pathname + location.search;
-  if (url !== here) history.pushState(null, "", url);
+  if (url !== here) pushLocation(url);
   render();
   window.scrollTo(0, 0);
 }
 
 function writeSelection(selection) {
   var next = location.pathname + selectionSearch(selection);
-  if (next !== location.pathname + location.search) history.replaceState(null, "", next);
+  if (next !== location.pathname + location.search) replaceLocation(next);
   render();
 }
 
@@ -1727,7 +1730,8 @@ function start() {
   started = true;
   bindListeners();
   render();
-  window.addEventListener("popstate", function () {
+  window.addEventListener("popstate", function (event) {
+    suppressTagHistoryEvent(event);
     render();
     window.scrollTo(0, 0);
   });

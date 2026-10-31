@@ -467,3 +467,68 @@ test('a failed same-origin trace uses the public country and does not ask outsid
   assert.deepEqual(sameOrigin.analytics.analyticsState(), { ready: true, on: false, ask: true, choice: '' });
   assertCleared(sameOrigin.written);
 });
+
+test('navigation keeps the history methods from before a later wrapper', async (t) => {
+  const nativeCalls = [];
+  const wrappedCalls = [];
+  const historyObj = {
+    pushState(...args) {
+      nativeCalls.push(['push', ...args]);
+    },
+    replaceState(...args) {
+      nativeCalls.push(['replace', ...args]);
+    },
+  };
+  const written = [];
+  const doc = cookieDoc(written);
+  globalThis.history = historyObj;
+  globalThis.document = doc;
+  globalThis.localStorage = {
+    getItem() {
+      return '';
+    },
+    setItem() {},
+  };
+  globalThis.window = {
+    location: {
+      hostname: 'whatsthatmushroom.app',
+      origin: 'https://whatsthatmushroom.app',
+    },
+    document: doc,
+  };
+  globalThis.fetch = () => Promise.resolve({ ok: false, text: async () => '' });
+  t.after(() => {
+    delete globalThis.history;
+    delete globalThis.window;
+    delete globalThis.document;
+    delete globalThis.localStorage;
+    delete globalThis.fetch;
+  });
+  const analytics = await import(new URL('../src/analytics.js?boot=history', import.meta.url));
+  await new Promise((resolve) => setImmediate(resolve));
+  const originalPush = historyObj.pushState;
+  const originalReplace = historyObj.replaceState;
+  historyObj.pushState = (...args) => {
+    wrappedCalls.push(['push', ...args]);
+    originalPush(...args);
+  };
+  historyObj.replaceState = (...args) => {
+    wrappedCalls.push(['replace', ...args]);
+    originalReplace(...args);
+  };
+  analytics.pushLocation('/identify/?under=gills');
+  analytics.replaceLocation('/sk/');
+  assert.deepEqual(wrappedCalls, []);
+  assert.deepEqual(nativeCalls, [
+    ['push', null, '', '/identify/?under=gills'],
+    ['replace', null, '', '/sk/'],
+  ]);
+  const event = {
+    stopped: false,
+    stopImmediatePropagation() {
+      this.stopped = true;
+    },
+  };
+  analytics.suppressTagHistoryEvent(event);
+  assert.equal(event.stopped, true);
+});

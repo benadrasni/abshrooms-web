@@ -61,6 +61,7 @@ test('the content security policy allows json-ld, list styles, and self-hosted f
   assert.match(csp, /connect-src [^;]*https:\/\/www\.cloudflare\.com/);
   assert.doesNotMatch(csp, /https:\/\/\*\.cloudflare\.com/);
   assert.doesNotMatch(csp, /fonts\.googleapis\.com/);
+  assert.match(csp, /connect-src[^;]* https:\/\/analytics\.google\.com /);
   const directives = new Map();
   csp.split(';').forEach((part) => {
     const tokens = part.trim().split(/\s+/).filter(Boolean);
