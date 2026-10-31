@@ -641,5 +641,12 @@ export const TAXA = {
   },
   Mitrula: {
     rank: "genus"
+  },
+  Diplocystidiaceae: {
+    rank: "family"
+  },
+  Astraeus: {
+    rank: "genus",
+    sk: "hviezdovec"
   }
 };

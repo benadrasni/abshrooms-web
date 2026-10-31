@@ -118,7 +118,6 @@ test('German and Latvian year lists link the catalog species', () => {
 // (id, year, name). Order does not matter.
 const YEAR_LIST_GAPS = [
   ['mushroom-of-the-year-de', 2002, 'Cortinarius orellanus'],
-  ['mushroom-of-the-year-de', 2005, 'Astraeus hygrometricus'],
   ['mushroom-of-the-year-de', 2009, 'Terana caerulea'],
   ['mushroom-of-the-year-de', 2010, 'Cortinarius praestans'],
   ['mushroom-of-the-year-de', 2012, 'Cantharellus cinereus'],

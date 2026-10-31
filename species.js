@@ -70172,5 +70172,952 @@ export const CATALOG = [
       "Mitrula spathula (O.F.Müll.) Fr.",
       "Mitrula uliginosa (Pers.) Grev."
     ]
+  },
+  {
+    id: 88,
+    name: "Astraeus hygrometricus",
+    author: "(Pers.) Morgan",
+    family: "Diplocystidiaceae",
+    genus: "Astraeus",
+    order: "Boletales",
+    edibility: "inedible",
+    hymenium: "gleba",
+    where: [
+      "ground"
+    ],
+    color: [
+      "brown",
+      "dark"
+    ],
+    path: [
+      "Fungi",
+      "Dikarya",
+      "Basidiomycota",
+      "Agaricomycotina",
+      "Agaricomycetes",
+      "Agaricomycetidae",
+      "Boletales",
+      "Diplocystidiaceae",
+      "Astraeus"
+    ],
+    summary: ["Boletales", "Diplocystidiaceae", "Astraeus"],
+    added: "2026-10-31",
+    plate: STORAGE + "photos/Boletales/Diplocystidiaceae/Astraeus_hygrometricus/Astraeus_hygrometricus@1600.webp",
+    plateGrid: STORAGE + "photos/Boletales/Diplocystidiaceae/Astraeus_hygrometricus/Astraeus_hygrometricus@400.webp",
+    plateCredit: {
+      author: "L. Dufour",
+      license: "public domain",
+      source: "https://commons.wikimedia.org/wiki/File:Atlas_des_champignons_comestibles_et_v%C3%A9n%C3%A9neux_(Planche_73)_(6358030903).jpg"
+    },
+    photos: [
+      {
+        src: STORAGE + "photos/Boletales/Diplocystidiaceae/Astraeus_hygrometricus/ah1.webp",
+        author: "David Perez",
+        license: "CC BY 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Astraeus_hygrometricus_02_by-dpc.jpg"
+      },
+      {
+        src: STORAGE + "photos/Boletales/Diplocystidiaceae/Astraeus_hygrometricus/ah2.webp",
+        author: "bjoerns",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Astraeus_hygrometricus_59435412.jpg"
+      },
+      {
+        src: STORAGE + "photos/Boletales/Diplocystidiaceae/Astraeus_hygrometricus/ah3.webp",
+        author: "Jose Angel Urquia Goitia",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Izarputz_higrometroa.jpg"
+      },
+      {
+        src: STORAGE + "photos/Boletales/Diplocystidiaceae/Astraeus_hygrometricus/ah4.webp",
+        author: "Katja Schulz",
+        license: "CC BY 2.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/2.0",
+        source: "https://commons.wikimedia.org/wiki/File:Hygroscopic_Earthstar_(23937251429).jpg"
+      },
+      {
+        src: STORAGE + "photos/Boletales/Diplocystidiaceae/Astraeus_hygrometricus/ah5.webp",
+        author: "jacilluch",
+        license: "CC BY-SA 2.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0",
+        source: "https://commons.wikimedia.org/wiki/File:Estrella_de_tierra_-_Astraeus_hygrometricus_(15111581164).jpg"
+      },
+      {
+        src: STORAGE + "photos/Boletales/Diplocystidiaceae/Astraeus_hygrometricus/ah6.webp",
+        author: "Adrien BENOIT à la GUILLAUME",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Astraeus_hygrometricus_(France,_43).jpg"
+      }
+    ],
+    capFrom: 3,
+    capTo: 8,
+    fruitingFrom: 8,
+    fruitingTo: 11,
+    label: {
+      en: "barometer earthstar",
+      sk: "hviezdovec vlahojavný",
+      bg: "земна звезда",
+      zh: "硬皮地星",
+      hr: "upojna zvjezdača",
+      cs: "hvězdák vlhkoměrný",
+      da: "Barometerstjernebold",
+      nl: "Weerhuisje",
+      et: "baromeeterseen",
+      fr: "astrée hygrométrique",
+      de: "Gemeiner Wetterstern",
+      hu: "repedéses csillaggomba",
+      it: "fungo barometro",
+      ja: "ツチグリ",
+      ko: "먼지버섯",
+      pl: "promieniak wilgociomierz",
+      pt: "estrela-da-terra",
+      ro: "ciuperca barometru",
+      ru: "звездчатка гигрометрическая",
+      sr: "влагомерна звездица",
+      sl: "vlagomerni zvezdež",
+      es: "estrella de tierra",
+      sv: "väderspåstjärna",
+      uk: "астреус гігрометричний"
+    },
+    names: {
+      en: ["hygroscopic earthstar", "false earthstar"],
+      fr: ["géastre hygrométrique"],
+      ro: ["steaua pământului"],
+      uk: ["земляна зірка"]
+    },
+    text: {
+      en: {
+        description: "An earthstar-like fungus that grows on the ground and forms ectomycorrhiza with oaks, pines and other trees. In Europe it occurs mainly in warm, light woods in the south and, more rarely, in warm, sandy places farther north. Its rays open in damp weather and fold back over the spore case in dry weather.",
+        cap: "The young fruit body is a rounded, flattened ball 20–40 mm across, half buried in the ground, with a smooth whitish outer layer that tears away and is often encrusted with soil. At maturity the thick, leathery outer wall splits into usually 5–15 pointed rays, and the open fruit body is 30–80 mm across, occasionally up to 100 mm. The upper surface of the open rays is dark brown to grey-black and cracks into small areas. In dry weather the rays fold back over the spore case, leaving a hard ball about 15–25 mm across. The spore case sits in the centre of the rays; it is round, 10–30 mm wide, thin and papery, pale grey to brownish, felty or scurfy, and opens by an irregular slit or pore at the top.",
+        hymenium: "There are no gills or pores. The spore-bearing tissue is the gleba inside the spore case. It is white and solid when young and divided into small chambers lined with clusters of basidia, then turns brown and powdery as the spores ripen. The basidia are four- to eight-spored and measure 11–15 × 18–24 μm. Among the spores lie sterile threads (capillitium) that are branched, thick-walled and colourless.",
+        stipe: "There is no stipe. The spore case sits directly in the centre of the opened rays. Fragile dark threads (rhizomorphs) anchor the base in the ground and often break off after the fruit body has matured.",
+        flesh: "The outer wall is tough and leathery and made up of several layers. The innermost, fibrous layer takes up and gives off moisture, and this is what makes the rays curl in and unroll. The ripe gleba is chocolate-brown. There is no distinctive smell or taste.",
+        sporePrint: "Brown to chocolate-brown. The basidiospores are spherical or nearly so, reddish brown and thick-walled, 7–11 μm in diameter, covered with warts or spines about 1 μm long, and non-amyloid (no reaction in Melzer's reagent).",
+        habitat: "It grows alone, scattered or in groups on the ground, usually in poor, sandy or stony, acid soil, in light, warm broadleaved woods, mainly under oaks and also under pines and other conifers, and in parks, clearings, woodland edges and verges. Fruit bodies appear from late summer to autumn, mainly from August to November. The dry fruit bodies persist through the winter and often into the following summer. In the Mediterranean region it also fruits in spring.",
+        uses: "Inedible. The fruit body is tough and leathery and has no culinary value in Europe. In parts of South and Southeast Asia, young fruit bodies of Astraeus species are eaten.",
+        confusion: "True earthstars of the genus Geastrum look similar, but most of them do not open and close with the moisture. Their spore case opens through a raised mouth (peristome) or a disc rather than a single torn slit, their young gleba has a central column (columella), and their spores are smaller; Geastrum mammosum, one of the few moderately hygroscopic species, has spores about 4 μm across. Astraeus pteridis, found in North America and the Canary Islands, is larger, 50–150 mm or more when open, and the inner surface of its rays shows a more pronounced cracked pattern. Astraeus telleriae, a Mediterranean species, has a finely woolly spore case.",
+        notes: "The rays open in damp weather and close in dry weather, and the spores are released through the opening at the top when raindrops strike the spore case. The name has long covered a wide group of populations, but molecular studies have shown that those in North America and Asia belong to separate species, for example Astraeus pteridis, Astraeus morganii, Astraeus smithii, Astraeus asiaticus and Astraeus odoratus, and the European material may include more than one species. It is rare in the Netherlands and is listed as endangered on the Dutch national red list (2008)."
+      },
+      sk: {
+        description: "Huba podobná hviezdovkám, ktorá rastie na zemi a tvorí ektomykorízu s dubmi, borovicami a inými stromami. V Európe sa vyskytuje najmä v teplých, svetlých lesoch na juhu a zriedkavejšie na teplých, piesočnatých miestach ďalej na sever. Jej ramená sa vo vlhku rozovrú a v suchu sa zaklopia späť nad vnútorný obal s výtrusmi.",
+        cap: "Mladá plodnica je okrúhla, sploštená guľa široká 20–40 mm, napoly zapustená v zemi, s hladkým belavým vonkajším povlakom, ktorý sa odlupuje a často je pokrytý zeminou. V dospelosti sa hrubý, kožovitý vonkajší obal (exoperidium) roztrhne zvyčajne na 5–15 špicatých ramien a otvorená plodnica je široká 30–80 mm, výnimočne až 100 mm. Horná strana otvorených ramien je tmavohnedá až sivočierna a rozpukáva sa na drobné políčka. V suchu sa ramená zaklopia späť nad vnútorný obal a zostane tvrdá guľa široká asi 15–25 mm. Vnútorný obal (endoperidium) sedí v strede ramien; je okrúhly, široký 10–30 mm, tenký a papierovitý, bledosivý až hnedastý, plstnatý alebo šupinkatý a na vrchole sa otvára nepravidelnou štrbinou alebo pórom.",
+        hymenium: "Chýbajú lupene aj rúrky. Výtrusorodým pletivom je gleba vo vnútri endoperidia. V mladosti je biela a pevná, rozdelená na drobné komôrky vystlané zhluky bazídií, neskôr hnedne a stáva sa práškovitou, keď výtrusy dozrievajú. Bazídie majú štyri až osem výtrusov a merajú 11–15 × 18–24 μm. Medzi výtrusmi sú sterilné vlákna (kapilícium), ktoré sú rozkonárené, hrubostenné a bezfarebné.",
+        stipe: "Hlúbik chýba. Vnútorný obal sedí priamo v strede otvorených ramien. Krehké tmavé vlákna (rizomorfy) ukotvujú spodok v zemi a po dozretí plodnice sa často odlomia.",
+        flesh: "Vonkajší obal je húževnatý, kožovitý a zložený z viacerých vrstiev. Najvnútornejšia, vláknitá vrstva prijíma a odovzdáva vlhkosť, a práve ona zvíja ramená dovnútra a zase ich rozvíja. Zrelá gleba je čokoládovohnedá. Nemá výraznú vôňu ani chuť.",
+        sporePrint: "Hnedý až čokoládovohnedý. Bazídiospóry sú guľovité alebo takmer guľovité, červenohnedé a hrubostenné, s priemerom 7–11 μm, pokryté bradavkami alebo ostňami dlhými asi 1 μm a neamyloidné (v Melzerovom činidle nereagujú).",
+        habitat: "Rastie jednotlivo, roztrúsene alebo v skupinách na zemi, zvyčajne na chudobnej, piesočnatej alebo kamenistej, kyslej pôde, v svetlých, teplých listnatých lesoch, najmä pod dubmi, ale aj pod borovicami a inými ihličnanmi, a v parkoch, na čistinách, okrajoch lesov a pri cestách. Plodnice sa objavujú od neskorého leta do jesene, najmä od augusta do novembra. Suché plodnice pretrvávajú cez zimu a často aj do nasledujúceho leta. V stredomorskej oblasti plodí aj na jar.",
+        uses: "Nejedlý. Plodnica je húževnatá a kožovitá a v Európe nemá kulinársku hodnotu. V niektorých častiach južnej a juhovýchodnej Ázie sa jedia mladé plodnice druhov rodu Astraeus.",
+        confusion: "Pravé hviezdovky rodu Geastrum vyzerajú podobne, ale väčšina z nich sa vlhkosťou neotvára ani nezatvára. Ich vnútorný obal sa otvára vyvýšeným ústím (peristómom) alebo diskom, a nie jedinou roztrhnutou štrbinou, ich mladá gleba má stredný stĺpik (kolumelu) a ich výtrusy sú menšie; Geastrum mammosum, jeden z mála mierne hygroskopických druhov, má výtrusy s priemerom asi 4 μm. Astraeus pteridis, ktorý rastie v Severnej Amerike a na Kanárskych ostrovoch, je väčší, v otvorenom stave 50–150 mm alebo viac, a vnútorný povrch jeho ramien má výraznejšie rozpukanú kresbu. Astraeus telleriae, stredomorský druh, má jemne vlnatý vnútorný obal.",
+        notes: "Ramená sa vo vlhku otvárajú a v suchu zatvárajú a výtrusy sa uvoľňujú vrcholovým otvorom, keď na vnútorný obal dopadnú dažďové kvapky. Názov sa dlho používal pre široký okruh populácií, no molekulárne štúdie ukázali, že populácie zo Severnej Ameriky a Ázie patria k samostatným druhom, napríklad Astraeus pteridis, Astraeus morganii, Astraeus smithii, Astraeus asiaticus a Astraeus odoratus, a európsky materiál môže zahŕňať viac než jeden druh. V Nizozemsku je vzácny a v národnom červenom zozname z roku 2008 je vedený ako ohrozený (Endangered)."
+      },
+      ar: {
+        description: "فطر يشبه نجمة الأرض، ينمو على التربة ويكوّن جذرًا فطريًا خارجيًا مع أشجار البلوط والصنوبر وغيرها. يوجد في أوروبا غالبًا في الغابات الدافئة الخفيفة في الجنوب، وبصورة أقل في الأماكن الرملية الدافئة الأبعد شمالًا. تنفتح أذرعه في الطقس الرطب وتنطوي ثانية فوق كيس الأبواغ في الطقس الجاف.",
+        cap: "الجسم الثمري الفتي كرة مدوّرة مفلطحة عرضها ٢٠–٤٠ مم، مدفونة نصف دفن في التربة، وله طبقة خارجية ملساء مبيضّة تتمزق وكثيرًا ما تكسوها التربة. عند النضج ينشق الجدار الخارجي السميك الجلدي إلى أذرع مدببة عددها غالبًا من ٥ إلى ١٥، ويبلغ عرض الجسم الثمري المفتوح ٣٠–٨٠ مم، وأحيانًا حتى ١٠٠ مم. السطح العلوي للأذرع المفتوحة بني داكن إلى رمادي مسود ويتشقق إلى مساحات صغيرة. وفي الطقس الجاف تنطوي الأذرع فوق كيس الأبواغ فتترك كرة صلبة عرضها نحو ١٥–٢٥ مم. ويقع كيس الأبواغ في وسط الأذرع؛ وهو مستدير وعرضه ١٠–٣٠ مم، رقيق ورقي، رمادي شاحب إلى مائل للبني، لبدي أو قشري، وينفتح بشق أو ثقب غير منتظم في قمته.",
+        hymenium: "لا توجد صفائح ولا ثقوب. النسيج الحامل للأبواغ هو الجليبا داخل كيس الأبواغ. وهي بيضاء صلبة في البداية ومقسّمة إلى حجيرات صغيرة تبطّنها عناقيد من الدعامات (البازيديا)، ثم تصير بنية مسحوقية عند نضج الأبواغ. تحمل الدعامات من أربعة إلى ثمانية أبواغ وقياسها ١١–١٥ × ١٨–٢٤ ميكرومتر. وبين الأبواغ خيوط عقيمة (كابيليتيوم) متفرعة سميكة الجدار عديمة اللون.",
+        stipe: "لا يوجد ساق. يجلس كيس الأبواغ مباشرة في وسط الأذرع المنفتحة. وتثبّت خيوط داكنة هشة (ريزومورفات) القاعدة في التربة، وكثيرًا ما تنكسر بعد نضج الجسم الثمري.",
+        flesh: "الجدار الخارجي قاسٍ جلدي ويتألف من عدة طبقات. والطبقة الداخلية الليفية تمتص الرطوبة وتفقدها، وهذا ما يجعل الأذرع تنطوي وتنفرد. والجليبا الناضجة بنية بلون الشوكولاتة. ولا رائحة ولا طعم مميزين.",
+        sporePrint: "بني إلى بني شوكولاتي. الأبواغ الدعامية كروية أو شبه كروية، بنية محمرة سميكة الجدار، قطرها ٧–١١ ميكرومتر، مغطاة بثآليل أو أشواك طولها نحو ١ ميكرومتر، وغير نشوية (لا تتفاعل مع كاشف ملتزر).",
+        habitat: "ينمو منفردًا أو متفرقًا أو في مجموعات على التربة، وغالبًا في تربة فقيرة رملية أو حجرية حمضية، في غابات عريضة الأوراق دافئة خفيفة، وخاصة تحت أشجار البلوط وكذلك تحت الصنوبر وسائر المخروطيات، وفي المتنزهات والمساحات المكشوفة وحواف الغابات وجوانب الطرق. وتظهر الأجسام الثمرية من أواخر الصيف إلى الخريف، وخاصة من أغسطس إلى نوفمبر. وتبقى الأجسام الثمرية الجافة طوال الشتاء، وكثيرًا ما تبقى حتى الصيف التالي. وفي منطقة البحر المتوسط يثمر أيضًا في الربيع.",
+        uses: "غير صالح للأكل. الجسم الثمري قاسٍ جلدي ولا قيمة له في الطهي في أوروبا. وفي أجزاء من جنوب آسيا وجنوب شرقها تُؤكل الأجسام الثمرية الفتية لأنواع من جنس Astraeus.",
+        confusion: "تشبهه أنواع نجمة الأرض الحقيقية من جنس Geastrum، لكن معظمها لا ينفتح ولا ينغلق بتأثير الرطوبة. وينفتح كيس الأبواغ فيها من خلال فوهة بارزة (بيريستوم) أو قرص لا من خلال شق واحد ممزق، وفي الجليبا الفتية عمود مركزي (كولوميلا)، وأبواغها أصغر؛ ونوع Geastrum mammosum، وهو من الأنواع القليلة المعتدلة الاستجابة للرطوبة، أبواغه قطرها نحو ٤ ميكرومتر. أما Astraeus pteridis، الموجود في أمريكا الشمالية وجزر الكناري، فهو أكبر، ويبلغ عرضه ٥٠–١٥٠ مم أو أكثر عند الانفتاح، ويظهر على السطح الداخلي لأذرعه نمط تشقق أوضح. وأما Astraeus telleriae، وهو نوع متوسطي، فكيس أبواغه مغطى بزغب صوفي ناعم.",
+        notes: "تنفتح الأذرع في الطقس الرطب وتنغلق في الطقس الجاف، وتنطلق الأبواغ من الفتحة العليا عندما تضرب قطرات المطر كيس الأبواغ. وقد شمل هذا الاسم طويلًا مجموعة واسعة من العشائر، لكن الدراسات الجزيئية بيّنت أن العشائر في أمريكا الشمالية وآسيا تنتمي إلى أنواع منفصلة، مثل Astraeus pteridis وAstraeus morganii وAstraeus smithii وAstraeus asiaticus وAstraeus odoratus، وقد تضم المادة الأوروبية أكثر من نوع. وهو نادر في هولندا ومدرج في القائمة الحمراء الوطنية الهولندية لعام ٢٠٠٨ بوصفه مهددًا بالانقراض (Endangered)."
+      },
+      bg: {
+        description: "Гъба, наподобяваща земна звезда, която расте по земята и образува ектомикориза с дъбове, борове и други дървета. В Европа се среща главно в топли, светли гори на юг и по-рядко на топли, песъчливи места по-на север. Лъчите ѝ се разтварят във влажно време и се прибират обратно над спороносната торбичка в сухо време.",
+        cap: "Младото плодно тяло е закръглена, сплесната топка с ширина 20–40 mm, наполовина заровена в земята, с гладък белезникав външен слой, който се къса и често е покрит с пръст. При узряване дебелата кожеста външна обвивка се разпуква на обикновено 5–15 заострени лъча, а отвореното плодно тяло е широко 30–80 mm, понякога до 100 mm. Горната повърхност на отворените лъчи е тъмнокафява до сиво-черна и се напуква на малки полета. В сухо време лъчите се прибират над спороносната торбичка и остава твърда топка с ширина около 15–25 mm. Спороносната торбичка стои в средата на лъчите; тя е кръгла, широка 10–30 mm, тънка и книжна, бледосива до кафеникава, филцова или люспеста, и се отваря с неправилна цепка или пора на върха.",
+        hymenium: "Няма пластинки и тръбички. Спороносната тъкан е глебата вътре в спороносната торбичка. В млада възраст тя е бяла и плътна, разделена на малки камери, облицовани с гроздове от базидии, а после става кафява и прахообразна, когато спорите узреят. Базидиите са с четири до осем спори и са с размери 11–15 × 18–24 μm. Между спорите има стерилни нишки (капилициум), които са разклонени, дебелостенни и безцветни.",
+        stipe: "Няма дръжка. Спороносната торбичка стои направо в средата на разтворените лъчи. Крехки тъмни нишки (ризоморфи) закрепват основата в почвата и често се чупят, след като плодното тяло е узряло.",
+        flesh: "Външната обвивка е жилава, кожеста и изградена от няколко слоя. Най-вътрешният, влакнест слой поема и отдава влага и именно той кара лъчите да се свиват и разгъват. Зрялата глеба е шоколадовокафява. Няма характерен мирис и вкус.",
+        sporePrint: "Кафява до шоколадовокафява. Базидиоспорите са сферични или почти сферични, червеникавокафяви и дебелостенни, с диаметър 7–11 μm, покрити с брадавици или шипчета с дължина около 1 μm, и неамилоидни (не реагират на реактива на Мелцер).",
+        habitat: "Расте единично, разпръснато или на групи по земята, обикновено на бедна, песъчлива или каменлива, кисела почва, в светли, топли широколистни гори, най-често под дъбове, а също под борове и други иглолистни, както и в паркове, поляни, горски краища и край пътища. Плодните тела се появяват от края на лятото до есента, главно от август до ноември. Сухите плодни тела се задържат през зимата и често до следващото лято. В средиземноморския район плододава и напролет.",
+        uses: "Негодна за ядене. Плодното тяло е жилаво и кожесто и в Европа няма кулинарна стойност. В някои части на Южна и Югоизточна Азия се ядат млади плодни тела на видове от род Astraeus.",
+        confusion: "Истинските земни звезди от род Geastrum приличат на нея, но повечето от тях не се отварят и затварят според влагата. Спороносната им торбичка се отваря през издигната устица (перистом) или диск, а не през една скъсана цепка, младата им глеба има централен стълб (колумела), а спорите им са по-дребни; Geastrum mammosum, един от малкото умерено хигроскопични видове, има спори с диаметър около 4 μm. Astraeus pteridis, който се среща в Северна Америка и на Канарските острови, е по-едър, 50–150 mm или повече при отваряне, а вътрешната повърхност на лъчите му има по-изразен напукан рисунък. Astraeus telleriae, средиземноморски вид, има фино вълнеста спороносна торбичка.",
+        notes: "Лъчите се отварят във влажно време и се затварят в сухо, а спорите се освобождават през отвора на върха, когато дъждовни капки удрят спороносната торбичка. Името дълго е обхващало широк кръг популации, но молекулярни проучвания показаха, че тези от Северна Америка и Азия принадлежат към отделни видове, например Astraeus pteridis, Astraeus morganii, Astraeus smithii, Astraeus asiaticus и Astraeus odoratus, а европейският материал може да включва повече от един вид. В Нидерландия е рядка и в националния червен списък от 2008 г. е включена като застрашена (Endangered)."
+      },
+      zh: {
+        description: "一種外形似地星的真菌，生長在地上，與櫟樹、松樹和其他樹木形成外生菌根。在歐洲主要見於南部溫暖、明亮的林地，在更北的溫暖沙地上較少見。潮濕時裂片向外張開，乾燥時則向內捲起，蓋住內包被（包著孢子的內層）。",
+        cap: "幼時的子實體呈圓形、扁球狀，寬20–40毫米，半埋於土中，外有一層平滑的白色外層，會剝落，常沾有泥土。成熟時，厚而堅韌的外壁通常裂成5–15個尖裂片，張開後的子實體寬30–80毫米，偶爾可達100毫米。張開的裂片上表面暗褐色至灰黑色，並龜裂成小塊。乾燥時裂片向內捲起蓋住內包被，成為一個寬約15–25毫米的堅硬小球。內包被位於裂片中央，圓形，寬10–30毫米，薄如紙，淺灰色至褐色，有氈狀或糠狀的表面，頂端有不規則的裂縫或小孔。",
+        hymenium: "沒有菌褶，也沒有菌管。產孢組織是內包被內的產孢體（gleba）。幼時白色而結實，分成許多小腔室，腔壁排列著成簇的擔子，孢子成熟後變成褐色粉末狀。擔子具四至八個孢子，大小為11–15 × 18–24 μm。孢子之間有不育的絲狀物（孢絲），分枝，壁厚，無色。",
+        stipe: "沒有菌柄。內包被直接位於張開的裂片中央。脆弱的深色菌絲索（根狀菌索）把基部固定在土中，子實體成熟後常常斷落。",
+        flesh: "外壁堅韌如皮革，由數層組成。最內層為纖維質，會吸收和釋出水分，裂片因此捲起和展開。成熟的產孢體為巧克力褐色。沒有特別的氣味和味道。",
+        sporePrint: "褐色至巧克力褐色。擔孢子球形或近球形，紅褐色，壁厚，直徑7–11 μm，表面有長約1 μm的疣或刺，無澱粉質反應（在梅氏試劑中不變色）。",
+        habitat: "單生、散生或群生於地上，通常在貧瘠、沙質或多石的酸性土壤中，生於明亮溫暖的闊葉林，主要在櫟樹下，也見於松樹和其他針葉樹下，還見於公園、林間空地、林緣和路旁。子實體從夏末出現到秋季，主要在8月至11月。乾燥的子實體可以越冬，常保留到次年夏天。在地中海地區，春季也會長出。",
+        uses: "不可食用。子實體堅韌如皮革，在歐洲沒有食用價值。在南亞和東南亞的一些地方，人們食用硬皮地星屬（Astraeus）物種的幼嫩子實體。",
+        confusion: "地星屬（Geastrum）的真正地星外形相似，但多數不會隨濕度張開和閉合。它們的內包被經由隆起的口部（口緣）或圓盤開口，而不是一道撕裂的縫，幼時的產孢體有中央柱（中軸），孢子也較小；地星屬的Geastrum mammosum是少數略有吸濕性的物種之一，孢子直徑約4 μm。Astraeus pteridis分布於北美洲和加那利群島，體型較大，張開時寬50–150毫米或更大，裂片內表面的龜裂紋更明顯。Astraeus telleriae是地中海地區的物種，內包被覆有細絨毛。",
+        notes: "裂片在潮濕時張開，乾燥時閉合，雨滴打在內包被上時，孢子從頂端開口釋出。這個名稱長期涵蓋範圍很廣的族群，但分子研究顯示，北美洲和亞洲的族群屬於不同的物種，例如Astraeus pteridis、Astraeus morganii、Astraeus smithii、Astraeus asiaticus和Astraeus odoratus，而歐洲的材料也可能包含不止一個物種。它在荷蘭很少見，在2008年荷蘭國家紅色名錄中被列為瀕危（Endangered）。"
+      },
+      hr: {
+        description: "Gljiva nalik zvjezdačama koja raste na tlu i tvori ektomikorizu s hrastovima, borovima i drugim drvećem. U Europi se javlja uglavnom u toplim, svijetlim šumama na jugu, a rjeđe na toplim, pjeskovitim mjestima sjevernije. Njezini se krakovi u vlažnom vremenu otvaraju, a u suhom se savijaju natrag preko unutarnje ovojnice sa sporama.",
+        cap: "Mlado plodište je zaobljena, spljoštena kugla široka 20–40 mm, napola ukopana u tlo, s glatkim bjelkastim vanjskim slojem koji se otkida i često je prekriven zemljom. Dozrijevanjem se debela, kožasta vanjska ovojnica (egzoperidij) raspuca na obično 5–15 šiljastih krakova, a otvoreno plodište široko je 30–80 mm, ponekad do 100 mm. Gornja strana otvorenih krakova je tamnosmeđa do sivocrna i raspucava se na sitna polja. U suhom se krakovi savijaju natrag preko unutarnje ovojnice i ostaje tvrda kugla široka oko 15–25 mm. Unutarnja ovojnica (endoperidij) sjedi u sredini krakova; okrugla je, široka 10–30 mm, tanka i papirnata, blijedosiva do smećkasta, filcasta ili ljuskasta, a na vrhu se otvara nepravilnom pukotinom ili porom.",
+        hymenium: "Nema listića ni cjevčica. Tkivo koje nosi spore je gleba unutar endoperidija. U mladosti je bijela i čvrsta, podijeljena na sitne komorice obložene skupinama bazidija, a zatim posmeđi i postaje praškasta kad spore sazriju. Bazidiji imaju četiri do osam spora i veličine su 11–15 × 18–24 μm. Među sporama su sterilne niti (kapilicij) koje su razgranate, debelostijene i bezbojne.",
+        stipe: "Stručak ne postoji. Unutarnja ovojnica sjedi izravno u sredini otvorenih krakova. Lomljive tamne niti (rizomorfi) učvršćuju osnovu u tlu i često se odlome nakon što plodište sazrije.",
+        flesh: "Vanjska ovojnica je žilava i kožasta te se sastoji od nekoliko slojeva. Najunutarnji, vlaknasti sloj upija i otpušta vlagu, i upravo zbog njega se krakovi savijaju i ponovno razvijaju. Zrela gleba je čokoladnosmeđa. Nema izrazit miris ni okus.",
+        sporePrint: "Smeđ do čokoladnosmeđ. Bazidiospore su kuglaste ili gotovo kuglaste, crvenkastosmeđe i debelostijene, promjera 7–11 μm, pokrivene bradavicama ili bodljama dugima oko 1 μm te neamiloidne (ne reagiraju s Melzerovim reagensom).",
+        habitat: "Raste pojedinačno, raštrkano ili u skupinama na tlu, obično na siromašnom, pjeskovitom ili kamenitom, kiselom tlu, u svijetlim, toplim listopadnim šumama, najčešće ispod hrastova, a također ispod borova i drugih četinjača te u parkovima, na čistinama, rubovima šuma i uz putove. Plodišta se pojavljuju od kasnog ljeta do jeseni, uglavnom od kolovoza do studenoga. Suha plodišta ostaju preko zime i često do sljedećeg ljeta. U mediteranskom području plodi i u proljeće.",
+        uses: "Nejestiva. Plodište je žilavo i kožasto te u Europi nema kulinarsku vrijednost. U nekim dijelovima južne i jugoistočne Azije jedu se mlada plodišta vrsta roda Astraeus.",
+        confusion: "Prave zvjezdače roda Geastrum izgledaju slično, ali se većina njih ne otvara i ne zatvara prema vlazi. Njihova se unutarnja ovojnica otvara uzdignutim ustima (peristomom) ili diskom, a ne jednom razderanom pukotinom, njihova mlada gleba ima središnji stupić (kolumelu), a spore su im manje; Geastrum mammosum, jedna od rijetkih umjereno higroskopnih vrsta, ima spore promjera oko 4 μm. Astraeus pteridis, koji raste u Sjevernoj Americi i na Kanarskim otocima, veći je, u otvorenom stanju 50–150 mm ili više, a unutarnja površina njegovih krakova ima izraženiji raspucani uzorak. Astraeus telleriae, mediteranska vrsta, ima fino vunastu unutarnju ovojnicu.",
+        notes: "Krakovi se otvaraju u vlažnom, a zatvaraju u suhom vremenu, a spore se oslobađaju kroz otvor na vrhu kad kišne kapi udare o unutarnju ovojnicu. Naziv se dugo odnosio na širok krug populacija, ali su molekularna istraživanja pokazala da populacije iz Sjeverne Amerike i Azije pripadaju zasebnim vrstama, na primjer Astraeus pteridis, Astraeus morganii, Astraeus smithii, Astraeus asiaticus i Astraeus odoratus, a europski materijal može obuhvaćati više od jedne vrste. U Nizozemskoj je rijetka i na nacionalnom crvenom popisu iz 2008. navedena je kao ugrožena (Endangered)."
+      },
+      cs: {
+        description: "Houba podobná hvězdovkám, která roste na zemi a tvoří ektomykorhizu s duby, borovicemi a jinými stromy. V Evropě se vyskytuje hlavně v teplých, světlých lesích na jihu a vzácněji na teplých, písčitých místech dále na sever. Její cípy se za vlhka rozevírají a za sucha se zaklápějí zpět přes endoperidii s výtrusy.",
+        cap: "Mladá plodnice je okrouhlá, zploštělá koule široká 20–40 mm, napůl zahloubená v zemi, s hladkým bělavým vnějším povlakem, který se odlupuje a často je pokrytý zeminou. Při dozrávání se tlustý, kožovitý vnější obal (exoperidie) rozpraskává obvykle na 5–15 špičatých cípů a rozevřená plodnice je široká 30–80 mm, výjimečně až 100 mm. Horní strana rozevřených cípů je tmavohnědá až šedočerná a rozpraskává se na drobná políčka. Za sucha se cípy zaklápějí zpět přes endoperidii a zůstane tvrdá koule široká asi 15–25 mm. Vnitřní obal (endoperidie) sedí uprostřed cípů; je okrouhlý, široký 10–30 mm, tenký a papírovitý, světle šedý až hnědavý, plstnatý nebo šupinatý a na vrcholu se otevírá nepravidelnou štěrbinou nebo pórem.",
+        hymenium: "Chybí lupeny i rourky. Výtrusorodým pletivem je gleba uvnitř endoperidie. V mládí je bílá a pevná, rozdělená na drobné komůrky vystlané shluky bazidií, později hnědne a při dozrávání výtrusů se stává práškovitou. Bazidie mají čtyři až osm výtrusů a měří 11–15 × 18–24 μm. Mezi výtrusy jsou sterilní vlákna (kapilicium), která jsou rozvětvená, tlustostěnná a bezbarvá.",
+        stipe: "Třeň chybí. Vnitřní obal sedí přímo uprostřed rozevřených cípů. Křehká tmavá vlákna (rhizomorfy) upevňují bázi v zemi a po dozrání plodnice se často odlamují.",
+        flesh: "Vnější obal je houževnatý, kožovitý a složený z několika vrstev. Nejvnitřnější, vláknitá vrstva přijímá a odevzdává vláhu, a právě ona stáčí cípy dovnitř a zase je rozvíjí. Zralá gleba je čokoládově hnědá. Nemá výraznou vůni ani chuť.",
+        sporePrint: "Hnědý až čokoládově hnědý. Bazidiospory jsou kulovité nebo téměř kulovité, červenohnědé a tlustostěnné, o průměru 7–11 μm, pokryté bradavkami nebo ostny dlouhými asi 1 μm a neamyloidní (v Melzerově činidle nereagují).",
+        habitat: "Roste jednotlivě, roztroušeně nebo ve skupinách na zemi, obvykle na chudé, písčité nebo kamenité, kyselé půdě, ve světlých, teplých listnatých lesích, nejčastěji pod duby, ale také pod borovicemi a jinými jehličnany, a v parcích, na pasekách, okrajích lesů a podél cest. Plodnice se objevují od konce léta do podzimu, hlavně od srpna do listopadu. Suché plodnice vytrvávají přes zimu a často až do příštího léta. Ve Středomoří plodí i na jaře.",
+        uses: "Nejedlý. Plodnice je houževnatá a kožovitá a v Evropě nemá kulinářskou hodnotu. V některých částech jižní a jihovýchodní Asie se jedí mladé plodnice druhů rodu Astraeus.",
+        confusion: "Pravé hvězdovky rodu Geastrum vypadají podobně, ale většina z nich se vlhkostí neotevírá ani nezavírá. Jejich vnitřní obal se otevírá vyvýšeným ústím (peristomem) nebo diskem, a ne jedinou roztrženou štěrbinou, jejich mladá gleba má střední sloupek (kolumelu) a jejich výtrusy jsou menší; Geastrum mammosum, jeden z mála mírně hygroskopických druhů, má výtrusy o průměru asi 4 μm. Astraeus pteridis, který roste v Severní Americe a na Kanárských ostrovech, je větší, v otevřeném stavu 50–150 mm nebo více, a vnitřní povrch jeho cípů má výraznější rozpraskanou kresbu. Astraeus telleriae, středomořský druh, má jemně vlnatý vnitřní obal.",
+        notes: "Cípy se za vlhka otevírají a za sucha zavírají a výtrusy se uvolňují vrcholovým otvorem, když na vnitřní obal dopadnou dešťové kapky. Název se dlouho používal pro široký okruh populací, ale molekulární studie ukázaly, že populace ze Severní Ameriky a Asie patří k samostatným druhům, například Astraeus pteridis, Astraeus morganii, Astraeus smithii, Astraeus asiaticus a Astraeus odoratus, a evropský materiál může zahrnovat více než jeden druh. V Nizozemsku je vzácný a v národním červeném seznamu z roku 2008 je veden jako ohrožený (Endangered)."
+      },
+      da: {
+        description: "En svamp, der ligner en jordstjerne, og som vokser på jorden og danner ektomykorrhiza med eg, fyr og andre træer. I Europa findes den mest i varme, lyse skove i syd og sjældnere på varme, sandede steder længere mod nord. Dens arme åbner sig i fugtigt vejr og folder sig tilbage over sporesækken i tørt vejr.",
+        cap: "Den unge frugtkrop er en rund, fladtrykt kugle, 20–40 mm bred, halvt nedgravet i jorden, med et glat, hvidligt yderlag, der river af og ofte er dækket af jord. Ved modenhed flækker den tykke, læderagtige ydervæg (exoperidiet) sig i som regel 5–15 spidse arme, og den åbne frugtkrop er 30–80 mm bred, af og til op til 100 mm. Oversiden af de åbne arme er mørkebrun til gråsort og revner i små felter. I tørt vejr folder armene sig tilbage over sporesækken, så der er en hård kugle tilbage, omkring 15–25 mm bred. Sporesækken (endoperidiet) sidder midt i armene; den er rund, 10–30 mm bred, tynd og papiragtig, lysegrå til brunlig, filtet eller skællet, og åbner sig med en uregelmæssig sprække eller pore øverst.",
+        hymenium: "Der er hverken lameller eller rør. Det sporebærende væv er gleba inde i sporesækken. Den er hvid og fast som ung og delt i små kamre, der er beklædt med klaser af basidier, og bliver derefter brun og pulveragtig, når sporerne modner. Basidierne har fire til otte sporer og måler 11–15 × 18–24 μm. Mellem sporerne ligger sterile tråde (capillitium), der er forgrenede, tykvæggede og farveløse.",
+        stipe: "Der er ingen stok. Sporesækken sidder direkte midt i de åbnede arme. Skøre mørke tråde (rhizomorfer) forankrer bunden i jorden og knækker ofte af, når frugtkroppen er moden.",
+        flesh: "Ydervæggen er sej og læderagtig og består af flere lag. Det inderste, trævlede lag optager og afgiver fugt, og det er det, der får armene til at rulle sig ind og folde sig ud. Den modne gleba er chokoladebrun. Der er ingen særlig lugt eller smag.",
+        sporePrint: "Brunt til chokoladebrunt. Basidiesporerne er kugleformede eller næsten kugleformede, rødbrune og tykvæggede, 7–11 μm i diameter, dækket af vorter eller pigge på omkring 1 μm og ikke amyloide (ingen reaktion i Melzers reagens).",
+        habitat: "Den vokser enkeltvis, spredt eller i grupper på jorden, som regel på fattig, sandet eller stenet, sur jord, i lyse, varme løvskove, mest under eg og også under fyr og andre nåletræer, og i parker, lysninger, skovbryn og vejkanter. Frugtkroppene dukker op fra sensommeren til efteråret, mest fra august til november. De tørre frugtkroppe består vinteren over og ofte ind i den følgende sommer. I Middelhavsområdet bærer den også frugt om foråret.",
+        uses: "Uspiselig. Frugtkroppen er sej og læderagtig og har ingen kulinarisk værdi i Europa. I dele af Syd- og Sydøstasien spises unge frugtkroppe af arter i slægten Astraeus.",
+        confusion: "De ægte jordstjerner i slægten Geastrum ligner den, men de fleste åbner og lukker sig ikke efter fugtigheden. Deres sporesæk åbner sig gennem en hævet munding (peristom) eller en skive i stedet for en enkelt revet sprække, deres unge gleba har en central søjle (columella), og deres sporer er mindre; Geastrum mammosum, en af de få moderat hygroskopiske arter, har sporer på omkring 4 μm i diameter. Astraeus pteridis, der findes i Nordamerika og på De Kanariske Øer, er større, 50–150 mm eller mere, når den er åben, og den indre overflade af dens arme har et mere udpræget revnemønster. Astraeus telleriae, en middelhavsart, har en fint uldhåret sporesæk.",
+        notes: "Armene åbner sig i fugtigt vejr og lukker sig i tørt, og sporerne slippes ud gennem åbningen øverst, når regndråber rammer sporesækken. Navnet har længe dækket en bred gruppe af populationer, men molekylære undersøgelser har vist, at dem i Nordamerika og Asien hører til særskilte arter, for eksempel Astraeus pteridis, Astraeus morganii, Astraeus smithii, Astraeus asiaticus og Astraeus odoratus, og det europæiske materiale kan omfatte mere end én art. Den er sjælden i Holland og står som moderat truet (Endangered) på den hollandske nationale rødliste fra 2008."
+      },
+      nl: {
+        description: "Een aardsterachtige zwam die op de grond groeit en ectomycorrhiza vormt met eiken, dennen en andere bomen. In Europa komt hij vooral voor in warme, lichte bossen in het zuiden en zeldzamer op warme, zandige plaatsen verder naar het noorden. Zijn slippen openen zich bij vochtig weer en vouwen zich bij droog weer terug over de sporenzak.",
+        cap: "Het jonge vruchtlichaam is een ronde, afgeplatte bol van 20–40 mm breed, half in de grond verborgen, met een gladde, witachtige buitenlaag die afscheurt en vaak bedekt is met grond. Bij rijpheid splijt de dikke, leerachtige buitenwand (exoperidium) in meestal 5–15 spitse slippen, en het geopende vruchtlichaam is 30–80 mm breed, soms tot 100 mm. De bovenzijde van de geopende slippen is donkerbruin tot grijszwart en scheurt in kleine velden. Bij droog weer vouwen de slippen zich terug over de sporenzak, zodat een harde bol van ongeveer 15–25 mm breed overblijft. De sporenzak (endoperidium) zit midden tussen de slippen; hij is rond, 10–30 mm breed, dun en papierachtig, lichtgrijs tot bruinachtig, viltig of schilferig, en opent zich met een onregelmatige spleet of porie aan de top.",
+        hymenium: "Er zijn geen plaatjes of buisjes. Het sporendragende weefsel is de gleba in de sporenzak. Die is jong wit en stevig en verdeeld in kleine kamertjes die bekleed zijn met trossen basidiën, en wordt daarna bruin en poederachtig als de sporen rijpen. De basidiën hebben vier tot acht sporen en meten 11–15 × 18–24 μm. Tussen de sporen liggen steriele draden (capillitium) die vertakt, dikwandig en kleurloos zijn.",
+        stipe: "Er is geen steel. De sporenzak zit direct midden tussen de geopende slippen. Broze, donkere draden (rhizomorfen) verankeren de basis in de grond en breken na het rijpen van het vruchtlichaam vaak af.",
+        flesh: "De buitenwand is taai en leerachtig en bestaat uit meerdere lagen. De binnenste, vezelige laag neemt vocht op en geeft het af, en dat is wat de slippen laat oprollen en uitrollen. De rijpe gleba is chocoladebruin. Er is geen bijzondere geur of smaak.",
+        sporePrint: "Bruin tot chocoladebruin. De basidiosporen zijn bolvormig of bijna bolvormig, roodbruin en dikwandig, 7–11 μm in doorsnede, bedekt met wratten of stekels van ongeveer 1 μm lang, en niet-amyloïd (geen reactie in Melzers reagens).",
+        habitat: "Hij groeit alleen, verspreid of in groepen op de grond, meestal op arme, zandige of stenige, zure grond, in lichte, warme loofbossen, vooral onder eiken en ook onder dennen en andere naaldbomen, en in parken, open plekken, bosranden en bermen. De vruchtlichamen verschijnen van laat in de zomer tot in de herfst, vooral van augustus tot november. De droge vruchtlichamen blijven de hele winter staan en vaak tot in de volgende zomer. In het Middellandse Zeegebied draagt hij ook in het voorjaar vruchten.",
+        uses: "Niet eetbaar. Het vruchtlichaam is taai en leerachtig en heeft in Europa geen culinaire waarde. In delen van Zuid- en Zuidoost-Azië worden jonge vruchtlichamen van soorten uit het geslacht Astraeus gegeten.",
+        confusion: "De echte aardsterren van het geslacht Geastrum lijken erop, maar de meeste openen en sluiten zich niet met de vochtigheid. Hun sporenzak opent zich via een verhoogde mond (peristoom) of een schijf in plaats van via één gescheurde spleet, hun jonge gleba heeft een centrale zuil (columella) en hun sporen zijn kleiner; Geastrum mammosum, een van de weinige matig hygroscopische soorten, heeft sporen van ongeveer 4 μm doorsnede. Astraeus pteridis, die voorkomt in Noord-Amerika en op de Canarische Eilanden, is groter, 50–150 mm of meer wanneer geopend, en de binnenzijde van zijn slippen heeft een duidelijker scheurpatroon. Astraeus telleriae, een mediterrane soort, heeft een fijn wollige sporenzak.",
+        notes: "De slippen openen zich bij vochtig weer en sluiten zich bij droog weer, en de sporen komen vrij door de opening aan de top wanneer regendruppels op de sporenzak vallen. De naam omvatte lang een brede groep populaties, maar moleculair onderzoek heeft aangetoond dat die in Noord-Amerika en Azië tot afzonderlijke soorten behoren, bijvoorbeeld Astraeus pteridis, Astraeus morganii, Astraeus smithii, Astraeus asiaticus en Astraeus odoratus, en het Europese materiaal kan meer dan één soort omvatten. In Nederland is hij zeldzaam en staat hij op de Nederlandse Rode Lijst van 2008 als bedreigd (Endangered)."
+      },
+      et: {
+        description: "Maatähte meenutav seen, mis kasvab maapinnal ning moodustab tammede, mändide ja teiste puudega ektomükoriisa. Euroopas esineb ta peamiselt lõunapoolsetes soojades valgusküllastes metsades ning harvem soojadel liivastel kohtadel kaugemal põhjas. Tema kiired avanevad niiskel ilmal ja voltuvad kuival ilmal tagasi sisemise kesta kohale.",
+        cap: "Noor viljakeha on ümar lamendunud kera, 20–40 mm lai, poolenisti mulda mattunud, sileda valkja välimise kihiga, mis rebeneb ära ja on sageli mullaga kaetud. Küpsemisel lõheneb paks nahkjas väliskest (eksoperiidium) tavaliselt 5–15 teravaks kiireks ning avatud viljakeha on 30–80 mm lai, harvem kuni 100 mm. Avatud kiirte ülapind on tumepruun kuni hallikasmust ja praguneb väikesteks väljadeks. Kuival ilmal voltuvad kiired tagasi sisemise kesta kohale, jättes kõva, umbes 15–25 mm laiuse kera. Sisemine kest (endoperiidium) asub kiirte keskel; see on ümar, 10–30 mm lai, õhuke ja paberjas, kahvatuhall kuni pruunikas, vildjas või helbeline ning avaneb ülaosas ebakorrapärase pilu või pooriga.",
+        hymenium: "Lamelle ega torukesi ei ole. Eoseid kandev kude on sisemise kesta sees olev gleeba. Noorena on see valge ja tihe, jaotunud väikesteks kambriteks, mis on vooderdatud basiidiumide kobaratega, ning muutub eoste valmides pruuniks ja pulbriliseks. Basiidiumidel on neli kuni kaheksa eost ja nende mõõtmed on 11–15 × 18–24 μm. Eoste vahel asuvad steriilsed niidid (kapillitsium), mis on hargnenud, paksuseinalised ja värvitu.",
+        stipe: "Jalga ei ole. Sisemine kest asub otse avanenud kiirte keskel. Rabedad tumedad niidid (risomorfid) kinnitavad aluse mulda ja murduvad pärast viljakeha valmimist sageli ära.",
+        flesh: "Väliskest on sitke ja nahkjas ning koosneb mitmest kihist. Kõige sisemine kiuline kiht neelab niiskust ja annab seda ära ning just see keerab kiired kokku ja laotab need uuesti lahti. Küps gleeba on šokolaadipruun. Eriline lõhn ja maitse puuduvad.",
+        sporePrint: "Pruun kuni šokolaadipruun. Basiidiospoorid on kerajad või peaaegu kerajad, punakaspruunid ja paksuseinalised, läbimõõduga 7–11 μm, kaetud umbes 1 μm pikkuste tüükade või okastega ning mitteamüloidsed (Melzeri reagendiga ei reageeri).",
+        habitat: "Kasvab üksikult, hajusalt või rühmades maapinnal, tavaliselt toitainetevaesel, liivasel või kivisel happelisel mullal, valgusküllastes soojades lehtmetsades, enamasti tammede all, aga ka mändide ja teiste okaspuude all, ning parkides, lagendikel, metsaservades ja teeservades. Viljakehad ilmuvad suve lõpust sügiseni, peamiselt augustist novembrini. Kuivad viljakehad püsivad talve läbi ja sageli järgmise suveni. Vahemere piirkonnas kannab ta vilja ka kevadel.",
+        uses: "Mittesöödav. Viljakeha on sitke ja nahkjas ning Euroopas kulinaarset väärtust ei oma. Lõuna- ja Kagu-Aasia mõnes osas süüakse perekonna Astraeus liikide noori viljakehi.",
+        confusion: "Tõelised maatähed perekonnast Geastrum on sarnased, kuid enamik neist ei avane ega sulgu niiskuse mõjul. Nende sisemine kest avaneb kõrgenenud suudme (peristoom) või kettakese kaudu, mitte ühe rebenenud pilu kaudu, nende noores gleebas on keskne sammas (kolumell) ja eosed on väiksemad; liigil Geastrum mammosum, mis on üks vähestest mõõdukalt hügroskoopsetest liikidest, on eosed läbimõõduga umbes 4 μm. Astraeus pteridis, mis kasvab Põhja-Ameerikas ja Kanaari saartel, on suurem, avatuna 50–150 mm või rohkem, ning tema kiirte sisepinnal on selgemini väljendunud pragumuster. Vahemere liigil Astraeus telleriae on sisemine kest peenelt villane.",
+        notes: "Kiired avanevad niiskel ilmal ja sulguvad kuival ilmal ning eosed vabanevad ülaosas oleva ava kaudu, kui vihmapiisad tabavad sisemist kesta. Nime on pikka aega kasutatud laia populatsioonide rühma kohta, kuid molekulaarsed uuringud on näidanud, et Põhja-Ameerika ja Aasia populatsioonid kuuluvad eraldi liikidesse, näiteks Astraeus pteridis, Astraeus morganii, Astraeus smithii, Astraeus asiaticus ja Astraeus odoratus, ning Euroopa materjal võib hõlmata rohkem kui ühte liiki. Hollandis on ta haruldane ja kantud Hollandi 2008. aasta riiklikku punasesse nimekirja ohustatud liigina (Endangered)."
+      },
+      fi: {
+        description: "Maatähtimäinen sieni, joka kasvaa maassa ja muodostaa ektomykorritsan tammien, mäntyjen ja muiden puiden kanssa. Euroopassa se esiintyy pääasiassa lämpimissä, valoisissa metsissä etelässä ja harvinaisempana lämpimillä, hiekkaisilla paikoilla kauempana pohjoisessa. Sen liuskat avautuvat kosteassa säässä ja taittuvat kuivassa säässä takaisin itiöpesän päälle.",
+        cap: "Nuori itiöemä on pyöreä, litistynyt pallo, 20–40 mm leveä, puoliksi maahan painunut, ja sen pinta on sileä, valkeahko kerros, joka repeää pois ja on usein mullan peitossa. Kypsyessään paksu, nahkamainen ulkokuori (eksoperidium) halkeaa yleensä 5–15 teräväksi liuskaksi, ja avautunut itiöemä on 30–80 mm leveä, joskus jopa 100 mm. Avautuneiden liuskojen yläpinta on tummanruskea tai harmaanmusta ja halkeilee pieniksi kentiksi. Kuivassa säässä liuskat taittuvat takaisin itiöpesän päälle, ja jäljelle jää kova, noin 15–25 mm leveä pallo. Itiöpesä (endoperidium) on liuskojen keskellä; se on pyöreä, 10–30 mm leveä, ohut ja paperimainen, vaaleanharmaa tai ruskehtava, huopamainen tai hilseilevä, ja se avautuu yläpäästään epäsäännöllisellä railolla tai huokosella.",
+        hymenium: "Heltteitä tai putkia ei ole. Itiöitä kantava kudos on itiöpesän sisällä oleva itiömassa (gleba). Se on nuorena valkoinen ja kiinteä, jakautunut pieniin koppeihin, joiden sisäpintaa peittävät kanttien ryhmät, ja se muuttuu ruskeaksi ja jauhomaiseksi itiöiden kypsyessä. Kanteissa on neljä–kahdeksan itiötä ja niiden koko on 11–15 × 18–24 μm. Itiöiden välissä on steriilejä säikeitä (kapillitium), jotka ovat haarautuneita, paksuseinäisiä ja värittömiä.",
+        stipe: "Jalkaa ei ole. Itiöpesä on suoraan avautuneiden liuskojen keskellä. Hauraat, tummat säikeet (risomorfit) kiinnittävät tyven maahan, ja ne katkeavat usein itiöemän kypsyttyä.",
+        flesh: "Ulkokuori on sitkeä ja nahkamainen ja koostuu useista kerroksista. Sisin, säikeinen kerros imee ja luovuttaa kosteutta, ja juuri se saa liuskat käpristymään ja aukeamaan. Kypsä itiömassa on suklaanruskea. Erityistä hajua tai makua ei ole.",
+        sporePrint: "Ruskea tai suklaanruskea. Kanttiitiöt ovat pallomaisia tai lähes pallomaisia, punaruskeita ja paksuseinäisiä, halkaisijaltaan 7–11 μm, ja niiden pinnalla on noin 1 μm pitkiä syyliä tai piikkejä; ne eivät ole amyloidisia (eivät reagoi Melzerin reagenssissa).",
+        habitat: "Kasvaa yksittäin, hajallaan tai ryhmissä maassa, yleensä köyhässä, hiekkaisessa tai kivisessä, happamassa maassa, valoisissa, lämpimissä lehtimetsissä, useimmiten tammien alla ja myös mäntyjen ja muiden havupuiden alla sekä puistoissa, aukioilla, metsänreunoilla ja teiden varsilla. Itiöemät ilmestyvät loppukesästä syksyyn, pääasiassa elokuusta marraskuuhun. Kuivat itiöemät säilyvät talven yli ja usein seuraavaan kesään asti. Välimeren alueella se tuottaa itiöemiä myös keväällä.",
+        uses: "Syömäkelvoton. Itiöemä on sitkeä ja nahkamainen, eikä sillä ole Euroopassa ruokakäyttöä. Joillakin Etelä- ja Kaakkois-Aasian alueilla syödään Astraeus-sukuun kuuluvien lajien nuoria itiöemiä.",
+        confusion: "Aidot maatähdet (Geastrum-suku) näyttävät samanlaisilta, mutta useimmat niistä eivät avaudu ja sulkeudu kosteuden mukaan. Niiden itiöpesä aukeaa koholla olevan suun (peristomi) tai levyn kautta eikä yhden repeämän kautta, niiden nuoressa itiömassassa on keskipylväs (kolumella) ja niiden itiöt ovat pienempiä; Geastrum mammosum, yksi harvoista kohtalaisen hygroskooppisista lajeista, on itiöiden halkaisijaltaan noin 4 μm. Astraeus pteridis, joka kasvaa Pohjois-Amerikassa ja Kanariansaarilla, on suurempi, avautuneena 50–150 mm tai enemmän, ja sen liuskojen sisäpinnalla on selvempi halkeilukuvio. Välimerellisen Astraeus telleriae -lajin itiöpesä on hienon villainen.",
+        notes: "Liuskat avautuvat kosteassa ja sulkeutuvat kuivassa säässä, ja itiöt vapautuvat yläpäässä olevasta aukosta, kun sadepisarat osuvat itiöpesään. Nimeä on pitkään käytetty laajasta joukosta populaatioita, mutta molekyylitutkimukset ovat osoittaneet, että Pohjois-Amerikan ja Aasian populaatiot kuuluvat erillisiin lajeihin, esimerkiksi Astraeus pteridis, Astraeus morganii, Astraeus smithii, Astraeus asiaticus ja Astraeus odoratus, ja eurooppalainen aineisto voi sisältää useamman kuin yhden lajin. Alankomaissa se on harvinainen ja Alankomaiden kansallisessa punaisessa listassa vuodelta 2008 se on merkitty erittäin uhanalaiseksi (Endangered)."
+      },
+      fr: {
+        description: "Champignon ressemblant à un géastre, qui pousse sur le sol et forme des ectomycorhizes avec les chênes, les pins et d'autres arbres. En Europe, on le trouve surtout dans les bois chauds et clairs du sud et, plus rarement, dans des endroits chauds et sablonneux plus au nord. Ses lobes s'ouvrent par temps humide et se replient sur le sac sporifère par temps sec.",
+        cap: "Le jeune carpophore est une boule arrondie et aplatie, large de 20 à 40 mm, à demi enfoncée dans le sol, avec une couche externe lisse et blanchâtre qui se déchire et est souvent couverte de terre. À maturité, la paroi externe épaisse et coriace (exopéridium) se fend en général en 5 à 15 lobes pointus, et le carpophore ouvert mesure 30 à 80 mm de large, parfois jusqu'à 100 mm. La face supérieure des lobes ouverts est brun foncé à gris noirâtre et se fissure en petits champs. Par temps sec, les lobes se replient sur le sac sporifère, laissant une boule dure large d'environ 15 à 25 mm. Le sac sporifère (endopéridium) occupe le centre des lobes ; il est rond, large de 10 à 30 mm, mince et papyracé, gris pâle à brunâtre, feutré ou écailleux, et s'ouvre par une fente ou un pore irrégulier au sommet.",
+        hymenium: "Il n'y a ni lames ni tubes. Le tissu porteur de spores est la gléba, à l'intérieur du sac sporifère. Blanche et ferme chez le jeune, elle est divisée en petites logettes tapissées de groupes de basides, puis brunit et devient poudreuse à la maturité des spores. Les basides portent de quatre à huit spores et mesurent 11–15 × 18–24 µm. Entre les spores se trouvent des filaments stériles (capillitium), ramifiés, à paroi épaisse et incolores.",
+        stipe: "Il n'y a pas de pied. Le sac sporifère repose directement au centre des lobes ouverts. Des filaments sombres et cassants (rhizomorphes) ancrent la base dans le sol et se brisent souvent une fois le carpophore mûr.",
+        flesh: "La paroi externe est tenace, coriace et formée de plusieurs couches. La couche la plus interne, fibreuse, absorbe et restitue l'humidité, et c'est elle qui fait s'enrouler et se déployer les lobes. La gléba mûre est brun chocolat. Il n'y a ni odeur ni saveur particulière.",
+        sporePrint: "Brune à brun chocolat. Les basidiospores sont globuleuses à subglobuleuses, brun rougeâtre et à paroi épaisse, de 7–11 µm de diamètre, couvertes de verrues ou d'épines longues d'environ 1 µm, et non amyloïdes (sans réaction au réactif de Melzer).",
+        habitat: "Il pousse isolément, de façon dispersée ou en groupes sur le sol, en général sur un sol pauvre, sablonneux ou caillouteux et acide, dans des bois feuillus clairs et chauds, le plus souvent sous les chênes et aussi sous les pins et d'autres conifères, ainsi que dans les parcs, les clairières, les lisières et le long des chemins. Les carpophores apparaissent de la fin de l'été à l'automne, surtout d'août à novembre. Les carpophores secs persistent tout l'hiver et souvent jusqu'à l'été suivant. Dans la région méditerranéenne, il fructifie aussi au printemps.",
+        uses: "Non comestible. Le carpophore est coriace et n'a aucune valeur culinaire en Europe. Dans certaines régions d'Asie du Sud et du Sud-Est, on mange les jeunes carpophores d'espèces du genre Astraeus.",
+        confusion: "Les géastres vrais (genre Geastrum) lui ressemblent, mais la plupart ne s'ouvrent ni ne se ferment selon l'humidité. Leur sac sporifère s'ouvre par un orifice surélevé (péristome) ou par un disque, et non par une seule fente déchirée, leur gléba jeune possède une columelle centrale et leurs spores sont plus petites ; Geastrum mammosum, l'une des rares espèces modérément hygroscopiques, a des spores d'environ 4 µm de diamètre. Astraeus pteridis, qui vit en Amérique du Nord et aux îles Canaries, est plus grand, de 50 à 150 mm ou plus à l'état ouvert, et la face interne de ses lobes présente un réseau de fissures plus marqué. Astraeus telleriae, espèce méditerranéenne, a un sac sporifère finement laineux.",
+        notes: "Les lobes s'ouvrent par temps humide et se ferment par temps sec, et les spores sont libérées par l'ouverture du sommet quand les gouttes de pluie frappent le sac sporifère. Le nom a longtemps désigné un large ensemble de populations, mais les études moléculaires ont montré que celles d'Amérique du Nord et d'Asie appartiennent à des espèces distinctes, par exemple Astraeus pteridis, Astraeus morganii, Astraeus smithii, Astraeus asiaticus et Astraeus odoratus, et le matériel européen peut comprendre plus d'une espèce. Il est rare aux Pays-Bas et figure sur la liste rouge nationale néerlandaise de 2008 comme en danger (Endangered)."
+      },
+      de: {
+        description: "Ein erdsternähnlicher Pilz, der auf dem Boden wächst und mit Eichen, Kiefern und anderen Bäumen Ektomykorrhiza bildet. In Europa kommt er vor allem in warmen, lichten Wäldern im Süden und seltener an warmen, sandigen Stellen weiter nördlich vor. Seine Lappen öffnen sich bei feuchtem Wetter und legen sich bei trockenem Wetter über den Sporensack zurück.",
+        cap: "Der junge Fruchtkörper ist eine runde, abgeflachte Kugel von 20–40 mm Breite, halb im Boden versenkt, mit einer glatten, weißlichen Außenschicht, die abreißt und oft mit Erde bedeckt ist. Bei der Reife spaltet sich die dicke, lederige Außenhülle (Exoperidie) meist in 5–15 spitze Lappen, und der geöffnete Fruchtkörper ist 30–80 mm breit, manchmal bis 100 mm. Die Oberseite der geöffneten Lappen ist dunkelbraun bis graulich schwarz und reißt in kleine Felder auf. Bei Trockenheit legen sich die Lappen über den Sporensack zurück, sodass eine harte Kugel von etwa 15–25 mm Breite bleibt. Der Sporensack (Endoperidie) sitzt in der Mitte der Lappen; er ist rund, 10–30 mm breit, dünn und papierartig, hellgrau bis bräunlich, filzig oder schuppig und öffnet sich an der Spitze mit einem unregelmäßigen Riss oder einer Pore.",
+        hymenium: "Lamellen oder Röhren fehlen. Das sporentragende Gewebe ist die Gleba im Inneren des Sporensacks. Sie ist jung weiß und fest, in kleine Kammern geteilt, die von Büscheln von Basidien ausgekleidet sind, und wird bei der Sporenreife braun und pulverig. Die Basidien tragen vier bis acht Sporen und sind 11–15 × 18–24 μm groß. Zwischen den Sporen liegen sterile Fäden (Capillitium), die verzweigt, dickwandig und farblos sind.",
+        stipe: "Ein Stiel fehlt. Der Sporensack sitzt direkt in der Mitte der geöffneten Lappen. Brüchige dunkle Fäden (Rhizomorphen) verankern die Basis im Boden und brechen nach der Reife des Fruchtkörpers oft ab.",
+        flesh: "Die Außenhülle ist zäh und lederig und besteht aus mehreren Schichten. Die innerste, faserige Schicht nimmt Feuchtigkeit auf und gibt sie ab, und sie lässt die Lappen sich einrollen und wieder entfalten. Die reife Gleba ist schokoladenbraun. Es gibt keinen besonderen Geruch oder Geschmack.",
+        sporePrint: "Braun bis schokoladenbraun. Die Basidiosporen sind kugelig bis annähernd kugelig, rotbraun und dickwandig, 7–11 μm im Durchmesser, mit etwa 1 μm langen Warzen oder Stacheln besetzt und nicht amyloid (keine Reaktion in Melzers Reagenz).",
+        habitat: "Er wächst einzeln, verstreut oder in Gruppen auf dem Boden, meist auf nährstoffarmem, sandigem oder steinigem, saurem Boden, in lichten, warmen Laubwäldern, am häufigsten unter Eichen und auch unter Kiefern und anderen Nadelbäumen, sowie in Parks, auf Lichtungen, an Waldrändern und entlang von Wegen. Die Fruchtkörper erscheinen vom Spätsommer bis in den Herbst, vor allem von August bis November. Die trockenen Fruchtkörper bleiben über den Winter und oft bis zum nächsten Sommer stehen. Im Mittelmeerraum fruchtet er auch im Frühjahr.",
+        uses: "Er ist ungenießbar. Der Fruchtkörper ist zäh und lederig und hat in Europa keinen kulinarischen Wert. In Teilen Süd- und Südostasiens werden junge Fruchtkörper von Arten der Gattung Astraeus gegessen.",
+        confusion: "Die echten Erdsterne der Gattung Geastrum sehen ähnlich aus, doch öffnen und schließen sich die meisten nicht mit der Feuchtigkeit. Ihr Sporensack öffnet sich durch eine erhabene Mündung (Peristom) oder eine Scheibe statt durch einen einzelnen aufgerissenen Spalt, ihre junge Gleba hat eine zentrale Säule (Columella) und ihre Sporen sind kleiner; Geastrum mammosum, eine der wenigen mäßig hygroskopischen Arten, hat Sporen von etwa 4 μm Durchmesser. Astraeus pteridis, der in Nordamerika und auf den Kanarischen Inseln wächst, ist größer, geöffnet 50–150 mm oder mehr, und die Innenseite seiner Lappen hat ein stärker ausgeprägtes Rissmuster. Astraeus telleriae, eine Mittelmeerart, hat einen fein wolligen Sporensack.",
+        notes: "Die Lappen öffnen sich bei feuchtem und schließen sich bei trockenem Wetter, und die Sporen werden durch die Öffnung an der Spitze freigesetzt, wenn Regentropfen auf den Sporensack treffen. Der Name wurde lange für eine weite Gruppe von Populationen verwendet, doch molekulare Studien haben gezeigt, dass die nordamerikanischen und asiatischen Populationen zu eigenen Arten gehören, zum Beispiel Astraeus pteridis, Astraeus morganii, Astraeus smithii, Astraeus asiaticus und Astraeus odoratus, und das europäische Material mehr als eine Art umfassen kann. In den Niederlanden ist er selten und steht auf der niederländischen nationalen Roten Liste von 2008 als stark gefährdet (Endangered). Pilz des Jahres 2005 in Deutschland."
+      },
+      he: {
+        description: "פטרייה הדומה לפטריות מהסוג Geastrum, הגדלה על הקרקע ויוצרת אקטומיקוריזה עם אלונים, אורנים ועצים אחרים. באירופה היא גדלה בעיקר ביערות חמים ומוארים בדרום, ופחות במקומות חמים וחוליים צפונה יותר. זרועותיה נפתחות במזג אוויר לח ומתקפלות בחזרה מעל שק הנבגים במזג אוויר יבש.",
+        cap: "גוף הפרי הצעיר הוא כדור עגול ומשוטח ברוחב 20–40 מ״מ, שקוע למחצה באדמה, עם שכבה חיצונית חלקה ולבנבנה שנקרעת ולרוב מכוסה באדמה. בבגרות הדופן החיצונית העבה והעורית (אקסופרידיום) נסדקת בדרך כלל ל-5–15 זרועות מחודדות, וגוף הפרי הפתוח רחב 30–80 מ״מ, לעיתים עד 100 מ״מ. פני השטח העליונים של הזרועות הפתוחות חומים כהים עד שחורים-אפרפרים ונסדקים לשדות קטנים. במזג אוויר יבש הזרועות מתקפלות בחזרה מעל שק הנבגים ומשאירות כדור קשה ברוחב כ-15–25 מ״מ. שק הנבגים (אנדופרידיום) יושב במרכז הזרועות; הוא עגול, ברוחב 10–30 מ״מ, דק ודמוי נייר, אפור בהיר עד חום בהיר, דמוי לבד או קשקשי, ונפתח בראשו בסדק או בנקבובית לא סדירים.",
+        hymenium: "אין למלות או צינוריות. הרקמה נושאת הנבגים היא הגלבה שבתוך שק הנבגים. בצעירותה היא לבנה וקשה, מחולקת לתאים קטנים המצופים באשכולות של בסידיות, ואחר כך היא הופכת חומה ואבקתית כשהנבגים מבשילים. לבסידיות ארבעה עד שמונה נבגים וגודלן 11–15 × 18–24 מיקרומטר. בין הנבגים יש חוטים עקרים (קפילטיום) מסועפים, עבי דופן וחסרי צבע.",
+        stipe: "אין גבעול. שק הנבגים יושב ישירות במרכז הזרועות הפתוחות. חוטים כהים ושבירים (ריזומורפים) מעגנים את הבסיס באדמה ולעיתים קרובות נשברים לאחר שגוף הפרי מבשיל.",
+        flesh: "הדופן החיצונית קשוחה ועורית ומורכבת מכמה שכבות. השכבה הפנימית ביותר, הסיבית, סופגת לחות ומשחררת אותה, והיא זו שגורמת לזרועות להתכרבל ולהתפרש מחדש. הגלבה הבשלה חומה כשוקולד. אין ריח או טעם מיוחדים.",
+        sporePrint: "חום עד חום שוקולד. הבסידיוספורות כדוריות או כמעט כדוריות, חומות-אדמדמות ועבות דופן, בקוטר 7–11 מיקרומטר, מכוסות יבלות או קוצים באורך כ-1 מיקרומטר, ואינן עמילואידיות (אינן מגיבות בריאגנט של מלצר).",
+        habitat: "גדלה בודדת, מפוזרת או בקבוצות על הקרקע, בדרך כלל על קרקע ענייה, חולית או סלעית וחומצית, ביערות נשירים חמים ומוארים, לרוב מתחת לאלונים וגם מתחת לאורנים ולמחטניים אחרים, וכן בפארקים, בקרחות, בקצות יער ולאורך שבילים. גופי הפרי מופיעים מסוף הקיץ ועד הסתיו, בעיקר מאוגוסט עד נובמבר. גופי הפרי היבשים נשארים לאורך החורף ולרוב עד הקיץ הבא. באזור הים התיכון היא נושאת פרי גם באביב.",
+        uses: "לא אכילה. גוף הפרי קשוח ועורי ואין לו ערך קולינרי באירופה. בחלקים של דרום ודרום-מזרח אסיה אוכלים גופי פרי צעירים של מינים מהסוג Astraeus.",
+        confusion: "פטריות אמיתיות מהסוג Geastrum דומות לה, אך רובן אינן נפתחות ונסגרות בהתאם ללחות. שק הנבגים שלהן נפתח דרך פתח מורם (פריסטום) או דרך דסקית ולא דרך סדק קרוע אחד, בגלבה הצעירה שלהן יש עמוד מרכזי (קולומלה) והנבגים שלהן קטנים יותר; במין Geastrum mammosum, אחד המינים המעטים שהם היגרוסקופיים במידה מתונה, הנבגים בקוטר של כ-4 מיקרומטר. Astraeus pteridis, שגדל בצפון אמריקה ובאיים הקנריים, גדול יותר, 50–150 מ״מ או יותר כשהוא פתוח, ולפני השטח הפנימיים של זרועותיו יש דפוס סדקים בולט יותר. ל-Astraeus telleriae, מין ים-תיכוני, שק נבגים צמרירי דק.",
+        notes: "הזרועות נפתחות במזג אוויר לח ונסגרות במזג אוויר יבש, והנבגים משתחררים דרך הפתח שבראש כאשר טיפות גשם פוגעות בשק הנבגים. השם שימש זמן רב לקבוצה רחבה של אוכלוסיות, אך מחקרים מולקולריים הראו שהאוכלוסיות בצפון אמריקה ובאסיה שייכות למינים נפרדים, למשל Astraeus pteridis, Astraeus morganii, Astraeus smithii, Astraeus asiaticus ו-Astraeus odoratus, וייתכן שהחומר האירופי כולל יותר ממין אחד. בהולנד היא נדירה ומופיעה ברשימה האדומה הלאומית ההולנדית מ-2008 כמצויה בסכנת הכחדה (Endangered)."
+      },
+      hi: {
+        description: "Geastrum वंश के कवकों जैसा दिखने वाला कवक, जो ज़मीन पर उगता है और ओक, चीड़ और अन्य पेड़ों के साथ एक्टोमाइकोराइज़ा बनाता है। यूरोप में यह मुख्यतः दक्षिण के गर्म, हल्के जंगलों में और उत्तर में अपेक्षाकृत कम, गर्म रेतीली जगहों पर मिलता है। इसकी भुजाएँ नम मौसम में खुल जाती हैं और सूखे मौसम में मुड़कर बीजाणु-कोष को ढक लेती हैं।",
+        cap: "युवा फलनकाय गोल, चपटी गेंद जैसा होता है, 20–40 मिमी चौड़ा, आधा मिट्टी में धँसा, जिसकी बाहरी परत चिकनी और सफ़ेदी लिए होती है, जो फट जाती है और अक्सर मिट्टी से ढकी रहती है। परिपक्व होने पर मोटी, चमड़े जैसी बाहरी दीवार (एक्सोपेरिडियम) आमतौर पर 5–15 नुकीली भुजाओं में फट जाती है, और खुला फलनकाय 30–80 मिमी चौड़ा होता है, कभी-कभी 100 मिमी तक। खुली भुजाओं की ऊपरी सतह गहरे भूरे से धूसर-काली होती है और छोटे खानों में दरक जाती है। सूखे मौसम में भुजाएँ बीजाणु-कोष के ऊपर मुड़ जाती हैं और लगभग 15–25 मिमी चौड़ी एक कठोर गेंद बची रहती है। बीजाणु-कोष (एंडोपेरिडियम) भुजाओं के बीच में स्थित होता है; यह गोल, 10–30 मिमी चौड़ा, पतला और कागज़ जैसा, हल्के धूसर से भूरापन लिए, महीन रोएँदार या शल्कीय होता है और शीर्ष पर अनियमित दरार या छिद्र से खुलता है।",
+        hymenium: "न गिल होते हैं, न नलिकाएँ। बीजाणुधारी ऊतक बीजाणु-कोष के भीतर ग्लीबा है। युवावस्था में यह सफ़ेद और ठोस होता है, छोटे कक्षों में बँटा होता है जिनकी भीतरी सतह पर बेसिडिया के गुच्छे लगे होते हैं, और बीजाणु पकने पर भूरा तथा चूर्णी हो जाता है। बेसिडिया में चार से आठ बीजाणु होते हैं और उनका आकार 11–15 × 18–24 μm होता है। बीजाणुओं के बीच बंध्य तंतु (कैपिलिशियम) होते हैं, जो शाखित, मोटी दीवार वाले और रंगहीन होते हैं।",
+        stipe: "डंठल नहीं होता। बीजाणु-कोष सीधे खुली भुजाओं के बीच में स्थित होता है। भंगुर गहरे तंतु (राइज़ोमॉर्फ) आधार को मिट्टी में जमाए रखते हैं और फलनकाय पकने के बाद अक्सर टूट जाते हैं।",
+        flesh: "बाहरी दीवार कठोर और चमड़े जैसी होती है तथा कई परतों से बनी होती है। सबसे भीतरी रेशेदार परत नमी सोखती और छोड़ती है, और यही भुजाओं को मुड़ने और फिर खुलने देती है। परिपक्व ग्लीबा चॉकलेटी भूरा होता है। कोई विशेष गंध या स्वाद नहीं होता।",
+        sporePrint: "भूरा से चॉकलेटी भूरा। बेसिडियोबीजाणु गोलाकार या लगभग गोलाकार, लालिमा लिए भूरे और मोटी दीवार वाले होते हैं, व्यास 7–11 μm, लगभग 1 μm लंबे मस्सों या काँटों से ढके, और ग़ैर-एमिलॉइड (मेल्ज़र अभिकर्मक में कोई प्रतिक्रिया नहीं)।",
+        habitat: "यह ज़मीन पर अकेले, बिखरे हुए या समूहों में उगता है, आमतौर पर निर्धन, रेतीली या पथरीली, अम्लीय मिट्टी में, हल्के, गर्म पर्णपाती जंगलों में, अधिकतर ओक के नीचे और चीड़ तथा अन्य शंकुधारी पेड़ों के नीचे भी, साथ ही उद्यानों, खुले स्थानों, जंगल के किनारों और रास्तों के साथ-साथ। फलनकाय देर गर्मियों से शरद तक, मुख्यतः अगस्त से नवंबर, दिखाई देते हैं। सूखे फलनकाय पूरे सर्दी भर और अक्सर अगली गर्मी तक टिके रहते हैं। भूमध्यसागरीय क्षेत्र में यह वसंत में भी फलन करता है।",
+        uses: "अखाद्य। फलनकाय कठोर और चमड़े जैसा है और यूरोप में इसका कोई पाक-मूल्य नहीं है। दक्षिण और दक्षिण-पूर्व एशिया के कुछ हिस्सों में Astraeus वंश की प्रजातियों के युवा फलनकाय खाए जाते हैं।",
+        confusion: "Geastrum वंश के वास्तविक कवक इससे मिलते-जुलते हैं, पर उनमें से अधिकांश नमी के अनुसार न खुलते हैं और न बंद होते हैं। उनका बीजाणु-कोष एक ऊँचे मुख (पेरिस्टोम) या चक्र के माध्यम से खुलता है, किसी एक फटी दरार से नहीं, उनके युवा ग्लीबा में एक केंद्रीय स्तंभ (कोलुमेला) होता है और उनके बीजाणु छोटे होते हैं; Geastrum mammosum, जो कुछ मध्यम रूप से आर्द्रताग्राही प्रजातियों में से एक है, के बीजाणु का व्यास लगभग 4 μm होता है। Astraeus pteridis, जो उत्तरी अमेरिका और कैनरी द्वीपसमूह में उगता है, बड़ा होता है, खुलने पर 50–150 मिमी या अधिक, और उसकी भुजाओं की भीतरी सतह पर दरारों का पैटर्न अधिक स्पष्ट होता है। Astraeus telleriae, एक भूमध्यसागरीय प्रजाति, का बीजाणु-कोष महीन ऊनी होता है।",
+        notes: "भुजाएँ नम मौसम में खुलती और सूखे मौसम में बंद हो जाती हैं, और जब बारिश की बूँदें बीजाणु-कोष पर गिरती हैं तो बीजाणु शीर्ष के छिद्र से निकलते हैं। यह नाम लंबे समय तक आबादियों के एक बड़े समूह के लिए इस्तेमाल होता रहा, पर आणविक अध्ययनों से पता चला है कि उत्तरी अमेरिका और एशिया की आबादियाँ अलग प्रजातियों की हैं, जैसे Astraeus pteridis, Astraeus morganii, Astraeus smithii, Astraeus asiaticus और Astraeus odoratus, और यूरोपीय सामग्री में एक से अधिक प्रजातियाँ हो सकती हैं। नीदरलैंड में यह दुर्लभ है और 2008 की राष्ट्रीय डच रेड लिस्ट में संकटग्रस्त (Endangered) के रूप में दर्ज है।"
+      },
+      hu: {
+        description: "Csillaggombára emlékeztető gomba, amely a talajon nő, és tölgyekkel, fenyőkkel és más fákkal ektomikorrhizát alkot. Európában főként a déli meleg, világos erdőkben fordul elő, északabbra ritkábban, meleg, homokos helyeken. Karéjai nedves időben szétnyílnak, száraz időben visszahajlanak a spórazsák fölé.",
+        cap: "A fiatal termőtest kerek, lapított gömb, 20–40 mm széles, félig a talajba süllyedve, sima, fehéres külső réteggel, amely leszakad, és gyakran földdel borított. Éréskor a vastag, bőrszerű külső fal (exoperidium) általában 5–15 hegyes karéjra hasad, a kinyílt termőtest 30–80 mm széles, olykor akár 100 mm. A kinyílt karéjok felső oldala sötétbarnától szürkésfeketéig terjed, és kis mezőkre repedezik. Száraz időben a karéjok visszahajlanak a spórazsák fölé, és egy kemény, körülbelül 15–25 mm széles gömb marad. A spórazsák (endoperidium) a karéjok közepén ül; kerek, 10–30 mm széles, vékony és papírszerű, halványszürkétől barnásig terjedő, nemezes vagy pikkelyes, és a csúcson szabálytalan résen vagy póruson nyílik.",
+        hymenium: "Nincsenek lemezek vagy csövek. A spórahordó szövet a spórazsákban lévő gleba. Fiatalon fehér és kemény, apró kamrákra osztott, amelyeket bazídiumcsoportok bélelnek, majd a spórák érésekor barnává és porszerűvé válik. A bazídiumok négy–nyolc spórát hordoznak, méretük 11–15 × 18–24 μm. A spórák között ágas, vastag falú, színtelen, steril fonalak (kapillícium) találhatók.",
+        stipe: "Tönk nincs. A spórazsák közvetlenül a kinyílt karéjok közepén ül. Törékeny, sötét fonalak (rizomorfák) rögzítik az alapot a talajhoz, és gyakran letörnek, miután a termőtest megérett.",
+        flesh: "A külső fal szívós, bőrszerű, és több rétegből áll. A legbelső, rostos réteg nedvességet vesz fel és ad le, és ez hajlítja be, majd nyitja ki újra a karéjokat. Az érett gleba csokoládébarna. Különösebb szaga vagy íze nincs.",
+        sporePrint: "Barnától csokoládébarnáig terjedő. A bazídiospórák gömbölyűek vagy majdnem gömbölyűek, vörösesbarnák és vastag falúak, átmérőjük 7–11 μm, körülbelül 1 μm hosszú szemölcsök vagy tüskék borítják őket, és nem amiloidok (Melzer-reagensben nem reagálnak).",
+        habitat: "Egyesével, szórványosan vagy csoportokban nő a talajon, általában tápanyagszegény, homokos vagy köves, savanyú talajon, világos, meleg lombos erdőkben, leggyakrabban tölgyek alatt, de fenyők és más tűlevelűek alatt is, valamint parkokban, tisztásokon, erdőszéleken és utak mentén. A termőtestek nyár végétől őszig jelennek meg, főként augusztustól novemberig. A száraz termőtestek áttelelnek, és gyakran a következő nyárig megmaradnak. A Mediterráneumban tavasszal is terem.",
+        uses: "Nem ehető. A termőtest szívós és bőrszerű, és Európában nincs konyhai értéke. Dél- és Délkelet-Ázsia egyes részein az Astraeus nemzetség fajainak fiatal termőtestét megeszik.",
+        confusion: "A Geastrum nemzetségbe tartozó valódi csillaggombák hasonlítanak rá, de többségük nem nyílik ki és nem záródik be a nedvesség hatására. Spórazsákjuk emelkedett szájadékon (peristoma) vagy korongon át nyílik, nem egyetlen szakadt résen, fiatal glebájukban központi oszlop (kolumella) van, és spóráik kisebbek; a Geastrum mammosum, a kevés mérsékelten higroszkópos faj egyike, spóráinak átmérője körülbelül 4 μm. Az Astraeus pteridis, amely Észak-Amerikában és a Kanári-szigeteken él, nagyobb, kinyílva 50–150 mm vagy több, és karéjainak belső felszínén határozottabb repedésminta látható. Az Astraeus telleriae, egy mediterrán faj, spórazsákja finoman gyapjas.",
+        notes: "A karéjok nedves időben kinyílnak, száraz időben bezáródnak, és a spórák a csúcson lévő nyíláson át szabadulnak ki, amikor esőcseppek érik a spórazsákot. A nevet sokáig populációk széles körére használták, de molekuláris vizsgálatok kimutatták, hogy az észak-amerikai és ázsiai populációk külön fajokhoz tartoznak, például az Astraeus pteridis, Astraeus morganii, Astraeus smithii, Astraeus asiaticus és Astraeus odoratus fajokhoz, és az európai anyag egynél több fajt is magában foglalhat. Hollandiában ritka, és a 2008-as holland nemzeti vörös listán veszélyeztetettként (Endangered) szerepel."
+      },
+      id: {
+        description: "Jamur yang menyerupai anggota genus Geastrum, tumbuh di tanah dan membentuk ektomikoriza dengan pohon ek, pinus, dan pohon lain. Di Eropa jamur ini terutama ditemukan di hutan yang hangat dan terang di selatan, dan lebih jarang di tempat berpasir yang hangat di sebelah utara. Cuping-cupingnya terbuka saat cuaca lembap dan melipat kembali menutupi kantung spora saat cuaca kering.",
+        cap: "Tubuh buah muda berupa bola bulat pipih selebar 20–40 mm, setengah terbenam di tanah, dengan lapisan luar putih keputihan yang halus, mudah terkelupas, dan sering tertutup tanah. Saat matang, dinding luar yang tebal dan seperti kulit (eksoperidium) pecah menjadi biasanya 5–15 cuping runcing, dan tubuh buah yang terbuka selebar 30–80 mm, kadang hingga 100 mm. Permukaan atas cuping yang terbuka berwarna cokelat tua hingga abu-abu kehitaman dan retak menjadi petak-petak kecil. Pada cuaca kering cuping melipat kembali menutupi kantung spora, menyisakan bola keras selebar sekitar 15–25 mm. Kantung spora (endoperidium) terletak di tengah cuping; bentuknya bulat, selebar 10–30 mm, tipis seperti kertas, abu-abu pucat hingga kecokelatan, berbulu halus atau bersisik, dan terbuka di puncaknya melalui celah atau pori yang tidak beraturan.",
+        hymenium: "Tidak ada bilah maupun pipa. Jaringan pembawa spora adalah gleba di dalam kantung spora. Saat muda gleba berwarna putih dan padat, terbagi menjadi bilik-bilik kecil yang dilapisi gerombolan basidium, lalu menjadi cokelat dan seperti bubuk ketika spora matang. Basidium membawa empat hingga delapan spora dan berukuran 11–15 × 18–24 μm. Di antara spora terdapat benang-benang steril (kapilitium) yang bercabang, berdinding tebal, dan tak berwarna.",
+        stipe: "Tidak ada tangkai. Kantung spora duduk langsung di tengah cuping yang terbuka. Benang gelap yang rapuh (rizomorf) menambatkan pangkal ke tanah dan sering patah setelah tubuh buah matang.",
+        flesh: "Dinding luar liat dan seperti kulit serta terdiri dari beberapa lapisan. Lapisan terdalam yang berserat menyerap dan melepaskan kelembapan, dan itulah yang membuat cuping menggulung dan membuka kembali. Gleba yang matang berwarna cokelat tua. Tidak ada bau atau rasa yang khas.",
+        sporePrint: "Cokelat hingga cokelat tua. Basidiospora berbentuk bulat atau hampir bulat, cokelat kemerahan, dan berdinding tebal, berdiameter 7–11 μm, tertutup kutil atau duri sepanjang sekitar 1 μm, dan non-amiloid (tidak bereaksi dengan reagen Melzer).",
+        habitat: "Tumbuh sendiri-sendiri, tersebar, atau berkelompok di tanah, biasanya di tanah miskin hara yang berpasir atau berbatu dan asam, di hutan gugur yang hangat dan terang, paling sering di bawah pohon ek dan juga di bawah pinus serta konifer lain, serta di taman, tanah lapang, tepi hutan, dan pinggir jalan setapak. Tubuh buah muncul dari akhir musim panas hingga musim gugur, terutama dari Agustus hingga November. Tubuh buah yang kering bertahan sepanjang musim dingin dan sering hingga musim panas berikutnya. Di kawasan Mediterania jamur ini juga berbuah pada musim semi.",
+        uses: "Tidak dapat dimakan. Tubuh buahnya liat dan seperti kulit serta tidak bernilai kuliner di Eropa. Di sebagian Asia Selatan dan Asia Tenggara, tubuh buah muda dari spesies genus Astraeus dimakan.",
+        confusion: "Anggota genus Geastrum yang sejati tampak mirip, tetapi sebagian besar tidak membuka dan menutup mengikuti kelembapan. Kantung sporanya terbuka melalui mulut yang menonjol (peristom) atau cakram, bukan melalui satu celah robekan, gleba mudanya memiliki tiang tengah (kolumela), dan sporanya lebih kecil; Geastrum mammosum, salah satu dari sedikit spesies yang cukup higroskopis, memiliki spora berdiameter sekitar 4 μm. Astraeus pteridis, yang tumbuh di Amerika Utara dan Kepulauan Canary, lebih besar, 50–150 mm atau lebih saat terbuka, dan permukaan dalam cupingnya memiliki pola retakan yang lebih jelas. Astraeus telleriae, spesies Mediterania, memiliki kantung spora yang berbulu wol halus.",
+        notes: "Cuping terbuka saat cuaca lembap dan menutup saat cuaca kering, dan spora dilepaskan melalui lubang di puncak ketika tetesan hujan mengenai kantung spora. Nama ini lama dipakai untuk kelompok populasi yang luas, tetapi penelitian molekuler menunjukkan bahwa populasi Amerika Utara dan Asia termasuk spesies yang terpisah, misalnya Astraeus pteridis, Astraeus morganii, Astraeus smithii, Astraeus asiaticus, dan Astraeus odoratus, dan bahan Eropa mungkin mencakup lebih dari satu spesies. Di Belanda jamur ini langka dan tercantum dalam daftar merah nasional Belanda tahun 2008 sebagai genting (Endangered)."
+      },
+      it: {
+        description: "Fungo simile a un geastro, che cresce sul terreno e forma ectomicorrize con querce, pini e altri alberi. In Europa si trova soprattutto nei boschi caldi e luminosi del sud e, più raramente, in luoghi caldi e sabbiosi più a nord. I suoi lobi si aprono col tempo umido e si ripiegano sul sacco sporifero col tempo secco.",
+        cap: "Il giovane carpoforo è una sfera rotonda e appiattita larga 20–40 mm, per metà affondata nel terreno, con uno strato esterno liscio e biancastro che si strappa ed è spesso coperto di terra. A maturità la parete esterna spessa e coriacea (esoperidio) si spacca in genere in 5–15 lobi appuntiti, e il carpoforo aperto è largo 30–80 mm, a volte fino a 100 mm. La superficie superiore dei lobi aperti è bruno scuro fino a grigio nerastro e si screpola in piccoli campi. Col tempo secco i lobi si ripiegano sul sacco sporifero, lasciando una sfera dura larga circa 15–25 mm. Il sacco sporifero (endoperidio) si trova al centro dei lobi; è rotondo, largo 10–30 mm, sottile e cartaceo, grigio pallido fino a brunastro, feltrato o squamoso, e si apre in cima con una fessura o un poro irregolari.",
+        hymenium: "Non ci sono lamelle né tubuli. Il tessuto portatore delle spore è la gleba all'interno del sacco sporifero. Da giovane è bianca e compatta, divisa in piccole camere rivestite da gruppi di basidi, poi diventa bruna e polverulenta quando le spore maturano. I basidi portano da quattro a otto spore e misurano 11–15 × 18–24 μm. Tra le spore ci sono filamenti sterili (capillizio) ramificati, a parete spessa e incolori.",
+        stipe: "Non c'è gambo. Il sacco sporifero poggia direttamente al centro dei lobi aperti. Filamenti scuri e fragili (rizomorfe) ancorano la base al terreno e spesso si spezzano dopo la maturazione del carpoforo.",
+        flesh: "La parete esterna è tenace e coriacea e formata da più strati. Lo strato più interno, fibroso, assorbe e rilascia umidità, ed è questo che fa arrotolare e ridistendere i lobi. La gleba matura è bruno cioccolato. Non ha odore né sapore particolari.",
+        sporePrint: "Bruna fino a bruno cioccolato. Le basidiospore sono globose o subglobose, bruno rossastre e a parete spessa, di 7–11 μm di diametro, coperte da verruche o spine lunghe circa 1 μm e non amiloidi (nessuna reazione al reattivo di Melzer).",
+        habitat: "Cresce isolato, sparso o in gruppi sul terreno, di solito su suolo povero, sabbioso o sassoso e acido, in boschi di latifoglie caldi e luminosi, più spesso sotto le querce e anche sotto pini e altre conifere, oltre che in parchi, radure, margini del bosco e lungo i sentieri. I carpofori compaiono da fine estate all'autunno, soprattutto da agosto a novembre. I carpofori secchi persistono per tutto l'inverno e spesso fino all'estate successiva. Nella regione mediterranea fruttifica anche in primavera.",
+        uses: "Non commestibile. Il carpoforo è coriaceo e non ha alcun valore culinario in Europa. In alcune zone dell'Asia meridionale e sudorientale si mangiano i giovani carpofori di specie del genere Astraeus.",
+        confusion: "I veri geastri del genere Geastrum gli somigliano, ma la maggior parte non si apre né si chiude con l'umidità. Il loro sacco sporifero si apre attraverso una bocca rialzata (peristoma) o un disco anziché attraverso un'unica fessura lacerata, la loro gleba giovane ha una columella centrale e le loro spore sono più piccole; Geastrum mammosum, una delle poche specie moderatamente igroscopiche, ha spore di circa 4 μm di diametro. Astraeus pteridis, che vive in Nord America e alle Canarie, è più grande, 50–150 mm o più quando è aperto, e la superficie interna dei suoi lobi presenta un reticolo di crepe più marcato. Astraeus telleriae, specie mediterranea, ha un sacco sporifero finemente lanoso.",
+        notes: "I lobi si aprono col tempo umido e si chiudono col tempo secco, e le spore vengono liberate dall'apertura in cima quando le gocce di pioggia colpiscono il sacco sporifero. Il nome è stato a lungo usato per un ampio insieme di popolazioni, ma gli studi molecolari hanno mostrato che quelle nordamericane e asiatiche appartengono a specie distinte, per esempio Astraeus pteridis, Astraeus morganii, Astraeus smithii, Astraeus asiaticus e Astraeus odoratus, e il materiale europeo può comprendere più di una specie. Nei Paesi Bassi è raro ed è inserito nella lista rossa nazionale olandese del 2008 come in pericolo (Endangered)."
+      },
+      ja: {
+        description: "地面に生え、ナラ類やマツ類などの樹木と外生菌根をつくる、ヒメツチグリ属（Geastrum）に似た菌です。ヨーロッパでは主に南部の暖かく明るい林に見られ、さらに北では暖かい砂地にまれに見られます。裂片は湿ったときに開き、乾いたときには胞子を含む内皮の上に折り返します。",
+        cap: "若い子実体は直径20〜40 mmの丸い扁平な球形で、半ば地中に埋もれ、表面は滑らかで白っぽく、はがれやすい外層に覆われ、しばしば土をかぶっています。成熟すると、厚く革質の外皮が通常5〜15個の先のとがった裂片に裂け、開いた子実体は直径30〜80 mm、ときに100 mmに達します。開いた裂片の上面は暗褐色から灰黒色で、小さな区画状にひび割れます。乾くと裂片は内皮の上に折り返し、直径約15〜25 mmの硬い球が残ります。内皮は裂片の中央にあり、球形で、直径10〜30 mm、薄く紙質で、淡灰色から褐色を帯び、フェルト状または鱗片状で、頂部に不規則な裂け目または孔が開きます。",
+        hymenium: "ヒダや管孔はありません。胞子をつくる組織は内皮の内側にあるグレバです。若いときは白くて堅く、担子器の群れが並ぶ小さな室に分かれ、胞子が熟すと褐色の粉状になります。担子器は4〜8個の胞子をつけ、大きさは11〜15 × 18〜24 μmです。胞子の間には、分枝し、壁が厚く、無色の不稔の糸（キャピリチウム）があります。",
+        stipe: "柄はありません。内皮は開いた裂片の中央に直接つきます。もろく暗色の糸（根状菌糸束）が基部を地面に固定していますが、子実体が熟すとしばしば折れます。",
+        flesh: "外皮は強靭で革質、数層からなります。最も内側の繊維状の層が湿気を吸ったり放したりし、これによって裂片が巻いたり開いたりします。熟したグレバはチョコレート色がかった褐色です。特別な匂いや味はありません。",
+        sporePrint: "褐色からチョコレート褐色。担子胞子は球形からほぼ球形で、赤褐色、壁は厚く、直径7〜11 μm、長さ約1 μmのいぼまたはとげに覆われ、非アミロイドです（メルツァー試薬に反応しません）。",
+        habitat: "地上に単生、散生、または群生し、通常は養分の乏しい砂質または石の多い酸性の土壌で、暖かく明るい落葉樹林に生え、ナラ類の下に最も多く、マツ類などの針葉樹の下にも見られ、公園、空き地、林縁、道端にも生えます。子実体は夏の終わりから秋にかけて、主に8月から11月に現れます。乾いた子実体は冬を越し、しばしば翌夏まで残ります。地中海地域では春にも発生します。",
+        uses: "食べられません。子実体は強靭で革質のため、ヨーロッパでは食用の価値がありません。南アジアや東南アジアの一部では、ツチグリ属（Astraeus）の菌の若い子実体が食べられています。",
+        confusion: "ヒメツチグリ属（Geastrum）の本物の仲間とよく似ていますが、多くは湿度に応じて開閉しません。その内皮は、1本の裂けた割れ目ではなく、盛り上がった口（口縁部）または円盤を通して開き、若いグレバには中央の柱（中軸）があり、胞子はより小さいです。中程度の吸湿性をもつ数少ない種のひとつである Geastrum mammosum の胞子は、直径約4 μmです。北アメリカとカナリア諸島に産する Astraeus pteridis はより大きく、開くと50〜150 mm以上で、裂片の内面にはより明瞭なひび割れ模様があります。地中海地域の種である Astraeus telleriae は、内皮が細かい綿毛に覆われています。",
+        notes: "裂片は湿ったときに開き、乾いたときに閉じ、雨粒が内皮に当たると、頂部の開口から胞子が放出されます。この名前は長いあいだ広い範囲の個体群に使われてきましたが、分子研究により、北アメリカやアジアの個体群は別々の種であることが示されています。たとえば Astraeus pteridis、Astraeus morganii、Astraeus smithii、Astraeus asiaticus、Astraeus odoratus などで、ヨーロッパの標本にも複数の種が含まれる可能性があります。オランダでは希少で、2008年のオランダの国のレッドリストで絶滅危惧種（Endangered）に分類されています。"
+      },
+      ko: {
+        description: "땅에서 자라며 참나무, 소나무 등 여러 나무와 외생균근을 이루는, Geastrum속과 비슷한 버섯입니다. 유럽에서는 주로 남쪽의 따뜻하고 밝은 숲에서 나며, 더 북쪽의 따뜻한 모래땅에서는 드물게 납니다. 열편은 습한 날씨에는 열리고 건조한 날씨에는 포자를 담은 내피 위로 되접힙니다.",
+        cap: "어린 자실체는 너비 20–40 mm의 둥글고 납작한 공 모양이며 반쯤 땅에 묻혀 있고, 매끈하고 희끄무레한 바깥층이 있어 이것이 찢어지며 흔히 흙으로 덮여 있습니다. 성숙하면 두껍고 가죽질인 외피가 보통 5–15개의 뾰족한 열편으로 갈라지고, 열린 자실체는 너비 30–80 mm, 때로는 100 mm까지 됩니다. 열린 열편의 윗면은 짙은 갈색에서 회흑색이며 작은 구획으로 갈라집니다. 건조하면 열편이 내피 위로 되접혀 너비 약 15–25 mm의 단단한 공 모양이 남습니다. 내피는 열편 중앙에 있으며 둥글고 너비 10–30 mm, 얇고 종이 같으며 연한 회색에서 갈색을 띠고 펠트 같거나 비늘 모양이며, 꼭대기에서 불규칙한 틈이나 구멍으로 열립니다.",
+        hymenium: "주름살이나 관공은 없습니다. 포자를 만드는 조직은 내피 안쪽의 글레바입니다. 어릴 때는 흰색이고 단단하며, 담자기 무리가 안쪽 벽을 덮은 작은 방들로 나뉘어 있다가, 포자가 성숙하면 갈색의 가루 상태가 됩니다. 담자기는 포자를 4–8개 달고 크기는 11–15 × 18–24 μm입니다. 포자 사이에는 가지를 치고 벽이 두꺼우며 무색인 불임성 실(카필리티움)이 있습니다.",
+        stipe: "자루는 없습니다. 내피는 열린 열편의 중앙에 바로 앉아 있습니다. 부서지기 쉬운 어두운 실(근상균사속)이 밑부분을 땅에 고정하며, 자실체가 성숙한 뒤에는 흔히 부러집니다.",
+        flesh: "외피는 질기고 가죽질이며 여러 겹으로 이루어져 있습니다. 가장 안쪽의 섬유질 층이 습기를 흡수하고 내보내며, 이것이 열편을 말리게 하고 다시 펼치게 합니다. 성숙한 글레바는 초콜릿색을 띤 갈색입니다. 특별한 냄새나 맛은 없습니다.",
+        sporePrint: "갈색에서 초콜릿 갈색. 담자포자는 구형 또는 거의 구형이고 적갈색이며 벽이 두껍고, 지름 7–11 μm이며, 길이 약 1 μm의 사마귀 또는 가시로 덮여 있고 비아밀로이드입니다(멜저 시약에 반응하지 않습니다).",
+        habitat: "땅 위에 홀로, 흩어져서 또는 무리 지어 나며, 보통 양분이 적은 모래땅이나 자갈땅의 산성 토양에서, 따뜻하고 밝은 낙엽수림에 자라고, 참나무 아래에서 가장 흔하지만 소나무와 다른 침엽수 아래, 공원, 빈터, 숲 가장자리, 길가에서도 납니다. 자실체는 늦여름부터 가을까지, 주로 8월부터 11월까지 나타납니다. 마른 자실체는 겨울 내내 남아 있고 흔히 이듬해 여름까지 갑니다. 지중해 지역에서는 봄에도 열매를 맺습니다.",
+        uses: "먹을 수 없습니다. 자실체가 질기고 가죽질이어서 유럽에서는 요리 가치가 없습니다. 남아시아와 동남아시아 일부 지역에서는 Astraeus속 종의 어린 자실체를 먹습니다.",
+        confusion: "Geastrum속의 종들은 비슷해 보이지만 대부분 습도에 따라 열리고 닫히지 않습니다. 이들의 내피는 하나의 찢어진 틈이 아니라 솟아오른 입(구연부) 또는 원반을 통해 열리고, 어린 글레바에는 중앙 기둥(중축)이 있으며, 포자는 더 작습니다. 중간 정도의 흡습성을 가진 몇 안 되는 종 중 하나인 Geastrum mammosum의 포자는 지름이 약 4 μm입니다. 북아메리카와 카나리아 제도에 나는 Astraeus pteridis는 더 크며 열렸을 때 50–150 mm 이상이고, 열편 안쪽 면의 갈라진 무늬가 더 뚜렷합니다. 지중해 지역의 종인 Astraeus telleriae는 내피에 고운 솜털이 있습니다.",
+        notes: "열편은 습한 날씨에 열리고 건조한 날씨에 닫히며, 빗방울이 내피에 떨어지면 포자가 꼭대기의 구멍으로 방출됩니다. 이 이름은 오랫동안 넓은 범위의 집단에 쓰였으나, 분자 연구에서 북아메리카와 아시아의 집단은 별개의 종에 속한다는 것이 밝혀졌습니다. 예를 들어 Astraeus pteridis, Astraeus morganii, Astraeus smithii, Astraeus asiaticus, Astraeus odoratus 등이며, 유럽의 표본에도 둘 이상의 종이 포함될 수 있습니다. 네덜란드에서는 드물며 2008년 네덜란드 국가 적색 목록에서 위기(Endangered)로 분류됩니다."
+      },
+      lv: {
+        description: "Sēne, kas atgādina Geastrum ģints sēnes, aug uz zemes un veido ektomikorizu ar ozoliem, priedēm un citiem kokiem. Eiropā tā sastopama galvenokārt dienvidu siltos, gaišos mežos un retāk siltās, smilšainās vietās tālāk uz ziemeļiem. Tās daivas mitrā laikā atveras, bet sausā laikā atliecas atpakaļ pār sporu maisiņu.",
+        cap: "Jauns augļķermenis ir apaļa, saplacināta bumba 20–40 mm platumā, līdz pusei ieslīgusi zemē, ar gludu, bālganu ārējo kārtu, kas plīst nost un bieži ir zemēm klāta. Nogatavojoties biezā, ādainā ārējā čaula (eksoperidijs) parasti sašķeļas 5–15 smailās daivās, un atvērtais augļķermenis ir 30–80 mm plats, dažkārt līdz 100 mm. Atvērto daivu augšpuse ir tumšbrūna līdz pelēkmelna un saplaisā sīkos laukumos. Sausā laikā daivas atliecas atpakaļ pār sporu maisiņu, atstājot cietu, apmēram 15–25 mm platu bumbu. Sporu maisiņš (endoperidijs) atrodas daivu vidū; tas ir apaļš, 10–30 mm plats, plāns un papīrains, gaiši pelēks līdz brūngans, filcains vai zvīņains, un augšgalā atveras ar neregulāru plaisu vai poru.",
+        hymenium: "Plātņu vai cauruļu nav. Sporas nesošais audu slānis ir gleba sporu maisiņa iekšpusē. Jaunībā tā ir balta un cieta, sadalīta sīkās kamerās, ko izklāj bazīdiju kopas, un sporām nogatavojoties kļūst brūna un pulverveidīga. Bazīdijiem ir četras līdz astoņas sporas, un tie ir 11–15 × 18–24 μm lieli. Starp sporām atrodas sterili pavedieni (kapilīcijs), kas ir sazaroti, resnsienu un bezkrāsaini.",
+        stipe: "Kātiņa nav. Sporu maisiņš atrodas tieši atvērto daivu vidū. Trauslie tumšie pavedieni (rizomorfas) piestiprina pamatni zemē un bieži nolūst pēc tam, kad augļķermenis ir nogatavojies.",
+        flesh: "Ārējā čaula ir izturīga un ādaina, un tā sastāv no vairākām kārtām. Visdziļākā, šķiedrainā kārta uzsūc un atdod mitrumu, un tieši tā liek daivām satīties un atkal izplesties. Nogatavojusies gleba ir šokolādbrūna. Īpašas smaržas vai garšas nav.",
+        sporePrint: "Brūns līdz šokolādbrūns. Bazīdijsporas ir lodveida vai gandrīz lodveida, sarkanbrūnas un resnsienu, 7–11 μm diametrā, klātas ar apmēram 1 μm gariem kārpām vai ērkšķiem, un neamiloīdas (ar Melcera reaģentu nereaģē).",
+        habitat: "Aug uz zemes pa vienai, izkaisīti vai grupās, parasti nabadzīgā, smilšainā vai akmeņainā, skābā augsnē, gaišos, siltos lapkoku mežos, visbiežāk zem ozoliem, kā arī zem priedēm un citiem skujkokiem, un parkos, izcirtumos, meža malās un ceļmalās. Augļķermeņi parādās no vasaras beigām līdz rudenim, galvenokārt no augusta līdz novembrim. Sausie augļķermeņi saglabājas visu ziemu un bieži vien līdz nākamajai vasarai. Vidusjūras reģionā tā augļo arī pavasarī.",
+        uses: "Neēdama. Augļķermenis ir izturīgs un ādains, un Eiropā tam nav kulinārās vērtības. Dažviet Dienvidāzijā un Dienvidaustrumāzijā ēd Astraeus ģints sugu jaunos augļķermeņus.",
+        confusion: "Īstās Geastrum ģints sugas izskatās līdzīgi, taču lielākā daļa no tām neatveras un neaizveras atkarībā no mitruma. To sporu maisiņš atveras caur paaugstinātu atveri (peristomu) vai disku, nevis caur vienu plīsušu spraugu, to jaunajā glebā ir centrāla kolonna (kolumella), un to sporas ir mazākas; Geastrum mammosum, vienai no nedaudzajām mēreni higroskopiskajām sugām, sporu diametrs ir apmēram 4 μm. Astraeus pteridis, kas aug Ziemeļamerikā un Kanāriju salās, ir lielāka, atvērta 50–150 mm vai vairāk, un tās daivu iekšpusē ir izteiktāks plaisu zīmējums. Astraeus telleriae, Vidusjūras sugai, sporu maisiņš ir smalki vilnains.",
+        notes: "Daivas mitrā laikā atveras un sausā laikā aizveras, un sporas izdalās pa atveri augšgalā, kad lietus lāses krīt uz sporu maisiņu. Nosaukumu ilgi lietoja plašai populāciju grupai, taču molekulārie pētījumi ir parādījuši, ka Ziemeļamerikas un Āzijas populācijas pieder pie atsevišķām sugām, piemēram, Astraeus pteridis, Astraeus morganii, Astraeus smithii, Astraeus asiaticus un Astraeus odoratus, un Eiropas materiāls var ietvert vairāk nekā vienu sugu. Nīderlandē tā ir reta un Nīderlandes nacionālajā sarkanajā sarakstā 2008. gadā iekļauta kā apdraudēta suga (Endangered)."
+      },
+      lt: {
+        description: "Grybas, panašus į žvaigždulius (Geastrum), kuris auga ant žemės ir sudaro ektomikorizę su ąžuolais, pušimis ir kitais medžiais. Europoje jis aptinkamas daugiausia pietų šiltuose, šviesiuose miškuose, o toliau į šiaurę rečiau – šiltose, smėlėtose vietose. Jo skiautės drėgnu oru atsiveria, o sausu oru užsilenkia atgal ant sporų maišelio.",
+        cap: "Jaunas vaisiakūnis yra apvalus, suplotas rutulys, 20–40 mm pločio, pusiau įsmigęs į žemę, su lygiu, balsvu išoriniu sluoksniu, kuris plyšta ir dažnai būna išsitepęs žemėmis. Subrendus storas, odiškas išorinis apvalkalas (egzoperidis) paprastai skyla į 5–15 smailių skiaučių, o atsivėręs vaisiakūnis yra 30–80 mm pločio, kartais iki 100 mm. Atsivėrusių skiaučių viršutinė pusė yra tamsiai ruda iki pilkšvai juoda ir įtrūksta į smulkius laukelius. Sausu oru skiautės užsilenkia atgal ant sporų maišelio, ir lieka kietas, maždaug 15–25 mm pločio rutulys. Sporų maišelis (endoperidis) yra skiaučių viduryje; jis apvalus, 10–30 mm pločio, plonas ir popierinis, šviesiai pilkas iki rusvo, veltinio pavidalo arba žvynuotas, o viršuje atsiveria netaisyklingu plyšiu arba pora.",
+        hymenium: "Plokštelių ar vamzdelių nėra. Sporas nešantis audinys yra gleba sporų maišelio viduje. Jaunystėje ji balta ir kieta, padalyta į mažas kameras, išklotas bazidžių kekėmis, o sporoms bręstant tampa ruda ir miltelinė. Bazidės turi nuo keturių iki aštuonių sporų ir yra 11–15 × 18–24 μm dydžio. Tarp sporų yra sterilūs siūlai (kapiliciumas), kurie yra šakoti, storasieniai ir bespalviai.",
+        stipe: "Kojelės nėra. Sporų maišelis sėdi tiesiai atsivėrusių skiaučių viduryje. Trapūs tamsūs siūlai (rizomorfos) pritvirtina pagrindą prie žemės ir dažnai nutrūksta, kai vaisiakūnis subręsta.",
+        flesh: "Išorinis apvalkalas yra tvirtas ir odiškas, sudarytas iš kelių sluoksnių. Giliausias, pluoštinis sluoksnis sugeria ir atiduoda drėgmę, ir būtent jis priverčia skiautes susirangyti ir vėl išsiskleisti. Subrendusi gleba yra šokoladinės rudos spalvos. Ypatingo kvapo ar skonio nėra.",
+        sporePrint: "Ruda iki šokoladinės rudos. Bazidiosporos yra rutuliškos arba beveik rutuliškos, raudonai rudos ir storasienės, 7–11 μm skersmens, padengtos maždaug 1 μm ilgio karpelėmis ar dygliais ir neamiloidinės (su Melcerio reagentu nereaguoja).",
+        habitat: "Auga pavieniui, išsibarstęs arba grupėmis ant žemės, paprastai skurdžioje, smėlėtoje arba akmenuotoje, rūgščioje dirvoje, šviesiuose, šiltuose lapuočių miškuose, dažniausiai po ąžuolais, taip pat po pušimis ir kitais spygliuočiais, o be to, parkuose, aikštelėse, miškų pakraščiuose ir prie takų. Vaisiakūniai pasirodo nuo vasaros pabaigos iki rudens, daugiausia nuo rugpjūčio iki lapkričio. Sausi vaisiakūniai išlieka visą žiemą ir dažnai iki kitos vasaros. Viduržemio jūros regione jis veda vaisiakūnius ir pavasarį.",
+        uses: "Nevalgomas. Vaisiakūnis yra tvirtas ir odiškas, todėl Europoje neturi kulinarinės vertės. Kai kuriose Pietų ir Pietryčių Azijos vietose valgomi jauni Astraeus genties rūšių vaisiakūniai.",
+        confusion: "Tikrieji žvaigždulių genties (Geastrum) grybai panašūs, tačiau dauguma jų neatsiveria ir neužsiveria priklausomai nuo drėgmės. Jų sporų maišelis atsiveria per iškilusią angą (peristomą) arba diską, o ne per vieną įplyšusį plyšį, jaunoje glebe yra centrinė kolonėlė (kolumelė), o sporos mažesnės; Geastrum mammosum, viena iš nedaugelio vidutiniškai higroskopinių rūšių, turi maždaug 4 μm skersmens sporas. Astraeus pteridis, augantis Šiaurės Amerikoje ir Kanarų salose, yra didesnis, atsivėręs 50–150 mm ar daugiau, o jo skiaučių vidinis paviršius turi ryškesnį įtrūkimų raštą. Viduržemio jūros rūšies Astraeus telleriae sporų maišelis smulkiai vilnotas.",
+        notes: "Skiautės drėgnu oru atsiveria, o sausu užsiveria, ir sporos išsiskiria per angą viršuje, kai lietaus lašai krinta ant sporų maišelio. Pavadinimas ilgai buvo vartojamas plačiai populiacijų grupei, tačiau molekuliniai tyrimai parodė, kad Šiaurės Amerikos ir Azijos populiacijos priklauso atskiroms rūšims, pavyzdžiui, Astraeus pteridis, Astraeus morganii, Astraeus smithii, Astraeus asiaticus ir Astraeus odoratus, o Europos medžiaga gali apimti daugiau nei vieną rūšį. Nyderlanduose jis retas ir 2008 m. Nyderlandų nacionaliniame raudonajame sąraše įrašytas kaip nykstanti rūšis (Endangered)."
+      },
+      no: {
+        description: "En sopp som ligner en jordstjerne, vokser på bakken og danner ektomykorrhiza med eik, furu og andre trær. I Europa finnes den hovedsakelig i varme, lyse skoger i sør og sjeldnere på varme, sandete steder lenger nord. Armene åpner seg i fuktig vær og bretter seg tilbake over sporesekken i tørt vær.",
+        cap: "Det unge fruktlegemet er en rund, flattrykt kule, 20–40 mm bred, halvt nedgravd i bakken, med et glatt, hvitaktig ytterlag som revner av og ofte er dekket av jord. Ved modning sprekker den tykke, lærlignende ytterveggen (eksoperidiet) vanligvis opp i 5–15 spisse armer, og det åpne fruktlegemet er 30–80 mm bredt, noen ganger opptil 100 mm. Oversiden av de åpne armene er mørkebrun til gråsvart og sprekker opp i små felt. I tørt vær bretter armene seg tilbake over sporesekken, slik at det blir igjen en hard kule, omtrent 15–25 mm bred. Sporesekken (endoperidiet) sitter midt i armene; den er rund, 10–30 mm bred, tynn og papiraktig, lysegrå til brunaktig, filtet eller skjellet, og åpner seg øverst med en uregelmessig sprekk eller pore.",
+        hymenium: "Det er verken lameller eller rør. Det sporebærende vevet er gleba inne i sporesekken. Den er hvit og fast som ung og delt i små kamre som er kledd med klaser av basidier, og blir deretter brun og pulveraktig når sporene modnes. Basidiene har fire til åtte sporer og måler 11–15 × 18–24 μm. Mellom sporene ligger sterile tråder (kapillitium) som er forgrenede, tykkveggede og fargeløse.",
+        stipe: "Det er ingen stilk. Sporesekken sitter direkte midt i de åpne armene. Sprø, mørke tråder (rhizomorfer) forankrer basen i bakken og brekker ofte av når fruktlegemet er modent.",
+        flesh: "Ytterveggen er seig og lærlignende og består av flere lag. Det innerste, trevlete laget tar opp og avgir fuktighet, og det er det som får armene til å rulle seg inn og folde seg ut igjen. Moden gleba er sjokoladebrun. Det er ingen spesiell lukt eller smak.",
+        sporePrint: "Brunt til sjokoladebrunt. Basidiesporene er kuleformede eller nesten kuleformede, rødbrune og tykkveggede, 7–11 μm i diameter, dekket av vorter eller pigger på omtrent 1 μm og ikke amyloide (ingen reaksjon i Melzers reagens).",
+        habitat: "Den vokser enkeltvis, spredt eller i grupper på bakken, vanligvis på næringsfattig, sandet eller steinete, sur jord, i lyse, varme løvskoger, oftest under eik og også under furu og andre bartrær, og i parker, lysninger, skogkanter og langs stier. Fruktlegemene kommer fra sensommeren til høsten, mest fra august til november. De tørre fruktlegemene blir stående gjennom vinteren og ofte til neste sommer. I Middelhavsområdet bærer den også frukt om våren.",
+        uses: "Uspiselig. Fruktlegemet er seigt og lærlignende og har ingen kulinarisk verdi i Europa. I deler av Sør- og Sørøst-Asia spises unge fruktlegemer av arter i slekten Astraeus.",
+        confusion: "De ekte jordstjernene i slekten Geastrum ligner, men de fleste åpner og lukker seg ikke etter fuktigheten. Sporesekken deres åpner seg gjennom en hevet munning (peristom) eller en skive i stedet for en enkelt revet sprekk, den unge glebaen har en sentral søyle (columella), og sporene er mindre; Geastrum mammosum, en av de få moderat hygroskopiske artene, har sporer på omtrent 4 μm i diameter. Astraeus pteridis, som vokser i Nord-Amerika og på Kanariøyene, er større, 50–150 mm eller mer når den er åpen, og innsiden av armene har et tydeligere sprekkemønster. Astraeus telleriae, en middelhavsart, har en fint ullhåret sporesekk.",
+        notes: "Armene åpner seg i fuktig vær og lukker seg i tørt, og sporene slippes ut gjennom åpningen øverst når regndråper treffer sporesekken. Navnet har lenge dekket en bred gruppe av populasjoner, men molekylære studier har vist at populasjonene i Nord-Amerika og Asia tilhører egne arter, for eksempel Astraeus pteridis, Astraeus morganii, Astraeus smithii, Astraeus asiaticus og Astraeus odoratus, og det europeiske materialet kan omfatte mer enn én art. I Nederland er den sjelden og oppført som sterkt truet (Endangered) på den nederlandske nasjonale rødlisten fra 2008."
+      },
+      fa: {
+        description: "قارچی شبیه قارچ‌های جنس Geastrum که روی زمین می‌روید و با بلوط، کاج و درختان دیگر اکتومیکوریزا تشکیل می‌دهد. در اروپا بیشتر در جنگل‌های گرم و روشن جنوب و کمتر در جاهای گرم و ماسه‌ای شمالی‌تر دیده می‌شود. بازوهای آن در هوای مرطوب باز می‌شوند و در هوای خشک روی کیسهٔ هاگ تا می‌خورند.",
+        cap: "اندام باردهی جوان گوی گرد و پهن‌شده‌ای به پهنای ۲۰ تا ۴۰ میلی‌متر است که نیمه‌دفن در خاک قرار دارد و لایهٔ بیرونی صاف و سفیدرنگ دارد که پاره می‌شود و اغلب پوشیده از خاک است. در رسیدگی، دیوارهٔ بیرونی ضخیم و چرمی (اگزوپریدیوم) معمولاً به ۵ تا ۱۵ بازوی نوک‌تیز شکافته می‌شود و اندام باردهی باز ۳۰ تا ۸۰ میلی‌متر پهنا دارد و گاهی تا ۱۰۰ میلی‌متر می‌رسد. سطح بالایی بازوهای باز قهوه‌ای تیره تا خاکستری‌سیاه است و به قطعه‌های ریز ترک می‌خورد. در هوای خشک بازوها روی کیسهٔ هاگ تا می‌خورند و گوی سختی به پهنای حدود ۱۵ تا ۲۵ میلی‌متر برجا می‌ماند. کیسهٔ هاگ (اندوپریدیوم) در میانهٔ بازوها جای دارد؛ گرد است، ۱۰ تا ۳۰ میلی‌متر پهنا دارد، نازک و کاغذی است، خاکستری روشن تا مایل به قهوه‌ای، نمدی یا فلس‌دار است و در بالا با شکاف یا روزنه‌ای نامنظم باز می‌شود.",
+        hymenium: "تیغه یا لوله وجود ندارد. بافت حامل هاگ، گلبا در درون کیسهٔ هاگ است. در جوانی سفید و سفت است و به حجره‌های کوچکی بخش شده که خوشه‌های بازیدی آن‌ها را پوشانده‌اند، و با رسیدن هاگ‌ها قهوه‌ای و پودری می‌شود. بازیدی‌ها چهار تا هشت هاگ دارند و اندازه‌شان ۱۱ تا ۱۵ × ۱۸ تا ۲۴ میکرومتر است. میان هاگ‌ها رشته‌های نازای (کاپیلیتیوم) وجود دارد که منشعب، دیواره‌ضخیم و بی‌رنگ‌اند.",
+        stipe: "ساقه ندارد. کیسهٔ هاگ مستقیم در میانهٔ بازوهای باز قرار دارد. رشته‌های تیرهٔ شکننده (ریزومورف‌ها) پایه را در خاک مهار می‌کنند و اغلب پس از رسیدن اندام باردهی می‌شکنند.",
+        flesh: "دیوارهٔ بیرونی سخت و چرمی است و از چند لایه ساخته شده است. درونی‌ترین لایه که رشته‌ای است رطوبت را جذب و آزاد می‌کند و همین لایه است که بازوها را پیچیده و دوباره باز می‌کند. گلبای رسیده شکلاتی‌قهوه‌ای است. بو یا مزهٔ ویژه‌ای ندارد.",
+        sporePrint: "قهوه‌ای تا قهوه‌ای شکلاتی. بازیدیوهاگ‌ها کروی یا تقریباً کروی، قهوه‌ای مایل به قرمز و دیواره‌ضخیم‌اند، قطرشان ۷ تا ۱۱ میکرومتر است، با زگیل یا خارهایی به طول حدود ۱ میکرومتر پوشیده شده‌اند و آمیلوییدی نیستند (در واکنشگر ملتزر واکنش نشان نمی‌دهند).",
+        habitat: "به‌صورت تک‌تک، پراکنده یا گروهی روی زمین می‌روید، معمولاً در خاک فقیر، ماسه‌ای یا سنگلاخی و اسیدی، در جنگل‌های برگ‌ریز گرم و روشن، بیشتر زیر بلوط و همچنین زیر کاج و سوزنی‌برگان دیگر، و در پارک‌ها، فضاهای باز، حاشیهٔ جنگل و کنار مسیرها. اندام‌های باردهی از اواخر تابستان تا پاییز، بیشتر از اوت تا نوامبر، پدیدار می‌شوند. اندام‌های باردهی خشک در سراسر زمستان و اغلب تا تابستان بعد باقی می‌مانند. در منطقهٔ مدیترانه در بهار هم میوه می‌دهد.",
+        uses: "خوراکی نیست. اندام باردهی چرمی و سخت است و در اروپا ارزش آشپزی ندارد. در بخش‌هایی از جنوب و جنوب شرق آسیا اندام‌های باردهی جوان گونه‌های جنس Astraeus خورده می‌شوند.",
+        confusion: "گونه‌های واقعی جنس Geastrum شبیه آن‌اند، اما بیشترشان با رطوبت باز و بسته نمی‌شوند. کیسهٔ هاگ آن‌ها از راه دهانه‌ای برآمده (پریستوم) یا یک دیسک باز می‌شود و نه از راه یک شکاف پاره‌شده، گلبای جوان آن‌ها ستونی مرکزی (کولومِلا) دارد و هاگ‌هایشان کوچک‌ترند؛ گونهٔ Geastrum mammosum، یکی از معدود گونه‌های با رطوبت‌گیری متوسط، هاگ‌هایی به قطر حدود ۴ میکرومتر دارد. گونهٔ Astraeus pteridis که در آمریکای شمالی و جزایر قناری می‌روید بزرگ‌تر است، در حالت باز ۵۰ تا ۱۵۰ میلی‌متر یا بیشتر، و سطح درونی بازوهایش الگوی ترک آشکارتری دارد. گونهٔ Astraeus telleriae، گونه‌ای مدیترانه‌ای، کیسهٔ هاگ ریز پشمی دارد.",
+        notes: "بازوها در هوای مرطوب باز و در هوای خشک بسته می‌شوند و هاگ‌ها هنگامی که قطره‌های باران به کیسهٔ هاگ می‌خورند از روزنهٔ بالای آن رها می‌شوند. این نام مدت‌ها برای گروه گسترده‌ای از جمعیت‌ها به کار می‌رفت، اما پژوهش‌های مولکولی نشان داده‌اند که جمعیت‌های آمریکای شمالی و آسیا به گونه‌های جداگانه‌ای تعلق دارند، مانند Astraeus pteridis، Astraeus morganii، Astraeus smithii، Astraeus asiaticus و Astraeus odoratus، و مواد اروپایی ممکن است بیش از یک گونه را در بر بگیرند. در هلند کمیاب است و در فهرست سرخ ملی هلند در سال ۲۰۰۸ به‌عنوان گونهٔ در معرض خطر انقراض (Endangered) آمده است."
+      },
+      pl: {
+        description: "Grzyb podobny do gwiazdoszy, rosnący na ziemi i tworzący ektomikoryzę z dębami, sosnami i innymi drzewami. W Europie występuje głównie w ciepłych, widnych lasach na południu, a rzadziej w ciepłych, piaszczystych miejscach dalej na północ. Jego ramiona w wilgotną pogodę rozchylają się, a w suchą zaginają się z powrotem nad woreczkiem zarodnikowym.",
+        cap: "Młody owocnik jest okrągłą, spłaszczoną kulą o szerokości 20–40 mm, do połowy zagłębioną w ziemi, z gładką, białawą warstwą zewnętrzną, która się rozrywa i jest często pokryta ziemią. W dojrzałości gruba, skórzasta ściana zewnętrzna (egzoperydium) pęka zwykle na 5–15 spiczastych ramion, a otwarty owocnik ma szerokość 30–80 mm, czasem do 100 mm. Górna strona otwartych ramion jest ciemnobrązowa do szarawoczarnej i spękana na drobne poletka. W suchą pogodę ramiona zaginają się z powrotem nad woreczkiem zarodnikowym, pozostawiając twardą kulę o szerokości około 15–25 mm. Woreczek zarodnikowy (endoperydium) znajduje się pośrodku ramion; jest okrągły, o szerokości 10–30 mm, cienki i papierowaty, jasnoszary do brązowawego, filcowaty lub łuskowaty, i otwiera się na szczycie nieregularną szczeliną lub porem.",
+        hymenium: "Brak blaszek i rurek. Tkanką zarodnikonośną jest gleba wewnątrz woreczka zarodnikowego. W młodości jest biała i zwarta, podzielona na drobne komory wyścielone kępkami podstawek, a gdy zarodniki dojrzewają, staje się brązowa i proszkowata. Podstawki mają cztery do ośmiu zarodników i mierzą 11–15 × 18–24 μm. Między zarodnikami znajdują się płonne nitki (włośnia), rozgałęzione, grubościenne i bezbarwne.",
+        stipe: "Trzonu brak. Woreczek zarodnikowy siedzi bezpośrednio pośrodku otwartych ramion. Kruche, ciemne nitki (ryzomorfy) kotwiczą podstawę w ziemi i często odłamują się po dojrzeniu owocnika.",
+        flesh: "Ściana zewnętrzna jest twarda i skórzasta oraz złożona z kilku warstw. Najgłębsza, włóknista warstwa pochłania i oddaje wilgoć i to ona sprawia, że ramiona zwijają się i rozwijają. Dojrzała gleba jest czekoladowobrązowa. Nie ma szczególnego zapachu ani smaku.",
+        sporePrint: "Brązowy do czekoladowobrązowego. Zarodniki podstawkowe są kuliste lub prawie kuliste, czerwonobrązowe i grubościenne, o średnicy 7–11 μm, pokryte brodawkami lub kolcami długości około 1 μm i nieamyloidalne (bez reakcji w odczynniku Melzera).",
+        habitat: "Rośnie pojedynczo, w rozproszeniu lub w grupach na ziemi, zwykle na ubogiej, piaszczystej lub kamienistej, kwaśnej glebie, w widnych, ciepłych lasach liściastych, najczęściej pod dębami, a także pod sosnami i innymi iglakami, oraz w parkach, na polanach, skrajach lasów i przy ścieżkach. Owocniki pojawiają się od końca lata do jesieni, głównie od sierpnia do listopada. Suche owocniki utrzymują się przez zimę i często do następnego lata. W rejonie śródziemnomorskim owocniki wyrastają także wiosną.",
+        uses: "Niejadalny. Owocnik jest twardy i skórzasty, a w Europie nie ma wartości kulinarnej. W niektórych częściach południowej i południowo-wschodniej Azji jada się młode owocniki gatunków z rodzaju Astraeus.",
+        confusion: "Prawdziwe gwiazdosze z rodzaju Geastrum wyglądają podobnie, ale większość z nich nie otwiera się i nie zamyka zależnie od wilgotności. Ich woreczek zarodnikowy otwiera się przez wyniesiony otwór (perystom) lub dysk, a nie przez pojedynczą rozdartą szczelinę, ich młoda gleba ma centralną kolumienkę (kolumelę), a zarodniki są mniejsze; Geastrum mammosum, jeden z nielicznych umiarkowanie higroskopijnych gatunków, ma zarodniki o średnicy około 4 μm. Astraeus pteridis, rosnący w Ameryce Północnej i na Wyspach Kanaryjskich, jest większy, po otwarciu 50–150 mm lub więcej, a wewnętrzna powierzchnia jego ramion ma wyraźniejszy wzór spękań. Astraeus telleriae, gatunek śródziemnomorski, ma delikatnie wełnisty woreczek zarodnikowy.",
+        notes: "Ramiona rozchylają się w wilgotną pogodę, a zamykają w suchą, a zarodniki są uwalniane przez otwór na szczycie, gdy krople deszczu uderzają w woreczek zarodnikowy. Nazwa długo obejmowała szeroką grupę populacji, ale badania molekularne wykazały, że populacje z Ameryki Północnej i Azji należą do odrębnych gatunków, na przykład Astraeus pteridis, Astraeus morganii, Astraeus smithii, Astraeus asiaticus i Astraeus odoratus, a materiał europejski może obejmować więcej niż jeden gatunek. W Holandii jest rzadki i figuruje na holenderskiej krajowej czerwonej liście z 2008 roku jako zagrożony (Endangered)."
+      },
+      pt: {
+        description: "Cogumelo semelhante a uma estrela-da-terra, que cresce no solo e forma ectomicorrizas com carvalhos, pinheiros e outras árvores. Na Europa ocorre sobretudo em bosques quentes e luminosos do sul e, mais raramente, em locais quentes e arenosos mais a norte. Os seus lóbulos abrem-se com tempo húmido e dobram-se para trás sobre o saco de esporos com tempo seco.",
+        cap: "O carpóforo jovem é uma esfera redonda e achatada com 20–40 mm de largura, meio enterrada no solo, com uma camada exterior lisa e esbranquiçada que se rasga e está muitas vezes coberta de terra. Na maturidade, a parede exterior espessa e coriácea (exoperídio) abre-se geralmente em 5–15 lóbulos pontiagudos, e o carpóforo aberto tem 30–80 mm de largura, por vezes até 100 mm. A face superior dos lóbulos abertos é castanho-escura a cinzento-enegrecida e fende-se em pequenos campos. Com tempo seco, os lóbulos dobram-se para trás sobre o saco de esporos, deixando uma esfera dura com cerca de 15–25 mm de largura. O saco de esporos (endoperídio) fica no centro dos lóbulos; é redondo, com 10–30 mm de largura, fino e papiráceo, cinzento-pálido a acastanhado, feltrado ou escamoso, e abre no topo por uma fenda ou poro irregular.",
+        hymenium: "Não há lamelas nem tubos. O tecido portador de esporos é a gleba no interior do saco de esporos. Quando jovem é branca e firme, dividida em pequenas câmaras revestidas por grupos de basídios, e depois torna-se castanha e pulverulenta quando os esporos amadurecem. Os basídios têm quatro a oito esporos e medem 11–15 × 18–24 μm. Entre os esporos há filamentos estéreis (capilício) ramificados, de parede espessa e incolores.",
+        stipe: "Não há estipe. O saco de esporos assenta diretamente no centro dos lóbulos abertos. Filamentos escuros e quebradiços (rizomorfos) fixam a base ao solo e muitas vezes partem-se depois de o carpóforo amadurecer.",
+        flesh: "A parede exterior é tenaz e coriácea e formada por várias camadas. A camada mais interna, fibrosa, absorve e liberta humidade, e é ela que faz os lóbulos enrolar-se e desenrolar-se. A gleba madura é castanho-chocolate. Não tem cheiro nem sabor particulares.",
+        sporePrint: "Castanho a castanho-chocolate. Os basidiósporos são globosos a subglobosos, castanho-avermelhados e de parede espessa, com 7–11 μm de diâmetro, cobertos de verrugas ou espinhos com cerca de 1 μm de comprimento, e não amiloides (sem reação ao reagente de Melzer).",
+        habitat: "Cresce isolado, disperso ou em grupos no solo, geralmente em solo pobre, arenoso ou pedregoso e ácido, em bosques de folhosas quentes e luminosos, mais frequentemente sob carvalhos e também sob pinheiros e outras coníferas, e em parques, clareiras, orlas de bosque e ao longo de caminhos. Os carpóforos surgem do final do verão ao outono, sobretudo de agosto a novembro. Os carpóforos secos persistem durante o inverno e muitas vezes até ao verão seguinte. Na região mediterrânica frutifica também na primavera.",
+        uses: "Não comestível. O carpóforo é coriáceo e não tem valor culinário na Europa. Em algumas zonas do Sul e do Sudeste Asiático comem-se os carpóforos jovens de espécies do género Astraeus.",
+        confusion: "As verdadeiras estrelas-da-terra do género Geastrum são semelhantes, mas a maioria não abre nem fecha consoante a humidade. O seu saco de esporos abre por uma boca elevada (peristoma) ou por um disco, e não por uma única fenda rasgada, a sua gleba jovem tem uma columela central e os seus esporos são mais pequenos; Geastrum mammosum, uma das poucas espécies moderadamente higroscópicas, tem esporos com cerca de 4 μm de diâmetro. Astraeus pteridis, que ocorre na América do Norte e nas Canárias, é maior, com 50–150 mm ou mais quando aberto, e a face interna dos seus lóbulos tem um padrão de fendas mais marcado. Astraeus telleriae, espécie mediterrânica, tem o saco de esporos finamente lanoso.",
+        notes: "Os lóbulos abrem-se com tempo húmido e fecham-se com tempo seco, e os esporos são libertados pela abertura do topo quando as gotas de chuva atingem o saco de esporos. O nome abrangeu durante muito tempo um vasto conjunto de populações, mas estudos moleculares mostraram que as da América do Norte e da Ásia pertencem a espécies distintas, por exemplo Astraeus pteridis, Astraeus morganii, Astraeus smithii, Astraeus asiaticus e Astraeus odoratus, e o material europeu pode incluir mais de uma espécie. Nos Países Baixos é raro e consta da lista vermelha nacional neerlandesa de 2008 como em perigo (Endangered)."
+      },
+      ro: {
+        description: "O ciupercă asemănătoare cu speciile genului Geastrum, care crește pe sol și formează ectomicorize cu stejari, pini și alți arbori. În Europa apare mai ales în pădurile calde și luminoase din sud și, mai rar, în locuri calde și nisipoase mai spre nord. Lobii ei se deschid pe vreme umedă și se pliază înapoi peste sacul sporifer pe vreme uscată.",
+        cap: "Corpul fructifer tânăr este o sferă rotundă și turtită, lată de 20–40 mm, pe jumătate îngropată în sol, cu un strat exterior neted și albicios care se rupe și este adesea acoperit cu pământ. La maturitate, peretele exterior gros și coriaceu (exoperidiul) se crapă de obicei în 5–15 lobi ascuțiți, iar corpul fructifer deschis are 30–80 mm lățime, uneori până la 100 mm. Fața superioară a lobilor deschiși este brun-închis până la gri-negricioasă și se crapă în câmpuri mici. Pe vreme uscată, lobii se pliază înapoi peste sacul sporifer, lăsând o sferă tare, lată de aproximativ 15–25 mm. Sacul sporifer (endoperidiul) se află în centrul lobilor; este rotund, lat de 10–30 mm, subțire și papiraceu, gri-pal până la brunatic, pâslos sau solzos, și se deschide în vârf printr-o crăpătură sau un por neregulat.",
+        hymenium: "Nu există lamele sau tuburi. Țesutul purtător de spori este gleba din interiorul sacului sporifer. La tinerețe este albă și fermă, împărțită în camere mici căptușite cu ciorchini de bazidii, apoi devine brună și pulverulentă când sporii se coc. Bazidiile au patru până la opt spori și măsoară 11–15 × 18–24 μm. Între spori se găsesc filamente sterile (capiliciu), ramificate, cu pereți groși și incolore.",
+        stipe: "Nu există picior. Sacul sporifer stă direct în centrul lobilor deschiși. Filamente întunecate și fragile (rizomorfe) ancorează baza în sol și adesea se rup după ce corpul fructifer se coace.",
+        flesh: "Peretele exterior este tenace și coriaceu și alcătuit din mai multe straturi. Stratul cel mai interior, fibros, absoarbe și cedează umiditatea, iar el face lobii să se răsucească și să se desfacă la loc. Gleba coaptă este brun-ciocolatie. Nu are miros sau gust deosebit.",
+        sporePrint: "Brună până la brun-ciocolatie. Bazidiosporii sunt globuloși până la subglobuloși, brun-roșcați și cu perete gros, cu diametrul de 7–11 μm, acoperiți cu negi sau spini lungi de aproximativ 1 μm, și neamiloizi (fără reacție în reactivul Melzer).",
+        habitat: "Crește izolat, răspândit sau în grupuri pe sol, de obicei pe sol sărac, nisipos sau pietros și acid, în păduri de foioase calde și luminoase, cel mai des sub stejari și, de asemenea, sub pini și alte conifere, precum și în parcuri, poieni, margini de pădure și de-a lungul potecilor. Corpurile fructifere apar de la sfârșitul verii până toamna, mai ales din august până în noiembrie. Corpurile fructifere uscate rămân peste iarnă și adesea până în vara următoare. În regiunea mediteraneană fructifică și primăvara.",
+        uses: "Necomestibilă. Corpul fructifer este tare și coriaceu și nu are valoare culinară în Europa. În unele părți ale Asiei de Sud și de Sud-Est se mănâncă corpurile fructifere tinere ale unor specii din genul Astraeus.",
+        confusion: "Adevăratele specii ale genului Geastrum seamănă, dar cele mai multe nu se deschid și nu se închid după umiditate. Sacul lor sporifer se deschide printr-o gură ridicată (peristom) sau printr-un disc, nu printr-o singură crăpătură ruptă, gleba lor tânără are o columelă centrală, iar sporii lor sunt mai mici; Geastrum mammosum, una dintre puținele specii moderat higroscopice, are spori cu diametrul de aproximativ 4 μm. Astraeus pteridis, care crește în America de Nord și în Insulele Canare, este mai mare, de 50–150 mm sau mai mult când este deschis, iar fața internă a lobilor săi are un model de crăpături mai pronunțat. Astraeus telleriae, o specie mediteraneană, are sacul sporifer fin lânos.",
+        notes: "Lobii se deschid pe vreme umedă și se închid pe vreme uscată, iar sporii sunt eliberați prin deschiderea din vârf atunci când picăturile de ploaie lovesc sacul sporifer. Numele a acoperit mult timp un grup larg de populații, dar studiile moleculare au arătat că cele din America de Nord și din Asia aparțin unor specii distincte, de exemplu Astraeus pteridis, Astraeus morganii, Astraeus smithii, Astraeus asiaticus și Astraeus odoratus, iar materialul european poate include mai mult de o specie. În Țările de Jos este rară și figurează în lista roșie națională olandeză din 2008 ca specie periclitată (Endangered)."
+      },
+      ru: {
+        description: "Гриб, похожий на звездовики, растёт на земле и образует эктомикоризу с дубами, соснами и другими деревьями. В Европе встречается главным образом в тёплых светлых лесах на юге и реже в тёплых песчаных местах севернее. Его лучи раскрываются в сырую погоду и в сухую загибаются обратно над споровым мешочком.",
+        cap: "Молодое плодовое тело — округлый, уплощённый шар шириной 20–40 мм, наполовину погружённый в землю, с гладким беловатым наружным слоем, который разрывается и часто покрыт землёй. При созревании толстая кожистая наружная стенка (экзоперидий) обычно раскрывается на 5–15 заострённых лучей, и раскрытое плодовое тело имеет ширину 30–80 мм, иногда до 100 мм. Верхняя сторона раскрытых лучей тёмно-коричневая до серо-чёрной и растрескивается на мелкие участки. В сухую погоду лучи загибаются обратно над споровым мешочком, оставляя твёрдый шар шириной около 15–25 мм. Споровый мешочек (эндоперидий) находится в центре лучей; он округлый, шириной 10–30 мм, тонкий и бумагообразный, светло-серый до буроватого, войлочный или чешуйчатый и раскрывается на вершине неправильной щелью или порой.",
+        hymenium: "Пластинок и трубочек нет. Спороносная ткань — глеба внутри спорового мешочка. В молодости она белая и плотная, разделена на мелкие камеры, выстланные пучками базидий, а затем по мере созревания спор становится бурой и порошистой. На базидиях по четыре–восемь спор, их размер 11–15 × 18–24 мкм. Между спорами находятся стерильные нити (капиллиций), которые ветвистые, толстостенные и бесцветные.",
+        stipe: "Ножки нет. Споровый мешочек сидит прямо в центре раскрытых лучей. Ломкие тёмные нити (ризоморфы) прикрепляют основание к земле и часто обламываются после созревания плодового тела.",
+        flesh: "Наружная стенка жёсткая, кожистая и состоит из нескольких слоёв. Самый внутренний, волокнистый слой впитывает и отдаёт влагу, и именно он заставляет лучи сворачиваться и снова разворачиваться. Зрелая глеба шоколадно-коричневая. Особого запаха и вкуса нет.",
+        sporePrint: "Коричневый до шоколадно-коричневого. Базидиоспоры шаровидные или почти шаровидные, красновато-коричневые, толстостенные, диаметром 7–11 мкм, покрыты бородавками или шипиками длиной около 1 мкм и неамилоидные (не реагируют в реактиве Мельцера).",
+        habitat: "Растёт по одному, рассеянно или группами на земле, обычно на бедной, песчаной или каменистой кислой почве, в светлых тёплых лиственных лесах, чаще всего под дубами, а также под соснами и другими хвойными, и в парках, на полянах, опушках и вдоль тропинок. Плодовые тела появляются с конца лета до осени, главным образом с августа по ноябрь. Сухие плодовые тела сохраняются всю зиму и часто до следующего лета. В Средиземноморье плодоносит и весной.",
+        uses: "Несъедобен. Плодовое тело жёсткое и кожистое и в Европе не имеет кулинарной ценности. В некоторых частях Южной и Юго-Восточной Азии едят молодые плодовые тела видов рода Astraeus.",
+        confusion: "Настоящие звездовики рода Geastrum похожи, но большинство из них не раскрывается и не закрывается в зависимости от влажности. Их споровый мешочек раскрывается через приподнятое устьице (перистом) или диск, а не через одну разорванную щель, у молодой глебы есть центральный столбик (колумелла), а споры мельче; у Geastrum mammosum, одного из немногих умеренно гигроскопичных видов, споры диаметром около 4 мкм. Astraeus pteridis, растущий в Северной Америке и на Канарских островах, крупнее, в раскрытом состоянии 50–150 мм и более, а на внутренней поверхности его лучей более выраженный рисунок трещин. У Astraeus telleriae, средиземноморского вида, споровый мешочек тонко шерстистый.",
+        notes: "Лучи раскрываются в сырую погоду и закрываются в сухую, а споры высвобождаются через отверстие на вершине, когда на споровый мешочек падают капли дождя. Название долго применяли к широкой группе популяций, но молекулярные исследования показали, что североамериканские и азиатские популяции относятся к отдельным видам, например Astraeus pteridis, Astraeus morganii, Astraeus smithii, Astraeus asiaticus и Astraeus odoratus, а европейский материал может включать более одного вида. В Нидерландах он редок и внесён в национальный красный список 2008 года как находящийся под угрозой исчезновения (Endangered)."
+      },
+      sr: {
+        description: "Гљива налик на представнике рода Geastrum, која расте на тлу и гради ектомикоризу са храстовима, боровима и другим дрвећем. У Европи се јавља углавном у топлим, светлим шумама на југу, а ређе на топлим, песковитим местима даље на север. Њени краци се по влажном времену отварају, а по сувом савијају назад преко спорне кесе.",
+        cap: "Младо плодно тело је округла, спљоштена лопта ширине 20–40 mm, до пола утонула у тло, са глатким, беличастим спољашњим слојем који се кида и често је прекривен земљом. При сазревању дебели, кожасти спољашњи омотач (егзоперидијум) обично пуца на 5–15 шиљатих кракова, а отворено плодно тело је широко 30–80 mm, понекад и до 100 mm. Горња страна отворених кракова је тамносмеђа до сивоцрна и распукла на ситна поља. По сувом времену краци се савијају назад преко спорне кесе, остављајући тврду лопту ширине око 15–25 mm. Спорна кеса (ендоперидијум) налази се у средини кракова; округла је, широка 10–30 mm, танка и папирна, светлосива до смеђкаста, филцаста или љускава, а на врху се отвара неправилним прорезом или пором.",
+        hymenium: "Нема листића ни цевчица. Ткиво које носи споре је глеба унутар спорне кесе. У младости је бела и чврста, подељена на ситне коморице обложене гроздовима базидија, а затим постаје смеђа и прашкаста када споре сазру. Базидије носе четири до осам спора и величине су 11–15 × 18–24 μm. Међу спорама налазе се стерилне нити (капилицијум) које су разгранате, дебелозидне и безбојне.",
+        stipe: "Дршке нема. Спорна кеса седи право у средини отворених кракова. Ломљиве тамне нити (ризоморфе) учвршћују основу у тлу и често се одломе пошто плодно тело сазри.",
+        flesh: "Спољашњи омотач је жилав и кожаст и састоји се од неколико слојева. Најунутрашњији, влакнасти слој упија и отпушта влагу, и управо он чини да се краци увијају и поново рашире. Зрела глеба је чоколадносмеђа. Нема посебног мириса ни укуса.",
+        sporePrint: "Смеђ до чоколадносмеђ. Базидиоспоре су округле или готово округле, црвенкастосмеђе и дебелозидне, пречника 7–11 μm, прекривене брадавицама или бодљама дугим око 1 μm и неамилоидне (не реагују са Мелцеровим реагенсом).",
+        habitat: "Расте појединачно, расуто или у групама на тлу, обично на сиромашном, песковитом или каменитом, киселом земљишту, у светлим, топлим листопадним шумама, најчешће испод храстова, а такође испод борова и другог четинарског дрвећа, те у парковима, на пропланцима, ивицама шума и поред стаза. Плодна тела се појављују од краја лета до јесени, углавном од августа до новембра. Сува плодна тела остају преко зиме и често до следећег лета. У медитеранском подручју рађа и у пролеће.",
+        uses: "Није јестива. Плодно тело је жилаво и кожасто и у Европи нема кулинарску вредност. У неким деловима јужне и југоисточне Азије једу се млада плодна тела врста из рода Astraeus.",
+        confusion: "Праве врсте рода Geastrum изгледају слично, али већина њих се не отвара и не затвара у зависности од влажности. Њихова спорна кеса се отвара кроз издигнута уста (перистом) или диск, а не кроз један поцепан прорез, њихова млада глеба има централни стубић (колумелу), а споре су им мање; Geastrum mammosum, једна од ретких умерено хигроскопних врста, има споре пречника око 4 μm. Astraeus pteridis, који расте у Северној Америци и на Канарским острвима, већи је, у отвореном стању 50–150 mm или више, а унутрашња површина његових кракова има израженији узорак пукотина. Astraeus telleriae, медитеранска врста, има фино вунасту спорну кесу.",
+        notes: "Краци се отварају по влажном, а затварају по сувом времену, а споре се ослобађају кроз отвор на врху када кишне капи ударе у спорну кесу. Назив се дуго односио на широку групу популација, али су молекуларна истраживања показала да популације из Северне Америке и Азије припадају засебним врстама, на пример Astraeus pteridis, Astraeus morganii, Astraeus smithii, Astraeus asiaticus и Astraeus odoratus, а европски материјал може обухватати више од једне врсте. У Холандији је ретка и налази се на холандској националној црвеној листи из 2008. као угрожена (Endangered)."
+      },
+      sl: {
+        description: "Goba, podobna zvezdicam (Geastrum), ki raste na tleh in tvori ektomikorizo s hrasti, bori in drugimi drevesi. V Evropi raste predvsem v toplih, svetlih gozdovih na jugu, redkeje pa na toplih, peščenih mestih bolj proti severu. Njeni kraki se v vlažnem vremenu odprejo, v suhem pa se zavihajo nazaj čez trosni mešiček.",
+        cap: "Mlad trosnjak je okrogla, sploščena krogla, široka 20–40 mm, napol vkopana v tla, z gladko, belkasto zunanjo plastjo, ki se strga in je pogosto prekrita z zemljo. Ob zrelosti se debela, usnjata zunanja ovojnica (egzoperidij) običajno razpoka na 5–15 koničastih krakov, odprt trosnjak pa je širok 30–80 mm, včasih do 100 mm. Zgornja stran odprtih krakov je temno rjava do sivočrna in razpoka na drobna polja. V suhem vremenu se kraki zavihajo nazaj čez trosni mešiček in ostane trda krogla, široka približno 15–25 mm. Trosni mešiček (endoperidij) leži na sredini krakov; je okrogel, širok 10–30 mm, tanek in papirnat, svetlo siv do rjavkast, polstast ali luskast, na vrhu pa se odpira z nepravilno razpoko ali poro.",
+        hymenium: "Lističev in cevk ni. Trosonosno tkivo je gleba znotraj trosnega mešička. V mladosti je bela in trdna, razdeljena na drobne komore, obložene s šopi bazidijev, nato pa postane rjava in praškasta, ko trosi dozorijo. Bazidiji imajo štiri do osem trosov in merijo 11–15 × 18–24 μm. Med trosi so sterilne niti (kapilicij), ki so razvejane, debelostenske in brezbarvne.",
+        stipe: "Beta ni. Trosni mešiček sedi neposredno na sredini odprtih krakov. Krhke temne niti (rizomorfi) pritrjujejo dno v tla in se po zrelosti trosnjaka pogosto odlomijo.",
+        flesh: "Zunanja ovojnica je žilava in usnjata ter sestavljena iz več plasti. Najbolj notranja, vlaknata plast vpija in oddaja vlago, in prav ta povzroči, da se kraki zvijejo in spet razvijejo. Zrela gleba je čokoladno rjava. Posebnega vonja ali okusa nima.",
+        sporePrint: "Rjav do čokoladno rjav. Bazidiospore so kroglaste ali skoraj kroglaste, rdečkasto rjave in debelostenske, premera 7–11 μm, pokrite z bradavicami ali bodicami, dolgimi približno 1 μm, in neamiloidne (v Melzerjevem reagentu ne reagirajo).",
+        habitat: "Raste posamič, razpršeno ali v skupinah na tleh, običajno na revni, peščeni ali kamniti, kisli podlagi, v svetlih, toplih listnatih gozdovih, najpogosteje pod hrasti, pa tudi pod bori in drugimi iglavci, ter v parkih, na jasah, gozdnih robovih in ob poteh. Trosnjaki se pojavljajo od poznega poletja do jeseni, večinoma od avgusta do novembra. Suhi trosnjaki obstanejo čez zimo in pogosto do naslednjega poletja. V sredozemskem območju obrodi tudi spomladi.",
+        uses: "Neužitna. Trosnjak je žilav in usnjat ter v Evropi nima kulinarične vrednosti. V nekaterih delih južne in jugovzhodne Azije jedo mlade trosnjake vrst iz rodu Astraeus.",
+        confusion: "Prave vrste iz rodu Geastrum so podobne, vendar se večina od njih ne odpira in ne zapira glede na vlago. Njihov trosni mešiček se odpira skozi privzdignjena usta (peristom) ali disk in ne skozi eno samo raztrgano razpoko, njihova mlada gleba ima osrednji stebriček (kolumelo), trosi pa so manjši; Geastrum mammosum, ena redkih zmerno higroskopnih vrst, ima trose s premerom približno 4 μm. Astraeus pteridis, ki raste v Severni Ameriki in na Kanarskih otokih, je večji, v odprtem stanju 50–150 mm ali več, notranja površina njegovih krakov pa ima izrazitejši vzorec razpok. Astraeus telleriae, sredozemska vrsta, ima drobno volnat trosni mešiček.",
+        notes: "Kraki se v vlažnem vremenu odprejo, v suhem pa zaprejo, trosi pa se sprostijo skozi odprtino na vrhu, ko dežne kaplje padejo na trosni mešiček. Ime se je dolgo uporabljalo za široko skupino populacij, vendar so molekularne raziskave pokazale, da populacije iz Severne Amerike in Azije pripadajo ločenim vrstam, na primer Astraeus pteridis, Astraeus morganii, Astraeus smithii, Astraeus asiaticus in Astraeus odoratus, evropsko gradivo pa lahko zajema več kot eno vrsto. Na Nizozemskem je redka in je na nizozemskem nacionalnem rdečem seznamu iz leta 2008 uvrščena med ogrožene vrste (Endangered)."
+      },
+      es: {
+        description: "Hongo parecido a una estrella de tierra, que crece en el suelo y forma ectomicorrizas con robles, pinos y otros árboles. En Europa vive sobre todo en bosques cálidos y luminosos del sur y, con menos frecuencia, en lugares cálidos y arenosos más al norte. Sus lóbulos se abren con tiempo húmedo y se pliegan hacia atrás sobre el saco de esporas con tiempo seco.",
+        cap: "El carpóforo joven es una esfera redonda y aplanada de 20–40 mm de ancho, medio enterrada en el suelo, con una capa externa lisa y blanquecina que se desgarra y suele estar cubierta de tierra. En la madurez, la pared externa gruesa y coriácea (exoperidio) se abre normalmente en 5–15 lóbulos puntiagudos, y el carpóforo abierto mide 30–80 mm de ancho, a veces hasta 100 mm. La cara superior de los lóbulos abiertos es parda oscura a gris negruzca y se agrieta en pequeños campos. Con tiempo seco, los lóbulos se pliegan hacia atrás sobre el saco de esporas y dejan una bola dura de unos 15–25 mm de ancho. El saco de esporas (endoperidio) está en el centro de los lóbulos; es redondo, de 10–30 mm de ancho, delgado y papiráceo, gris pálido a parduzco, afieltrado o escamoso, y se abre en el ápice por una grieta o un poro irregular.",
+        hymenium: "No hay láminas ni tubos. El tejido portador de esporas es la gleba, en el interior del saco de esporas. De joven es blanca y firme, dividida en pequeñas cámaras tapizadas de grupos de basidios, y luego se vuelve parda y pulverulenta cuando maduran las esporas. Los basidios llevan de cuatro a ocho esporas y miden 11–15 × 18–24 µm. Entre las esporas hay filamentos estériles (capilicio) ramificados, de pared gruesa e incoloros.",
+        stipe: "No hay pie. El saco de esporas se asienta directamente en el centro de los lóbulos abiertos. Filamentos oscuros y quebradizos (rizomorfos) anclan la base al suelo y a menudo se rompen cuando el carpóforo madura.",
+        flesh: "La pared externa es tenaz y coriácea y está formada por varias capas. La capa más interna, fibrosa, absorbe y libera humedad, y es la que hace que los lóbulos se enrollen y se vuelvan a desplegar. La gleba madura es de color pardo chocolate. No tiene olor ni sabor particulares.",
+        sporePrint: "Parda a pardo chocolate. Las basidiosporas son globosas a subglobosas, pardo rojizas y de pared gruesa, de 7–11 µm de diámetro, cubiertas de verrugas o espinas de unos 1 µm de largo, y no amiloides (sin reacción con el reactivo de Melzer).",
+        habitat: "Crece aislado, disperso o en grupos sobre el suelo, normalmente en suelo pobre, arenoso o pedregoso y ácido, en bosques de frondosas cálidos y luminosos, más a menudo bajo robles y también bajo pinos y otras coníferas, y en parques, claros, bordes de bosque y a lo largo de caminos. Los carpóforos aparecen desde finales del verano hasta el otoño, sobre todo de agosto a noviembre. Los carpóforos secos persisten durante el invierno y a menudo hasta el verano siguiente. En la región mediterránea fructifica también en primavera.",
+        uses: "No comestible. El carpóforo es coriáceo y no tiene valor culinario en Europa. En algunas zonas del sur y sudeste de Asia se comen los carpóforos jóvenes de especies del género Astraeus.",
+        confusion: "Las verdaderas estrellas de tierra del género Geastrum se parecen, pero la mayoría no se abre ni se cierra según la humedad. Su saco de esporas se abre por una boca elevada (peristoma) o por un disco, y no por una única grieta desgarrada, su gleba joven tiene una columela central y sus esporas son más pequeñas; Geastrum mammosum, una de las pocas especies moderadamente higroscópicas, tiene esporas de unos 4 µm de diámetro. Astraeus pteridis, que vive en Norteamérica y las islas Canarias, es mayor, de 50–150 mm o más cuando está abierto, y la cara interna de sus lóbulos tiene un patrón de grietas más marcado. Astraeus telleriae, especie mediterránea, tiene el saco de esporas finamente lanoso.",
+        notes: "Los lóbulos se abren con tiempo húmedo y se cierran con tiempo seco, y las esporas se liberan por la abertura del ápice cuando las gotas de lluvia golpean el saco de esporas. El nombre se aplicó durante mucho tiempo a un amplio conjunto de poblaciones, pero los estudios moleculares han mostrado que las de Norteamérica y Asia pertenecen a especies distintas, por ejemplo Astraeus pteridis, Astraeus morganii, Astraeus smithii, Astraeus asiaticus y Astraeus odoratus, y el material europeo puede incluir más de una especie. En los Países Bajos es raro y figura en la lista roja nacional neerlandesa de 2008 como en peligro (Endangered)."
+      },
+      sv: {
+        description: "En jordstjärneliknande svamp som växer på marken och bildar ektomykorrhiza med ekar, tallar och andra träd. I Europa förekommer den huvudsakligen i varma, ljusa skogar i söder och mer sällan på varma, sandiga platser längre norrut. Dess armar öppnar sig i fuktigt väder och viker sig tillbaka över sporsäcken i torrt väder.",
+        cap: "Den unga fruktkroppen är ett runt, tillplattat klot, 20–40 mm brett, halvt nedsjunket i marken, med ett slätt, vitaktigt ytterskikt som rivs sönder och ofta är täckt av jord. Vid mognaden spricker den tjocka, läderartade ytterväggen (exoperidiet) vanligen upp i 5–15 spetsiga armar, och den öppna fruktkroppen är 30–80 mm bred, ibland upp till 100 mm. Ovansidan av de öppna armarna är mörkbrun till gråsvart och spricker upp i små fält. I torrt väder viker sig armarna tillbaka över sporsäcken och lämnar ett hårt klot, omkring 15–25 mm brett. Sporsäcken (endoperidiet) sitter mitt i armarna; den är rund, 10–30 mm bred, tunn och pappersartad, ljusgrå till brunaktig, filtad eller fjällig, och öppnar sig upptill med en oregelbunden spricka eller por.",
+        hymenium: "Det finns varken skivor eller rör. Den sporbärande vävnaden är gleban inuti sporsäcken. Den är vit och fast som ung och delad i små kamrar som är beklädda med klasar av basidier, och blir sedan brun och pulveraktig när sporerna mognar. Basidierna har fyra till åtta sporer och mäter 11–15 × 18–24 μm. Mellan sporerna finns sterila trådar (kapillicium) som är förgrenade, tjockväggiga och färglösa.",
+        stipe: "Någon fot finns inte. Sporsäcken sitter direkt mitt i de öppna armarna. Spröda, mörka trådar (rhizomorfer) förankrar basen i marken och bryts ofta av när fruktkroppen har mognat.",
+        flesh: "Ytterväggen är seg och läderartad och består av flera skikt. Det innersta, trådiga skiktet tar upp och avger fukt, och det är det som får armarna att rulla ihop sig och vika ut sig igen. Mogen gleba är chokladbrun. Det finns ingen särskild lukt eller smak.",
+        sporePrint: "Brun till chokladbrun. Basidiesporerna är klotformiga eller nästan klotformiga, rödbruna och tjockväggiga, 7–11 μm i diameter, täckta av vårtor eller taggar som är omkring 1 μm långa, och inte amyloida (ingen reaktion i Melzers reagens).",
+        habitat: "Den växer enstaka, spridd eller i grupper på marken, vanligen på fattig, sandig eller stenig, sur jord, i ljusa, varma lövskogar, oftast under ekar och även under tallar och andra barrträd, samt i parker, gläntor, skogsbryn och längs stigar. Fruktkropparna visar sig från sensommaren till hösten, mest från augusti till november. De torra fruktkropparna står kvar över vintern och ofta till nästa sommar. I Medelhavsområdet bär den frukt även på våren.",
+        uses: "Oätlig. Fruktkroppen är seg och läderartad och saknar kulinariskt värde i Europa. I delar av Syd- och Sydostasien äts unga fruktkroppar av arter i släktet Astraeus.",
+        confusion: "De äkta jordstjärnorna i släktet Geastrum liknar den, men de flesta öppnar och sluter sig inte efter fuktigheten. Deras sporsäck öppnar sig genom en upphöjd mun (peristom) eller en skiva i stället för genom en enda riven spricka, deras unga gleba har en central pelare (columella) och deras sporer är mindre; Geastrum mammosum, en av de få måttligt hygroskopiska arterna, har sporer som är omkring 4 μm i diameter. Astraeus pteridis, som växer i Nordamerika och på Kanarieöarna, är större, 50–150 mm eller mer när den är öppen, och insidan av dess armar har ett tydligare sprickmönster. Astraeus telleriae, en medelhavsart, har en fint ullig sporsäck.",
+        notes: "Armarna öppnar sig i fuktigt väder och sluter sig i torrt, och sporerna släpps ut genom öppningen upptill när regndroppar träffar sporsäcken. Namnet har länge omfattat en bred grupp av populationer, men molekylära studier har visat att populationerna i Nordamerika och Asien tillhör särskilda arter, till exempel Astraeus pteridis, Astraeus morganii, Astraeus smithii, Astraeus asiaticus och Astraeus odoratus, och det europeiska materialet kan omfatta fler än en art. I Nederländerna är den sällsynt och står på den nederländska nationella rödlistan från 2008 som starkt hotad (Endangered)."
+      },
+      tr: {
+        description: "Geastrum cinsi mantarlara benzeyen, toprakta yetişen ve meşe, çam ve diğer ağaçlarla ektomikoriza oluşturan bir mantar. Avrupa'da çoğunlukla güneydeki sıcak ve aydınlık ormanlarda, daha kuzeyde ise daha seyrek olarak sıcak, kumlu yerlerde bulunur. Kolları nemli havada açılır, kuru havada spor kesesinin üzerine geri kıvrılır.",
+        cap: "Genç meyve gövdesi 20–40 mm genişliğinde, yuvarlak ve yassılaşmış bir küredir; yarı yarıya toprağa gömülüdür, pürüzsüz ve beyazımsı bir dış tabakası vardır, bu tabaka yırtılır ve çoğunlukla toprakla kaplıdır. Olgunlaşınca kalın ve deri gibi dış duvar (ekzoperidyum) genellikle 5–15 sivri kola yarılır; açılmış meyve gövdesi 30–80 mm genişliğindedir, bazen 100 mm'ye kadar çıkar. Açılmış kolların üst yüzü koyu kahverengiden gri-siyaha kadardır ve küçük alanlara çatlar. Kuru havada kollar spor kesesinin üzerine geri kıvrılır ve yaklaşık 15–25 mm genişliğinde sert bir küre kalır. Spor kesesi (endoperidyum) kolların ortasında yer alır; yuvarlaktır, 10–30 mm genişliğindedir, ince ve kâğıt gibidir, açık griden kahverengimsiye kadardır, keçemsi veya pullu yapıdadır ve tepede düzensiz bir yarık ya da gözenekle açılır.",
+        hymenium: "Ne lamel ne de boru vardır. Spor taşıyan doku, spor kesesinin içindeki glebadır. Gençken beyaz ve serttir, bazidyum kümeleriyle kaplı küçük odacıklara bölünmüştür; sporlar olgunlaşınca kahverengi ve tozlu hâle gelir. Bazidyumlar dört ila sekiz spor taşır ve 11–15 × 18–24 μm boyutundadır. Sporların arasında dallanmış, kalın çeperli ve renksiz steril iplikler (kapillityum) bulunur.",
+        stipe: "Sap yoktur. Spor kesesi doğrudan açılmış kolların ortasında oturur. Kırılgan, koyu iplikler (rizomorflar) tabanı toprağa bağlar ve meyve gövdesi olgunlaştıktan sonra çoğunlukla kırılır.",
+        flesh: "Dış duvar dayanıklı ve deri gibidir, birkaç katmandan oluşur. En iç, lifli katman nemi emer ve bırakır; kolları kıvıran ve yeniden açan da budur. Olgun gleba çikolata kahverengidir. Belirgin bir koku ya da tadı yoktur.",
+        sporePrint: "Kahverengiden çikolata kahverengisine. Bazidiyosporlar küresel veya küreye yakın, kırmızımsı kahverengi ve kalın çeperlidir; çapları 7–11 μm'dir, yaklaşık 1 μm uzunluğunda siğiller veya dikenlerle kaplıdır ve amiloid değildir (Melzer ayıracında tepki vermez).",
+        habitat: "Toprakta tek tek, dağınık veya gruplar hâlinde yetişir; genellikle fakir, kumlu veya taşlı, asidik toprakta, aydınlık, sıcak yapraklı ormanlarda, en sık meşelerin altında, ayrıca çamların ve diğer iğne yapraklıların altında, parklarda, açıklıklarda, orman kenarlarında ve patikalar boyunca görülür. Meyve gövdeleri yaz sonundan sonbahara kadar, çoğunlukla ağustostan kasıma kadar ortaya çıkar. Kuru meyve gövdeleri kış boyunca ve çoğunlukla bir sonraki yaza kadar kalır. Akdeniz bölgesinde ilkbaharda da meyve verir.",
+        uses: "Yenmez. Meyve gövdesi sert ve deri gibidir, Avrupa'da mutfak değeri yoktur. Güney ve Güneydoğu Asya'nın bazı bölgelerinde Astraeus cinsi türlerin genç meyve gövdeleri yenir.",
+        confusion: "Geastrum cinsinin gerçek türleri benzer görünür, ancak çoğu nemle açılıp kapanmaz. Spor keseleri tek bir yırtık yarıkla değil, yükselmiş bir ağız (peristom) veya bir disk aracılığıyla açılır, genç glebalarında merkezî bir sütun (kolumella) bulunur ve sporları daha küçüktür; orta derecede higroskopik birkaç türden biri olan Geastrum mammosum'un sporlarının çapı yaklaşık 4 μm'dir. Kuzey Amerika'da ve Kanarya Adaları'nda yetişen Astraeus pteridis daha büyüktür, açıkken 50–150 mm veya daha fazladır ve kollarının iç yüzeyindeki çatlak deseni daha belirgindir. Akdeniz türü Astraeus telleriae'nin spor kesesi ince yünsüdür.",
+        notes: "Kollar nemli havada açılır, kuru havada kapanır ve yağmur damlaları spor kesesine çarptığında sporlar tepedeki delikten salınır. Bu ad uzun süre geniş bir popülasyon grubu için kullanıldı, ancak moleküler çalışmalar Kuzey Amerika ve Asya popülasyonlarının ayrı türlere ait olduğunu gösterdi; örneğin Astraeus pteridis, Astraeus morganii, Astraeus smithii, Astraeus asiaticus ve Astraeus odoratus; Avrupa materyali de birden fazla tür içerebilir. Hollanda'da nadirdir ve 2008 tarihli Hollanda ulusal kırmızı listesinde tehlikede (Endangered) olarak yer alır."
+      },
+      uk: {
+        description: "Гриб, схожий на представників роду Geastrum, росте на ґрунті й утворює ектомікоризу з дубами, соснами та іншими деревами. У Європі трапляється переважно в теплих світлих лісах на півдні, а північніше — рідше, на теплих піщаних місцях. Його промені розкриваються у вологу погоду, а в суху загортаються назад над споровою торбинкою.",
+        cap: "Молоде плодове тіло — округла, сплюснута куля завширшки 20–40 мм, наполовину занурена в ґрунт, із гладким білуватим зовнішнім шаром, який розривається й часто вкритий землею. Під час дозрівання товста шкірувата зовнішня стінка (екзоперидій) зазвичай розкривається на 5–15 загострених променів, а розкрите плодове тіло має ширину 30–80 мм, інколи до 100 мм. Верхній бік розкритих променів темно-коричневий до сіро-чорного й розтріскується на дрібні ділянки. У суху погоду промені загортаються назад над споровою торбинкою, залишаючи тверду кулю завширшки близько 15–25 мм. Спорова торбинка (ендоперидій) розташована в центрі променів; вона округла, завширшки 10–30 мм, тонка й паперова, світло-сіра до буруватої, повстиста або лускувата і на верхівці розкривається неправильною щілиною або порою.",
+        hymenium: "Пластинок і трубочок немає. Спороносна тканина — глеба всередині спорової торбинки. У молодості вона біла й щільна, поділена на дрібні камери, вистелені пучками базидій, а потім, коли спори дозрівають, стає бурою й порошистою. На базидіях по чотири–вісім спор, їхній розмір 11–15 × 18–24 мкм. Між спорами розташовані стерильні нитки (капіліцій), які розгалужені, товстостінні та безбарвні.",
+        stipe: "Ніжки немає. Спорова торбинка сидить просто в центрі розкритих променів. Ламкі темні нитки (ризоморфи) кріплять основу до ґрунту й часто обламуються після дозрівання плодового тіла.",
+        flesh: "Зовнішня стінка жорстка, шкірувата й складається з кількох шарів. Найвнутрішній, волокнистий шар увібирає й віддає вологу, і саме він змушує промені скручуватися та знову розгортатися. Зріла глеба шоколадно-коричнева. Особливого запаху й смаку немає.",
+        sporePrint: "Коричневий до шоколадно-коричневого. Базидіоспори кулясті або майже кулясті, червонувато-коричневі, товстостінні, діаметром 7–11 мкм, вкриті бородавками або шипиками завдовжки близько 1 мкм і неамілоїдні (не реагують у реактиві Мельцера).",
+        habitat: "Росте поодинці, розсіяно або групами на ґрунті, зазвичай на бідному, піщаному або кам'янистому кислому ґрунті, у світлих теплих листяних лісах, найчастіше під дубами, а також під соснами та іншими хвойними, у парках, на галявинах, узліссях і вздовж стежок. Плодові тіла з'являються з кінця літа до осені, переважно з серпня до листопада. Сухі плодові тіла зберігаються всю зиму й часто до наступного літа. У Середземномор'ї плодоносить і навесні.",
+        uses: "Неїстівний. Плодове тіло жорстке й шкірувате, і в Європі не має кулінарної цінності. У деяких частинах Південної та Південно-Східної Азії їдять молоді плодові тіла видів роду Astraeus.",
+        confusion: "Справжні представники роду Geastrum схожі, але більшість із них не розкривається й не закривається залежно від вологості. Їхня спорова торбинка розкривається через підняте вічко (перистом) або диск, а не через одну розірвану щілину, у їхньої молодої глеби є центральний стовпчик (колумела), а спори дрібніші; у Geastrum mammosum, одного з небагатьох помірно гігроскопічних видів, спори діаметром близько 4 мкм. Astraeus pteridis, що росте в Північній Америці та на Канарських островах, більший, у розкритому стані 50–150 мм і більше, а на внутрішній поверхні його променів виразніший малюнок тріщин. У Astraeus telleriae, середземноморського виду, спорова торбинка тонко вовниста.",
+        notes: "Промені розкриваються у вологу погоду й закриваються в суху, а спори вивільняються через отвір на верхівці, коли краплі дощу падають на спорову торбинку. Назву довго застосовували до широкої групи популяцій, але молекулярні дослідження показали, що північноамериканські й азійські популяції належать до окремих видів, наприклад Astraeus pteridis, Astraeus morganii, Astraeus smithii, Astraeus asiaticus і Astraeus odoratus, а європейський матеріал може включати більш ніж один вид. У Нідерландах він рідкісний і внесений до національного червоного списку 2008 року як вид, що перебуває під загрозою зникнення (Endangered)."
+      }
+    },
+    sources: {
+      en: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://en.wikipedia.org/wiki/Astraeus_hygrometricus"
+        },
+        {
+          "group": "text",
+          "name": "de.wikipedia",
+          "href": "https://de.wikipedia.org/wiki/Gemeiner_Wetterstern"
+        },
+        {
+          "group": "text",
+          "name": "fr.wikipedia",
+          "href": "https://fr.wikipedia.org/wiki/Astraeus_hygrometricus"
+        },
+        {
+          "group": "name",
+          "name": "Index Fungorum",
+          "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=122650",
+          "detail": "122650"
+        },
+        {
+          "group": "name",
+          "name": "Species Fungorum",
+          "href": "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=122650",
+          "detail": "122650"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239766",
+          "detail": "5239766"
+        }
+      ],
+      sk: [
+        {
+          "group": "text",
+          "name": "nahuby.sk",
+          "href": "https://www.nahuby.sk/atlas-hub/Astraeus-hygrometricus/hviezdovec-vlahojavny/hvezdak-vlhkomerny/ID152",
+          "detail": "hviezdovec vlahojavný"
+        }
+      ],
+      ar: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239766",
+          "detail": "5239766"
+        }
+      ],
+      bg: [
+        {
+          "group": "text",
+          "name": "Уикипедия",
+          "href": "https://bg.wikipedia.org/wiki/%D0%97%D0%B5%D0%BC%D0%BD%D0%B0_%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239766",
+          "detail": "5239766"
+        }
+      ],
+      zh: [
+        {
+          "group": "name",
+          "name": "物种2000中国节点",
+          "href": "http://sp2000.org.cn/species/show_species_details/808c5e05-944e-4bd1-982e-68b0b027f73f"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239766",
+          "detail": "5239766"
+        }
+      ],
+      hr: [
+        {
+          "group": "name",
+          "name": "Gljive dubrovačkog kraja",
+          "href": "https://gljive.com.hr/gljive/Astraeus_hygrometricus.html"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239766",
+          "detail": "5239766"
+        }
+      ],
+      cs: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://cs.wikipedia.org/wiki/Hv%C4%9Bzd%C3%A1k_vlhkom%C4%9Brn%C3%BD"
+        },
+        {
+          "group": "text",
+          "name": "Česká mykologická společnost",
+          "href": "https://www.myko.cz/myko-atlas/Astraeus-hygrometricus/"
+        }
+      ],
+      da: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239766",
+          "detail": "5239766"
+        }
+      ],
+      nl: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://nl.wikipedia.org/wiki/Weerhuisje_%28paddenstoel%29"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239766",
+          "detail": "5239766"
+        }
+      ],
+      et: [
+        {
+          "group": "text",
+          "name": "Vikipeedia",
+          "href": "https://et.wikipedia.org/wiki/Baromeeterseen"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239766",
+          "detail": "5239766"
+        }
+      ],
+      fi: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239766",
+          "detail": "5239766"
+        }
+      ],
+      fr: [
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://fr.wikipedia.org/wiki/Astraeus_hygrometricus"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239766",
+          "detail": "5239766"
+        }
+      ],
+      de: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://de.wikipedia.org/wiki/Gemeiner_Wetterstern"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239766",
+          "detail": "5239766"
+        }
+      ],
+      he: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239766",
+          "detail": "5239766"
+        }
+      ],
+      hi: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239766",
+          "detail": "5239766"
+        }
+      ],
+      hu: [
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://hu.wikipedia.org/wiki/Reped%C3%A9ses_csillaggomba"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239766",
+          "detail": "5239766"
+        }
+      ],
+      id: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239766",
+          "detail": "5239766"
+        }
+      ],
+      it: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://it.wikipedia.org/wiki/Astraeus_hygrometricus"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239766",
+          "detail": "5239766"
+        }
+      ],
+      ja: [
+        {
+          "group": "text",
+          "name": "ウィキペディア",
+          "href": "https://ja.wikipedia.org/wiki/%E3%83%84%E3%83%81%E3%82%B0%E3%83%AA_%28%E8%8F%8C%E9%A1%9E%29"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239766",
+          "detail": "5239766"
+        }
+      ],
+      ko: [
+        {
+          "group": "name",
+          "name": "Naturing",
+          "href": "https://www.naturing.net/o/1458700"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239766",
+          "detail": "5239766"
+        }
+      ],
+      lv: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239766",
+          "detail": "5239766"
+        }
+      ],
+      lt: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239766",
+          "detail": "5239766"
+        }
+      ],
+      no: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239766",
+          "detail": "5239766"
+        }
+      ],
+      fa: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239766",
+          "detail": "5239766"
+        }
+      ],
+      pl: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://pl.wikipedia.org/wiki/Promieniak_wilgociomierz"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239766",
+          "detail": "5239766"
+        }
+      ],
+      pt: [
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://pt.wikipedia.org/wiki/Astraeus_hygrometricus"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239766",
+          "detail": "5239766"
+        }
+      ],
+      ro: [
+        {
+          "group": "name",
+          "name": "Incredible Romania",
+          "href": "https://incredibleromania.com/astraeus-hygrometricus-ciuperca-barometru/"
+        },
+        {
+          "group": "name",
+          "name": "Ciupercar.ro",
+          "href": "https://ciupercar.ro/astraeus-hygrometricus/"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239766",
+          "detail": "5239766"
+        }
+      ],
+      ru: [
+        {
+          "group": "text",
+          "name": "Википедия",
+          "href": "https://ru.wikipedia.org/wiki/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D1%87%D0%B0%D1%82%D0%BA%D0%B0_%D0%B3%D0%B8%D0%B3%D1%80%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239766",
+          "detail": "5239766"
+        }
+      ],
+      sr: [
+        {
+          "group": "text",
+          "name": "Википедија",
+          "href": "https://sr.wikipedia.org/wiki/%D0%92%D0%BB%D0%B0%D0%B3%D0%BE%D0%BC%D0%B5%D1%80%D0%BD%D0%B0_%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D0%B8%D1%86%D0%B0"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239766",
+          "detail": "5239766"
+        }
+      ],
+      sl: [
+        {
+          "group": "name",
+          "name": "Gobarsko društvo Lisička Maribor",
+          "href": "https://www.gobe.si/Gobe/AstraeusHygrometricus"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239766",
+          "detail": "5239766"
+        }
+      ],
+      es: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://es.wikipedia.org/wiki/Astraeus_hygrometricus"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239766",
+          "detail": "5239766"
+        }
+      ],
+      sv: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://sv.wikipedia.org/wiki/V%C3%A4dersp%C3%A5stj%C3%A4rna"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239766",
+          "detail": "5239766"
+        }
+      ],
+      tr: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239766",
+          "detail": "5239766"
+        }
+      ],
+      uk: [
+        {
+          "group": "text",
+          "name": "Вікіпедія",
+          "href": "https://uk.wikipedia.org/wiki/%D0%90%D1%81%D1%82%D1%80%D0%B5%D1%83%D1%81_%D0%B3%D1%96%D0%B3%D1%80%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%87%D0%BD%D0%B8%D0%B9"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239766",
+          "detail": "5239766"
+        }
+      ]
+    },
+    synonyms: [
+      "Geastrum hygrometricum Pers.",
+      "Lycoperdon stellatus Scop.",
+      "Geastrum stellatum (Scop.) Wettst.",
+      "Astraeus stellatus (Scop.) E.Fisch.",
+      "Geastrum castaneum Desv.",
+      "Geastrum duplicatum Chevall.",
+      "Geastrum vulgare Corda",
+      "Geastrum decaryi Pat."
+    ]
   }
 ];
