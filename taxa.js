@@ -659,5 +659,14 @@ export const TAXA = {
     sk: "kôrnatec",
     cs: "kornatec",
     pl: "pięknoskórnik"
+  },
+  Psathyrellaceae: {
+    rank: "family",
+    de: "Mürblingsverwandte",
+    pl: "kruchaweczkowate"
+  },
+  Coprinellus: {
+    rank: "genus",
+    pl: "czernidłaczek"
   }
 };

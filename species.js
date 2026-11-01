@@ -74853,5 +74853,1000 @@ export const CATALOG = [
       "Phlegmacium berkeleyi (Cooke) Velen.",
       "Phlegmacium pelmatosporum C.Martín"
     ]
+  },
+  {
+    id: 93,
+    name: "Coprinellus disseminatus",
+    author: "(Pers.) J.E.Lange",
+    family: "Psathyrellaceae",
+    genus: "Coprinellus",
+    order: "Agaricales",
+    edibility: "inedible",
+    hymenium: "gills",
+    where: ["wood"],
+    color: ["white", "dark"],
+    path: [
+      "Fungi",
+      "Dikarya",
+      "Basidiomycota",
+      "Agaricomycotina",
+      "Agaricomycetes",
+      "Agaricomycetidae",
+      "Agaricales",
+      "Psathyrellaceae",
+      "Coprinellus"
+    ],
+    summary: ["Agaricales", "Psathyrellaceae", "Coprinellus"],
+    added: "2026-11-01",
+    plate: STORAGE + "photos/Agaricales/Psathyrellaceae/Coprinellus_disseminatus/Coprinellus_disseminatus@1600.webp",
+    plateGrid: STORAGE + "photos/Agaricales/Psathyrellaceae/Coprinellus_disseminatus/Coprinellus_disseminatus@400.webp",
+    plateCredit: {
+      author: "James Sowerby",
+      license: "public domain",
+      source: "https://commons.wikimedia.org/wiki/File:Coloured_Figures_of_English_Fungi_or_Mushrooms_-_t._166.jpg"
+    },
+    photos: [
+      {
+        src: STORAGE + "photos/Agaricales/Psathyrellaceae/Coprinellus_disseminatus/cd1.webp",
+        author: "LukeEmski",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Coprinellus_disseminatus_112.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Psathyrellaceae/Coprinellus_disseminatus/cd2.webp",
+        author: "ginko14",
+        license: "CC BY 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Coprinellus_disseminatus_336446077.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Psathyrellaceae/Coprinellus_disseminatus/cd3.webp",
+        author: "Alan Rockefeller",
+        license: "CC BY 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Coprinellus_disseminatus_343927619.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Psathyrellaceae/Coprinellus_disseminatus/cd4.webp",
+        author: "Janusz Krzyżek",
+        license: "CC BY 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Coprinellus_Disseminatus_-_Czernid%C5%82ak_gromadny.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Psathyrellaceae/Coprinellus_disseminatus/cd5.webp",
+        author: "Alan Rockefeller",
+        license: "CC BY 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Coprinellus_disseminatus_343927621.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Psathyrellaceae/Coprinellus_disseminatus/cd6.webp",
+        author: "Janusz Krzyżek",
+        license: "CC BY 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Coprinellus_Disseminatus_-_Czernid%C5%82ak_gromadny_01.jpg"
+      }
+    ],
+    fruitingFrom: 5,
+    fruitingTo: 11,
+    label: {
+      en: "fairy inkcap",
+      sk: "hnojník rozsiaty",
+      zh: "簇生鬼傘",
+      cs: "hnojník nasetý",
+      da: "bredsået blækhat",
+      nl: "Zwerminktzwam",
+      et: "seltsiv tindik",
+      fi: "parvimustesieni",
+      fr: "coprin disséminé",
+      de: "Gesäter Tintling",
+      hu: "sereges tintagomba",
+      ja: "イヌセンボンタケ",
+      lv: "dižbara tintene",
+      lt: "išsėtinis mėšlagrybis",
+      no: "stubbeblekksopp",
+      pl: "czernidłaczek gromadny",
+      ru: "навозник рассеянный",
+      sl: "razsejani tintovec",
+      sv: "stubbläcksvamp",
+      tr: "minikmürekkep mantarı",
+      uk: "гнойовик розсіяний"
+    },
+    names: {
+      en: ["trooping crumble cap"],
+      sk: ["hnojník nasetý"],
+      zh: ["白小鬼傘"],
+      fr: ["coprin grégaire"],
+      pl: ["czernidłak gromadny"]
+    },
+    text: {
+      en: {
+        description: "A tiny, fragile mushroom with a pleated, egg- to bell-shaped cap that is cream to pale ochre when young and turns grey with age, on a slender, glassy white stem. It grows in dense troops of dozens to thousands on and around stumps and rotting wood of broadleaved trees, and its gills turn black without dissolving into ink.",
+        cap: "The cap is only 5–20 mm across and 10–25 mm tall. It is egg-shaped when young, then bell-shaped to convex, and finally expands, with the margin flaring and sometimes curling upwards. The surface is deeply pleated from the margin almost to the centre. Young caps are cream-white to pale ochre with a darker ochre-brown centre and a finely flocculose surface, while older ones turn grey and become bald. The cap does not deliquesce; it blackens and dries.",
+        hymenium: "The gills are narrowly attached to the stem or almost free, thin, and close to crowded. They are white when young, then grey and finally black, and they do not dissolve into a black liquid. The basidia are four-spored.",
+        stipe: "The stem is 20–50 mm long and only 1–2 mm thick, cylindrical, hollow, white and glassy, and very fragile. It is often curved, and finely powdery to fibrillose when young.",
+        flesh: "The flesh is very thin, whitish and fragile. The smell and taste are mild.",
+        sporePrint: "Black to blackish brown. The spores are elliptical and smooth, with a central germ pore, about 6.5–10 × 4–6 μm.",
+        habitat: "A saprotrophic fungus that grows in dense troops, often of hundreds or even thousands of fruit bodies, on stumps, buried roots and rotting wood of broadleaved trees such as beech and willow, and on the ground around them. It appears from May to November, usually after rain, in woods, parks and gardens. It is common and found worldwide in temperate regions.",
+        uses: "Considered inedible: the fruit bodies are tiny, thin-fleshed and fragile, so there is nothing to eat, although the species is not known to be poisonous.",
+        confusion: "Psathyrella pygmaea has a rust-brown spore print, smaller spores, bitter flesh, a more brownish and less strongly pleated cap, and more crowded gills. Coprinellus micaceus rarely forms such massed troops, has larger tan caps with glistening granules when young, and its gills deliquesce into ink.",
+        notes: "Common and not considered threatened; it is assessed as Least Concern (LC) on the Norwegian red list of 2021 and on the Danish red list. Unlike most species of its genus, its gills do not deliquesce into ink; the cap simply blackens and dries."
+      },
+      sk: {
+        description: "Drobná, krehká huba s ryhovaným, vajcovitým až zvončekovitým klobúkom, ktorý je v mladosti krémový až bledookrový a s vekom sivie, na štíhlom, sklovito bielom hlúbiku. Rastie v hustých skupinách od desiatok po tisíce plodníc na pňoch a zhnitom dreve listnatých stromov a okolo nich a jej lupene černejú bez rozpúšťania na atrament.",
+        cap: "Klobúk je široký len 5–20 mm a vysoký 10–25 mm. V mladosti je vajcovitý, potom zvončekovitý až klenutý a nakoniec sa rozširuje, pričom sa okraj odstáva a niekedy zakrúca nahor. Povrch je hlboko ryhovaný od okraja takmer po stred. Mladé klobúky sú krémovobiele až bledookrové s tmavším okrovohnedým stredom a jemne vločkatým povrchom, staršie sivejú a sú holé. Klobúk sa nerozplýva, ale černie a zasychá.",
+        hymenium: "Lupene sú úzko prirastené k hlúbiku alebo takmer voľné, tenké a husté až veľmi husté. V mladosti sú biele, potom sivé a nakoniec čierne a nerozpúšťajú sa na čiernu tekutinu. Bazídiá sú štvorvýtrusné.",
+        stipe: "Hlúbik je dlhý 20–50 mm a hrubý len 1–2 mm, valcovitý, dutý, biely a sklovitý, veľmi krehký. Býva zakrivený a v mladosti jemne múčnatý až vláknitý.",
+        flesh: "Dužina je veľmi tenká, belavá a krehká. Vôňa a chuť sú mierne.",
+        sporePrint: "Čierny až čiernohnedý. Výtrusy sú elipsovité a hladké, so stredovou klíčnou pórou, asi 6,5–10 × 4–6 μm.",
+        habitat: "Saprotrofná huba, ktorá rastie v hustých skupinách, často po stovkách či dokonca tisícoch plodníc, na pňoch, zakopaných koreňoch a zhnitom dreve listnatých stromov, ako je buk a vŕba, a na zemi okolo nich. Objavuje sa od mája do novembra, zvyčajne po daždi, v lesoch, parkoch a záhradách. Je bežná a vyskytuje sa po celom svete v miernom pásme.",
+        uses: "Považuje sa za nejedlú: plodnice sú drobné, tenkomäsité a krehké, takže niet čo jesť, hoci druh nie je známy ako jedovatý.",
+        confusion: "Psathyrella pygmaea má hrdzavohnedý výtrusný prach, menšie výtrusy, horkú dužinu, hnedastejší a menej výrazne ryhovaný klobúk a hustejšie lupene. Coprinellus micaceus tvorí také masové skupiny len zriedka, má väčšie okrovohnedé klobúky s lesklými zrnkami v mladosti a jeho lupene sa rozplývajú na atrament.",
+        notes: "Bežná a nepovažuje sa za ohrozenú; v nórskom červenom zozname z roku 2021 a v dánskom červenom zozname je hodnotená ako najmenej ohrozený druh (Least Concern, LC). Na rozdiel od väčšiny druhov rodu sa jej lupene nerozplývajú na atrament; klobúk jednoducho zčernie a zaschne."
+      },
+      ar: {
+        description: "فطر صغير جدًا وهش، قبعته مثلمة بيضاوية إلى جرسية الشكل، لونها كريمي إلى مغرة باهتة في الصغر ثم تصبح رمادية مع التقدم في العمر، وتقوم على ساق نحيلة بيضاء زجاجية. ينمو في جماعات كثيفة من عشرات إلى آلاف الثمار على جذوع الأشجار عريضة الأوراق والخشب المتحلل وحولها، وتسودّ صفائحه من دون أن تذوب إلى حبر.",
+        cap: "لا يتجاوز قطر القبعة ٥–٢٠ مم وارتفاعها ١٠–٢٥ مم. تكون بيضاوية في الصغر، ثم جرسية إلى محدبة، وتنبسط أخيرًا مع انفراج الحافة وانعطافها أحيانًا إلى الأعلى. السطح مثلّم بعمق من الحافة حتى ما يقارب الوسط. القبعات الفتية بيضاء كريمية إلى مغرة باهتة، وفي وسطها لون أغمق بني مغري، وسطحها ندفي ناعم، أما الأكبر سنًا فتصبح رمادية وملساء. لا تذوب القبعة إلى حبر، بل تسودّ وتجفّ.",
+        hymenium: "الصفائح ملتصقة بالساق التصاقًا ضيقًا أو شبه حرة، رقيقة، متقاربة إلى شديدة التقارب. تكون بيضاء في الصغر، ثم رمادية وأخيرًا سوداء، ولا تذوب في سائل أسود. الأبواغ القاعدية رباعية الأبواغ.",
+        stipe: "طول الساق ٢٠–٥٠ مم وسمكها ١–٢ مم فقط، أسطوانية، مجوفة، بيضاء زجاجية، شديدة الهشاشة. وكثيرًا ما تكون منحنية، وسطحها في الصغر مغبر ناعم إلى ليفي.",
+        flesh: "اللحم رقيق جدًا ومائل إلى البياض وهش. الرائحة والطعم معتدلان.",
+        sporePrint: "أسود إلى بني مسوّد. الأبواغ إهليلجية وملساء، لها ثقب إنبات مركزي، وقياسها نحو ٦٫٥–١٠ × ٤–٦ ميكرومتر.",
+        habitat: "فطر رمّي ينمو في جماعات كثيفة، كثيرًا ما تضم مئات أو حتى آلاف الثمار، على جذوع الأشجار عريضة الأوراق مثل الزان والصفصاف وعلى جذورها المدفونة وخشبها المتحلل، وعلى الأرض حولها. يظهر من مايو إلى نوفمبر، عادةً بعد المطر، في الغابات والمتنزهات والحدائق. وهو شائع ويوجد في أنحاء العالم في المناطق المعتدلة.",
+        uses: "يُعدّ غير صالح للأكل: فالثمار صغيرة جدًا ورقيقة اللحم وهشة، فلا يوجد ما يؤكل منها، مع أن النوع غير معروف بأنه سام.",
+        confusion: "يتميز Psathyrella pygmaea بطبعة أبواغ بنية صدئة وأبواغ أصغر ولحم مرّ وقبعة أميل إلى البني وأقل ثلمًا وصفائح أكثر تقاربًا. أما Coprinellus micaceus فنادرًا ما يكوّن جماعات بهذه الكثافة، وله قبعات أكبر بنية مصفرّة عليها حبيبات لامعة في الصغر، وتذوب صفائحه إلى حبر.",
+        notes: "شائع ولا يُعدّ مهددًا؛ فقد صُنّف على أنه أقل إثارة للقلق (Least Concern, LC) في القائمة الحمراء النرويجية لعام ٢٠٢١ وفي القائمة الحمراء الدنماركية. وعلى خلاف أغلب أنواع جنسه، لا تذوب صفائحه إلى حبر؛ فالقبعة تسودّ وتجفّ فحسب."
+      },
+      bg: {
+        description: "Дребна, крехка гъба с набраздена, яйцевидна до камбановидна шапка, която в млада възраст е кремава до бледоохрена, а с възрастта сивее, върху тънко, стъклено бяло пънче. Расте на гъсти групи от десетки до хиляди плодни тела по пъновете и гниещата дървесина на широколистни дървета и около тях, а ламелите ѝ почерняват, без да се разливат в мастилена течност.",
+        cap: "Шапката е само 5–20 mm в диаметър и 10–25 mm висока. В млада възраст е яйцевидна, после камбановидна до изпъкнала и накрая се разтваря, като ръбът се отгъва и понякога се извива нагоре. Повърхността е дълбоко набраздена от ръба почти до центъра. Младите шапки са кремаво бели до бледоохрени, с по-тъмен охренокафяв център и ситно люспеста повърхност, а по-старите сивеят и стават голи. Шапката не се разлива, а почернява и изсъхва.",
+        hymenium: "Ламелите са тясно прикрепени към пънчето или почти свободни, тънки, гъсти до много гъсти. В млада възраст са бели, после сиви и накрая черни и не се разтварят в черна течност. Базидиите са четириспорови.",
+        stipe: "Пънчето е дълго 20–50 mm и дебело само 1–2 mm, цилиндрично, кухо, бяло и стъклено, много крехко. Често е извито, а в млада възраст е ситно брашнесто до влакнесто.",
+        flesh: "Месото е много тънко, бялкаво и крехко. Мирисът и вкусът са меки.",
+        sporePrint: "Черен до черновато кафяв. Спорите са елипсовидни и гладки, с централна покълнателна пора, около 6,5–10 × 4–6 μm.",
+        habitat: "Сапротрофна гъба, която расте на гъсти групи, често със стотици или дори хиляди плодни тела, по пънове, заровени корени и гниеща дървесина на широколистни дървета като бук и върба, както и по земята около тях. Появява се от май до ноември, обикновено след дъжд, в гори, паркове и градини. Обикновена е и се среща по цял свят в умерените области.",
+        uses: "Смята се за негодна за ядене: плодните тела са дребни, тънкомесести и крехки, така че няма какво да се яде, макар че видът не е известен като отровен.",
+        confusion: "Psathyrella pygmaea има ръждивокафяв споров прашец, по-дребни спори, горчиво месо, по-кафеникава и по-слабо набраздена шапка и по-гъсти ламели. Coprinellus micaceus рядко образува толкова масови групи, има по-големи жълтеникавокафяви шапки с блестящи зрънца в млада възраст, а ламелите му се разливат в мастилена течност.",
+        notes: "Обикновена и не се счита за застрашена; в Червения списък на Норвегия от 2021 г. и в Червения списък на Дания е оценена като вид с най-малка загриженост (Least Concern, LC). За разлика от повечето видове от рода ѝ, ламелите ѝ не се разливат в мастилена течност; шапката просто почернява и изсъхва."
+      },
+      zh: {
+        description: "一種微小而脆弱的蘑菇，菌蓋有褶皺，呈卵形至鐘形，幼時乳白色至淡赭色，隨年齡漸變灰色，生於纖細、如玻璃般潔白的菌柄上。它在闊葉樹的樹樁、腐木上及其周圍成密集的群體生長，從數十到數千個子實體不等，菌褶變黑，卻不會溶成墨汁。",
+        cap: "菌蓋寬僅5–20毫米，高10–25毫米。幼時呈卵形，之後成鐘形至凸鏡形，最後展開，邊緣外翻，有時向上捲曲。表面從邊緣到幾乎中央都有深深的褶皺。幼嫩的菌蓋呈乳白色至淡赭色，中央顏色較深，為赭褐色，表面有細小絮狀鱗片；較老的菌蓋變灰色並變光滑。菌蓋不會自溶成墨汁，而是變黑並乾枯。",
+        hymenium: "菌褶窄生於菌柄上或近離生，薄，密至極密。幼時白色，之後灰色，最後黑色，不會溶成黑色液體。擔子具4個孢子。",
+        stipe: "菌柄長20–50毫米，粗僅1–2毫米，圓柱形，中空，白色，玻璃質，非常脆弱。常彎曲，幼時表面有細粉狀至纖維狀。",
+        flesh: "菌肉很薄，白色而脆弱。氣味和味道溫和。",
+        sporePrint: "黑色至黑褐色。孢子橢圓形，光滑，中央有芽孔，大小約為6.5–10 × 4–6μm。",
+        habitat: "腐生真菌，成密集的群體生長，往往有數百甚至數千個子實體，生於山毛櫸、柳樹等闊葉樹的樹樁、埋在地下的根和腐木上，以及它們周圍的地面。五月至十一月出現，通常在雨後，見於森林、公園和花園。常見，分布於世界各地的溫帶地區。",
+        uses: "被認為不可食用：子實體微小、肉薄而脆弱，沒有可食的部分，不過這個物種並不被認為有毒。",
+        confusion: "Psathyrella pygmaea 的孢子印為鏽褐色，孢子較小，菌肉味苦，菌蓋較偏褐色且褶皺較淺，菌褶更密。Coprinellus micaceus 很少形成如此大量的群體，菌蓋較大，呈黃褐色，幼時有閃亮的顆粒，菌褶會自溶成墨汁。",
+        notes: "常見，不被視為受威脅物種；在2021年挪威紅色名錄和丹麥紅色名錄中被評為無危（Least Concern, LC）。與該屬大多數物種不同，其菌褶不會自溶成墨汁；菌蓋只是變黑並乾枯。"
+      },
+      hr: {
+        description: "Sitna, krhka gljiva s izbrazdanim, jajolikim do zvonolikim klobukom koji je u mladosti krem do blijedookerast, a s godinama sivi, na vitkom, staklasto bijelom stručku. Raste u gustim skupinama od desetaka do tisuća plodišta na panjevima i trulom drvu listopadnog drveća i oko njih, a listići joj crne, a da se ne rastaču u tintu.",
+        cap: "Klobuk je širok samo 5–20 mm i visok 10–25 mm. U mladosti je jajolik, zatim zvonolik do ispupčen i naposljetku se širi, a rub se odvaja i katkad podvija prema gore. Površina je duboko izbrazdana od ruba gotovo do sredine. Mladi klobuci su kremastobijeli do blijedookerasti s tamnijim okerastosmeđim središtem i sitno pahuljastom površinom, a stariji sive i postaju goli. Klobuk se ne rastače, nego crni i suši se.",
+        hymenium: "Listići su usko prirasli uz stručak ili gotovo slobodni, tanki, gusti do vrlo gusti. U mladosti su bijeli, zatim sivi i naposljetku crni te se ne rastaču u crnu tekućinu. Bazidiji su četverosporni.",
+        stipe: "Stručak je dug 20–50 mm i debeo samo 1–2 mm, cilindričan, šupalj, bijel i staklast, vrlo krhak. Često je svinut, a u mladosti je sitno brašnast do vlaknast.",
+        flesh: "Meso je vrlo tanko, bjelkasto i krhko. Miris i okus su blagi.",
+        sporePrint: "Crn do crnosmeđ. Spore su elipsoidne i glatke, sa središnjom klicnom porom, oko 6,5–10 × 4–6 μm.",
+        habitat: "Saprotrofna gljiva koja raste u gustim skupinama, često sa stotinama ili čak tisućama plodišta, na panjevima, zakopanom korijenju i trulom drvu listopadnog drveća poput bukve i vrbe te na tlu oko njih. Pojavljuje se od svibnja do studenoga, obično nakon kiše, u šumama, parkovima i vrtovima. Česta je i nalazi se diljem svijeta u umjerenim područjima.",
+        uses: "Smatra se nejestivom: plodišta su sitna, tankoga mesa i krhka, pa nema što jesti, iako vrsta nije poznata kao otrovna.",
+        confusion: "Psathyrella pygmaea ima hrđastosmeđi otisak spora, sitnije spore, gorko meso, smeđkastiji i slabije izbrazdan klobuk te gušće listiće. Coprinellus micaceus rijetko tvori tako masovne skupine, ima veće žućkastosmeđe klobuke sa sjajnim zrncima u mladosti, a njegovi se listići rastaču u tintu.",
+        notes: "Česta je i ne smatra se ugroženom; u norveškom crvenom popisu iz 2021. i u danskom crvenom popisu procijenjena je kao najmanje zabrinjavajuća vrsta (Least Concern, LC). Za razliku od većine vrsta svojega roda, listići joj se ne rastaču u tintu; klobuk jednostavno pocrni i osuši se."
+      },
+      cs: {
+        description: "Drobná, křehká houba s rýhovaným, vejčitým až zvonkovitým kloboukem, který je v mládí krémový až světle okrový a s věkem šedne, na štíhlém, sklovitě bílém třeni. Roste v hustých skupinách po desítkách až tisících plodnic na pařezech a trouchnivém dřevě listnatých stromů i kolem nich a její lupeny černají, aniž by se rozplývaly v inkoust.",
+        cap: "Klobouk je široký jen 5–20 mm a vysoký 10–25 mm. V mládí je vejčitý, potom zvonkovitý až klenutý a nakonec se rozevírá, přičemž se okraj odklání a někdy stáčí vzhůru. Povrch je hluboce rýhovaný od okraje téměř ke středu. Mladé klobouky jsou krémově bílé až světle okrové s tmavším okrovohnědým středem a jemně vločkatým povrchem, starší šednou a jsou olysalé. Klobouk se nerozplývá, ale černá a zasychá.",
+        hymenium: "Lupeny jsou úzce přirostlé k třeni nebo téměř volné, tenké a husté až velmi husté. V mládí jsou bílé, potom šedé a nakonec černé a nerozplývají se v černou tekutinu. Basidie jsou čtyřspórové.",
+        stipe: "Třeň je dlouhý 20–50 mm a tlustý jen 1–2 mm, válcovitý, dutý, bílý a sklovitý, velmi křehký. Bývá zakřivený a v mládí jemně moučnatý až vláknitý.",
+        flesh: "Dužnina je velmi tenká, bělavá a křehká. Vůně a chuť jsou mírné.",
+        sporePrint: "Černý až černohnědý. Výtrusy jsou elipsoidní a hladké, se středním klíčním pórem, asi 6,5–10 × 4–6 μm.",
+        habitat: "Saprotrofní houba, která roste v hustých skupinách, často po stovkách či dokonce tisících plodnic, na pařezech, zakopaných kořenech a trouchnivém dřevě listnatých stromů, například buku a vrby, i na zemi kolem nich. Objevuje se od května do listopadu, obvykle po dešti, v lesích, parcích a zahradách. Je běžná a vyskytuje se po celém světě v mírném pásu.",
+        uses: "Považuje se za nejedlou: plodnice jsou drobné, tenkomasé a křehké, takže není co jíst, ačkoli druh není znám jako jedovatý.",
+        confusion: "Psathyrella pygmaea má rezavohnědý výtrusný prach, menší výtrusy, hořkou dužninu, hnědavější a méně výrazně rýhovaný klobouk a hustší lupeny. Coprinellus micaceus tvoří tak masové skupiny jen zřídka, má větší okrově hnědé klobouky s lesklými zrníčky v mládí a jeho lupeny se rozplývají v inkoust.",
+        notes: "Běžná a nepovažuje se za ohroženou; v norském červeném seznamu z roku 2021 a v dánském červeném seznamu je hodnocena jako málo dotčený druh (Least Concern, LC). Na rozdíl od většiny druhů rodu se její lupeny nerozplývají v inkoust; klobouk jednoduše zčerná a zaschne."
+      },
+      da: {
+        description: "En lille, skrøbelig svamp med en furet, ægformet til klokkeformet hat, der er flødefarvet til bleg okker som ung og bliver grå med alderen, på en slank, glasagtigt hvid stok. Den vokser i tætte flokke på alt fra dusinvis til tusindvis af frugtlegemer på og omkring stubbe og rådnende ved af løvtræer, og dens lameller bliver sorte uden at opløses til blæk.",
+        cap: "Hatten er kun 5–20 mm bred og 10–25 mm høj. Som ung er den ægformet, derefter klokkeformet til hvælvet, og til sidst breder den sig, så randen bøjer udad og nogle gange krøller opad. Overfladen er dybt furet fra randen næsten ind til midten. Unge hatte er flødehvide til bleg okker med et mørkere okkerbrunt center og en fint fnugget overflade, mens ældre bliver grå og skaldede. Hatten opløses ikke til blæk; den bliver sort og tørrer ind.",
+        hymenium: "Lamellerne er smalt tilvokset stokken eller næsten frie, tynde og tætte til meget tætte. Som unge er de hvide, derefter grå og til sidst sorte, og de opløses ikke til en sort væske. Basidierne er firesporede.",
+        stipe: "Stokken er 20–50 mm lang og kun 1–2 mm tyk, cylindrisk, hul, hvid og glasagtig, meget skrøbelig. Den er ofte krum og som ung fint melet til trævlet.",
+        flesh: "Kødet er meget tyndt, hvidligt og skrøbeligt. Lugt og smag er milde.",
+        sporePrint: "Sort til sortbrun. Sporerne er elliptiske og glatte med en central kimpore, cirka 6,5–10 × 4–6 μm.",
+        habitat: "En saprotrof svamp, der vokser i tætte flokke, ofte med hundredvis eller endda tusindvis af frugtlegemer, på stubbe, nedgravede rødder og rådnende ved af løvtræer som bøg og pil samt på jorden omkring dem. Den dukker op fra maj til november, som regel efter regn, i skove, parker og haver. Den er almindelig og findes verden over i tempererede egne.",
+        uses: "Anses for uspiselig: frugtlegemerne er bittesmå, tyndkødede og skrøbelige, så der er intet at spise, selv om arten ikke er kendt som giftig.",
+        confusion: "Psathyrella pygmaea har et rustbrunt sporeaftryk, mindre sporer, bittert kød, en mere brunlig og mindre kraftigt furet hat og tættere lameller. Coprinellus micaceus danner sjældent så massive flokke, har større gulbrune hatte med glimtende korn som ung, og dens lameller opløses til blæk.",
+        notes: "Almindelig og ikke anset for truet; den er vurderet som ikke truet (Least Concern, LC) på den norske rødliste fra 2021 og på den danske rødliste. I modsætning til de fleste arter i slægten opløses lamellerne ikke til blæk; hatten bliver blot sort og tørrer ind."
+      },
+      nl: {
+        description: "Een piepkleine, breekbare paddenstoel met een geplooide, eivormige tot klokvormige hoed die jong crèmekleurig tot lichtokerkleurig is en met de leeftijd grijs wordt, op een slanke, glazig witte steel. Hij groeit in dichte groepen van tientallen tot duizenden vruchtlichamen op en rond stronken en rottend hout van loofbomen, en zijn plaatjes worden zwart zonder te versmelten tot inkt.",
+        cap: "De hoed is slechts 5–20 mm breed en 10–25 mm hoog. Jong is hij eivormig, daarna klokvormig tot convex en ten slotte breidt hij zich uit, waarbij de rand uitstaat en soms omhoog krult. Het oppervlak is van de rand tot bijna het midden diep geplooid. Jonge hoeden zijn crèmewit tot lichtokerkleurig met een donkerder okerbruin midden en een fijn vlokkig oppervlak, oudere worden grijs en kaal. De hoed versmelt niet tot inkt; hij wordt zwart en droogt op.",
+        hymenium: "De plaatjes zijn smal aan de steel vastgegroeid of bijna vrij, dun en dicht tot zeer dicht opeen. Jong zijn ze wit, daarna grijs en ten slotte zwart, en ze lossen niet op tot een zwarte vloeistof. De basidiën zijn viersporig.",
+        stipe: "De steel is 20–50 mm lang en slechts 1–2 mm dik, cilindrisch, hol, wit en glazig, zeer breekbaar. Hij is vaak gebogen en jong fijn bepoederd tot vezelig.",
+        flesh: "Het vlees is zeer dun, witachtig en breekbaar. Geur en smaak zijn mild.",
+        sporePrint: "Zwart tot zwartbruin. De sporen zijn elliptisch en glad, met een centrale kiemporie, ongeveer 6,5–10 × 4–6 μm.",
+        habitat: "Een saprotrofe schimmel die in dichte groepen groeit, vaak met honderden of zelfs duizenden vruchtlichamen, op stronken, begraven wortels en rottend hout van loofbomen zoals beuk en wilg, en op de grond eromheen. Hij verschijnt van mei tot november, meestal na regen, in bossen, parken en tuinen. Hij is algemeen en komt wereldwijd voor in gematigde streken.",
+        uses: "Wordt als oneetbaar beschouwd: de vruchtlichamen zijn piepklein, dunvlezig en breekbaar, zodat er niets te eten valt, hoewel de soort niet als giftig bekend is.",
+        confusion: "Psathyrella pygmaea heeft een roestbruin sporenpoeder, kleinere sporen, bitter vlees, een bruinere en minder sterk geplooide hoed en dichter opeen staande plaatjes. Coprinellus micaceus vormt zelden zulke massale groepen, heeft grotere leemkleurige hoeden met glinsterende korreltjes in de jeugd, en zijn plaatjes versmelten tot inkt.",
+        notes: "Algemeen en niet als bedreigd beschouwd; hij is beoordeeld als niet bedreigd (Least Concern, LC) op de Noorse rode lijst van 2021 en op de Deense rode lijst. In tegenstelling tot de meeste soorten van zijn geslacht versmelten de plaatjes niet tot inkt; de hoed wordt gewoon zwart en droogt op."
+      },
+      et: {
+        description: "Väike, habras seen, kel on vaoline, munajas kuni kellukjas kübar, mis on noorena kreemjas kuni kahvatu ookerjas ja muutub vanemas eas halliks, õhukesel, klaasjalt valgel jalal. Ta kasvab tihedates salkades kümnetest tuhandeteni viljakehadest lehtpuude kändudel ja kõduneval puidul ning nende ümber ning tema eoslehed muutuvad mustaks, lahustumata tindiks.",
+        cap: "Kübar on vaid 5–20 mm lai ja 10–25 mm kõrge. Noorena on see munajas, siis kellukjas kuni kumer ning lõpuks avaneb, nii et serv kaldub väljapoole ja keerdub vahel ülespoole. Pind on servast peaaegu keskkohani sügavalt vaoline. Noored kübarad on kreemjasvalged kuni kahvatu ookerjad, tumedama ookerpruuni keskkoha ja peenelt helbelise pinnaga, vanemad muutuvad halliks ja paljaks. Kübar ei lahustu tindiks, vaid mustaks ja kuivab.",
+        hymenium: "Eoslehed on kitsalt jalaga kasvanud või peaaegu vabad, õhukesed ning tihedad kuni väga tihedad. Noorena on need valged, siis hallid ja lõpuks mustad ning nad ei lahustu mustaks vedelikuks. Basiidid on neljaeoselised.",
+        stipe: "Jalg on 20–50 mm pikk ja vaid 1–2 mm paks, silindriline, õõnes, valge ja klaasjas, väga habras. See on sageli kõver ning noorena peenelt jahune kuni kiuline.",
+        flesh: "Seeneliha on väga õhuke, valkjas ja habras. Lõhn ja maitse on pehmed.",
+        sporePrint: "Must kuni mustjaspruun. Eosed on ellipsoidsed ja siledad, keskse idupoorusega, umbes 6,5–10 × 4–6 μm.",
+        habitat: "Saprotroofne seen, mis kasvab tihedates salkades, sageli sadade või isegi tuhandete viljakehadega, lehtpuude, näiteks pöögi ja pajude kändudel, maetud juurtel ja kõduneval puidul ning nende ümber maapinnal. Ta ilmub maist novembrini, tavaliselt pärast vihma, metsades, parkides ja aedades. Ta on tavaline ja kasvab kogu maailmas parasvöötmes.",
+        uses: "Peetakse mittesöödavaks: viljakehad on pisikesed, õhukese lihaga ja rabedad, seega pole midagi süüa, kuigi liiki ei peeta mürgiseks.",
+        confusion: "Psathyrella pygmaea eosetolm on roostepruun, eosed on väiksemad, seeneliha kibe, kübar pruunikam ja vähem vaoline ning eoslehed tihedamad. Coprinellus micaceus moodustab harva nii massilisi salku, tal on suuremad kollakaspruunid kübarad, mis on noorena kaetud läikivate terakestega, ning tema eoslehed lahustuvad tindiks.",
+        notes: "Tavaline ja teda ei peeta ohustatuks; Norra 2021. aasta punases nimekirjas ja Taani punases nimekirjas on ta hinnatud ohustamata liigiks (Least Concern, LC). Erinevalt enamikust oma perekonna liikidest ei lahustu tema eoslehed tindiks; kübar muutub lihtsalt mustaks ja kuivab."
+      },
+      fi: {
+        description: "Pieni, hauras sieni, jolla on uurteinen, munamainen tai kellomainen lakki, joka on nuorena kermanvalkoinen tai vaaleanruskea ja harmaantuu iän myötä, ohuella, lasimaisen valkoisella jalalla. Se kasvaa tiheinä ryhminä kymmenistä tuhansiin itiöemiin lehtipuiden kannoilla ja lahoavassa puussa sekä niiden ympärillä, ja sen heltat mustuvat sulamatta musteeksi.",
+        cap: "Lakki on vain 5–20 mm leveä ja 10–25 mm korkea. Nuorena se on munamainen, sitten kellomainen tai kupera ja lopulta avautuu niin, että reuna kääntyy ulospäin ja joskus kiertyy ylöspäin. Pinta on syvästi uurteinen reunasta lähes keskustaan asti. Nuoret lakit ovat kermanvalkoisia tai vaaleanruskeita, keskusta on tummempi okranruskea ja pinta hienosti hiutaleinen, vanhemmat lakit harmaantuvat ja kaljuuntuvat. Lakki ei sula musteeksi, vaan mustuu ja kuivuu.",
+        hymenium: "Heltat ovat kapeasti kiinnittyneet jalkaan tai lähes vapaat, ohuet ja tiheät tai hyvin tiheät. Nuorina ne ovat valkoiset, sitten harmaat ja lopulta mustat, eivätkä ne liukene mustaksi nesteeksi. Tyvisolut ovat neli-itiöisiä.",
+        stipe: "Jalka on 20–50 mm pitkä ja vain 1–2 mm paksu, lieriömäinen, ontto, valkoinen ja lasimainen, hyvin hauras. Se on usein kaareva ja nuorena hienosti jauhomainen tai säikeinen.",
+        flesh: "Malto on hyvin ohutta, valkeahkoa ja haurasta. Haju ja maku ovat miedot.",
+        sporePrint: "Musta tai mustanruskea. Itiöt ovat soikeita ja sileitä, niissä on keskellä itämishuokonen, ja niiden koko on noin 6,5–10 × 4–6 μm.",
+        habitat: "Lahottajasieni, joka kasvaa tiheinä ryhminä, usein satoina tai jopa tuhansina itiöemina, lehtipuiden, kuten pyökin ja pajun, kannoilla, maahan hautautuneilla juurilla ja lahoavassa puussa sekä maassa niiden ympärillä. Se ilmestyy toukokuusta marraskuuhun, yleensä sateen jälkeen, metsissä, puistoissa ja puutarhoissa. Se on yleinen ja esiintyy kaikkialla maailmassa lauhkeilla alueilla.",
+        uses: "Pidetään syömäkelvottomana: itiöemät ovat pikkuruisia, ohutlihaisia ja hauraita, joten syötävää ei ole, vaikka lajia ei tunneta myrkylliseksi.",
+        confusion: "Psathyrella pygmaea -lajilla on ruosteenruskea itiöpöly, pienemmät itiöt, karvas malto, ruskehtavampi ja vähemmän uurteinen lakki sekä tiheämmät heltat. Coprinellus micaceus muodostaa harvoin yhtä runsaita ryhmiä, sillä on suuremmat kellanruskeat lakit, joissa on nuorena kimaltelevia hiukkasia, ja sen heltat sulavat musteeksi.",
+        notes: "Yleinen eikä sitä pidetä uhanalaisena; se on arvioitu elinvoimaiseksi (Least Concern, LC) Norjan vuoden 2021 punaisessa listassa ja Tanskan punaisessa listassa. Toisin kuin useimmilla suvun lajeilla, sen heltat eivät sula musteeksi; lakki vain mustuu ja kuivuu."
+      },
+      fr: {
+        description: "Un champignon minuscule et fragile, au chapeau strié, ovoïde puis campanulé, crème à ocre pâle chez le jeune et devenant gris avec l'âge, porté par un pied grêle, blanc et vitreux. Il pousse en groupes denses de quelques dizaines à plusieurs milliers de carpophores sur et autour des souches et du bois pourrissant de feuillus, et ses lames noircissent sans se liquéfier en encre.",
+        cap: "Le chapeau ne mesure que 5–20 mm de diamètre et 10–25 mm de hauteur. Jeune, il est ovoïde, puis campanulé à convexe et finit par s'étaler, la marge s'évasant et se retroussant parfois vers le haut. La surface est profondément striée de la marge presque jusqu'au centre. Les jeunes chapeaux sont blanc crème à ocre pâle, avec un centre plus foncé, brun ocre, et une surface finement floconneuse, tandis que les plus vieux deviennent gris et glabres. Le chapeau ne se liquéfie pas en encre ; il noircit et se dessèche.",
+        hymenium: "Les lames sont étroitement adnées au pied ou presque libres, minces, serrées à très serrées. Jeunes, elles sont blanches, puis grises et enfin noires, et elles ne se dissolvent pas en un liquide noir. Les basides sont tétrasporiques.",
+        stipe: "Le pied mesure 20–50 mm de longueur et seulement 1–2 mm d'épaisseur, cylindrique, creux, blanc et vitreux, très fragile. Il est souvent courbe et, jeune, finement farineux à fibrilleux.",
+        flesh: "La chair est très mince, blanchâtre et fragile. L'odeur et la saveur sont douces.",
+        sporePrint: "Noire à brun noirâtre. Les spores sont elliptiques et lisses, avec un pore germinatif central, d'environ 6,5–10 × 4–6 μm.",
+        habitat: "Un champignon saprotrophe qui pousse en groupes denses, souvent de centaines, voire de milliers de carpophores, sur les souches, les racines enterrées et le bois pourrissant de feuillus tels que le hêtre et le saule, ainsi que sur le sol alentour. Il apparaît de mai à novembre, généralement après la pluie, dans les bois, les parcs et les jardins. Il est commun et se rencontre dans le monde entier dans les régions tempérées.",
+        uses: "Considéré comme non comestible : les carpophores sont minuscules, à chair mince et fragiles, de sorte qu'il n'y a rien à manger, bien que l'espèce ne soit pas connue comme toxique.",
+        confusion: "Psathyrella pygmaea a la sporée brun rouille, des spores plus petites, une chair amère, un chapeau plus brunâtre et moins strié et des lames plus serrées. Coprinellus micaceus forme rarement des groupes aussi massifs, a de plus grands chapeaux brun jaunâtre à granules brillants chez le jeune, et ses lames se liquéfient en encre.",
+        notes: "Commun et non considéré comme menacé ; il est évalué en préoccupation mineure (Least Concern, LC) dans la liste rouge norvégienne de 2021 et dans la liste rouge danoise. Contrairement à la plupart des espèces de son genre, ses lames ne se liquéfient pas en encre ; le chapeau noircit simplement et se dessèche."
+      },
+      de: {
+        description: "Ein winziger, zerbrechlicher Pilz mit gerieftem, eiförmigem bis glockigem Hut, der jung cremefarben bis blass ockerfarben ist und im Alter grau wird, auf einem schlanken, glasig weißen Stiel. Er wächst in dichten Gruppen von Dutzenden bis Tausenden Fruchtkörpern auf und um Baumstümpfe und morsches Holz von Laubbäumen, und seine Lamellen werden schwarz, ohne zu Tinte zu zerfließen.",
+        cap: "Der Hut ist nur 5–20 mm breit und 10–25 mm hoch. Jung ist er eiförmig, dann glockig bis gewölbt und breitet sich schließlich aus, wobei der Rand abstehend und manchmal aufgebogen wird. Die Oberfläche ist vom Rand fast bis zur Mitte tief gerieft. Junge Hüte sind cremeweiß bis blass ockerfarben mit dunklerer ockerbrauner Mitte und fein flockiger Oberfläche, ältere werden grau und verkahlen. Der Hut zerfließt nicht; er wird schwarz und trocknet ein.",
+        hymenium: "Die Lamellen sind schmal am Stiel angewachsen oder fast frei, dünn und dicht bis gedrängt. Jung sind sie weiß, dann grau und zuletzt schwarz, und sie lösen sich nicht in eine schwarze Flüssigkeit auf. Die Basidien sind viersporig.",
+        stipe: "Der Stiel ist 20–50 mm lang und nur 1–2 mm dick, zylindrisch, hohl, weiß und glasig, sehr zerbrechlich. Er ist oft gebogen und jung fein bereift bis faserig.",
+        flesh: "Das Fleisch ist sehr dünn, weißlich und zerbrechlich. Geruch und Geschmack sind mild.",
+        sporePrint: "Schwarz bis schwarzbraun. Die Sporen sind elliptisch und glatt, mit zentralem Keimporus, etwa 6,5–10 × 4–6 μm.",
+        habitat: "Ein saprotropher Pilz, der in dichten Gruppen wächst, oft mit Hunderten oder sogar Tausenden von Fruchtkörpern, auf Baumstümpfen, vergrabenen Wurzeln und morschem Holz von Laubbäumen wie Buche und Weide sowie auf dem Boden darum herum. Er erscheint von Mai bis November, meist nach Regen, in Wäldern, Parks und Gärten. Er ist häufig und kommt weltweit in gemäßigten Regionen vor.",
+        uses: "Gilt als ungenießbar: Die Fruchtkörper sind winzig, dünnfleischig und zerbrechlich, sodass es nichts zu essen gibt, obwohl die Art nicht als giftig bekannt ist.",
+        confusion: "Psathyrella pygmaea hat ein rostbraunes Sporenpulver, kleinere Sporen, bitteres Fleisch, einen bräunlicheren und weniger stark gerieften Hut und dichter stehende Lamellen. Coprinellus micaceus bildet nur selten so massenhafte Gruppen, hat größere lederbraune Hüte mit glitzernden Körnchen in der Jugend, und seine Lamellen zerfließen zu Tinte.",
+        notes: "Häufig und nicht als gefährdet angesehen; in der norwegischen Roten Liste von 2021 und in der dänischen Roten Liste wird sie als nicht gefährdet (Least Concern, LC) eingestuft. Anders als bei den meisten Arten ihrer Gattung zerfließen die Lamellen nicht zu Tinte; der Hut wird einfach schwarz und trocknet ein."
+      },
+      he: {
+        description: "פטרייה זעירה ושברירית, בעלת כובע מחורץ בצורת ביצה עד פעמון, בצבע שמנת עד אוקר חיוור כשהיא צעירה ואפור עם הגיל, על רגל דקה ולבנה כזכוכית. היא גדלה בקבוצות צפופות של עשרות עד אלפי גופי פרי על גדמי עצים ועל עץ מתפורר של עצים רחבי עלים ומסביבם, והדפים שלה משחירים בלי להתמוסס לדיו.",
+        cap: "הכובע רחב רק 5–20 מ״מ וגבוה 10–25 מ״מ. כשהוא צעיר הוא בצורת ביצה, אחר כך בצורת פעמון עד קמור ולבסוף נפתח, כשהשוליים נפתחים ולפעמים מתקפלים כלפי מעלה. פני השטח מחורצים עמוק מהשוליים כמעט עד המרכז. כובעים צעירים בצבע לבן־שמנת עד אוקר חיוור, עם מרכז כהה יותר בצבע חום־אוקר ופני שטח פתיתיים דק, וכובעים מבוגרים הופכים אפורים וחלקים. הכובע אינו מתמוסס לדיו; הוא משחיר ומתייבש.",
+        hymenium: "הדפים צמודים לרגל באופן צר או כמעט חופשיים, דקים, צפופים עד צפופים מאוד. כשהם צעירים הם לבנים, אחר כך אפורים ולבסוף שחורים, והם אינם מתמוססים לנוזל שחור. הבזידיות הן בעלות ארבעה נבגים.",
+        stipe: "הרגל באורך 20–50 מ״מ ובעובי של 1–2 מ״מ בלבד, גלילית, חלולה, לבנה וזכוכיתית, שברירית מאוד. לעתים קרובות היא מעוקלת, וכשהיא צעירה פני השטח שלה אבקתיים דק עד סיביים.",
+        flesh: "הבשר דק מאוד, לבנבן ושביר. הריח והטעם עדינים.",
+        sporePrint: "שחור עד חום־שחור. הנבגים אליפטיים וחלקים, עם נקבובית נביטה מרכזית, בגודל של כ־6.5–10 × 4–6 מיקרומטר.",
+        habitat: "פטרייה ספרופיטית הגדלה בקבוצות צפופות, לעתים קרובות של מאות ואף אלפי גופי פרי, על גדמי עצים, על שורשים קבורים ועל עץ מתפורר של עצים רחבי עלים כמו אשור ועצי ערבה, ועל הקרקע סביבם. היא מופיעה ממאי עד נובמבר, בדרך כלל אחרי גשם, ביערות, בפארקים ובגנים. היא נפוצה ומצויה בכל העולם באזורים ממוזגים.",
+        uses: "נחשבת בלתי אכילה: גופי הפרי זעירים, דקי בשר ושבריריים, ולכן אין בהם מה לאכול, אם כי המין אינו ידוע כרעיל.",
+        confusion: "ל־Psathyrella pygmaea יש הדפס נבגים חום־חלוד, נבגים קטנים יותר, בשר מר, כובע חום יותר ופחות מחורץ ודפים צפופים יותר. Coprinellus micaceus יוצר רק לעתים רחוקות קבוצות המוניות כאלה, יש לו כובעים גדולים יותר בצבע חום־צהבהב עם גרגירים נוצצים כשהוא צעיר, והדפים שלו מתמוססים לדיו.",
+        notes: "נפוצה ואינה נחשבת מאוימת; היא הוערכה כמדאיגה פחות (Least Concern, LC) ברשימה האדומה של נורווגיה משנת 2021 וברשימה האדומה של דנמרק. בניגוד לרוב המינים בסוגה, הדפים שלה אינם מתמוססים לדיו; הכובע פשוט משחיר ומתייבש."
+      },
+      hi: {
+        description: "एक छोटा, नाज़ुक कुकुरमुत्ता, जिसकी टोपी धारीदार, अंडाकार से घंटी के आकार की होती है; यह छोटी अवस्था में क्रीम से हल्के गेरुए रंग की होती है और उम्र के साथ धूसर हो जाती है। यह पतले, काँच जैसे सफ़ेद डंठल पर टिकी होती है। यह चौड़ी पत्ती वाले पेड़ों के ठूँठों और सड़ती लकड़ी पर और उनके आसपास दर्जनों से हज़ारों फलनकायों के घने समूहों में उगता है, और इसके गिल्स स्याही में घुले बिना काले पड़ जाते हैं।",
+        cap: "टोपी केवल 5–20 मिमी चौड़ी और 10–25 मिमी ऊँची होती है। छोटी अवस्था में यह अंडाकार होती है, फिर घंटी के आकार की से उत्तल हो जाती है और अंत में फैल जाती है, जिसमें किनारा बाहर की ओर खुल जाता है और कभी-कभी ऊपर की ओर मुड़ जाता है। सतह किनारे से लगभग बीच तक गहरी धारीदार होती है। छोटी टोपियाँ क्रीम जैसे सफ़ेद से हल्के गेरुए रंग की होती हैं, जिनका केंद्र ज़्यादा गहरा गेरुआ-भूरा और सतह बारीक रेशेदार-फुलकीदार होती है, जबकि पुरानी टोपियाँ धूसर और चिकनी हो जाती हैं। टोपी स्याही की तरह घुलती नहीं; वह काली पड़कर सूख जाती है।",
+        hymenium: "गिल्स डंठल से संकरे रूप में जुड़े होते हैं या लगभग मुक्त होते हैं, पतले और सघन से बहुत सघन होते हैं। छोटी अवस्था में वे सफ़ेद होते हैं, फिर धूसर और अंत में काले, और वे काले तरल में नहीं घुलते। बेसिडिया चार बीजाणुओं वाले होते हैं।",
+        stipe: "डंठल 20–50 मिमी लंबा और केवल 1–2 मिमी मोटा, बेलनाकार, खोखला, सफ़ेद और काँच जैसा, बहुत नाज़ुक होता है। यह अक्सर मुड़ा हुआ होता है और छोटी अवस्था में इसकी सतह बारीक आटे जैसी से रेशेदार होती है।",
+        flesh: "गूदा बहुत पतला, सफ़ेदी लिए हुए और नाज़ुक होता है। गंध और स्वाद हल्के होते हैं।",
+        sporePrint: "काला से कालिमा लिए भूरा। बीजाणु दीर्घवृत्ताकार और चिकने होते हैं, जिनके बीच में अंकुरण छिद्र होता है, और लगभग 6.5–10 × 4–6 μm के होते हैं।",
+        habitat: "एक मृतजीवी कवक जो घने समूहों में उगता है, अक्सर सैकड़ों या हज़ारों फलनकायों के साथ, बीच (Fagus) और विलो जैसे चौड़ी पत्ती वाले पेड़ों के ठूँठों, दबी जड़ों और सड़ती लकड़ी पर और उनके आसपास की ज़मीन पर। यह मई से नवंबर तक, आमतौर पर बारिश के बाद, जंगलों, उद्यानों और बगीचों में दिखता है। यह आम है और दुनिया भर के समशीतोष्ण क्षेत्रों में पाया जाता है।",
+        uses: "अखाद्य माना जाता है: फलनकाय बहुत छोटे, पतले गूदे वाले और नाज़ुक होते हैं, इसलिए खाने लायक कुछ नहीं होता, हालाँकि यह प्रजाति विषैली नहीं जानी जाती।",
+        confusion: "Psathyrella pygmaea का बीजाणु छाप जंग जैसा भूरा होता है, बीजाणु छोटे होते हैं, गूदा कड़वा होता है, टोपी ज़्यादा भूरी और कम धारीदार होती है, और गिल्स ज़्यादा सघन होते हैं। Coprinellus micaceus शायद ही कभी इतने बड़े समूह बनाता है, इसकी टोपियाँ बड़ी और पीली-भूरी होती हैं जिन पर छोटी अवस्था में चमकीले कण होते हैं, और इसके गिल्स स्याही की तरह घुल जाते हैं।",
+        notes: "आम है और संकटग्रस्त नहीं मानी जाती; नॉर्वे की 2021 की रेड लिस्ट और डेनमार्क की रेड लिस्ट में इसे न्यूनतम चिंता (Least Concern, LC) श्रेणी में आँका गया है। अपने वंश की अधिकांश प्रजातियों के विपरीत, इसके गिल्स स्याही की तरह नहीं घुलते; टोपी बस काली पड़ जाती है और सूख जाती है।"
+      },
+      hu: {
+        description: "Apró, törékeny gomba barázdált, tojásdad vagy harang alakú kalappal, amely fiatalon krémszínű vagy halvány okkersárga, öregen pedig szürkévé válik, karcsú, üvegesen fehér tönkön. Sűrű csoportokban nő, a néhány tucattól akár több ezer termőtestig, lombos fák tuskóin és korhadó faanyagán, valamint azok körül, lemezei pedig feketévé válnak, anélkül hogy tintaszerűen elfolynának.",
+        cap: "A kalap mindössze 5–20 mm széles és 10–25 mm magas. Fiatalon tojásdad, majd harang alakú vagy domború, végül kiterül, a széle elálló lesz, olykor felfelé kunkorodik. A felszín a szélétől majdnem a közepéig mélyen barázdált. A fiatal kalapok krémfehérek vagy halvány okkersárgák, sötétebb okkerbarna középpel és finoman pelyhes felszínnel, az idősebbek szürkévé és kopasszá válnak. A kalap nem folyik el, hanem megfeketedik és kiszárad.",
+        hymenium: "A lemezek keskenyen a tönkhöz nőttek vagy majdnem szabadok, vékonyak, sűrűk vagy nagyon sűrűk. Fiatalon fehérek, majd szürkék, végül feketék, és nem oldódnak fel fekete folyadékká. A bazídiumok négyspórásak.",
+        stipe: "A tönk 20–50 mm hosszú és mindössze 1–2 mm vastag, hengeres, üreges, fehér és üveges, nagyon törékeny. Gyakran görbe, fiatalon finoman lisztes vagy rostos.",
+        flesh: "A húsa nagyon vékony, fehéres és törékeny. Szaga és íze enyhe.",
+        sporePrint: "Fekete vagy feketésbarna. A spórák elliptikusak és simák, középen csírapórussal, körülbelül 6,5–10 × 4–6 μm méretűek.",
+        habitat: "Szaprotróf gomba, amely sűrű csoportokban nő, gyakran százával vagy akár ezrével, lombos fák, például bükk és fűz tuskóin, eltemetett gyökerein és korhadó faanyagán, valamint a talajon körülöttük. Májustól novemberig jelenik meg, általában eső után, erdőkben, parkokban és kertekben. Gyakori, és szerte a világon előfordul a mérsékelt égövben.",
+        uses: "Nem ehetőnek tartják: a termőtestek aprók, vékony húsúak és törékenyek, így nincs mit enni rajtuk, bár a faj nem ismert mérgezőként.",
+        confusion: "A Psathyrella pygmaea spórapora rozsdabarna, spórái kisebbek, húsa keserű, kalapja barnásabb és kevésbé barázdált, lemezei pedig sűrűbbek. A Coprinellus micaceus ritkán alkot ilyen tömeges csoportokat, nagyobb, sárgásbarna kalapját fiatalon csillogó szemcsék borítják, lemezei pedig tintaszerűen elfolynak.",
+        notes: "Gyakori, és nem tekintik veszélyeztetettnek; a 2021-es norvég vörös listán és a dán vörös listán nem fenyegetett (Least Concern, LC) besorolást kapott. A nemzetség legtöbb fajától eltérően lemezei nem folynak el tintaszerűen; a kalap egyszerűen megfeketedik és kiszárad."
+      },
+      id: {
+        description: "Jamur kecil dan rapuh dengan tudung beralur, berbentuk telur hingga lonceng, berwarna krem hingga oker pucat saat muda dan menjadi abu-abu seiring usia, di atas tangkai ramping berwarna putih seperti kaca. Jamur ini tumbuh dalam kelompok padat berisi puluhan hingga ribuan tubuh buah pada dan di sekitar tunggul serta kayu lapuk pohon berdaun lebar, dan lamelanya menghitam tanpa meleleh menjadi tinta.",
+        cap: "Tudungnya hanya selebar 5–20 mm dan setinggi 10–25 mm. Saat muda berbentuk telur, kemudian berbentuk lonceng hingga cembung, dan akhirnya mengembang dengan tepi yang terbuka dan kadang menggulung ke atas. Permukaannya beralur dalam dari tepi hampir sampai ke tengah. Tudung muda berwarna putih krem hingga oker pucat dengan bagian tengah yang lebih gelap, cokelat oker, dan permukaan berbulu halus seperti serpihan, sedangkan yang lebih tua menjadi abu-abu dan gundul. Tudung tidak meleleh menjadi tinta; ia menghitam dan mengering.",
+        hymenium: "Lamela menempel sempit pada tangkai atau hampir bebas, tipis, rapat hingga sangat rapat. Saat muda berwarna putih, lalu abu-abu, dan akhirnya hitam, serta tidak larut menjadi cairan hitam. Basidia memiliki empat spora.",
+        stipe: "Tangkai panjangnya 20–50 mm dan tebalnya hanya 1–2 mm, berbentuk silinder, berongga, putih dan seperti kaca, sangat rapuh. Sering melengkung dan, saat muda, permukaannya berbubuk halus hingga berserat.",
+        flesh: "Dagingnya sangat tipis, keputihan, dan rapuh. Bau dan rasanya ringan.",
+        sporePrint: "Hitam hingga cokelat kehitaman. Sporanya berbentuk elips dan halus, dengan pori kecambah di tengah, berukuran sekitar 6,5–10 × 4–6 μm.",
+        habitat: "Jamur saprofit yang tumbuh dalam kelompok padat, sering berjumlah ratusan bahkan ribuan tubuh buah, pada tunggul, akar terkubur, dan kayu lapuk pohon berdaun lebar seperti beech dan willow, serta di tanah di sekitarnya. Muncul dari Mei hingga November, biasanya setelah hujan, di hutan, taman, dan kebun. Jamur ini umum dan ditemukan di seluruh dunia di wilayah beriklim sedang.",
+        uses: "Dianggap tidak dapat dimakan: tubuh buahnya kecil, berdaging tipis, dan rapuh sehingga tidak ada yang bisa dimakan, meskipun spesies ini tidak diketahui beracun.",
+        confusion: "Psathyrella pygmaea memiliki cetakan spora cokelat karat, spora lebih kecil, daging pahit, tudung lebih kecokelatan dan kurang beralur, serta lamela lebih rapat. Coprinellus micaceus jarang membentuk kelompok sebesar itu, memiliki tudung lebih besar berwarna cokelat kekuningan dengan butiran berkilau saat muda, dan lamelanya meleleh menjadi tinta.",
+        notes: "Umum dan tidak dianggap terancam; dinilai Risiko Rendah (Least Concern, LC) dalam daftar merah Norwegia tahun 2021 dan daftar merah Denmark. Berbeda dengan sebagian besar spesies dalam marganya, lamelanya tidak meleleh menjadi tinta; tudungnya hanya menghitam dan mengering."
+      },
+      it: {
+        description: "Un fungo minuscolo e fragile, con cappello plissettato, ovoidale e poi campanulato, color crema o ocra pallido da giovane e grigio con l'età, su un gambo esile, bianco e vitreo. Cresce in gruppi fitti da decine a migliaia di carpofori su ceppi e legno in decomposizione di latifoglie e intorno ad essi, e le sue lamelle diventano nere senza dissolversi in inchiostro.",
+        cap: "Il cappello misura solo 5–20 mm di larghezza e 10–25 mm di altezza. Da giovane è ovoidale, poi campanulato o convesso e infine si distende, con il margine che si apre e talvolta si arriccia verso l'alto. La superficie è profondamente plissettata dal margine quasi fino al centro. I cappelli giovani sono bianco crema o ocra pallido, con il centro più scuro, bruno ocra, e la superficie finemente fioccosa, mentre quelli più vecchi diventano grigi e glabri. Il cappello non si scioglie in inchiostro; annerisce e si secca.",
+        hymenium: "Le lamelle sono strettamente attaccate al gambo o quasi libere, sottili, fitte o molto fitte. Da giovani sono bianche, poi grigie e infine nere, e non si dissolvono in un liquido nero. I basidi sono tetrasporici.",
+        stipe: "Il gambo è lungo 20–50 mm e spesso solo 1–2 mm, cilindrico, cavo, bianco e vitreo, molto fragile. È spesso ricurvo e da giovane finemente farinoso o fibrilloso.",
+        flesh: "La carne è molto sottile, biancastra e fragile. L'odore e il sapore sono dolci.",
+        sporePrint: "Nera o bruno-nerastra. Le spore sono ellittiche e lisce, con un poro germinativo centrale, di circa 6,5–10 × 4–6 μm.",
+        habitat: "Un fungo saprotrofo che cresce in gruppi fitti, spesso di centinaia o addirittura migliaia di carpofori, su ceppi, radici sepolte e legno in decomposizione di latifoglie come faggio e salice, e sul terreno intorno ad essi. Compare da maggio a novembre, di solito dopo la pioggia, in boschi, parchi e giardini. È comune e si trova in tutto il mondo nelle regioni temperate.",
+        uses: "Considerato non commestibile: i carpofori sono minuscoli, di carne sottile e fragili, per cui non c'è nulla da mangiare, anche se la specie non è nota come velenosa.",
+        confusion: "Psathyrella pygmaea ha l'impronta sporale bruno ruggine, spore più piccole, carne amara, cappello più brunastro e meno plissettato e lamelle più fitte. Coprinellus micaceus forma di rado gruppi così massicci, ha cappelli più grandi, bruno-giallastri, con granuli brillanti da giovane, e le sue lamelle si dissolvono in inchiostro.",
+        notes: "Comune e non considerata minacciata; è valutata a minor preoccupazione (Least Concern, LC) nella lista rossa norvegese del 2021 e nella lista rossa danese. A differenza della maggior parte delle specie del suo genere, le lamelle non si dissolvono in inchiostro; il cappello si limita ad annerire e a seccarsi."
+      },
+      ja: {
+        description: "傘に溝があり、卵形から釣鐘形で、若いときはクリーム色から淡い黄土色、年とともに灰色になる、小さくてもろいきのこです。柄は細く、ガラスのように白い色をしています。広葉樹の切り株や腐った材の上やその周囲に、数十から数千本の密な群れをつくって生え、ひだは溶けて墨汁状になることなく黒くなります。",
+        cap: "傘は幅わずか5–20 mm、高さ10–25 mmです。若いときは卵形で、のちに釣鐘形から丸山形になり、最後には開いて、縁が反り返り、ときに上向きに巻きます。表面は縁からほぼ中央まで深い溝があります。若い傘はクリーム白色から淡い黄土色で、中央がより濃い黄土褐色、表面は細かい綿状で、古くなると灰色になり無毛になります。傘は溶けて墨汁状になることはなく、黒ずんで乾燥します。",
+        hymenium: "ひだは柄に狭く付くか、ほぼ離生し、薄く、密から非常に密です。若いときは白く、のちに灰色、最後に黒くなり、黒い液体には溶けません。担子器は4胞子性です。",
+        stipe: "柄は長さ20–50 mm、太さはわずか1–2 mmで、円筒形、中空で、白くガラス質、非常にもろいです。しばしば曲がっており、若いときは表面が細かい粉状から繊維状です。",
+        flesh: "肉は非常に薄く、白っぽくてもろいです。においと味はおだやかです。",
+        sporePrint: "黒色から黒褐色です。胞子は楕円形で平滑、中央に発芽孔があり、大きさは約6.5–10 × 4–6 μmです。",
+        habitat: "腐生菌で、密な群れをつくり、しばしば数百から数千の子実体が生えます。ブナやヤナギなどの広葉樹の切り株、埋もれた根、腐った材の上やその周囲の地面に発生します。5月から11月に、たいてい雨のあとに、森林、公園、庭に現れます。ふつうに見られ、世界中の温帯地域に分布します。",
+        uses: "食用に適さないとされます。子実体は小さく、肉が薄くてもろいため食べるところがありませんが、毒きのことしては知られていません。",
+        confusion: "Psathyrella pygmaea は胞子紋がさび褐色で、胞子がより小さく、肉は苦く、傘はより褐色を帯びて溝が弱く、ひだはより密です。Coprinellus micaceus はこのように大群をつくることはまれで、より大きな黄褐色の傘をもち、若いときは光る粒がつき、ひだは溶けて墨汁状になります。",
+        notes: "ふつうに見られ、絶滅のおそれがあるとは考えられていません。2021年のノルウェーのレッドリストとデンマークのレッドリストで軽度懸念（Least Concern, LC）と評価されています。同じ属の多くの種と異なり、ひだは溶けて墨汁状にならず、傘はただ黒ずんで乾燥します。"
+      },
+      ko: {
+        description: "갓에 주름이 있고 달걀 모양에서 종 모양이며, 어릴 때는 크림색에서 연한 황토색이고 나이가 들면서 회색이 되는 작고 부서지기 쉬운 버섯입니다. 가늘고 유리처럼 하얀 대 위에 달립니다. 활엽수의 그루터기와 썩은 나무 위와 그 주변에서 수십 개에서 수천 개의 자실체가 빽빽한 무리를 이루어 자라며, 주름살은 먹물처럼 녹지 않고 검게 변합니다.",
+        cap: "갓은 지름이 5–20 mm, 높이가 10–25 mm에 불과합니다. 어릴 때는 달걀 모양이고, 이후 종 모양에서 볼록한 모양이 되었다가 마침내 펴지며, 가장자리가 젖혀지고 때로는 위로 말립니다. 표면에는 가장자리에서 거의 중앙까지 깊은 주름이 있습니다. 어린 갓은 크림색을 띤 흰색에서 연한 황토색이고 중앙은 더 짙은 황토갈색이며 표면은 가는 솜털 모양이고, 오래된 갓은 회색이 되고 매끈해집니다. 갓은 먹물처럼 녹지 않고 검게 변하며 마릅니다.",
+        hymenium: "주름살은 대에 좁게 붙거나 거의 떨어져 있고, 얇으며, 촘촘하거나 매우 촘촘합니다. 어릴 때는 흰색이고, 이후 회색이 되며 마지막에는 검은색이 되고, 검은 액체로 녹지 않습니다. 담자기는 포자가 4개입니다.",
+        stipe: "대는 길이 20–50 mm, 굵기 1–2 mm에 불과하고, 원통형이며 속이 비어 있고 흰색에 유리질이며 매우 부서지기 쉽습니다. 흔히 휘어 있고 어릴 때는 표면이 가루 모양에서 섬유 모양입니다.",
+        flesh: "살은 매우 얇고 희끄무레하며 부서지기 쉽습니다. 냄새와 맛은 순합니다.",
+        sporePrint: "검은색에서 검은 갈색입니다. 포자는 타원형이고 매끈하며 중앙에 발아공이 있고, 크기는 약 6.5–10 × 4–6 μm입니다.",
+        habitat: "부생성 버섯으로, 빽빽한 무리를 이루어 자라며 흔히 수백 개에서 수천 개의 자실체가 납니다. 너도밤나무와 버드나무 같은 활엽수의 그루터기, 묻힌 뿌리, 썩은 나무 위와 그 주변의 땅에서 자랍니다. 5월부터 11월까지 대개 비가 온 뒤에 숲, 공원, 정원에서 나타납니다. 흔하며 전 세계 온대 지역에 분포합니다.",
+        uses: "먹을 수 없는 버섯으로 여겨집니다. 자실체가 작고 살이 얇으며 부서지기 쉬워 먹을 것이 없지만, 독이 있는 종으로 알려져 있지는 않습니다.",
+        confusion: "Psathyrella pygmaea는 포자문이 녹갈색이고, 포자가 더 작으며, 살이 쓰고, 갓이 더 갈색을 띠며 주름이 덜 뚜렷하고, 주름살이 더 촘촘합니다. Coprinellus micaceus는 이렇게 대규모로 무리를 이루는 일이 드물고, 더 큰 황갈색 갓에 어릴 때는 반짝이는 알갱이가 있으며, 주름살이 먹물처럼 녹습니다.",
+        notes: "흔하며 위협받는 것으로 여겨지지 않습니다. 2021년 노르웨이 적색 목록과 덴마크 적색 목록에서 관심대상(Least Concern, LC)으로 평가되었습니다. 같은 속의 대부분의 종과 달리 주름살이 먹물처럼 녹지 않으며, 갓은 그저 검게 변하고 마릅니다."
+      },
+      lv: {
+        description: "Sīka, trausla sēne ar vagotu, olveida līdz zvanveida cepurīti, kas jaunībā ir krēmkrāsas līdz bāli okerkrāsas un vecumā kļūst pelēka, uz slaida, stiklaini balta kātiņa. Tā aug blīvās grupās no desmitiem līdz tūkstošiem augļķermeņu uz lapkoku celmiem un trūdošas koksnes un ap tiem, un tās lapiņas kļūst melnas, nešķīstot tintē.",
+        cap: "Cepurīte ir tikai 5–20 mm plata un 10–25 mm augsta. Jaunībā tā ir olveida, tad zvanveida līdz izliekta un beidzot izplešas, mala atlokās un dažreiz uzliecas uz augšu. Virsma ir dziļi vagota no malas gandrīz līdz vidum. Jaunas cepurītes ir krēmbaltas līdz bāli okerkrāsas, ar tumšāku okerbrūnu vidu un smalki pārslainu virsmu, vecākas kļūst pelēkas un kailas. Cepurīte nešķīst tintē, bet kļūst melna un izžūst.",
+        hymenium: "Lapiņas ir šauri piestiprinātas pie kātiņa vai gandrīz brīvas, plānas, blīvas līdz ļoti blīvas. Jaunībā tās ir baltas, tad pelēkas un beigās melnas, un tās nešķīst melnā šķidrumā. Bazīdijas ir četrsporu.",
+        stipe: "Kātiņš ir 20–50 mm garš un tikai 1–2 mm biezs, cilindrisks, dobs, balts un stiklains, ļoti trausls. Tas bieži ir izliekts, un jaunībā smalki miltains līdz šķiedrains.",
+        flesh: "Mīkstums ir ļoti plāns, balts un trausls. Smarža un garša ir maiga.",
+        sporePrint: "Melns līdz melnbrūns. Sporas ir elipsoīdas un gludas, ar centrālu dīgšanas poru, aptuveni 6,5–10 × 4–6 μm.",
+        habitat: "Saprotrofa sēne, kas aug blīvās grupās, bieži simtiem vai pat tūkstošiem augļķermeņu, uz lapkoku, piemēram, dižskābaržu un vītolu, celmiem, aprakātām saknēm un trūdošas koksnes, kā arī uz zemes ap tiem. Parādās no maija līdz novembrim, parasti pēc lietus, mežos, parkos un dārzos. Tā ir bieža un sastopama visā pasaulē mērenajos apgabalos.",
+        uses: "Uzskata par neēdamu: augļķermeņi ir sīki, plāna mīkstuma un trausli, tāpēc nav ko ēst, lai gan suga nav zināma kā indīga.",
+        confusion: "Psathyrella pygmaea sporu nospiedums ir rūsganbrūns, sporas ir mazākas, mīkstums rūgts, cepurīte brūnganāka un mazāk vagota, bet lapiņas blīvākas. Coprinellus micaceus reti veido tik masveida grupas, tai ir lielākas dzeltenbrūnas cepurītes ar mirdzošiem graudiņiem jaunībā, un tās lapiņas šķīst tintē.",
+        notes: "Bieža, un to neuzskata par apdraudētu; Norvēģijas 2021. gada sarkanajā sarakstā un Dānijas sarkanajā sarakstā tā novērtēta kā mazāk apdraudēta suga (Least Concern, LC). Atšķirībā no vairuma šīs ģints sugu tās lapiņas nešķīst tintē; cepurīte vienkārši kļūst melna un izžūst."
+      },
+      lt: {
+        description: "Smulkus, trapus grybas su vagotu, kiaušiniška iki varpelio formos kepurėle, kuri jauna yra kreminė iki blyškiai ruda ir senstant pilkėja, ant lieso, stiklingai balto kotelio. Auga tankiomis grupėmis nuo dešimčių iki tūkstančių vaisiakūnių ant lapuočių kelmų ir pūvančios medienos bei aplink juos, o jo lakšteliai juoduoja netirpdami į rašalą.",
+        cap: "Kepurėlė tik 5–20 mm skersmens ir 10–25 mm aukščio. Jauna ji kiaušiniška, paskui varpelio formos iki iškilios ir galiausiai išsiskleidžia, kraštas atlinksta ir kartais užsiriečia aukštyn. Paviršius giliai vagotas nuo krašto beveik iki vidurio. Jaunos kepurėlės kreminės baltos iki blyškiai rudos, su tamsesniu ruduoju viduriu ir smulkiai dribsniuotu paviršiumi, senesnės pilkėja ir plikėja. Kepurėlė netirpsta į rašalą, o juoduoja ir džiūsta.",
+        hymenium: "Lakšteliai siaurai prisiaugę prie kotelio arba beveik laisvi, ploni, tankūs iki labai tankių. Jauni jie balti, paskui pilki ir galiausiai juodi, o netirpsta į juodą skystį. Bazidės keturių sporų.",
+        stipe: "Kotelis 20–50 mm ilgio ir tik 1–2 mm storio, cilindriškas, tuščiaviduris, baltas ir stiklingas, labai trapus. Jis dažnai išlinkęs, o jaunas smulkiai miltuotas iki pluoštinio.",
+        flesh: "Trama labai plona, balkšva ir trapi. Kvapas ir skonis švelnūs.",
+        sporePrint: "Juodas iki juodai rudo. Sporos elipsinės ir lygios, su centrine daigumo anga, apie 6,5–10 × 4–6 μm.",
+        habitat: "Saprotrofinis grybas, kuris auga tankiomis grupėmis, dažnai šimtais ar net tūkstančiais vaisiakūnių, ant lapuočių, pavyzdžiui, bukų ir gluosnių, kelmų, užkastų šaknų ir pūvančios medienos bei ant žemės aplink juos. Pasirodo nuo gegužės iki lapkričio, paprastai po lietaus, miškuose, parkuose ir soduose. Jis paplitęs ir randamas visame pasaulyje vidutinio klimato juostoje.",
+        uses: "Laikomas nevalgomu: vaisiakūniai maži, plono minkštimo ir trapūs, todėl nėra ko valgyti, nors rūšis nežinoma kaip nuodinga.",
+        confusion: "Psathyrella pygmaea sporų atspaudas rūdžių rudas, sporos mažesnės, minkštimas karstas, kepurėlė rusvesnė ir mažiau vagota, o lakšteliai tankesni. Coprinellus micaceus retai sudaro tokias gausias grupes, turi didesnes gelsvai rudas kepurėles su blizgančiais grūdeliais jaunystėje, o jo lakšteliai tirpsta į rašalą.",
+        notes: "Dažna ir nelaikoma nykstančia; 2021 m. Norvegijos raudonojoje knygoje ir Danijos raudonajame sąraše ji įvertinta kaip mažiausiai grėsminga rūšis (Least Concern, LC). Skirtingai nei dauguma šios genties rūšių, jos lakšteliai netirpsta į rašalą; kepurėlė tiesiog pajuoduoja ir išdžiūsta."
+      },
+      no: {
+        description: "En liten, skjør sopp med en furet, eggformet til klokkeformet hatt som er kremfarget til blekt oker som ung og blir grå med alderen, på en slank, glassaktig hvit stilk. Den vokser i tette grupper med alt fra dusinvis til tusenvis av fruktlegemer på og rundt stubber og råtnende ved av løvtrær, og skivene blir svarte uten å løses opp til blekk.",
+        cap: "Hatten er bare 5–20 mm bred og 10–25 mm høy. Som ung er den eggformet, deretter klokkeformet til buet, og til slutt brer den seg ut slik at kanten bøyer utover og noen ganger krøller oppover. Overflaten er dypt furet fra kanten nesten inn til midten. Unge hatter er kremhvite til blekt oker med et mørkere okerbrunt sentrum og en fint floket overflate, mens eldre blir grå og glatte. Hatten løses ikke opp til blekk; den blir svart og tørker inn.",
+        hymenium: "Skivene er smalt tilvokst stilken eller nesten frie, tynne og tette til svært tette. Som unge er de hvite, deretter grå og til slutt svarte, og de løses ikke opp til en svart væske. Basidiene er firesporede.",
+        stipe: "Stilken er 20–50 mm lang og bare 1–2 mm tykk, sylindrisk, hul, hvit og glassaktig, svært skjør. Den er ofte krum og som ung fint melaktig til trevlet.",
+        flesh: "Kjøttet er svært tynt, hvitaktig og skjørt. Lukt og smak er milde.",
+        sporePrint: "Svart til svartbrun. Sporene er elliptiske og glatte med en sentral kimpore, omtrent 6,5–10 × 4–6 μm.",
+        habitat: "En saprotrof sopp som vokser i tette grupper, ofte med hundrevis eller til og med tusenvis av fruktlegemer, på stubber, nedgravde røtter og råtnende ved av løvtrær som bøk og pil, og på bakken rundt dem. Den dukker opp fra mai til november, vanligvis etter regn, i skog, parker og hager. Den er vanlig og finnes over hele verden i tempererte strøk.",
+        uses: "Regnes som uspiselig: fruktlegemene er bittesmå, tynnkjøttede og skjøre, så det er ingenting å spise, selv om arten ikke er kjent som giftig.",
+        confusion: "Psathyrella pygmaea har et rustbrunt sporeavtrykk, mindre sporer, bittert kjøtt, en mer brunaktig og mindre kraftig furet hatt og tettere skiver. Coprinellus micaceus danner sjelden så massive grupper, har større gulbrune hatter med glinsende korn som ung, og skivene løses opp til blekk.",
+        notes: "Vanlig og ikke ansett som truet; den er vurdert som livskraftig (Least Concern, LC) på den norske rødlisten fra 2021 og på den danske rødlisten. I motsetning til de fleste artene i slekten løses ikke skivene opp til blekk; hatten blir bare svart og tørker inn."
+      },
+      fa: {
+        description: "قارچی ریز و شکننده با کلاهک شیاردار، تخم‌مرغی تا زنگوله‌ای شکل، که در جوانی کرم تا اخرایی کم‌رنگ است و با افزایش سن خاکستری می‌شود و بر ساقه‌ای باریک و سفید شیشه‌مانند قرار دارد. در گروه‌های انبوهی از ده‌ها تا هزاران اندام باردهی بر کنده‌ها و چوب‌های در حال پوسیدهٔ درختان پهن‌برگ و در اطراف آن‌ها رشد می‌کند و تیغه‌هایش بدون ذوب‌شدن به صورت جوهر سیاه می‌شوند.",
+        cap: "کلاهک تنها ۵ تا ۲۰ میلی‌متر پهنا و ۱۰ تا ۲۵ میلی‌متر ارتفاع دارد. در جوانی تخم‌مرغی است، سپس زنگوله‌ای تا محدب می‌شود و سرانجام باز می‌شود و لبه‌اش بیرون می‌زند و گاهی به بالا برمی‌گردد. سطح آن از لبه تا تقریباً مرکز عمیقاً شیاردار است. کلاهک‌های جوان سفید کرمی تا اخرایی کم‌رنگ‌اند، با مرکزی تیره‌تر به رنگ قهوه‌ای اخرایی و سطحی ریز و کرکی‌پوشش، اما کلاهک‌های مسن‌تر خاکستری و بدون کرک می‌شوند. کلاهک مثل جوهر ذوب نمی‌شود؛ سیاه می‌شود و خشک می‌گردد.",
+        hymenium: "تیغه‌ها باریک به ساقه چسبیده یا تقریباً آزادند، نازک و متراکم تا بسیار متراکم. در جوانی سفیدند، سپس خاکستری و سرانجام سیاه، و در مایعی سیاه حل نمی‌شوند. بازیدی‌ها چهارهاگی هستند.",
+        stipe: "ساقه ۲۰ تا ۵۰ میلی‌متر بلندی و تنها ۱ تا ۲ میلی‌متر ضخامت دارد، استوانه‌ای، توخالی، سفید و شیشه‌ای و بسیار شکننده است. اغلب خمیده است و در جوانی سطحش ریز آردی تا الیافی است.",
+        flesh: "گوشت بسیار نازک، سفیدفام و شکننده است. بو و طعم ملایم‌اند.",
+        sporePrint: "سیاه تا قهوه‌ای مایل به سیاه. هاگ‌ها بیضوی و صافند، با منفذ جوانه‌زنی مرکزی، و اندازه‌شان حدود ۶٫۵ تا ۱۰ × ۴ تا ۶ میکرومتر است.",
+        habitat: "قارچی پوسیده‌خوار که در گروه‌های انبوه رشد می‌کند، اغلب با صدها یا حتی هزاران اندام باردهی، بر کنده‌ها، ریشه‌های مدفون و چوب در حال پوسیدهٔ درختان پهن‌برگ مانند راش و بید و بر خاک اطراف آن‌ها. از ماه مه تا نوامبر، معمولاً پس از باران، در جنگل‌ها، پارک‌ها و باغ‌ها ظاهر می‌شود. رایج است و در سراسر جهان در مناطق معتدل یافت می‌شود.",
+        uses: "غیرخوراکی به شمار می‌آید: اندام‌های باردهی ریز، کم‌گوشت و شکننده‌اند و چیزی برای خوردن ندارند، هرچند این گونه سمی شناخته نشده است.",
+        confusion: "Psathyrella pygmaea نقش هاگ قهوه‌ای زنگاری، هاگ‌های کوچک‌تر، گوشت تلخ، کلاهک قهوه‌ای‌تر و کم‌شیارتر و تیغه‌های متراکم‌تری دارد. Coprinellus micaceus کمتر چنین گروه‌های انبوهی می‌سازد، کلاهک‌های بزرگ‌تر زرد‌مایل به قهوه‌ای دارد که در جوانی دانه‌های براق روی آن‌هاست، و تیغه‌هایش مثل جوهر ذوب می‌شوند.",
+        notes: "رایج است و تهدیدشده به شمار نمی‌آید؛ در فهرست سرخ نروژ در سال ۲۰۲۱ و فهرست سرخ دانمارک در ردهٔ کمترین نگرانی (Least Concern, LC) ارزیابی شده است. برخلاف بیشتر گونه‌های سرده‌اش، تیغه‌هایش مثل جوهر ذوب نمی‌شوند؛ کلاهک فقط سیاه می‌شود و خشک می‌گردد."
+      },
+      pl: {
+        description: "Drobny, kruchy grzyb o prążkowanym, jajowatym do dzwonkowatego kapeluszu, który za młodu jest kremowy do jasnookrowego, a z wiekiem szarzeje, osadzonym na smukłym, szklistobiałym trzonie. Rośnie w gęstych grupach od kilkudziesięciu do tysięcy owocników na pniakach i butwiejącym drewnie drzew liściastych oraz wokół nich, a jego blaszki czernieją, nie rozpływając się w atrament.",
+        cap: "Kapelusz ma zaledwie 5–20 mm średnicy i 10–25 mm wysokości. Za młodu jest jajowaty, potem dzwonkowaty do wypukłego, a w końcu rozpościera się, przy czym brzeg odgina się i czasem podwija ku górze. Powierzchnia jest głęboko prążkowana od brzegu niemal do środka. Młode kapelusze są kremowobiałe do jasnookrowych, z ciemniejszym okrowobrązowym środkiem i drobno kłaczkowatą powierzchnią, starsze szarzeją i stają się gładkie. Kapelusz nie rozpływa się, lecz czernieje i zasycha.",
+        hymenium: "Blaszki są wąsko przyrośnięte do trzonu lub prawie wolne, cienkie, gęste do bardzo gęstych. Za młodu są białe, potem szare, a na końcu czarne i nie rozpływają się w czarną ciecz. Podstawki są czterozarodnikowe.",
+        stipe: "Trzon ma 20–50 mm długości i tylko 1–2 mm grubości, jest walcowaty, pusty w środku, biały i szklisty, bardzo kruchy. Często bywa wygięty, a za młodu jest drobno mączysty do włókienkowatego.",
+        flesh: "Miąższ jest bardzo cienki, białawy i kruchy. Zapach i smak są łagodne.",
+        sporePrint: "Czarny do czarnobrązowego. Zarodniki są elipsoidalne i gładkie, z centralnym porem rostkowym, mają około 6,5–10 × 4–6 μm.",
+        habitat: "Grzyb saprotroficzny, który rośnie w gęstych grupach, często po setki, a nawet tysiące owocników, na pniakach, zakopanych korzeniach i butwiejącym drewnie drzew liściastych, takich jak buk i wierzba, oraz na ziemi wokół nich. Pojawia się od maja do listopada, zwykle po deszczu, w lasach, parkach i ogrodach. Jest pospolity i występuje na całym świecie w strefach umiarkowanych.",
+        uses: "Uważany za niejadalny: owocniki są drobne, cienkomięsiste i kruche, więc nie ma czego jeść, choć gatunek nie jest znany jako trujący.",
+        confusion: "Psathyrella pygmaea ma rdzawobrązowy wysyp zarodników, mniejsze zarodniki, gorzki miąższ, bardziej brązowawy i słabiej prążkowany kapelusz oraz gęstsze blaszki. Coprinellus micaceus rzadko tworzy tak masowe skupiska, ma większe płowobrązowe kapelusze z błyszczącymi ziarenkami za młodu, a jego blaszki rozpływają się w atrament.",
+        notes: "Pospolity i nieuznawany za zagrożony; w norweskiej czerwonej liście z 2021 roku i w duńskiej czerwonej liście oceniany jest jako gatunek najmniejszej troski (Least Concern, LC). W przeciwieństwie do większości gatunków swojego rodzaju jego blaszki nie rozpływają się w atrament; kapelusz po prostu czernieje i zasycha."
+      },
+      pt: {
+        description: "Um cogumelo minúsculo e frágil, com chapéu pregueado, ovoide a campanulado, que é creme a ocre-claro quando jovem e se torna cinzento com a idade, sobre um pé delgado, branco e vítreo. Cresce em grupos densos de dezenas a milhares de corpos frutíferos sobre e em redor de cepos e madeira em decomposição de árvores folhosas, e as suas lâminas ficam pretas sem se dissolverem em tinta.",
+        cap: "O chapéu mede apenas 5–20 mm de largura e 10–25 mm de altura. Quando jovem é ovoide, depois campanulado a convexo e por fim abre-se, ficando a margem afastada e por vezes enrolada para cima. A superfície é profundamente pregueada desde a margem quase até ao centro. Os chapéus jovens são branco-creme a ocre-claro, com o centro mais escuro, castanho-ocre, e a superfície finamente flocosa, enquanto os mais velhos se tornam cinzentos e glabros. O chapéu não se desfaz em tinta; fica preto e seca.",
+        hymenium: "As lâminas estão estreitamente aderentes ao pé ou quase livres, finas, apertadas a muito apertadas. Quando jovens são brancas, depois cinzentas e por fim pretas, e não se dissolvem num líquido preto. Os basídios têm quatro esporos.",
+        stipe: "O pé mede 20–50 mm de comprimento e apenas 1–2 mm de espessura, é cilíndrico, oco, branco e vítreo, muito frágil. Muitas vezes é curvo e, quando jovem, finamente farinhento a fibriloso.",
+        flesh: "A carne é muito fina, esbranquiçada e frágil. O cheiro e o sabor são suaves.",
+        sporePrint: "Preta a castanho-escura. Os esporos são elípticos e lisos, com um poro germinativo central, com cerca de 6,5–10 × 4–6 μm.",
+        habitat: "Um fungo saprófito que cresce em grupos densos, muitas vezes com centenas ou até milhares de corpos frutíferos, sobre cepos, raízes enterradas e madeira em decomposição de árvores folhosas, como a faia e o salgueiro, e no solo à volta deles. Surge de maio a novembro, geralmente depois da chuva, em bosques, parques e jardins. É comum e ocorre em todo o mundo nas regiões temperadas.",
+        uses: "Considerado não comestível: os corpos frutíferos são minúsculos, de carne fina e frágeis, pelo que não há nada para comer, embora a espécie não seja conhecida como venenosa.",
+        confusion: "Psathyrella pygmaea tem esporada castanho-ferrugínea, esporos mais pequenos, carne amarga, chapéu mais acastanhado e menos pregueado e lâminas mais apertadas. Coprinellus micaceus raramente forma grupos tão numerosos, tem chapéus maiores, castanho-amarelados, com grânulos brilhantes quando jovem, e as suas lâminas dissolvem-se em tinta.",
+        notes: "Comum e não considerada ameaçada; está avaliada como pouco preocupante (Least Concern, LC) na lista vermelha norueguesa de 2021 e na lista vermelha dinamarquesa. Ao contrário da maioria das espécies do seu género, as lâminas não se dissolvem em tinta; o chapéu simplesmente fica preto e seca."
+      },
+      ro: {
+        description: "O ciupercă minusculă și fragilă, cu pălăria brăzdată, ovoidală până la clopotată, care la tinerețe este crem până la ocru-pal și devine cenușie odată cu vârsta, pe un picior subțire, alb și sticlos. Crește în grupuri dense de la zeci la mii de corpuri fructifere pe și în jurul cioatelor și lemnului în descompunere de arbori foioși, iar lamelele ei se înnegresc fără să se topească în cerneală.",
+        cap: "Pălăria are doar 5–20 mm în diametru și 10–25 mm în înălțime. La tinerețe este ovoidală, apoi clopotată până la convexă și în cele din urmă se deschide, cu marginea desfăcută și uneori răsfrântă în sus. Suprafața este adânc brăzdată de la margine aproape până în centru. Pălăriile tinere sunt alb-crem până la ocru-pal, cu centrul mai închis, brun-ocru, și suprafața fin fulgoasă, iar cele mai vechi devin cenușii și golașe. Pălăria nu se topește în cerneală; se înnegrește și se usucă.",
+        hymenium: "Lamelele sunt îngust prinse de picior sau aproape libere, subțiri, dese până la foarte dese. La tinerețe sunt albe, apoi cenușii și în cele din urmă negre și nu se dizolvă într-un lichid negru. Bazidiile au patru spori.",
+        stipe: "Piciorul are 20–50 mm lungime și doar 1–2 mm grosime, este cilindric, scobit, alb și sticlos, foarte fragil. Este adesea curbat și, la tinerețe, fin făinos până la fibros.",
+        flesh: "Carnea este foarte subțire, albicioasă și fragilă. Mirosul și gustul sunt blânde.",
+        sporePrint: "Negru până la brun-negricios. Sporii sunt elipsoidali și netezi, cu un por germinativ central, de aproximativ 6,5–10 × 4–6 μm.",
+        habitat: "O ciupercă saprofită care crește în grupuri dense, adesea de sute sau chiar mii de corpuri fructifere, pe cioate, rădăcini îngropate și lemn în descompunere de arbori foioși, precum fagul și salcia, și pe sol în jurul lor. Apare din mai până în noiembrie, de obicei după ploaie, în păduri, parcuri și grădini. Este obișnuită și se întâlnește în întreaga lume în regiunile temperate.",
+        uses: "Considerată necomestibilă: corpurile fructifere sunt minuscule, cu carne subțire și fragile, așa că nu e nimic de mâncat, deși specia nu este cunoscută ca otrăvitoare.",
+        confusion: "Psathyrella pygmaea are pulberea sporală brun-ruginie, spori mai mici, carne amară, pălărie mai brunie și mai puțin brăzdată și lamele mai dese. Coprinellus micaceus formează rar grupuri atât de numeroase, are pălării mai mari, brun-gălbui, cu granule strălucitoare la tinerețe, iar lamelele lui se topesc în cerneală.",
+        notes: "Obișnuită și neconsiderată amenințată; este evaluată ca preocupare minimă (Least Concern, LC) în lista roșie norvegiană din 2021 și în lista roșie daneză. Spre deosebire de majoritatea speciilor genului ei, lamelele nu se topesc în cerneală; pălăria doar se înnegrește și se usucă."
+      },
+      ru: {
+        description: "Крошечный, хрупкий гриб с бороздчатой яйцевидной до колокольчатой шляпкой, которая в молодости кремовая до бледно-охристой, а с возрастом серая, на тонкой стекловидно-белой ножке. Растёт плотными группами от десятков до тысяч плодовых тел на пнях и гниющей древесине лиственных деревьев и вокруг них, а его пластинки чернеют, не расплываясь в чернильную жидкость.",
+        cap: "Шляпка всего 5–20 мм в диаметре и 10–25 мм высотой. В молодости она яйцевидная, затем колокольчатая до выпуклой и в конце концов раскрывается, а край отгибается и иногда загибается вверх. Поверхность глубоко бороздчатая от края почти до центра. Молодые шляпки кремово-белые до бледно-охристых, с более тёмным охристо-коричневым центром и мелкохлопьевидной поверхностью, старые серые и становятся голыми. Шляпка не расплывается, а чернеет и засыхает.",
+        hymenium: "Пластинки узко приросшие к ножке или почти свободные, тонкие, частые до очень частых. В молодости они белые, затем серые и наконец чёрные, и не растворяются в чёрную жидкость. Базидии четырёхспоровые.",
+        stipe: "Ножка длиной 20–50 мм и толщиной всего 1–2 мм, цилиндрическая, полая, белая и стекловидная, очень хрупкая. Часто бывает изогнутой, а в молодости тонко мучнистая до волокнистой.",
+        flesh: "Мякоть очень тонкая, беловатая и хрупкая. Запах и вкус мягкие.",
+        sporePrint: "Чёрный до чёрно-коричневого. Споры эллипсоидные и гладкие, с центральной ростковой порой, около 6,5–10 × 4–6 мкм.",
+        habitat: "Сапротрофный гриб, который растёт плотными группами, часто по сотням и даже тысячам плодовых тел, на пнях, погребённых корнях и гниющей древесине лиственных деревьев, таких как бук и ива, а также на земле вокруг них. Появляется с мая по ноябрь, обычно после дождя, в лесах, парках и садах. Обычен и встречается по всему миру в умеренных областях.",
+        uses: "Считается несъедобным: плодовые тела крошечные, тонкомясистые и хрупкие, так что есть там нечего, хотя вид не известен как ядовитый.",
+        confusion: "Psathyrella pygmaea имеет ржаво-коричневый споровый порошок, более мелкие споры, горькую мякоть, более коричневатую и менее сильно бороздчатую шляпку и более частые пластинки. Coprinellus micaceus редко образует такие массовые группы, имеет более крупные буровато-жёлтые шляпки с блестящими крупинками в молодости, а его пластинки расплываются в чернильную жидкость.",
+        notes: "Обычен и не считается находящимся под угрозой; в Красном списке Норвегии 2021 года и в Красном списке Дании оценивается как вид наименьшего риска (Least Concern, LC). В отличие от большинства видов своего рода, его пластинки не расплываются в чернильную жидкость; шляпка просто чернеет и засыхает."
+      },
+      sr: {
+        description: "Ситна, крхка гљива са избразданим, јајастим до звонастим шеширом који је у младости кремаст до бледоохраст, а с годинама седи, на виткој, стакласто белој дршци. Расте у густим групама од десетина до хиљада плодоносних тела на пањевима и трулом дрвету листопадног дрвећа и око њих, а њени листићи црне, не растапајући се у мастило.",
+        cap: "Шешир је широк само 5–20 mm и висок 10–25 mm. У младости је јајаст, затим звонаст до испупчен и на крају се шири, при чему се руб одваја и понекад увија навише. Површина је дубоко избраздана од руба готово до средине. Млади шешири су кремасто бели до бледоохрасти, са тамнијим охраст-смеђим средиштем и ситно пахуљастом површином, а старији седе и постају голи. Шешир се не растапа, већ црни и суши се.",
+        hymenium: "Листићи су уско срасли са дршком или готово слободни, танки, густи до врло густи. У младости су бели, затим сиви и на крају црни и не растварају се у црну течност. Базидије су четвороспорне.",
+        stipe: "Дршка је дугачка 20–50 mm и дебела само 1–2 mm, цилиндрична, шупља, бела и стакласта, врло крхка. Често је повијена, а у младости је ситно брашнаста до влакнаста.",
+        flesh: "Месо је врло танко, беличасто и крхко. Мирис и укус су благи.",
+        sporePrint: "Црн до црносмеђ. Споре су елипсоидне и глатке, са централном клијном пором, око 6,5–10 × 4–6 μm.",
+        habitat: "Сапротрофна гљива која расте у густим групама, често са стотинама или чак хиљадама плодоносних тела, на пањевима, закопаном корењу и трулом дрвету листопадног дрвећа као што су буква и врба, као и на тлу око њих. Појављује се од маја до новембра, обично после кише, у шумама, парковима и баштама. Честа је и налази се широм света у умереним областима.",
+        uses: "Сматра се нејестивом: плодоносна тела су ситна, танког меса и крхка, па нема шта да се једе, мада врста није позната као отровна.",
+        confusion: "Psathyrella pygmaea има рђавосмеђи отисак спора, ситније споре, горко месо, смеђкастији и слабије избраздан шешир и гушће листиће. Coprinellus micaceus ретко ствара тако масовне групе, има веће жућкастосмеђе шешире са сјајним зрнцима у младости, а његови листићи се растапају у мастило.",
+        notes: "Честа и не сматра се угроженом; у Црвеној листи Норвешке из 2021. и у Црвеној листи Данске оцењена је као врста најмање бриге (Least Concern, LC). За разлику од већине врста свог рода, њени листићи се не растапају у мастило; шешир једноставно поцрни и осуши се."
+      },
+      sl: {
+        description: "Droben, krhek goba z naguban, jajčast do zvonast klobuk, ki je v mladosti kremast do bledo okrast, s starostjo pa osivi, na vitkem, steklasto belem betu. Raste v gostih skupinah od deset do več tisoč plodišč na štorih in trhlem lesu listavcev ter okoli njih, njeni lističi pa počrnijo, ne da bi se raztopili v črnilo.",
+        cap: "Klobuk je širok le 5–20 mm in visok 10–25 mm. V mladosti je jajčast, nato zvonast do izbočen in nazadnje se razprostre, rob pa se odstopi in včasih zavihne navzgor. Površina je globoko nagubana od roba skoraj do sredine. Mladi klobuki so kremno beli do bledo okrasti s temnejšim okrasto rjavim središčem in drobno kosmato površino, starejši osivijo in postanejo goli. Klobuk se ne raztopi, temveč počrni in se posuši.",
+        hymenium: "Lističi so ozko priraščeni na bet ali skoraj prosti, tanki, goste do zelo goste. V mladosti so beli, nato sivi in nazadnje črni ter se ne raztopijo v črno tekočino. Bazidiji so štirispori.",
+        stipe: "Bet je dolg 20–50 mm in debel le 1–2 mm, valjast, votel, bel in steklast, zelo krhek. Pogosto je ukrivljen, v mladosti pa je drobno moknat do vlaknat.",
+        flesh: "Meso je zelo tanko, belkasto in krhko. Vonj in okus sta blaga.",
+        sporePrint: "Črn do črnorjav. Trosi so elipsoidni in gladki, s sredinsko kalilno poro, veliki okoli 6,5–10 × 4–6 μm.",
+        habitat: "Saprotrofna goba, ki raste v gostih skupinah, pogosto s stotinami ali celo tisoči plodišč, na štorih, zakopanih koreninah in trhlem lesu listavcev, kot sta bukev in vrba, ter na tleh okoli njih. Pojavlja se od maja do novembra, običajno po dežju, v gozdovih, parkih in vrtovih. Pogosta je in se pojavlja po vsem svetu v zmernih območjih.",
+        uses: "Velja za neužitno: plodišča so drobna, tankomesnata in krhka, zato ni kaj jesti, čeprav vrsta ni znana kot strupena.",
+        confusion: "Psathyrella pygmaea ima rjastorjav trosni prah, manjše trose, grenko meso, bolj rjavkast in manj izrazito nagubani klobuk ter gostejše lističe. Coprinellus micaceus le redko tvori tako množične skupine, ima večje rumenkastorjave klobuke s sijočimi zrnci v mladosti, njegovi lističi pa se raztopijo v črnilo.",
+        notes: "Pogosta je in ne velja za ogroženo; v norveškem rdečem seznamu iz leta 2021 in v danskem rdečem seznamu je ocenjena kot vrsta najmanjšega varstvenega pomena (Least Concern, LC). Za razliko od večine vrst svojega rodu se njeni lističi ne raztopijo v črnilo; klobuk preprosto počrni in se posuši."
+      },
+      es: {
+        description: "Un hongo diminuto y frágil, con sombrero plisado, ovoide a campanulado, que de joven es crema a ocre pálido y se vuelve gris con la edad, sobre un pie delgado, blanco y vítreo. Crece en grupos densos de decenas a miles de carpóforos sobre y alrededor de tocones y madera en descomposición de árboles de hoja ancha, y sus láminas se ponen negras sin disolverse en tinta.",
+        cap: "El sombrero mide solo 5–20 mm de ancho y 10–25 mm de alto. De joven es ovoide, luego campanulado a convexo y por fin se expande, con el margen abierto y a veces enrollado hacia arriba. La superficie está profundamente plisada desde el margen casi hasta el centro. Los sombreros jóvenes son blanco crema a ocre pálido, con el centro más oscuro, pardo ocre, y la superficie finamente floculosa, mientras que los más viejos se vuelven grises y glabros. El sombrero no se licúa en tinta; se ennegrece y se seca.",
+        hymenium: "Las láminas están estrechamente adheridas al pie o casi libres, finas, apretadas a muy apretadas. De jóvenes son blancas, luego grises y por último negras, y no se disuelven en un líquido negro. Los basidios tienen cuatro esporas.",
+        stipe: "El pie mide 20–50 mm de largo y solo 1–2 mm de grosor, es cilíndrico, hueco, blanco y vítreo, muy frágil. A menudo es curvo y, de joven, finamente harinoso a fibriloso.",
+        flesh: "La carne es muy fina, blanquecina y frágil. El olor y el sabor son suaves.",
+        sporePrint: "Negra a pardo negruzca. Las esporas son elípticas y lisas, con un poro germinativo central, de unos 6,5–10 × 4–6 μm.",
+        habitat: "Un hongo saprótrofo que crece en grupos densos, a menudo de cientos o incluso miles de carpóforos, sobre tocones, raíces enterradas y madera en descomposición de árboles de hoja ancha, como el haya y el sauce, y en el suelo a su alrededor. Aparece de mayo a noviembre, normalmente después de la lluvia, en bosques, parques y jardines. Es común y se encuentra en todo el mundo en regiones templadas.",
+        uses: "Se considera no comestible: los carpóforos son diminutos, de carne fina y frágiles, por lo que no hay nada que comer, aunque la especie no se conoce como venenosa.",
+        confusion: "Psathyrella pygmaea tiene la esporada pardo óxido, esporas más pequeñas, carne amarga, sombrero más parduzco y menos plisado y láminas más apretadas. Coprinellus micaceus rara vez forma grupos tan masivos, tiene sombreros más grandes, pardo amarillentos, con gránulos brillantes de joven, y sus láminas se licúan en tinta.",
+        notes: "Común y no considerada amenazada; está evaluada como de preocupación menor (Least Concern, LC) en la lista roja noruega de 2021 y en la lista roja danesa. A diferencia de la mayoría de las especies de su género, las láminas no se licúan en tinta; el sombrero simplemente se ennegrece y se seca."
+      },
+      sv: {
+        description: "En liten, skör svamp med en refflad, äggformad till klockformad hatt som är gräddfärgad till blekt ockra som ung och blir grå med åldern, på en smal, glasartat vit fot. Den växer i täta flockar med allt från dussintals till tusentals fruktkroppar på och kring stubbar och multnande ved av lövträd, och dess skivor blir svarta utan att lösas upp till bläck.",
+        cap: "Hatten är bara 5–20 mm bred och 10–25 mm hög. Som ung är den äggformad, därefter klockformad till välvd, och till sist breder den ut sig så att kanten viker utåt och ibland rullar uppåt. Ytan är djupt refflad från kanten nästan in till mitten. Unga hattar är gräddvita till blekt ockra med en mörkare ockrabrun mitt och en fint flockig yta, medan äldre blir grå och kala. Hatten flyter inte ut till bläck; den blir svart och torkar in.",
+        hymenium: "Skivorna är smalt fastvuxna vid foten eller nästan fria, tunna och täta till mycket täta. Som unga är de vita, sedan grå och till sist svarta, och de löses inte upp till en svart vätska. Basidierna är fyrsporiga.",
+        stipe: "Foten är 20–50 mm lång och bara 1–2 mm tjock, cylindrisk, ihålig, vit och glasartad, mycket skör. Den är ofta böjd och som ung fint mjölig till trådig.",
+        flesh: "Köttet är mycket tunt, vitaktigt och skört. Lukt och smak är milda.",
+        sporePrint: "Svart till svartbrun. Sporerna är elliptiska och släta med en central grobspringa, ungefär 6,5–10 × 4–6 μm.",
+        habitat: "En saprotrof svamp som växer i täta flockar, ofta med hundratals eller till och med tusentals fruktkroppar, på stubbar, nedgrävda rötter och multnande ved av lövträd som bok och pil, och på marken runt dem. Den dyker upp från maj till november, vanligen efter regn, i skog, parker och trädgårdar. Den är vanlig och förekommer över hela världen i tempererade områden.",
+        uses: "Anses oätlig: fruktkropparna är pyttesmå, tunnköttiga och sköra, så det finns inget att äta, även om arten inte är känd som giftig.",
+        confusion: "Psathyrella pygmaea har ett rostbrunt sporavtryck, mindre sporer, bittert kött, en brunaktigare och mindre kraftigt refflad hatt och tätare skivor. Coprinellus micaceus bildar sällan så massiva flockar, har större gulbruna hattar med glittrande korn som ung, och dess skivor löses upp till bläck.",
+        notes: "Vanlig och inte ansedd som hotad; den är bedömd som livskraftig (Least Concern, LC) på den norska rödlistan från 2021 och på den danska rödlistan. Till skillnad från de flesta arter i släktet löses skivorna inte upp till bläck; hatten blir bara svart och torkar in."
+      },
+      tr: {
+        description: "Küçücük ve kırılgan bir mantar; şapkası oluklu, yumurta biçiminden çan biçimine kadar değişir, gençken krem ile soluk oker arasındadır ve yaşlandıkça grileşir; ince, camsı beyaz bir sap üzerinde bulunur. Yüzlerce ile binlerce meyve gövdesi hâlinde sık topluluklar oluşturarak yapraklı ağaçların kütüklerinde ve çürüyen odunlarında ve çevrelerinde yetişir; lamelleri mürekkebe dönüşüp erimeden siyahlaşır.",
+        cap: "Şapka yalnızca 5–20 mm genişliğinde ve 10–25 mm yüksekliğindedir. Gençken yumurta biçimindedir, sonra çan biçimli ile dışbükey arasında bir şekil alır ve sonunda açılır; kenarı dışa doğru açılır ve bazen yukarı kıvrılır. Yüzeyi kenardan neredeyse ortaya kadar derin oluklu olur. Genç şapkalar krem beyazından soluk okere kadar değişir; ortası daha koyu, oker kahverengisidir ve yüzeyi ince pul pul tüylüdür; yaşlılar grileşir ve çıplaklaşır. Şapka mürekkebe dönüşüp erimez; siyahlaşır ve kurur.",
+        hymenium: "Lameller sapa dar şekilde yapışık ya da neredeyse serbest, ince, sık ile çok sıktır. Gençken beyaz, sonra gri ve sonunda siyahtır; siyah bir sıvıya dönüşmez. Bazidyumlar dört sporludur.",
+        stipe: "Sap 20–50 mm uzunluğunda ve yalnızca 1–2 mm kalınlığındadır; silindirik, içi boş, beyaz ve camsıdır, çok kırılgandır. Çoğunlukla eğridir ve gençken ince unlu ile lifli arasında bir yüzeye sahiptir.",
+        flesh: "Eti çok ince, beyazımsı ve kırılgandır. Kokusu ve tadı hafiftir.",
+        sporePrint: "Siyahtan siyahımsı kahverengiye kadar. Sporlar eliptik ve düzgündür, ortada bir çimlenme gözeneği taşır ve yaklaşık 6,5–10 × 4–6 μm boyutundadır.",
+        habitat: "Sık topluluklar hâlinde, çoğu zaman yüzlerce, hatta binlerce meyve gövdesiyle yetişen saprofit bir mantardır; kayın ve söğüt gibi yapraklı ağaçların kütükleri, gömülü kökleri ve çürüyen odunu üzerinde ve çevrelerindeki toprakta bulunur. Mayıs'tan Kasım'a kadar, genellikle yağmurdan sonra ormanlarda, parklarda ve bahçelerde görülür. Yaygındır ve dünyanın ılıman bölgelerinde bulunur.",
+        uses: "Yenmez kabul edilir: meyve gövdeleri küçücük, ince etli ve kırılgandır, bu yüzden yenecek bir şey yoktur; yine de türün zehirli olduğu bilinmemektedir.",
+        confusion: "Psathyrella pygmaea'nın spor izi pas kahverengisidir; sporları daha küçüktür, eti acıdır, şapkası daha kahverengimsi ve daha az oluklu, lamelleri ise daha sıktır. Coprinellus micaceus nadiren bu kadar kalabalık topluluklar oluşturur; daha büyük, sarımsı kahverengi şapkaları gençken parlak tanecikli olur ve lamelleri mürekkebe dönüşerek erir.",
+        notes: "Yaygındır ve tehdit altında sayılmaz; 2021 tarihli Norveç kırmızı listesinde ve Danimarka kırmızı listesinde asgari endişe (Least Concern, LC) olarak değerlendirilmiştir. Cinsinin çoğu türünden farklı olarak lamelleri mürekkebe dönüşüp erimez; şapka yalnızca siyahlaşır ve kurur."
+      },
+      uk: {
+        description: "Крихітний, крихкий гриб із борозенчастим яйцеподібним до дзвоникоподібного капелюшком, який у молодості кремовий до блідо-охристого, а з віком сірішає, на тонкій склоподібно-білій ніжці. Росте щільними групами від десятків до тисяч плодових тіл на пеньках і гнилій деревині листяних дерев та навколо них, а його пластинки чорніють, не розпливаючись у чорнильну рідину.",
+        cap: "Капелюшок лише 5–20 мм у діаметрі та 10–25 мм заввишки. У молодості він яйцеподібний, потім дзвоникоподібний до опуклого і зрештою розкривається, а край відгинається і подекуди загинається догори. Поверхня глибоко борозенчаста від краю майже до центру. Молоді капелюшки кремово-білі до блідо-охристих, із темнішим охристо-коричневим центром і дрібнопластівчастою поверхнею, старі сіріють і стають голими. Капелюшок не розпливається, а чорніє і засихає.",
+        hymenium: "Пластинки вузько приросли до ніжки або майже вільні, тонкі, часті до дуже частих. У молодості вони білі, потім сірі й нарешті чорні, і не розчиняються у чорну рідину. Базидії чотириспорові.",
+        stipe: "Ніжка завдовжки 20–50 мм і завтовшки лише 1–2 мм, циліндрична, порожниста, біла й склоподібна, дуже крихка. Часто буває зігнутою, а в молодості тонко борошниста до волокнистої.",
+        flesh: "М'якуш дуже тонкий, білуватий і крихкий. Запах і смак м'які.",
+        sporePrint: "Чорний до чорно-коричневого. Спори еліпсоїдні й гладенькі, із центральною паростковою порою, близько 6,5–10 × 4–6 мкм.",
+        habitat: "Сапротрофний гриб, що росте щільними групами, часто по сотнях і навіть тисячах плодових тіл, на пеньках, закопаному корінні та гнилій деревині листяних дерев, таких як бук і верба, а також на землі навколо них. З'являється з травня до листопада, зазвичай після дощу, у лісах, парках і садах. Звичайний і трапляється в усьому світі в помірних областях.",
+        uses: "Вважається неїстівним: плодові тіла крихітні, тонком'ясисті й крихкі, тож їсти там нічого, хоча вид не відомий як отруйний.",
+        confusion: "Psathyrella pygmaea має іржаво-коричневий споровий порошок, дрібніші спори, гіркий м'якуш, брунатніший і менш сильно борозенчастий капелюшок та частіші пластинки. Coprinellus micaceus рідко утворює такі масові групи, має більші буро-жовті капелюшки з блискучими крупинками в молодості, а його пластинки розпливаються у чорнильну рідину.",
+        notes: "Звичайний і не вважається під загрозою; у Червоному списку Норвегії 2021 року та в Червоному списку Данії оцінюється як вид найменшого занепокоєння (Least Concern, LC). На відміну від більшості видів свого роду, його пластинки не розпливаються у чорнильну рідину; капелюшок просто чорніє і засихає."
+      }
+    },
+    sources: {
+      en: [
+        {
+          "group": "name",
+          "name": "First Nature",
+          "href": "https://www.first-nature.com/fungi/coprinellus-disseminatus.php"
+        },
+        {
+          "group": "name",
+          "name": "EPPO Global Database",
+          "href": "https://gd.eppo.int/taxon/CPNLDI",
+          "detail": "CPNLDI"
+        },
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://en.wikipedia.org/wiki/Coprinellus_disseminatus"
+        },
+        {
+          "group": "name",
+          "name": "Artsdatabanken",
+          "href": "https://lister.artsdatabanken.no/rodlisteforarter/2021/20974",
+          "detail": "Least Concern, 2021"
+        },
+        {
+          "group": "name",
+          "name": "Naturbasen",
+          "href": "https://www.naturbasen.dk/art/5440/bredsaaet-blaekhat",
+          "detail": "Least Concern"
+        },
+        {
+          "group": "name",
+          "name": "Index Fungorum",
+          "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=107842",
+          "detail": "107842"
+        },
+        {
+          "group": "name",
+          "name": "Species Fungorum",
+          "href": "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=107842",
+          "detail": "107842"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534625",
+          "detail": "2534625"
+        }
+      ],
+      sk: [
+        {
+          "group": "text",
+          "name": "nahuby.sk",
+          "href": "https://www.nahuby.sk/atlas-hub/Coprinellus-disseminatus/hnojnik-rozsiaty/hnojnik-nasety/ID100",
+          "detail": "hnojník rozsiaty"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534625",
+          "detail": "2534625"
+        }
+      ],
+      ar: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534625",
+          "detail": "2534625"
+        }
+      ],
+      bg: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534625",
+          "detail": "2534625"
+        }
+      ],
+      zh: [
+        {
+          "group": "text",
+          "name": "臺灣生命大百科 TaiEOL",
+          "href": "https://taieol.tw/pages/144959",
+          "detail": "簇生鬼傘"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534625",
+          "detail": "2534625"
+        }
+      ],
+      hr: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534625",
+          "detail": "2534625"
+        }
+      ],
+      cs: [
+        {
+          "group": "text",
+          "name": "Česká mykologická společnost",
+          "href": "https://www.myko.cz/myko-atlas/Coprinellus-disseminatus/",
+          "detail": "hnojník nasetý"
+        },
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://cs.wikipedia.org/wiki/Hnojn%C3%ADk_naset%C3%BD"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534625",
+          "detail": "2534625"
+        }
+      ],
+      da: [
+        {
+          "group": "text",
+          "name": "Naturbasen",
+          "href": "https://www.naturbasen.dk/art/5440/bredsaaet-blaekhat",
+          "detail": "bredsået blækhat"
+        },
+        {
+          "group": "text",
+          "name": "Danske Svampe",
+          "href": "http://danskesvampe.dk/?page_id=13786"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534625",
+          "detail": "2534625"
+        }
+      ],
+      nl: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://nl.wikipedia.org/wiki/Zwerminktzwam"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534625",
+          "detail": "2534625"
+        }
+      ],
+      et: [
+        {
+          "group": "text",
+          "name": "Vikipeedia",
+          "href": "https://et.wikipedia.org/wiki/Seltsiv_tindik"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534625",
+          "detail": "2534625"
+        }
+      ],
+      fi: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://fi.wikipedia.org/wiki/Parvimustesieni"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534625",
+          "detail": "2534625"
+        }
+      ],
+      fr: [
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://fr.wikipedia.org/wiki/Coprinellus_disseminatus"
+        },
+        {
+          "group": "name",
+          "name": "EPPO Global Database",
+          "href": "https://gd.eppo.int/taxon/CPNLDI",
+          "detail": "CPNLDI"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534625",
+          "detail": "2534625"
+        }
+      ],
+      de: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://de.wikipedia.org/wiki/Ges%C3%A4ter_Tintling"
+        },
+        {
+          "group": "name",
+          "name": "EPPO Global Database",
+          "href": "https://gd.eppo.int/taxon/CPNLDI",
+          "detail": "CPNLDI"
+        }
+      ],
+      he: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534625",
+          "detail": "2534625"
+        }
+      ],
+      hi: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534625",
+          "detail": "2534625"
+        }
+      ],
+      hu: [
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://hu.wikipedia.org/wiki/Sereges_tintagomba"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534625",
+          "detail": "2534625"
+        }
+      ],
+      id: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534625",
+          "detail": "2534625"
+        }
+      ],
+      it: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://it.wikipedia.org/wiki/Coprinus_disseminatus"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534625",
+          "detail": "2534625"
+        }
+      ],
+      ja: [
+        {
+          "group": "text",
+          "name": "ウィキペディア",
+          "href": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%8C%E3%82%BB%E3%83%B3%E3%83%9C%E3%83%B3%E3%82%BF%E3%82%B1"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534625",
+          "detail": "2534625"
+        }
+      ],
+      ko: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534625",
+          "detail": "2534625"
+        }
+      ],
+      lv: [
+        {
+          "group": "text",
+          "name": "Latvijas sēnes",
+          "href": "https://www.senes.lv/species/coprinus_disseminatus.htm",
+          "detail": "dižbara tintene"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534625",
+          "detail": "2534625"
+        }
+      ],
+      lt: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://lt.wikipedia.org/wiki/I%C5%A1s%C4%97tinis_m%C4%97%C5%A1lagrybis"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534625",
+          "detail": "2534625"
+        }
+      ],
+      no: [
+        {
+          "group": "name",
+          "name": "Artsdatabanken",
+          "href": "https://lister.artsdatabanken.no/rodlisteforarter/2021/20974",
+          "detail": "stubbeblekksopp"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534625",
+          "detail": "2534625"
+        }
+      ],
+      fa: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534625",
+          "detail": "2534625"
+        }
+      ],
+      pl: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://pl.wikipedia.org/wiki/Czernid%C5%82aczek_gromadny"
+        },
+        {
+          "group": "name",
+          "name": "EPPO Global Database",
+          "href": "https://gd.eppo.int/taxon/CPNLDI",
+          "detail": "CPNLDI"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534625",
+          "detail": "2534625"
+        }
+      ],
+      pt: [
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://pt.wikipedia.org/wiki/Coprinellus_disseminatus"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534625",
+          "detail": "2534625"
+        }
+      ],
+      ro: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534625",
+          "detail": "2534625"
+        }
+      ],
+      ru: [
+        {
+          "group": "text",
+          "name": "Википедия",
+          "href": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA_%D1%80%D0%B0%D1%81%D1%81%D0%B5%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534625",
+          "detail": "2534625"
+        }
+      ],
+      sr: [
+        {
+          "group": "text",
+          "name": "Википедија",
+          "href": "https://sr.wikipedia.org/wiki/Coprinellus_disseminatus"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534625",
+          "detail": "2534625"
+        }
+      ],
+      sl: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://sl.wikipedia.org/wiki/Razsejani_tintovec"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534625",
+          "detail": "2534625"
+        }
+      ],
+      es: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://es.wikipedia.org/wiki/Coprinellus_disseminatus"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534625",
+          "detail": "2534625"
+        }
+      ],
+      sv: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://sv.wikipedia.org/wiki/Stubbl%C3%A4cksvamp"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534625",
+          "detail": "2534625"
+        }
+      ],
+      tr: [
+        {
+          "group": "text",
+          "name": "Mantarlı Yaşam",
+          "href": "https://mantarliyasam.com/coprinellus-disseminatus/",
+          "detail": "minikmürekkep mantarı"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534625",
+          "detail": "2534625"
+        }
+      ],
+      uk: [
+        {
+          "group": "text",
+          "name": "Вікіпедія",
+          "href": "https://uk.wikipedia.org/wiki/%D0%93%D0%BD%D0%BE%D0%B9%D0%BE%D0%B2%D0%B8%D0%BA_%D1%80%D0%BE%D0%B7%D1%81%D1%96%D1%8F%D0%BD%D0%B8%D0%B9"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534625",
+          "detail": "2534625"
+        }
+      ]
+    },
+    synonyms: [
+      "Agaricus disseminatus Pers.",
+      "Coprinus disseminatus (Pers.) Gray",
+      "Coprinarius disseminatus (Pers.) P.Kumm.",
+      "Psathyrella disseminata (Pers.) Quél.",
+      "Pseudocoprinus disseminatus (Pers.) Kühner",
+      "Drosophila disseminata (Pers.) Romagn.",
+      "Agaricus minutulus Schaeff.",
+      "Psathyrella minutula (Schaeff.) Murrill",
+      "Agaricus digitaliformis Bull.",
+      "Coprinus digitaliformis (Bull.) Fr.",
+      "Agaricus striatus Bull.",
+      "Coprinus floridanus Murrill"
+    ]
   }
 ];
