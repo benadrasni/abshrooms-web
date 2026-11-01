@@ -221,12 +221,12 @@ export const CATALOG = [
           "description": "Ein großer ektomykorrhizabildender Pilz. Heimisch in ganz Europa, Nordamerika und Teilen Asiens. Mit gepflanzten Bäumen wurde er nach Christchurch in Neuseeland, in die Adelaide Hills in Australien sowie in Kiefernplantagen in Südafrika und Simbabwe eingeschleppt.",
           "cap": "Der Hut misst gewöhnlich 5–30 cm im Durchmesser, mitunter mehr, ist jung halbkugelig und flacht im Alter ab. Er ist rötlich braun, oft mit einem helleren Rand, und bei feuchtem Wetter schmierig. Ein ausgewachsener Fruchtkörper kann etwa 1 kg wiegen. Ein Exemplar von der Isle of Skye im Jahr 1995 erreichte einen Hutdurchmesser von 42 cm.",
           "hymenium": "Die Röhren sind etwa 1–2 cm lang. Die Poren sind klein, etwa zwei bis drei pro Millimeter. Sie sind weißlich und wirken in der Jugend wie verstopft, werden dann gelb und später grüngelb bis bräunlich. Bei Druck oder Berührung verfärben sie sich nicht.",
-          "stipe": "Der Stiel ist meist 6–25 cm lang und 2–7 cm dick, weiß oder gelblich. In der Jugend ist er an der Basis oft bauchig angeschwollen und wird später zylindrischer. Ein feines, erhabenes weißes Netz überzieht den oberen Teil, bisweilen auch den gesamten Stiel. Das Fleisch an der Stielbasis ist manchmal dunkelgelb gefärbt.",
-          "flesh": "Das Fleisch ist weiß, in der Jugend dick und fest, im Alter schwammig werdend. Angeschnittenes oder verletztes Fleisch bleibt weiß, zeigt jedoch unmittelbar unter der Huthaut einen zarten rosafarbenen oder weinrötlich-braunen Hauch.",
-          "habitat": "Fruchtkörper erscheinen im Sommer und Herbst, einzeln oder in Gruppen zu zweit oder dritt. Er wächst in Gemeinschaft mit lebenden Bäumen, darunter Kiefern, Fichten, Hemlocktannen, Tannen, Buchen, Eichen und Kastanien, in kühl-gemäßigten sowie subtropischen Wäldern.",
+          "stipe": "Der Stiel ist meist 6–25 cm lang und 2–7 cm dick, weiß oder gelblich. In der Jugend ist er an der Basis oft bauchig angeschwollen und wird später zylindrischer. Ein feines, erhabenes Netz überzieht den oberen Teil, bisweilen auch den gesamten Stiel. Das Fleisch an der Stielbasis ist manchmal dunkelgelb.",
+          "flesh": "Das Fleisch ist weiß, in der Jugend dick und fest und wird im Alter etwas schwammig. Angeschnittenes oder verletztes Fleisch bleibt weiß, zeigt jedoch unmittelbar unter der Huthaut einen zarten rosafarbenen oder weinrötlich-braunen Hauch.",
+          "habitat": "Fruchtkörper erscheinen im Sommer und Herbst, einzeln oder in Gruppen zu zweit oder dritt. Er wächst mit lebenden Bäumen, darunter Kiefern, Fichten, Hemlocktannen, Tannen, Buchen, Eichen und Kastanien, in kühl-gemäßigten und subtropischen Wäldern.",
           "sporePrint": "Olivbraun. Die Sporen sind elliptisch bis spindelförmig, etwa 12–17 × 5–7 μm groß.",
-          "uses": "Ein hervorragender Speisepilz, der in der Saison frisch zubereitet oder noch häufiger getrocknet und eingeweicht für Suppen, Pasta und Risotto verwendet wird. Er lässt sich nicht verlässlich kultivieren.",
-          "confusion": "Zu den Verwechslungsmöglichkeiten gehören der Gemeine Gallenröhrling (Tylopilus felleus), der ein dunkles Netz auf hellerem Stiel und im Alter rosa werdende Poren besitzt, sowie der Satans-Röhrling (Rubroboletus satanas), der einen roten Stiel aufweist und dessen Fleisch bei Verletzung blaut. Der Schwarzhütige Steinpilz (Boletus aereus), der Kiefern-Steinpilz (Boletus pinophilus) und der Sommer-Steinpilz (Boletus reticulatus) sind verwandte europäische Arten, die vom Gemeinen Steinpilz abgegrenzt werden. Molekularbiologische Studien ordnen früher getrennt geführte Taxa wie Boletus betulicola, Boletus persoonii, Boletus quercicola und Boletus venturii dem Formenkreis von Boletus edulis zu."
+          "uses": "Ein hervorragender Speisepilz, der in der Saison frisch zubereitet oder noch häufiger getrocknet und eingeweicht für Suppen, Pasta und Risotto verwendet wird. Er lässt sich nicht verlässlich erwerbsmäßig anbauen.",
+          "confusion": "Zu den Verwechslungsmöglichkeiten gehören der Gemeine Gallenröhrling (Tylopilus felleus), der ein dunkles Netz auf hellerem Stiel und im Alter rosa werdende Poren besitzt, sowie der Satans-Röhrling (Rubroboletus satanas), der einen roten Stiel aufweist und dessen Fleisch bei Verletzung blaut. Der Schwarzhütige Steinpilz (Boletus aereus), der Kiefern-Steinpilz (Boletus pinophilus) und der Sommer-Steinpilz (Boletus reticulatus) sind verwandte europäische Arten, die von Boletus edulis abgegrenzt werden. Molekularbiologische Studien ordnen früher getrennt geführte Taxa wie Boletus betulicola, Boletus persoonii, Boletus quercicola und Boletus venturii dem Formenkreis von Boletus edulis zu."
     },
       en: {
         description: "A large ectomycorrhizal mushroom. Native across Europe, North America, and parts of Asia. Introduced with planted trees at Christchurch in New Zealand, in the Adelaide Hills of Australia, and in pine plantations in South Africa and Zimbabwe.",
@@ -1019,14 +1019,14 @@ export const CATALOG = [
           "notes": "Sientä on aikoinaan käytetty kärpästen torjuntaan."
     },
       de: {
-          "description": "Ein ektomykorrhizabildender Pilz in Laub- und Nadelwäldern. Häufig in der gesamten nördlichen Hemisphäre, einschließlich Großbritanniens, Irlands, Kontinentaleuropas, Asiens, der Vereinigten Staaten und Kanadas. In Australien (einschließlich Tasmanien) und Neuseeland wurde er eingeschleppt.",
-          "cap": "Der Hut erreicht ausgewachsen 10–20 cm Durchmesser, ist leuchtend rot oder gelegentlich orange. Er ist in der Jugend abgerundet bis halbkugelig und flacht meist ab, bisweilen leicht niedergedrückt. Unregelmäßige weiße Reste des Velum universale haften der Hutoberfläche an und können bei Regen abgewaschen werden.",
+          "description": "Ein ektomykorrhizabildender Pilz in Laub- und Nadelwäldern. Häufig in der gesamten nördlichen Hemisphäre, einschließlich Großbritanniens, Irlands, des europäischen Festlands, Asiens, der Vereinigten Staaten und Kanadas. In Australien (einschließlich Tasmanien) und Neuseeland wurde er eingeschleppt.",
+          "cap": "Der Hut erreicht ausgewachsen 10–20 cm Durchmesser, ist leuchtend rot oder gelegentlich orange. Er ist in der Jugend abgerundet bis halbkugelig und flacht meist ab, bisweilen leicht niedergedrückt. Unregelmäßige weiße Reste des Velum universale haften der Hutoberfläche an und können bei feuchtem Wetter abgewaschen werden.",
           "hymenium": "Die Lamellen sind weiß, frei und stehen dicht. Mit zunehmender Reife des Fruchtkörpers nehmen sie eine blassgelbliche Tönung an.",
-          "stipe": "Der Stiel ist 10–25 cm lang und 1–2 cm dick, weiß, mit einer hängenden, gerieften weißen Manschette (Ring). Die Basis ist knollig verdickt und trägt weiße Reste der Volva, die in konzentrische Schuppengürtel aufbrechen.",
+          "stipe": "Der Stiel ist 10–25 cm lang und 1–2 cm dick, weiß, mit einer hängenden, gerieften weißen Manschette. Die Basis ist knollig verdickt und trägt weiße Reste der Volva, die in konzentrische Schuppengürtel aufbrechen.",
           "flesh": "Das Fleisch ist weiß, direkt unter der Huthaut befindet sich eine goldgelbe Zone. Der Geruch ist unauffällig.",
           "habitat": "Fruchtkörper erscheinen von August bis November. Er wächst mit Laub- und Nadelbäumen, insbesondere Birke, Kiefer und Fichte.",
-          "sporePrint": "Weiß. Die Sporen sind oval, etwa 9–13 × 6,5–9 μm groß und inamyloid (zeigen keine Blaufärbung mit Jod).",
-          "uses": "Der Fliegenpilz ist giftig. Er enthält Muscimol und Ibotensäure; tödliche Vergiftungen sind jedoch extrem selten. Ein Abkochen in reichlich Wasser mit anschließendem Wegschütten der Flüssigkeit ist lediglich eine historische Praxis und macht ihn nicht verlässlich sicher essbar.",
+          "sporePrint": "Weiß. Die Sporen sind oval, etwa 9–13 × 6,5–9 μm groß und färben sich mit Jod nicht blau.",
+          "uses": "Der Pilz ist giftig. Er enthält Muscimol und Ibotensäure; tödliche Vergiftungen sind jedoch extrem selten.",
           "confusion": "Der Kaiserling (Amanita caesarea) hat einen orangen Hut mit gerieftem Rand und einen gelben Stiel; er kommt in Nordeuropa kaum vor. Der Perlpilz (Amanita rubescens) kann einen tief orangebraunen Hut aufweisen, rötet jedoch im Fleisch bei Verletzung. Der Buchen-Spei-Täubling (Russula nobilis) besitzt einen leuchtend roten Hut, jedoch weder Ring noch Scheide. Viele Autoren führen den braunen Königsfliegenpilz (Amanita regalis) als eigenständige Art.",
           "notes": "Früher wurde er zur Fliegenbekämpfung verwendet. Pilz des Jahres 2022 in Deutschland."
     },
@@ -1841,13 +1841,13 @@ export const CATALOG = [
           "notes": "Suomessa vuoden sieni 2024."
     },
       de: {
-          "description": "Ein ektomykorrhizabildender Pilz. Heimisch in Europa von Skandinavien bis zum Mittelmeerraum; in Großbritannien und Irland häufig, aber standortgebunden. Im engeren Sinne handelt es sich um eine europäische Art. Nordamerikanische Funde, die früher unter diesem Namen geführt wurden, gehören anderen Arten an.",
-          "cap": "Der Hut misst bis zu 10 cm im Durchmesser und ist meist trichterförmig vertieft, mit einem welligen, unregelmäßigen Rand. Die Färbung reicht von hellgelb bis satt eigelb. Ein feiner weißlicher Reif kann den Hut mitunter bedecken.",
-          "hymenium": "Die Fruchtschicht an der Unterseite besteht aus Leisten (Gabelleisten) statt echten Lamellen. Dicke, aderig-runzelige Falten laufen weit am Stiel herab. Nahe dem Stiel verlaufen sie geradlinig, zum Hutrand hin sind sie gegabelt und gewundener.",
-          "stipe": "Der Stiel hat die gleiche Farbe wie der Hut oder ist etwas blasser, vollreif massiv und zur Basis hin verjüngt, wobei er nahtlos in den Hut übergeht. Er ist 2–8 cm lang und 0,5–1,5 cm dick. In Büscheln sind die Stiele oft gebogen und an der Basis bisweilen verwachsen.",
-          "flesh": "Das Fleisch ist weiß. Der Geruch erinnert zart an Aprikosen. Der Geschmack ist mild mit einer leicht scharfen, pfefferigen Note, wenn er roh gekaut wird.",
-          "habitat": "Fruchtkörper erscheinen von Juni bis Oktober oder November. Er wächst mit Laub- und Nadelbäumen, besonders mit Eiche, Buche, Birke, Kiefer und Fichte, auf nährstoffarmen, sauren Böden.",
-          "sporePrint": "Blassgelb bis cremeweiß. Die Sporen sind ellipsoid, glatt, 7,5–10 × 4,5–6 μm groß und inamyloid.",
+          "description": "Ein ektomykorrhizabildender Pilz. Heimisch in Europa von Skandinavien bis zum Mittelmeerraum; in Großbritannien und Irland häufig, aber standortgebunden. Im engeren Sinne handelt es sich um eine rein europäische Art. Nordamerikanische Funde, die früher unter diesem Namen geführt wurden, gehören anderen Arten an.",
+          "cap": "Der Hut misst bis zu 10 cm im Durchmesser und ist meist trichterförmig vertieft, mit einem welligen, unregelmäßigen Rand. Die Färbung reicht von hellgelb bis satt dottergelb. Ein feiner weißlicher Reif kann den Hut mitunter bedecken.",
+          "hymenium": "Die Fruchtschicht an der Unterseite besteht aus Leisten statt echten Lamellen. Dicke, runzelige Falten laufen weit am Stiel herab. Nahe dem Stiel verlaufen sie geradlinig, zum Hutrand hin sind sie gegabelt und gewundener.",
+          "stipe": "Der Stiel hat die gleiche Farbe wie der Hut oder ist etwas blasser, vollreif massiv und zur Basis hin verjüngt, wobei er nahtlos in den Hut übergeht. Er ist 2–8 cm lang und 0,5–1,5 cm dick.",
+          "flesh": "Das Fleisch ist weißlich bis blassgelb. Der Geruch erinnert zart an Aprikosen. Der Geschmack ist mild mit einer leicht scharfen, pfefferigen Note, wenn er roh gekaut wird.",
+          "habitat": "Fruchtkörper erscheinen von Juni bis Oktober oder November. Er wächst mit Laub- und Nadelbäumen, besonders mit Eiche, Buche, Birke, Kiefer und Fichte, auf sauren Böden.",
+          "sporePrint": "Blassgelb bis cremeweiß. Die Sporen sind ellipsoid, glatt, etwa 7,5–10 × 4,5–6 μm groß und färben sich mit Jod nicht blau.",
           "uses": "Ein hervorragender Speisepilz mit festem Fleisch und aromatischem Geschmack. Er wird gebraten, geschmort oder eingekocht und behält seine Textur gut beim Garen. Durch Trocknen wird er oft zäh und ledrig, weshalb Einfrieren oder Einlegen bevorzugt wird.",
           "confusion": "Der Falsche Pfifferling (Hygrophoropsis aurantiaca) besitzt eng stehende, mehrfach gegabelte echte Lamellen, blasseres Fleisch und einen dünneren, dunkleren Stiel; er gilt als ungenießbar oder bedingt bekömmlich. Der Ölbaumpilz (Omphalotus olearius) wächst büschelig an Holz im Mittelmeerraum, besitzt echte Lamellen, bioluminesziert im Dunkeln und ist schwer giftig.",
           "notes": "Cantharellus pallens wird als eigenständige Art geführt."
@@ -2673,16 +2673,16 @@ export const CATALOG = [
           "notes": "Laji tunnetaan useissa lähteissä tieteellisellä nimellä Boletus aestivalis."
     },
       de: {
-          "description": "Ein ektomykorrhizabildender Dickröhrling von Laubwäldern. Heimisch in weiten Teilen Europas und nach Osten bis Asien reichend. Er bevorzugt wärmebegünstigte Standorte auf basenreichen Böden.",
-          "cap": "Der Hut erreicht typischerweise 10–20 cm Durchmesser (bei kleineren Exemplaren im Schnitt 7–12 cm). Er ist hellbraun bis graubräunlich oder haselnussbraun, samtig-filzig und neigt bei trockenem Wetter zum feldartigen Aufreißen. Der Rand ist nicht merklich heller gefärbt als die Hutmitte.",
-          "hymenium": "Die Röhren und kleinen Poren sind in der Jugend weiß und verfärben sich mit dem Alter über gelblich zu olivgrün. Bei Druck oder Berührung verändern sie ihre Farbe nicht wesentlich.",
-          "stipe": "Der Stiel ist 8–18 cm lang und 2,5–6 cm dick, bauchig bis tonnenförmig, selten keulig. Ein deutliches, erhabenes helles Netz bedeckt den blassbraunen Grund fast bis zur Stielbasis, wobei es an der Spitze und Basis dunkler und in der Mitte bisweilen rosa überhaucht sein kann.",
-          "flesh": "Das Fleisch ist weiß und bleibt auch im Anschnitt unveränderlich weiß, im Alter leicht vergilbend. Es ist etwas weicher als das des Gemeinen Steinpilzes. Der Geruch ist angenehm pilzig, der Geschmack mild und nussig.",
-          "habitat": "Fruchtkörper erscheinen von Mai bis Oktober, oft schon vor Beginn des Hochsommers. Er wächst vor allem unter Laubbäumen wie Eichen und Buchen, seltener unter Nadelbäumen wie Fichten.",
+          "description": "Ein ektomykorrhizabildender Dickröhrling von Laubwäldern. Heimisch in weiten Teilen Europas und nach Osten bis Asien vorkommend. Er fruchtet oft früher im Jahr als verwandte Arten.",
+          "cap": "Der Hut erreicht typischerweise 10–20 cm Durchmesser (bei kleineren Exemplaren im Schnitt 7–12 cm). Er ist blassbraun, haselnussbraun bis lederocker gefärbt. Die Huthaut ist samtig-filzig, trocken, neigt bei trockenem Wetter zum felderigen Aufreißen und ist auch bei Nässe kaum schmierig.",
+          "hymenium": "Die Röhren und kleinen Poren sind in der Jugend weiß und verfärben sich mit dem Alter über gelblich bis grüngelb oder oliv. Sie verfärben sich bei Druck oder Berührung nicht.",
+          "stipe": "Der Stiel ist 8–18 cm lang und 2,5–6 cm dick, bauchig bis tonnenförmig, selten keulig. Ein deutliches, erhabenes, weißes bis hellbräunliches Netz überzieht fast die gesamte Stiellänge bis zur Basis.",
+          "flesh": "Das Fleisch ist weiß und bleibt auch im Anschnitt unveränderlich weiß, im Alter leicht vergilbend. Es besitzt einen angenehmen, mild-nussigen Geschmack und einen ausgeprägten Pilzgeruch.",
+          "habitat": "Fruchtkörper erscheinen von Mai bis Oktober, oft schon vor Beginn des Hochsommers. Er wächst vor allem in wärmebegünstigten Laubwäldern und Parkanlagen bei Eichen, Buchen, Hainbuchen und Edelkastanien, seltener bei Nadelbäumen.",
           "sporePrint": "Olivbraun (tabakbraun). Die Sporen sind spindelig-ellipsoid, glatt, etwa 13–15 × 4,5–5,5 μm groß.",
-          "uses": "Ein hervorragender Speisepilz, geschmacklich dem Gemeinen Steinpilz ebenbürtig und in der Küche auf die gleiche Weise verwendbar.",
-          "confusion": "Der Gemeine Steinpilz (Boletus edulis) fruchtet meist später im Jahr, besitzt eine glatte, bei Feuchtigkeit schmierige Huthaut mit oft weißlichem Rand und ein weißes Netz, das sich meist auf die obere Stielhälfte beschränkt. Der Schwarzhütige Steinpilz (Boletus aereus) hat einen dunkleren, fast bronzeschwarzen Hut und festeres Fleisch. Der Gemeine Gallenröhrling (Tylopilus felleus) besitzt ein grobes dunkles Netz auf hellerem Grund, rosa getönte Poren und schmeckt gallebitter. Giftige Röhrlinge wie der Satans-Röhrling (Rubroboletus satanas) haben rote Poren und blauen im Schnitt.",
-          "notes": "Nachweise reichen nach Osten bis in die Region Primorje. Eine Beurteilung aus dem Jahr 2019 stuft die Art als nicht gefährdet (Least Concern) mit stabilem Bestand ein."
+          "uses": "Ein hervorragender Speisepilz, geschmacklich Boletus edulis ebenbürtig und in der Küche auf die gleiche Weise verwendbar.",
+          "confusion": "Boletus edulis fruchtet meist später im Jahr, besitzt eine glattere, bei Feuchtigkeit schmierige Huthaut und das Stielnetz ist meist auf das obere Drittel beschränkt. Der Gemeine Gallenröhrling (Tylopilus felleus) hat ein gröberes, dunkles Netz auf blasserem Grund, im Alter rosa werdende Poren und schmeckt intensiv bitter. Der Schwarzhütige Steinpilz (Boletus aereus) hat einen viel dunkleren, oft bronzeschwarzen Hut.",
+          "notes": "Nachweise reichen nach Osten bis in die Region Primorje. Eine Beurteilung aus dem Jahr 2019 stuft die Art als nicht gefährdet (Least Concern) mit stabilem Bestandstrend ein."
     },
       en: {
         description: "An ectomycorrhizal mushroom. A common bolete of Mediterranean, temperate, and hemiboreal woods throughout Europe. It is rare in Britain and Ireland and more frequent in southern Europe. Records from North America and Japan once placed under this name belong to other species, and a southern African record under planted pine is treated as likely introduced.",
@@ -3513,16 +3513,16 @@ export const CATALOG = [
           "notes": "Yksi Euroopan kookkaimmista helttasienistä."
     },
       de: {
-          "description": "Ein großer saprotropher Blätterpilz. Weit verbreitet und häufig in ganz Mitteleuropa sowie im gemäßigten Eurasien. Nordamerikanische Nachweise bedürfen noch der Bestätigung.",
-          "cap": "Der Hut erreicht 10–25 cm, selten bis zu 30 cm im Durchmesser. Er beginnt kugelig oder eiförmig und hellbraun, öffnet sich dann glockig bis flach mit einem dunkleren zentralen Buckel. Die braune Huthaut reißt dabei konzentrisch in dunklere, faserige Schuppen auf einem helleren, weißlich-faserigen Untergrund auf.",
-          "hymenium": "Die Lamellen sind breit, dicht stehend, weiß bis cremefarben und frei, wobei sie in einigem Abstand vor dem Stiel an einem knorpeligen Ring (Kollar) enden.",
-          "stipe": "Der Stiel wird bis zu 30 cm lang und 1–1,5 cm dick (an der knolligen Basis bis 2,5 cm). Die Basis besitzt keine Scheide. Die Oberfläche ist auf hellem Grund charakteristisch braun genattert (Schlangenhautmuster). Ein dicker, zweischichtiger wattiger Ring sitzt im oberen Drittel und lässt sich am Stiel verschieben. Im Inneren ist der Stiel zäh, faserig und hohl.",
-          "flesh": "Das Fleisch ist weiß und verfärbt sich im Anschnitt nicht wesentlich. Im Hut ist es weich und schwammig, im Stiel zäh und holzig-faserig. Der Geruch und Geschmack sind angenehm nussartig.",
-          "habitat": "Fruchtkörper erscheinen von Juni bis November. Er wächst auf Lichtungen, an Waldrändern, auf Magerwiesen, Waldweiden und Grasflächen, einzeln oder in Trupps und Hexenringen.",
-          "sporePrint": "Weiß bis cremeweiß. Die Sporen sind ellipsoid, glatt, dickwandig, etwa 12–18 × 8–12 μm groß, mit Keimpore und dextrinoid.",
-          "uses": "Ein hervorragender Speisepilz, der vor dem Verzehr erhitzt werden muss. Die Hüte werden gern wie Schnitzel paniert und gebraten. Die harten, zähen Stiele werden verworfen oder getrocknet zu Pilzpulver vermahlen.",
-          "confusion": "Der Gemeine Safranschirmling (Chlorophyllum rhacodes) ist kleiner, besitzt gröbere aufgerichtete Schuppen, einen ungenatterten Stiel und rötet bei Anschnitt stark im Fleisch. Der giftige Grüne Schirmling (Chlorophyllum molybdites) besitzt grünliche Lamellen und einen grünen Sporenstaub. Kleine Schirmlingsarten der Gattung Lepiota, die tödlich giftig sein können, bleiben meist unter 10 cm Hutdurchmesser und müssen unbedingt gemieden werden. Junge Knollenblätterpilze (Amanita) besitzen eine häutige Basisscheide.",
-          "notes": "Var. procera und var. pseudo-olivascens sind anerkannt. Letztere entwickelt olivfarbene Flecken auf dem Hut und wächst unter Nadelbäumen. Die Art ist im gemäßigten Eurasien weit verbreitet; nordamerikanische Nachweise bedürfen noch der Bestätigung."
+          "description": "Ein großer saprotropher Blätterpilz. Weit verbreitet und häufig in ganz Mitteleuropa sowie im gemäßigten Eurasien. Nachweise aus Nordamerika bedürfen noch der Bestätigung.",
+          "cap": "Der Hut erreicht 10–25 cm, selten bis zu 30 cm im Durchmesser. Er beginnt kugelig oder eiförmig und breitet sich schirmartig flach aus, behält jedoch meist einen runden, braunen Buckel. Die weißliche bis cremefarbene Huthaut reißt konzentrisch in dicke, braune, fransige Schuppen auf.",
+          "hymenium": "Die Lamellen sind breit, dicht stehend, weiß bis cremefarben und frei, wobei sie in einigem Abstand um die Stielspitze an einem knorpeligen Kragen (Kollar) enden.",
+          "stipe": "Der Stiel wird bis zu 30 cm lang und 1–1,5 cm dick (an der knolligen Basis bis 2,5 cm). Die Basis besitzt keine Volva. Die Stieloberfläche reißt beim Längenwachstum charakteristisch quer natternartig in graubraune Zickzackbänder auf. Ein dicker, wattig-gefranster, verschiebbarer Doppelring sitzt am Stiel.",
+          "flesh": "Das Fleisch ist weiß und verfärbt sich im Anschnitt nicht wesentlich. Im Hut ist es weich und schwammig, im Stiel faserig-zäh bis holzig. Der Geruch ist angenehm nussartig.",
+          "habitat": "Fruchtkörper erscheinen von Juni bis November. Er wächst auf Lichtungen, an Waldrändern, auf Magerwiesen und Weiden sowie in lichten Laub- und Nadelwäldern auf nährstoffreichen, humosen Böden.",
+          "sporePrint": "Weiß bis cremeweiß. Die Sporen sind ellipsoid, glatt, dickwandig, etwa 12–18 × 8–12 μm groß, mit Keimporus.",
+          "uses": "Ein hervorragender Speisepilz, der vor dem Verzehr erhitzt werden muss. Die Hüte werden gern wie Schnitzel paniert und gebraten. Die zähen Stiele eignen sich getrocknet und pulverisiert als Würzpilz.",
+          "confusion": "Der Gemeine Safranschirmling (Chlorophyllum rhacodes) ist kleiner, besitzt gröbere aufgerichtete Schuppen, einen glatten (nicht genatterten) Stiel und rötet im Anschnitt rasch safranrot bis braunrot. Der giftige Garten-Safranschirmling (Chlorophyllum brunneum) hat eine abrupte Knolle und wächst gern auf Kompost. Der nordamerikanische Gift-Schirmling (Chlorophyllum molybdites) besitzt grünes Sporenpulver und ist giftig.",
+          "notes": "Var. procera und var. pseudo-olivascens sind anerkannt. Letztere entwickelt olivfarbene Flecken auf dem Hut und wächst unter Nadelbäumen. Die Art ist im gemäßigten Eurasien weit verbreitet; nordamerikanische Nachweise müssen noch bestätigt werden."
     },
       en: {
         description: "A saprobic mushroom. Frequent in southern Britain and Ireland, and less common in northern England and Scotland except on sheltered coasts. It also occurs in most of mainland Europe, and through temperate Eurasia. North American records are still unconfirmed.",
@@ -4327,15 +4327,15 @@ export const CATALOG = [
           "notes": "Amanitiinimyrkytyksen oireet alkavat tyypillisesti vasta 6–24 tunnin viiveellä, jolloin sisäelimet ovat jo vaurioituneet."
     },
       de: {
-          "description": "Ein ektomykorrhizabildender Pilz in Laubwäldern, besonders bei Eichen. Heimisch in weiten Teilen Europas von Irland und Südskandinavien über das Mittelmeergebiet bis Marokko und Algerien, mit Vorkommen im Nordiran. Eingeschleppt in Nordamerika, Australien, Südafrika und Südamerika.",
-          "cap": "Der Hut misst 5–15 cm im Durchmesser. Er ist anfangs eiförmig bis halbkugelig und fast weiß, später gelbgrün, olivgrün oder bronzefarben, meist zur Mitte hin dunkler eingewachsen faserig, und flacht im Alter ab. Der Rand ist ungerieft. Hüllreste fehlen meist oder hinterlassen nur einzelne flüchtige weiße Fetzen. Eine rein weiße Farbform (var. alba) kommt vor.",
-          "hymenium": "Die Lamellen sind frei, breit, dicht stehend und rein weiß, im Alter bisweilen schwach cremefarben mit zartem grünlichen Schimmer.",
-          "stipe": "Der Stiel ist 7–15 cm lang, weißlich mit blasser grünlich-marmorierter Zickzack-Natterung. Im oberen Teil hängt eine zarte, oft geriefte Manschette. Die Stielbasis ist knollig verdickt und von einer weiten, sackartigen, häutigen weißen Scheide (Volva) umgeben, die innen oft grünlich getönt ist.",
-          "flesh": "Das Fleisch ist weiß und verfärbt sich im Anschnitt nicht. Der Geruch junger Fruchtkörper ist unauffällig oder süßlich-honigartig, im Alter wird er unangenehm aasig und widerlich.",
-          "habitat": "Fruchtkörper erscheinen von Juli bis November in Laubwäldern, vor allem bei Eichen, Buchen und Kastanien, seltener im Nadelwald.",
-          "sporePrint": "Weiß. Die Sporen sind glatt, breit ellipsoid, 7–12 × 6–9 μm groß und amyloid.",
-          "uses": "Tödlich giftig. Er enthält hitzestabile Amatoxine und Phallotoxine, die weder durch Kochen noch durch Trocknen oder Einfrieren zerstört werden. Er verursacht den Großteil aller tödlichen Pilzvergiftungen weltweit.",
-          "confusion": "Der Gelbe Knollenblätterpilz (Amanita citrina) riecht nach rohen Kartoffeln, besitzt flockige Velumreste auf dem Hut und eine abgesetzte, gerandete Knolle ohne sackartige Scheide. Champignons (Agaricus) haben keine Scheide und ihre Lamellen verfärben sich rosa und später schokoladenbraun. Weiße Formen können mit dem Kegelhütigen Knollenblätterpilz (Amanita virosa) verwechselt werden. Grüne Täublinge wie der Frauentäubling (Russula cyanoxantha) oder der Grasgrüne Täubling (Russula aeruginea) besitzen brüchiges Fleisch und weder Ring noch Scheide.",
+          "description": "Ein tödlich giftiger, ektomykorrhizabildender Blätterpilz. Heimisch in ganz Europa und dem Mittelmeerraum bis nach Nordafrika und Kleinasien. In vielen Ländern weltweit (unter anderem in Nordamerika, Südafrika, Australien und Neuseeland) mit Eichen und anderen Laubbäumen eingeschleppt.",
+          "cap": "Der Hut ist 5–15 cm breit, anfangs eiförmig bis halbkugelig, später gewölbt bis flach. Die Farbe ist variabel, typischerweise olivgrün, gelbgrün oder bronzegrün, oft mit eingewachsenen dunkleren Radialfasern, kann aber auch sehr blass oder fast weiß sein. Die Huthaut ist bei Nässe leicht schmierig und meist kahl.",
+          "hymenium": "Die Lamellen sind weiß, frei, stehen dicht und bleiben auch bei voller Reife rein weiß.",
+          "stipe": "Der Stiel ist 8–15 cm lang und 1–2 cm dick, weißlich mit blass grünlicher oder gelblicher Zickzacknatterung. Er trägt oben eine hängende, weiße, dünnhäutige Manschette. Die Basis ist zu einer großen Knolle verdickt, die in einer weiten, lappigen, weißen Scheide (Volva) steckt.",
+          "flesh": "Das Fleisch ist weiß, unter der Huthaut blass grünlich. Junge Pilze riechen schwach honigartig bis künstlich süßlich, ältere Exemplare entwickeln einen aufdringlichen, süßlich-widerlichen Aasgeruch.",
+          "habitat": "Fruchtkörper erscheinen von Juli bis November vor allem in Laubwäldern und Parks unter Eichen, Buchen, Kastanien und Haselsträuchern, seltener in Nadelwäldern.",
+          "sporePrint": "Weiß. Die Sporen sind rundlich bis breit ellipsoid, glatt, etwa 8–11 × 7–9 μm groß und färben sich mit Jod blau (amyloid).",
+          "uses": "Tödlich giftig. Er enthält hitzestabile Amatoxine und Phallotoxine. Bereits geringste Mengen (etwa 30–50 g Frischpilz) führen nach einer Latenzzeit von 6 bis 24 Stunden zu schwerem Erbrechen und wässrigen Durchfällen, gefolgt von Leberversagen und Tod.",
+          "confusion": "Junge Fruchtkörper im Eistadium können mit Bovisten verwechselt werden. Ausgewachsene Exemplare werden fatalerweise mit essbaren Champignons (Agaricus-Arten) verwechselt, die jedoch rosafarbene bis schokoladenbraune Lamellen und keine Scheide an der Stielbasis besitzen. Grünhütige Täublinge wie der Frauentäubling (Russula cyanoxantha) und der Grasgrüne Täubling (Russula aeruginea) haben brüchiges Fleisch und besitzen weder Ring noch Scheide. Der Gelbe Knollenblätterpilz (Amanita citrina) riecht nach rohen Kartoffeln und hat eine abgesetzte Knolle.",
           "notes": "Rein weiße Fruchtkörper stellen eine Farbform dar. Pilz des Jahres 2019 in Deutschland."
     },
       en: {
@@ -5123,16 +5123,16 @@ export const CATALOG = [
           "notes": "Laji aiheuttaa vuosittain vakavia keskushermostomyrkytyksiä Keski- ja Etelä-Euroopassa."
     },
       de: {
-          "description": "Ein ektomykorrhizabildender Pilz in Laub- und Mischwäldern, besonders bei Buche und Eiche. In Mitteleuropa und im südlichen Europa verbreitet, nach Norden hin seltener. Er kommt auch in Westasien vor und wächst gelegentlich bei Nadelbäumen oder auf Trockenrasen.",
-          "cap": "Der Hut ist 5–12 cm breit, glänzend braun bis graubraun, von blass ockerfarben bis dunkelbraun variierend. Der Rand ist fein und deutlich gerieft. Auf der Oberfläche liegen zahlreiche rein weiße, kleine Hüllreste (Warzen), die bei Regen abgewaschen werden können.",
-          "hymenium": "Die Lamellen sind rein weiß, frei, dicht stehend und ziemlich breit.",
-          "stipe": "Der Stiel ist 6–12 cm lang, rein weiß, mit einem hängenden, ungerieften Ring im mittleren oder unteren Drittel, der im Alter oft schlaff herabhängt. Die stielknollige Basis steckt in einer charakteristischen knolligen Verdickung mit einer gerandeten Scheide, über der ein oder mehrere wulstige Riefengürtel (Bergsteigersöckchen) liegen.",
-          "flesh": "Das Fleisch ist weiß und rötet im Anschnitt nicht. Der Geruch ist rettichartig.",
-          "habitat": "Fruchtkörper erscheinen von August bis November in Laub- und Mischwäldern, vor allem unter Eichen und Buchen, seltener unter Fichten und Kiefern.",
-          "sporePrint": "Weiß. Die Sporen sind glatt, breit ellipsoid, 8–12 × 6,7–7,5 μm groß und inamyloid.",
-          "uses": "Giftig und deutlich toxischer als der Fliegenpilz. Er enthält Ibotensäure und Muscimol in hoher Konzentration und löst das Pantherina-Syndrom aus, das mit Delirium, Krämpfen und Koma einhergehen kann. Todesfälle kommen vor.",
-          "confusion": "Der Perlpilz (Amanita rubescens) rötet im Anschnitt und an verletzten Stellen, hat graurosa Hüllschuppen und einen gerieften Ring. Der Graue Wulstling (Amanita excelsa) besitzt graue, flächige Hüllfetzen, einen gerieften Ring und eine rundliche Knolle ohne abgesetzten Rand. Bei starkem Regen können die weißen Flocken abgewaschen sein, sodass der Hut kahl erscheint.",
-          "notes": "Im westlichen Nordamerika unter diesem Namen geführte braune Wulstlinge gehören anderen Arten an; die hier angegebenen Maße beziehen sich auf europäische Fruchtkörper."
+          "description": "Ein stark giftiger ektomykorrhizabildender Blätterpilz. Weit verbreitet in Laub- und Nadelwäldern Europas und Teilen Asiens. In Nordamerika unter diesem Namen geführte Funde gehören zu nah verwandten eigenständigen Arten.",
+          "cap": "Der Hut misst 4–11 cm im Durchmesser, ist anfangs halbkugelig, dann gewölbt bis verflacht. Die Farbe ist ockerbraun, nussbraun bis dunkelbraun. Auf der feucht leicht schmierigen Huthaut haften zahlreiche kleine, rein weiße, regelmäßig verteilte Velumflöckchen. Der Hutrand ist im Alter deutlich gerieft.",
+          "hymenium": "Die Lamellen sind weiß, frei, stehen gedrängt und besitzen eine fein flockige Schneide.",
+          "stipe": "Der Stiel ist 6–12 cm lang und 1–2 cm dick, weiß, zylindrisch, nach oben verjüngt. Die Stielmanschette (Ring) ist weiß, häutig, ungerieft und sitzt oft tief in der Stielmitte. Die Stielbasis endet in einer rundlichen Knolle, die oben von einem wulstigen, scharf abgesetzten Randsaum (Bergsteigersöckchen) umgeben ist, über dem meist ein oder zwei schmale Gürtelzonen liegen.",
+          "flesh": "Das Fleisch ist rein weiß und verfärbt sich bei Verletzung nicht. Es riecht schwach nach Rettich oder frischem Kartoffelkeller.",
+          "habitat": "Fruchtkörper erscheinen von Juli bis November einzeln oder in kleinen Gruppen in lichten Laub- und Nadelwäldern, gern auf sandigen oder sauren Böden bei Eichen, Buchen, Kiefern und Fichten.",
+          "sporePrint": "Weiß. Die Sporen sind breit ellipsoid, glatt, etwa 8,5–12 × 6,5–8,5 μm groß und färben sich mit Jod nicht blau.",
+          "uses": "Stark giftig. Er enthält wie der Fliegenpilz Ibotensäure und Muscimol, jedoch in weitaus höherer und unberechenbarerer Konzentration. Der Verzehr löst schwere zentralnervöse Vergiftungen mit Verwirrung, Rauschzuständen, Krämpfen und Koma aus.",
+          "confusion": "Der essbare Perlpilz (Amanita rubescens) unterscheidet sich sicher durch im Anschnitt rötendes Fleisch, grauweiße bis rötliche Velumreste und einen gerieften Ring. Der Graue Wulstling (Amanita excelsa) hat ungerieften Hutrand, graue Schuppen, gerieften Ring und rettichartigen Geruch, rötet aber nicht. Der Königsfliegenpilz (Amanita regalis) hat gelbliche Schuppen und eine gelbliche Schicht unter der Huthaut.",
+          "notes": "Im westlichen Nordamerika unter diesem Namen geführte braune Wulstlinge sind andere Arten; die hier angegebenen Maße beziehen sich auf europäische Fruchtkörper."
     },
       en: {
         description: "An ectomycorrhizal mushroom of deciduous woodland, especially beech, and of mixed woods with oak. It is a rare find in Britain and Ireland and much more frequent farther south in Europe. It is also recorded across western Asia, and it occurs less often with conifers and rarely in meadows.",
@@ -5927,16 +5927,16 @@ export const CATALOG = [
           "notes": "Lajiryhmän taksonomiaa on viime vuosina tarkennettu fylogeneettisillä tutkimuksilla."
     },
       de: {
-          "description": "Ein beliebter Frühlingspilz auf kalkhaltigen Böden. Im engeren Sinne handelt es sich um eine europäische Art, die auch aus China gemeldet ist. In Mitteleuropa gebietsweise verbreitet. Nordamerikanische Funde unter diesem Namen stellen andere Arten dar.",
-          "cap": "Der Hut ist 3–8 cm breit und 5–12 cm hoch, rundlich, eiförmig oder unregelmäßig wabenartig geformt und innen hohl. Die Fruchtschicht besteht aus unregelmäßigen Waben, die durch gewundene Leisten voneinander getrennt sind. Die Farbe reicht von blass cremegelb über ocker bis graugelb und bräunlich, wobei die Rippen meist heller als die Waben sind.",
-          "hymenium": "Die Fruchtschicht kleidet das Innere der Gruben und Waben aus. Als Schlauchpilz (Ascomycota) bildet er Schläuche (Asci), die jeweils acht einzellige Sporen enthalten.",
-          "stipe": "Der Stiel ist 4–10 cm lang und 1,5–4 cm dick, weißlich bis gelblich, mehlig-körnig bereift, zur Basis hin oft gefurcht oder verdickt und wie der Hut vollständig hohl. Hut und Stiel bilden einen durchgehenden Hohlraum.",
-          "flesh": "Das Fleisch ist weißlich bis blassocker, dünn, brüchig-wachsartig. Geruch und Geschmack sind sehr angenehm würzig.",
-          "habitat": "Fruchtkörper erscheinen im Frühjahr von April bis Juni. Er wächst in Auwäldern, an Flussufern, in kalkreichen Laubmischwäldern unter Eschen, Ulmen und Pappeln sowie auf alten Obstwiesen und gestörten Böden.",
-          "sporePrint": "Cremegelb bis ockergelblich. Die Sporen sind glatt, breit ellipsoid, etwa 18–24 × 11–14 μm groß.",
-          "uses": "Ein hervorragender Speisepilz von exquisitem Aroma, der besonders getrocknet an Würzkraft gewinnt. Roh ist er giftig und muss vor dem Verzehr gründlich durchgegart werden.",
-          "confusion": "Die Frühjahrs-Giftlorchel (Gyromitra esculenta) besitzt einen hirnartig gewundenen, rotbraunen Hut und mehrere getrennte Kammern im Inneren; sie ist lebensgefährlich giftig. Die Spitz-Morchel (Morchella elata) hat einen spitzeren, kegelförmigen Hut mit regelmäßigeren Längsrippen. Die Halbfreie Morchel (Morchella semilibera) besitzt einen Hut, der nur am oberen Drittel des Stiels angewachsen ist.",
-          "notes": "Es handelt sich um eine europäische Art, die auch aus China gemeldet ist."
+          "description": "Ein im Frühjahr fruchtender Schlauchpilz (Ascomycota). Heimisch in ganz Europa sowie in Teilen Asiens (unter anderem China). Er lebt saprotroph und kann auch fakultativ Mykorrhizen ausbilden.",
+          "cap": "Der hohle Hut (das Hütchen) ist 3–10 cm hoch und 3–7 cm breit, rundlich bis eiförmig. Die Oberfläche ist von einem netzartigen Muster aus tiefen, unregelmäßigen Waben (Alveolen) überzogen, die durch gewundene Rippen getrennt sind. Die Farbe reicht von blass gelblich über ocker bis graubraun. Die Rippen sind meist heller als die Waben.",
+          "hymenium": "Die Fruchtschicht kleidet das Innere der Waben aus. Schläuche (Asci) enthalten jeweils acht einzellige Askosporen.",
+          "stipe": "Der Stiel ist 3–8 cm lang und 1,5–4 cm dick, weißlich bis cremeocker, zylindrisch, oft an der Basis gefurcht und runzelig verdickt. Er ist innen vollständig hohl und geht nahtlos in den hohlen Hut über.",
+          "flesh": "Das Fleisch ist weißlich bis blass cremefarben, dünn, brüchig-wachsartig. Geruch und Geschmack sind sehr angenehm, aromatisch pilzig.",
+          "habitat": "Fruchtkörper erscheinen von April bis Juni in Auenwäldern, an Flussufern, in Gärten, auf Rindenmulch sowie unter Eschen, Ulmen und Obstbäumen auf basenreichen, kalkhaltigen Böden.",
+          "sporePrint": "Cremegelb bis ockerblass. Die Sporen sind glatt, breit ellipsoid, etwa 18–24 × 11–14 μm groß, mit feinen Tröpfchen an den Enden.",
+          "uses": "Ein hervorragender und hoch geschätzter Speisepilz. Er darf niemals roh verzehrt werden, da er Magen-Darm-Gifte enthält, die erst durch vollständiges Durchgaren oder Trocknen zerstört werden.",
+          "confusion": "Die giftige Frühjahrs-Giftlorchel (Gyromitra esculenta) hat einen hirnartig gewundenen, gefalteten (nicht wabig gekammerten) Hut und ist im Inneren unregelmäßig mehrkammerig hohl. Die Spitz-Morchel (Morchella elata) hat einen spitzkegeligen Hut mit regelmäßig parallel verlaufenden Längsrippen. Die Halbfreie Morchel (Morchella semilibera) hat einen nur im oberen Drittel am Stiel angewachsenen Hut.",
+          "notes": "Es handelt sich um eine europäische Art, die auch aus China gemeldet wird."
     },
       en: {
         description: "A spring mushroom of chalky woodland. In the strict sense it is European, and it is also reported from China. It is an infrequent find in Britain and Ireland, and it occurs through mainland Europe. North American fungi once placed under this name are other species.",
@@ -6786,16 +6786,16 @@ export const CATALOG = [
           "notes": "Lajin rihmasto pystyy lamauttamaan ja sulattamaan sukkulamatoja (nematodeja) typpiravinnon lähteeksi."
     },
       de: {
-          "description": "Ein holzzersetzender Pilz, der an Laubholz büschelig wächst. Weit verbreitet in den gemäßigten und subtropischen Wäldern der Welt. Das Myzel ist fähig, Fadenwürmer (Nematoden) zu lähmen und zu verdauen.",
-          "cap": "Der Hut ist 5–18 cm breit (selten bis 30 cm), muschel- oder spatelförmig, mit anfangs eingerolltem, später welligem Rand. Die Hutfarbe ist sehr variabel, von schiefergrau und blaugrau über braungrau bis dunkelbraun, im Alter oft aufhellend.",
-          "hymenium": "Die Lamellen sind weiß bis cremefarben, breit, stehen dicht und laufen weit am Stiel herab, wo sie oft netzartig verbunden sind.",
-          "stipe": "Der Stiel ist kurz, 1–4 cm lang und 1–2 cm dick, oft seitlich angesetzt oder fehlend, weißlich und an der Basis striegelig behaart. Fruchtkörper wachsen dachziegelartig übereinander.",
-          "flesh": "Das Fleisch ist weiß, saftig und fest, im Stiel zäher werdend. Der Geruch ist angenehm pilzig, mitunter schwach anisartig, der Geschmack mild.",
-          "habitat": "Fruchtkörper erscheinen vor allem im Spätherbst und Winter nach den ersten Kälteeinbrüchen an stehendem oder liegendem Totholz von Laubbäumen, besonders Rotbuche, Pappel und Weide.",
-          "sporePrint": "Weißlich mit zartem Flieder- oder Graustich. Die Sporen sind glatt, zylindrisch bis leicht nierenförmig, 8–12,5 × 3–4,5 μm groß.",
-          "uses": "Ein hervorragender Speisepilz, der weltweit in großem Maßstab kultiviert wird. Roh kann er Magen-Darm-Beschwerden verursachen und muss daher gegart werden.",
-          "confusion": "Der Rillstielige Seitling (Pleurotus cornucopiae) fruchtet im Sommer und besitzt tief herablaufende Rillen am Stiel. Der Taubenblaue Seitling (Pleurotus columbinus) gilt oft als Varietät. Der giftige Ohrförmige Weißseitling (Pleurocybella porrigens) wächst an Nadelholz, ist kleiner und rein weiß. Der Gelbstielige Muschelseitling (Sarcomyxa serotina) hat einen olivgrünlichen Hut und ockergelbe Lamellen.",
-          "notes": "Pleurotus columbinus ist eine blaugraue Form, die zuweilen als eigene Art betrachtet wird; Pleurotus floridanus wird getrennt geführt. Das Myzel fängt und verdaut Nematoden. Arten dieser Gattung enthalten Lovastatin, ein cholesterinsenkendes Statin."
+          "description": "Ein holzzersetzender Pilz aus der Gruppe der Blätterpilze, der in dichten Büscheln an lebendem oder totem Laubholz wächst. Heimisch und weit verbreitet in den gemäßigten und subtropischen Wäldern der Welt.",
+          "cap": "Der muschel- bis fächerförmige Hut wird 5–20 cm breit. Er ist anfangs gewölbt mit eingerolltem Rand, später flach und unregelmäßig gelappt. Die Huthaut ist glatt, feucht leicht schmierig. Die Farbe ist variabel und reicht von schiefergrau, blaugrau bis haselnussbraun, im Alter oft verblassend.",
+          "hymenium": "Die Lamellen sind weiß bis cremefarben, stehen dicht und laufen weit am Stiel herab, wo sie netzartig verflochten sind.",
+          "stipe": "Der Stiel ist kurz (1–4 cm) und 1–3 cm dick, meist seitlich angesetzt oder fehlend, weißlich, an der Basis striegelig behaart und oft mit den Nachbarstielen zu dichten Büscheln verwachsen.",
+          "flesh": "Das Fleisch ist weiß, saftig, im Alter im Stiel zäh und faserig. Der Geruch ist angenehm würzig, der Geschmack mild.",
+          "habitat": "Fruchtkörper erscheinen vor allem im Spätherbst und Winter nach ersten Kälteeinbrüchen von Oktober bis März an stehenden oder liegenden Laubhölzern (besonders Rotbuche, Weide, Pappel), selten an Nadelholz.",
+          "sporePrint": "Weiß bis zart lilagrau. Die Sporen sind glatt, zylindrisch-ellipsoid, etwa 7,5–11 × 3–4 μm groß.",
+          "uses": "Ein beliebter Speisepilz von gutem Geschmack, der weltweit in großem Maßstab kultiviert wird. Roh kann er Verdauungsbeschwerden hervorrufen und muss vor dem Verzehr gegart werden.",
+          "confusion": "Der giftige Ohrförmige Weißseitling (Pleurocybella porrigens) wächst an morschem Nadelholz, ist kleiner, rein weiß, stiellos und hat sehr dünnes Fleisch. Das Gelbstielige Muschelbröckling (Sarcomyxa serotina) besitzt einen gelben Stielansatz, olivgrüne Hutfarben und schmeckt oft bitter.",
+          "notes": "Der Taubenblaue Seitling (Pleurotus columbinus) ist eine blau-graue Form, die zuweilen als eigene Art geführt wird; Pleurotus floridanus wird getrennt gehalten. Das Myzel fängt und verdaut Nematoden (Fadenwürmer). Arten dieser Gattung enthalten Lovastatin, ein cholesterinsenkendes Statin."
     },
       en: {
         description: "A saprobic mushroom, sometimes weakly parasitic, on broadleaf wood. It occurs throughout Britain and Ireland and in most of mainland Europe, and it is widely recorded in much of Asia, including Japan, and in parts of North America. It is absent from the Pacific Northwest.",
@@ -7607,16 +7607,16 @@ export const CATALOG = [
           "notes": "Pohjois-Amerikassa lajiryhmästä on erotettu useita lajeja, kuten Laetiporus huroniensis ja Laetiporus cincinnatus."
     },
       de: {
-          "description": "Ein auffälliger Porling an lebendem und totem Laubholz, selten an Eibe. Weit verbreitet in ganz Europa und Nordamerika. Er lebt als Parasit und Saprotroph und verursacht im Kernholz eine intensive Braunfäule.",
-          "cap": "Die konsolen- bis fächerförmigen Hüte werden 10–40 cm breit und 3–12 cm dick und wachsen meist dachziegelig übereinander. Die Oberseite ist jung leuchtend schwefelgelb bis lachs- oder orangerot, samtig und saftig, im Alter verblassend und kreidig-brüchig werdend.",
-          "hymenium": "Die Unterseite trägt feine Röhren (1,5–4 mm lang) mit leuchtend schwefelgelben Poren (2–4 pro Millimeter), die im Alter blassgelb verblassen.",
-          "stipe": "Ein Stiel fehlt; die Fruchtkörper sitzen stiellos oder mit verschmälertem Ansatz direkt am Holz.",
-          "flesh": "Das Fleisch ist jung weich, saftig und gelblich-weiß, später trocken und bröckelig wie Kreide. Es riecht angenehm pilzig und schmeckt schwach säuerlich.",
-          "habitat": "Fruchtkörper erscheinen von Mai bis September an lebenden Stämmen oder Stümpfen von Laubbäumen, vor allem Eichen, Weiden, Pappeln, Obstbäumen und Robinien, seltener an Nadelholz.",
-          "sporePrint": "Weiß. Die Sporen sind breit ellipsoid bis eiförmig, 5–7 × 3,5–4,5 μm groß.",
-          "uses": "Jung und saftig ein guter Speisepilz, dessen Geschmack und Textur an Hühnerfleisch erinnern (engl. Chicken of the Woods). Er muss vor dem Verzehr gut durchgegart werden. An Eibe gewachsene Exemplare sind wegen möglicher Toxinaufnahme zu meiden. Manche Personen reagieren mit Unverträglichkeiten.",
-          "confusion": "Der Riesenporling (Meripilus giganteus) besitzt bräunliche Hüte und Poren, die bei Verletzung rasch schwärzen. In Nordamerika kommen nah verwandte Arten wie Laetiporus cincinnatus, Laetiporus huroniensis und Laetiporus gilbertsonii vor.",
-          "notes": "Laetiporus cincinnatus, Laetiporus huroniensis, Laetiporus gilbertsonii und Laetiporus montanus sind eigenständige Arten."
+          "description": "Ein auffälliger konsolenförmiger Porling an lebendem und totem Laubholz, bisweilen auch an Eibe. In weiten Teilen Großbritanniens und Irlands zerstreut bis lokal häufig, auch in Eibenwäldern. Derselbe Pilz oder sehr nahe Verwandte werden aus ganz Nordeuropa und in Nordamerika östlich der Rocky Mountains gemeldet.",
+          "cap": "Die einzelnen Hüte messen typischerweise 10–40 cm in der Breite (gelegentlich 5–60 cm) und 3–12 cm in der Dicke. Junge Hüte sind weich und schwammig, mit breiten, welligen Rändern, die mit dem Alter dünner und blasser werden. Die Farbe reicht von leuchtend orange und lachs-orange bis dottergelb oder blass cremegelb; alte Hüte verblassen zu gelbbraun oder weißlich.",
+          "hymenium": "Die Röhren sind kurz, etwa 1,5–4 mm lang. Die Poren sind rundlich bis oval, typischerweise zwei bis vier pro Millimeter, und leuchtend schwefelgelb (im Alter zu blassgelb verblassend).",
+          "stipe": "Ein Stiel fehlt. Die Konsolen wachsen direkt aus dem Stamm heraus oder verschmälern sich zu einer seitlichen Basis.",
+          "flesh": "Das Fleisch ist im feuchten Zustand weiß bis gelborange und im trockenen Zustand blasser. Es riecht pilzartig und schmeckt schwach säuerlich. Frisch ist es saftig und kann einen gelblichen Saft absondern. Später wird es trocken, bröckelig und kreidig.",
+          "habitat": "Fruchtkörper erscheinen hauptsächlich im Sommer und Herbst (in Europa von April bis November, in Nordamerika von Juni bis Oktober). Er wächst an stehenden und gefallenen Stämmen sowie an starken Ästen, vor allem von Eiche, Edelkastanie, Buche und gelegentlich Kirsche, Weide und Eibe. Er ernährt sich von totem oder absterbendem Holz und parasitiert lebende Bäume, wobei er eine braune Kernfäule (Würfelbruch) verursacht.",
+          "sporePrint": "Weiß. Die Sporen sind ellipsoid bis breit eiförmig, 5–7 × 3,5–4,5 μm groß.",
+          "uses": "Junge, saftige Fruchtkörper sind ein guter Speisepilz. Sie werden in Scheiben geschnitten, mit Öl bepinselt und paniert gebraten oder in Butter sautiert. Textur und Geschmack werden mit Hühnerfleisch verglichen. Eine Minderheit von Personen reagiert mit Übelkeit oder Magen-Darm-Beschwerden. An Eibe oder Robinie gewachsene Fruchtkörper werden gemieden, da diese Bäume Giftstoffe enthalten. Er darf keinesfalls roh verzehrt werden, und ältere Fruchtkörper sind zäh und holzig.",
+          "confusion": "Blasse Fruchtkörper können dem Riesenporling (Meripilus giganteus) ähneln, dessen Poren bei Druck schwärzen. In Nordamerika wächst Laetiporus cincinnatus an der Basis von Eichen und besitzt einen blass lachs-orangen Hut und weiße Poren, Laetiporus persicinus bräunt bei Verletzung, Laetiporus huroniensis wächst an Nadelbäumen wie Hemlocktannen und Laetiporus gilbertsonii wächst im Westen an Eukalyptus und Eichen. Schwere Magen-Darm-Beschwerden nach Mahlzeiten wurden vor allem mit den nadelholz- und eukalyptusbewohnenden Arten in Verbindung gebracht.",
+          "notes": "Der globale Erhaltungsstatus ist GNR (nicht eingestuft), zuletzt überprüft im Jahr 1993. Laetiporus cincinnatus, Laetiporus huroniensis, Laetiporus gilbertsonii und Laetiporus montanus sind eigenständige Arten."
     },
       en: {
         description: "A bracket fungus of living and dead broadleaved trees, and sometimes of yew. It is infrequent in many parts of Britain and Ireland and locally common, including in yew woodland. The same fungus, or species very close to it, is reported across northern Europe and, in North America, east of the Rocky Mountains.",
@@ -8471,16 +8471,16 @@ export const CATALOG = [
           "notes": "Ruskotatti kerää herkästi ympäristöstä raskasmetalleja ja radioaktiivista cesium-137-isotooppia."
     },
       de: {
-          "description": "Ein weit verbreiteter ektomykorrhizabildender Röhrling in Nadel- und Mischwäldern. Heimisch in weiten Teilen Europas sowie in Nordamerika und Asien. Er bevorzugt saure, nährstoffarme Böden und meidet Kalkböden.",
-          "cap": "Der Hut misst typischerweise 5–15 cm im Durchmesser, ist kastanien- bis maronenbraun oder dunkelbraun, anfangs halbkugelig, später polsterförmig gewölbt. Die Oberfläche ist jung samtig und glättet sich im Alter; bei feuchtem Wetter wird sie klebrig-schmierig.",
-          "hymenium": "Die Röhren sind 1–2 cm lang, cremeweiß bis blassgelb, später olivgelblich. Die eckigen Poren (1–3 pro Millimeter) sind cremefarben bis gelbgrün und bläuen bei Druck oder Verletzung intensiv blaugrün.",
-          "stipe": "Der Stiel ist 4–15 cm lang und 1–4 cm dick, zylindrisch bis leicht keulig, längsfaserig bräunlich gestreift auf blasserem Grund, jedoch ohne echtes Netz. An der Stielbasis haftet weißes Myzel.",
-          "flesh": "Das Fleisch ist weißlich bis blassgelb und blaut im Anschnitt vor allem über den Röhren und an der Stielspitze schwach bis mäßig. Der Geruch ist schwach fruchtig, der Geschmack mild.",
-          "habitat": "Fruchtkörper erscheinen vom Spätsommer bis in den Spätherbst (August bis November) einzeln oder gesellig unter Kiefern, Fichten und anderen Nadelbäumen, seltener unter Buchen und Eichen.",
-          "sporePrint": "Olivbraun. Die Sporen sind spindelig-ellipsoid, glatt, etwa 11–15 × 4–5,5 μm groß.",
-          "uses": "Ein hervorragender und geschätzter Speisepilz, der sich vorzüglich zum Braten, Schmoren und Trocknen eignet. Ältere Exemplare werden leicht schwammig.",
-          "confusion": "Der Gemeine Steinpilz (Boletus edulis) hat ein deutliches weißes Netz am Stiel und seine Poren blauen nicht. Die Ziegenlippe (Xerocomus subtomentosus) besitzt größere, leuchtend gelbe Poren, die kaum blauen, und einen filzigen Hut. Der Bitterröhrling (Tylopilus felleus) hat ein dunkles Stielnetz, rosa Poren und schmeckt bitter.",
-          "notes": "Eine Beurteilung aus dem Jahr 2019 stuft die Art als nicht gefährdet (Least Concern) mit stabilem Bestand ein. Fruchtkörper können Schwermetalle sowie radioaktives Cäsium-137 anreichern."
+          "description": "Ein ektomykorrhizabildender Pilz in Nadel- und Mischwäldern. Eine Beurteilung aus dem Jahr 2019 führt ihn als heimisch in weiten Teilen Europas sowie in Kanada, den Vereinigten Staaten und Russland. In Großbritannien und Irland ist er häufig. Weitere Nachweise liegen aus der Türkei, Jordanien, China, Taiwan und Zentralmexiko vor.",
+          "cap": "Der Hut misst typischerweise 5–15 cm im Durchmesser (in nordamerikanischen Aufsammlungen 3–9 cm). Er ist maronenbraun, kastanienbraun, dunkelbraun oder rötlich braun, jung fein filzig oder samtig und später glatt. Bei feuchtem Wetter wird er klebrig oder schmierig und trocknet rasch ab. Der Rand ist schmal und überhängend, und die Huthaut lässt sich nur schwer vom Fleisch abziehen.",
+          "hymenium": "Die Röhren sind bis zu 1–2 cm lang, anfangs blassgelb, später grüngelb bis oliv werdend und blauen im Schnitt meist. Die Poren sind eckig, etwa eins bis drei pro Millimeter, cremefarben bis blassgelb, später olivgelb, und verfärben sich bei reifen Fruchtkörpern auf Druck trüb blau oder blaugrün.",
+          "stipe": "Der Stiel ist 4–15 cm lang (in Nordamerika bis zu 18 cm) und 1–4 cm dick. Er ist mehr oder weniger zylindrisch, oft leicht gebogen oder nahe der Basis verdickt, mit weißem Basismyzel und ohne Ring. Die Oberfläche ist an der Spitze blassgelb und darunter braun bis rötlich braun, mit feinen bräunlichen Längsfasern auf blasserem Grund anstelle eines erhabenen Netzes überzogen.",
+          "flesh": "Das Fleisch ist weiß bis blassgelb, direkt unter der Huthaut weinrötlich-rosa bis bräunlich überhaucht, und verfärbt sich im Schnitt über den Röhren und an der Stielspitze meist schwach blau oder blaugrün. Der Geruch ist unauffällig oder leicht fruchtig, der Geschmack mild.",
+          "habitat": "Fruchtkörper erscheinen im Spätsommer und Herbst, in Großbritannien und Irland von August bis November und in Nordamerika von Juli bis November. Sie wachsen einzeln oder zerstreut auf dem Boden oder auf morschen moosigen Stümpfen unter Kiefern, Fichten, Hemlocktannen und anderen Nadelbäumen, seltener unter Buchen, Eichen, Edelkastanien und Birken. Kalkböden werden gemieden.",
+          "sporePrint": "Olivbraun. Die Sporen sind spindelig-ellipsoid (boletusförmig) und glatt, etwa 11–15 × 4–5,5 μm groß.",
+          "uses": "Ein hervorragender Speisepilz von hoher Qualität, der Boletus edulis nahesteht und für dieselben Rezepte geeignet ist. Die Fruchtkörper sind seltener von Maden befallen als viele andere Röhrlinge und lassen sich in dünnen Scheiben sehr gut trocknen. Auf Märkten in Europa und Zentralmexiko wird er regelmäßig gehandelt.",
+          "confusion": "Boletus edulis hat bisweilen einen kastanienbraunen Hut, sein blasser Stiel trägt jedoch ein erhabenes weißes Netz und seine Poren blauen nicht. Aureoboletus projectellus ist kräftiger und besitzt einen grob genetzten Stiel. Austroboletus gracilis blaut nicht und seine Poren werden rosa. Die Ziegenlippe (Xerocomus subtomentosus) hat einen trockenen, samtigen Hut und weitere gelbe Poren, die selten blauen. Xerocomellus zelleri im westlichen Nordamerika und Hortiboletus bubalinus sind ebenfalls ähnlich.",
+          "notes": "Eine Beurteilung aus dem Jahr 2019 stuft die Art als nicht gefährdet (Least Concern) mit stabilem Bestand ein. Fruchtkörper können Quecksilber, Kobalt und Nickel anreichern, und ein Pigment im Hut (Norbadion A) reichert radioaktives Cäsium-137 an."
     },
       en: {
         description: "An ectomycorrhizal mushroom of coniferous and mixed woods. A 2019 assessment lists it as native across much of Europe and in Canada, the United States, and Russia. It is common in Britain and Ireland. Further records are reported from Turkey, Jordan, China, Taiwan, and central Mexico.",
@@ -9339,16 +9339,15 @@ export const CATALOG = [
           "notes": "Lajin rihmasto muodostaa maassa mustia kengännauhamaisia rihmastojänteitä (ritsomorfeja) ja tuottaa pimeässä bioluminesenssia."
     },
       de: {
-          "description": "Ein gefürchteter Parasit an lebenden Laubbäumen und Saprotroph an totem Holz. Weit verbreitet in Europa und Nordamerika. Das im Holz wachsende Myzel zeigt Biolumineszenz (Leuchtholz), während die Fruchtkörper selbst nicht leuchten.",
-          "cap": "Der Hut ist 3,5–15 cm breit, honiggelb bis ockerbraun oder rötlich-braun, oft mit dunklerer Mitte. Anfangs halbkugelig, später ausgebreitet mit gewelltem Rand. Der Hut ist vor allem zur Mitte hin mit feinen dunklen Schüppchen besetzt, die im Alter abgewischt werden können.",
-          "hymenium": "Die Lamellen sind angewachsen bis leicht herablaufend, weißlich bis blass fleischfarben, im Alter bräunlich gefleckt.",
-          "stipe": "Der Stiel ist 6–20 cm lang und 0,5–2,5 cm dick, zähfaserig, an der Basis oft büschelig verwachsen, gelblich-braun bis oliv-schwarzbraun. Im oberen Drittel sitzt ein beständiger, dicker, weißer, unterseits gelblich beflockter Ring.",
-          "flesh": "Das Fleisch ist weißlich, fest, im Stiel zähfaserig. Der Geruch ist angenehm, der Geschmack anfangs mild, hinterlässt jedoch ein kratzendes Gefühl im Rachen.",
-          "habitat": "Fruchtkörper erscheinen von September bis November büschelig an Stümpfen, Wurzeln und Stämmen verschiedener Laubbäume, besonders Eichen und Buchen.",
-          "sporePrint": "Weiß bis blass cremefarben. Die Sporen sind ellipsoid, glatt, 7–9 × 5–6 μm groß und inamyloid.",
-          "uses": "Bedingt essbar. Er ist roh giftig und verursacht schwere Magen-Darm-Störungen. Er muss mindestens 15–20 Minuten gründlich gekocht werden, wobei das Kochwasser weggeschüttet wird. Nur die Hüte junger Pilze verwenden.",
-          "confusion": "Andere Hallimasch-Arten wie Armillaria ostoyae (an Nadelholz mit dunkleren Schuppen) und Armillaria gallica sind ähnlich. Das Gifthäubling (Galerina marginata) wächst ebenfalls an Holz, hat braunen Sporenstaub, einen flüchtigen Ring und ist tödlich giftig. Der Grünblättrige Schwefelkopf (Hypholoma fasciculare) hat grünliche Lamellen und schmeckt bitter.",
-          "notes": "Das aktive Myzel im faulenden Holz erzeugt Biolumineszenz."
+          "description": "Ein forstwirtschaftlich bedeutsamer Pilz, der als Parasit lebende Laubbäume befällt und geschwächte Bäume oder Totholz saprotroph abbaut. Heimisch in weiten Teilen Europas und Teilen Asiens. In Südafrika wurde er mit eingeführten Pflanzen eingeschleppt. Ähnliche Hallimasch-Arten in Nordamerika wurden früher unter diesem Namen geführt.",
+          "cap": "Der Hut ist 3–15 cm breit, jung halbkugelig mit eingerolltem Rand, später gewölbt bis flach ausgebreitet. Die Grundfarbe variiert von honiggelb, ockerbraun bis olivgelb. Auf der Oberfläche sitzen vor allem in der Hutmitte feine, vergängliche, gelbbraune bis dunkelbraune Schüppchen. Der Rand ist im Alter oft leicht gerieft.",
+          "hymenium": "Die Lamellen sind weißlich bis blass fleischfarben, im Alter gelblich bis rostfleckig, stehen dicht und sind am Stiel breit angewachsen oder laufen mit einem Zahn kurz herab.",
+          "stipe": "Der Stiel ist 5–15 cm lang und 1–2 cm dick, schlank, elastisch, vollreif zäh-faserig, an der Basis oft keulig oder verjüngt. Die Farbe ist weißlich-gelblich, zur Basis hin bräunlich nachdunkelnd. Er trägt im oberen Drittel einen deutlichen, wattig-häutigen, weißlichen Ring mit auffälligen gelben Flocken an der Unterseite.",
+          "flesh": "Das Fleisch ist weißlich, im Stiel zäh und faserig. Der Geruch ist angenehm pilzig, der Geschmack mild, im Abgang oft leicht herb oder kratzend.",
+          "habitat": "Fruchtkörper erscheinen von September bis November meist in dichten, oft riesigen Büscheln an Stämmen, Wurzeln oder Stümpfen von Laubbäumen (vor allem Eichen, Buchen, Obstbäumen), seltener an Nadelholz.",
+          "sporePrint": "Weiß bis blass cremefarben. Die Sporen sind ellipsoid, glatt, etwa 7–9 × 5–6 μm groß und färben sich mit Jod nicht blau.",
+          "uses": "Gekocht ein beliebter Speisepilz, der jedoch gründlich gegart werden muss (mindestens 15–20 Minuten kochen und das Kochwasser weggießen). Roh oder ungenügend gegart ist er giftig und verursacht schwere Magen-Darm-Störungen. Manche Personen vertragen ihn auch durchgegart nicht. Nur junge Hüte verwenden, da die Stiele zäh sind.",
+          "confusion": "Der Dunkle Hallimasch (Armillaria ostoyae) wächst vor allem an Nadelholz, hat einen dunkler braunen Hut mit dauerhaften dunklen Schuppen und einen Ring ohne gelbe Flocken. Der Keulige Hallimasch (Armillaria cepistipes) ist blasser und wächst meist an morschem Laubholz. Das Gemeine Stockschwämmchen (Kuehneromyces mutabilis) hat braunes Sporenpulver und einen unter dem Ring schuppigen Stiel. Der giftige Grünblättrige Schwefelkopf (Hypholoma fasciculare) hat grünliche Lamellen und schmeckt intensiv bitter."
     },
       en: {
         description: "A parasitic mushroom on living broadleaf wood, and a saprobe on stumps and dead roots. It is common in Britain and Ireland and through much of mainland Europe, rarer in Scandinavia and more frequent farther south, and it is recorded in eastern and southeastern North America and in California.",
@@ -10197,16 +10196,16 @@ export const CATALOG = [
           "notes": "Itiöemän itsesulaminen (autolyysi) vapauttaa itiöt mustepisaroina."
     },
       de: {
-          "description": "Ein saprotropher Pilz auf nährstoffreichen Böden, Rasenflächen und Wegrändern. Kosmopolitisch auf der Nord- und Südhalbkugel verbreitet. Die reifen Lamellen zerfließen durch Autolyse tintenartig zu einer schwarzen Flüssigkeit.",
-          "cap": "Der Hut ist 5–15 cm hoch und 3–6 cm breit, anfangs walzenförmig geschlossen, dann glockig. Er ist weiß, mit abstehenden zottigen Schuppen besetzt, die zur Spitze hin ockerbraun getönt sind. Reife Hüte schwärzen vom Rand her und zerfließen rasch.",
-          "hymenium": "Die Lamellen stehen sehr dicht, sind frei, anfangs rein weiß, färben sich über rosa zu tiefschwarz und zerfließen zusammen mit dem Hutrand zu schwarzer Tinte.",
-          "stipe": "Der Stiel ist 10–25 cm lang und 1–2 cm dick, weiß, hohl, an der Basis leicht verdickt, mit einem dünnen, verschieblichen weißen Ring, der bald abfällt.",
-          "flesh": "Das Fleisch ist weiß, im Hut sehr zart und zerbrechlich. Geruch und Geschmack sind angenehm mild.",
-          "habitat": "Fruchtkörper erscheinen von Mai bis November auf Fettwiesen, Parkrasen, Gärten, Schotterwegen und Ruderalstellen.",
-          "sporePrint": "Schwarz. Die Sporen sind ellipsoid, glatt, mit auffälliger Keimpore, etwa 10–14 × 6,5–8,5 μm groß.",
-          "uses": "Ein hervorragender Speisepilz, solange die Lamellen noch vollkommen rein weiß sind. Er muss nach dem Sammeln sehr rasch verarbeitet werden, da der Tintenzerfall auch nach der Ernte fortschreitet. Die Art enthält kein Coprin.",
-          "confusion": "Der Faltentintling (Coprinopsis atramentaria) besitzt einen graubraunen, kahlen, längsgerillten Hut, enthält Coprin und führt in Verbindung mit Alkohol zu schweren Vergiftungen (Coprinus-Syndrom).",
-          "notes": "Er reichert Schwermetalle an, insbesondere Quecksilber. Pilz des Jahres 2024 in Deutschland."
+          "description": "Ein saprotropher Blätterpilz auf nährstoffreichen Böden. Weit verbreitet und häufig in ganz Europa, Nordamerika und Teilen Asiens; auch auf der Südhalbkugel (unter anderem in Australien und Neuseeland) vorkommend.",
+          "cap": "Der Hut ist 5–15 cm hoch (gelegentlich bis 20 cm) und 3–8 cm breit. Er ist jung zylindrisch bis eiförmig, schließt den Stiel eng ein und öffnet sich später zu einer schmalen Glocke. Die Huthaut ist weiß mit einem blassbräunlichen Scheitel und reißt in große, abstehende, wollig-fransige Schuppen auf. Vom unteren Rand her verflüssigt sich der Hut bei Reife durch Autolyse tintenartig schwarz, bis nur noch ein kleiner Scheibenrest auf der Stielspitze verbleibt.",
+          "hymenium": "Die Lamellen stehen extrem dicht und sind frei bis schmal angewachsen. Sie sind anfangs rein weiß, färben sich vom Stielansatz und vom Rand her rosa und schließlich schwarz, bevor sie zu einer tintenartigen sporenhaltigen Flüssigkeit zerfließen. Pleurozystiden fehlen.",
+          "stipe": "Der Stiel ist 10–30 cm lang (ausnahmsweise bis 40 cm) und 1–2,5 cm dick, zylindrisch, nach oben leicht verjüngt, glatt, weiß, hohl und brüchig. Im Hohlraum hängt ein lockerer Faserstrang. Er trennt sich leicht vom Hut. Ein schmaler, weißer, verschiebbarer Ring sitzt im unteren Bereich, wird oft durch herabfallende Sporen geschwärzt oder rutscht herab.",
+          "flesh": "Das Fleisch ist weiß, dünn und zart. Geruch und Geschmack sind mild und sehr angenehm pilzig.",
+          "habitat": "Fruchtkörper erscheinen von April bis November in Europa sowie im Sommer und Herbst in Nordamerika, besonders reichlich nach Regenfällen. Sie wachsen einzeln, in Gruppen oder großen Hexenringen auf Rasenflächen, Parkwiesen, Wegrändern, frisch aufgeschüttetem Boden und Kompost.",
+          "sporePrint": "Schwarz bis braunschwarz. Die Sporen sind glatt, ellipsoid, etwa 9–13 × 6,5–9,5 μm groß, mit deutlichem, zentralem bis leicht exzentrischem Keimporus.",
+          "uses": "Ein jung, solange die Lamellen noch rein weiß sind, hervorragender und delikater Speisepilz. Er muss nach dem Sammeln rasch verarbeitet werden, da der Tintenzerfall auch nach der Ernte rasch fortschreitet. Im Gegensatz zum Falten-Tintling enthält dieser Pilz kein Coprin und kann gefahrlos zusammen mit Alkohol genossen werden.",
+          "confusion": "Junge Fruchtkörper des Specht-Tintlings (Coprinopsis picacea) können ähnlich sehen, haben jedoch eine dunkelbraune Huthaut mit weißen Velumresten und sind giftig. Der Falten-Tintling (Coprinopsis atramentaria) ist kleiner, grau und glatt gefurcht und führt mit Alkohol zur Vergiftung. In Nordamerika wurden ungeöffnete Fruchtkörper mit dem giftigen Chlorophyllum molybdites verwechselt; der Wüstenpilz Podaxis pistillaris ist von ähnlicher Gestalt.",
+          "notes": "Während die meisten Tintlinge molekularbiologisch in die Familie Psathyrellaceae (Coprinopsis, Coprinellus, Parasola) überführt wurden, verbleibt diese Art in der Familie Agaricaceae. Eine Beurteilung aus dem Jahr 2019 (mit Berichtigung 2022) stuft die Art als nicht gefährdet (Least Concern) ein. Das Myzel kann Bodennematoden fangen und abbauen. Pilz des Jahres 2024 in Deutschland."
     },
       en: {
         description: "A saprobic mushroom of meadows, lawns, path edges, and open woodland. It is widespread and common in Britain and Ireland and through mainland Europe, from Scandinavia to the Mediterranean, and it also occurs in North America. It appears to have been introduced to Australia, New Zealand, and Iceland.",
@@ -11045,16 +11044,15 @@ export const CATALOG = [
           "notes": "Suomessa korvasieni on perinteinen kauppasieni, jonka myyntiin ja käsittelyyn liittyy lakisääteiset varoitusmerkinnät."
     },
       de: {
-          "description": "Ein Frühlingspilz auf sandigen Böden unter Kiefern. Verbreitet in den borealen und gemäßigten Regionen Europas und Nordamerikas. Als Schlauchpilz bildet er Sporen in Schläuchen (Asci).",
-          "cap": "Der Hut ist 4–10 cm breit und 3–8 cm hoch, unregelmäßig rundlich, hirnartig gefaltet und gewunden, rotbraun, kastanienbraun bis dunkelbraun, innen gekammert-hohl.",
-          "hymenium": "Die Fruchtschicht überzieht die Außenseite der Hirnwindungen. In den Schläuchen reifen jeweils acht glatte, elliptische Sporen heran.",
-          "stipe": "Der Stiel ist 3–6 cm lang und 1,5–3 cm dick, runzelig-gefurcht, weißlich bis blass fleischfarben, innen hohl oder schwammig-gekammert.",
-          "flesh": "Das Fleisch ist weißlich, wachsartig, dünn und brüchig. Der Geruch ist angenehm würzig.",
-          "habitat": "Fruchtkörper erscheinen im Frühjahr von März bis Mai auf sandigen Böden in Kiefernwäldern, auf Kahlschlägen und an Wegrändern.",
-          "sporePrint": "Hellgelb bis ockerlich. Die Sporen sind ellipsoid, glatt, mit zwei Öltröpfchen, 18–22 × 9–12 μm groß.",
-          "uses": "Tödlich giftig. Sie enthält das Zellgift Gyromitrin, das im Körper zu Monomethylhydrazin abgebaut wird. Auch nach Abkochen oder Trocknen verbleiben gefährliche Restmengen, und die entstehenden Dämpfe beim Kochen sind giftig.",
-          "confusion": "Die Speise-Morchel (Morchella esculenta) hat regelmäßige Waben mit deutlichen Rippen, einen einzelnen durchgehenden Hohlraum und einen zylindrischeren Stiel. Die Bischofsmütze (Gyromitra infula) fruchtet im Herbst. Die Riesen-Lorchel (Gyromitra gigas) hat einen helleren, gelbbraunen Hut.",
-          "notes": "Gyromitrin und seine Abbauprodukte bleiben auch nach Kochen oder Trocknen gefährlich."
+          "description": "Ein im Frühjahr fruchtender Schlauchpilz sandiger Nadelwälder. Weit verbreitet in Europa, wo er im Gebirge häufiger ist als im Flachland, sowie in weiten Teilen Nordamerikas nachgewiesen. In Großbritannien und Irland wird er selten und nur sehr lokal gefunden.",
+          "cap": "Der Hut ist 5–15 cm breit und 4–8 cm hoch. Er ist rotbraun, kastanienbraun bis dunkelbraun, unregelmäßig lappig gewunden und erinnert an die Windungen eines Gehirns. Er ist meist breiter als hoch. Durch die hohlen Faltungen entstehen im Inneren unregelmäßige Hohlkammern.",
+          "hymenium": "Die Fruchtschicht überzieht die Außenseite des Hutes. Sie ist anfangs glatt und wird später tief runzelig und faltig. Der Rand ist umgebogen und stellenweise mit dem Stiel verwachsen, nur jung selten stellenweise frei.",
+          "stipe": "Der Stiel ist cremeweiß, brüchig, 2–5 cm hoch und 2–3 cm dick. In seinem Inneren verlaufen mehrere unregelmäßige, röhrenartige Hohlräume.",
+          "flesh": "Geruch und Geschmack sind unauffällig.",
+          "habitat": "Fruchtkörper erscheinen von April bis Juli, oft direkt nach der Schneeschmelze. Er wächst auf sauren, sandigen Böden in Nadelwäldern, besonders unter Kiefern und bisweilen unter Espen, gern an gestörten Stellen wie Wegrändern oder Kahlschlägen.",
+          "sporePrint": "Gelblich-ockerfarben, bisweilen auch als weißlich beschrieben. Die Sporen sind glatt, ellipsoid, hyalin, 18–23 μm (gelegentlich bis 25 μm) lang und 10–12,5 μm breit, meist mit zwei Öltropfen. Die Schläuche sind zylindrisch, achtsporig und messen 180–220 × 15–17 μm.",
+          "uses": "Roh oder unzureichend zubereitet tödlich giftig. Er enthält das Gift Gyromitrin, das im Körper zu hochgiftigem Monomethylhydrazin (MMH) hydrolysiert wird und Leber, Zentralnervensystem und rote Blutkörperchen zerstört. Auch wenn der Pilz in Skandinavien und Osteuropa nach mehrfachem Abkochen mit Weggießen des Wassers traditionell gegessen wurde, entfernt das Kochen die Gifte nicht zuverlässig; zudem können die giftigen Dämpfe beim Kochen schwere Vergiftungen auslösen, und das Gift kumuliert im Körper.",
+          "confusion": "Die Speise-Morchel (Morchella esculenta) hat einen wabenartig gekammerten Hut mit einer einzigen durchgehenden Hohlkammer und meist einen längeren Stiel. Die Herbst-Lorchel (Helvella crispa) besitzt einen gelblichweißen, sattelförmigen Hut und einen tief gefurchten Stiel. Die Riesen-Lorchel (Gyromitra gigas), die Bischofsmütze (Gyromitra infula) und Gyromitra ambigua sind ähnlich; die beiden letztgenannten sind giftig."
     },
       en: {
         description: "A spring mushroom of sandy coniferous woodland. It is widespread in Europe, where it is more frequent in the mountains than in the lowlands, and it is also recorded across much of North America. In Britain and Ireland it is rarely recorded and very localised.",
@@ -11866,16 +11864,16 @@ export const CATALOG = [
           "notes": "Malton hidas punertuminen on paras tuntomerkki myrkyllisiä sukulaislajeja vastaan."
     },
       de: {
-          "description": "Ein sehr häufiger ektomykorrhizabildender Wulstling in Laub- und Nadelwäldern auf sauren Böden. Weit verbreitet in ganz Europa und Teilen Asiens.",
-          "cap": "Der Hut ist 5–20 cm breit, anfangs halbkugelig, dann gewölbt bis flach. Die Farbe reicht von fleischrötlich bis rötlichbraun oder graubraun. Auf der Oberfläche sitzen unregelmäßige graurötliche bis schmutzigweiße Schuppen (Hüllreste).",
-          "hymenium": "Die Lamellen sind weiß, dicht stehend, frei, im Alter oder bei Berührung typisch weinrötlich fleckend.",
-          "stipe": "Der Stiel ist 7–15 cm lang und 1–2 cm dick, weißlich, unterhalb des Rings rötlich-bräunlich überlaufen. Der hängende, breite Ring ist auf der Oberseite deutlich längsgerieft. Die knollige Basis ist ohne Scheide und rötet an Madengängen.",
-          "flesh": "Das Fleisch ist weiß und verfärbt sich bei Verletzung oder im Anschnitt langsam charakteristisch weinrot bis fleischrötlich. Geruch unauffällig.",
-          "habitat": "Fruchtkörper erscheinen von Juni bis Oktober in Nadel- und Laubwäldern, besonders unter Fichten, Kiefern, Buchen und Eichen.",
-          "sporePrint": "Weiß. Die Sporen sind glatt, breit ellipsoid, 8–9 × 5–5,5 μm groß und amyloid.",
-          "uses": "Essbar, aber nur gut durchgegart! Roh enthält er hitzelabile Hämolysine, die rote Blutkörperchen zerstören. Er darf keinesfalls roh verzehrt werden.",
-          "confusion": "Der hochgiftige Pantherpilz (Amanita pantherina) hat rein weiße Hüllreste, einen ungerieften Ring, eine gerandete Knolle mit Scheidenwülsten und rötet niemals im Fleisch. Der Graue Wulstling (Amanita excelsa) hat weißes, unveränderliches Fleisch und riecht nach Rettich.",
-          "notes": "Eine Form hat einen schwefelgelben Ring und ist ansonsten identisch."
+          "description": "Ein ektomykorrhizabildender Blätterpilz in Laub- und Nadelwäldern, oft in kleinen Gruppen auf mageren, sauren Böden. Er ist in Großbritannien, Irland und auf dem europäischen Festland sehr häufig und in Europa und Asien heimisch. In Südafrika wurde er vermutlich mit gepflanzten Bäumen eingeschleppt. Nordamerikanische Nachweise werden als eigenständige Arten abgetrennt.",
+          "cap": "Der Hut ist 5–20 cm breit (einzelne reife Hüte messen mitunter nur 2,5 cm). Die Farbe reicht von fast weiß über fleischrosa und rotbraun bis fast schwärzlich braun, oft schmutzig bräunlich rosa. Auf der Huthaut haften unregelmäßige grauweiße bis bräunliche Reste des Velum universale, die bei starkem Regen abgewaschen werden können. Der Hut ist anfangs halbkugelig, flacht ab und wird bisweilen leicht trichterförmig.",
+          "hymenium": "Die Lamellen sind weiß, gedrängt stehend, frei oder schmal angewachsen. Bei älteren Fruchtkörpern weisen sie oft rötliche oder rostfarbene Flecken auf und röten bei Berührung.",
+          "stipe": "Der Stiel ist 7–15 cm lang und 1–2 cm dick, weißlich oberhalb des Rings und rötlich braun darunter, oft mit weinroten Flecken. Ein breiter, hängender, häutiger Ring ist auf der Oberseite deutlich längsgerieft und oft eingerissen. Die Stielbasis ist knollig verdickt, besitzt jedoch keine abgesetzte Scheide und bildet keine Ringwülste aus. Der Stiel wird im Alter hohl.",
+          "flesh": "Das Fleisch ist weiß und verfärbt sich bei Verletzung oder im Madenfraß charakteristisch weinrot bis fleischrötlich. Frische Fruchtkörper riechen und schmecken unauffällig; alte, madige Pilze können unangenehm riechen.",
+          "habitat": "Fruchtkörper erscheinen von Juni bis Oktober in Großbritannien und Irland, bei milder Witterung bis in den Dezember. Er wächst bei Laub- und Nadelbäumen und ist in Nadelwäldern besonders häufig.",
+          "sporePrint": "Weiß. Die Sporen sind glatt, breit ellipsoid bis eiförmig, etwa 8–9 × 5–5,5 μm groß und färben sich mit Jod blau (amyloid).",
+          "uses": "Nur nach gründlichem Erhitzen essbar. Roh enthält das Fleisch hitzelabile hämolytische Toxine (Rubescenslysin), die rote Blutkörperchen zerstören. Durch vollständiges Durchgaren wird dieses Gift zuverlässig abgebaut. Da der Pilz giftigen Knollenblätterpilzen ähnelt, ist größte Vorsicht geboten.",
+          "confusion": "Der Graue Wulstling (Amanita excelsa) rötet im Schnitt nicht und ähnelt oft einer blassen Form dieser Art. Der giftige Pantherpilz (Amanita pantherina) hat einen braunen Hut mit rein weißen Flocken, einen ungerieften Ring, eine gerandete Knolle mit Randsaum und unveränderlich weißes Fleisch. Ausgewaschene Fliegenpilze (Amanita muscaria) können orangebraun sein, röten jedoch nicht. Der Kaiserling (Amanita caesarea) hat einen leuchtend orangen Hut mit gerieftem Rand, gelben Stiel und gelbe Lamellen und kommt fast nur in Südeuropa vor.",
+          "notes": "Eine Form mit schwefelgelbem Ring ist bekannt und gleicht der Art ansonsten vollständig."
     },
       en: {
         description: "An ectomycorrhizal mushroom of deciduous and coniferous woodland, often in small groups on poor acidic soil. It is very common in Britain, Ireland, and mainland Europe, and native to Europe and Asia. In South Africa it is thought to have been introduced with planted trees. North American records are treated as other species.",
@@ -12677,16 +12675,15 @@ export const CATALOG = [
           "notes": "Helttojen rikinvihreä sävy ja kitkerä maku estävät sekoittamasta sitä syötäviin lahokoihin."
     },
       de: {
-          "description": "Ein sehr häufiger, büschelig wachsender holzzersetzender Pilz an totem Laub- und Nadelholz. Weit verbreitet in Europa, Nordamerika und Teilen Asiens.",
-          "cap": "Der Hut misst 2–7 cm im Durchmesser, ist leuchtend schwefelgelb mit oft fuchsig-orangeroter Mitte, gewölbt bis flach mit stumpfem Buckel. Am Rand hängen oft dunklere Velumreste.",
-          "hymenium": "Die Lamellen stehen dicht, sind angewachsen, anfangs schwefelgelb, dann charakteristisch grüngelb bis olivgrün und im Alter durch die Sporen dunkel purpurbraun werdend.",
-          "stipe": "Der Stiel ist 5–12 cm lang und 0,5–1 cm dick, schwefelgelb, zur Basis hin rostbraun nachdunkelnd, oft geschwungen und büschelig verwachsen.",
-          "flesh": "Das Fleisch ist schwefelgelb, fest, geruchlos oder schwach pilzig und schmeckt intensiv gallenbitter.",
-          "habitat": "Fruchtkörper erscheinen fast ganzjährig, besonders von Mai bis November, in dichten Büscheln an Stümpfen, faulendem Holz und vergrabenen Wurzeln.",
-          "sporePrint": "Purpurbraun. Die Sporen sind glatt, ellipsoid, 6–7,8 × 4–4,5 μm groß, mit deutlicher Keimpore.",
-          "uses": "Giftig. Er verursacht heftige Magen-Darm-Vergiftungen mit Erbrechen, Krämpfen und Durchfällen. Der extrem bittere Geschmack verhindert meist größere Mahlzeiten.",
-          "confusion": "Der Rauchblättrige Schwefelkopf (Hypholoma capnoides) hat helle, rauchgraue Lamellen ohne Grünton, milden Geschmack und ist essbar. Der Ziegelrote Schwefelkopf (Hypholoma lateritium) hat einen ziegelroten Hut und olivbräunliche Lamellen.",
-          "notes": "Der bittere Geschmack schützt meist vor schwereren Vergiftungen."
+          "description": "Ein holzzersetzender Blätterpilz, der in dichten Büscheln an Stümpfen und totem Holz wächst. Sehr häufig in Großbritannien, Irland und fast ganz Europa, insbesondere im Norden und in der Mitte. Ebenso häufig in Nordamerika und auch im Iran und in Ostanatolien nachgewiesen.",
+          "cap": "Der Hut misst 2–7 cm im Durchmesser. Er ist schwefelgelb bis grüngelb, in der Mitte oft fuchsbraun oder orangebraun getönt, anfangs halbkugelig, dann gewölbt oder leicht gebuckelt. Am Hutrand haften dunkle Reste des faserigen Schleiers.",
+          "hymenium": "Die Lamellen stehen dicht und sind am Stiel angewachsen. Sie sind anfangs schwefelgelb, nehmen bald einen charakteristischen olivgrünen Ton an und schwärzen mit zunehmender Sporenreife.",
+          "stipe": "Der Stiel hat annähernd die Farbe des Hutes, ist zur Basis hin bräunlich überlaufen, 5–12 cm lang und 0,5–1 cm dick, schlank und meist geschwungen bis verbogen.",
+          "flesh": "Das Hutfleisch ist schwefelgelb und recht fest. Der Geruch ist unauffällig pilzartig. Der Geschmack ist intensiv und anhaltend bitter.",
+          "habitat": "Fruchtkörper erscheinen fast das ganze Jahr über, am reichlichsten von Juni bis November. Er wächst an Baumstümpfen, gefällten Stämmen und vergrabenem Totholz von Laubbäumen, seltener an Nadelholz. Büschel, die im Gras zu stehen scheinen, entspringen vergrabenen Wurzeln. Mitunter fruchtet er am hohlen Stamm lebender Bäume.",
+          "sporePrint": "Purpurbraun. Die Sporen sind ellipsoid, glatt, etwa 6–7,8 × 4–4,5 μm groß, mit kleinem Keimporus.",
+          "uses": "Giftig. Der Geschmack ist extrem bitter. Eine Mahlzeit führt nach fünf bis zehn Stunden zu schweren Magen-Darm-Störungen mit Bauchschmerzen, Übelkeit, Erbrechen, Durchfall, vorübergehenden Lähmungen und Sehstörungen. Die Vergiftung heilt meist nach wenigen Tagen ab und verläuft nur äußerst selten tödlich.",
+          "confusion": "Der Ziegelrote Schwefelkopf (Hypholoma lateritium) hat einen ziegelroten Hut und seine gelben Lamellen werden eher olivbraun als olivgrün. Der Rauchblättrige Schwefelkopf (Hypholoma capnoides) wächst an Nadelholz, schmeckt mild und besitzt rauchgraue Lamellen ohne Grünton."
     },
       en: {
         description: "A wood-rotting mushroom of dense tufts on stumps and fallen trunks. It is very common in Britain and Ireland and across most of mainland Europe, especially in the north and the centre. It is also common in North America, and it is recorded in Iran and in eastern Anatolia.",
@@ -13511,16 +13508,16 @@ export const CATALOG = [
           "notes": "Lajin helttavärin muutos kirkkaan vaaleanpunaisesta tummanruskeaksi on tärkeä tuntomerkki."
     },
       de: {
-          "description": "Ein saprotropher Blätterpilz auf Weiden, Wiesen und Parkrasen. Weit verbreitet und häufig in ganz Europa, Nordafrika, Asien, Nordamerika und Australasien.",
-          "cap": "Der Hut ist 3–10 cm breit, weiß bis cremeweiß, anfangs halbkugelig, dann gewölbt bis ausgebreitet. Die Oberfläche ist seidig-glatt oder fein faserschuppig, der Rand behängt mit Velumresten.",
-          "hymenium": "Die Lamellen sind frei, dicht stehend, jung leuchtend rosa, später schokoladenbraun bis schwarzbraun.",
+          "description": "Ein saprotropher Blätterpilz auf Weiden, Wiesen und Parkrasen, der in Wäldern nur selten vorkommt. Weit verbreitet und häufig in ganz Europa, Asien, Nordafrika, Nordamerika und Australasien.",
+          "cap": "Der Hut ist 3–10 cm breit, weiß bis cremeweiß, anfangs halbkugelig mit eingerolltem Rand, später flach gewölbt bis ausgebreitet. Die Oberfläche ist seidig-glatt oder fein faserschuppig, der Rand oft mit häutigen Velumresten behängt.",
+          "hymenium": "Die Lamellen stehen frei, sehr dicht, sind jung leuchtend rosa, später schokoladenbraun bis purpurschwarz.",
           "stipe": "Der Stiel ist 3–10 cm lang und 1–2 cm dick, zylindrisch oder zur Basis hin verjüngt, weiß, mit einem zarten, vergänglichen, häutigen Ring.",
           "flesh": "Das Fleisch ist weiß, im Anschnitt unveränderlich oder schwach rötend, niemals gelbend. Geruch und Geschmack sind angenehm pilzig.",
-          "habitat": "Fruchtkörper erscheinen von Juni bis Oktober nach ergiebigen Regenfällen auf Viehweiden, Wiesen und Rasenflächen, oft in Hexenringen.",
-          "sporePrint": "Dunkelbraun bis schokoladenbraun. Die Sporen sind glatt, eiförmig bis ellipsoid, 6,5–9 × 4–6 μm groß.",
+          "habitat": "Fruchtkörper erscheinen von Juni bis Oktober nach ergiebigen Regenfällen auf Viehweiden, ungedüngten Wiesen und Rasenflächen, oft in Hexenringen.",
+          "sporePrint": "Dunkelbraun bis schokoladenbraun. Die Sporen sind glatt, eiförmig bis ellipsoid, etwa 6,5–9 × 4–6 μm groß.",
           "uses": "Ein hervorragender Speisepilz. Er wird in der Küche wie der Zucht-Champignon verwendet, bräunt jedoch rasch nach der Ernte.",
           "confusion": "Der giftige Karbol-Champignon (Agaricus xanthodermus) verfärbt sich an der Stielbasis sofort intensiv chromgelb und riecht unangenehm nach Karbol (Tinte). Der Weiße Knollenblätterpilz (Amanita verna) und weiße Formen von Amanita phalloides haben rein weiße Lamellen, eine Volva an der Stielbasis und weißen Sporenstaub; sie sind tödlich giftig.",
-          "notes": "Eine Beurteilung aus dem Jahr 2018 stuft die Art als nicht gefährdet (Least Concern) ein. Wässrige Extrakte zeigten in vitro eine insulinähnliche Wirkung auf den Glukosestoffwechsel. Pilz des Jahres 2018 in Deutschland."
+          "notes": "Sequenzierte Aufsammlungen östlich der Rocky Mountains gehören zu verwandten Arten, und im westlichen Nordamerika wird der Name vorläufig verwendet. Eine Beurteilung aus dem Jahr 2018 (veröffentlicht 2019, mit Erratum 2022) stuft die Art als nicht gefährdet (Least Concern) ein. Wässrige Extrakte zeigten in vitro eine insulinähnliche Wirkung auf den Glukosestoffwechsel. Pilz des Jahres 2018 in Deutschland."
     },
       en: {
         description: "A saprobic mushroom of grazed meadows, lawns, and other grassy places, and rarely found in woodland. It is widespread and common in Britain and Ireland and through most of Europe. It is also reported from northern and southern Africa, Asia, North America, Australia, and New Zealand.",
@@ -14353,16 +14350,15 @@ export const CATALOG = [
           "notes": "Yksi Euroopan yleisimmistä ja tutuimmista tatesta koivumetsissä."
     },
       de: {
-          "description": "Ein ektomykorrhizabildender Raufußröhrling, der streng an Birken gebunden ist. Häufig in ganz Europa, Nordamerika und Teilen Asiens.",
-          "cap": "Der Hut misst 5–15 cm im Durchmesser, ist graubraun, gelbbraun bis dunkelbraun, anfangs halbkugelig, dann polsterförmig. Die Huthaut ist jung fein samtig, bei Nässe klebrig-schmierig.",
-          "hymenium": "Die Röhren sind um den Stiel tief ausgebuchtet, 1–2 cm lang, cremeweiß, später schmutzig grau. Die Poren sind klein, rundlich und verfärben sich auf Druck bräunlich, niemals blau.",
-          "stipe": "Der Stiel ist 7–20 cm lang und 1,5–3,5 cm dick, schlank keulig, weißlich bis grau, dicht besetzt mit dunklen, grauschwarzen Schüppchen (Raufuß).",
-          "flesh": "Das Fleisch ist weiß, jung fest, im Alter schwammig und wasserreich. Im Anschnitt bleibt es weiß oder verfärbt sich allenfalls zart rosa, niemals blau. Beim Kochen schwärzt es.",
-          "habitat": "Fruchtkörper erscheinen von Juni bis November unter Birken in Wäldern, Mooren, Parks und Heiden.",
-          "sporePrint": "Olivbraun bis tabakbraun. Die Sporen sind spindelig, glatt, 14–20 × 4,5–6 μm groß.",
-          "uses": "Essbar und wohlschmeckend, solange die Pilze jung und fest sind. Ältere Exemplare sind schwammig.",
-          "confusion": "Die Birken-Rotkappe (Leccinum versipelle) hat einen orangeroten Hut und Fleisch, das im Anschnitt violettgrau bis schwarz anläuft. Der Moorbirkenpilz (Leccinum holopus) ist weißlich gefärbt.",
-          "notes": "Er ist streng an die Birke als Mykorrhizapartner gebunden."
+          "description": "Ein ektomykorrhizabildender Raufußröhrling, der streng an Birken gebunden ist. Weit verbreitet und häufig in ganz Europa, Nordasien und Teilen Nordamerikas; mit Birken auch nach Neuseeland und Australien eingeschleppt.",
+          "cap": "Der Hut misst 5–15 cm im Durchmesser, ist anfangs halbkugelig, dann polsterförmig gewölbt. Die Farbe reicht von hell graubraun über haselnussbraun bis dunkelbraun. Die Huthaut ist glatt, trocken matt und feucht leicht schmierig.",
+          "hymenium": "Die Röhren sind 1–2,5 cm lang, um den Stiel tief ausgebuchtet. Die feinen Poren sind anfangs weißlich bis grauweiß und verfärben sich im Alter zu schmutzig cremefarben oder bräunlich.",
+          "stipe": "Der Stiel ist 8–20 cm lang und 1,5–3,5 cm dick, schlank, nach oben verjüngt, weißlich und dicht mit rauen, feinen, dunkelbraunen bis schwärzlichen Schüppchen besetzt.",
+          "flesh": "Das Fleisch ist weiß, im Alter schwammig und im Stiel faserig-zäh. Im Anschnitt bleibt es weiß und verfärbt sich nicht oder kaum merklich rosa, niemals blauend oder schwärzend. Der Geschmack ist mild, der Geruch angenehm.",
+          "habitat": "Fruchtkörper erscheinen von Juni bis November einzeln oder gesellig unter Birken in Mooren, Heiden, Wäldern und Parkanlagen auf feuchten, sauren Böden.",
+          "sporePrint": "Zimtholzbraun bis nussbraun. Die Sporen sind spindelig-ellipsoid, glatt, etwa 14–20 × 5–6,5 μm groß.",
+          "uses": "Ein beliebter Speisepilz von gutem Geschmack. Ältere Hüte werden rasch schwammig und die Stiele faserig-zäh. Beim Garen verfärbt sich das Fleisch wie bei allen Raufußröhrlingen schwärzlich.",
+          "confusion": "Der Wollstielige Raufußröhrling (Leccinum cyaneobasileucum) besitzt einen wollig beschuppten Stiel und blaut oder grünt an der Stielbasis. Der Moorbirkenpilz (Leccinum holopus) hat einen weißlichen Hut und wächst im nassen Torfmoos. Die verschiedenen Rotkappen (Leccinum-Arten) haben orangerote Hüte und deren Fleisch verfärbt sich im Schnitt lila, grau bis schwärzlich."
     },
       en: {
         description: "An ectomycorrhizal mushroom of birch woods, including planted birches. It is frequent in Britain and Ireland and common across mainland Europe, from Scandinavia to the Mediterranean and the Iberian Peninsula. It is very common in North America, recorded from the Himalayas, and introduced in Australia and New Zealand.",
@@ -15227,16 +15223,16 @@ export const CATALOG = [
           "notes": "Lajinimen luteus tarkoittaa keltaista ja viittaa pillistön väriin."
     },
       de: {
-          "description": "Ein ektomykorrhizabildender Schmierröhrling unter zweinadeligen Kiefern. Weit verbreitet in Eurasien und Nordamerika, eingeschleppt auf der Südhalbkugel.",
-          "cap": "Der Hut ist 4–12 cm breit, schokoladen- bis rotbraun oder ockerbraun, gewölbt bis flach. Bei Feuchtigkeit bedeckt ihn eine dicke, schleimige Huthaut, die sich leicht abziehen lässt.",
-          "hymenium": "Die Röhren sind kurz, blassgelb bis satt zitronengelb. Die kleinen Poren sind eckig und verfärben sich auf Druck kaum.",
-          "stipe": "Der Stiel ist 4–10 cm lang und 1–2,5 cm dick, zylindrisch, weißlich bis gelblich, mit einem häutigen, violett-weißlichen Ring. Oberhalb des Rings ist er braun punktiert.",
-          "flesh": "Das Fleisch ist weißlich-gelblich, weich, saftig, im Anschnitt unveränderlich. Geruch und Geschmack sind angenehm mild-säuerlich.",
-          "habitat": "Fruchtkörper erscheinen von Juni bis November unter Kiefern auf sandigen oder kalkhaltigen Böden.",
-          "sporePrint": "Ocker- bis zimtbraun. Die Sporen sind ellipsoid-spindelig, 7–10 × 3–3,5 μm groß.",
-          "uses": "Ein guter Speisepilz. Die schleimige Huthaut sollte vor der Zubereitung abgezogen werden, da sie bei empfindlichen Personen Durchfall auslösen kann.",
+          "description": "Ein ektomykorrhizabildender Schmierröhrling unter zweinadeligen Kiefern. Heimisch in ganz Europa und Nordasien und mit Kiefern weltweit nach Nordamerika, Südamerika, Südafrika, Australien und Neuseeland eingeschleppt.",
+          "cap": "Der Hut ist 5–12 cm breit, halbkugelig bis gewölbt, im Alter flacher. Die Farbe ist kastanienbraun, schokoladenbraun bis ockergelb. Die Huthaut ist von einer dicken, klebrig-schmierigen Schleimschicht bedeckt, die sich leicht vollständig abziehen lässt.",
+          "hymenium": "Die Röhren sind kurz, am Stiel angewachsen. Die kleinen Poren sind jung zitronengelb bis goldgelb, später bräunlichgelb und verfärben sich auf Druck nicht.",
+          "stipe": "Der Stiel ist 4–10 cm lang und 1–2,5 cm dick, zylindrisch, über dem Ring blassgelb mit feinen Drüsenpunkten, unterhalb bräunlich. Ein dicker, häutiger Ring ist weißlich bis violettbraun gefärbt.",
+          "flesh": "Das Fleisch ist weißlich bis blassgelb, weich und saftig. Geruch und Geschmack sind angenehm fruchtig bis mild säuerlich.",
+          "habitat": "Fruchtkörper erscheinen von Juli bis November vor allem auf sandigen, nährstoffarmen Böden bei zweinadeligen Kiefern (besonders Waldkiefer).",
+          "sporePrint": "Ockerbraun bis lehmgelb. Die Sporen sind spindelig-ellipsoid, glatt, etwa 7–9 × 3–3,5 μm groß.",
+          "uses": "Ein geschätzter Speisepilz. Die schleimige Huthaut sollte vor der Zubereitung abgezogen werden, da sie bei empfindlichen Personen Magen-Darm-Beschwerden auslösen kann.",
           "confusion": "Der Körnchen-Röhrling (Suillus granulatus) hat keinen Ring und sondert milchige Tröpfchen an den Poren ab. Der Gold-Röhrling (Suillus grevillei) wächst unter Lärchen und hat einen goldgelben Hut.",
-          "notes": "Er lebt in strikter Ektomykorrhiza mit zweinadeligen Kiefernarten."
+          "notes": "Eine Beurteilung aus dem Jahr 2018 stuft die Art als nicht gefährdet (Least Concern) ein."
     },
       en: {
         description: "An ectomycorrhizal mushroom of pine woods and of pine plantations. Fruit bodies often appear in large numbers. It is native across Eurasia, from Ireland to Korea, and it has been introduced with pines in North and South America, southern Africa, Australia, and New Zealand. It is common in Britain and Ireland.",
@@ -16065,16 +16061,16 @@ export const CATALOG = [
           "notes": "Porkkananpunainen maitiaisneste voi värjätä virtsan tilapäisesti punaiseksi ilman terveydellistä haittaa."
     },
       de: {
-          "description": "Ein geschätzter ektomykorrhizabildender Milchling unter Kiefern. Heimisch in Europa und Teilen Asiens, bevorzugt auf sandigen oder kalkhaltigen Böden.",
-          "cap": "Der Hut ist 4–14 cm breit, trichterförmig vertieft mit eingerolltem Rand, orangerot mit dunkleren konzentrischen Zonen, bei Nässe schmierig, im Alter grünfleckig.",
-          "hymenium": "Die Lamellen sind lebhaft karottenorange, gedrängt, leicht herablaufend, bei Verletzung grün fleckend.",
-          "stipe": "Der Stiel ist 3–8 cm lang und 1–2,5 cm dick, zylindrisch, hohl, orange mit dunkleren Gruben (Grübchen).",
-          "flesh": "Das Fleisch ist brüchig, weißlich, sondert beim Anschneiden reichlich karottenrote Milch ab, die sich langsam grünlich verfärbt. Geschmack mild, leicht bitterlich.",
-          "habitat": "Fruchtkörper erscheinen von August bis November in Kiefernwäldern, Heiden und auf grasigen Waldwegen.",
-          "sporePrint": "Blass ockerfarben. Die Sporen sind breit ellipsoid, warzig-netzig, 7–9 × 6–7 μm groß.",
-          "uses": "Ein hervorragender Speisepilz, besonders zum scharfen Anbraten in Butter oder Olivenöl geeignet. Der Urin kann sich nach dem Verzehr harmlos rötlich färben.",
-          "confusion": "Der Fichten-Reizker (Lactarius deterrimus) wächst unter Fichten, verfärbt sich rascher und intensiver grün und schmeckt bitterer. Der Lachs-Reizker (Lactarius salmonicolor) wächst unter Tannen.",
-          "notes": "Er wächst ausschließlich in Symbiose mit Kiefern."
+          "description": "Ein ektomykorrhizabildender Milchling der Kiefernwälder. Heimisch in Europa einschließlich des Mittelmeerraums und mit Kiefern nach Chile, Australien, Neuseeland und Südafrika eingeschleppt. Populationen in Nord- und Zentralamerika, die früher diesen Namen trugen, gehören zu anderen Arten.",
+          "cap": "Der Hut ist 6–20 cm breit. Er beginnt gewölbt mit eingerolltem Rand und zentraler Vertiefung und wird im Alter breit trichterförmig. Die Oberfläche ist karottenorange bis rötlich orange mit dunkleren konzentrischen Zonen, fleckt bei Druck grün und entwickelt im Alter oft graugrüne Flecken. Sie ist glatt, trocken matt und feucht klebrig.",
+          "hymenium": "Die Lamellen laufen kurz am Stiel herab, stehen gedrängt und sind leuchtend orange; verletzte Stellen verfärben sich grün. Eingeschnittene Lamellen sondern eine karottenorange Milch ab, die lange orange bleibt und erst nach mehreren Stunden langsam graugrün verblasst (im Gegensatz zu Lactarius deterrimus, dessen Milch weinrot wird).",
+          "stipe": "Der Stiel ist zylindrisch, bald hohl und relativ kurz, etwa 5–8 cm lang und 1,5–2 cm dick. Die blassorange Oberfläche ist mit flachen, lebhafter orange gefärbten Gruben (Scrobiculi) besetzt, besonders zur Basis hin, und fleckt bei Berührung grün.",
+          "flesh": "Das Fleisch ist im Zentrum weißlich und nahe der Oberfläche karottenorange, verfärbt sich an der Luft langsam trübgrün. Der Geruch ist fruchtig, und die Milch schmeckt anfangs mild, hinterlässt jedoch einen leicht bitteren oder adstringierenden Nachgeschmack.",
+          "habitat": "Fruchtkörper erscheinen in Großbritannien und Irland von August bis Oktober (auf dem europäischen Festland bis in den November). Sie wachsen auf dem Boden in Nadelwäldern bei Kiefern. Auf der Südhalbkugel fruchten sie von April bis Juni in Kiefernplantagen.",
+          "sporePrint": "Blass rosa-ockergelb. Die Sporen sind ellipsoid, 7–9 × 6–7 μm groß und mit einem ausgeprägten, fast vollständigen amyloiden Gratnetz verziert.",
+          "uses": "Ein hoch geschätzter Speisepilz, der in Spanien, der Provence, Polen, Zypern und Russland traditionell gegrillt, gebraten, geschmort oder eingelegt wird. Junge Hüte mit eingerolltem Rand werden bevorzugt; scharfes Anbraten oder Grillen wird dem Trocknen vorgezogen, da getrocknete Fruchtkörper ihr Aroma verlieren.",
+          "confusion": "Der Fichten-Reizker (Lactarius deterrimus) wächst unter Fichten, hat einen gleichmäßiger gefärbten Hut und einen ungrubigen Stiel, und seine orangefarbene Milch verfärbt sich innerhalb von 30 bis 60 Minuten weinrot. Der Weinrote Kiefern-Reizker (Lactarius sanguifluus) wächst unter Kiefern auf kalkhaltigen Böden und sondert sofort tief weinrote Milch ab. Der Lachs-Reizker (Lactarius salmonicolor) wächst unter Tannen und fleckt kaum grün. Der Spangrüne Kiefern-Reizker (Lactarius quieticolor) wächst unter Kiefern auf sauren Böden, besitzt stumpfere orangebraune Töne und blaut bzw. grünt im Anschnitt. Der Birken-Reizker (Lactarius torminosus) ist rosa mit zottig bewimpertem Rand, sondert brennend scharfe weiße Milch ab, wächst bei Birken und ist giftig. In Nordamerika zählen Lactarius rubrilacteus, Lactarius thyinos, Lactarius olympianus und Lactarius salmoneus zu den Doppelgängern.",
+          "notes": "Ein römisches Fresko aus Herculaneum gilt als eine der frühesten Darstellungen dieses Pilzes. Molekularbiologische und morphologische Untersuchungen von Nuytinck, Verbeken und Miller (2007) bestätigten, dass dies eine rein europäische Art ist, die sich von früher unter diesem Namen geführten nord- und zentralamerikanischen Taxa unterscheidet."
     },
       en: {
         description: "An ectomycorrhizal mushroom of pine woods. It is native to Europe, including the Mediterranean basin, and it has been introduced with pines to Chile, Australia, New Zealand, and South Africa. Populations in North America and Central America that have carried the same name are different species.",
@@ -16907,16 +16903,15 @@ export const CATALOG = [
           "notes": "Suomen vaarallisin myrkkysieni, joka aiheuttaa vakavimmat myrkytystapaukset."
     },
       de: {
-          "description": "Ein tödlich giftiger ektomykorrhizabildender Wulstling in sauren Bergmisch- und Nadelwäldern. Weit verbreitet in Nord- und Mitteleuropa.",
-          "cap": "Der Hut ist 5–10 cm breit, rein weiß, anfangs kegelig bis glockig, später ausgebreitet mit oft leicht asymmetrischer Mitte, bei Feuchtigkeit klebrig.",
-          "hymenium": "Die Lamellen sind rein weiß, frei, gedrängt stehend.",
-          "stipe": "Der Stiel ist 8–14 cm lang und 1–2 cm dick, rein weiß, flockig-wollig behaart, mit einem zarten, vergänglichen weißen Ring. Die Stielbasis steckt in einer weiten, sackartigen weißen Scheide.",
-          "flesh": "Das Fleisch ist rein weiß. Mit Kalilauge (KOH) verfärbt es sich sofort lebhaft chromgelb. Der Geruch ist widerlich süßlich bis rettichartig.",
-          "habitat": "Fruchtkörper erscheinen von August bis Oktober in Nadel- und Buchenwäldern auf sauren, silikatischen Böden.",
-          "sporePrint": "Weiß. Die Sporen sind kugelig, glatt, 7–10 μm groß und stark amyloid.",
-          "uses": "Tödlich giftig! Enthält Amatoxine. Ein einziger Pilz führt zu Leber- und Nierenversagen mit hoher Sterblichkeit.",
-          "confusion": "Weiße Formen des Grünen Knollenblätterpilzes (Amanita phalloides var. alba) verfärben sich mit KOH nicht gelb. Der Frühlings-Knollenblätterpilz (Amanita verna) wächst im Frühjahr in wärmeren Laubwäldern. Weiße Egerlinge (Agaricus) haben dunkle Sporen und keine Scheide.",
-          "notes": "Die sofortige Gelbfärbung mit Kalilauge ist ein sicheres diagnostisches Merkmal."
+          "description": "Ein tödlich giftiger, ektomykorrhizabildender Blätterpilz auf sauren Böden. Heimisch in Nord- und Mitteleuropa sowie Teilen Nordasiens. Er ist vor allem in kühlen borealen Nadelwäldern und Gebirgen verbreitet.",
+          "cap": "Der Hut ist 5–10 cm breit, anfangs kegelig bis glockig, später gewölbt mit oft asymmetrischem Buckel. Die Farbe ist rein weiß, im Alter am Scheitel leicht vergilbend. Die Oberfläche ist kahl, bei feuchtem Wetter schmierig-klebrig.",
+          "hymenium": "Die Lamellen sind rein weiß, frei, stehen dicht und behalten ihre weiße Farbe bis zur Sporenreife.",
+          "stipe": "Der Stiel ist 8–15 cm lang und 1–2 cm dick, rein weiß, zylindrisch, nach oben verjüngt. Die Oberfläche ist unterhalb des Rings auffällig weiß-flockig bis faserschuppig zerrissen. Der Ring ist weiß, zart, hängend und oft unvollständig oder zerrissen. Die Stielbasis steckt in einer weiten, häutigen, lappigen weißen Scheide (Volva).",
+          "flesh": "Das Fleisch ist rein weiß und verfärbt sich bei Verletzung nicht. Es riecht widerlich süßlich nach feuchtem Keller oder überreifem Rettich.",
+          "habitat": "Fruchtkörper erscheinen von Juli bis Oktober vor allem in Nadelwäldern (Fichten, Kiefern) sowie unter Birken auf feuchten, sauren, nährstoffarmen Böden.",
+          "sporePrint": "Weiß. Die Sporen sind kugelig bis rundlich, glatt, etwa 8–10 μm groß und färben sich mit Jod intensiv blau (amyloid).",
+          "uses": "Tödlich giftig. Er enthält wie der Grüne Knollenblätterpilz tödliche Amatoxine. Bereits kleine Mengen zerstören Leber und Nieren und führen nach einer langen symptomfreien Latenzzeit zum Tod.",
+          "confusion": "Weiße Champignons (Agaricus-Arten) haben rosafarbene bis schokoladenbraune Lamellen und keine Volva. Der Frühlings-Knollenblätterpilz (Amanita verna) hat einen glatten Stiel, wächst im Laubwald auf Kalk und reagiert nicht mit Kalilauge gelb (Amanita virosa färbt sich mit Kalilauge intensiv chromgelb). Der Weiße Knollenblätterpilz (Amanita bisporigera) ist eine nordamerikanische Art mit zweisporigen Basidien."
     },
       en: {
         description: "An ectomycorrhizal mushroom of woodland. It is infrequent in the lowlands and more plentiful in the mountains, and frequent in Scandinavian conifer forests. It occurs through Europe, including Britain and Ireland, with confirmed records from northern Asia. North American records under this name belong to other species.",
@@ -17696,16 +17691,16 @@ export const CATALOG = [
           "notes": "Laji on rauhoitettu tai uhanalainen useissa Keski-Euroopan maissa kalkkilehtojen vähenemisen vuoksi."
     },
       de: {
-          "description": "Ein wärmeliebender, giftiger Dickröhrling auf Kalkböden in lichten Laubwäldern. Selten in Mitteleuropa und streng geschützt.",
-          "cap": "Der Hut misst 6–30 cm im Durchmesser, ist kreidig-weiß bis hell grauweich, samtig-matt, dickfleischig und polsterförmig gewölbt.",
-          "hymenium": "Die Röhren sind gelblich bis olivgrün und blauen im Schnitt. Die Poren sind jung gelborange, werden bald blutrot bis karminrot und blauen auf Druck.",
-          "stipe": "Der Stiel ist 5–15 cm lang und 4–12 cm dick, knollig-bauchig, im oberen Teil gelborange, zur Basis hin karminrot, überzogen von einem feinen roten Maschennetz.",
-          "flesh": "Das Fleisch ist weißlich bis blassgelb, läuft im Anschnitt mäßig blau an und verblasst wieder. Geruch jung unbedeutend, im Alter widerlich aasig.",
-          "habitat": "Fruchtkörper erscheinen von Juni bis September in warmen Laubwäldern unter Eichen, Buchen und Hainbuchen auf Kalk.",
-          "sporePrint": "Olivbraun. Die Sporen sind spindelig, glatt, 10–16 × 4,5–7,5 μm groß.",
-          "uses": "Giftig! Er ruft schwere Magen-Darm-Störungen mit Erbrechen und Durchfall hervor. Das Toxin Bolesatin wird dafür verantwortlich gemacht.",
-          "confusion": "Der Schönfuß-Röhrling (Caloboletus calopus) hat gelbe Poren und bitteres Fleisch. Der Hexen-Röhrling (Neoboletus luridiformis) hat einen dunkelbraunen Hut und blaut sofort intensiv dunkelblau.",
-          "notes": "Rote-Liste-Bewertungen stufen die Art als gefährdet (Vulnerable) ein. Pilz des Jahres 1999 in Deutschland."
+          "description": "Ein giftiger ektomykorrhizabildender Dickröhrling der wärmebegünstigten Kalk-Laubwälder. Heimisch in Süd- und Mitteleuropa; überall selten und stark an kalkhaltige Böden gebunden.",
+          "cap": "Der Hut wird 10–25 cm (selten bis 30 cm) breit, ist anfangs halbkugelig, dann polsterförmig gewölbt. Die Farbe ist weißgrau, kreideweiß bis lehmgrau, im Alter mit schwachem Ocker- oder Olivton. Die Oberfläche ist trocken, samtig bis lederartig matt.",
+          "hymenium": "Die Röhren sind gelbgrün, später oliv. Die kleinen Poren sind anfangs gelb, färben sich jedoch rasch blutrot bis orangerot und blauen auf Druck schwach.",
+          "stipe": "Der Stiel ist 5–15 cm lang und 4–10 cm dick, wuchtig knollig oder bauchig. Die Farbe ist oben gelb, zur Mitte und Basis hin leuchtend karminrot. Ein feines, rotes Netzmuster überzieht den Stiel.",
+          "flesh": "Das Fleisch ist weißlich bis blassgelb und blaut im Anschnitt nur schwach und unregelmäßig. Junge Pilze riechen schwach, alte Exemplare entwickeln einen widerlichen Aasgeruch.",
+          "habitat": "Fruchtkörper erscheinen im Hochsommer von Juli bis September in sonnigen, wärmebegünstigten Laubwäldern auf Kalkböden unter Eichen, Buchen und Hainbuchen.",
+          "sporePrint": "Olivbraun. Die Sporen sind spindelig-ellipsoid, glatt, etwa 11–15 × 5–7 μm groß.",
+          "uses": "Giftig. Er verursacht schwere Magen-Darm-Vergiftungen mit heftigem Erbrechen und Krämpfen. Tödliche Vergiftungen sind jedoch nicht belegt.",
+          "confusion": "Der Schönfuß-Röhrling (Caloboletus calopus) hat einen grauen Hut, aber gelbe Poren und schmeckt bitter. Der Flockenstielige Hexen-Röhrling (Neoboletus luridiformis) hat einen dunkelbraunen Hut, einen flockigen Stiel ohne Netz und blaut sofort tief dunkelblau. Der Netzstielige Hexen-Röhrling (Suillellus luridus) hat einen bräunlichen Hut, orangerote Poren und eine Weinrote Linie über den Röhren.",
+          "notes": "Rote-Liste-Bewertungen in Großbritannien und Tschechien stufen die Art als gefährdet (Vulnerable) ein. Pilz des Jahres 1999 in Deutschland."
     },
       en: {
         description: "An ectomycorrhizal mushroom of warm broad-leaved woods on calcareous soil. It is mostly southern in Europe, rare or absent farther north, and in Britain and Ireland limited to chalk in southern England. It is also reported from Turkey, Crimea, Ukraine, northern Israel, and Cyprus. Western North American records belong to Rubroboletus eastwoodiae.",
@@ -18413,7 +18408,6 @@ export const CATALOG = [
       sv: ['toppig giftspindelskivling', 'toppig spindelskivling'],
       ru: ["паутинник красноватый"],
       pl: ["zasłonak spiczasty"],
-      fr: ["cortinaire remarquable"],
       it: ["cortinario orellanato"]
     },
     text: {
@@ -18512,16 +18506,15 @@ export const CATALOG = [
           "notes": "Orellaniinimyrkytys voi johtaa elinikäiseen dialyysihoitoon tai munuaisensiirtoon."
     },
       de: {
-          "description": "Ein tödlich giftiger Haarschleierling auf feuchten, sauren Moorböden unter Nadelbäumen. Vor allem in Skandinavien und Mitteleuropa verbreitet.",
-          "cap": "Der Hut ist 4–8 cm breit, fuchsrot bis zimtbraun, kegelig mit spitzem Buckel, feinfasrig bis schuppig.",
-          "hymenium": "Die Lamellen sind zimtbraun bis rostbraun, dick, entfernt stehend und angewachsen.",
-          "stipe": "Der Stiel ist 5–10 cm lang und 0,7–1,5 cm dick, gelbbräunlich mit zickzackartigen gelblichen Gürtelzonen des Velums.",
-          "flesh": "Das Fleisch ist cremefarben bis gelblich-braun, riecht schwach rettichartig und schmeckt mild.",
-          "habitat": "Fruchtkörper erscheinen von August bis November in sauren Fichten- und Kiefernwäldern zwischen Torfmoosen (Sphagnum).",
-          "sporePrint": "Rostbraun. Die Sporen sind breit ellipsoid bis mandelförmig, warzig, 9–12 × 6,5–8,5 μm groß.",
-          "uses": "Tödlich giftig! Enthält das Nierengift Orellanin, das erst nach Tagen oder Wochen zu partiellem oder vollständigem Nierenversagen führt.",
-          "confusion": "Wurde fatal mit Pfifferlingen (Cantharellus cibarius) verwechselt, die jedoch Leisten statt Lamellen und einen gelben Hut besitzen. Der Orangefuchsige Raukopf (Cortinarius orellanus) wächst bei Laubbäumen und hat einen flacheren Buckel.",
-          "notes": "Das Gift Orellanin führt erst nach Tagen bis Wochen zum Nierenversagen."
+          "description": "Ein tödlich giftiger ektomykorrhizabildender Blätterpilz feuchter Nadelwälder. Weit verbreitet in Nord- und Mitteleuropa sowie Teilen Nordamerikas, besonders in moorigen Gebirgs- und Taigawäldern.",
+          "cap": "Der Hut ist 3–8 cm breit, kegelig bis glockig, behält stets einen spitzen Buckel in der Mitte. Die Farbe ist fuchsrot, ziegelrot bis zimtbraun. Die Huthaut ist trocken, fein filzig bis faserschuppig matt.",
+          "hymenium": "Die Lamellen sind ocker- bis rostbraun, stehen entfernt, sind dicklich und am Stiel angewachsen bis herablaufend.",
+          "stipe": "Der Stiel ist 5–12 cm lang und 0,5–1,5 cm dick, schlank zylindrisch, vollreif faserig. Die Farbe ist wie der Hut fuchsbraun, oft mit gelblichen zickzackartigen Bändern des Velums überzogen.",
+          "flesh": "Das Fleisch ist ocker- bis rostgelblich. Der Geruch ist rettichartig bis unauffällig.",
+          "habitat": "Fruchtkörper erscheinen von August bis November in sauren Nadelwäldern (vor allem bei Fichten und Kiefern) zwischen Torfmoosen und Heidelbeersträuchern.",
+          "sporePrint": "Rostbraun. Die Sporen sind fast kugelig bis breit ellipsoid, fein warzig, etwa 8,5–11,5 × 6,5–9 μm groß.",
+          "uses": "Tödlich giftig. Er enthält das hitzestabile Gift Orellanin. Nach einer langen Latenzzeit von 2 bis 17 Tagen führt es zur irreversiblen Zerstörung der Nieren und Nierenversagen.",
+          "confusion": "Der Orangefuchsige Raukopf (Cortinarius orellanus) wächst in wärmeren Laubwäldern unter Eichen und Buchen und hat einen stumpf gebuckelten Hut. Essbare Pfifferlinge (Cantharellus cibarius) haben dottergelbes Fleisch, Leisten statt Lamellen und besitzen keinen spitzgebuckelten Hut. Chroogomphus rutilus hat herablaufende Lamellen und dunkles Sporenpulver."
     },
       en: {
         description: "A mycorrhizal mushroom of small groups on damp acid soil under conifers. It is rare in southern England and Wales, more frequent farther north in the British Isles, and very common in Scandinavia and northern mainland Europe. It also occurs in North America and in the mountains of central Japan.",
@@ -19273,15 +19266,15 @@ export const CATALOG = [
           "notes": "Suomessa vuoden sieni 2015 ja 2022."
     },
       de: {
-          "description": "Ein hervorragender ektomykorrhizabildender Speisepilz in Laubwäldern. Durch seine dunkle Färbung im Laub oft schwer zu entdecken.",
-          "cap": "Der Fruchtkörper ist trichter- bis trompetenförmig, 4–8 cm breit, innen tief hohl bis zur Stielbasis, grauschwarz bis tiefschwarz mit krausem Rand.",
-          "hymenium": "Die Außenseite ist fruchtbar, glatt bis schwach runzelig, aschgrau bis bläulich-grau bereift.",
-          "stipe": "Der Stiel geht nahtlos in den hohlen Trichter über, ist dünnfleischig und schwarzgrau.",
-          "flesh": "Das Fleisch ist dünn, zäh, schwarzbraun. Geruch angenehm aromatisch, Geschmack würzig.",
-          "habitat": "Fruchtkörper erscheinen von August bis November in Buchen- und Eichenwäldern auf basenreichen Böden.",
-          "sporePrint": "Weiß bis blassgelblich. Die Sporen sind glatt, breit ellipsoid, 11,5–16 × 7–10 μm groß.",
-          "uses": "Ein vorzüglicher Würz- und Speisepilz. Er eignet sich herausragend zum Trocknen und wird gemahlen als aromatisches Pilzpulver genutzt.",
-          "confusion": "Die Graue Kraterelle (Craterellus cinereus) besitzt deutliche Leisten auf der Außenseite. Der Krauser Kraterelle (Pseudocraterellus undulatus) hat einen stark gewellten Rand.",
+          "description": "Ein ektomykorrhizabildender Pilz feuchter Laubwälder. Weit verbreitet und in guten Jahren gebietsweise massenhaft in ganz Europa und Nordamerika vorkommend.",
+          "cap": "Der Fruchtkörper ist tief trichter- bis trompetenförmig hohl, 3–8 cm breit und bis zu 12 cm hoch. Der Rand ist unregelmäßig gelappt und zurückgebogen. Die Innenseite des Trichters ist schuppig-filzig, grauschwarz bis tief rußschwarz gefärbt.",
+          "hymenium": "Die Außenseite ist glatt bis schwach längsrunzelig (keine echten Lamellen oder ausgeprägte Leisten) und durch auskeimende Sporen aschgrau bis bläulich weiß bereift.",
+          "stipe": "Der Stiel geht nahtlos in den Hohltrichter des Hutes über, ist hohl, zäh und verjüngt sich zur Basis hin.",
+          "flesh": "Das Fleisch ist dünn, elastisch, im Alter zäh und schwärzlich gefärbt. Geruch angenehm fruchtig-würzig, Geschmack mild.",
+          "habitat": "Fruchtkörper erscheinen von August bis November oft in großen Kolonien oder Büscheln auf kalkhaltigen, lehmigen Böden unter Rotbuchen und Eichen.",
+          "sporePrint": "Weiß bis cremeweiß. Die Sporen sind breit ellipsoid, glatt, etwa 11–14 × 7–9 μm groß.",
+          "uses": "Ein hervorragender und gesuchter Speisepilz von kräftigem Aroma. Er eignet sich besonders gut zum Trocknen und wird pulverisiert als erstklassiges Pilzwürzmittel verwendet.",
+          "confusion": "Die Graue Kraterelle (Craterellus cinereus) besitzt deutliche Leisten auf der Außenseite. Die Krause Kraterelle (Pseudocraterellus undulatus) hat einen stark gewellten Rand und ist bräunlicher gefärbt.",
           "notes": "Eine Beurteilung aus dem Jahr 2024 stuft die Art als nicht gefährdet (Least Concern) ein."
     },
       en: {
@@ -20095,16 +20088,16 @@ export const CATALOG = [
           "notes": "Sieni aiheuttaa tammessa ruskolahoa, joka värjää puuaineksen halutun syvänruskeaksi huonekalupuuksi."
     },
       de: {
-          "description": "Ein ungewöhnlicher Porling an alten Eichen. Erinnert im Aussehen und Querschnitt verblüffend an ein Stück rohes Rindfleisch oder Leber.",
-          "cap": "Der Hut ist zungen- oder nierenförmig, 10–25 cm breit und 2–6 cm dick, blutrot bis leberbraun, mit feinkörniger, feuchter Oberfläche.",
-          "hymenium": "Die Röhren sind frei voneinander stehend (nicht miteinander verwachsen), cremeweiß, später gelblich bis bräunlich.",
-          "stipe": "Meist ungestielt oder mit kurzem, seitlichem, dickem Stielansatz am Stamm.",
-          "flesh": "Das Fleisch ist dick, saftig, faserig, blutrot marmoriert wie Fleisch und sondert rötlichen Saft ab. Geschmack säuerlich.",
-          "habitat": "Fruchtkörper erscheinen von Juli bis Oktober an lebenden alten Eichen und Edelkastanien.",
-          "sporePrint": "Rosa-ocker bis blassbraun. Die Sporen sind eiförmig, 4,5–6 × 3,5–4,5 μm groß.",
-          "uses": "Essbar, vor allem jung. Wegen des säuerlichen Geschmacks wird er gern mariniert oder gebraten verzehrt.",
-          "confusion": "Der Zottige Schillerporling (Inonotus hispidus) besitzt einen struppig behaarten Hut und wächst an Eiche und Apfelbaum. Sehr junge Fruchtkörper können dem Gemeinen Schwefelporling (Laetiporus sulphureus) ähneln, der flachere, dachziegelig übereinander gestapelte Konsolen bildet. Arten der Gattung Ischnoderma (Teerfleckenporlinge) besitzen miteinander verwachsene Röhren. Der Eichen-Zungenporling (Buglossoporus quercinus) wächst an ähnlichen Standorten, besitzt jedoch eine gelbbraune Huthaut und längere Sporen. Die Dreifarbige Tramete (Daedaleopsis confragosa var. tricolor) ist nur etwa 1 cm dick und bildet Lamellen aus. Die Zinnobertramete (Pycnoporus cinnabarinus) ist kleiner, holzig und hat länglich-eckige Poren.",
-          "notes": "Er erzeugt im Eichenholz eine begehrte Braunfärbung (Geflämmte Eiche)."
+          "description": "Ein holzzersetzender Pilz an alten Laubbäumen, der als Wundparasit und Saprotroph lebt. Weit verbreitet in Europa und Nordamerika in Regionen mit alten Eichenbeständen.",
+          "cap": "Der Fruchtkörper ist zungen- oder leberförmig, 10–25 cm breit und bis zu 6 cm dick. Die Oberfläche ist rau, feucht schleimig-klebrig, blutrot bis leberbraun gefärbt.",
+          "hymenium": "Die Röhren auf der Unterseite sind weißlich bis gelblich, stehen einzeln nebeneinander und sind nicht miteinander verwachsen. Die Poren sind rund und flecken bei Druck rostrot.",
+          "stipe": "Der Stiel ist kurz, dick, seitlich angesetzt oder fehlt ganz; die Fruchtkörper sitzen breit am Holz an.",
+          "flesh": "Das Fleisch ist dick, saftig, weich, faserig gemasert wie Rindfleisch und sondert beim Anschneiden einen blutroten Saft ab. Geschmack angenehm säuerlich.",
+          "habitat": "Fruchtkörper erscheinen von August bis Oktober meist bodennah an Stämmen oder Stümpfen alter Eichen und Edelkastanien. Er verursacht im Holz eine begehrte Braunfärbung (Kalkeiche/Roteiche).",
+          "sporePrint": "Hell rosa-ockerfarben. Die Sporen sind eiförmig bis ellipsoid, glatt, etwa 4,5–6 × 3,5–4,5 μm groß.",
+          "uses": "Essbar. Jung ein guter Speisepilz mit erfrischend säuerlichem Geschmack, der gern in Scheiben gebraten oder mariniert zubereitet wird.",
+          "confusion": "Der Zottige Schillerporling (Inonotus hispidus) besitzt einen struppig behaarten Hut und wächst an Eiche und Apfelbaum. Sehr junge Fruchtkörper können dem Gemeinen Schwefelporling (Laetiporus sulphureus) ähneln, der flachere, dachziegelig übereinanderstehende Konsolen bildet. Teerfleckenporlinge (Ischnoderma) besitzen miteinander verwachsene Röhren. Der Eichen-Leberporling (Buglossoporus quercinus) wächst an ähnlichen Standorten, besitzt jedoch eine gelbbraune Huthaut und längere Sporen. Die Dreifarbige Tramete (Daedaleopsis confragosa var. tricolor) ist nur etwa 1 cm dick und bildet Lamellen aus. Die Zinnobertramete (Pycnoporus cinnabarinus) ist kleiner, zäh-holzig und hat länglich-eckige Poren.",
+          "notes": "In Nordeuropa ist dies die einzige Art der Gattung. Fistulina antarctica, Fistulina endoxantha und Fistulina pumiliae sind eigenständige Arten an Scheinbuchen (Nothofagus). Befallenes Eichenkernholz wird als Brown Oak gehandelt."
     },
       en: {
         description: "A bracket fungus of living and dead oak, sometimes on sweet chestnut and other broadleaved trees. It is widespread and fairly common in Britain and Ireland, through mainland Europe, and in North America, especially east of the Rocky Mountains. It is also reported from Africa, Australia, subtropical India, and the Canary Islands.",
@@ -20938,16 +20931,16 @@ export const CATALOG = [
           "notes": "Tunnetaan myös synonyyminimellä Boletus erythropus."
     },
       de: {
-          "description": "Ein beliebter Speisepilz aus der Gruppe der Hexenröhrlinge. Weit verbreitet in Laub- und Nadelwäldern auf sauren Böden.",
-          "cap": "Der Hut ist 5–20 cm breit, dunkelbraun, samtig, polsterförmig gewölbt.",
-          "hymenium": "Die Röhren sind gelblich-oliv, im Schnitt sofort tiefblau anlaufend. Die Poren sind leuchtend blutrot bis feuerrot.",
-          "stipe": "Der Stiel ist 5–15 cm lang und 2–5 cm dick, gelborange, dicht besetzt mit roten Flöckchen (ohne Netz!).",
-          "flesh": "Das Fleisch ist fest, leuchtend gelb und blaut bei Verletzung oder im Anschnitt augenblicklich intensiv tintenblau. Geschmack mild.",
-          "habitat": "Fruchtkörper erscheinen von Mai bis November unter Fichten, Buchen und Eichen auf sauren Böden.",
-          "sporePrint": "Olivbraun. Die Sporen sind spindelig, glatt, 12–17 × 5–7 μm groß.",
-          "uses": "Ein hervorragender Speisepilz, der jedoch gut durchgegart werden muss, da er roh Magen-Darm-Giftstoffe enthält. Die intensive Blaufärbung verschwindet beim Kochen.",
-          "confusion": "Der Netzstielige Hexen-Röhrling (Suillellus luridus) hat ein deutliches Netz am Stiel und eine weinrote Schicht unter den Röhren. Der giftige Satans-Röhrling (Rubroboletus satanas) hat einen kreideweißen Hut und ein rotes Netz.",
-          "notes": "Roh giftig; nach ausreichendem Garen ein ausgezeichneter Speisepilz."
+          "description": "Ein beliebter ektomykorrhizabildender Dickröhrling der Nadel- und Mischwälder. Weit verbreitet und häufig in ganz Europa auf sauren Böden.",
+          "cap": "Der Hut ist 5–20 cm breit, halbkugelig bis polsterförmig gewölbt. Die Huthaut ist dunkelbraun, samtig-filzig, trocken und verblasst im Alter selten zu lederbraun.",
+          "hymenium": "Die Röhren sind gelbgrün und blauen sofort stark. Die kleinen Poren sind intensiv feuerrot bis orangerot und verfärben sich bei der geringsten Berührung tief dunkelblau.",
+          "stipe": "Der Stiel ist 5–15 cm lang und 2–5 cm dick, bauchig bis walzenförmig. Er hat eine gelbe Grundfarbe und ist dicht mit feinen, roten Flocken besetzt (kein Netz!).",
+          "flesh": "Das Fleisch ist fest, leuchtend gelb und verfärbt sich im Anschnitt blitzschnell intensiv tiefblau. Der Geschmack ist mild, der Geruch angenehm pilzig.",
+          "habitat": "Fruchtkörper erscheinen von Juni bis November vor allem auf sauren Böden unter Fichten, Tannen, Buchen und Eichen.",
+          "sporePrint": "Olivbraun. Die Sporen sind spindelig, glatt, etwa 12–16 × 5–6,5 μm groß.",
+          "uses": "Ein hervorragender Speisepilz von festem Fleisch. Er muss wie viele Röhrlinge gut durchgegart werden, da er roh giftig ist und Magen-Darm-Beschwerden verursacht.",
+          "confusion": "Der Netzstielige Hexen-Röhrling (Suillellus luridus) hat ein deutliches rotes Netz auf dem Stiel und wächst meist auf Kalkböden. Der giftige Satans-Röhrling (Rubroboletus satanas) besitzt einen kreideweißen Hut und blaut im Fleisch nur schwach.",
+          "notes": "Das Blauen beruht auf Variegatsäure, die an der Luft oxidiert, und das Rot der Poren stammt von Variegatorubin. In Deutschland war er 2018 Speisepilz des Jahres. In der Slowakei wird er von Sammlern oft gemieden, da die roten Poren und das intensive Blauen abschreckend wirken."
     },
       en: {
         description: "An ectomycorrhizal mushroom of acid coniferous and beech woods. It is widespread in Europe, with further reports from the Caucasus, Asia Minor, the Near East, North America, and, as a form, North Africa. It is fairly common in Britain and Ireland, more so in the mountains and foothills than the lowlands.",
@@ -21742,15 +21735,15 @@ export const CATALOG = [
           "notes": "Lajin perinteinen nimi useissa kielissä viittaa Pyhän Yrjön päivään (23. huhtikuuta), jolloin sen itiöemät alkavat nousta Keski-Euroopassa."
     },
       de: {
-          "description": "Ein beliebter Frühlingsspeisepilz, der typischerweise um den Georgstag (23. April) und im Mai auf Wiesen und an Waldrändern erscheint.",
-          "cap": "Der Hut ist 5–12 cm breit, dickfleischig, weißlich bis cremegelb, polsterförmig mit lange eingerolltem Rand.",
-          "hymenium": "Die Lamellen stehen sehr dicht, sind schmal, cremeweiß und am Stiel ausgebuchtet angewachsen.",
-          "stipe": "Der Stiel ist 4–9 cm lang und 1,5–3 cm dick, stämmig, weißlich, voll und fest.",
-          "flesh": "Das Fleisch ist dick, weiß, fest, mit intensivem mehlartigem Geruch (Gurken-Mehl-Geruch) und mildem Geschmack.",
-          "habitat": "Fruchtkörper erscheinen von April bis Juni auf Weiden, Wiesen, in Parkanlagen und lichten Gebüschen, oft in Hexenringen.",
-          "sporePrint": "Weiß. Die Sporen sind ellipsoid, glatt, 5–7 × 3,5–4 μm groß.",
-          "uses": "Ein geschätzter Speisepilz mit typischem Mehlgeschmack, der beim Erhitzen milder wird.",
-          "confusion": "Lebensgefährliche Verwechslungsgefahr mit dem Ziegelroten Risspilz (Inosperma erubescens), der zur gleichen Zeit am gleichen Ort wächst, aber im Alter rötet, bräunliche Lamellen und keinen Mehlgeruch hat. Auch der Riesen-Rötling (Entoloma sinuatum) fruchtet später mit rosa Sporenpulver.",
+          "description": "Ein im Frühjahr wachsender saprotropher Blätterpilz auf Wiesen, Weiden und an Waldrändern. Weit verbreitet und häufig in ganz Europa.",
+          "cap": "Der Hut ist 5–12 cm breit, sehr dickfleischig, anfangs halbkugelig mit eingerolltem Rand, später gewölbt. Die Farbe ist weißlich, cremefarben bis blass ocker. Die Huthaut ist matt, glatt und fühlt sich wie feines Leder an.",
+          "hymenium": "Die Lamellen stehen sehr dicht, sind schmal, am Stiel ausgebuchtet angewachsen, weiß bis cremefarben.",
+          "stipe": "Der Stiel ist 4–9 cm lang und 1,5–3,5 cm dick, zylindrisch, kräftig, weißlich und festfleischig.",
+          "flesh": "Das Fleisch ist weiß, dick und fest. Es besitzt einen ausgeprägten, intensiven Mehlgeruch und -geschmack (an frisch gemahlenes Mehl oder Gurke erinnernd).",
+          "habitat": "Fruchtkörper erscheinen von April bis Juni (traditionell um den Georgstag am 24. April) auf Kalkmagerrasen, Wiesen, in Parkanlagen und lichten Gebüschen, oft in großen Hexenringen.",
+          "sporePrint": "Weiß. Die Sporen sind ellipsoid, glatt, etwa 5–6,5 × 3,5–4 μm groß.",
+          "uses": "Ein traditionsreicher und sehr geschätzter Frühlingsspeisepilz. Sein starker Mehlgeschmack verliert sich beim Erhitzen größtenteils.",
+          "confusion": "Höchste Lebensgefahr besteht durch Verwechslung mit dem tödlich giftigen Ziegelroten Risspilz (Inosperma erubescens), der zur gleichen Jahreszeit am gleichen Standort wächst, dessen Fleisch jedoch im Schnitt rötet und der keinen Mehlgeruch hat. Der Riesen-Rötling (Entoloma sinuatum) fruchtet erst im Hochsommer/Herbst und hat rosa Sporenpulver.",
           "notes": "Eine Beurteilung aus dem Jahr 2019 stuft die Art als nicht gefährdet (Least Concern) ein."
     },
       en: {
@@ -22592,16 +22585,15 @@ export const CATALOG = [
           "notes": "Muskariinimyrkytyksen vastalääkkeenä käytetään atropiinia."
     },
       de: {
-          "description": "Ein lebensgefährlich giftiger Risspilz auf Kalkböden im Frühjahr und Frühsommer. Er enthält extrem hohe Konzentrationen an Muscarin.",
-          "cap": "Der Hut ist 2,5–9 cm breit, anfangs kegelig, dann ausgebreitet mit spitzem Buckel, weißlich bis strohgelb, radialfaserig einreißend, im Alter und auf Druck ziegelrot fleckend.",
-          "hymenium": "Die Lamellen sind anfangs weißlich, werden olivbraun und flecken bei Berührung rötlich.",
-          "stipe": "Der Stiel ist 2,5–12 cm lang und 0,4–2 cm dick, zylindrisch, weißlich, im Alter und bei Druck rasch ziegelrot anlaufend, ohne Ring.",
-          "flesh": "Das Fleisch ist weißlich, rötet im Anschnitt langsam. Geruch schwach fruchtig, im Alter unangenehm spermatisch, keineswegs mehlartig.",
-          "habitat": "Fruchtkörper erscheinen von Mai bis Juli in kalkreichen Laubwäldern, Parks und Gärten unter Buchen, Eichen und Linden.",
-          "sporePrint": "Ockerbraun bis lehmbraun. Die Sporen sind glatt, bohnenförmig, 9–15 × 5–8 μm groß.",
-          "uses": "Tödlich giftig! Enthält enorme Mengen an Muscarin, die das Muscarin-Syndrom (starker Schweißausbruch, Speichelfluss, Herz-Kreislauf-Kollaps) hervorrufen. Schon kleine Mengen können tödlich sein.",
-          "confusion": "Wird häufig mit dem essbaren Mairitterling (Calocybe gambosa) verwechselt, der jedoch rein weißes Sporenpulver hat, niemals rötet und stark nach Mehl riecht.",
-          "notes": "Enthält deutlich mehr Muscarin als der Fliegenpilz und kann in geringer Dosis tödlich wirken."
+          "description": "Ein tödlich giftiger ektomykorrhizabildender Blätterpilz kalkhaltiger Laubwälder und Parkanlagen, meist bei Buchen, Eichen, Linden oder Hainbuchen. Weit verbreitet in Europa, gemeldet aus Ostanatolien sowie aus Israel unter Eichen und Kiefern. In Westsibirien fruchtet er auf Rasenflächen und im Schatten gepflanzter Laubbäume.",
+          "cap": "Der Hut ist 2,5–9 cm breit (einzelne Exemplare bis 12 cm), anfangs kegelig oder glockig mit eingerolltem Rand, später gewölbt bis ausgebreitet mit breitem Buckel. Der Rand biegt sich oft auf und reißt radial ein. Die Huthaut ist trocken, seidig glänzend mit feinen radialen Fasern. Jung weißlich bis cremefarben, verfärbt er sich bald strohgelb bis ziegelrot, wobei Druckstellen oder Risse intensiv zinnoberrot nachröten.",
+          "hymenium": "Die Lamellen stehen dicht, sind bis etwa 8 mm breit, mit weißlich beflockter, unebener Schneide. Sie sind ausgebuchtet angewachsen bis fast frei, anfangs weißlich bis ockerlich, dann rosa- oder olivbraun und schließlich rotbraun, oft mit rötlichen Flecken, und röten bei Verletzung.",
+          "stipe": "Der Stiel ist 2,5–12 cm lang und 0,4–2 cm dick, zylindrisch, an der Basis oft keulig verdickt, voll, weißlich bis blassocker, im Alter von der Basis aufwärts ziegelrot verfärbend. Ein Ring fehlt.",
+          "flesh": "Das Fleisch ist weißlich, im Stiel blassrosa getönt. Druckstellen und Schnittflächen röten intensiv. Junge Pilze riechen oft fruchtig-süßlich, ältere widerlich süßlich oder dumpf, niemals mehlartig. Der Geschmack ist mild.",
+          "habitat": "Fruchtkörper erscheinen von Mai bis September, vor allem im Juni, auf neutralen oder kalkhaltigen Böden unter Buchen, Eichen, Linden und Hainbuchen in Laub- und Mischwäldern sowie Parks.",
+          "sporePrint": "Ockerbraun bis lehmbraun. Die Sporen sind glatt, bohnenförmig bis ellipsoid, etwa 9–15 × 5–8 μm groß.",
+          "uses": "Tödlich giftig. Er enthält extrem hohe Mengen an Muscarin (wesentlich mehr als der Fliegenpilz). Bereits geringe Mengen (etwa 40–50 g Frischpilz) führen zu schwerem Muscarin-Syndrom mit Schweißausbrüchen, Speichelfluss, Sehstörungen, Kreislaufkollaps und Herzstillstand.",
+          "confusion": "Wird im Frühjahr lebensgefährlich mit dem Mairitterling (Calocybe gambosa) verwechselt, dessen Fleisch unveränderlich weiß bleibt, dessen Lamellen weiß sind und der stark nach Mehl riecht. Inocybe godeyi ist kleiner und besitzt eine gerandete Knolle. Der Birnen-Risspilz (Inocybe pyriodora) rötet langsam und riecht stark fruchtig nach Birnen."
     },
       en: {
         description: "An ectomycorrhizal mushroom of calcareous deciduous woods, parks, and grassy places, usually with beech, oak, lime, or hornbeam. It is widespread in Europe, recorded from eastern Anatolia, and in Israel under oak and pine. In western Siberia it fruits on lawns and in planted broadleaf shade.",
@@ -23392,15 +23384,15 @@ export const CATALOG = [
           "notes": "Lajin piikit toimivat itiölavana helttojen tai pillien sijasta."
     },
       de: {
-          "description": "Ein ektomykorrhizabildender Stoppelpilz. Weit verbreitet und häufig in ganz Europa sowohl in Nadel- als auch in Laubwäldern. Eine Revision aus dem Jahr 2018 bestätigt Nachweise aus Europa; Funde aus Nordamerika und Ostasien gehören anderen Arten an.",
-          "cap": "Der Hut ist 3–15 cm breit, anfangs gewölbt, dann unregelmäßig verbogen, wellig oder gelappt, oft mit eingedellter Mitte. Die Oberfläche ist trocken, samtig-filzig bis kahl, cremefarben, semmelgelb bis blass ocker-orange, am Rand oft heller. Bei Druck und im Alter verfärbt er sich ocker- bis orangebraun.",
-          "hymenium": "Die Hutunterseite ist dicht mit weichen, brüchigen, 2–7 mm langen Stacheln (Stoppeln) besetzt. Sie laufen meist etwas am Stiel herab, sind anfangs weißlich bis cremefarben, später hutfarben und brechen bei Berührung leicht ab.",
-          "stipe": "Der Stiel ist 2–10 cm lang und 0,5–3 cm dick, zylindrisch, oft unregelmäßig dick und exzentrisch angesetzt, weißlich bis blasscreme, bräunt bei Berührung langsam und besitzt keinen Ring.",
-          "flesh": "Das Fleisch ist dick, fest, brüchig, weißlich bis schwach gelblich. Geruch angenehm fruchtig, Geschmack mild bis schwach säuerlich oder pfeffrig; ältere Fruchtkörper werden bitter.",
-          "habitat": "Fruchtkörper erscheinen von Juli bis November, einzeln, in Gruppen oder Hexenringen unter Fichten, Kiefern, Tannen und Buchen auf sauren bis basenreichen Böden.",
-          "sporePrint": "Weiß bis blass cremefarben. Die Sporen sind glatt, breit ellipsoid bis fast rundlich, 6,5–9 × 5,5–7,5 μm groß.",
-          "uses": "Ein hervorragender Speisepilz, besonders jung gesammelt, da ältere Exemplare bitter werden. Er behält beim Kochen seine feste Textur und verliert die pfeffrige Note.",
-          "confusion": "Der Rötliche Stoppelpilz (Hydnum rufescens) ist kleiner, zierlicher, lebhafter orange gefärbt und besitzt nicht herablaufende Stoppeln. Pfifferlinge (Cantharellus) besitzen Leisten statt abbrechender Stoppeln.",
+          "description": "Ein ektomykorrhizabildender Stoppelpilz. Weit verbreitet und häufig in ganz Europa, sowohl in Nadel- als auch in Laubwäldern. Eine Revision aus dem Jahr 2018 bestätigte Nachweise aus Europa. Früher unter diesem Namen geführte Pilze aus Nordamerika und Ostasien gehören zu anderen Arten. Ältere Berichte dehnten das Verbreitungsgebiet über die gesamte gemäßigte nördliche Hemisphäre aus.",
+          "cap": "Der Hut ist 3–15 cm breit. Er ist anfangs gewölbt, dann flach ausgebreitet, wellig oder gelappt und mitunter eingedrückt. Der Rand ist jung eingerollt, und dicht stehende Hüte verwachsen oft unförmig. Die Oberfläche ist trocken und glatt bis fein samtig-filzig. Die Farbe ist cremefarben, gelblich bis blass orangeocker, zum Rand hin meist blasser, und kann fast weiß verblassen. Druckstellen und Alter bringen ockerliche bis orangebraune Töne hervor.",
+          "hymenium": "Dicht stehende, weiche Stacheln von 2–7 mm Länge bedecken die Unterseite. Sie sind brüchig, laufen meist deutlich und bisweilen nur kurz am Stiel herab. Sie sind anfangs weißlich bis cremefarben, nehmen später die Hutfarbe oder blasses Orange an und brechen bei Berührung leicht ab. Die Basidien sind keulig, 35–50 × 6–8 μm groß, viersporig, mit 3–6 μm langen Sterigmen und Basalschnallen.",
+          "stipe": "Der Stiel ist 2–10 cm lang und 0,5–3 cm dick. Er ist zylindrisch bis leicht keulig und oft exzentrisch angesetzt. Die Basis kann sich verjüngen oder leicht angeschwollen sein. Er ist voll, weißlich bis cremefarben und blasser als der Hut. Druckstellen färben sich blass ockerbraun bis orangebraun. Ein Ring fehlt.",
+          "flesh": "Das Fleisch ist dick, fest und brüchig, weiß bis schwach gelblich. Manche Aufsammlungen verfärben sich im Anschnitt gelblich bis orangebraun, andere bleiben unveränderlich. Der Geruch ist angenehm, schwach fruchtig. Der Geschmack ist mild bis schwach säuerlich oder pfeffrig; ältere Fruchtkörper werden bitter.",
+          "habitat": "Fruchtkörper erscheinen von Juli bis November (in Großbritannien und Irland von August bis in den Dezember). In westeuropäischen Kiefernwäldern können sie bis in den Winter überdauern. Sie wachsen einzeln, in Gruppen, Reihen oder Hexenringen auf Erde, Falllaub oder Moos unter Fichten, Tannen, Kiefern oder Buchen sowie in Mischwäldern mit Birken, Eichen, Espen oder Haselnuss, gern auf kalkhaltigen oder lehmigen Böden.",
+          "sporePrint": "Weiß bis blass cremefarben. Die Sporen sind glatt, dünnwandig, hyalin, rundlich bis breit ellipsoid, etwa 6,5–9 × 5,5–7,5 μm groß (beim Typusmaterial 7–8,5 × 6,2–7,5 μm).",
+          "uses": "Ein hervorragender Speisepilz mit festem Fleisch. Junge Fruchtkörper werden bevorzugt, da ältere Exemplare bitter werden können. Er eignet sich für Suppen, Schmorgerichte und Risotto. Auf europäischen Märkten wird er regelmäßig gehandelt. Durch Erhitzen mildert sich der pfeffrige Geschmack.",
+          "confusion": "Der Rötliche Stoppelpilz (Hydnum rufescens) ist kleiner, lebhafter aprikosen- bis orangerot gefärbt, besitzt am Stiel nicht herablaufende Stacheln und einen schärfer abgegrenzten Hutrand. Hydnum ellipsosporum besitzt 3–5 cm breite Hüte und ellipsoide Sporen (9–11 × 6–7,5 μm). Sehr blasse Fruchtkörper lassen sich ohne Sequenzierung kaum von Hydnum boreorepandum unterscheiden. Hydnum slovenicum hat einen orangeockernen Hut und kleinere Sporen (durchschnittlich 7,5 × 6,4 μm). Hydnum albidum ist eine kleinere, weißliche Art mit kleinen rundlichen Sporen. Echte Pfifferlinge (Cantharellus cibarius) besitzen dicke Gabelleisten statt abbrechender Stacheln.",
           "notes": "Eine Beurteilung aus dem Jahr 2019 stuft die Art als nicht gefährdet (Least Concern) ein."
     },
       en: {
@@ -24245,16 +24237,16 @@ export const CATALOG = [
           "notes": "Sientä on perinteisesti käytetty villalankojen värjäykseen, jolloin saadaan kauniita harmaanvihreitä ja sinertäviä sävyjä."
     },
       de: {
-          "description": "Ein ektomykorrhizabildender Stacheling der Gebirgsnadelwälder unter Fichten. Weit verbreitet in Europa und Nordamerika, in Mitteleuropa gebietsweise stark zurückgegangen.",
-          "cap": "Der Hut misst 5–25 cm (selten bis 30 cm) im Durchmesser, ist anfangs gewölbt, später verflacht bis trichterförmig eingedellt. Die graubraune bis dunkelbraune Oberfläche ist mit auffälligen, dicken, konzentrisch angeordneten, aufgerichteten dunklen Schuppen besetzt.",
-          "hymenium": "Die Unterseite trägt gedrängte, brüchige Stacheln, die am Stiel herablaufen. Sie sind bis zu 1,5 cm lang, anfangs weißlich-grau, später graubraun bis dunkelbraun.",
-          "stipe": "Der Stiel ist 3–10 cm lang und 1–4 cm dick, oft kurz und gedrungen, weißlich-grau bis bräunlich, voll und fest.",
-          "flesh": "Das Fleisch ist dick, zäh, weißlich-grau bis bräunlich. Geruch angenehm würzig, Geschmack jung mild, im Alter bitterlich.",
-          "habitat": "Fruchtkörper erscheinen von August bis November in montanen Nadelwäldern unter Fichten auf sauren, nährstoffarmen Böden.",
-          "sporePrint": "Braun. Die Sporen sind unregelmäßig höckerig-warzig, rundlich, etwa 6–8 × 5–7 μm groß.",
-          "uses": "Jung essbar und als Würzpilz verwendbar; ältere Fruchtkörper sind bitter und zäh. Er eignet sich hervorragend zum Trocknen und Vermahlen.",
-          "confusion": "Der Kiefern-Habichtspilz (Sarcodon squamosus) wächst unter Kiefern und besitzt feinere Schuppen. Der Gallen-Stacheling (Sarcodon scabrosus) hat einen blaugrünen Stielfuß und schmeckt extrem bitter.",
-          "notes": "Pilz des Jahres 1996 in Deutschland."
+          "description": "Ein ektomykorrhizabildender Stacheling der Fichtenwälder, der auch bei Tannen vorkommt. Weit verbreitet in Europa und Nordamerika sowie aus Japan gemeldet. Nachweise von den Britischen Inseln und aus den Niederlanden gehören zu einem eigenständigen Kiefernbegleiter. In montanen Fichtenwäldern ist er lokal häufig, war früher jedoch wesentlich weiter verbreitet.",
+          "cap": "Der Hut ist 5–25 cm breit und kann bis zu 30 cm erreichen. Er ist anfangs gewölbt mit eingerolltem Rand, später flach bis trichterförmig vertieft, oft mit einer tiefen Nabelöffnung, die in den Stiel übergeht. Der Rand wird wellig oder gelappt. Die Oberfläche ist trocken, graubraun bis kaffeebraun. Im Zentrum stehen grobe, aufgerichtete, dachziegelig angeordnete, dunkelbraune bis schwärzliche Schuppen ab, die zum Rand hin flacher werden.",
+          "hymenium": "Die Unterseite trägt dicht stehende, brüchige Stacheln statt Lamellen, die am Stiel herablaufen. Sie sind einige Millimeter bis 1,5 cm lang, jung weißlich oder blassgrau, später graubraun bis dunkelbraun. Schnallen sind vorhanden.",
+          "stipe": "Der Stiel ist 3–10 cm lang und 1–4 cm dick. Viele Fruchtkörper stehen so gedrungen, dass der Stiel erst beim Anheben sichtbar wird. Er ist zylindrisch oder leicht keulig, oft exzentrisch und an der Basis knollig verdickt. Die Stieloberfläche ist weißlich bis braun und glatt.",
+          "flesh": "Das Fleisch ist dick, im Hut fest und saftig, im Stiel zäher, weißlich bis blass graubraun. Der Geruch ist würzig, im Alter unangenehm; der Geschmack ist anfangs mild und wird im Nachgang oft herb bis bitter.",
+          "habitat": "Fruchtkörper erscheinen von August bis November in montanen Nadelwäldern, fast ausschließlich unter Fichten, seltener unter Tannen, auf sauren oder basenarmen Böden.",
+          "sporePrint": "Braun. Die Sporen sind unregelmäßig rundlich, grob gehöckert-warzig, etwa 6–8 × 5–7 μm groß.",
+          "uses": "Jung essbar. Ältere Fruchtkörper sind zäh und schmecken bitter. Getrocknet und gemahlen wird er bisweilen als Würzpilz verwendet.",
+          "confusion": "Der Kiefern-Habichtspilz (Sarcodon squamosus) wächst streng unter Kiefern, hat einen helleren, gelbbraunen Hut mit feineren Schuppen und mikroskopisch keine Schnallen. Der Gallen-Stacheling (Sarcodon scabrosus) hat einen bläulich-grünen Stielfuß und schmeckt extrem bitter.",
+          "notes": "Alte Fruchtkörper dieser Art und verwandter Stachelinge enthalten blaugrüne Pigmente, die traditionell zum Färben von Wolle verwendet wurden. Eine Rote Liste Polens aus dem Jahr 2006 führt die Art als gefährdet (Vulnerable); bis 2014 war sie in Polen streng geschützt. Pilz des Jahres 1996 in Deutschland."
     },
       en: {
         description: "An ectomycorrhizal mushroom of spruce woods, also found with fir. It is widespread in Europe and North America, and it is reported from Japan. Records from the British Isles and the Netherlands belong to a separate pine associate. It is locally common in mountain spruce woods and was formerly more abundant.",
@@ -25064,16 +25056,16 @@ export const CATALOG = [
           "notes": "Helttojen pehmeys ja murenemattomuus on kyyhkyhaperon luotettavin tuntomerkki."
     },
       de: {
-          "description": "Ein sehr häufiger und beliebter ektomykorrhizabildender Speisepilz in Laub- und Mischwäldern. Bekannt für seine biegsamen, nicht splitternden Lamellen.",
-          "cap": "Der Hut ist 5–15 cm breit, sehr variabel gefärbt in violetten, stahlblauen, olivgrünen und purpurnen Tönen, oft scheckig gemustert. Anfangs halbkugelig, dann ausgebreitet und in der Mitte vertieft.",
-          "hymenium": "Die Lamellen sind weiß, dicht stehend und besitzen eine für Täublinge untypische weiche, elastische Konsistenz; sie splittern beim Drüberstreichen mit dem Finger nicht.",
-          "stipe": "Der Stiel ist 4–10 cm lang und 1,5–3 cm dick, rein weiß, fest, voll, später schwammig gekammert.",
-          "flesh": "Das Fleisch ist rein weiß, unter der Huthaut oft violettlich getönt, fest und spröde. Geruch unauffällig, Geschmack mild und nussartig. Eisensulfat (FeSO4) ruft fast keine Farbreaktion hervor.",
-          "habitat": "Fruchtkörper erscheinen von Juni bis November vor allem unter Rotbuchen und Eichen, seltener unter Fichten.",
-          "sporePrint": "Rein weiß. Die Sporen sind breit ellipsoid, fein warzig, etwa 7–9 × 6–7 μm groß.",
-          "uses": "Ein hervorragender Speisepilz mit festem, schmackhaftem Fleisch, vielseitig verwendbar in Pfannengerichten, Suppen und Salaten.",
-          "confusion": "Grüne Formen können flüchtig an den tödlich giftigen Grünen Knollenblätterpilz (Amanita phalloides) erinnern, der jedoch eine Volva, einen Ring und splitternde Lamellen besitzt. Andere Täublinge haben splitternde Lamellen.",
-          "notes": "Die weichen, nicht splitternden Lamellen und die negative Eisensulfatreaktion sind arttypisch. Pilz des Jahres 1997 in Deutschland."
+          "description": "Ein ektomykorrhizabildender Blätterpilz der Laub- und Mischwälder. Häufig und weit verbreitet in ganz Europa. Meldungen aus Afrika und Asien sind unsicher; nordamerikanische Funde gehören zu einem Komplex verwandter Arten.",
+          "cap": "Der Hut misst 5–15 cm im Durchmesser, ist anfangs halbkugelig, dann gewölbt und schließlich flach niedergedrückt. Die Farbe ist außerordentlich variabel: ein Gemisch aus Violett, Schiefergrau, Olivgrün und Brauntönen. Die Huthaut ist feucht glänzend und schmierig, radial geadert und lässt sich etwa bis zur Hälfte abziehen.",
+          "hymenium": "Die Lamellen sind weiß, stehen dicht und besitzen für Täublinge eine einzigartige Eigenschaft: Sie sind weich, elastisch, fettig anzufassen und splittern bei Berührung nicht (sie brechen nicht wie bei anderen Täublingen).",
+          "stipe": "Der Stiel ist 5–10 cm lang und 1,5–3 cm dick, zylindrisch, rein weiß, bisweilen schwach lila überhaucht, voll und fest.",
+          "flesh": "Das Fleisch ist rein weiß, unter der Huthaut oft violett getönt, fest und brüchig. Es riecht angenehm pilzartig und schmeckt mild und nussig. Mit Eisensulfat (FeSO4) zeigt das Fleisch fast keine Farbreaktion (bleibt graugrünlich oder unverändert, im Gegensatz zu den meisten anderen milden Täublingen, die rosa reagieren).",
+          "habitat": "Fruchtkörper erscheinen von Juni bis November vor allem in Laubwäldern unter Rotbuchen und Eichen, aber auch in Nadelwäldern bei Fichten auf mäßig sauren bis neutralen Böden.",
+          "sporePrint": "Rein weiß. Die Sporen sind breit ellipsoid, fein warzig, etwa 7–9 × 6–7 μm groß, mit nur teilweise verbundenen amyloiden Warzen.",
+          "uses": "Ein hervorragender, beliebter Speisepilz von festem Fleisch und feinem Geschmack, der vielseitig zubereitet werden kann.",
+          "confusion": "Der tödlich giftige Grüne Knollenblätterpilz (Amanita phalloides) hat stets eine Knolle mit Scheide (Volva) und einen Ring am Stiel sowie splitternde Lamellen. Andere grüne oder violette Täublinge wie der Papageien-Täubling (Russula ionochlora) oder der Grasgrüne Täubling (Russula aeruginea) besitzen splitternde Lamellen und reagieren mit Eisensulfat deutlich lachsrosa.",
+          "notes": "Eine Beurteilung aus dem Jahr 2025 stuft die Art als nicht gefährdet (Least Concern) ein, stuft afrikanische Nachweise als unsicher ein und trennt australische Funde als eigene Art ab. Pilz des Jahres 1997 in Deutschland."
     },
       en: {
         description: "An ectomycorrhizal mushroom of broadleaf and mixed woods, most often with beech and oak and also with spruce and fir. It is widespread in Europe from the Mediterranean to central Fennoscandia, and it is reported from North Africa, the Canary Islands, temperate Asia, and parts of North and Central America.",
@@ -25874,16 +25866,16 @@ export const CATALOG = [
           "notes": "Lajinimesi mutabilis tarkoittaa muuttuvaa ja viittaa lakin kaksiväriseen kuivumiseen."
     },
       de: {
-          "description": "Ein sehr beliebter, büschelig wachsender holzzersetzender Speisepilz an Laubholz. Durch extreme Verwechslungsgefahr mit dem tödlichen Gifthäubling nur für Kenner geeignet.",
-          "cap": "Der Hut ist 2–7 cm breit, stark hygrophan: feucht honiggelb bis zimtbraun mit durchscheinend gerieftem Rand, abtrocknend von der Mitte her ockergelblich aufhellend.",
-          "hymenium": "Die Lamellen sind gedrängt, schmal, anfangs hellbraun, später rostbraun gefärbt.",
-          "stipe": "Der Stiel ist 3–8 cm lang und 0,3–0,8 cm dick, zäh, elastisch, oberhalb des häutigen Rings blass und glatt, unterhalb des Rings dunkelbraun und auffallend sperrig abstehend geschuppt.",
-          "flesh": "Das Fleisch ist im Hut zart und wässrig, im Stiel zähfaserig. Geruch angenehm würzig-pilzig, Geschmack mild.",
-          "habitat": "Fruchtkörper erscheinen von Mai bis November in dichten Büscheln an Stümpfen und liegenden Stämmen von Laubbäumen, vor allem Buche und Birke.",
-          "sporePrint": "Rostbraun. Die Sporen sind glatt, ellipsoid, mit Keimpore, 6–7,5 × 4–4,5 μm groß.",
-          "uses": "Ein vorzüglicher Speisepilz für Suppen und Saucen, von dem nur die zarten Hüte verwendet werden.",
-          "confusion": "Lebensgefährliche Verwechslungsgefahr mit dem tödlich giftigen Gifthäubling (Galerina marginata), der silbrig-weißlich längsfaserig genattert ist (keine abstehenden Schuppen unter dem Ring besitzt) und nach Mehl riecht.",
-          "notes": "Das abstehend geschuppte Stielteil unterhalb des Rings unterscheidet es sicher vom Gifthäubling."
+          "description": "Ein büschelig wachsender, holzzersetzender Blätterpilz an totem Laubholz. Sehr häufig und weit verbreitet in den gemäßigten Zonen Europas, Asiens und Nordamerikas.",
+          "cap": "Der Hut ist 2–7 cm breit, gewölbt bis ausgebreitet, oft mit stumpfem Buckel. Er ist stark hygrophan (beim Trocknen die Farbe wechselnd): feucht honiggelb bis zimtbraun mit dunklerem Rand, trocken von der Mitte her zu blass ockergelb aufhellend.",
+          "hymenium": "Die Lamellen stehen dicht, sind am Stiel angewachsen bis kurz herablaufend, anfangs blass bräunlich, später durch das Sporenpulver rostbraun.",
+          "stipe": "Der Stiel ist 4–9 cm lang und 0,4–0,8 cm dick, zäh, hohl und verbogen. Er trägt einen häutigen, aufsteigenden, braunen Ring. Oberhalb des Rings ist der Stiel glatt und blass; unterhalb des Rings ist er dunkelbraun bis schwärzlich und auffällig mit abstehenden, dunklen Schüppchen besetzt.",
+          "flesh": "Das Fleisch ist im Hut zart und wässrig bräunlich, im Stiel zäh und dunkel. Der Geruch ist angenehm würzig-pilzig, der Geschmack mild.",
+          "habitat": "Fruchtkörper erscheinen von April bis November in oft großen Büscheln an Stümpfen und liegenden Stämmen von Laubbäumen (vor allem Buche, Birke, Erle), selten an Nadelholz.",
+          "sporePrint": "Rostbraun bis zimtbraun. Die Sporen sind glatt, ellipsoid, etwa 6–7,5 × 4–4,5 μm groß, mit deutlichem Keimporus.",
+          "uses": "Ein hervorragender Speisepilz von kräftig-würzigem Aroma. Es sollten nur die zarten Hüte verwendet werden, da die Stiele zäh und holzig sind.",
+          "confusion": "Höchste Lebensgefahr besteht durch Verwechslung mit dem tödlich giftigen Gifthäubling (Galerina marginata), der ebenfalls an Holz wächst, dessen Stiel jedoch unter dem Ring silbrig-weiß längsüberfasert ist und niemals abstehende Schüppchen trägt. Der Grünblättrige Schwefelkopf (Hypholoma fasciculare) hat schwefelgelbe bis grünliche Lamellen und schmeckt intensiv bitter.",
+          "notes": "Eine Beurteilung aus dem Jahr 2019 stuft die Art als nicht gefährdet (Least Concern) mit stabilem Bestandstrend ein."
     },
       en: {
         description: "A wood-rotting mushroom of tufts on stumps and fallen trunks. It is common through Britain and Ireland and across Europe, from the Mediterranean to Iceland and Scandinavia. It is widespread in Asia, including the Caucasus, Siberia, and Japan, and in North America, especially the montane west, and in Australia.",
@@ -26694,16 +26686,15 @@ export const CATALOG = [
           "notes": "Fylogeneettiset tutkimukset ovat osoittaneet, että aiemmin erillisinä pidetyt lajit Galerina autumnalis ja Galerina venenata kuuluvat tähän samaan lajiin."
     },
       de: {
-          "description": "Ein tödlich giftiger, holzzersetzender Pilz an Nadel- und Laubholz. Enthält dieselben lebensgefährlichen Amatoxine wie der Grüne Knollenblätterpilz.",
-          "cap": "Der Hut ist 1,5–4 cm breit, gewölbt, hygrophan: feucht ocker- bis gelbbraun mit schwach gerieftem Rand, trocken blass gelblich.",
-          "hymenium": "Die Lamellen sind anfangs hell ockerbraun, später rostbraun und am Stiel angewachsen.",
-          "stipe": "Der Stiel ist 2–7 cm lang und 0,2–0,5 cm dick, bräunlich, mit einem flüchtigen häutigen Ring. Unterhalb des Rings ist der Stiel silbrig-weißlich längsfaserig überzogen (niemals abstehend geschuppt!).",
-          "flesh": "Das Fleisch ist dünn, bräunlich, mit deutlichem Mehlgeruch und mehlartigem Geschmack.",
-          "habitat": "Fruchtkörper erscheinen von August bis November einzeln oder in kleinen Trupps an vermorschtem Nadelholz, seltener an Laubholz.",
-          "sporePrint": "Rostbraun. Die Sporen sind ellipsoid bis mandelförmig, warzig, 8–11 × 5–6,5 μm groß.",
-          "uses": "Tödlich giftig! Enthält tödliche Mengen Amatoxine, die Leber und Nieren zerstören. Kochen oder Trocknen zerstört das Gift nicht.",
-          "confusion": "Wird häufig mit dem essbaren Stockschwämmchen (Kuehneromyces mutabilis) verwechselt, das jedoch abstehende dunkle Schuppen unter dem Ring hat und würzig riecht. Auch mit dem Rauchblättrigen Schwefelkopf (Hypholoma capnoides) verwechselbar.",
-          "notes": "Die Gifte werden weder durch Kochen noch durch Trocknen zerstört."
+          "description": "Ein tödlich giftiger, holzzersetzender Blätterpilz. Weit verbreitet in der gesamten nördlichen Hemisphäre (Europa, Asien, Nordamerika) sowie in Teilen Australiens nachgewiesen.",
+          "cap": "Der Hut ist 1,5–4 cm breit, gewölbt bis flach ausgebreitet, oft mit schwachem Buckel. Die Farbe ist ockerbraun, honiggelb bis dattelbraun. Die Huthaut ist hygrophan, feucht glatt und am Rand schwach durchscheinend gerieft, trocken blasser gelblich aufhellend.",
+          "hymenium": "Die Lamellen stehen dicht, sind am Stiel breit angewachsen oder laufen kurz herab, anfangs gelbbraun, bei Sporenreife rostbraun.",
+          "stipe": "Der Stiel ist 3–7 cm lang und 0,2–0,6 cm dick, zylindrisch, oft verbogen, hohl. Er trägt einen zarten, häutigen, oft vergänglichen weißlichen bis bräunlichen Ring. Unterhalb des Rings ist der Stiel dunkelbraun und auf ganzer Länge silbrig-weißlich längsfaserig überzogen (völlig glatt, ohne abstehende Schüppchen!).",
+          "flesh": "Das Fleisch ist dünn, bräunlich, wässrig. Der Geruch ist deutlich mehlartig (an frisch gemahlenes Getreide erinnernd).",
+          "habitat": "Fruchtkörper erscheinen von August bis November einzeln, gesellig oder in kleinen Büscheln an morschem Totholz, Stümpfen und Ästen von Nadelbäumen (vor allem Fichte, Kiefer), aber auch an Laubholz.",
+          "sporePrint": "Rostbraun. Die Sporen sind ellipsoid bis mandelförmig, warzig, etwa 8–11 × 5–6,5 μm groß.",
+          "uses": "Tödlich giftig. Er enthält dieselben lebensgefährlichen Amatoxine wie der Grüne Knollenblätterpilz in hoher Konzentration. Eine Vergiftung führt nach langer Latenzzeit zu Leberversagen und kann tödlich enden.",
+          "confusion": "Wird fatalerweise mit dem essbaren Gemeinen Stockschwämmchen (Kuehneromyces mutabilis) verwechselt, dessen Stiel unter dem Ring dicht mit abstehenden Schüppchen besetzt ist und das angenehm pilzig riecht. Das Rauchblättrige Stockschwämmchen (Hypholoma capnoides) hat graue Lamellen und keinen mehligen Geruch."
     },
       en: {
         description: "A wood-rotting mushroom that fruits alone or in small clusters on stumps, fallen trunks, and buried wood. It is widespread in the Northern Hemisphere, through Europe, Asia, and North America, and it is also recorded in Australia and Antarctica. In Britain and Ireland it is uncommon.",
@@ -27502,16 +27493,15 @@ export const CATALOG = [
           "notes": "Yksi helpoimmin tunnistettavista suursienistä kukkakaalimaisen habituksensa ansiosta."
     },
       de: {
-          "description": "Ein auffälliger, wie ein Badeschwamm oder Blumenkohl aussehender holzzersetzender Pilz am Fuße alter Kiefern. Ein sehr beliebter Speisepilz.",
-          "cap": "Der Fruchtkörper wird 10–40 cm breit, bis 20 cm hoch und mehrere Kilogramm schwer. Er besteht aus einem dicken, fleischigen Strunk, aus dem unzählige blattartig gewundene, gekräuselte, gelblich-weiße bis ockerfarbene Verzweigungen entspringen.",
-          "hymenium": "Die Fruchtschicht überzieht beidseitig die gekräuselten Verzweigungen.",
-          "stipe": "Der Stiel ist dick, knollig, tief im Wurzelbereich der Wirtskiefer verankert.",
-          "flesh": "Das Fleisch ist weißlich, elastisch, im Strunk zäh. Geruch angenehm nussig-würzig, Geschmack mild.",
-          "habitat": "Fruchtkörper erscheinen von August bis November am Stammgrund oder über Wurzeln lebender alter Kiefern auf sandigen Böden.",
-          "sporePrint": "Cremeweiß bis blassgelblich. Die Sporen sind glatt, breit ellipsoid, 5–7 × 4–4,5 μm groß.",
-          "uses": "Ein hervorragender Speisepilz, besonders für Suppen, Ragouts und Bratgerichte geeignet. Wegen der krausen Verästelungen muss er gründlich von Sand und Erde gereinigt werden.",
-          "confusion": "Die Breitblättrige Glucke (Sparassis laminosa) wächst an Eichen und besitzt breitere, weniger gekräuselte Lappen.",
-          "notes": "Verursacht im Wurzelholz eine intensive Braunfäule."
+          "description": "Ein großer, holzzersetzender Pilz aus der Verwandtschaft der Stielporlingsartigen, der als Wurzelparasit an Nadelbäumen lebt. Weit verbreitet in den gemäßigten Nadelwäldern Europas und Asiens.",
+          "cap": "Der Fruchtkörper bildet einen großen, rundlichen bis blumenkohlartigen Busch von 10–35 cm (selten bis 50 cm) Durchmesser und kann mehrere Kilogramm wiegen. Er besteht aus unzähligen, dicht verschlungenen, flachen, blattartig gekräuselten Verzweigungen. Die Farbe ist cremeweiß bis strohgelb, an den Rändern im Alter bräunend.",
+          "hymenium": "Die Fruchtschicht überzieht beide Seiten der gekräuselten Verzweigungen, ist glatt und reift gleichmäßig ab.",
+          "stipe": "Der Stiel ist kurz, dick, tief im Holz oder Boden verwurzelt, fleischig, schwärzlich-braun und verzweigt sich sofort in die blattartigen Lappen.",
+          "flesh": "Das Fleisch ist weißlich, elastisch-wachsartig, im Alter zäher. Der Geruch ist intensiv würzig und nussartig, der Geschmack mild und aromatisch.",
+          "habitat": "Fruchtkörper erscheinen von August bis November fast ausschließlich am Stammgrund oder an Wurzeln alter Kiefern, selten an Lärchen oder Douglasien.",
+          "sporePrint": "Cremegelb bis blass ocker. Die Sporen sind glatt, ellipsoid, etwa 5–7 × 4–5 μm groß.",
+          "uses": "Ein hervorragender und sehr ergiebiger Speisepilz von nussigem Geschmack und bissfester Textur. Vor der Zubereitung muss er gründlich gewaschen werden, um Nadeln und Sand aus den Verzweigungen zu entfernen.",
+          "confusion": "Die Breitblättrige Glucke (Sparassis spathulata) wächst bei Laubbäumen (vor allem Eichen) und besitzt breitere, weniger gekräuselte, flache Blattlappen. Verschiedene Korallenpilze (Ramaria-Arten) haben aufrechte, zylindrische Äste und wachsen nicht aus einem massiven dicken Wurzelstrunk am Kiefernstamm."
     },
       en: {
         description: "A brown-rot fungus of conifer woods, parasitic on living roots and saprotrophic on stumps, most often with pine. It is widespread from the Mediterranean through central Europe to northern Scotland and the southern coasts of Scandinavia, and it is reported from North Africa. North American records under this name, and some Asian ones, are other species in the same complex.",
@@ -28321,16 +28311,16 @@ export const CATALOG = [
           "notes": "Paxillus-oireyhtymän löysi saksalainen mykologi Julius Schäffer, joka kuoli itse pulkkosienen aiheuttamaan hemolyysiin vuonna 1944."
     },
       de: {
-          "description": "Ein sehr häufiger ektomykorrhizabildender Blätterpilz in Laub- und Nadelwäldern. Früher oft als Speisepilz verzehrt, heute als gefährlich giftig (Paxillus-Syndrom) bekannt.",
-          "cap": "Der Hut ist 5–15 cm breit, ockergrau bis olivbraun, anfangs gewölbt mit stark eingerolltem, samtig-filzigem Rand, später trichterförmig vertieft.",
-          "hymenium": "Die Lamellen sind lehmgelb bis ockerbraun, laufen weit am Stiel herab, sind am Stielansatz oft netzig verbunden und bräunen bei Berührung sofort intensiv.",
-          "stipe": "Der Stiel ist 3–8 cm lang und 1–2 cm dick, zylindrisch, voll, hutfarben oder heller, bräunt auf Druck.",
-          "flesh": "Das Fleisch ist gelblich, weich, saftig und bräunt im Anschnitt rasch. Geschmack säuerlich.",
-          "habitat": "Fruchtkörper erscheinen von Juli bis November unter Birken, Fichten, Kiefern und Buchen auf sauren Böden.",
-          "sporePrint": "Rostbraun. Die Sporen sind ellipsoid, glatt, 7–9 × 5–6 μm groß.",
-          "uses": "Giftig! Er kann das potenziell tödliche Paxillus-Syndrom auslösen, eine antikörpervermittelte Immunhämolyse, bei der nach wiederholtem Verzehr rote Blutkörperchen zerstört werden.",
-          "confusion": "Der Samtfußkrempling (Tapinella atrotomentosa) wächst an Stümpfen und hat einen auffällig samtig-schwarzen Stiel.",
-          "notes": "Das Paxillus-Syndrom führt durch Antikörperbildung zur Zerstörung der roten Blutkörperchen."
+          "description": "Ein giftiger ektomykorrhizabildender Blätterpilz. Weit verbreitet und sehr häufig in ganz Europa, Nordasien und Nordamerika; auch auf der Südhalbkugel eingeschleppt.",
+          "cap": "Der Hut misst 5–15 cm im Durchmesser, ist anfangs gewölbt, bald flach niedergedrückt und trichterförmig vertieft. Der Rand ist auffallend lange und stark nach unten eingerollt und filzig. Die Farbe ist ockerbraun, olivbraun bis rostbraun. Bei Nässe ist die Huthaut schmierig-klebrig.",
+          "hymenium": "Die Lamellen sind gelblich bis ockerbraun, stehen dicht, sind am Stiel gegabelt und laufen weit herab. Sie lassen sich leicht vom Hutfleisch ablösen und verfärben sich auf Druck sofort dunkelbraun bis rotbraun.",
+          "stipe": "Der Stiel ist 3–8 cm lang und 1–2,5 cm dick, zylindrisch, oft nach unten verjüngt, von ähnlicher Farbe wie der Hut und bräunt bei Berührung.",
+          "flesh": "Das Fleisch ist weich, gelblich, im Schnitt rasch bräunend. Der Geruch ist säuerlich-pilzartig, der Geschmack mild bis säuerlich.",
+          "habitat": "Fruchtkörper erscheinen von Juli bis November überall in Laub- und Nadelwäldern, Heiden, Parks und Gärten unter Birken, Fichten, Kiefern und Eichen auf sauren Böden.",
+          "sporePrint": "Rostbraun. Die Sporen sind glatt, ellipsoid, etwa 7,5–10 × 5–6 μm groß.",
+          "uses": "Stark giftig. Früher galt er nach Abkochen als essbar. Er kann jedoch das potenziell tödliche Paxillus-Syndrom auslösen: Eine immunhämolytische Anämie, bei der Antikörper die eigenen roten Blutkörperchen zerstören. Zudem ist er roh stark magen-darm-giftig.",
+          "confusion": "Der Erlen-Krempling (Paxillus rubicundulus) ist kleiner, wächst nur unter Erlen und besitzt eine felderig aufreißende Huthaut. Der Samtfußkrempling (Tapinella atrotomentosa) ist viel größer, wächst an Nadelholzstümpfen und hat einen auffallend samtig-schwarzen Stiel.",
+          "notes": "Mehrere ähnliche Arten wurden später von ehemals unter diesem Namen geführten Aufsammlungen abgetrennt."
     },
       en: {
         description: "An ectomycorrhizal mushroom of broadleaf and coniferous woods, parks, and gardens. In Europe it ranges from Scandinavia to the Iberian Peninsula, and it also occurs in temperate Asia and northern North America. It has been introduced with planted trees to Australia, New Zealand, South Africa, and South America.",
@@ -29158,16 +29148,16 @@ export const CATALOG = [
           "notes": "Laji tunnetaan useissa nykyisissä luokituksissa myös nimellä Clitocybe nuda."
     },
       de: {
-          "description": "Ein farbenprächtiger saprotropher Herbstpilz in Wäldern, Parks und Gärten. Er zeichnet sich durch intensive Violetttöne und einen süßlich-aromatischen Duft aus.",
-          "cap": "Der Hut ist 5–15 cm breit, fleischig, leuchtend violett bis lilablau, verblasst im Alter von der Mitte her zu braunocker.",
-          "hymenium": "Die Lamellen sind lebhaft violett, dicht stehend, am Stiel ausgebuchtet angewachsen und lassen sich leicht vom Hutfleisch abschieben.",
-          "stipe": "Der Stiel ist 4–10 cm lang und 1–3 cm dick, kräftig, keulig, längsfaserig violett überlaufen mit weißlich-violettem Basismyzel.",
-          "flesh": "Das Fleisch ist zart violettlich bis weißlich, weich. Geruch angenehm parfümiert-aromatisch (erinnert an Multivitaminsaft), Geschmack mild.",
-          "habitat": "Fruchtkörper erscheinen von September bis Dezember in Laub- und Nadelwäldern auf nährstoffreichem Humus und Nadelstreu, oft in großen Hexenringen.",
-          "sporePrint": "Blass rötlich-ocker bis fleischfarben. Die Sporen sind ellipsoid, fein punktiert-warzig, 5,5–8 × 4–5 μm groß.",
-          "uses": "Ein guter Speisepilz, muss aber gründlich gegart werden, da er roh blutzersetzende Hämolysine enthält.",
-          "confusion": "Gefährliche Verwechslungsgefahr mit violetten Schleierlingen (Cortinarius), wie dem Bocks-Dickfuß (Cortinarius traganus) oder dem Dunkelvioletten Schleierling (Cortinarius violaceus), die rostbraunes Sporenpulver und eine Schleiercortina besitzen.",
-          "notes": "Roh enthält er hitzelabile Hämolysine und darf nicht roh verzehrt werden."
+          "description": "Ein saprotropher Blätterpilz auf nährstoffreichen Laub- und Nadelstreuböden. Häufig und weit verbreitet in ganz Europa, Nordasien und Nordamerika.",
+          "cap": "Der Hut ist 5–15 cm breit, anfangs halbkugelig mit eingerolltem Rand, später gewölbt bis flach ausgebreitet und oft wellig verbogen. Die Farbe ist jung leuchtend blauviolett bis violettbraun, im Alter von der Mitte her verblassend zu fleischbräunlich oder lederocker. Die Huthaut ist glatt und kahl.",
+          "hymenium": "Die Lamellen sind lebhaft violett bis bläulich, stehen dicht, sind am Stiel ausgebuchtet angewachsen und lassen sich leicht mit dem Daumen vom Hutfleisch abschieben.",
+          "stipe": "Der Stiel ist 4–10 cm lang und 1–3 cm dick, zylindrisch mit verdickter Basis, blassviolett und weißlich längsfaserig überzogen. An der Basis haftet violettes Myzel.",
+          "flesh": "Das Fleisch ist blassviolett bis weißlich, weich. Der Geruch ist intensiv parfümiert-aromatisch (an frisch geschnittene Früchte oder Vitamin B erinnernd), der Geschmack mild und angenehm.",
+          "habitat": "Fruchtkörper erscheinen im Spätherbst von September bis Dezember (oft erst nach ersten Nachtfrösten) in Nadel- und Laubwäldern, Parks, Gärten und auf Komposthaufen.",
+          "sporePrint": "Blass rosa-bräunlich (fleischrötlich). Die Sporen sind ellipsoid, fein punktiert-warzig, etwa 6–8 × 4–5 μm groß.",
+          "uses": "Ein geschätzter Speisepilz von festem Fleisch. Er muss vor dem Verzehr gut durchgegart werden, da er roh giftig ist und rote Blutkörperchen zerstört. Der intensive Eigengeruch ist nicht jedermanns Sache.",
+          "confusion": "Sehr giftige violette Schleierlinge wie der Bocks-Dickfuß (Cortinarius camphoratus) riechen penetrant nach verbranntem Horn oder Ziegenbock und besitzen rostbraunes Sporenpulver und eine braune Schleierzone am Stiel. Der Violette Lacktrichterling (Laccaria amethystina) ist viel kleiner und dünnfleischiger und hat weiße Sporen.",
+          "notes": "Eine Studie aus dem Jahr 2015 ergab, dass diese Art nicht nah mit Lepista densifolia verwandt ist."
     },
       en: {
         description: "A fleshy saprobic mushroom of leaf litter in woods, parks, and gardens, often in rings or rows. It is native to temperate Europe and North America, reported from Asia, North Africa, and South America, and introduced in Australia and New Zealand, where it is becoming more common.",
@@ -29990,16 +29980,16 @@ export const CATALOG = [
           "notes": "Tunnetaan myös aiemmalla nimellään Clavicorona pyxidata."
     },
       de: {
-          "description": "Eine saprotrophe Koralle an morschem Laubholz, selten an Nadelholz. Typisch sind die becherförmig gekrönten Astspitzen.",
-          "cap": "Der Fruchtkörper wird 4–12 cm hoch und 2–10 cm breit, korallenförmig verzweigt, cremeweiß bis ockergelblich, mit becherartig vertieften Astenden, die an den Rändern kleine Zähnchen tragen.",
-          "hymenium": "Die glatte Fruchtschicht überzieht die Außenseite der aufrechten Äste.",
-          "stipe": "Ein kurzer, strunkartiger Fuß (1–3 cm) entspringt direkt dem faulenden Holz.",
-          "flesh": "Das Fleisch ist elastisch, zäh, weißlich. Geschmack mild, nach längerem Kauen schärflich-brennend.",
-          "habitat": "Fruchtkörper erscheinen von Juni bis September an toten Stämmen und Stümpfen von Pappel, Weide, Buche und seltener Kiefer.",
-          "sporePrint": "Weiß. Die Sporen sind winzig, ellipsoid, fein punktiert, 3,6–5,5 × 2–3 μm groß und amyloid.",
-          "uses": "In Mitteleuropa als ungenießbar eingestuft; in Nordamerika mitunter als essbar bezeichnet.",
-          "confusion": "Die Steife Koralle (Ramaria stricta) wächst ebenfalls an Holz, schmeckt bitter und besitzt keine becherförmig gekrönten Astspitzen.",
-          "notes": "Pilz des Jahres 2015 in Deutschland."
+          "description": "Ein holzzersetzender korallenartiger Pilz an feuchtem Totholz von Laubbäumen. Weit verbreitet in den gemäßigten Breiten Europas, Asiens und Nordamerikas, in vielen Teilen Mitteleuropas jedoch selten und an urwaldnahe Wälder gebunden.",
+          "cap": "Der Fruchtkörper bildet einen buschigen, korallenartig verzweigten Strunk von 4–12 cm Höhe und 2–8 cm Breite. Die Äste sind aufrecht, zylindrisch, cremefarben, ockergelb bis blass fleischfarben. Charakteristisch sind die Astspitzen: Sie enden in kleinen, becherartigen Vertiefungen, von deren Rand wiederum kleine Zähnchen kranzförmig emporwachsen (etagenartiger Wuchs).",
+          "hymenium": "Die Fruchtschicht überzieht die Außenseite der aufrechten Äste glatt und gleichmäßig.",
+          "stipe": "Der Stiel ist kurz, zäh, an der Basis weißfilzig behaart und verzweigt sich rasch in die aufrechten Hauptäste.",
+          "flesh": "Das Fleisch ist weißlich bis gelblich, elastisch-zäh. Der Geruch ist unauffällig, der Geschmack mild, nach längerem Kauen jedoch merklich schärflich oder pfeffrig.",
+          "habitat": "Fruchtkörper erscheinen von Juni bis Oktober an morschem, feucht liegendem Totholz von Laubbäumen (besonders Zitterpappel, Weide, Linde, Buche), sehr selten an Nadelholz.",
+          "sporePrint": "Weiß. Die Sporen sind ellipsoid, fein punktiert-warzig, etwa 4–5,5 × 2,5–3 μm groß und färben sich mit Jod blau (amyloid).",
+          "uses": "Ungenießbar bis bedingt essbar. Wegen seiner Seltenheit und des zähen, im Nachgang scharfen Fleisches sollte der Pilz geschont werden.",
+          "confusion": "Echte Korallenpilze (Ramaria-Arten) wachsen meist auf dem Erdboden und ihre Astspitzen enden spitz oder stumpf gezweigt, niemals in becherartigen Vertiefungen mit Zähnchenkranz. Die Kammkoralle (Clavulina coralloides) hat flache, geweihartig gekämmte Spitzen.",
+          "notes": "Aus Flüssigkulturen wurden Pyxidatole A–C, Tsuicolin E und Omphadiol isoliert. In Polen wird die Art wegen des Verlusts auwaldnaher Laubwälder als gefährdet geführt. Pilz des Jahres 2015 in Deutschland."
     },
       en: {
         description: "A saprotrophic coral fungus of rotten wood across the temperate Northern Hemisphere. It is widespread in Europe, Asia, and North America, uncommon in much of western Europe, and rare in Britain. In North America it occurs in the east, the Rocky Mountains, and Mexico, and it is absent or rare on the Pacific coast.",
@@ -30790,16 +30780,16 @@ export const CATALOG = [
           "notes": "Laji on luokiteltu monissa Euroopan maissa harvinaiseksi ja vaarantuneeksi lehtometsien lahopuun vähenemisen vuoksi."
     },
       de: {
-          "description": "Ein großer, aus hunderten kleinen Einzelhüten bestehender büscheliger Porling an den Wurzeln alter Eichen und Buchen. Er entspringt einem unterirdischen Sklerotium.",
-          "cap": "Der gesamte Fruchtkörper wird 10–50 cm breit und besteht aus einem verzweigten weißen Strunk mit unzähligen runden, gestielten, 1–4 cm breiten, hell graubraunen Einzelhütchen.",
-          "hymenium": "Die Poren an der Unterseite der Einzelhütchen sind weiß, fein und laufen am Stielchen herab.",
-          "stipe": "Die zahlreichen Stiele vereinigen sich zu einem dicken, gemeinsamen weißen Strunk.",
-          "flesh": "Das Fleisch ist weiß, jung zart und saftig, im Alter zäh. Geruch angenehm mehlartig, Geschmack mild.",
-          "habitat": "Fruchtkörper erscheinen von Juni bis Oktober am Fuße lebender Eichen und Buchen auf kalkreichen Böden.",
-          "sporePrint": "Weiß. Die Sporen sind zylindrisch, glatt, 7–10 × 2,5–3,5 μm groß.",
-          "uses": "Jung ein hervorragender Speisepilz von delikatem Geschmack. Das unterirdische Sklerotium wird in der traditionellen chinesischen Medizin als Zhu Ling geschätzt.",
-          "confusion": "Der Klapperschwamm (Grifola frondosa) hat fächerförmige, dunklere graubraune Hüte mit seitlichen Stielen und entspringt keinem echten Sklerotium.",
-          "notes": "Entspringt einem unterirdischen schwarzen Sklerotium (Zhu Ling)."
+          "description": "Ein vielhütiger Porling, der aus einem unterirdischen schwarzen Sklerotium entspringt und als Schwächeparasit sowie Saprotroph an Laubbaumwurzeln lebt. Weit verbreitet in den gemäßigten Laubwäldern Europas, Asiens und Nordamerikas, überall aber eher selten.",
+          "cap": "Der Gesamtfruchtkörper erreicht 20–50 cm Durchmesser und besteht aus Hunderten kleiner Einzelhüte, die einem gemeinsamen Strunk entspringen. Die einzelnen Hüte sind 1–4 cm breit, rundlich, in der Mitte genabelt, blass graubraun bis ockergelb gefärbt, dünnfleischig mit welligem Rand.",
+          "hymenium": "Die Unterseite jedes Hütchens trägt feine, weiße Röhren mit kleinen, rundlichen Poren, die am Stielchen herablaufen.",
+          "stipe": "Ein dicker, weißlicher Hauptstamm verzweigt sich mehrfach doldenartig in zylindrische Stielchen, die jeweils zentrisch in einem Hütchen enden.",
+          "flesh": "Das Fleisch ist weiß, jung zart und saftig, im Alter zäh. Der Geruch ist angenehm mehlig-pilzig, der Geschmack mild.",
+          "habitat": "Fruchtkörper erscheinen von Juni bis Oktober an den Wurzeln oder am Stammgrund alter Eichen und Buchen auf basenreichen Böden.",
+          "sporePrint": "Weiß. Die Sporen sind glatt, zylindrisch, etwa 7–10 × 2,5–3,5 μm groß.",
+          "uses": "Jung ein hervorragender und delikater Speisepilz. In der traditionellen chinesischen Medizin wird das Sklerotium (Zhu Ling) seit Jahrtausenden als Heilmittel verwendet.",
+          "confusion": "Der Klapperschwamm (Grifola frondosa) besitzt spatel- oder zungenförmige, fächerartige Hüte mit seitlich angesetzten Stielen und schmeckt nussig. Der Riesenporling (Meripilus giganteus) hat viel größere Konsolen, deren Poren bei Berührung rasch schwärzen.",
+          "notes": "Im nördlichen Mitteleuropa ist die Art selten und oft auf alte Eichen- und Buchenbestände beschränkt. Eine Beurteilung stuft die Art regional als gefährdet ein."
     },
       en: {
         description: "A white-rot fungus of deciduous woods, parasitic on living roots and saprotrophic on the stump. It has a temperate distribution in the Northern Hemisphere, from central and eastern Europe north to southern Fennoscandia, across North America, and through the Caucasus and Siberia to Pakistan. In Britain it is rare and mostly southern.",
@@ -31596,16 +31586,15 @@ export const CATALOG = [
           "notes": "Lajin tieteellinen nimi viittaa sen valkonukkaiseen jalkaan."
     },
       de: {
-          "description": "Ein prächtiger ektomykorrhizabildender Raufußröhrling unter Zitterpappeln (Espen). Charakteristisch sind die jung rein weißen Stielschuppen.",
-          "cap": "Der Hut ist 5–20 cm breit, leuchtend orangerot bis ziegelrot, samtig-filzig mit überhängender Huthaut.",
-          "hymenium": "Die Röhren sind weißlich bis hellgrau, Poren fein, verfärben sich auf Druck bräunlich.",
-          "stipe": "Der Stiel ist 8–20 cm lang und 2–4 cm dick, weiß, jung mit rein weißen, erst im Alter bräunenden Schüppchen besetzt.",
-          "flesh": "Das Fleisch ist weiß, verfärbt sich im Anschnitt erst weinrötlich, dann grauviolett und schließlich schwärzlich.",
-          "habitat": "Fruchtkörper erscheinen von Juni bis Oktober unter Zitterpappeln auf verschiedenen Böden.",
-          "sporePrint": "Olivbraun. Die Sporen sind spindelig, glatt, 13–18 × 4,5–6 μm groß.",
-          "uses": "Ein hervorragender Speisepilz, der beim Kochen dunkelt. Er muss gut durchgegart werden.",
-          "confusion": "Die Birken-Rotkappe (Leccinum versipelle) wächst bei Birken und hat von Anfang an schwarze Stielschuppen. Die Eichen-Rotkappe (Leccinum aurantiacum) hat rotbraune Schuppen.",
-          "notes": "Wächst in strikter Ektomykorrhiza mit Zitterpappeln (Populus tremula)."
+          "description": "Ein auffälliger ektomykorrhizabildender Raufußröhrling unter Zitterpappeln (Espen). Weit verbreitet in Nord- und Mitteleuropa sowie Teilen Nordasiens.",
+          "cap": "Der Hut ist 5–18 cm breit, halbkugelig bis polsterförmig gewölbt. Die Farbe ist leuchtend orangerot bis ziegelrot. Die Huthaut ist samtig, trocken und ragt am Hutrand oft häutig über die Röhren hinaus.",
+          "hymenium": "Die Röhren sind um den Stiel tief ausgebuchtet, weißlich bis grau. Die Poren sind klein, rundlich und cremeweiß bis grauocker.",
+          "stipe": "Der Stiel ist 8–20 cm lang und 2–4 cm dick, kräftig, zylindrisch oder bauchig. Charakteristisch sind die Stielschuppen: Sie sind jung rein weiß und verfärben sich erst spät im Alter bräunlich oder rötlich (niemals von Jugend an tiefschwarz).",
+          "flesh": "Das Fleisch ist weiß, fest und verfärbt sich im Anschnitt über violettgrau bis schwärzlich. Der Geruch ist schwach pilzig, der Geschmack mild.",
+          "habitat": "Fruchtkörper erscheinen von Juni bis Oktober streng in Ektomykorrhiza unter Zitterpappeln (Populus tremula) auf sandigen bis lehmigen Böden.",
+          "sporePrint": "Zimtholzbraun. Die Sporen sind spindelig-ellipsoid, glatt, etwa 13–17 × 4–5,5 μm groß.",
+          "uses": "Ein hervorragender Speisepilz von festem Fleisch. Wie alle Raufußröhrlinge muss er gut durchgegart werden und schwärzt beim Kochen.",
+          "confusion": "Die Birken-Rotkappe (Leccinum versipelle) wächst unter Birken und hat von Jugend an auffallend schwarze Stielschuppen. Die Laubwald-Rotkappe (Leccinum aurantiacum) wächst unter Eichen und hat bräunlich-rote Schuppen."
     },
       en: {
         description: "An ectomycorrhizal mushroom of aspen and poplar woods, growing singly or in loose groups. It is common in Scandinavia and in the mountains of central Europe, rarer in the lowlands and toward the south and west, and uncommon in Britain. It is also recorded from northern Asia and, rarely, North America.",
@@ -32346,16 +32335,16 @@ export const CATALOG = [
           "notes": "Kuuluu Boletales-lahkoon ollen läheisempää sukua tateille kuin aidoille vahveroille."
     },
       de: {
-          "description": "Ein häufiger saprotropher Blätterpilz in Nadelwäldern auf sauren Böden. Er wird oft fälschlicherweise für den Echten Pfifferling gehalten.",
-          "cap": "Der Hut ist 2–7 cm breit, lebhaft orangegelb bis blass orange, gewölbt mit eingerolltem Rand, später trichterförmig vertieft, samtig-matt.",
-          "hymenium": "Die Lamellen sind leuchtend orange, dünn, engstehend, mehrfach gabelig geteilt und laufen am Stiel herab.",
-          "stipe": "Der Stiel ist 2–6 cm lang und 0,3–0,8 cm dick, oft gebogen, hutfarben oder dunkler bräunlich überlaufen, voll, später hohl.",
-          "flesh": "Das Fleisch ist blass orange bis gelblich, weich, dünn. Geruch unauffällig, Geschmack mild.",
-          "habitat": "Fruchtkörper erscheinen von August bis November in Nadelwäldern auf Nadelstreu und morschem Holz.",
-          "sporePrint": "Cremeweiß. Die Sporen sind ellipsoid, glatt, 5,5–7 × 3,5–4,5 μm groß und dextrinoid.",
-          "uses": "Ungenießbar oder minderwertig essbar; kann bei empfindlichen Personen Magen-Darm-Beschwerden auslösen.",
-          "confusion": "Der Echte Pfifferling (Cantharellus cibarius) hat dickliche, aderige Leisten statt dünner, gabeliger Lamellen, festes weißes Fleisch und einen angenehmen Aprikosenduft.",
-          "notes": "Eine Beurteilung aus dem Jahr 2019 stuft die Art als nicht gefährdet (Least Concern) ein."
+          "description": "Ein saprotropher Blätterpilz auf Nadelstreu und modrigem Holz. Häufig und weltweit in den Nadelwäldern der nördlichen Hemisphäre verbreitet.",
+          "cap": "Der Hut ist 2–7 cm breit, anfangs gewölbt, bald trichterförmig vertieft mit eingerolltem Rand. Die Farbe reicht von lebhaft orangegelb bis leuchtend orangebraun, oft mit blasserem Rand. Die Huthaut ist samtig-filzig und trocken.",
+          "hymenium": "Die Unterseite trägt eng stehende, mehrfach gabelig geteilte echte Lamellen (keine festen Leisten!), die weit am Stiel herablaufen und intensiv orangerot gefärbt sind.",
+          "stipe": "Der Stiel ist 3–6 cm lang und 0,4–0,8 cm dick, oft gebogen, vollreif hohl, von gleicher Farbe wie der Hut oder an der Basis dunkler bräunlich überlaufen.",
+          "flesh": "Das Fleisch ist weich, dünn, gelblich-orange. Der Geruch ist unauffällig, der Geschmack mild bis säuerlich.",
+          "habitat": "Fruchtkörper erscheinen von August bis November in Nadelwäldern auf sauren Sandböden, in Nadelstreu oder auf morschen Fichten- und Kiefernstümpfen.",
+          "sporePrint": "Cremeweiß. Die Sporen sind ellipsoid, glatt, etwa 5,5–7 × 3,5–4,5 μm groß und färben sich mit Jod bräunlich (dextrinoid).",
+          "uses": "Ungenießbar bis minderwertiger Speisepilz. Er besitzt kaum Aroma, eine weiche, schwammige Konsistenz und kann bei empfindlichen Personen Magen-Darm-Beschwerden hervorrufen.",
+          "confusion": "Wird häufig mit dem echten Pfifferling (Cantharellus cibarius) verwechselt, der jedoch dickere, feste Gabelleisten (keine abziehbaren echten Lamellen), festes weißes Fleisch und einen angenehmen Aprikosengeruch besitzt. Der giftige Ölbaumpilz (Omphalotus olearius) wächst büschelig an Laubholz im Mittelmeerraum.",
+          "notes": "Zwei frühere Varietäten gelten heute als eigenständige Arten: Hygrophoropsis macrospora und Hygrophoropsis rufa. In Kalifornien unter diesem Namen abgelegte Fruchtkörper gehören zu einem unbeschriebenen Formenkreis. Gelegentlich treten keulenförmige Fruchtkörper mit gewundenem Lamellengewebe oder morchelähnlicher Gestalt auf."
     },
       en: {
         description: "A saprotrophic mushroom of conifer and mixed woods, heaths, and woodchip beds, growing singly or in groups and sometimes in rings. It is widespread in temperate Europe, North America, and northern Asia, and it is recorded from Central and South America, Australia, and New Zealand.",
@@ -33158,16 +33147,16 @@ export const CATALOG = [
           "notes": "Lajin kulmikkaat itiöt ovat rusokkaille (Entoloma-suku) luonteenomainen mikroskooppinen tuntomerkki."
     },
       de: {
-          "description": "Ein schwer giftiger, stattlicher ektomykorrhizabildender Rötling in warmen Laubwäldern auf Kalkböden. Verursacht schwere Magen-Darm-Vergiftungen.",
-          "cap": "Der Hut misst 5–18 cm im Durchmesser, ist elfenbeinweiß, ockergelb bis bleigrau, seidig glänzend, fleischig gewölbt mit eingerolltem Rand.",
-          "hymenium": "Die Lamellen sind anfangs gelblich-weiß, verfärben sich mit der Sporenreife charakteristisch fleischrosa bis lachsrosa.",
-          "stipe": "Der Stiel ist 5–12 cm lang und 1,5–3,5 cm dick, kräftig, weiß, voll, längsfaserig, ohne Ring.",
-          "flesh": "Das Fleisch ist weiß, dick und fest. Geruch intensiv mehlartig (Gurken-Mehl-Geruch), Geschmack mild.",
-          "habitat": "Fruchtkörper erscheinen von Juli bis Oktober in wärmebegünstigten Laubwäldern unter Eichen und Buchen auf Kalk.",
-          "sporePrint": "Fleischrosa bis lachsfarben. Die Sporen sind eckig (5–6-eckig), glatt, 8–11 × 7–9 μm groß.",
-          "uses": "Schwer giftig! Verursacht heftiges Erbrechen, Bauchkrämpfe und Durchfälle. Er ist für viele Pilzvergiftungen im Spätsommer verantwortlich.",
-          "confusion": "Wird wegen des Mehlgeruchs fatal mit dem Mairitterling (Calocybe gambosa) verwechselt, der jedoch im Frühjahr fruchtet und weiße Lamellen sowie weißes Sporenpulver hat. Auch Verwechslung mit der Nebelkappe (Clitocybe nebularis) möglich.",
-          "notes": "Die eckigen Sporen und die rosafarbenen Lamellen im Alter sind kennzeichnend."
+          "description": "Ein stark giftiger ektomykorrhizabildender Blätterpilz der Laubwälder auf Kalkböden. Weit verbreitet in Süd- und Mitteleuropa sowie Teilen Asiens und Nordamerikas.",
+          "cap": "Der Hut ist 6–18 cm (selten bis 25 cm) breit, sehr dickfleischig, anfangs gewölbt mit eingerolltem Rand, später ausgebreitet und oft unregelmäßig wellig verbogen. Die Farbe ist elfenbeinweiß, ockergrau bis bleigrau, seidig glänzend und trocken.",
+          "hymenium": "Die Lamellen stehen dicht, sind am Stiel ausgebuchtet angewachsen, anfangs gelblich-weiß, verfärben sich mit der Sporenreife jedoch charakteristisch lachsrosa bis fleischrot.",
+          "stipe": "Der Stiel ist 6–14 cm lang und 1,5–3,5 cm dick, zylindrisch bis bauchig, weiß, glatt oder schwach längsgefasert, voll und festfleischig. Ein Ring fehlt.",
+          "flesh": "Das Fleisch ist weiß, dick und unveränderlich. Es besitzt einen ausgeprägten, angenehmen Mehlgeruch und -geschmack.",
+          "habitat": "Fruchtkörper erscheinen im Spätsommer und Herbst von Juli bis Oktober in wärmebegünstigten Laubwäldern unter Eichen, Buchen und Hainbuchen auf kalkhaltigen Böden.",
+          "sporePrint": "Lachsrosa bis rötlich. Die Sporen sind eckig (5–6-eckig), glatt, etwa 8–11 × 7–9 μm groß.",
+          "uses": "Stark giftig. Er verursacht schwere, teils lebensgefährliche Magen-Darm-Vergiftungen mit heftigem Erbrechen, blutigen Durchfällen und Kreislaufzusammenbrüchen.",
+          "confusion": "Wird wegen seines Mehlgeruchs fatalerweise mit dem Mairitterling (Calocybe gambosa) verwechselt, der jedoch im Frühjahr fruchtet und rein weiße Lamellen und Sporen besitzt. Der Nebelgraue Trichterling (Clitocybe nebularis) hat herablaufende gelbliche Lamellen, cremefarbenes Sporenpulver und einen süßlich-parfümierten Geruch.",
+          "notes": "Fruchtkörper, die früher als Entoloma eulividum mit ockerfarbenem Hut und gelbfreien Lamellen abgetrennt wurden, werden hier einbezogen."
     },
       en: {
         description: "A mushroom of warmer broadleaf woods, most often with oak and beech. It is treated as mycorrhizal with those trees and with willow, though a saprotrophic habit is allowed. It ranges from the Mediterranean to Denmark, southern Norway, Estonia, and Belarus, and it is reported from North America and northern Asia.",
@@ -33953,15 +33942,15 @@ export const CATALOG = [
           "notes": "Kärpäset syövät limaisen itiömassan nopeasti paljastaen lakin valkoisen kennomaisen pohjan."
     },
       de: {
-          "description": "Ein auffälliger saprotropher Pilz, der aus einem unterirdischen Hexenei entspringt und im ausgewachsenen Zustand intensiv nach Aas riecht, um Fliegen zur Sporenverbreitung anzulocken.",
-          "cap": "Der hutförmige Kopfteil ist 3–5 cm hoch, weißlich-wabenartig gerippt, zu Beginn von einer dunkel olivgrünen, klebrigen, übelriechenden Sporenmasse (Gleba) bedeckt, die von Fliegen abgeweidet wird.",
-          "hymenium": "Die Sporen entstehen in der schleimigen, olivgrünen Gleba auf dem Kopfteil.",
-          "stipe": "Der Stiel ist 10–20 cm lang und 2–4 cm dick, weiß, schwammig-hohl, porös, an der Basis in einer weißen, gallertigen Scheide (Rest des Hexeneis) wurzelnd.",
-          "flesh": "Das Fleisch des Stiels ist weiß und brüchig. Die Gleba riecht durchdringend aasartig und süßlich-faulig.",
-          "habitat": "Fruchtkörper erscheinen von Juni bis Oktober in Laub- und Nadelwäldern, Parks und Gärten auf humosem Boden.",
-          "sporePrint": "Grünlich-gelb. Die Sporen sind zylindrisch, glatt, 3,5–5 × 1,5–2 μm groß.",
-          "uses": "Im Jugendstadium (als noch geschlossenes Hexenei) nach Entfernen der Gallertschicht essbar; geschmacklich an Rettich erinnernd. Ausgewachsen ungenießbar.",
-          "confusion": "Die Dünen-Stinkmorchel (Phallus hadriani) besitzt ein auffällig violett oder rosa gefärbtes Hexenei und wächst auf Sandböden.",
+          "description": "Ein saprotropher Pilz aus der Familie der Stinkmorchelverwandten, der aus einem unterirdischen Hexenei entspringt. Weit verbreitet und häufig in ganz Europa, Asien und Teilen Nordamerikas.",
+          "cap": "Der kopfförmige Hut an der Spitze des Stiels ist 3–5 cm hoch, fingerhutförmig und tief wabenartig gefurcht. Er ist anfangs von einer dunkel olivgrünen, schleimigen Gleba bedeckt, die intensiv nach Aas riecht. Nach dem Abfressen der Gleba durch Fliegen bleibt ein weißes, gitteriges Wabenmuster zurück.",
+          "hymenium": "Die Sporenmasse (Gleba) überzieht die Außenseite des Hütchens als klebriger, olivgrüner Schleim mit penetrantem Aasgeruch, der Schmeißfliegen zur Sporenverbreitung anlockt.",
+          "stipe": "Der Stiel ist 10–25 cm lang und 2–4 cm dick, schneeweiß, hohl, schwammig-porös gekammert und zerbrechlich. Er entspringt einer runden, lappigen Scheide (Volva), die den Rest des Hexeneis bildet.",
+          "flesh": "Das Stielfleisch ist weiß und schwammig. Das junge Hexenei enthält unter der lederartigen Hülle eine dicke, durchsichtige Gallertschicht um den eigentlichen Fruchtkörperkern.",
+          "habitat": "Fruchtkörper erscheinen von Mai bis November in Laub- und Nadelwäldern, Gärten, Parks und Gebüschen auf nährstoffreichen, humosen Böden.",
+          "sporePrint": "Die Sporen werden im olivgrünen Schleim der Gleba gebildet; Sporen sind glatt, zylindrisch-ellipsoid, etwa 3,5–5 × 1,5–2 μm groß.",
+          "uses": "Das junge, noch geschlossene Hexenei ist essbar. Nach dem Abschälen der Gallerthülle kann der feste, weiße Kern roh oder gebraten gegessen werden und schmeckt rettichartig. Ausgewachsene Fruchtkörper sind wegen des Aasgeruchs ungenießbar.",
+          "confusion": "Die Dünen-Stinkmorchel (Phallus hadriani) besitzt ein auffällig violettes bis rosa gefärbtes Hexenei und wächst auf Sandböden. Die Hundsrute (Mutinus caninus) ist viel kleiner, hat eine orangerote Spitze und riecht viel schwächer.",
           "notes": "Pilz des Jahres 2020 in Deutschland."
     },
       en: {
@@ -34777,15 +34766,15 @@ export const CATALOG = [
           "notes": "Jäämies Ötzillä, joka löytyi Alpeilta 5300 vuotta vanhasta jäätiköstä, oli mukanaan paloja taulakäävästä tulentekovälineenä."
     },
       de: {
-          "description": "Ein mehrjähriger, hufförmiger Baumpilz an Laubbäumen, besonders an geschwächten Birken und Buchen. Historisch zur Herstellung von Zunder und Pilzleder genutzt.",
-          "cap": "Der Fruchtkörper ist konsolen- bis hufförmig, 10–40 cm breit und bis 20 cm dick. Die dicke, harte Kruste ist konzentrisch gefurcht, aschgrau bis dunkelgrau oder schwärzlich.",
-          "hymenium": "Die Unterseite trägt geschichtete Röhren mit winzigen, rundlichen, ockergrauen bis zimtbraunen Poren (3–4 pro Millimeter).",
-          "stipe": "Stiellos; wächst fest angewachsen seitlich am Stamm.",
-          "flesh": "Die Trama ist rotbraun, zäh-filzig bis holzig-hart. Geruch angenehm holzartig-fruchtig.",
-          "habitat": "Fruchtkörper wachsen ganzjährig an stehenden und liegenden Stämmen von Laubbäumen (vor allem Rotbuche und Birke) und verursachen Weißfäule.",
-          "sporePrint": "Hellgelblich. Die Sporen sind zylindrisch, glatt, 15–20 × 5–7 μm groß.",
-          "uses": "Ungenießbar da holzhart. Das Fleisch wurde historisch gekocht, weichgeklopft und als Zunder zum Feueranzünden oder zur Herstellung von Kleidung verwendet.",
-          "confusion": "Der Rotrandige Baumschwamm (Fomitopsis pinicola) hat eine wachsartige, harzige Kruste mit rötlich-orangem Zuwachsrand und wächst meist an Nadelholz.",
+          "description": "Ein mehrjähriger weißfäuleerregender Baumpilz an Laubhölzern, der als Parasit lebende Bäume befällt und an totem Holz saprotroph weiterlebt. Weit verbreitet in den gemäßigten Zonen Europas, Asiens, Nordafrikas und Nordamerikas.",
+          "cap": "Der mehrjährige Fruchtkörper ist hufförmig bis konsolenförmig, 10–40 cm (selten bis 50 cm) breit und bis zu 20 cm dick, fest mit dem Stamm verwachsen. Die Oberseite ist von einer harten, 1–3 mm dicken Kruste bedeckt, konzentrisch gefurcht, matt grau, aschgrau bis dunkelbraun, im Zuwachs am Rand heller ledergelb.",
+          "hymenium": "Die Röhren sind rostbraun und in jährlichen Schichten übereinander angeordnet (jede Schicht 2–10 mm dick). Die Poren sind klein, rundlich, 2–4 pro Millimeter, graubraun bis ockerfarben und färben sich bei Berührung dunkel.",
+          "stipe": "Ein Stiel fehlt; der Pilz wächst breitbasig am Holz an.",
+          "flesh": "Das Fleisch (die Trama) ist zäh-holzig, zimtbraun bis rehbraun, filzig-faserig. Mit Kalilauge (KOH) färbt sich die Kruste blutrot und die Trama schwarz.",
+          "habitat": "Fruchtkörper sind ganzjährig an geschwächten oder abgestorbenen Laubbäumen zu finden. In Nordeuropa ist die Birke der Hauptwirt, in Mitteleuropa vor allem die Rotbuche.",
+          "sporePrint": "Weiß bis blass zitronengelb. Die Sporen sind glatt, zylindrisch, etwa 15–20 × 5–7 μm groß.",
+          "uses": "Ungenießbar, da holzartig hart. Historisch von enormer Bedeutung: Die weiche Mittelschicht (das Tramafleisch) wurde weichgeklopft zu Zunder verarbeitet, um Funken beim Feuermachen aufzufangen, sowie zur Blutstillung und für Kleidungsstücke genutzt.",
+          "confusion": "Der Gemeine Feuerschwamm (Phellinus igniarius) wächst an Weiden und Birken, ist noch härter, hat eine schwärzliche, rissige Kruste und zeigt mit Kalilauge keine rote Reaktion. Der Rotrandige Baumschwamm (Fomitopsis pinicola) hat meist einen leuchtend orange-roten Zuwachsrand und wächst vor allem an Nadelholz.",
           "notes": "Pilz des Jahres 1995 in Deutschland."
     },
       en: {
@@ -35584,15 +35573,15 @@ export const CATALOG = [
           "notes": "Lajinimi auricula-judae viittaa vanhaan legendaan Juudas Iskariotista, jonka sanottiin hirttäytyneen seljapensaaseen."
     },
       de: {
-          "description": "Ein gallertartiger, ohrmuschelförmiger Holzpilz, der vor allem an abgestorbenen Ästen des Schwarzen Holunders wächst. Ein geschätzter Speise- und Vitalpilz (Mu-Err).",
-          "cap": "Der Fruchtkörper ist muschel- oder ohrenförmig gelappt, 3–10 cm breit, rotbraun bis violettbraun, gallertartig-elastisch, bei Trockenheit hornartig schrumpfend.",
-          "hymenium": "Die Fruchtschicht befindet sich auf der meist wellig-faltigen Innenseite der Ohrmuschel.",
-          "stipe": "Ein Stiel fehlt weitgehend; er sitzt punktförmig am Holz.",
-          "flesh": "Das Fleisch ist gallertartig, zäh-elastisch, bräunlich durchscheinend. Geschmack und Geruch unauffällig mild.",
-          "habitat": "Ganzjährig, besonders im Spätherbst und Winter, an totem Holz von Schwarzem Holunder und anderen Laubbäumen.",
-          "sporePrint": "Weiß. Die Sporen sind gekrümmt-zylindrisch (wurstförmig), glatt, 14–18 × 5–7 μm groß.",
-          "uses": "Ein beliebter Speisepilz, besonders in der asiatischen Küche (Mu-Err). Kann getrocknet und nach erneutem Einweichen verwendet werden.",
-          "confusion": "Der Gezonte Ohrlappenpilz (Auricularia mesenterica) besitzt eine borstig behaarte, gezonte Oberseite.",
+          "description": "Ein gallertartiger holzzersetzender Pilz aus der Ordnung der Ohrlappenpilzartigen. Weltweit in den gemäßigten und subtropischen Breiten verbreitet.",
+          "cap": "Der Fruchtkörper ist muschel- oder ohrmuschelförmig gelappt, 3–10 cm breit, gallertartig-elastisch. Die Außenseite ist samtig bis fein filzig behaart, rotbraun bis violettbraun. Bei Trockenheit schrumpft der Pilz hornartig zusammen und quillt bei Feuchtigkeit rasch wieder auf.",
+          "hymenium": "Die Fruchtschicht befindet sich auf der Innenseite der Ohrmuschel, ist glatt, faltig-geadert, glänzend rotbraun bis dunkelbraun.",
+          "stipe": "Ein Stiel fehlt oder ist nur als kurzer, seitlicher Ansatz ausgebildet.",
+          "flesh": "Das Fleisch ist dünn, gallertartig-knorpelig, braun durchscheinend. Geruch und Geschmack sind unauffällig mild.",
+          "habitat": "Fruchtkörper erscheinen das ganze Jahr über, besonders im feuchten Spätherbst und Winter, fast ausschließlich an abgestorbenen Ästen und Stämmen des Schwarzen Holunders (Sambucus nigra), seltener an anderen Laubhölzern.",
+          "sporePrint": "Weiß. Die Sporen sind glatt, zylindrisch bis wurstförmig gebogen (allantoid), etwa 14–18 × 5–7 μm groß.",
+          "uses": "Ein beliebter Speisepilz, besonders in der asiatischen Küche (unter dem Namen Mu-Err). Er zeichnet sich durch seine knorpelige Textur aus und lässt sich hervorragend trocknen und wieder einweichen.",
+          "confusion": "Der Gezonte Ohrlappenpilz (Auricularia mesenterica) hat eine stark borstig-zottig gezonte graue Oberseite. Der Kandierte Drüsling (Exidia saccharina) wächst an Nadelholz und bildet unförmige, weiche Gallertmassen.",
           "notes": "Pilz des Jahres 2017 in Deutschland."
     },
       en: {
@@ -36420,16 +36409,16 @@ export const CATALOG = [
           "notes": "Pillistön vaaleanpunainen sävy ja jalan tumma verkko erottavat lajin herkkutatista maistamattakin."
     },
       de: {
-          "description": "Ein ungenießbarer Dickröhrling in Nadelwäldern auf sauren Böden. Er ist der häufigste Doppelgänger des Steinpilzes und verdirbt durch bitteren Geschmack jedes Pilzgericht.",
-          "cap": "Der Hut ist 5–15 cm breit, hellbraun, lederbraun bis graubraun, samtig, polsterförmig gewölbt.",
-          "hymenium": "Die Röhren sind jung weißlich, färben sich aber bald charakteristisch schmutzigrosa bis fleischrosa. Die Poren sind eckig und färben sich auf Druck bräunlich.",
-          "stipe": "Der Stiel ist 6–14 cm lang und 2–5 cm dick, keulig, ockerbraun, überzogen von einem erhabenen, grobmaschigen dunklen Maschennetz auf hellerem Grund.",
-          "flesh": "Das Fleisch ist weiß, schwammig, im Anschnitt unveränderlich oder schwach rosa anlaufend. Geruch unauffällig, Geschmack extrem bitter.",
-          "habitat": "Fruchtkörper erscheinen von Juni bis Oktober in Nadelwäldern unter Fichten und Kiefern auf sauren Böden oder an morschen Stümpfen.",
-          "sporePrint": "Rosa bis fleischbräunlich. Die Sporen sind spindelig, glatt, 11–15 × 4–5 μm groß.",
-          "uses": "Ungenießbar! Schon ein einziges kleines Stück macht ein ganzes Pilzgericht durch unerträgliche Bitterkeit ungenießbar. Ungiftig, aber unverdaulich.",
-          "confusion": "Der Gemeine Steinpilz (Boletus edulis) hat ein feines weißes Netz auf braunem Grund, im Alter gelbgrüne Poren und schmeckt angenehm nussig-mild.",
-          "notes": "Die rosa Färbung der reifen Röhren und das dunkle Stielnetz sind die besten Unterscheidungsmerkmale zum Steinpilz."
+          "description": "Ein ektomykorrhizabildender Röhrling saurer Nadelwälder. Weit verbreitet und häufig in ganz Europa, Nordasien und Nordamerika.",
+          "cap": "Der Hut ist 5–15 cm breit, anfangs halbkugelig, dann polsterförmig gewölbt. Die Farbe ist lederbraun, hellbraun bis gelbbraun. Die Huthaut ist glatt, trocken matt und feucht leicht klebrig.",
+          "hymenium": "Die Röhren sind um den Stiel tief ausgebuchtet, anfangs weißlich, verfärben sich jedoch mit zunehmender Reife durch die Sporen deutlich schmutzig rosa bis fleischfarben. Die Poren sind klein, eckig und färben sich bei Berührung bräunlich.",
+          "stipe": "Der Stiel ist 6–15 cm lang und 2–5 cm dick, bauchig bis keulig, ocker- bis olivbraun. Er ist von einem auffallend groben, erhabenen, dunkelbraunen bis schwärzlichen Netzmuster überzogen.",
+          "flesh": "Das Fleisch ist weiß, im Alter schwammig und verfärbt sich im Schnitt kaum oder nur schwach rosa. Es besitzt einen unerträglich gallenbitteren Geschmack. Der Geruch ist unauffällig.",
+          "habitat": "Fruchtkörper erscheinen von Juni bis Oktober in Nadel- und Mischwäldern auf sauren, nährstoffarmen Sand- oder Moorböden bei Fichten und Kiefern, oft auch auf morschen Baumstümpfen.",
+          "sporePrint": "Rosa bis fleischbräunlich. Die Sporen sind spindelig, glatt, etwa 11–15 × 4–5 μm groß.",
+          "uses": "Ungenießbar. Wegen seines extrem bitteren Geschmacks ist der Pilz ungenießbar; bereits ein einziges kleines Exemplar kann ein ganzes Pilzgericht verderben. Er ist jedoch nicht giftig.",
+          "confusion": "Wird häufig mit dem Gemeinen Steinpilz (Boletus edulis) verwechselt, der jedoch weiße bis gelbgrüne Poren, ein feines weißes Stielnetz im oberen Stieldrittel und mild-nussigen Geschmack besitzt. Der Sommer-Steinpilz (Boletus reticulatus) hat ebenfalls ein weißliches Stielnetz und mildes Fleisch.",
+          "notes": "Es ist die einzige Art der Gattung in Europa. Eine Beurteilung aus dem Jahr 2025 stuft die Art als nicht gefährdet (Least Concern) ein. Nordamerikanische Fruchtkörper gehören möglicherweise nicht zur europäischen Art. Australische Funde mit kleineren Sporen stellen Tylopilus brevisporus dar. Fruchtkörper nehmen Cäsium-137 aus kontaminierten Böden auf. Auf dem Hutfleisch färbt Formaldehyd das Gewebe rosa und Eisensalze graugrünlich; Kalilauge färbt die Huthaut meist orange."
     },
       en: {
         description: "An ectomycorrhizal bolete of deciduous and coniferous woods. It is widespread in Europe and in eastern North America south into Mexico and Central America, and it is recorded in China, Korea, and Pakistan. It is occasional in Britain and Ireland and more frequent farther north. A 2025 assessment lists it as Least Concern.",
@@ -37211,16 +37200,16 @@ export const CATALOG = [
           "notes": "Aiemmin sieni luokiteltiin ukonsienten sukuun nimellä Macrolepiota rhacodes."
     },
       de: {
-          "description": "Ein großer saprotropher Schirmling in Wäldern, Parks und Gärten. Charakteristisch sind die dachziegelartigen Schuppen und das bei Verletzung safranrot verfärbende Fleisch.",
-          "cap": "Der Hut ist 5–18 cm breit, kugelig bis ausgebreitet, grauweißlich mit großen, groben, braunen, konzentrisch aufgerichteten Schuppen.",
-          "hymenium": "Die Lamellen sind frei, dicht, weißlich, flecken bei Berührung rötlich-bräunlich.",
-          "stipe": "Der Stiel ist 5–20 cm lang und 1–3,5 cm dick, glatt, weißlich bis bräunlich, ungenattert, mit dicker Knolle und doppeltem, verschieblichem Ring.",
-          "flesh": "Das Fleisch ist weiß, läuft bei Verletzung oder im Anschnitt innerhalb von Sekunden leuchtend safranorange bis blutrot an. Geruch angenehm würzig.",
-          "habitat": "Fruchtkörper erscheinen von Juli bis November in Nadel- und Laubwäldern auf nährstoffreichen Böden und Kompost.",
-          "sporePrint": "Weiß bis zart cremefarben. Die Sporen sind ellipsoid, glatt, dextrinoid, 8–13 × 5–8 μm groß.",
-          "uses": "Essbar, muss jedoch gut erhitzt werden. Bei manchen Menschen löst er Magen-Darm-Unverträglichkeiten aus.",
-          "confusion": "Der Parasol (Macrolepiota procera) besitzt einen auffällig genatterten Stiel und sein Fleisch verfärbt sich im Anschnitt nicht rot. Der Garten-Safranschirmling (Chlorophyllum brunneum) hat eine scharf gerandete Knolle und ist giftverdächtig.",
-          "notes": "Die sofortige Safran- bis Blutfärbung des Fleisches bei Verletzung ist charakteristisch."
+          "description": "Ein großer saprotropher Blätterpilz auf nährstoffreichen Waldböden. Weit verbreitet und häufig in ganz Europa und Nordamerika.",
+          "cap": "Der Hut ist 8–18 cm breit, anfangs kugelig oder eiförmig, später gewölbt bis ausgebreitet. Die Oberfläche reißt von der Mitte ausgehend in große, fransige, bräunliche Schuppen auf, die sich deutlich vom helleren Untergrund abheben.",
+          "hymenium": "Die Lamellen sind weiß bis cremefarben, stehen dicht, sind frei und röten bei Verletzung sofort safranrot bis braunrot.",
+          "stipe": "Der Stiel ist 10–20 cm lang und 1–2 cm dick, zylindrisch mit knolliger Basis, glatt (niemals genattert!). Er trägt einen dicken, verschiebbaren Doppelring mit fransigem Rand.",
+          "flesh": "Das Fleisch ist weiß und verfärbt sich im Anschnitt sofort lebhaft safranorange, dann blutrot und trocknet bräunlich ein. Geruch angenehm aromatisch, Geschmack mild und nussig.",
+          "habitat": "Fruchtkörper erscheinen von Juli bis November vor allem in Nadelwäldern (Fichtenforsten), aber auch in Parkanlagen und Hecken auf humusreichen Böden.",
+          "sporePrint": "Weiß bis cremeweiß. Die Sporen sind ellipsoid, glatt, dickwandig, etwa 9–12 × 6–7 μm groß, mit Keimporus.",
+          "uses": "Ein hervorragender Speisepilz mit festem Fleisch, der vor dem Verzehr erhitzt werden muss. Manche Personen reagieren jedoch empfindlich auf Safranschirmlinge.",
+          "confusion": "Der Parasol (Macrolepiota procera) besitzt einen auffällig genatterten Stiel und sein Fleisch verfärbt sich im Anschnitt nicht rot. Der giftige Garten-Safranschirmling (Chlorophyllum brunneum) hat eine scharf gerandete Knolle, wächst auf Kompost und in Gärten und verursacht Magen-Darm-Vergiftungen.",
+          "notes": "Die Fruchtkörper besitzen eine allmählich verdickte Knolle und einen doppelten Ring. Chlorophyllum brunneum zeichnet sich durch eine scharf abgesetzte, gerandete Knolle aus."
     },
       en: {
         description: "A large saprobic agaric of woods, hedges, and humus-rich disturbed ground. It is frequent in Britain and Ireland and widespread through Europe and North America, where it is more often found from the Rocky Mountains eastward. Fruit bodies grow alone, scattered, or in troops and rings.",
@@ -37995,16 +37984,16 @@ export const CATALOG = [
           "notes": "Lajinimen emetica tarkoittaa oksennuttavaa ja viittaa sen aiheuttamaan myrkytykseen."
     },
       de: {
-          "description": "Ein ektomykorrhizabildender Täubling in feuchten Nadelwäldern und Mooren. Durch seinen brennend scharfen Geschmack und Giftigkeit bekannt.",
-          "cap": "Der Hut ist 3–10 cm breit, leuchtend kirschrot bis scharlachrot, bei Feuchtigkeit glänzend-schmierig. Die Huthaut lässt sich weitgehend abziehen.",
-          "hymenium": "Die Lamellen sind rein weiß, spröde, brüchig, am Stiel frei oder fast frei.",
-          "stipe": "Der Stiel ist 4–10 cm lang und 1–2,5 cm dick, rein weiß, zylindrisch, schwammig.",
-          "flesh": "Das Fleisch ist weiß, unter der Huthaut rötlich getönt, brüchig. Geruch schwach obstartig-fruchtig, Geschmack sofort brennend scharf.",
-          "habitat": "Fruchtkörper erscheinen von Juli bis November in sauren Moorwäldern unter Fichten und Kiefern zwischen Torfmoos.",
-          "sporePrint": "Rein weiß. Die Sporen sind breit ellipsoid, warzig-netzig, 7,5–11 × 6,5–9 μm groß.",
-          "uses": "Giftig! Er ruft rasch einsetzende Magen-Darm-Vergiftungen mit Erbrechen und Bauchkrämpfen hervor.",
-          "confusion": "Der Buchen-Spei-Täubling (Russula nobilis) wächst unter Buchen. Andere rote Täublinge wie der Apfeltäubling (Russula paludosa) schmecken mild und sind essbar.",
-          "notes": "Der sofortige brennend scharfe Geschmack zeichnet ihn aus."
+          "description": "Ein giftiger ektomykorrhizabildender Blätterpilz saurer Moor- und Nadelwälder. Weit verbreitet in den gemäßigten und borealen Zonen Europas, Asiens und Nordamerikas.",
+          "cap": "Der Hut ist 4–10 cm breit, anfangs gewölbt, bald flach niedergedrückt. Die Farbe ist leuchtend kirschrot bis scharlachrot. Die Huthaut ist feucht sehr schmierig-glänzend und lässt sich fast vollständig abziehen. Der Hutrand ist im Alter deutlich gerieft.",
+          "hymenium": "Die Lamellen sind rein weiß, stehen mäßig dicht, sind brüchig und splittern leicht.",
+          "stipe": "Der Stiel ist 4–8 cm lang und 1–2 cm dick, rein weiß, zylindrisch, vollreif weich und schwammig.",
+          "flesh": "Das Fleisch ist weiß, direkt unter der Huthaut rötlich getönt, brüchig. Es riecht angenehm fruchtig (an Kokos oder Obst erinnernd), schmeckt jedoch brennend scharf.",
+          "habitat": "Fruchtkörper erscheinen von Juli bis November auf feuchten, sauren, nährstoffarmen Böden in Mooren, Torfmoospolstern und feuchten Nadelwäldern bei Kiefern und Fichten.",
+          "sporePrint": "Rein weiß. Die Sporen sind rundlich bis breit ellipsoid, dornig-warzig mit unvollständigem Netz, etwa 8,5–10,5 × 7,5–9 μm groß.",
+          "uses": "Giftig. Aufgrund seines brennend scharfen Geschmacks und giftiger Terpene ruft der Verzehr heftige Magen-Darm-Beschwerden mit Übelkeit und Erbrechen hervor.",
+          "confusion": "Der Buchen-Spei-Täubling (Russula nobilis) wächst unter Buchen auf festerem Boden und schmeckt ebenfalls brennend scharf. Milde rote Täublinge wie der Apfeltäubling (Russula paludosa) schmecken mild und sind hervorragende Speisepilze.",
+          "notes": "Eine Beurteilung aus dem Jahr 2025 stuft die Art als nicht gefährdet (Least Concern) ein. Sie bildet Ektomykorrhizen mit Kieferngewächsen in der gesamten nördlichen Hemisphäre. Australische Nachweise gehören zu Russula persanguinea."
     },
       en: {
         description: "An ectomycorrhizal mushroom of damp conifer woods and sphagnum bogs, most often with spruce and pine. It is widespread in Europe from the Mediterranean to northern Fennoscandia, including Britain and Ireland, and it is reported from North Africa, northern Asia, and parts of North and Central America.",
@@ -38789,16 +38778,16 @@ export const CATALOG = [
           "notes": "Ranskassa ja Puolassa sattuneet kuolemantapaukset johtivat sienen luokitteluun vaaralliseksi myrkkysieneksi 2000-luvun alussa."
     },
       de: {
-          "description": "Ein ektomykorrhizabildender Ritterling in sandigen Kiefernwäldern. Früher ein hochgeschätzter Speisepilz, heute als gefährlicher Giftpilz (Rhabdomyolyse) eingestuft.",
-          "cap": "Der Hut ist 5–12 cm breit, gelbgrün bis olivgelb mit feinen bräunlichen Schüppchen in der Mitte, bei Feuchtigkeit klebrig.",
-          "hymenium": "Die Lamellen sind schwefelgelb bis zitronengelb, dicht stehend, am Stiel ausgebuchtet angewachsen.",
-          "stipe": "Der Stiel ist 4–10 cm lang und 1–2,5 cm dick, zylindrisch, gelblich, voll und fest.",
-          "flesh": "Das Fleisch ist weißlich, unter der Huthaut gelblich. Geruch und Geschmack angenehm mehlartig.",
-          "habitat": "Fruchtkörper erscheinen von September bis November in lichten Kiefernwäldern auf sandigen, nährstoffarmen Böden.",
-          "sporePrint": "Weiß. Die Sporen sind ellipsoid, glatt, 6–8 × 4–5 μm groß.",
-          "uses": "Giftig! Wiederholter Verzehr größerer Mengen kann zu einer schweren Rhabdomyolyse (Auflösung von Muskelfasern) mit möglichem tödlichen Verlauf führen.",
-          "confusion": "Der Schwefel-Ritterling (Tricholoma sulphureum) ist ganzheitlich gelb, riecht penetrant nach Leuchtgas und ist ungenießbar.",
-          "notes": "Tricholoma frondosae wird als Pappelbegleiter unterschieden. Schwere Vergiftungsfälle (Rhabdomyolyse) nach wiederholten üppigen Mahlzeiten führten dazu, dass er heute als Giftpilz eingestuft wird. Pilz des Jahres 2021 in Deutschland."
+          "description": "Ein ektomykorrhizabildender Blätterpilz sandiger Kiefernwälder. Weit verbreitet in ganz Europa und Nordamerika.",
+          "cap": "Der Hut ist 5–12 cm breit, anfangs gewölbt mit eingerolltem Rand, später ausgebreitet und oft wellig verbogen. Die Farbe ist leuchtend gelbgrün, olivgelb bis braungelb, in der Mitte oft mit bräunlichen Schüppchen besetzt. Bei feuchtem Wetter ist die Huthaut schmierig.",
+          "hymenium": "Die Lamellen stehen dicht, sind am Stiel ausgebuchtet angewachsen und leuchtend schwefelgelb bis zitronengelb.",
+          "stipe": "Der Stiel ist 4–9 cm lang und 1–2,5 cm dick, zylindrisch, kräftig, schwefelgelb bis blassgelb, feinfaserig.",
+          "flesh": "Das Fleisch ist weißlich, unter der Huthaut gelblich getönt, fest. Es besitzt einen ausgeprägten Mehlgeruch und einen angenehm milden Geschmack.",
+          "habitat": "Fruchtkörper erscheinen von September bis November auf nährstoffarmen, sauren Sandböden unter Kiefern, oft tief im Moos oder Sand eingesenkt.",
+          "sporePrint": "Weiß. Die Sporen sind glatt, ellipsoid, etwa 6–8 × 4–5 μm groß.",
+          "uses": "Giftig. Früher galt er als geschätzter Speisepilz. Nach wiederholtem reichlichem Verzehr kann er jedoch eine schwere Rhabdomyolyse (Auflösung der Skelettmuskulatur) auslösen, die tödlich verlaufen kann.",
+          "confusion": "Der Schwefel-Ritterling (Tricholoma sulphureum) ist kleiner, ganz gelb und riecht widerlich nach Leuchtgas. Der Spitzbuckelige Saftling (Hygrocybe conica) schwärzt bei Berührung.",
+          "notes": "Pilz des Jahres 2021 in Deutschland."
     },
       en: {
         description: "A fleshy ectomycorrhizal mushroom of sandy pine woods, often in groups or rings, with the fruit bodies half buried in sand, moss, or needle litter. It is native across the temperate northern hemisphere, in Europe and North America, and it is reported from Asia and Central America.",
@@ -39616,16 +39605,16 @@ export const CATALOG = [
           "notes": "Kypsä itiöemä pölläyttää itiöpilven ulos sadepisaran tai eläimen kosketuksesta."
     },
       de: {
-          "description": "Ein sehr häufiger saprotropher Bauchpilz in Laub- und Nadelwäldern. Charakteristisch sind die abwischbaren kegeligen Stacheln auf der Außenhülle.",
-          "cap": "Der Fruchtkörper ist 3–8 cm hoch und 2–5 cm breit, birnen- bis flaschenförmig, weiß, dicht besetzt mit spitzen, leicht abwischbaren Stacheln, die nach dem Abfallen ein netzartiges Muster hinterlassen.",
-          "hymenium": "Die Sporenmasse (Gleba) reift im Inneren des oberen Kopfteils heran.",
-          "stipe": "Der untere sterile Teil bildet einen stielartigen Fuß, der innen gekammert ist.",
-          "flesh": "Die Gleba ist jung rein weiß und fest; bei der Reife zerfällt sie in ein olivbraunes Sporenpulver, das durch eine Scheitelöffnung entweicht.",
-          "habitat": "Fruchtkörper erscheinen von Juli bis November einzeln oder in Gruppen auf dem Waldboden in Laub- und Nadelwäldern.",
-          "sporePrint": "Olivbraun. Die Sporen sind kugelig, fein warzig, 3,5–4,5 μm groß.",
-          "uses": "Jung essbar, solange das Innere rein weiß und fest ist. Sobald eine gelbliche Verfärbung einsetzt, ungenießbar.",
-          "confusion": "Junge Fruchtkörper des hochgiftigen Knollenblätterpilzes (Amanita) im Eistadium unterscheiden sich im Längsschnitt durch die bereits erkennbaren Lamellenanlagen.",
-          "notes": "Eine Beurteilung aus dem Jahr 2017 stuft die Art als nicht gefährdet (Least Concern) ein."
+          "description": "Ein saprotropher Bauchpilz aus der Familie der Champignonverwandten. Sehr häufig und weltweit verbreitet in Laub- und Nadelwäldern.",
+          "cap": "Der Fruchtkörper ist flaschen-, birnen- oder keulenförmig, 3–8 cm hoch und 2–5 cm breit, mit rundlichem Kopf und stielartiger Basis. Die weiße Außenhülle ist dicht mit kegeligen Stacheln und Warzen besetzt, die leicht abfallen und ein netzartiges Muster hinterlassen.",
+          "hymenium": "Die Sporenmasse (Gleba) befindet sich im Inneren des kugeligen Kopfes. Sie ist anfangs rein weiß und fest, wird bei Reife olivbraun und pulverig und entweicht bei Berührung durch eine kleine Öffnung am Scheitel als Sporenstaub.",
+          "stipe": "Der untere, stielartige Teil ist steril, weißlich-bräunlich und enthält zellreiches Schwammgewebe.",
+          "flesh": "Das Fleisch (die Gleba) ist jung rein weiß, elastisch und fest. Geruch angenehm würzig, Geschmack mild.",
+          "habitat": "Fruchtkörper erscheinen von Juli bis November einzeln oder gesellig auf dem Boden und Falllaub in Laub- und Nadelwäldern.",
+          "sporePrint": "Olivbraun bis dunkelbraun. Die Sporen sind kugelig, fein warzig, etwa 3,5–4,5 μm groß.",
+          "uses": "Essbar, solange das Innere rein weiß und fest ist. Sobald sich die Gleba gelblich oder grünlich verfärbt, ist er ungenießbar.",
+          "confusion": "Der Birnen-Stäubling (Lycoperdon pyriforme) wächst büschelig direkt an totem Holz und hat feinere, kleieförmige Warzen. Junge Knollenblätterpilze im Eistadium unterscheiden sich durch die bereits angelegten Lamellen im Querschnitt.",
+          "notes": "Eine Beurteilung aus dem Jahr 2019 stuft die Art als nicht gefährdet (Least Concern) ein. Die Fruchtkörper reichern Cadmium, Blei, Quecksilber und Selen an und wurden als Bioindikatoren für Bodenverschmutzung genutzt. Aus den Fruchtkörpern wurde Lycoperdinsäure isoliert."
     },
       en: {
         description: "A saprotrophic fungus of woodland litter and grassy ground. It is common across Europe, including Britain, Ireland, and Slovakia, and through temperate North America from Alaska to Mexico, and it is reported from parts of Asia, Africa, Australia, New Zealand, South America, Greenland, and Iceland.",
@@ -40425,14 +40414,14 @@ export const CATALOG = [
           "notes": "Lajin taksonomia on vaihdellut eurooppalaisessa kirjallisuudessa ja nimellä on viitattu useisiin punikkitattilajeihin."
     },
       de: {
-          "description": "Ein hervorragender ektomykorrhizabildender Speisepilz unter Laubbäumen, vor allem Eichen und Buchen. Er zeichnet sich durch seinen orangeroten Hut und rötlich-braune Schuppen am Stiel aus.",
-          "cap": "Der Hut misst 5–20 cm im Durchmesser, ist leuchtend orangerot bis fuchsigbraun, samtig-filzig, polsterförmig gewölbt.",
-          "hymenium": "Die Röhren sind cremeweiß bis graubraun, Poren fein, verfärben sich auf Druck bräunlich.",
-          "stipe": "Der Stiel ist 8–20 cm lang und 2–4 cm dick, weißlich, dicht besetzt mit anfangs rötlich-braunen, später schwarzbraunen Schüppchen.",
-          "flesh": "Das Fleisch ist weiß, läuft im Anschnitt zunächst graurosa bis lila an und verfärbt sich schließlich schwarzviolett. Beim Kochen schwärzt es.",
-          "habitat": "Fruchtkörper erscheinen von Juni bis Oktober in Laubwäldern unter Eichen, Buchen, Linden und Birken.",
-          "sporePrint": "Ocker- bis olivbraun. Die Sporen sind spindelig, glatt, 13–18 × 4–5,5 μm groß.",
-          "uses": "Ein hervorragender Speisepilz, der vor dem Verzehr ausreichend durchgegart werden muss.",
+          "description": "Ein stattlicher ektomykorrhizabildender Raufußröhrling der Laubwälder. Weit verbreitet in Europa und Asien unter Eichen, Buchen und anderen Laubbäumen.",
+          "cap": "Der Hut misst 6–20 cm im Durchmesser, ist anfangs halbkugelig, dann polsterförmig gewölbt. Die Farbe ist lebhaft rotbraun, fuchsrot bis ziegelrot. Die Huthaut ist samtig-filzig, trocken und überragt den Rand mit einem schmalen Saum.",
+          "hymenium": "Die Röhren sind lang, um den Stiel tief ausgebuchtet, weißlich bis grau. Die Poren sind fein, weißlich-cremefarben und verfärben sich auf Druck bräunlich.",
+          "stipe": "Der Stiel ist 8–20 cm lang und 2–5 cm dick, massiv, nach oben verjüngt. Die Oberfläche ist dicht mit rötlich-braunen bis schwärzlichen Schuppen besetzt.",
+          "flesh": "Das Fleisch ist weiß, fest und verfärbt sich im Anschnitt zuerst weinrötlich-violett, dann schiefergrau bis blauschwarz. Geschmack mild, Geruch angenehm.",
+          "habitat": "Fruchtkörper erscheinen von Juni bis Oktober in Laubwäldern vor allem unter Eichen, Buchen, Hainbuchen und Linden auf basenreichen Böden.",
+          "sporePrint": "Ockerbraun. Die Sporen sind spindelig-ellipsoid, glatt, etwa 13–18 × 4–5,5 μm groß.",
+          "uses": "Ein hervorragender Speisepilz von festem Fleisch. Er muss wie alle Raufußröhrlinge gut durchgegart werden und schwärzt beim Kochen.",
           "confusion": "Die Birken-Rotkappe (Leccinum versipelle) wächst unter Birken und hat von Jugend an schwarze Stielschuppen. Die Weißstielige Rotkappe (Leccinum albostipitatum) wächst bei Espen.",
           "notes": "Pilz des Jahres 1994 in Deutschland."
     },
@@ -41225,16 +41214,16 @@ export const CATALOG = [
           "notes": "Voimakas raa'an perunan haju on lajin paras erottava tuntomerkki."
     },
       de: {
-          "description": "Ein sehr häufiger ektomykorrhizabildender Wulstling in Laub- und Nadelwäldern auf sauren Böden. Charakteristisch sind der Geruch nach rohen Kartoffeln und die gerandete Knolle.",
-          "cap": "Der Hut ist 5–10 cm breit, blass zitronengelb bis weißlich, besetzt mit unregelmäßigen, weißlichen bis bräunlichen Hüllresten (Velumresten).",
-          "hymenium": "Die Lamellen sind weiß bis blassgelblich, frei, gedrängt stehend.",
-          "stipe": "Der Stiel ist 6–12 cm lang und 1–2 cm dick, weißlich-gelb, mit einem hängenden, ungerieften gelblichen Ring. Die Basis endet in einer auffällig gerandeten, kugeligen Knolle.",
-          "flesh": "Das Fleisch ist weiß, unveränderlich. Geruch intensiv nach rohen Kartoffeln oder Keller, Geschmack unangenehm.",
-          "habitat": "Fruchtkörper erscheinen von August bis November in Nadel- und Buchenwäldern auf sauren Böden.",
-          "sporePrint": "Weiß. Die Sporen sind kugelig, glatt, 8–10 μm groß und amyloid.",
-          "uses": "Ungenießbar bis schwach giftig (enthält Bufotenin). Wegen der hohen Verwechslungsgefahr mit dem tödlichen Grünen Knollenblätterpilz strikt zu meiden.",
-          "confusion": "Der tödlich giftige Grüne Knollenblätterpilz (Amanita phalloides) hat eine sackartige, ungerandete Scheide (Volva), riecht nicht nach Kartoffeln und hat einen eingewachsen faserigen Hut.",
-          "notes": "Der charakteristische Geruch nach Kartoffelkeimen und die scharf abgesetzte Knolle sind diagnostisch."
+          "description": "Ein sehr häufiger ektomykorrhizabildender Blätterpilz auf sauren Böden. Weit verbreitet in ganz Europa und Nordasien.",
+          "cap": "Der Hut ist 5–10 cm breit, anfangs halbkugelig, dann gewölbt bis flach. Die Farbe ist blass zitronengelb, gelbgrünlich bis weißlich. Auf der feucht leicht klebrigen Huthaut liegen unregelmäßige, flache, weiße bis bräunliche Velumschollen.",
+          "hymenium": "Die Lamellen sind weiß bis blassgelblich, frei und stehen dicht.",
+          "stipe": "Der Stiel ist 6–12 cm lang und 1–2 cm dick, zylindrisch, weißlich-gelb. Er trägt oben einen häutigen, hängenden, gelblichen Ring. Die Stielbasis endet in einer großen, kugeligen, scharf gerandeten Knolle (ohne lappige Scheide!).",
+          "flesh": "Das Fleisch ist weiß, unter der Huthaut gelblich. Charakteristisch ist der penetrante Geruch nach frisch geschnittener roher Kartoffel oder feuchtem Keller.",
+          "habitat": "Fruchtkörper erscheinen von August bis November massenhaft in Nadel- und Laubwäldern auf sauren, nährstoffarmen Böden unter Kiefern, Fichten, Eichen und Buchen.",
+          "sporePrint": "Weiß. Die Sporen sind rundlich, glatt, etwa 8,5–11 × 7,5–9,5 μm groß und amyloid.",
+          "uses": "Ungenießbar bis schwach giftig. Er enthält Bufotenin, das jedoch beim Kochen zerstört wird. Wegen seines unangenehmen Geschmacks nach rohen Kartoffeln und der großen Verwechslungsgefahr mit tödlichen Knollenblätterpilzen ist er zu meiden.",
+          "confusion": "Der tödlich giftige Grüne Knollenblätterpilz (Amanita phalloides) hat eine lappige Scheide (Volva) an der Knolle, eingewachsene Fasern auf dem Hut, riecht nicht nach Kartoffeln und hat keine scharf gerandete Knolle.",
+          "notes": "Eine rein weiße Varietät (var. alba) kommt regelmäßig vor und riecht ebenfalls charakteristisch nach rohen Kartoffeln."
     },
       en: {
         description: "An ectomycorrhizal mushroom of coniferous and broadleaf woodland. It is frequent from the Mediterranean to the Hebrides and southern Scandinavia, and east through central Europe to Belarus and Estonia. It is also reported from the Caucasus, Korea, Japan, the Canary Islands, Australia, and South Africa.",
@@ -42046,16 +42035,16 @@ export const CATALOG = [
           "notes": "Lajinimi pardinum viittaa leopardin tai tiikerin turkkia muistuttavaan suomukuviointiin."
     },
       de: {
-          "description": "Ein stark giftiger, stattlicher ektomykorrhizabildender Ritterling in montanen Nadel- und Buchenwäldern auf Kalkböden.",
-          "cap": "Der Hut ist 6–15 cm breit, silbergrau bis graubraun, dicht bedeckt mit dunkleren, konzentrisch angeordneten Schuppen (Tigermuster).",
-          "hymenium": "Die Lamellen sind weißlich bis blassgelblich, oft mit wässrigen Tröpfchen besetzt, ausgebuchtet angewachsen.",
-          "stipe": "Der Stiel ist 5–12 cm lang und 2–4 cm dick, stämmig keulig, weißlich, zur Basis hin ockerlich verfärbend.",
-          "flesh": "Das Fleisch ist weiß, fest. Geruch und Geschmack angenehm mehlartig.",
-          "habitat": "Fruchtkörper erscheinen von August bis November in Bergwäldern unter Tannen, Fichten und Buchen auf Kalk.",
-          "sporePrint": "Weiß. Die Sporen sind breit ellipsoid, glatt, 8–10 × 5,5–7 μm groß.",
-          "uses": "Stark giftig! Verursacht schwere gastrointestinale Vergiftungen mit heftigem Erbrechen und Durchfall.",
-          "confusion": "Der Gemeine Erd-Ritterling (Tricholoma terreum) ist wesentlich kleiner, dünnfleischiger, riecht nicht nach Mehl und ist essbar.",
-          "notes": "Eine Beurteilung aus dem Jahr 2019 stuft die Art als nicht gefährdet (Least Concern) ein."
+          "description": "Ein stark giftiger ektomykorrhizabildender Blätterpilz der montanen Nadel- und Buchenwälder auf Kalkböden. Weit verbreitet, aber regional begrenzt in den Gebirgen Mittel- und Südeuropas sowie Nordamerikas.",
+          "cap": "Der Hut ist 6–15 cm breit, sehr dickfleischig, anfangs halbkugelig mit eingerolltem Rand, später gewölbt. Die Farbe ist silbergrau bis graubraun. Die Huthaut reißt in auffällige, konzentrische, dunklere Schuppen auf (an ein Tigerfell erinnernd).",
+          "hymenium": "Die Lamellen stehen gedrängt, sind am Stiel ausgebuchtet angewachsen, weißlich bis blass gelbgrünlich, scheiden bei feuchtem Wetter Wassertröpfchen aus.",
+          "stipe": "Der Stiel ist 5–10 cm lang und 2–4 cm dick, kräftig, keulig oder bauchig, weißlich, an der Spitze beflockt.",
+          "flesh": "Das Fleisch ist weiß, dick und fest. Geruch und Geschmack sind angenehm mehlig.",
+          "habitat": "Fruchtkörper erscheinen von August bis Oktober in Bergmischwäldern bei Fichten, Tannen und Buchen auf kalkhaltigen Böden.",
+          "sporePrint": "Weiß. Die Sporen sind glatt, breit ellipsoid, etwa 8–10 × 6–7 μm groß.",
+          "uses": "Stark giftig. Er verursacht schwere Magen-Darm-Vergiftungen mit heftigem Erbrechen und Durchfällen, die zu starker Dehydratation führen können.",
+          "confusion": "Der essbare Gemeine Erd-Ritterling (Tricholoma terreum) ist viel kleiner, dünnfleischiger, hat keinen Mehlgeruch und wächst bei Kiefern. Der Gilbende Erd-Ritterling (Tricholoma argyraceum) gilbt im Alter.",
+          "notes": "Die Art gehört zur Untergattung Pardinicutis, einer Gruppe mit grauen, braunen oder blassen, wolligen bis feinschuppigen Hüten, etwa 8–11 μm langen Sporen und zahlreichen Schnallen. Eine Beurteilung aus dem Jahr 2006 führt die Art in Tschechien als stark gefährdet (Endangered). Tricholoma pardinum var. filamentosum wächst im südlichen Europa bei Edelkastanien und Fichten und riecht mehlig mit gurkenartigem Geschmack."
     },
       cs: {
             "description": "Velká masitá ektomykorhizní houba vápnitých listnatých a jehličnatých lesů, rostoucí osamoceně nebo ve skupinách a někdy v kruzích. Je původní v celé Evropě, kde je častější na jihu a v horách, a je hlášena z jihozápadního Turecka, Číny, Japonska a mírné Severní Ameriky.",
@@ -42851,16 +42840,16 @@ export const CATALOG = [
           "notes": "Yksi suuri jättikuukunen voi tuottaa useita biljoonia itiöitä."
     },
       de: {
-          "description": "Ein riesiger, kugelförmiger saprotropher Bauchpilz auf Wiesen, Weiden und Parkrasen. Er kann gigantische Ausmaße erreichen.",
-          "cap": "Der Fruchtkörper ist kugelig bis polsterförmig, 20–60 cm im Durchmesser (selten über 1 Meter) und bis über 10 kg schwer. Die Außenhülle ist glatt, lederartig, rein weiß, später gelbbraun aufreißend.",
-          "hymenium": "Die gesamte Sporenmasse (Gleba) reift im Inneren des Fruchtkörpers heran.",
-          "stipe": "Ein Stiel fehlt; der Fruchtkörper ist nur mit feinen Myzelsträngen im Boden verankert.",
-          "flesh": "Die Gleba ist jung rein weiß, fest und quarkähnlich; bei der Reife zerfällt sie in ein olivbraunes, staubendes Sporenpulver.",
-          "habitat": "Fruchtkörper erscheinen von Juli bis Oktober auf nährstoffreichen Wiesen, Weiden und Parkanlagen.",
-          "sporePrint": "Olivbraun. Die Sporen sind rundlich, fein warzig, 3,5–5,5 μm groß.",
-          "uses": "Jung essbar, solange das Fleisch vollkommen weiß und fest ist. Scheibenweise paniert wie Schnitzel gebraten ein beliebter Speisepilz.",
-          "confusion": "Der Hasen-Stäubling (Bovistella utriformis) ist mit 6–15 cm Durchmesser deutlich kleiner, birnen- bis beutelförmig, besitzt eine felderig aufreißende Außenhülle und einen sterilen Strunk. Der Beutel-Stäubling (Lycoperdon excipuliforme) besitzt eine warzige bis flockige Oberfläche und einen langen stielartigen Fuß. Die nordamerikanische Calvatia booniana kann über 60 cm erreichen, reißt jedoch in dicke polygonale Schuppen auf. Boviste der Gattung Bovista bleiben wesentlich kleiner. Der Dickschalige Kartoffelbovist (Scleroderma citrinum) ist viel kleiner, derb-knollig und sein Inneres färbt sich schon früh schwarzviolett mit weißer Marmorierung. Junge Knollenblätterpilze (Amanita) im Eistadium zeigen im Längsschnitt bereits Lamellen- und Stielanlagen.",
-          "notes": "Eine Beurteilung aus dem Jahr 2019 stuft die Art als nicht gefährdet (Least Concern) ein."
+          "description": "Ein riesiger saprotropher Bauchpilz der Wiesen und Weiden. Weit verbreitet in den gemäßigten Breiten Europas, Asiens und Nordamerikas.",
+          "cap": "Der Fruchtkörper ist kugelig bis polsterförmig, 20–50 cm (ausnahmsweise bis 100 cm) breit und kann bis über 10 kg wiegen. Die Außenhülle ist glatt, lederartig, rein weiß, später vergilbend und im Alter in großen Lappen aufbrechend.",
+          "hymenium": "Die Fruchtschicht füllt das gesamte Innere des Fruchtkörpers aus. Sie ist anfangs rein weiß und fest, verwandelt sich bei der Reife in eine gelbgrüne, schließlich olivbraune, staubende Sporenmasse mit Abermilliarden Sporen.",
+          "stipe": "Ein Stiel fehlt; der Fruchtkörper ist lediglich durch wurzelartige Myzelstränge im Boden verankert.",
+          "flesh": "Das Fleisch ist jung rein weiß, saftig und fest wie Tofu, im Alter schwammig und trocken zerfallend. Geruch angenehm pilzig.",
+          "habitat": "Fruchtkörper erscheinen von Juni bis Oktober auf nährstoffreichen Wiesen, Weiden, Parkrasen und an Waldrändern, oft in Hexenringen.",
+          "sporePrint": "Olivbraun. Die Sporen sind rundlich, fein warzig, etwa 4–5,5 μm groß.",
+          "uses": "Jung, solange das Fleisch rein weiß ist, ein guter Speisepilz. Er wird meist in Scheiben geschnitten und wie Schnitzel paniert und gebraten.",
+          "confusion": "Der Beutel-Stäubling (Bovistella utriformis) ist mit 6–15 cm Durchmesser viel kleiner und birnen- oder pistillförmig geformt. Seine Außenhaut ist warzig oder bricht mosaikartig auf, und er besitzt eine sterile Stielbasis. Der Keulen-Stäubling (Lycoperdon excipuliforme) kann recht groß werden; seine Oberfläche ist jedoch warzig bis flockig statt glatt, und er besitzt eine sterile stielartige Basis. Calvatia booniana im westlichen Nordamerika kann über 60 cm erreichen, bricht jedoch in große vieleckige Schuppen auf. Bovista-Arten bleiben viel kleiner und ihre Außenhaut ist nicht immer glatt. Der Dickschalige Kartoffelbovist (Scleroderma citrinum) ist viel kleiner und fester, und sein Inneres verfärbt sich bereits in der Jugend dunkel purpurschwarz mit weißer Marmorierung. Ein junger Knollenblätterpilz (Amanita) zeigt im Vertikalschnitt Lamellen und einen Stiel. Ein ungeöffnetes Hexenei der Stinkmorchel besitzt eine Gallertschicht im Inneren. Dieser Pilz hat ein einheitlich weißes Inneres ohne Lamellenansätze.",
+          "notes": "Ein einzelner großer Fruchtkörper bildet Sporen in Billionenhöhe – bei einer Zählung mehr als sieben Billionen. Das schwammige Gewebe wurde traditionell zur Blutstillung, als Zunder und getrocknet zum Beruhigen von Bienenstöcken verwendet. Das aus Fruchtkörpern isolierte Protein Calvacin wurde in den 1960er Jahren auf seine Tumorhemmung untersucht; wegen allergischer Reaktionen und Toxizität wurden die Versuche eingestellt."
     },
       cs: {
             "description": "Saprotrofní houba luk, pastvin a otevřených míst bohatých na živiny. V Británii a Irsku se vyskytuje jen místy, dále se vyskytuje v mírné Evropě, včetně Slovenska, v Severní Americe od Velkých plání na východ, kde ji průzkumy nenašly v Arizoně ani na Floridě, a v částech Asie a jižní polokoule.",
@@ -43681,16 +43670,16 @@ export const CATALOG = [
           "notes": "Härmämalikan vahva tuoksu säilyy usein voimakkaana myös ruuanvalmistuksen jälkeen."
     },
       de: {
-          "description": "Ein sehr häufiger, stattlicher saprotropher Spätherbstpilz in der Laub- und Nadelstreu. Bildet oft riesige Hexenringe.",
-          "cap": "Der Hut ist 6–18 cm breit, aschgrau bis graubraun, weißlich bereift, fleischig gewölbt mit eingerolltem Rand, später ausgebreitet.",
-          "hymenium": "Die Lamellen sind cremeweiß bis blassgelblich, dicht stehend, leicht am Stiel herablaufend und leicht vom Hutfleisch lösbar.",
-          "stipe": "Der Stiel ist 6–12 cm lang und 1,5–3,5 cm dick, keulig, weißlich-faserig, voll, später schwammig.",
-          "flesh": "Das Fleisch ist dick, weiß, fest. Geruch intensiv süßlich-würzig (aufdringlich), Geschmack schwach säuerlich.",
-          "habitat": "Fruchtkörper erscheinen von September bis November in Laub- und Nadelwäldern in dicken Streuschichten.",
-          "sporePrint": "Cremegelb. Die Sporen sind ellipsoid, glatt, 6–8 × 3,5–5 μm groß.",
-          "uses": "Bedingt essbar, wird heute jedoch nicht mehr empfohlen. Er enthält Nebularin und kann individuelle Magen-Darm-Vergiftungen auslösen.",
-          "confusion": "Verwechslungsmöglichkeit mit dem giftigen Riesen-Rötling (Entoloma sinuatum), der rosa Lamellen und eckige Sporen besitzt.",
-          "notes": "Das hitzelabile Toxin Nebularin besitzt antibakterielle Eigenschaften."
+          "description": "Ein großer, spät im Jahr fruchtender saprotropher Blätterpilz auf Laub- und Nadelstreu. Sehr häufig und weit verbreitet in ganz Europa und Nordamerika.",
+          "cap": "Der Hut ist 8–20 cm breit, sehr dickfleischig, anfangs gewölbt mit eingerolltem Rand, später flach ausgebreitet bis trichterförmig vertieft. Die Farbe ist aschgrau, nebelgrau bis braungrau, feucht dunkler, trocken blasser grauweiß.",
+          "hymenium": "Die Lamellen stehen dicht, laufen kurz am Stiel herab, sind cremeweiß bis blassgelblich und lassen sich leicht vom Hutfleisch ablösen.",
+          "stipe": "Der Stiel ist 6–12 cm lang und 1,5–4 cm dick, kräftig, an der Basis keulig verdickt und weißfilzig, vollreif schwammig-hohl.",
+          "flesh": "Das Fleisch ist weiß, dick und fest. Charakteristisch ist der intensive, süßlich-staubige bis penetrant mehlige Geruch.",
+          "habitat": "Fruchtkörper erscheinen im Spätherbst von September bis November (oft bis zum Frost) in dichten Reihen oder großen Hexenringen in Laub- und Nadelwäldern auf dicker Streu.",
+          "sporePrint": "Cremegelb bis blass ocker. Die Sporen sind ellipsoid, glatt, etwa 6–8 × 3,5–5 μm groß.",
+          "uses": "Giftverdächtig bis unverträglich. Früher ein beliebter Speisepilz, enthält er das hitzestabile Toxin Nebularin und verursacht bei vielen Menschen schwere Magen-Darm-Beschwerden.",
+          "confusion": "Der stark giftige Riesen-Rötling (Entoloma sinuatum) fruchtet früher im Herbst, hat rosafarbenes Sporenpulver und ausgebuchtet angewachsene Lamellen. Die Mönchskopf-Trichterlinge (Infundibulicybe geotropa) haben rein weißes Sporenpulver und einen auffallenden spitzen Zentralbuckel.",
+          "notes": "Eine weiße Form besitzt einen milchweißen Hut und Stiel. Ältere Fruchtkörper werden mitunter vom Parasitischen Scheidling (Volvariella surrecta) befallen, der sie mit weißem Myzel überzieht."
     },
       cs: {
             "description": "Masitá saprotrofní houba rostoucí v opadu v jehličnatých a listnatých lesích, často v kruzích nebo hloučcích. Je rozšířená v Evropě od Středomoří a severní Afriky po polární kruh a na východ po Bělorusko a je hlášena ze Severní Ameriky a Japonska a zavlečena na Nový Zéland.",
@@ -44509,16 +44498,16 @@ export const CATALOG = [
           "notes": "Englanninkielinen nimi 'turkey tail' viittaa kalkkunan pyrstösulkia muistuttavaan moniväriseen vyöhykkeisyyteen."
     },
       de: {
-          "description": "Ein extrem häufiger holzzersetzender Porling an totem Laubholz. Berühmt für seine vielfarbigen, samtigen Zuwachszonen und medizinische Nutzung.",
-          "cap": "Die flachen Hüte sind 3–10 cm breit, fächer- oder rosettenförmig, dünn, konzentrisch gezont in Grau-, Braun-, Blau-, Schwarz- und Gelbtönen mit weißem Rand, fein samtig behaart.",
-          "hymenium": "Die Unterseite trägt weiße bis cremefarbene Poren (3–5 pro Millimeter) mit kurzen Röhren.",
-          "stipe": "Stiellos; seitlich dachziegelig dem Substrat angewachsen.",
-          "flesh": "Das Fleisch ist weiß, zäh, lederig. Geruch pilzig.",
-          "habitat": "Ganzjährig an abgestorbenen Stämmen und Stümpfen von Laubbäumen, besonders Buche, Eiche und Birke.",
-          "sporePrint": "Weiß. Die Sporen sind zylindrisch, leicht gekrümmt, glatt, 5–6 × 1,5–2,5 μm groß.",
-          "uses": "Ungenießbar da holzig-zäh. Als Heilpilz (Coriolus versicolor, Yun Zhi) in der traditionellen Medizin zur Immunstärkung geschätzt.",
-          "confusion": "Andere Trametenarten wie Trametes ochracea oder Lenzites betulina (mit lamelligem Hymenophor) sind ähnlich.",
-          "notes": "Polysaccharid K (PSK) aus diesem Pilz wird in Japan als Adjuvans in der Krebstherapie eingesetzt."
+          "description": "Ein sehr häufiger holzzersetzender Porling an totem Laubholz, der Weißfäule verursacht. Weltweit verbreitet.",
+          "cap": "Die flachen, fächer- bis rosettenförmigen Hüte sind 3–8 cm breit und nur 1–3 mm dick, wachsen dachziegelig oder rasig gehäuft. Die Oberseite ist seidenmatt glänzend, samtig behaart und in auffälligen, bunten konzentrischen Zonen aus Braun-, Grau-, Blau-, Gelb- und Schwarztönen gefärbt, mit weißem Zuwachsrand.",
+          "hymenium": "Die Unterseite trägt feine weiße bis cremefarbene Röhren mit winzigen Poren (3–5 pro Millimeter), die im Alter gelblich bis ockerbraun nachdunkeln.",
+          "stipe": "Ein Stiel fehlt; die Fruchtkörper sitzen flach am Substrat an.",
+          "flesh": "Das Fleisch ist dünn, zäh, lederig-korkig, weiß. Geruch schwach pilzig.",
+          "habitat": "Fruchtkörper sind ganzjährig an Stümpfen, Ästen und liegenden Stämmen von Laubbäumen (vor allem Buche, Eiche, Birke), seltener an Nadelholz zu finden.",
+          "sporePrint": "Weiß. Die Sporen sind zylindrisch, leicht gekrümmt, glatt, etwa 5–7 × 1,5–2,5 μm groß.",
+          "uses": "Ungenießbar, da zäh-lederig. In der traditionellen asiatischen Medizin (als Yun Zhi) sowie in der modernen Mykotherapie ein hoch geschätzter Heilpilz, aus dem immunstimulierende Polysaccharide (PSK, PSP) gewonnen werden.",
+          "confusion": "Die Striegelige Tramete (Trametes hirsuta) hat eine struppig-borstige, einfarbig grau-weißliche Oberseite. Der Angebrannte Rauchporling (Bjerkandera adusta) hat eine graue bis rauchschwarze Porenschicht.",
+          "notes": "Die Art ist von großer Bedeutung im forstlichen Holzabbau und wird bio-technologisch zum Abbau von Schadstoffen erforscht."
     },
       cs: {
             "description": "Tenký jednoletý choroš způsobující bílou hnilobu listnáčů, saprotrofní na odumřelém dřevě a někdy slabý parazit živých stromů. Je pravděpodobně celosvětový a je častý v celé Evropě od Skandinávie po Středomoří, včetně Británie a Irska, a v Asii, Severní Americe a Austrálii.",
@@ -45371,16 +45360,16 @@ export const CATALOG = [
           "notes": "Kuuluu arvostetuimpiin tattilajeihin ja sitä viedään kaupallisesti myös ulkomaille."
     },
       de: {
-          "description": "Ein prächtiger ektomykorrhizabildender Dickröhrling unter Kiefern. Heimisch in borealen und montanen Kiefernwäldern Europas.",
-          "cap": "Der Hut ist 6–30 cm breit, rotbraun, kastanienbraun bis weinrötlich, uneben-runzelig, feucht klebrig, mit feinem rosa Hauch am Rand.",
-          "hymenium": "Die Röhren sind jung weiß, dann gelb und schließlich olivgrün. Poren klein, verfärben sich auf Druck bräunlich.",
-          "stipe": "Der Stiel ist 7–16 cm lang und 3–10 cm dick, wuchtig keulig bis bauchig, rötlich-braun überlaufen, mit einem feinen hellen Netz bedeckt.",
-          "flesh": "Das Fleisch ist weiß, fest, unter der Huthaut charakteristisch weinrötlich gefärbt. Geruch und Geschmack angenehm mild und nussig.",
-          "habitat": "Fruchtkörper erscheinen von Mai bis November in lichten Kiefernwäldern auf sauren, sandigen Böden.",
-          "sporePrint": "Olivbraun. Die Sporen sind spindelig, glatt, 13–21 × 3,5–6,5 μm groß.",
-          "uses": "Ein hervorragender Speisepilz von gleicher Qualität wie der Gemeine Steinpilz.",
-          "confusion": "Der Gemeine Steinpilz (Boletus edulis) hat einen helleren, glatten Hut ohne weinrötliche Töne. Der Sommer-Steinpilz (Boletus reticulatus) wächst bei Laubbäumen.",
-          "notes": "Eine Beurteilung aus dem Jahr 2019 stuft die Art als nicht gefährdet (Least Concern) mit stabilem Bestand ein."
+          "description": "Ein stattlicher ektomykorrhizabildender Röhrling der Kiefernwälder. Weit verbreitet in ganz Europa, besonders in Skandinavien und montanen Lagen Süd- und Mitteleuropas.",
+          "cap": "Der Hut erreicht 6–30 cm (gelegentlich bis 40 cm) Durchmesser, ist anfangs halbkugelig, dann gewölbt bis polsterförmig. Die Farbe ist charakteristisch dunkel rotbraun, weinbraun bis kupferrot. Die Huthaut ist runzelig, samtig-matt, bei Nässe klebrig, am Rand oft rosa überhaucht mit weißem Bereifungssaum.",
+          "hymenium": "Die Röhren sind lang, am Stiel ausgebuchtet. Die feinen Poren sind anfangs weiß, verfärben sich über gelbgrün zu olivbraun und verfärben sich auf Druck nicht.",
+          "stipe": "Der Stiel ist 7–16 cm lang und 3–10 cm dick, wuchtig knollig oder keulig, rötlich braun überhaucht und von einem feinen, rötlich-weißen Netz überzogen.",
+          "flesh": "Das Fleisch ist weiß, fest, unter der Huthaut charakteristisch weinrot getönt. Geruch und Geschmack sind angenehm nussig-mild.",
+          "habitat": "Fruchtkörper erscheinen von Mai bis Juni und wieder von August bis November auf sauren, sandigen Böden unter Kiefern, seltener bei Fichten, Heidelbeeren und Buchen.",
+          "sporePrint": "Olivbraun. Die Sporen sind spindelig, glatt, etwa 13–21 × 3,5–6,5 μm groß.",
+          "uses": "Ein hervorragender Speisepilz von allerhöchster Güte, dem Gemeinen Steinpilz gleichwertig. Da er seltener madig wird, ist er bei Sammlern besonders begehrt.",
+          "confusion": "Boletus edulis hat einen braunen Hut mit weißem Rand und ein weißes Stielnetz. Boletus reticulatus hat einen blasseren, trocken samtigen Hut und wächst im Laubwald. Der Schwarzhütige Steinpilz (Boletus aereus) hat einen bronzeschwarzen Hut.",
+          "notes": "Eine Beurteilung aus dem Jahr 2019 stuft die Art als nicht gefährdet (Least Concern) mit stabilem Bestand ein. In Tschechien gilt sie als gefährdet (Vulnerable). Die Art reichert Quecksilber, Cadmium und Selen an."
     },
       cs: {
             "description": "Ektomykorhizní houba mírných a boreálních borových lesů. Je častá a místně hojná v celé Evropě a je hlášena z Asie. V Británii je častější ve zralých lesích s borovicí lesní ve Skotsku než na plantážích dále na jihu. V jižní Evropě je spíše horským druhem.",
@@ -46173,16 +46162,16 @@ export const CATALOG = [
           "notes": "Aiemmin sieni luokiteltiin kivitattien sukuun nimellä Boletus calopus."
     },
       de: {
-          "description": "Ein ektomykorrhizabildender Dickröhrling in Nadel- und Laubwäldern, besonders in den Gebirgen Europas. Trotz seiner prächtigen Farben ungenießbar.",
-          "cap": "Der Hut ist 3–20 cm breit (selten bis 25 cm), blassbraun, ledergrau bis lehmfarben, matt-filzig, polsterförmig gewölbt.",
-          "hymenium": "Die Röhren sind zitronengelb bis olivgelb, im Schnitt blauend. Die Poren sind klein, rund, zitronengelb und verfärben sich auf Druck blaugrün.",
-          "stipe": "Der Stiel ist 3–15 cm lang und 1–5 cm dick, keulig bis bauchig, oben zitronengelb, darunter karminrot bis purpurrot, mit einem deutlichen hellen Netz überzogen.",
-          "flesh": "Das Fleisch ist weißlich bis blassgelb, im Anschnitt langsam blauend. Geruch schwach säuerlich, Geschmack nach kurzer Zeit intensiv bitter.",
-          "habitat": "Fruchtkörper erscheinen von Juli bis Oktober in sauren montanen Nadelwäldern unter Fichten sowie in Buchenwäldern.",
-          "sporePrint": "Olivbraun. Die Sporen sind spindelig, glatt, 12–16 × 4–6 μm groß.",
-          "uses": "Ungenießbar und schwach giftig. Schon ein kleiner Pilz verdirbt durch seine bittere Schärfe jedes Pilzgericht und kann Magen-Darm-Beschwerden auslösen.",
-          "confusion": "Der Wurzelnde Bitterröhrling (Caloboletus radicans) hat keinen roten Stiel und wächst in warmen Laubwäldern. Der giftige Satans-Röhrling (Rubroboletus satanas) hat blutrote Poren.",
-          "notes": "Die gelben Poren in Verbindung mit dem roten Stielnetz und dem bitteren Geschmack sind typisch."
+          "description": "Ein ektomykorrhizabildender Röhrling in Nadel- und Laubwäldern. Er kommt in ganz Europa vom Mittelmeerraum bis in den Norden vor, hauptsächlich in der gemäßigten Zone und am häufigsten im Gebirge. Nachweise liegen auch aus dem Kaukasus, der Türkei, Pakistan, Yunnan, Korea und Taiwan vor. Berichte aus Nordamerika und Japan sind umstritten.",
+          "cap": "Der Hut ist 3–20 cm breit und erreicht gelegentlich 25 cm. Er beginnt halbkugelig mit lange eingerolltem, oft unregelmäßig welligem Rand und wird polsterförmig gewölbt. Die Mitte kann verflachen, manche Fruchtkörper bleiben jedoch bis ins Alter gewölbt. Die Oberfläche ist trocken und matt, jung fein filzig oder samtig und später kahl; mitunter reißt sie im Zentrum felderig oder feinschuppig auf. Die Farbe reicht von blassbraun, lehmbraun und milchkaffeefarben über rauchgrau und graubraun bis olivbraun oder gelblichbraun, bisweilen mit olivfarbenem Hauch, selten mit rötlichem Ton. Die Huthaut kann den Rand überragen.",
+          "hymenium": "Die Röhren sind 3–20 mm lang und am Stiel ausgebuchtet. Sie sind zitronengelb, später olivgelb. Die Poren sind klein und rund, anfangs graugelb oder zitronengelb, später grünlich bis olivgelb, und entsprechen den Röhren. Bei Berührung oder Anschnitt blauen Poren und Röhren blau bis blaugrün. Die Basidien sind keulenförmig, viersporig, etwa 30–38 × 9–12 μm groß. Die Zystiden sind keulig bis spindelförmig, hyalin, etwa 25–40 × 10–15 μm groß.",
+          "stipe": "Der Stiel ist 3–15 cm lang und 1–5 cm dick. Junge Stiele sind bauchig oder tonnenförmig; ausgewachsene Stiele sind keulig bis zylindrisch, oft in der Mitte dicker und unter dem Hut oder zur Basis hin verjüngt. Die Spitze ist leuchtend gelb. Darunter ist der Stiel karminrot bis rosa-rot, die Basis meist trüb braunrot oder braun. Ein feines bis recht grobes Netz überzieht die Oberfläche: an der Spitze weiß oder blassgelb auf gelbem Grund, weiter unten fleischrot, schmutzig rot oder bräunlich gelb, von der Basis aufwärts nachdunkelnd. Druckstellen blauen. Ein Ring fehlt.",
+          "flesh": "Das Fleisch ist weißlich, blass cremefarben oder blassgelb und in der Stielbasis oft schmutzig rötlich bis purpurrot. Anschnittflächen verfärben sich blau oder blaugrün. Junges Fleisch ist fest. Der Geruch ist schwach pilzartig oder unangenehm tintenartig. Der Geschmack ist anfangs süßlich und wird rasch sehr bitter. Das Fleisch reagiert mit Melzers Reagenz stark amyloid.",
+          "habitat": "Fruchtkörper erscheinen von Juni bis Dezember, am häufigsten von Juli bis Oktober. Sie wachsen einzeln oder in Gruppen, besonders im Hügelland und Gebirge, unter Fichten, Tannen, Kiefern, Buchen und Eichen, in Mitteleuropa meist auf sauren Böden.",
+          "sporePrint": "Olivgelb, blass ocker-oliv oder bräunlich oliv. Die Sporen sind glatt, schmal elliptisch bis spindelig, etwa 12–16 × 4–6 μm groß.",
+          "uses": "Kochen beseitigt die Bitterkeit nicht; ein einziger Fruchtkörper kann ein ganzes Gericht verderben. Manche Personen entwickeln nach dem Verzehr Magen-Darm-Beschwerden.",
+          "confusion": "Der Wurzelnde Bitter-Röhrling (Caloboletus radicans) hat wenig oder kein Rot am Stiel, ein schwächeres Netz, eine wurzelnde Basis und wächst in warmen Laubwäldern auf Kalk. Caloboletus kluzakii besitzt ebenfalls kaum Rot am gelben Stiel und wächst unter Laubbäumen auf Kalk. Der Satans-Röhrling (Rubroboletus satanas) besitzt rote Porenmündungen. Der Netzstielige Hexen-Röhrling (Suillellus luridus) hat einen dunkleren Hut, orangerote Poren und blaut im Anschnitt sofort intensiv.",
+          "notes": "Eine Beurteilung aus dem Jahr 2019 stuft die Art als nicht gefährdet (Least Concern) mit stabilem Bestand ein. In Großbritannien steht sie als potenziell gefährdet (Near Threatened) auf der Roten Liste. Nordamerikanische und japanische Populationen stellen andere Arten dar."
     },
       cs: {
             "description": "Ektomykorhizní hřib jehličnatých a listnatých lesů. Vyskytuje se v Evropě od Středomoří na sever, především v mírném pásu, a nejčastější je v horách. Je zaznamenán také na Kavkaze, v Turecku, Pákistánu, provincii Jün-nan, Koreji a na Tchaj-wanu. Zprávy ze Severní Ameriky a Japonska jsou sporné.",
@@ -46999,15 +46988,15 @@ export const CATALOG = [
           "notes": "Lajinimi subtomentosus viittaa lakkipinnan hienonukkaiseen samettisuuteen."
     },
       de: {
-          "description": "Ein häufiger ektomykorrhizabildender Filzröhrling in Laub- und Nadelwäldern. Er zeichnet sich durch einen samtigen Hut und weite, leuchtend gelbe Poren aus.",
-          "cap": "Der Hut ist 3–12 cm breit, olivbraun, gelbbraun bis lederfarben, samtig-filzig, bei Trockenheit oft felderig aufreißend.",
-          "hymenium": "Die Röhren sind leuchtend gelb bis goldgelb. Die Poren sind auffallend weit, eckig und verfärben sich auf Druck kaum oder nur schwach grünblau.",
-          "stipe": "Der Stiel ist 4–10 cm lang und 1–2 cm dick, schlank zylindrisch, gelblich mit bräunlicher Riefung oder feinen rötlichen Fasern, ohne echtes Netz.",
-          "flesh": "Das Fleisch ist weißlich-gelblich, im Hut weich, im Stiel faserig, im Anschnitt kaum verfärbend. Geschmack mild.",
-          "habitat": "Fruchtkörper erscheinen von Juni bis November in Laub- und Nadelwäldern unter Eichen, Buchen, Kiefern und Fichten.",
-          "sporePrint": "Olivbraun. Die Sporen sind spindelig-ellipsoid, 10–14 × 4–5,5 μm groß.",
-          "uses": "Essbar und wohlschmeckend, solange die Exemplare jung und fest sind.",
-          "confusion": "Die Braune Ziegenlippe (Xerocomus ferrugineus) hat rostbraune Töne und gelbes Basismyzel. Der Rotfußröhrling (Xerocomellus chrysenteron) zeigt rote Töne unter der aufreißenden Huthaut.",
+          "description": "Ein ektomykorrhizabildender Filzröhrling der Laub- und Nadelwälder. Weit verbreitet in ganz Europa und Nordasien sowie in Nordamerika vorkommend.",
+          "cap": "Der Hut misst 3–12 cm im Durchmesser, ist polsterförmig gewölbt bis flach ausgebreitet. Die Farbe ist olivbraun, gelbbraun bis lederocker. Die Huthaut ist samtig-filzig, trocken und reißt bei trockenem Wetter oft felderig auf.",
+          "hymenium": "Die Röhren sind leuchtend gelb bis goldgelb. Die Poren sind weit, eckig, unregelmäßig und verfärben sich auf Druck kaum oder nur sehr schwach blaugrün.",
+          "stipe": "Der Stiel ist 4–10 cm lang und 1–2 cm dick, zylindrisch, oft gebogen, blassgelb mit feinen bräunlichen oder rötlichen Rippen und Längsfasern, ohne echtes Netz.",
+          "flesh": "Das Fleisch ist weißlich bis blassgelb, im Hut weich, im Stiel zäher und faserig. Im Anschnitt bleibt es meist unveränderlich oder blaut nur minimal über den Röhren. Geschmack mild, Geruch unauffällig.",
+          "habitat": "Fruchtkörper erscheinen von Juni bis November in Laub- und Nadelwäldern unter Eichen, Buchen, Kiefern und Fichten auf mäßig sauren Böden.",
+          "sporePrint": "Olivbraun. Die Sporen sind spindelig-ellipsoid, glatt, etwa 10–14 × 4–5,5 μm groß.",
+          "uses": "Essbar. Solange die Fruchtkörper jung und fest sind, ist er ein guter Speisepilz; ältere Exemplare werden schwammig.",
+          "confusion": "Der Braune Filzröhrling (Xerocomus ferrugineus) besitzt rostbraune Hutfarben, gelbliches Basismyzel und unveränderlich weißes Fleisch. Der Rotfußröhrling (Xerocomellus chrysenteron) zeigt ein rötliches Band direkt unter der aufreißenden Huthaut und hat einen am Stiel rot überlaufenen Habitus.",
           "notes": "Eine Beurteilung aus dem Jahr 2019 stuft die Art als nicht gefährdet (Least Concern) ein."
     },
       cs: {
@@ -47805,16 +47794,16 @@ export const CATALOG = [
           "notes": "Pohjoismaissa koivunpunikkitatti on yksi poimituimmista ja satoisimmista kauppasienistä."
     },
       de: {
-          "description": "Ein beliebter ektomykorrhizabildender Raufußröhrling, der streng an Birken gebunden ist. Typisch sind der orangerote Hut und die von Jugend an schwarzen Stielschuppen.",
-          "cap": "Der Hut ist 6–20 cm breit, leuchtend gelborange bis orangerot, samtig-filzig, polsterförmig mit überhängendem Huthautrand.",
-          "hymenium": "Die Röhren sind cremeweiß, später graubraun, tief um den Stiel ausgebuchtet. Poren fein, verfärben sich auf Druck graubraun.",
-          "stipe": "Der Stiel ist 8–20 cm lang und 2–4 cm dick, kräftig, weißlich, von Jugend an dicht besetzt mit tiefschwarzen Schuppen.",
-          "flesh": "Das Fleisch ist weiß, läuft im Anschnitt zunächst grauviolett, dann schwarzblau bis tiefschwarz an. Geschmack mild.",
-          "habitat": "Fruchtkörper erscheinen von Juni bis Oktober unter Birken auf sauren, moorigen oder sandigen Böden.",
-          "sporePrint": "Olivbraun. Die Sporen sind spindelig, glatt, 12–16 × 4–5 μm groß.",
-          "uses": "Ein hervorragender Speisepilz, der jedoch gut durchgegart werden muss, da er roh unbekömmlich ist. Das Fleisch schwärzt beim Kochen.",
-          "confusion": "Die Laubwald-Rotkappe (Leccinum aurantiacum) wächst bei Eichen und Buchen und hat zunächst rotbraune Stielschuppen. Die Weißstielige Rotkappe (Leccinum albostipitatum) wächst bei Espen.",
-          "notes": "Die schwarzen Stielschuppen von Jugend an und die strikte Bindung an Birken sind kennzeichnend."
+          "description": "Ein stattlicher ektomykorrhizabildender Raufußröhrling unter Birken. Häufig und weit verbreitet in Nord- und Mitteleuropa sowie Nordasien.",
+          "cap": "Der Hut ist 6–20 cm breit, anfangs halbkugelig, später polsterförmig gewölbt. Die Farbe ist lebhaft orangerot, ziegelrot bis fuchsig orange. Die Huthaut ist samtig, trocken und ragt am Rand als deutlicher häutiger Saum über die Röhren.",
+          "hymenium": "Die Röhren sind tief ausgebuchtet, grauweiß bis graubräunlich. Die Poren sind fein, rundlich, grauocker und verfärben sich auf Druck bräunlich.",
+          "stipe": "Der Stiel ist 8–20 cm lang und 2–5 cm dick, kräftig, zylindrisch oder zur Basis hin verdickt. Die Stieloberfläche ist weißlich und dicht mit rauen Schuppen besetzt, die von Jugend an tiefschwarz gefärbt sind.",
+          "flesh": "Das Fleisch ist weiß, sehr fest und verfärbt sich im Anschnitt charakteristisch: rasch weinrötlich-grauviolett und dunkelt schließlich grauschwarz bis tief blauschwarz nach. Geschmack mild.",
+          "habitat": "Fruchtkörper erscheinen von Juni bis Oktober streng unter Birken auf sauren Moorböden, Heiden und in lichten Wäldern.",
+          "sporePrint": "Zimtholzbraun. Die Sporen sind spindelig, glatt, etwa 13–16 × 4–5 μm groß.",
+          "uses": "Ein hervorragender Speisepilz von festem Fleisch. Er muss vor dem Verzehr gut durchgegart werden (roh giftig) und verfärbt sich beim Kochen schwarz.",
+          "confusion": "Die Laubwald-Rotkappe (Leccinum aurantiacum) wächst unter Eichen und hat bräunlich-rote Schuppen. Die Weißstielige Rotkappe (Leccinum albostipitatum) wächst unter Zitterpappeln und hat weiße Stielschuppen.",
+          "notes": "Nach DNA-Analysen betrachten viele Autoren Leccinum cerinum, Leccinum percandidum und Leccinum roseotinctum als Farbformen dieser Art. Eine Beurteilung aus dem Jahr 2025 stuft sie als nicht gefährdet (Least Concern) mit großem, stabilem Bestand ein."
     },
       cs: {
             "description": "Ektomykorhizní houba březových lesů, vřesovišť a křovin, rostoucí jednotlivě nebo v roztroušených skupinách. V Británii a Irsku je poměrně častá a v pevninské Evropě rozšířená, od Skandinávie na jih po Portugalsko, Španělsko a Itálii a na východ po Rusko. Vyskytuje se také v částech Severní Ameriky, včetně jihovýchodní Aljašky.",
@@ -48591,16 +48580,16 @@ export const CATALOG = [
           "notes": "Lajinimi duriusculum tarkoittaa melko kovaa ja viittaa sen poikkeuksellisen kiinteään rakenteeseen."
     },
       de: {
-          "description": "Ein ektomykorrhizabildender Raufußröhrling unter Pappeln, besonders Zitterpappeln und Weißpappeln. Auffallend durch sein ungewöhnlich festes Fleisch.",
-          "cap": "Der Hut ist 5–15 cm breit, graubraun bis lederbraun, polsterförmig gewölbt, samtig-filzig, trocken.",
-          "hymenium": "Die Röhren sind cremeweiß bis graugelblich, im Alter bräunend. Poren klein, rundlich, verfärben sich auf Druck bräunlich.",
-          "stipe": "Der Stiel ist 7–15 cm lang und 1,5–3,5 cm dick, voll, fest, weißlich mit feinen dunkelbraunen bis schwärzlichen Schüppchen; an der Basis oft blaugrün fleckend.",
-          "flesh": "Das Fleisch ist weiß und sehr fest, verfärbt sich im Anschnitt rötlich-grau und in der Stielbasis charakteristisch blaugrün.",
-          "habitat": "Fruchtkörper erscheinen von Juli bis Oktober unter Pappeln in Parkanlagen, Auen und lichten Wäldern.",
-          "sporePrint": "Olivbraun. Die Sporen sind spindelig, 13–17 × 4,5–6 μm groß.",
-          "uses": "Ein hervorragender Speisepilz, dessen Fleisch beim Kochen fester bleibt als bei vielen anderen Raufußröhrlingen.",
-          "confusion": "Der Gemeine Birkenpilz (Leccinum scabrum) wächst bei Birken, hat weicheres Fleisch und zeigt keine blaugrüne Verfärbung an der Stielbasis.",
-          "notes": "Die blaugrüne Verfärbung in der Stielbasis und das auffallend feste Fleisch sind typisch."
+          "description": "Ein ektomykorrhizabildender Raufußröhrling der Zitterpappelbestände. Weit verbreitet in Süd- und Mitteleuropa.",
+          "cap": "Der Hut ist 5–15 cm breit, polsterförmig gewölbt, graubraun bis dunkelbraun, oft mit leichtem Kupferton. Die Oberfläche ist feinsamtig, trocken und festfleischig.",
+          "hymenium": "Die Röhren sind weißlich, später grauocker. Die Poren sind klein, rundlich und flecken bei Berührung bräunlich.",
+          "stipe": "Der Stiel ist 8–18 cm lang und 1,5–3,5 cm dick, zylindrisch oder bauchig, weißlich und dicht mit braunschwarzen, feinen Schuppen besetzt. An der Stielbasis zeigt sich oft ein bläulich-grüner Fleck.",
+          "flesh": "Das Fleisch ist auffallend fest und hart, weiß, verfärbt sich im Anschnitt erst lachsrosa, dann rötlich-grau und schließlich schiefergrau bis schwärzlich; die Stielbasis zeigt oft blaugrüne Flecken. Geschmack mild.",
+          "habitat": "Fruchtkörper erscheinen von Juli bis Oktober fast ausschließlich unter Zitterpappeln (Populus tremula) und Weißpappeln auf lehmigen oder kalkhaltigen Böden.",
+          "sporePrint": "Zimtholzbraun. Die Sporen sind spindelig, glatt, etwa 13–17 × 5–6 μm groß.",
+          "uses": "Ein hervorragender Speisepilz mit besonders festem Fleisch, der vor dem Verzehr gut durchgegart werden muss.",
+          "confusion": "Der Gemeine Birkenpilz (Leccinum scabrum) hat weicheres Fleisch, verfärbt sich im Schnitt nicht rosa oder blaugrün und wächst streng unter Birken.",
+          "notes": "Eine Beurteilung aus dem Jahr 2025 stuft die Art als nicht gefährdet (Least Concern) mit stabilem Bestand ein. In Großbritannien und Irland ist sie selten und vor allem im Süden verbreitet. In der Slowakei ist sie sehr selten, aber standorttreu. In Tschechien galt sie lange als selten und wird in den letzten Jahrzehnten häufiger nachgewiesen."
     },
       cs: {
             "description": "Ektomykorhizní houba topolových a osikových lesů, parků a okrajů silnic. Je rozšířená v mírné Evropě, od Británie a Irska přes střední a jižní Evropu po Skandinávii a na východ až do Sibiře, a plodí také pod vysázenými topoly mimo tento areál.",
@@ -49388,16 +49377,16 @@ export const CATALOG = [
           "notes": "Lajin aiheuttamat kuolemaan johtaneet myrkytykset johtivat sen poistamiseen syötävien sienten luetteloista maailmanlaajuisesti."
     },
       de: {
-          "description": "Ein rein weißer, holzzersetzender Seitling an morschem Nadelholz in montanen Bergmischwäldern. Früher als Speisepilz gesammelt, heute nach tödlichen Vergiftungen in Japan als giftig bekannt.",
-          "cap": "Der Hut ist 2–8 cm breit, spatel- bis ohrförmig oder zungenförmig, rein weiß bis cremeweiß, dünnfleischig mit eingerolltem Rand.",
-          "hymenium": "Die Lamellen sind rein weiß, engstehend, schmal und laufen zur Anwachsstelle herab.",
-          "stipe": "Stiellos; seitlich mit verschmälertem Ansatz am Nadelholz angewachsen.",
-          "flesh": "Das Fleisch ist rein weiß, dünn, zart und elastisch. Geruch unauffällig, Geschmack mild.",
-          "habitat": "Fruchtkörper erscheinen von August bis November an morschen Stümpfen und Stämmen von Nadelbäumen (besonders Fichte und Tanne).",
-          "sporePrint": "Weiß. Die Sporen sind fast kugelig bis breit ellipsoid, glatt, 5,5–7 × 4,5–6 μm groß.",
-          "uses": "Giftig! In Japan kam es 2004 zu zahlreichen schweren Enzephalopathien mit Todesfolge, besonders bei Personen mit vorgeschädigten Nieren.",
-          "confusion": "Der essbare Austern-Seitling (Pleurotus ostreatus) und der Lungen-Seitling (Pleurotus pulmonarius) haben graue bis braune Hüte und wachsen überwiegend an Laubholz.",
-          "notes": "Die Vergiftungsfälle betrafen vor allem nierenkranke Patienten (Pleurocybella-Enzephalopathie)."
+          "description": "Ein holzzersetzender Blätterpilz an morschem Nadelholz. Weit verbreitet in den Nadelwäldern der nördlichen Hemisphäre (Europa, Nordasien, Nordamerika).",
+          "cap": "Der Fruchtkörper ist ohr- bis engelsflügelförmig, 2–8 cm breit, rein weiß bis elfenbeinweiß, sehr dünnfleischig und zart. Die Huthaut ist glatt, feucht seidig glänzend.",
+          "hymenium": "Die Lamellen sind rein weiß, stehen sehr dicht und laufen bis zum seitlichen Anwachspunkt herab.",
+          "stipe": "Ein Stiel fehlt; der Pilz sitzt mit einer verschmälerten Basis seitlich am Holz.",
+          "flesh": "Das Fleisch ist sehr dünn, weiß, zart und elastisch. Geruch unauffällig, Geschmack mild.",
+          "habitat": "Fruchtkörper erscheinen von August bis November in Gruppen dachziegelig an stark vermodertem Totholz von Nadelbäumen (Fichte, Kiefer, Tanne).",
+          "sporePrint": "Weiß. Die Sporen sind rundlich bis breit ellipsoid, glatt, etwa 5,5–7 × 4,5–6 μm groß und inamyloid.",
+          "uses": "Giftig. Früher galt er in Japan als beliebter Speisepilz. 2004 traten jedoch in Japan zahlreiche tödliche Enzephalopathien (Hirnschädigungen) nach seinem Verzehr auf, insbesondere bei Patienten mit Nierenerkrankungen.",
+          "confusion": "Der essbare Austern-Seitling (Pleurotus ostreatus) ist viel größer, dickfleischiger, graubraun oder bläulich gefärbt und wächst überwiegend an Laubholz.",
+          "notes": "Im Herbst 2004 erkrankten in Japan 59 Personen nach dem Verzehr an akuter Enzephalopathie; 17 Menschen starben. Die meisten Verstorbenen litten an vorbestehenden Nierenerkrankungen und waren durchschnittlich etwa 70 Jahre alt. Fruchtkörper enthalten die instabile Aminosäure Pleurocybellaziridin, die in Zellkulturen toxisch auf Rattenhirnzellen wirkt. Eine polnische Rote Liste führt die Art als gefährdet (Vulnerable)."
     },
       cs: {
             "description": "Saprotrofní houba způsobující bílou hnilobu na odumřelém jehličnatém dřevě. Je rozšířená v mírných lesích severní polokoule, v rámci Británie hlavně ve Skotsku a severní Anglii, s ojedinělými nálezy ve Walesu a Irsku, a v severní pevninské Evropě, chladnějších částech Asie a částech Severní Ameriky.",
@@ -50155,16 +50144,16 @@ export const CATALOG = [
           "notes": "Laji tunnetaan Yhdysvalloissa yleisesti nimellä 'Eastern North American destroying angel'."
     },
       de: {
-          "description": "Ein tödlich giftiger ektomykorrhizabildender Wulstling des östlichen Nordamerikas. Als einer der berüchtigten Zerstörenden Engel (Destroying Angels) gefürchtet.",
-          "cap": "Der Hut ist 3–10 cm breit, rein weiß, glatt, anfangs halbkugelig, dann ausgebreitet, bei Feuchtigkeit leicht klebrig.",
-          "hymenium": "Die Lamellen sind rein weiß, frei, gedrängt stehend.",
-          "stipe": "Der Stiel ist 6–14 cm lang und 0,5–1,5 cm dick, schlank zylindrisch, rein weiß, mit einem zarten häutigen Ring und einer sackartigen weißen Volva an der Basis.",
-          "flesh": "Das Fleisch ist rein weiß. Mit Kalilauge (KOH) färbt es sich sofort lebhaft gelb. Geruch unauffällig, später unangenehm.",
-          "habitat": "Fruchtkörper erscheinen von Sommer bis Herbst in Laub- und Mischwäldern des östlichen Nordamerikas unter Eichen und Kiefern.",
-          "sporePrint": "Weiß. Die Sporen sind kugelig bis breit ellipsoid, glatt, 7,5–9,5 × 6,5–8,5 μm groß und amyloid. Die Basidien sind fast durchweg zweisporig.",
-          "uses": "Tödlich giftig! Enthält tödliche Mengen an Amatoxinen. Verursacht schweres Leber- und Nierenversagen.",
-          "confusion": "Ähnelt anderen weißen Knollenblätterpilzen wie Amanita virosa (viersporig) und Amanita verna. Champignons (Agaricus) haben im Alter braune Lamellen und keine Volva.",
-          "notes": "Kein belegter deutscher Volksname; wissenschaftlicher Name gezeigt. Charakterisiert durch fast ausschließlich zweisporige Basidien."
+          "description": "Ein tödlich giftiger ektomykorrhizabildender Blätterpilz der Laub- und Mischwälder des östlichen Nordamerikas.",
+          "cap": "Der Hut ist 3–10 cm breit, anfangs eiförmig, später gewölbt bis flach ausgebreitet. Die Farbe ist vollkommen rein weiß. Die Huthaut ist trocken oder bei Nässe klebrig, glatt und ohne Velumreste.",
+          "hymenium": "Die Lamellen sind rein weiß, frei, stehen dicht und bleiben unveränderlich weiß.",
+          "stipe": "Der Stiel ist 6–14 cm lang und 0,5–1,5 cm dick, schlank, weiß, glatt oder beflockt. Er trägt oben einen zarten, hängenden, weißen Ring. Die Basis ist knollig verdickt und steckt in einer weiten, sackartigen, lappigen weißen Volva.",
+          "flesh": "Das Fleisch ist rein weiß, dünn und verfärbt sich bei Verletzung nicht. Es färbt sich mit Kalilauge (KOH) sofort intensiv gelb.",
+          "habitat": "Fruchtkörper erscheinen vom Sommer bis in den Herbst in Laub- und Nadelwäldern des östlichen Nordamerikas unter Eichen, Kiefern und Buchen.",
+          "sporePrint": "Weiß. Die Sporen sind rundlich bis breit ellipsoid, glatt, etwa 7,5–10 × 6,5–8,5 μm groß und amyloid. Die Basidien sind charakteristischerweise fast ausnahmslos zweisporig.",
+          "uses": "Tödlich giftig. Er enthält tödliche Amatoxine und ist für zahlreiche tödliche Vergiftungen in Nordamerika verantwortlich.",
+          "confusion": "Wird leicht mit essbaren weißen Champignons (Agaricus-Arten) verwechselt, die jedoch rosafarbene bis schokoladenbraune Lamellen und keine Volva haben. Andere weiße Knollenblätterpilze wie der Frühlings-Knollenblätterpilz (Amanita verna) und der Kegelhütige Knollenblätterpilz (Amanita virosa) besitzen viersporige Basidien.",
+          "notes": "Eine Beurteilung aus dem Jahr 2025 stuft die Art als nicht gefährdet (Least Concern) ein. Sie unterscheidet sich von anderen weißen Arten des östlichen Nordamerikas durch zweisporige Basidien, runde Sporen und die gelbe KOH-Reaktion. Die Gene für die Synthese ihrer Amatoxine und Phallotoxine wurden identifiziert."
     },
       cs: {
             "description": "Ektomykorhizní houba smíšených jehličnatých a listnatých lesů, často s dubem. Je častá a široce rozšířená ve východní Severní Americe, od borových a dubových lesů v Texasu na sever přes Kanadu po boreální les v Newfoundlandu a v Přímořských provinciích. Dále na západ je vzácná.",
@@ -50786,16 +50775,16 @@ export const CATALOG = [
           "notes": "Aiheuttaa useita kuolemantapauksia vuosittain Lounais- ja Etelä-Euroopassa."
     },
       de: {
-          "description": "Ein kleiner, tödlich giftiger Schirmling auf grasigen Böden, in Gärten und Parkanlagen. Er enthält lebensgefährliche Amatoxine.",
-          "cap": "Der Hut misst 2–6 cm im Durchmesser, ist fleischbraun bis rötlichbraun, bedeckt mit dunkleren konzentrischen Schuppen auf weißlich-rosa Grund.",
-          "hymenium": "Die Lamellen sind frei, dicht stehend, weiß bis cremefarben.",
-          "stipe": "Der Stiel ist 2–5 cm lang und 0,3–0,7 cm dick, hutfarben beschuppt, mit einer dunklen Ringzone.",
-          "flesh": "Das Fleisch ist weißlich, im Stiel schwach rötend. Geruch fruchtig.",
-          "habitat": "Fruchtkörper erscheinen von August bis Oktober an warmen Standorten, in Parks, Gärten und an Wegrändern.",
-          "sporePrint": "Weiß. Die Sporen sind ellipsoid, dextrinoid, 7–9 × 4–5 μm groß.",
-          "uses": "Tödlich giftig! Enthält tödliche Amatoxine und hat in Südeuropa und Mitteleuropa wiederholt zu tödlichen Vergiftungen geführt.",
-          "confusion": "Wird fatal mit essbaren Wiesenchampignons oder kleinen Riesenschirmlingen verwechselt. Alle kleinen Schirmlinge (unter 8 cm Hutbreite) sind strikt zu meiden!",
-          "notes": "Enthält Amatoxine wie der Grüne Knollenblätterpilz."
+          "description": "Ein kleiner, tödlich giftiger saprotropher Blätterpilz der Parks, Gärten und Wegränder. Heimisch in Süd- und Mitteleuropa sowie Teilen Asiens.",
+          "cap": "Der Hut ist 2–5 cm breit, gewölbt bis flach ausgebreitet mit stumpfem Buckel. Die Oberfläche reißt von der Mitte ausgehend in feine, konzentrisch angeordnete, weinrötlich-braune Schüppchen auf einem blassrosa Untergrund auf.",
+          "hymenium": "Die Lamellen sind cremeweiß bis blassgelblich, frei und stehen dicht.",
+          "stipe": "Der Stiel ist 2–5 cm lang und 0,3–0,7 cm dick, zylindrisch. Unterhalb einer unvollständigen Ringzone ist der Stiel dicht mit weinrötlich-braunen Schüppchen besetzt, oberhalb blass.",
+          "flesh": "Das Fleisch ist weißlich, im Stielgrund weinrötlich anlaufend. Der Geruch ist fruchtig, oft an Früchte oder Birnen erinnernd.",
+          "habitat": "Fruchtkörper erscheinen im Spätsommer und Herbst von August bis Oktober an grasigen Wegrändern, in Gärten, Parkanlagen und warmen Gebüschen auf lehmigen, nährstoffreichen Böden.",
+          "sporePrint": "Weiß. Die Sporen sind ellipsoid, glatt, etwa 7–9 × 4–5 μm groß und dextrinoid.",
+          "uses": "Tödlich giftig. Er enthält lebensgefährliche Amatoxine in hoher Konzentration. Bereits geringe Mengen können zu akutem Leberversagen und Tod führen.",
+          "confusion": "Wird fatalerweise mit essbaren Wiesenchampignons oder kleinen Riesenschirmlingen verwechselt. Alle kleinen Schirmlinge (Lepiota) mit Hutfarben unter 6 cm sind meidenswert!",
+          "notes": "Sie gehört zu den giftigsten Arten der Gattung Lepiota. Chemische Analysen bestätigen Alpha-Amanitin-Konzentrationen, die mit denen von Amanita phalloides vergleichbar sind; bereits 100 Gramm Frischpilz können tödliches Leberversagen auslösen. Tödliche Vergiftungen sind aus Südeuropa, Nordafrika, der Türkei und dem Iran dokumentiert."
     },
       cs: {
             "description": "Malá saprotrofní houba parků, zahrad, travnatých polí, okrajů silnic a lesních mýtin. Je široce rozšířená v mírné Evropě a v částech Asie na východ až po Čínu, vyhledává teplé letní a podzimní podmínky a půdy bohaté na živiny nebo písčité. V Americe, Austrálii ani Oceánii se nevyskytuje.",
@@ -51507,16 +51496,16 @@ export const CATALOG = [
           "notes": "Lajinimi verna tarkoittaa keväistä ja viittaa sen varhaiseen esiintymisaikaan Etelä-Euroopassa."
     },
       de: {
-          "description": "Ein tödlich giftiger ektomykorrhizabildender Wulstling wärmeliebender Laubwälder, der vor allem im Frühjahr und Frühsommer erscheint.",
-          "cap": "Der Hut ist 4–10 cm breit, rein weiß, halbkugelig bis ausgebreitet, kahl und glatt.",
-          "hymenium": "Die Lamellen sind rein weiß, frei, dicht stehend.",
-          "stipe": "Der Stiel ist 6–12 cm lang und 1–2 cm dick, rein weiß, glatt oder schwach beflockt, mit hängendem weißem Ring und sackartiger Volva an der Knolle.",
-          "flesh": "Das Fleisch ist rein weiß, unveränderlich. Mit Kalilauge (KOH) zeigt es im Gegensatz zu Amanita virosa keine Gelbfärbung.",
-          "habitat": "Fruchtkörper erscheinen von Mai bis Juli in warmen Laubwäldern unter Eichen und Buchen auf kalkreichen Böden.",
-          "sporePrint": "Weiß. Die Sporen sind breit ellipsoid bis rundlich, glatt, 8–11 × 7–9 μm groß und amyloid.",
-          "uses": "Tödlich giftig! Enthält dieselben zerstörerischen Amatoxine wie der Grüne Knollenblätterpilz.",
-          "confusion": "Ähnelt weißen Egerlingen (Agaricus), die jedoch niemals eine Scheide besitzen und deren Lamellen braun werden.",
-          "notes": "Reagiert mit KOH negativ, im Unterschied zu Amanita virosa."
+          "description": "Ein tödlich giftiger ektomykorrhizabildender Blätterpilz der warmen Laubwälder auf Kalkböden. Heimisch im südlichen und mittleren Europa.",
+          "cap": "Der Hut ist 4–10 cm breit, rein weiß, halbkugelig bis flach ausgebreitet, kahl und bei Feuchtigkeit leicht klebrig.",
+          "hymenium": "Die Lamellen sind rein weiß, frei und gedrängt stehend.",
+          "stipe": "Der Stiel ist 6–12 cm lang und 1–2 cm dick, rein weiß, glatt oder nur fein befasert (nicht schuppig zerrissen!). Er trägt eine dünne, weiße Manschette und steckt in einer weiten, lappigen, weißen Scheide.",
+          "flesh": "Das Fleisch ist rein weiß und verfärbt sich bei Verletzung nicht. Es zeigt mit Kalilauge (KOH) keine Gelbreaktion (im Gegensatz zu Amanita virosa).",
+          "habitat": "Fruchtkörper erscheinen von Mai bis September in wärmebegünstigten Laubwäldern unter Eichen und Buchen auf Kalkböden.",
+          "sporePrint": "Weiß. Die Sporen sind rundlich bis breit ellipsoid, glatt, etwa 8,5–10 × 7–8,5 μm groß und amyloid.",
+          "uses": "Tödlich giftig. Er enthält tödliche Amatoxine und führt wie der Grüne Knollenblätterpilz nach einer langen Latenzzeit zum Leberversagen.",
+          "confusion": "Weiße Champignons (Agaricus-Arten) haben rosafarbene bis dunkelbraune Lamellen und keine Volva. Der Kegelhütige Knollenblätterpilz (Amanita virosa) hat einen flockig-zerrissenen Stiel und reagiert mit Kalilauge leuchtend gelb.",
+          "notes": "Die Art gehört zu den klassischen tödlichen Knollenblätterpilzen der Sektion Phalloideae. Die enthaltenen Amatoxine hemmen die RNA-Polymerase II und stoppen die zelluläre Proteinsynthese, was zu massivem Zerfall von Leberzellen führt. Molekularbiologische Studien beschränken das tatsächliche Vorkommen auf Europa und den Mittelmeerraum."
     },
       cs: {
             "description": "Smrtelně jedovatá ektomykorhizní houba s čistě bílou plodnicí a trvalou bazální pochvou. Pochází z jižní a střední Evropy a zasahuje do částí západní Asie a severní Afriky. Vyskytuje se především v teplých nížinných lesích a ve středomořských lesích a v severních šířkách je vzácná nebo chybí.",
@@ -52202,16 +52191,16 @@ export const CATALOG = [
           "notes": "Yksi harvoista tunnetuista kuolettavan myrkyllisistä haperolajeista."
     },
       de: {
-          "description": "Ein berüchtigter, tödlich giftiger Täubling Ostasiens (Japan, China, Taiwan). Er verursacht eine fatale Rhabdomyolyse (Auflösung von Muskelgewebe).",
-          "cap": "Der Hut ist 5–12 cm breit, graubraun bis rußbraun, gewölbt mit vertiefter Mitte.",
-          "hymenium": "Die Lamellen sind weißlich bis cremefarben, dick, entfernt stehend, verfärben sich bei Verletzung zunächst rötlich, schwärzen jedoch nicht vollständig nach.",
-          "stipe": "Der Stiel ist 3–8 cm lang und 1–2,5 cm dick, zylindrisch, graubraun.",
-          "flesh": "Das Fleisch ist weißlich, läuft bei Verletzung langsam rosa-rötlich an. Geschmack mild.",
-          "habitat": "Fruchtkörper erscheinen im Sommer in Laub- und Mischwäldern Ostasiens unter Eichen und Kiefern.",
-          "sporePrint": "Weiß. Die Sporen sind rundlich, warzig, 7–9 × 6–8 μm groß.",
-          "uses": "Tödlich giftig! Das Toxin Cycloprop-2-encarbonsäure löst eine massive Zerstörung der Skelettmuskulatur aus, die zu Atemlähmung und Herzstillstand führt.",
-          "confusion": "Verwechselbar mit harmlosen schwärzenden Täublingen wie Russula nigricans (Dickblättriger Schwarztäubling), der jedoch nach dem Röten tiefschwarz wird.",
-          "notes": "Kein belegter deutscher Volksname; wissenschaftlicher Name gezeigt. Das Toxin ist Cycloprop-2-encarbonsäure."
+          "description": "Ein tödlich giftiger ektomykorrhizabildender Täubling aus der Gruppe der Schwärztäublinge. Heimisch in Ostasien (China, Japan, Korea, Taiwan).",
+          "cap": "Der Hut ist 5–12 cm breit, trichterförmig vertieft mit eingerolltem Rand, schmutzig weißlich bis graubraun, im Alter schwärzend.",
+          "hymenium": "Die Lamellen stehen entfernt, sind dicklich, cremeweiß, röten bei Verletzung innerhalb von Minuten intensiv, schwärzen jedoch anschließend nicht oder nur sehr zögerlich.",
+          "stipe": "Der Stiel ist 3–8 cm lang und 1–2,5 cm dick, zylindrisch, weißlich bis blass graubraun, bei Druck rötend.",
+          "flesh": "Das Fleisch ist weißlich, rötet im Anschnitt rasch und schmeckt mild. Der Geruch ist unauffällig.",
+          "habitat": "Fruchtkörper erscheinen im Sommer und Herbst in warmen Laub- und Mischwäldern Ostasiens unter Eichen und Kiefern.",
+          "sporePrint": "Weiß. Die Sporen sind rundlich, warzig-netzig, etwa 7–9 × 6–8 μm groß.",
+          "uses": "Tödlich giftig. Er enthält das hochwirksame Toxin Cycloprop-2-encarbonsäure. Dieses Toxin löst eine massive Rhabdomyolyse (Auflösung der Skelett- und Herzmuskulatur) aus, die zu akutem Nieren- und Atemversagen führt.",
+          "confusion": "Andere schwärzende Täublinge wie der Dickblättrige Schwarztäubling (Russula nigricans) röten im Anschnitt ebenfalls, schwärzen jedoch danach vollständig und sind nicht lebensgefährlich toxisch.",
+          "notes": "Die tödliche Myotoxizität wurde 2009 durch die Isolierung von Cycloprop-2-encarbonsäure aufgeklärt, einer niedermolekularen Verbindung, die einen toxischen Zerfall der Skelettmuskelfasern (Rhabdomyolyse) auslöst. Bereits ein Bruchteil eines Fruchtkörpers kann beim Menschen eine tödliche Dosis darstellen; die Sterblichkeitsrate dokumentierter Vergiftungen in Japan und Südchina übersteigt 50 Prozent."
     },
       cs: {
             "description": "Smrtelně jedovatá ektomykorhizní houba se statnou, křehkou plodnicí, která po poranění zčervená, aniž by zčernala. Pochází z východní a jihovýchodní Asie, včetně Japonska, Číny a Tchaj-wanu. Vyskytuje se především v teplých mírných listnatých a smíšených lesích a roste na zemi ve spojení s bukovitými stromy v létě a na podzim.",
@@ -52786,16 +52775,16 @@ export const CATALOG = [
           "notes": "Aiemmin sieni tunnettiin nimellä Podostroma cornu-damae."
     },
       de: {
-          "description": "Ein bizarrer, tödlich giftiger Schlauchpilz in Ostasien. Die leuchtend roten Fruchtkörper ähneln Korallen oder Geweihstangen.",
-          "cap": "Der stromaartige Fruchtkörper wird 5–20 cm hoch und 1–3 cm dick, geweihartig oder keulenförmig verzweigt, leuchtend scharlachrot bis orangerot.",
-          "hymenium": "Die Fruchtschicht besteht aus winzigen, eingesenkten krugförmigen Perithezien unter der roten Rinde, aus denen die Ascosporen austreten.",
-          "stipe": "Der untere sterile Teil bildet einen unauffälligen, im Holz wurzelnden Fuß.",
-          "flesh": "Das Fleisch ist faserig-zäh, weißlich bis gelblich, geruchlos.",
-          "habitat": "Fruchtkörper erscheinen von Juli bis Oktober an verrottenden Stümpfen und Wurzeln von Laubbäumen in Japan, Korea und China.",
-          "sporePrint": "Gelblich-weiß. Die Sporen zerfallen in den Schläuchen in kleine Teilsporen.",
-          "uses": "Tödlich giftig! Enthält hochtoxische Trichothecene (Satratoxin H), die schwere multiple Organschäden, Knochenmarkdepression und Hautablösung auslösen.",
-          "confusion": "Wurde in Asien fatal mit Heilpilzen wie Reishi (Ganoderma) oder Cordyceps verwechselt.",
-          "notes": "Kein belegter deutscher Volksname; wissenschaftlicher Name gezeigt. Einer der wenigen tödlich giftigen Schlauchpilze weltweit."
+          "description": "Ein extrem giftiger Schlauchpilz (Ascomycota) aus der Familie der Krustenkugelpilzverwandten. Heimisch in Ostasien (Japan, Korea, China) an verrottenden Baumwurzeln.",
+          "cap": "Der Fruchtkörper bildet aufrechte, keulen- bis geweihartig verzweigte rote Gebilde von 5–15 cm Höhe und 1–2 cm Dicke. Die Oberfläche ist feucht glänzend, leuchtend orangerot bis scharlachrot.",
+          "hymenium": "Die Fruchtschicht ist in die fleischigen roten Äste eingesenkt. In kleinen kugeligen Perithecien reifen die Sporenschläuche heran.",
+          "stipe": "Ein eigentlicher Stiel ist kaum abgesetzt; die Fruchtkörper wachsen direkt aus dem Substrat empor.",
+          "flesh": "Das Fleisch ist weißlich bis gelblich, fest und saftig.",
+          "habitat": "Fruchtkörper erscheinen im Sommer und Herbst an morschen Baumstümpfen und Wurzeln von Laubbäumen in ostasiatischen Wäldern.",
+          "sporePrint": "Weiß. Die Askosporen sind zweizellig, glatt bis punktiert, winzig.",
+          "uses": "Tödlich giftig. Er enthält hochtoxische Makrozyklische Trichothecene (darunter Satratoxin H). Die Gifte führen zu multiplem Organversagen, Zerstörung des Knochenmarks und Abschälen der Haut. Bereits Berührungen sollen zu Hautreizungen führen können.",
+          "confusion": "Wird in Japan gelegentlich tragischerweise mit der essbaren Rötlichen Keule (Clavulinopsis) oder jungen Cordyceps-Arten verwechselt.",
+          "notes": "Er ist einer der wenigen tödlich giftigen Schlauchpilze. Mehrere tödliche Vergiftungen in Japan und Südkorea traten auf, weil Sammler die roten Stromata irrtümlich für Heilpilze wie Ganoderma oder Cordyceps hielten und in Tee oder Sake einlegten. Seine Trichothecen-Mykotoxine hemmen die Proteinsynthese in eukaryotischen Zellen massiv und lösen Apoptose in mehreren Organsystemen aus."
     },
       cs: {
             "description": "Smrtelně jedovatá saprotrofní houba z vřeckovýtrusých, tvořící vzpřímené, jasně červené až oranžově červené, kyjovité nebo parohovitě větvené stromaty. Pochází z mírné a subtropické východní a jihovýchodní Asie, včetně Japonska, Jižní Koreje a Číny, s ojedinělými výskyty zdokumentovanými v Austrálii. Vyrůstá na tlejícím dřevě, pařezech a zakopaných kořenech v listnatých lesích v teplých letních a podzimních měsících.",
@@ -53378,16 +53367,16 @@ export const CATALOG = [
           "notes": "Lajinimi exitialis tarkoittaa tuhoisaa tai kuolettavaa latinaksi."
     },
       de: {
-          "description": "Ein tödlich giftiger weißer Knollenblätterpilz Südchinas und Thailands. Er ist in China für zahlreiche tödliche Vergiftungen verantwortlich.",
-          "cap": "Der Hut ist 4–8 cm breit, rein weiß, glatt, anfangs eiförmig, später gewölbt bis flach.",
-          "hymenium": "Die Lamellen sind frei, dicht stehend, weiß.",
-          "stipe": "Der Stiel ist 7–9 cm lang und 0,5–1 cm dick, weiß, mit zartem Ring und kugeliger Basalknolle in einer weißen Scheide.",
-          "flesh": "Das Fleisch ist weiß. Mit Kalilauge (KOH) reagieren alle Gewebe sofort lebhaft gelb.",
-          "habitat": "Fruchtkörper erscheinen im Frühling und Sommer in subtropischen Laubwäldern unter Castanopsis fissa.",
-          "sporePrint": "Weiß. Die Sporen sind rundlich, glatt, 9,5–12 × 9–11,5 μm groß und amyloid. Die Basidien sind fast durchweg zweisporig.",
-          "uses": "Tödlich giftig! Enthält tödliche Mengen Amatoxine, die zu schwerem Leberzerfall führen.",
-          "confusion": "Amanita bisporigera (Östlicher Zerstörender Engel) hat einen tiefer sitzenden Ring und kleinere Sporen. Amanita oberwinklerana ist viersporig, hat ellipsoide Sporen und reagiert mit Kalilauge nicht gelb. Der Frühlings-Knollenblätterpilz (Amanita verna) und der Kegelhütige Knollenblätterpilz (Amanita virosa) sind viersporig. Der Große Scheidling (Volvopluteus gloiocephalus) besitzt keinen Ring, rosafarbenen Sporenstaub und wächst auf Ackerböden statt in Mykorrhiza.",
-          "notes": "Kein belegter deutscher Volksname; wissenschaftlicher Name gezeigt. Ursache zahlreicher tödlicher Vergiftungsfälle in Guangdong."
+          "description": "Ein tödlich giftiger ektomykorrhizabildender Blätterpilz aus Südchina (insbesondere Guangdong) und Indien.",
+          "cap": "Der Hut ist 4–9 cm breit, rein weiß bis blass cremefarben, gewölbt bis flach ausgebreitet, oft mit leichtem Zentralbuckel.",
+          "hymenium": "Die Lamellen sind weiß, frei und stehen dicht.",
+          "stipe": "Der Stiel ist 6–12 cm lang und 0,6–1,2 cm dick, weiß, zylindrisch, mit einem zarten, vergänglichen weißen Ring und einer sackartigen Volva an der Stielbasis.",
+          "flesh": "Das Fleisch ist rein weiß und verfärbt sich bei Verletzung nicht. Es reagiert mit Kalilauge (KOH) sofort leuchtend gelb.",
+          "habitat": "Fruchtkörper erscheinen von Frühjahr bis Sommer in subtropischen Wäldern Südchinas, oft in Mykorrhiza mit Scheinkastanien (Castanopsis).",
+          "sporePrint": "Weiß. Die Sporen sind rundlich, glatt, etwa 9–12 μm groß und amyloid.",
+          "uses": "Tödlich giftig. Er enthält tödliche Amatoxine und ist in Südchina für einen Großteil der tödlichen Pilzvergiftungen verantwortlich.",
+          "confusion": "Amanita bisporigera hat einen tiefer sitzenden Ring, kleinere Sporen (typischerweise 8–9,5 × 7–8,5 μm) und mehr aufgeblasene Zellen in der Volva. Amanita oberwinklerana ist viersporig, hat ellipsoide Sporen, einen tiefer sitzenden, vergänglicheren Ring und reagiert nicht gelb mit Kalilauge. Amanita subjunquillea var. alba ist viersporig mit kleineren Sporen. Der Frühlings-Knollenblätterpilz (Amanita verna) ist viersporig. Der Kegelhütige Knollenblätterpilz (Amanita virosa) ist viersporig und besitzt weiße, abstehende Schuppen am Stiel. Amanita parviexitialis ist zweisporig, der Hut misst jedoch nur etwa 3 cm und ist im Zentrum bräunlich. Amanita suballiacea ist viersporig mit kleineren Sporen. Amanita rimosa reißt am Hutrand oft radial ein. Der Große Scheidling (Volvopluteus gloiocephalus) besitzt keinen Ring, reife Lamellen und Sporenpulver sind rosa, und er wächst saprotroph auf Streu statt mykorrhizabildend mit lebenden Bäumen.",
+          "notes": "Nahezu jede Basidie trägt zwei Sporen, und jede Spore erhält zwei Kerne, sodass sie ohne Kreuzung ein Dikaryon ausbilden kann. Von 2019 bis 2023 forderte er in China mit 135 Vergiftungsfällen und 24 Todesopfern mehr Menschenleben als jeder andere Pilz. Etwa 50 g Frischpilz genügen, um einen 50 kg schweren Erwachsenen zu töten; die höchsten Toxinkonzentrationen finden sich in Hut und Lamellen."
     },
       cs: {
             "description": "Ektomykorhizní houba subtropických listnatých lesů v jižní a jihozápadní Číně, především se stále zeleným druhem Castanopsis fissa. Je známa z provincií Kuang-tung, Jün-nan, Kuej-čou a Če-ťiang a případy otrav jsou známy z Thajska. K tomuto druhu byl přiřazen dvouvýtrusý sběr z Urísy.",
@@ -53980,16 +53969,16 @@ export const CATALOG = [
           "notes": "Tunnetaan englanniksi nimellä 'East Asian brown destroying angel'."
     },
       de: {
-          "description": "Ein tödlich giftiger Knollenblätterpilz Ostasiens (China, Japan). Er ist als ostasiatischer brauner Knollenblätterpilz bekannt.",
-          "cap": "Der Hut ist 3–6 cm breit, rußbraun bis schwärzlich, mit dunklen eingewachsenen Radialfasern, glatt.",
-          "hymenium": "Die Lamellen sind frei, weiß bis grauweiß, dicht stehend.",
-          "stipe": "Der Stiel ist 6–11 cm lang und 0,4–1 cm dick, weißlich mit grauen Schüppchen, mit hängendem Ring und knolliger Basis in einer sackartigen Volva.",
-          "flesh": "Das Fleisch ist weiß, unter der Huthaut graubraun. Mit KOH reagiert es gelb.",
-          "habitat": "Fruchtkörper erscheinen von Sommer bis Herbst in Laub- und Eichenwäldern Ostasiens.",
-          "sporePrint": "Weiß. Die Sporen sind rundlich, glatt, 7–9 μm groß und amyloid.",
-          "uses": "Tödlich giftig! Verursacht tödliche Amatoxin-Vergiftungen mit Leberversagen.",
-          "confusion": "Ähnelt dem europäischen Grünen Knollenblätterpilz (Amanita phalloides), ist jedoch zierlicher und rußgrau gefärbt.",
-          "notes": "Kein belegter deutscher Volksname; wissenschaftlicher Name gezeigt. Tödlicher Giftpilz in China."
+          "description": "Ein tödlich giftiger ektomykorrhizabildender Blätterpilz Ostasiens (China, Japan).",
+          "cap": "Der Hut ist 3–8 cm breit, gewölbt bis flach, graubraun, rußbraun bis schwärzlich braun mit feinen eingewachsenen dunklen Radialfasern.",
+          "hymenium": "Die Lamellen sind frei, weiß und stehen dicht.",
+          "stipe": "Der Stiel ist 5–11 cm lang und 0,5–1 cm dick, weißlich mit grauen Schüppchen oder Zickzackbändern, trägt einen häutigen Ring und eine lappige Scheide.",
+          "flesh": "Das Fleisch ist weiß und unveränderlich. Kalilauge (KOH) ergibt keine auffällige Gelbreaktion.",
+          "habitat": "Fruchtkörper erscheinen vom Sommer bis zum Herbst in subtropischen Laub- und Mischwäldern Ostasiens bei Eichen und Buchen.",
+          "sporePrint": "Weiß. Die Sporen sind rundlich, etwa 7–9 μm groß und amyloid.",
+          "uses": "Tödlich giftig. Er enthält tödliche Mengen an Amatoxinen und verursacht akutes Leberversagen.",
+          "confusion": "Amanita fuligineoides ist größer, seine Stielbasis ist nicht kugelig verdickt und seine Volva besitzt weniger aufgeblasene Zellen. Amanita subfuliginea hat kleinere Sporen. Amanita pseudoporphyria trägt oft Velumreste auf dem Hut, hat einen weißen Ring und eine dicke weiße Volva. Der Porphyrbraune Wulstling (Amanita porphyria) wächst unter Nadelbäumen, trägt unregelmäßige Schollen auf dem Hut und hat eine flachere Scheide. Amanita elephas besitzt einen weißen Ring und kleinere Sporen. Der Gelbe Knollenblätterpilz (Amanita citrina var. grisea) hat einen gelblichen Ring, eine rötlich-braune Volva und riecht nach rohen Kartoffeln.",
+          "notes": "Die erste bestätigte Vergiftung im Jahr 1997 betraf 14 Personen und forderte 9 Todesopfer. Spätere Erhebungen für Südchina nennen 33 Vorfälle mit 352 Vergifteten und 79 Todesfällen. Der Gehalt an Amatoxinen übersteigt in allen Geweben den der Phallotoxine."
     },
       cs: {
             "description": "Ektomykorhizní houba lesů s převahou dubů, kaštanovníků Castanopsis a dalších stromů z čeledi bukovitých. Je známa z Japonska, z východní, jižní, střední a jihozápadní Číny a z lesa bukovitých stromů v severním Thajsku. V jižní a střední Číně opakovaně způsobila smrtelné otravy.",
@@ -54588,15 +54577,15 @@ export const CATALOG = [
           "notes": "Laji kuvattiin Kiinasta vasta 2000-luvulla tehtyjen molekyylitaksonomisten tutkimusten yhteydessä."
     },
       de: {
-          "description": "Ein tödlich giftiger weißer Wulstling in den subtropischen Wäldern Südchinas.",
-          "cap": "Der Hut ist 4–7 cm breit, weiß bis elfenbeinfarben, glatt, am Rand im Alter oft charakteristisch radial einreißend.",
-          "hymenium": "Die Lamellen sind frei, rein weiß, gedrängt stehend.",
-          "stipe": "Der Stiel ist 6–10 cm lang, weiß, schlank zylindrisch, mit häutiger Manschette und weißer Scheide an der Knolle.",
-          "flesh": "Das Fleisch ist rein weiß. Mit KOH verfärbt es sich intensiv gelb.",
-          "habitat": "Fruchtkörper erscheinen im Sommer in subtropischen Eichen- und Buchenmischwäldern Südchinas.",
-          "sporePrint": "Weiß. Die Sporen sind kugelig, glatt, 6,3–8,3 × 5,8–7,4 μm groß und amyloid.",
-          "uses": "Tödlich giftig! Enthält Amatoxine und führt zu fatalem akutem Leberversagen.",
-          "notes": "Kein belegter deutscher Volksname; wissenschaftlicher Name gezeigt. Der radial einreißende Hutrand gab der Art den Namen."
+          "description": "Ein tödlich giftiger ektomykorrhizabildender Blätterpilz aus Südchina.",
+          "cap": "Der Hut ist 4–9 cm breit, weißlich bis blassbräunlich, im Alter am Rand charakteristisch radial einreißend.",
+          "hymenium": "Die Lamellen sind rein weiß, frei und stehen gedrängt.",
+          "stipe": "Der Stiel ist 6–12 cm lang und 0,8–1,5 cm dick, weiß, mit hängendem Ring und basaler Volva.",
+          "flesh": "Das Fleisch ist weiß. Es reagiert mit Kalilauge gelb.",
+          "habitat": "Fruchtkörper erscheinen im Frühjahr und Sommer in Wäldern Südchinas.",
+          "sporePrint": "Weiß. Die Sporen sind rundlich, glatt, etwa 8–10 μm groß und amyloid.",
+          "uses": "Tödlich giftig. Er enthält gefährliche Amatoxine.",
+          "notes": "Im Kreis Wengyuan (Guangdong) erlitten fünf Personen Vergiftungen, von denen zwei Kinder starben. Die Huthaut ist 130–190 μm dick, zweischichtig, und ihre obere, leicht gelatinisierte Schicht enthält reichlich aufgeblasene Zellen – eine einzigartige Merkmalskombination innerhalb der Sektion Phalloideae."
     },
       cs: {
             "description": "Ektomykorhizní houba listnatých lesů, zejména lesů s převahou stromů z čeledi bukovitých. Je známa z čínských provincií Ťiang-si, Chu-nan, Chu-pej, Kuang-tung, Kuej-čou, Jün-nan a Chaj-nan a ze severního Thajska. Sekvenovaný sběr je znám z Hyógo v Japonsku. Smrtelné otravy jsou zaznamenány z jižní Číny.",
@@ -55160,16 +55149,15 @@ export const CATALOG = [
           "notes": "Sieni oli syynä mystiseen 'Yunnanin äkillisen kuoleman oireyhtymään', joka vaati satoja ihmishenkiä yli 30 vuoden aikana ennen kuin sienen myrkyllisyys paljastui vuonna 2010."
     },
       de: {
-          "description": "Ein kleiner, weißer, tödlich giftiger Holzpilz der Provinz Yunnan im Südwesten Chinas. Er wurde als Ursache des plötzlichen ungeklärten Herztodes (Yunnan Sudden Death Syndrome) identifiziert.",
-          "cap": "Der Hut ist 1–4 cm breit, trichterförmig, rein weiß, dünnfleischig und zart.",
-          "hymenium": "Die Lamellen sind weiß, gabelig geteilt und laufen am Stiel herab.",
-          "stipe": "Der Stiel ist 1,5–3 cm lang, dünn, zylindrisch, weißlich.",
-          "flesh": "Das Fleisch ist weiß, sehr dünn, fast geruchlos.",
-          "habitat": "Fruchtkörper erscheinen während der sommerlichen Regenzeit an morschem Holz in Bergwäldern Yunnans.",
-          "sporePrint": "Weiß. Die Sporen sind winzig, glatt, hyalin und inamyloid.",
-          "uses": "Tödlich giftig! Enthält toxische unnatürliche Aminosäuren, die zu schwerer Hypoglykämie, Herzrhythmusstörungen und plötzlichem Herztod führen.",
-          "confusion": "Die ähnliche Trogia infundibuliformis besitzt einen trichterförmigen Hut mit hohlem Stiel und angenehmem Geruch. Der Pilz erinnert zudem flüchtig an kleine holzbewohnende Seitlinge (Pleurotus) oder weiße Nabelinge (Omphalina).",
-          "notes": "Kein belegter deutscher Volksname; wissenschaftlicher Name gezeigt. Auslöser von über 400 ungeklärten Todesfällen in Yunnan."
+          "description": "Ein kleiner, hochgiftiger saprotropher Blätterpilz an feuchtem Totholz im südwestlichen China (Yunnan).",
+          "cap": "Der Hut ist 1,5–4 cm breit, trichter- bis muschelförmig, rein weiß bis cremefarben, feucht gallertartig-durchscheinend, dünnfleischig.",
+          "hymenium": "Die Lamellen sind weiß, gegabelt, am Stiel herablaufend und schmal.",
+          "stipe": "Der Stiel ist 1–3 cm lang, dünn, oft gebogen, weißlich.",
+          "flesh": "Das Fleisch ist weiß, wässrig und zart.",
+          "habitat": "Fruchtkörper erscheinen in der Regenzeit von Juli bis September an morschem Totholz in Bergwäldern Yunnans.",
+          "uses": "Tödlich giftig. Er ist die Ursache des mysteriösen plötzlichen Herztodes in Yunnan (Yunnan Sudden Death Syndrome), dem Hunderte Menschen zum Opfer fielen. Er enthält toxische, nicht-proteinogene Aminosäuren, die schwere Hypoglykämie und Herzstillstand verursachen.",
+          "confusion": "Die Trichterförmige Trogia (Trogia infundibuliformis) besitzt einen trichterförmigen Hut mit welligem Rand, herablaufende Lamellen, eine hygrophane Oberfläche, einen hohlen Stiel und einen angenehmen Geruch; dieser Pilz weist diese Merkmale nicht auf. Sein Hut ist fächer- bis blütenblattförmig mit teilweise durchscheinendem, welligem Rand und schmalen Lamellen; der Stiel ist faserig, blass bis bräunlich und nicht hohl.",
+          "notes": "Nach dem Verzehr traten bei Betroffenen oft innerhalb von Stunden oder Tagen plötzliche Herzrhythmusstörungen und Herzstillstand auf."
     },
       cs: {
             "description": "Častá houba způsobující hnilobu dřeva, plodící ve shlucích na odumřelém dřevě. Roste v subtropických horách provincie Jün-nan v jihozápadní Číně a je známa jen z jihozápadu, středu a severozápadu provincie, mezi asi 1700 a 3000 m n. m.",
@@ -55840,16 +55828,16 @@ export const CATALOG = [
           "notes": "Värjäytyy kuivuessaan huomattavan vaaleaksi, jolloin violetti väri säilyy parhaiten heltastoissa."
     },
       de: {
-          "description": "Ein kleiner, intensiv violett gefärbter ektomykorrhizabildender Blätterpilz in Laub- und Nadelwäldern auf feuchten, humosen Böden.",
-          "cap": "Der Hut ist 1–6 cm breit, leuchtend tiefviolett, hygrophan: bei Trockenheit zu blass lila oder weißlich ausblassend, gewölbt mit genabelter Mitte.",
-          "hymenium": "Die Lamellen sind dick, entfernt stehend, leuchtend violett und mit weißem Sporenstaub bepudert.",
-          "stipe": "Der Stiel ist 4–10 cm lang und 0,3–0,8 cm dick, zäh, elastisch, längsfaserig violett gestreift mit weißlich-violettem Basismyzel.",
-          "flesh": "Das Fleisch ist dünn, violett, wässrig. Geruch unbedeutend, Geschmack mild.",
-          "habitat": "Fruchtkörper erscheinen von Juli bis November massenhaft in Laub- und Nadelwäldern auf feuchtem Humus.",
-          "sporePrint": "Weiß. Die Sporen sind kugelig, stachelig, 7–10 μm groß.",
-          "uses": "Essbar und wohlschmeckend, besonders als bunter Mischpilz. Er reichert jedoch Schwermetalle und Arsen stärker an als andere Pilze.",
-          "confusion": "Der Gemeine Rettich-Helmling (Mycena pura) riecht stark nach Rettich und ist giftig. Violete Schleierlinge (Cortinarius) haben rostbraune Sporen.",
-          "notes": "Eine Beurteilung aus dem Jahr 2019 stuft die Art als nicht gefährdet (Least Concern) ein."
+          "description": "Ein kleiner ektomykorrhizabildender Blätterpilz auf feuchten Waldböden. Sehr häufig und weit verbreitet in ganz Europa, Asien und Nordamerika.",
+          "cap": "Der Hut ist 1–6 cm breit, anfangs gewölbt, später flach ausgebreitet und in der Mitte oft genabelt. Im feuchten Zustand ist er tief violett bis amethystblau gefärbt; bei Trockenheit blasst er stark zu blassgrau oder lederfarben aus (stark hygrophan).",
+          "hymenium": "Die Lamellen sind lebhaft violett, stehen sehr entfernt, sind dicklich und am Stiel breit angewachsen oder laufen kurz herab.",
+          "stipe": "Der Stiel ist 4–10 cm lang und 0,3–0,8 cm dick, zylindrisch, oft verbogen, zäh-faserig, von gleicher violetter Farbe wie der Hut und weißlich überfasert.",
+          "flesh": "Das Fleisch ist dünn, wässrig-violett, im trockenen Zustand blass. Geruch und Geschmack sind unauffällig mild.",
+          "habitat": "Fruchtkörper erscheinen von Juli bis November massenhaft in Laub- und Nadelwäldern auf feuchten, sauren Laub- und Nadelstreuböden bei Buchen und Fichten.",
+          "sporePrint": "Weiß. Die Sporen sind kugelig, stark dornig-stachelig besetzt, etwa 7–10 μm groß.",
+          "uses": "Essbar. Nur die Hüte sind verwendbar, da die Stiele zäh sind. Wegen seiner intensiven Farbe wird er gern als farbliche Beigabe in Mischpilzgerichten verwendet.",
+          "confusion": "Der giftige Gemeine Rettich-Helmling (Mycena pura) ist ebenfalls violett, riecht jedoch intensiv nach Rettich und hat feine, dicht stehende Lamellen. Der Violette Rötelritterling (Lepista nuda) ist viel größer, dickfleischiger und riecht süßlich-parfümiert.",
+          "notes": "Fruchtkörper können Arsen in hohen Mengen anreichern und sollten daher nicht von belasteten Standorten gesammelt werden."
     },
       cs: {
             "description": "Malá ektomykorhizní houba rostoucí v opadu a mechu v mírných lesích, často ve skupinách. Je rozšířená v Evropě a roste v převážné části Asie, ve Střední a Jižní Americe a ve východní Severní Americe. Zprávy ji uvádějí také z Afriky, Austrálie a Nového Zélandu.",
@@ -56666,16 +56654,16 @@ export const CATALOG = [
           "notes": "Itiöemän nopea ja täydellinen mustuminen on lajin selkein tuntomerkki."
     },
       de: {
-          "description": "Ein farbenfroher Saftling magerer Wiesen und Weiden. Charakteristisch ist das völlige Schwärzen aller Fruchtkörperteile im Alter oder bei Berührung.",
-          "cap": "Der Hut ist 2–6 cm breit, spitz kegelig bis glockig, feurig rot, orange oder gelb, radialfaserig, bei Feuchtigkeit schmierig, bald schwärzend.",
-          "hymenium": "Die Lamellen sind gelborange bis rötlich, frei bis fast frei und schwärzen bei Berührung.",
-          "stipe": "Der Stiel ist 4–9 cm lang und 0,5–1 cm dick, gelb mit orangen Fasern, längsstreifig, hohl, im Alter vollständig tiefschwarz anlaufend.",
-          "flesh": "Das Fleisch ist dünn, gelborange und schwärzt bei Verletzung rasch. Geruch unauffällig.",
-          "habitat": "Fruchtkörper erscheinen von Juni bis November auf Magerwiesen, Halbtrockenrasen und Waldlichtungen.",
-          "sporePrint": "Weiß. Die Sporen sind glatt, ellipsoid, 8–11 × 5–7 μm groß.",
-          "uses": "Giftverdächtig bis schwach giftig. Verursacht Magen-Darm-Beschwerden und steht unter Naturschutz.",
-          "confusion": "Der Schwärzende Saftling (Hygrocybe nigrescens) besitzt größere Sporen und wird oft als eigene Art geführt. Der Spitzgebuckelte Saftling (Hygrocybe acutoconica) schwärzt nicht. Der Granatrote Saftling (Hygrocybe punicea) ist größer, nicht spitzkegelig und schwärzt ebenfalls nicht. Der Kirschrote Saftling (Hygrocybe coccinea) und der Mennigrote Saftling (Hygrocybe miniata) sind kleiner und verfärben sich nicht schwarz.",
-          "notes": "Eine Beurteilung aus dem Jahr 2019 stuft die Art als nicht gefährdet (Least Concern) ein."
+          "description": "Ein farbenprächtiger Saftling der Magerwiesen und Weiden. Weit verbreitet in ganz Europa, Nordasien und Nordamerika.",
+          "cap": "Der Hut ist 2–6 cm breit, spitzkegelig, behält den spitzen Scheitel auch im Alter. Die Farbe reicht von scharlachrot über orangegelb bis gelb. Charakteristisch ist das Schwärzen: Bei Verletzung oder im Alter färbt sich der gesamte Pilz tintenschwarz.",
+          "hymenium": "Die Lamellen sind frei bis schmal angewachsen, gelblich bis orangegelb, dicklich und schwärzen bei Berührung.",
+          "stipe": "Der Stiel ist 4–9 cm lang und 0,5–1 cm dick, zylindrisch, faserig gestreift, gelb bis orange, von der Basis aufwärts schwärzend.",
+          "flesh": "Das Fleisch ist dünn, gelblich, im Anschnitt rasch schwarz verfärbend. Geruch und Geschmack unauffällig.",
+          "habitat": "Fruchtkörper erscheinen von Juli bis November auf ungedüngten Magerwiesen, Schafweiden, Trockenrasen und an Waldrändern.",
+          "sporePrint": "Weiß. Die Sporen sind glatt, ellipsoid, etwa 8,5–12 × 5–7 μm groß.",
+          "uses": "Giftverdächtig bis ungenießbar. Er kann Magen-Darm-Beschwerden hervorrufen und schwärzt unansehnlich.",
+          "confusion": "Andere rote Saftlinge wie der Mennigrote Saftling (Hygrocybe miniata) schwärzen bei Berührung oder Verletzung nicht.",
+          "notes": "Ein Indikator für wertvolle, ungedüngte Magerwiesen und Halbtrockenrasen."
     },
       cs: {
             "description": "Houba trávníků na loukách, travnatých plochách, okrajích silnic a dunách, nalézaná i ve světlých lesích a podél cest. Roste osamoceně nebo ve skupinách. Vyskytuje se od Středomoří po Island a napříč Severní Amerikou a je zaznamenána ze severní Asie, severní Afriky, Jižní Ameriky, Austrálie, Nové Guineje a Nového Zélandu.",
@@ -57470,16 +57458,16 @@ export const CATALOG = [
           "notes": "Nahikas voi kuivua helteellä täysin koppuraksi maastossa ja elpyä uudelleen sateen tultua."
     },
       de: {
-          "description": "Ein beliebter saprotropher Speisepilz auf Wiesen, Weiden und Parkrasen. Bildet oft riesige Hexenringe und lebt nach dem Eintrocknen bei Befeuchtung wieder auf.",
-          "cap": "Der Hut ist 2–5 cm breit, fleischfarben-bräunlich bis ocker-creme, hygrophan, mit stumpfem Buckel und schwach gerieftem Rand.",
-          "hymenium": "Die Lamellen sind cremeweiß bis hell ockerlich, auffallend dick und entfernt stehend, fast frei.",
-          "stipe": "Der Stiel ist 4–7 cm lang und 0,3–0,5 cm dick, zäh, elastisch (lässt sich um den Finger wickeln, ohne zu brechen), blass ockerlich.",
-          "flesh": "Das Fleisch ist zäh, weißlich. Geruch intensiv würzig nach Blausäure oder Bittermandeln, Geschmack angenehm süßlich.",
-          "habitat": "Fruchtkörper erscheinen von Mai bis November in Hexenringen auf Wiesen, Weiden und Sportplätzen.",
-          "sporePrint": "Weiß. Die Sporen sind ellipsoid bis tropfenförmig, glatt, 7–9 × 4–6 μm groß.",
-          "uses": "Ein hervorragender Würz- und Speisepilz, besonders geeignet für Suppen und Saucen. Nur die zarten Hüte verwenden; trocknet vorzüglich.",
-          "confusion": "Gefährliche Verwechslungsmöglichkeit mit giftigen weißen Trichterlingen (Clitocybe), die jedoch dicht stehende, herablaufende Lamellen und brüchige Stiele haben.",
-          "notes": "Die extreme Zähigkeit des Stiels und die entfernt stehenden Lamellen sind kennzeichnend."
+          "description": "Ein kleiner saprotropher Blätterpilz der Wiesen und Weiden, der riesige Hexenringe bildet. Häufig und weit verbreitet in Europa und Nordamerika.",
+          "cap": "Der Hut ist 2–5 cm breit, gewölbt mit stumpfem Buckel. Die Farbe ist lederocker, fleischbräunlich bis blass gelbbraun, stark hygrophan. Er trocknet bei Dürre ein und lebt bei Feuchtigkeit wieder auf.",
+          "hymenium": "Die Lamellen stehen auffallend entfernt, sind dicklich, cremeweiß bis lederblass und frei oder schmal angewachsen.",
+          "stipe": "Der Stiel ist 4–8 cm lang und 0,3–0,6 cm dick, zylindrisch, extrem zäh und elastisch (lässt sich um den Finger wickeln, ohne zu brechen).",
+          "flesh": "Das Fleisch ist blass, dünn und zäh. Es riecht angenehm würzig nach Bittermandeln oder Blausäure.",
+          "habitat": "Fruchtkörper erscheinen von Mai bis November auf Wiesen, Weiden, Rasenflächen und Dünen in oft riesigen Hexenringen.",
+          "sporePrint": "Weiß. Die Sporen sind glatt, tropfenförmig bis ellipsoid, etwa 7–9 × 4–5 μm groß.",
+          "uses": "Ein hervorragender Würz- und Speisepilz von feinem Aroma. Nur die Hüte verwenden, da die Stiele zäh sind. Eignet sich ausgezeichnet zum Trocknen.",
+          "confusion": "Der giftige Gift-Häubling (Galerina marginata) wächst an Holz und hat braune Lamellen. Trichterlinge (Clitocybe-Arten) auf Wiesen haben dicht stehende, herablaufende Lamellen.",
+          "notes": "Getrocknete Fruchtkörper leben bei Feuchtigkeitszufuhr wieder auf, nehmen ihre ursprüngliche Gestalt an und können neue Zellen und Sporen bilden. Sie enthalten den Zucker Trehalose, der die Zellen vor dem Austrocknen schützt. Entlang des lebenden Randes der Hexenringe wächst das Gras infolge freigesetzter Nährstoffe auffallend dunkelgrün, während es im Inneren des Ringes absterben kann."
     },
       cs: {
             "description": "Častá saprotrofní houba trávníků, luk, pastvin, parků a jiných travnatých ploch, často v tlupách, obloucích nebo kruzích po dešti. Roste v mírném pásu severní polokoule, včetně Británie, Irska, pevninské Evropy a většiny Severní Ameriky, a zůstává častá na trávnících, kde lidé chodí.",
@@ -58253,15 +58241,15 @@ export const CATALOG = [
           "notes": "Punaloisikan rihmasto täyttää perhoskotelon sisuksen tiiviiksi valkoiseksi sklerootioksi ennen itiöemän kasvattamista."
     },
       de: {
-          "description": "Ein parasitärer Schlauchpilz, der unterirdisch an Schmetterlingspuppen parasitiert. Bekannt für seinen hohen Gehalt an bioaktiven Wirkstoffen wie Cordycepin.",
-          "cap": "Der keulenförmige Fruchtkörper (Stroma) wird 2–5 cm hoch und 0,3–0,8 cm dick, leuchtend orange bis zinnoberrot, mit feinkörnig punktierter Oberfläche (Ostiolen).",
-          "hymenium": "Die Schläuche (Asci) liegen in eingesenkten Perithezien im oberen keuligen Teil.",
-          "stipe": "Der untere sterile Teil ist blasser orange und wurzelt direkt in der vergrabenen Insektenpuppe.",
-          "flesh": "Das Fleisch ist blass orange, zäh-elastisch.",
-          "habitat": "Fruchtkörper erscheinen von August bis November in Wäldern und auf Moorböden, entspringend aus im Boden vergrabenen Schmetterlingspuppen.",
-          "sporePrint": "Weißlich. Die fadenförmigen Sporen zerfallen in kleine Teilsporen (3,5–6 × 1–1,5 μm).",
-          "uses": "Als Speisepilz ohne Bedeutung, wird jedoch in Asien und der Alternativmedizin als hochgeschätzter Vital- und Heilpilz kultiviert.",
-          "confusion": "Die Kopfige Kernkeule (Tolypocladium capitatum) und die Zungen-Kernkeule (Tolypocladium ophioglossoides) wachsen auf unterirdischen Hirschtrüffeln (Elaphomyces) statt auf Insektenpuppen. Der Chinesische Raupenpilz (Ophiocordyceps sinensis) ist dunkler braun und parasitiert auf Raupen von Wurzelbohrern im tibetischen Hochland. Cordyceps bifusispora besitzt zweisporige Schläuche.",
+          "description": "Ein insektenparasitischer Schlauchpilz (Ascomycota), der auf vergrabenen Schmetterlingspuppen parasitiert. Weit verbreitet in den gemäßigten Zonen der Nordhalbkugel.",
+          "cap": "Der Fruchtkörper bildet eine aufrechte, keulenförmige, 2–6 cm hohe und 0,3–1 cm dicke Keule. Die Oberfläche ist leuchtend orangerot bis ziegelrot und dicht mit kleinen, warzenartigen Perithecien-Mündungen punktiert.",
+          "hymenium": "Die Fruchtschicht sitzt in Perithecien auf dem oberen Keulenbereich eingesenkt. Schläuche enthalten fadenförmige Askosporen, die in winzige Teilsporen zerfallen.",
+          "stipe": "Der untere Stielbereich ist schlanker, blasser orangerot und entspringt direkt aus der im Boden vergrabenen Schmetterlingspuppe.",
+          "flesh": "Das Fleisch ist zäh, elastisch, weißlich bis orange. Geruch und Geschmack unauffällig.",
+          "habitat": "Fruchtkörper erscheinen von August bis November in Wäldern, Parkanlagen und Mooren an vergrabenen Puppen von Nachtfaltern.",
+          "sporePrint": "Weißlich. Die fadenförmigen Sporen zerfallen in zylindrische Teilsporen von etwa 3,5–6 × 1–1,5 μm.",
+          "uses": "In der asiatischen Medizin hoch geschätzt und kultiviert. Er enthält Cordycepin und bioaktive Polysaccharide mit immunstimulierenden Wirkungen.",
+          "confusion": "Die Moos-Kernkeule (Cordyceps forquignonii) parasitiert auf Fliegen. Die Kernkeule Tolypocladium ophioglossoides parasitiert auf unterirdischen Hirschtrüffeln.",
           "notes": "Pilz des Jahres 2007 in Deutschland."
     },
       cs: {
@@ -59031,15 +59019,15 @@ export const CATALOG = [
           "notes": "Suomessa ja useissa muissa Euroopan maissa laji on luokiteltu erittäin uhanalaiseksi vanhojen jalojen lehtimetsien vähenemisen vuoksi."
     },
       de: {
-          "description": "Ein seltener, geschützter Holzpilz alter Buchenwälder. Seine Gestalt erinnert an einen weißen Igel oder eine Löwenmähne.",
-          "cap": "Der Fruchtkörper ist knollenförmig, 10–25 cm breit, rein weiß bis cremefarben, dicht bedeckt mit herabhängenden, 2–5 cm langen, weichen Stacheln.",
-          "hymenium": "Die Fruchtschicht überzieht die Außenseite der dicht herabhängenden Stacheln.",
-          "stipe": "Stiellos oder mit kurzem seitlichem Strunk fest am Holz verankert.",
-          "flesh": "Das Fleisch ist weiß, faserig, elastisch. Geruch angenehm fruchtig, Geschmack süßlich-aromatisch mit feiner Kokos- oder Hummernote.",
-          "habitat": "Fruchtkörper erscheinen von August bis November an Wundstellen alter lebender Laubbäume, vor allem Rotbuchen und Eichen.",
-          "sporePrint": "Weiß. Die Sporen sind fast kugelig, fein warzig, amyloid, 5–6,5 × 4,5–5,5 μm groß.",
-          "uses": "Ein hervorragender, delikater Speisepilz und bedeutender Heilpilz, der weltweit kultiviert wird. Wildfunde sind streng geschützt und dürfen nicht gesammelt werden.",
-          "confusion": "Der Ästige Stachelbart (Hericium coralloides) ist korallenartig verzweigt mit kürzeren Stacheln.",
+          "description": "Ein spektakulärer holzzersetzender Stachelbart an alten Laubbäumen. Weit verbreitet in den gemäßigten Breiten Europas, Asiens und Nordamerikas, in Mitteleuropa jedoch selten.",
+          "cap": "Der Fruchtkörper ist rundlich bis herzförmig, 10–30 cm breit, rein weiß bis cremefarben, im Alter vergilbend. Er besteht aus einem kompakten Fleischkern, von dem unzählige lange, weiche Stacheln herabhängen.",
+          "hymenium": "Die Unterseite und die Seiten sind von 2–5 cm langen, dicht herabhängenden, weichen, fadenförmigen Stacheln bedeckt.",
+          "stipe": "Ein Stiel fehlt; der Pilz ist breit am Holz angewachsen.",
+          "flesh": "Das Fleisch ist dick, zart, elastisch, weiß. Geruch angenehm fruchtig-pilzig, Geschmack mild mit feiner Zitrus- oder Hummernote.",
+          "habitat": "Fruchtkörper erscheinen von September bis November als Wundparasit an alten Laubbäumen (vor allem Buchen und Eichen) in naturnahen Wäldern.",
+          "sporePrint": "Weiß. Die Sporen sind rundlich, glatt bis feinst punktiert, etwa 5,5–7 × 4,5–5,5 μm groß und amyloid.",
+          "uses": "Ein hervorragender, delikater Speisepilz von feinem Hummer-Geschmack. In der Traditionellen Chinesischen Medizin und Mykotherapie als Heilpilz (Houtou) hoch geschätzt zur Unterstützung des Nervensystems (Erinacine, Hericenone).",
+          "confusion": "Der Ästige Stachelbart (Hericium coralloides) hat ein korallenartig verzweigtes Skelett mit kürzeren Stacheln. Der Tannen-Stachelbart (Hericium flagellum) wächst an Tannenholz.",
           "notes": "Pilz des Jahres 2026 in Deutschland."
     },
       cs: {
@@ -59891,16 +59879,16 @@ export const CATALOG = [
           "notes": "Kiinassa ja Japanissa sientä on pidetty vuosituhansia pitkän iän ja kuolemattomuuden symbolina."
     },
       de: {
-          "description": "Ein einjähriger Holzporling an Laubbäumen mit auffallend lackartig glänzender Hut- und Stielkruste. Als Reishi der berühmteste Heilpilz der traditionellen asiatischen Medizin.",
-          "cap": "Der Hut ist 5–20 cm breit, fächer- oder nierenförmig, konzentrisch gefurcht, leuchtend rotbraun, kastanienbraun bis schwarzrot mit auffallend glänzender Lackschicht und weißlichem Zuwachsrand.",
-          "hymenium": "Die Poren an der Unterseite sind winzig (4–6 pro Millimeter), weißlich, später bräunlich verfärbend.",
-          "stipe": "Der Stiel ist meist seitlich angesetzt, 5–20 cm lang, knorrig verbogen und mit demselben dunklen Glanzlack wie der Hut überzogen.",
-          "flesh": "Das Fleisch ist zäh, holzig-korkig, rotbraun. Geschmack intensiv bitter.",
-          "habitat": "Fruchtkörper erscheinen von Mai bis Oktober an Wurzeln und Stämmen von Laubbäumen, besonders Eichen.",
-          "sporePrint": "Rostbraun. Die Sporen sind ellipsoid mit abgestutztem Ende, doppelwandig, fein warzig, 7–12 × 6–8 μm groß.",
-          "uses": "Als Speisepilz ungenießbar da holzhart und bitter. Als Heilpilz (Reishi / Lingzhi) zur Zubereitung von Tees und Extrakten weltweit hoch geschätzt.",
-          "confusion": "Der Harzige Lackporling (Ganoderma resinaceum) ist meist ungestielt und hat eine matte Kruste, deren Schmelzpunkt abweicht.",
-          "notes": "Die glänzende Lackschicht schmilzt in einer Flamme."
+          "description": "Ein holzzersetzender Porling an Laubbäumen mit wie lackiert glänzender Oberfläche. Weit verbreitet in den wärmeren Zonen Europas, Asiens und Nordamerikas.",
+          "cap": "Der Hut ist fächer- bis nierenförmig, 5–20 cm breit, flach. Die Oberseite ist von einer harten, glänzenden Harzkruste überzogen, konzentrisch gefurcht, leuchtend rotbraun, kastanienbraun bis blauschwarz mit weißem oder gelbem Zuwachsrand.",
+          "hymenium": "Die Unterseite trägt weiße bis cremefarbene Röhren mit winzigen Poren (4–6 pro Millimeter), die auf Druck bräunen.",
+          "stipe": "Der Stiel ist meist seitlich angesetzt, 5–15 cm lang und 1–3 cm dick, knorrig verbogen, dunkel rotbraun bis schwärzlich glänzend wie lackiert.",
+          "flesh": "Das Fleisch ist korkig-holzig, fest, zimtbraun. Geruch schwach pilzig, Geschmack intensiv bitter.",
+          "habitat": "Fruchtkörper erscheinen von Mai bis November an Wurzeln und Stümpfen von Laubbäumen (besonders Eichen).",
+          "sporePrint": "Braun. Die Sporen sind doppelwandig, eiförmig, mit warziger Innenschicht, etwa 9–12 × 6–8 μm groß.",
+          "uses": "Ungenießbar, da holzartig hart. Der berühmteste Heilpilz der traditionellen ostasiatischen Medizin (Reishi / Ling Zhi) mit adaptogenen, immunmodulierenden und leberschützenden Eigenschaften.",
+          "confusion": "Der Harzige Lackporling (Ganoderma resinaceum) ist meist stiellos und wächst dick konsolenförmig. Der Dunkle Lackporling (Ganoderma carnosum) wächst an Nadelholz.",
+          "notes": "Sequenzierte Aufsammlungen aus Großbritannien, Tschechien und Teilen Chinas gehören zu dieser Art. Der in Ostasien kultivierte Pilz, der lange unter diesem Namen geführt wurde, ist Ganoderma sichuanense. Nordamerikanische Funde wurden als Ganoderma sessile, Ganoderma curtisii und Ganoderma polychromum abgetrennt. In historischen europäischen Berichten wurde der Fruchtkörper bisweilen als Amulett oder Talisman getragen."
     },
       cs: {
             "description": "Jednoletý choroš na listnatém dřevě, parazitující na živých kmenech a saprotrofní na pařezech a kořenech. Vyskytuje se v mírné a středomořské Evropě, na sever po jižní Skandinávii, a v částech Číny. V Británii a Irsku je nepříliš častá. Většina nálezů mimo Evropu patří jiným druhům.",
@@ -60699,15 +60687,15 @@ export const CATALOG = [
           "notes": "Laji on luokiteltu monissa Euroopan maissa vaarantuneeksi vanhojen kuusikoiden hakkuiden vuoksi."
     },
       de: {
-          "description": "Ein seltener, ektomykorrhizabildender Pilz montaner Nadelwälder auf Kalkböden. Seine violetten Leisten und kreiselförmige Gestalt sind unverwechselbar.",
-          "cap": "Der Fruchtkörper ist keulen- bis kreiselförmig, 4–15 cm breit und 6–15 cm hoch, oben abgeflacht bis trichterförmig vertieft, lila bis violettgrau, später ockerbräunlich aufhellend.",
-          "hymenium": "Die Außenseite ist mit dicken, aderigen, gegabelten und querverbundenen Leisten bedeckt, die weit herablaufen und lebhaft violett gefärbt sind.",
-          "stipe": "Der Stiel geht nahtlos in den Hut über, ist kurz, dick, voll, blass lila bis weißlich.",
-          "flesh": "Das Fleisch ist dick, weißlich bis zart lila, weich. Geruch angenehm pilzig, Geschmack mild.",
-          "habitat": "Fruchtkörper erscheinen von Juli bis Oktober in Bergwäldern unter Fichten und Tannen auf Kalk.",
-          "sporePrint": "Ockergelb bis olivbraun. Die Sporen sind ellipsoid, warzig, 9–16 × 4–7,5 μm groß.",
-          "uses": "Ein hervorragender Speisepilz von feinem Aroma. Da die Art in ganz Mitteleuropa stark gefährdet und streng geschützt ist, darf sie nicht gesammelt werden.",
-          "confusion": "Die Abgestutzte Riesenkeule (Clavariadelphus truncatus) ist schlanker, gelb gefärbt, oben abgeflacht und auf der Außenseite nur runzelig statt mit dicken Leisten besetzt. Gomphus crassipes wächst in alten Kiefern- und Zedernwäldern des Mittelmeerraums, ist deutlicher in Hut und Stiel gegliedert, hat ein blasseres grauviolettes Hymenophor und im Anschnitt deutlich violettes Fleisch. Der Schuppige Schweinsohr-Röhrling (Turbinellus floccosus) besitzt eine ähnliche Trichterform, dessen Hut ist jedoch dicht schuppig.",
+          "description": "Ein seltener ektomykorrhizabildender Pilz der Bergmischwälder. Weit verbreitet in den montanen Gebirgen Europas, Asiens und Nordamerikas, jedoch überall stark rückläufig.",
+          "cap": "Der Fruchtkörper ist keulen- bis kreiselförmig, oft löffel- oder trichterförmig vertieft, 4–10 cm breit und bis zu 12 cm hoch. Der Rand ist wellig gelappt. Die Oberseite ist fleischbräunlich bis violett getönt, im Alter ockergelb verblassend.",
+          "hymenium": "Die Außenseite trägt dicke, gabelig verästelte, aderig-runzelige Falten und Leisten von leuchtend violetter bis purpurgrauer Farbe.",
+          "stipe": "Der Stiel ist kurz, dick, geht nahtlos in den Trichter über, voll, fleischig, violett überhaucht.",
+          "flesh": "Das Fleisch ist dick, weißlich, weich. Geruch angenehm würzig-fruchtig, Geschmack mild.",
+          "habitat": "Fruchtkörper erscheinen von August bis Oktober gesellig oder büschelig in montanen Nadel- und Buchenwäldern bei Fichten und Tannen auf Kalkböden.",
+          "sporePrint": "Ockergelb. Die Sporen sind länglich-ellipsoid, fein warzig, etwa 10–14 × 4,5–6 μm groß.",
+          "uses": "Ein hervorragender Speisepilz von hoher Qualität. Wegen seiner Seltenheit und starken Gefährdung sollte er jedoch geschont werden.",
+          "confusion": "Die Abgestutzte Riesenkeule (Clavariadelphus truncatus) ist gelb, oben abgeflacht und außen nur runzelig ohne Leisten. Der Schuppige Schweinsohr-Röhrling (Turbinellus floccosus) besitzt einen dicht schuppigen Hut.",
           "notes": "Pilz des Jahres 1998 in Deutschland."
     },
       cs: {
@@ -61514,15 +61502,15 @@ export const CATALOG = [
           "notes": "Perinteisten luonnonlaidunten vähenemisen vuoksi laji toimii hyvänä arvokkaiden perinnebiotooppien indikaattorina."
     },
       de: {
-          "description": "Ein kleiner, extrem schleimiger Saftling magerer Graslandbiotope. Bekannt für sein fantastisches Farbenspiel aus Grün, Gelb und Orange.",
-          "cap": "Der Hut ist 1–5 cm breit, glockig bis gewölbt mit stumpfem Buckel, von einer dicken grünen Schleimschicht bedeckt, die später zu Orange, Gelb oder Rosa aufreißt.",
-          "hymenium": "Die Lamellen sind dick, gelborange mit oft grünlicher Schneide, am Stiel breit angewachsen.",
-          "stipe": "Der Stiel ist 3–7 cm lang und 0,3–0,8 cm dick, hohl, sehr schleimig, im oberen Teil papageigrün, zur Basis hin gelborange.",
-          "flesh": "Das Fleisch ist dünn, wässrig gelbgrün. Geruchlos, Geschmack mild.",
-          "habitat": "Fruchtkörper erscheinen von August bis November auf ungedüngten Magerwiesen und Schafweiden.",
-          "sporePrint": "Weiß. Die Sporen sind ellipsoid, glatt, 7,5–10 × 4,5–6 μm groß.",
-          "uses": "Ungenießbar bis minderwertig, zudem geschützt als Zeigerart naturnaher Magerwiesen.",
-          "confusion": "Der Zähe Saftling (Gliophorus laetus) ist orange gefärbt, hat einen schleimigen Stiel und herablaufende Lamellen ohne Grüntöne. Der Stumpfe Saftling (Hygrocybe chlorophana) ist leuchtend zitronengelb und besitzt keine Grünpigmente. Gliophorus reginae ist purpurbraun statt grün. Die Varietät Gliophorus psittacinus var. perplexa ist bräunlich orange ohne jegliche Grüntöne.",
+          "description": "Ein kleiner, farbenfroher Saftling der ungedüngten Wiesen und Weiden. Weit verbreitet in ganz Europa und Nordamerika.",
+          "cap": "Der Hut ist 1–4 cm breit, anfangs glockig, dann gewölbt. Charakteristisch ist die dicke, schleimige Huthaut und das Farbspiel: Jung tief papageigrün, verfärbt er sich im Alter über Gelborange und Rosa zu ockerlich.",
+          "hymenium": "Die Lamellen sind dick, am Stiel angewachsen, grünlich gelb bis orangegelb.",
+          "stipe": "Der Stiel ist 3–6 cm lang und 0,3–0,6 cm dick, zylindrisch, extrem schleimig, an der Spitze grün, zur Basis hin gelborange.",
+          "flesh": "Das Fleisch ist dünn, wässrig, grünlich bis gelblich. Geruch und Geschmack unauffällig.",
+          "habitat": "Fruchtkörper erscheinen von August bis November auf mageren, ungedüngten Weiden, Rasenflächen und an Waldrändern.",
+          "sporePrint": "Weiß. Die Sporen sind glatt, ellipsoid, etwa 7,5–9 × 4,5–5,5 μm groß.",
+          "uses": "Ungenießbar bis wertlos wegen der geringen Größe und der extrem schleimigen Konsistenz.",
+          "confusion": "Gliophorus perplexus fehlt der Grünton an der Stielspitze und ist orange bis ziegelrot gefärbt. Gliophorus sciophanus ist der vorwiegend rote europäische Doppelgänger. Gliophorus reginae ist rosa bis fleischfarben, größer, robuster und nur schwach schleimig. Der Zähe Saftling (Gliophorus laetus) ist orange oder gelb, jung niemals grün und hat deutlich herablaufende Lamellen. Der Gelbe Saftling (Hygrocybe chlorophana) ist durchgehend gelb und besitzt im Alter einen hohlen Stiel. Ältere gelb verblassende Fruchtkörper können mit anderen gelben Saftlingen verwechselt werden, behalten jedoch stets etwas Grün an der Stielspitze. In Australien werden ähnliche grüne Arten als Gliophorus graminicolor und Gliophorus viridis abgetrennt.",
           "notes": "Pilz des Jahres 2003 in Deutschland."
     },
       cs: {
@@ -62320,16 +62308,16 @@ export const CATALOG = [
           "notes": "Lajinimi aereus tarkoittaa kuparista tai pronssista ja viittaa lakin tummaan pronssimaiseen värisävyyn."
     },
       de: {
-          "description": "Ein wärmeliebender, seltener Dickröhrling lichter Eichen- und Buchenwälder. Gilt unter Feinschmeckern als einer der schmackhaftesten Pilze überhaupt.",
-          "cap": "Der Hut ist 6–20 cm breit, dunkelbraun, bronzebraun bis fast schwarz, fein samtig-filzig, polsterförmig gewölbt mit sehr festem Fleisch.",
-          "hymenium": "Die Röhren sind jung rein weiß, später gelbgrünlich. Poren fein, weiß, im Alter grünlich, verfärben sich auf Druck nicht.",
-          "stipe": "Der Stiel ist 5–15 cm lang und 3–8 cm dick, bauchig-knollig, ockerbraun bis lederbraun, mit einem feinen, weißlichen bis bräunlichen Maschennetz überzogen.",
-          "flesh": "Das Fleisch ist rein weiß, bemerkenswert fest und schwer, im Anschnitt völlig unveränderlich. Geruch angenehm nussig-aromatisch, Geschmack hervorragend mild.",
-          "habitat": "Fruchtkörper erscheinen von Juli bis Oktober in wärmebegünstigten Eichen- und Buchenwäldern auf Kalk- und Silikatböden.",
-          "sporePrint": "Olivbraun. Die Sporen sind spindelig, glatt, 12–16 × 4–5 μm groß.",
-          "uses": "Ein Speisepilz von allerhöchster Güte, von Kennern noch über den Gemeinen Steinpilz gestellt.",
-          "confusion": "Der Gemeine Steinpilz (Boletus edulis) hat einen helleren, glatten Hut mit oft weißem Rand. Der Kiefern-Steinpilz (Boletus pinophilus) hat rotbraune Farbtöne.",
-          "notes": "Pilz des Jahres 2008 in Deutschland."
+          "description": "Ein wärmeliebender ektomykorrhizabildender Dickröhrling der Eichenwälder. Heimisch in Süd- und Mitteleuropa, nach Norden hin selten.",
+          "cap": "Der Hut ist 7–20 cm breit, halbkugelig bis polsterförmig gewölbt, sehr dunkel gefärbt: dunkelbraun, bronzebraun bis fast schwarzbraun, oft mit kupferfarbenen Flecken. Die Huthaut ist samtig-matt und trocken.",
+          "hymenium": "Die Röhren sind um den Stiel ausgebuchtet, lang, weißlich, später gelbgrünlich. Die Poren sind klein, rund, lange weißlich bleibend, auf Druck unveränderlich.",
+          "stipe": "Der Stiel ist 6–14 cm lang und 3–7 cm dick, wuchtig knollig oder bauchig, hellbraun bis lederocker, von einem feinen, bräunlichen Netz überzogen.",
+          "flesh": "Das Fleisch ist rein weiß, sehr fest und hart, verfärbt sich im Anschnitt nicht. Geschmack angenehm mild und nussig, Geruch intensiv pilzig.",
+          "habitat": "Fruchtkörper erscheinen von Juli bis Oktober in wärmebegünstigten Laubwäldern unter Eichen, Edelkastanien und Buchen auf kalkhaltigen oder neutralen Böden.",
+          "sporePrint": "Olivbraun. Die Sporen sind spindelig, glatt, etwa 12–16 × 4–5 μm groß.",
+          "uses": "Ein herausragender Speisepilz von allerbester Güte mit besonders festem Fleisch und vorzüglichem Aroma.",
+          "confusion": "Boletus edulis hat einen helleren braunen Hut mit weißem Rand und feuchter Huthaut. Der Sommer-Steinpilz (Boletus reticulatus) hat eine hellere, oft felderig aufreißende Huthaut.",
+          "notes": "In Tschechien gilt die Art als gefährdet (Vulnerable). Pilz des Jahres 2008 in Deutschland."
     },
       cs: {
             "description": "Ektomykorhizní houba teplých listnatých lesů. Je rozšířená ve střední a jižní Evropě a severní Africe a v jižních oblastech mnohem častější. V Británii a Irsku je vzácná a vyskytuje se hlavně na jihu, a na dalekém severu Evropy chybí. Na severu svého areálu se vyskytuje jen místy.",
@@ -63091,15 +63079,15 @@ export const CATALOG = [
           "notes": "Tunnetaan sienikirjallisuudessa myös nimillä Lepista saeva ja Lepista personata."
     },
       de: {
-          "description": "Ein wohlschmeckender Spätherbstpilz auf Wiesen, Weiden und Waldlichtungen. Typisch ist der Kontrast zwischen blassem Hut und leuchtend violettem Stiel.",
-          "cap": "Der Hut ist 5–15 cm breit, blass lederfarben, graubraun bis cremefarben, dickfleischig gewölbt mit eingerolltem Rand, ohne Violetttöne.",
-          "hymenium": "Die Lamellen sind cremefarben bis hell graubeige, dicht stehend, am Stiel ausgebuchtet angewachsen.",
-          "stipe": "Der Stiel ist 4–9 cm lang und 1,5–3 cm dick, stämmig keulig, dicht mit leuchtend violetten bis lilafarbenen Fasern überzogen.",
-          "flesh": "Das Fleisch ist dick, weißlich-creme, im Stiel zart lila. Geruch angenehm pilzig, Geschmack mild.",
-          "habitat": "Fruchtkörper erscheinen von Oktober bis Dezember (oft noch nach ersten Frösten) auf Wiesen, Weiden, Parkrasen und an Waldrändern.",
-          "sporePrint": "Blassrosa bis cremefarben. Die Sporen sind ellipsoid, fein punktiert, 6–8 × 4–5 μm groß.",
-          "uses": "Ein hervorragender Speisepilz für die späte Herbstsaison, muss jedoch gut erhitzt werden.",
-          "confusion": "Der Violetter Rötelritterling (Lepista nuda) hat auch einen violetten Hut und violette Lamellen und wächst im Wald.",
+          "description": "Ein spät im Jahr fruchtender saprotropher Blätterpilz auf Wiesen, Weiden und an Waldrändern. Weit verbreitet in ganz Europa.",
+          "cap": "Der Hut ist 6–15 cm breit, polsterförmig gewölbt bis flach ausgebreitet. Die Farbe ist cremefarben, lederocker bis blass graubräunlich, glatt und dickfleischig.",
+          "hymenium": "Die Lamellen sind weißlich bis blass cremefarben (niemals violett!), stehen dicht und sind am Stiel ausgebuchtet angewachsen.",
+          "stipe": "Der Stiel ist 4–9 cm lang und 1,5–3 cm dick, kräftig zylindrisch mit verdickter Basis. Auffallend ist die Farbe: leuchtend blauviolett überfasert, im scharfen Kontrast zum blassen Hut.",
+          "flesh": "Das Fleisch ist weißlich bis blassgrau, dick und fest. Geruch angenehm aromatisch-würzig, Geschmack mild.",
+          "habitat": "Fruchtkörper erscheinen von September bis Dezember (frostresistent) auf Weiden, Magerwiesen, Parkrasen und an Waldrändern, oft in Hexenringen.",
+          "sporePrint": "Blassrosa bis cremefleischfarben. Die Sporen sind fein warzig, ellipsoid, etwa 6–8 × 4–5 μm groß.",
+          "uses": "Ein hervorragender Speisepilz für den Spätherbst, der vor dem Verzehr gut durchgegart werden muss.",
+          "confusion": "Der Violetter Rötelritterling (Lepista nuda) hat auch einen violetten Hut und violette Lamellen. Violette Schleierlinge (Cortinarius-Arten) haben rostbraune Sporen.",
           "notes": "Pilz des Jahres 2016 in Deutschland."
     },
       cs: {
@@ -63877,16 +63865,15 @@ export const CATALOG = [
           "notes": "Lajinimi lacrymans viittaa kyynelehtimiseen: elävä itiöemä erittää usein kirkkaita vesipisaroita pinnalleen. Rihmasto voi kuljettaa vettä kymmenien metrien päähän kuiviinkin rakenteisiin."
     },
       de: {
-          "description": "Der gefährlichste Holzzerstörer in Gebäuden. Er kann über kräftige Myzelstränge Wasser über weite Strecken transportieren und verbautes Nadel- und Laubholz zerstören.",
-          "cap": "Der Fruchtkörper ist flach ausgebreitet (resupinat) bis krustenförmig mit wulstigem weißem Zuwachsrand, oft tellergroß, ockerbraun bis rostbraun mit feuchten Guttationströpfchen.",
-          "hymenium": "Die Fruchtschicht ist unregelmäßig runzelig-faltig bis grubig-poroid, rostbraun durch die reifenden Sporen.",
-          "stipe": "Ein Stiel fehlt; wächst krustig dem Bauholz oder Mauerwerk an.",
-          "flesh": "Das Fleisch ist schwammig-lederig, zäh, rostbraun. Geruch dumpf modrig.",
-          "habitat": "Wächst im Verborgenen in feuchten Gebäuden an Balken, Dielen, Fußleisten und kann selbst trockenes Mauerwerk durchwachsen.",
-          "sporePrint": "Rostbraun. Die Sporen sind ellipsoid, glatt, dickwandig, gelbbraun, 9–12 × 5–6 μm groß.",
-          "uses": "Völlig ungenießbar. Als gefährlichster Bauschädling gefürchtet, der Bauholz durch intensive Braunfäule (Würfelbruch) rasch zerstört.",
-          "confusion": "Der Wilde Hausschwamm (Serpula himantioides) hat dünnere Fruchtkörper und wächst überwiegend im Wald.",
-          "notes": "Pilz des Jahres 2004 in Deutschland."
+          "description": "Ein holzzersetzender Porenschwamm, der gefürchtetste Bauschädling an Bauholz in Gebäuden. Er erzeugt eine aggressive Braunfäule (Würfelbruch). Weltweit in Gebäuden der gemäßigten Breiten verbreitet; im Freiland extrem selten.",
+          "cap": "Der Fruchtkörper breitet sich flach krustenförmig (resupinat) über Holz und Mauerwerk aus, wird 10–100 cm groß und 0,5–2 cm dick. Der Zuwachsrand ist wattig-weiß bis zart lila. Auf der Oberfläche scheidet er oft klare Wassertropfen ab (Guttationstropfen).",
+          "hymenium": "Die sporenbildende Fruchtschicht ist grubig-faltig bis porig-labyrintisch, rostbraun bis lehmbraun gefärbt.",
+          "stipe": "Ein Stiel fehlt; der Fruchtkörper überzieht das Substrat flächig. Er bildet bis zu bleistiftdicke Myzelstränge (Rhizomorphen), die metertief trockenes Mauerwerk durchwachsen können.",
+          "flesh": "Das Fleisch ist schwammig-lederig, trocken brüchig. Geruch muffig-pilzig nach feuchtem Keller.",
+          "habitat": "Wächst fast ausschließlich in geschlossenen Räumen, feuchten Kellern und Dachstühlen an Nadelholzkonstruktionen.",
+          "sporePrint": "Rostbraun bis gelbbraun. Die Sporen sind glatt, dickwandig, ellipsoid, etwa 9–12 × 5–6 μm groß.",
+          "confusion": "Der Wilde Hausschwamm (Serpula himantioides) hat dünnere Fruchtkörper und wächst überwiegend im Wald an Nadelholzstümpfen. Der Kellerschwamm (Coniophora puteana) bildet dünnere, olivbraune Beläge.",
+          "notes": "Die Rhizomorphen können Wasser über weite Strecken transportieren und dadurch auch trockenes Holz befallen. Pilz des Jahres 2004 in Deutschland."
     },
       cs: {
             "description": "Silná jednoletá kůrovitá houba způsobující hnědou hnilobu opracovaného dřeva v domech a jiných budovách, saprotrofní na odumřelém dřevě a jen vzácně nalézaná na dřevě venku. Je rozšířená v mírné Evropě, včetně Británie a Irska, a v chladnějších částech Asie, Severní Ameriky, Austrálie, Nového Zélandu a Oceánie.",
@@ -64664,16 +64651,16 @@ export const CATALOG = [
           "notes": "Tunnetaan myös synonyyminimellä Choiromyces venosus."
     },
       de: {
-          "description": "Eine unterirdisch bis halboberirdisch wachsende Trüffel in Laub- und Nadelwäldern. Berühmt für ihren intensiven Duft und kulinarische Verwendung.",
-          "cap": "Der Fruchtkörper ist knollen- bis kartoffelförmig, 5–15 cm groß und bis über 500 g schwer, gelblich-weiß bis lederbraun, rissig-runzelig.",
-          "hymenium": "Das Fruchtgewebe (Gleba) ist im Inneren fest, weißlich mit gewundenen gelbbraunen Adern (Mäandermuster). In Schläuchen (Asci) entstehen stachelige Sporen.",
-          "stipe": "Stiellos; wächst unterirdisch oder bricht bei Reife buckelig durch die Bodenoberfläche.",
-          "flesh": "Das Fleisch ist fest, weißlich marmoriert. Geruch intensiv aromatisch (würzig bis knoblauchartig), Geschmack aromatisch.",
-          "habitat": "Fruchtkörper reifen von Juli bis Oktober in Buchen- und Fichtenwäldern auf lehmigen Böden.",
-          "sporePrint": "Hell ockerbraun. Die Sporen sind kugelig, dicht mit bis zu 5 μm langen Stacheln besetzt, 16–22 μm groß.",
-          "uses": "Ein hochgeschätzter Speise- und Würzpilz, der wie echte Trüffeln dünn über Gerichte gehobelt wird. Muss durchgegart werden.",
-          "confusion": "Die Weiße Alba-Trüffel (Tuber magnatum) hat glatte bis netzige Sporen und eine abweichende Innenstruktur.",
-          "notes": "Pilz des Jahres 2001 in Deutschland."
+          "description": "Ein unterirdisch (hypogäisch) fruchtender Schlauchpilz (Ascomycota) aus der Familie der Trüffelverwandten. Weit verbreitet in den Hügel- und Bergregionen Süd- und Mitteleuropas.",
+          "cap": "Der Fruchtkörper ist knollenförmig, unregelmäßig gelappt und gefurcht wie eine Kartoffel, 5–15 cm groß und bis zu 500 g schwer. Die Außenhaut (Peridie) ist glatt, anfangs weißlich-gelblich, später lederbraun mit rötlichen Flecken.",
+          "hymenium": "Die Fruchtschicht füllt das Innere (die Gleba) aus: Sie ist fest, weißlich bis blassbraun und von zahlreichen gewundenen, weißen sterilen Adern mäanderartig durchzogen.",
+          "stipe": "Ein Stiel fehlt.",
+          "flesh": "Das Fleisch ist fest, im Schnitt weiß-braun marmoriert. Der Geruch ist intensiv aromatisch, im Alter knoblauchartig oder unangenehm käsig; Geschmack angenehm nussig.",
+          "habitat": "Fruchtkörper wachsen unterirdisch oder knapp die Erdoberfläche aufwölbend von Juli bis November in Laub- und Nadelwäldern bei Fichten, Buchen und Eichen auf lehmigen, kalkhaltigen Böden.",
+          "sporePrint": "Die Sporen reifen im Inneren der Schläuche heran; sie sind rundlich, dicht mit bis zu 4 μm langen Stacheln besetzt, etwa 16–22 μm groß.",
+          "uses": "Ein geschätzter Speisepilz von starkem Aroma. Er muss vor dem Verzehr gekocht werden, da er roh abführend wirkt und Magen-Darm-Beschwerden verursacht.",
+          "confusion": "Wird bisweilen als Piemont-Trüffel (Tuber magnatum) angeboten, die jedoch eine gelbliche, knoblauchartig duftende Gleba mit netzsporigen Askosporen besitzt. Hirschtrüffeln (Elaphomyces) haben eine dicke Rinde und staubendes schwarzes Sporenpulver.",
+          "notes": "In Deutschland wird die Art in den Roten Listen geführt. Pilz des Jahres 2001 in Deutschland."
     },
       cs: {
             "description": "Lanýžovitá houba plodící v půdě listnatých a jehličnatých lesů, která často vystrčí svou korunu nad povrch. Je rozšířená v Evropě, od Británie, Španělska a Itálie přes střední Evropu po Karpaty, a v Británii je původní.",
@@ -65447,15 +65434,15 @@ export const CATALOG = [
           "notes": "Laji on vanhojen aarniometsien ja lehtojen vaarantunut indikaattorilaji useimmissa Euroopan maissa."
     },
       de: {
-          "description": "Ein wunderschöner, korallenartig verzweigter Holzpilz an Totholz alter Buchen. Eine Zeigerart urwaldnaher Laubwälder.",
-          "cap": "Der Fruchtkörper wird 10–30 cm breit, rein weiß bis cremefarben, korallenartig reich verzweigt. An den Unterseiten der Äste hängen 0,5–1,5 cm lange, feine Stacheln.",
-          "hymenium": "Die Fruchtschicht bedeckt die herabhängenden feinen Stacheln.",
-          "stipe": "Mit einem dicken Strunk fest im Holz verankert.",
-          "flesh": "Das Fleisch ist weiß, faserig, zart elastisch. Geruch angenehm pilzig, Geschmack mild.",
-          "habitat": "Fruchtkörper erscheinen von August bis November an morschen Stämmen und starken Ästen von Rotbuchen.",
-          "sporePrint": "Weiß. Die Sporen sind fast kugelig, glatt bis feinst punktiert, amyloid, 3,5–5 × 3–4 μm groß.",
-          "uses": "Jung essbar und wohlschmeckend, aber streng geschützt und wegen seiner Seltenheit unbedingt zu schonen.",
-          "confusion": "Der Igel-Stachelbart (Hericium erinaceus) ist knollenförmig unverzweigt mit langen Zotten. Der Tannen-Stachelbart (Hericium flagellum) wächst an Weißtanne.",
+          "description": "Ein wunderschöner holzzersetzender Pilz an totem Laubholz, der an Meereskorallen erinnert. Weit verbreitet in den Urwäldern der gemäßigten Zonen Europas, Asiens und Nordamerikas, überall jedoch selten.",
+          "cap": "Der Fruchtkörper bildet einen reich verzweigten, korallenartigen Busch von 10–30 cm Durchmesser. Er ist rein weiß bis cremefarben, im Alter vergilbend.",
+          "hymenium": "An der Unterseite der zierlichen Verzweigungen hängen dichte Reihen kleiner, 0,5–1,5 cm langer, spitzer, weicher Stacheln herab.",
+          "stipe": "Ein kurzer, dicker Strunk ist fest im Holz verankert und teilt sich fächerartig in die zahlreichen Äste auf.",
+          "flesh": "Das Fleisch ist weiß, zart und elastisch, im Alter zäh. Geruch angenehm würzig, Geschmack mild.",
+          "habitat": "Fruchtkörper erscheinen von August bis November an morschen, dicken Stämmen alter Rotbuchen, seltener an Eichen oder Eschen in naturnahen Buchenwäldern.",
+          "sporePrint": "Weiß. Die Sporen sind rundlich, glatt bis feinst punktiert, etwa 5,5–7 × 4,5–5,5 μm groß und amyloid.",
+          "uses": "Jung ein hervorragender Speisepilz von feinem Aroma. Aufgrund seiner Seltenheit und Gefährdung sollte er jedoch unbedingt geschont werden.",
+          "confusion": "Der Igel-Stachelbart (Hericium erinaceus) bildet einen kompakten, unverzweigten Knollenkörper mit viel längeren herabhängenden Stacheln. Die Becherkoralle (Artomyces pyxidatus) wächst aufrechter und hat becherartige Astspitzen.",
           "notes": "Pilz des Jahres 2006 in Deutschland."
     },
       cs: {
@@ -66297,16 +66284,15 @@ export const CATALOG = [
           "notes": "Laji on nimetty böömiläisen puutarhurin Christian Birnbaumin mukaan, joka löysi sienen kasvihuoneesta Prahasta vuonna 1788."
     },
       de: {
-          "description": "Ein tropischer saprotropher Schirmling, der in Mitteleuropa sehr häufig in Blumentöpfen, Gewächshäusern und Pflanzkübeln auf Blumenerde fruchtet.",
-          "cap": "Der Hut ist 2–6 cm breit, leuchtend zitronengelb bis schwefelgelb, kegelig bis glockig, dünnfleischig, radial gefaltet-gerieft und mehlig beflockt.",
-          "hymenium": "Die Lamellen sind hellgelb, frei, dicht stehend.",
-          "stipe": "Der Stiel ist 4–8 cm lang und 0,3–0,6 cm dick, zylindrisch mit verdickter Basis, zitronengelb, mit einem zarten, flüchtigen gelben Ring.",
-          "flesh": "Das Fleisch ist sehr dünn, blassgelb. Geruch schwach pilzig, Geschmack unauffällig.",
-          "habitat": "Ganzjährig in geheizten Gewächshäusern und Innenräumen in Pflanztöpfen auf humusreicher Blumenerde.",
-          "sporePrint": "Weiß. Die Sporen sind ellipsoid, glatt, dickwandig mit Keimpore, dextrinoid, 8–11 × 5–7 μm groß.",
-          "uses": "Giftig! Der Verzehr ruft Magen-Darm-Beschwerden hervor. Für die Zimmerpflanzen ist er vollkommen harmlos.",
-          "confusion": "Der Strohgelbe Faltenschirmling (Leucocoprinus straminellus) ist blasser, bisweilen weißlich, kleiner und zarter, mit kleineren Sporen (5–7 × 4–6 μm) ohne Keimpore. Leucocoprinus flavescens besitzt einen blassgelben bis weißen Hut mit bräunlicher Mitte und kleinere Sporen. Leucocoprinus tricolor hat eine braune Hutmitte, hellere Gelbtöne und eine chromgelbe Stielbasis. Der Zerbrechliche Faltenschirmling (Leucocoprinus fragilissimus) hat einen extrem dünnen Hut und blasse Lamellen. Leucocoprinus brunneoluteus hat einen ausgeprägten braunen Buckel und dünnes, zerbrechliches Fleisch. Der Kreideweiße Faltenschirmling (Leucocoprinus cretaceus) ist von ähnlicher Gestalt, aber kreideweiß gefärbt. Leucoagaricus sulphurellus hat Lamellen, die bei Verletzung leuchtend blaugrün anlaufen. Der Gold-Mistpilz (Bolbitius titubans) wächst auf Grasland, seine gelben Lamellen bräunen im Alter zimtbraun und sein Stiel hat keinen Ring.",
-          "notes": "Die gelbe Farbe rührt von den Indolalkaloiden Birnbaumin A und B her."
+          "description": "Ein kleiner tropischer saprotropher Blätterpilz, der weltweit in Gewächshäusern und Blumentöpfen von Zimmerpflanzen eingeschleppt ist.",
+          "cap": "Der Hut ist 2–6 cm breit, glockig bis gewölbt, leuchtend zitronengelb bis schwefelgelb. Die Huthaut ist mehlig-flockig bepudert und vom Rand her tief radial gefaltet-gerieft.",
+          "hymenium": "Die Lamellen sind leuchtend schwefelgelb, frei und stehen dicht.",
+          "stipe": "Der Stiel ist 4–8 cm lang und 0,3–0,6 cm dick, zylindrisch mit keulig verdickter Basis, zitronengelb, mit einem zarten, gelben, vergänglichen Ring.",
+          "flesh": "Das Fleisch ist dünn, gelblich. Geruch und Geschmack unauffällig.",
+          "habitat": "Fruchtkörper erscheinen ganzjährig in geheizten Innenräumen in Pflanztöpfen, Blumenkästen und Treibhäusern auf humusreicher Blumenerde.",
+          "sporePrint": "Weiß. Die Sporen sind ellipsoid, glatt, dickwandig, etwa 8–12 × 5–7 μm groß, mit Keimporus und dextrinoid.",
+          "confusion": "Der Zarte Faltenschirmling (Leucocoprinus fragilissimus) ist viel blasser und dünner. Bolbitius titubans wächst im Freiland auf Gras und hat braune Sporen.",
+          "notes": "Die gelbe Farbe stammt von den Indolalkaloiden Birnbaumin A und B. Der Pilz schadet den Zimmerpflanzen nicht. Er bildet kleine gelbe Sklerotien in der Erde."
     },
       cs: {
             "description": "Saprotrofní houba, častá v tropech a subtropech a přítomná v teplejších mírných pásech Evropy, Severní Ameriky a Austrálie. V Británii, Irsku a České republice je známa ze skleníků a květináčů spíše než z volné přírody. Plodí také venku, kde je teplé počasí.",
@@ -67038,16 +67024,15 @@ export const CATALOG = [
           "notes": "Sadepisaran osuessa maljaan linssimäiset itiökotelot sinkoutuvat ulos useiden kymmenien senttimetrien päähän, ja niiden takana oleva ohut rihma takertuu lähellä oleviin kasvinosiin."
     },
       de: {
-          "description": "Ein winziger saprotropher Nestling an Holzabfällen und Zweigen. Seine Becher erinnern verblüffend an ein Miniaturvogelnest mit Eiern.",
-          "cap": "Der becherförmige Fruchtkörper (Peridie) ist 3–10 mm breit und 2–10 mm hoch, anfangs mit gelbem Filzdeckel (Epiphragma) verschlossen, der später aufreißt und die glatte weiße Innenseite freigibt.",
-          "hymenium": "Lamellen und Röhren fehlen. Die Sporen entstehen im Inneren von 4–10 linsenförmigen, weißlichen Peridiolen ('Eiern'), die über Funiculi an der Becherwand befestigt sind.",
-          "stipe": "Stiellos; sitzt mit verschmälertem Ansatz dem Holz auf.",
-          "flesh": "Das Fleisch ist dünn, zäh, lederig. Geruchlos.",
-          "habitat": "Fruchtkörper erscheinen von Juni bis November gesellig an verrottenden Zweigen, Holzspänen, Rindenmulch und Pflanzenresten.",
-          "sporePrint": "Farblos (hyalin). Die Sporen sind ellipsoid, glatt, dickwandig, 6–11,5 × 3–6 μm groß.",
-          "uses": "Ungenießbar aufgrund der winzigen Größe und zähen Konsistenz.",
-          "confusion": "Arten der Gattung Cyathus (z. B. der Gestreifte Teuerling, Cyathus striatus) haben innen längsgerillte Becher und dunkle Peridiolen.",
-          "notes": "Die Peridiolen werden durch auftreffende Wassertropfen wie aus einer Schleuder herauskatapultiert. Pilz des Jahres 2014 in Deutschland."
+          "description": "Ein winziger saprotropher Nestling (Bauchpilz) auf verholzten Pflanzenresten und Rindenmulch. Zirkumpolar in den gemäßigten Breiten Europas, Asiens und Nordamerikas verbreitet.",
+          "cap": "Der becher- bis tiegelförmige Fruchtkörper (das Peridium) ist 3–10 mm breit und 2–10 mm hoch. Jung ist der Becher von einem gelborangen, samtigen Deckelchen (Epiphragma) verschlossen, das später aufreißt.",
+          "hymenium": "Im Inneren des glatten, weißlich-grauen Bechers liegen 4 bis 10 linsenförmige, cremeweiße Sporenpakete (Peridiolen, 'Eier') von 1–2 mm Durchmesser, die jeweils an einem elastischen Faden (Funiculus) an der Becherwand verankert sind.",
+          "stipe": "Ein Stiel fehlt; die Becher sitzen breitbasig am Substrat.",
+          "flesh": "Das Fleisch ist dünn, lederig-zäh. Geruch und Geschmack unbedeutend.",
+          "habitat": "Fruchtkörper erscheinen von Juni bis November gesellig oder rasig auf morschen Ästchen, Holzhäckseln, Rindenmulch, altem Stroh und Schilf.",
+          "sporePrint": "Die Sporen befinden sich im Inneren der Peridiolen; sie sind farblos-hyalin, glatt, dickwandig, ellipsoid, etwa 6–11,5 × 3–6 μm groß.",
+          "confusion": "Die Gestreiften Teuerlinge (Cyathus-Arten) haben eine dreischichtige Becherwand, dunkle Peridiolen und einen weißlichen Verschlussdeckel. Der Topf-Teuerling (Nidularia deformis) hat keine Funiculus-Fäden an den Peridiolen.",
+          "notes": "Regentropfen schleudern die Peridiolen wie aus einer Schanze heraus (Spritzbechermechanismus), wobei sich der Faden an Grashalmen verwickelt. Pilz des Jahres 2014 in Deutschland."
     },
       cs: {
             "description": "Drobná saprotrofní houba na větvičkách, štěpce a jiných dřevitých zbytcích. Má cirkumpolární mírný areál: je zaznamenána ve většině Evropy, včetně Slovenska a Kanárských ostrovů, od Aljašky po Mexiko v Severní Americe, v Chile a na Ohňové zemi a také na Islandu, v Japonsku, Austrálii a na Novém Zélandu.",
@@ -73934,6 +73919,939 @@ export const CATALOG = [
       "Thelephora atrocoerulea Trog",
       "Thelephora fimbriata Roth",
       "Thelephora indigo Schwein."
+    ]
+  },
+  {
+    id: 92,
+    name: "Cortinarius praestans",
+    author: "(Cordier) Gillet",
+    family: "Cortinariaceae",
+    genus: "Cortinarius",
+    order: "Agaricales",
+    edibility: "edible_with_caution",
+    hymenium: "gills",
+    where: ["ground"],
+    color: ["brown", "purple"],
+    path: [
+      "Fungi",
+      "Dikarya",
+      "Basidiomycota",
+      "Agaricomycotina",
+      "Agaricomycetes",
+      "Agaricomycetidae",
+      "Agaricales",
+      "Cortinariaceae",
+      "Cortinarius"
+    ],
+    summary: ["Agaricales", "Cortinariaceae", "Cortinarius"],
+    added: "2026-11-01",
+    plate: STORAGE + "photos/Agaricales/Cortinariaceae/Cortinarius_praestans/Cortinarius_praestans@1600.webp",
+    plateGrid: STORAGE + "photos/Agaricales/Cortinariaceae/Cortinarius_praestans/Cortinarius_praestans@400.webp",
+    plateCredit: {
+      author: "A.D. Cordier",
+      license: "public domain",
+      source: "https://commons.wikimedia.org/wiki/File:Agaricus_praestans_-_Cordier_-_Champ_France_-_plate_21.jpg"
+    },
+    photos: [
+      {
+        src: STORAGE + "photos/Agaricales/Cortinariaceae/Cortinarius_praestans/tc1.webp",
+        author: "Marko Vainu",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Cortinarius_praestans1.JPG"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Cortinariaceae/Cortinarius_praestans/tc2.webp",
+        author: "Ирина Хохрякова",
+        license: "CC BY 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Cortinarius_praestans_321058993.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Cortinariaceae/Cortinarius_praestans/tc3.webp",
+        author: "Wilhelm Zimmerling PAR",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Ruhland,_Geschwister-Scholl-Weg_beim_Sportplatznebengeb%C3%A4ude,_Schleiereule_(Pilz),_Unterseite,_Sp%C3%A4tsommer,_01.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Cortinariaceae/Cortinarius_praestans/tc4.webp",
+        author: "Traumrune",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Cortinarius_praestans_coupe.JPG"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Cortinariaceae/Cortinarius_praestans/tc5.webp",
+        author: "Traumrune",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Cortinarius_praestans.JPG"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Cortinariaceae/Cortinarius_praestans/tc6.webp",
+        author: "Balint Dima/Norsk institutt for naturforskning",
+        license: "CC BY 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Cortinarius_praestans2.jpg"
+      }
+    ],
+    fruitingFrom: 8,
+    fruitingTo: 11,
+    label: {
+      en: "goliath webcap",
+      sk: "pavučinovec mohutný",
+      bg: "превъзходен паяжинник",
+      cs: "pavučinec náramkovcový",
+      et: "hiidvöödik",
+      fi: "jättiseitikki",
+      fr: "cortinaire remarquable",
+      de: "Schleiereule",
+      hu: "óriás pókhálósgomba",
+      ja: "ムレオオフウセンタケ",
+      lt: "valgomasis nuosėdis",
+      no: "kjempeslørsopp",
+      ru: "паутинник превосходный",
+      sr: "дебелоношка",
+      sl: "nagubana koprenka",
+      es: "cortinario grande",
+      sv: "jättespindling"
+    },
+    names: {
+      fr: ["cortinaire majestueux", "cortinaire élégant"],
+      de: ["Blaugestiefelter Schleimkopf"],
+      sr: ["дебелоножна копренка"]
+    },
+    text: {
+      en: {
+        description: "A massive, fleshy mushroom with a chestnut to chocolate-brown cap, often flecked with whitish veil remnants, on a thick, club-shaped, whitish stem with a bulbous base. The gills start whitish with a violet tint and ripen to rusty brown. It grows in groups in warm broadleaved woods on lime-rich soil and is rare.",
+        cap: "The cap is typically 10–20 cm across and may reach about 25–30 cm. It is almost spherical when young, then convex and finally flat or slightly depressed, with a margin that stays rolled under for a long time and becomes radially wrinkled or grooved. Young caps are violet-tinged and covered by a whitish to violet-white silky veil that tears as the cap expands. They then turn chestnut to chocolate-brown or wine-brown with a violet-copper tint, fading to rusty brown with age. The surface is finely fibrous and shiny, slightly slimy in wet weather, and carries whitish to violet-tinged veil remnants that lie flat like patches or small scales, or form white flecks, especially near the margin.",
+        hymenium: "The gills are attached to the stem with a notch, crowded, 3–8 mm wide, with wavy to finely scalloped edges. They are whitish to pale grey with an amethyst tint when young and hidden at first behind a thick white to violet-tinged cortina, then turn cream, clay-coloured and finally rusty brown as the spores ripen. The basidia measure about 30–35 × 12–13 μm. The gill edge carries sterile hairs 4–6 μm wide that project 20–40 μm, together with degenerate sterile basidia 10–11 μm wide.",
+        stipe: "The stem is 8–15 cm long (up to 20–25 cm in some accounts) and 2–5 cm thick, solid, and club-shaped to bulbous, with a basal bulb up to about 7–8 cm across and a rolled rim at its top. When young it is whitish with a violet tint at the top and a bluish cast showing through, and its surface is silky-fibrous. It is later wrapped in the cortina, which is violet to whitish, breaks up into transverse girdle-like bands and turns ochre with age.",
+        flesh: "The flesh is thick, firm and solid, even in old fruit bodies. It is whitish to cream, with a pale bluish-violet tone near the top of the stem and where the cap joins it, and slightly ochre in the bulb. The smell is faint to absent and the taste is mild.",
+        sporePrint: "Rusty ochre to rusty brown. The spores are almond- to lemon-shaped, coarsely warty and very large for the genus, about 13–18 × 7–10 μm.",
+        habitat: "An ectomycorrhizal fungus that grows on the ground, in groups, rows or rings that can include up to a hundred fruit bodies, in warm, herb-rich broadleaved woods on calcareous (alkaline) soil. Beech is the usual partner, and oak, hazel, lime, hornbeam and, in the south, sweet chestnut also host it; it is rare under conifers. Fruit bodies appear from August (occasionally July) to November. It occurs across Europe and into Asia but is rare almost everywhere: it is absent from northern Germany, patchy in central and northern Europe, and locally common in Switzerland. In Norway it is concentrated in lime and hazel woods around the Oslofjord and in the inner fjords of the west.",
+        uses: "Edible and widely rated very good, often as the best of its genus. It is sold at markets in France and Switzerland, and in Japan it fetches high prices. Authors nevertheless advise against gathering it, because webcaps are hard to identify with certainty and include highly poisonous relatives, the fruit bodies accumulate heavy metals, and the species is rare.",
+        confusion: "It is one of the few large webcaps that can often be recognised without a microscope, thanks to its size, its chestnut-violet cap and its club-shaped, whitish stem. Cortinarius cumatilis has a bluish-grey cap, a cobweb-like rather than almost membranous cortina and a margin that is always smooth, and it grows under conifers and has smaller spores. Cortinarius balteatus also grows under spruce and has smaller spores, and the related Cortinarius blattoi, another conifer species, has spores no more than 12 μm long. Cortinarius varius, Cortinarius purpurascens and Cortinarius alboviolaceus also have violet tints but are much smaller and less massive. Many other webcaps are highly poisonous.",
+        notes: "Rare almost throughout its range. It has not been assessed by the IUCN. The German red list of 2016 rates it Near Threatened, the Norwegian red list of 2021 Near Threatened, and the Czech red list of 2024 Vulnerable. Bulgaria's Red Data Book lists it as critically endangered. It is threatened mainly by the loss of near-natural woodland and by soil disturbance from heavy forestry machinery. In laboratory tests, extracts of the fruit bodies inhibited the bacteria Pseudomonas aeruginosa and Staphylococcus aureus."
+      },
+      sk: {
+        description: "Mohutná, mäsitá huba s gaštanovohnedým až čokoládovohnedým klobúkom, často posiatym belavými zvyškami plachtičky, na hrubom, kyjakovitom, belavom hlúbiku s hľuzovitou bázou. Lupene sú spočiatku belavé s fialovým nádychom a dozrievajú do hrdzavohneda. Rastie v skupinách v teplých listnatých lesoch na vápnitej pôde a je vzácna.",
+        cap: "Klobúk je zvyčajne široký 10–20 cm a môže dosiahnuť okolo 25–30 cm. V mladosti je takmer guľovitý, potom klenutý a nakoniec plochý alebo mierne preliačený, s okrajom, ktorý zostáva dlho podvinutý a stáva sa lúčovito vráskavým alebo ryhovaným. Mladé klobúky majú fialový nádych a kryje ich belavá až fialovobelavá hodvábna plachtička, ktorá sa pri rozšírení klobúka trhá. Potom sa sfarbia gaštanovohnedo až čokoládovohnedo alebo vínovohnedo s fialovomedeným odtieňom a s vekom blednú do hrdzavohneda. Povrch je jemne vláknitý a lesklý, za vlhkého počasia mierne slizký a nesie belavé až fialkasté zvyšky plachtičky, ktoré priliehajú ako záplaty alebo drobné šupinky, alebo tvoria biele škvrny, najmä pri okraji.",
+        hymenium: "Lupene sú k hlúbiku prirastené s výrezom, husté, široké 3–8 mm, svlnitými až jemne zúbkovanými ostrinami. V mladosti sú belavé až bledosivé s ametystovým nádychom a spočiatku ich skrýva hustá biela až fialkastá pavučinka. Potom sa sfarbujú do krémova, hlinova a nakoniec hrdzavohneda, ako výtrusy dozrievajú. Bazídiá merajú asi 30–35 × 12–13 μm. Ostrina lupeňov nesie sterilné chlpy široké 4–6 μm, ktoré vyčnievajú 20–40 μm, spolu s degenerovanými sterilnými bazídiami širokými 10–11 μm.",
+        stipe: "Hlúbik je dlhý 8–15 cm (podľa niektorých opisov až 20–25 cm) a hrubý 2–5 cm, plný, kyjakovitý až bruškatý, s hľuzou pri báze širokou až okolo 7–8 cm a podvinutým okrajom na jej vrchu. V mladosti je belavý s fialovým nádychom v hornej časti a presvitá cez neho modrastý odtieň, povrch je hodvábne vláknitý. Neskôr ho obaľuje pavučinka, ktorá je fialová až belavá, rozpadá sa na priečne pásikovité prstence a s vekom žltne do okrova.",
+        flesh: "Dužina je hrubá, pevná a plná, aj u starých plodníc. Je belavá až krémová, s bledým modrofialovým odtieňom v hornej časti hlúbika a tam, kde sa k nemu pripája klobúk, a v hľuze mierne okrová. Vôňa je slabá až nenápadná a chuť mierna.",
+        sporePrint: "Okrovohrdzavý až hrdzavohnedý. Výtrusy sú mandľovité až citrónovité, hrubo bradavičnaté a na rod veľmi veľké, asi 13–18 × 7–10 μm.",
+        habitat: "Ektomykorízna huba, ktorá rastie na zemi, v skupinách, radoch alebo kruhoch až so stovkou plodníc, v teplých listnatých lesoch bohatých na byliny na vápnitej (zásaditej) pôde. Obvyklým partnerom je buk, hostiteľom môže byť aj dub, lieska, lipa, hrab a na juhu gaštan jedlý; pod ihličnanmi je vzácna. Plodnice sa objavujú od augusta (zriedka už v júli) do novembra. Vyskytuje sa v Európe a zasahuje do Ázie, ale takmer všade je vzácna: v severnom Nemecku chýba, v strednej a severnej Európe sa vyskytuje roztrúsene a vo Švajčiarsku je miestami bežná. V Nórsku je sústredená v lipových a lieskových lesoch okolo Oslofjordu a vo vnútorných fjordoch na západe.",
+        uses: "Jedlá a všeobecne hodnotená ako veľmi dobrá, často ako najlepšia z rodu. Predáva sa na trhoch vo Francúzsku a vo Švajčiarsku a v Japonsku za ňu platia vysoké ceny. Autori však odporúčajú nezbierať ju, pretože pavučinovce sa ťažko určujú s istotou a patria medzi ne aj veľmi jedovaté príbuzné druhy, plodnice hromadia ťažké kovy a druh je vzácny.",
+        confusion: "Je jedným z mála veľkých pavučinovcov, ktoré možno často rozpoznať aj bez mikroskopu, vďaka veľkosti, gaštanovofialovému klobúku a kyjakovitému belavému hlúbiku. Cortinarius cumatilis má modrosivý klobúk, pavučinovitú, nie takmer blanitú pavučinku a vždy hladký okraj, rastie pod ihličnanmi a má menšie výtrusy. Cortinarius balteatus rastie tiež pod smrekmi a má menšie výtrusy a príbuzný Cortinarius blattoi, ďalší druh ihličnatých lesov, má výtrusy dlhé najviac 12 μm. Cortinarius varius, Cortinarius purpurascens a Cortinarius alboviolaceus majú tiež fialové odtiene, ale sú oveľa menšie a menej mohutné. Mnohé ďalšie pavučinovce sú veľmi jedovaté.",
+        notes: "Vzácna takmer v celom areáli. IUCN ju nehodnotila. Nemecký červený zoznam z roku 2016 ju radí medzi takmer ohrozené druhy (Near Threatened), nórsky červený zoznam z roku 2021 tiež medzi takmer ohrozené (Near Threatened) a český červený seznam z roku 2024 medzi zraniteľné (Vulnerable). Bulharská Červená kniha ju uvádza ako kriticky ohrozený druh. Ohrozuje ju najmä úbytok prírode blízkych lesov a narúšanie pôdy ťažkou lesnou technikou. V laboratórnych testoch výťažky z plodníc brzdili rast baktérií Pseudomonas aeruginosa a Staphylococcus aureus."
+      },
+      ar: {
+        description: "فطر ضخم لحمي بقبعة بلون الكستناء إلى البني الشوكولاتي، كثيرًا ما تتناثر عليها بقايا بيضاء من الحجاب، على ساق سميكة هراوية الشكل بيضاء مائلة قاعدتها منتفخة كالدرنة. الصفائح بيضاء مائلة بلمسة بنفسجية في البداية، ثم تنضج إلى بني صدئ. ينمو في مجموعات في الغابات الدافئة عريضة الأوراق على تربة كلسية، وهو نادر.",
+        cap: "يبلغ قطر القبعة عادةً ١٠–٢٠ سم، وقد تصل إلى نحو ٢٥–٣٠ سم. تكون شبه كروية في الصغر، ثم محدبة، ثم مسطحة أو منخفضة قليلًا في النهاية، وحافتها تبقى ملتفة إلى الداخل زمنًا طويلًا ثم تصبح مجعدة أو مخدّدة شعاعيًا. القبعات الصغيرة ذات لمسة بنفسجية ومغطاة بحجاب حريري أبيض مائل إلى أبيض بنفسجي ينشق حين تنفتح القبعة. ثم تصبح بلون الكستناء إلى البني الشوكولاتي أو البني الخمري بدرجة نحاسية بنفسجية، وتبهت مع العمر إلى بني صدئ. السطح ليفي دقيق ولامع، لزج قليلًا في الطقس الرطب، وعليه بقايا حجاب بيضاء مائلة إلى بنفسجية تلتصق كبقع أو قشور صغيرة أو تكوّن رقائق بيضاء، خاصة قرب الحافة.",
+        hymenium: "الصفائح متصلة بالساق بمنخفض، كثيفة، عرضها ٣–٨ مم، وحوافها متموجة إلى مسننة بدقة. في الصغر تكون بيضاء مائلة إلى رمادية فاتحة بلمسة جمشتية، ومخفية في البداية خلف كورتينا سميكة بيضاء إلى بنفسجية؛ ثم تصبح بلون الكريمة، ثم بلون الطين، وأخيرًا بنية صدئة مع نضج الأبواغ. تبلغ أبعاد الدعامات نحو ٣٠–٣٥ × ١٢–١٣ ميكرومتر. تحمل حافة الصفائح شعيرات عقيمة عرضها ٤–٦ ميكرومتر تبرز ٢٠–٤٠ ميكرومتر، إضافة إلى دعامات عقيمة متنكسة عرضها ١٠–١١ ميكرومتر.",
+        stipe: "طول الساق ٨–١٥ سم (وفق بعض الأوصاف حتى ٢٠–٢٥ سم) وسماكتها ٢–٥ سم، مصمتة، هراوية الشكل إلى منتفخة، وفي قاعدتها درنة عرضها حتى نحو ٧–٨ سم وفي أعلاها حافة ملتفة. في الصغر تكون بيضاء مائلة، ذات لمسة بنفسجية في الأعلى ودرجة مزرقة تُرى من خلالها، وسطحها حريري ليفي. ثم تلتف حولها الكورتينا، وهي بنفسجية إلى بيضاء مائلة، تنشق إلى أشرطة عرضية تشبه الأحزمة وتصبح بلون المغرة مع العمر.",
+        flesh: "اللحم سميك وصلب ومصمت، حتى في الأجسام الثمرية القديمة. لونه أبيض مائل إلى كريمي، وفيه درجة بنفسجية مزرقة شاحبة في أعلى الساق وحيث تتصل القبعة بها، ويميل قليلًا إلى لون المغرة في الدرنة. الرائحة ضعيفة أو معدومة والطعم معتدل.",
+        sporePrint: "بلون المغرة الصدئة إلى البني الصدئ. الأبواغ بشكل اللوزة إلى الليمونة، خشنة الثآليل، وكبيرة جدًا بالنسبة إلى الجنس، وقياسها نحو ١٣–١٨ × ٧–١٠ ميكرومتر.",
+        habitat: "فطر جذري خارجي يعيش على الأرض في مجموعات أو صفوف أو حلقات قد تضم نحو مئة جسم ثمري، في غابات عريضة الأوراق دافئة وغنية بالأعشاب على تربة كلسية (قلوية). الشريك المعتاد هو الزان، ويمكن أن يستضيفه أيضًا البلوط والبندق والزيزفون والكاربينوس، وفي الجنوب الكستناء؛ وهو نادر تحت الصنوبريات. تظهر الأجسام الثمرية من أغسطس (أحيانًا يوليو) إلى نوفمبر. يوجد في أوروبا ويمتد إلى آسيا، لكنه نادر في كل مكان تقريبًا: فهو غائب عن شمال ألمانيا، ومتفرق في وسط أوروبا وشمالها، وشائع محليًا في سويسرا. وفي النرويج يتركز في غابات الزيزفون والبندق حول فيورد أوسلو وفي الفيوردات الداخلية في الغرب.",
+        uses: "صالح للأكل ويُقدَّر عمومًا بأنه جيد جدًا، وكثيرًا ما يُعدّ أفضل فطر في جنسه. يُباع في الأسواق في فرنسا وسويسرا، ويحقق في اليابان أسعارًا مرتفعة. ومع ذلك ينصح المؤلفون بعدم جمعه، لأن فطور الكورتيناريوس يصعب تمييزها بيقين وتضم أقارب شديدة السمّية، وتراكم الأجسام الثمرية المعادن الثقيلة، والنوع نادر.",
+        confusion: "هو من الكورتيناريوس الكبيرة القليلة التي يمكن في كثير من الأحيان تمييزها دون مجهر، بفضل حجمه وقبعته الكستنائية البنفسجية وساقه الهراوية البيضاء المائلة. تتميز Cortinarius cumatilis بقبعة رمادية مزرقة وكورتينا شبيهة بنسيج العنكبوت لا شبه غشائية وحافة ملساء دائمًا، وتنمو تحت الصنوبريات وأبواغها أصغر. وتنمو Cortinarius balteatus كذلك تحت التنوب (Picea) وأبواغها أصغر، أما Cortinarius blattoi القريبة منها، وهي نوع آخر من غابات الصنوبريات، فأبواغها لا يزيد طولها على ١٢ ميكرومتر. أما Cortinarius varius و Cortinarius purpurascens و Cortinarius alboviolaceus فلها أيضًا درجات بنفسجية، لكنها أصغر بكثير وأقل ضخامة. وكثير من فطور الكورتيناريوس الأخرى شديدة السمّية.",
+        notes: "نادر في معظم نطاق انتشاره تقريبًا. لم يقيّمه الاتحاد الدولي لحفظ الطبيعة (IUCN). تصنّفه القائمة الحمراء الألمانية لعام ٢٠١٦ ضمن الأنواع القريبة من التهديد (Near Threatened)، وكذلك القائمة الحمراء النرويجية لعام ٢٠٢١ (Near Threatened)، وتصنّفه القائمة الحمراء التشيكية لعام ٢٠٢٤ ضمن الأنواع المعرّضة للخطر (Vulnerable). ويدرجه الكتاب الأحمر البلغاري ضمن الأنواع المهددة بشدة بالانقراض (Critically Endangered). ويتهدده أساسًا تراجع الغابات القريبة من الحالة الطبيعية واضطراب التربة بسبب آلات الغابات الثقيلة. وفي الاختبارات المخبرية ثبّطت مستخلصات الأجسام الثمرية البكتيريا Pseudomonas aeruginosa و Staphylococcus aureus."
+      },
+      bg: {
+        description: "Едра, месеста гъба с кестеняво- до шоколадовокафява шапка, често с белезникави остатъци от покривалото, върху дебело, боздуганообразно, белезникаво пънче с луковична основа. Ламелите са отначало белезникави с виолетов оттенък и узряват до ръждивокафяви. Расте на групи в топли широколистни гори върху варовити почви и е рядка.",
+        cap: "Шапката обикновено е 10–20 cm в диаметър и може да достигне около 25–30 cm. В млада възраст е почти сферична, после изпъкнала и накрая плоска или леко хлътнала, с ръб, който дълго остава подвит и става радиално набръчкан или набразден. Младите шапки са с виолетов оттенък и покрити с белезникаво до виолетовобяло копринено покривало, което се къса, когато шапката се разгъва. После стават кестеняво- до шоколадовокафяви или виненокафяви с виолетово-медно оттенък, а с възрастта избледняват до ръждивокафяви. Повърхността е фино влакнеста и лъскава, при влажно време леко лигава, с белезникави до виолетови остатъци от покривалото, които прилепват като петна или дребни люспици или образуват бели петънца, особено към ръба.",
+        hymenium: "Ламелите са прираснали към пънчето с изрязване, гъсти, широки 3–8 mm, с вълнисти до фино назъбени остриета. В млада възраст са белезникави до светлосиви с аметистов оттенък и отначало са скрити зад дебела бяла до виолетова кортина, после стават кремави, глинести и накрая ръждивокафяви, докато спорите узряват. Базидиите са с размери около 30–35 × 12–13 μm. Острието на ламелите носи стерилни власинки с ширина 4–6 μm, стърчащи на 20–40 μm, както и дегенерирали стерилни базидии с ширина 10–11 μm.",
+        stipe: "Пънчето е дълго 8–15 cm (според някои описания до 20–25 cm) и дебело 2–5 cm, плътно, боздуганообразно до кореместо, с луковица в основата, широка до около 7–8 cm, и подвит ръб в горната ѝ част. В млада възраст е белезникаво с виолетов оттенък отгоре и прозиращ синкав тон, а повърхността е копринено влакнеста. По-късно е обвито от кортината, която е виолетова до белезникава, разпада се на напречни коланоподобни ивици и с възрастта става охрена.",
+        flesh: "Месото е дебело, твърдо и плътно, дори при старите плодни тела. То е белезникаво до кремаво, с бледо синкаво-виолетов оттенък в горната част на пънчето и там, където шапката се свързва с него, а в луковицата е леко охрено. Миризмата е слаба или липсва, вкусът е мек.",
+        sporePrint: "Ръждивоохрен до ръждивокафяв. Спорите са бадемовидни до лимоновидни, грубо брадавични и за рода много едри, около 13–18 × 7–10 μm.",
+        habitat: "Ектомикоризна гъба, която расте по земята, на групи, редици или кръгове с до около сто плодни тела, в топли, богати на треви широколистни гори върху варовити (алкални) почви. Обичайният партньор е букът, гостоприемници могат да бъдат и дъб, леска, липа, габър, а на юг питомният кестен; под иглолистни е рядка. Плодните тела се появяват от август (понякога от юли) до ноември. Среща се в Европа и навлиза в Азия, но почти навсякъде е рядка: в Северна Германия липсва, в Централна и Северна Европа е на отделни места, а в Швейцария на места е обичайна. В Норвегия е съсредоточена в липови и леснякови гори около Осло фиорд и във вътрешните фиорди на запад.",
+        uses: "Ядлива и общо оценявана като много добра, често като най-добрата в рода. Продава се на пазари във Франция и Швейцария, а в Япония се плаща скъпо. Авторите въпреки това съветват да не се бере, защото паяжинниците трудно се определят със сигурност и сред тях има силно отровни сродници, плодните тела натрупват тежки метали, а видът е рядък.",
+        confusion: "Тя е един от малкото едри паяжинници, които често могат да се разпознаят без микроскоп, благодарение на размера, кестеняво-виолетовата шапка и боздуганообразното белезникаво пънче. Cortinarius cumatilis има синьосива шапка, паяжиноподобна, а не почти ципеста кортина и винаги гладък ръб, расте под иглолистни и има по-дребни спори. Cortinarius balteatus също расте под смърчове и има по-дребни спори, а сродният Cortinarius blattoi, друг вид на иглолистните гори, има спори с дължина най-много 12 μm. Cortinarius varius, Cortinarius purpurascens и Cortinarius alboviolaceus също имат виолетови нюанси, но са много по-дребни и по-малко масивни. Много други паяжинници са силно отровни.",
+        notes: "Рядка почти в целия си ареал. Не е оценявана от IUCN. Германският червен списък от 2016 г. я причислява към почти застрашените (Near Threatened), норвежкият червен списък от 2021 г. също (Near Threatened), а чешкият червен списък от 2024 г. към уязвимите (Vulnerable). Червената книга на България я включва като критично застрашен вид (Critically Endangered). Застрашена е главно от западането на близките до естествените гори и от нарушаването на почвата от тежка горска техника. При лабораторни тестове екстракти от плодните тела потискат бактериите Pseudomonas aeruginosa и Staphylococcus aureus."
+      },
+      zh: {
+        description: "一種粗壯多肉的蘑菇，菌蓋栗色至巧克力褐色，常帶白色的菌幕殘片，長在粗厚的棍棒狀白色菌柄上，基部膨大如球莖。菌褶起初為帶紫色調的白色，成熟後轉為鏽褐色。成群生長於溫暖闊葉林的石灰質土壤，十分罕見。",
+        cap: "菌蓋通常直徑10–20公分，可達約25–30公分。幼時近球形，後來凸起，最後變平或略凹陷，邊緣長時間內捲，之後出現放射狀皺紋或溝紋。幼小的菌蓋帶紫色調，覆有白色至紫白色的絲質菌幕，菌蓋展開時菌幕裂開。之後變成栗色至巧克力褐色或酒褐色，帶紫銅色調，老時褪為鏽褐色。表面有細纖維並帶光澤，潮濕時略黏，上面有白色至帶紫色的菌幕殘片，呈斑塊或細小鱗片貼附，或形成白色絮片，邊緣附近尤其明顯。",
+        hymenium: "菌褶凹生於菌柄，密集，寬3–8毫米，邊緣波狀至細鋸齒狀。幼時白色至淺灰色，帶紫水晶色調，起初被一層厚的白色至帶紫色的蛛網狀絲膜遮住，隨孢子成熟，依序轉為乳黃色、黏土色，最後成為鏽褐色。擔子約30–35 × 12–13 μm。菌褶邊緣有寬4–6 μm的不孕毛，突出20–40 μm，另有寬10–11 μm的退化不孕擔子。",
+        stipe: "菌柄長8–15公分（有些描述長達20–25公分），粗2–5公分，實心，棍棒狀至膨大，基部有寬達約7–8公分的球莖，其頂端有內捲的邊緣。幼時白色，上部帶紫色調，並透出淺藍色，表面為絲質纖維狀。之後被絲膜包裹，絲膜紫色至白色，裂成橫向的帶狀環紋，老時轉為赭色。",
+        flesh: "菌肉厚、緊實而充實，老的子實體也是如此。白色至乳白色，菌柄上部以及菌蓋與菌柄相連處帶淡藍紫色調，球莖處略帶赭色。氣味微弱或無，味道溫和。",
+        sporePrint: "鏽赭色至鏽褐色。孢子呈杏仁形至檸檬形，具粗疣，就這個屬而言非常大，約13–18 × 7–10 μm。",
+        habitat: "外生菌根真菌，生長於地面，成群、成排或成環，最多可有約一百個子實體，見於溫暖、草本豐富的闊葉林的石灰質（鹼性）土壤。常見的夥伴是山毛櫸，櫟、榛、椴、鵝耳櫪，在南方還有栗也可作為宿主，在針葉樹下罕見。子實體在8月（偶爾7月）至11月出現。分布於歐洲並延伸到亞洲，但幾乎各地都罕見：在德國北部沒有，在中歐和北歐零星分布，在瑞士局部常見。在挪威，集中於奧斯陸峽灣周圍的椴樹和榛林，以及西部的內陸峽灣。",
+        uses: "可食，普遍被評為極佳，常被視為該屬中最好的。在法國和瑞士的市場上有售，在日本能賣出高價。不過作者們仍建議不要採集，因為絲膜菌難以確切鑑定，其中有劇毒的近緣種，子實體會累積重金屬，而且這個物種很罕見。",
+        confusion: "它是少數憑大小、栗紫色菌蓋和棍棒狀白色菌柄，常常不用顯微鏡就能認出的大型絲膜菌之一。Cortinarius cumatilis 的菌蓋藍灰色，絲膜呈蛛網狀而非近乎膜質，邊緣始終平滑，生長在針葉樹下，孢子較小。Cortinarius balteatus 也生長在雲杉下，孢子較小，近緣的 Cortinarius blattoi 是另一種針葉林物種，孢子長度至多12 μm。Cortinarius varius、Cortinarius purpurascens 和 Cortinarius alboviolaceus 也帶紫色調，但小得多，也不那麼粗壯。許多其他絲膜菌有劇毒。",
+        notes: "在幾乎整個分布區內罕見。尚未經IUCN評估。德國2016年紅色名錄將其列為近危（Near Threatened），挪威2021年紅色名錄同樣列為近危（Near Threatened），捷克2024年紅色名錄則列為易危（Vulnerable）。保加利亞紅皮書將其列為極危（Critically Endangered）。主要威脅是近自然森林的減少，以及重型林業機械造成的土壤擾動。在實驗室試驗中，子實體的萃取物抑制了Pseudomonas aeruginosa和Staphylococcus aureus這兩種細菌。"
+      },
+      hr: {
+        description: "Krupna, mesnata gljiva s kestenjastosmeđim do čokoladnosmeđim klobukom, često s bjelkastim ostacima ovoja, na debelom, batinastom, bjelkastom stručku s gomoljastom osnovom. Listići su isprva bjelkasti s ljubičastim sjajem i dozrijevaju do hrđavosmeđih. Raste u skupinama u toplim listopadnim šumama na vapnenačkom tlu i rijetka je.",
+        cap: "Klobuk je obično širok 10–20 cm i može doseći oko 25–30 cm. U mladosti je gotovo kuglast, zatim izbočen i naposljetku ravan ili blago udubljen, s rubom koji dugo ostaje podvijen, a potom postaje zrakasto naboran ili izbrazdan. Mladi klobuci imaju ljubičastu nijansu i prekriveni su bjelkastim do ljubičastobijelim svilenkastim ovojem koji puca kada se klobuk širi. Zatim postaju kestenjastosmeđi do čokoladnosmeđi ili vinskosmeđi s ljubičastobakrenom nijansom, a s godinama blijede do hrđavosmeđih. Površina je fino vlaknasta i sjajna, po vlažnom vremenu blago sluzava, s bjelkastim do ljubičastim ostacima ovoja koji naliježu kao mrlje ili sitne ljuskice ili tvore bijele pahuljice, osobito uz rub.",
+        hymenium: "Listići su za stručak priraštene s urezom, gusti, široki 3–8 mm, s valovitim do fino nazubljenim oštricama. U mladosti su bjelkasti do svijetlosivi s ametistnom nijansom i isprva skriveni iza debele bijele do ljubičaste kortine, zatim postaju krem, ilovasti i naposljetku hrđavosmeđi kako spore dozrijevaju. Bazidiji mjere oko 30–35 × 12–13 μm. Oštrica listića nosi sterilne dlačice široke 4–6 μm koje vire 20–40 μm te degenerirane sterilne bazidije široke 10–11 μm.",
+        stipe: "Stručak je dug 8–15 cm (prema nekim opisima do 20–25 cm) i debeo 2–5 cm, pun, batinast do trbušast, s gomoljem pri osnovi širokim do oko 7–8 cm i podvijenim rubom na njegovu vrhu. U mladosti je bjelkast s ljubičastom nijansom pri vrhu i provijavajućom plavkastom bojom, a površina mu je svilenkasto vlaknasta. Kasnije ga obavija kortina, ljubičasta do bjelkasta, koja se raspada na poprečne pojasaste vrpce i s godinama postaje okerasta.",
+        flesh: "Meso je debelo, čvrsto i puno, čak i kod starih plodišta. Bjelkasto je do krem boje, s blijedom plavkastoljubičastom nijansom pri vrhu stručka i tamo gdje se za njega veže klobuk, a u gomolju blago okerasto. Miris je slab ili ga nema, a okus je blag.",
+        sporePrint: "Hrđavookerast do hrđavosmeđ. Spore su bademaste do limunaste, grubo bradavičaste i za rod vrlo velike, oko 13–18 × 7–10 μm.",
+        habitat: "Ektomikorizna gljiva koja raste na tlu, u skupinama, redovima ili krugovima sa stotinjak plodišta, u toplim, travama bogatim listopadnim šumama na vapnenačkom (bazičnom) tlu. Uobičajeni partner je bukva, a domaćini mogu biti i hrast, lijeska, lipa, grab te na jugu pitomi kesten; ispod crnogorice je rijetka. Plodišta se pojavljuju od kolovoza (povremeno već u srpnju) do studenoga. Nalazi se u Europi i zalazi u Aziju, ali je gotovo posvuda rijetka: u sjevernoj Njemačkoj je nema, u srednjoj i sjevernoj Europi rasprostranjena je mjestimično, a u Švicarskoj je mjestimice česta. U Norveškoj je koncentrirana u lipovim i lijeskovim šumama oko Oslofjorda i u unutarnjim fjordovima na zapadu.",
+        uses: "Jestiva je i općenito se ocjenjuje kao vrlo dobra, često kao najbolja u rodu. Prodaje se na tržnicama u Francuskoj i Švicarskoj, a u Japanu postiže visoke cijene. Autori ipak savjetuju da se ne bere, jer se koprenke teško pouzdano određuju i među njima ima vrlo otrovnih srodnika, plodišta nakupljaju teške metale, a vrsta je rijetka.",
+        confusion: "Jedna je od rijetkih velikih koprenki koje se često mogu prepoznati i bez mikroskopa, zahvaljujući veličini, kestenjastoljubičastom klobuku i batinastom bjelkastom stručku. Cortinarius cumatilis ima plavosivi klobuk, paučinastu, a ne gotovo opnastu kortinu i uvijek gladak rub, raste ispod crnogorice i ima sitnije spore. Cortinarius balteatus također raste ispod smreka i ima sitnije spore, a srodni Cortinarius blattoi, još jedna vrsta crnogoričnih šuma, ima spore duge najviše 12 μm. Cortinarius varius, Cortinarius purpurascens i Cortinarius alboviolaceus također imaju ljubičaste nijanse, ali su mnogo sitniji i manje masivni. Mnoge druge koprenke vrlo su otrovne.",
+        notes: "Rijetka gotovo u cijelom svom arealu. IUCN je nije ocijenio. Njemački crveni popis iz 2016. svrstava je među gotovo ugrožene vrste (Near Threatened), norveški crveni popis iz 2021. također (Near Threatened), a češki crveni popis iz 2024. među osjetljive (Vulnerable). Bugarska crvena knjiga navodi je kao kritično ugroženu vrstu (Critically Endangered). Ugrožavaju je ponajviše nestanak prirodnih šuma i narušavanje tla teškom šumskom mehanizacijom. U laboratorijskim testovima ekstrakti plodišta sprječavali su rast bakterija Pseudomonas aeruginosa i Staphylococcus aureus."
+      },
+      cs: {
+        description: "Mohutná, masitá houba s kaštanově až čokoládově hnědým kloboukem, často pokrytým bělavými zbytky vela, na tlustém, kyjovitém, bělavém třeni s hlízovitou bází. Lupeny jsou zpočátku bělavé s fialovým nádechem a dozrávají do rezavě hněda. Roste ve skupinách v teplých listnatých lesích na vápnitých půdách a je vzácná.",
+        cap: "Klobouk je obvykle široký 10–20 cm a může dosáhnout asi 25–30 cm. V mládí je téměř kulovitý, pak klenutý a nakonec plochý nebo mírně promáčklý, s okrajem, který zůstává dlouho podvinutý a stává se paprsčitě svraskalým nebo rýhovaným. Mladé klobouky mají fialový nádech a kryje je bělavé až fialově bílé hedvábité velum, které se při rozevírání klobouku trhá. Poté se zbarvují kaštanově až čokoládově hnědě nebo vínově hnědě s fialově měděným odstínem a stářím blednou do rezavě hněda. Povrch je jemně vláknitý a lesklý, za vlhka mírně slizký a nese bělavé až nafialovělé zbytky vela, které přiléhají jako záplaty nebo drobné šupinky, případně tvoří bílé tečky, zejména u okraje.",
+        hymenium: "Lupeny jsou ke třeni přirostlé s výřezem, husté, široké 3–8 mm, s vlnitými až jemně zoubkovanými ostřími. V mládí jsou bělavé až světle šedé s ametystovým nádechem a zpočátku je skrývá hustá bílá až nafialovělá pavučinka. Poté se zbarvují krémově, hliněně a nakonec rezavě hnědě, jak výtrusy dozrávají. Basidie měří asi 30–35 × 12–13 μm. Ostří lupenů nese sterilní chlupy široké 4–6 μm, které vyčnívají 20–40 μm, spolu s degenerovanými sterilními basidiemi širokými 10–11 μm.",
+        stipe: "Třeň je dlouhý 8–15 cm (podle některých popisů až 20–25 cm) a tlustý 2–5 cm, plný, kyjovitý až břichatý, s hlízou u báze širokou až asi 7–8 cm a podvinutým okrajem na jejím vrcholu. V mládí je bělavý s fialovým nádechem v horní části a prosvítá jím namodralý odstín, povrch je hedvábně vláknitý. Později jej obaluje pavučinka, která je fialová až bělavá, rozpadá se na příčné pásky podobné prstencům a stářím žloutne do okrova.",
+        flesh: "Dužnina je tlustá, pevná a plná, i u starých plodnic. Je bělavá až krémová, s bledým modrofialovým odstínem v horní části třeně a v místě, kde se k němu připojuje klobouk, a v hlíze mírně okrová. Vůně je slabá až nevýrazná a chuť mírná.",
+        sporePrint: "Okrově rezavý až rezavě hnědý. Výtrusy jsou mandlovité až citronovité, hrubě bradavčité a na rod velmi velké, asi 13–18 × 7–10 μm.",
+        habitat: "Ektomykorhizní houba, která roste na zemi, ve skupinách, řadách nebo kruzích až s asi stovkou plodnic, v teplých, bylinami bohatých listnatých lesích na vápnitých (zásaditých) půdách. Obvyklým partnerem je buk, hostitelem mohou být i dub, líska, lípa, habr a na jihu kaštanovník jedlý; pod jehličnany je vzácná. Plodnice se objevují od srpna (výjimečně už v červenci) do listopadu. Vyskytuje se v Evropě a zasahuje do Asie, ale téměř všude je vzácná: v severním Německu chybí, ve střední a severní Evropě je roztroušená a ve Švýcarsku je místy běžná. V Norsku je soustředěná v lipových a lískových lesích kolem Oslofjordu a ve vnitřních fjordech na západě.",
+        uses: "Jedlá a obecně hodnocená jako velmi dobrá, často jako nejlepší z rodu. Prodává se na trzích ve Francii a ve Švýcarsku a v Japonsku se za ni platí vysoké ceny. Autoři však doporučují ji nesbírat, protože pavučince se obtížně určují s jistotou a patří mezi ně i velmi jedovaté příbuzné druhy, plodnice hromadí těžké kovy a druh je vzácný.",
+        confusion: "Je jedním z mála velkých pavučinců, které lze často poznat i bez mikroskopu, díky velikosti, kaštanově fialovému klobouku a kyjovitému bělavému třeni. Cortinarius cumatilis má modrošedý klobouk, pavučinovitou, nikoli téměř blanitou pavučinku a vždy hladký okraj, roste pod jehličnany a má menší výtrusy. Cortinarius balteatus roste také pod smrky a má menší výtrusy a příbuzný Cortinarius blattoi, další druh jehličnatých lesů, má výtrusy dlouhé nejvýše 12 μm. Cortinarius varius, Cortinarius purpurascens a Cortinarius alboviolaceus mají také fialové odstíny, ale jsou mnohem menší a méně mohutné. Mnohé další pavučince jsou velmi jedovaté.",
+        notes: "Vzácná téměř v celém areálu. IUCN ji nehodnotila. Německý červený seznam z roku 2016 ji řadí mezi téměř ohrožené druhy (Near Threatened), norský červený seznam z roku 2021 rovněž mezi téměř ohrožené (Near Threatened) a český červený seznam z roku 2024 mezi zranitelné (Vulnerable). Bulharská červená kniha ji uvádí jako kriticky ohrožený druh. Ohrožuje ji především úbytek přírodě blízkých lesů a narušování půdy těžkou lesnickou technikou. V laboratorních testech výtažky z plodnic brzdily růst bakterií Pseudomonas aeruginosa a Staphylococcus aureus."
+      },
+      da: {
+        description: "En kraftig, kødfuld svamp med kastanje- til chokoladebrun hat, ofte med hvidlige slørrester, på en tyk, kølleformet, hvidlig stok med knoldet bund. Lamellerne er først hvidlige med et violet skær og modner til rustbrune. Den vokser i grupper i varme løvskove på kalkrig jord og er sjælden.",
+        cap: "Hatten er typisk 10–20 cm i diameter og kan nå omkring 25–30 cm. Som ung er den næsten kugleformet, derefter hvælvet og til sidst flad eller let nedtrykt, med en rand, der længe forbliver indrullet og senere bliver radiært rynket eller furet. Unge hatte har et violet skær og er dækket af et hvidligt til violethvidt, silkeagtigt slør, som revner, når hatten breder sig. Derefter bliver de kastanje- til chokoladebrune eller vinbrune med en violetkobberfarvet tone og falmer med alderen til rustbrune. Overfladen er fint trævlet og skinnende, let slimet i vådt vejr, og den har hvidlige til violetlige slørrester, der ligger an som pletter eller små skæl eller danner hvide flager, især nær randen.",
+        hymenium: "Lamellerne er tilvokset til stokken med en indbugtning, tætstillede, 3–8 mm brede, med bølgede til fint takkede æg. Som unge er de hvidlige til lysegrå med et ametystfarvet skær og i begyndelsen skjult bag en tyk hvid til violetlig cortina; derefter bliver de cremefarvede, lerfarvede og til sidst rustbrune, efterhånden som sporerne modner. Basidierne måler omkring 30–35 × 12–13 μm. Lamelæggen bærer sterile hår, 4–6 μm brede, som rager 20–40 μm frem, sammen med degenererede sterile basidier, 10–11 μm brede.",
+        stipe: "Stokken er 8–15 cm lang (efter nogle beskrivelser op til 20–25 cm) og 2–5 cm tyk, massiv, kølleformet til svulmende, med en knold i bunden på op til omkring 7–8 cm i bredden og en indrullet kant øverst på den. Som ung er den hvidlig med et violet skær foroven og en blålig tone, der skinner igennem, og overfladen er silkeagtigt trævlet. Senere er den omviklet af cortinaen, som er violet til hvidlig, brydes op i tværgående bælteagtige bånd og bliver okkerfarvet med alderen.",
+        flesh: "Kødet er tykt, fast og massivt, også hos gamle frugtlegemer. Det er hvidligt til cremefarvet, med en bleg blålig violet tone øverst i stokken og dér, hvor hatten slutter til, og svagt okkerfarvet i knolden. Lugten er svag eller fraværende, og smagen er mild.",
+        sporePrint: "Rustokker til rustbrun. Sporerne er mandel- til citronformede, grovt vortede og meget store for slægten, omkring 13–18 × 7–10 μm.",
+        habitat: "En ektomykorrhizasvamp, der vokser på jorden, i grupper, rækker eller ringe med op til omkring hundrede frugtlegemer, i varme, urterige løvskove på kalkrig (basisk) jord. Bøg er den sædvanlige partner, og eg, hassel, lind, avnbøg og i syd ægte kastanje kan også være værter; under nåletræer er den sjælden. Frugtlegemerne kommer frem fra august (undtagelsesvis juli) til november. Den findes i Europa og ind i Asien, men er næsten overalt sjælden: I Nordtyskland mangler den, i Mellem- og Nordeuropa er den pletvis udbredt, og i Schweiz er den lokalt almindelig. I Norge er den koncentreret i lind- og hasselskove omkring Oslofjorden og i de indre fjorde i vest.",
+        uses: "Spiselig og almindeligvis vurderet som meget god, ofte som den bedste i slægten. Den sælges på markeder i Frankrig og Schweiz, og i Japan opnår den høje priser. Forfattere fraråder alligevel at samle den, fordi slørhatte er svære at bestemme med sikkerhed og omfatter stærkt giftige slægtninge, frugtlegemerne ophober tungmetaller, og arten er sjælden.",
+        confusion: "Den er en af de få store slørhatte, som ofte kan genkendes uden mikroskop, takket være størrelsen, den kastanje-violette hat og den kølleformede, hvidlige stok. Cortinarius cumatilis har en blågrå hat, en spindelvævsagtig i stedet for næsten hindeagtig cortina og en altid glat rand, vokser under nåletræer og har mindre sporer. Cortinarius balteatus vokser også under gran og har mindre sporer, og den beslægtede Cortinarius blattoi, en anden art fra nåleskov, har sporer på højst 12 μm i længden. Cortinarius varius, Cortinarius purpurascens og Cortinarius alboviolaceus har også violette toner, men er meget mindre og mindre kraftige. Mange andre slørhatte er stærkt giftige.",
+        notes: "Sjælden næsten i hele sit udbredelsesområde. Den er ikke vurderet af IUCN. Den tyske rødliste fra 2016 placerer den som næsten truet (Near Threatened), den norske rødliste fra 2021 ligeledes som næsten truet (Near Threatened), og den tjekkiske rødliste fra 2024 som sårbar (Vulnerable). Bulgariens røde bog fører den som kritisk truet (Critically Endangered). Den trues især af tab af naturnær skov og af jordforstyrrelse fra tunge skovmaskiner. I laboratorieforsøg hæmmede ekstrakter af frugtlegemerne bakterierne Pseudomonas aeruginosa og Staphylococcus aureus."
+      },
+      nl: {
+        description: "Een massieve, vlezige paddenstoel met een kastanje- tot chocoladebruine hoed, vaak bezet met witachtige velumresten, op een dikke, knotsvormige, witachtige steel met een knolvormige voet. De plaatjes zijn eerst witachtig met een violette zweem en rijpen naar roestbruin. Hij groeit in groepen in warme loofbossen op kalkrijke grond en is zeldzaam.",
+        cap: "De hoed is gewoonlijk 10–20 cm breed en kan ongeveer 25–30 cm bereiken. Jong is hij bijna bolvormig, daarna gewelfd en ten slotte vlak of licht ingedeukt, met een rand die lang omgerold blijft en straalsgewijs gerimpeld of gegroefd wordt. Jonge hoeden hebben een violette zweem en zijn bedekt met een witachtig tot violetwit zijdeachtig velum dat scheurt als de hoed zich opent. Daarna kleuren ze kastanje- tot chocoladebruin of wijnbruin met een violetkoperkleurige tint en verbleken ze met de leeftijd naar roestbruin. Het oppervlak is fijn vezelig en glanzend, bij nat weer enigszins slijmerig, en draagt witachtige tot violetachtige velumresten die als plekken of kleine schubjes aanliggen of witte vlokjes vormen, vooral bij de rand.",
+        hymenium: "De plaatjes zijn met een insnijding aan de steel vastgegroeid, dicht opeen, 3–8 mm breed, met golvende tot fijn gekartelde randen. Jong zijn ze witachtig tot lichtgrijs met een amethistkleurige zweem en eerst verborgen achter een dikke witte tot violetachtige cortina; daarna worden ze crèmekleurig, leemkleurig en ten slotte roestbruin naarmate de sporen rijpen. De basidiën meten ongeveer 30–35 × 12–13 μm. De plaatrand draagt steriele haren van 4–6 μm breed die 20–40 μm uitsteken, samen met gedegenereerde steriele basidiën van 10–11 μm breed.",
+        stipe: "De steel is 8–15 cm lang (volgens sommige beschrijvingen tot 20–25 cm) en 2–5 cm dik, vol, knots- tot buikvormig, met een knol aan de voet tot ongeveer 7–8 cm breed en een omgerolde rand aan de bovenkant ervan. Jong is hij witachtig met een violette zweem bovenaan en schemert er een blauwachtige tint doorheen, en het oppervlak is zijdeachtig vezelig. Later wordt hij omhuld door de cortina, die violet tot witachtig is, uiteenvalt in dwarse, gordelachtige banden en met de leeftijd okerkleurig wordt.",
+        flesh: "Het vlees is dik, stevig en vol, ook bij oude vruchtlichamen. Het is witachtig tot crèmekleurig, met een bleke blauwviolette tint bovenaan de steel en waar de hoed aansluit, en licht okerkleurig in de knol. De geur is zwak tot afwezig en de smaak mild.",
+        sporePrint: "Roestokerkleurig tot roestbruin. De sporen zijn amandel- tot citroenvormig, grof wratterig en voor het geslacht zeer groot, ongeveer 13–18 × 7–10 μm.",
+        habitat: "Een ectomycorrhizavormer die op de grond groeit, in groepen, rijen of kringen met wel honderd vruchtlichamen, in warme, kruidenrijke loofbossen op kalkrijke (basische) grond. Beuk is de gebruikelijke partner, en ook eik, hazelaar, linde, haagbeuk en in het zuiden tamme kastanje kunnen als gastheer dienen; onder naaldbomen is hij zeldzaam. De vruchtlichamen verschijnen van augustus (soms al in juli) tot november. Hij komt voor in Europa en tot in Azië, maar is bijna overal zeldzaam: in Noord-Duitsland ontbreekt hij, in Midden- en Noord-Europa is hij verspreid en in Zwitserland plaatselijk algemeen. In Noorwegen is hij geconcentreerd in linden- en hazelaarbossen rond de Oslofjord en in de binnenste fjorden in het westen.",
+        uses: "Eetbaar en algemeen als zeer goed beoordeeld, vaak als de beste van zijn geslacht. Hij wordt op markten in Frankrijk en Zwitserland verkocht en in Japan brengt hij hoge prijzen op. Auteurs raden het plukken toch af, omdat gordijnzwammen moeilijk met zekerheid te determineren zijn en zeer giftige verwanten omvatten, de vruchtlichamen zware metalen ophopen en de soort zeldzaam is.",
+        confusion: "Hij is een van de weinige grote gordijnzwammen die vaak zonder microscoop te herkennen zijn, dankzij zijn grootte, zijn kastanjebruin-violette hoed en zijn knotsvormige, witachtige steel. Cortinarius cumatilis heeft een blauwgrijze hoed, een spinnenwebachtige in plaats van bijna vliezige cortina en een altijd gladde rand, groeit onder naaldbomen en heeft kleinere sporen. Cortinarius balteatus groeit eveneens onder sparren en heeft kleinere sporen, en de verwante Cortinarius blattoi, een andere soort van naaldbossen, heeft sporen van hoogstens 12 μm lang. Cortinarius varius, Cortinarius purpurascens en Cortinarius alboviolaceus hebben ook violette tinten, maar zijn veel kleiner en minder massief. Veel andere gordijnzwammen zijn zeer giftig.",
+        notes: "Bijna overal in zijn areaal zeldzaam. Hij is niet beoordeeld door de IUCN. De Duitse rode lijst van 2016 rekent hem tot de gevoelige soorten (Near Threatened), de Noorse rode lijst van 2021 eveneens (Near Threatened) en de Tsjechische rode lijst van 2024 tot de kwetsbare soorten (Vulnerable). Het Bulgaarse Rode Boek vermeldt hem als ernstig bedreigd (Critically Endangered). Hij wordt vooral bedreigd door de achteruitgang van natuurlijke bossen en door bodemverstoring door zware bosbouwmachines. In laboratoriumproeven remden extracten van de vruchtlichamen de bacteriën Pseudomonas aeruginosa en Staphylococcus aureus."
+      },
+      et: {
+        description: "Jässakas, lihakas seen kastani- kuni šokolaadipruuni kübaraga, mida katavad sageli valkjad loorijäänused, paksul, nuijakujulisel, valkjal jalal mugulja tüvega. Eoslehed on esmalt valkjad violetse varjundiga ja küpsevad roostepruuniks. Kasvab rühmiti soojades lehtmetsades lubjarikkal mullal ja on haruldane.",
+        cap: "Kübar on tavaliselt 10–20 cm laiune ja võib ulatuda umbes 25–30 cm-ni. Noorena on see peaaegu kerajas, siis kumer ja lõpuks lame või kergelt süvenenud, servaga, mis jääb kauaks sissepoole keerdu ning muutub hiljem kiirjalt kortsuliseks või vaoliseks. Noortel kübaratel on violetne varjund ning neid katab valkjas kuni violetsevalge siidine loor, mis kübara laienedes rebeneb. Seejärel muutuvad need kastani- kuni šokolaadipruuniks või veinipruuniks violetse vaskja tooniga ning tuhmuvad vanusega roostepruuniks. Pind on peenkiuline ja läikiv, märjal ilmal kergelt limane, ning seda katavad valkjad kuni violetjad loorijäänused, mis lamavad laikude või väikeste soomustena või moodustavad valgeid helbeid, eriti serva ligidal.",
+        hymenium: "Eoslehed on jala külge kinnitunud sälguga, tihedad, 3–8 mm laiused, lainelise kuni peenelt sälkunud teraga. Noorena on need valkjad kuni helehallid ametistise varjundiga ning esialgu paksu valge kuni violetja kortiina taha peidus, seejärel kreemikad, savivärvi ja lõpuks roostepruunid, kui eosed küpsevad. Basiidid on umbes 30–35 × 12–13 μm. Eoslehe tera kannab 4–6 μm laiuseid steriilseid karvu, mis ulatuvad 20–40 μm välja, ning degenereerunud steriilseid basiide laiusega 10–11 μm.",
+        stipe: "Jalg on 8–15 cm pikk (mõne kirjelduse järgi kuni 20–25 cm) ja 2–5 cm paks, täisjalg, nuijas kuni punnis, tüves kuni umbes 7–8 cm laiuse mugulaga, mille ülaserv on sissepoole keerdunud. Noorena on see valkjas, ülalt violetse varjundiga, ja sellest kumab läbi sinakas toon, pind on siidjaskiuline. Hiljem mähib seda kortiina, mis on violetne kuni valkjas, rebeneb ristisuunalisteks vöötaolisteks ribadeks ja muutub vanusega ookerjaks.",
+        flesh: "Seeneliha on paks, kõva ja täidlane ka vanadel viljakehadel. See on valkjas kuni kreemjas, jala ülaosas ja kohas, kus kübar jalaga ühineb, kahvatu sinakasvioletse tooniga, mugulas veidi ookerjas. Lõhn on nõrk või puudub ja maitse on mahe.",
+        sporePrint: "Roostene ooker kuni roostepruun. Eosed on mandli- kuni sidrunikujulised, jämedalt soomuselised ja perekonna kohta väga suured, umbes 13–18 × 7–10 μm.",
+        habitat: "Ektomükoriisaseen, mis kasvab maapinnal, rühmiti, ridadena või ringidena, kus võib olla kuni sada viljakeha, soojades, rohurikastes lehtmetsades lubjarikkal (aluselisel) mullal. Tavaline partner on pöök, peremeesteks võivad olla ka tamm, sarapuu, pärn, valgepöök ja lõunas harilik kastan; okaspuude all on see haruldane. Viljakehad ilmuvad augustist (vahel juulist) novembrini. Liik esineb Euroopas ja ulatub Aasiasse, kuid on peaaegu kõikjal haruldane: Põhja-Saksamaal puudub ta, Kesk- ja Põhja-Euroopas esineb laiguti ning Šveitsis on kohati tavaline. Norras koondub ta pärna- ja sarapuumetsadesse Oslofjordi ümber ning lääne sisemistesse fjordidesse.",
+        uses: "Söödav ja üldiselt väga heaks hinnatud, sageli perekonna parimaks. Seda müüakse turgudel Prantsusmaal ja Šveitsis ning Jaapanis makstakse selle eest kõrget hinda. Autorid siiski soovitavad seda mitte korjata, sest vöödikuid on raske kindlalt määrata ja nende hulka kuulub väga mürgiseid sugulasi, viljakehad koguvad raskmetalle ning liik on haruldane.",
+        confusion: "See on üks väheseid suuri vöödikuid, mida sageli saab ära tunda ilma mikroskoobita, tänu suurusele, kastanipruunile violetja kübarale ja nuijakujulisele valkjale jalale. Cortinarius cumatilis on sinakashalli kübaraga, tema kortiina on ämblikuvõrgutaoline, mitte peaaegu kilejas, serv on alati sile, ta kasvab okaspuude all ja eosed on väiksemad. Cortinarius balteatus kasvab samuti kuuskede all ja eosed on väiksemad ning sugulasliigil Cortinarius blattoi, teisel okasmetsa liigil, on eosed kuni 12 μm pikad. Cortinarius varius, Cortinarius purpurascens ja Cortinarius alboviolaceus on samuti violetsete toonidega, kuid palju väiksemad ja õrnemad. Paljud teised vöödikud on väga mürgised.",
+        notes: "Haruldane peaaegu kogu levilas. IUCN pole seda hinnanud. Saksamaa 2016. aasta punane nimestik loeb selle ohulähedaseks (Near Threatened), Norra 2021. aasta punane nimestik samuti ohulähedaseks (Near Threatened) ja Tšehhi 2024. aasta punane nimestik ohualdiseks (Vulnerable). Bulgaaria punane raamat loetleb selle äärmiselt ohustatuks (Critically Endangered). Seda ohustavad peamiselt looduslähedaste metsade kadumine ja raskete metsatöömasinate tekitatud mullahäiring. Laborikatsetes pärssisid viljakehade ekstraktid bakterite Pseudomonas aeruginosa ja Staphylococcus aureus kasvu."
+      },
+      fi: {
+        description: "Muhkea, lihaisa sieni, jonka lakki on kastanjanruskea tai suklaanruskea ja usein vaaleiden suojusjäänteiden täplittämä, paksulla, nuijamaisella, vaalealla jalalla, jonka tyvi on mukulamainen. Heltat ovat aluksi vaalean violetinsävyiset ja kypsyvät ruosteenruskeiksi. Kasvaa ryhmissä lämpimissä lehtimetsissä kalkkipitoisella maalla ja on harvinainen.",
+        cap: "Lakki on yleensä 10–20 cm leveä ja voi olla noin 25–30 cm. Nuorena se on lähes pallomainen, sitten kupera ja lopulta tasainen tai hieman painunut, ja sen reuna pysyy pitkään alaspäin kiertyneenä ja muuttuu myöhemmin säteittäin ryppyiseksi tai uurteiseksi. Nuoret lakit ovat violettisävyisiä, ja niitä peittää vaalea tai violetinvalkoinen, silkkinen suojus, joka repeilee lakin avautuessa. Sen jälkeen ne muuttuvat kastanjanruskeiksi tai suklaanruskeiksi tai viininruskeiksi kuparinvioletin sävyin ja haalistuvat iän myötä ruosteenruskeiksi. Pinta on hienosyinen ja kiiltävä, sateella hieman limainen, ja sitä peittävät vaaleat tai violettisävyiset suojusjäänteet, jotka ovat painuneet kiinni laikkuina tai pieninä suomuina tai muodostavat valkoisia hiutaleita varsinkin reunan lähellä.",
+        hymenium: "Heltat ovat kiinnittyneet jalkaan lovella, tiheässä, 3–8 mm leveät, terä aaltoileva tai hienosti lovettu. Nuorena ne ovat vaaleita tai vaaleanharmaita ametistinsävyisiä ja aluksi paksun valkoisen tai violettisävyisen seitin peitossa, sitten kermanvärisiä, savenvärisiä ja lopulta ruosteenruskeita itiöiden kypsyessä. Tyvisolut ovat kooltaan noin 30–35 × 12–13 μm. Helttojen terässä on 4–6 μm leveitä steriilejä karvoja, jotka ulottuvat 20–40 μm ulos, sekä rappeutuneita steriilejä tyvisoluja, joiden leveys on 10–11 μm.",
+        stipe: "Jalka on 8–15 cm pitkä (joidenkin kuvausten mukaan jopa 20–25 cm) ja 2–5 cm paksu, umpinainen, nuijamainen tai pullistunut, ja sen tyvessä on enintään noin 7–8 cm leveä mukula, jonka yläreuna on kiertynyt. Nuorena se on vaalea, ylhäältä violettisävyinen, ja sen läpi kuultaa sinertävä sävy, ja pinta on silkkisen säikeinen. Myöhemmin sitä ympäröi violetti tai vaalea seitti, joka repeää poikittaisiksi vyömäisiksi nauhoiksi ja muuttuu iän myötä okranvärisiksi.",
+        flesh: "Malto on paksua, kiinteää ja umpinaista vanhoissakin itiöemissä. Se on vaaleaa tai kermanvalkoista, jalan yläosassa ja lakin liittymäkohdassa vaalean sinivioletinsävyistä ja mukulassa hieman okranvärinen. Haju on heikko tai puuttuu ja maku on lempeä.",
+        sporePrint: "Ruosteenokra tai ruosteenruskea. Itiöt ovat manteli- tai sitruunamaisia, karkeasti syylällisiä ja suvun oloissa erittäin suuria, noin 13–18 × 7–10 μm.",
+        habitat: "Ektomykorritsasieni, joka kasvaa maassa ryhmissä, riveissä tai renkaissa, joissa voi olla jopa sata itiöemää, lämpimissä, runsasruohoisissa lehtimetsissä kalkkipitoisella (emäksisellä) maalla. Tavallisin kumppani on pyökki, ja isäntinä voivat olla myös tammi, pähkinäpensas, lehmus, valkopyökki ja etelässä aitokastanja; havupuiden alla se on harvinainen. Itiöemät ilmestyvät elokuusta (joskus heinäkuusta) marraskuuhun. Laji esiintyy Euroopassa ja ulottuu Aasiaan, mutta on lähes kaikkialla harvinainen: Pohjois-Saksassa se puuttuu, Keski- ja Pohjois-Euroopassa se on kohtuullisen hajanainen ja Sveitsissä paikoin yleinen. Norjassa se keskittyy lehmus- ja pähkinäpensasmetsiin Oslovuonon ympärillä ja länsirannikon sisävuonoissa.",
+        uses: "Syötävä ja yleisesti hyvin hyväksi arvioitu, usein suvun parhaaksi. Sitä myydään toreilla Ranskassa ja Sveitsissä, ja Japanissa siitä maksetaan korkea hinta. Kirjoittajat kuitenkin neuvovat jättämään sen keräämättä, koska seitikkeja on vaikea tunnistaa varmasti ja niiden joukossa on erittäin myrkyllisiä sukulaisia, itiöemät keräävät raskasmetalleja ja laji on harvinainen.",
+        confusion: "Se on yksi harvoista suurista seitikeista, jotka voi usein tunnistaa ilman mikroskooppia koon, kastanjanruskean ja violetin lakin ja nuijamaisen, vaalean jalan perusteella. Cortinarius cumatilis on sinertävänharmaa lakiltaan, sen seitti on hämähäkinseittimäinen eikä lähes kalvomainen, sen reuna on aina sileä, se kasvaa havupuiden alla ja sen itiöt ovat pienempiä. Cortinarius balteatus kasvaa myös kuusten alla ja sen itiöt ovat pienempiä, ja sukulaislajin Cortinarius blattoi, toisen havumetsälajin, itiöt ovat enintään 12 μm pitkiä. Cortinarius varius, Cortinarius purpurascens ja Cortinarius alboviolaceus ovat myös violettisävyisiä, mutta paljon pienempiä ja hennompia. Monet muut seitikit ovat erittäin myrkyllisiä.",
+        notes: "Harvinainen lähes koko levinneisyysalueellaan. IUCN ei ole arvioinut sitä. Saksan vuoden 2016 punainen lista luokittelee sen silmälläpidettäväksi (Near Threatened), Norjan vuoden 2021 punainen lista samoin silmälläpidettäväksi (Near Threatened) ja Tšekin vuoden 2024 punainen lista vaarantuneeksi (Vulnerable). Bulgarian punainen kirja luettelee sen äärimmäisen uhanalaiseksi (Critically Endangered). Sitä uhkaavat etenkin luonnontilaisten metsien väheneminen ja raskaiden metsäkoneiden aiheuttama maaperän häiriintyminen. Laboratoriokokeissa itiöemien uutteet estivät bakteerien Pseudomonas aeruginosa ja Staphylococcus aureus kasvua."
+      },
+      fr: {
+        description: "Un champignon massif et charnu, au chapeau châtain à brun chocolat, souvent parsemé de restes blanchâtres du voile, sur un pied épais, en massue, blanchâtre et à base bulbeuse. Les lames sont d'abord blanchâtres avec une teinte violette puis mûrissent en brun rouille. Il pousse en groupes dans les bois chauds de feuillus sur sol calcaire et est rare.",
+        cap: "Le chapeau mesure généralement 10–20 cm de diamètre et peut atteindre environ 25–30 cm. Jeune, il est presque sphérique, puis convexe et enfin plat ou légèrement déprimé, avec une marge qui reste longtemps enroulée puis devient rayée-ridée ou sillonnée. Les chapeaux jeunes ont une teinte violette et sont recouverts d'un voile soyeux, blanchâtre à blanc violacé, qui se déchire quand le chapeau s'ouvre. Ils deviennent ensuite châtains à brun chocolat ou brun vineux, avec une teinte cuivrée violacée, et pâlissent avec l'âge en brun rouille. La surface est finement fibrilleuse et brillante, légèrement visqueuse par temps humide, et porte des restes du voile blanchâtres à violacés, qui restent appliqués en plaques ou en petites squames ou forment des flocons blancs, surtout près de la marge.",
+        hymenium: "Les lames sont adnées au pied avec une échancrure, serrées, larges de 3–8 mm, à arête ondulée à finement crénelée. Jeunes, elles sont blanchâtres à gris clair avec une teinte améthyste et d'abord cachées derrière une épaisse cortine blanche à violacée ; puis elles deviennent crème, couleur d'argile et enfin brun rouille, à mesure que les spores mûrissent. Les basides mesurent environ 30–35 × 12–13 μm. L'arête des lames porte des poils stériles larges de 4–6 μm, qui dépassent de 20–40 μm, ainsi que des basides stériles dégénérées larges de 10–11 μm.",
+        stipe: "Le pied mesure 8–15 cm de long (selon certaines descriptions jusqu'à 20–25 cm) et 2–5 cm d'épaisseur, il est plein, en massue à ventru, avec un bulbe à la base large d'environ 7–8 cm au maximum et un bord enroulé à son sommet. Jeune, il est blanchâtre, avec une teinte violette au sommet et une teinte bleuâtre qui transparaît, et la surface est soyeuse-fibrilleuse. Plus tard, il est enveloppé par la cortine, violette à blanchâtre, qui se déchire en bandes transversales semblables à des ceintures et devient ocre avec l'âge.",
+        flesh: "La chair est épaisse, ferme et pleine, même chez les vieux sporophores. Elle est blanchâtre à crème, avec une pâle teinte bleu violacé au sommet du pied et là où le chapeau s'y joint, et légèrement ocre dans le bulbe. L'odeur est faible ou absente et la saveur est douce.",
+        sporePrint: "Ocre rouille à brun rouille. Les spores ont la forme d'une amande à un citron, sont grossièrement verruqueuses et très grandes pour le genre, d'environ 13–18 × 7–10 μm.",
+        habitat: "Un champignon ectomycorhizien qui pousse sur le sol, en groupes, rangs ou cercles pouvant compter jusqu'à une centaine de sporophores, dans les bois chauds de feuillus riches en herbes, sur sol calcaire (alcalin). Le partenaire habituel est le hêtre, et le chêne, le noisetier, le tilleul, le charme et, dans le sud, le châtaignier peuvent aussi l'héberger ; sous les conifères il est rare. Les sporophores apparaissent d'août (parfois juillet) à novembre. Il existe en Europe et s'étend en Asie, mais il est rare presque partout : il manque dans le nord de l'Allemagne, il est dispersé en Europe centrale et septentrionale et il est localement commun en Suisse. En Norvège, il est concentré dans les bois de tilleuls et de noisetiers autour du fjord d'Oslo et dans les fjords intérieurs de l'ouest.",
+        uses: "Comestible et généralement jugé très bon, souvent le meilleur de son genre. Il est vendu sur les marchés en France et en Suisse, et au Japon il atteint des prix élevés. Les auteurs déconseillent pourtant de le récolter, car les cortinaires sont difficiles à déterminer avec certitude et comptent des parents très toxiques, les sporophores accumulent les métaux lourds et l'espèce est rare.",
+        confusion: "C'est l'un des rares grands cortinaires qui se reconnaissent souvent sans microscope, grâce à sa taille, à son chapeau châtain violacé et à son pied en massue, blanchâtre. Cortinarius cumatilis a un chapeau gris bleuté, une cortine semblable à une toile d'araignée et non presque membraneuse, une marge toujours lisse, pousse sous les conifères et a des spores plus petites. Cortinarius balteatus pousse aussi sous les épicéas et a des spores plus petites, et le proche Cortinarius blattoi, une autre espèce des conifères, a des spores longues de 12 μm au plus. Cortinarius varius, Cortinarius purpurascens et Cortinarius alboviolaceus ont aussi des tons violets, mais sont bien plus petits et moins massifs. Beaucoup d'autres cortinaires sont très toxiques.",
+        notes: "Rare dans presque toute son aire de répartition. Elle n'a pas été évaluée par l'UICN. La Liste rouge allemande de 2016 la classe comme quasi menacée (Near Threatened), la Liste rouge norvégienne de 2021 également comme quasi menacée (Near Threatened) et la Liste rouge tchèque de 2024 comme vulnérable (Vulnerable). Le Livre rouge de Bulgarie la mentionne comme en danger critique (Critically Endangered). Elle est menacée surtout par la disparition des forêts proches de l'état naturel et par la perturbation du sol due aux lourds engins forestiers. Lors d'essais en laboratoire, des extraits des sporophores ont inhibé les bactéries Pseudomonas aeruginosa et Staphylococcus aureus."
+      },
+      de: {
+        description: "Ein mächtiger, fleischiger Pilz mit kastanien- bis schokoladenbraunem Hut, oft mit weißlichen Hüllresten besetzt, auf einem dicken, keuligen, weißlichen Stiel mit knolliger Basis. Die Lamellen sind zuerst weißlich mit violettem Hauch und reifen zu rostbraun. Er wächst gruppenweise in warmen Laubwäldern auf kalkreichem Boden und ist selten.",
+        cap: "Der Hut misst gewöhnlich 10–20 cm und kann etwa 25–30 cm erreichen. Jung ist er fast kugelig, dann gewölbt und schließlich flach oder leicht niedergedrückt, mit einem Rand, der lange eingerollt bleibt und strahlig runzelig oder gerieft wird. Junge Hüte haben einen violetten Hauch und sind von einer weißlichen bis violettweißen, seidigen Hülle überzogen, die beim Aufschirmen zerreißt. Danach färben sie sich kastanien- bis schokoladenbraun oder weinbraun mit violettkupferfarbenem Ton und verblassen im Alter zu rostbraun. Die Oberfläche ist fein faserig und glänzend, bei Nässe leicht schmierig und trägt weißliche bis violettliche Hüllreste, die als Flecken oder kleine Schüppchen anliegen oder weiße Flocken bilden, besonders am Rand.",
+        hymenium: "Die Lamellen sind am Stiel ausgebuchtet angewachsen, dicht gedrängt, 3–8 mm breit und haben wellige bis fein gekerbte Schneiden. Jung sind sie weißlich bis hellgrau mit amethystfarbenem Hauch und zunächst hinter einer dicken weißen bis violettlichen Cortina verborgen; dann werden sie cremefarben, lehmfarben und schließlich rostbraun, wenn die Sporen reifen. Die Basidien messen etwa 30–35 × 12–13 μm. Die Lamellenschneide trägt sterile Haare von 4–6 μm Breite, die 20–40 μm vorragen, dazu degenerierte sterile Basidien von 10–11 μm Breite.",
+        stipe: "Der Stiel ist 8–15 cm lang (nach manchen Angaben bis 20–25 cm) und 2–5 cm dick, voll, keulig bis bauchig, mit einer bis etwa 7–8 cm breiten Knolle am Grund und einem umgerollten Rand an ihrer Oberseite. Jung ist er weißlich mit violettem Hauch im oberen Teil, ein bläulicher Ton scheint durch, und seine Oberfläche ist seidig faserig. Später ist er von der Cortina umhüllt, die violett bis weißlich ist, in quere, gürtelartige Bänder zerreißt und im Alter ockerfarben wird.",
+        flesh: "Das Fleisch ist dick, fest und voll, auch bei alten Fruchtkörpern. Es ist weißlich bis cremefarben, mit einem blassen blauvioletten Ton im oberen Stielteil und dort, wo der Hut ansetzt, und in der Knolle leicht ockerlich. Der Geruch ist schwach bis fehlend, der Geschmack mild.",
+        sporePrint: "Rostbraun bis ockerbraun. Die Sporen sind mandel- bis zitronenförmig, grob warzig und für die Gattung sehr groß, etwa 13–18 × 7–10 μm.",
+        habitat: "Ein Mykorrhizapilz, der am Boden wächst, in Gruppen, Reihen oder Ringen mit bis zu hundert Fruchtkörpern, in warmen, krautreichen Laubwäldern auf kalkhaltigem (basischem) Boden. Meist ist die Rotbuche der Partner, auch Eiche, Hasel, Linde, Hainbuche und im Süden die Edelkastanie kommen als Wirte in Frage; unter Nadelbäumen ist er selten. Die Fruchtkörper erscheinen von August (gelegentlich schon im Juli) bis November. Er kommt in Europa vor und reicht nach Asien, ist aber fast überall selten: In Norddeutschland fehlt er, in Mittel- und Nordeuropa ist er lückenhaft verbreitet, in der Schweiz stellenweise häufig. In Norwegen konzentriert er sich auf Linden- und Haselwälder rund um den Oslofjord und in den inneren Fjorden im Westen.",
+        uses: "Essbar und allgemein als sehr gut eingestuft, oft als bester seiner Gattung. Er wird auf Märkten in Frankreich und der Schweiz verkauft, und in Japan erzielt er hohe Preise. Dennoch raten Autoren vom Sammeln ab, weil Schleierlinge schwer sicher zu bestimmen sind und hochgiftige Verwandte einschließen, die Fruchtkörper Schwermetalle anreichern und die Art selten ist.",
+        confusion: "Er gehört zu den wenigen großen Schleierlingen, die sich oft ohne Mikroskop erkennen lassen, dank seiner Größe, seines kastanienbraun-violetten Huts und seines keuligen, weißlichen Stiels. Cortinarius cumatilis hat einen blaugrauen Hut, eine spinnwebartige statt fast häutiger Cortina und einen stets glatten Rand, wächst unter Nadelbäumen und hat kleinere Sporen. Cortinarius balteatus wächst ebenfalls unter Fichten und hat kleinere Sporen, und der verwandte Cortinarius blattoi, eine weitere Nadelwaldart, hat höchstens 12 μm lange Sporen. Cortinarius varius, Cortinarius purpurascens und Cortinarius alboviolaceus haben ebenfalls violette Töne, sind aber viel kleiner und weniger massig. Viele andere Schleierlinge sind hochgiftig.",
+        notes: "Pilz des Jahres 2010 in Deutschland. Fast im gesamten Verbreitungsgebiet selten. Er wurde von der IUCN nicht bewertet. Die deutsche Rote Liste von 2016 stuft ihn als Art der Vorwarnliste (Near Threatened) ein, die norwegische Rote Liste von 2021 ebenfalls als Art der Vorwarnliste (Near Threatened) und die tschechische Rote Liste von 2024 als gefährdet (Vulnerable). Das bulgarische Rote Buch führt ihn als vom Aussterben bedroht (Critically Endangered). Bedroht ist er vor allem durch den Rückgang naturnaher Wälder und durch Bodenstörungen durch schwere Forstmaschinen. In Laborversuchen hemmten Extrakte der Fruchtkörper die Bakterien Pseudomonas aeruginosa und Staphylococcus aureus."
+      },
+      he: {
+        description: "פטרייה גדולה ובשרנית עם כובע בגוון ערמון עד חום־שוקולד, לעיתים קרובות מנוקד בשאריות לבנבנות של הצעיף, על רגל עבה, בצורת אלה, לבנבנה, עם בסיס בצורת פקעת. הדפים לבנבנים בתחילה עם גוון סגול ומבשילים לחום־חלוד. היא גדלה בקבוצות ביערות עלים רחבים חמים על קרקע גירנית, והיא נדירה.",
+        cap: "הכובע הוא בדרך כלל ברוחב 10–20 ס״מ ויכול להגיע לכ־25–30 ס״מ. בצעירותו הוא כמעט כדורי, אחר כך קמור ולבסוף שטוח או מעט שקוע, עם שוליים שנשארים מגולגלים פנימה זמן רב ואחר כך הופכים מקומטים או חרוצים באופן קורני. כובעים צעירים בעלי גוון סגול, ומכוסים בצעיף משיי לבנבן עד לבן־סגלגל שנקרע כשהכובע נפתח. לאחר מכן הם הופכים לגוון ערמון עד חום־שוקולד או חום־יין עם גוון נחושת־סגול, ועם הגיל דוהים לחום־חלוד. פני השטח סיביים דק ומבריקים, מעט רירים במזג אוויר לח, ועליהם שאריות צעיף לבנבנות עד סגלגלות הצמודות כמו כתמים או קשקשים קטנים, או יוצרות פתיתים לבנים, במיוחד ליד השוליים.",
+        hymenium: "הדפים מחוברים לרגל בחריץ, צפופים, ברוחב 3–8 מ״מ, עם קצה גלי עד משונן דק. בצעירותם הם לבנבנים עד אפורים בהירים עם גוון אמטיסט, ובתחילה מוסתרים מאחורי קורטינה עבה לבנה עד סגלגלה; אחר כך הם הופכים לצבע שמנת, לצבע חרסית ולבסוף לחום־חלוד, ככל שהנבגים מבשילים. הבזידיות הן בגודל של כ־30–35 × 12–13 מיקרומטר. בקצה הדפים יש שערות סטריליות ברוחב 4–6 מיקרומטר הבולטות 20–40 מיקרומטר, וכן בזידיות סטריליות מנוונות ברוחב 10–11 מיקרומטר.",
+        stipe: "הרגל באורך 8–15 ס״מ (לפי תיאורים מסוימים עד 20–25 ס״מ) ובעובי 2–5 ס״מ, מלאה, בצורת אלה עד תפוחה, עם פקעת בבסיס ברוחב של עד כ־7–8 ס״מ ושפה מגולגלת בחלקה העליון. בצעירותה היא לבנבנה, עם גוון סגול בחלק העליון וגוון כחלחל שמבצבץ מבעד, ופני השטח משיים וסיביים. בהמשך היא עטופה בקורטינה, סגלגלה עד לבנבנה, הנקרעת לרצועות רוחביות דמויות חגורה והופכת לצבע אוקר עם הגיל.",
+        flesh: "הבשר עבה, מוצק ומלא, גם בגופי פרי זקנים. הוא לבנבן עד בצבע שמנת, עם גוון כחלחל־סגול חיוור בחלק העליון של הרגל ובמקום שבו הכובע מתחבר אליה, ומעט אוקר בפקעת. הריח חלש או חסר והטעם עדין.",
+        sporePrint: "אוקר־חלוד עד חום־חלוד. הנבגים בצורת שקד עד לימון, יבלתיים בגסות וגדולים מאוד לסוג, בגודל של כ־13–18 × 7–10 מיקרומטר.",
+        habitat: "פטרייה מיקוריזית החיה בשותפות עם שורשי עצים וגדלה על הקרקע, בקבוצות, בשורות או בטבעות של עד כמאה גופי פרי, ביערות עלים רחבים חמים ועשירים בעשבים על קרקע גירנית (בסיסית). השותף הרגיל הוא האשור, ומארחים יכולים להיות גם אלון, אגוז לוז, טיליה, קרפינוס ובדרום ערמון; מתחת לעצי מחט היא נדירה. גופי הפרי מופיעים מאוגוסט (לעיתים מיולי) עד נובמבר. היא מצויה באירופה ונמשכת לאסיה, אך נדירה כמעט בכל מקום: בצפון גרמניה היא חסרה, במרכז אירופה ובצפונה היא פזורה בכתמים, ובשווייץ היא נפוצה במקומות מסוימים. בנורווגיה היא מרוכזת ביערות טיליה ואגוז לוז סביב פיורד אוסלו ובפיורדים הפנימיים במערב.",
+        uses: "אכילה ומדורגת בדרך כלל כטובה מאוד, לעיתים קרובות כטובה ביותר בסוגה. היא נמכרת בשווקים בצרפת ובשווייץ, וביפן היא משיגה מחירים גבוהים. עם זאת, המחברים ממליצים לא לאסוף אותה, משום שקשה לזהות קורטינריוסים בוודאות והם כוללים קרובים רעילים מאוד, גופי הפרי צוברים מתכות כבדות, והמין נדיר.",
+        confusion: "היא אחת מהקורטינריוסים הגדולים המעטים שאפשר לעיתים קרובות לזהות בלי מיקרוסקופ, הודות לגודלה, לכובע בגוון ערמון וסגול ולרגל הלבנבנה בצורת אלה. ל־Cortinarius cumatilis יש כובע אפור־כחלחל, קורטינה דמוית קורי עכביש ולא כמעט קרומית, שוליים חלקים תמיד, והוא גדל מתחת לעצי מחט ובעל נבגים קטנים יותר. גם Cortinarius balteatus גדל מתחת לאשוחים ובעל נבגים קטנים יותר, וב־Cortinarius blattoi הקרוב, מין נוסף של יערות מחט, אורך הנבגים עד 12 מיקרומטר לכל היותר. גם ל־Cortinarius varius, ל־Cortinarius purpurascens ול־Cortinarius alboviolaceus יש גוונים סגולים, אך הם קטנים הרבה יותר ופחות מוצקים. קורטינריוסים רבים אחרים רעילים מאוד.",
+        notes: "נדירה כמעט בכל תפוצתה. לא הוערכה על ידי IUCN. הרשימה האדומה של גרמניה מ־2016 מדרגת אותה כ״כמעט מאוימת״ (Near Threatened), הרשימה האדומה של נורווגיה מ־2021 גם כ״כמעט מאוימת״ (Near Threatened), והרשימה האדומה של צ׳כיה מ־2024 כ״פגיעה״ (Vulnerable). הספר האדום של בולגריה מונה אותה כ״בסכנת הכחדה חמורה״ (Critically Endangered). האיומים העיקריים הם הצטמצמות היערות הקרובים למצבם הטבעי והפרעה לקרקע מצד מכונות יער כבדות. במבחני מעבדה, תמציות של גופי הפרי עיכבו את החיידקים Pseudomonas aeruginosa ו־Staphylococcus aureus."
+      },
+      hi: {
+        description: "एक विशाल, मांसल कुकुरमुत्ता, जिसकी टोपी शाहबलूत से चॉकलेटी भूरे रंग की होती है और अक्सर आवरण के सफ़ेदी लिए अवशेषों से चित्तीदार रहती है; यह मोटे, गदा के आकार के, सफ़ेदी लिए डंठल पर टिका होता है जिसका आधार कंद जैसा होता है। गिल्स शुरू में बैंगनी आभा के साथ सफ़ेदी लिए होती हैं और पककर जंग जैसे भूरे रंग की हो जाती हैं। यह गर्म चौड़ी पत्तियों वाले जंगलों में चूनेदार मिट्टी पर समूहों में उगता है और दुर्लभ है।",
+        cap: "टोपी आमतौर पर 10–20 सेमी चौड़ी होती है और लगभग 25–30 सेमी तक पहुँच सकती है। छोटी अवस्था में यह लगभग गोलाकार होती है, फिर उत्तल और अंत में चपटी या थोड़ी धँसी हुई, और इसका किनारा लंबे समय तक भीतर की ओर मुड़ा रहता है, फिर अरीय रूप से झुर्रीदार या खाँचेदार हो जाता है। छोटी टोपियाँ बैंगनी आभा वाली होती हैं और सफ़ेदी लिए से बैंगनी-सफ़ेद रेशमी आवरण से ढकी रहती हैं, जो टोपी के फैलने पर फट जाता है। फिर वे शाहबलूत से चॉकलेटी भूरे या वाइन जैसे भूरे रंग की हो जाती हैं, जिसमें बैंगनी-ताँबे जैसी आभा होती है, और उम्र के साथ फीकी पड़कर जंग जैसे भूरे रंग की हो जाती हैं। सतह बारीक रेशेदार और चमकदार होती है, गीले मौसम में थोड़ी चिपचिपी, और उस पर सफ़ेदी लिए से बैंगनी आवरण के अवशेष धब्बों या छोटे शल्कों के रूप में चिपके रहते हैं या सफ़ेद फुहियाँ बनाते हैं, खासकर किनारे के पास।",
+        hymenium: "गिल्स डंठल से खाँचे के साथ जुड़ी होती हैं, घनी, 3–8 मिमी चौड़ी, और किनारे लहरदार से बारीक दाँतेदार होते हैं। छोटी अवस्था में वे सफ़ेदी लिए से हल्के भूरे-स्लेटी रंग की होती हैं, जिनमें नीलम जैसी आभा होती है, और शुरू में मोटे सफ़ेद से बैंगनी रंग के कॉर्टिना (मकड़ी के जाले जैसे परदे) के पीछे छिपी रहती हैं; फिर वे क्रीम रंग की, मिट्टी जैसे रंग की और अंत में जंग जैसे भूरे रंग की हो जाती हैं, जैसे-जैसे बीजाणु पकते हैं। बेसिडिया लगभग 30–35 × 12–13 μm के होते हैं। गिल के किनारे पर 4–6 μm चौड़े बाँझ रोम होते हैं जो 20–40 μm बाहर निकले रहते हैं, और साथ में 10–11 μm चौड़े अपविकसित बाँझ बेसिडिया भी होते हैं।",
+        stipe: "डंठल 8–15 सेमी लंबा (कुछ विवरणों में 20–25 सेमी तक) और 2–5 सेमी मोटा होता है, ठोस, गदा के आकार से फूला हुआ, जिसके आधार पर लगभग 7–8 सेमी तक चौड़ा कंद होता है और उसके ऊपरी सिरे पर मुड़ा हुआ किनारा होता है। छोटी अवस्था में यह सफ़ेदी लिए होता है, ऊपर बैंगनी आभा के साथ और नीली आभा भीतर से झलकती हुई, और सतह रेशमी रेशेदार होती है। बाद में इसे कॉर्टिना लपेट लेता है, जो बैंगनी से सफ़ेदी लिए रंग का होता है, आड़ी पट्टियों में कमरबंद जैसा फट जाता है और उम्र के साथ गेरुआ हो जाता है।",
+        flesh: "गूदा मोटा, सख़्त और भरा हुआ होता है, पुराने फलनकायों में भी। यह सफ़ेदी लिए से क्रीम रंग का होता है, डंठल के ऊपरी भाग में और जहाँ टोपी उससे जुड़ती है वहाँ हल्की नीली-बैंगनी आभा के साथ, और कंद में थोड़ा गेरुआ। गंध हल्की या नहीं होती और स्वाद सौम्य होता है।",
+        sporePrint: "जंग जैसा गेरुआ से जंग जैसा भूरा। बीजाणु बादाम से नींबू के आकार के, खुरदरे मस्सेदार और इस वंश के लिए बहुत बड़े होते हैं, लगभग 13–18 × 7–10 μm के।",
+        habitat: "भूमि पर उगने वाला एक एक्टोमाइकोराइज़ल कवक, जो समूहों, पंक्तियों या घेरों में उगता है जिनमें लगभग सौ तक फलनकाय हो सकते हैं, गर्म, जड़ी-बूटियों से भरपूर चौड़ी पत्तियों वाले जंगलों में चूनेदार (क्षारीय) मिट्टी पर। सामान्य साथी बीच है, और ओक, हेज़ल, लिंडन, हॉर्नबीम और दक्षिण में चेस्टनट भी मेज़बान हो सकते हैं; शंकुधारी पेड़ों के नीचे यह दुर्लभ है। फलनकाय अगस्त (कभी-कभी जुलाई) से नवंबर तक दिखते हैं। यह यूरोप में मिलता है और एशिया तक फैला है, पर लगभग हर जगह दुर्लभ है: उत्तरी जर्मनी में यह नहीं है, मध्य और उत्तरी यूरोप में यह बिखरा हुआ मिलता है, और स्विट्ज़रलैंड में कुछ जगहों पर आम है। नॉर्वे में यह ओस्लो फ़ियॉर्ड के आसपास के लिंडन और हेज़ल जंगलों में और पश्चिम के भीतरी फ़ियॉर्डों में केंद्रित है।",
+        uses: "खाने योग्य और आम तौर पर बहुत अच्छा माना जाता है, अक्सर अपने वंश में सबसे अच्छा। यह फ़्रांस और स्विट्ज़रलैंड के बाज़ारों में बिकता है, और जापान में ऊँचे दाम पाता है। फिर भी लेखक इसे इकट्ठा करने की सलाह नहीं देते, क्योंकि कॉर्टिनेरियस वंश के कवकों को पक्का पहचानना कठिन है और उनमें अत्यंत विषैले रिश्तेदार भी हैं, फलनकाय भारी धातुएँ जमा करते हैं, और यह प्रजाति दुर्लभ है।",
+        confusion: "यह उन थोड़े-से बड़े कॉर्टिनेरियस कवकों में से है जिन्हें अक्सर सूक्ष्मदर्शी के बिना पहचाना जा सकता है, इसके आकार, शाहबलूत-बैंगनी टोपी और गदा के आकार के सफ़ेदी लिए डंठल के कारण। Cortinarius cumatilis की टोपी नीली-भूरी होती है, कॉर्टिना मकड़ी के जाले जैसा होता है, लगभग झिल्लीदार नहीं, किनारा हमेशा चिकना रहता है, यह शंकुधारी पेड़ों के नीचे उगता है और इसके बीजाणु छोटे होते हैं। Cortinarius balteatus भी स्प्रूस के नीचे उगता है और इसके बीजाणु छोटे होते हैं, और संबंधित Cortinarius blattoi, जो शंकुधारी जंगलों की एक और प्रजाति है, के बीजाणु अधिकतम 12 μm लंबे होते हैं। Cortinarius varius, Cortinarius purpurascens और Cortinarius alboviolaceus में भी बैंगनी आभा होती है, पर वे कहीं छोटे और कम भारी-भरकम हैं। कई अन्य कॉर्टिनेरियस कवक अत्यंत विषैले होते हैं।",
+        notes: "अपने लगभग पूरे वितरण क्षेत्र में दुर्लभ। IUCN ने इसका मूल्यांकन नहीं किया है। जर्मनी की 2016 की रेड लिस्ट इसे संकट के निकट (Near Threatened) श्रेणी में रखती है, नॉर्वे की 2021 की रेड लिस्ट भी इसे संकट के निकट (Near Threatened) मानती है, और चेकिया की 2024 की रेड लिस्ट इसे सुभेद्य (Vulnerable) मानती है। बुल्गारिया की रेड डेटा बुक इसे घोर संकटग्रस्त (Critically Endangered) के रूप में दर्ज करती है। मुख्य ख़तरे प्राकृतिक अवस्था के निकट जंगलों का घटना और भारी वानिकी मशीनों से मिट्टी में गड़बड़ी हैं। प्रयोगशाला परीक्षणों में फलनकायों के सत्व ने Pseudomonas aeruginosa और Staphylococcus aureus जीवाणुओं को रोका।"
+      },
+      hu: {
+        description: "Hatalmas, húsos gomba gesztenye- és csokoládébarna kalappal, amelyet gyakran fehéres burokmaradványok pettyeznek, vastag, bunkó alakú, fehéres tönkön, gumós tőrésszel. A lemezek eleinte fehéresek, ibolyás árnyalattal, majd rozsdabarnára érnek. Csoportosan nő meleg lomberdőkben meszes talajon, és ritka.",
+        cap: "A kalap általában 10–20 cm széles, és elérheti a 25–30 cm-t is. Fiatalon majdnem gömb alakú, később domború, végül lapos vagy kissé benyomott, pereme sokáig begöngyölt marad, majd sugarasan ráncos vagy barázdált lesz. A fiatal kalapok ibolyás árnyalatúak, és fehéres vagy ibolyásfehér, selymes fátyol borítja őket, amely a kalap kiterülésekor széttépődik. Ezután gesztenye- és csokoládébarnává vagy borbarnává válnak ibolyás-rézszínű árnyalattal, idősebb korban rozsdabarnára fakulnak. A felszín finoman szálas és fényes, nedves időben kissé nyálkás, rajta fehéres vagy ibolyás burokmaradványok ülnek foltok vagy apró pikkelyek alakjában, vagy fehér pelyhekként, főleg a perem közelében.",
+        hymenium: "A lemezek kivágással nőttek a tönkhöz, sűrűek, 3–8 mm szélesek, élük hullámos vagy finoman csipkézett. Fiatalon fehéresek vagy világosszürkék, ametisztes árnyalattal, és eleinte vastag, fehér vagy ibolyás pókhálós fátyol rejti őket, majd krémszínűek, agyagszínűek, végül rozsdabarnák lesznek, ahogy a spórák érnek. A bazídiumok mérete kb. 30–35 × 12–13 μm. A lemezél 4–6 μm széles steril szőröket visel, amelyek 20–40 μm-rel nyúlnak ki, továbbá 10–11 μm széles, elfajult steril bazídiumokat.",
+        stipe: "A tönk 8–15 cm hosszú (egyes leírások szerint akár 20–25 cm) és 2–5 cm vastag, tömör, bunkó alakú vagy hasas, tövén legfeljebb kb. 7–8 cm széles gumóval, amelynek felső pereme begöngyölt. Fiatalon fehéres, felül ibolyás árnyalatú, és kékes tónus dereng át rajta, felszíne selymesen szálas. Később pókhálós fátyol borítja, amely ibolyás vagy fehéres, harántirányú, övszerű sávokra szakad, és idősebb korban okkerszínűvé válik.",
+        flesh: "A hús vastag, kemény és tömör, még az idős termőtesteknél is. Fehéres vagy krémszínű, a tönk felső részén és a kalappal való találkozásánál halvány kékesibolyás árnyalatú, a gumóban kissé okkeres. Szaga gyenge vagy hiányzik, íze enyhe.",
+        sporePrint: "Rozsdaokker vagy rozsdabarna. A spórák mandula vagy citrom alakúak, durván szemölcsösek, és a nemzetséghez képest nagyon nagyok, kb. 13–18 × 7–10 μm.",
+        habitat: "Ektomikorrhizás gomba, amely a talajon nő, csoportosan, sorokban vagy gyűrűkben, amelyekben akár száz termőtest is lehet, meleg, gyomnövényekben gazdag lomberdőkben meszes (lúgos) talajon. Szokásos partnere a bükk, de gazdafa lehet a tölgy, a mogyoró, a hárs, a gyertyán és délen a szelídgesztenye is; fenyők alatt ritka. A termőtestek augusztustól (olykor júliustól) novemberig jelennek meg. Európában él és Ázsiába is átnyúlik, de szinte mindenütt ritka: Észak-Németországból hiányzik, Közép- és Észak-Európában foltokban fordul elő, Svájcban helyenként gyakori. Norvégiában az Oslo-fjord környékén lévő hárs- és mogyoróerdőkben, valamint a nyugati belső fjordokban összpontosul.",
+        uses: "Ehető, és általában nagyon jónak tartják, gyakran a nemzetség legjobbjának. Franciaországban és Svájcban piacon árulják, Japánban magas árat fizetnek érte. A szerzők mégis a gyűjtésétől óvnak, mert a pókhálósgombákat nehéz biztosan meghatározni, és köztük vannak erősen mérgező rokonok, a termőtestek nehézfémeket halmoznak fel, a faj pedig ritka.",
+        confusion: "Egyike azon kevés nagy pókhálósgombáknak, amelyeket gyakran mikroszkóp nélkül is fel lehet ismerni, mérete, gesztenye-ibolyás kalapja és bunkó alakú, fehéres tönkje alapján. A Cortinarius cumatilis kalapja kékesszürke, pókhálós fátyla pókhálószerű, nem majdnem hártyás, pereme mindig sima, fenyők alatt nő, és spórái kisebbek. A Cortinarius balteatus szintén lucfenyők alatt nő, és spórái kisebbek, a rokon Cortinarius blattoi, egy másik fenyvesi faj, spórái legfeljebb 12 μm hosszúak. A Cortinarius varius, a Cortinarius purpurascens és a Cortinarius alboviolaceus szintén ibolyás árnyalatúak, de sokkal kisebbek és kevésbé tömzsiek. Sok más pókhálósgomba erősen mérgező.",
+        notes: "Elterjedési területének szinte egészén ritka. Az IUCN nem értékelte. A 2016-os német vörös lista mérsékelten fenyegetettnek (Near Threatened) minősíti, a 2021-es norvég vörös lista szintén mérsékelten fenyegetettnek (Near Threatened), a 2024-es cseh vörös lista pedig sebezhetőnek (Vulnerable). A bolgár Vörös Könyv súlyosan veszélyeztetettként (Critically Endangered) tartja nyilván. Fő veszélyeztető tényezője a természetközeli erdők hanyatlása és a nehéz erdészeti gépek okozta talajbolygatás. Laboratóriumi vizsgálatokban a termőtestek kivonatai gátolták a Pseudomonas aeruginosa és a Staphylococcus aureus baktériumok szaporodását."
+      },
+      id: {
+        description: "Jamur besar yang berdaging tebal, dengan tudung cokelat kastanye hingga cokelat tua, sering berbintik sisa selubung keputihan, di atas tangkai tebal berbentuk gada, keputihan, dengan pangkal membulat seperti umbi. Lamela mula-mula keputihan dengan rona ungu dan menjadi cokelat karat saat matang. Tumbuh berkelompok di hutan berdaun lebar yang hangat pada tanah berkapur dan jarang ditemukan.",
+        cap: "Tudung biasanya berdiameter 10–20 cm dan dapat mencapai sekitar 25–30 cm. Saat muda hampir bulat, lalu cembung dan akhirnya datar atau sedikit cekung, dengan tepi yang lama tetap menggulung ke dalam lalu menjadi berkerut atau beralur menjari. Tudung muda berrona ungu dan tertutup selubung sutra keputihan hingga putih keunguan yang robek ketika tudung membuka. Kemudian berubah menjadi cokelat kastanye hingga cokelat tua atau cokelat anggur dengan rona tembaga keunguan, dan memudar menjadi cokelat karat seiring usia. Permukaannya berserat halus dan mengilap, agak berlendir saat cuaca basah, dan membawa sisa selubung keputihan hingga keunguan yang menempel sebagai bercak atau sisik kecil atau membentuk serpihan putih, terutama dekat tepi.",
+        hymenium: "Lamela menempel pada tangkai dengan takik, rapat, lebar 3–8 mm, dengan tepi bergelombang hingga bergerigi halus. Saat muda keputihan hingga abu-abu muda dengan rona kecubung dan mula-mula tersembunyi di balik kortina tebal berwarna putih hingga keunguan; kemudian menjadi krem, warna lempung, dan akhirnya cokelat karat, seiring spora matang. Basidia berukuran sekitar 30–35 × 12–13 μm. Tepi lamela memiliki rambut steril selebar 4–6 μm yang menonjol 20–40 μm, bersama basidia steril yang mengalami degenerasi selebar 10–11 μm.",
+        stipe: "Tangkai panjangnya 8–15 cm (menurut beberapa deskripsi hingga 20–25 cm) dan tebalnya 2–5 cm, padat, berbentuk gada hingga membuncit, dengan umbi di pangkal selebar hingga sekitar 7–8 cm dan tepi menggulung di bagian atasnya. Saat muda keputihan, dengan rona ungu di bagian atas dan warna kebiruan yang tembus terlihat, serta permukaannya berserat seperti sutra. Kemudian terbungkus kortina berwarna ungu hingga keputihan yang robek menjadi pita melintang seperti ikat pinggang dan berubah menjadi oker seiring usia.",
+        flesh: "Dagingnya tebal, padat, dan penuh, bahkan pada tubuh buah yang tua. Warnanya keputihan hingga krem, dengan rona biru keunguan pucat di bagian atas tangkai dan di tempat tudung menyatu dengannya, serta sedikit oker di umbi. Baunya lemah atau tidak ada, rasanya lembut.",
+        sporePrint: "Oker karat hingga cokelat karat. Sporanya berbentuk almon hingga lemon, berbintil kasar, dan sangat besar untuk marganya, sekitar 13–18 × 7–10 μm.",
+        habitat: "Jamur ektomikoriza yang tumbuh di tanah, berkelompok, berderet, atau membentuk lingkaran dengan hingga sekitar seratus tubuh buah, di hutan berdaun lebar yang hangat dan kaya herba pada tanah berkapur (basa). Mitra yang lazim adalah beech (Fagus), dan ek, hazel (Corylus), linden (Tilia), hornbeam (Carpinus), serta di selatan kastanye juga dapat menjadi inang; di bawah konifer jarang ditemukan. Tubuh buah muncul dari Agustus (kadang Juli) hingga November. Jamur ini terdapat di Eropa dan meluas ke Asia, tetapi jarang hampir di mana-mana: tidak ada di Jerman utara, tersebar tidak merata di Eropa tengah dan utara, dan secara lokal umum di Swiss. Di Norwegia jamur ini terpusat di hutan linden (Tilia) dan hazel (Corylus) di sekitar fjord Oslo dan di fjord pedalaman di barat.",
+        uses: "Dapat dimakan dan umumnya dinilai sangat baik, sering dianggap yang terbaik di marganya. Jamur ini dijual di pasar di Prancis dan Swiss, dan di Jepang harganya tinggi. Namun, para penulis menyarankan agar tidak memetiknya, karena jamur Cortinarius sulit dikenali dengan pasti dan mencakup kerabat yang sangat beracun, tubuh buahnya menimbun logam berat, dan spesiesnya jarang.",
+        confusion: "Jamur ini salah satu dari sedikit Cortinarius besar yang sering dapat dikenali tanpa mikroskop, berkat ukurannya, tudungnya yang cokelat kastanye keunguan, dan tangkainya yang berbentuk gada keputihan. Cortinarius cumatilis bertudung abu-abu kebiruan, kortinanya seperti sarang laba-laba dan bukan hampir seperti selaput, tepinya selalu halus, tumbuh di bawah konifer, dan sporanya lebih kecil. Cortinarius balteatus juga tumbuh di bawah spruce (Picea) dan sporanya lebih kecil, sedangkan Cortinarius blattoi yang berkerabat, jenis lain dari hutan konifer, memiliki spora sepanjang paling banyak 12 μm. Cortinarius varius, Cortinarius purpurascens, dan Cortinarius alboviolaceus juga berona ungu, tetapi jauh lebih kecil dan kurang kekar. Banyak Cortinarius lain sangat beracun.",
+        notes: "Jarang hampir di seluruh sebaran. Belum dinilai oleh IUCN. Daftar Merah Jerman tahun 2016 menggolongkannya hampir terancam (Near Threatened), Daftar Merah Norwegia tahun 2021 juga hampir terancam (Near Threatened), dan Daftar Merah Ceko tahun 2024 rentan (Vulnerable). Buku Merah Bulgaria mencantumkannya sebagai kritis (Critically Endangered). Ancaman utamanya adalah hilangnya hutan yang mendekati alami dan gangguan tanah oleh mesin kehutanan berat. Dalam uji laboratorium, ekstrak tubuh buah menghambat bakteri Pseudomonas aeruginosa dan Staphylococcus aureus."
+      },
+      it: {
+        description: "Un fungo massiccio e carnoso, con cappello da castano a bruno cioccolato, spesso punteggiato da residui biancastri del velo, su un gambo spesso, a clava, biancastro e con base bulbosa. Le lamelle sono dapprima biancastre con una sfumatura violetta e maturano fino al bruno ruggine. Cresce in gruppi nei boschi caldi di latifoglie su suolo calcareo ed è raro.",
+        cap: "Il cappello misura di solito 10–20 cm di diametro e può raggiungere circa 25–30 cm. Da giovane è quasi sferico, poi convesso e infine piano o leggermente depresso, con un margine che resta a lungo involuto e poi diventa raggiato-rugoso o solcato. I cappelli giovani hanno una sfumatura violetta e sono coperti da un velo sericeo da biancastro a bianco-violaceo, che si lacera quando il cappello si apre. Poi diventano da castano a bruno cioccolato o bruno vinoso con una tonalità rame-violacea, e con l'età sbiadiscono al bruno ruggine. La superficie è finemente fibrillosa e lucida, leggermente viscida con tempo umido, e porta residui del velo da biancastri a violacei, che restano aderenti come chiazze o piccole squame oppure formano fiocchi bianchi, soprattutto vicino al margine.",
+        hymenium: "Le lamelle sono adnate al gambo con una smarginatura, fitte, larghe 3–8 mm, con filo ondulato o finemente crenato. Da giovani sono da biancastre a grigio chiaro con una sfumatura ametista e sono dapprima nascoste da una spessa cortina bianca o violacea; poi diventano color crema, color argilla e infine bruno ruggine, man mano che le spore maturano. I basidi misurano circa 30–35 × 12–13 μm. Il filo delle lamelle porta peli sterili larghi 4–6 μm, che sporgono di 20–40 μm, insieme a basidi sterili degenerati larghi 10–11 μm.",
+        stipe: "Il gambo è lungo 8–15 cm (secondo alcune descrizioni fino a 20–25 cm) e spesso 2–5 cm, pieno, da clavato a ventricoso, con un bulbo alla base largo fino a circa 7–8 cm e un bordo rivolto in dentro alla sommità. Da giovane è biancastro, con una sfumatura violetta in alto e un riflesso azzurrognolo che traspare, e la superficie è fibrillosa e sericea. Più tardi è avvolto dalla cortina, da violacea a biancastra, che si lacera in fasce trasversali simili a cinture e diventa ocra con l'età.",
+        flesh: "La carne è spessa, soda e piena, anche negli esemplari vecchi. È da biancastra a color crema, con una pallida tonalità azzurro-violetta nella parte alta del gambo e dove il cappello vi si unisce, e leggermente ocra nel bulbo. L'odore è debole o assente e il sapore è dolce.",
+        sporePrint: "Da ocra ruggine a bruno ruggine. Le spore hanno forma da mandorla a limone, sono grossolanamente verrucose e molto grandi per il genere, di circa 13–18 × 7–10 μm.",
+        habitat: "Un fungo ectomicorrizico che cresce sul terreno, in gruppi, file o cerchi di fino a un centinaio di corpi fruttiferi, nei boschi caldi di latifoglie ricchi di erbe, su suolo calcareo (alcalino). Il partner abituale è il faggio, e possono ospitarlo anche la quercia, il nocciolo, il tiglio, il carpino e, al sud, il castagno; sotto le conifere è raro. I corpi fruttiferi compaiono da agosto (talvolta luglio) a novembre. Vive in Europa e si estende in Asia, ma è raro quasi ovunque: manca nella Germania settentrionale, è sparso nell'Europa centrale e settentrionale ed è localmente comune in Svizzera. In Norvegia è concentrato nei boschi di tiglio e nocciolo intorno al fiordo di Oslo e nei fiordi interni dell'ovest.",
+        uses: "Commestibile e generalmente giudicato molto buono, spesso il migliore del suo genere. Viene venduto nei mercati in Francia e in Svizzera, e in Giappone raggiunge prezzi elevati. Gli autori sconsigliano tuttavia di raccoglierlo, perché i cortinari sono difficili da determinare con certezza e comprendono parenti molto velenosi, i corpi fruttiferi accumulano metalli pesanti e la specie è rara.",
+        confusion: "È uno dei pochi grandi cortinari che spesso si riconoscono senza microscopio, grazie alle dimensioni, al cappello castano-violaceo e al gambo a clava, biancastro. Cortinarius cumatilis ha un cappello grigio-azzurro, una cortina simile a una ragnatela e non quasi membranosa, un margine sempre liscio, cresce sotto le conifere e ha spore più piccole. Cortinarius balteatus cresce anch'esso sotto gli abeti rossi e ha spore più piccole, e l'affine Cortinarius blattoi, un'altra specie delle conifere, ha spore lunghe al massimo 12 μm. Cortinarius varius, Cortinarius purpurascens e Cortinarius alboviolaceus hanno anch'essi toni violetti, ma sono molto più piccoli e meno massicci. Molti altri cortinari sono molto velenosi.",
+        notes: "Raro in quasi tutto il suo areale. Non è stato valutato dalla IUCN. La Lista Rossa tedesca del 2016 lo classifica come quasi minacciato (Near Threatened), la Lista Rossa norvegese del 2021 pure come quasi minacciato (Near Threatened) e la Lista Rossa ceca del 2024 come vulnerabile (Vulnerable). Il Libro Rosso della Bulgaria lo elenca come in pericolo critico (Critically Endangered). È minacciato soprattutto dalla perdita di boschi quasi naturali e dal disturbo del suolo causato dai pesanti macchinari forestali. In prove di laboratorio, estratti dei corpi fruttiferi hanno inibito i batteri Pseudomonas aeruginosa e Staphylococcus aureus."
+      },
+      ja: {
+        description: "栗色からチョコレート褐色の傘をもつ大型で肉厚のきのこで、傘にはしばしば白っぽい被膜の名残が散らばり、太い棍棒形の白っぽい柄は基部が球根状にふくらみます。ひだは最初は紫がかった白っぽい色で、熟すとさび褐色になります。暖かい広葉樹林の石灰質の土壌に群生し、まれです。",
+        cap: "傘はふつう直径10–20 cmで、約25–30 cmに達することもあります。若いときはほぼ球形で、のちに丸山形になり、最後は平らかわずかにくぼみ、縁は長く内側に巻いたままで、のちに放射状のしわや溝ができます。若い傘は紫色を帯び、白っぽいものから紫がかった白色の絹のような被膜におおわれ、この被膜は傘が開くときに裂けます。その後、栗色からチョコレート褐色またはワイン褐色になり、紫がかった銅色の色合いを帯び、年をとるとさび褐色に褪せます。表面は細かい繊維状でつやがあり、雨の日はわずかにぬめりがあり、白っぽいものから紫がかった被膜の名残が、斑や小さな鱗片として張りつくか、とくに縁の近くで白いふわふわした断片になります。",
+        hymenium: "ひだは柄に湾生し、密で、幅3–8 mm、縁は波状から細かい鋸歯状です。若いときは白っぽいものから淡灰色で、アメジスト色を帯び、最初は厚い白色から紫がかったクモの巣状の被膜（コルチナ）の後ろに隠れており、胞子が熟すにつれてクリーム色、粘土色、最後にさび褐色になります。担子器は約30–35 × 12–13 μmです。ひだの縁には幅4–6 μmの不稔の毛があり、20–40 μm突き出ていて、幅10–11 μmの退化した不稔の担子器もあります。",
+        stipe: "柄は長さ8–15 cm（記載によっては20–25 cmまで）、太さ2–5 cmで、中実、棍棒形から膨らんだ形で、基部には幅約7–8 cmまでの球根があり、その上端は巻いた縁になっています。若いときは白っぽく、上部は紫色を帯び、青みがかった色が透けて見え、表面は絹のような繊維状です。のちにコルチナにおおわれ、これは紫色から白っぽい色で、横向きの帯状に裂けて、年をとると黄土色になります。",
+        flesh: "肉は厚くて硬く、中身が詰まっており、古い子実体でも同じです。白っぽい色からクリーム色で、柄の上部と傘がつながる部分は淡い青紫色を帯び、球根部ではわずかに黄土色です。においは弱いかなく、味はおだやかです。",
+        sporePrint: "さび黄土色からさび褐色です。胞子はアーモンド形からレモン形で、粗いいぼがあり、この属としてはとても大きく、約13–18 × 7–10 μmです。",
+        habitat: "地面に生える外生菌根菌で、最大100個ほどの子実体が群れ、列、輪になって生え、暖かくて草本の豊かな広葉樹林の石灰質（アルカリ性）の土壌に見られます。ふつうの共生相手はブナで、ナラ類、ハシバミ類、シナノキ類、クマシデ類、南部ではクリも宿主になり、針葉樹の下にはまれです。子実体は8月（ときに7月）から11月に出ます。ヨーロッパに分布してアジアにも及びますが、ほとんどどこでも稀で、ドイツ北部には見られず、中部・北部ヨーロッパでは点在し、スイスでは地域によってふつうです。ノルウェーでは、オスロフィヨルド周辺のシナノキとハシバミの林と西部の内陸のフィヨルドに集中しています。",
+        uses: "食用になり、一般に非常においしいとされ、この属で最良とされることもよくあります。フランスとスイスの市場で売られ、日本では高値で取引されます。それでも、フウセンタケ類は確実に同定するのが難しく、猛毒の近縁種が含まれ、子実体は重金属を蓄積し、種そのものも稀であることから、著者たちは採取しないよう勧めています。",
+        confusion: "大きさ、栗色と紫がかった傘、棍棒形で白っぽい柄のおかげで、顕微鏡なしでも見分けられることが多い、数少ない大型のフウセンタケ類のひとつです。Cortinarius cumatilis は傘が青みがかった灰色で、コルチナは膜状に近くなくクモの巣状で、縁は常に滑らかで、針葉樹の下に生え、胞子は小さいです。Cortinarius balteatus もトウヒの下に生え、胞子は小さく、近縁の Cortinarius blattoi は別の針葉樹林の種で、胞子の長さは最大12 μmです。Cortinarius varius、Cortinarius purpurascens、Cortinarius alboviolaceus も紫色を帯びますが、はるかに小さく、がっしりしていません。ほかにも多くのフウセンタケ類が猛毒です。",
+        notes: "分布域のほとんどで稀です。IUCNでは評価されていません。ドイツの2016年のレッドリストでは準絶滅危惧（Near Threatened）、ノルウェーの2021年のレッドリストでも準絶滅危惧（Near Threatened）、チェコの2024年のレッドリストでは危急（Vulnerable）とされています。ブルガリアのレッドデータブックでは近絶滅（Critically Endangered）として掲載されています。おもな脅威は自然に近い森林の減少と、重い林業機械による土壌の攪乱です。実験室での試験では、子実体の抽出物がPseudomonas aeruginosaとStaphylococcus aureusの細菌を抑えました。"
+      },
+      ko: {
+        description: "밤색에서 초콜릿 갈색의 갓을 가진 크고 살이 두꺼운 버섯으로, 갓에는 흔히 희끄무레한 외피막 조각이 흩어져 있고, 굵은 곤봉 모양의 희끄무레한 대는 밑동이 구근처럼 부풀어 있습니다. 주름살은 처음에는 보랏빛 도는 희끄무레한 색이고 익으면 녹슨 갈색이 됩니다. 따뜻한 활엽수림의 석회질 토양에 무리 지어 자라며 드뭅니다.",
+        cap: "갓은 보통 지름 10–20 cm이고 약 25–30 cm까지 자랄 수 있습니다. 어릴 때는 거의 공 모양이고 이후 볼록해졌다가 마지막에는 편평하거나 약간 오목해지며, 가장자리는 오랫동안 안쪽으로 말려 있다가 나중에 방사상으로 주름지거나 고랑이 생깁니다. 어린 갓은 보랏빛을 띠고 희끄무레한 색에서 보랏빛 도는 흰색의 비단 같은 외피막으로 덮여 있으며, 이 막은 갓이 펴질 때 찢어집니다. 이후 밤색에서 초콜릿 갈색 또는 포도주 갈색이 되고 보랏빛 도는 구릿빛을 띠며, 나이가 들면 녹슨 갈색으로 바랩니다. 표면은 곱게 섬유질이고 윤기가 있으며, 비 오는 날에는 약간 끈적이고, 희끄무레한 색에서 보랏빛 도는 외피막 조각이 얼룩이나 작은 비늘로 달라붙어 있거나 특히 가장자리 가까이에서 흰 솜털 조각을 이룹니다.",
+        hymenium: "주름살은 대에 홈이 파인 채 붙고 촘촘하며 너비는 3–8 mm이고, 가장자리는 물결 모양에서 곱게 톱니 모양입니다. 어릴 때는 희끄무레한 색에서 연회색이고 자수정색을 띠며, 처음에는 두꺼운 흰색에서 보랏빛 도는 거미줄 모양의 막(코르티나) 뒤에 숨어 있다가, 포자가 익으면서 크림색, 점토색, 마지막에는 녹슨 갈색이 됩니다. 담자기는 약 30–35 × 12–13 μm입니다. 주름살 가장자리에는 너비 4–6 μm의 불임 털이 20–40 μm 튀어나와 있고, 너비 10–11 μm의 퇴화한 불임 담자기도 있습니다.",
+        stipe: "대는 길이 8–15 cm(기록에 따라 20–25 cm까지), 굵기 2–5 cm이고, 속이 차 있으며 곤봉 모양에서 불룩한 모양이고, 밑동에는 너비 약 7–8 cm까지의 구근이 있으며 그 위쪽 끝은 말린 가장자리입니다. 어릴 때는 희끄무레하고 윗부분은 보랏빛을 띠며 푸르스름한 색이 비쳐 보이고, 표면은 비단 같은 섬유질입니다. 나중에는 코르티나로 감싸이는데, 이 막은 보라색에서 희끄무레한 색이며 가로 띠 모양으로 찢어지고 나이가 들면 황토색이 됩니다.",
+        flesh: "살은 두껍고 단단하며 속이 꽉 차 있고, 오래된 자실체에서도 마찬가지입니다. 희끄무레한 색에서 크림색이며, 대의 윗부분과 갓이 이어지는 곳은 옅은 푸른빛 도는 보라색을 띠고 구근 부분은 약간 황토색입니다. 냄새는 약하거나 없고 맛은 순합니다.",
+        sporePrint: "녹슨 황토색에서 녹슨 갈색입니다. 포자는 아몬드 모양에서 레몬 모양이고 거친 사마귀 돌기가 있으며, 이 속에서는 매우 큰 편으로 약 13–18 × 7–10 μm입니다.",
+        habitat: "땅에서 자라는 외생균근균으로, 최대 100개 정도의 자실체가 무리, 줄, 고리를 이루어 나며, 따뜻하고 풀이 풍부한 활엽수림의 석회질(알칼리성) 토양에서 볼 수 있습니다. 보통의 공생 상대는 너도밤나무이고, 참나무, 개암나무, 피나무, 서어나무, 남부에서는 밤나무도 숙주가 될 수 있으며, 침엽수 아래에서는 드뭅니다. 자실체는 8월(가끔 7월)부터 11월에 나타납니다. 유럽에 분포하고 아시아까지 이어지지만 거의 어디서나 드물며, 독일 북부에는 없고, 중부와 북부 유럽에서는 드문드문 분포하며, 스위스에서는 지역에 따라 흔합니다. 노르웨이에서는 오슬로 피오르 주변의 피나무와 개암나무 숲, 그리고 서부의 내륙 피오르에 집중되어 있습니다.",
+        uses: "식용이며 일반적으로 매우 맛이 좋다고 평가되고, 흔히 이 속에서 가장 좋다고 합니다. 프랑스와 스위스의 시장에서 팔리고, 일본에서는 높은 값을 받습니다. 그래도 저자들은 채취하지 말라고 권하는데, Cortinarius속 버섯은 확실하게 동정하기 어렵고 맹독성인 근연종이 포함되어 있으며, 자실체가 중금속을 축적하고, 이 종 자체가 드물기 때문입니다.",
+        confusion: "크기, 밤색과 보라색의 갓, 곤봉 모양의 희끄무레한 대 덕분에 현미경 없이도 알아볼 수 있는 경우가 많은 몇 안 되는 큰 Cortinarius속 버섯 가운데 하나입니다. Cortinarius cumatilis는 갓이 푸르스름한 회색이고, 코르티나는 막질에 가깝지 않고 거미줄 같으며, 가장자리는 늘 매끈하고, 침엽수 아래에서 자라며, 포자가 더 작습니다. Cortinarius balteatus도 가문비나무 아래에서 자라며 포자가 더 작고, 근연종인 Cortinarius blattoi는 다른 침엽수림 종으로 포자의 길이가 최대 12 μm입니다. Cortinarius varius, Cortinarius purpurascens, Cortinarius alboviolaceus도 보랏빛을 띠지만 훨씬 작고 덜 단단합니다. 그 밖의 많은 Cortinarius속 버섯이 맹독성입니다.",
+        notes: "분포 지역 거의 전역에서 드뭅니다. IUCN은 평가하지 않았습니다. 독일의 2016년 적색목록은 준위협(Near Threatened)으로, 노르웨이의 2021년 적색목록도 준위협(Near Threatened)으로, 체코의 2024년 적색목록은 취약(Vulnerable)으로 분류합니다. 불가리아 적색자료집은 위급(Critically Endangered)으로 올려 두었습니다. 주된 위협은 자연에 가까운 숲의 감소와 중장비 임업 기계에 의한 토양 교란입니다. 실험실 시험에서 자실체 추출물은 Pseudomonas aeruginosa와 Staphylococcus aureus 세균을 억제했습니다."
+      },
+      lv: {
+        description: "Liela, gaļīga sēne ar kastaņbrūnu līdz šokolādbrūnu cepurīti, bieži ar baltganiem plīvura atliekām, uz resna, vāļveida, baltgana kātiņa ar bumbuļveida pamatni. Lapiņas sākumā ir baltganas ar violetu nokrāsu un nogatavojas rūsganbrūnas. Aug grupās siltos lapkoku mežos kaļķainā augsnē un ir reta.",
+        cap: "Cepurīte parasti ir 10–20 cm plata un var sasniegt aptuveni 25–30 cm. Jauna tā ir gandrīz lodveida, tad izliekta un beidzot plakana vai nedaudz iedobta, ar malu, kas ilgi paliek ieritināta un vēlāk kļūst radiāli grumbaina vai rievota. Jaunām cepurītēm ir violeta nokrāsa, un tās klāj baltgans līdz violetbalts zīdains plīvurs, kas plīst, kad cepurīte atveras. Pēc tam tās kļūst kastaņbrūnas līdz šokolādbrūnas vai vīnbrūnas ar violetu vara nokrāsu un ar vecumu izbalo līdz rūsganbrūnām. Virsma ir smalki šķiedraina un spīdīga, mitrā laikā nedaudz gļotaina, un uz tās atrodas baltgani līdz violetgani plīvura palieku plankumi vai sīkas zvīņas, vai arī tie veido baltas pārslas, īpaši pie malas.",
+        hymenium: "Lapiņas pie kātiņa ir piekļāvušās ar izgriezumu, biezas, 3–8 mm platas, ar viļņainām līdz smalki robainām šķautnēm. Jaunas tās ir baltganas līdz gaišpelēkas ar ametistkrāsas nokrāsu un sākumā paslēptas aiz bieza balta līdz violetgana tīmekļveida plīvura, pēc tam kļūst krēmkrāsas, māla krāsas un beidzot rūsganbrūnas, sporām nogatavojoties. Bazīdiji ir aptuveni 30–35 × 12–13 μm lieli. Lapiņu šķautnē ir sterili mataini 4–6 μm platumā, kas izvirzās 20–40 μm, kā arī deģenerēti sterili bazīdiji 10–11 μm platumā.",
+        stipe: "Kātiņš ir 8–15 cm garš (pēc dažiem aprakstiem līdz 20–25 cm) un 2–5 cm resns, pilns, vāļveida līdz vēderains, ar pamatnē esošu bumbuli līdz aptuveni 7–8 cm platumā un ieritinātu malu tā augšdaļā. Jaunam tas ir baltgans ar violetu nokrāsu augšpusē, un cauri spīd zilgana nokrāsa, virsma zīdaini šķiedraina. Vēlāk to ietin tīmekļveida plīvurs, kas ir violets līdz baltgans, saplīst šķērsvirziena jostveida joslās un ar vecumu kļūst okerains.",
+        flesh: "Mīkstums ir biezs, ciets un pilns, arī vecos augļķermeņos. Tas ir baltgans līdz krēmkrāsas, kātiņa augšdaļā un vietā, kur pie tā savienojas cepurīte, ar vāju zilganvioletu nokrāsu, bumbulī nedaudz okerains. Smarža ir vāja vai tās nav, garša maiga.",
+        sporePrint: "Rūsgani okera līdz rūsganbrūns. Sporas ir mandeļveida līdz citronveida, rupji kārpainas un ģintij ļoti lielas, aptuveni 13–18 × 7–10 μm.",
+        habitat: "Ektomikorizas sēne, kas aug uz zemes, grupās, rindās vai riņķos ar līdz simtam augļķermeņu, siltos, zālēm bagātos lapu koku mežos kaļķainā (sārmainā) augsnē. Parastais partneris ir dižskābardis, bet saimniekkoki var būt arī ozols, lazda, liepa, skābardis un dienvidos īstā kastaņa; zem skujkokiem tā ir reta. Augļķermeņi parādās no augusta (reizēm jūlija) līdz novembrim. Tā sastopama Eiropā un sniedzas Āzijā, bet gandrīz visur ir reta: Vācijas ziemeļos tās nav, Centrāleiropā un Ziemeļeiropā tā sastopama izkaisīti, bet Šveicē vietām ir bieža. Norvēģijā tā koncentrējas liepu un lazdu mežos ap Oslo fjordu un rietumu iekšzemes fjordos.",
+        uses: "Ēdama un parasti vērtēta kā ļoti laba, bieži kā labākā savā ģintī. Tirgos Francijā un Šveicē to pārdod, bet Japānā par to maksā augstu cenu. Tomēr autori iesaka to nelasīt, jo Cortinarius ģints sēnes ir grūti droši noteikt un to vidū ir ļoti indīgi radinieki, augļķermeņi uzkrāj smagos metālus, un suga ir reta.",
+        confusion: "Tā ir viena no retajām lielajām tīmeklenēm, ko bieži var atpazīt bez mikroskopa, pateicoties izmēram, kastaņbrūni violetajai cepurītei un vāļveida baltganajam kātiņam. Cortinarius cumatilis cepurīte ir zilganpelēka, tīmekļveida plīvurs ir zirnekļtīkla veida, nevis gandrīz plēvveida, mala vienmēr ir gluda, tā aug zem skujkokiem un tās sporas ir mazākas. Cortinarius balteatus aug arī zem eglēm, un tās sporas ir mazākas, bet radnieciskajai sugai Cortinarius blattoi, kas ir vēl viena skujkoku mežu suga, sporas ir ne garākas par 12 μm. Cortinarius varius, Cortinarius purpurascens un Cortinarius alboviolaceus arī ir violetos toņos, bet ir daudz mazākas un mazāk masīvas. Daudzas citas tīmeklenes ir ļoti indīgas.",
+        notes: "Reta gandrīz visā izplatības areālā. IUCN to nav novērtējusi. Vācijas 2016. gada sarkanajā sarakstā tā ir klasificēta kā gandrīz apdraudēta suga (Near Threatened), Norvēģijas 2021. gada sarkanajā sarakstā arī kā gandrīz apdraudēta (Near Threatened), bet Čehijas 2024. gada sarkanajā sarakstā kā neaizsargāta suga (Vulnerable). Bulgārijas Sarkanā grāmata to min kā kritiski apdraudētu sugu (Critically Endangered). To apdraud galvenokārt dabai tuvu mežu izzušana un augsnes bojāšana ar smagajām meža tehnikas iekārtām. Laboratorijas testos augļķermeņu ekstrakti kavēja baktēriju Pseudomonas aeruginosa un Staphylococcus aureus augšanu."
+      },
+      lt: {
+        description: "Stambus, mėsingas grybas su kaštoniškai rudos iki šokoladiškai rudos spalvos kepurėle, dažnai su balsvais dangalo likučiais, ant storos, lazdos formos, balsvos kojelės su gumbuota apačia. Lakšteliai iš pradžių balsvi su violetiniu atspalviu, vėliau išauga rūdžiai rudi. Auga grupėmis šiltuose lapuočių miškuose kalkingose dirvose ir yra retas.",
+        cap: "Kepurėlė paprastai 10–20 cm skersmens ir gali siekti apie 25–30 cm. Jauna ji beveik rutuliška, vėliau išgaubta ir galiausiai plokščia arba šiek tiek įdubusi, jos kraštas ilgai lieka palenktas, o vėliau tampa spinduliškai raukšlėtas arba vagotas. Jaunos kepurėlės violetinio atspalvio, jas dengia balsvas iki violetiškai balto šilkinis dangalas, kuris plyšta kepurėlei išsiskleidus. Vėliau jos tampa kaštoniškai rudos iki šokoladiškai rudos arba vyniškai rudos su violetiniu vario atspalviu, o senstant išblunka iki rūdžiai rudos. Paviršius smulkiai plaušuotas ir blizgus, drėgnu oru šiek tiek gleivėtas, jame yra balsvų iki violetiškų dangalo likučių, prigludusių kaip dėmės ar mažos žvynelės arba sudarančių baltus dribsnius, ypač prie krašto.",
+        hymenium: "Lakšteliai prie kojelės priaugę su įpjova, tankūs, 3–8 mm pločio, su banguotais iki smulkiai dantytų ašmenų. Jauni jie balsvi iki šviesiai pilkų su ametistiniu atspalviu ir iš pradžių paslėpti už storo balto iki violetiško voratinklinio dangalo, vėliau tampa kreminiai, moliniai ir galiausiai rūdžiai rudi, kai subręsta sporos. Bazidės yra maždaug 30–35 × 12–13 μm dydžio. Lakštelių ašmenyse yra 4–6 μm pločio sterilių plaukelių, kurie kyšo 20–40 μm, taip pat degeneravusių sterilių bazidžių, 10–11 μm pločio.",
+        stipe: "Kojelė 8–15 cm ilgio (pagal kai kuriuos aprašymus iki 20–25 cm) ir 2–5 cm storio, kieta, lazdos formos iki pilvuotos, apačioje su gumbu iki maždaug 7–8 cm pločio ir palenktu kraštu jo viršuje. Jauna ji balsva, viršuje su violetiniu atspalviu, pro ją prasišviečia melsvas tonas, paviršius šilkiškai plaušuotas. Vėliau ją apgaubia voratinklinis dangalas, violetinis iki balsvo, jis plyšta į skersines juostos pavidalo juosteles ir senstant tampa ochros spalvos.",
+        flesh: "Trama stora, kieta ir pilna, net senuose vaisiakūniuose. Ji balsva iki kreminės, kojelės viršuje ir ten, kur prie jos jungiasi kepurėlė, su blyškiu melsvai violetiniu atspalviu, gumbe šiek tiek ochrinė. Kvapas silpnas arba jo nėra, skonis švelnus.",
+        sporePrint: "Rūdžiai ochrinis iki rūdžiai rudo. Sporos migdolo iki citrinos formos, šiurkščiai karpytos ir genčiai labai stambios, maždaug 13–18 × 7–10 μm.",
+        habitat: "Ektomikorizinis grybas, augantis ant žemės, grupėmis, eilėmis ar ratais, kuriuose gali būti iki šimto vaisiakūnių, šiltuose, žolėmis turtinguose lapuočių miškuose kalkingoje (šarminėje) dirvoje. Įprastas partneris yra bukas, šeimininkais gali būti ir ąžuolas, lazdynas, liepa, skroblas, o pietuose valgomasis kaštonas; po spygliuočiais jis retas. Vaisiakūniai pasirodo nuo rugpjūčio (kartais nuo liepos) iki lapkričio. Jis randamas Europoje ir siekia Aziją, bet beveik visur yra retas: šiaurės Vokietijoje jo nėra, vidurio ir šiaurės Europoje jis paplitęs dėmėmis, o Šveicarijoje vietomis yra dažnas. Norvegijoje jis susitelkęs liepų ir lazdynų miškuose aplink Oslo fjordą ir vidiniuose vakarų fjorduose.",
+        uses: "Valgomas ir paprastai vertinamas kaip labai geras, dažnai kaip geriausias savo genties. Jis parduodamas turguose Prancūzijoje ir Šveicarijoje, o Japonijoje už jį mokama aukšta kaina. Vis dėlto autoriai nerekomenduoja jo rinkti, nes nuosėdžius sunku tiksliai nustatyti ir tarp jų yra labai nuodingų giminaičių, vaisiakūniai kaupia sunkiuosius metalus, o rūšis yra reta.",
+        confusion: "Tai vienas iš nedaugelio stambių nuosėdžių, kuriuos dažnai galima atpažinti be mikroskopo dėl dydžio, kaštoniškai violetinės kepurėlės ir lazdos formos balsvos kojelės. Cortinarius cumatilis kepurėlė melsvai pilka, dangalas voratinklinis, o ne beveik plėvinis, kraštas visada lygus, jis auga po spygliuočiais ir turi smulkesnes sporas. Cortinarius balteatus taip pat auga po eglėmis ir turi smulkesnes sporas, o giminingos rūšies Cortinarius blattoi, dar vienos spygliuočių miškų rūšies, sporos ne ilgesnės kaip 12 μm. Cortinarius varius, Cortinarius purpurascens ir Cortinarius alboviolaceus taip pat turi violetinių atspalvių, bet yra daug mažesni ir ne tokie masyvūs. Daug kitų nuosėdžių yra labai nuodingi.",
+        notes: "Reta beveik visame paplitimo areale. IUCN jos neįvertino. 2016 m. Vokietijos raudonasis sąrašas ją priskiria beveik nykstančioms rūšims (Near Threatened), 2021 m. Norvegijos raudonasis sąrašas taip pat beveik nykstančioms (Near Threatened), o 2024 m. Čekijos raudonasis sąrašas pažeidžiamoms (Vulnerable). Bulgarijos raudonoji knyga ją nurodo kaip kritiškai nykstančią rūšį (Critically Endangered). Jai grėsmę kelia daugiausia gamtai artimų miškų nykimas ir dirvos ardymas sunkiąja miškų technika. Laboratoriniuose bandymuose vaisiakūnių ekstraktai slopino bakterijų Pseudomonas aeruginosa ir Staphylococcus aureus augimą."
+      },
+      no: {
+        description: "En kraftig, kjøttfull sopp med kastanje- til sjokoladebrun hatt, ofte med hvitaktige slørrester, på en tykk, kølleformet, hvitaktig stilk med knollformet base. Skivene er først hvitaktige med et fiolett skjær og modnes til rustbrune. Den vokser i grupper i varm løvskog på kalkrik grunn og er sjelden.",
+        cap: "Hatten er vanligvis 10–20 cm bred og kan nå omtrent 25–30 cm. Som ung er den nesten kuleformet, deretter hvelvet og til slutt flat eller svakt nedtrykt, med en kant som lenge forblir innrullet og senere blir radiært rynket eller furet. Unge hatter har et fiolett skjær og er dekket av et hvitaktig til fiolett-hvitt, silkeaktig slør som revner når hatten brer seg ut. Deretter blir de kastanje- til sjokoladebrune eller vinbrune med en fiolett kobberaktig tone, og de blekner med alderen til rustbrune. Overflaten er fint trevlet og blank, svakt slimete i vått vær, og den har hvitaktige til fiolettaktige slørrester som ligger an som flekker eller små skjell eller danner hvite flak, særlig nær kanten.",
+        hymenium: "Skivene er tilvokst til stilken med en bukt, tettstilte, 3–8 mm brede, med bølgete til fint tagget egg. Som unge er de hvitaktige til lysegrå med et ametystfarget skjær og først skjult bak et tykt hvitt til fiolettaktig slør; deretter blir de kremfargede, leirfargede og til slutt rustbrune etter hvert som sporene modnes. Basidiene måler omtrent 30–35 × 12–13 μm. Skiveeggen har sterile hår, 4–6 μm brede, som stikker 20–40 μm fram, sammen med degenererte sterile basidier, 10–11 μm brede.",
+        stipe: "Stilken er 8–15 cm lang (etter noen beskrivelser opptil 20–25 cm) og 2–5 cm tykk, massiv, kølleformet til oppsvulmet, med en knoll ved basen på opptil omtrent 7–8 cm i bredden og en innrullet kant øverst på den. Som ung er den hvitaktig med et fiolett skjær øverst og en blålig tone som skinner gjennom, og overflaten er silkeaktig trevlet. Senere er den omsluttet av slørtråder som er fiolette til hvitaktige, brytes opp i tverrgående beltelignende bånd og blir okerfarget med alderen.",
+        flesh: "Kjøttet er tykt, fast og massivt, også hos gamle fruktlegemer. Det er hvitaktig til kremfarget, med en blek blåfiolett tone øverst i stilken og der hatten fester seg, og svakt okerfarget i knollen. Lukten er svak eller fraværende, og smaken er mild.",
+        sporePrint: "Rustokker til rustbrun. Sporene er mandel- til sitronformede, grovt vortete og svært store for slekten, omtrent 13–18 × 7–10 μm.",
+        habitat: "En ektomykorrhizasopp som vokser på bakken, i grupper, rekker eller ringer med opptil omtrent hundre fruktlegemer, i varm, urterik løvskog på kalkrik (basisk) jord. Bøk er den vanlige partneren, og eik, hassel, lind, agnbøk og i sør edelkastanje kan også være verter; under bartrær er den sjelden. Fruktlegemene kommer fram fra august (unntaksvis juli) til november. Den finnes i Europa og inn i Asia, men er nesten overalt sjelden: I Nord-Tyskland mangler den, i Mellom- og Nord-Europa forekommer den spredt, og i Sveits er den lokalt vanlig. I Norge er den konsentrert i lind- og hasselskog rundt Oslofjorden og i de indre fjordene på Vestlandet.",
+        uses: "Spiselig og alminnelig vurdert som meget god, ofte som den beste i slekten. Den selges på markeder i Frankrike og Sveits, og i Japan oppnår den høye priser. Forfattere fraråder likevel å sanke den, fordi slørsopper er vanskelige å bestemme sikkert og omfatter sterkt giftige slektninger, fruktlegemene opphoper tungmetaller, og arten er sjelden.",
+        confusion: "Den er en av de få store slørsoppene som ofte kan gjenkjennes uten mikroskop, takket være størrelsen, den kastanje-fiolette hatten og den kølleformede, hvitaktige stilken. Cortinarius cumatilis har blågrå hatt, et edderkoppspinnaktig i stedet for nesten hinneaktig slør og en alltid glatt kant, vokser under bartrær og har mindre sporer. Cortinarius balteatus vokser også under gran og har mindre sporer, og den beslektede Cortinarius blattoi, en annen art fra barskog, har sporer på høyst 12 μm i lengde. Cortinarius varius, Cortinarius purpurascens og Cortinarius alboviolaceus har også fiolette toner, men er mye mindre og mindre kraftige. Mange andre slørsopper er sterkt giftige.",
+        notes: "Sjelden nesten i hele utbredelsesområdet. Den er ikke vurdert av IUCN. Den tyske rødlisten fra 2016 plasserer den som nær truet (Near Threatened), den norske rødlisten fra 2021 likeledes som nær truet (Near Threatened), og den tsjekkiske rødlisten fra 2024 som sårbar (Vulnerable). Bulgarias røde bok fører den som kritisk truet (Critically Endangered). Den trues særlig av tap av naturnær skog og av jordforstyrrelse fra tunge skogsmaskiner. I laboratorieforsøk hemmet ekstrakter av fruktlegemene bakteriene Pseudomonas aeruginosa og Staphylococcus aureus."
+      },
+      fa: {
+        description: "قارچی درشت و گوشتی با کلاهکی به رنگ شاه‌بلوطی تا قهوه‌ای شکلاتی که اغلب با بقایای سفیدفام پرده خالدار شده است، روی ساقه‌ای ضخیم، گرزی‌شکل و سفیدفام با قاعده‌ای غده‌مانند. تیغه‌ها در آغاز سفیدفام با ته‌رنگ بنفش‌اند و با رسیدن به قهوه‌ای زنگاری می‌گرایند. در گروه‌ها در جنگل‌های گرم پهن‌برگ روی خاک آهکی می‌روید و کمیاب است.",
+        cap: "کلاهک معمولاً ۱۰ تا ۲۰ سانتی‌متر پهنا دارد و می‌تواند به حدود ۲۵ تا ۳۰ سانتی‌متر برسد. در جوانی تقریباً کروی است، سپس محدب و سرانجام مسطح یا اندکی فرورفته می‌شود و لبه‌اش مدتی طولانی به درون برگشته می‌ماند و بعدها شعاعی چین‌دار یا شیاردار می‌شود. کلاهک‌های جوان ته‌رنگ بنفش دارند و پرده‌ای ابریشمی به رنگ سفیدفام تا سفید بنفش‌گون آن‌ها را می‌پوشاند که هنگام باز شدن کلاهک پاره می‌شود. سپس به رنگ شاه‌بلوطی تا قهوه‌ای شکلاتی یا قهوه‌ای شرابی با ته‌رنگ مسی بنفش درمی‌آیند و با افزایش سن به قهوه‌ای زنگاری رنگ می‌بازند. سطح آن ریزرشته‌ای و براق است، در هوای مرطوب اندکی لزج می‌شود و بقایای سفیدفام تا بنفش‌گون پرده به شکل لکه یا فلس‌های ریز روی آن چسبیده‌اند یا پولک‌های سفید می‌سازند، به‌ویژه نزدیک لبه.",
+        hymenium: "تیغه‌ها با فرورفتگی به ساقه چسبیده‌اند، متراکم‌اند، ۳ تا ۸ میلی‌متر پهنا دارند و لبه‌شان موجی تا ریزدندانه‌ای است. در جوانی سفیدفام تا خاکستری روشن با ته‌رنگ ارغوانی‌اند و در آغاز پشت کورتینایی ضخیم و سفید تا بنفش‌گون پنهان می‌مانند؛ سپس کرمی، به رنگ خاک رس و سرانجام قهوه‌ای زنگاری می‌شوند، با رسیدن هاگ‌ها. بازیدی‌ها حدود ۳۰ تا ۳۵ × ۱۲ تا ۱۳ میکرومتر هستند. لبهٔ تیغه‌ها موهای عقیمی به پهنای ۴ تا ۶ میکرومتر دارد که ۲۰ تا ۴۰ میکرومتر بیرون زده‌اند، و همچنین بازیدی‌های عقیم تحلیل‌رفته‌ای به پهنای ۱۰ تا ۱۱ میکرومتر.",
+        stipe: "ساقه ۸ تا ۱۵ سانتی‌متر طول (بنا بر برخی توصیف‌ها تا ۲۰ تا ۲۵ سانتی‌متر) و ۲ تا ۵ سانتی‌متر ضخامت دارد، توپر و گرزی‌شکل تا شکم‌دار است و در قاعده غده‌ای تا حدود ۷ تا ۸ سانتی‌متر پهنا دارد و در بالای آن لبه‌ای برگشته دیده می‌شود. در جوانی سفیدفام است، بالا ته‌رنگ بنفش دارد و رنگی مایل به آبی از میان آن پیداست و سطحش ابریشمی‌رشته‌ای است. بعدها کورتینا آن را می‌پوشاند که بنفش‌گون تا سفیدفام است، به نوارهای عرضی کمربندمانند پاره می‌شود و با افزایش سن به رنگ اخرایی درمی‌آید.",
+        flesh: "گوشت ضخیم، سفت و توپر است، حتی در اندام‌های میوه‌دهندهٔ مسن. سفیدفام تا کرمی است، در بالای ساقه و جایی که کلاهک به آن می‌پیوندد ته‌رنگی کم‌رنگ آبی‌بنفش دارد و در غده اندکی اخرایی است. بو ضعیف یا ناپیداست و طعم ملایم است.",
+        sporePrint: "اخرایی زنگاری تا قهوه‌ای زنگاری. هاگ‌ها بادامی تا لیمویی‌شکل، دارای زگیل‌های درشت و برای این سرده بسیار بزرگ‌اند، حدود ۱۳ تا ۱۸ × ۷ تا ۱۰ میکرومتر.",
+        habitat: "قارچی اکتومیکوریزی که روی زمین می‌روید، در گروه‌ها، ردیف‌ها یا حلقه‌هایی که تا حدود صد اندام میوه‌دهنده را شامل می‌شوند، در جنگل‌های پهن‌برگ گرم و پرعلف روی خاک آهکی (قلیایی). همکار معمول آن راش است و بلوط، فندق، زیزفون، ممرز و در جنوب شاه‌بلوط نیز می‌توانند میزبان باشند؛ زیر مخروطیان کمیاب است. اندام‌های میوه‌دهنده از اوت (گاهی ژوئیه) تا نوامبر پدیدار می‌شوند. در اروپا دیده می‌شود و تا آسیا گسترش دارد، اما تقریباً همه‌جا کمیاب است: در شمال آلمان وجود ندارد، در مرکز و شمال اروپا پراکنده است و در سوئیس در جاهایی رایج است. در نروژ در جنگل‌های زیزفون و فندق پیرامون فیورد اسلو و در فیوردهای درونی غرب متمرکز است.",
+        uses: "خوراکی است و عموماً بسیار خوب ارزیابی می‌شود و اغلب بهترین قارچ سرده‌اش به شمار می‌رود. در بازارهای فرانسه و سوئیس فروخته می‌شود و در ژاپن قیمت بالایی دارد. با این حال نویسندگان توصیه می‌کنند آن را جمع نکنند، زیرا شناسایی قطعی قارچ‌های کورتیناریوس دشوار است و خویشاوندانی بسیار سمی میان آن‌هاست، اندام‌های میوه‌دهنده فلزات سنگین انباشته می‌کنند و گونه کمیاب است.",
+        confusion: "این یکی از معدود کورتیناریوس‌های درشت است که اغلب بدون میکروسکوپ شناخته می‌شود، به‌لطف اندازه، کلاهک شاه‌بلوطی بنفش و ساقهٔ گرزی‌شکل سفیدفامش. Cortinarius cumatilis کلاهکی خاکستری مایل به آبی دارد، کورتینای آن تارعنکبوتی است نه تقریباً غشایی، لبه‌اش همیشه صاف است، زیر مخروطیان می‌روید و هاگ‌هایش کوچک‌ترند. Cortinarius balteatus نیز زیر نوئل (Picea) می‌روید و هاگ‌هایش کوچک‌ترند، و Cortinarius blattoi که خویشاوند آن و گونه‌ای دیگر از جنگل‌های مخروطی است، هاگ‌هایی دارد که طولشان حداکثر ۱۲ میکرومتر است. Cortinarius varius و Cortinarius purpurascens و Cortinarius alboviolaceus نیز رنگ‌مایه‌های بنفش دارند، اما بسیار کوچک‌تر و کم‌حجم‌ترند. بسیاری از کورتیناریوس‌های دیگر بسیار سمی‌اند.",
+        notes: "تقریباً در سراسر پراکندگی‌اش کمیاب است. اتحادیهٔ جهانی حفاظت از طبیعت (IUCN) آن را ارزیابی نکرده است. فهرست سرخ آلمان در سال ۲۰۱۶ آن را در ردهٔ نزدیک به تهدید (Near Threatened) قرار می‌دهد، فهرست سرخ نروژ در سال ۲۰۲۱ نیز همین‌طور (Near Threatened) و فهرست سرخ چک در سال ۲۰۲۴ آن را آسیب‌پذیر (Vulnerable) می‌داند. کتاب سرخ بلغارستان آن را در معرض خطر شدید انقراض (Critically Endangered) ثبت کرده است. تهدید اصلی آن کاهش جنگل‌های نزدیک به حالت طبیعی و آشفتگی خاک به‌دست ماشین‌آلات سنگین جنگلی است. در آزمایش‌های آزمایشگاهی، عصاره‌های اندام‌های میوه‌دهنده باکتری‌های Pseudomonas aeruginosa و Staphylococcus aureus را مهار کردند."
+      },
+      pl: {
+        description: "Masywny, mięsisty grzyb o kasztanowobrązowym do czekoladowobrązowego kapeluszu, często ozdobionym białawymi resztkami osłony, na grubym, maczugowatym, białawym trzonie z bulwiastą podstawą. Blaszki są z początku białawe z fioletowym odcieniem i dojrzewają do rdzawobrązowych. Rośnie grupami w ciepłych lasach liściastych na glebach wapiennych i jest rzadki.",
+        cap: "Kapelusz ma zwykle 10–20 cm średnicy i może osiągać około 25–30 cm. Młody jest prawie kulisty, potem wypukły i w końcu płaski lub lekko wklęśnięty, z brzegiem, który długo pozostaje podwinięty, a z czasem staje się promieniście pomarszczony lub bruzdowany. Młode kapelusze mają fioletowy odcień i pokrywa je biaława do fioletowobiałej, jedwabista osłona, która pęka, gdy kapelusz się rozszerza. Potem przebarwiają się na kasztanowobrązowo do czekoladowobrązowego lub winnobrązowego z fioletowomiedzianym odcieniem, a z wiekiem płowieją do rdzawobrązowego. Powierzchnia jest drobno włóknista i błyszcząca, w wilgotną pogodę lekko śliska, a pokrywają ją białawe do fioletowawych resztki osłony, które przylegają jak łaty lub drobne łuseczki albo tworzą białe plamki, zwłaszcza przy brzegu.",
+        hymenium: "Blaszki są przyrośnięte do trzonu z wycięciem, gęste, szerokie na 3–8 mm, o falistych do drobno karbowanych ostrzach. W młodości są białawe do jasnoszarych z ametystowym odcieniem i z początku ukryte za grubą białą do fioletowawej zasłoną, potem stają się kremowe, gliniaste i w końcu rdzawobrązowe, gdy zarodniki dojrzewają. Podstawki mierzą około 30–35 × 12–13 μm. Ostrze blaszek ma jałowe włoski szerokie na 4–6 μm, wystające na 20–40 μm, a także zwyrodniałe jałowe podstawki szerokie na 10–11 μm.",
+        stipe: "Trzon ma 8–15 cm długości (według niektórych opisów do 20–25 cm) i 2–5 cm grubości, jest pełny, maczugowaty do brzuchatego, z bulwą u podstawy szeroką do około 7–8 cm i podwiniętym brzegiem na jej szczycie. Młody jest białawy z fioletowym odcieniem w górnej części i prześwitującym niebieskawym odcieniem, a jego powierzchnia jest jedwabiście włóknista. Później owija go zasłona, fioletowa do białawej, rozpadająca się na poprzeczne pasowate pierścienie, która z wiekiem przybiera barwę ochrową.",
+        flesh: "Miąższ jest gruby, twardy i pełny, także u starych owocników. Jest białawy do kremowego, z bladym niebieskofioletowym odcieniem w górnej części trzonu i tam, gdzie łączy się z nim kapelusz, a w bulwie lekko ochrowy. Zapach jest słaby lub nieobecny, a smak łagodny.",
+        sporePrint: "Rdzawoochrowy do rdzawobrązowego. Zarodniki są migdałowate do cytrynowatych, grubo brodawkowane i jak na ten rodzaj bardzo duże, około 13–18 × 7–10 μm.",
+        habitat: "Grzyb ektomikoryzowy, który rośnie na ziemi, w grupach, rzędach lub kręgach liczących nawet około stu owocników, w ciepłych, bogatych w zioła lasach liściastych na glebach wapiennych (zasadowych). Zwykłym partnerem jest buk, żywicielami bywają też dąb, leszczyna, lipa, grab, a na południu kasztanowiec jadalny; pod drzewami iglastymi jest rzadki. Owocniki pojawiają się od sierpnia (czasem już w lipcu) do listopada. Występuje w Europie i sięga Azji, ale prawie wszędzie jest rzadki: w północnych Niemczech nie występuje, w Europie Środkowej i Północnej jest rozproszony, a w Szwajcarii miejscami pospolity. W Norwegii koncentruje się w lasach lipowych i leszczynowych wokół Oslofjordu oraz w wewnętrznych fiordach na zachodzie.",
+        uses: "Jadalny i powszechnie oceniany jako bardzo dobry, często jako najlepszy w rodzaju. Sprzedaje się go na targach we Francji i w Szwajcarii, a w Japonii osiąga wysokie ceny. Autorzy odradzają jednak jego zbieranie, ponieważ zasłonaki trudno z pewnością oznaczyć, a wśród nich są bardzo trujące gatunki pokrewne, owocniki gromadzą metale ciężkie, a gatunek jest rzadki.",
+        confusion: "Jest jednym z niewielu dużych zasłonaków, które często można rozpoznać bez mikroskopu, dzięki wielkości, kasztanowofioletowemu kapeluszowi i maczugowatemu, białawemu trzonowi. Cortinarius cumatilis ma niebieskoszary kapelusz, pajęczynowatą, a nie prawie błoniastą zasłonę i zawsze gładki brzeg, rośnie pod drzewami iglastymi i ma mniejsze zarodniki. Cortinarius balteatus rośnie również pod świerkami i ma mniejsze zarodniki, a pokrewny Cortinarius blattoi, kolejny gatunek borów iglastych, ma zarodniki najwyżej 12 μm długości. Cortinarius varius, Cortinarius purpurascens i Cortinarius alboviolaceus mają także fioletowe odcienie, ale są znacznie mniejsze i mniej masywne. Wiele innych zasłonaków jest bardzo trujących.",
+        notes: "Rzadki prawie w całym zasięgu. Nie był oceniany przez IUCN. Niemiecka czerwona lista z 2016 roku umieszcza go wśród gatunków bliskich zagrożenia (Near Threatened), norweska czerwona lista z 2021 roku również wśród bliskich zagrożenia (Near Threatened), a czeska czerwona lista z 2024 roku wśród narażonych (Vulnerable). Bułgarska Czerwona Księga wymienia go jako gatunek krytycznie zagrożony (Critically Endangered). Zagrażają mu przede wszystkim zanik naturalnych lasów i naruszanie gleby przez ciężki sprzęt leśny. W testach laboratoryjnych ekstrakty z owocników hamowały rozwój bakterii Pseudomonas aeruginosa i Staphylococcus aureus."
+      },
+      pt: {
+        description: "Um cogumelo robusto e carnudo, com chapéu castanho a chocolate, muitas vezes salpicado de restos esbranquiçados do véu, sobre um pé grosso, em forma de clava, esbranquiçado e de base bulbosa. As lâminas são primeiro esbranquiçadas com um tom violeta e amadurecem para castanho-ferrugem. Cresce em grupos em bosques quentes de folhosas sobre solo calcário e é raro.",
+        cap: "O chapéu mede normalmente 10–20 cm de diâmetro e pode chegar a cerca de 25–30 cm. Quando jovem é quase esférico, depois convexo e por fim plano ou ligeiramente deprimido, com uma margem que permanece enrolada para dentro durante muito tempo e depois fica radialmente enrugada ou sulcada. Os chapéus jovens têm um tom violeta e estão cobertos por um véu sedoso, esbranquiçado a branco-violeta, que se rasga quando o chapéu se abre. Depois tornam-se castanho-avermelhados a castanho-chocolate ou castanho-vinho, com um tom cobre-violeta, e com a idade desbotam para castanho-ferrugem. A superfície é finamente fibrosa e brilhante, ligeiramente viscosa com tempo húmido, e tem restos do véu esbranquiçados a violáceos, que ficam colados como manchas ou pequenas escamas ou formam flocos brancos, sobretudo perto da margem.",
+        hymenium: "As lâminas estão presas ao pé com uma reentrância, são apertadas, com 3–8 mm de largura e arestas onduladas a finamente recortadas. Quando jovens são esbranquiçadas a cinzento-claras com um tom ametista e ficam primeiro escondidas atrás de uma cortina espessa, branca a violácea; depois tornam-se cor de creme, cor de barro e por fim castanho-ferrugem, à medida que os esporos amadurecem. Os basídios medem cerca de 30–35 × 12–13 μm. A aresta das lâminas tem pelos estéreis com 4–6 μm de largura, que se projetam 20–40 μm, juntamente com basídios estéreis degenerados com 10–11 μm de largura.",
+        stipe: "O pé mede 8–15 cm de comprimento (segundo algumas descrições até 20–25 cm) e 2–5 cm de espessura, é maciço, em forma de clava a ventrudo, com um bulbo na base de até cerca de 7–8 cm de largura e uma borda enrolada no topo. Quando jovem é esbranquiçado, com um tom violeta no ápice e um tom azulado que transparece, e a superfície é sedosa e fibrosa. Mais tarde é envolvido pela cortina, violeta a esbranquiçada, que se rasga em faixas transversais semelhantes a cintos e se torna ocre com a idade.",
+        flesh: "A carne é espessa, firme e maciça, mesmo nos corpos frutíferos velhos. É esbranquiçada a cor de creme, com um tom violeta-azulado pálido no topo do pé e onde o chapéu se une a ele, e ligeiramente ocre no bulbo. O cheiro é fraco ou ausente e o sabor é suave.",
+        sporePrint: "Ocre-ferrugem a castanho-ferrugem. Os esporos têm forma de amêndoa a limão, são grosseiramente verrucosos e muito grandes para o género, com cerca de 13–18 × 7–10 μm.",
+        habitat: "Um fungo ectomicorrízico que cresce no solo, em grupos, fileiras ou círculos de até cerca de cem corpos frutíferos, em bosques quentes e ricos em ervas, de folhosas, sobre solo calcário (alcalino). O parceiro habitual é a faia, e podem ser hospedeiros também o carvalho, a aveleira, a tília, o carpino e, no sul, o castanheiro; sob coníferas é raro. Os corpos frutíferos surgem de agosto (ocasionalmente julho) a novembro. Ocorre na Europa e estende-se à Ásia, mas é raro quase em todo o lado: falta no norte da Alemanha, é disperso na Europa central e setentrional e é localmente comum na Suíça. Na Noruega concentra-se em bosques de tílias e aveleiras em redor do fiorde de Oslo e nos fiordes interiores do oeste.",
+        uses: "Comestível e geralmente considerado muito bom, muitas vezes o melhor do seu género. É vendido em mercados em França e na Suíça, e no Japão atinge preços elevados. Os autores desaconselham, no entanto, a sua colheita, porque os cortinários são difíceis de identificar com certeza e incluem parentes muito venenosos, os corpos frutíferos acumulam metais pesados e a espécie é rara.",
+        confusion: "É um dos poucos cortinários grandes que muitas vezes se reconhecem sem microscópio, graças ao tamanho, ao chapéu castanho-violeta e ao pé em clava, esbranquiçado. Cortinarius cumatilis tem um chapéu cinzento-azulado, uma cortina semelhante a teia de aranha e não quase membranosa, margem sempre lisa, cresce sob coníferas e tem esporos menores. Cortinarius balteatus também cresce sob abetos e tem esporos menores, e o aparentado Cortinarius blattoi, outra espécie de coníferas, tem esporos com no máximo 12 μm de comprimento. Cortinarius varius, Cortinarius purpurascens e Cortinarius alboviolaceus também têm tons violeta, mas são muito mais pequenos e menos robustos. Muitos outros cortinários são muito venenosos.",
+        notes: "Rara em quase toda a sua área de distribuição. Não foi avaliada pela UICN. A Lista Vermelha alemã de 2016 classifica-a como quase ameaçada (Near Threatened), a Lista Vermelha norueguesa de 2021 também como quase ameaçada (Near Threatened) e a Lista Vermelha checa de 2024 como vulnerável (Vulnerable). O Livro Vermelho da Bulgária inclui-a como criticamente em perigo (Critically Endangered). É ameaçada sobretudo pela perda de florestas quase naturais e pela perturbação do solo causada por maquinaria florestal pesada. Em testes de laboratório, extratos dos corpos frutíferos inibiram as bactérias Pseudomonas aeruginosa e Staphylococcus aureus."
+      },
+      ro: {
+        description: "O ciupercă masivă și cărnoasă, cu pălărie de la castaniu la brun-ciocolatiu, adesea pătată de resturi albicioase ale vălului, pe un picior gros, în formă de măciucă, albicios și cu baza bulboasă. Lamelele sunt la început albicioase cu o nuanță violetă și se coc spre brun-ruginiu. Crește în grupuri în păduri calde de foioase pe sol calcaros și este rară.",
+        cap: "Pălăria măsoară de obicei 10–20 cm în diametru și poate ajunge la aproximativ 25–30 cm. Tânără este aproape sferică, apoi convexă și în cele din urmă plată sau ușor adâncită, cu o margine care rămâne mult timp răsfrântă și apoi devine radial încrețită sau brăzdată. Pălăriile tinere au o nuanță violetă și sunt acoperite de un văl mătăsos, de la albicios la alb-violaceu, care se rupe când pălăria se deschide. Apoi devin de la castanii la brun-ciocolatii sau brun-vineții, cu o tentă cuprie-violacee, și cu vârsta se decolorează spre brun-ruginiu. Suprafața este fin fibroasă și lucioasă, ușor lipicioasă pe vreme umedă, și poartă resturi ale vălului de la albicioase la violacee, care rămân lipite ca niște pete sau mici solzi ori formează fulgi albi, mai ales lângă margine.",
+        hymenium: "Lamelele sunt prinse de picior cu un decupaj, dese, late de 3–8 mm, cu tăiș ondulat până la fin crenelat. Tinere sunt de la albicioase la gri-deschis, cu o nuanță de ametist, și la început ascunse în spatele unei cortine groase, albe sau violacee; apoi devin crem, de culoarea argilei și în final brun-ruginii, pe măsură ce sporii se coc. Bazidiile măsoară aproximativ 30–35 × 12–13 μm. Tăișul lamelelor poartă peri sterili lați de 4–6 μm, care ies în afară 20–40 μm, laolaltă cu bazidii sterile degenerate late de 10–11 μm.",
+        stipe: "Piciorul are 8–15 cm lungime (după unele descrieri până la 20–25 cm) și 2–5 cm grosime, este plin, de la măciucat la burtos, cu un bulb la bază lat de până la aproximativ 7–8 cm și o margine răsfrântă în partea de sus. Tânăr este albicios, cu o nuanță violetă în vârf și o tentă albăstruie care se vede prin transparență, iar suprafața este mătăsos-fibroasă. Mai târziu este înfășurat de cortină, de la violacee la albicioasă, care se rupe în benzi transversale asemănătoare unor curele și devine ocru odată cu vârsta.",
+        flesh: "Carnea este groasă, fermă și plină, chiar și la ciupercile bătrâne. Este de la albicioasă la crem, cu o tentă pală albăstrui-violacee în partea de sus a piciorului și acolo unde pălăria se unește cu el, și ușor ocru în bulb. Mirosul este slab sau lipsește, iar gustul este blând.",
+        sporePrint: "De la ocru-ruginiu la brun-ruginiu. Sporii au formă de la migdală la lămâie, sunt grosier verucoși și foarte mari pentru gen, de aproximativ 13–18 × 7–10 μm.",
+        habitat: "O ciupercă ectomicorizică ce crește pe sol, în grupuri, șiruri sau cercuri de până la aproximativ o sută de ciuperci, în păduri calde de foioase bogate în ierburi, pe sol calcaros (alcalin). Partenerul obișnuit este fagul, iar gazde pot fi și stejarul, alunul, teiul, carpenul și, în sud, castanul; sub conifere este rară. Ciupercile apar din august (uneori iulie) până în noiembrie. Se găsește în Europa și se întinde în Asia, dar este rară aproape peste tot: lipsește în nordul Germaniei, este răspândită pe petice în Europa centrală și de nord și este local comună în Elveția. În Norvegia se concentrează în pădurile de tei și alun din jurul fiordului Oslo și în fiordurile interioare din vest.",
+        uses: "Comestibilă și în general apreciată ca foarte bună, adesea drept cea mai bună din genul ei. Se vinde în piețe în Franța și Elveția, iar în Japonia atinge prețuri ridicate. Autorii sfătuiesc totuși să nu fie culeasă, deoarece cortinariii sunt greu de determinat cu certitudine și includ rude foarte otrăvitoare, ciupercile acumulează metale grele, iar specia este rară.",
+        confusion: "Este unul dintre puținii cortinarii mari care pot fi adesea recunoscuți fără microscop, datorită mărimii, pălăriei castaniu-violacee și piciorului în formă de măciucă, albicios. Cortinarius cumatilis are pălăria gri-albăstruie, o cortină asemănătoare pânzei de păianjen, nu aproape membranoasă, marginea mereu netedă, crește sub conifere și are spori mai mici. Cortinarius balteatus crește și el sub molizi și are spori mai mici, iar înrudita Cortinarius blattoi, altă specie de conifere, are spori lungi de cel mult 12 μm. Cortinarius varius, Cortinarius purpurascens și Cortinarius alboviolaceus au și ele tonuri violete, dar sunt mult mai mici și mai puțin masive. Mulți alți cortinarii sunt foarte otrăvitori.",
+        notes: "Rară în aproape tot arealul. Nu a fost evaluată de IUCN. Lista Roșie a Germaniei din 2016 o încadrează ca aproape amenințată (Near Threatened), Lista Roșie a Norvegiei din 2021 de asemenea ca aproape amenințată (Near Threatened), iar Lista Roșie a Cehiei din 2024 ca vulnerabilă (Vulnerable). Cartea Roșie a Bulgariei o menționează ca fiind critic periclitată (Critically Endangered). Este amenințată în principal de dispariția pădurilor aproape naturale și de perturbarea solului de către utilajele forestiere grele. În teste de laborator, extractele din ciuperci au inhibat bacteriile Pseudomonas aeruginosa și Staphylococcus aureus."
+      },
+      ru: {
+        description: "Крупный, мясистый гриб с каштаново-коричневой до шоколадно-коричневой шляпкой, часто с беловатыми остатками покрывала, на толстой, булавовидной, беловатой ножке с клубневидным основанием. Пластинки сначала беловатые с фиолетовым оттенком и созревают до ржаво-коричневых. Растёт группами в тёплых лиственных лесах на известковых почвах и встречается редко.",
+        cap: "Шляпка обычно 10–20 см в поперечнике и может достигать примерно 25–30 см. В молодости почти шаровидная, затем выпуклая и наконец плоская или слегка вдавленная, с краем, который долго остаётся подвёрнутым, а потом становится радиально морщинистым или бороздчатым. Молодые шляпки с фиолетовым оттенком, покрыты беловатым до фиолетово-белого шелковистым покрывалом, которое рвётся, когда шляпка раскрывается. Затем они становятся каштаново-коричневыми до шоколадно-коричневых или винно-коричневых с фиолетово-медным оттенком, а с возрастом выцветают до ржаво-коричневых. Поверхность тонковолокнистая и блестящая, в сырую погоду слегка слизистая, с беловатыми до фиолетоватых остатками покрывала, которые прилегают пятнами или мелкими чешуйками либо образуют белые хлопья, особенно у края.",
+        hymenium: "Пластинки приросшие к ножке с выемкой, частые, шириной 3–8 мм, с волнистыми до тонко зубчатых краями. В молодости они беловатые до светло-серых с аметистовым оттенком и сначала скрыты за толстой белой до фиолетоватой кортиной, затем становятся кремовыми, глинистыми и наконец ржаво-коричневыми по мере созревания спор. Базидии размером около 30–35 × 12–13 мкм. Край пластинки несёт стерильные волоски шириной 4–6 мкм, выступающие на 20–40 мкм, а также дегенерировавшие стерильные базидии шириной 10–11 мкм.",
+        stipe: "Ножка длиной 8–15 см (по некоторым описаниям до 20–25 см) и толщиной 2–5 см, плотная, булавовидная до вздутой, с клубнем у основания шириной до 7–8 см и подвёрнутым краем в его верхней части. В молодости она беловатая с фиолетовым оттенком вверху, сквозь который просвечивает голубоватый тон, а поверхность шелковисто-волокнистая. Позже её обволакивает кортина, фиолетовая до беловатой, распадающаяся на поперечные поясовидные полосы и с возрастом приобретающая охристый цвет.",
+        flesh: "Мякоть толстая, плотная и сплошная, даже у старых плодовых тел. Она беловатая до кремовой, с бледным голубовато-фиолетовым оттенком в верхней части ножки и в месте соединения со шляпкой, в клубне слегка охристая. Запах слабый или отсутствует, вкус мягкий.",
+        sporePrint: "Ржаво-охристый до ржаво-коричневого. Споры миндалевидные до лимоновидных, грубобородавчатые и для рода очень крупные, около 13–18 × 7–10 мкм.",
+        habitat: "Микоризообразователь, растёт на земле, группами, рядами или кольцами, насчитывающими до сотни плодовых тел, в тёплых травянистых лиственных лесах на известковых (щелочных) почвах. Обычный партнёр — бук, хозяевами могут быть также дуб, лещина, липа, граб, а на юге съедобный каштан; под хвойными встречается редко. Плодовые тела появляются с августа (иногда с июля) по ноябрь. Встречается в Европе и заходит в Азию, но почти везде редок: в северной Германии отсутствует, в Центральной и Северной Европе распространён пятнами, в Швейцарии местами обычен. В Норвегии сосредоточен в липовых и лещиновых лесах вокруг Осло-фьорда и во внутренних фьордах на западе.",
+        uses: "Съедобен и обычно оценивается как очень хороший, часто как лучший в роде. Его продают на рынках во Франции и Швейцарии, а в Японии он стоит дорого. Тем не менее авторы советуют его не собирать, поскольку паутинники трудно определить с уверенностью, среди них есть очень ядовитые родственники, плодовые тела накапливают тяжёлые металлы, а вид редок.",
+        confusion: "Это один из немногих крупных паутинников, которых часто можно узнать без микроскопа, благодаря размеру, каштаново-фиолетовой шляпке и булавовидной беловатой ножке. Cortinarius cumatilis имеет сине-серую шляпку, паутинистую, а не почти плёнчатую кортину и всегда гладкий край, растёт под хвойными и имеет более мелкие споры. Cortinarius balteatus тоже растёт под елями и имеет более мелкие споры, а родственный Cortinarius blattoi, ещё один вид хвойных лесов, имеет споры длиной не более 12 мкм. Cortinarius varius, Cortinarius purpurascens и Cortinarius alboviolaceus тоже имеют фиолетовые оттенки, но гораздо мельче и менее массивны. Многие другие паутинники очень ядовиты.",
+        notes: "Редок почти во всём ареале. МСОП его не оценивал. Красный список Германии 2016 года относит его к видам, близким к угрожаемому состоянию (Near Threatened), красный список Норвегии 2021 года тоже (Near Threatened), а красный список Чехии 2024 года — к уязвимым (Vulnerable). Красная книга Болгарии включает его как находящийся в критическом состоянии вид (Critically Endangered). Ему угрожают главным образом сокращение естественных лесов и нарушение почвы тяжёлой лесозаготовительной техникой. В лабораторных тестах экстракты плодовых тел подавляли бактерии Pseudomonas aeruginosa и Staphylococcus aureus."
+      },
+      sr: {
+        description: "Крупна, месната гљива са кестењастосмеђим до чоколадносмеђим клобуком, често са белачким остацима овоја, на дебелој, батинастој, белачкој дршци са кртоластом основом. Листићи су у почетку белачки са љубичастом нијансом и сазревају до рђастосмеђих. Расте у групама у топлим листопадним шумама на кречњачком тлу и ретка је.",
+        cap: "Клобук је обично широк 10–20 cm и може да достигне око 25–30 cm. У младости је готово лоптаст, затим испупчен и најзад раван или благо удубљен, са ободом који дуго остаје подвијен, а затим постаје зракасто наборан или избраздан. Млади клобуци имају љубичасту нијансу и прекривени су белачким до љубичастобелим свиленкастим овојем које пуца када се клобук шири. Затим постају кестењастосмеђи до чоколадносмеђи или винскосмеђи са љубичастобакарном нијансом, а с годинама бледе до рђастосмеђих. Површина је фино влакнаста и сјајна, по влажном времену благо слузава, са белачким до љубичастим остацима овоја који належу као мрље или ситне љуспице или стварају беле пахуљице, нарочито уз обод.",
+        hymenium: "Листићи су за дршку причвршћени са урезом, густи, широки 3–8 mm, са таласастим до фино назубљеним оштрицама. У младости су белачки до светлосиви са аметистном нијансом и испрва су скривени иза дебеле беле до љубичасте кортине, затим постају крем, глиновити и најзад рђастосмеђи док споре сазревају. Базидије мере око 30–35 × 12–13 μm. Оштрица листића носи стерилне длачице широке 4–6 μm које вире 20–40 μm, као и дегенерисане стерилне базидије широке 10–11 μm.",
+        stipe: "Дршка је дугачка 8–15 cm (по неким описима до 20–25 cm) и дебела 2–5 cm, пуна, батинаста до трбушаста, са кртолом при основи широком до око 7–8 cm и подвијеним ободом на њеном врху. У младости је белачка са љубичастом нијансом при врху и провидном плавичастом нијансом, а површина јој је свиленкасто влакнаста. Касније је обавија кортина, љубичаста до белачка, која се распада на попречне појасасте траке и с годинама постаје окерна.",
+        flesh: "Месо је дебело, чврсто и пуно, чак и код старих плодних тела. Белачко је до крем боје, са бледом плавкастољубичастом нијансом при врху дршке и тамо где се за њу веже клобук, а у кртоли је благо окерно. Мирис је слаб или га нема, а укус је благ.",
+        sporePrint: "Рђастоокерни до рђастосмеђи. Споре су бадемасте до лимунасте, грубо брадавичасте и за род веома крупне, око 13–18 × 7–10 μm.",
+        habitat: "Ектомикоризна гљива која расте на тлу, у групама, редовима или круговима са до стотину плодних тела, у топлим, биљкама богатим листопадним шумама на кречњачком (базном) тлу. Уобичајени партнер је буква, а домаћини могу бити и храст, леска, липа, граб и на југу питоми кестен; испод четинара је ретка. Плодна тела се јављају од августа (повремено већ у јулу) до новембра. Налази се у Европи и залази у Азију, али је готово свуда ретка: у северној Немачкој је нема, у средњој и северној Европи је расута, а у Швајцарској је местимично честа. У Норвешкој је сконцентрисана у липовим и лесковим шумама око Ослофјорда и у унутрашњим фјордовима на западу.",
+        uses: "Јестива је и опште се оцењује као веома добра, често као најбоља у роду. Продаје се на пијацама у Француској и Швајцарској, а у Јапану постиже високе цене. Аутори ипак саветују да се не бере, јер се копренке тешко поуздано одређују и међу њима има веома отровних сродника, плодна тела накупљају тешке метале, а врста је ретка.",
+        confusion: "Једна је од ретких великих копренки које се често могу препознати и без микроскопа, захваљујући величини, кестењастољубичастом клобуку и батинастој белачкој дршци. Cortinarius cumatilis има плавосиви клобук, паучинасту, а не готово опнасту кортину и увек глатки обод, расте испод четинара и има ситније споре. Cortinarius balteatus такође расте испод смрча и има ситније споре, а сродни Cortinarius blattoi, још једна врста четинарских шума, има споре дугачке највише 12 μm. Cortinarius varius, Cortinarius purpurascens и Cortinarius alboviolaceus такође имају љубичасте нијансе, али су много ситнији и мање масивни. Многе друге копренке су веома отровне.",
+        notes: "Ретка готово у целом свом ареалу. IUCN је није оценила. Немачка црвена листа из 2016. сврстава је међу скоро угрожене врсте (Near Threatened), норвешка црвена листа из 2021. такође (Near Threatened), а чешка црвена листа из 2024. међу рањиве (Vulnerable). Бугарска Црвена књига наводи је као критично угрожену врсту (Critically Endangered). Угрожавају је углавном нестајање природи блиских шума и нарушавање тла тешком шумском механизацијом. У лабораторијским тестовима екстракти плодних тела сузбијали су бактерије Pseudomonas aeruginosa и Staphylococcus aureus."
+      },
+      sl: {
+        description: "Velika, mesnata goba s kostanjevo do čokoladno rjavim klobukom, pogosto posutim z belkastimi ostanki ovojnice, na debelem, kijastem, belkastem betu z gomoljasto osnovo. Lističi so sprva belkasti z vijoličastim odtenkom in dozorijo v rjasto rjave. Raste v skupinah v toplih listnatih gozdovih na apnenčastih tleh in je redka.",
+        cap: "Klobuk je navadno širok 10–20 cm in lahko doseže okoli 25–30 cm. Mlad je skoraj kroglast, nato izbočen in nazadnje raven ali rahlo vdolben, z robom, ki ostane dolgo podvihan, nato pa postane žarkasto naguban ali brazdast. Mladi klobuki imajo vijoličast odtenek in jih prekriva belkasta do vijoličasto bela svilnata ovojnica, ki poči, ko se klobuk razprostre. Nato postanejo kostanjevo do čokoladno rjavi ali vinsko rjavi z vijoličasto bakrenim odtenkom, s starostjo pa zbledijo v rjasto rjavo. Površina je drobno vlaknata in sijoča, v vlažnem vremenu rahlo sluzasta, z belkastimi do vijoličastimi ostanki ovojnice, ki ležijo kot zaplate ali drobne luskice ali tvorijo bele kosmiče, zlasti ob robu.",
+        hymenium: "Lističi so k betu prirasli z zarezo, gosti, široki 3–8 mm, z valovitimi do drobno nazobčanimi ostrinami. Mladi so belkasti do svetlo sivi z ametistnim odtenkom in so sprva skriti za debelo belo do vijoličasto kopreno, nato postanejo kremasti, ilovnati in nazadnje rjasto rjavi, ko trosi dozorijo. Bazidiji merijo okoli 30–35 × 12–13 μm. Ostrina lističev nosi sterilne dlačice, široke 4–6 μm, ki štrlijo 20–40 μm, ter degenerirane sterilne bazidije, široke 10–11 μm.",
+        stipe: "Bet je dolg 8–15 cm (po nekaterih opisih do 20–25 cm) in debel 2–5 cm, poln, kijast do trebušast, z gomoljem pri dnu, širokim do okoli 7–8 cm, in zavihanim robom na njegovem vrhu. Mlad je belkast z vijoličastim odtenkom pri vrhu in presevajočim modrikastim tonom, površina pa je svilnato vlaknata. Pozneje ga ovija koprena, vijoličasta do belkasta, ki razpade na prečne pasaste trakove in se s starostjo obarva okrasto.",
+        flesh: "Meso je debelo, čvrsto in polno, tudi pri starih trosnjakih. Je belkasto do kremno, z bledim modrikasto vijoličastim odtenkom pri vrhu beta in tam, kjer se nanj pripenja klobuk, v gomolju pa rahlo okrasto. Vonj je šibek ali ga ni, okus je blag.",
+        sporePrint: "Rjasto okrast do rjasto rjav. Trosi so mandljasti do limonasti, grobo bradavičasti in za rod zelo veliki, okoli 13–18 × 7–10 μm.",
+        habitat: "Mikorizna goba, ki raste na tleh, v skupinah, vrstah ali krogih z do stotimi trosnjaki, v toplih, z zelišči bogatih listnatih gozdovih na apnenčastih (bazičnih) tleh. Običajni partner je bukev, gostitelji pa so lahko tudi hrast, leska, lipa, graden in na jugu pravi kostanj; pod iglavci je redka. Trosnjaki se pojavljajo od avgusta (občasno že julija) do novembra. Najdemo jo po Evropi in vse do Azije, a je skoraj povsod redka: v severni Nemčiji je ni, v srednji in severni Evropi je razpršena, v Švici pa je krajevno pogosta. Na Norveškem je zgoščena v lipovih in leskovih gozdovih okoli Oslofjorda in v notranjih fjordih na zahodu.",
+        uses: "Užitna je in na splošno ocenjena kot zelo dobra, pogosto kot najboljša v rodu. Prodajajo jo na tržnicah v Franciji in Švici, na Japonskem pa dosega visoke cene. Avtorji kljub temu odsvetujejo nabiranje, ker je koprenke težko zanesljivo določiti in so med njimi zelo strupeni sorodniki, trosnjaki kopičijo težke kovine, vrsta pa je redka.",
+        confusion: "Je ena redkih velikih koprenk, ki jih pogosto prepoznamo že brez mikroskopa, po velikosti, kostanjevo vijoličastem klobuku in kijastem belkastem betu. Cortinarius cumatilis ima modrosiv klobuk, pajčevinasto in ne skoraj opnasto kopreno ter vedno gladek rob, raste pod iglavci in ima manjše trose. Cortinarius balteatus prav tako raste pod smrekami in ima manjše trose, sorodni Cortinarius blattoi, še ena vrsta iglastih gozdov, pa ima trose, dolge največ 12 μm. Cortinarius varius, Cortinarius purpurascens in Cortinarius alboviolaceus imajo prav tako vijoličaste odtenke, a so precej manjši in manj masivni. Mnoge druge koprenke so zelo strupene.",
+        notes: "Redka skoraj v celotnem območju razširjenosti. IUCN je ni ocenila. Nemški rdeči seznam iz leta 2016 jo uvršča med potencialno ogrožene vrste (Near Threatened), norveški rdeči seznam iz leta 2021 prav tako (Near Threatened), češki rdeči seznam iz leta 2024 pa med ranljive (Vulnerable). Bolgarska rdeča knjiga jo navaja kot kritično ogroženo vrsto (Critically Endangered). Ogrožata jo predvsem upadanje naravi bližnjih gozdov in motenje tal s težko gozdarsko mehanizacijo. V laboratorijskih preskusih so izvlečki trosnjakov zavirali rast bakterij Pseudomonas aeruginosa in Staphylococcus aureus."
+      },
+      es: {
+        description: "Un hongo robusto y carnoso, con sombrero castaño a color chocolate, a menudo salpicado de restos blanquecinos del velo, sobre un pie grueso, en forma de maza, blanquecino y de base bulbosa. Las láminas son primero blanquecinas con un tinte violeta y maduran a pardo óxido. Crece en grupos en bosques cálidos de planifolios sobre suelo calizo y es raro.",
+        cap: "El sombrero mide normalmente 10–20 cm de diámetro y puede llegar a unos 25–30 cm. De joven es casi esférico, luego convexo y por fin plano o ligeramente deprimido, con un margen que permanece enrollado hacia dentro mucho tiempo y después se vuelve radialmente arrugado o surcado. Los sombreros jóvenes tienen un tinte violeta y están cubiertos por un velo sedoso, blanquecino a blanco violáceo, que se rasga cuando el sombrero se abre. Después se vuelven castaños a pardo chocolate o pardo vino, con un tono cobrizo violeta, y con la edad se decoloran a pardo óxido. La superficie es finamente fibrosa y brillante, ligeramente viscosa con tiempo húmedo, y presenta restos del velo blanquecinos a violáceos, que quedan pegados como manchas o pequeñas escamas o forman copos blancos, sobre todo cerca del margen.",
+        hymenium: "Las láminas están unidas al pie con una muesca, son apretadas, de 3–8 mm de ancho y con filos ondulados a finamente festoneados. De jóvenes son blanquecinas a gris claro con un tinte amatista y están al principio ocultas tras una cortina gruesa, blanca a violácea; después se vuelven color crema, color arcilla y por último pardo óxido, a medida que maduran las esporas. Los basidios miden unos 30–35 × 12–13 μm. El filo de las láminas lleva pelos estériles de 4–6 μm de ancho, que sobresalen 20–40 μm, junto con basidios estériles degenerados de 10–11 μm de ancho.",
+        stipe: "El pie mide 8–15 cm de largo (según algunas descripciones hasta 20–25 cm) y 2–5 cm de grosor, es macizo, en forma de maza a ventrudo, con un bulbo en la base de hasta unos 7–8 cm de ancho y un borde enrollado en su parte superior. De joven es blanquecino, con un tinte violeta en el ápice y un tono azulado que transparece, y la superficie es sedosa y fibrosa. Más tarde lo envuelve la cortina, violeta a blanquecina, que se rasga en bandas transversales parecidas a cinturones y se vuelve ocre con la edad.",
+        flesh: "La carne es gruesa, firme y maciza, incluso en los ejemplares viejos. Es blanquecina a color crema, con un tono violeta azulado pálido en la parte superior del pie y donde el sombrero se une a él, y ligeramente ocre en el bulbo. El olor es débil o inexistente y el sabor es suave.",
+        sporePrint: "Ocre óxido a pardo óxido. Las esporas tienen forma de almendra a limón, son toscamente verrugosas y muy grandes para el género, de unos 13–18 × 7–10 μm.",
+        habitat: "Un hongo ectomicorrícico que crece en el suelo, en grupos, hileras o corros de hasta un centenar de cuerpos fructíferos, en bosques cálidos y ricos en hierbas, de planifolios, sobre suelo calizo (alcalino). El socio habitual es el haya, y también pueden ser huéspedes el roble, el avellano, el tilo, el carpe y, en el sur, el castaño; bajo coníferas es raro. Los cuerpos fructíferos aparecen de agosto (a veces julio) a noviembre. Se encuentra en Europa y llega hasta Asia, pero es raro casi en todas partes: falta en el norte de Alemania, es disperso en Europa central y septentrional y es localmente común en Suiza. En Noruega se concentra en bosques de tilos y avellanos alrededor del fiordo de Oslo y en los fiordos interiores del oeste.",
+        uses: "Comestible y generalmente considerado muy bueno, a menudo el mejor de su género. Se vende en mercados de Francia y Suiza, y en Japón alcanza precios elevados. Sin embargo, los autores desaconsejan recolectarlo, porque los cortinarios son difíciles de identificar con certeza e incluyen parientes muy venenosos, los cuerpos fructíferos acumulan metales pesados y la especie es rara.",
+        confusion: "Es uno de los pocos cortinarios grandes que a menudo se reconocen sin microscopio, gracias a su tamaño, a su sombrero castaño violáceo y a su pie en forma de maza, blanquecino. Cortinarius cumatilis tiene un sombrero gris azulado, una cortina parecida a una telaraña y no casi membranosa, margen siempre liso, crece bajo coníferas y tiene esporas más pequeñas. Cortinarius balteatus también crece bajo abetos y tiene esporas más pequeñas, y el emparentado Cortinarius blattoi, otra especie de coníferas, tiene esporas de 12 μm de largo como máximo. Cortinarius varius, Cortinarius purpurascens y Cortinarius alboviolaceus también tienen tonos violeta, pero son mucho más pequeños y menos robustos. Muchos otros cortinarios son muy venenosos.",
+        notes: "Rara en casi toda su área de distribución. No ha sido evaluada por la UICN. La Lista Roja alemana de 2016 la clasifica como casi amenazada (Near Threatened), la Lista Roja noruega de 2021 también como casi amenazada (Near Threatened) y la Lista Roja checa de 2024 como vulnerable (Vulnerable). El Libro Rojo de Bulgaria la incluye como en peligro crítico (Critically Endangered). Está amenazada sobre todo por la pérdida de bosques casi naturales y por la alteración del suelo causada por maquinaria forestal pesada. En pruebas de laboratorio, extractos de los cuerpos fructíferos inhibieron las bacterias Pseudomonas aeruginosa y Staphylococcus aureus."
+      },
+      sv: {
+        description: "En kraftig, köttig svamp med kastanjebrun till chokladbrun hatt, ofta med vitaktiga slöjrester, på en tjock, klubbformad, vitaktig fot med knölig bas. Skivorna är först vitaktiga med en violett ton och mognar till rostbruna. Den växer i grupper i varma lövskogar på kalkrik mark och är sällsynt.",
+        cap: "Hatten är vanligen 10–20 cm bred och kan nå omkring 25–30 cm. Ung är den nästan klotformad, sedan välvd och till sist platt eller något nedtryckt, med en kant som länge förblir nedrullad och senare blir radiärt skrynklig eller fårad. Unga hattar har en violett ton och täcks av en vitaktig till violettvit, sidenaktig slöja som spricker när hatten breder ut sig. Därefter blir de kastanjebruna till chokladbruna eller vinbruna med en violettkopparfärgad ton och bleknar med åldern till rostbruna. Ytan är finfibrig och glänsande, svagt slemmig i fuktigt väder, och har vitaktiga till violettaktiga slöjrester som ligger an som fläckar eller små fjäll eller bildar vita flingor, särskilt nära kanten.",
+        hymenium: "Skivorna är fastvuxna vid foten med en urnupning, tätt sittande, 3–8 mm breda, med vågiga till fint tandade eggar. Som unga är de vitaktiga till ljusgrå med en ametistfärgad ton och först dolda bakom en tjock vit till violettaktig spindelvävsslöja; därefter blir de gräddfärgade, lerfärgade och till sist rostbruna när sporerna mognar. Basidierna mäter omkring 30–35 × 12–13 μm. Skivseggen har sterila hår, 4–6 μm breda, som sticker ut 20–40 μm, tillsammans med degenererade sterila basidier, 10–11 μm breda.",
+        stipe: "Foten är 8–15 cm lång (enligt vissa beskrivningar upp till 20–25 cm) och 2–5 cm tjock, massiv, klubbformad till bukig, med en knöl vid basen på upp till omkring 7–8 cm i bredd och en nedrullad kant överst på den. Ung är den vitaktig med en violett ton upptill och en blåaktig nyans som skiner igenom, och ytan är sidenaktigt fibrig. Senare är den omsluten av spindelvävsslöjan, som är violett till vitaktig, brister upp i tvärgående bältesliknande band och blir ockrafärgad med åldern.",
+        flesh: "Köttet är tjockt, fast och massivt, även hos gamla fruktkroppar. Det är vitaktigt till gräddfärgat, med en blek blåviolett ton upptill i foten och där hatten fäster, och svagt ockrafärgat i knölen. Lukten är svag eller saknas, och smaken är mild.",
+        sporePrint: "Rostockra till rostbrun. Sporerna är mandel- till citronformade, grovt vårtiga och mycket stora för släktet, omkring 13–18 × 7–10 μm.",
+        habitat: "En ektomykorrhizabildande svamp som växer på marken, i grupper, rader eller ringar med upp till omkring hundra fruktkroppar, i varma, örtrika lövskogar på kalkrik (basisk) mark. Bok är den vanliga partnern, och ek, hassel, lind, avenbok och i söder äkta kastanj kan också vara värdar; under barrträd är den sällsynt. Fruktkropparna kommer fram från augusti (undantagsvis juli) till november. Den förekommer i Europa och in i Asien men är nästan överallt sällsynt: I norra Tyskland saknas den, i Central- och Nordeuropa är den spridd här och där, och i Schweiz är den lokalt vanlig. I Norge är den koncentrerad till lind- och hasselskogar runt Oslofjorden och i de inre fjordarna i väster.",
+        uses: "Ätlig och allmänt bedömd som mycket god, ofta som den bästa i släktet. Den säljs på marknader i Frankrike och Schweiz, och i Japan betingar den höga priser. Författare avråder ändå från att plocka den, eftersom spindelskivlingar är svåra att bestämma säkert och omfattar mycket giftiga släktingar, fruktkropparna anrikar tungmetaller och arten är sällsynt.",
+        confusion: "Den är en av de få stora spindelskivlingarna som ofta kan kännas igen utan mikroskop, tack vare storleken, den kastanjebruna och violetta hatten och den klubbformade, vitaktiga foten. Cortinarius cumatilis har blågrå hatt, en spindelvävsliknande i stället för nästan hinnaktig slöja och en alltid slät kant, växer under barrträd och har mindre sporer. Cortinarius balteatus växer också under gran och har mindre sporer, och den besläktade Cortinarius blattoi, en annan art från barrskog, har sporer som är högst 12 μm långa. Cortinarius varius, Cortinarius purpurascens och Cortinarius alboviolaceus har också violetta toner men är mycket mindre och mindre kraftiga. Många andra spindelskivlingar är mycket giftiga.",
+        notes: "Sällsynt nästan i hela utbredningsområdet. Den har inte bedömts av IUCN. Den tyska rödlistan från 2016 placerar den som nära hotad (Near Threatened), den norska rödlistan från 2021 likaså som nära hotad (Near Threatened) och den tjeckiska rödlistan från 2024 som sårbar (Vulnerable). Bulgariens röda bok för upp den som akut hotad (Critically Endangered). Den hotas främst av förlust av naturnära skog och av markstörning från tunga skogsmaskiner. I laboratorieförsök hämmade extrakt av fruktkropparna bakterierna Pseudomonas aeruginosa och Staphylococcus aureus."
+      },
+      tr: {
+        description: "Kalın etli, iri bir mantar; şapkası kestane ile çikolata kahverengisi arasında, sıklıkla beyazımsı perde artıklarıyla benekli; kalın, topuz biçimli, beyazımsı bir sap üzerinde, tabanı soğanımsı. Lameller başta mor bir tonla beyazımsıdır, olgunlaştıkça pas kahverengisine döner. Sıcak yapraklı ormanlarda kireçli toprakta gruplar halinde yetişir ve nadirdir.",
+        cap: "Şapka genellikle 10–20 cm çapındadır ve yaklaşık 25–30 cm'ye ulaşabilir. Gençken neredeyse küreseldir, sonra dışbükey olur ve en sonunda düz ya da hafif çukurdur; kenarı uzun süre içe kıvrık kalır, sonra ışınsal olarak kırışık ya da oluklu hâle gelir. Genç şapkalar mor tonludur ve şapka açılırken yırtılan, beyazımsıdan mor-beyaza uzanan ipeksi bir perdeyle kaplıdır. Sonra kestane ile çikolata kahverengisi arasında ya da şarap kahverengisine, mor-bakır bir tonla dönüşür ve yaşlandıkça pas kahverengisine solar. Yüzey ince lifli ve parlaktır, yağışlı havada hafif sümüksüdür; üzerinde beyazımsıdan morumsuya uzanan perde artıkları leke ya da küçük pullar biçiminde yapışık durur veya özellikle kenara yakın beyaz tüycükler oluşturur.",
+        hymenium: "Lameller sapa girintili bir biçimde bağlanmıştır, sıktır, 3–8 mm genişliğindedir, kenarları dalgalıdan ince tırtıllıya kadar değişir. Gençken beyazımsıdan açık griye uzanır, ametist tonludur ve başlangıçta kalın, beyaz ya da morumsu bir kortinanın arkasında gizlidir; sonra krem, kil rengi ve en sonunda pas kahverengisi olur, sporlar olgunlaştıkça. Bazidiyumlar yaklaşık 30–35 × 12–13 μm ölçüsündedir. Lamel kenarı 4–6 μm genişliğinde, 20–40 μm dışarı taşan steril tüyler ve 10–11 μm genişliğinde dejenere steril bazidiyumlar taşır.",
+        stipe: "Sap 8–15 cm uzunluğunda (bazı tariflere göre 20–25 cm'ye kadar) ve 2–5 cm kalınlığındadır, doludur, topuz biçimliden göbeklije uzanır; tabanında yaklaşık 7–8 cm'ye kadar genişlikte bir soğan ve üst kısmında içe kıvrık bir kenar bulunur. Gençken beyazımsıdır, üstte mor tonludur ve mavimsi bir ton içinden görünür; yüzeyi ipeksi liflidir. Sonra mordan beyazımsıya uzanan kortina onu sarar, enine kemer benzeri bantlara ayrılır ve yaşlandıkça oker rengine döner.",
+        flesh: "Et kalın, sert ve doludur, yaşlı meyve gövdelerinde bile. Beyazımsıdan krem rengine uzanır; sapın üst kısmında ve şapkanın sapa birleştiği yerde soluk mavimsi-mor bir ton taşır, soğanda hafif okerdir. Koku zayıftır ya da yoktur, tat yumuşaktır.",
+        sporePrint: "Pas okerinden pas kahverengisine. Sporlar bademden limona uzanan biçimde, kaba siğillidir ve cins için çok büyüktür; yaklaşık 13–18 × 7–10 μm.",
+        habitat: "Toprakta yetişen, ektomikorizal bir mantardır; yüz kadar meyve gövdesinden oluşan gruplar, sıralar ya da halkalar hâlinde, sıcak, otlarla zengin yapraklı ormanlarda kireçli (bazik) toprakta bulunur. Olağan ortağı kayındır; meşe, fındık, ıhlamur, gürgen ve güneyde kestane de konukçu olabilir; iğne yapraklıların altında nadirdir. Meyve gövdeleri ağustostan (bazen temmuzdan) kasıma kadar çıkar. Avrupa'da görülür ve Asya'ya uzanır, ancak neredeyse her yerde nadirdir: Kuzey Almanya'da yoktur, Orta ve Kuzey Avrupa'da yer yer dağılmıştır, İsviçre'de yerel olarak yaygındır. Norveç'te Oslo fiyordu çevresindeki ıhlamur ve fındık ormanlarında ve batıdaki iç fiyordlarda yoğunlaşır.",
+        uses: "Yenilebilir ve genellikle çok iyi sayılır, çoğu kez cinsinin en iyisi kabul edilir. Fransa ve İsviçre'de pazarlarda satılır, Japonya'da yüksek fiyatlara ulaşır. Yine de yazarlar toplanmasını önermez; çünkü Cortinarius cinsi mantarların kesin teşhisi zordur ve bunların arasında çok zehirli akrabalar vardır, meyve gövdeleri ağır metal biriktirir ve tür nadirdir.",
+        confusion: "Büyüklüğü, kestane-mor şapkası ve topuz biçimli beyazımsı sapı sayesinde mikroskop olmadan sıklıkla tanınabilen az sayıdaki iri Cortinarius türünden biridir. Cortinarius cumatilis mavimsi gri şapkalıdır, kortinası neredeyse zarsı değil örümcek ağı gibidir, kenarı her zaman düzdür, iğne yapraklıların altında yetişir ve sporları daha küçüktür. Cortinarius balteatus da ladinlerin altında yetişir ve sporları daha küçüktür; akraba Cortinarius blattoi ise başka bir iğne yapraklı orman türüdür ve sporları en çok 12 μm uzunluğundadır. Cortinarius varius, Cortinarius purpurascens ve Cortinarius alboviolaceus da mor tonludur ancak çok daha küçük ve daha az iri yapılıdır. Diğer birçok Cortinarius türü çok zehirlidir.",
+        notes: "Yayılış alanının neredeyse tamamında nadirdir. IUCN tarafından değerlendirilmemiştir. Almanya'nın 2016 tarihli Kırmızı Listesi onu tehdide yakın (Near Threatened) sayar, Norveç'in 2021 tarihli Kırmızı Listesi de tehdide yakın (Near Threatened) sayar, Çekya'nın 2024 tarihli Kırmızı Listesi ise hassas (Vulnerable) olarak sınıflandırır. Bulgaristan Kırmızı Kitabı onu kritik tehlikede (Critically Endangered) olarak listeler. Başlıca tehditler doğala yakın ormanların azalması ve ağır orman makinelerinin neden olduğu toprak bozulmasıdır. Laboratuvar testlerinde meyve gövdesi özütleri Pseudomonas aeruginosa ve Staphylococcus aureus bakterilerini engellemiştir."
+      },
+      uk: {
+        description: "Масивний, м'ясистий гриб із каштаново-коричневою до шоколадно-коричневої шапинкою, часто з білуватими залишками покривала, на товстій, булавоподібній, білуватій ніжці з бульбоподібною основою. Пластинки спочатку білуваті з фіолетовим відтінком і дозрівають до іржаво-коричневих. Росте групами в теплих листяних лісах на вапнякових ґрунтах і трапляється рідко.",
+        cap: "Шапинка зазвичай 10–20 см у поперечнику і може сягати приблизно 25–30 см. У молодості майже кулеподібна, потім опукла і нарешті плоска або трохи втиснута, з краєм, який довго залишається підгорнутим, а згодом стає радіально зморшкуватим або борозенчастим. Молоді шапинки мають фіолетовий відтінок і вкриті білуватим до фіолетово-білого шовковистим покривалом, яке рветься, коли шапинка розкривається. Потім вони стають каштаново-коричневими до шоколадно-коричневих або винно-коричневих із фіолетово-мідним відтінком, а з віком вицвітають до іржаво-коричневих. Поверхня тонковолокниста і блискуча, у сиру погоду трохи слизька, з білуватими до фіолетуватих залишками покривала, які прилягають плямами або дрібними лусочками чи утворюють білі пластівці, особливо біля краю.",
+        hymenium: "Пластинки прирослі до ніжки з виїмкою, часті, завширшки 3–8 мм, з хвилястими до тонко зубчастих краями. У молодості вони білуваті до світло-сірих з аметистовим відтінком і спочатку приховані за товстою білою до фіолетуватої кортиною, потім стають кремовими, глинистими і нарешті іржаво-коричневими в міру дозрівання спор. Базидії розміром близько 30–35 × 12–13 мкм. Край пластинки несе стерильні волоски завширшки 4–6 мкм, що виступають на 20–40 мкм, а також дегенеровані стерильні базидії завширшки 10–11 мкм.",
+        stipe: "Ніжка завдовжки 8–15 см (за деякими описами до 20–25 см) і завтовшки 2–5 см, щільна, булавоподібна до здутої, з бульбою при основі завширшки до 7–8 см і підгорнутим краєм у її верхній частині. У молодості вона білувата з фіолетовим відтінком угорі, крізь який просвічує блакитнуватий тон, а поверхня шовковисто-волокниста. Пізніше її огортає кортина, фіолетова до білуватої, що розпадається на поперечні поясоподібні смуги й з віком набуває охристого кольору.",
+        flesh: "М'якуш товстий, щільний і суцільний, навіть у старих плодових тіл. Він білуватий до кремового, з блідим блакитно-фіолетовим відтінком у верхній частині ніжки та в місці з'єднання зі шапинкою, у бульбі трохи охристий. Запах слабкий або відсутній, смак м'який.",
+        sporePrint: "Іржаво-охристий до іржаво-коричневого. Спори мигдалеподібні до лимоноподібних, грубобородавчасті й для роду дуже великі, близько 13–18 × 7–10 мкм.",
+        habitat: "Мікоризоутворювач, росте на землі, групами, рядами або кільцями, що налічують до сотні плодових тіл, у теплих трав'янистих листяних лісах на вапнякових (лужних) ґрунтах. Звичайний партнер — бук, господарями можуть бути також дуб, ліщина, липа, граб, а на півдні їстівний каштан; під хвойними трапляється рідко. Плодові тіла з'являються з серпня (іноді з липня) до листопада. Поширений в Європі й заходить в Азію, але майже скрізь рідкісний: у північній Німеччині відсутній, у Центральній і Північній Європі поширений плямами, у Швейцарії місцями звичайний. У Норвегії зосереджений у липових і ліщинових лісах навколо Осло-фіорду та у внутрішніх фіордах на заході.",
+        uses: "Їстівний і загалом оцінюється як дуже добрий, часто як найкращий у роді. Його продають на ринках у Франції та Швейцарії, а в Японії він коштує дорого. Проте автори радять його не збирати, бо павутинники важко визначити з певністю, серед них є дуже отруйні родичі, плодові тіла накопичують важкі метали, а вид рідкісний.",
+        confusion: "Це один із небагатьох великих павутинників, яких часто можна впізнати без мікроскопа, завдяки розміру, каштаново-фіолетовій шапинці та булавоподібній білуватій ніжці. Cortinarius cumatilis має синьо-сіру шапинку, павутинисту, а не майже плівчасту кортину й завжди гладенький край, росте під хвойними й має дрібніші спори. Cortinarius balteatus теж росте під ялинами й має дрібніші спори, а споріднений Cortinarius blattoi, ще один вид хвойних лісів, має спори завдовжки не більше 12 мкм. Cortinarius varius, Cortinarius purpurascens і Cortinarius alboviolaceus також мають фіолетові відтінки, але значно дрібніші й менш масивні. Багато інших павутинників дуже отруйні.",
+        notes: "Рідкісний майже в усьому ареалі. МСОП його не оцінювала. Червоний список Німеччини 2016 року відносить його до видів, близьких до загрозливого стану (Near Threatened), червоний список Норвегії 2021 року так само (Near Threatened), а червоний список Чехії 2024 року — до уразливих (Vulnerable). Червона книга Болгарії включає його як вид у критичному стані (Critically Endangered). Йому загрожують насамперед скорочення природних лісів і порушення ґрунту важкою лісозаготівельною технікою. У лабораторних тестах екстракти плодових тіл пригнічували бактерії Pseudomonas aeruginosa і Staphylococcus aureus."
+      }
+    },
+    sources: {
+      en: [
+        {
+          "group": "name",
+          "name": "First Nature",
+          "href": "https://www.first-nature.com/fungi/cortinarius-praestans.php"
+        },
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://en.wikipedia.org/wiki/Cortinarius_praestans"
+        },
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://de.wikipedia.org/wiki/Schleiereule_%28Pilz%29"
+        },
+        {
+          "group": "name",
+          "name": "Artsdatabanken",
+          "href": "https://lister.artsdatabanken.no/rodlisteforarter/2021/6303",
+          "detail": "Near Threatened, 2021"
+        },
+        {
+          "group": "name",
+          "name": "Rote Liste Zentrum",
+          "href": "https://www.rote-liste-zentrum.de/en/Detailseite.html?species_uuid=382876fd-01d4-436d-a072-44264a716458",
+          "detail": "Near Threatened (NT), 2016"
+        },
+        {
+          "group": "name",
+          "name": "Index Fungorum",
+          "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=168292",
+          "detail": "168292"
+        },
+        {
+          "group": "name",
+          "name": "Species Fungorum",
+          "href": "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=168292",
+          "detail": "168292"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7379140",
+          "detail": "7379140"
+        }
+      ],
+      sk: [
+        {
+          "group": "text",
+          "name": "nahuby.sk",
+          "href": "https://www.nahuby.sk/atlas-hub/Cortinarius-praestans/pavucinovec-mohutny/pavucinec-naramkovcovy/ID361",
+          "detail": "pavučinovec mohutný"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7379140",
+          "detail": "7379140"
+        }
+      ],
+      ar: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7379140",
+          "detail": "7379140"
+        }
+      ],
+      bg: [
+        {
+          "group": "text",
+          "name": "Уикипедия",
+          "href": "https://bg.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%B2%D1%8A%D0%B7%D1%85%D0%BE%D0%B4%D0%B5%D0%BD_%D0%BF%D0%B0%D1%8F%D0%B6%D0%B8%D0%BD%D0%BD%D0%B8%D0%BA"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7379140",
+          "detail": "7379140"
+        }
+      ],
+      zh: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7379140",
+          "detail": "7379140"
+        }
+      ],
+      hr: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7379140",
+          "detail": "7379140"
+        }
+      ],
+      cs: [
+        {
+          "group": "text",
+          "name": "Česká mykologická společnost",
+          "href": "https://www.myko.cz/myko-atlas/Cortinarius-praestans/",
+          "detail": "pavučinec náramkovcový"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7379140",
+          "detail": "7379140"
+        }
+      ],
+      da: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7379140",
+          "detail": "7379140"
+        }
+      ],
+      nl: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7379140",
+          "detail": "7379140"
+        }
+      ],
+      et: [
+        {
+          "group": "text",
+          "name": "Vikipeedia",
+          "href": "https://et.wikipedia.org/wiki/Hiidv%C3%B6%C3%B6dik"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7379140",
+          "detail": "7379140"
+        }
+      ],
+      fi: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://fi.wikipedia.org/wiki/J%C3%A4ttiseitikki"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7379140",
+          "detail": "7379140"
+        }
+      ],
+      fr: [
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://fr.wikipedia.org/wiki/Cortinaire_remarquable"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7379140",
+          "detail": "7379140"
+        }
+      ],
+      de: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://de.wikipedia.org/wiki/Schleiereule_%28Pilz%29"
+        },
+        {
+          "group": "text",
+          "name": "DGfM, Pilz des Jahres 2010",
+          "href": "https://www.dgfm-ev.de/de/ueber-uns/news/pilz-des-jahres-2010-schleiereule"
+        }
+      ],
+      he: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7379140",
+          "detail": "7379140"
+        }
+      ],
+      hi: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7379140",
+          "detail": "7379140"
+        }
+      ],
+      hu: [
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://hu.wikipedia.org/wiki/%C3%93ri%C3%A1s_p%C3%B3kh%C3%A1l%C3%B3sgomba"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7379140",
+          "detail": "7379140"
+        }
+      ],
+      id: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7379140",
+          "detail": "7379140"
+        }
+      ],
+      it: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://it.wikipedia.org/wiki/Cortinarius_praestans"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7379140",
+          "detail": "7379140"
+        }
+      ],
+      ja: [
+        {
+          "group": "text",
+          "name": "JATAFF 日本きのこセンター",
+          "href": "https://www.jataff.or.jp/kinoko/311.htm",
+          "detail": "ムレオオフウセンタケ"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7379140",
+          "detail": "7379140"
+        }
+      ],
+      ko: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7379140",
+          "detail": "7379140"
+        }
+      ],
+      lv: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7379140",
+          "detail": "7379140"
+        }
+      ],
+      lt: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://lt.wikipedia.org/wiki/Valgomasis_nuos%C4%97dis"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7379140",
+          "detail": "7379140"
+        }
+      ],
+      no: [
+        {
+          "group": "name",
+          "name": "Artsdatabanken",
+          "href": "https://lister.artsdatabanken.no/rodlisteforarter/2021/6303",
+          "detail": "kjempeslørsopp"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7379140",
+          "detail": "7379140"
+        }
+      ],
+      fa: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7379140",
+          "detail": "7379140"
+        }
+      ],
+      pl: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://pl.wikipedia.org/wiki/Cortinarius_praestans"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7379140",
+          "detail": "7379140"
+        }
+      ],
+      pt: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7379140",
+          "detail": "7379140"
+        }
+      ],
+      ro: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://ro.wikipedia.org/wiki/Cortinarius_praestans"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7379140",
+          "detail": "7379140"
+        }
+      ],
+      ru: [
+        {
+          "group": "text",
+          "name": "Википедия",
+          "href": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%83%D1%82%D0%B8%D0%BD%D0%BD%D0%B8%D0%BA_%D0%BF%D1%80%D0%B5%D0%B2%D0%BE%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7379140",
+          "detail": "7379140"
+        }
+      ],
+      sr: [
+        {
+          "group": "text",
+          "name": "Википедија",
+          "href": "https://sr.wikipedia.org/wiki/%D0%94%D0%B5%D0%B1%D0%B5%D0%BB%D0%BE%D0%BD%D0%BE%D1%88%D0%BA%D0%B0"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7379140",
+          "detail": "7379140"
+        }
+      ],
+      sl: [
+        {
+          "group": "name",
+          "name": "Gobarsko društvo Lisička Maribor",
+          "href": "https://www.gobe.si/Gobe/CortinariusPraestans"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7379140",
+          "detail": "7379140"
+        }
+      ],
+      es: [
+        {
+          "group": "text",
+          "name": "Fichas Micológicas",
+          "href": "https://www.fichasmicologicas.com/?alf=C&art=295&micos=1",
+          "detail": "cortinario grande"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7379140",
+          "detail": "7379140"
+        }
+      ],
+      sv: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://sv.wikipedia.org/wiki/J%C3%A4ttespindling"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7379140",
+          "detail": "7379140"
+        }
+      ],
+      tr: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7379140",
+          "detail": "7379140"
+        }
+      ],
+      uk: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/7379140",
+          "detail": "7379140"
+        }
+      ]
+    },
+    synonyms: [
+      "Agaricus praestans Cordier",
+      "Phlegmacium praestans (Cordier) M.M.Moser",
+      "Cortinarius berkeleyi Cooke",
+      "Cortinarius infractus Berk. ex Mussat",
+      "Gomphos berkeleyi (Cooke) Kuntze",
+      "Phlegmacium berkeleyi (Cooke) Velen.",
+      "Phlegmacium pelmatosporum C.Martín"
     ]
   }
 ];

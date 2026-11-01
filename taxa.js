@@ -366,7 +366,9 @@ export const TAXA = {
   },
   Cortinarius: {
     rank: "genus",
-    sk: "pavučinovec"
+    sk: "pavučinovec",
+    cs: "pavučinec",
+    pl: "zasłonak"
   },
   Fistulinaceae: {
     rank: "family",
