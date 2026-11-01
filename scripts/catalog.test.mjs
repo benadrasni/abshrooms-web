@@ -1,6 +1,7 @@
 import assert from 'node:assert/strict';
 import test from 'node:test';
 import { COPY, LANGS, CATALOG as siteCatalog, countLabel, parse, viewModel } from '../catalog.js';
+import { EN_GB, prefersBritishEnglish } from '../copy.js';
 import { CATALOG } from '../species.js';
 
 const WHERE = new Set(['wood', 'ground', 'grass']);
@@ -23,6 +24,47 @@ test('each species carries its own identify facts', () => {
     assert.ok(species.fruitingFrom >= 1 && species.fruitingFrom <= 12, species.name);
     assert.ok(species.fruitingTo >= 1 && species.fruitingTo <= 12, species.name);
   }
+});
+
+test('Not clear skips the underside filter', () => {
+  const model = viewModel({ lang: 'en', view: 'identify', search: '?under=gills' });
+  assert.match(model.html, /class="petal-tile" aria-pressed="false" data-key="under-skip" data-id=""/);
+  assert.match(model.html, />Not clear<\/span><span class="num">/);
+  const unclearCount = CATALOG.length.toLocaleString('en-US');
+  assert.match(model.html, new RegExp('data-key="under-skip" data-id="">[\\s\\S]*?<span class="num">' + unclearCount + '</span>'));
+  assert.match(model.html, /id="identify-where"/);
+  assert.equal(model.html.includes('data-id="unclear"'), false);
+  assert.match(model.html, /aria-pressed="true"(?: disabled)? data-key="under" data-id="gills"/);
+});
+
+test('British English is a spelling overlay, not another language', () => {
+  assert.equal(LANGS.length, 34);
+  assert.equal(LANGS.some((language) => language.code === 'en_GB'), false);
+  assert.equal(COPY.en.colorQuestion, 'What color is the cap?');
+  assert.equal(EN_GB.colorQuestion, 'What colour is the cap?');
+  assert.equal(prefersBritishEnglish('en-GB'), true);
+  assert.equal(prefersBritishEnglish('en_GB'), true);
+  assert.equal(prefersBritishEnglish('en-gb-oxendict'), true);
+  assert.equal(prefersBritishEnglish('en-UK'), true);
+  assert.equal(prefersBritishEnglish('en-US'), false);
+  assert.equal(prefersBritishEnglish('en'), false);
+  assert.equal(prefersBritishEnglish('en-AU'), false);
+  const british = Object.assign({}, COPY.en, EN_GB);
+  assert.equal(british.colorQuestion, EN_GB.colorQuestion);
+  assert.equal(british.underQuestion, COPY.en.underQuestion);
+  for (const key of Object.keys(EN_GB)) {
+    assert.equal(typeof COPY.en[key], 'string', key);
+    assert.notEqual(EN_GB[key], COPY.en[key], key);
+    assert.match(EN_GB[key], /colour/i, key);
+    assert.doesNotMatch(COPY.en[key], /colour/i, key);
+  }
+  for (const [key, value] of Object.entries(COPY.en)) {
+    if (typeof value !== 'string' || !/colour/i.test(value)) continue;
+    assert.ok(EN_GB[key], key);
+  }
+  const model = viewModel({ lang: 'en', view: 'identify', search: '' });
+  assert.match(model.html, /What color is the cap\?/);
+  assert.equal(model.html.includes('What colour is the cap?'), false);
 });
 
 test('the season panel is a details element', () => {

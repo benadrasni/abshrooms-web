@@ -1,6 +1,6 @@
 import { LISTS } from "./lists.js";
 import { CATALOG, STORAGE } from "./species.js";
-import { COPY, LANGS, MONTHS } from "./copy.js";
+import { COPY, EN_GB, LANGS, MONTHS, prefersBritishEnglish } from "./copy.js";
 import { TAXA } from "./taxa.js";
 import {
   allowAnalytics,
@@ -25,8 +25,21 @@ var PATH_LANGS = LANGS.map(function (item) { return item.code; }).filter(functio
   return code !== "en";
 });
 
+function browserLanguage() {
+  if (typeof navigator !== "undefined" && navigator.language) {
+    return String(navigator.language);
+  }
+  return "";
+}
+
 function t(lang) {
-  return COPY[lang] || COPY.en;
+  var copy = COPY[lang] || COPY.en;
+  if (lang !== "en" || !prefersBritishEnglish(browserLanguage())) return copy;
+  var out = {};
+  var key;
+  for (key in copy) out[key] = copy[key];
+  for (key in EN_GB) out[key] = EN_GB[key];
+  return out;
 }
 
 function languageOf(lang) {
@@ -313,6 +326,7 @@ function keyGlyph(kind) {
     pits: '<path ' + pen + ' d="M24 16h24l8 14-8 14H24l-8-14z"/><path ' + pen + ' d="M24 16l8 14-8 14M40 16l-8 14 8 14M16 30h40"/><path ' + pen + ' d="M36 44v14"/>',
     smooth: '<path ' + pen + ' d="M22 40c-6-14 4-26 14-22 6-8 18-6 20 6 8 2 10 16 2 22-2 8-12 12-20 8-10 4-18 0-16-14z"/>',
     gleba: '<circle ' + pen + ' cx="36" cy="30" r="16"/><path ' + pen + ' d="M28 44c2 10 14 10 16 0"/><circle ' + ink + ' cx="30" cy="28" r="1.4"/><circle ' + ink + ' cx="38" cy="24" r="1.4"/><circle ' + ink + ' cx="42" cy="32" r="1.4"/>',
+    unclear: '<path ' + pen + ' d="M22 32C22 14 54 12 50 30C46 44 38 42 38 54"/><circle ' + ink + ' cx="38" cy="64" r="2.4"/>',
     wood: '<path ' + pen + ' d="M20 28h36c8 0 12 4 12 12c0 8-4 12-12 12H20"/><path ' + pen + ' d="M20 28c-8 2-12 6-12 12c0 6 4 10 12 12"/><path ' + pen + ' d="M16 34c3 2 3 8 0 10"/><circle ' + pen + ' cx="16" cy="40" r="5"/>',
     ground: '<path ' + pen + ' d="M24 12 12 32h7l-9 16h24l-9-16h7z"/><path ' + pen + ' d="M24 48v12"/><path ' + pen + ' d="M50 16 42 32h5l-6 12h16l-6-12h5z"/><path ' + pen + ' d="M50 44v16"/><path ' + pen + ' d="M6 60h60"/>',
     grass: '<path ' + pen + ' d="M8 62h56"/><path ' + pen + ' d="M16 62c0-12 2-18 6-26"/><path ' + pen + ' d="M22 62c0-10-2-16-8-22"/><path ' + pen + ' d="M34 62c0-16 4-26 10-34"/><path ' + pen + ' d="M46 62c0-12-4-20-10-26"/><path ' + pen + ' d="M56 62c0-12 2-18 6-24"/><path ' + pen + ' d="M60 62c-2-10-6-14-12-18"/><circle ' + pen + ' cx="44" cy="24" r="3"/><circle ' + pen + ' cx="20" cy="36" r="2.4"/>'
@@ -345,6 +359,8 @@ function identifyPage(lang, search, seasonOpen) {
     var right = displayName(b.label[lang], b.name, lang);
     return left.localeCompare(right, locale);
   });
+  var openUnder = { under: "", where: selection.where, color: selection.color, season: selection.season };
+  var unclearCount = CATALOG.filter(function (species) { return matchesSelection(species, openUnder); }).length;
   var openSeason = { under: selection.under, where: selection.where, color: selection.color, season: "" };
   var anySeasonCount = CATALOG.filter(function (species) { return matchesSelection(species, openSeason); }).length;
   var active = KEY_AXES.some(function (axis) { return selection[axis]; });
@@ -366,7 +382,14 @@ function identifyPage(lang, search, seasonOpen) {
       id,
       keyGlyph(id) + '<span class="lbl">' + esc(copy[pair[0]]) + '</span><span class="ex">' + esc(copy[pair[1]]) + '</span><span class="num">' + number(count) + "</span>"
     );
-  }).join("");
+  }).join("") + keyButton(
+    "petal-tile",
+    false,
+    unclearCount === 0,
+    "under-skip",
+    "",
+    keyGlyph("unclear") + '<span class="lbl">' + esc(copy.underUnclear) + '</span><span class="num">' + number(unclearCount) + "</span>"
+  );
   var whereTiles = KEY_WHERE.map(function (id) {
     var count = whereCounts[id] || 0;
     var pair = WHERE_COPY[id];
@@ -413,7 +436,7 @@ function identifyPage(lang, search, seasonOpen) {
         '<div class="identify-filters">' +
           "<fieldset><legend>" + esc(copy.underQuestion) + "</legend>" +
             '<p class="key-note">' + esc(copy.underNote) + '</p><div class="petal-grid">' + underTiles + "</div></fieldset>" +
-          "<fieldset><legend>" + esc(copy.whereQuestion) + "</legend>" +
+          '<fieldset id="identify-where"><legend>' + esc(copy.whereQuestion) + "</legend>" +
             keyButton("any-btn", !selection.where, false, "where", "", esc(copy.anyWhere)) +
             '<div class="habitat-grid">' + whereTiles + "</div></fieldset>" +
           "<fieldset><legend>" + esc(copy.colorQuestion) + "</legend>" +
@@ -1585,6 +1608,27 @@ var listenersBound = false;
 var started = false;
 var searchTimer = 0;
 
+function revealWhere() {
+  var whereField = document.getElementById("identify-where");
+  if (!whereField) return;
+  var legend = whereField.querySelector("legend") || whereField;
+  var box = legend.getBoundingClientRect();
+  var filters = document.querySelector(".identify-filters");
+  var filtersScroll = filters && filters.scrollHeight > filters.clientHeight + 1;
+  if (filtersScroll) {
+    var panel = filters.getBoundingClientRect();
+    if (box.top < panel.top + 8 || box.bottom > panel.bottom - 8) {
+      filters.scrollTop += box.top - panel.top;
+    }
+    return;
+  }
+  var bar = document.querySelector(".site-bar");
+  var limit = bar ? bar.getBoundingClientRect().bottom : 0;
+  if (box.top < limit + 4 || box.top > window.innerHeight * 0.45) {
+    window.scrollTo(0, window.scrollY + box.top - limit);
+  }
+}
+
 function bindListeners() {
   if (listenersBound || typeof document === "undefined") return;
   listenersBound = true;
@@ -1626,6 +1670,13 @@ document.addEventListener("click", function (event) {
   if (keyBtn) {
     var axis = keyBtn.getAttribute("data-key");
     var id = keyBtn.getAttribute("data-id") || "";
+    if (axis === "under-skip") {
+      var skipped = readSelection();
+      skipped.under = "";
+      writeSelection(skipped);
+      revealWhere();
+      return;
+    }
     if (axis === "clear" || axis === "season") {
       var panel = document.getElementById("identify-season-panel");
       if (panel) panel.open = false;
