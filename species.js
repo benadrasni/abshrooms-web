@@ -1670,6 +1670,10 @@ export const CATALOG = [
       }
     ],
     capTo: 10,
+    stipeHeightFrom: 2,
+    stipeHeightTo: 8,
+    stipeThickFrom: 0.5,
+    stipeThickTo: 1.5,
     fruitingFrom: 6,
     fruitingTo: 11,
     label: {
@@ -71202,6 +71206,10 @@ export const CATALOG = [
     ],
     capFrom: 2,
     capTo: 8,
+    stipeHeightFrom: 4,
+    stipeHeightTo: 12,
+    stipeThickFrom: 0.5,
+    stipeThickTo: 1.5,
     fruitingFrom: 7,
     fruitingTo: 10,
     label: {
@@ -72133,6 +72141,10 @@ export const CATALOG = [
     ],
     capFrom: 1,
     capTo: 4,
+    stipeHeightFrom: 2,
+    stipeHeightTo: 8,
+    stipeThickFrom: 0.1,
+    stipeThickTo: 0.4,
     fruitingFrom: 6,
     fruitingTo: 10,
     label: {

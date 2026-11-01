@@ -335,6 +335,18 @@ test('a species page shows the plate and photo credits stored on the record', ()
   assert.match(about.html, />UuMUfQ</);
 });
 
+const STIPE_FIELDS = ['stipeHeightFrom', 'stipeHeightTo', 'stipeThickFrom', 'stipeThickTo'];
+
+test('three species store the English stipe size in centimetres', () => {
+  function stipeSize(name) {
+    const species = CATALOG.find((item) => item.name === name);
+    return STIPE_FIELDS.map((field) => species[field]);
+  }
+  assert.deepEqual(stipeSize('Lactarius lignyotus'), [4, 12, 0.5, 1.5]);
+  assert.deepEqual(stipeSize('Entoloma incanum'), [2, 8, 0.1, 0.4]);
+  assert.deepEqual(stipeSize('Cantharellus cibarius'), [2, 8, 0.5, 1.5]);
+});
+
 test('a bad percent-encoding is the missing page, including lists', () => {
   assert.equal(parse('/mushroom/%E0%A4%A/').view, 'missing');
   assert.equal(parse('/family/%/').view, 'missing');
