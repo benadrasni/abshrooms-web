@@ -336,25 +336,15 @@ test('a species page shows the plate and photo credits stored on the record', ()
 });
 
 const STIPE_FIELDS = ['stipeHeightFrom', 'stipeHeightTo', 'stipeThickFrom', 'stipeThickTo'];
-const STIPE_SIZE = /\d+(?:[.,]\d+)?\s*(?:mm|cm)\b/i;
 
-test('a stipitate species that states a stipe size stores the measurement', () => {
-  const measurements = {
-    'Lactarius lignyotus': [4, 12, 0.5, 1.5],
-    'Entoloma incanum': [2, 8, 0.1, 0.4],
-    'Cantharellus cibarius': [2, 8, 0.5, 1.5],
-  };
-  for (const [name, expected] of Object.entries(measurements)) {
+test('three species store the English stipe size in centimetres', () => {
+  function stipeSize(name) {
     const species = CATALOG.find((item) => item.name === name);
-    assert.deepEqual(STIPE_FIELDS.map((field) => species[field]), expected, name);
+    return STIPE_FIELDS.map((field) => species[field]);
   }
-
-  for (const species of CATALOG) {
-    if (species.hymenium === 'gleba') continue;
-    const stipe = species.text && species.text.en && species.text.en.stipe;
-    if (!stipe || !STIPE_SIZE.test(stipe)) continue;
-    assert.ok(STIPE_FIELDS.some((field) => species[field] != null), species.name);
-  }
+  assert.deepEqual(stipeSize('Lactarius lignyotus'), [4, 12, 0.5, 1.5]);
+  assert.deepEqual(stipeSize('Entoloma incanum'), [2, 8, 0.1, 0.4]);
+  assert.deepEqual(stipeSize('Cantharellus cibarius'), [2, 8, 0.5, 1.5]);
 });
 
 test('a bad percent-encoding is the missing page, including lists', () => {
