@@ -335,6 +335,28 @@ test('a species page shows the plate and photo credits stored on the record', ()
   assert.match(about.html, />UuMUfQ</);
 });
 
+const STIPE_FIELDS = ['stipeHeightFrom', 'stipeHeightTo', 'stipeThickFrom', 'stipeThickTo'];
+const STIPE_SIZE = /\d+(?:[.,]\d+)?\s*(?:mm|cm)\b/i;
+
+test('a stipitate species that states a stipe size stores the measurement', () => {
+  const measurements = {
+    'Lactarius lignyotus': [4, 12, 0.5, 1.5],
+    'Entoloma incanum': [2, 8, 0.1, 0.4],
+    'Cantharellus cibarius': [2, 8, 0.5, 1.5],
+  };
+  for (const [name, expected] of Object.entries(measurements)) {
+    const species = CATALOG.find((item) => item.name === name);
+    assert.deepEqual(STIPE_FIELDS.map((field) => species[field]), expected, name);
+  }
+
+  for (const species of CATALOG) {
+    if (species.hymenium === 'gleba') continue;
+    const stipe = species.text && species.text.en && species.text.en.stipe;
+    if (!stipe || !STIPE_SIZE.test(stipe)) continue;
+    assert.ok(STIPE_FIELDS.some((field) => species[field] != null), species.name);
+  }
+});
+
 test('a bad percent-encoding is the missing page, including lists', () => {
   assert.equal(parse('/mushroom/%E0%A4%A/').view, 'missing');
   assert.equal(parse('/family/%/').view, 'missing');
