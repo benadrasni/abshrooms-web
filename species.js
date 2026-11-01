@@ -72978,5 +72978,950 @@ export const CATALOG = [
       "Nolanea euchlora (Lasch) Fayod",
       "Hyporrhodius euchlorus (Lasch) Henn."
     ]
+  },
+  {
+    id: 91,
+    name: "Terana caerulea",
+    author: "(Lam.) Kuntze",
+    family: "Phanerochaetaceae",
+    genus: "Terana",
+    order: "Polyporales",
+    edibility: "inedible",
+    hymenium: "smooth",
+    where: ["wood"],
+    color: ["purple", "dark"],
+    path: [
+      "Fungi",
+      "Dikarya",
+      "Basidiomycota",
+      "Agaricomycotina",
+      "Agaricomycetes",
+      "Agaricomycetidae",
+      "Incertae sedis",
+      "Polyporales",
+      "Phanerochaetaceae",
+      "Terana"
+    ],
+    summary: ["Polyporales", "Phanerochaetaceae", "Terana"],
+    added: "2026-10-31",
+    plate: STORAGE + "photos/Polyporales/Phanerochaetaceae/Terana_caerulea/Terana_caerulea@1600.webp",
+    plateGrid: STORAGE + "photos/Polyporales/Phanerochaetaceae/Terana_caerulea/Terana_caerulea@400.webp",
+    plateCredit: {
+      author: "James Sowerby",
+      license: "public domain",
+      source: "https://commons.wikimedia.org/wiki/File:Coloured_Figures_of_English_Fungi_or_Mushrooms_-_t._350.jpg"
+    },
+    photos: [
+      {
+        src: STORAGE + "photos/Polyporales/Phanerochaetaceae/Terana_caerulea/tc1.webp",
+        author: "Albarubescens",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Azzurro_cobalto.jpg"
+      },
+      {
+        src: STORAGE + "photos/Polyporales/Phanerochaetaceae/Terana_caerulea/tc2.webp",
+        author: "Martin Bemmann",
+        license: "CC BY 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Teranacaerulea.jpg"
+      },
+      {
+        src: STORAGE + "photos/Polyporales/Phanerochaetaceae/Terana_caerulea/tc3.webp",
+        author: "Ian Dodd (kundabungkid, Mushroom Observer)",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Terana_coerulea_(Schrad._ex_Lam.)_Kuntze_613192.jpg"
+      },
+      {
+        src: STORAGE + "photos/Polyporales/Phanerochaetaceae/Terana_caerulea/tc4.webp",
+        author: "Rosser1954 (Roger Griffith)",
+        license: "public domain",
+        source: "https://commons.wikimedia.org/wiki/File:Pulcherricium_caeruleum,_Cobalt_Crust_fungus.JPG"
+      },
+      {
+        src: STORAGE + "photos/Polyporales/Phanerochaetaceae/Terana_caerulea/tc5.webp",
+        author: "Lukas from London, England",
+        license: "CC BY-SA 2.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0",
+        source: "https://commons.wikimedia.org/wiki/File:Terana_caerulea_(27105221130).jpg"
+      },
+      {
+        src: STORAGE + "photos/Polyporales/Phanerochaetaceae/Terana_caerulea/tc6.webp",
+        author: "Björn S...",
+        license: "CC BY-SA 2.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0",
+        source: "https://commons.wikimedia.org/wiki/File:Terana_caerulea_(38872095642).jpg"
+      }
+    ],
+    fruitingFrom: 1,
+    fruitingTo: 12,
+    label: {
+      en: "cobalt crust",
+      sk: "kôrnatec",
+      zh: "藍色麗殼菌",
+      cs: "kornatec modrý",
+      da: "indigoskorpe",
+      nl: "Blauwe korstzwam",
+      et: "koobalttorik",
+      de: "Blauer Rindenpilz",
+      ja: "アイコウヤクタケ",
+      no: "indigobarksopp",
+      pl: "pięknoskórnik modry",
+      sl: "modreča krasotica",
+      sv: "blåskinn"
+    },
+    names: {
+      en: ["velvet blue spread"]
+    },
+    text: {
+      en: {
+        description: "A thin, waxy crust of deep blue to violet-blue that spreads in rounded patches over the underside of dead broadleaved wood. Its velvety surface and pale, finely fringed margin make it easy to recognise. It grows on fallen branches and logs in warm, damp woods, and it is rare in northern and central Europe.",
+        cap: "There is no cap. The fruit body is a flat crust that lies on the wood, starting as rounded patches typically 3–10 cm wide that merge into irregular sheets up to about 1 m long. It is deep blue to violet-blue with a paler, whitish, finely fringed margin that lies flat on the wood. The surface is smooth to slightly warty, velvety or waxy when moist and crusty and brittle when dry. Accounts of the thickness range from under 1 mm to 2–6 mm. Old specimens darken until they are almost black.",
+        hymenium: "The spore-bearing surface is the free outer face of the crust, smooth to slightly warty and finely velvety. On the underside of branches and logs it faces downward, which helps the spores to be shed. The basidia are club-shaped, four-spored, colourless or blue, and about 40–60 × 5–7 μm. The hyphae are thin, branched and have clamp connections, and there is only one type of hypha.",
+        stipe: "There is no stem. The crust is attached to the wood over its whole surface, and only the edges may lift slightly.",
+        flesh: "The flesh is a very thin layer, soft and waxy when moist and tough and brittle when dry. It has no noticeable smell or taste.",
+        sporePrint: "White to creamy white, sometimes with a faint bluish tinge. The spores are ellipsoidal, smooth, thin-walled, colourless or pale blue and non-amyloid, mostly about 6.5–9 × 4.5–6 μm, although some accounts give up to 12 × 7 μm.",
+        habitat: "A saprotrophic fungus on dead wood of broadleaved trees, most often ash, and also maple, oak, hazel, willow, hornbeam, beech, alder and elm. It grows on the underside of fallen branches, logs, brushwood and exposed roots, usually near the ground, in warm, damp deciduous woods. The fruit bodies last for more than a year, so they can be found in every month. It occurs in warm regions worldwide, in Europe mainly in the south and the Atlantic west, with isolated sites farther north such as western Norway. In Germany it seldom grows above 400 m.",
+        uses: "Not edible. It is a thin, tough, tasteless crust with no value as food.",
+        confusion: "Very few fungi of any shape are blue, and the deep blue, velvety crust with a pale margin can be recognised without a microscope. Byssocorticium atrovirens forms a web-like layer that is bright blue at first and then darkens and turns greener. Amaurodon species, such as Amaurodon viridis, also form flat crusts on rotting wood in blue to green colours, but their surface may be smooth, toothed or pored, whereas this fungus is a more solid, waxy and velvety crust.",
+        notes: "Rare and local in northern and central Europe. It has not been assessed by the IUCN. The Norwegian red list of 2021 rates it Least Concern (it was Near Threatened before). Denmark's red list classes it as regionally extinct (RE) because it had not been found there since 1883, but it was found again in 2024."
+      },
+      sk: {
+        description: "Tenká, voskovitá kôra hlboko modrej až fialovomodrej farby, ktorá sa v okrúhlych škvrnách rozlieha po spodnej strane odumretého dreva listnáčov. Zamatový povrch a svetlý, jemne strapkatý okraj ju robia ľahko rozpoznateľnou. Rastie na spadnutých konároch a kmeňoch v teplých vlhkých lesoch a v severnej a strednej Európe je vzácna.",
+        cap: "Klobúk chýba. Plodnica je plochá kôra priliehajúca k drevu. Začína ako okrúhle škvrny, zvyčajne široké 3–10 cm, ktoré splývajú do nepravidelných plôch dlhých až okolo 1 m. Je hlboko modrá až fialovomodrá so svetlejším, belavým, jemne strapkatým okrajom, ktorý leží plocho na dreve. Povrch je hladký až mierne bradavičnatý, za vlhka zamatový alebo voskovitý, za sucha kôrovitý a krehký. Údaje o hrúbke sa pohybujú od menej než 1 mm po 2–6 mm. Staré plodnice tmavnú, až sú takmer čierne.",
+        hymenium: "Výtrusorodou vrstvou je voľný vonkajší povrch kôry, hladký až mierne bradavičnatý a jemne zamatový. Na spodnej strane konárov a kmeňov smeruje nadol, čo uľahčuje uvoľňovanie výtrusov. Bazídiá sú kyjovité, štvorvýtrusné, bezfarebné alebo modré, veľké asi 40–60 × 5–7 μm. Hýfy sú tenké, rozvetvené, majú pracky a hýfový systém je len jedného typu.",
+        stipe: "Hlúbik chýba. Kôra priľnieva k drevu celou plochou a len okraje sa môžu mierne zdvíhať.",
+        flesh: "Dužina je veľmi tenká vrstva, za vlhka mäkká a voskovitá, za sucha húževnatá a krehká. Nemá výraznú vôňu ani chuť.",
+        sporePrint: "Biely až krémovobiely, niekedy s nepatrným modrastým nádychom. Výtrusy sú elipsoidné, hladké, tenkostenné, bezfarebné alebo bledomodré, neamyloidné, väčšinou asi 6,5–9 × 4,5–6 μm, hoci niektoré zdroje uvádzajú až 12 × 7 μm.",
+        habitat: "Saprotrofná huba na odumretom dreve listnatých stromov, najčastejšie jaseňa, ale aj javora, duba, lieskovca, vŕby, hrabu, buka, jelše a brestu. Rastie na spodnej strane spadnutých konárov, kmeňov, haluziny a obnažených koreňov, zvyčajne blízko zeme, v teplých vlhkých listnatých lesoch. Plodnice vydržia viac než rok, a preto sa dajú nájsť v každom mesiaci. Vyskytuje sa v teplých oblastiach celého sveta, v Európe najmä na juhu a v atlantickom západe, s ojedinelými lokalitami ďalej na sever, napríklad v západnom Nórsku. V Nemecku zriedka rastie nad 400 m.",
+        uses: "Nejedlá. Je to tenká, húževnatá kôra bez chuti a bez hodnoty ako potravina.",
+        confusion: "Veľmi málo húb akéhokoľvek tvaru je modrých a hlboko modrú zamatovú kôru so svetlým okrajom možno rozpoznať bez mikroskopu. Byssocorticium atrovirens vytvára pavučinovitú vrstvu, ktorá je spočiatku jasne modrá a potom tmavne a zelenie. Druhy rodu Amaurodon, napríklad Amaurodon viridis, tiež tvoria ploché kôry na hnijúcom dreve v modrých až zelených farbách, ich povrch však môže byť hladký, ostnitý alebo pórovitý, kým táto huba je pevnejšia, voskovitá a zamatová kôra.",
+        notes: "V severnej a strednej Európe vzácna a lokálna. Medzinárodná únia na ochranu prírody (IUCN) ju nehodnotila. Nórsky červený zoznam z roku 2021 ju vedie ako málo dotknutý druh (Least Concern), predtým bola takmer ohrozená. Dánsky červený zoznam ju zaraďuje medzi regionálne vyhynuté druhy (RE), pretože sa tam od roku 1883 nenašla, v roku 2024 však bola nájdená znova."
+      },
+      ar: {
+        description: "قشرة رقيقة شمعية بلون أزرق داكن إلى أزرق بنفسجي، تنتشر في بقع مستديرة على الجانب السفلي من الخشب الميت للأشجار عريضة الأوراق. يجعل سطحها المخملي وحافتها الفاتحة المهدّبة بدقة التعرف عليها سهلًا. تنمو على الأغصان والجذوع الساقطة في الغابات الدافئة الرطبة، وهي نادرة في شمال أوروبا ووسطها.",
+        cap: "لا توجد قبعة. الجسم الثمري قشرة مسطحة ملتصقة بالخشب. يبدأ بقعًا مستديرة، يبلغ عرضها عادةً ٣–١٠ سم، تندمج في طبقات غير منتظمة يصل طولها إلى نحو ١ م. لونها أزرق داكن إلى أزرق بنفسجي، وحافتها أفتح وبيضاء مائلة ومهدّبة بدقة، وتستلقي مسطحة على الخشب. السطح أملس إلى متثآلل قليلًا، مخملي أو شمعي عندما يكون رطبًا، وقشري هش عندما يجف. تتراوح بيانات السماكة من أقل من ١ مم إلى ٢–٦ مم. تغمق الأجسام الثمرية القديمة حتى تقارب السواد.",
+        hymenium: "الغشاء الثمري هو السطح الخارجي الحر للقشرة، أملس إلى متثآلل قليلًا ومخملي بدقة. على الجانب السفلي للأغصان والجذوع يتجه إلى الأسفل، مما يسهّل سقوط الأبواغ. الدعامات هراوية الشكل، رباعية الأبواغ، عديمة اللون أو زرقاء، وقياسها نحو ٤٠–٦٠ × ٥–٧ ميكرومتر. الخيوط الفطرية رفيعة ومتفرعة وذات وصلات مشبكية، ونظام الخيوط من نوع واحد فقط.",
+        stipe: "لا يوجد ساق. تلتصق القشرة بالخشب بكامل سطحها، ولا ترتفع إلا الحواف قليلًا.",
+        flesh: "اللحم طبقة رقيقة جدًا، لينة وشمعية عندما تكون رطبة، وجلدية هشة عندما تجف. ليس له رائحة ولا طعم ملحوظان.",
+        sporePrint: "أبيض إلى أبيض كريمي، وأحيانًا بلمسة زرقاء خفيفة. الأبواغ إهليلجية، ملساء، رقيقة الجدار، عديمة اللون أو زرقاء فاتحة، وغير نشوانية، وقياسها في الغالب نحو ٦.٥–٩ × ٤.٥–٦ ميكرومتر، مع أن بعض المصادر تذكر حتى ١٢ × ٧ ميكرومتر.",
+        habitat: "فطر رمّي ينمو على الخشب الميت للأشجار عريضة الأوراق، وأكثر ما يكون على المران، ولكن أيضًا على القيقب والسنديان والبندق والصفصاف والشرد والزان والنغت والدردار. ينمو على الجانب السفلي للأغصان الساقطة والجذوع والأغصان المتراكمة والجذور المكشوفة، وعادةً قرب الأرض، في الغابات عريضة الأوراق الدافئة الرطبة. تبقى الأجسام الثمرية أكثر من عام، لذلك يمكن العثور عليها في أي شهر. يوجد في المناطق الدافئة حول العالم، وفي أوروبا خاصة في الجنوب والغرب الأطلسي، مع مواقع متفرقة أبعد شمالًا، مثل غرب النرويج. وفي ألمانيا نادرًا ما ينمو فوق ٤٠٠ م.",
+        uses: "غير صالح للأكل. إنه قشرة رقيقة جلدية عديمة الطعم لا قيمة لها غذاءً.",
+        confusion: "قليل جدًا من الفطريات بأي شكل زرقاء، ويمكن التعرف على القشرة المخملية الزرقاء الداكنة ذات الحافة الفاتحة دون مجهر. يكوّن Byssocorticium atrovirens غشاءً يشبه نسيج العنكبوت، أزرق زاهيًا في البداية ثم يغمق ويميل إلى الخضرة. وتكوّن أنواع الجنس Amaurodon، مثل Amaurodon viridis، قشورًا مسطحة على الخشب المتعفن بألوان من الأزرق إلى الأخضر، لكن سطحها قد يكون أملس أو شائكًا أو مسامّيًا، أما هذا الفطر فقشرة أصلب وشمعية ومخملية.",
+        notes: "نادر ومحلي في شمال أوروبا ووسطها. لم يقيّمه الاتحاد الدولي لحفظ الطبيعة (IUCN). تصنّفه القائمة الحمراء النرويجية لعام ٢٠٢١ ضمن أقل الأنواع إثارة للقلق (Least Concern)، وكان سابقًا قريبًا من التهديد (Near Threatened). وتعدّه القائمة الحمراء الدنماركية منقرضًا إقليميًا (RE)، لأنه لم يُعثر عليه هناك منذ عام ١٨٨٣، لكنه وُجد من جديد في عام ٢٠٢٤."
+      },
+      bg: {
+        description: "Тънка, восъчна кора с наситено синьо до виолетовосиньо оцветяване, която расте на кръгли петна по долната страна на мъртва дървесина от широколистни дървета. Кадифената повърхност и светлият, фино ресничест ръб я правят лесна за разпознаване. Расте по паднали клони и стволове в топли влажни гори и е рядка в Северна и Централна Европа.",
+        cap: "Гугла няма. Плодното тяло е плоска кора, прилепнала към дървесината. Започва като кръгли петна, обикновено широки 3–10 cm, които се сливат в неправилни покривки с дължина до около 1 m. Наситено синьо до виолетовосиньо е, със светъл, беловат, фино ресничест ръб, който лежи плоско върху дървесината. Повърхността е гладка до леко брадавичеста, във влажно състояние кадифена или восъчна, а в сухо – корава и чуплива. Данните за дебелината варират от под 1 mm до 2–6 mm. Старите плодни тела потъмняват, докато станат почти черни.",
+        hymenium: "Спороносният слой е свободната външна повърхност на кората, гладка до леко брадавичеста и фино кадифена. От долната страна на клоните и стволовете тя е обърната надолу, което улеснява изсипването на спорите. Базидиите са боздуганоподобни, четириспорови, безцветни или сини, с размери около 40–60 × 5–7 μm. Хифите са тънки, разклонени и имат токи, а хифната система е само от един тип.",
+        stipe: "Пънче няма. Кората е прикрепена към дървесината с цялата си повърхност и само краищата могат леко да се повдигат.",
+        flesh: "Месото е много тънък слой, във влажно състояние меко и восъчно, а в сухо жилаво и чупливо. Няма забележим мирис или вкус.",
+        sporePrint: "Бял до кремавобял, понякога със слаб синкав оттенък. Спорите са елипсоидни, гладки, тънкостенни, безцветни или бледосини, неамилоидни, предимно около 6,5–9 × 4,5–6 μm, макар че някои източници посочват до 12 × 7 μm.",
+        habitat: "Сапротрофна гъба по мъртва дървесина от широколистни дървета, най-често ясен, а също и клен, дъб, леска, върба, габър, бук, елша и бряст. Расте от долната страна на паднали клони, стволове, храсталак и оголени корени, обикновено близо до земята, в топли влажни широколистни гори. Плодните тела траят повече от година, затова могат да се намерят във всеки месец. Среща се в топлите райони на света, в Европа главно на юг и в атлантическия запад, с отделни находища по-на север, например в Западна Норвегия. В Германия рядко расте над 400 m.",
+        uses: "Неядлива. Това е тънка, жилава кора без вкус и без стойност като храна.",
+        confusion: "Много малко гъби с каквато и да е форма са сини, а наситеносинята кадифена кора със светъл ръб може да се разпознае без микроскоп. Byssocorticium atrovirens образува паяжинест налеп, който отначало е ярко син, а после потъмнява и позеленява. Видовете от рода Amaurodon, например Amaurodon viridis, също образуват плоски кори по гниещата дървесина в сини до зелени цветове, но повърхността им може да е гладка, с шипчета или с пори, докато тази гъба е по-плътна, восъчна и кадифена кора.",
+        notes: "Рядка и локална в Северна и Централна Европа. Не е оценявана от IUCN. Червеният списък на Норвегия от 2021 г. я определя като вид с най-малка загриженост (Least Concern), по-рано е била почти застрашена (Near Threatened). Червеният списък на Дания я води като регионално изчезнала (RE), тъй като там не е намирана от 1883 г., но през 2024 г. е открита отново."
+      },
+      zh: {
+        description: "一種薄而蠟質的殼狀真菌，呈深藍至藍紫色，以圓形斑塊鋪展在闊葉樹枯木的下表面。表面如絨，邊緣淡色並有細緻的流蘇狀纖維，容易辨認。生於溫暖潮濕森林中的倒落枝條和原木上，在北歐和中歐罕見。",
+        cap: "沒有菌蓋。子實體是緊貼木材的扁平殼狀體。起初是圓形斑塊，通常寬3–10公分，之後合併成不規則的一層，長可達約1公尺。深藍至藍紫色，邊緣較淡、帶白色並有細緻的流蘇狀纖維，平貼在木材上。表面平滑至略帶疣狀，潮濕時如絨或蠟質，乾燥時呈殼狀且易碎。厚度的記載從不到1毫米到2–6毫米不等。老的子實體會變暗直至近乎黑色。",
+        hymenium: "子實層是殼狀體游離的外表面，平滑至略帶疣狀，並有細絨。在枝條和原木下側朝下，利於孢子掉落。擔子棒狀，四孢，無色或藍色，大小約40–60 × 5–7 μm。菌絲細而分枝，具鎖狀聯合，菌絲系統只有一種類型。",
+        stipe: "沒有菌柄。殼狀體以整個表面附著於木材，只有邊緣可能略微翹起。",
+        flesh: "菌肉是極薄的一層，潮濕時柔軟如蠟，乾燥時堅韌而易碎。沒有明顯的氣味或味道。",
+        sporePrint: "白色至乳白色，有時略帶藍色調。孢子橢圓形，光滑，壁薄，無色或淡藍色，非類澱粉質，大多約6.5–9 × 4.5–6 μm，但有些資料記載可達12 × 7 μm。",
+        habitat: "腐生於闊葉樹枯木上，最常見於白蠟樹，也生於槭樹、櫟樹、榛、柳、鵝耳櫪、山毛櫸、赤楊和榆樹。生長在倒落的枝條、原木、枯枝堆和外露樹根的下側，通常靠近地面，見於溫暖潮濕的闊葉林。子實體可存活一年以上，因此每個月都可能找到。分布於全球溫暖地區，在歐洲主要見於南部和大西洋沿岸的西部，更北處有零星產地，例如挪威西部。在德國很少生長在海拔400公尺以上。",
+        uses: "不可食用。它是薄而堅韌、無味的殼狀體，沒有食用價值。",
+        confusion: "無論何種形態，藍色的真菌都很少，而深藍色、如絨、邊緣淡色的殼狀體不用顯微鏡就能認出。Byssocorticium atrovirens形成蛛網狀的覆蓋層，起初亮藍色，之後變暗並帶綠色。Amaurodon屬的種類，例如Amaurodon viridis，也在腐木上形成藍至綠色的扁平殼狀體，但其表面可能平滑、有刺或具孔，而本種是較堅實、蠟質且如絨的殼狀體。",
+        notes: "在北歐和中歐罕見且分布局限。尚未經IUCN評估。挪威2021年紅色名錄將其評為無危（Least Concern），之前為近危（Near Threatened）。丹麥紅色名錄因自1883年起未再發現而將其列為區域滅絕（RE），但2024年已重新發現。"
+      },
+      hr: {
+        description: "Tanka, voštana kora duboke plave do ljubičastoplave boje koja se u okruglim mrljama širi po donjoj strani mrtvog drva listača. Baršunasta površina i svijetli, fino resast rub čine je lako prepoznatljivom. Raste na palim granama i deblima u toplim, vlažnim šumama, a u sjevernoj i srednjoj Europi je rijetka.",
+        cap: "Klobuka nema. Plodište je ravna kora koja naliježe na drvo. Počinje kao okrugle mrlje, obično široke 3–10 cm, koje se spajaju u nepravilne prevlake duge do oko 1 m. Duboko je plavo do ljubičastoplavo, sa svjetlijim, bjeličastim, fino resastim rubom koji leži ravno na drvu. Površina je glatka do blago bradavičasta, u vlažnom stanju baršunasta ili voštana, a u suhom korasta i krta. Podaci o debljini kreću se od manje od 1 mm do 2–6 mm. Stara plodišta tamne dok ne postanu gotovo crna.",
+        hymenium: "Hymenij je slobodna vanjska površina kore, glatka do blago bradavičasta i fino baršunasta. Na donjoj strani grana i debala okrenut je prema dolje, što olakšava osipanje spora. Bazidiji su batićasti, četverosporni, bezbojni ili plavi, veličine oko 40–60 × 5–7 μm. Hife su tanke, razgranate i imaju kopče, a hifni sustav je samo jednog tipa.",
+        stipe: "Stručka nema. Kora naliježe na drvo cijelom površinom, a samo se rubovi mogu lagano podizati.",
+        flesh: "Meso je vrlo tanak sloj, u vlažnom stanju mekan i voštan, a u suhom žilav i krt. Nema primjetan miris ni okus.",
+        sporePrint: "Bijel do kremastobijel, katkad s blagim plavičastim tonom. Spore su elipsoidne, glatke, tankih stijenki, bezbojne ili blijedoplave, neamiloidne, uglavnom veličine oko 6,5–9 × 4,5–6 μm, iako neki izvori navode do 12 × 7 μm.",
+        habitat: "Saprotrofna gljiva na mrtvom drvu listopadnog drveća, najčešće jasena, ali i javora, hrasta, lijeske, vrbe, graba, bukve, johe i brijesta. Raste na donjoj strani palih grana, debala, granja i otkrivenog korijenja, obično blizu tla, u toplim, vlažnim listopadnim šumama. Plodišta traju dulje od godine, pa se mogu naći u svakom mjesecu. Pojavljuje se u toplim područjima diljem svijeta, u Europi uglavnom na jugu i u atlantskom zapadu, s pojedinačnim nalazištima dalje na sjeveru, primjerice u zapadnoj Norveškoj. U Njemačkoj rijetko raste iznad 400 m.",
+        uses: "Nejestiva. Tanka je, žilava kora bez okusa i bez vrijednosti kao hrana.",
+        confusion: "Vrlo je malo gljiva bilo kojeg oblika plavo, a duboko plavu baršunastu koru sa svijetlim rubom moguće je prepoznati bez mikroskopa. Byssocorticium atrovirens tvori paučinastu prevlaku koja je u početku jarko plava, a potom tamni i zeleni. Vrste roda Amaurodon, primjerice Amaurodon viridis, također tvore ravne kore na trulom drvu u plavim do zelenim bojama, ali njihova površina može biti glatka, bodljikava ili porozna, dok je ova gljiva čvršća, voštana i baršunasta kora.",
+        notes: "Rijetka i lokalna u sjevernoj i srednjoj Europi. IUCN je nije procjenjivao. Norveški crveni popis iz 2021. godine razvrstava je kao vrstu najmanje zabrinutosti (Least Concern), ranije je bila gotovo ugrožena (Near Threatened). Danski crveni popis vodi je kao regionalno izumrlu (RE), jer tamo nije nađena od 1883. godine, ali je 2024. godine ponovno pronađena."
+      },
+      cs: {
+        description: "Tenká, voskovitá kůra sytě modré až fialově modré barvy, která se v kulatých skvrnách rozprostírá po spodní straně odumřelého dřeva listnáčů. Sametový povrch a světlý, jemně třepenitý okraj ji činí snadno poznatelnou. Roste na spadlých větvích a kmenech v teplých vlhkých lesích a v severní a střední Evropě je vzácná.",
+        cap: "Klobouk chybí. Plodnice je plochá kůra přiléhající ke dřevu. Začíná jako kulaté skvrny, obvykle široké 3–10 cm, které splývají do nepravidelných ploch dlouhých až asi 1 m. Je sytě modrá až fialově modrá se světlejším, bělavým, jemně třepenitým okrajem, který leží plocho na dřevě. Povrch je hladký až mírně bradavčitý, za vlhka sametový nebo voskovitý, za sucha kůrovitý a křehký. Údaje o tloušťce se pohybují od méně než 1 mm do 2–6 mm. Staré plodnice tmavnou, až jsou téměř černé.",
+        hymenium: "Výtrusorodou vrstvou je volný vnější povrch kůry, hladký až mírně bradavčitý a jemně sametový. Na spodní straně větví a kmenů směřuje dolů, což usnadňuje uvolňování výtrusů. Bazidie jsou kyjovité, čtyřvýtrusé, bezbarvé nebo modré, velké asi 40–60 × 5–7 μm. Hyfy jsou tenké, větvené, mají přezky a hyfový systém je jen jednoho typu.",
+        stipe: "Třeň chybí. Kůra přiléhá ke dřevu celou plochou a jen okraje se mohou mírně zvedat.",
+        flesh: "Dužnina je velmi tenká vrstva, za vlhka měkká a voskovitá, za sucha houževnatá a křehká. Nemá znatelnou vůni ani chuť.",
+        sporePrint: "Bílý až krémově bílý, někdy s nepatrným namodralým nádechem. Výtrusy jsou elipsoidní, hladké, tenkostěnné, bezbarvé nebo světle modré, neamyloidní, většinou asi 6,5–9 × 4,5–6 μm, i když některé zdroje uvádějí až 12 × 7 μm.",
+        habitat: "Saprotrofní houba na odumřelém dřevě listnatých stromů, nejčastěji jasanu, ale také javoru, dubu, lísky, vrby, habru, buku, olše a jilmu. Roste na spodní straně spadlých větví, kmenů, roští a obnažených kořenů, obvykle nízko nad zemí, v teplých vlhkých listnatých lesích. Plodnice vydrží déle než rok, a proto je lze najít v kterémkoli měsíci. Vyskytuje se v teplých oblastech celého světa, v Evropě hlavně na jihu a v atlantickém západě, s ojedinělými lokalitami dále na severu, například v západním Norsku. V Německu zřídka roste nad 400 m.",
+        uses: "Nejedlá. Je to tenká, houževnatá kůra bez chuti a bez hodnoty jako potravina.",
+        confusion: "Velmi málo hub jakéhokoli tvaru je modrých a sytě modrou sametovou kůru se světlým okrajem lze poznat bez mikroskopu. Byssocorticium atrovirens tvoří pavučinovitou vrstvu, která je zpočátku jasně modrá a potom tmavne a zelená. Druhy rodu Amaurodon, například Amaurodon viridis, také tvoří ploché kůry na tlejícím dřevě v modrých až zelených barvách, jejich povrch však může být hladký, ostnitý nebo pórovitý, zatímco tato houba je pevnější, voskovitá a sametová kůra.",
+        notes: "V severní a střední Evropě vzácná a lokální. Mezinárodní svaz ochrany přírody (IUCN) ji nehodnotil. Norský červený seznam z roku 2021 ji řadí mezi málo dotčené druhy (Least Concern), dříve byla téměř ohrožená. Dánský červený seznam ji vede jako regionálně vyhynulou (RE), protože tam od roku 1883 nebyla nalezena, v roce 2024 však byla nalezena znovu."
+      },
+      da: {
+        description: "En tynd, voksagtig skorpe i dybblå til violetblå, som brer sig i runde pletter over undersiden af dødt løvtræ. Den fløjlsagtige overflade og den lyse, fint frynsede rand gør den let at kende. Den vokser på nedfaldne grene og stammer i varme, fugtige skove og er sjælden i Nord- og Mellemeuropa.",
+        cap: "Der er ingen hat. Frugtlegemet er en flad skorpe, der ligger tæt på veddet. Det begynder som runde pletter, som regel 3–10 cm brede, der smelter sammen til uregelmæssige belægninger på op til ca. 1 m. Det er dybblåt til violetblåt med en lysere, hvidlig, fint frynset rand, der ligger fladt på veddet. Overfladen er glat til let vortet, fugtig fløjlsagtig eller voksagtig og tør skorpeagtig og skør. Angivelserne af tykkelsen spænder fra under 1 mm til 2–6 mm. Gamle frugtlegemer bliver mørkere, til de er næsten sorte.",
+        hymenium: "Sporelaget er skorpens frie yderside, glat til let vortet og fint fløjlsagtig. På undersiden af grene og stammer vender den nedad, hvilket gør det lettere for sporerne at falde af. Basidierne er kølleformede, firesporede, farveløse eller blå og ca. 40–60 × 5–7 μm. Hyferne er tynde og forgrenede med spænder, og der er kun én type hyfer.",
+        stipe: "Der er ingen stok. Skorpen sidder fast på veddet over hele fladen, og kun kanterne kan løfte sig lidt.",
+        flesh: "Kødet er et meget tyndt lag, fugtigt blødt og voksagtigt og tørt sejt og skørt. Det har ingen mærkbar lugt eller smag.",
+        sporePrint: "Hvidt til cremehvidt, nogle gange med et svagt blåligt skær. Sporerne er ellipsoide, glatte, tyndvæggede, farveløse eller lyseblå og ikke-amyloide, for det meste ca. 6,5–9 × 4,5–6 μm, selv om nogle kilder angiver op til 12 × 7 μm.",
+        habitat: "En saprotrof svamp på dødt ved af løvtræer, oftest ask, men også ahorn, eg, hassel, pil, avnbøg, bøg, el og elm. Den vokser på undersiden af nedfaldne grene, stammer, krat og blottede rødder, som regel tæt på jorden, i varme, fugtige løvskove. Frugtlegemerne holder sig i mere end et år, så de kan findes i alle måneder. Den forekommer i varme egne over hele verden, i Europa mest i syd og i det atlantiske vest, med enkelte lokaliteter længere mod nord, for eksempel i det vestlige Norge. I Tyskland vokser den sjældent over 400 m.",
+        uses: "Ikke spiselig. Det er en tynd, sej skorpe uden smag og uden værdi som føde.",
+        confusion: "Meget få svampe af nogen form er blå, og den dybblå, fløjlsagtige skorpe med lys rand kan kendes uden mikroskop. Byssocorticium atrovirens danner et spindelvævsagtigt lag, som først er klart blåt og derefter bliver mørkere og grønnere. Arter af slægten Amaurodon, for eksempel Amaurodon viridis, danner også flade skorper på rådnende ved i blå til grønne farver, men deres overflade kan være glat, pigget eller porøs, mens denne svamp er en fastere, voksagtig og fløjlsagtig skorpe.",
+        notes: "Sjælden og lokal i Nord- og Mellemeuropa. Den er ikke vurderet af IUCN. Den norske rødliste fra 2021 opfører den som livskraftig (Least Concern), tidligere var den næsten truet (Near Threatened). På den danske rødliste er den regionalt uddød (RE), fordi den ikke var fundet her siden 1883, men i 2024 blev den fundet igen."
+      },
+      nl: {
+        description: "Een dunne, wasachtige korst in diep blauw tot violetblauw, die zich in ronde vlekken uitbreidt over de onderkant van dood loofhout. Het fluweelachtige oppervlak en de lichte, fijn gefranjerde rand maken hem gemakkelijk herkenbaar. Hij groeit op gevallen takken en stammen in warme, vochtige bossen en is in Noord- en Midden-Europa zeldzaam.",
+        cap: "Een hoed ontbreekt. Het vruchtlichaam is een platte korst die tegen het hout aan ligt. Het begint als ronde vlekken, meestal 3–10 cm breed, die samengroeien tot onregelmatige lagen van wel 1 m lang. Het is diepblauw tot violetblauw met een lichtere, witachtige, fijn gefranjerde rand die plat op het hout ligt. Het oppervlak is glad tot licht wratterig, vochtig fluweelachtig of wasachtig en droog korstig en broos. De opgaven voor de dikte lopen uiteen van minder dan 1 mm tot 2–6 mm. Oude exemplaren worden donkerder tot ze bijna zwart zijn.",
+        hymenium: "Het sporendragende oppervlak is de vrije buitenkant van de korst, glad tot licht wratterig en fijn fluweelachtig. Aan de onderkant van takken en stammen wijst het naar beneden, wat het vrijkomen van de sporen vergemakkelijkt. De basidiën zijn knotsvormig, viersporig, kleurloos of blauw en ongeveer 40–60 × 5–7 μm groot. De hyfen zijn dun, vertakt en hebben gespen, en er is maar één type hyfe.",
+        stipe: "Een steel ontbreekt. De korst zit met het hele oppervlak vast aan het hout, alleen de randen kunnen iets loskomen.",
+        flesh: "Het vlees is een zeer dunne laag, vochtig zacht en wasachtig, droog taai en broos. Het heeft geen opvallende geur of smaak.",
+        sporePrint: "Wit tot crèmewit, soms met een zwakke blauwe zweem. De sporen zijn ellipsvormig, glad, dunwandig, kleurloos of lichtblauw en niet-amyloïd, meestal ongeveer 6,5–9 × 4,5–6 μm, hoewel sommige bronnen tot 12 × 7 μm noemen.",
+        habitat: "Een saprotrofe schimmel op dood hout van loofbomen, meestal es, maar ook esdoorn, eik, hazelaar, wilg, haagbeuk, beuk, els en iep. Hij groeit aan de onderkant van gevallen takken, stammen, takkenbossen en blootliggende wortels, meestal dicht bij de grond, in warme, vochtige loofbossen. De vruchtlichamen blijven langer dan een jaar bestaan, zodat ze in elke maand te vinden zijn. Hij komt wereldwijd voor in warme gebieden, in Europa vooral in het zuiden en het Atlantische westen, met verspreide vindplaatsen verder naar het noorden, zoals West-Noorwegen. In Duitsland groeit hij zelden boven 400 m.",
+        uses: "Niet eetbaar. Het is een dunne, taaie, smaakloze korst zonder waarde als voedsel.",
+        confusion: "Maar zeer weinig schimmels, in welke vorm ook, zijn blauw, en de diepblauwe, fluweelachtige korst met een lichte rand is zonder microscoop te herkennen. Byssocorticium atrovirens vormt een spinnenwebachtige laag die eerst helderblauw is en daarna donkerder en groener wordt. Soorten van het geslacht Amaurodon, zoals Amaurodon viridis, vormen ook platte korsten op rottend hout in blauwe tot groene kleuren, maar hun oppervlak kan glad, stekelig of poreus zijn, terwijl deze schimmel een stevigere, wasachtige en fluweelachtige korst is.",
+        notes: "Zeldzaam en lokaal in Noord- en Midden-Europa. De IUCN heeft de soort niet beoordeeld. De Noorse rode lijst van 2021 rekent hem tot de niet-bedreigde soorten (Least Concern), eerder was hij bijna bedreigd (Near Threatened). De Deense rode lijst rekent hem tot de regionaal uitgestorven soorten (RE), omdat hij daar sinds 1883 niet meer was gevonden, maar in 2024 werd hij opnieuw ontdekt."
+      },
+      et: {
+        description: "Õhuke, vahajas sügavsinine kuni violetsinine koorik, mis levib ümarate laikudena surnud lehtpuu alaküljele. Sametine pind ja hele, peenelt narmendav serv teevad selle kergesti äratuntavaks. See kasvab langenud okstel ja tüvedel soojades, niisketes metsades ning on Põhja- ja Kesk-Euroopas haruldane.",
+        cap: "Kübarat ei ole. Viljakeha on lame koorik, mis asetseb tihedalt vastu puitu. See algab ümarate laikudena, tavaliselt 3–10 cm laiustena, mis liituvad ebakorrapärasteks kateteks, kuni umbes 1 m pikkusteks. See on sügavsinine kuni violetsinine heledama, valkja, peenelt narmendava servaga, mis asub lamedalt puidul. Pind on sile kuni kergelt soolatiline, niiskena sametine või vahajas ning kuivana koorikjas ja habras. Paksusandmed ulatuvad alla 1 mm kuni 2–6 mm-ni. Vanad viljakehad tumenevad peaaegu mustaks.",
+        hymenium: "Eoslavakiht on koorikus vaba välispind, sile kuni kergelt soolatiline ja peenelt sametine. Okste ja tüvede alaküljel on see suunatud allapoole, mis hõlbustab eoste kukkumist. Basiidid on nuiakujulised, neljaeoselised, värvitud või sinised ja umbes 40–60 × 5–7 μm. Hüüfid on peened ja harunenud, neil on needisspangad ning hüüfisüsteem on ainult üht tüüpi.",
+        stipe: "Jalga ei ole. Koorik kinnitub puidule kogu pinnaga ja ainult servad võivad veidi tõusta.",
+        flesh: "Viljaliha on väga õhuke kiht, niiskena pehme ja vahajas ning kuivana sitke ja habras. Sellel ei ole märgatavat lõhna ega maitset.",
+        sporePrint: "Valge kuni kreemjasvalge, mõnikord kergelt sinakas. Eosed on ellipsoidsed, siledad, õhukese seinaga, värvitud või helesinised ja mitteamüloidsed, enamasti umbes 6,5–9 × 4,5–6 μm, kuigi mõned allikad toovad kuni 12 × 7 μm.",
+        habitat: "Saprotroof surnud lehtpuupuidul, enamasti saarel, kuid ka vahtral, tammel, sarapuul, pajul, valgel kasel, pöögil, lepal ja jalakal. See kasvab langenud okste, tüvede, hagude ja paljastunud juurte alaküljel, tavaliselt maapinna lähedal, soojades, niisketes lehtmetsades. Viljakehad püsivad üle aasta, mistõttu neid võib leida igal kuul. Liik esineb soojades piirkondades üle kogu maailma, Euroopas peamiselt lõunas ja Atlandi-poolses läänes, üksikud kasvukohad on kaugemal põhjas, näiteks Lääne-Norras. Saksamaal kasvab see harva üle 400 m kõrgusel.",
+        uses: "Mittesöödav. See on õhuke, sitke, maitsetu koorik, millel pole toiduna väärtust.",
+        confusion: "Väga vähesed seened on sinised ja sügavsinist sametist koorikut heleda servaga tunneb ära ilma mikroskoobita. Byssocorticium atrovirens moodustab ämblikuvõrgutaolise katte, mis on alguses erksinine ja läheb siis tumedamaks ja rohekamaks. Amaurodon-perekonna liigid, näiteks Amaurodon viridis, moodustavad samuti lamedaid koorikuid mädanevale puidule siniste kuni roheliste värvidega, kuid nende pind võib olla sile, okkaline või poorne, samal ajal kui see seen on tihedam, vahajas ja sametine koorik.",
+        notes: "Põhja- ja Kesk-Euroopas haruldane ja kohalik. IUCN pole seda hinnanud. Norra 2021. aasta punane nimestik loeb selle ohuvälijaks (Least Concern), varem oli see ohulähedane (Near Threatened). Taani punases nimestikus on see regionaalselt hävinud (RE), sest seal ei olnud seda leitud alates 1883. aastast, kuid 2024. aastal leiti see uuesti."
+      },
+      fi: {
+        description: "Ohut, vahamainen syvänsinisen tai violetinsinisen sävyinen kuori, joka leviää pyöreinä laikkuina kuolleen lehtipuun alapinnalle. Samettinen pinta ja vaalea, hienosti liehuva reuna tekevät siitä helposti tunnistettavan. Se kasvaa kaatuneilla oksilla ja rungoilla lämpimissä, kosteissa metsissä, ja on harvinainen Pohjois- ja Keski-Euroopassa.",
+        cap: "Lakkia ei ole. Itiöemä on tasainen kuori, joka on tiiviisti puuta vasten. Se alkaa pyöreinä laikkuina, yleensä 3–10 cm leveinä, jotka yhdistyvät epäsäännöllisiksi peitteiksi, jopa noin 1 m pitkiksi. Se on syvänsininen tai violetinsininen, ja siinä on vaaleampi, valkoinen, hienosti liehuva reuna, joka on tasaisesti puuta vasten. Pinta on sileä tai hieman syylämäinen, märkänä samettinen tai vahamainen ja kuivana kuorimainen ja hauras. Paksuustiedot vaihtelevat alle 1 mm:stä 2–6 mm:iin. Vanhat itiöemät tummuvat lähes mustiksi.",
+        hymenium: "Itiökerros on kuoren vapaa ulkopinta, sileä tai hieman syylämäinen ja hienosti samettinen. Oksien ja runkojen alapinnalla se on alaspäin, mikä helpottaa itiöiden putoamista. Tyvisolut ovat nuijamaisia, nelitiöisiä, väritöntä tai sinisiä ja noin 40–60 × 5–7 μm. Rihmat ovat ohuita ja haarautuvia, ja niissä on solmuja eli lukkoja, ja rihmastotyyppejä on vain yksi.",
+        stipe: "Jalkaa ei ole. Kuori kiinnittyy puuhun koko alaltaan, ja vain reunat voivat nousta hieman.",
+        flesh: "Lihaa on hyvin ohut kerros, märkänä pehmeä ja vahamainen ja kuivana sitkeä ja hauras. Siinä ei ole huomattavaa hajua tai makua.",
+        sporePrint: "Valkoinen tai kermanvalkoinen, joskus hieman sinertävä. Itiöt ovat ellipsoidisia, sileitä, ohutseinäisiä, värittömiä tai vaaleansinisiä ja ei-amyloidisia, enimmäkseen noin 6,5–9 × 4,5–6 μm, vaikka jotkin lähteet ilmoittavat jopa 12 × 7 μm.",
+        habitat: "Lahottaja kuolleella lehtipuun puulla, useimmiten saarnella, mutta myös vaahteralla, tammella, pähkinäpensaalla, pajulla, valkopyökillä, pyökillä, lepällä ja jalavalla. Se kasvaa kaatuneiden oksien, runkojen, risujen ja paljastuneiden juurten alapinnalla, yleensä lähellä maata, lämpimissä, kosteissa lehtimetsissä. Itiöemät säilyvät yli vuoden, joten niitä voi löytää kaikkina kuukausina. Laji esiintyy lämpimillä alueilla kaikkialla maailmassa, Euroopassa lähinnä etelässä ja Atlantin puoleisessa lännessä, ja yksittäisiä kasvupaikkoja on kauempana pohjoisessa, esimerkiksi Länsi-Norjassa. Saksassa se kasvaa harvoin yli 400 metrin korkeudella.",
+        uses: "Ei syötävä. Se on ohut, sitkeä, mauton kuori, jolla ei ole arvoa ruokana.",
+        confusion: "Hyvin harvat sienet ovat sinisiä, ja syvänsininen, samettinen kuori vaalealla reunalla tunnistetaan ilman mikroskooppia. Byssocorticium atrovirens muodostaa hämähäkinseittimäisen peitteen, joka on aluksi kirkkaan sininen ja tummuu sitten vihertäväksi. Amaurodon-suvun lajit, esimerkiksi Amaurodon viridis, muodostavat myös tasaisia kuoria lahoavalle puulle sinisinä tai vihreinä, mutta niiden pinta voi olla sileä, piikikäs tai huokoinen, kun taas tämä sieni on tiiviimpi, vahamainen ja samettinen kuori.",
+        notes: "Harvinainen ja paikallinen Pohjois- ja Keski-Euroopassa. IUCN ei ole arvioinut sitä. Norjan vuoden 2021 punainen lista luokittelee sen elinvoimaiseksi (Least Concern), aiemmin se oli silmälläpidettävä (Near Threatened). Tanskan punaisessa listassa se on alueellisesti hävinnyt (RE), koska sitä ei ollut löydetty sieltä vuoden 1883 jälkeen, mutta vuonna 2024 se löydettiin uudelleen."
+      },
+      fr: {
+        description: "Une croûte mince et cireuse, d'un bleu profond à bleu violet, qui s'étend en plaques arrondies sous le bois mort de feuillus. La surface veloutée et la marge claire, finement frangée, la rendent facile à reconnaître. Elle pousse sur les branches et les troncs tombés dans les bois chauds et humides et est rare dans le nord et le centre de l'Europe.",
+        cap: "Pas de chapeau. Le carpophore est une croûte plate, appliquée sur le bois. Il débute en plaques arrondies, en général de 3–10 cm de large, qui fusionnent en revêtements irréguliers pouvant atteindre environ 1 m de long. Il est d'un bleu profond à bleu violet, avec une marge plus claire, blanchâtre et finement frangée, posée à plat sur le bois. La surface est lisse à légèrement verruqueuse, veloutée ou cireuse à l'état humide, croûteuse et cassante à l'état sec. Les données sur l'épaisseur vont de moins de 1 mm à 2–6 mm. Les vieux carpophores noircissent jusqu'à devenir presque noirs.",
+        hymenium: "L'hyménium est la face externe libre de la croûte, lisse à légèrement verruqueuse et finement veloutée. Sous les branches et les troncs, il est tourné vers le bas, ce qui facilite la chute des spores. Les basides sont en massue, à quatre spores, incolores ou bleues, d'environ 40–60 × 5–7 μm. Les hyphes sont minces et ramifiées, munies de boucles, et le système hyphal est d'un seul type.",
+        stipe: "Pas de pied. La croûte adhère au bois sur toute sa surface, et seules les marges peuvent se soulever un peu.",
+        flesh: "La chair forme une couche très mince, molle et cireuse à l'état humide, tenace et cassante à l'état sec. Elle n'a ni odeur ni saveur notables.",
+        sporePrint: "Blanche à blanc crème, parfois avec une légère teinte bleutée. Les spores sont ellipsoïdes, lisses, à paroi mince, incolores ou bleu pâle, non amyloïdes, pour la plupart d'environ 6,5–9 × 4,5–6 μm, bien que certaines sources indiquent jusqu'à 12 × 7 μm.",
+        habitat: "Un champignon saprotrophe sur le bois mort de feuillus, le plus souvent de frêne, mais aussi d'érable, de chêne, de noisetier, de saule, de charme, de hêtre, d'aulne et d'orme. Il pousse sous les branches tombées, les troncs, les brindilles et les racines mises à nu, en général près du sol, dans les bois de feuillus chauds et humides. Les carpophores durent plus d'un an, si bien qu'on peut en trouver tous les mois. Il se rencontre dans les régions chaudes du monde entier, en Europe surtout dans le sud et dans l'ouest atlantique, avec des stations isolées plus au nord, par exemple dans l'ouest de la Norvège. En Allemagne, il dépasse rarement 400 m d'altitude.",
+        uses: "Non comestible. C'est une croûte mince, coriace et sans saveur, sans valeur alimentaire.",
+        confusion: "Très peu de champignons, quelle que soit leur forme, sont bleus, et la croûte d'un bleu profond, veloutée, à marge claire, se reconnaît sans microscope. Byssocorticium atrovirens forme un revêtement arachnéen, d'abord bleu vif, qui devient ensuite plus sombre et plus verdâtre. Les espèces du genre Amaurodon, comme Amaurodon viridis, forment elles aussi des croûtes plates sur le bois en décomposition, dans des tons allant du bleu au vert, mais leur surface peut être lisse, épineuse ou poreuse, alors que ce champignon est une croûte plus ferme, cireuse et veloutée.",
+        notes: "Rare et localisée dans le nord et le centre de l'Europe. Elle n'a pas été évaluée par l'UICN. La Liste rouge norvégienne de 2021 la classe en préoccupation mineure (Least Concern) ; elle était auparavant quasi menacée (Near Threatened). La Liste rouge danoise la considère comme disparue au niveau régional (RE), car elle n'y avait pas été trouvée depuis 1883, mais elle a été retrouvée en 2024."
+      },
+      de: {
+        description: "Eine dünne, wachsartige Kruste in tiefem Blau bis Violettblau, die sich in rundlichen Flecken über die Unterseite von totem Laubholz ausbreitet. Die samtige Oberfläche und der helle, fein gefranste Rand machen sie leicht erkennbar. Sie wächst an gefallenen Ästen und Stämmen in warmen, feuchten Wäldern und ist in Nord- und Mitteleuropa selten.",
+        cap: "Ein Hut fehlt. Der Fruchtkörper ist eine flache Kruste, die dem Holz anliegt. Er beginnt als rundliche Flecken, meist 3–10 cm breit, die zu unregelmäßigen Überzügen von bis zu etwa 1 m Länge verschmelzen. Er ist tiefblau bis violettblau mit einem helleren, weißlichen, fein gefransten Rand, der flach auf dem Holz liegt. Die Oberfläche ist glatt bis leicht warzig, feucht samtig oder wachsartig, trocken krustig und brüchig. Die Angaben zur Dicke reichen von unter 1 mm bis 2–6 mm. Alte Fruchtkörper dunkeln nach, bis sie fast schwarz sind.",
+        hymenium: "Die sporentragende Schicht ist die freie Außenseite der Kruste, glatt bis leicht warzig und fein samtig. An der Unterseite von Ästen und Stämmen zeigt sie nach unten, was das Ausfallen der Sporen erleichtert. Die Basidien sind keulenförmig, viersporig, farblos oder blau und etwa 40–60 × 5–7 μm groß. Die Hyphen sind dünn, verzweigt und haben Schnallen, und es gibt nur einen Hyphentyp.",
+        stipe: "Ein Stiel fehlt. Die Kruste haftet mit der ganzen Fläche am Holz, nur die Ränder können sich leicht abheben.",
+        flesh: "Das Fleisch ist eine sehr dünne Schicht, feucht weich und wachsartig, trocken zäh und brüchig. Es hat keinen auffälligen Geruch und Geschmack.",
+        sporePrint: "Weiß bis cremeweiß, manchmal mit einem schwachen Blaustich. Die Sporen sind ellipsoid, glatt, dünnwandig, farblos oder hellblau und nichtamyloid, meist etwa 6,5–9 × 4,5–6 μm, einzelne Quellen nennen bis zu 12 × 7 μm.",
+        habitat: "Ein saprotropher Pilz auf totem Holz von Laubbäumen, am häufigsten Esche, aber auch Ahorn, Eiche, Hasel, Weide, Hainbuche, Buche, Erle und Ulme. Er wächst an der Unterseite von gefallenen Ästen, Stämmen, Reisig und freiliegenden Wurzeln, meist nahe am Boden, in warmen, feuchten Laubwäldern. Die Fruchtkörper halten länger als ein Jahr, sodass sie in jedem Monat zu finden sind. Er kommt weltweit in warmen Gebieten vor, in Europa vor allem im Süden und im atlantischen Westen, mit vereinzelten Fundorten weiter nördlich, etwa in Westnorwegen. In Deutschland wächst er selten über 400 m.",
+        uses: "Kein Speisepilz. Er ist eine dünne, zähe, geschmacklose Kruste ohne Wert als Nahrung.",
+        confusion: "Nur sehr wenige Pilze gleich welcher Form sind blau, und die tiefblaue, samtige Kruste mit hellem Rand lässt sich ohne Mikroskop erkennen. Byssocorticium atrovirens bildet einen spinnwebartigen Belag, der zuerst leuchtend blau ist und dann nachdunkelt und grüner wird. Arten der Gattung Amaurodon, etwa Amaurodon viridis, bilden ebenfalls flache Krusten auf morschem Holz in blauen bis grünen Farben, ihre Oberfläche kann aber glatt, stachelig oder porig sein, während dieser Pilz eine festere, wachsartige und samtige Kruste ist.",
+        notes: "In Nord- und Mitteleuropa selten und lokal. Die IUCN hat die Art nicht bewertet. Die norwegische Rote Liste von 2021 führt sie als nicht gefährdet (Least Concern), zuvor galt sie als potenziell gefährdet. Die dänische Rote Liste stuft sie als regional ausgestorben (RE) ein, weil sie dort seit 1883 nicht gefunden wurde, 2024 wurde sie aber wieder entdeckt. Pilz des Jahres 2009 in Deutschland."
+      },
+      he: {
+        description: "קרום דק ושעוותי בצבע כחול עמוק עד כחול־סגול, המתפשט בכתמים עגולים על הצד התחתון של עץ מת של עצי עלים רחבים. המשטח הקטיפתי והשוליים הבהירים והמשוספסים בעדינות הופכים אותו לקל לזיהוי. הוא גדל על ענפים וגזעים שנפלו ביערות חמים ולחים, והוא נדיר בצפון אירופה ובמרכזה.",
+        cap: "אין כובע. גוף הפרי הוא קרום שטוח הצמוד לעץ. הוא מתחיל ככתמים עגולים, בדרך כלל ברוחב 3–10 ס״מ, המתמזגים לכיסויים לא סדירים באורך של עד כ־1 מ׳. הוא כחול עמוק עד כחול־סגול, עם שוליים בהירים יותר, לבנבנים ומשוספסים בעדינות, השוכבים שטוחים על העץ. המשטח חלק עד מעט יבלתי, קטיפתי או שעוותי כשהוא לח, וקרומי ושביר כשהוא יבש. הנתונים על העובי נעים מפחות מ־1 מ״מ ועד 2–6 מ״מ. גופי פרי ישנים מחשיכים עד שהם כמעט שחורים.",
+        hymenium: "ההימניום הוא פני השטח החיצוניים החופשיים של הקרום, חלקים עד מעט יבלתיים וקטיפתיים בעדינות. בצד התחתון של ענפים וגזעים הוא פונה כלפי מטה, מה שמקל על נפילת הנבגים. הבזידיות בצורת אלה, בעלות ארבעה נבגים, חסרות צבע או כחולות, בגודל של כ־40–60 × 5–7 מיקרומטר. ההיפות דקות ומסועפות, בעלות מחברי ידית, ומערכת ההיפות היא מסוג אחד בלבד.",
+        stipe: "אין רגל. הקרום נצמד לעץ בכל שטחו, ורק השוליים עשויים להתרומם מעט.",
+        flesh: "הבשר הוא שכבה דקה מאוד, רכה ושעוותית כשהיא לחה, קשיחה ושברירית כשהיא יבשה. אין לו ריח או טעם בולטים.",
+        sporePrint: "לבן עד לבן־שמנת, לעיתים עם גוון כחלחל קלוש. הנבגים אליפסואידיים, חלקים, דקי דופן, חסרי צבע או כחולים בהירים, ולא עמילואידיים, ברובם כ־6.5–9 × 4.5–6 מיקרומטר, אם כי מקורות מסוימים מציינים עד 12 × 7 מיקרומטר.",
+        habitat: "פטרייה סאפרוטרופית על עץ מת של עצי עלים רחבים, לרוב ממילה, אך גם מאדר, אלון, אגוז לוז, ערבה, קרפינוס, אשור, אלנוס ובוקיצה. היא גדלה בצד התחתון של ענפים שנפלו, גזעים, זרדים ושורשים חשופים, בדרך כלל קרוב לקרקע, ביערות עלים רחבים חמים ולחים. גופי הפרי מחזיקים יותר משנה, ולכן אפשר למצוא אותם בכל חודש. היא מופיעה באזורים חמים ברחבי העולם, באירופה בעיקר בדרום ובמערב האטלנטי, עם אתרים בודדים רחוק יותר צפונה, למשל במערב נורווגיה. בגרמניה היא גדלה לעיתים נדירות מעל 400 מ׳.",
+        uses: "אינה אכילה. זהו קרום דק, קשיח וחסר טעם, וללא ערך כמזון.",
+        confusion: "מעט מאוד פטריות מכל צורה הן כחולות, ואת הקרום הקטיפתי בכחול עמוק עם שוליים בהירים אפשר לזהות בלי מיקרוסקופ. Byssocorticium atrovirens יוצרת ציפוי דמוי קורי עכביש, כחול בוהק בתחילה, ואחר כך כהה וירקרק יותר. מינים מהסוג Amaurodon, כגון Amaurodon viridis, יוצרים אף הם קרומים שטוחים על עץ מתכלה בצבעים מכחול עד ירוק, אך פני השטח שלהם עשויים להיות חלקים, קוצניים או נקבוביים, ואילו פטרייה זו היא קרום מוצק יותר, שעוותי וקטיפתי.",
+        notes: "נדירה ומקומית בצפון אירופה ובמרכזה. לא הוערכה על ידי IUCN. הרשימה האדומה של נורווגיה מ־2021 מדרגת אותה כ״מעוררת דאגה פחותה״ (Least Concern), ובעבר הייתה כ״כמעט מאוימת״ (Near Threatened). הרשימה האדומה של דנמרק מסווגת אותה כ״נכחדה אזורית״ (RE), משום שלא נמצאה שם מאז 1883, אך היא נמצאה שוב ב־2024."
+      },
+      hi: {
+        description: "गहरे नीले से बैंगनी-नीले रंग की पतली, मोमी पपड़ी, जो चौड़ी पत्तियों वाले पेड़ों की मृत लकड़ी की निचली सतह पर गोल धब्बों के रूप में फैलती है। मखमली सतह और हल्का, बारीक झालरदार किनारा इसे पहचानना आसान बनाते हैं। यह गर्म, नम जंगलों में गिरी हुई टहनियों और लट्ठों पर उगती है और उत्तरी तथा मध्य यूरोप में दुर्लभ है।",
+        cap: "टोपी नहीं होती। फलनकाय लकड़ी से चिपकी हुई चपटी पपड़ी है। यह गोल धब्बों के रूप में शुरू होती है, जो आमतौर पर 3–10 सेमी चौड़े होते हैं और आपस में मिलकर लगभग 1 मीटर तक लंबी अनियमित परत बना लेते हैं। यह गहरे नीले से बैंगनी-नीले रंग की होती है, किनारा हल्का, सफ़ेदी लिए और बारीक झालरदार होता है, जो लकड़ी पर चपटा पड़ा रहता है। सतह चिकनी से थोड़ी मस्सेदार होती है, नम होने पर मखमली या मोमी और सूखने पर पपड़ीदार तथा भंगुर। मोटाई के आँकड़े 1 मिमी से कम से लेकर 2–6 मिमी तक मिलते हैं। पुराने फलनकाय लगभग काले होने तक गहरे पड़ते जाते हैं।",
+        hymenium: "बीजाणुधानी परत पपड़ी की खुली बाहरी सतह है, जो चिकनी से थोड़ी मस्सेदार और बारीक मखमली होती है। टहनियों और लट्ठों के नीचे यह नीचे की ओर होती है, जिससे बीजाणु आसानी से गिरते हैं। बेसिडिया गदा के आकार के, चार बीजाणुओं वाले, रंगहीन या नीले और लगभग 40–60 × 5–7 μm के होते हैं। कवकतंतु पतले और शाखित होते हैं, उनमें क्लैंप संयोजन होते हैं, और कवकतंतु तंत्र केवल एक प्रकार का है।",
+        stipe: "तना नहीं होता। पपड़ी पूरी सतह से लकड़ी से चिपकी रहती है, केवल किनारे थोड़े उठ सकते हैं।",
+        flesh: "गूदा बहुत पतली परत है, नम होने पर मुलायम और मोमी, सूखने पर कड़ा और भंगुर। इसमें कोई उल्लेखनीय गंध या स्वाद नहीं है।",
+        sporePrint: "सफ़ेद से मलाईदार सफ़ेद, कभी-कभी हल्की नीली आभा के साथ। बीजाणु दीर्घवृत्ताकार, चिकने, पतली दीवार वाले, रंगहीन या हल्के नीले और अनएमिलॉइड होते हैं, अधिकतर लगभग 6.5–9 × 4.5–6 μm के, हालाँकि कुछ स्रोत 12 × 7 μm तक बताते हैं।",
+        habitat: "चौड़ी पत्तियों वाले पेड़ों की मृत लकड़ी पर उगने वाला मृतजीवी कवक, सबसे अधिक ऐश पर, पर मेपल, ओक, हेज़ल, विलो, हॉर्नबीम, बीच, एल्डर और एल्म पर भी। यह गिरी हुई टहनियों, लट्ठों, झाड़-झंखाड़ और खुली जड़ों की निचली सतह पर, आमतौर पर ज़मीन के पास, गर्म और नम चौड़ी पत्तियों वाले जंगलों में उगता है। फलनकाय एक वर्ष से अधिक टिकते हैं, इसलिए हर महीने मिल सकते हैं। यह दुनिया भर के गर्म क्षेत्रों में पाया जाता है, यूरोप में मुख्यतः दक्षिण और अटलांटिक पश्चिम में, और अधिक उत्तर में इक्का-दुक्का जगहों पर, जैसे पश्चिमी नॉर्वे में। जर्मनी में यह 400 मीटर से ऊपर कम ही उगता है।",
+        uses: "खाने योग्य नहीं। यह पतली, कड़ी, बेस्वाद पपड़ी है, भोजन के रूप में इसका कोई मूल्य नहीं।",
+        confusion: "किसी भी रूप के बहुत कम कवक नीले होते हैं, और गहरी नीली, मखमली, हल्के किनारे वाली पपड़ी को सूक्ष्मदर्शी के बिना पहचाना जा सकता है। Byssocorticium atrovirens मकड़ी के जाले जैसी परत बनाता है, जो पहले चटक नीली होती है और फिर गहरी तथा हरी-सी हो जाती है। Amaurodon viridis जैसी Amaurodon वंश की प्रजातियाँ भी सड़ती लकड़ी पर नीले से हरे रंग की चपटी पपड़ियाँ बनाती हैं, पर उनकी सतह चिकनी, काँटेदार या छिद्रयुक्त हो सकती है, जबकि यह कवक अधिक सख़्त, मोमी और मखमली पपड़ी है।",
+        notes: "उत्तरी और मध्य यूरोप में दुर्लभ और स्थानीय। IUCN ने इसका मूल्यांकन नहीं किया है। नॉर्वे की 2021 की रेड लिस्ट इसे कम चिंताजनक (Least Concern) श्रेणी में रखती है; पहले यह संकट के निकट (Near Threatened) थी। डेनमार्क की रेड लिस्ट इसे क्षेत्रीय रूप से विलुप्त (RE) मानती है, क्योंकि वहाँ 1883 के बाद यह नहीं मिली थी, पर 2024 में यह फिर मिल गई।"
+      },
+      hu: {
+        description: "Vékony, viaszos, mélykék vagy ibolyakék kéreg, amely kerek foltokban terjed az elhalt lombos fák alsó felén. Bársonyos felülete és világos, finoman rojtos széle könnyen felismerhetővé teszi. Lehullott ágakon és törzseken nő meleg, nedves erdőkben, Észak- és Közép-Európában ritka.",
+        cap: "Kalapja nincs. A termőtest lapos kéreg, amely szorosan a fához simul. Kerek foltokként indul, általában 3–10 cm szélesek, amelyek szabálytalan bevonattá nőnek össze, akár kb. 1 m hosszan. Mélykék vagy ibolyakék, világosabb, fehéres, finoman rojtos szegéllyel, amely laposan fekszik a fán. Felszíne sima vagy enyhén szemölcsös, nedvesen bársonyos vagy viaszos, szárazon kérgesen törékeny. A vastagságra vonatkozó adatok 1 mm alattitól 2–6 mm-ig terjednek. Az öreg termőtestek szinte feketére sötétednek.",
+        hymenium: "A termőréteg a kéreg szabad külső felülete, sima vagy enyhén szemölcsös és finoman bársonyos. Az ágak és törzsek alsó oldalán lefelé néz, ami megkönnyíti a spórák hullását. A bazídiumok bunkó alakúak, négyspórásak, színtelenek vagy kékek, kb. 40–60 × 5–7 μm méretűek. A hifák vékonyak, elágazók, csatosak, és csak egyféle hifatípus van.",
+        stipe: "Tönk nincs. A kéreg teljes felületével a fához tapad, csak a széle emelkedhet fel kissé.",
+        flesh: "A húsa nagyon vékony réteg, nedvesen puha és viaszos, szárazon szívós és törékeny. Szaga és íze nem jellegzetes.",
+        sporePrint: "Fehér vagy krémfehér, olykor enyhén kékes árnyalattal. A spórák ellipszoid alakúak, simák, vékony falúak, színtelenek vagy halványkékek, nem amiloidok, többnyire kb. 6,5–9 × 4,5–6 μm méretűek, bár egyes források legfeljebb 12 × 7 μm-t adnak meg.",
+        habitat: "Szaprotróf gomba elhalt lombos fákon, leggyakrabban kőrisen, de juharon, tölgyön, mogyorón, füzön, gyertyánon, bükkön, égeren és szilen is. Lehullott ágak, törzsek, rőzse és szabadon álló gyökerek alsó oldalán nő, általában a talaj közelében, meleg, nedves lombos erdőkben. A termőtestek egy évnél tovább fennmaradnak, így minden hónapban megtalálhatók. A világ meleg vidékein fordul elő, Európában főleg délen és az atlanti nyugaton, egyes lelőhelyei északabbra is akadnak, például Nyugat-Norvégiában. Németországban ritkán nő 400 m fölött.",
+        uses: "Nem ehető. Vékony, szívós, íztelen kéreg, élelmiszerként nincs értéke.",
+        confusion: "Nagyon kevés gomba kék, és a mélykék, bársonyos kérget világos szegéllyel mikroszkóp nélkül is fel lehet ismerni. A Byssocorticium atrovirens pókhálószerű bevonatot alkot, amely eleinte élénkkék, majd sötétedik és zöldesedik. Az Amaurodon nemzetség fajai, például az Amaurodon viridis, szintén lapos kérgeket képeznek korhadó fán kék és zöld színekben, de felszínük lehet sima, tüskés vagy likacsos, míg ez a gomba szilárdabb, viaszos és bársonyos kéreg.",
+        notes: "Észak- és Közép-Európában ritka és helyi. Az IUCN nem értékelte. A 2021-es norvég vörös lista nem fenyegetettnek (Least Concern) minősíti, korábban mérsékelten fenyegetett (Near Threatened) volt. A dán vörös lista regionálisan kihaltnak (RE) tekinti, mert 1883 óta nem került elő, de 2024-ben újra megtalálták."
+      },
+      id: {
+        description: "Kerak tipis berlilin berwarna biru tua hingga biru keunguan yang menyebar dalam bercak bulat di sisi bawah kayu mati pohon berdaun lebar. Permukaannya yang beludru dan tepinya yang pucat serta berumbai halus membuatnya mudah dikenali. Tumbuh pada ranting dan batang yang tumbang di hutan yang hangat dan lembap, dan jarang ditemukan di Eropa utara dan tengah.",
+        cap: "Tidak memiliki tudung. Tubuh buahnya berupa kerak datar yang menempel pada kayu. Mula-mula berupa bercak bulat, biasanya selebar 3–10 cm, yang menyatu menjadi lapisan tidak beraturan sepanjang hingga sekitar 1 m. Warnanya biru tua hingga biru keunguan, dengan tepi yang lebih pucat, keputihan, dan berumbai halus yang terhampar datar pada kayu. Permukaannya halus hingga sedikit berbintil, beludru atau berlilin saat lembap, dan seperti kerak serta rapuh saat kering. Data ketebalan berkisar dari kurang dari 1 mm hingga 2–6 mm. Tubuh buah yang tua menggelap hingga hampir hitam.",
+        hymenium: "Himenium adalah permukaan luar kerak yang bebas, halus hingga sedikit berbintil dan beludru halus. Pada sisi bawah ranting dan batang, himenium menghadap ke bawah sehingga spora lebih mudah jatuh. Basidium berbentuk gada, berspora empat, tidak berwarna atau biru, berukuran sekitar 40–60 × 5–7 μm. Hifanya tipis dan bercabang, dengan sambungan penjepit, dan sistem hifanya hanya satu jenis.",
+        stipe: "Tidak memiliki tangkai. Kerak menempel pada kayu di seluruh permukaannya, dan hanya tepinya yang dapat sedikit terangkat.",
+        flesh: "Dagingnya berupa lapisan yang sangat tipis, lunak dan berlilin saat lembap, liat dan rapuh saat kering. Tidak berbau atau berasa yang nyata.",
+        sporePrint: "Putih hingga putih krem, kadang dengan nuansa kebiruan tipis. Sporanya elipsoid, halus, berdinding tipis, tidak berwarna atau biru muda, dan non-amiloid, kebanyakan berukuran sekitar 6,5–9 × 4,5–6 μm, meskipun beberapa sumber menyebut hingga 12 × 7 μm.",
+        habitat: "Jamur saprotrof pada kayu mati pohon berdaun lebar, paling sering Fraxinus, tetapi juga mapel, ek, bunduk, dedalu, Carpinus, Fagus, mahau, dan Ulmus. Tumbuh di sisi bawah ranting yang jatuh, batang, tumpukan ranting, dan akar yang terbuka, biasanya dekat tanah, di hutan berdaun lebar yang hangat dan lembap. Tubuh buahnya bertahan lebih dari setahun sehingga dapat ditemukan pada bulan apa pun. Jamur ini ada di wilayah hangat di seluruh dunia, di Eropa terutama di selatan dan di barat yang beriklim Atlantik, dengan lokasi terpencar lebih ke utara, misalnya di Norwegia barat. Di Jerman jarang tumbuh di atas 400 m.",
+        uses: "Tidak dapat dimakan. Ini kerak tipis, liat, dan tak berasa yang tidak bernilai sebagai makanan.",
+        confusion: "Sangat sedikit jamur berbentuk apa pun yang berwarna biru, dan kerak beludru berwarna biru tua dengan tepi pucat dapat dikenali tanpa mikroskop. Byssocorticium atrovirens membentuk lapisan seperti sarang laba-laba, awalnya biru cerah, lalu menggelap dan menghijau. Jenis dari marga Amaurodon, seperti Amaurodon viridis, juga membentuk kerak datar pada kayu yang membusuk dengan warna biru hingga hijau, tetapi permukaannya bisa halus, berduri, atau berpori, sedangkan jamur ini berupa kerak yang lebih padat, berlilin, dan beludru.",
+        notes: "Jarang dan bersifat lokal di Eropa utara dan tengah. Belum dinilai oleh IUCN. Daftar Merah Norwegia tahun 2021 menggolongkannya sebagai risiko rendah (Least Concern); sebelumnya hampir terancam (Near Threatened). Daftar Merah Denmark menganggapnya punah secara regional (RE), karena tidak ditemukan di sana sejak 1883, tetapi ditemukan kembali pada 2024."
+      },
+      it: {
+        description: "Una crosta sottile e cerosa, da blu intenso a blu violaceo, che si estende in macchie rotonde sulla faccia inferiore del legno morto di latifoglie. La superficie vellutata e il margine chiaro, finemente frangiato, la rendono facile da riconoscere. Cresce su rami e tronchi caduti in boschi caldi e umidi ed è rara nell'Europa settentrionale e centrale.",
+        cap: "Non ha cappello. Il corpo fruttifero è una crosta piatta, aderente al legno. Comincia come macchie rotonde, di solito larghe 3–10 cm, che si fondono in rivestimenti irregolari lunghi fino a circa 1 m. È blu intenso o blu violaceo, con un margine più chiaro, biancastro e finemente frangiato, che poggia piatto sul legno. La superficie è liscia o leggermente verrucosa, vellutata o cerosa da umida e incrostata e fragile da secca. I dati sullo spessore vanno da meno di 1 mm a 2–6 mm. I corpi fruttiferi vecchi scuriscono fino a diventare quasi neri.",
+        hymenium: "L'imenio è la faccia esterna libera della crosta, liscia o leggermente verrucosa e finemente vellutata. Sulla faccia inferiore di rami e tronchi è rivolto verso il basso, il che facilita la caduta delle spore. I basidi sono clavati, tetrasporici, incolori o azzurri, di circa 40–60 × 5–7 μm. Le ife sono sottili e ramificate, con giunti a fibbia, e il sistema ifale è di un solo tipo.",
+        stipe: "Non ha gambo. La crosta aderisce al legno con tutta la superficie, e solo i margini possono sollevarsi un poco.",
+        flesh: "La carne è uno strato molto sottile, molle e cerosa da umida, tenace e fragile da secca. Non ha odore né sapore apprezzabili.",
+        sporePrint: "Da bianca a bianco crema, a volte con una lieve sfumatura bluastra. Le spore sono ellissoidali, lisce, a parete sottile, incolori o azzurro chiaro, non amiloidi, per lo più di circa 6,5–9 × 4,5–6 μm, anche se alcune fonti indicano fino a 12 × 7 μm.",
+        habitat: "Un fungo saprotrofo su legno morto di latifoglie, più spesso di frassino, ma anche di acero, quercia, nocciolo, salice, carpino, faggio, ontano e olmo. Cresce sulla faccia inferiore di rami caduti, tronchi, ramaglia e radici esposte, di solito vicino al suolo, in boschi di latifoglie caldi e umidi. I corpi fruttiferi durano più di un anno, perciò si possono trovare in ogni mese. È presente nelle regioni calde di tutto il mondo, in Europa soprattutto al sud e nell'ovest atlantico, con stazioni isolate più a nord, per esempio nella Norvegia occidentale. In Germania cresce di rado oltre i 400 m.",
+        uses: "Non commestibile. È una crosta sottile, tenace e insapore, senza valore alimentare.",
+        confusion: "Pochissimi funghi di qualsiasi forma sono blu, e la crosta blu intenso vellutata, con il margine chiaro, si riconosce senza microscopio. Byssocorticium atrovirens forma un rivestimento simile a una ragnatela, all'inizio blu vivo, che poi scurisce e vira al verdastro. Le specie del genere Amaurodon, come Amaurodon viridis, formano anch'esse croste piatte su legno in decomposizione, in colori dal blu al verde, ma la loro superficie può essere liscia, aculeata o porosa, mentre questo fungo è una crosta più soda, cerosa e vellutata.",
+        notes: "Rara e localizzata nell'Europa settentrionale e centrale. Non è stata valutata dalla IUCN. La Lista Rossa norvegese del 2021 la classifica a minor preoccupazione (Least Concern); prima era quasi minacciata (Near Threatened). La Lista Rossa danese la considera estinta a livello regionale (RE), perché non vi era stata trovata dal 1883, ma è stata ritrovata nel 2024."
+      },
+      ja: {
+        description: "広葉樹の枯れ木の下面に丸い斑点状に広がる、濃い青から青紫色の薄いろう質の膜状のキノコです。ビロード状の表面と、淡く細かい房状の縁が目印で、見分けやすい種です。暖かく湿った林の倒木や落枝に生え、北ヨーロッパや中央ヨーロッパでは稀です。",
+        cap: "傘はありません。子実体は木に密着した平らな膜状です。最初は丸い斑点で、ふつう幅3–10 cm、それらが合わさって不規則に広がり、長さ約1 mに達することもあります。色は濃い青から青紫色で、縁は淡く白っぽく、細かい房状になって木の上に平らに広がります。表面は滑らかからわずかにいぼ状で、湿ると絹状またはろう質、乾くと皮殻状でもろくなります。厚さの記録は1 mm未満から2–6 mmまで幅があります。古くなると黒に近くなるまで暗色になります。",
+        hymenium: "子実層は膜状の子実体の自由な外面で、滑らかからわずかにいぼ状で、細かいビロード状です。枝や幹の下面では下向きになり、胞子が落ちやすくなっています。担子器は棍棒形で4胞子性、無色または青色で、約40–60 × 5–7 μmです。菌糸は細く分枝し、かすがい連結があり、菌糸型は1種類だけです。",
+        stipe: "柄はありません。膜状の子実体は全面で木に付着し、縁だけがわずかに浮くことがあります。",
+        flesh: "肉はごく薄い層で、湿ると柔らかくろう質、乾くと強靭でもろくなります。目立った匂いや味はありません。",
+        sporePrint: "白色からクリーム白色で、ときにわずかに青みを帯びます。胞子は楕円形で、表面は滑らか、壁は薄く、無色または淡青色で、非アミロイドです。大きさはほとんどが約6.5–9 × 4.5–6 μmですが、最大12 × 7 μmとする資料もあります。",
+        habitat: "広葉樹の枯れ木に生える腐生菌で、トネリコ類にもっとも多く、ほかにカエデ類、ナラ類、ハシバミ類、ヤナギ類、クマシデ類、ブナ類、ハンノキ類、ニレ類にも生えます。落枝、倒木、小枝の山、露出した根の下面に、ふつう地面に近い、暖かく湿った広葉樹林で生えます。子実体は1年以上残るため、どの月にも見つかります。世界の暖かい地域に分布し、ヨーロッパでは主に南部と大西洋に面した西部に見られ、さらに北の西ノルウェーなどにも点在します。ドイツでは標高400 mを超える場所にはまれにしか生えません。",
+        uses: "食べられません。薄くて強靭で味のない膜状のキノコで、食材としての価値はありません。",
+        confusion: "どんな形でも青いキノコはごく少なく、濃い青のビロード状で縁が淡い膜状の子実体は、顕微鏡なしで見分けられます。Byssocorticium atrovirensはクモの巣状に広がり、はじめは鮮やかな青で、のちに暗色になって緑みを帯びます。Amaurodon viridisなどのAmaurodon属の種も、腐った木の上に青から緑色の平らな膜状に広がりますが、表面は滑らか、針状、または管孔状になることがあり、本種はもっと堅く、ろう質でビロード状の膜です。",
+        notes: "北ヨーロッパと中央ヨーロッパでは稀で、局所的です。IUCNでは評価されていません。ノルウェーの2021年のレッドリストでは軽度懸念（Least Concern）とされ、以前は準絶滅危惧（Near Threatened）でした。デンマークのレッドリストでは1883年以降見つかっていなかったため地域絶滅（RE）とされていましたが、2024年に再発見されました。"
+      },
+      ko: {
+        description: "활엽수 죽은 나무의 아랫면에 둥근 반점으로 퍼지는, 진한 파란색에서 청보라색의 얇고 밀랍 같은 껍질 모양 버섯입니다. 벨벳 같은 표면과 연하고 곱게 술 장식이 있는 가장자리 덕분에 알아보기 쉽습니다. 따뜻하고 습한 숲의 쓰러진 가지와 통나무에서 자라며, 북유럽과 중부 유럽에서는 드뭅니다.",
+        cap: "갓이 없습니다. 자실체는 나무에 밀착한 납작한 껍질 모양입니다. 처음에는 둥근 반점으로 시작하며 보통 너비 3–10 cm이고, 이것들이 합쳐져 길이 약 1 m에 이르는 불규칙한 막이 됩니다. 색은 진한 파란색에서 청보라색이며, 가장자리는 더 연하고 희끄무레하며 곱게 술 모양으로 나무 위에 납작하게 놓입니다. 표면은 매끈하거나 약간 사마귀 모양이고, 습하면 벨벳 같거나 밀랍 같으며 마르면 껍질처럼 부서지기 쉽습니다. 두께 기록은 1 mm 미만에서 2–6 mm까지 다양합니다. 오래된 자실체는 거의 검게 될 때까지 어두워집니다.",
+        hymenium: "자실층은 껍질 모양 자실체의 드러난 바깥면으로, 매끈하거나 약간 사마귀 모양이며 곱게 벨벳 같습니다. 가지와 통나무 아랫면에서는 아래를 향해 있어 포자가 떨어지기 쉽습니다. 담자기는 곤봉 모양에 포자 4개를 만들고, 무색이거나 푸른색이며 크기는 약 40–60 × 5–7 μm입니다. 균사는 가늘고 가지를 치며 꺾쇠연결이 있고, 균사 체계는 한 종류뿐입니다.",
+        stipe: "자루가 없습니다. 껍질 모양 자실체는 표면 전체로 나무에 붙어 있으며, 가장자리만 조금 들릴 수 있습니다.",
+        flesh: "살은 매우 얇은 층으로, 습하면 부드럽고 밀랍 같으며 마르면 질기고 부서지기 쉽습니다. 뚜렷한 냄새나 맛이 없습니다.",
+        sporePrint: "흰색에서 크림빛 흰색이며, 때로 약간 푸른빛이 돕니다. 포자는 타원형이고 매끈하며 벽이 얇고, 무색이거나 연한 파란색이며 비아밀로이드입니다. 대부분 약 6.5–9 × 4.5–6 μm이지만, 일부 자료는 최대 12 × 7 μm라고 합니다.",
+        habitat: "활엽수의 죽은 나무에서 자라는 부생균으로, 물푸레나무에서 가장 흔하고 단풍나무, 참나무, 개암나무, 버드나무, 서어나무, 너도밤나무, 오리나무, 느릅나무에서도 자랍니다. 쓰러진 가지, 통나무, 잔가지 더미, 드러난 뿌리의 아랫면에, 보통 땅 가까이에서, 따뜻하고 습한 활엽수림에서 자랍니다. 자실체가 1년 넘게 남기 때문에 어느 달에나 찾을 수 있습니다. 세계의 따뜻한 지역에 분포하며, 유럽에서는 주로 남부와 대서양 쪽 서부에서 보이고, 더 북쪽의 서노르웨이 같은 곳에도 드문드문 있습니다. 독일에서는 해발 400 m 위에서 자라는 일이 드뭅니다.",
+        uses: "먹을 수 없습니다. 얇고 질기며 맛이 없는 껍질 모양 버섯으로, 식재료로서 가치가 없습니다.",
+        confusion: "어떤 형태이든 파란 버섯은 매우 드물고, 진한 파란색에 벨벳 같고 가장자리가 연한 껍질 모양 자실체는 현미경 없이도 알아볼 수 있습니다. Byssocorticium atrovirens는 거미줄 같은 막을 이루며, 처음에는 밝은 파란색이다가 나중에 어두워지고 녹색을 띱니다. Amaurodon viridis 같은 Amaurodon속 종들도 썩은 나무 위에 파란색에서 녹색의 납작한 껍질을 이루지만, 표면이 매끈하거나 가시 모양이거나 구멍이 있을 수 있고, 이 버섯은 더 단단하고 밀랍 같으며 벨벳 같은 껍질입니다.",
+        notes: "북유럽과 중부 유럽에서는 드물고 국지적입니다. IUCN은 평가하지 않았습니다. 노르웨이의 2021년 적색목록은 최소관심(Least Concern)으로 분류하며, 이전에는 준위협(Near Threatened)이었습니다. 덴마크의 적색목록은 1883년 이후 발견되지 않아 지역절멸(RE)로 분류했으나, 2024년에 다시 발견되었습니다."
+      },
+      lv: {
+        description: "Plāna, vaskaina, dziļzila līdz violetzila garoza, kas apaļos plankumos izplatās pa miruša lapkoku koksnes apakšpusi. Samtainā virsma un gaišā, smalki bārkstainā mala padara to viegli atpazīstamu. Tā aug uz nokritušiem zariem un stumbriem siltos, mitros mežos, un ziemeļu un vidējā Eiropā ir reta.",
+        cap: "Cepures nav. Augļķermenis ir plakana garoza, kas cieši pieguļ koksnei. Tas sākas kā apaļi plankumi, parasti 3–10 cm plati, kas saplūst nelīdzenos pārklājumos līdz aptuveni 1 m garumā. Tā ir dziļzila līdz violetzila, ar gaišāku, baltganu, smalki bārkstainu malu, kas plakani pieguļ koksnei. Virsma ir gluda līdz nedaudz kārpaina, mitrā laikā samtaina vai vaskaina, sausā garenveidīga un trausla. Dati par biezumu svārstās no mazāk nekā 1 mm līdz 2–6 mm. Veci augļķermeņi kļūst tumšāki, līdz gandrīz melniem.",
+        hymenium: "Hymēnijs ir garozas brīvā ārējā virsma, gluda līdz nedaudz kārpaina un smalki samtaina. Zaru un stumbru apakšpusē tā ir vērsta uz leju, kas atvieglo sporu biršanu. Bazīdijas ir steķveida, četrsporu, bezkrāsainas vai zilas, aptuveni 40–60 × 5–7 μm lielas. Hifas ir plānas un zarotas, ar sprādzēm, un hifu sistēma ir tikai viena veida.",
+        stipe: "Kātiņa nav. Garoza ar visu virsmu pieķeras koksnei, un tikai malas var nedaudz pacelties.",
+        flesh: "Mīkstums ir ļoti plāns slānis, mitrs ir mīksts un vaskains, sauss ir ciets un trausls. Tam nav manāmas smaržas vai garšas.",
+        sporePrint: "Balts līdz krēmbalts, dažreiz ar vāju zilganu nokrāsu. Sporas ir elipsoīdas, gludas, plānsienu, bezkrāsainas vai gaiši zilas, neamiloīdas, galvenokārt aptuveni 6,5–9 × 4,5–6 μm, lai gan daži avoti min līdz 12 × 7 μm.",
+        habitat: "Saprotrofa sēne uz miruša lapkoku kokmateriāla, visbiežāk uz oša, bet arī uz kļavas, ozola, lazdas, vītola, skābarža, dižskābarža, alkšņa un gobas. Tā aug uz nokritušu zaru, stumbru, krūmu un atsegtu sakņu apakšpuses, parasti tuvu zemei, siltos, mitros lapkoku mežos. Augļķermeņi saglabājas ilgāk par gadu, tāpēc tos var atrast jebkurā mēnesī. Suga sastopama siltos apvidos visā pasaulē, Eiropā galvenokārt dienvidos un Atlantijas rietumos, ar atsevišķām atradnēm tālāk uz ziemeļiem, piemēram, Norvēģijas rietumos. Vācijā tā reti aug augstāk par 400 m.",
+        uses: "Neēdama. Tā ir plāna, ciesa garoza bez garšas un bez vērtības kā pārtika.",
+        confusion: "Ļoti maz sēņu ir zilas, un dziļzilu samtainu garozu ar gaišu malu var atpazīt bez mikroskopa. Byssocorticium atrovirens veido zirnekļtīkla pārklājumu, kas sākumā ir spilgti zils, bet pēc tam kļūst tumšāks un zaļāks. Amaurodon ģints sugas, piemēram, Amaurodon viridis, arī veido plakanas garozas uz trūdošas koksnes zilās līdz zaļās krāsās, bet to virsma var būt gluda, dzeloņaina vai poraina, savukārt šī sēne ir cietāka, vaskaina un samtaina garoza.",
+        notes: "Ziemeļu un vidējā Eiropā reta un lokāla. IUCN to nav novērtējusi. Norvēģijas 2021. gada sarkanajā sarakstā tā ir klasificēta kā vismazāk apdraudēta suga (Least Concern), agrāk tā bija gandrīz apdraudēta (Near Threatened). Dānijas sarkanajā sarakstā tā ir reģionāli izzudusi (RE), jo tur nebija atrasta kopš 1883. gada, bet 2024. gadā tika atrasta atkal."
+      },
+      lt: {
+        description: "Ploni, vaškinė giliai mėlyna iki violetinės mėlynos spalvos plutelė, kuri apvaliomis dėmėmis plinta mirusios lapuočių medienos apatinėje pusėje. Aksominis paviršius ir šviesus, smulkiai kutuotas kraštas leidžia ją lengvai atpažinti. Auga ant nukritusių šakų ir kamienų šiltuose, drėgnuose miškuose, o šiaurės ir vidurio Europoje yra reta.",
+        cap: "Kepurės nėra. Vaisiakūnis yra plokščia plutelė, glaudžiai prigludusi prie medienos. Jis prasideda kaip apvalios dėmės, paprastai 3–10 cm pločio, kurios susilieja į netaisyklingas dangas iki maždaug 1 m ilgio. Jis giliai mėlynas iki violetinio mėlyno, su šviesesniu, balzganu, smulkiai kutuotu kraštu, kuris plokščiai guli ant medienos. Paviršius lygus iki šiek tiek karpuoto, drėgnas aksominis arba vaškinis, sausas plutelinis ir trapus. Duomenys apie storį svyruoja nuo mažiau nei 1 mm iki 2–6 mm. Seni vaisiakūniai tamsėja, kol tampa beveik juodi.",
+        hymenium: "Hymenijus yra laisvas išorinis plutelės paviršius, lygus iki šiek tiek karpuoto ir smulkiai aksominis. Šakų ir kamienų apatinėje pusėje jis nukreiptas žemyn, todėl sporoms lengviau byrėti. Bazidės yra kuoliškos, keturių sporų, bespalvės arba mėlynos, maždaug 40–60 × 5–7 μm dydžio. Hifai ploni ir šakoti, su sagtinėmis jungtimis, o hifų sistema yra tik vieno tipo.",
+        stipe: "Kojelės nėra. Plutelė visu paviršiumi prisitvirtina prie medienos, ir tik kraštai gali šiek tiek pakilti.",
+        flesh: "Minkštimas yra labai plonas sluoksnis, drėgnas minkštas ir vaškinis, sausas kietas ir trapus. Jis neturi ryškaus kvapo ar skonio.",
+        sporePrint: "Balti iki kreminių balti, kartais su silpnu melsvu atspalviu. Sporos elipsoidinės, lygios, plonasienės, bespalvės arba šviesiai mėlynos, neamiloidinės, dažniausiai maždaug 6,5–9 × 4,5–6 μm, nors kai kuriuose šaltiniuose nurodoma iki 12 × 7 μm.",
+        habitat: "Saprotrofinis grybas ant mirusios lapuočių medienos, dažniausiai ant uosio, bet ir ant klevo, ąžuolo, lazdyno, gluosnio, skroblo, buko, juodalksnio ir guobos. Auga ant nukritusių šakų, kamienų, šakų krūvų ir atsidengusių šaknų apatinės pusės, paprastai arti žemės, šiltuose, drėgnuose lapuočių miškuose. Vaisiakūniai išlieka ilgiau nei metus, todėl jų galima rasti bet kurį mėnesį. Rūšis aptinkama šiltose vietose visame pasaulyje, Europoje daugiausia pietuose ir Atlanto vakaruose, atskiros augavietės yra toliau į šiaurę, pavyzdžiui, Vakarų Norvegijoje. Vokietijoje ji retai auga aukščiau nei 400 m.",
+        uses: "Nevalgoma. Tai plona, kieta, beskonė plutelė, neturinti vertės kaip maistas.",
+        confusion: "Labai nedaug grybų yra mėlyni, o giliai mėlyną aksominę plutelę su šviesiu kraštu galima atpažinti be mikroskopo. Byssocorticium atrovirens sudaro voratinklinę dangą, kuri iš pradžių ryškiai mėlyna, vėliau patamsėja ir sužaliuoja. Amaurodon genties rūšys, pavyzdžiui, Amaurodon viridis, taip pat sudaro plokščias plutelės ant pūvančios medienos mėlynų iki žalių spalvų, tačiau jų paviršius gali būti lygus, dygliuotas arba porėtas, o šis grybas yra tvirtesnė, vaškinė ir aksominė plutelė.",
+        notes: "Šiaurės ir vidurio Europoje reta ir vietinė. IUCN jos neįvertino. Norvegijos 2021 m. raudonasis sąrašas ją priskiria mažiausiai susirūpinimą keliančių rūšių grupei (Least Concern), anksčiau ji buvo beveik nykstanti (Near Threatened). Danijos raudonajame sąraše ji laikoma regione išnykusia (RE), nes ten nebuvo rasta nuo 1883 m., bet 2024 m. buvo rasta iš naujo."
+      },
+      no: {
+        description: "En tynn, voksaktig skorpe i dyp blå til fiolettblå som brer seg i runde flekker over undersiden av dødt lauvtre. Den fløyelsmyke overflaten og den lyse, fint frynsete kanten gjør den lett å kjenne igjen. Den vokser på nedfalne greiner og stammer i varme, fuktige skoger og er sjelden i Nord- og Mellom-Europa.",
+        cap: "Det er ingen hatt. Fruktlegemet er en flat skorpe som ligger tett inntil veden. Det begynner som runde flekker, vanligvis 3–10 cm brede, som smelter sammen til uregelmessige belegg på opptil ca. 1 m. Det er dypblått til fiolettblått med en lysere, hvitaktig, fint frynset kant som ligger flatt på veden. Overflaten er glatt til litt vorte, fuktig fløyelsmyk eller voksaktig og tørr skorpeaktig og sprø. Opplysningene om tykkelsen varierer fra under 1 mm til 2–6 mm. Gamle fruktlegemer blir mørkere til de er nesten svarte.",
+        hymenium: "Sporelaget er den frie overflaten av skorpen, glatt til litt vortet og fint fløyelsmykt. På undersiden av greiner og stammer vender den nedover, noe som gjør det lettere for sporene å falle av. Basidiene er kølleformede, firesporede, fargeløse eller blå og ca. 40–60 × 5–7 μm. Hyfene er tynne og greinete med spenner, og det finnes bare én type hyfer.",
+        stipe: "Det er ingen stilk. Skorpen sitter fast på veden over hele flaten, og bare kantene kan løfte seg litt.",
+        flesh: "Kjøttet er et svært tynt lag, fuktig mykt og voksaktig og tørt seigt og sprøtt. Det har ingen merkbar lukt eller smak.",
+        sporePrint: "Hvitt til kremhvitt, noen ganger med et svakt blåaktig skjær. Sporene er ellipsoide, glatte, tynnveggede, fargeløse eller lyseblå og ikke-amyloide, for det meste ca. 6,5–9 × 4,5–6 μm, selv om noen kilder oppgir opptil 12 × 7 μm.",
+        habitat: "En saprotrof sopp på dødt ved av lauvtrær, oftest ask, men også lønn, eik, hassel, vier, agnbøk, bøk, or og alm. Den vokser på undersiden av nedfalne greiner, stammer, kvisthauger og blottlagte røtter, vanligvis nær bakken, i varme, fuktige lauvskoger. Fruktlegemene holder seg i mer enn ett år, så de kan finnes i alle måneder. Den forekommer i varme strøk over hele verden, i Europa mest i sør og i det atlantiske vest, med enkelte lokaliteter lenger nord, for eksempel i Vest-Norge. I Tyskland vokser den sjelden over 400 m.",
+        uses: "Ikke spiselig. Det er en tynn, seig skorpe uten smak og uten verdi som mat.",
+        confusion: "Svært få sopper av noen form er blå, og den dypblå, fløyelsmyke skorpen med lys kant kan kjennes igjen uten mikroskop. Byssocorticium atrovirens danner et spindelvevaktig lag som først er klart blått og deretter blir mørkere og grønnere. Arter i slekten Amaurodon, for eksempel Amaurodon viridis, danner også flate skorper på råtnende ved i blå til grønne farger, men overflaten deres kan være glatt, piggete eller porete, mens denne soppen er en fastere, voksaktig og fløyelsmyk skorpe.",
+        notes: "Sjelden og lokal i Nord- og Mellom-Europa. Den er ikke vurdert av IUCN. Den norske rødlista fra 2021 oppfører den som livskraftig (Least Concern), tidligere var den nær truet (Near Threatened). På den danske rødlista er den regionalt utdødd (RE), fordi den ikke var funnet der siden 1883, men i 2024 ble den funnet igjen."
+      },
+      fa: {
+        description: "پوسته‌ای نازک و مومی به رنگ آبی سیر تا آبی بنفش که به‌صورت لکه‌های گرد روی سطح زیرین چوب مردهٔ درختان پهن‌برگ گسترش می‌یابد. سطح مخملی و حاشیهٔ روشن و ریزریشه‌دار آن شناسایی‌اش را آسان می‌کند. روی شاخه‌ها و تنه‌های افتاده در جنگل‌های گرم و مرطوب می‌روید و در شمال و مرکز اروپا کمیاب است.",
+        cap: "کلاهک ندارد. اندام باردهی پوسته‌ای تخت است که به چوب چسبیده است. با لکه‌های گرد شروع می‌شود که معمولاً ۳ تا ۱۰ سانتی‌متر پهنا دارند و به هم می‌پیوندند و پوشش‌هایی نامنظم تا حدود ۱ متر طول می‌سازند. به رنگ آبی سیر تا آبی بنفش است و حاشیه‌ای روشن‌تر، مایل به سفید و ریزریشه‌دار دارد که صاف روی چوب قرار می‌گیرد. سطح آن صاف تا اندکی زگیل‌دار است، در حالت مرطوب مخملی یا مومی و در حالت خشک پوسته‌ای و شکننده. داده‌های ضخامت از کمتر از ۱ میلی‌متر تا ۲ تا ۶ میلی‌متر است. اندام‌های باردهی کهنه تیره می‌شوند تا جایی که تقریباً سیاه شوند.",
+        hymenium: "لایهٔ هاگ‌زا سطح بیرونی آزاد پوسته است که صاف تا اندکی زگیل‌دار و ریزمخملی است. در زیر شاخه‌ها و تنه‌ها رو به پایین است و این کار ریزش هاگ‌ها را آسان می‌کند. بازیدی‌ها گرزی‌شکل، چهارهاگی، بی‌رنگ یا آبی و حدود ۴۰ تا ۶۰ × ۵ تا ۷ میکرومتر هستند. هیف‌ها نازک و منشعب‌اند و بست‌پیوند دارند و دستگاه هیفی تنها از یک نوع است.",
+        stipe: "ساقه ندارد. پوسته با تمام سطح خود به چوب چسبیده است و تنها لبه‌ها ممکن است اندکی بالا بیایند.",
+        flesh: "گوشت لایه‌ای بسیار نازک است، در حالت مرطوب نرم و مومی و در حالت خشک سخت و شکننده. بو یا مزهٔ قابل‌توجهی ندارد.",
+        sporePrint: "سفید تا سفید کرمی، گاهی با رگه‌ای اندک از آبی. هاگ‌ها بیضوی، صاف، نازک‌دیواره، بی‌رنگ یا آبی روشن و غیرآمیلوئیدی‌اند و بیشتر حدود ۶.۵ تا ۹ × ۴.۵ تا ۶ میکرومتر هستند، هرچند برخی منابع تا ۱۲ × ۷ میکرومتر نیز گزارش کرده‌اند.",
+        habitat: "قارچی ساپروتروف روی چوب مردهٔ درختان پهن‌برگ، بیشتر روی زبان‌گنجشک، اما روی افرا، بلوط، فندق، بید، ممرز، راش، توسکا و نارون نیز. روی سطح زیرین شاخه‌ها و تنه‌های افتاده، خرده‌شاخه‌ها و ریشه‌های نمایان، معمولاً نزدیک زمین، در جنگل‌های پهن‌برگ گرم و مرطوب می‌روید. اندام‌های باردهی بیش از یک سال می‌مانند، بنابراین در هر ماه می‌توان آن‌ها را یافت. در مناطق گرم سراسر جهان دیده می‌شود، در اروپا بیشتر در جنوب و غرب اقیانوس اطلس، و در جاهایی پراکنده‌تر در شمال، مثلاً در غرب نروژ. در آلمان به‌ندرت بالاتر از ۴۰۰ متر می‌روید.",
+        uses: "خوراکی نیست. پوسته‌ای نازک، سخت و بی‌مزه است و ارزش غذایی ندارد.",
+        confusion: "قارچ‌های آبی‌رنگ، با هر شکلی، بسیار کم‌اند و پوستهٔ مخملی آبی سیر با حاشیهٔ روشن را بدون میکروسکوپ می‌توان شناخت. Byssocorticium atrovirens پوششی تارعنکبوتی می‌سازد که در آغاز آبی روشن است و سپس تیره‌تر و سبزفام‌تر می‌شود. گونه‌های جنس Amaurodon، مانند Amaurodon viridis، نیز روی چوب در حال پوسیدن پوسته‌های تخت به رنگ آبی تا سبز می‌سازند، اما سطح آن‌ها ممکن است صاف، خاردار یا منفذدار باشد، در حالی که این قارچ پوسته‌ای محکم‌تر، مومی و مخملی است.",
+        notes: "در شمال و مرکز اروپا کمیاب و محلی است. اتحادیهٔ جهانی حفاظت از طبیعت (IUCN) آن را ارزیابی نکرده است. فهرست سرخ نروژ در سال ۲۰۲۱ آن را در ردهٔ کمترین نگرانی (Least Concern) قرار می‌دهد و پیش‌تر نزدیک به تهدید (Near Threatened) بود. فهرست سرخ دانمارک آن را در سطح منطقه‌ای منقرض‌شده (RE) می‌داند، زیرا از سال ۱۸۸۳ در آنجا یافت نشده بود، اما در سال ۲۰۲۴ دوباره پیدا شد."
+      },
+      pl: {
+        description: "Cienka, woskowata skórka o barwie głęboko niebieskiej do fioletowoniebieskiej, która w okrągłych plamach rozrasta się po spodniej stronie martwego drewna drzew liściastych. Aksamitna powierzchnia i jasny, drobno strzępiasty brzeg sprawiają, że łatwo ją rozpoznać. Rośnie na opadłych gałęziach i pniach w ciepłych, wilgotnych lasach, a w północnej i środkowej Europie jest rzadka.",
+        cap: "Kapelusza brak. Owocnik jest płaską skórką przylegającą do drewna. Zaczyna się od okrągłych plam, zwykle szerokich na 3–10 cm, które zlewają się w nieregularne powłoki długości do około 1 m. Jest głęboko niebieski do fioletowoniebieskiego, z jaśniejszym, białawym, drobno strzępiastym brzegiem leżącym płasko na drewnie. Powierzchnia jest gładka do lekko brodawkowatej, w stanie wilgotnym aksamitna lub woskowata, a sucha skorupiasta i krucha. Podawana grubość waha się od mniej niż 1 mm do 2–6 mm. Stare owocniki ciemnieją, aż stają się prawie czarne.",
+        hymenium: "Warstwą zarodnikonośną jest wolna zewnętrzna powierzchnia skórki, gładka do lekko brodawkowatej i drobno aksamitna. Na spodniej stronie gałęzi i pni jest zwrócona w dół, co ułatwia uwalnianie zarodników. Podstawki są maczugowate, czterozarodnikowe, bezbarwne lub niebieskie, o wymiarach około 40–60 × 5–7 μm. Strzępki są cienkie, rozgałęzione i mają sprzążki, a system strzępkowy jest tylko jednego typu.",
+        stipe: "Trzonu brak. Skórka przylega do drewna całą powierzchnią, a tylko brzegi mogą się lekko unosić.",
+        flesh: "Miąższ jest bardzo cienką warstwą, w stanie wilgotnym miękką i woskowatą, a suchą twardą i kruchą. Nie ma wyraźnego zapachu ani smaku.",
+        sporePrint: "Biały do kremowobiałego, czasem z lekkim niebieskawym odcieniem. Zarodniki są elipsoidalne, gładkie, cienkościenne, bezbarwne lub jasnoniebieskie, nieamyloidalne, zwykle o wymiarach około 6,5–9 × 4,5–6 μm, choć niektóre źródła podają do 12 × 7 μm.",
+        habitat: "Grzyb saprotroficzny na martwym drewnie drzew liściastych, najczęściej jesionu, a także klonu, dębu, leszczyny, wierzby, grabu, buka, olszy i wiązu. Rośnie na spodniej stronie opadłych gałęzi, pni, chrustu i odsłoniętych korzeni, zwykle blisko ziemi, w ciepłych, wilgotnych lasach liściastych. Owocniki utrzymują się dłużej niż rok, dlatego można je znaleźć w każdym miesiącu. Występuje w ciepłych rejonach całego świata, w Europie głównie na południu i w atlantyckiej części zachodniej, z pojedynczymi stanowiskami dalej na północ, na przykład w zachodniej Norwegii. W Niemczech rzadko rośnie powyżej 400 m n.p.m.",
+        uses: "Niejadalny. Jest cienką, twardą skórką bez smaku i bez wartości jako pokarm.",
+        confusion: "Bardzo niewiele grzybów o jakimkolwiek kształcie jest niebieskich, a głęboko niebieską, aksamitną skórkę z jasnym brzegiem można rozpoznać bez mikroskopu. Byssocorticium atrovirens tworzy pajęczynowatą warstwę, która z początku jest jaskrawoniebieska, a potem ciemnieje i staje się zielonawa. Gatunki rodzaju Amaurodon, na przykład Amaurodon viridis, również tworzą płaskie skórki na murszejącym drewnie w barwach od niebieskiej do zielonej, lecz ich powierzchnia może być gładka, kolczasta lub porowata, podczas gdy ten grzyb jest bardziej zwartą, woskowatą i aksamitną skórką.",
+        notes: "W północnej i środkowej Europie rzadki i lokalny. Nie został oceniony przez IUCN. Norweska czerwona lista z 2021 roku klasyfikuje go jako gatunek najmniejszej troski (Least Concern), wcześniej był bliski zagrożenia (Near Threatened). Duńska czerwona lista uznaje go za wymarły regionalnie (RE), ponieważ nie znaleziono go tam od 1883 roku, jednak w 2024 roku odnaleziono go ponownie."
+      },
+      pt: {
+        description: "Uma crosta fina e cerosa, de azul-escuro a azul-violeta, que se estende em manchas arredondadas sob a madeira morta de folhosas. A superfície aveludada e a margem clara, finamente franjada, tornam-na fácil de reconhecer. Cresce em ramos e troncos caídos em bosques quentes e húmidos e é rara no norte e no centro da Europa.",
+        cap: "Não tem chapéu. O corpo frutífero é uma crosta plana, aderente à madeira. Começa como manchas arredondadas, geralmente com 3–10 cm de largura, que se fundem em revestimentos irregulares de até cerca de 1 m de comprimento. É azul-escura a azul-violeta, com uma margem mais clara, esbranquiçada e finamente franjada, assente na madeira. A superfície é lisa a ligeiramente verrugosa, aveludada ou cerosa quando húmida e encrostada e quebradiça quando seca. Os valores indicados para a espessura vão de menos de 1 mm a 2–6 mm. Os corpos frutíferos velhos escurecem até ficarem quase negros.",
+        hymenium: "O himénio é a face externa livre da crosta, lisa a ligeiramente verrugosa e finamente aveludada. Na face inferior de ramos e troncos fica voltado para baixo, o que facilita a queda dos esporos. Os basídios são claviformes, tetrasporados, incolores ou azuis, com cerca de 40–60 × 5–7 μm. As hifas são finas e ramificadas, com fíbulas, e o sistema hifálico é de um só tipo.",
+        stipe: "Não tem pé. A crosta fixa-se à madeira por toda a superfície, e só as margens podem levantar-se um pouco.",
+        flesh: "A carne é uma camada muito fina, mole e cerosa quando húmida, tenaz e quebradiça quando seca. Não tem cheiro nem sabor apreciáveis.",
+        sporePrint: "Branca a branco-creme, por vezes com um ligeiro tom azulado. Os esporos são elipsoides, lisos, de parede fina, incolores ou azul-claros, não amiloides, na maioria com cerca de 6,5–9 × 4,5–6 μm, embora algumas fontes indiquem até 12 × 7 μm.",
+        habitat: "Um fungo sapróbio em madeira morta de folhosas, mais vezes de freixo, mas também de bordo, carvalho, aveleira, salgueiro, carpa, faia, amieiro e ulmeiro. Cresce na face inferior de ramos caídos, troncos, ramagem e raízes expostas, geralmente perto do solo, em bosques de folhosas quentes e húmidos. Os corpos frutíferos duram mais de um ano, pelo que se podem encontrar em qualquer mês. Ocorre em regiões quentes de todo o mundo, na Europa sobretudo no sul e no oeste atlântico, com locais isolados mais a norte, por exemplo no oeste da Noruega. Na Alemanha raramente cresce acima dos 400 m.",
+        uses: "Não comestível. É uma crosta fina, tenaz e sem sabor, sem valor como alimento.",
+        confusion: "Muito poucos fungos de qualquer forma são azuis, e a crosta azul-escura aveludada, de margem clara, reconhece-se sem microscópio. Byssocorticium atrovirens forma um revestimento de aspeto teia de aranha, de início azul-vivo, que depois escurece e esverdeia. As espécies do género Amaurodon, como Amaurodon viridis, também formam crostas planas em madeira em decomposição, em tons de azul a verde, mas a sua superfície pode ser lisa, espinhosa ou porosa, ao passo que este fungo é uma crosta mais firme, cerosa e aveludada.",
+        notes: "Rara e local no norte e no centro da Europa. Não foi avaliada pela UICN. A Lista Vermelha norueguesa de 2021 classifica-a como pouco preocupante (Least Concern); antes era quase ameaçada (Near Threatened). A Lista Vermelha dinamarquesa considera-a regionalmente extinta (RE), por não ser encontrada ali desde 1883, mas foi reencontrada em 2024."
+      },
+      ro: {
+        description: "O crustă subțire și cerată, de un albastru intens până la albastru-violet, care se întinde în pete rotunde pe partea inferioară a lemnului mort de foioase. Suprafața catifelată și marginea deschisă, fin franjurată, o fac ușor de recunoscut. Crește pe crengi și trunchiuri căzute în păduri calde și umede și este rară în nordul și centrul Europei.",
+        cap: "Nu are pălărie. Corpul fructifer este o crustă plată, lipită de lemn. Începe ca pete rotunde, de obicei late de 3–10 cm, care se contopesc în acoperiri neregulate lungi de până la aproximativ 1 m. Este albastră intens până la albastru-violet, cu o margine mai deschisă, albicioasă și fin franjurată, care stă întinsă pe lemn. Suprafața este netedă până la ușor negoasă, catifelată sau cerată când e umedă și crustoasă și fragilă când e uscată. Datele despre grosime merg de la sub 1 mm la 2–6 mm. Corpurile fructifere bătrâne se întunecă până devin aproape negre.",
+        hymenium: "Himenul este fața exterioară liberă a crustei, netedă până la ușor negoasă și fin catifelată. Pe partea inferioară a crengilor și trunchiurilor este orientat în jos, ceea ce ușurează căderea sporilor. Bazidiile sunt clavate, tetrasporice, incolore sau albastre, de aproximativ 40–60 × 5–7 μm. Hifele sunt subțiri și ramificate, cu cataramă, iar sistemul hifal este de un singur tip.",
+        stipe: "Nu are picior. Crusta se prinde de lemn pe toată suprafața, iar doar marginile se pot ridica puțin.",
+        flesh: "Carnea este un strat foarte subțire, moale și cerat când e umedă, tenace și fragilă când e uscată. Nu are miros sau gust pronunțat.",
+        sporePrint: "Albă până la alb-crem, uneori cu o ușoară nuanță albăstruie. Sporii sunt elipsoidali, netezi, cu perete subțire, incolori sau albaștri deschis, neamiloizi, în cea mai mare parte de aproximativ 6,5–9 × 4,5–6 μm, deși unele surse indică până la 12 × 7 μm.",
+        habitat: "O ciupercă saprotrofă pe lemn mort de foioase, cel mai des de frasin, dar și de arțar, stejar, alun, salcie, carpen, fag, anin și ulm. Crește pe partea inferioară a crengilor căzute, a trunchiurilor, a crăcilor și a rădăcinilor expuse, de obicei aproape de sol, în păduri de foioase calde și umede. Corpurile fructifere rezistă mai mult de un an, așa că pot fi găsite în orice lună. Apare în regiunile calde din toată lumea, în Europa mai ales în sud și în vestul atlantic, cu localități izolate mai la nord, de exemplu în vestul Norvegiei. În Germania crește rar peste 400 m.",
+        uses: "Necomestibilă. Este o crustă subțire, tenace și fără gust, fără valoare ca aliment.",
+        confusion: "Foarte puține ciuperci de orice formă sunt albastre, iar crusta albastră intens, catifelată, cu marginea deschisă se recunoaște fără microscop. Byssocorticium atrovirens formează o acoperire ca o pânză de păianjen, la început albastru viu, care apoi se întunecă și se înverzește. Speciile genului Amaurodon, precum Amaurodon viridis, formează și ele cruste plate pe lemn în descompunere, în culori de la albastru la verde, dar suprafața lor poate fi netedă, spinoasă sau poroasă, în timp ce această ciupercă este o crustă mai fermă, cerată și catifelată.",
+        notes: "Rară și locală în nordul și centrul Europei. Nu a fost evaluată de IUCN. Lista Roșie a Norvegiei din 2021 o încadrează la risc scăzut (Least Concern); înainte era aproape amenințată (Near Threatened). Lista Roșie a Danemarcei o consideră dispărută la nivel regional (RE), deoarece nu mai fusese găsită acolo din 1883, dar a fost regăsită în 2024."
+      },
+      ru: {
+        description: "Тонкая восковидная корка глубокого синего до фиолетово-синего цвета, которая округлыми пятнами растёт на нижней стороне мёртвой древесины лиственных пород. Бархатистая поверхность и светлый, тонко бахромчатый край позволяют легко её узнать. Растёт на упавших ветвях и стволах в тёплых влажных лесах, а в северной и центральной Европе редка.",
+        cap: "Шляпки нет. Плодовое тело представляет собой плоскую корку, прилегающую к древесине. Сначала оно образует округлые пятна, обычно шириной 3–10 см, которые сливаются в неправильные покровы длиной до 1 м. Окраска глубоко синяя до фиолетово-синей, край более светлый, беловатый, тонко бахромчатый, плотно лежит на древесине. Поверхность гладкая или слегка бородавчатая, во влажном состоянии бархатистая или восковидная, в сухом коркообразная и ломкая. Толщина в разных источниках указана от менее 1 мм до 2–6 мм. Старые плодовые тела темнеют почти до чёрного.",
+        hymenium: "Спороносным слоем служит свободная наружная поверхность корки, гладкая или слегка бородавчатая и тонко бархатистая. На нижней стороне ветвей и стволов она обращена вниз, что облегчает высыпание спор. Базидии булавовидные, четырёхспоровые, бесцветные или синие, около 40–60 × 5–7 мкм. Гифы тонкие, ветвящиеся, с пряжками; гифальная система одного типа.",
+        stipe: "Ножки нет. Корка прикреплена к древесине всей поверхностью, лишь края могут слегка отставать.",
+        flesh: "Мякоть представляет собой очень тонкий слой, во влажном состоянии мягкий и восковидный, в сухом жёсткий и ломкий. Заметного запаха и вкуса нет.",
+        sporePrint: "Белый до кремово-белого, иногда с едва заметным голубоватым оттенком. Споры эллипсоидные, гладкие, тонкостенные, бесцветные или бледно-синие, неамилоидные, чаще всего около 6,5–9 × 4,5–6 мкм, хотя некоторые источники приводят до 12 × 7 мкм.",
+        habitat: "Сапротрофный гриб на мёртвой древесине лиственных деревьев, чаще всего ясеня, а также клёна, дуба, лещины, ивы, граба, бука, ольхи и вяза. Растёт на нижней стороне упавших ветвей, стволов, хвороста и обнажённых корней, обычно у самой земли, в тёплых влажных лиственных лесах. Плодовые тела держатся больше года, поэтому их можно найти в любой месяц. Встречается в тёплых областях всего мира, в Европе главным образом на юге и в атлантической части запада, с отдельными местонахождениями севернее, например в западной Норвегии. В Германии редко поднимается выше 400 м.",
+        uses: "Несъедобен. Это тонкая жёсткая корка без вкуса, не имеющая пищевой ценности.",
+        confusion: "Очень немногие грибы любой формы бывают синими, и глубоко синюю бархатистую корку со светлым краем можно узнать без микроскопа. Byssocorticium atrovirens образует паутинистый налёт, сначала ярко-синий, затем темнеющий и зеленеющий. Виды рода Amaurodon, например Amaurodon viridis, тоже образуют плоские корки на гниющей древесине синих и зелёных оттенков, но их поверхность может быть гладкой, шиповатой или пористой, тогда как этот гриб образует более плотную, восковидную и бархатистую корку.",
+        notes: "В северной и центральной Европе редок и встречается локально. МСОП его не оценивал. Красный список Норвегии 2021 года относит его к видам наименьшего риска (Least Concern), раньше он был близок к угрожаемому положению (Near Threatened). Красный список Дании считает его исчезнувшим в регионе (RE), так как там его не находили с 1883 года, но в 2024 году он был найден снова."
+      },
+      sr: {
+        description: "Танка, воскаста кора дубоко плаве до љубичастоплаве боје која се у округлим мрљама шири по доњој страни мртвог дрвета лишћара. Баршунаста површина и светла, фино ресаста ивица чине је лако препознатљивом. Расте на палим гранама и стаблима у топлим, влажним шумама, а у северној и средњој Европи је ретка.",
+        cap: "Клобука нема. Плодоносно тело је равна кора која належе на дрво. Почиње као округле мрље, обично широке 3–10 cm, које се спајају у неправилне превлаке дужине до око 1 m. Дубоко је плаво до љубичастоплаво, са светлијом, беличастом, фино ресастом ивицом која лежи равно на дрвету. Површина је глатка до благо брадавичаста, у влажном стању баршунаста или воскаста, а у сувом коричаста и кртка. Подаци о дебљини крећу се од мање од 1 mm до 2–6 mm. Старија плодоносна тела потамне док не постану скоро црна.",
+        hymenium: "Спороносни слој је слободна спољашња површина коре, глатка до благо брадавичаста и фино баршунаста. На доњој страни грана и стабала окренут је надоле, што олакшава осипање спора. Базидије су батинасте, четвороспорне, безбојне или плаве, величине око 40–60 × 5–7 μm. Хифе су танке, разгранате, имају копче, а хифни систем је само једног типа.",
+        stipe: "Дршке нема. Кора належе на дрво целом површином, а само ивице могу благо да се подижу.",
+        flesh: "Месо је веома танак слој, у влажном стању меко и воскасто, а у сувом жилаво и кртко. Нема приметан мирис ни укус.",
+        sporePrint: "Бео до кремастобео, понекад са слабим плавичастим призвуком. Споре су елипсоидне, глатке, танких зидова, безбојне или бледоплаве, неамилоидне, углавном величине око 6,5–9 × 4,5–6 μm, мада неки извори наводе до 12 × 7 μm.",
+        habitat: "Сапротрофна гљива на мртвом дрвету лишћара, најчешће јасена, а такође јавора, храста, леске, врбе, грабића, букве, јове и бреста. Расте на доњој страни палих грана, стабала, гранчица и откривених корена, обично близу земље, у топлим, влажним листопадним шумама. Плодоносна тела трају дуже од године, па се могу наћи у сваком месецу. Јавља се у топлим областима широм света, у Европи углавном на југу и у атлантском западу, са појединачним налазиштима даље на север, на пример у западној Норвешкој. У Немачкој ретко расте изнад 400 m.",
+        uses: "Није јестива. То је танка, жилава кора без укуса и без вредности као храна.",
+        confusion: "Врло мало гљива било ког облика је плаво, а дубоко плаву баршунасту кору са светлом ивицом могуће је препознати без микроскопа. Byssocorticium atrovirens гради паучинасту превлаку која је у почетку јарко плава, а потом тамни и зелени. Врсте рода Amaurodon, на пример Amaurodon viridis, такође граде равне коре на трулом дрвету у плавим до зеленим бојама, али њихова површина може бити глатка, бодљикава или порозна, док је ова гљива чвршћа, воскаста и баршунаста кора.",
+        notes: "Ретка и локална у северној и средњој Европи. IUCN је није процењивала. Норвешка црвена листа из 2021. године сврстава је у врсте најмање угрожености (Least Concern), раније је била скоро угрожена (Near Threatened). Данска црвена листа води је као регионално изумрлу (RE), јер тамо није нађена од 1883. године, али је 2024. године поново пронађена."
+      },
+      sl: {
+        description: "Tanka, voščena skorja globoko modre do vijoličastomodre barve, ki se v okroglih lisah širi po spodnji strani odmrlega lesa listavcev. Žametna površina in svetel, drobno resast rob jo naredita lahko prepoznavno. Raste na podrtih vejah in deblih v toplih, vlažnih gozdovih, v severni in srednji Evropi pa je redka.",
+        cap: "Klobuka ni. Trosnjak je ploščata skorja, ki nalega na les. Začne se kot okrogle lise, običajno široke 3–10 cm, ki se zlivajo v nepravilne prevleke, dolge do približno 1 m. Je globoko modra do vijoličastomodra, s svetlejšim, belkastim, drobno resastim robom, ki leži ploščato na lesu. Površina je gladka do rahlo bradavičasta, v vlažnem stanju žametna ali voščena, v suhem skorjasta in krhka. Podatki o debelini segajo od manj kot 1 mm do 2–6 mm. Stari trosnjaki potemnijo, dokler niso skoraj črni.",
+        hymenium: "Trosišče je prosta zunanja površina skorje, gladka do rahlo bradavičasta in drobno žametna. Na spodnji strani vej in debel je obrnjeno navzdol, kar olajša izpadanje trosov. Bazidiji so kijasti, štiritrosni, brezbarvni ali modri, veliki približno 40–60 × 5–7 μm. Hife so tanke, razvejane in imajo spone, hifni sistem pa je samo ene vrste.",
+        stipe: "Beta ni. Skorja nalega na les s celotno površino, le robovi se lahko rahlo dvignejo.",
+        flesh: "Meso je zelo tanka plast, v vlažnem stanju mehka in voščena, v suhem žilava in krhka. Nima opaznega vonja ali okusa.",
+        sporePrint: "Bel do kremnobel, včasih z rahlim modrikastim odtenkom. Trosi so elipsoidni, gladki, tankostenski, brezbarvni ali svetlomodri, neamiloidni, večinoma veliki približno 6,5–9 × 4,5–6 μm, nekateri viri pa navajajo do 12 × 7 μm.",
+        habitat: "Saprotrofna goba na odmrlem lesu listavcev, najpogosteje jesena, pa tudi javorja, hrasta, leske, vrbe, belega gabra, bukve, jelše in bresta. Raste na spodnji strani podrtih vej, debel, vejevja in odkritih korenin, običajno blizu tal, v toplih, vlažnih listnatih gozdovih. Trosnjaki obstanejo dlje kot eno leto, zato jih je mogoče najti v vsakem mesecu. Pojavlja se v toplih območjih po vsem svetu, v Evropi predvsem na jugu in v atlantskem zahodu, s posameznimi nahajališči bolj proti severu, na primer v zahodni Norveški. V Nemčiji redko raste nad 400 m.",
+        uses: "Neužitna. Je tanka, žilava skorja brez okusa in brez vrednosti kot hrana.",
+        confusion: "Zelo malo gliv katere koli oblike je modrih, globoko modro žametno skorjo s svetlim robom pa je mogoče prepoznati brez mikroskopa. Byssocorticium atrovirens tvori pajčevinasto prevleko, ki je sprva svetlo modra, nato potemni in pozeleni. Vrste rodu Amaurodon, na primer Amaurodon viridis, prav tako tvorijo ploščate skorje na trohnečem lesu v modrih do zelenih barvah, vendar je njihova površina lahko gladka, bodičasta ali porasta, medtem ko je ta goba trdnejša, voščena in žametna skorja.",
+        notes: "V severni in srednji Evropi redka in lokalna. IUCN je ni ocenila. Norveški rdeči seznam iz leta 2021 jo uvršča med vrste najmanjšega tveganja (Least Concern), prej je bila skoraj ogrožena (Near Threatened). Danski rdeči seznam jo vodi kot regionalno izumrlo (RE), ker tam od leta 1883 ni bila najdena, a so jo leta 2024 znova našli."
+      },
+      es: {
+        description: "Una costra fina y cerosa, de azul intenso a azul violáceo, que se extiende en manchas redondeadas por la cara inferior de la madera muerta de frondosas. La superficie aterciopelada y el margen claro y finamente flecoso la hacen fácil de reconocer. Crece sobre ramas y troncos caídos en bosques cálidos y húmedos y es rara en el norte y el centro de Europa.",
+        cap: "No tiene sombrero. El cuerpo fructífero es una costra plana, adherida a la madera. Empieza como manchas redondeadas, por lo general de 3–10 cm de ancho, que se funden en recubrimientos irregulares de hasta aproximadamente 1 m de largo. Es de azul intenso a azul violáceo, con un margen más claro, blanquecino y finamente flecoso, que se apoya plano sobre la madera. La superficie es lisa a ligeramente verrugosa, aterciopelada o cerosa en húmedo y costrosa y quebradiza en seco. Los datos sobre el grosor van de menos de 1 mm a 2–6 mm. Los cuerpos fructíferos viejos se oscurecen hasta quedar casi negros.",
+        hymenium: "El himenio es la cara externa libre de la costra, lisa a ligeramente verrugosa y finamente aterciopelada. En la cara inferior de ramas y troncos queda orientado hacia abajo, lo que facilita la caída de las esporas. Los basidios son claviformes, tetrasporados, incoloros o azules, de unos 40–60 × 5–7 μm. Las hifas son delgadas y ramificadas, con fíbulas, y el sistema hifal es de un solo tipo.",
+        stipe: "No tiene pie. La costra se fija a la madera por toda su superficie, y solo los márgenes pueden levantarse un poco.",
+        flesh: "La carne es una capa muy fina, blanda y cerosa en húmedo, tenaz y quebradiza en seco. No tiene olor ni sabor apreciables.",
+        sporePrint: "Blanca a blanco crema, a veces con un ligero tono azulado. Las esporas son elipsoidales, lisas, de pared fina, incoloras o azul claro, no amiloides, en su mayoría de unos 6,5–9 × 4,5–6 μm, aunque algunas fuentes indican hasta 12 × 7 μm.",
+        habitat: "Un hongo saprótrofo sobre madera muerta de frondosas, con más frecuencia de fresno, pero también de arce, roble, avellano, sauce, carpe, haya, aliso y olmo. Crece en la cara inferior de ramas caídas, troncos, ramaje y raíces expuestas, por lo general cerca del suelo, en bosques de frondosas cálidos y húmedos. Los cuerpos fructíferos duran más de un año, por lo que pueden encontrarse en cualquier mes. Aparece en regiones cálidas de todo el mundo, en Europa sobre todo en el sur y el oeste atlántico, con localidades aisladas más al norte, por ejemplo en el oeste de Noruega. En Alemania rara vez crece por encima de los 400 m.",
+        uses: "No comestible. Es una costra fina, tenaz y sin sabor, sin valor como alimento.",
+        confusion: "Muy pocos hongos de cualquier forma son azules, y la costra azul intenso aterciopelada, de margen claro, se reconoce sin microscopio. Byssocorticium atrovirens forma un recubrimiento a modo de tela de araña, al principio azul vivo, que luego se oscurece y se vuelve verdoso. Las especies del género Amaurodon, como Amaurodon viridis, también forman costras planas sobre madera en descomposición, en tonos de azul a verde, pero su superficie puede ser lisa, espinosa o porosa, mientras que este hongo es una costra más firme, cerosa y aterciopelada.",
+        notes: "Rara y local en el norte y el centro de Europa. No ha sido evaluada por la UICN. La Lista Roja noruega de 2021 la clasifica en preocupación menor (Least Concern); antes estaba casi amenazada (Near Threatened). La Lista Roja danesa la considera extinta a nivel regional (RE), porque no se encontraba allí desde 1883, pero se halló de nuevo en 2024."
+      },
+      sv: {
+        description: "En tunn, vaxartad skorpa i djupblått till violettblått som breder ut sig i runda fläckar över undersidan av död lövved. Den sammetslena ytan och den ljusa, fint fransiga kanten gör den lätt att känna igen. Den växer på nedfallna grenar och stammar i varma, fuktiga skogar och är sällsynt i norra och mellersta Europa.",
+        cap: "Hatt saknas. Fruktkroppen är en platt skorpa som ligger tätt mot veden. Den börjar som runda fläckar, vanligen 3–10 cm breda, som växer ihop till oregelbundna beläggningar på upp till ca 1 m. Den är djupblå till violettblå med en ljusare, vitaktig, fint fransig kant som ligger plant mot veden. Ytan är slät till svagt vårtig, fuktig sammetslen eller vaxartad och torr skorpartad och spröd. Uppgifterna om tjockleken varierar från under 1 mm till 2–6 mm. Gamla fruktkroppar mörknar tills de är nästan svarta.",
+        hymenium: "Sporlagret är skorpans fria yta, slät till svagt vårtig och fint sammetslen. På undersidan av grenar och stammar vetter den nedåt, vilket gör det lättare för sporerna att lossna. Basidierna är klubbformade, fyrsporiga, färglösa eller blå och ca 40–60 × 5–7 μm. Hyferna är tunna och grenade och har kopplingar, och det finns bara en typ av hyfer.",
+        stipe: "Fot saknas. Skorpan sitter fast på veden över hela ytan, och bara kanterna kan lyfta sig något.",
+        flesh: "Köttet är ett mycket tunt lager, fuktigt mjukt och vaxartat och torrt segt och sprött. Det har ingen märkbar lukt eller smak.",
+        sporePrint: "Vitt till gräddvitt, ibland med en svag blåaktig ton. Sporerna är ellipsoida, släta, tunnväggiga, färglösa eller ljusblå och icke-amyloida, för det mesta ca 6,5–9 × 4,5–6 μm, även om vissa källor anger upp till 12 × 7 μm.",
+        habitat: "En saprotrof svamp på död ved av lövträd, oftast ask, men också lönn, ek, hassel, sälg, avenbok, bok, al och alm. Den växer på undersidan av nedfallna grenar, stammar, ris och blottade rötter, vanligen nära marken, i varma, fuktiga lövskogar. Fruktkropparna håller sig i mer än ett år, så de kan hittas under alla månader. Den förekommer i varma områden över hela världen, i Europa mest i söder och i den atlantiska västra delen, med enstaka lokaler längre norrut, till exempel i västra Norge. I Tyskland växer den sällan över 400 m.",
+        uses: "Inte ätlig. Det är en tunn, seg skorpa utan smak och utan värde som mat.",
+        confusion: "Mycket få svampar av någon form är blå, och den djupblå, sammetslena skorpan med ljus kant kan kännas igen utan mikroskop. Byssocorticium atrovirens bildar ett spindelvävsartat lager som först är klarblått och sedan mörknar och blir grönare. Arter i släktet Amaurodon, till exempel Amaurodon viridis, bildar också platta skorpor på murken ved i blå till gröna färger, men deras yta kan vara slät, taggig eller porig, medan denna svamp är en fastare, vaxartad och sammetslen skorpa.",
+        notes: "Sällsynt och lokal i norra och mellersta Europa. Den har inte bedömts av IUCN. Den norska rödlistan från 2021 för den som livskraftig (Least Concern), tidigare var den nära hotad (Near Threatened). På den danska rödlistan är den regionalt utdöd (RE), eftersom den inte hade hittats där sedan 1883, men 2024 hittades den igen."
+      },
+      tr: {
+        description: "İnce, mumsu, koyu maviden mor maviye uzanan renkte bir kabuk. Ölü yapraklı ağaç odununun alt yüzünde yuvarlak lekeler halinde yayılır. Kadifemsi yüzeyi ve açık renkli, ince saçaklı kenarı onu kolay tanınır kılar. Sıcak, nemli ormanlarda düşmüş dallarda ve kütüklerde yetişir; kuzey ve orta Avrupa'da nadirdir.",
+        cap: "Şapkası yoktur. Meyve gövdesi, odunun üzerine yapışık, düz bir kabuktur. Genellikle 3–10 cm genişliğinde yuvarlak lekeler olarak başlar; bu lekeler birleşerek yaklaşık 1 m uzunluğa kadar düzensiz örtüler oluşturur. Koyu maviden mor maviye uzanan renktedir; kenarı daha açık, beyazımsı ve ince saçaklıdır, odunun üzerine düz yatar. Yüzeyi pürüzsüzden hafif siğillimsiye kadar değişir; nemliyken kadifemsi ya da mumsu, kuruyken kabuksu ve kırılgandır. Kalınlık verileri 1 mm'nin altından 2–6 mm'ye kadar uzanır. Yaşlı meyve gövdeleri neredeyse siyah olana dek koyulaşır.",
+        hymenium: "Hymenium, kabuğun serbest dış yüzüdür; pürüzsüzden hafif siğillimsiye kadar değişir ve ince kadifemsidir. Dalların ve kütüklerin alt yüzünde aşağı bakar; bu, sporların dökülmesini kolaylaştırır. Bazidler gürz biçimli, dört sporlu, renksiz ya da mavidir ve yaklaşık 40–60 × 5–7 μm boyutundadır. Hifler ince ve dallanmıştır, kopçalıdır; hif sistemi yalnızca tek türdendir.",
+        stipe: "Sapı yoktur. Kabuk tüm yüzeyiyle odunun üzerine yapışır; yalnızca kenarlar biraz kalkabilir.",
+        flesh: "Eti çok ince bir tabakadır; nemliyken yumuşak ve mumsu, kuruyken sert ve kırılgandır. Belirgin bir kokusu ya da tadı yoktur.",
+        sporePrint: "Beyazdan krem beyazına, bazen hafif mavimsi bir tonla. Sporlar elipsoit, pürüzsüz, ince çeperli, renksiz ya da açık mavi ve amiloid olmayan yapıdadır; çoğunlukla yaklaşık 6,5–9 × 4,5–6 μm boyutundadır, ancak bazı kaynaklar 12 × 7 μm'ye kadar bildirir.",
+        habitat: "Yapraklı ağaçların ölü odununda yaşayan saprotrof bir mantardır; en sık dişbudakta, ayrıca akçaağaçta, meşede, fındıkta, söğütte, gürgende, kayında, kızılağaçta ve karaağaçta görülür. Düşmüş dalların, kütüklerin, çalı çırpının ve açıkta kalmış köklerin alt yüzünde, genellikle toprağa yakın, sıcak ve nemli yapraklı ormanlarda yetişir. Meyve gövdeleri bir yıldan uzun süre dayanır, bu yüzden her ay bulunabilir. Dünyanın sıcak bölgelerinde bulunur; Avrupa'da çoğunlukla güneyde ve Atlantik etkisindeki batıda, daha kuzeyde ise Batı Norveç gibi tek tük yerlerde rastlanır. Almanya'da 400 m'nin üzerinde nadiren yetişir.",
+        uses: "Yenmez. İnce, sert, tatsız bir kabuktur; yiyecek olarak bir değeri yoktur.",
+        confusion: "Hangi biçimde olursa olsun çok az mantar mavidir; koyu mavi, kadifemsi, kenarı açık renkli kabuk mikroskop olmadan tanınabilir. Byssocorticium atrovirens, önce parlak mavi olan, sonra koyulaşıp yeşilleşen örümcek ağı gibi bir örtü oluşturur. Amaurodon cinsinin türleri, örneğin Amaurodon viridis, çürüyen odun üzerinde maviden yeşile uzanan renklerde düz kabuklar yapar; ancak yüzeyleri pürüzsüz, dikenli ya da gözenekli olabilir, bu mantar ise daha sıkı, mumsu ve kadifemsi bir kabuktur.",
+        notes: "Kuzey ve orta Avrupa'da nadir ve yereldir. IUCN tarafından değerlendirilmemiştir. Norveç'in 2021 tarihli Kırmızı Listesi onu asgari endişe (Least Concern) kategorisinde sayar; daha önce tehdide yakındı (Near Threatened). Danimarka Kırmızı Listesi onu bölgesel olarak yok olmuş (RE) sayar, çünkü orada 1883'ten beri bulunmamıştı; ancak 2024'te yeniden bulundu."
+      },
+      uk: {
+        description: "Тонка воскоподібна кірка глибокого синього до фіолетово-синього кольору, що круглими плямами росте на нижньому боці мертвої деревини листяних порід. Оксамитова поверхня та світлий, дрібно торочкуватий край дозволяють легко її впізнати. Росте на впалих гілках і стовбурах у теплих вологих лісах, а в північній і центральній Європі рідкісна.",
+        cap: "Шапинки немає. Плодове тіло є плоскою кіркою, що прилягає до деревини. Спочатку воно утворює круглі плями, зазвичай завширшки 3–10 см, які зливаються в неправильні покриви завдовжки до 1 м. Забарвлення глибоке синє до фіолетово-синього, край світліший, білуватий, дрібно торочкуватий і щільно лежить на деревині. Поверхня гладка або злегка бородавчаста, у вологому стані оксамитова чи воскоподібна, у сухому кіркоподібна й ламка. Товщину в різних джерелах вказано від менш ніж 1 мм до 2–6 мм. Старі плодові тіла темніють майже до чорного.",
+        hymenium: "Спороносним шаром є вільна зовнішня поверхня кірки, гладка або злегка бородавчаста й дрібно оксамитова. На нижньому боці гілок і стовбурів вона обернена донизу, що полегшує висипання спор. Базидії булавоподібні, чотириспорові, безбарвні або сині, приблизно 40–60 × 5–7 мкм. Гіфи тонкі, розгалужені, з пряжками; гіфова система одного типу.",
+        stipe: "Ніжки немає. Кірка прикріплена до деревини всією поверхнею, лише краї можуть трохи відставати.",
+        flesh: "М’якоть є дуже тонким шаром, у вологому стані м’яким і воскоподібним, у сухому жорстким і ламким. Помітного запаху й смаку немає.",
+        sporePrint: "Білий до кремово-білого, іноді з ледь помітним голубуватим відтінком. Спори еліпсоїдні, гладенькі, тонкостінні, безбарвні або блідо-сині, неамілоїдні, здебільшого приблизно 6,5–9 × 4,5–6 мкм, хоча деякі джерела наводять до 12 × 7 мкм.",
+        habitat: "Сапротрофний гриб на мертвій деревині листяних дерев, найчастіше ясена, а також клена, дуба, ліщини, верби, граба, бука, вільхи та в’яза. Росте на нижньому боці впалих гілок, стовбурів, хмизу та оголеного коріння, зазвичай близько до землі, у теплих вологих листяних лісах. Плодові тіла тримаються довше за рік, тому їх можна знайти в будь-який місяць. Трапляється в теплих областях усього світу, в Європі переважно на півдні та в атлантичній частині заходу, з окремими місцями знаходження північніше, наприклад у західній Норвегії. У Німеччині рідко росте вище 400 м.",
+        uses: "Неїстівний. Це тонка жорстка кірка без смаку, що не має харчової цінності.",
+        confusion: "Дуже мало грибів будь-якої форми бувають синіми, і глибоко синю оксамитову кірку зі світлим краєм можна впізнати без мікроскопа. Byssocorticium atrovirens утворює павутинистий наліт, спершу яскраво-синій, потім темніший і зеленавіший. Види роду Amaurodon, наприклад Amaurodon viridis, також утворюють плоскі кірки на гнилій деревині синіх і зелених відтінків, але їхня поверхня може бути гладенькою, шипуватою або пористою, тоді як цей гриб утворює щільнішу, воскоподібну й оксамитову кірку.",
+        notes: "У північній і центральній Європі рідкісний і трапляється локально. МСОП його не оцінював. Червоний список Норвегії 2021 року відносить його до видів найменшого занепокоєння (Least Concern), раніше він був близьким до загрозливого стану (Near Threatened). Червоний список Данії вважає його зниклим у регіоні (RE), бо там його не знаходили з 1883 року, але у 2024 році його знайшли знову."
+      }
+    },
+    sources: {
+      en: [
+        {
+          "group": "name",
+          "name": "First Nature",
+          "href": "https://www.first-nature.com/fungi/terana-caerulea.php"
+        },
+        {
+          "group": "name",
+          "name": "MushroomExpert.Com",
+          "href": "https://mushroomexpert.com/fungionwood/crust%20and%20parchment/species%20pages/Terana%20coerulea.html"
+        },
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://en.wikipedia.org/wiki/Terana_caerulea"
+        },
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://de.wikipedia.org/wiki/Blauer_Rindenpilz"
+        },
+        {
+          "group": "name",
+          "name": "Artsdatabanken",
+          "href": "https://lister.artsdatabanken.no/rodlisteforarter/2021/19033",
+          "detail": "Least Concern, 2021"
+        },
+        {
+          "group": "name",
+          "name": "Danish Red List",
+          "href": "https://roedliste.au.dk/data.asp?ID=4426&gruppeID=87",
+          "detail": "regionally extinct (RE)"
+        },
+        {
+          "group": "name",
+          "name": "Index Fungorum",
+          "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=493426",
+          "detail": "493426"
+        },
+        {
+          "group": "name",
+          "name": "Species Fungorum",
+          "href": "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=493426",
+          "detail": "493426"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244849",
+          "detail": "5244849"
+        }
+      ],
+      sk: [
+        {
+          "group": "text",
+          "name": "nahuby.sk",
+          "href": "https://www.nahuby.sk/atlas-hub/Terana-coerulea/kornatec/kornatec-modry/ID10681",
+          "detail": "kôrnatec"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244849",
+          "detail": "5244849"
+        }
+      ],
+      ar: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://ar.wikipedia.org/wiki/%D8%AA%D8%B1%D8%A7%D9%86%D8%A7_%D8%B3%D9%85%D8%A7%D9%88%D9%8A"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244849",
+          "detail": "5244849"
+        }
+      ],
+      bg: [
+        {
+          "group": "text",
+          "name": "Уикипедия",
+          "href": "https://bg.wikipedia.org/wiki/Terana_caerulea"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244849",
+          "detail": "5244849"
+        }
+      ],
+      zh: [
+        {
+          "group": "name",
+          "name": "台灣生物多樣性網絡 TBN",
+          "href": "https://www.tbn.org.tw/taxa/8f7a05c4-c721-4f7a-bd8c-f252f1a5e4be",
+          "detail": "藍色麗殼菌"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244849",
+          "detail": "5244849"
+        }
+      ],
+      hr: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244849",
+          "detail": "5244849"
+        }
+      ],
+      cs: [
+        {
+          "group": "text",
+          "name": "Česká mykologická společnost",
+          "href": "https://www.myko.cz/myko-atlas/Terana-caerulea/",
+          "detail": "kornatec modrý"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244849",
+          "detail": "5244849"
+        }
+      ],
+      da: [
+        {
+          "group": "name",
+          "name": "Den Danske Rødliste",
+          "href": "https://roedliste.au.dk/data.asp?ID=4426&gruppeID=87"
+        },
+        {
+          "group": "text",
+          "name": "Videnskab.dk",
+          "href": "https://videnskab.dk/naturvidenskab/i-140-aar-var-den-borte-sjaelden-svamp-tilbage-i-danmark/"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244849",
+          "detail": "5244849"
+        }
+      ],
+      nl: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://nl.wikipedia.org/wiki/Blauwe_korstzwam"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244849",
+          "detail": "5244849"
+        }
+      ],
+      et: [
+        {
+          "group": "text",
+          "name": "Vikipeedia",
+          "href": "https://et.wikipedia.org/wiki/Koobalttorik"
+        },
+        {
+          "group": "name",
+          "name": "Artsdatabanken",
+          "href": "https://lister.artsdatabanken.no/rodlisteforarter/2021/19033"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244849",
+          "detail": "5244849"
+        }
+      ],
+      fi: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244849",
+          "detail": "5244849"
+        }
+      ],
+      fr: [
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://fr.wikipedia.org/wiki/Terana_caerulea"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244849",
+          "detail": "5244849"
+        }
+      ],
+      de: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://de.wikipedia.org/wiki/Blauer_Rindenpilz"
+        },
+        {
+          "group": "text",
+          "name": "DGfM, Pilz des Jahres 2009",
+          "href": "https://www.dgfm-ev.de/de/ueber-uns/news/pilz-des-jahres-2009-blauer-rindenpilz"
+        }
+      ],
+      he: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244849",
+          "detail": "5244849"
+        }
+      ],
+      hi: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244849",
+          "detail": "5244849"
+        }
+      ],
+      hu: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244849",
+          "detail": "5244849"
+        }
+      ],
+      id: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244849",
+          "detail": "5244849"
+        }
+      ],
+      it: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244849",
+          "detail": "5244849"
+        }
+      ],
+      ja: [
+        {
+          "group": "text",
+          "name": "生物教育研究室（聖徳学園大学）",
+          "href": "http://www.ha.shotoku.ac.jp/~kawa/KYO/SEIBUTSU/syokubutsu/KIN/aiko/index.html",
+          "detail": "アイコウヤクタケ"
+        },
+        {
+          "group": "text",
+          "name": "大菌輪",
+          "href": "https://mycoscouter.coolblog.jp/daikinrin/Pages/Terana_coerulea_493426.html"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244849",
+          "detail": "5244849"
+        }
+      ],
+      ko: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244849",
+          "detail": "5244849"
+        }
+      ],
+      lv: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244849",
+          "detail": "5244849"
+        }
+      ],
+      lt: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244849",
+          "detail": "5244849"
+        }
+      ],
+      no: [
+        {
+          "group": "name",
+          "name": "Artsdatabanken",
+          "href": "https://lister.artsdatabanken.no/rodlisteforarter/2021/19033"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244849",
+          "detail": "5244849"
+        }
+      ],
+      fa: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://fa.wikipedia.org/wiki/%D9%82%D8%A7%D8%B1%DA%86_%D9%BE%DB%8C%D9%86%D9%87%E2%80%8C%D8%A7%DB%8C_%D9%84%D8%A7%D8%AC%D9%88%D8%B1%D8%AF%DB%8C"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244849",
+          "detail": "5244849"
+        }
+      ],
+      pl: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://pl.wikipedia.org/wiki/Pi%C4%99knosk%C3%B3rnik_modry"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244849",
+          "detail": "5244849"
+        }
+      ],
+      pt: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244849",
+          "detail": "5244849"
+        }
+      ],
+      ro: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244849",
+          "detail": "5244849"
+        }
+      ],
+      ru: [
+        {
+          "group": "text",
+          "name": "Википедия",
+          "href": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D1%82%D0%B8%D1%86%D0%B8%D1%83%D0%BC_%D1%81%D0%B8%D0%BD%D0%B8%D0%B9"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244849",
+          "detail": "5244849"
+        }
+      ],
+      sr: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244849",
+          "detail": "5244849"
+        }
+      ],
+      sl: [
+        {
+          "group": "name",
+          "name": "Gobarsko društvo Lisička Maribor",
+          "href": "https://www.gobe.si/Gobe/TeranaCoerulea"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244849",
+          "detail": "5244849"
+        }
+      ],
+      es: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244849",
+          "detail": "5244849"
+        }
+      ],
+      sv: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://sv.wikipedia.org/wiki/Bl%C3%A5skinn"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244849",
+          "detail": "5244849"
+        }
+      ],
+      tr: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244849",
+          "detail": "5244849"
+        }
+      ],
+      uk: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244849",
+          "detail": "5244849"
+        }
+      ]
+    },
+    synonyms: [
+      "Byssus coerulea Lam.",
+      "Thelephora coerulea (Lam.) Schrad. ex Schleich.",
+      "Hypochnus coeruleus (Lam.) Fr.",
+      "Athelia coerulea (Lam.) Chevall.",
+      "Corticium coeruleum (Lam.) Fr.",
+      "Terana coerulea (Lam.) Kuntze",
+      "Pulcherricium coeruleum (Lam.) Parmasto",
+      "Byssus phosphorea L.",
+      "Auricularia phosphorea (L.) Sowerby",
+      "Conferva phosphorea (L.) Dillwyn",
+      "Mycinema phosphoreum (L.) C.Agardh",
+      "Dematium violaceum Pers.",
+      "Sporotrichum azureum Link",
+      "Thelephora atrocoerulea Trog",
+      "Thelephora fimbriata Roth",
+      "Thelephora indigo Schwein."
+    ]
   }
 ];

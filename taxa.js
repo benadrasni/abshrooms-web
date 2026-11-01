@@ -648,5 +648,14 @@ export const TAXA = {
   Astraeus: {
     rank: "genus",
     sk: "hviezdovec"
+  },
+  Phanerochaetaceae: {
+    rank: "family"
+  },
+  Terana: {
+    rank: "genus",
+    sk: "kôrnatec",
+    cs: "kornatec",
+    pl: "pięknoskórnik"
   }
 };
