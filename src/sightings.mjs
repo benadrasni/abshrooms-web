@@ -1,11 +1,9 @@
-// Public Sightings for one species page. Firestore allows an unsigned read
-// when the query asks only for status public. Photos stay on the sighting bucket.
+// Public Sightings for one species page. The card is sightings_public.
+// Its photo is sightings/public/{id}.jpg on the sighting bucket.
 
 const PROJECT = 'abshrooms-a9d4c';
 const BUCKET = 'abshrooms-a9d4c.firebasestorage.app';
 const QUERY_URL = `https://firestore.googleapis.com/v1/projects/${PROJECT}/databases/(default)/documents:runQuery`;
-const PHOTO_HOSTS = new Set(['firebasestorage.googleapis.com', 'storage.googleapis.com']);
-
 const regionNames = {};
 
 function fieldValue(field) {
@@ -18,20 +16,11 @@ function fieldValue(field) {
   return null;
 }
 
-// Object path sightings/{uid}/{id}.jpg, or an already-public https URL on the photo hosts.
+// Object path sightings/public/{id}.jpg. A path with an account in it is empty.
 export function sightingPhotoUrl(path) {
   const object = String(path || '').trim();
   if (!object || object.includes('..') || object.includes('\\')) return '';
-  if (/^https?:\/\//i.test(object)) {
-    try {
-      const url = new URL(object);
-      if (url.protocol !== 'https:' || !PHOTO_HOSTS.has(url.hostname)) return '';
-      return url.toString();
-    } catch {
-      return '';
-    }
-  }
-  if (!/^sightings\/[^/]+\/[^/]+\.jpg$/.test(object)) return '';
+  if (!/^sightings\/public\/[^/]+\.jpg$/.test(object)) return '';
   return `https://firebasestorage.googleapis.com/v0/b/${BUCKET}/o/${encodeURIComponent(object)}?alt=media`;
 }
 
@@ -109,26 +98,12 @@ export async function loadPublicSightings(latin, fetchImpl) {
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({
       structuredQuery: {
-        from: [{ collectionId: 'sightings' }],
+        from: [{ collectionId: 'sightings_public' }],
         where: {
-          compositeFilter: {
-            op: 'AND',
-            filters: [
-              {
-                fieldFilter: {
-                  field: { fieldPath: 'latin' },
-                  op: 'EQUAL',
-                  value: { stringValue: name },
-                },
-              },
-              {
-                fieldFilter: {
-                  field: { fieldPath: 'status' },
-                  op: 'EQUAL',
-                  value: { stringValue: 'public' },
-                },
-              },
-            ],
+          fieldFilter: {
+            field: { fieldPath: 'latin' },
+            op: 'EQUAL',
+            value: { stringValue: name },
           },
         },
         limit: 200,

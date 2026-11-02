@@ -9,18 +9,19 @@ import {
   sightingsFromQuery,
 } from '../src/sightings.mjs';
 
-const PHOTO = 'sightings/uid/1793.jpg';
+const PHOTO = 'sightings/public/1793.jpg';
 
-test('a sighting photo url stays on the public bucket', () => {
+test('a sighting photo url stays on the public card', () => {
   assert.equal(
     sightingPhotoUrl(PHOTO),
-    'https://firebasestorage.googleapis.com/v0/b/abshrooms-a9d4c.firebasestorage.app/o/sightings%2Fuid%2F1793.jpg?alt=media',
+    'https://firebasestorage.googleapis.com/v0/b/abshrooms-a9d4c.firebasestorage.app/o/sightings%2Fpublic%2F1793.jpg?alt=media',
   );
+  assert.equal(sightingPhotoUrl('sightings/uid/1793.jpg'), '');
   assert.equal(sightingPhotoUrl('photos/other.jpg'), '');
   assert.equal(sightingPhotoUrl('https://evil.example/a.jpg'), '');
   assert.equal(
     sightingPhotoUrl('https://firebasestorage.googleapis.com/v0/b/abshrooms-a9d4c.firebasestorage.app/o/x?alt=media'),
-    'https://firebasestorage.googleapis.com/v0/b/abshrooms-a9d4c.firebasestorage.app/o/x?alt=media',
+    '',
   );
 });
 
@@ -29,7 +30,7 @@ test('public sightings are newest first and skip a row without a photo', () => {
     {},
     {
       document: {
-        name: 'projects/abshrooms-a9d4c/databases/(default)/documents/sightings/old',
+        name: 'projects/abshrooms-a9d4c/databases/(default)/documents/sightings_public/old',
         fields: {
           status: { stringValue: 'public' },
           photo: { stringValue: PHOTO },
@@ -40,10 +41,10 @@ test('public sightings are newest first and skip a row without a photo', () => {
     },
     {
       document: {
-        name: 'projects/abshrooms-a9d4c/databases/(default)/documents/sightings/new',
+        name: 'projects/abshrooms-a9d4c/databases/(default)/documents/sightings_public/new',
         fields: {
           status: { stringValue: 'public' },
-          photo: { stringValue: 'sightings/uid/new.jpg' },
+          photo: { stringValue: 'sightings/public/new.jpg' },
           millis: { integerValue: '2000' },
           country: { stringValue: 'us' },
         },
@@ -86,7 +87,7 @@ test('a query error is not an empty list', () => {
   assert.deepEqual(sightingsFromQuery([]), []);
 });
 
-test('the sightings request asks only for one public latin name', async () => {
+test('the sightings request asks only for one latin name on the public cards', async () => {
   let body = null;
   const rows = await loadPublicSightings('Boletus edulis', async (url, options) => {
     body = JSON.parse(options.body);
@@ -100,9 +101,12 @@ test('the sightings request asks only for one public latin name', async () => {
     };
   });
   assert.deepEqual(rows, []);
-  const filters = body.structuredQuery.where.compositeFilter.filters;
-  assert.equal(filters[0].fieldFilter.value.stringValue, 'Boletus edulis');
-  assert.equal(filters[1].fieldFilter.value.stringValue, 'public');
+  assert.equal(body.structuredQuery.from[0].collectionId, 'sightings_public');
+  const filter = body.structuredQuery.where.fieldFilter;
+  assert.equal(filter.field.fieldPath, 'latin');
+  assert.equal(filter.value.stringValue, 'Boletus edulis');
+  assert.equal(JSON.stringify(body).includes('latitude'), false);
+  assert.equal(JSON.stringify(body).includes('uid'), false);
   const refuse = async () => {
     throw new Error('no fetch');
   };
