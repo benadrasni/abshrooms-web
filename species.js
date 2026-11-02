@@ -120,7 +120,7 @@ export const CATALOG = [
       ro: ['hrib cenușiu', 'mănătarcă'],
       bg: ['манатарка', 'меча гъба', 'самунка'],
       ru: ["боровик","белый"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%91%D1%96%D0%BB%D0%B8%D0%B9_%D0%B3%D1%80%D0%B8%D0%B1"],
+      uk: ["боровик","білий гриб звичайний"],
       pl: ["prawdziwek","borowik jadalny"],
       fr: ["cèpe","gros pied"],
       it: ["porcino comune","ceppatello","brisa"],
@@ -1539,7 +1539,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Красный_мухомор"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%9C%D1%83%D1%85%D0%BE%D0%BC%D0%BE%D1%80_%D1%87%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B8%D0%B9"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/%D0%9C%D1%83%D1%85%D0%BE%D0%BC%D0%BE%D1%80_%D1%87%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B8%D0%B9"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -1739,7 +1745,7 @@ export const CATALOG = [
       ro: ['burete galben', 'gălbenel'],
       bg: ['обикновен пачи крак'],
       ru: ["лисичка настоящая"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%9B%D0%B8%D1%81%D0%B8%D1%87%D0%BA%D0%B0_%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B6%D0%BD%D1%8F"],
+      uk: ["лисичка звичайна"],
       pl: ["kurka"],
       fr: ["chanterelle commune","chanterelle"],
       it: ["finferlo","galletto","cantarello"],
@@ -2575,7 +2581,7 @@ export const CATALOG = [
       sv: ['sämsksopp'],
       bg: ['мрежеста манатарка', 'лятна манатарка'],
       ru: ["боровик сетчатый","белый гриб дубовый"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%91%D1%96%D0%BB%D0%B8%D0%B9_%D0%B3%D1%80%D0%B8%D0%B1_%D1%81%D1%96%D1%82%D1%87%D0%B0%D1%81%D1%82%D0%B8%D0%B9"],
+      uk: ["боровик сітчастий"],
       pl: ["borowik siatkowaty"],
       fr: ["cèpe réticulé"],
       it: ["estatino"],
@@ -3419,7 +3425,7 @@ export const CATALOG = [
       ro: ['burete șerpesc', 'pălăria șarpelui'],
       bg: ['вретенка', 'кукумарка', 'самодивска гъба'],
       ru: ["зонтик пёстрый","гриб-зонтик большой"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%93%D1%80%D0%B8%D0%B1-%D0%B7%D0%BE%D0%BD%D1%82%D0%B8%D0%BA_%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9"],
+      uk: ["макролепіота висока"],
       pl: ["kania","sowa"],
       fr: ["coulemelle"],
       it: ["ombrellone","puppola"],
@@ -4237,7 +4243,7 @@ export const CATALOG = [
       pt: ['cicuta-verde', 'rebenta-bois'],
       bg: ['пакостница'],
       ru: ["мухомор зелёный"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%91%D0%BB%D1%96%D0%B4%D0%B0_%D0%BF%D0%BE%D0%B3%D0%B0%D0%BD%D0%BA%D0%B0"],
+      uk: ["мухомор зелений"],
       pl: ["muchomor sromotnikowy"],
       fr: ["oronge verte"],
       it: ["amanita falloide"]
@@ -5650,7 +5656,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Мухомор_пантерный"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%9C%D1%83%D1%85%D0%BE%D0%BC%D0%BE%D1%80_%D0%BF%D0%B0%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B8%D0%B9"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/%D0%9C%D1%83%D1%85%D0%BE%D0%BC%D0%BE%D1%80_%D0%BF%D0%B0%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B8%D0%B9"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -5837,7 +5849,7 @@ export const CATALOG = [
       ro: ['zbârciog'],
       bg: ['смръчкула', 'бучка гъба', 'корминка'],
       ru: ["сморчок настоящий"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%97%D0%BC%D0%BE%D1%80%D1%88%D0%BE%D0%BA_%D1%97%D1%81%D1%82%D1%96%D0%B2%D0%BD%D0%B8%D0%B9"],
+      uk: ["зморшок звичайний"],
       pl: ["smardz zwyczajny"],
       fr: ["morille ronde","morille blonde"],
       it: ["spugnola comune","morchella"],
@@ -7339,7 +7351,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Вёшенка_обыкновенная"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%93%D0%BB%D0%B8%D0%B2%D0%B0_%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9%D0%BD%D0%B0"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/%D0%93%D0%BB%D0%B8%D0%B2%D0%B0_%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9%D0%BD%D0%B0"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -8170,7 +8188,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Трутовик_серно-жёлтый"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%A2%D1%80%D1%83%D1%82%D0%BE%D0%B2%D0%B8%D0%BA_%D1%81%D1%96%D1%80%D1%87%D0%B0%D0%BD%D0%BE-%D0%B6%D0%BE%D0%B2%D1%82%D0%B8%D0%B9"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/%D0%A2%D1%80%D1%83%D1%82%D0%BE%D0%B2%D0%B8%D0%BA_%D1%81%D1%96%D1%80%D1%87%D0%B0%D0%BD%D0%BE-%D0%B6%D0%BE%D0%B2%D1%82%D0%B8%D0%B9"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -9016,7 +9040,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Польский_гриб"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B3%D1%80%D0%B8%D0%B1"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B3%D1%80%D0%B8%D0%B1"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -9248,7 +9278,7 @@ export const CATALOG = [
       ro: ['halimaș', 'ghebă cu inel'],
       bg: ['припънка', 'пънчушка', 'светеща пънчушка'],
       ru: ["опёнок настоящий"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%9E%D0%BF%D0%B5%D0%BD%D1%8C%D0%BE%D0%BA_%D0%BE%D1%81%D1%96%D0%BD%D0%BD%D1%96%D0%B9_%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B6%D0%BD%D1%96%D0%B9"],
+      uk: ["опеньок осінній"],
       fr: ["armillaire de miel"],
       it: ["famigliola buona"],
       hu: ["csuprosgomba","mézszínű tölcsérgomba"]
@@ -10107,7 +10137,7 @@ export const CATALOG = [
       pt: ['gota-de-tinta'],
       bg: ['воловарка', 'мастиленка'],
       ru: ["навозник хохлатый","навозник лохматый"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%93%D0%BD%D0%BE%D1%88%D0%B2%D0%B8%D0%BA_%D1%87%D1%83%D0%B1%D0%B0%D1%82%D0%B8%D0%B9"],
+      uk: ["гнойовик білий"],
       fr: ["goutte d'encre"],
       it: ["fungo dell'inchiostro"]
     },
@@ -11601,7 +11631,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Строчок_обыкновенный"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%BE%D1%87%D0%BE%D0%BA_%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9%D0%BD%D0%B8%D0%B9"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%BE%D1%87%D0%BE%D0%BA_%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9%D0%BD%D0%B8%D0%B9"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -12407,7 +12443,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Мухомор_серо-розовый"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%9C%D1%83%D1%85%D0%BE%D0%BC%D0%BE%D1%80_%D1%81%D1%96%D1%80%D0%BE-%D1%80%D0%BE%D0%B6%D0%B5%D0%B2%D0%B8%D0%B9"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/%D0%9C%D1%83%D1%85%D0%BE%D0%BC%D0%BE%D1%80_%D1%81%D1%96%D1%80%D0%BE-%D1%80%D0%BE%D0%B6%D0%B5%D0%B2%D0%B8%D0%B9"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -13198,7 +13240,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Ложноопёнок_серно-жёлтый"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%9E%D0%BF%D0%B5%D0%BD%D1%8C%D0%BE%D0%BA_%D0%BD%D0%B5%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B6%D0%BD%D1%96%D0%B9_%D1%81%D1%96%D1%80%D1%87%D0%B0%D0%BD%D0%BE-%D0%B6%D0%BE%D0%B2%D1%82%D0%B8%D0%B9"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/%D0%9E%D0%BF%D0%B5%D0%BD%D1%8C%D0%BE%D0%BA_%D0%BD%D0%B5%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B6%D0%BD%D1%96%D0%B9_%D1%81%D1%96%D1%80%D1%87%D0%B0%D0%BD%D0%BE-%D0%B6%D0%BE%D0%B2%D1%82%D0%B8%D0%B9"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -13408,7 +13456,7 @@ export const CATALOG = [
       pt: ['cogumelo-dos-prados'],
       ro: ['șampinion de câmp'],
       ru: ["печерица","шампиньон луговой"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%9F%D0%B5%D1%87%D0%B5%D1%80%D0%B8%D1%86%D1%8F_%D0%BB%D1%83%D0%B3%D0%BE%D0%B2%D0%B0"],
+      uk: ["печериця звичайна"],
       pl: ["pieczarka polna"],
       fr: ["rosé-des-prés"],
       it: ["prataiolo"],
@@ -14258,7 +14306,7 @@ export const CATALOG = [
       ro: ['pitarcă'],
       bg: ['обикновена брезовка'],
       ru: ["берёзовик","обабок обыкновенный"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%9F%D1%96%D0%B4%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BE%D0%B2%D0%B8%D0%BA"],
+      uk: ["бабка темна","підберезник звичайний"],
       it: ["porcinello grigio"],
       hu: ["halvány érdestinóru","puha érdestinorú"]
     },
@@ -15781,7 +15829,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Маслёнок_обыкновенный"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%9M%D0%B0%D1%81%D0%BB%D1%8E%D0%BA_%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9%D0%BD%D0%B8%D0%B9"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/%D0%9M%D0%B0%D1%81%D0%BB%D1%8E%D0%BA_%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9%D0%BD%D0%B8%D0%B9"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -15963,7 +16017,7 @@ export const CATALOG = [
       ro: ['râșcov'],
       bg: ['рижика'],
       ru: ["рыжик деликатесный","рыжик обыкновенный","рыжик сосновый"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%A0%D0%B8%D0%B6%D0%B8%D0%BA_%D1%81%D0%BC%D0%B0%D1%87%D0%BD%D0%B8%D0%B9"],
+      uk: ["рижик звичайний"],
       pl: ["rydz"],
       fr: ["catalan","roussillous"],
       it: ["lattario delizioso"],
@@ -17421,7 +17475,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Мухомор_вонючий"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%9C%D1%83%D1%85%D0%BE%D0%BC%D0%BE%D1%80_%D1%81%D0%BC%D0%B5%D1%80%D0%B4%D1%8E%D1%87%D0%B8%D0%B9"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/%D0%9C%D1%83%D1%85%D0%BE%D0%BC%D0%BE%D1%80_%D1%81%D0%BC%D0%B5%D1%80%D0%B4%D1%8E%D1%87%D0%B8%D0%B9"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -18242,7 +18302,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Сатанинский_гриб"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%A7%D0%BE%D1%80%D1%82%D1%96%D0%B2_%D0%B3%D1%80%D0%B8%D0%B1"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/%D0%A7%D0%BE%D1%80%D1%82%D1%96%D0%B2_%D0%B3%D1%80%D0%B8%D0%B1"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -18994,7 +19060,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Паутинник_красивейший"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B2%D1%83%D1%82%D0%B8%D0%BD%D0%BD%D0%B8%D0%BA_%D0%BD%D0%B0%D0%B9%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D1%96%D1%88%D0%B8%D0%B9"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B2%D1%83%D1%82%D0%B8%D0%BD%D0%BD%D0%B8%D0%BA_%D0%BD%D0%B0%D0%B9%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D1%96%D1%88%D0%B8%D0%B9"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -19167,7 +19239,7 @@ export const CATALOG = [
       ro: ['trâmbița piticilor'],
       bg: ['черна тръбенка', 'рогачка'],
       ru: ["лисичка чёрная","трубкогриб рожковидный"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%9B%D1%96%D0%B9%D0%BA%D0%BE%D0%B3%D1%80%D0%B8%D0%B1_%D1%80%D1%96%D0%B6%D0%BA%D0%BE%D0%BF%D0%BE%D0%B4%D1%96%D0%B1%D0%BD%D0%B8%D0%B9"],
+      uk: ["кратерел чорний"],
       fr: ["trompette des morts","corne d'abondance"]
     },
     text: {
@@ -20631,7 +20703,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Печёночница_обыкновенная"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%9F%D0%B5%D1%87%D1%96%D0%BD%D0%BE%D1%87%D0%BD%D0%B8%D1%86%D1%8F_%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9%D0%BD%D0%B0"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/%D0%9F%D0%B5%D1%87%D1%96%D0%BD%D0%BE%D1%87%D0%BD%D0%B8%D1%86%D1%8F_%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9%D0%BD%D0%B0"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -20832,7 +20910,7 @@ export const CATALOG = [
       da: ['punktstokket rørhat'],
       ro: ['hrib cărămiziu'],
       ru: ["боровик зернистоногий"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D1%8F%D0%BA_%D0%B7%D0%B5%D1%80%D0%BD%D0%B8%D1%81%D1%82%D0%BE%D0%BD%D0%BE%D0%B3%D0%B8%D0%B9"],
+      uk: ["боровик зернистоногий"],
       pl: ["borowik ceglastopory"],
       hu: ["sárgahúsú tinóru"]
     },
@@ -21639,7 +21717,7 @@ export const CATALOG = [
       ro: ['burete de mai', 'nicorete'],
       bg: ['гергьовка'],
       ru: ["калоцибе майская","георгиев гриб"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%A0%D1%8F%D0%B4%D0%BE%D0%B2%D0%BA%D0%B0_%D1%82%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%B2%D0%B0"],
+      uk: ["майський гриб","калоцибе травнева"],
       fr: ["tricholome de la Saint-Georges"],
       it: ["fungo di San Giorgio"],
       hu: ["szentgyörgygomba","szentgyörgypereszke"]
@@ -22494,7 +22572,7 @@ export const CATALOG = [
       es: ['bruja'],
       sv: ['patouillards trådskivling', 'tegelröd trådskivling'],
       ru: ["волоконница патуйяра"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%86%D0%BD%D0%BE%D1%86%D0%B8%D0%B1%D0%B5_%D0%9F%D0%B0%D1%82%D1%83%D0%B9%D1%8F%D1%80%D0%B0"],
+      uk: ["плютка патуйяра"],
       pl: ["strzępiak ceglasty"],
       fr: ["inocybe érubescent"],
       it: ["inocibe di Patouillard"]
@@ -23296,7 +23374,7 @@ export const CATALOG = [
       ro: ['burete cu ghimpi'],
       bg: ['овчи нос'],
       ru: ["гиднум выемчатый"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%87%D0%B6%D0%BE%D0%B2%D0%B8%D0%BA_%D0%B6%D0%BE%D0%B2%D1%82%D1%83%D0%B2%D0%B0%D1%82%D0%B8%D0%B9"],
+      uk: ["гіднум виїмчастий"],
       fr: ["hydne sinué"],
       it: ["spinarolo"]
     },
@@ -24151,7 +24229,7 @@ export const CATALOG = [
       ro: ['porcan', 'ciupercă de pâine'],
       bg: ['сърнена рогачка'],
       ru: ["ежовик пёстрый","ежовик черепитчатый"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D0%BA%D0%BE%D0%B4%D0%BE%D0%BD_%D1%87%D0%B5%D1%80%D0%B5%D0%BF%D0%B8%D1%87%D0%B0%D1%81%D1%82%D0%B8%D0%B9"],
+      uk: ["їжовик строкатий"],
       pl: ["sarniak dachówkowaty"],
       fr: ["hydne imbriqué"],
       it: ["idno embricato"]
@@ -25609,7 +25687,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Сыроежка_сине-жёлтая"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%A1%D0%B8%D1%80%D0%BE%D1%97%D0%B6%D0%BA%D0%B0_%D1%81%D0%B8%D0%BD%D1%8C%D0%BE-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/%D0%A1%D0%B8%D1%80%D0%BE%D1%97%D0%B6%D0%BA%D0%B0_%D1%81%D0%B8%D0%BD%D1%8C%D0%BE-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -26437,7 +26521,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Опёнок_летний"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%9E%D0%BF%D0%B5%D0%BD%D1%8C%D0%BE%D0%BA_%D0%BB%D1%96%D1%82%D0%BD%D1%96%D0%B9"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/%D0%9E%D0%BF%D0%B5%D0%BD%D1%8C%D0%BE%D0%BA_%D0%BB%D1%96%D1%82%D0%BD%D1%96%D0%B9"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -27219,7 +27309,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Галерина_окаймлённая"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%93%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D0%BD%D0%B0_%D0%BE%D0%B1%D0%BB%D1%8F%D0%BC%D0%BE%D0%B2%D0%B0%D0%BD%D0%B0"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/%D0%93%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D0%BD%D0%B0_%D0%BE%D0%B1%D0%BB%D1%8F%D0%BC%D0%BE%D0%B2%D0%B0%D0%BD%D0%B0"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -28040,7 +28136,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Спарассис_курчавый"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%80%D0%B0%D1%81%D0%B8%D1%81_%D0%BA%D1%83%D1%87%D0%B5%D1%80%D1%8F%D0%B2%D0%B8%D0%B9"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%80%D0%B0%D1%81%D0%B8%D1%81_%D0%BA%D1%83%D1%87%D0%B5%D1%80%D1%8F%D0%B2%D0%B8%D0%B9"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -28879,7 +28981,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Свинушка_тонкая"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B8%D0%BD%D1%83%D1%85%D0%B0_%D1%82%D0%BE%D0%BD%D0%BA%D0%B0"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B8%D0%BD%D1%83%D1%85%D0%B0_%D1%82%D0%BE%D0%BD%D0%BA%D0%B0"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -29051,7 +29159,7 @@ export const CATALOG = [
       es: ['borracha', 'cabo azul'],
       bg: ['виолетова есенна миризливка'],
       ru: ["леписта голая","синичка"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BF%D1%96%D1%81%D1%82%D0%B0_%D1%84%D1%96%D0%BE%D0%BB%D0%B5%D1%82%D0%BE%D0%B2%D0%B0"],
+      uk: ["рядовка фіолетова"],
       fr: ["lépiste nue","tricholome nu"],
       it: ["lepista nuda"],
       hu: ["lila tölcsérpereszke"]
@@ -29887,7 +29995,7 @@ export const CATALOG = [
     ,
       cs: ["korunovec svícnovitý"],
       ru: ["артомицес крыновидный","клавикорона чашевидная"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%90%D1%80%D1%82%D0%B8%D0%BC%D1%96%D1%86%D0%B5%D1%81_%D0%BA%D1%80%D0%B8%D0%BD%D0%BE%D1%87%D0%BA%D0%BE%D0%BF%D0%BE%D0%B4%D1%96%D0%B1%D0%BD%D0%B8%D0%B9"],
+      uk: ["клавікорона криночкоподібна"],
       fr: ["clavaire pyxidée"],
       hu: ["serleges korallgomba"]
     },
@@ -30689,7 +30797,7 @@ export const CATALOG = [
       es: ['hortensia'],
       bg: ['сенникова праханка'],
       ru: ["полипорус зонтичный","гриб-баран"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%A2%D1%80%D1%83%D1%82%D0%BE%D0%B2%D0%B8%D0%BA_%D0%B7%D0%BE%D0%BD%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9"],
+      uk: ["поліпор зонтичний"],
       fr: ["poule de bois"],
       it: ["grifola a ombrello"],
       hu: ["ágas tapló"]
@@ -32073,7 +32181,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Подосиновик_белоножковый"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/Leccinum_albostipitatum"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/Leccinum_albostipitatum"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -32867,7 +32981,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Ложная_лисичка"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%9B%D0%B8%D1%81%D0%B8%D1%87%D0%BA%D0%B0_%D0%BD%D0%B5%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B6%D0%BD%D1%8F"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/%D0%9B%D0%B8%D1%81%D0%B8%D1%87%D0%BA%D0%B0_%D0%BD%D0%B5%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B6%D0%BD%D1%8F"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -33053,7 +33173,7 @@ export const CATALOG = [
       sv: ['giftig rödskivling'],
       bg: ['отровна сливовка'],
       ru: ["энтолома оловянная","розовопластинник гигантский"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%95%D0%BD%D1%82%D0%BE%D0%BB%D0%BE%D0%BC%D0%B0_%D0%BE%D1%82%D1%80%D1%83%D0%B9%D0%BD%D0%B0"],
+      uk: ["ентолома олов'яна"],
       pl: ["wieruszka zatokowata"]
     },
     text: {
@@ -34493,7 +34613,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Весёлка_обыкновенная"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%92%D0%B5%D1%81%D0%B5%D0%BB%D0%BA%D0%B0_%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9%D0%BD%D0%B0"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/%D0%92%D0%B5%D1%81%D0%B5%D0%BB%D0%BA%D0%B0_%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9%D0%BD%D0%B0"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -35296,7 +35422,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Трутовик_настоящий"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%A2%D1%80%D1%83%D1%82%D0%BE%D0%B2%D0%B8%D0%BA_%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B6%D0%BD%D1%96%D0%B9"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/%D0%A2%D1%80%D1%83%D1%82%D0%BE%D0%B2%D0%B8%D0%BA_%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B6%D0%BD%D1%96%D0%B9"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -35476,7 +35608,7 @@ export const CATALOG = [
       nl: ['Judasoor'],
       ro: ['burete de soc'],
       ru: ["иудино ухо"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%90%D1%83%D1%80%D0%B8%D0%BA%D1%83%D0%BB%D1%8F%D1%80%D1%96%D1%8F_%D0%B2%D1%83%D1%85%D0%BE%D0%BF%D0%BE%D0%B4%D1%96%D0%B1%D0%BD%D0%B8%D0%B9"],
+      uk: ["юдине вухо"],
       pl: ["ucho bzowe","uszak judaszowy"],
       hu: ["júdásfüle gomba","júdásfüle-gomba"]
     },
@@ -36316,7 +36448,7 @@ export const CATALOG = [
       nl: ['Galboleet'],
       ro: ['fierea pădurii'],
       ru: ["горчак"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%93%D1%96%D1%80%D1%87%D0%B0%D0%BA"],
+      uk: ["жовчний гриб"],
       fr: ["bolet amer"],
       it: ["boleto di fiele"]
     },
@@ -37110,7 +37242,7 @@ export const CATALOG = [
     },
     names: { es: ['apagador menor'],
       ru: ["хлорофиллум темно-бурый"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%93%D1%80%D0%B8%D0%B1-%D0%B7%D0%BE%D0%BD%D1%82%D0%B8%D0%BA_%D1%87%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D1%96%D1%8E%D1%87%D0%B8%D0%B9"],
+      uk: ["хлорофілум темно-бурий"],
       pl: ["czubajka czerwieniejąca"],
       hu: ["piruló nagyőzlábgomba"]
     },
@@ -37899,7 +38031,7 @@ export const CATALOG = [
       no: ['giftkremle'],
       ro: ['scuipatul dracului'],
       ru: ["сыроежка едкая","сыроежка рвотная"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%A1%D0%B8%D1%80%D0%BE%D1%97%D0%B6%D0%BA%D0%B0_%D0%B1%D0%BB%D1%8E%D0%B2%D0%BE%D1%82%D0%BD%D0%B0"],
+      uk: ["сироїжка їдка"],
       it: ["russula emetica"]
     },
     text: {
@@ -38696,7 +38828,7 @@ export const CATALOG = [
       ro: ['galbenuș'],
       bg: ['жълтушка'],
       ru: ["зеленушка"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D1%8F%D0%BA"],
+      uk: ["зеленушка","рядовка зелена"],
       fr: ["tricholome des chevaliers","bidaou"],
       it: ["tricoloma equestre"]
     },
@@ -39527,7 +39659,7 @@ export const CATALOG = [
       es: ['bejín perlado'],
       pt: ['bufa-de-lobo'],
       ru: ["дождевик настоящий","дождевик жемчужный"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%94%D0%BE%D1%89%D0%BE%D0%B2%D0%B8%D0%BA_%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B6%D0%BD%D1%96%D0%B9"],
+      uk: ["дощовик шипуватий"],
       it: ["vescia gemmata"]
     },
     text: {
@@ -40340,7 +40472,7 @@ export const CATALOG = [
       ro: ['pitărcuță de plop'],
       bg: ['подосиновик'],
       ru: ["красноголовик","обабок красный"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%9F%D1%96%D0%B4%D0%BE%D1%81%D0%B8%D0%BA%D0%BE%D0%B2%D0%B8%D0%BA_%D1%87%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B8%D0%B9"],
+      uk: ["красноголовець"],
       fr: ["bolet roux"],
       it: ["leccino rosso"],
       hu: ["kozákgomba","vörös érdestinóru"]
@@ -41141,7 +41273,7 @@ export const CATALOG = [
       pt: ['falso-chapéu-da-morte', 'falsa-cicuta-verde'],
       bg: ['лимоненожълта мухоморка'],
       ru: ["мухомор лимонный","мухомор жёлто-зелёный"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%9C%D1%83%D1%85%D0%BE%D0%BC%D0%BE%D1%80_%D0%BF%D0%BE%D0%B3%D0%B0%D0%BD%D0%BA%D0%BE%D0%BF%D0%BE%D0%B4%D1%96%D0%B1%D0%BD%D0%B8%D0%B9"],
+      uk: ["мухомор лимонно-жовтий"],
       it: ["amanita citrina"]
     },
     text: {
@@ -41961,7 +42093,7 @@ export const CATALOG = [
       es: ['atigrado', 'falsa negrilla'],
       ro: ['golubincă otrăvitoare'],
       ru: ["рядовка леопардовая","рядовка ядовитая"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%A0%D1%8F%D0%B4%D0%BE%D0%B2%D0%BA%D0%B0_%D1%82%D0%B8%D0%B3%D1%80%D0%B8%D1%81%D1%82%D0%B0"],
+      uk: ["рядовка отруйна"],
       pl: ["gąska tygrysowata"],
       fr: ["tricholome tigré"],
       it: ["tricoloma tigrato"],
@@ -42771,7 +42903,7 @@ export const CATALOG = [
       es: ['cuesco de lobo gigante'],
       da: ['kæmpe-støvbold'],
       ru: ["дождевик гигантский","лангерманния гигантская"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D1%86%D1%96%D1%8F_%D0%B2%D0%B5%D0%BB%D0%B5%D1%82%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%B0"],
+      uk: ["головач гігантський","порхавка велетенська"],
       pl: ["purchawica olbrzymia"],
       hu: ["óriáspöfeteg"]
     },
@@ -43604,7 +43736,7 @@ export const CATALOG = [
       es: ['seta de brezo', 'platera de otoño'],
       bg: ['есенна миризливка'],
       ru: ["говорушка серая"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%93%D0%BE%D0%B2%D0%BE%D1%80%D1%83%D1%88%D0%BA%D0%B0_%D0%B4%D0%B8%D0%BC%D1%87%D0%B0%D1%81%D1%82%D0%B0"],
+      uk: ["говорушка сіра"],
       pl: ["lejkówka mglista"],
       fr: ["gris de sapin"],
       it: ["nebbino","ordinato"],
@@ -45052,7 +45184,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Траметес_разноцветный"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%A2%D1%80%D1%83%D1%82%D0%BE%D0%B2%D0%B8%D0%BA_%D1%80%D1%96%D0%B7%D0%BD%D0%BE%D0%B1%D0%B0%D1%80%D0%B2%D0%BD%D0%B8%D0%B9"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/%D0%A2%D1%80%D1%83%D1%82%D0%BE%D0%B2%D0%B8%D0%BA_%D1%80%D1%96%D0%B7%D0%BD%D0%BE%D0%B1%D0%B0%D1%80%D0%B2%D0%BD%D0%B8%D0%B9"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -45297,7 +45435,7 @@ export const CATALOG = [
       es: ['boleto pinícola', 'hongo rojo'],
       sv: ['kopparröd stensopp', 'purpurstensopp'],
       ru: ["боровик соснолюбивый","боровик сосновый"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%91%D1%96%D0%BB%D0%B8%D0%B9_%D0%B3%D1%80%D0%B8%D0%B1_%D1%81%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B8%D0%B9"],
+      uk: ["боровик сосновий"],
       fr: ["cèpe acajou"],
       it: ["porcino dei pini"]
     },
@@ -46101,7 +46239,7 @@ export const CATALOG = [
       sv: ['skönfotad sopp', 'skönsopp'],
       ro: ['hrib cu picior frumos'],
       ru: ["болет красивоножковый","боровик несъедобный"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D0%BA_%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D0%BE%D0%BD%D1%96%D0%B6%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9"],
+      uk: ["боровик гарний"],
       pl: ["borowik żółtopory"],
       it: ["boleto dal piede rosso e giallo"],
       hu: ["kesernyés tinóru","piroslábú kesernyéstinóru"]
@@ -47548,7 +47686,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Моховик_зелёный"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%9C%D0%BE%D1%85%D0%BE%D0%B2%D0%B8%D0%BA_%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/%D0%9C%D0%BE%D1%85%D0%BE%D0%B2%D0%B8%D0%BA_%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -48340,7 +48484,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Подосиновик_желто-бурый"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%9F%D1%96%D0%B4%D0%BE%D1%81%D0%B8%D0%BA%D0%BE%D0%B2%D0%B8%D0%BA_%D1%86%D0%B5%D0%B3%D0%BB%D1%8F%D1%81%D1%82%D0%BE-%D0%B6%D0%BE%D0%B2%D1%82%D0%B8%D0%B9"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/%D0%9F%D1%96%D0%B4%D0%BE%D1%81%D0%B8%D0%BA%D0%BE%D0%B2%D0%B8%D0%BA_%D1%86%D0%B5%D0%B3%D0%BB%D1%8F%D1%81%D1%82%D0%BE-%D0%B6%D0%BE%D0%B2%D1%82%D0%B8%D0%B9"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -49150,7 +49300,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Подберёзовик_твердоватый"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%9F%D1%96%D0%B4%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BE%D0%B2%D0%B8%D0%BA_%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D1%83%D0%B2%D0%B0%D1%82%D0%B8%D0%B9"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/%D0%9F%D1%96%D0%B4%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BE%D0%B2%D0%B8%D0%BA_%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D1%83%D0%B2%D0%B0%D1%82%D0%B8%D0%B9"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -49924,7 +50080,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Плевроцибелла_вытянутая"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B5%D0%B2%D1%80%D0%BE%D1%86%D0%B8%D0%B1%D0%B5%D0%BB%D0%B0_%D0%B2%D0%B8%D1%82%D1%8F%D0%B3%D0%BD%D1%83%D1%82%D0%B0"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B5%D0%B2%D1%80%D0%BE%D1%86%D0%B8%D0%B1%D0%B5%D0%BB%D0%B0_%D0%B2%D0%B8%D1%82%D1%8F%D0%B3%D0%BD%D1%83%D1%82%D0%B0"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -50576,7 +50738,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Amanita_bisporigera"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/Amanita_bisporigera"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/Amanita_bisporigera"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -51271,7 +51439,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Лепиота_коричнево-красная"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BF%D1%96%D0%BE%D1%82%D0%B0_%D0%BA%D0%BE%D1%80%D0%B8%D1%87%D0%BD%D0%B5%D0%B2%D0%BE-%D1%87%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D1%83%D0%B2%D0%B0%D1%82%D0%B0"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BF%D1%96%D0%BE%D1%82%D0%B0_%D0%BA%D0%BE%D1%80%D0%B8%D1%87%D0%BD%D0%B5%D0%B2%D0%BE-%D1%87%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D1%83%D0%B2%D0%B0%D1%82%D0%B0"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -51984,7 +52158,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Мухомор_весенний"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%9C%D1%83%D1%85%D0%BE%D0%BC%D0%BE%D1%80_%D0%B2%D0%B5%D1%81%D0%BD%D1%8F%D0%BD%D0%B8%D0%B9"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/%D0%9C%D1%83%D1%85%D0%BE%D0%BC%D0%BE%D1%80_%D0%B2%D0%B5%D1%81%D0%BD%D1%8F%D0%BD%D0%B8%D0%B9"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -52593,7 +52773,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Russula_subnigricans"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/Russula_subnigricans"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/Russula_subnigricans"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -53185,7 +53371,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Trichoderma_cornu-damae"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/Trichoderma_cornu-damae"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/Trichoderma_cornu-damae"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -53788,7 +53980,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Amanita_exitialis"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/Amanita_exitialis"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/Amanita_exitialis"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -54399,7 +54597,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Amanita_fuliginea"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/Amanita_fuliginea"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/Amanita_fuliginea"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -54980,7 +55184,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Amanita_rimosa"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/Amanita_rimosa"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/Amanita_rimosa"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -55624,7 +55834,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Trogia_venenata"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/Trogia_venenata"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/Trogia_venenata"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -56501,7 +56717,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Лаковица_аметистовая"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BA%D0%BE%D0%B2%D0%B8%D1%86%D1%8F_%D0%B0%D0%BC%D0%B5%D1%82%D0%B8%D1%81%D1%82%D0%BE%D0%B2%D0%B0"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BA%D0%BE%D0%B2%D0%B8%D1%86%D1%8F_%D0%B0%D0%BC%D0%B5%D1%82%D0%B8%D1%81%D1%82%D0%BE%D0%B2%D0%B0"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -57298,7 +57520,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Гигроцибе_коническая"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%93%D1%96%D0%B3%D1%80%D0%BE%D1%86%D0%B8%D0%B1%D0%B5_%D0%BA%D0%BE%D0%BD%D1%96%D1%87%D0%BD%D0%B0"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/%D0%93%D1%96%D0%B3%D1%80%D0%BE%D1%86%D0%B8%D0%B1%D0%B5_%D0%BA%D0%BE%D0%BD%D1%96%D1%87%D0%BD%D0%B0"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -57487,7 +57715,7 @@ export const CATALOG = [
       ro: ['turtă'],
       bg: ['челядинка', 'гвоздейка'],
       ru: ["негниючник луговой","луговик"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%9E%D0%BF%D0%B5%D0%BD%D1%8C%D0%BE%D0%BA_%D0%BB%D1%83%D0%B3%D0%BE%D0%B2%D0%B8%D0%B9"],
+      uk: ["негниючник лучний","маразміус лучний"],
       fr: ["faux mousseron","bouton de guêtre"],
       it: ["marasmiotto"],
       hu: ["szegfűgomba"]
@@ -58875,7 +59103,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Кордицепс_военный"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%B4%D0%B8%D1%86%D0%B5%D0%BF%D1%81_%D0%B2%D1%94%D0%B9%D1%81%D1%8C%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%B4%D0%B8%D1%86%D0%B5%D0%BF%D1%81_%D0%B2%D1%94%D0%B9%D1%81%D1%8C%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -59049,7 +59283,7 @@ export const CATALOG = [
       sv: ['igelkottsvamp'],
       bg: ['лъвска грива'],
       ru: ["дедова борода"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%87%D0%B6%D0%BE%D0%B2%D0%B8%D0%BA_%D0%B3%D1%80%D0%B5%D0%B1%D1%96%D0%BD%D1%87%D0%B0%D1%81%D1%82%D0%B8%D0%B9"],
+      uk: ["герицій гребінчастий"],
       fr: ["crinière de lion"],
       it: ["fungo istrice","testa di scimmia"],
       hu: ["süngomba","oroszlánsörény-gomba","szakállas süngomba"]
@@ -59913,7 +60147,7 @@ export const CATALOG = [
       pt: ['cogumelo-da-imortalidade', 'reishi'],
       bg: ['лакирана ганодерма', 'рейши'],
       ru: ["ганодерма лакированная","рейши"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%A2%D1%80%D1%83%D1%82%D0%BE%D0%B2%D0%B8%D0%BA_%D0%BB%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9"],
+      uk: ["ганодерма лакована"],
       pl: ["lakownica lśniąca"],
       fr: ["reishi"],
       hu: ["reishi","lakktapló"]
@@ -61349,7 +61583,13 @@ export const CATALOG = [
           href: "https://ru.wikipedia.org/wiki/Гомфус_булавовидный"
         }
       ],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%93%D0%BE%D0%BC%D1%84_%D0%B1%D1%83%D0%BB%D0%B0%D0%B2%D0%BE%D0%BF%D0%BE%D0%B4%D1%96%D0%B1%D0%BD%D0%B8%D0%B9"],
+      uk: [
+        {
+          group: "text",
+          name: "Вікіпедія",
+          href: "https://uk.wikipedia.org/wiki/%D0%93%D0%BE%D0%BC%D1%84_%D0%B1%D1%83%D0%BB%D0%B0%D0%B2%D0%BE%D0%BF%D0%BE%D0%B4%D1%96%D0%B1%D0%BD%D0%B8%D0%B9"
+        }
+      ],
       pl: [
         {
           group: "text",
@@ -61538,7 +61778,7 @@ export const CATALOG = [
       no: ['grønn vokssopp', 'rød papegøyevokssopp'],
       sv: ['papegojvaxskivling'],
       ru: ["глиофорус попугайский"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%93%D1%96%D0%B3%D1%80%D0%BE%D1%86%D0%B8%D0%B1%D0%B5_%D0%BF%D0%B0%D0%BF%D1%83%D0%B3%D0%BE%D0%B2%D0%B0"],
+      uk: ["гліофор папуговий"],
       pl: ["wilgotnica papuzia"],
       hu: ["papagájgomba"]
     },
@@ -62347,7 +62587,7 @@ export const CATALOG = [
       ro: ['hrib pucios'],
       bg: ['бронзовка'],
       ru: ["боровик бронзовый","боровик темно-каштановый"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%91%D1%96%D0%BB%D0%B8%D0%B9_%D0%B3%D1%80%D0%B8%D0%B1_%D1%82%D0%B5%D0%BC%D0%BD%D0%BE-%D0%BA%D0%B0%D1%88%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D0%B9"],
+      uk: ["боровик бронзовий"],
       fr: ["cèpe noir","tête-de-nègre"],
       it: ["bronzino","moreccio"],
       hu: ["fekete vargánya"]
@@ -63121,7 +63361,7 @@ export const CATALOG = [
       en: ["blue-leg"],
       es: ['cabo azul', 'inverniza'],
       ru: ["синеножка","леписта двухцветная"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%A0%D1%8F%D0%B4%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BB%D1%96%D0%BB%D0%BE%D0%B2%D0%BE%D0%BD%D0%BE%D0%B3%D0%B0"],
+      uk: ["рядовка ліловонога","синьоніжка"],
       fr: ["tricholome sinistre"],
       it: ["lepista personata"],
       hu: ["kékpereszke","pereszke"]
@@ -63909,7 +64149,7 @@ export const CATALOG = [
       sv: ['äkta hussvamp'],
       ro: ['ciupercă de pivniță'],
       ru: ["настоящий домовый гриб"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%B6%D0%BD%D1%96%D0%B9_%D0%B4%D0%BE%D0%BC%D0%BE%D0%B2%D0%B8%D0%B9_%D0%B3%D1%80%D0%B8%D0%B1"],
+      uk: ["справжній домовий гриб"],
       fr: ["mérule des maisons"],
       it: ["fungo piangente"],
       hu: ["házigomba"]
@@ -64697,7 +64937,7 @@ export const CATALOG = [
       ],
       es: ['trufa de los cerdos', 'trufa de meandros'],
       ru: ["белый трюфель","троицкий трюфель","хойромицес жильчатый"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%A2%D1%80%D1%8E%D1%84%D0%B5%D0%BB%D1%8C_%D0%B1%D1%96%D0%BB%D0%B8%D0%B9"],
+      uk: ["хойроміцес жилкуватий"],
       fr: ["fausse truffe à plis tortueux"],
       it: ["tartufo bianco bastardo"],
       hu: ["erezett szarvasgomba","magyar szarvasgomba"]
@@ -65484,7 +65724,7 @@ export const CATALOG = [
       es: ['coral', 'hongo real'],
       bg: ['корал'],
       ru: ["гериций коралловидный"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D0%B8%D1%86%D1%96%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%BB%D0%BE%D0%BF%D0%BE%D0%B4%D1%96%D0%B1%D0%BD%D0%B8%D0%B9"],
+      uk: ["їжовик коралоподібний"],
       pl: ["soplówka jodłowa"],
       it: ["ericio coralloide"],
       hu: ["ágas süngomba"]
@@ -66336,7 +66576,7 @@ export const CATALOG = [
       es: ['lepiota amarilla'],
       sv: ['gul fjällskivling'],
       ru: ["белонавозник жёлтый"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%9B%D0%B5%D0%B9%D0%BA%D0%BE%D0%BA%D0%BE%D0%BF%D1%80%D1%96%D0%BD%D1%83%D1%81_%D0%91%D1%96%D1%80%D0%BD%D0%B1%D0%B0%D1%83%D0%BC%D0%B0"],
+      uk: ["лейкокопрінус бірнбаума","білопечериця бірнбаума"],
       pl: ["czubajnik cytrynowy"],
       fr: ["lépiote de Birnbaum"],
       it: ["lepiota gialla"],
@@ -67082,7 +67322,7 @@ export const CATALOG = [
       no: ['vanlig brødkorg'],
       sv: ['brödkorgsvamp', 'vanlig brödkorgsvamp'],
       ru: ["бокальчик гладкий"],
-      uk: ["https://uk.wikipedia.org/wiki/%D0%9A%D1%80%D1%83%D1%86%D0%B8%D0%B1%D1%83%D0%BB%D1%8E%D0%BC_%D0%B3%D0%BB%D0%B0%D0%B4%D0%B5%D0%BD%D1%8C%D0%BA%D0%B8%D0%B9"],
+      uk: ["горшечник гладенький"],
       hu: ["közönséges madárfészekgomba"]
     },
     text: {
