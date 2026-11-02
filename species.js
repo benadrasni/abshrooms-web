@@ -102,10 +102,10 @@ export const CATALOG = [
       bg: 'обикновена манатарка',
       ru: "белый гриб",
       uk: "білий гриб",
-      pl: "borowik szlachetny",
       it: "porcino",
       hu: "ízletes vargánya",
-      fr: "cèpe de Bordeaux"
+      fr: "cèpe de Bordeaux",
+      pl: "borowik szlachetny"
     },
     names: {
       en: ["cep", "king bolete", "porcini"],
@@ -121,10 +121,10 @@ export const CATALOG = [
       bg: ['манатарка', 'меча гъба', 'самунка'],
       ru: ["боровик","белый"],
       uk: ["боровик","білий гриб звичайний"],
-      pl: ["prawdziwek","borowik jadalny"],
       it: ["porcino comune","ceppatello","brisa"],
       hu: ["ízletes tinóru","jóféle vargánya","úrigomba"],
-      fr: ["cèpe","gros pied"]
+      fr: ["cèpe","gros pied"],
+      pl: ["prawdziwek","borowik jadalny"]
     },
     text: {
       tr: {
@@ -373,17 +373,6 @@ export const CATALOG = [
       uses: "Чудовий їстівний гриб. У сезон його вживають свіжим, а ще частіше сушать і після розмочування додають до супів, страв із пасти та різото. Комерційно не культивується.",
       confusion: "Серед двійників — гірчак жовчний (Tylopilus felleus), який має темну сіточку на світлій ніжці та пори, що рожевіють із віком, а також чортів гриб (Rubroboletus satanas), що відрізняється червоною ніжкою та м'якушем, який синіє на розрізі. Білий гриб темно-каштановий (Boletus aereus), білий гриб сосновий (Boletus pinophilus) та білий гриб сітчастий (Boletus reticulatus) — близькоспоріднені європейські види, виокремлені зі складу Boletus edulis. Молекулярні дослідження включають Boletus betulicola, Boletus persoonii, Boletus quercicola та Boletus venturii до комплексу Boletus edulis."
     },
-    pl: {
-      description: "Duży grzyb ektomikoryzowy. Występuje naturalnie w całej Europie, Ameryce Północnej oraz w części Azji. Wraz z sadzonymi drzewami został zawleczony do Christchurch w Nowej Zelandii, na wzgórza Adelaide Hills w Australii oraz na plantacje sosnowe w Południowej Afryce i Zimbabwe.",
-      cap: "Kapelusz ma zazwyczaj 5–30 cm średnicy, czasami więcej, u młodych osobników jest wypukły, z wiekiem spłaszcza się. Przybiera barwę czerwonobrązową, często z jaśniejszym brzegiem, a podczas wilgotnej pogody staje się lepki. Dojrzały owocnik może ważyć około 1 kg. Okaz znaleziony na wyspie Skye w 1995 roku osiągnął średnicę kapelusza 42 cm.",
-      hymenium: "Rurki mają około 1–2 cm długości. Pory są drobne, około dwóch do trzech na milimetr. Początkowo są białawe i wyglądają jak zatkane, później stają się żółte, a z wiekiem zielonkawożółte do brązowych. Po uciśnięciu nie zmieniają barwy.",
-      stipe: "Trzon ma zazwyczaj 6–25 cm wysokości i 2–7 cm grubości, jest biały lub żółtawy. Za młodu bywa pękaty u podstawy, później staje się bardziej cylindryczny. Drobna, wypukła biała siateczka pokrywa górną część, a niekiedy cały trzon. Miąższ w podstawie trzonu bywa ciemnożółty.",
-      flesh: "Miąższ jest biały, za młodu gruby i jędrny, z wiekiem staje się nieco gąbczasty. Po przekrojeniu lub uszkodzeniu pozostaje biały, z delikatnym różowawym lub winnoczerwonobrązowym odcieniem tuż pod skórką kapelusza.",
-      sporePrint: "Oliwkowobrązowy. Zarodniki są eliptyczne do wrzecionowatych, o wymiarach około 12–17 × 5–7 μm.",
-      habitat: "Owocniki wyrastają latem i jesienią, pojedynczo lub po dwa, trzy. Rośnie w mikoryzie z żywymi drzewami, między innymi sosną, świerkiem, choiną, jodłą, bukiem, dębem i kasztanem jadalnym, w lasach strefy umiarkowanie chłodnej i subtropikalnej.",
-      uses: "Wyborny grzyb jadalny, spożywany w sezonie na świeżo, a jeszcze częściej suszony i po namoczeniu dodawany do zup, dań z makaronem oraz risotto. Nie jest uprawiany komercyjnie.",
-      confusion: "Do gatunków podobnych należy goryczak żółciowy (Tylopilus felleus), który ma ciemną siateczkę na jasnym trzonie i pory różowiejące z wiekiem, a także krwistoborowik szatański (Rubroboletus satanas), który charakteryzuje się czerwonym trzonem i miąższem siniejącym po uszkodzeniu. Borowik ciemnobrązowy (Boletus aereus), borowik sosnowy (Boletus pinophilus) i borowik usiatkowany (Boletus reticulatus) to pokrewne gatunki europejskie wyodrębniane od borowika szlachetnego. Badania molekularne zaliczają taksony takie jak Boletus betulicola, Boletus persoonii, Boletus quercicola oraz Boletus venturii do kompleksu Boletus edulis."
-    },
     it: {
       description: "Un grande fungo ectomicorrizico. Indigeno in tutta Europa, in Nord America e in parti dell'Asia. È stato introdotto insieme ad alberi piantati a Christchurch in Nuova Zelanda, nelle Adelaide Hills in Australia e nelle piantagioni di pini in Sudafrica e Zimbabwe.",
       cap: "Il cappello misura solitamente 5–30 cm di diametro, talvolta di più, convesso da giovane e poi appianato con l'età. È di colore bruno-rossastro, spesso con margine più chiaro, e diventa vischioso con tempo umido. Un carpoforo maturo può pesare circa 1 kg. Un esemplare trovato sull'isola di Skye nel 1995 presentava un cappello di 42 cm di diametro.",
@@ -416,6 +405,17 @@ export const CATALOG = [
       habitat: "Les sporophores apparaissent en été et en automne, solitaires ou par groupes de deux ou trois. Il croît en association avec des arbres vivants, notamment le pin, l'épicéa, la pruche, le sapin, le hêtre, le chêne et le châtaignier, dans les bois tempérés frais et subtropicaux.",
       uses: "C'est un excellent champignon comestible, consommé frais en saison et plus souvent séché puis réhydraté, dans les soupes, les pâtes et le risotto. Il n'est pas produit de manière fiable en culture commerciale.",
       confusion: "Parmi les espèces ressemblantes figurent le bolet de fiel (Tylopilus felleus), qui possède un réseau sombre sur un pied pâle et des pores qui deviennent roses, et le bolet satan (Rubroboletus satanas), qui présente un pied rouge et une chair qui bleuit au froissement. Le cèpe bronzé (Boletus aereus), le cèpe des pins (Boletus pinophilus) et le cèpe d'été (Boletus reticulatus) sont des espèces européennes apparentées maintenues séparées de Boletus edulis. Les études moléculaires placent des taxons tels que Boletus betulicola, Boletus persoonii, Boletus quercicola et Boletus venturii dans le complexe de Boletus edulis."
+    },
+    pl: {
+      description: "Duży grzyb ektomikoryzowy. Występuje naturalnie w całej Europie, Ameryce Północnej oraz w części Azji. Został zawleczony wraz z sadzonymi drzewami do Christchurch w Nowej Zelandii, na wzgórza Adelaide Hills w Australii oraz na plantacje sosnowe w Południowej Afryce i Zimbabwe.",
+      cap: "Kapelusz ma zazwyczaj 5–30 cm średnicy, czasami więcej, u młodych owocników jest wypukły, z wiekiem spłaszcza się. Przybiera barwę czerwonobrązową, często z jaśniejszym brzegiem, a podczas wilgotnej pogody staje się lepki. Dojrzały owocnik może ważyć około 1 kg. Okaz znaleziony na wyspie Skye w 1995 roku miał kapelusz o średnicy 42 cm.",
+      hymenium: "Rurki mają około 1–2 cm długości. Pory są drobne, około dwóch do trzech na milimetr. Początkowo są białawe i sprawiają wrażenie zatkanych, później stają się żółte, a z wiekiem zielonkawożółte do brązowych. Po uciśnięciu nie zmieniają barwy.",
+      stipe: "Trzon ma zazwyczaj 6–25 cm wysokości i 2–7 cm grubości, jest biały lub żółtawy. Za młodu bywa pękaty u podstawy, później staje się bardziej cylindryczny. Drobna, wypukła siateczka pokrywa górną część, a niekiedy cały trzon. Miąższ w podstawie trzonu bywa ciemnożółty.",
+      flesh: "Miąższ jest biały, za młodu gruby i jędrny, z wiekiem staje się nieco gąbczasty. Po przekrojeniu lub uszkodzeniu pozostaje biały, ze słabym różowawym lub winnoczerwonobrązowym odcieniem tuż pod skórką kapelusza.",
+      sporePrint: "Oliwkowobrązowy. Zarodniki są eliptyczne do wrzecionowatych, o wymiarach około 12–17 × 5–7 μm.",
+      habitat: "Owocniki wyrastają latem i jesienią, pojedynczo lub po dwa, trzy. Rośnie w mikoryzie z żywymi drzewami, między innymi sosną, świerkiem, choiną, jodłą, bukiem, dębem i kasztanem jadalnym, w lasach strefy umiarkowanie chłodnej i subtropikalnej.",
+      uses: "Jest wybornym grzybem jadalnym, spożywanym w sezonie na świeżo, a jeszcze częściej suszonym i po namoczeniu dodawanym do zup, dań z makaronem oraz risotto. Nie jest uprawiany na skalę towarową.",
+      confusion: "Do gatunków podobnych należy goryczak żółciowy (Tylopilus felleus), który ma ciemną siateczkę na jasnym trzonie i pory różowiejące z wiekiem, a także krwistoborowik szatański (Rubroboletus satanas), który charakteryzuje się czerwonym trzonem i miąższem siniejącym po uszkodzeniu. Borowik ciemnobrązowy (Boletus aereus), borowik sosnowy (Boletus pinophilus) i borowik usiatkowany (Boletus reticulatus) to pokrewne gatunki europejskie wyodrębniane od borowika szlachetnego. Badania molekularne zaliczają taksony takie jak Boletus betulicola, Boletus persoonii, Boletus quercicola oraz Boletus venturii do kompleksu Boletus edulis."
     }
     },
     sources: {
@@ -744,18 +744,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%91%D1%96%D0%BB%D0%B8%D0%B9_%D0%B3%D1%80%D0%B8%D0%B1"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Borowik_szlachetny"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -795,6 +783,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Borowik_szlachetny"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -905,10 +905,10 @@ export const CATALOG = [
       bg: 'червена мухоморка',
       ru: "мухомор красный",
       uk: "мухомор червоний",
-      pl: "muchomor czerwony",
       it: "ovolo malefico",
       hu: "légyölő galóca",
-      fr: "amanite tue-mouches"
+      fr: "amanite tue-mouches",
+      pl: "muchomor czerwony"
     },
     names: {
       en: ["fly amanita", "red toadstool"],
@@ -1186,18 +1186,6 @@ export const CATALOG = [
       confusion: "Мухомор Цезаря (Amanita caesarea) має помаранчеву шапинку з рубчастим краєм і жовту ніжку. Мухомор сіро-рожевий (Amanita rubescens) може мати темно-помаранчеву шапинку, проте його м'якуш рожевіє й червоніє в разі пошкодження. Сироїжка блювотна (Russula emetica) має яскраво-червону шапинку, але позбавлена кільця та піхви. Багато авторів визнають коричневий мухомор королівський (Amanita regalis) окремим видом.",
       notes: "У минулому використовувався як засіб проти мух."
     },
-    pl: {
-      description: "Grzyb ektomikoryzowy lasów liściastych i iglastych. Pospolity na całej półkuli północnej, w tym w Wielkiej Brytanii, Irlandii, Europie kontynentalnej, Azji, Stanach Zjednoczonych i Kanadzie. Został zawleczony do Australii (w tym na Tasmanię) oraz Nowej Zelandii.",
-      cap: "Kapelusz osiąga 10–20 cm średnicy w stanie dojrzałym, jest jaskrawoczerwony lub rzadziej pomarańczowy. U młodych owocników zaokrąglony, zazwyczaj spłaszcza się, niekiedy stając się lekko wklęsły. Nieregularne białe łatki osłony całkowitej spoczywają na powierzchni kapelusza i mogą zostać zmyte podczas deszczu.",
-      hymenium: "Blaszki są białe, wolne i gęste. W miarę dojrzewania owocnika stają się bladożółtawe.",
-      stipe: "Trzon ma 10–25 cm długości i 1–2 cm grubości, jest biały, ze zwisającym, karbowanym białym pierścieniem. Podstawa jest bulwiasta i zachowuje białe pozostałości pochwy, które pękają na pierścieniowate strefy łusek.",
-      flesh: "Miąższ jest biały, ze złocistożółtą strefą tuż pod skórką kapelusza. Zapach nie wyróżnia się.",
-      sporePrint: "Biały. Zarodniki są owalne, o wymiarach około 9–13 × 6,5–9 μm, niebieszczejące w odczynniku Melzera (nieamyloidalne).",
-      habitat: "Owocniki pojawiają się od sierpnia do listopada. Rośnie w mikoryzie z drzewami liściastymi i iglastymi, zwłaszcza z brzozą, sosną i świerkiem.",
-      uses: "Muchomor czerwony jest grzybem trującym. Zawiera muscymol i kwas ibotenowy; śmiertelne zatrucia są wyjątkowo rzadkie. Obgotowywanie w dużej ilości wody z odlaniem wywaru to jedynie praktyka historyczna i nie czyni go bezpiecznym grzybem jadalnym.",
-      confusion: "Muchomor cesarski (Amanita caesarea) ma pomarańczowy kapelusz o prążkowanym brzegu i żółty trzon; występuje rzadko lub wcale w północnej Europie. Muchomor czerwieniejący (Amanita rubescens) może mieć ciemnopomarańczowy kapelusz, a jego miąższ czerwienieje po uszkodzeniu. Gołąbek bukowy (Russula nobilis) ma jaskrawoczerwony kapelusz, lecz nie posiada pierścienia ani pochwy. Wielu autorów uznaje brunatnego muchomora królewskiego (Amanita regalis) za odrębny gatunek.",
-      notes: "Dawniej bywał używany do trucia much."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi di latifoglie e conifere. Frequente in tutto l'emisfero settentrionale, comprese le isole britanniche, l'Europa continentale, l'Asia, gli Stati Uniti e il Canada. È stato introdotto in Australia (inclusa la Tasmania) e in Nuova Zelanda.",
       cap: "Il cappello misura 10–20 cm di diametro a maturità, di colore rosso brillante o occasionalmente arancione. È tondeggiante o emisferico da giovane e si appiana di solito con l'età, talvolta debolmente depresso al centro. Verruche bianche irregolari, residuo del velo universale, sono adagiate sulla superficie e possono essere lavate via dalla pioggia.",
@@ -1233,6 +1221,18 @@ export const CATALOG = [
       uses: "L'amanite tue-mouches est toxique. Elle contient du muscimole et de l'acide iboténique, et les intoxications mortelles sont extrêmement rares.",
       confusion: "L'oronge (Amanita caesarea) possède un chapeau orange à marge striée et un pied jaune, et ne se rencontre que très rarement, voire jamais, en Europe du Nord. L'amanite rougissante (Amanita rubescens) peut présenter un chapeau orange foncé, et sa chair vire au rouge lorsqu'elle est blessée. La russule émétique des hêtres (Russula nobilis) a un chapeau rouge vif mais ne porte ni anneau ni volve. De nombreux auteurs maintiennent l'amanite royale (Amanita regalis), brune, comme une espèce distincte.",
       notes: "Elle était autrefois utilisée contre les mouches."
+    },
+    pl: {
+      description: "Grzyb ektomikoryzowy lasów liściastych i iglastych. Pospolity na całej półkuli północnej, w tym w Wielkiej Brytanii, Irlandii, Europie kontynentalnej, Azji, Stanach Zjednoczonych i Kanadzie. Został zawleczony do Australii (w tym na Tasmanię) oraz Nowej Zelandii.",
+      cap: "Kapelusz osiąga 10–20 cm średnicy w stanie dojrzałym, jest czerwony lub sporadycznie pomarańczowy. U młodych owocników zaokrąglony, zazwyczaj spłaszcza się, czasami stając się lekko wklęsły. Nieregularne białe łatki osłony całkowitej spoczywają na powierzchni kapelusza i mogą zostać zmyte podczas deszczu.",
+      hymenium: "Blaszki są białe, wolne i gęste. W miarę dojrzewania owocnika stają się bladożółte.",
+      stipe: "Trzon ma 10–25 cm długości i 1–2 cm grubości, jest biały, ze zwisającym, karbowanym białym pierścieniem. Podstawa jest bulwiasta i zachowuje białe pozostałości pochwy, które pękają na pierścieniowate strefy łusek.",
+      flesh: "Miąższ jest biały, ze złocistożółtą warstwą tuż pod skórką kapelusza. Zapach nie wyróżnia się.",
+      sporePrint: "Biały. Zarodniki są owalne, o wymiarach około 9–13 × 6,5–9 μm, niebieszczejące w jodzie (nieamyloidalne).",
+      habitat: "Owocniki pojawiają się od sierpnia do listopada. Rośnie w mikoryzie z drzewami liściastymi i iglastymi, zwłaszcza z brzozą, sosną i świerkiem.",
+      uses: "Muchomor czerwony jest grzybem trującym. Zawiera muscymol i kwas ibotenowy; śmiertelne zatrucia są wyjątkowo rzadkie.",
+      confusion: "Muchomor cesarski (Amanita caesarea) ma pomarańczowy kapelusz o prążkowanym brzegu i żółty trzon; występuje rzadko lub wcale w północnej Europie. Muchomor czerwieniejący (Amanita rubescens) może mieć ciemnopomarańczowy kapelusz, a jego miąższ czerwienieje po uszkodzeniu. Gołąbek bukowy (Russula nobilis) ma jaskrawoczerwony kapelusz, lecz nie ma pierścienia ani pochwy. Wielu autorów uznaje brunatnego muchomora królewskiego (Amanita regalis) za odrębny gatunek.",
+      notes: "Dawniej bywał używany do trucia much."
     }
     },
     sources: {
@@ -1539,18 +1539,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%9C%D1%83%D1%85%D0%BE%D0%BC%D0%BE%D1%80_%D1%87%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Muchomor_czerwony"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -1590,6 +1578,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Muchomor_czerwony"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -1700,10 +1700,10 @@ export const CATALOG = [
       bg: 'пачи крак',
       ru: "лисичка обыкновенная",
       uk: "лисичка справжня",
-      pl: "pieprznik jadalny",
       it: "gallinaccio",
       hu: "sárga rókagomba",
-      fr: "girolle"
+      fr: "girolle",
+      pl: "pieprznik jadalny"
     },
     names: {
       en: ["girolle"],
@@ -1739,10 +1739,10 @@ export const CATALOG = [
       bg: ['обикновен пачи крак'],
       ru: ["лисичка настоящая"],
       uk: ["лисичка звичайна"],
-      pl: ["kurka"],
       it: ["finferlo","galletto","cantarello"],
       hu: ["közönséges rókagomba","nyúlgomba"],
-      fr: ["chanterelle commune","chanterelle"]
+      fr: ["chanterelle commune","chanterelle"],
+      pl: ["kurka"]
     },
     text: {
       tr: {
@@ -2005,18 +2005,6 @@ export const CATALOG = [
       confusion: "Лисичка несправжня (Hygrophoropsis aurantiaca) вирізняється яскравішим помаранчевим відтінком, тонкими густими справжніми пластинками та темнішою основою ніжки. Смертельно отруйний павутинник найкрасивіший (Cortinarius rubellus) має волокнисту червонувато-коричневу шапинку з гострим горбком, справжні пластинки та іржаво-коричневий споровий порошок. Їжовик жовтуватий (Hydnum repandum) знизу несе легко крихкі шипи.",
       notes: "Оцінка 2019 року відносить вид до категорії в найменшій загрозі (Least Concern)."
     },
-    pl: {
-      description: "Grzyb ektomikoryzowy. Rodzimy w Europie od Skandynawii po basen Morza Śródziemnego. W ścisłym ujęciu jest to gatunek wyłącznie europejski; północnoamerykańskie grzyby dawniej opisywane pod tą nazwą należą do innych gatunków.",
-      cap: "Kapelusz osiąga do 10 cm średnicy i ma zazwyczaj kształt lejkowaty, z falistym, nieregularnym brzegiem. Barwa waha się od jasnożółtej do głęboko żółtkowożółtej. Czasami na powierzchni pojawia się delikatny, białawy nalot.",
-      hymenium: "Spodnia strona kapelusza pokryta jest listewkami (fałszywymi blaszkami) zamiast prawdziwych blaszek. Grube, pofałdowane fałdy zbiegają wyraźnie na trzon. W pobliżu trzonu biegną prosto, a ku brzegowi kapelusza stają się rozwidlone i bardziej pofalowane.",
-      stipe: "Trzon jest tej samej barwy co kapelusz lub nieco jaśniejszy, pełny, zwężający się ku podstawie i płynnie przechodzący w kapelusz. Ma 2–8 cm długości i 0,5–1,5 cm grubości. W kępach trzony bywają wygięte, a niekiedy zrośnięte u podstawy.",
-      flesh: "Miąższ jest biały do kremowożółtego, dość mięsisty i zwarty. Zapach jest owocowy, przypominający morele, a smak łagodny, po dłuższym żuciu nieco pieprzny.",
-      sporePrint: "Bladożółty do kremowego. Zarodniki są elipsoidalne i gładkie, o wymiarach około 7,5–10 × 4–6 μm.",
-      habitat: "Owocniki pojawia się od późnej wiosny do jesieni, zazwyczaj od czerwca do października lub listopada. Rośnie na kwaśnych glebach pod drzewami liściastymi i iglastymi, szczególnie z dębem, bukiem, sosną i świerkiem.",
-      uses: "Wyborny grzyb jadalny, wysoko ceniony w kuchni. Jest smażony na maśle, duszony w śmietanie, dodawany do zup, sosów i dań jajecznych oraz marynowany. Rzadko bywa zarobaczony.",
-      confusion: "Lisówka pomarańczowa (Hygrophoropsis aurantiaca) ma cieńszy miąższ, gęste, wielokrotnie rozwidlone blaszki, a nie listewki, ciemniejszy trzon i u niektórych osób powoduje dolegliwości żołądkowe. Śmiertelnie trujący zasłonak rudawy (Cortinarius rubellus) ma rdzawobrązowy kapelusz ze stożkowatym garbkiem, prawdziwe blaszki i rdzawy wysyp zarodników. Kolczak obłączasty (Hydnum repandum) ma kolce pod kapeluszem, lecz bywa podobnie przyrządzany.",
-      notes: "Ocena z 2019 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern)."
-    },
     it: {
       description: "Un fungo ectomicorrizico. Indigeno in Europa dalla Scandinavia al bacino del Mediterraneo. In senso stretto si tratta di una specie europea; i funghi nordamericani un tempo attribuiti a questo nome appartengono ad altre specie distinte.",
       cap: "Il cappello misura fino a 10 cm di diametro ed è solitamente a forma di imbuto, con margine ondulato e irregolare. Il colore varia dal giallo chiaro al giallo tuorlo intenso. Una pruina biancastra e sottile può talvolta ricoprire il cappello.",
@@ -2052,6 +2040,18 @@ export const CATALOG = [
       uses: "La girolle est un excellent comestible. Les sporophores cuits ont un arôme fruité rappelant l'abricot.",
       confusion: "La fausse chanterelle (Hygrophoropsis aurantiaca) est d'un orange plus vif, possède de véritables lames serrées et a une chair de la couleur du chapeau plutôt que blanche. Le pleurote de l'olivier (Omphalotus olearius) et Omphalotus illudens sont toxiques, poussent sur le bois de feuillus et possèdent de véritables lames. La chanterelle améthyste (Cantharellus amethysteus) présente des écailles violettes sur le chapeau et est maintenue comme une espèce distincte.",
       notes: "Cantharellus pallens est une espèce distincte."
+    },
+    pl: {
+      description: "Grzyb ektomikoryzowy. Rodzimy w Europie od Skandynawii po Morze Śródziemne, częsty, lecz występujący lokalnie w Wielkiej Brytanii i Irlandii. W wąskim ujęciu (sensu stricto) jest to gatunek europejski. Północnoamerykańskie grzyby zaliczane dawniej pod tę nazwę należą do innych gatunków.",
+      cap: "Kapelusz osiąga do 10 cm średnicy i ma zazwyczaj kształt lejkowaty, z falistym, nieregularnym brzegiem. Barwa waha się od jasnożółtej do głęboko żółtkowożółtej. Czasami na powierzchni pojawia się delikatny białawy nalot.",
+      hymenium: "Spodnia strona kapelusza pokryta jest listewkami (fałdami) zamiast prawdziwych blaszek. Grube, pofałdowane listewki zbiegają wyraźnie na trzon. W pobliżu trzonu biegną prosto, a ku brzegowi kapelusza stają się rozwidlone i bardziej faliste.",
+      stipe: "Trzon jest tej samej barwy co kapelusz lub nieco jaśniejszy, pełny, zwężający się ku podstawie i płynnie przechodzący w kapelusz. Ma 2–8 cm długości i 0,5–1,5 cm grubości. W kępach trzony bywają wygięte, a niekiedy zrośnięte u podstawy.",
+      flesh: "Miąższ jest biały. Zapach jest słabo wyczuwalny, morelowy. Smak surowego miąższu jest początkowo łagodny, a po chwili staje się pieprzny.",
+      sporePrint: "Bladożółty. Zarodniki są elipsoidalne i gładkie, o wymiarach około 8–11 × 4,5–6 μm.",
+      habitat: "Owocniki pojawiają się od lipca do grudnia w Wielkiej Brytanii i Irlandii, rzadko w czerwcu lub w łagodne zimy, a najobficiej od późnego lata do jesieni. Rośnie na wilgotnych, dobrze zdrenowanych glebach pod bukiem, dębem, sosną i świerkiem, rzadziej pod brzozą, zazwyczaj wśród mchów.",
+      uses: "Jest wybornym grzybem jadalnym, powszechnie zbieranym i wysoko cenionym w Europie. Rzadko bywa zarobaczony. Smak jest łagodny z pieprzną nutą. Jest smażony, duszony i dodawany do sosów; po wysuszeniu twardnieje.",
+      confusion: "Lisówka pomarańczowa (Hygrophoropsis aurantiaca) ma cieńszy miąższ, gęste, wielokrotnie rozwidlone prawdziwe blaszki, ciemniejszy trzon i u niektórych osób powoduje dolegliwości żołądkowe. Zasłonak rudawy (Cortinarius rubellus) jest śmiertelnie trujący, ma rdzawobrązowy kapelusz ze stożkowatym garbkiem, prawdziwe blaszki i rdzawy wysyp zarodników. Kolczak obłączasty (Hydnum repandum) ma kolce pod kapeluszem, lecz bywa przyrządzany w podobny sposób.",
+      notes: "Kategoria LC (Least Concern) według oceny z 2019 roku."
     }
     },
     sources: {
@@ -2383,18 +2383,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%9B%D0%B8%D1%81%D0%B8%D1%87%D0%BA%D0%B0_%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B6%D0%BD%D1%8F"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Pieprznik_jadalny"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -2434,6 +2422,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Pieprznik_jadalny"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -2554,10 +2554,10 @@ export const CATALOG = [
       bg: 'дъбова манатарка',
       ru: "белый гриб сетчатый",
       uk: "білий гриб сітчастий",
-      pl: "borowik usiatkowany",
       it: "porcino estivo",
       hu: "nyári vargánya",
-      fr: "cèpe d'été"
+      fr: "cèpe d'été",
+      pl: "borowik usiatkowany"
     },
     names: {
       en: ["summer cep"],
@@ -2571,10 +2571,10 @@ export const CATALOG = [
       bg: ['мрежеста манатарка', 'лятна манатарка'],
       ru: ["боровик сетчатый","белый гриб дубовый"],
       uk: ["боровик сітчастий"],
-      pl: ["borowik siatkowaty"],
       it: ["estatino"],
       hu: ["nyári tinóru"],
-      fr: ["cèpe réticulé"]
+      fr: ["cèpe réticulé"],
+      pl: ["borowik siatkowaty"]
     },
     text: {
       tr: {
@@ -2838,18 +2838,6 @@ export const CATALOG = [
       confusion: "Білий гриб звичайний (Boletus edulis) має світлішу ніжку з білою сіточкою лише у верхній частині, темнішу шапинку з білуватим краєм і плодоносить переважно пізніше. Білий гриб темно-каштановий (Boletus aereus) має темно-буру шапинку й набагато твердіший м'якуш. Гірчак жовчний (Tylopilus felleus) вирізняється темною опуклою сіточкою на ніжці, рожевуватими порами та гірким смаком.",
       notes: "На сході ареал доходить до Приморського краю. Оцінка 2019 року визначає статус виду як у найменшій загрозі (Least Concern) зі стабільною популяцією."
     },
-    pl: {
-      description: "Grzyb ektomikoryzowy. Pospolity borowik lasów śródziemnomorskich, umiarkowanych i hemiborealnych w całej Europie. Znaleziska z Ameryki Północnej i Japonii łączone dawniej z tą nazwą należą do innych gatunków, a południowoafrykańskie doniesienie spod nasadzonej sosny uznaje się za prawdopodobnie zawleczone.",
-      cap: "Kapelusz ma zazwyczaj 10–20 cm średnicy, za młodu jest półkolisty, później wypukły. Skórka jest jasnobrązowa, ochrowa do szarobrązowej, aksamitna, a podczas suchej pogody często charakterystycznie spękana na drobne poletka.",
-      hymenium: "Rurki i drobne pory są za młodu białe, z wiekiem stają się zielonkawożółte. Nie zmieniają barwy w widoczny sposób po przekrojeniu lub uciśnięciu.",
-      stipe: "Trzon ma 8–18 cm długości i 2,5–6 cm grubości, częściej beczułkowaty, rzadziej maczugowaty. Wyraźna, wypukła siateczka o jaśniejszym odcieniu pokrywa jasnobrązowe tło. Siateczka schodzi zazwyczaj głęboko w dół trzonu, czasem aż do samej podstawy.",
-      flesh: "Miąższ jest biały. Po przekrojeniu pozostaje biały, a z wiekiem lekko żółknie. Jest mniej jędrny niż miąższ borowika szlachetnego czy ciemnobrązowego. Zapach jest ziemisty, a smak przyjemny i łagodny.",
-      sporePrint: "Oliwkowobrązowy. Zarodniki są wrzecionowate i gładkie, o wymiarach około 13–15 × 4,5–5,5 μm.",
-      habitat: "Owocniki pojawiają się od maja do października. Rośnie na glebie pod drzewami liściastymi, zwłaszcza dębami i bukami, a także pod grabami, lipami, rzadziej pod iglakami. Owocuje nieco wcześniej niż borowik szlachetny.",
-      uses: "Wyborny grzyb jadalny, równie ceniony jak borowik szlachetny (Boletus edulis) i wykorzystywany w takich samych przepisach kulinarnych. Konsystencja miąższu jest nieco mniej zwięzła.",
-      confusion: "Borowik szlachetny (Boletus edulis) ma jaśniejszy trzon z białą siateczką ograniczoną głównie do górnej części, brązowy kapelusz z białawym brzegiem i owocuje później. Borowik ciemnobrązowy (Boletus aereus) ma ciemniejszy kapelusz i znacznie twardszy miąższ. Goryczak żółciowy (Tylopilus felleus) ma ciemną siateczkę na jaśniejszym trzonie, różowawy odcień porów i bardzo gorzki smak. Trujące czerwone borowiki, takie jak krwistoborowik szatański (Rubroboletus satanas), mają czerwone pory lub trzon i natychmiast sinieją po przekrojeniu.",
-      notes: "Na wschód notowany aż po Kraj Nadmorski. Ocena z 2019 roku uznaje go za gatunek najmniejszej troski (Least Concern) o stabilnej populacji."
-    },
     it: {
       description: "Un fungo ectomicorrizico. È un comune porcino dei boschi mediterranei, temperati e collinari, associato in particolare alle querce e ad altre latifoglie.",
       cap: "Il cappello misura tipicamente 10–20 cm di diametro (con una media di 7–12 cm nei carpofori più modesti), di colore bruno-ocraceo o nocciola chiaro. La cuticola è opaca, finemente vellutata e asciutta, e col tempo secco tende a screpolarsi formando un reticolo di fessure.",
@@ -2885,6 +2873,18 @@ export const CATALOG = [
       uses: "C'est un excellent comestible, aussi bon que Boletus edulis et utilisé dans les mêmes recettes. La texture et la saveur sont presque identiques, et la chair est quelque peu moins ferme.",
       confusion: "Le cèpe de Bordeaux (Boletus edulis) a un pied plus pâle, un réseau blanc et un chapeau brun à marge blanchâtre, et il fructifie plus tard. Le cèpe bronzé (Boletus aereus) présente un chapeau plus sombre et une chair beaucoup plus ferme. Le bolet de fiel (Tylopilus felleus) possède un réseau plus sombre sur un pied plus pâle, une teinte rosâtre sur les pores et une saveur très amère. Les bolets rouges toxiques, comme le bolet satan (Rubroboletus satanas), ont du rouge dans la chair ou sur les pores, ou bien bleuissent immédiatement à la coupe.",
       notes: "Il est signalé vers l'est jusqu'au kraï du Primorié. Une évaluation de 2019 le classe comme préoccupation mineure (Least Concern), avec une population stable."
+    },
+    pl: {
+      description: "Grzyb ektomikoryzowy. Pospolity borowik lasów śródziemnomorskich, umiarkowanych i hemiborealnych w całej Europie. Jest rzadki w Wielkiej Brytanii i Irlandii, natomiast częstszy w Europie Południowej. Doniesienia z Ameryki Północnej i Japonii zaliczane dawniej pod tę nazwę należą do innych gatunków, a stanowisko z południowej Afryki pod sadzonymi sosnami uznaje się za prawdopodobnie zawleczone.",
+      cap: "Kapelusz ma zazwyczaj 10–20 cm średnicy (u mniejszych okazów średnio 7–12 cm), jest jasnożółtobrązowy do średniobrązowego. Początkowo bywa aksamitny, podczas suchej pogody staje się pomarszczony lub drobno spękany. Brzeg nie jest wyraźnie jaśniejszy od środka.",
+      hymenium: "Rurki i drobne pory są za młodu białe, z wiekiem stają się zielonkawożółte. Nie zmieniają barwy w widoczny sposób po przekrojeniu lub uciśnięciu.",
+      stipe: "Trzon ma 8–18 cm długości i 2,5–6 cm grubości, częściej beczułkowaty, a tylko sporadycznie maczugowaty. Jaśniejsza, wypukła siateczka odcina się na jasnym do średniobrązowego tle; jest najciemniejsza ku wierzchołkowi i podstawie, a nieco jaśniejsza i bardziej różowawa w pobliżu pękatego środka. Siateczka schodzi zazwyczaj głęboko w dół trzonu, czasem aż do samej podstawy.",
+      flesh: "Miąższ jest biały. Po przekrojeniu pozostaje biały, z wiekiem lekko żółknie. Jest mniej jędrny niż miąższ borowika szlachetnego (Boletus edulis) czy borowika ciemnobrązowego (Boletus aereus). Zapach jest ziemisty. Smak jest przyjemny i łagodny, choć nie tak mocny jak u borowika szlachetnego.",
+      sporePrint: "Oliwkowobrązowy (oliwkowotabaczkowy). Zarodniki są prawie wrzecionowate i gładkie, o wymiarach około 13–15 × 4,5–5,5 μm.",
+      habitat: "Owocniki pojawiają się od czerwca do października w Wielkiej Brytanii i Irlandii, a w niektórych rejonach Europy Południowej aż do lutego. Rośnie na glebie pod drzewami liściastymi, zwłaszcza pod bukiem i dębami, a także pod innymi drzewami liściastymi i sporadycznie pod świerkiem. Owocuje nieco wcześniej niż borowik szlachetny (Boletus edulis).",
+      uses: "Jest wybornym grzybem jadalnym, równie cenionym jak borowik szlachetny (Boletus edulis) i wykorzystywanym w tych samych przepisach kulinarnych. Konsystencja i smak są niemal identyczne, a miąższ bywa nieco mniej zwięzły.",
+      confusion: "Borowik szlachetny (Boletus edulis) ma jaśniejszy trzon z białą siateczką, brązowy kapelusz z białawym brzegiem i owocuje później. Borowik ciemnobrązowy (Boletus aereus) ma ciemniejszy kapelusz i znacznie twardszy miąższ. Goryczak żółciowy (Tylopilus felleus) ma ciemniejszą siateczkę na jaśniejszym trzonie, różowawy odcień porów i bardzo gorzki smak. Trujące borowiki o czerwonym zabarwieniu, takie jak krwistoborowik szatański (Rubroboletus satanas), mają czerwony miąższ lub pory albo natychmiast sinieją po przekrojeniu.",
+      notes: "Notowany na wschód aż po Kraj Nadmorski. Ocena z 2019 roku klasyfikuje go w kategorii LC (Least Concern) o stabilnej populacji."
     }
     },
     sources: {
@@ -3196,18 +3196,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%91%D1%96%D0%BB%D0%B8%D0%B9_%D0%B3%D1%80%D0%B8%D0%B1_%D1%81%D1%96%D1%82%D1%87%D0%B0%D1%81%D1%82%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Borowik_usiatkowany"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -3247,6 +3235,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Borowik_usiatkowany"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -3359,10 +3359,10 @@ export const CATALOG = [
       bg: 'сърнела',
       ru: "гриб-зонтик пёстрый",
       uk: "гриб-зонтик великий",
-      pl: "czubajka kania",
       it: "mazza di tamburo",
       hu: "nagy őzlábgomba",
-      fr: "lépiote élevée"
+      fr: "lépiote élevée",
+      pl: "czubajka kania"
     },
     names: {
       en: ["parasol mushroom"],
@@ -3411,10 +3411,10 @@ export const CATALOG = [
       bg: ['вретенка', 'кукумарка', 'самодивска гъба'],
       ru: ["зонтик пёстрый","гриб-зонтик большой"],
       uk: ["макролепіота висока"],
-      pl: ["kania","sowa"],
       it: ["ombrellone","puppola"],
       hu: ["gyakori nagyőzlábgomba"],
-      fr: ["coulemelle"]
+      fr: ["coulemelle"],
+      pl: ["kania","sowa"]
     },
     text: {
       tr: {
@@ -3676,18 +3676,6 @@ export const CATALOG = [
       confusion: "Гриб-зонтик червоніючий (Chlorophyllum rhacodes) менший за розміром, має гладеньку ніжку без змієподібного малюнка, а його м'якуш на зрізі помітно червоніє. Смертельно отруйні дрібні лепіоти (Lepiota) мають значно менші розміри (до 5–8 см у діаметрі шапинки), тому дрібні нерозвинені екземпляри збирати не слід.",
       notes: "Виділяють типову форму та різновиди. Широко розповсюджений у помірній зоні."
     },
-    pl: {
-      description: "Grzyb saprotroficzny. Pospolity w lasach i na terenach otwartych w niemal całej Europie kontynentalnej oraz w umiarkowanej strefie Eurazji. Doniesienia z Ameryki Północnej wymagają potwierdzenia.",
-      cap: "Kapelusz ma 10–25 cm średnicy, czasami osiąga 30 cm. Początkowo jest kulisty i jasnobrązowy, z ciemniejszym wierzchołkiem, który pęka na koncentryczne strefy łusek w miarę rozrastania się kapelusza. U dojrzałych owocników staje się rozpostarty z wyraźnym, ciemnym garbkiem.",
-      hymenium: "Blaszki są szerokie, gęste i wolne, oddalone od trzonu. Mają barwę białą lub bladoochrową do kremowej.",
-      stipe: "Trzon osiąga do 30 cm wysokości i 1–1,5 cm grubości, u bulwiastej podstawy ma do 2,5 cm szerokości, ku górze lekko zwęża się. Bulwa nie posiada pochwy. Powierzchnia jest biaława lub kremowa, pokryta drobnymi brązowymi łuskami tworzącymi poprzeczny, zygzakowaty wzór przypominający skórę węża. Gruby, podwójny pierścień z wiekiem staje się ruchomy i przesuwa się po trzonie. Wewnątrz trzon jest łykowaty, włóknisty i pusty.",
-      flesh: "Miąższ jest biały i po przekrojeniu nie zmienia barwy. W kapeluszu jest cienki, miękki i gąbczasty, w trzonie zaś twardy i włóknisty. Zapach jest przyjemnie orzechowy, a smak słodkawy i łagodny.",
-      sporePrint: "Biały lub bardzo jasnokremowy. Zarodniki są elipsoidalne do jajowatych, gładkie, grubościenne, o wymiarach około 12–18 × 8–12 μm, z porą rostkową (dekstrynoidalne).",
-      habitat: "Owocniki pojawiają się od czerwca do listopada. Rośnie na polanach leśnych, brzegach lasów, zrębach, przydrożach i pastwiskach, pojedynczo lub w grupach i czarcich kołach.",
-      uses: "Wyborny grzyb jadalny; owocniki wymagają obróbki cieplnej. Wykorzystuje się głównie kapelusze, tradycyjnie panierowane i smażone w całości jak kotlety schabowe. Twarde trzony zazwyczaj się odrzuca lub suszy i mieli na przyprawę.",
-      confusion: "Czubajnik czerwieniejący (Chlorophyllum rhacodes) jest mniejszy, ma większe, odstające łuski, a jego trzon nie ma wężykowatego wzoru; jego miąższ czerwienieje po uszkodzeniu. Czubajnik zielonawy (Chlorophyllum molybdites) ma zielonkawe blaszki i zielony wysyp zarodników. Małe gatunki z rodzaju czubajeczka (Lepiota) są śmiertelnie trujące, dlatego nie należy zbierać małych owocników o średnicy poniżej 10 cm. Młode owocniki muchomorów w stadium jaja stanowią kolejne zagrożenie; kanię zbiera się po rozwinięciu kapelusza.",
-      notes: "Wyróżnia się var. procera oraz formę rosnącą pod drzewami iglastymi. Gatunek szeroko rozprzestrzeniony w umiarkowanej strefie Eurazji."
-    },
     it: {
       description: "Un fungo saprotrofo di grandi dimensioni. È ampiamente diffuso nelle regioni temperate e calde d'Europa, crescendo nelle radure boschive, nei pascoli e ai margini dei sentieri.",
       cap: "Il cappello misura 10–25 cm di diametro, raggiungendo occasionalmente i 30 cm. Dapprima sferico o ovoide, si espande poi a campana e infine piano, mantenendo un umbone centrale bruno e liscio. La superficie si lacera in scaglie concentriche brune e bruno-grigiastre su fondo crema chiaro.",
@@ -3723,6 +3711,18 @@ export const CATALOG = [
       uses: "C'est un excellent comestible, et les sporophores doivent être cuits. Les chapeaux constituent la partie consommée, souvent poêlés entiers. Les pieds sont coriaces, bien qu'ils puissent être séchés et réduits en poudre pour aromatiser les soupes. Le champignon se consomme poêlé, séché ou mijoté.",
       confusion: "La lépiote déguenillée (Chlorophyllum rhacodes) est plus petite, avec de plus grandes écailles retroussées et un pied dépourvu de motif en peau de serpent. Sa chair rougit à la coupe, et elle s'avère toxique pour de nombreuses personnes. La lépiote de Morgan (Chlorophyllum molybdites) a des lames verdâtres et une sporée verte, et son pied n'a pas de motif en peau de serpent. De petites espèces de Lepiota peuvent être gravement toxiques, de sorte qu'un chapeau entièrement étalé de moins de 10 cm doit être laissé sur place. Les jeunes boutons blancs d'amanites, notamment l'amanite panthère (Amanita pantherina), représentent un autre danger ; la lépiote élevée possède des écailles plus sombres sur un chapeau plus clair et ne doit être récoltée qu'une fois le chapeau bien ouvert au-delà du stade de bouton.",
       notes: "La var. procera et la var. pseudo-olivascens sont reconnues. La seconde développe des taches olive sur le chapeau et croît sous les conifères. L'espèce est largement répandue dans l'Eurasie tempérée, et les signalements en Amérique du Nord ont encore besoin de confirmation."
+    },
+    pl: {
+      description: "Grzyb saprotroficzny. Częsty w południowej Wielkiej Brytanii i Irlandii, mniej pospolity w północnej Anglii i Szkocji, z wyjątkiem osłoniętych wybrzeży. Występuje także w większości krajów Europy kontynentalnej oraz w całej umiarkowanej Eurazji. Doniesienia z Ameryki Północnej wciąż wymagają potwierdzenia.",
+      cap: "Kapelusz ma 10–25 cm średnicy, czasami osiąga 30 cm. Początkowo jest kulisty, jasnobrązowy do płowego, z ciemniejszym brązowym wierzchołkiem, który pęka na koncentryczne kręgi łusek w miarę pękania skórki, i rozpościera się aż do płaskiego z wyraźnym, ciemnym garbkiem.",
+      hymenium: "Blaszki są szerokie, gęste i wolne, kończące się w pewnej odległości od trzonu. Mają barwę białą lub bladoochrową do kremowej.",
+      stipe: "Trzon ma do 30 cm wysokości i 1–1,5 cm grubości, u bulwiastej podstawy osiąga 2,5 cm szerokości i zwęża się lekko ku wierzchołkowi. Na bulwie brak pochwy. Powierzchnia jest biała lub kremowa, pokryta drobnymi brązowymi łuskami tworzącymi poprzeczny zygzakowaty wzór przypominający skórę węża. Gruby, podwójny pierścień położony na wysokości około dwóch trzecich trzonu z wiekiem staje się ruchomy i przesuwa się po trzonie. Wewnątrz trzon jest łykowaty, włóknisty i pusty.",
+      flesh: "Miąższ jest biały i po przekrojeniu nie zmienia barwy w istotny sposób. W kapeluszu jest cienki, miękki i lekko gąbczasty. W trzonie jest twardy i włóknisty. Zapach jest przyjemnie orzechowy lub niewyróżniający się, a smak słodkawy i orzechowy.",
+      sporePrint: "Biały lub bardzo bladoochrowy do kremowego. Zarodniki są elipsoidalne do jajowatych, gładkie i grubościenne, o wymiarach około 12–18 × 8–12 μm, z małą porą rostkową; są dekstrynoidalne.",
+      habitat: "Owocniki pojawiają się od czerwca do listopada w Wielkiej Brytanii i Irlandii, a w Europie Południowej później. Rośnie na polanach leśnych, w widnych lasach, na poboczach dróg i trawiastych obrzeżach lasów, pojedynczo lub w rozproszonych grupach i czarcich kołach, a także na trwałych pastwiskach, wśród paproci i na utrwalonych wydmach piaszczystych, rzadziej na siedliskach ruderalnych, takich jak ogrody i działki.",
+      uses: "Jest wybornym grzybem jadalnym, a owocniki wymagają obróbki cieplnej. Wykorzystuje się kapelusze, między innymi smażone w panierce jak kotlety. Trzony są twarde, choć bywają siekane do zup lub suszone i mielone. Grzyb jest smażony, suszony lub duszony.",
+      confusion: "Czubajnik czerwieniejący (Chlorophyllum rhacodes) jest mniejszy, ma większe odstające łuski, a na trzonie brak zygzakowatego wzoru; jego miąższ czerwienieje po przekrojeniu i u wielu osób wywołuje zatrucia. Czubajnik zielonawy (Chlorophyllum molybdites) ma zielonkawe blaszki i zielony wysyp zarodników, a na trzonie brak wzoru wężykowego. Małe gatunki z rodzaju czubajeczka (Lepiota) mogą być śmiertelnie trujące, dlatego lepiej pozostawić w pełni rozwinięte kapelusze o średnicy poniżej 10 cm. Białe, nierozwinięte owocniki muchomorów (Amanita), w tym muchomora plamistego (Amanita pantherina), stanowią kolejne zagrożenie; czubajka kania ma ciemniejsze łuski na jaśniejszym kapeluszu i powinna być zbierana dopiero wtedy, gdy kapelusz otworzy się poza stadium kuliste.",
+      notes: "Wyróżnia się var. procera oraz var. pseudo-olivascens. Ta druga rozwija oliwkowe plamy na kapeluszu i rośnie pod drzewami iglastymi. Gatunek jest szeroko rozprzestrzeniony w umiarkowanej Eurazji, a doniesienia z Ameryki Północnej wciąż wymagają potwierdzenia."
     }
     },
     sources: {
@@ -4034,18 +4034,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%93%D1%80%D0%B8%D0%B1-%D0%B7%D0%BE%D0%BD%D1%82%D0%B8%D0%BA_%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Czubajka_kania"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -4085,6 +4073,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Czubajka_kania"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -4201,10 +4201,10 @@ export const CATALOG = [
       bg: 'зелена мухоморка',
       ru: "бледная поганка",
       uk: "бліда поганка",
-      pl: "muchomor zielonawy",
       it: "tignosa verdognola",
       hu: "gyilkos galóca",
-      fr: "amanite phalloïde"
+      fr: "amanite phalloïde",
+      pl: "muchomor zielonawy"
     },
     names: {
       en: ["deathcap", "death cup", "deadly amanita"],
@@ -4225,9 +4225,9 @@ export const CATALOG = [
       bg: ['пакостница'],
       ru: ["мухомор зелёный"],
       uk: ["мухомор зелений"],
-      pl: ["muchomor sromotnikowy"],
       it: ["amanita falloide"],
-      fr: ["oronge verte"]
+      fr: ["oronge verte"],
+      pl: ["muchomor sromotnikowy"]
     },
     text: {
       tr: {
@@ -4492,18 +4492,6 @@ export const CATALOG = [
       confusion: "Мухомор поганкоподібний (Amanita citrina) має прирослу піхву з жолобком, пластівці на шапинці та запах сирої картоплі. Сироїжка зелена (Russula aeruginea) та сироїжка луската (Russula virescens) позбавлені кільця і вольви та мають ламкий м'якуш. Печериці (Agaricus) мають рожеві або коричневі пластинки та не мають вольви.",
       notes: "Цілком білі екземпляри являють собою рідкісну колірну форму."
     },
-    pl: {
-      description: "Grzyb ektomikoryzowy lasów liściastych, występujący zwłaszcza pod dębami. Rodzimy w dużej części Europy, zawleczony również do Ameryki Północnej, Australii i Afryki.",
-      cap: "Kapelusz ma 5–15 cm średnicy. Początkowo jest jajowaty i prawie biały, później staje się żółtawy, oliwkowozielony do brązowooliwkowego, zwykle ciemniejszy na środku, z delikatnymi promienistymi włókienkami. Zazwyczaj jest gładki, bez łatek osłony.",
-      hymenium: "Blaszki są wolne, szerokie i gęste. Początkowo są czysto białe, z wiekiem stają się kremowe, czasem z lekkim zielonkawym odcieniem.",
-      stipe: "Trzon ma 7–15 cm długości, jest białawy, z delikatnym, jaśniejszym zygzakowatym wzorem. Delikatny, zwisający biały pierścień zwykle pozostaje na trzonie. Podstawa trzonu jest bulwiasta i tkwi w wyraźnej, dużej, workowatej, białej pochwie.",
-      flesh: "Miąższ jest biały i po przekrojeniu nie zmienia barwy. Zapach za młodu jest niewyraźny, u starych owocników staje się nieprzyjemny, słodkawy i mdły.",
-      sporePrint: "Biały. Zarodniki są gładkie, elipsoidalne, o wymiarach około 7–12 × 6–9 μm, amyloidalne (błękitnieją w odczynniku Melzera).",
-      habitat: "Owocniki pojawiają się latem i jesienią, od lipca do listopada. Rośnie w lasach liściastych i mieszanych, szczególnie pod dębami, bukami, kasztanami jadalnymi i grabami, rzadziej pod iglakami.",
-      uses: "Śmiertelnie trujący. Zawiera amatoksyny i fallotoksyny, których nie niszczy ani gotowanie, ani suszenie, ani mrożenie. Odpowiada za większość śmiertelnych zatruć grzybami na świecie. Toksyny uszkadzają wątrobę i nerki, a objawy pojawiają się po długim okresie utajenia (6–24 godzin).",
-      confusion: "Muchomor cytrynowy (Amanita citrina) ma zwykle brązowawe łatki na kapeluszu, bulwę trzonu otoczoną wyraźną rynienką zamiast luźnej pochwy i silny zapach surowych ziemniaków. Muchomor twardawy (Amanita excelsa) ma łatki na kapeluszu i prążkowany pierścień. Gołąbek zielonawy (Russula virescens) oraz gołąbek zielonawofioletowy (Russula cyanoxantha) mają kruchy miąższ i nie posiadają ani pierścienia, ani pochwy. Pomyłka z młodymi pieczarkami (Agaricus) bywa tragiczna; pieczarki mają blaszki różowiejące, a potem czekoladowobrązowe.",
-      notes: "Formy całkowicie białe bywają opisywane jako odmiany barwne."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi di latifoglie, associato soprattutto alla quercia, al faggio e al castagno. È diffuso in tutta Europa e introdotto in Nord America, Sud Africa e Oceania.",
       cap: "Il cappello misura 5–15 cm di diametro. Inizialmente emisferico o campanulato, si appiana con la maturità. Il colore è tipicamente verde oliva, giallo-verdastro o bruno-verde, spesso con fibrille radiali scure innate, talvolta quasi bianco. La superficie è liscia e viscosa a tempo umido.",
@@ -4539,6 +4527,18 @@ export const CATALOG = [
       uses: "L'amanite phalloïde est mortellement toxique et responsable de la majorité des empoisonnements mortels par champignons. Elle contient des amatoxines et des phallotoxines qui résistent à la cuisson, au séchage et à la congélation. Les premiers symptômes apparaissent souvent entre 6 et 24 heures après la consommation.",
       confusion: "Plusieurs espèces comestibles d'Agaricus ont des lames qui deviennent roses puis brunes, et sont dépourvues de volve. L'amanite citrine (Amanita citrina) a une odeur marquée de pomme de terre crue et une volve nettement marginée entourant la base du pied plutôt qu'un sac libre. L'amanite printanière (Amanita verna) et l'amanite vireuse (Amanita virosa) sont des amanites blanches mortellement toxiques possédant un anneau et une volve en sac. Des formes pâles ou décolorées d'Amanita phalloides peuvent être prises pour de jeunes agarics ou d'autres champignons blancs. La russule verdoyante (Russula virescens) présente un chapeau vert craquelé, mais ne possède ni anneau ni volve et a une chair cassante comme de la craie.",
       notes: "Les sporophores entièrement blancs constituent une simple forme chromatique."
+    },
+    pl: {
+      description: "Grzyb ektomikoryzowy lasów liściastych, zwłaszcza z dębem. Rodzimy na znacznej części obszaru Europy, od Irlandii i południowej Skandynawii przez basen Morza Śródziemnego po Maroko i Algierię, ze stanowiskami w północnym Iranie. Zawleczony do Ameryki Północnej, Australii, Południowej Afryki i części Ameryki Południowej.",
+      cap: "Kapelusz ma 5–15 cm średnicy. Początkowo jest jajowaty i prawie biały, później staje się żółty, brązowooliwkowy lub oliwkowy, zazwyczaj ciemniejszy w środku, a z wiekiem spłaszcza się. Brzeg nie jest prążkowany. Szczątki osłony szybko znikają, choć podczas suchej pogody może pozostać duża kremowa łatka. Występuje także forma całkowicie biała.",
+      hymenium: "Blaszki są wolne, szerokie i gęste. Początkowo są czysto białe, z wiekiem stają się kremowe, czasami z lekkim różowawym odcieniem.",
+      stipe: "Trzon ma 7–15 cm długości, jest białawy, z jaśniejszym zygzakowatym deseniem. U dojrzałych owocników zazwyczaj pozostaje delikatny, zwisający pierścień. Podstawa jest bulwiasta i tkwi w dużej, białej, workowatej pochwie, często o zielonkawym odcieniu od wewnątrz.",
+      flesh: "Miąższ jest biały i po przekrojeniu nie zmienia barwy. Za młodu zapach jest niewyróżniający się. Stare owocniki pachną nieprzyjemnie, mdło i słodkawo.",
+      sporePrint: "Biały. Zarodniki są gładkie i elipsoidalne, o wymiarach około 7–12 × 6–9 μm, barwiące się na niebiesko w jodzie (amyloidalne).",
+      habitat: "Owocniki pojawiają się latem i jesienią, od lipca do listopada w Wielkiej Brytanii i Irlandii. Rośnie w mikoryzie z drzewami liściastymi, zwłaszcza z dębem, rzadziej z iglastymi.",
+      uses: "Jest grzybem śmiertelnie trującym. Zawiera amatoksyny, których nie niszczy gotowanie ani mrożenie, i jest przyczyną większości śmiertelnych zatruć grzybami.",
+      confusion: "Muchomor cytrynowy (Amanita citrina) zazwyczaj zachowuje brązowawokremowe resztki osłony na kapeluszu i ma bulwę z wyraźnie odciętym brzegiem, a nie otwartą workowatą pochwę. Gatunki z rodzaju pieczarka (Agaricus) nie mają pochwy, a ich blaszki stają się różowe, a następnie ciemnobrązowe. Biała forma może przypominać muchomora jadowitego (Amanita virosa). Zielone gatunki gołąbków (Russula), takie jak gołąbek zielonawofioletowy (Russula cyanoxantha), nie mają pierścienia, pochwy ani białych łatek, a ich trzon jest kruchy, nie włóknisty.",
+      notes: "Kategoria LC (Least Concern) według oceny z 2019 roku."
     }
     },
     sources: {
@@ -4850,18 +4850,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%91%D0%BB%D1%96%D0%B4%D0%B0_%D0%BF%D0%BE%D0%B3%D0%B0%D0%BD%D0%BA%D0%B0"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Muchomor_zielonawy"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -4901,6 +4889,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Muchomor_zielonawy"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -5009,10 +5009,10 @@ export const CATALOG = [
       bg: 'пантерка',
       ru: "мухомор пантерный",
       uk: "мухомор пантерний",
-      pl: "muchomor plamisty",
       it: "tignosa rigata",
       hu: "párducgalóca",
-      fr: "amanite panthère"
+      fr: "amanite panthère",
+      pl: "muchomor plamisty"
     },
     names: {
       en: ["panthercap", "false blusher", "panther amanita"]
@@ -5288,18 +5288,6 @@ export const CATALOG = [
       confusion: "Мухомор сіро-рожевий (Amanita rubescens) має м'якуш, який виразно червоніє на зламі, та смугасте кільце. Мухомор товстий (Amanita excelsa) має сіруваті пластівці на шапинці й не має чіткої облямівки над бульбою ніжки.",
       notes: "У західній частині Північної Америки коричневі мухомори, які раніше вважали цим видом, належать до інших таксонів."
     },
-    pl: {
-      description: "Grzyb ektomikoryzowy lasów liściastych, zwłaszcza bukowych i dębowych, a także mieszanych i iglastych. Szeroko rozprzestrzeniony w Europie i zachodniej Azji.",
-      cap: "Kapelusz ma 5–12 cm średnicy. Jest lśniący, brązowy, szarobrązowy do żółtobrązowego. Na powierzchni gęsto rozsiane są liczne drobne, śnieżnobiałe, mączyste łatki osłony całkowitej, ułożone w koncentryczne pierścienie.",
-      hymenium: "Blaszki są białe, wolne, gęste i dość szerokie, o kłaczkowatym ostrzu.",
-      stipe: "Trzon ma 6–12 cm długości i jest czysto biały. Zwisający pierścień jest gładki, umieszczony nisko na trzonie i często zanika z wiekiem. Podstawa trzonu jest wyraźnie bulwiasta, z pochwą zrośniętą z bulwą, tworzącą charakterystyczne, spiralne lub pierścieniowate fałdy z wyraźną rynienką powyżej.",
-      flesh: "Miąższ jest biały i po przekrojeniu nie czerwienieje ani nie różowieje. Zapach jest słaby, nieco rzodkiewkowaty, a smak słodkawy.",
-      sporePrint: "Biały. Zarodniki są gładkie, szerokoelipsoidalne do owalnych, o wymiarach około 8–12 × 6,7–7,5 μm, nieamyloidalne.",
-      habitat: "Owocniki pojawiają się od lipca do listopada. Rośnie w lasach liściastych, mieszanych i iglastych, często pod dębami, bukami, sosnami i świerkami, preferując gleby piaszczyste i kwaśne.",
-      uses: "Grzyb silnie trujący, bardziej niebezpieczny niż muchomor czerwony. Zawiera kwas ibotenowy i muscymol. Zatrucie wywołuje ciężkie zaburzenia neurologiczne, omamy, pobudzenie ruchowe, a w skrajnych przypadkach śpiączkę i zapaść.",
-      confusion: "Muchomor twardawy (Amanita excelsa) ma szarawe łatki na kapeluszu, grubszy trzon i brak wyraźnej rynienki nad bulwą. Muchomor czerwieniejący (Amanita rubescens) ma miąższ wyraźnie różowiejący i czerwieniejący po uszkodzeniu, a łatki na kapeluszu szarawe lub brudnoróżowe. Muchomor królewski (Amanita regalis) rośnie głównie w górskich świerczynach i ma żółtobrązowe lub ochrowe łatki.",
-      notes: "W zachodniej Ameryce Północnej brunatne muchomory określane tą nazwą należą do odrębnych gatunków."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi di latifoglie (soprattutto faggio e quercia) e misti di conifere. È ampiamente diffuso e comune in tutta l'Eurasia.",
       cap: "Il cappello misura 5–12 cm di diametro. È di colore bruno, bruno-ocraceo o bruno-grigiastro, coperto da fitte verruche piramidali o farinose bianco candido, residui del velo universale. Il margine è nettamente striato o scanalato per trasparenza.",
@@ -5335,6 +5323,17 @@ export const CATALOG = [
       uses: "L'amanite panthère est toxique et provoque de graves intoxications. Elle contient du muscimole et de l'acide iboténique en concentrations plus élevées et plus variables que l'amanite tue-mouches.",
       confusion: "L'amanite rougissante (Amanita rubescens) possède un anneau nettement strié, des restes de voile grisâtres ou teintés de rose et une chair qui rougit nettement lorsqu'elle est coupée ou froissée. L'amanite épaisse (Amanita excelsa) a un chapeau brun grisâtre, un anneau strié sur le dessus et une chair immuable sans bulbe distinctement marginé. L'amanite royale (Amanita regalis) a un chapeau brun à écailles jaunâtres et une volve fragmentée en plusieurs anneaux écailleux.",
       notes: "Dans l'ouest de l'Amérique du Nord, les amanites brunes désignées sous ce nom appartiennent à d'autres espèces, et les dimensions données ici s'appliquent aux sporophores européens."
+    },
+    pl: {
+      description: "Grzyb ektomikoryzowy lasów liściastych i iglastych. Pospolity w Europie, w tym w Wielkiej Brytanii i Irlandii, od nizin po piętro subalpejskie. Podobne muchomory w Azji Wschodniej i Ameryce Północnej wyodrębniono jako blisko spokrewnione odrębne gatunki.",
+      cap: "Kapelusz ma 4–11 cm średnicy. Za młodu jest półkulisty, z wiekiem spłaszcza się do płaskiego z nieco wgłębionym środkiem. Przybiera barwę brązową, ciemnobrązową do żółtobrązowej, i jest gęsto pokryty drobnymi, czysto białymi łatkami osłony, które mogą ulec zmyciu w deszczu. Brzeg staje się wyraźnie prążkowany u dojrzałych owocników.",
+      hymenium: "Blaszki są wolne, gęste i białe. Po uszkodzeniu nie zmieniają barwy.",
+      stipe: "Trzon ma 5–14 cm długości i 0,6–2 cm grubości, zwęża się ku górze i jest biały. Ma wąski, nieprążkowany biały pierścień umieszczony nisko na trzonie. Podstawa jest bulwiasta i otoczona charakterystyczną pochwą z jednym do trzech wyraźnych, pierścieniowatych wałeczków powyżej bulwy.",
+      flesh: "Miąższ jest biały i po przekrojeniu nie zmienia barwy. Zapach jest rzodkiewkowy lub słaby, a smak łagodny do słodkawego.",
+      sporePrint: "Biały. Zarodniki są elipsoidalne, gładkie, o wymiarach 8,5–12 × 6,5–8,5 μm, niebieszczejące w jodzie (nieamyloidalne).",
+      habitat: "Owocniki pojawiają się od lipca do listopada w Europie. Rośnie w mikoryzie z dębem, bukiem, kasztanem jadalnym i innymi drzewami liściastymi, a także z sosną i świerkiem, na glebach zasadowych lub kwaśnych.",
+      uses: "Jest grzybem silnie trującym. Zawiera kwas ibotenowy i muscymol; wywołuje zespół panterynowy o objawach neurotoksycznych przypominających stan upojenia, po którym następują pobudzenie, halucynacje i drgawki.",
+      confusion: "Muchomor twardawy (Amanita excelsa) ma prążkowany pierścień, szarawe łatki i miąższ o zapachu rzodkwi, który nie zmienia barwy. Muchomor czerwieniejący (Amanita rubescens) ma prążkowany pierścień, szaroochrowe łatki, a jego miąższ czerwienieje po uszkodzeniu. Muchomor królewski (Amanita regalis) ma żółtawe łatki na ciemnożółtobrązowym kapeluszu i żółtawy miąższ pod skórką."
     }
     },
     sources: {
@@ -5637,18 +5636,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%9C%D1%83%D1%85%D0%BE%D0%BC%D0%BE%D1%80_%D0%BF%D0%B0%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Muchomor_plamisty"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -5688,6 +5675,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Muchomor_plamisty"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -5793,10 +5792,10 @@ export const CATALOG = [
       bg: 'обикновена смръчкула',
       ru: "сморчок съедобный",
       uk: "зморшок їстівний",
-      pl: "smardz jadalny",
       it: "spugnola rotonda",
       hu: "ízletes kucsmagomba",
-      fr: "morille commune"
+      fr: "morille commune",
+      pl: "smardz jadalny"
     },
     names: {
       en: ["common morel", "yellow morel"],
@@ -5824,10 +5823,10 @@ export const CATALOG = [
       bg: ['смръчкула', 'бучка гъба', 'корминка'],
       ru: ["сморчок настоящий"],
       uk: ["зморшок звичайний"],
-      pl: ["smardz zwyczajny"],
       it: ["spugnola comune","morchella"],
       hu: ["közönséges kucsmagomba","sötét kucsmagomba","vastaglábú kucsmagomba","vastagtönkű kucsmagomba"],
-      fr: ["morille ronde","morille blonde"]
+      fr: ["morille ronde","morille blonde"],
+      pl: ["smardz zwyczajny"]
     },
     text: {
       tr: {
@@ -6090,18 +6089,6 @@ export const CATALOG = [
       confusion: "Зморшок конічний (Morchella elata) має темнішу конічну шапинку з комірками, розташованими регулярними вертикальними рядами. Смертельно отруйний строчок звичайний (Gyromitra esculenta) має звивисто-мозкоподібну безладно хвилясту шапинку без стільникових комірок.",
       notes: "Європейський таксон, зареєстрований також у Китаї."
     },
-    pl: {
-      description: "Wiosenny grzyb workowy lasów łęgowych, parków i zadrzewień. W ścisłym ujęciu jest to gatunek europejski, notowany także z Chin.",
-      cap: "Główka (kapelusz) ma 3–8 cm średnicy i 5–12 cm wysokości. Jest kulista, jajowata lub podłużnie owalna, wewnątrz całkowicie pusta. Na powierzchni znajdują się nieregularne, głębokie jamki przypominające plaster miodu, o barwie żółtawej, ochrowej do szarobrązowej, oddzielone jaśniejszymi żebrami.",
-      hymenium: "Płodna warstwa wyścieła wnętrze jamek. Tam znajdują się worki wytwarzające askospory. Żebra pomiędzy jamkami są płonne.",
-      stipe: "Trzon jest biały lub kremowy, u podstawy niekiedy z brązowawymi plamami. Osiąga 3–12 cm wysokości i 1,5–6 cm grubości u dojrzałych owocników. Wewnątrz jest pusty i stanowi jedną wspólną komorę z wnętrzem główki.",
-      flesh: "Miąższ jest woskowaty, cienki i kruchy. Zapach i smak surowego miąższu są przyjemne, delikatnie grzybowe.",
-      sporePrint: "Kremowobiały do bladoochrowego. Zarodniki (askospory) są elipsoidalne i gładkie, o wymiarach około 17,5–22 × 9–11 μm. Worki są cylindryczne, ośmiozarodnikowe.",
-      habitat: "Owocniki pojawiają się od kwietnia do maja, rzadziej w marcu lub na początku czerwca. Rośnie w lasach łęgowych, parkach, ogrodach, sadach i na żyznych glebach nadrzecznych, często pod jesionami, wiązami i topolami.",
-      uses: "Wyborny grzyb jadalny po dokładnym ugotowaniu lub usmażeniu. Na surowo jest trujący i może wywołać silne dolegliwości żołądkowo-jelitowe. Znakomity do sosów, zup i dań mięsnych; doskonale nadaje się do suszenia.",
-      confusion: "Smardz stożkowaty (Morchella elata) ma główkę ciemniejszą, bardziej stożkowatą, z jamkami ułożonymi w pionowe rzędy. Śmiertelnie trująca piestrzenica kasztanowata (Gyromitra esculenta) ma kapelusz pofałdowany mózgowato, a nie jamkowaty, o barwie ciemnoczerwonobrązowej, a jej trzon zawiera liczne nieregularne komory zamiast jednej pustej przestrzeni.",
-      notes: "W Polsce gatunek objęty ochroną częściową (można pozyskiwać owocniki wyłącznie z ogrodów, upraw i terenów zieleni miejskiej)."
-    },
     it: {
       description: "Un ascomicete primaverile dei terreni basici o calcarei. In senso stretto si tratta di una specie europea presente anche in Asia; le collezioni nordamericane appartengono a taxa correlati.",
       cap: "La mitra o cappello misura 3–8 cm di larghezza e 5–12 cm di altezza, di forma subglobosa, ovoide o tondeggiante. La superficie presenta alveoli profondi e irregolari separati da coste sinuose. Il colore varia dal giallo miele al bruno-ocraceo.",
@@ -6137,6 +6124,18 @@ export const CATALOG = [
       uses: "C'est un excellent comestible recherché, mais il ne doit jamais être consommé cru ou insuffisamment cuit. Il contient des toxines hémolytiques thermolobiles qui sont détruites par une cuisson complète ou par le séchage.",
       confusion: "D'autres morilles du complexe de Morchella elata ont des chapeaux plus coniques et allongés avec des côtes longitudinales régulières et sombres. Le gyromitre délicieux (Gyromitra esculenta) a un chapeau cérébriforme brun rougeâtre sans alvéoles nettes, et contient de la gyromitrine, une toxine mortelle. La morille semi-libre (Morchella semilibera) possède un chapeau dont la moitié inférieure est libre du pied. Les verpes, comme la verpe de Bohême (Verpa bohemica), ont un chapeau attaché seulement au sommet du pied.",
       notes: "Il s'agit d'une espèce européenne qui est également signalée en Chine."
+    },
+    pl: {
+      description: "Grzyb saprotroficzny i fakultatywnie mikoryzowy. Rozprzestrzeniony w lasach strefy umiarkowanej Eurazji, częsty w Europie Środkowej i Południowej, natomiast rzadszy w Wielkiej Brytanii i Irlandii. Północnoamerykańskie doniesienia pod tą nazwą należą do innych gatunków z kompleksu Morchella esculenta.",
+      cap: "Główka (kapelusz) ma 4–10 cm wysokości i 3–6 cm szerokości, jest owalna do jajowatej, z tępym wierzchołkiem. Powierzchnia jest głęboko wgłębiona w nieregularne jamki przypominające plaster miodu, o barwie żółtawobrązowej, ochrowej do szarobrązowej. Żeberka ograniczające jamki są faliste, zaokrąglone i zazwyczaj jaśniejsze od wnętrza jamek. Wewnątrz owocnik jest całkowicie pusty, a dolny brzeg główki jest zrośnięty z trzonem.",
+      hymenium: "Powierzchnia zarodnikonośna wyściela jamki na główce. Worki są cylindryczne, 8-zarodnikowe, o wymiarach 250–350 × 18–25 μm.",
+      stipe: "Trzon ma 3–9 cm długości i 1,5–4 cm grubości, u podstawy jest zgrubiały lub pofałdowany, białawy do żółtawego, drobno ziarnisty lub oprószony. Wewnątrz jest pusty, tworząc jedną ciągłą komorę z wnętrzem główki.",
+      flesh: "Miąższ jest białawy do woskowego, kruchy i cienki. Zapach i smak są przyjemne, grzybowe.",
+      sporePrint: "Kremowożółty do ochrowego. Zarodniki (askospory) są elipsoidalne, gładkie, o wymiarach 18–24 × 11–14 μm, z drobnymi kropelkami na biegunach.",
+      habitat: "Owocniki pojawiają się od marca do początku czerwca. Rośnie na wapiennych glebach pod drzewami liściastymi, zwłaszcza pod jesionem, wiązem i topolą, w starych sadach, ogrodach, na cmentarzach oraz na wypaleniskach.",
+      uses: "Jest wybornym grzybem jadalnym po dokładnej obróbce cieplnej. Owocniki spożywane na surowo mogą wywołać zaburzenia żołądkowo-jelitowe oraz objawy neurologiczne. Ceniony w gastronomii, smażony na maśle, duszony w śmietanie i suszony.",
+      confusion: "Smardz wyniosły (Morchella elata) ma główkę ciemniejszą, bardziej stożkowatą, z jamkami ułożonymi w pionowe rzędy. Piestrzenica kasztanowata (Gyromitra esculenta) ma główkę pofałdowaną jak mózg, a nie jamkowatą, i jest śmiertelnie trująca. Naparstniczka czeska (Verpa bohemica) ma główkę przyrośniętą do trzonu tylko na samym szczycie.",
+      notes: "Gatunek europejski, notowany także z Chin."
     }
     },
     sources: {
@@ -6450,18 +6449,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%97%D0%BC%D0%BE%D1%80%D1%88%D0%BE%D0%BA_%D1%97%D1%81%D1%82%D1%96%D0%B2%D0%BD%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Smardz_jadalny"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -6501,6 +6488,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Smardz_jadalny"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -6627,10 +6626,10 @@ export const CATALOG = [
       bg: 'кладница',
       ru: "вешенка обыкновенная",
       uk: "глива звичайна",
-      pl: "boczniak ostrygowaty",
       it: "gelone",
       hu: "kései laskagomba",
-      fr: "pleurote en huître"
+      fr: "pleurote en huître",
+      pl: "boczniak ostrygowaty"
     },
     names: {
       en: ["grey oyster mushroom", "oyster fungus", "pearl oyster mushroom"],
@@ -6950,18 +6949,6 @@ export const CATALOG = [
       confusion: "Глива дубова (Pleurotus dryinus) має повстяну шапинку й кільце на ніжці. Глива легенева (Pleurotus pulmonarius) світліша, білувата й плодоносить у теплі літні місяці.",
       notes: "Темно-синя форма Pleurotus columbinus іноді розглядається як окремий вид."
     },
-    pl: {
-      description: "Grzyb saprotroficzny i słaby pasożyt nadrzewny rozwijający się na drewnie drzew liściastych. Pospolity w Europie, Ameryce Północnej i Azji. Ponadto jego grzybnia potrafi paraliżować i trawić nicienie glebowe.",
-      cap: "Kapelusz osiąga zazwyczaj 5–18 cm średnicy (niekiedy 2–30 cm). Ma kształt muszlowaty, łopatkowaty lub wachlarzowaty. Barwa jest zmienna: popielata, stalowoszarawa, szaroniebieska, ciemnobrązowa do niemal czarniawej, z wiekiem jaśniejąca.",
-      hymenium: "Blaszki są białe do kremowych, z wiekiem żółknące, gęste i głęboko zbiegające na trzon, często łączące się anastomozami u nasady.",
-      stipe: "Trzon jest krótki, boczny lub ekscentryczny, ma 1–4 cm długości i 1–3 cm grubości, białawy, u podstawy filcowato owłosiony. Niekiedy jest całkowicie zredukowany.",
-      flesh: "Miąższ jest biały, gruby, za młodu miękki i soczysty, z wiekiem w trzonie staje się twardy i włóknisty. Zapach i smak są przyjemne, grzybowe.",
-      sporePrint: "Biały do bladoliliowo-szarawego. Zarodniki są gładkie, cylindryczne do lekko nerkowatych, o wymiarach około 8–12,5 × 3–4,5 μm.",
-      habitat: "Owocniki pojawiają się głównie późną jesienią i zimą, od października do zimy, w okresach chłodów po przymrozkach. Wyrasta kępami na pniach i kłodach martwych oraz osłabionych drzew liściastych, zwłaszcza buków, topól, brzóz i wierzb.",
-      uses: "Bardzo smaczny grzyb jadalny, powszechnie uprawiany przemysłowo na słomie i trocinach. Wymaga dokładnej obróbki cieplnej, gdyż surowy zawiera termolabilne hemolizyny. Przyrządza się go panierowanego, smażonego lub w zupach.",
-      confusion: "Boczniak białożółtawy (Pleurotus dryinus) ma wyraźniejszy trzon, pozostałości osłony na brzegu kapelusza i twardszy miąższ. Łycznik późny (Sarcomyxa serotina) ma oliwkowozielonkawy kapelusz, żółtawy trzon z wyraźną granicą pod blaszkami i gorzkawy miąższ. Śmiertelnie trująca bokówka biała (Pleurocybella porrigens) jest czysto biała, cieńsza i rośnie na butwiejącym drewnie drzew iglastych.",
-      notes: "Powszechnie uprawiany na całym świecie jako wartościowy grzyb jadalny."
-    },
     it: {
       description: "Un fungo saprotrofo e debolmente parassita, lignicolo su tronchi di latifoglie. È comune in tutte le foreste temperate dell'emisfero settentrionale ed è ampiamente coltivato a livello industriale.",
       cap: "Il cappello misura tipicamente 5–18 cm di diametro (talvolta fino a 25 cm), a forma di conchiglia o spatola, convesso poi appianato e infine depresso. Il colore varia dal grigio piombo al bruno ardesia o bluastro da giovane, impallidendo fino al bruno-isabella a maturità.",
@@ -6997,6 +6984,18 @@ export const CATALOG = [
       uses: "C'est un excellent comestible, largement cultivé et commercialisé. Les sporophores doivent être bien cuits et débarrassés de leurs pieds trop fibreux.",
       confusion: "Le pleurote du chêne (Pleurotus dryinus) a un chapeau givré et un anneau fugace sur le pied. Le pleurote pulmonaire (Pleurotus pulmonarius) est plus pâle et fructifie plus souvent en été, bien que les deux espèces puissent apparaître à tout moment et puissent s'hybrider. Les crépidotes et pleurotellus restent sous les 4 cm de largeur. Le pleurote étalé (Pleurocybella porrigens) est généralement en entonnoir à marge fendue, croît sur bois de conifère (principalement en Écosse au Royaume-Uni) et peut être mortel pour les personnes souffrant de maladies rénales. D'autres champignons ressemblants comprennent la corne d'abondance (Pleurotus cornucopiae), Hohenbuehelia petaloides et le pleurote nid d'oiseau (Phyllotopsis nidulans) au chapeau velu. Parmi les espèces ressemblantes toxiques figurent Omphalotus nidiformis en Australie ainsi qu'Omphalotus olivascens et le clitocybe blanc (Clitocybe dealbata) en Amérique du Nord. Certaines espèces toxiques de Lentinellus présentent des arêtes de lames dentées et des chapeaux finement velus. Le pleurote du panicaut (Pleurotus eryngii) est une espèce cultivée apparentée.",
       notes: "Pleurotus columbinus est une forme gris-bleu parfois traitée comme une espèce distincte, tandis que Pleurotus floridanus est maintenu séparé. Le mycélium piège et digère les nématodes. Les espèces de ce genre contiennent de la lovastatine, une statine qui abaisse le cholestérol sanguin."
+    },
+    pl: {
+      description: "Grzyb saprotroficzny i słaby pasożyt nadrzewny rozwijający się na drewnie drzew liściastych. Pospolity w całej strefie umiarkowanej i borealnej półkuli północnej, w tym w Europie, Azji i Ameryce Północnej. Jest grzybem nicieniobójczym (nematofagicznym), paraliżującym nicienie w glebie za pomocą wydzielanych toksyn.",
+      cap: "Kapelusz ma zazwyczaj 5–18 cm średnicy (niekiedy 2–30 cm, średnio około 15 cm), jest muszlowaty, łopatkowaty lub nerkowaty, z podwiniętym, a z wiekiem pofalowanym brzegiem. Barwa jest wysoce zmienna: ciemnoszaroniebieska u młodych owocników, później szarobrązowa do stalowoszarej, a na starość płowieje do żółtawobrązowej. Skórka jest gładka i wilgotna.",
+      hymenium: "Blaszki są białe do kremowych, z wiekiem żółtawe, gęste, głęboko zbiegające na trzon i często rozwidlające się u nasady.",
+      stipe: "Trzon ma zazwyczaj 1–4 cm długości i 1–3 cm grubości, jest krótki, boczny lub ekscentryczny, białawy i filcowaty u podstawy. Czasami w ogóle nie wykształca się, a kapelusz przyrasta bokiem bezpośrednio do podłoża.",
+      flesh: "Miąższ jest biały, gruby i jędrny, za młodu soczysty, z wiekiem w trzonie staje się łykowaty i twardy. Zapach jest słaby, przyjemny, a smak łagodny.",
+      sporePrint: "Biały do liliowoszarego. Zarodniki są gładkie, cylindryczne do lekko nerkowatych, o wymiarach 7,5–11 × 3–4 μm.",
+      habitat: "Owocniki pojawiają się głównie późną jesienią i zimą, od października do zimy, w kępach i dachówkowatych skupiskach na pniach i kłodach obumarłych drzew liściastych, zwłaszcza buka, topoli, wierzby i dębu.",
+      uses: "Wyborny grzyb jadalny, powszechnie uprawiany na skalę przemysłową na słomie i trocinach. Wymaga obróbki cieplnej, gdyż surowy zawiera termolabilne hemolizyny. W kuchni wykorzystuje się głównie kapelusze; twarde trzony zazwyczaj się odrzuca.",
+      confusion: "Boczniak białożółtawy (Pleurotus dryinus) ma wyraźniejszy trzon z nietrwałym pierścieniem i filcowatą powierzchnię. Łycznik późny (Sarcomyxa serotina) ma oliwkowozielonkawy odcień kapelusza, żółtawy trzon z ostro odciętymi blaszkami i jest gorzkawy. Bokówka biała (Pleurocybella porrigens) rośnie wyłącznie na drewnie drzew iglastych, ma cieńszy, czysto biały miąższ i jest grzybem trującym.",
+      notes: "Kategoria LC (Least Concern) według oceny z 2019 roku."
     }
     },
     sources: {
@@ -7325,18 +7324,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%93%D0%BB%D0%B8%D0%B2%D0%B0_%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9%D0%BD%D0%B0"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Boczniak_ostrygowaty"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -7376,6 +7363,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Boczniak_ostrygowaty"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -7495,10 +7494,10 @@ export const CATALOG = [
       bg: 'сярна гъба',
       ru: "трутовик серно-жёлтый",
       uk: "трутовик сірчано-жовтий",
-      pl: "żółciak siarkowy",
       it: "poliporo solfureo",
       hu: "sárga gévagomba",
-      fr: "polypore soufré"
+      fr: "polypore soufré",
+      pl: "żółciak siarkowy"
     },
     names: {
       en: ["sulphur polypore", "sulphur shelf", "chicken polypore", "lobster of the woods"]
@@ -7771,18 +7770,6 @@ export const CATALOG = [
       confusion: "Старі бліді екземпляри можуть нагадувати трутовик гігантський (Meripilus giganteus), чиї пори швидко чорніють від дотику.",
       notes: "Глобальний охоронний статус GNR (не оцінено, 1993 рік)."
     },
-    pl: {
-      description: "Pasożytniczy i saprotroficzny grzyb nadrzewny wywołujący intensywną brunatną zgniliznę drewna drzew liściastych. Pospolity w Europie i Ameryce Północnej.",
-      cap: "Owocniki są jednoroczne, beztrzonowe, półeczkowate lub wachlarzowate, o szerokości 10–40 cm i grubości do kilkunastu centymetrów, często ułożone dachówkowato w potężne skupiska osiągające masę kilkunastu kilogramów. Barwa jest jaskrawa: siarkowożółta, morelowopomarańczowa do łososiowej, z falistym, zaokrąglonym brzegiem.",
-      hymenium: "Rurki są krótkie (około 2–5 mm). Pory są siarkowożółte, drobne, okrągłe do kanciastych. U młodych owocników wydzielają żółtawe krople cieczy.",
-      stipe: "Brak trzonu; owocniki przyrastają bokiem do pnia drewna.",
-      flesh: "Miąższ u młodych owocników jest miękki, mięsisty, soczysty i jasnożółty. Z wiekiem staje się suchy, kruchy, kredowy i białawy. Zapach jest grzybowy lub lekko kwaskowaty, a smak przyjemny, nieco kwaskowaty.",
-      sporePrint: "Biały do bladożółtawego. Zarodniki są gładkie, szerokoelipsoidalne do jajowatych, o wymiarach około 5–7 × 3,5–5 μm.",
-      habitat: "Owocniki pojawiają się od maja do września, najobficiej w maju i czerwcu. Wyrasta na żywych i martwych pniach drzew liściastych, zwłaszcza dębów, wierzb, topoli, robinii akacjowej oraz drzew owocowych.",
-      uses: "Młode, miękkie i soczyste owocniki są jadalne po dokładnym obgotowaniu (odlewając wodę). W smaku i konsystencji przypominają mięso drobiowe. Surowe owocniki mogą powodować zatrucia pokarmowe. Nie należy zbierać owocników z robinii ani cisów ze względu na wchłanianie toksyn roślinnych.",
-      confusion: "Młode owocniki ozorka dębowego (Fistulina hepatica) mają czerwonawe zabarwienie, mięsisty miąższ przypominający wątrobę i wydzielają krwisty sok. Inne nadrzewne huby mają twardy, zdrewniały miąższ i nie wykazują tak jaskrawożółtej barwy.",
-      notes: "W wielu krajach bywa nazywany «leśnym kurczakiem» ze względu na smak usmażonego młodego miąższu."
-    },
     it: {
       description: "Un fungo parassita e saprotrofo a mensole dei tronchi di latifoglie (soprattutto quercia, castagno, salice, carrubo) e occasionalmente tasso. Causa un esteso marciume bruno del legno.",
       cap: "I corpi fruttiferi crescono a ventaglio o a mensole sovrapposte, raggiungendo 10–40 cm di larghezza (a volte fino a 60 cm) e diversi chilogrammi di peso. La superficie è ondulata, vellutata e di un vivido colore giallo solfino o arancio brillante, che sbiadisce col tempo.",
@@ -7818,6 +7805,18 @@ export const CATALOG = [
       uses: "Les jeunes sporophores encore tendres constituent un bon champignon comestible. Ils sont consommés cuits, souvent poêlés, mijotés ou préparés à la manière de morceaux de poulet en raison de leur texture fibreuse et de leur saveur. Les spécimens âgés sont durs et indigestes. Certaines personnes développent des troubles gastro-intestinaux ou des réactions allergiques après consommation, et la prudence s'impose.",
       confusion: "Les sporophores décolorés peuvent ressembler au polypore géant (Meripilus giganteus), dont les pores noircissent au froissement. En Amérique du Nord, Laetiporus cincinnatus pousse à la base des chênes et présente un chapeau orange rosé pâle et des pores blancs, Laetiporus persicinus brunit au froissement, Laetiporus huroniensis pousse sur des conifères comme la pruche, et Laetiporus gilbertsonii se développe sur l'eucalyptus et les chênes dans l'Ouest. Des malaises graves après consommation ont été associés en particulier aux espèces croissant sur conifères et eucalyptus.",
       notes: "Le statut de conservation mondial est GNR, révisé pour la dernière fois en 1993. Laetiporus cincinnatus, Laetiporus huroniensis, Laetiporus gilbertsonii et Laetiporus montanus sont des espèces distinctes."
+    },
+    pl: {
+      description: "Grzyb nadrzewny, pasożyt i saprotrof rosnący na żywych i martwych drzewach liściastych, a sporadycznie na cisie. Wywołuje intensywną brunatną zgniliznę twardzieli. Szeroko rozprzestrzeniony w Europie i strefie umiarkowanej Eurazji; w Ameryce Północnej zastępują go inne pokrewne gatunki.",
+      cap: "Pojedyncze kapelusze mają zazwyczaj 10–40 cm szerokości (sporadycznie 5–60 cm) i do 4 cm grubości, są półeczkowate lub wachlarzowate, ułożone dachówkowato w duże skupiska o wadze dochodzącej do 20 kg. Powierzchnia jest aksamitna, z wiekiem pomarszczona, jaskrawo siarkowożółta, żółtopomarańczowa do łososiowopomarańczowej, z falistym, zaokrąglonym brzegiem.",
+      hymenium: "Rurki są krótkie, o długości 1,5–4 mm. Pory są drobne, okrągłe do owalnych, zazwyczaj 2–4 na milimetr, jaskrawo siarkowożółte, po ugnieceniu nie zmieniające barwy; u młodych owocników wydzielają żółtawe krople cieczy.",
+      stipe: "Brak trzonu. Owocniki wyrastają bezpośrednio z pnia lub zwężają się w krótką, boczną nasadę.",
+      flesh: "Miąższ jest biały do żółtopomarańczowego w stanie wilgotnym, po wyschnięciu blednie i kruszy się jak kreda. Za młodu jest miękki i soczysty, o zapachu grzybowym lub orzechowym i przyjemnym smaku.",
+      sporePrint: "Biały. Zarodniki są elipsoidalne do szerokojajowatych, o wymiarach 5–7 × 3,5–4,5 μm.",
+      habitat: "Owocniki pojawiają się głównie od wiosny do jesieni (w Europie od kwietnia do listopada), najobficiej w maju i czerwcu. Rośnie na pniach starych drzew liściastych, zwłaszcza dębów, wierzb, topoli, robinii akacjowej, drzew owocowych oraz cisów.",
+      uses: "Młode, soczyste owocniki są dobrym grzybem jadalnym po dokładnym ugotowaniu lub usmażeniu. Ze względu na smak i strukturę bywa nazywany «kurczakiem z drzewa». Okazy rosnące na cisie lub robinii mogą wywołać ciężkie zatrucia pokarmowe. Surowe owocniki są trujące.",
+      confusion: "Blade owocniki mogą przypominać wachlarzowca olbrzymiego (Meripilus giganteus), którego pory czernieją po dotknięciu i który rośnie u podstawy pni. Młode owocniki ozorka dębowego (Fistulina hepatica) mają czerwonawe zabarwienie, wydzielają czerwony sok i mają rurki wolne, niepołączone w warstwę. W Ameryce Północnej występują Laetiporus huroniensis i Laetiporus cincinnatus.",
+      notes: "Kategoria GNR według globalnej oceny z 1993 roku."
     }
     },
     sources: {
@@ -8159,18 +8158,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%A2%D1%80%D1%83%D1%82%D0%BE%D0%B2%D0%B8%D0%BA_%D1%81%D1%96%D1%80%D1%87%D0%B0%D0%BD%D0%BE-%D0%B6%D0%BE%D0%B2%D1%82%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Żółciak_siarkowy"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -8210,6 +8197,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Żółciak_siarkowy"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -8359,10 +8358,10 @@ export const CATALOG = [
       bg: 'канеленокафява манатарка',
       ru: "польский гриб",
       uk: "польський гриб",
-      pl: "podgrzyb brunatny",
       it: "boleto baio",
       hu: "barna tinóru",
-      fr: "bolet bai"
+      fr: "bolet bai",
+      pl: "podgrzyb brunatny"
     },
     names: {
       en: ["bay boletus", "bay-brown bolete", "bay-capped bolete", "false cep"],
@@ -8370,8 +8369,8 @@ export const CATALOG = [
     ,
       cs: ["suchohřib hnědý","podborovák","panský hřib"],
       ru: ["панский гриб","коричневый гриб"],
-      pl: ["podgrzybek brunatny"],
-      hu: ["barna nemezestinóru"]
+      hu: ["barna nemezestinóru"],
+      pl: ["podgrzybek brunatny"]
     },
     text: {
       tr: {
@@ -8635,18 +8634,6 @@ export const CATALOG = [
       confusion: "Білий гриб звичайний (Boletus edulis) має світлу випуклу сіточку на ніжці, а його пори не синіють від натискання. Гірчак жовчний (Tylopilus felleus) має виражену темну сіточку на ніжці, брудно-рожеві пори та дуже гіркий м'якуш.",
       notes: "Оцінка 2019 року визначає статус виду як у найменшій загрозі (Least Concern) зі стабільною популяцією."
     },
-    pl: {
-      description: "Grzyb ektomikoryzowy lasów iglastych i mieszanych. Pospolity i powszechnie zbierany w całej Europie oraz Ameryce Północnej.",
-      cap: "Kapelusz ma 4–15 cm średnicy. Za młodu jest półkolisty, później poduszkowato wypukły. Skórka ma barwę kasztanowobrązową, ciemnobrązową do czekoladowobrązowej. W czasie wilgotnej pogody staje się śliska, w czasie suchej jest matowa, sucha lub zamszowa.",
-      hymenium: "Rurki mają długość 1–2 cm, są przyrośnięte lub lekko wycięte przy trzonie. Pory są początkowo kremowe do jasnożółtych, z wiekiem oliwkowożółte do zielonkawych. Pod naciskiem natychmiast przebarwiają się na ciemnoniebiesko lub sinozielono.",
-      stipe: "Trzon ma 4–12 cm wysokości i 1–4 cm grubości, jest cylindryczny lub lekko wybrzuszony, podłużnie brązowo włóknisty, jaśniejszy od kapelusza, bez wyraźnej siateczki.",
-      flesh: "Miąższ jest białawy lub bladożółty, po przekrojeniu lekko błękitnieje, zwłaszcza nad rurkami i w szczycie trzonu. Zapach jest przyjemny, grzybowy, a smak łagodny.",
-      sporePrint: "Oliwkowobrązowy. Zarodniki są elipsoidalno-wrzecionowate, gładkie, o wymiarach około 12–15 × 4,5–5,5 μm.",
-      habitat: "Owocniki pojawiają się od lata do późnej jesieni (od lipca do listopada). Rośnie na glebie, w mchu, niekiedy na butwiejącym drewnie, najczęściej pod sosnami i świerkami, rzadziej pod dębami i bukami.",
-      uses: "Bardzo smaczny grzyb jadalny, wysoko ceniony i masowo zbierany. Znakomicie nadaje się do suszenia, smażenia, duszenia oraz marynowania.",
-      confusion: "Borowik szlachetny (Boletus edulis) ma białą siateczkę na trzonie, a jego pory nie sinieją pod naciskiem. Goryczak żółciowy (Tylopilus felleus) ma ciemną siateczkę na trzonie, pory różowiejące z wiekiem i bardzo gorzki smak. Podgrzybek zajączek (Xerocomus subtomentosus) ma bardziej zamszowy, żółtawobrązowy kapelusz, żółty trzon i szersze, kanciaste pory, które słabiej lub wcale nie sinieją.",
-      notes: "Ocena z 2019 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern)."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi di conifere e misti. È ampiamente diffuso e comune in tutta l'Europa centrale e settentrionale e in Nord America.",
       cap: "Il cappello misura solitamente 5–15 cm di diametro. È emisferico poi convesso e infine appianato. La cuticola è di colore bruno baio, bruno castano o bruno dattero, vellutata col secco e leggermente viscosa a tempo piovoso.",
@@ -8682,6 +8669,18 @@ export const CATALOG = [
       uses: "C'est un excellent champignon comestible, d'une qualité proche de celle de Boletus edulis et convenant aux mêmes préparations culinaires. Les sporophores sont moins souvent véreux que ceux de nombreux autres bolets, et ils se déshydratent très bien lorsqu'ils sont coupés en fines lamelles. Ils sont vendus sur les marchés en Europe et dans le centre du Mexique.",
       confusion: "Le cèpe de Bordeaux (Boletus edulis) a parfois un chapeau brun bai, mais son pied pâle porte un réseau blanc en relief et ses pores ne bleuissent pas. Aureoboletus projectellus est plus robuste et possède un pied grossièrement réticulé. Austroboletus gracilis ne bleuit pas et ses pores deviennent rosâtres. Le bolet subtomenteux (Xerocomus subtomentosus) possède un chapeau sec et velouté ainsi que des pores jaunes plus larges qui bleuissent rarement. Xerocomellus zelleri dans l'ouest de l'Amérique du Nord et Hortiboletus bubalinus sont également semblables.",
       notes: "Une évaluation de 2019 le classe comme préoccupation mineure (Least Concern), avec une population stable. Les sporophores peuvent bioaccumuler le mercure, le cobalt et le nickel, et un pigment du chapeau (la norbadione A) concentre le césium 137 radioactif."
+    },
+    pl: {
+      description: "Grzyb ektomikoryzowy lasów iglastych i mieszanych. Pospolity i szeroko rozprzestrzeniony w Europie, od Skandynawii po Morze Śródziemne, oraz w Ameryce Północnej. Tworzy mikoryzę głównie z sosną i świerkiem, rzadziej z drzewami liściastymi.",
+      cap: "Kapelusz ma 4–15 cm średnicy, początkowo jest półkulisty, z wiekiem staje się wypukły do rozpostartego. Barwa jest ciemnokasztanowobrązowa do czekoladowobrązowej. W czasie wilgotnej pogody skórka jest lepka i błyszcząca, w czasie suchej matowa i aksamitna.",
+      hymenium: "Rurki mają 8–15 mm długości, są początkowo kremowe do jasnożółtych, z wiekiem stają się oliwkowożółte do zielonkawych. Pory są drobne, kanciaste, pod naciskiem natychmiast przebarwiają się na ciemnoniebiesko lub zielonkawoniebiesko.",
+      stipe: "Trzon ma 4–12 cm długości i 1–4 cm grubości, jest cylindryczny lub lekko wygięty, podłużnie włóknisty lub prążkowany, bez siateczki. Ma barwę jasnobrązową do żółtobrązowej, jaśniejszą od kapelusza, z białawą podstawą.",
+      flesh: "Miąższ jest białawy lub bladożółty, pod skórką kapelusza brązowawy. Po przekrojeniu powoli i słabo sinieje, zwłaszcza nad rurkami i w szczycie trzonu. Zapach jest słaby, owocowo-grzybowy, a smak łagodny.",
+      sporePrint: "Oliwkowobrązowy. Zarodniki są gładkie, elipsoidalno-wrzecionowate, o wymiarach 12–15 × 4,5–5,5 μm.",
+      habitat: "Owocniki wyrastają od lata do późnej jesieni (od czerwca do listopada). Rośnie na kwaśnych, piaszczystych glebach w lasach iglastych i mieszanych, wśród mchów i borówek, a także na butwiejącym drewnie i starych pniakach.",
+      uses: "Bardzo ceniony grzyb jadalny, chętnie zbierany i powszechnie przetwarzany. Doskonale nadaje się do suszenia, smażenia, duszenia i marynowania w occie. Młode owocniki są twarde i rzadko zarobaczone.",
+      confusion: "Borowik szlachetny (Boletus edulis) ma białą siateczkę na trzonie, a jego pory nie sinieją po uciśnięciu. Goryczak żółciowy (Tylopilus felleus) ma ciemną siateczkę na trzonie, pory różowiejące z wiekiem i nieznośnie gorzki smak. Podgrzybek zajączek (Xerocomus subtomentosus) ma zamszowy, jaśniejszy kapelusz i żółty trzon.",
+      notes: "Kategoria LC (Least Concern) według oceny z 2019 roku."
     }
     },
     sources: {
@@ -9007,18 +9006,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B3%D1%80%D0%B8%D0%B1"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Podgrzyb_brunatny"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -9058,6 +9045,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Podgrzyb_brunatny"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -9175,10 +9174,10 @@ export const CATALOG = [
       bg: 'обикновена пънчушка',
       ru: "опёнок осенний",
       uk: "опеньок осінній справжній",
-      pl: "opieńka miodowa",
       it: "chiodino",
       hu: "gyűrűs tuskógomba",
-      fr: "armillaire couleur de miel"
+      fr: "armillaire couleur de miel",
+      pl: "opieńka miodowa"
     },
     names: {
       en: ["honey mushroom", "bootlace fungus"],
@@ -9498,17 +9497,6 @@ export const CATALOG = [
       confusion: "Опеньок несправжній сірчано-жовтий (Hypholoma fasciculare) отруйний, має сірчано-жовтий м'якуш, зеленувато-оливкові пластинки й темний споровий порошок. Опеньок темний (Armillaria ostoyae) росте переважно на хвойних і має темно-коричневі луски на нижньому боці кільця.",
       notes: "Вегетативний міцелій спричиняє світіння гнилої деревини."
     },
-    pl: {
-      description: "Pasożytniczy i saprotroficzny grzyb nadrzewny wywołujący białą zgniliznę drewna. Atakuje korzenie i pnie żywych drzew liściastych, a po ich obumarciu kontynuuje rozwój jako saprotrof. Wytwarza charakterystyczne sznury grzybniowe (ryzomorfy).",
-      cap: "Kapelusz ma 3–15 cm średnicy. Początkowo jest półkolisty, potem wypukły do rozpostartego. Barwa waha się od miodowożółtej, żółtobrązowej do oliwkowobrązowej, zwykle ciemniejsza na środku, pokryta drobnymi, ciemniejszymi łuseczkami, które z wiekiem mogą zanikać.",
-      hymenium: "Blaszki są gęste, przyrośnięte do lekko zbiegających. Początkowo białawe do kremowych, z wiekiem żółtawe, a u starych owocników pokryte rdzawymi plamkami.",
-      stipe: "Trzon osiąga 6–20 cm długości i 0,5–2,5 cm grubości, u podstawy zazwyczaj zrośnięty z innymi trzonami w wiązkę. Posiada wyraźny, trwały, białawy do żółtawego pierścień o watowatym brzegu.",
-      flesh: "Miąższ w kapeluszu jest białawy i jędrny, w trzonie włóknisty i twardy. Zapach jest słaby, grzybowy, a smak początkowo łagodny, po chwili cierpki i nieco piekący.",
-      sporePrint: "Biały do jasnokremowego. Zarodniki są elipsoidalne, gładkie, o wymiarach około 7–9 × 5–6 μm.",
-      habitat: "Owocniki pojawiają się obficie od września do listopada, wyrastając w dużych wiązkach na pniach, pniakach i korzeniach drzew liściastych (dębów, buków, grabów), rzadziej iglastych.",
-      uses: "Grzyb jadalny i chętnie zbierany, lecz bezwzględnie wymagający dokładnego obgotowania przez minimum 15–20 minut i odlania wywaru. Na surowo lub niedogotowany jest trujący i wywołuje silne zaburzenia żołądkowo-jelitowe. Zbiera się wyłącznie młode kapelusze; twarde trzony są niejadalne.",
-      confusion: "Opieńka ciemna (Armillaria ostoyae) rośnie głównie na drzewach iglastych i ma ciemniejsze łuski oraz brązowe łuski na spodzie pierścienia. Maślanka wiązkowa (Hypholoma fasciculare) rośnie w podobnych kępach, lecz ma zielonkawożółte blaszki, siarkowożółty miąższ i jest silnie gorzka oraz trująca. Płomiennica zimowa (Flammulina velutipes) owocuje zimą, ma aksamitny, ciemny trzon i nie posiada pierścienia."
-    },
     it: {
       description: "Un fungo parassita su latifoglie viventi e saprotrofo su ceppaie e legno morto. È un pericoloso agente del marciume radicale fibroso.",
       cap: "Il cappello misura 3,5–15 cm di diametro. È convesso poi piano, di colore giallo miele, bruno-ocraceo o bruno-rossiccio, cosparso di piccole squame fugaci più scure concentrate verso il centro.",
@@ -9542,6 +9530,18 @@ export const CATALOG = [
       habitat: "Les sporophores apparaissent de juillet à novembre en Grande-Bretagne, en Irlande et en Europe continentale, et en automne (ou jusqu'en hiver sous des climats plus chauds) en Amérique du Nord. Ils poussent en touffes denses sur les troncs vivants, les souches et les racines enterrées d'arbres feuillus, notamment les chênes et les arbres fruitiers, et se propagent à travers le sol et l'écorce au moyen de vigoureux rhizomorphes noirs semblables à des lacets de bottes.",
       uses: "Les chapeaux ne sont comestibles que lorsqu'ils sont bien cuits ; les pieds coriaces et fibreux sont rejetés. Certains guides déconseillent de le ramasser car les sporophores crus ou insuffisamment cuits provoquent de graves troubles gastro-intestinaux, et même des champignons bien cuits peuvent causer des indigestions chez les personnes sensibles.",
       confusion: "Armillaria ostoyae possède des écailles brun foncé ou noires sur le revers de son anneau et croît principalement sur les conifères. Armillaria gallica présente une base de pied bulbeuse et un voile arachnéen ne laissant qu'une faible zone annulaire. Desarmillaria tabescens est dépourvu d'anneau. La pholiote écailleuse (Pholiota squarrosa) a un chapeau et un pied écailleux, des lames qui virent au brun rouille et n'a pas de sporée blanche. La galère marginée (Galerina marginata), mortelle, croît également sur le bois mais est plus petite, possède une sporée brun rouille et ne présente ni l'anneau épais blanc et jaune ni les rhizomorphes noirs. Plusieurs espèces d'Armillaria couleur de miel étaient traitées sous ce seul nom jusque dans les années 1970."
+    },
+    pl: {
+      description: "Grzyb pasożytniczy atakujący żywe drzewa liściaste i iglaste oraz saprotrof rozkładający martwe drewno. Wywołuje białą zgniliznę drewna i tworzy charakterystyczne czarne sznury grzybniowe (ryzomorfy). Szeroko rozprzestrzeniony w Eurazji i Ameryce Północnej. Wegetatywna grzybnia wykazuje bioluminescencję.",
+      cap: "Kapelusz ma 3–15 cm średnicy, początkowo jest wypukły z podwiniętym brzegiem, później spłaszczony z tępym garbkiem. Barwa jest miodowożółta, ochrowobrązowa do oliwkowobrązowej, w środku pokryta drobnymi, ciemniejszymi łuseczkami, które ku brzegowi zanikają.",
+      hymenium: "Blaszki są nieco zbiegające na trzon lub przyrośnięte, początkowo białawe do kremowych, z wiekiem różowoochrowe, często z rdzawymi plamkami.",
+      stipe: "Trzon ma 5–18 cm długości i 0,5–2 cm grubości, jest cylindryczny, często wygięty i zrośnięty z innymi u podstawy. W górnej części białawy, ku dołowi żółtobrązowy do ciemnobrązowego. Nosi trwały, wełnisty, biało-żółtawy pierścień.",
+      flesh: "Miąższ jest białawy, w trzonie łykowaty i włóknisty. Zapach jest przyjemny, nieco ściągający, a smak początkowo łagodny, po chwili gorzkawy i drażniący w gardle.",
+      sporePrint: "Biały do bladoochrowego. Zarodniki są elipsoidalne, gładkie, o wymiarach 7–9 × 5–6 μm, nieamyloidalne.",
+      habitat: "Owocniki pojawiają się obficie od września do listopada, zazwyczaj w dużych, gęstych wiązkach u podstawy pni, na pniakach oraz na korzeniach drzew liściastych (dębów, buków) i iglastych.",
+      uses: "Dobry grzyb jadalny po dokładnej obróbce cieplnej. W stanie surowym lub niedogotowanym jest trujący i wywołuje silne zaburzenia trawienne. Zbiera się wyłącznie młode kapelusze; twarde trzony są niejadalne. Wyśmienity do marynowania i duszenia.",
+      confusion: "Opieńka bezpierścieniowa (Desarmillaria tabescens) nie posiada pierścienia na trzonie. Maślanka wiązkowa (Hypholoma fasciculare) ma siarkowożółty miąższ, szarozielonkawe blaszki, ciemny wysyp zarodników i jest trująca. Łuskwiak zmienny (Kuehneromyces mutabilis) ma brązowy wysyp zarodników i łuskowaty trzon poniżej pierścienia.",
+      notes: "Kategoria LC (Least Concern) według oceny z 2019 roku."
     }
     },
     sources: {
@@ -9913,18 +9913,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%9E%D0%BF%D0%B5%D0%BD%D1%8C%D0%BE%D0%BA_%D0%BE%D1%81%D1%96%D0%BD%D0%BD%D1%96%D0%B9_%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B6%D0%BD%D1%96%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Opieńka_miodowa"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -9964,6 +9952,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Opieńka_miodowa"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -10081,10 +10081,10 @@ export const CATALOG = [
       bg: 'порцеланова копринка',
       ru: "навозник белый",
       uk: "гнойовик чубатий",
-      pl: "czernidłak kołpakowaty",
       it: "coprino chiomato",
       hu: "gyapjas tintagomba",
-      fr: "coprin chevelu"
+      fr: "coprin chevelu",
+      pl: "czernidłak kołpakowaty"
     },
     names: {
       en: ["lawyer's wig", "shaggy mane", "shaggy ink cap"]
@@ -10360,18 +10360,6 @@ export const CATALOG = [
       confusion: "Гнойовик дятловий (Coprinopsis picacea) отруйний, має темно-коричневу або чорну поверхню шапинки під білими клаптями покривала та неприємний запах.",
       notes: "На відміну від багатьох інших видів коприноїдних грибів, цей вид збережений у роді Coprinus і не містить коприну."
     },
-    pl: {
-      description: "Grzyb saprotroficzny trawników, łąk, przydroży i żyznych gleb. Pospolity w całej Europie i Ameryce Północnej.",
-      cap: "Kapelusz ma 5–15 cm wysokości (niekiedy do 20 cm) i 3–8 cm szerokości. Za młodu jest walcowaty lub jajowaty, biały, z ochrowym wierzchołkiem, pokryty odstającymi, miękkimi, wełnistymi łuskami. W miarę dojrzewania dzwonkowato rozchyla się od dołu i ulega autolizie (rozpływa się w czarną ciecz).",
-      hymenium: "Blaszki są bardzo gęste, wolne, początkowo czysto białe, następnie różowieją, a na końcu czernieją i rozpływają się wraz z brzegiem kapelusza.",
-      stipe: "Trzon ma 10–30 cm wysokości i 1–2,5 cm grubości, jest biały, cylindryczny, pusty, jedwabiście lśniący, z wąskim, ruchomym białym pierścieniem, który szybko odpada.",
-      flesh: "Miąższ jest biały, w kapeluszu miękki i delikatny, w trzonie włóknisty. Zapach i smak są przyjemne i delikatne.",
-      sporePrint: "Czarny. Zarodniki są elipsoidalne, gładkie, o wymiarach około 9–13 × 6,5–9,5 μm, z wyraźną porą rostkową.",
-      habitat: "Owocniki wyrastają od maja do listopada w parkach, ogrodach, na trawnikach, pastwiskach i przydrożach, często w dużych grupach na glebach bogatych w azot.",
-      uses: "Wyborny grzyb jadalny, lecz nadający się do spożycia wyłącznie w młodym stanie, dopóki blaszki są całkowicie śnieżnobiałe. Należy go przyrządzić niezwłocznie po zebraniu (w ciągu kilku godzin), gdyż proces czernienia postępuje również po zerwaniu. Wbrew dawnym mitom nie zawiera kopryny i nie reaguje toksycznie z alkoholem.",
-      confusion: "Czernidłak srokaty (Coprinopsis picacea) ma kapelusz ciemnobrązowy z dużymi, białymi łłatami osłony i rośnie w lasach bukowych. Czernidłak pospolity (Coprinopsis atramentaria) ma kapelusz szary, gładki lub słabo łuskowaty i zawiera koprynę wywołującą zatrucie w połączeniu z alkoholem.",
-      notes: "Jeden z nielicznych czernidłaków pozostawionych w rodzaju Coprinus po rewizji filogenetycznej rodziny pieczarkowatych."
-    },
     it: {
       description: "Un fungo saprotrofo dei prati concimati, giardini, margini erbosi delle strade e parchi. È ampiamente diffuso nelle aree temperate del mondo.",
       cap: "Il cappello è alto 5–15 cm e largo 3–8 cm da giovane, di forma cilindrico-ovoide o a campana allungata. È bianco, ricoperto da larghe squame lanose o fioccose arricciate, con vertice liscio e ocraceo.",
@@ -10407,6 +10395,18 @@ export const CATALOG = [
       uses: "Les jeunes sporophores fermes constituent un excellent champignon comestible, à condition d'être cuisinés peu après la récolte tant que les lames sont encore blanches. Une fois cueillies, les lames noircissent rapidement et se dissolvent en une masse d'encre immangeable. Contrairement à Coprinopsis atramentaria, cette espèce ne contient pas de coprine.",
       confusion: "Dans son jeune âge, le coprin pie (Coprinopsis picacea) peut paraître semblable, mais la cuticule de son chapeau est brun foncé avec des plaques de voile blanc contrastées et il est toxique. Le coprin noir d'encre (Coprinopsis atramentaria) est plus petit, plus lisse et gris-brun, et contient de la coprine, qui provoque des intoxications lorsqu'elle est associée à l'alcool. En Amérique du Nord, la lépiote de Morgan (Chlorophyllum molybdites), toxique, a été confondue avec des sporophores non ouverts, et le champignon du désert Podaxis pistillaris est superficiellement similaire par sa forme.",
       notes: "Alors que la plupart des coprins ont été transférés sur des bases moléculaires dans les genres Coprinopsis, Coprinellus et Parasola au sein des Psathyrellaceae, cette espèce reste dans les Agaricaceae. Une évaluation de 2019 (modifiée en 2022) la classe comme préoccupation mineure (Least Concern). Son mycélium peut immobiliser et digérer les nématodes du sol."
+    },
+    pl: {
+      description: "Grzyb saprotroficzny rosnący na trawnikach, poboczach dróg, w parkach i na kompoście. Pospolity na całej półkuli północnej, w Europie, Azji i Ameryce Północnej. Zawleczony do Australii i Nowej Zelandii. Grzybnia wytwarza struktury paraliżujące nicienie glebowe.",
+      cap: "Kapelusz ma 5–15 cm wysokości (czasem do 20 cm) i 3–8 cm szerokości. Za młodu jest podłużnie jajowaty do cylindrycznego, później dzwonkowaty. Powierzchnia jest biała z ochrowym wierzchołkiem, pokryta dużymi, odstającymi, wełnistymi łuskami. W miarę dojrzewania brzeg kapelusza czernieje i rozpływa się w czarną ciecz zarodnikonośną (autoliza).",
+      hymenium: "Blaszki są wolne, bardzo gęste i szerokie. Początkowo są czysto białe, następnie różowieją, a na końcu czernieją i rozpływają się od dołu ku górze wraz z kapeluszem.",
+      stipe: "Trzon ma 10–30 cm wysokości i 1–2,5 cm grubości, jest cylindryczny, biały, jedwabisty, pusty w środku z luźnym pasmem włókien. Łatwo odłamuje się od kapelusza. Nosi wąski, ruchomy biały pierścień, który często zsuwa się na dół i barwi na czarno od spadających zarodników.",
+      flesh: "Miąższ jest biały, bardzo cienki i kruchy. Zapach i smak są delikatne i przyjemne.",
+      sporePrint: "Czarny do brązowoczarnego. Zarodniki są gładkie, elipsoidalne, o wymiarach 9–13 × 6,5–9,5 μm, z wyraźną porą rostkową.",
+      habitat: "Owocniki pojawiają się od kwietnia do listopada, najobficiej po ulewnych deszczach, w grupach lub czarcich kołach na trawnikach, skwerach, pastwiskach i żyznych glebach ruderalnych.",
+      uses: "Młode, całkowicie białe owocniki są wybornym grzybem jadalnym. Wymagają szybkiej obróbki cieplnej zaraz po zebraniu, gdyż proces autolizy zachodzi bardzo szybko. W przeciwieństwie do czernidłaka pospolitego (Coprinopsis atramentaria) nie zawiera kopryny i można go łączyć z alkoholem.",
+      confusion: "Czernidłak pstry (Coprinopsis picacea) ma kapelusz ciemnobrązowy z dużymi białymi płatami i jest trujący. Czernidłak pospolity (Coprinopsis atramentaria) jest gładki, szarobrązowy i zawiera koprynę powodującą zatrucia po spożyciu alkoholu. Chlorophyllum molybdites w Ameryce Północnej bywa mylony w stanie nierozwiniętym.",
+      notes: "Kategoria LC (Least Concern) według oceny z 2019 roku."
     }
     },
     sources: {
@@ -10765,18 +10765,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%93%D0%BD%D0%BE%D1%88%D0%B2%D0%B8%D0%BA_%D1%87%D1%83%D0%B1%D0%B0%D1%82%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Czernidłak_kołpakowaty"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -10816,6 +10804,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Czernidłak_kołpakowaty"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -10930,10 +10930,10 @@ export const CATALOG = [
       bg: 'дипленка',
       ru: "строчок обыкновенный",
       uk: "строчок звичайний",
-      pl: "piestrzenica kasztanowata",
       it: "falsa spugnola",
       hu: "redős papsapkagomba",
-      fr: "fausse morille"
+      fr: "fausse morille",
+      pl: "piestrzenica kasztanowata"
     },
     names: {
       en: ["turban fungus", "brain mushroom", "beefsteak morel", "elephant ears", "rain mushroom"],
@@ -11203,17 +11203,6 @@ export const CATALOG = [
       confusion: "Зморшок їстівний (Morchella esculenta) має чітко розмежовані бджолині комірки, поздовжні ребра й одну суцільну порожнину всередині шапинки та ніжки.",
       notes: "Попри смертельну отруйність, у деяких країнах Північної Європи зберігається історична практика його продажу за суворих попереджень."
     },
-    pl: {
-      description: "Wiosenny grzyb workowy piaszczystych lasów sosnowych. Rozpowszechniony w chłodniejszych rejonach Europy i Ameryki Północnej.",
-      cap: "Główka (kapelusz) ma 5–15 cm szerokości i 4–8 cm wysokości. Jest nieregularnie pofałdowana, przypominająca zwoje mózgowe, o barwie kasztanowobrązowej, czerwonobrązowej do ciemnobrązowej. Wewnątrz jest pusta, z licznymi komorami i zrośnięta z trzonem w kilku miejscach.",
-      hymenium: "Warstwa zarodnikonośna (hymenium) pokrywa zewnętrzną, pofałdowaną powierzchnię główki. Worki zawierają po osiem askospor.",
-      stipe: "Trzon ma 2–5 cm wysokości i 2–3 cm grubości, jest białawy, brudnokremowy, krótki, pobrużdżony i nieregularnie komorowaty w środku.",
-      flesh: "Miąższ jest woskowaty, cienki, kruchy, białawy. Zapach i smak są słabe, niemagnetyzujące.",
-      sporePrint: "Żółtawopłowy do białawego. Zarodniki (askospory) są elipsoidalne, gładkie, przezroczyste (hialinowe), o długości około 18–23 μm.",
-      habitat: "Owocniki pojawiają się wiosną, od kwietnia do maja, często wkrótce po stopnieniu śniegu. Rośnie na piaszczystych glebach w suchych borach sosnowych, na porębach i przydrożach.",
-      uses: "Grzyb śmiertelnie trujący. Zawiera gyromitrynę, która w organizmie przekształca się w silnie toksyczną monometylohydrazynę (uszkadzającą wątrobę, nerki i układ nerwowy). Ani suszenie, ani gotowanie nie usuwa całkowicie trucizny, a wdychanie oparów podczas gotowania również wywołuje zatrucia.",
-      confusion: "Smardz jadalny (Morchella esculenta) ma kapelusz z regularnymi jamkami przypominającymi plaster miodu i jedną wspólną, pustą komorę wewnątrz. Piestrzenica olbrzymia (Gyromitra gigas) jest jaśniejsza, żółtobrązowa i ma większe zarodniki z wyrostkami na biegunach. Piestrzyca kędzierzawa (Helvella crispa) pojawia się jesienią i ma siodłowaty kapelusz oraz żebrowany trzon."
-    },
     it: {
       description: "Un ascomicete primaverile delle pinete su suoli sabbiosi. È diffuso nell'Europa settentrionale e orientale e nelle zone montane temperate.",
       cap: "Il cappello o mitra misura 5–15 cm di larghezza e 4–8 cm di altezza. È di colore bruno-rossastro o marrone castano, tipicamente lobato e ripiegato in convoluzioni sinuose che ricordano la superficie del cervello umano.",
@@ -11247,6 +11236,17 @@ export const CATALOG = [
       habitat: "Les sporophores apparaissent d'avril jusqu'en juillet, et ils peuvent sortir à la fonte des neiges. Il pousse sur sol sablonneux dans les bois de conifères, le plus souvent sous les pins et parfois sous les trembles, et souvent là où le sol a été remanié.",
       uses: "Il est mortellement toxique lorsqu'il est cru ou mal préparé. Il contient de la gyromitrine, qui s'hydrolyse dans l'organisme en un composé toxique, la monométhylhydrazine (MMH), endommageant le foie, le système nerveux central et les globules rouges. Bien que les sporophores aient été traditionnellement consommés en Scandinavie et en Europe orientale après des ébullitions répétées avec changement d'eau, l'ébullition n'élimine pas de manière fiable la totalité de la toxine, inhaler les vapeurs de cuisson peut en soi provoquer une intoxication, et la répétition des repas permet à la toxine de s'accumuler.",
       confusion: "La morille commune (Morchella esculenta) possède un chapeau profondément alvéolé et une unique cavité continue, et son pied est généralement plus long. L'helvelle crépue (Helvella crispa) présente un chapeau en forme de selle blanc crème et un pied parcouru de cavités longitudinales. Gyromitra gigas, Gyromitra infula et Gyromitra ambigua sont similaires, et les deux dernières sont toxiques."
+    },
+    pl: {
+      description: "Wiosenny grzyb saprotroficzny rosnący w piaszczystych lasach iglastych. Szeroko rozprzestrzeniony w Europie, gdzie częściej występuje w rejonach górskich niż na nizinach, oraz w Ameryce Północnej. W Wielkiej Brytanii i Irlandii jest gatunkiem bardzo rzadkim i lokalnym.",
+      cap: "Główka (kapelusz) ma 5–15 cm szerokości i 4–8 cm wysokości, jest nieregularnie pofałdowana, mózgowata, czerwonobrązowa do kasztanowobrązowej. Zazwyczaj jest szersza niż wyższa. Wewnątrz główki znajdują się nieregularne, puste komory.",
+      hymenium: "Warstwa zarodnikonośna (hymenium) pokrywa zewnętrzną powierzchnię pofałdowanej główki. Początkowo jest gładka, z wiekiem staje się głęboko pofałdowana i pozwijana. Brzeg jest podwinięty i przyrośnięty do trzonu.",
+      stipe: "Trzon ma 2–5 cm wysokości i 2–3 cm grubości, jest białawy do kremowego, kruchy i pomarszczony. Wewnątrz zawiera liczne nieregularne, rurkowate komory.",
+      flesh: "Miąższ jest woskowaty, bardzo kruchy, białawy. Zapach i smak są niewyróżniające się.",
+      sporePrint: "Żółtawopłowy do białawego. Zarodniki (askospory) są elipsoidalne, gładkie i bezbarwne, o wymiarach 18–23 × 10–12,5 μm (niekiedy do 25 μm), zazwyczaj z dwoma kroplami tłuszczu. Worki są cylindryczne, 8-zarodnikowe, o wymiarach 180–220 × 15–17 μm.",
+      habitat: "Owocniki wyrastają od kwietnia do lipca, niekiedy tuż po stopnieniu śniegu. Rośnie na piaszczystych glebach w borach sosnowych, rzadziej pod osikami, często na miejscach naruszonych, przy leśnych drogach i zrębach.",
+      uses: "Grzyb śmiertelnie trujący w stanie surowym lub niewłaściwie przyrządzonym. Zawiera gyromitrynę, która w organizmie hydrolizuje do toksycznej monometylohydrazyny (MMH), niszczącej wątrobę, ośrodkowy układ nerwowy i krwinki czerwone. Choć dawniej bywała spożywana po wielokrotnym obgotowywaniu z odlewaniem wywaru, gotowanie nie usuwa toksyny w sposób pewny, wdychanie oparów podczas gotowania wywołuje zatrucia, a toksyna kumuluje się w organizmie.",
+      confusion: "Smardz jadalny (Morchella esculenta) ma główkę jamkowatą z regularnymi żebrami, jedną ciągłą komorę wewnątrz i dłuższy trzon. Piestrzenica olbrzymia (Gyromitra gigas) ma jaśniejszy, żółtobrązowy kapelusz. Piestrzenica infułowata (Gyromitra infula) owocuje jesienią i ma główkę w kształcie siodła lub infuły."
     }
     },
     sources: {
@@ -11590,18 +11590,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%BE%D1%87%D0%BE%D0%BA_%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9%D0%BD%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Piestrzenica_kasztanowata"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -11641,6 +11629,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Piestrzenica_kasztanowata"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -11750,10 +11750,10 @@ export const CATALOG = [
       bg: 'бисерна гъба',
       ru: "мухомор серо-розовый",
       uk: "мухомор сіро-рожевий",
-      pl: "muchomor czerwieniejący",
       it: "tignosa vinata",
       hu: "piruló galóca",
-      fr: "amanite rougissante"
+      fr: "amanite rougissante",
+      pl: "muchomor czerwieniejący"
     },
     names: {
       en: ["blushing amanita"]
@@ -12027,18 +12027,6 @@ export const CATALOG = [
       confusion: "Мухомор пантерний (Amanita pantherina) смертельно отруйний, його м'якуш ніколи не червоніє, кільце гладеньке, а бульба має чітку облямівку. Мухомор товстий (Amanita excelsa) має білий незмінний м'якуш і редьковий запах.",
       notes: "Існує форма із сірчано-жовтим кільцем, ідентична за іншими ознаками."
     },
-    pl: {
-      description: "Grzyb ektomikoryzowy lasów liściastych i iglastych, często rosnący na uboższych glebach kwaśnych. Bardzo pospolity w Europie.",
-      cap: "Kapelusz ma 5–20 cm średnicy. Barwa waha się od bladoróżowawej, czerwonobrązowej do mięsnobrązowej. Pokryty jest licznymi szarawymi lub brudnoróżowymi łatkami osłony.",
-      hymenium: "Blaszki są białe, gęste, wolne, po uszkodzeniu i u starych owocników pokrywające się czerwonawymi lub rdzawymi plamkami.",
-      stipe: "Trzon ma 7–15 cm długości i 1–2 cm grubości. Powyżej pierścienia jest białawy i wyraźnie podłużnie prążkowany, poniżej brudnoczerwonawy. Posiada duży, zwisający, prążkowany pierścień. Podstawa trzonu jest bulwiasta, bez wyraźnej wolnej pochwy, często z czerwonawymi plamami żerowania owadów.",
-      flesh: "Miąższ jest biały, lecz po przekrojeniu lub uszkodzeniu powoli, lecz wyraźnie czerwienieje i różowieje (zwłaszcza w bulwie i pod skórką). Zapach jest słaby, a smak łagodny.",
-      sporePrint: "Biały. Zarodniki są gładkie, szerokoelipsoidalne, o wymiarach około 8–9 × 5–5,5 μm, amyloidalne.",
-      habitat: "Owocniki pojawiają się od czerwca do listopada. Rośnie w lasach liściastych, iglastych i mieszanych, pod dębami, bukami, sosnami i świerkami.",
-      uses: "Grzyb jadalny po dokładnej obróbce cieplnej. W stanie surowym jest trujący, gdyż zawiera termolabilną hemolizynę rozpuszczającą czerwone krwinki. Wymaga smażenia lub gotowania przez co najmniej kilkanaście minut.",
-      confusion: "Śmiertelnie trujący muchomor plamisty (Amanita pantherina) ma miąższ niezmiennie biały, gładki pierścień, rynienkowatą bulwę i czysto białe łatki. Muchomor twardawy (Amanita excelsa) ma miąższ nieczerwieniejący i zapach rzodkwi. Zbieranie tego grzyba wymaga dużej wprawy z uwagi na niebezpieczeństwo pomyłki z muchomorami trującymi.",
-      notes: "Jedna z form ma siarkowożółty pierścień."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi di latifoglie e conifere. È molto comune e abbondante in tutta Europa.",
       cap: "Il cappello misura 5–20 cm di diametro. È emisferico poi convesso e spianato, di colore bruno-rossiccio, vinato o nocciola, coperto da numerose verruche grigio-rosate o brunastre. Il margine è liscio e privo di striature.",
@@ -12074,6 +12062,18 @@ export const CATALOG = [
       uses: "Il ne se consomme qu'après une cuisson approfondie. La chair crue contient une toxine hémolytique thermolabile qui peut provoquer une anémie, et une cuisson complète détruit cette toxine. Les sporophores ressemblent à des amanites vénéneuses.",
       confusion: "L'amanite épaisse (Amanita excelsa) possède une chair qui ne change pas de couleur à la coupe, et beaucoup de ses sporophores ressemblent par ailleurs à une forme pâle de ce champignon. L'amanite panthère (Amanita pantherina) a un chapeau brun orné de fragments de voile d'un blanc pur, une volve à rebord régulier en bourrelet et une chair qui ne rougit pas. Une amanite tue-mouches (Amanita muscaria) délavée peut être brun orangé ou jaune pâle, avec des fragments de voile blancs et une chair immuable. L'oronge ou amanite des Césars (Amanita caesarea) possède un chapeau orange éclatant à marge striée et un pied jaune, et ne se rencontre que rarement en dehors du sud de l'Europe.",
       notes: "Une forme possède un anneau jaune soufre et est par ailleurs identique."
+    },
+    pl: {
+      description: "Grzyb ektomikoryzowy lasów liściastych i iglastych, wyrastający często w małych grupach na ubogiej, kwaśnej glebie. Bardzo pospolity w Wielkiej Brytanii, Irlandii i Europie kontynentalnej, rodzimy w Europie i Azji. W Południowej Afryce uznawany za zawleczony wraz z sadzonymi drzewami. Doniesienia z Ameryki Północnej traktowane są jako inne gatunki.",
+      cap: "Kapelusz ma 5–20 cm średnicy, choć niektóre dojrzałe kapelusze osiągają zaledwie około 2,5 cm. Barwa waha się od niemal białej przez różową i brązową do prawie czarnej, często z brązoworóżowym odcieniem. Nieregularne, białawe lub szare łatki osłony całkowitej zazwyczaj pozostają na powierzchni, lecz ulewny deszcz może je zmyć. Kapelusz początkowo jest łukowaty, później spłaszcza się, czasami stając się lekko lejkowaty.",
+      hymenium: "Blaszki są białe, gęste, przyrośnięte do niemal wolnych. Na dojrzałych owocnikach bywają nakrapiane na różowo lub rdzawoczerwono, a po dotknięciu przebarwiają się na różowo lub matowoczerwono.",
+      stipe: "Trzon ma 7–15 cm długości i 1–2 cm grubości. Jest biały powyżej pierścienia i czerwonobrązowy poniżej, często z ciemnoróżowymi cętkami. Cienki, delikatny, zwisający pierścień jest zazwyczaj podłużnie karbowany i często poszarpany. Podstawa jest bulwiasta. Wyraźna pochwa widoczna jest tylko u bardzo młodych owocników i nie pozostawia pierścieniowatych stref wokół podstawy. Z wiekiem trzon staje się pusty.",
+      flesh: "Miąższ jest biały. Po przekrojeniu lub uszkodzeniu miąższ kapelusza i trzonu przebarwia się na ciemnoróżowo lub brudnoczerwono. Świeży owocnik nie ma wyraźnego zapachu ani smaku. Starsze owocniki opanowane przez larwy owadów mogą pachnieć nieprzyjemnie.",
+      sporePrint: "Biały. Zarodniki są gładkie, szerokoelipsoidalne do jajowatych, o wymiarach 8–9 × 5–5,5 μm, barwiące się na niebieskoczarno w jodzie (amyloidalne).",
+      habitat: "Owocniki pojawiają się od czerwca do października w Wielkiej Brytanii i Irlandii, a podczas łagodnej aury nawet w grudniu. Rośnie w mikoryzie z drzewami liściastymi i iglastymi, szczególnie obficie w borach iglastych.",
+      uses: "Może być spożywany wyłącznie po dokładnej obróbce cieplnej. Surowy miąższ zawiera termolabilną toksynę hemolityczną wywołującą anemię, którą niszczy dokładne gotowanie lub smażenie. Owocniki są łudząco podobne do trujących gatunków muchomorów.",
+      confusion: "Muchomor twardawy (Amanita excelsa) ma miąższ niezmieniający barwy po przekrojeniu, a wiele jego owocników przypomina bladą formę tego gatunku. Muchomor plamisty (Amanita pantherina) ma brązowy kapelusz z czysto białymi łatkami, gładką, wałeczkowatą krawędź pochwy i miąższ, który nie różowieje. Wyblakły muchomor czerwony (Amanita muscaria) może być pomarańczowobrązowy lub bladożółty, z białymi łatkami i nieróżowiejącym miąższem. Muchomor cesarski (Amanita caesarea) ma jaskrawopomarańczowy kapelusz o prążkowanym brzegu i żółty trzon; rzadko występuje poza Europą Południową.",
+      notes: "Jedna z form posiada siarkowożółty pierścień, poza tym nie różni się cechami."
     }
     },
     sources: {
@@ -12399,18 +12399,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%9C%D1%83%D1%85%D0%BE%D0%BC%D0%BE%D1%80_%D1%81%D1%96%D1%80%D0%BE-%D1%80%D0%BE%D0%B6%D0%B5%D0%B2%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Muchomor_czerwieniejący"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -12450,6 +12438,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Muchomor_czerwieniejący"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -12563,10 +12563,10 @@ export const CATALOG = [
       bg: 'отровна пънчушка',
       ru: "ложноопёнок серно-жёлтый",
       uk: "опеньок несправжній сірчано-жовтий",
-      pl: "maślanka wiązkowa",
       it: "falso chiodino",
       hu: "sárga kénvirággomba",
-      fr: "hypholome en touffes"
+      fr: "hypholome en touffes",
+      pl: "maślanka wiązkowa"
     },
     names: {
       en: ["sulfur tuft", "clustered woodlover"]
@@ -12833,17 +12833,6 @@ export const CATALOG = [
       confusion: "Опеньок осінній справжній (Armillaria mellea) має лускату шапинку, білі або кремові пластинки, білий споровий порошок і справжнє кільце. Опеньок несправжній цегляно-червоний (Hypholoma lateritium) більший, має цегляно-червоний центр шапинки й менш виражену гіркоту.",
       notes: "Гіркота зберігається навіть після тривалого варіння."
     },
-    pl: {
-      description: "Nadrzewny grzyb saprotroficzny rozwijający się na pniakach, korzeniach i martwym drewnie, tworzący gęste wiązki. Niezwykle pospolity w całej Europie i Ameryce Północnej.",
-      cap: "Kapelusz ma 2–7 cm średnicy. Jest siarkowożółty, na środku często rdzawobrązowy lub pomarańczowy, początkowo półkolisty, potem wypukły z tępym garbkiem. Na brzegu często widoczne są drobne, ciemne resztki osłony.",
-      hymenium: "Blaszki są gęste i przyrośnięte. Początkowo siarkowożółte, z wiekiem stają się charakterystycznie oliwkowozielone, a w końcu ciemnooliwkowobrązowe do fioletowoczarnych.",
-      stipe: "Trzon ma 5–12 cm długości i 0,5–1 cm grubości, jest żółtawy u góry i rdzawobrązowy ku dołowi, giętki, pusty, zazwyczaj wygięty z powodu gęstego wzrostu w kępach. Pozostałości osłony tworzą szybko zanikającą strefę pierścieniową.",
-      flesh: "Miąższ w kapeluszu jest siarkowożółty, jędrny. Zapach jest słaby, grzybowy, a smak nieznośnie i trwale gorzki.",
-      sporePrint: "Fioletowobrązowy. Zarodniki są elipsoidalne, gładkie, o wymiarach około 6–7,8 × 4–4,5 μm, z małą porą rostkową.",
-      habitat: "Owocniki pojawiają się niemal przez cały rok, najobficiej od maja do listopada. Wyrasta w wielkich wiązkach na pniakach i butwiejącym drewnie drzew liściastych i iglastych.",
-      uses: "Grzyb trujący z powodu silnej goryczy oraz zawartości toksyn powodujących zapalenie żołądka i jelit. Spożycie wywołuje nudności, wymioty, biegunkę, osłabienie i zaburzenia widzenia.",
-      confusion: "Maślanka ceglasta (Hypholoma lateritium) ma kapelusz ceglastoczerwony i rośnie zazwyczaj na drewnie drzew liściastych. Maślanka łagodna (Hypholoma capnoides) rośnie na drewnie iglastym, ma blaszki szaroniebieskawe (bez zielonkawego odcienia) i łagodny, przyjemny smak (jest jadalna). Łuskwiak zmienny (Kuehneromyces mutabilis) ma brązowy, łuskowaty trzon poniżej pierścienia i cynamonowobrązowe blaszki."
-    },
     it: {
       description: "Un fungo saprotrofo lignicolo che cresce in fitti cespi su ceppaie, tronchi morti e radici di latifoglie e conifere. È uno dei funghi boschivi più comuni in Europa.",
       cap: "Il cappello misura 2–7 cm di diametro. È convesso poi appianato, di colore giallo zolfo brillante con centro fulvo-aranciato, con residui fibrillosi di cortina al bordo da giovane.",
@@ -12877,6 +12866,17 @@ export const CATALOG = [
       habitat: "Les sporophores apparaissent tout au long de l'année et se montrent particulièrement abondants de juin à novembre. Il pousse sur les souches, les troncs abattus et autres bois morts de feuillus, et moins fréquemment de conifères. Les touffes qui semblent pousser dans l'herbe sont en réalité fixées sur du bois enfoui. Il fructifie parfois sur le tronc creux d'un arbre vivant.",
       uses: "La saveur est très amère. Un repas peut provoquer des douleurs d'estomac, des nausées, des vomissements, de la diarrhée, une paralysie temporaire et des troubles de la vision, généralement cinq à dix heures plus tard. L'intoxication disparaît habituellement en quelques jours et n'est que très rarement mortelle. Un cas mortel rapporté faisait suite à un repas qui contenait également d'autres champignons.",
       confusion: "L'hypholome couleur de brique (Hypholoma lateritium) possède un chapeau rouge brique et ses lames jaunes virent au brun olivâtre plutôt qu'au vert olive. L'hypholome à lames enfumées (Hypholoma capnoides) pousse sur le bois de conifères, a une chair à saveur douce et présente des lames gris fumée pâle sans aucune teinte verte."
+    },
+    pl: {
+      description: "Grzyb nadrzewny wywołujący rozkład drewna, wyrastający w gęstych kępach na pniakach i powalonych pniach. Bardzo pospolity w Wielkiej Brytanii, Irlandii i większości krajów Europy kontynentalnej, zwłaszcza na północy i w centrum. Pospolity także w Ameryce Północnej oraz notowany w Iranie i wschodniej Anatolii.",
+      cap: "Kapelusz ma 2–7 cm średnicy. Jest siarkowożółty, często płowy lub rdzawy w środku, wypukły lub z niewielkim garbkiem. Ciemne szczątki osłony przyrastają do brzegu kapelusza.",
+      hymenium: "Blaszki są gęste i przyrośnięte. Początkowo są siarkowożółte, później oliwkowozielone, a w miarę dojrzewania zarodników ciemnieją do fioletowoczarnych.",
+      stipe: "Trzon ma barwę zbliżoną do kapelusza, ku podstawie staje się bardziej brązowy. Osiąga 5–12 cm długości i 0,5–1 cm grubości, zazwyczaj jest wygięty.",
+      flesh: "Miąższ w kapeluszu jest siarkowożółty i dość jędrny. Zapach jest grzybowy, niewyróżniający się. Smak jest bardzo gorzki.",
+      sporePrint: "Purpurowobrązowy. Zarodniki są elipsoidalne i gładkie, o wymiarach 6–7,8 × 4–4,5 μm, z małą porą rostkową.",
+      habitat: "Owocniki pojawiają się przez cały rok, najobficiej od czerwca do listopada. Rośnie na pniakach, ściętych pniach i innym martwym drewnie drzew liściastych, rzadziej iglastych. Kępy sprawiające wrażenie rosnących w trawie rozwijają się na zagrzebanym w ziemi drewnie. Czasami owocuje w dziuplach żywych drzew.",
+      uses: "Smak jest bardzo gorzki. Spożycie posiłku z tego grzyba może wywołać silny ból brzucha, nudności, wymioty, biegunkę, przejściowy paraliż i zaburzenia widzenia, zazwyczaj w ciągu 5–10 godzin. Objawy ustępują zazwyczaj po kilku dniach; zatrucie śmiertelne jest wyjątkowo rzadkie. Jeden odnotowany zgon nastąpił po posiłku zawierającym także inne gatunki grzybów.",
+      confusion: "Maślanka ceglasta (Hypholoma lateritium) ma ceglastoczerwony kapelusz, a jej żółte blaszki stają się raczej oliwkowobrązowe niż oliwkowozielone. Maślanka łagodna (Hypholoma capnoides) rośnie na drewnie iglastym, ma łagodny smak i blado przydymione, szare blaszki bez żadnego zielonkawego odcienia."
     }
     },
     sources: {
@@ -13195,18 +13195,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%9E%D0%BF%D0%B5%D0%BD%D1%8C%D0%BE%D0%BA_%D0%BD%D0%B5%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B6%D0%BD%D1%96%D0%B9_%D1%81%D1%96%D1%80%D1%87%D0%B0%D0%BD%D0%BE-%D0%B6%D0%BE%D0%B2%D1%82%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Maślanka_wiązkowa"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -13246,6 +13234,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Maślanka_wiązkowa"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -13369,10 +13369,10 @@ export const CATALOG = [
       bg: 'полска печурка',
       ru: "шампиньон обыкновенный",
       uk: "печериця лугова",
-      pl: "pieczarka łąkowa",
       it: "prataiolo comune",
       hu: "mezei csiperke",
-      fr: "agaric champêtre"
+      fr: "agaric champêtre",
+      pl: "pieczarka łąkowa"
     },
     names: {
       en: ["meadow mushroom", "pink bottom"],
@@ -13405,10 +13405,10 @@ export const CATALOG = [
       ro: ['șampinion de câmp'],
       ru: ["печерица","шампиньон луговой"],
       uk: ["печериця звичайна"],
-      pl: ["pieczarka polna"],
       it: ["prataiolo"],
       hu: ["kerti csiperke"],
-      fr: ["rosé-des-prés"]
+      fr: ["rosé-des-prés"],
+      pl: ["pieczarka polna"]
     },
     text: {
       tr: {
@@ -13672,18 +13672,6 @@ export const CATALOG = [
       confusion: "Печериця жовтошкіра (Agaricus xanthodermus) отруйна, швидко яскраво жовтіє від натискання (особливо в основі ніжки) і має різкий неприємний карболовий запах. Смертельно отруйна бліда поганка (Amanita phalloides) має постійно чисто-білі пластинки, білий споровий порошок та вольву в основі ніжки.",
       notes: "Популяції на схід від Скелястих гір у Північній Америці належать до споріднених видів."
     },
-    pl: {
-      description: "Grzyb saprotroficzny łąk, pastwisk, trawników i ogrodów, rzadko spotykany w lasach. Pospolity w Europie i strefie umiarkowanej.",
-      cap: "Kapelusz ma 3–10 cm średnicy, jest biały do kremowobiałego, początkowo półkolisty do wypukłego, z wiekiem spłaszcza się. Powierzchnia jest sucha, gładka lub jedwabiście włóknista, czasem drobno łuskowata.",
-      hymenium: "Blaszki są wolne i gęste. U młodych owocników osłonięte białą osłoną, mają barwę żywo różową, z wiekiem stają się ciemnoróżowe, a w końcu ciemnoczekoladowobrązowe do prawie czarnych.",
-      stipe: "Trzon ma 3–10 cm wysokości i 1–2 cm grubości, jest biały, cylindryczny, zwężający się ku podstawie. Posiada wąski, biały, delikatny pierścień, który łatwo odpada.",
-      flesh: "Miąższ jest gruby, jędrny, biały, po przekrojeniu niekiedy słabo różowieje, lecz nigdy nie żółknie. Zapach i smak są bardzo przyjemne, grzybowe.",
-      sporePrint: "Ciemnoczekoladowobrązowy. Zarodniki są owalne do elipsoidalnych, gładkie, o wymiarach około 6,5–9 × 4–6 μm.",
-      habitat: "Owocniki pojawiają się od czerwca do października, zazwyczaj po obfitych deszczach, pojedynczo, w grupach lub czarcich kołach na nawożonych łąkach, pastwiskach i polach.",
-      uses: "Wyborny grzyb jadalny, chętnie zbierany i ceniony za delikatny smak. Nadaje się do smażenia, zup, sosów i duszenia, podobnie jak pieczarka hodowlana.",
-      confusion: "Pieczarka karbolowa (Agaricus xanthodermus) jest trująca; żółknie intensywnie po zadrapaniu (zwłaszcza w bulwie trzonu) i wydziela ostry zapach karbolu (atramentu/apteki). Śmiertelnie trujące białe muchomory (Amanita phalloides var. alba, Amanita virosa, Amanita verna) mają blaszki niezmiennie czysto białe, trwałą pochwę u podstawy trzonu i biały wysyp zarodników.",
-      notes: "Kolekcje sekwencjonowane w Ameryce Północnej wykazują obecność bliskich gatunków siostrzanych."
-    },
     it: {
       description: "Un fungo saprotrofo dei pascoli, prati concimati, giardini ed erbai. È ampiamente diffuso in Europa, Asia e Nord America.",
       cap: "Il cappello misura 3–10 cm di diametro, bianco o crema pallido, emisferico poi convesso e spianato, a superficie liscia o leggermente fibrilloso-squamosa col secco.",
@@ -13719,6 +13707,17 @@ export const CATALOG = [
       uses: "C'est un excellent champignon comestible lorsqu'il est cuit et consommé avec modération. Il s'utilise de la même manière que le champignon de Paris de culture, sauté ou poêlé, en risotto, en omelettes, en soupes et en sauces. Parce que les sporophores mûrissent vite et ont une courte durée de conservation, l'espèce n'est pas cultivée commercialement. Les spécimens récoltés le long des routes fréquentées doivent être évités car ils bioaccumulent les métaux lourds et les polluants. Historiquement, dans certaines régions d'Écosse, des tranches étaient appliquées en cataplasme sur les échaudures, les brûlures et les ulcères.",
       confusion: "L'agaric jaunissant (Agaricus xanthodermus) jaunit intensément en jaune chrome brillant sur la cuticule du chapeau et surtout à la base du pied à la coupe, dégage une odeur de phénol ou d'encre et provoque des intoxications gastro-intestinales. L'agaric des jachères ou boule-de-neige (Agaricus arvensis) est plus grand, jaunit faiblement au froissement, sent l'anis et est comestible. L'agaric des trottoirs (Agaricus bitorquis) possède un anneau double et pousse sur sol compacté le long des chemins. Les mortelles amanite vireuse (Amanita virosa), amanite printanière (Amanita verna) et formes blanches de l'amanite phalloïde (Amanita phalloides) possèdent une volve en sac à la base, des lames durablement blanches et une sporée blanche. Des espèces toxiques de clitocybes blancs (Clitocybe) poussant dans l'herbe possèdent des lames blanches décurrentes. En Amérique du Nord, les espèces toxiques agaric de Californie (Agaricus californicus) et agaric de Felt (Agaricus hondensis), ainsi que les espèces comestibles agaric d'Andrew (Agaricus andrewii) et agaric à pied plein (Agaricus solidipes), sont similaires.",
       notes: "Les récoltes séquencées à l'est des montagnes Rocheuses appartiennent à des espèces apparentées, et dans l'ouest de l'Amérique du Nord, le nom est appliqué provisoirement. Une évaluation de 2018 (publiée en 2019, avec un erratum en 2022) le classe comme préoccupation mineure (Least Concern). Des extraits aqueux ont montré une activité de type insuline sur le métabolisme du glucose in vitro."
+    },
+    pl: {
+      description: "Grzyb saprotroficzny wypasanych łąk, trawników i innych terenów trawiastych, rzadko spotykany w lasach. Szeroko rozprzestrzeniony i pospolity w Wielkiej Brytanii, Irlandii oraz w większości krajów Europy. Notowany również z północnej i południowej Afryki, Azji, Ameryki Północnej oraz Nowej Zelandii.",
+      cap: "Kapelusz ma 4–10 cm średnicy (niekiedy 3–12 cm). Początkowo jest półkulisty, z wiekiem spłaszcza się do wypukłego lub niemal płaskiego. Jest biały, niekiedy z wiekiem lub po ugnieceniu lekko brązowiejący, suchy i jedwabisty, gładki lub z drobnymi, przylegającymi łuseczkami. Brzeg początkowo podwinięty, często ze zwisającymi białymi strzępkami osłony.",
+      hymenium: "Blaszki są wolne, gęste i dość szerokie. Początkowo są jaskraworóżowe, później ciemnoróżowe, a w stanie dojrzałym ciemnoczekoladowobrązowe do prawie czarnych. Ostrza blaszek są jaśniejsze.",
+      stipe: "Trzon ma 3–8 cm długości i 1–2 cm grubości, jest cylindryczny lub lekko zwężający się ku podstawie, biały i gładki. Nosi pojedynczy, cienki, biały pierścień umieszczony w środkowej części, który jest nietrwały i często odpada u starszych okazów. Brak pochwy u podstawy.",
+      flesh: "Miąższ jest gruby, biały, po przekrojeniu nie zmienia barwy lub słabo, powoli różowieje. Zapach i smak są przyjemne, grzybowe.",
+      sporePrint: "Ciemnobrązowy (czekoladowobrązowy). Zarodniki są gładkie, elipsoidalne, o wymiarach 5,5–8 × 4–5,5 μm, bez pory rostkowej.",
+      habitat: "Owocniki pojawiają się od późnego lata do jesieni (od sierpnia do listopada w Europie), pojedynczo, w grupach lub czarcich kołach na nawożonych, wypasanych pastwiskach, trawnikach i polnych miedzach.",
+      uses: "Wyborny grzyb jadalny, powszechnie zbierany i wysoko ceniony. Doskonały do smażenia, zup i duszenia. Nie jest uprawiany komercyjnie, gdyż w uprawie towarowej zastępuje go pieczarka dwuzarodnikowa (Agaricus bisporus).",
+      confusion: "Pieczarka karbolowa (Agaricus xanthodermus) natychmiast żółknie u podstawy trzonu po przekrojeniu i pachnie nieprzyjemnie karbolem lub atramentem (trująca). Muchomor zielonawy (Amanita phalloides) oraz białe muchomory (Amanita virosa, Amanita verna) mają zawsze czysto białe blaszki, biały wysyp zarodników i workowatą pochwę u podstawy trzonu (śmiertelnie trujące)."
     }
     },
     sources: {
@@ -14066,18 +14065,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%9F%D0%B5%D1%87%D0%B5%D1%80%D0%B8%D1%86%D1%8F_%D0%BB%D1%83%D0%B3%D0%BE%D0%B2%D0%B0"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Pieczarka_łąkowa"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -14117,6 +14104,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Pieczarka_łąkowa"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -14235,10 +14234,10 @@ export const CATALOG = [
       bg: 'брезовка',
       ru: "подберёзовик обыкновенный",
       uk: "підберезовик",
-      pl: "koźlarz babka",
       it: "leccino",
       hu: "barna érdestinóru",
-      fr: "bolet rude"
+      fr: "bolet rude",
+      pl: "koźlarz babka"
     },
     names: {
       en: ["birch bolete", "rough-stemmed bolete", "scaber stalk"],
@@ -14508,17 +14507,6 @@ export const CATALOG = [
       confusion: "Підберезовик твердуватий (Leccinum duriusculum) росте під тополями та осиками й має м'якуш, який рожевіє, а потім чорніє на зрізі. Гірчак жовчний (Tylopilus felleus) має рожеві пори, сіточку на ніжці й гіркий смак.",
       notes: "Один із найпопулярніших збираних грибів лісової смуги."
     },
-    pl: {
-      description: "Grzyb ektomikoryzowy związany wyłącznie z brzozami. Pospolity w lasach i zadrzewieniach brzozowych w całej Europie.",
-      cap: "Kapelusz ma 5–15 cm średnicy. Za młodu jest półkolisty, potem poduszkowato wypukły i spłaszczający się z wiekiem. Skórka ma barwę jasnobrązową, orzechową, szarobrązową do ciemnobrązowej, podczas wilgotnej pogody bywa lepka.",
-      hymenium: "Rurki mają 1–2 cm długości, są głęboko wycięte wokół trzonu. Pory są drobne, okrągłe, początkowo białawe, z wiekiem brudnoszare do szaroochrowych. Po uciśnięciu nie zmieniają barwy w wyraźny sposób.",
-      stipe: "Trzon ma 7–20 cm długości i 1,5–3,5 cm grubości, jest wysmukły, cylindryczny lub lekko rozszerzający się ku dołowi. Powierzchnia jest biała lub szarawa, gęsto pokryta ciemnobrązowymi do czarniawych łuseczkami.",
-      flesh: "Miąższ jest białawy, w kapeluszu początkowo jędrny, lecz szybko staje się miękki i gąbczasty, a w czasie deszczu wodnisty; w trzonie jest twardszy i włóknisty. Po przekrojeniu miąższ nie zmienia barwy lub bardzo słabo różowieje. Zapach i smak są łagodne.",
-      sporePrint: "Oliwkowobrązowy do tabaczkowego. Zarodniki są wąskoelipsoidalne do wrzecionowatych, gładkie, o wymiarach około 14–20 × 4,5–5,5 μm.",
-      habitat: "Owocniki pojawiają się od czerwca do listopada. Rośnie wyłącznie pod brzozami (Betula pendula, Betula pubescens), zarówno w lasach, jak i na bagnach oraz w zagajnikach.",
-      uses: "Smaczny grzyb jadalny po ugotowaniu, choć miąższ kapelusza szybko mięknie podczas gotowania. Zwykle suszy się go lub dodaje do dań duszonych i zup. Trzony starszych okazów bywają zbyt włókniste.",
-      confusion: "Inne gatunki koźlarzy związane z brzozami są podobne: koźlarz różowiejący (Leccinum roseofractum) ma miąższ silnie różowiący na przekroju, a koźlarz czarnobrązowy (Leccinum melaneum) ma znacznie ciemniejszy kapelusz. Goryczak żółciowy (Tylopilus felleus) ma ciemną siateczkę na trzonie zamiast łuseczek, różowiejące pory i jest bardzo gorzki."
-    },
     it: {
       description: "Un fungo ectomicorrizico strettamente legato alla betulla. È comune nei boschi e nei parchi di tutta l'Europa centrale e settentrionale.",
       cap: "Il cappello misura 5–15 cm di diametro. È emisferico poi convesso e appianato a cuscinetto. La cuticola è liscia, opaca, di colore bruno-grigiastro o bruno-fuliggine.",
@@ -14552,6 +14540,17 @@ export const CATALOG = [
       habitat: "Les sporophores apparaissent de juin à novembre. Ils poussent sur le sol exclusivement sous les bouleaux, notamment le bouleau verruqueux (Betula pendula) et le bouleau pubescent (Betula pubescens), dans les forêts, les landes et les parcs, ainsi que sous les bouleaux ornementaux plantés en Amérique du Nord, en Australie et en Nouvelle-Zélande.",
       uses: "Les sporophores jeunes et fermes sont comestibles après une cuisson approfondie, bien que la chair soit plus molle que celle du cèpe de Bordeaux (Boletus edulis) et que certains guides jugent sa consistance médiocre. Il s'utilise dans des plats de champignons mélangés, des soupes, ou séché, et en Finlande et en Russie, il est souvent conservé au vinaigre ou en saumure. Comme toutes les espèces du genre Leccinum, il ne doit jamais être consommé cru.",
       confusion: "Plusieurs autres espèces du genre Leccinum associées aux bouleaux sont similaires : le bolet à base bleuissante (Leccinum cyaneobasileucum) a une chair qui vire au bleu à la base du pied ; le bolet orangé (Leccinum versipelle) a un chapeau orange ocré, des méchules noirâtres et une chair qui prend des teintes bleu-vert ou gris violacé au froissement ; le bolet blanc des marais (Leccinum holopus) est entièrement blanchâtre à chamois verdâtre pâle ; le bolet ramoneur (Leccinum variicolor) possède un chapeau marbré et une base de pied qui vire au bleu-vert et au rouge corail ; et le bolet rude noir (Leccinum melaneum) possède un chapeau brun très sombre à noirâtre. Le bolet rude des peupliers (Leccinum duriusculum) a une chair plus ferme et pousse sous les peupliers et les trembles. Toutes les espèces de Leccinum peuvent causer des troubles gastro-intestinaux si elles sont consommées crues ou pas assez cuites."
+    },
+    pl: {
+      description: "Grzyb ektomikoryzowy rosnący w ścisłej symbiozie z brzozami. Bardzo pospolity w Europie, Azji Północnej i Ameryce Północnej. Zawleczony wraz z sadzonymi brzozami do Australii i Nowej Zelandii.",
+      cap: "Kapelusz ma 5–15 cm średnicy, początkowo jest półkulisty, później wypukły do poduchowatego. Barwa waha się od jasnoszarej, orzechowobrązowej do ciemnobrązowej. Skórka jest matowa, sucha, w czasie deszczu lekko lepka, gładka.",
+      hymenium: "Rurki są głęboko wycięte wokół trzonu, mają 1–2,5 cm długości. Pory są drobne, początkowo białawe do kremowych, z wiekiem szaroochrowe lub brudnoszare, pod naciskiem nie sinieją.",
+      stipe: "Trzon ma 7–20 cm długości i 1,5–3,5 cm grubości, zwęża się ku górze, jest smukły, białawy do jasnoszarego, gęsto pokryty drobnymi, podłużnie ułożonymi ciemnobrązowymi do czarnych łuseczkami. W podstawie bywa lekko zgrubiały.",
+      flesh: "Miąższ w kapeluszu jest biały, gruby, za młodu jędrny, z wiekiem staje się miękki i gąbczasty; w trzonie jest twardy i włóknisty. Po przekrojeniu nie zmienia barwy lub bardzo słabo, powoli różowieje. Zapach jest słaby, a smak łagodny.",
+      sporePrint: "Oliwkowobrązowy do tabaczkowobrązowego. Zarodniki są gładkie, wrzecionowate, o wymiarach 14–20 × 5–6,5 μm.",
+      habitat: "Owocniki pojawiają się od czerwca do października. Rośnie wyłącznie pod brzozami w lasach liściastych, mieszanych, na torfowiskach, wrzosowiskach i w parkach.",
+      uses: "Dobry grzyb jadalny po dokładnej obróbce cieplnej. W stanie surowym może powodować dolegliwości żołądkowe. W kuchni wykorzystuje się głównie kapelusze młodych owocników; starsze stają się zbyt wodniste, a trzony są łykowate. Podczas gotowania i suszenia miąższ czernieje.",
+      confusion: "Koźlarz różnobarwny (Leccinum variicolor) ma marmurkowy kapelusz i miąższ siniejący w podstawie trzonu. Koźlarz czarnogłowy (Leccinum melaneum) ma niemal czarny kapelusz i bardzo ciemny trzon. Goryczak żółciowy (Tylopilus felleus) ma ciemną siateczkę na trzonie (nie odstające łuseczki), różowiejące pory i gorzki smak."
     }
     },
     sources: {
@@ -14896,18 +14895,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%9F%D1%96%D0%B4%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BE%D0%B2%D0%B8%D0%BA"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Koźlarz_babka"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -14947,6 +14934,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Koźlarz_babka"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -15063,10 +15062,10 @@ export const CATALOG = [
       bg: 'масловка',
       ru: "маслёнок обыкновенный",
       uk: "маслюк звичайний",
-      pl: "maślak zwyczajny",
       it: "pinarolo",
       hu: "barna gyűrűstinóru",
-      fr: "bolet jaune"
+      fr: "bolet jaune",
+      pl: "maślak zwyczajny"
     },
     names: {
       en: ["sticky bun", "pine boletus"],
@@ -15387,18 +15386,6 @@ export const CATALOG = [
       confusion: "Маслюк зернистий (Suillus granulatus) росте в тих самих місцях, але не має кільця на ніжці й має крапельки на порах у молодих грибів. Моховик зелений (Xerocomus subtomentosus) має оксамитову суху шапинку й ширші кутасті пори.",
       notes: "Оцінка 2018 року відносить вид до категорії в найменшій загрозі (Least Concern)."
     },
-    pl: {
-      description: "Grzyb ektomikoryzowy lasów i młodników sosnowych. Owocniki często wyrastają w dużych ilościach. Rodzimy w Eurazji, zawleczony wraz z sosnami do Ameryki Północnej, Południowej, Australii i Nowej Zelandii.",
-      cap: "Kapelusz ma 4–10 cm średnicy (rzadko do 20 cm). Początkowo jest półkolisty, potem wypukły, w końcu spłaszczony. Barwa jest czekoladowobrązowa, kasztanowa do żółtobrązowej. Skórka jest gruba, w stanie wilgotnym pokryta grubą, bardzo śluzowatą warstwą, dająca się łatwo ściągnąć z całego kapelusza.",
-      hymenium: "Rurki mają 3–10 mm długości, są przyrośnięte do lekko zbiegających. Początkowo są zakryte białawą, błoniastą osłoną częściową, łączącą brzeg kapelusza z trzonem. Pory są drobne, początkowo jasnożółte, z wiekiem ciemnożółte do ochrowożółtych.",
-      stipe: "Trzon ma 3–10 cm wysokości i 1,5–3 cm grubości, jest cylindryczny, powyżej pierścienia jasnożółty i drobno nakrapiany, poniżej białawy do brązowawego. Posiada wyraźny, błoniasty pierścień o białawym, z wiekiem fioletowawobrązowym zabarwieniu.",
-      flesh: "Miąższ jest białawy do cytrynowożółtego, miękki, niezmieniający barwy po przekrojeniu. Zapach jest słaby, przyjemny, a smak delikatnie kwaskowaty.",
-      sporePrint: "Ochrowobrązowy do cynamonowobrązowego. Zarodniki są wydłużone, wrzecionowate, gładkie, o wymiarach około 7–10,5 × 2,5–3,5 μm.",
-      habitat: "Owocniki pojawiają się od maja do listopada, najobficiej późnym latem i jesienią. Rośnie wyłącznie pod sosnami (szczególnie pod sosną zwyczajną Pinus sylvestris), preferując gleby piaszczyste, wrzosowiska i młodniki sosnowe.",
-      uses: "Bardzo smaczny i popularny grzyb jadalny. Przed przyrządzeniem zaleca się zdjęcie lepkiej skórki z kapelusza, gdyż może ona powodować dolegliwości żołądkowe u wrażliwych osób. Znakomicie nadaje się do duszania w śmietanie, marynowania i zup.",
-      confusion: "Maślak ziarnisty (Suillus granulatus) rośnie również pod sosnami, lecz nie ma pierścienia na trzonie. Maślak pstry (Suillus variegatus) ma suchy, drobnoziarnisty kapelusz i miąższ słabo błękitniejący po przekrojeniu. Maślak modrzewiowy (Suillus grevillei) rośnie wyłącznie pod modrzewiami i ma jaskrawożółty do złocistopomarańczowego kapelusz.",
-      notes: "Ocena z 2019 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern)."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi e delle piantagioni di pino a due aghi (Pinus sylvestris e Pinus nigra). È comune in Europa, Asia e introdotto nell'emisfero australe.",
       cap: "Il cappello misura 4–10 cm di diametro, raramente fino a 15 cm. È convesso poi appianato, ricoperto da una cuticola bruno-cioccolato o bruno-fulva molto glutinosa e viscosa a tempo umido, facilmente separabile.",
@@ -15434,6 +15421,17 @@ export const CATALOG = [
       uses: "C'est un bon champignon comestible après une cuisson approfondie. Il s'utilise dans les soupes, les ragoûts et les poêlées, mariné au vinaigre ou séché. Parce que l'épaisse cuticule glutineuse du chapeau devient visqueuse à la cuisson et peut provoquer des indigestions, la peau du chapeau (ainsi que la couche de tubes des spécimens âgés) doit être pelée avant la préparation.",
       confusion: "Le bolet granulé (Suillus granulatus) pousse sous les pins dans le même habitat, mais est dépourvu de voile partiel et d'anneau, et ses jeunes pores sécrètent des gouttelettes laiteuses. Le bolet élégant (Suillus grevillei) pousse sous les mélèzes et possède un chapeau jaune doré à brun orangé. Un jeune gomphide visqueux (Gomphidius glutinosus) présente un chapeau brun visqueux mais possède des lames décurrentes plutôt que des pores. En Amérique du Nord, le bolet boréal (Suillus borealis) et le bolet faux-brevipes (Suillus pseudobrevipes) ont un voile partiel qui s'accroche à la marge du chapeau au lieu de former un anneau à revers violacé sur le pied, le bolet botté (Suillus cothurnatus) possède un anneau épais en bandelette et une chair chamois orangé, et le bolet à pied blanchâtre (Suillus albidipes) est dépourvu de granulations glandulaires sur le pied.",
       notes: "Une évaluation de 2018 le classe comme préoccupation mineure (Least Concern)."
+    },
+    pl: {
+      description: "Grzyb ektomikoryzowy związany wyłącznie z sosnami, zwłaszcza z sosną zwyczajną. Pospolity w całej strefie umiarkowanej półkuli północnej. Został zawleczony wraz z sosnami do Ameryki Południowej, Afryki, Australii i Nowej Zelandii.",
+      cap: "Kapelusz ma 4–12 cm średnicy, początkowo jest półkulisty, później wypukły do rozpostartego. Barwa jest czekoladowobrązowa, kasztanowobrązowa do żółtobrązowej. Skórka jest gładka, w stanie wilgotnym pokryta grubą warstwą śluzu, bardzo łatwo dająca się zdjąć w całości.",
+      hymenium: "Rurki są przyrośnięte do trzonu, mają 6–12 mm długości. Pory są drobne, okrągłe, początkowo jasnożółte, z wiekiem ciemnożółte do oliwkowożółtych, za młodu zakryte białawą osłoną częściową.",
+      stipe: "Trzon ma 3–10 cm długości i 1–2,5 cm grubości, jest cylindryczny, pełny. Powyżej pierścienia jest jasnożółty i drobno nakrapiany, poniżej białawy do brązowawego. Nosi wyraźny, błoniasty, białawy lub fioletowobrązowy pierścień.",
+      flesh: "Miąższ jest miękki, białawy do kremowożółtego, w podstawie trzonu brązowawy. Po przekrojeniu nie zmienia barwy. Zapach jest słaby, przyjemny, a smak łagodny, kwaskowaty.",
+      sporePrint: "Ochrowobrązowy. Zarodniki są elipsoidalno-wrzecionowate, gładkie, o wymiarach 7–10 × 3–3,5 μm.",
+      habitat: "Owocniki pojawiają się od maja do listopada. Rośnie na piaszczystych glebach w borach sosnowych, na skrajach lasów i młodnikach sosnowych.",
+      uses: "Bardzo smaczny i ceniony grzyb jadalny. Śluzowatą skórkę kapelusza zazwyczaj zdejmuje się przed przyrządzeniem, gdyż u wrażliwych osób może wywołać biegunkę. Znakomity do duszenia, zup i marynowania w occie.",
+      confusion: "Maślak ziarnisty (Suillus granulatus) nie ma pierścienia na trzonie i wydziela mleczne kropelki z porów u młodych owocników. Maślak wejmutkowy (Suillus placidus) rośnie pod sosnami pięcioigielnymi i ma bardzo jasny kapelusz. Maślak żółty (Suillus grevillei) rośnie wyłącznie pod modrzewiami i ma jaskrawożółty do pomarańczowego kapelusz."
     }
     },
     sources: {
@@ -15776,18 +15774,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%9M%D0%B0%D1%81%D0%BB%D1%8E%D0%BA_%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9%D0%BD%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Maślak_zwyczajny"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -15827,6 +15813,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Maślak_zwyczajny"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -15940,10 +15938,10 @@ export const CATALOG = [
       bg: 'обикновена млечница',
       ru: "рыжик настоящий",
       uk: "рижик смачний",
-      pl: "mleczaj rydz",
       it: "sanguinello",
       hu: "ízletes rizike",
-      fr: "lactaire délicieux"
+      fr: "lactaire délicieux",
+      pl: "mleczaj rydz"
     },
     names: {
       en: ["delicious milkcap", "saffron milk cap", "delicious milk cap"],
@@ -15958,10 +15956,10 @@ export const CATALOG = [
       bg: ['рижика'],
       ru: ["рыжик деликатесный","рыжик обыкновенный","рыжик сосновый"],
       uk: ["рижик звичайний"],
-      pl: ["rydz"],
       it: ["lattario delizioso"],
       hu: ["fenyőaljagomba","közönséges rizike","rizike tejelőgomba","rizikegomba"],
-      fr: ["catalan","roussillous"]
+      fr: ["catalan","roussillous"],
+      pl: ["rydz"]
     },
     text: {
       tr: {
@@ -16225,18 +16223,6 @@ export const CATALOG = [
       confusion: "Рижик ялиновий (Lactarius deterrimus) росте під ялинами, має тонший м'якуш, швидше зеленіє на зламі й має ніжку без заглиблених ямок. Хвиляшка рожева (Lactarius torminosus) отруйна у сирому вигляді, має рожеву шапинку з волохатим краєм і білий пекучий молочний сік.",
       notes: "Фреска з давньоримського Геркуланума вважається одним із найдавніших зображень цього гриба."
     },
-    pl: {
-      description: "Grzyb ektomikoryzowy związany z sosnami. Rodzimy w Europie, pospolity w lasach sosnowych na piaszczystych glebach.",
-      cap: "Kapelusz ma 4–14 cm średnicy. Za młodu jest wypukły z podwiniętym brzegiem, później lejkowaty. Barwa jest marchewkowopomarańczowa do rdzawoczerwonej, z wyraźnymi ciemniejszymi, koncentrycznymi kręgami. Z wiekiem i w miejscach uszkodzeń pojawiają się szarozielone plamy.",
-      hymenium: "Blaszki są gęste, przyrośnięte do lekko zbiegających, kruche, marchewkowopomarańczowe, po uszkodzeniu powoli zieleniejące.",
-      stipe: "Trzon ma 3–8 cm długości i 1–2,5 cm grubości, jest cylindryczny, pomarańczowy, pokryty drobnymi, ciemniejszymi jamkami (jamkowaty). Wewnątrz szybko staje się pusty.",
-      flesh: "Miąższ jest jędrny, kruchy, białawy do marchewkowego, po uszkodzeniu wydziela jaskrawopomarańczowe mleczko o słodkawym zapachu. Mleczko na powietrzu powoli (po kilkunastu minutach) przebarwia się na winnoczerwono, a po kilku godzinach zielenieje. Smak jest łagodny, po chwili nieco pikantny.",
-      sporePrint: "Bladoróżowoochrowy. Zarodniki są elipsoidalne z brodawkowato-siateczkowatą ornamentacją, amyloidalne, o wymiarach około 7–9 × 6–7 μm.",
-      habitat: "Owocniki pojawiają się od sierpnia do listopada. Rośnie na piaszczystych glebach pod sosnami, zwłaszcza na skrajach lasów i w młodnikach sosnowych.",
-      uses: "Wyborny grzyb jadalny, tradycyjnie uznawany za jeden z najsmaczniejszych grzybów w Europie Środkowej. Najlepiej smakuje smażony na maśle, a także kiszony lub marynowany.",
-      confusion: "Mleczaj jodłowy (Lactarius salmonicolor) rośnie pod jodłami, ma mleczko niepodlegające zielenieniu i słabsze strefowanie. Mleczaj świerkowy (Lactarius deterrimus) rośnie pod świerkami, ma ciemniejsze zabarwienie, silniej zielenieje z wiekiem i bywa nieco gorzkawy. Trujący mleczaj wełnianka (Lactarius torminosus) rośnie pod brzozami, ma silnie kosmaty brzeg kapelusza i piekące, białe mleczko.",
-      notes: "Podawany z Ameryki Północnej kompleks taksonów obejmuje odrębne gatunki filogenetyczne."
-    },
     it: {
       description: "Un fungo ectomicorrizico associato ai pini. È indigeno in tutta Europa ed è stato introdotto con i pini anche nell'emisfero australe.",
       cap: "Il cappello misura 6–20 cm di diametro. È convesso con margine involuto da giovane, poi depresso al centro a imbuto. Il colore è arancio carota con evidenti zonate concentriche più scure, tendente a inverdarsi con l'età e allo sfregamento.",
@@ -16272,6 +16258,17 @@ export const CATALOG = [
       uses: "C'est un champignon comestible très prisé, traditionnellement grillé, poêlé, mijoté ou mariné en Espagne, en Provence, en Pologne, à Chypre et en Russie. Les jeunes chapeaux à marge enroulée sont préférés, et la cuisson lente ou sur le gril est recommandée plutôt que le séchage, car les sporophores séchés perdent leur arôme.",
       confusion: "Le lactaire de l'épicéa (Lactarius deterrimus) pousse sous les épicéas, possède un chapeau plus uniforme et un pied sans scrobicules, et produit un lait orange qui devient rouge vineux en 30–60 minutes. Le lactaire sanguin (Lactarius sanguifluus) pousse sous les pins sur sol calcaire et exsude immédiatement un lait rouge vineux foncé. Le lactaire couleur de saumon (Lactarius salmonicolor) pousse sous les sapins et ne verdit presque pas. Le lactaire à couleur tranquille (Lactarius quieticolor) croît sous les pins sur sol acide, présente des tons brun orangé plus ternes et se tache de bleu-vert. Le lactaire à toison (Lactarius torminosus) est rosâtre avec une marge barbue et laineuse, produit un lait blanc âcre, pousse avec les bouleaux et est toxique. En Amérique du Nord, les espèces ressemblantes comprennent le lactaire à lait rouge (Lactarius rubrilacteus), le lactaire du thuya (Lactarius thyinos), le lactaire de l'Olympe (Lactarius olympianus) et le lactaire saumoné (Lactarius salmoneus).",
       notes: "Une fresque romaine d'Herculanum est considérée comme l'une des plus anciennes représentations de ce champignon. Des travaux moléculaires et morphologiques menés par Nuytinck, Verbeken et Miller (2007) ont confirmé qu'il s'agit d'une espèce européenne, distincte des taxons d'Amérique du Nord et d'Amérique centrale auxquels ce nom était autrefois appliqué."
+    },
+    pl: {
+      description: "Grzyb ektomikoryzowy żyjący w symbiozie z sosnami, zwłaszcza z sosną zwyczajną, na glebach piaszczystych i przepuszczalnych. Rodzimy w Europie i części Azji; doniesienia z Ameryki Północnej dotyczą innych, pokrewnych gatunków.",
+      cap: "Kapelusz ma 4–12 cm średnicy, początkowo jest wypukły z podwiniętym brzegiem i wgłębionym środkiem, z wiekiem staje się głęboko lejkowaty. Barwa jest marchewkowopomarańczowa do łososiowej, z wyraźnymi, ciemniejszymi, koncentrycznymi kręgami. Z wiekiem lub po uszkodzeniu pojawiają się szarozielone plamy. Skórka jest gładka, w wilgotną pogodę lepka.",
+      hymenium: "Blaszki są gęste, zbiegające na trzon, jaskrawo pomarańczowe, po dotknięciu powoli zieleniejące. Uszkodzone wydzielają obfite, marchewkowoczerwone mleczko, które po kilkunastu minutach ciemnieje do winnoczerwonego, a po kilku godzinach zielenieje.",
+      stipe: "Trzon ma 3–7 cm długości i 1–2,5 cm grubości, jest cylindryczny, pomarańczowy, pokryty ciemniejszymi, owalnymi jamkami (jamkowaty). Wewnątrz szybko staje się pusty.",
+      flesh: "Miąższ jest kruchy, w środku białawy, przy powierzchni marchwiowopomarańczowy. Zapach jest przyjemny, owocowy, a smak łagodny do lekko cierpkiego lub korzennego.",
+      sporePrint: "Bladoochrowy do kremowego. Zarodniki są szerokoelipsoidalne, o wymiarach 7,5–9,5 × 6–7 μm, z niepełną siateczką na powierzchni; są amyloidalne.",
+      habitat: "Owocniki pojawiają się od sierpnia do listopada, najobficiej we wrześniu i październiku. Rośnie na skrajach borów sosnowych, w trawie na nasłonecznionych polanach i młodnikach sosnowych na glebach piaszczystych lub wapiennych.",
+      uses: "Jeden z najbardziej cenionych grzybów jadalnych. Najlepiej smakuje tradycyjnie smażony na maśle, duszony lub marynowany w occie. Mocz po spożyciu rydzów może przybrać nieszkodliwe czerwonawe zabarwienie od barwników zawartych w mleczku.",
+      confusion: "Mleczaj świerkowy (Lactarius deterrimus) rośnie wyłącznie pod świerkami, ma miąższ szybciej i intensywniej zieleniejący oraz nieco gorzkawy posmak. Mleczaj jodłowy (Lactarius salmonicolor) rośnie pod jodłami, ma mleczko pomarańczowe, które nie zielenieje. Mleczaj wełnianka (Lactarius torminosus) ma silnie owłosiony brzeg kapelusza, piekące białe mleczko i jest grzybem trującym."
     }
     },
     sources: {
@@ -16631,18 +16628,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%A0%D0%B8%D0%B6%D0%B8%D0%BA_%D1%81%D0%BC%D0%B0%D1%87%D0%BD%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Mleczaj_rydz"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -16682,6 +16667,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Mleczaj_rydz"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -16792,10 +16789,10 @@ export const CATALOG = [
       bg: 'бяла леплива мухоморка',
       ru: "мухомор вонючий",
       uk: "мухомор смердючий",
-      pl: "muchomor jadowity",
       it: "tignosa primaverile",
       hu: "hegyeskalapú galóca",
-      fr: "amanite vireuse"
+      fr: "amanite vireuse",
+      pl: "muchomor jadowity"
     },
     names: {
       en: ["European destroying angel"]
@@ -17061,17 +17058,6 @@ export const CATALOG = [
       confusion: "Мухомор весняний (Amanita verna) росте навесні в листяних лісах і має гладеньку ніжку без пластівчастих лусок. Білі печериці (Agaricus) мають кільце, але позбавлені вольви та мають рожеві або темно-коричневі пластинки.",
       notes: "Повідомлення про знахідки в Північній Америці та Східній Азії стосуються споріднених білих видів мухоморів."
     },
-    pl: {
-      description: "Grzyb ektomikoryzowy lasów iglastych i mieszanych, szczególnie świerkowych na glebach kwaśnych i piaszczystych. Rozpowszechniony w północnej i środkowej Europie.",
-      cap: "Kapelusz ma 5–12 cm średnicy. Początkowo jest stożkowaty do dzwonkowatego, później asymetrycznie wypukły z tępym wierzchołkiem. Barwa jest czysto biała do kości słoniowej, powierzchnia w stanie wilgotnym jest lepka i lśniąca, z wiekiem sucha i jedwabista.",
-      hymenium: "Blaszki są wolne, gęste i czysto białe, nie zmieniające barwy z wiekiem.",
-      stipe: "Trzon ma 8–15 cm długości i 1–2 cm grubości, jest czysto biały, cylindryczny, ku dołowi rozszerzony w bulwiastą podstawę. Cała powierzchnia trzonu poniżej pierścienia jest wyraźnie pokryta białymi, włóknistymi, kosmatymi łuskami. Posiada delikatny, obwisły biały pierścień oraz dużą, workowatą białą pochwę u podstawy.",
-      flesh: "Miąższ jest czysto biały, miękki. Zapach za młodu bywa określany jako rzodkiewkowaty, u starych owocników staje się nieprzyjemny, mdły i duszący.",
-      sporePrint: "Biały. Zarodniki są kuliste do prawie kulistych, gładkie, o wymiarach około 8–11 μm średnicy, amyloidalne.",
-      habitat: "Owocniki wyrastają od lipca do października. Rośnie na kwaśnych glebach w borach świerkowych i sosnowych, rzadziej pod bukami i brzozami.",
-      uses: "Śmiertelnie trujący. Zawiera amatoksyny i fallotoksyny w stężeniu równie wysokim jak u muchomora zielonawego. Powoduje nieodwracalne uszkodzenie komórek wątroby i nerek. Żadna forma obróbki cieplnej, mrożenia ani suszenia nie neutralizuje toksyn.",
-      confusion: "Białe pieczarki (np. Agaricus campestris, Agaricus silvicola) mają blaszki różowe, a z wiekiem czekoladowobrązowe i nie posiadają pochwy u podstawy trzonu. Muchomor wiosenny (Amanita verna) owocuje głównie w cieplejszych rejonach w lasach liściastych i ma gładki trzon. Pochwiak wielkoduszny (Volvopluteus gloiocephalus) ma różowy wysyp zarodników i blaszki z wiekiem różowiejące."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi montani e boreali di conifere e latifoglie. È una specie rara e velenosa mortale appartenente alle amanite bianche.",
       cap: "Il cappello misura 5–10 cm di diametro. È ogivale o campanulato, poi asimmetricamente convesso con lobo laterale sporgente, interamente bianco candido e vischioso col bagnato.",
@@ -17105,6 +17091,17 @@ export const CATALOG = [
       habitat: "Les sporophores apparaissent à la fin de l'été et en automne, d'août à novembre en Grande-Bretagne et de juillet à septembre en Europe du Nord. Il pousse à la lisière des forêts de feuillus ou mixtes, en association avec le hêtre, le châtaignier, le pin, l'épicéa et le sapin.",
       uses: "Il est mortel. Le sporophore contient des amatoxines et des phallotoxines, et un seul chapeau peut tuer un adulte.",
       confusion: "L'amanite printanière (Amanita verna) fructifie au printemps et sa chair ne jaunit pas sous la potasse. La forme blanche de l'amanite phalloïde (Amanita phalloides) fructifie en automne et est tout aussi mortelle. L'amanite citrine blanche (Amanita citrina var. alba) conserve généralement des fragments de voile sur le chapeau et sent la pomme de terre crue. Les espèces d'agarics (Agaricus), notamment l'agaric sylvicole (Agaricus sylvicola) et l'agaric champêtre (Agaricus campestris), n'ont pas de volve et leurs lames deviennent roses puis brunes. Un bouton peut ressembler à une vesse-de-loup (Lycoperdon) jusqu'à ce qu'il soit coupé en deux et révèle l'ébauche du champignon et la volve. En Amérique du Nord, les amanites blanches similaires, telles que l'amanite à deux spores (Amanita bisporigera), l'amanite ocréée (Amanita ocreata) et l'amanite amérivireuse (Amanita amerivirosa), sont d'autres espèces distinctes."
+    },
+    pl: {
+      description: "Śmiertelnie trujący grzyb ektomikoryzowy lasów iglastych i mieszanych, rosnący głównie pod świerkiem, sosną i brzozą na glebach kwaśnych. Występuje w Europie Północnej i Środkowej oraz w północnej Azji. W Europie Południowej jest rzadki lub nie występuje.",
+      cap: "Kapelusz ma 5–12 cm średnicy, początkowo jest stożkowaty do dzwonkowatego, później asymetrycznie wypukły z tępym garbkiem. Jest czysto biały, na szczycie niekiedy lekko kremowy lub żółtawy. Skórka jest gładka, w czasie deszczu lepka, zazwyczaj bez łatek osłony. Brzeg jest gładki, nieprążkowany.",
+      hymenium: "Blaszki są wolne, gęste, czysto białe, z nieco kłaczkowatym ostrzem. Po uszkodzeniu nie zmieniają barwy.",
+      stipe: "Trzon ma 8–15 cm długości i 1–2 cm grubości, zwęża się ku górze, jest czysto biały, charakterystycznie pokryty odstającymi, kłaczkowatymi lub wełnistymi łuskami poniżej pierścienia. Nosi cienki, zwisający, nietrwały biały pierścień, który często ulega poszarpaniu. Podstawa jest bulwiasta, otoczona dużą, luźną, workowatą białą pochwą.",
+      flesh: "Miąższ jest czysto biały, niezmieniający barwy po przekrojeniu. Zapach u młodych owocników jest słaby, stęchły lub rzodkiewkowaty, u starych staje się mdły i odrażający. Smak jest łagodny (nie należy próbować!).",
+      sporePrint: "Biały. Zarodniki są kuliste do prawie kulistych, gładkie, o wymiarach 8–11 × 7–10 μm, barwiące się na niebiesko w jodzie (silnie amyloidalne).",
+      habitat: "Owocniki pojawiają się od lipca do października w podgórskich i górskich lasach świerkowych i sosnowych, na kwaśnych glebach, często wśród mchów i borówek.",
+      uses: "Grzyb śmiertelnie trujący. Zawiera śmiertelną dawkę amatoksyn i fallotoksyn. Jeden owocnik może spowodować śmierć dorosłego człowieka. Objawy zatrucia pojawiają się podstępnie dopiero po 8–24 godzinach od spożycia, prowadząc do nieodwracalnej martwicy wątroby i nerek.",
+      confusion: "Pieczarki (Agaricus) o białych kapeluszach mają blaszki szybko różowiejące, a później czekoladowobrązowe i nie posiadają pochwy u podstawy trzonu. Muchomor wiosenny (Amanita verna) owocuje wiosną w ciepłych lasach liściastych i ma gładki trzon. Biała forma muchomora zielonawego (Amanita phalloides var. alba) ma trzon z zygzakowatym wzorem i bardziej elipsoidalne zarodniki."
     }
     },
     sources: {
@@ -17416,18 +17413,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%9C%D1%83%D1%85%D0%BE%D0%BC%D0%BE%D1%80_%D1%81%D0%BC%D0%B5%D1%80%D0%B4%D1%8E%D1%87%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Muchomor_jadowity"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -17467,6 +17452,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Muchomor_jadowity"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -17565,10 +17562,10 @@ export const CATALOG = [
       bg: 'дяволска гъба',
       ru: "сатанинский гриб",
       uk: "чортів гриб",
-      pl: "krwistoborowik szatański",
       it: "boleto malefico",
       hu: "sátántinóru",
-      fr: "bolet satan"
+      fr: "bolet satan",
+      pl: "krwistoborowik szatański"
     },
     names: {
       en: ["Satan's bolete"],
@@ -17589,9 +17586,9 @@ export const CATALOG = [
       nl: ['Wolfsboleet'],
       bg: ['дяволска манатарка'],
       ru: ["боровик сатанинский"],
-      pl: ["borowik szatański"],
       it: ["porcino malefico"],
-      hu: ["sátángomba"]
+      hu: ["sátángomba"],
+      pl: ["borowik szatański"]
     },
     text: {
       tr: {
@@ -17856,18 +17853,6 @@ export const CATALOG = [
       confusion: "Синяк зернистоногий (Neoboletus luridiformis) має темно-коричневу шапинку, ніжку вкриту червоними зернятками (без сіточки) і м'якуш, який миттєво стає темно-синім на зламі. Дубовик звичайний (Suillellus luridus) має оливково-буру шапинку й різко синіє.",
       notes: "Рідкісний вид у багатьох регіонах Європи, занесений до Червоних книг окремих країн."
     },
-    pl: {
-      description: "Rzadki grzyb ektomikoryzowy ciepłolubnych lasów liściastych na podłożu wapiennym. Występuje w południowej i środkowej Europie.",
-      cap: "Kapelusz ma 10–30 cm średnicy (czasami więcej), jest masywny, półkolisty do poduszkowatego. Skórka jest kredowobiała, szarobiała do szaroochrowej, matowa, zamszowata, z wiekiem naga.",
-      hymenium: "Rurki mają 1–2 cm długości, są żółtawe do oliwkowych, po uszkodzeniu sinieją. Pory są początkowo żółte, lecz szybko stają się krwistoczerwone, karminowe do pomarańczowoczerwonych, po dotknięciu natychmiast błękitnieją.",
-      stipe: "Trzon ma 5–15 cm długości i 4–10 cm grubości, za młodu jest kulisty, później beczułkowaty, niezwykle masywny. Barwa jest żółtawa pod kapeluszem i karminowoczerwona do purpurowej w środkowej i dolnej części, pokryta wyraźną czerwoną siateczką.",
-      flesh: "Miąższ jest białawy do bladożółtego, po przekrojeniu powoli i umiarkowanie błękitnieje. Zapach u młodych owocników jest słaby, u starych staje się cuchnący i mdły (przypominający padlinę lub gnijącą kapustę).",
-      sporePrint: "Oliwkowobrązowy. Zarodniki są wrzecionowato-elipsoidalne, gładkie, o wymiarach około 11–15 × 5–7 μm.",
-      habitat: "Owocniki pojawiają się od lipca do września. Rośnie w ciepłych, świetlistych dąbrowach i buczynach storczykowych na glebach wapiennych.",
-      uses: "Grzyb silnie trujący. Zawiera toksyczną bolesatynę powodującą gwałtowne dolegliwości żołądkowo-jelitowe: ciężkie wymioty, krwawe biegunki i odwodnienie organizmu.",
-      confusion: "Gorzkoborowik żółtopory (Caloboletus calopus) ma żółte pory, czerwony trzon i gorzki miąższ. Krasnoborowik ceglastopory (Neoboletus luridiformis) ma ciemnobrązowy kapelusz i brak siateczki na trzonie. Modroborowik ponury (Suillellus luridus) ma oliwkowobrązowy kapelusz i pomarańczowoczerwoną siatkę na trzonie.",
-      notes: "W Polsce gatunek krytycznie zagrożony wymarciem, objęty ścisłą ochroną gatunkową."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi caldi e radi di latifoglie su suoli calcarei. È diffuso nell'Europa meridionale e centrale ma raro e localizzato.",
       cap: "Il cappello misura solitamente 6–30 cm di diametro, raggiungendo eccezionalmente dimensioni enormi fino a 40–50 cm. È carnoso, sodo, emisferico poi appianato, di colore bianco gessoso, bianco latte o grigio cenere chiaro.",
@@ -17903,6 +17888,17 @@ export const CATALOG = [
       uses: "Il est toxique, surtout à l'état cru, provoquant un syndrome gastro-intestinal sévère avec nausées, douleurs abdominales, vomissements violents et diarrhées sanglantes pouvant durer jusqu'à six heures. La bolésatine, une glycoprotéine toxique, est mise en cause, ainsi que des traces de muscarine. Bien que des récits historiques fassent état de sa consommation après une ébullition prolongée dans certaines régions d'Italie et de l'ancienne Tchécoslovaquie, il n'est nullement prouvé que la cuisson le rende inoffensif.",
       confusion: "Le bolet blafard (Suillellus luridus) possède un chapeau plus sombre, brun olive à chamois, une chair rouge orangé à la base du pied et une chair qui vire immédiatement au bleu foncé à la coupe. Le bolet à beau pied (Caloboletus calopus) a un chapeau pâle et un pied à réseau rouge, mais ses pores restent jaunes et sa chair est très amère. Le bolet jaune pourpre (Rubroboletus rhodoxanthus) et le bolet faux-satan (Rubroboletus legaliae) préfèrent des sols plus acides et développent des teintes nettement roses sur le chapeau ; chez R. rhodoxanthus, la chair jaune vif ne bleuit que dans le chapeau. Le bolet joli (Rubroboletus pulchrotinctus) présente une marge piléique teintée de rose et un pied plus pâle, tandis que le bolet rouge sang (Rubroboletus rubrosanguineus) pousse sous les épicéas et les sapins dans les forêts de montagne.",
       notes: "Les évaluations des listes rouges en Grande-Bretagne et en République tchèque le classent comme vulnérable (Vulnerable)."
+    },
+    pl: {
+      description: "Ciepłolubny grzyb ektomikoryzowy tworzący symbiozę z dębami i bukami na glebach wapiennych. Występuje w Europie Południowej i Środkowej, na północ docierając do południowej Anglii. W Polsce jest gatunkiem skrajnie rzadkim, objętym ścisłą ochroną.",
+      cap: "Kapelusz osiąga 10–30 cm średnicy (niekiedy do 40 cm), za młodu jest półkulisty, później wypukły do poduchowatego. Barwa jest kredowobiała, popielatoszara do szaroochrowej, niekiedy z zielonkawym odcieniem. Skórka jest matowa, sucha, zamszowa, z wiekiem gładka.",
+      hymenium: "Rurki mają 1–2 cm długości, są żółte do oliwkowożółtych, po przekrojeniu sinieją. Pory są drobne, początkowo żółte, lecz bardzo wcześnie stają się jaskrawoczerwone, krwistoczerwone do purpurowoczerwonych; pod naciskiem natychmiast błękitnieją.",
+      stipe: "Trzon ma 5–15 cm długości i 4–10 cm grubości, jest potężny, początkowo kulisty lub beczułkowaty, później maczugowaty. W górnej części żółtawy, w środku i na dole jaskrawo karminowoczerwony lub krwistoczerwony, pokryty delikatną, czerwoną siateczką.",
+      flesh: "Miąższ jest białawy do bladożółtego, po przekrojeniu powoli i umiarkowanie sinieje (błękitnieje), po czym znowu blednie. U młodych owocników zapach jest słaby, grzybowy, u starszych staje się bardzo nieprzyjemny, przypominający padlinę lub gnijącą cebulę.",
+      sporePrint: "Oliwkowobrązowy. Zarodniki są gładkie, wrzecionowate, o wymiarach 11–15 × 5–7 μm.",
+      habitat: "Owocniki wyrastają od lipca do września w widnych, ciepłych lasach liściastych (dąbrowach, buczynach) wyłącznie na podłożu wapiennym.",
+      uses: "Grzyb silnie trujący, zwłaszcza na surowo. Zawiera toksyczne glikoproteiny (bolesatynę) wywołujące gwałtowne, krwawe wymioty, ostre bóle brzucha i biegunkę prowadzącą do ciężkiego odwodnienia.",
+      confusion: "Gorzkoborowik żółtopory (Caloboletus calopus) ma pory zawsze cytrynowożółte (nie czerwone) i bardzo gorzki smak. Krasnoborowik ceglastopory (Neoboletus luridiformis) ma ciemnobrązowy kapelusz, trzon pokryty czerwonymi kosmkami bez siateczki i natychmiast ciemnogranatowo siniejący miąższ. Modroborowik ponury (Suillellus luridus) ma żółtobrązowy lub oliwkowobrązowy kapelusz i wyraźną siateczkę o dużych oczkach na trzonie."
     }
     },
     sources: {
@@ -18239,18 +18235,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%A7%D0%BE%D1%80%D1%82%D1%96%D0%B2_%D0%B3%D1%80%D0%B8%D0%B1"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Krwistoborowik_szatański"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -18290,6 +18274,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Krwistoborowik_szatański"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -18399,17 +18395,17 @@ export const CATALOG = [
       ro: 'pălărie ucigașă',
       ru: "паутинник красивейший",
       uk: "павутинник найкрасивіший",
-      pl: "zasłonak rudawy",
       it: "cortinario rubello",
       hu: "csúcsos pókhálósgomba",
-      fr: "cortinaire couleur de rocou"
+      fr: "cortinaire couleur de rocou",
+      pl: "zasłonak rudawy"
     },
     names: { es: ['seta de orellana roja'],
       sv: ['toppig giftspindelskivling', 'toppig spindelskivling'],
       ru: ["паутинник красноватый"],
-      pl: ["zasłonak spiczasty"],
       it: ["cortinario orellanato"],
-      fr: ["cortinaire remarquable"]
+      fr: ["cortinaire remarquable"],
+      pl: ["zasłonak spiczasty"]
     },
     text: {
       tr: {
@@ -18665,17 +18661,6 @@ export const CATALOG = [
       confusion: "Павутинник гірський (Cortinarius orellanus) має менш гострий горбок на шапинці й росте переважно під дубами та буками. Лисичка справжня (Cantharellus cibarius) має лійкоподібну жовту шапинку, товсті складки замість пластинок і білий м'якуш.",
       notes: "Один із найнебезпечніших смертоносних грибів Європи."
     },
-    pl: {
-      description: "Śmiertelnie trujący grzyb ektomikoryzowy wilgotnych borów iglastych, związany głównie ze świerkiem i sosną. Występuje w Europie Północnej i Środkowej.",
-      cap: "Kapelusz ma 3–8 cm średnicy. Jest stożkowaty do dzwonkowatego, z wyraźnym, ostrym szpiczastym garbkiem na środku. Barwa jest ciepła, jednolicie cynamonoworuda, rdzawobrązowa do lisiobrązowej. Powierzchnia jest sucha, matowa, drobno włóknista.",
-      hymenium: "Blaszki są rzadkie, grube, przyrośnięte do wykrojonych. Początkowo mają barwę rdzawocynamonową, z wiekiem stają się ciemnordzawobrązowe od zarodników.",
-      stipe: "Trzon ma 5–12 cm długości i 0,5–1,5 cm grubości, jest cylindryczny, rdzawobrązowy, ze zmiennymi żółtawymi, zygzakowatymi pasmami zasnówki (cortina) na powierzchni.",
-      flesh: "Miąższ jest żółtawordzawy do cynamonowego. Zapach jest słaby, nieco rzodkiewkowaty, smak łagodny.",
-      sporePrint: "Rdzawobrązowy. Zarodniki są szerokoelipsoidalne do prawie kulistych, brodawkowate, o wymiarach około 8,5–11,5 × 6,5–9 μm.",
-      habitat: "Owocniki pojawiają się od sierpnia do października. Rośnie na kwaśnych, wilgotnych glebach, często wśród mchów torfowców (Sphagnum) w borach świerkowych i sosnowych.",
-      uses: "Śmiertelnie trujący. Zawiera orellaninę, która powoduje powolną i nieodwracalną martwicę nerek. Objawy zatrucia pojawiają się po wyjątkowo długim okresie utajenia – zazwyczaj od 2 do 14 dni, a niekiedy nawet po trzech tygodniach od spożycia.",
-      confusion: "Mleczaj rydz (Lactarius deliciosus) ma pomarańczowe mleczko, puste trzony i rośnie na suchszych glebach. Pieprznik jadalny (Cantharellus cibarius) ma żółtą barwę, listewki zamiast blaszek i żółty wysyp zarodników. Inne drobne brunatne zasłonaki (Cortinarius) również mogą zawierać toksyny i należy ich bezwzględnie unikać."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi umidi di conifere su suoli acidi e muschiosi. È diffuso nelle regioni montane e boreali d'Europa.",
       cap: "Il cappello misura 4–8 cm di diametro, convesso poi appianato con umbone centrale acuto e prominente. È di colore bruno-rossastro, fulvo-aranciato o cannella, con superficie finemente vellutata o squamulosa col secco.",
@@ -18709,6 +18694,17 @@ export const CATALOG = [
       habitat: "Les sporophores apparaissent d'août à novembre. Il pousse en association avec le pin et l'épicéa sur sol acide et humide, souvent parmi les sphaignes (Sphagnum), dans les bois de conifères tourbeux et les forêts mixtes marécageuses.",
       uses: "Il est mortellement toxique. Il contient de l'orellanine, une redoutable néphrotoxine qui détruit les tubules rénaux et provoque une insuffisance rénale aiguë. Les symptômes n'apparaissent généralement que 2 à 14 jours après l'ingestion, débutant par une soif intense, des maux de tête, des frissons, des nausées et des douleurs lombaires, suivis d'une défaillance rénale. Une prise en charge médicale précoce et une hémodialyse sont cruciales. Des ramasseurs l'ont confondu avec une issue fatale avec des chanterelles ou des chanterelles en tube.",
       confusion: "Le cortinaire des montagnes (Cortinarius orellanus) possède parfois un mamelon, mais celui-ci est généralement moins aigu. La chanterelle en tube (Craterellus tubaeformis) a un chapeau en entonnoir et des plis plutôt que de véritables lames. Les chanterelles (Cantharellus) possèdent des plis et les cèpes (Boletus) ont des pores."
+    },
+    pl: {
+      description: "Śmiertelnie trujący grzyb ektomikoryzowy iglastych lasów borealnych i górskich, rosnący głównie pod świerkiem i sosną na glebach wilgotnych, kwaśnych i torfowych. Rozprzestrzeniony w północnej i środkowej Europie oraz w Ameryce Północnej.",
+      cap: "Kapelusz ma 3–8 cm średnicy, początkowo jest stożkowaty lub dzwonkowaty, później wypukły z wyraźnym, ostrym lub tępym garbkiem w środku. Barwa jest jednolicie cynamonoworuda, rdzawobrązowa do miedzianoczerwonej. Skórka jest sucha, drobno włóknista lub filcowato-łuseczkowata, matowa.",
+      hymenium: "Blaszki są rzadkie, szerokie, przyrośnięte do trzonu lub lekko zbiegające ząbkiem. Początkowo są cynamonowożółte do ochrowordzawych, z wiekiem ciemnieją do rdzawobrązowych od zarodników.",
+      stipe: "Trzon ma 5–11 cm długości i 0,5–1,5 cm grubości, jest cylindryczny lub lekko maczugowaty u podstawy, pełny. Barwa jest czerwonoruda lub żółtawordzawa, na powierzchni widoczne są żółtawe, zygzakowate pasma i strefy pierścieniowe osłony (zasnówki).",
+      flesh: "Miąższ jest żółtawordzawy do cynamonowego, niezmieniający barwy po przekrojeniu. Zapach jest słaby, rzodkiewkowy lub niewyraźny, a smak łagodny.",
+      sporePrint: "Rdzawobrązowy. Zarodniki są szerokoelipsoidalne do prawie kulistych, brodawkowało-punktowane, o wymiarach 8,5–11,5 × 6,5–9 μm.",
+      habitat: "Owocniki pojawiają się od sierpnia do października w wilgotnych lasach iglastych, borach bagiennych, wśród mchów torfowców (Sphagnum) i borówek.",
+      uses: "Grzyb śmiertelnie trujący. Zawiera orelaninę – toksynę odporną na gotowanie i suszenie, niszczącą komórki nerek. Okres utajenia objawów zatrucia wynosi od 2 dni do nawet 2–3 tygodni, po których dochodzi do nieodwracalnej niewydolności nerek.",
+      confusion: "Zasłonak rudy (Cortinarius orellanus) rośnie w ciepłych lasach liściastych pod dębami i bukami, ma kapelusz bez ostrego garbka i jest równie śmiertelnie trujący. Pieprznik jadalny (Cantharellus cibarius) ma pofałdowane listewki zamiast blaszek, żółtą barwę, morelowy zapach i blady wysyp zarodników."
     }
     },
     sources: {
@@ -18994,18 +18990,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B2%D1%83%D1%82%D0%B8%D0%BD%D0%BD%D0%B8%D0%BA_%D0%BD%D0%B0%D0%B9%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D1%96%D1%88%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Zasłonak_rudawy"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -19045,6 +19029,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Zasłonak_rudawy"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -19151,10 +19147,10 @@ export const CATALOG = [
       bg: 'тръбенка',
       ru: "вороночник рожковидный",
       uk: "лійкогриб ріжкоподібний",
-      pl: "lejkowiec dęty",
       it: "trombetta dei morti",
       hu: "sötét trombitagomba",
-      fr: "trompette de la mort"
+      fr: "trompette de la mort",
+      pl: "lejkowiec dęty"
     },
     names: {
       en: ["trumpet of death", "black trumpet", "black chanterelle", "trumpet of the dead"]
@@ -19431,18 +19427,6 @@ export const CATALOG = [
       confusion: "Craterellus fallax — дуже схожий споріднений вид, поширений на сході Північної Америки. Лійкогриб покручений (Craterellus sinuosus) має світліше сіро-жовтувате плодове тіло з більш вираженими жилочками.",
       notes: "Оцінка 2024 року відносить вид до категорії в найменшій загрозі (Least Concern)."
     },
-    pl: {
-      description: "Grzyb ektomikoryzowy lasów liściastych, rosnący głównie pod bukami i dębami. Występuje w Europie, Ameryce Północnej i Azji.",
-      cap: "Owocnik ma 3–12 cm wysokości i 2–8 cm szerokości, jest głęboko trąbkowaty lub lejkowaty, z pustą przestrzenią sięgającą niemal do samej podstawy trzonu. Brzeg jest pofałdowany, odgięty. Wnętrze lejka ma barwę od ciemnoszarej, brązowoczarnej do głęboko czarnej, z wiekiem drobno łuseczkowate.",
-      hymenium: "Zewnętrzna powierzchnia płodna jest gładka lub słabo pomarszczona, popielatoszara do niebieskawo-szarej, w miarę dojrzewania zarodników pokrywająca się białawym nalotem.",
-      stipe: "Trzon jest bezpośrednią kontynuacją lejkowatego kapelusza, zwężający się ku podstawie, czarniawy, wewnątrz pusty.",
-      flesh: "Miąższ jest bardzo cienki, elastyczny, szaroczarny. Zapach jest przyjemny, owocowo-grzybowy, a smak łagodny i wyrazisty.",
-      sporePrint: "Białawy do jasnoochrowego. Zarodniki są elipsoidalne, gładkie, przezroczyste, o wymiarach około 11–15 × 7–9 μm.",
-      habitat: "Owocniki pojawiają się od sierpnia do listopada. Rośnie gromadnie w wilgotnych lasach liściastych, głównie pod bukami i dębami na glebach gliniastych.",
-      uses: "Wyborny grzyb jadalny o wspaniałym aromacie. Ze względu na ciemną barwę bywa używany po ususzeniu i sproszkowaniu jako znakomita przyprawa do zup, sosów i farszów. Doskonale nadaje się także do smażenia.",
-      confusion: "Pieprznik szary (Craterellus cinereus) ma wyraźne fałdy (listewki) na zewnętrznej stronie owocnika. Lejkowiec kędzierzawy (Craterellus sinuosus) ma jaśniejszą, szarożółtą barwę i silniej pofałdowany brzeg.",
-      notes: "Ocena z 2019 roku klasyfikuje go jako gatunek najmniejszej troski (Least Concern)."
-    },
     it: {
       description: "Un fungo micorrizico a imbuto cavo che cresce nella lettiera di foglie dei boschi di latifoglie. È comune in tutta Europa in colonie numerose ma mimetico sul terreno.",
       cap: "Il cappello è a forma di trombetta o imbuto profondo, largo 4–8 cm, con margine ondulato e lobato. La superficie interna sterile è fuligginosa, grigio scura o quasi nera.",
@@ -19478,6 +19462,17 @@ export const CATALOG = [
       uses: "C'est un excellent comestible. Sa saveur est bien meilleure que ne le suggère l'aspect sombre du sporophore. Les sporophores séchés se conservent très bien et peuvent être réduits en poudre pour parfumer les sauces.",
       confusion: "La trompette trompeuse (Craterellus fallax) est très similaire et se rencontre dans l'est de l'Amérique du Nord, où elle se distingue par une sporée jaunâtre à ocre saumoné. La chanterelle cendrée (Craterellus cinereus) possède de faux plis ou veines fourchus et décurrents bien distincts sur la surface externe et des basides à quatre à six spores, tandis que la chanterelle sinueuse (Craterellus sinuosus) présente un chapeau plus frisé et ondulé avec une surface fertile fortement ridée.",
       notes: "Une évaluation de 2024 classe l'espèce comme préoccupation mineure (Least Concern)."
+    },
+    pl: {
+      description: "Grzyb ektomikoryzowy tworzący związki z drzewami liściastymi, zwłaszcza z bukiem i dębem. Pospolity w lasach strefy umiarkowanej w Europie, Azji i Ameryce Północnej. Zazwyczaj rośnie w dużych skupiskach lub kępach na glebach gliniastych i wapiennych.",
+      cap: "Owocnik ma 3–10 cm wysokości i 2–8 cm szerokości, jest głęboko lejkowaty lub trąbkowaty, z pustym wnętrzem sięgającym aż do podstawy trzonu. Brzeg jest podwinięty, falisty i poszarpany. Wnętrze lejka jest szaroczarne, brązowoczarne do czarnego, drobno łuseczkowate.",
+      hymenium: "Warstwa zarodnikonośna znajduje się na zewnętrznej powierzchni lejka. Jest gładka, nierówna lub zaledwie płytko pomarszczona (bez blaszek i listewek). Ma barwę popielatoszarą do niebieskoszarej, w stanie dojrzałym pokryta jest białym nalotem zarodników.",
+      stipe: "Trzon nie jest wyraźnie wyodrębniony; stanowi dolną, zwężoną część pustego lejka, zakorzenioną w ściółce, o barwie czarniawej.",
+      flesh: "Miąższ jest cienki, elastyczny, szaroczarny do czarnego. Zapach jest przyjemny, owocowy, a smak wyśmienity, delikatny.",
+      sporePrint: "Biały do kremowego lub bardzo bladożółtawego. Zarodniki są gładkie, elipsoidalne, o wymiarach 11–15 × 7–9 μm.",
+      habitat: "Owocniki pojawiają się od sierpnia do listopada w lasach liściastych i mieszanych, szczególnie w buczynach i dąbrowach na żyznych glebach gliniastych, często ukryte wśród opadłych liści.",
+      uses: "Wyborny grzyb jadalny o wspaniałym aromacie. Ze względu na ciemną barwę zwany bywa «trąbką śmierci», lecz jest całkowicie nieszkodliwy i wysoko ceniony. Wyśmienity po wysuszeniu i sproszkowaniu jako aromatyczna przyprawa do sosów, dań mięsnych i farszów.",
+      confusion: "Lejkowiec szary (Craterellus cinereus) ma na zewnątrz wyraźne fałdy i listewki przypominające blaszki pieprznika. Piestrzyca czarna (Pseudocraterellus undulatus) ma mniejsze, kędzierzawe owocniki z jaśniejszym, beżowoszarym hymenium."
     }
     },
     sources: {
@@ -19807,18 +19802,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%9B%D1%96%D0%B9%D0%BA%D0%BE%D0%B3%D1%80%D0%B8%D0%B1_%D1%80%D1%96%D0%B6%D0%BA%D0%BE%D0%BF%D0%BE%D0%B4%D1%96%D0%B1%D0%BD%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Lejkowiec_dęty"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -19858,6 +19841,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Lejkowiec_dęty"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -19976,10 +19971,10 @@ export const CATALOG = [
       bg: 'чернодробна гъба',
       ru: "печёночница обыкновенная",
       uk: "печіночниця звичайна",
-      pl: "ozorek dębowy",
       it: "lingua di bue",
       hu: "májgomba",
-      fr: "fistuline hépatique"
+      fr: "fistuline hépatique",
+      pl: "ozorek dębowy"
     },
     names: {
       en: ["beefsteak polypore", "ox tongue", "poor man's steak", "tongue mushroom"]
@@ -20253,18 +20248,6 @@ export const CATALOG = [
       confusion: "Інонотус кошлатий (Inonotus hispidus) має повстяно-волохату темну шапинку й не має соковитого червоного мармурового м'якуша.",
       notes: "У північній Європі це єдиний представник свого роду."
     },
-    pl: {
-      description: "Nadrzewny grzyb pasożytniczy i saprotroficzny rozwijający się na starych dębach i kasztanach jadalnych. Powoduje powolną, cenną dla stolarstwa brunatną zgniliznę drewna (tzw. dąb brązowy).",
-      cap: "Owocnik ma 10–25 cm szerokości i 2–6 cm grubości, jest półkolisty, językowaty lub nerkowaty, przypominający surowe mięso lub ozór. Powierzchnia jest krwistoczerwona, wątrobiana do czerwonobrązowej, w stanie wilgotnym śluzowata i lepka, drobno brodawkowata.",
-      hymenium: "Spód tworzą rurki, które są od siebie całkowicie oddzielone (niezrośnięte bocznie). Mają długość 1–1,5 cm, są żółtawe do kremowych, po dotknięciu brązowiejące.",
-      stipe: "Trzon jest krótki, boczny, o długości 1–5 cm, lub nie występuje wcale.",
-      flesh: "Miąższ jest gruby (3–5 cm), soczysty, miękki, krwistoczerwony z jaśniejszymi marmurkowatymi pasmami, wydzielający czerwony sok po uciśnięciu. W smaku jest wyraźnie kwaskowaty.",
-      sporePrint: "Różowoochrowy do rdzawobrązowego. Zarodniki są jajowate, gładkie, o wymiarach około 4,5–6 × 3–4 μm.",
-      habitat: "Owocniki pojawiają się od sierpnia do października. Rośnie nisko na pniach starych, żywych lub obumarłych dębów, rzadziej kasztanów jadalnych.",
-      uses: "Cenny grzyb jadalny po obróbce cieplnej. Młode owocniki bywają duszone lub smażone jak steki. Ze względu na kwaskowaty smak często moczy się je wcześniej w mleku lub wodzie.",
-      confusion: "Brak bezpośrednich trujących sobowtórów. Błyskoporek szczeciniasty (Inonotus hispidus) ma silnie owłosiony kapelusz i twardy miąższ. Młode żółciaki siarkowe (Laetiporus sulphureus) mają jaskrawożółtą barwę.",
-      notes: "W Polsce gatunek rzadki, podlegający ochronie częściowej."
-    },
     it: {
       description: "Un fungo a mensola lignicolo, parassita e saprotrofo su tronchi vivi o morti di quercia e castagno. Provoca una tipica carie bruna che scurisce il legno rendendolo pregiato per l'ebanisteria.",
       cap: "Il carpoforo è a forma di lingua o spatola semicircolare, largo 10–30 cm e spesso 2–6 cm. La superficie è papillata e viscosa, di colore rosso sangue vivo o rosso fegato, che imbrunisce con l'età.",
@@ -20300,6 +20283,17 @@ export const CATALOG = [
       uses: "Les jeunes sporophores sont comestibles après une cuisson approfondie. On les fait mijoter jusqu'à ce qu'ils soient tendres, on les poêle, ou on les utilise dans un goulasch ou confits au vinaigre. La saveur est acide et légèrement amère, et la chair est riche en tanins et difficile à digérer. Certains ouvrages jugent favorablement les jeunes spécimens, tandis que d'autres ne les classent pas parmi les meilleurs comestibles. Les sporophores plus âgés sont coriaces et leur suc peut irriter l'estomac, c'est pourquoi on les fait dégorger toute une nuit dans l'eau avant de les cuisiner.",
       confusion: "Le polypore hérissé (Inonotus hispidus) possède un chapeau fortement velu et pousse sur le chêne et le pommier. De très jeunes sporophores peuvent ressembler au polypore soufré (Laetiporus sulphureus), qui forme des consoles plus aplaties étagées les unes au-dessus des autres. Le genre Ischnoderma (Ischnoderma) possède des tubes soudés entre eux. Le polypore du chêne (Buglossoporus quercinus) pousse dans des biotopes similaires et possède une cuticule jaune-brun ainsi que des spores plus longues. La dédalée tricolore (Daedaleopsis confragosa var. tricolor) ne mesure qu'environ 1 cm d'épaisseur et présente des lames. Le polypore cinabre (Pycnoporus cinnabarinus) est plus petit et ligneux, avec des pores anguleux allongés.",
       notes: "En Europe du Nord, c'est la seule espèce du genre. Fistulina antarctica, Fistulina endoxantha et Fistulina pumiliae sont des espèces distinctes associées aux faux-hêtres (Nothofagus). Le bois de cœur de chêne colonisé est commercialisé sous le nom de chêne brun."
+    },
+    pl: {
+      description: "Nadrzewny grzyb pasożytniczy i saprotroficzny rozwijający się na starych dębach i kasztanach jadalnych. Wywołuje cenną w meblarstwie twardą brunatną zgniliznę drewna dębowego. Występuje w Europie, Azji Północnej i Ameryce Północnej.",
+      cap: "Kapelusz ma 10–25 cm szerokości (czasem do 40 cm) i 2–6 cm grubości, jest półeczkowaty, językowaty lub nerkowaty, przypominający surowy płat wątroby lub ozór wołowy. Powierzchnia jest krwistoczerwona, wątrobianobrązowa, z wiekiem ciemniejsza, brodawkowata i lepka od wydzielanego czerwonawego śluzu.",
+      hymenium: "Hymenium składa się z pojedynczych, niesparowanych, wolnych rurek (cecha unikalna wśród grzybów nadrzewnych). Rurki mają 10–15 mm długości, są początkowo kremowobiałe do jasnożółtych, z wiekiem rdzawoczerwone. Pory są drobne, okrągłe, po dotknięciu przebarwiają się na brązowoczerwono.",
+      stipe: "Trzon jest krótki, boczny i gruby, lub owocnik przyrasta bokiem bezpośrednio do pnia drzewa.",
+      flesh: "Miąższ jest gruby, mięsisty, soczysty, o włóknistej strukturze przypominającej mięso wołowe, ze smugowatym, marmurkowym czerwonobiałym rysunkiem na przekroju. Po uciśnięciu wydziela krwistoczerwony sok. Smak jest przyjemnie kwaskowaty, ściągający.",
+      sporePrint: "Rdzaworóżowy do jasnobrązowego. Zarodniki są gładkie, jajowate, o wymiarach 4,5–6 × 3,5–4,5 μm.",
+      habitat: "Owocniki wyrastają od sierpnia do października u podstawy żywych pni starych dębów lub na starych pniakach dębowych, pojedynczo lub po kilka zrośniętych u nasady.",
+      uses: "Dobry grzyb jadalny, zwłaszcza za młodu. Ze względu na soczysty miąższ i kwaskowaty smak może być smażony jak befsztyk lub duszony; dawniej spożywano go także w sałatkach.",
+      confusion: "Młode owocniki żółciaka siarkowego (Laetiporus sulphureus) mają jaskrawożółtą i pomarańczową barwę oraz zrośnięte rurki bez czerwonego soku."
     }
     },
     sources: {
@@ -20631,18 +20625,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%9F%D0%B5%D1%87%D1%96%D0%BD%D0%BE%D1%87%D0%BD%D0%B8%D1%86%D1%8F_%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9%D0%BD%D0%B0"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Ozorek_dębowy"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -20682,6 +20664,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Ozorek_dębowy"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -20797,10 +20791,10 @@ export const CATALOG = [
       bg: 'червеностъблена манатарка',
       ru: "дубовик крапчатый",
       uk: "синяк зернистоногий",
-      pl: "krasnoborowik ceglastopory",
       it: "boleto dal piede rosso",
       hu: "céklatinóru",
-      fr: "bolet à pied rouge"
+      fr: "bolet à pied rouge",
+      pl: "krasnoborowik ceglastopory"
     },
     names: {
       en: ["red foot bolete", "dotted stemmed bolete", "dotted stem bolete"],
@@ -21096,18 +21090,6 @@ export const CATALOG = [
       confusion: "Дубовик звичайний (Suillellus luridus) має виразну червону сіточку на ніжці. Чортів гриб (Rubroboletus satanas) має світлу білувато-сіру шапинку й набагато повільніше синіє на розрізі.",
       notes: "Синє забарвлення обумовлене окисненням варієгатової кислоти на повітрі."
     },
-    pl: {
-      description: "Grzyb ektomikoryzowy kwaśnych lasów iglastych i bukowych. Szeroko rozprzestrzeniony w Europie.",
-      cap: "Kapelusz ma 5–20 cm średnicy. Za młodu jest półkolisty, potem wypukły do poduszkowatego. Skórka ma barwę ciemnobrązową, kasztanowobrązową do czarnobrązowej, jest sucha, zamszowata, a z wiekiem naga.",
-      hymenium: "Rurki są żółte do oliwkowożółtych, o długości do 3 cm, po uszkodzeniu natychmiast intensywnie ciemnieją i błękitnieją. Pory są drobne, jaskrawo karminowoczerwone do ceglastoczerwonych, natychmiast siniejące pod dotykiem.",
-      stipe: "Trzon ma 4–15 cm długości i 2–5 cm grubości, jest masywny, cylindryczny lub wybrzuszony. Barwa jest żółtawa, gęsto pokryta drobnymi, karminowoczerwonymi ziarenkami lub kłaczkami, bez żadnej siateczki.",
-      flesh: "Miąższ jest zwarty, jaskrawożółty, po przekrojeniu natychmiast intensywnie zabarwia się na ciemnoniebiesko lub atramentowo. Zapach jest słaby, a smak łagodny.",
-      sporePrint: "Oliwkowobrązowy. Zarodniki są wrzecionowate, gładkie, o wymiarach około 12–18 × 4,5–6,5 μm.",
-      habitat: "Owocniki pojawiają się od maja do listopada. Rośnie na kwaśnych glebach w górskich lasach świerkowych oraz nizinnych lasach bukowych i dębowych.",
-      uses: "Bardzo smaczny grzyb jadalny po dokładnym ugotowaniu lub usmażeniu. Na surowo jest trujący i wywołuje silne zaburzenia trawienne. Intensywny błękitny kolor miąższu znika podczas gotowania.",
-      confusion: "Modroborowik ponury (Suillellus luridus) ma wyraźną czerwoną siateczkę na trzonie i pomarańczowoczerwone pory. Krwistoborowik szatański (Rubroboletus satanas) ma kredowobiały kapelusz i czerwoną siatkę na trzonie.",
-      notes: "Niebieszczenie miąższu wynika z utleniania kwasu warygatykowego w kontakcie z tlenem z powietrza."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi di conifere (abete rosso) e latifoglie (faggio, castagno e quercia). È ampiamente diffuso e comune in tutta Europa.",
       cap: "Il cappello misura 5–20 cm di diametro. È emisferico poi convesso e spianato, di colore bruno scuro, bruno vellutato o bruno camoscio, con cuticola finemente vellutata che non diventa viscida.",
@@ -21143,6 +21125,17 @@ export const CATALOG = [
       uses: "Soigneusement cuit, c'est un très bon champignon comestible contenant des toxines thermolabiles détruites à la cuisson, et il est couramment ramassé dans plusieurs pays européens, bien que certaines personnes ne le tolèrent pas. Dans certaines régions, il est préféré au cèpe de Bordeaux (Boletus edulis). La couleur bleue disparaît à la cuisson. Les sporophores crus ou insuffisamment cuits provoquent des vomissements et des diarrhées, et pour cette raison, le séchage est déconseillé.",
       confusion: "Le bolet blafard (Suillellus luridus) possède un réseau rouge sur le pied, une ligne plus sombre au point de contact entre les tubes et la chair du chapeau, et des pores rouge orangé sur fond jaune orangé, et préfère les sols calcaires. Le bolet de Quélet (Suillellus queletii) a un pied plus lisse et plus pâle avec des flocons plus fins, souvent un chapeau rougeâtre, et une chair rouge pourpre à la base du pied qui est amyloïde. Le bolet menteur (Suillellus mendax) présente à la fois un réseau et des ponctuations, des tons plus rouges sur le chapeau et le pied, et une chair amyloïde à la base du pied. Le bolet satan (Rubroboletus satanas) possède un chapeau gris pâle à blanc crayeux, un pied bulbeux orné d'un réseau rouge et une chair qui ne bleuit que modérément. Le bolet de Dupain (Rubroboletus dupainii) a un chapeau rouge écarlate éclatant. Le bolet des loups (Rubroboletus lupinus) a un pied lisse. Le bolet magnifique (Rubroboletus pulcherrimus) possède un pied réticulé et est de plus grande taille. Le bolet pourpre (Imperator rhodopurpureus) préfère les sols neutres. Le bolet jonquille (Neoboletus junquilleus) a un chapeau jaune. Le bolet à pied jaune (Neoboletus xanthopus) est plus jaune sur le chapeau et le pied, avec des flocons plus petits et un tomentum à la base du pied, et pousse dans les chênaies thermophiles.",
       notes: "Le bleuissement provient de l'acide variégatique, qui s'oxyde au contact de l'air, et la couleur rouge des pores est due à la variégatorubine. En Slovaquie, il est souvent délaissé car les pores rouges et le bleuissement intense rebutent les cueilleurs."
+    },
+    pl: {
+      description: "Grzyb ektomikoryzowy lasów iglastych i mieszanych, szczególnie częsty w rejonach podgórskich i górskich pod świerkiem, jodłą i bukiem. Szeroko rozprzestrzeniony w Europie. Tworzy mikoryzę z drzewami iglastymi i liściastymi na kwaśnych glebach.",
+      cap: "Kapelusz ma 5–20 cm średnicy, początkowo jest półkulisty, później wypukły do poduchowatego. Barwa jest ciemnobrązowa, kasztanowobrązowa, zamszowoczarna do czekoladowobrązowej. Skórka jest sucha, matowa, aksamitna, z wiekiem naga.",
+      hymenium: "Rurki mają 1–2,5 cm długości, są żółtawooliwkowe, natychmiast ciemnoniebieskie po przekrojeniu. Pory są drobne, okrągłe, jaskrawo ceglastoczerwone do krwistoczerwonych, przy brzegu kapelusza żółtawe; po uciśnięciu natychmiast stają się ciemnogranatowe.",
+      stipe: "Trzon ma 5–15 cm długości i 2–5 cm grubości, początkowo jest pękaty, później cylindryczny. Na żółtym tle jest gęsto pokryty drobnymi, jaskrawoczerwonymi kosmkami lub ziarenkami (brak siateczki!). Po dotknięciu natychmiast ciemnieje i błękitnieje.",
+      flesh: "Miąższ jest jędrny, jaskrawo żółty, po przekrojeniu w ułamku sekundy barwi się na intensywny, ciemnogranatowy kolor, w podstawie trzonu bywa czerwonawy. Zapach jest słaby, a smak łagodny i przyjemny.",
+      sporePrint: "Oliwkowobrązowy. Zarodniki są gładkie, wrzecionowate, o wymiarach 12–16 × 5–6,5 μm.",
+      habitat: "Owocniki pojawiają się od maja do października, najobficiej w lasach górskich pod świerkami i bukami na kwaśnym podłożu.",
+      uses: "Bardzo smaczny grzyb jadalny po dokładnym ugotowaniu lub usmażeniu. W stanie surowym jest trujący i wywołuje ostre zaburzenia żołądkowo-jelitowe. Podczas obróbki termicznej granatowe zabarwienie miąższu ustępuje.",
+      confusion: "Modroborowik ponury (Suillellus luridus) ma na trzonie wyraźną siateczkę o podłużnych oczkach i pomarańczowoczerwone pory. Krwistoborowik szatański (Rubroboletus satanas) ma kredowobiały lub jasnoszary kapelusz i rośnie wyłącznie na glebach wapiennych w ciepłych lasach liściastych."
     }
     },
     sources: {
@@ -21458,18 +21451,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D1%8F%D0%BA_%D0%B7%D0%B5%D1%80%D0%BD%D0%B8%D1%81%D1%82%D0%BE%D0%BD%D0%BE%D0%B3%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Krasnoborowik_ceglastopory"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -21509,6 +21490,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Krasnoborowik_ceglastopory"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -21620,10 +21613,10 @@ export const CATALOG = [
       bg: 'майска гъба',
       ru: "майский гриб",
       uk: "рядовка травнева",
-      pl: "gęśnica wiosenna",
       it: "prugnolo",
       hu: "májusi pereszke",
-      fr: "mousseron"
+      fr: "mousseron",
+      pl: "gęśnica wiosenna"
     },
     names: {
       sk: ["čírovka májová", "májovka"]
@@ -21900,18 +21893,6 @@ export const CATALOG = [
       confusion: "Смертельно отруйний іноцибе Патуйяра (Inosperma erubescens) росте в тих самих місцях навесні, але має конічну шапинку, м'якуш, що виразно червоніє на зламі, та коричневий споровий порошок.",
       notes: "Оцінка 2019 року відносить вид до категорії в найменшій загрозі (Least Concern)."
     },
-    pl: {
-      description: "Mięsisty grzyb saprotroficzny trawiastych pastwisk, łąk, obrzeży lasów i sadów, często tworzący czarcie koła. Pospolity wiosną w całej Europie.",
-      cap: "Kapelusz ma 4–15 cm średnicy (najczęściej 5–12 cm). Początkowo jest półkolisty z mocno podwiniętym brzegiem, później wypukły do rozpostartego. Barwa jest biała, kremowa, z wiekiem jasnoochrowa. Skórka jest matowa, sucha i gładka.",
-      hymenium: "Blaszki są bardzo gęste, wąskie (5–9 mm), przyrośnięte do wykrojonych, białawe do kremowych, o pofalowanym ostrzu.",
-      stipe: "Trzon ma 3–9 cm wysokości i 1–4 cm grubości, jest cylindryczny, masywny, pełny, białawy do kremowego, u podstawy często zaokrąglony.",
-      flesh: "Miąższ jest gruby, jędrny, biały, niezmieniający barwy po przekrojeniu. Posiada silny, bardzo charakterystyczny zapach i smak świeżej mąki (mączny).",
-      sporePrint: "Biały do kremowobiałego. Zarodniki są owalne do elipsoidalnych, gładkie, o wymiarach około 4–7 × 2,3–3,5 μm, nieamyloidalne.",
-      habitat: "Główny okres owocowania przypada od kwietnia do czerwca (tradycyjnie wokół dnia św. Jerzego, 23 kwietnia). Rośnie na glebach wapiennych wśród traw na łąkach, pastwiskach, w parkach i na obrzeżach lasów.",
-      uses: "Wyborny grzyb jadalny, bardzo ceniony w tradycji kulinarnej. Nadaje się do smażenia, zup, sosów oraz marynowania.",
-      confusion: "Śmiertelnie trujący włókniak ceglasty (Inosperma erubescens) rośnie na tych samych stanowiskach wiosną; ma promieniście włóknisty kapelusz, blaszki brudnobrązowiejące, a cały owocnik i miąższ po uszkodzeniu wyraźnie czerwienieją. Dzwonkówka trująca (Entoloma sinuatum) pojawia się później i ma różowy wysyp zarodników.",
-      notes: "Ocena z 2019 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern)."
-    },
     it: {
       description: "Un fungo saprotrofo primaverile tipico dei prati calcarei, pascoli collinari, radure e margini di roveti e biancospini. È ampiamente diffuso e ricercato in Europa.",
       cap: "Il cappello misura 4–15 cm di diametro. È molto carnoso, sodo, emisferico poi convesso con margine a lungo involuto, di colore bianco latte, crema chiaro o camoscio chiaro.",
@@ -21947,6 +21928,17 @@ export const CATALOG = [
       uses: "C'est un champignon comestible de premier choix, préparé en omelettes, en risotto, en soupes et en sauces, ou séché, confit au vinaigre ou conservé par d'autres méthodes. Réputé comestible cru, il est cependant habituellement consommé cuit. Les jeunes sporophores sont préférés, car les spécimens plus âgés sont souvent troués par les larves de mouches. Les sporophores récoltés au bord des routes fréquentées peuvent accumuler des polluants liés à la circulation. Au Pays basque, c'est un mets printanier très recherché, et des quantités commerciales sont importées de Roumanie, de Hongrie, de Turquie et d'Europe de l'Est. Dans le centre de l'Italie, il est très apprécié depuis le XVIe siècle.",
       confusion: "L'inocybe de Patouillard (Inosperma erubescens) pousse dans les mêmes stations printanières, y compris les parcs et les bois de feuillus. Ses lames sont rose pâle plutôt que blanches, échancrées-adnées, et rougissent au froissement, tandis que son sporophore dégage une odeur piquante et fruitée au lieu d'une odeur de farine. L'entolome livide (Entoloma sinuatum) possède des lames moins serrées qui deviennent rose saumon à rouge chair, et une sporée rose chair. Un ouvrage qualifie son odeur de rance, tandis que d'autres indiquent que la chair peut avoir une odeur et une saveur de farine, de sorte que les lames roses et la sporée rose constituent les critères fiables de distinction. Il fructifie de mai jusqu'en automne dans les bois clairs de feuillus, et les deux espèces peuvent cohabiter à l'orée d'un bois. Le meunier ou clitopile petite prune (Clitopilus prunulus) dégage également une odeur de farine, mais ses lames sont décurrentes et il fructifie plus tard dans l'année. Le tricholome étranglé (Tricholomella constricta) fructifie en automne sur sol riche en azote et possède un pied radicant ainsi qu'un anneau.",
       notes: "Une évaluation de 2019 le classe comme préoccupation mineure (Least Concern)."
+    },
+    pl: {
+      description: "Wiosenny grzyb saprotroficzny wyrastający na łąkach, pastwiskach, w sadach, ogrodach i na skrajach zarośli, często w dużych czarcich kołach. Występuje w Europie i Azji, związany z glebami wapiennymi i zasobnymi w azot.",
+      cap: "Kapelusz ma 5–12 cm średnicy, jest gruby i mięsisty, początkowo półkulisty z podwiniętym brzegiem, później wypukły do spłaszczonego, często z pofalowanym brzegiem. Barwa jest kremowobiała, izabelowata do jasnoochrowej. Skórka jest gładka, sucha, matowa.",
+      hymenium: "Blaszki są bardzo gęste, wąskie, przyrośnięte lub wycięte ząbkiem przy trzonie. Mają barwę białawą do kremowej.",
+      stipe: "Trzon ma 3–8 cm długości i 1–3 cm grubości, jest cylindryczny, masywny, u podstawy często zgrubiały, pełny, białawy do kremowego, wzdłużnie włóknisty.",
+      flesh: "Miąższ jest biały, gruby, jędrny i zwarty. Charakteryzuje się bardzo silnym, przenikliwym zapachem świeżej mąki lub ogórka. Smak jest przyjemny, wyraźnie mączny.",
+      sporePrint: "Biały. Zarodniki są elipsoidalne, gładkie, o wymiarach 5–7 × 3,5–4 μm, nieamyloidalne.",
+      habitat: "Owocniki pojawiają się wiosną, tradycyjnie od dnia św. Jerzego (koniec kwietnia) do czerwca, na trawiastych zboczach, pastwiskach, miedzach i w zaroślach głogu.",
+      uses: "Wyborny i bardzo ceniony wiosenny grzyb jadalny. Szczególnie smaczny duszony na maśle, w jajecznicy lub dodawany do zup. Mączny zapach całkowicie zanika podczas gotowania.",
+      confusion: "Włókniak ceglasty (Inosperma erubescens) jest śmiertelnie trujący, owocuje w tym samym czasie, lecz jego kapelusz i blaszki z wiekiem oraz po uszkodzeniu czerwienieją, a zapach nie jest mączny. Dzwonkówka tarczowata (Entoloma clypeatum) ma różowiejące z wiekiem blaszki i brązowawy kapelusz."
     }
     },
     sources: {
@@ -22304,18 +22296,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%A0%D1%8F%D0%B4%D0%BE%D0%B2%D0%BA%D0%B0_%D1%82%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%B2%D0%B0"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Gęśnica_wiosenna"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -22355,6 +22335,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Gęśnica_wiosenna"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -22473,10 +22465,10 @@ export const CATALOG = [
       bg: 'вълчи зъб',
       ru: "волоконница краснеющая",
       uk: "іноцибе патуйяра",
-      pl: "włókniak ceglasty",
       it: "inocibe erubescente",
       hu: "téglavörös susulyka",
-      fr: "inocybe de Patouillard"
+      fr: "inocybe de Patouillard",
+      pl: "włókniak ceglasty"
     },
     names: {
       en: ["red-staining Inocybe", "red-staining fibrecap", "brick-red tear mushroom"]
@@ -22486,9 +22478,9 @@ export const CATALOG = [
       sv: ['patouillards trådskivling', 'tegelröd trådskivling'],
       ru: ["волоконница патуйяра"],
       uk: ["плютка патуйяра"],
-      pl: ["strzępiak ceglasty"],
       it: ["inocibe di Patouillard"],
-      fr: ["inocybe érubescent"]
+      fr: ["inocybe érubescent"],
+      pl: ["strzępiak ceglasty"]
     },
     text: {
       tr: {
@@ -22745,17 +22737,6 @@ export const CATALOG = [
       confusion: "Рядовка травнева (Calocybe gambosa) плодоносить у той самий час, але має білі пластинки, білий споровий порошок і білий м'якуш із борошняним запахом, який ніколи не червоніє.",
       notes: "Один із найнебезпечніших отруйних грибів весняно-літнього сезону."
     },
-    pl: {
-      description: "Grzyb ektomikoryzowy rosnący w ciepłolubnych lasach liściastych, parkach i ogrodach na podłożu wapiennym, pod bukami, dębami i lipami. Występuje w Europie.",
-      cap: "Kapelusz ma 2,5–9 cm średnicy (niekiedy do 12 cm). Początkowo jest stożkowaty lub dzwonkowaty, z podwiniętym brzegiem, później rozpostarty z wyraźnym garbkiem. Powierzchnia jest promieniście włóknista, początkowo biała do ochrowej, z wiekiem oraz po uszkodzeniu intensywnie czerwieniejąca i przybierająca barwę ceglastoczerwoną.",
-      hymenium: "Blaszki są gęste, do 8 mm szerokości, wycięte przy trzonie. Początkowo białawe, potem oliwkowobrązowe z czerwonawymi plamami, po dotknięciu czerwieniejące.",
-      stipe: "Trzon ma 2,5–12 cm długości i 0,4–2 cm grubości, jest cylindryczny, białawy, z wiekiem i po dotknięciu pokrywający się ceglastoczerwonymi plamami.",
-      flesh: "Miąższ jest białawy, po uszkodzeniu i na powietrzu powoli czerwienieje. Zapach za młodu jest słaby, owocowy, z wiekiem staje się nieprzyjemny, ziemisty.",
-      sporePrint: "Ochrowobrązowy do rdzawobrązowego. Zarodniki są gładkie, elipsoidalne do fasolowatych, o wymiarach około 11–14 × 6–8 μm.",
-      habitat: "Owocniki pojawiają się od maja do września, najczęściej w maju i czerwcu. Rośnie na wapiennych glebach w parkach, zadrzewieniach miejskich i lasach liściastych.",
-      uses: "Śmiertelnie trujący. Zawiera bardzo duże ilości muskaryny (wielokrotnie więcej niż muchomor czerwony). Zatrucie wywołuje gwałtowne pocenie się, ślinotok, zwężenie źrenic, zapaść krążeniową i bez natychmiastowego podania atropiny może zakończyć się śmiercią.",
-      confusion: "Gęśnica wiosenna (Calocybe gambosa) owocuje w tych samych miejscach i czasie, lecz jej miąższ nie czerwienieje, blaszki pozostają białawe, kapelusz nie ma promienistych włókien, a zapach jest mączny."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi calcarei di latifoglie, giardini e parchi. È diffuso in Europa e in parti dell'Asia.",
       cap: "Il cappello misura 2,5–9 cm di diametro. È conico-campanulato poi espanso con umbone centrale prominente, inizialmente bianco o crema chiaro, che si macchia tipicamente e gradualmente di rosso mattone o vermiglio con l'età e al tocco.",
@@ -22789,6 +22770,17 @@ export const CATALOG = [
       habitat: "Les sporophores apparaissent de mai à septembre, le plus souvent en juin. En Sibérie occidentale, la saison se prolonge jusqu'en octobre. Ils poussent isolés ou en petits groupes sur le sol et la litière de feuilles, généralement sur terrain calcaire ou neutre, sous le hêtre, le chêne, le tilleul et le charme, ainsi que dans les bois mixtes, le long des sentiers, dans les parcs et sur les pelouses ombragées sous des feuillus d'alignement. Quelques récoltes sont signalées sous bouleau ou sous conifères.",
       uses: "Il est mortellement toxique. Les sporophores contiennent une grande quantité de muscarine. L'intoxication peut débuter entre quinze minutes et deux heures après l'ingestion, par des nausées, des sueurs froides, une salivation abondante et un larmoiement intense, des vomissements, des diarrhées douloureuses et des crampes, puis des troubles du rythme cardiaque, une gêne respiratoire, une grande faiblesse et des troubles de la vision, tandis que la personne reste consciente. Une dose mortelle publiée est d'environ 40–50 g à l'état frais, et un décès a été enregistré dans le Surrey en 1937.",
       confusion: "Le mousseron ou tricholome de la Saint-Georges (Calocybe gambosa) fructifie dans les mêmes stations printanières. Ses lames restent blanchâtres à crème et ne rougissent pas, son chapeau n'est pas fibrilleux radialement et sa chair dégage une forte odeur de farine. L'inocybe de Godey (Inocybe godeyi) est plus petit, dégage une odeur fruitée et possède un bulbe marginé à la base du pied. L'inocybe de Bongard (Inosperma bongardii) rougit également aux meurtrissures, mais son chapeau est grossièrement fibrilleux à écailleux et son odeur est piquante et chimique. L'inocybe à odeur de poire (Inocybe pyriodora) rougit lentement, possède des pleurocystides à paroi épaisse et une odeur douceâtre lourde. D'autres espèces pâles du groupe sont plus petites et ne rougissent pas avec l'âge ni aux meurtrissures. En Israël, il a été confondu avec le petit-gris ou tricholome terreux (Tricholoma terreum), qui croît dans le même habitat et ne tache pas en rouge. Il a également été confondu avec des espèces d'agarics (Agaricus) et avec la pholiote ridée (Cortinarius caperatus). Ce champignon ne possède pas d'anneau, et ses lames rougissent aux froissements."
+    },
+    pl: {
+      description: "Śmiertelnie trujący grzyb ektomikoryzowy ciepłolubnych lasów liściastych i parków, rosnący głównie pod bukiem, dębem, lipą i grabem na glebach wapiennych. Szeroko rozprzestrzeniony w Europie, na Bliskim Wschodzie oraz w zachodniej Syberii.",
+      cap: "Kapelusz ma 2,5–9 cm średnicy (niekiedy do 12 cm). Początkowo jest stożkowaty lub dzwonkowaty z podwiniętym brzegiem, później wypukły do rozpostartego z wydatnym garbkiem. Brzeg często unosi się i promieniście pęka. Skórka jest sucha, jedwabiście włóknista. Za młodu białawy do kremowego, szybko przebarwia się na ochrowożółto, a w miejscach dotkniętych i z wiekiem przybiera barwę ceglastoczerwoną do cynobrowej.",
+      hymenium: "Blaszki są gęste, przyrośnięte do prawie wolnych, z białawym, nierównym ostrzem. Początkowo białawe do bladoochrowych, później szarobrązowe do oliwkowobrązowych, po uszkodzeniu wyraźnie czerwienieją.",
+      stipe: "Trzon ma 2,5–12 cm długości i 0,4–2 cm grubości, jest cylindryczny, często lekko zgrubiały u podstawy, bez pierścienia. Początkowo białawy, z wiekiem i po dotknięciu pokrywa się ceglastoczerwonymi plamami, zwłaszcza od podstawy w górę.",
+      flesh: "Miąższ jest biały w kapeluszu, po przełamaniu lub uszkodzeniu powoli, lecz wyraźnie czerwienieje. Za młodu zapach jest słaby, owocowy lub mydlany, u starych owocników staje się nieprzyjemny, ziemisty lub nasienny. Zapach nigdy nie jest mączny.",
+      sporePrint: "Ochrowobrązowy do tabaczkowobrązowego. Zarodniki są gładkie, elipsoidalne do fasolkowatych, o wymiarach 9–15 × 5–8 μm.",
+      habitat: "Owocniki wyrastają od maja do września, najczęściej w czerwcu, pojedynczo lub w grupach w parkach, ogrodach i lasach liściastych na podłożu wapiennym.",
+      uses: "Grzyb śmiertelnie trujący. Zawiera niezwykle wysokie stężenie muskaryny (wielokrotnie wyższe niż w muchomorze czerwonym). Śmiertelna dawka wynosi zaledwie 40–50 g świeżego grzyba. Objawy pojawiają się gwałtownie w ciągu 15–120 minut: obfite poty, ślinotok, łzawienie, wymioty, zwężenie źrenic, zapaść krążeniowa i uduszenie w wyniku obrzęku płuc.",
+      confusion: "Gęśnica wiosenna (Calocybe gambosa) owocuje w tym samym okresie, lecz jej miąższ nie czerwienieje i silnie pachnie mąką. Strzępiak kołpaczkowaty (Inocybe rimosa) nie czerwienieje i ma trwale brązowawy kapelusz."
     }
     },
     sources: {
@@ -23114,18 +23106,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%86%D0%BD%D0%BE%D1%86%D0%B8%D0%B1%D0%B5_%D0%9F%D0%B0%D1%82%D1%83%D0%B9%D1%8F%D1%80%D0%B0"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Włókniak_ceglasty"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -23165,6 +23145,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Włókniak_ceglasty"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -23269,10 +23261,10 @@ export const CATALOG = [
       bg: 'жълта рогачка',
       ru: "ежовик жёлтый",
       uk: "їжовик жовтуватий",
-      pl: "kolczak obłączasty",
       it: "steccherino dorato",
       hu: "sárga gereben",
-      fr: "pied-de-mouton"
+      fr: "pied-de-mouton",
+      pl: "kolczak obłączasty"
     },
     names: {
       en: ["hedgehog mushroom", "hedgehog fungus", "sweet tooth"],
@@ -23549,18 +23541,6 @@ export const CATALOG = [
       confusion: "Їжовик рудуватий (Hydnum rufescens) менший за розміром, має насичено-руду шапинку й шипики, що не збігають на ніжку.",
       notes: "Оцінка 2019 року відносить вид до категорії в найменшій загрозі (Least Concern)."
     },
-    pl: {
-      description: "Grzyb ektomikoryzowy. Szeroko rozpowszechniony i pospolity w Europie, zarówno w lasach iglastych, jak i liściastych.",
-      cap: "Kapelusz ma 3–15 cm średnicy. Za młodu jest wypukły, później spłaszczony, pofalowany lub płatowaty, niekiedy lekko wklęsły na środku. Barwa jest kremowa, bladoochrowa do jasnorudawej, sucha i matowa.",
-      hymenium: "Spodnią stronę pokrywają gęste, miękkie kolce o długości 2–7 mm. Są kruche, zbiegające na trzon, początkowo białawe do kremowych, z wiekiem ciemniejące do łososiowożółtych.",
-      stipe: "Trzon ma 2–10 cm wysokości i 0,5–3 cm grubości, jest cylindryczny, często osadzony asymetrycznie, białawy do kremowego, u podstawy żółknący po dotknięciu.",
-      flesh: "Miąższ jest gruby, jędrny i kruchy, białawy do żółtawego. Po przełamaniu może powoli żółknąć lub pomarańczowieć. Zapach jest przyjemny, owocowy, a smak łagodny, u starszych okazów nieco gorzkawy.",
-      sporePrint: "Biały do jasnokremowego. Zarodniki są gładkie, niemal kuliste do szerokoelipsoidalnych, o wymiarach około 6,5–9 × 5,5–7 μm.",
-      habitat: "Owocniki pojawiają się od lipca do listopada, często w grupach lub czarcich kołach, w lasach bukowych, dębowych, świerkowych i sosnowych.",
-      uses: "Wyborny grzyb jadalny. Najsmaczniejsze są młode owocniki; starsze mogą nabierać goryczki, którą usuwa obgotowanie. Doskonały do smażenia, zup i marynowania.",
-      confusion: "Kolczak rudawy (Hydnum rufescens) jest mniejszy, ma intensywniej pomarańczowordzawy kapelusz i kolce niezbiegające na trzon. Kolczak kasztanowaty (Hydnum umbilicatum) ma wyraźnie pępkowaty kapelusz i rośnie w Ameryce Północnej.",
-      notes: "Ocena z 2019 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern)."
-    },
     it: {
       description: "Un fungo ectomicorrizico. È ampiamente diffuso e comune in tutta Europa, sia nei boschi di conifere che di latifoglie, crescendo spesso in gruppi numerosi o cerchi.",
       cap: "Il cappello misura 3–15 cm di diametro. È convesso poi spianato, ondulato o lobato, e talvolta depresso al centro. Il colore varia dal giallo crema al crema-ocraceo chiaro o carnicino chiaro, opaco e vellutato.",
@@ -23596,6 +23576,18 @@ export const CATALOG = [
       uses: "C'est un excellent champignon comestible. Les jeunes sporophores sont préférés, car les plus âgés deviennent amers. La chair ferme s'utilise dans les soupes, les ragoûts et les risottos, souvent mélangée à d'autres champignons. Il est vendu sur les marchés européens. La cuisson atténue la saveur poivrée.",
       confusion: "L'hydne roussissant (Hydnum rufescens) est plus petit, et son chapeau est d'un abricot, orange ou roux plus soutenu. Ses aiguillons sont adnés ou libres plutôt que décurrents, la marge de son chapeau est plus nettement délimitée, et son chapeau est moins feutré. L'hydne à spores ellipsoïdes (Hydnum ellipsosporum) a un chapeau de 3–5 cm de largeur et des spores ellipsoïdes de 9–11 × 6–7,5 µm. Les sporophores pâles ne peuvent pas être séparés de Hydnum boreorepandum (Hydnum boreorepandum) sans séquençage, et les spores des deux espèces ont essentiellement la même taille. L'hydne de Slovénie (Hydnum slovenicum) a un chapeau ocre orangé et des spores plus petites, mesurant en moyenne 7,5 × 6,4 µm. L'hydne blanc (Hydnum albidum) est une espèce distincte et plus petite, blanche à gris-jaune pâle, avec de petites spores subglobuleuses. La girolle (Cantharellus cibarius) et la chanterelle pruineuse (Cantharellus pallens) possèdent des plis épais et fourchus plutôt que des aiguillons.",
       notes: "Une évaluation de 2019 classe l'espèce en préoccupation mineure (Least Concern)."
+    },
+    pl: {
+      description: "Grzyb ektomikoryzowy. Szeroko rozprzestrzeniony i pospolity w Europie, zarówno w lasach iglastych, jak i liściastych. Rewizja taksonomiczna z 2018 roku potwierdza występowanie tego gatunku w Europie. Okazy z Ameryki Północnej i wschodniej Azji zaliczane dawniej pod tę nazwę stanowią odrębne gatunki.",
+      cap: "Kapelusz ma 3–15 cm średnicy. Początkowo jest wypukły, później płaski, pofalowany lub klapowany, czasami wklęsły w środku. Brzeg u młodych owocników jest podwinięty; rosnące w gęstych kępach kapelusze bywają zniekształcone. Powierzchnia jest sucha, gładka do drobno filcowatej, kremowa, żółtawa do pomarańczowoochrowej, zazwyczaj jaśniejsza ku brzegowi, z wiekiem i po ugnieceniu przybierająca odcienie ochrowe do pomarańczowobrązowych.",
+      hymenium: "Hymenium tworzą gęste, miękkie kolce o długości 2–7 mm pokrywające spód kapelusza. Są one kruche, zazwyczaj zbiegające na trzon, białawe do kremowych, później w barwie kapelusza lub bladołososiowe, łatwo odłamujące się przy dotknięciu.",
+      stipe: "Trzon ma 2–10 cm długości i 0,5–3 cm grubości, jest cylindryczny lub lekko maczugowaty, często osadzony ekscentrycznie, pełny, białawy do kremowego, po dotknięciu ochrowiejący. Brak pierścienia.",
+      flesh: "Miąższ jest gruby, jędrny i kruchy, biały do lekko żółtawego. Po przekrojeniu u niektórych okazów powoli żółknie lub pomarańczowieje. Zapach jest przyjemny, lekko owocowy. Smak jest łagodny, z wiekiem staje się nieco pieprzny i gorzkawy.",
+      sporePrint: "Biały do kremowego. Zarodniki są gładkie, cienkościenne, prawie kuliste do szerokoelipsoidalnych, o wymiarach 6,5–9 × 5,5–7,5 μm.",
+      habitat: "Owocniki pojawiają się od lipca do listopada, pojedynczo, w grupach, rzędach lub czarcich kołach na glebie pod świerkami, jodłami, sosnami lub bukami, a także w lasach mieszanych z brzozą, dębem i leszczyną.",
+      uses: "Wyborny grzyb jadalny. Do celów kulinarnych zbiera się głównie młode owocniki, gdyż starsze stają się gorzkawe. Zwarty miąższ doskonale nadaje się do zup, dań duszonych i risotto; gotowanie łagodzi pikantny smak.",
+      confusion: "Kolczak rudawy (Hydnum rufescens) jest mniejszy, ma intensywniej pomarańczowy lub rdzawy kapelusz oraz kolce przyrośnięte, a nie zbiegające na trzon. Pieprznik jadalny (Cantharellus cibarius) pod kapeluszem posiada grube, rozwidlone fałdy i listewki, a nie kolce.",
+      notes: "Kategoria LC (Least Concern) według oceny z 2019 roku."
     }
     },
     sources: {
@@ -23940,18 +23932,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%87%D0%B6%D0%BE%D0%B2%D0%B8%D0%BA_%D0%B6%D0%BE%D0%B2%D1%82%D1%83%D0%B2%D0%B0%D1%82%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Kolczak_obłączasty"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -23991,6 +23971,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Kolczak_obłączasty"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -24109,10 +24101,10 @@ export const CATALOG = [
       bg: 'кафява сърненка',
       ru: "саркодон черепитчатый",
       uk: "саркодон черепичастий",
-      pl: "sarniak świerkowy",
       it: "steccherino bruno",
       hu: "cserepes gereben",
-      fr: "sarcodon imbriqué"
+      fr: "sarcodon imbriqué",
+      pl: "sarniak świerkowy"
     },
     names: {
       en: ["scaly hedgehog", "scaly tooth"],
@@ -24137,9 +24129,9 @@ export const CATALOG = [
       bg: ['сърнена рогачка'],
       ru: ["ежовик пёстрый","ежовик черепитчатый"],
       uk: ["їжовик строкатий"],
-      pl: ["sarniak dachówkowaty"],
       it: ["idno embricato"],
-      fr: ["hydne imbriqué"]
+      fr: ["hydne imbriqué"],
+      pl: ["sarniak dachówkowaty"]
     },
     text: {
       tr: {
@@ -24403,18 +24395,6 @@ export const CATALOG = [
       confusion: "Саркодон сосновий (Sarcodon squamosus) росте виключно під соснами та має дрібніші, більш притиснуті луски.",
       notes: "Старі плодові тіла містять пігменти, які раніше використовувалися для фарбування вовни в синьо-зелені кольори. Оцінка 2019 року визначає статус як у найменшій загрозі (Least Concern)."
     },
-    pl: {
-      description: "Grzyb ektomikoryzowy lasów świerkowych, spotykany także pod jodłami. Szeroko rozprzestrzeniony w chłodniejszych rejonach Europy i Ameryki Północnej.",
-      cap: "Kapelusz osiąga 5–25 cm średnicy (niekiedy do 30 cm). Początkowo jest wypukły z podwiniętym brzegiem, później spłaszczony i wgłębiony na środku. Powierzchnia jest sucha, szarobrązowa do ciemnobrązowej, pokryta dużymi, grubymi, dachówkowato odstającymi ciemnobrązowymi łuskami.",
-      hymenium: "Hymenofor ma postać gęstych, kruchych kolców o długości do 1 cm, zbiegających na trzon. Początkowo są białawe, potem szarobrązowe do brunatnych.",
-      stipe: "Trzon ma 3–10 cm długości i 1–4 cm grubości, jest krótki, gruby, szarobrązowy, pełny, z wiekiem wewnątrz komorowaty.",
-      flesh: "Miąższ jest gruby, za młodu białawy, z wiekiem szarobrązowy, w podstawie trzonu ciemniejszy. Zapach jest korzenny, grzybowy, a smak za młodu łagodny, u starszych okazów gorzkawy.",
-      sporePrint: "Brązowy do szarobrązowego. Zarodniki są kuliste do nieregularnie kanciastych, z wyraźnymi brodawkami, o wymiarach około 5–8 × 4,5–6 μm.",
-      habitat: "Owocniki pojawiają się od sierpnia do listopada, głównie w górskich borach świerkowych na glebach piaszczystych i kwaśnych.",
-      uses: "Młode owocniki są jadalne po ugotowaniu, choć miąższ bywa nieco twardy. Starsze okazy stają się gorzkie i skórzaste. Dobrze nadaje się do suszenia i jako proszek grzybowy.",
-      confusion: "Sarniak sosnowy (Sarcodon squamosus) rośnie pod sosnami i ma drobniejsze, bardziej przylegające łuski. Sarniak szorstki (Hydnellum scabrosum) ma gorzki smak i sinozielonkawą podstawę trzonu.",
-      notes: "Stare owocniki zawierają barwniki używane dawniej do farbowania wełny na niebieskozielone odcienie. Ocena z 2019 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern)."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi montani di abete rosso (Picea abies). È diffuso nelle foreste boreali e alpine di Europa e Nord America.",
       cap: "Il cappello misura 5–25 cm di diametro (talvolta fino a 30 cm), molto carnoso e tozzo, convesso poi spianato e depresso al centro. È di colore bruno-grigiastro o bruno scuro, tipicamente ricoperto da larghe scaglie rilevate concentriche embricate.",
@@ -24450,6 +24430,18 @@ export const CATALOG = [
       uses: "Les jeunes sporophores sont consommés, bien que la chair soit coriace et la qualité seulement moyenne. Les plus âgés sont amers et caoutchouteux. Le blanchiment atténue l'amertume. Ils sont préparés au vinaigre ou séchés et utilisés comme condiment, et en Bulgarie le champignon séché est moulu comme une farine aromatique. Les sporophores crus peuvent être toxiques, et certaines récoltes provoquent des troubles gastro-intestinaux.",
       confusion: "Le sarcodon écailleux (Sarcodon squamosus) possède des écailles plus petites et plus appliquées et croît avec le pin. L'hydne scabre (Hydnellum scabrosum) a des écailles plus fines, une saveur très amère et une chair bleu-vert dans la base du pied. Hydnellum joeides (Hydnellum joeides) est brun et sa chair vire lentement au violet à la coupe. Le bolet pomme de pin (Strobilomyces strobilaceus) peut sembler floconneux vu du dessus, mais il possède des pores. Le pied-de-mouton (Hydnum repandum) présente un chapeau lisse crème, jaune ou orangé et des aiguillons pâles, sans grosses écailles sombres.",
       notes: "Les vieux sporophores de cette espèce et de ses taxons apparentés contiennent des pigments bleu-vert utilisés pour teindre la laine. Une liste rouge de Pologne de 2006 classe l'espèce comme vulnérable (Vulnerable). Elle a fait l'objet d'une protection stricte en Pologne jusqu'en 2014."
+    },
+    pl: {
+      description: "Grzyb ektomikoryzowy lasów świerkowych, spotykany także pod jodłami. Szeroko rozprzestrzeniony w Europie i Ameryce Północnej oraz notowany w Japonii. Doniesienia z Wysp Brytyjskich i Holandii dotyczą odrębnego gatunku rosnącego pod sosnami. Lokalnie bywa częsty w górskich lasach świerkowych.",
+      cap: "Kapelusz ma 5–25 cm średnicy (niekiedy do 30 cm). Początkowo jest wypukły z podwiniętym brzegiem, później spłaszczony do lejkowatego, z głębokim zagłębieniem w środku. Powierzchnia jest sucha, brązowa, szarobrązowa do płowej, pokryta grubymi, ciemnobrązowymi do czarniawych, odstającymi dachówkowato łuskami, które w centrum wznoszą się ku górze.",
+      hymenium: "Spód kapelusza pokrywają gęste, kruche kolce o długości do 1,5 cm, głęboko zbiegające na trzon. Początkowo są białawe do jasnoszarych, z wiekiem szarobrązowe do brązowych.",
+      stipe: "Trzon ma 3–10 cm długości i 1–4 cm grubości, często jest krótki, gruby, cylindryczny, u dołu zgrubiały, suchy, szarobrązowy, pełny, z wiekiem stający się pusty w środku.",
+      flesh: "Miąższ jest gruby, jędrny, białawy do szarobrązowego. Zapach jest przyjemny, korzenny, a smak łagodny, u starszych okazów gorzkawy.",
+      sporePrint: "Brązowy. Zarodniki są kuliste do prawie kulistych, pokryte grubymi, nieregularnymi guzkami, o wymiarach 5,5–7,5 × 5–6 μm.",
+      habitat: "Owocniki pojawiają się od sierpnia do listopada, najczęściej w górskich i podgórskich lasach świerkowych na kwaśnych i piaszczystych glebach.",
+      uses: "Dobry grzyb jadalny za młodu. Po wysuszeniu i sproszkowaniu służy jako aromatyczna przyprawa. Starsze owocniki stają się twarde i gorzkie.",
+      confusion: "Sarniak sosnowy (Sarcodon squamosus) rośnie wyłącznie pod sosnami, ma drobniejsze, bardziej przylegające łuski i nieco inny odcień kapelusza.",
+      notes: "Kategoria LC (Least Concern) według oceny z 2019 roku."
     }
     },
     sources: {
@@ -24765,18 +24757,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D0%BA%D0%BE%D0%B4%D0%BE%D0%BD_%D1%87%D0%B5%D1%80%D0%B5%D0%BF%D0%B8%D1%87%D0%B0%D1%81%D1%82%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Sarniak_świerkowy"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -24816,6 +24796,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Sarniak_świerkowy"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -24943,10 +24935,10 @@ export const CATALOG = [
       bg: 'сивовиолетова гълъбка',
       ru: "сыроежка сине-жёлтая",
       uk: "сироїжка синьо-зелена",
-      pl: "gołąbek zielonawofioletowy",
       it: "colombina maggiore",
       hu: "kékhátú galambgomba",
-      fr: "russule charbonnière"
+      fr: "russule charbonnière",
+      pl: "gołąbek zielonawofioletowy"
     },
     names: {
       en: ["variegated russula"]
@@ -24956,9 +24948,9 @@ export const CATALOG = [
       pt: ['rússula-azul'],
       sv: ['mellankremla'],
       ru: ["сыроежка разноцветная"],
-      pl: ["gołąbek modrożółty"],
       it: ["colombina verde-viola"],
-      hu: ["galambica"]
+      hu: ["galambica"],
+      pl: ["gołąbek modrożółty"]
     },
     text: {
       tr: {
@@ -25223,18 +25215,6 @@ export const CATALOG = [
       confusion: "Сироїжка фіолетово-зелена (Russula ionochlora) та інші споріднені види помітно менші за розміром і мають типово крихкі, ламкі пластинки.",
       notes: "Оцінка 2025 року відносить вид до категорії в найменшій загрозі (Least Concern)."
     },
-    pl: {
-      description: "Grzyb ektomikoryzowy lasów liściastych i mieszanych, rosnący głównie pod bukami i dębami, a także pod drzewami iglastymi. Pospolity w Europie.",
-      cap: "Kapelusz ma 5–15 cm średnicy. Za młodu jest półkolisty, potem płaski do wgłębionego na środku. Barwa jest niezwykle zmienna: odcienie fioletu, purpury, zieleni, szarości i brązu, często marmurkowato zmieszane na jednym owocniku.",
-      hymenium: "Blaszki są białe do kremowych, gęste, elastyczne i tłuste w dotyku – nie kruszą się pod naciskiem palca, lecz uginają, co jest cechą wyjątkową w rodzaju Russula.",
-      stipe: "Trzon ma 5–10 cm wysokości i 1,5–3 cm grubości, jest cylindryczny, biały, czasem z lekkim fioletowawym nalotem, pełny i jędrny.",
-      flesh: "Miąższ jest czysto biały, pod skórką fioletowawy, gruby, jędrny, kruchy. Po przekrojeniu nie zmienia barwy, nie reaguje z siarczanem żelaza(II) (FeSO4). Zapach jest niewyraźny, a smak przyjemny, orzechowy.",
-      sporePrint: "Czysto biały. Zarodniki są szerokoelipsoidalne, pokryte drobnymi brodawkami, o wymiarach około 7–9 × 5,5–7 μm.",
-      habitat: "Owocniki pojawiają się od czerwca do listopada w lasach bukowych, dębowych i mieszanych na glebach obojętnych i słabo kwaśnych.",
-      uses: "Bardzo smaczny grzyb jadalny, uznawany za jeden z najlepszych gołąbków. Po ugotowaniu zachowuje jędrność; nadaje się do smażenia, zup i duszenia.",
-      confusion: "Inne fioletowe lub zielonkawe gołąbki (np. Russula ionochlora, Russula virescens) mają blaszki typowo kruche, łamiące się przy dotknięciu, oraz kremowy wysyp zarodników. Śmiertelnie trujący muchomor zielonawy (Amanita phalloides) ma pochwę u podstawy trzonu i pierścień.",
-      notes: "Ocena z 2025 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern)."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi di latifoglie (soprattutto faggio e quercia) e conifere. È una delle russule più comuni e ricercate d'Europa.",
       cap: "Il cappello misura 5–15 cm di diametro (fino a 18 cm). È sodo, carnoso, emisferico poi convesso e infine depresso. Ha colorazione estremamente variabile con sfumature policrome di viola, blu-ardesia, porpora e verde oliva.",
@@ -25270,6 +25250,17 @@ export const CATALOG = [
       uses: "C'est un bon champignon comestible avec une saveur douce de noisette. La chair reste plus tendre après cuisson que celle de nombreuses autres espèces comestibles du genre. Il est sauté et utilisé dans les omelettes, les soupes et les ragoûts. Les sporophores sont souvent véreux.",
       confusion: "La russule vert-et-violet (Russula ionochlora) et la russule fausse azurée (Russula parazurea) sont plus petites, possèdent des lames cassantes et ne donnent pas une sporée d'un blanc pur. La russule grise (Russula grisea) donne une sporée crème, a un chapeau plus gris-bleu avec des reflets violets ou verts, et des lames crème. La russule fourchue (Russula heterophylla) voit sa chair virer au rose avec les sels de fer et possède des spores plus petites. La russule verdoyante (Russula virescens) présente un chapeau vert craquelé, une chair qui vire au rose orangé avec les sels de fer et une cuticule composée en grande partie de cellules sphériques. La russule jaune d'or (Russula claroflava) a une chair qui grisaille avec l'âge, des lames cassantes et une sporée crème foncé à ocre pâle. La russule feuille-morte (Russula xerampelina) est tout aussi variable par la couleur de son chapeau et sent le crabe ou le poisson. La russule olivacée (Russula olivacea) peut avoir un chapeau marbré et produit des spores jaunes. La russule vert-de-gris (Russula aeruginea) est plus uniformément verte, pousse souvent sous les bouleaux, donne une sporée crème, a des lames cassantes et présente une saveur légèrement piquante.",
       notes: "Une évaluation de 2025 classe l'espèce en préoccupation mineure (Least Concern), laisse les signalements d'Afrique incertains et écarte les mentions australiennes comme appartenant à une espèce différente. Les sporophores nord-américains portant ce nom pourraient appartenir à plusieurs espèces."
+    },
+    pl: {
+      description: "Grzyb ektomikoryzowy lasów liściastych i mieszanych. Bardzo pospolity w całej Europie, częsty pod bukiem, dębem i brzozą, a także w lasach iglastych pod sosną i świerkiem.",
+      cap: "Kapelusz ma 5–15 cm średnicy, początkowo jest półkulisty, z wiekiem rozpostarty do lekko wklęsłego w środku. Barwa jest niezwykle zmienna, często wielobarwna: fioletowa, stalowoniebieska, ciemnozielona, oliwkowa lub szarofioletowa. Skórka jest gładka, promieniście żyłkowana, w wilgotnych warunkach lepka, dająca się ściągnąć do połowy kapelusza.",
+      hymenium: "Blaszki są gęste, przyrośnięte do nieco zbiegających, białe, z wiekiem lekko kremowe. Cechą wyróżniającą ten gatunek wśród gołąbków są elastyczne, tłuste w dotyku blaszki, które nie kruszą się i nie łamią pod naciskiem palca.",
+      stipe: "Trzon ma 5–10 cm długości i 1,5–3 cm grubości, jest cylindryczny, mocny, biały, czasem z fioletowawym nalotem, pełny, z wiekiem stający się watowaty.",
+      flesh: "Miąższ jest biały, pod skórką fioletowawy, gruby i jędrny. Nie reaguje na siarczan żelaza(II) (brak reakcji barwnej wyróżnia ten gatunek). Zapach jest niewyraźny, a smak przyjemny, orzechowy.",
+      sporePrint: "Biały. Zarodniki są elipsoidalne, pokryte drobnymi brodawkami, o wymiarach 7–9 × 6–7 μm, amyloidalne.",
+      habitat: "Owocniki pojawiają się od czerwca do listopada w lasach liściastych (szczególnie bukowych i dębowych) oraz mieszanych, na glebach zasobnych i umiarkowanie wilgotnych.",
+      uses: "Wyborny grzyb jadalny, uznawany za jeden z najsmaczniejszych gołąbków. Doskonały do smażenia, gotowania, duszenia i marynowania.",
+      confusion: "Gołąbek fioletowozielony (Russula ionochlora) jest mniejszy, ma kruche blaszki i reaguje z siarczanem żelaza. Śmiertelnie trujący muchomor zielonawy (Amanita phalloides) ma pierścień na trzonie i pochwę u podstawy, których gołąbki nigdy nie posiadają."
     }
     },
     sources: {
@@ -25593,18 +25584,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%A1%D0%B8%D1%80%D0%BE%D1%97%D0%B6%D0%BA%D0%B0_%D1%81%D0%B8%D0%BD%D1%8C%D0%BE-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Gołąbek_zielonawofioletowy"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -25644,6 +25623,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Gołąbek_zielonawofioletowy"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -25755,10 +25746,10 @@ export const CATALOG = [
       bg: 'кичуреста пънчушка',
       ru: "опёнок летний",
       uk: "опеньок літній",
-      pl: "łuskwiak zmienny",
       it: "famigliola cangiante",
       hu: "ízletes tőkegomba",
-      fr: "pholiote changeante"
+      fr: "pholiote changeante",
+      pl: "łuskwiak zmienny"
     },
     names: {
       en: ["brown stew fungus", "two-toned pholiota", "velvet toughshank"],
@@ -25767,8 +25758,8 @@ export const CATALOG = [
       cs: [],
       es: ['mata envainada de los bosques'],
       ro: ['ghebă de vară'],
-      pl: ["łuszczak zmienny"],
-      hu: ["változékony tőkegomba"]
+      hu: ["változékony tőkegomba"],
+      pl: ["łuszczak zmienny"]
     },
     text: {
       tr: {
@@ -26032,18 +26023,6 @@ export const CATALOG = [
       confusion: "Смертельно отруйна галерина облямована (Galerina marginata) росте на тій самій деревині, має гладеньку або шовковисто-волокнисту ніжку без відстаючих темних лусочок під кільцем і володіє борошняним запахом.",
       notes: "Оцінка 2019 року визначає статус як у найменшій загрозі (Least Concern)."
     },
-    pl: {
-      description: "Nadrzewny grzyb saprotroficzny rozwijający się w kępach na pniakach i martwych pniach drzew liściastych. Pospolity w umiarkowanej strefie Eurazji i Ameryki Północnej.",
-      cap: "Kapelusz ma 2–8 cm średnicy. Za młodu jest półkolisty, potem wypukły z szerokim garbkiem. Wykazuje silną higrofaniczność: w stanie wilgotnym jest cynamonoworozwawy lub miodowobrązowy, wysychając jaśnieje od środka ku brzegom do barwy kremowożółtej.",
-      hymenium: "Blaszki są gęste, przyrośnięte do lekko zbiegających, początkowo bladoochrowe, z wiekiem rdzawocynamonowe.",
-      stipe: "Trzon ma 3–10 cm długości i 0,3–1 cm grubości, jest zgięty, sprężysty. Posiada wyraźny pierścień; powyżej pierścienia trzon jest gładki i jasny, a poniżej ciemnobrązowy i pokryty wyraźnymi, odstającymi ciemnymi łuskami.",
-      flesh: "Miąższ w kapeluszu jest cienki, miękki, wodnisty, w trzonie łykowaty i twardy. Zapach jest przyjemny, grzybowy, a smak łagodny.",
-      sporePrint: "Cynamonowobrązowy do rdzawobrązowego. Zarodniki są gładkie, elipsoidalne, z wyraźną porą rostkową, o wymiarach około 6–7,5 × 4–5 μm.",
-      habitat: "Owocniki pojawiają się od kwietnia do listopada (w łagodnych okresach niemal przez cały rok). Wyrasta w gęstych wiązkach na pniakach i kłodach drzew liściastych (buków, brzóz, olsz).",
-      uses: "Smaczny grzyb jadalny. Zbiera się wyłącznie kapelusze, które doskonale nadają się do zup i sosów. Wymaga jednak ogromnej ostrożności ze względu na możliwość śmiertelnej pomyłki.",
-      confusion: "Śmiertelnie trująca hełmówka jadowita (Galerina marginata) rośnie na tym samym drewnie; ma trzon poniżej pierścienia pokryty srebrzystobiałymi, przylegającymi włókienkami (bez odstających łusek) i zapach mączny.",
-      notes: "Ocena z 2019 roku uznaje go za gatunek najmniejszej troski (Least Concern) o stabilnej populacji."
-    },
     it: {
       description: "Un fungo saprotrofo lignicolo che cresce in fitti cespi su ceppaie e tronchi marcescenti di latifoglie (faggio, betulla) e raramente conifere. È comune in tutta l'Europa temperata.",
       cap: "Il cappello misura 2–8 cm di diametro. È fortemente igrofano: di colore bruno-cannella o miele vivo a tempo umido, impallidendo rapidamente a un giallo crema a partire dal centro quando si asciuga.",
@@ -26079,6 +26058,17 @@ export const CATALOG = [
       uses: "Les chapeaux sont poêlés ou utilisés pour parfumer sauces et soupes, et la saveur est meilleure après cuisson. Les pieds sont trop coriaces et sont rejetés. Un sosie mortel croît sur le même bois, si bien que plusieurs guides déconseillent de le ramasser à moins de pouvoir séparer les deux espèces avec certitude.",
       confusion: "La galère marginée (Galerina marginata) est mortelle et croît sur le même bois, solitaire ou en touffes plus réduites. Ce champignon sèche du centre vers la marge, de sorte que la marge conserve une bande aqueuse plus sombre, tandis que la galère marginée (Galerina marginata) sèche de la marge vers le centre. Le pied sous l'anneau est écailleux ici et normalement soyeux chez la galère marginée (Galerina marginata), bien que des écailles puissent apparaître chez cette dernière, ce caractère n'étant donc pas entièrement fiable. L'odeur et la saveur sont ici épicées ou fongiques et douces. La galère marginée (Galerina marginata) a une odeur et une saveur de farine ou de rave, et ses spores sont plus grandes et verruqueuses. Une goutte de KOH sur le chapeau ne provoque aucun changement de couleur ici, alors qu'elle colore en rouge le chapeau de la galère marginée (Galerina marginata). Les deux espèces ne sont parfois séparables qu'au microscope. L'hypholome en touffes (Hypholoma fasciculare) et les espèces touffues apparentées du genre Hypholoma (Hypholoma) ont une sporée gris-violet ou gris-noir, un pied lisse, une hygrophanéité faible ou nulle et pas d'anneau. L'hypholome à lames enfumées (Hypholoma capnoides) a un pied lisse, et ses lames deviennent brun grisâtre à brun violacé. Les espèces du genre Pholiota (Pholiota) partageant le même habitat ont souvent un chapeau plus écailleux. Certaines sont visqueuses, et leur anneau, lorsqu'il est présent, est membraneux et vite fugace. La psathyrelle hydrophile (Psathyrella piluliformis) n'a pas d'anneau et sa sporée est presque brun-noir. La collybie à pied velouté (Flammulina velutipes) a un pied velouté plus sombre et une sporée blanche. Le genre Armillaria (Armillaria), y compris Armillaria nabsnona (Armillaria nabsnona) sur l'aulne, produit une sporée blanche.",
       notes: "Une évaluation de 2019 classe l'espèce en préoccupation mineure (Least Concern), et la tendance de la population dans cette évaluation est stable."
+    },
+    pl: {
+      description: "Grzyb nadrzewny, saprotrof rozkładający martwe drewno drzew liściastych. Rośnie w gęstych wiązkach i kępach na pniakach, kłodach i gałęziach. Pospolity w strefie umiarkowanej w Europie, Azji i Ameryce Północnej.",
+      cap: "Kapelusz ma 2–8 cm średnicy, początkowo jest wypukły, z wiekiem spłaszczony z tępym garbkiem. Jest silnie higrofaniczny: w stanie wilgotnym miodowożółty do cynamonowobrązowego z ciemniejszym brzegiem, podczas wysychania jaśnieje od środka ku brzegowi do barwy kremowożółtej.",
+      hymenium: "Blaszki są gęste, przyrośnięte lub lekko zbiegające ząbkiem, początkowo kremowe do jasnożółtych, z wiekiem cynamonowordzawe od dojrzewających zarodników.",
+      stipe: "Trzon ma 3–9 cm długości i 0,3–0,8 cm grubości, jest cylindryczny, sztywny, często wygięty. Nosi błoniasty pierścień; powyżej pierścienia trzon jest gładki i jasnożółty, poniżej ciemnobrązowy i gęsto pokryty odstającymi, ciemnymi łuseczkami.",
+      flesh: "Miąższ w kapeluszu jest miękki, białawy do żółtawego, w trzonie twardy i włóknisty. Zapach i smak są przyjemne, grzybowe.",
+      sporePrint: "Rdzawobrązowy. Zarodniki są gładkie, elipsoidalne, z porą rostkową, o wymiarach 6–7,5 × 4–4,5 μm.",
+      habitat: "Owocniki pojawiają się od kwietnia do listopada w gęstych kępach na martwym drewnie drzew liściastych (brzoza, buk, olsza), sporadycznie na drewnie iglastym.",
+      uses: "Bardzo smaczny grzyb jadalny. Do spożycia zbiera się wyłącznie kapelusze; twarde trzony odrzuca się. Nadaje się do zup, smażenia i duszenia.",
+      confusion: "Śmiertelnie trująca hełmówka jadowita (Galerina marginata) ma trzon poniżej pierścienia podłużnie srebrzyście włókienkowaty (bez odstających łusek!) i może rosnąć na tych samych pniakach. Zbieranie wymaga ogromnej ostrożności."
     }
     },
     sources: {
@@ -26423,18 +26413,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%9E%D0%BF%D0%B5%D0%BD%D1%8C%D0%BE%D0%BA_%D0%BB%D1%96%D1%82%D0%BD%D1%96%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Łuskwiak_zmienny"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -26474,6 +26452,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Łuskwiak_zmienny"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -26578,10 +26568,10 @@ export const CATALOG = [
       bg: 'отровна галерина',
       ru: "галерина окаймлённая",
       uk: "галерина облямована",
-      pl: "hełmówka jadowita",
       it: "galerina marginata",
       hu: "fenyves sisakgomba",
-      fr: "galère marginée"
+      fr: "galère marginée",
+      pl: "hełmówka jadowita"
     },
     names: {
       en: ["deadly skullcap", "autumn skullcap", "deadly Galerina", "marginate Pholiota"]
@@ -26590,8 +26580,8 @@ export const CATALOG = [
       es: ['seta rebordeada'],
       nl: ['Gifmosklokje'],
       sv: ['strimmig tofsskivling'],
-      pl: ["hełmówka obrzeżona"],
-      hu: ["fenyő-tőkegomba","fenyves turjángomba"]
+      hu: ["fenyő-tőkegomba","fenyves turjángomba"],
+      pl: ["hełmówka obrzeżona"]
     },
     text: {
       tr: {
@@ -26845,17 +26835,6 @@ export const CATALOG = [
       confusion: "Опеньок літній (Kuehneromyces mutabilis) росте великими зростками й має ніжку під кільцем густо всіяну темними відстаючими лусками. Опеньок осінній справжній (Armillaria mellea) має білий споровий порошок.",
       notes: "Генетичні дослідження об'єднали кілька раніше описаних видів (зокрема Galerina autumnalis та Galerina venenata) під цією назвою."
     },
-    pl: {
-      description: "Nadrzewny grzyb saprotroficzny rozwijający się na butwiejącym drewnie drzew iglastych i liściastych. Szeroko rozpowszechniony na półkuli północnej.",
-      cap: "Kapelusz ma 1–4 cm średnicy. Za młodu jest stożkowato-wypukły, później rozpostarty z tępym garbkiem. Jest higrofaniczny: wilgotny jest ochrowobrązowy do cynamonoworudego z prześwitującym prążkowaniem przy brzegu, wysychając staje się żółtawomiodowy.",
-      hymenium: "Blaszki są gęste, przyrośnięte do lekko zbiegających, początkowo żółtawe, potem rdzawocynamonowe.",
-      stipe: "Trzon ma 2–6 cm długości i 0,2–0,5 cm grubości, jest cylindryczny, pusty, z małym, błoniastym, szybko zanikającym pierścieniem. Poniżej pierścienia powierzchnia trzonu pokryta jest srebrzystobiałymi, podłużnymi, przylegającymi włókienkami na brązowym tle (brak odstających łusek).",
-      flesh: "Miąższ jest cienki, żółtawobrązowy. Zapach i smak są mączne.",
-      sporePrint: "Rdzawobrązowy. Zarodniki są elipsoidalne do migdałowatych, drobno brodawkowane, o wymiarach około 8–11 × 5–6,5 μm.",
-      habitat: "Owocniki pojawiają się od sierpnia do listopada. Rośnie pojedynczo lub w małych grupach na butwiejących pniach, kłodach i gałęziach sosny, świerka oraz drzew liściastych.",
-      uses: "Śmiertelnie trujący. Zawiera zabójcze amatoksyny w stężeniu porównywalnym z muchomorem zielonawym. Powoduje nieodwracalną martwicę wątroby i nerek. Toksyny nie ulegają zniszczeniu podczas gotowania ani suszenia.",
-      confusion: "Jadalny łuskwiak zmienny (Kuehneromyces mutabilis) rośnie w dużych wiązkach, ma trzon poniżej pierścienia wyraźnie pokryty ciemnobrązowymi, odstającymi łuskami i nie ma mącznego zapachu. Płomiennica zimowa (Flammulina velutipes) owocuje zimą i ma ciemnobrązowy, aksamitny trzon bez pierścienia."
-    },
     it: {
       description: "Un fungo lignicolo saprotrofo che fruttifica solitario o in piccoli gruppi su legno marcescente di conifere e latifoglie. È diffuso in tutto l'emisfero boreale.",
       cap: "Il cappello misura 1–5 cm di diametro (talvolta fino a 7 cm). È convesso poi appianato, igrofano, di colore bruno-ocraceo, giallo miele o bruno-rossastro con tempo umido, che schiarisce all'ocra giallastro seccando.",
@@ -26889,6 +26868,17 @@ export const CATALOG = [
       habitat: "En Europe, les sporophores apparaissent de mai jusqu'en décembre, le plus souvent en été et en automne, et l'Europe centrale connaît également une poussée au début du printemps. En Amérique du Nord tempérée, ils apparaissent tout au long de l'année, le plus souvent au printemps et en automne. Il croît sur le bois en décomposition de conifères et de feuillus, sur les souches, les troncs tombés, les branches, la sciure, l'écorce décortiquée et le bois enfoui, et provoque une pourriture blanche fibreuse. Sur le bois des forêts alluviales inondables, il peut figurer parmi les champignons les plus communs. Les groupes et petites touffes sont habituels, et des sporophores solitaires se rencontrent également.",
       uses: "Il contient des amatoxines, notamment l'alpha-amanitine et la gamma-amanitine, la même classe de toxines que chez l'amanite phalloïde (Amanita phalloides). Les symptômes débutent plusieurs heures après un repas et parfois seulement le lendemain : violentes douleurs abdominales, vomissements et diarrhées. Une rémission apparente peut suivre, puis surviennent des lésions hépatiques, des hémorragies gastro-intestinales, une insuffisance rénale, le coma ou la mort, souvent en l'espace d'environ une semaine. Une intoxication grave peut laisser des séquelles hépatiques et rénales durables. Entre 1978 et 1995, dix intoxications de ce type ont été signalées en Europe et en Amérique du Nord, dont deux mortelles.",
       confusion: "La pholiote changeante (Kuehneromyces mutabilis) présente des écailles sur le pied jusqu'à l'anneau, une odeur épicée ou aromatique, des spores lisses et un chapeau qui est souvent plus pâle au centre qu'à la marge. La pholiote printanière (Kuehneromyces vernalis) est plus rare et plus proche, et ses spores sont lisses et munies d'un pore germinatif. La collybie à pied velouté (Flammulina velutipes) possède des lames blanches à jaune pâle, une sporée blanche, des spores lisses elliptiques de 6,5–9 × 2,5–4 µm, pas d'anneau et un pied qui devient sombre et velouté. L'hypholome à lames enfumées (Hypholoma capnoides) possède des lames d'abord blanchâtres puis gris-bleu. L'armillaire couleur de miel (Armillaria mellea) produit une sporée blanche. Les espèces du genre Pholiota (Pholiota) ont souvent un chapeau écailleux, une sporée brun foncé et des spores lisses."
+    },
+    pl: {
+      description: "Śmiertelnie trujący grzyb saprotroficzny rozwijający się na butwiejącym drewnie drzew iglastych i liściastych. Pospolity na całej półkuli północnej w Europie, Azji, Ameryce Północnej oraz Australii.",
+      cap: "Kapelusz ma 1,5–4 cm średnicy (niekiedy do 7 cm). Początkowo jest wypukły z podwiniętym brzegiem, później spłaszczony z niewielkim garbkiem. Jest higrofaniczny: w stanie wilgotnym ochrowobrązowy do miodowobrązowego z prześwitującym, prążkowanym brzegiem, w stanie suchym płowieje do żółtawobeżowego.",
+      hymenium: "Blaszki są gęste, przyrośnięte do lekko zbiegających, początkowo żółtawobrązowe, z wiekiem rdzawobrązowe od zarodników.",
+      stipe: "Trzon ma 2–8 cm długości i 0,2–0,6 cm grubości, jest cylindryczny, często wygięty. Nosi nietrwały, błoniasty pierścień. Poniżej pierścienia powierzchnia jest ciemnobrązowa, pokryta podłużnymi, srebrzystobiałymi włókienkami (nigdy odstającymi łuseczkami!).",
+      flesh: "Miąższ jest cienki, żółtawobrązowy. Zapach i smak są mączne.",
+      sporePrint: "Rdzawobrązowy. Zarodniki są elipsoidalne, drobno brodawkowate, o wymiarach 8–11 × 5–6,5 μm.",
+      habitat: "Owocniki pojawiają się od lata do późnej jesieni (od czerwca do listopada), wyrastając pojedynczo lub w małych grupach na butwiejących pniakach, kłodach, trocinach i ściółce.",
+      uses: "Grzyb śmiertelnie trujący. Zawiera amatoksyny w stężeniu porównywalnym z muchomorem zielonawym. Spożycie prowadzi do nieodwracalnego uszkodzenia wątroby i nerek; gotowanie nie niszczy toksyn.",
+      confusion: "Jadalny łuskwiak zmienny (Kuehneromyces mutabilis) ma trzon poniżej pierścienia pokryty wyraźnymi, odstającymi łuskami i rośnie w wielkich, gęstych kępach. Łuskwiak ten bywa śmiertelnie mylony z hełmówką."
     }
     },
     sources: {
@@ -27209,18 +27199,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%93%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D0%BD%D0%B0_%D0%BE%D0%B1%D0%BB%D1%8F%D0%BC%D0%BE%D0%B2%D0%B0%D0%BD%D0%B0"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Hełmówka_jadowita"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -27260,6 +27238,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Hełmówka_jadowita"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -27382,10 +27372,10 @@ export const CATALOG = [
       bg: 'зелчеста гъба',
       ru: "спарассис курчавый",
       uk: "спарасис кучерявий",
-      pl: "siedzuń sosnowy",
       it: "spugnola riccia",
       hu: "fodros káposztagomba",
-      fr: "sparassis crépu"
+      fr: "sparassis crépu",
+      pl: "siedzuń sosnowy"
     },
     names: {
       en: ["wood cauliflower", "cauliflower mushroom", "brain fungus"],
@@ -27395,9 +27385,9 @@ export const CATALOG = [
       es: ['barba de cabra'],
       ro: ['crețușcă', 'crețișoare'],
       ru: ["грибная капуста"],
-      pl: ["szmaciak gałęzisty"],
       it: ["sparassi crespa"],
-      fr: ["morille des pins"]
+      fr: ["morille des pins"],
+      pl: ["szmaciak gałęzisty"]
     },
     text: {
       tr: {
@@ -27653,18 +27643,6 @@ export const CATALOG = [
       confusion: "Спарасис пластинчастий (Sparassis laminosa) росте біля основи дубів і має менш кучеряві, ширші лопаті.",
       notes: "Рідкісний вид, занесений до Червоної книги України зі статусом зникаючого."
     },
-    pl: {
-      description: "Nadrzewny pasożyt i saprotrof rozwijający się u podstawy pni i na korzeniach starych sosen. Wywołuje brunatną zgniliznę drewna. Pospolity w borach sosnowych Eurazji i Ameryki Północnej.",
-      cap: "Owocnik ma 10–40 cm średnicy (niekiedy do 50 cm) i może ważyć kilka kilogramów. Ma kształt nieregularnie kulisty, przypominający główkę kalafiora lub gąbkę kąpielową, składającą się z setek płaskich, pofałdowanych, kędzierzawych odgałęzień. Barwa jest kremowa, bladożółtawa do ochrowej, z wiekiem brązowiejąca na brzegach płatów.",
-      hymenium: "Hymenofor pokrywa obustronnie pofałdowane gałązki. Powierzchnia jest gładka.",
-      stipe: "Trzon jest gruby, mięsisty, bulwiasty, głęboko zakorzeniony w drewnie korzeni sosny, wewnątrz rozgałęziający się na główne ramiona.",
-      flesh: "Miąższ jest białawy, sprężysty, za młodu woskowaty, z wiekiem łykowaty. Posiada przyjemny, orzechowy lub korzenny zapach i łagodny smak.",
-      sporePrint: "Białawy do jasnoochrowego. Zarodniki są elipsoidalne, gładkie, z kroplą tłuszczu, o wymiarach około 5–7 × 4–5 μm.",
-      habitat: "Owocniki wyrastają od lipca do listopada, niemal wyłącznie u podnóża starych sosen.",
-      uses: "Bardzo smaczny grzyb jadalny o chrupkim miąższu i wspaniałym aromacie. Doskonały do zup, smażenia na maśle oraz duszenia. Wymaga starannego oczyszczenia z piasku i igliwia pomiędzy fałdami gałązek.",
-      confusion: "Siedzuń dębowy (Sparassis brevipes) rośnie pod dębami i bukami, ma szersze, mniej pofałdowane płaty o słomkowej barwie. Koroniczowate i koralówkowate (Ramaria) mają gałązki cylindryczne, koralowate, a nie płaskie i wstęgowate.",
-      notes: "Dawniej w Polsce objęty ścisłą ochroną, obecnie dopuszczony do pozyskiwania (ochrona zniesiona w 2014 r.)."
-    },
     it: {
       description: "Un fungo parassita e saprotrofo alla base dei tronchi e sulle radici di conifere (prevalentemente pini). Causa un marciume bruno del legno.",
       cap: "Il corpo fruttifero assomiglia a un grosso cespo di cavolfiore o una spugna marina, largo 10–30 cm (talvolta fino a 50 cm) e pesante fino a diversi chilogrammi. È composto da innumerevoli lamine nastriformi fittamente increspate, lobate e arricciate, di colore bianco crema poi giallo paglierino e brunicce sui bordi con l'età.",
@@ -27698,6 +27676,17 @@ export const CATALOG = [
       habitat: "Les sporophores apparaissent de juillet à décembre en Europe centrale, avec un pic en septembre et octobre, de juillet à octobre en Grande-Bretagne et en Irlande et jusqu'en novembre selon certaines mentions, d'août à octobre en Slovaquie, et de juillet à novembre dans les descriptions tchèques. Ils poussent à la base de conifères vivants ou sur des souches, particulièrement le pin sylvestre, ainsi que sur d'autres pins, l'épicéa, le mélèze et occasionnellement le douglas. Le champignon pénètre par des blessures des racines ou du bas du tronc et provoque une pourriture brune du bois de cœur. Le bois décomposé sent la térébenthine. Il peut subsister dans la souche pendant plusieurs années et infecter de nouveaux arbres à partir de là. Il se rencontre sur de nombreux sols qui ne sont ni très secs ni très humides. En Slovaquie, il est le plus souvent présent dans les pinèdes sur sol sableux, notamment dans le Záhorie.",
       uses: "C'est un excellent champignon comestible lorsqu'il est jeune et frais. Dès que les lobes brunissent et que le sporophore commence à se dégrader, il devient indigeste et doit être laissé. La chair est un peu cartilagineuse crue et reste ferme à la cuisson. Il est utilisé dans les soupes, y compris en fausse soupe de tripes, poêlé, ou séché pour les sauces. Des aiguilles, de la terre et des larves se logent dans les replis. Un bref blanchiment, d'environ 2–3 minutes selon une publication, rend la masse élastique et plus facile à rincer sous l'eau, et il peut également être tranché sur quelques centimètres d'épaisseur et trempé. Il se cuit lentement. Il se conserve une semaine ou plus au réfrigérateur, et peut être séché ou confit dans l'huile ou l'eau froide.",
       confusion: "Le sparassis à pied court (Sparassis brevipes) a des extrémités de lobes plus larges, moins contournées, en spatule, souvent avec un rebord épaissi et pâle, et il est dépourvu d'anses d'anastomose. Son odeur est savonneuse. Il pousse sur le sapin, et moins souvent sur le hêtre, l'épicéa ou le mélèze, et est également signalé avec le pin. Sparassis spathulata (Sparassis spathulata) possède des frondes plus droites et plus dressées et croît avec des feuillus dans l'est de l'Amérique du Nord, bien qu'il soit aussi signalé avec le pin. Sparassis radicata (Sparassis radicata) est maintenu séparé dans l'ouest de l'Amérique du Nord, où il possède une longue base radicante. La poule des bois (Grifola frondosa) pousse à la base des chênes et présente des segments gris-brun en éventail avec des pores sur la face inférieure. Les espèces du genre Ramaria (Ramaria) ont des rameaux dressés qui ne sont ni aplatis ni contournés à l'extrémité. La clavaire à calices (Artomyces pyxidatus) et Artomyces microsporus (Artomyces microsporus) croissent sur le bois mort solide, et leurs rameaux dressés se terminent par de petites couronnes."
+    },
+    pl: {
+      description: "Nadrzewny grzyb pasożytniczy i saprotroficzny wyrastający u podstawy starych sosen. Wywołuje brunatną zgniliznę korzeni i pni. Występuje w lasach iglastych Europy, Azji i Ameryki Północnej.",
+      cap: "Owocnik osiąga 10–35 cm średnicy (czasami do 50 cm) i wagę kilku kilogramów. Ma kształt kulisty lub spłaszczony, przypominający główkę kalafiora lub gąbkę kąpielową. Składa się z licznych, silnie pofałdowanych, spłaszczonych, kędzierzawych gałązek o falistych, ząbkowanych brzegach. Barwa jest białawożółtawa, kremowa do ochrowej, z wiekiem na brzegach brązowiejąca.",
+      hymenium: "Warstwa zarodnikonośna (hymenium) pokrywa powierzchnię pofałdowanych gałązek. Jest obustronna, gładka, w barwie gałązek.",
+      stipe: "Trzon jest krótki, gruby, bulwiasty, głęboko zakorzeniony w ziemi i przyrośnięty do korzeni sosny, wewnątrz pofałdowany.",
+      flesh: "Miąższ jest białawy, sprężysty, elastyczny, w stanie dojrzałym woskowaty. Charakteryzuje się przyjemnym, korzennym zapachem i orzechowym smakiem.",
+      sporePrint: "Kremowy do bladożółtawego. Zarodniki są gładkie, elipsoidalne, o wymiarach 5–7 × 4–5 μm.",
+      habitat: "Owocniki pojawiają się od sierpnia do listopada u podnóża żywych pni starych sosen, rzadziej na pniakach sosnowych na piaszczystych glebach.",
+      uses: "Wyborny grzyb jadalny o delikatnej chrupkości. Doskonały do smażenia na maśle, zup, dań jajecznych oraz suszenia. Wymaga starannego oczyszczenia z piasku i igliwia.",
+      confusion: "Siedzuń dębowy (Sparassis brevipes) rośnie pod dębami i bukami, a jego gałązki są szersze, wachlarzowate i niekędzierzawe."
     }
     },
     sources: {
@@ -28035,18 +28024,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B0%D1%80%D0%B0%D1%81%D0%B8%D1%81_%D0%BA%D1%83%D1%87%D0%B5%D1%80%D1%8F%D0%B2%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Siedzuń_sosnowy"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -28086,6 +28063,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Siedzuń_sosnowy"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -28196,10 +28185,10 @@ export const CATALOG = [
       bg: 'киселка',
       ru: "свинушка тонкая",
       uk: "свинуха тонка",
-      pl: "krowiak podwinięty",
       it: "paxillo involuto",
       hu: "begöngyöltszélű cölöpgomba",
-      fr: "paxille enroulé"
+      fr: "paxille enroulé",
+      pl: "krowiak podwinięty"
     },
     names: {
       en: [
@@ -28477,18 +28466,6 @@ export const CATALOG = [
       confusion: "Свинуха вільхова (Paxillus rubicundulus) дрібніша, росте суто під вільхою та має тріщинувату шапинку.",
       notes: "Раніше вважалася умовно-їстівним грибом, проте після встановлення імуноалергічного механізму її токсичності визнана отруйною в усьому світі."
     },
-    pl: {
-      description: "Grzyb ektomikoryzowy lasów liściastych, iglastych i parków. Bardzo pospolity w całej Europie.",
-      cap: "Kapelusz ma 5–15 cm średnicy. Za młodu jest wypukły z silnie i charakterystycznie podwiniętym, filcowatym brzegiem, później spłaszcza się i staje płytko lejkowaty. Barwa jest żółtobrązowa, oliwkowobrązowa do rdzawobrązowej. Skórka w stanie wilgotnym jest lepka, po wyschnięciu lśniąca.",
-      hymenium: "Blaszki są gęste, wąskie, głęboko zbiegające na trzon i łatwo oddzielające się od miąższu kapelusza, często rozwidlone i połączone poprzecznymi anastomozami u nasady. Początkowo żółtawe, z wiekiem rdzawobrązowe, po dotknięciu natychmiast ciemnieją do czerwonobrązowych.",
-      stipe: "Trzon ma 3–8 cm długości i 1–2 cm grubości, jest cylindryczny, barwy kapelusza lub nieco jaśniejszy, gładki, po dotknięciu plamiście brązowiejący.",
-      flesh: "Miąższ jest miękki, żółtawy, po przekrojeniu powoli brązowieje. Zapach jest słaby, kwaskowaty, a smak łagodny do lekko cierpkiego.",
-      sporePrint: "Rdzawobrązowy. Zarodniki są elipsoidalne, gładkie, o wymiarach około 7,5–10 × 5–6 μm.",
-      habitat: "Owocniki pojawiają się od lipca do listopada pod różnymi gatunkami drzew (brzozy, sosny, świerki, dęby), na glebach kwaśnych i torfowych.",
-      uses: "Grzyb trujący i bardzo niebezpieczny. Choć dawniej bywał uważany za jadalny po obgotowaniu, wywołuje potencjalnie śmiertelną reakcję immunohemolityczną (syndrom Paxillusa). Przeciwciała niszczą własne czerwone krwinki po wielokrotnym spożyciu, prowadząc do ostrej niewydolności nerek.",
-      confusion: "Krowiak olszowy (Paxillus rubicundulus) rośnie wyłącznie pod olszami i ma drobno łuseczkowaty kapelusz. Mleczaje (Lactarius) wydzielają mleczko po uszkodzeniu, którego krowiak nie posiada.",
-      notes: "Ocena z 2019 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern)."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi di conifere e latifoglie, parchi e giardini su suoli umidi e acidi. È molto comune in tutta Europa.",
       cap: "Il cappello misura 5–15 cm di diametro. È convesso poi spianato e imbutiforme, con un caratteristico margine fortemente arrotolato (involuto) e tomentoso anche a maturità. La cuticola è di colore bruno-ocraceo, fulvo-oliva o bruno-ruggine, viscosa col bagnato e facilmente macchiabile di bruno scuro allo sfregamento.",
@@ -28524,6 +28501,17 @@ export const CATALOG = [
       uses: "Il était largement consommé en Europe centrale et orientale, souvent mariné, salé ou cuisiné en ragoûts, et était considéré comme médiocre. Il est toujours salé et mariné dans certaines parties d'Europe de l'Est, en particulier en Pologne. Les sporophores crus provoquent de graves affections gastriques. La cuisson n'élimine pas un antigène qui, après des repas répétés, peut conduire le système immunitaire à détruire les globules rouges (syndrome paxillien avec anémie hémolytique auto-immune). Cette réaction peut entraîner une insuffisance rénale, un état de choc et une détresse respiratoire, y compris chez des personnes qui en avaient consommé pendant des années avec seulement de légers dérangements gastriques. Julius Schäffer en est mort en 1944, dix-sept jours après en avoir consommé un repas.",
       confusion: "Les champignons en forme d'entonnoir du genre Clitocybe (Clitocybe) ont des lames blanches et une sporée blanche. Le lactaire plombé (Lactarius turpis) est d'un olive plus sombre et, comme les autres espèces du genre Lactarius (Lactarius), exsude du lait. Le paxille rubicond (Paxillus rubicundulus), également classé sous le nom de Paxillus filamentosus (Paxillus filamentosus), pousse uniquement sous l'aulne. Il est plus petit et plus pâle, avec un chapeau mince portant des écailles aplaties vers la marge, une chair qui brunit à peine, des lames ocre jaune vif qui ne changent pas de couleur et des spores plus petites d'environ 5,5–8,5 × 4–5 µm. Le paxille à spores sombres (Paxillus obscurisporus) présente des chapeaux atteignant environ 40 cm, une marge qui a tendance à se dérouler et s'aplatir, et un pied atténué avec un mycélium crème à la base. Paxillus validus (Paxillus validus) pousse sous les feuillus dans les parcs, possède un pied d'épaisseur plus ou moins égale et des chapeaux atteignant environ 20 cm. Les cristaux dans ses rhizomorphes atteignent environ 2,5 µm, tandis que les cristaux dans les rhizomorphes des autres taxons du genre Paxillus (Paxillus) restent inférieurs à environ 0,5 µm. Le paxille cuivré (Paxillus cuprinus) devient brun cuivré avec l'âge, possède des spores quelque peu amygdaliformes au sommet pincé et pousse avec le bouleau dans les milieux ouverts. Le paxille printanier (Paxillus vernalis) a une sporée plus sombre et un pied plus épais d'environ 2–4 cm, et pousse sous les trembles et les bouleaux. Le paxille à pied noir (Tapinella atrotomentosa) pousse sur ou à côté de souches de conifères et a un pied court et épais couvert d'un velours brun foncé. La mérule pleurotoïde (Tapinella panuoides) n'a pas de pied, ou seulement un court pied latéral, et pousse sur le bois de conifères.",
       notes: "Plusieurs espèces similaires ont été ultérieurement séparées des sporophores rangés sous ce nom."
+    },
+    pl: {
+      description: "Pospolity grzyb ektomikoryzowy tworzący związki z wieloma gatunkami drzew liściastych i iglastych (brzoza, sosna, świerk, dąb). Występuje powszechnie w całej strefie umiarkowanej półkuli północnej.",
+      cap: "Kapelusz ma 5–15 cm średnicy, początkowo jest wypukły z charakterystycznie głęboko podwiniętym, filcowatym brzegiem, później spłaszczony z wgłębionym środkiem do lejkowatego. Barwa jest ochrowobrązowa, oliwkowobrązowa do rdzawobrązowej. Skórka w stanie wilgotnym jest lepka, w dotkniętych miejscach ciemnieje i brązowieje.",
+      hymenium: "Blaszki są gęste, rozwidlające się i głęboko zbiegające na trzon, łatwo dające się oddzielić od miąższu kapelusza. Mają barwę żółtawobrązową do ochrowej, po uciśnięciu natychmiast ciemnieją do brudnordzawobrązowych.",
+      stipe: "Trzon ma 3–8 cm długości i 1–2 cm grubości, jest cylindryczny, często zwężający się ku podstawie, w barwie kapelusza lub nieco jaśniejszy, po dotknięciu ciemniejący.",
+      flesh: "Miąższ jest gruby, miękki, żółtawy, po przekrojeniu szybko brązowiejący. Zapach jest słaby, kwaskowaty, a smak łagodny do lekko cierpkiego.",
+      sporePrint: "Rdzawobrązowy. Zarodniki są gładkie, elipsoidalne, o wymiarach 7,5–10 × 4,5–6 μm.",
+      habitat: "Owocniki pojawiają się od lipca do listopada w różnego typu lasach, parkach, ogrodach i na wrzosowiskach, zarówno na kwaśnych, jak i zasobnych glebach.",
+      uses: "Grzyb trujący. Choć dawniej był powszechnie spożywany po ugotowaniu, powoduje zespół immunohemolityczny (zespół Paxillusa). Zawarte w nim antygeny mogą wywołać reakcję autoimmunologiczną, prowadzącą do nagłego rozpadu własnych krwinek czerwonych, ostrej niewydolności nerek i zgonu.",
+      confusion: "Krowiak olchowy (Paxillus rubicundulus) rośnie wyłącznie pod olchami, ma mniejszy owocnik i łuseczkowaty kapelusz. Mleczaje (Lactarius) wydzielają mleczko po uszkodzeniu blaszek, którego krowiak nie posiada."
     }
     },
     sources: {
@@ -28877,18 +28865,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B8%D0%BD%D1%83%D1%85%D0%B0_%D1%82%D0%BE%D0%BD%D0%BA%D0%B0"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Krowiak_podwinięty"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -28928,6 +28904,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Krowiak_podwinięty"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -29035,10 +29023,10 @@ export const CATALOG = [
       bg: 'виолетка',
       ru: "рядовка фиолетовая",
       uk: "лепіста фіолетова",
-      pl: "gąsówka fioletowawa",
       it: "agarico nudo",
       hu: "lila pereszke",
-      fr: "pied-bleu"
+      fr: "pied-bleu",
+      pl: "gąsówka fioletowawa"
     },
     names: {
       en: ["blewit", "blue foot", "amethyst lepista", "blue-gilled agaric"],
@@ -29313,18 +29301,6 @@ export const CATALOG = [
       confusion: "Отруйні види роду павутинник (Cortinarius) мають павутинисте покривало (кортину) і відрізняються іржаво-коричневим споровим порошком.",
       notes: "Один із найпізніших масових осінніх їстівних грибів лісової смуги."
     },
-    pl: {
-      description: "Saprotroficzny grzyb ściółkowy lasów liściastych i iglastych, ogrodów i kompostów. Pospolity jesienią w całej Europie.",
-      cap: "Kapelusz ma 5–15 cm średnicy. Za młodu jest wypukły z podwiniętym brzegiem, później rozpostarty, niekiedy pofalowany. Barwa jest intensywnie fioletowa do liliowej, z wiekiem płowieje od środka ku brzegom, przybierając odcienie brązowofioletowe i ochrowe.",
-      hymenium: "Blaszki są gęste, cienkie, wykrojone lub przyrośnięte, za młodu żywo fioletowe do liliowych, z wiekiem blaknące do brudnoróżowawych.",
-      stipe: "Trzon ma 5–10 cm długości i 1–3 cm grubości, jest cylindryczny, u podstawy maczugowato zgrubiały i pokryty fioletową grzybnią. Powierzchnia jest fioletowa, podłużnie włóknista.",
-      flesh: "Miąższ jest miękki, jasnofioletowy do białawego. Posiada charakterystyczny, intensywny, przyjemnie owocowo-korzenny zapach i łagodny smak.",
-      sporePrint: "Jasnoróżowy do cielistoochrowego. Zarodniki są elipsoidalne, drobno brodawkowane, o wymiarach około 6–8 × 4–5 μm.",
-      habitat: "Owocniki pojawiają się obficie późną jesienią, od września do pierwszych przymrozków w grudniu, w lasach iglastych i liściastych na grubej warstwie ściółki, często tworząc czarcie koła.",
-      uses: "Smaczny grzyb jadalny po obróbce cieplnej. Na surowo może powodować zaburzenia trawienne ze względu na zawartość hemolizyn. Znakomity do marynowania, smażenia i zup.",
-      confusion: "Zasłonaki o fioletowej barwie (np. Cortinarius violaceus, Cortinarius camphoratus) mają rdzawobrązowy wysyp zarodników, rdzawobrązowe resztki zasnówki na trzonie i często nieprzyjemny zapach. Gąsówka brudnofioletowa (Lepista sordida) jest mniejsza, cieńsza i ma bledsze barwy.",
-      notes: "Ocena z 2019 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern)."
-    },
     it: {
       description: "Un fungo saprotrofo della lettiera di foglie e aghi nei boschi di latifoglie e conifere, giardini e parchi. È comune e ampiamente diffuso in Europa.",
       cap: "Il cappello misura 5–15 cm di diametro. È carnoso, convesso poi appianato, liscio, di un tipico e vivido colore blu-violetto o lilla ametista, che sbiadisce col tempo al bruno-rossiccio o caffèlatte al centro.",
@@ -29360,6 +29336,17 @@ export const CATALOG = [
       uses: "C'est un excellent champignon comestible lorsqu'il est cuit à cœur, et il ne se mange pas cru. La chair crue contient une hémolysine thermolabile qui détruit les globules rouges et est détruite par une cuisson approfondie. Une minorité de personnes ressentent néanmoins des troubles digestifs avec des sporophores pourtant bien cuits. Les jeunes chapeaux sont préférés. Ils sont sautés, cuits au beurre ou à la crème, ou utilisés dans les omelettes, les pâtes, le riz, les plats de fromage, les viandes blanches et les ragoûts, notamment avec des poireaux ou des oignons. On les sèche également, ou on les blanchit pour les conserver dans l'huile d'olive ou le vinaigre blanc. Les sporophores sauvages accumulent les métaux lourds plus facilement que beaucoup d'autres champignons et se consomment avec modération. Ce champignon est commercialisé en France, en Espagne et au Portugal, et plus largement sur les marchés européens. Les sporophores cultivés en Grande-Bretagne, aux Pays-Bas et en France seraient d'une saveur moins bonne que les spécimens sauvages. Haché et bouilli dans un récipient en fer, il teint le tissu ou le papier en vert prairie. Il a été signalé comme inhibiteur de bactéries et de levures et capable d'abaisser la glycémie chez les personnes diabétiques. Les sporophores qui ont gelé alors qu'ils étaient encore sains peuvent être cuisinés dès leur décongélation.",
       confusion: "Les espèces du genre Cortinarius (Cortinarius) qui partagent ces teintes violettes, notamment le cortinaire violet (Cortinarius violaceus), le cortinaire blanc-violet (Cortinarius alboviolaceus), le cortinaire à odeur de bouc (Cortinarius traganus) et le rare cortinaire camphré (Cortinarius camphoratus), possèdent une sporée brun rouille et une cortine. Une zone annulaire subsiste souvent sur le pied, poudrée par les spores brunes. Le cortinaire violet (Cortinarius violaceus) a un chapeau d'un violet plus sombre avec une cuticule feutrée. Certaines de ces espèces dégagent une odeur désagréable. La lépiste sordide (Lepista sordida) est plus petite et plus grêle, violet rosâtre, fortement hygrophane et prompte à pâlir. Elle est souvent mamelonnée, son pied est mince, et elle pousse habituellement isolée ou en petits groupes, plus souvent dans l'herbe et les prés. Le pied-bleu pâle (Lepista personata), également nommé Lepista saeva (Lepista saeva) et Collybia personata (Collybia personata), ne présente de violet que sur le pied. Son chapeau et ses lames ne sont pas lilas, et il croît dans les prairies hors des forêts. La lépiste glauque (Lepista glaucocana) est généralement d'un lilas très pâle à blanchâtre et ne brunit pas, bien que des sporophores de Sibérie occidentale puissent être plus grands et parfois vivement colorés. Certains auteurs la traitent comme une variété. Elle est rare dans les bois, en particulier les hêtraies calcaires. Le laccaire améthyste (Laccaria amethystina) est beaucoup plus grêle, avec un pied mince et un chapeau déprimé au centre.",
       notes: "Une étude de 2015 montre que cette espèce n'est pas proche de Lepista densifolia."
+    },
+    pl: {
+      description: "Grzyb saprotroficzny rozkładający ściółkę leśną. Występuje pospolicie w całej Europie, Azji Północnej i Ameryce Północnej w lasach liściastych, iglastych oraz ogrodach na glebach bogatych w próchnicę.",
+      cap: "Kapelusz ma 5–15 cm średnicy, początkowo jest wypukły z podwiniętym brzegiem, później spłaszczony do pofalowanego. Za młodu jest jaskrawo niebieskofioletowy do liliowego, z wiekiem płowieje od środka do barwy brązowoochrowej lub brązowofioletowej. Skórka jest gładka i naga.",
+      hymenium: "Blaszki są gęste, cienkie, przyrośnięte lub lekko wycięte ząbkiem przy trzonie, łatwo oddzielające się od miąższu kapelusza. Mają intensywnie liliowofioletową barwę, z wiekiem blakną do brudnofioletowych.",
+      stipe: "Trzon ma 5–10 cm długości i 1–2,5 cm grubości, jest cylindryczny, często zgrubiały u podstawy z obfitą fioletowawą grzybnią w ściółce, włóknisty, w barwie kapelusza.",
+      flesh: "Miąższ jest miękki, jasnofioletowy do liliowego, z wiekiem białawy. Charakteryzuje się silnym, charakterystycznym, przyjemnym aromatem (przypominającym zapach anyżu lub świeżo pieczonego chleba) i łagodnym smakiem.",
+      sporePrint: "Jasnoróżowy do cielistoochrowego. Zarodniki są elipsoidalne, drobno brodawkowane, o wymiarach 6–8 × 4–5 μm.",
+      habitat: "Owocniki pojawiają się późną jesienią (od września do listopada, często aż do pierwszych mrozów) w lasach iglastych i liściastych, na kompoście, w parkach i ogrodach, nierzadko w czarcich kołach.",
+      uses: "Dobry grzyb jadalny po obróbce cieplnej. W stanie surowym zawiera hemolizyny niszczące czerwone krwinki, które ulegają rozkładowi podczas gotowania i smażenia. Doskonała do marynowania i duszenia.",
+      confusion: "Trujące fioletowe zasłonaki (np. Cortinarius traganus) mają rdzawobrązowy wysyp zarodników, zasnówkę u młodych okazów i często nieprzyjemny zapach."
     }
     },
     sources: {
@@ -29705,18 +29692,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BF%D1%96%D1%81%D1%82%D0%B0_%D1%84%D1%96%D0%BE%D0%BB%D0%B5%D1%82%D0%BE%D0%B2%D0%B0"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Gąsówka_fioletowawa"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -29756,6 +29731,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Gąsówka_fioletowawa"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -29872,9 +29859,9 @@ export const CATALOG = [
       bg: 'чашеносещ корал',
       ru: "клавикорона крыновидная",
       uk: "артиміцес криночкоподібний",
-      pl: "świecznik rozgałęziony",
       hu: "csészés álkorallgomba",
-      fr: "clavaire à calices"
+      fr: "clavaire à calices",
+      pl: "świecznik rozgałęziony"
     },
     names: {
       en: ["crown-tipped coral fungus", "crown coral"]
@@ -30146,18 +30133,6 @@ export const CATALOG = [
       confusion: "Рамарія пряма (Ramaria stricta) росте на деревині хвойних порід, не має корончастих чашоподібних розширень на кінчиках гілок і має вохристо-бурий споровий порошок.",
       notes: "Із міцелію виділено унікальні сесквітерпеноїди піксідатоли."
     },
-    pl: {
-      description: "Nadrzewny grzyb saprotroficzny rozwijający się na butwiejącym drewnie drzew liściastych, rzadziej iglastych. Występuje w Europie i Ameryce Północnej.",
-      cap: "Owocnik ma 4–12 cm wysokości i 2–10 cm szerokości, jest koralowato rozgałęziony. Z krótkiego trzonu wyrastają wzniesione gałązki, które na szczytach rozszerzają się miseczkowato, tworząc charakterystyczne wianuszki z drobnymi ząbkami przypominające miniaturowe świeczniki. Barwa jest kremowa, bladożółtawa do ochrowej, z wiekiem brązowiejąca.",
-      hymenium: "Warstwa zarodnikonośna pokrywa gładką powierzchnię gałązek.",
-      stipe: "Trzon jest krótki, o długości 1–3 cm, zrośnięty z podłożem białawą grzybnią.",
-      flesh: "Miąższ jest miękki, elastyczny, białawy. Zapach jest słaby, a smak początkowo łagodny, po chwili piekący i pieprzny.",
-      sporePrint: "Biały. Zarodniki są elipsoidalne, drobno brodawkowane, amyloidalne, o wymiarach około 4–5,5 × 2–3 μm.",
-      habitat: "Owocniki pojawiają się od maja do października na martwych, leżących kłodach topoli, osik, wierzb i brzóz.",
-      uses: "Uznawany za grzyb jadalny po obgotowaniu, lecz o niskiej wartości kulinarnej ze względu na pieprzny smak i gumowatą konsystencję.",
-      confusion: "Gatunki z rodzaju koralówka (Ramaria) rosną zazwyczaj na ziemi w lasach i nie mają miseczkowatych zakończeń gałązek. Gałęziak jodłowy (Clavicorona taxophila) jest znacznie mniejszy i rośnie na ściółce.",
-      notes: "W Polsce gatunek rzadki, podlegający ochronie częściowej."
-    },
     it: {
       description: "Un fungo saprotrofo lignicolo clavarioide a forma di candelabro ramificato che cresce sul legno morto di latifoglie in decomposizione (faggio, pioppo, salice). È ampiamente diffuso ma discontinuo in Eurasia e Nord America.",
       cap: "Il corpo fruttifero assomiglia a un corallo o candelabro ramificato, alto 4–12 cm e largo 2–8 cm. I rami sono eretti, ascendenti, di colore bianco crema o giallo pallido, caratterizzati da ramificazioni secondarie che terminano all'apice con una tipica coroncina a coppa bordata da piccole punte dentellate.",
@@ -30193,6 +30168,17 @@ export const CATALOG = [
       uses: "Il est considéré comme non comestible en Europe centrale. Certaines publications nord-américaines le qualifient de comestible à l'état frais, et il a également été qualifié de comestible cru, bien que meilleur cuit. En 2014, il ne figurait sur aucune des listes allemandes de champignons alimentaires, de champignons à valeur culinaire contestée ou de champignons toxiques. Les sporophores sont souvent de petite taille.",
       confusion: "La ramaire dressée (Ramaria stricta) croît également sur le bois et possède des rameaux dressés. Ses extrémités ne sont pas couronnées, elle possède des cordons mycéliens blancs ressemblant à des radicelles, et sa saveur ne devient pas âcre lorsqu'on mastique sa chair. D'autres espèces du genre Ramaria (Ramaria) poussent sur le sol et ne se terminent pas en calices. Les espèces du genre Clavulinopsis (Clavulinopsis) sont dépourvues d'extrémités en calice. Artomyces microsporus (Artomyces microsporus) présente une forme similaire, avec des rameaux densément serrés de la base jusqu'au sommet, des spores plus courtes d'environ 3–3,8 µm de long et une préférence pour le pin mort. Artomyces cristatus (Artomyces cristatus) est petit, et ses sporophores sont simples ou seulement rarement ramifiés deux fois.",
       notes: "Les pyxidatols A–C, la tsuicoline E et l'omphadiol ont été obtenus à partir de cultures liquides. En Pologne, il est considéré comme vulnérable (Vulnerable), en lien avec la disparition des forêts riveraines de feuillus."
+    },
+    pl: {
+      description: "Nadrzewny grzyb saprotroficzny rozwijający się na butwiejącym drewnie drzew liściastych, zwłaszcza osiki, topoli i wierzby. Występuje w lasach strefy umiarkowanej w Europie, Azji i Ameryce Północnej.",
+      cap: "Owocnik ma 4–12 cm wysokości i szerokości, jest krzaczkowato rozgałęziony koralowato. Cechą charakterystyczną jest pucharowate (świecznikowate) zakończenie gałązek: wierzchołek każdej gałązki jest wgłębiony w mały kubeczek, z brzegów którego wyrastają kolejne 3–6 mniejsze gałązki. Barwa jest kremowobiała, bladożółtawa do ochrowopłowej.",
+      hymenium: "Hymenium pokrywa zewnętrzną powierzchnię pionowych gałązek. Jest gładkie, w barwie owocnika.",
+      stipe: "Trzon jest krótki, zwężony ku podstawie, wyrastający bezpośrednio ze szczelin w butwiejącym drewnie.",
+      flesh: "Miąższ jest elastyczny, białawy do kremowego. Zapach jest przyjemny, a smak początkowo łagodny, po chwili pieprzny i lekko palący.",
+      sporePrint: "Biały. Zarodniki są drobne, elipsoidalne, gładkie do delikatnie chropowatych, o wymiarach 4–5 × 2–3 μm, amyloidalne.",
+      habitat: "Owocniki pojawiają się od maja do października na gnijących, pozbawionych kory kłodach topoli, wierzb, osik i innych drzew liściastych w wilgotnych lasach łęgowych i mieszanych.",
+      uses: "Grzyb jadalny za młodu po obgotowaniu, choć o niskiej wartości kulinarnej ze względu na pieprzny posmak.",
+      confusion: "Koralówki (Ramaria) rosną na ziemi, a ich gałązki nie kończą się pucharowatymi miseczkami z wieńcem wyrostków. Płaskorosty i inne grzyby koralopodobne nie mają tak charakterystycznych świecznikowatych rozgałęzień."
     }
     },
     sources: {
@@ -30509,18 +30495,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%90%D1%80%D1%82%D0%B8%D0%BC%D1%96%D1%86%D0%B5%D1%81_%D0%BA%D1%80%D0%B8%D0%BD%D0%BE%D1%87%D0%BA%D0%BE%D0%BF%D0%BE%D0%B4%D1%96%D0%B1%D0%BD%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Świecznik_rozgałęziony"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -30555,6 +30529,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Świecznik_rozgałęziony"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -30667,10 +30653,10 @@ export const CATALOG = [
       bg: 'сенниковиден полипорус',
       ru: "трутовик зонтичный",
       uk: "трутовик зонтичний",
-      pl: "żagiew wielogłowa",
       it: "poliporo ombrellifero",
       hu: "tüskegomba",
-      fr: "polypore en ombelle"
+      fr: "polypore en ombelle",
+      pl: "żagiew wielogłowa"
     },
     names: {
       en: ["lumpy bracket"],
@@ -30947,18 +30933,6 @@ export const CATALOG = [
       confusion: "Грифола кучерява (Grifola frondosa) відрізняється більшими язикоподібними бічними шапинками без центральних ніжок і виростає без підземного склероція.",
       notes: "Рідкісний реліктовий вид, занесений до Червоної книги України зі статусом рідкісного."
     },
-    pl: {
-      description: "Nadrzewny pasożyt i saprotrof wyrastający z podziemnego sklerocjum u podstawy starych drzew liściastych, głównie dębów i buków. Występuje rzadko w strefie umiarkowanej Eurazji.",
-      cap: "Owocnik osiąga 20–50 cm średnicy i składa się z setek (nawet ponad tysiąca) drobnych kapelusików o średnicy 1–4 cm, osadzonych na rozgałęzionych białych nóżkach wyrastających ze wspólnego trzonu. Kapelusiki są okrągłe, z wgłębionym środkiem, bladoochrowe do szarobrązowych.",
-      hymenium: "Spód każdego kapelusika tworzą drobne, białawe rurki zbiegające na gałązki. Pory są białe do kremowych, kanciaste.",
-      stipe: "Wspólny trzon wyrasta z czarniawego podziemnego sklerocjum i wielokrotnie rozgałęzia się na mniejsze odnogi.",
-      flesh: "Miąższ jest biały, za młodu miękki i soczysty, z wiekiem łykowaty. Posiada przyjemny zapach przypominający mąkę i łagodny smak.",
-      sporePrint: "Biały. Zarodniki są cylindryczne, gładkie, o wymiarach około 7–10 × 2,5–3,5 μm.",
-      habitat: "Owocniki pojawiają się od czerwca do października w starych lasach dębowych i bukowych.",
-      uses: "Młode owocniki są jadalne i bardzo smaczne. W medycynie tradycyjnej Dalekiego Wschodu sklerocjum (chuling) jest cenionym surowcem leczniczym o działaniu moczopędnym i przeciwwirusowym.",
-      confusion: "Wachlarzowiec olbrzymi (Meripilus giganteus) tworzy znacznie większe, łopatkowate kapelusze czerniejące po dotknięciu. Żagwica listkowata (Grifola frondosa) ma większe, bocznie osadzone kapelusze.",
-      notes: "W naturze tworzenie podziemnego sklerocjum bywa powiązane z obecnością grzybni opieńki (Armillaria). W Polsce gatunek objęty ścisłą ochroną gatunkową."
-    },
     it: {
       description: "Un fungo lignicolo agente di carie bianca, parassita delle radici e saprotrofo su ceppi di latifoglie (soprattutto faggio e quercia). È una specie rara e protetta in varie regioni europee.",
       cap: "Il corpo fruttifero è formato da un fusto comune ramificato che sostiene centinaia di piccoli cappelli tondeggianti e ombelicati, raggiungendo 15–40 cm di diametro complessivo. Ciascun piccolo cappello misura 1–4 cm di larghezza, di colore bruno chiaro, nocciola o crema-ocraceo.",
@@ -30994,6 +30968,17 @@ export const CATALOG = [
       uses: "Les jeunes sporophores frais sont excellents dans les soupes et les sauces, ou séchés. Les sporophores plus âgés deviennent amers ou désagréables.",
       confusion: "La poule des bois (Grifola frondosa) possède des frondes plus grandes, en éventail ou en feuille avec un pied latéral, alors que cette espèce possède de nombreux petits chapeaux ronds munis d'un pied central. Le polypore géant (Meripilus giganteus) a des frondes spatulées plus épaisses avec un pied excentré et pousse principalement avec le hêtre. Le sparassis crépu (Sparassis crispa) est plus pâle, avec des lobes ondulés et contournés, et pousse avec les conifères, particulièrement le pin sylvestre. L'armillaire sans anneau (Armillaria tabescens) possède des lames. Le polypore d'Italie (Polyporus tuberaster) fructifie également à partir d'un sclérote, mais son sporophore est constitué d'un chapeau unique.",
       notes: "Dans la nature, la formation du sclérote souterrain est signalée là où le mycélium d'une armillaire est présent, notamment l'armillaire bulbeuse (Armillaria gallica) et l'armillaire à pied clavé (Armillaria cepistipes). Le sclérote est utilisé dans la médecine chinoise comme diurétique depuis plus de 2 000 ans. Ce champignon est peu commun, et certains ouvrages recommandent d'épargner les sporophores sans les cueillir."
+    },
+    pl: {
+      description: "Rzadki grzyb nadrzewny wyrastający z podziemnego sklerocjum u podstawy starych dębów i buków. Posiada właściwości pasożytnicze i saprotroficzne. Występuje w Europie, Azji i Ameryce Północnej; w wielu krajach europejskich podlega ochronie ze względu na rzadkość.",
+      cap: "Owocnik osiąga 15–40 cm średnicy (niekiedy do 50 cm) i składa się z setek (nawet ponad 100) małych, pojedynczych kapelusików o średnicy 1–4 cm, wyrastających z gęsto rozgałęzionego trzonu. Kapelusiki są okrągłe, w środku pępkowato wgłębione, jasnobrązowe, szarożółte do ochrowych.",
+      hymenium: "Rurki są krótkie (1–3 mm), białe, głęboko zbiegające na gałązki trzonu. Pory są drobne, okrągłe do kanciastych, białe do kremowych.",
+      stipe: "Trzon jest wspólny, gruby, mięsisty, pod ziemią wyrastający z czarnego sklerocjum, nad ziemią rozgałęziający się na liczne białawe gałązki niosące kapelusiki.",
+      flesh: "Miąższ jest biały, miękki, elastyczny za młodu, z wiekiem włóknisty i twardniejący. Zapach u młodych owocników przypomina koper lub mąkę, smak jest łagodny i przyjemny.",
+      sporePrint: "Biały. Zarodniki są gładkie, cylindryczne, o wymiarach 7–10 × 2,5–3,5 μm.",
+      habitat: "Owocniki pojawiają się od czerwca do października w starych lasach dębowych i bukowych, u nasady żywych pni lub pniaków.",
+      uses: "Młode owocniki są wybornym grzybem jadalnym o delikatnym smaku. Wysoko ceniony w medycynie tradycyjnej Dalekiego Wschodu (znany jako zhu ling) jako środek moczopędny i wzmacniający odporność.",
+      confusion: "Wachlarzowiec olbrzymi (Meripilus giganteus) ma znacznie większe, ciemniejsze, półeczkowate kapelusze, których pory natychmiast czernieją po dotknięciu. Żagwica listkowata (Grifola frondosa) ma kapelusiki językowate z trzonkami osadzonymi bocznie, a nie centralnie."
     }
     },
     sources: {
@@ -31306,18 +31291,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%A2%D1%80%D1%83%D1%82%D0%BE%D0%B2%D0%B8%D0%BA_%D0%B7%D0%BE%D0%BD%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Żagiew_wielogłowa"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -31357,6 +31330,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Żagiew_wielogłowa"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -31469,9 +31454,9 @@ export const CATALOG = [
       sv: 'vitfotad aspsopp',
       ru: "подосиновик белоножковый",
       uk: "підосиковик білоніжковий",
-      pl: "koźlarz białotrzonowy",
       hu: "vörös érdestinóru",
-      fr: "bolet orangé des peupliers"
+      fr: "bolet orangé des peupliers",
+      pl: "koźlarz białotrzonowy"
     },
     names: {
       sk: [
@@ -31744,17 +31729,6 @@ export const CATALOG = [
       confusion: "Підосиковик червоний (Leccinum aurantiacum) росте під дубами й має рудувато-коричневі лусочки на ніжці вже в молодому віці. Підосиковик жовто-бурий (Leccinum versipelle) росте під березами й має чорні лусочки.",
       notes: "Цей вид був виокремлений із комплексу Leccinum aurantiacum на основі молекулярно-генетичних досліджень."
     },
-    pl: {
-      description: "Grzyb ektomikoryzowy związany z topolą osiką (Populus tremula). Występuje w lasach osikowych i mieszanych w całej Europie.",
-      cap: "Kapelusz ma 5–25 cm średnicy. Za młodu jest półkolisty, później poduszkowaty. Skórka ma barwę jaskrawopomarańczową, ceglastoczerwoną do rdzawej, z wiekiem nieco blednie; na brzegu wystaje wyraźna błoniasta krawędź.",
-      hymenium: "Rurki mają długość 1–3 cm, są głęboko wycięte przy trzonie, białawe do szaroochrowych. Pory są drobne, początkowo białe, potem szare.",
-      stipe: "Trzon ma 7–20 cm długości i 1,5–4 cm grubości, jest cylindryczny lub lekko wybrzuszony. U młodych owocników pokryty jest czysto białymi łuseczkami, które dopiero u starych okazów brązowieją.",
-      flesh: "Miąższ jest biały, po przekrojeniu powoli różowieje lub liliowieje, a w podstawie trzonu niebieszczeje, by w końcu ściemnieć do szaroczarnego. Zapach i smak są łagodne.",
-      sporePrint: "Oliwkowobrązowy. Zarodniki są wrzecionowate, gładkie, o wymiarach około 13–17 × 4–5 μm.",
-      habitat: "Owocniki pojawiają się od czerwca do października pod osikami na glebach piaszczystych i gliniastych.",
-      uses: "Bardzo smaczny grzyb jadalny po ugotowaniu lub usmażeniu. Miąższ ciemnieje podczas obróbki kulinarnej.",
-      confusion: "Koźlarz czerwony (Leccinum aurantiacum) rośnie głównie pod dębami i ma od młodości rdzawobrązowe łuseczki na trzonie. Koźlarz pomarańczowożółty (Leccinum versipelle) rośnie pod brzozami i ma od razu czarniawe łuseczki."
-    },
     it: {
       description: "Un fungo ectomicorrizico legato al pioppo tremulo (Populus tremula). È diffuso nelle foreste temperate e boreali d'Europa.",
       cap: "Il cappello misura 3–25 cm di diametro. È emisferico poi convesso e infine appianato a cuscinetto. La cuticola è di colore arancio vivo, rosso mattone o albicocca, liscia o finemente tomentosa.",
@@ -31788,6 +31762,17 @@ export const CATALOG = [
       habitat: "Les sporophores apparaissent de mai à novembre, le plus souvent de juin à octobre, et d'août à novembre en Grande-Bretagne. Ils poussent sur le sol avec le tremble (Populus tremula), certaines mentions incluant également d'autres peupliers, dans les bois mixtes, en lisière et dans les clairières, ainsi que dans les endroits humides, plus souvent sur sol acide que sur terrain sec ou calcaire.",
       uses: "Les jeunes sporophores fermes sont comestibles lorsqu'ils sont cuits à cœur. La chair est considérée comme bonne et noircit à la cuisson ; cette coloration ne s'atténue pas et est inoffensive. Il ne doit pas être consommé cru.",
       confusion: "Le bolet orangé des chênes (Leccinum aurantiacum) possède des écailles de pied brun rougeâtre dès la jeunesse, plus denses et plus sombres que les écailles pâles de cette espèce, et un chapeau souvent plus rouge ou, selon certaines mentions, teinté de verdâtre. Les publications l'associent au chêne, ou au tremble. Le bolet roux (Leccinum versipelle) croît avec le bouleau, est plus robuste, possède un chapeau ocre jaune et de grossières écailles noires, et noircit aux meurtrissures sans phase rouge. Le bolet orangé des épicéas (Leccinum piceinum) pousse avec l'épicéa et présente une nuance verdâtre sur le chapeau."
+    },
+    pl: {
+      description: "Grzyb ektomikoryzowy związany ściśle z topolą osiką (Populus tremula). Występuje w Europie od Skandynawii po Europę Środkową i Południową w lasach liściastych i mieszanych.",
+      cap: "Kapelusz ma 5–18 cm średnicy, początkowo jest półkulisty, z wiekiem wypukły do poduchowatego. Przybiera barwę jaskrawo pomarańczową, czerwonopomarańczową do ceglastej. Skórka jest sucha, matowa, z wiekiem gładka; brzeg kapelusza ma wyraźną, odstającą błoniastą krawędź zachodzącą na rurki.",
+      hymenium: "Rurki są głęboko wycięte przy trzonie, mają 1–2,5 cm długości, są białawe do jasnokremowych, z wiekiem szaroochrowe. Pory są drobne, białawe, po ugnieceniu powoli brązowiejące.",
+      stipe: "Trzon ma 8–20 cm długości i 2–4 cm grubości, jest smukły, zwężający się ku górze, biały, charakterystycznie pokryty u młodych owocników czysto białymi łuseczkami, które dopiero u dojrzałych okazów stają się rudobrązowe.",
+      flesh: "Miąższ jest biały, gruby i jędrny. Po przekrojeniu początkowo różowieje lub fioletowieje, po czym ciemnieje do szarofioletowego lub czarniawego. Zapach i smak są przyjemne, łagodne.",
+      sporePrint: "Oliwkowobrązowy do tabaczkowobrązowego. Zarodniki są gładkie, wrzecionowate, o wymiarach 13–17 × 4–5 μm.",
+      habitat: "Owocniki pojawiają się od czerwca do października wyłącznie pod osikami, na skrajach lasów, w zagajnikach i przydrożnych zaroślach.",
+      uses: "Wyborny grzyb jadalny po obróbce termicznej. W kuchni wykorzystuje się głównie kapelusze; podczas gotowania miąższ ciemnieje, co jest cechą naturalną.",
+      confusion: "Koźlarz czerwony (Leccinum aurantiacum) tworzy mikoryzę z dębami i ma od młodości ciemniejsze, brązowoczarne łuseczki na trzonie. Koźlarz pomarańczowożółty (Leccinum versipelle) rośnie pod brzozami i ma czarne łuseczki na trzonie."
     }
     },
     sources: {
@@ -32066,18 +32051,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/Leccinum_albostipitatum"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Koźlarz_białotrzonowy"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -32112,6 +32085,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Koźlarz_białotrzonowy"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -32224,10 +32209,10 @@ export const CATALOG = [
       bg: 'лъжлив пачи крак',
       ru: "ложная лисичка",
       uk: "лисичка несправжня",
-      pl: "lisówka pomarańczowa",
       it: "falso gallinaccio",
       hu: "narancsvörös álrókagomba",
-      fr: "fausse chanterelle"
+      fr: "fausse chanterelle",
+      pl: "lisówka pomarańczowa"
     },
     names: {
       sk: ["tanečnica", "divé kuriatko"]
@@ -32500,18 +32485,6 @@ export const CATALOG = [
       confusion: "Лисичка справжня (Cantharellus cibarius) товща й щільніша, має товсті тупі розгалужені жилки замість тонких пластинок, м'ясистий білий м'якуш і виразний абрикосовий аромат.",
       notes: "Два колишніх різновиди тепер розглядаються як самостійні види роду Hygrophoropsis."
     },
-    pl: {
-      description: "Saprotroficzny grzyb lasów iglastych i wrzosowisk, rozwijający się na ściółce leśnej, mchu i butwiejącym drewnie. Pospolity w Europie.",
-      cap: "Kapelusz ma 2–8 cm średnicy. Za młodu jest wypukły z podwiniętym brzegiem, później lejkowaty. Barwa jest jaskrawopomarańczowa, żółtopomarańczowa do rdzawej, z jaśniejszym brzegiem. Powierzchnia jest sucha, aksamitna do zamszowej.",
-      hymenium: "Blaszki są prawdziwe, bardzo gęste, cienkie, wielokrotnie widlasto rozgałęzione, głęboko zbiegające na trzon, o intensywnej pomarańczowej do morelowej barwie.",
-      stipe: "Trzon ma 3–6 cm długości i 0,3–0,8 cm grubości, jest cylindryczny, często wygięty, pomarańczowy, u podstawy z wiekiem ciemniejący do brązowoczarnego.",
-      flesh: "Miąższ jest cienki, miękki, żółtopomarańczowy. Zapach i smak są słabe, niewyraźne.",
-      sporePrint: "Biały do kremowego. Zarodniki są elipsoidalne, gładkie, o wymiarach około 5,5–8 × 3,5–4,5 μm, dekstrynoidalne.",
-      habitat: "Owocniki pojawiają się od sierpnia do listopada w borach sosnowych i świerkowych, na ściółce iglastej i butwiejących pniakach.",
-      uses: "Grzyb niejadalny lub warunkowo podejrzewany o wywoływanie zaburzeń pokarmowych. Zawiera związki mogące u osób wrażliwych wywołać nudności i biegunkę. Ma znikomą wartość kulinarną.",
-      confusion: "Pieprznik jadalny (Cantharellus cibarius) ma grubszy, mięsisty miąższ, barwę żółtka jaja, przyjemny morelowy zapach oraz fałdy (listewki) zamiast cienkich, gęstych, rozwidlonych blaszek.",
-      notes: "Dawne odmiany barwne zostały obecnie podniesione do rangi odrębnych gatunków."
-    },
     it: {
       description: "Un fungo saprotrofo della lettiera di aghi e dei residui legnosi marcescenti nei boschi di conifere e brughiere. È comune in tutta Europa.",
       cap: "Il cappello misura 2–10 cm di diametro. È convesso poi spianato e infine depresso o a imbuto con margine involuto. Il colore è arancio brillante, giallo aranciato o fulvo, con superficie finemente vellutata.",
@@ -32547,6 +32520,17 @@ export const CATALOG = [
       uses: "La comestibilité est contestée. Il est largement considéré comme comestible et a été vendu sur les marchés européens, notamment en France, mais il est de piètre qualité, mou et plutôt insipide. Il a provoqué des troubles digestifs chez certaines personnes, des hallucinations selon une observation, et a également été qualifié de légèrement toxique.",
       confusion: "La girolle (Cantharellus cibarius) est plus épaisse et plus ferme, jaune pâle, pourvue de plis obtus plutôt que de vraies lames, et sent l'abricot. La chanterelle de Fries (Cantharellus friesii) est plus orangée, mais possède toujours des plis et une chair plus ferme. Le pleurote de l'olivier (Omphalotus olearius) et l'omphalote illusoire (Omphalotus illudens) sont toxiques. Ils poussent en touffes sur le bois de feuillus comme l'olivier, le chêne ou le châtaignier, avec des sporophores plus épais et de vraies lames qui ne sont pas fourchues. La fausse chanterelle rousse (Hygrophoropsis rufa) a un chapeau et un pied plus bruns ainsi qu'une surface veloutée ou écailleuse brune. Hygrophoropsis macrospora (Hygrophoropsis macrospora) a des lames crème, un pied crème et des spores plus longues. Hygrophoropsis fuscosquamula (Hygrophoropsis fuscosquamula) porte de fines écailles brunes sur un chapeau orange terne, des spores plus longues et un trichoderme. La fausse chanterelle odorante (Aphroditeola olida) est plus petite et rosâtre, avec une odeur de bonbon et des spores inamyloïdes plus petites. L'omphale à lames dorées (Chrysomphalina chrysophylla) a un chapeau brun-jaune et des lames jaunes non fourchues. Haasiella splendidissima (Haasiella splendidissima) a une sporée rose et des lames non fourchues. Le clitocybe en entonnoir (Infundibulicybe gibba) est plus pâle et a des lames blanches non fourchues. Une forme pâle de cette espèce peut également avoir des lames blanches, et ces lames restent fourchues et faciles à séparer de la chair.",
       notes: "Deux anciennes variétés sont aujourd'hui des espèces distinctes : Hygrophoropsis macrospora et Hygrophoropsis rufa. Les sporophores rangés sous ce nom en Californie appartiennent à un complexe non encore décrit. Des sporophores en massue avec un tissu lamellaire contourné, ainsi qu'une forme rappelant une morille, s'observent occasionnellement."
+    },
+    pl: {
+      description: "Grzyb saprotroficzny rozwijający się na kwaśnej ściółce leśnej i mocno spróchniałym drewnie iglastym. Pospolity w całej strefie umiarkowanej półkuli północnej, w lasach iglastych i mieszanych.",
+      cap: "Kapelusz ma 2–8 cm średnicy, początkowo jest wypukły z podwiniętym brzegiem, później lejkowaty do spłaszczonego z pofalowanym brzegiem. Barwa jest jaskrawo pomarańczowożółta, morelowopomarańczowa do rdzawopomarańczowej. Skórka jest sucha, aksamitna lub matowa.",
+      hymenium: "Blaszki są bardzo gęste, wąskie, wielokrotnie widlasto rozwidlone i głęboko zbiegające na trzon. Mają intensywnie pomarańczową barwę, wyraźnie żywszą niż kapelusz.",
+      stipe: "Trzon ma 3–6 cm długości i 0,3–0,8 cm grubości, jest cylindryczny, często wygięty, elastyczny, w barwie kapelusza lub ciemniejszy, u podstawy często brązowiejący lub czerniejący.",
+      flesh: "Miąższ jest cienki, miękki, elastyczny, pomarańczowy do żółtawego. Zapach jest słaby, a smak niewyraźny.",
+      sporePrint: "Biały do kremowego. Zarodniki są elipsoidalne, gładkie, o wymiarach 5,5–7 × 3,5–4,5 μm, dekstrynoidalne.",
+      habitat: "Owocniki pojawiają się od sierpnia do listopada, najczęściej w borach sosnowych i świerkowych, na ściółce leśnej, butwiejącym igliwiu i pniakach.",
+      uses: "Grzyb niejadalny lub warunkowo jadalny, u wielu osób wywołujący zaburzenia trawienne ze względu na zawartość arabitolu. Z kulinarnych względów bezwartościowy.",
+      confusion: "Pieprznik jadalny (Cantharellus cibarius) jest wybornym grzybem jadalnym, ma grube, tępe listewki (fałdy) zamiast cienkich, gęstych blaszek, zwarty, mięsisty miąższ o morelowym zapachu i nigdy nie ciemnieje u podstawy trzonu."
     }
     },
     sources: {
@@ -32863,18 +32847,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%9B%D0%B8%D1%81%D0%B8%D1%87%D0%BA%D0%B0_%D0%BD%D0%B5%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B6%D0%BD%D1%8F"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Lisówka_pomarańczowa"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -32914,6 +32886,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Lisówka_pomarańczowa"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -33033,10 +33017,10 @@ export const CATALOG = [
       bg: 'отровен родофилус',
       ru: "энтолома ядовитая",
       uk: "ентолома отруйна",
-      pl: "dzwonkówka trująca",
       it: "entoloma livido",
       hu: "nagy döggomba",
-      fr: "entolome livide"
+      fr: "entolome livide",
+      pl: "dzwonkówka trująca"
     },
     names: {
       en: ["livid entoloma", "livid agaric", "leaden entoloma", "lead poisoner", "grey pinkgill"],
@@ -33312,18 +33296,6 @@ export const CATALOG = [
       confusion: "Рядовка травнева (Calocybe gambosa) плодоносить навесні, має густі пластинки, які ніколи не рожевіють, і білий споровий порошок. Говорушка димчаста (Clitocybe nebularis) має збіжні білуваті пластинки й вохристо-кремовий споровий порошок.",
       notes: "Один із найчастіших винуватців серйозних грибних отруєнь у літньо-осінній період."
     },
-    pl: {
-      description: "Grzyb ektomikoryzowy ciepłych lasów liściastych na podłożu wapiennym, występujący pod dębami i bukami. Rozpowszechniony w południowej i środkowej Europie.",
-      cap: "Kapelusz osiąga 5–20 cm średnicy (niekiedy do 30 cm). Początkowo jest półkolisty, potem wypukły do rozpostartego z tępym garbkiem. Barwa jest kremowa, szarożółtawa do ołowianoszarej. Skórka jest jedwabiście gładka, lśniąca w stanie suchym.",
-      hymenium: "Blaszki są rzadkie, szerokie, wycięte zatokowato przy trzonie. Początkowo są żółtawe, z wiekiem stają się łososioworóżowe do mięsnoczerwonych od dojrzałych zarodników.",
-      stipe: "Trzon ma 5–15 cm długości i 1,5–3,5 cm grubości, jest cylindryczny lub maczugowaty, biały, jedwabiście włóknisty, pełny, bez pierścienia.",
-      flesh: "Miąższ jest biały, gruby, jędrny, po przekrojeniu nie zmienia barwy. Posiada silny zapach świeżej mąki, który u starych owocników staje się nieprzyjemny.",
-      sporePrint: "Cielistoróżowy do mięsnoczerwonego. Zarodniki są kanciaste, 5–6-boczne, o wymiarach około 8–11 × 7–9,5 μm.",
-      habitat: "Owocniki pojawiają się od czerwca do października w ciepłolubnych dąbrowach i buczynach storczykowych.",
-      uses: "Grzyb silnie trujący. Wywołuje ciężkie zatrucia żołądkowo-jelitowe objawiające się gwałtownymi wymiotami, biegunką i odwodnieniem już po 1–4 godzinach od spożycia. W ciężkich przypadkach może prowadzić do zapaści krążeniowej.",
-      confusion: "Gęśnica wiosenna (Calocybe gambosa) owocuje wiosną i ma gęste, białe blaszki oraz biały wysyp zarodników. Lejkówka szarawa (Clitocybe nebularis) owocuje późną jesienią, ma gęste blaszki zbiegające na trzon i jasny wysyp zarodników.",
-      notes: "Dawniej owocniki o kapeluszach bez żółtawego odcienia wydzielano jako Entoloma eulividum."
-    },
     it: {
       description: "Un grande fungo ectomicorrizico dei boschi caldi di latifoglie su terreno argilloso o calcareo, associato a querce, faggi e castagni. È una delle specie velenose più ingannevoli e pericolose.",
       cap: "Il cappello misura solitamente 5–20 cm di diametro (talvolta fino a 25–30 cm). È molto carnoso e massiccio, convesso poi appianato con largo umbone ottuso, di colore grigio perla, grigio piombo o ocra-grigiastro lucido con fibrille radiali innate.",
@@ -33359,6 +33331,17 @@ export const CATALOG = [
       uses: "Il provoque une intoxication gastro-intestinale sévère. Les symptômes débutent environ d'une demi-heure à quatre heures après un repas et comprennent des nausées, des vomissements, des douleurs coliques, des diarrhées et des maux de tête, avec perte hydrique et minérale, des crampes et parfois un collapsus circulatoire. L'affection peut durer environ deux jours, ou plusieurs jours. Une atteinte hépatique aiguë et des troubles psychiatriques, notamment des changements d'humeur, un délire, une confusion et un état dépressif, sont rares, la dépression pouvant persister des mois. L'intoxication peut être mortelle, en particulier chez les enfants et les personnes fragiles, bien qu'elle soit souvent sévère sans être fatale. Des décès d'adultes et d'enfants ont été rapportés. Il est responsable d'une part importante des intoxications fongiques en Europe, environ un dixième selon une estimation, dont 70 cas hospitalisés à Genève en 1983 et 33 cas sur 145 en cinq ans dans un hôpital de Parme. Les toxines n'ont pas été isolées. La vinylglycine a été suspectée, des lectines agglutinant les globules rouges de groupe A ont été signalées, et un effet insecticide sur les drosophiles a été constaté.",
       confusion: "Le mousseron (Calocybe gambosa) possède des lames blanches serrées qui ne virent jamais au rose, une sporée blanche et une odeur farineuse plus forte, et il fructifie principalement au printemps. Les deux peuvent cohabiter en lisière de bois. L'entolome des haies (Entoloma sepium) fructifie également plus tôt, durant cette même saison printanière. Le meunier (Clitopilus prunulus) a des lames décurrentes et une odeur de farine, et ses lames sont blanchâtres puis roses. Le clitocybe nébuleux (Clitocybe nebularis) a des lames décurrentes blanchâtres serrées qui ne deviennent pas roses, une odeur douceâtre et une saison plus tardive. L'entolome blanc livide (Entoloma lividoalbum) a un chapeau hygrophane. Le tricholome colombette (Tricholoma columbetta) est blanc, avec un chapeau et un pied satinés, une odeur discrète non farineuse et une sporée blanche. L'agaric champêtre (Agaricus campestris) a un anneau, des lames passant du rose au brun chocolat et une sporée brun foncé. Le clitocybe à chapeaux multiples (Clitocybe multiceps) pousse dans le nord-ouest du Pacifique, a des spores blanches et croît généralement en touffes. Les autres espèces du genre Entoloma (Entoloma) sont généralement plus petites, et le genre Tricholoma (Tricholoma) produit des spores blanches.",
       notes: "Les sporophores autrefois distingués sous le nom d'Entoloma eulividum, avec un chapeau ocre et des lames dépourvues de jaune, sont inclus ici."
+    },
+    pl: {
+      description: "Ciepłolubny grzyb ektomikoryzowy lasów liściastych, rosnący głównie pod dębami, bukami i grabami na glebach wapiennych i gliniastych. Występuje w Europie i Ameryce Północnej.",
+      cap: "Kapelusz osiąga 6–16 cm średnicy (niekiedy do 20 cm), jest mięsisty, początkowo półkulisty z podwiniętym brzegiem, później wypukły do rozpostartego z tępym garbkiem. Barwa jest kości słoniowej, jasnoszara, ochrowoszara do ołowianoszarej. Skórka jest gładka, jedwabiście błyszcząca, z wrośniętymi włókienkami.",
+      hymenium: "Blaszki są gęste, szerokie, zatokowato wycięte przy trzonie lub prawie wolne. Początkowo są żółtawobiałe do jasnożółtych, w miarę dojrzewania zarodników stają się łososioworóżowe do brudnoróżowych.",
+      stipe: "Trzon ma 5–14 cm długości i 1,5–3,5 cm grubości, jest cylindryczny, mocny, u podstawy maczugowato zgrubiały, biały, jedwabiście włóknisty.",
+      flesh: "Miąższ jest biały, gruby i jędrny. Charakteryzuje się silnym zapachem świeżej mąki lub świeżo zmielonego ziarna. Smak jest przyjemny, mączny.",
+      sporePrint: "Różowy do łososiowego. Zarodniki są 5–6-kanciaste (wielokątne), o wymiarach 8–11 × 7–9 μm.",
+      habitat: "Owocniki pojawiają się od lipca do października w ciepłych lasach liściastych, parkach i na skrajach dąbrów na podłożu wapiennym.",
+      uses: "Grzyb silnie trujący. Wywołuje bardzo ciężki zespół żołądkowo-jelitowy z gwałtownymi wymiotami, krwawą biegunką, bólami brzucha i ciężkim odwodnieniem; objawy pojawiają się po 1–4 godzinach. W skrajnych przypadkach bywa przyczyną zgonu.",
+      confusion: "Gęśnica wiosenna (Calocybe gambosa) ma biały wysyp zarodników, blaszki zawsze białawe (nigdy różowe) i owocuje wiosną. Bruzdniczek największy (Clitopilus prunulus) ma blaszki głęboko zbiegające na trzon i bardzo kruchy miąższ."
     }
     },
     sources: {
@@ -33661,18 +33644,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%95%D0%BD%D1%82%D0%BE%D0%BB%D0%BE%D0%BC%D0%B0_%D0%BE%D1%82%D1%80%D1%83%D0%B9%D0%BD%D0%B0"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Dzwonkówka_trująca"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -33712,6 +33683,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Dzwonkówka_trująca"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -33828,10 +33811,10 @@ export const CATALOG = [
       bg: 'обикновен фалус',
       ru: "весёлка обыкновенная",
       uk: "веселка звичайна",
-      pl: "sromotnik smrodliwy",
       it: "fallo impudico",
       hu: "erdei szömörcsög",
-      fr: "satyre puant"
+      fr: "satyre puant",
+      pl: "sromotnik smrodliwy"
     },
     names: {
       en: ["stinkhorn", "witch's egg"]
@@ -33841,10 +33824,10 @@ export const CATALOG = [
       sv: ['liksvamp'],
       ro: ['burete puturos'],
       bg: ['дервишка гъба', 'смрадливка'],
-      pl: ["sromotnik bezwstydny"],
       it: ["satirione"],
       hu: ["szemérmetlen szömörcsög","szemtelen szömörcsög"],
-      fr: ["phallus impudique","morille du diable"]
+      fr: ["phallus impudique","morille du diable"],
+      pl: ["sromotnik bezwstydny"]
     },
     text: {
       tr: {
@@ -34108,18 +34091,6 @@ export const CATALOG = [
       confusion: "Веселка Адріана (Phallus hadriani) відрізняється рожевою або бузковою оболонкою яйця й росте на піщаних ґрунтах.",
       notes: "Після розриву яйця плодове тіло росте з однією з найвищих швидкостей у світі живих організмів."
     },
-    pl: {
-      description: "Grzyb saprotroficzny żyznych gleb leśnych, parków i ogrodów. Pospolity w całej Europie.",
-      cap: "Młody owocnik rozwija się w postaci tzw. «czarciego jaja» o średnicy 3–6 cm, zakorzenionego białawym sznurem grzybniowym. Po pęknięciu osłony w ciągu kilkudziesięciu minut wyrasta biały trzon z naparstkowatym, stożkowatym kapeluszem o długości 3–5 cm.",
-      hymenium: "Warstwę zarodnikonośną stanowi ciemnooliwkowa, śluzowata gleba pokrywająca żebrowaną powierzchnię główki. Wydziela intensywną, wstrętną woń padliny, wabiącą muchy roznoszące zarodniki.",
-      stipe: "Receptakulum (trzon) ma 10–20 cm długości i 2–4 cm grubości, jest białe, cylindryczne, puste, o gąbczastej, porowatej strukturze komorowej. U podstawy tkwi w workowatej pochwie.",
-      flesh: "Miąższ trzonu jest biały, kruchy, gąbczasty. Poza cuchnącą glebą miąższ pachnie rzodkiewkowo.",
-      sporePrint: "Brak typowego wysypu. Zarodniki tkwią w śluzowatej glebie, są gładkie, elipsoidalne, o wymiarach około 3,5–5 × 1,5–2 μm.",
-      habitat: "Owocniki pojawiają się od maja do listopada w lasach liściastych i iglastych, parkach i zaroślach.",
-      uses: "Młode owocniki w stadium jaja po obraniu ze skórki i galaretowatej warstwy są jadalne na surowo lub smażone (przypominają w smaku rzodkiew lub orzechy). Dojrzałe, cuchnące owocniki są niejadalne.",
-      confusion: "Sromotnik fiołkowy (Phallus hadriani) ma pochwę i jajo zabarwione na liliowo lub fioletowo i rośnie głównie na piaszczystych wydmach.",
-      notes: "Po pęknięciu osłony trzon potrafi wydłużać się w tempie nawet kilkunastu centymetrów na godzinę."
-    },
     it: {
       description: "Un fungo saprotrofo che cresce su suoli ricchi di humus e legno marcescente in boschi, parchi e giardini. È celebre per la sua forma e per l'odore nauseante di cadavere avvertibile a grande distanza.",
       cap: "Il fungo si sviluppa inizialmente come un ovolo ipogeo o semipogeo di 3–6 cm di diametro, bianco o crema con cordoni miceliari alla base. Alla schiusa fuoriesce un ricettacolo cilindrico sormontato da un cappuccio a mitra conico-campanulato alveolato, ricoperto dalla gleba mucillaginosa verde oliva scuro.",
@@ -34155,6 +34126,18 @@ export const CATALOG = [
       uses: "L'œuf non ouvert est consommé. La peau et la gélatine sont pelées, et le centre blanc et ferme se mange cru, croquant et avec un goût de radis, ou pané et poêlé. En France et en Allemagne, les œufs sont préparés au vinaigre ou incorporés dans des saucisses. Les descriptions de sa saveur ne sont pas toutes concordantes. Le sporophore épanoui est délaissé en raison de son odeur.",
       confusion: "Le satyre des dunes (Phallus hadriani) possède un œuf et une volve roses à violacés et un pied plus court. En Grande-Bretagne, il pousse sur les dunes de sable, et ailleurs sur sol sableux dans les régions chaudes. En Amérique du Nord, la volve de notre espèce varie du blanchâtre au jaunâtre et rosâtre jusqu'au violacé ou brun rougeâtre, de sorte qu'une volve violacée ne permet pas à elle seule de séparer les deux taxons. Certaines descriptions de l'ouest nord-américain continuent d'attribuer une volve violacée à Phallus hadriani (Phallus hadriani). Le satyre du chien (Mutinus caninus) est beaucoup plus petit, a une odeur plus faible et présente un réseau alvéolé orange sous la gléba plutôt qu'une structure alvéolée blanche sur une tête distincte. Le satyre de Ravenel (Mutinus ravenelii) se sépare de la même manière, et le pied d'un Mutinus ne se dégage pas nettement de l'œuf. Une résille blanche grossière ou une jupette dentelée sous la tête est traitée comme une variété de cette espèce, sous le nom de var. pseudoduplicatus ou var. togatus. Les ouvrages britanniques ont appliqué le nom Dictyophora duplicata (Dictyophora duplicata) à cette forme voilée. Les descriptions d'Europe centrale maintiennent le champignon à résille comme une variété plutôt que comme une espèce américaine distincte. Une fois la gléba retirée, la tête alvéolée peut ressembler à celle de la morille commune (Morchella esculenta). La volve restante, le pied creux et spongieux, les traces de mucus et la fructification en été et en automne plutôt qu'au printemps permettent de les séparer. Le satyre de Ravenel (Phallus ravenelii) est plus commun à l'est du Mississippi, tandis que notre espèce est plus fréquemment signalée à l'ouest.",
       notes: "Après l'ouverture de l'œuf, le pied peut s'allonger de 10–15 cm en une heure, et le sporophore en expansion peut exercer une pression d'environ 1,33 kPa, suffisante pour soulever l'asphalte. Les mouches à viande, notamment Calliphora vicina, Lucilia caesar et Lucilia ampullacea, ainsi que la mouche Dryomyza anilis, consomment la gléba et rejettent rapidement des déjections liquides remplies de spores. Les coléoptères Oeceoptoma thoracica et Meligethes viridescens sont également attirés et se nourrissent plus largement des tissus."
+    },
+    pl: {
+      description: "Grzyb saprotroficzny rozwijający się na żyznej glebie próchnicznej i butwiejącym drewnie w lasach liściastych i iglastych. Pospolity w Europie, Azji i Ameryce Północnej.",
+      cap: "Główka (kapelusz) ma 3–5 cm wysokości i 2–4 cm szerokości, jest stożkowata, na szczycie zakończona białym krążkiem z otworkiem. Powierzchnia ma strukturę plastra miodu z głębokimi jamkami, początkowo całkowicie pokrytą śluzowatą, ciemnooliwkową masą zarodnikonośną (glebą). Po zjedzeniu śluzu przez muchy główka staje się biaława lub żółtawa.",
+      hymenium: "Warstwę zarodnikonośną stanowi ciemnooliwkowa gleba wydzielająca intensywny, odrażający zapach padliny, wabiący muchy, które roznoszą zarodniki. Brak blaszek i rurek.",
+      stipe: "Trzon (receptakul) ma 10–25 cm wysokości i 2–4 cm grubości, jest cylindryczny, biały, porowaty, gąbczasty i pusty w środku. U podstawy tkwi w dużej, białej, workowatej pochwie (pozostałości stadium jaja), połączonej z podłożem białym sznurem grzybniowym.",
+      flesh: "Miąższ receptakula jest biały, kruchy i gąbczasty. W stadium rozwiniętym ma nieznośny zapach padliny, natomiast w stadium młodego jaja ma zapach świeżej rzodkwi.",
+      sporePrint: "Brak tradycyjnego wysypu; zarodniki roznoszone są w płynnej oliwkowej masie przez owady. Zarodniki są gładkie, cylindryczne, o wymiarach 3,5–5 × 1,5–2 μm.",
+      habitat: "Owocniki pojawiają się od maja do listopada w wilgotnych lasach liściastych, iglastych, parkach i zaroślach.",
+      uses: "W stadium młodego «czarciego jaja» (przed pęknięciem osłony) jest jadalny po obraniu ze skórki i galaretowatej warstwy. Spożywany na surowo ma smak rzodkwi, bywa też smażony w panierce. Rozwinięte owocniki są niejadalne z powodu odrażającego zapachu.",
+      confusion: "Sromotnik fiołkowy (Phallus hadriani) ma pochwę jaja o wyraźnym różowofioletowym zabarwieniu i rośnie na piaskach. Mądziak psi (Mutinus caninus) jest znacznie mniejszy, a pod glebą ma jaskrawopomarańczowy szczyt.",
+      notes: "Po pęknięciu jaja trzon może wydłużać się w tempie nawet do 10–15 cm na godzinę."
     }
     },
     sources: {
@@ -34487,18 +34470,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%92%D0%B5%D1%81%D0%B5%D0%BB%D0%BA%D0%B0_%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9%D0%BD%D0%B0"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Sromotnik_smrodliwy"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -34538,6 +34509,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Sromotnik_smrodliwy"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -34647,10 +34630,10 @@ export const CATALOG = [
       bg: 'праханова гъба',
       ru: "трутовик настоящий",
       uk: "трутовик справжній",
-      pl: "hubiak pospolity",
       it: "fungo dell'esca",
       hu: "bükkfa-tapló",
-      fr: "amadouvier"
+      fr: "amadouvier",
+      pl: "hubiak pospolity"
     },
     names: {
       en: [
@@ -34928,17 +34911,6 @@ export const CATALOG = [
       confusion: "Трутовик облямований (Fomitopsis pinicola) росте переважно на хвойних і має яскраву червоно-помаранчеву смугу по краю плодового тіла.",
       notes: "Шматочки цього трутовика було знайдено в спорядженні альпійської льодової мумії Етці віком понад 5000 років."
     },
-    pl: {
-      description: "Wieloletni pasożyt i saprotrof nadrzewny wywołujący białą zgniliznę drewna drzew liściastych, zwłaszcza buków i brzóz. Pospolity w całej strefie umiarkowanej półkuli północnej.",
-      cap: "Owocnik jest wieloletni, kopytkowaty lub półeczkowaty, o szerokości 10–40 cm i grubości do 20 cm, przyrośnięty szeroko bokiem do pnia. Powierzchnia pokryta jest twardą, gładką skorupą o barwie popielatoszarej, ołowianej do czarniawej, z wyraźnymi strefami rocznymi.",
-      hymenium: "Rurki są ułożone w wyraźnych warstwach rocznych o grubości 2–10 mm każda, rdzawobrązowe. Pory są drobne, okrągłe, początkowo szarawe do jasnobrązowych.",
-      stipe: "Brak trzonu; owocnik przyrasta bezpośrednio do pnia drzewa.",
-      flesh: "Miąższ (trama) jest twardy, korkowaty do zdrewniałego, włóknisty, barwy rdzawobrązowej lub orzechowej. Zapach jest słaby, grzybowy.",
-      sporePrint: "Białawy do bladożółtawego. Zarodniki są gładkie, cylindryczne, o wymiarach około 15–20 × 5–7 μm.",
-      habitat: "Owocniki rosną przez cały rok na żywych i martwych pniach drzew liściastych, szczególnie buków i brzóz.",
-      uses: "Niejadalny z powodu skrajnie twardego, zdrewniałego miąższu. Od czasów prehistorycznych (używany już przez człowieka lodu (Otziego)) jego włóknisty miąższ służył do wyrobu hubki do krzesania ognia, a także odzieży i opatrunków tamujących krew.",
-      confusion: "Pniarek obrzeżony (Fomitopsis pinicola) rośnie głównie na drzewach iglastych, ma jaśniejszy miąższ i żółtopomarańczową strefę przyrostu na brzegu owocnika. Czyreń ogniowy (Phellinus igniarius) ma rdzawoczarne owocniki i twardszy miąższ."
-    },
     it: {
       description: "Un fungo poliporaceo perenne lignicolo, parassita su tronchi viventi e saprotrofo su alberi morti di latifoglie (soprattutto faggio, betulla e pioppo). Causa un intenso marciume bianco del legno.",
       cap: "Il corpo fruttifero è pluriennale, sessile, tipicamente a forma di zoccolo di cavallo o grossa mensola triangolare, largo 10–40 cm e spesso fino a 20 cm. La crosta superiore è dura, legnosa, concentricamente solcata e zoccolata, di colore grigio cenere, grigio piombo o bruno-nerastra.",
@@ -34972,6 +34944,17 @@ export const CATALOG = [
       habitat: "Les sporophores sont présents toute l'année, et la croissance est la plus vigoureuse du début de l'été jusqu'à l'automne. Les spores sont libérées principalement au printemps, avec une poussée automnale plus modeste, à des températures relativement basses. Un sporophore peut libérer jusqu'à environ 887 millions de basidiospores par heure au pic du printemps. Les consoles poussent sur les troncs vivants et morts de feuillus, les souches et les billes tombées au sol, et elles pénètrent par les blessures de l'écorce. Le bouleau est l'hôte habituel dans le nord ainsi que dans les tourbières et les landes. Le hêtre est l'hôte principal en Europe centrale, y compris dans les hêtraies de montagne. Plus au sud, le chêne est l'hôte méditerranéen habituel, et le peuplier est également signalé comme hôte méridional. Parmi les autres hôtes figurent le saule, l'érable, le tilleul, le charme, le cerisier, le caryer, le sycomore, le noyer et l'aulne. Les conifères sont exceptionnels. Le mycélium peut rester latent dans les troncs vivants de hêtre. La pourriture est une pourriture blanche qui rend le bois pâle et fibreux, le bois décomposé se brisant en petits éclats et en fils. Les sporophores durent jusqu'à environ 30 ans. Après la mort de l'arbre, la croissance peut s'arrêter tandis que les consoles restent fixées.",
       uses: "Le sporophore est non comestible. Il est trop ligneux, et la chair est amère ou âcre. La trame fibreuse a longtemps été transformée en amadou, employé comme initiateur de feu et comme mèche lente, ou battu pour former un matériau semblable au cuir destiné à confectionner des casquettes, des gants et des culottes, et également utilisé pour sécher les mouches de pêche. Ötzi en transportait quatre morceaux, utilisés comme amadou. La chair était vendue comme pansement hémostatique pour les plaies. La poudre, le thé et l'eau-de-vie qui en étaient tirés étaient consommés contre les maux d'estomac, les hémorroïdes, les troubles de la vessie, le cancer et d'autres affections. Le champignon est également étudié pour ses activités antivirales, antibactériennes et antioxydantes, ainsi que pour son potentiel en tant que polymère biodégradable et absorbant des métaux lourds et des colorants.",
       confusion: "Le polypore marginé (Fomitopsis pinicola) pousse plus souvent sur les conifères, a une trame plus pâle et possède des pores qui ne changent pas de couleur au froissement. Le polypore du bouleau (Fomitopsis betulina) est annuel, pousse sur le bouleau et présente une surface supérieure beaucoup plus lisse. Le ganoderme aplani (Ganoderma applanatum) est plus plat, souvent pourvu d'une surface supérieure fortement brune, d'une sporée brune et de spores verruqueuses, et ses pores s'assombrissent fortement à la pression. Le faux amadouvier (Phellinus igniarius) est plus sombre, avec une croûte ligneuse dure qui ne s'enfonce pas, et la croûte ne vire pas au rouge sang dans les alcalis. Le polypore fascié (Fomes fasciatus) compte généralement environ 4–5 pores par millimètre et des spores plus petites, d'environ 7,5–16 × 2,5–6 µm. Le fomes d'Inzenga (Fomes inzengae) est une espèce distincte des stations chaudes méridionales et de basse altitude, y compris dans certaines parties d'Europe centrale, et les deux peuvent pousser dans la même région. La densité des pores, la taille des spores et la largeur des hyphes squelettiques se chevauchent, de sorte que ces caractères ne permettent pas de les séparer. Une étude de 2019 signalait des spores beaucoup plus petites pour le fomes d'Inzenga (Fomes inzengae), d'environ 9–12,5 × 2,8–3,8 µm, mais des mesures ultérieures effectuées en Europe centrale ont trouvé des spores situées dans la même gamme que cette espèce."
+    },
+    pl: {
+      description: "Wieloletni grzyb nadrzewny wywołujący białą zgniliznę drewna liściastego, pasożytujący na żywych pniach i rozwijający się jako saprotrof na martwym drewnie oraz pniakach. Występuje w strefie umiarkowanej Europy, Afryki Północnej, Azji i wschodniej Ameryki Północnej.",
+      cap: "Owocnik jest wieloletni, beztrzonowy, kopytkowaty lub w kształcie grubej półki, przyrośnięty do podłoża całą szerokością. Ma 10–40 cm szerokości (wyjątkowo do 60 cm) i 7–25 cm grubości u nasady. Powierzchnia pokryta jest twardą, niebłyszczącą skorupą o grubości 1–3 mm, koncentrycznie bruzdowaną, popielatoszarą, szarobrązową do ciemnoszarej, u starych okazów niemal czarną. Brzeg jest tępy, zaokrąglony, w okresie wzrostu jaśniejszy, rdzawobrązowy lub skórzastożółty.",
+      hymenium: "Rurki są ułożone w wyraźnych, corocznych warstwach, mają rdzawobrązowy kolor, a ich łączna grubość dochodzi do kilkunastu centymetrów. Pory są drobne, okrągłe, 2–4 na milimetr, początkowo szarawe do ochrowych, po ugnieceniu ciemniejące.",
+      stipe: "Brak trzonu. Owocnik przyrasta do pnia bokiem na całej szerokości.",
+      flesh: "Miąższ jest twardy, korkowaty do drewnowatego, włóknisty, rdzawobrązowy do cynamonowego. Posiada słaby, owocowy zapach i gorzkawy smak. Pod działaniem wodorotlenku potasu (KOH) czernieje.",
+      sporePrint: "Biały do cytrynowożółtego. Zarodniki są gładkie, cylindryczne, o wymiarach 15–20 × 5–7 μm, nieamyloidalne.",
+      habitat: "Owocniki trwają przez cały rok na pniach starych i obumarłych drzew liściastych, głównie na buku w Europie Środkowej oraz na brzozie w Europie Północnej, rzadziej na dębach, topolach, wierzbach i olszach.",
+      uses: "Grzyb niejadalny ze względu na zdrewniałą konsystencję. Od czasów prehistorycznych używany jako huba do krzesania ognia (znaleziony m.in. przy szczątkach człowieka lodu zwanego Oetzi), a po odpowiedniej obróbce i rozbiciu wyrabiano z niego przypominający zamsz materiał na czapki i rękawiczki oraz stosowano jako środek tamujący krew.",
+      confusion: "Pniarek obrzeżony (Fomitopsis pinicola) ma żywiczną, topiącą się pod wpływem płomienia skorupę i najczęściej rośnie na drzewach iglastych. Czyrzeń ogniowy (Phellinus igniarius) ma ciemniejszy miąższ i drobniejsze pory."
     }
     },
     sources: {
@@ -35295,18 +35278,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%A2%D1%80%D1%83%D1%82%D0%BE%D0%B2%D0%B8%D0%BA_%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B6%D0%BD%D1%96%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Hubiak_pospolity"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -35346,6 +35317,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Hubiak_pospolity"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -35460,10 +35443,10 @@ export const CATALOG = [
       bg: 'Юдино ухо',
       ru: "аурикулярия уховидная",
       uk: "аурикулярія вухоподібна",
-      pl: "uszak bzowy",
       it: "orecchio di Giuda",
       hu: "júdásfülgomba",
-      fr: "oreille de Judas"
+      fr: "oreille de Judas",
+      pl: "uszak bzowy"
     },
     names: {
       en: ["Judas's ear", "Jew's ear", "wood ear", "ear fungus", "common ear fungus"],
@@ -35475,8 +35458,8 @@ export const CATALOG = [
       ro: ['burete de soc'],
       ru: ["иудино ухо"],
       uk: ["юдине вухо"],
-      pl: ["ucho bzowe","uszak judaszowy"],
-      hu: ["júdásfüle gomba","júdásfüle-gomba"]
+      hu: ["júdásfüle gomba","júdásfüle-gomba"],
+      pl: ["ucho bzowe","uszak judaszowy"]
     },
     text: {
       tr: {
@@ -35739,18 +35722,6 @@ export const CATALOG = [
       confusion: "Аурикулярія звивиста (Auricularia mesenterica) товща, має зонально повстяну верхню поверхню й утворює черепичасті зростки.",
       notes: "Традиційно використовується у народній медицині завдяки антикоагулянтним властивостям."
     },
-    pl: {
-      description: "Nadrzewny grzyb saprotroficzny i pasożytniczy rozwijający się na martwym drewnie drzew liściastych, szczególnie bzu czarnego (Sambucus nigra). Pospolity na całym świecie.",
-      cap: "Owocnik ma 3–12 cm średnicy i 1–3 mm grubości. Ma charakterystyczny kształt małżowiny usznej lub miseczki. Powierzchnia zewnętrzna jest aksamitna, matowa, zamszowata, czerwonobrązowa do oliwkowobrązowej.",
-      hymenium: "Spodnia strona płodna jest gładka lub pofałdowana w żyłkowate zwoje, lśniąca, nieco jaśniejsza, fioletowobrązowa do czerwonobrązowej.",
-      stipe: "Trzon jest silnie zredukowany, krótki lub brak go zupełnie; owocnik przyrasta bocznie do drewna.",
-      flesh: "Miąższ jest galaretowaty, elastyczny, półprzezroczysty, po wyschnięciu twardy, rogowy i skurczony, lecz po namoczeniu w wodzie odzyskuje pierwotną konsystencję. Zapach i smak są bardzo słabe.",
-      sporePrint: "Biały. Zarodniki są cylindryczne do kiełbaskowatych, gładkie, o wymiarach około 14–18 × 5–7 μm.",
-      habitat: "Owocniki pojawiają się przez cały rok, najobficiej późną jesienią i zimą na starych i obumarłych gałęziach bzu czarnego, rzadziej innych drzew liściastych.",
-      uses: "Bardzo ceniony grzyb jadalny po ugotowaniu, szeroko stosowany w tradycyjnej kuchni azjatyckiej (podobnie jak grzyby mun) do zup i dań z woka z powodu chrupkiej, chrząstkowatej konsystencji.",
-      confusion: "Uszak kędzierzawy (Auricularia mesenterica) tworzy dachówkowate, owłosione półeczki o wyraźnym strefowaniu górnej powierzchni. Kisielnica trzoneczkowa (Exidia glandulosa) jest czarna i tworzy mniej miseczkowate skupiska.",
-      notes: "Całkowicie białe formy albinotyczne opisywano dawniej jako odrębne taksony."
-    },
     it: {
       description: "Un fungo eterobasidiomicete gelatinoso lignicolo che cresce su rami e tronchi vivi o marcescenti di sambuco e altre latifoglie. È comune in tutto il mondo.",
       cap: "Il corpo fruttifero misura 3–12 cm di larghezza e 1–3 mm di spessore. Ha forma di conchiglia o lobo che ricorda fedelmente un padiglione auricolare umano. È di colore bruno-rossiccio o bruno porporino, con superficie esterna finemente vellutata.",
@@ -35786,6 +35757,17 @@ export const CATALOG = [
       uses: "Il est comestible une fois cuit, et il ne se consomme pas cru. La saveur et l'odeur sont douces, et il est recherché pour sa texture ferme et cartilagineuse plutôt que pour son goût. Il n'est pas largement consommé, bien qu'il le soit couramment en Pologne. Les sporophores séchés peuvent être trempés et reprendre une taille plus grande, parfois trois ou quatre fois la taille séchée. Du blanc de champignon est vendu pour sa culture sur des bûches de feuillus ou sur un substrat stérile. Le champignon utilisé dans la cuisine et la médecine d'Asie orientale est une espèce apparentée.",
       confusion: "L'auriculaire mésentérique (Auricularia mesenterica) pousse en consoles étagées plus épaisses. Sa surface supérieure est zonée et plus grossièrement feutrée, et l'hyménium est souvent plus sombre ou violacé. L'auriculaire du chêne chevelu (Auricularia cerrina) est gris plus foncé à presque noir, avec des poils plus gris à blanchâtres, une ligne de médulla à travers la chair et des spores plus petites. Il a été décrit sur le chêne chevelu en Tchéquie, et les deux espèces peuvent se rencontrer sur le chêne. L'auriculaire cornée (Auricularia cornea) est plus velue et plus coriace, avec une ligne de médulla distincte, des spores plus petites et une couleur variable. L'auriculaire heimuer (Auricularia heimuer) est très semblable et pousse en Asie orientale. Ses basides sont plus courtes et ses spores mesurent environ 11–13 × 4–5 µm. L'auriculaire des feuillus (Auricularia angiospermarum) pousse sur le bois de feuillus nord-américains. Ses basides sont plus courtes et ses spores mesurent environ 13–15 × 4,8–5,5 µm. L'auriculaire d'Amérique (Auricularia americana) pousse sur les conifères nord-américains et possède des spores plus courtes, d'environ 14–16,5 × 4,5–5,4 µm. L'exidie tronquée (Exidia recisa) pousse sur de fines brindilles. Elle est plus translucide, ne devient pas en forme de coquille, et sa marge tranchante est côtelée. L'exidie glanduleuse (Exidia glandulosa) est plus sombre, et sa surface stérile est granuleuse et verruqueuse. La trémelle frondée (Phaeotremella frondosa) forme des replis cérébriformes en touffes, jamais une oreille distincte, et sa surface est entièrement lisse. La trémelle foliacée (Tremella foliacea) a la même forme : des replis cérébriformes en touffes, pas d'oreille distincte, et une surface entièrement lisse. Le schizophylle ample (Schizophyllum amplum) est plus petit, blanchâtre et feutré à l'extérieur, préfère le peuplier et le saule, et possède des basides unicellulaires. La pézize baie (Peziza badia) est en forme de coupe, avec un pied court et une chair opaque, et elle pousse généralement près du sol.",
       notes: "Une évaluation de 2019 classe l'espèce dans la catégorie préoccupation mineure (Least Concern). Une forme non pigmentée a été séparée en tant que variété."
+    },
+    pl: {
+      description: "Nadrzewny grzyb saprotroficzny i słaby pasożyt rozwijający się na osłabionych i martwych gałęziach bzu czarnego (Sambucus nigra) oraz innych drzew liściastych. Pospolity w Europie i strefie umiarkowanej Eurazji.",
+      cap: "Owocnik ma 2–10 cm średnicy, jest miseczkowaty, małżowaty do ucha podobny, cienki i pofałdowany. Górna, sterylna powierzchnia jest aksamitna lub matowa, drobno zamszowa, czerwonobrązowa do fioletowobrązowej. W stanie wilgotnym jest elastyczny i galaretowaty, w czasie suszy kurczy się, staje się twardy, rogowy i niemal czarny, lecz po deszczu odzyskuje pierwotną formę.",
+      hymenium: "Hymenium znajduje się na wewnętrznej, wklęsłej powierzchni owocnika. Jest gładkie lub żebrowato pofałdowane, błyszczące, czerwonobrązowe.",
+      stipe: "Trzon jest zazwyczaj szczątkowy lub brak go zupełnie; owocnik przyrasta bokiem bezpośrednio do kory drewna.",
+      flesh: "Miąższ jest cienki, galaretowato-sprężysty, prześwitujący, czerwonobrązowy, bez wyraźnego zapachu i smaku.",
+      sporePrint: "Biały. Zarodniki są kiełbaskowate (alantoidalne), gładkie, o wymiarach 14–18 × 4,5–6 μm.",
+      habitat: "Owocniki pojawiają się przez cały rok, szczególnie obficie podczas chłodnych i wilgotnych miesięcy jesiennych i zimowych, najczęściej na obumarłych konarach bzu czarnego, rzadziej klonu, robinii akacjowej czy jesionu.",
+      uses: "Ceniony grzyb jadalny, popularny zwłaszcza w kuchni azjatyckiej (bliski krewniak chińskiego grzyba mun). Posiada chrupiącą, chrząstkowatą konsystencję. Doskonały do dań z woka, zup i sałatek. Przypisuje mu się właściwości przeciwzakrzepowe i wzmacniające układ odpornościowy.",
+      confusion: "Kisielnica kędzierzawa (Exidia nigricans) tworzy bezkształtne, czarne, pofałdowane galaretowate masy bez wyraźnego kształtu ucha."
     }
     },
     sources: {
@@ -36121,18 +36103,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%90%D1%83%D1%80%D0%B8%D0%BA%D1%83%D0%BB%D1%8F%D1%80%D1%96%D1%8F_%D0%B2%D1%83%D1%85%D0%BE%D0%BF%D0%BE%D0%B4%D1%96%D0%B1%D0%BD%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Uszak_bzowy"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -36172,6 +36142,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Uszak_bzowy"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -36296,10 +36278,10 @@ export const CATALOG = [
       bg: 'жлъчна гъба',
       ru: "желчный гриб",
       uk: "гірчак жовчний",
-      pl: "goryczak żółciowy",
       it: "porcino di fiele",
       hu: "epeízű tinóru",
-      fr: "bolet de fiel"
+      fr: "bolet de fiel",
+      pl: "goryczak żółciowy"
     },
     names: {
       en: ["bitter tylopilus"],
@@ -36575,18 +36557,6 @@ export const CATALOG = [
       confusion: "Білий гриб звичайний (Boletus edulis) має світлу білу сіточку на ніжці, трубочки ніколи не рожевіють, а м'якуш солодкуватий. Підберезовик (Leccinum scabrum) має ніжку з темними лусочками, а не рельєфною сіточкою.",
       notes: "Єдиний європейський представник роду Tylopilus. Оцінка 2025 року відносить вид до категорії в найменшій загрозі (Least Concern)."
     },
-    pl: {
-      description: "Grzyb ektomikoryzowy lasów iglastych i mieszanych, szczególnie borów sosnowych i świerkowych na glebach kwaśnych i piaszczystych. Jedyny europejski przedstawiciel rodzaju Tylopilus.",
-      cap: "Kapelusz ma 4–15 cm średnicy (niekiedy do 20 cm). Za młodu jest półkolisty, później poduszkowato wypukły. Skórka jest jasnobrązowa, orzechowa do szaroochrowej, sucha, matowa, zamszowata, a z wiekiem gładka.",
-      hymenium: "Rurki mają 1,5–2 cm długości, są głęboko wycięte przy trzonie. Pory są początkowo białawe, lecz z wiekiem stają się wyraźnie brudnoróżowe lub mięsnocieliste. Po uciśnięciu brązowieją.",
-      stipe: "Trzon ma 4–15 cm wysokości i 1–4 cm grubości, jest maczugowaty lub cylindryczny, jasnobrązowy, pokryty grubą, wypukłą, ciemniejszą oliwkowobrązową siateczką o szerokich oczkach.",
-      flesh: "Miąższ jest biały, pod skórką kapelusza różowawy, po przekrojeniu nie zmienia barwy lub słabo różowieje. Zapach jest słaby, a smak nieznośnie i piekąco gorzki.",
-      sporePrint: "Brudnoróżowy do mięsnocielistego. Zarodniki są wrzecionowate, gładkie, o wymiarach około 11–15 × 4–5 μm.",
-      habitat: "Owocniki pojawiają się od czerwca do listopada w lasach iglastych na glebach kwaśnych, często u podnóża starych sosen lub na butwiejących pniakach.",
-      uses: "Niejadalny z powodu skrajnej goryczy. Nawet jeden mały kawałek wrzucony do potrawy psuje smak całego dania. Nie jest śmiertelnie trujący, lecz może wywołać niestrawność.",
-      confusion: "Borowik szlachetny (Boletus edulis) ma białą siateczkę na trzonie w jego górnej części, pory żółknące i oliwkowe (nigdy różowe) oraz przyjemny, łagodny smak. Podgrzyb brunatny (Imleria badia) ma pory błękitniejące pod naciskiem i brak siateczki na trzonie.",
-      notes: "Ocena z 2025 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern)."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi montani di conifere e latifoglie (faggio, castagno, pino, abete rosso). È ampiamente diffuso in Europa e Nord America.",
       cap: "Il cappello misura 4–15 cm di diametro (talvolta fino a 18–20 cm). È convesso poi appianato a cuscinetto, carnoso, di colore bruno camoscio, bruno-nocciola o grigio-brunastro, con cuticola opaca e vellutata col secco.",
@@ -36622,6 +36592,17 @@ export const CATALOG = [
       uses: "Non comestible en raison de son amertume intense, qui ne disparaît pas à la cuisson. Un seul sporophore peut gâcher tout un plat de bolets comestibles. Il n'est pas considéré comme toxique, mais il provoque des nausées ou un inconfort gastro-intestinal s'il est ingéré en quantité. Dans certaines régions d'Europe orientale, il a été utilisé en petites quantités comme amer stomacal ou séché pour des remèdes populaires.",
       confusion: "Au premier coup d'œil, les jeunes sporophores peuvent sembler presque identiques aux jeunes cèpes de Bordeaux (Boletus edulis), qui possèdent un pied pâle avec un réseau blanc et des pores qui deviennent jaune-olive plutôt que roses. Le bolet bai (Imleria badia) a des tubes jaunes qui bleuissent au froissement et est dépourvu de réseau sombre grossier. Le bolet subtomenteux (Xerocomus subtomentosus) a des pores jaunes et un pied plus élancé. Le bolet brun rougeâtre (Tylopilus rubrobrunneus) pousse avec les feuillus dans l'est de l'Amérique du Nord, possède un chapeau violacé à brun pourpré et est également amer. Le bolet brun variable (Tylopilus variobrunneus) a un chapeau brun rougeâtre à châtain, des teintes olivâtres dans le jeune âge, des spores mesurant typiquement environ 9–13 × 3–4,5 µm et une saveur douce à légèrement amère. Le bolet de Rhoads (Tylopilus rhoadsiae), du sud-est des États-Unis, possède un chapeau plus pâle qui reste plus petit, atteignant environ 9 cm. Le bolet indécis (Tylopilus indecisus) et le bolet ferrugineux (Tylopilus ferrugineus) ont des pieds moins fortement réticulés. Le bolet néo-fiel (Tylopilus neofelleus), des forêts de feuillus de Chine, de Nouvelle-Guinée, du Japon et de Taïwan, présente un chapeau brun vineux, un pied brun rosâtre à vineux, des spores d'environ 11–14 × 4–5 µm et des pleurocystides plus longues, d'environ 49–107 × 14–24 µm. Les récoltes australiennes présentant des spores régulièrement plus petites appartiennent au bolet à spores courtes (Tylopilus brevisporus).",
       notes: "Une évaluation de 2019 classe l'espèce dans la catégorie préoccupation mineure (Least Concern), avec une population stable. Elle peut être localement très abondante dans les forêts montagnardes acidophiles de conifères, en particulier en Europe centrale. Les composés amers sont des tylopilines et des sesquiterpénoïdes apparentés. Une forme au chapeau blanc pur a été décrite sous le nom de var. alutarius ou forma albicans."
+    },
+    pl: {
+      description: "Grzyb ektomikoryzowy lasów iglastych i mieszanych, rosnący głównie pod sosną i świerkiem, rzadziej pod bukiem i dębem, na glebach kwaśnych i piaszczystych. Pospolity w Europie i Ameryce Północnej.",
+      cap: "Kapelusz ma 5–15 cm średnicy, początkowo jest półkulisty, z wiekiem wypukły do poduchowatego. Barwa jest jasnobrązowa, orzechowa do szaroochrowej. Skórka jest sucha, aksamitna, z wiekiem gładka i naga.",
+      hymenium: "Rurki są głęboko wycięte przy trzonie, mają 1–2 cm długości. Pory są drobne, początkowo białawe, lecz z wiekiem charakterystycznie brudnoróżowe do winnoróżowych; po dotknięciu brązowieją.",
+      stipe: "Trzon ma 6–14 cm długości i 2–4 cm grubości, jest maczugowaty lub cylindryczny, żółtobrązowy, pokryty bardzo wyraźną, grubą, wypukłą siateczką o ciemnobrązowych lub oliwkowobrązowych oczkach, ciemniejszą od tła trzonu.",
+      flesh: "Miąższ jest biały, gruby, miękki, po przekrojeniu nie zmienia barwy lub bardzo słabo różowieje. Zapach jest słaby, a smak niezwykle gorzki, piekący (nie zanika podczas gotowania!).",
+      sporePrint: "Różowobrązowy do winnoróżowego. Zarodniki są gładkie, wrzecionowate, o wymiarach 11–15 × 4–5 μm.",
+      habitat: "Owocniki pojawiają się od czerwca do października w lasach sosnowych i świerkowych, często na butwiejących pniakach i u nasady drzew iglastych na kwaśnym podłożu.",
+      uses: "Grzyb niejadalny z powodu nieznośnie gorzkiego smaku. Nawet jeden mały kawałek goryczaka może zepsuć całą potrawę z grzybów.",
+      confusion: "Borowik szlachetny (Boletus edulis) ma białą siateczkę na trzonie (jaśniejszą od tła), pory z wiekiem żółtawozielone (nigdy różowe!) i przyjemny, orzechowy smak. Borowik usiatkowany (Boletus reticulatus) ma jasną siateczkę i łagodny smak."
     }
     },
     sources: {
@@ -36933,18 +36914,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%93%D1%96%D1%80%D1%87%D0%B0%D0%BA"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Goryczak_żółciowy"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -36984,6 +36953,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Goryczak_żółciowy"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -37094,16 +37075,16 @@ export const CATALOG = [
       bg: 'лъжлива сърнела',
       ru: "гриб-зонтик краснеющий",
       uk: "гриб-зонтик червоніючий",
-      pl: "czubajnik czerwieniejący",
       it: "mazza di tamburo squamosa",
       hu: "piruló őzlábgomba",
-      fr: "lépiote déguenillée"
+      fr: "lépiote déguenillée",
+      pl: "czubajnik czerwieniejący"
     },
     names: { es: ['apagador menor'],
       ru: ["хлорофиллум темно-бурый"],
       uk: ["хлорофілум темно-бурий"],
-      pl: ["czubajka czerwieniejąca"],
-      hu: ["piruló nagyőzlábgomba"]
+      hu: ["piruló nagyőzlábgomba"],
+      pl: ["czubajka czerwieniejąca"]
     },
     text: {
       tr: {
@@ -37365,18 +37346,6 @@ export const CATALOG = [
       confusion: "Гриб-зонтик великий (Macrolepiota procera) значно вищий, має змієподібний малюнок на ніжці, а його м'якуш ніколи не червоніє на зламі. Отруйний Chlorophyllum molybdites має зеленуватий споровий порошок.",
       notes: "Раніше класифікувався в роді Macrolepiota."
     },
-    pl: {
-      description: "Duży grzyb saprotroficzny lasów, parków, ogrodów i miejsc bogatych w próchnicę. Pospolity w Europie.",
-      cap: "Kapelusz ma 5–18 cm średnicy. Za młodu jest kulisty lub jajowaty, potem dzwonkowato wypukły. Skórka wcześnie pęka na duże, dachówkowato odstające, grube, brązowoszare łuski na białym, włóknistym tle.",
-      hymenium: "Blaszki są wolne, gęste, szerokie, białe do kremowych, po uszkodzeniu i u starych okazów brudnoczerwieniejące.",
-      stipe: "Trzon ma 5–20 cm długości i 1–3,5 cm grubości, z wyraźną, bulwiastą podstawą o średnicy do 5 cm. Powierzchnia trzonu jest gładka, białawo-ochrowa, bez zygzakowatego wzoru skóry węża. Posiada gruby, podwójny, ruchomy pierścień.",
-      flesh: "Miąższ jest biały, gruby. Po przekrojeniu natychmiast przebarwia się na szafranowopomarańczowo, potem czerwonokrwiście, a w końcu brązowieje. Zapach i smak są przyjemne.",
-      sporePrint: "Biały do jasnokremowego. Zarodniki są gładkie, elipsoidalne, dekstrynoidalne, z porą rostkową, o wymiarach około 8–13 × 6–8 μm.",
-      habitat: "Owocniki pojawiają się od lipca do listopada w lasach iglastych (zwłaszcza pod świerkami), liściastych, na kompostach i w parkach.",
-      uses: "Grzyb jadalny po ugotowaniu, lecz u niektórych osób może wywoływać reakcje alergiczne i dolegliwości żołądkowe. Wymaga dokładnej obróbki cieplnej.",
-      confusion: "Czubajka kania (Macrolepiota procera) jest większa, ma wyraźny zygzakowaty wzór na trzonie i miąższ niezmieniający barwy po przekrojeniu. Czubajnik ogrodowy (Chlorophyllum brunneum) ma bulwę ostro odgraniczoną (obrzeżoną) i bywa trujący. Czubajnik zielonawy (Chlorophyllum molybdites) ma zielonkawy wysyp zarodników i jest trujący.",
-      notes: "Wyróżnia się łagodnie rozszerzoną bulwą i podwójnym pierścieniem."
-    },
     it: {
       description: "Un fungo saprotrofo di grandi dimensioni dei boschi ombrosi di conifere e latifoglie, parchi e giardini ricchi di sostanza organica. È ampiamente diffuso nelle regioni temperate.",
       cap: "Il cappello misura 5–18 cm di diametro. È sferico o ovoide da giovane, poi espanso a campana con umbone liscio bruno centrale. La cuticola si fessura vistosamente in grandi scaglie poligonali concentriche bruno-grigiastre arricciate su fondo bianco crema fibrilloso.",
@@ -37412,6 +37381,17 @@ export const CATALOG = [
       uses: "Il est largement cuisiné et consommé, et il est moins bon que la lépiote élevée (Macrolepiota procera). Il a également causé de graves troubles gastriques. Une partie des intoxications signalées est considérée comme une réaction individuelle, et certaines sources ne le recommandent plus. Il a été retiré de la liste tchèque des champignons du marché en 2023.",
       confusion: "La lépiote élevée (Macrolepiota procera) a des écailles plus petites et un motif chiné brun et blanc en peau de serpent sur le pied, et sa chair ne rougit pas. La lépiote brune (Chlorophyllum brunneum) a un bulbe basal marginé, un anneau simple plutôt que double, et un pied plus court et plus épais. Elle pousse dans les jardins, sur le compost et sur les terres fumées. Ses spores sont systématiquement tronquées, et ses cheilocystides sont plus longues et plus étroites. La lépiote d'Olivier (Chlorophyllum olivieri) a des écailles qui ne contrastent pas avec le fond gris-brun du chapeau. Elle est commune dans la litière de conifères, son bulbe est moins développé, et ses spores sont légèrement plus petites, d'environ 8–11 × 5–7 µm. La lépiote de Morgan (Chlorophyllum molybdites) a des lames vertes et une sporée verte à maturité, et elle est toxique. L'agaric auguste (Agaricus augustus) peut paraître semblable sur le terrain et a une sporée brun foncé ou brun violacé.",
       notes: "Les sporophores possèdent un bulbe progressif et un anneau double. La lépiote brune (Chlorophyllum brunneum) a un bulbe marginé."
+    },
+    pl: {
+      description: "Grzyb saprotroficzny rozwijający się na bogatej w próchnicę ściółce leśnej, szczególnie w lasach iglastych pod świerkami, w parkach i ogrodach. Pospolity w Europie i Ameryce Północnej.",
+      cap: "Kapelusz ma 8–18 cm średnicy, początkowo jest kulisty do jajowatego, później dzwonkowaty do spłaszczonego z tępym garbkiem. Na szarym lub brązowawym tle pokryty jest dużymi, grubymi, dachówkowato odstającymi, szarobrązowymi łuskami. Wierzchołek kapelusza pozostaje jednolity, gładki i ciemniejszy.",
+      hymenium: "Blaszki są gęste, wolne, szerokie, białawe do kremowych, po dotknięciu lub z wiekiem przebarwiają się na pomarańczowoczerwono, a na starość brązowieją.",
+      stipe: "Trzon ma 10–20 cm długości i 1–2 cm grubości, u podstawy ma dużą, gwałtownie odciętą bulwę o średnicy do 3–4 cm, bez pochwy. Powierzchnia trzonu jest gładka, białawo-włóknista, bez wzoru wężowej skóry (różnica wobec czubajki kani!). Nosi gruby, podwójny, ruchomy biały pierścień o postrzępionych brzegach.",
+      flesh: "Miąższ jest biały, gruby i miękki w kapeluszu, po przekrojeniu natychmiast i intensywnie przebarwia się na szafranowopomarańczowo, krwistoczerwono, po czym powoli brązowieje. Zapach i smak są przyjemne.",
+      sporePrint: "Biały. Zarodniki są gładkie, elipsoidalne, dekstrynoidalne, o wymiarach 9–12 × 6–7 μm, z porą rostkową.",
+      habitat: "Owocniki wyrastają od lipca do listopada w lasach świerkowych, na mrowiskach, kompoście i w parkach, pojedynczo lub w czarcich kołach.",
+      uses: "Grzyb jadalny po obróbce termicznej, choć u części osób może wywoływać indywidualne reakcje alergiczne i zaburzenia żołądkowe. Wymaga dokładnego usmażenia lub ugotowania.",
+      confusion: "Czubajka kania (Macrolepiota procera) jest znacznie większa, ma trzon z poprzecznym zygzakowatym wzorem przypominającym skórę węża, a jej miąższ nie czerwienieje po przekrojeniu. Czubajnik zielonawy (Chlorophyllum molybdites) ma zielony wysyp zarodników i jest silnie trujący."
     }
     },
     sources: {
@@ -37713,18 +37693,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%93%D1%80%D0%B8%D0%B1-%D0%B7%D0%BE%D0%BD%D1%82%D0%B8%D0%BA_%D1%87%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D1%96%D1%8E%D1%87%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Czubajnik_czerwieniejący"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -37764,6 +37732,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Czubajnik_czerwieniejący"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -37873,10 +37853,10 @@ export const CATALOG = [
       bg: 'бясна гъба',
       ru: "сыроежка жгучеедкая",
       uk: "сироїжка блювотна",
-      pl: "gołąbek wymiotny",
       it: "colombina rossa",
       hu: "hánytató galambgomba",
-      fr: "russule émétique"
+      fr: "russule émétique",
+      pl: "gołąbek wymiotny"
     },
     names: {
       en: ["emetic russula", "vomiting russula"]
@@ -38150,17 +38130,6 @@ export const CATALOG = [
       confusion: "Їстівні сироїжки з червоною шапинкою (наприклад, Russula vesca) мають солодкуватий або горіховий м'якуш без пекучого смаку.",
       notes: "Оцінка 2024 року визначає статус виду як у найменшій загрозі (Least Concern)."
     },
-    pl: {
-      description: "Grzyb ektomikoryzowy wilgotnych borów sosnowych i świerkowych oraz torfowisk, rosnący wśród mchów torfowców (Sphagnum). Pospolity w strefie borealnej i umiarkowanej.",
-      cap: "Kapelusz ma 3–10 cm średnicy. Za młodu jest półkolisty, potem spłaszczony i płytko wklęsły. Skórka jest jaskrawoczerwona, karminowa do szkarłatnej, lśniąca, lepka w stanie wilgotnym, dająca się łatwo ściągnąć prawie do środka kapelusza.",
-      hymenium: "Blaszki są wolne lub przyrośnięte, czysto białe, kruche, często rozwidlone przy trzonie.",
-      stipe: "Trzon ma 3–8 cm długości i 1–2 cm grubości, jest cylindryczny, czysto biały, kruchy, z wiekiem watowaty wewnątrz.",
-      flesh: "Miąższ jest czysto biały, pod skórką kapelusza różowawy, bardzo kruchy. Zapach jest słaby, przyjemnie owocowy, a smak natychmiast i nieznośnie piekący.",
-      sporePrint: "Biały. Zarodniki są szerokoelipsoidalne do kulistych, pokryte siateczkowato połączonymi kolcami, amyloidalne, o wymiarach około 8–10,5 × 6,5–8,5 μm.",
-      habitat: "Owocniki pojawiają się od lipca do listopada na wilgotnych, kwaśnych glebach torfowych w borach bagiennych i świerkowych.",
-      uses: "Grzyb trujący. Powoduje ostre podrażnienie przewodu pokarmowego, nudności, wymioty i biegunkę z powodu zawartości silnie drażniących substancji żywicowych.",
-      confusion: "Gołąbek bukowy (Russula nobilis) rośnie w suchych lasach bukowych i ma skórkę kapelusza niedającą się ściągnąć. Inne czerwone gołąbki o łagodnym smaku (np. Russula paludosa) są jadalne i nie pieką w język."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi umidi di conifere (abete rosso e pino) e torbiere di sfagno. È diffuso nell'emisfero settentrionale su suoli acidi.",
       cap: "Il cappello misura 3–10 cm di diametro. È emisferico poi convesso e spianato, talvolta depresso al centro. La cuticola è liscia, viscosa a tempo umido, facilmente asportabile per oltre metà raggio, di un vivido colore rosso scarlatto o rosso sangue brillante, che sbiadisce col bagnato.",
@@ -38196,6 +38165,17 @@ export const CATALOG = [
       uses: "Les sporophores crus ou insuffisamment cuits provoquent des nausées, des vomissements, des douleurs abdominales spasmodiques et de la diarrhée, habituellement en l'espace d'une demi-heure à trois heures, et parfois en une heure environ. L'intoxication est généralement gastro-intestinale. Des cas extrêmes ont comporté des crampes et le coma, et une issue fatale est peu probable sauf chez les personnes fragiles, immunodéprimées ou très jeunes. Les substances irritantes seraient des sesquiterpènes, parmi lesquels la lactarorufine A, le furandiol, le méthoxyfuranalcool et un composé non nommé. Le blanchiment à l'eau bouillante ou la mise en saumure, tels que pratiqués en Russie et en Europe orientale, élimineraient le goût poivré et une grande partie de la toxicité, et une cuisson approfondie détruirait également les toxines. La saveur âcre a également conduit certaines descriptions à qualifier le champignon de non comestible.",
       confusion: "La russule noble (Russula nobilis) pousse avec le hêtre, reste plus convexe à maturité, a une chair plus ferme, et sa cuticule ne se pèle que sur un tiers du rayon environ, ou seulement à la marge. La russule des bois (Russula silvestris) est un peu moins âcre et pousse sur des terrains plus secs sous le chêne et le pin. La russule des bouleaux (Russula betularum) est plus petite et plus fragile, son chapeau rose se décolore rapidement en blanc ou jaunâtre, sa cuticule se pèle jusqu'au centre, et elle pousse avec le bouleau. La russule grisonnante (Russula grisescens) est plus pâle, devient rapidement grise dans le pied et les lames, et a des spores plus petites avec des verrues plus basses et pour la plupart non reliées. La russule naine (Russula nana) est une espèce naine alpine et arctique associée au saule et au bouleau, avec un petit chapeau jusqu'à environ 3 cm et des cystides plus courtes. La russule à pied rouge (Russula rhodopus) a un chapeau rouge vif brillant, une chair douce à seulement légèrement âcre, et un pied qui est habituellement lavé de rouge. La russule sanguine (Russula sanguinaria) a un chapeau souvent plus sombre ou vineux, des lames décurrentes et un pied lavé de rouge, et elle pousse avec le pin. Les formes rouges de la russule fragile (Russula fragilis) ont une saveur âcre, des arêtes de lames crénelées et des spores différentes. D'autres russules rouges à chair âcre peuvent paraître semblables.",
       notes: "Une évaluation de 2019 classe l'espèce dans la catégorie préoccupation mineure (Least Concern), avec une population stable."
+    },
+    pl: {
+      description: "Grzyb ektomikoryzowy związany z drzewami iglastymi, rosnący głównie w wilgotnych borach sosnowych i świerkowych oraz na torfowiskach wśród mchów torfowców (Sphagnum). Pospolity w strefie borealnej i umiarkowanej półkuli północnej.",
+      cap: "Kapelusz ma 3–9 cm średnicy, początkowo jest półkulisty, z wiekiem rozpostarty do lekko wklęsłego w środku. Barwa jest jaskrawa, krwistoczerwona, szkarłatna, w deszczu blednąca miejscami do różowej lub białawej. Skórka w wilgotną pogodę jest silnie lepka i błyszcząca, dająca się łatwo ściągnąć niemal do samego środka kapelusza. Brzeg u starszych okazów jest nieco prążkowany.",
+      hymenium: "Blaszki są czysto białe, rzadkie do średnio gęstych, przyrośnięte lub prawie wolne, kruche. Z wiekiem pozostają białe.",
+      stipe: "Trzon ma 4–8 cm długości i 1–2 cm grubości, jest cylindryczny, miękki, czysto biały, wewnątrz początkowo pełny, później gąbczasty.",
+      flesh: "Miąższ jest biały, kruchy, pod skórką kapelusza różowoczerwony. Zapach jest owocowy (przypominający zapach kokosa lub owoców), a smak natychmiast nieznośnie piekący i palący.",
+      sporePrint: "Biały. Zarodniki są prawie kuliste, pokryte wyraźnymi kolcami połączonymi siateczką, o wymiarach 8–10 × 7–8,5 μm, amyloidalne.",
+      habitat: "Owocniki pojawiają się od lipca do listopada na bardzo kwaśnych, wilgotnych glebach, na torfowiskach i w borach bagiennych wśród mchów.",
+      uses: "Grzyb trujący. Powoduje ostre podrażnienie przewodu pokarmowego, nudności, gwałtowne wymioty i biegunkę wkrótce po spożyciu.",
+      confusion: "Gołąbek bukowy (Russula nobilis) rośnie w buczynach, ma skórkę dającą się ściągnąć tylko na samym brzegu i jest równie piekący. Gołąbek błotny (Russula paludosa) ma łagodny smak i jest wybornym grzybem jadalnym."
     }
     },
     sources: {
@@ -38494,18 +38474,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%A1%D0%B8%D1%80%D0%BE%D1%97%D0%B6%D0%BA%D0%B0_%D0%B1%D0%BB%D1%8E%D0%B2%D0%BE%D1%82%D0%BD%D0%B0"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Gołąbek_wymiotny"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -38545,6 +38513,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Gołąbek_wymiotny"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -38663,10 +38643,10 @@ export const CATALOG = [
       bg: 'жълтозелена бархетна гъба',
       ru: "рядовка зелёная",
       uk: "зеленяк",
-      pl: "gąska zielonka",
       it: "fungo dei cavalieri",
       hu: "sárgászöld pereszke",
-      fr: "tricholome équestre"
+      fr: "tricholome équestre",
+      pl: "gąska zielonka"
     },
     names: {
       en: ["man on horseback", "saddle-shaped tricholoma"],
@@ -38943,18 +38923,6 @@ export const CATALOG = [
       confusion: "Рядовка сірчана (Tricholoma sulphureum) має неприємний смолистий газовий запах і рідкі пластинки. Смертельно отруйна бліда поганка (Amanita phalloides) має білі пластинки, кільце й вольву.",
       notes: "Після серії смертельних випадків у Франції та Польщі офіційно виключений зі списків дозволених до заготівлі грибів у багатьох європейських країнах."
     },
-    pl: {
-      description: "Grzyb ektomikoryzowy piaszczystych borów sosnowych. Rozpowszechniony w Europie i Ameryce Północnej.",
-      cap: "Kapelusz ma 4–12 cm średnicy. Za młodu jest stożkowato-wypukły, później rozpostarty z tępym garbkiem. Barwa jest żółtozielona, oliwkowożółta do brązowawozielonej, na środku ciemniejsza, z drobnymi promienistymi włókienkami. W stanie wilgotnym skórka jest mazista i lepka.",
-      hymenium: "Blaszki są gęste, wycięte zatokowato przy trzonie, siarkowożółte do cytrynowożółtych.",
-      stipe: "Trzon ma 4–9 cm długości i 1–2,5 cm grubości, jest cylindryczny, pełny, żółtawy do żółtozielonkawego, podłużnie włóknisty.",
-      flesh: "Miąższ jest białawy pod kapeluszem i żółtawy w trzonie, jędrny. Posiada przyjemny, mączny zapach i łagodny, orzechowy smak.",
-      sporePrint: "Biały. Zarodniki są gładkie, elipsoidalne, nieamyloidalne, o wymiarach około 6–8,5 × 3,5–5 μm.",
-      habitat: "Owocniki wyrastają od września do późnego listopada, często po pierwszych przymrozkach, niemal całkowicie zagrzebane w piasku i mchu pod sosnami.",
-      uses: "Grzyb dawniej powszechnie zbierany i uważany za wyborny, obecnie uznawany za trujący przy częstym spożywaniu. Powoduje rabdomiolizę (masowy rozpad komórek mięśniowych), co może prowadzić do ostrej niewydolności nerek i śmierci. Zaleca się unikanie jego spożywania.",
-      confusion: "Gąska siarkowa (Tricholoma sulphureum) ma siarkowożółty miąższ, rzadkie blaszki i wstrętny zapach gazu świetlnego. Muchomor zielonawy (Amanita phalloides) ma białe blaszki, pierścień i pochwę.",
-      notes: "Ocena z 2024 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern)."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi sabbiosi di pino a due aghi (Pinus sylvestris) e misti. È diffuso in tutta l'Europa temperata.",
       cap: "Il cappello misura 4–12 cm di diametro. È convesso poi spianato con largo umbone centrale, viscoso a tempo piovoso, di colore giallo zolfo o giallo oro, cosparso al centro da fini fibrille o squamette bruno-rossastre.",
@@ -38990,6 +38958,17 @@ export const CATALOG = [
       uses: "Toxique et potentiellement mortel. Il provoque une rhabdomyolyse — une dégradation sévère du tissu musculaire squelettique — lorsqu'il est consommé lors de repas répétés ou copieux, entraînant une faiblesse musculaire profonde, des douleurs, une élévation de la créatine kinase sérique, des urines brunâtres, une insuffisance rénale aiguë et parfois la mort. Il était autrefois très prisé comme champignon comestible à travers l'Europe, mais les ventes et la cueillette commerciale sont désormais interdites dans de nombreux pays européens, et sa consommation est fortement déconseillée.",
       confusion: "Le tricholome soufré (Tricholoma sulphureum) est plus élancé, possède une odeur forte et repoussante de gaz d'éclairage, des lames jaune soufre plus espacées, et pousse principalement dans les bois de feuillus. Le tricholome disjoint (Tricholoma sejunctum) a un chapeau vert jaunâtre à brunâtre avec des fibrilles radiales sombres, des lames blanchâtres et une saveur amère. Le cortinaire resplendissant (Cortinarius splendens) possède une cortine dans le jeune âge, des spores brun rouille et provoque une intoxication de type orellanien. Le cortinaire citrin et fauve (Cortinarius citrinofulvescens) a également un chapeau jaune avec des spores brunes et une cortine.",
       notes: "Des études moléculaires montrent que les populations européennes englobent plusieurs lignées distinctes : Tricholoma equestre sensu stricto (avec les pins), le tricholome des feuillus (Tricholoma frondosae) (avec le tremble et d'autres feuillus), et Tricholoma ulvinenii (bois de pins boréaux). La toxine responsable de la rhabdomyolyse n'a pas été identifiée avec certitude ; certaines études suggèrent la cyclopropylacétyl-CoA ou de petits métabolites secondaires."
+    },
+    pl: {
+      description: "Grzyb ektomikoryzowy związany z sosną zwyczajną na ubogich, piaszczystych glebach w suchych borach sosnowych. Pospolity w Europie, Azji i Ameryce Północnej.",
+      cap: "Kapelusz ma 5–12 cm średnicy, początkowo jest dzwonkowato-wypukły z podwiniętym brzegiem, później spłaszczony z falistym brzegiem i tępym garbkiem. Barwa jest żółtozielona, zielonawooliwkowa do żółtobrązowej, w środku ciemniejsza, pokryta drobnymi, przylegającymi łuseczkami. Skórka w wilgotną pogodę jest lepka i często oblepiona ziarnkami piasku.",
+      hymenium: "Blaszki są średnio gęste, zatokowato wycięte przy trzonie, jaskrawo siarkowożółte do zielonkawożółtych, nie zmieniające barwy.",
+      stipe: "Trzon ma 4–9 cm długości i 1–2,5 cm grubości, jest cylindryczny, mocny, pełny, żółty do zielonkawożółtego, wzdłużnie włóknisty.",
+      flesh: "Miąższ jest białawy, pod skórką kapelusza żółtawy, gruby i jędrny. Charakteryzuje się przyjemnym mącznym zapachem i łagodnym, orzechowo-mącznym smakiem.",
+      sporePrint: "Biały. Zarodniki są gładkie, elipsoidalne, o wymiarach 6–8 × 4–5 μm, nieamyloidalne.",
+      habitat: "Owocniki pojawiają się późną jesienią (od września do listopada, często aż do przymrozków) w piaszczystych borach sosnowych wśród mchów i porostów.",
+      uses: "Grzyb trujący. Dawniej powszechnie zbierany i uważany za rarytas kulinarny, jednak wielokrotne spożycie dużych ilości tego grzyba w krótkich odstępach czasu może wywołać rabdomiolizę – zagrażający życiu rozpad włókien mięśni poprzecznie prążkowanych, prowadzący do uszkodzenia nerek i niewydolności krążenia.",
+      confusion: "Gąska siarkowa (Tricholoma sulphureum) ma jaskrawo siarkowożółty miąższ i wydziela nieznośny, ostry zapach gazu świetlnego (trująca)."
     }
     },
     sources: {
@@ -39326,18 +39305,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D1%8F%D0%BA"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Gąska_zielonka"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -39377,6 +39344,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Gąska_zielonka"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -39494,10 +39473,10 @@ export const CATALOG = [
       bg: 'зърнеста пърхутка',
       ru: "дождевик шиповатый",
       uk: "дощовик справжній",
-      pl: "purchawka chropowata",
       it: "vescia comune",
       hu: "bimbós pöfeteg",
-      fr: "vesse-de-loup perlée"
+      fr: "vesse-de-loup perlée",
+      pl: "purchawka chropowata"
     },
     names: {
       en: ["warted puffball", "gem-studded puffball", "gemmed puffball", "devil's snuff-box"],
@@ -39770,18 +39749,6 @@ export const CATALOG = [
       confusion: "Дощовик грушоподібний (Lycoperdon pyriforme) росте виключно густими скупченнями на гнилій деревині й має дрібніші гранульовані лусочки. Отруйні несправжні дощовики (Scleroderma) мають тверду шкірясту оболонку й темну м'якоть навіть у молодому віці.",
       notes: "Порошок зрілих спор має кровоспинні властивості й здавна використовувався в народній медицині."
     },
-    pl: {
-      description: "Grzyb saprotroficzny ściółki leśnej, rosnący w lasach liściastych i iglastych. Bardzo pospolity na całym świecie.",
-      cap: "Owocnik ma 2–9 cm wysokości i 2–5 cm szerokości, jest gruszkowaty lub maczugowaty. Powierzchnia zewnętrzna (egzoperydium) jest początkowo czysto biała, pokryta łatwo odpadającymi, stożkowatymi kolcami, pomiędzy którymi znajdują się mniejsze brodaweczki. Po odpadnięciu kolców pozostaje siatkowaty wzór.",
-      hymenium: "Wnętrze wypełnia gleba. U młodych owocników jest śnieżnobiała i zwarta, z wiekiem żółknie, zielenieje i przekształca się w suchy, oliwkowobrązowy pył zarodników. Na szczycie otwiera się mały otworek, przez który «wydmuchiwane» są zarodniki.",
-      stipe: "Trzon jest pozorny (płonna podstawa owocnika), zwężający się ku dołowi, wewnątrz gąbczasty, zrośnięty z podłożem białymi sznurami grzybniowymi.",
-      flesh: "Miąższ (młoda gleba) jest biały, miękki, elastyczny. Zapach i smak są słabe, przyjemne.",
-      sporePrint: "Oliwkowobrązowy. Zarodniki są kuliste, drobno brodawkowane, o wymiarach około 3,5–4,5 μm.",
-      habitat: "Owocniki pojawiają się od czerwca do listopada w lasach liściastych, iglastych, parkach i na pastwiskach, pojedynczo lub w małych kępach.",
-      uses: "Grzyb jadalny wyłącznie w młodym stadium, dopóki całe wnętrze owocnika jest czysto białe i zwarte. Po pożółknięciu miąższu staje się niejadalny. Znakomicie nadaje się do smażenia w panierce.",
-      confusion: "Purchawka gruszkowata (Lycoperdon pyriforme) rośnie w gęstych wiązkach na butwiejącym drewnie i ma drobniejsze, kaszkowate ziarenka zamiast kolców. Tęgoskór cytrynowy (Scleroderma citrinum) ma twardą, spękaną skórkę i wnętrze od młodości marmurkowate, fioletowoczarne.",
-      notes: "Ocena z 2019 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern)."
-    },
     it: {
       description: "Un fungo gasteromicete saprotrofo che cresce solitario o a colonie su terreni ricchi di humus e lettiera nei boschi di latifoglie e conifere. È cosmopolita e comune.",
       cap: "Il corpo fruttifero è a forma di pera rovesciata o trottola, alto 3–8 cm e largo 2,5–6 cm. L'esoperidio esterno è bianco o crema chiaro, densamente ricoperto da aculei e verruche coniche staccabili, che cadendo lasciano un tipico disegno a reticolo poligonale sull'endoperidio sottostante.",
@@ -39817,6 +39784,17 @@ export const CATALOG = [
       uses: "Comestible lorsque la gleba est complètement blanche et ferme sur toute son étendue. Dès que la gleba présente une décoloration jaune ou verte, elle est non comestible et peut provoquer des troubles gastro-intestinaux. La peau épineuse externe doit être pelée ou brossée avant la cuisson. Coupé en tranches et poêlé ou sauté, il a une saveur douce et une texture agréable. Il a également été utilisé en médecine traditionnelle comme hémostatique pour arrêter les saignements, et la poudre sèche de spores était utilisée comme pansement sur les blessures.",
       confusion: "La vesse-de-loup en forme de poire (Lycoperdon pyriforme) pousse presque exclusivement en touffes denses sur le bois pourrissant, possède une surface lisse à finement granuleuse sans aiguillons distincts, et a des cordons mycéliens blancs à la base. La vesse-de-loup ombrée (Lycoperdon umbrinum) est brun plus foncé avec des aiguillons sombres persistants et sans motif de cicatrices polygonales. La vesse-de-loup noirâtre (Lycoperdon nigrescens) a des aiguillons sombres et convergents qui tombent en laissant des marques sombres. La vesse-de-loup géante (Calvatia gigantea) est immensément plus grande (10–70 cm), est dépourvue de base stérile et possède une peau lisse. Le scléroderme vulgaire (Scleroderma citrinum) a un péridium épais, coriace, écailleux et jaunâtre, et une gleba qui vire au noir violacé foncé très tôt ; il est toxique. Les boutons immatures d'amanites (Amanita) peuvent être mortels et doivent être coupés verticalement pour vérifier la présence d'ébauches de chapeau, de lames et de pied.",
       notes: "Une évaluation de 2019 classe l'espèce dans la catégorie préoccupation mineure (Least Concern). Elle bioaccumule les métaux lourds, en particulier le plomb, le cadmium et le mercure, et les sporophores provenant de sites pollués, de bords de routes et de zones industrielles ne doivent pas être consommés."
+    },
+    pl: {
+      description: "Pospolity grzyb saprotroficzny rozwijający się na glebie leśnej i mocno spróchniałym drewnie w lasach liściastych i iglastych. Występuje niemal kosmopolitycznie na całym świecie.",
+      cap: "Owocnik ma 2–6 cm szerokości i 3–8 cm wysokości, kształt maczugowaty lub gruszkowaty z wyraźną, zwężoną podstawą przypominającą trzon. Górna, kulista część jest białawo-kremowa, pokryta charakterystycznymi, stożkowatymi kolcami otoczonymi wieńcem drobniejszych brodawek. Kolce łatwo odpadają przy dotknięciu, pozostawiając na powierzchni siatkowaty wzór. Na szczycie dojrzałego owocnika otwiera się mały otwór (ujście), przez który przy ucisku wydostaje się chmura zarodników.",
+      hymenium: "Wnętrze stanowi gleba: za młodu jednolita, czysto biała i jędrna, z wiekiem żółknąca, oliwkowozielona, aż w końcu przekształcająca się w suchy, brązowy pył zarodników.",
+      stipe: "Podstawa owocnika jest sterylna (podglebie), gąbczasta, biała, z wiekiem brązowiejąca, przechodząca w cienkie ryzomorfy w glebie.",
+      flesh: "Miąższ (gleba) u młodych okazów jest czysto biały, miękki i elastyczny, o słabym, przyjemnym zapachu i łagodnym smaku.",
+      sporePrint: "Oliwkowobrązowy do ciemnobrązowego. Zarodniki są kuliste, drobno brodawkate, o średnicy 3,5–4,5 μm.",
+      habitat: "Owocniki pojawiają się od czerwca do listopada, pojedynczo lub w dużych grupach na ściółce leśnej, butwiejącym drewnie i mchu.",
+      uses: "Dobry grzyb jadalny dopóki wnętrze jest całkowicie białe i zwarte. Doskonała do smażenia w plasterkach na maśle lub w panierce. Po zżółknięciu wnętrza staje się niejadalna.",
+      confusion: "Młode owocniki trujących muchomorów w stadium jaja posiadają zawiązki blaszek i trzonka wewnątrz po przekrojeniu, podczas gdy purchawka ma wewnątrz jednolitą masę bez struktur. Tęgoskór cytrynowy (Scleroderma citrinum) ma twardą, grubą skórę i niemal od razu ciemniejące, fioletowoczarne wnętrze."
     }
     },
     sources: {
@@ -40147,18 +40125,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%94%D0%BE%D1%89%D0%BE%D0%B2%D0%B8%D0%BA_%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B6%D0%BD%D1%96%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Purchawka_chropowata"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -40198,6 +40164,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Purchawka_chropowata"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -40302,10 +40280,10 @@ export const CATALOG = [
       bg: 'оранжева брезовка',
       ru: "подосиновик красный",
       uk: "підосиковик червоний",
-      pl: "koźlarz czerwony",
       it: "porcinello rosso",
       hu: "tölgyfa-érdestinóru",
-      fr: "bolet orangé"
+      fr: "bolet orangé",
+      pl: "koźlarz czerwony"
     },
     names: {
       en: ["red-capped scaber stalk", "orange bolete", "copper-top", "orange-capped bolete"],
@@ -40574,17 +40552,6 @@ export const CATALOG = [
       confusion: "Підосиковик білоніжковий (Leccinum albostipitatum) росте суто під осиками й має білі лусочки на ніжці у молодому віці. Підберезовик (Leccinum scabrum) має сіро-коричневу шапинку й незмінний на зрізі м'якуш.",
       notes: "Популярний і високо цінований їстівний гриб лісової зони."
     },
-    pl: {
-      description: "Grzyb ektomikoryzowy związany z dębami (Quercus), rzadziej z bukami i lipami. Pospolity w Europie.",
-      cap: "Kapelusz ma 5–20 cm średnicy. Za młodu jest półkolisty, potem poduszkowato wypukły. Skórka jest ceglastoczerwona, rdzawoczerwona do czerwonobrązowej, sucha, zamszowata, z wiekiem naga.",
-      hymenium: "Rurki mają długość 1–3 cm, są głęboko wycięte przy trzonie, białawe do szaroochrowych. Pory są drobne, początkowo białawe, potem szarawe.",
-      stipe: "Trzon ma 8–20 cm wysokości i 2–4 cm grubości, jest cylindryczny, mocny, białawy, od wczesnej młodości gęsto pokryty rdzawoczerwonymi do czerwonobrązowych łuseczkami (u starych okazów ciemniejącymi).",
-      flesh: "Miąższ jest biały, gruby, jędrny. Po przekrojeniu początkowo różowieje lub liliowieje, po czym ciemnieje do fioletowoszarego i szaroczarnego. Zapach i smak są przyjemne.",
-      sporePrint: "Oliwkowobrązowy. Zarodniki są wrzecionowate, gładkie, o wymiarach około 13–18 × 4–5 μm.",
-      habitat: "Owocniki pojawiają się od czerwca do października w lasach liściastych i mieszanych pod dębami.",
-      uses: "Bardzo smaczny grzyb jadalny po dokładnym ugotowaniu lub usmażeniu. Miąższ silnie ciemnieje podczas obróbki cieplnej, co jest cechą naturalną.",
-      confusion: "Koźlarz białotrzonowy (Leccinum albostipitatum) rośnie pod topolami osikami i ma za młodu czysto białe łuseczki na trzonie. Koźlarz pomarańczowożółty (Leccinum versipelle) rośnie pod brzozami i ma czarne łuseczki na trzonie od początku rozwoju."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi di latifoglie, legato in particolare a querce, carpini, faggi e castagni. È diffuso in tutta l'Europa temperata.",
       cap: "Il cappello misura 5–20 cm di diametro. È emisferico poi convesso a cuscinetto, carnoso, con cuticola debordante al margine, di colore rosso mattone carico, bruno-rossastro o aranciato scuro, finemente vellutata col secco.",
@@ -40618,6 +40585,17 @@ export const CATALOG = [
       habitat: "Ectomycorhizien principalement avec le chêne (Quercus), le hêtre (Fagus) et le charme (Carpinus), mais également associé au bouleau (Betula), au tremble et au peuplier. Il fructifie de juillet à novembre sur sols acides à neutres dans les bois de feuillus et mixtes, les lisières forestières et les parcs. En Europe centrale, l'espèce n'est pas connue sous les conifères.",
       uses: "Les sporophores jeunes et fermes sont consommés après une cuisson approfondie. La chair est plus molle que celle du cèpe de Bordeaux (Boletus edulis) et devient très sombre à la poêle, et les sporophores sont également séchés. Les sporophores insuffisamment cuits ont provoqué des vomissements, et certaines personnes signalent des troubles gastro-intestinaux. Des intoxications à retardement rapportées en Amérique du Nord peuvent impliquer d'autres espèces à chapeau orange.",
       confusion: "Le bolet à pied blanc (Leccinum albostipitatum) possède des squamules sur le pied qui sont blanches dans le jeune âge et ne rougissent que plus tard, et un chapeau d'un orange plus pur. Il pousse avec le tremble et le peuplier. Le bolet roux (Leccinum versipelle) pousse avec le bouleau, a un chapeau orange à jaune ocre et des squamules noires grossières dès le début, et vire au bleu-vert à noirâtre à la base du pied. Le bolet renard (Leccinum vulpinum) pousse avec le pin, et le bolet des épicéas (Leccinum piceinum) pousse avec l'épicéa et a des pores gris dans le jeune âge. Tous les auteurs ne traitent pas ces espèces des conifères comme séparées. En Amérique du Nord, le bolet remarquable (Leccinum insigne) pousse avec le tremble ou le bouleau, et le bolet à pied noir (Leccinum atrostipitatum) pousse avec le bouleau."
+    },
+    pl: {
+      description: "Grzyb ektomikoryzowy tworzący symbiozę z dębami (Quercus), rzadziej z bukami, w lasach liściastych i mieszanych na glebach gliniastych i piaszczystych. Rozprzestrzeniony w Europie i strefie umiarkowanej Eurazji.",
+      cap: "Kapelusz ma 5–20 cm średnicy, początkowo jest półkulisty, z wiekiem wypukły do poduchowatego. Barwa jest ceglastoczerwona, czerwonobrązowa do rdzawoczerwonej. Skórka jest matowa, sucha, z wiekiem gładka; brzeg kapelusza ma wyraźną błoniastą krawędź zachodzącą na rurki.",
+      hymenium: "Rurki są głęboko wycięte przy trzonie, mają 1–2,5 cm długości, są początkowo białawe, z wiekiem brudnoszare. Pory są drobne, okrągłe, białawe, pod naciskiem brudnoszare lub oliwkowobrązowe.",
+      stipe: "Trzon ma 8–18 cm długości i 2–4 cm grubości, jest cylindryczny lub zwężający się ku górze, białawy, pokryty gęstymi, odstającymi łuseczkami, które szybko stają się czerwonobrązowe, a z wiekiem ciemnobrązowe do czarniawych.",
+      flesh: "Miąższ jest biały, gruby i jędrny. Po przekrojeniu początkowo zmienia barwę na winnoróżową lub fioletowoszarą, a w podstawie trzonu często niebieskozieloną, po czym w całości czernieje. Zapach i smak są łagodne, przyjemne.",
+      sporePrint: "Oliwkowobrązowy. Zarodniki są gładkie, wrzecionowate, o wymiarach 13–18 × 4,5–6 μm.",
+      habitat: "Owocniki pojawiają się od czerwca do października pod dębami w lasach liściastych i mieszanych.",
+      uses: "Bardzo smaczny grzyb jadalny po obróbce termicznej. W kuchni wykorzystuje się głównie kapelusze; czernienie miąższu podczas gotowania i smażenia jest zjawiskiem naturalnym.",
+      confusion: "Koźlarz białotrzonowy (Leccinum albostipitatum) rośnie wyłącznie pod osikami i ma za młodu czysto białe łuseczki na trzonie. Koźlarz pomarańczowożółty (Leccinum versipelle) rośnie pod brzozami i ma czarne łuseczki na trzonie."
     }
     },
     sources: {
@@ -40940,18 +40918,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%9F%D1%96%D0%B4%D0%BE%D1%81%D0%B8%D0%BA%D0%BE%D0%B2%D0%B8%D0%BA_%D1%87%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Koźlarz_czerwony"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -40991,6 +40957,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Koźlarz_czerwony"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -41103,10 +41081,10 @@ export const CATALOG = [
       bg: 'жълта мухоморка',
       ru: "мухомор поганковидный",
       uk: "мухомор поганкоподібний",
-      pl: "muchomor cytrynowy",
       it: "tignosa paglierina",
       hu: "citromgalóca",
-      fr: "amanite citrine"
+      fr: "amanite citrine",
+      pl: "muchomor cytrynowy"
     },
     names: {
       en: ["false death cap", "false death-cap", "citron amanita"]
@@ -41379,18 +41357,6 @@ export const CATALOG = [
       confusion: "Бліда поганка (Amanita phalloides) має вільну мішкоподібну вольву без жолобка, шовковисту волокнисту шапинку зазвичай без пластівців і позбавлена запаху сирої картоплі.",
       notes: "Біла форма (var. alba) має цілком біле плодове тіло, але зберігає характерний запах сирої картоплі."
     },
-    pl: {
-      description: "Grzyb ektomikoryzowy lasów iglastych i liściastych na glebach kwaśnych i piaszczystych. Bardzo pospolity w całej Europie.",
-      cap: "Kapelusz ma 4–10 cm średnicy. Za młodu jest półkolisty, potem wypukły do rozpostartego. Barwa jest bladożółta, cytrynowa, rzadziej czysto biała (var. alba). Powierzchnia pokryta jest nieregularnymi, płaskimi, białawymi lub brudnobrązowawymi łatkami osłony.",
-      hymenium: "Blaszki są wolne, gęste, białe do bladożółtawych.",
-      stipe: "Trzon ma 5–12 cm długości i 1–2 cm grubości, jest białawy lub bladożółty, z dużym, zwisającym, gładkim żółtawym pierścieniem. Podstawa trzonu jest wyraźnie, kulisto bulwiasta, otoczona charakterystyczną, płytką rynienkowatą krawędzią (bez luźnej workowatej pochwy).",
-      flesh: "Miąższ jest biały, pod skórką kapelusza żółtawy. Posiada silny, bardzo charakterystyczny zapach surowych, kiełkujących ziemniaków lub rzodkwi oraz mdły smak.",
-      sporePrint: "Biały. Zarodniki są kuliste do szerokoelipsoidalnych, gładkie, amyloidalne, o wymiarach około 8,5–11 × 7–9 μm.",
-      habitat: "Owocniki pojawiają się obficie od sierpnia do listopada w lasach sosnowych, świerkowych, bukowych i dębowych na glebach ubogich i kwaśnych.",
-      uses: "Niejadalny z powodu nieprzyjemnego smaku i zapachu surowych ziemniaków. Choć zawiera niewielkie ilości bufoteniny (rozkładającej się pod wpływem temperatury), dawniej bywał uważany za trujący z obawy przed pomyłką ze śmiertelnym muchomorem zielonawym.",
-      confusion: "Śmiertelnie trujący muchomor zielonawy (Amanita phalloides) ma dużą, luźną, workowatą białą pochwę u podstawy trzonu (zamiast obrzeżonej bulwy), nie posiada zapachu surowych ziemniaków i rzadko miewa łatki na kapeluszu. Odmiana biała (Amanita citrina var. alba) bywa mylona z muchomorem jadowitym (Amanita virosa).",
-      notes: "Ocena z 2019 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern)."
-    },
     it: {
       description: "Un fungo ectomicorrizico molto comune dei boschi di conifere e latifoglie su suoli acidi e sabbiosi. È ampiamente diffuso in tutta Europa.",
       cap: "Il cappello misura 5–12 cm di diametro. È convesso poi spianato, di colore giallo limone pallido, giallo paglierino o bianco crema, coperto da larghe placche o verruche membranose irregolari biancastre o brunastre.",
@@ -41426,6 +41392,17 @@ export const CATALOG = [
       uses: "Les sporophores crus sont légèrement toxiques. Le composé habituellement signalé chez eux est la bufoténine, dont certaines sources indiquent que la chaleur la détruit, et une faible concentration d'alpha-amanitine a également été signalée. L'odeur et la saveur sont désagréables, et le sporophore se confond facilement avec des amanites mortelles, de sorte qu'il n'est pas consommé.",
       confusion: "L'amanite phalloïde (Amanita phalloides) a une volve libre et lobée, ainsi qu'un chapeau radialement fibrilleux qui est généralement dépourvu d'épaisses plaques de voile. Ses couleurs vont du blanc à l'olive et sont dépourvues de nuance jaune, et les sporophores mûrs ont une odeur sucrée. L'amanite vireuse (Amanita virosa) et l'amanite printanière (Amanita verna) possèdent également une volve libre en forme de sac. L'amanite vireuse conserve rarement des plaques de voile à maturité, son chapeau reste quelque peu en dôme, et son anneau est mince et inséré haut sur le pied. L'amanite jonquille (Amanita gemmata) a un chapeau d'un jaune plus soutenu avec une marge striée, des plaques de voile blanches plus minces et un anneau qui disparaît rapidement, et elle est dépourvue de l'odeur de pomme de terre crue. L'amanite solitaire (Amanita strobiliformis) est plus grande, avec un chapeau blanc à ocre, d'épais restes de voile frangés et un anneau qui se déchire en flocons, et elle est également dépourvue de cette odeur.",
       notes: "Les amanites jaune pâle de l'est de l'Amérique du Nord qui ont été répertoriées sous ce nom sont d'autres espèces, et les mesures données ici concernent les sporophores européens."
+    },
+    pl: {
+      description: "Bardzo pospolity grzyb ektomikoryzowy lasów liściastych i iglastych, rosnący głównie pod sosną, świerkiem, dębem i bukiem na glebach kwaśnych i piaszczystych. Występuje powszechnie w całej Europie.",
+      cap: "Kapelusz ma 5–12 cm średnicy, początkowo jest półkulisty, z wiekiem wypukły do rozpostartego. Barwa jest bladocytrynowożółta, żółtawozielonkawa lub kremowobiała (u var. alba czysto biała). Na powierzchni niemal zawsze znajdują się nieregularne, płatowate, białawe lub brązowawe łaty osłony. Brzeg jest gładki, nieprążkowany.",
+      hymenium: "Blaszki są gęste, wolne, białe do bladożółtawych.",
+      stipe: "Trzon ma 6–12 cm długości i 1–2 cm grubości, jest cylindryczny, białawy lub z cytrynowym odcieniem. Nosi trwały, zwisający, jasnożółty pierścień. U podstawy zakończony jest dużą, kulistą bulwą z wyraźnie, ostro odciętym górnym brzegiem (różnica wobec workowatej pochwy muchomora zielonawego!).",
+      flesh: "Miąższ jest białawy, pod skórką kapelusza żółtawy. Charakteryzuje się bardzo silnym, przenikliwym zapachem surowego ziemniaka lub rzodkwi. Smak jest nieprzyjemny, ziemniaczany.",
+      sporePrint: "Biały. Zarodniki są kuliste do prawie kulistych, gładkie, o wymiarach 8–10 × 7–9 μm, silnie amyloidalne.",
+      habitat: "Owocniki pojawiają się masowo od sierpnia do listopada w borach sosnowych, świerkowych oraz lasach mieszanych.",
+      uses: "Grzyb niejadalny lub lekko trujący. Choć nie zawiera śmiertelnych amatoksyn, jego zapach i smak są odpychające, a ze względu na ogromne podobieństwo do śmiertelnie trującego muchomora zielonawego nie powinien być zbierany.",
+      confusion: "Śmiertelnie trujący muchomor zielonawy (Amanita phalloides) ma luźną, otwartą, workowatą pochwę u podstawy trzonu (nie ostro odciętą bulwę!), trzon z zygzakowatym wzorem i brak zapachu surowych ziemniaków. Biała forma (var. alba) bywa mylona z muchomorem jadowitym (Amanita virosa)."
     }
     },
     sources: {
@@ -41753,18 +41730,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%9C%D1%83%D1%85%D0%BE%D0%BC%D0%BE%D1%80_%D0%BF%D0%BE%D0%B3%D0%B0%D0%BD%D0%BA%D0%BE%D0%BF%D0%BE%D0%B4%D1%96%D0%B1%D0%BD%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Muchomor_cytrynowy"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -41804,6 +41769,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Muchomor_cytrynowy"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -41916,10 +41893,10 @@ export const CATALOG = [
       bg: 'тигрова гъба',
       ru: "рядовка тигровая",
       uk: "рядовка тигриста",
-      pl: "gąska tygrysia",
       it: "tricoloma pardino",
       hu: "párducpereszke",
-      fr: "tricholome panthère"
+      fr: "tricholome panthère",
+      pl: "gąska tygrysia"
     },
     names: {
       en: [
@@ -41934,10 +41911,10 @@ export const CATALOG = [
       ro: ['golubincă otrăvitoare'],
       ru: ["рядовка леопардовая","рядовка ядовитая"],
       uk: ["рядовка отруйна"],
-      pl: ["gąska tygrysowata"],
       it: ["tricoloma tigrato"],
       hu: ["izzadó pereszke"],
-      fr: ["tricholome tigré"]
+      fr: ["tricholome tigré"],
+      pl: ["gąska tygrysowata"]
     },
     text: {
       tr: {
@@ -42201,18 +42178,6 @@ export const CATALOG = [
       confusion: "Рядовка сіра (Tricholoma terreum) набагато менша, тонша, не має товстої масивної ніжки та має темніший крихкий м'якуш. Рядовка мильна (Tricholoma saponaceum) має сильний мильний запах і червоніючий на зламі м'якуш.",
       notes: "Підступність гриба полягає в приємному грибному запаху та смаку, що часто вводить збирачів в оману."
     },
-    pl: {
-      description: "Grzyb ektomikoryzowy górskich lasów iglastych (ze świerkiem i jodłą) oraz buczyn na podłożu wapiennym. Występuje w Europie Środkowej i Południowej.",
-      cap: "Kapelusz ma 5–15 cm średnicy (niekiedy do 20 cm), jest masywny, mięsisty. Za młodu jest półkolisty, potem wypukły. Barwa jest srebrzystoszara, ołowianoszara do myszatej, gęsto pokryta ciemniejszymi, koncentrycznie ułożonymi łuseczkami przypominającymi sierść tygrysa lub lamparta.",
-      hymenium: "Blaszki są gęste, szerokie, wycięte zatokowato przy trzonie, białawe do żółtawych, u młodych owocników wydzielające małe kropelki cieczy.",
-      stipe: "Trzon ma 5–12 cm długości i 1,5–3,5 cm grubości, jest masywny, cylindryczny lub u dołu maczugowaty, białawy, u podstawy niekiedy ochrowobrązowawy.",
-      flesh: "Miąższ jest biały, gruby, jędrny. Posiada przyjemny zapach świeżej mąki i łagodny smak.",
-      sporePrint: "Biały. Zarodniki są gładkie, szerokoelipsoidalne do owalnych, o wymiarach około 8–10 × 5,5–7 μm.",
-      habitat: "Owocniki pojawiają się od sierpnia do października w górskich lasach iglastych i bukowych na glebach wapiennych.",
-      uses: "Grzyb silnie trujący. Powoduje ciężkie zatrucia żołądkowo-jelitowe objawiające się gwałtownymi wymiotami, biegunką i bólami brzucha wkrótce po spożyciu.",
-      confusion: "Gąska ziemistoblaszkowa (Tricholoma terreum) jest znacznie mniejsza, ma cienki miąższ, łamliwy trzon, szare blaszki i nie wydziela zapachu mąki. Gąska pieprzna (Tricholoma sciodes) ma ostry, pieprzny smak.",
-      notes: "Zaliczana do podrodzaju Pardinicutis, grupującego szarawe gąski o wełnistych łuseczkach."
-    },
     it: {
       description: "Un fungo ectomicorrizico robusto e massiccio dei boschi montani calcarei di conifere (abete bianco, abete rosso) e faggio. È presente nelle catene montuose dell'Europa centrale e meridionale.",
       cap: "Il cappello misura 5–15 cm di diametro (talvolta fino a 20 cm). È molto carnoso, sodo, emisferico poi convesso con margine a lungo involuto, di colore grigio argenteo o grigio perla, fittamente cosparso da squame concentriche brunastre o grigio-ardesia disposte come la pelliccia di una pantera o di una tigre.",
@@ -42248,6 +42213,17 @@ export const CATALOG = [
       uses: "Consommé même en petite quantité, il provoque une gastro-entérite sévère. Des nausées, des vertiges, des vomissements, de la diarrhée, des crampes abdominales, des sueurs et de l'anxiété débutent en l'espace d'environ une demi-heure à deux heures. L'affection aiguë dure souvent de deux à six heures, et le rétablissement prend généralement quatre à six jours. Des crampes dans les mollets et une perturbation de la fonction hépatique ont été rapportées, bien qu'une lésion durable ne soit pas le résultat habituel. Lors d'un repas partagé, deux chapeaux ont rendu sept personnes et un chat gravement malades. La toxine est inconnue. Elle enflamme la muqueuse de l'estomac et de l'intestin. Le décès par collapsus circulatoire et déshydratation n'est pas exclu chez les enfants et les personnes âgées. En raison de sa grande taille, de sa chair ferme et de son odeur agréable, il est facilement confondu avec des espèces comestibles, et dans le Jura suisse il a été une cause fréquente d'empoisonnement par les champignons.",
       confusion: "Le petit-gris (Tricholoma terreum) est plus petit, plus sombre et moins robuste, dépourvu d'odeur farineuse, et a des spores plus petites, mesurant 5–7,5 × 4–5 µm. Le tricholome argenté (Tricholoma argyraceum) possède des écailles plus fines, et ses lames ainsi que les parties meurtries jaunissent avec l'âge. Il fructifie à des altitudes plus basses. Le tricholome jaunissant (Tricholoma scalpturatum) est plus petit et plus délicat, et le chapeau est fibrilleux plutôt que couvert de grandes écailles. Le tricholome à squames noires (Tricholoma atrosquamosum) est plus petit et plus sombre, et dégage une odeur poivrée. Le tricholome à marge roussissante (Tricholoma orirubens) a de fines écailles sombres, des lames rosâtres et une chair cassante, et il est généralement plus petit. Le tricholome couleur de souris (Tricholoma myomyces) est plus petit, les jeunes sporophores portent un voile partiel fibreux et mince, et les spores mesurent 5–6 × 3,5–4 µm. Le tricholome prétentieux (Tricholoma portentosum) est d'une taille similaire, mais le chapeau est d'un gris uniforme et n'est jamais écailleux. Le tricholome noir (Tricholoma nigrum), ainsi que les formes striées du tricholome vergeté (Tricholoma virgatum), ont des chapeaux striés plutôt que tachetés. Une forme pâle peut être presque blanche avec des écailles pâles et peut être confondue avec le tricholome resplendissant (Tricholoma resplendens), qui ne possède pas ces écailles. Le tricholome vénéneux (Tricholoma venenatum) est plus chamois et possède des anses d'anastomose. Le tricholome du lac Huron (Tricholoma huronense) a des lames plus étroites, des gouttes de liquide rougeâtre sur les lames et le pied, et un pied écailleux gris cendré. Le tricholome filamenteux (Tricholoma filamentosum) est plus petit et plus pâle, avec un chapeau soyeux fibrilleux plutôt que des écailles contrastées, et des anses d'anastomose y sont également présentes. Le tricholome de Bresadola (Tricholoma bresadolanum) est un peu plus petit et moins écailleux, presque inodore, avec une saveur âcre, et pousse sous les feuillus. Le tricholome renflé (Tricholoma tumidum) est plus brun et a des spores plus petites. Les autres espèces grises du genre sont dépourvues d'anses d'anastomose.",
       notes: "L'espèce est considérée comme en danger critique d'extinction (Critically Endangered) en République tchèque et comme vulnérable (Vulnerable) en Allemagne."
+    },
+    pl: {
+      description: "Ciepłolubny, rzadki grzyb ektomikoryzowy lasów iglastych i bukowych, rosnący głównie pod jodłą, świerkiem i bukiem wyłącznie na glebach wapiennych w rejonach górskich i podgórskich. Występuje w Europie i Ameryce Północnej.",
+      cap: "Kapelusz ma 6–15 cm średnicy (niekiedy do 20 cm), jest mięsisty, początkowo półkulisty z silnie podwiniętym brzegiem, później wypukły do spłaszczonego z tępym garbkiem. Na srebrzystoszarym lub popielatym tle gęsto pokryty jest ciemnoszarymi do czarnobrązowych, koncentrycznie ułożonymi łuskami przypominającymi futro tygrysa.",
+      hymenium: "Blaszki są gęste, szerokie, wycięte ząbkiem przy trzonie, białawe do bladożółtawych, u młodych owocników często wydzielające przezroczyste kropelki cieczy.",
+      stipe: "Trzon ma 5–12 cm długości i 2–4 cm grubości, jest mocny, masywny, u podstawy maczugowato zgrubiały, białawy, w dolnej części często ochrowobrązowy.",
+      flesh: "Miąższ jest biały, gruby i jędrny. Ma przyjemny, mączny zapach i łagodny smak świeżej mąki.",
+      sporePrint: "Biały. Zarodniki są gładkie, elipsoidalne, o wymiarach 8–10 × 5,5–7 μm, nieamyloidalne.",
+      habitat: "Owocniki pojawiają się od sierpnia do października w górskich lasach iglastych (jodła, świerk) i buczynach na podłożu wapiennym.",
+      uses: "Grzyb silnie trujący. Wywołuje bardzo ciężkie zatrucia żołądkowo-jelitowe połączone z gwałtownymi wymiotami, biegunką i odwodnieniem już po 15–120 minutach od spożycia. Z powodu łagodnego smaku bywa zbierany przez nieostrożnych grzybiarzy.",
+      confusion: "Gąska ziemistoblaszkowa (Tricholoma terreum) jest znacznie mniejsza, ma cienki miąższ, rośnie w borach sosnowych na nizinach i nie ma mącznego zapachu."
     }
     },
     sources: {
@@ -42572,18 +42548,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%A0%D1%8F%D0%B4%D0%BE%D0%B2%D0%BA%D0%B0_%D1%82%D0%B8%D0%B3%D1%80%D0%B8%D1%81%D1%82%D0%B0"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Gąska_tygrysia"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -42623,6 +42587,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Gąska_tygrysia"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -42729,10 +42705,10 @@ export const CATALOG = [
       bg: 'гигантска пърхутка',
       ru: "головач гигантский",
       uk: "кальвація велетенська",
-      pl: "czasznica olbrzymia",
       it: "vescia gigante",
       hu: "óriás pöfeteg",
-      fr: "vesse-de-loup géante"
+      fr: "vesse-de-loup géante",
+      pl: "czasznica olbrzymia"
     },
     names: {
       sk: ["vatovec"],
@@ -42740,8 +42716,8 @@ export const CATALOG = [
       da: ['kæmpe-støvbold'],
       ru: ["дождевик гигантский","лангерманния гигантская"],
       uk: ["головач гігантський","порхавка велетенська"],
-      pl: ["purchawica olbrzymia"],
-      hu: ["óriáspöfeteg"]
+      hu: ["óriáspöfeteg"],
+      pl: ["purchawica olbrzymia"]
     },
     text: {
       tr: {
@@ -43006,18 +42982,6 @@ export const CATALOG = [
       confusion: "Головач мішкуватий (Bovistella utriformis) значно менший (до 15 см завширшки) і має виразну стерильну чашоподібну основу, яка залишається після висипання спор.",
       notes: "Одне велике плодове тіло продукує трильйони спор — це один із найплодючіших організмів на планеті."
     },
-    pl: {
-      description: "Potężny grzyb saprotroficzny żyznych łąk, pastwisk, parków i ogrodów. Rozpowszechniony w strefie umiarkowanej na całym świecie.",
-      cap: "Owocnik jest beztrzonowy, kulisty, jajowaty lub spłaszczony, osiągający zazwyczaj 20–50 cm średnicy (wyjątkowo ponad 100 cm) i masę do kilkunastu kilogramów. Powierzchnia jest początkowo czysto biała, gładka, skórzasta jak miękka skóra zamszowa, z wiekiem pęka nieregularnie płatami i żółknie do brudnobrązowej.",
-      hymenium: "Wnętrze owocnika w całości wypełnia gleba. U młodych okazów jest czysto biała i elastyczna; w miarę dojrzewania przekształca się w suchą, watowatą, oliwkowobrązową masę zarodników.",
-      stipe: "Brak prawdziwego trzonu. Podstawa przyczepiona jest do ziemi grubym, białym sznurem grzybniowym.",
-      flesh: "Młoda gleba jest biała, jędrna i zwarta. Zapach i smak są słabe, przyjemne, grzybowe.",
-      sporePrint: "Brak typowego wysypu. Dojrzała masa zarodników ma barwę oliwkowobrązową. Zarodniki są kuliste, drobno brodawkowane, o średnicy około 3,5–5,5 μm.",
-      habitat: "Owocniki pojawiają się od lipca do października na żyznych, bogatych w azot glebach trawiastych, na łąkach, pastwiskach, w sadach i parkach.",
-      uses: "Bardzo smaczny grzyb jadalny w młodym stanie, dopóki całe wnętrze jest czysto białe i zwarte. Zwykle zdejmuje się zewnętrzną skórkę, a miąższ kroi w grube plastry i smaży w panierce jak steki.",
-      confusion: "Czasznica workowata (Calvatia utriformis) jest znacznie mniejsza (do 15 cm), ma wyraźną płonną podstawę przypominającą miskę i spękaną na poletka powierzchnię.",
-      notes: "Jeden duży owocnik produkuje biliony zarodników (szacunkowo ponad 7 bilionów). Dawniej w Polsce gatunek ściśle chroniony (ochrona zdjęta w 2014 r.)."
-    },
     it: {
       description: "Un enorme fungo gasteromicete saprotrofo dei prati pingui, pascoli montani, giardini ed erbai ricchi di sostanze azotate. È diffuso nelle regioni temperate di tutto il mondo.",
       cap: "Il corpo fruttifero è subsferico o globoso irregolare, privo di gambo, raggiungendo dimensioni colossali da 20 a 60 cm di diametro (talvolta oltre 1 metro) e un peso da 2 a 10–15 kg. La superficie esterna è liscia e bianca come cuoio da giovane, screpolandosi in frammenti giallastri poi bruno-ocracei con la maturità.",
@@ -43053,6 +43017,17 @@ export const CATALOG = [
       uses: "Un bon champignon comestible lorsque la chair est blanc pur et ferme sur toute son étendue. Il doit être coupé en tranches et cuit, souvent poêlé dans le beurre ou pané à la manière d'une escalope viennoise. Dès que la gleba présente une décoloration jaunâtre ou verdâtre, elle devient amère, désagréable, et peut provoquer des troubles digestifs. En médecine populaire traditionnelle, la masse de spores séchées était utilisée comme hémostatique pour arrêter les saignements des blessures, et des morceaux de la paroi externe étaient brûlés pour engourdir les abeilles.",
       confusion: "La vesse-de-loup en outre (Bovistella utriformis) est beaucoup plus petite, mesurant environ 6–15 cm de largeur, et a la forme d'une poire écrasée ou d'un pilon. Sa peau externe est verruqueuse ou se craquelle en mosaïque, et elle possède une base stérile. La vesse-de-loup en forme de pilon (Lycoperdon excipuliforme) peut être assez grande. Sa surface est verruqueuse ou floconneuse plutôt que lisse, et elle possède une base stérile semblable à un pied. La calvatie de Boon (Calvatia booniana), dans l'ouest de l'Amérique du Nord, peut dépasser 60 cm, mais la surface se brise en grandes écailles polygonales. Les espèces de bovistes (Bovista) restent beaucoup plus petites, et la peau externe n'est pas toujours lisse. Le scléroderme vulgaire (Scleroderma citrinum) est beaucoup plus petit et plus ferme, et l'intérieur vire au noir violacé foncé, avec des marbrures blanches, alors que le sporophore est encore jeune. Une jeune amanite (Amanita) montre des lames et un pied lors d'une coupe verticale. Un œuf non ouvert de satyre puant (Phallus impudicus) présente une couche gélatineuse à l'intérieur. Ce champignon a un intérieur blanc uniforme et aucune ébauche de lames.",
       notes: "Une évaluation de 2019 classe l'espèce dans la catégorie préoccupation mineure (Least Concern), avec une population stable."
+    },
+    pl: {
+      description: "Potężny grzyb saprotroficzny rozwijający się na żyznych, bogatych w azot glebach łąk, pastwisk, parków, ogrodów i skrajów lasów. Występuje w strefie umiarkowanej na całym świecie.",
+      cap: "Owocnik osiąga 20–60 cm średnicy (niekiedy ponad 100 cm) i masę od kilku do kilkunastu kilogramów. Jest kulisty, elipsoidalny lub spłaszczony, u podstawy związany z podłożem sznurem grzybniowym. Powierzchnia jest początkowo czysto biała, gładka i zamszowa w dotyku, z wiekiem żółknie, pęka na nieregularne płaty i odpada, odsłaniając suchą, oliwkowobrązową masę zarodników.",
+      hymenium: "Całe wnętrze owocnika stanowi gleba. Za młodu jest jednolita, śnieżnobiała i elastyczna, z wiekiem staje się żółtawozielona, a na koniec przekształca się w olbrzymią masę brązowego pyłu zawierającego biliony zarodników.",
+      stipe: "Brak trzonu. Owocnik przyrasta do ziemi u nasady za pomocą grubego sznura grzybniowego.",
+      flesh: "Miąższ za młodu jest czysto biały, mięsisty, o przyjemnym grzybowym zapachu i łagodnym smaku.",
+      sporePrint: "Oliwkowobrązowy do ciemnobrązowego. Zarodniki są kuliste, drobno brodawkowate, o średnicy 4–5,5 μm.",
+      habitat: "Owocniki wyrastają od lipca do października na łąkach, pastwiskach, w sadach i parkach, często pojedynczo lub po kilka obok siebie.",
+      uses: "Bardzo smaczny grzyb jadalny dopóki wnętrze jest śnieżnobiałe. Tradycyjnie krojony w grube plastry i smażony w panierce z jajka i bułki tartej jak kotlety. Po zmianie barwy wnętrza na żółtą staje się niejadalny.",
+      confusion: "Czasznica workowata (Bovistella utriformis) jest znacznie mniejsza, ma 6–15 cm średnicy i gruszkowaty kształt z płonną podstawą. Purchawka purchawkowata (Lycoperdon excipuliforme) ma powierzchnię brodawkowatą i wyraźny, wysoki trzonopodobny spód. Tęgoskór cytrynowy (Scleroderma citrinum) jest mały, twardy, a jego wnętrze szybko ciemnieje do purpurowoczarnego. Nierozwinięte owocniki muchomorów (Amanita) po przekrojeniu wykazują zarys kapelusza, blaszek i trzonka, których czasznica olbrzymia nie posiada."
     }
     },
     sources: {
@@ -43397,18 +43372,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D1%86%D1%96%D1%8F_%D0%B2%D0%B5%D0%BB%D0%B5%D1%82%D0%B5%D0%BD%D1%81%D1%8C%D0%BA%D0%B0"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Czasznica_olbrzymia"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -43448,6 +43411,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Czasznica_olbrzymia"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -43558,10 +43533,10 @@ export const CATALOG = [
       bg: 'обикновена орешарка',
       ru: "говорушка дымчатая",
       uk: "говорушка димчаста",
-      pl: "lejkówka szarawa",
       it: "fungo delle nebbie",
       hu: "szürke tölcsérgomba",
-      fr: "clitocybe nébuleux"
+      fr: "clitocybe nébuleux",
+      pl: "lejkówka szarawa"
     },
     names: {
       en: ["clouded agaric", "cloudy clitocybe", "cloud funnel", "clouded funnel cap"],
@@ -43569,10 +43544,10 @@ export const CATALOG = [
       bg: ['есенна миризливка'],
       ru: ["говорушка серая"],
       uk: ["говорушка сіра"],
-      pl: ["lejkówka mglista"],
       it: ["nebbino","ordinato"],
       hu: ["szürke tölcsérpereszke"],
-      fr: ["gris de sapin"]
+      fr: ["gris de sapin"],
+      pl: ["lejkówka mglista"]
     },
     text: {
       tr: {
@@ -43835,18 +43810,6 @@ export const CATALOG = [
       confusion: "Смертельно отруйна ентолома отруйна (Entoloma sinuatum) має виїмчасті рожеві пластинки, лососево-рожевий споровий порошок і борошняний запах.",
       notes: "Біла форма (f. alba) має повністю біле плодове тіло."
     },
-    pl: {
-      description: "Duży grzyb saprotroficzny ściółki leśnej, rosnący w lasach liściastych i iglastych, często tworzący wielkie czarcie koła. Bardzo pospolity jesienią w całej Europie.",
-      cap: "Kapelusz ma 5–20 cm średnicy (niekiedy do 25 cm). Początkowo jest wypukły z podwiniętym brzegiem, później rozpostarty do płytko wklęsłego. Barwa jest popielatoszara, dymnoszara do szarobrązowej, często z białawym, mączystym nalotem na powierzchni.",
-      hymenium: "Blaszki są gęste, wąskie (3–7 mm), krótko zbiegające na trzon, łatwo oddzielające się od miąższu kapelusza, początkowo białawe, z wiekiem kremowe do jasnoochrowych.",
-      stipe: "Trzon ma 5–15 cm długości i 1,5–4 cm grubości, jest masywny, ku dołowi maczugowato zgrubiały, białawy do popielatego, u podstawy otoczony gęstą białą grzybnią zrośniętą ze ściółką.",
-      flesh: "Miąższ jest biały, gruby, za młodu jędrny, z wiekiem gąbczasty. Posiada intensywny, silny, specyficzny zapach (słodkawy, mączno-korzenny) i łagodny smak.",
-      sporePrint: "Kremowy do bladożółtawego. Zarodniki są elipsoidalne, gładkie, o wymiarach około 6–8 × 3,5–5 μm.",
-      habitat: "Owocniki pojawiają się od września do późnego listopada na grubej warstwie opadłych liści i igieł w lasach bukowych, dębowych, świerkowych i jodłowych.",
-      uses: "Grzyb warunkowo jadalny po dokładnym obgotowaniu i odlaniu wody, lecz u wielu osób wywołuje silne zaburzenia trawienne ze względu na zawartość nebularyny. Współcześnie odradza się jego zbieranie.",
-      confusion: "Trująca dzwonkówka trująca (Entoloma sinuatum) ma blaszki wycięte (niezbiegające), z wiekiem łososioworóżowe, i różowy wysyp zarodników.",
-      notes: "Istnieje czysto biała forma albinotyczna."
-    },
     it: {
       description: "Un grande fungo saprotrofo della lettiera di foglie e aghi nei boschi di latifoglie e conifere. È molto abbondante in tutta Europa nel tardo autunno.",
       cap: "Il cappello misura solitamente 5–20 cm di diametro (talvolta fino a 25 cm). È molto carnoso, convesso poi appianato e debolmente depresso al centro, di colore grigio cenere, grigio-bruno o fuligginoso, ricoperto da una pruina biancastra nei giovani che scompare con l'età.",
@@ -43882,6 +43845,17 @@ export const CATALOG = [
       uses: "Autrefois largement ramassé et consommé dans certaines régions d'Europe, mais désormais considéré comme suspect ou toxique par de nombreuses autorités. Il provoque des troubles gastro-intestinaux (nausées, vomissements, diarrhée) chez de nombreuses personnes, même après cuisson, bien que certaines personnes le consomment sans effet néfaste. Il contient de la nébularine, un antimétabolite purique ayant des propriétés antibactériennes et antitumorales qui est toxique pour les cellules des mammifères. La cuisson réduit la toxicité mais ne l'élimine pas pour les personnes sensibles, et sa consommation n'est plus recommandée.",
       confusion: "L'entolome livide (Entoloma sinuatum) a des lames échancrées ou sinuées plutôt que décurrentes. Elles sont jaunâtres puis rose saumon, la sporée est rose, l'odeur est farineuse, et il fructifie plus tôt, principalement dans les bois chauds de feuillus sur sol calcaire. Le meunier (Clitopilus prunulus) a également des lames décurrentes, mais la chair est très fragile, l'odeur est nettement de farine, et la sporée est rose. Le clitocybe des feuilles (Clitocybe phyllophila) est toxique et blanchâtre, et l'odeur forte et douceâtre sépare cette espèce de lui. Plusieurs espèces plus petites et blanchâtres de clitocybes (Clitocybe), dont le chapeau mesure moins d'environ 10 cm, sont violemment toxiques, de sorte qu'un chapeau décoloré blanchâtre est celui qui se confond le plus facilement avec elles. Le clitocybe à pied en massue (Ampulloclitocybe clavipes) est plus petit, habituellement avec un chapeau gris plus sombre, et le pied reste fortement clavé ou conique lorsque le sporophore est mûr. Le clitocybe d'Alexandre (Clitocybe alexandri) a un chapeau quelque peu plus sombre, pousse à des altitudes plus élevées, et préfère les sols alcalins. Le clitocybe géotrope (Infundibulicybe geotropa) est plus élancé, et le chapeau mûr est fortement en entonnoir. Le pied-bleu à odeur d'iris (Lepista irina) et le tricholome faux-panaéole (Lepista panaeolus) ont des lames non décurrentes et des spores ornementées. Le tricholome faux-panaéole (Lepista panaeolus) a habituellement des taches aqueuses concentriques sur le chapeau et seulement une faible odeur farineuse. Le pied-bleu (Lepista nuda) a des lames lilas qui sont sinuées. Le pied-bleu pâle (Lepista glaucocana) est plus grand et présente des teintes lilas bleuâtre. Le tricholome de Singer (Lepista singeri), décrit de Norvège et également trouvé en Europe centrale, a des lames à insertion relevée et un chapeau quelque peu crème. Le tricholome prétentieux (Tricholoma portentosum) a des lames échancrées et un pied qui jaunit. Le tricholome à odeur de savon (Tricholoma saponaceum) a un chapeau brun olive et une odeur savonneuse et fruitée. Le leucopaxille très blanc (Leucopaxillus albissimus) est plus pâle, plus lent à pourrir, et a une sporée blanche. Le clitocybe robuste (Clitocybe robusta) a un chapeau plus franchement blanc.",
       notes: "La volvaire parasite (Volvariella surrecta) parasite les sporophores âgés de cette espèce, produisant de petits agarics blanchâtres sur les chapeaux en décomposition. L'espèce a également été placée dans le genre Lepista sous le nom de Lepista nebularis."
+    },
+    pl: {
+      description: "Grzyb saprotroficzny rozkładający ściółkę w lasach iglastych i liściastych. Bardzo pospolity w całej Europie i Ameryce Północnej, wyrastający często w ogromnych skupiskach i czarcich kołach późną jesienią.",
+      cap: "Kapelusz ma 6–18 cm średnicy (niekiedy do 25 cm), jest gruby i mięsisty, początkowo wypukły z podwiniętym brzegiem, później spłaszczony do płytko lejkowatego. Barwa jest popielatoszara, szarobrązowa do dymnoszarej, u młodych okazów pokryta białawym, mączystym nalotem (stąd nazwa mglista), z wiekiem naga.",
+      hymenium: "Blaszki są bardzo gęste, wąskie, krótko zbiegające na trzon, łatwo oddzielające się od miąższu kapelusza, początkowo białawe, później kremowe do jasnożółtych.",
+      stipe: "Trzon ma 6–12 cm długości i 1,5–3,5 cm grubości, jest mocny, u podstawy maczugowato zgrubiały z białą grzybnią, włóknisty, w barwie kapelusza lub jaśniejszy.",
+      flesh: "Miąższ jest biały, gruby, jędrny. Posiada bardzo intensywny, specyficzny, słodkawo-mdły zapach (niekiedy uważany za nieprzyjemny) i łagodny smak.",
+      sporePrint: "Białawy do kremowożółtego. Zarodniki są gładkie, elipsoidalne, o wymiarach 6–8 × 3,5–5 μm.",
+      habitat: "Owocniki pojawiają się masowo od września do listopada (często po pierwszych przymrozkach) w lasach iglastych (zwłaszcza świerkowych) i liściastych.",
+      uses: "Grzyb warunkowo jadalny lub trujący. U wielu osób wywołuje silne dolegliwości żołądkowo-jelitowe ze względu na zawartość nebularyny. Wymaga wielokrotnego obgotowania z odlaniem wody, jednak ze względu na częste zatrucia odradza się jego zbieranie.",
+      confusion: "Dzwonkówka trująca (Entoloma sinuatum) ma różowiejące blaszki i mączny zapach. Lejkówka biaława (Clitocybe candicans) i inne białe lejkówki są mniejsze i zawierają niebezpieczną muskarynę."
     }
     },
     sources: {
@@ -44232,18 +44206,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%93%D0%BE%D0%B2%D0%BE%D1%80%D1%83%D1%88%D0%BA%D0%B0_%D0%B4%D0%B8%D0%BC%D1%87%D0%B0%D1%81%D1%82%D0%B0"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Lejkówka_szarawa"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -44283,6 +44245,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Lejkówka_szarawa"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -44390,10 +44364,10 @@ export const CATALOG = [
       bg: 'пъстър траметес',
       ru: "траметес разноцветный",
       uk: "траметес різнобарвний",
-      pl: "wrośniak różnobarwny",
       it: "poliporo versicolore",
       hu: "lepketapló",
-      fr: "tramète versicolore"
+      fr: "tramète versicolore",
+      pl: "wrośniak różnobarwny"
     },
     names: {
       en: ["turkeytail", "many-zoned polypore"],
@@ -44663,18 +44637,6 @@ export const CATALOG = [
       confusion: "Види роду Stereum (наприклад, Stereum hirsutum) мають схожі смугасті шапинки, але їхня нижня поверхня абсолютно гладенька, без пор і трубочок.",
       notes: "Один із найбільш вивчених лікарських грибів у сучасній мікології та імунології."
     },
-    pl: {
-      description: "Nadrzewny grzyb saprotroficzny i słaby pasożyt wywołujący białą zgniliznę drewna drzew liściastych. Jeden z najpospolitszych grzybów nadrzewnych na świecie.",
-      cap: "Owocnik jest jednoroczny, cienki (1–3 mm grubości), wachlarzowaty lub półkolisty, o szerokości 3–10 cm, wyrastający dachówkowato w dużych skupiskach. Powierzchnia jest jedwabiście lśniąca, aksamitna, z wyraźnymi koncentrycznymi, różnobarwnymi strefami: brązowymi, beżowymi, rdzawymi, czarnawymi, szarymi i niebieskawymi, zawsze z jasnym brzegiem.",
-      hymenium: "Rurki są bardzo krótkie (1–2 mm). Pory są drobne (3–5 na milimetr), okrągłe do kanciastych, białawe, kremowe do żółtawych.",
-      stipe: "Brak trzonu; owocnik przyrasta bokiem lub nasadą bezpośrednio do drewna.",
-      flesh: "Miąższ jest cienki (1–2 mm), białawy, elastyczny i skórzasty w stanie świeżym, twardy po wyschnięciu. Cienka czarna linia oddziela warstwę włosków od właściwej tramy.",
-      sporePrint: "Biały do białawego. Zarodniki są cylindryczne do lekko kiełbaskowatych, gładkie, o wymiarach około 5–7 × 1,5–2,5 μm.",
-      habitat: "Owocniki rosną przez cały rok na martwych pniach, kłodach i gałęziach drzew liściastych (buków, dębów, brzóz), rzadziej iglastych.",
-      uses: "Niejadalny z powodu skórzastej konsystencji. Bardzo ceniony w fitoterapii i medycynie naturalnej (jako źródło polisacharydów PSP i PSK o działaniu immunomodulującym i przeciwnowotworowym).",
-      confusion: "Skórnik aksamitny (Stereum subtomentosum) oraz skórnik szorstkowłosy (Stereum hirsutum) mają gładki hymenofor bez porów. Inne gatunki wrośniaków (Trametes) nie posiadają tak jaskrawego, wielobarwnego strefowania.",
-      notes: "Owocniki bywają zjadane przez larwy ciem i muchówek przystosowanych do twardych hub."
-    },
     it: {
       description: "Un fungo poliporaceo annuale saprotrofo lignicolo, agente di carie bianca del legno, che cresce a mensole fitte su tronchi morti, ceppi e rami caduti di latifoglie. È comune in tutto il mondo.",
       cap: "I carpofori crescono a mensole sottili e piatte a ventaglio o rosetta embricata, larghe 3–10 cm e spesse solo 1–3 mm. La superficie superiore è finemente vellutata e percorsa da magnifiche zone concentriche multicolori di bruno, ocra, grigio, ruggine, bluastro e nero, con margine ondulato sottile e bianco.",
@@ -44710,6 +44672,17 @@ export const CATALOG = [
       uses: "Non comestible en raison de sa texture coriace et caoutchouteuse. C'est l'un des champignons médicinaux les plus étudiés, en particulier en Asie de l'Est. Le polysaccharide-K (PSK, Krestin) et le peptide polysaccharidique (PSP) extraits de cultures de mycélium ont été approuvés et largement prescrits au Japon et en Chine comme thérapies adjuvantes contre le cancer, en association avec la chimiothérapie et la radiothérapie. Il montre également des propriétés immunomodulatrices, antivirales et antioxydantes.",
       confusion: "Le stéréum ostrea (Stereum ostrea), le stéréum hirsute (Stereum hirsutum), le stéréum subtomenteux (Stereum subtomentosum) et d'autres espèces de stéréums (Stereum) possèdent un hyménium lisse et aucun pore. La tramète hirsute (Trametes hirsuta) est plus épaisse, et son chapeau frais est blanchâtre à gris et grossièrement velu plutôt que finement velouté. La tramète pubescente (Trametes pubescens) est dépourvue de zones de couleurs fortement contrastées. La tramète ocrée (Trametes ochracea) est rigide plutôt que mince et flexible, plus épaisse au point d'attache, jusqu'à environ 10 mm, avec des bandes ocre et jaune-brun moins variées et sans zones soyeuses ou brillantes, et elle forme des touffes moins denses. La tramète ocrée (Trametes ochracea) partage souvent un tronc avec ce champignon, et les deux ne sont pas toujours faciles à séparer. La tramète odorante (Trametes suaveolens) est beaucoup plus pâle et ne pousse généralement pas en consoles étagées. D'autres espèces de tramètes (Trametes) avec seulement environ 1–3 pores par millimètre s'en séparent par cette taille de pores.",
       notes: "Les sporophores sont consommés par la chenille de la teigne Nemaxera betulinella et par les mouches Polyporivora picta et Mycetophila luctuosa. Le champignon peut endommager le bois entreposé et le bois de construction, y compris les bois de mine et les traverses de chemin de fer."
+    },
+    pl: {
+      description: "Bardzo pospolity grzyb nadrzewny wywołujący białą zgniliznę drewna liściastego, rzadziej iglastego. Powszechny na całym świecie, rosnący w dachówkowatych skupiskach na pniakach, powalonych kłodach i obumarłych gałęziach.",
+      cap: "Kapelusze mają 3–8 cm szerokości i 1–3 mm grubości, są półkoliste, wachlarzowate, płaskie, ułożone gęsto dachówkowato lub rozetowato. Powierzchnia jest aksamitna, satynowo błyszcząca, z wieloma koncentrycznymi strefami o kontrastujących barwach: brązowych, beżowych, szarych, niebieskawych, rdzawych i czarniawych, z białą, falistą krawędzią wzrostu.",
+      hymenium: "Rurki są bardzo krótkie (1–2 mm), białe do kremowych. Pory są drobne, okrągłe do kanciastych, 3–5 na milimetr, białawe, z wiekiem żółtawe do ochrowych.",
+      stipe: "Brak trzonu. Owocniki przyrastają bokiem bezpośrednio do podłoża.",
+      flesh: "Miąższ jest cienki, elastyczny, skórzasty i twardy, biały, bez wyraźnego zapachu i smaku.",
+      sporePrint: "Biały. Zarodniki są gładkie, cylindryczne do lekko kiełbaskowatych, o wymiarach 5–7 × 1,5–2,5 μm.",
+      habitat: "Owocniki trwają przez cały rok na obumarłym drewnie drzew liściastych (dąb, buk, brzoza) w lasach, parkach i ogrodach.",
+      uses: "Grzyb niejadalny ze względu na skórzastą, łykowatą strukturę. Bardzo szeroko stosowany w medycynie (zwłaszcza tradycyjnej medycynie azjatyckiej jako kawaratake lub yun zhi); ekstrahowane z niego polisacharydy (PSK, PSP) wykazują silne działanie immunomodulujące i przeciwnowotworowe.",
+      confusion: "Wrośniak strefowany (Trametes ochracea) ma grubsze owocniki o dominujących odcieniach ochrowożółtych i pomarańczowych. Skórnik szorstki (Stereum hirsutum) ma całkowicie gładki spód kapelusza pozbawiony porów."
     }
     },
     sources: {
@@ -45016,18 +44989,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%A2%D1%80%D1%83%D1%82%D0%BE%D0%B2%D0%B8%D0%BA_%D1%80%D1%96%D0%B7%D0%BD%D0%BE%D0%B1%D0%B0%D1%80%D0%B2%D0%BD%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Wrośniak_różnobarwny"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -45067,6 +45028,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Wrośniak_różnobarwny"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -45242,10 +45215,10 @@ export const CATALOG = [
       bg: 'борова манатарка',
       ru: "белый гриб сосновый",
       uk: "білий гриб сосновий",
-      pl: "borowik sosnowy",
       it: "porcino rosso",
       hu: "vörösbarna vargánya",
-      fr: "cèpe des pins"
+      fr: "cèpe des pins",
+      pl: "borowik sosnowy"
     },
     names: {
       en: ["pinewood king bolete", "red king bolete"],
@@ -45526,18 +45499,6 @@ export const CATALOG = [
       confusion: "Білий гриб звичайний (Boletus edulis) має світлішу ніжку з білою сіточкою та світлішу коричневу шапинку. Гірчак жовчний (Tylopilus felleus) має рожеві пори й гіркий смак.",
       notes: "Оцінка 2019 року відносить вид до категорії в найменшій загрозі (Least Concern) зі стабільною популяцією."
     },
-    pl: {
-      description: "Grzyb ektomikoryzowy borów sosnowych strefy umiarkowanej i borealnej, rosnący głównie pod sosną zwyczajną (Pinus sylvestris), rzadziej pod świerkami i bukami. Szeroko rozprzestrzeniony w Europie.",
-      cap: "Kapelusz ma 6–30 cm średnicy (niekiedy do 40 cm). Za młodu jest półkolisty, potem poduszkowato wypukły. Skórka ma charakterystyczną barwę mahoniowoczerwoną, purpurowobrązową do ciemnoczerwonobrązowej, powierzchnia jest nierówna, pomarszczona, w młodości pokryta białawym nalotem.",
-      hymenium: "Rurki mają do 2,5 cm długości, są przyrośnięte do wyciętych przy trzonie. Pory są drobne, początkowo białawe, potem żółte, a z wiekiem oliwkowozielone, niebłękitniejące pod naciskiem.",
-      stipe: "Trzon ma 7–16 cm długości i 3–10 cm grubości, jest masywny, bulwiasty do beczułkowatego, czerwonobrązowawy na jasnym tle, pokryty drobną, białawą do czerwonobrązowej siateczką.",
-      flesh: "Miąższ jest biały, gruby, bardzo jędrny, pod skórką kapelusza ma czerwonobrązowy odcień. Po przekrojeniu nie zmienia barwy. Posiada przyjemny, grzybowy zapach i łagodny smak.",
-      sporePrint: "Oliwkowobrązowy. Zarodniki są wrzecionowate, gładkie, o wymiarach około 14–19 × 4,5–6 μm.",
-      habitat: "Owocniki pojawiają się od maja do listopada w borach sosnowych na glebach piaszczystych.",
-      uses: "Wyborny grzyb jadalny, wysoko ceniony i poszukiwany przez grzybiarzy. Znakomicie nadaje się do smażenia, suszenia i marynowania, podobnie jak borowik szlachetny.",
-      confusion: "Borowik szlachetny (Boletus edulis) ma kapelusz jaśniejszy, orzechowobrązowy z białą krawędzią brzegu i jaśniejszy trzon z białą siateczką. Goryczak żółciowy (Tylopilus felleus) ma różowiejące pory i bardzo gorzki smak.",
-      notes: "Ocena z 2019 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern) o stabilnej populacji."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi montani di pino (Pinus sylvestris) e di faggio e abete. È diffuso nell'Europa temperata e boreale.",
       cap: "Il cappello misura solitamente 6–30 cm di diametro (può raggiungere eccezionalmente i 40 cm). È molto carnoso, sodo e robusto, emisferico poi convesso, di un tipico colore bruno-rossastro granata o rosso mogano, con superficie opaca, rugosa e finemente pruinosa nei giovani.",
@@ -45573,6 +45534,18 @@ export const CATALOG = [
       uses: "C'est un comestible de choix, consommé frais, séché, en conserve ou cuisiné de la même manière que le cèpe de Bordeaux (Boletus edulis). Il est récolté et vendu dans plusieurs pays. Dans la région de Borgotaro, dans le nord de l'Italie, c'est l'une des quatre espèces vendues sous le nom de Fungo di Borgotaro. Les cueilleurs le préfèrent souvent au cèpe d'été (Boletus reticulatus) car sa chair est moins souvent attaquée par les larves d'insectes.",
       confusion: "Le cèpe de Bordeaux (Boletus edulis) possède un pied plus pâle avec un réseau blanc, un chapeau brun avec une marge blanchâtre, et un réseau plus fin. Le cèpe d'été (Boletus reticulatus) a un chapeau plus pâle qui se craquelle en plaques par temps sec et pousse principalement avec les arbres feuillus. Le cèpe bronzé (Boletus aereus) a un chapeau feutré bronzé plus sombre, sans la couleur acajou, et une chair plus ferme. Le bolet de fiel (Tylopilus felleus) a des pores avec une teinte rosâtre et une saveur très amère. Le bolet royal (Butyriboletus regius) est plus rose, et ses pores ne sont jamais blancs.",
       notes: "Une évaluation de 2019 le classe dans la catégorie préoccupation mineure (Least Concern), avec une population stable. Il peut être localement très abondant dans les bois de pins et dans les plantations de pins de tout âge, et aucune menace majeure n'est connue. Il est considéré comme vulnérable (Vulnerable) en République tchèque. Les populations indigènes de l'ouest de l'Amérique du Nord classées sous ce nom sont Boletus rex-veris, et celles de l'est de l'Amérique du Nord sont Boletus pseudopinophilus. Les populations indigènes chinoises classées ici sont d'autres espèces. Il a également été signalé sous des pins plantés au Mexique, au Chili, en Afrique du Sud et en Nouvelle-Zélande. Les sporophores sous le sapin et l'épicéa ont été distingués en tant que variété. Il accumule le mercure, le cadmium et le sélénium, avec les concentrations les plus élevées dans les pores. Une étude de 2007 sur quatre bolets a trouvé peu de correspondance entre le nombre de sporophores et le mycélium présent dans le sol en dessous."
+    },
+    pl: {
+      description: "Grzyb ektomikoryzowy borów sosnowych strefy umiarkowanej i borealnej, rosnący głównie pod sosną zwyczajną na ubogich, piaszczystych glebach, sporadycznie także pod świerkiem i bukiem. Pospolity i lokalnie liczny w Europie.",
+      cap: "Kapelusz ma zazwyczaj 6–30 cm średnicy (niekiedy do 40 cm), początkowo jest półkulisty, później wypukły do poduchowatego. Barwa jest ciemna, czerwonobrązowa, mahoniowa do winnoczerwonej. Skórka jest pomarszczona, guzowata, matowa, w czasie wilgotnej pogody lepka. Brzeg u młodych okazów ma charakterystyczny różowawy lub białawy nalot.",
+      hymenium: "Rurki mają do 2,5 cm długości, są początkowo białe do kremowych, później żółte z oliwkowym odcieniem, a w stanie dojrzałym oliwkowobrązowe. Pory są drobne, po ugnieceniu nie zmieniają barwy lub lekko brązowieją.",
+      stipe: "Trzon ma 7–16 cm długości i 3–10 cm grubości, jest potężny, pękaty, maczugowaty lub beczułkowaty, czerwonobrązowawy z białawą podstawą, pokryty na znacznej długości gęstą, białawą do rudawej siateczką.",
+      flesh: "Miąższ jest biały, gruby, bardzo jędrny i zwięzły, pod skórką kapelusza ma czerwonobrązową warstwę. Po przekrojeniu nie zmienia barwy. Zapach i smak są przyjemne, orzechowo-grzybowe.",
+      sporePrint: "Oliwkowobrązowy. Zarodniki są gładkie, wrzecionowate, o wymiarach 13–21 × 3,5–6,5 μm.",
+      habitat: "Owocniki pojawiają się w dwóch rzutach: od maja do czerwca oraz od sierpnia do listopada w widnych borach sosnowych na piaszczystym podłożu.",
+      uses: "Wyborny grzyb jadalny najwyższej klasy. Bardzo ceniony przez grzybiarzy ze względu na twardy miąższ, który rzadziej niż u innych borowików bywa zarobaczony. Doskonały na świeżo, do suszenia i marynowania.",
+      confusion: "Borowik szlachetny (Boletus edulis) ma kapelusz jaśniejszy, brązowy do orzechowego bez odcienia mahoniowo-czerwonego. Borowik ciemnobrązowy (Boletus aereus) ma kapelusz ciemnobrązowy z brązowymi plamami i rośnie pod dębami. Goryczak żółciowy (Tylopilus felleus) ma ciemną siateczkę na trzonie, różowiejące pory i gorzki smak.",
+      notes: "Kategoria LC (Least Concern) według oceny z 2019 roku."
     }
     },
     sources: {
@@ -45895,18 +45868,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%91%D1%96%D0%BB%D0%B8%D0%B9_%D0%B3%D1%80%D0%B8%D0%B1_%D1%81%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Borowik_sosnowy"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -45946,6 +45907,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Borowik_sosnowy"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -46049,10 +46022,10 @@ export const CATALOG = [
       bg: 'красива манатарка',
       ru: "боровик красивоножковый",
       uk: "боровик красивоніжковий",
-      pl: "gorzkoborowik żółtopory",
       it: "boleto calopo",
       hu: "farkastinóru",
-      fr: "bolet à beau pied"
+      fr: "bolet à beau pied",
+      pl: "gorzkoborowik żółtopory"
     },
     names: {
       en: ["scarlet-stemmed bolete", "bitter bolete"],
@@ -46062,8 +46035,8 @@ export const CATALOG = [
       ro: ['hrib cu picior frumos'],
       ru: ["болет красивоножковый","боровик несъедобный"],
       uk: ["боровик гарний"],
-      pl: ["borowik żółtopory"],
-      it: ["boleto dal piede rosso e giallo"]
+      it: ["boleto dal piede rosso e giallo"],
+      pl: ["borowik żółtopory"]
     },
     text: {
       tr: {
@@ -46327,18 +46300,6 @@ export const CATALOG = [
       confusion: "Боровик укорінений (Caloboletus radicans) має білувату ніжку майже без червоного кольору й росте в теплих дібровах. Чортів гриб (Rubroboletus satanas) має червоні пори й червону сіточку на ніжці.",
       notes: "Гіркий смак обумовлений вмістом специфічних сесквітерпенів калопіну та циклокалопіну."
     },
-    pl: {
-      description: "Grzyb ektomikoryzowy lasów iglastych i liściastych, głównie pod świerkami, jodłami i bukami na glebach kwaśnych i wapiennych. Występuje w całej Europie.",
-      cap: "Kapelusz ma 3–20 cm średnicy (niekiedy do 25 cm). Za młodu jest półkolisty, później poduszkowato wypukły. Skórka ma barwę popielatoszarą, oliwkowoszarą do jasnobeżowej, jest sucha, zamszowata, z wiekiem gładka.",
-      hymenium: "Rurki mają 3–20 mm długości, są wycięte przy trzonie, cytrynowożółte, z wiekiem oliwkowożółte. Pory są drobne, okrągłe, początkowo jasnożółte, po dotknięciu natychmiast błękitniejące.",
-      stipe: "Trzon ma 3–15 cm długości i 1–5 cm grubości, za młodu beczułkowaty, później cylindryczny lub maczugowaty. U góry jest cytrynowożółty, w środkowej i dolnej części jaskrawo karminowoczerwony do purpurowoczerwonego, pokryty wyraźną białawą do żółtawej siateczką.",
-      flesh: "Miąższ jest białawy do bladożółtego, w podstawie trzonu często brudnoczerwonawy, po przekrojeniu powoli błękitnieje, zwłaszcza nad rurkami. Zapach jest słaby, a smak natychmiast i intensywnie gorzki.",
-      sporePrint: "Oliwkowobrązowy. Zarodniki są gładkie, wrzecionowate do elipsoidalnych, o wymiarach około 11–16 × 4,5–6 μm.",
-      habitat: "Owocniki pojawiają się od czerwca do października, najczęściej w górskich lasach świerkowych i bukowych.",
-      uses: "Niejadalny z powodu trwałej, silnej goryczy, która nie znika po ugotowaniu. Może powodować lekkie podrażnienia żołądkowe.",
-      confusion: "Gorzkoborowik korzeniasty (Caloboletus radicans) ma kapelusz białawy, żółty trzon z bardzo słabym czerwonym odcieniem lub bez czerwieni i zaostrzoną, korzeniastą podstawę. Krwistoborowik szatański (Rubroboletus satanas) ma krwistoczerwone pory i rośnie w ciepłych lasach liściastych.",
-      notes: "Gorzki smak pochodzi głównie z kalopiny i pochodnych cyklokalopiny. Ocena z 2019 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern)."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi montani di conifere (abete bianco, abete rosso) e latifoglie (faggio). È ampiamente diffuso in Europa su terreni silicei e calcarei.",
       cap: "Il cappello misura solitamente 3–20 cm di diametro (talvolta fino a 25 cm). È molto carnoso, emisferico poi convesso e spianato, con cuticola asciutta, opaca e finemente vellutata, di colore grigio cenere, beige chiaro o bruno-grigio.",
@@ -46374,6 +46335,17 @@ export const CATALOG = [
       uses: "La cuisson n'élimine pas l'amertume, et un seul sporophore peut gâcher un plat. Certaines personnes développent des troubles gastro-intestinaux après l'avoir consommé. Des sporophores ont été consommés dans l'Extrême-Orient russe et en Ukraine.",
       confusion: "Le bolet radicant (Caloboletus radicans) présente peu ou pas de rouge sur le pied, un réseau plus faible et une base radicante, et il pousse dans les forêts de feuillus chaudes et calcaires. Caloboletus kluzakii possède également beaucoup moins de rouge sur un pied jaune ainsi qu'un réseau plus faible, et il pousse avec des arbres feuillus sur sol calcaire. Caloboletus polygonius est plus méridional, pousse dans les forêts de feuillus calcaires, a un pied moins réticulé et sa chair ne réagit pas dans le réactif de Melzer. Le bolet satan (Rubroboletus satanas) a des orifices de pores rouges. Le bolet blafard (Suillellus luridus) a un chapeau plus sombre, des pores qui deviennent orange à rouge orangé et une chair rouge orangé dans la base du pied, et sa chair bleuit immédiatement. Le bolet à pied rouge (Neoboletus luridiformis) a des tubes rouges. Le bolet à chair jaune (Xerocomellus chrysenteron) a un pied dépourvu de réseau. D'autres espèces de Xerocomellus sont plus petites, plus molles et plus élancées, avec un chapeau brun et une chair qui n'est pas amère. Le cèpe de Bordeaux (Boletus edulis) n'a pas de rouge sur le pied et ses pores ne virent pas au bleu. Caloboletus rubripes, de l'ouest de l'Amérique du Nord, est amer et possède un chapeau similaire ainsi que des pores jaunes qui bleuissent au froissement, mais son pied rougeâtre n'a pas de réseau. Caloboletus inedulis est plus petit et possède un chapeau blanc à blanc grisâtre. Caloboletus roseipes pousse avec la pruche. Caloboletus firmus a des pores rouges et aucun réseau sur le pied.",
       notes: "La saveur amère provient en grande partie de la calopine et de la O-acétylcyclocalopine A. Les sporophores contiennent également des dérivés de l'acide pulvinique : l'acide atromentique, l'acide variégatique et l'acide xérocomique, qui ont inhibé les enzymes du cytochrome P450 lors de tests en laboratoire. Les principaux composés volatils sont la 3-octanone, le 3-octanol, le 1-octén-3-ol et le limonène. Une comparaison de récoltes européennes et nord-américaines a conclu que la forme typique n'est pas présente aux États-Unis, bien que plusieurs guides de terrain nord-américains continuent de l'inclure. Dans le Nord-Ouest Pacifique, les récoltes à pied rouge séquencées jusqu'à présent correspondaient à Caloboletus rubripes plutôt qu'à cette espèce."
+    },
+    pl: {
+      description: "Grzyb ektomikoryzowy lasów iglastych i liściastych, najczęściej spotykany w górach i na pogórzach pod świerkiem, jodłą i bukiem. Szeroko rozprzestrzeniony w Europie.",
+      cap: "Kapelusz ma 3–20 cm średnicy (niekiedy do 25 cm), początkowo jest półkulisty z długo podwiniętym brzegiem, później wypukły do poduchowatego. Barwa jest popielatoszara, jasnobrązowa do oliwkowoszarej. Skórka jest sucha, matowa, zamszowa, z wiekiem bywa spękana.",
+      hymenium: "Rurki mają 3–20 mm długości, są cytrynowożółte do oliwkowożółtych, po uszkodzeniu natychmiast błękitnieją. Pory są drobne, okrągłe, jaskrawo cytrynowożółte, pod naciskiem intensywnie siniejące.",
+      stipe: "Trzon ma 3–15 cm długości i 1–5 cm grubości, jest maczugowaty lub beczułkowaty. W górnej części jest cytrynowożółty, w środku i na dole karminowoczerwony do purpurowoczerwonego, pokryty wyraźną białawą lub żółtawą siateczką. Po dotknięciu błękitnieje.",
+      flesh: "Miąższ jest białawy do kremowego, w podstawie trzonu czerwonawy, po przekrojeniu natychmiast sinieje (błękitnieje). Zapach jest słaby, a smak początkowo łagodny, po chwili niezwykle gorzki.",
+      sporePrint: "Oliwkowobrązowy. Zarodniki są gładkie, wrzecionowate, o wymiarach 12–16 × 4–6 μm.",
+      habitat: "Owocniki pojawiają się od czerwca do października, głównie w lasach górskich na glebach kwaśnych pod świerkami i bukami.",
+      uses: "Grzyb niejadalny z powodu bardzo gorzkiego smaku, który nie ustępuje po ugotowaniu; może powodować dolegliwości żołądkowo-jelitowe.",
+      confusion: "Krwistoborowik szatański (Rubroboletus satanas) ma pory jaskrawoczerwone, a nie cytrynowożółte. Krasnoborowik ceglastopory (Neoboletus luridiformis) ma ciemnobrązowy kapelusz i czerwone pory."
     }
     },
     sources: {
@@ -46711,18 +46683,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D0%BA_%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D0%BE%D0%BD%D1%96%D0%B6%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Gorzkoborowik_żółtopory"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -46762,6 +46722,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Gorzkoborowik_żółtopory"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -46875,10 +46847,10 @@ export const CATALOG = [
       bg: 'кадифена манатарка',
       ru: "моховик зелёный",
       uk: "моховик зелений",
-      pl: "podgrzybek zajączek",
       it: "boleto subtomentoso",
       hu: "molyhos tinóru",
-      fr: "bolet subtomenteux"
+      fr: "bolet subtomenteux",
+      pl: "podgrzybek zajączek"
     },
     names: {
       en: [
@@ -47153,18 +47125,6 @@ export const CATALOG = [
       confusion: "Моховик іржавий (Xerocomus ferrugineus) має світліший незмінний м'якуш і росте переважно під хвойними деревами.",
       notes: "У мікологічній літературі тривалий час змішувався з іншими спорідненими видами моховиків."
     },
-    pl: {
-      description: "Grzyb ektomikoryzowy lasów liściastych i mieszanych, szczególnie pod dębami. Pospolity w Europie.",
-      cap: "Kapelusz ma 3–12 cm średnicy (rzadko do 20 cm). Za młodu jest półkolisty, potem poduszkowaty. Skórka ma barwę żółtobrązową, oliwkowobrązową do płowobrązowej, jest sucha, wyraźnie zamszowa lub pilśniowa, podczas suszy niekiedy spękana.",
-      hymenium: "Rurki mają 5–15 mm długości, są przyrośnięte lub lekko zbiegające na trzon, jaskrawożółte do oliwkowożółtych. Pory są szerokie, kanciaste, nieregularne, żółte, pod naciskiem słabo i powoli błękitniejące lub niezmieniające barwy.",
-      stipe: "Trzon ma 3–10 cm wysokości i 1–2,5 cm grubości, jest cylindryczny, często wygięty, u podstawy zwężony. Barwa jest żółtawa, z rdzawobrązowymi podłużnymi prążkami lub nieregularną siateczką rzekomą.",
-      flesh: "Miąższ jest białawy do żółtawego, w podstawie trzonu różowawobrązowy, po przekrojeniu nie zmienia barwy lub bardzo słabo błękitnieje nad rurkami. Zapach jest słaby, grzybowy, a smak łagodny.",
-      sporePrint: "Oliwkowobrązowy. Zarodniki są wrzecionowato-elipsoidalne, gładkie, o wymiarach około 10–14 × 4–5,5 μm.",
-      habitat: "Owocniki pojawiają się od czerwca do października w lasach liściastych i mieszanych, głównie pod dębami i bukami.",
-      uses: "Grzyb jadalny średniej jakości. Skórka kapelusza bywa miękka i gąbczasta, dlatego najlepiej nadaje się do dań mieszanych, sosów i suszenia.",
-      confusion: "Podgrzybek żeberkowany (Xerocomus ferrugineus) ma miąższ białawy, niezmieniający barwy również w podstawie trzonu, żółtą grzybnię u podstawy i rośnie częściej pod drzewami iglastymi. Podgrzyb brunatny (Imleria badia) ma ciemnobrązowy kapelusz i pory natychmiast ciemnosiniejące.",
-      notes: "Dawniej w Europie mylony z Xerocomus ferrugineus; współczesne badania genetyczne rozdzielają te taksony."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi di latifoglie (specialmente querce, castagni e faggi) e misti. È ampiamente diffuso in tutta Europa.",
       cap: "Il cappello misura solitamente 3–12 cm di diametro (eccezionalmente fino a 15–18 cm). È convesso poi appianato a cuscinetto. La cuticola è tipicamente tomentosa o finemente vellutata, di colore bruno-oliva, giallo-camoscio o bruno-giallastro.",
@@ -47200,6 +47160,17 @@ export const CATALOG = [
       uses: "Il est comestible et convient dans les plats mélangés, et il peut être séché. Il n'est pas très réputé. La peau du chapeau est parfois amère, et la base coriace des pieds plus âgés est laissée de côté.",
       confusion: "Le bolet ferrugineux (Xerocomus ferrugineus) a une chair blanchâtre et immuable, y compris dans la base du pied, un mycélium basal jaune et des pores qui sont olive même lorsqu'ils sont jeunes. Il pousse principalement avec des conifères, ou avec le hêtre, le bouleau et le saule, et non avec le chêne. Xerocomus chrysonemus a une chair jaune vif dans la base du pied et un mycélium basal jaune, et sa chair ne bleuit habituellement pas. Xerocomus silwoodensis a un chapeau brun rougeâtre plus foncé, pousse avec Populus et possède une chair blanchâtre qui devient jaunâtre à l'air. Le bolet à chair jaune (Xerocomellus chrysenteron) se craquelle en laissant apparaître une chair rose ou rouge, est souvent plus petit et plus mou, et possède un pied rougeâtre qui n'est généralement pas atténué. Le bolet de Moravie (Aureoboletus moravicus) a une odeur d'aneth et de noix de coco, présente une ligne brune au-dessus des tubes et ne bleuit pas. Le bolet bai (Imleria badia) a un chapeau plus foncé, bleuit plus fortement et est visqueux ou collant à l'état humide. Les formes à chapeau rouge se séparent du groupe gravitant autour du bolet rubicond (Xerocomellus rubellus) par la chair rosâtre ou brun rosâtre dans la base du pied et par les cellules de la cuticule du chapeau qui sont faiblement incrustées ou lisses.",
       notes: "Il a longtemps été confondu en Europe avec Xerocomus ferrugineus, et les découvertes à distance du chêne sont désormais traitées comme peu fiables et probables de cette espèce. Une analyse menée en 2012 sur des chapeaux provenant de la forêt de Noteć, dans l'ouest de la Pologne, a révélé une abondance de potassium, de phosphore et de magnésium, avec des valeurs moyennes de 46 000, 8 400 et 1 100 mg/kg de matière sèche, et a constaté que le cadmium, le mercure et le plomb ne représentaient pas une menace pour le consommateur."
+    },
+    pl: {
+      description: "Grzyb ektomikoryzowy lasów liściastych i iglastych, rosnący głównie pod dębami, bukami, sosnami i świerkami. Szeroko rozprzestrzeniony w Europie i strefie umiarkowanej półkuli północnej.",
+      cap: "Kapelusz ma 4–12 cm średnicy, początkowo jest półkulisty, z wiekiem wypukły do spłaszczonego. Barwa jest żółtobrązowa, oliwkowobrązowa do ochrowej. Skórka jest sucha, wyraźnie zamszowa lub aksamitna, z wiekiem często drobno spękana.",
+      hymenium: "Rurki są przyrośnięte lub lekko zbiegające na trzon, mają 1–2 cm długości, są jaskrawożółte do oliwkowożółtych. Pory są duże, kanciaste, jaskrawo cytrynowożółte do złocistożółtych, po ugnieceniu powoli i słabo błękitniejące lub niezmieniające barwy.",
+      stipe: "Trzon ma 4–10 cm długości i 1–2,5 cm grubości, jest smukły, cylindryczny, często wygięty i zwężony ku dołowi, żółtawy z brązowawymi podłużnymi pręgami lub żebrowaniem (bez regularnej siateczki).",
+      flesh: "Miąższ jest białawy do jasnożółtego, w kapeluszu miękki, po przekrojeniu nie sinieje lub sinieje bardzo słabo w kapeluszu. Zapach i smak są przyjemne, słabe.",
+      sporePrint: "Oliwkowobrązowy. Zarodniki są gładkie, elipsoidalno-wrzecionowate, o wymiarach 10–14 × 4–5 μm.",
+      habitat: "Owocniki pojawiają się od czerwca do listopada w widnych lasach liściastych, iglastych i parkach.",
+      uses: "Dobry grzyb jadalny, choć mniej ceniony od podgrzyba brunatnego ze względu na bardziej miękki i gąbczasty miąższ. Nadaje się do zup, sosów i duszenia.",
+      confusion: "Podgrzyb brunatny (Imleria badia) ma ciemnobrązowy kapelusz i pory natychmiast ciemnoniebiesko siniejące po dotknięciu. Suchogrzybek złotopory (Xerocomellus chrysenteron) ma czerwonawe pęknięcia na kapeluszu i czerwonawy miąższ pod skórką."
     }
     },
     sources: {
@@ -47507,18 +47478,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%9C%D0%BE%D1%85%D0%BE%D0%B2%D0%B8%D0%BA_%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Podgrzybek_zajączek"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -47558,6 +47517,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Podgrzybek_zajączek"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -47685,10 +47656,10 @@ export const CATALOG = [
       ro: 'pitărcuță',
       ru: "подосиновик желто-бурый",
       uk: "підосиковик жовто-бурий",
-      pl: "koźlarz pomarańczowożółty",
       it: "leccino arancione",
       hu: "kormostönkű érdestinóru",
-      fr: "bolet roux"
+      fr: "bolet roux",
+      pl: "koźlarz pomarańczowożółty"
     },
     names: {
       en: ["dark-stalked bolete"],
@@ -47960,18 +47931,6 @@ export const CATALOG = [
       confusion: "Підберезовик (Leccinum scabrum) також росте з березою, але має коричневу або сіру шапинку й незмінний білий м'якуш.",
       notes: "Один із найпопулярніших збираних грибів у скандинавських та північноєвропейських країнах."
     },
-    pl: {
-      description: "Grzyb ektomikoryzowy związany wyłącznie z brzozami (Betula). Pospolity w północnej i środkowej Europie.",
-      cap: "Kapelusz ma 4–20 cm średnicy. Za młodu jest półkolisty, później poduszkowato wypukły. Skórka ma barwę żółtopomarańczową, morelową do czerwonopomarańczowej, suchą, filcowatą, na brzegu z charakterystycznymi zwisającymi, trójkątnymi płatkami błoniastej krawędzi.",
-      hymenium: "Rurki mają 8–25 mm długości, są głęboko wycięte wokół trzonu, szarobiałe do szarobrązowych. Pory są drobne, szare do brudnobeżowych.",
-      stipe: "Trzon ma 8–22 cm wysokości i 2–5 cm grubości, jest cylindryczny, mocny, białawy, od samego początku gęsto pokryty drobnymi, czarnymi lub szaroczarnymi łuseczkami.",
-      flesh: "Miąższ jest biały, gruby, jędrny. Po przekrojeniu natychmiast różowieje lub fioletowieje, w podstawie trzonu staje się niebieskozielony, a po pewnym czasie ciemnieje do szaroczarnego. Zapach i smak są przyjemne.",
-      sporePrint: "Ochrowobrązowy do oliwkowobrązowego. Zarodniki są wrzecionowate, gładkie, o wymiarach około 12,5–16 × 4–5 μm.",
-      habitat: "Owocniki pojawiają się od maja do października pod brzozami na wrzosowiskach, w borach mieszanych i zagajnikach.",
-      uses: "Bardzo smaczny grzyb jadalny po dokładnej obróbce cieplnej. Na surowo może powodować zaburzenia trawienne. Podczas gotowania silnie ciemnieje.",
-      confusion: "Koźlarz babka (Leccinum scabrum) ma kapelusz brązowy i miąższ niezmieniający barwy po przekrojeniu. Koźlarz czerwony (Leccinum aurantiacum) rośnie pod dębami i ma za młodu rdzawe łuseczki na trzonie.",
-      notes: "Analizy DNA wykazują, że taksony opisywane dawniej jako Leccinum percandidum i Leccinum roseotinctum należą do tego samego gatunku."
-    },
     it: {
       description: "Un fungo ectomicorrizico legato in modo esclusivo alla betulla. È comune nelle brughiere, torbiere e boschi di betulla dell'Europa settentrionale e centrale.",
       cap: "Il cappello misura 4–20 cm di diametro. È emisferico poi convesso a cuscinetto, carnoso, di un caratteristico colore arancio-rossastro vivo, fulvo-aranciato o mattone, con cuticola debordante al margine in sottili lobi membranosi.",
@@ -48007,6 +47966,17 @@ export const CATALOG = [
       uses: "Les sporophores jeunes et fermes constituent un bon champignon comestible lorsqu'ils sont parfaitement cuits, bien qu'un cèpe offre une meilleure saveur et une texture supérieure. Les sporophores crus ou insuffisamment cuits peuvent provoquer des nausées et des vomissements, si bien qu'ils nécessitent d'être frits ou bouillis pendant 15–20 minutes. La chair noircit à la cuisson. Il est récolté pour l'alimentation en Finlande, en Lettonie, en Lituanie, en Estonie, en Biélorussie, dans le sud-est de l'Alaska et en Russie, et en Tchéquie il est vendu sur les marchés.",
       confusion: "Le bolet rude (Leccinum scabrum) pousse également avec le bouleau. Il possède un chapeau brun, et la chair de son pied ne présente pas de changement de couleur marqué à la coupe. Le bolet orangé (Leccinum albostipitatum) pousse avec le tremble. Son pied reste blanc jusqu'à un stade avancé de la maturité, et les orifices des pores sont blanchâtres dans leur très jeune âge. Le bolet orangé des chênes (Leccinum aurantiacum) pousse habituellement avec le chêne ou le tremble, présente des écailles rougeâtres sur le pied, et possède de même des orifices de pores blanchâtres dans le jeune âge. Le bolet rude de l'épicéa (Leccinum piceinum) pousse avec l'épicéa, et le bolet rude du pin (Leccinum vulpinum) pousse avec le pin. Leurs mèches sur le pied sont brunes plutôt que noires.",
       notes: "À la suite d'analyses génétiques (ADN), de nombreuses descriptions traitent Leccinum cerinum, Leccinum percandidum et Leccinum roseotinctum comme des formes colorées de cette espèce. Une évaluation de 2025 la classe dans la catégorie « préoccupation mineure » (Least Concern). Elle possède une large aire de répartition et une population importante et stable, et aucune menace majeure n'est identifiée."
+    },
+    pl: {
+      description: "Grzyb ektomikoryzowy żyjący w ścisłej symbiozie z brzozami (Betula) na kwaśnych i piaszczystych glebach oraz torfowiskach. Pospolity w strefie borealnej i umiarkowanej Europy i Azji.",
+      cap: "Kapelusz ma 6–20 cm średnicy, początkowo jest półkulisty, później wypukły do poduchowatego. Barwa jest żółtopomarańczowa, rdzawopomarańczowa do ceglastożółtej. Skórka jest sucha, filcowata do zamszowej, a brzeg kapelusza ma wyraźną odstającą błonkę zachodzącą na rurki.",
+      hymenium: "Rurki są głęboko wycięte przy trzonie, mają 1–2,5 cm długości, są białawe do szarawych. Pory są drobne, okrągłe, szaroochrowe, pod naciskiem brązowiejące lub fioletowoczarne.",
+      stipe: "Trzon ma 8–20 cm długości i 2–4 cm grubości, jest mocny, zwężający się ku górze, białawy, od samego początku gęsto pokryty drobnymi, czarnymi lub ciemnoszarobrązowymi łuseczkami.",
+      flesh: "Miąższ jest biały, gruby i jędrny. Po przekrojeniu początkowo zmienia barwę na fioletowoszarą lub winnoróżową, a w podstawie trzonu często niebieskozieloną, po czym w całości ciemnieje do czarnofioletowego. Zapach i smak są przyjemne.",
+      sporePrint: "Oliwkowobrązowy. Zarodniki są gładkie, wrzecionowate, o wymiarach 12–16 × 4–5 μm.",
+      habitat: "Owocniki pojawiają się od czerwca do października wyłącznie pod brzozami w lasach, na wrzosowiskach i torfowiskach.",
+      uses: "Bardzo smaczny grzyb jadalny po dokładnej obróbce termicznej. W kuchni wykorzystuje się głównie kapelusze; czernienie miąższu przy gotowaniu jest cechą naturalną.",
+      confusion: "Koźlarz czerwony (Leccinum aurantiacum) rośnie pod dębami i ma początkowo czerwonobrązowe łuseczki na trzonie. Koźlarz białotrzonowy (Leccinum albostipitatum) rośnie pod osikami i ma białe łuseczki na trzonie u młodych owocników."
     }
     },
     sources: {
@@ -48301,18 +48271,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%9F%D1%96%D0%B4%D0%BE%D1%81%D0%B8%D0%BA%D0%BE%D0%B2%D0%B8%D0%BA_%D1%86%D0%B5%D0%B3%D0%BB%D1%8F%D1%81%D1%82%D0%BE-%D0%B6%D0%BE%D0%B2%D1%82%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Koźlarz_pomarańczowożółty"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -48352,6 +48310,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Koźlarz_pomarańczowożółty"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -48473,10 +48443,10 @@ export const CATALOG = [
       ro: 'pitărcuță dură',
       ru: "подберёзовик твердоватый",
       uk: "підберезовик твердуватий",
-      pl: "koźlarz topolowy",
       it: "porcinello grigio dei pioppi",
       hu: "nyárfa-érdestinóru",
-      fr: "bolet rude des peupliers"
+      fr: "bolet rude des peupliers",
+      pl: "koźlarz topolowy"
     },
     names: { es: ['boleto de los chopos', 'faisán'],
       ru: ["обабок твердоватый"],
@@ -48747,18 +48717,6 @@ export const CATALOG = [
       confusion: "Підберезовик (Leccinum scabrum) росте під березою, має м'якуш, який не змінює забарвлення на зрізі, і швидко стає губчастим.",
       notes: "Оцінка 2025 року відносить вид до категорії в найменшій загрозі (Least Concern)."
     },
-    pl: {
-      description: "Grzyb ektomikoryzowy związany z topolami, zwłaszcza topolą białą (Populus alba) i osiką (Populus tremula). Występuje w umiarkowanej strefie Europy.",
-      cap: "Kapelusz ma 4–16 cm średnicy (niekiedy do 20 cm). Za młodu jest półkolisty, później poduszkowaty. Skórka ma barwę szarobrązową, ochrowobrązową do ciemnobrązowej, początkowo aksamitną, w stanie wilgotnym lekko lepką.",
-      hymenium: "Rurki mają długość 1–3 cm, są wycięte przy trzonie, białawe do kremowoszarych. Pory są drobne, jasnokremowe, z wiekiem brudnoszare, po ugnieceniu powoli brązowiejące.",
-      stipe: "Trzon ma 5–20 cm długości i 1,5–4 cm grubości, jest mocny, twardy, cylindryczny lub wybrzuszony, białawy, pokryty drobnymi, gęstymi brązowoczarnymi łuseczkami. U podstawy trzonu widoczne są często zielononiebieskie plamy.",
-      flesh: "Miąższ jest biały, bardzo twardy i zwarty (znacznie twardszy niż u innych koźlarzy). Po przekrojeniu w kapeluszu różowieje, a w podstawie trzonu wyraźnie błękitnieje lub zielenieje, z czasem ciemniejąc do szaroczarnego. Zapach i smak są przyjemne.",
-      sporePrint: "Oliwkowobrązowy. Zarodniki są wrzecionowato-elipsoidalne, gładkie, o wymiarach około 12,5–16,5 × 4,5–6 μm.",
-      habitat: "Owocniki pojawiają się od czerwca do października pod topolami białymi i osikami w parkach, przydrożach i zagajnikach.",
-      uses: "Wyborny grzyb jadalny po obróbce cieplnej. Ze względu na wyjątkowo twardy i jędrny miąższ jest uznawany za jeden z najwartościowszych gatunków rodzaju Leccinum.",
-      confusion: "Koźlarz babka (Leccinum scabrum) rośnie pod brzozami i ma miękki, wodnisty miąższ, który nie błękitnieje w trzonie.",
-      notes: "Ocena z 2025 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern)."
-    },
     it: {
       description: "Un fungo ectomicorrizico associato ai pioppi, in particolare al pioppo bianco (Populus alba) e al pioppo tremulo (Populus tremula). È diffuso in tutta l'Europa temperata.",
       cap: "Il cappello misura solitamente 4–16 cm di diametro (talvolta fino a 20 cm). È emisferico poi convesso, carnoso e compatto, di colore bruno-grigiastro, bruno-fuliggine o nocciola scuro, con cuticola finemente tomentosa poi liscia col tempo umido.",
@@ -48794,6 +48752,17 @@ export const CATALOG = [
       uses: "C'est un bon champignon comestible lorsqu'il est bien cuit, apprécié pour sa chair ferme qui ramollit moins que celle de nombreux autres bolets rudes. La chair noircit à la cuisson. Comme pour d'autres espèces du genre Leccinum, une cuisson complète est nécessaire, car les spécimens crus ou insuffisamment cuits peuvent provoquer des troubles digestifs.",
       confusion: "Le bolet rude (Leccinum scabrum) pousse avec le bouleau. Sa chair reste blanche ou ne devient que très faiblement rosée, et la base du pied ne vire pas au bleu-vert. Le bolet rude des charmes (Leccinum pseudoscabrum) pousse avec le charme et le noisetier ; son chapeau est bosselé ou martelé et sa chair noircit rapidement sans coloration rose préalable bien marquée. Le bolet roux (Leccinum versipelle) a un chapeau orange vif à roux et pousse sous les bouleaux. Le bolet orangé (Leccinum albostipitatum) a également un chapeau orange vif.",
       notes: "Une évaluation de 2025 le classe dans la catégorie « préoccupation mineure » (Least Concern). Il possède une large distribution et une population importante et stable, et aucune menace majeure n'est identifiée. En Grande-Bretagne et en Irlande, il est peu fréquent, surtout méridional et sud-oriental, et il est suffisamment rare pour que sa récolte soit déconseillée. En Slovaquie, il est très rare, bien que régulier sur ses stations. En Tchéquie, il a longtemps été considéré comme peu commun et a été trouvé plus souvent au cours des dernières décennies. Autour de Novossibirsk, il fructifie sous des peupliers blancs plantés dans un bois mixte de bouleaux."
+    },
+    pl: {
+      description: "Grzyb ektomikoryzowy związany ściśle z topolami, zwłaszcza z osiką (Populus tremula) i topolą białą (Populus alba). Występuje w Europie w lasach liściastych, parkach i alejach topolowych.",
+      cap: "Kapelusz ma 5–15 cm średnicy, początkowo jest półkulisty, z wiekiem wypukły do poduchowatego. Barwa jest szarobrązowa, ochrowobrązowa do ciemnobrązowej. Skórka jest sucha, matowa, zamszowa, z wiekiem gładka.",
+      hymenium: "Rurki są głęboko wycięte przy trzonie, mają 1–2,5 cm długości, są początkowo kremowobiałe, z wiekiem brudnoszare. Pory są drobne, białawe, po ugnieceniu powoli brązowiejące.",
+      stipe: "Trzon ma 7–16 cm długości i 1,5–3,5 cm grubości, jest cylindryczny lub wrzecionowaty, białawy, pokryty gęstymi, podłużnie ułożonymi ciemnobrązowymi do czarniawych łuseczkami. W podstawie trzonu często występuje charakterystyczna niebieskozielona plama.",
+      flesh: "Miąższ jest biały, wyjątkowo gruby, twardy i jędrny (stąd łacińska nazwa duriusculum – twardawy). Po przekrojeniu w kapeluszu różowieje lub fioletowieje, w podstawie trzonu barwi się na niebieskozielono, po czym powoli czernieje. Zapach i smak są przyjemne.",
+      sporePrint: "Oliwkowobrązowy. Zarodniki są gładkie, wrzecionowate, o wymiarach 13–17 × 4,5–6 μm.",
+      habitat: "Owocniki pojawiają się od lipca do października pod osikami i topolami na glebach gliniastych i wapiennych.",
+      uses: "Wyborny grzyb jadalny, wysoko ceniony za wyjątkowo twardy i zwarty miąższ, który rzadko bywa zarobaczony. Doskonały do smażenia, duszenia i marynowania.",
+      confusion: "Koźlarz babka (Leccinum scabrum) rośnie pod brzozami, ma miękki miąższ niezmieniający barwy i trzon bez niebieskozielonych plam u podstawy."
     }
     },
     sources: {
@@ -49114,18 +49083,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%9F%D1%96%D0%B4%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%BE%D0%B2%D0%B8%D0%BA_%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D1%83%D0%B2%D0%B0%D1%82%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Koźlarz_topolowy"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -49165,6 +49122,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Koźlarz_topolowy"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -49268,10 +49237,10 @@ export const CATALOG = [
       ro: 'aripi de înger',
       ru: "плевроцибелла вытянутая",
       uk: "плевроцибела витягнута",
-      pl: "bokówka biała",
       it: "orecchietta d'angelo",
       hu: "hegyi laskagomba",
-      fr: "pleurote étalé"
+      fr: "pleurote étalé",
+      pl: "bokówka biała"
     },
     names: {
       en: ["angel wing"],
@@ -49543,18 +49512,6 @@ export const CATALOG = [
       confusion: "Глива звичайна (Pleurotus ostreatus) та глива легенева (Pleurotus pulmonarius) значно товщі й м'ясистіші та ростуть на листяній деревині.",
       notes: "Спалах у Японії призвів до смерті 17 осіб від гострого ураження мозку."
     },
-    pl: {
-      description: "Nadrzewny grzyb saprotroficzny rozwijający się na butwiejącym drewnie drzew iglastych, szczególnie świerków, jodeł i choin. Występuje w chłodniejszych rejonach półkuli północnej.",
-      cap: "Owocnik ma 2–10 cm szerokości, jest beztrzonowy, cienki, muszlowaty, nerkowaty lub łopatkowaty. Barwa jest czysto śnieżnobiała, kości słoniowej, z wiekiem nieco żółknąca. Powierzchnia jest gładka, jedwabista.",
-      hymenium: "Blaszki są gęste, wąskie, promieniste, czysto białe, schodzące ku nasadzie owocnika.",
-      stipe: "Brak trzonu; owocnik przyrasta bokiem bezpośrednio do drewna.",
-      flesh: "Miąższ jest cienki, miękki, elastyczny, czysto biały. Zapach i smak są słabe, niewyraźne.",
-      sporePrint: "Biały. Zarodniki są kuliste do niemal kulistych, gładkie, o wymiarach około 5,5–7 × 5–6 μm, nieamyloidalne.",
-      habitat: "Owocniki pojawiają się od sierpnia do listopada na omszałych, butwiejących kłodach i pniakach drzew iglastych w wilgotnych lasach górskich i borach.",
-      uses: "Śmiertelnie trujący. Dawniej bywał uważany w niektórych krajach (np. w Japonii) za grzyb jadalny, lecz w 2004 roku spowodował serię śmiertelnych encefalopatii (ostrego uszkodzenia mózgu) u dziesiątek osób, zwłaszcza z przewlekłą niewydolnością nerek. Zawiera neurotoksyczną pleurocybelinę.",
-      confusion: "Boczniak ostrygowaty (Pleurotus ostreatus) rośnie na drzewach liściastych, ma grubszy, mięsisty miąższ i barwę szarą do stalowobrązowej. Ciemnoboczka biała (Pleurotellus chioneus) tworzy znacznie mniejsze owocniki.",
-      notes: "W Polsce gatunek rzadki, podlegający ochronie ścisłej."
-    },
     it: {
       description: "Un fungo lignicolo saprotrofo che causa marciume bianco su ceppaie e tronchi marcescenti di conifere (soprattutto abete rosso, abete bianco e pino). È presente nelle foreste montane temperate e boreali dell'emisfero settentrionale.",
       cap: "Il cappello misura 2–10 cm di larghezza, molto sottile ed esile. Ha forma di conchiglia, lingua, orecchio o ventaglio disteso, di un puro colore bianco candido, traslucido da giovane, con margine sottile e ondulato.",
@@ -49590,6 +49547,17 @@ export const CATALOG = [
       uses: "Les guides anciens le répertoriaient comme comestible, bien que la chair soit mince et la saveur fade ou douce. À la suite d'encéphalopathies mortelles au Japon, survenues principalement chez des personnes souffrant d'insuffisance rénale, il est désormais considéré comme dangereux et mortel.",
       confusion: "Le pleurote en huître (Pleurotus ostreatus) et le pleurote pulmonaire (Pleurotus pulmonarius) ont une chair plus épaisse et poussent généralement sur le bois de feuillus. Leurs spores sont allongées, subcylindriques à réniformes, et la sporée de Pleurotus ostreatus peut être faiblement lilas. Le pleurote doux (Panellus mitis) possède un pied distinct. Les espèces de Crepidotus ont des sporophores plus petits et laissent une sporée brune. Le genre Hohenbuehelia présente un pied court mais distinct.",
       notes: "En septembre et octobre 2004, 59 personnes réparties dans neuf préfectures japonaises ont développé une encéphalopathie aiguë après en avoir consommé, et 17 sont décédées. La plupart des personnes décédées souffraient d'une maladie rénale, et leur âge moyen était d'environ 70 ans. Les symptômes ont débuté dans les trois semaines suivant le repas, et le décès est survenu 13 à 29 jours après le début des symptômes. Un autre décès, en 2009, concernait une personne sous hémodialyse. La cause exacte n'est pas définitivement tranchée. Les sporophores contiennent un acide aminé instable, la pleurocybellaziridine, qui est toxique pour les cellules cérébrales de rat en culture. Une hypothèse avance qu'une glycoprotéine et une lectine agissent conjointement pour endommager la barrière hémato-encéphalique et permettre à cet acide aminé d'atteindre le cerveau, ces trois substances ne provoquant de lésions qu'en association. Une évaluation polonaise considère l'espèce comme vulnérable."
+    },
+    pl: {
+      description: "Nadrzewny grzyb saprotroficzny rozwijający się na silnie zmurszałym drewnie drzew iglastych, zwłaszcza świerka i jodły, w wilgotnych lasach górskich i borealnych. Rozprzestrzeniony w Europie Północnej, Azji i Ameryce Północnej.",
+      cap: "Kapelusz ma 2–8 cm szerokości, jest cienki, łopatkowaty, muszlowaty lub językowaty, czysto biały do kości słoniowej. Powierzchnia jest gładka, jedwabiście matowa, u nasady filcowata.",
+      hymenium: "Blaszki są bardzo gęste, wąskie, rozwidlające się, czysto białe do kremowych, głęboko zbiegające ku podstawie owocnika.",
+      stipe: "Brak trzonu lub trzon jest szczątkowy; kapelusz przyrasta bokiem bezpośrednio do zmurszałego pnia drewna iglastego.",
+      flesh: "Miąższ jest cienki, delikatny, czysto biały, bez wyraźnego zapachu i smaku.",
+      sporePrint: "Biały. Zarodniki są kuliste do prawie kulistych, gładkie, o wymiarach 5,5–7 × 5–6 μm, nieamyloidalne.",
+      habitat: "Owocniki pojawiają się od sierpnia do listopada w gęstych skupiskach na butwiejących kłodach i pniakach świerków oraz jodeł w cienistych lasach górskich.",
+      uses: "Grzyb trujący. Dawniej w Japonii uważany za jadalny, jednak w 2004 roku stał się przyczyną fali śmiertelnych zatruć z objawami ostrej encefalopatii (uszkodzenia mózgu) u osób z przewlekłą niewydolnością nerek. Zawiera toksyczne aminokwasy (m.in. pleurocybelinę). Odradza się jego zbieranie.",
+      confusion: "Boczniak ostrygowaty (Pleurotus ostreatus) jest znacznie większy, ma gruby, szarobrązowy lub stalowoszary kapelusz i rośnie na drewnie drzew liściastych."
     }
     },
     sources: {
@@ -49891,18 +49859,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B5%D0%B2%D1%80%D0%BE%D1%86%D0%B8%D0%B1%D0%B5%D0%BB%D0%B0_%D0%B2%D0%B8%D1%82%D1%8F%D0%B3%D0%BD%D1%83%D1%82%D0%B0"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Bokówka_biała"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -49942,6 +49898,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Bokówka_biała"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -50311,18 +50279,6 @@ export const CATALOG = [
       confusion: "Amanita ocreata (Amanita ocreata) поширена на тихоокеанському узбережжі Північної Америки, зазвичай кремезніша та має еліпсоїдні спори. Мухомор смердючий (Amanita virosa) має волохато-лускату ніжку та чотириспорові базидії. Бліда поганка (Amanita phalloides) має оливковий або зеленуватий відтінок шапинки.",
       notes: "Українська народна назва відсутня; показано наукову латинську назву. Характерною мікроскопічною ознакою є суворо двоспорові базидії."
     },
-    pl: {
-      description: "Grzyb ektomikoryzowy lasów liściastych i iglastych wschodniej części Ameryki Północnej, rosnący głównie pod dębami, bukami i sosnami.",
-      cap: "Kapelusz ma 2,5–10 cm średnicy (niekiedy do 14 cm). Początkowo jest jajowaty do półkolistego, później wypukły do rozpostartego. Barwa jest lśniąca, czysto śnieżnobiała, z wiekiem niekiedy kremowa na środku. Skórka w stanie wilgotnym jest lepka.",
-      hymenium: "Blaszki są wolne, gęste, czysto białe, nie zmieniające barwy z wiekiem.",
-      stipe: "Trzon ma 5–14 cm długości i 0,5–2 cm grubości, jest czysto biały, wysmukły, cylindryczny, ku dołowi bulwiasto rozszerzony. Posiada zwisający, cienki biały pierścień oraz workowatą białą pochwę u podstawy.",
-      flesh: "Miąższ jest czysto biały, nie zmieniający barwy po przekrojeniu, w reakcji z wodorotlenkiem potasu (KOH) natychmiast intensywnie żółknący. Zapach za młodu jest słaby, u starych okazów nieprzyjemny.",
-      sporePrint: "Biały. Zarodniki są gładkie, kuliste do szerokoelipsoidalnych, o wymiarach około 8–10 × 7–9 μm, amyloidalne. Podstawki są charakterystycznie dwuzarodnikowe.",
-      habitat: "Owocniki pojawiają się od lipca do października w lasach liściastych i mieszanych wschodniej części Ameryki Północnej.",
-      uses: "Śmiertelnie trujący. Zawiera zabójcze stężenia amatoksyn i fallotoksyn. Jeden owocnik zawiera dawkę śmiertelną dla dorosłego człowieka. Toksyn nie niszczy gotowanie ani mrożenie.",
-      confusion: "Białe pieczarki (Agaricus) mają blaszki różowe do czekoladowobrązowych i brak pochwy u podstawy trzonu. Europejski muchomor jadowity (Amanita virosa) ma podstawki czterozarodnikowe i kosmaty trzon.",
-      notes: "Północnoamerykański odpowiednik europejskiego muchomora jadowitego, znany jako «niszczący anioł» (destroying angel)."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi di latifoglie e misti del Nord America orientale, associato in particolare alle querce. È una delle specie mortali più pericolose del continente nordamericano, nota localmente come «angelo distruttore».",
       cap: "Il cappello misura 3–10 cm di diametro. Inizia ovoide o emisferico, poi convesso e spianato a maturità, interamente bianco candido e liscio, viscoso a tempo umido.",
@@ -50358,6 +50314,17 @@ export const CATALOG = [
       uses: "Il est mortellement toxique, et il est considéré comme le membre le plus toxique du genre en Amérique du Nord. Le sporophore contient des amatoxines, principalement l'alpha-amanitine, et la phallotoxine phallacidine, avec peu de variations d'un sporophore à l'autre. Un seul sporophore mature peut contenir une dose létale, et les toxines ne sont détruites ni par la cuisson, ni par la congélation, ni par le séchage.",
       confusion: "Amanita ocreata pousse dans l'ouest de l'Amérique du Nord, est habituellement plus trapue et possède des spores ellipsoïdes. Elle vire également au jaune avec l'hydroxyde de potassium. Amanita elliptosperma a des spores ellipsoïdes et ne vire pas au jaune avec l'hydroxyde de potassium. Amanita magnivelaris possède un anneau plus épais et feutré et ne vire généralement pas au jaune avec l'hydroxyde de potassium. Amanita virosiformis a des spores allongées. L'amanite vireuse (Amanita virosa) et l'amanite printanière (Amanita verna) sont des espèces européennes qui ne se rencontrent pas naturellement en Amérique du Nord. L'amanite vireuse vire au jaune avec l'hydroxyde de potassium et fructifie plus tard, en automne. L'amanite printanière ne vire pas au jaune avec l'hydroxyde de potassium. La taille n'est pas un critère fiable pour séparer ces espèces. Les formes blanches de l'amanite phalloïde (Amanita phalloides) ne virent pas au jaune avec l'hydroxyde de potassium. Le plutée soyeux (Volvopluteus gloiocephalus) n'a pas d'anneau, ses lames mûres et sa sporée sont roses, et il pousse habituellement dans les jardins, les pelouses et sur les copeaux de bois. La lépiote pudique (Leucoagaricus leucothites) n'a pas de volve et possède des spores dextrinoïdes à paroi épaisse. Un bouton encore enveloppé dans le voile universel peut ressembler à une vesse-de-loup jusqu'à ce qu'il soit coupé en deux dans le sens de la longueur pour révéler le chapeau et les lames.",
       notes: "Une évaluation de 2025 le classe en préoccupation mineure (Least Concern). Les descriptions de terrain le distinguent des autres espèces blanches de l'est de l'Amérique du Nord par ses basides bisporiques, ses spores rondes et sa réaction jaune à l'hydroxyde de potassium, et les comparaisons génétiques placent Amanita pallidorosea comme son plus proche parent. Des récoltes provenant du sud-est de l'Arizona et du centre du Mexique qui lui ressemblent réagissent faiblement ou pas du tout à l'hydroxyde de potassium, et il n'a pas été démontré qu'elles appartenaient à cette espèce. Des signalements dans des plantations de pins en Colombie proviennent peut-être d'arbres exportés. Les gènes qui synthétisent ses amatoxines et ses phallotoxines ont été identifiés. Les adultes de Tritoma biguttata affinis consomment les sporophores comme nourriture secondaire, et la limace Arion subfuscus a été observée s'en nourrissant."
+    },
+    pl: {
+      description: "Śmiertelnie trujący grzyb ektomikoryzowy lasów liściastych i mieszanych Ameryki Północnej, tworzący symbiozę głównie z dębami. Występuje pospolicie we wschodniej części Ameryki Północnej; w Europie nie występuje.",
+      cap: "Kapelusz ma 3–10 cm średnicy, początkowo jest jajowaty lub stożkowaty, z wiekiem wypukły do niemal płaskiego. Jest jednolicie czysto biały, gładki i nagi, w stanie wilgotnym lekko lepki. Brzeg jest gładki, nieprążkowany.",
+      hymenium: "Blaszki są wolne, gęste, czysto białe. Podstawki są charakterystycznie dwuzarodnikowe (cecha wyróżniająca ten gatunek).",
+      stipe: "Trzon ma 6–14 cm długości i 0,5–1,5 cm grubości, jest smukły, cylindryczny, czysto biały, u podstawy bulwiasty, otoczony workowatą białą pochwą. Nosi delikatny, zwisający biały pierścień w górnej części.",
+      flesh: "Miąższ jest czysto biały, niezmieniający barwy po przekrojeniu. Zapach jest słaby lub nieprzyjemny.",
+      sporePrint: "Biały. Zarodniki są kuliste do prawie kulistych, gładkie, o wymiarach 7,5–10 × 7–9 μm, silnie amyloidalne.",
+      habitat: "Owocniki pojawiają się latem i jesienią na ziemi w lasach dębowych i mieszanych we wschodniej Ameryce Północnej.",
+      uses: "Grzyb śmiertelnie trujący. Zawiera śmiertelne amatoksyny niszczące wątrobę i nerki. W Ameryce Północnej nazywany bywa «niszczącym aniołem» (destroying angel) i odpowiada za liczne śmiertelne zatrucia.",
+      confusion: "Muchomor jadowity (Amanita virosa) występuje w Europie, ma trzon kłaczkowato-wełnisty i czterozarodnikowe podstawki. Pieczarki (Agaricus) mają blaszki różowiejące i brązowiejące oraz brak pochwy."
     }
     },
     sources: {
@@ -50547,13 +50514,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/Amanita_bisporigera"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Amanita_bisporigera"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -50572,6 +50532,13 @@ export const CATALOG = [
         {
           group: "text",
           name: "Wikipedia (English)",
+          href: "https://en.wikipedia.org/wiki/Amanita_bisporigera"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Źródło",
           href: "https://en.wikipedia.org/wiki/Amanita_bisporigera"
         }
       ]
@@ -50669,11 +50636,11 @@ export const CATALOG = [
       bg: 'червено-кафява сърнелка',
       ru: "лепиота коричнево-красная",
       uk: "лепіота коричнево-червонувата",
-      pl: "czubajeczka brązowoczerwonawa",
       it: "lepiota bruno-incarnata",
       hu: "húsbarnás őzlábgomba",
       cs: "bedla hnědočervenavá",
-      fr: "lépiote brun-incarnat"
+      fr: "lépiote brun-incarnat",
+      pl: "czubajeczka brązowoczerwonawa"
     },
     names: {
       en: ["flesh-brown parasol", "deadly parasol"],
@@ -50940,18 +50907,6 @@ export const CATALOG = [
       confusion: "Гриб-зонтик великий (Macrolepiota procera) набагато більший (шапинка понад 15–20 см) і має рухоме подвійне кільце. Печериці (Agaricus) мають рожеві або шоколадні пластинки.",
       notes: "Один із найнебезпечніших дрібних смертельно отруйних грибів Європи."
     },
-    pl: {
-      description: "Niewielki grzyb saprotroficzny parków, ogrodów, trawników i ciepłych lasów liściastych. Występuje w Europie Środkowej i Południowej.",
-      cap: "Kapelusz ma 2–6 cm średnicy. Za młodu jest dzwonkowaty, później wypukły do rozpostartego z tępym garbkiem. Na białym lub różowawym tle pokryty jest drobnymi, winnoczerwonymi, brązowoczerwonymi do ciemnobrązowych łuseczkami, ułożonymi koncentrycznie wokół ciemnego środka.",
-      hymenium: "Blaszki są wolne, gęste, białawe do kremowych, o nieco ząbkowanym ostrzu.",
-      stipe: "Trzon ma 2–5 cm długości i 0,3–0,8 cm grubości, jest cylindryczny. Posiada niewyraźną strefę pierścieniową; powyżej strefy jest gładki i białawy, poniżej gęsto pokryty czerwonobrązowymi lub winnoróżowymi łuskami.",
-      flesh: "Miąższ jest białawy, w trzonie winnoczerwonawy. Zapach jest słaby, przyjemny, owocowy, przypominający owoce lub mandarynki.",
-      sporePrint: "Biały. Zarodniki są elipsoidalne, gładkie, dekstrynoidalne, o wymiarach około 7–9 × 4–5 μm.",
-      habitat: "Owocniki pojawiają się od sierpnia do października w parkach, zaroślach, na obrzeżach lasów i trawnikach na glebach piaszczystych i wapiennych.",
-      uses: "Śmiertelnie trujący. Zawiera wysokie stężenia amatoksyn. Spożycie wywołuje ciężkie, śmiertelne uszkodzenie wątroby i nerek po kilkunastogodzinnym okresie utajenia.",
-      confusion: "Czubajka kania (Macrolepiota procera) jest wielokrotnie większa (kapelusz do 30 cm) i ma ruchomy pierścień na trzonie. Wszystkie małe czubajeczki o średnicy kapelusza poniżej 8 cm należy bezwzględnie omijać jako potencjalnie śmiertelnie trujące.",
-      notes: "Ocena z 2019 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern)."
-    },
     it: {
       description: "Un fungo saprotrofo di piccole dimensioni dei parchi urbani, giardini, margini dei boschi, dune e zone erbose calde. È diffuso nell'Europa meridionale e centrale e in Asia temperata.",
       cap: "Il cappello misura 2–6 cm di diametro. È convesso poi appianato con umbone centrale ottuso. Il fondo è biancastro o rosato, fittamente cosparso da piccole squamette concentriche di colore bruno-rossiccio, vinato o porporino.",
@@ -50987,6 +50942,17 @@ export const CATALOG = [
       uses: "Il est mortellement toxique. L'ingestion entraîne un empoisonnement phalloïdien sévère et potentiellement mortel, caractérisé par une période de latence prolongée de 6 à 24 heures, suivie de violentes douleurs abdominales, de vomissements et d'une diarrhée profuse, puis d'une nécrose hépatique aiguë et d'une insuffisance rénale. Il contient des amatoxines destructrices pour le tissu hépatique.",
       confusion: "Peut être confondu avec d'autres petites lépiotes telles que la lépiote crêtée (Lepiota cristata), qui a une odeur forte et désagréable de caoutchouc brûlé et des écailles plus pâles, et la lépiote de Josserand (Lepiota josserandii), qui est également mortellement toxique et possède des écailles plus roses. Les lépiotes comestibles plus grandes, telles que la coulemelle (Macrolepiota procera) et la lépiote déguenillée (Chlorophyllum rhacodes), sont beaucoup plus grandes, dépassent généralement 10 cm de largeur de chapeau, et possèdent des anneaux membraneux épais et mobiles sur le pied.",
       notes: "Les concentrations en amatoxines chez cette espèce sont comparables à celles d'Amanita phalloides, et la teneur moyenne en alpha-amanitine a été mesurée à des niveaux élevés capables de causer la mort à la suite de la consommation de quelques sporophores seulement. Les cas d'empoisonnement impliquent fréquemment des personnes cueillant des champignons comestibles de petite taille dans des jardins sans prêter attention aux détails de la cuticule et de la base du pied."
+    },
+    pl: {
+      description: "Śmiertelnie trujący mały grzyb saprotroficzny ciepłych rejonów Europy i strefy śródziemnomorskiej, rosnący w parkach, ogrodach, na trawnikach i skrajach lasów liściastych.",
+      cap: "Kapelusz ma 2–6 cm średnicy, początkowo jest dzwonkowaty, później wypukły do rozpostartego z tępym garbkiem. Na różowawym tle pokryty jest drobnymi, koncentrycznie ułożonymi, winnobrązowymi do czekoladowobrązowych łuseczkami.",
+      hymenium: "Blaszki są wolne, gęste, początkowo białawe, z wiekiem kremowe.",
+      stipe: "Trzon ma 2–5 cm długości i 0,3–0,6 cm grubości, jest cylindryczny. Nosi nietrwały pierścieniowaty pasek; poniżej tej strefy jest pokryty czerwonobrązowymi łuseczkami na różowawym tle.",
+      flesh: "Miąższ jest białawy, w kapeluszu i trzonie z różowawym odcieniem. Zapach jest owocowy, przypominający zapach śliwek.",
+      sporePrint: "Biały. Zarodniki są elipsoidalne, gładkie, o wymiarach 7–9 × 4–5 μm, dekstrynoidalne.",
+      habitat: "Owocniki pojawiają się od lata do jesieni na ciepłych, nasłonecznionych trawnikach, w parkach, zaroślach i przydrożach na glebach piaszczysto-gliniastych.",
+      uses: "Grzyb śmiertelnie trujący. Zawiera zabójcze amatoksyny w wysokim stężeniu; spożycie nawet niewielkiej ilości owocników prowadzi do ciężkiego uszkodzenia i martwicy wątroby.",
+      confusion: "Czubajka kania (Macrolepiota procera) jest grzybem wielokrotnie większym (kapelusz do 30 cm) i jadalnym. Ze względu na śmiertelne ryzyko zatrucia nie wolno zbierać małych grzybów blaszkowych o łuskowatych kapeluszach o średnicy poniżej 10 cm!"
     }
     },
     sources: {
@@ -51239,18 +51205,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BF%D1%96%D0%BE%D1%82%D0%B0_%D0%BA%D0%BE%D1%80%D0%B8%D1%87%D0%BD%D0%B5%D0%B2%D0%BE-%D1%87%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D1%83%D0%B2%D0%B0%D1%82%D0%B0"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Czubajeczka_brązowoczerwonawa"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -51290,6 +51244,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Czubajeczka_brązowoczerwonawa"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -51388,10 +51354,10 @@ export const CATALOG = [
       bg: 'пролетна мухоморка',
       ru: "мухомор весенний",
       uk: "мухомор весняний",
-      pl: "muchomor wiosenny",
       it: "tignosa di primavera",
       hu: "fehér galóca",
-      fr: "amanite printanière"
+      fr: "amanite printanière",
+      pl: "muchomor wiosenny"
     },
     names: {
       en: ["spring destroying angel", "spring amanita", "white destroying angel"],
@@ -51662,18 +51628,6 @@ export const CATALOG = [
       confusion: "Мухомор смердючий (Amanita virosa) росте у хвойних лісах і має волохато-лускату ніжку. Білі печериці (Agaricus) мають рожеві або темно-коричневі пластинки й не мають вольви.",
       notes: "Класичний весняно-літній білий смертоносний мухомор Південної Європи."
     },
-    pl: {
-      description: "Grzyb ektomikoryzowy ciepłolubnych lasów liściastych na podłożu wapiennym, rosnący głównie pod dębami i bukami. Występuje w południowej i cieplejszych rejonach środkowej Europy.",
-      cap: "Kapelusz ma 4–10 cm średnicy. Za młodu jest półkolisty, później wypukły do rozpostartego. Barwa jest czysto biała, niekiedy z delikatnym kremowym odcieniem na środku. Skórka jest gładka, naga, w stanie wilgotnym lepka.",
-      hymenium: "Blaszki są wolne, gęste, czysto białe, nie zmieniające barwy.",
-      stipe: "Trzon ma 7–12 cm długości i 1–2 cm grubości, jest cylindryczny, biały, gładki lub tylko delikatnie włóknisty (bez kosmatych łusek). Posiada biały, zwisający, błoniasty pierścień oraz dużą, workowatą białą pochwę u podstawy.",
-      flesh: "Miąższ jest czysto biały, miękki. Zapach za młodu jest słaby, z wiekiem staje się mdły i nieprzyjemny.",
-      sporePrint: "Biały. Zarodniki są gładkie, szerokoelipsoidalne, amyloidalne, o wymiarach około 8–11 × 7–9 μm.",
-      habitat: "Owocniki pojawiają się od maja do września w ciepłych lasach dębowych i bukowych na glebach wapiennych.",
-      uses: "Śmiertelnie trujący. Zawiera amatoksyny i fallotoksyny, które powodują nieodwracalną martwicę wątroby i nerek. Gotowanie, suszenie ani mrożenie nie niszczą trucizn.",
-      confusion: "Muchomor jadowity (Amanita virosa) rośnie w lasach iglastych i ma trzon pokryty wełnistymi, kosmatymi łuskami. Białe pieczarki (Agaricus) mają blaszki różowe do czekoladowobrązowych i nie posiadają pochwy u podstawy trzonu.",
-      notes: "Rzadki w Europie Środkowej, znacznie częstszy w basenie Morza Śródziemnego."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi caldi di latifoglie (specialmente querce e castagni) su terreno calcareo. È diffuso nell'Europa meridionale e mediterranea.",
       cap: "Il cappello misura 4–10 cm di diametro. È emisferico poi convesso e spianato, liscio, sericeo, interamente di colore bianco candido, con margine liscio non striato.",
@@ -51709,6 +51663,17 @@ export const CATALOG = [
       uses: "Il est mortellement toxique. Il contient de puissantes amatoxines et phallotoxines qui provoquent le syndrome phalloïdien. L'ingestion entraîne une phase de latence asymptomatique trompeuse de 6 à 24 heures, suivie d'une gastro-entérite aiguë violente, puis d'une cytolyse hépatique sévère menant à une défaillance multiviscérale et à la mort en l'absence de greffe de foie d'urgence.",
       confusion: "Peut être confondu avec des champignons blancs comestibles par des cueilleurs imprudents. Les agarics blancs comestibles, tels que l'agaric champêtre (Agaricus campestris) et l'agaric des jachères (Agaricus arvensis), sont dépourvus de volve à la base du pied, et leurs lames deviennent roses puis brun chocolat. La lépiote pudique (Leucoagaricus leucothites) a un anneau mais pas de volve, et sa chair ne réagit pas à l'hydroxyde de potassium. Le tricholome de la Saint-Georges (Calocybe gambosa) fructifie au printemps et présente des lames serrées de couleur crème, sans anneau ni volve, et dégage une puissante odeur de farine fraîche. L'amanite vireuse (Amanita virosa) fructifie plus tard en automne, possède un chapeau plus conique et un pied floconneux, et vire au jaune vif avec l'hydroxyde de potassium. L'amanite phalloïde blanche (Amanita phalloides var. alba) possède également une volve libre et un anneau en jupe, mais fructifie en automne et diffère par ses caractères microscopiques. En Amérique du Nord, les anges de la mort blancs similaires comprennent Amanita bisporigera, qui possède des basides bisporiques et vire au jaune avec l'hydroxyde de potassium, ainsi qu'Amanita ocreata.",
       notes: "L'espèce est l'un des anges de la mort mortellement toxiques classiques de la section Phalloideae. Les amatoxines présentes dans ses tissus inhibent l'ARN polymérase II, stoppant la synthèse des protéines cellulaires et provoquant une destruction hépatocellulaire massive. Les signalements historiques en Amérique du Nord confondaient souvent des amanites blanches indigènes avec ce taxon européen, mais la phylogénie moléculaire restreint la présence réelle de cette espèce à l'Europe et au bassin méditerranéen."
+    },
+    pl: {
+      description: "Śmiertelnie trujący, ciepłolubny grzyb ektomikoryzowy lasów liściastych (dąb, buk, kasztan jadalny), rosnący na glebach wapiennych w Europie Południowej i Środkowej.",
+      cap: "Kapelusz ma 4–10 cm średnicy, początkowo jest półkulisty, z wiekiem wypukły do spłaszczonego. Jest czysto biały, z wiekiem w środku lekko ochrowy, gładki i nagi. Brzeg jest gładki, nieprążkowany.",
+      hymenium: "Blaszki są wolne, gęste, czysto białe, nie zmieniające barwy.",
+      stipe: "Trzon ma 6–12 cm długości i 1–2 cm grubości, jest cylindryczny, gładki lub drobno włóknisty, czysto biały. Nosi delikatny, zwisający biały pierścień. U podstawy tkwi w dużej, luźnej, workowatej białej pochwie.",
+      flesh: "Miąższ jest czysto biały, miękki, niezmieniający barwy po przekrojeniu. Zapach jest słaby, u starych okazów nieprzyjemny.",
+      sporePrint: "Biały. Zarodniki są gładkie, elipsoidalne do prawie kulistych, o wymiarach 8–11 × 7–9 μm, amyloidalne.",
+      habitat: "Owocniki pojawiają się od maja do września w ciepłych lasach liściastych na podłożu wapiennym.",
+      uses: "Grzyb śmiertelnie trujący. Zawiera zabójcze amatoksyny niszczące wątrobę i nerki. Wywołuje śmiertelne zatrucia identyczne jak po spożyciu muchomora zielonawego.",
+      confusion: "Pieczarki (Agaricus) mają blaszki szybko różowiejące i brązowiejące oraz brak workowatej pochwy u podstawy trzonu. Muchomor jadowity (Amanita virosa) owocuje jesienią w lasach iglastych na glebach kwaśnych i ma trzon kłaczkowaty."
     }
     },
     sources: {
@@ -51954,18 +51919,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%9C%D1%83%D1%85%D0%BE%D0%BC%D0%BE%D1%80_%D0%B2%D0%B5%D1%81%D0%BD%D1%8F%D0%BD%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Muchomor_wiosenny"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -52005,6 +51958,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Muchomor_wiosenny"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -52357,18 +52322,6 @@ export const CATALOG = [
       confusion: "Сироїжка чорніюча (Russula nigricans) та сироїжка чорна (Russula adusta) при пошкодженні червоніють, а потім повністю чорніють до кольору вугілля.",
       notes: "Українська народна назва відсутня; показано наукову латинську назву. Механізм токсичної дії було з'ясовано вченими у 2009 році."
     },
-    pl: {
-      description: "Śmiertelnie trujący grzyb ektomikoryzowy lasów liściastych i mieszanych wschodniej i południowej Azji (Japonia, Chiny, Tajwan), rosnący głównie pod dębami i drzewami z rodziny bukowatych.",
-      cap: "Kapelusz ma 6–12 cm średnicy. Za młodu jest wypukły z podwiniętym brzegiem, później spłaszczony i wklęsły na środku. Barwa jest brudnobiaława, szarobrązowa do ciemnobrązowej.",
-      hymenium: "Blaszki są rzadkie, grube, kruche, przyrośnięte do lekko zbiegających, białawe do bladoochrowych, po uszkodzeniu czerwieniejące, a po dłuższym czasie czerniejące.",
-      stipe: "Trzon ma 3–8 cm długości i 1–2,5 cm grubości, jest cylindryczny, pełny, szarobrązowy, po dotknięciu czerwieniejący.",
-      flesh: "Miąższ jest białawy, po przekrojeniu natychmiast czerwienieje, lecz w przeciwieństwie do gołąbka czarniawego nie czernieje natychmiast, lecz powoli. Zapach i smak są słabe.",
-      sporePrint: "Biały. Zarodniki są kuliste do szerokoelipsoidalnych, brodawkowate, o wymiarach około 7–9 × 6–8 μm.",
-      habitat: "Owocniki pojawiają się latem i jesienią w lasach strefy subtropikalnej i umiarkowanej Azji Wschodniej.",
-      uses: "Śmiertelnie trujący. Zawiera kwas ruszulinowy (russuphelin A) wywołujący ostrą rabdomiolizę (masowy rozpad tkanki mięśniowej). Objawy obejmują bóle mięśni, trudności w oddychaniu, mioglobinurię i zapaść krążeniowo-oddechową.",
-      confusion: "Gołąbek czarniawy (Russula nigricans) oraz gołąbek gęstoblaszkowy (Russula densifolia) mają miąższ po przekrojeniu czerwieniejący, a następnie szybko i całkowicie czerniejący, i nie zawierają toksyny powodującej rabdomiolizę.",
-      notes: "Odpowiada za liczne śmiertelne zatrucia w Azji Wschodniej."
-    },
     it: {
       description: "Un fungo ectomicorrizico mortale dell'Asia orientale (Giappone, Cina, Taiwan e Corea), associato a boschi di latifoglie (querce e castagni). È una delle pochissime specie mortali conosciute all'interno del genere Russula.",
       cap: "Il cappello misura 5–12 cm di diametro. È convesso poi appianato e infine ampiamente depresso al centro a imbuto. Il colore è bruno-grigiastro o bruno fuligginoso chiaro, opaco.",
@@ -52404,6 +52357,17 @@ export const CATALOG = [
       uses: "Il est mortellement toxique. L'ingestion provoque l'apparition rapide de nausées, de vomissements et d'une diarrhée en l'espace de trente minutes à deux heures, suivis d'une rhabdomyolyse généralisée sévère, c'est-à-dire une destruction massive des tissus musculaires squelettiques. Cette affection entraîne fréquemment une insuffisance rénale aiguë, une hyperkaliémie, un arrêt cardiaque, une défaillance respiratoire et la mort. La principale mycotoxine responsable est l'acide cycloprop-2-ène carboxylique.",
       confusion: "Ressemble à la russule noircissante (Russula nigricans), dont la chair rougit à la coupe mais noircit par la suite en vingt minutes, et qui possède des lames épaisses beaucoup plus espacées. La russule à lames serrées (Russula densifolia) rougit également puis noircit, mais présente des lames serrées et minces. La russule blanc-et-noir (Russula albonigra) noircit directement sans stade rouge préalable. L'espèce nord-américaine Russula eccentrica vire au rouge puis au gris brunâtre, est dépourvue de la toxine cyclopropénique et n'est pas associée à la rhabdomyolyse.",
       notes: "La mycotoxicité fatale de ce champignon a été élucidée en 2009 par l'isolement de l'acide cycloprop-2-ène carboxylique, un composé inhabituellement sous tension et de faible poids moléculaire qui déclenche la dégradation toxique des fibres musculaires squelettiques. Une fraction seulement d'un sporophore peut délivrer une dose létale chez l'être humain, causant un taux de mortalité supérieur à cinquante pour cent dans les empoisonnements documentés à travers le Japon et le sud de la Chine."
+    },
+    pl: {
+      description: "Śmiertelnie trujący grzyb ektomikoryzowy lasów liściastych i iglastych Azji Wschodniej (Japonia, Chiny, Korea, Tajwan). W Europie nie występuje.",
+      cap: "Kapelusz ma 5–12 cm średnicy, początkowo jest wypukły, z wiekiem wklęsły do lejkowatego. Barwa jest szarobrązowa do ciemnobrązowej. Skórka jest sucha i matowa.",
+      hymenium: "Blaszki są rzadkie, grube, przyrośnięte lub lekko zbiegające, białawo-kremowe, po uszkodzeniu charakterystycznie czerwieniejące (lecz w przeciwieństwie do innych czerniejących gołąbków nie czernieją!).",
+      stipe: "Trzon ma 3–8 cm długości i 1–2,5 cm grubości, jest cylindryczny, mocny, szarobrązowy, po dotknięciu czerwieniejący.",
+      flesh: "Miąższ jest białawy, gruby i kruchy. Po przekrojeniu natychmiast czerwienieje, nie przechodząc w kolor czarny. Zapach i smak są niewyraźne.",
+      sporePrint: "Biały. Zarodniki są prawie kuliste, pokryte drobnymi brodawkami, o wymiarach 7–9 × 6–8 μm.",
+      habitat: "Owocniki pojawiają się od lata do wczesnej jesieni w lasach z dębami i sosnami we wschodniej Azji.",
+      uses: "Grzyb śmiertelnie trujący. Zawiera kwas ruszulowy (russuphelin A) – toksynę wywołującą ostrą rabdomiolizę (masowy rozpad komórek mięśni szkieletowych i mięśnia sercowego), prowadzącą do niewydolności oddechowej i zgonu.",
+      confusion: "Gołąbek czarniawy (Russula nigricans) i inne europejskie czerniejące gołąbki po uszkodzeniu najpierw czerwieją, a następnie całkowicie czernieją i nie zawierają śmiertelnych toksyn wywołujących rabdomiolizę."
     }
     },
     sources: {
@@ -52567,13 +52531,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/Russula_subnigricans"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Russula_subnigricans"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -52592,6 +52549,13 @@ export const CATALOG = [
         {
           group: "text",
           name: "Wikipedia (English)",
+          href: "https://en.wikipedia.org/wiki/Russula_subnigricans"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Źródło",
           href: "https://en.wikipedia.org/wiki/Russula_subnigricans"
         }
       ]
@@ -52941,18 +52905,6 @@ export const CATALOG = [
       confusion: "Зовні нагадує неотруйні види кордицепса (Cordyceps) або молоді рогатикові гриби.",
       notes: "Українська народна назва відсутня; показано наукову латинську назву. Раніше цей гриб відносили до роду Podostroma."
     },
-    pl: {
-      description: "Śmiertelnie trujący grzyb workowy rozwijający się na butwiejącym drewnie i korzeniach w lasach Azji Wschodniej (Japonia, Korea, Chiny). Dawniej zaliczany do rodzaju Podostroma.",
-      cap: "Owocnik (podkładka) ma 5–15 cm wysokości i 1–3 cm grubości, ma kształt wzniesionego, maczugowatego lub rogowato rozgałęzionego tworu przypominającego poroże jelenia lub palce dłoni. Barwa jest jaskrawoczerwona, cynobrowa do pomarańczowoczerwonej.",
-      hymenium: "Zewnętrzna powierzchnia płodna pokryta jest zanurzonymi perytecjami, w których powstają worki z askosporami.",
-      stipe: "Podstawa owocnika przechodzi bezpośrednio w grzybnię przerastającą butwiejące drewno w glebie.",
-      flesh: "Miąższ jest włóknisty, białawy do żółtawego.",
-      sporePrint: "Biały. Zarodniki (askospory) rozpadają się w workach na drobne zarodniki cząstkowe o wymiarach około 3–4 × 3 μm.",
-      habitat: "Owocniki wyrastają latem i jesienią na butwiejących korzeniach drzew liściastych.",
-      uses: "Śmiertelnie trujący. Jeden z najbardziej toksycznych znanych grzybów na świecie. Zawiera silne trichoteceny (w tym satratoksynę H), które hamują syntezę białek i wywołują martwicę komórek narządów wewnętrznych, zanik szpiku kostnego, złuszczanie skóry i niewydolność wielonarządową. Nawet kontakt fizyczny ze skórą może wywoływać miejscowe podrażnienia i owrzodzenia.",
-      confusion: "Koralówki (Ramaria) i koralownice (Clavulinopsis) mają gałązki kruche, nie zawierają perytecjów na powierzchni i nie wykazują tak jaskrawej cynobrowoczerwonej barwy. Maczużnik bojowy (Cordyceps militaris) rośnie na poczwarkach owadów.",
-      notes: "W Japonii znany pod nazwą «kaentake» (płonący grzyb)."
-    },
     it: {
       description: "Un fungo ascomicete lignicolo e saprotrofo mortale dell'Asia orientale (Giappone e Corea), che forma stromi eretti ramificati di un vivido colore rosso fuoco o arancione brillante su ceppaie marcescenti.",
       cap: "Il corpo fruttifero è uno stroma eretto, carnoso e cilindrico o appiattito, alto 5–20 cm e spesso 1–3 cm, semplice o biforcato a somiglianza di un corno di cervo, di colore rosso vivo vermiglio o arancio scarlatto lucido.",
@@ -52988,6 +52940,17 @@ export const CATALOG = [
       uses: "Il est mortellement toxique. L'ingestion provoque une toxicité multiviscérale sévère, marquée au départ par des douleurs abdominales, des vomissements et de la diarrhée, suivie en quelques jours d'une aplasie médullaire avec une leucopénie et une thrombocytopénie profondes, d'une desquamation étendue de la peau, d'une alopécie, d'une insuffisance rénale et hépatique aiguë, d'une coagulation intravasculaire disséminée, d'une atrophie cérébelleuse entraînant une ataxie et des troubles de la parole, ainsi que d'un choc mortel. Les toxines principales sont de puissants trichothécènes macrocycliques, principalement la satratoxine H et ses dérivés acétates.",
       confusion: "Ressemble superficiellement à des espèces comestibles de Cordyceps ou à de jeunes bois de reishi (Ganoderma lingzhi), mais Ganoderma développe une croûte ligneuse laquée avec des pores en dessous. Il ressemble également quelque peu aux clavaires comestibles inoffensives Clavulinopsis miyabeana et la clavaire rose (Clavaria rosea), mais toutes deux sont dépourvues de pores périthéciaux immergés, possèdent des basidiospores sur un hyménium externe et sont fragiles. L'examen microscopique des périthèces immergés et des ascospores qui se fragmentent le distingue facilement de tous les basidiomycètes coralloïdes.",
       notes: "C'est l'un des très rares ascomycètes mortellement toxiques connus de la science. Plusieurs empoisonnements mortels au Japon et en Corée du Sud ont résulté de récoltes de ces stromas rouge vif par des personnes croyant à tort qu'il s'agissait de champignons médicinaux comme Ganoderma ou Cordyceps et les faisant infuser dans du thé ou du saké. Des recherches chimiques ont révélé que ses mycotoxines trichothécènes agissent comme de puissants inhibiteurs de la synthèse des protéines dans les cellules eucaryotes, provoquant l'apoptose cellulaire dans de multiples organes."
+    },
+    pl: {
+      description: "Jeden z najbardziej toksycznych znanych grzybów na świecie. Pasożyt i saprotrof rozwijający się na butwiejącym drewnie i korzeniach w lasach Azji Wschodniej (Japonia, Korea) oraz Australii. W Europie nie występuje.",
+      cap: "Owocnik (podkładka) ma 5–15 cm wysokości i 1–3 cm grubości, ma postać pionowych, pałeczkowatych lub rozgałęzionych wyrostków przypominających rogi jelenia lub palce dłoni. Barwa jest jaskrawo czerwonopomarańczowa, cynobrowa do krwistoczerwonej.",
+      hymenium: "Zarodniki powstają w workach zagłębionych w perytecjach umieszczonych pod powierzchnią jaskrawoczerwonej podkładki (Ascomycota).",
+      stipe: "Podstawa podkładki jest zwężona, żółtawa lub czerwonawa, wyrastająca z podziemnego drewna.",
+      flesh: "Miąższ jest białawy, twardy i włóknisty.",
+      sporePrint: "Zarodniki są drobne, bezbarwne, kuliste do elipsoidalnych.",
+      habitat: "Owocniki pojawiają się od lata do jesieni na ziemi w pobliżu obumarłych korzeni drzew liściastych.",
+      uses: "Grzyb śmiertelnie trujący, a kontakt z nim jest skrajnie niebezpieczny. Zawiera silne trichoteceny (satratoksynę H), które hamują syntezę białek i niszczą wszystkie narządy wewnętrzne. Spożycie nawet ułamka grama powoduje niewydolność wielonarządową, łuszczenie skóry, utratę włosów, martwicę wątroby i śmierć. Nawet dotykanie owocnika może wywołać podrażnienia skóry.",
+      confusion: "Maczużnik bojowy (Cordyceps militaris) wyrasta z poczwarek owadów i jest pomarańczowy. Koralówki (Ramaria) rosną na ziemi i mają liczne drobne gałązki."
     }
     },
     sources: {
@@ -53163,13 +53126,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/Trichoderma_cornu-damae"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Trichoderma_cornu-damae"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -53188,6 +53144,13 @@ export const CATALOG = [
         {
           group: "text",
           name: "Wikipedia (English)",
+          href: "https://en.wikipedia.org/wiki/Podostroma_cornu-damae"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Źródło",
           href: "https://en.wikipedia.org/wiki/Podostroma_cornu-damae"
         }
       ]
@@ -53533,18 +53496,6 @@ export const CATALOG = [
       confusion: "Amanita bisporigera має менші спори й поширена в Північній Америці. Бліда поганка (Amanita phalloides) має зеленкувату шапинку.",
       notes: "Українська народна назва відсутня; показано наукову латинську назву. Базидії виключно двоспорові."
     },
-    pl: {
-      description: "Śmiertelnie trujący grzyb ektomikoryzowy ciepłych lasów liściastych i subtropikalnych południowych Chin (prowincja Guangdong). Opisany w 2001 roku.",
-      cap: "Kapelusz ma 4–7 cm średnicy. Za młodu jest półkolisty, potem wypukły do rozpostartego. Barwa jest czysto biała do kości słoniowej, z wiekiem z żółtawym odcieniem na środku. Skórka jest gładka.",
-      hymenium: "Blaszki są wolne, gęste, czysto białe.",
-      stipe: "Trzon ma 7–10 cm długości i 0,5–1 cm grubości, jest białawy, z małym, delikatnym pierścieniem oraz workowatą pochwą u bulwiastej podstawy.",
-      flesh: "Miąższ jest czysto biały, cienki. Zapach jest słaby.",
-      sporePrint: "Biały. Zarodniki są gładkie, niemal kuliste, amyloidalne, o wymiarach około 9,5–12 × 9–11,5 μm. Podstawki są dwuzarodnikowe.",
-      habitat: "Owocniki pojawiają się wiosną (od marca do maja) w lasach dębowych i mieszanych w południowych Chinach.",
-      uses: "Śmiertelnie trujący. Zawiera bardzo wysokie stężenia amatoksyn i fallotoksyn. Odpowiada za liczne śmiertelne zatrucia w regionie Kantonu (Guangzhou).",
-      confusion: "Amanita bisporigera z Ameryki Północnej ma mniejsze zarodniki i niżej umieszczony pierścień. Inne białe gatunki muchomorów (Amanita verna, Amanita virosa) mają podstawki czterozarodnikowe.",
-      notes: "Prawie każda podstawka wytwarza dokładnie dwa zarodniki, z których każdy otrzymuje po dwa jądra."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi subtropicali di latifoglie della Cina meridionale e sud-orientale (in particolare provincia di Guangdong). È una specie mortale appartenente al complesso delle amanite bianche.",
       cap: "Il cappello misura 4–8 cm di diametro. Inizialmente ovoide o emisferico, poi convesso e spianato, di colore bianco candido o bianco crema al centro, liscio e privo di striature al margine.",
@@ -53580,6 +53531,17 @@ export const CATALOG = [
       uses: "Il est mortellement toxique. Il contient de fortes quantités d'amatoxines et est responsable de nombreux décès par défaillance hépatique aiguë.",
       confusion: "Amanita bisporigera a un anneau inséré plus bas, des spores plus petites, généralement de 8–9,5 × 7–8,5 µm, et davantage de cellules renflées dans la volve. Amanita oberwinklerana est tétrasporique, avec des spores ellipsoïdes, un anneau situé plus bas que l'apex, un anneau et une volve plus fragiles, davantage de cellules renflées dans la volve et aucune réaction jaune à l'hydroxyde de potassium. Amanita subjunquillea var. alba est tétrasporique, avec un anneau inséré plus bas et des spores plus petites. L'amanite printanière (Amanita verna) est tétrasporique. L'amanite vireuse (Amanita virosa) est tétrasporique et présente des écailles blanches recourbées sur le pied. Amanita parviexitialis est bisporique, mais son chapeau mesure environ 3 cm de largeur et est légèrement brun au centre. Amanita suballiacea est tétrasporique, avec des spores ellipsoïdes à largement ellipsoïdes plus petites. Amanita pallidorosea et Amanita subpallidorosea ont souvent une teinte rose au centre du chapeau. Amanita rimosa peut se fendiller radialement à la marge du chapeau. Amanita chepangiana et Amanita alboumbelliformis ont une marge striée, un pied creux, une base non bulbeuse et des lamellules tronquées carrément. Le plutée soyeux (Volvopluteus gloiocephalus) n'a pas d'anneau, ses lames mûres et sa sporée sont roses, et il pousse sur la litière plutôt qu'avec des arbres vivants.",
       notes: "Presque chaque baside porte deux spores, et chaque spore reçoit deux noyaux, de sorte qu'il peut établir un dicaryon sans fécondation croisée. Des génotypes multilocus identiques ont été trouvés sur des stations du Guangdong distantes de plus de 80 km. De 2019 à 2023, il a causé plus de décès en Chine que tout autre champignon, avec 135 cas et 24 morts. Environ 50 g de champignon frais renfermeraient suffisamment de toxines pour tuer un adulte de 50 kg, et les concentrations les plus élevées se trouvent dans le chapeau et les lames."
+    },
+    pl: {
+      description: "Śmiertelnie trujący grzyb ektomikoryzowy lasów subtropikalnych w południowych Chinach i Indiach. W Europie nie występuje.",
+      cap: "Kapelusz ma 4–9 cm średnicy, początkowo jest półkulisty, później wypukły do spłaszczonego. Jest czysto biały, w środku niekiedy z kremowożółtym odcieniem, gładki i nagi.",
+      hymenium: "Blaszki są wolne, gęste, czysto białe.",
+      stipe: "Trzon ma 6–12 cm długości i 0,5–1,5 cm grubości, jest cylindryczny, biały, u podstawy bulwiasty, otoczony workowatą białą pochwą. Nosi delikatny biały pierścień w górnej części.",
+      flesh: "Miąższ jest biały, niezmieniający barwy.",
+      sporePrint: "Biały. Zarodniki są kuliste do prawie kulistych, gładkie, amyloidalne.",
+      habitat: "Owocniki pojawiają się od wiosny do lata w ciepłych lasach liściastych i iglastych południowej Azji.",
+      uses: "Grzyb śmiertelnie trujący. Zawiera zabójcze stężenia amatoksyn i w południowych Chinach odpowiada za liczne śmiertelne zatrucia z ostrą martwicą wątroby.",
+      confusion: "Amanita bisporigera (Amanita bisporigera) ma niżej osadzony pierścień i mniejsze zarodniki. Muchomor wiosenny (Amanita verna) i muchomor jadowity (Amanita virosa) posiadają czterozarodnikowe podstawki, a muchomor jadowity dodatkowo kłaczkowato łuskowaty trzon. Pochwiak pochwiasty (Volvopluteus gloiocephalus) nie posiada pierścienia, a jego blaszki i wysyp zarodników są różowe."
     }
     },
     sources: {
@@ -53770,13 +53732,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/Amanita_exitialis"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Amanita_exitialis"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -53795,6 +53750,13 @@ export const CATALOG = [
         {
           group: "text",
           name: "Wikipedia (English)",
+          href: "https://en.wikipedia.org/wiki/Amanita_exitialis"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Źródło",
           href: "https://en.wikipedia.org/wiki/Amanita_exitialis"
         }
       ]
@@ -54135,18 +54097,6 @@ export const CATALOG = [
       confusion: "Amanita fuligineoides (Amanita fuligineoides) більша за розміром і має іншу будову вольви. Бліда поганка (Amanita phalloides) має шапинку з оливково-зеленим відтінком.",
       notes: "Українська народна назва відсутня; показано наукову латинську назву. Відповідальний за велику кількість смертей у південному Китаї."
     },
-    pl: {
-      description: "Śmiertelnie trujący grzyb ektomikoryzowy lasów dębowych i bukowatych Azji Wschodniej (Chiny, Japonia). Występuje w strefie subtropikalnej i umiarkowanej.",
-      cap: "Kapelusz ma 3–6 cm średnicy. Początkowo jest dzwonkowaty, potem wypukły do rozpostartego. Barwa jest szarobrązowa, ciemnobrązowa do sadzowatej, z ciemniejszym środkiem i promieniście wrośniętymi włókienkami.",
-      hymenium: "Blaszki są wolne, gęste, białe do szarawobiałych.",
-      stipe: "Trzon ma 6–10 cm długości i 0,4–1 cm grubości, jest wysmukły, cylindryczny, białawy do popielatoszarego, z delikatnym, zwisającym pierścieniem i małą workowatą pochwą u podstawy.",
-      flesh: "Miąższ jest biały, cienki, po przekrojeniu nie zmienia barwy. Zapach jest słaby.",
-      sporePrint: "Biały. Zarodniki są gładkie, kuliste do niemal kulistych, amyloidalne, o wymiarach około 8–11 × 7,5–10 μm.",
-      habitat: "Owocniki pojawiają się od lata do jesieni w lasach liściastych pod drzewami z rodziny Fagaceae.",
-      uses: "Śmiertelnie trujący. Zawiera zabójcze amatoksyny (alfa- i beta-amanitynę) oraz fallotoksyny, powodujące ciężką martwicę wątroby i nerek.",
-      confusion: "Amanita fuligineoides ma większe owocniki i inną budowę pochwy. Muchomor zielonawy (Amanita phalloides) ma kapelusz z oliwkowozielonym odcieniem.",
-      notes: "Odpowiada za setki zatruć i liczne zgony w południowych Chinach."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi di querce e fagacee dell'Asia orientale (Cina). È una specie mortale nota per aver causato frequenti avvelenamenti collettivi fatali.",
       cap: "Il cappello misura 3–6 cm di diametro. È campanulato poi convesso e appianato con umbone centrale ottuso. La cuticola è liscia e viscosa col bagnato, di colore bruno fuligginoso o bruno-grigio scuro con fibrille innate radiali più scure.",
@@ -54182,6 +54132,17 @@ export const CATALOG = [
       uses: "Il est mortellement toxique. Il contient de très fortes concentrations d'amatoxines qui provoquent une nécrose hépatique aiguë et une défaillance rénale menant à la mort.",
       confusion: "Amanita fuligineoides est plus grande, la base de son pied n'est pas globuleuse à subglobuleuse et sa volve comporte moins de cellules renflées. Amanita subfuliginea a des spores plus petites. L'amanite faux-porphyre (Amanita pseudoporphyria) peut porter des lambeaux de voile sur le chapeau, possède un anneau blanc et une volve blanche épaisse, et son pied s'épaissit vers le bas et porte des fibrilles blanches. L'amanite porphyre (Amanita porphyria) pousse sous les conifères, porte des restes de voile verruqueux ou en plaques sur le chapeau et possède une volve peu profonde. Amanita elephas a un anneau blanc et des spores plus petites. L'amanite citrine variété grise (Amanita citrina var. grisea) a un anneau jaunâtre, une volve peu profonde brun rougeâtre et une odeur singulière de rave.",
       notes: "Le premier empoisonnement confirmé, en 1997, a impliqué 14 personnes et causé 9 décès. Des bilans ultérieurs pour le sud de la Chine font état de 33 incidents, 352 personnes intoxiquées et 79 décès. Les teneurs en toxines sont déjà élevées dans le bouton, atteignent leur maximum pendant la croissance vigoureuse du sporophore et diminuent lorsqu'il est mature. Les amatoxines surpassent les phallotoxines dans chaque tissu, et l'endroit où le champignon a poussé modifie davantage la quantité totale que l'équilibre entre les deux groupes."
+    },
+    pl: {
+      description: "Śmiertelnie trujący grzyb ektomikoryzowy lasów subtropikalnych wschodniej Azji (Chiny, Japonia). W Europie nie występuje.",
+      cap: "Kapelusz ma 4–10 cm średnicy, początkowo wypukły, później rozpostarty. Barwa jest ciemnoszara, sadzowatobrązowa do czarnobrązowej, z promienistymi włókienkami.",
+      hymenium: "Blaszki są wolne, gęste, białe do kremowych.",
+      stipe: "Trzon ma 7–14 cm długości i 1–2 cm grubości, jest białawy z szarobrązowymi łuseczkami lub zygzakowatym wzorem. Nosi zwisający pierścień i workowatą pochwę u bulwiastej podstawy.",
+      flesh: "Miąższ jest biały, po przekrojeniu nie zmienia barwy.",
+      sporePrint: "Biały. Zarodniki są kuliste, gładkie, amyloidalne.",
+      habitat: "Owocniki wyrastają od lata do jesieni w lasach liściastych i mieszanych pod dębami i sosnami w Chinach i Japonii.",
+      uses: "Grzyb śmiertelnie trujący. Zawiera wysokie stężenia amatoksyn i jest jedną z głównych przyczyn zgonów po zatruciu grzybami w Chinach.",
+      confusion: "Muchomor zielonawy (Amanita phalloides) ma kapelusz o odcieniu oliwkowym lub zielonkawym."
     }
     },
     sources: {
@@ -54385,13 +54346,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/Amanita_fuliginea"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Amanita_fuliginea"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -54410,6 +54364,13 @@ export const CATALOG = [
         {
           group: "text",
           name: "Wikipedia (English)",
+          href: "https://en.wikipedia.org/wiki/Amanita_fuliginea"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Źródło",
           href: "https://en.wikipedia.org/wiki/Amanita_fuliginea"
         }
       ]
@@ -54730,17 +54691,6 @@ export const CATALOG = [
       uses: "Смертельно отруйний гриб. Містить летальні концентрації аматоксинів.",
       notes: "Українська народна назва відсутня; показано наукову латинську назву. Описаний китайськими мікологами після серії смертельних інтоксикацій."
     },
-    pl: {
-      description: "Śmiertelnie trujący grzyb ektomikoryzowy lasów liściastych z rodziny bukowatych w południowych Chinach. Opisany w XXI wieku.",
-      cap: "Kapelusz ma 3–6,2 cm średnicy. Za młodu jest półkolisty, później wypukły do rozpostartego. Skórka ma barwę białawą do kremowobiałej, często promieniście pękającą (rimotyczną) w miarę dojrzewania.",
-      hymenium: "Blaszki są wolne, gęste, czysto białe.",
-      stipe: "Trzon ma 5–9 cm długości i 0,3–1 cm grubości, jest białawy, z delikatnym pierścieniem i bulwiastą podstawą otoczoną pochwą.",
-      flesh: "Miąższ jest czysto biały, cienki. Zapach i smak są słabe.",
-      sporePrint: "Biały. Zarodniki są gładkie, kuliste do niemal kulistych, amyloidalne, o wymiarach około 8,5–10,5 × 8–10 μm.",
-      habitat: "Owocniki pojawiają się na ziemi w lasach liściastych w południowych Chinach.",
-      uses: "Śmiertelnie trujący. Zawiera zabójcze amatoksyny powodujące ostrą martwicę komórek wątroby i niewydolność nerek.",
-      notes: "Opisany po serii tragicznych zatruć w prowincji Guangdong."
-    },
     it: {
       description: "Un fungo ectomicorrizico mortale dei boschi di latifoglie della Cina meridionale (provincia di Guangdong), associato a formazioni di Castanopsis e querce.",
       cap: "Il cappello misura 3–6 cm di diametro. È emisferico poi convesso e spianato, di colore bruno chiaro, grigio-brunastro o nocciola, caratterizzato da fessurazioni o screpolature radiali evidenti verso il margine (da cui il nome rimosa).",
@@ -54773,6 +54723,16 @@ export const CATALOG = [
       habitat: "Les sporophores apparaissent solitaires ou dispersés sur le sol dans les forêts de feuillus, y compris les bois de la famille du hêtre, de juin jusqu'en septembre.",
       uses: "Il est mortellement toxique. Il contient des amatoxines et provoque des lésions hépatiques aiguës, qui peuvent évoluer vers une insuffisance hépatique. Aucun antidote spécifique n'est connu.",
       notes: "Dans le comté de Wengyuan, dans le Guangdong, cinq personnes ont été empoisonnées, et deux d'entre elles, âgées de 15 ans et de 7 ans, sont décédées. Les champignons récoltés sur le site ont été identifiés comme appartenant à cette espèce et à Amanita fuliginea. La cuticule du chapeau mesure 130–190 µm d'épaisseur et comporte deux couches. Sa couche supérieure est légèrement gélatinisée et contient d'abondantes cellules renflées, une combinaison unique au sein d'Amanita section Phalloideae."
+    },
+    pl: {
+      description: "Śmiertelnie trujący grzyb ektomikoryzowy lasów południowych Chin. W Europie nie występuje.",
+      cap: "Kapelusz ma 4–9 cm średnicy, początkowo stożkowaty do wypukłego, później spłaszczony, białawy do jasnoszarego, ze skórką charakterystycznie promienisto pękającą w stanie dojrzałym.",
+      hymenium: "Blaszki są wolne, białe, gęste.",
+      stipe: "Trzon ma 6–12 cm długości, jest cylindryczny, biały, z pierścieniem i pochwą u podstawy.",
+      flesh: "Miąższ jest biały, cienki.",
+      sporePrint: "Biały. Zarodniki są kuliste, gładkie, amyloidalne.",
+      habitat: "Owocniki pojawiają się latem w lasach liściastych z drzewami z rodziny bukowatych w Chinach.",
+      uses: "Grzyb śmiertelnie trujący z powodu zawartości amatoksyn wywołujących martwicę wątroby."
     }
     },
     sources: {
@@ -54970,13 +54930,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/Amanita_rimosa"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Amanita_rimosa"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -55010,6 +54963,13 @@ export const CATALOG = [
         {
           group: "text",
           name: "Wikipedia (English)",
+          href: "https://en.wikipedia.org/wiki/Amanita_rimosa"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Źródło",
           href: "https://en.wikipedia.org/wiki/Amanita_rimosa"
         }
       ]
@@ -55322,17 +55282,6 @@ export const CATALOG = [
       confusion: "Trogia infundibuliformis (Trogia infundibuliformis) має виразнішу лійкоподібну форму шапинки, хвилястий край та порожнисту ніжку. Глива звичайна (Pleurotus ostreatus) має значно товстіший, м'ясистий м'якуш.",
       notes: "Українська народна назва відсутня; показано наукову латинську назву. Відповідальний за сотні раптових смертей мешканців високогірних сіл Китаю."
     },
-    pl: {
-      description: "Nadrzewny grzyb saprotroficzny rozwijający się w kępach na butwiejącym drewnie w górskich lasach subtropikalnych południowo-zachodnich Chin (prowincja Junnan).",
-      cap: "Owocnik jest delikatny, o wymiarach 3–7 cm na 5–10 cm. Kapelusz jest łopatkowaty, muszlowaty lub wachlarzowaty, czysto biały, z wiekiem szarobiaławy, higrofaniczny.",
-      hymenium: "Blaszki są wąskie, zbiegające na trzon, białawe.",
-      stipe: "Trzon jest krótki, boczny lub ekscentryczny, włóknisty, białawy.",
-      flesh: "Miąższ jest cienki, kruchy, białawy. Brak wyraźnego zapachu.",
-      habitat: "Owocniki pojawiają się w porze deszczowej, od czerwca do początku września, na martwym drewnie w górach Junnanu.",
-      uses: "Śmiertelnie trujący. Był przyczyną tajemniczego tzw. syndromu nagłej śmierci w Junnanie (Yunnan Sudden Death Syndrome), który w ciągu 30 lat spowodował zgon ponad 400 osób. Zawiera toksyczne nielaktonowe aminokwasy (pochodne kwasu heksynowego) powodujące gwałtowną hipoglikemię i zatrzymanie akcji serca.",
-      confusion: "Trogia infundibuliformis ma lejkowaty kapelusz i rośnie na innych gatunkach drewna. Boczniaki (Pleurotus) mają znacznie grubszy, mięsisty miąższ.",
-      notes: "Zagadkę masowych zgonów w Junnanie rozwiązano dopiero po wieloletnich badaniach epidemiologicznych i toksykologicznych."
-    },
     it: {
       description: "Un piccolo fungo lignicolo saprotrofo che fruttifica a cespi su legno marcescente nelle regioni montane della Cina sud-occidentale (provincia dello Yunnan).",
       cap: "Il carpoforo è piccolo ed esile, a mensola o imbuto asimmetrico, largo 3–7 cm, di colore bianco candido da giovane, impallidendo o ingiallendo leggermente con l'età.",
@@ -55366,6 +55315,16 @@ export const CATALOG = [
       uses: "Les personnes décédées après en avoir consommé s'étaient généralement bien portées auparavant. La plupart ont perdu connaissance au cours d'une activité ordinaire et sont mortes en une dizaine de minutes, ou sont tombées dans le coma et sont décédées en l'espace d'une journée. Quelques-unes ont eu des convulsions ou ont vomi alors qu'elles étaient inconscientes. Certaines s'étaient évanouies ou avaient ressenti des vertiges juste avant, et d'autres ont présenté des symptômes bénins, par intermittence pendant trois à cinq jours, qui n'avaient pas interrompu leurs activités habituelles. Du dernier repas jusqu'au décès, le délai médian était de quatre jours, dans une fourchette de 16 heures à 15 jours. Deux personnes qui en avaient consommé et ont survécu présentaient une glycémie de 3,31 et 3,65 mmol/L. L'autopsie de quatre personnes qui en avaient mangé a révélé de petits foyers de nécrose du muscle cardiaque avec infiltration lymphocytaire. Chez la souris, un extrait du champignon frais a provoqué une hypoglycémie profonde et la mort en quelques heures. Cette évolution est expérimentale et ne correspond pas au tableau clinique chez l'être humain.",
       confusion: "Trogia infundibuliformis (Trogia infundibuliformis) possède un chapeau en entonnoir, une marge ondulée, des lames subdécurrentes, une surface hygrophane, un pied creux et une odeur agréable. La présente espèce est dépourvue de ces caractères. Son chapeau est en forme d'éventail à semblable à un pétale, avec une marge ondulée en partie translucide et des lames étroites, et le pied est fibreux, pâle à brunâtre, et non creux.",
       notes: "Les sporophores contiennent de l'acide 2R-amino-4S-hydroxy-5-hexynoïque, de l'acide 2R-amino-5-hexynoïque et de l'acide gamma-guanidinobutyrique. Les deux acides aminés hexynoïques ne sont pas des acides aminés utilisés dans les protéines, et chez la souris ils provoquent une hypoglycémie. L'un d'eux a été retrouvé dans le sang intracardiaque d'une personne décédée subitement dans un village où poussait le champignon. Ils n'expliquent pas chaque mort subite dans la région. Plus de 400 morts subites inexpliquées ont été enregistrées dans le nord-ouest du Yunnan depuis 1978, la grande majorité chez des personnes qui semblaient en bonne santé, et plus de neuf sur dix d'entre elles se sont produites en juin, juillet et août. Dans les comtés placés sous surveillance spéciale, 395 décès de ce type ont été dénombrés de 1975 à 2009. Des mises en garde recommandant de ne pas consommer de champignons inconnus, puis un avertissement ultérieur nommant ce champignon, ont été suivis d'une baisse spectaculaire : environ 73 pour cent de décès en moins de 2006 à 2009 par rapport à la période 2002 à 2005. Les décès n'ont pas totalement cessé. La teneur en baryum dans les sporophores séchés est d'environ 0,5–22 µg par gramme, et les moyennes sur les sites échantillonnés étaient d'environ 5,4–12,2 µg par gramme, comparables à celles d'autres denrées alimentaires. Elle n'explique pas les décès. Des personnes ont récolté ce champignon par inadvertance en ramassant des champignons comestibles."
+    },
+    pl: {
+      description: "Nadrzewny grzyb saprotroficzny rosnący kępami na butwiejącym drewnie w górskich lasach prowincji Junnan w południowo-zachodnich Chinach, na wysokościach 1700–3000 m n.p.m.",
+      cap: "Owocnik jest delikatny, o wymiarach 3–7 × 5–10 cm, wachlarzowaty, płatowaty do łopatkowatego (przypominający liść miłorzębu), z falistym, częściowo prześwitującym brzegiem. Barwa jest biała, różowawa do jasnobrązowej.",
+      hymenium: "Blaszki są wąskie, zbiegające na trzon.",
+      stipe: "Trzon jest krótki, boczny lub ekscentryczny, włóknisty, białawy do brązowawego, pełny.",
+      flesh: "Miąższ jest bardzo cienki, kruchy, bez przyjemnego zapachu.",
+      habitat: "Owocniki pojawiają się od czerwca do września w porze deszczowej, w dużych skupiskach na martwych pniach i kłodach w górskich lasach liściastych i mieszanych.",
+      uses: "Grzyb śmiertelnie trujący. Przez dziesięciolecia był przyczyną setek nagłych, niewyjaśnionych zgonów mieszkańców górskich wiosek w Junnanie (tzw. zespół nagłej śmierci z Junnanu). Zawiera toksyczne, nienaturalne aminokwasy wywołujące nagłą, ciężką hipoglikemię (drastyczny spadek cukru we krwi) oraz uszkodzenie mięśnia sercowego.",
+      confusion: "Trogia infundibuliformis (Trogia infundibuliformis) ma kapelusz lejkowaty o pofalowanym brzegu, blaszki nieco zbiegające, pusty trzon i przyjemny zapach, podczas gdy u Trogia venenata kapelusz jest wachlarzowaty do płatowatego, blaszki wąskie, a trzon pełny."
     }
     },
     sources: {
@@ -55604,13 +55563,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/Trogia_venenata"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Trogia_venenata"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -55680,6 +55632,13 @@ export const CATALOG = [
           group: "text",
           name: "Source",
           href: "https://doi.org/10.3897/mycokeys.105.118826"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Źródło",
+          href: "https://en.wikipedia.org/wiki/Trogia_venenata"
         }
       ]
     },
@@ -55784,10 +55743,10 @@ export const CATALOG = [
       bg: 'аметистова гъба',
       ru: "лаковица аметистовая",
       uk: "лаковиця аметистова",
-      pl: "lakówka ametystowa",
       it: "laccaria ametistina",
       hu: "lila pénzecskegomba",
-      fr: "laccaire améthyste"
+      fr: "laccaire améthyste",
+      pl: "lakówka ametystowa"
     },
     names: {
       en: ["amethyst laccaria"],
@@ -56058,18 +56017,6 @@ export const CATALOG = [
       confusion: "Лаковиця рожева (Laccaria laccata) має коричнево-рожеве плодове тіло без аметистового відтінку. Міцена чиста (Mycena pura) має редьковий запах і тонкі густі пластинки.",
       notes: "Має високу здатність до гіперакумуляції миш'яку з ґрунту."
     },
-    pl: {
-      description: "Niewielki grzyb ektomikoryzowy lasów liściastych i iglastych, rosnący na wilgotnej ściółce leśnej i w mchu. Pospolity w całej Europie.",
-      cap: "Kapelusz ma 2–6 cm średnicy. Za młodu jest półkolisty, później wypukły do rozpostartego i lekko wklęsłego na środku. Wykazuje silną higrofaniczność: w stanie wilgotnym jest intensywnie ametystowofioletowy, wysychając płowieje do bladoliliowego lub białawego z brązowawym odcieniem.",
-      hymenium: "Blaszki są grube, szerokie (3–8 mm), rzadkie, przyrośnięte do lekko zbiegających, intensywnie ciemnofioletowe, z wiekiem oprószone białymi zarodnikami.",
-      stipe: "Trzon ma 3–10 cm długości i 0,2–0,8 cm grubości, jest cylindryczny, często wygięty, sprężysty, podłużnie włóknisty, tej samej barwy co kapelusz, z fioletową grzybnią u podstawy.",
-      flesh: "Miąższ jest cienki, wodnisty, liliowy, w trzonie włóknisty. Zapach i smak są słabe, przyjemne.",
-      sporePrint: "Biały. Zarodniki są kuliste, pokryte wyraźnymi kolcami o długości do 2 μm, o średnicy około 8–10 μm bez kolców.",
-      habitat: "Owocniki wyrastają od czerwca do listopada w wilgotnych lasach bukowych, dębowych i iglastych na glebach próchnicznych.",
-      uses: "Grzyb jadalny, zbiera się wyłącznie kapelusze (trzony są zbyt łykowate). Z uwagi na zdolność do kumulowania arsenu i metali ciężkich z gleby zaleca się spożywanie z umiarem.",
-      confusion: "Lakówka pospolita (Laccaria laccata) ma taki sam pokrój, lecz kapelusz i blaszki są rdzawocieliste (bez odcienia fioletu). Grzybówka fioletowawa (Mycena pura) pachnie silnie rzodkwią i ma gęstsze blaszki.",
-      notes: "Owocniki potrafią intensywnie kumulować arsen z gleby."
-    },
     it: {
       description: "Un piccolo fungo ectomicorrizico della lettiera e del muschio nei boschi temperati di faggio, quercia e conifere. È comune in tutta Europa.",
       cap: "Il cappello misura 2–6 cm di diametro. È convesso poi spianato e debolmente depresso al centro, igrofano: di un magnifico colore violetto ametista scuro a tempo umido, impallidendo a toni lilla chiaro o grigio-rosato quando si asciuga.",
@@ -56105,6 +56052,17 @@ export const CATALOG = [
       uses: "Il est comestible et n'est pas considéré comme un choix remarquable. Seuls les chapeaux valent la peine d'être cuisinés, car les pieds sont fibreux et coriaces. Les chapeaux s'utilisent dans les soupes et les sauces, où leur couleur apporte une touche décorative, et les lames sont nettoyées au préalable. Une grande quantité est nécessaire pour constituer un plat.",
       confusion: "Le laccaire laqué (Laccaria laccata) présente la même silhouette et un pied fibreux et coriace, mais son chapeau et ses lames sont brun orangé, brun rougeâtre ou ocre rosâtre. Les vieux sporophores décolorés en chamois pâle sont alors difficiles à distinguer de cette espèce, à moins qu'il ne subsiste du violet dans les lames. Le laccaire bicolore (Laccaria bicolor) a des lames lilas dans la jeunesse, de sorte qu'un sporophore décoloré peut lui ressembler. Un Laccaria bicolor mature est plus robuste et n'est pas entièrement violet. Le laccaire améthyste occidental (Laccaria amethysteo-occidentalis) pousse à l'ouest des montagnes Rocheuses sous conifères. Il est en moyenne plus grand, le violet pâlit vers le vineux plutôt que vers le brun, et ses spores sont subglobuleuses à largement ellipsoïdes, avec un rapport longueur/largeur d'environ 1,06–1,24 et des épines plus courtes. Le laccaire brun vineux (Laccaria vinaceobrunnea), de la côte du golfe du Mexique, n'est pourpre foncé que très jeune et pâlit rapidement en brun violacé puis en brun orangé terne ou chamois. Ses spores ont une forme intermédiaire et son revêtement piléique est un palissadoderme. Il croît avec Quercus virginiana. Le laccaire de Gomez (Laccaria gomezii), des forêts de nuages à chênes d'Amérique centrale et du nord de l'Amérique du Sud, est d'un pourpre plus foncé et possède des lames serrées. La mycène pure (Mycena pura) est violette, mais ses lames sont pâles, son pied n'est pas fibreux et elle dégage une odeur de radis. La forme lilas de l'inocybe à lames terreuses (Inocybe geophylla) possède un mamelon pointu, une odeur désagréable et des lames serrées qui brunissent, avec une sporée brune. Le cortinaire violet (Cortinarius violaceus) possède un chapeau feutré et une cortine qui retient une sporée brun rouille, et d'autres espèces violettes de Cortinarius partagent cette cortine et cette couleur de sporée. Le pied-bleu (Lepista nuda) est plus charnu et plus grand, et ses sporophores ont une forme différente.",
       notes: "Les sporophores peuvent concentrer l'arsenic. Une mesure a trouvé environ 100 microgrammes par gramme de matière sèche, et sur sol pollué la quantité peut être élevée. Le mycélium se développe facilement là où le sol est riche en ammoniac ou en autres composés azotés. Une évaluation de 2014 dans l'oblast de Mourmansk et une évaluation de 2020 dans la république de Carélie le considèrent toutes deux comme rare et quasi menacé. Les signalements de Sibérie portant ce nom doivent encore être vérifiés, car une partie de ce matériel pourrait être Laccaria amethysteo-occidentalis."
+    },
+    pl: {
+      description: "Niewielki grzyb ektomikoryzowy wilgotnej ściółki i mchów w lasach strefy umiarkowanej, wyrastający często w dużych grupach. Szeroko rozprzestrzeniony w Europie, Azji, Ameryce Północnej i Południowej.",
+      cap: "Kapelusz ma 2–6 cm średnicy (niekiedy do 7 cm). Początkowo jest wypukły z podwiniętym brzegiem, później spłaszczony z wgłębionym środkiem i pofalowanym brzegiem. Jest silnie higrofaniczny: w stanie wilgotnym ma jaskrawą, ciemnoametystową lub fioletowoliliową barwę, podczas wysychania blednie od środka do szaroliliowej, ochrowobeżowej lub prawie białej.",
+      hymenium: "Blaszki są grube, szerokie (3–8 mm), bardzo rzadkie, przyrośnięte lub lekko zbiegające na trzon. Mają intensywnie fioletową barwę, która utrzymuje się dłużej niż barwa kapelusza, w stanie dojrzałym są oprószone białymi zarodnikami.",
+      stipe: "Trzon ma 4–10 cm długości i 0,3–0,8 cm grubości, jest cylindryczny, często powyginany, elastyczny, włóknisty i twardy, w barwie kapelusza, z białawą lub liliową grzybnią u podstawy. Brak pierścienia.",
+      flesh: "Miąższ jest cienki, wodnisty, liliowy, w stanie suchym białawy. Zapach jest słaby, a smak łagodny, nieco słodkawy.",
+      sporePrint: "Biały. Zarodniki są kuliste, pokryte wyraźnymi kolcami o długości do 2–3 μm, o średnicy 7–10 μm (bez kolców), nieamyloidalne.",
+      habitat: "Owocniki pojawiają się od czerwca do listopada w wilgotnych lasach liściastych (zwłaszcza bukowych i dębowych) oraz iglastych, w mchu i wśród opadłych liści.",
+      uses: "Grzyb jadalny. Do celów kulinarnych zbiera się wyłącznie kapelusze (trzony są zbyt łykowate i twarde). Ze względu na fioletową barwę bywa używany jako dekoracyjny dodatek do sałatek i zup.",
+      confusion: "Grzybówka czysta (Mycena pura) ma rzodkiewkowy zapach i kruchy trzon. Trujące małe strzępiaki (Inocybe) mają brązowy wysyp zarodników i nieprzyjemny zapach."
     }
     },
     sources: {
@@ -56433,18 +56391,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BA%D0%BE%D0%B2%D0%B8%D1%86%D1%8F_%D0%B0%D0%BC%D0%B5%D1%82%D0%B8%D1%81%D1%82%D0%BE%D0%B2%D0%B0"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Lakówka_ametystowa"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -56484,6 +56430,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Lakówka_ametystowa"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -56606,10 +56564,10 @@ export const CATALOG = [
       bg: 'чернееща черешова гъба',
       ru: "гигроцибе коническая",
       uk: "гігроцибе конічна",
-      pl: "wilgotnica czerniejąca",
       it: "igrocybe conica",
       hu: "feketedő nedűgomba",
-      fr: "hygrocybe conique"
+      fr: "hygrocybe conique",
+      pl: "wilgotnica czerniejąca"
     },
     names: {
       en: [
@@ -56884,18 +56842,6 @@ export const CATALOG = [
       confusion: "Гігроцибе гостроконічна (Hygrocybe acutoconica) також має конічну жовто-помаранчеву шапинку, проте ніколи не чорніє ні від дотику, ні від старості. Hygrocybe conicoides (Hygrocybe conicoides) росте на приморських дюнах і має пластинки, які не чорніють при висиханні.",
       notes: "Один із найпоширеніших представників родини гігрофорових на луках Європи."
     },
-    pl: {
-      description: "Grzyb saprotroficzny ubogich, nieużywanych rolniczo łąk, pastwisk i obrzeży lasów. Pospolity w strefie umiarkowanej.",
-      cap: "Kapelusz ma 1–5 cm średnicy (niekiedy do 7 cm). Ma charakterystyczny, ostro stożkowaty kształt, który zachowuje nawet po rozpostarciu. Barwa jest jaskrawa: szkarłatnoczerwona, pomarańczowa do żółtej. W miarę dojrzewania lub po uszkodzeniu cały owocnik powoli, lecz całkowicie czernieje.",
-      hymenium: "Blaszki są wolne lub wąsko przyrośnięte, grube, woskowate, żółte do pomarańczowych, po uszkodzeniu i ze starości czerniejące.",
-      stipe: "Trzon ma 3–10 cm długości i 0,3–0,8 cm grubości, jest cylindryczny, pusty, kruchy, podłużnie prążkowany, żółtopomarańczowy, od podstawy czerniejący.",
-      flesh: "Miąższ jest cienki, kruchy, żółtopomarańczowy, na powietrzu szybko czerniejący. Zapach i smak są niewyraźne.",
-      sporePrint: "Biały. Zarodniki są elipsoidalne do lekko nerkowatych, gładkie, nieamyloidalne, o wymiarach około 8–11 × 5–7 μm.",
-      habitat: "Owocniki pojawiają się od czerwca do listopada na naturalnych łąkach, pastwiskach i przydrożach.",
-      uses: "Grzyb trujący. Może wywoływać zaburzenia żołądkowo-jelitowe o różnym nasileniu.",
-      confusion: "Wilgotnica ostrostożkowata (Hygrocybe acutoconica) ma również stożkowaty, żółtopomarańczowy kapelusz, lecz nigdy nie czernieje po uszkodzeniu ani ze starości.",
-      notes: "Nazwa obejmuje kompleks blisko spokrewnionych form i taksonów drobnych."
-    },
     it: {
       description: "Un fungo prativo dai colori vivacissimi che cresce nei pascoli non concimati, prati montani, dune costiere e radure erbose. È ampiamente diffuso in Europa.",
       cap: "Il cappello misura 1–6 cm di diametro. È acutamente conico e appuntito, mantenendo a lungo la forma conica anche a maturità, di colore giallo oro, arancione brillante o rosso scarlatto, vischioso a tempo umido. Con l'età o al minimo tocco annerisce progressivamente e completamente fino a diventare nero carbone.",
@@ -56931,6 +56877,17 @@ export const CATALOG = [
       uses: "Il est toxique et a provoqué des intoxications gastro-intestinales accompagnées de nausées, de vomissements, de crampes abdominales et de diarrhées. Les toxines responsables sont inconnues. Certains guides de terrain plus anciens le répertorient comme comestible ou de comestibilité inconnue, mais sa consommation est vivement déconseillée. Le noircissement des sporophores les rend par ailleurs peu attrayants sur le plan culinaire.",
       confusion: "L'hygrocybe des dunes (Hygrocybe conicoides) pousse sur les dunes calcaires, possède des lames jaunes, saumon ou rougeâtres, et noircit beaucoup plus lentement et rarement entièrement. Ses spores sont plus longues et plus étroites, mesurant environ 10–12,5 × 5–6 µm. L'hygrocybe conique aigu (Hygrocybe acutoconica) ne noircit pas. L'hygrocybe ponceau (Hygrocybe punicea) présente une stature similaire et ne noircit pas. L'hygrocybe écarlate (Hygrocybe coccinea) et l'hygrocybe vermillon (Hygrocybe miniata) ne noircissent pas. L'hygrocybe noircissant (Hygrocybe nigrescens) se distingue par un chapeau plus obtus, moins conique, et un sporophore plus robuste, et il est signalé dans les bois de chênes. L'hygrocybe de Singer (Hygrocybe singeri) noircit également et possède un pied visqueux. Il est connu de la côte Ouest et de la région des Grands Lacs supérieurs. L'hygrophore perroquet (Hygrocybe psittacina) est plus bariolé et vire souvent au vert.",
       notes: "Le nom recouvre un complexe de formes étroitement apparentées, au moins onze d'entre elles, et les auteurs n'en tracent pas les mêmes limites. Certains auteurs ne séparent pas Hygrocybe nigrescens, car des basides bisporiques et tétrasporiques peuvent coexister sur un même sporophore. Des sporophores récoltés dans des tourbières basses qui ne noircissent que peu, avec un chapeau strié et une cuticule pelable, ont été séparés sous forme de variété, et leurs spores sont un peu plus longues et plus étroites. Les récoltes enregistrées sous ce nom en Californie appartiennent à un complexe, et l'espèce européenne y est probablement absente. De nombreuses récoltes australiennes qui lui ont été attribuées correspondent à Hygrocybe astatogala. Les sporophores matures deviennent noirs et peuvent rester dressés pendant des semaines. Il est classé comme préoccupation mineure (Least Concern) au Danemark, en Finlande, en Norvège et en Suède. Il a été considéré comme un partenaire mycorhizien des graminées et comme un saprotrophe sur racines mortes. Une association mutualiste avec les mousses est aujourd'hui jugée probable, et son mode trophique n'est pas définitivement établi."
+    },
+    pl: {
+      description: "Grzyb saprotroficzny i biotroficzny naturalnych, niewożonych pastwisk, łąk, muraw i polan leśnych. Pospolity w Europie, Azji i Ameryce Północnej.",
+      cap: "Kapelusz ma 2–6 cm średnicy, jest ostrostożkowaty do dzwonkowatego, z wiekiem rozpościera się z zachowaniem ostrego garbka. Barwa jest jaskrawa, szkarłatnoczerwona, pomarańczowa lub żółta. Skórka jest gładka, w wilgotną pogodę lepka, promieniście włóknista. Cechą charakterystyczną jest natychmiastowe lub powolne czernienie całego owocnika po dotknięciu, z wiekiem lub podczas wysychania.",
+      hymenium: "Blaszki są prawie wolne do wąsko przyrośniętych, grube, żółtawe do pomarańczowych, po ugnieceniu powoli czerniejące.",
+      stipe: "Trzon ma 4–9 cm długości i 0,4–1 cm grubości, jest cylindryczny, pusty, kruchy, wzdłużnie włóknisto-prążkowany, żółtopomarańczowy, u podstawy białawy; po dotknięciu i z wiekiem czernieje.",
+      flesh: "Miąższ jest cienki, kruchy, żółtopomarańczowy, na przekroju szybko czerniejący. Zapach i smak są niewyraźne.",
+      sporePrint: "Biały. Zarodniki są gładkie, elipsoidalne, o wymiarach 8–12 × 5–7 μm.",
+      habitat: "Owocniki pojawiają się od lipca do października na nienawożonych, ekstensywnie użytkowanych łąkach, pastwiskach i obrzeżach lasów.",
+      uses: "Grzyb lekko trujący lub niejadalny; może wywoływać zaburzenia żołądkowo-jelitowe.",
+      confusion: "Wilgotnica szkarłatna (Hygrocybe coccinea) nie czernieje po uszkodzeniu ani z wiekiem."
     }
     },
     sources: {
@@ -57233,18 +57190,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%93%D1%96%D0%B3%D1%80%D0%BE%D1%86%D0%B8%D0%B1%D0%B5_%D0%BA%D0%BE%D0%BD%D1%96%D1%87%D0%BD%D0%B0"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Wilgotnica_czerniejąca"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -57284,6 +57229,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Wilgotnica_czerniejąca"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -57408,10 +57365,10 @@ export const CATALOG = [
       bg: 'обикновена челядинка',
       ru: "опёнок луговой",
       uk: "опеньок луговий",
-      pl: "twardzioszek przydrożny",
       it: "gambasecca",
       hu: "mezei szegfűgomba",
-      fr: "marasme des oréades"
+      fr: "marasme des oréades",
+      pl: "twardzioszek przydrożny"
     },
     names: {
       en: ["fairy ring champignon", "Scotch bonnet"],
@@ -57688,18 +57645,6 @@ export const CATALOG = [
       confusion: "Смертельно отруйна говорушка червонувата (Clitocybe rivulosa) росте в тих самих місцях, але має густі збіжні білі пластинки без запаху мигдалю.",
       notes: "Висушені плодові тіла здатні повністю оживати й відновлювати форму після намочування водою (явище анабіозу)."
     },
-    pl: {
-      description: "Niewielki grzyb saprotroficzny trawiastych pastwisk, łąk, przydroży i trawników, tworzący charakterystyczne, rozległe czarcie koła. Pospolity w Europie i Ameryce Północnej.",
-      cap: "Kapelusz ma 1–5 cm średnicy. Za młodu jest dzwonkowato-wypukły, później rozpostarty z wyraźnym, tępym garbkiem. Barwa jest bladoochrowa, mięsnordzawa do kremowej, w stanie wilgotnym nieco ciemniejsza. Skórka jest gładka i naga.",
-      hymenium: "Blaszki są rzadkie, grube, wolne do wąsko przyrośniętych, białawe do bladoochrowych, połączone anastomozami.",
-      stipe: "Trzon ma 3–8 cm długości i 0,2–0,5 cm grubości, jest cylindryczny, pełny, niezwykle elastyczny i łykowaty – można go kilkukrotnie skręcić wokół osi bez złamania. Barwa jest jaśniejsza od kapelusza.",
-      flesh: "Miąższ w kapeluszu jest cienki, białawy, w trzonie łykowaty i twardy. Posiada wspaniały, bardzo przyjemny, słodkawy zapach przypominający kwas pruski lub migdały oraz wyrazisty smak.",
-      sporePrint: "Biały. Zarodniki są gładkie, pestkowate do elipsoidalnych, o wymiarach około 7–10 × 4–6 μm.",
-      habitat: "Owocniki pojawiają się od maja do listopada na trawnikach, łąkach, pastwiskach i przydrożach po obfitych opadach deszczu.",
-      uses: "Wyborny grzyb jadalny o wspaniałym aromacie. Zbiera się same kapelusze (trzony są zbyt twarde). Doskonały do zup, sosów i dań jajecznych; znakomicie się suszy i po namoczeniu odzyskuje pierwotny kształt.",
-      confusion: "Trujące małe lejkówki (np. lejkówka jadowita Clitocybe rivulosa) rosną na tych samych trawnikach; mają gęste, zbiegające blaszki i łamliwy trzon.",
-      notes: "Zasuszone owocniki po nawilżeniu wodą ożywają i potrafią ponownie wysypywać zdolne do kiełkowania zarodniki."
-    },
     it: {
       description: "Un comune fungo saprotrofo prativo che forma caratteristici cerchi delle streghe o file nei prati, pascoli, campi sportivi e giardini. È diffusissimo in tutta Europa.",
       cap: "Il cappello misura 1–5 cm di diametro. È convesso poi appianato con un umbone centrale ottuso e prominente. È igrofano: di colore bruno-camoscio o nocciola chiaro a tempo umido, schiarente al crema chiaro o isabella quando asciutto.",
@@ -57735,6 +57680,17 @@ export const CATALOG = [
       uses: "Un excellent champignon comestible à la saveur douce de noisette. Les pieds coriaces sont éliminés et seuls les chapeaux sont cuisinés. Il sèche très bien, se réhydrate facilement et conserve toute sa saveur au séchage.",
       confusion: "Le clitocybe du bord des chemins (Clitocybe rivulosa) pousse dans les mêmes pelouses et peut former des ronds. Ses lames sont serrées et décurrentes, son chapeau est blanc, gris ou brun-ocre et convexe sans mamelon, et son pied est plus raide et moins souple. L'agrocybe précoce (Agrocybe praecox) a des lames chamois qui foncent et une sporée brune. L'agrocybe des pelouses (Agrocybe pediades) est dépourvu de mamelon, son pied se casse facilement et la sporée colore les lames en brun. Le marasme des collines (Marasmius collinus) possède un pied lisse et fragile qui casse lorsqu'on le tord, des lames plus denses et une odeur désagréable. Le marasme à pied rouge (Marasmius torquescens) croît dans la litière de feuilles des forêts de feuillus et possède un bas de pied brun rouille foncé à noir. Le marasme de Wynne (Marasmius wynneae) a un chapeau blanchâtre pâle, une base de pied sombre et des spores plus petites. La collybie du chêne (Gymnopus dryophilus) possède des lames beaucoup plus serrées.",
       notes: "Les sporophores desséchés revivent dans l'eau. Ils reprennent leur forme et peuvent former de nouvelles cellules et de nouvelles spores. Les sporophores contiennent du tréhalose, un sucre qui permet aux cellules de survivre à la dessiccation. Là où le mycélium se développe en rond, l'herbe le long du front vivant est d'un vert plus foncé, tandis que l'herbe à l'intérieur du rond est brune là où le mycélium est mort."
+    },
+    pl: {
+      description: "Niewielki grzyb saprotroficzny otwartych terenów trawiastych, pastwisk, łąk, trawników i miedz, tworzący często olbrzymie czarcie koła. Pospolity w Europie, Azji i Ameryce Północnej.",
+      cap: "Kapelusz ma 2–5 cm średnicy, początkowo jest dzwonkowaty, później wypukły do rozpostartego z tępym garbkiem w środku i falistym brzegiem. Barwa jest cielistoochrowa, bladoruda do beżowej; skórka jest higrofaniczna, gładka, w stanie suchym blednąca.",
+      hymenium: "Blaszki są rzadkie, grube, wolne lub prawie wolne, z międzyblaszkami, białawe do bladoochrowych.",
+      stipe: "Trzon ma 3–7 cm długości i 0,2–0,5 cm grubości, jest cylindryczny, pełny, niezwykle elastyczny i twardy (dający się skręcać w palcach bez złamania), bladoochrowy, nagi lub delikatnie filcowaty u podstawy. Brak pierścienia.",
+      flesh: "Miąższ w kapeluszu jest cienki, elastyczny, białawy. Charakteryzuje się przyjemnym, silnym, cyjanowomigdałowym aromatem i łagodnym, słodkawym smakiem.",
+      sporePrint: "Biały. Zarodniki są gładkie, elipsoidalne, o wymiarach 7–9 × 4–5 μm.",
+      habitat: "Owocniki pojawiają się od maja do listopada w trawie na łąkach, pastwiskach, skwerach i trawnikach po obfitych deszczach; po wyschnięciu w czasie suszy potrafią po ponownym deszczu odżyć i kontynuować zarodnikowanie.",
+      uses: "Wyborny grzyb jadalny o wspaniałym aromacie. Trzony są zbyt łykowate, dlatego zbiera się same kapelusze. Znakomity do zup, sosów i suszenia.",
+      confusion: "Lejkówki (Clitocybe) o białych kapeluszach rosnące na trawie są trujące (zawierają muskarynę), mają gęste, zbiegające blaszki i łamliwy trzon."
     }
     },
     sources: {
@@ -58036,18 +57992,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%9E%D0%BF%D0%B5%D0%BD%D1%8C%D0%BE%D0%BA_%D0%BB%D1%83%D0%B3%D0%BE%D0%B2%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Twardzioszek_przydrożny"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -58087,6 +58031,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Twardzioszek_przydrożny"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -58200,10 +58156,10 @@ export const CATALOG = [
       bg: 'обикновена рача нога',
       ru: "кордицепс военный",
       uk: "кордицепс військовий",
-      pl: "maczużnik bojowy",
       it: "cordyceps militare",
       hu: "vörös rovarrontógomba",
-      fr: "cordyceps militaire"
+      fr: "cordyceps militaire",
+      pl: "maczużnik bojowy"
     },
     names: {
       en: ["scarlet caterpillar fungus", "scarlet caterpillar club"],
@@ -58471,18 +58427,6 @@ export const CATALOG = [
       confusion: "Клавулінопсис жовтий (Clavulinopsis laeticolor) не росте з комах і не має шорстких занурених перитеціїв.",
       notes: "Продукує кордицепін — біоактивний аналог аденозину з вираженими противірусними та протипухлинними властивостями."
     },
-    pl: {
-      description: "Pasożytniczy grzyb workowy rozwijający się na ukrytych w glebie lub ściółce poczwarkach i gąsienicach motyli. Szeroko rozpowszechniony na półkuli północnej.",
-      cap: "Owocnik (podkładka) ma 2–6 cm wysokości i 0,3–1 cm grubości, jest maczugowaty, niesymetryczny, o jaskrawej pomarańczowej do cynobrowoczerwonej barwie. Szczytowa część jest pokryta drobnymi brodaweczkami (ujściami perytecjów).",
-      hymenium: "Płodna warstwa znajduje się na powierzchni główki maczugi. W zagłębionych butelkowatych perytecjach wykształcają się worki z askosporami.",
-      stipe: "Dolna, płonna część owocnika tworzy cylindryczny, pomarańczowy trzonek zakorzeniony głęboko w spoczywającej w ziemi mumii owada.",
-      flesh: "Miąższ jest włóknisto-mięsisty, elastyczny, pomarańczowy. Zapach i smak są słabe.",
-      sporePrint: "Biały. Askospory są długie, nitkowate, wieloprzegrodowe, w dojrzałości rozpadające się na drobne, cylindryczne zarodniki cząstkowe o wymiarach około 3,5–6 × 1–1,5 μm.",
-      habitat: "Owocniki wyrastają od sierpnia do listopada w lasach, parkach i na obrzeżach dróg leśnych, wyrastając bezpośrednio z zakopanych w glebie poczwarek owadów.",
-      uses: "Niejadalny z powodu niewielkich rozmiarów. Bardzo ceniony w medycynie tradycyjnej Dalekiego Wschodu oraz nowoczesnej farmakologii jako źródło kordycepiny i adenozyny o działaniu przeciwzapalnym i immunostymulującym; jest z powodzeniem hodowany na podłożach zbożowych.",
-      confusion: "Goździeniowiec piękny (Clavulinopsis laeticolor) tworzy podobne pomarańczowe pałeczki na ziemi, lecz nie wyrasta z owadów i należy do podstawczaków.",
-      notes: "Wytwarza kordycepinę, analog nukleozydu adenozyny."
-    },
     it: {
       description: "Un fungo ascomicete entomopatogeno parassita di crisalidi e bruchi sotterranei di lepidotteri (falene). È ampiamente diffuso nelle zone temperate e boreali dell'emisfero settentrionale.",
       cap: "Il corpo fruttifero o stroma è a forma di clava eretta semplice, alta 2–6 cm e spessa 2–6 mm, di colore arancio brillante o rosso-aranciato. La porzione apicale fertile è rigonfia e cosparsa di minutissimi puntini in rilievo (gli ostioli dei periteci).",
@@ -58518,6 +58462,17 @@ export const CATALOG = [
       uses: "Il n'est pas ramassé comme champignon culinaire en raison de sa petite taille et de sa chair coriace. Il est largement utilisé en médecine traditionnelle chinoise, où il sert de substitut courant à Ophiocordyceps sinensis. Il est cultivé commercialement sur des céréales et sur des chrysalides de vers à soie. L'Autorité européenne de sécurité des aliments a évalué Cordyceps militaris cultivé en 2024 et a conclu qu'une consommation quotidienne de 1,4 à 2,1 g de poudre séchée n'a pas été démontrée comme sûre pour les adultes, en partie parce que la cordycépine peut provoquer des effets toxiques chez les animaux, alors que des compléments alimentaires contenant ce champignon continuent d'être vendus. Dans l'Union européenne, il est considéré comme un nouvel aliment (novel food), et une demande d'autorisation a été déposée. Le mycélium d'Ophiocordyceps sinensis vendu dans les compléments n'est pas considéré comme un nouvel aliment.",
       confusion: "La clavaire de couleur gaie (Clavulinopsis laeticolor) est une massue orange qui peut être confondue avec cette espèce avant que la base ne soit déterrée. Cordyceps militaris possède une tête fertile ponctuée de boutons et croît à partir d'une chrysalide ou d'une larve enfouie. Le cordyceps ophioglosse (Tolypocladium ophioglossoides) est brun rougeâtre à noir au sommet et jaune, brun ou noir en dessous, et des cordons jaunes le relient à un Elaphomyces enfoui.",
       notes: "Le champignon produit de la cordycépine, un analogue nucléosidique de l'adénosine. Il est cultivé sur du riz, sur des chrysalides de vers à soie et en milieu liquide en Chine, au Vietnam, à Taïwan et en Indonésie. Un feutrage poudreux blanc sur les chrysalides a été nommé Isaria farinosa, et il n'est pas établi que cette forme appartienne à la même espèce. Parmi les espèces de Cordyceps signalées en Grande-Bretagne et en Irlande, c'est celle qui est le plus fréquemment trouvée."
+    },
+    pl: {
+      description: "Grzyb pasożytniczy (Ascomycota) atakujący zagrzebane w glebie poczwarki i gąsienice motyli nocnych. Pospolity w strefie umiarkowanej półkuli północnej.",
+      cap: "Owocnik (podkładka) ma 2–6 cm wysokości i 0,3–1 cm grubości, ma kształt maczugowaty lub cylindryczny z zaokrąglonym wierzchołkiem. Barwa jest jaskrawa, pomarańczowa do czerwonopomarańczowej. Część płodna (główka) jest gęsto pokryta drobnymi, ciemniejszymi brodawkami – ujściami perytecjów.",
+      hymenium: "Zarodniki powstają w workach umieszczonych w butelkowatych perytecjach zagłębionych w tkance główki. Worki są wąskocylindryczne, zawierające 8 nitkowatych zarodników, które rozpadają się na drobne komórki.",
+      stipe: "Trzon stanowi dolną, płonną część podkładki; jest cieńszy, gładki, bladożółty do pomarańczowego, wyrastający bezpośrednio z mumii poczwarki w ziemi.",
+      flesh: "Miąższ jest włóknisty, elastyczny, pomarańczowy, bez wyraźnego zapachu i smaku.",
+      sporePrint: "Białawy do bezbarwnego.",
+      habitat: "Owocniki pojawiają się od sierpnia do listopada w wilgotnych lasach, na polanach i wrzosowiskach, wyrastając z ziemi z zagrzebanych owadów.",
+      uses: "Wysoko ceniony grzyb leczniczy w fitoterapii i medycynie azjatyckiej. Zawiera kordycepinę i polisacharydy o działaniu przeciwzapalnym, immunomodulującym i przeciwnowotworowym.",
+      confusion: "Maczużnik chiński (Ophiocordyceps sinensis) rośnie w wysokich partiach Himalajów na gąsienicach i ma ciemnobrązową barwę."
     }
     },
     sources: {
@@ -58809,18 +58764,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%B4%D0%B8%D1%86%D0%B5%D0%BF%D1%81_%D0%B2%D1%94%D0%B9%D1%81%D1%8C%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Maczużnik_bojowy"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -58860,6 +58803,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Maczużnik_bojowy"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -58971,10 +58926,10 @@ export const CATALOG = [
       bg: 'игловиден корал',
       ru: "ежовик гребенчатый",
       uk: "їжовик гребінчастий",
-      pl: "soplówka jeżowata",
       it: "criniera di leone",
       hu: "süngomba",
-      fr: "hydne hérisson"
+      fr: "hydne hérisson",
+      pl: "soplówka jeżowata"
     },
     names: {
       en: ["bearded tooth", "bearded hedgehog", "tree hedgehog"],
@@ -59250,18 +59205,6 @@ export const CATALOG = [
       confusion: "Герицій коралоподібний (Hericium coralloides) вирізняється ажурною коралоподібно розгалуженою структурою з короткими шипиками.",
       notes: "Рідкісний вид, занесений до Червоної книги України зі статусом вразливого. Оцінка 2019 року відносить його до категорії в найменшій загрозі (Least Concern)."
     },
-    pl: {
-      description: "Rzadki nadrzewny grzyb pasożytniczy i saprotroficzny rozwijający się na pniach starych drzew liściastych, zwłaszcza buków i dębów. Wywołuje białą zgniliznę drewna.",
-      cap: "Owocnik jest beztrzonowy, poduszeczkowaty, kulisty lub sercowaty, o średnicy 10–30 cm. Nie tworzy kapelusza; cała powierzchnia pokryta jest gęstymi, zwisającymi pionowo w dół, miękkimi, spiczastymi kolcami o długości 1–5 cm. Barwa jest początkowo czysto biała do kremowej, z wiekiem żółtawa do jasnobrązowej.",
-      hymenium: "Warstwa zarodnikonośna pokrywa powierzchnię zwisających kolców.",
-      stipe: "Trzon jest silnie zredukowany do krótkiej, grubej, bocznej podstawy zrośniętej z drewnem pnia.",
-      flesh: "Miąższ jest gruby, biały, mięsisty, sprężysty, z wiekiem twardniejący. Posiada przyjemny, grzybowy zapach i słodkawy smak.",
-      sporePrint: "Biały. Zarodniki są szerokoelipsoidalne do kulistych, gładkie do drobno brodawkowanych, amyloidalne, o wymiarach około 5–6,5 × 4,5–5,5 μm.",
-      habitat: "Owocniki pojawiają się od sierpnia do października w starych lasach bukowych i dębowych, wysoko na pniach starych drzew.",
-      uses: "Wyborny grzyb jadalny o delikatnym smaku przypominającym mięso homara lub ryby. Szeroko uprawiany komercyjnie i ceniony w medycynie za właściwości stymulujące regenerację układu nerwowego (erinacyny i hericenony wspomagające syntezę czynnika NGF).",
-      confusion: "Soplówka bukowa (Hericium coralloides) ma owocnik silnie rozgałęziony, przypominający koralowiec, z krótszymi kolcami. Soplówka jodłowa (Hericium alpestre) rośnie na jodłach.",
-      notes: "Ocena z 2019 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern), choć populacje w Europie są nieliczne. W Polsce gatunek rzadki, podlegający ochronie ścisłej."
-    },
     it: {
       description: "Un raro fungo lignicolo agente di carie bianca, parassita e saprotrofo su vecchi tronchi viventi o morti di latifoglie (specialmente quercia e faggio). È indigeno in Europa, Nord America e Asia orientale.",
       cap: "Non è presente un vero cappello differenziato. Il corpo fruttifero forma una grossa massa globosa o a cuscinetto compatto non ramificato, larga 10–30 cm, di colore bianco candido poi crema e infine giallastro-brunastro in vecchiaia.",
@@ -59297,6 +59240,17 @@ export const CATALOG = [
       uses: "Les jeunes sporophores sont un comestible de choix, et leur saveur a été comparée à celle du homard, du poisson ou d'une viande tendre. Les sporophores plus âgés deviennent coriaces. Le champignon est cultivé sur des bûches de feuillus et sur de la sciure, et les sporophores sont commercialisés.",
       confusion: "L'hydne corail (Hericium coralloides) est ramifié et coralliforme, avec des aiguillons plus courts, et croît généralement sur le hêtre et le frêne. L'hydne hérissé (Hericium cirrhatum) possède des aiguillons plus courts, mesurant environ 10–15 mm de longueur, et une console étagée plus mince avec des chapeaux distincts. L'hydne des sapins (Hericium alpestre) est ramifié et se développe sur le bois de conifères. L'hydne d'Amérique (Hericium americanum) est ramifié, pourvu de longs aiguillons, et croît dans l'est de l'Amérique du Nord. Un Hericium ramifié immature peut débuter sous la forme d'une masse unique, et un jeune sporophore à longs aiguillons peut avoir des aiguillons de 1 cm ou moins, de sorte que le coussin non ramifié d'un sporophore mature constitue la distinction la plus nette. Le pied-de-mouton (Hydnum repandum) et l'hydne roussissant (Hydnum rufescens) portent des aiguillons sous un chapeau régulier et poussent au sol.",
       notes: "Une évaluation de 2019 classe l'espèce comme préoccupation mineure (Least Concern) et en déclin, tout en traitant les champignons européens, asiatiques et nord-américains comme une seule espèce. En Pologne, une liste nationale le signale comme en danger (Endangered). Une liste nationale tchèque le traite comme vulnérable (Vulnerable). Une grande partie du matériel cultivé vendu sous ce nom correspond à une espèce d'Asie orientale. Des héricénones et des érinacines sont signalées dans les sporophores et le mycélium vendus sous ce nom, et leurs effets médicinaux ne sont pas prouvés."
+    },
+    pl: {
+      description: "Rzadki grzyb nadrzewny, pasożyt i saprotrof rozwijający się na pniach starych drzew liściastych, zwłaszcza dębów i buków. Szeroko rozprzestrzeniony, lecz w Europie rzadki i objęty ścisłą ochroną.",
+      cap: "Owocnik osiąga 10–25 cm szerokości, jest zwarty, bulwiasty, kulisty lub owalny, bez wyodrębnionego kapelusza i trzonu. Cała powierzchnia pokryta jest gęstymi, długimi (1–5 cm), zwisającymi pionowo w dół, miękkimi kolcami przypominającymi sople lodu lub grzywę lwa. Barwa jest początkowo czysto biała do kremowej, z wiekiem żółtawa do ochrowej.",
+      hymenium: "Warstwa zarodnikonośna pokrywa powierzchnię zwisających kolców.",
+      stipe: "Trzon jest zredukowany do grubej, bocznej nasady, którą owocnik przyrasta do drewna.",
+      flesh: "Miąższ jest gruby, miękki, elastyczny, śnieżnobiały. Zapach jest przyjemny, słodkawy, a smak łagodny, po przyrządzeniu przypominający mięso kraba lub homara.",
+      sporePrint: "Biały. Zarodniki są kuliste do prawie kulistych, gładkie lub drobno brodawkate, o wymiarach 5–6,5 × 4,5–5,5 μm, amyloidalne.",
+      habitat: "Owocniki pojawiają się od sierpnia do listopada na żywych i martwych pniach starych dębów i buków.",
+      uses: "Wyborny grzyb jadalny i ceniony surowiec leczniczy (znany jako soplówka lub lion's mane). Ekstrakty z tego grzyba stymulują czynnik wzrostu nerwów (NGF), wspierając funkcje poznawcze i pamięć.",
+      confusion: "Soplówka bukowa (Hericium coralloides) ma owocnik rozgałęziony koralowato z krótszymi kolcami na gałązkach."
     }
     },
     sources: {
@@ -59637,18 +59591,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%87%D0%B6%D0%BE%D0%B2%D0%B8%D0%BA_%D0%B3%D1%80%D0%B5%D0%B1%D1%96%D0%BD%D1%87%D0%B0%D1%81%D1%82%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Soplówka_jeżowata"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -59688,6 +59630,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Soplówka_jeżowata"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -59834,19 +59788,19 @@ export const CATALOG = [
       bg: 'лъскава ганодерма',
       ru: "трутовик лакированный",
       uk: "трутовик лакований",
-      pl: "lakownica żółtawa",
       it: "ganoderma lucido",
       hu: "pecsétviaszgomba",
-      fr: "ganoderme luisant"
+      fr: "ganoderme luisant",
+      pl: "lakownica żółtawa"
     },
     names: { es: ['reishi', 'seta pipa'],
       pt: ['cogumelo-da-imortalidade', 'reishi'],
       bg: ['лакирана ганодерма', 'рейши'],
       ru: ["ганодерма лакированная","рейши"],
       uk: ["ганодерма лакована"],
-      pl: ["lakownica lśniąca"],
       hu: ["lakkostapló"],
-      fr: ["reishi"]
+      fr: ["reishi"],
+      pl: ["lakownica lśniąca"]
     },
     text: {
       tr: {
@@ -60108,18 +60062,6 @@ export const CATALOG = [
       confusion: "Ганодерма смолиста (Ganoderma resinaceum) зазвичай сидяча або з короткою ніжкою, а її кірка плавиться від полум'я сірника.",
       notes: "Рідкісний реліктовий вид, занесений до Червоної книги України зі статусом рідкісного."
     },
-    pl: {
-      description: "Nadrzewny grzyb pasożytniczy i saprotroficzny rozwijający się u podstawy pni i na korzeniach drzew liściastych, zwłaszcza dębów. Występuje w strefie umiarkowanej i subtropikalnej.",
-      cap: "Kapelusz ma 5–25 cm szerokości, jest nerkowaty, wachlarzowaty lub półkolisty. Powierzchnia pokryta jest twardą, błyszczącą skorupą przypominającą lakier, o barwie początkowo żółtej, potem czerwonobrązowej, kasztanowej do niemal czarnej, z koncentrycznymi bruzdami i białym lub żółtym brzegiem.",
-      hymenium: "Rurki mają 0,5–2 cm długości. Pory są drobne, okrągłe, białawe do kremowych, po dotknięciu i z wiekiem brązowiejące.",
-      stipe: "Trzon ma 5–15 cm długości i 1–3 cm grubości, jest boczny, rzadziej centralny, walcowaty, twardy, pokryty lśniącą, czerwonobrązową lub czarną skorupą lakieru.",
-      flesh: "Miąższ jest korkowaty do zdrewniałego, włóknisty, barwy jasnobrązowej do orzechowej. Zapach jest słaby, a smak gorzkawy.",
-      sporePrint: "Brązowy do rdzawobrązowego. Zarodniki są ścięte na jednym końcu, o podwójnej ścianie z wewnętrzną ornamentacją, o wymiarach około 9–12 × 6–8 μm.",
-      habitat: "Owocniki pojawiają się od czerwca do października u podstawy obumierających pni i pniaków drzew liściastych (dębów, olsz, jesionów).",
-      uses: "Niejadalny z powodu twardego, zdrewniałego miąższu. Najsłynniejszy grzyb leczniczy tradycyjnej medycyny chińskiej (znany jako lingzhi lub reishi), stosowany od tysiącleci jako środek wzmacniający odporność, wątrobę i układ krążenia.",
-      confusion: "Lakownica spłaszczona (Ganoderma applanatum) jest beztrzonowa, matowa, bez lakierowanego połysku i wieloletnia.",
-      notes: "W Polsce gatunek rzadki, podlegający ochronie częściowej."
-    },
     it: {
       description: "Un fungo poliporaceo annuale saprotrofo o parassita lignicolo agente di carie bianca, che cresce alla base o sulle radici di latifoglie (soprattutto querce e castagni). È ampiamente diffuso in Europa, Asia e Nord America.",
       cap: "Il cappello è a forma di rene o ventaglio, largo 5–25 cm. La superficie è solcata concentricamente e ricoperta da una tipica crosta laccata lucida e brillante come vernice, di colore rosso sangue, bruno-rossastro o mogano scuro, con bordo biancastro o giallastro durante l'accrescimento.",
@@ -60155,6 +60097,17 @@ export const CATALOG = [
       uses: "Le sporophore est trop dur pour être consommé, et sa saveur est amère.",
       confusion: "Le ganoderme résineux (Ganoderma resinaceum) est généralement sessile ou brièvement stipité. Sa face supérieure est plus terne, crème, brun rougeâtre clair ou gris-brun, sa marge est plus arrondie, ses spores sont plus grandes et ses pores sont plus petits. Il croît à la base de vieux arbres vivants, en particulier le chêne. Le ganoderme des sapins (Ganoderma carnosum) est plus sombre et noir pourpré, avec un long pied latéral et des spores un peu plus grandes et plus fortement ornementées, et il croît principalement sur le sapin et l'épicéa. Des sporophores intermédiaires et les données génétiques laissent ouverte l'hypothèse qu'ils constituent une seule espèce variable. Le ganoderme aplani (Ganoderma applanatum) est terne et brun ocre, sessile et largement fixé au support. Le vernis de la croûte du ganoderme de Pfeiffer (Ganoderma pfeifferi) fond à la flamme, comme chez cette espèce. Ses pores sont recouverts d'une cire jaune en hiver et au printemps, et il pousse principalement sur le hêtre. Le ganoderme du Valais (Ganoderma valesiacum) pousse sur le mélèze dans les Alpes et les Carpates.",
       notes: "Les récoltes séquencées provenant de Grande-Bretagne, de République tchèque et de certaines parties de Chine appartiennent à cette espèce. Le champignon cultivé d'Asie orientale longtemps rangé sous ce nom est Ganoderma sichuanense. Les récoltes laquées nord-américaines ont été séparées sous les noms de Ganoderma sessile, Ganoderma curtisii et Ganoderma polychromum. Des sporophores intermédiaires, associés aux résultats génétiques, ont été interprétés comme des indices suggérant que Ganoderma carnosum pourrait n'être qu'une forme de la même espèce variable. Une relation historique européenne mentionne l'usage du sporophore comme talisman."
+    },
+    pl: {
+      description: "Nadrzewny grzyb saprotroficzny i pasożytniczy rozwijający się na drewnie drzew liściastych (dąb, buk, olsza). Pospolity na całym świecie, w Europie rzadszy.",
+      cap: "Kapelusz ma 5–20 cm średnicy, jest nerkowaty, wachlarzowaty lub półkolisty, płaski. Powierzchnia pokryta jest charakterystyczną, twardą, lśniącą skorupą, wyglądającą jak powleczona lakierem. Barwa jest koncentrycznie strefowana: czerwonobrązowa, kasztanowa do czarnobrązowej, z żółtym i białym brzegiem w okresie wzrostu.",
+      hymenium: "Rurki mają 0,5–2 cm długości, są jednowarstwowe, białawe do brązowych. Pory są drobne, okrągłe, 4–5 na milimetr, początkowo białawe do kremowych, po dotknięciu brązowiejące.",
+      stipe: "Trzon ma 5–15 cm długości i 1–3 cm grubości, jest boczny lub ekscentryczny, twardy, guzowaty, pokryty taką samą błyszczącą, lakierowaną czerwonoczarną skorupą jak kapelusz.",
+      flesh: "Miąższ jest twardy, korkowaty do drewnowatego, w kapeluszu jasnobrązowy, w trzonie ciemnobrązowy, o słabym zapachu i gorzkawym smaku.",
+      sporePrint: "Brązowy. Zarodniki są jajowate, ścięte na wierzchołku, z podwójną ścianą (wewnętrzna brodawkowana), o wymiarach 9–12 × 6–8 μm.",
+      habitat: "Owocniki pojawiają się od lata do jesieni u podstawy starych pni drzew liściastych, zwłaszcza dębów.",
+      uses: "Grzyb niejadalny ze względu na drewnowatą strukturę. Słynny grzyb leczniczy medycyny chińskiej (znany jako reishi lub lingzhi), uznawany za «grzyb nieśmiertelności». Wykorzystywany w postaci odwarów i ekstraktów o działaniu immunomodulującym.",
+      confusion: "Lakownica spłaszczona (Ganoderma applanatum) jest beztrzonowa, ma matową skorupę i białe pory, które natychmiast ciemnieją po narysowaniu kreski."
     }
     },
     sources: {
@@ -60463,18 +60416,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%A2%D1%80%D1%83%D1%82%D0%BE%D0%B2%D0%B8%D0%BA_%D0%BB%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Lakownica_żółtawa"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -60514,6 +60455,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Lakownica_żółtawa"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -60642,10 +60595,10 @@ export const CATALOG = [
       bg: 'виолетова тръбенка',
       ru: "гомфус булавовидный",
       uk: "гомф булавоподібний",
-      pl: "siatkoblaszek maczugowaty",
       it: "fungo maiale",
       hu: "disznófülgomba",
-      fr: "chanterelle violette"
+      fr: "chanterelle violette",
+      pl: "siatkoblaszek maczugowaty"
     },
     names: {
       en: ["pig's ear", "violet chanterelle", "clustered chanterelle"],
@@ -60919,18 +60872,6 @@ export const CATALOG = [
       confusion: "Лійкогриб ріжкоподібний (Craterellus cornucopioides) тонкий, порожнистий і чорно-сірий.",
       notes: "Рідкісний вид у Європі, занесений до Червоної книги України зі статусом зникаючого."
     },
-    pl: {
-      description: "Rzadki grzyb ektomikoryzowy górskich lasów iglastych, związany ze świerkiem i jodłą na podłożu wapiennym. Występuje w Europie i Ameryce Północnej.",
-      cap: "Owocnik ma 4–10 cm wysokości i 3–8 cm szerokości, jest odwrotnie stożkowaty, łopatkowaty lub ścięty jak maczuga. Szczytowa część kapelusza jest płaska lub wklęsła, fioletowawa, oliwkowobrązowa do ochrowej, z wiekiem drobno łuskowata.",
-      hymenium: "Zewnętrzna płodna strona pokryta jest grubymi, pofałdowanymi, siatkowato połączonymi fałdami i żyłkami (listewkami) głęboko zbiegającymi na trzon. Barwa jest żywo fioletowa do fioletowoliliowej, z wiekiem płowiejąca do ochrowobrązowej od zarodników.",
-      stipe: "Trzon jest bezpośrednim zwężeniem owocnika ku dołowi, pełny, fioletowawy do szarego, u podstawy zrośnięty z innymi owocnikami.",
-      flesh: "Miąższ jest gruby, mięsisty, białawy do kremowego, w trzonie włóknisty. Zapach jest przyjemny, grzybowy, a smak łagodny.",
-      sporePrint: "Ochrowożółty do cynamonowego. Zarodniki są elipsoidalne, drobno brodawkowane, o wymiarach około 10–14 × 4,5–6 μm.",
-      habitat: "Owocniki pojawiają się od sierpnia do października w wilgotnych, górskich borach świerkowo-jodłowych na glebach wapiennych.",
-      uses: "Dobry grzyb jadalny po obróbce cieplnej, lecz ze względu na wielką rzadkość w Europie zasługuje na bezwzględną ochronę.",
-      confusion: "Lejkowiec dęty (Craterellus cornucopioides) jest czarnobrązowy, cienki i głęboko trąbkowaty. Pieprznik jadalny (Cantharellus cibarius) ma żółtą barwę i brak fioletowych odcieni.",
-      notes: "W Polsce gatunek krytycznie zagrożony wymarciem, objęty ścisłą ochroną gatunkową."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi montani maturi di conifere (abete bianco e abete rosso) e faggio. È una specie rara e in forte declino in molte regioni d'Europa.",
       cap: "Il corpo fruttifero è a forma di clava tozza o imbuto troncoconico irregolare lobato, alto 5–15 cm e largo 4–12 cm. La superficie sommitale sterile è appiattita o depressa, di colore violetto porpora nei giovani, sbiadente all'ocra brunastro con l'età.",
@@ -60966,6 +60907,17 @@ export const CATALOG = [
       uses: "C'est un champignon comestible, traditionnellement ramassé et consommé dans certaines parties d'Europe et d'Amérique du Nord. Il doit être bien cuit. Les sporophores plus âgés peuvent être amers.",
       confusion: "La clavaire tronquée (Clavariadelphus truncatus) est plus étroite et jaune, avec un sommet plat et une surface seulement ridée, non couverte de plis épais. Le gomphe à pied épais (Gomphus crassipes) pousse dans les vieilles forêts de pins et de cèdres autour de la Méditerranée. Son chapeau est plus nettement délimité du pied, son hyménium est d'un gris-lilas plus pâle, son chapeau est brun-gris clair, et sa chair est distinctement violette à la coupe. Ses spores sont plus longues, mesurant environ 11–17 × 5,5–7 µm, et plus finement ridées. La chanterelle floconneuse (Turbinellus floccosus) et la chanterelle de Kauffman (Turbinellus kauffmanii) ont une forme de vase similaire, mais leur chapeau est couvert d'écailles. Le faux-cratérelle fausse-massue (Pseudocraterellus pseudoclavatus) croît sous conifères dans le centre et l'ouest des États-Unis et s'en distingue au microscope et par sa réaction à l'hydroxyde de potassium.",
       notes: "C'est la seule espèce de Gomphus en Europe, et la seule espèce nord-américaine encore maintenue dans ce genre. Il est considéré comme menacé dans 17 pays européens et fait partie des 33 champignons proposés pour la protection au titre de la convention de Berne. Il n'est plus trouvé dans les îles Britanniques, où il a été vu pour la dernière fois en 1927. Une évaluation de 2006 le classe comme en danger critique d'extinction (Critically Endangered) en République tchèque, où il a failli disparaître à la fin du vingtième siècle. Les extraits de sporophores sont riches en composés phénoliques, et des récoltes du sud de la mer Égée contenaient du cadmium à un niveau supérieur à celui recommandé pour les denrées alimentaires dans l'Union européenne."
+    },
+    pl: {
+      description: "Rzadki grzyb ektomikoryzowy górskich lasów iglastych, tworzący mikoryzę ze świerkiem i jodłą na glebach wapiennych. W Europie rzadki, w wielu krajach zagrożony wyginięciem.",
+      cap: "Owocnik ma 4–10 cm szerokości i 5–12 cm wysokości, jest maczugowaty do łopatkowatego lub ucięto-stożkowatego z płaskim lub wgłębionym szczytem. Barwa za młodu jest jaskrawo fioletowa lub liliowa, z wiekiem płowieje do żółtobrązowej lub ochrowej.",
+      hymenium: "Zewnętrzna powierzchnia owocnika pokryta jest gęstą siatką anastomozujących, zbiegających fałdów i listewek przypominających żebra, o fioletowej barwie, z wiekiem ochrowo oprószonych zarodnikami.",
+      stipe: "Trzon stanowi dolną, zwężoną część owocnika, jest pełny, zrośnięty z kapeluszem, fioletowawy do szarego.",
+      flesh: "Miąższ jest białawy, gruby, jędrny. Zapach jest przyjemny, owocowy, a smak łagodny.",
+      sporePrint: "Ochrowożółty. Zarodniki są elipsoidalne, brodawkowate, o wymiarach 10–14 × 4,5–6 μm.",
+      habitat: "Owocniki wyrastają od lipca do października w grupach w górskich lasach świerkowych i jodłowych na podłożu wapiennym.",
+      uses: "Wyborny grzyb jadalny, lecz ze względu na rzadkość występowania nie powinien być zbierany.",
+      confusion: "Pieprznik jadalny (Cantharellus cibarius) jest żółty, a lejkowiec dęty (Craterellus cornucopioides) jest czarnoszary i pusty w środku."
     }
     },
     sources: {
@@ -61279,18 +61231,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%93%D0%BE%D0%BC%D1%84_%D0%B1%D1%83%D0%BB%D0%B0%D0%B2%D0%BE%D0%BF%D0%BE%D0%B4%D1%96%D0%B1%D0%BD%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Siatkoblaszek_maczugowaty"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -61325,6 +61265,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Siatkoblaszek_maczugowaty"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -61453,10 +61405,10 @@ export const CATALOG = [
       bg: 'папагалска черешова гъба',
       ru: "гигроцибе попугайская",
       uk: "гігроцибе папугова",
-      pl: "wilgotniczka papuzia",
       it: "igrocybe pappagallo",
       hu: "zöldes nedűgomba",
-      fr: "hygrophore perroquet"
+      fr: "hygrophore perroquet",
+      pl: "wilgotniczka papuzia"
     },
     names: {
       en: [
@@ -61468,8 +61420,8 @@ export const CATALOG = [
       sv: ['papegojvaxskivling'],
       ru: ["глиофорус попугайский"],
       uk: ["гліофор папуговий"],
-      pl: ["wilgotnica papuzia"],
-      hu: ["zöldessárga nedűgomba"]
+      hu: ["zöldessárga nedűgomba"],
+      pl: ["wilgotnica papuzia"]
     },
     text: {
       tr: {
@@ -61733,18 +61685,6 @@ export const CATALOG = [
       confusion: "Гліофор цеглястий (Gliophorus perplexus) не має зелені на верхівці ніжки та забарвлений у помаранчевий або цегляно-червоний колір. Гліофор тіньовий (Gliophorus sciophanus) — переважно червоний європейський вид. Гігроцибе жовтіюча (Hygrocybe chlorophana) має суцільно жовте плодове тіло без зеленого кольору в молодому віці.",
       notes: "Оцінка 2019 року визначає статус виду як у найменшій загрозі (Least Concern)."
     },
-    pl: {
-      description: "Niewielki grzyb saprotroficzny naturalnych łąk, pastwisk i wrzosowisk. Szeroko rozprzestrzeniony w Europie i Ameryce Północnej.",
-      cap: "Kapelusz ma 1–4 cm średnicy. Za młodu jest dzwonkowaty, później wypukły z tępym garbkiem. Wykazuje niesamowitą zmienność barw: początkowo jest intensywnie papuziozielony lub szmaragdowy, pokryty grubą warstwą przezroczystego śluzu. W miarę dojrzewania zielony kolor ustępuje barwom żółtym, pomarańczowym, łososiowym i różowawym, często pozostając jedynie na brzegu lub szczycie.",
-      hymenium: "Blaszki są grube, rzadkie, przyrośnięte, żółtawe do pomarańczowych, często z zielonym odcieniem u nasady.",
-      stipe: "Trzon ma 3–7 cm długości i 0,2–0,6 cm grubości, jest cylindryczny, bardzo śliski i śluzowaty, w górnej części zielony, ku dołowi żółty do pomarańczowego.",
-      flesh: "Miąższ jest bardzo cienki, wodnisty, zielonkawy do żółtego. Zapach i smak są słabe, niewyraźne.",
-      sporePrint: "Biały. Zarodniki są elipsoidalne, gładkie, o wymiarach około 7,5–10 × 4–6 μm, nieamyloidalne.",
-      habitat: "Owocniki pojawiają się od sierpnia do listopada na ubogich, nienawożonych łąkach i pastwiskach.",
-      uses: "Niejadalny z powodu niewielkich rozmiarów, śluzowatości oraz podejrzeń o wywoływanie lekkich zaburzeń żołądkowych.",
-      confusion: "Wilgotniczka ceglasta (Gliophorus perplexus) nie ma zieleni na szczycie trzonu i jest pomarańczowa do ceglastej. Wilgotniczka cieniowa (Gliophorus sciophanus) to głównie czerwony gatunek europejski oddzielany od niej. Wilgotniczka purpurowa (Gliophorus reginae) jest cielistoróżowa, większa i tylko nieznacznie śluzowata. Wilgotniczka radosna (Gliophorus laetus) jest pomarańczowa lub żółta, za młodu bez zieleni i ma wyraźnie zbiegające blaszki. Wilgotnica żółknąca (Hygrocybe chlorophana) jest jednolicie żółta, a starsze pożółkłe owocniki wilgotniczki papuziej odróżnia zielony wierzchołek trzonu.",
-      notes: "Ocena z 2019 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern)."
-    },
     it: {
       description: "Un piccolo fungo prativo dai colori variopinti che cresce nei pascoli non concimati, prati montani e radure erbose. È ampiamente diffuso in Europa.",
       cap: "Il cappello misura 1–4 cm di diametro. È campanulato poi convesso e spianato con piccolo umbone ottuso. È interamente ricoperto da un denso strato viscoso e glutinoso, di colore verde pappagallo brillante da giovane, che sfuma e sbiadisce col tempo all'arancio, giallo oro, rosa o bruno-ocraceo.",
@@ -61780,6 +61720,17 @@ export const CATALOG = [
       uses: "Il est généralement considéré comme non comestible, en partie en raison de sa petite taille et de son revêtement visqueux. Certaines sources le mentionnent comme comestible mais de médiocre qualité, tandis que d'autres le traitent comme légèrement toxique ou suspect. Il n'est pas récolté pour la consommation.",
       confusion: "L'hygrophore perplexe (Gliophorus perplexus) ne présente pas de vert au sommet du pied et est orange à rouge brique. L'hygrophore ombragé (Gliophorus sciophanus) est le champignon européen principalement rouge maintenu séparé de lui. L'hygrophore reine (Gliophorus reginae) est rose à rose incarnat, plus grand et plus robuste, et seulement faiblement visqueux. L'hygrophore joyeux (Gliophorus laetus) est orange ou jaune, n'est jamais vert dans le jeune âge et possède des lames nettement décurrentes. L'hygrocybe jaunissant (Hygrocybe chlorophana) est entièrement jaune, ne présente aucune teinte verte dans sa jeunesse et son pied est creux à maturité. Les sporophores âgés jaunis peuvent être confondus avec d'autres hygrocybes jaunes, mais le sommet du pied reste vert. L'hygrophore vert herbe (Gliophorus graminicolor) et l'hygrophore vert (Gliophorus viridis) sont les champignons verts d'Australie qui ont été classés sous ce nom.",
       notes: "Le nom recouvre un complexe d'espèces étroitement apparentées. Les récoltes d'Amérique du Nord enregistrées sous ce nom forment un groupe d'espèces, et celles du nord-ouest du Pacifique n'appartiennent pas à cette espèce. Le champignon bleu puis rouge des séquoias côtiers de Californie a été isolé, et ses basides sont plus longues, d'environ 45–60 µm. Une forme plus verte sans tons rouges fructifie sur la litière d'épicéas au printemps et en été et a été séparée. Les anciens signalements australiens correspondent à Gliophorus graminicolor ou Gliophorus viridis. Une évaluation de 2016 le place sur la liste d'alerte en Allemagne. Il caractérise les prairies permanentes non améliorées, bien qu'il tolère davantage d'engrais que la plupart des hygrocybes et ait ainsi peu de valeur comme indicateur. En Europe, il a régressé là où les prairies ont été fertilisées ou labourées. Il a été considéré comme un saprotrophe sur racines mortes de graminées. Une association mutualiste avec les mousses est aujourd'hui jugée probable, et son mode trophique n'est pas définitivement établi."
+    },
+    pl: {
+      description: "Niewielki grzyb nienaworzonych łąk i pastwisk oraz widnych zarośli. Występuje w strefie umiarkowanej Europy, Azji i Ameryki Północnej.",
+      cap: "Kapelusz ma 1–4 cm średnicy, początkowo jest dzwonkowaty, później wypukły z garbkiem. Barwa jest jaskrawa, papuziozielona, szmaragdowa, z wiekiem przebarwiająca się na żółto, pomarańczowo, a nawet różowoczerwono. Cały owocnik jest pokryty grubą, bardzo śluzowatą warstwą.",
+      hymenium: "Blaszki są grube, szerokie, przyrośnięte do trzonu, żółtozielone do pomarańczowych, ze śluzowatym ostrzem.",
+      stipe: "Trzon ma 3–7 cm długości i 0,3–0,6 cm grubości, jest smukły, pusty, bardzo śliski i lepki, u szczytu zielony, u podstawy żółty do pomarańczowego.",
+      flesh: "Miąższ jest cienki, żółtawozielony, wodnisty, bez wyraźnego zapachu i smaku.",
+      sporePrint: "Biały. Zarodniki są gładkie, elipsoidalne, o wymiarach 7,5–9 × 4,5–5,5 μm.",
+      habitat: "Owocniki pojawiają się od lata do późnej jesieni w trawie na pastwiskach i łąkach.",
+      uses: "Grzyb niejadalny lub bezwartościowy z powodu małych rozmiarów i silnie śluzowatej powłoki.",
+      confusion: "Gliophorus perplexus (Gliophorus perplexus) nie ma zielonej barwy na szczycie trzonu i jest pomarańczowy do ceglastego. Wilgotnica chlorowa (Hygrocybe chlorophana) jest jednolicie żółta, od młodości pozbawiona zieleni, a jej dojrzały trzon jest pusty w środku. Wilgotnica radosna (Gliophorus laetus) jest żółtopomarańczowa i ma wyraźnie zbiegające blaszki."
     }
     },
     sources: {
@@ -62103,18 +62054,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%93%D1%96%D0%B3%D1%80%D0%BE%D1%86%D0%B8%D0%B1%D0%B5_%D0%BF%D0%B0%D0%BF%D1%83%D0%B3%D0%BE%D0%B2%D0%B0"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Wilgotniczka_papuzia"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -62154,6 +62093,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Wilgotniczka_papuzia"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -62259,10 +62210,10 @@ export const CATALOG = [
       bg: 'бронзова манатарка',
       ru: "белый гриб бронзовый",
       uk: "білий гриб темно-каштановий",
-      pl: "borowik ciemnobrązowy",
       it: "porcino nero",
       hu: "bronzos vargánya",
-      fr: "cèpe bronzé"
+      fr: "cèpe bronzé",
+      pl: "borowik ciemnobrązowy"
     },
     names: {
       en: ["dark cep", "queen bolete", "black porcini", "black cap bolete"],
@@ -62539,18 +62490,6 @@ export const CATALOG = [
       confusion: "Білий гриб звичайний (Boletus edulis) має світлішу коричневу шапинку зі слизькою шкіркою у вологу погоду та білим обідком по краю.",
       notes: "Рідкісний термофільний вид, занесений до Червоної книги України зі статусом рідкісного."
     },
-    pl: {
-      description: "Grzyb ektomikoryzowy ciepłolubnych lasów liściastych, rosnący głównie pod dębami, bukami i kasztanami jadalnymi. Rozpowszechniony w południowej i cieplejszych rejonach środkowej Europy.",
-      cap: "Kapelusz ma 6–20 cm średnicy (niekiedy do 25 cm). Za młodu jest półkolisty, potem poduszkowaty. Skórka ma barwę ciemnobrązową, czekoladową, niemal czarnobrązową z miedzianymi plamami, jest sucha, zamszowata, a z wiekiem gładka.",
-      hymenium: "Rurki mają 1,5–2,5 cm długości, są wycięte przy trzonie. Pory są drobne, początkowo czysto białe i gęste, z wiekiem jasnożółte do oliwkowożółtych, niebłękitniejące po dotknięciu.",
-      stipe: "Trzon ma 6–15 cm długości i 3–8 cm grubości, jest masywny, u podstawy bulwiasty, cynamonowobrązowy, pokryty drobną, brązowawą siateczką.",
-      flesh: "Miąższ jest biały, pod skórką kapelusza brązowawy, niezwykle twardy, zwięzły i ciężki (znacznie twardszy niż u borowika szlachetnego). Po przekrojeniu nie zmienia barwy. Posiada przyjemny, grzybowy zapach i wyśmienity smak.",
-      sporePrint: "Oliwkowobrązowy. Zarodniki są wrzecionowate, gładkie, o wymiarach około 12–16 × 4–5 μm.",
-      habitat: "Owocniki pojawiają się od czerwca do października w ciepłych lasach dębowych na glebach gliniastych i wapiennych.",
-      uses: "Wyborny grzyb jadalny, w wielu krajach południowej Europy (Włochy, Francja, Hiszpania) ceniony nawet wyżej niż borowik szlachetny ze względu na wyjątkową jędrność miąższu.",
-      confusion: "Borowik szlachetny (Boletus edulis) ma jaśniejszy, orzechowobrązowy kapelusz z białawym brzegiem i białą siateczkę na trzonie. Borowik sosnowy (Boletus pinophilus) ma kapelusz o odcieniu czerwonomahoniowym.",
-      notes: "W Polsce gatunek rzadki, podlegający ochronie ścisłej."
-    },
     it: {
       description: "Un eccellente fungo ectomicorrizico dei boschi caldi e collinari di latifoglie (specialmente querce, lecci, sughere e castagni) dell'Europa meridionale e mediterranea.",
       cap: "Il cappello misura solitamente 6–25 cm di diametro. È molto massiccio, sodo e compatto, emisferico poi convesso, con cuticola asciutta e finemente vellutata, di un caratteristico colore bruno scuro, bronzo o quasi nerastro, talvolta con chiazze ocracee più chiare.",
@@ -62586,6 +62525,17 @@ export const CATALOG = [
       uses: "Un cèpe comestible de choix, considéré par beaucoup comme supérieur à Boletus edulis en raison de sa chair plus ferme et de son arôme riche. Il se consomme frais, séché ou conservé dans l'huile. En Europe méridionale, particulièrement en Italie et en France, il est très recherché et vendu sur les marchés sous des noms locaux tels que porcino nero ou cèpe bronzé.",
       confusion: "Le cèpe de Bordeaux (Boletus edulis) possède un chapeau plus pâle et visqueux à marge blanchâtre ainsi qu'un pied plus clair orné d'un réseau blanc, et fructifie plus tard par temps plus frais. Le cèpe d'été (Boletus reticulatus) a un chapeau plus clair qui se crevasse souvent en plaques et un pied plus pâle avec un réseau blanchâtre plus étendu, atteignant souvent la base. Le cèpe des pins (Boletus pinophilus) présente un chapeau bosselé brun rougeâtre et pousse principalement sous les pins. Le bolet de fiel (Tylopilus felleus) a un réseau plus sombre, des pores à reflets rosâtres et une saveur très amère. Le bolet bai (Imleria badia) possède des pores qui bleuissent au froissement et un pied dépourvu de réseau.",
       notes: "Il est classé comme vulnérable (Vulnerable) en République tchèque et figure sur une liste rouge provisoire au Monténégro. En Europe centrale, il est localisé, et en Slovaquie, il peut être très abondant dans certains districts, notamment autour de Košice. C'est le bolet le plus commun dans les forêts du parc naturel régional des Madonies en Sicile. Les récoltes californiennes autrefois rangées sous ce nom correspondent à Boletus regineus. Les signalements en provenance de Chine appartiennent à d'autres espèces. Des récoltes nord-africaines au chapeau acajou et au pied en partie radicant ont été nommées Boletus mamorensis, mais les études moléculaires ne les ont pas séparées de cette espèce. Une étude de 2007 sur quatre bolets a révélé peu de correspondance entre le nombre de sporophores et le mycélium présent dans le sol sous-jacent."
+    },
+    pl: {
+      description: "Ciepłolubny grzyb ektomikoryzowy tworzący symbiozę głównie z dębami (Quercus) i bukami w ciepłych lasach liściastych na glebach gliniastych i wapiennych. Pospolitszy w basenie Morza Śródziemnego, w Europie Środkowej rzadki.",
+      cap: "Kapelusz ma 6–20 cm średnicy (niekiedy do 25 cm), początkowo jest półkulisty, z wiekiem wypukły do poduchowatego. Barwa jest ciemnobrązowa, kasztanowobrązowa do brązowoczarnej, z jaśniejszymi, miedzianobrązowymi plamami. Skórka jest sucha, wyraźnie aksamitna, zamszowa, z wiekiem naga.",
+      hymenium: "Rurki mają 1–2 cm długości, są początkowo czysto białe, później żółte, a z wiekiem oliwkowożółte. Pory są drobne, okrągłe, początkowo białawe, po dotknięciu nie zmieniają barwy.",
+      stipe: "Trzon ma 6–14 cm długości i 3–7 cm grubości, jest potężny, pękaty, czerwonobrązowy do ochrowobrązowego, pokryty delikatną, brązowawą siateczką.",
+      flesh: "Miąższ jest biały, bardzo gruby, twardy i zwięzły (twardszy niż u borowika szlachetnego). Po przekrojeniu pozostaje niezmienny. Zapach i smak są wyborne, orzechowo-grzybowe.",
+      sporePrint: "Oliwkowobrązowy. Zarodniki są gładkie, wrzecionowate, o wymiarach 12–16 × 4–5 μm.",
+      habitat: "Owocniki pojawiają się od lipca do października w ciepłych dąbrowach i lasach dębowo-grabowych.",
+      uses: "Wyborny grzyb jadalny najwyższej klasy. Przez wielu smakoszy (szczególnie we Włoszech i Francji) uważany za najsmaczniejszy ze wszystkich borowików.",
+      confusion: "Borowik szlachetny (Boletus edulis) ma jaśniejszy kapelusz z białawą krawędzią i białą siateczkę na trzonie. Goryczak żółciowy (Tylopilus felleus) ma ciemną siateczkę, różowiejące pory i bardzo gorzki smak."
     }
     },
     sources: {
@@ -62874,18 +62824,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%91%D1%96%D0%BB%D0%B8%D0%B9_%D0%B3%D1%80%D0%B8%D0%B1_%D1%82%D0%B5%D0%BC%D0%BD%D0%BE-%D0%BA%D0%B0%D1%88%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Borowik_ciemnobrązowy"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -62925,6 +62863,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Borowik_ciemnobrązowy"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -63034,10 +62984,10 @@ export const CATALOG = [
       bg: 'ливадна виолетка',
       ru: "рядовка лиловоногая",
       uk: "лепіста блідо-лілова",
-      pl: "gąsówka dwubarwna",
       it: "agarico piedeblu",
       hu: "lilatönkű pereszke",
-      fr: "pied-violet"
+      fr: "pied-violet",
+      pl: "gąsówka dwubarwna"
     },
     names: {
       en: ["blue-leg"],
@@ -63309,18 +63259,6 @@ export const CATALOG = [
       confusion: "Лепіста фіолетова (Lepista nuda) має не лише фіолетову ніжку, але й фіолетову шапинку та фіолетові пластинки, і росте в лісі.",
       notes: "Популярний пізньоосінній їстівний гриб, відомий під народною назвою синьоніжка."
     },
-    pl: {
-      description: "Saprotroficzny grzyb łąkowy i leśny, rosnący na otwartych pastwiskach, łąkach, trawnikach i polanach leśnych, często tworzący wielkie czarcie koła. Pospolity późną jesienią w Europie.",
-      cap: "Kapelusz ma 5–15 cm średnicy. Za młodu jest wypukły z mocno podwiniętym brzegiem, później płaski. Barwa jest jasnobeżowa, szaroochrowa do jasnobrązowej. Powierzchnia jest gładka, sucha, jedwabista.",
-      hymenium: "Blaszki są gęste, przyrośnięte do wykrojonych, białawe, kremowe do szaroochrowych.",
-      stipe: "Trzon ma 3–8 cm długości i 1,5–3 cm grubości, jest cylindryczny, mocny, mięsisty. Charakteryzuje się intensywną, jaskrawą fioletową do liliowej barwą powierzchni, pokrytej podłużnymi włókienkami, silnie kontrastującą z beżowym kapeluszem.",
-      flesh: "Miąższ jest gruby, jędrny, białawy do jasnoszarego. Zapach jest przyjemny, słaby, a smak łagodny, orzechowy.",
-      sporePrint: "Jasnoróżowy do kremowocielistego. Zarodniki są elipsoidalne, drobno brodawkowane, o wymiarach około 6,5–8,5 × 4–5 μm.",
-      habitat: "Owocniki pojawiają się późną jesienią, od września do grudnia (nawet po pierwszych przymrozkach), na pastwiskach, łąkach i trawiastych obrzeżach lasów.",
-      uses: "Bardzo smaczny grzyb jadalny po ugotowaniu. Wymaga obróbki cieplnej, gdyż na surowo może powodować zaburzenia pokarmowe. Znakomity do smażenia i marynowania.",
-      confusion: "Gąsówka fioletowawa (Lepista nuda) ma również fioletowy kapelusz i blaszki oraz rośnie głównie wewnątrz lasów. Fioletowe zasłonaki (Cortinarius) mają rdzawobrązowy wysyp zarodników i zasnówkę na trzonie.",
-      notes: "Ocena z 2019 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern)."
-    },
     it: {
       description: "Un fungo saprotrofo carnoso dei pascoli, prati montani, radure erbose e margini dei boschi di latifoglie. È diffuso in tutta l'Europa temperata.",
       cap: "Il cappello misura 5–15 cm di diametro. È molto carnoso, sodo, convesso poi appianato con margine a lungo involuto, liscio, di colore bruno chiaro, grigio-beige o caffèlatte uniforme.",
@@ -63356,6 +63294,17 @@ export const CATALOG = [
       uses: "Il doit être bien cuit et ne se consomme pas cru. Une minorité de personnes éprouve encore des troubles digestifs après cuisson. Les jeunes chapeaux sont préférés. Les pieds sont plus coriaces et peuvent être séchés et réduits en poudre pour le potage. Il est sauté et accommodé avec des viandes blanches, du fromage, du riz, des pâtes et des omelettes. Il peut être congelé, et les sporophores déjà gelés sur le terrain sont utilisables s'ils sont cuisinés immédiatement. Il est également utilisé dans les soupes, poêlé et conservé au vinaigre. Les sporophores sont souvent véreux, aussi convient-il de les consommer rapidement, et la chair étant poreuse, ils se récoltent de préférence par temps sec. Les sporophores plus âgés peuvent dégager une légère odeur de souris après cuisson. Il est issu de cueillette sauvage et vendu sur les marchés tchèques ainsi qu'en France, en Espagne et au Portugal, parfois dans les mêmes barquettes que Lepista nuda.",
       confusion: "Le pied-bleu (Lepista nuda) possède un chapeau violet et des lames violettes et croît dans les bois. Les vieux sporophores peuvent se décolorer et perdre cette teinte. Le tricholome à odeur d'iris (Lepista irina) présente une silhouette semblable, mais son pied est blanchâtre dès le jeune âge, et il pousse dans les prairies humides, les vergers et parfois dans les forêts de feuillus. Les espèces de cortinaires (Cortinarius) à pied bleu et chapeau brunâtre croissent en forêt. Leur sporée est brun rouille et teinte les lames, et des restes de cortine subsistent sur le pied.",
       notes: "Il est assez répandu en Slovaquie. Les récoltes signalées en Californie pourraient appartenir à Clitocybe tarda."
+    },
+    pl: {
+      description: "Późnojesienny grzyb saprotroficzny otwartych terenów trawiastych, pastwisk, łąk i skrajów lasów. Pospolity w Europie, tworzący często wielkie czarcie koła.",
+      cap: "Kapelusz ma 6–15 cm średnicy, jest gruby i mięsisty, początkowo półkulisty z podwiniętym brzegiem, później spłaszczony z falistym brzegiem. Barwa jest jasnobeżowa, szaroochrowa do jasnobrązowej. Skórka jest gładka, sucha, jedwabista.",
+      hymenium: "Blaszki są gęste, przyrośnięte lub lekko wycięte przy trzonie, białawe, kremowe do jasnoszarych.",
+      stipe: "Trzon ma 4–8 cm długości i 1,5–3 cm grubości, jest cylindryczny, mocny, u podstawy zgrubiały. Cechą charakterystyczną jest jaskrawa, intensywnie liliowoniebieska lub fioletowa barwa trzonu, ostro kontrastująca z beżowym kapeluszem.",
+      flesh: "Miąższ jest białawy, gruby, jędrny. Posiada przyjemny, grzybowy zapach i łagodny smak.",
+      sporePrint: "Bladoróżowy do kremoworóżowego. Zarodniki są elipsoidalne, drobno punktowane, o wymiarach 6–8 × 4–5 μm.",
+      habitat: "Owocniki wyrastają od września do listopada (często po przymrozkach) na łąkach, pastwiskach i polanach.",
+      uses: "Bardzo smaczny grzyb jadalny po obróbce cieplnej. Doskonała do smażenia, zup i marynowania w occie.",
+      confusion: "Gąsówka fioletowawa (Lepista nuda) ma cały kapelusz i blaszki intensywnie fioletowe i rośnie w lasach."
     }
     },
     sources: {
@@ -63648,18 +63597,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%A0%D1%8F%D0%B4%D0%BE%D0%B2%D0%BA%D0%B0_%D0%BB%D1%96%D0%BB%D0%BE%D0%B2%D0%BE%D0%BD%D0%BE%D0%B3%D0%B0"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Gąsówka_dwubarwna"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -63694,6 +63631,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Gąsówka_dwubarwna"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -63812,10 +63761,10 @@ export const CATALOG = [
       bg: 'домашна гъба',
       ru: "серпула плачущая",
       uk: "серпула плачуча",
-      pl: "stroczek domowy",
       it: "fungo da cantina",
       hu: "könnyező házigomba",
-      fr: "mérule pleureuse"
+      fr: "mérule pleureuse",
+      pl: "stroczek domowy"
     },
     names: {
       en: [
@@ -64090,17 +64039,6 @@ export const CATALOG = [
       confusion: "Серпула лісова (Serpula himantioides) утворює тонші плодові тіла й зустрічається в дикій природі на хвойній деревині. Коніофора звичайна (Coniophora puteana) має гладенький гіменофор.",
       notes: "Найбільш руйнівний домовий гриб дерев'яних споруд помірного клімату."
     },
-    pl: {
-      description: "Nadrzewny grzyb saprotroficzny powodujący niszczycielską, głęboką brunatną zgniliznę drewna w budynkach i konstrukcjach drewnianych. Pospolity szkodnik budowlany na całym świecie.",
-      cap: "Owocnik jest rozpostarty lub rozpostarto-odgięty, poduszeczkowaty, o średnicy od kilku centymetrów do ponad metra i grubości do 2 cm. Powierzchnia płodna jest pofałdowana, żyłkowato-porowata, rdzawobrązowa do cynamonowej, z szerokim, puszystym, białym lub żółtawym brzegiem, na którym wydzielają się krople cieczy («łzy»).",
-      hymenium: "Hymenofor tworzą nieregularne, labiryntowate fałdy i pory o barwie rdzawobrązowej od obficie produkowanych zarodników.",
-      stipe: "Brak trzonu; owocnik przylega płasko do podłoża.",
-      flesh: "Miąższ jest miękki, gąbczasty, po wyschnięciu kruchy, rdzawobrązowy. Zapach w pomieszczeniach jest nieprzyjemny, piwniczny, stęchły.",
-      sporePrint: "Rdzawobrązowy do żółtobrązowego. Zarodniki są gładkie, elipsoidalne, grubościenne, o wymiarach około 9–12 × 5–7 μm.",
-      habitat: "Występuje w zawilgoconych budynkach, piwnicach, na belkach stropowych, podłogach i konstrukcjach z drewna iglastego.",
-      confusion: "Stroczek leśny (Serpula himantioides) tworzy znacznie cieńsze owocniki i rośnie na martwym drewnie w naturalnych lasach.",
-      notes: "Najgroźniejszy domowy niszczyciel drewna w strefie umiarkowanej; potrafi transportować wodę grzybnią na odległość wielu metrów."
-    },
     it: {
       description: "Un temibile fungo xilofago saprotrofo agente di distruttiva carie bruna delle travi e delle strutture lignee negli edifici, cantine e tetti umidi e poco aerati. È diffuso in tutto il mondo.",
       cap: "Il corpo fruttifero è annuale, resupinato a crosta estesa e appiattita aderente al legno o con bordi rialzati a mensola, larga da pochi centimetri fino a oltre un metro e spessa 2–10 mm, carnosa e spugnosa da fresca.",
@@ -64134,6 +64072,17 @@ export const CATALOG = [
       habitat: "Les sporophores se forment toute l'année dans les bâtiments. Les spécimens frais sont signalés principalement du printemps à l'automne, et dans les bâtiments chauffés également en hiver, une description situant la poussée principale de la fin de l'été jusqu'en hiver. Ils se développent sur les poutres, les parquets, les solives, les portes, les charpentes, le bois de cave et les boiseries dans les combles non ventilés et les mines. Le bois tendre de conifère, particulièrement le pin, est l'hôte habituel. Les feuillus sont peu fréquents. Le champignon colonise également le papier, les textiles, les panneaux de particules, la paille et le roseau. Les cordons mycéliens traversent le plâtre, la brique, le mauvais mortier et le béton poreux, et un sporophore peut se former sur ces surfaces. Il nécessite un air confiné, humide et ombragé. La fructification est favorisée lorsque le bois contient environ 30–40 % d'humidité. La croissance est signalée entre environ 3 et 26 °C, avec un optimum proche de 21–22 °C, et elle cesse au-dessus d'environ 26 °C. Les cordons peuvent transporter l'eau depuis une source humide à travers la maçonnerie vers du bois plus sec, et une mention indique que le champignon produit également de l'eau en dégradant le bois. Les avis divergent sur la possibilité que la pourriture débute sous 20 % environ d'humidité du bois. La dégradation se poursuit souvent alors qu'aucun sporophore n'est visible. En extérieur, il est rare, présent sur bois naturel dans l'Himalaya, le nord de la Californie, la République tchèque et l'Asie orientale.",
       confusion: "La mérule sauvage (Serpula himantioides) forme des sporophores plus petits et plus minces. Elle croît sur le bois mort de conifère en forêt et sur le bois non traité en extérieur. Le coniophore des caves (Coniophora puteana) se rencontre en forêt et dans les bâtiments. Son hyménium est lisse et est généralement poudré de spores.",
       notes: "C'est le destructeur de bois d'intérieur le plus dommageable des régions tempérées. La pourriture cubique brune peut progresser à travers les planchers, les solives et les charpentes avant même qu'un sporophore n'apparaisse. Les cordons mycéliens traversant la maçonnerie, la dégradation est souvent éloignée de la source d'humidité initiale. Deux lignées sont connues. L'une est une lignée sauvage moins agressive en Amérique du Nord. L'autre est agressive, dans la nature comme dans les bâtiments, et est présente sur plusieurs continents. Les sporophores sauvages sont rares. Les vieux sporophores et le mycélium peuvent libérer des composés azotés irritants, et des maux de tête, des nausées et des vertiges ont été rapportés."
+    },
+    pl: {
+      description: "Najgroźniejszy grzyb domowy powodujący niszczycielską brunatną zgniliznę drewna w budynkach, na belkach, podłogach i konstrukcjach drewnianych. Występuje na całym świecie w środowiskach synantropijnych.",
+      cap: "Owocnik jest rozpostarty, płasko przylegający do podłoża (resupinatowy), gruby, mięsisto-gąbczasty, o średnicy od kilkunastu centymetrów do ponad metra. Brzeg jest watowaty, czysto biały lub żółtawy. Powierzchnia w okresie wzrostu często wydziela przezroczyste krople cieczy (stąd łacińska nazwa lacrymans – płaczący).",
+      hymenium: "Hymenium tworzy nieregularną sieć fałdów, jamek i porów o barwie rdzawobrązowej od obficie produkowanych zarodników.",
+      stipe: "Brak trzonu. Grzyb tworzy grube sznury grzybniowe (ryzomorfy) zdolne do transportowania wody na duże odległości przez mury i cegły.",
+      flesh: "Miąższ jest miękki, gąbczasty, w stanie suchym kruchy. Wydziela charakterystyczny, stęchły, grzybowy zapach.",
+      sporePrint: "Rdzawobrązowy. Zarodniki są elipsoidalne, gładkie, grubościenne, o wymiarach 9–12 × 5–6 μm.",
+      habitat: "Rozwija się w zawilgoconych budynkach, piwnicach, na drewnianych stropach, legarach i podłogach.",
+      uses: "Grzyb niejadalny; skrajnie niebezpieczny szkodnik techniczny drewna konstrukcyjnego, niszczący domy i zabytki.",
+      confusion: "Inne grzyby domowe (np. Coniophora puteana) nie tworzą tak potężnych, rdzawobrązowych owocników z fałdowanym hymenium."
     }
     },
     sources: {
@@ -64421,18 +64370,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%B6%D0%BD%D1%96%D0%B9_%D0%B4%D0%BE%D0%BC%D0%BE%D0%B2%D0%B8%D0%B9_%D0%B3%D1%80%D0%B8%D0%B1"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Stroczek_domowy"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -64467,6 +64404,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Stroczek_domowy"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -64600,10 +64549,10 @@ export const CATALOG = [
       bg: 'извитожилковиден бял трюфел',
       ru: "трюфель белый",
       uk: "білий трюфель",
-      pl: "piestrak jadalny",
       it: "tartufo dei maiali",
       hu: "fehér szarvasgomba",
-      fr: "truffe du porc"
+      fr: "truffe du porc",
+      pl: "piestrak jadalny"
     },
     names: {
       sk: [
@@ -64883,18 +64832,6 @@ export const CATALOG = [
       confusion: "Справжній білий трюфель (Tuber magnatum) має іншу мікроскопічну будову та є значно дорожчим делікатесом.",
       notes: "У багатьох наукових джерелах розглядається як синонім Choiromyces venosus."
     },
-    pl: {
-      description: "Podziemny grzyb workowy rozwijający się w glebie lasów liściastych i iglastych, często wypychający wierzchołek ponad powierzchnię ziemi. Występuje w Europie.",
-      cap: "Owocnik jest podziemną bulwą przypominającą zniekształcony bulwiasty ziemniak, o średnicy 4–12 cm (niekiedy do 15 cm) i masie do kilkuset gramów. Powierzchnia jest nierówna, pofałdowana, początkowo biaława, z wiekiem żółtobrązowa do brunatnej.",
-      hymenium: "Wnętrze wypełnia lita gleba bez komór, poprzecinana marmurkowatymi, meandrującymi jaśniejszymi i ciemniejszymi żyłkami, w których tkwią worki z zarodnikami.",
-      stipe: "Brak trzonu.",
-      flesh: "Młoda gleba jest jędrna, zwarta, biaława, z wiekiem mięknie i żółknie. Posiada silny, bardzo intensywny, aromatyczny zapach przypominający dojrzały ser, czosnek i gotowaną kukurydzę.",
-      sporePrint: "Brak typowego wysypu. Askospory są kuliste, żółtobrązowe, pokryte charakterystycznymi, tępymi wyrostkami i kolcami, o średnicy około 15–22 μm.",
-      habitat: "Owocniki pojawiają się od lipca do października w lasach świerkowych, bukowych i dębowych na glebach gliniastych i wapiennych.",
-      uses: "Cenny grzyb jadalny po ugotowaniu, używany w niewielkich ilościach jako wyrazista przyprawa aromatyczna do dań mięsnych, sosów i zup (tzw. polska lub biała trufla). Na surowo może powodować zaburzenia trawienne.",
-      confusion: "Trufla biała (Tuber magnatum) ma gładkie wnętrze z czerwonawym odcieniem i rośnie głównie we Włoszech. Tęgoskór cytrynowy (Scleroderma citrinum) ma twardą perydium i wnętrze fioletowoczarne.",
-      notes: "Bywa traktowany jako synonim Choiromyces venosus."
-    },
     it: {
       description: "Un fungo ipogeo o semipogeo ascomicete che fruttifica parzialmente interrato nei boschi collinari e montani di latifoglie e conifere (faggio, abete, pino) su terreni argillosi. È diffuso in Europa centrale e orientale.",
       cap: "Il corpo fruttifero è a forma di tubero nodoso e irregolare simile a una grossa patata, di 4–12 cm di diametro (talvolta fino a 15 cm e oltre mezzo chilo di peso). Il peridio esterno è liscio, inizialmente biancastro o crema, poi bruno-giallastro o nocciola screpolato.",
@@ -64930,6 +64867,17 @@ export const CATALOG = [
       uses: "Comestible dans le jeune âge et bien cuit, mais toxique cru, provoquant des troubles gastro-intestinaux. Il est traditionnellement consommé dans certaines parties d'Europe du Nord et de l'Est, en particulier en Suède, en Pologne et en Russie. Les vieux sporophores à l'odeur désagréable doivent être évités. Il n'est pas considéré comme comparable aux véritables truffes sur le plan gastronomique.",
       confusion: "La truffe blanche d'Alba (Tuber magnatum) est généralement plus petite. Son intérieur mature est rougeâtre marbré de veines blanches, et son odeur et sa saveur sont agréables et quelque peu aillées. Ses asques renferment une à trois spores, parfois quatre, ornées d'un réseau à larges mailles, et c'est une espèce méditerranéenne. Des sporophores immatures de cette espèce sont parfois vendus frauduleusement sous le nom de cette truffe. Un scléroderme mature (Scleroderma), y compris le scléroderme commun (Scleroderma citrinum) et le scléroderme verruqueux (Scleroderma verrucosum), présente un intérieur presque noir. La truffe des cistes (Choiromyces magnusii) est plus petite, fructifie au printemps, possède des veines non méandriformes et pousse sous les cistes (Cistus).",
       notes: "Certaines descriptions considèrent ce champignon comme conspécifique de Choiromyces venosus. Des sporophores immatures sont parfois vendus frauduleusement comme Tuber magnatum. En Allemagne, une évaluation de 1992 l'a placé en catégorie 2, et une liste ultérieure le classe en catégorie 3. En Allemagne, il est principalement connu des contreforts alpins et des hautes terres, et il est absent de la plaine septentrionale."
+    },
+    pl: {
+      description: "Podziemny lub częściowo wystający z ziemi grzyb workowy (Ascomycota), ektomikoryzowy, rosnący w lasach liściastych i iglastych (pod bukiem, świerkiem, dębem). Występuje w Europie.",
+      cap: "Owocnik ma 5–15 cm średnicy (niekiedy do 20 cm) i wagę do 1 kg. Jest nieregularnie bulwiasty, przypominający bulwę selera lub ziemniaka, z pofałdowaną, spękaną powierzchnią. Barwa jest początkowo białawożółtawa, później ochrowobrązowa do szarobrązowej.",
+      hymenium: "Zarodniki powstają w workach we wnętrzu owocnika (glebie). Gleba jest mięsista, z charakterystycznym marmurkowym rysunkiem jasnych i ciemnych, meandrujących smug.",
+      stipe: "Brak trzonu. Owocnik rozwija się pod ziemią i z wiekiem częściowo wyłania się na powierzchnię ściółki.",
+      flesh: "Miąższ jest jędrny, twardy, białawy z marmurkowym rysunkiem. Charakteryzuje się bardzo silnym, intensywnym, aromatycznym zapachem przypominającym gotowaną kukurydzę, czosnek lub ser, i przyjemnym smakiem.",
+      sporePrint: "Zarodniki (askospory) są kuliste, pokryte długimi kolcami o tępym wierzchołku, o średnicy 16–22 μm (bez kolców).",
+      habitat: "Owocniki dojrzewają od lipca do października w lasach liściastych i mieszanych na glebach gliniastych.",
+      uses: "Bardzo smaczny grzyb jadalny po obróbce termicznej, często nazywany «polską truflą». W stanie surowym może wywołać niestrawność; po usmażeniu lub uduszeniu stanowi wyśmienity dodatek do dań mięsnych i makaronów.",
+      confusion: "Trufla letnia (Tuber aestivum) ma czarną powierzchnię pokrytą piramidalnymi brodawkami."
     }
     },
     sources: {
@@ -65235,18 +65183,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%A2%D1%80%D1%8E%D1%84%D0%B5%D0%BB%D1%8C_%D0%B1%D1%96%D0%BB%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Piestrak_jadalny"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -65286,6 +65222,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Piestrak_jadalny"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -65388,10 +65336,10 @@ export const CATALOG = [
       bg: 'обикновен корал',
       ru: "ежовик коралловидный",
       uk: "герицій коралоподібний",
-      pl: "soplówka bukowa",
       it: "idno corallo",
       hu: "közönséges petrezselyemgomba",
-      fr: "hydne corail"
+      fr: "hydne corail",
+      pl: "soplówka bukowa"
     },
     names: {
       en: ["coral tooth fungus", "comb coral mushroom"],
@@ -65399,9 +65347,9 @@ export const CATALOG = [
       bg: ['корал'],
       ru: ["гериций коралловидный"],
       uk: ["їжовик коралоподібний"],
-      pl: ["soplówka jodłowa"],
       it: ["ericio coralloide"],
-      hu: ["bükkös petrezselyemgomba"]
+      hu: ["bükkös petrezselyemgomba"],
+      pl: ["soplówka jodłowa"]
     },
     text: {
       tr: {
@@ -65665,18 +65613,6 @@ export const CATALOG = [
       confusion: "Їжовик гребінчастий (Hericium erinaceus) не має розгалужених гілок і утворює суцільне кулясте тіло з довгими шипами.",
       notes: "Рідкісний реліктовий вид, занесений до Червоної книги України зі статусом вразливого."
     },
-    pl: {
-      description: "Rzadki nadrzewny grzyb saprotroficzny starych lasów liściastych, rozwijający się na butwiejących kłodach i pniach buków. Występuje w Europie i Azji.",
-      cap: "Owocnik osiąga 10–40 cm szerokości i składa się z wielokrotnie rozgałęzionych, mięsistych gałązek przypominających krzew koralowca morskiego. Całość ma barwę śnieżnobiałą, z wiekiem kremową do żółtawej.",
-      hymenium: "Hymenofor tworzą liczne, krótkie (0,5–1,5 cm), spiczaste, zwisające kolce pokrywające gałązki i zebrane pęczkami na ich końcach.",
-      stipe: "Trzon jest krótki, gruby, białawy, przytwierdzający owocnik bezpośrednio do butwiejącego drewna pnia.",
-      flesh: "Miąższ jest biały, elastyczny, za młodu miękki, z wiekiem twardniejący. Zapach i smak są przyjemne, delikatne.",
-      sporePrint: "Biały. Zarodniki są szerokoelipsoidalne do kulistych, gładkie lub drobno brodawkowane, amyloidalne, o wymiarach około 5–6,5 × 4,5–5,5 μm.",
-      habitat: "Owocniki pojawiają się od sierpnia do listopada na butwiejących, leżących kłodach bukowych w starych lasach naturalnych.",
-      uses: "Smaczny grzyb jadalny w młodym stanie. W Europie ze względu na rzadkość nie powinien być zbierany.",
-      confusion: "Soplówka jeżowata (Hericium erinaceus) ma owocnik nierozgałęziony, poduszeczkowaty z długimi kolcami. Soplówka jodłowa (Hericium alpestre) rośnie na jodłach.",
-      notes: "W Polsce gatunek rzadki, narażony na wyginięcie (Vulnerable), objęty ochroną częściową."
-    },
     it: {
       description: "Un magnifico fungo lignicolo agente di carie bianca, saprotrofo su grossi tronchi caduti e ceppi marcescenti di faggio e altre latifoglie. È diffuso nelle foreste vetuste temperate d'Europa e Asia.",
       cap: "Non esiste un cappello differenziato. Il corpo fruttifero è formato da un cespo ampiamente e ripetutamente ramificato simile a un cespuglio di corallo marino bianco, largo 10–30 cm. I rami sono bianchi candidi, curvati e graziosamente suddivisi.",
@@ -65712,6 +65648,17 @@ export const CATALOG = [
       uses: "Un comestible de choix lorsqu'il est jeune et frais, avec une saveur délicate et une texture semblable à celle du crabe ou du homard. Les spécimens plus âgés et jaunâtres deviennent coriaces et amers. Il doit être bien cuit.",
       confusion: "L'hydne hérisson (Hericium erinaceus) forme un coussin non ramifié, et ses aiguillons mesurent habituellement 1–5 cm de longueur. L'hydne hérissé (Hericium cirrhatum) forme des consoles étagées minces avec des chapeaux distincts. De fins aiguillons recouvrent également sa face supérieure, et les aiguillons du dessous mesurent environ 10–15 mm de longueur. L'hydne des sapins (Hericium alpestre) pousse sur le sapin, de l'Europe jusqu'en Asie centrale. Il est plus compact. Ses aiguillons sont plus longs, mesurant environ 10–20 mm, et se dressent en touffes à l'extrémité des rameaux plutôt qu'en peigne le long des branches. Ses spores sont plus grandes, d'environ (5–)5,5–6,5(–7) × 4,5–6(–6,5) µm, et sa chair prend des teintes rosâtres avec l'âge. Certains ouvrages désignent ce champignon des sapins sous le nom d'Hericium flagellum. L'hydne d'Amérique (Hericium americanum) croît dans l'est de l'Amérique du Nord, principalement sur feuillus. Il est plus trapu, avec des rameaux plus courts, des aiguillons souvent plus longs que 1 cm, des spores d'environ 5,5–7 × 4,5–6 µm, et une teinte rosâtre. Les anciens ouvrages américains appliquaient Hericium coralloides à ce champignon et Hericium ramosum à l'espèce à aiguillons courts. L'hydne des sapins de l'Ouest (Hericium abietis) croît dans le nord-ouest du Pacifique sur le bois de conifères, notamment le sapin et la pruche. Il est massif, ses spores mesurent environ 4,5–5,5 × 4–4,5 µm, et il prend des reflets rosâtres. Le pied-de-mouton (Hydnum repandum) et l'hydne roussissant (Hydnum rufescens) possèdent des aiguillons sous un chapeau régulier et poussent au sol.",
       notes: "En Pologne, une liste nationale le signale comme vulnérable (Vulnerable). En Grande-Bretagne, une liste non officielle de 2006 le traite comme quasi menacé (Near Threatened). Il est peu fréquent dans les vieilles hêtraies et forêts mixtes de Slovaquie et rare dans les vieilles hêtraies de République tchèque. Le nom actuellement utilisé recouvre plus d'une lignée, et un groupe bien étayé de récoltes de l'est et de l'ouest du Canada, du sud-ouest et du nord-ouest des États-Unis, de Russie, de Suède et d'Ukraine pourrait représenter une espèce distincte."
+    },
+    pl: {
+      description: "Piękny i rzadki grzyb nadrzewny wywołujący białą zgniliznę drewna liściastego, rosnący głównie na martwych pniach i kłodach starych buków. Występuje w Europie, Azji i Ameryce Północnej.",
+      cap: "Owocnik osiąga 10–30 cm średnicy, ma postać gęsto rozgałęzionego krzaczka przypominającego morski koralowiec. Z krótkiego pnia wyrastają liczne, grube gałęzie, z których zwisają miękkie, zaostrzone kolce o długości 0,5–1,5 cm. Barwa jest początkowo śnieżnobiała, z wiekiem kremowa do żółtawej.",
+      hymenium: "Warstwa zarodnikonośna pokrywa powierzchnię zwisających kolców.",
+      stipe: "Trzon jest krótki, gruby, zdrewniały, przyrośnięty do drewna pnia.",
+      flesh: "Miąższ jest biały, miękki i sprężysty za młodu, z wiekiem twardniejący. Posiada przyjemny, grzybowy zapach i łagodny smak.",
+      sporePrint: "Biały. Zarodniki są kuliste do prawie kulistych, gładkie do drobno brodawkowatych, o wymiarach 3,5–5 × 3–4 μm, amyloidalne.",
+      habitat: "Owocniki pojawiają się od sierpnia do listopada na powalonych pniach buków w starych lasach bukowych i rezerwatach przyrody.",
+      uses: "Wyborny grzyb jadalny za młodu, lecz ze względu na rzadkość i status ochronny w wielu krajach nie powinien być zbierany.",
+      confusion: "Soplówka jeżowata (Hericium erinaceus) nie jest rozgałęziona, lecz ma zwartą, kulistą formę z bardzo długimi kolcami zwisającymi z jednego bloku."
     }
     },
     sources: {
@@ -66049,18 +65996,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D0%B8%D1%86%D1%96%D0%B9_%D0%BA%D0%BE%D1%80%D0%B0%D0%BB%D0%BE%D0%BF%D0%BE%D0%B4%D1%96%D0%B1%D0%BD%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Soplówka_bukowa"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -66095,6 +66030,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Soplówka_bukowa"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -66229,11 +66176,11 @@ export const CATALOG = [
       sv: 'gul veckskivling',
       ru: "белонавозник бирнбаума",
       uk: "білогноєвик бірнбаума",
-      pl: "czubnik cytrynowy",
       it: "lepiota di Birnbaum",
       hu: "sárga bordásőzlábgomba",
       cs: "bedla cibulkotřenná",
-      fr: "lépiote jaune"
+      fr: "lépiote jaune",
+      pl: "czubnik cytrynowy"
     },
     names: {
       en: [
@@ -66247,10 +66194,10 @@ export const CATALOG = [
       sv: ['gul fjällskivling'],
       ru: ["белонавозник жёлтый"],
       uk: ["лейкокопрінус бірнбаума","білопечериця бірнбаума"],
-      pl: ["czubajnik cytrynowy"],
       it: ["lepiota gialla"],
       hu: ["sárga bordás-őzlábgomba"],
-      fr: ["lépiote de Birnbaum"]
+      fr: ["lépiote de Birnbaum"],
+      pl: ["czubajnik cytrynowy"]
     },
     text: {
       tr: {
@@ -66509,17 +66456,6 @@ export const CATALOG = [
       confusion: "Leucocoprinus straminellus (Leucocoprinus straminellus) світліший, блідо-солом'яно-жовтий або майже білуватий, має менші спори без пори проростання.",
       notes: "У ґрунті вазонів часто утворює дрібні кулясті жовті склероції розміром до 1 мм."
     },
-    pl: {
-      description: "Grzyb saprotroficzny pochodzący ze strefy tropikalnej i subtropikalnej, w klimacie umiarkowanym pospolicie występujący w szklarniach, doniczkach z roślinami pokojowymi i ogrodach zimowych.",
-      cap: "Kapelusz ma 2–6 cm średnicy. Za młodu jest jajowaty lub dzwonkowaty, później stożkowato-wypukły z garbkiem. Barwa jest jaskrawo cytrynowożółta do siarkowożółtej. Powierzchnia jest sucha, pokryta drobnymi, kłaczkowatymi żółtymi łuseczkami, a brzeg jest wyraźnie prążkowany.",
-      hymenium: "Blaszki są wolne, gęste, siarkowożółte do bladożółtych.",
-      stipe: "Trzon ma 3–10 cm długości i 0,2–0,5 cm grubości, u podstawy maczugowato zgrubiały, cytrynowożółty, pokryty żółtymi kłaczkami, z wąskim, szybko zanikającym żółtym pierścieniem.",
-      flesh: "Miąższ jest bardzo cienki, bladożółtawy, miękki. Zapach i smak są słabe, niewyraźne.",
-      sporePrint: "Biały. Zarodniki są elipsoidalne, gładkie, grubościenne, dekstrynoidalne, z porą rostkową, o wymiarach około 8,5–11 × 6–8 μm.",
-      habitat: "Owocniki wyrastają przez cały rok w ziemi doniczkowej, kompoście i szklarniach na bogatym podłożu próchnicznym.",
-      confusion: "Leucocoprinus straminellus jest mniejszy, bledszy (słomkowożółty do białawego) i ma mniejsze zarodniki.",
-      notes: "Grzybnia tworzy w podłożu drobne, twarde, żółtawobiałe sklerocja o średnicy poniżej 1 mm."
-    },
     it: {
       description: "Un fungo saprotrofo tipico delle regioni tropicali e subtropicali, comunissimo nelle serre, nei vasi di piante d'appartamento e nei terricci umidi riscaldati in tutta Europa.",
       cap: "Il cappello misura 2–6 cm di diametro. Inizialmente è campanulato o conico-ovoide, poi espanso con umbone centrale, interamente di un magnifico e vivido colore giallo limone o giallo zolfo brillante, cosparso da fiocchi o squamette farinose concolori e con margine nettamente striato.",
@@ -66553,6 +66489,17 @@ export const CATALOG = [
       habitat: "Saprotrophe sur terreau riche, compost et paillis, fructifiant dans des conditions chaudes et humides. Il pousse sur le sol, solitaire, dispersé ou en petits groupes, dans les pots de fleurs, les serres et les couches chaudes. Par temps chaud, il fructifie également en extérieur dans les jardins, les pelouses et sur les sols remaniés en forêt, parfois autour de souches. Dans les serres non chauffées en Grande-Bretagne, ils apparaissent de juin à octobre. Dans les serres chauffées et les pots d'intérieur, ils peuvent apparaître en tout mois de l'année. En extérieur en Amérique du Nord, ils fructifient en été. Une récolte en Égypte a poussé sur la souche d'un citronnier mort en automne.",
       confusion: "La lépiote jaune paille (Leucocoprinus straminellus) est légèrement plus pâle, parfois blanchâtre, plus petite et plus fragile, avec des spores plus petites d'environ 5–7 × 4–6 µm dépourvues de pore germinatif. La lépiote jaunissante (Leucocoprinus flavescens) possède un chapeau jaunâtre pâle à blanc avec un centre brunâtre et des spores plus petites. La lépiote tricolore (Leucocoprinus tricolor) a le centre du chapeau brun, des teintes jaunes plus pâles et une base de pied jaune chrome. La lépiote très fragile (Leucocoprinus fragilissimus) présente un chapeau extrêmement mince et des lames pâles. La lépiote brun-jaune (Leucocoprinus brunneoluteus) possède un mamelon brun prononcé et une chair mince et fragile. La lépiote blanc de craie (Leucocoprinus cretaceus) a une stature similaire et est d'un blanc crayeux. Le lépiote soufré (Leucoagaricus sulphurellus) possède des lames qui virent au bleu-vert vif au froissement. Le bolbitie jaune d'œuf (Bolbitius titubans) pousse dans les prairies, ses lames jaunes virent au cannelle à mesure que les spores mûrissent, et son pied n'a pas d'anneau.",
       notes: "De minuscules sclérotes durs, mesurant environ 0,5–0,8 mm de longueur, se forment sur le sol au sein du mycélium. Ils sont beige blanchâtre à blanc jaunâtre pâle. Le champignon ne nuit pas à la plante vivante. Dans un pot d'orchidée transparent, les sclérotes peuvent s'accumuler, altérer l'aspect esthétique de la plante et modifier la rétention d'eau du substrat. La couleur jaune provient de deux alcaloïdes indoliques, la birnbaumine A et la birnbaumine B. La birnbaumine B est le pigment principal. L'ingestion des sporophores provoquerait une gastro-entérite. La gravité exacte de cette intoxication reste incertaine, et certaines sources qualifient sa toxicité d'inconnue."
+    },
+    pl: {
+      description: "Tropikalny grzyb saprotroficzny, który w strefie umiarkowanej występuje wyłącznie w szklarniach, cieplarniach, ogrodach botanicznych oraz doniczkach z roślinami pokojowymi na wilgotnej ziemi kwiatowej.",
+      cap: "Kapelusz ma 2–6 cm średnicy, początkowo jest stożkowaty do jajowatego, później dzwonkowaty do rozpostartego z garbkiem. Przybiera jaskrawą, kanarkowożółtą do siarkowożółtej barwę. Skórka jest sucha, mączysta, pokryta drobnymi, żółtymi łuseczkami i płatkami, z wyraźnie prążkowanym brzegiem.",
+      hymenium: "Blaszki są wolne, gęste, siarkowożółte do bladożółtych.",
+      stipe: "Trzon ma 4–8 cm długości i 0,3–0,6 cm grubości, u podstawy jest wyraźnie maczugowato zgrubiały, pusty, siarkowożółty, z małym, nietrwałym żółtym pierścieniem.",
+      flesh: "Miąższ jest bardzo cienki, kruchy, jasnożółty. Zapach jest słaby, a smak niewyraźny.",
+      sporePrint: "Biały. Zarodniki są gładkie, elipsoidalne, grubościenne, z porą rostkową, o wymiarach 8–11 × 5–7 μm, dekstrynoidalne.",
+      habitat: "Owocniki pojawiają się przez cały rok w ogrzewanych pomieszczeniach, szklarniach i doniczkach z roślinami domowymi.",
+      uses: "Grzyb trujący. Zawiera alkaloidy (birnbauminę) powodujące ostre dolegliwości żołądkowo-jelitowe po przypadkowym spożyciu.",
+      confusion: "Złotogrzybka gno Twoja (Bolbitius titubans) rośnie na łąkach i oborniku, ma cynamonowy wysyp zarodników i nie posiada pierścienia."
     }
     },
     sources: {
@@ -66821,18 +66768,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%9B%D0%B5%D0%B9%D0%BA%D0%BE%D0%BA%D0%BE%D0%BF%D1%80%D1%96%D0%BD%D1%83%D1%81_%D0%91%D1%96%D1%80%D0%BD%D0%B1%D0%B0%D1%83%D0%BC%D0%B0"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Czubnik_cytrynowy"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -66872,6 +66807,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Czubnik_cytrynowy"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
@@ -66979,9 +66926,9 @@ export const CATALOG = [
       bg: 'жълта гнездовка',
       ru: "круцибулюм гладкий",
       uk: "круцибулюм гладенький",
-      pl: "kubecznik pospolity",
       hu: "sárga tégelygomba",
-      fr: "crucibule lisse"
+      fr: "crucibule lisse",
+      pl: "kubecznik pospolity"
     },
     names: {
       en: ["white-egg bird's nest", "common bird's nest"],
@@ -67249,17 +67196,6 @@ export const CATALOG = [
       confusion: "Види роду бокальчик (Cyathus), зокрема бокальчик смугастий (Cyathus striatus), мають тришарову стінку келиха темнішого сіро-бурого забарвлення без жовтих повстяних відтінків.",
       notes: "Поширення перидиолей відбувається за принципом бризкового келиха: краплі дощу падають у чашечку й викидають перидиолі на сусідні гілки, де вони закріплюються клейкою ниткою."
     },
-    pl: {
-      description: "Drobny grzyb saprotroficzny rozwijający się na martwych gałązkach, zrębkach drzewnych, korze i szyszkach. Pospolity w strefie umiarkowanej półkuli północnej.",
-      cap: "Owocnik ma postać miniaturowego kubeczka lub czarki o średnicy 3–10 mm i wysokości 3–9 mm. Za młodu zamknięty jest od góry żółtawą błonką (epifragmą). Po jej pęknięciu odsłania się gładkie, szarobiaławe wnętrze kubka, w którym leży kilka (zwykle 4–6) soczewkowatych, białawych perydiol («jajeczek») o średnicy 1,5–2 mm.",
-      hymenium: "Brak rurek i blaszek. Tkanka zarodnikotwórcza zamknięta jest wewnątrz perydioli.",
-      stipe: "Brak trzonu; owocnik przyrasta zwężoną podstawą bezpośrednio do drewna lub resztek roślinnych.",
-      flesh: "Ścianka owocnika jest cienka, skórzasta, twarda. Zapach i smak są niewyczuwalne.",
-      sporePrint: "Brak typowego wysypu. Zarodniki w perydiolach są elipsoidalne, gładkie, grubościenne, o wymiarach około 6–10 × 4–6 μm.",
-      habitat: "Owocniki wyrastają gromadnie od lata do późnej jesieni na butwiejących gałęziach, zrębkach i ściółce w lasach i ogrodach.",
-      confusion: "Gatunki z rodzaju czarkówka (Cyathus), np. Cyathus striatus, mają wewnętrzną ściankę kubka wyraźnie podłużnie prążkowaną, a młode owocniki mają inną osłonę.",
-      notes: "Krople deszczu wpadające do kielicha owocnika wyrzucają perydiole na zewnątrz na odległość nawet ponad metra dzięki mechanizmowi rozpryskowemu."
-    },
     it: {
       description: "Un minuscolo fungo gasteromicete saprotrofo che fruttifica gregario su rametti secchi, cortecce cadute, cippato di legno e residui vegetali marcescenti. È diffuso in tutto il mondo.",
       cap: "Il corpo fruttifero (peridio) è a forma di minuscola tazzina o nido circolare, largo 3–10 mm all'apice e alto 2–10 mm. L'esterno è tomentoso, di colore giallo-ocraceo o camoscio, chiuso da giovane da una membrana superiore (epiframma) giallo-aranciata che si lacera a maturità lasciando aperta la coppa.",
@@ -67293,6 +67229,17 @@ export const CATALOG = [
       habitat: "Les sporophores poussent isolés, dispersés ou en groupes denses sur les brindilles, les branchettes, les cônes, les coquilles de noix, les copeaux de bois, les vieux paillassons, les tiges de plantes, la paille et les excréments, dans les forêts de feuillus, mixtes et de conifères ainsi qu'en milieu ouvert. On les trouve rarement sur de gros troncs ou sur le sol nu. Ils fructifient du début de l'été jusqu'à la fin de l'automne en Europe, et du printemps jusqu'à l'automne en Amérique du Nord, ou durant tout l'hiver dans les climats plus chauds.",
       confusion: "Les espèces de cyathes (Cyathus) possèdent une paroi à trois couches, sont dépourvues d'opercule jaune à orange et sont fermées dans le jeune âge par une fine membrane blanche ; des spécimens érodés de Cyathus dont la face externe velue est usée se confondent facilement avec cette espèce. Le petit crucibule (Crucibulum parvulum) est plus petit, mesurant 1,5–3 mm de largeur à l'ouverture, et n'est jamais jaune. Le genre Nidula (Nidula) est dépourvu de cordon fixant les péridioles. La nidulaire déformée (Nidularia deformis) n'a pas d'opercule et devient brun foncé avec l'âge.",
       notes: "Les gouttes de pluie, ou l'eau gouttant d'une feuille située au-dessus, éjectent les péridioles hors de la coupe par éclaboussement. Les parois internes lisses sont inclinées à environ 70–75° par rapport à l'horizontale, ce qui assure une éjection efficace. Les péridioles ont tendance à adhérer à la végétation environnante, où des herbivores peuvent les consommer et disséminer les spores. En culture liquide, le champignon produit des salfrédines, des composés qui inhibent l'enzyme aldose réductase."
+    },
+    pl: {
+      description: "Niewielki grzyb saprotroficzny rozwijający się na butwiejących gałązkach, zrębkach drzewnych, korze i szczątkach roślinnych. Pospolity w strefie umiarkowanej na całym świecie.",
+      cap: "Owocnik ma 3–10 mm średnicy i 2–10 mm wysokości, ma kształt małego pucharka lub kubeczka. Za młodu jest zamknięty żółtą do pomarańczowej, filcowatą osłonką (epifragmą). Po jej pęknięciu odsłania się wnętrze przypominające miniaturowe gniazdo z jajami. Zewnętrzna powierzchnia jest żółtoochrowa do brązowawej, filcowata, a wnętrze gładkie, popielatoszare do srebrzystego.",
+      hymenium: "Zarodniki powstają wewnątrz soczewkowatych perydioli («jaj») o średnicy 1–2 mm, spoczywających na dnie kubeczka (zazwyczaj 4–10 sztuk). Każda perydiola jest przymocowana do ścianki kubeczka elastycznym sznureczkiem (funiculus).",
+      stipe: "Brak trzonu. Owocnik przyrasta zwężoną podstawą bezpośrednio do podłoża.",
+      flesh: "Ścianka kubeczka jest cienka, skórzasta i twarda.",
+      sporePrint: "Bezbarwny. Zarodniki są elipsoidalne, gładkie, grubościenne, o wymiarach 6–11 × 3–6 μm.",
+      habitat: "Owocniki pojawiają się od lata do późnej jesieni w gęstych grupach na gałązkach, ściółce i drewnie w lasach i ogrodach.",
+      uses: "Grzyb niejadalny ze względu na mikroskopijne rozmiary i skórzastą konsystencję.",
+      confusion: "Kubitki (Cyathus) mają trójwarstwową ściankę kubeczka, prążkowane wnętrze i ciemnoszare perydiole."
     }
     },
     sources: {
@@ -67566,18 +67513,6 @@ export const CATALOG = [
           href: "https://uk.wikipedia.org/wiki/%D0%9A%D1%80%D1%83%D1%86%D0%B8%D0%B1%D1%83%D0%BB%D1%8E%D0%BC_%D0%B3%D0%BB%D0%B0%D0%B4%D0%B5%D0%BD%D1%8C%D0%BA%D0%B8%D0%B9"
         }
       ],
-      pl: [
-        {
-          group: "text",
-          name: "Wikipedia",
-          href: "https://pl.wikipedia.org/wiki/Kubecznik_pospolity"
-        },
-        {
-          group: "text",
-          name: "Polskie Towarzystwo Mykologiczne",
-          href: "https://www.ptmyk.pl/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -67612,6 +67547,18 @@ export const CATALOG = [
           group: "text",
           name: "Société Mycologique de France",
           href: "https://www.mycofrance.fr/"
+        }
+      ],
+      pl: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Kubecznik_pospolity"
+        },
+        {
+          group: "text",
+          name: "Polskie Towarzystwo Mykologiczne",
+          href: "https://www.ptmyk.pl/"
         }
       ]
     },
