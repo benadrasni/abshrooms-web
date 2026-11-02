@@ -103,9 +103,9 @@ export const CATALOG = [
       ru: "белый гриб",
       uk: "білий гриб",
       pl: "borowik szlachetny",
-      fr: "cèpe de Bordeaux",
       it: "porcino",
-      hu: "ízletes vargánya"
+      hu: "ízletes vargánya",
+      fr: "cèpe de Bordeaux"
     },
     names: {
       en: ["cep", "king bolete", "porcini"],
@@ -122,9 +122,9 @@ export const CATALOG = [
       ru: ["боровик","белый"],
       uk: ["боровик","білий гриб звичайний"],
       pl: ["prawdziwek","borowik jadalny"],
-      fr: ["cèpe","gros pied"],
       it: ["porcino comune","ceppatello","brisa"],
-      hu: ["ízletes tinóru","jóféle vargánya","úrigomba"]
+      hu: ["ízletes tinóru","jóféle vargánya","úrigomba"],
+      fr: ["cèpe","gros pied"]
     },
     text: {
       tr: {
@@ -384,17 +384,6 @@ export const CATALOG = [
       uses: "Wyborny grzyb jadalny, spożywany w sezonie na świeżo, a jeszcze częściej suszony i po namoczeniu dodawany do zup, dań z makaronem oraz risotto. Nie jest uprawiany komercyjnie.",
       confusion: "Do gatunków podobnych należy goryczak żółciowy (Tylopilus felleus), który ma ciemną siateczkę na jasnym trzonie i pory różowiejące z wiekiem, a także krwistoborowik szatański (Rubroboletus satanas), który charakteryzuje się czerwonym trzonem i miąższem siniejącym po uszkodzeniu. Borowik ciemnobrązowy (Boletus aereus), borowik sosnowy (Boletus pinophilus) i borowik usiatkowany (Boletus reticulatus) to pokrewne gatunki europejskie wyodrębniane od borowika szlachetnego. Badania molekularne zaliczają taksony takie jak Boletus betulicola, Boletus persoonii, Boletus quercicola oraz Boletus venturii do kompleksu Boletus edulis."
     },
-    fr: {
-      description: "Un grand champignon ectomycorhizien. Originaire d'Europe, d'Amérique du Nord et de certaines régions d'Asie. Introduit avec des arbres plantés à Christchurch en Nouvelle-Zélande, dans les collines d'Adélaïde en Australie, ainsi que dans des plantations de pins en Afrique du Sud et au Zimbabwe.",
-      cap: "Le chapeau mesure habituellement 5–30 cm de largeur, parfois davantage, convexe lorsqu'il est jeune puis s'aplanissant avec l'âge. Il est brun rougeâtre, souvent avec une marge plus pâle, et visqueux à l'état humide. Un sporophore adulte peut peser environ 1 kg. Un spécimen récolté sur l'île de Skye en 1995 présentait un chapeau de 42 cm de largeur.",
-      hymenium: "Les tubes mesurent environ 1–2 cm de profondeur. Les pores sont petits, environ deux ou trois par millimètre. Ils sont blanchâtres et d'aspect bouché dans le jeune âge, puis jaunes, et plus tard jaune verdâtre à brun. Ils ne bleuissent ni ne changent de couleur au froissement.",
-      stipe: "Le pied mesure habituellement 6–25 cm de hauteur et 2–7 cm d'épaisseur, blanc ou jaunâtre. Il est souvent renflé à la base dans le jeune âge et devient plus cylindrique par la suite. Un fin réseau saillant blanchâtre couvre la partie supérieure, parfois l'ensemble du pied. La chair de la base est parfois jaune foncé.",
-      flesh: "La chair est blanche, épaisse et ferme dans le jeune âge, devenant quelque peu spongieuse avec l'âge. La chair coupée ou blessée reste blanche, avec une légère nuance rosâtre ou brun vineux immédiatement sous la cuticule du chapeau.",
-      sporePrint: "Brun olive. Les spores sont elliptiques à fusiformes, mesurant environ 12–17 × 5–7 µm.",
-      habitat: "Les sporophores apparaissent en été et en automne, solitaires ou par groupes de deux ou trois. Il croît en association avec des arbres vivants, notamment le pin, l'épicéa, la pruche, le sapin, le hêtre, le chêne et le châtaignier, dans les bois tempérés frais et subtropicaux.",
-      uses: "C'est un excellent champignon comestible de premier choix, consommé frais en saison et encore plus souvent séché puis réhydraté, dans les soupes, les pâtes et le risotto. Il n'est pas cultivé de manière fiable à des fins commerciales.",
-      confusion: "Parmi les espèces ressemblantes figurent le bolet de fiel (Tylopilus felleus), qui possède un réseau sombre sur un pied pâle et des pores qui deviennent roses avec l'âge, et le bolet satan (Rubroboletus satanas), qui présente un pied rouge et une chair qui bleuit au froissement. Le cèpe bronzé (Boletus aereus), le cèpe des pins (Boletus pinophilus) et le cèpe d'été (Boletus reticulatus) sont des espèces européennes apparentées maintenues séparées. Les études moléculaires placent des taxons tels que Boletus betulicola, Boletus persoonii, Boletus quercicola et Boletus venturii dans le complexe de Boletus edulis."
-    },
     it: {
       description: "Un grande fungo ectomicorrizico. Indigeno in tutta Europa, in Nord America e in parti dell'Asia. È stato introdotto insieme ad alberi piantati a Christchurch in Nuova Zelanda, nelle Adelaide Hills in Australia e nelle piantagioni di pini in Sudafrica e Zimbabwe.",
       cap: "Il cappello misura solitamente 5–30 cm di diametro, talvolta di più, convesso da giovane e poi appianato con l'età. È di colore bruno-rossastro, spesso con margine più chiaro, e diventa vischioso con tempo umido. Un carpoforo maturo può pesare circa 1 kg. Un esemplare trovato sull'isola di Skye nel 1995 presentava un cappello di 42 cm di diametro.",
@@ -416,6 +405,17 @@ export const CATALOG = [
       habitat: "A termőtestek nyáron és ősszel jelennek meg, magányosan vagy kettes-hármas csoportokban. Élő fákkal – köztük erdeifenyővel, lucfenyővel, hemlokfenyővel, jegenyefenyővel, bükkfa- és tölgyfafajokkal, valamint szelídgesztenyével – képez mikorrhizás kapcsolatot hűvös mérsékelt övi és szubtrópusi erdőkben.",
       uses: "Kiváló csemegegomba, amelyet a szezonban frissen készítenek el, vagy még gyakrabban szárítva és beáztatva levesekhez, tésztákhoz és rizottókhoz használnak fel. Megbízható mesterséges termesztése nem megoldott.",
       confusion: "A hasonló fajok közé tartozik az epeízű tinóru (Tylopilus felleus), amelynek világosabb tönkjén sötét hálózat látható, pórusai pedig idővel rózsaszínessé válnak, valamint a sátántinóru (Rubroboletus satanas), amely piros tönkű és húsa sérülésre kékül. A bronzos vargánya (Boletus aereus), a vörösbarna vargánya (Boletus pinophilus) és a nyári vargánya (Boletus reticulatus) közeli rokon európai fajok, amelyek elkülöníthetők az ízletes vargányától. Molekuláris vizsgálatok kimutatták, hogy a korábban önálló fajként kezelt Boletus betulicola, Boletus persoonii, Boletus quercicola és Boletus venturii a Boletus edulis formakörébe tartoznak."
+    },
+    fr: {
+      description: "Un grand champignon ectomycorhizien. Indigène à travers toute l'Europe, l'Amérique du Nord et certaines parties de l'Asie. Introduit avec des arbres plantés à Christchurch en Nouvelle-Zélande, dans les collines d'Adélaïde en Australie, ainsi que dans des plantations de pins en Afrique du Sud et au Zimbabwe.",
+      cap: "Le chapeau mesure habituellement 5–30 cm de largeur, parfois davantage, convexe dans le jeune âge puis s'aplanissant avec le temps. Il est brun rougeâtre, souvent avec une marge plus pâle, et visqueux à l'état humide. Un sporophore adulte peut peser environ 1 kg. Un spécimen récolté sur l'île de Skye en 1995 présentait un chapeau de 42 cm de largeur.",
+      hymenium: "Les tubes mesurent environ 1–2 cm de profondeur. Les pores sont petits, environ deux ou trois par millimètre. Ils sont blanchâtres et d'aspect bouché dans le jeune âge, puis jaunes, et plus tard jaune verdâtre à brun. Ils ne changent pas de couleur au froissement.",
+      stipe: "Le pied mesure habituellement 6–25 cm de hauteur et 2–7 cm d'épaisseur, blanc ou blanchâtre. Il est souvent renflé à la base dans le jeune âge et plus cylindrique par la suite. Un fin réseau saillant couvre la partie supérieure, parfois l'ensemble du pied. La chair de la base est parfois jaune foncé.",
+      flesh: "La chair est blanche, épaisse et ferme dans le jeune âge, devenant quelque peu spongieuse avec l'âge. La chair coupée ou blessée reste blanche, avec une légère teinte rosâtre ou brun vineux immédiatement sous la cuticule du chapeau.",
+      sporePrint: "Brun olive. Les spores sont elliptiques à fusiformes, mesurant environ 12–17 × 5–7 µm.",
+      habitat: "Les sporophores apparaissent en été et en automne, solitaires ou par groupes de deux ou trois. Il croît en association avec des arbres vivants, notamment le pin, l'épicéa, la pruche, le sapin, le hêtre, le chêne et le châtaignier, dans les bois tempérés frais et subtropicaux.",
+      uses: "C'est un excellent champignon comestible, consommé frais en saison et plus souvent séché puis réhydraté, dans les soupes, les pâtes et le risotto. Il n'est pas produit de manière fiable en culture commerciale.",
+      confusion: "Parmi les espèces ressemblantes figurent le bolet de fiel (Tylopilus felleus), qui possède un réseau sombre sur un pied pâle et des pores qui deviennent roses, et le bolet satan (Rubroboletus satanas), qui présente un pied rouge et une chair qui bleuit au froissement. Le cèpe bronzé (Boletus aereus), le cèpe des pins (Boletus pinophilus) et le cèpe d'été (Boletus reticulatus) sont des espèces européennes apparentées maintenues séparées de Boletus edulis. Les études moléculaires placent des taxons tels que Boletus betulicola, Boletus persoonii, Boletus quercicola et Boletus venturii dans le complexe de Boletus edulis."
     }
     },
     sources: {
@@ -756,23 +756,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Boletus_edulis"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/3828"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -795,6 +778,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/%C3%8Dzletes_varg%C3%A1nya"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Boletus_edulis"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/3828"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -906,9 +906,9 @@ export const CATALOG = [
       ru: "мухомор красный",
       uk: "мухомор червоний",
       pl: "muchomor czerwony",
-      fr: "amanite tue-mouches",
       it: "ovolo malefico",
-      hu: "légyölő galóca"
+      hu: "légyölő galóca",
+      fr: "amanite tue-mouches"
     },
     names: {
       en: ["fly amanita", "red toadstool"],
@@ -918,8 +918,8 @@ export const CATALOG = [
       es: ['falsa oronja'],
       pt: ['mata-moscas', 'rosalgar', 'agário-das-moscas'],
       ro: ['muscăriță'],
-      fr: ["fausse oronge"],
-      it: ["amanita muscaria"]
+      it: ["amanita muscaria"],
+      fr: ["fausse oronge"]
     },
     text: {
       tr: {
@@ -1198,18 +1198,6 @@ export const CATALOG = [
       confusion: "Muchomor cesarski (Amanita caesarea) ma pomarańczowy kapelusz o prążkowanym brzegu i żółty trzon; występuje rzadko lub wcale w północnej Europie. Muchomor czerwieniejący (Amanita rubescens) może mieć ciemnopomarańczowy kapelusz, a jego miąższ czerwienieje po uszkodzeniu. Gołąbek bukowy (Russula nobilis) ma jaskrawoczerwony kapelusz, lecz nie posiada pierścienia ani pochwy. Wielu autorów uznaje brunatnego muchomora królewskiego (Amanita regalis) za odrębny gatunek.",
       notes: "Dawniej bywał używany do trucia much."
     },
-    fr: {
-      description: "Un champignon ectomycorhizien des forêts de feuillus et de conifères. Fréquent dans tout l'hémisphère nord, notamment en Grande-Bretagne, en Irlande, en Europe continentale, en Asie, aux États-Unis et au Canada. Il a été introduit en Australie (y compris en Tasmanie) et en Nouvelle-Zélande.",
-      cap: "Le chapeau mesure 10–20 cm de largeur à maturité, rouge vif ou occasionnellement orange. Il est arrondi à hémisphérique dans la jeunesse et s'aplatit généralement, devenant parfois légèrement déprimé. Des restes irréguliers blancs du voile universel adhèrent à la surface du chapeau et peuvent être éliminés par la pluie.",
-      hymenium: "Les lames sont blanches, libres et serrées. Elles prennent une teinte jaune pâle à mesure que le sporophore vieillit.",
-      stipe: "Le pied mesure 10–25 cm de hauteur et 1–2 cm d'épaisseur, blanc, muni d'un anneau blanc pendant et strié. La base est bulbeuse et porte des débris blancs de la volve disposés en bandes ou anneaux concentriques.",
-      flesh: "La chair est blanche, avec une couche jaune d'or immédiatement sous la cuticule du chapeau. L'odeur est insignifiante.",
-      sporePrint: "Blanche. Les spores sont ovales, mesurant environ 9–13 × 6,5–9 µm, et ne bleuissent pas à l'iode (inamyloïdes).",
-      habitat: "Les sporophores apparaissent d'août à novembre. Il croît en association avec des feuillus et des conifères, en particulier le bouleau, le pin et l'épicéa.",
-      uses: "L'amanite tue-mouches est toxique. Elle contient du muscimole et de l'acide iboténique, mais les empoisonnements mortels sont extrêmement rares. Le fait de la faire bouillir dans une grande quantité d'eau en jetant l'eau de cuisson ne constitue qu'une pratique historique et ne garantit en rien une consommation sans danger.",
-      confusion: "L'oronge (Amanita caesarea) possède un chapeau orange à marge nettement striée et un pied jaune ; elle est très rare en Europe septentrionale. L'amanite rougissante (Amanita rubescens) peut présenter un chapeau brun orangé foncé, mais sa chair rougit au froissement ou à la blessure. La russule émétique des hêtres (Russula nobilis) possède un chapeau rouge vif, mais est dépourvue d'anneau et de volve. De nombreux auteurs traitent l'amanite royale brune (Amanita regalis) comme une espèce distincte.",
-      notes: "Elle était autrefois utilisée pour lutter contre les mouches."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi di latifoglie e conifere. Frequente in tutto l'emisfero settentrionale, comprese le isole britanniche, l'Europa continentale, l'Asia, gli Stati Uniti e il Canada. È stato introdotto in Australia (inclusa la Tasmania) e in Nuova Zelanda.",
       cap: "Il cappello misura 10–20 cm di diametro a maturità, di colore rosso brillante o occasionalmente arancione. È tondeggiante o emisferico da giovane e si appiana di solito con l'età, talvolta debolmente depresso al centro. Verruche bianche irregolari, residuo del velo universale, sono adagiate sulla superficie e possono essere lavate via dalla pioggia.",
@@ -1233,6 +1221,18 @@ export const CATALOG = [
       uses: "Mérgező gomba. Muszcimolt és iboténsavat tartalmaz; a halálos mérgezés azonban rendkívül ritka. A bő vízben való előfőzés és a főzővíz leöntése csupán történelmi népi gyakorlat, és nem teszi a gombát megbízhatóan fogyaszthatóvá.",
       confusion: "A császárgalóca (Amanita caesarea) kalapja narancssárga, széle bordás, tönkje és lemezei pedig sárgák; Észak-Európában alig fordul elő. A piruló galóca (Amanita rubescens) kalapja sötétebb narancsbarna is lehet, de húsa sérülésre vörösödik. A hánytató galambgomba (Russula emetica) élénkvörös kalapú, de nincs sem gallérja, sem bocskora. Sok szerző önálló fajként kezeli a barna színű barna galócát (Amanita regalis).",
       notes: "Korábban a tejbe áztatott kalapját légyirtásra használták."
+    },
+    fr: {
+      description: "Un champignon ectomycorhizien des forêts de feuillus et de conifères. Fréquent dans tout l'hémisphère nord, notamment en Grande-Bretagne et en Irlande, en Europe continentale, en Asie, aux États-Unis et au Canada. Introduit en Australie (y compris en Tasmanie) et en Nouvelle-Zélande.",
+      cap: "Le chapeau mesure 10–20 cm de largeur à maturité, rouge ou occasionnellement orange. Il est arrondi dans le jeune âge et s'aplatit généralement, devenant parfois légèrement concave. Des fragments irréguliers et blancs du voile universel reposent sur le chapeau et peuvent disparaître sous la pluie.",
+      hymenium: "Les lames sont blanches, libres et serrées. Elles virent au jaune pâle à mesure que le sporophore mûrit.",
+      stipe: "Le pied mesure 10–25 cm de hauteur et 1–2 cm d'épaisseur, blanc, avec un anneau blanc pendant et cannelé. La base est renflée et conserve des restes blancs de la volve, qui se fragmentent en anneaux d'écailles.",
+      flesh: "La chair est blanche, avec une couche jaune d'or immédiatement sous la cuticule du chapeau. L'odeur n'est pas distinctive.",
+      sporePrint: "Blanche. Les spores sont ovales, mesurant environ 9–13 × 6,5–9 µm, et ne virent pas au bleu dans l'iode.",
+      habitat: "Les sporophores apparaissent d'août à novembre. Il croît en association avec des feuillus et des conifères, notamment le bouleau, le pin et l'épicéa.",
+      uses: "L'amanite tue-mouches est toxique. Elle contient du muscimole et de l'acide iboténique, et les intoxications mortelles sont extrêmement rares.",
+      confusion: "L'oronge (Amanita caesarea) possède un chapeau orange à marge striée et un pied jaune, et ne se rencontre que très rarement, voire jamais, en Europe du Nord. L'amanite rougissante (Amanita rubescens) peut présenter un chapeau orange foncé, et sa chair vire au rouge lorsqu'elle est blessée. La russule émétique des hêtres (Russula nobilis) a un chapeau rouge vif mais ne porte ni anneau ni volve. De nombreux auteurs maintiennent l'amanite royale (Amanita regalis), brune, comme une espèce distincte.",
+      notes: "Elle était autrefois utilisée contre les mouches."
     }
     },
     sources: {
@@ -1551,23 +1551,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Amanite_tue-mouches"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/3688"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -1590,6 +1573,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/L%C3%A9gy%C3%B6l%C5%91_gal%C3%B3ca"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Amanite_tue-mouches"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/3688"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -1701,9 +1701,9 @@ export const CATALOG = [
       ru: "лисичка обыкновенная",
       uk: "лисичка справжня",
       pl: "pieprznik jadalny",
-      fr: "girolle",
       it: "gallinaccio",
-      hu: "sárga rókagomba"
+      hu: "sárga rókagomba",
+      fr: "girolle"
     },
     names: {
       en: ["girolle"],
@@ -1740,9 +1740,9 @@ export const CATALOG = [
       ru: ["лисичка настоящая"],
       uk: ["лисичка звичайна"],
       pl: ["kurka"],
-      fr: ["chanterelle commune","chanterelle"],
       it: ["finferlo","galletto","cantarello"],
-      hu: ["közönséges rókagomba","nyúlgomba"]
+      hu: ["közönséges rókagomba","nyúlgomba"],
+      fr: ["chanterelle commune","chanterelle"]
     },
     text: {
       tr: {
@@ -2017,18 +2017,6 @@ export const CATALOG = [
       confusion: "Lisówka pomarańczowa (Hygrophoropsis aurantiaca) ma cieńszy miąższ, gęste, wielokrotnie rozwidlone blaszki, a nie listewki, ciemniejszy trzon i u niektórych osób powoduje dolegliwości żołądkowe. Śmiertelnie trujący zasłonak rudawy (Cortinarius rubellus) ma rdzawobrązowy kapelusz ze stożkowatym garbkiem, prawdziwe blaszki i rdzawy wysyp zarodników. Kolczak obłączasty (Hydnum repandum) ma kolce pod kapeluszem, lecz bywa podobnie przyrządzany.",
       notes: "Ocena z 2019 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern)."
     },
-    fr: {
-      description: "Un champignon ectomycorhizien. Indigène en Europe, de la Scandinavie au bassin méditerranéen ; fréquent mais localisé en Grande-Bretagne et en Irlande. Au sens strict, il s'agit d'une espèce européenne. Les récoltes nord-américaines autrefois rattachées à ce nom appartiennent à d'autres espèces.",
-      cap: "Le chapeau mesure jusqu'à 10 cm de largeur et est généralement en forme d'entonnoir, avec une marge ondulée et irrégulière. La couleur varie du jaune pâle au jaune d'œuf soutenu. Une pruine blanchâtre et fine peut parfois recouvrir le chapeau.",
-      hymenium: "La face inférieure porte des plis (fausses lames) plutôt que de véritables lames. Des plis épais et ridés courent longuement en descendant sur le pied. Ils sont droits près du pied, puis bifurqués et plus sinueux vers la marge du chapeau.",
-      stipe: "Le pied est de la même couleur que le chapeau ou légèrement plus pâle, plein et atténué vers la base, se fondant graduellement dans le chapeau. Il mesure 2–8 cm de hauteur et 0,5–1,5 cm d'épaisseur. En touffes, les pieds sont souvent courbés et parfois soudés à la base.",
-      flesh: "La chair est blanche. L'odeur rappelle légèrement l'abricot. La saveur de la chair crue est douce, avec une note légèrement piquante et poivrée.",
-      sporePrint: "Jaune pâle à blanc crème, parfois avec une légère nuance rosâtre. Les spores sont ellipsoïdes, lisses, mesurant 7,5–10 × 4,5–6 µm, et sont inamyloïdes.",
-      habitat: "Les sporophores apparaissent de juin à octobre, et jusqu'en novembre lors des automnes doux. Il croît en association avec des feuillus et des conifères, en particulier le chêne, le hêtre, le bouleau, le pin et l'épicéa, sur des sols pauvres et acides.",
-      uses: "C'est un excellent comestible de choix. Les sporophores cuits développent un parfum fruité rappelant l'abricot et conservent une texture ferme. Ils sont généralement sautés ou braisés ; le séchage a tendance à les rendre coriaces, la congélation ou la mise en conserve étant souvent préférées.",
-      confusion: "La fausse chanterelle (Hygrophoropsis aurantiaca) présente une coloration orange plus vive, de véritables lames serrées et fines, ainsi qu'une chair molle et spongieuse ; elle est comestible mais médiocre. Le pleurote de l'olivier (Omphalotus olearius) et le clitocybe illusoire (Omphalotus illudens) sont des espèces toxiques lignicoles possédant de véritables lames non fourchues et bioluminescentes.",
-      notes: "La chanterelle pruineuse (Cantharellus pallens) est considérée comme une espèce distincte."
-    },
     it: {
       description: "Un fungo ectomicorrizico. Indigeno in Europa dalla Scandinavia al bacino del Mediterraneo. In senso stretto si tratta di una specie europea; i funghi nordamericani un tempo attribuiti a questo nome appartengono ad altre specie distinte.",
       cap: "Il cappello misura fino a 10 cm di diametro ed è solitamente a forma di imbuto, con margine ondulato e irregolare. Il colore varia dal giallo chiaro al giallo tuorlo intenso. Una pruina biancastra e sottile può talvolta ricoprire il cappello.",
@@ -2052,6 +2040,18 @@ export const CATALOG = [
       uses: "Kiváló csemegegomba, feszes húsú és zamatos ízű. Sütve, párolva vagy tartósítva készítik el; főzés közben is jól megőrzi állagát. Szárításkor gyakran szívóssá és rágóssá válik, ezért fagyasztása vagy ecetes elrakása ajánlott.",
       confusion: "A narancsvörös álrókagomba (Hygrophoropsis aurantiaca) vékony húsú, valódi lemezekkel rendelkezik és korhadó faanyagon vagy avaron nő; régebben gyanúsnak tartották, ma ehetőnek tekintik, de kulináris értéke csekély. A mérgező világító tölcsérgomba (Omphalotus olearius) jóval nagyobb termetű, fán vagy tuskókon csoportosan nő, kalapja sötétebb narancsbarna és valódi lemezei sötétben foszforeszkálnak. A sárga gereben (Hydnum repandum) hasonló színű és kalapú, de alsó termőrétegét könnyen letörölhető tüskék alkotják.",
       notes: "A halvány rókagomba (Cantharellus pallens) külön fajnak számít. Magyarországon 2007-ben az év gombája volt."
+    },
+    fr: {
+      description: "Un champignon ectomycorhizien. Indigène en Europe de la Scandinavie à la Méditerranée, et fréquent mais localisé en Grande-Bretagne et en Irlande. Au sens strict, il est européen. Les champignons nord-américains autrefois classés sous ce nom appartiennent à d'autres espèces.",
+      cap: "Le chapeau mesure jusqu'à 10 cm de largeur et est généralement en forme d'entonnoir, avec une marge ondulée et irrégulière. La couleur va du jaune clair au jaune jaune d'œuf profond. Une fine pruine blanche le masque parfois.",
+      hymenium: "La face inférieure porte de fausses lames plutôt que de véritables lames. Des plis épais et ridés descendent nettement sur le pied. Ils sont droits près du pied, puis fourchus et plus sinueux vers la marge du chapeau.",
+      stipe: "Le pied est de la même couleur que le chapeau ou un peu plus pâle, plein et atténué vers la base, et il se fond dans le chapeau. Il mesure 2–8 cm de longueur et 0,5–1,5 cm d'épaisseur. En touffes, les pieds sont souvent courbés et parfois réunis près de la base.",
+      flesh: "La chair est blanche. L'odeur rappelle légèrement l'abricot. La saveur de la chair crue n'est pas distinctive.",
+      sporePrint: "Jaune pâle à blanc crème, parfois avec une légère nuance rosâtre. Les spores sont ellipsoïdales et lisses, mesurant environ 7–11 × 4–6 µm, et ne virent pas au bleu dans l'iode.",
+      habitat: "Les sporophores apparaissent de juin à octobre, et jusqu'en novembre lors d'un automne doux. Il pousse le plus souvent dans les bois de feuillus avec le chêne, le châtaignier ou le noisetier, également sous les conifères, et parfois sur les accotements de routes sous une haie de feuillus. Il préfère les sols acides.",
+      uses: "La girolle est un excellent comestible. Les sporophores cuits ont un arôme fruité rappelant l'abricot.",
+      confusion: "La fausse chanterelle (Hygrophoropsis aurantiaca) est d'un orange plus vif, possède de véritables lames serrées et a une chair de la couleur du chapeau plutôt que blanche. Le pleurote de l'olivier (Omphalotus olearius) et Omphalotus illudens sont toxiques, poussent sur le bois de feuillus et possèdent de véritables lames. La chanterelle améthyste (Cantharellus amethysteus) présente des écailles violettes sur le chapeau et est maintenue comme une espèce distincte.",
+      notes: "Cantharellus pallens est une espèce distincte."
     }
     },
     sources: {
@@ -2395,23 +2395,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Cantharellus_cibarius"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/4819"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -2434,6 +2417,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/S%C3%A1rga_r%C3%B3kagomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Cantharellus_cibarius"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/4819"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -2555,9 +2555,9 @@ export const CATALOG = [
       ru: "белый гриб сетчатый",
       uk: "білий гриб сітчастий",
       pl: "borowik usiatkowany",
-      fr: "cèpe d'été",
       it: "porcino estivo",
-      hu: "nyári vargánya"
+      hu: "nyári vargánya",
+      fr: "cèpe d'été"
     },
     names: {
       en: ["summer cep"],
@@ -2572,9 +2572,9 @@ export const CATALOG = [
       ru: ["боровик сетчатый","белый гриб дубовый"],
       uk: ["боровик сітчастий"],
       pl: ["borowik siatkowaty"],
-      fr: ["cèpe réticulé"],
       it: ["estatino"],
-      hu: ["nyári tinóru"]
+      hu: ["nyári tinóru"],
+      fr: ["cèpe réticulé"]
     },
     text: {
       tr: {
@@ -2850,18 +2850,6 @@ export const CATALOG = [
       confusion: "Borowik szlachetny (Boletus edulis) ma jaśniejszy trzon z białą siateczką ograniczoną głównie do górnej części, brązowy kapelusz z białawym brzegiem i owocuje później. Borowik ciemnobrązowy (Boletus aereus) ma ciemniejszy kapelusz i znacznie twardszy miąższ. Goryczak żółciowy (Tylopilus felleus) ma ciemną siateczkę na jaśniejszym trzonie, różowawy odcień porów i bardzo gorzki smak. Trujące czerwone borowiki, takie jak krwistoborowik szatański (Rubroboletus satanas), mają czerwone pory lub trzon i natychmiast sinieją po przekrojeniu.",
       notes: "Na wschód notowany aż po Kraj Nadmorski. Ocena z 2019 roku uznaje go za gatunek najmniejszej troski (Least Concern) o stabilnej populacji."
     },
-    fr: {
-      description: "Un champignon ectomycorhizien. Un bolet commun des forêts méditerranéennes, tempérées et hémiboréales de feuillus et mixtes à travers l'Europe.",
-      cap: "Le chapeau mesure typiquement 10–20 cm de largeur (en moyenne 7–12 cm chez les petits spécimens), d'abord hémisphérique puis convexe, et s'aplatit avec l'âge. Il est brun clair à brun chamois ou noisette, sec et souvent finement velouté au début. Par temps chaud et sec, la cuticule du chapeau se craquelle fréquemment en formant de petites écailles ou crevasses.",
-      hymenium: "Les tubes et les petits pores sont blancs dans le jeune âge, devenant jaune verdâtre avec l'âge et brun olive à maturité. Ils ne changent pas de couleur lorsqu'ils sont froissés ou coupés.",
-      stipe: "Le pied mesure 8–18 cm de hauteur et 2,5–6 cm d'épaisseur, le plus souvent en forme de massue ou de tonneau, ne devenant cylindrique que chez les spécimens âgés. Il est pâle, chamois brunâtre à noisette, et orné d'un réseau saillant blanc très net sur les deux tiers supérieurs, descendant parfois jusqu'à la base.",
-      flesh: "La chair est blanche. La chair coupée reste blanche et jaunit très légèrement avec l'âge. Elle est ferme dans le jeune âge puis devient spongieuse dans le chapeau. L'odeur est agréable et fongique ; la saveur est douce et noisetée.",
-      sporePrint: "Brun olive. Les spores sont subfusiformes, lisses, mesurant environ 12,5–16 × 4,5–5,5 µm.",
-      habitat: "Les sporophores apparaissent de juin à octobre, et parfois plus tôt dès le mois de mai lors des printemps chauds. Il pousse au sol sous les feuillus, en particulier le chêne, le hêtre, le charme et le châtaignier.",
-      uses: "C'est un excellent comestible de choix, tout aussi apprécié que le cèpe de Bordeaux (Boletus edulis) et utilisé dans les mêmes préparations culinaires. Les sporophores sont souvent plus précoces en saison et attirent fréquemment les larves d'insectes par temps chaud.",
-      confusion: "Le cèpe de Bordeaux (Boletus edulis) possède un pied plus pâle avec un réseau blanc restreint au sommet, et un chapeau brun plus foncé à marge blanchâtre souvent visqueux à l'humidité. Le cèpe bronzé (Boletus aereus) a un chapeau brun très sombre à noirâtre et un pied brun cannelle. Le cèpe des pins (Boletus pinophilus) présente un chapeau brun rougeâtre ou acajou et s'associe principalement aux pins. Le bolet de fiel (Tylopilus felleus) possède un réseau brun sombre saillant, des pores devenant rosâtres et une chair d'une grande amertume.",
-      notes: "Il est signalé vers l'est jusqu'au kraï du Primorié. Une évaluation de 2019 le classe en préoccupation mineure (Least Concern), avec une population stable."
-    },
     it: {
       description: "Un fungo ectomicorrizico. È un comune porcino dei boschi mediterranei, temperati e collinari, associato in particolare alle querce e ad altre latifoglie.",
       cap: "Il cappello misura tipicamente 10–20 cm di diametro (con una media di 7–12 cm nei carpofori più modesti), di colore bruno-ocraceo o nocciola chiaro. La cuticola è opaca, finemente vellutata e asciutta, e col tempo secco tende a screpolarsi formando un reticolo di fessure.",
@@ -2885,6 +2873,18 @@ export const CATALOG = [
       uses: "Kiváló csemegegomba, a gombagyűjtők egyik legkedveltebb faja, friss ételekben és szárítva is kiváló.",
       confusion: "Az ízletes vargánya (Boletus edulis) kalapbőre nedvesen nyálkás, tönkhálózata többnyire csak a felső harmadra korlátozódik, és inkább késő nyártól jelenik meg. A bronzos vargánya (Boletus aereus) kalapja jóval sötétebb, feketésbarna, hálózata kevésbé kiterjedt. Az epeízű tinóru (Tylopilus felleus) tönkjén durva sötétbarna hálózat van, csövei rózsaszínesednek és húsa rendkívül keserű.",
       notes: "Kelet felé egészen a Tengermelléki határterületig feljegyezték. Egy 2019-es felmérés szerint a nem veszélyeztetett (Least Concern) kategóriába tartozik, állománya stabil."
+    },
+    fr: {
+      description: "Un champignon ectomycorhizien. Un bolet commun des bois méditerranéens, tempérés et hémiboréaux à travers toute l'Europe. Il est rare en Grande-Bretagne et en Irlande, et plus fréquent dans le sud de l'Europe. Les signalements d'Amérique du Nord et du Japon autrefois classés sous ce nom appartiennent à d'autres espèces, et un signalement en Afrique australe sous des pins plantés est considéré comme probablement introduit.",
+      cap: "Le chapeau mesure typiquement 10–20 cm de largeur (en moyenne 7–12 cm chez les spécimens plus petits), brun jaunâtre clair à brun moyen. Il commence par être velouté, puis devient ridé ou finement craquelé par temps sec. La marge n'est pas nettement plus pâle que le centre.",
+      hymenium: "Les tubes et les petits pores sont blancs dans le jeune âge, devenant jaune verdâtre avec l'âge. Ils ne changent pas de couleur de manière significative lorsqu'ils sont coupés ou froissés.",
+      stipe: "Le pied mesure 8–18 cm de longueur et 2,5–6 cm d'épaisseur, plus souvent en forme de tonneau et seulement occasionnellement en massue. Un réseau saillant plus pâle se détache sur un fond brun pâle à moyen, plus sombre vers le sommet et la base et un peu plus pâle et plus rose près du centre renflé. Le réseau descend habituellement bien bas sur le pied et parfois jusqu'à la base.",
+      flesh: "La chair est blanche. La chair coupée reste blanche et jaunit légèrement avec l'âge. Elle est moins ferme que la chair de Boletus edulis ou de Boletus aereus. L'odeur est terreuse. La saveur est agréable et douce, bien que moins prononcée que celle du cèpe de Bordeaux.",
+      sporePrint: "Brun olive (brun tabac olivacé). Les spores sont subfusiformes et lisses, mesurant environ 13–15 × 4,5–5,5 µm.",
+      habitat: "Les sporophores apparaissent de juin à octobre en Grande-Bretagne et en Irlande, et jusqu'en février dans certaines parties du sud de l'Europe. Il pousse sur le sol sous les arbres feuillus, notamment le hêtre et les chênes, également avec d'autres feuillus, et occasionnellement sous l'épicéa. Il fructifie un peu plus tôt que Boletus edulis.",
+      uses: "C'est un excellent comestible, aussi bon que Boletus edulis et utilisé dans les mêmes recettes. La texture et la saveur sont presque identiques, et la chair est quelque peu moins ferme.",
+      confusion: "Le cèpe de Bordeaux (Boletus edulis) a un pied plus pâle, un réseau blanc et un chapeau brun à marge blanchâtre, et il fructifie plus tard. Le cèpe bronzé (Boletus aereus) présente un chapeau plus sombre et une chair beaucoup plus ferme. Le bolet de fiel (Tylopilus felleus) possède un réseau plus sombre sur un pied plus pâle, une teinte rosâtre sur les pores et une saveur très amère. Les bolets rouges toxiques, comme le bolet satan (Rubroboletus satanas), ont du rouge dans la chair ou sur les pores, ou bien bleuissent immédiatement à la coupe.",
+      notes: "Il est signalé vers l'est jusqu'au kraï du Primorié. Une évaluation de 2019 le classe comme préoccupation mineure (Least Concern), avec une population stable."
     }
     },
     sources: {
@@ -3208,23 +3208,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Boletus_reticulatus"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/451433"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -3247,6 +3230,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Ny%C3%A1ri_varg%C3%A1nya"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Boletus_reticulatus"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/3847"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -3360,9 +3360,9 @@ export const CATALOG = [
       ru: "гриб-зонтик пёстрый",
       uk: "гриб-зонтик великий",
       pl: "czubajka kania",
-      fr: "lépiote élevée",
       it: "mazza di tamburo",
-      hu: "nagy őzlábgomba"
+      hu: "nagy őzlábgomba",
+      fr: "lépiote élevée"
     },
     names: {
       en: ["parasol mushroom"],
@@ -3412,9 +3412,9 @@ export const CATALOG = [
       ru: ["зонтик пёстрый","гриб-зонтик большой"],
       uk: ["макролепіота висока"],
       pl: ["kania","sowa"],
-      fr: ["coulemelle"],
       it: ["ombrellone","puppola"],
-      hu: ["gyakori nagyőzlábgomba"]
+      hu: ["gyakori nagyőzlábgomba"],
+      fr: ["coulemelle"]
     },
     text: {
       tr: {
@@ -3688,18 +3688,6 @@ export const CATALOG = [
       confusion: "Czubajnik czerwieniejący (Chlorophyllum rhacodes) jest mniejszy, ma większe, odstające łuski, a jego trzon nie ma wężykowatego wzoru; jego miąższ czerwienieje po uszkodzeniu. Czubajnik zielonawy (Chlorophyllum molybdites) ma zielonkawe blaszki i zielony wysyp zarodników. Małe gatunki z rodzaju czubajeczka (Lepiota) są śmiertelnie trujące, dlatego nie należy zbierać małych owocników o średnicy poniżej 10 cm. Młode owocniki muchomorów w stadium jaja stanowią kolejne zagrożenie; kanię zbiera się po rozwinięciu kapelusza.",
       notes: "Wyróżnia się var. procera oraz formę rosnącą pod drzewami iglastymi. Gatunek szeroko rozprzestrzeniony w umiarkowanej strefie Eurazji."
     },
-    fr: {
-      description: "Un champignon saprotrophe. Fréquent dans le sud de la Grande-Bretagne et en Irlande, plus rare vers le nord ; largement répandu dans toute l'Europe continentale et présent en Amérique du Nord ainsi que dans les régions tempérées d'Asie et d'Australasie.",
-      cap: "Le chapeau mesure 10–25 cm de largeur, atteignant parfois 30 cm. Il commence par être sphérique puis ovoïde, rappelant une baguette de tambour, avant de s'étaler largement avec un mamelon central net. La surface porte un revêtement brun pâle qui se déchire en grandes écailles brunes et concentriques sur un fond crème ou blanchâtre.",
-      hymenium: "Les lames sont larges, serrées et libres, s'arrêtant à nette distance du pied. Elles sont blanches à blanc crème, parfois légèrement teintées de brun sur l'arête avec l'âge.",
-      stipe: "Le pied atteint jusqu'à 30 cm de hauteur et 1–1,5 cm d'épaisseur, atteignant 2,5 cm au niveau du bulbe basal. Il est dur et fibreux, blanchâtre sous une cuticule brune qui se fissure en motifs zébrés ou chinés transversaux. L'anneau est épais, membraneux, double, coulissant librement sur le pied à maturité.",
-      flesh: "La chair est blanche et ne change pas de manière notable à la coupe. Dans le chapeau, elle est tendre et molle ; dans le pied, elle est très coriace et fibreuse. L'odeur est agréablement noisetée.",
-      sporePrint: "Blanche ou crème très pâle. Les spores sont ellipsoïdes à ovoïdes, lisses et à paroi épaisse, mesurant environ 15–20 × 10–13 µm, et sont dextrinoïdes.",
-      habitat: "Les sporophores apparaissent de juin à novembre. Il pousse de façon isolée ou en troupes dans les lisières herbeuses de bois, les clairières, les prairies, les pâturages non fertilisés et les accotements de routes.",
-      uses: "C'est un comestible de choix, et les sporophores doivent être consommés bien cuits. Les chapeaux constituent la partie la plus appréciée, souvent préparés entiers panés ou grillés. Les pieds coriaces et fibreux sont généralement éliminés ou séchés et réduits en poudre aromatique.",
-      confusion: "La lépiote déguenillée (Chlorophyllum rhacodes) est plus petite, porte des écailles réfléchies plus grossières, possède un pied lisse non chiné et sa chair rougit fortement à la blessure. La lépiote vénéneuse (Chlorophyllum brunneum) possède un bulbe marginé abrupt et un anneau simple ; elle est toxique. Les petites espèces de lépiotes telles que la lépiote brun-incarnat (Lepiota brunneoincarnata) mesurent moins de 8 cm de diamètre et sont mortelles ; il ne faut récolter que les grands spécimens à anneau coulissant.",
-      notes: "Les variétés procera et pseudo-olivascens sont reconnues ; cette dernière développe des reflets olivâtres sur le chapeau et pousse sous les conifères."
-    },
     it: {
       description: "Un fungo saprotrofo di grandi dimensioni. È ampiamente diffuso nelle regioni temperate e calde d'Europa, crescendo nelle radure boschive, nei pascoli e ai margini dei sentieri.",
       cap: "Il cappello misura 10–25 cm di diametro, raggiungendo occasionalmente i 30 cm. Dapprima sferico o ovoide, si espande poi a campana e infine piano, mantenendo un umbone centrale bruno e liscio. La superficie si lacera in scaglie concentriche brune e bruno-grigiastre su fondo crema chiaro.",
@@ -3723,6 +3711,18 @@ export const CATALOG = [
       uses: "Kiváló csemegegomba. A kalap rántva, bundázva vagy hirtelen átsütve a legfinomabb. A szívós, fás tönk étkezésre nem alkalmas, de megszárítva és megőrölve gombaporként ízesítésre használható.",
       confusion: "A piruló őzlábgomba (Chlorophyllum rhacodes) tönkje sima (nem kígyóbőrmintás), húsa sérülésre narancsvörösre, majd sáfránybarnára vörösödik. A kerti őzlábgomba (Chlorophyllum brunneum) tövén peremes gumó van és gyomor-bélrendszeri panaszokat okozhat. A mérgező kistermetű őzlábgombák – mint a húsbarnás őzlábgomba (Lepiota brunneoincarnata) – kalapátmérője ritkán haladja meg a 6–8 cm-t, és soha nem nőnek meg nagy méretűre.",
       notes: "A var. procera és a var. pseudo-olivascens változatokat tartják számon; az utóbbi kalapján olajzöldes foltok fejlődnek és fenyvesekben él. Magyarországon 2012-ben az év gombája volt."
+    },
+    fr: {
+      description: "Un champignon saprotrophe. Fréquent dans le sud de la Grande-Bretagne et en Irlande, et moins commun dans le nord de l'Angleterre et en Écosse, sauf sur les côtes abritées. Il est également présent dans la majeure partie de l'Europe continentale et à travers l'Eurasie tempérée. Les signalements en Amérique du Nord ont encore besoin de confirmation.",
+      cap: "Le chapeau mesure 10–25 cm de largeur, parfois jusqu'à 30 cm ou plus. Il commence par être sphérique à hémisphérique et brun pâle à fauve, avec une calotte centrale brun plus sombre qui se fragmente en anneaux concentriques d'écailles à mesure que la cuticule se fissure, puis il s'étale jusqu'à devenir plat avec un mamelon sombre proéminent.",
+      hymenium: "Les lames sont larges, serrées et libres, s'arrêtant à quelque distance du pied. Elles sont blanches ou crème pâle.",
+      stipe: "Le pied mesure jusqu'à 30 cm de hauteur et 1–1,5 cm d'épaisseur, atteignant 2,5 cm au niveau de la base bulbeuse, et s'amincit légèrement vers le sommet. Le bulbe est dépourvu de volve. La surface est blanche ou crème, couverte de petites écailles brunes formant un motif en peau de serpent. Un anneau épais, à double tranchant, situé environ aux deux tiers de la hauteur, persiste et devient suffisamment lâche pour coulisser le long du pied. À l'intérieur, le pied est coriace, fibreux et creux.",
+      flesh: "La chair est blanche et ne change pas de manière significative lorsqu'elle est coupée. Dans le chapeau, elle est mince, molle et légèrement spongieuse. Dans le pied, elle est coriace et fibreuse. L'odeur rappelle agréablement la noisette ou n'est pas distinctive, et la saveur est douce avec un goût de noisette.",
+      sporePrint: "Blanche ou crème très pâle. Les spores sont ellipsoïdales à ovoïdes, lisses et à paroi épaisse, mesurant environ 12–18 × 8–12 µm, avec un petit pore germinatif. Elles sont dextrinoïdes.",
+      habitat: "Les sporophores apparaissent de juin à novembre en Grande-Bretagne et en Irlande, et plus tard dans le sud de l'Europe. Il pousse dans les clairières, les bois clairs, les talus et les endroits herbeux en lisière de forêt, solitaire ou en troupes et ronds de sorcières dispersés, mais aussi dans les pâturages permanents, parmi les fougères et sur les dunes de sable stabilisées, et rarement sur des sols remaniés comme les jardins et les parcelles maraîchères.",
+      uses: "C'est un excellent comestible, et les sporophores doivent être cuits. Les chapeaux constituent la partie consommée, souvent poêlés entiers. Les pieds sont coriaces, bien qu'ils puissent être séchés et réduits en poudre pour aromatiser les soupes. Le champignon se consomme poêlé, séché ou mijoté.",
+      confusion: "La lépiote déguenillée (Chlorophyllum rhacodes) est plus petite, avec de plus grandes écailles retroussées et un pied dépourvu de motif en peau de serpent. Sa chair rougit à la coupe, et elle s'avère toxique pour de nombreuses personnes. La lépiote de Morgan (Chlorophyllum molybdites) a des lames verdâtres et une sporée verte, et son pied n'a pas de motif en peau de serpent. De petites espèces de Lepiota peuvent être gravement toxiques, de sorte qu'un chapeau entièrement étalé de moins de 10 cm doit être laissé sur place. Les jeunes boutons blancs d'amanites, notamment l'amanite panthère (Amanita pantherina), représentent un autre danger ; la lépiote élevée possède des écailles plus sombres sur un chapeau plus clair et ne doit être récoltée qu'une fois le chapeau bien ouvert au-delà du stade de bouton.",
+      notes: "La var. procera et la var. pseudo-olivascens sont reconnues. La seconde développe des taches olive sur le chapeau et croît sous les conifères. L'espèce est largement répandue dans l'Eurasie tempérée, et les signalements en Amérique du Nord ont encore besoin de confirmation."
     }
     },
     sources: {
@@ -4046,23 +4046,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Macrolepiota_procera"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/40798"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -4085,6 +4068,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Nagy_%C5%91zl%C3%A1bgomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Macrolepiota_procera"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/3990"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -4202,9 +4202,9 @@ export const CATALOG = [
       ru: "бледная поганка",
       uk: "бліда поганка",
       pl: "muchomor zielonawy",
-      fr: "amanite phalloïde",
       it: "tignosa verdognola",
-      hu: "gyilkos galóca"
+      hu: "gyilkos galóca",
+      fr: "amanite phalloïde"
     },
     names: {
       en: ["deathcap", "death cup", "deadly amanita"],
@@ -4226,8 +4226,8 @@ export const CATALOG = [
       ru: ["мухомор зелёный"],
       uk: ["мухомор зелений"],
       pl: ["muchomor sromotnikowy"],
-      fr: ["oronge verte"],
-      it: ["amanita falloide"]
+      it: ["amanita falloide"],
+      fr: ["oronge verte"]
     },
     text: {
       tr: {
@@ -4504,18 +4504,6 @@ export const CATALOG = [
       confusion: "Muchomor cytrynowy (Amanita citrina) ma zwykle brązowawe łatki na kapeluszu, bulwę trzonu otoczoną wyraźną rynienką zamiast luźnej pochwy i silny zapach surowych ziemniaków. Muchomor twardawy (Amanita excelsa) ma łatki na kapeluszu i prążkowany pierścień. Gołąbek zielonawy (Russula virescens) oraz gołąbek zielonawofioletowy (Russula cyanoxantha) mają kruchy miąższ i nie posiadają ani pierścienia, ani pochwy. Pomyłka z młodymi pieczarkami (Agaricus) bywa tragiczna; pieczarki mają blaszki różowiejące, a potem czekoladowobrązowe.",
       notes: "Formy całkowicie białe bywają opisywane jako odmiany barwne."
     },
-    fr: {
-      description: "Un champignon ectomycorhizien mortel. Indigène dans toute l'Europe, du bassin méditerranéen jusqu'au sud de la Scandinavie, ainsi qu'au Proche-Orient. Il a été introduit avec des arbres importés en Amérique du Nord, en Australie, en Nouvelle-Zélande, en Afrique du Sud et en Amérique du Sud.",
-      cap: "Le chapeau mesure 5–15 cm de largeur, d'abord hémisphérique à convexe puis s'aplanissant avec l'âge. Il est généralement vert olive pâle, vert jaunâtre ou vert bronze, souvent orné de fines fibrilles radiales innées plus sombres et plus pâle vers la marge. La surface est légèrement visqueuse à l'humidité et généralement dépourvue de restes de voile.",
-      hymenium: "Les lames sont blanches, libres, larges et serrées, restant blanches même à maturité.",
-      stipe: "Le pied mesure 7–15 cm de hauteur et 1–2 cm d'épaisseur, blanc ou légèrement lavé de jaune verdâtre, souvent chiné de zigzags ou de marbrures plus pâles. Il porte un anneau blanc membraneux et pendant. La base se termine par un bulbe arrondi enfermé dans une volve blanche, large et membraneuse en forme de sac.",
-      flesh: "La chair est blanche sous la cuticule, parfois légèrement teintée de verdâtre juste sous celle-ci. L'odeur est faible et agréable dans le jeune âge, puis devient douceâtre, fade et écœurante chez les spécimens âgés.",
-      sporePrint: "Blanche. Les spores sont subglobuleuses à ovoïdes, lisses, mesurant environ 8–11 × 7–9 µm, et sont amyloïdes (devenant bleu-noir au réactif de Melzer).",
-      habitat: "Les sporophores apparaissent de juillet à novembre. Il pousse de façon isolée ou en petits groupes dans les bois de feuillus et mixtes, s'associant le plus souvent au chêne, au hêtre, au châtaignier et au bouleau, plus rarement aux conifères.",
-      uses: "L'amanite phalloïde est mortellement toxique et est responsable de la grande majorité des intoxications mortelles par champignons dans le monde. Elle contient des amatoxines et des phallotoxines qui provoquent une destruction hépatique et rénale irréversible. Ni la cuisson, ni le séchage, ni la congélation n'altèrent ces toxines. Les symptômes n'apparaissent qu'après une période de latence trompeuse de 6 à 24 heures.",
-      confusion: "L'agaric champêtre (Agaricus campestris) et les autres agarics comestibles possèdent des lames roses puis brun chocolat à maturité et sont dépourvus de volve en sac à la base. La russule verdoyante (Russula virescens) et les russules vertes possèdent une chair cassante comme de la craie, n'ont ni anneau ni volve, et portent de nombreuses craquelures sur le chapeau. L'amanite citrine (Amanita citrina) se distingue par sa volve nettement circoncise et son odeur caractéristique de pomme de terre crue.",
-      notes: "Les sporophores entièrement blancs représentent une forme de couleur (forme alba)."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi di latifoglie, associato soprattutto alla quercia, al faggio e al castagno. È diffuso in tutta Europa e introdotto in Nord America, Sud Africa e Oceania.",
       cap: "Il cappello misura 5–15 cm di diametro. Inizialmente emisferico o campanulato, si appiana con la maturità. Il colore è tipicamente verde oliva, giallo-verdastro o bruno-verde, spesso con fibrille radiali scure innate, talvolta quasi bianco. La superficie è liscia e viscosa a tempo umido.",
@@ -4539,6 +4527,18 @@ export const CATALOG = [
       uses: "Halálosan mérgező. Amatoxinokat (amanitint) és fallotoxinokat tartalmaz, amelyek a sejtek RNS-polimeráz enzimét gátolják és súlyos máj- és vesekárosodást okoznak. A méreganyagok főzéssel, szárítással, fagyasztással vagy a kalapbőr lehúzásával sem hatástalaníthatók. A tünetek csak hosszú, 6–24 órás lappangási idő után jelentkeznek.",
       confusion: "A zöld galambgomba (Russula virescens) és más zöldes galambgombák kalapja hasonló színű lehet, de húsuk pattanva törik, és sem gallérjuk, sem bocskoruk nincs. Az ehető csiperkék (Agaricus fajok) lemezei fiatalon rózsaszínesek, majd sötét csokoládébarnára színeződnek, és nincs bocskoruk. A sárgászöld pereszke (Tricholoma equestre) lemezei sárgák és nincs gallérja vagy bocskora.",
       notes: "A tiszta fehér termőtestek csupán egy színváltozatot képviselnek. Magyarországon 2006-ban az év gombája volt."
+    },
+    fr: {
+      description: "Un champignon ectomycorhizien des forêts de feuillus et de conifères. Indigène à travers toute l'Europe, commun en Grande-Bretagne et en Irlande, et introduit dans certaines régions d'Afrique du Nord, d'Australie, de Nouvelle-Zélande, d'Afrique du Sud, d'Amérique du Sud et d'Amérique du Nord.",
+      cap: "Le chapeau mesure 5–15 cm de largeur, hémisphérique dans le jeune âge puis s'aplanissant. La couleur est vert olive pâle à vert jaunâtre ou bronze, parfois presque blanche ou plus sombre au centre, souvent avec un lustre métallique ou des fibres radiales ténues. Il est visqueux à l'état humide et porte rarement des fragments blancs de voile universel.",
+      hymenium: "Les lames sont blanches, libres et serrées. Elles conservent leur couleur blanche avec l'âge.",
+      stipe: "Le pied mesure 7–15 cm de hauteur et 1–2 cm d'épaisseur, blanc ou teinté d'olive pâle, parfois avec des chevrons olive pâle. Un anneau blanc pendant est suspendu sur la partie supérieure du pied. La base est renflée et enfermée dans une volve blanche membraneuse en forme de sac.",
+      flesh: "La chair est blanche, et reste blanche sous la cuticule du chapeau ou immédiatement au contact de l'air. L'odeur est d'abord douceâtre et discrète, devenant désagréable et écoeurante chez les spécimens âgés.",
+      sporePrint: "Blanche. Les spores sont sphériques à subglobuleuses, mesurant environ 8–11 × 7–9 µm, et virent au bleu dans l'iode.",
+      habitat: "Les sporophores apparaissent de juillet à novembre. Il croît en association avec des feuillus, en particulier le chêne, le hêtre et le châtaignier, ainsi qu'avec des conifères comme le pin.",
+      uses: "L'amanite phalloïde est mortellement toxique et responsable de la majorité des empoisonnements mortels par champignons. Elle contient des amatoxines et des phallotoxines qui résistent à la cuisson, au séchage et à la congélation. Les premiers symptômes apparaissent souvent entre 6 et 24 heures après la consommation.",
+      confusion: "Plusieurs espèces comestibles d'Agaricus ont des lames qui deviennent roses puis brunes, et sont dépourvues de volve. L'amanite citrine (Amanita citrina) a une odeur marquée de pomme de terre crue et une volve nettement marginée entourant la base du pied plutôt qu'un sac libre. L'amanite printanière (Amanita verna) et l'amanite vireuse (Amanita virosa) sont des amanites blanches mortellement toxiques possédant un anneau et une volve en sac. Des formes pâles ou décolorées d'Amanita phalloides peuvent être prises pour de jeunes agarics ou d'autres champignons blancs. La russule verdoyante (Russula virescens) présente un chapeau vert craquelé, mais ne possède ni anneau ni volve et a une chair cassante comme de la craie.",
+      notes: "Les sporophores entièrement blancs constituent une simple forme chromatique."
     }
     },
     sources: {
@@ -4862,23 +4862,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Amanite_phallo%C3%AFde"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/3702"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -4901,6 +4884,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Gyilkos_gal%C3%B3ca"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Amanite_phallo%C3%AFde"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/3702"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -5010,9 +5010,9 @@ export const CATALOG = [
       ru: "мухомор пантерный",
       uk: "мухомор пантерний",
       pl: "muchomor plamisty",
-      fr: "amanite panthère",
       it: "tignosa rigata",
-      hu: "párducgalóca"
+      hu: "párducgalóca",
+      fr: "amanite panthère"
     },
     names: {
       en: ["panthercap", "false blusher", "panther amanita"]
@@ -5022,8 +5022,8 @@ export const CATALOG = [
       ro: ['buretele panterei'],
       bg: ['петниста мухоморка'],
       ru: ["мухомор серый"],
-      fr: ["fausse golmotte"],
-      it: ["amanita panterina"]
+      it: ["amanita panterina"],
+      fr: ["fausse golmotte"]
     },
     text: {
       tr: {
@@ -5300,18 +5300,6 @@ export const CATALOG = [
       confusion: "Muchomor twardawy (Amanita excelsa) ma szarawe łatki na kapeluszu, grubszy trzon i brak wyraźnej rynienki nad bulwą. Muchomor czerwieniejący (Amanita rubescens) ma miąższ wyraźnie różowiejący i czerwieniejący po uszkodzeniu, a łatki na kapeluszu szarawe lub brudnoróżowe. Muchomor królewski (Amanita regalis) rośnie głównie w górskich świerczynach i ma żółtobrązowe lub ochrowe łatki.",
       notes: "W zachodniej Ameryce Północnej brunatne muchomory określane tą nazwą należą do odrębnych gatunków."
     },
-    fr: {
-      description: "Un champignon ectomycorhizien toxique. Répandu dans toute l'Europe, l'Asie occidentale et certaines régions d'Asie tempérée ; en Amérique du Nord, les signalements historiques correspondent à des taxons distincts du même complexe.",
-      cap: "Le chapeau mesure 5–12 cm de largeur, d'abord globuleux à hémisphérique puis convexe et enfin étalé. Il est brun noisette, brun jaunâtre ou bistre, parsemé de nombreuses petites verrues blanches et floconneuses, disposées de manière concentrique, qui se détachent facilement. La marge est nettement striée à maturité.",
-      hymenium: "Les lames sont blanches, libres, serrées et inégales, restant blanches à maturité.",
-      stipe: "Le pied mesure 6–12 cm de hauteur et 1–2 cm d'épaisseur, blanc, atténué vers le haut. Il porte un anneau blanc membraneux, oblique et lisse, situé assez bas sur le pied. La base bulbeuse est surmontée d'un ou plusieurs bourrelets annulaires ou crêtes concentriques caractéristiques.",
-      flesh: "La chair est blanche, immuable lorsqu'elle est coupée ou blessée, sans changement sous la cuticule. L'odeur est faible, légèrement raphanoïde ; la saveur est douce mais la dégustation est vivement déconseillée.",
-      sporePrint: "Blanche. Les spores sont largement ellipsoïdes à ovoïdes, lisses, mesurant environ 9–12 × 7–9 µm, et sont inamyloïdes.",
-      habitat: "Les sporophores apparaissent de juillet à novembre. Il pousse dans les bois de feuillus et mixtes, particulièrement sous les chênes, les hêtres et les châtaigniers, ainsi que sous les pins sur sols bien drainés.",
-      uses: "L'amanite panthère est fortement toxique et provoque le syndrome panthérinien ou anticholinergique central. Elle renferme de l'acide iboténique et du muscimole en concentrations souvent bien plus élevées que l'amanite tue-mouches, causant des troubles neurologiques sévères, des délires et des convulsions.",
-      confusion: "L'amanite rougissante (Amanita rubescens) est comestible bien cuite et se sépare par sa chair et sa base qui rougissent nettement aux blessures, par sa marge non striée et par son anneau strié. L'amanite épaisse (Amanita excelsa var. spissa) possède un chapeau brun grisâtre à marge non striée, un anneau fortement strié et une chair immuable à odeur de rave. L'amanite tue-mouches (Amanita muscaria) possède un chapeau rouge ou orangé.",
-      notes: "Dans l'ouest de l'Amérique du Nord, les amanites brunes désignées sous ce nom appartiennent à d'autres espèces, et les dimensions données ici s'appliquent aux spécimens européens."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi di latifoglie (soprattutto faggio e quercia) e misti di conifere. È ampiamente diffuso e comune in tutta l'Eurasia.",
       cap: "Il cappello misura 5–12 cm di diametro. È di colore bruno, bruno-ocraceo o bruno-grigiastro, coperto da fitte verruche piramidali o farinose bianco candido, residui del velo universale. Il margine è nettamente striato o scanalato per trasparenza.",
@@ -5335,6 +5323,18 @@ export const CATALOG = [
       uses: "Erősen mérgező. Iboténsavat és muszcimolt tartalmaz, párducgalóca-szindrómát (hallucinációkat, delíriumot, izomgörcsöket és kómát) okoz.",
       confusion: "A piruló galóca (Amanita rubescens) húsa sérülésre és féregjáratokban rózsás-vörösre pirul, gallérja felső része pedig erősen bordás. A szürke galóca (Amanita excelsa) kalapszéle nem bordás, burokpöttyei szürkék és nem párkányos gumójú. A citromgalóca (Amanita citrina) kalapja sárgásfehér vagy halvány citromsárga, gumója élesen peremes és kifejezett nyersburgonya-szagú.",
       notes: "Észak-Amerika nyugati részén az e néven említett barna galócák más fajokhoz tartoznak; az itt megadott méretek az európai termőtestekre vonatkoznak."
+    },
+    fr: {
+      description: "Un champignon ectomycorhizien de l'Eurasie tempérée. Présent en Grande-Bretagne et en Irlande, ainsi qu'à travers l'Europe continentale. Les signalements en Amérique du Nord appartiennent à des taxons distincts.",
+      cap: "Le chapeau mesure 4–11 cm de largeur, hémisphérique dans le jeune âge puis s'aplatissant, brun foncé à brun ocre ou brun noisette. La marge est nettement striée à maturité. La surface porte de nombreux petits restes de voile universel blancs, purs, réguliers et farineux qui s'enlèvent facilement.",
+      hymenium: "Les lames sont blanches, libres et serrées, restant blanches avec l'âge.",
+      stipe: "Le pied mesure 5–14 cm de hauteur et 0,6–2 cm d'épaisseur, blanc, souvent s'amincissant vers le sommet. L'anneau est blanc, mince, pendant et situé bas sur le pied, non cannelé. La base se termine par un bulbe arrondi net entouré d'une volve blanche adhérente formant un ou deux bourrelets annulaires horizontaux réguliers au-dessus d'une marge nette.",
+      flesh: "La chair est blanche et ne change pas de couleur lorsqu'elle est coupée ou blessée. L'odeur est faible, rappelant la rave ou la terre fraîche.",
+      sporePrint: "Blanche. Les spores sont ellipsoïdales, lisses, mesurant environ 9–12 × 7–9 µm, et ne virent pas au bleu dans l'iode.",
+      habitat: "Les sporophores apparaissent de juillet à novembre. Il croît en association avec des feuillus et des conifères, notamment le chêne, le hêtre, le pin et le châtaignier, sur des sols neutres à légèrement acides.",
+      uses: "L'amanite panthère est toxique et provoque de graves intoxications. Elle contient du muscimole et de l'acide iboténique en concentrations plus élevées et plus variables que l'amanite tue-mouches.",
+      confusion: "L'amanite rougissante (Amanita rubescens) possède un anneau nettement strié, des restes de voile grisâtres ou teintés de rose et une chair qui rougit nettement lorsqu'elle est coupée ou froissée. L'amanite épaisse (Amanita excelsa) a un chapeau brun grisâtre, un anneau strié sur le dessus et une chair immuable sans bulbe distinctement marginé. L'amanite royale (Amanita regalis) a un chapeau brun à écailles jaunâtres et une volve fragmentée en plusieurs anneaux écailleux.",
+      notes: "Dans l'ouest de l'Amérique du Nord, les amanites brunes désignées sous ce nom appartiennent à d'autres espèces, et les dimensions données ici s'appliquent aux sporophores européens."
     }
     },
     sources: {
@@ -5649,23 +5649,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Amanite_panth%C3%A8re"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/3697"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -5688,6 +5671,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/P%C3%A1rducgal%C3%B3ca"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Amanite_panth%C3%A8re"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/3697"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -5794,9 +5794,9 @@ export const CATALOG = [
       ru: "сморчок съедобный",
       uk: "зморшок їстівний",
       pl: "smardz jadalny",
-      fr: "morille commune",
       it: "spugnola rotonda",
-      hu: "ízletes kucsmagomba"
+      hu: "ízletes kucsmagomba",
+      fr: "morille commune"
     },
     names: {
       en: ["common morel", "yellow morel"],
@@ -5825,9 +5825,9 @@ export const CATALOG = [
       ru: ["сморчок настоящий"],
       uk: ["зморшок звичайний"],
       pl: ["smardz zwyczajny"],
-      fr: ["morille ronde","morille blonde"],
       it: ["spugnola comune","morchella"],
-      hu: ["közönséges kucsmagomba","sötét kucsmagomba","vastaglábú kucsmagomba","vastagtönkű kucsmagomba"]
+      hu: ["közönséges kucsmagomba","sötét kucsmagomba","vastaglábú kucsmagomba","vastagtönkű kucsmagomba"],
+      fr: ["morille ronde","morille blonde"]
     },
     text: {
       tr: {
@@ -6102,18 +6102,6 @@ export const CATALOG = [
       confusion: "Smardz stożkowaty (Morchella elata) ma główkę ciemniejszą, bardziej stożkowatą, z jamkami ułożonymi w pionowe rzędy. Śmiertelnie trująca piestrzenica kasztanowata (Gyromitra esculenta) ma kapelusz pofałdowany mózgowato, a nie jamkowaty, o barwie ciemnoczerwonobrązowej, a jej trzon zawiera liczne nieregularne komory zamiast jednej pustej przestrzeni.",
       notes: "W Polsce gatunek objęty ochroną częściową (można pozyskiwać owocniki wyłącznie z ogrodów, upraw i terenów zieleni miejskiej)."
     },
-    fr: {
-      description: "Un champignon ascomycète printanier saprotrophe et facultativement mycorhizien. Présent dans toute l'Europe, en Amérique du Nord, dans le nord de l'Inde et en Chine tempérée.",
-      cap: "Le chapeau (mitre) mesure 4–10 cm de hauteur et 3–6 cm de largeur, arrondi à ovoïde ou subglobuleux. Il est constitué d'un réseau d'alvéoles profondes et irrégulières délimitées par des côtes sinueuses. La couleur varie du crème ocre au jaune miel, au brun chamois ou au gris fauve, les côtes devenant souvent plus sombres avec l'âge. L'ensemble de la mitre est creux et fusionné au pied à sa base.",
-      hymenium: "L'hyménium tapisse l'intérieur des alvéoles de la mitre. Les asques sont cylindriques, operculés et contiennent chacun huit ascospores.",
-      stipe: "Le pied mesure 4–8 cm de hauteur et 1,5–3 cm d'épaisseur, blanchâtre à jaune crème pâle, creux de haut en bas et souvent épaissi ou plissé à la base. La surface est finement granuleuse ou farineuse.",
-      flesh: "La chair est mince, élastique, blanchâtre ou chamois pâle, fragile dans la mitre et cartilagineuse dans le pied. L'odeur est agréable, fongique et noisetée ; la saveur est douce.",
-      sporePrint: "Jaune crème à ocre pâle. Les ascospores sont ellipsoïdes, lisses, mesurant environ 18–25 × 11–15 µm, dépourvues de guttules lipidiques internes mais portant de petites gouttelettes externes aux pôles.",
-      habitat: "Les sporophores apparaissent d'avril à juin. Il croît dans les forêts riveraines, les vergers anciens, les sous-bois de feuillus calcaires sous les frênes, les ormes et les pommiers, ainsi que sur les brûlis récents et les remblais calcaires.",
-      uses: "C'est un comestible de tout premier choix, recherché pour sa saveur raffinée dans la haute gastronomie. Il est cependant toxique à l'état cru en raison de la présence d'hémolysines thermolabiles et de toxines gastro-intestinales ; une cuisson prolongée et complète ou un séchage préalable est indispensable.",
-      confusion: "La fausse morille (Gyromitra esculenta) possède un chapeau cérébriforme brun rougeâtre et un pied non creux en un tube simple mais cloisonné ; elle contient de la gyromitrine mortelle. Le morillon (Morchella semilibera) possède une mitre conique plus petite dont la moitié inférieure est libre du pied ; il est comestible bien cuit. La vérone conique (Verpa conica) porte un chapeau lisse ou ridé attaché seulement au sommet du pied.",
-      notes: "C'est une espèce européenne qui est également signalée en Chine."
-    },
     it: {
       description: "Un ascomicete primaverile dei terreni basici o calcarei. In senso stretto si tratta di una specie europea presente anche in Asia; le collezioni nordamericane appartengono a taxa correlati.",
       cap: "La mitra o cappello misura 3–8 cm di larghezza e 5–12 cm di altezza, di forma subglobosa, ovoide o tondeggiante. La superficie presenta alveoli profondi e irregolari separati da coste sinuose. Il colore varia dal giallo miele al bruno-ocraceo.",
@@ -6137,6 +6125,18 @@ export const CATALOG = [
       uses: "Kiváló csemegegomba, a kora tavaszi szezon egyik legértékesebb gombája. Nyersen gyomor-bélrendszeri tüneteket okozhat, ezért alapos hőkezelést (legalább 15–20 perces sütést vagy főzést) igényel. Szárítva aromája még intenzívebbé válik.",
       confusion: "A fattyú kucsmagomba (Morchella semilibera) süvege csak félig van ránőve a tönkre, alsó része szoknyaszerűen szabadon áll. A cseh kucsmagomba (Verpa bohemica) süvege csak a tönk legcsúcsán rögzül, harangszerűen lelóg, bordázata hosszantilag ráncolt. A mérgező redős papsapkagomba (Gyromitra esculenta) süvege agyvelőszerűen tekervényes, agyagsárga vagy vörösbarna színű, nem méhsejtes.",
       notes: "Európai faj, amelyet Kínából is feljegyeztek."
+    },
+    fr: {
+      description: "Un champignon printanier des bois calcaires. Au sens strict, il est européen, et il est également signalé en Chine. C'est une trouvaille peu fréquente en Grande-Bretagne et en Irlande, et il est présent à travers l'Europe continentale. Les champignons nord-américains autrefois classés sous ce nom appartiennent à d'autres espèces.",
+      cap: "Le chapeau mesure 4–10 cm de hauteur et 3–7 cm de largeur, arrondi à ovoïde ou grossièrement conique. Il est creux. La surface externe porte un réseau d'alvéoles profondes et irrégulières délimitées par des côtes saillantes et ondulées. La couleur varie du jaune pâle au brun ocre ou chamois, souvent avec des côtes plus pâles.",
+      hymenium: "La surface fertile tapisse l'intérieur des alvéoles. Les asques sont cylindriques, contenant huit ascospores chacune.",
+      stipe: "Le pied mesure 3–9 cm de hauteur et 1,5–3,5 cm d'épaisseur, blanchâtre à jaunâtre pâle. Il est creux, continu avec la cavité du chapeau, et s'élargit souvent vers une base plissée ou cannelée.",
+      flesh: "La chair est mince, cireuse et blanchâtre. L'odeur et la saveur sont agréables, douces et parfumées.",
+      sporePrint: "Crème pâle à jaune pâle. Les ascospores sont ellipsoïdales, lisses, mesurant environ 18–24 × 11–14 µm, sans gouttes d'huile internes.",
+      habitat: "Les sporophores apparaissent de mars à mai ou début juin. Il croît sous les feuillus, notamment le frêne, l'orme, le pommier et le peuplier, souvent sur des sols riches en calcaire, dans les forêts alluviales, les vieux vergers, les jardins et sur des terrains perturbés.",
+      uses: "C'est un excellent comestible recherché, mais il ne doit jamais être consommé cru ou insuffisamment cuit. Il contient des toxines hémolytiques thermolobiles qui sont détruites par une cuisson complète ou par le séchage.",
+      confusion: "D'autres morilles du complexe de Morchella elata ont des chapeaux plus coniques et allongés avec des côtes longitudinales régulières et sombres. Le gyromitre délicieux (Gyromitra esculenta) a un chapeau cérébriforme brun rougeâtre sans alvéoles nettes, et contient de la gyromitrine, une toxine mortelle. La morille semi-libre (Morchella semilibera) possède un chapeau dont la moitié inférieure est libre du pied. Les verpes, comme la verpe de Bohême (Verpa bohemica), ont un chapeau attaché seulement au sommet du pied.",
+      notes: "Il s'agit d'une espèce européenne qui est également signalée en Chine."
     }
     },
     sources: {
@@ -6462,23 +6462,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Morchella_esculenta"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/53232"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -6501,6 +6484,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/%C3%8Dzletes_kucsmagomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Morchella_esculenta"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/4890"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -6628,9 +6628,9 @@ export const CATALOG = [
       ru: "вешенка обыкновенная",
       uk: "глива звичайна",
       pl: "boczniak ostrygowaty",
-      fr: "pleurote en huître",
       it: "gelone",
-      hu: "kései laskagomba"
+      hu: "kései laskagomba",
+      fr: "pleurote en huître"
     },
     names: {
       en: ["grey oyster mushroom", "oyster fungus", "pearl oyster mushroom"],
@@ -6684,9 +6684,9 @@ export const CATALOG = [
       pt: ['repolga'],
       ro: ['burete negru'],
       ru: ["вешенка устричная","устричный гриб"],
-      fr: ["pleurote en forme d'huître"],
       it: ["orecchione","fungo ostrica"],
-      hu: ["késői laskagomba"]
+      hu: ["késői laskagomba"],
+      fr: ["pleurote en forme d'huître"]
     },
     text: {
       tr: {
@@ -6962,18 +6962,6 @@ export const CATALOG = [
       confusion: "Boczniak białożółtawy (Pleurotus dryinus) ma wyraźniejszy trzon, pozostałości osłony na brzegu kapelusza i twardszy miąższ. Łycznik późny (Sarcomyxa serotina) ma oliwkowozielonkawy kapelusz, żółtawy trzon z wyraźną granicą pod blaszkami i gorzkawy miąższ. Śmiertelnie trująca bokówka biała (Pleurocybella porrigens) jest czysto biała, cieńsza i rośnie na butwiejącym drewnie drzew iglastych.",
       notes: "Powszechnie uprawiany na całym świecie jako wartościowy grzyb jadalny."
     },
-    fr: {
-      description: "Un champignon lignicole saprotrophe et nématophage. Répandu dans toutes les forêts tempérées et boréales de feuillus d'Europe, d'Asie et d'Amérique du Nord, et largement cultivé à l'échelle industrielle dans le monde entier.",
-      cap: "Le chapeau mesure 5–20 cm de largeur, en forme de spatule, de coquille ou d'huître, convexe puis étalé ou déprimé vers le point d'attache. La surface est lisse, glabre, légèrement visqueuse à l'humidité, variant du gris acier au brun violacé, gris souris ou brun noisette, pâlissant avec l'âge. La marge est d'abord enroulée puis sinueuse.",
-      hymenium: "Les lames sont blanches à crème grisâtre, serrées, larges et fortement décurrentes sur le pied, souvent anastomosées ou ridées près de l'attache.",
-      stipe: "Le pied mesure 1–4 cm de longueur et 1–2 cm d'épaisseur, latéral ou excentré, court et trapu, parfois presque nul. Il est blanchâtre, solide, ferme et garni d'un feutrage villeux ou laineux blanc à la base.",
-      flesh: "La chair est blanche, épaisse, ferme et succulente dans le chapeau, devenant fibreuse et coriace dans le pied chez les spécimens âgés. L'odeur est agréable, subtilement anisée ou fongique ; la saveur est douce.",
-      sporePrint: "Blanc lilas à gris violacé très pâle. Les spores sont cylindriques à subfusiformes, lisses, mesurant environ 8–11 × 3–4,5 µm.",
-      habitat: "Les sporophores apparaissent en touffes denses et étagées de la fin de l'automne à l'hiver, souvent après les premières gelées. Il pousse sur les troncs, les souches et les branches mortes ou affaiblies de feuillus, en particulier le hêtre, le peuplier, le bouleau, le saule et le chêne.",
-      uses: "C'est un champignon comestible apprécié et un grand classique des étals maraîchers. Il doit être consommé bien cuit, car il renferme des hémolysines thermolabiles à l'état cru. Les chapeaux tendres sont couramment poêlés, grillés ou intégrés aux sautés.",
-      confusion: "Le pleurote corne d'abondance (Pleurotus cornucopiae) présente une coloration plus pâle, crème à ocre, et des lames s'anastomosant en réseau jusqu'à la base d'un pied plus développé. Le pleurote de l'olivier (Omphalotus olearius) est jaune orangé soutenu, pousse sur les oliviers ou les chênes dans les zones chaudes et s'avère sévèrement toxique. Le pleurote tardif (Sarcomyxa serotina) a une teinte verdâtre sous-jacente et des lames nettement délimitées.",
-      notes: "Pleurotus columbinus est une forme bleu-gris parfois traitée comme une espèce distincte, et Pleurotus floridanus est maintenu séparé. Le mycélium piège et digère les nématodes. Les espèces de ce genre contiennent de la lovastatine, qui réduit le cholestérol sanguin."
-    },
     it: {
       description: "Un fungo saprotrofo e debolmente parassita, lignicolo su tronchi di latifoglie. È comune in tutte le foreste temperate dell'emisfero settentrionale ed è ampiamente coltivato a livello industriale.",
       cap: "Il cappello misura tipicamente 5–18 cm di diametro (talvolta fino a 25 cm), a forma di conchiglia o spatola, convesso poi appianato e infine depresso. Il colore varia dal grigio piombo al bruno ardesia o bluastro da giovane, impallidendo fino al bruno-isabella a maturità.",
@@ -6997,6 +6985,18 @@ export const CATALOG = [
       uses: "Kiváló csemegegomba. Széles körben fogyasztják levesekben, pörköltekben, rántva vagy sütve. Nyersen nem fogyasztható, hőérzékeny hemolitikus toxinjai miatt alapos sütést-főzést igényel.",
       confusion: "A hegyi laskagomba (Pleurocybella porrigens) jóval kisebb, vékony húsú, fehér színű és kizárólag korhadó tűlevelű faanyagon terem Észak-Európában és hegyvidékeken. A nyári laskagomba (Pleurotus pulmonarius) világosabb színű (krémes-sárgásfehér) és a meleg nyári hónapokban terem. A mérgező fajok közül a fán növő világító tölcsérgomba (Omphalotus olearius) élénk narancssárga színű.",
       notes: "A Pleurotus columbinus egy kékesszürke változat, amelyet néha külön fajként kezelnek. A micélium fonálférgeket ejt csapdába és emészt meg. A nemzetség fajai lovasztatint tartalmaznak, amely csökkenti a vér koleszterinszintjét."
+    },
+    fr: {
+      description: "Un champignon lignicole décomposeur de bois et nématophage. Indigène à travers toute l'Europe, l'Amérique du Nord et certaines parties de l'Asie, et largement cultivé dans le monde entier.",
+      cap: "Le chapeau mesure 5–25 cm de largeur, en forme d'huître, d'éventail ou de rein, convexe puis s'aplanissant et parfois légèrement déprimé vers le point d'attache. La surface est lisse, d'abord gris bleuâtre foncé ou ardoise, puis virant au brun grisâtre, brun pâle ou chamois avec l'âge.",
+      hymenium: "Les lames sont blanches à crème, serrées, nettement décurrentes sur le pied ou convergeant vers le point d'attache. Elles jaunissent légèrement avec l'âge.",
+      stipe: "Le pied mesure 1–4 cm de hauteur et 1–3 cm d'épaisseur, court, excentré ou latéral, parfois presque absent, blanc ou blanchâtre, ferme et souvent velu à la base où plusieurs sporophores se rejoignent.",
+      flesh: "La chair est blanche, épaisse et tendre dans le jeune âge, devenant fibreuse et coriace dans le pied et avec l'âge. L'odeur est douceâtre, rappelant l'anis, et la saveur est douce.",
+      sporePrint: "Blanc lilas à gris violacé très pâle. Les spores sont cylindriques à oblongues, lisses, mesurant environ 7,5–11 × 3–4 µm.",
+      habitat: "Les sporophores apparaissent principalement de la fin de l'automne à l'hiver, souvent en grandes touffes imbriquées sur les troncs et souches d'arbres feuillus morts ou affaiblis, en particulier le hêtre, le peuplier, le saule, le chêne et le bouleau.",
+      uses: "C'est un excellent comestible, largement cultivé et commercialisé. Les sporophores doivent être bien cuits et débarrassés de leurs pieds trop fibreux.",
+      confusion: "Le pleurote du chêne (Pleurotus dryinus) a un chapeau givré et un anneau fugace sur le pied. Le pleurote pulmonaire (Pleurotus pulmonarius) est plus pâle et fructifie plus souvent en été, bien que les deux espèces puissent apparaître à tout moment et puissent s'hybrider. Les crépidotes et pleurotellus restent sous les 4 cm de largeur. Le pleurote étalé (Pleurocybella porrigens) est généralement en entonnoir à marge fendue, croît sur bois de conifère (principalement en Écosse au Royaume-Uni) et peut être mortel pour les personnes souffrant de maladies rénales. D'autres champignons ressemblants comprennent la corne d'abondance (Pleurotus cornucopiae), Hohenbuehelia petaloides et le pleurote nid d'oiseau (Phyllotopsis nidulans) au chapeau velu. Parmi les espèces ressemblantes toxiques figurent Omphalotus nidiformis en Australie ainsi qu'Omphalotus olivascens et le clitocybe blanc (Clitocybe dealbata) en Amérique du Nord. Certaines espèces toxiques de Lentinellus présentent des arêtes de lames dentées et des chapeaux finement velus. Le pleurote du panicaut (Pleurotus eryngii) est une espèce cultivée apparentée.",
+      notes: "Pleurotus columbinus est une forme gris-bleu parfois traitée comme une espèce distincte, tandis que Pleurotus floridanus est maintenu séparé. Le mycélium piège et digère les nématodes. Les espèces de ce genre contiennent de la lovastatine, une statine qui abaisse le cholestérol sanguin."
     }
     },
     sources: {
@@ -7337,23 +7337,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Pleurotus_ostreatus"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/38743"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -7376,6 +7359,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/K%C3%A9sei_laskagomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Pleurote_en_hu%C3%AEtre"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/4514"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -7496,9 +7496,9 @@ export const CATALOG = [
       ru: "трутовик серно-жёлтый",
       uk: "трутовик сірчано-жовтий",
       pl: "żółciak siarkowy",
-      fr: "polypore soufré",
       it: "poliporo solfureo",
-      hu: "sárga gévagomba"
+      hu: "sárga gévagomba",
+      fr: "polypore soufré"
     },
     names: {
       en: ["sulphur polypore", "sulphur shelf", "chicken polypore", "lobster of the woods"]
@@ -7783,18 +7783,6 @@ export const CATALOG = [
       confusion: "Młode owocniki ozorka dębowego (Fistulina hepatica) mają czerwonawe zabarwienie, mięsisty miąższ przypominający wątrobę i wydzielają krwisty sok. Inne nadrzewne huby mają twardy, zdrewniały miąższ i nie wykazują tak jaskrawożółtej barwy.",
       notes: "W wielu krajach bywa nazywany «leśnym kurczakiem» ze względu na smak usmażonego młodego miąższu."
     },
-    fr: {
-      description: "Un champignon parasite et saprotrophe lignicole provoquant une pourriture brune cubique. Présent dans toute l'Europe et dans les zones tempérées d'Asie ; en Amérique du Nord, plusieurs espèces cryptiques du complexe partagent cette morphologie.",
-      cap: "Les consoles mesurent 10–40 cm de largeur et jusqu'à 4 cm d'épaisseur, imbriquées en grappes massives atteignant parfois plus de 10 kg. La surface supérieure est veloutée puis glabre, marquée de zones concentriques sinueuses jaune vif à jaune soufre et orange saumoné éclatant, se décolorant en chamois blanchâtre chez les vieux spécimens décrépits.",
-      hymenium: "La face inférieure porte de minuscules pores ronds, 3 à 5 par millimètre, d'un jaune soufre éclatant. Les tubes mesurent 2–5 mm de longueur et ne changent pas de couleur au froissement.",
-      stipe: "Le pied est généralement absent ou réduit à une base d'attache latérale trapue et robuste, fixant fermement les consoles au tronc de l'hôte.",
-      flesh: "La chair est épaisse, tendre, juteuse et cassante dans la jeunesse, devenant sèche, crayeuse et friable comme du liège avec l'âge. Elle est jaune pâle à blanchâtre. L'odeur est agréablement acidulée ou fongique ; la saveur est douce avec une nuance légèrement surette.",
-      sporePrint: "Blanche à crème très pâle. Les spores sont ellipsoïdes à ovoïdes, lisses, mesurant environ 5,5–7 × 4–5 µm.",
-      habitat: "Les sporophores apparaissent de mai à octobre. Il croît sur le tronc et les grosses branches d'arbres vivants ou récemment morts, en particulier le chêne, le châtaignier, le merisier, le saule, le peuplier et parfois l'if.",
-      uses: "Les parties marginales tendres des jeunes sporophores sont comestibles et comparées à de la viande de volaille lorsqu'elles sont bien cuites. Il doit être impérativement bien cuit. Certains sujets éprouvent des intolérances gastriques ou des réactions allergiques, et la récolte sur des arbres toxiques comme l'if est formellement proscrite.",
-      confusion: "Le polypore géant (Meripilus giganteus) est brun chamois, noircit fortement au froissement et provoque une pourriture blanche. Le polypore hérissé (Inonotus hispidus) est velu, brun rouille foncé et non comestible.",
-      notes: "Le rang de conservation global est non évalué (GNR, révisé en 1993). Laetiporus cincinnatus, Laetiporus huroniensis, Laetiporus gilbertsonii et Laetiporus montanus sont des espèces distinctes."
-    },
     it: {
       description: "Un fungo parassita e saprotrofo a mensole dei tronchi di latifoglie (soprattutto quercia, castagno, salice, carrubo) e occasionalmente tasso. Causa un esteso marciume bruno del legno.",
       cap: "I corpi fruttiferi crescono a ventaglio o a mensole sovrapposte, raggiungendo 10–40 cm di larghezza (a volte fino a 60 cm) e diversi chilogrammi di peso. La superficie è ondulata, vellutata e di un vivido colore giallo solfino o arancio brillante, che sbiadisce col tempo.",
@@ -7818,6 +7806,18 @@ export const CATALOG = [
       uses: "Fiatalon ehető, íze átsütve vagy megfőzve csirkehúsra emlékeztet, innen származik angol népi neve is. Csak a puha, lédús szélei fogyaszthatók, és alapos hőkezelést igényel. Egyes embereknél egyéni érzékenységet vagy allergiás emésztőrendszeri reakciókat válthat ki.",
       confusion: "A kifakult termőtestek hasonlíthatnak az óriás likacsosgombára (Meripilus giganteus), amelynek pórusai nyomásra feketednek. Észak-Amerikában a tölgyek tövében növő Laetiporus cincinnatus kalapja halvány rózsás-narancs és pórusai fehérek, a Laetiporus persicinus sérülésre barnul, a Laetiporus huroniensis fenyőkön (pl. hemlokfenyőn), a Laetiporus gilbertsonii pedig eukaliptuszon és tölgyeken él a nyugati partvidéken. A fogyasztást követő súlyos rosszulléteket különösen a fenyőkön és eukaliptuszokon élő fajoknak tulajdonítják.",
       notes: "A Laetiporus cincinnatus, Laetiporus huroniensis, Laetiporus gilbertsonii és Laetiporus montanus különálló észak-amerikai fajok. Magyarországon 2025-ben az év gombája volt."
+    },
+    fr: {
+      description: "Un champignon en console des arbres feuillus vivants et morts, et parfois des conifères. Fréquent en Grande-Bretagne et en Irlande, ainsi qu'à travers l'Europe continentale. Les signalements en Amérique du Nord autrefois regroupés sous ce nom appartiennent à plusieurs espèces distinctes.",
+      cap: "Les consoles individuelles mesurent généralement 10–40 cm de largeur (parfois jusqu'à 60 cm), superposées en grands amas imbriqués pouvant peser plus de 10 kg. La surface supérieure est veloutée, ondulée, jaune soufre brillant à orange vif, puis pâlit avec l'âge jusqu'au jaune pâle ou au blanc crème.",
+      hymenium: "Les tubes sont courts, d'une profondeur de 1,5–4 mm. Les pores sont ronds à anguleux, très petits, au nombre de 2–4 par millimètre, jaune soufre vif, exsudant parfois des gouttelettes jaunâtres chez les jeunes spécimens.",
+      stipe: "Il n'y a pas de pied. Les consoles poussent directement sur le tronc en éventails sessiles fixés par une base épaisse.",
+      flesh: "La chair est blanche à jaune-orange à l'état humide et plus pâle à l'état sec, épaisse de 1–3 cm, molle, juteuse et charnue dans le jeune âge, puis devenant crayeuse, friable et cassante avec l'âge. L'odeur est agréable et fongique au début, devenant aigre et désagréable avec le temps. La saveur est légèrement acidulée chez les jeunes spécimens.",
+      sporePrint: "Blanche. Les spores sont ellipsoïdales à largement ovoïdes, mesurant 5–7 × 3,5–5 µm, lisses et inamyloïdes.",
+      habitat: "Les sporophores apparaissent principalement en été et en automne (d'avril à novembre en Grande-Bretagne et en Irlande), parfois dès le printemps. C'est un parasite de blessure causant une pourriture brune cubique sur les arbres feuillus vivants, en particulier le chêne, le châtaignier, le saule, le cerisier, le frêne et l'if.",
+      uses: "Les jeunes sporophores encore tendres constituent un bon champignon comestible. Ils sont consommés cuits, souvent poêlés, mijotés ou préparés à la manière de morceaux de poulet en raison de leur texture fibreuse et de leur saveur. Les spécimens âgés sont durs et indigestes. Certaines personnes développent des troubles gastro-intestinaux ou des réactions allergiques après consommation, et la prudence s'impose.",
+      confusion: "Les sporophores décolorés peuvent ressembler au polypore géant (Meripilus giganteus), dont les pores noircissent au froissement. En Amérique du Nord, Laetiporus cincinnatus pousse à la base des chênes et présente un chapeau orange rosé pâle et des pores blancs, Laetiporus persicinus brunit au froissement, Laetiporus huroniensis pousse sur des conifères comme la pruche, et Laetiporus gilbertsonii se développe sur l'eucalyptus et les chênes dans l'Ouest. Des malaises graves après consommation ont été associés en particulier aux espèces croissant sur conifères et eucalyptus.",
+      notes: "Le statut de conservation mondial est GNR, révisé pour la dernière fois en 1993. Laetiporus cincinnatus, Laetiporus huroniensis, Laetiporus gilbertsonii et Laetiporus montanus sont des espèces distinctes."
     }
     },
     sources: {
@@ -8171,23 +8171,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Laetiporus_sulphureus"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/48270"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -8210,6 +8193,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/S%C3%A1rga_g%C3%A9vagomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Polypore_soufr%C3%A9"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/4885"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -8360,9 +8360,9 @@ export const CATALOG = [
       ru: "польский гриб",
       uk: "польський гриб",
       pl: "podgrzyb brunatny",
-      fr: "bolet bai",
       it: "boleto baio",
-      hu: "barna tinóru"
+      hu: "barna tinóru",
+      fr: "bolet bai"
     },
     names: {
       en: ["bay boletus", "bay-brown bolete", "bay-capped bolete", "false cep"],
@@ -8647,18 +8647,6 @@ export const CATALOG = [
       confusion: "Borowik szlachetny (Boletus edulis) ma białą siateczkę na trzonie, a jego pory nie sinieją pod naciskiem. Goryczak żółciowy (Tylopilus felleus) ma ciemną siateczkę na trzonie, pory różowiejące z wiekiem i bardzo gorzki smak. Podgrzybek zajączek (Xerocomus subtomentosus) ma bardziej zamszowy, żółtawobrązowy kapelusz, żółty trzon i szersze, kanciaste pory, które słabiej lub wcale nie sinieją.",
       notes: "Ocena z 2019 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern)."
     },
-    fr: {
-      description: "Un champignon ectomycorhizien commun. Largement répandu dans toute l'Europe continentale, en Grande-Bretagne et en Irlande, ainsi que dans le nord de l'Amérique du Nord.",
-      cap: "Le chapeau mesure 5–15 cm de largeur, hémisphérique puis convexe et s'aplanissant avec l'âge. Il est brun marron, brun bai ou chocolat foncé, lisse et visqueux par temps humide, soyeux et mat à sec. La cuticule dépasse légèrement la marge.",
-      hymenium: "Les tubes mesurent environ 1–2 cm de profondeur. Les pores sont anguleux, petits à moyens, d'abord blanchâtres à jaune crème puis jaune verdâtre, et bleuissent instantanément à la pression ou au froissement.",
-      stipe: "Le pied mesure 5–12 cm de hauteur et 1,5–4 cm d'épaisseur, cylindrique ou légèrement renflé, sans réseau réticulé. Il est brun jaunâtre à brun bai, strié longitudinalement de fibrilles brunâtres plus sombres.",
-      flesh: "La chair est blanche à jaunâtre, ferme au début, et bleuit faiblement ou lentement à la coupe, surtout au-dessus des tubes et dans le haut du pied, avant de se décolorer. L'odeur est agréablement fruitée et fongique ; la saveur est douce.",
-      sporePrint: "Brun olive. Les spores sont lisses, allongées fusiformes, mesurant environ 12–15 × 4,5–5,5 µm.",
-      habitat: "Les sporophores apparaissent d'août à novembre. Il pousse principalement sous les conifères, en particulier les pins et les épicéas, ainsi que sous les hêtres et les chênes sur sols acides et moussus.",
-      uses: "C'est un très bon champignon comestible, fréquemment récolté et séché avec les cèpes nobles. Il doit être consommé bien cuit. Il a tendance à concentrer les métaux lourds et certains radio-isotopes comme le césium-137 dans les zones historiquement contaminées.",
-      confusion: "Le cèpe de Bordeaux (Boletus edulis) possède un pied orné d'un réseau blanc en relief et des pores immuables qui ne bleuissent pas à la pression. Le bolet de fiel (Tylopilus felleus) présente un réseau brun sombre proéminent, des pores rosâtres à maturité et une saveur extrêmement amère. Le bolet subtomenteux (Xerocomus subtomentosus) porte un chapeau velouté jaunâtre ou olivâtre et des pores plus larges.",
-      notes: "Une évaluation de 2019 le classe en préoccupation mineure (Least Concern), avec une population stable. Les sporophores peuvent bioaccumuler le mercure, le cobalt et le nickel, et un pigment du chapeau (la norbadione A) concentre le césium-137 radioactif."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi di conifere e misti. È ampiamente diffuso e comune in tutta l'Europa centrale e settentrionale e in Nord America.",
       cap: "Il cappello misura solitamente 5–15 cm di diametro. È emisferico poi convesso e infine appianato. La cuticola è di colore bruno baio, bruno castano o bruno dattero, vellutata col secco e leggermente viscosa a tempo piovoso.",
@@ -8682,6 +8670,18 @@ export const CATALOG = [
       uses: "Kiváló csemegegomba, a vargányákhoz hasonlóan rendkívül népszerű; frissen, sütve és szárítva is kiváló, jól tartja állagát.",
       confusion: "Az ízletes vargánya (Boletus edulis) tönkje finom fehér hálózattal díszített, és csövei nyomásra nem kékülnek. Az epeízű tinóru (Tylopilus felleus) tönkjén sötétbarna hálózat van, pórusai idővel rózsaszínesek lesznek, és húsa rendkívül keserű. A molyhos tinóru (Xerocomus subtomentosus) pórusai tágabbak, aranysárgák és kevésbé kékülnek.",
       notes: "Egy 2019-es felmérés szerint a nem veszélyeztetett (Least Concern) kategóriába tartozik, stabil populációval. A termőtestek képesek felhalmozni a higanyt, kobaltot és nikkelt, és a kalapbőr pigmentje dúsítja a cézium-137 izotópot."
+    },
+    fr: {
+      description: "Un champignon ectomycorhizien des forêts de conifères et mixtes. Répandu et commun en Europe, de la Scandinavie à la Méditerranée, ainsi qu'en Amérique du Nord tempérée.",
+      cap: "Le chapeau mesure généralement 5–15 cm de largeur (3–9 cm dans les populations d'Amérique du Nord), convexe puis s'aplatissant avec l'âge. Il est brun bai, brun châtain ou brun chocolat foncé. La surface est finement veloutée à l'état sec et devient nettement visqueuse à collante par temps pluvieux. La marge est d'abord incurvée puis s'ondule avec l'âge.",
+      hymenium: "Les tubes atteignent 1–2 cm de profondeur, jaune pâle au début puis devenant jaune verdâtre ou olive, et bleuissent généralement à la coupe. Les pores sont anguleux, au nombre d'environ 1–3 par millimètre, crème à jaune pâle puis devenant jaune olive, et se teintent de bleu terne ou de bleu verdâtre au froissement sur les sporophores matures.",
+      stipe: "Le pied mesure 4–15 cm de hauteur (jusqu'à 18 cm en Amérique du Nord) et 1–4 cm d'épaisseur. Il est plus ou moins cylindrique, souvent légèrement courbé ou élargi vers la base, avec un mycélium basal blanc et sans anneau. La surface est jaune pâle au sommet et brune à brun rougeâtre en dessous, recouverte de fines fibrilles longitudinales brunes sur fond plus pâle plutôt que d'un réseau saillant.",
+      flesh: "La chair est blanche à jaune pâle, teintée de rose vineux ou de brunâtre immédiatement sous la cuticule du chapeau, et bleuit généralement de façon pâle ou bleu-vert au-dessus des tubes et au sommet du pied lorsqu'elle est coupée. L'odeur est faible ou légèrement fruitée, et la saveur est douce.",
+      sporePrint: "Brun olivacé. Les spores sont subfusiformes (fusiformes à la manière d'un bolet) et lisses, mesurant environ 11–15 × 4–5,5 µm.",
+      habitat: "Les sporophores apparaissent à la fin de l'été et en automne, d'août à novembre en Grande-Bretagne et en Irlande, et de juillet à novembre en Amérique du Nord. Ils croissent solitaires ou dispersés sur le sol, ou sur des souches moussues en décomposition, sous les pins, l'épicéa, la pruche et d'autres conifères, et moins souvent sous le hêtre, le chêne, le châtaignier et le bouleau. Ils évitent les sols calcaires.",
+      uses: "C'est un excellent champignon comestible, d'une qualité proche de celle de Boletus edulis et convenant aux mêmes préparations culinaires. Les sporophores sont moins souvent véreux que ceux de nombreux autres bolets, et ils se déshydratent très bien lorsqu'ils sont coupés en fines lamelles. Ils sont vendus sur les marchés en Europe et dans le centre du Mexique.",
+      confusion: "Le cèpe de Bordeaux (Boletus edulis) a parfois un chapeau brun bai, mais son pied pâle porte un réseau blanc en relief et ses pores ne bleuissent pas. Aureoboletus projectellus est plus robuste et possède un pied grossièrement réticulé. Austroboletus gracilis ne bleuit pas et ses pores deviennent rosâtres. Le bolet subtomenteux (Xerocomus subtomentosus) possède un chapeau sec et velouté ainsi que des pores jaunes plus larges qui bleuissent rarement. Xerocomellus zelleri dans l'ouest de l'Amérique du Nord et Hortiboletus bubalinus sont également semblables.",
+      notes: "Une évaluation de 2019 le classe comme préoccupation mineure (Least Concern), avec une population stable. Les sporophores peuvent bioaccumuler le mercure, le cobalt et le nickel, et un pigment du chapeau (la norbadione A) concentre le césium 137 radioactif."
     }
     },
     sources: {
@@ -9019,23 +9019,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Bolet_bai"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/714081"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -9058,6 +9041,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Barna_tin%C3%B3ru"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Bolet_bai"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/715975"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -9176,9 +9176,9 @@ export const CATALOG = [
       ru: "опёнок осенний",
       uk: "опеньок осінній справжній",
       pl: "opieńka miodowa",
-      fr: "armillaire couleur de miel",
       it: "chiodino",
-      hu: "gyűrűs tuskógomba"
+      hu: "gyűrűs tuskógomba",
+      fr: "armillaire couleur de miel"
     },
     names: {
       en: ["honey mushroom", "bootlace fungus"],
@@ -9239,9 +9239,9 @@ export const CATALOG = [
       bg: ['припънка', 'пънчушка', 'светеща пънчушка'],
       ru: ["опёнок настоящий"],
       uk: ["опеньок осінній"],
-      fr: ["armillaire de miel"],
       it: ["famigliola buona"],
-      hu: ["csuprosgomba","mézszínű tölcsérgomba"]
+      hu: ["csuprosgomba","mézszínű tölcsérgomba"],
+      fr: ["armillaire de miel"]
     },
     text: {
       tr: {
@@ -9509,17 +9509,6 @@ export const CATALOG = [
       uses: "Grzyb jadalny i chętnie zbierany, lecz bezwzględnie wymagający dokładnego obgotowania przez minimum 15–20 minut i odlania wywaru. Na surowo lub niedogotowany jest trujący i wywołuje silne zaburzenia żołądkowo-jelitowe. Zbiera się wyłącznie młode kapelusze; twarde trzony są niejadalne.",
       confusion: "Opieńka ciemna (Armillaria ostoyae) rośnie głównie na drzewach iglastych i ma ciemniejsze łuski oraz brązowe łuski na spodzie pierścienia. Maślanka wiązkowa (Hypholoma fasciculare) rośnie w podobnych kępach, lecz ma zielonkawożółte blaszki, siarkowożółty miąższ i jest silnie gorzka oraz trująca. Płomiennica zimowa (Flammulina velutipes) owocuje zimą, ma aksamitny, ciemny trzon i nie posiada pierścienia."
     },
-    fr: {
-      description: "Un champignon parasite destructeur d'arbres vivants et saprotrophe sur le bois mort. Indigène et commun en Europe, en Asie et en Afrique du Nord ; les signalements nord-américains se réfèrent à d'autres espèces du complexe.",
-      cap: "Le chapeau mesure 3–15 cm de largeur, d'abord conique ou hémisphérique puis convexe et enfin étalé, souvent mamelonné. Il est jaune miel, ocre fauve ou brun olivâtre, parsemé de petites écailles sombres et fugaces particulièrement denses au centre. La marge est striée par transparence à l'humidité.",
-      hymenium: "Les lames sont blanches à crème, devenant beige rosé ou tachées de rouille avec l'âge, serrées, légèrement décurrentes le long du pied.",
-      stipe: "Le pied mesure 6–18 cm de hauteur et 0,5–2 cm d'épaisseur, élancé, atténué vers le bas ou renflé à la base. Il est blanchâtre au sommet et brun roussâtre à la base, fibreux et élastique. Il porte un anneau membraneux blanc bien formé, persistant, bordé de flocons jaunâtres sur la marge inférieure.",
-      flesh: "La chair est blanchâtre dans le chapeau, brunissante et très coriace dans le pied. L'odeur est astringente et fongique ; la saveur est douce au départ puis amère et légèrement âcre.",
-      sporePrint: "Blanche à crème très pâle. Les spores sont ellipsoïdes, lisses, mesurant environ 7–9 × 5–6 µm.",
-      habitat: "Les sporophores apparaissent en touffes denses et spectaculaires de septembre à novembre sur les troncs, les racines et les souches de feuillus, en particulier le chêne, le hêtre, le bouleau et les arbres fruitiers.",
-      uses: "Les jeunes chapeaux sont comestibles sous réserve d'une cuisson complète et prolongée, mais ils provoquent des troubles digestifs chez de nombreuses personnes sensibles. Il est impératif de rejeter l'eau de cuisson initiale et de ne jamais le consommer cru.",
-      confusion: "L'armillaire d'Ostoya (Armillaria ostoyae) possède des écailles brun foncé denses et un anneau garni de flocons bruns, croissant surtout sur conifères. L'hypholome en touffes (Hypholoma fasciculare) a des lames jaune-vert puis gris olivâtre et une chair extrêmement amère et toxique. La pholiote changeante (Kuehneromyces mutabilis) possède un pied squamuleux sous l'anneau et une sporée brun rouille."
-    },
     it: {
       description: "Un fungo parassita su latifoglie viventi e saprotrofo su ceppaie e legno morto. È un pericoloso agente del marciume radicale fibroso.",
       cap: "Il cappello misura 3,5–15 cm di diametro. È convesso poi piano, di colore giallo miele, bruno-ocraceo o bruno-rossiccio, cosparso di piccole squame fugaci più scure concentrate verso il centro.",
@@ -9542,6 +9531,17 @@ export const CATALOG = [
       uses: "Ehető, de kizárólag alapos, legalább 20 perces főzés vagy sütés után, mert nyersen vagy nem eléggé átsütve gyomor-bélrendszeri mérgezést okoz. A szívós tönköket étkezésre nem használják, csak a kalapokat.",
       confusion: "A sárga kénvirággomba (Hypholoma fasciculare) lemezei kénsárgák, majd zöldesszürkék vagy olívfeketék lesznek, húsa rendkívül keserű és mérgező. A fenyves sisakgomba (Galerina marginata) halálosan mérgező, jóval kisebb termetű, kalapja sima, tönkjén csak vékony gyűrűzóna van és spórapora rozsdabarna. Az ízletes tőkegomba (Kuehneromyces mutabilis) tönkje a gallér alatt sötétbarna és pikkelyes, lemezei rozsdabarnák.",
       notes: "A fekete zsinórszerű rizomorfák (gombafonal-kötegek) a kéreg alatt és a talajban terjednek, így fertőzik meg a szomszédos élő fákat."
+    },
+    fr: {
+      description: "Un champignon parasite sur le bois de feuillus vivants, et saprotrophe sur les souches et les racines mortes. Il est commun en Grande-Bretagne et en Irlande ainsi qu'à travers une grande partie de l'Europe continentale, plus rare en Scandinavie et plus fréquent plus au sud, et il est signalé dans l'est et le sud-est de l'Amérique du Nord ainsi qu'en Californie.",
+      cap: "Le chapeau mesure 3,5–15 cm de largeur. Il est jaune miel à jaune doré ou brun ochracé, souvent teinté d'olive au centre, et orné de petites écailles brunes foncées à jaunâtres, pointues et dressées, concentrées vers le centre et disparaissant avec l'âge. Il est hémisphérique dans le jeune âge, puis convexe et s'aplatissant largement, avec une marge striée par transparence à l'état humide.",
+      hymenium: "Les lames sont adnées à courtement décurrentes et serrées à très serrées. Protégées au début par un voile partiel blanchâtre à jaune pâle, elles sont blanchâtres à couleur de chair dans le jeune âge, devenant jaunâtres et se tachant de brun rouille avec l'âge.",
+      stipe: "Le pied mesure 6–20 cm de hauteur et 0,5–2,5 cm d'épaisseur, s'amenuisant vers la base où les pieds d'une même touffe fusionnent. Il est blanchâtre près du sommet et jaunâtre à brun foncé ou noir olivâtre vers la base, avec une écorce externe coriace et fibreuse et une moelle blanche à l'intérieur. Un anneau membraneux épais, blanc et persistant, orné d'une bordure et d'un revers floconneux jaunâtres, se situe sur le haut du pied.",
+      flesh: "La chair du chapeau est blanche à blanchâtre et ferme, et ne change pas de couleur à la coupe. L'odeur est faible ou douceâtre, et la saveur est douce au début, laissant un arrière-goût légèrement amer ou astringent. Le mycélium en croissance active dans le bois en décomposition est bioluminescent (feu follet), tandis que les sporophores eux-mêmes ne brillent pas.",
+      sporePrint: "Blanche à crème pâle. Les spores sont ellipsoïdales, lisses et inamyloïdes, mesurant 7–9 × 5–6 µm, avec un apicule distinct. Les basides sont dépourvues de boucles de conjugaison basales.",
+      habitat: "Les sporophores apparaissent de juillet à novembre en Grande-Bretagne, en Irlande et en Europe continentale, et en automne (ou jusqu'en hiver sous des climats plus chauds) en Amérique du Nord. Ils poussent en touffes denses sur les troncs vivants, les souches et les racines enterrées d'arbres feuillus, notamment les chênes et les arbres fruitiers, et se propagent à travers le sol et l'écorce au moyen de vigoureux rhizomorphes noirs semblables à des lacets de bottes.",
+      uses: "Les chapeaux ne sont comestibles que lorsqu'ils sont bien cuits ; les pieds coriaces et fibreux sont rejetés. Certains guides déconseillent de le ramasser car les sporophores crus ou insuffisamment cuits provoquent de graves troubles gastro-intestinaux, et même des champignons bien cuits peuvent causer des indigestions chez les personnes sensibles.",
+      confusion: "Armillaria ostoyae possède des écailles brun foncé ou noires sur le revers de son anneau et croît principalement sur les conifères. Armillaria gallica présente une base de pied bulbeuse et un voile arachnéen ne laissant qu'une faible zone annulaire. Desarmillaria tabescens est dépourvu d'anneau. La pholiote écailleuse (Pholiota squarrosa) a un chapeau et un pied écailleux, des lames qui virent au brun rouille et n'a pas de sporée blanche. La galère marginée (Galerina marginata), mortelle, croît également sur le bois mais est plus petite, possède une sporée brun rouille et ne présente ni l'anneau épais blanc et jaune ni les rhizomorphes noirs. Plusieurs espèces d'Armillaria couleur de miel étaient traitées sous ce seul nom jusque dans les années 1970."
     }
     },
     sources: {
@@ -9925,23 +9925,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Armillaire_couleur_de_miel"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/37965"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -9964,6 +9947,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Gy%C5%B1r%C5%B1s_tusk%C3%B3gomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Armillaire_couleur_de_miel"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/3773"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -10082,9 +10082,9 @@ export const CATALOG = [
       ru: "навозник белый",
       uk: "гнойовик чубатий",
       pl: "czernidłak kołpakowaty",
-      fr: "coprin chevelu",
       it: "coprino chiomato",
-      hu: "gyapjas tintagomba"
+      hu: "gyapjas tintagomba",
+      fr: "coprin chevelu"
     },
     names: {
       en: ["lawyer's wig", "shaggy mane", "shaggy ink cap"]
@@ -10095,8 +10095,8 @@ export const CATALOG = [
       bg: ['воловарка', 'мастиленка'],
       ru: ["навозник хохлатый","навозник лохматый"],
       uk: ["гнойовик білий"],
-      fr: ["goutte d'encre"],
-      it: ["fungo dell'inchiostro"]
+      it: ["fungo dell'inchiostro"],
+      fr: ["goutte d'encre"]
     },
     text: {
       tr: {
@@ -10372,18 +10372,6 @@ export const CATALOG = [
       confusion: "Czernidłak srokaty (Coprinopsis picacea) ma kapelusz ciemnobrązowy z dużymi, białymi łłatami osłony i rośnie w lasach bukowych. Czernidłak pospolity (Coprinopsis atramentaria) ma kapelusz szary, gładki lub słabo łuskowaty i zawiera koprynę wywołującą zatrucie w połączeniu z alkoholem.",
       notes: "Jeden z nielicznych czernidłaków pozostawionych w rodzaju Coprinus po rewizji filogenetycznej rodziny pieczarkowatych."
     },
-    fr: {
-      description: "Un champignon saprotrophe déliquescent. Commun dans toute l'Europe, en Amérique du Nord et en Asie tempérée ; introduit dans l'hémisphère sud, notamment en Australie et en Nouvelle-Zélande.",
-      cap: "Le chapeau mesure 4–15 cm de hauteur et 3–6 cm de largeur, d'abord cylindrique ou oblong-ovoïde recouvrant la majeure partie du pied, puis devenant conique ou en cloche. Il est blanc pur, revêtu d'écailles laineuses et retroussées blanc chamois, avec le sommet brun doré lisse. À maturité, la marge s'enroule et s'autodigère en un liquide noir semblable à de l'encre.",
-      hymenium: "Les lames sont libres, très serrées et larges, blanches au début, virant rapidement au rose saumon puis au noir d'encre à partir du bord inférieur.",
-      stipe: "Le pied mesure 10–25 cm de hauteur et 1–2 cm d'épaisseur, blanc, creux, cylindrique et légèrement renflé à la base. Il porte un petit anneau membraneux blanc, fugace et souvent coulissant librement le long du pied.",
-      flesh: "La chair est blanche, très mince et délicate dans le chapeau, fibreuse dans le pied. L'odeur est agréable et discrète ; la saveur est douce et fine.",
-      sporePrint: "Noir brownish-noirâtre à noir profond. Les spores sont ellipsoïdes, lisses, avec un pore germinatif net, mesurant environ 10–13 × 6–8 µm.",
-      habitat: "Les sporophores apparaissent d'avril à novembre, le plus souvent en automne, en troupes nombreuses sur les pelouses, les pâturages, les parcs, les bords de chemins et les terrains fraîchement remaniés.",
-      uses: "C'est un excellent champignon comestible lorsqu'il est jeune et que ses lames sont encore d'un blanc immaculé. Il doit être cuisiné sans attendre dans les heures suivant la cueillette pour éviter la déliquescence. Contrairement au coprin noir d'encre, il ne contient pas de coprine et ne provoque pas d'effet antabuse avec l'alcool.",
-      confusion: "Le coprin noir d'encre (Coprinopsis atramentaria) possède un chapeau grisâtre lisse ou sillonné sans écailles retroussées et renferme de la coprine, provoquant des malaises en cas d'ingestion d'alcool. Le coprin pie (Coprinopsis picacea) a un chapeau brun noirâtre orné de plaques blanches en lambeaux et dégage une odeur fétide de bitume.",
-      notes: "Une évaluation de 2019 (corrigée en 2022) le classe en préoccupation mineure (Least Concern). Alors que la plupart des coprins ont été transférés dans les Psathyrellaceae, cette espèce demeure dans les Agaricaceae. Son mycélium peut immobiliser et digérer les nématodes du sol."
-    },
     it: {
       description: "Un fungo saprotrofo dei prati concimati, giardini, margini erbosi delle strade e parchi. È ampiamente diffuso nelle aree temperate del mondo.",
       cap: "Il cappello è alto 5–15 cm e largo 3–8 cm da giovane, di forma cilindrico-ovoide o a campana allungata. È bianco, ricoperto da larghe squame lanose o fioccose arricciate, con vertice liscio e ocraceo.",
@@ -10407,6 +10395,18 @@ export const CATALOG = [
       uses: "Kiváló csemegegomba, amíg a lemezei teljesen fehérek. Leszedés után nagyon gyorsan fel kell dolgozni, mert néhány órán belül fekete tintává folyósodik. Az elterjedt hiedelemmel ellentétben koprint nem tartalmaz, így alkoholfogyasztás mellett sem okoz mérgezést.",
       confusion: "A ráncos tintagomba (Coprinopsis atramentaria) kalapja szürke, felülete nem pikkelyes, hanem finoman ráncos; koprint tartalmaz, ezért alkohollal együtt fogyasztva súlyos mérgezést idéz elő. A kerti tintagomba (Coprinellus micaceus) kisebb termetű, kalapja sárgásbarna, csillámló szemcsékkel.",
       notes: "Bár a legtöbb tintagombát molekuláris vizsgálatok alapján átsorolták a porhanyósgombafélék (Psathyrellaceae) családjába, ez a faj a csiperkefélék (Agaricaceae) családjában maradt. Egy 2019-es felmérés szerint a nem veszélyeztetett (Least Concern) kategóriába tartozik. Micéliuma képes a talajban élő fonálférgeket megbénítani és megemészteni. Magyarországon 2009-ben az év gombája volt."
+    },
+    fr: {
+      description: "Un champignon saprotrophe commun des zones herbeuses et des sols remaniés. Il est largement répandu à travers les régions tempérées de l'hémisphère nord, notamment en Grande-Bretagne, en Irlande, en Europe continentale, en Amérique du Nord et dans certaines parties de l'Asie, et semble avoir été introduit en Australie, en Nouvelle-Zélande et en Islande.",
+      cap: "Le chapeau mesure 5–15 cm de hauteur (parfois jusqu'à 20 cm) et 3–8 cm de largeur. Il est ovale à cylindrique dans le jeune âge, s'évasant en une forme de cloche étroite. La surface est blanche avec un sommet brun pâle et se fragmente en grandes écailles retroussées et hirsutes. À maturité, le chapeau s'assombrit et déliquesce (se dissout en encre noire) depuis la marge inférieure vers le haut jusqu'à ce qu'il ne reste plus qu'un petit disque au sommet du pied.",
+      hymenium: "Les lames sont libres à adnexées et très serrées. Elles sont blanches au début, puis virent au rose et enfin au noir avant de déliquescer en un liquide chargé de spores depuis l'arête inférieure vers le haut. Les pleurocystides sont absentes.",
+      stipe: "Le pied mesure 10–30 cm de hauteur (exceptionnellement jusqu'à 40 cm) et 1–2,5 cm d'épaisseur, cylindrique ou s'amincissant légèrement vers le haut, lisse, blanc, cassant et creux, avec un cordon lâche de fibres pendant à l'intérieur de la cavité. Il se sépare facilement du chapeau. Un anneau blanc, étroit et mobile près de la base est souvent taché de spores noires ou glisse le long du pied.",
+      flesh: "La chair est blanche, mince et fragile. L'odeur et la saveur sont douces et agréables.",
+      sporePrint: "Noir à noir brunâtre. Les spores sont ellipsoïdales et lisses, mesurant 9–13 × 6,5–9,5 µm, avec un pore germinatif central ou légèrement excentré.",
+      habitat: "Les sporophores apparaissent d'avril à novembre en Grande-Bretagne, en Irlande et en Europe continentale, et en été et en automne en Amérique du Nord, le plus abondamment peu après la pluie. Ils poussent solitaires, en petits groupes ou en troupes et en ronds sur les pelouses, les accotements herbeux, les bords de chemins, les copeaux de bois et les sols remaniés ou compactés.",
+      uses: "Les jeunes sporophores fermes constituent un excellent champignon comestible, à condition d'être cuisinés peu après la récolte tant que les lames sont encore blanches. Une fois cueillies, les lames noircissent rapidement et se dissolvent en une masse d'encre immangeable. Contrairement à Coprinopsis atramentaria, cette espèce ne contient pas de coprine.",
+      confusion: "Dans son jeune âge, le coprin pie (Coprinopsis picacea) peut paraître semblable, mais la cuticule de son chapeau est brun foncé avec des plaques de voile blanc contrastées et il est toxique. Le coprin noir d'encre (Coprinopsis atramentaria) est plus petit, plus lisse et gris-brun, et contient de la coprine, qui provoque des intoxications lorsqu'elle est associée à l'alcool. En Amérique du Nord, la lépiote de Morgan (Chlorophyllum molybdites), toxique, a été confondue avec des sporophores non ouverts, et le champignon du désert Podaxis pistillaris est superficiellement similaire par sa forme.",
+      notes: "Alors que la plupart des coprins ont été transférés sur des bases moléculaires dans les genres Coprinopsis, Coprinellus et Parasola au sein des Psathyrellaceae, cette espèce reste dans les Agaricaceae. Une évaluation de 2019 (modifiée en 2022) la classe comme préoccupation mineure (Least Concern). Son mycélium peut immobiliser et digérer les nématodes du sol."
     }
     },
     sources: {
@@ -10777,23 +10777,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Coprin_chevelu"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/33644"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -10816,6 +10799,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Gyapjas_tintagomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Coprin_chevelu"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/3890"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -10931,9 +10931,9 @@ export const CATALOG = [
       ru: "строчок обыкновенный",
       uk: "строчок звичайний",
       pl: "piestrzenica kasztanowata",
-      fr: "fausse morille",
       it: "falsa spugnola",
-      hu: "redős papsapkagomba"
+      hu: "redős papsapkagomba",
+      fr: "fausse morille"
     },
     names: {
       en: ["turban fungus", "brain mushroom", "beefsteak morel", "elephant ears", "rain mushroom"],
@@ -10943,9 +10943,9 @@ export const CATALOG = [
       es: ['mitra', 'falsa colmenilla'],
       bg: ['обикновена дипленка', 'сплесната бучка', 'мечо ухо'],
       ru: ["строчок съедобный"],
-      fr: ["gyromitre délicieuse"],
       it: ["giromitra"],
-      hu: ["közönséges papsapkagomba","közönséges redőgomba"]
+      hu: ["közönséges papsapkagomba","közönséges redőgomba"],
+      fr: ["gyromitre délicieuse"]
     },
     text: {
       tr: {
@@ -11214,17 +11214,6 @@ export const CATALOG = [
       uses: "Grzyb śmiertelnie trujący. Zawiera gyromitrynę, która w organizmie przekształca się w silnie toksyczną monometylohydrazynę (uszkadzającą wątrobę, nerki i układ nerwowy). Ani suszenie, ani gotowanie nie usuwa całkowicie trucizny, a wdychanie oparów podczas gotowania również wywołuje zatrucia.",
       confusion: "Smardz jadalny (Morchella esculenta) ma kapelusz z regularnymi jamkami przypominającymi plaster miodu i jedną wspólną, pustą komorę wewnątrz. Piestrzenica olbrzymia (Gyromitra gigas) jest jaśniejsza, żółtobrązowa i ma większe zarodniki z wyrostkami na biegunach. Piestrzyca kędzierzawa (Helvella crispa) pojawia się jesienią i ma siodłowaty kapelusz oraz żebrowany trzon."
     },
-    fr: {
-      description: "Un champignon ascomycète printanier hautement toxique et potentiellement mortel. Présent dans toute l'Europe continentale, en particulier dans les forêts de conifères du nord et de l'est, ainsi qu'en Amérique du Nord.",
-      cap: "Le chapeau mesure 3–12 cm de largeur et présente une forme irrégulière très contournée, cérébriforme ou lobée, évoquant les circonvolutions d'un cerveau. Il est brun rougeâtre, marron foncé ou brun chocolat, creux, fusionné au pied en plusieurs points.",
-      hymenium: "L'hyménium tapisse la surface extérieure des lobes et replis du chapeau. Les asques contiennent chacun huit ascospores lisses et elliptiques.",
-      stipe: "Le pied mesure 3–8 cm de hauteur et 2–4 cm d'épaisseur, blanchâtre, crème ou lavé de rosâtre, sillonné ou cannelé longitudinalement, creux avec des cavités irrégulières internes.",
-      flesh: "La chair est mince, cireuse, cassante et blanchâtre. L'odeur est agréable, fruitée ou fongique.",
-      sporePrint: "Blanc jaunâtre à chamois pâle. Les ascospores sont ellipsoïdes, lisses, mesurant environ 18–24 × 9–13 µm, pourvues de deux gouttelettes lipidiques.",
-      habitat: "Les sporophores apparaissent d'avril à juin dans les forêts de pins et de conifères de plaine ou de montagne, sur les sols sablonneux, les coupes de bois et les brûlis récents.",
-      uses: "Ce champignon est dangereux et mortellement toxique. Il contient de la gyromitrine, qui s'hydrolyse dans l'organisme en monométhylhydrazine (un composé hautement toxique pour le foie, le système nerveux et les reins). La cuisson ou le séchage ne détruit pas complètement les toxines, et les vapeurs dégagées lors de la cuisson sont elles-mêmes sévèrement toxiques.",
-      confusion: "Les vraies morilles (Morchella esculenta et autres Morchella) possèdent une mitre ornée d'alvéoles régulières bordées de côtes nettes et un pied entièrement creux en une cavité continue simple. La gyromitre géante (Gyromitra gigas) est plus massive, de couleur ocre plus clair et possède des spores pourvues d'appendices apiculés."
-    },
     it: {
       description: "Un ascomicete primaverile delle pinete su suoli sabbiosi. È diffuso nell'Europa settentrionale e orientale e nelle zone montane temperate.",
       cap: "Il cappello o mitra misura 5–15 cm di larghezza e 4–8 cm di altezza. È di colore bruno-rossastro o marrone castano, tipicamente lobato e ripiegato in convoluzioni sinuose che ricordano la superficie del cervello umano.",
@@ -11247,6 +11236,17 @@ export const CATALOG = [
       uses: "Halálosan mérgező. Giromitrint tartalmaz, amely a szervezetben monometil-hidrazinná bomlik le; ez a vegyület súlyos máj- és vesekárosodást, valamint idegrendszeri tüneteket okoz. A giromitrin és bomlástermékei főzés vagy szárítás után is veszélyes szinten maradhatnak, ráadásul a forralás során felszabaduló gőzök is mérgezőek belélegezve. Fogyasztása tilos.",
       confusion: "Az ízletes kucsmagomba (Morchella esculenta) süvege szabályos méhsejtszerű gödröcskékkel tagolt (nem agyvelőszerűen tekervényes), és ehető. A vörösbarna papsapkagomba (Gyromitra gigas) világosabb okkersárga süvegű és inkább hegyvidéki lombos erdőkben fordul elő.",
       notes: "Egyes északi országokban korábban többszöri kifőzéssel fogyasztották, de az eljárás bizonytalan és veszélyes."
+    },
+    fr: {
+      description: "Un champignon printanier des bois de conifères sablonneux. Il est répandu en Europe, où il est plus fréquent en montagne qu'en plaine, et il est également signalé à travers une grande partie de l'Amérique du Nord. En Grande-Bretagne et en Irlande, il est rarement observé et très localisé.",
+      cap: "Le chapeau mesure 5–15 cm de largeur et 4–8 cm de hauteur. Il est brun rouge, irrégulièrement lobé et ressemble assez à un cerveau, et il est habituellement plus large que haut. Les bords arrondis des plis laissent des cavités creuses irrégulières à l'intérieur du chapeau.",
+      hymenium: "La surface fertile tapisse l'extérieur du chapeau. Elle est lisse au début et devient profondément ridée et plissée. La marge est repliée et soudée au pied, et elle est rarement libre dans le jeune âge.",
+      stipe: "Le pied est blanc crème et fragile. Il mesure 2–5 cm de hauteur et 2–3 cm de largeur. Plusieurs cavités irrégulières tubulaires le parcourent intérieurement.",
+      flesh: "L'odeur et la saveur ne sont pas distinctives.",
+      sporePrint: "Chamois jaunâtre, également décrit comme blanchâtre. Les ascospores sont ellipsoïdales, lisses et hyalines, mesurant 18–23 µm de longueur et occasionnellement jusqu'à 25 µm, sur 10–12,5 µm de largeur, avec habituellement deux gouttes d'huile. Les asques sont cylindriques, à huit spores, mesurant 180–220 × 15–17 µm.",
+      habitat: "Les sporophores apparaissent d'avril jusqu'en juillet, et ils peuvent sortir à la fonte des neiges. Il pousse sur sol sablonneux dans les bois de conifères, le plus souvent sous les pins et parfois sous les trembles, et souvent là où le sol a été remanié.",
+      uses: "Il est mortellement toxique lorsqu'il est cru ou mal préparé. Il contient de la gyromitrine, qui s'hydrolyse dans l'organisme en un composé toxique, la monométhylhydrazine (MMH), endommageant le foie, le système nerveux central et les globules rouges. Bien que les sporophores aient été traditionnellement consommés en Scandinavie et en Europe orientale après des ébullitions répétées avec changement d'eau, l'ébullition n'élimine pas de manière fiable la totalité de la toxine, inhaler les vapeurs de cuisson peut en soi provoquer une intoxication, et la répétition des repas permet à la toxine de s'accumuler.",
+      confusion: "La morille commune (Morchella esculenta) possède un chapeau profondément alvéolé et une unique cavité continue, et son pied est généralement plus long. L'helvelle crépue (Helvella crispa) présente un chapeau en forme de selle blanc crème et un pied parcouru de cavités longitudinales. Gyromitra gigas, Gyromitra infula et Gyromitra ambigua sont similaires, et les deux dernières sont toxiques."
     }
     },
     sources: {
@@ -11602,23 +11602,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Gyromitra_esculenta"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/41344"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -11641,6 +11624,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Red%C5%91s_papsapkagomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Gyromitre"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/4880"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -11751,9 +11751,9 @@ export const CATALOG = [
       ru: "мухомор серо-розовый",
       uk: "мухомор сіро-рожевий",
       pl: "muchomor czerwieniejący",
-      fr: "amanite rougissante",
       it: "tignosa vinata",
-      hu: "piruló galóca"
+      hu: "piruló galóca",
+      fr: "amanite rougissante"
     },
     names: {
       en: ["blushing amanita"]
@@ -11763,8 +11763,8 @@ export const CATALOG = [
       ro: ['plopenchi'],
       bg: ['бисерка', 'перла'],
       ru: ["мухомор краснеющий"],
-      fr: ["golmotte"],
-      it: ["amanita rossiccia"]
+      it: ["amanita rossiccia"],
+      fr: ["golmotte"]
     },
     text: {
       tr: {
@@ -12039,18 +12039,6 @@ export const CATALOG = [
       confusion: "Śmiertelnie trujący muchomor plamisty (Amanita pantherina) ma miąższ niezmiennie biały, gładki pierścień, rynienkowatą bulwę i czysto białe łatki. Muchomor twardawy (Amanita excelsa) ma miąższ nieczerwieniejący i zapach rzodkwi. Zbieranie tego grzyba wymaga dużej wprawy z uwagi na niebezpieczeństwo pomyłki z muchomorami trującymi.",
       notes: "Jedna z form ma siarkowożółty pierścień."
     },
-    fr: {
-      description: "Un champignon ectomycorhizien commun. Largement répandu dans toute l'Europe continentale, en Grande-Bretagne et en Irlande ; les populations nord-américaines apparentées appartiennent à d'autres taxons distincts.",
-      cap: "Le chapeau mesure 6–18 cm de largeur, d'abord globuleux puis hémisphérique et enfin convexe à étalé. Il est brun rougeâtre, ocre carné ou beige rosé, parsemé de plaques floconneuses et verrues grisâtres ou rosâtres facilement détersiles. La marge est non striée.",
-      hymenium: "Les lames sont blanches, libres et serrées, se tachant lentement de rouge vineux ou de rouille aux blessures et avec l'âge.",
-      stipe: "Le pied mesure 8–20 cm de hauteur et 1,5–3 cm d'épaisseur, blanchâtre lavé de rose vineux, particulièrement vers la base bulbeuse qui est souvent véreuse. Il porte un large anneau membraneux blanc, pendant et distinctement strié sur sa face supérieure.",
-      flesh: "La chair est blanche, rougissant lentement mais nettement à la coupe ou au froissement, prenant des teintes lie-de-vin caractéristiques. L'odeur est insignifiante ; la saveur est douce avec un arrière-goût légèrement âcre.",
-      sporePrint: "Blanche. Les spores sont ellipsoïdes, lisses, mesurant environ 8–11 × 6–7 µm, et sont amyloïdes.",
-      habitat: "Les sporophores apparaissent de juin à novembre dans les bois de feuillus et de conifères, s'associant couramment au chêne, au hêtre, au bouleau, au pin et à l'épicéa, sur tous types de sols.",
-      uses: "C'est un bon champignon comestible après une cuisson complète et prolongée. Il est toxique à l'état cru car il renferme des hémolysines thermolabiles qui détruisent les globules rouges et sont détruites à une température supérieure à 70 °C.",
-      confusion: "L'amanite panthère (Amanita pantherina) est très toxique ; elle possède un chapeau brun à marge nettement striée, des verrues blanc pur, une chair totalement immuable qui ne rougit jamais et un anneau lisse non strié. L'amanite épaisse (Amanita excelsa var. spissa) a un anneau strié mais sa chair ne rougit pas et dégage une odeur caractéristique de rave.",
-      notes: "Une forme possède un anneau jaune soufre mais est par ailleurs identique."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi di latifoglie e conifere. È molto comune e abbondante in tutta Europa.",
       cap: "Il cappello misura 5–20 cm di diametro. È emisferico poi convesso e spianato, di colore bruno-rossiccio, vinato o nocciola, coperto da numerose verruche grigio-rosate o brunastre. Il margine è liscio e privo di striature.",
@@ -12074,6 +12062,18 @@ export const CATALOG = [
       uses: "Feltételesen ehető gomba. Nyersen mérgező, mert hőérzékeny hemolitikus toxint (rubeszcensz-lizint) tartalmaz, amely a vörösvértesteket bontja. Alapos hőkezelés (legalább 20 perces sütés vagy főzés) után jóízű, biztonságos csemegegomba.",
       confusion: "A párducgalóca (Amanita pantherina) halálosan mérgező, kalapszéle bordázott, húsa soha nem vörösödik, gumója élesen párkányos és gallérja sima. A szürke galóca (Amanita excelsa) nem pirul, gallérja bordás, szaga retekre emlékeztet.",
       notes: "Létezik egy kénsárga gallérú változata is, amely egyéb tulajdonságaiban megegyezik az alapfajjal."
+    },
+    fr: {
+      description: "Un champignon ectomycorhizien des forêts de feuillus et de conifères, poussant souvent en petits groupes sur des sols acides et pauvres. Il est très commun en Grande-Bretagne, en Irlande et en Europe continentale, et indigène en Europe et en Asie. En Afrique du Sud, on pense qu'il a été introduit avec des arbres plantés. Les signalements en Amérique du Nord sont traités comme d'autres espèces.",
+      cap: "Le chapeau mesure 5–20 cm de largeur, bien que certains chapeaux matures ne dépassent pas environ 2,5 cm. Sa couleur varie du presque blanc au rose et au brun jusqu'au presque noir, et elle est souvent rose brunâtre. Des fragments irréguliers, blanc cassé ou gris, du voile universel subsistent généralement sur la surface, mais de fortes pluies peuvent les éliminer. Le chapeau commence hémisphérique puis s'aplatit, devenant parfois légèrement en forme d'entonnoir.",
+      hymenium: "Les lames sont blanches, serrées et adnées à presque libres. Sur un sporophore adulte, elles sont souvent tachées de rose ou de rouge rouille, et virent au rose ou au rouge terne lorsqu'elles sont manipulées.",
+      stipe: "Le pied mesure 7–15 cm de hauteur et 1–2 cm d'épaisseur. Il est blanc au-dessus de l'anneau et brun rougeâtre en dessous, souvent marqué de mouchetures rose soutenu. Un anneau pendant mince et fragile est généralement strié et souvent lacéré. La base est renflée en bulbe. Une volve distincte n'apparaît que sur les très jeunes sporophores et ne laisse pas de bourrelets autour de la base. Le pied devient creux avec l'âge.",
+      flesh: "La chair est blanche. La chair coupée ou froissée du chapeau et du pied vire au rose profond ou au rouge terne. Un sporophore frais ne possède ni odeur ni saveur distinctives. Un vieux sporophore véreux peut dégager une odeur désagréable.",
+      sporePrint: "Blanche. Les spores sont lisses, largement ellipsoïdales à ovoïdes, mesurant 8–9 × 5–5,5 µm, et virent au bleu-noir dans l'iode.",
+      habitat: "Les sporophores apparaissent de juin à octobre en Grande-Bretagne et en Irlande, et lors de périodes douces jusqu'en décembre. Il pousse avec des feuillus et des conifères et se montre particulièrement abondant dans les bois de conifères.",
+      uses: "Il ne se consomme qu'après une cuisson approfondie. La chair crue contient une toxine hémolytique thermolabile qui peut provoquer une anémie, et une cuisson complète détruit cette toxine. Les sporophores ressemblent à des amanites vénéneuses.",
+      confusion: "L'amanite épaisse (Amanita excelsa) possède une chair qui ne change pas de couleur à la coupe, et beaucoup de ses sporophores ressemblent par ailleurs à une forme pâle de ce champignon. L'amanite panthère (Amanita pantherina) a un chapeau brun orné de fragments de voile d'un blanc pur, une volve à rebord régulier en bourrelet et une chair qui ne rougit pas. Une amanite tue-mouches (Amanita muscaria) délavée peut être brun orangé ou jaune pâle, avec des fragments de voile blancs et une chair immuable. L'oronge ou amanite des Césars (Amanita caesarea) possède un chapeau orange éclatant à marge striée et un pied jaune, et ne se rencontre que rarement en dehors du sud de l'Europe.",
+      notes: "Une forme possède un anneau jaune soufre et est par ailleurs identique."
     }
     },
     sources: {
@@ -12411,23 +12411,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Amanite_rougissante"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/3706"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -12450,6 +12433,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Pirul%C3%B3_gal%C3%B3ca"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Amanite_rougissante"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/3705"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -12564,9 +12564,9 @@ export const CATALOG = [
       ru: "ложноопёнок серно-жёлтый",
       uk: "опеньок несправжній сірчано-жовтий",
       pl: "maślanka wiązkowa",
-      fr: "hypholome en touffes",
       it: "falso chiodino",
-      hu: "sárga kénvirággomba"
+      hu: "sárga kénvirággomba",
+      fr: "hypholome en touffes"
     },
     names: {
       en: ["sulfur tuft", "clustered woodlover"]
@@ -12576,8 +12576,8 @@ export const CATALOG = [
       sv: ['gyttrad svavelskivling'],
       bg: ['лъжлива пънчушка'],
       ru: ["ложноопёнок серножёлтый"],
-      fr: ["hypholome fasciculé"],
-      it: ["ifoloma fascicolato"]
+      it: ["ifoloma fascicolato"],
+      fr: ["hypholome fasciculé"]
     },
     text: {
       tr: {
@@ -12844,17 +12844,6 @@ export const CATALOG = [
       uses: "Grzyb trujący z powodu silnej goryczy oraz zawartości toksyn powodujących zapalenie żołądka i jelit. Spożycie wywołuje nudności, wymioty, biegunkę, osłabienie i zaburzenia widzenia.",
       confusion: "Maślanka ceglasta (Hypholoma lateritium) ma kapelusz ceglastoczerwony i rośnie zazwyczaj na drewnie drzew liściastych. Maślanka łagodna (Hypholoma capnoides) rośnie na drewnie iglastym, ma blaszki szaroniebieskawe (bez zielonkawego odcienia) i łagodny, przyjemny smak (jest jadalna). Łuskwiak zmienny (Kuehneromyces mutabilis) ma brązowy, łuskowaty trzon poniżej pierścienia i cynamonowobrązowe blaszki."
     },
-    fr: {
-      description: "Un champignon lignicole saprotrophe très commun formant de denses touffes cespiteuses. Répandu dans toute l'Europe, en Amérique du Nord et en Asie tempérée.",
-      cap: "Le chapeau mesure 2–6 cm de largeur, convexe puis étalé avec un mamelon central obtus. Il est jaune soufre à jaune verdâtre vif, avec le centre orangé à brun fauve et la marge plus pâle, garnie de fins débris cortiniformes fugaces.",
-      hymenium: "Les lames sont serrées, étroites et adnées, d'une couleur soufre caractéristique au départ, puis jaune-vert et enfin gris olivâtre à brun pourpré foncé à mesure que les spores mûrissent.",
-      stipe: "Le pied mesure 4–10 cm de hauteur et 3–7 mm d'épaisseur, courbé et sinueux en raison de la croissance en touffes serrées, jaune soufre au sommet et brunissant vers la base. Il ne porte pas de véritable anneau mais une zone cortiniforme noirâtre fugace.",
-      flesh: "La chair est mince, jaune soufre à jaune verdâtre. L'odeur est désagréable et fongique ; la saveur est extrêmement et durablement amère.",
-      sporePrint: "Brun pourpré foncé à violacé noirâtre. Les spores sont lisses, ellipsoïdes avec un pore germinatif, mesurant environ 6–8 × 4–4,5 µm.",
-      habitat: "Les sporophores apparaissent presque toute l'année, principalement d'avril à décembre, en denses touffes sur les souches, les racines et le bois mort de feuillus et de conifères.",
-      uses: "Ce champignon est toxique et immangeable en raison de son amertume intense. Il provoque un syndrome gastro-intestinal sévère avec nausées, vomissements et diarrhées intenses, attribué à des fasciculols toxiques.",
-      confusion: "La pholiote changeante (Kuehneromyces mutabilis) est un comestible estimé à chapeau hygrophane, lames brun cannelle et pied squamuleux sous l'anneau. L'hypholome couleur de brique (Hypholoma lateritium) a un chapeau plus grand, rouge brique, et est également amer. L'hypholome à lames enfumées (Hypholoma capnoides) pousse sur conifères, possède des lames gris violacé sans teinte jaune verdâtre et une saveur douce."
-    },
     it: {
       description: "Un fungo saprotrofo lignicolo che cresce in fitti cespi su ceppaie, tronchi morti e radici di latifoglie e conifere. È uno dei funghi boschivi più comuni in Europa.",
       cap: "Il cappello misura 2–7 cm di diametro. È convesso poi appianato, di colore giallo zolfo brillante con centro fulvo-aranciato, con residui fibrillosi di cortina al bordo da giovane.",
@@ -12877,6 +12866,17 @@ export const CATALOG = [
       uses: "Mérgező. Faszikulinokat tartalmaz, amelyek súlyos gyomor- és bélrendszeri gyulladást okoznak hányással, hasmenéssel és kiszáradással. Rendkívül keserű íze miatt étkezésre teljesen alkalmatlan.",
       confusion: "A téglavörös kénvirággomba (Hypholoma lateritium) kalapja nagyobb, élénk téglavörös színű és húsa kevésbé keserű. Az ízletes tőkegomba (Kuehneromyces mutabilis) ehető, kalapja higrofán sárgásbarna, lemezei fahéjbarna színűek (nem zöldesek) és tönkje a gallér alatt pikkelyes.",
       notes: "A gomba méreganyagai a májra és a vesére is káros hatással lehetnek súlyos mérgezés esetén."
+    },
+    fr: {
+      description: "Un champignon lignicole poussant en touffes denses sur les souches et les troncs tombés. Il est très commun en Grande-Bretagne, en Irlande et dans la majeure partie de l'Europe continentale, en particulier dans le nord et le centre. Il est également commun en Amérique du Nord, et il est signalé en Iran et en Anatolie orientale.",
+      cap: "Le chapeau mesure 2–7 cm de largeur. Il est jaune soufre, souvent teinté de roux au centre, et convexe ou légèrement mamelonné. Des restes vélaires sombres adhèrent à la marge.",
+      hymenium: "Les lames sont serrées et adnées. Elles sont d'abord jaune soufre, puis vert olive, et noircissent à mesure que les spores mûrissent.",
+      stipe: "Le pied est plus ou moins de la couleur du chapeau, et plus brun vers la base. Il mesure 5–12 cm de hauteur et 0,5–1 cm d'épaisseur, et il est généralement courbé.",
+      flesh: "La chair du chapeau est jaune soufre et assez ferme. L'odeur est fongique et sans caractère particulier. La saveur est très amère.",
+      sporePrint: "Brun violacé. Les spores sont ellipsoïdales et lisses, mesurant 6–7,8 × 4–4,5 µm, pourvues d'un petit pore germinatif.",
+      habitat: "Les sporophores apparaissent tout au long de l'année et se montrent particulièrement abondants de juin à novembre. Il pousse sur les souches, les troncs abattus et autres bois morts de feuillus, et moins fréquemment de conifères. Les touffes qui semblent pousser dans l'herbe sont en réalité fixées sur du bois enfoui. Il fructifie parfois sur le tronc creux d'un arbre vivant.",
+      uses: "La saveur est très amère. Un repas peut provoquer des douleurs d'estomac, des nausées, des vomissements, de la diarrhée, une paralysie temporaire et des troubles de la vision, généralement cinq à dix heures plus tard. L'intoxication disparaît habituellement en quelques jours et n'est que très rarement mortelle. Un cas mortel rapporté faisait suite à un repas qui contenait également d'autres champignons.",
+      confusion: "L'hypholome couleur de brique (Hypholoma lateritium) possède un chapeau rouge brique et ses lames jaunes virent au brun olivâtre plutôt qu'au vert olive. L'hypholome à lames enfumées (Hypholoma capnoides) pousse sur le bois de conifères, a une chair à saveur douce et présente des lames gris fumée pâle sans aucune teinte verte."
     }
     },
     sources: {
@@ -13207,23 +13207,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Hypholome_en_touffes"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/32832"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -13246,6 +13229,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/S%C3%A1rga_k%C3%A9nvir%C3%A1ggomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Hypholome_en_touffe"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/3953"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -13370,9 +13370,9 @@ export const CATALOG = [
       ru: "шампиньон обыкновенный",
       uk: "печериця лугова",
       pl: "pieczarka łąkowa",
-      fr: "agaric champêtre",
       it: "prataiolo comune",
-      hu: "mezei csiperke"
+      hu: "mezei csiperke",
+      fr: "agaric champêtre"
     },
     names: {
       en: ["meadow mushroom", "pink bottom"],
@@ -13406,9 +13406,9 @@ export const CATALOG = [
       ru: ["печерица","шампиньон луговой"],
       uk: ["печериця звичайна"],
       pl: ["pieczarka polna"],
-      fr: ["rosé-des-prés"],
       it: ["prataiolo"],
-      hu: ["kerti csiperke"]
+      hu: ["kerti csiperke"],
+      fr: ["rosé-des-prés"]
     },
     text: {
       tr: {
@@ -13684,18 +13684,6 @@ export const CATALOG = [
       confusion: "Pieczarka karbolowa (Agaricus xanthodermus) jest trująca; żółknie intensywnie po zadrapaniu (zwłaszcza w bulwie trzonu) i wydziela ostry zapach karbolu (atramentu/apteki). Śmiertelnie trujące białe muchomory (Amanita phalloides var. alba, Amanita virosa, Amanita verna) mają blaszki niezmiennie czysto białe, trwałą pochwę u podstawy trzonu i biały wysyp zarodników.",
       notes: "Kolekcje sekwencjonowane w Ameryce Północnej wykazują obecność bliskich gatunków siostrzanych."
     },
-    fr: {
-      description: "Un champignon saprotrophe commun des prairies. Largement répandu dans toute l'Europe, en Amérique du Nord, en Asie et en Afrique du Nord.",
-      cap: "Le chapeau mesure 4–10 cm de largeur, d'abord hémisphérique puis convexe et s'aplanissant. Il est blanc pur à crème ou chamois grisâtre pâle, soyeux ou parsemé de fines fibrilles écailleuses. La cuticule dépasse légèrement la marge.",
-      hymenium: "Les lames sont libres, très serrées et larges, d'abord d'un rose saumon vif caractéristique, puis brunissant et devenant brun chocolat foncé à maturité.",
-      stipe: "Le pied mesure 3–8 cm de hauteur et 1–2 cm d'épaisseur, blanc, cylindrique et souvent atténué ou en pointe à la base. Il porte un petit anneau blanc simple, membraneux et très fugace.",
-      flesh: "La chair est blanche, ferme puis tendre, ne jaunissant pas ou ne prenant qu'une nuance très faiblement rosée à la coupe. L'odeur et la saveur sont agréablement fongiques.",
-      sporePrint: "Brun chocolat foncé à sépia. Les spores sont largement ellipsoïdes, lisses, mesurant environ 6,5–8 × 4,5–5,5 µm.",
-      habitat: "Les sporophores apparaissent de juin à novembre, particulièrement en fin d'été et en automne après de fortes pluies, en troupes ou en cercles de sorcières dans les prairies pâturées, les pelouses et les parcs.",
-      uses: "C'est un excellent comestible très recherché, le véritable rosé-des-prés traditionnel, savoureux en poêlées, sauces ou cru en salade.",
-      confusion: "L'agaric jaunissant (Agaricus xanthodermus) est toxique et se reconnaît immédiatement à son jaunissement jaune chrome vif à la base du pied et à sa forte odeur d'encre ou d'iode. L'amanite phalloïde (Amanita phalloides) et les amanites blanches mortelles possèdent des lames constamment blanches et une volve membraneuse en sac à la base.",
-      notes: "Une évaluation de 2018 (publiée en 2019, avec un erratum en 2022) le classe en préoccupation mineure (Least Concern). Des extraits aqueux ont montré une activité de type insuline sur le métabolisme du glucose in vitro."
-    },
     it: {
       description: "Un fungo saprotrofo dei pascoli, prati concimati, giardini ed erbai. È ampiamente diffuso in Europa, Asia e Nord America.",
       cap: "Il cappello misura 3–10 cm di diametro, bianco o crema pallido, emisferico poi convesso e spianato, a superficie liscia o leggermente fibrilloso-squamosa col secco.",
@@ -13719,6 +13707,18 @@ export const CATALOG = [
       uses: "Kiváló csemegegomba, a vadon termő csiperkék közül a legismertebb és legkedveltebb. Levesekben, szószokban, rántva vagy pirítva remek fogás.",
       confusion: "A halálosan mérgező gyilkos galóca (Amanita phalloides) és a fehér galóca (Amanita verna) lemezei mindig hófehérek maradnak és tövükön jól látható bocskor található. A mérgező karbolszagú csiperke (Agaricus xanthodermus) tönk tövében és kalapszélén érintésre azonnal krómsárgára sárgul, és kellemetlen karbol- (tintaszerű) szagú.",
       notes: "Egy 2018-as felmérés szerint a nem veszélyeztetett (Least Concern) kategóriába tartozik. Vizes kivonatai in vitro vizsgálatokban inzulinszerű hatást mutattak a glükóz-anyagcserére."
+    },
+    fr: {
+      description: "Un champignon saprotrophe des prairies pâturées, des pelouses et d'autres milieux herbeux, rarement rencontré en forêt. Il est largement répandu et commun en Grande-Bretagne, en Irlande et dans la majeure partie de l'Europe. Il est également signalé en Afrique du Nord et australe, en Asie, en Amérique du Nord, en Australie et en Nouvelle-Zélande.",
+      cap: "Le chapeau mesure 3–10 cm de largeur, blanc à blanc crème, d'abord convexe à largement convexe puis s'aplatissant avec l'âge. La surface est lisse et brillante à finement soyeuse, se déchirant parfois en petites écailles brunâtres ou fibrilleuses, et la marge reste généralement infléchie ou légèrement enroulée avec des lambeaux du voile partiel.",
+      hymenium: "Les lames sont libres et serrées, avec de nombreuses lamellules. Recouvertes au stade de bouton par un mince voile partiel blanc, elles sont d'abord rose vif, puis deviennent brun chocolat et finalement presque noires. Les cheilocystides et les pleurocystides sont absentes.",
+      stipe: "Le pied mesure 3–10 cm de hauteur et 1–2 cm d'épaisseur, à peu près aussi long que le chapeau est large, blanc, et cylindrique ou atténué vers la base. Il est lisse au-dessus de l'anneau blanc mince et éphémère et finement fibrilleux en dessous, et ne jaunit pas au froissement ni à la coupe. Un sporophore complètement épanoui ne conserve souvent que de faibles traces de l'anneau affaissé.",
+      flesh: "La chair est épaisse, ferme et blanche, virant parfois faiblement au rose à la coupe, et ne jaunissant jamais. L'odeur et la saveur sont douces et agréables, semblables à celles du champignon de Paris cultivé.",
+      sporePrint: "Brun chocolat foncé. Les spores sont ovoïdes à ellipsoïdales et lisses, mesurant 6,5–9 × 4–6 µm.",
+      habitat: "Les sporophores apparaissent de juin à octobre. Ils émergent après la pluie, isolés, en petits groupes ou en ronds de sorcières, dans les pâturages, les terrains de sport, les parcs et les pelouses.",
+      uses: "C'est un excellent champignon comestible lorsqu'il est cuit et consommé avec modération. Il s'utilise de la même manière que le champignon de Paris de culture, sauté ou poêlé, en risotto, en omelettes, en soupes et en sauces. Parce que les sporophores mûrissent vite et ont une courte durée de conservation, l'espèce n'est pas cultivée commercialement. Les spécimens récoltés le long des routes fréquentées doivent être évités car ils bioaccumulent les métaux lourds et les polluants. Historiquement, dans certaines régions d'Écosse, des tranches étaient appliquées en cataplasme sur les échaudures, les brûlures et les ulcères.",
+      confusion: "L'agaric jaunissant (Agaricus xanthodermus) jaunit intensément en jaune chrome brillant sur la cuticule du chapeau et surtout à la base du pied à la coupe, dégage une odeur de phénol ou d'encre et provoque des intoxications gastro-intestinales. L'agaric des jachères ou boule-de-neige (Agaricus arvensis) est plus grand, jaunit faiblement au froissement, sent l'anis et est comestible. L'agaric des trottoirs (Agaricus bitorquis) possède un anneau double et pousse sur sol compacté le long des chemins. Les mortelles amanite vireuse (Amanita virosa), amanite printanière (Amanita verna) et formes blanches de l'amanite phalloïde (Amanita phalloides) possèdent une volve en sac à la base, des lames durablement blanches et une sporée blanche. Des espèces toxiques de clitocybes blancs (Clitocybe) poussant dans l'herbe possèdent des lames blanches décurrentes. En Amérique du Nord, les espèces toxiques agaric de Californie (Agaricus californicus) et agaric de Felt (Agaricus hondensis), ainsi que les espèces comestibles agaric d'Andrew (Agaricus andrewii) et agaric à pied plein (Agaricus solidipes), sont similaires.",
+      notes: "Les récoltes séquencées à l'est des montagnes Rocheuses appartiennent à des espèces apparentées, et dans l'ouest de l'Amérique du Nord, le nom est appliqué provisoirement. Une évaluation de 2018 (publiée en 2019, avec un erratum en 2022) le classe comme préoccupation mineure (Least Concern). Des extraits aqueux ont montré une activité de type insuline sur le métabolisme du glucose in vitro."
     }
     },
     sources: {
@@ -14078,23 +14078,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Agaric_champ%C3%Aatre"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/34948"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -14117,6 +14100,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Mezei_csiperke"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Agaric_champ%C3%AAtre"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/3653"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -14236,9 +14236,9 @@ export const CATALOG = [
       ru: "подберёзовик обыкновенный",
       uk: "підберезовик",
       pl: "koźlarz babka",
-      fr: "bolet rude",
       it: "leccino",
-      hu: "barna érdestinóru"
+      hu: "barna érdestinóru",
+      fr: "bolet rude"
     },
     names: {
       en: ["birch bolete", "rough-stemmed bolete", "scaber stalk"],
@@ -14519,17 +14519,6 @@ export const CATALOG = [
       uses: "Smaczny grzyb jadalny po ugotowaniu, choć miąższ kapelusza szybko mięknie podczas gotowania. Zwykle suszy się go lub dodaje do dań duszonych i zup. Trzony starszych okazów bywają zbyt włókniste.",
       confusion: "Inne gatunki koźlarzy związane z brzozami są podobne: koźlarz różowiejący (Leccinum roseofractum) ma miąższ silnie różowiący na przekroju, a koźlarz czarnobrązowy (Leccinum melaneum) ma znacznie ciemniejszy kapelusz. Goryczak żółciowy (Tylopilus felleus) ma ciemną siateczkę na trzonie zamiast łuseczek, różowiejące pory i jest bardzo gorzki."
     },
-    fr: {
-      description: "Un champignon ectomycorhizien spécifique des bouleaux. Présent dans toute l'Europe boréale et tempérée, en Asie du Nord et en Amérique du Nord.",
-      cap: "Le chapeau mesure 5–15 cm de largeur, hémisphérique puis convexe à étalé. Il est brun noisette, brun grisâtre ou bistre, lisse et mat, devenant légèrement visqueux par temps humide. La cuticule ne dépasse pas la marge.",
-      hymenium: "Les tubes sont longs et échancrés autour du pied. Les pores sont petits et ronds, d'abord blanchâtres puis crème grisâtre et brunissant au froissement.",
-      stipe: "Le pied mesure 7–18 cm de hauteur et 1,5–3 cm d'épaisseur, élancé, atténué vers le haut. Il est blanc grisâtre, entièrement couvert de petites méchules ou squamules rugueuses brunes puis noirâtres disposées en lignes longitudinales.",
-      flesh: "La chair est blanche, tendre dans le chapeau et fibreuse dans le pied, restant immuable ou rosissant très discrètement à la coupe sans noircir. L'odeur est faible ; la saveur est douce.",
-      sporePrint: "Brun cannelle ou brun tabac. Les spores sont allongées fusiformes, lisses, mesurant environ 14–19 × 5–6,5 µm.",
-      habitat: "Les sporophores apparaissent de juillet à novembre. Il pousse exclusivement sous les bouleaux (Betula), dans les bois, les tourbières et les landes.",
-      uses: "C'est un champignon comestible convenable à condition d'éliminer le pied trop dur et fibreux et de bien le cuire. Il est recommandé de ne cueillir que les jeunes chapeaux fermes.",
-      confusion: "Le bolet rude des peupliers (Leccinum duriusculum) possède une chair très ferme qui noircit à la coupe et pousse sous les peupliers trembles. Le bolet orangé (Leccinum aurantiacum) présente un chapeau orange vif et des méchules devenant rousses puis noires. Le bolet de fiel (Tylopilus felleus) a un réseau saillant sur le pied et une amertume intense."
-    },
     it: {
       description: "Un fungo ectomicorrizico strettamente legato alla betulla. È comune nei boschi e nei parchi di tutta l'Europa centrale e settentrionale.",
       cap: "Il cappello misura 5–15 cm di diametro. È emisferico poi convesso e appianato a cuscinetto. La cuticola è liscia, opaca, di colore bruno-grigiastro o bruno-fuliggine.",
@@ -14552,6 +14541,17 @@ export const CATALOG = [
       uses: "Ehető gomba, de csak fiatalon érdemes szedni, mert a kalap hamar elpuhul, a tönk pedig szívós, fás állagú. Hőkezelés során a húsa megfeketedik, ami természetes jelenség. Nyersen nem fogyasztható.",
       confusion: "A többi érdestinóru faj – például a kormostönkű érdestinóru (Leccinum versipelle) vagy a tölgyfa-érdestinóru (Leccinum aurantiacum) – narancsos vagy vöröses kalapú és húsuk elvágva lilásszürkére vagy feketére színeződik. Az epeízű tinóru (Tylopilus felleus) tönkje hálózatos és húsa nagyon keserű.",
       notes: "A nyírfákkal való szoros szimbiózisa miatt fátlan területeken soha nem jelenik meg."
+    },
+    fr: {
+      description: "Un champignon ectomycorhizien des bois de bouleaux, y compris auprès des bouleaux plantés. Il est fréquent en Grande-Bretagne et en Irlande et commun dans toute l'Europe continentale, de la Scandinavie à la Méditerranée et à la péninsule Ibérique. Il est très commun en Amérique du Nord, signalé dans l'Himalaya et introduit en Australie et en Nouvelle-Zélande.",
+      cap: "Le chapeau mesure 5–15 cm de largeur. Il est d'abord hémisphérique, puis convexe ou en coussinet, et s'aplatit avec l'âge, souvent avec une marge ondulée. La surface est finement veloutée dans le jeune âge puis plus lisse par la suite, sèche par temps clair et devenant visqueuse sous la pluie, dans des tons de gris-brun à brun jaunâtre ou brun rougeâtre. Une forme très pâle, presque blanche, apparaît rarement.",
+      hymenium: "Les tubes mesurent 1–2 cm de longueur et sont profondément déprimés autour du pied. Les pores sont petits et circulaires, blanc cassé dans le jeune âge et devenant gris terne ou gris brunâtre avec l'âge. Au froissement, les pores se teintent lentement de brunâtre plutôt que de bleu.",
+      stipe: "Le pied mesure 7–20 cm de longueur et 1,5–3,5 cm d'épaisseur, en forme de tonneau dans le jeune âge puis étroitement en massue, atténué vers le haut, sans anneau. La surface est blanche à grisâtre, couverte de squamules laineuses (scabres) brun foncé à noires disposées en lignes longitudinales grossières qui deviennent plus épaisses vers la base.",
+      flesh: "La chair est blanchâtre, ferme chez les jeunes boutons, et devient rapidement molle, spongieuse et gorgée d'eau par temps humide. La chair coupée reste blanche ou prend une très faible nuance rosâtre, sans jamais bleuir ; elle devient gris foncé à noire à la cuisson. L'odeur et la saveur sont douces et agréables.",
+      sporePrint: "Brun olivâtre à brun tabac. Les spores sont étroitement ellipsoïdales à subfusiformes et lisses, mesurant environ 14–20 × 4,5–5,5 µm.",
+      habitat: "Les sporophores apparaissent de juin à novembre. Ils poussent sur le sol exclusivement sous les bouleaux, notamment le bouleau verruqueux (Betula pendula) et le bouleau pubescent (Betula pubescens), dans les forêts, les landes et les parcs, ainsi que sous les bouleaux ornementaux plantés en Amérique du Nord, en Australie et en Nouvelle-Zélande.",
+      uses: "Les sporophores jeunes et fermes sont comestibles après une cuisson approfondie, bien que la chair soit plus molle que celle du cèpe de Bordeaux (Boletus edulis) et que certains guides jugent sa consistance médiocre. Il s'utilise dans des plats de champignons mélangés, des soupes, ou séché, et en Finlande et en Russie, il est souvent conservé au vinaigre ou en saumure. Comme toutes les espèces du genre Leccinum, il ne doit jamais être consommé cru.",
+      confusion: "Plusieurs autres espèces du genre Leccinum associées aux bouleaux sont similaires : le bolet à base bleuissante (Leccinum cyaneobasileucum) a une chair qui vire au bleu à la base du pied ; le bolet orangé (Leccinum versipelle) a un chapeau orange ocré, des méchules noirâtres et une chair qui prend des teintes bleu-vert ou gris violacé au froissement ; le bolet blanc des marais (Leccinum holopus) est entièrement blanchâtre à chamois verdâtre pâle ; le bolet ramoneur (Leccinum variicolor) possède un chapeau marbré et une base de pied qui vire au bleu-vert et au rouge corail ; et le bolet rude noir (Leccinum melaneum) possède un chapeau brun très sombre à noirâtre. Le bolet rude des peupliers (Leccinum duriusculum) a une chair plus ferme et pousse sous les peupliers et les trembles. Toutes les espèces de Leccinum peuvent causer des troubles gastro-intestinaux si elles sont consommées crues ou pas assez cuites."
     }
     },
     sources: {
@@ -14908,23 +14908,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Bolet_rude"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/44810"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -14947,6 +14930,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Barna_%C3%A9rdestin%C3%B3ru"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Bolet_rude"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/3983"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -15064,9 +15064,9 @@ export const CATALOG = [
       ru: "маслёнок обыкновенный",
       uk: "маслюк звичайний",
       pl: "maślak zwyczajny",
-      fr: "bolet jaune",
       it: "pinarolo",
-      hu: "barna gyűrűstinóru"
+      hu: "barna gyűrűstinóru",
+      fr: "bolet jaune"
     },
     names: {
       en: ["sticky bun", "pine boletus"],
@@ -15121,9 +15121,9 @@ export const CATALOG = [
       ro: ['untișor'],
       bg: ['обикновена масловка'],
       ru: ["маслёнок поздний","маслёнок настоящий"],
-      fr: ["nonnette voilée"],
       it: ["pinaiolo","bavoso"],
-      hu: ["barna vajgomba","barnagyűrűs fenyőtinóru"]
+      hu: ["barna vajgomba","barnagyűrűs fenyőtinóru"],
+      fr: ["nonnette voilée"]
     },
     text: {
       tr: {
@@ -15399,18 +15399,6 @@ export const CATALOG = [
       confusion: "Maślak ziarnisty (Suillus granulatus) rośnie również pod sosnami, lecz nie ma pierścienia na trzonie. Maślak pstry (Suillus variegatus) ma suchy, drobnoziarnisty kapelusz i miąższ słabo błękitniejący po przekrojeniu. Maślak modrzewiowy (Suillus grevillei) rośnie wyłącznie pod modrzewiami i ma jaskrawożółty do złocistopomarańczowego kapelusz.",
       notes: "Ocena z 2019 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern)."
     },
-    fr: {
-      description: "Un champignon ectomycorhizien inféodé aux pins. Commun dans toute l'Europe, en Amérique du Nord et introduit dans les plantations de pins de l'hémisphère sud.",
-      cap: "Le chapeau mesure 5–12 cm de largeur, d'abord conique-convexe puis largement convexe. Il est brun chocolat, brun ochracé ou brun marron, recouvert d'une cuticule très gluante et gélatineuse par temps humide, facilement pelable.",
-      hymenium: "Les tubes mesurent 4–8 mm de longueur. Les pores sont petits, réguliers, jaune pâle puis jaune vif et enfin jaune olivâtre à maturité, ne bleuissant pas au froissement.",
-      stipe: "Le pied mesure 4–8 cm de hauteur et 1–2,5 cm d'épaisseur, cylindrique, blanchâtre à jaune pâle, orné de ponctuations brunes au sommet. Il porte un anneau membraneux blanc violacé persistant qui dérive du voile partiel.",
-      flesh: "La chair est tendre, blanchâtre dans le chapeau et jaune pâle dans le pied, immuable à la coupe. L'odeur est agréablement fruitée ; la saveur est douce.",
-      sporePrint: "Brun ocre à cannelle. Les spores sont ellipsoïdes à subfusiformes, lisses, mesurant environ 7–10 × 3–3,5 µm.",
-      habitat: "Les sporophores apparaissent d'août à novembre, parfois dès juin, sous les pins (Pinus sylvestris, Pinus nigra) dans les bois clairs, les lisières et les plantations sur sols sableux.",
-      uses: "C'est un bon comestible à condition de retirer la cuticule gluante qui est fortement laxative, et de rejeter les sporophores trop gorgés d'eau.",
-      confusion: "Le bolet granulé (Suillus granulatus) ne possède pas d'anneau et porte des granulations blanchâtres puis brunes au sommet du pied. Le bolet élégant (Suillus grevillei) est inféodé aux mélèzes et possède un chapeau jaune orangé éclatant.",
-      notes: "Une évaluation de 2018 le classe en préoccupation mineure (Least Concern)."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi e delle piantagioni di pino a due aghi (Pinus sylvestris e Pinus nigra). È comune in Europa, Asia e introdotto nell'emisfero australe.",
       cap: "Il cappello misura 4–10 cm di diametro, raramente fino a 15 cm. È convesso poi appianato, ricoperto da una cuticola bruno-cioccolato o bruno-fulva molto glutinosa e viscosa a tempo umido, facilmente separabile.",
@@ -15434,6 +15422,18 @@ export const CATALOG = [
       uses: "Jóízű ehető gomba. Felhasználás előtt a kalap nyálkás bőrét célszerű lehúzni, mert érzékeny embereknél hasmenést okozhat és az ételt elnyálkásítja.",
       confusion: "A szemcséstönkű fenyőtinóru (Suillus granulatus) hasonló élőhelyen nő, de kalapja világosabb és nincs gallérja a tönkön. A barna tinóru (Imleria badia) tönkje nem galléros és pórusai nyomásra kékülnek.",
       notes: "Egy 2018-as felmérés szerint a nem veszélyeztetett (Least Concern) kategóriába tartozik."
+    },
+    fr: {
+      description: "Un champignon ectomycorhizien des pinèdes et des plantations de pins. Les sporophores apparaissent souvent en grand nombre. Il est indigène à travers toute l'Eurasie, de l'Irlande à la Corée, et a été introduit avec les pins en Amérique du Nord et du Sud, en Afrique australe, en Australie et en Nouvelle-Zélande. Il est commun en Grande-Bretagne et en Irlande.",
+      cap: "Le chapeau mesure généralement 4–10 cm de largeur, atteignant rarement 20 cm. Il est d'abord conique à hémisphérique, puis convexe, et plus tard largement convexe à presque plat, parfois muni d'un mamelon peu saillant. La couleur est brun châtain foncé, brun rougeâtre ou brun chocolat, pâlissant en brun jaunâtre ou fauve terne, et souvent striée radialement. Il est recouvert d'une épaisse couche de mucus à l'état humide, devenant brillant au sec, et la cuticule se pèle facilement. Chez les jeunes sporophores, des lambeaux du voile partiel pendent souvent de la marge.",
+      hymenium: "Les tubes mesurent 3–10 mm de profondeur, sont adnés à légèrement décurrents, et se séparent facilement de la chair du chapeau. Recouverts au début par un voile partiel membraneux blanchâtre, les pores sont petits (environ 2–3 par millimètre), ronds à anguleux, jaune citron dans le jeune âge et fonçant en jaune olive ou jaune brunâtre avec le temps. Ils ne bleuissent pas au froissement.",
+      stipe: "Le pied mesure 3–10 cm de hauteur et 1,5–3 cm d'épaisseur, cylindrique ou légèrement renflé à la base, avec un mycélium basal blanc. Un voile partiel membraneux laisse un anneau pendant proéminent, blanchâtre au-dessus et brun foncé à violacé ou violet en dessous, s'affaissant souvent contre le pied avec l'âge. Au-dessus de l'anneau, la surface jaune pâle est ponctuée de granulations glandulaires cannelle à brun foncé ; sous l'anneau, le pied est d'un blanc terne à brunâtre et souvent visqueux.",
+      flesh: "La chair est blanche à jaune citron pâle, immuable à la coupe, et molle et spongieuse à maturité. L'odeur est faible et fruitée, et la saveur est douce et agréable.",
+      sporePrint: "Ocre à brun argile ou brun cannelle. Les spores sont ellipsoïdales allongées à subfusiformes et lisses, mesurant 7–10,5 × 2,5–3,5 µm.",
+      habitat: "Les sporophores apparaissent principalement à la fin de l'été et en automne (d'août à novembre en Grande-Bretagne et en Irlande), et après des périodes humides au printemps ou en hiver dans les climats plus chauds et les plantations de pins de l'hémisphère sud. Ils poussent de manière grégaire, souvent en grandes troupes ou en ronds, sous les pins, en particulier les espèces à deux aiguilles telles que le pin sylvestre (Pinus sylvestris) et le pin noir d'Autriche (Pinus nigra).",
+      uses: "C'est un bon champignon comestible après une cuisson approfondie. Il s'utilise dans les soupes, les ragoûts et les poêlées, mariné au vinaigre ou séché. Parce que l'épaisse cuticule glutineuse du chapeau devient visqueuse à la cuisson et peut provoquer des indigestions, la peau du chapeau (ainsi que la couche de tubes des spécimens âgés) doit être pelée avant la préparation.",
+      confusion: "Le bolet granulé (Suillus granulatus) pousse sous les pins dans le même habitat, mais est dépourvu de voile partiel et d'anneau, et ses jeunes pores sécrètent des gouttelettes laiteuses. Le bolet élégant (Suillus grevillei) pousse sous les mélèzes et possède un chapeau jaune doré à brun orangé. Un jeune gomphide visqueux (Gomphidius glutinosus) présente un chapeau brun visqueux mais possède des lames décurrentes plutôt que des pores. En Amérique du Nord, le bolet boréal (Suillus borealis) et le bolet faux-brevipes (Suillus pseudobrevipes) ont un voile partiel qui s'accroche à la marge du chapeau au lieu de former un anneau à revers violacé sur le pied, le bolet botté (Suillus cothurnatus) possède un anneau épais en bandelette et une chair chamois orangé, et le bolet à pied blanchâtre (Suillus albidipes) est dépourvu de granulations glandulaires sur le pied.",
+      notes: "Une évaluation de 2018 le classe comme préoccupation mineure (Least Concern)."
     }
     },
     sources: {
@@ -15788,23 +15788,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Bolet_jaune"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/42795"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -15827,6 +15810,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Barna_gy%C5%B1r%C5%B1stin%C3%B3ru"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Bolet_jaune"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/4569"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -15941,9 +15941,9 @@ export const CATALOG = [
       ru: "рыжик настоящий",
       uk: "рижик смачний",
       pl: "mleczaj rydz",
-      fr: "lactaire délicieux",
       it: "sanguinello",
-      hu: "ízletes rizike"
+      hu: "ízletes rizike",
+      fr: "lactaire délicieux"
     },
     names: {
       en: ["delicious milkcap", "saffron milk cap", "delicious milk cap"],
@@ -15959,9 +15959,9 @@ export const CATALOG = [
       ru: ["рыжик деликатесный","рыжик обыкновенный","рыжик сосновый"],
       uk: ["рижик звичайний"],
       pl: ["rydz"],
-      fr: ["catalan","roussillous"],
       it: ["lattario delizioso"],
-      hu: ["fenyőaljagomba","közönséges rizike","rizike tejelőgomba","rizikegomba"]
+      hu: ["fenyőaljagomba","közönséges rizike","rizike tejelőgomba","rizikegomba"],
+      fr: ["catalan","roussillous"]
     },
     text: {
       tr: {
@@ -16237,18 +16237,6 @@ export const CATALOG = [
       confusion: "Mleczaj jodłowy (Lactarius salmonicolor) rośnie pod jodłami, ma mleczko niepodlegające zielenieniu i słabsze strefowanie. Mleczaj świerkowy (Lactarius deterrimus) rośnie pod świerkami, ma ciemniejsze zabarwienie, silniej zielenieje z wiekiem i bywa nieco gorzkawy. Trujący mleczaj wełnianka (Lactarius torminosus) rośnie pod brzozami, ma silnie kosmaty brzeg kapelusza i piekące, białe mleczko.",
       notes: "Podawany z Ameryki Północnej kompleks taksonów obejmuje odrębne gatunki filogenetyczne."
     },
-    fr: {
-      description: "Un champignon ectomycorhizien associé aux pins. Répandu en Europe, particulièrement dans le bassin méditerranéen et les régions méridionales ; introduit en Océanie et en Amérique du Sud.",
-      cap: "Le chapeau mesure 4–14 cm de largeur, convexe avec le centre déprimé puis largement en entonnoir. Il est orange vif à carotte, marqué de zones concentriques plus sombres, se tachant lentement de vert-de-gris aux meurtrissures. La marge est longtemps enroulée.",
-      hymenium: "Les lames sont serrées, légèrement décurrentes, orange carotte vif, verdissant avec l'âge et aux blessures. Elles laissent s'écouler à la cassure un latex orange vif éclatant immuable.",
-      stipe: "Le pied mesure 3–7 cm de hauteur et 1–2,5 cm d'épaisseur, court, creux à maturité, de couleur orange pâle et parsemé de petites fossettes arrondies plus sombres (scrobicules).",
-      flesh: "La chair est ferme et cassante, blanchâtre au centre et orange vif vers la périphérie, laissant suinter un lait orange carotte qui ne change pas de couleur avant plusieurs heures où il vire lentement au vert terne. L'odeur est fruitée et agréable ; la saveur est douce avec une pointe résineuse.",
-      sporePrint: "Crème ochracé pâle. Les spores sont subglobuleuses à largement ellipsoïdes, ornées d'un réseau réticulé incomplet, mesurant environ 7,5–9,5 × 6–7 µm.",
-      habitat: "Les sporophores apparaissent d'août à novembre, exclusivement sous les pins (Pinus), en particulier sur sols calcaires bien drainés.",
-      uses: "C'est un champignon comestible apprécié, traditionnel dans la cuisine provençale et catalane où il est souvent grillé à la poêle avec ail et persil ou conservé dans l'huile.",
-      confusion: "Le lactaire sanguin (Lactarius sanguifluus) laisse s'écouler d'emblée un latex rouge sang vineux et constitue un comestible encore supérieur. Le lactaire détestable (Lactarius deterrimus) est associé aux épicéas et son lait orange vire rapidement au pourpre violacé puis au vert foncé.",
-      notes: "Une fresque romaine d'Herculanum est considérée comme l'une des plus anciennes représentations de ce champignon. Les études moléculaires confirment qu'il s'agit d'une espèce européenne distincte des taxons américains."
-    },
     it: {
       description: "Un fungo ectomicorrizico associato ai pini. È indigeno in tutta Europa ed è stato introdotto con i pini anche nell'emisfero australe.",
       cap: "Il cappello misura 6–20 cm di diametro. È convesso con margine involuto da giovane, poi depresso al centro a imbuto. Il colore è arancio carota con evidenti zonate concentriche più scure, tendente a inverdarsi con l'età e allo sfregamento.",
@@ -16272,6 +16260,18 @@ export const CATALOG = [
       uses: "Kiváló csemegegomba. Olajban vagy vajban hirtelen átsütve, grillezve a legfinomabb; savanyúságnak is kiváló. Elfogyasztása után a vizeletet ártalmatlanul vörösesre színezheti.",
       confusion: "A lucfenyvesi rizike (Lactarius deterrimus) lucfenyő alatt terem, kalapja kevésbé zónázott, húsa gyorsabban és erősebben zöldül, íze enyhén kesernyés. A sárgatejű tejelőgomba (Lactarius chrysorrheus) tejnedve fehérből kénsárgára változik, tölgyesekben nő és csípős, mérgező.",
       notes: "Egy herculaneumi római freskót tartanak e gomba egyik legkorábbi ábrázolásának. Nuytinck, Verbeken és Miller (2007) molekuláris vizsgálatai megerősítették, hogy ez egy európai faj, amely különbözik a korábban e néven említett észak- és közép-amerikai taxonoktól. Magyarországon 2022-ben az év gombája volt."
+    },
+    fr: {
+      description: "Un champignon ectomycorhizien des forêts de pins. Il est indigène en Europe, y compris dans le bassin méditerranéen, et a été introduit avec les pins au Chili, en Australie, en Nouvelle-Zélande et en Afrique du Sud. Les populations d'Amérique du Nord et d'Amérique centrale qui portaient autrefois ce nom appartiennent à des espèces différentes.",
+      cap: "Le chapeau mesure 6–20 cm de largeur. Il est d'abord convexe avec une marge enroulée et une dépression centrale, devenant largement en entonnoir avec l'âge. La surface est orange carotte à orange rougeâtre avec des zones concentriques plus sombres, verdit aux blessures et développe souvent des taches gris-vert en vieillissant. Elle est lisse, mate au sec et visqueuse à l'état humide.",
+      hymenium: "Les lames sont brièvement décurrentes, serrées et orange vif, se tachant de vert aux meurtrissures. Les lames coupées libèrent un latex orange carotte qui reste orange longtemps et passe lentement au vert grisâtre après plusieurs heures (à la différence du lactaire de l'épicéa [Lactarius deterrimus], dont le latex devient rouge vineux).",
+      stipe: "Le pied est cylindrique, rapidement creux et relativement court, mesurant 5–8 cm de hauteur et 1,5–2 cm d'épaisseur. La surface orange pâle est marquée de petites fossettes peu profondes orange plus vif (scrobicules), surtout vers la base, et verdit aux endroits manipulés.",
+      flesh: "La chair est blanchâtre au centre et orange carotte près des surfaces, virant lentement au vert terne à l'exposition à l'air. L'odeur est fruitée, et le lait a une saveur d'abord douce, laissant un arrière-goût légèrement amer ou astringent.",
+      sporePrint: "Chamois rosâtre pâle. Les spores sont ellipsoïdales, mesurant 7–9 × 6–7 µm, et ornées d'un réseau amyloïde de crêtes bien défini et presque complet.",
+      habitat: "Les sporophores apparaissent d'août à octobre en Grande-Bretagne et en Irlande (et jusqu'en novembre en Europe continentale). Ils poussent sur le sol dans les forêts de conifères sous les pins. Dans l'hémisphère sud, ils fructifient d'avril à juin dans les plantations de pins.",
+      uses: "C'est un champignon comestible très prisé, traditionnellement grillé, poêlé, mijoté ou mariné en Espagne, en Provence, en Pologne, à Chypre et en Russie. Les jeunes chapeaux à marge enroulée sont préférés, et la cuisson lente ou sur le gril est recommandée plutôt que le séchage, car les sporophores séchés perdent leur arôme.",
+      confusion: "Le lactaire de l'épicéa (Lactarius deterrimus) pousse sous les épicéas, possède un chapeau plus uniforme et un pied sans scrobicules, et produit un lait orange qui devient rouge vineux en 30–60 minutes. Le lactaire sanguin (Lactarius sanguifluus) pousse sous les pins sur sol calcaire et exsude immédiatement un lait rouge vineux foncé. Le lactaire couleur de saumon (Lactarius salmonicolor) pousse sous les sapins et ne verdit presque pas. Le lactaire à couleur tranquille (Lactarius quieticolor) croît sous les pins sur sol acide, présente des tons brun orangé plus ternes et se tache de bleu-vert. Le lactaire à toison (Lactarius torminosus) est rosâtre avec une marge barbue et laineuse, produit un lait blanc âcre, pousse avec les bouleaux et est toxique. En Amérique du Nord, les espèces ressemblantes comprennent le lactaire à lait rouge (Lactarius rubrilacteus), le lactaire du thuya (Lactarius thyinos), le lactaire de l'Olympe (Lactarius olympianus) et le lactaire saumoné (Lactarius salmoneus).",
+      notes: "Une fresque romaine d'Herculanum est considérée comme l'une des plus anciennes représentations de ce champignon. Des travaux moléculaires et morphologiques menés par Nuytinck, Verbeken et Miller (2007) ont confirmé qu'il s'agit d'une espèce européenne, distincte des taxons d'Amérique du Nord et d'Amérique centrale auxquels ce nom était autrefois appliqué."
     }
     },
     sources: {
@@ -16643,23 +16643,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Lactaire_d%C3%A9licieux"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/41818"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -16682,6 +16665,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/%C3%8Dzletes_rizike"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Lactaire_d%C3%A9licieux"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/3971"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -16793,9 +16793,9 @@ export const CATALOG = [
       ru: "мухомор вонючий",
       uk: "мухомор смердючий",
       pl: "muchomor jadowity",
-      fr: "amanite vireuse",
       it: "tignosa primaverile",
-      hu: "hegyeskalapú galóca"
+      hu: "hegyeskalapú galóca",
+      fr: "amanite vireuse"
     },
     names: {
       en: ["European destroying angel"]
@@ -17072,17 +17072,6 @@ export const CATALOG = [
       uses: "Śmiertelnie trujący. Zawiera amatoksyny i fallotoksyny w stężeniu równie wysokim jak u muchomora zielonawego. Powoduje nieodwracalne uszkodzenie komórek wątroby i nerek. Żadna forma obróbki cieplnej, mrożenia ani suszenia nie neutralizuje toksyn.",
       confusion: "Białe pieczarki (np. Agaricus campestris, Agaricus silvicola) mają blaszki różowe, a z wiekiem czekoladowobrązowe i nie posiadają pochwy u podstawy trzonu. Muchomor wiosenny (Amanita verna) owocuje głównie w cieplejszych rejonach w lasach liściastych i ma gładki trzon. Pochwiak wielkoduszny (Volvopluteus gloiocephalus) ma różowy wysyp zarodników i blaszki z wiekiem różowiejące."
     },
-    fr: {
-      description: "Un champignon ectomycorhizien mortel. Présent dans toute l'Europe boréale et tempérée, particulièrement dans les régions montagnardes et les forêts septentrionales.",
-      cap: "Le chapeau mesure 5–10 cm de largeur, d'abord conique ou campanulé, asymétrique, puis convexe et étalé. Il est d'un blanc pur immaculé, satiné à sec, légèrement visqueux par temps humide, nu et dépourvu de plaques.",
-      hymenium: "Les lames sont blanches, libres, serrées et inégales, restant d'un blanc pur même à maturité avancée.",
-      stipe: "Le pied mesure 8–15 cm de hauteur et 1–2 cm d'épaisseur, cylindrique, élancé, blanc pur, orné de mèches floconneuses ou laineuses en zigzags très caractéristiques. Il porte un anneau blanc membraneux très mince, souvent déchiré ou fugace, et sa base est insérée dans une volve blanche en sac membraneux enveloppant un bulbe marqué.",
-      flesh: "La chair est blanche, tendre et immuable. L'odeur est d'abord insignifiante puis devient vireuse, douceâtre et fétide avec l'âge. Elle réagit en jaune vif instantané au contact d'une solution de potasse (KOH).",
-      sporePrint: "Blanche. Les spores sont globuleuses à subglobuleuses, lisses, mesurant environ 9–12 × 8–11 µm, et sont fortement amyloïdes.",
-      habitat: "Les sporophores apparaissent d'août à novembre dans les bois humides de conifères et mixtes, s'associant surtout à l'épicéa, au sapin et au bouleau, sur sols acides.",
-      uses: "L'amanite vireuse est mortellement toxique. Elle renferme de puissantes amatoxines responsables d'un syndrome phalloïdien destructeur pour le foie et les reins, identique à celui de l'amanite phalloïde. Aucune cuisson ne détruit ses toxines.",
-      confusion: "Les agarics blancs comestibles (comme Agaricus arvensis) possèdent des lames devenant rapidement roses puis brun chocolat et ne possèdent jamais de volve membraneuse en sac. L'amanite printanière (Amanita verna) est également mortelle mais possède un pied lisse non pelucheux et pousse au printemps sous les feuillus thermophiles."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi montani e boreali di conifere e latifoglie. È una specie rara e velenosa mortale appartenente alle amanite bianche.",
       cap: "Il cappello misura 5–10 cm di diametro. È ogivale o campanulato, poi asimmetricamente convesso con lobo laterale sporgente, interamente bianco candido e vischioso col bagnato.",
@@ -17105,6 +17094,17 @@ export const CATALOG = [
       uses: "Halálosan mérgező. A gyilkos galócához hasonlóan amatoxinokat tartalmaz, amelyek súlyos sejtpusztulást és májelégtelenséget okoznak. Hőkezeléssel vagy szárítással méreganyagai nem hatástalaníthatók.",
       confusion: "A fehér galóca (Amanita verna) kalapja félgömb alakú, tönkje nem cafrangos, melegebb tölgyesekben nő. A fehér csiperkefajok (Agaricus fajok) lemezei rózsaszínűek, majd csokoládébarna színűvé sötétednek és nincs bocskoruk.",
       notes: "Kalapbőre kálium-hidroxid (KOH) hatására élénksárga színreakciót mutat, ami segít a fehér galócától való elkülönítésben."
+    },
+    fr: {
+      description: "Un champignon ectomycorhizien forestier. Il est peu fréquent en plaine et plus abondant en montagne, ainsi que fréquent dans les forêts de conifères scandinaves. Il est présent à travers toute l'Europe, y compris en Grande-Bretagne et en Irlande, avec des signalements confirmés en Asie du Nord. Les récoltes nord-américaines sous ce nom appartiennent à d'autres espèces.",
+      cap: "Le chapeau mesure 5–10 cm de largeur, et certains sporophores atteignent 12 cm. Il est d'abord ovoïde et d'un blanc pur, puis devient campanulé ou parfois presque plat, souvent pourvu d'un large mamelon, et il est fréquemment incliné ou asymétrique. La marge n'est pas striée. Le centre peut virer à l'ivoire. Les fragments de voile disparaissent vite avec la pluie et ne subsistent que rarement sur un chapeau mature.",
+      hymenium: "Les lames sont libres, serrées et blanches.",
+      stipe: "Le pied mesure 9–15 cm de hauteur et 0,6–2 cm d'épaisseur, d'un blanc pur, floconneux-méchuleux, et souvent légèrement courbé. Un anneau fragile pend haut sur le pied et peut être lisse ou strié. La base est insérée dans une grande volve blanche membraneuse en sac, généralement enfouie dans le sol.",
+      flesh: "La chair est blanche. Elle vire immédiatement au jaune sous l'action de la potasse (hydroxyde de potassium), et au jaune vif avec l'hydroxyde de sodium. Un sporophore mature dégage une odeur légèrement écœurante, également comparée à une odeur de radis.",
+      sporePrint: "Blanche. Les spores sont sphériques à subglobuleuses et lisses, mesurant 7–10 µm de diamètre, et amyloïdes (virant au bleu à bleu-noir dans l'iode).",
+      habitat: "Les sporophores apparaissent à la fin de l'été et en automne, d'août à novembre en Grande-Bretagne et de juillet à septembre en Europe du Nord. Il pousse à la lisière des forêts de feuillus ou mixtes, en association avec le hêtre, le châtaignier, le pin, l'épicéa et le sapin.",
+      uses: "Il est mortel. Le sporophore contient des amatoxines et des phallotoxines, et un seul chapeau peut tuer un adulte.",
+      confusion: "L'amanite printanière (Amanita verna) fructifie au printemps et sa chair ne jaunit pas sous la potasse. La forme blanche de l'amanite phalloïde (Amanita phalloides) fructifie en automne et est tout aussi mortelle. L'amanite citrine blanche (Amanita citrina var. alba) conserve généralement des fragments de voile sur le chapeau et sent la pomme de terre crue. Les espèces d'agarics (Agaricus), notamment l'agaric sylvicole (Agaricus sylvicola) et l'agaric champêtre (Agaricus campestris), n'ont pas de volve et leurs lames deviennent roses puis brunes. Un bouton peut ressembler à une vesse-de-loup (Lycoperdon) jusqu'à ce qu'il soit coupé en deux et révèle l'ébauche du champignon et la volve. En Amérique du Nord, les amanites blanches similaires, telles que l'amanite à deux spores (Amanita bisporigera), l'amanite ocréée (Amanita ocreata) et l'amanite amérivireuse (Amanita amerivirosa), sont d'autres espèces distinctes."
     }
     },
     sources: {
@@ -17428,23 +17428,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Amanite_vireuse"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/3716"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -17467,6 +17450,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Hegyeskalap%C3%BA_gal%C3%B3ca"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Amanite_vireuse"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/3716"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -17566,9 +17566,9 @@ export const CATALOG = [
       ru: "сатанинский гриб",
       uk: "чортів гриб",
       pl: "krwistoborowik szatański",
-      fr: "bolet satan",
       it: "boleto malefico",
-      hu: "sátántinóru"
+      hu: "sátántinóru",
+      fr: "bolet satan"
     },
     names: {
       en: ["Satan's bolete"],
@@ -17868,18 +17868,6 @@ export const CATALOG = [
       confusion: "Gorzkoborowik żółtopory (Caloboletus calopus) ma żółte pory, czerwony trzon i gorzki miąższ. Krasnoborowik ceglastopory (Neoboletus luridiformis) ma ciemnobrązowy kapelusz i brak siateczki na trzonie. Modroborowik ponury (Suillellus luridus) ma oliwkowobrązowy kapelusz i pomarańczowoczerwoną siatkę na trzonie.",
       notes: "W Polsce gatunek krytycznie zagrożony wymarciem, objęty ścisłą ochroną gatunkową."
     },
-    fr: {
-      description: "Un grand champignon ectomycorhizien toxique des sols calcaires thermophiles. Réparti dans le sud et le centre de l'Europe, plus rare vers le nord.",
-      cap: "Le chapeau mesure 10–25 cm de largeur, atteignant parfois 30 cm, massif, globuleux puis convexe. Il est blanc grisâtre, blanc mastic ou crème olivâtre très pâle, mat et feutré au début puis glabre.",
-      hymenium: "Les tubes sont jaune verdâtre puis bleuissent à la coupe. Les pores sont petits, d'abord jaunes puis devenant rapidement rouge orangé à rouge sang vif, bleuissant nettement à la pression ou au froissement.",
-      stipe: "Le pied mesure 5–15 cm de hauteur et 4–10 cm d'épaisseur, ventru, globuleux ou en massue imposante, jaune au sommet et rouge carmin vif sur la partie médiane et inférieure, couvert d'un fin réseau maillé rougeâtre.",
-      flesh: "La chair est blanchâtre à jaune pâle, bleuissant modérément et irrégulièrement à la coupe, puis se décolorant. L'odeur est désagréable et nauséabonde chez les spécimens âgés, rappelant la charogne ; la saveur est douce.",
-      sporePrint: "Brun olive. Les spores sont lisses, fusiformes, mesurant environ 11–14 × 5–6 µm.",
-      habitat: "Les sporophores apparaissent de juillet à octobre pendant les périodes chaudes et sèches, dans les forêts de feuillus aérées sur sols calcaires, principalement sous les chênes et les hêtres.",
-      uses: "Ce bolet est toxique et provoque un syndrome résinoïdien sévère avec des vomissements incoercibles et des diarrhées aiguës. Il renferme de la bolesatine, une protéine inhibitrice de la synthèse protéique.",
-      confusion: "Le bolet blafard (Suillellus luridus) possède un chapeau brun olive plus sombre, un réseau très marqué sur le pied et une chair rouge foncé sous les tubes. Le bolet à pied rouge (Neoboletus luridiformis) a un chapeau brun foncé velouté, un pied ponctué de mèches rouges sans réseau et une chair qui bleuit intensément.",
-      notes: "Les évaluations de listes rouges en Grande-Bretagne et en République tchèque le classent comme vulnérable (Vulnerable)."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi caldi e radi di latifoglie su suoli calcarei. È diffuso nell'Europa meridionale e centrale ma raro e localizzato.",
       cap: "Il cappello misura solitamente 6–30 cm di diametro, raggiungendo eccezionalmente dimensioni enormi fino a 40–50 cm. È carnoso, sodo, emisferico poi appianato, di colore bianco gessoso, bianco latte o grigio cenere chiaro.",
@@ -17903,6 +17891,18 @@ export const CATALOG = [
       uses: "Mérgező gomba. Boleszatint és glikoproteineket tartalmaz, amelyek súlyos gyomor- és bélrendszeri tüneteket, csillapíthatatlan hányást és hasmenést okoznak. Nyersen különösen veszélyes.",
       confusion: "A céklatinóru (Neoboletus luridiformis) kalapja sötétbarna vagy feketésbarna, tönkje nem hálózatos, hanem vörös szemcsés, húsa erősen kékül és alapos főzés után jó ehető gomba. A farkastinóru (Caloboletus calopus) pórusai citromsárgák és húsa keserű.",
       notes: "Vörös listás felmérések Nagy-Britanniában és Csehországban is a sebezhető (Vulnerable) kategóriába sorolják."
+    },
+    fr: {
+      description: "Un champignon ectomycorhizien des forêts chaudes de feuillus sur sol calcaire. Il est principalement méridional en Europe, rare ou absent plus au nord, et limité en Grande-Bretagne et en Irlande aux terrains crayeux du sud de l'Angleterre. Il est également signalé en Turquie, en Crimée, en Ukraine, dans le nord d'Israël et à Chypre. Les mentions dans l'ouest de l'Amérique du Nord se rapportent au bolet d'Eastwood (Rubroboletus eastwoodiae).",
+      cap: "Le chapeau mesure généralement 6–30 cm de largeur (atteignant exceptionnellement 40–50 cm). Il commence hémisphérique avec une marge enroulée et devient convexe, souvent avec une marge ondulée ou lobée dans la vieillesse. La surface est blanc crayeux, blanc grisâtre ou chamois argenté, parfois teintée d'olive, d'ocre ou de brunâtre avec l'âge. Elle est finement veloutée au début, puis lisse, et légèrement visqueuse par temps humide ; la cuticule ne se pèle pas.",
+      hymenium: "Les tubes mesurent jusqu'à 25 mm de longueur, libres à légèrement adnés, jaune pâle à jaune verdâtre ou jaune-olive, et virent au bleu à la coupe. Les petits pores arrondis sont jaunes à orangés chez les très jeunes spécimens, devenant rapidement rouge sang à carmin depuis le pied vers l'extérieur (restant souvent plus pâles près de la marge), et bleuissent à la pression.",
+      stipe: "Le pied mesure 5–15 cm de hauteur (exceptionnellement jusqu'à 20–25 cm) et 4–12 cm d'épaisseur (exceptionnellement jusqu'à 16–20 cm). Il est trapu et ventru — souvent plus large que haut —, en forme de tonneau dans le jeune âge et plus claviforme plus tard, avec une base renflée en bulbe. La surface est jaune doré à orange au sommet, rouge rosâtre à carmin dans la partie médiane, et rouge pourpre sombre vers la base, recouverte sur la moitié supérieure ou sur toute sa hauteur d'un fin réseau jaune à rouge sang à mailles hexagonales.",
+      flesh: "La chair est épaisse, ferme dans le jeune âge et spongieuse plus tard, blanchâtre à jaune pâle ou couleur paille (parfois rougeâtre à la base du pied). À la coupe, elle vire au bleu pâle ou bleu ciel lentement et modérément — de façon plus intense au-dessus des tubes et au sommet du pied — avant de pâlir vers le blanc cassé. L'odeur est faible et légèrement musquée chez les jeunes sporophores, devenant fétide et cadavérique avec l'âge. La saveur de la chair jeune est douce avec un goût de noisette, bien que le simple fait de goûter un morceau de chair crue puisse provoquer des nausées.",
+      sporePrint: "Brun olivâtre. Les spores sont subfusiformes à fusiformes et lisses, mesurant 10–16 × 4,5–7,5 µm.",
+      habitat: "Les sporophores apparaissent de mai à septembre (principalement à la fin de l'été et au début de l'automne en Grande-Bretagne). Ils poussent isolés ou en petits groupes sur la craie et le calcaire dans les forêts ouvertes et chaudes de feuillus, sous le chêne, le hêtre, le châtaignier, le charme et le tilleul.",
+      uses: "Il est toxique, surtout à l'état cru, provoquant un syndrome gastro-intestinal sévère avec nausées, douleurs abdominales, vomissements violents et diarrhées sanglantes pouvant durer jusqu'à six heures. La bolésatine, une glycoprotéine toxique, est mise en cause, ainsi que des traces de muscarine. Bien que des récits historiques fassent état de sa consommation après une ébullition prolongée dans certaines régions d'Italie et de l'ancienne Tchécoslovaquie, il n'est nullement prouvé que la cuisson le rende inoffensif.",
+      confusion: "Le bolet blafard (Suillellus luridus) possède un chapeau plus sombre, brun olive à chamois, une chair rouge orangé à la base du pied et une chair qui vire immédiatement au bleu foncé à la coupe. Le bolet à beau pied (Caloboletus calopus) a un chapeau pâle et un pied à réseau rouge, mais ses pores restent jaunes et sa chair est très amère. Le bolet jaune pourpre (Rubroboletus rhodoxanthus) et le bolet faux-satan (Rubroboletus legaliae) préfèrent des sols plus acides et développent des teintes nettement roses sur le chapeau ; chez R. rhodoxanthus, la chair jaune vif ne bleuit que dans le chapeau. Le bolet joli (Rubroboletus pulchrotinctus) présente une marge piléique teintée de rose et un pied plus pâle, tandis que le bolet rouge sang (Rubroboletus rubrosanguineus) pousse sous les épicéas et les sapins dans les forêts de montagne.",
+      notes: "Les évaluations des listes rouges en Grande-Bretagne et en République tchèque le classent comme vulnérable (Vulnerable)."
     }
     },
     sources: {
@@ -18251,23 +18251,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Bolet_satan"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/44820"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -18290,6 +18273,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/S%C3%A1t%C3%A1ntin%C3%B3ru"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Bolet_satan"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/809314"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -18400,15 +18400,16 @@ export const CATALOG = [
       ru: "паутинник красивейший",
       uk: "павутинник найкрасивіший",
       pl: "zasłonak rudawy",
-      fr: "cortinaire couleur de rocou",
       it: "cortinario rubello",
-      hu: "csúcsos pókhálósgomba"
+      hu: "csúcsos pókhálósgomba",
+      fr: "cortinaire couleur de rocou"
     },
     names: { es: ['seta de orellana roja'],
       sv: ['toppig giftspindelskivling', 'toppig spindelskivling'],
       ru: ["паутинник красноватый"],
       pl: ["zasłonak spiczasty"],
-      it: ["cortinario orellanato"]
+      it: ["cortinario orellanato"],
+      fr: ["cortinaire remarquable"]
     },
     text: {
       tr: {
@@ -18675,17 +18676,6 @@ export const CATALOG = [
       uses: "Śmiertelnie trujący. Zawiera orellaninę, która powoduje powolną i nieodwracalną martwicę nerek. Objawy zatrucia pojawiają się po wyjątkowo długim okresie utajenia – zazwyczaj od 2 do 14 dni, a niekiedy nawet po trzech tygodniach od spożycia.",
       confusion: "Mleczaj rydz (Lactarius deliciosus) ma pomarańczowe mleczko, puste trzony i rośnie na suchszych glebach. Pieprznik jadalny (Cantharellus cibarius) ma żółtą barwę, listewki zamiast blaszek i żółty wysyp zarodników. Inne drobne brunatne zasłonaki (Cortinarius) również mogą zawierać toksyny i należy ich bezwzględnie unikać."
     },
-    fr: {
-      description: "Un champignon ectomycorhizien mortel des forêts de conifères. Présent dans le nord et le centre de l'Europe, ainsi qu'en Grande-Bretagne et dans les régions boréales d'Amérique du Nord.",
-      cap: "Le chapeau mesure 3–8 cm de largeur, conique ou campanulé puis convexe avec un mamelon pointu central proéminent. Il est brun rougeâtre, cannelle ou roux cuivré, sec, finement feutré ou écailleux.",
-      hymenium: "Les lames sont espacées, épaisses et adnées à échancrées, d'abord ocre rouille puis brun rougeâtre foncé à mesure que les spores mûrissent.",
-      stipe: "Le pied mesure 5–12 cm de hauteur et 0,5–1,5 cm d'épaisseur, élancé, atténué vers le haut ou cylindrique, de couleur fauve cuivré ou brun rougeâtre pâle, orné de bracelets ou de zones annulaires jaunâtres obliques provenant du voile.",
-      flesh: "La chair est ferme, ocre jaunâtre à brun rougeâtre clair, immuable. L'odeur est faiblement raphanoïde ou insignifiante.",
-      sporePrint: "Brun rouille vif. Les spores sont subglobuleuses à largement ellipsoïdes, distinctement verruqueuses, mesurant environ 9–11 × 7–9 µm.",
-      habitat: "Les sporophores apparaissent d'août à novembre parmi les sphaignes et les mousses épaisses dans les forêts humides d'épicéas et de pins, sur sols acides.",
-      uses: "Ce champignon est mortellement toxique. Il contient de l'orellanine, une toxine thermostable redoutable qui détruit les tubules rénaux et provoque une insuffisance rénale aiguë irréversible après une longue période de latence silencieuse pouvant aller de 2 à 14 jours.",
-      confusion: "Le cortinaire des montagnes (Cortinarius orellanus) est tout aussi mortel et possède un chapeau plus arrondi sans mamelon aigu, poussant sous les feuillus. La chanterelle en tube (Craterellus tubaeformis) a des plis jaunes et un pied creux jaune éclatant."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi umidi di conifere su suoli acidi e muschiosi. È diffuso nelle regioni montane e boreali d'Europa.",
       cap: "Il cappello misura 4–8 cm di diametro, convesso poi appianato con umbone centrale acuto e prominente. È di colore bruno-rossastro, fulvo-aranciato o cannella, con superficie finemente vellutata o squamulosa col secco.",
@@ -18708,6 +18698,17 @@ export const CATALOG = [
       uses: "Halálosan mérgező. Orellanint tartalmaz, egy rendkívül ellenálló vesetoxint, amely irreverzibilis veseelégtelenséget okoz. A tünetek rendkívül hosszú, akár 2–14 napos lappangási idő után jelentkeznek. Semmilyen konyhai eljárással nem hatástalanítható.",
       confusion: "A mérges pókhálósgomba (Cortinarius orellanus) kalapja nem hegyesen púpos, tompább, és melegkedvelő tölgyesekben él. A sárga rókagomba (Cantharellus cibarius) termőrétege eres ráncokból áll és világos tojássárgája színű.",
       notes: "A méreganyag ellenáll a főzésnek, fagyasztásnak és szárításnak; a gomba legkisebb mennyiségű elfogyasztása is dialízist vagy veseátültetést tehet szükségessé."
+    },
+    fr: {
+      description: "Un champignon ectomycorhizien poussant en petits groupes sur sol acide et humide sous les conifères. Il est rare dans le sud de l'Angleterre et au pays de Galles, plus fréquent plus au nord dans les îles Britanniques, et très commun en Scandinavie et dans le nord de l'Europe continentale. Il est également présent en Amérique du Nord et dans les montagnes du centre du Japon.",
+      cap: "Le chapeau mesure 4–8 cm de largeur. Il est brun fauve à orangé, d'abord convexe puis s'aplatissant, et conserve un mamelon léger ou parfois très prononcé. La surface est sèche et finement écailleuse, et la marge reste souvent légèrement infléchie vers le bas.",
+      hymenium: "Les lames sont adnées et recouvertes par une cortine chez les jeunes sporophores. Elles sont d'abord jaunâtre pâle et deviennent brun rouille à mesure que les spores mûrissent.",
+      stipe: "Le pied mesure 5–10 cm de hauteur et 0,7–1,5 cm d'épaisseur, cylindrique ou légèrement en massue et souvent courbé. Il est plus pâle que le chapeau, fibrilleux, et orné dans sa partie inférieure de bandes jaunâtres concentriques (restes du voile universel) formant un dessin en peau de serpent, avec des fibrilles rouge rouille provenant de la cortine plus haut.",
+      flesh: "La chair est crème ou jaune pâle, plus fauve sombre à brun rougeâtre sous la cuticule du chapeau et dans la base du pied. L'odeur est faible, raphanoïde (de radis), et la saveur est douce.",
+      sporePrint: "Brun rougeâtre rouille. Les spores sont ellipsoïdales à subglobuleuses et verruqueuses, mesurant 9–12 × 6,5–8,5 µm.",
+      habitat: "Les sporophores apparaissent d'août à novembre. Il pousse en association avec le pin et l'épicéa sur sol acide et humide, souvent parmi les sphaignes (Sphagnum), dans les bois de conifères tourbeux et les forêts mixtes marécageuses.",
+      uses: "Il est mortellement toxique. Il contient de l'orellanine, une redoutable néphrotoxine qui détruit les tubules rénaux et provoque une insuffisance rénale aiguë. Les symptômes n'apparaissent généralement que 2 à 14 jours après l'ingestion, débutant par une soif intense, des maux de tête, des frissons, des nausées et des douleurs lombaires, suivis d'une défaillance rénale. Une prise en charge médicale précoce et une hémodialyse sont cruciales. Des ramasseurs l'ont confondu avec une issue fatale avec des chanterelles ou des chanterelles en tube.",
+      confusion: "Le cortinaire des montagnes (Cortinarius orellanus) possède parfois un mamelon, mais celui-ci est généralement moins aigu. La chanterelle en tube (Craterellus tubaeformis) a un chapeau en entonnoir et des plis plutôt que de véritables lames. Les chanterelles (Cantharellus) possèdent des plis et les cèpes (Boletus) ont des pores."
     }
     },
     sources: {
@@ -19005,23 +19006,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Cortinaire_couleur_de_rocou"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/451430"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -19044,6 +19028,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Cs%C3%BAcsos_p%C3%B3kh%C3%A1l%C3%B3sgomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Cortinaire_couleur_de_rocou"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/3911"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -19151,9 +19152,9 @@ export const CATALOG = [
       ru: "вороночник рожковидный",
       uk: "лійкогриб ріжкоподібний",
       pl: "lejkowiec dęty",
-      fr: "trompette de la mort",
       it: "trombetta dei morti",
-      hu: "sötét trombitagomba"
+      hu: "sötét trombitagomba",
+      fr: "trompette de la mort"
     },
     names: {
       en: ["trumpet of death", "black trumpet", "black chanterelle", "trumpet of the dead"]
@@ -19442,18 +19443,6 @@ export const CATALOG = [
       confusion: "Pieprznik szary (Craterellus cinereus) ma wyraźne fałdy (listewki) na zewnętrznej stronie owocnika. Lejkowiec kędzierzawy (Craterellus sinuosus) ma jaśniejszą, szarożółtą barwę i silniej pofałdowany brzeg.",
       notes: "Ocena z 2019 roku klasyfikuje go jako gatunek najmniejszej troski (Least Concern)."
     },
-    fr: {
-      description: "Un champignon ectomycorhizien réputé. Commun dans toute l'Europe tempérée, en Amérique du Nord et en Asie.",
-      cap: "Le sporophore mesure 4–12 cm de hauteur et 3–8 cm de largeur, en forme de corne d'abondance, d'entonnoir ou de trompette creuse jusqu'à la base. La surface interne du chapeau est brun noirâtre à noir d'encre à l'état humide, se décolorant en gris cendré à sec, parsemée de petites écailles foncées. La marge est ondulée, festonnée et recourbée vers l'extérieur.",
-      hymenium: "La surface extérieure portant la couche fertile est lisse ou légèrement ridée longitudinalement, sans véritables lames ni plis distincts, de couleur gris cendré, bleuâtre ou gris ardoise, devenant poudrée de blanc par les spores.",
-      stipe: "Le pied est dans le prolongement direct de l'entonnoir, creux, court et noir ou gris foncé.",
-      flesh: "La chair est très mince, élastique, membraneuse et cassante, noire ou gris foncé. L'odeur est agréablement fruitée et aromatique ; la saveur est douce et savoureuse.",
-      sporePrint: "Blanche à crème très pâle. Les spores sont ellipsoïdes, lisses, mesurant environ 11–14 × 7–9 µm.",
-      habitat: "Les sporophores apparaissent d'août à novembre, souvent en denses troupes ou tapis sur la litière de feuilles mortes des forêts de feuillus, en particulier sous les hêtres, les chênes et les châtaigniers, sur sols lourds ou argileux.",
-      uses: "C'est un comestible de tout premier choix, très aromatique et polyvalent. Il sèche remarquablement bien et peut être réduit en poudre pour parfumer les sauces, les viandes et les risottos.",
-      confusion: "La chanterelle sinueuse (Craterellus sinuosus) possède un hyménophore plus nettement ridé ou plissé et des teintes plus brunâtres ou jaunâtres ; elle est également comestible.",
-      notes: "Une évaluation de 2024 classe l'espèce en préoccupation mineure (Least Concern)."
-    },
     it: {
       description: "Un fungo micorrizico a imbuto cavo che cresce nella lettiera di foglie dei boschi di latifoglie. È comune in tutta Europa in colonie numerose ma mimetico sul terreno.",
       cap: "Il cappello è a forma di trombetta o imbuto profondo, largo 4–8 cm, con margine ondulato e lobato. La superficie interna sterile è fuligginosa, grigio scura o quasi nera.",
@@ -19477,6 +19466,18 @@ export const CATALOG = [
       uses: "Kiváló csemegegomba. Szárítva aromája rendkívül intenzívvé válik; gombaporként levesek, mártások és húsételek fűszerezésére az egyik legértékesebb gomba.",
       confusion: "A szürke rókagomba (Cantharellus cinereus) kalapja alatt jól fejlett eres ráncok találhatók és húsa vastagabb. A fodros trombitagomba (Pseudocraterellus undulatus) kisebb termetű, barnás színű és hullámosabb szélű.",
       notes: "Egy 2024-es felmérés szerint a nem veszélyeztetett (Least Concern) kategóriába tartozik. Magyarországon 2015-ben az év gombája volt."
+    },
+    fr: {
+      description: "Un champignon ectomycorhizien difficile à distinguer au milieu de la litière de feuilles. Au sens strict, il est européen, de la Scandinavie à la Méditerranée, et localisé mais souvent abondant là où il se montre en Grande-Bretagne et en Irlande. Un complexe plus large autrefois regroupé sous ce nom est présent dans les Amériques et en Asie, notamment au Japon.",
+      cap: "Le chapeau est en forme d'entonnoir ou de cornet évasé, mesurant 4–8 cm de largeur, avec une marge enroulée puis sinueuse et étalée. La surface supérieure interne, stérile, est gris-brun à gris foncé ou noire, avec des striations ridées vers la marge.",
+      hymenium: "L'hyménium tapisse la face externe du cornet, sans véritables lames ; cette surface fertile externe est grise et pruineuse, finement ridée dans le sens de la longueur. Les basides sont étroitement claviformes et portent chacune deux spores.",
+      stipe: "Le pied est gris et pruineux, finement ridé longitudinalement, creux jusqu'à la base vers laquelle il s'atténue légèrement. Il est situé dans le prolongement direct du chapeau sans démarcation nette. Les sporophores atteignent environ 10 cm de hauteur, et exceptionnellement jusqu'à 15 cm.",
+      flesh: "L'odeur et la saveur ne sont pas distinctives.",
+      sporePrint: "Blanche à chamois pâle ou crème. Les spores sont largement ellipsoïdales, lisses et hyalines, mesurant 11,5–16 × 7–10 µm.",
+      habitat: "Les sporophores apparaissent de juin à novembre, et jusqu'en décembre lors d'un automne doux dans le sud de la Grande-Bretagne. Dans les pays méditerranéens et sur la péninsule Ibérique, ils se maintiennent jusqu'au début de l'année suivante. Ils poussent en groupes sur la terre des forêts de feuillus, le plus souvent sous les hêtres ainsi qu'avec les chênes et d'autres feuillus, fréquemment parmi les mousses sur des sols calcaires lourds et humides.",
+      uses: "C'est un excellent comestible. Sa saveur est bien meilleure que ne le suggère l'aspect sombre du sporophore. Les sporophores séchés se conservent très bien et peuvent être réduits en poudre pour parfumer les sauces.",
+      confusion: "La trompette trompeuse (Craterellus fallax) est très similaire et se rencontre dans l'est de l'Amérique du Nord, où elle se distingue par une sporée jaunâtre à ocre saumoné. La chanterelle cendrée (Craterellus cinereus) possède de faux plis ou veines fourchus et décurrents bien distincts sur la surface externe et des basides à quatre à six spores, tandis que la chanterelle sinueuse (Craterellus sinuosus) présente un chapeau plus frisé et ondulé avec une surface fertile fortement ridée.",
+      notes: "Une évaluation de 2024 classe l'espèce comme préoccupation mineure (Least Concern)."
     }
     },
     sources: {
@@ -19818,23 +19819,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Trompette_de_la_mort"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/4828"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -19857,6 +19841,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/S%C3%B6t%C3%A9t_trombitagomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Trompette_de_la_mort"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/4827"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -19976,9 +19977,9 @@ export const CATALOG = [
       ru: "печёночница обыкновенная",
       uk: "печіночниця звичайна",
       pl: "ozorek dębowy",
-      fr: "fistuline hépatique",
       it: "lingua di bue",
-      hu: "májgomba"
+      hu: "májgomba",
+      fr: "fistuline hépatique"
     },
     names: {
       en: ["beefsteak polypore", "ox tongue", "poor man's steak", "tongue mushroom"]
@@ -19987,8 +19988,8 @@ export const CATALOG = [
       es: ['lengua de buey'],
       pt: ['língua-de-boi', 'gasalho'],
       ru: ["печёночный гриб","трутовик печёночный"],
-      fr: ["langue-de-bœuf"],
-      hu: ["ökörnyelvgomba"]
+      hu: ["ökörnyelvgomba"],
+      fr: ["langue-de-bœuf"]
     },
     text: {
       tr: {
@@ -20264,18 +20265,6 @@ export const CATALOG = [
       confusion: "Brak bezpośrednich trujących sobowtórów. Błyskoporek szczeciniasty (Inonotus hispidus) ma silnie owłosiony kapelusz i twardy miąższ. Młode żółciaki siarkowe (Laetiporus sulphureus) mają jaskrawożółtą barwę.",
       notes: "W Polsce gatunek rzadki, podlegający ochronie częściowej."
     },
-    fr: {
-      description: "Un champignon lignicole parasite et saprotrophe des vieux chênes et châtaigniers, produisant une altération du bois recherchée en ébénisterie. Répandu en Europe, en Amérique du Nord et en Australie.",
-      cap: "Le sporophore mesure 10–25 cm de largeur et jusqu'à 6 cm d'épaisseur, en console semi-circulaire ou en forme de langue ou de rein. La surface supérieure est rouge sang, rouge brique ou pourpre brunâtre, visqueuse et papillée dans la jeunesse, devenant rugueuse avec l'âge.",
-      hymenium: "L'hyménium est unique : les tubes sont entièrement libres et séparés les uns des autres (et non soudés comme chez les autres polypores), de couleur crème jaunâtre puis se tachant de brun rougeâtre aux froissements.",
-      stipe: "Le pied est généralement latéral, court, épais et trapu, de couleur rouge sang, s'insérant profondément dans l'écorce.",
-      flesh: "La chair est épaisse, molle, charnue et juteuse, marbrée de rouge vif et de blanc rappelant la texture d'une pièce de viande fraîche, et laisse exsuder un suc rougeâtre à la pression. L'odeur est discrète ; la saveur est agréablement acidulée.",
-      sporePrint: "Brun rosé à ocre rougeâtre. Les spores sont largement ellipsoïdes, lisses, mesurant environ 4,5–5,5 × 3–4 µm.",
-      habitat: "Les sporophores apparaissent d'août à novembre sur les troncs vivants et les grosses souches de vieux chênes (Quercus) et de châtaigniers (Castanea).",
-      uses: "C'est un bon champignon comestible lorsqu'il est jeune et tendre. Sa saveur acidulée et sa texture tendre permettent de le consommer émincé cru en salade ou sauté rapidement à la poêle.",
-      confusion: "Le polypore soufré (Laetiporus sulphureus) est jaune et orange vif et possède une chair cassante sans suc rouge. Le polypore géant (Meripilus giganteus) a une chair blanchâtre qui noircit fortement au froissement.",
-      notes: "En Europe du Nord, c'est la seule espèce du genre. Le bois de cœur de chêne infecté prend une coloration brune recherchée en ébénisterie."
-    },
     it: {
       description: "Un fungo a mensola lignicolo, parassita e saprotrofo su tronchi vivi o morti di quercia e castagno. Provoca una tipica carie bruna che scurisce il legno rendendolo pregiato per l'ebanisteria.",
       cap: "Il carpoforo è a forma di lingua o spatola semicircolare, largo 10–30 cm e spesso 2–6 cm. La superficie è papillata e viscosa, di colore rosso sangue vivo o rosso fegato, che imbrunisce con l'età.",
@@ -20299,6 +20288,18 @@ export const CATALOG = [
       uses: "Ehető gomba. Fiatalon savanykás íze miatt salátákba, hirtelen átsütve vagy marinálva készítik el; a benne lévő savak csökkentésére tejbe áztatható.",
       confusion: "Az almafa-rozsdástapló (Inonotus hispidus) kalapja erősen szőrös, és tölgyön valamint almafán nő. A nagyon fiatal termőtestek hasonlíthatnak a sárga gévagombára (Laetiporus sulphureus), amely laposabb, egymás feletti konzolokat képez. Az Ischnoderma nemzetség fajainak csövei egymással összenőttek. A tölgyfa-kérgestapló (Buglossoporus quercinus) hasonló helyeken terem, de kalapbőre sárgásbarna és spórái hosszabbak. A háromszínű egyrétűtapló (Daedaleopsis confragosa var. tricolor) mindössze körülbelül 1 cm vastag és lemezes termőrétegű. A cinóbertapló (Pycnoporus cinnabarinus) kisebb, fás állagú és megnyúlt, szögletes pórusokkal rendelkezik.",
       notes: "Észak-Európában ez a nemzetség egyetlen képviselője. A gomba által megfertőzött tölgyfa gesztje gyönyörű mélybarna színt kap, amelyet a bútoriparban különleges értékként tartanak számon."
+    },
+    fr: {
+      description: "Un champignon en console du bois vivant et mort de chêne, parfois sur châtaignier et d'autres feuillus. Il est largement répandu et assez commun en Grande-Bretagne et en Irlande, à travers l'Europe continentale et en Amérique du Nord, en particulier à l'est des montagnes Rocheuses. Il est également signalé en Afrique, en Australie, en Inde subtropicale et aux îles Canaries.",
+      cap: "La console commence presque globuleuse et verruqueuse, puis devient linguliforme (en forme de langue) ou semi-circulaire. Elle mesure typiquement 10–25 cm de largeur et 2–6 cm d'épaisseur. Les grands sporophores atteignent environ 30 cm de largeur et environ 8 cm d'épaisseur, et un très jeune spécimen peut ne mesurer qu'environ 5 cm de largeur. La surface supérieure est rugueuse ou fibrilleuse, souvent striée radialement, et visqueuse ou collante par temps humide. Les jeunes consoles sont rouge orangé à rouge sang, puis rouge foie, violacées ou brun rougeâtre, et brun foncé dans la vieillesse.",
+      hymenium: "Les tubes sont séparés et libres les uns des autres et mesurent environ 10–15 mm de longueur. Ils sont blanchâtres, crème, rose pâle ou jaune pâle, puis brun rougeâtre, et brunissent au froissement en prenant une teinte brun rouille à brun-rouge profond. Les tubes mûrs s'ouvrent en forme d'étoile. Les pores sont petits et ronds, environ 4–6 par millimètre. Les basides sont claviformes et tétrasporiques. Les pleurocystides sont absentes. Les extrémités hyphales cystidiformes à l'orifice des tubes mesurent environ 5–7 µm de largeur. Le système hyphal est monomitique, avec des boucles de conjugaison, et certaines hyphes sont gléoplères.",
+      stipe: "Un court pied latéral est souvent présent, mesurant environ 1–5 cm de longueur et jusqu'à environ 4 cm de largeur, coloré comme le chapeau sur le dessus et poré en dessous. De nombreuses consoles sont sessiles et s'attachent directement par une base rétrécie.",
+      flesh: "La chair est juteuse et mesure environ 3–5 cm d'épaisseur. Elle est rouge sombre à rouge viande, marbrée ou veinée de stries plus pâles, bien que certains sporophores nord-américains soient blanchâtres avec des marbrures rougeâtres. La chair coupée exsude un jus rouge terne. L'odeur est faible ou agréablement fongique, et la saveur est surette, légèrement acide ou un peu amère. La chair âgée devient coriace et tenace.",
+      sporePrint: "La sporée est jaune rosâtre pâle ou rosâtre selon certains auteurs, brun rougeâtre selon d'autres, et rouille ocré fonçant en brun rouille selon d'autres descriptions. Les spores européennes sont ovoïdes à lacrymoïdes (en forme de larme), lisses et inamyloïdes, mesurant environ 4–6 × 3–4 µm. Les spores nord-américaines sont plus petites, mesurant environ 3–4 × 2–3 µm, lisses, et largement amygdaliformes à subellipsoïdales ou lacrymoïdes.",
+      habitat: "Les sporophores apparaissent de juin à novembre, et en Grande-Bretagne et en Irlande principalement de juillet à octobre. Ils poussent au bas des troncs vivants au niveau des blessures, ainsi que sur les souches et les racines mortes, principalement de chêne et de châtaignier, et moins souvent de hêtre, de noyer et de frêne. Aux îles Canaries, l'hôte est le laurier, et en Australie les signalements proviennent de blessures sur eucalyptus. Le champignon parasite le duramen des chênes vivants et se nourrit également de bois mort. La décomposition est une pourriture brune lente, et le bois de cœur coloré est très recherché par les ébénistes.",
+      uses: "Les jeunes sporophores sont comestibles après une cuisson approfondie. On les fait mijoter jusqu'à ce qu'ils soient tendres, on les poêle, ou on les utilise dans un goulasch ou confits au vinaigre. La saveur est acide et légèrement amère, et la chair est riche en tanins et difficile à digérer. Certains ouvrages jugent favorablement les jeunes spécimens, tandis que d'autres ne les classent pas parmi les meilleurs comestibles. Les sporophores plus âgés sont coriaces et leur suc peut irriter l'estomac, c'est pourquoi on les fait dégorger toute une nuit dans l'eau avant de les cuisiner.",
+      confusion: "Le polypore hérissé (Inonotus hispidus) possède un chapeau fortement velu et pousse sur le chêne et le pommier. De très jeunes sporophores peuvent ressembler au polypore soufré (Laetiporus sulphureus), qui forme des consoles plus aplaties étagées les unes au-dessus des autres. Le genre Ischnoderma (Ischnoderma) possède des tubes soudés entre eux. Le polypore du chêne (Buglossoporus quercinus) pousse dans des biotopes similaires et possède une cuticule jaune-brun ainsi que des spores plus longues. La dédalée tricolore (Daedaleopsis confragosa var. tricolor) ne mesure qu'environ 1 cm d'épaisseur et présente des lames. Le polypore cinabre (Pycnoporus cinnabarinus) est plus petit et ligneux, avec des pores anguleux allongés.",
+      notes: "En Europe du Nord, c'est la seule espèce du genre. Fistulina antarctica, Fistulina endoxantha et Fistulina pumiliae sont des espèces distinctes associées aux faux-hêtres (Nothofagus). Le bois de cœur de chêne colonisé est commercialisé sous le nom de chêne brun."
     }
     },
     sources: {
@@ -20642,23 +20643,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Fistuline_h%C3%A9patique"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/48598"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -20681,6 +20665,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/M%C3%A1jgomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Fistuline_h%C3%A9patique"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/4873"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -20797,9 +20798,9 @@ export const CATALOG = [
       ru: "дубовик крапчатый",
       uk: "синяк зернистоногий",
       pl: "krasnoborowik ceglastopory",
-      fr: "bolet à pied rouge",
       it: "boleto dal piede rosso",
-      hu: "céklatinóru"
+      hu: "céklatinóru",
+      fr: "bolet à pied rouge"
     },
     names: {
       en: ["red foot bolete", "dotted stemmed bolete", "dotted stem bolete"],
@@ -21107,18 +21108,6 @@ export const CATALOG = [
       confusion: "Modroborowik ponury (Suillellus luridus) ma wyraźną czerwoną siateczkę na trzonie i pomarańczowoczerwone pory. Krwistoborowik szatański (Rubroboletus satanas) ma kredowobiały kapelusz i czerwoną siatkę na trzonie.",
       notes: "Niebieszczenie miąższu wynika z utleniania kwasu warygatykowego w kontakcie z tlenem z powietrza."
     },
-    fr: {
-      description: "Un champignon ectomycorhizien robuste. Fréquent et largement distribué dans toute l'Europe continentale, en Grande-Bretagne et en Irlande.",
-      cap: "Le chapeau mesure 6–20 cm de largeur, hémisphérique puis convexe. Il est brun foncé, brun chocolat, bistre ou brun suie, mat et nettement velouté au toucher, parfois un peu visqueux par temps très pluvieux.",
-      hymenium: "Les tubes sont jaune verdâtre puis virent instantanément au bleu sombre à la coupe. Les pores sont très petits, rouge orangé puis rouge carmin ou pourpre vif, bleuissant immédiatement et intensément au toucher.",
-      stipe: "Le pied mesure 5–15 cm de hauteur et 2–5 cm d'épaisseur, robuste, cylindrique ou renflé à la base, jaune orangé et entièrement couvert de fines ponctuations rouge vif sans aucun réseau.",
-      flesh: "La chair est ferme, jaune vif, et bleuit de façon instantanée et spectaculaire en bleu indigo profond à la moindre blessure ou à la coupe. L'odeur est agréable ; la saveur est douce.",
-      sporePrint: "Brun olive. Les spores sont allongées fusiformes, lisses, mesurant environ 12–17 × 4,5–6 µm.",
-      habitat: "Les sporophores apparaissent de mai à novembre dans les bois de conifères et de feuillus, particulièrement sous les épicéas, les hêtres et les chênes sur sols acides.",
-      uses: "C'est un excellent comestible une fois bien cuit. Il est toxique à l'état cru et doit impérativement subir une cuisson complète d'au moins 15 à 20 minutes, qui fait disparaître le bleuissement et détruit les toxines thermolabiles.",
-      confusion: "Le bolet satan (Rubroboletus satanas) est toxique et possède un chapeau blanchâtre pâle, un pied ventru orné d'un réseau rouge et une chair qui ne bleuit que modérément. Le bolet blafard (Suillellus luridus) possède un réseau très apparent sur le pied et une ligne rouge caractéristique sous les tubes.",
-      notes: "Le bleuissement provient de l'acide variégatique qui s'oxyde à l'air, et le rouge des pores provient de la variégatorubine."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi di conifere (abete rosso) e latifoglie (faggio, castagno e quercia). È ampiamente diffuso e comune in tutta Europa.",
       cap: "Il cappello misura 5–20 cm di diametro. È emisferico poi convesso e spianato, di colore bruno scuro, bruno vellutato o bruno camoscio, con cuticola finemente vellutata che non diventa viscida.",
@@ -21142,6 +21131,18 @@ export const CATALOG = [
       uses: "Feltételesen ehető csemegegomba. Nyersen vagy nem eléggé átsütve gyomorpanaszokat okoz, ezért legalább 20 perces alapos sütést vagy főzést igényel. Hőkezelés során a kék szín eltűnik, és a hús visszasárgul.",
       confusion: "A sátántinóru (Rubroboletus satanas) kalapja világos ezüstös-fehéres, tönkjén vörös hálózat látható és melegkedvelő meszes talajon nő. A változékony tinóru (Suillellus luridus) tönkjén kifejezett, hosszan elnyúlt vörös hálózat van.",
       notes: "A hús kékülését a levegő oxigénjére oxidálódó variegátsav, a pórusok vörös színét pedig a variegarubin okozza."
+    },
+    fr: {
+      description: "Un champignon ectomycorhizien des forêts acides de conifères et de hêtres. Il est largement répandu en Europe, avec d'autres signalements dans le Caucase, en Asie Mineure, au Proche-Orient, en Amérique du Nord et, sous forme de variété, en Afrique du Nord. Il est assez commun en Grande-Bretagne et en Irlande, davantage en montagne et dans les collines qu'en plaine.",
+      cap: "Le chapeau mesure 5–20 cm de largeur, atteignant parfois 25 cm. Il est d'abord hémisphérique, puis convexe ou en coussinet, et plus étalé avec l'âge. La surface est généralement brun foncé, bai ou brun chocolat, moins souvent brun plus clair, lavée d'olive ou bronze cuivré, finement feutrée ou veloutée et mate dans le jeune âge, puis glabre, et brièvement un peu visqueuse par temps humide. Les zones meurtries s'assombrissent, parfois presque jusqu'au noir. Des chapeaux plus pâles se rencontrent, en particulier sur les sporophores qui poussent sous les chênes. La cuticule piléique débute sous forme d'un trichoderme d'extrémités hyphales dressées, cylindriques à faiblement claviformes, larges de 3–6 µm, qui se couchent rapidement et deviennent un peu gélatineuses.",
+      hymenium: "Les tubes sont jaunes à jaune-olive, mesurant jusqu'à environ 3 cm de longueur, échancrés ou adnés au niveau du pied, et virent immédiatement au bleu-vert à la coupe. Les pores sont petits, mesurant environ 1 mm ou moins, jaunes uniquement chez les très jeunes boutons, puis rouge orangé à rouge sang profond, et plus pâles avec une nuance olive avec l'âge. La pression les fait bleuir instantanément, et les taches bleues deviennent plus tard brun-noir. Les basides mesurent 25–40 × 9–13 µm, atteignant parfois 15 µm de largeur. Les cystides sont en forme de bouteille à ventrues-fusiformes, plus clairsemées et plus grandes sur les pores, mesurant jusqu'à environ 50 µm de longueur.",
+      stipe: "Le pied mesure 4–15 cm de hauteur et 2–5 cm d'épaisseur, souvent 7–15 × 2–4 cm en Grande-Bretagne et en Irlande, sans anneau ni réseau en relief. Il est ventru dans le jeune âge, puis cylindrique à claviforme. Le fond est jaune à jaune brunâtre, jaune au sommet, et couvert de fines ponctuations ou flocons rouges, qui peuvent être jaunâtres près du sommet. Sur les sporophores plus pâles qui poussent sous les chênes, les ponctuations sont fines et clairsemées. La base est olive et légèrement feutrée, avec un mycélium jaunâtre pâle. Les endroits meurtris bleuissent instantanément.",
+      flesh: "La chair est jaune vif à jaune d'œuf, parfois légèrement rougeâtre dans la base du pied, et ferme, fibreuse et coriace dans le bas du pied. Les surfaces coupées virent immédiatement à un bleu intense. En quelques heures, ce bleu s'estompe pour laisser place à un jaune terne. L'odeur est faible et fongique, ou peu distinctive, et la saveur est douce.",
+      sporePrint: "Brun olive à olive foncé. Les spores sont fusiformes à largement ellipsoïdales, mesurant environ 12–18 × 4,5–6,5 µm, ou 12–16 × 4,5–6 µm sur le matériel britannique.",
+      habitat: "Les sporophores apparaissent de mai à octobre ou novembre, de juin à novembre en Slovaquie et d'août à octobre en Grande-Bretagne et en Irlande. Ils poussent isolés ou en groupes sur le sol, souvent en lisière de forêt, dans une clairière ou au milieu des myrtilles, sur des sols acides frais sous les épicéas et d'autres conifères, et moins souvent sous les hêtres et les chênes. On les trouve fréquemment aux côtés du cèpe de Bordeaux (Boletus edulis). Les sols très secs, très humides ou fortement calcaires sont évités, et ils sont rares là où le sol est riche en azote.",
+      uses: "Soigneusement cuit, c'est un très bon champignon comestible contenant des toxines thermolabiles détruites à la cuisson, et il est couramment ramassé dans plusieurs pays européens, bien que certaines personnes ne le tolèrent pas. Dans certaines régions, il est préféré au cèpe de Bordeaux (Boletus edulis). La couleur bleue disparaît à la cuisson. Les sporophores crus ou insuffisamment cuits provoquent des vomissements et des diarrhées, et pour cette raison, le séchage est déconseillé.",
+      confusion: "Le bolet blafard (Suillellus luridus) possède un réseau rouge sur le pied, une ligne plus sombre au point de contact entre les tubes et la chair du chapeau, et des pores rouge orangé sur fond jaune orangé, et préfère les sols calcaires. Le bolet de Quélet (Suillellus queletii) a un pied plus lisse et plus pâle avec des flocons plus fins, souvent un chapeau rougeâtre, et une chair rouge pourpre à la base du pied qui est amyloïde. Le bolet menteur (Suillellus mendax) présente à la fois un réseau et des ponctuations, des tons plus rouges sur le chapeau et le pied, et une chair amyloïde à la base du pied. Le bolet satan (Rubroboletus satanas) possède un chapeau gris pâle à blanc crayeux, un pied bulbeux orné d'un réseau rouge et une chair qui ne bleuit que modérément. Le bolet de Dupain (Rubroboletus dupainii) a un chapeau rouge écarlate éclatant. Le bolet des loups (Rubroboletus lupinus) a un pied lisse. Le bolet magnifique (Rubroboletus pulcherrimus) possède un pied réticulé et est de plus grande taille. Le bolet pourpre (Imperator rhodopurpureus) préfère les sols neutres. Le bolet jonquille (Neoboletus junquilleus) a un chapeau jaune. Le bolet à pied jaune (Neoboletus xanthopus) est plus jaune sur le chapeau et le pied, avec des flocons plus petits et un tomentum à la base du pied, et pousse dans les chênaies thermophiles.",
+      notes: "Le bleuissement provient de l'acide variégatique, qui s'oxyde au contact de l'air, et la couleur rouge des pores est due à la variégatorubine. En Slovaquie, il est souvent délaissé car les pores rouges et le bleuissement intense rebutent les cueilleurs."
     }
     },
     sources: {
@@ -21469,23 +21470,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Bolet_%C3%A0_pied_rouge"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/808605"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -21508,6 +21492,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/C%C3%A9klatin%C3%B3ru"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Bolet_%C3%A0_pied_rouge"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/809312"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -21620,9 +21621,9 @@ export const CATALOG = [
       ru: "майский гриб",
       uk: "рядовка травнева",
       pl: "gęśnica wiosenna",
-      fr: "mousseron",
       it: "prugnolo",
-      hu: "májusi pereszke"
+      hu: "májusi pereszke",
+      fr: "mousseron"
     },
     names: {
       sk: ["čírovka májová", "májovka"]
@@ -21633,9 +21634,9 @@ export const CATALOG = [
       bg: ['гергьовка'],
       ru: ["калоцибе майская","георгиев гриб"],
       uk: ["майський гриб","калоцибе травнева"],
-      fr: ["tricholome de la Saint-Georges"],
       it: ["fungo di San Giorgio"],
-      hu: ["szentgyörgygomba","szentgyörgypereszke"]
+      hu: ["szentgyörgygomba","szentgyörgypereszke"],
+      fr: ["tricholome de la Saint-Georges"]
     },
     text: {
       tr: {
@@ -21911,18 +21912,6 @@ export const CATALOG = [
       confusion: "Śmiertelnie trujący włókniak ceglasty (Inosperma erubescens) rośnie na tych samych stanowiskach wiosną; ma promieniście włóknisty kapelusz, blaszki brudnobrązowiejące, a cały owocnik i miąższ po uszkodzeniu wyraźnie czerwienieją. Dzwonkówka trująca (Entoloma sinuatum) pojawia się później i ma różowy wysyp zarodników.",
       notes: "Ocena z 2019 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern)."
     },
-    fr: {
-      description: "Un champignon saprotrophe printanier très apprécié. Largement répandu dans toute l'Europe et en Asie tempérée.",
-      cap: "Le chapeau mesure 5–12 cm de largeur, très épais et charnu, hémisphérique puis convexe à étalé et bosselé. Il est blanc crème, ocre très pâle ou ivoire chamoisé, lisse et mat. La marge est longtemps enroulée puis sinueuse.",
-      hymenium: "Les lames sont très serrées, minces, échancrées à presque libres, blanc crème à ivoire pâle.",
-      stipe: "Le pied mesure 4–9 cm de hauteur et 1,5–3 cm d'épaisseur, robuste, trapu, souvent renflé à la base, blanc crème ou concolore au chapeau, ferme et plein.",
-      flesh: "La chair est blanche, très épaisse, ferme et compacte. L'odeur est puissante et caractéristique de farine fraîche ; la saveur est douce et nettement farineuse.",
-      sporePrint: "Blanche. Les spores sont ellipsoïdes, lisses, inamyloïdes, mesurant environ 5–6,5 × 3–4 µm.",
-      habitat: "Les sporophores apparaissent d'avril à juin (autour de la fête de la Saint-Georges, le 23 avril), en cercles de sorcières dans les prairies, les pâturages calcaires, les vergers et les haies d'aubépines.",
-      uses: "C'est un excellent comestible de choix, particulièrement réputé pour sa chair ferme et son arôme puissant, traditionnellement consommé en omelettes ou poêlé avec de la crème.",
-      confusion: "L'inocybe de Patouillard (Inosperma erubescens) apparaît à la même époque printanière sous les feuillus et est mortel ; il se distingue par son chapeau conique mamelonné, son rougissement net à la blessure, ses lames devenant ocre brunâtre et son absence d'odeur farineuse. L'entolome livide (Entoloma sinuatum) apparaît plus tard en été-automne et a des lames devenant rose saumon.",
-      notes: "Une évaluation de 2019 le classe en préoccupation mineure (Least Concern)."
-    },
     it: {
       description: "Un fungo saprotrofo primaverile tipico dei prati calcarei, pascoli collinari, radure e margini di roveti e biancospini. È ampiamente diffuso e ricercato in Europa.",
       cap: "Il cappello misura 4–15 cm di diametro. È molto carnoso, sodo, emisferico poi convesso con margine a lungo involuto, di colore bianco latte, crema chiaro o camoscio chiaro.",
@@ -21946,6 +21935,18 @@ export const CATALOG = [
       uses: "Kiváló csemegegomba, a tavaszi szezon egyik legkeresettebb és legízletesebb faja. Jellegzetes aromája sütve, levesekben és mártásokban kiválóan érvényesül.",
       confusion: "A halálosan mérgező téglavörös susulyka (Inosperma erubescens) szintén tavasszal terem, de lemezei hamar barnássárgák vagy fahéjbarnák lesznek, húsa sérülésre téglavörösre színeződik, és szaga kellemetlen gyümölcsillatú. A nagy döggomba (Entoloma sinuatum) később terem, lemezei éréskor rózsaszínűek lesznek.",
       notes: "Egy 2019-es felmérés szerint a nem veszélyeztetett (Least Concern) kategóriába tartozik."
+    },
+    fr: {
+      description: "Un champignon saprotrophe charnu des pelouses calcaires, des prairies, des vergers et des lisières herbeuses de bois, poussant souvent en ronds. Il est largement répandu en Europe, abondant dans certaines régions et absent d'autres, et signalé en Amérique du Nord. Ses sporophores comptent parmi les premiers grands champignons du printemps.",
+      cap: "Le chapeau mesure 4–15 cm de largeur, le plus souvent environ 5–12 cm. Il est d'abord hémisphérique, campanulé ou conique, avec une marge longtemps enroulée, puis convexe à aplati, restant souvent mamelonné, bosselé ou difforme. La surface est lisse, mate, soyeuse et glabre. Elle est blanchâtre à crème ou beige, parfois nuancée de brun clair ou de gris-brun, et devient souvent jaune ocré, fauve ou brun jaunâtre avec l'âge. Des formes à chapeau jaune existent également.",
+      hymenium: "Les lames sont très serrées et minces, larges d'environ 5–9 mm, avec une arête ondulée ou crénelée. Elles sont échancrées à adnées, souvent attachées par une petite dent, et parfois prolongées en une courte ligne décurrente. Elles sont blanchâtres à crème, puis ocre pâle ou grisâtres, et ne virent jamais au rose. Les basides sont étroitement claviformes à cylindriques à sommet élargi, mesurant 15–20 × 4–6 µm, généralement tétrasporiques et rarement bisporiques, avec des granulations sidérophiles et une boucle basale. Les cystides sont absentes.",
+      stipe: "Le pied mesure 3–9 cm de hauteur et 1–4 cm d'épaisseur, plus ou moins cylindrique, et souvent courbé. Les jeunes pieds sont parfois ventrus, et la base peut rester légèrement renflée ou, plus rarement, atténuée. Il est plein au début puis parfois farci, blanchâtre à crème, souvent ocre pâle en bas, et lisse à longitudinalement fibrilleux. Il n'y a pas d'anneau.",
+      flesh: "La chair est épaisse, ferme, un peu spongieuse et blanche, et ne change pas de couleur à la coupe. L'odeur est forte et farineuse, rappelant la farine fraîche, le concombre ou le plâtre frais. La saveur est agréable et farineuse à l'état cru. La cuisson dissipe la majeure partie de cette odeur et de ce goût de farine.",
+      sporePrint: "Blanche à blanc crème. Les spores sont ovoïdes à ellipsoïdales, lisses, hyalines, à paroi mince et inamyloïdes, mesurant 4–7 × 2,3–4,5 µm.",
+      habitat: "La principale période de fructification s'étend d'avril à juin. En région méditerranéenne, les champignons peuvent apparaître dès mars, tandis qu'en Scandinavie et en haute montagne ils se maintiennent en juin et juillet, et une poussée plus clairsemée est enregistrée en octobre et novembre. Ils poussent isolés, en groupes ou en ronds de sorcières qui persistent pendant de nombreuses années, dans les prés, les pâturages, les vergers, les jardins et les accotements herbeux des routes, dans les fourrés d'aubépines, de prunelliers et d'églantiers, ainsi qu'en lisière des forêts de feuillus sous le noisetier, le hêtre, le chêne ou le bouleau, parfois près de l'épicéa. Le sol est généralement riche et calcaire, bien que des sporophores se rencontrent aussi sur sol modérément acide. Le champignon décompose la litière herbacée. Certains auteurs le considèrent comme mycorhizien.",
+      uses: "C'est un champignon comestible de premier choix, préparé en omelettes, en risotto, en soupes et en sauces, ou séché, confit au vinaigre ou conservé par d'autres méthodes. Réputé comestible cru, il est cependant habituellement consommé cuit. Les jeunes sporophores sont préférés, car les spécimens plus âgés sont souvent troués par les larves de mouches. Les sporophores récoltés au bord des routes fréquentées peuvent accumuler des polluants liés à la circulation. Au Pays basque, c'est un mets printanier très recherché, et des quantités commerciales sont importées de Roumanie, de Hongrie, de Turquie et d'Europe de l'Est. Dans le centre de l'Italie, il est très apprécié depuis le XVIe siècle.",
+      confusion: "L'inocybe de Patouillard (Inosperma erubescens) pousse dans les mêmes stations printanières, y compris les parcs et les bois de feuillus. Ses lames sont rose pâle plutôt que blanches, échancrées-adnées, et rougissent au froissement, tandis que son sporophore dégage une odeur piquante et fruitée au lieu d'une odeur de farine. L'entolome livide (Entoloma sinuatum) possède des lames moins serrées qui deviennent rose saumon à rouge chair, et une sporée rose chair. Un ouvrage qualifie son odeur de rance, tandis que d'autres indiquent que la chair peut avoir une odeur et une saveur de farine, de sorte que les lames roses et la sporée rose constituent les critères fiables de distinction. Il fructifie de mai jusqu'en automne dans les bois clairs de feuillus, et les deux espèces peuvent cohabiter à l'orée d'un bois. Le meunier ou clitopile petite prune (Clitopilus prunulus) dégage également une odeur de farine, mais ses lames sont décurrentes et il fructifie plus tard dans l'année. Le tricholome étranglé (Tricholomella constricta) fructifie en automne sur sol riche en azote et possède un pied radicant ainsi qu'un anneau.",
+      notes: "Une évaluation de 2019 le classe comme préoccupation mineure (Least Concern)."
     }
     },
     sources: {
@@ -22315,23 +22316,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Mousseron"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/39600"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -22354,6 +22338,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/M%C3%A1jusi_pereszke"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Tricholome_de_la_Saint-Georges"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/3849"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -22473,9 +22474,9 @@ export const CATALOG = [
       ru: "волоконница краснеющая",
       uk: "іноцибе патуйяра",
       pl: "włókniak ceglasty",
-      fr: "inocybe de Patouillard",
       it: "inocibe erubescente",
-      hu: "téglavörös susulyka"
+      hu: "téglavörös susulyka",
+      fr: "inocybe de Patouillard"
     },
     names: {
       en: ["red-staining Inocybe", "red-staining fibrecap", "brick-red tear mushroom"]
@@ -22486,8 +22487,8 @@ export const CATALOG = [
       ru: ["волоконница патуйяра"],
       uk: ["плютка патуйяра"],
       pl: ["strzępiak ceglasty"],
-      fr: ["inocybe érubescent"],
-      it: ["inocibe di Patouillard"]
+      it: ["inocibe di Patouillard"],
+      fr: ["inocybe érubescent"]
     },
     text: {
       tr: {
@@ -22755,17 +22756,6 @@ export const CATALOG = [
       uses: "Śmiertelnie trujący. Zawiera bardzo duże ilości muskaryny (wielokrotnie więcej niż muchomor czerwony). Zatrucie wywołuje gwałtowne pocenie się, ślinotok, zwężenie źrenic, zapaść krążeniową i bez natychmiastowego podania atropiny może zakończyć się śmiercią.",
       confusion: "Gęśnica wiosenna (Calocybe gambosa) owocuje w tych samych miejscach i czasie, lecz jej miąższ nie czerwienieje, blaszki pozostają białawe, kapelusz nie ma promienistych włókien, a zapach jest mączny."
     },
-    fr: {
-      description: "Un champignon ectomycorhizien printanier mortellement toxique. Répandu dans toute l'Europe, particulièrement dans les régions tempérées et calcaires.",
-      cap: "Le chapeau mesure 3–8 cm de largeur, d'abord conique ou campanulé avec un mamelon aigu central, puis s'étalant avec la marge fendue radialement. Il est blanc crème au début puis se teinte de fauve ocré et se tache fortement de rouge brique ou de rouge vermillon aux froissements et avec l'âge.",
-      hymenium: "Les lames sont serrées, étroites et adnées, blanchâtres au début puis olivâtres et enfin brun cannelle, rougissant nettement au froissement et sur les arêtes blessées.",
-      stipe: "Le pied mesure 4–10 cm de hauteur et 8–15 mm d'épaisseur, cylindrique ou légèrement bulbeux à la base, blanc crème et fibrilleux, rougissant fortement au toucher ou à la manipulation.",
-      flesh: "La chair est blanche, rougissant lentement mais nettement à la coupe ou à la blessure. L'odeur est fruitée et agréable dans la jeunesse puis devient désagréable et éthérée ; la saveur est douce mais la dégustation est formellement proscrite.",
-      sporePrint: "Brun tabac ou ocre rouille. Les spores sont ellipsoïdes à haricot (subréniformes), lisses, mesurant environ 11–15 × 6–8 µm.",
-      habitat: "Les sporophores apparaissent de mai à juillet dans les forêts de feuillus, les parcs et les lisières sur sols calcaires, souvent en compagnie des hêtres, des tilleuls et des chênes.",
-      uses: "Ce champignon est mortellement toxique. Il renferme de très fortes concentrations de muscarine (bien supérieures à celles de l'amanite tue-mouches), provoquant un syndrome muscarinique fulgurant caractérisé par des sueurs profuses, une bradycardie, une détresse respiratoire et un arrêt cardiaque.",
-      confusion: "Le mousseron (Calocybe gambosa) est un excellent comestible printanier qui ne rougit jamais à la cassure, garde des lames blanches et dégage une odeur très forte de farine fraîche. Le champignon de Paris ou les agarics ont un anneau et des lames devenant brun chocolat."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi calcarei di latifoglie, giardini e parchi. È diffuso in Europa e in parti dell'Asia.",
       cap: "Il cappello misura 2,5–9 cm di diametro. È conico-campanulato poi espanso con umbone centrale prominente, inizialmente bianco o crema chiaro, che si macchia tipicamente e gradualmente di rosso mattone o vermiglio con l'età e al tocco.",
@@ -22788,6 +22778,17 @@ export const CATALOG = [
       uses: "Halálosan mérgező. Rendkívül nagy mennyiségű muszkarint tartalmaz (jóval többet, mint a légyölő galóca), amely kolinerg szindrómát, túlzott izzadást, nyáladzást, látászavart, szívleállást és fulladást okoz. Fogyasztása tilos.",
       confusion: "A májusi pereszke (Calocybe gambosa) ehető, lemezei fehérek maradnak, húsa nem vörösödik, és erős lisztszagú. A mezei csiperke (Agaricus campestris) lemezei rózsaszínűek, majd csokoládébarnák, és tönkjén gallér található.",
       notes: "A muszkarinmérgezés specifikus ellenszere az atropin, amelyet a tünetek megjelenésekor haladéktalanul be kell adni."
+    },
+    fr: {
+      description: "Un champignon ectomycorhizien des bois de feuillus calcaires, des parcs et des pelouses, associé le plus souvent au hêtre, au chêne, au tilleul ou au charme. Il est largement répandu en Europe, signalé en Anatolie orientale, et présent en Israël sous le chêne et le pin. En Sibérie occidentale, il fructifie sur les pelouses et à l'ombre de feuillus d'alignement.",
+      cap: "Le chapeau mesure 2,5–9 cm de largeur, et certains sporophores atteignent 12 cm. Il est d'abord conique ou campanulé, avec une marge enroulée, puis convexe à étalé, conservant généralement un large mamelon. La marge se relève souvent et se fend radialement. La surface est sèche et soyeuse, ornée de fines fibrilles radiales plutôt que d'écailles, bien qu'une marge fendillée puisse se découper en plaques, et elle devient légèrement visqueuse par temps humide. Les jeunes chapeaux sont blancs à crème ou ocre pâle. Ils deviennent couleur paille à ocre puis rouge brique ou cinabre, avec des taches rouges là où la surface est froissée ou déchirée.",
+      hymenium: "Les lames sont serrées, larges jusqu'à environ 8 mm, avec une arête blanchâtre, floconneuse et irrégulière. Elles sont échancrées à adnexées ou adnées, et parfois presque libres. Elles sont d'abord blanchâtres à ocre pâle, puis rosâtres, gris-brun ou brun olivâtre, et enfin brun rougeâtre, souvent avec des taches rougeâtres, et elles rougissent aux meurtrissures. Les basides sont claviformes, mesurant 31–50 × 10–15 µm, pour la plupart tétrasporiques avec quelques basides bisporiques. Les cheilocystides sont à paroi mince, cylindriques à étroitement claviformes, sans calotte de cristaux, hyalines ou remplies d'un contenu brun-rouge, mesurant environ 25–70 × 8–20 µm. Les pleurocystides sont absentes. Un très jeune sporophore peut encore présenter une cortine fugace.",
+      stipe: "Le pied mesure 2,5–12 cm de hauteur et 0,4–2 cm d'épaisseur, cylindrique, et souvent un peu renflé ou en massue à la base, qui peut retenir un amas de terre. Il est plein dans le jeune âge. La surface est fibrilleuse longitudinalement, et le sommet est pruineux à finement floconneux, avec des caulocystides semblables aux cheilocystides uniquement près de l'apex. Il est blanchâtre à ocre pâle au début puis se tache de rouge orangé à rouge brique, généralement de la base vers le haut, tout en restant plus pâle qu'un vieux chapeau. Il n'y a pas d'anneau.",
+      flesh: "La chair est blanche dans le chapeau et blanchâtre à rose pâle dans le pied. Les surfaces meurtries rougissent fortement. La chair coupée rougit lentement et seulement par endroits dans certaines récoltes, et dans d'autres elle ne change presque pas. Les jeunes sporophores ont souvent une odeur discrètement fruitée, sucrée, savonneuse ou rappelant la betterave rouge. Les spécimens plus âgés prennent une odeur désagréable, et certaines récoltes sentent le sperme ou le moisi et l'herbe coupée. L'odeur n'est pas farineuse. La saveur est décrite comme douce.",
+      sporePrint: "Brun ocré à brun terne, parfois avec une nuance olive. Les spores sont lisses, ellipsoïdales à réniformes (en forme de haricot) et parfois irrégulières, mesurant 9–15 × 5–8 µm, le plus souvent environ 10–14,5 × 5,5–7,5 µm.",
+      habitat: "Les sporophores apparaissent de mai à septembre, le plus souvent en juin. En Sibérie occidentale, la saison se prolonge jusqu'en octobre. Ils poussent isolés ou en petits groupes sur le sol et la litière de feuilles, généralement sur terrain calcaire ou neutre, sous le hêtre, le chêne, le tilleul et le charme, ainsi que dans les bois mixtes, le long des sentiers, dans les parcs et sur les pelouses ombragées sous des feuillus d'alignement. Quelques récoltes sont signalées sous bouleau ou sous conifères.",
+      uses: "Il est mortellement toxique. Les sporophores contiennent une grande quantité de muscarine. L'intoxication peut débuter entre quinze minutes et deux heures après l'ingestion, par des nausées, des sueurs froides, une salivation abondante et un larmoiement intense, des vomissements, des diarrhées douloureuses et des crampes, puis des troubles du rythme cardiaque, une gêne respiratoire, une grande faiblesse et des troubles de la vision, tandis que la personne reste consciente. Une dose mortelle publiée est d'environ 40–50 g à l'état frais, et un décès a été enregistré dans le Surrey en 1937.",
+      confusion: "Le mousseron ou tricholome de la Saint-Georges (Calocybe gambosa) fructifie dans les mêmes stations printanières. Ses lames restent blanchâtres à crème et ne rougissent pas, son chapeau n'est pas fibrilleux radialement et sa chair dégage une forte odeur de farine. L'inocybe de Godey (Inocybe godeyi) est plus petit, dégage une odeur fruitée et possède un bulbe marginé à la base du pied. L'inocybe de Bongard (Inosperma bongardii) rougit également aux meurtrissures, mais son chapeau est grossièrement fibrilleux à écailleux et son odeur est piquante et chimique. L'inocybe à odeur de poire (Inocybe pyriodora) rougit lentement, possède des pleurocystides à paroi épaisse et une odeur douceâtre lourde. D'autres espèces pâles du groupe sont plus petites et ne rougissent pas avec l'âge ni aux meurtrissures. En Israël, il a été confondu avec le petit-gris ou tricholome terreux (Tricholoma terreum), qui croît dans le même habitat et ne tache pas en rouge. Il a également été confondu avec des espèces d'agarics (Agaricus) et avec la pholiote ridée (Cortinarius caperatus). Ce champignon ne possède pas d'anneau, et ses lames rougissent aux froissements."
     }
     },
     sources: {
@@ -23125,23 +23126,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Inocybe_de_Patouillard"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/808942"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -23164,6 +23148,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/T%C3%A9glav%C3%B6r%C3%B6s_susulyka"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Inocybe_de_Patouillard"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/809313"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -23269,9 +23270,9 @@ export const CATALOG = [
       ru: "ежовик жёлтый",
       uk: "їжовик жовтуватий",
       pl: "kolczak obłączasty",
-      fr: "pied-de-mouton",
       it: "steccherino dorato",
-      hu: "sárga gereben"
+      hu: "sárga gereben",
+      fr: "pied-de-mouton"
     },
     names: {
       en: ["hedgehog mushroom", "hedgehog fungus", "sweet tooth"],
@@ -23284,8 +23285,8 @@ export const CATALOG = [
       bg: ['овчи нос'],
       ru: ["гиднум выемчатый"],
       uk: ["гіднум виїмчастий"],
-      fr: ["hydne sinué"],
-      it: ["spinarolo"]
+      it: ["spinarolo"],
+      fr: ["hydne sinué"]
     },
     text: {
       tr: {
@@ -23560,18 +23561,6 @@ export const CATALOG = [
       confusion: "Kolczak rudawy (Hydnum rufescens) jest mniejszy, ma intensywniej pomarańczowordzawy kapelusz i kolce niezbiegające na trzon. Kolczak kasztanowaty (Hydnum umbilicatum) ma wyraźnie pępkowaty kapelusz i rośnie w Ameryce Północnej.",
       notes: "Ocena z 2019 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern)."
     },
-    fr: {
-      description: "Un champignon ectomycorhizien. Largement répandu et commun en Europe, dans les forêts de conifères comme de feuillus. Présent également en Amérique du Nord et dans certaines régions d'Asie.",
-      cap: "Le chapeau mesure 3–15 cm de largeur. Il est d'abord convexe, puis étalé, ondulé ou lobé, souvent déprimé au centre et irrégulier lorsque plusieurs chapeaux fusionnent. La couleur est chamois pâle, crème, abricot clair ou beige ocré. La surface est sèche, finement veloutée au début puis glabre.",
-      hymenium: "Des aiguillons serrés et mous, mesurant 2–7 mm de longueur, couvrent la face inférieure. Ils sont cassants, généralement décurrents sur le pied, de couleur blanchâtre ou crème carné pâle, se tachant lentement d'orange ocre aux meurtrissures.",
-      stipe: "Le pied mesure 2–10 cm de hauteur et 0,5–3 cm d'épaisseur. Il est cylindrique à légèrement clavé, souvent trapu, courbé ou excentré, de même couleur que le chapeau ou plus pâle, se tachant d'orange brunâtre aux froissements.",
-      flesh: "La chair est épaisse, ferme et cassante, blanche à légèrement jaunâtre. Certaines récoltes ont une chair qui vire lentement au jaune orangé ou au brun clair à l'air. L'odeur est agréable et fruitée ; la saveur est douce chez les jeunes spécimens, devenant légèrement amère ou poivrée avec l'âge.",
-      sporePrint: "Blanche à crème pâle. Les spores sont lisses, à paroi mince, hyalines, subglobuleuses à largement ovoïdes, mesurant environ 6,5–9 × 5,5–7 µm.",
-      habitat: "Les sporophores apparaissent de juillet à novembre, et en Grande-Bretagne et Irlande d'août à décembre. Il croît au sol dans les sous-bois moussus, souvent en cercles ou en lignes denses, sous les hêtres, les chênes, les épicéas et les pins.",
-      uses: "C'est un excellent comestible de choix. Les jeunes sporophores sont préférés, car les spécimens plus vieux peuvent acquérir de l'amertume, qui s'atténue en éliminant les aiguillons avant la cuisson. Il conserve une texture ferme remarquable à la cuisson.",
-      confusion: "L'hydne roussissant (Hydnum rufescens) est plus petit, possède un chapeau orange abricot ou roux plus vif, des aiguillons nettement adnés et pousse souvent sous les conifères. L'hydne imbriqué (Sarcodon imbricatus) est plus grand, brun sombre avec de grosses écailles dressées sur le chapeau.",
-      notes: "Une évaluation de 2019 classe l'espèce en préoccupation mineure (Least Concern)."
-    },
     it: {
       description: "Un fungo ectomicorrizico. È ampiamente diffuso e comune in tutta Europa, sia nei boschi di conifere che di latifoglie, crescendo spesso in gruppi numerosi o cerchi.",
       cap: "Il cappello misura 3–15 cm di diametro. È convesso poi spianato, ondulato o lobato, e talvolta depresso al centro. Il colore varia dal giallo crema al crema-ocraceo chiaro o carnicino chiaro, opaco e vellutato.",
@@ -23595,6 +23584,18 @@ export const CATALOG = [
       uses: "Jó ehető gomba, húsos állaga sütés-főzés után is megmarad. Idősebb példányoknál a tüskéket érdemes lekaparni a kesernyés íz elkerülése érdekében.",
       confusion: "A sárgásvörös gereben (Hydnum rufescens) kisebb termetű, kalapja élénkebb rozsdasárga vagy vörösesbarna, tüskéi nem futnak le a tönkre. A sárga rókagomba (Cantharellus cibarius) termőrétege érdes ráncokból áll, nem tüskékből.",
       notes: "Egy 2019-es felmérés szerint a faj nem veszélyeztetett (Least Concern)."
+    },
+    fr: {
+      description: "Un champignon ectomycorhizien. Il est largement répandu et commun en Europe, dans les bois de conifères comme de feuillus. Une révision de 2018 confirme les récoltes d'Europe. Les champignons d'Amérique du Nord et d'Asie orientale autrefois rangés sous ce nom appartiennent à d'autres espèces. Des descriptions plus anciennes étendent sa présence à travers tout l'hémisphère nord tempéré.",
+      cap: "Le chapeau mesure 3–15 cm de largeur. Il est d'abord convexe, puis étalé, ondulé ou lobé, et parfois déprimé. La marge est enroulée dans la jeunesse, et les chapeaux serrés les uns contre les autres se déforment. La surface est sèche, lisse à finement feutrée. Elle est crème, jaune ou ocre orangé, généralement plus pâle vers la marge, et peut décolorer presque jusqu'au blanc. Les meurtrissures et l'âge apportent des teintes ocre à brun orangé.",
+      hymenium: "Des aiguillons mous et serrés, mesurant 2–7 mm de longueur, couvrent la face inférieure. Ils sont cassants, généralement décurrents, et parfois seulement brièvement décurrents. Ils sont blanchâtres à crème au début, puis concolores au chapeau ou orange pâle, et se détachent facilement au toucher. Les basides sont clavées, mesurant 35–50 × 6–8 µm, tétrasporiques, avec des stérigmates de 3–6 µm de long et une anse d'anastomose basale.",
+      stipe: "Le pied mesure 2–10 cm de hauteur et 0,5–3 cm d'épaisseur. Il est cylindrique à légèrement clavé et souvent excentré. La base peut s'atténuer ou rester légèrement renflée. Il est plein, blanchâtre à crème, et plus pâle que le chapeau. Les meurtrissures le teintent de brun ocre pâle à brun orangé. Il n'y a pas d'anneau.",
+      flesh: "La chair est épaisse, ferme et cassante, blanche à légèrement jaunâtre. Certaines récoltes se teintent de jaune à brun orangé à la coupe, tandis que d'autres ne changent pas. L'odeur est agréable, parfois faiblement fruitée. La saveur est douce à légèrement acidulée ou poivrée, et les vieux sporophores deviennent amers.",
+      sporePrint: "Blanche à crème pâle. Les spores sont lisses, à paroi mince et hyalines, subglobuleuses à largement ellipsoïdes, mesurant 6,5–9 × 5,5–7,5 µm. Sur le matériel type, elles mesurent 7–8,5 × 6,2–7,5 µm.",
+      habitat: "Les sporophores apparaissent de juillet à novembre, et en Grande-Bretagne ainsi qu'en Irlande d'août jusqu'en décembre. Dans les pinèdes d'Europe occidentale, ils peuvent persister jusqu'en hiver. Ils poussent solitaires, en groupes, en lignes ou en ronds de sorcières, sur le sol, la litière de feuilles ou la mousse, sous épicéa, sapin, pin ou hêtre, ainsi que dans les bois mixtes avec bouleau, chêne, tremble ou noisetier. Le sol est souvent calcaire, bien qu'ils croissent également là où il est simplement humide.",
+      uses: "C'est un excellent champignon comestible. Les jeunes sporophores sont préférés, car les plus âgés deviennent amers. La chair ferme s'utilise dans les soupes, les ragoûts et les risottos, souvent mélangée à d'autres champignons. Il est vendu sur les marchés européens. La cuisson atténue la saveur poivrée.",
+      confusion: "L'hydne roussissant (Hydnum rufescens) est plus petit, et son chapeau est d'un abricot, orange ou roux plus soutenu. Ses aiguillons sont adnés ou libres plutôt que décurrents, la marge de son chapeau est plus nettement délimitée, et son chapeau est moins feutré. L'hydne à spores ellipsoïdes (Hydnum ellipsosporum) a un chapeau de 3–5 cm de largeur et des spores ellipsoïdes de 9–11 × 6–7,5 µm. Les sporophores pâles ne peuvent pas être séparés de Hydnum boreorepandum (Hydnum boreorepandum) sans séquençage, et les spores des deux espèces ont essentiellement la même taille. L'hydne de Slovénie (Hydnum slovenicum) a un chapeau ocre orangé et des spores plus petites, mesurant en moyenne 7,5 × 6,4 µm. L'hydne blanc (Hydnum albidum) est une espèce distincte et plus petite, blanche à gris-jaune pâle, avec de petites spores subglobuleuses. La girolle (Cantharellus cibarius) et la chanterelle pruineuse (Cantharellus pallens) possèdent des plis épais et fourchus plutôt que des aiguillons.",
+      notes: "Une évaluation de 2019 classe l'espèce en préoccupation mineure (Least Concern)."
     }
     },
     sources: {
@@ -23951,23 +23952,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Pied-de-mouton"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/4808"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -23990,6 +23974,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/S%C3%A1rga_gereben"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Pied-de-mouton"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/4808"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -24109,9 +24110,9 @@ export const CATALOG = [
       ru: "саркодон черепитчатый",
       uk: "саркодон черепичастий",
       pl: "sarniak świerkowy",
-      fr: "sarcodon imbriqué",
       it: "steccherino bruno",
-      hu: "cserepes gereben"
+      hu: "cserepes gereben",
+      fr: "sarcodon imbriqué"
     },
     names: {
       en: ["scaly hedgehog", "scaly tooth"],
@@ -24137,8 +24138,8 @@ export const CATALOG = [
       ru: ["ежовик пёстрый","ежовик черепитчатый"],
       uk: ["їжовик строкатий"],
       pl: ["sarniak dachówkowaty"],
-      fr: ["hydne imbriqué"],
-      it: ["idno embricato"]
+      it: ["idno embricato"],
+      fr: ["hydne imbriqué"]
     },
     text: {
       tr: {
@@ -24414,18 +24415,6 @@ export const CATALOG = [
       confusion: "Sarniak sosnowy (Sarcodon squamosus) rośnie pod sosnami i ma drobniejsze, bardziej przylegające łuski. Sarniak szorstki (Hydnellum scabrosum) ma gorzki smak i sinozielonkawą podstawę trzonu.",
       notes: "Stare owocniki zawierają barwniki używane dawniej do farbowania wełny na niebieskozielone odcienie. Ocena z 2019 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern)."
     },
-    fr: {
-      description: "Un champignon ectomycorhizien des forêts d'épicéas, également rencontré sous les sapins. Largement répandu dans toute l'Europe boréale, montagnarde et tempérée, ainsi qu'en Asie et en Amérique du Nord.",
-      cap: "Le chapeau mesure 5–25 cm de largeur et peut atteindre environ 30 cm. Il est d'abord convexe à marge enroulée, puis s'étale largement et devient profondément déprimé au centre. La surface est brun café, brun grisâtre à bistre, entièrement hérissée de grandes écailles grossières, dressées et concentriques, particulièrement épaisses et sombres au centre.",
-      hymenium: "La face inférieure porte des aiguillons serrés et fragiles plutôt que des lames. Ils descendent légèrement sur le pied, sont blanchâtres ou gris pâle dans la jeunesse, puis virent au brun foncé à maturité.",
-      stipe: "Le pied mesure 3–10 cm de hauteur et 1–4 cm d'épaisseur. De nombreux sporophores sont si courts sur pied que le chapeau semble reposer directement au sol. Il est cylindrique, robuste, gris blanchâtre au sommet et brunissant vers la base.",
-      flesh: "La chair est épaisse, blanchâtre à gris pâle ou brun pâle, brunâtre dans la base du pied, ferme au début puis spongieuse. L'odeur est agréable et épicée ; la saveur est douce chez les très jeunes spécimens mais devient rapidement amère et astringente.",
-      sporePrint: "Brune à brun grisâtre. Les basidiospores sont subglobuleuses à irrégulièrement tuberculées et verruqueuses, mesurant environ 6–8 × 5–7 µm.",
-      habitat: "Les sporophores apparaissent d'août à novembre en Europe dans les forêts de montagne et boréales d'épicéas (Picea abies), sur des sols sablonneux, acides et bien drainés.",
-      uses: "Les très jeunes sporophores sont parfois consommés, bien que la chair devienne vite coriace et de médiocre qualité gustative. Les spécimens âgés sont amers et immangeables. Il est parfois séché et réduit en poudre condimentaire amère.",
-      confusion: "Le sarcodon écailleux (Sarcodon squamosus) possède des écailles plus petites et plus appliquées, et croît exclusivement sous les pins (Pinus). Le pied-de-mouton (Hydnum repandum) est crème jaunâtre et dépourvu de grandes écailles foncées.",
-      notes: "Les sporophores âgés de cette espèce et de ses taxons voisins contiennent des pigments bleu-vert utilisés traditionnellement pour teindre la laine. Une évaluation de 2019 la classe en préoccupation mineure (Least Concern)."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi montani di abete rosso (Picea abies). È diffuso nelle foreste boreali e alpine di Europa e Nord America.",
       cap: "Il cappello misura 5–25 cm di diametro (talvolta fino a 30 cm), molto carnoso e tozzo, convesso poi spianato e depresso al centro. È di colore bruno-grigiastro o bruno scuro, tipicamente ricoperto da larghe scaglie rilevate concentriche embricate.",
@@ -24449,6 +24438,18 @@ export const CATALOG = [
       uses: "Fiatalon ehető, de erős fűszeres íze és idősebb korban jelentkező kesernyéssége miatt leginkább szárítva és porrá őrölve, fűszergombaként használják.",
       confusion: "A pikkelyes gereben (Sarcodon squamosus) lombos erdőkben, különösen fenyőelegyes tölgyesekben nő, pikkelyei finomabbak. A sárga gereben (Hydnum repandum) sokkal világosabb színű és kalapja sima.",
       notes: "Idős termőtesteiből és rokon fajaiból régen kékesszürke és zöld pigmenteket nyertek ki gyapjú festésére. Lengyelországban a 2006-os vörös lista a sebezhető kategóriába sorolta, és 2014-ig szigorú védelem alatt állt."
+    },
+    fr: {
+      description: "Un champignon ectomycorhizien des forêts d'épicéas, également rencontré avec le sapin. Il est largement répandu en Europe et en Amérique du Nord, et il est signalé au Japon. Les mentions des îles Britanniques et des Pays-Bas appartiennent à une espèce associée aux pins distincte. Il est localement commun dans les pessières de montagne et était autrefois plus abondant.",
+      cap: "Le chapeau mesure 5–25 cm de largeur et peut atteindre environ 30 cm. Il est d'abord convexe, avec une marge enroulée, puis étalé à entonnoir, souvent avec une profonde dépression centrale qui peut s'ouvrir en un trou. La marge devient ondulée ou lobée. La surface est sèche et brune, brun-gris ou chamois, parfois avec une teinte rougeâtre, et plus pâle vers le bord. De grosses et épaisses écailles brun foncé à noirâtres se dressent au centre, souvent disposées en zones concentriques grossières, et sont plus aplaties vers la marge. Avec l'âge, les écailles s'assombrissent et se retroussent.",
+      hymenium: "La face inférieure porte des aiguillons serrés et cassants plutôt que des lames. Ils descendent sur le pied et s'y raréfient. Ils mesurent de plusieurs millimètres à 1,5 cm de longueur, blanchâtres ou gris pâle dans le jeune âge, puis brun-gris à bruns. Des anses d'anastomose sont présentes.",
+      stipe: "Le pied mesure 3–10 cm de longueur et 1–4 cm d'épaisseur. De nombreux sporophores sont si trapus que le pied reste caché jusqu'à ce que le champignon soit soulevé. Il est cylindrique ou légèrement clavé, parfois excentré, et souvent plus épais à la base, bien que certains s'y rétrécissent. La surface est sèche, lisse ou finement veloutée, blanchâtre dans la jeunesse puis grise à brune par la suite, et peut porter quelques aiguillons avortés près du sommet. Un mycélium blanc adhère à la base. L'intérieur est plein au début et peut devenir creux avec l'âge.",
+      flesh: "La chair est épaisse, blanchâtre à gris pâle ou brun pâle, et brunâtre dans la base du pied. La chair jeune est ferme. La chair plus âgée est molle ou coriace. Elle n'exsude pas de liquide. L'odeur est douce ou épicée, et la saveur est douce, agréable ou légèrement amère, et plus amère chez les vieux sporophores. L'hydroxyde de potassium sur la chair donne une faible teinte olive ou ne provoque aucune réaction.",
+      sporePrint: "Brune à brun-gris. Les basidiospores sont subglobuleuses à irrégulièrement globuleuses, avec des verrues ou nodules anguleux. Les descriptions d'Europe centrale indiquent 6–8 × 5–5,5 µm. Une description nord-américaine donne 5–8,5 × 5–7,5 µm.",
+      habitat: "Les sporophores apparaissent de juillet à septembre dans une grande partie de l'Amérique du Nord, et de septembre à décembre sur la côte ouest. En Europe centrale, ils fructifient d'août jusqu'en novembre, et par temps doux ils persistent un peu plus longtemps. Ils poussent solitaires, en groupes ou en touffes fusionnées, parfois en cercles, sur sol sableux acide, dans la mousse ou dans la litière d'aiguilles, principalement sous épicéa dans les bois de piémont et de montagne, ainsi que sous sapin. On les rencontre également dans les bois mixtes et de feuillus.",
+      uses: "Les jeunes sporophores sont consommés, bien que la chair soit coriace et la qualité seulement moyenne. Les plus âgés sont amers et caoutchouteux. Le blanchiment atténue l'amertume. Ils sont préparés au vinaigre ou séchés et utilisés comme condiment, et en Bulgarie le champignon séché est moulu comme une farine aromatique. Les sporophores crus peuvent être toxiques, et certaines récoltes provoquent des troubles gastro-intestinaux.",
+      confusion: "Le sarcodon écailleux (Sarcodon squamosus) possède des écailles plus petites et plus appliquées et croît avec le pin. L'hydne scabre (Hydnellum scabrosum) a des écailles plus fines, une saveur très amère et une chair bleu-vert dans la base du pied. Hydnellum joeides (Hydnellum joeides) est brun et sa chair vire lentement au violet à la coupe. Le bolet pomme de pin (Strobilomyces strobilaceus) peut sembler floconneux vu du dessus, mais il possède des pores. Le pied-de-mouton (Hydnum repandum) présente un chapeau lisse crème, jaune ou orangé et des aiguillons pâles, sans grosses écailles sombres.",
+      notes: "Les vieux sporophores de cette espèce et de ses taxons apparentés contiennent des pigments bleu-vert utilisés pour teindre la laine. Une liste rouge de Pologne de 2006 classe l'espèce comme vulnérable (Vulnerable). Elle a fait l'objet d'une protection stricte en Pologne jusqu'en 2014."
     }
     },
     sources: {
@@ -24776,23 +24777,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Sarcodon_imbricatus"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/4854"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -24815,6 +24799,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Cserepes_gereben"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Sarcodon_imbricatus"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/4854"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -24943,9 +24944,9 @@ export const CATALOG = [
       ru: "сыроежка сине-жёлтая",
       uk: "сироїжка синьо-зелена",
       pl: "gołąbek zielonawofioletowy",
-      fr: "russule charbonnière",
       it: "colombina maggiore",
-      hu: "kékhátú galambgomba"
+      hu: "kékhátú galambgomba",
+      fr: "russule charbonnière"
     },
     names: {
       en: ["variegated russula"]
@@ -25234,18 +25235,6 @@ export const CATALOG = [
       confusion: "Inne fioletowe lub zielonkawe gołąbki (np. Russula ionochlora, Russula virescens) mają blaszki typowo kruche, łamiące się przy dotknięciu, oraz kremowy wysyp zarodników. Śmiertelnie trujący muchomor zielonawy (Amanita phalloides) ma pochwę u podstawy trzonu i pierścień.",
       notes: "Ocena z 2025 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern)."
     },
-    fr: {
-      description: "Un champignon ectomycorhizien commun des forêts de feuillus et mixtes, associé le plus souvent au hêtre et au chêne. Répandu dans toute l'Europe et dans les régions tempérées d'Asie.",
-      cap: "Le chapeau mesure couramment 5–15 cm de largeur, avec des extrêmes de 4,5–18 cm. Il est d'abord globuleux à convexe, puis s'étale avec le centre déprimé. La coloration est remarquablement variable, mêlant le violet ardoise, le vert olive, le pourpre violacé, le gris acier et le noirâtre. La cuticule est brillante, légèrement visqueuse à l'humidité et ornée de fines veinules radiales.",
-      hymenium: "Les lames sont blanches à crème très pâle, serrées, cireuses et souples : elles sont flexibles au toucher et se plient sans se briser sous la pression du doigt, un caractère essentiel parmi les russules.",
-      stipe: "Le pied est blanc pur, mesurant 4–10 cm de hauteur et 1,5–3,5 cm d'épaisseur, cylindrique ou légèrement aminci à la base, ferme dans la jeunesse puis cassant comme de la craie.",
-      flesh: "La chair est blanche, ferme et épaisse, souvent lavée de violacé sous la cuticule du chapeau. La réaction au sulfate de fer (FeSO4) est remarquablement négative ou très faiblement verdâtre terne (alors qu'elle est rose saumon chez la plupart des autres russules). L'odeur est insignifiante ; la saveur est douce et noisetée.",
-      sporePrint: "Blanc pur. Les spores sont largement ellipsoïdes, mesurant environ 7–9 × 5,5–7 µm, ornées de verrues isolées peu réticulées.",
-      habitat: "Les sporophores apparaissent de juin à novembre dans les bois de feuillus et mixtes, particulièrement sous les hêtres (Fagus) et les chênes (Quercus), sur des sols divers.",
-      uses: "C'est un excellent comestible de choix, réputé pour sa chair douce et sa texture moelleuse qui ne se dessèche pas excessivement à la cuisson.",
-      confusion: "La russule vert-et-violet (Russula ionochlora) et la russule faux-azur (Russula parazurea) sont plus petites, possèdent des lames cassantes et bleuissent au sulfate de fer. L'amanite phalloïde (Amanita phalloides) a des teintes vertes mais possède un anneau et une volve membraneuse en sac.",
-      notes: "Une évaluation de 2025 la classe en préoccupation mineure (Least Concern), laissant incertaines les mentions d'Afrique et écartant les signalements australiens."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi di latifoglie (soprattutto faggio e quercia) e conifere. È una delle russule più comuni e ricercate d'Europa.",
       cap: "Il cappello misura 5–15 cm di diametro (fino a 18 cm). È sodo, carnoso, emisferico poi convesso e infine depresso. Ha colorazione estremamente variabile con sfumature policrome di viola, blu-ardesia, porpora e verde oliva.",
@@ -25269,6 +25258,18 @@ export const CATALOG = [
       uses: "Kiváló csemegegomba, húsa sütve, levesben vagy rántva is kemény és ízletes marad.",
       confusion: "A többi galambgombafajtól rugalmas, nem törékeny lemezei különböztetik meg legbiztosabban. A mérgező zöldes színű fajok közül a gyilkos galóca (Amanita phalloides) tönkjén jól látható gallér és tágas bocskor található.",
       notes: "Egy 2025-ös felmérés szerint nem veszélyeztetett (Least Concern). Vas-szulfáttal (FeSO4) érintkezve a húsa szürkészöld színreakciót ad, vagy nem reagál, míg más galambgombák húsa narancssárgára vagy rózsaszínre színeződik."
+    },
+    fr: {
+      description: "Un champignon ectomycorhizien des bois de feuillus et mixtes, le plus souvent associé au hêtre et au chêne ainsi qu'à l'épicéa et au sapin. Il est largement répandu en Europe, de la Méditerranée jusqu'au centre de la Fennoscandie, et il est signalé en Afrique du Nord, aux îles Canaries, en Asie tempérée ainsi que dans certaines parties d'Amérique du Nord et d'Amérique centrale.",
+      cap: "Le chapeau mesure couramment 5–15 cm de largeur, avec des valeurs extrêmes publiées d'environ 4,5–18 cm. Il est d'abord hémisphérique, puis convexe, et plus tard aplati à légèrement déprimé, parfois presque en entonnoir. La surface est lisse à finement veinée radialement, visqueuse et luisante à l'état humide. La cuticule se pèle sur une courte distance depuis la marge jusqu'à environ mi-rayon. Les teintes comprennent le lilas, le pourpre, le vineux, le gris, l'olive et le vert, souvent marbrées et plus sombres vers le centre, qui peut décolorer en ocre. La marge reste nette et lisse pendant longtemps et ne devient que faiblement cannelée avec l'âge. L'hydroxyde de sodium colore la cuticule du chapeau en brunâtre, et l'acide sulfurique la vire au jaune verdâtre.",
+      hymenium: "Les lames sont blanches à crème pâle, serrées, grasses et lardacées, flexibles : elles plient et reviennent en place au lieu de casser, à l'inverse des lames cassantes de la plupart des espèces du genre. Elles sont adnexées ou adnées à légèrement décurrentes, parfois fourchues, de longueurs inégales et assez étroites, atténuées aux deux extrémités. Les basides sont clavées et tétrasporiques. Les longueurs publiées vont d'environ 45–55 µm à environ 66–73 µm, pour une largeur d'environ 9–11 µm. Les cheilocystides sont fusiformes à cylindriques, d'environ 30–55 × 4–6 µm, parfois avec un petit appendice. Les pleurocystides mesurent environ 27–85 × 3–6 µm. Les cystides virent faiblement au gris-noir dans le sulfobenzaldéhyde et légèrement au bleu dans la sulfovanilline.",
+      stipe: "Le pied est blanc, parfois lavé de lilas ou légèrement teinté de rose. Il est cylindrique et robuste, souvent atténué à la base, et ne porte pas d'anneau. Les sporophores européens mesurent environ 5–12 cm de hauteur et 1,5–3 cm d'épaisseur, et les extrêmes publiés atteignent environ 2,5–13 cm de hauteur et 1–5 cm d'épaisseur. Le pied est d'abord plein, puis spongieux ou caverneux avec l'âge.",
+      flesh: "La chair est blanche, ferme et épaisse, souvent teintée de violet sous la cuticule, et ne change pas de couleur à la coupe. L'odeur n'est pas distinctive. La saveur est douce et de noisette, et peut devenir à peine piquante seulement après une mastication prolongée. Les sels de fer ne produisent aucune réaction saumonée : la chair reste inchangée ou vire lentement au gris-vert pâle à l'olive. Le gaïac colore la chair en bleu-vert, faiblement au début puis fortement après environ 50 secondes.",
+      sporePrint: "Blanc pur. Les spores sont largement ellipsoïdes, mesurant principalement 7–9 × 5,5–7 µm, avec un rapport longueur/largeur proche de 1,1–1,2. Elles portent des verrues amyloïdes obtuses et isolées d'environ 0,5 µm de haut, très peu reliées entre elles.",
+      habitat: "Les sporophores apparaissent en Europe de juin jusqu'au début de novembre, dès mai en Europe centrale, et occasionnellement dès la mi-avril. En Grande-Bretagne et en Irlande, ils apparaissent de juillet à novembre. Ils poussent solitaires ou en groupes sur le sol dans les forêts de hêtres, de chênes et de chênes et charmes, ainsi qu'avec l'épicéa et le sapin, y compris dans les parcs et les jardins. Les sols sont frais et meubles, faiblement acides à faiblement alcalins, et pas excessivement riches en azote. Les sporophores sont rares sur les sols compactés, gorgés d'eau ou asséchés depuis longtemps. Dans l'est de l'Amérique du Nord et les États des Rocheuses, ils apparaissent de juillet à octobre, et d'octobre à janvier plus à l'ouest.",
+      uses: "C'est un bon champignon comestible avec une saveur douce de noisette. La chair reste plus tendre après cuisson que celle de nombreuses autres espèces comestibles du genre. Il est sauté et utilisé dans les omelettes, les soupes et les ragoûts. Les sporophores sont souvent véreux.",
+      confusion: "La russule vert-et-violet (Russula ionochlora) et la russule fausse azurée (Russula parazurea) sont plus petites, possèdent des lames cassantes et ne donnent pas une sporée d'un blanc pur. La russule grise (Russula grisea) donne une sporée crème, a un chapeau plus gris-bleu avec des reflets violets ou verts, et des lames crème. La russule fourchue (Russula heterophylla) voit sa chair virer au rose avec les sels de fer et possède des spores plus petites. La russule verdoyante (Russula virescens) présente un chapeau vert craquelé, une chair qui vire au rose orangé avec les sels de fer et une cuticule composée en grande partie de cellules sphériques. La russule jaune d'or (Russula claroflava) a une chair qui grisaille avec l'âge, des lames cassantes et une sporée crème foncé à ocre pâle. La russule feuille-morte (Russula xerampelina) est tout aussi variable par la couleur de son chapeau et sent le crabe ou le poisson. La russule olivacée (Russula olivacea) peut avoir un chapeau marbré et produit des spores jaunes. La russule vert-de-gris (Russula aeruginea) est plus uniformément verte, pousse souvent sous les bouleaux, donne une sporée crème, a des lames cassantes et présente une saveur légèrement piquante.",
+      notes: "Une évaluation de 2025 classe l'espèce en préoccupation mineure (Least Concern), laisse les signalements d'Afrique incertains et écarte les mentions australiennes comme appartenant à une espèce différente. Les sporophores nord-américains portant ce nom pourraient appartenir à plusieurs espèces."
     }
     },
     sources: {
@@ -25604,23 +25605,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Russule_charbonni%C3%A8re"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/41668"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -25643,6 +25627,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/K%C3%A9kh%C3%A1t%C3%BA_galambgomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Russule_charbonni%C3%A8re"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/41668"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -25755,9 +25756,9 @@ export const CATALOG = [
       ru: "опёнок летний",
       uk: "опеньок літній",
       pl: "łuskwiak zmienny",
-      fr: "pholiote changeante",
       it: "famigliola cangiante",
-      hu: "ízletes tőkegomba"
+      hu: "ízletes tőkegomba",
+      fr: "pholiote changeante"
     },
     names: {
       en: ["brown stew fungus", "two-toned pholiota", "velvet toughshank"],
@@ -26043,18 +26044,6 @@ export const CATALOG = [
       confusion: "Śmiertelnie trująca hełmówka jadowita (Galerina marginata) rośnie na tym samym drewnie; ma trzon poniżej pierścienia pokryty srebrzystobiałymi, przylegającymi włókienkami (bez odstających łusek) i zapach mączny.",
       notes: "Ocena z 2019 roku uznaje go za gatunek najmniejszej troski (Least Concern) o stabilnej populacji."
     },
-    fr: {
-      description: "Un champignon lignicole saprotrophe formant des touffes cespiteuses sur les souches et troncs morts. Commun dans toute l'Europe, en Asie et en Amérique du Nord.",
-      cap: "Le chapeau mesure 1,5–10 cm de largeur, le plus souvent 2–8 cm. Il commence par être convexe puis s'étale avec un mamelon central obtus. Il est fortement hygrophane : brun cannelle ou ocre chaud à l'état humide, s'éclaircissant à partir du centre en séchant pour devenir jaune crème ou chamois pâle bicolore.",
-      hymenium: "Les lames sont serrées, adnées à légèrement décurrentes, d'abord beige pâle puis devenant brun cannelle ou rouille avec la maturation des spores.",
-      stipe: "Le pied mesure 3–10 cm de hauteur et 2–12 mm d'épaisseur, grêle, souvent courbé en touffes. Il porte un petit anneau membraneux persistant ; au-dessus de l'anneau, le pied est pâle et lisse, tandis qu'au-dessous, il est brun foncé et entièrement couvert de mèches et squamules rugueuses dressées.",
-      flesh: "La chair du chapeau est mince, molle, ocre pâle ou crème aqueux ; la chair du pied est coriace et brun noirâtre vers la base. L'odeur est agréable, fruitée et aromatique ; la saveur est douce et savoureuse.",
-      sporePrint: "Brun rouille à cannelle. Les spores sont lisses, ovoïdes à ellipsoïdes avec un pore germinatif net, mesurant environ 6–7,5 × 4–5 µm.",
-      habitat: "Les sporophores apparaissent d'avril à novembre, et tout au long de l'année lors des hivers doux, en touffes denses sur le bois mort de feuillus, en particulier le hêtre, le bouleau et l'aulne.",
-      uses: "Les chapeaux constituent un comestible très apprécié, délicieux en potages, risottos ou poêlées. Les pieds coriaces et fibreux sont systématiquement rejetés.",
-      confusion: "La galère marginée (Galerina marginata) est mortelle et peut pousser sur le même bois en touffes plus lâches ; elle se distingue par son pied satiné de fibrilles blanches appliquées argentées sous l'anneau (sans squamules hérissées rugueuses) et son odeur de farine rance. L'hypholome en touffes (Hypholoma fasciculare) possède des lames jaune verdâtre et une saveur extrêmement amère.",
-      notes: "Une évaluation de 2019 la classe en préoccupation mineure (Least Concern), avec une tendance démographique stable."
-    },
     it: {
       description: "Un fungo saprotrofo lignicolo che cresce in fitti cespi su ceppaie e tronchi marcescenti di latifoglie (faggio, betulla) e raramente conifere. È comune in tutta l'Europa temperata.",
       cap: "Il cappello misura 2–8 cm di diametro. È fortemente igrofano: di colore bruno-cannella o miele vivo a tempo umido, impallidendo rapidamente a un giallo crema a partire dal centro quando si asciuga.",
@@ -26078,6 +26067,18 @@ export const CATALOG = [
       uses: "Kiváló csemegegomba. A kalapok levesekbe, mártásokba kiválóak; szívós tönkjét felhasználás előtt le kell vágni.",
       confusion: "A halálosan mérgező fenyves sisakgomba (Galerina marginata) tönkje a gyűrűzóna alatt nem pikkelyes, hanem ezüstösen szálas, és szaga lisztes. A sárga kénvirággomba (Hypholoma fasciculare) lemezei kénsárgásak, majd zöldesek, és húsa rendkívül keserű.",
       notes: "Egy 2019-es felmérés szerint a nem veszélyeztetett (Least Concern) kategóriába tartozik, stabil populációval."
+    },
+    fr: {
+      description: "Un champignon lignicole poussant en touffes sur les souches et les troncs tombés. Il est commun à travers la Grande-Bretagne et l'Irlande ainsi que dans toute l'Europe, de la Méditerranée jusqu'à l'Islande et la Scandinavie. Il est largement répandu en Asie, notamment dans le Caucase, en Sibérie et au Japon, ainsi qu'en Amérique du Nord, particulièrement dans l'Ouest montagneux, et en Australie.",
+      cap: "Le chapeau mesure 1,5–10 cm de largeur, le plus souvent environ 2–8 cm. Il commence obtus, hémisphérique ou campanulé, avec une marge incurvée, puis devient convexe ou presque étalé, souvent avec un mamelon bas et large. La surface est hygrophane et grasse ou visqueuse à l'état humide, dotée d'une pellicule séparable, et la marge humide est étroitement striée par transparence. La couleur est cannelle rougeâtre, cannelle terne ou brun orangé, séchant en ocre pâle, jaune miel ou chamois rosâtre du centre vers la marge, de sorte qu'une bande aqueuse plus foncée persiste souvent autour d'un centre plus pâle. Les très jeunes chapeaux peuvent porter de fines fibrilles ou minuscules écailles blanches issues du voile, mais la surface devient rapidement lisse.",
+      hymenium: "Les lames sont serrées, avec de nombreuses lamellules, et peuvent être plus espacées avec l'âge. Elles sont largement adnées ou échancrées, et souvent brièvement décurrentes. Elles sont d'abord pâles, ocre pâle ou jaunâtres, puis cannelle terne à brun rouille. Un voile partiel blanchâtre à fauve pâle les recouvre dans la jeunesse. Les basides mesurent 20–23 × 4–5 µm et sont tétrasporiques, et les pleurocystides sont absentes. Les cheilocystides sont à paroi mince et hyalines, subcylindriques à fusoïdes-ventrues ou étroitement lagéniformes, parfois légèrement capitées. Les descriptions divergent : elles peuvent être abondantes et mesurer environ 17–29 × 3,3–7 µm, clairsemées et mesurer environ 20–40 × 2,5–7 µm, ou mesurer 35–50 × 7,5–12,5 µm. Des anses d'anastomose sont présentes. Les caulocystides sont similaires et peuvent être rares, en particulier sur le matériel âgé.",
+      stipe: "Le pied mesure 3–10 cm de longueur et 0,2–1,2 cm d'épaisseur, souvent courbé, d'épaisseur égale ou atténué vers la base. Au-dessus de l'anneau, il est ocre pâle et lisse, soyeux ou finement strié. Sous l'anneau, il porte des écailles brunes recourbées et s'assombrit vers une base brun noirâtre. L'anneau est membraneux et blanchâtre, puis teinté de cannelle par les spores. Il peut devenir déchiqueté ou flasque, ou ne subsister que sous forme de zone fibrilleuse, et sur les vieux sporophores les écailles peuvent s'effacer. La base est nue ou vêtue d'un mycélium blanc. L'intérieur est plein puis creux.",
+      flesh: "La chair du chapeau est mince en dehors du centre, fauve pâle à ocre clair ou crème, aqueuse et molle, et ne change pas de couleur à la coupe. La chair du pied est pâle au sommet et brun rouille à brun foncé vers la base, et elle est coriace. L'odeur est faible. Elle peut être agréablement épicée, fongique ou rappelant le bois fraîchement coupé, et n'est ni farineuse ni de rave. La saveur est douce à agréablement épicée, ou légèrement désagréable, et non amère.",
+      sporePrint: "La sporée est brun ocre à cannelle ou brun rouille. Les spores sont lisses au microscope optique, ovales à largement ellipsoïdales ou amygdaliformes, mesurant 5,5–8 × 3,5–5 µm, et atteignant parfois 6 µm de largeur. Le sommet est tronqué par un pore germinatif. Elles sont fauve pâle à doré brunâtre dans le KOH et fauve pâle dans le réactif de Melzer.",
+      habitat: "Les sporophores peuvent apparaître durant n'importe quel mois de l'année là où le climat est doux, et ils sont plus abondants en été et en automne. En Europe centrale, ils sont répertoriés de mars jusqu'en décembre, la poussée principale ayant lieu de mai à novembre. Il est saprobe sur les souches, les billes de bois et le bois enfoui, en touffes et seulement rarement isolé. Les feuillus sont les hôtes habituels, en particulier le bouleau, le hêtre, l'aulne, le tilleul et le châtaignier. Il vient moins souvent sur épicéa, bien qu'il soit abondant sur le bois de conifères dans le nord-ouest du Pacifique. Les touffes qui semblent émerger de la litière reposent sur du bois enterré, et il est fréquent sur les sols humides le long des cours d'eau.",
+      uses: "Les chapeaux sont poêlés ou utilisés pour parfumer sauces et soupes, et la saveur est meilleure après cuisson. Les pieds sont trop coriaces et sont rejetés. Un sosie mortel croît sur le même bois, si bien que plusieurs guides déconseillent de le ramasser à moins de pouvoir séparer les deux espèces avec certitude.",
+      confusion: "La galère marginée (Galerina marginata) est mortelle et croît sur le même bois, solitaire ou en touffes plus réduites. Ce champignon sèche du centre vers la marge, de sorte que la marge conserve une bande aqueuse plus sombre, tandis que la galère marginée (Galerina marginata) sèche de la marge vers le centre. Le pied sous l'anneau est écailleux ici et normalement soyeux chez la galère marginée (Galerina marginata), bien que des écailles puissent apparaître chez cette dernière, ce caractère n'étant donc pas entièrement fiable. L'odeur et la saveur sont ici épicées ou fongiques et douces. La galère marginée (Galerina marginata) a une odeur et une saveur de farine ou de rave, et ses spores sont plus grandes et verruqueuses. Une goutte de KOH sur le chapeau ne provoque aucun changement de couleur ici, alors qu'elle colore en rouge le chapeau de la galère marginée (Galerina marginata). Les deux espèces ne sont parfois séparables qu'au microscope. L'hypholome en touffes (Hypholoma fasciculare) et les espèces touffues apparentées du genre Hypholoma (Hypholoma) ont une sporée gris-violet ou gris-noir, un pied lisse, une hygrophanéité faible ou nulle et pas d'anneau. L'hypholome à lames enfumées (Hypholoma capnoides) a un pied lisse, et ses lames deviennent brun grisâtre à brun violacé. Les espèces du genre Pholiota (Pholiota) partageant le même habitat ont souvent un chapeau plus écailleux. Certaines sont visqueuses, et leur anneau, lorsqu'il est présent, est membraneux et vite fugace. La psathyrelle hydrophile (Psathyrella piluliformis) n'a pas d'anneau et sa sporée est presque brun-noir. La collybie à pied velouté (Flammulina velutipes) a un pied velouté plus sombre et une sporée blanche. Le genre Armillaria (Armillaria), y compris Armillaria nabsnona (Armillaria nabsnona) sur l'aulne, produit une sporée blanche.",
+      notes: "Une évaluation de 2019 classe l'espèce en préoccupation mineure (Least Concern), et la tendance de la population dans cette évaluation est stable."
     }
     },
     sources: {
@@ -26434,23 +26435,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Pholiote_changeante"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/32840"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -26473,6 +26457,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/%C3%8Dzletes_t%C5%91kegomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Pholiote_changeante"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/32840"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -26578,9 +26579,9 @@ export const CATALOG = [
       ru: "галерина окаймлённая",
       uk: "галерина облямована",
       pl: "hełmówka jadowita",
-      fr: "galère marginée",
       it: "galerina marginata",
-      hu: "fenyves sisakgomba"
+      hu: "fenyves sisakgomba",
+      fr: "galère marginée"
     },
     names: {
       en: ["deadly skullcap", "autumn skullcap", "deadly Galerina", "marginate Pholiota"]
@@ -26855,17 +26856,6 @@ export const CATALOG = [
       uses: "Śmiertelnie trujący. Zawiera zabójcze amatoksyny w stężeniu porównywalnym z muchomorem zielonawym. Powoduje nieodwracalną martwicę wątroby i nerek. Toksyny nie ulegają zniszczeniu podczas gotowania ani suszenia.",
       confusion: "Jadalny łuskwiak zmienny (Kuehneromyces mutabilis) rośnie w dużych wiązkach, ma trzon poniżej pierścienia wyraźnie pokryty ciemnobrązowymi, odstającymi łuskami i nie ma mącznego zapachu. Płomiennica zimowa (Flammulina velutipes) owocuje zimą i ma ciemnobrązowy, aksamitny trzon bez pierścienia."
     },
-    fr: {
-      description: "Un champignon lignicole saprotrophe mortel fructifiant isolément ou en petites troupes sur le bois pourrissant. Répandu dans tout l'hémisphère nord, en Europe, en Amérique du Nord et en Asie.",
-      cap: "Le chapeau mesure habituellement 1–7 cm de largeur. Il est convexe puis étalé, largement mamelonné, hygrophane, brun ocre à brun fauve brillant par temps humide avec une marge striée par transparence, pâlissant en jaune ocré terne à sec.",
-      hymenium: "Les lames sont serrées, adnées à subdécurrentes, d'abord ocre jaunâtre puis brun rouille terne.",
-      stipe: "Le pied mesure 2–8 cm de hauteur et 2–9 mm d'épaisseur, cylindrique, brun pâle au sommet et brun noirâtre vers la base. Il porte un petit anneau membraneux mince, oblique et fugace ; au-dessous de l'anneau, le pied est revêtu de fibrilles blanchâtres argentées appliquées, sans écailles dressées rugueuses.",
-      flesh: "La chair est mince, brun aqueux à jaunâtre. L'odeur et la saveur sont nettement farineuses (de farine rance).",
-      sporePrint: "Brun rouille à brun tabac. Les spores sont amygdaliformes à ellipsoïdes, distinctement verruqueuses au microscope avec une plage supra-appendiculaire lisse, mesurant environ 8–11 × 5–7 µm.",
-      habitat: "Les sporophores apparaissent de mai à décembre, principalement en automne, sur le bois mort de conifères (épicéa, pin) et parfois de feuillus (hêtre, bouleau).",
-      uses: "Ce champignon est mortellement toxique. Il renferme de puissantes amatoxines (les mêmes toxines destructrices que celles de l'amanite phalloïde) qui provoquent une destruction hépatique et rénale irréversible. La cuisson ne détruit pas ces toxines.",
-      confusion: "La pholiote changeante (Kuehneromyces mutabilis) est comestible et possède un pied couvert de petites écailles brunes hérissées sous l'anneau ainsi qu'une agréable odeur aromatique. Les marasmes et petites pholiotes lignicoles doivent être examinés avec précaution."
-    },
     it: {
       description: "Un fungo lignicolo saprotrofo che fruttifica solitario o in piccoli gruppi su legno marcescente di conifere e latifoglie. È diffuso in tutto l'emisfero boreale.",
       cap: "Il cappello misura 1–5 cm di diametro (talvolta fino a 7 cm). È convesso poi appianato, igrofano, di colore bruno-ocraceo, giallo miele o bruno-rossastro con tempo umido, che schiarisce all'ocra giallastro seccando.",
@@ -26888,6 +26878,17 @@ export const CATALOG = [
       uses: "Halálosan mérgező. Amatoxinokat tartalmaz ugyanabban a koncentrációban, mint a gyilkos galóca. Súlyos máj- és vesekárosodást okoz; a méreganyagok semmilyen főzéssel vagy szárítással nem pusztíthatók el.",
       confusion: "Az ehető ízletes tőkegomba (Kuehneromyces mutabilis) tönkje a gallér alatt sűrűn pikkelyes (nem ezüstösen szálas), és nagyobb csomókban nő. A gyűrűs tuskógomba (Armillaria mellea) kalapja pikkelyes és spórapora fehér.",
       notes: "A korábban külön fajként leírt Galerina autumnalis, Galerina oregonensis és Galerina unicolor molekuláris vizsgálatok alapján azonosak a Galerina marginata fajjal."
+    },
+    fr: {
+      description: "Un champignon lignicole qui fructifie solitaire ou en petites touffes sur les souches, les troncs tombés et le bois enfoui. Il est largement répandu dans l'hémisphère nord, à travers l'Europe, l'Asie et l'Amérique du Nord, et il est également signalé en Australie et en Antarctique. En Grande-Bretagne et en Irlande, il est peu commun.",
+      cap: "Le chapeau mesure habituellement 1–7 cm de largeur, atteignant parfois 8 cm, et une description plus stricte donne 0,5–4 cm. Il est d'abord hémisphérique ou campanulé, puis convexe à presque étalé, parfois avec un mamelon bas. La marge est enroulée dans la jeunesse et peut être striée par transparence à l'état humide. La surface est humide et légèrement visqueuse, puis luisante ou mate. Elle est hygrophane, brun roux à brun orangé au centre et jaune miel ou ocre vers la marge, se décolorant en fauve terne en séchant. Un voile pâle peut adhérer à la marge d'un très jeune chapeau.",
+      hymenium: "Les lames sont serrées à très serrées et largement adnées à brièvement décurrentes, parfois avec une dent décurrente. Elles sont d'abord crème pâle ou jaunâtres, puis ocre à brun rouille, avec une arête plus pâle. Un voile partiel blanchâtre les recouvre dans la jeunesse, et des lamellules sont présentes. Les basides sont principalement tétrasporiques, moins souvent bisporiques, mesurant environ 21–30 × 5–8,4 µm. Les cheilocystides et pleurocystides sont à paroi mince et lagéniformes à fusoïdes, mesurant environ 34–75 × 5–16 µm, avec un col et un sommet obtus ou légèrement élargi. Des anses d'anastomose sont présentes.",
+      stipe: "Le pied mesure 2–8 cm de longueur et 0,2–0,9 cm d'épaisseur, d'épaisseur égale ou un peu plus épais vers le bas, souvent courbé et fragile. Il est plein au début et devient creux depuis la base. Au-dessus d'un anneau pâle et mince, il est blanchâtre et finement poudreux. Sous l'anneau, il est brun à brun rougeâtre, avec des fibrilles pâles qui peuvent laisser des taches ou des zones annulaires puis disparaître. L'anneau est situé sur la moitié supérieure, devient rouillé par les spores, et peut disparaître, ne laissant qu'une zone annulaire. Un mycélium blanc est souvent présent à la base.",
+      flesh: "La chair est mince et jaunâtre, jaune sale ou brun aqueux. L'odeur et la saveur sont farineuses, parfois seulement faiblement.",
+      sporePrint: "Brun rouille à brun tabac. Les spores sont largement ellipsoïdes à amygdaliformes et finement verruqueuses, mesurant principalement 7–11 × 4,5–6 µm, occasionnellement jusqu'à 11,5 µm de longueur et 7 µm de largeur. Une plage lisse est présente, et la paroi externe se décolle souvent.",
+      habitat: "En Europe, les sporophores apparaissent de mai jusqu'en décembre, le plus souvent en été et en automne, et l'Europe centrale connaît également une poussée au début du printemps. En Amérique du Nord tempérée, ils apparaissent tout au long de l'année, le plus souvent au printemps et en automne. Il croît sur le bois en décomposition de conifères et de feuillus, sur les souches, les troncs tombés, les branches, la sciure, l'écorce décortiquée et le bois enfoui, et provoque une pourriture blanche fibreuse. Sur le bois des forêts alluviales inondables, il peut figurer parmi les champignons les plus communs. Les groupes et petites touffes sont habituels, et des sporophores solitaires se rencontrent également.",
+      uses: "Il contient des amatoxines, notamment l'alpha-amanitine et la gamma-amanitine, la même classe de toxines que chez l'amanite phalloïde (Amanita phalloides). Les symptômes débutent plusieurs heures après un repas et parfois seulement le lendemain : violentes douleurs abdominales, vomissements et diarrhées. Une rémission apparente peut suivre, puis surviennent des lésions hépatiques, des hémorragies gastro-intestinales, une insuffisance rénale, le coma ou la mort, souvent en l'espace d'environ une semaine. Une intoxication grave peut laisser des séquelles hépatiques et rénales durables. Entre 1978 et 1995, dix intoxications de ce type ont été signalées en Europe et en Amérique du Nord, dont deux mortelles.",
+      confusion: "La pholiote changeante (Kuehneromyces mutabilis) présente des écailles sur le pied jusqu'à l'anneau, une odeur épicée ou aromatique, des spores lisses et un chapeau qui est souvent plus pâle au centre qu'à la marge. La pholiote printanière (Kuehneromyces vernalis) est plus rare et plus proche, et ses spores sont lisses et munies d'un pore germinatif. La collybie à pied velouté (Flammulina velutipes) possède des lames blanches à jaune pâle, une sporée blanche, des spores lisses elliptiques de 6,5–9 × 2,5–4 µm, pas d'anneau et un pied qui devient sombre et velouté. L'hypholome à lames enfumées (Hypholoma capnoides) possède des lames d'abord blanchâtres puis gris-bleu. L'armillaire couleur de miel (Armillaria mellea) produit une sporée blanche. Les espèces du genre Pholiota (Pholiota) ont souvent un chapeau écailleux, une sporée brun foncé et des spores lisses."
     }
     },
     sources: {
@@ -27220,23 +27221,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Gal%C3%A8re_margin%C3%A9e"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/451432"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -27259,6 +27243,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Fenyves_sisakgomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Gal%C3%A8re_margin%C3%A9e"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/451432"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -27382,9 +27383,9 @@ export const CATALOG = [
       ru: "спарассис курчавый",
       uk: "спарасис кучерявий",
       pl: "siedzuń sosnowy",
-      fr: "sparassis crépu",
       it: "spugnola riccia",
-      hu: "fodros káposztagomba"
+      hu: "fodros káposztagomba",
+      fr: "sparassis crépu"
     },
     names: {
       en: ["wood cauliflower", "cauliflower mushroom", "brain fungus"],
@@ -27395,8 +27396,8 @@ export const CATALOG = [
       ro: ['crețușcă', 'crețișoare'],
       ru: ["грибная капуста"],
       pl: ["szmaciak gałęzisty"],
-      fr: ["morille des pins"],
-      it: ["sparassi crespa"]
+      it: ["sparassi crespa"],
+      fr: ["morille des pins"]
     },
     text: {
       tr: {
@@ -27664,17 +27665,6 @@ export const CATALOG = [
       confusion: "Siedzuń dębowy (Sparassis brevipes) rośnie pod dębami i bukami, ma szersze, mniej pofałdowane płaty o słomkowej barwie. Koroniczowate i koralówkowate (Ramaria) mają gałązki cylindryczne, koralowate, a nie płaskie i wstęgowate.",
       notes: "Dawniej w Polsce objęty ścisłą ochroną, obecnie dopuszczony do pozyskiwania (ochrona zniesiona w 2014 r.)."
     },
-    fr: {
-      description: "Un champignon lignicole parasite et saprotrophe provoquant une pourriture brune du pied des conifères. Présent dans toute l'Europe, en Amérique du Nord et en Asie tempérée.",
-      cap: "Le sporophore mesure communément 10–40 cm de largeur et environ 10–25 cm de hauteur, formant une grosse masse globuleuse évoquant une éponge de bain, un chou-fleur ou une salade frisée. Il est constitué d'une multitude de lanières foliacées sinueuses, aplaties, ondulées et crépues, de couleur blanc crème à jaune paille puis ocre pâle avec l'âge.",
-      hymenium: "L'hyménium fertile recouvre les deux faces des lobes et lanières crépues. Il est d'abord lisse et crème, brunissant avec l'âge.",
-      stipe: "Le pied est un tronc commun court, très épais, charnu et profondément enfoui dans le sol ou fixé aux racines de l'arbre hôte.",
-      flesh: "La chair est blanche, élastique, cireuse et cassante. L'odeur est agréable, noisetée et légèrement anisée ; la saveur est douce et savoureuse.",
-      sporePrint: "Blanc jaunâtre à ocre très pâle. Les spores sont ellipsoïdes, lisses, mesurant environ 5–7 × 4–4,5 µm.",
-      habitat: "Les sporophores apparaissent d'août à novembre au pied des vieux troncs et sur les racines des conifères, presque exclusivement sous les pins (Pinus sylvestris, Pinus nigra).",
-      uses: "C'est un excellent champignon comestible de choix lorsqu'il est jeune et frais. Sa structure en lanières nécessite un nettoyage minutieux à l'eau pour éliminer les aiguilles de pin et les débris de terre.",
-      confusion: "Le sparassis à larges lames (Sparassis brevipes) possède des lobes plus larges, moins frisés, en forme de spatules, et s'associe préférentiellement aux chênes et hêtres."
-    },
     it: {
       description: "Un fungo parassita e saprotrofo alla base dei tronchi e sulle radici di conifere (prevalentemente pini). Causa un marciume bruno del legno.",
       cap: "Il corpo fruttifero assomiglia a un grosso cespo di cavolfiore o una spugna marina, largo 10–30 cm (talvolta fino a 50 cm) e pesante fino a diversi chilogrammi. È composto da innumerevoli lamine nastriformi fittamente increspate, lobate e arricciate, di colore bianco crema poi giallo paglierino e brunicce sui bordi con l'età.",
@@ -27697,6 +27687,17 @@ export const CATALOG = [
       uses: "Kiváló csemegegomba. Rugalmas állaga főzés és sütés után is kellemes marad; levesekben, tejszínes ragukban kiváló. Nehézséget a fodrok közötti homok és erdei törmelék alapos kimosása jelent.",
       confusion: "A jegenyefenyő-káposztagomba (Sparassis nemecii) jegenyefenyő alatt terem, ágai szalagszerűbbek és fogazottabbak. A korallgombák (Ramaria fajok) felálló, hengeres ágúak, nem fodros lemezekből állnak.",
       notes: "A gomba bioaktív béta-glükánokat és sparasszolt tartalmaz, amelyek baktérium- és gombaellenes hatással bírnak."
+    },
+    fr: {
+      description: "Un champignon provoquant une pourriture brune dans les forêts de conifères, parasite des racines vivantes et saprotrophe sur les souches, le plus souvent associé au pin. Il est largement répandu de la Méditerranée à travers l'Europe centrale jusqu'au nord de l'Écosse et aux côtes méridionales de Scandinavie, et il est signalé en Afrique du Nord. Les mentions nord-américaines sous ce nom, ainsi que certaines mentions asiatiques, correspondent à d'autres espèces du même complexe.",
+      cap: "Le sporophore mesure couramment 10–40 cm de largeur et environ 10–25 cm de hauteur. Les plus petits mesurent environ 5 cm de largeur et 5 cm de hauteur, et les plus grands pèsent plusieurs kilogrammes, jusqu'à environ 6 kg. Il est irrégulièrement arrondi, formé d'une masse dense de lobes aplatis, ondulés et contournés en chou-fleur avec des bords dentelés, soudés par endroits et laissant des cavités entre eux. Les lobes sont blanchâtres ou crème au début, puis jaunâtres, et brunâtres avec l'âge, parfois avec une marge plus sombre en séchant. Les jeunes lobes sont tenaces et caoutchouteux, devenant plus mous par la suite. Un sporophore sec est cassant.",
+      hymenium: "La surface fertile est lisse et blanchâtre à crème, et elle s'assombrit à mesure que les spores mûrissent. Elle tapisse les deux faces des lobes, bien que certaines descriptions la trouvent principalement développée sur la face inférieure des extrémités aplaties.",
+      stipe: "Une base courte, épaisse et charnue est souvent enfouie dans le sol ou le bois des racines. Elle est cylindrique et radicante, blanchâtre à crème, et noirâtre vers le point d'attache. Chez un sporophore pleinement développé, elle peut être cachée.",
+      flesh: "La chair est blanche, élastique et cireuse, et le système hyphal est monomitique, avec des anses d'anastomose. L'odeur est épicée et faiblement douceâtre, parfois un peu anisée, et faiblement résineuse à l'état cru. La saveur est de noisette, et peut être légèrement piquante.",
+      sporePrint: "Blanche, blanc cassé ou crème, et également décrite comme jaunâtre pâle à ocre pâle. Les vieux lobes peuvent paraître poudrés d'ocre orangé. Les spores sont lisses, ellipsoïdes à largement ellipsoïdes ou ovoïdes, mesurant environ 4,5–7,5 × 3–5,5 µm, et contiennent souvent une gouttelette lipidique.",
+      habitat: "Les sporophores apparaissent de juillet à décembre en Europe centrale, avec un pic en septembre et octobre, de juillet à octobre en Grande-Bretagne et en Irlande et jusqu'en novembre selon certaines mentions, d'août à octobre en Slovaquie, et de juillet à novembre dans les descriptions tchèques. Ils poussent à la base de conifères vivants ou sur des souches, particulièrement le pin sylvestre, ainsi que sur d'autres pins, l'épicéa, le mélèze et occasionnellement le douglas. Le champignon pénètre par des blessures des racines ou du bas du tronc et provoque une pourriture brune du bois de cœur. Le bois décomposé sent la térébenthine. Il peut subsister dans la souche pendant plusieurs années et infecter de nouveaux arbres à partir de là. Il se rencontre sur de nombreux sols qui ne sont ni très secs ni très humides. En Slovaquie, il est le plus souvent présent dans les pinèdes sur sol sableux, notamment dans le Záhorie.",
+      uses: "C'est un excellent champignon comestible lorsqu'il est jeune et frais. Dès que les lobes brunissent et que le sporophore commence à se dégrader, il devient indigeste et doit être laissé. La chair est un peu cartilagineuse crue et reste ferme à la cuisson. Il est utilisé dans les soupes, y compris en fausse soupe de tripes, poêlé, ou séché pour les sauces. Des aiguilles, de la terre et des larves se logent dans les replis. Un bref blanchiment, d'environ 2–3 minutes selon une publication, rend la masse élastique et plus facile à rincer sous l'eau, et il peut également être tranché sur quelques centimètres d'épaisseur et trempé. Il se cuit lentement. Il se conserve une semaine ou plus au réfrigérateur, et peut être séché ou confit dans l'huile ou l'eau froide.",
+      confusion: "Le sparassis à pied court (Sparassis brevipes) a des extrémités de lobes plus larges, moins contournées, en spatule, souvent avec un rebord épaissi et pâle, et il est dépourvu d'anses d'anastomose. Son odeur est savonneuse. Il pousse sur le sapin, et moins souvent sur le hêtre, l'épicéa ou le mélèze, et est également signalé avec le pin. Sparassis spathulata (Sparassis spathulata) possède des frondes plus droites et plus dressées et croît avec des feuillus dans l'est de l'Amérique du Nord, bien qu'il soit aussi signalé avec le pin. Sparassis radicata (Sparassis radicata) est maintenu séparé dans l'ouest de l'Amérique du Nord, où il possède une longue base radicante. La poule des bois (Grifola frondosa) pousse à la base des chênes et présente des segments gris-brun en éventail avec des pores sur la face inférieure. Les espèces du genre Ramaria (Ramaria) ont des rameaux dressés qui ne sont ni aplatis ni contournés à l'extrémité. La clavaire à calices (Artomyces pyxidatus) et Artomyces microsporus (Artomyces microsporus) croissent sur le bois mort solide, et leurs rameaux dressés se terminent par de petites couronnes."
     }
     },
     sources: {
@@ -28046,23 +28047,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Sparassis_cr%C3%A9pu"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/4855"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -28085,6 +28069,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Fodros_k%C3%A1posztagomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Sparassis_cr%C3%A9pu"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/4855"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -28196,9 +28197,9 @@ export const CATALOG = [
       ru: "свинушка тонкая",
       uk: "свинуха тонка",
       pl: "krowiak podwinięty",
-      fr: "paxille enroulé",
       it: "paxillo involuto",
-      hu: "begöngyöltszélű cölöpgomba"
+      hu: "begöngyöltszélű cölöpgomba",
+      fr: "paxille enroulé"
     },
     names: {
       en: [
@@ -28488,18 +28489,6 @@ export const CATALOG = [
       confusion: "Krowiak olszowy (Paxillus rubicundulus) rośnie wyłącznie pod olszami i ma drobno łuseczkowaty kapelusz. Mleczaje (Lactarius) wydzielają mleczko po uszkodzeniu, którego krowiak nie posiada.",
       notes: "Ocena z 2019 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern)."
     },
-    fr: {
-      description: "Un champignon ectomycorhizien toxique très commun. Répandu dans tout l'hémisphère nord, en Europe, en Amérique du Nord et en Asie, et introduit en Australie et Nouvelle-Zélande.",
-      cap: "Le chapeau mesure 4–15 cm de largeur, d'abord convexe puis étalé et largement déprimé en entonnoir. Il est brun olive, ocre fauve ou chamois brunâtre, feutré dans la jeunesse puis lisse et visqueux à l'état humide. La marge est fortement et durablement enroulée sur elle-même, veloutée et sillonnée.",
-      hymenium: "Les lames sont serrées, étroites, décurrentes et souvent anastomosées ou ridées près du pied. Elles sont jaune ochracé à jaune olive, se détachant facilement de la chair du chapeau et brunissant instantanément au froissement.",
-      stipe: "Le pied mesure 3–8 cm de hauteur et 1–3 cm d'épaisseur, cylindrique ou conique vers le bas, ochracé à brun roussâtre, se tachant de brun foncé au toucher.",
-      flesh: "La chair est épaisse, molle, jaunâtre puis brunissante à l'air. L'odeur est légèrement acidulée et fongique ; la saveur est douce à un peu astringente.",
-      sporePrint: "Brun rouille à brun cannelle. Les spores sont ellipsoïdes, lisses, mesurant environ 7,5–9 × 5–6 µm.",
-      habitat: "Les sporophores apparaissent d'août à novembre dans les bois de feuillus et de conifères, les parcs et les jardins, s'associant surtout au bouleau, à l'épicéa et au chêne sur sols acides.",
-      uses: "Ce champignon est dangereusement toxique et peut être mortel lors de consommations répétées. Il provoque le syndrome paxillien, une réaction immunohémolytique sévère où des anticorps détruisent les globules rouges, causant anémie hémolytique aiguë, insuffisance rénale et collapsus cardiovasculaire.",
-      confusion: "Le paxille d'aulne (Paxillus rubicundulus) est plus petit, possède un chapeau squamuleux et pousse sous les aulnes. Le lactaire roux (Lactarius rufus) exsude un lait blanc très piquant à la cassure.",
-      notes: "Plusieurs espèces similaires ont été ultérieurement séparées des récoltes répertoriées sous ce nom."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi di conifere e latifoglie, parchi e giardini su suoli umidi e acidi. È molto comune in tutta Europa.",
       cap: "Il cappello misura 5–15 cm di diametro. È convesso poi spianato e imbutiforme, con un caratteristico margine fortemente arrotolato (involuto) e tomentoso anche a maturità. La cuticola è di colore bruno-ocraceo, fulvo-oliva o bruno-ruggine, viscosa col bagnato e facilmente macchiabile di bruno scuro allo sfregamento.",
@@ -28523,6 +28512,18 @@ export const CATALOG = [
       uses: "Súlyosan mérgező faj. Régebben fogyasztották, de ma már ismert, hogy ismételt fogyasztása Paxillus-szindrómát vált ki: egy autoimmun hemolitikus reakciót, amely a szervezet saját vörösvértestjeit pusztítja el, és halálos veseelégtelenséghez vezethet. Fogyasztása szigorúan tilos.",
       confusion: "A bársonyostönkű cölöpgomba (Tapinella atrotomentosa) tönkje sűrű, feketésbarna bársonyos bevonatú és tuskókon él. Az ehető tejelőgombák (Lactarius fajok) törésre tejnedvet bocsátanak ki.",
       notes: "Több hasonló fajt választottak le később a korábban ezen a néven nyilvántartott formakörről."
+    },
+    fr: {
+      description: "Un champignon ectomycorhizien des bois de feuillus et de conifères, des parcs et des jardins. En Europe, il s'étend de la Scandinavie à la péninsule Ibérique, et il est également présent en Asie tempérée et dans le nord de l'Amérique du Nord. Il a été introduit avec des arbres plantés en Australie, en Nouvelle-Zélande, en Afrique du Sud et en Amérique du Sud.",
+      cap: "Le chapeau mesure couramment 4–12 cm de largeur, avec des extrêmes publiés d'environ 2–15 cm et, dans une description, d'environ 20 cm. Il est d'abord hémisphérique ou convexe, puis aplati, et plus tard déprimé à en entonnoir. La marge reste fortement enroulée pendant longtemps et est duveteuse ou feutrée, et peut devenir cannelée avec l'âge. La surface est finement feutrée dans le jeune âge, plus lisse par la suite, et légèrement collante à l'état humide. La couleur s'étend du brun ocre et brun-jaune au brun olive ou brun rouille, et les meurtrissures ainsi que l'âge la rendent plus foncée.",
+      hymenium: "Les lames sont serrées, étroites et profondément décurrentes. Elles sont fourchues, et près du pied elles s'unissent en un réseau ou prennent un aspect de pores. Elles se détachent de la chair en une couche distincte. Elles sont jaune pâle à ocre pâle au début, plus tard brun rouille, et les meurtrissures les virent au brun à brun foncé. Les cheilocystides et pleurocystides sont grêles et filamenteuses, mesurant environ 40–65 × 8–10,5 µm.",
+      stipe: "Le pied est concolore au chapeau ou un peu plus pâle, jaunâtre à brun, et s'assombrit aux endroits manipulés. Il est cylindrique, souvent courbé, et atténué vers la base, et ne porte pas d'anneau. Il mesure couramment 3–8 cm de longueur et environ 1–2 cm d'épaisseur. Des données publiées indiquent également environ 3–6 × 1–3 cm. Il est plein.",
+      flesh: "La chair est jaune pâle à jaunâtre, ferme et juteuse, et brunit aux coupures. La cuisson la noircit, et elle rend beaucoup de jus. L'odeur est faible et non distinctive, parfois légèrement fongique. La saveur est acidulée. Le brunissement aux blessures est causé par un phénol, l'involutine.",
+      sporePrint: "Terre de Sienne, brun ocre ou brun rouille. Les spores sont ellipsoïdes et lisses. Les mesures publiées sont d'environ 7,5–9 × 5–6 µm et d'environ 6,5–8,5 × 4,5–5 µm.",
+      habitat: "Les sporophores apparaissent de juin à novembre en Europe centrale, et de juillet à octobre en Grande-Bretagne et en Irlande. Ailleurs, ils apparaissent à la fin de l'été et en automne. Dans la Californie côtière, des sporophores associés au chêne et au pin apparaissent de la fin de l'automne jusqu'en hiver, et une forme associée aux plantations de bouleaux apparaît en automne. Ils poussent solitaires ou en groupes sur le sol dans les bois de feuillus et de conifères, les parcs, les jardins, les pelouses et le long des sentiers, souvent sous le bouleau et aussi avec le chêne, le hêtre, le pin, l'épicéa et d'autres arbres. Ils affectionnent les terrains humides et les sols acides ou du moins non calcaires. On les trouve parfois sur les débris ligneux autour des souches.",
+      uses: "Il était largement consommé en Europe centrale et orientale, souvent mariné, salé ou cuisiné en ragoûts, et était considéré comme médiocre. Il est toujours salé et mariné dans certaines parties d'Europe de l'Est, en particulier en Pologne. Les sporophores crus provoquent de graves affections gastriques. La cuisson n'élimine pas un antigène qui, après des repas répétés, peut conduire le système immunitaire à détruire les globules rouges (syndrome paxillien avec anémie hémolytique auto-immune). Cette réaction peut entraîner une insuffisance rénale, un état de choc et une détresse respiratoire, y compris chez des personnes qui en avaient consommé pendant des années avec seulement de légers dérangements gastriques. Julius Schäffer en est mort en 1944, dix-sept jours après en avoir consommé un repas.",
+      confusion: "Les champignons en forme d'entonnoir du genre Clitocybe (Clitocybe) ont des lames blanches et une sporée blanche. Le lactaire plombé (Lactarius turpis) est d'un olive plus sombre et, comme les autres espèces du genre Lactarius (Lactarius), exsude du lait. Le paxille rubicond (Paxillus rubicundulus), également classé sous le nom de Paxillus filamentosus (Paxillus filamentosus), pousse uniquement sous l'aulne. Il est plus petit et plus pâle, avec un chapeau mince portant des écailles aplaties vers la marge, une chair qui brunit à peine, des lames ocre jaune vif qui ne changent pas de couleur et des spores plus petites d'environ 5,5–8,5 × 4–5 µm. Le paxille à spores sombres (Paxillus obscurisporus) présente des chapeaux atteignant environ 40 cm, une marge qui a tendance à se dérouler et s'aplatir, et un pied atténué avec un mycélium crème à la base. Paxillus validus (Paxillus validus) pousse sous les feuillus dans les parcs, possède un pied d'épaisseur plus ou moins égale et des chapeaux atteignant environ 20 cm. Les cristaux dans ses rhizomorphes atteignent environ 2,5 µm, tandis que les cristaux dans les rhizomorphes des autres taxons du genre Paxillus (Paxillus) restent inférieurs à environ 0,5 µm. Le paxille cuivré (Paxillus cuprinus) devient brun cuivré avec l'âge, possède des spores quelque peu amygdaliformes au sommet pincé et pousse avec le bouleau dans les milieux ouverts. Le paxille printanier (Paxillus vernalis) a une sporée plus sombre et un pied plus épais d'environ 2–4 cm, et pousse sous les trembles et les bouleaux. Le paxille à pied noir (Tapinella atrotomentosa) pousse sur ou à côté de souches de conifères et a un pied court et épais couvert d'un velours brun foncé. La mérule pleurotoïde (Tapinella panuoides) n'a pas de pied, ou seulement un court pied latéral, et pousse sur le bois de conifères.",
+      notes: "Plusieurs espèces similaires ont été ultérieurement séparées des sporophores rangés sous ce nom."
     }
     },
     sources: {
@@ -28888,23 +28889,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Paxille_enroul%C3%A9"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/32049"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -28927,6 +28911,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Beg%C3%B6ngy%C3%B6ltsz%C3%A9l%C5%B1_c%C3%B6l%C3%B6pgomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Paxille_enroul%C3%A9"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/32049"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -29035,9 +29036,9 @@ export const CATALOG = [
       ru: "рядовка фиолетовая",
       uk: "лепіста фіолетова",
       pl: "gąsówka fioletowawa",
-      fr: "pied-bleu",
       it: "agarico nudo",
-      hu: "lila pereszke"
+      hu: "lila pereszke",
+      fr: "pied-bleu"
     },
     names: {
       en: ["blewit", "blue foot", "amethyst lepista", "blue-gilled agaric"],
@@ -29048,9 +29049,9 @@ export const CATALOG = [
       bg: ['виолетова есенна миризливка'],
       ru: ["леписта голая","синичка"],
       uk: ["рядовка фіолетова"],
-      fr: ["lépiste nue","tricholome nu"],
       it: ["lepista nuda"],
-      hu: ["lila tölcsérpereszke"]
+      hu: ["lila tölcsérpereszke"],
+      fr: ["lépiste nue","tricholome nu"]
     },
     text: {
       tr: {
@@ -29324,18 +29325,6 @@ export const CATALOG = [
       confusion: "Zasłonaki o fioletowej barwie (np. Cortinarius violaceus, Cortinarius camphoratus) mają rdzawobrązowy wysyp zarodników, rdzawobrązowe resztki zasnówki na trzonie i często nieprzyjemny zapach. Gąsówka brudnofioletowa (Lepista sordida) jest mniejsza, cieńsza i ma bledsze barwy.",
       notes: "Ocena z 2019 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern)."
     },
-    fr: {
-      description: "Un champignon saprotrophe commun et tardif des sous-bois et jardins. Largement répandu en Europe, en Amérique du Nord et en Asie tempérée.",
-      cap: "Le chapeau mesure 5–15 cm de largeur, convexe puis étalé, souvent bosselé ou déprimé. Il est d'une belle teinte violet lilas soutenu dans la jeunesse, puis vire au brun roussâtre ou brun violacé à partir du centre avec l'âge. La surface est lisse, glabre et la marge reste longtemps enroulée.",
-      hymenium: "Les lames sont serrées, minces, échancrées à subdécurrentes, d'un violet bleuâtre ou lilas éclatant, pâlissant en lilas grisâtre avec l'âge.",
-      stipe: "Le pied mesure 5–10 cm de hauteur et 1–3 cm d'épaisseur, robuste, fibreux, épaissi ou bulbeux à la base où adhère la litière. Il est d'un violet lilas intense, orné de fibrilles argentées.",
-      flesh: "La chair est épaisse, tendre dans le chapeau, lilas violacé pâle à blanchâtre. L'odeur est agréable, fruitée et aromatique avec une nuance d'agrumes ou de brûlé ; la saveur est douce.",
-      sporePrint: "Rose saumon pâle à chamois grisâtre. Les spores sont ellipsoïdes, finement verruqueuses, mesurant environ 6–8 × 4–5 µm.",
-      habitat: "Les sporophores apparaissent d'octobre à décembre, résistant aux premières gelées, en troupes ou en cercles dans les forêts de feuillus et de conifères, les tas de compost, les feuilles en décomposition et les jardins.",
-      uses: "C'est un bon champignon comestible recherché pour sa saveur douce et parfumée. Il doit impérativement être bien cuit car il est indigeste à l'état cru.",
-      confusion: "Le cortinaire violet (Cortinarius violaceus) possède une sporée brun rouille, une cortine de fibrilles rouille sur le pied et un chapeau entièrement feutré de petites écailles. Le pied-violet (Collybia personata) possède un chapeau chamois pâle et seul son pied est teinté de violet.",
-      notes: "Une étude de 2015 montre que cette espèce n'est pas proche de Lepista densifolia."
-    },
     it: {
       description: "Un fungo saprotrofo della lettiera di foglie e aghi nei boschi di latifoglie e conifere, giardini e parchi. È comune e ampiamente diffuso in Europa.",
       cap: "Il cappello misura 5–15 cm di diametro. È carnoso, convesso poi appianato, liscio, di un tipico e vivido colore blu-violetto o lilla ametista, che sbiadisce col tempo al bruno-rossiccio o caffèlatte al centro.",
@@ -29359,6 +29348,18 @@ export const CATALOG = [
       uses: "Kiváló csemegegomba. Nyersen hemolitikus anyagokat tartalmaz, amelyek a vörösvértesteket károsíthatják, ezért alapos, legalább 15–20 perces sütést vagy főzést igényel. Kellemes aromája ragukban és sültek mellett érvényesül a legjobban.",
       confusion: "A mérgező pókhálósgombák közül a bíborlila pókhálósgomba (Cortinarius purpurascens) vagy más lila Cortinarius fajok tönkjén barna pókhálószerű burokmaradványok (kortina) láthatók és spóraporuk rozsdabarna, sosem halvány rózsaszínes. A lila pénzecskegomba (Laccaria amethystina) jóval kisebb, vékony húsú és ritka lemezű.",
       notes: "Egy 2015-ös molekuláris tanulmány kimutatta, hogy ez a faj genetikailag nem áll közel a Lepista densifolia fajhoz."
+    },
+    fr: {
+      description: "Un champignon saprobe charnu de la litière de feuilles dans les bois, les parcs et les jardins, poussant souvent en ronds de sorcières ou en rangées. Il est indigène à travers l'Europe tempérée, certaines parties de l'Asie et l'Amérique du Nord, et il a été introduit avec du paillis en Australie.",
+      cap: "Le chapeau mesure couramment 4–15 cm de largeur, avec des valeurs extrêmes publiées d'environ 3–20 cm. Il débute convexe ou légèrement campanulé, avec une marge enroulée, duveteuse ou fibrilleuse. Il s'aplanit avec l'âge et peut devenir largement déprimé ou à lobes ondulés, parfois avec un mamelon bas et large. La surface est lisse et glabre, humide, et légèrement grasse à l'état mouillé. La couleur est d'un violet riche, violet pourpré ou bleu-lilas dans la jeunesse, et se décolore avec l'âge et par temps sec en lilas brunâtre, chamois ou brun, certains chapeaux étant bruns ou chamois dès le départ. Les sporophores nord-américains sont souvent d'un fauve plus terne, tandis que les lames et le pied conservent habituellement un peu de pourpre. La cuticule du chapeau est un cutis ou un ixocutis d'hyphes larges de 2–8 µm, pourvues d'anses d'anastomose.",
+      hymenium: "Les lames sont serrées et larges de 6–10 mm. Elles sont sinuées à échancrées et souvent attachées par une petite dent. Elles sont violettes ou lilas au début, puis chamois, brun chair ou brunes, et se détachent facilement du chapeau. Les basides sont clavées et tétrasporiques, mesurant 15–26 × 4–8 µm. Les cystides sont absentes.",
+      stipe: "Le pied mesure 2–11 cm de hauteur et 1–3 cm d'épaisseur. Il est plein et ferme, cylindrique, et souvent clavé ou bulbeux à la base. La surface est fibrilleuse. Il est violet ou lilas au début, puis bleu-gris, et plus tard presque blanchâtre, parfois brun rouille vers le bas. La partie supérieure est souvent blanchâtre et pruineuse, et de petites écailles peuvent être disposées en zigzag. Il n'y a pas d'anneau. Un mycélium blanc à lilas agglomère la litière, si bien que des mottes de substrat restent attachées à la base.",
+      flesh: "La chair est épaisse, lilas à blanchâtre, ferme dans la jeunesse et plus molle avec l'âge. Elle ne change pas de couleur à la coupe. L'odeur est douce et parfumée, parfois faiblement d'anis ou de fruits, et parfois aromatique, ayant été comparée à celle du jus d'orange congelé. La saveur est douce, agréable et fongique ou légèrement de noisette. L'hydroxyde de potassium ne modifie pas la couleur du chapeau ni de la chair.",
+      sporePrint: "Chamois rosâtre pâle à rose chair. Un dépôt frais peut paraître blanc avec une nuance ocre-rose, et devient plus rose ou plus ocre en séchant. Les spores sont ellipsoïdales, finement verruqueuses à minutieusement épineuses, inamyloïdes et cyanophiles, mesurant 5,5–9 × 3–5,5 µm, avec un rapport longueur/largeur d'environ 1,2–1,9.",
+      habitat: "La fructification principale a lieu d'août à décembre. En Grande-Bretagne, elle s'étend d'août jusqu'en décembre. En Slovaquie, les sporophores apparaissent de la fin septembre jusqu'en novembre et persistent souvent lors des gelées de décembre. En Sibérie, la période va d'août à la mi-octobre. Des sporophores printaniers s'observent en mai, et lors d'un hiver doux la fructification peut se poursuivre. Il croît sur l'humus et la litière de feuilles dans les bois de feuillus et de conifères, les haies, les parcs, les jardins, les allées et les vergers, sur le compost, dans les prairies et les pannes dunaires, ainsi que parmi les débris urbains, souvent en cercles ou en rangées, notamment en ronds de sorcières sous épicéa et pin. Il est présent des plaines jusqu'aux montagnes. Dans son aire d'introduction, il pousse avec l'eucalyptus et l'ajonc, et les sporophores diffèrent un peu de ceux d'Europe.",
+      uses: "C'est un excellent champignon comestible lorsqu'il est cuit à cœur, et il ne se mange pas cru. La chair crue contient une hémolysine thermolabile qui détruit les globules rouges et est détruite par une cuisson approfondie. Une minorité de personnes ressentent néanmoins des troubles digestifs avec des sporophores pourtant bien cuits. Les jeunes chapeaux sont préférés. Ils sont sautés, cuits au beurre ou à la crème, ou utilisés dans les omelettes, les pâtes, le riz, les plats de fromage, les viandes blanches et les ragoûts, notamment avec des poireaux ou des oignons. On les sèche également, ou on les blanchit pour les conserver dans l'huile d'olive ou le vinaigre blanc. Les sporophores sauvages accumulent les métaux lourds plus facilement que beaucoup d'autres champignons et se consomment avec modération. Ce champignon est commercialisé en France, en Espagne et au Portugal, et plus largement sur les marchés européens. Les sporophores cultivés en Grande-Bretagne, aux Pays-Bas et en France seraient d'une saveur moins bonne que les spécimens sauvages. Haché et bouilli dans un récipient en fer, il teint le tissu ou le papier en vert prairie. Il a été signalé comme inhibiteur de bactéries et de levures et capable d'abaisser la glycémie chez les personnes diabétiques. Les sporophores qui ont gelé alors qu'ils étaient encore sains peuvent être cuisinés dès leur décongélation.",
+      confusion: "Les espèces du genre Cortinarius (Cortinarius) qui partagent ces teintes violettes, notamment le cortinaire violet (Cortinarius violaceus), le cortinaire blanc-violet (Cortinarius alboviolaceus), le cortinaire à odeur de bouc (Cortinarius traganus) et le rare cortinaire camphré (Cortinarius camphoratus), possèdent une sporée brun rouille et une cortine. Une zone annulaire subsiste souvent sur le pied, poudrée par les spores brunes. Le cortinaire violet (Cortinarius violaceus) a un chapeau d'un violet plus sombre avec une cuticule feutrée. Certaines de ces espèces dégagent une odeur désagréable. La lépiste sordide (Lepista sordida) est plus petite et plus grêle, violet rosâtre, fortement hygrophane et prompte à pâlir. Elle est souvent mamelonnée, son pied est mince, et elle pousse habituellement isolée ou en petits groupes, plus souvent dans l'herbe et les prés. Le pied-bleu pâle (Lepista personata), également nommé Lepista saeva (Lepista saeva) et Collybia personata (Collybia personata), ne présente de violet que sur le pied. Son chapeau et ses lames ne sont pas lilas, et il croît dans les prairies hors des forêts. La lépiste glauque (Lepista glaucocana) est généralement d'un lilas très pâle à blanchâtre et ne brunit pas, bien que des sporophores de Sibérie occidentale puissent être plus grands et parfois vivement colorés. Certains auteurs la traitent comme une variété. Elle est rare dans les bois, en particulier les hêtraies calcaires. Le laccaire améthyste (Laccaria amethystina) est beaucoup plus grêle, avec un pied mince et un chapeau déprimé au centre.",
+      notes: "Une étude de 2015 montre que cette espèce n'est pas proche de Lepista densifolia."
     }
     },
     sources: {
@@ -29716,23 +29717,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Pied-bleu"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/451431"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -29755,6 +29739,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Lila_pereszke"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Pied-bleu"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/451431"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -29872,8 +29873,8 @@ export const CATALOG = [
       ru: "клавикорона крыновидная",
       uk: "артиміцес криночкоподібний",
       pl: "świecznik rozgałęziony",
-      fr: "clavaire à calices",
-      hu: "csészés álkorallgomba"
+      hu: "csészés álkorallgomba",
+      fr: "clavaire à calices"
     },
     names: {
       en: ["crown-tipped coral fungus", "crown coral"]
@@ -29881,8 +29882,8 @@ export const CATALOG = [
       cs: ["korunovec svícnovitý"],
       ru: ["артомицес крыновидный","клавикорона чашевидная"],
       uk: ["клавікорона криночкоподібна"],
-      fr: ["clavaire pyxidée"],
-      hu: ["serleges korallgomba"]
+      hu: ["serleges korallgomba"],
+      fr: ["clavaire pyxidée"]
     },
     text: {
       tr: {
@@ -30157,18 +30158,6 @@ export const CATALOG = [
       confusion: "Gatunki z rodzaju koralówka (Ramaria) rosną zazwyczaj na ziemi w lasach i nie mają miseczkowatych zakończeń gałązek. Gałęziak jodłowy (Clavicorona taxophila) jest znacznie mniejszy i rośnie na ściółce.",
       notes: "W Polsce gatunek rzadki, podlegający ochronie częściowej."
     },
-    fr: {
-      description: "Un champignon lignicole coralloïde saprotrophe des bois pourrissants. Répandu en Amérique du Nord et en Europe continentale, rare en Grande-Bretagne.",
-      cap: "Le sporophore mesure 4–12 cm de hauteur et 2–8 cm de largeur, dressé et ramifié de façon coralloïde. La structure est unique : chaque rameau se termine par une petite coupe élargie bordée de 3 à 6 petites pointes en couronne (ramification en candélabre). Il est blanchâtre, crème pâle, ocre rosâtre ou jaune paille.",
-      hymenium: "L'hyménium fertile tapisse la surface extérieure des rameaux verticaux.",
-      stipe: "La base est un tronc court et mince s'insérant directement dans le bois mort.",
-      flesh: "La chair est élastique, tenace et blanchâtre. L'odeur est insignifiante ; la saveur est douce au début puis devient poivrée ou piquante.",
-      sporePrint: "Blanche. Les spores sont largement ellipsoïdes à ovoïdes, lisses ou très finement rugueuses, mesurant environ 4–5 × 2–3 µm, et sont amyloïdes.",
-      habitat: "Les sporophores apparaissent de juin à octobre sur les troncs et branches pourrissantes de feuillus, en particulier le tremble, le peuplier, le bouleau et le saule.",
-      uses: "C'est un champignon comestible convenable lorsqu'il est jeune et frais, souvent préparé sauté ou frit.",
-      confusion: "La clavaire dressée (Ramaria stricta) croît également sur le bois et possède des rameaux verticaux, mais ses extrémités ne sont pas couronnées en calices, elle présente des cordons mycéliens blancs à la base et sa saveur ne devient pas âcre. D'autres espèces de ramaires (Ramaria) poussent au sol et ne se terminent pas en coupes. Les espèces de Clavulinopsis sont dépourvues d'extrémités cupuliformes. Artomyces microsporus présente une forme semblable avec des rameaux serrés dès la base, des spores plus courtes mesurant environ 3–3,8 µm et une préférence pour les pins morts. Artomyces cristatus est petit, simple ou très peu ramifié.",
-      notes: "Des pyxidatols A–C, la tsuicoline E et l'omphadiol ont été obtenus à partir de cultures liquides."
-    },
     it: {
       description: "Un fungo saprotrofo lignicolo clavarioide a forma di candelabro ramificato che cresce sul legno morto di latifoglie in decomposizione (faggio, pioppo, salice). È ampiamente diffuso ma discontinuo in Eurasia e Nord America.",
       cap: "Il corpo fruttifero assomiglia a un corallo o candelabro ramificato, alto 4–12 cm e largo 2–8 cm. I rami sono eretti, ascendenti, di colore bianco crema o giallo pallido, caratterizzati da ramificazioni secondarie che terminano all'apice con una tipica coroncina a coppa bordata da piccole punte dentellate.",
@@ -30192,6 +30181,18 @@ export const CATALOG = [
       uses: "Ehető gomba, bár kulináris értéke csekély. Általában hirtelen átsütve vagy pirítva készítik el; alapos hőkezeléssel a csípős íze eltűnik.",
       confusion: "A valódi korallgombák (Ramaria és Clavulina fajok) ágai tompán vagy villásan végződnek, soha nincsenek serlegszerű csészeképződmények a csúcsukon, és többnyire a talajon nőnek.",
       notes: "Folyadékkultúrából pikxidatol A–C, cuikolin E és omfadiol vegyületeket mutattak ki. Lengyelországban a keményfaligetek pusztulása miatt a sebezhető fajok közé sorolják."
+    },
+    fr: {
+      description: "Un champignon coralloïde saprotrophe du bois pourri à travers l'hémisphère nord tempéré. Il est largement répandu en Europe, en Asie et en Amérique du Nord, peu commun dans une grande partie de l'Europe occidentale et rare en Grande-Bretagne. En Amérique du Nord, il est présent dans l'Est, les montagnes Rocheuses et au Mexique, et il est absent ou rare sur la côte Pacifique.",
+      cap: "Le sporophore mesure environ 2–13 cm de hauteur et 2–10 cm de largeur, et mesure couramment 4–12 cm de hauteur. Des rameaux dressés, épais d'environ 1–5 mm, s'élèvent de façon répétée depuis une base courte et se rejoignent en bas en branches plus épaisses. Ils sont serrés les uns contre les autres. Chaque extrémité s'évase en une cupule peu profonde pourvue d'environ 3–6 pointes courtes sur le rebord, et le même verticille se répète le long des rangs de ramification. La couleur est d'abord blanchâtre, crème ou rose chair pâle, puis jaunâtre ou ocre, parfois avec une nuance rosâtre. Les extrémités brunissent souvent avec l'âge. Les sporophores séchés deviennent cannelle à bruns.",
+      hymenium: "La surface fertile est lisse et recouvre les rameaux. Les basides sont clavées et tétrasporiques, bouclées à la base, et mesurent environ 16–30 × 3,6–5,2 µm. Les cystides sont fusoïdes, cylindriques, capitées ou en massue, mesurant jusqu'à environ 50 × 9 µm, et dépassent souvent à peine. Des leptocystides à paroi mince d'environ 3–5 µm de large sont également présentes. Des hyphes oléifères peuvent se terminer dans l'hyménium sous forme de gléocystides dépassant jusqu'à 15 µm.",
+      stipe: "Une base courte est souvent présente, longue d'environ 1–3 cm et épaisse jusqu'à 1 cm. Elle est blanchâtre, rosâtre ou brunâtre, et finement duveteuse. Elle peut être presque cachée ou pénétrer un peu dans le bois. Un feutrage mycélien au point d'attache est blanc à couleur de rouille.",
+      flesh: "La chair est blanchâtre à jaunâtre, élastique et assez coriace, et brunit au frottement. L'odeur est fortement épicée, faiblement terreuse ou rappelant des pommes de terre fraîchement déterrées, et peut être indistincte. La saveur est douce, légèrement amère ou poivrée, le piquant n'apparaissant qu'après avoir mastiqué la chair. Le système hyphal est monomitique. Les hyphes génératrices portent des anses d'anastomose et atteignent environ 12–16 µm de large. Des hyphes oléifères d'environ 3–8 µm de large sont dispersées dans la chair. Les sels de fer laissent les rameaux et la base inchangés ou les virent au grisâtre à brunâtre.",
+      sporePrint: "Blanche. Les spores sont ellipsoïdes à étroitement ellipsoïdes, mesurant environ 3,6–5,5 × 2–3 µm, minutieusement verruqueuses ou ponctuées, souvent avec un petit apicule et une gouttelette d'huile. Elles sont amyloïdes.",
+      habitat: "Les sporophores apparaissent principalement de juillet à septembre en Europe centrale et de juin à septembre plus à l'est en Europe, avec des mentions dès mai et jusqu'en octobre. Dans l'est de l'Amérique du Nord, ils fructifient du printemps jusqu'à l'automne, et de juin à septembre selon de nombreux auteurs. Ils poussent solitaires ou en groupes sur les souches pourries et les troncs tombés, en particulier de tremble et d'autres peupliers, de saule, hêtre, chêne, tilleul, charme et érable, ainsi que sur bouleau, aulne, frêne, sureau et châtaignier. Le bois de conifères est moins habituel. Le pin et le sapin pectiné sont répertoriés, et des récoltes récentes dans les plaines du nord de l'Allemagne ont été faites principalement sur pin. En Europe du Nord, les hôtes habituels sont le bouleau, le peuplier et le saule. Le tulipier de Virginie est un hôte fréquent dans l'est de l'Amérique du Nord.",
+      uses: "Il est considéré comme non comestible en Europe centrale. Certaines publications nord-américaines le qualifient de comestible à l'état frais, et il a également été qualifié de comestible cru, bien que meilleur cuit. En 2014, il ne figurait sur aucune des listes allemandes de champignons alimentaires, de champignons à valeur culinaire contestée ou de champignons toxiques. Les sporophores sont souvent de petite taille.",
+      confusion: "La ramaire dressée (Ramaria stricta) croît également sur le bois et possède des rameaux dressés. Ses extrémités ne sont pas couronnées, elle possède des cordons mycéliens blancs ressemblant à des radicelles, et sa saveur ne devient pas âcre lorsqu'on mastique sa chair. D'autres espèces du genre Ramaria (Ramaria) poussent sur le sol et ne se terminent pas en calices. Les espèces du genre Clavulinopsis (Clavulinopsis) sont dépourvues d'extrémités en calice. Artomyces microsporus (Artomyces microsporus) présente une forme similaire, avec des rameaux densément serrés de la base jusqu'au sommet, des spores plus courtes d'environ 3–3,8 µm de long et une préférence pour le pin mort. Artomyces cristatus (Artomyces cristatus) est petit, et ses sporophores sont simples ou seulement rarement ramifiés deux fois.",
+      notes: "Les pyxidatols A–C, la tsuicoline E et l'omphadiol ont été obtenus à partir de cultures liquides. En Pologne, il est considéré comme vulnérable (Vulnerable), en lien avec la disparition des forêts riveraines de feuillus."
     }
     },
     sources: {
@@ -30520,23 +30521,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Artomyces_pyxidatus"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/4859"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -30554,6 +30538,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Cs%C3%A9sz%C3%A9s_%C3%A1lkorallgomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Artomyces_pyxidatus"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/4859"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -30667,9 +30668,9 @@ export const CATALOG = [
       ru: "трутовик зонтичный",
       uk: "трутовик зонтичний",
       pl: "żagiew wielogłowa",
-      fr: "polypore en ombelle",
       it: "poliporo ombrellifero",
-      hu: "tüskegomba"
+      hu: "tüskegomba",
+      fr: "polypore en ombelle"
     },
     names: {
       en: ["lumpy bracket"],
@@ -30680,9 +30681,9 @@ export const CATALOG = [
       bg: ['сенникова праханка'],
       ru: ["полипорус зонтичный","гриб-баран"],
       uk: ["поліпор зонтичний"],
-      fr: ["poule de bois"],
       it: ["grifola a ombrello"],
-      hu: ["ágas-bogas likacsosgomba"]
+      hu: ["ágas-bogas likacsosgomba"],
+      fr: ["poule de bois"]
     },
     text: {
       tr: {
@@ -30958,18 +30959,6 @@ export const CATALOG = [
       confusion: "Wachlarzowiec olbrzymi (Meripilus giganteus) tworzy znacznie większe, łopatkowate kapelusze czerniejące po dotknięciu. Żagwica listkowata (Grifola frondosa) ma większe, bocznie osadzone kapelusze.",
       notes: "W naturze tworzenie podziemnego sklerocjum bywa powiązane z obecnością grzybni opieńki (Armillaria). W Polsce gatunek objęty ścisłą ochroną gatunkową."
     },
-    fr: {
-      description: "Un champignon lignicole parasite et saprotrophe remarquable formant de grandes touffes ombelliformes issues d'un sclérote souterrain. Présent dans les régions tempérées d'Europe, d'Asie et d'Amérique du Nord.",
-      cap: "Le sporophore atteint 10–50 cm de diamètre et se compose d'une multitude de petits chapeaux arrondis et circulaires (chacun mesurant 1–4 cm), portés par des rameaux blancs ramifiés à l'infini. Les chapeaux sont gris brunâtre pâle à ocre clair, ombiliqués au centre.",
-      hymenium: "La face inférieure de chaque chapeau porte des pores blancs minuscules et décurrents sur les petits pieds.",
-      stipe: "Les chapeaux sont reliés à un système ramifié très dense de petits pieds blancs qui convergent vers un tronc commun trapu émergeant d'un gros sclérote noir souterrain.",
-      flesh: "La chair est blanche, tendre et fragile dans la jeunesse, devenant plus ferme avec l'âge. L'odeur est agréable et fongique ; la saveur est douce et noisetée.",
-      sporePrint: "Blanche. Les spores sont cylindriques, lisses, mesurant environ 7–10 × 2,5–3,5 µm.",
-      habitat: "Les sporophores apparaissent de juin à octobre au pied des vieux arbres vivants ou près des souches de feuillus, en particulier les chênes et les hêtres.",
-      uses: "C'est un excellent comestible lorsqu'il est jeune et frais. Il est également très apprécié en médecine traditionnelle asiatique (sous le nom de Zhuling).",
-      confusion: "Le polypore en touffe ou maïtake (Grifola frondosa) possède des chapeaux en forme d'éventails latéraux gris-brun sombre (non circulaires et non ombiliqués au centre). Le polypore géant (Meripilus giganteus) forme de très grandes consoles aplaties noircissant au toucher.",
-      notes: "Dans la nature, le sclérote souterrain se formerait en présence de mycélium d'une armillaire (Armillaria)."
-    },
     it: {
       description: "Un fungo lignicolo agente di carie bianca, parassita delle radici e saprotrofo su ceppi di latifoglie (soprattutto faggio e quercia). È una specie rara e protetta in varie regioni europee.",
       cap: "Il corpo fruttifero è formato da un fusto comune ramificato che sostiene centinaia di piccoli cappelli tondeggianti e ombelicati, raggiungendo 15–40 cm di diametro complessivo. Ciascun piccolo cappello misura 1–4 cm di larghezza, di colore bruno chiaro, nocciola o crema-ocraceo.",
@@ -30993,6 +30982,18 @@ export const CATALOG = [
       uses: "Fiatalon kitűnő csemegegomba, puha kalapjai és ágai levesekben és ragukban kiválóak. A hagyományos kínai orvoslásban szkleróciumát (Zhu Ling) vízhajtóként és immunerősítőként régóta alkalmazzák.",
       confusion: "A bokrosgomba (Grifola frondosa) kalapjai féloldalasak, lapos nyelv vagy legyező alakúak és sötétszürke-barnás színűek. Az óriás likacsosgomba (Meripilus giganteus) jóval nagyobb, vastagabb kalapú és húsa sérülésre feketedik.",
       notes: "A természetben a föld alatti szklerócium kifejlődéséhez feltételezhetően szükséges bizonyos Armillaria (tuskógomba) fajok jelenléte."
+    },
+    fr: {
+      description: "Un champignon provoquant une pourriture blanche dans les forêts de feuillus, parasite des racines vivantes et saprotrophe sur les souches. Il a une répartition tempérée dans l'hémisphère nord, de l'Europe centrale et orientale jusqu'au sud de la Fennoscandie, à travers l'Amérique du Nord, et du Caucase et de la Sibérie jusqu'au Pakistan. En Grande-Bretagne, il est rare et essentiellement méridional.",
+      cap: "Le sporophore est un tronc épais, charnu et ramifié qui porte de nombreux petits chapeaux ronds munis d'un pied central, parfois plusieurs centaines, et il émerge d'un sclérote souterrain. La touffe entière mesure couramment 10–50 cm de largeur et peut peser plusieurs kilogrammes. Les chapeaux individuels mesurent 1–5 cm de largeur, le plus souvent 2–4 cm. Ils sont minces, largement convexes ou plano-convexes au début, puis plats à peu profondément déprimés, ombiliqués ou en entonnoir, avec une marge mince et ondulée. La surface est crème, ocre pâle, brun grisâtre, brun-jaune pâle, brun fumée ou blanchâtre, souvent ornée d'écailles fibreuses grisâtres à brun-gris ou de fines fibrilles radiales, en particulier dans la jeunesse, et devient ocre puis brune avec l'âge. La marge peut jaunir aux meurtrissures. Le sporophore est éphémère et s'affaisse par temps pluvieux.",
+      hymenium: "Les tubes sont blancs à crème, d'une longueur d'environ 1–2 mm, et profondément décurrents sur les pieds. Les pores sont de même couleur, ronds au début puis anguleux, d'environ 0,5–1 mm de large, au nombre de 1–2 par millimètre. Les cystides hyméniales sont absentes.",
+      stipe: "Chaque chapeau possède un pied central blanchâtre à crème, cylindrique et souvent élargi à la jonction avec le chapeau. Les pieds restent distincts juste sous les chapeaux et fusionnent plus bas en une ou plusieurs branches plus épaisses. Le tronc commun est épais et charnu, haut d'environ 2,5–8 cm et épais de 2–4 cm, et brun rouille près de la base.",
+      flesh: "La chair est blanche. La chair jeune est juteuse et tendre, puis fibreuse et cassante, et sa couleur ne change pas à la coupe. La chair plus âgée est coriace et fibreuse, et lorsqu'elle est sèche elle est dure et cassante. La chair jeune a une odeur agréable, farineuse ou faiblement douceâtre, et une saveur douce. Avec l'âge, l'odeur devient désagréable et la saveur amère ou âcre. Le système hyphal est dimitique, avec des anses d'anastomose. L'hydroxyde de potassium ne provoque aucun changement de couleur sur la chair ou sur le chapeau.",
+      sporePrint: "Blanche ou blanchâtre. Les spores sont cylindriques, lisses, à paroi mince et hyalines, inamyloïdes, mesurant environ 7–10 × 2,5–3,5 µm.",
+      habitat: "Les sporophores apparaissent de la fin mai, après la pluie, jusqu'en novembre, principalement de juillet à septembre. Les signalements slovaques vont de juin à septembre, les britanniques couvrent l'été et l'automne, et ceux de l'est de l'Amérique du Nord vont de mai à septembre ou du printemps jusqu'à l'automne. Ils poussent solitaires ou jusqu'à environ six ensemble, à la base de feuillus vivants et de souches, ainsi qu'à quelques mètres de distance, à partir d'un sclérote noueux brun-noir situé juste sous la surface du sol, souvent autour de fines racines vivantes. Le sclérote possède un cortex ridé mince et un intérieur liégeux tenace crème ou blanc. Le chêne et le hêtre sont les hôtes habituels, de même que le charme, le frêne et d'autres feuillus. Il préfère les stations chaudes sur des sols riches en calcaire ou en bases et évite les sables acides et argiles pauvres. Les sporophores peuvent réapparaître au même endroit pendant de nombreuses années, ou sauter des années. Après l'abattage, le champignon peut persister sur la souche jusqu'à environ 30 ans, et un passage sur épicéa est parfois signalé.",
+      uses: "Les jeunes sporophores frais sont excellents dans les soupes et les sauces, ou séchés. Les sporophores plus âgés deviennent amers ou désagréables.",
+      confusion: "La poule des bois (Grifola frondosa) possède des frondes plus grandes, en éventail ou en feuille avec un pied latéral, alors que cette espèce possède de nombreux petits chapeaux ronds munis d'un pied central. Le polypore géant (Meripilus giganteus) a des frondes spatulées plus épaisses avec un pied excentré et pousse principalement avec le hêtre. Le sparassis crépu (Sparassis crispa) est plus pâle, avec des lobes ondulés et contournés, et pousse avec les conifères, particulièrement le pin sylvestre. L'armillaire sans anneau (Armillaria tabescens) possède des lames. Le polypore d'Italie (Polyporus tuberaster) fructifie également à partir d'un sclérote, mais son sporophore est constitué d'un chapeau unique.",
+      notes: "Dans la nature, la formation du sclérote souterrain est signalée là où le mycélium d'une armillaire est présent, notamment l'armillaire bulbeuse (Armillaria gallica) et l'armillaire à pied clavé (Armillaria cepistipes). Le sclérote est utilisé dans la médecine chinoise comme diurétique depuis plus de 2 000 ans. Ce champignon est peu commun, et certains ouvrages recommandent d'épargner les sporophores sans les cueillir."
     }
     },
     sources: {
@@ -31317,23 +31318,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Polyporus_umbellatus"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/4830"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -31356,6 +31340,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/T%C3%BCskegomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Polyporus_umbellatus"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/4830"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -31469,8 +31470,8 @@ export const CATALOG = [
       ru: "подосиновик белоножковый",
       uk: "підосиковик білоніжковий",
       pl: "koźlarz białotrzonowy",
-      fr: "bolet orangé des peupliers",
-      hu: "vörös érdestinóru"
+      hu: "vörös érdestinóru",
+      fr: "bolet orangé des peupliers"
     },
     names: {
       sk: [
@@ -31754,17 +31755,6 @@ export const CATALOG = [
       uses: "Bardzo smaczny grzyb jadalny po ugotowaniu lub usmażeniu. Miąższ ciemnieje podczas obróbki kulinarnej.",
       confusion: "Koźlarz czerwony (Leccinum aurantiacum) rośnie głównie pod dębami i ma od młodości rdzawobrązowe łuseczki na trzonie. Koźlarz pomarańczowożółty (Leccinum versipelle) rośnie pod brzozami i ma od razu czarniawe łuseczki."
     },
-    fr: {
-      description: "Un champignon ectomycorhizien associé spécifiquement aux peupliers trembles. Largement répandu dans toute l'Europe boréale et tempérée.",
-      cap: "Le chapeau mesure 8–20 cm de largeur, hémisphérique puis convexe, d'une belle couleur orange vif à rouge orangé éclatant. La cuticule est veloutée au début puis lisse, dépassant nettement la marge en un petit repli membraneux.",
-      hymenium: "Les tubes sont longs et étroits, blanchâtres puis grisâtres. Les pores sont fins et ronds, blanc crème puis brunissant légèrement au froissement.",
-      stipe: "Le pied mesure 10–20 cm de hauteur et 2–4 cm d'épaisseur, cylindrique ou élargi vers le bas. Il est blanc et couvert de méchules rugueuses d'abord d'un blanc pur (caractère distinctif majeur), ne devenant rousses ou brunâtres que tardivement chez les spécimens âgés.",
-      flesh: "La chair est blanche et compacte, virant d'abord au violacé vineux ou au gris lilas à la coupe, puis noircissant lentement en gris noirâtre. L'odeur est faible ; la saveur est douce.",
-      sporePrint: "Brun ochracé. Les spores sont fusiformes, lisses, mesurant environ 13–17 × 4–5 µm.",
-      habitat: "Les sporophores apparaissent de juillet à octobre exclusivement sous les peupliers trembles (Populus tremula) dans les bois clairs et les lisières.",
-      uses: "C'est un bon comestible une fois bien cuit. La chair noircit à la cuisson et les pieds fibreux doivent être rejetés.",
-      confusion: "Le bolet orangé (Leccinum aurantiacum), associé au chêne, possède des méchules rousses dès la jeunesse. Le bolet roux (Leccinum versipelle) pousse sous les bouleaux et porte des méchules noires dès le début."
-    },
     it: {
       description: "Un fungo ectomicorrizico legato al pioppo tremulo (Populus tremula). È diffuso nelle foreste temperate e boreali d'Europa.",
       cap: "Il cappello misura 3–25 cm di diametro. È emisferico poi convesso e infine appianato a cuscinetto. La cuticola è di colore arancio vivo, rosso mattone o albicocca, liscia o finemente tomentosa.",
@@ -31787,6 +31777,17 @@ export const CATALOG = [
       uses: "Jó ehető gomba, de alapos főzést igényel, mert nyersen vagy félig átsütve gyomorpanaszokat okozhat. Főzés során a húsa a többi érdestinóruhoz hasonlóan megfeketedik.",
       confusion: "A tölgyfa-érdestinóru (Leccinum aurantiacum) tölgy alatt nő és tönkpikkelyei már fiatalon vörösbarnák. A kormostönkű érdestinóru (Leccinum versipelle) nyírfához kötődik és pikkelyei feketék.",
       notes: "Korábban a Leccinum aurantiacum formakörébe sorolták; a tönk fiatalon feltűnően fehér pikkelyezettsége különbözteti meg tőle."
+    },
+    fr: {
+      description: "Un champignon ectomycorhizien des bois de trembles et de peupliers, poussant solitaire ou en groupes lâches. Il est commun en Scandinavie et dans les montagnes d'Europe centrale, plus rare en plaine et vers le sud et l'ouest, et peu commun en Grande-Bretagne. Il est également répertorié dans le nord de l'Asie et, rarement, en Amérique du Nord.",
+      cap: "Le chapeau mesure 3–25 cm de largeur. Il est d'abord hémisphérique, puis convexe, et plus tard en coussinet à presque étalé, parfois avec la marge retroussée. La surface est sèche et finement feutrée ou fibrilleuse, orange vif à rouge orangé ou brun orangé dans la jeunesse, parfois rouge brique ou rouge sombre, et se décolore ou se craquelle avec l'âge, surtout sous la pluie. La marge est mince, et la cuticule déborde sur les tubes en un rabat stérile mesurant jusqu'à environ 4–6 mm chez les jeunes sporophores. La cuticule du chapeau est un cutis d'hyphes cylindriques étroites.",
+      hymenium: "Les tubes mesurent 7–30 mm de longueur, ventrus, et adnexés à profondément échancrés au niveau du pied. Ils sont blanchâtres à blanc jaunâtre au début, puis grisâtres avec une nuance olive ou gris-jaune. Les pores sont petits et ronds, d'environ 0,5 mm de diamètre, et de même couleur que les tubes. Les pores froissés virent au brun, gris violacé ou noir violacé. Les basides mesurent 25–35 × 7,5–11 µm et sont bisporiques ou tétrasporiques. Les cystides sont lagéniformes à clavées ou fusiformes, mesurant environ 20–50 × 7–15 µm, souvent avec une extrémité étirée. Les anses d'anastomose sont absentes.",
+      stipe: "Le pied mesure 5–27 cm de longueur et 1,2–5 cm d'épaisseur, renflé ou ventru dans le jeune âge, puis cylindrique ou légèrement clavé et plus étroit vers le sommet, sans anneau. Il est blanc à grisâtre, avec de fines écailles granuleuses souvent disposées en lignes longitudinales grossières. Les écailles sont d'abord blanches, puis brun orangé à châtain de la base vers le haut, et avec l'âge brun-gris foncé, tandis que le haut du pied peut rester pâle pendant longtemps. La manipulation peut tacher la base de bleu ou bleu-vert. Les caulocystides sont clavées à fusiformes, mesurant environ 15–65 × 10–16 µm.",
+      flesh: "La chair est blanche et épaisse. Elle est ferme dans la jeunesse, puis spongieuse dans le chapeau, fibreuse dans le pied, et presque ligneuse à la base. La chair coupée se teinte de lilas ardoisé, rouge vineux ou violet, puis rouge-brun, gris ou noir violacé à presque noir. La base peut être déjà verdâtre ou bleuâtre, et peut bleuir aux meurtrissures. La saveur est douce et l'odeur est discrète. Le sulfate de fer vire la chair au gris-vert, et le formol la colore en rose sale puis en violet brunâtre.",
+      sporePrint: "Brune, brun ocre ou brun olivâtre. Les spores sont fusiformes à en fuseau, avec un sommet conique et une dépression supra-hilaire peu profonde, mesurant environ (9,5–)11–18 × 4–5,5 µm.",
+      habitat: "Les sporophores apparaissent de mai à novembre, le plus souvent de juin à octobre, et d'août à novembre en Grande-Bretagne. Ils poussent sur le sol avec le tremble (Populus tremula), certaines mentions incluant également d'autres peupliers, dans les bois mixtes, en lisière et dans les clairières, ainsi que dans les endroits humides, plus souvent sur sol acide que sur terrain sec ou calcaire.",
+      uses: "Les jeunes sporophores fermes sont comestibles lorsqu'ils sont cuits à cœur. La chair est considérée comme bonne et noircit à la cuisson ; cette coloration ne s'atténue pas et est inoffensive. Il ne doit pas être consommé cru.",
+      confusion: "Le bolet orangé des chênes (Leccinum aurantiacum) possède des écailles de pied brun rougeâtre dès la jeunesse, plus denses et plus sombres que les écailles pâles de cette espèce, et un chapeau souvent plus rouge ou, selon certaines mentions, teinté de verdâtre. Les publications l'associent au chêne, ou au tremble. Le bolet roux (Leccinum versipelle) croît avec le bouleau, est plus robuste, possède un chapeau ocre jaune et de grossières écailles noires, et noircit aux meurtrissures sans phase rouge. Le bolet orangé des épicéas (Leccinum piceinum) pousse avec l'épicéa et présente une nuance verdâtre sur le chapeau."
     }
     },
     sources: {
@@ -32077,23 +32078,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Leccinum_albostipitatum"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/451434"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -32111,6 +32095,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/V%C3%B6r%C3%B6s_%C3%A9rdestin%C3%B3ru"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Leccinum_albostipitatum"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/451434"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -32224,9 +32225,9 @@ export const CATALOG = [
       ru: "ложная лисичка",
       uk: "лисичка несправжня",
       pl: "lisówka pomarańczowa",
-      fr: "fausse chanterelle",
       it: "falso gallinaccio",
-      hu: "narancsvörös álrókagomba"
+      hu: "narancsvörös álrókagomba",
+      fr: "fausse chanterelle"
     },
     names: {
       sk: ["tanečnica", "divé kuriatko"]
@@ -32235,8 +32236,8 @@ export const CATALOG = [
       es: ['falsa cantarela'],
       sv: ['falsk kantarell'],
       ru: ["говорушка оранжевая"],
-      fr: ["fausse girolle"],
-      hu: ["narancssárga álrókagomba","narancsszínű álrókagomba"]
+      hu: ["narancssárga álrókagomba","narancsszínű álrókagomba"],
+      fr: ["fausse girolle"]
     },
     text: {
       tr: {
@@ -32511,18 +32512,6 @@ export const CATALOG = [
       confusion: "Pieprznik jadalny (Cantharellus cibarius) ma grubszy, mięsisty miąższ, barwę żółtka jaja, przyjemny morelowy zapach oraz fałdy (listewki) zamiast cienkich, gęstych, rozwidlonych blaszek.",
       notes: "Dawne odmiany barwne zostały obecnie podniesione do rangi odrębnych gatunków."
     },
-    fr: {
-      description: "Un champignon saprotrophe commun des forêts de conifères. Répandu dans tout l'hémisphère nord, en Europe, en Asie et en Amérique du Nord.",
-      cap: "Le chapeau mesure 2–8 cm de largeur, d'abord convexe à marge enroulée puis étalé et déprimé en entonnoir. Il est orange vif, jaune orangé ou abricot, feutré et mat. La marge est mince et souvent ondulée.",
-      hymenium: "Les lames sont serrées, étroites, fourchues et nettement décurrentes, d'un orange éclatant ou jaune orangé plus soutenu que le chapeau.",
-      stipe: "Le pied mesure 3–6 cm de hauteur et 4–10 mm d'épaisseur, grêle, souvent courbé, jaune orangé à brun sombre vers la base.",
-      flesh: "La chair est mince, molle et spongieuse, orange pâle à jaunâtre. L'odeur est discrète ; la saveur est douce mais peu prononcée.",
-      sporePrint: "Blanc crème à jaunâtre très pâle. Les spores sont ellipsoïdes, lisses, dextrinoïdes, mesurant environ 5,5–7 × 3,5–4,5 µm.",
-      habitat: "Les sporophores apparaissent de septembre à novembre sur la litière d'aiguilles, les brindilles pourrissantes et les souches moussues des bois de conifères (pins, épicéas).",
-      uses: "C'est un champignon comestible médiocre en raison de sa texture molle et spongieuse et de son absence de goût marqué.",
-      confusion: "La girolle (Cantharellus cibarius) possède de véritables plis ou fausses lames épaisses (non des lames minces et serrées), une chair blanche ferme et un arôme fruité d'abricot. Le pleurote de l'olivier (Omphalotus olearius) est toxique, beaucoup plus grand, pousse en touffes sur bois et possède des lames bioluminescentes.",
-      notes: "Deux anciennes variétés sont désormais considérées comme des espèces distinctes : Hygrophoropsis macrospora et Hygrophoropsis rufa."
-    },
     it: {
       description: "Un fungo saprotrofo della lettiera di aghi e dei residui legnosi marcescenti nei boschi di conifere e brughiere. È comune in tutta Europa.",
       cap: "Il cappello misura 2–10 cm di diametro. È convesso poi spianato e infine depresso o a imbuto con margine involuto. Il colore è arancio brillante, giallo aranciato o fulvo, con superficie finemente vellutata.",
@@ -32546,6 +32535,18 @@ export const CATALOG = [
       uses: "Ehető, de csekély gasztronómiai értékű gomba, húsa puha és vékony. Nagyobb mennyiségben fogyasztva egyes embereknél emésztési panaszokat okozhat.",
       confusion: "A valódi sárga rókagomba (Cantharellus cibarius) vastagabb húsú, termőrétegét lefutó, villás eres ráncok (nem valódi lemezek) alkotják, színe tojássárgája és illata kellemes barackos. A mérgező világító tölcsérgomba (Omphalotus olearius) jóval nagyobb termetű és fán terem.",
       notes: "Rendszertanilag a Boletales (tinórufélék) rendjébe tartozik, noha lemezes termőrétege van."
+    },
+    fr: {
+      description: "Un champignon saprotrophe des bois de conifères et mixtes, des landes et des parterres de copeaux de bois, poussant solitaire ou en groupes et parfois en ronds de sorcières. Il est largement répandu en Europe tempérée, en Amérique du Nord et dans le nord de l'Asie, et il est signalé en Amérique centrale, en Amérique du Sud, en Australie et en Nouvelle-Zélande.",
+      cap: "Le chapeau mesure 2–10 cm de largeur. Il est d'abord convexe, puis étalé, et plus tard déprimé ou en entonnoir. La marge reste enroulée pendant longtemps et devient par la suite ondulée ou lobée. La surface est sèche et finement veloutée à feutrée, parfois finement écailleuse. La couleur va du jaune pâle à l'orange, au rouge orangé ou au brun orangé. Le centre est souvent plus sombre ou brun olive avec l'âge, et certains sporophores sont très pâles. La cuticule du chapeau est soit un trichoderme d'hyphes larges de 4–15 µm, soit une couche d'hyphes couchées ou entremêlées et bouclées d'environ 7–12 µm de large. L'hydroxyde de potassium sur le chapeau donne une réaction négative à rougeâtre.",
+      hymenium: "Les lames sont de vraies lames, serrées et minces, et se divisent de façon répétée en fourche. Elles descendent longuement sur le pied et peuvent être détachées de la chair. Elles sont souvent d'un orange plus vif que le chapeau, allant du jaune au rouge orangé ou à l'écarlate. Les basides sont tétrasporiques et mesurent environ 25–40 × 5–8 µm. Les cystides sont absentes de l'arête et des faces des lames. Des anses d'anastomose sont présentes.",
+      stipe: "Le pied mesure 2–8 cm de longueur et 0,3–1,5 cm d'épaisseur. Il est cylindrique, atténué vers le bas ou renflé au milieu, souvent courbé et souvent excentré, sans anneau. Il est concolore au chapeau ou plus pâle, orange jaunâtre à brunâtre, et s'assombrit souvent en brun foncé ou noirâtre à la base. Il est d'abord ferme, puis farci ou creux.",
+      flesh: "La chair est jaune pâle à orange, molle et mince dans le chapeau, et fibreuse dans le pied. L'odeur est discrète et douceâtre ou fongique, et la saveur est douce ou légèrement amère.",
+      sporePrint: "Blanche à crème. Les spores sont ellipsoïdes à ovoïdes et lisses, dextrinoïdes et cyanophiles, mesurant environ 5,5–8,5 × 3,5–5 µm.",
+      habitat: "En Grande-Bretagne et en Irlande, les sporophores apparaissent d'août jusqu'en novembre, et en Europe centrale de juillet jusqu'en décembre. Plus au sud et dans certaines régions d'Amérique du Nord, ils peuvent persister tout l'hiver. Il croît sur le sol, sur la litière d'aiguilles, sur le bois et l'écorce en décomposition, ainsi que sur les tas de sciure et de copeaux de bois, principalement dans les forêts de conifères et mixtes, sur les landes et dans les plantations, le plus souvent avec le pin sylvestre ainsi que sous épicéa, mélèze et d'autres pins. On le rencontre également avec le hêtre et d'autres feuillus, ainsi que dans les landes à bruyères.",
+      uses: "La comestibilité est contestée. Il est largement considéré comme comestible et a été vendu sur les marchés européens, notamment en France, mais il est de piètre qualité, mou et plutôt insipide. Il a provoqué des troubles digestifs chez certaines personnes, des hallucinations selon une observation, et a également été qualifié de légèrement toxique.",
+      confusion: "La girolle (Cantharellus cibarius) est plus épaisse et plus ferme, jaune pâle, pourvue de plis obtus plutôt que de vraies lames, et sent l'abricot. La chanterelle de Fries (Cantharellus friesii) est plus orangée, mais possède toujours des plis et une chair plus ferme. Le pleurote de l'olivier (Omphalotus olearius) et l'omphalote illusoire (Omphalotus illudens) sont toxiques. Ils poussent en touffes sur le bois de feuillus comme l'olivier, le chêne ou le châtaignier, avec des sporophores plus épais et de vraies lames qui ne sont pas fourchues. La fausse chanterelle rousse (Hygrophoropsis rufa) a un chapeau et un pied plus bruns ainsi qu'une surface veloutée ou écailleuse brune. Hygrophoropsis macrospora (Hygrophoropsis macrospora) a des lames crème, un pied crème et des spores plus longues. Hygrophoropsis fuscosquamula (Hygrophoropsis fuscosquamula) porte de fines écailles brunes sur un chapeau orange terne, des spores plus longues et un trichoderme. La fausse chanterelle odorante (Aphroditeola olida) est plus petite et rosâtre, avec une odeur de bonbon et des spores inamyloïdes plus petites. L'omphale à lames dorées (Chrysomphalina chrysophylla) a un chapeau brun-jaune et des lames jaunes non fourchues. Haasiella splendidissima (Haasiella splendidissima) a une sporée rose et des lames non fourchues. Le clitocybe en entonnoir (Infundibulicybe gibba) est plus pâle et a des lames blanches non fourchues. Une forme pâle de cette espèce peut également avoir des lames blanches, et ces lames restent fourchues et faciles à séparer de la chair.",
+      notes: "Deux anciennes variétés sont aujourd'hui des espèces distinctes : Hygrophoropsis macrospora et Hygrophoropsis rufa. Les sporophores rangés sous ce nom en Californie appartiennent à un complexe non encore décrit. Des sporophores en massue avec un tissu lamellaire contourné, ainsi qu'une forme rappelant une morille, s'observent occasionnellement."
     }
     },
     sources: {
@@ -32874,23 +32875,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Fausse_chanterelle"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/32050"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -32913,6 +32897,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Narancsv%C3%B6r%C3%B6s_%C3%A1lr%C3%B3kagomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Fausse_chanterelle"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/32050"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -33033,9 +33034,9 @@ export const CATALOG = [
       ru: "энтолома ядовитая",
       uk: "ентолома отруйна",
       pl: "dzwonkówka trująca",
-      fr: "entolome livide",
       it: "entoloma livido",
-      hu: "nagy döggomba"
+      hu: "nagy döggomba",
+      fr: "entolome livide"
     },
     names: {
       en: ["livid entoloma", "livid agaric", "leaden entoloma", "lead poisoner", "grey pinkgill"],
@@ -33323,18 +33324,6 @@ export const CATALOG = [
       confusion: "Gęśnica wiosenna (Calocybe gambosa) owocuje wiosną i ma gęste, białe blaszki oraz biały wysyp zarodników. Lejkówka szarawa (Clitocybe nebularis) owocuje późną jesienią, ma gęste blaszki zbiegające na trzon i jasny wysyp zarodników.",
       notes: "Dawniej owocniki o kapeluszach bez żółtawego odcienia wydzielano jako Entoloma eulividum."
     },
-    fr: {
-      description: "Un champignon ectomycorhizien toxique sévère des forêts de feuillus sur sols calcaires. Répandu en Europe et au Proche-Orient.",
-      cap: "Le chapeau mesure 6–18 cm de largeur, très charnu et robuste, d'abord hémisphérique puis convexe à étalé et bosselé. Il est blanc crème, gris cendré clair, ocre grisâtre ou beige ochracé, satiné et orné de fines fibrilles innées.",
-      hymenium: "Les lames sont larges, serrées, échancrées autour du pied, d'abord d'un jaune pâle caractéristique dans la jeunesse, virant lentement au rose saumon ou rose chair avec la maturation des spores.",
-      stipe: "Le pied mesure 6–14 cm de hauteur et 1,5–3,5 cm d'épaisseur, robuste, ferme, blanc à crème soyeux, s'élargissant vers une base bulbeuse.",
-      flesh: "La chair est blanche, très épaisse et ferme. L'odeur est puissante et caractéristique de farine fraîche ou de pâte à pain ; la saveur est douce et farineuse.",
-      sporePrint: "Rose saumon à rose chair soutenu. Les spores sont très caractéristiques : anguleuses à 5–6 pans géométriques, mesurant environ 8–11 × 7–9 µm.",
-      habitat: "Les sporophores apparaissent de juillet à octobre dans les forêts thermophiles de feuillus, particulièrement sous les chênes (Quercus), les hêtres (Fagus) et les châtaigniers, sur sols calcaires et argileux.",
-      uses: "Ce champignon est dangereusement toxique et responsable d'intoxications sévères régulières. Il provoque un syndrome résinoïdien violent avec vomissements profus, diarrhées aiguës et déshydratation intense nécessitant souvent une hospitalisation.",
-      confusion: "Le mousseron (Calocybe gambosa) est un excellent comestible printanier possédant des lames constamment blanches et une sporée blanche. Le meunier (Clitopilus prunulus) est très fragile, a des lames décurrentes et une chair très friable. Le clitocybe nébuleux (Clitocybe nebularis) possède des lames décurrentes et une odeur forte différente.",
-      notes: "Les sporophores autrefois distingués sous le nom d'Entoloma eulividum, à chapeau ocre et lames sans jaune, sont inclus ici."
-    },
     it: {
       description: "Un grande fungo ectomicorrizico dei boschi caldi di latifoglie su terreno argilloso o calcareo, associato a querce, faggi e castagni. È una delle specie velenose più ingannevoli e pericolose.",
       cap: "Il cappello misura solitamente 5–20 cm di diametro (talvolta fino a 25–30 cm). È molto carnoso e massiccio, convesso poi appianato con largo umbone ottuso, di colore grigio perla, grigio piombo o ocra-grigiastro lucido con fibrille radiali innate.",
@@ -33358,6 +33347,18 @@ export const CATALOG = [
       uses: "Erősen mérgező. Súlyos gyomor- és bélrendszeri mérgezést okoz viharos hányással, hasmenéssel, hasi görcsökkel és kiszáradással. A tünetek 1–4 órán belül jelentkeznek.",
       confusion: "A májusi pereszke (Calocybe gambosa) tavasszal terem, lemezei fehérek maradnak és spórapora fehér. A szürke tölcsérgomba (Clitocybe nebularis) lemezei lefutók és spórapora sárgásfehér. A csiperkék (Agaricus fajok) lemezei sötét csokoládébarnára színeződnek és gallérjuk van.",
       notes: "Franciaországban és Svájcban az egyik leggyakoribb gombamérgezést okozó faj a megtévesztő, étvágygerjesztő megjelenése miatt."
+    },
+    fr: {
+      description: "Un champignon des bois de feuillus chauds, le plus souvent associé au chêne et au hêtre. Il est considéré comme mycorhizien avec ces arbres ainsi qu'avec le saule, bien qu'un mode saprotrophe soit admis. Il s'étend de la Méditerranée jusqu'au Danemark, au sud de la Norvège, à l'Estonie et à la Biélorussie, et il est signalé en Amérique du Nord et dans le nord de l'Asie.",
+      cap: "Le chapeau mesure couramment 5–20 cm de largeur, et une largeur de 30 cm a été observée. Il commence hémisphérique, conique ou campanulé, avec une marge enroulée et finement pruineuse de blanc. Il s'étale en devenant largement convexe ou presque plat, avec une marge onduleuse, ondulée ou lobée, et conserve souvent un mamelon large et obtus. La surface est sèche, soyeuse à luisante, et lisse ou finement fibrilleuse. La couleur est ivoire, ocre sale, gris-jaune ou brun grisâtre pâle, parfois avec une nuance olive ou gris de plomb, et n'est pas hygrophane.",
+      hymenium: "Les lames sont serrées et assez épaisses, d'environ 8–15 mm de largeur et courtes par rapport au chapeau. Elles sont sinuées à adnexées ou adnées, parfois presque libres, et parfois munies d'une petite dent décurrente, sans être véritablement décurrentes. Des nervures transversales courent à la base, et des lamellules s'y mêlent. Elles sont d'abord blanchâtres et restent longtemps jaunâtres ou crème, puis deviennent rose saumon jaunâtre à rose chair, et plus tard rouge chair ou rose brunâtre. Une forme sans jaune sur les lames est rare et connue de localités très éloignées les unes des autres. Les basides sont tétrasporiques et bouclées, mesurant environ 27–35 × 7,5–9,5 µm. Les cystides sont absentes de l'arête des lames. Les anses d'anastomose sont fréquentes sur les cloisons des hyphes.",
+      stipe: "Le pied mesure couramment 5–15 cm de longueur et 1–3 cm d'épaisseur. Les extrêmes publiés vont d'environ 3–20 cm de longueur et 0,5–4 cm d'épaisseur. Il est blanc à ivoire puis crème jaunâtre par la suite. Il est cylindrique et robuste, souvent clavé ou bulbeux à la base, et n'a pas d'anneau. La surface est fibreuse, sillonnée et luisante, pruineuse au sommet et feutrée de blanc à la base. Le pied est plein et ferme au début, puis spongieux ou creux, et cassant.",
+      flesh: "La chair est blanche, épaisse, ferme et luisante, et ne change pas à la coupe. Les jeunes sporophores ont une odeur et une saveur de farine fraîche. Avec l'âge, l'odeur devient désagréable et peut tourner à l'aigre, à la rave, au douceâtre ou au rance. La saveur est douce dans la jeunesse.",
+      sporePrint: "La sporée est rose chair à rose ou rougeâtre chair, et une description la qualifie de brun rougeâtre. Les spores sont anguleuses et subisodiamétriques à faiblement hétérodiamétriques, présentant de cinq à sept angles et souvent six. Elles mesurent principalement 8–11,5 × 7–9,5 µm, couramment environ 9–11 × 8–9 µm, avec un rapport longueur/largeur d'environ 1,0–1,3 et une moyenne proche de 1,2. Elles sont lisses et rose jaunâtre pâle, et chacune renferme une grande goutte lipidique.",
+      habitat: "En Europe centrale, les sporophores apparaissent principalement de juin à septembre ou octobre, et en Allemagne principalement d'août à octobre, rarement au début de l'été ou plus tard. En Slovaquie, ils se manifestent du début juillet, rarement dès la fin mai, jusqu'en septembre, dans les bois de feuillus ouverts et chauds, particulièrement les chênaies, ainsi que sur les berges d'étangs et le long des haies d'arbres. L'espèce affectionne la chaleur et est absente des régions montagneuses plus froides ainsi que des sols plus acides. En Grande-Bretagne et en Irlande, elle fructifie du début de l'été jusqu'à la fin de l'automne, et autour de la Méditerranée elle peut continuer en hiver. En Amérique du Nord, elle fructifie en été et en automne. Les sporophores poussent solitaires ou en groupes, souvent en cercles, dans les hêtraies ouvertes, les chênaies-charmaies et les hêtraies-sapinières, en lisière de bois, dans les haies, les parcs et les prés. Les sols sont frais à humides ou temporairement inondés, argileux ou calcaires, et modérément riches en nutriments. Les partenaires habituels sont le hêtre et le chêne, ainsi que le charme, le noisetier, le bouleau et le saule.",
+      uses: "Il provoque une intoxication gastro-intestinale sévère. Les symptômes débutent environ d'une demi-heure à quatre heures après un repas et comprennent des nausées, des vomissements, des douleurs coliques, des diarrhées et des maux de tête, avec perte hydrique et minérale, des crampes et parfois un collapsus circulatoire. L'affection peut durer environ deux jours, ou plusieurs jours. Une atteinte hépatique aiguë et des troubles psychiatriques, notamment des changements d'humeur, un délire, une confusion et un état dépressif, sont rares, la dépression pouvant persister des mois. L'intoxication peut être mortelle, en particulier chez les enfants et les personnes fragiles, bien qu'elle soit souvent sévère sans être fatale. Des décès d'adultes et d'enfants ont été rapportés. Il est responsable d'une part importante des intoxications fongiques en Europe, environ un dixième selon une estimation, dont 70 cas hospitalisés à Genève en 1983 et 33 cas sur 145 en cinq ans dans un hôpital de Parme. Les toxines n'ont pas été isolées. La vinylglycine a été suspectée, des lectines agglutinant les globules rouges de groupe A ont été signalées, et un effet insecticide sur les drosophiles a été constaté.",
+      confusion: "Le mousseron (Calocybe gambosa) possède des lames blanches serrées qui ne virent jamais au rose, une sporée blanche et une odeur farineuse plus forte, et il fructifie principalement au printemps. Les deux peuvent cohabiter en lisière de bois. L'entolome des haies (Entoloma sepium) fructifie également plus tôt, durant cette même saison printanière. Le meunier (Clitopilus prunulus) a des lames décurrentes et une odeur de farine, et ses lames sont blanchâtres puis roses. Le clitocybe nébuleux (Clitocybe nebularis) a des lames décurrentes blanchâtres serrées qui ne deviennent pas roses, une odeur douceâtre et une saison plus tardive. L'entolome blanc livide (Entoloma lividoalbum) a un chapeau hygrophane. Le tricholome colombette (Tricholoma columbetta) est blanc, avec un chapeau et un pied satinés, une odeur discrète non farineuse et une sporée blanche. L'agaric champêtre (Agaricus campestris) a un anneau, des lames passant du rose au brun chocolat et une sporée brun foncé. Le clitocybe à chapeaux multiples (Clitocybe multiceps) pousse dans le nord-ouest du Pacifique, a des spores blanches et croît généralement en touffes. Les autres espèces du genre Entoloma (Entoloma) sont généralement plus petites, et le genre Tricholoma (Tricholoma) produit des spores blanches.",
+      notes: "Les sporophores autrefois distingués sous le nom d'Entoloma eulividum, avec un chapeau ocre et des lames dépourvues de jaune, sont inclus ici."
     }
     },
     sources: {
@@ -33672,23 +33673,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Entolome_livide"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/34160"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -33711,6 +33695,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Nagy_d%C3%B6ggomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Entolome_livide"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/34160"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -33828,9 +33829,9 @@ export const CATALOG = [
       ru: "весёлка обыкновенная",
       uk: "веселка звичайна",
       pl: "sromotnik smrodliwy",
-      fr: "satyre puant",
       it: "fallo impudico",
-      hu: "erdei szömörcsög"
+      hu: "erdei szömörcsög",
+      fr: "satyre puant"
     },
     names: {
       en: ["stinkhorn", "witch's egg"]
@@ -33841,9 +33842,9 @@ export const CATALOG = [
       ro: ['burete puturos'],
       bg: ['дервишка гъба', 'смрадливка'],
       pl: ["sromotnik bezwstydny"],
-      fr: ["phallus impudique","morille du diable"],
       it: ["satirione"],
-      hu: ["szemérmetlen szömörcsög","szemtelen szömörcsög"]
+      hu: ["szemérmetlen szömörcsög","szemtelen szömörcsög"],
+      fr: ["phallus impudique","morille du diable"]
     },
     text: {
       tr: {
@@ -34119,18 +34120,6 @@ export const CATALOG = [
       confusion: "Sromotnik fiołkowy (Phallus hadriani) ma pochwę i jajo zabarwione na liliowo lub fioletowo i rośnie głównie na piaszczystych wydmach.",
       notes: "Po pęknięciu osłony trzon potrafi wydłużać się w tempie nawet kilkunastu centymetrów na godzinę."
     },
-    fr: {
-      description: "Un champignon saprotrophe très répandu à dispersion entomophile par les mouches. Commun dans toute l'Europe, en Amérique du Nord et en Asie.",
-      cap: "Le sporophore commence sous la forme d'un « œuf » gélatineux souterrain blanchâtre ou jaunâtre de 4–6 cm. À maturité, le réceptacle s'élève rapidement : il porte à son sommet un chapeau conique en mitre alvéolée recouvert d'une gleba vert olive gélatineuse et fétide.",
-      hymenium: "L'hyménium est inclus dans la gleba visqueuse vert olive sombre recouvrant la mitre alvéolée. Les mouches, attirées par l'odeur cadavérique, dévorent la gleba et dispersent les spores, laissant la mitre alvéolée nue et blanche.",
-      stipe: "Le pied mesure 10–25 cm de hauteur et 2–4 cm d'épaisseur, cylindrique, spongieux, creux, blanc et criblé de minuscules cavités, jaillissant d'une volve membraneuse blanche en sac à la base.",
-      flesh: "La chair du pied est blanche, fragile et caverneuse. L'odeur du sporophore adulte est extrêmement repoussante, fétide et semblable à de la charogne en décomposition.",
-      sporePrint: "Vert olive dans la gleba liquide. Les spores sont cylindriques et lisses, mesurant environ 3,5–5 × 1,5–2 µm.",
-      habitat: "Les sporophores apparaissent de juin à novembre dans les bois de feuillus et de conifères, les parcs et les jardins, sur les sols riches en humus et les débris ligneux.",
-      uses: "Le stade « œuf » débarrassé de sa couche mucilagineuse est parfois consommé cru ou frit par des amateurs de curiosités, dégageant un goût de radis ou de noisette. L'adulte est immangeable en raison de son odeur cadavérique intolérable.",
-      confusion: "Le satyre des sables (Phallus hadriani) se distingue par la membrane de son « œuf » d'un rose violacé caractéristique. Le mutinus du chien (Mutinus caninus) est plus petit et possède un sommet rouge orangé sans mitre distincte.",
-      notes: "Après l'ouverture de l'œuf, le pied peut s'allonger de 10–15 cm en une heure, et le sporophore en expansion peut exercer une pression remarquable."
-    },
     it: {
       description: "Un fungo saprotrofo che cresce su suoli ricchi di humus e legno marcescente in boschi, parchi e giardini. È celebre per la sua forma e per l'odore nauseante di cadavere avvertibile a grande distanza.",
       cap: "Il fungo si sviluppa inizialmente come un ovolo ipogeo o semipogeo di 3–6 cm di diametro, bianco o crema con cordoni miceliari alla base. Alla schiusa fuoriesce un ricettacolo cilindrico sormontato da un cappuccio a mitra conico-campanulato alveolato, ricoperto dalla gleba mucillaginosa verde oliva scuro.",
@@ -34154,6 +34143,18 @@ export const CATALOG = [
       uses: "Kifejlett állapotban elviselhetetlen szaga miatt étkezésre teljesen alkalmatlan. Fiatal, zárt boszorkánytojás állapotában – a külső burok és kocsonya eltávolítása után – a kemény belső mag nyersen vagy rántva ehető, retekszerű ízű.",
       confusion: "A homoki szömörcsög (Phallus hadriani) boszorkánytojása és bocskora rózsaszínes vagy ibolyáslila színű és homokdűnéken terem. A kutyaszömörcsög (Mutinus caninus) karcsúbb, tönkje sárgás vagy vöröses, süvege nem méhsejtes.",
       notes: "Egy 2020-as felmérés szerint a faj nem veszélyeztetett (Least Concern)."
+    },
+    fr: {
+      description: "Un champignon saprotrophe des sols riches en humus et du bois en décomposition dans les bois, les parcs et les jardins. Il est largement répandu de la Méditerranée à travers l'Europe centrale jusqu'à l'Irlande, l'Écosse et la Scandinavie, et il est signalé dans une grande partie de l'Amérique du Nord ainsi que dans certaines régions d'Asie, d'Afrique, d'Amérique centrale, du sud-est de l'Australie et en Islande.",
+      cap: "Le jeune sporophore se présente sous la forme d'un œuf, mesurant couramment 3–6 cm de hauteur et 3–6 cm de largeur, atteignant parfois environ 8 cm de largeur. Il est rond ou ovale, blanchâtre à crème, et ancré par un ou plusieurs cordons mycéliens blancs. En se développant, le pied blanc perce le sommet de l'œuf en s'élevant. Le chapeau est une tête conique ou campanulée, haute d'environ 2–4,5 cm et large de 2,5–5 cm, et haute d'environ 3–6 cm dans le centre de l'Amérique du Nord, avec un petit disque blanc au sommet. Sous la gléba muqueuse, la surface forme un réseau alvéolé blanc fait de profondes fossettes. Après que les insectes ont prélevé la gléba gluante, la tête apparaît pâle à jaunâtre et alvéolée, et le pied dénudé peut persister plusieurs jours.",
+      hymenium: "La surface fertile est une gléba, un mucus vert olive foncé à brun verdâtre recouvrant la tête alvéolée, brun sombre dans certaines récoltes nord-américaines. Elle dégage une odeur puissante de charogne. Les mouches la consomment et disséminent les spores, de sorte qu'en quelques heures la structure alvéolée blanche apparaît. Dans l'œuf non ouvert, la gléba forme la couche verdâtre entourant la tête en développement, à l'intérieur d'une épaisse gelée blanche. Il n'y a ni lames ni tubes.",
+      stipe: "Le pied est blanc, creux et fragile, avec une paroi spongieuse faite de petites cavités, au nombre d'environ une à trois par millimètre. Il mesure couramment 10–25 cm de hauteur et 2–4 cm d'épaisseur, et un sporophore pleinement déployé peut atteindre environ 30 cm de hauteur et 4–5 cm d'épaisseur. Les pieds du centre de l'Amérique du Nord sont souvent plus courts, mesurant environ 7–11 cm de haut et 2–3 cm d'épaisseur. Une volve à deux ou trois lobes, haute d'environ 3–5 cm et reliquat de l'œuf, enserre la base. Les récoltes européennes sont généralement blanchâtres à crème. Les récoltes nord-américaines sont décrites comme blanchâtres, jaunâtres, rosâtres, violacées ou brun rougeâtre.",
+      flesh: "La chair du pied est blanche, fragile et épaisse d'environ 2–5 mm. En dehors de la gléba, l'odeur est terreuse ou douceâtre, et la saveur est indistincte. L'œuf non ouvert sent le radis. L'odeur de charogne d'un sporophore déployé provient de la gléba. Les sels de fer et l'hydroxyde de potassium ne provoquent aucun changement de couleur sur les surfaces.",
+      sporePrint: "Il n'y a pas de sporée ordinaire. Les spores demeurent dans la gléba olive, où elles apparaissent jaune pâle à jaune verdâtre, jusqu'à ce que les insectes les emportent. Elles sont lisses et oblongues-ellipsoïdes à subcylindriques. Les mesures d'Europe centrale sont d'environ 3,5–5 × 1,5–2 µm. Une plage publiée plus large est de 3–5 × 1,5–2,5 µm, et les récoltes du centre de l'Amérique du Nord sont plus petites, d'environ 3–4 × 1–1,5 µm.",
+      habitat: "Les sporophores apparaissent de mai à novembre. En Grande-Bretagne et en Irlande, les exemplaires épanouis s'observent principalement de juin à octobre, tandis que les œufs peuvent être présents tout au long de l'année et s'ouvrent généralement en été. En Europe centrale, la saison s'étend du début de l'été jusqu'à l'automne, communément de juin à septembre, avec de rares trouvailles hivernales. Dans les régions plus chaudes d'Amérique du Nord, il peut fructifier du printemps jusqu'à l'automne, voire en hiver. Il croît sur sol riche en humus et sur le bois en décomposition, souvent près des souches, dans les forêts d'épicéas, de hêtres, de hêtres et sapins, de chênes et charmes, les forêts alluviales et les aulnaies, ainsi que dans les broussailles, les parcs, les haies, les jardins, les pelouses, les massifs d'arbustes et le long des sentiers. Il est particulièrement fréquent dans les bois de conifères. Un terrain humide et riche en azote est typique, parfois le long des cours d'eau, et les sporophores sont souvent grégaires.",
+      uses: "L'œuf non ouvert est consommé. La peau et la gélatine sont pelées, et le centre blanc et ferme se mange cru, croquant et avec un goût de radis, ou pané et poêlé. En France et en Allemagne, les œufs sont préparés au vinaigre ou incorporés dans des saucisses. Les descriptions de sa saveur ne sont pas toutes concordantes. Le sporophore épanoui est délaissé en raison de son odeur.",
+      confusion: "Le satyre des dunes (Phallus hadriani) possède un œuf et une volve roses à violacés et un pied plus court. En Grande-Bretagne, il pousse sur les dunes de sable, et ailleurs sur sol sableux dans les régions chaudes. En Amérique du Nord, la volve de notre espèce varie du blanchâtre au jaunâtre et rosâtre jusqu'au violacé ou brun rougeâtre, de sorte qu'une volve violacée ne permet pas à elle seule de séparer les deux taxons. Certaines descriptions de l'ouest nord-américain continuent d'attribuer une volve violacée à Phallus hadriani (Phallus hadriani). Le satyre du chien (Mutinus caninus) est beaucoup plus petit, a une odeur plus faible et présente un réseau alvéolé orange sous la gléba plutôt qu'une structure alvéolée blanche sur une tête distincte. Le satyre de Ravenel (Mutinus ravenelii) se sépare de la même manière, et le pied d'un Mutinus ne se dégage pas nettement de l'œuf. Une résille blanche grossière ou une jupette dentelée sous la tête est traitée comme une variété de cette espèce, sous le nom de var. pseudoduplicatus ou var. togatus. Les ouvrages britanniques ont appliqué le nom Dictyophora duplicata (Dictyophora duplicata) à cette forme voilée. Les descriptions d'Europe centrale maintiennent le champignon à résille comme une variété plutôt que comme une espèce américaine distincte. Une fois la gléba retirée, la tête alvéolée peut ressembler à celle de la morille commune (Morchella esculenta). La volve restante, le pied creux et spongieux, les traces de mucus et la fructification en été et en automne plutôt qu'au printemps permettent de les séparer. Le satyre de Ravenel (Phallus ravenelii) est plus commun à l'est du Mississippi, tandis que notre espèce est plus fréquemment signalée à l'ouest.",
+      notes: "Après l'ouverture de l'œuf, le pied peut s'allonger de 10–15 cm en une heure, et le sporophore en expansion peut exercer une pression d'environ 1,33 kPa, suffisante pour soulever l'asphalte. Les mouches à viande, notamment Calliphora vicina, Lucilia caesar et Lucilia ampullacea, ainsi que la mouche Dryomyza anilis, consomment la gléba et rejettent rapidement des déjections liquides remplies de spores. Les coléoptères Oeceoptoma thoracica et Meligethes viridescens sont également attirés et se nourrissent plus largement des tissus."
     }
     },
     sources: {
@@ -34498,23 +34499,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Satyre_puant"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/4856"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -34537,6 +34521,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Erdei_sz%C3%B6m%C3%B6rcs%C3%B6g"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Satyre_puant"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/4856"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -34647,9 +34648,9 @@ export const CATALOG = [
       ru: "трутовик настоящий",
       uk: "трутовик справжній",
       pl: "hubiak pospolity",
-      fr: "amadouvier",
       it: "fungo dell'esca",
-      hu: "bükkfa-tapló"
+      hu: "bükkfa-tapló",
+      fr: "amadouvier"
     },
     names: {
       en: [
@@ -34938,17 +34939,6 @@ export const CATALOG = [
       uses: "Niejadalny z powodu skrajnie twardego, zdrewniałego miąższu. Od czasów prehistorycznych (używany już przez człowieka lodu (Otziego)) jego włóknisty miąższ służył do wyrobu hubki do krzesania ognia, a także odzieży i opatrunków tamujących krew.",
       confusion: "Pniarek obrzeżony (Fomitopsis pinicola) rośnie głównie na drzewach iglastych, ma jaśniejszy miąższ i żółtopomarańczową strefę przyrostu na brzegu owocnika. Czyreń ogniowy (Phellinus igniarius) ma rdzawoczarne owocniki i twardszy miąższ."
     },
-    fr: {
-      description: "Un grand champignon lignicole vivace parasite et saprotrophe provoquant une pourriture blanche chez les arbres affaiblis. Répandu dans toute l'Europe, en Asie et en Amérique du Nord.",
-      cap: "Le sporophore mesure 10–40 cm de largeur et jusqu'à 20 cm d'épaisseur, formant une console massive et pérenne en forme de sabot de cheval. La surface supérieure est dure, ligneuse, zonée concentriquement de sillons et bourrelets réguliers, variant du gris argenté au gris cendré terne ou brun grisâtre.",
-      hymenium: "La face inférieure est plane ou légèrement concave, crème ocré à brun cannelle pâle, percée de pores ronds minuscules (3 à 4 par millimètre). Les tubes sont stratifiés en couches annuelles successives superposées.",
-      stipe: "Le pied est nul ; la console est soudée très puissamment et latéralement au tronc de l'arbre.",
-      flesh: "La chair est coriace, subéreuse et feutrée comme du cuir ou du feutre brun cannelle. L'odeur est agréable, fruitée et boisée.",
-      sporePrint: "Blanche à crème pâle. Les spores sont allongées cylindriques, lisses, mesurant environ 15–20 × 5–7 µm.",
-      habitat: "Les sporophores sont visibles toute l'année sur les troncs vivants ou morts de feuillus, particulièrement le bouleau (Betula) dans le nord et le hêtre (Fagus sylvatica) en Europe centrale et méridionale.",
-      uses: "Non comestible car totalement ligneux. Sa chair feutrée est traditionnellement traitée pour fabriquer l'amadou, une matière facilement inflammable servant à allumer le feu depuis la préhistoire, ainsi que des hémostatiques et des objets en feutre.",
-      confusion: "Le polypore faux amadouvier (Phellinus igniarius) est plus noirâtre, craquelé et s'associe aux saules et aulnes. Le polypore marginé (Fomitopsis pinicola) possède une marge rouge orangé ou jaune vif et exsude des gouttelettes aqueuses."
-    },
     it: {
       description: "Un fungo poliporaceo perenne lignicolo, parassita su tronchi viventi e saprotrofo su alberi morti di latifoglie (soprattutto faggio, betulla e pioppo). Causa un intenso marciume bianco del legno.",
       cap: "Il corpo fruttifero è pluriennale, sessile, tipicamente a forma di zoccolo di cavallo o grossa mensola triangolare, largo 10–40 cm e spesso fino a 20 cm. La crosta superiore è dura, legnosa, concentricamente solcata e zoccolata, di colore grigio cenere, grigio piombo o bruno-nerastra.",
@@ -34971,6 +34961,17 @@ export const CATALOG = [
       uses: "Étkezésre alkalmatlan, kemény fás állaga miatt. Történelmileg rendkívül fontos anyag volt: a gomba belső puha rétegéből készítették a tűzgyújtáshoz használt taplót (tüzitapló), valamint lúgozással és puhítással sapkát, mellényt és vérzéscsillapító kötszert állítottak elő belőle (amadou).",
       confusion: "A jegenyefenyő-tapló (Fomitopsis pinicola) kalapszéle gyakran élénk narancssárga vagy vöröses sávú, és húsa barna törzsrothadást idéz elő. A lapos tapló (Ganoderma lipsiense) laposabb konzolú és pórusai karcolásra azonnal sötétbarnára színeződnek.",
       notes: "Ötzi, az 5300 éves tiroli jégember felszerelésében is találtak bükkfa-taplóból készült darabokat, amelyeket vélhetően tűzgyújtásra hordott magával."
+    },
+    fr: {
+      description: "Un polypore pérenne provoquant une pourriture blanche chez les feuillus, parasite sur les troncs vivants et saprotrophe sur le bois mort et les souches. Il s'étend à travers l'Europe tempérée, l'Afrique du Nord, les îles Canaries et l'Asie, y compris l'Inde et le Pakistan, jusqu'à l'est de l'Amérique du Nord, et il est présent en Afrique australe. Il est rare dans le sud de la Grande-Bretagne et en Irlande, et commun en Écosse.",
+      cap: "Le sporophore est pérenne et sessile, en forme de sabot de cheval ou de console épaisse, et fixé sur toute sa largeur. Il est souvent solitaire, et parfois étagé ou soudé. La largeur est couramment de 10–40 cm, les grands sporophores atteignant environ 50 cm et des spécimens exceptionnels jusqu'à 60 cm. Sur le bouleau, il est généralement plus petit, atteignant souvent environ 20 cm de largeur. La hauteur est couramment d'environ 7–15 cm et atteint environ 20–25 cm chez les vieux sporophores, avec une épaisseur d'environ 20 cm au point d'attache. Après les premières années, la console s'épaissit plus qu'elle ne s'élargit. La surface est une croûte dure et terne d'environ 1–3 mm d'épaisseur, noire et luisante en coupe, concentriquement sillonnée et non vernissée. Elle est gris pâle, brun-gris, gris ocre, brun jaunâtre sale ou brun noisette dans le jeune âge, et gris argenté à presque noir avec l'âge. Les jeunes sporophores et la zone de croissance sont jaunes, brun rougeâtre, brun rouille ou jaune cuir. La marge est obtuse et arrondie, et plus claire que la croûte sous-jacente.",
+      hymenium: "Les tubes sont brun rouille à bruns et disposés en couches superposées. Chaque couche mesure environ 2–10 mm d'épaisseur. Plusieurs poussées de croissance au cours d'une même année, souvent deux, font que le nombre de couches ne correspond pas à l'âge, et la couche la plus basse est la plus jeune. Si le tronc tombe, la nouvelle croissance réoriente les pores vers le bas. Les tubes plus anciens se remplissent d'une matière blanchâtre. Les pores sont ronds et à parois épaisses, crème, blanchâtres, gris pâle, ocre ou bruns, à raison d'environ 2–5 par millimètre et le plus souvent 2–4, avec un diamètre d'environ 0,2–0,4 mm. Ils s'assombrissent ou virent légèrement au brun au froissement, et la surface porée peut être légèrement concave. Pendant la croissance, l'hyménium peut exsuder des gouttelettes limpides. Les cystides sont absentes. Les basides sont clavées, hyalines et tétrasporiques, avec une boucle à la base.",
+      stipe: "Il n'y a pas de pied. La console est directement fixée sur toute sa largeur.",
+      flesh: "La chair est dure, subéreuse à ligneuse et fibreuse, brun pâle, brun jaunâtre, fauve ou brun rouille. Près du point d'attache se trouve un cœur granuleux, marbré de brun et de blanc, sous une couche fibreuse jaune-brun plus coriace d'environ 2–5 cm d'épaisseur. Le contexte est souvent mince à côté des couches de tubes. L'odeur est faiblement fruitée ou douce, et la saveur est âcre, amère ou désagréable. Le système hyphal est trimitique. Les hyphes génératrices sont à parois minces, hyalines et bouclées, tandis que les hyphes squelettiques et ligatives sont à parois épaisses et jaune-brun à brun doré, les hyphes ligatives étant ramifiées. Les alcalis colorent la croûte en rouge sang foncé, en raison du fomentariol, et l'hydroxyde de potassium fait noircir la trame.",
+      sporePrint: "Le dépôt est blanc à jaune citron. Certaines descriptions qualifient la poudre de blanche ou blanchâtre, et d'autres de jaune citron pâle à jaune citron vif. Par temps sec, elle peut apparaître sous la forme d'une poudre blanche. Les spores sont cylindriques à oblongues-ellipsoïdes, lisses, à parois minces et inamyloïdes, hyalines à jaune pâle. Les mesures publiées indiquent environ 12–23 × 4–8 µm, le plus souvent 15–20 × 5–7 µm. Les spores de l'épitype mesurent (12,5–)13,5–18(–20,5) × 4,5–6,5(–7,5) µm.",
+      habitat: "Les sporophores sont présents toute l'année, et la croissance est la plus vigoureuse du début de l'été jusqu'à l'automne. Les spores sont libérées principalement au printemps, avec une poussée automnale plus modeste, à des températures relativement basses. Un sporophore peut libérer jusqu'à environ 887 millions de basidiospores par heure au pic du printemps. Les consoles poussent sur les troncs vivants et morts de feuillus, les souches et les billes tombées au sol, et elles pénètrent par les blessures de l'écorce. Le bouleau est l'hôte habituel dans le nord ainsi que dans les tourbières et les landes. Le hêtre est l'hôte principal en Europe centrale, y compris dans les hêtraies de montagne. Plus au sud, le chêne est l'hôte méditerranéen habituel, et le peuplier est également signalé comme hôte méridional. Parmi les autres hôtes figurent le saule, l'érable, le tilleul, le charme, le cerisier, le caryer, le sycomore, le noyer et l'aulne. Les conifères sont exceptionnels. Le mycélium peut rester latent dans les troncs vivants de hêtre. La pourriture est une pourriture blanche qui rend le bois pâle et fibreux, le bois décomposé se brisant en petits éclats et en fils. Les sporophores durent jusqu'à environ 30 ans. Après la mort de l'arbre, la croissance peut s'arrêter tandis que les consoles restent fixées.",
+      uses: "Le sporophore est non comestible. Il est trop ligneux, et la chair est amère ou âcre. La trame fibreuse a longtemps été transformée en amadou, employé comme initiateur de feu et comme mèche lente, ou battu pour former un matériau semblable au cuir destiné à confectionner des casquettes, des gants et des culottes, et également utilisé pour sécher les mouches de pêche. Ötzi en transportait quatre morceaux, utilisés comme amadou. La chair était vendue comme pansement hémostatique pour les plaies. La poudre, le thé et l'eau-de-vie qui en étaient tirés étaient consommés contre les maux d'estomac, les hémorroïdes, les troubles de la vessie, le cancer et d'autres affections. Le champignon est également étudié pour ses activités antivirales, antibactériennes et antioxydantes, ainsi que pour son potentiel en tant que polymère biodégradable et absorbant des métaux lourds et des colorants.",
+      confusion: "Le polypore marginé (Fomitopsis pinicola) pousse plus souvent sur les conifères, a une trame plus pâle et possède des pores qui ne changent pas de couleur au froissement. Le polypore du bouleau (Fomitopsis betulina) est annuel, pousse sur le bouleau et présente une surface supérieure beaucoup plus lisse. Le ganoderme aplani (Ganoderma applanatum) est plus plat, souvent pourvu d'une surface supérieure fortement brune, d'une sporée brune et de spores verruqueuses, et ses pores s'assombrissent fortement à la pression. Le faux amadouvier (Phellinus igniarius) est plus sombre, avec une croûte ligneuse dure qui ne s'enfonce pas, et la croûte ne vire pas au rouge sang dans les alcalis. Le polypore fascié (Fomes fasciatus) compte généralement environ 4–5 pores par millimètre et des spores plus petites, d'environ 7,5–16 × 2,5–6 µm. Le fomes d'Inzenga (Fomes inzengae) est une espèce distincte des stations chaudes méridionales et de basse altitude, y compris dans certaines parties d'Europe centrale, et les deux peuvent pousser dans la même région. La densité des pores, la taille des spores et la largeur des hyphes squelettiques se chevauchent, de sorte que ces caractères ne permettent pas de les séparer. Une étude de 2019 signalait des spores beaucoup plus petites pour le fomes d'Inzenga (Fomes inzengae), d'environ 9–12,5 × 2,8–3,8 µm, mais des mesures ultérieures effectuées en Europe centrale ont trouvé des spores situées dans la même gamme que cette espèce."
     }
     },
     sources: {
@@ -35306,23 +35307,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Amadouvier"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/4857"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -35345,6 +35329,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/B%C3%BCkkfa-tapl%C3%B3"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Amadouvier"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/4857"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -35460,9 +35461,9 @@ export const CATALOG = [
       ru: "аурикулярия уховидная",
       uk: "аурикулярія вухоподібна",
       pl: "uszak bzowy",
-      fr: "oreille de Judas",
       it: "orecchio di Giuda",
-      hu: "júdásfülgomba"
+      hu: "júdásfülgomba",
+      fr: "oreille de Judas"
     },
     names: {
       en: ["Judas's ear", "Jew's ear", "wood ear", "ear fungus", "common ear fungus"],
@@ -35750,18 +35751,6 @@ export const CATALOG = [
       confusion: "Uszak kędzierzawy (Auricularia mesenterica) tworzy dachówkowate, owłosione półeczki o wyraźnym strefowaniu górnej powierzchni. Kisielnica trzoneczkowa (Exidia glandulosa) jest czarna i tworzy mniej miseczkowate skupiska.",
       notes: "Całkowicie białe formy albinotyczne opisywano dawniej jako odrębne taksony."
     },
-    fr: {
-      description: "Un champignon gélatineux lignicole saprotrophe et parasite de faiblesse. Répandu dans toute l'Europe et en Asie tempérée, inféodé principalement au sureau.",
-      cap: "Le sporophore mesure 3–10 cm de largeur, cupuliforme puis étalé et sinueux, évoquant fidèlement le pavillon d'une oreille humaine. La face extérieure stérile est brun rougeâtre ou brun violacé, finement veloutée ; la face intérieure fertile est ridée-veinée, luisante et brun pourpre.",
-      hymenium: "L'hyménium recouvre la surface intérieure lisse ou ridée. Les basides sont cylindriques et divisées par trois cloisons transversales (phragmobasides).",
-      stipe: "Le pied est généralement absent ou réduit à une courte attache latérale.",
-      flesh: "La chair est mince, gélatineuse, élastique et translucide à l'état humide, devenant dure, cornée et rabougrie par temps sec, capable de ressusciter après une pluie. L'odeur et la saveur sont douces et discrètes.",
-      sporePrint: "Blanche. Les spores sont cylindriques à réniformes (en forme de saucisse), lisses, mesurant environ 15–22 × 5–7 µm.",
-      habitat: "Les sporophores apparaissent toute l'année, particulièrement de l'automne au printemps par temps humide, sur les branches mortes ou affaiblies de sureau noir (Sambucus nigra), plus rarement sur d'autres feuillus.",
-      uses: "C'est un champignon comestible apprécié pour sa texture cartilagineuse et croquante, très utilisé dans la cuisine asiatique dans les soupes, les nems et les sautés. Il se sèche et se réhydrate parfaitement.",
-      confusion: "L'auriculaire mésentérique (Auricularia mesenterica) possède une face supérieure nettement zonée et tomenteuse grisâtre. L'exidie tronquée (Exidia glandulosa) est d'un noir profond et criblée de petites papilles.",
-      notes: "Les sporophores dépigmentés ont été décrits sous le nom d'Auricularia lactea et ne forment pas une espèce distincte."
-    },
     it: {
       description: "Un fungo eterobasidiomicete gelatinoso lignicolo che cresce su rami e tronchi vivi o marcescenti di sambuco e altre latifoglie. È comune in tutto il mondo.",
       cap: "Il corpo fruttifero misura 3–12 cm di larghezza e 1–3 mm di spessore. Ha forma di conchiglia o lobo che ricorda fedelmente un padiglione auricolare umano. È di colore bruno-rossiccio o bruno porporino, con superficie esterna finemente vellutata.",
@@ -35785,6 +35774,18 @@ export const CATALOG = [
       uses: "Ehető és gyógyhatású gomba. A keleti konyha (kínai levesek, pirított wok-ételek) közkedvelt alapanyaga jellegzetes ropogós, porcos állaga miatt. Szárítva korlátlan ideig eltartható, vízbe áztatva perceken belül visszanyeri eredeti formáját.",
       confusion: "A jegenyefenyő-kocsonyásgereben (Pseudohydnum gelatinosum) alsó része tüskés. A kormos mirigygomba (Exidia nigricans) amorf, fekete kocsonyás tömeget képez.",
       notes: "Nevét a bibliai hagyományról kapta, amely szerint Júdás egy bodzafára akasztotta fel magát."
+    },
+    fr: {
+      description: "Un champignon gélatineux du bois de feuillus, généralement en forme d'oreille humaine. Il est commun et largement répandu en Grande-Bretagne, en Irlande et en Europe continentale. Les mentions sous ce nom hors d'Europe concernent principalement d'autres espèces du genre. Les sporophores apparaissent souvent après la pluie et peuvent être observés durant les périodes d'hiver doux.",
+      cap: "Le sporophore est en forme de coupe ou d'oreille, avec une marge repliée ou ondulée, et fixé sur le côté ou par une courte base semblable à un pied. Il mesure couramment 2–8 cm de largeur, occasionnellement jusqu'à 12 cm, et environ 1–3 mm d'épaisseur, de rares sporophores atteignant 15 cm. Il est mou et gélatineux à l'état frais, et devient dur, cassant et corné en séchant. La surface stérile externe ou supérieure est brun pâle, brun-jaune ou brun rougeâtre foncé, avec des tons grisâtres à l'état sec, et elle est couverte d'un duvet velouté très fin. La surface fertile interne est plus pâle, gris-brun à brun chair, lisse ou veinée, et parfois luisante. De rares sporophores sont dépourvus de pigment et poussent parmi les spécimens bruns ordinaires. Les poils de la surface externe mesurent environ 100–150 µm de long, parfois jusqu'à 250 µm, et 5–7,5 µm de large. Ils sont hyalins et à parois épaisses, avec une lumière étroite, une base légèrement renflée et une pointe aiguë ou obtuse, et ils poussent souvent en touffes.",
+      hymenium: "L'hyménium recouvre la surface interne ou inférieure. Il est lisse ou veiné, plus pâle que la surface externe, allant de grisâtre pâle ou gris-brun à brun chair, et il peut porter une fine pruine blanche. Les basides sont cylindriques à clavées, mesurant 65–85 × 4–5,5 µm, et divisées par trois cloisons transversales en quatre cellules. Les stérigmates sont longs et rarement observés. Les cystides sont absentes. Les hyphes sont fortement gélatinisées. Des boucles sont signalées sur des hyphes de 1–5 µm de large, et les hyphes du contexte sont également décrites comme étant pour la plupart dépourvues de boucles, abondamment ramifiées et renflées en nodules. Une médulla peut être présente ou absente. Lorsqu'elle est présente, elle se situe généralement près de l'hyménium. Des cristaux sont habituellement dispersés dans l'hyménium.",
+      stipe: "Il n'y a pas de véritable pied. Le sporophore est sessile, ou presque, et est fixé sur le côté ou par une base courte et étroite.",
+      flesh: "La chair est brun rougeâtre, coriace, gélatineuse et élastique à l'état frais, et épaisse d'environ 1–3 mm. Les sporophores séchés durcissent, deviennent cassants et presque noirs. Ils peuvent se réduire à environ un dixième de leur taille fraîche. Après la pluie ou un trempage, ils s'imbibent d'eau, gonflent, reprennent leur forme et peuvent continuer à croître. Un sporophore qui a séché jusqu'à perdre la plus grande partie de son poids peut reprendre trois ou quatre fois sa taille séchée. L'odeur n'est pas distinctive, ou parfois moisie et terreuse. La saveur est douce, voire pratiquement nulle.",
+      sporePrint: "Blanche. Les spores sont allantoïdes à cylindriques, ou étroitement réniformes, lisses, incolores et à parois minces, présentant généralement une ou deux grosses guttules. Elles sont inamyloïdes et non cyanophiles. La plage habituelle est d'environ 15–22 × 5–7 µm, et les extrêmes publiés s'étendent d'environ 13–23 × 4–8 µm. La longueur varie au sein de l'espèce, et certaines récoltes britanniques sont plus longues et plus larges que les autres récoltes européennes.",
+      habitat: "Les sporophores se rencontrent tout au long de l'année. En Grande-Bretagne, ils sont plus fréquents en automne, et ils apparaissent également en hiver et au printemps. En Europe centrale, on les trouve le plus souvent de mars à novembre, surtout après de fortes pluies, et ils persistent tout au long de l'hiver, y compris pendant les gelées. Ils poussent en solitaire, en groupes ou en touffes, souvent en grand nombre, sur les branches et les troncs âgés. C'est un parasite faible du bois vivant et un saprotrophe du bois mort, provoquant une pourriture blanche sur le bois mort. L'hôte habituel est le sureau. Ils poussent également sur le sycomore, le hêtre, le frêne, le fusain, l'érable, le saule, l'aulne, le bouleau, le robinier faux-acacia, l'orme et le noyer, et rarement sur l'épicéa ou d'autres conifères.",
+      uses: "Il est comestible une fois cuit, et il ne se consomme pas cru. La saveur et l'odeur sont douces, et il est recherché pour sa texture ferme et cartilagineuse plutôt que pour son goût. Il n'est pas largement consommé, bien qu'il le soit couramment en Pologne. Les sporophores séchés peuvent être trempés et reprendre une taille plus grande, parfois trois ou quatre fois la taille séchée. Du blanc de champignon est vendu pour sa culture sur des bûches de feuillus ou sur un substrat stérile. Le champignon utilisé dans la cuisine et la médecine d'Asie orientale est une espèce apparentée.",
+      confusion: "L'auriculaire mésentérique (Auricularia mesenterica) pousse en consoles étagées plus épaisses. Sa surface supérieure est zonée et plus grossièrement feutrée, et l'hyménium est souvent plus sombre ou violacé. L'auriculaire du chêne chevelu (Auricularia cerrina) est gris plus foncé à presque noir, avec des poils plus gris à blanchâtres, une ligne de médulla à travers la chair et des spores plus petites. Il a été décrit sur le chêne chevelu en Tchéquie, et les deux espèces peuvent se rencontrer sur le chêne. L'auriculaire cornée (Auricularia cornea) est plus velue et plus coriace, avec une ligne de médulla distincte, des spores plus petites et une couleur variable. L'auriculaire heimuer (Auricularia heimuer) est très semblable et pousse en Asie orientale. Ses basides sont plus courtes et ses spores mesurent environ 11–13 × 4–5 µm. L'auriculaire des feuillus (Auricularia angiospermarum) pousse sur le bois de feuillus nord-américains. Ses basides sont plus courtes et ses spores mesurent environ 13–15 × 4,8–5,5 µm. L'auriculaire d'Amérique (Auricularia americana) pousse sur les conifères nord-américains et possède des spores plus courtes, d'environ 14–16,5 × 4,5–5,4 µm. L'exidie tronquée (Exidia recisa) pousse sur de fines brindilles. Elle est plus translucide, ne devient pas en forme de coquille, et sa marge tranchante est côtelée. L'exidie glanduleuse (Exidia glandulosa) est plus sombre, et sa surface stérile est granuleuse et verruqueuse. La trémelle frondée (Phaeotremella frondosa) forme des replis cérébriformes en touffes, jamais une oreille distincte, et sa surface est entièrement lisse. La trémelle foliacée (Tremella foliacea) a la même forme : des replis cérébriformes en touffes, pas d'oreille distincte, et une surface entièrement lisse. Le schizophylle ample (Schizophyllum amplum) est plus petit, blanchâtre et feutré à l'extérieur, préfère le peuplier et le saule, et possède des basides unicellulaires. La pézize baie (Peziza badia) est en forme de coupe, avec un pied court et une chair opaque, et elle pousse généralement près du sol.",
+      notes: "Une évaluation de 2019 classe l'espèce dans la catégorie préoccupation mineure (Least Concern). Une forme non pigmentée a été séparée en tant que variété."
     }
     },
     sources: {
@@ -36132,23 +36133,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Oreille_de_Judas"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/4858"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -36171,6 +36155,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/J%C3%BAd%C3%A1sf%C3%BClgomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Oreille_de_Judas"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/4858"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -36296,9 +36297,9 @@ export const CATALOG = [
       ru: "желчный гриб",
       uk: "гірчак жовчний",
       pl: "goryczak żółciowy",
-      fr: "bolet de fiel",
       it: "porcino di fiele",
-      hu: "epeízű tinóru"
+      hu: "epeízű tinóru",
+      fr: "bolet de fiel"
     },
     names: {
       en: ["bitter tylopilus"],
@@ -36310,8 +36311,8 @@ export const CATALOG = [
       ro: ['fierea pădurii'],
       ru: ["горчак"],
       uk: ["жовчний гриб"],
-      fr: ["bolet amer"],
-      it: ["boleto di fiele"]
+      it: ["boleto di fiele"],
+      fr: ["bolet amer"]
     },
     text: {
       tr: {
@@ -36586,18 +36587,6 @@ export const CATALOG = [
       confusion: "Borowik szlachetny (Boletus edulis) ma białą siateczkę na trzonie w jego górnej części, pory żółknące i oliwkowe (nigdy różowe) oraz przyjemny, łagodny smak. Podgrzyb brunatny (Imleria badia) ma pory błękitniejące pod naciskiem i brak siateczki na trzonie.",
       notes: "Ocena z 2025 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern)."
     },
-    fr: {
-      description: "Un champignon ectomycorhizien réputé pour son amertume intense qui gâte les poêlées de cèpes. Répandu dans toute l'Europe et en Amérique du Nord.",
-      cap: "Le chapeau mesure 5–15 cm de largeur, d'abord convexe puis largement étalé. Il est brun chamois, brun noisette ou fauve ochracé, lisse et mat, sec au toucher.",
-      hymenium: "Les tubes sont longs et profondément échancrés autour du pied. Les pores sont blancs dans la jeunesse puis virent nettement au rose saumon ou rose carné avec l'âge et se tachent de brun au froissement.",
-      stipe: "Le pied mesure 6–15 cm de hauteur et 2–5 cm d'épaisseur, robuste, clavé ou renflé à la base, crème à brun jaunâtre, orné d'un réseau saillant très grossier à mailles brun foncé ou noirâtres.",
-      flesh: "La chair est épaisse, blanche, molle et immuable ou rosissant très faiblement à la coupe. L'odeur est insignifiante ; la saveur est d'une amertume extrême et intolérable.",
-      sporePrint: "Rose saumon à rose vineux pâle. Les spores sont fusiformes, lisses, mesurant environ 11–15 × 4–5 µm.",
-      habitat: "Les sporophores apparaissent de juillet à octobre dans les forêts de conifères (pins, épicéas) et mixtes, sur sols sableux et acides, souvent près des souches moussues pourrissantes.",
-      uses: "Non comestible en raison de son amertume invincible qui subsiste à toute cuisson. Un seul spécimen peut rendre un plat entier immangeable.",
-      confusion: "Le cèpe de Bordeaux (Boletus edulis) possède des pores blanchâtres devenant jaune verdâtre (jamais roses) et un réseau blanc très fin au sommet du pied. Le cèpe d'été (Boletus reticulatus) possède également des pores verdâtres et une saveur douce.",
-      notes: "C'est la seule espèce du genre en Europe. Une évaluation de 2025 la classe en préoccupation mineure (Least Concern)."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi montani di conifere e latifoglie (faggio, castagno, pino, abete rosso). È ampiamente diffuso in Europa e Nord America.",
       cap: "Il cappello misura 4–15 cm di diametro (talvolta fino a 18–20 cm). È convesso poi appianato a cuscinetto, carnoso, di colore bruno camoscio, bruno-nocciola o grigio-brunastro, con cuticola opaca e vellutata col secco.",
@@ -36621,6 +36610,18 @@ export const CATALOG = [
       uses: "Nem ehető. Nem mérgező, de szörnyű, maróan keserű íze miatt étkezésre teljesen alkalmatlan; már egyetlen kis darabja is tönkreteszi az egész gombaételt. A keserű íz főzés hatására sem tűnik el.",
       confusion: "Gyakran összetévesztik az ízletes vargányával (Boletus edulis), de annak tönkjén finom fehér hálózat látható, csövei idős korban zöldessárgák (sosem rózsaszínesek) és íze kellemes mogyorószerű.",
       notes: "A hús keserű íze kóstolással azonnal megállapítható (egy kis darabkát megnyalva, majd kiköpve)."
+    },
+    fr: {
+      description: "Un bolet ectomycorhizien des forêts acidophiles de conifères et mixtes, indigène en Europe et en Amérique du Nord et signalé en Asie. Il est commun en Grande-Bretagne et en Irlande et largement répandu à travers l'Europe centrale, en montagne comme en plaine. Il fructifie en solitaire ou en petits groupes sur le sol et sur le bois pourrissant de conifères.",
+      cap: "Le chapeau mesure 4–15 cm de largeur, occasionnellement jusqu'à 20 cm, hémisphérique dans le jeune âge, puis convexe à largement convexe, et presque plat à maturité. La surface est sèche, finement veloutée ou feutrée au début, et plus lisse avec l'âge. Il est brun pâle, brun-jaune, brun-gris ou brun châtain, avec une marge plus pâle, blanchâtre ou crème. La marge est légèrement rabattue et peut être quelque peu ondulée.",
+      hymenium: "Les tubes mesurent 10–20 mm de long, déprimés autour du pied, blanchâtres dans le jeune âge et devenant rose sale à rose chair à mesure que les spores mûrissent. Les pores sont petits, environ 1–2 par millimètre, anguleux, et de la même couleur que les tubes, se tachant de brunâtre plus foncé au froissement. Les orifices des pores âgés peuvent faire saillie au-delà de la marge du chapeau.",
+      stipe: "Le pied mesure 5–15 cm de long et 1,5–4 cm d'épaisseur, clavé ou ventru dans le jeune âge, devenant plus cylindrique, et souvent courbé vers la base. La surface est brun jaunâtre à brun pâle, plus claire près du sommet, et couverte sur la plus grande partie de sa longueur d'un réseau saillant, grossier, brun foncé ou brun olive en relief (réticulum).",
+      flesh: "La chair est blanche, molle, épaisse et spongieuse dans le chapeau, plus fibreuse dans le pied. À la coupe, elle reste blanche ou vire très faiblement au rosâtre ou au brunâtre. La saveur est intensément et durablement amère, même en très petits morceaux. L'odeur est faible et non distinctive.",
+      sporePrint: "Rose à rose vineux ou rose chair. Les spores sont lisses, fusiformes à subcylindriques, mesurant 11–15 × 4–5 µm, jaune-brun pâle sous le microscope.",
+      habitat: "Il fructifie de juillet à octobre, plus communément de la fin de l'été jusqu'à l'automne. Il pousse sur sol acide sous l'épicéa, le pin, le hêtre et le bouleau, et fréquemment sur ou près de souches et de billes de conifères profondément décomposées. On le trouve dans les landes boisées, les bordures de tourbières et les sols pauvres sableux ou tourbeux.",
+      uses: "Non comestible en raison de son amertume intense, qui ne disparaît pas à la cuisson. Un seul sporophore peut gâcher tout un plat de bolets comestibles. Il n'est pas considéré comme toxique, mais il provoque des nausées ou un inconfort gastro-intestinal s'il est ingéré en quantité. Dans certaines régions d'Europe orientale, il a été utilisé en petites quantités comme amer stomacal ou séché pour des remèdes populaires.",
+      confusion: "Au premier coup d'œil, les jeunes sporophores peuvent sembler presque identiques aux jeunes cèpes de Bordeaux (Boletus edulis), qui possèdent un pied pâle avec un réseau blanc et des pores qui deviennent jaune-olive plutôt que roses. Le bolet bai (Imleria badia) a des tubes jaunes qui bleuissent au froissement et est dépourvu de réseau sombre grossier. Le bolet subtomenteux (Xerocomus subtomentosus) a des pores jaunes et un pied plus élancé. Le bolet brun rougeâtre (Tylopilus rubrobrunneus) pousse avec les feuillus dans l'est de l'Amérique du Nord, possède un chapeau violacé à brun pourpré et est également amer. Le bolet brun variable (Tylopilus variobrunneus) a un chapeau brun rougeâtre à châtain, des teintes olivâtres dans le jeune âge, des spores mesurant typiquement environ 9–13 × 3–4,5 µm et une saveur douce à légèrement amère. Le bolet de Rhoads (Tylopilus rhoadsiae), du sud-est des États-Unis, possède un chapeau plus pâle qui reste plus petit, atteignant environ 9 cm. Le bolet indécis (Tylopilus indecisus) et le bolet ferrugineux (Tylopilus ferrugineus) ont des pieds moins fortement réticulés. Le bolet néo-fiel (Tylopilus neofelleus), des forêts de feuillus de Chine, de Nouvelle-Guinée, du Japon et de Taïwan, présente un chapeau brun vineux, un pied brun rosâtre à vineux, des spores d'environ 11–14 × 4–5 µm et des pleurocystides plus longues, d'environ 49–107 × 14–24 µm. Les récoltes australiennes présentant des spores régulièrement plus petites appartiennent au bolet à spores courtes (Tylopilus brevisporus).",
+      notes: "Une évaluation de 2019 classe l'espèce dans la catégorie préoccupation mineure (Least Concern), avec une population stable. Elle peut être localement très abondante dans les forêts montagnardes acidophiles de conifères, en particulier en Europe centrale. Les composés amers sont des tylopilines et des sesquiterpénoïdes apparentés. Une forme au chapeau blanc pur a été décrite sous le nom de var. alutarius ou forma albicans."
     }
     },
     sources: {
@@ -36944,23 +36945,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Bolet_de_fiel"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/44821"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -36983,6 +36967,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Epe%C3%ADz%C5%B1_tin%C3%B3ru"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Bolet_de_fiel"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/44821"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -37094,9 +37095,9 @@ export const CATALOG = [
       ru: "гриб-зонтик краснеющий",
       uk: "гриб-зонтик червоніючий",
       pl: "czubajnik czerwieniejący",
-      fr: "lépiote déguenillée",
       it: "mazza di tamburo squamosa",
-      hu: "piruló őzlábgomba"
+      hu: "piruló őzlábgomba",
+      fr: "lépiote déguenillée"
     },
     names: { es: ['apagador menor'],
       ru: ["хлорофиллум темно-бурый"],
@@ -37376,18 +37377,6 @@ export const CATALOG = [
       confusion: "Czubajka kania (Macrolepiota procera) jest większa, ma wyraźny zygzakowaty wzór na trzonie i miąższ niezmieniający barwy po przekrojeniu. Czubajnik ogrodowy (Chlorophyllum brunneum) ma bulwę ostro odgraniczoną (obrzeżoną) i bywa trujący. Czubajnik zielonawy (Chlorophyllum molybdites) ma zielonkawy wysyp zarodników i jest trujący.",
       notes: "Wyróżnia się łagodnie rozszerzoną bulwą i podwójnym pierścieniem."
     },
-    fr: {
-      description: "Un champignon saprotrophe charnu des litières forestières et parcs. Commun dans toute l'Europe, en Amérique du Nord et en Asie tempérée.",
-      cap: "Le chapeau mesure 8–18 cm de largeur, d'abord globuleux puis convexe et étalé. La cuticule brune se déchire en grandes écailles concentriques épaisses et retroussées sur un fond blanc crème fibreux.",
-      hymenium: "Les lames sont libres, larges, très serrées, blanches puis crème, rougissant puis brunissant aux meurtrissures.",
-      stipe: "Le pied mesure 10–20 cm de hauteur et 1–2,5 cm d'épaisseur, lisse et blanchâtre, dépourvu de tout motif chiné ou zébré, avec une base bulbeuse prononcée. Il porte un large anneau membraneux double et floconneux, coulissant librement à maturité.",
-      flesh: "La chair est épaisse, tendre dans le chapeau, blanche et rougissant instantanément en orange carotte puis rouge safran ou brun rougeâtre à la cassure. L'odeur est agréable et noisetée ; la saveur est douce.",
-      sporePrint: "Blanche à crème pâle. Les spores sont ellipsoïdes, lisses, à paroi épaisse, dextrinoïdes, mesurant environ 9–12 × 6–7,5 µm.",
-      habitat: "Les sporophores apparaissent de juillet à novembre dans les bois de conifères (particulièrement sous les épicéas), les forêts de feuillus riches en humus et les parcs.",
-      uses: "C'est un bon comestible une fois bien cuit. Les pieds fibreux et durs sont éliminés.",
-      confusion: "La lépiote élevée (Macrolepiota procera) est plus grande, a un pied distinctement chiné de bandes brunâtres et une chair qui ne rougit pas à la coupe. La lépiote de Morgan (Chlorophyllum molybdites) est toxique et possède une sporée verdâtre. La lépiote vénéneuse (Chlorophyllum brunneum) possède un bulbe abruptement marginé.",
-      notes: "Les sporophores possèdent un bulbe progressif et un anneau double. Chlorophyllum brunneum possède un bulbe nettement marginé."
-    },
     it: {
       description: "Un fungo saprotrofo di grandi dimensioni dei boschi ombrosi di conifere e latifoglie, parchi e giardini ricchi di sostanza organica. È ampiamente diffuso nelle regioni temperate.",
       cap: "Il cappello misura 5–18 cm di diametro. È sferico o ovoide da giovane, poi espanso a campana con umbone liscio bruno centrale. La cuticola si fessura vistosamente in grandi scaglie poligonali concentriche bruno-grigiastre arricciate su fondo bianco crema fibrilloso.",
@@ -37411,6 +37400,18 @@ export const CATALOG = [
       uses: "Jó ehető gomba, alapos sütés vagy főzés után kiváló. A tönköt szívós állaga miatt nem fogyasztják.",
       confusion: "A nagy őzlábgomba (Macrolepiota procera) tönkje feltűnően kígyóbőrmintás és húsa sérülésre nem vörösödik. A mérgező kerti őzlábgomba (Chlorophyllum brunneum) élesen peremes gumójú és kertekben, trágyadombokon él.",
       notes: "A korábban Macrolepiota rhacodes néven ismert fajt a genetikai vizsgálatok alapján átsorolták a Chlorophyllum nemzetségbe."
+    },
+    fr: {
+      description: "Un grand agaric saprotrophe des bois, des haies et des terrains remaniés riches en humus. Il est fréquent en Grande-Bretagne et en Irlande et largement répandu à travers l'Europe et l'Amérique du Nord, où on le trouve plus souvent depuis les montagnes Rocheuses vers l'est. Les sporophores poussent en solitaire, dispersés ou en troupes et en ronds de sorcières.",
+      cap: "Le chapeau mesure 5–18 cm de largeur. Il débute ovoïde ou presque rond, puis devient campanulé ou convexe, et plus tard étalé ou très largement campanulé, souvent avec un mamelon. Il est rarement complètement plat. La surface est sèche et douce. Un jeune chapeau est lisse et brun à brun orangé. La cuticule se brise ensuite en grandes écailles brunes sur un fond fibrilleux blanchâtre, crème ou brun clair. Les écailles sont ébouriffées et disposées comme des tuiles, plus sombres que le fond, tandis que le centre reste lisse ou craquelé et brun. Au centre et sur les écailles, le pileipellis est un trichoderme, et sur la surface fibrilleuse pâle, c'est un cutis. L'hydroxyde de potassium sur le chapeau est négatif, ou rosâtre sur les zones brunes, et l'ammoniaque est négatif.",
+      hymenium: "Les lames sont libres, serrées et ventrues, rétrécies vers le pied, et larges d'environ 12–15 mm. Les lamellules sont fréquentes. Elles sont blanches à crème. Les arêtes peuvent devenir rougeâtres ou brunâtres, et les faces virent au rougeâtre au froissement. Un voile cotonneux les recouvre dans le jeune âge. Les cheilocystides sont clavées à presque sphériques, parfois avec un court pied, hyalines et à parois minces, mesurant environ 15–50 × 10–17,5 µm. Les pleurocystides sont absentes.",
+      stipe: "Le pied mesure 5–21 cm de long et 1–3,5 cm d'épaisseur, avec un bulbe progressif mesurant jusqu'à environ 5 cm de largeur. Le bulbe n'est pas marginé. Le pied est clavé à presque cylindrique, rétréci vers le haut et creux, et il se détache nettement de la chair du chapeau. Il est lisse et glabre, blanchâtre à crème en haut et brunâtre à brun rougeâtre en bas, et il brunit ou rougit au froissement. Un mycélium blanc peut recouvrir la base. Un anneau cotonneux et mobile se trouve dans le tiers supérieur. L'anneau est blanchâtre, à double arête, brunâtre sur le bord inférieur, et il peut glisser jusqu'à la base.",
+      flesh: "La chair est blanche et épaisse. La chair coupée se tache d'orange ou de safran en quelques secondes, puis de rouge, puis de brun rouille. Le changement de couleur est le plus marqué près du sommet du pied. La chair âgée dans le chapeau est cotonneuse, et la chair du pied est presque ligneuse. L'odeur est agréable et fongique, parfois fortement aromatique. La saveur n'est pas distinctive, ou agréablement fongique, et elle est moins bonne que celle de la lépiote élevée (Macrolepiota procera). Les descriptions du champignon sous ce nom mentionnent cette odeur. La description originale donne une saveur et une odeur désagréables.",
+      sporePrint: "Blanche à crème pâle. Les spores sont lisses, incolores et dextrinoïdes, avec un pore germinatif, mesurant environ 8–13 × 5–8 µm. Elles sont ellipsoïdes à largement ellipsoïdes, et également globuleuses, piriformes ou quelque peu amygdaliformes, parfois avec une extrémité tronquée.",
+      habitat: "En Grande-Bretagne et en Irlande, les sporophores apparaissent de juin à octobre, en Europe centrale de juillet à novembre, et en Amérique du Nord du printemps à l'automne. Ils poussent dans les bois de toutes sortes, plus souvent sous les feuillus, sur des sols plus riches et non dans une épaisse couche de litière. Ils poussent également dans les haies, sur les terrains remaniés riches en humus, les pelouses, les jardins, les bords de routes et les lisières de champs, souvent près des épicéas. Dans le sud de la Slovaquie, ils sont localement abondants sous le robinier faux-acacia. Ils poussent en solitaire, dispersés ou en troupes et en ronds de sorcières, en plaine comme sur les collines.",
+      uses: "Il est largement cuisiné et consommé, et il est moins bon que la lépiote élevée (Macrolepiota procera). Il a également causé de graves troubles gastriques. Une partie des intoxications signalées est considérée comme une réaction individuelle, et certaines sources ne le recommandent plus. Il a été retiré de la liste tchèque des champignons du marché en 2023.",
+      confusion: "La lépiote élevée (Macrolepiota procera) a des écailles plus petites et un motif chiné brun et blanc en peau de serpent sur le pied, et sa chair ne rougit pas. La lépiote brune (Chlorophyllum brunneum) a un bulbe basal marginé, un anneau simple plutôt que double, et un pied plus court et plus épais. Elle pousse dans les jardins, sur le compost et sur les terres fumées. Ses spores sont systématiquement tronquées, et ses cheilocystides sont plus longues et plus étroites. La lépiote d'Olivier (Chlorophyllum olivieri) a des écailles qui ne contrastent pas avec le fond gris-brun du chapeau. Elle est commune dans la litière de conifères, son bulbe est moins développé, et ses spores sont légèrement plus petites, d'environ 8–11 × 5–7 µm. La lépiote de Morgan (Chlorophyllum molybdites) a des lames vertes et une sporée verte à maturité, et elle est toxique. L'agaric auguste (Agaricus augustus) peut paraître semblable sur le terrain et a une sporée brun foncé ou brun violacé.",
+      notes: "Les sporophores possèdent un bulbe progressif et un anneau double. La lépiote brune (Chlorophyllum brunneum) a un bulbe marginé."
     }
     },
     sources: {
@@ -37724,23 +37725,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/L%C3%A9piote_d%C3%A9guenill%C3%A9e"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/451435"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -37763,6 +37747,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Pirul%C3%B3_%C5%91zl%C3%A1bgomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/L%C3%A9piote_d%C3%A9guenill%C3%A9e"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/451435"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -37873,9 +37874,9 @@ export const CATALOG = [
       ru: "сыроежка жгучеедкая",
       uk: "сироїжка блювотна",
       pl: "gołąbek wymiotny",
-      fr: "russule émétique",
       it: "colombina rossa",
-      hu: "hánytató galambgomba"
+      hu: "hánytató galambgomba",
+      fr: "russule émétique"
     },
     names: {
       en: ["emetic russula", "vomiting russula"]
@@ -38160,18 +38161,6 @@ export const CATALOG = [
       uses: "Grzyb trujący. Powoduje ostre podrażnienie przewodu pokarmowego, nudności, wymioty i biegunkę z powodu zawartości silnie drażniących substancji żywicowych.",
       confusion: "Gołąbek bukowy (Russula nobilis) rośnie w suchych lasach bukowych i ma skórkę kapelusza niedającą się ściągnąć. Inne czerwone gołąbki o łagodnym smaku (np. Russula paludosa) są jadalne i nie pieką w język."
     },
-    fr: {
-      description: "Un champignon ectomycorhizien toxique inféodé aux tourbières et forêts humides de conifères. Répandu dans toute l'Europe boréale et tempérée, en Amérique du Nord et en Asie du Nord.",
-      cap: "Le chapeau mesure 3–8 cm de largeur, d'abord convexe puis étalé et déprimé au centre. Il est d'un rouge écarlate éclatant ou rouge vermillon brillant, très visqueux à l'humidité, la cuticule se pelant facilement jusqu'aux trois quarts. La marge est légèrement cannelée avec l'âge.",
-      hymenium: "Les lames sont blanches, cassantes, espacées à modérément serrées, libres ou adnées, restant d'un blanc pur.",
-      stipe: "Le pied mesure 4–8 cm de hauteur et 1–2 cm d'épaisseur, cylindrique, entièrement blanc pur, fragile et spongieux à l'intérieur.",
-      flesh: "La chair est blanche, cassante comme de la craie, rougeâtre juste sous la cuticule du chapeau. L'odeur est fruitée et agréable ; la saveur est extrêmement et insupportablement brûlante et poivrée.",
-      sporePrint: "Blanc pur. Les spores sont largement ellipsoïdes à subglobuleuses, distinctement épineuses et réticulées, mesurant environ 8–10 × 7–8,5 µm.",
-      habitat: "Les sporophores apparaissent d'août à novembre parmi les sphaignes humides et les mousses des forêts de conifères (pins, épicéas) sur sols tourbeux et très acides.",
-      uses: "Ce champignon est toxique et provoque un syndrome gastro-intestinal aigu caractérisé par des nausées, des vomissements répétés et des crampes d'estomac dus à des sesquiterpènes irritants.",
-      confusion: "La russule noble (Russula nobilis), tout aussi âcre, pousse sous les hêtres sur sols secs. La russule des marais (Russula paludosa) est plus grande, a un chapeau rouge orangé et une saveur douce comestible.",
-      notes: "Une évaluation de 2025 la classe en préoccupation mineure (Least Concern). Elle forme des ectomycorhizes avec les Pinacées."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi umidi di conifere (abete rosso e pino) e torbiere di sfagno. È diffuso nell'emisfero settentrionale su suoli acidi.",
       cap: "Il cappello misura 3–10 cm di diametro. È emisferico poi convesso e spianato, talvolta depresso al centro. La cuticola è liscia, viscosa a tempo umido, facilmente asportabile per oltre metà raggio, di un vivido colore rosso scarlatto o rosso sangue brillante, che sbiadisce col bagnato.",
@@ -38195,6 +38184,18 @@ export const CATALOG = [
       uses: "Mérgező. Égetően csípős szeszkviterpéneket tartalmaz, amelyek súlyos gyomor- és bélirritációt, erős hányást és hasmenést váltanak ki. Ételkészítésre alkalmatlan.",
       confusion: "A bükkfa-galambgomba (Russula nobilis) bükkösökben él, kalapbőre csak a szélein húzható le és húsa keményebb. Az erdei galambgomba (Russula silvestris) szárazabb tölgyesekben és fenyvesekben terem. A nyírfás galambgomba (Russula betularum) kisebb és törékenyebb, nyír alatt él. A lápvidéki galambgomba (Russula aquosa) tőzeglápokban nő és húsa szinte enyhe ízű. A lápi galambgomba (Russula paludosa) spórapora halvány okkerszínű és tönkje gyakran vöröses. A vérvörös galambgomba (Russula sanguinaria) tönkje pirosas árnyalatú. Az aranyos galambgomba (Russula aurea) lemezei, tönkje és húsa sárgás. A lucfenyvesi galambgomba (Russula badia) kalapja barnásvörös, gyantaillatú és spórapora sárga. A törékeny galambgomba (Russula fragilis) lemezei finoman fűrészes élűek.",
       notes: "A nyers hús apró darabkájának megkóstolása után pillanatokon belül égető, borsos csípősség érezhető, ami egyértelművé teszi mérgező voltát."
+    },
+    fr: {
+      description: "Un champignon ectomycorhizien des bois humides de conifères et des tourbières à sphaignes, le plus souvent avec l'épicéa et le pin. Il est largement répandu en Europe depuis la Méditerranée jusqu'au nord de la Fennoscandie, y compris en Grande-Bretagne et en Irlande, et il est signalé en Afrique du Nord, en Asie du Nord et dans certaines parties d'Amérique du Nord et d'Amérique centrale.",
+      cap: "Le chapeau mesure couramment 3–10 cm de largeur, et certaines descriptions débutent vers 2,5 cm. Il est hémisphérique, puis convexe, et plus tard étalé et peu profondément déprimé, parfois avec un mamelon surbaissé. La surface est lisse, visqueuse et brillante à l'état humide. Il est rouge écarlate à rouge cerise, parfois plus sombre au centre et moins souvent rose. Le pigment est soluble dans l'eau et se décolore en taches roses, orange ou blanches. La marge reste lisse pendant longtemps et devient plus tard brièvement rainurée sur environ 2–7 mm, et elle peut devenir ondulée ou bosselée. La cuticule se pèle jusqu'à mi-rayon environ selon certaines descriptions et des deux tiers jusqu'à presque au centre, souvent presque complètement, selon d'autres. La chair sous la cuticule est rose. La cuticule du chapeau porte des piléocystides d'environ 4,5–14 µm de large, avec une à trois cloisons, et elles se colorent dans le sulfobenzaldéhyde et la sulfovanilline.",
+      hymenium: "Les lames sont blanches à crème pâle, bien que les lames mûres soient parfois décrites comme jaune crème soutenu. Elles sont serrées et plus tard parfois un peu plus espacées, minces et cassantes, d'environ 4–9 mm de profondeur, étroitement adnées à libres, parfois échancrées, et occasionnellement légèrement décurrentes. Certaines sont fourchues, des lamellules sont présentes, et des veines transversales peuvent les relier. L'arête est entière. Les basides sont clavées et tétrasporiques, mesurant environ 38–50 × 11–13 µm chez les sporophores européens et environ 33–50 × 9–11,6 µm dans une description nord-américaine sous ce nom. Les cheilocystides sont fusiformes. Celles d'Europe mesurent environ 35–75 × 7–12 µm et ne sont pas ou à peine étranglées au sommet, tandis que la description nord-américaine en donne de beaucoup plus courtes, d'environ 14–24 × 4,4–7,3 µm. Les pleurocystides mesurent environ 55–100 × 10–14 µm dans la description européenne et environ 35–88 × 7,3–12,4 µm dans la description nord-américaine. Les cystides se colorent dans le sulfobenzaldéhyde et la sulfovanilline. Les anses d'anastomose sont absentes.",
+      stipe: "Le pied est blanc, sec et brillant, parfois faiblement sillonné longitudinalement, et il peut jaunir légèrement, en particulier à la base. Il est cylindrique ou légèrement clavé et ne possède pas d'anneau. Les sporophores européens mesurent couramment environ 4–10 cm de long et 1–2,5 cm d'épaisseur, et les extrêmes publiés vont d'environ 3 cm à environ 10,5 cm de long et descendent jusqu'à environ 0,7 cm d'épaisseur. Il est ferme et plein au début, puis spongieux ou partiellement creux.",
+      flesh: "La chair est blanche et cassante, rapidement spongieuse, rose sous la cuticule, et elle peut jaunir faiblement avec l'âge. Elle ne change pas de couleur à la coupe. L'odeur est faible et fruitée ou légèrement épicée, et elle peut être presque absente. La saveur est immédiatement et nettement âcre. Le sulfate de fer colore la chair en rose, le phénol la brunit, et la réaction au gaïac est négative ou presque négative.",
+      sporePrint: "Blanche à crème très pâle. Les spores sont subglobuleuses à largement ellipsoïdes, mesurant environ 7,4–11 × 6,5–9 µm, avec un rapport longueur sur largeur d'environ 1,1–1,3. Elles portent de grosses verrues amyloïdes, pour la plupart coniques et hautes jusqu'à environ 1,2 µm, qui sont largement reliées en réseau. L'apicule mesure environ 1,5–1,62 × 1,25 µm, et la plage hilaire amyloïde est irrégulière, mesurant environ 3 × 3,75 µm.",
+      habitat: "En Europe centrale, les sporophores apparaissent de juin à octobre, en Allemagne de juillet à novembre, et en Grande-Bretagne et en Irlande d'août à octobre. Ils poussent en solitaire ou en groupes sur sol acide humide à gorgé d'eau dans les bois de conifères, en particulier avec l'épicéa et le pin, souvent dans la mousse, dans les tourbières à sphaignes et sur les landes humides. Ils se trouvent occasionnellement sur l'humus ou sur du bois très pourri.",
+      uses: "Les sporophores crus ou insuffisamment cuits provoquent des nausées, des vomissements, des douleurs abdominales spasmodiques et de la diarrhée, habituellement en l'espace d'une demi-heure à trois heures, et parfois en une heure environ. L'intoxication est généralement gastro-intestinale. Des cas extrêmes ont comporté des crampes et le coma, et une issue fatale est peu probable sauf chez les personnes fragiles, immunodéprimées ou très jeunes. Les substances irritantes seraient des sesquiterpènes, parmi lesquels la lactarorufine A, le furandiol, le méthoxyfuranalcool et un composé non nommé. Le blanchiment à l'eau bouillante ou la mise en saumure, tels que pratiqués en Russie et en Europe orientale, élimineraient le goût poivré et une grande partie de la toxicité, et une cuisson approfondie détruirait également les toxines. La saveur âcre a également conduit certaines descriptions à qualifier le champignon de non comestible.",
+      confusion: "La russule noble (Russula nobilis) pousse avec le hêtre, reste plus convexe à maturité, a une chair plus ferme, et sa cuticule ne se pèle que sur un tiers du rayon environ, ou seulement à la marge. La russule des bois (Russula silvestris) est un peu moins âcre et pousse sur des terrains plus secs sous le chêne et le pin. La russule des bouleaux (Russula betularum) est plus petite et plus fragile, son chapeau rose se décolore rapidement en blanc ou jaunâtre, sa cuticule se pèle jusqu'au centre, et elle pousse avec le bouleau. La russule grisonnante (Russula grisescens) est plus pâle, devient rapidement grise dans le pied et les lames, et a des spores plus petites avec des verrues plus basses et pour la plupart non reliées. La russule naine (Russula nana) est une espèce naine alpine et arctique associée au saule et au bouleau, avec un petit chapeau jusqu'à environ 3 cm et des cystides plus courtes. La russule à pied rouge (Russula rhodopus) a un chapeau rouge vif brillant, une chair douce à seulement légèrement âcre, et un pied qui est habituellement lavé de rouge. La russule sanguine (Russula sanguinaria) a un chapeau souvent plus sombre ou vineux, des lames décurrentes et un pied lavé de rouge, et elle pousse avec le pin. Les formes rouges de la russule fragile (Russula fragilis) ont une saveur âcre, des arêtes de lames crénelées et des spores différentes. D'autres russules rouges à chair âcre peuvent paraître semblables.",
+      notes: "Une évaluation de 2019 classe l'espèce dans la catégorie préoccupation mineure (Least Concern), avec une population stable."
     }
     },
     sources: {
@@ -38505,23 +38506,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Russule_%C3%A9m%C3%A9tique"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/41670"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -38544,6 +38528,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/H%C3%A1nytat%C3%B3_galambgomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Russule_%C3%A9m%C3%A9tique"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/41670"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -38663,9 +38664,9 @@ export const CATALOG = [
       ru: "рядовка зелёная",
       uk: "зеленяк",
       pl: "gąska zielonka",
-      fr: "tricholome équestre",
       it: "fungo dei cavalieri",
-      hu: "sárgászöld pereszke"
+      hu: "sárgászöld pereszke",
+      fr: "tricholome équestre"
     },
     names: {
       en: ["man on horseback", "saddle-shaped tricholoma"],
@@ -38679,8 +38680,8 @@ export const CATALOG = [
       bg: ['жълтушка'],
       ru: ["зеленушка"],
       uk: ["зеленушка","рядовка зелена"],
-      fr: ["tricholome des chevaliers","bidaou"],
-      it: ["tricoloma equestre"]
+      it: ["tricoloma equestre"],
+      fr: ["tricholome des chevaliers","bidaou"]
     },
     text: {
       tr: {
@@ -38954,18 +38955,6 @@ export const CATALOG = [
       confusion: "Gąska siarkowa (Tricholoma sulphureum) ma siarkowożółty miąższ, rzadkie blaszki i wstrętny zapach gazu świetlnego. Muchomor zielonawy (Amanita phalloides) ma białe blaszki, pierścień i pochwę.",
       notes: "Ocena z 2024 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern)."
     },
-    fr: {
-      description: "Un champignon ectomycorhizien toxique des pinèdes sur sols sableux. Présent dans toute l'Europe et en Amérique du Nord.",
-      cap: "Le chapeau mesure 5–12 cm de largeur, convexe puis étalé et bosselé. Il est jaune soufre à jaune verdâtre, parsemé au centre de fines squamules brunâtres ou rousses, visqueux par temps humide.",
-      hymenium: "Les lames sont serrées, échancrées, d'un beau jaune soufre éclatant.",
-      stipe: "Le pied mesure 4–9 cm de hauteur et 1–2,5 cm d'épaisseur, cylindrique ou épaissi à la base, jaune pâle à jaune verdâtre, lisse ou légèrement fibrilleux.",
-      flesh: "La chair est blanche dans le chapeau et jaunâtre sous la cuticule et dans le pied. L'odeur et la saveur sont nettement farineuses.",
-      sporePrint: "Blanche. Les spores sont ellipsoïdes, lisses, inamyloïdes, mesurant environ 6–8 × 4–5 µm.",
-      habitat: "Les sporophores apparaissent de septembre à décembre sous les pins (Pinus sylvestris, Pinus pinaster) sur sols sablonneux acides.",
-      uses: "Autrefois réputé comme un comestible de choix traditionnel, ce champignon est désormais reconnu comme dangereux et formellement proscrit. Des consommations excessives et répétées provoquent une rhabdomyolyse aiguë (destruction grave des cellules musculaires striées) potentiellement mortelle.",
-      confusion: "Le tricholome soufré (Tricholoma sulphureum) possède une odeur fétide insupportable de gaz d'éclairage et des lames très espacées. Le tricholome disjoint (Tricholoma sejunctum) a une chair blanche sans goût de farine.",
-      notes: "Certains auteurs séparent encore une forme dunaire mamelonnée plus robuste, en attendant une révision du complexe."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi sabbiosi di pino a due aghi (Pinus sylvestris) e misti. È diffuso in tutta l'Europa temperata.",
       cap: "Il cappello misura 4–12 cm di diametro. È convesso poi spianato con largo umbone centrale, viscoso a tempo piovoso, di colore giallo zolfo o giallo oro, cosparso al centro da fini fibrille o squamette bruno-rossastre.",
@@ -38989,6 +38978,18 @@ export const CATALOG = [
       uses: "Mérgező gomba. Korábban Európa-szerte nagyra becsült ehető csemegének tartották, azonban az ezredforduló után bebizonyosodott, hogy ismételt vagy bőséges fogyasztása súlyos rabdomiolízist (vázizom-sejt szétesést) okozhat, amely veseelégtelenséghez és halálhoz vezethet. Fogyasztása tilos.",
       confusion: "A citromgalóca (Amanita citrina) és a gyilkos galóca (Amanita phalloides) tönkjén gallér és bocskor van, lemezeik fehérek. A mérgező büdös pereszke (Tricholoma sulphureum) szaga elviselhetetlenül világítógáz- vagy kénszagú.",
       notes: "A gomba méreganyaga még nem teljesen tisztázott, de a vázizmok elfajulását idézi elő a szervezetben."
+    },
+    fr: {
+      description: "Un agaric ectomycorhizien charnu et jaunâtre des forêts de pins sur sols acides et sableux, indigène à travers l'Europe et l'Amérique du Nord et signalé en Asie. Il a longtemps été considéré comme un bon champignon comestible, et en France il était vendu sur les marchés sous le nom de bidaou. Des signalements d'intoxications mortelles en France et en Pologne, accompagnées d'une rhabdomyolyse, ont montré qu'une consommation répétée peut causer des lésions musculaires sévères et parfois mortelles.",
+      cap: "Le chapeau mesure 4–12 cm de largeur, parfois jusqu'à 15 cm. Il débute convexe, puis s'aplatit, souvent avec un mamelon large et surbaissé et une marge enroulée, ondulée ou lobée. La couleur est jaune, vert jaunâtre ou jaune brunâtre, souvent plus sombre et brunâtre vers le centre, avec de fines fibrilles ou écailles brunes, brun-olive ou rougeâtres. La surface est grasse à visqueuse par temps humide, brillante à l'état sec, et la cuticule se pèle jusqu'à mi-rayon environ.",
+      hymenium: "Les lames sont échancrées à presque libres, serrées, minces, et larges de 6–10 mm. Elles sont jaune soufre à jaune vif, avec une arête entière ou légèrement dentelée qui peut brunir avec l'âge. Les basides sont tétrasporiques et bouclées. Les cystides sont absentes.",
+      stipe: "Le pied mesure 3–8 cm de long, occasionnellement jusqu'à 10 cm, et 1–3 cm d'épaisseur, cylindrique ou clavé, souvent trapu, et plein. La surface est jaune pâle à jaune soufre, plus claire que les lames, fibreuse-striée, et généralement glabre, avec la base parfois brunâtre ou couverte d'un mycélium blanchâtre. Il n'y a pas d'anneau.",
+      flesh: "La chair est épaisse, ferme, blanche, et jaunâtre sous la cuticule du chapeau et dans les parties périphériques du pied. L'odeur est farineuse (rappelant la farine fraîche), de concombre ou agréable, et la saveur est douce et farineuse.",
+      sporePrint: "Blanche. Les spores sont lisses, ellipsoïdes à ovoïdes, mesurant 6–8 × 4–5 µm, inamyloïdes et hyalines.",
+      habitat: "Il fructifie de septembre à novembre, souvent tard dans la saison après que les autres champignons ont disparu. Il pousse sur les sols sableux acides et pauvres dans les bois de pins, en particulier avec le pin sylvestre (Pinus sylvestris), et moins souvent avec l'épicéa ou sous des feuillus tels que le bouleau et le chêne. Il est fréquent dans les plantations côtières de pins sur les dunes de sable.",
+      uses: "Toxique et potentiellement mortel. Il provoque une rhabdomyolyse — une dégradation sévère du tissu musculaire squelettique — lorsqu'il est consommé lors de repas répétés ou copieux, entraînant une faiblesse musculaire profonde, des douleurs, une élévation de la créatine kinase sérique, des urines brunâtres, une insuffisance rénale aiguë et parfois la mort. Il était autrefois très prisé comme champignon comestible à travers l'Europe, mais les ventes et la cueillette commerciale sont désormais interdites dans de nombreux pays européens, et sa consommation est fortement déconseillée.",
+      confusion: "Le tricholome soufré (Tricholoma sulphureum) est plus élancé, possède une odeur forte et repoussante de gaz d'éclairage, des lames jaune soufre plus espacées, et pousse principalement dans les bois de feuillus. Le tricholome disjoint (Tricholoma sejunctum) a un chapeau vert jaunâtre à brunâtre avec des fibrilles radiales sombres, des lames blanchâtres et une saveur amère. Le cortinaire resplendissant (Cortinarius splendens) possède une cortine dans le jeune âge, des spores brun rouille et provoque une intoxication de type orellanien. Le cortinaire citrin et fauve (Cortinarius citrinofulvescens) a également un chapeau jaune avec des spores brunes et une cortine.",
+      notes: "Des études moléculaires montrent que les populations européennes englobent plusieurs lignées distinctes : Tricholoma equestre sensu stricto (avec les pins), le tricholome des feuillus (Tricholoma frondosae) (avec le tremble et d'autres feuillus), et Tricholoma ulvinenii (bois de pins boréaux). La toxine responsable de la rhabdomyolyse n'a pas été identifiée avec certitude ; certaines études suggèrent la cyclopropylacétyl-CoA ou de petits métabolites secondaires."
     }
     },
     sources: {
@@ -39337,23 +39338,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Tricholome_%C3%A9questre"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/451436"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -39376,6 +39360,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/S%C3%A1rg%C3%A1sz%C3%B6ld_pereszke"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Tricholome_%C3%A9questre"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/451436"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -39494,9 +39495,9 @@ export const CATALOG = [
       ru: "дождевик шиповатый",
       uk: "дощовик справжній",
       pl: "purchawka chropowata",
-      fr: "vesse-de-loup perlée",
       it: "vescia comune",
-      hu: "bimbós pöfeteg"
+      hu: "bimbós pöfeteg",
+      fr: "vesse-de-loup perlée"
     },
     names: {
       en: ["warted puffball", "gem-studded puffball", "gemmed puffball", "devil's snuff-box"],
@@ -39781,18 +39782,6 @@ export const CATALOG = [
       confusion: "Purchawka gruszkowata (Lycoperdon pyriforme) rośnie w gęstych wiązkach na butwiejącym drewnie i ma drobniejsze, kaszkowate ziarenka zamiast kolców. Tęgoskór cytrynowy (Scleroderma citrinum) ma twardą, spękaną skórkę i wnętrze od młodości marmurkowate, fioletowoczarne.",
       notes: "Ocena z 2019 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern)."
     },
-    fr: {
-      description: "Un champignon gastéromycète saprotrophe commun des sous-bois. Répandu dans le monde entier sur tous les continents sauf l'Antarctique.",
-      cap: "Le sporophore mesure 3–8 cm de hauteur et 2–5 cm de largeur, piriforme ou en forme de massue arrondie au sommet. L'exopéridium est blanc puis chamois ocré, entièrement couvert de petites épines coniques courtes entourées de granules qui se détachent facilement en laissant une empreinte réticulée en mosaïque.",
-      hymenium: "La gleba interne est enfermée dans le sporophore. Elle est blanche et ferme dans le jeune âge, puis vire au jaune verdâtre et enfin en une masse poudreuse brun olive d'où les spores s'échappent par un pore apical.",
-      stipe: "La partie inférieure du sporophore forme un pseudopied stérile épais et robuste, spongieux à l'intérieur, attaché au substrat par de fins cordons mycéliens.",
-      flesh: "La chair (gleba) est homogène, compacte et d'un blanc pur dans la jeunesse. L'odeur est faible ; la saveur est douce.",
-      sporePrint: "Brun olive à brun chocolat à maturité. Les spores sont globuleuses, finement verruqueuses, mesurant environ 3,5–4,5 µm de diamètre.",
-      habitat: "Les sporophores apparaissent de juillet à novembre, isolés ou en troupes denses, dans les forêts de feuillus et de conifères ainsi que dans les clairières et sur les mousses.",
-      uses: "C'est un champignon comestible acceptable uniquement lorsqu'il est jeune et que sa chair intérieure est parfaitement blanche et ferme. Dès que la gleba commence à jaunir, il devient immangeable.",
-      confusion: "La vesse-de-loup hérissée (Lycoperdon echinatum) est couverte de longues épines courbées brunâtres. Le scléroderme vulgaire (Scleroderma citrinum) est toxique, possède une écorce épaisse et coriace et une chair intérieure immédiatement gris noirâtre violacé.",
-      notes: "Une évaluation de 2019 la classe en préoccupation mineure (Least Concern). Les sporophores accumulent le cadmium, le plomb, le mercure et le sélénium."
-    },
     it: {
       description: "Un fungo gasteromicete saprotrofo che cresce solitario o a colonie su terreni ricchi di humus e lettiera nei boschi di latifoglie e conifere. È cosmopolita e comune.",
       cap: "Il corpo fruttifero è a forma di pera rovesciata o trottola, alto 3–8 cm e largo 2,5–6 cm. L'esoperidio esterno è bianco o crema chiaro, densamente ricoperto da aculei e verruche coniche staccabili, che cadendo lasciano un tipico disegno a reticolo poligonale sull'endoperidio sottostante.",
@@ -39816,6 +39805,18 @@ export const CATALOG = [
       uses: "Fiatalon, amíg a belseje tiszta hófehér, jóízű ehető gomba. Levesekbe, rántva vagy pirítva kitűnő. Amikor a belseje sárgulni kezd, már nem fogyasztható.",
       confusion: "A mérgező rőt áltrifla (Scleroderma citrinum) kérge vastag, kemény, belseje már korán feketéslila vagy szürkésfekete. A gyilkos galóca (Amanita phalloides) fiatal zárt tojásának kettévágásakor látható a kifejlődő kalap és lemezek körvonala.",
       notes: "A tüskék lehullása után jellegzetes recés, hálózatos minta marad a külső burok felületén."
+    },
+    fr: {
+      description: "Une vesse-de-loup saprotrophe commune des bois, des broussailles et des terrains ouverts, présente sur tous les continents à l'exception de l'Antarctique. Elle fructifie de la fin du printemps à la fin de l'automne, en solitaire, dispersée ou en touffes denses, sur le sol, la litière de feuilles et le bois bien décomposé.",
+      cap: "Le sporophore mesure 2–6 cm de large et 3–9 cm de haut, en forme de toupie, de poire ou de massue inversée, avec une tête supérieure arrondie et une base stérile épaisse semblable à un pied. La paroi externe (exopéridium) est blanchâtre au début, devenant crème, chamois ou gris-brun, et est densément couverte d'aiguillons et de verrues fragiles, coniques ou recourbés, d'environ 1–2 mm de hauteur. Les plus grands aiguillons sont entourés de cercles de granules plus petits ; lorsque les plus grands aiguillons tombent, ils laissent sur la paroi interne (endopéridium) un motif polygonal distinct, réticulé ou en réseau de cicatrices pâles. À maturité, le péridium interne devient mince comme du papier, membraneux-papyracé et brunâtre, et développe un petit pore apical (ostiole) par lequel les spores sont éjectées.",
+      hymenium: "Il n'y a ni lames ni pores. Les spores se développent à l'intérieur de la tête supérieure au sein d'une gleba qui est d'abord ferme et blanche, puis devient olive jaunâtre à brun olive, et se désagrège finalement en une masse sèche, poudreuse et brun olive foncé de spores et de filaments de capillitium. Les basides sont tétrasporiques et dépourvues de stérigmates ou en possèdent de très courts ; les spores sont libérées par dissolution de la paroi des basides.",
+      stipe: "La partie inférieure du sporophore, semblable à un pied, est une subgleba stérile, épaisse de 2–4 cm et représentant environ la moitié de la hauteur totale. Elle est alvéolée, blanchâtre à l'intérieur dans le jeune âge, devenant jaunâtre à brunâtre, et ne produit pas de spores. L'extérieur est couvert de verrues plus courtes et plus granuleuses que celles de la tête supérieure.",
+      flesh: "La chair de la gleba est blanche, ferme et uniforme dans le jeune âge, avec une odeur et une saveur douces. En mûrissant, elle devient molle, vert-jaune et spongieuse, puis se transforme en une poussière brune avec une odeur âcre distinctive, terreuse ou rappelant le gaz. La base stérile reste spongieuse et alvéolée.",
+      sporePrint: "Brun olive à brun foncé. Les spores sont globuleuses, de 3,5–4,5 µm de diamètre, finement verruqueuses à presque lisses sous le microscope optique, avec un court reste de stérigmate (pédicelle) mesurant jusqu'à 2 µm de long ou rarement plus. Le capillitium est constitué de filaments ramifiés, à parois épaisses, brun olive, larges de 3–7 µm, avec des perforations.",
+      habitat: "Pousse dans les forêts de feuillus et de conifères, le long des sentiers, dans les clairières, sur les landes, et occasionnellement dans les parcs et les jardins. Il fructifie de juillet à novembre en Europe tempérée et en Amérique du Nord. On le trouve sur le sol nu, parmi les mousses, sur l'humus riche et sur le bois très décomposé.",
+      uses: "Comestible lorsque la gleba est complètement blanche et ferme sur toute son étendue. Dès que la gleba présente une décoloration jaune ou verte, elle est non comestible et peut provoquer des troubles gastro-intestinaux. La peau épineuse externe doit être pelée ou brossée avant la cuisson. Coupé en tranches et poêlé ou sauté, il a une saveur douce et une texture agréable. Il a également été utilisé en médecine traditionnelle comme hémostatique pour arrêter les saignements, et la poudre sèche de spores était utilisée comme pansement sur les blessures.",
+      confusion: "La vesse-de-loup en forme de poire (Lycoperdon pyriforme) pousse presque exclusivement en touffes denses sur le bois pourrissant, possède une surface lisse à finement granuleuse sans aiguillons distincts, et a des cordons mycéliens blancs à la base. La vesse-de-loup ombrée (Lycoperdon umbrinum) est brun plus foncé avec des aiguillons sombres persistants et sans motif de cicatrices polygonales. La vesse-de-loup noirâtre (Lycoperdon nigrescens) a des aiguillons sombres et convergents qui tombent en laissant des marques sombres. La vesse-de-loup géante (Calvatia gigantea) est immensément plus grande (10–70 cm), est dépourvue de base stérile et possède une peau lisse. Le scléroderme vulgaire (Scleroderma citrinum) a un péridium épais, coriace, écailleux et jaunâtre, et une gleba qui vire au noir violacé foncé très tôt ; il est toxique. Les boutons immatures d'amanites (Amanita) peuvent être mortels et doivent être coupés verticalement pour vérifier la présence d'ébauches de chapeau, de lames et de pied.",
+      notes: "Une évaluation de 2019 classe l'espèce dans la catégorie préoccupation mineure (Least Concern). Elle bioaccumule les métaux lourds, en particulier le plomb, le cadmium et le mercure, et les sporophores provenant de sites pollués, de bords de routes et de zones industrielles ne doivent pas être consommés."
     }
     },
     sources: {
@@ -40158,23 +40159,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Vesse-de-loup_perl%C3%A9e"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/4860"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -40197,6 +40181,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Bimb%C3%B3s_p%C3%B6feteg"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Vesse-de-loup_perl%C3%A9e"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/4860"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -40302,9 +40303,9 @@ export const CATALOG = [
       ru: "подосиновик красный",
       uk: "підосиковик червоний",
       pl: "koźlarz czerwony",
-      fr: "bolet orangé",
       it: "porcinello rosso",
-      hu: "tölgyfa-érdestinóru"
+      hu: "tölgyfa-érdestinóru",
+      fr: "bolet orangé"
     },
     names: {
       en: ["red-capped scaber stalk", "orange bolete", "copper-top", "orange-capped bolete"],
@@ -40317,9 +40318,9 @@ export const CATALOG = [
       bg: ['подосиновик'],
       ru: ["красноголовик","обабок красный"],
       uk: ["красноголовець"],
-      fr: ["bolet roux"],
       it: ["leccino rosso"],
-      hu: ["kozákgomba","vörös érdestinóru"]
+      hu: ["kozákgomba","vörös érdestinóru"],
+      fr: ["bolet roux"]
     },
     text: {
       tr: {
@@ -40584,17 +40585,6 @@ export const CATALOG = [
       uses: "Bardzo smaczny grzyb jadalny po dokładnym ugotowaniu lub usmażeniu. Miąższ silnie ciemnieje podczas obróbki cieplnej, co jest cechą naturalną.",
       confusion: "Koźlarz białotrzonowy (Leccinum albostipitatum) rośnie pod topolami osikami i ma za młodu czysto białe łuseczki na trzonie. Koźlarz pomarańczowożółty (Leccinum versipelle) rośnie pod brzozami i ma czarne łuseczki na trzonie od początku rozwoju."
     },
-    fr: {
-      description: "Un champignon ectomycorhizien associé principalement aux chênes. Présent dans toute l'Europe tempérée.",
-      cap: "Le chapeau mesure 6–20 cm de largeur, hémisphérique puis convexe, de couleur rouge orangé chaud, orange brique ou brun orangé. La surface est finement veloutée au début puis glabre, avec la cuticule dépassant la marge en un rebord membraneux.",
-      hymenium: "Les tubes sont longs et étroits, blanc grisâtre puis crème ochracé. Les pores sont fins et ronds, blanchâtres puis devenant grisâtres et se tachant de brun.",
-      stipe: "Le pied mesure 8–18 cm de hauteur et 2–4 cm d'épaisseur, robuste, cylindrique ou aminci vers le haut. Il est blanc et orné de méchules rugueuses d'abord rousses ou brun rougeâtre (non blanches), noircissant avec l'âge.",
-      flesh: "La chair est blanche et compacte, virant d'abord au gris bleuâtre ou violacé vineux à la coupe, puis devenant gris foncé à noirâtre. L'odeur est agréable ; la saveur est douce.",
-      sporePrint: "Brun ochracé. Les spores sont fusiformes, lisses, mesurant environ 13–16 × 4–5 µm.",
-      habitat: "Les sporophores apparaissent de juin à novembre sous les feuillus, particulièrement les chênes (Quercus) et les hêtres.",
-      uses: "C'est un bon comestible une fois bien cuit. La chair noircit à la cuisson et les pieds trop fibreux sont rejetés.",
-      confusion: "Le bolet orangé des peupliers (Leccinum albostipitatum) possède des méchules blanc pur dans la jeunesse et pousse sous les trembles. Le bolet rude (Leccinum scabrum) est brun terne et pousse sous les bouleaux."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi di latifoglie, legato in particolare a querce, carpini, faggi e castagni. È diffuso in tutta l'Europa temperata.",
       cap: "Il cappello misura 5–20 cm di diametro. È emisferico poi convesso a cuscinetto, carnoso, con cuticola debordante al margine, di colore rosso mattone carico, bruno-rossastro o aranciato scuro, finemente vellutata col secco.",
@@ -40617,6 +40607,17 @@ export const CATALOG = [
       uses: "Jóízű ehető gomba, de alapos hőkezelést igényel, nyersen gyomorpanaszokat okozhat. Sütés és főzés közben a húsa teljesen megfeketedik.",
       confusion: "A vörös érdestinóru (Leccinum albostipitatum) rezgő nyár alatt nő, tönkpikkelyei fiatalon fehérek. A kormostönkű érdestinóru (Leccinum versipelle) nyírfa alatt él és pikkelyei feketék.",
       notes: "A hús feketedése a benne található fenolos vegyületek enzim oxidációjának köszönhető, ami étkezési értékét nem rontja."
+    },
+    fr: {
+      description: "Un grand bolet ectomycorhizien robuste des bois de feuillus, en particulier avec le chêne, le hêtre et le bouleau. Il est largement répandu en Europe et en Asie du Nord, et il est signalé en Amérique du Nord, bien que les récoltes américaines puissent représenter des taxons apparentés. Les sporophores fructifient en solitaire ou en petits groupes de l'été à la fin de l'automne.",
+      cap: "Le chapeau mesure 6–20 cm de largeur, occasionnellement jusqu'à 25 cm. Il débute hémisphérique avec la cuticule enserrant étroitement les pores, puis devient convexe à en coussinet, et finalement largement convexe. La couleur est rouge orangé vif, brun rougeâtre, rouge brique ou orange rouille. La surface est sèche, finement tomenteuse ou veloutée dans le jeune âge, plus lisse par la suite, légèrement grasse par temps humide. La marge présente fréquemment un rabat stérile débordant de cuticule qui se replie sur la surface porée, en particulier chez les jeunes spécimens.",
+      hymenium: "Les tubes mesurent 10–25 mm de long, profondément déprimés autour du pied, blanchâtres à gris pâle au début, devenant gris-brun à ocre brunâtre à maturité. Les pores sont petits (environ 2–3 par millimètre), ronds, blanchâtres ou gris pâle, virant lentement à l'ocre grisâtre ou au brunâtre au froissement. La surface porée apparaît souvent échancrée autour du sommet du pied.",
+      stipe: "Le pied mesure 8–20 cm de long et 2–5 cm d'épaisseur, cylindrique à clavé, souvent atténué vers le sommet et trapu ou légèrement bulbeux à la base. La surface est blanche ou blanchâtre, densément couverte de squamules (mèches) grossières et saillantes, blanchâtres au début, devenant rapidement brun rougeâtre, et finalement brun foncé à noirâtres. La base montre souvent une coloration bleu-vert ou bleuâtre aux endroits manipulés ou exposés aux intempéries.",
+      flesh: "La chair est épaisse, ferme et compacte dans le chapeau et le jeune pied, devenant plus molle dans le chapeau et fibreuse ou ligneuse dans le pied. À la coupe ou au froissement, la chair blanche vire rapidement au vineux, au rosâtre ou au gris violacé, puis s'assombrit en noir violacé, gris ardoise ou noirâtre, en particulier au sommet du pied. À la base du pied, des plages bleu-vert ou turquoise apparaissent souvent à côté de l'assombrissement. L'odeur et la saveur sont douces et agréables.",
+      sporePrint: "Brune à brun olive. Les spores sont lisses, fusiformes à subcylindriques, mesurant 13–18 × 4–5,5 µm, jaune-brun dans l'eau.",
+      habitat: "Ectomycorhizien principalement avec le chêne (Quercus), le hêtre (Fagus) et le charme (Carpinus), mais également associé au bouleau (Betula), au tremble et au peuplier. Il fructifie de juillet à novembre sur sols acides à neutres dans les bois de feuillus et mixtes, les lisières forestières et les parcs. En Europe centrale, l'espèce n'est pas connue sous les conifères.",
+      uses: "Les sporophores jeunes et fermes sont consommés après une cuisson approfondie. La chair est plus molle que celle du cèpe de Bordeaux (Boletus edulis) et devient très sombre à la poêle, et les sporophores sont également séchés. Les sporophores insuffisamment cuits ont provoqué des vomissements, et certaines personnes signalent des troubles gastro-intestinaux. Des intoxications à retardement rapportées en Amérique du Nord peuvent impliquer d'autres espèces à chapeau orange.",
+      confusion: "Le bolet à pied blanc (Leccinum albostipitatum) possède des squamules sur le pied qui sont blanches dans le jeune âge et ne rougissent que plus tard, et un chapeau d'un orange plus pur. Il pousse avec le tremble et le peuplier. Le bolet roux (Leccinum versipelle) pousse avec le bouleau, a un chapeau orange à jaune ocre et des squamules noires grossières dès le début, et vire au bleu-vert à noirâtre à la base du pied. Le bolet renard (Leccinum vulpinum) pousse avec le pin, et le bolet des épicéas (Leccinum piceinum) pousse avec l'épicéa et a des pores gris dans le jeune âge. Tous les auteurs ne traitent pas ces espèces des conifères comme séparées. En Amérique du Nord, le bolet remarquable (Leccinum insigne) pousse avec le tremble ou le bouleau, et le bolet à pied noir (Leccinum atrostipitatum) pousse avec le bouleau."
     }
     },
     sources: {
@@ -40951,23 +40952,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Bolet_orang%C3%A9"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/451437"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -40990,6 +40974,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/T%C3%B6lgyfa-%C3%A9rdestin%C3%B3ru"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Bolet_orang%C3%A9"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/451437"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -41103,9 +41104,9 @@ export const CATALOG = [
       ru: "мухомор поганковидный",
       uk: "мухомор поганкоподібний",
       pl: "muchomor cytrynowy",
-      fr: "amanite citrine",
       it: "tignosa paglierina",
-      hu: "citromgalóca"
+      hu: "citromgalóca",
+      fr: "amanite citrine"
     },
     names: {
       en: ["false death cap", "false death-cap", "citron amanita"]
@@ -41390,18 +41391,6 @@ export const CATALOG = [
       confusion: "Śmiertelnie trujący muchomor zielonawy (Amanita phalloides) ma dużą, luźną, workowatą białą pochwę u podstawy trzonu (zamiast obrzeżonej bulwy), nie posiada zapachu surowych ziemniaków i rzadko miewa łatki na kapeluszu. Odmiana biała (Amanita citrina var. alba) bywa mylona z muchomorem jadowitym (Amanita virosa).",
       notes: "Ocena z 2019 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern)."
     },
-    fr: {
-      description: "Un champignon ectomycorhizien très commun des forêts acides. Largement répandu dans toute l'Europe et en Asie tempérée.",
-      cap: "Le chapeau mesure 5–10 cm de largeur, convexe puis étalé, jaune citron pâle, jaune verdâtre très clair ou blanchâtre. Il est parsemé de larges plaques membraneuses irrégulières blanchâtres ou grisâtres, restes du voile général.",
-      hymenium: "Les lames sont blanches à crème pâle, serrées et libres.",
-      stipe: "Le pied mesure 6–12 cm de hauteur et 1–2 cm d'épaisseur, blanc lavé de jaune pâle. Il porte un anneau membraneux jaune pâle pendant et se termine à la base par un gros bulbe sphérique nettement circoncis, délimité par une volve membraneuse marginée d'une fente nette.",
-      flesh: "La chair est blanche, légèrement jaunâtre sous la cuticule. L'odeur est puissante et très caractéristique de rave ou de pomme de terre crue ; la saveur est désagréable.",
-      sporePrint: "Blanche. Les spores sont subglobuleuses, lisses, amyloïdes, mesurant environ 8–10 × 7–9 µm.",
-      habitat: "Les sporophores apparaissent d'août à novembre dans les bois de feuillus et de conifères sur sols acides et sableux, très commun sous les chênes, les hêtres et les pins.",
-      uses: "Non comestible ou sans valeur gustative en raison de son goût médiocre et surtout des risques majeurs de confusion avec l'amanite phalloïde mortelle.",
-      confusion: "L'amanite phalloïde (Amanita phalloides) est mortelle et se distingue par sa volve en sac libre et membraneuse (non marginée-circoncise) et son absence d'odeur de pomme de terre crue.",
-      notes: "Les amanites jaune pâle de l'est de l'Amérique du Nord répertoriées sous ce nom appartiennent à d'autres espèces."
-    },
     it: {
       description: "Un fungo ectomicorrizico molto comune dei boschi di conifere e latifoglie su suoli acidi e sabbiosi. È ampiamente diffuso in tutta Europa.",
       cap: "Il cappello misura 5–12 cm di diametro. È convesso poi spianato, di colore giallo limone pallido, giallo paglierino o bianco crema, coperto da larghe placche o verruche membranose irregolari biancastre o brunastre.",
@@ -41425,6 +41414,18 @@ export const CATALOG = [
       uses: "Nem ehető, kismértékben mérgező gomba. Kis mennyiségben bufotenint tartalmaz. Jellegzetes, kellemetlen nyersburgonya-szaga miatt egyébként sem élvezhető; a gyilkos galócával való hasonlósága miatt szedése kifejezetten veszélyes.",
       confusion: "A halálosan mérgező gyilkos galóca (Amanita phalloides) gumóját tágas, zsákszerű fehér bocskor övezi (nem éles peremű gumó), kalapján ritkán vannak pikkelyek és szaga idős korban édeskés.",
       notes: "A teljesen fehér színű változata (var. alba) könnyen összetéveszthető a fehér galócával (Amanita verna)."
+    },
+    fr: {
+      description: "Un champignon ectomycorhizien des forêts de conifères et de feuillus. Il est fréquent depuis la Méditerranée jusqu'aux Hébrides et au sud de la Scandinavie, et vers l'est à travers l'Europe centrale jusqu'à la Biélorussie et l'Estonie. Il est également signalé dans le Caucase, en Corée, au Japon, aux îles Canaries, en Australie et en Afrique du Sud.",
+      cap: "Le chapeau mesure habituellement 4–10 cm de largeur, et il peut être aussi petit que 3 cm ou, chez la forme blanche, aussi large que 12 cm. Il est jaune citron pâle, vert-jaune, grisâtre ou blanchâtre, toujours dans une teinte claire. Une forme blanche est dépourvue de pigment jaune et peut pousser parmi les sporophores jaunes. Les jeunes chapeaux sont arrondis ou ovoïdes, puis convexes, et finalement étalés, la marge restant rabattue, lisse et non striée. La surface est grasse et brillante par temps humide. Des plaques écailleuses épaisses de voile, blanches, crème, grises ou brunâtres, reposent habituellement sur le chapeau et sont souvent plus denses vers le centre. Elles peuvent être délavées par la pluie, ou manquer complètement.",
+      hymenium: "Les lames sont libres, serrées, et larges d'environ 6–12 mm. Elles sont blanches, parfois avec une nuance jaune.",
+      stipe: "Le pied mesure 4–15 cm de long et 1–2 cm d'épaisseur, blanchâtre à jaune pâle, lisse ou finement floconneux, et creux à maturité. Un anneau membraneux pend du haut du pied. Il est blanc à jaunâtre et persistant, et sa face supérieure peut être lisse ou finement striée. La base est un bulbe abrupt dans une volve en coupe qui reste adhérente et se termine par un rebord net ou une gouttière, plutôt que de s'ouvrir en un sac libre.",
+      flesh: "La chair est blanche, molle et cotonneuse dans le pied, et elle ne change pas de couleur à la coupe. Elle sent la pomme de terre crue ou les germes de pomme de terre, et elle peut aussi sentir la terre, le radis ou le colza. Les sporophores plus âgés peuvent avoir peu d'odeur. La saveur est désagréable, du même type que la pomme de terre crue.",
+      sporePrint: "Blanche. Les spores sont lisses, incolores et amyloïdes, globuleuses à largement ellipsoïdes. Les spores presque sphériques mesurent environ 6,5–10 µm. Les mesures des spores ellipsoïdes sont d'environ 7,5–11 × 7–9 µm, et les spores rondes sont également données pour 8–10 × 7–8 µm.",
+      habitat: "Les sporophores apparaissent principalement d'août à novembre, et en Europe centrale ils peuvent débuter en juin. En Grande-Bretagne et en Irlande, la saison s'étend d'août à novembre. Il pousse avec les conifères et avec les feuillus. En Europe centrale, le partenaire habituel est l'épicéa, puis le hêtre, et également le pin, le chêne et le bouleau, sur un sol acide, pauvre en bases et pauvre en nutriments qui reste modérément humide. En Grande-Bretagne et en Irlande, il est particulièrement fréquent avec le hêtre sur sol alcalin ou neutre, et moins souvent là où le terrain est fortement acide.",
+      uses: "Les sporophores crus sont légèrement toxiques. Le composé habituellement signalé chez eux est la bufoténine, dont certaines sources indiquent que la chaleur la détruit, et une faible concentration d'alpha-amanitine a également été signalée. L'odeur et la saveur sont désagréables, et le sporophore se confond facilement avec des amanites mortelles, de sorte qu'il n'est pas consommé.",
+      confusion: "L'amanite phalloïde (Amanita phalloides) a une volve libre et lobée, ainsi qu'un chapeau radialement fibrilleux qui est généralement dépourvu d'épaisses plaques de voile. Ses couleurs vont du blanc à l'olive et sont dépourvues de nuance jaune, et les sporophores mûrs ont une odeur sucrée. L'amanite vireuse (Amanita virosa) et l'amanite printanière (Amanita verna) possèdent également une volve libre en forme de sac. L'amanite vireuse conserve rarement des plaques de voile à maturité, son chapeau reste quelque peu en dôme, et son anneau est mince et inséré haut sur le pied. L'amanite jonquille (Amanita gemmata) a un chapeau d'un jaune plus soutenu avec une marge striée, des plaques de voile blanches plus minces et un anneau qui disparaît rapidement, et elle est dépourvue de l'odeur de pomme de terre crue. L'amanite solitaire (Amanita strobiliformis) est plus grande, avec un chapeau blanc à ocre, d'épais restes de voile frangés et un anneau qui se déchire en flocons, et elle est également dépourvue de cette odeur.",
+      notes: "Les amanites jaune pâle de l'est de l'Amérique du Nord qui ont été répertoriées sous ce nom sont d'autres espèces, et les mesures données ici concernent les sporophores européens."
     }
     },
     sources: {
@@ -41764,23 +41765,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Amanite_citrine"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/3673"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -41803,6 +41787,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Citromgal%C3%B3ca"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Amanite_citrine"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/3673"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -41916,9 +41917,9 @@ export const CATALOG = [
       ru: "рядовка тигровая",
       uk: "рядовка тигриста",
       pl: "gąska tygrysia",
-      fr: "tricholome panthère",
       it: "tricoloma pardino",
-      hu: "párducpereszke"
+      hu: "párducpereszke",
+      fr: "tricholome panthère"
     },
     names: {
       en: [
@@ -41934,9 +41935,9 @@ export const CATALOG = [
       ru: ["рядовка леопардовая","рядовка ядовитая"],
       uk: ["рядовка отруйна"],
       pl: ["gąska tygrysowata"],
-      fr: ["tricholome tigré"],
       it: ["tricoloma tigrato"],
-      hu: ["izzadó pereszke"]
+      hu: ["izzadó pereszke"],
+      fr: ["tricholome tigré"]
     },
     text: {
       tr: {
@@ -42212,18 +42213,6 @@ export const CATALOG = [
       confusion: "Gąska ziemistoblaszkowa (Tricholoma terreum) jest znacznie mniejsza, ma cienki miąższ, łamliwy trzon, szare blaszki i nie wydziela zapachu mąki. Gąska pieprzna (Tricholoma sciodes) ma ostry, pieprzny smak.",
       notes: "Zaliczana do podrodzaju Pardinicutis, grupującego szarawe gąski o wełnistych łuseczkach."
     },
-    fr: {
-      description: "Un champignon ectomycorhizien toxique sévère des forêts montagnardes de hêtres et de conifères sur sols calcaires. Présent dans les régions montagneuses d'Europe, d'Asie et d'Amérique du Nord.",
-      cap: "Le chapeau mesure 6–15 cm de largeur, très robuste et charnu, hémisphérique puis convexe à étalé et bosselé. Il est gris argenté, gris perle ou gris souris, entièrement recouvert d'écailles concentriques régulières brun noirâtre rappelant le pelage d'un félin.",
-      hymenium: "Les lames sont serrées, échancrées, blanchâtres avec souvent des reflets verdâtres ou jaunâtres, exsudant parfois de petites gouttelettes translucides par temps humide.",
-      stipe: "Le pied mesure 5–12 cm de hauteur et 2–4 cm d'épaisseur, trapu, plein, blanc à blanc grisâtre, renflé ou en massue à la base.",
-      flesh: "La chair est blanche, très ferme et compacte. L'odeur est nettement farineuse et agréable ; la saveur est douce et noisetée.",
-      sporePrint: "Blanche. Les spores sont ellipsoïdes à ovoïdes, lisses, inamyloïdes, mesurant environ 8–10 × 6–7 µm.",
-      habitat: "Les sporophores apparaissent d'août à octobre dans les forêts d'épicéas, de sapins et de hêtres des zones de moyenne et haute montagne, sur sols strictement calcaires.",
-      uses: "Ce champignon est dangereusement toxique. Il provoque une intoxication gastro-intestinale aiguë très violente avec douleurs gastriques intenses, vomissements incoercibles et déshydratation sévère.",
-      confusion: "Le tricholome terreux ou petit gris (Tricholoma terreum) est un comestible commun beaucoup plus petit, grêle, à chair mince sans odeur de farine. Le tricholome prétentieux (Tricholoma portentosum) a un chapeau fibrilleux gris-jaune lisse sans écailles foncées.",
-      notes: "L'espèce appartient au sous-genre Pardinicutis, un groupe à chapeau gris, brun ou pâle, feutré ou squamuleux."
-    },
     it: {
       description: "Un fungo ectomicorrizico robusto e massiccio dei boschi montani calcarei di conifere (abete bianco, abete rosso) e faggio. È presente nelle catene montuose dell'Europa centrale e meridionale.",
       cap: "Il cappello misura 5–15 cm di diametro (talvolta fino a 20 cm). È molto carnoso, sodo, emisferico poi convesso con margine a lungo involuto, di colore grigio argenteo o grigio perla, fittamente cosparso da squame concentriche brunastre o grigio-ardesia disposte come la pelliccia di una pantera o di una tigre.",
@@ -42247,6 +42236,18 @@ export const CATALOG = [
       uses: "Erősen mérgező. Súlyos, hosszan tartó gyomor- és bélrendszeri tüneteket okoz csillapíthatatlan hányással, hasmenéssel és kiszáradással. A tünetek 1–2 órán belül jelentkeznek.",
       confusion: "A fenyő-pereszke (Tricholoma terreum) ehető, de jóval kisebb termetű, vékony húsú, és kalapja sötétszürke nemezes, nem pikkelyes. Az ehető pereszkékkel való összetévesztése veszélyes.",
       notes: "A mérgezés lefolyása rendkívül kínzó, és a felépülés több napot vesz igénybe."
+    },
+    fr: {
+      description: "Un grand champignon ectomycorhizien charnu des forêts de feuillus et de conifères sur sol calcaire, poussant en solitaire ou en groupes et parfois en ronds de sorcières. Il est indigène à travers toute l'Europe, où il est plus commun dans le sud et dans les montagnes, et il est signalé dans le sud-ouest de la Turquie, en Chine, au Japon et dans les régions tempérées d'Amérique du Nord.",
+      cap: "Le chapeau mesure 5–15 cm de largeur, parfois seulement 3 cm et occasionnellement jusqu'à 20 cm. Il débute hémisphérique, campanulé ou largement conique, avec la marge longtemps enroulée, et s'aplatit plus tard, souvent avec un mamelon large et surbaissé et un bord ondulé ou lobé. La couleur de fond est blanchâtre, gris argenté, gris-crème ou ocre pâle. Des écailles gris foncé, gris-brun, sépia ou noirâtres sont disposées en cercles concentriques, plus grandes vers le centre et plus fines vers la marge. La surface est sèche, et la peau est difficile à peler. Elle peut déborder un peu au-delà des lames. La cuticule est un cutis évoluant en trichoderme d'hyphes cylindriques de 2–9 µm de large, avec des extrémités clavées atteignant jusqu'à 11 µm de large, regroupées en faisceaux dans les écailles. Le pigment est à la fois vacuolaire et incrustant, et l'incrustation est plus forte vers la subcutis. Les anses d'anastomose sont présentes.",
+      hymenium: "Les lames sont échancrées, souvent avec une petite dent, bien que certaines descriptions les qualifient de libres. L'espacement va d'espacé à serré et est le plus souvent modérément serré. Elles sont épaisses et larges jusqu'à environ 12 mm, avec de fréquentes lamellules. Elles sont blanches au début, puis crème ou gris terne, parfois avec une nuance jaune, olive ou verdâtre, et l'arête peut devenir dentelée. Par temps humide, l'arête exsude souvent des gouttelettes aqueuses limpides, tout comme le sommet du pied. Les basides sont cylindriques à clavées, pour la plupart tétrasporiques et parfois bisporiques, mesurant environ 39–50 × 8–9,6 µm. Les poils sur l'arête des lames sont clairsemés et ressemblent à des basidioles ou sont difformes. Les cystides sur la face des lames sont absentes.",
+      stipe: "Le pied mesure 3–12 cm de hauteur, occasionnellement jusqu'à 15 cm, et 1,5–4 cm d'épaisseur. Il est plein et trapu, cylindrique, clavé ou bulbeux, et parfois fusiforme, souvent environ deux fois plus épais à la base qu'au sommet. Il n'y a pas d'anneau. La surface est blanche, crème, gris pâle ou brun pâle, finement fibrilleuse à veloutée, et parfois finement pubescente ou faiblement ponctuée. Le sommet peut porter des gouttelettes aqueuses dans le jeune âge. La base se tache d'ocre, de brun sale ou de jaune aux endroits meurtris ou avec l'âge, et elle peut être légèrement brun rosâtre.",
+      flesh: "La chair est épaisse et ferme. Elle est blanchâtre, grisâtre sous la cuticule du chapeau, et jaunâtre à rouille dans le bas du pied, où elle est parfois rose. Elle ne change pas de couleur à la coupe, en dehors de cette base. L'odeur est farineuse, comme de la farine fraîche, et chez certains sporophores elle est herbeuse, terreuse ou spermatique, faible au début puis désagréable. La saveur est douce et farineuse. Sous la lumière ultraviolette, la chair présente une fluorescence violet lilas.",
+      sporePrint: "Blanche. Les spores sont ellipsoïdes à ovales, occasionnellement presque subglobuleuses, lisses et hyalines, avec un appendice hilaire prononcé, inamyloïdes, mesurant 7,5–10 × 5–7 µm, avec des mentions atteignant 12 × 8 µm. Le rapport longueur sur largeur est d'environ 1,2–1,7, couramment proche de 1,3–1,5.",
+      habitat: "La fructification s'étend d'août à octobre, et des mentions vont de mai jusqu'en novembre. Il est ectomycorhizien sur sol calcaire ou par ailleurs alcalin, en solitaire, en groupes ou en ronds de sorcières, avec le hêtre, le sapin, l'épicéa et le chêne, plus souvent à une certaine altitude. Dans le Jura, il peut être abondant. Il n'a pas été mentionné aux Pays-Bas ni dans les îles Britanniques. En Slovaquie, il fructifie d'août à octobre dans les forêts de feuillus et mixtes, sous le hêtre et parfois le chêne, l'épicéa ou le sapin. En République tchèque, il est rare, principalement avec le hêtre et le sapin. En Pologne, il n'est fréquent que sur sol calcaire ou alcalin, sous le hêtre ainsi que sous l'épicéa et le sapin, en été et en automne. En Allemagne, il est dispersé, principalement dans le sud et dans le sud du Mecklembourg. En Amérique du Nord, le nom est utilisé pour un champignon septentrional et montagnard associé aux conifères, et également pour un champignon côtier de Californie poussant avec le tanoak, l'arbousier d'Amérique et le chêne vert de Californie, qui pourrait ne pas appartenir à la même espèce. Les sporophores sous ce nom côtier apparaissent également en hiver. Certains signalements montagnards des montagnes de l'Ouest peuvent appartenir à Tricholoma smithii.",
+      uses: "Consommé même en petite quantité, il provoque une gastro-entérite sévère. Des nausées, des vertiges, des vomissements, de la diarrhée, des crampes abdominales, des sueurs et de l'anxiété débutent en l'espace d'environ une demi-heure à deux heures. L'affection aiguë dure souvent de deux à six heures, et le rétablissement prend généralement quatre à six jours. Des crampes dans les mollets et une perturbation de la fonction hépatique ont été rapportées, bien qu'une lésion durable ne soit pas le résultat habituel. Lors d'un repas partagé, deux chapeaux ont rendu sept personnes et un chat gravement malades. La toxine est inconnue. Elle enflamme la muqueuse de l'estomac et de l'intestin. Le décès par collapsus circulatoire et déshydratation n'est pas exclu chez les enfants et les personnes âgées. En raison de sa grande taille, de sa chair ferme et de son odeur agréable, il est facilement confondu avec des espèces comestibles, et dans le Jura suisse il a été une cause fréquente d'empoisonnement par les champignons.",
+      confusion: "Le petit-gris (Tricholoma terreum) est plus petit, plus sombre et moins robuste, dépourvu d'odeur farineuse, et a des spores plus petites, mesurant 5–7,5 × 4–5 µm. Le tricholome argenté (Tricholoma argyraceum) possède des écailles plus fines, et ses lames ainsi que les parties meurtries jaunissent avec l'âge. Il fructifie à des altitudes plus basses. Le tricholome jaunissant (Tricholoma scalpturatum) est plus petit et plus délicat, et le chapeau est fibrilleux plutôt que couvert de grandes écailles. Le tricholome à squames noires (Tricholoma atrosquamosum) est plus petit et plus sombre, et dégage une odeur poivrée. Le tricholome à marge roussissante (Tricholoma orirubens) a de fines écailles sombres, des lames rosâtres et une chair cassante, et il est généralement plus petit. Le tricholome couleur de souris (Tricholoma myomyces) est plus petit, les jeunes sporophores portent un voile partiel fibreux et mince, et les spores mesurent 5–6 × 3,5–4 µm. Le tricholome prétentieux (Tricholoma portentosum) est d'une taille similaire, mais le chapeau est d'un gris uniforme et n'est jamais écailleux. Le tricholome noir (Tricholoma nigrum), ainsi que les formes striées du tricholome vergeté (Tricholoma virgatum), ont des chapeaux striés plutôt que tachetés. Une forme pâle peut être presque blanche avec des écailles pâles et peut être confondue avec le tricholome resplendissant (Tricholoma resplendens), qui ne possède pas ces écailles. Le tricholome vénéneux (Tricholoma venenatum) est plus chamois et possède des anses d'anastomose. Le tricholome du lac Huron (Tricholoma huronense) a des lames plus étroites, des gouttes de liquide rougeâtre sur les lames et le pied, et un pied écailleux gris cendré. Le tricholome filamenteux (Tricholoma filamentosum) est plus petit et plus pâle, avec un chapeau soyeux fibrilleux plutôt que des écailles contrastées, et des anses d'anastomose y sont également présentes. Le tricholome de Bresadola (Tricholoma bresadolanum) est un peu plus petit et moins écailleux, presque inodore, avec une saveur âcre, et pousse sous les feuillus. Le tricholome renflé (Tricholoma tumidum) est plus brun et a des spores plus petites. Les autres espèces grises du genre sont dépourvues d'anses d'anastomose.",
+      notes: "L'espèce est considérée comme en danger critique d'extinction (Critically Endangered) en République tchèque et comme vulnérable (Vulnerable) en Allemagne."
     }
     },
     sources: {
@@ -42583,23 +42584,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Tricholome_panth%C3%A8re"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/451438"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -42622,6 +42606,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/P%C3%A1rducpereszke"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Tricholome_panth%C3%A8re"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/451438"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -42729,9 +42730,9 @@ export const CATALOG = [
       ru: "головач гигантский",
       uk: "кальвація велетенська",
       pl: "czasznica olbrzymia",
-      fr: "vesse-de-loup géante",
       it: "vescia gigante",
-      hu: "óriás pöfeteg"
+      hu: "óriás pöfeteg",
+      fr: "vesse-de-loup géante"
     },
     names: {
       sk: ["vatovec"],
@@ -43017,18 +43018,6 @@ export const CATALOG = [
       confusion: "Czasznica workowata (Calvatia utriformis) jest znacznie mniejsza (do 15 cm), ma wyraźną płonną podstawę przypominającą miskę i spękaną na poletka powierzchnię.",
       notes: "Jeden duży owocnik produkuje biliony zarodników (szacunkowo ponad 7 bilionów). Dawniej w Polsce gatunek ściśle chroniony (ochrona zdjęta w 2014 r.)."
     },
-    fr: {
-      description: "Un champignon gastéromycète saprotrophe spectaculaire par ses dimensions colossales. Présent dans les zones tempérées d'Europe, d'Amérique du Nord et d'Asie.",
-      cap: "Le sporophore mesure 20–80 cm de diamètre (atteignant parfois plus d'un mètre) et peut peser de 5 à plus de 20 kg. Il est sphérique ou ovoïde, blanc pur et lisse comme du cuir blanc dans la jeunesse, devenant jaunâtre puis brun olivâtre en séchant.",
-      hymenium: "La gleba interne remplit tout le sporophore. Elle est blanche et ferme comme du fromage frais au début, puis jaunit, verdit et se désagrège en une masse pulvérulente gigantesque de spores brun olive.",
-      stipe: "Le pied est nul ; le sporophore est fixé au sol par un petit cordon mycélien racinaire blanc.",
-      flesh: "La chair est homogène, dense et d'un blanc pur immaculé dans le jeune âge. L'odeur est agréable et fongique ; la saveur est douce.",
-      sporePrint: "Brun olive à brun tabac. Les spores sont globuleuses, finement verruqueuses, mesurant environ 3,5–5 µm de diamètre.",
-      habitat: "Les sporophores apparaissent de juillet à octobre dans les prairies riches, les pâturages fertilisés, les vergers, les parcs et les clairières herbeuses.",
-      uses: "C'est un bon comestible lorsqu'il est jeune et que sa chair est d'un blanc parfait. On le découpe couramment en tranches épaisses que l'on fait dorer à la poêle comme des escalopes panées.",
-      confusion: "La vesse-de-loup en outre (Bovistella utriformis) est beaucoup plus petite, mesurant environ 6–15 cm de largeur, en forme de poire écrasée ou de pilon, avec une surface se craquelant en mosaïque et une base stérile. La vesse-de-loup en forme de pilon (Lycoperdon excipuliforme) possède une surface floconneuse ou verruqueuse et une base stipitée stérile bien développée. Calvatia booniana, dans l'ouest de l'Amérique du Nord, peut dépasser 60 cm mais sa surface se déchire en grandes plaques polygonales. Les espèces de bovistes (Bovista) restent bien plus petites. Le scléroderme vulgaire (Scleroderma citrinum) est beaucoup plus petit, très dur, avec une gleba devenant rapidement violet noirâtre foncé marbrée de blanc. Une jeune amanite (Amanita) à l'état d'œuf présente une ébauche de pied et de lames à la coupe verticale, et l'œuf du satyre puant (Phallus impudicus) montre une couche interne gélatineuse.",
-      notes: "Un seul grand sporophore produit des spores par milliers de milliards (plus de sept billions selon un décompte)."
-    },
     it: {
       description: "Un enorme fungo gasteromicete saprotrofo dei prati pingui, pascoli montani, giardini ed erbai ricchi di sostanze azotate. È diffuso nelle regioni temperate di tutto il mondo.",
       cap: "Il corpo fruttifero è subsferico o globoso irregolare, privo di gambo, raggiungendo dimensioni colossali da 20 a 60 cm di diametro (talvolta oltre 1 metro) e un peso da 2 a 10–15 kg. La superficie esterna è liscia e bianca come cuoio da giovane, screpolandosi in frammenti giallastri poi bruno-ocracei con la maturità.",
@@ -43052,6 +43041,18 @@ export const CATALOG = [
       uses: "Kiváló csemegegomba, amíg a belseje teljesen tiszta hófehér. Szeletekre vágva rántva, bundázva vagy hirtelen átsütve a legfinomabb. Ha a hús sárgulni kezd, étkezésre már alkalmatlan.",
       confusion: "A pikkelyes pöfeteg (Bovistella utriformis) sokkal kisebb termetű (6–15 cm), körte vagy mozsártörő alakú, és meddő tönkrésszel rendelkezik. A hosszúszárú pöfeteg (Lycoperdon excipuliforme) felülete tüskés vagy szemölcsös, és jól elkülönülő tönkszerű alapja van. Észak-Amerika nyugati részén a Calvatia booniana mérete meghaladhatja a 60 cm-t, de felülete nagy sokszögletű pikkelyekre töredezik. A hasadt pöfetegek (Bovista fajok) jóval kisebbek maradnak. A mérgező rőt áltrifla (Scleroderma citrinum) sokkal kisebb, kemény falú, belseje fiatalon sötét lilásfekete, fehéres márványozottsággal. A galócák (Amanita fajok) fiatal zárt tojásának kettévágásakor már felismerhetők a lemezek és a tönk körvonalai. A szömörcsögök zárt tojásában vastag kocsonyás réteg látható.",
       notes: "A népi gyógyászatban az érett spóratömeget sebkötözésre és vérzéscsillapításra használták."
+    },
+    fr: {
+      description: "Une très grande vesse-de-loup blanche et ronde des zones herbeuses riches en nutriments et des bois clairs, indigène à travers les régions tempérées du monde. Elle est commune en Grande-Bretagne et en Irlande et largement répandue à travers l'Europe centrale et orientale, en plaine comme sur les collines. Les sporophores poussent en solitaire, en petits groupes ou en ronds de sorcières.",
+      cap: "Le sporophore est approximativement sphérique, aplati ou oblong, fixé par un fin cordon de mycélium à la base. Il mesure couramment 10–50 cm de largeur, souvent 20–30 cm, les grands spécimens atteignant 70–80 cm ou plus, et des sporophores exceptionnels dépassent 100 cm et 150 cm. Les poids enregistrés atteignent 10–25 kg. La paroi externe (exopéridium) est lisse, sèche, et blanche ou crème, feutrée ou coriace à l'état frais, et se détache en écailles ou se déchire en morceaux pour laisser voir la paroi interne mince et papyracée. La paroi interne (endopéridium) est olive pâle, jaunâtre ou brun ocre, et se fragmente depuis le sommet pour mettre à nu la gleba poudreuse.",
+      hymenium: "Il n'y a ni lames ni pores. La gleba remplit l'intérieur. Elle est d'abord ferme et blanche, puis devient jaune verdâtre, olive, et finalement une masse sèche et poudreuse de spores brun olive foncé et de capillitium. Il n'y a pas de base stérile semblable à un pied, ou seulement un petit coussinet spongieux.",
+      stipe: "Il n'y a pas de pied. Le sporophore repose directement sur le sol, fixé par un cordon mycélien étroit en forme de racine.",
+      flesh: "La chair (gleba) est blanc pur, ferme et uniforme dans le jeune âge, avec une odeur et une saveur douces et agréables. En mûrissant, elle devient aqueuse, vert jaunâtre et molle, puis brun olive et poudreuse, avec une odeur âcre, désagréable, d'urine ou de terre. Un sporophore peut produire environ 7 à 160 billions de spores.",
+      sporePrint: "Brun olive. Les spores sont globuleuses, de 3,5–5,5 µm de diamètre, lisses ou très finement verruqueuses sous le microscope, avec une petite gouttelette d'huile et un court pédicelle ou aucun pédicelle. Le capillitium se compose de filaments ramifiés brunâtres de 2,5–6 µm de large, avec de petites perforations rondes.",
+      habitat: "Il fructifie de juin à octobre, principalement de la fin de l'été jusqu'à l'automne. Il pousse dans les zones herbeuses riches en nutriments : prairies, pâturages, parcs, pelouses, vergers, bords de routes, cimetières, jardins, ainsi que dans les bois clairs de feuillus et leurs lisières, souvent sur sols crayeux ou calcaires. Il apparaît occasionnellement dans les champs cultivés.",
+      uses: "Un bon champignon comestible lorsque la chair est blanc pur et ferme sur toute son étendue. Il doit être coupé en tranches et cuit, souvent poêlé dans le beurre ou pané à la manière d'une escalope viennoise. Dès que la gleba présente une décoloration jaunâtre ou verdâtre, elle devient amère, désagréable, et peut provoquer des troubles digestifs. En médecine populaire traditionnelle, la masse de spores séchées était utilisée comme hémostatique pour arrêter les saignements des blessures, et des morceaux de la paroi externe étaient brûlés pour engourdir les abeilles.",
+      confusion: "La vesse-de-loup en outre (Bovistella utriformis) est beaucoup plus petite, mesurant environ 6–15 cm de largeur, et a la forme d'une poire écrasée ou d'un pilon. Sa peau externe est verruqueuse ou se craquelle en mosaïque, et elle possède une base stérile. La vesse-de-loup en forme de pilon (Lycoperdon excipuliforme) peut être assez grande. Sa surface est verruqueuse ou floconneuse plutôt que lisse, et elle possède une base stérile semblable à un pied. La calvatie de Boon (Calvatia booniana), dans l'ouest de l'Amérique du Nord, peut dépasser 60 cm, mais la surface se brise en grandes écailles polygonales. Les espèces de bovistes (Bovista) restent beaucoup plus petites, et la peau externe n'est pas toujours lisse. Le scléroderme vulgaire (Scleroderma citrinum) est beaucoup plus petit et plus ferme, et l'intérieur vire au noir violacé foncé, avec des marbrures blanches, alors que le sporophore est encore jeune. Une jeune amanite (Amanita) montre des lames et un pied lors d'une coupe verticale. Un œuf non ouvert de satyre puant (Phallus impudicus) présente une couche gélatineuse à l'intérieur. Ce champignon a un intérieur blanc uniforme et aucune ébauche de lames.",
+      notes: "Une évaluation de 2019 classe l'espèce dans la catégorie préoccupation mineure (Least Concern), avec une population stable."
     }
     },
     sources: {
@@ -43408,23 +43409,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Vesse-de-loup_g%C3%A9ante"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/4861"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -43447,6 +43431,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/%C3%93ri%C3%A1sp%C3%B6feteg"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Vesse-de-loup_g%C3%A9ante"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/4861"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -43558,9 +43559,9 @@ export const CATALOG = [
       ru: "говорушка дымчатая",
       uk: "говорушка димчаста",
       pl: "lejkówka szarawa",
-      fr: "clitocybe nébuleux",
       it: "fungo delle nebbie",
-      hu: "szürke tölcsérgomba"
+      hu: "szürke tölcsérgomba",
+      fr: "clitocybe nébuleux"
     },
     names: {
       en: ["clouded agaric", "cloudy clitocybe", "cloud funnel", "clouded funnel cap"],
@@ -43569,9 +43570,9 @@ export const CATALOG = [
       ru: ["говорушка серая"],
       uk: ["говорушка сіра"],
       pl: ["lejkówka mglista"],
-      fr: ["gris de sapin"],
       it: ["nebbino","ordinato"],
-      hu: ["szürke tölcsérpereszke"]
+      hu: ["szürke tölcsérpereszke"],
+      fr: ["gris de sapin"]
     },
     text: {
       tr: {
@@ -43846,18 +43847,6 @@ export const CATALOG = [
       confusion: "Trująca dzwonkówka trująca (Entoloma sinuatum) ma blaszki wycięte (niezbiegające), z wiekiem łososioworóżowe, i różowy wysyp zarodników.",
       notes: "Istnieje czysto biała forma albinotyczna."
     },
-    fr: {
-      description: "Un grand champignon saprotrophe tardif très abondant sur les litières épaisses de feuilles et d'aiguilles. Répandu dans tout l'hémisphère nord.",
-      cap: "Le chapeau mesure 6–20 cm de largeur, d'abord convexe à marge fortement enroulée, puis étalé et déprimé. Il est gris cendré, gris brunâtre pâle ou crème brumeux, recouvert dans le jeune âge d'une fine pruine blanche blanchâtre facilement essuyable.",
-      hymenium: "Les lames sont serrées, étroites, légèrement décurrentes, crème pâle à blanc jaunâtre, se détachant facilement de la chair du chapeau.",
-      stipe: "Le pied mesure 6–12 cm de hauteur et 1,5–3,5 cm d'épaisseur, robuste, ferme, souvent renflé ou en massue à la base où s'agglomère la litière forestière.",
-      flesh: "La chair est blanche, très épaisse et compacte. L'odeur est puissante, pénétrante et caractéristique, à la fois empyreumatique, fruitée et musquée ; la saveur est douce avec un arrière-goût écœurant.",
-      sporePrint: "Crème jaunâtre à ocre très pâle. Les spores sont ellipsoïdes, lisses, mesurant environ 6–8 × 3,5–5 µm.",
-      habitat: "Les sporophores apparaissent en abondance de septembre à décembre, souvent en cercles de sorcières ou longues rangées, dans les forêts de feuillus et de conifères.",
-      uses: "Traditionnellement consommé dans certaines régions, il est aujourd'hui classé comme toxique ou très suspect en raison de troubles digestifs sévères chez de nombreux consommateurs. Il contient de la nébularine, une substance cytotoxique.",
-      confusion: "L'entolome livide (Entoloma sinuatum) est très toxique et possède des lames échancrées devenant rose saumon à maturité avec une odeur de farine fraîche. Le meunier (Clitopilus prunulus) a des lames décurrentes roses et une chair très fragile.",
-      notes: "Une forme blanche possède un chapeau et un pied blanc de lait. Les récoltes d'Amérique du Nord pourraient appartenir à un taxon distinct."
-    },
     it: {
       description: "Un grande fungo saprotrofo della lettiera di foglie e aghi nei boschi di latifoglie e conifere. È molto abbondante in tutta Europa nel tardo autunno.",
       cap: "Il cappello misura solitamente 5–20 cm di diametro (talvolta fino a 25 cm). È molto carnoso, convesso poi appianato e debolmente depresso al centro, di colore grigio cenere, grigio-bruno o fuligginoso, ricoperto da una pruina biancastra nei giovani che scompare con l'età.",
@@ -43881,6 +43870,18 @@ export const CATALOG = [
       uses: "Feltételesen ehető gomba. Nyersen mérgező, és egyes embereknél alapos főzés után is súlyos gyomor- és bélpanaszokat válthat ki nehezen emészthető anyagai és nebularin-tartalma miatt. Csak alapos előfőzés (a főzővíz leöntése) után, egyéni érzékenységet figyelembe véve fogyasztható.",
       confusion: "A mérgező nagy döggomba (Entoloma sinuatum) lemezei lazacrózsaszínűek, tönk előtt kiöblösödnek, és szaga lisztes. A májusi pereszke (Calocybe gambosa) tavasszal terem.",
       notes: "A gomba nebularint termel, egy purin-nukleozid típusú antibiotikumot, amely gátolja a sejtek szaporodását."
+    },
+    fr: {
+      description: "Un grand agaric saprotrophe robuste de la litière de feuilles et d'aiguilles, largement répandu à travers l'Europe tempérée, l'Asie du Nord et l'Amérique du Nord. Il est commun en Grande-Bretagne et en Irlande ainsi que dans toute l'Europe centrale. Il fructifie tard dans la saison, de la fin de l'été jusqu'aux premières fortes gelées, souvent en grandes troupes, en arcs ou en ronds de sorcières massifs qui peuvent atteindre plusieurs dizaines de mètres de diamètre.",
+      cap: "Le chapeau mesure 5–20 cm de largeur, occasionnellement jusqu'à 25 cm, convexe avec une marge enroulée dans le jeune âge, devenant largement convexe à plat, et souvent légèrement déprimé au centre avec l'âge, rarement avec un mamelon large et surbaissé. La surface est sèche, lisse, et couverte au début d'une fine pruine grisâtre ou blanchâtre qui peut s'essuyer. La couleur est gris-brun, gris cendré, gris fumée ou ocre brunâtre, habituellement plus sombre au centre et plus claire vers la marge, se décolorant par temps sec. La marge reste enroulée pendant longtemps et est parfois ondulée.",
+      hymenium: "Les lames sont adnées à brièvement décurrentes, serrées, larges de 4–8 mm, facilement séparables de la chair du chapeau. Elles sont blanches à crème au début, devenant jaunâtre pâle, crème ocre ou chamois à maturité, avec une arête entière ou légèrement ondulée. Les basides sont tétrasporiques et bouclées. Les cystides sont absentes.",
+      stipe: "Le pied mesure 6–12 cm de long, occasionnellement jusqu'à 15 cm, et 1,5–4 cm d'épaisseur, clavé ou nettement renflé à la base (jusqu'à 5 cm ou plus), s'atténuant vers le haut. La surface est blanchâtre, blanc grisâtre ou brun-gris pâle, fibrilleuse-striée, avec un mycélium cotonneux blanc à la base qui agglomère les feuilles et les aiguilles tombées en un feutrage dense. L'intérieur est plein et ferme au début, devenant spongieux ou partiellement creux avec l'âge.",
+      flesh: "La chair est épaisse, ferme et blanche dans le chapeau et le pied, restant blanche à la coupe. L'odeur est forte, distinctive et pénétrante, souvent décrite comme aigre-douceâtre, cyanique, aromatique, rappelant la farine rance ou des fleurs fanées, et devient plus forte et désagréable avec l'âge ou lors de la cuisson. La saveur est douce à désagréable, légèrement douceâtre ou poivrée.",
+      sporePrint: "Crème pâle à crème jaunâtre. Les spores sont lisses, ellipsoïdes à oblongues-ellipsoïdes, mesurant 6–8 × 3,5–5 µm, inamyloïdes et hyalines.",
+      habitat: "Il fructifie de septembre à décembre, souvent après les premières pluies d'automne et se prolongeant en novembre et décembre. Il pousse sur l'humus riche et l'épaisse litière de feuilles ou d'aiguilles dans les bois de feuillus (hêtre, chêne), les forêts de conifères (épicéa, pin, sapin) et les bois mixtes, ainsi que le long des haies, dans les parcs et dans les jardins. C'est un puissant décomposeur de litière.",
+      uses: "Autrefois largement ramassé et consommé dans certaines régions d'Europe, mais désormais considéré comme suspect ou toxique par de nombreuses autorités. Il provoque des troubles gastro-intestinaux (nausées, vomissements, diarrhée) chez de nombreuses personnes, même après cuisson, bien que certaines personnes le consomment sans effet néfaste. Il contient de la nébularine, un antimétabolite purique ayant des propriétés antibactériennes et antitumorales qui est toxique pour les cellules des mammifères. La cuisson réduit la toxicité mais ne l'élimine pas pour les personnes sensibles, et sa consommation n'est plus recommandée.",
+      confusion: "L'entolome livide (Entoloma sinuatum) a des lames échancrées ou sinuées plutôt que décurrentes. Elles sont jaunâtres puis rose saumon, la sporée est rose, l'odeur est farineuse, et il fructifie plus tôt, principalement dans les bois chauds de feuillus sur sol calcaire. Le meunier (Clitopilus prunulus) a également des lames décurrentes, mais la chair est très fragile, l'odeur est nettement de farine, et la sporée est rose. Le clitocybe des feuilles (Clitocybe phyllophila) est toxique et blanchâtre, et l'odeur forte et douceâtre sépare cette espèce de lui. Plusieurs espèces plus petites et blanchâtres de clitocybes (Clitocybe), dont le chapeau mesure moins d'environ 10 cm, sont violemment toxiques, de sorte qu'un chapeau décoloré blanchâtre est celui qui se confond le plus facilement avec elles. Le clitocybe à pied en massue (Ampulloclitocybe clavipes) est plus petit, habituellement avec un chapeau gris plus sombre, et le pied reste fortement clavé ou conique lorsque le sporophore est mûr. Le clitocybe d'Alexandre (Clitocybe alexandri) a un chapeau quelque peu plus sombre, pousse à des altitudes plus élevées, et préfère les sols alcalins. Le clitocybe géotrope (Infundibulicybe geotropa) est plus élancé, et le chapeau mûr est fortement en entonnoir. Le pied-bleu à odeur d'iris (Lepista irina) et le tricholome faux-panaéole (Lepista panaeolus) ont des lames non décurrentes et des spores ornementées. Le tricholome faux-panaéole (Lepista panaeolus) a habituellement des taches aqueuses concentriques sur le chapeau et seulement une faible odeur farineuse. Le pied-bleu (Lepista nuda) a des lames lilas qui sont sinuées. Le pied-bleu pâle (Lepista glaucocana) est plus grand et présente des teintes lilas bleuâtre. Le tricholome de Singer (Lepista singeri), décrit de Norvège et également trouvé en Europe centrale, a des lames à insertion relevée et un chapeau quelque peu crème. Le tricholome prétentieux (Tricholoma portentosum) a des lames échancrées et un pied qui jaunit. Le tricholome à odeur de savon (Tricholoma saponaceum) a un chapeau brun olive et une odeur savonneuse et fruitée. Le leucopaxille très blanc (Leucopaxillus albissimus) est plus pâle, plus lent à pourrir, et a une sporée blanche. Le clitocybe robuste (Clitocybe robusta) a un chapeau plus franchement blanc.",
+      notes: "La volvaire parasite (Volvariella surrecta) parasite les sporophores âgés de cette espèce, produisant de petits agarics blanchâtres sur les chapeaux en décomposition. L'espèce a également été placée dans le genre Lepista sous le nom de Lepista nebularis."
     }
     },
     sources: {
@@ -44243,23 +44244,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Clitocybe_n%C3%A9buleux"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/39601"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -44282,6 +44266,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Sz%C3%BCrke_t%C3%B6lcs%C3%A9rgomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Clitocybe_n%C3%A9buleux"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/39601"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -44390,9 +44391,9 @@ export const CATALOG = [
       ru: "траметес разноцветный",
       uk: "траметес різнобарвний",
       pl: "wrośniak różnobarwny",
-      fr: "tramète versicolore",
       it: "poliporo versicolore",
-      hu: "lepketapló"
+      hu: "lepketapló",
+      fr: "tramète versicolore"
     },
     names: {
       en: ["turkeytail", "many-zoned polypore"],
@@ -44674,18 +44675,6 @@ export const CATALOG = [
       confusion: "Skórnik aksamitny (Stereum subtomentosum) oraz skórnik szorstkowłosy (Stereum hirsutum) mają gładki hymenofor bez porów. Inne gatunki wrośniaków (Trametes) nie posiadają tak jaskrawego, wielobarwnego strefowania.",
       notes: "Owocniki bywają zjadane przez larwy ciem i muchówek przystosowanych do twardych hub."
     },
-    fr: {
-      description: "Un champignon lignicole saprotrophe très commun provoquant une pourriture blanche sur bois mort. Cosmopolite et présent sur tous les continents.",
-      cap: "Les sporophores forment de minces consoles semi-circulaires étagées et imbriquées de 3–10 cm de largeur et 1–4 mm d'épaisseur. La surface supérieure est veloutée, marquée de nombreuses zones concentriques régulières aux colorations très contrastées : brun, ocre, crème, bleu-gris, noirâtre et rouille, bordée d'une marge blanche.",
-      hymenium: "La face inférieure porte de minuscules pores ronds (3 à 5 par millimètre), d'abord blancs puis crème pâle ou chamois jaunâtre.",
-      stipe: "Le pied est absent ; les consoles sont fixées directement au substrat par une base atténuée.",
-      flesh: "La chair est mince, coriace, coriace comme du cuir blanc. L'odeur est agréable et fongique.",
-      sporePrint: "Blanche. Les spores sont cylindriques à légèrement incurvées (allantoïdes), lisses, mesurant environ 5–6 × 1,5–2 µm.",
-      habitat: "Les sporophores sont visibles toute l'année en touffes denses sur les troncs morts, les branches tombées et les souches de feuillus, en particulier le hêtre, le chêne et le bouleau.",
-      uses: "Non comestible car trop coriace et fibreux. Il est très réputé en mycothérapie et médecine traditionnelle pour ses polysaccharides immunomodulateurs (PSK et PSP).",
-      confusion: "Le stérée hirsute (Stereum hirsutum) possède une face inférieure entièrement lisse sans aucun pore. Les autres espèces de Trametes sont plus épaisses ou moins vivement zonées.",
-      notes: "Les sporophores sont consommés par la teigne Nemaxera betulinella et par les diptères Polyporivora picta et Mycetophila luctuosa."
-    },
     it: {
       description: "Un fungo poliporaceo annuale saprotrofo lignicolo, agente di carie bianca del legno, che cresce a mensole fitte su tronchi morti, ceppi e rami caduti di latifoglie. È comune in tutto il mondo.",
       cap: "I carpofori crescono a mensole sottili e piatte a ventaglio o rosetta embricata, larghe 3–10 cm e spesse solo 1–3 mm. La superficie superiore è finemente vellutata e percorsa da magnifiche zone concentriche multicolori di bruno, ocra, grigio, ruggine, bluastro e nero, con margine ondulato sottile e bianco.",
@@ -44709,6 +44698,18 @@ export const CATALOG = [
       uses: "Étkezésre kemény, bőrszerű állaga miatt alkalmatlan. A modern gyógyászatban és hagyományos keleti orvoslásban az egyik legfontosabb gyógygomba: kivonatai (PSK/Krestin és PSP poliszacharid-peptidek) igazoltan immunerősítő és daganatellenes terápiát támogató hatásúak.",
       confusion: "A borostás réteggomba (Stereum hirsutum) alsó termőrétege sima (nem pórusos) és élénk sárgásnarancs színű. A bársonyos egyrétűtapló (Trametes pubescens) egységesen világos krémszínű és nem sávos.",
       notes: "Színeinek rendkívüli változatossága a pulyka farktollaira emlékeztet, innen ered népszerű angol elnevezése (turkey tail)."
+    },
+    fr: {
+      description: "Un polypore commun en console sur le bois mort, connu pour ses zones concentriques de couleurs contrastées. On le trouve à travers l'Europe, l'Asie et l'Amérique du Nord, depuis les plaines jusqu'aux montagnes, et les sporophores sont présents tout au long de l'année. Ils poussent en consoles imbriquées ou en rosettes sur les souches, les billes tombées au sol et les branches mortes de feuillus, et rarement sur les conifères.",
+      cap: "Le chapeau est semi-circulaire, en éventail ou réniforme, aplati, mesurant 2–10 cm de largeur, et mince (1–3 mm d'épaisseur, rarement jusqu'à 5 mm à la base). La surface supérieure est veloutée ou finement poilue, marquée de zones concentriques multicolores nettement délimitées de noir, gris, brun, brun rougeâtre, jaune-brun, chamois et crème, souvent avec un reflet bleuâtre ou violacé dans certaines zones. La marge est mince, ondulée, souvent lobée, et habituellement blanche ou crème. La texture est coriace, flexible et caoutchouteuse à l'état frais, devenant rigide en séchant.",
+      hymenium: "La surface porée sur la face inférieure est blanche à crème au début, devenant jaunâtre, chamois ou brun-gris pâle avec l'âge. Les pores sont petits, ronds à anguleux, au nombre de 3–5 par millimètre, avec des cloisons minces. Les tubes sont courts, longs de 1–2 mm, et blancs à crème.",
+      stipe: "Il n'y a pas de pied. La console est directement attachée au bois par une base large ou rétrécie.",
+      flesh: "La chair (contexte) est très mince (1–2 mm), coriace, fibreuse, blanche ou blanchâtre, avec une ligne sombre mince distincte séparant la couche veloutée de surface du contexte situé en dessous. L'odeur est agréable et fongique ; la saveur est douce ou légèrement amère.",
+      sporePrint: "Blanche à crème pâle. Les spores sont lisses, cylindriques à légèrement courbées (allantoïdes), mesurant 5–7 × 1,5–2,5 µm, inamyloïdes et hyalines.",
+      habitat: "Très commun sur le bois mort de feuillus, en particulier le hêtre, le bouleau, le chêne, le saule et l'aulne ; occasionnellement sur les conifères. Il provoque une pourriture blanche. Les sporophores peuvent être trouvés tout au long de l'année, avec une nouvelle croissance principalement en été et en automne.",
+      uses: "Non comestible en raison de sa texture coriace et caoutchouteuse. C'est l'un des champignons médicinaux les plus étudiés, en particulier en Asie de l'Est. Le polysaccharide-K (PSK, Krestin) et le peptide polysaccharidique (PSP) extraits de cultures de mycélium ont été approuvés et largement prescrits au Japon et en Chine comme thérapies adjuvantes contre le cancer, en association avec la chimiothérapie et la radiothérapie. Il montre également des propriétés immunomodulatrices, antivirales et antioxydantes.",
+      confusion: "Le stéréum ostrea (Stereum ostrea), le stéréum hirsute (Stereum hirsutum), le stéréum subtomenteux (Stereum subtomentosum) et d'autres espèces de stéréums (Stereum) possèdent un hyménium lisse et aucun pore. La tramète hirsute (Trametes hirsuta) est plus épaisse, et son chapeau frais est blanchâtre à gris et grossièrement velu plutôt que finement velouté. La tramète pubescente (Trametes pubescens) est dépourvue de zones de couleurs fortement contrastées. La tramète ocrée (Trametes ochracea) est rigide plutôt que mince et flexible, plus épaisse au point d'attache, jusqu'à environ 10 mm, avec des bandes ocre et jaune-brun moins variées et sans zones soyeuses ou brillantes, et elle forme des touffes moins denses. La tramète ocrée (Trametes ochracea) partage souvent un tronc avec ce champignon, et les deux ne sont pas toujours faciles à séparer. La tramète odorante (Trametes suaveolens) est beaucoup plus pâle et ne pousse généralement pas en consoles étagées. D'autres espèces de tramètes (Trametes) avec seulement environ 1–3 pores par millimètre s'en séparent par cette taille de pores.",
+      notes: "Les sporophores sont consommés par la chenille de la teigne Nemaxera betulinella et par les mouches Polyporivora picta et Mycetophila luctuosa. Le champignon peut endommager le bois entreposé et le bois de construction, y compris les bois de mine et les traverses de chemin de fer."
     }
     },
     sources: {
@@ -45027,23 +45028,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Tram%C3%A8te_versicolore"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/4862"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -45066,6 +45050,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Lepketapl%C3%B3"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Tram%C3%A8te_versicolore"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/4862"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -45242,9 +45243,9 @@ export const CATALOG = [
       ru: "белый гриб сосновый",
       uk: "білий гриб сосновий",
       pl: "borowik sosnowy",
-      fr: "cèpe des pins",
       it: "porcino rosso",
-      hu: "vörösbarna vargánya"
+      hu: "vörösbarna vargánya",
+      fr: "cèpe des pins"
     },
     names: {
       en: ["pinewood king bolete", "red king bolete"],
@@ -45260,8 +45261,8 @@ export const CATALOG = [
       sv: ['kopparröd stensopp', 'purpurstensopp'],
       ru: ["боровик соснолюбивый","боровик сосновый"],
       uk: ["боровик сосновий"],
-      fr: ["cèpe acajou"],
-      it: ["porcino dei pini"]
+      it: ["porcino dei pini"],
+      fr: ["cèpe acajou"]
     },
     text: {
       tr: {
@@ -45537,18 +45538,6 @@ export const CATALOG = [
       confusion: "Borowik szlachetny (Boletus edulis) ma kapelusz jaśniejszy, orzechowobrązowy z białą krawędzią brzegu i jaśniejszy trzon z białą siateczką. Goryczak żółciowy (Tylopilus felleus) ma różowiejące pory i bardzo gorzki smak.",
       notes: "Ocena z 2019 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern) o stabilnej populacji."
     },
-    fr: {
-      description: "Un grand champignon ectomycorhizien associé aux pins et conifères de montagne. Présent dans toute l'Europe boréale, centrale et montagnarde.",
-      cap: "Le chapeau mesure 8–25 cm de largeur, atteignant parfois 30 cm, massif, hémisphérique puis convexe. Il est brun acajou, brun rougeâtre foncé à pourpre vineux, souvent poudré d'une fine pruine blanchâtre au début, rugueux et bosselé.",
-      hymenium: "Les tubes sont longs, blanchâtres au début puis jaune verdâtre et brun olive à maturité. Les pores sont petits, de même couleur que les tubes, ne changeant pas de couleur au toucher.",
-      stipe: "Le pied mesure 7–18 cm de hauteur et 3–8 cm d'épaisseur, très robuste, ventru ou clavé, brun rougeâtre clair à ocre carné, orné d'un fin réseau réticulé rougeâtre pâle surtout dans sa partie supérieure.",
-      flesh: "La chair est blanche, très ferme et compacte, teintée d'une zone rouge vineux ou brun acajou immédiatement sous la cuticule du chapeau. L'odeur est agréable et noisetée ; la saveur est douce.",
-      sporePrint: "Brun olive. Les spores sont allongées fusiformes, lisses, mesurant environ 14–18 × 4,5–5,5 µm.",
-      habitat: "Les sporophores apparaissent de mai à novembre, particulièrement en fin d'été et en automne, dans les forêts de pins (Pinus sylvestris) et d'épicéas, surtout sur sols sableux et acides en plaine ou en montagne.",
-      uses: "C'est un excellent champignon comestible de premier choix, l'un des quatre cèpes nobles, très recherché et préparé de la même manière que le cèpe de Bordeaux.",
-      confusion: "Le cèpe de Bordeaux (Boletus edulis) a un chapeau brun plus clair avec une marge blanchâtre et un réseau blanc au sommet du pied. Le cèpe bronzé (Boletus aereus) a un chapeau bistre noirâtre et pousse sous les feuillus.",
-      notes: "Une évaluation de 2019 le classe en préoccupation mineure (Least Concern), avec une population stable."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi montani di pino (Pinus sylvestris) e di faggio e abete. È diffuso nell'Europa temperata e boreale.",
       cap: "Il cappello misura solitamente 6–30 cm di diametro (può raggiungere eccezionalmente i 40 cm). È molto carnoso, sodo e robusto, emisferico poi convesso, di un tipico colore bruno-rossastro granata o rosso mogano, con superficie opaca, rugosa e finemente pruinosa nei giovani.",
@@ -45572,6 +45561,18 @@ export const CATALOG = [
       uses: "Kiváló csemegegomba, a vargányák királyának is tartják; húsa a legkeményebb és legillatosabb az összes európai vargányafaj közül.",
       confusion: "Az ízletes vargánya (Boletus edulis) kalapja világosabb sárgásbarna, nem vörösesmahagóni. A bronzos vargánya (Boletus aereus) kalapja sötét feketésbarna és meleg tölgyesekben nő. Az epeízű tinóru (Tylopilus felleus) csövei rózsaszínesek és húsa keserű.",
       notes: "Közép- és Észak-Európában a fenyvesek egyik legkeresettebb és legértékesebb gombája."
+    },
+    fr: {
+      description: "Un champignon ectomycorhizien des pinèdes tempérées et boréales. Il est commun et localement abondant dans toute l'Europe, et il est signalé en Asie. En Grande-Bretagne, il est plus fréquent dans les forêts anciennes de pins sylvestres en Écosse que dans les plantations plus au sud. En Europe méridionale, c'est davantage une espèce montagnarde.",
+      cap: "Le chapeau mesure couramment 6–30 cm de largeur et peut atteindre environ 40 cm. Il est hémisphérique au début, puis convexe à épaissement en coussinet, et finalement presque plat. La couleur est brun rougeâtre foncé à vineux ou bordeaux, sans bande jaune à la marge. La marge est rose ou rose pâle, parfois avec une nuance pourpre, et sur un jeune chapeau elle peut être rose pâle avec une pruine blanche poudrée. La surface est bosselée et souvent ridée, seulement faiblement feutrée ou glabre, sèche à légèrement grasse, et visqueuse ou légèrement gluante par temps humide. La cuticule est plus épaisse et plus gélatineuse que chez le cèpe de Bordeaux (Boletus edulis), le cèpe d'été (Boletus reticulatus) et le cèpe bronzé (Boletus aereus), et à maturité elle déborde légèrement sur les tubes.",
+      hymenium: "Les tubes sont adnés à presque libres au niveau du pied et longs jusqu'à environ 25 mm. Eux et les petits pores sont blancs à crème au début, puis jaunes avec une nuance olive, et brun olive à pleine maturité. Les pores près du pied peuvent prendre une teinte brunâtre. Les tubes coupés conservent la même couleur. Une meurtrissure sur les pores peut les laisser inchangés, ou les teinter légèrement de bleu-vert au début puis de brun.",
+      stipe: "Le pied mesure couramment 7–16 cm de long et 3–10 cm d'épaisseur, et les grands sporophores atteignent environ 25 cm de hauteur et 16 cm d'épaisseur. Il est presque sphérique ou ovoïde dans le jeune âge, puis clavé ou en tonneau à cylindrique, et il reste relativement court et trapu. La surface est crème rougeâtre à brun pâle, blanche ou blanchâtre au sommet et à la base, et parfois proche de la couleur du chapeau mais légèrement plus pâle, avec un lavis rouge orangé vers la base. Un réseau, blanc à brun pâle et parfois rougeâtre, descend presque jusqu'à la base. Sur de nombreux sporophores le réseau est fin, et il est plus grossier que le réseau du cèpe de Bordeaux (Boletus edulis), du cèpe d'été (Boletus reticulatus) et du cèpe bronzé (Boletus aereus).",
+      flesh: "La chair est blanche, ferme et dense dans le jeune âge, et plus molle à maturité. Elle reste blanche à la coupe. Une couche rouge vin à brun rougeâtre se trouve sous la cuticule du chapeau, et la base du pied peut montrer des taches brunâtres ou jaunâtres. La saveur est agréable et douce. L'odeur est douce à fongique.",
+      sporePrint: "Brun olive à olive. Les spores sont fusiformes à cylindriques-ellipsoïdes et lisses, souvent avec des gouttelettes d'huile, mesurant environ 13–21 × 3,5–6,5 µm.",
+      habitat: "Les sporophores apparaissent en solitaire ou en petits groupes. En Grande-Bretagne, ils fructifient de l'été jusqu'à l'automne, en Italie dès le mois d'avril, et en Europe centrale en deux poussées, de mai à juin puis de nouveau d'août à novembre. Il pousse sur les sols pauvres, acides et sableux sous les pins, y compris dans les landes sèches à lichens, ainsi qu'avec l'épicéa et le sapin. Il fructifie également sous le châtaignier, le chêne et le hêtre, et peut-être sous le bouleau et le charme.",
+      uses: "C'est un comestible de choix, consommé frais, séché, en conserve ou cuisiné de la même manière que le cèpe de Bordeaux (Boletus edulis). Il est récolté et vendu dans plusieurs pays. Dans la région de Borgotaro, dans le nord de l'Italie, c'est l'une des quatre espèces vendues sous le nom de Fungo di Borgotaro. Les cueilleurs le préfèrent souvent au cèpe d'été (Boletus reticulatus) car sa chair est moins souvent attaquée par les larves d'insectes.",
+      confusion: "Le cèpe de Bordeaux (Boletus edulis) possède un pied plus pâle avec un réseau blanc, un chapeau brun avec une marge blanchâtre, et un réseau plus fin. Le cèpe d'été (Boletus reticulatus) a un chapeau plus pâle qui se craquelle en plaques par temps sec et pousse principalement avec les arbres feuillus. Le cèpe bronzé (Boletus aereus) a un chapeau feutré bronzé plus sombre, sans la couleur acajou, et une chair plus ferme. Le bolet de fiel (Tylopilus felleus) a des pores avec une teinte rosâtre et une saveur très amère. Le bolet royal (Butyriboletus regius) est plus rose, et ses pores ne sont jamais blancs.",
+      notes: "Une évaluation de 2019 le classe dans la catégorie préoccupation mineure (Least Concern), avec une population stable. Il peut être localement très abondant dans les bois de pins et dans les plantations de pins de tout âge, et aucune menace majeure n'est connue. Il est considéré comme vulnérable (Vulnerable) en République tchèque. Les populations indigènes de l'ouest de l'Amérique du Nord classées sous ce nom sont Boletus rex-veris, et celles de l'est de l'Amérique du Nord sont Boletus pseudopinophilus. Les populations indigènes chinoises classées ici sont d'autres espèces. Il a également été signalé sous des pins plantés au Mexique, au Chili, en Afrique du Sud et en Nouvelle-Zélande. Les sporophores sous le sapin et l'épicéa ont été distingués en tant que variété. Il accumule le mercure, le cadmium et le sélénium, avec les concentrations les plus élevées dans les pores. Une étude de 2007 sur quatre bolets a trouvé peu de correspondance entre le nombre de sporophores et le mycélium présent dans le sol en dessous."
     }
     },
     sources: {
@@ -45906,23 +45907,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/C%C3%A8pe_des_pins"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/451439"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -45945,6 +45929,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/V%C3%B6r%C3%B6sbarna_varg%C3%A1nya"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/C%C3%A8pe_des_pins"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/451439"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -46049,9 +46050,9 @@ export const CATALOG = [
       ru: "боровик красивоножковый",
       uk: "боровик красивоніжковий",
       pl: "gorzkoborowik żółtopory",
-      fr: "bolet à beau pied",
       it: "boleto calopo",
-      hu: "farkastinóru"
+      hu: "farkastinóru",
+      fr: "bolet à beau pied"
     },
     names: {
       en: ["scarlet-stemmed bolete", "bitter bolete"],
@@ -46338,18 +46339,6 @@ export const CATALOG = [
       confusion: "Gorzkoborowik korzeniasty (Caloboletus radicans) ma kapelusz białawy, żółty trzon z bardzo słabym czerwonym odcieniem lub bez czerwieni i zaostrzoną, korzeniastą podstawę. Krwistoborowik szatański (Rubroboletus satanas) ma krwistoczerwone pory i rośnie w ciepłych lasach liściastych.",
       notes: "Gorzki smak pochodzi głównie z kalopiny i pochodnych cyklokalopiny. Ocena z 2019 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern)."
     },
-    fr: {
-      description: "Un champignon ectomycorhizien amer des forêts de conifères et de feuillus. Présent dans toute l'Europe, en Asie du Nord et en Amérique du Nord.",
-      cap: "Le chapeau mesure 3–20 cm de largeur, atteignant parfois 25 cm, hémisphérique puis convexe à étalé. Il est gris mastic, gris perle, beige ocré ou chamois pâle, sec, mat et finement velouté au début puis glabre.",
-      hymenium: "Les tubes mesurent 3–20 mm de longueur, échancrés autour du pied, jaune citron puis jaune verdâtre et bleuissant nettement à la coupe. Les pores sont petits et ronds, jaune citron vif, bleuissant immédiatement et fortement au froissement.",
-      stipe: "Le pied mesure 3–15 cm de hauteur et 1–5 cm d'épaisseur, robuste, clavé ou ventru, bicolore : jaune citron au sommet et rouge carmin ou rouge écarlate vif sur la partie médiane et inférieure, entièrement orné d'un fin réseau blanc à mailles saillantes.",
-      flesh: "La chair est blanc crème à jaune pâle, bleuissant modérément mais nettement à la coupe, surtout dans le chapeau et au-dessus des tubes. L'odeur est désagréable et acidulée ; la saveur est d'une amertume intense et persistante.",
-      sporePrint: "Brun olive. Les spores sont fusiformes, lisses, mesurant environ 11–16 × 4,5–6 µm.",
-      habitat: "Les sporophores apparaissent de juillet à octobre dans les forêts de conifères (épicéa, sapin) et les hêtraies de montagne, de préférence sur sols acides.",
-      uses: "Non comestible en raison de son amertume invincible qui résiste à toute cuisson. Il est légèrement toxique cru ou cuit et provoque des troubles gastro-intestinaux.",
-      confusion: "Le bolet radicant (Caloboletus radicans) est également amer mais ne possède pas de rouge sur le pied (pied entièrement jaune blanchâtre) et pousse en plaine sous les feuillus sur sol calcaire. Le bolet satan (Rubroboletus satanas) possède des pores rouge vif (non jaunes).",
-      notes: "L'amertume est due à des composés sesquiterpéniques amers, principalement la calopine."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi montani di conifere (abete bianco, abete rosso) e latifoglie (faggio). È ampiamente diffuso in Europa su terreni silicei e calcarei.",
       cap: "Il cappello misura solitamente 3–20 cm di diametro (talvolta fino a 25 cm). È molto carnoso, emisferico poi convesso e spianato, con cuticola asciutta, opaca e finemente vellutata, di colore grigio cenere, beige chiaro o bruno-grigio.",
@@ -46373,6 +46362,18 @@ export const CATALOG = [
       uses: "Nem ehető. Nem halálosan mérgező, de elviselhetetlenül keserű íze miatt étkezésre teljesen alkalmatlan, és nyersen vagy nagyobb mennyiségben fogyasztva gyomor- és bélpanaszokat okozhat.",
       confusion: "A sátántinóru (Rubroboletus satanas) pórusai vérvörösek (nem sárgák) és meszes talajon nő. A céklatinóru (Neoboletus luridiformis) kalapja sötétbarna, pórusai vörösek és tönkje szemcsés (nem hálózatos).",
       notes: "A hús keserű ízéért a kalopin és származékai felelősek, amelyek a főzés hatására sem bomlanak le."
+    },
+    fr: {
+      description: "Un bolet ectomycorhizien des forêts de conifères et de feuillus. Il s'étend à travers l'Europe depuis la Méditerranée jusqu'au nord, principalement dans la zone tempérée, et il est le plus fréquent dans les montagnes. Il est également signalé dans le Caucase, en Turquie, au Pakistan, au Yunnan, en Corée et à Taïwan. Les signalements en provenance d'Amérique du Nord et du Japon sont contestés.",
+      cap: "Le chapeau mesure 3–20 cm de largeur et atteint parfois 25 cm. Il débute hémisphérique, avec une marge longtemps enroulée et souvent irrégulièrement ondulée, puis devient convexe ou en forme de coussinet. Le disque peut devenir plat, bien que certains sporophores restent arrondis jusqu'à un âge avancé. La surface est sèche et mate, finement feutrée ou duveteuse dans la jeunesse puis glabre plus tard, et elle se craquelle parfois ou forme de petites écailles au centre. La couleur va du brun pâle, brun argile et café au lait au brun olive ou brun jaunâtre en passant par le gris fumée et le gris-brun, parfois avec une nuance olive, et rarement avec une teinte rougeâtre. La cuticule peut dépasser de la marge.",
+      hymenium: "Les tubes mesurent 3–20 mm de longueur et sont échancrés au niveau du pied. Ils sont jaune citron, puis jaune olive. Les pores sont petits et ronds, d'abord jaune grisâtre ou jaune citron puis plus tard verdâtres ou jaune olive, et ils correspondent aux tubes. Les pores et les tubes froissés ou coupés virent au bleu ou au bleu-vert. Les basides sont clavées et tétrasporiques, d'environ 30–38 × 9–12 µm. Les cystides sont clavées à fusiformes et hyalines, d'environ 25–40 × 10–15 µm.",
+      stipe: "Le pied mesure 3–15 cm de longueur et 1–5 cm d'épaisseur. En Grande-Bretagne et en Irlande, il mesure souvent environ 7–9 cm de longueur et 3–5 cm d'épaisseur. Les jeunes pieds sont ventrus ou en forme de tonneau. Les pieds matures sont clavés à cylindriques, souvent plus épais vers le milieu et rétrécis sous le chapeau ou vers la base, et parfois courbés. Le sommet est jaune vif. En dessous, le pied est carmin à rouge rosé, et la base est habituellement brun-rouge terne ou brune. Le pied entier est parfois rouge. Le soleil peut décolorer le rouge, et sur les sporophores matures, ou sur des spécimens conservés pendant quelques jours, le rouge peut disparaître et laisser place à un brun ocre. Un réseau fin à assez grossier couvre la surface. Au sommet, le réseau est blanc ou jaune pâle sur fond jaune. Plus bas, il est rouge chair, rouge sale ou jaune brunâtre, et il brunit depuis la base vers le haut. Les mailles deviennent plus grandes et plus allongées vers le bas et disparaissent à la base même. Les zones froissées virent au bleu. Il n'y a pas d'anneau.",
+      flesh: "La chair est blanchâtre, crème pâle ou jaune pâle, et elle est souvent rougeâtre sale ou violacée dans la base du pied. Une surface coupée vire au bleu ou au bleu-vert. Le changement peut être rapide ou seulement modéré, et il est parfois faible, puis le bleu pâlit. La coupe peut passer par le blanc avant que le bleu-vert n'apparaisse. La chair jeune est dure. L'odeur est faible et fongique, ou plus forte et désagréable, assimilée à de l'encre. La saveur est d'abord douceâtre puis très amère. L'amertume peut s'atténuer chez les sporophores plus âgés et varier d'un endroit à l'autre. La chair est fortement amyloïde dans le réactif de Melzer.",
+      sporePrint: "Jaune olive, ocre-olive pâle, brun tabac olivacé ou olive brunâtre. Les basidiospores sont lisses, étroitement elliptiques à subfusiformes, d'environ 12–16 × 4–6 µm.",
+      habitat: "Les sporophores apparaissent de juin jusqu'en décembre, et le plus souvent de juillet à octobre. Ils poussent solitaires ou en groupes, souvent sur les collines et dans les montagnes et moins souvent dans les plaines. Les partenaires habituels sont l'épicéa, le sapin, le pin, le hêtre et le chêne. En Europe centrale, le champignon est le plus fréquent avec l'épicéa et le hêtre, et il pousse souvent sur sol acide. En Grande-Bretagne et en Irlande, il se trouve principalement sur la craie ou d'autres sols alcalins ou neutres sous le hêtre et le chêne, et il se rencontre aussi avec le pin et l'épicéa. Au Pakistan, il a été signalé avec le peuplier de l'Himalaya et le sapin de Pindrow.",
+      uses: "La cuisson n'élimine pas l'amertume, et un seul sporophore peut gâcher un plat. Certaines personnes développent des troubles gastro-intestinaux après l'avoir consommé. Des sporophores ont été consommés dans l'Extrême-Orient russe et en Ukraine.",
+      confusion: "Le bolet radicant (Caloboletus radicans) présente peu ou pas de rouge sur le pied, un réseau plus faible et une base radicante, et il pousse dans les forêts de feuillus chaudes et calcaires. Caloboletus kluzakii possède également beaucoup moins de rouge sur un pied jaune ainsi qu'un réseau plus faible, et il pousse avec des arbres feuillus sur sol calcaire. Caloboletus polygonius est plus méridional, pousse dans les forêts de feuillus calcaires, a un pied moins réticulé et sa chair ne réagit pas dans le réactif de Melzer. Le bolet satan (Rubroboletus satanas) a des orifices de pores rouges. Le bolet blafard (Suillellus luridus) a un chapeau plus sombre, des pores qui deviennent orange à rouge orangé et une chair rouge orangé dans la base du pied, et sa chair bleuit immédiatement. Le bolet à pied rouge (Neoboletus luridiformis) a des tubes rouges. Le bolet à chair jaune (Xerocomellus chrysenteron) a un pied dépourvu de réseau. D'autres espèces de Xerocomellus sont plus petites, plus molles et plus élancées, avec un chapeau brun et une chair qui n'est pas amère. Le cèpe de Bordeaux (Boletus edulis) n'a pas de rouge sur le pied et ses pores ne virent pas au bleu. Caloboletus rubripes, de l'ouest de l'Amérique du Nord, est amer et possède un chapeau similaire ainsi que des pores jaunes qui bleuissent au froissement, mais son pied rougeâtre n'a pas de réseau. Caloboletus inedulis est plus petit et possède un chapeau blanc à blanc grisâtre. Caloboletus roseipes pousse avec la pruche. Caloboletus firmus a des pores rouges et aucun réseau sur le pied.",
+      notes: "La saveur amère provient en grande partie de la calopine et de la O-acétylcyclocalopine A. Les sporophores contiennent également des dérivés de l'acide pulvinique : l'acide atromentique, l'acide variégatique et l'acide xérocomique, qui ont inhibé les enzymes du cytochrome P450 lors de tests en laboratoire. Les principaux composés volatils sont la 3-octanone, le 3-octanol, le 1-octén-3-ol et le limonène. Une comparaison de récoltes européennes et nord-américaines a conclu que la forme typique n'est pas présente aux États-Unis, bien que plusieurs guides de terrain nord-américains continuent de l'inclure. Dans le Nord-Ouest Pacifique, les récoltes à pied rouge séquencées jusqu'à présent correspondaient à Caloboletus rubripes plutôt qu'à cette espèce."
     }
     },
     sources: {
@@ -46722,23 +46723,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Bolet_%C3%A0_beau_pied"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/44822"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -46761,6 +46745,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Farkastin%C3%B3ru"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Bolet_%C3%A0_beau_pied"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/44822"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -46875,9 +46876,9 @@ export const CATALOG = [
       ru: "моховик зелёный",
       uk: "моховик зелений",
       pl: "podgrzybek zajączek",
-      fr: "bolet subtomenteux",
       it: "boleto subtomentoso",
-      hu: "molyhos tinóru"
+      hu: "molyhos tinóru",
+      fr: "bolet subtomenteux"
     },
     names: {
       en: [
@@ -47164,18 +47165,6 @@ export const CATALOG = [
       confusion: "Podgrzybek żeberkowany (Xerocomus ferrugineus) ma miąższ białawy, niezmieniający barwy również w podstawie trzonu, żółtą grzybnię u podstawy i rośnie częściej pod drzewami iglastymi. Podgrzyb brunatny (Imleria badia) ma ciemnobrązowy kapelusz i pory natychmiast ciemnosiniejące.",
       notes: "Dawniej w Europie mylony z Xerocomus ferrugineus; współczesne badania genetyczne rozdzielają te taksony."
     },
-    fr: {
-      description: "Un champignon ectomycorhizien commun des forêts de feuillus et mixtes. Largement répandu en Europe, en Amérique du Nord et en Asie.",
-      cap: "Le chapeau mesure typiquement 3–12 cm de largeur, atteignant exceptionnellement 20 cm, hémisphérique puis convexe à étalé. Il est brun olive, ocre jaunâtre, chamois ou beige fauve, sec, nettement velouté et feutré (subtomenteux).",
-      hymenium: "Les tubes sont jaune d'or à jaune chrome puis jaune verdâtre à maturité, mesurant 5–15 mm de longueur. Les pores sont larges, anguleux, jaune vif, bleuissant faiblement ou restant immuables au froissement.",
-      stipe: "Le pied mesure 3–10 cm de hauteur et 1–2,5 cm d'épaisseur, sans anneau, cylindrique ou aminci vers le bas, jaune au sommet et brunâtre vers la base, orné de côtes longitudinales ou de granulations brun-rougeâtre formant parfois un pseudo-réseau grossier.",
-      flesh: "La chair est blanchâtre à jaune pâle dans le chapeau, plus jaune au-dessus des tubes et souvent rosée ou rougeâtre dans la base du pied, bleuissant parfois très faiblement au-dessus des tubes. L'odeur est agréable ; la saveur est douce.",
-      sporePrint: "Brun olive. Les spores sont allongées fusiformes, lisses, mesurant environ 10–14 × 4–5,5 µm.",
-      habitat: "Les sporophores apparaissent de juin à octobre, isolés ou en petits groupes, sous les feuillus (chênes, hêtres, châtaigniers) et parfois sous les conifères.",
-      uses: "C'est un champignon comestible convenable, souvent consommé dans des mélanges forestiers ou séché. La chair est relativement molle.",
-      confusion: "Le bolet ferrugineux (Xerocomus ferrugineus) possède une chair blanche totalement immuable, y compris dans la base du pied, et un mycélium basal jaune vif (qui est blanc chez subtomentosus). Le bolet bai (Imleria badia) a un chapeau brun chocolat foncé et bleuit nettement.",
-      notes: "Une évaluation de 2019 le classe en préoccupation mineure (Least Concern)."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi di latifoglie (specialmente querce, castagni e faggi) e misti. È ampiamente diffuso in tutta Europa.",
       cap: "Il cappello misura solitamente 3–12 cm di diametro (eccezionalmente fino a 15–18 cm). È convesso poi appianato a cuscinetto. La cuticola è tipicamente tomentosa o finemente vellutata, di colore bruno-oliva, giallo-camoscio o bruno-giallastro.",
@@ -47199,6 +47188,18 @@ export const CATALOG = [
       uses: "Jóízű ehető gomba, de a kalaphús hamar megpuhul, szivacsossá válik, ezért fiatalon érdemes szedni.",
       confusion: "Az arany tinóru (Xerocomellus chrysenteron) kalapja sötétebb barna, a felrepedezésekben élénkpiros húsréteg látható. A barna tinóru (Imleria badia) pórusai nyomásra erősen kékeszöldre színeződnek.",
       notes: "A korábban egyetlen fajként kezelt Xerocomus subtomentosus formakörből több önálló fajt (pl. Xerocomus ferrugineus) különítettek el molekuláris alapon."
+    },
+    fr: {
+      description: "Un bolet ectomycorhizien des forêts de feuillus et mixtes. Il est répandu en Europe, commun dans les plaines et les collines et peu fréquent en Grande-Bretagne et en Irlande, et il est signalé en Asie, en Amérique du Nord, en Australie, au Maroc sous le chêne-liège, et dans l'ouest du Groenland avec le bouleau pubescent.",
+      cap: "Le chapeau mesure typiquement 3–12 cm de largeur, et exceptionnellement environ 20 cm. Il débute hémisphérique, puis devient convexe à plat, souvent avec une marge ondulée. La surface est sèche et veloutée ou feutrée, plus lisse plus tard, et par temps sec elle se craquelle en laissant voir une chair jaunâtre ou blanchâtre. La couleur va de l'olive et du jaune-olive au brun en passant par l'ocre et le fauve, et certains chapeaux sont rouge brique, jaune vif ou rouges. La cuticule est difficile à peler. L'ammoniaque ou l'hydroxyde de potassium la vire immédiatement au rouge acajou. Elle est décrite à la fois comme un palissadoderme de cellules cylindriques cloisonnées, lisses ou presque lisses, et comme un trichoderme fibreux.",
+      hymenium: "Les tubes sont jaune chrome à jaune vif, plus tard jaune olive, d'environ 5–15 mm de profondeur, et adnés ou légèrement décurrents. Ils se déchirent plutôt qu'ils ne se séparent nettement. Les pores sont larges et anguleux, de la même couleur, et mesurent environ 1–3 mm de largeur lorsqu'ils sont vieux. Ils bleuissent généralement ou prennent une teinte bleu-vert au froissement, bien que pas sur chaque sporophore, et une meurtrissure peut plus tard virer au brunâtre. Sur certains sporophores, les tubes bleuissent à peine. Les basides sont clavées et tétrasporiques, d'environ 25–34 × 6,5–9 µm. Les pleurocystides sont lancéolées et lisses, d'environ 47–72 × 8–12 µm.",
+      stipe: "Le pied n'a pas d'anneau. Il est cylindrique à fusiforme, souvent atténué ou pointu à la base, et parfois légèrement enflé. Il mesure typiquement 4–12 cm de longueur, parfois jusqu'à 14 cm, et environ 0,5–2 cm d'épaisseur, parfois jusqu'à 2,5 cm. Il est jaune, plus pâle ou brunâtre en bas, avec des granulations ou des côtes longitudinales brunes, rosâtres ou rougeâtres qui peuvent ressembler à un réseau grossier ponctué. La surface ne change pas au froissement. Le mycélium basal est blanchâtre, et certains cordons mycéliens peuvent être jaunes.",
+      flesh: "La chair est blanchâtre à jaune, d'un jaune plus soutenu au-dessus des tubes, et rosâtre ou brun rosâtre dans le bas du pied. La chair coupée dans le chapeau bleuit faiblement ou pas du tout, et la chair du pied peut prendre une légère teinte rougeâtre. La chair du chapeau devient molle. La chair du pied reste fibreuse et ferme et brunit vers la base. La saveur est douce ou quelque peu acide. L'odeur est faible ou non distinctive, parfois légèrement acide, et la base du pied des sporophores plus âgés peut sentir l'iodoforme.",
+      sporePrint: "Brun olive à olive brunâtre. Les spores sont lisses au microscope optique, étroitement ellipsoïdes à subfusiformes, avec une faible dépression suprahilaire, d'environ 9–15 × 4–6 µm. Au microscope électronique, la surface montre une ornementation.",
+      habitat: "Les sporophores apparaissent solitaires ou en petits groupes, de juin à la fin octobre en Europe centrale et d'août à octobre en Grande-Bretagne et en Irlande. Ils poussent dans les bois de feuillus et mixtes ainsi que dans les parcs, principalement avec le chêne, et également avec le hêtre, le charme et le bouleau, y compris aux lisières des plantations de conifères où poussent le bouleau et le saule. En Grande-Bretagne, ils se trouvent souvent sur terrain calcaire. Là où l'espèce est restreinte strictement au chêne, y compris sur les berges d'étangs dans les plaines et les collines, les signalements sous d'autres arbres sont traités comme peu fiables.",
+      uses: "Il est comestible et convient dans les plats mélangés, et il peut être séché. Il n'est pas très réputé. La peau du chapeau est parfois amère, et la base coriace des pieds plus âgés est laissée de côté.",
+      confusion: "Le bolet ferrugineux (Xerocomus ferrugineus) a une chair blanchâtre et immuable, y compris dans la base du pied, un mycélium basal jaune et des pores qui sont olive même lorsqu'ils sont jeunes. Il pousse principalement avec des conifères, ou avec le hêtre, le bouleau et le saule, et non avec le chêne. Xerocomus chrysonemus a une chair jaune vif dans la base du pied et un mycélium basal jaune, et sa chair ne bleuit habituellement pas. Xerocomus silwoodensis a un chapeau brun rougeâtre plus foncé, pousse avec Populus et possède une chair blanchâtre qui devient jaunâtre à l'air. Le bolet à chair jaune (Xerocomellus chrysenteron) se craquelle en laissant apparaître une chair rose ou rouge, est souvent plus petit et plus mou, et possède un pied rougeâtre qui n'est généralement pas atténué. Le bolet de Moravie (Aureoboletus moravicus) a une odeur d'aneth et de noix de coco, présente une ligne brune au-dessus des tubes et ne bleuit pas. Le bolet bai (Imleria badia) a un chapeau plus foncé, bleuit plus fortement et est visqueux ou collant à l'état humide. Les formes à chapeau rouge se séparent du groupe gravitant autour du bolet rubicond (Xerocomellus rubellus) par la chair rosâtre ou brun rosâtre dans la base du pied et par les cellules de la cuticule du chapeau qui sont faiblement incrustées ou lisses.",
+      notes: "Il a longtemps été confondu en Europe avec Xerocomus ferrugineus, et les découvertes à distance du chêne sont désormais traitées comme peu fiables et probables de cette espèce. Une analyse menée en 2012 sur des chapeaux provenant de la forêt de Noteć, dans l'ouest de la Pologne, a révélé une abondance de potassium, de phosphore et de magnésium, avec des valeurs moyennes de 46 000, 8 400 et 1 100 mg/kg de matière sèche, et a constaté que le cadmium, le mercure et le plomb ne représentaient pas une menace pour le consommateur."
     }
     },
     sources: {
@@ -47518,23 +47519,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Bolet_subtomenteux"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/44823"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -47557,6 +47541,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Molyhos_tin%C3%B3ru"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Bolet_subtomenteux"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/44823"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -47685,9 +47686,9 @@ export const CATALOG = [
       ru: "подосиновик желто-бурый",
       uk: "підосиковик жовто-бурий",
       pl: "koźlarz pomarańczowożółty",
-      fr: "bolet roux",
       it: "leccino arancione",
-      hu: "kormostönkű érdestinóru"
+      hu: "kormostönkű érdestinóru",
+      fr: "bolet roux"
     },
     names: {
       en: ["dark-stalked bolete"],
@@ -47971,18 +47972,6 @@ export const CATALOG = [
       confusion: "Koźlarz babka (Leccinum scabrum) ma kapelusz brązowy i miąższ niezmieniający barwy po przekrojeniu. Koźlarz czerwony (Leccinum aurantiacum) rośnie pod dębami i ma za młodu rdzawe łuseczki na trzonie.",
       notes: "Analizy DNA wykazują, że taksony opisywane dawniej jako Leccinum percandidum i Leccinum roseotinctum należą do tego samego gatunku."
     },
-    fr: {
-      description: "Un champignon ectomycorhizien associé spécifiquement aux bouleaux. Fréquent dans toute l'Europe boréale, montagnarde et tempérée, ainsi qu'en Asie du Nord.",
-      cap: "Le chapeau mesure 4–20 cm de largeur, hémisphérique puis largement convexe, d'une belle teinte orange brique, fauve orangé ou roux cuivré. La surface est finement veloutée au début, avec la cuticule dépassant nettement la marge en un repli membraneux stérile.",
-      hymenium: "Les tubes mesurent 8–25 mm de longueur, échancrés autour du pied, blanc grisâtre puis gris souris ou brun grisâtre. Les pores sont très petits, blanchâtres puis grisâtres.",
-      stipe: "Le pied mesure 8–22 cm de hauteur et 2–4 cm d'épaisseur (jusqu'à 7 cm à la base), élancé, atténué vers le haut, blanc et densément couvert dès la jeunesse de petites méchules rugueuses noirâtres ou noir de suie.",
-      flesh: "La chair est blanche et ferme dans le jeune âge. À la coupe, elle vire d'abord au lilas rosâtre ou au vineux, puis devient bleu-vert violacé et enfin gris noirâtre. L'odeur est agréable ; la saveur est douce.",
-      sporePrint: "Brun ochracé à brun tabac. Les spores sont fusiformes allongées, lisses, mesurant environ 13–16 × 4–5 µm.",
-      habitat: "Les sporophores apparaissent de mai à novembre, particulièrement en fin d'été et en automne, exclusivement sous les bouleaux (Betula pendula, Betula pubescens), dans les tourbières, les landes et les bois clairs.",
-      uses: "C'est un bon comestible lorsqu'il est jeune et bien cuit. La chair noircit fortement à la cuisson et les pieds trop fibreux doivent être éliminés. Une cuisson complète est obligatoire car il est toxique cru.",
-      confusion: "Le bolet rude (Leccinum scabrum) pousse également sous les bouleaux mais possède un chapeau brun grisâtre et une chair restant blanche. Le bolet orangé des peupliers (Leccinum albostipitatum) pousse sous les trembles et a des méchules blanches au début.",
-      notes: "Une évaluation de 2019 le classe en préoccupation mineure (Least Concern)."
-    },
     it: {
       description: "Un fungo ectomicorrizico legato in modo esclusivo alla betulla. È comune nelle brughiere, torbiere e boschi di betulla dell'Europa settentrionale e centrale.",
       cap: "Il cappello misura 4–20 cm di diametro. È emisferico poi convesso a cuscinetto, carnoso, di un caratteristico colore arancio-rossastro vivo, fulvo-aranciato o mattone, con cuticola debordante al margine in sottili lobi membranosi.",
@@ -48006,6 +47995,18 @@ export const CATALOG = [
       uses: "Kiváló ehető gomba, de alapos hőkezelést igényel, nyersen gyomorpanaszokat okoz. Elkészítés során a húsa megfeketedik.",
       confusion: "A vörös érdestinóru (Leccinum albostipitatum) rezgő nyár alatt él, tönkpikkelyei fiatalon fehérek. A tölgyfa-érdestinóru (Leccinum aurantiacum) tölgy alatt terem és pikkelyei vörösbarnák.",
       notes: "A húsban fellépő színváltozások a polifenol-oxidáz enzimek működésének következményei."
+    },
+    fr: {
+      description: "Un champignon ectomycorhizien des bois de bouleaux, des landes et des broussailles, solitaire ou en groupes dispersés. Il est assez commun en Grande-Bretagne et en Irlande et largement répandu à travers l'Europe continentale, depuis la Scandinavie vers le sud jusqu'au Portugal, à l'Espagne et à l'Italie, et vers l'est jusqu'en Russie. Il est également présent dans certaines régions d'Amérique du Nord, notamment dans le sud-est de l'Alaska.",
+      cap: "Le chapeau mesure 4–20 cm de largeur. Il est hémisphérique et plutôt mince dans son très jeune âge, puis épaissement charnu, largement convexe ou en forme de coussinet, et il s'aplatit rarement complètement. La surface est mate et minutieusement duveteuse ou feutrée, habituellement sèche, et parfois légèrement grasse par temps humide. La couleur est jaune-orange, orange, orange rougeâtre ou brun-orange, et une forme pâle rare est presque blanche, parfois avec une nuance rose ou orange. La cuticule dépasse de la marge d'environ 2–4 mm chez les jeunes sujets, souvent sous la forme d'un rabat déchiqueté, et ce débordement disparaît plus tard.",
+      hymenium: "Les tubes mesurent environ 8–25 mm de longueur, blanc grisâtre à gris souris ou gris brunâtre, et sont presque libres ou profondément déprimés autour du pied. Les pores sont minuscules, d'environ 0,5 mm de largeur, et ronds. Ils sont gris, gris-brun olive ou gris souris lorsqu'ils sont jeunes et deviennent plus pâles, ochracés ou bruns avec l'âge. Les pores froissés virent au gris brunâtre ou au gris violacé. Les basides sont tétrasporiques, et des cystides sont présentes sur la surface des tubes.",
+      stipe: "Le pied mesure 8–22 cm de longueur et 2–7 cm d'épaisseur, souvent plus proche de 2–4 cm, sans anneau. Il est allongé et clavé ou ventru dans la jeunesse puis plus cylindrique par la suite, et à maturité il est presque toujours plus étroit sous le chapeau qu'à la base. La surface est blanche, gris pâle ou gris jaunâtre, et dès le début elle est couverte de mèches laineuses contrastées gris-noir à noires.",
+      flesh: "La chair est blanchâtre et ferme dans la jeunesse. À la coupe, elle peut prendre une teinte rose ou rougeâtre, puis grise ou gris-violet, et enfin noirâtre. La chair du chapeau peut être lente à changer, ne devenant grise que progressivement avant de noircir avec une nuance violette, tandis que le pied, particulièrement la base, vire au bleu-vert puis presque au noir. La chair séchée devient noire. Chez les sporophores plus âgés, le chapeau se ramollit, et la base du pied reste fibreuse et peut devenir ligneuse. L'odeur est douce, et la saveur est douce, agréable ou sucrée.",
+      sporePrint: "Brun ochracé à brun olive ou jaune-brun. Les spores sont étroitement ellipsoïdes à fusiformes et à paroi mince, mesurant pour la plupart 11–16,5 × 3,5–5 µm, avec un rapport longueur/largeur proche de 3,5, et elles sont inamyloïdes. Des spores occasionnelles sont aussi courtes qu'environ 9 µm.",
+      habitat: "Les sporophores apparaissent de mai à novembre. Les signalements d'Europe centrale s'étendent de mai à octobre, ceux de Grande-Bretagne et d'Irlande de juillet à septembre, et les descriptions européennes plus larges de juillet ou août jusqu'en novembre. Ils poussent sur le sol avec le bouleau, sur des sols sableux, légèrement acides ou limoneux, dans les bois de feuillus et mixtes, les landes et les broussailles, dans les bosquets et le long des sentiers, parfois là où des conifères sont également présents. Ils peuvent être localement abondants.",
+      uses: "Les sporophores jeunes et fermes constituent un bon champignon comestible lorsqu'ils sont parfaitement cuits, bien qu'un cèpe offre une meilleure saveur et une texture supérieure. Les sporophores crus ou insuffisamment cuits peuvent provoquer des nausées et des vomissements, si bien qu'ils nécessitent d'être frits ou bouillis pendant 15–20 minutes. La chair noircit à la cuisson. Il est récolté pour l'alimentation en Finlande, en Lettonie, en Lituanie, en Estonie, en Biélorussie, dans le sud-est de l'Alaska et en Russie, et en Tchéquie il est vendu sur les marchés.",
+      confusion: "Le bolet rude (Leccinum scabrum) pousse également avec le bouleau. Il possède un chapeau brun, et la chair de son pied ne présente pas de changement de couleur marqué à la coupe. Le bolet orangé (Leccinum albostipitatum) pousse avec le tremble. Son pied reste blanc jusqu'à un stade avancé de la maturité, et les orifices des pores sont blanchâtres dans leur très jeune âge. Le bolet orangé des chênes (Leccinum aurantiacum) pousse habituellement avec le chêne ou le tremble, présente des écailles rougeâtres sur le pied, et possède de même des orifices de pores blanchâtres dans le jeune âge. Le bolet rude de l'épicéa (Leccinum piceinum) pousse avec l'épicéa, et le bolet rude du pin (Leccinum vulpinum) pousse avec le pin. Leurs mèches sur le pied sont brunes plutôt que noires.",
+      notes: "À la suite d'analyses génétiques (ADN), de nombreuses descriptions traitent Leccinum cerinum, Leccinum percandidum et Leccinum roseotinctum comme des formes colorées de cette espèce. Une évaluation de 2025 la classe dans la catégorie « préoccupation mineure » (Least Concern). Elle possède une large aire de répartition et une population importante et stable, et aucune menace majeure n'est identifiée."
     }
     },
     sources: {
@@ -48312,23 +48313,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Bolet_roux"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/451440"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -48351,6 +48335,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Kormost%C3%B6nk%C5%B1_%C3%A9rdestin%C3%B3ru"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Bolet_roux"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/451440"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -48473,14 +48474,14 @@ export const CATALOG = [
       ru: "подберёзовик твердоватый",
       uk: "підберезовик твердуватий",
       pl: "koźlarz topolowy",
-      fr: "bolet rude des peupliers",
       it: "porcinello grigio dei pioppi",
-      hu: "nyárfa-érdestinóru"
+      hu: "nyárfa-érdestinóru",
+      fr: "bolet rude des peupliers"
     },
     names: { es: ['boleto de los chopos', 'faisán'],
       ru: ["обабок твердоватый"],
-      fr: ["bolet durillon"],
-      hu: ["nyárfa-tinóru"]
+      hu: ["nyárfa-tinóru"],
+      fr: ["bolet durillon"]
     },
     text: {
       tr: {
@@ -48758,18 +48759,6 @@ export const CATALOG = [
       confusion: "Koźlarz babka (Leccinum scabrum) rośnie pod brzozami i ma miękki, wodnisty miąższ, który nie błękitnieje w trzonie.",
       notes: "Ocena z 2025 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern)."
     },
-    fr: {
-      description: "Un champignon ectomycorhizien inféodé aux peupliers et trembles. Répandu dans toute l'Europe tempérée et boréale.",
-      cap: "Le chapeau mesure 4–16 cm de largeur, atteignant parfois 20–25 cm, hémisphérique puis convexe à étalé. Il est brun grisâtre, brun bistre ou noisette sombre, feutré et mat au début, souvent finement craquelé par temps sec.",
-      hymenium: "Les tubes mesurent 10–30 mm de longueur, presque libres autour du pied, blanc crème puis grisâtres à gris jaunâtre. Les pores sont très petits, arrondis, blanchâtres puis brunissants au froissement.",
-      stipe: "Le pied mesure 5–20 cm de hauteur et 1–5 cm d'épaisseur, robuste, ferme et plein, souvent renflé au milieu. Il est blanc à crème, densément recouvert de squamules ou méchules brunes puis noirâtres alignées longitudinalement, souvent teinté de bleu-vert ou bleu turquoise à la base.",
-      flesh: "La chair est blanche et reste ferme et compacte beaucoup plus longtemps que chez les autres bolets rudes. À la coupe, elle vire au rose carné ou violacé saumon, puis au gris ardoise et enfin au noir violacé, avec souvent des reflets bleu-vert dans la base du pied. L'odeur est agréable ; la saveur est douce.",
-      sporePrint: "Brun olive à brun cannelle. Les spores sont allongées fusiformes, lisses, mesurant environ 13–17 × 5–6 µm.",
-      habitat: "Les sporophores apparaissent de mai à octobre sous les peupliers trembles (Populus tremula) et le peuplier blanc (Populus alba), dans les parcs, les lisières et les allées bordées d'arbres.",
-      uses: "C'est un excellent comestible de choix parmi les bolets rudes grâce à sa chair ferme et savoureuse qui ne devient pas molle. Il doit être consommé bien cuit.",
-      confusion: "Le bolet rude (Leccinum scabrum) pousse sous les bouleaux, a une chair molle qui ne noircit pas et n'a pas de bleu-vert à la base du pied.",
-      notes: "Une évaluation de 2025 le classe en préoccupation mineure (Least Concern)."
-    },
     it: {
       description: "Un fungo ectomicorrizico associato ai pioppi, in particolare al pioppo bianco (Populus alba) e al pioppo tremulo (Populus tremula). È diffuso in tutta l'Europa temperata.",
       cap: "Il cappello misura solitamente 4–16 cm di diametro (talvolta fino a 20 cm). È emisferico poi convesso, carnoso e compatto, di colore bruno-grigiastro, bruno-fuliggine o nocciola scuro, con cuticola finemente tomentosa poi liscia col tempo umido.",
@@ -48793,6 +48782,18 @@ export const CATALOG = [
       uses: "Kiváló ehető csemegegomba. Szilárd húsa a többi érdestinórunál jobban megőrzi állagát; alapos sütést-főzést igényel.",
       confusion: "A barna érdestinóru (Leccinum scabrum) nyírfák alatt terem, húsa hamar szivacsos lesz és elvágva nem változtatja színét.",
       notes: "A hús keménysége és tönk tövének kékülése kiváló határozóbélyeg."
+    },
+    fr: {
+      description: "Un champignon ectomycorhizien associé au peuplier tremble et au peuplier blanc. Il est largement distribué à travers l'Europe, depuis le nord de l'Espagne jusqu'en Grande-Bretagne et vers l'est jusqu'à la région de Novossibirsk en Sibérie. Il a été signalé sous des peupliers blancs plantés sur la côte sud-africaine.",
+      cap: "Le chapeau mesure 4–14 cm de largeur, et atteint parfois 18 cm. Il commence hémisphérique, puis devient convexe à largement convexe, et il peut s'aplatir à maturité. La surface est sèche et feutrée dans la jeunesse, devenant plus lisse avec l'âge et collante ou visqueuse par temps humide. La cuticule dépasse d'abord de la marge, et ce bord replié disparaît plus tard. La couleur va du brun pâle ou beige grisâtre au brun foncé, brun châtain ou brun noirâtre, et elle peut prendre une nuance ochracée ou olive.",
+      hymenium: "Les tubes mesurent environ 10–25 mm de longueur, libres ou profondément déprimés autour du pied, blanchâtres à crème ou grisâtres, puis plus tard brun olive pâle. Les pores sont minuscules et ronds, d'abord blanchâtres à blanc crème, et ils deviennent brun grisâtre avec l'âge. Les pores froissés virent lentement au brun ou au brun ochracé sombre. Les basides sont clavées et tétrasporiques, d'environ 20–35 × 8–12 µm.",
+      stipe: "Le pied mesure 6–18 cm de longueur et 1,5–4 cm d'épaisseur, cylindrique ou légèrement renflé vers la base, plein, ferme et sans anneau. La surface est blanchâtre à gris pâle, couverte de mèches ou de petites écailles d'abord blanchâtres ou brunâtres, puis virant au brun foncé ou au noir, souvent disposées en lignes longitudinales. La base du pied présente souvent des taches ou des zones bleu-vert.",
+      flesh: "La chair est blanche, très ferme et compacte, particulièrement dans le pied. À la coupe, elle rougit d'abord lentement ou prend une teinte saumon ou pourpre grisâtre, particulièrement au sommet du pied et dans le chapeau, puis vire au gris ardoise, au gris-violet ou au noirâtre. Dans la base du pied, la chair coupée vire généralement au bleu-vert ou au bleu-gris avant de noircir. L'odeur est agréable et fongique, et la saveur est douce.",
+      sporePrint: "Brun olive à brun ochracé. Les spores sont lisses, fusiformes à subcylindriques, mesurant environ 12–17 × 4,5–6 µm.",
+      habitat: "Les sporophores apparaissent de juin à novembre, le plus souvent de la fin de l'été à l'automne. Ils poussent sur le sol sous les peupliers, en particulier le peuplier tremble (Populus tremula) et le peuplier blanc (Populus alba), dans les forêts de feuillus, les parcs, les lisières et le long des chemins.",
+      uses: "C'est un bon champignon comestible lorsqu'il est bien cuit, apprécié pour sa chair ferme qui ramollit moins que celle de nombreux autres bolets rudes. La chair noircit à la cuisson. Comme pour d'autres espèces du genre Leccinum, une cuisson complète est nécessaire, car les spécimens crus ou insuffisamment cuits peuvent provoquer des troubles digestifs.",
+      confusion: "Le bolet rude (Leccinum scabrum) pousse avec le bouleau. Sa chair reste blanche ou ne devient que très faiblement rosée, et la base du pied ne vire pas au bleu-vert. Le bolet rude des charmes (Leccinum pseudoscabrum) pousse avec le charme et le noisetier ; son chapeau est bosselé ou martelé et sa chair noircit rapidement sans coloration rose préalable bien marquée. Le bolet roux (Leccinum versipelle) a un chapeau orange vif à roux et pousse sous les bouleaux. Le bolet orangé (Leccinum albostipitatum) a également un chapeau orange vif.",
+      notes: "Une évaluation de 2025 le classe dans la catégorie « préoccupation mineure » (Least Concern). Il possède une large distribution et une population importante et stable, et aucune menace majeure n'est identifiée. En Grande-Bretagne et en Irlande, il est peu fréquent, surtout méridional et sud-oriental, et il est suffisamment rare pour que sa récolte soit déconseillée. En Slovaquie, il est très rare, bien que régulier sur ses stations. En Tchéquie, il a longtemps été considéré comme peu commun et a été trouvé plus souvent au cours des dernières décennies. Autour de Novossibirsk, il fructifie sous des peupliers blancs plantés dans un bois mixte de bouleaux."
     }
     },
     sources: {
@@ -49125,23 +49126,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Bolet_rude_des_peupliers"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/44824"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -49164,6 +49148,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Ny%C3%A1rfa-%C3%A9rdestin%C3%B3ru"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Bolet_rude_des_peupliers"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/44824"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -49268,17 +49269,17 @@ export const CATALOG = [
       ru: "плевроцибелла вытянутая",
       uk: "плевроцибела витягнута",
       pl: "bokówka biała",
-      fr: "pleurote étalé",
       it: "orecchietta d'angelo",
-      hu: "hegyi laskagomba"
+      hu: "hegyi laskagomba",
+      fr: "pleurote étalé"
     },
     names: {
       en: ["angel wing"],
       es: ['espátula blanca'],
       ru: ["вешенка распростёртая","крылья ангела"],
-      fr: ["oreille de cochon"],
       it: ["fungo dell'angelo"],
-      hu: ["fenyves fehérlaska"]
+      hu: ["fenyves fehérlaska"],
+      fr: ["oreille de cochon"]
     },
     text: {
       tr: {
@@ -49554,18 +49555,6 @@ export const CATALOG = [
       confusion: "Boczniak ostrygowaty (Pleurotus ostreatus) rośnie na drzewach liściastych, ma grubszy, mięsisty miąższ i barwę szarą do stalowobrązowej. Ciemnoboczka biała (Pleurotellus chioneus) tworzy znacznie mniejsze owocniki.",
       notes: "W Polsce gatunek rzadki, podlegający ochronie ścisłej."
     },
-    fr: {
-      description: "Un champignon lignicole saprotrophe provoquant une pourriture blanche sur le bois mort de conifères. Répandu dans les forêts tempérées et boréales de l'hémisphère nord.",
-      cap: "Le chapeau mesure 2–10 cm de largeur, très mince, translucide et délicat. Il est en forme d'oreille, de pétale, de coquille ou de spatule dressée, d'un blanc pur immaculé à ivoire pâle, satiné et glabre.",
-      hymenium: "Les lames sont blanches à ivoire, très serrées, étroites et minces, convergeant vers la base d'attache.",
-      stipe: "Le pied est complètement absent ou réduit à une minuscule attache latérale blanche fixée au bois pourrissant.",
-      flesh: "La chair est blanche, très mince, souple et translucide dans la jeunesse. L'odeur et la saveur sont douces et discrètes.",
-      sporePrint: "Blanc pur. Les spores sont subglobuleuses à largement ellipsoïdes, lisses, inamyloïdes, mesurant environ 5,5–7 × 4,5–6 µm.",
-      habitat: "Les sporophores apparaissent de la fin de l'été à la fin de l'automne (d'août à novembre) en troupes denses et imbriquées sur les vieilles souches et troncs moussus pourrissants de conifères (épicéas, pruches, sapins, pins).",
-      uses: "Autrefois considéré comme un comestible sans prétention dans certains guides, il est désormais classé comme toxique et potentiellement mortel. En 2004 au Japon, 59 personnes ont développé une encéphalopathie aiguë foudroyante après en avoir consommé, entraînant 17 décès, principalement chez des sujets atteints d'insuffisance rénale chronique préexistante.",
-      confusion: "Le pleurote en huître (Pleurotus ostreatus) et le pleurote pulmonaire (Pleurotus pulmonarius) ont une chair beaucoup plus épaisse et ferme, poussent principalement sur feuillus et possèdent des spores cylindriques allongées.",
-      notes: "Les recherches toxicologiques ont isolé la pleurocybelline, un acide aminé inhabituel cytotoxique pour les cellules cérébrales."
-    },
     it: {
       description: "Un fungo lignicolo saprotrofo che causa marciume bianco su ceppaie e tronchi marcescenti di conifere (soprattutto abete rosso, abete bianco e pino). È presente nelle foreste montane temperate e boreali dell'emisfero settentrionale.",
       cap: "Il cappello misura 2–10 cm di larghezza, molto sottile ed esile. Ha forma di conchiglia, lingua, orecchio o ventaglio disteso, di un puro colore bianco candido, traslucido da giovane, con margine sottile e ondulato.",
@@ -49589,6 +49578,18 @@ export const CATALOG = [
       uses: "Mérgező gomba. Hosszú ideig ehetőnek tartották, különösen Japánban, ahol azonban 2004-ben tömeges, halálos kimenetelű agyvelőgyulladásos mérgezéseket (enkefalopátiát) okozott, főként vesebetegségben szenvedőknél. Fogyasztása tilos.",
       confusion: "A késői laskagomba (Pleurotus ostreatus) és a nyári laskagomba (Pleurotus pulmonarius) vastagabb húsúak, lombos fákon élnek és szürkés vagy barnás színűek.",
       notes: "A mérgezés mechanizmusát és a felelős neurotoxint (pleurocibellin) intenzíven kutatják."
+    },
+    fr: {
+      description: "Un champignon lignicole poussant en groupes imbriqués sur le bois de conifères en décomposition. Il est largement répandu dans les forêts tempérées de l'hémisphère nord, notamment en Amérique du Nord, en Europe et au Japon.",
+      cap: "Le chapeau mesure 2–10 cm de largeur, sessile ou fixé latéralement, blanc pur puis blanc crème avec l'âge. Il est d'abord en forme d'éventail, d'oreille ou de pétale, devenant souvent étalé à spatulé ou en entonnoir fendu sur un côté jusqu'à la base. La marge est d'abord enroulée puis devient ondulée ou lobée. La surface est lisse, mate, finement feutrée dans la jeunesse puis glabre, le feutrage persistant souvent près du point d'attache.",
+      hymenium: "Les lames sont décurrentes jusqu'au point d'attache, serrées, étroites, blanches puis blanc crème ou jaunissant légèrement avec l'âge. Les basides sont tétrasporiques, cylindriques à clavées, d'environ 30–36 × 5–7,5 µm, bouclées à la base. Les cystides sont absentes. Les cheilocystides sont absentes ou rares et à peine différenciées des autres cellules de l'arête lamellaire.",
+      stipe: "Le pied est généralement absent, ou réduit à un moignon court et blanc à l'endroit où le chapeau rejoint le bois. Il n'y a pas de voile.",
+      flesh: "La chair est blanche, très mince, flexible, translucide dans la jeunesse. L'odeur est faible et agréable, ou non distinctive, et la saveur est douce. L'une et l'autre ont été qualifiées d'absentes.",
+      sporePrint: "Blanche à blanchâtre. Les spores sont subglobuleuses à largement ellipsoïdes, lisses, à paroi mince et hyalines, souvent avec une gouttelette huileuse. Elles mesurent environ 5–7,5 × 4,5–7 µm, et elles sont inamyloïdes et non cyanophiles.",
+      habitat: "Les sporophores apparaissent de l'été à la fin de l'automne, d'août à novembre en Grande-Bretagne, en Irlande, en Europe centrale et en Amérique du Nord. Ils poussent en touffes imbriquées, parfois partiellement soudées, sur des troncs et des souches de conifères bien pourris et souvent moussus, en particulier l'épicéa, le sapin et la pruche, plus souvent dans les forêts de montagne humides.",
+      uses: "Les guides anciens le répertoriaient comme comestible, bien que la chair soit mince et la saveur fade ou douce. À la suite d'encéphalopathies mortelles au Japon, survenues principalement chez des personnes souffrant d'insuffisance rénale, il est désormais considéré comme dangereux et mortel.",
+      confusion: "Le pleurote en huître (Pleurotus ostreatus) et le pleurote pulmonaire (Pleurotus pulmonarius) ont une chair plus épaisse et poussent généralement sur le bois de feuillus. Leurs spores sont allongées, subcylindriques à réniformes, et la sporée de Pleurotus ostreatus peut être faiblement lilas. Le pleurote doux (Panellus mitis) possède un pied distinct. Les espèces de Crepidotus ont des sporophores plus petits et laissent une sporée brune. Le genre Hohenbuehelia présente un pied court mais distinct.",
+      notes: "En septembre et octobre 2004, 59 personnes réparties dans neuf préfectures japonaises ont développé une encéphalopathie aiguë après en avoir consommé, et 17 sont décédées. La plupart des personnes décédées souffraient d'une maladie rénale, et leur âge moyen était d'environ 70 ans. Les symptômes ont débuté dans les trois semaines suivant le repas, et le décès est survenu 13 à 29 jours après le début des symptômes. Un autre décès, en 2009, concernait une personne sous hémodialyse. La cause exacte n'est pas définitivement tranchée. Les sporophores contiennent un acide aminé instable, la pleurocybellaziridine, qui est toxique pour les cellules cérébrales de rat en culture. Une hypothèse avance qu'une glycoprotéine et une lectine agissent conjointement pour endommager la barrière hémato-encéphalique et permettre à cet acide aminé d'atteindre le cerveau, ces trois substances ne provoquant de lésions qu'en association. Une évaluation polonaise considère l'espèce comme vulnérable."
     }
     },
     sources: {
@@ -49902,23 +49903,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Pleurocybella_porrigens"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/451441"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -49941,6 +49925,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Hegyi_laskagomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Pleurocybella_porrigens"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/451441"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -50322,18 +50323,6 @@ export const CATALOG = [
       confusion: "Białe pieczarki (Agaricus) mają blaszki różowe do czekoladowobrązowych i brak pochwy u podstawy trzonu. Europejski muchomor jadowity (Amanita virosa) ma podstawki czterozarodnikowe i kosmaty trzon.",
       notes: "Północnoamerykański odpowiednik europejskiego muchomora jadowitego, znany jako «niszczący anioł» (destroying angel)."
     },
-    fr: {
-      description: "Un champignon ectomycorhizien mortel des forêts mixtes de feuillus et de conifères, associé particulièrement aux chênes. Indigène dans l'est et le centre de l'Amérique du Nord, absent d'Europe.",
-      cap: "Le chapeau mesure 2,5–13 cm de largeur, d'abord ovoïde puis convexe et s'aplanissant avec l'âge. Il est d'un blanc pur immaculé, satiné et glabre, légèrement visqueux à l'humidité, sans plaques de voile.",
-      hymenium: "Les lames sont libres ou presque libres, blanches, serrées, restant blanches à maturité.",
-      stipe: "Le pied mesure 5,5–14 cm de hauteur et 0,5–2 cm d'épaisseur, blanc, plein, s'amincissant vers le haut. Il porte un anneau membraneux blanc bien développé dans sa moitié supérieure et sa base est insérée dans une volve blanche en sac membraneux profond.",
-      flesh: "La chair est mince, blanche et immuable. Une goutte de potasse (KOH) provoque une réaction jaune d'or vif instantanée sur tous les tissus.",
-      sporePrint: "Blanche. Les spores sont globuleuses à subglobuleuses, lisses, amyloïdes, mesurant environ 7,5–10 × 7–9 µm. Les basides portent presque toutes seulement deux spores (bisporiques), d'où son épithète.",
-      habitat: "Les sporophores apparaissent en été et en automne, solitaires ou en petits groupes au sol sous les chênes et les conifères en Amérique du Nord.",
-      uses: "Ce champignon est mortellement toxique. C'est l'un des « anges destructeurs » nord-américains les plus dangereux, renfermant des concentrations létales d'amatoxines qui détruisent le foie et les reins.",
-      confusion: "Amanita ocreata pousse dans l'ouest de l'Amérique du Nord et possède des spores ellipsoïdes. L'amanite vireuse (Amanita virosa) européenne possède des basides à quatre spores et un pied fortement méchuleux floconneux.",
-      notes: "Une évaluation de 2025 le classe en préoccupation mineure (Least Concern)."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi di latifoglie e misti del Nord America orientale, associato in particolare alle querce. È una delle specie mortali più pericolose del continente nordamericano, nota localmente come «angelo distruttore».",
       cap: "Il cappello misura 3–10 cm di diametro. Inizia ovoide o emisferico, poi convesso e spianato a maturità, interamente bianco candido e liscio, viscoso a tempo umido.",
@@ -50357,6 +50346,18 @@ export const CATALOG = [
       uses: "Halálosan mérgező. Amatoxinokat tartalmaz, amelyek súlyos máj- és vesekárosodást okoznak, a gyilkos galócához hasonló módon.",
       confusion: "Az európai fehér galóca (Amanita verna) és hegyeskalapú galóca (Amanita virosa) négyspórás bazídiumokkal rendelkeznek és Európában élnek. A csiperkék (Agaricus fajok) lemezei sötétednek és nincs bocskoruk.",
       notes: "A fajnak nincs hivatalosan elfogadott magyar neve, mivel kizárólag észak-amerikai elterjedésű."
+    },
+    fr: {
+      description: "Un champignon ectomycorhizien des forêts mixtes de conifères et de feuillus, souvent associé aux chênes. Il est commun et largement distribué dans l'est de l'Amérique du Nord, depuis les forêts de pins et de chênes du Texas vers le nord à travers le Canada jusqu'à la forêt boréale de Terre-Neuve et des provinces maritimes. Il est rare plus à l'ouest.",
+      cap: "Le chapeau mesure 2,5–13 cm de largeur. Il commence ovoïde ou ovale, avec la marge enroulée, puis devient convexe à largement convexe, parfois campanulé ou presque plat, et il peut présenter un mamelon large et bas. La surface est glabre, ou très rarement conserve un lambeau du voile universel. Elle est sèche, ou légèrement collante lorsqu'elle est humide, et blanche à ivoire. Le centre peut devenir beige pâle, crème, jaune paille ou rose pâle avec l'âge, et les blessures anciennes peuvent prendre une teinte légèrement rouille. Une teinte jaune ou rose sur l'ensemble du chapeau est rare. La marge n'est pas striée.",
+      hymenium: "Les lames sont libres ou presque libres, serrées à très serrées, blanches, avec de nombreuses lamellules. Les basides sont clavées, à paroi mince et sans boucles, mesurant 34–45 × 4–11 µm. Elles portent habituellement deux spores. Les basides à trois ou quatre spores sont rares, bien que les basides tétrasporiques puissent devenir plus fréquentes au fil de la saison. Les cystides sont absentes.",
+      stipe: "Le pied mesure 5,5–14 cm de longueur et 0,5–2 cm d'épaisseur, blanc et plein. Il s'atténue légèrement vers le haut et s'élargit en un bulbe rond, et il peut présenter de fines cannelures longitudinales. La surface est souvent floconneuse ou finement écailleuse, particulièrement dans la jeunesse, ou presque lisse. Un anneau blanc membraneux mince et pendant en jupe est situé haut sur le pied. La base repose dans une volve blanche en sac, mesurant jusqu'à 3,8 cm de hauteur et environ 2 mm d'épaisseur, qui peut rester enfouie ou se déchirer. La volve est parfois lobée et peut s'appliquer contre le pied.",
+      flesh: "La chair est mince et blanche, et elle ne change pas de couleur au froissement. Une goutte d'hydroxyde de potassium vire la surface du chapeau au jaune vif et la chair du chapeau au jaune. Un test à la tyrosinase ne donne aucune réaction à l'extérieur ni à l'intérieur. L'odeur est douce ou agréable dans la jeunesse et devient écoeurante, douceâtre ou semblable à de la viande en décomposition avec l'âge.",
+      sporePrint: "Blanche. Les spores sont lisses, à paroi mince, globuleuses à subglobuleuses ou largement ellipsoïdes, mesurant 7–10 × 6–9,6 µm, et amyloïdes.",
+      habitat: "Les sporophores apparaissent en été et en automne, souvent dès le début de l'automne, solitaires, dispersés ou en groupes sur le sol. Il pousse avec le chêne et possiblement d'autres feuillus, et il a également été signalé avec le bouleau et le tremble dans l'ouest.",
+      uses: "Il est mortellement toxique, et il est considéré comme le membre le plus toxique du genre en Amérique du Nord. Le sporophore contient des amatoxines, principalement l'alpha-amanitine, et la phallotoxine phallacidine, avec peu de variations d'un sporophore à l'autre. Un seul sporophore mature peut contenir une dose létale, et les toxines ne sont détruites ni par la cuisson, ni par la congélation, ni par le séchage.",
+      confusion: "Amanita ocreata pousse dans l'ouest de l'Amérique du Nord, est habituellement plus trapue et possède des spores ellipsoïdes. Elle vire également au jaune avec l'hydroxyde de potassium. Amanita elliptosperma a des spores ellipsoïdes et ne vire pas au jaune avec l'hydroxyde de potassium. Amanita magnivelaris possède un anneau plus épais et feutré et ne vire généralement pas au jaune avec l'hydroxyde de potassium. Amanita virosiformis a des spores allongées. L'amanite vireuse (Amanita virosa) et l'amanite printanière (Amanita verna) sont des espèces européennes qui ne se rencontrent pas naturellement en Amérique du Nord. L'amanite vireuse vire au jaune avec l'hydroxyde de potassium et fructifie plus tard, en automne. L'amanite printanière ne vire pas au jaune avec l'hydroxyde de potassium. La taille n'est pas un critère fiable pour séparer ces espèces. Les formes blanches de l'amanite phalloïde (Amanita phalloides) ne virent pas au jaune avec l'hydroxyde de potassium. Le plutée soyeux (Volvopluteus gloiocephalus) n'a pas d'anneau, ses lames mûres et sa sporée sont roses, et il pousse habituellement dans les jardins, les pelouses et sur les copeaux de bois. La lépiote pudique (Leucoagaricus leucothites) n'a pas de volve et possède des spores dextrinoïdes à paroi épaisse. Un bouton encore enveloppé dans le voile universel peut ressembler à une vesse-de-loup jusqu'à ce qu'il soit coupé en deux dans le sens de la longueur pour révéler le chapeau et les lames.",
+      notes: "Une évaluation de 2025 le classe en préoccupation mineure (Least Concern). Les descriptions de terrain le distinguent des autres espèces blanches de l'est de l'Amérique du Nord par ses basides bisporiques, ses spores rondes et sa réaction jaune à l'hydroxyde de potassium, et les comparaisons génétiques placent Amanita pallidorosea comme son plus proche parent. Des récoltes provenant du sud-est de l'Arizona et du centre du Mexique qui lui ressemblent réagissent faiblement ou pas du tout à l'hydroxyde de potassium, et il n'a pas été démontré qu'elles appartenaient à cette espèce. Des signalements dans des plantations de pins en Colombie proviennent peut-être d'arbres exportés. Les gènes qui synthétisent ses amatoxines et ses phallotoxines ont été identifiés. Les adultes de Tritoma biguttata affinis consomment les sporophores comme nourriture secondaire, et la limace Arion subfuscus a été observée s'en nourrissant."
     }
     },
     sources: {
@@ -50553,13 +50554,6 @@ export const CATALOG = [
           href: "https://pl.wikipedia.org/wiki/Amanita_bisporigera"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipedia (English)",
-          href: "https://en.wikipedia.org/wiki/Amanita_bisporigera"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -50572,6 +50566,13 @@ export const CATALOG = [
           group: "text",
           name: "Magyar Mikológiai Társaság",
           href: "https://gombanet.hu/latin-magyar-online-nevjegyzek-2017"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipedia (English)",
+          href: "https://en.wikipedia.org/wiki/Amanita_bisporigera"
         }
       ]
     },
@@ -50669,10 +50670,10 @@ export const CATALOG = [
       ru: "лепиота коричнево-красная",
       uk: "лепіота коричнево-червонувата",
       pl: "czubajeczka brązowoczerwonawa",
-      fr: "lépiote brun-incarnat",
       it: "lepiota bruno-incarnata",
       hu: "húsbarnás őzlábgomba",
-      cs: "bedla hnědočervenavá"
+      cs: "bedla hnědočervenavá",
+      fr: "lépiote brun-incarnat"
     },
     names: {
       en: ["flesh-brown parasol", "deadly parasol"],
@@ -50951,18 +50952,6 @@ export const CATALOG = [
       confusion: "Czubajka kania (Macrolepiota procera) jest wielokrotnie większa (kapelusz do 30 cm) i ma ruchomy pierścień na trzonie. Wszystkie małe czubajeczki o średnicy kapelusza poniżej 8 cm należy bezwzględnie omijać jako potencjalnie śmiertelnie trujące.",
       notes: "Ocena z 2019 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern)."
     },
-    fr: {
-      description: "Une petite lépiote saprotrophe mortellement toxique des pelouses, parcs, jardins et lisières forestières. Largement répandue dans toute l'Europe méridionale et tempérée, ainsi qu'en Asie.",
-      cap: "Le chapeau mesure 2–7 cm de largeur, d'abord conique-campanulé puis convexe et étalé avec un mamelon obtus. Il présente un centre brun foncé à brun rougeâtre, et sa cuticule se déchire en petites écailles concentriques brun-incarnat ou rose vineux sur un fond blanchâtre ou crème rosé.",
-      hymenium: "Les lames sont libres, serrées, blanches puis crème pâle à maturité.",
-      stipe: "Le pied mesure 2–5 cm de hauteur et 5–10 mm d'épaisseur, cylindrique, blanchâtre au-dessus d'une zone annulaire sombre, et orné au-dessous de bracelets de squamules brun rougeâtre ou pourpres.",
-      flesh: "La chair est mince, blanche dans le chapeau, rosissant puis devenant vineuse dans la base du pied. L'odeur est fruitée et agréable ; la saveur est douce mais la dégustation est formellement proscrite.",
-      sporePrint: "Blanche. Les spores sont ellipsoïdes à oblongues, lisses, dextrinoïdes, mesurant environ 7–10 × 4,5–6 µm.",
-      habitat: "Les sporophores apparaissent de juillet à novembre dans l'herbe des parcs, des jardins, des chemins, des accotements herbeux et des dunes littorales, souvent en climat tempéré chaud ou méditerranéen.",
-      uses: "Ce champignon est mortellement toxique. Il contient de fortes teneurs en amatoxines provoquant un syndrome phalloïdien foudroyant avec destruction hépatique irréversible. Les petites lépiotes à chapeau de moins de 8 cm de diamètre ne doivent jamais être cueillies.",
-      confusion: "Le marasme des oréades (Marasmius oreades) pousse également dans l'herbe mais possède un chapeau lisse ocre chamoisé sans écailles, des lames très espacées et un pied tenace élastique.",
-      notes: "Plusieurs empoisonnements mortels documentés en Europe proviennent de confusions avec des champignons de pelouse comestibles."
-    },
     it: {
       description: "Un fungo saprotrofo di piccole dimensioni dei parchi urbani, giardini, margini dei boschi, dune e zone erbose calde. È diffuso nell'Europa meridionale e centrale e in Asia temperata.",
       cap: "Il cappello misura 2–6 cm di diametro. È convesso poi appianato con umbone centrale ottuso. Il fondo è biancastro o rosato, fittamente cosparso da piccole squamette concentriche di colore bruno-rossiccio, vinato o porporino.",
@@ -50986,6 +50975,18 @@ export const CATALOG = [
       uses: "Halálosan mérgező. Amatoxinokat tartalmaz, és a gyilkos galócához hasonló lefolyású, halálos kimenetelű májelégtelenséget okoz. Semmilyen eljárással nem tehető fogyaszthatóvá.",
       confusion: "A nagy őzlábgomba (Macrolepiota procera) és a piruló őzlábgomba (Chlorophyllum rhacodes) jóval nagyobb termetűek (kalapjuk 10–30 cm) és vastag, eltolható gallérral rendelkeznek. Az apró, 8 cm alatti őzlábgombák gyűjtése halálos veszélyt rejt.",
       notes: "Dél-Európában az egyik legveszélyesebb amatoxin-tartalmú fajként tartják számon."
+    },
+    fr: {
+      description: "Un petit champignon saprotrophe des parcs, des jardins, des pelouses herbeuses, des bords de routes et des clairières forestières. Largement distribué à travers l'Europe tempérée et certaines régions d'Asie vers l'est jusqu'en Chine, il affectionne les conditions chaudes d'été et d'automne ainsi que les sols riches en nutriments ou sablonneux. Il est absent des Amériques et d'Australasie.",
+      cap: "Le chapeau mesure 2–7 cm de largeur, initialement hémisphérique ou campanulé, puis s'étalant pour devenir largement convexe ou presque plat avec un léger mamelon bas. La surface est sèche, avec un fond blanchâtre à crème densément recouvert d'écailles fibreuses brun rosâtre, brun rougeâtre ou brun vineux qui se rompent souvent en anneaux concentriques vers la marge plus pâle, laquelle reste légèrement enroulée dans le jeune âge. Le centre conserve typiquement un disque uni brun rougeâtre foncé.",
+      hymenium: "Les lames sont libres par rapport au pied, serrées, blanches à crème pâle. Les basides sont clavées, pour la plupart tétrasporiques, mesurant 25–35 × 6–8 µm. Les cheilocystides sont abondantes, cylindriques à étroitement clavées, formant une arête stérile le long des lames. Les pleurocystides sont absentes.",
+      stipe: "Le pied mesure 2–5 cm de longueur et 0,5–1 cm d'épaisseur, cylindrique, droit ou légèrement incurvé, et creux avec l'âge. Le sommet au-dessus de la zone annulaire est lisse et blanchâtre à brun rosé pâle. Une zone semblable à un anneau indistincte, laineuse ou fibreuse brun foncé marque le milieu ou le bas du pied, sous laquelle la surface est ornée de bandes concentriques d'écailles fibreuses brun foncé à brun violacé semblables à celles du chapeau.",
+      flesh: "La chair est mince, blanche dans le chapeau et le sommet du pied, se teintant de rouge vineux à brun rosâtre lorsqu'elle est coupée ou froissée, particulièrement dans le bas du pied. L'odeur est faiblement fruitée, sucrée, ou rappelle la peinture à l'huile et le bois de cèdre. La saveur est douceâtre ou douce, mais il ne doit en aucun cas être goûté.",
+      sporePrint: "Blanche. Les spores sont ellipsoïdes à oblongues-ellipsoïdes, lisses, à paroi épaisse et dextrinoïdes, mesurant 7–9 × 4–5,5 µm.",
+      habitat: "Solitaire, dispersé ou en petits groupes sur le sol dans des habitats herbeux, ouverts ou perturbés, notamment les parcs, les pelouses, les jardins, les allées de cimetières, les bords de chemins et les zones boisées ouvertes. Il fructifie de juillet à octobre, particulièrement après des pluies chaudes à la fin de l'été.",
+      uses: "Il est mortellement toxique. L'ingestion entraîne un empoisonnement phalloïdien sévère et potentiellement mortel, caractérisé par une période de latence prolongée de 6 à 24 heures, suivie de violentes douleurs abdominales, de vomissements et d'une diarrhée profuse, puis d'une nécrose hépatique aiguë et d'une insuffisance rénale. Il contient des amatoxines destructrices pour le tissu hépatique.",
+      confusion: "Peut être confondu avec d'autres petites lépiotes telles que la lépiote crêtée (Lepiota cristata), qui a une odeur forte et désagréable de caoutchouc brûlé et des écailles plus pâles, et la lépiote de Josserand (Lepiota josserandii), qui est également mortellement toxique et possède des écailles plus roses. Les lépiotes comestibles plus grandes, telles que la coulemelle (Macrolepiota procera) et la lépiote déguenillée (Chlorophyllum rhacodes), sont beaucoup plus grandes, dépassent généralement 10 cm de largeur de chapeau, et possèdent des anneaux membraneux épais et mobiles sur le pied.",
+      notes: "Les concentrations en amatoxines chez cette espèce sont comparables à celles d'Amanita phalloides, et la teneur moyenne en alpha-amanitine a été mesurée à des niveaux élevés capables de causer la mort à la suite de la consommation de quelques sporophores seulement. Les cas d'empoisonnement impliquent fréquemment des personnes cueillant des champignons comestibles de petite taille dans des jardins sans prêter attention aux détails de la cuticule et de la base du pied."
     }
     },
     sources: {
@@ -51250,23 +51251,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/L%C3%A9piote_brun-incarnat"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/40800"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -51289,6 +51273,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/H%C3%BAsbarn%C3%A1s_%C5%91zl%C3%A1bgomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/L%C3%A9piote_brun-incarnat"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/40800"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -51388,9 +51389,9 @@ export const CATALOG = [
       ru: "мухомор весенний",
       uk: "мухомор весняний",
       pl: "muchomor wiosenny",
-      fr: "amanite printanière",
       it: "tignosa di primavera",
-      hu: "fehér galóca"
+      hu: "fehér galóca",
+      fr: "amanite printanière"
     },
     names: {
       en: ["spring destroying angel", "spring amanita", "white destroying angel"],
@@ -51673,18 +51674,6 @@ export const CATALOG = [
       confusion: "Muchomor jadowity (Amanita virosa) rośnie w lasach iglastych i ma trzon pokryty wełnistymi, kosmatymi łuskami. Białe pieczarki (Agaricus) mają blaszki różowe do czekoladowobrązowych i nie posiadają pochwy u podstawy trzonu.",
       notes: "Rzadki w Europie Środkowej, znacznie częstszy w basenie Morza Śródziemnego."
     },
-    fr: {
-      description: "Un champignon ectomycorhizien printanier mortellement toxique d'un blanc pur immaculé. Présent dans les régions méridionales et thermophiles d'Europe et du bassin méditerranéen.",
-      cap: "Le chapeau mesure 5–10 cm de largeur, d'abord hémisphérique puis convexe à étalé. Il est entièrement blanc pur, lisse, glabre et soyeux, légèrement visqueux à l'humidité.",
-      hymenium: "Les lames sont libres, serrées, minces, constamment d'un blanc pur immaculé.",
-      stipe: "Le pied mesure 7–15 cm de hauteur et 1–2 cm d'épaisseur, cylindrique, entièrement blanc, lisse ou légèrement floconneux. Il porte un anneau membraneux blanc pendant et sa base bulbeuse est insérée dans une volve blanche en sac membraneux enveloppant.",
-      flesh: "La chair est blanche, tendre et immuable à la coupe. Contrairement à l'amanite vireuse, elle ne jaunit pas au contact d'une solution de potasse (KOH-négative). L'odeur est insignifiante au début puis douceâtre et désagréable.",
-      sporePrint: "Blanche. Les spores sont largement ellipsoïdes à subglobuleuses, lisses, amyloïdes, mesurant environ 9–11 × 7–9 µm.",
-      habitat: "Les sporophores apparaissent d'avril à juillet (parfois jusqu'en automne dans le Sud) dans les bois thermophiles de feuillus, en particulier sous les chênes et les châtaigniers sur sols calcaires ou sablonneux.",
-      uses: "Cette amanite est mortellement toxique. Elle renferme de redoutables amatoxines provoquant le syndrome phalloïdien avec une phase de latence trompeuse de 6 à 24 heures suivie d'une hépatite toxique foudroyante.",
-      confusion: "Les agarics comestibles (Agaricus campestris, Agaricus arvensis) ne possèdent pas de volve membraneuse en sac et leurs lames deviennent rapidement roses puis brun chocolat. L'amanite vireuse (Amanita virosa) pousse en automne sous conifères et son pied est très floconneux.",
-      notes: "L'un des anges destructeurs printaniers classiques de la section Phalloideae."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi caldi di latifoglie (specialmente querce e castagni) su terreno calcareo. È diffuso nell'Europa meridionale e mediterranea.",
       cap: "Il cappello misura 4–10 cm di diametro. È emisferico poi convesso e spianato, liscio, sericeo, interamente di colore bianco candido, con margine liscio non striato.",
@@ -51708,6 +51697,18 @@ export const CATALOG = [
       uses: "Halálosan mérgező. Amatoxinokat és fallotoxinokat tartalmaz, amelyek súlyos máj- és vesepusztulást idéznek elő. Főzve vagy szárítva is halálos.",
       confusion: "A hegyeskalapú galóca (Amanita virosa) fenyvesekben él, tönkje cafrangos és KOH-val sárgul. A fehér csiperkék (Agaricus fajok) lemezei rózsaszínűek vagy csokoládébarna színűek és nincs bocskoruk.",
       notes: "A mediterrán térségben a tavaszi gombaszezonban szedi a legtöbb áldozatát."
+    },
+    fr: {
+      description: "Un champignon ectomycorhizien blanc pur mortellement toxique des forêts de feuillus, particulièrement sous les chênes et les châtaigniers. Indigène dans le sud et le centre de l'Europe ainsi que dans le bassin méditerranéen, il fructifie principalement au printemps et au début de l'été, bien qu'il puisse parfois apparaître à l'automne. Il pousse sur des sols neutres ou calcaires.",
+      cap: "Le chapeau mesure 4–10 cm de largeur, initialement hémisphérique ou convexe, s'aplatissant avec l'âge pour devenir plan ou légèrement déprimé au centre. La surface est lisse, glabre, légèrement visqueuse à l'état humide et soyeuse lorsqu'elle est sèche, d'un blanc pur immaculé, devenant parfois blanc jaunâtre ou crème au centre chez les spécimens âgés. La marge est unie, non striée et dépourvue de lambeaux de voile pendants.",
+      hymenium: "Les lames sont libres par rapport au pied, serrées, blanches et immuables, avec de nombreuses lamellules intercalées. Les basides sont clavées, tétrasporiques, mesurant 35–45 × 9–12 µm. Les cystides sont absentes, bien que des cellules marginales hyalines et globuleuses bordent l'arête lamellaire.",
+      stipe: "Le pied mesure 6–12 cm de hauteur et 0,8–2 cm d'épaisseur, cylindrique, s'atténuant légèrement vers le haut et se terminant à la base par un bulbe globuleux ou semi-globuleux entouré d'une volve blanche, membraneuse et en forme de sac. La surface est blanche, lisse ou légèrement floconneuse-fibrilleuse. Un anneau membraneux blanc, pendant, mince et semblable à une jupe est situé haut sur le pied, mais il peut parfois être fugace ou s'arracher lors de la récolte.",
+      flesh: "La chair est blanche, tendre dans le chapeau, ferme puis farcie dans le pied, et ne change pas de couleur lorsqu'elle est coupée ou blessée. L'odeur est insignifiante ou faiblement désagréable dans la vieillesse, et la saveur est douce, mais il ne doit en aucun cas être goûté.",
+      sporePrint: "Blanche. Les spores sont subglobuleuses à largement ellipsoïdes, lisses, hyalines, à paroi mince et amyloïdes, mesurant 8–11 × 7–9 µm.",
+      habitat: "Solitaire ou en petits groupes dispersés sur le sol dans les forêts de feuillus et mixtes, en association mycorhizienne étroite avec les espèces de chênes (Quercus) et de châtaigniers (Castanea sativa), préférant les sols calcaires et les climats chauds. Il fructifie de mai à juillet, et occasionnellement jusqu'en automne.",
+      uses: "Il est mortellement toxique. Il contient de puissantes amatoxines et phallotoxines qui provoquent le syndrome phalloïdien. L'ingestion entraîne une phase de latence asymptomatique trompeuse de 6 à 24 heures, suivie d'une gastro-entérite aiguë violente, puis d'une cytolyse hépatique sévère menant à une défaillance multiviscérale et à la mort en l'absence de greffe de foie d'urgence.",
+      confusion: "Peut être confondu avec des champignons blancs comestibles par des cueilleurs imprudents. Les agarics blancs comestibles, tels que l'agaric champêtre (Agaricus campestris) et l'agaric des jachères (Agaricus arvensis), sont dépourvus de volve à la base du pied, et leurs lames deviennent roses puis brun chocolat. La lépiote pudique (Leucoagaricus leucothites) a un anneau mais pas de volve, et sa chair ne réagit pas à l'hydroxyde de potassium. Le tricholome de la Saint-Georges (Calocybe gambosa) fructifie au printemps et présente des lames serrées de couleur crème, sans anneau ni volve, et dégage une puissante odeur de farine fraîche. L'amanite vireuse (Amanita virosa) fructifie plus tard en automne, possède un chapeau plus conique et un pied floconneux, et vire au jaune vif avec l'hydroxyde de potassium. L'amanite phalloïde blanche (Amanita phalloides var. alba) possède également une volve libre et un anneau en jupe, mais fructifie en automne et diffère par ses caractères microscopiques. En Amérique du Nord, les anges de la mort blancs similaires comprennent Amanita bisporigera, qui possède des basides bisporiques et vire au jaune avec l'hydroxyde de potassium, ainsi qu'Amanita ocreata.",
+      notes: "L'espèce est l'un des anges de la mort mortellement toxiques classiques de la section Phalloideae. Les amatoxines présentes dans ses tissus inhibent l'ARN polymérase II, stoppant la synthèse des protéines cellulaires et provoquant une destruction hépatocellulaire massive. Les signalements historiques en Amérique du Nord confondaient souvent des amanites blanches indigènes avec ce taxon européen, mais la phylogénie moléculaire restreint la présence réelle de cette espèce à l'Europe et au bassin méditerranéen."
     }
     },
     sources: {
@@ -51965,23 +51966,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Amanite_printani%C3%A8re"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/3715"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -52004,6 +51988,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Feh%C3%A9r_gal%C3%B3ca"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Amanite_printani%C3%A8re"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/3715"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -52368,18 +52369,6 @@ export const CATALOG = [
       confusion: "Gołąbek czarniawy (Russula nigricans) oraz gołąbek gęstoblaszkowy (Russula densifolia) mają miąższ po przekrojeniu czerwieniejący, a następnie szybko i całkowicie czerniejący, i nie zawierają toksyny powodującej rabdomiolizę.",
       notes: "Odpowiada za liczne śmiertelne zatrucia w Azji Wschodniej."
     },
-    fr: {
-      description: "Un champignon ectomycorhizien mortellement toxique à sporophore robuste et cassant noircissant avec l'âge. Indigène en Asie de l'Est (Chine, Japon, Corée, Taïwan), absent d'Europe.",
-      cap: "Le chapeau mesure 5–12 cm de largeur, convexe à marge enroulée puis étalé et déprimé au centre. Il est d'abord blanc sale ou crème grisâtre puis devient brun fumée, brun bistre ou noirâtre.",
-      hymenium: "Les lames sont adnées à subdécurrentes, modérément espacées, épaisses, crème blanchâtre puis brunissant à maturité.",
-      stipe: "Le pied mesure 4–9 cm de hauteur et 1,5–3 cm d'épaisseur, robuste, cylindrique, blanc grisâtre puis brunissant et noircissant.",
-      flesh: "La chair est épaisse, ferme, cassante, blanche, rougissant lentement à la coupe ou à la blessure, sans noircir par la suite (caractère fondamental la distinguant des russules noircissantes européennes).",
-      sporePrint: "Blanche. Les spores sont subglobuleuses, mesurant environ 7–9,5 × 6–8 µm, ornées d'un réseau réticulé amyloïde.",
-      habitat: "Les sporophores apparaissent en été et en automne dans les forêts de feuillus et mixtes toujours vertes en Asie orientale, sous les chênes et les Castanopsis.",
-      uses: "Ce champignon est mortellement toxique. Il provoque une rhabdomyolyse aiguë foudroyante avec destruction massive des tissus musculaires, libération de myoglobine entraînant une insuffisance rénale aiguë et arrêt cardiaque rapide.",
-      confusion: "Elle ressemble à la russule noircissante (Russula nigricans) européenne, dont la chair rougit à la coupe puis devient d'un noir de charbon en quelques minutes (alors que subnigricans rougit sans noircir).",
-      notes: "La toxine responsable a été isolée en 2009 : l'acide cycloprop-2-ène carboxylique, une molécule d'une extrême toxicité."
-    },
     it: {
       description: "Un fungo ectomicorrizico mortale dell'Asia orientale (Giappone, Cina, Taiwan e Corea), associato a boschi di latifoglie (querce e castagni). È una delle pochissime specie mortali conosciute all'interno del genere Russula.",
       cap: "Il cappello misura 5–12 cm di diametro. È convesso poi appianato e infine ampiamente depresso al centro a imbuto. Il colore è bruno-grigiastro o bruno fuligginoso chiaro, opaco.",
@@ -52403,6 +52392,18 @@ export const CATALOG = [
       uses: "Halálosan mérgező. Russzulint és ruszulizinsavat tartalmaz, amelyek rendkívül súlyos rabdomiolízist (vázizomszétesést) váltanak ki; a keringő mioglobin eltömi a veséket, és légzési vagy veseelégtelenség miatt beálló halálhoz vezet.",
       confusion: "Az európai feketedő galambgomba (Russula nigricans) és a szenes galambgomba (Russula albonigra) húsa vörösödés után teljesen szénfeketére változik és nem okoznak halálos rabdomiolízist.",
       notes: "A fajnak nincs magyar neve, mivel kizárólag ázsiai elterjedésű."
+    },
+    fr: {
+      description: "Un champignon ectomycorhizien mortellement toxique au sporophore robuste et cassant qui rougit aux blessures sans noircir. Indigène en Asie de l'Est et du Sud-Est, notamment au Japon, en Chine et à Taïwan. Il se rencontre principalement dans les forêts de feuillus et mixtes tempérées chaudes, poussant sur le sol en association avec des arbres de la famille des Fagacées durant l'été et l'automne.",
+      cap: "Le chapeau mesure 5–12 cm de largeur, initialement convexe avec une marge incurvée, devenant largement convexe à plan et finalement légèrement déprimé à en entonnoir au centre. La surface est sèche, lisse ou finement veloutée dans la jeunesse, d'abord blanchâtre à chamois grisâtre pâle, s'assombrissant avec l'âge pour devenir gris fumée, brun-noir ou brun suie. La marge est lisse, restant régulière et ni striée ni cannelée. Lorsqu'elle est froissée ou éraflée, la surface vire lentement au rouge rosâtre pâle à rouge vineux.",
+      hymenium: "Les lames sont adnées à subdécurrentes, modérément espacées à sous-espacées, plutôt épaisses et cassantes, avec des lamellules intermédiaires plus courtes intercalées entre les lames entières. Elles sont crème à blanc jaunâtre pâle, se tachant de rose rougeâtre lorsqu'elles sont froissées ou coupées, et ne noircissent pas.",
+      stipe: "Le pied mesure 4–9 cm de hauteur et 1,5–3 cm d'épaisseur, robuste, cylindrique ou s'atténuant légèrement vers la base, plein et ferme dans la jeunesse, devenant farci d'un intérieur cassant et friable. La surface est sèche, lisse ou faiblement fibrilleuse longitudinalement, blanchâtre à brun grisâtre pâle, rougissant aux endroits manipulés et s'assombrissant en brun fumée avec l'âge. Il n'a ni anneau ni volve.",
+      flesh: "La chair est épaisse, ferme, cassante et blanche, rougissant de façon caractéristique en rose pâle à rouge vineux dans les minutes qui suivent son exposition à l'air, mais sans jamais noircir. L'odeur est faible et non distinctive, et la saveur est douce.",
+      sporePrint: "Blanche. Les spores sont largement ellipsoïdes à subglobuleuses, mesurant 7–9,5 × 6–8 µm, avec une ornementation amyloïde de verrues basses reliées par de fines lignes formant un réseau partiel.",
+      habitat: "Solitaire, dispersé ou en petits groupes sur le sol dans les forêts de feuillus et les forêts sempervirentes mixtes, formant des associations mycorhiziennes avec des Fagacées telles que Castanopsis, Quercus et Lithocarpus, ainsi qu'avec des pins. Il fructifie de juin à octobre après les chaudes pluies de mousson.",
+      uses: "Il est mortellement toxique. L'ingestion provoque l'apparition rapide de nausées, de vomissements et d'une diarrhée en l'espace de trente minutes à deux heures, suivis d'une rhabdomyolyse généralisée sévère, c'est-à-dire une destruction massive des tissus musculaires squelettiques. Cette affection entraîne fréquemment une insuffisance rénale aiguë, une hyperkaliémie, un arrêt cardiaque, une défaillance respiratoire et la mort. La principale mycotoxine responsable est l'acide cycloprop-2-ène carboxylique.",
+      confusion: "Ressemble à la russule noircissante (Russula nigricans), dont la chair rougit à la coupe mais noircit par la suite en vingt minutes, et qui possède des lames épaisses beaucoup plus espacées. La russule à lames serrées (Russula densifolia) rougit également puis noircit, mais présente des lames serrées et minces. La russule blanc-et-noir (Russula albonigra) noircit directement sans stade rouge préalable. L'espèce nord-américaine Russula eccentrica vire au rouge puis au gris brunâtre, est dépourvue de la toxine cyclopropénique et n'est pas associée à la rhabdomyolyse.",
+      notes: "La mycotoxicité fatale de ce champignon a été élucidée en 2009 par l'isolement de l'acide cycloprop-2-ène carboxylique, un composé inhabituellement sous tension et de faible poids moléculaire qui déclenche la dégradation toxique des fibres musculaires squelettiques. Une fraction seulement d'un sporophore peut délivrer une dose létale chez l'être humain, causant un taux de mortalité supérieur à cinquante pour cent dans les empoisonnements documentés à travers le Japon et le sud de la Chine."
     }
     },
     sources: {
@@ -52573,13 +52574,6 @@ export const CATALOG = [
           href: "https://pl.wikipedia.org/wiki/Russula_subnigricans"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipedia (English)",
-          href: "https://en.wikipedia.org/wiki/Russula_subnigricans"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -52592,6 +52586,13 @@ export const CATALOG = [
           group: "text",
           name: "Magyar Mikológiai Társaság",
           href: "https://gombanet.hu/latin-magyar-online-nevjegyzek-2017"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipedia (English)",
+          href: "https://en.wikipedia.org/wiki/Russula_subnigricans"
         }
       ]
     },
@@ -52952,18 +52953,6 @@ export const CATALOG = [
       confusion: "Koralówki (Ramaria) i koralownice (Clavulinopsis) mają gałązki kruche, nie zawierają perytecjów na powierzchni i nie wykazują tak jaskrawej cynobrowoczerwonej barwy. Maczużnik bojowy (Cordyceps militaris) rośnie na poczwarkach owadów.",
       notes: "W Japonii znany pod nazwą «kaentake» (płonący grzyb)."
     },
-    fr: {
-      description: "Un champignon ascomycète saprotrophe mortellement toxique formant des stromas dressés rouge orangé éclatant évoquant des bois de cerf. Indigène en Asie orientale (Japon, Corée, Chine), absent d'Europe.",
-      cap: "Le stroma mesure 5–20 cm de hauteur et 1–3 cm d'épaisseur, dressé, cylindrique ou ramifié en forme de bois de cerf ou de doigts. Il est rouge corail, rouge vermillon ou orange vif éclatant, devenant ocre brunâtre avec l'âge.",
-      hymenium: "L'hyménium est constitué de périthèces sphériques microscopiques complètement immergés sous la surface corticale du stroma.",
-      stipe: "Le pied n'est pas différencié ; la base stérile est simplement amincie et insérée dans le bois pourrissant.",
-      flesh: "La chair est épaisse, fibreuse et blanche à l'intérieur, coriace avec l'âge.",
-      sporePrint: "Blanc jaunâtre. Les ascospores sont bicellulaires se divisant en cellules partielles verruqueuses mesurant environ 3,5–4 × 3–3,5 µm.",
-      habitat: "Les sporophores apparaissent en été et en automne sur ou près des souches pourrissantes de feuillus en Asie orientale.",
-      uses: "Ce champignon est d'une toxicité mortelle absolue. Il contient de puissants mycotoxines trichothécènes (satratoxines et roridines) capables de provoquer une nécrose généralisée de tous les organes, une défaillance multiviscérale, une aplasie médullaire et des lésions cutanées par simple contact prolongé.",
-      confusion: "Il a été tragiquement confondu en Asie avec des cordyceps médicinaux ou de jeunes reishi (Ganoderma lucidum).",
-      notes: "Anciennement classé sous le nom de Podostroma cornu-damae. C'est l'un des très rares ascomycètes mortels connus."
-    },
     it: {
       description: "Un fungo ascomicete lignicolo e saprotrofo mortale dell'Asia orientale (Giappone e Corea), che forma stromi eretti ramificati di un vivido colore rosso fuoco o arancione brillante su ceppaie marcescenti.",
       cap: "Il corpo fruttifero è uno stroma eretto, carnoso e cilindrico o appiattito, alto 5–20 cm e spesso 1–3 cm, semplice o biforcato a somiglianza di un corno di cervo, di colore rosso vivo vermiglio o arancio scarlatto lucido.",
@@ -52987,6 +52976,18 @@ export const CATALOG = [
       uses: "Halálosan mérgező. Trichotecén mikotoxinokat (szatriotoxint és roridin származékokat) tartalmaz, amelyek rendkívül erőteljes fehérjeszintézis-gátlók. Már a gomba megérintése is súlyos bőrhólyagosodást okozhat, elfogyasztása pedig többszervi elégtelenséget, csontvelő-elhalást és halált idéz elő.",
       confusion: "A gyógyhatású vörös rovarrontógomba (Cordyceps militaris) narancssárga és rovarbábokon terem. A korallgombák nem tömlősgombák.",
       notes: "A korábban Podostroma cornu-damae néven ismert fajnak nincs elfogadott magyar neve."
+    },
+    fr: {
+      description: "Un champignon ascomycète saprotrophe mortellement toxique formant des stromas érigés, rouge vif à rouge orangé, clavés ou ramifiés en forme de bois de cerf. Indigène en Asie de l'Est et du Sud-Est tempérée et subtropicale, notamment au Japon, en Corée du Sud et en Chine, avec des occurrences isolées documentées en Australie. Il émerge sur le bois en décomposition, les souches et les racines enfouies dans les forêts de feuillus durant les mois chauds d'été et d'automne.",
+      cap: "Le stroma mesure 5–20 cm de hauteur et 1–3 cm d'épaisseur, solitaire ou en petits groupes, constitué de lobes dressés, cylindriques à comprimés, en forme de doigts ou de bois de cerf, simples ou irrégulièrement ramifiés près des extrémités. La surface est lisse à finement ponctuée par les minuscules ouvertures des périthèces immergés, d'un rouge écarlate saisissant, vermillon ou rouge orangé vif à l'état frais, pâlissant en orange jaunâtre par temps sec ou avec l'âge, et blanchâtre à chamois rosé pâle vers la base.",
+      hymenium: "Le tissu hyménial fertile n'est pas disposé en lames ou en tubes, mais est inclus dans les parties supérieures du stroma charnu. De minuscules périthèces piriformes à subglobuleux, mesurant environ 200–400 µm de largeur, sont immergés sous la surface rouge du stroma, déchargeant les ascospores par de minuscules ostioles cylindriques qui ponctuent la surface. Les asques sont cylindriques, unituniqués, octosporiques, avec un anneau apical épaissi, mesurant 55–75 × 3–4 µm.",
+      stipe: "Un pied distinct est absent ou mal défini, représenté par la partie inférieure stérile et rétrécie du stroma. Il mesure 1–4 cm de longueur et 1–2,5 cm de largeur, cylindrique ou s'atténuant vers le bas dans le substrat ligneux, blanchâtre à orange jaunâtre, plein, et dépourvu d'anneau, de voile ou de volve.",
+      flesh: "La chair est épaisse, fibreuse-charnue à l'état frais, devenant subéreuse ou coriace avec l'âge, blanchâtre à crème jaunâtre pâle à l'intérieur, et ne change pas de couleur lorsqu'elle est coupée ou blessée. Elle n'a pas d'odeur distincte et sa saveur est douce ou indistincte. Le contact avec les tissus brisés doit être strictement évité.",
+      sporePrint: "Blanc jaunâtre à jaune pâle. Les ascospores sont bicellulaires, hyalines, finement épineuses ou verruqueuses, se désarticulant facilement au niveau du septum médian en deux spores partielles distinctes à l'intérieur de l'asque : une spore partielle distale subglobuleuse mesurant 3,5–3,8 × 2,8–3,4 µm, et une spore partielle proximale ellipsoïdale mesurant 2,6–4,3 × 2,8–3,5 µm.",
+      habitat: "Solitaire, dispersé ou en petites touffes sur ou à proximité de souches en décomposition, de troncs d'arbres morts et de racines décomposées enfouies d'arbres feuillus, en particulier les chênes et d'autres espèces de Fagacées. Il fructifie de juillet à octobre après de fortes pluies dans les forêts humides, tempérées chaudes et subtropicales.",
+      uses: "Il est mortellement toxique. L'ingestion provoque une toxicité multiviscérale sévère, marquée au départ par des douleurs abdominales, des vomissements et de la diarrhée, suivie en quelques jours d'une aplasie médullaire avec une leucopénie et une thrombocytopénie profondes, d'une desquamation étendue de la peau, d'une alopécie, d'une insuffisance rénale et hépatique aiguë, d'une coagulation intravasculaire disséminée, d'une atrophie cérébelleuse entraînant une ataxie et des troubles de la parole, ainsi que d'un choc mortel. Les toxines principales sont de puissants trichothécènes macrocycliques, principalement la satratoxine H et ses dérivés acétates.",
+      confusion: "Ressemble superficiellement à des espèces comestibles de Cordyceps ou à de jeunes bois de reishi (Ganoderma lingzhi), mais Ganoderma développe une croûte ligneuse laquée avec des pores en dessous. Il ressemble également quelque peu aux clavaires comestibles inoffensives Clavulinopsis miyabeana et la clavaire rose (Clavaria rosea), mais toutes deux sont dépourvues de pores périthéciaux immergés, possèdent des basidiospores sur un hyménium externe et sont fragiles. L'examen microscopique des périthèces immergés et des ascospores qui se fragmentent le distingue facilement de tous les basidiomycètes coralloïdes.",
+      notes: "C'est l'un des très rares ascomycètes mortellement toxiques connus de la science. Plusieurs empoisonnements mortels au Japon et en Corée du Sud ont résulté de récoltes de ces stromas rouge vif par des personnes croyant à tort qu'il s'agissait de champignons médicinaux comme Ganoderma ou Cordyceps et les faisant infuser dans du thé ou du saké. Des recherches chimiques ont révélé que ses mycotoxines trichothécènes agissent comme de puissants inhibiteurs de la synthèse des protéines dans les cellules eucaryotes, provoquant l'apoptose cellulaire dans de multiples organes."
     }
     },
     sources: {
@@ -53169,13 +53170,6 @@ export const CATALOG = [
           href: "https://pl.wikipedia.org/wiki/Trichoderma_cornu-damae"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipedia (English)",
-          href: "https://en.wikipedia.org/wiki/Podostroma_cornu-damae"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -53188,6 +53182,13 @@ export const CATALOG = [
           group: "text",
           name: "Magyar Mikológiai Társaság",
           href: "https://gombanet.hu/latin-magyar-online-nevjegyzek-2017"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipedia (English)",
+          href: "https://en.wikipedia.org/wiki/Podostroma_cornu-damae"
         }
       ]
     },
@@ -53544,18 +53545,6 @@ export const CATALOG = [
       confusion: "Amanita bisporigera z Ameryki Północnej ma mniejsze zarodniki i niżej umieszczony pierścień. Inne białe gatunki muchomorów (Amanita verna, Amanita virosa) mają podstawki czterozarodnikowe.",
       notes: "Prawie każda podstawka wytwarza dokładnie dwa zarodniki, z których każdy otrzymuje po dwa jądra."
     },
-    fr: {
-      description: "Un champignon ectomycorhizien printanier mortellement toxique d'un blanc pur. Indigène dans les forêts subtropicales de feuillus du sud et du sud-ouest de la Chine.",
-      cap: "Le chapeau mesure 4–8 cm de largeur, d'abord ovoïde puis convexe à étalé. Il est d'un blanc pur à crème très pâle, lisse, mat, parfois légèrement visqueux à l'humidité.",
-      hymenium: "Les lames sont libres, blanches, serrées, mesurant jusqu'à 5 mm de largeur.",
-      stipe: "Le pied mesure 7–9 cm de hauteur et 0,5–1 cm d'épaisseur, blanc, cylindrique, avec un anneau membraneux blanc fugace situé très haut et une base bulbeuse enchâssée dans une volve en sac.",
-      flesh: "La chair est blanche et immuable. Une goutte de potasse (KOH) provoque un virement jaune vif instantané sur tous les tissus.",
-      sporePrint: "Blanche. Les spores sont globuleuses à subglobuleuses, lisses, amyloïdes, mesurant environ 9–12 × 8,5–11,5 µm. Les basides portent constamment deux spores (bisporiques).",
-      habitat: "Les sporophores apparaissent de mars à mai dans les forêts de feuillus sous Castanopsis et Fagacées en Chine méridionale.",
-      uses: "Ce champignon est mortellement toxique. Il renferme de fortes concentrations d'amatoxines et de phallotoxines responsables de nombreux décès par insuffisance hépatique aiguë en Chine.",
-      confusion: "Amanita bisporigera possède des spores plus petites et un anneau inséré plus bas. L'amanite vireuse européenne (Amanita virosa) possède des basides à quatre spores.",
-      notes: "L'un des champignons responsables du plus grand nombre d'intoxications mortelles printanières dans la province du Guangdong."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi subtropicali di latifoglie della Cina meridionale e sud-orientale (in particolare provincia di Guangdong). È una specie mortale appartenente al complesso delle amanite bianche.",
       cap: "Il cappello misura 4–8 cm di diametro. Inizialmente ovoide o emisferico, poi convesso e spianato, di colore bianco candido o bianco crema al centro, liscio e privo di striature al margine.",
@@ -53579,6 +53568,18 @@ export const CATALOG = [
       uses: "Halálosan mérgező. Amatoxinokat tartalmaz nagy mennyiségben; Dél-Kína egyik leggyakoribb halálos gombamérgezést okozó faja.",
       confusion: "Hasonlít az európai fehér galócára (Amanita verna) és hegyeskalapú galócára (Amanita virosa), de csak Ázsiában fordul elő.",
       notes: "A fajnak nincs hivatalos magyar neve."
+    },
+    fr: {
+      description: "Un champignon ectomycorhizien des forêts de feuillus subtropicales du sud et du sud-ouest de la Chine, avant tout associé à l'espèce sempervirente Castanopsis fissa. Il est connu du Guangdong, du Yunnan, du Guizhou et du Zhejiang, et des cas d'empoisonnement sont connus de Thaïlande. Une récolte bisporique en provenance d'Odisha a été rattachée à cette espèce.",
+      cap: "Le chapeau mesure 4–8 cm de largeur. Il commence ovoïde, puis devient convexe et s'aplatit plus tard, parfois avec une légère dépression au centre. La surface est lisse et blanche, parfois crème sur le disque. La marge n'est pas striée et ne porte pas de fragments de voile pendants. L'hydroxyde de potassium la vire au jaune vif.",
+      hymenium: "Les lames sont libres, blanches à blanchâtres, serrées, mesurant environ 4–7 mm de largeur. Les lamellules sont abondantes et s'atténuent vers le pied. Les basides sont clavées, mesurant environ 34–53 × 11–15 µm, et portent presque toutes deux spores. Les stérigmates mesurent 4–6,5 µm de longueur. Il n'y a pas de boucles à la base des basides.",
+      stipe: "Le pied mesure 7–12 cm de longueur et 0,5–1 cm d'épaisseur, et il s'atténue vers le sommet. Il est blanc à blanchâtre, lisse ou couvert de petites écailles blanches. La base s'élargit en un bulbe globuleux ou subglobuleux de 1,5–2,5 cm de largeur. Un anneau membraneux blanc est suspendu très haut sur le pied, à seulement 3–6 mm sous l'apex, et il est mince et fragile. La volve membraneuse en sac mesure environ 1,5–2,5 cm de hauteur et 1,5–2 mm d'épaisseur.",
+      flesh: "La chair est blanche et ne change pas de couleur lorsqu'elle est coupée ou blessée. Elle vire au jaune vif avec l'hydroxyde de potassium. L'odeur n'est pas distinctive.",
+      sporePrint: "Blanche. Les spores sont lisses, à paroi mince, globuleuses à subglobuleuses, mesurant 9,5–12 × 9–11,5 µm, et amyloïdes.",
+      habitat: "Les sporophores apparaissent de mars à mai, le plus souvent en avril, solitaires ou dispersés sur le sol sous Castanopsis fissa et d'autres arbres de la famille du hêtre dans les forêts de feuillus subtropicales.",
+      uses: "Il est mortellement toxique. Il contient de fortes quantités d'amatoxines et est responsable de nombreux décès par défaillance hépatique aiguë.",
+      confusion: "Amanita bisporigera a un anneau inséré plus bas, des spores plus petites, généralement de 8–9,5 × 7–8,5 µm, et davantage de cellules renflées dans la volve. Amanita oberwinklerana est tétrasporique, avec des spores ellipsoïdes, un anneau situé plus bas que l'apex, un anneau et une volve plus fragiles, davantage de cellules renflées dans la volve et aucune réaction jaune à l'hydroxyde de potassium. Amanita subjunquillea var. alba est tétrasporique, avec un anneau inséré plus bas et des spores plus petites. L'amanite printanière (Amanita verna) est tétrasporique. L'amanite vireuse (Amanita virosa) est tétrasporique et présente des écailles blanches recourbées sur le pied. Amanita parviexitialis est bisporique, mais son chapeau mesure environ 3 cm de largeur et est légèrement brun au centre. Amanita suballiacea est tétrasporique, avec des spores ellipsoïdes à largement ellipsoïdes plus petites. Amanita pallidorosea et Amanita subpallidorosea ont souvent une teinte rose au centre du chapeau. Amanita rimosa peut se fendiller radialement à la marge du chapeau. Amanita chepangiana et Amanita alboumbelliformis ont une marge striée, un pied creux, une base non bulbeuse et des lamellules tronquées carrément. Le plutée soyeux (Volvopluteus gloiocephalus) n'a pas d'anneau, ses lames mûres et sa sporée sont roses, et il pousse sur la litière plutôt qu'avec des arbres vivants.",
+      notes: "Presque chaque baside porte deux spores, et chaque spore reçoit deux noyaux, de sorte qu'il peut établir un dicaryon sans fécondation croisée. Des génotypes multilocus identiques ont été trouvés sur des stations du Guangdong distantes de plus de 80 km. De 2019 à 2023, il a causé plus de décès en Chine que tout autre champignon, avec 135 cas et 24 morts. Environ 50 g de champignon frais renfermeraient suffisamment de toxines pour tuer un adulte de 50 kg, et les concentrations les plus élevées se trouvent dans le chapeau et les lames."
     }
     },
     sources: {
@@ -53776,13 +53777,6 @@ export const CATALOG = [
           href: "https://pl.wikipedia.org/wiki/Amanita_exitialis"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipedia (English)",
-          href: "https://en.wikipedia.org/wiki/Amanita_exitialis"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -53795,6 +53789,13 @@ export const CATALOG = [
           group: "text",
           name: "Magyar Mikológiai Társaság",
           href: "https://gombanet.hu/latin-magyar-online-nevjegyzek-2017"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipedia (English)",
+          href: "https://en.wikipedia.org/wiki/Amanita_exitialis"
         }
       ]
     },
@@ -54146,18 +54147,6 @@ export const CATALOG = [
       confusion: "Amanita fuligineoides ma większe owocniki i inną budowę pochwy. Muchomor zielonawy (Amanita phalloides) ma kapelusz z oliwkowozielonym odcieniem.",
       notes: "Odpowiada za setki zatruć i liczne zgony w południowych Chinach."
     },
-    fr: {
-      description: "Un champignon ectomycorhizien mortellement toxique à chapeau gris suie sombre. Indigène en Chine orientale et méridionale, associé aux chênes et Castanopsis.",
-      cap: "Le chapeau mesure 3–6 cm de largeur, campanulé puis convexe à étalé. Il est gris suie, bistre foncé ou brun grisâtre sombre, orné de fibrilles radiales innées plus foncées, plus pâle vers la marge.",
-      hymenium: "Les lames sont libres, blanches à gris blanchâtre, serrées.",
-      stipe: "Le pied mesure 6–10 cm de hauteur et 0,4–1 cm d'épaisseur, élancé, blanc à grisâtre pâle, portant un anneau membraneux blanc ou grisâtre et une volve membraneuse blanche en sac à la base.",
-      flesh: "La chair est blanche, mince et immuable.",
-      sporePrint: "Blanche. Les spores sont globuleuses à subglobuleuses, lisses, amyloïdes, mesurant environ 8–11 × 7,5–10 µm.",
-      habitat: "Les sporophores apparaissent de mai à septembre dans les forêts de Fagacées (chênes, Castanopsis) en Chine.",
-      uses: "Ce champignon est mortellement toxique. Il renferme d'importantes quantités d'amatoxines et provoque un syndrome phalloïdien destructeur pour le foie.",
-      confusion: "Amanita fuligineoides est plus grande et sa volve est différente. L'amanite phalloïde (Amanita phalloides) possède des teintes verdâtres et est beaucoup plus massive.",
-      notes: "Responsable de nombreuses intoxications collectives mortelles répertoriées en Chine méridionale."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi di querce e fagacee dell'Asia orientale (Cina). È una specie mortale nota per aver causato frequenti avvelenamenti collettivi fatali.",
       cap: "Il cappello misura 3–6 cm di diametro. È campanulato poi convesso e appianato con umbone centrale ottuso. La cuticola è liscia e viscosa col bagnato, di colore bruno fuligginoso o bruno-grigio scuro con fibrille innate radiali più scure.",
@@ -54181,6 +54170,18 @@ export const CATALOG = [
       uses: "Halálosan mérgező. Amatoxinokat tartalmaz; Kínában a gyilkos galóca ázsiai megfelelőjeként számos halálesetért felelős.",
       confusion: "A gyilkos galóca (Amanita phalloides) nagyobb méretű és zöldes kalapú.",
       notes: "A fajnak nincs hivatalos magyar neve."
+    },
+    fr: {
+      description: "Un champignon ectomycorhizien de Chine et d'Asie de l'Est et du Sud-Est, poussant dans les forêts de feuillus et mixtes avec des arbres de la famille du hêtre et du bouleau ainsi qu'avec des pins. C'est l'un des champignons responsables du plus grand nombre d'intoxications mortelles par amatoxines en Chine.",
+      cap: "Le chapeau mesure 3–6 cm de largeur. Il commence hémisphérique ou convexe puis devient largement convexe ou presque plat. La surface est lisse et couverte de fibrilles radiales innées brun foncé à gris-brun sur un fond grisâtre ou brunâtre plus pâle. Le centre est plus sombre, souvent brun foncé à presque noir, et la marge est plus pâle. La marge n'est pas striée et ne porte pas de restes du voile.",
+      hymenium: "Les lames sont libres, blanches à grisâtre très pâle, serrées, avec des lamellules abondantes. Les basides sont clavées, mesurant 30–45 × 8–12 µm, pour la plupart tétrasporiques. Les cystides sont absentes.",
+      stipe: "Le pied mesure 6–12 cm de longueur et 0,5–1,2 cm d'épaisseur, s'atténuant légèrement vers le sommet, plein puis farci. Il est blanc à gris pâle, souvent couvert de fibrilles ou de zigzags grisâtres sous l'anneau. Un anneau membraneux blanc à grisâtre pâle est situé dans le tiers supérieur du pied. La base s'élargit en un bulbe subglobuleux entouré d'une volve membraneuse blanche en sac.",
+      flesh: "La chair est blanche, mince, et ne change pas de couleur lorsqu'elle est coupée ou blessée. L'odeur n'est pas distinctive.",
+      sporePrint: "Blanche. Les spores sont lisses, hyalines, globuleuses à subglobuleuses, mesurant environ 7,5–10 × 7–9,5 µm, et amyloïdes.",
+      habitat: "Les sporophores apparaissent de mai à septembre, le plus souvent en été, solitaires ou dispersés sur le sol sous les Fagacées (notamment Castanopsis, Lithocarpus et Quercus) et les pins.",
+      uses: "Il est mortellement toxique. Il contient de très fortes concentrations d'amatoxines qui provoquent une nécrose hépatique aiguë et une défaillance rénale menant à la mort.",
+      confusion: "Amanita fuligineoides est plus grande, la base de son pied n'est pas globuleuse à subglobuleuse et sa volve comporte moins de cellules renflées. Amanita subfuliginea a des spores plus petites. L'amanite faux-porphyre (Amanita pseudoporphyria) peut porter des lambeaux de voile sur le chapeau, possède un anneau blanc et une volve blanche épaisse, et son pied s'épaissit vers le bas et porte des fibrilles blanches. L'amanite porphyre (Amanita porphyria) pousse sous les conifères, porte des restes de voile verruqueux ou en plaques sur le chapeau et possède une volve peu profonde. Amanita elephas a un anneau blanc et des spores plus petites. L'amanite citrine variété grise (Amanita citrina var. grisea) a un anneau jaunâtre, une volve peu profonde brun rougeâtre et une odeur singulière de rave.",
+      notes: "Le premier empoisonnement confirmé, en 1997, a impliqué 14 personnes et causé 9 décès. Des bilans ultérieurs pour le sud de la Chine font état de 33 incidents, 352 personnes intoxiquées et 79 décès. Les teneurs en toxines sont déjà élevées dans le bouton, atteignent leur maximum pendant la croissance vigoureuse du sporophore et diminuent lorsqu'il est mature. Les amatoxines surpassent les phallotoxines dans chaque tissu, et l'endroit où le champignon a poussé modifie davantage la quantité totale que l'équilibre entre les deux groupes."
     }
     },
     sources: {
@@ -54391,13 +54392,6 @@ export const CATALOG = [
           href: "https://pl.wikipedia.org/wiki/Amanita_fuliginea"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipedia (English)",
-          href: "https://en.wikipedia.org/wiki/Amanita_fuliginea"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -54410,6 +54404,13 @@ export const CATALOG = [
           group: "text",
           name: "Magyar Mikológiai Társaság",
           href: "https://gombanet.hu/latin-magyar-online-nevjegyzek-2017"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipedia (English)",
+          href: "https://en.wikipedia.org/wiki/Amanita_fuliginea"
         }
       ]
     },
@@ -54740,17 +54741,6 @@ export const CATALOG = [
       uses: "Śmiertelnie trujący. Zawiera zabójcze amatoksyny powodujące ostrą martwicę komórek wątroby i niewydolność nerek.",
       notes: "Opisany po serii tragicznych zatruć w prowincji Guangdong."
     },
-    fr: {
-      description: "Un champignon ectomycorhizien mortellement toxique des forêts de feuillus de Chine méridionale, décrit formellement en 2016.",
-      cap: "Le chapeau mesure 3–6,2 cm de largeur, hémisphérique puis convexe à étalé. Il est d'un blanc pur à crème très pâle, la cuticule se fendant radialement avec l'âge (d'où son épithète rimosa).",
-      hymenium: "Les lames sont libres, blanches, serrées, mesurant 4–5 mm de largeur.",
-      stipe: "Le pied mesure 5–9 cm de hauteur et 3–10 mm d'épaisseur, blanc, portant un petit anneau membraneux blanc et une volve membraneuse en sac à la base.",
-      flesh: "La chair est blanche, mince et immuable.",
-      sporePrint: "Blanche. Les spores sont globuleuses, lisses, amyloïdes, mesurant environ 8,5–10,5 × 8–10 µm.",
-      habitat: "Les sporophores apparaissent au sol dans les forêts de Fagacées dans le sud de la Chine.",
-      uses: "Ce champignon est mortellement toxique. Il renferme des amatoxines destructrices pour le tissu hépatique.",
-      notes: "Découvert à la suite d'empoisonnements mortels survenus dans le xian de Wengyuan au Guangdong."
-    },
     it: {
       description: "Un fungo ectomicorrizico mortale dei boschi di latifoglie della Cina meridionale (provincia di Guangdong), associato a formazioni di Castanopsis e querce.",
       cap: "Il cappello misura 3–6 cm di diametro. È emisferico poi convesso e spianato, di colore bruno chiaro, grigio-brunastro o nocciola, caratterizzato da fessurazioni o screpolature radiali evidenti verso il margine (da cui il nome rimosa).",
@@ -54772,6 +54762,17 @@ export const CATALOG = [
       habitat: "Tavasztól őszig terem szubtrópusi lombos erdőkben Kínában.",
       uses: "Halálosan mérgező. Amatoxinokat tartalmaz, amelyek sejt- és májpusztulást idéznek elő.",
       notes: "A fajnak nincs hivatalos magyar neve."
+    },
+    fr: {
+      description: "Un champignon ectomycorhizien décrit à partir de forêts subtropicales de chênes et d'autres arbres de la famille du hêtre. Il est connu du Hunan, du Hubei, du Guangdong, du Guizhou, du Yunnan et du Hainan en Chine, ainsi que du nord de la Thaïlande. Une récolte séquencée est connue de Hyōgo, au Japon. Des empoisonnements mortels sont répertoriés dans le sud de la Chine.",
+      cap: "Le chapeau mesure 3–6,2 cm de largeur. Il débute hémisphérique puis devient convexe, puis plat. La surface est sèche ou légèrement collante, et luisante lorsqu'elle est humide. Elle est blanche à blanc jaunâtre vers la marge. Le centre est jaune pâle à crème, et il peut être légèrement brun. La marge n'est pas striée et ne porte pas de voile pendant. De fines côtes radiales, parfois évidentes seulement sous une loupe, s'étendent jusqu'à une marge qui peut se craqueler.",
+      hymenium: "Les lames sont libres, serrées, blanches à blanchâtres, d'environ 4–5 mm de largeur. Les lamellules se répartissent en deux ou trois longueurs et s'atténuent vers le pied. L'arête des lames est stérile et porte des cellules renflées d'environ 20–25 × 15–20 µm. Les basides sont clavées et tétrasporiques, mesurant 38–42 × 15–18 µm, avec des stérigmates de 4–6 µm de longueur. Les boucles sont absentes au niveau des basides.",
+      stipe: "Le pied mesure 5–9 cm de longueur et la tige a une épaisseur de 0,3–1 cm. La longueur de 7–9 cm inclut le bulbe. Il est presque cylindrique, légèrement plus étroit vers le haut, et plein. Il est blanc à blanc sale, parfois orné de minuscules écailles blanches, et il peut prendre une légère teinte blanc jaunâtre au froissement. Un anneau membraneux mince est situé près du sommet. Il est en forme de jupe, légèrement strié, et blanc. La base présente un bulbe marginé globuleux à subglobuleux d'environ 1,6–2 cm de largeur. Un limbe blanc de la volve s'élève jusqu'à 1 cm depuis la marge du bulbe, et un limbe interne blanc membraneux est présent.",
+      flesh: "La chair est blanche. Dans le chapeau, elle est molle et épaisse d'environ 2–3 mm au-dessus du pied. Dans le pied, elle est pleine et blanche à blanchâtre.",
+      sporePrint: "Blanche. Les spores sont lisses, incolores et à paroi mince, globuleuses à subglobuleuses, occasionnellement largement ellipsoïdes, et souvent aplaties sur la face interne. Elles mesurent (6,0–)6,3–8,3(–8,6) × (5,6–)5,8–7,4(–8,2) µm, en moyenne environ 7,0 × 6,6 µm, avec un quotient Q de 1,01–1,16(–1,18). Le quotient Q moyen est d'environ 1,06. Elles virent au bleu dans l'iode.",
+      habitat: "Les sporophores apparaissent solitaires ou dispersés sur le sol dans les forêts de feuillus, y compris les bois de la famille du hêtre, de juin jusqu'en septembre.",
+      uses: "Il est mortellement toxique. Il contient des amatoxines et provoque des lésions hépatiques aiguës, qui peuvent évoluer vers une insuffisance hépatique. Aucun antidote spécifique n'est connu.",
+      notes: "Dans le comté de Wengyuan, dans le Guangdong, cinq personnes ont été empoisonnées, et deux d'entre elles, âgées de 15 ans et de 7 ans, sont décédées. Les champignons récoltés sur le site ont été identifiés comme appartenant à cette espèce et à Amanita fuliginea. La cuticule du chapeau mesure 130–190 µm d'épaisseur et comporte deux couches. Sa couche supérieure est légèrement gélatinisée et contient d'abondantes cellules renflées, une combinaison unique au sein d'Amanita section Phalloideae."
     }
     },
     sources: {
@@ -54976,13 +54977,6 @@ export const CATALOG = [
           href: "https://pl.wikipedia.org/wiki/Amanita_rimosa"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipedia (English)",
-          href: "https://en.wikipedia.org/wiki/Amanita_rimosa"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -54995,6 +54989,28 @@ export const CATALOG = [
           group: "text",
           name: "Magyar Mikológiai Társaság",
           href: "https://gombanet.hu/latin-magyar-online-nevjegyzek-2017"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Source",
+          href: "https://doi.org/10.11646/phytotaxa.286.4.1"
+        },
+        {
+          group: "text",
+          name: "Source",
+          href: "https://niohp.chinacdc.cn/kpdw/zdkz/201806/t20180601_172885.htm"
+        },
+        {
+          group: "text",
+          name: "Source",
+          href: "https://www.inaturalist.org/observations/334488169"
+        },
+        {
+          group: "text",
+          name: "Wikipedia (English)",
+          href: "https://en.wikipedia.org/wiki/Amanita_rimosa"
         }
       ]
     },
@@ -55317,17 +55333,6 @@ export const CATALOG = [
       confusion: "Trogia infundibuliformis ma lejkowaty kapelusz i rośnie na innych gatunkach drewna. Boczniaki (Pleurotus) mają znacznie grubszy, mięsisty miąższ.",
       notes: "Zagadkę masowych zgonów w Junnanie rozwiązano dopiero po wieloletnich badaniach epidemiologicznych i toksykologicznych."
     },
-    fr: {
-      description: "Un petit champignon lignicole saprotrophe blanc pur mortellement toxique poussant en touffes sur le bois mort. Indigène dans les régions montagneuses de la province du Yunnan en Chine.",
-      cap: "Le sporophore mesure 3–7 cm sur le petit axe et 5–10 cm sur le grand axe, délicat, étalé, en éventail ou en console mince, d'un blanc pur immaculé à crème pâle.",
-      hymenium: "Les lames sont étroites, serrées et décurrentes, blanches.",
-      stipe: "Le pied est très court, excentré ou latéral, blanc à brunâtre pâle.",
-      flesh: "La chair est très fragile, cassante et blanche. L'odeur est insignifiante.",
-      habitat: "Les sporophores apparaissent de juin à septembre sur le bois pourrissant dans les forêts de montagne du Yunnan, entre 1800 et 2600 mètres d'altitude.",
-      uses: "Ce champignon est mortellement toxique. Il est le responsable identifié du « syndrome de mort subite inexpliquée du Yunnan », qui a causé plus de 400 décès subits au cours des décennies précédentes.",
-      confusion: "Trogia infundibuliformis (Trogia infundibuliformis) possède un chapeau en entonnoir, une marge ondulée, des lames subdécurrentes, une surface hygrophane, un pied creux et une odeur agréable. Cette espèce est dépourvue de ces caractères ; son chapeau est en éventail ou en pétale, avec une marge ondulée en partie translucide et des lames étroites, et son pied est fibreux, pâle à brunâtre et plein.",
-      notes: "Il renferme des acides aminés non protéinogènes toxiques, notamment l'acide 2R-amino-4S-hydroxy-5-hexynoïque, causant une hypoglycémie foudroyante et un arrêt cardiaque brutal."
-    },
     it: {
       description: "Un piccolo fungo lignicolo saprotrofo che fruttifica a cespi su legno marcescente nelle regioni montane della Cina sud-occidentale (provincia dello Yunnan).",
       cap: "Il carpoforo è piccolo ed esile, a mensola o imbuto asimmetrico, largo 3–7 cm, di colore bianco candido da giovane, impallidendo o ingiallendo leggermente con l'età.",
@@ -55350,6 +55355,17 @@ export const CATALOG = [
       uses: "Halálosan mérgező. Nem fehérjealkotó aminosavakat tartalmaz, amelyek súlyos szívritmuszavart és szívleállást okoznak; évtizedeken át felelős volt a hírhedt 'jünnani hirtelen halál' szindrómáért, amely több száz ember életét követelte.",
       confusion: "A Trogia infundibuliformis kalapja tölcséres, széle hullámos, lemezei lefutók, felülete higrofán, tönkje üreges és kellemes illatú. A Trogia venenata ezzel szemben nem tölcséres, hanem legyező vagy szirom alakú, széle áttetszően hullámos, lemezei keskenyek, tönkje rostos, tömör (nem üreges), szürkésbarna színű.",
       notes: "A fajnak nincs hivatalos magyar neve."
+    },
+    fr: {
+      description: "Un champignon lignicole commun poussant en touffes sur le bois mort. Il croît dans les montagnes subtropicales du Yunnan, dans le sud-ouest de la Chine, et il n'est connu que du sud-ouest, du centre et du nord-ouest de la province, entre environ 1 700 et 3 000 m d'altitude.",
+      cap: "Le sporophore est délicat, mesurant environ 3–7 cm sur le plus court axe et 5–10 cm sur le plus long. Le chapeau est en forme d'éventail à semblable à un pétale, comme une feuille de ginkgo, avec une marge ondulée et en partie translucide. Il est blanc à l'état frais, et la couleur va également du rosâtre au brun clair en passant par le blanc sale.",
+      hymenium: "Les lames sont étroites et décurrentes.",
+      stipe: "Le pied est court et souvent excentré ou latéral. Il est fibreux et pâle à brunâtre, et il n'est pas creux.",
+      flesh: "La chair est fragile et facile à briser. Une odeur agréable fait défaut.",
+      habitat: "Les sporophores apparaissent de juin jusqu'au début de septembre. Les récoltes étudiées ont été faites pendant les mois pluvieux de juin, juillet et août. Ils poussent en touffes, souvent à profusion là où le champignon se trouve, sur les arbres morts, les souches, les troncs tombés et d'autres bois pourris, dans les forêts de montagne de feuillus et mixtes, y compris les bois dominés par des arbres de la famille du hêtre, du pin et du thé. Les endroits où il a été trouvé sur le terrain se situent entre environ 1 800 et 2 800 m d'altitude.",
+      uses: "Les personnes décédées après en avoir consommé s'étaient généralement bien portées auparavant. La plupart ont perdu connaissance au cours d'une activité ordinaire et sont mortes en une dizaine de minutes, ou sont tombées dans le coma et sont décédées en l'espace d'une journée. Quelques-unes ont eu des convulsions ou ont vomi alors qu'elles étaient inconscientes. Certaines s'étaient évanouies ou avaient ressenti des vertiges juste avant, et d'autres ont présenté des symptômes bénins, par intermittence pendant trois à cinq jours, qui n'avaient pas interrompu leurs activités habituelles. Du dernier repas jusqu'au décès, le délai médian était de quatre jours, dans une fourchette de 16 heures à 15 jours. Deux personnes qui en avaient consommé et ont survécu présentaient une glycémie de 3,31 et 3,65 mmol/L. L'autopsie de quatre personnes qui en avaient mangé a révélé de petits foyers de nécrose du muscle cardiaque avec infiltration lymphocytaire. Chez la souris, un extrait du champignon frais a provoqué une hypoglycémie profonde et la mort en quelques heures. Cette évolution est expérimentale et ne correspond pas au tableau clinique chez l'être humain.",
+      confusion: "Trogia infundibuliformis (Trogia infundibuliformis) possède un chapeau en entonnoir, une marge ondulée, des lames subdécurrentes, une surface hygrophane, un pied creux et une odeur agréable. La présente espèce est dépourvue de ces caractères. Son chapeau est en forme d'éventail à semblable à un pétale, avec une marge ondulée en partie translucide et des lames étroites, et le pied est fibreux, pâle à brunâtre, et non creux.",
+      notes: "Les sporophores contiennent de l'acide 2R-amino-4S-hydroxy-5-hexynoïque, de l'acide 2R-amino-5-hexynoïque et de l'acide gamma-guanidinobutyrique. Les deux acides aminés hexynoïques ne sont pas des acides aminés utilisés dans les protéines, et chez la souris ils provoquent une hypoglycémie. L'un d'eux a été retrouvé dans le sang intracardiaque d'une personne décédée subitement dans un village où poussait le champignon. Ils n'expliquent pas chaque mort subite dans la région. Plus de 400 morts subites inexpliquées ont été enregistrées dans le nord-ouest du Yunnan depuis 1978, la grande majorité chez des personnes qui semblaient en bonne santé, et plus de neuf sur dix d'entre elles se sont produites en juin, juillet et août. Dans les comtés placés sous surveillance spéciale, 395 décès de ce type ont été dénombrés de 1975 à 2009. Des mises en garde recommandant de ne pas consommer de champignons inconnus, puis un avertissement ultérieur nommant ce champignon, ont été suivis d'une baisse spectaculaire : environ 73 pour cent de décès en moins de 2006 à 2009 par rapport à la période 2002 à 2005. Les décès n'ont pas totalement cessé. La teneur en baryum dans les sporophores séchés est d'environ 0,5–22 µg par gramme, et les moyennes sur les sites échantillonnés étaient d'environ 5,4–12,2 µg par gramme, comparables à celles d'autres denrées alimentaires. Elle n'explique pas les décès. Des personnes ont récolté ce champignon par inadvertance en ramassant des champignons comestibles."
     }
     },
     sources: {
@@ -55595,13 +55611,6 @@ export const CATALOG = [
           href: "https://pl.wikipedia.org/wiki/Trogia_venenata"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipedia (English)",
-          href: "https://en.wikipedia.org/wiki/Trogia_venenata"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -55614,6 +55623,63 @@ export const CATALOG = [
           group: "text",
           name: "Magyar Mikológiai Társaság",
           href: "https://gombanet.hu/latin-magyar-online-nevjegyzek-2017"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Source",
+          href: "https://doi.org/10.1007/s11557-012-0809-y"
+        },
+        {
+          group: "text",
+          name: "Source",
+          href: "https://doi.org/10.1371/journal.pone.0035894"
+        },
+        {
+          group: "text",
+          name: "Source",
+          href: "https://doi.org/10.1371/journal.pone.0038712"
+        },
+        {
+          group: "text",
+          name: "Source",
+          href: "https://doi.org/10.1371/journal.pone.0149507"
+        },
+        {
+          group: "text",
+          name: "Source",
+          href: "https://doi.org/10.1002/anie.201106502"
+        },
+        {
+          group: "text",
+          name: "Source",
+          href: "https://doi.org/10.1128/AEM.01798-12"
+        },
+        {
+          group: "text",
+          name: "Source",
+          href: "https://doi.org/10.59265/mycoasia.2025-09"
+        },
+        {
+          group: "text",
+          name: "Source",
+          href: "https://cen.acs.org/articles/90/i7/Behind-Mushroom-Scourge.html"
+        },
+        {
+          group: "text",
+          name: "Source",
+          href: "https://www.chemistryviews.org/details/ezine/1455939/Deadly_Chinese_Mushrooms/"
+        },
+        {
+          group: "text",
+          name: "Wikipedia (English)",
+          href: "https://en.wikipedia.org/wiki/Trogia_venenata"
+        },
+        {
+          group: "text",
+          name: "Source",
+          href: "https://doi.org/10.3897/mycokeys.105.118826"
         }
       ]
     },
@@ -55719,9 +55785,9 @@ export const CATALOG = [
       ru: "лаковица аметистовая",
       uk: "лаковиця аметистова",
       pl: "lakówka ametystowa",
-      fr: "laccaire améthyste",
       it: "laccaria ametistina",
-      hu: "lila pénzecskegomba"
+      hu: "lila pénzecskegomba",
+      fr: "laccaire améthyste"
     },
     names: {
       en: ["amethyst laccaria"],
@@ -56004,18 +56070,6 @@ export const CATALOG = [
       confusion: "Lakówka pospolita (Laccaria laccata) ma taki sam pokrój, lecz kapelusz i blaszki są rdzawocieliste (bez odcienia fioletu). Grzybówka fioletowawa (Mycena pura) pachnie silnie rzodkwią i ma gęstsze blaszki.",
       notes: "Owocniki potrafią intensywnie kumulować arsen z gleby."
     },
-    fr: {
-      description: "Un petit champignon ectomycorhizien commun des sous-bois tempérés. Largement répandu dans toute l'Europe, en Amérique du Nord et en Asie.",
-      cap: "Le chapeau mesure 2–6 cm de largeur, convexe puis étalé et souvent déprimé au centre. Il est d'un magnifique violet lilas ou pourpre améthyste éclatant à l'état humide, très hygrophane, pâlissant considérablement en séchant pour devenir beige carné terne.",
-      hymenium: "Les lames sont épaisses, très espacées, adnées à subdécurrentes, d'un violet améthyste soutenu et intense.",
-      stipe: "Le pied mesure 4–10 cm de hauteur et 3–8 mm d'épaisseur, grêle, cylindrique, courbé, très fibreux et élastique, concolore au chapeau avec un feutrage mycélien lilas à la base.",
-      flesh: "La chair est très mince, aqueuse, lilas pâle. L'odeur et la saveur sont douces et agréables.",
-      sporePrint: "Blanche. Les spores sont globuleuses, nettement épineuses, mesurant environ 8–10 µm de diamètre sans les épines.",
-      habitat: "Les sporophores apparaissent de juillet à novembre sur la litière de feuilles et les mousses des forêts de hêtres, de chênes et de conifères.",
-      uses: "C'est un champignon comestible agréable, principalement utilisé pour apporter une touche de couleur dans les poêlées forestières. Seuls les chapeaux sont consommés car les pieds sont trop durs et fibreux.",
-      confusion: "Le mycène pur (Mycena pura) est toxique et possède des lames lilas pâle serrées avec une forte odeur de radis. L'inocybe géophile violet (Inocybe geophylla var. lilacina) est toxique et possède une sporée brun tabac.",
-      notes: "Cette espèce a la particularité de bioaccumuler l'arsenic présent naturellement dans le sol."
-    },
     it: {
       description: "Un piccolo fungo ectomicorrizico della lettiera e del muschio nei boschi temperati di faggio, quercia e conifere. È comune in tutta Europa.",
       cap: "Il cappello misura 2–6 cm di diametro. È convesso poi spianato e debolmente depresso al centro, igrofano: di un magnifico colore violetto ametista scuro a tempo umido, impallidendo a toni lilla chiaro o grigio-rosato quando si asciuga.",
@@ -56039,6 +56093,18 @@ export const CATALOG = [
       uses: "Ehető gomba. Bár kis termetű, élénk lila színe miatt ételek díszítésére és levesekbe szívesen gyűjtik. Képes a talajból arzént felhalmozni, ezért ipari vagy szennyezett területek közelében nem ajánlott szedni.",
       confusion: "A lila pereszke (Lepista nuda) sokkal nagyobb termetű, vastag húsú és lemezei nagyon sűrűn állnak. A mérgező lila pókhálósgombák spórapora rozsdabarna.",
       notes: "Száraz időben teljesen kifakulhat, ilyenkor nehezebb felismerni."
+    },
+    fr: {
+      description: "Un petit champignon ectomycorhizien de la litière de feuilles et des mousses des forêts tempérées, poussant souvent en groupes. Il est largement répandu en Europe et croît dans une grande partie de l'Asie, en Amérique centrale et du Sud, ainsi que dans l'est de l'Amérique du Nord. Des signalements le situent également en Afrique, en Australie et en Nouvelle-Zélande.",
+      cap: "Le chapeau mesure habituellement 2–6 cm de largeur et peut atteindre 7 cm. À l'est des montagnes Rocheuses, il ne mesure souvent que 0,5–3,5 cm. Il est d'abord convexe, avec une marge enroulée, puis s'aplatit ou devient ondulé, typiquement avec une dépression centrale, et le bord peut être lobé. La surface est d'abord lisse, puis mate, furfuracée ou finement écailleuse au centre. Il est hygrophane. À l'état humide, il est améthyste foncé, violet ou lilas violacé, parfois pourpre grisâtre. En séchant, il pâlit depuis le centre en passant par le brun lilas jusqu'au gris pâle, chamois, ocre pâle, crème ou presque blanc, et la marge peut être faiblement striée. Le revêtement piléique est un cutis d'hyphes de 6–20 µm de largeur, avec des cellules dressées ou des faisceaux de cellules. L'hydroxyde de potassium fait virer la surface du chapeau au brunâtre.",
+      hymenium: "Les lames sont épaisses, larges de 3–8 mm et espacées, entrecoupées de lamellules plus courtes. Elles sont largement adnées et descendent parfois légèrement sur le pied, ou le rejoignent avec une légère échancrure. Elles sont violettes comme le chapeau. Plusieurs descriptions indiquent qu'elles conservent cette couleur après la décoloration du chapeau, bien que les faces blanchissent sous l'effet des spores, et une mention indique que les lames elles-mêmes pâlissent avant que le chapeau ne vire au chamois. Les lames plus âgées peuvent être ondulées. Les basides sont clavées et incolores, mesurant 30–64,5 × 8,5–14 µm, généralement tétrasporiques et rarement bisporiques, avec des stérigmates atteignant jusqu'à 10 µm de longueur. Les cheilocystides sont abondantes, à paroi mince et incolores, filamenteuses à clavées ou renflées, mesurant 25–65 × 4–12 µm, et atteignent occasionnellement jusqu'à 92 µm de longueur.",
+      stipe: "Le pied mesure 0,6–12 cm de hauteur et 0,1–1 cm d'épaisseur. Il est cylindrique, souvent courbé ou tordu, et parfois légèrement plus épais à la base. Il est fibreux et tenace, plein dans le jeune âge, puis farci ou creux. La surface est fibrilleuse, ornée de fibres blanchâtres, et farineuse près du sommet. Il est violet comme le chapeau et se décolore avec lui. Un mycélium lilas à blanchâtre agglomère la litière à la base. Il n'y a pas d'anneau.",
+      flesh: "La chair est mince et aqueuse, lilas pâle à l'état humide, puis brun rosâtre ou brunâtre. L'odeur est faible et non distinctive, parfois doucement fongique. La saveur est douce et parfois légèrement sucrée.",
+      sporePrint: "Blanche à blanchâtre. Les spores sont globuleuses, rarement légèrement ellipsoïdes, et incolores, avec un rapport longueur/largeur d'environ 1–1,07. En excluant l'ornementation, elles mesurent environ 7–11 µm de diamètre. Elles sont inamyloïdes. Les épines mesurent environ 1,4–3 µm de longueur et plus de 1 µm de largeur à la base. Une mesure britannique s'arrête à 1,5 µm.",
+      habitat: "Les sporophores apparaissent de mai à décembre. En Grande-Bretagne et en Irlande, ainsi qu'en Slovaquie, la saison principale s'étend de juin à novembre. Dans les pays tchèques, ils sont signalés de juin à novembre, avec une découverte en mai, et à l'est des montagnes Rocheuses, ils fructifient à la fin du printemps et en été. Ils poussent dans la litière et les mousses des forêts de feuillus et de conifères, en particulier sous le hêtre et le chêne, ainsi qu'avec d'autres feuillus et conifères, dans les parcs et les jardins. Ils apparaissent solitaires, dispersés ou en groupes, sur sol humide parmi les feuilles et parfois sur des brindilles en décomposition.",
+      uses: "Il est comestible et n'est pas considéré comme un choix remarquable. Seuls les chapeaux valent la peine d'être cuisinés, car les pieds sont fibreux et coriaces. Les chapeaux s'utilisent dans les soupes et les sauces, où leur couleur apporte une touche décorative, et les lames sont nettoyées au préalable. Une grande quantité est nécessaire pour constituer un plat.",
+      confusion: "Le laccaire laqué (Laccaria laccata) présente la même silhouette et un pied fibreux et coriace, mais son chapeau et ses lames sont brun orangé, brun rougeâtre ou ocre rosâtre. Les vieux sporophores décolorés en chamois pâle sont alors difficiles à distinguer de cette espèce, à moins qu'il ne subsiste du violet dans les lames. Le laccaire bicolore (Laccaria bicolor) a des lames lilas dans la jeunesse, de sorte qu'un sporophore décoloré peut lui ressembler. Un Laccaria bicolor mature est plus robuste et n'est pas entièrement violet. Le laccaire améthyste occidental (Laccaria amethysteo-occidentalis) pousse à l'ouest des montagnes Rocheuses sous conifères. Il est en moyenne plus grand, le violet pâlit vers le vineux plutôt que vers le brun, et ses spores sont subglobuleuses à largement ellipsoïdes, avec un rapport longueur/largeur d'environ 1,06–1,24 et des épines plus courtes. Le laccaire brun vineux (Laccaria vinaceobrunnea), de la côte du golfe du Mexique, n'est pourpre foncé que très jeune et pâlit rapidement en brun violacé puis en brun orangé terne ou chamois. Ses spores ont une forme intermédiaire et son revêtement piléique est un palissadoderme. Il croît avec Quercus virginiana. Le laccaire de Gomez (Laccaria gomezii), des forêts de nuages à chênes d'Amérique centrale et du nord de l'Amérique du Sud, est d'un pourpre plus foncé et possède des lames serrées. La mycène pure (Mycena pura) est violette, mais ses lames sont pâles, son pied n'est pas fibreux et elle dégage une odeur de radis. La forme lilas de l'inocybe à lames terreuses (Inocybe geophylla) possède un mamelon pointu, une odeur désagréable et des lames serrées qui brunissent, avec une sporée brune. Le cortinaire violet (Cortinarius violaceus) possède un chapeau feutré et une cortine qui retient une sporée brun rouille, et d'autres espèces violettes de Cortinarius partagent cette cortine et cette couleur de sporée. Le pied-bleu (Lepista nuda) est plus charnu et plus grand, et ses sporophores ont une forme différente.",
+      notes: "Les sporophores peuvent concentrer l'arsenic. Une mesure a trouvé environ 100 microgrammes par gramme de matière sèche, et sur sol pollué la quantité peut être élevée. Le mycélium se développe facilement là où le sol est riche en ammoniac ou en autres composés azotés. Une évaluation de 2014 dans l'oblast de Mourmansk et une évaluation de 2020 dans la république de Carélie le considèrent toutes deux comme rare et quasi menacé. Les signalements de Sibérie portant ce nom doivent encore être vérifiés, car une partie de ce matériel pourrait être Laccaria amethysteo-occidentalis."
     }
     },
     sources: {
@@ -56379,23 +56445,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Laccaire_am%C3%A9thyste"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/39602"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -56418,6 +56467,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Lila_p%C3%A9nzecskegomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Laccaire_am%C3%A9thyste"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/39602"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -56541,9 +56607,9 @@ export const CATALOG = [
       ru: "гигроцибе коническая",
       uk: "гігроцибе конічна",
       pl: "wilgotnica czerniejąca",
-      fr: "hygrocybe conique",
       it: "igrocybe conica",
-      hu: "feketedő nedűgomba"
+      hu: "feketedő nedűgomba",
+      fr: "hygrocybe conique"
     },
     names: {
       en: [
@@ -56554,8 +56620,8 @@ export const CATALOG = [
       es: ['seta cónica'],
       sv: ['toppvaxskivling'],
       bg: ['шапка на вещица'],
-      fr: ["hygrophore conique"],
-      hu: ["kúpos nedűgomba"]
+      hu: ["kúpos nedűgomba"],
+      fr: ["hygrophore conique"]
     },
     text: {
       tr: {
@@ -56830,18 +56896,6 @@ export const CATALOG = [
       confusion: "Wilgotnica ostrostożkowata (Hygrocybe acutoconica) ma również stożkowaty, żółtopomarańczowy kapelusz, lecz nigdy nie czernieje po uszkodzeniu ani ze starości.",
       notes: "Nazwa obejmuje kompleks blisko spokrewnionych form i taksonów drobnych."
     },
-    fr: {
-      description: "Un champignon des prairies naturelles et pelouses non amendées, noircissant spectaculairement au froissement. Commun dans tout l'hémisphère nord.",
-      cap: "Le chapeau mesure 2–7 cm de largeur, distinctement conique et pointu, conservant son sommet aigu même en s'étalant. Il est rouge écarlate, orange vif ou jaune éclatant, visqueux par temps humide, et noircit complètement avec l'âge ou au moindre froissement.",
-      hymenium: "Les lames sont libres ou presque libres, épaisses, cireuses, jaune pâle à jaune orangé, noircissant entièrement aux meurtrissures et avec l'âge.",
-      stipe: "Le pied mesure 3–10 cm de hauteur et 3–10 mm d'épaisseur, cylindrique, jaune orangé avec des fibrilles longitudinales, noircissant au toucher.",
-      flesh: "La chair est très mince, fragile, jaune à orange, noircissant immédiatement à l'air. L'odeur est insignifiante.",
-      sporePrint: "Blanche. Les spores sont ellipsoïdes, lisses, mesurant environ 9–12 × 5,5–7 µm.",
-      habitat: "Les sporophores apparaissent de juillet à novembre dans les prairies maigres non fertilisées, les pâturages moussus, les pelouses et les lisières de bois.",
-      uses: "Considéré comme toxique ou fortement suspect. Il provoque des malaises gastro-intestinaux et sa chair noircissante est peu appétissante.",
-      confusion: "L'hygrocybe des dunes (Hygrocybe conicoides) croît sur les dunes calcaires, possède des lames jaunes, saumon ou rougeâtres, et ne noircit que beaucoup plus lentement et rarement entièrement. L'hygrocybe conique persistant (Hygrocybe acutoconica) ne noircit pas. L'hygrocybe écarlate (Hygrocybe punicea), l'hygrocybe vermillon (Hygrocybe coccinea) et l'hygrocybe nain (Hygrocybe miniata) ne noircissent jamais. L'hygrocybe noircissant (Hygrocybe nigrescens) s'en sépare par un chapeau plus obtus et une stature plus robuste. L'hygrophore perroquet (Gliophorus psittacinus) est plus panaché et présente des teintes vert perroquet.",
-      notes: "C'est une espèce indicatrice de prairies anciennes et riches en biodiversité foncière non fertilisée."
-    },
     it: {
       description: "Un fungo prativo dai colori vivacissimi che cresce nei pascoli non concimati, prati montani, dune costiere e radure erbose. È ampiamente diffuso in Europa.",
       cap: "Il cappello misura 1–6 cm di diametro. È acutamente conico e appuntito, mantenendo a lungo la forma conica anche a maturità, di colore giallo oro, arancione brillante o rosso scarlatto, vischioso a tempo umido. Con l'età o al minimo tocco annerisce progressivamente e completamente fino a diventare nero carbone.",
@@ -56865,6 +56919,18 @@ export const CATALOG = [
       uses: "Mérgező gomba, enyhe gyomor- és bélrendszeri panaszokat okoz. Vékony húsa és megfeketedése miatt étkezési célra egyébként sem alkalmas.",
       confusion: "A dűne-nedűgomba (Hygrocybe conicoides) meszes homokdűnéken nő, lemezei sárgák, lazacszínűek vagy pirosasak, és sokkal lassabban, ritkán teljesen feketedik meg; spórái hosszabbak és keskenyebbek (10–12,5 × 5–6 μm). A hegyes nedűgomba (Hygrocybe acutoconica), a gránátvörös nedűgomba (Hygrocybe punicea), a skarlátvörös nedűgomba (Hygrocybe coccinea) és az apró nedűgomba (Hygrocybe miniata) nem feketednek meg. A szürkülő nedűgomba (Hygrocybe nigrescens) tompább, kevésbé kúpos kalapú, vaskosabb termetű és tölgyesekből ismert. A Hygrocybe singeri szintén feketedik, de tönkje nyálkás. A zöldes nedűgomba (Gliophorus psittacinus) tarkább és zöld színű.",
       notes: "A természetes, műtrágyázatlan gyepek fontos indikátorfaja."
+    },
+    fr: {
+      description: "Un hygrophore de taille petite à moyenne des prairies pauvres en nutriments, des dunes et des bois ouverts. Il croît en Europe, y compris en Grande-Bretagne et en Irlande, en Asie tempérée, ainsi qu'en Australie et en Nouvelle-Zélande. Le matériel nord-américain appartient à un complexe d'espèces, et le champignon européen est probablement absent de Californie.",
+      cap: "Le chapeau est conique et nettement pointu, mesurant 1–6 cm de largeur et jusqu'à 5 cm de hauteur, avec un centre aigu. En se déployant, il devient largement conique ou campanulé, avec une marge ondulée ou lobée, qui se fend souvent. Avec l'âge, le bord peut se retrousser. Il est visqueux ou lubrifié à l'état humide et brillant à l'état sec, orné de fines fibres radiales. La couleur est écarlate, rouge orangé, orange ou jaune, souvent plus vive près de la marge et présentant parfois des teintes vertes. Les vieux chapeaux noircissent, souvent à partir de la marge ou des blessures. Lorsqu'il est endommagé ou manipulé, le chapeau noircit lentement. Le revêtement piléique est un ixocutis ou un ixotrichoderme d'hyphes gélatinisées de 2–6 µm de largeur, pourvues de boucles de conjugaison.",
+      hymenium: "Les lames sont libres ou étroitement adnées, serrées à espacées, et ascendantes. Elles sont cireuses, épaisses et cassantes, larges de 4–8 mm. La couleur est jaune pâle, citron ou jaune orangé, plus claire que celle du chapeau, avec une arête plus pâle, finement érodée ou denticulée. Elles noircissent avec l'âge ou au froissement, souvent après plusieurs heures. Les basides sont tétrasporiques ou bisporiques, clavées, mesurant 35–45 × 8–11 µm, bouclées à la base. Les spores sont lisses, ellipsoïdes à cylindriques, inamyloïdes, mesurant 8–13 × 5–7 µm chez les formes tétrasporiques et plus grandes chez les formes bisporiques. Les cheilocystides et pleurocystides sont absentes.",
+      stipe: "Le pied mesure 3–10 cm de longueur et 0,3–1 cm d'épaisseur, cylindrique ou comprimé, souvent sillonné d'une rainure longitudinale, creux à maturité. Il est fragile et se fend facilement dans le sens de la longueur en fibres. La surface est sèche, fibrilleuse-striée, ornée de fines fibrilles longitudinales torsadées. La couleur est jaune, jaune orangé ou rougeâtre, plus pâle que le chapeau, et blanchâtre à la base. Il noircit au toucher ou avec l'âge, devenant souvent entièrement noir. Le mycélium à la base est blanc. Il n'y a ni anneau ni volve.",
+      flesh: "La chair est mince, aqueuse, cassante et fragile. Elle est jaune à orange sous la cuticule et blanchâtre à jaune pâle dans le pied. Toutes les parties de la chair virent au gris puis au noir à l'exposition à l'air. L'odeur est faible et non distinctive, ou légèrement fruitée. La saveur est douce.",
+      sporePrint: "Blanche. Les spores sont incolores, lisses, ellipsoïdes à oblongues, avec un apicule excentré, mesurant 8,5–12 × 5–7 µm pour les basides tétrasporiques et jusqu'à 14 × 8 µm pour les basides bisporiques. Elles sont inamyloïdes.",
+      habitat: "Les sporophores apparaissent de l'été jusqu'à la fin de l'automne, souvent jusqu'en novembre en Europe occidentale. En Grande-Bretagne et en Irlande, ils sont signalés de juin à novembre, et en Slovaquie de juillet à novembre. Ils croissent dans les prairies permanentes non améliorées et pauvres en nutriments, les pâturages à moutons, les vieilles pelouses, les cimetières, les dunes de sable côtières, les landes et les clairières herbeuses des forêts de feuillus ou mixtes. En Amérique du Nord, ils sont également signalés dans les prairies de montagne et sur les accotements de routes. Ils fructifient solitaires ou en petits groupes dispersés sur sol moussu ou nu. L'espèce est sensible aux engrais chimiques et disparaît des prairies agricoles réensemencées ou lourdement traitées.",
+      uses: "Il est toxique et a provoqué des intoxications gastro-intestinales accompagnées de nausées, de vomissements, de crampes abdominales et de diarrhées. Les toxines responsables sont inconnues. Certains guides de terrain plus anciens le répertorient comme comestible ou de comestibilité inconnue, mais sa consommation est vivement déconseillée. Le noircissement des sporophores les rend par ailleurs peu attrayants sur le plan culinaire.",
+      confusion: "L'hygrocybe des dunes (Hygrocybe conicoides) pousse sur les dunes calcaires, possède des lames jaunes, saumon ou rougeâtres, et noircit beaucoup plus lentement et rarement entièrement. Ses spores sont plus longues et plus étroites, mesurant environ 10–12,5 × 5–6 µm. L'hygrocybe conique aigu (Hygrocybe acutoconica) ne noircit pas. L'hygrocybe ponceau (Hygrocybe punicea) présente une stature similaire et ne noircit pas. L'hygrocybe écarlate (Hygrocybe coccinea) et l'hygrocybe vermillon (Hygrocybe miniata) ne noircissent pas. L'hygrocybe noircissant (Hygrocybe nigrescens) se distingue par un chapeau plus obtus, moins conique, et un sporophore plus robuste, et il est signalé dans les bois de chênes. L'hygrocybe de Singer (Hygrocybe singeri) noircit également et possède un pied visqueux. Il est connu de la côte Ouest et de la région des Grands Lacs supérieurs. L'hygrophore perroquet (Hygrocybe psittacina) est plus bariolé et vire souvent au vert.",
+      notes: "Le nom recouvre un complexe de formes étroitement apparentées, au moins onze d'entre elles, et les auteurs n'en tracent pas les mêmes limites. Certains auteurs ne séparent pas Hygrocybe nigrescens, car des basides bisporiques et tétrasporiques peuvent coexister sur un même sporophore. Des sporophores récoltés dans des tourbières basses qui ne noircissent que peu, avec un chapeau strié et une cuticule pelable, ont été séparés sous forme de variété, et leurs spores sont un peu plus longues et plus étroites. Les récoltes enregistrées sous ce nom en Californie appartiennent à un complexe, et l'espèce européenne y est probablement absente. De nombreuses récoltes australiennes qui lui ont été attribuées correspondent à Hygrocybe astatogala. Les sporophores matures deviennent noirs et peuvent rester dressés pendant des semaines. Il est classé comme préoccupation mineure (Least Concern) au Danemark, en Finlande, en Norvège et en Suède. Il a été considéré comme un partenaire mycorhizien des graminées et comme un saprotrophe sur racines mortes. Une association mutualiste avec les mousses est aujourd'hui jugée probable, et son mode trophique n'est pas définitivement établi."
     }
     },
     sources: {
@@ -57179,23 +57245,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Hygrocybe_conique"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/39603"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -57218,6 +57267,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Feketed%C5%91_ned%C5%B1gomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Hygrocybe_conique"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/39603"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -57343,9 +57409,9 @@ export const CATALOG = [
       ru: "опёнок луговой",
       uk: "опеньок луговий",
       pl: "twardzioszek przydrożny",
-      fr: "marasme des oréades",
       it: "gambasecca",
-      hu: "mezei szegfűgomba"
+      hu: "mezei szegfűgomba",
+      fr: "marasme des oréades"
     },
     names: {
       en: ["fairy ring champignon", "Scotch bonnet"],
@@ -57356,9 +57422,9 @@ export const CATALOG = [
       bg: ['челядинка', 'гвоздейка'],
       ru: ["негниючник луговой","луговик"],
       uk: ["негниючник лучний","маразміус лучний"],
-      fr: ["faux mousseron","bouton de guêtre"],
       it: ["marasmiotto"],
-      hu: ["csirkegomba","illatos szegfűgomba","közönséges szegfűgomba"]
+      hu: ["csirkegomba","illatos szegfűgomba","közönséges szegfűgomba"],
+      fr: ["faux mousseron","bouton de guêtre"]
     },
     text: {
       tr: {
@@ -57634,18 +57700,6 @@ export const CATALOG = [
       confusion: "Trujące małe lejkówki (np. lejkówka jadowita Clitocybe rivulosa) rosną na tych samych trawnikach; mają gęste, zbiegające blaszki i łamliwy trzon.",
       notes: "Zasuszone owocniki po nawilżeniu wodą ożywają i potrafią ponownie wysypywać zdolne do kiełkowania zarodniki."
     },
-    fr: {
-      description: "Un champignon saprotrophe commun formant des ronds de sorcières dans les pelouses et pâturages. Répandu dans toute l'Europe, en Amérique du Nord et en Asie.",
-      cap: "Le chapeau mesure 1–5 cm de largeur, convexe avec un mamelon central obtus, puis étalé. Il est chamois ocré, beige carné ou noisette pâle, très hygrophane, pâlissant en crème à sec. La surface est lisse et glabre.",
-      hymenium: "Les lames sont très espacées, épaisses, libres ou adnées, blanc crème à chamois clair.",
-      stipe: "Le pied mesure 3–8 cm de hauteur et 2–5 mm d'épaisseur, grêle, cylindrique, très tenace et coriace : on peut le tordre sur lui-même à plusieurs tours sans qu'il ne se brise. Il est blanchâtre à chamois pâle.",
-      flesh: "La chair est mince, ferme et blanchâtre. L'odeur est agréable, d'amande amère ou d'acide cyanhydrique ; la saveur est douce et noisetée.",
-      sporePrint: "Blanche. Les spores sont ellipsoïdes à subfusiformes, lisses, mesurant environ 8–10 × 5–6 µm.",
-      habitat: "Les sporophores apparaissent de mai à novembre, souvent en spectaculaires cercles de sorcières, dans les pelouses, prairies et pâturages.",
-      uses: "C'est un excellent comestible très recherché. Seuls les chapeaux sont récoltés en coupant les pieds trop coriaces. Il se sèche exceptionnellement bien et reprend toute sa souplesse après réhydratation.",
-      confusion: "Le clitocybe blanc d'ivoire (Clitocybe rivulosa) est mortellement toxique et pousse dans les mêmes pelouses ; il possède des lames serrées et décurrentes et un chapeau blanc givré sans mamelon net.",
-      notes: "Les sporophores desséchés par le soleil peuvent revivre et sporuler de nouveau après une pluie (phénomène de reviviscence)."
-    },
     it: {
       description: "Un comune fungo saprotrofo prativo che forma caratteristici cerchi delle streghe o file nei prati, pascoli, campi sportivi e giardini. È diffusissimo in tutta Europa.",
       cap: "Il cappello misura 1–5 cm di diametro. È convesso poi appianato con un umbone centrale ottuso e prominente. È igrofano: di colore bruno-camoscio o nocciola chiaro a tempo umido, schiarente al crema chiaro o isabella quando asciutto.",
@@ -57669,6 +57723,18 @@ export const CATALOG = [
       uses: "Kiváló csemegegomba. Levesek (különösen a hagyományos szegfűgombaleves), pörköltek és mártások készítésére az egyik legfinomabb gomba; szárítva aromája felerősödik. Szívós tönkjét mindig le kell vágni.",
       confusion: "A mérgező kerti susulyka (Inocybe rimosa) lemezei sűrűk és hamar sötétbarnák lesznek. A mérgező mezei tölcsérgomba (Clitocybe rivulosa) lemezei sűrűn állók és lefutók a tönkre, és nincs mandulaillata.",
       notes: "A termőtestek szárazság idején kiszáradnak, majd eső hatására újra életre kelnek (reviviszcencia). Magyarországon 2014-ben az év gombája volt."
+    },
+    fr: {
+      description: "Un petit champignon saprotrophe des milieux herbeux. Il croît à travers l'Europe, l'Amérique du Nord et le nord de l'Asie, ainsi que dans certaines parties de l'hémisphère sud. Il possède un chapeau mamelonné, un pied coriace et souple, et des lames espacées qui ne descendent pas sur le pied. Il forme des ronds de sorcières, mesurant parfois plusieurs dizaines de mètres de diamètre, sur l'herbe rase.",
+      cap: "Le chapeau mesure 1–5 cm de largeur, atteignant parfois 6 cm. Il est d'abord convexe, puis s'aplatit tout en conservant un mamelon large et obtus au centre. La marge est faiblement striée à l'état humide et lisse au sec, parfois ondulée ou retroussée avec l'âge. La surface est lisse et hygrophane. À l'état humide, il est brun clair, chamois, ocre pâle ou rose brunâtre incarnat, plus pâle vers le bord. En séchant, il pâlit pour devenir crème, chamois pâle ou blanchâtre. Par temps sec, il peut paraître desséché et ratatiné, et il revit dès le retour de la pluie. La cuticule du chapeau est un hyméniderme de cellules clavées mesurant 12–25 × 7–15 µm, avec des cellules en brosse absentes ou rares.",
+      hymenium: "Les lames sont libres ou étroitement adnées, assez larges et nettement espacées, entrecoupées de lamellules plus courtes. Elles sont blanchâtres, crème ou chamois pâle, plus claires que le chapeau humide, et restent pâles lorsque le chapeau sèche. Les arêtes sont lisses. Les basides sont tétrasporiques, clavées, mesurant 30–40 × 6–8 µm. Les pleurocystides et cheilocystides sont absentes.",
+      stipe: "Le pied mesure 3–8 cm de longueur et 2–5 mm d'épaisseur, cylindrique, plein et tenace. Il ne casse pas lorsqu'on le tord ou qu'on le plie en deux. La surface est sèche, chamois pâle, crème ou blanchâtre, couverte d'un fin duvet pâle ou de granules farineux, et plus brunâtre près de la base. La base présente un mycélium blanchâtre et ne porte aucun anneau. La trame du pied est constituée d'hyphes parallèles à paroi épaisse.",
+      flesh: "La chair est mince, blanchâtre à chamois pâle, et souple dans le chapeau, coriace et fibreuse dans le pied. Elle ne change pas de couleur à la coupe. L'odeur est agréable et douce, rappelant l'amande amère, la coumarine ou la sciure fraîche. La saveur est douce, de noisette et sucrée.",
+      sporePrint: "Blanche à crème pâle. Les spores sont lisses, ellipsoïdes à en forme de pépin, mesurant 7–10 × 4–6 µm, avec un apicule excentré. Elles sont inamyloïdes. Des boucles de conjugaison sont présentes dans tous les tissus.",
+      habitat: "Les sporophores apparaissent de mai à novembre, souvent par poussées après les pluies d'été ou d'automne. Dans les climats doux, ils peuvent fructifier jusqu'en hiver. Ils poussent dans l'herbe rase : pelouses, pâturages, prairies, parcs, terrains de golf, dunes de sable et bords de routes. Ils se développent habituellement en groupes, en arcs ou en ronds. L'espèce est saprotrophe, décomposant les racines des graminées et la matière végétale morte.",
+      uses: "Un excellent champignon comestible à la saveur douce de noisette. Les pieds coriaces sont éliminés et seuls les chapeaux sont cuisinés. Il sèche très bien, se réhydrate facilement et conserve toute sa saveur au séchage.",
+      confusion: "Le clitocybe du bord des chemins (Clitocybe rivulosa) pousse dans les mêmes pelouses et peut former des ronds. Ses lames sont serrées et décurrentes, son chapeau est blanc, gris ou brun-ocre et convexe sans mamelon, et son pied est plus raide et moins souple. L'agrocybe précoce (Agrocybe praecox) a des lames chamois qui foncent et une sporée brune. L'agrocybe des pelouses (Agrocybe pediades) est dépourvu de mamelon, son pied se casse facilement et la sporée colore les lames en brun. Le marasme des collines (Marasmius collinus) possède un pied lisse et fragile qui casse lorsqu'on le tord, des lames plus denses et une odeur désagréable. Le marasme à pied rouge (Marasmius torquescens) croît dans la litière de feuilles des forêts de feuillus et possède un bas de pied brun rouille foncé à noir. Le marasme de Wynne (Marasmius wynneae) a un chapeau blanchâtre pâle, une base de pied sombre et des spores plus petites. La collybie du chêne (Gymnopus dryophilus) possède des lames beaucoup plus serrées.",
+      notes: "Les sporophores desséchés revivent dans l'eau. Ils reprennent leur forme et peuvent former de nouvelles cellules et de nouvelles spores. Les sporophores contiennent du tréhalose, un sucre qui permet aux cellules de survivre à la dessiccation. Là où le mycélium se développe en rond, l'herbe le long du front vivant est d'un vert plus foncé, tandis que l'herbe à l'intérieur du rond est brune là où le mycélium est mort."
     }
     },
     sources: {
@@ -57982,23 +58048,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Marasme_des_or%C3%A9ades"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/39604"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -58021,6 +58070,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Mezei_szegf%C5%B1gomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Marasme_des_or%C3%A9ades"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/39604"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -58135,9 +58201,9 @@ export const CATALOG = [
       ru: "кордицепс военный",
       uk: "кордицепс військовий",
       pl: "maczużnik bojowy",
-      fr: "cordyceps militaire",
       it: "cordyceps militare",
-      hu: "vörös rovarrontógomba"
+      hu: "vörös rovarrontógomba",
+      fr: "cordyceps militaire"
     },
     names: {
       en: ["scarlet caterpillar fungus", "scarlet caterpillar club"],
@@ -58417,18 +58483,6 @@ export const CATALOG = [
       confusion: "Goździeniowiec piękny (Clavulinopsis laeticolor) tworzy podobne pomarańczowe pałeczki na ziemi, lecz nie wyrasta z owadów i należy do podstawczaków.",
       notes: "Wytwarza kordycepinę, analog nukleozydu adenozyny."
     },
-    fr: {
-      description: "Un champignon ascomycète parasite entomopathogène se développant sur les chenilles et chrysalides enfouies de papillons. Répandu dans toute l'Europe, en Asie et en Amérique du Nord.",
-      cap: "Le sporophore (stroma) mesure 2–6 cm de hauteur et 2–6 mm d'épaisseur, en massue dressée, cylindrique ou clavée, d'un orange vif à rouge écarlate éclatant.",
-      hymenium: "L'hyménium est situé dans la partie supérieure renflée de la massue, ponctuée de petites rugosités correspondant aux ostioles des périthèces immergés.",
-      stipe: "La partie inférieure du stroma est un pied stérile plus pâle et lisse relié directement à la chrysalide souterraine de l'insecte hôte.",
-      flesh: "La chair est ferme, fibreuse et orangée. L'odeur et la saveur sont insignifiantes.",
-      sporePrint: "Blanche. Les ascospores sont filiformes, très longues, se fragmentant à maturité en nombreux petits articles cylindriques mesurant 3–5 × 1–1,5 µm.",
-      habitat: "Les sporophores apparaissent d'août à novembre dans les pelouses moussues, les clairières et les landes, émergeant de chrysalides enfouies dans le sol.",
-      uses: "Sans intérêt culinaire, mais largement cultivé et utilisé en médecine traditionnelle et pharmacologie pour sa teneur en cordycépine.",
-      confusion: "Les clavaires orangées (comme Clavulinopsis laeticolor) poussent sur le sol nu sans connexion avec un insecte souterrain.",
-      notes: "Une évaluation de 2019 le classe en préoccupation mineure (Least Concern)."
-    },
     it: {
       description: "Un fungo ascomicete entomopatogeno parassita di crisalidi e bruchi sotterranei di lepidotteri (falene). È ampiamente diffuso nelle zone temperate e boreali dell'emisfero settentrionale.",
       cap: "Il corpo fruttifero o stroma è a forma di clava eretta semplice, alta 2–6 cm e spessa 2–6 mm, di colore arancio brillante o rosso-aranciato. La porzione apicale fertile è rigonfia e cosparsa di minutissimi puntini in rilievo (gli ostioli dei periteci).",
@@ -58452,6 +58506,18 @@ export const CATALOG = [
       uses: "Ehető és kiemelkedő gyógyhatású gomba. A hagyományos kínai orvoslásban és a modern fitoterápiában nagyra becsülik: kordicepint, adenozint és immunmoduláns poliszacharidokat tartalmaz, amelyek vitalizáló, fáradtságcsökkentő és immunerősítő hatásúak. Mesterséges táptalajon is termesztik.",
       confusion: "A lángvörös agancsgomba (Calocera viscosa) kocsonyás állagú és korhadó fenyőfán terem. A mérgező Trichoderma cornu-damae nagyobb és nem rovarbábokból nő.",
       notes: "A gomba kordicepint termel, amely az adenozin nukleozid-analógja. Kínában, Vietnámban, Tajvanon és Indonéziában rizsen, selyemhernyóbábokon és folyékony táptalajon is termesztik. A bábokon megjelenő fehér, porszerű bevonatot korábban Isaria farinosa néven írták le, de nem bizonyított, hogy ez a növekmény azonos fajhoz tartozna."
+    },
+    fr: {
+      description: "Un petit ascomycète parasite orangé en forme de massue qui fructifie à partir de chrysalides et de larves de papillons enfouies dans la mousse et la litière. Il est largement répandu à travers l'Europe, l'Asie et l'Amérique du Nord, des plaines jusqu'aux montagnes. En Europe centrale ainsi qu'en Grande-Bretagne et en Irlande, il est signalé dans la plupart des régions mais est rarement trouvé en grand nombre.",
+      cap: "Il n'y a pas de chapeau distinct. La partie supérieure est une tête fertile orangée, cylindrique à claviforme, haute de 1–5 cm et épaisse de 2–6 mm, atteignant rarement 10 mm. La surface est rendue rugueuse par les ostioles des périthèces, qui ressemblent à des boutons orangé plus foncé ou rougeâtres. La chair à l'intérieur de la tête est blanche à orangée.",
+      hymenium: "L'hyménium tapisse les périthèces en forme de bouteille qui sont immergés dans la couche externe de la tête fertile. Les asques sont longs, cylindriques, mesurant 300–500 × 3–5 µm, et contiennent huit ascospores. Les ascospores sont filiformes, incolores, multiseptées, et se fragmentent à l'intérieur de l'asque en minuscules articles sporaux mesurant 2–4,5 × 1–1,5 µm.",
+      stipe: "La partie inférieure, stérile, est un pied lisse, orange pâle ou jaunâtre, long de 1–3 cm et épais de 1,5–3 mm, plus étroit que la tête fertile. Il descend jusqu'à la chrysalide enfouie et est souvent courbé. Il n'y a pas d'anneau.",
+      flesh: "Coriace et fibreuse, blanchâtre à orange pâle. Odeur et saveur non distinctives.",
+      sporePrint: "Blanche. Les ascospores se divisent en articles sporaux cylindriques, lisses et hyalins.",
+      habitat: "Solitaire ou en petits groupes sur des chrysalides ou des larves enfouies de lépidoptères, rarement de coléoptères, dans les pelouses moussues, les landes, les pâturages, les bois clairs et le long des sentiers. Il fructifie de la fin de l'été jusqu'à la fin de l'automne, typiquement d'août à novembre en Europe occidentale et centrale, et jusqu'en hiver dans les régions douces.",
+      uses: "Il n'est pas ramassé comme champignon culinaire en raison de sa petite taille et de sa chair coriace. Il est largement utilisé en médecine traditionnelle chinoise, où il sert de substitut courant à Ophiocordyceps sinensis. Il est cultivé commercialement sur des céréales et sur des chrysalides de vers à soie. L'Autorité européenne de sécurité des aliments a évalué Cordyceps militaris cultivé en 2024 et a conclu qu'une consommation quotidienne de 1,4 à 2,1 g de poudre séchée n'a pas été démontrée comme sûre pour les adultes, en partie parce que la cordycépine peut provoquer des effets toxiques chez les animaux, alors que des compléments alimentaires contenant ce champignon continuent d'être vendus. Dans l'Union européenne, il est considéré comme un nouvel aliment (novel food), et une demande d'autorisation a été déposée. Le mycélium d'Ophiocordyceps sinensis vendu dans les compléments n'est pas considéré comme un nouvel aliment.",
+      confusion: "La clavaire de couleur gaie (Clavulinopsis laeticolor) est une massue orange qui peut être confondue avec cette espèce avant que la base ne soit déterrée. Cordyceps militaris possède une tête fertile ponctuée de boutons et croît à partir d'une chrysalide ou d'une larve enfouie. Le cordyceps ophioglosse (Tolypocladium ophioglossoides) est brun rougeâtre à noir au sommet et jaune, brun ou noir en dessous, et des cordons jaunes le relient à un Elaphomyces enfoui.",
+      notes: "Le champignon produit de la cordycépine, un analogue nucléosidique de l'adénosine. Il est cultivé sur du riz, sur des chrysalides de vers à soie et en milieu liquide en Chine, au Vietnam, à Taïwan et en Indonésie. Un feutrage poudreux blanc sur les chrysalides a été nommé Isaria farinosa, et il n'est pas établi que cette forme appartienne à la même espèce. Parmi les espèces de Cordyceps signalées en Grande-Bretagne et en Irlande, c'est celle qui est le plus fréquemment trouvée."
     }
     },
     sources: {
@@ -58755,23 +58821,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Cordyceps_militaris"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/4863"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -58794,6 +58843,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/V%C3%B6r%C3%B6s_rovarront%C3%B3gomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Cordyceps_militaris"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/4863"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -58906,9 +58972,9 @@ export const CATALOG = [
       ru: "ежовик гребенчатый",
       uk: "їжовик гребінчастий",
       pl: "soplówka jeżowata",
-      fr: "hydne hérisson",
       it: "criniera di leone",
-      hu: "süngomba"
+      hu: "süngomba",
+      fr: "hydne hérisson"
     },
     names: {
       en: ["bearded tooth", "bearded hedgehog", "tree hedgehog"],
@@ -58917,9 +58983,9 @@ export const CATALOG = [
       bg: ['лъвска грива'],
       ru: ["дедова борода"],
       uk: ["герицій гребінчастий"],
-      fr: ["crinière de lion"],
       it: ["fungo istrice","testa di scimmia"],
-      hu: ["cérnagomba","közönséges süngomba","szakállas süngomba"]
+      hu: ["cérnagomba","közönséges süngomba","szakállas süngomba"],
+      fr: ["crinière de lion"]
     },
     text: {
       tr: {
@@ -59196,18 +59262,6 @@ export const CATALOG = [
       confusion: "Soplówka bukowa (Hericium coralloides) ma owocnik silnie rozgałęziony, przypominający koralowiec, z krótszymi kolcami. Soplówka jodłowa (Hericium alpestre) rośnie na jodłach.",
       notes: "Ocena z 2019 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern), choć populacje w Europie są nieliczne. W Polsce gatunek rzadki, podlegający ochronie ścisłej."
     },
-    fr: {
-      description: "Un champignon lignicole rare et spectaculaire provoquant une pourriture blanche dans les cavités des vieux arbres feuillus. Présent en Europe, en Asie de l'Est et en Amérique du Nord.",
-      cap: "Le sporophore mesure 10–30 cm de diamètre, formant un coussin globuleux massif et non ramifié, d'un blanc pur à crème ivoire, jaunissant légèrement avec l'âge.",
-      hymenium: "La surface est entièrement couverte d'une cascade spectaculaire de longs aiguillons pendants et mous de 2–5 cm de longueur, rappelant une crinière ou une toison.",
-      stipe: "Le pied est généralement absent ou réduit à une base d'attache latérale épaisse fixée au tronc.",
-      flesh: "La chair est blanche, élastique, épaisse et tendre au début. L'odeur est agréable et fruitée ; la saveur est douce, souvent comparée à celle de la chair de crabe ou de homard.",
-      sporePrint: "Blanche. Les spores sont subglobuleuses, lisses à très finement rugueuses, amyloïdes, mesurant environ 5–6,5 × 4,5–5,5 µm.",
-      habitat: "Les sporophores apparaissent d'août à novembre sur les troncs et dans les cavités des vieux hêtres (Fagus) et chênes (Quercus) sénescents.",
-      uses: "C'est un excellent champignon comestible de choix très raffiné. Il est également largement cultivé pour ses propriétés médicinales nootropiques (stimulation du NGF).",
-      confusion: "L'hydne corail (Hericium coralloides) est abondamment ramifié comme un corail marin et possède des aiguillons plus courts.",
-      notes: "Une évaluation de 2019 le classe en préoccupation mineure (Least Concern)."
-    },
     it: {
       description: "Un raro fungo lignicolo agente di carie bianca, parassita e saprotrofo su vecchi tronchi viventi o morti di latifoglie (specialmente quercia e faggio). È indigeno in Europa, Nord America e Asia orientale.",
       cap: "Non è presente un vero cappello differenziato. Il corpo fruttifero forma una grossa massa globosa o a cuscinetto compatto non ramificato, larga 10–30 cm, di colore bianco candido poi crema e infine giallastro-brunastro in vecchiaia.",
@@ -59231,6 +59285,18 @@ export const CATALOG = [
       uses: "Kiváló csemegegomba és kiemelkedő gyógygomba. Konyhai értéke rendkívüli: vajban átsütve textúrája és íze a tenger gyümölcseire hasonlít. Gyógyászatilag hericenonokat és erinacineket tartalmaz, amelyek serkentik az idegnövekedési faktort (NGF), segítik a memóriát és védik a központi idegrendszert. Széles körben termesztik.",
       confusion: "A közönséges petrezselyemgomba (Hericium coralloides) korallszerűen gazdagon elágazó ágrendszerű, nem egyetlen tömör tömbből áll.",
       notes: "Magyarországon védett faj, természetvédelmi értéke 10 000 Ft. Magyarországon 2018-ban az év gombája volt."
+    },
+    fr: {
+      description: "Un champignon lignicole à aiguillons des vieilles forêts de feuillus. Il est indigène en Europe, principalement sur hêtre et chêne, et rare sur une grande partie de son aire de répartition. Une étude de 2025 restreint ce nom au champignon européen. Les formes équivalentes d'Asie orientale et de l'est et de l'ouest de l'Amérique du Nord appartiennent à d'autres espèces.",
+      cap: "Il n'y a pas de chapeau distinct. Le sporophore forme un coussin non ramifié, arrondi, en forme de cœur ou allongé, mesurant habituellement 10–25 cm de largeur et jusqu'à environ 30 cm, et environ 7–18 cm de hauteur, fixé par une attache courte et large. Il est blanc, puis crème, jaune pâle ou jaune cire, et ocre à brun avec l'âge. La face supérieure peut être courtement poilue ou feutrée.",
+      hymenium: "Des aiguillons pendants et très serrés couvrent la face inférieure. Ils sont épais à la base, coniques, pointus et cassants. Ils mesurent habituellement 1–5 cm de longueur, parfois 6 cm, et occasionnellement 8 cm. Ils sont blancs, puis crème ou jaune cire, et enfin ocre ou bruns. Les basides sont clavées, mesurant 25–40 × 5–8 µm, et tétrasporiques, avec une boucle basale. Des gléocystides cylindriques sont présentes. Les hyphes sont monomitiques et génératrices, hyalines et bouclées, à paroi mince à épaisse, larges d'environ 3–15 µm, et amyloïdes.",
+      stipe: "Un pied distinct est généralement absent. Le sporophore est sessile, ou présente une base blanche courte et large d'environ 1–3 cm de longueur. Il n'y a pas d'anneau.",
+      flesh: "La chair est épaisse, blanche, élastique et ferme, et elle devient coriace avec l'âge. Une coupe fraîche reste blanche. La chair séchée devient jaunâtre à brun rougeâtre. L'odeur est douce, parfois légèrement fruitée ou rappelant un peu le lait caillé. La saveur est douce à sucrée.",
+      sporePrint: "Blanche. Les spores sont largement ellipsoïdes à subglobuleuses, à paroi épaisse, lisses à finement rugueuses, et amyloïdes. Elles contiennent souvent une grosse gouttelette lipidique. Elles mesurent environ 5–7 × 4–5,5 µm.",
+      habitat: "Les sporophores apparaissent de juillet à novembre, et jusqu'au début de l'hiver en France et en Espagne. Lors d'un hiver doux, un vieux sporophore peut encore persister en janvier. Ils poussent isolés ou en petits groupes, à partir des blessures de hêtres et de chênes vivants, ainsi que sur des troncs morts, des souches et des billes tombées de ces essences et d'autres feuillus, notamment le charme, le frêne, l'érable, le robinier faux-acacia, le platane, le noyer et l'ailante. La pourriture est blanche et peut pénétrer dans le bois de cœur. Ils apparaissent également sur des tas de sciure. Le même tronc peut fructifier de nouveau les années suivantes.",
+      uses: "Les jeunes sporophores sont un comestible de choix, et leur saveur a été comparée à celle du homard, du poisson ou d'une viande tendre. Les sporophores plus âgés deviennent coriaces. Le champignon est cultivé sur des bûches de feuillus et sur de la sciure, et les sporophores sont commercialisés.",
+      confusion: "L'hydne corail (Hericium coralloides) est ramifié et coralliforme, avec des aiguillons plus courts, et croît généralement sur le hêtre et le frêne. L'hydne hérissé (Hericium cirrhatum) possède des aiguillons plus courts, mesurant environ 10–15 mm de longueur, et une console étagée plus mince avec des chapeaux distincts. L'hydne des sapins (Hericium alpestre) est ramifié et se développe sur le bois de conifères. L'hydne d'Amérique (Hericium americanum) est ramifié, pourvu de longs aiguillons, et croît dans l'est de l'Amérique du Nord. Un Hericium ramifié immature peut débuter sous la forme d'une masse unique, et un jeune sporophore à longs aiguillons peut avoir des aiguillons de 1 cm ou moins, de sorte que le coussin non ramifié d'un sporophore mature constitue la distinction la plus nette. Le pied-de-mouton (Hydnum repandum) et l'hydne roussissant (Hydnum rufescens) portent des aiguillons sous un chapeau régulier et poussent au sol.",
+      notes: "Une évaluation de 2019 classe l'espèce comme préoccupation mineure (Least Concern) et en déclin, tout en traitant les champignons européens, asiatiques et nord-américains comme une seule espèce. En Pologne, une liste nationale le signale comme en danger (Endangered). Une liste nationale tchèque le traite comme vulnérable (Vulnerable). Une grande partie du matériel cultivé vendu sous ce nom correspond à une espèce d'Asie orientale. Des héricénones et des érinacines sont signalées dans les sporophores et le mycélium vendus sous ce nom, et leurs effets médicinaux ne sont pas prouvés."
     }
     },
     sources: {
@@ -59583,23 +59649,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Hydne_h%C3%A9risson"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/4864"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -59622,6 +59671,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/S%C3%BCngomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Hydne_h%C3%A9risson"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/4864"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -59769,9 +59835,9 @@ export const CATALOG = [
       ru: "трутовик лакированный",
       uk: "трутовик лакований",
       pl: "lakownica żółtawa",
-      fr: "ganoderme luisant",
       it: "ganoderma lucido",
-      hu: "pecsétviaszgomba"
+      hu: "pecsétviaszgomba",
+      fr: "ganoderme luisant"
     },
     names: { es: ['reishi', 'seta pipa'],
       pt: ['cogumelo-da-imortalidade', 'reishi'],
@@ -59779,8 +59845,8 @@ export const CATALOG = [
       ru: ["ганодерма лакированная","рейши"],
       uk: ["ганодерма лакована"],
       pl: ["lakownica lśniąca"],
-      fr: ["reishi"],
-      hu: ["lakkostapló"]
+      hu: ["lakkostapló"],
+      fr: ["reishi"]
     },
     text: {
       tr: {
@@ -60054,18 +60120,6 @@ export const CATALOG = [
       confusion: "Lakownica spłaszczona (Ganoderma applanatum) jest beztrzonowa, matowa, bez lakierowanego połysku i wieloletnia.",
       notes: "W Polsce gatunek rzadki, podlegający ochronie częściowej."
     },
-    fr: {
-      description: "Un champignon lignicole annuel parasite et saprotrophe remarquable par son aspect laqué. Répandu en Europe, en Asie et en Amérique du Nord.",
-      cap: "Le chapeau mesure 5–20 cm de largeur, en forme de rein ou d'éventail aplati. La face supérieure est recouverte d'une croûte lisse brillante et laquée, zonée de sillons concentriques, variant du jaune orangé au rouge acajou, brun pourpre foncé et noirâtre vers le centre, bordée d'une marge blanche ou jaune dans la jeunesse.",
-      hymenium: "La face inférieure porte de minuscules pores ronds (4 à 5 par millimètre), d'abord blancs puis crème grisâtre et brunissant au froissement.",
-      stipe: "Le pied mesure 5–15 cm de hauteur et 1–3 cm d'épaisseur, latéral ou excentré, noueux, luisant et vernissé de rouge sombre ou noir violacé.",
-      flesh: "La chair est épaisse, coriace, subéreuse et ligneuse, brun cannelle foncé. L'odeur est fongique ; la saveur est amère.",
-      sporePrint: "Brun rouille. Les spores sont ovoïdes à sommet tronqué, à double paroi ornée d'épines microscopiques internes, mesurant environ 9–12 × 6–8 µm.",
-      habitat: "Les sporophores apparaissent de mai à octobre au pied des troncs et sur les racines des feuillus, en particulier les chênes et les châtaigniers.",
-      uses: "Non comestible en raison de sa consistance dure et ligneuse. C'est l'un des champignons médicinaux les plus vénérés au monde (le Reishi ou Lingzhi en Asie), utilisé sous forme de décoctions, poudres et extraits.",
-      confusion: "Le ganoderme résineux (Ganoderma resinaceum) est généralement sans pied et possède une croûte molle qui fond sous la flamme d'une allumette.",
-      notes: "Une évaluation de 2019 le classe en préoccupation mineure (Least Concern)."
-    },
     it: {
       description: "Un fungo poliporaceo annuale saprotrofo o parassita lignicolo agente di carie bianca, che cresce alla base o sulle radici di latifoglie (soprattutto querce e castagni). È ampiamente diffuso in Europa, Asia e Nord America.",
       cap: "Il cappello è a forma di rene o ventaglio, largo 5–25 cm. La superficie è solcata concentricamente e ricoperta da una tipica crosta laccata lucida e brillante come vernice, di colore rosso sangue, bruno-rossastro o mogano scuro, con bordo biancastro o giallastro durante l'accrescimento.",
@@ -60089,6 +60143,18 @@ export const CATALOG = [
       uses: "Étkezésre kemény, fás állaga miatt alkalmatlan. A keleti orvoslás (kínai nevén Lingzhi, japánul Reishi) legfontosabb gyógygombája a halhatatlanság gombájaként ismert; triterpéneket (ganoderinsavakat) és béta-glükánokat tartalmaz, amelyek bizonyítottan immunerősítő, gyulladáscsökkentő, májvédő és keringésjavító hatásúak. Teaként vagy kivonatként fogyasztják.",
       confusion: "A gyantás lakkostapló (Ganoderma resinaceum) tönk nélküli vagy rövid tönkű, felszíne tompább fényű, krémszínű vagy vörösesbarna, és élő idős fákon (különösen tölgyön) terem. A fenyő-lakkostapló (Ganoderma carnosum) sötétebb, lilásfekete színű, tönkje hosszú és fán vagy lucfenyőn nő. A lapos tapló (Ganoderma applanatum) nem fényes lakkos, hanem tompa okkerbarna vagy szürke, tönk nélküli. A bükkfa-lakkostapló (Ganoderma pfeifferi) lakkrétege lángban szintén megolvad, pórusait télen és tavasszal sárga viaszréteg fedi, és főként bükkön él. A Ganoderma valesiacum az Alpokban és a Kárpátokban vörösfenyőn fordul elő.",
       notes: "A fénylő lakkréteg tűzbe tartva megolvad. Magyarországon 2010-ben az év gombája volt."
+    },
+    fr: {
+      description: "Un polypore annuel en console du bois de feuillus, parasite sur troncs vivants et saprotrophe sur souches et racines. Il est présent à travers l'Europe tempérée et méditerranéenne, vers le nord jusqu'au sud de la Scandinavie, ainsi que dans certaines régions de Chine. Il est peu commun en Grande-Bretagne et en Irlande. La plupart des signalements hors d'Europe appartiennent à d'autres espèces.",
+      cap: "Le sporophore est annuel, et un spécimen âgé persiste parfois deux ou trois ans. Il est généralement stipité et rarement sessile. Le chapeau est en forme d'éventail, réniforme, ovale, spatulé ou semi-circulaire, légèrement convexe et parfois lobé. Il mesure communément environ 5–20 cm de largeur, de 3 cm environ jusqu'à 25 cm environ, et environ 1–3 cm d'épaisseur. De nombreux chapeaux ne mesurent que 6–10 cm de largeur. La surface est concentriquement sillonnée et bosselée, recouverte d'une croûte laquée, dure et brillante. Un jeune chapeau est jaune à jaune ocre, puis rouge rouille à acajou depuis le centre, et pourpre, brun pourpré ou brun-noir avec l'âge. La marge est obtuse, blanche, jaune ou crème pendant la croissance du chapeau. Lorsque la croissance s'arrête, la totalité du chapeau devient acajou à brun pourpré ou presque noire. Les spores déposées ternissent la brillance.",
+      hymenium: "Les tubes sont généralement disposés en une seule couche, rarement en deux ou trois, et ont une profondeur d'environ 5–20 mm. Ils sont blancs, puis ocre, brun ocre ou cannelle. Les pores sont ronds, environ 4–6 par millimètre, avec des orifices d'environ 0,12–0,2 mm de diamètre. Les orifices sont blanchâtres ou crème, puis brun cannelle à brun tabac, et ils brunissent au froissement. Les pores âgés deviennent anguleux. Les cystides sont absentes. Les basides sont cylindriques, mesurant jusqu'à environ 23 µm de longueur, tétrasporiques et bouclées à la base.",
+      stipe: "Le pied est habituellement latéral ou excentrique, et il est parfois disposé à l'horizontale. Il est irrégulièrement cylindrique et noueux, long d'environ 5–20 cm et épais de 1–2 cm. Certains sporophores n'ont qu'une courte base d'aspect pédonculé, et le pied est parfois absent. La surface présente le même vernis laqué que le chapeau. Il est brun-rouge, acajou ou rouge pourpré, et s'assombrit en châtain ou noir pourpré.",
+      flesh: "La chair est épaisse, dure et subéreuse à fibreuse, avec une cassure d'aspect feutré. Elle est blanchâtre ou crème, puis brun jaunâtre, fauve ou brune, et parfois zonée. L'odeur n'est pas distinctive. La saveur est amère. Les hyphes génératrices sont à paroi mince, hyalines, cloisonnées et bouclées, larges de jusqu'à environ 2,5 µm. Les hyphes squelettiques sont à paroi épaisse et brunes, larges d'environ 2–3 µm. Le vernis laqué fond à la flamme.",
+      sporePrint: "Le dépôt est brun rouille, brun rougeâtre ou brun fauve. Les spores sont ellipsoïdes à ovoïdes, avec une extrémité tronquée, à double paroi et finement verruqueuses. Elles sont brun-jaune à brun pâle, inamyloïdes, et contiennent une grosse gouttelette huileuse. Les mesures publiées sont d'environ 7–12 × 6–8 µm.",
+      habitat: "Les sporophores poussent de mai à octobre, et les anciens persistent en hiver. Ils se développent à la base des arbres feuillus ainsi que sur leurs souches et leurs racines, en particulier le chêne, le hêtre et l'érable. L'épicéa, le pin et d'autres conifères sont des hôtes occasionnels. Les stations sont des chênaies et des forêts mixtes thermophiles, des hêtraies, des forêts alluviales de feuillus, des haies, des parcs et des bords de routes où des chênes ou des hêtres sont présents. La dégradation est une pourriture blanche claire, de faible intensité.",
+      uses: "Le sporophore est trop dur pour être consommé, et sa saveur est amère.",
+      confusion: "Le ganoderme résineux (Ganoderma resinaceum) est généralement sessile ou brièvement stipité. Sa face supérieure est plus terne, crème, brun rougeâtre clair ou gris-brun, sa marge est plus arrondie, ses spores sont plus grandes et ses pores sont plus petits. Il croît à la base de vieux arbres vivants, en particulier le chêne. Le ganoderme des sapins (Ganoderma carnosum) est plus sombre et noir pourpré, avec un long pied latéral et des spores un peu plus grandes et plus fortement ornementées, et il croît principalement sur le sapin et l'épicéa. Des sporophores intermédiaires et les données génétiques laissent ouverte l'hypothèse qu'ils constituent une seule espèce variable. Le ganoderme aplani (Ganoderma applanatum) est terne et brun ocre, sessile et largement fixé au support. Le vernis de la croûte du ganoderme de Pfeiffer (Ganoderma pfeifferi) fond à la flamme, comme chez cette espèce. Ses pores sont recouverts d'une cire jaune en hiver et au printemps, et il pousse principalement sur le hêtre. Le ganoderme du Valais (Ganoderma valesiacum) pousse sur le mélèze dans les Alpes et les Carpates.",
+      notes: "Les récoltes séquencées provenant de Grande-Bretagne, de République tchèque et de certaines parties de Chine appartiennent à cette espèce. Le champignon cultivé d'Asie orientale longtemps rangé sous ce nom est Ganoderma sichuanense. Les récoltes laquées nord-américaines ont été séparées sous les noms de Ganoderma sessile, Ganoderma curtisii et Ganoderma polychromum. Des sporophores intermédiaires, associés aux résultats génétiques, ont été interprétés comme des indices suggérant que Ganoderma carnosum pourrait n'être qu'une forme de la même espèce variable. Une relation historique européenne mentionne l'usage du sporophore comme talisman."
     }
     },
     sources: {
@@ -60409,23 +60475,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Ganoderme_luisant"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/4865"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -60448,6 +60497,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Pecs%C3%A9tviaszgomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Ganoderme_luisant"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/4865"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -60577,18 +60643,18 @@ export const CATALOG = [
       ru: "гомфус булавовидный",
       uk: "гомф булавоподібний",
       pl: "siatkoblaszek maczugowaty",
-      fr: "chanterelle violette",
       it: "fungo maiale",
-      hu: "disznófülgomba"
+      hu: "disznófülgomba",
+      fr: "chanterelle violette"
     },
     names: {
       en: ["pig's ear", "violet chanterelle", "clustered chanterelle"],
       es: ['rebozuelo de clava', 'mucerón'],
       sv: ['klubblik trumpetsvamp'],
       ru: ["свинуха чешуйчатая"],
-      fr: ["chanterelle en massue","gomphe à massue"],
       it: ["gomfo clavato"],
-      hu: ["lila rókagomba","zápfoggomba"]
+      hu: ["lila rókagomba","zápfoggomba"],
+      fr: ["chanterelle en massue","gomphe à massue"]
     },
     text: {
       tr: {
@@ -60865,18 +60931,6 @@ export const CATALOG = [
       confusion: "Lejkowiec dęty (Craterellus cornucopioides) jest czarnobrązowy, cienki i głęboko trąbkowaty. Pieprznik jadalny (Cantharellus cibarius) ma żółtą barwę i brak fioletowych odcieni.",
       notes: "W Polsce gatunek krytycznie zagrożony wymarciem, objęty ścisłą ochroną gatunkową."
     },
-    fr: {
-      description: "Un champignon ectomycorhizien spectaculaire des forêts montagnardes de conifères et de hêtres. Présent dans les régions montagneuses d'Europe et d'Amérique du Nord.",
-      cap: "Le sporophore mesure 4–12 cm de hauteur et 3–8 cm de largeur, en forme de massue tronquée puis d'entonnoir échancré ou de spatule. Le dessus aplati ou déprimé est brun ochracé, chamois violacé ou jaune fauve, ridé et écailleux.",
-      hymenium: "La surface extérieure est couverte de plis épais, sinueux, ramifiés et réticulés, d'un beau violet lilas soutenu dans la jeunesse, pâlissant en ocre violacé avec l'âge.",
-      stipe: "Le pied est dans le prolongement de la massue, court, épais, lilas violacé puis chamois.",
-      flesh: "La chair est épaisse, ferme, blanche à crème carné. L'odeur est agréable et fruitée ; la saveur est douce.",
-      sporePrint: "Jaune ocré à brun cannelle. Les spores sont allongées ellipsoïdes, verruqueuses, mesurant environ 10–14 × 4,5–6 µm.",
-      habitat: "Les sporophores apparaissent de juillet à octobre en troupes ou en touffes dans les forêts de montagne d'épicéas (Picea), de sapins (Abies) et de hêtres sur sols calcaires.",
-      uses: "C'est un excellent comestible de choix, à la chair ferme et savoureuse. Il est cependant devenu rare et fait l'objet de mesures de protection dans plusieurs pays.",
-      confusion: "La clavaire tronquée (Clavariadelphus truncatus) est entièrement jaune et possède une chair douce mais sans plis violacés marqués.",
-      notes: "C'est la seule espèce européenne du genre Gomphus."
-    },
     it: {
       description: "Un fungo ectomicorrizico dei boschi montani maturi di conifere (abete bianco e abete rosso) e faggio. È una specie rara e in forte declino in molte regioni d'Europa.",
       cap: "Il corpo fruttifero è a forma di clava tozza o imbuto troncoconico irregolare lobato, alto 5–15 cm e largo 4–12 cm. La superficie sommitale sterile è appiattita o depressa, di colore violetto porpora nei giovani, sbiadente all'ocra brunastro con l'età.",
@@ -60900,6 +60954,18 @@ export const CATALOG = [
       uses: "Kiváló csemegegomba, húsa ízletes és puha. Európa-szerte ritkasága és védett státusza miatt kímélendő.",
       confusion: "A sötét trombitagomba (Craterellus cornucopioides) szürkésfekete, vékony húsú és teljesen csőszerűen üreges. A ráncos békagomba vagy a lila pereszke alakja és lemezei teljesen eltérnek.",
       notes: "Európa számos országában visszaszorulóban lévő, ritka és védett faj. Magyarországon 2023-ban az év gombája volt."
+    },
+    fr: {
+      description: "Un champignon ectomycorhizien. Il croît sous conifères, et en Europe également sous hêtre. Indigène en Europe tempérée, où il est désormais rare et n'est plus trouvé dans les îles Britanniques, ainsi qu'à travers l'Amérique du Nord et l'Asie orientale. Les sporophores poussent en touffes, et la surface fertile porte des plis lilas.",
+      cap: "Le chapeau est en forme de coin, d'éventail ou de massue, souvent aplati ou déprimé au milieu, et peut être ondulé ou lobé. Il mesure environ 2–10 cm de largeur et peut atteindre 15 cm. La couleur commence par le lilas à pourpre, puis pâlit en brun violacé, ocre rosé ou brun jaunâtre, souvent avec un bord plus clair. La surface est lisse ou porte de fines écailles ou des mèches, surtout au centre. Avec l'âge, la face supérieure peut devenir presque plate, ou s'amincir directement pour rejoindre le pied. La chair du chapeau est épaisse et ferme.",
+      hymenium: "La surface sporifère est formée de crêtes et de plis qui descendent très bas sur le pied, et non de véritables lames. Ils sont ramifiés, anastomosés et à arête obtuse. La couleur est d'abord violette, lilas ou pourpre, sur un fond ocre, puis vire au jaune brunâtre ou au chamois à mesure que les spores mûrissent. Les basides sont tétrasporiques, clavées, mesurant 60–90 × 8,5–11,5 µm, bouclées à la base.",
+      stipe: "Le pied mesure 2–10 cm de hauteur et 1–3 cm d'épaisseur, plein et tenace. Il s'atténue vers la base et se fond souvent dans le chapeau sans démarcation nette. Il est lilas à violet au sommet, là où les plis le parcourent, et plus pâle, chamois grisâtre ou brunâtre en dessous, avec une base feutrée blanchâtre. Il n'y a pas d'anneau. Les pieds d'une même touffe peuvent être soudés entre eux.",
+      flesh: "La chair est épaisse, blanchâtre, crème ou ocre pâle, parfois avec une nuance lilas près de la surface. Elle est ferme et ne change pas de couleur à la coupe. L'odeur est agréable, fruitée ou terreuse. La saveur est douce, de noisette, ou parfois légèrement amère avec l'âge.",
+      sporePrint: "La sporée est ocre, brun jaunâtre ou chamois cannelle. Les spores sont ellipsoïdes, ornées de fines verrues ou de rides, inamyloïdes, mesurant 9–14,5 × 4–6 µm. Elles contiennent une ou plusieurs gouttelettes d'huile.",
+      habitat: "Les sporophores poussent en touffes ou en groupes denses, rarement solitaires, dans les forêts matures de conifères et mixtes. Ils sont associés à l'épicéa, au sapin et au pin, et dans certaines parties de l'Europe également au hêtre, en particulier sur calcaire et autres sols basiques. La saison s'étend de l'été jusqu'à la fin de l'automne, typiquement de juillet à novembre.",
+      uses: "C'est un champignon comestible, traditionnellement ramassé et consommé dans certaines parties d'Europe et d'Amérique du Nord. Il doit être bien cuit. Les sporophores plus âgés peuvent être amers.",
+      confusion: "La clavaire tronquée (Clavariadelphus truncatus) est plus étroite et jaune, avec un sommet plat et une surface seulement ridée, non couverte de plis épais. Le gomphe à pied épais (Gomphus crassipes) pousse dans les vieilles forêts de pins et de cèdres autour de la Méditerranée. Son chapeau est plus nettement délimité du pied, son hyménium est d'un gris-lilas plus pâle, son chapeau est brun-gris clair, et sa chair est distinctement violette à la coupe. Ses spores sont plus longues, mesurant environ 11–17 × 5,5–7 µm, et plus finement ridées. La chanterelle floconneuse (Turbinellus floccosus) et la chanterelle de Kauffman (Turbinellus kauffmanii) ont une forme de vase similaire, mais leur chapeau est couvert d'écailles. Le faux-cratérelle fausse-massue (Pseudocraterellus pseudoclavatus) croît sous conifères dans le centre et l'ouest des États-Unis et s'en distingue au microscope et par sa réaction à l'hydroxyde de potassium.",
+      notes: "C'est la seule espèce de Gomphus en Europe, et la seule espèce nord-américaine encore maintenue dans ce genre. Il est considéré comme menacé dans 17 pays européens et fait partie des 33 champignons proposés pour la protection au titre de la convention de Berne. Il n'est plus trouvé dans les îles Britanniques, où il a été vu pour la dernière fois en 1927. Une évaluation de 2006 le classe comme en danger critique d'extinction (Critically Endangered) en République tchèque, où il a failli disparaître à la fin du vingtième siècle. Les extraits de sporophores sont riches en composés phénoliques, et des récoltes du sud de la mer Égée contenaient du cadmium à un niveau supérieur à celui recommandé pour les denrées alimentaires dans l'Union européenne."
     }
     },
     sources: {
@@ -61225,23 +61291,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Chanterelle_violette"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/4866"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -61259,6 +61308,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Diszn%C3%B3f%C3%BClgomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Chanterelle_violette"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/4866"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -61388,9 +61454,9 @@ export const CATALOG = [
       ru: "гигроцибе попугайская",
       uk: "гігроцибе папугова",
       pl: "wilgotniczka papuzia",
-      fr: "hygrophore perroquet",
       it: "igrocybe pappagallo",
-      hu: "zöldes nedűgomba"
+      hu: "zöldes nedűgomba",
+      fr: "hygrophore perroquet"
     },
     names: {
       en: [
@@ -61679,18 +61745,6 @@ export const CATALOG = [
       confusion: "Wilgotniczka ceglasta (Gliophorus perplexus) nie ma zieleni na szczycie trzonu i jest pomarańczowa do ceglastej. Wilgotniczka cieniowa (Gliophorus sciophanus) to głównie czerwony gatunek europejski oddzielany od niej. Wilgotniczka purpurowa (Gliophorus reginae) jest cielistoróżowa, większa i tylko nieznacznie śluzowata. Wilgotniczka radosna (Gliophorus laetus) jest pomarańczowa lub żółta, za młodu bez zieleni i ma wyraźnie zbiegające blaszki. Wilgotnica żółknąca (Hygrocybe chlorophana) jest jednolicie żółta, a starsze pożółkłe owocniki wilgotniczki papuziej odróżnia zielony wierzchołek trzonu.",
       notes: "Ocena z 2019 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern)."
     },
-    fr: {
-      description: "Un petit champignon prairial très visqueux aux couleurs vives et changeantes évoquant un perroquet. Répandu dans toute l'Europe et en Amérique du Nord.",
-      cap: "Le chapeau mesure 1–4 cm de largeur, conique-campanulé puis convexe à étalé avec un petit mamelon. Il est recouvert d'un épais mucus gélatineux vert perroquet éclatant au début, puis se décolore de manière spectaculaire en jaune orangé, rose saumon ou ocre verdâtre en séchant.",
-      hymenium: "Les lames sont épaisses, espacées, adnées, vert clair au début puis devenant jaune orangé.",
-      stipe: "Le pied mesure 3–7 cm de hauteur et 2–6 mm d'épaisseur, cylindrique, très gluant et visqueux, vert émeraude au sommet et jaune orangé vers le bas.",
-      flesh: "La chair est mince, aqueuse, verte puis jaunâtre. L'odeur et la saveur sont insignifiantes.",
-      sporePrint: "Blanche. Les spores sont ellipsoïdes, lisses, mesurant environ 7,5–9 × 4–5,5 µm.",
-      habitat: "Les sporophores apparaissent de juillet à novembre dans les pelouses rases non fertilisées, les pâturages anciens et les clairières herbeuses.",
-      uses: "Sans valeur culinaire en raison de sa petite taille et de sa texture excessivement gluante.",
-      confusion: "Gliophorus perplexus ne présente pas de vert au sommet du pied et est rouge orangé à brique. Gliophorus sciophanus est une espèce européenne principalement rouge maintenue séparée. Gliophorus reginae est rose à rose carné, plus robuste et seulement légèrement gluant. L'hygrocybe joyeux (Gliophorus laetus) est orange ou jaune, jamais vert dans la jeunesse, et possède des lames nettement décurrentes. L'hygrocybe jaune doré (Hygrocybe chlorophana) est entièrement jaune sans vert dans la jeunesse. Les spécimens âgés jaunissants peuvent ressembler à d'autres hygrocybes jaunes, mais le sommet du pied conserve toujours des reflets verts.",
-      notes: "Anciennement nommé Hygrocybe psittacina."
-    },
     it: {
       description: "Un piccolo fungo prativo dai colori variopinti che cresce nei pascoli non concimati, prati montani e radure erbose. È ampiamente diffuso in Europa.",
       cap: "Il cappello misura 1–4 cm di diametro. È campanulato poi convesso e spianato con piccolo umbone ottuso. È interamente ricoperto da un denso strato viscoso e glutinoso, di colore verde pappagallo brillante da giovane, che sfuma e sbiadisce col tempo all'arancio, giallo oro, rosa o bruno-ocraceo.",
@@ -61714,6 +61768,18 @@ export const CATALOG = [
       uses: "Nem ehető. Kis mérete, vékony húsa és vastag nyálkabevonata miatt étkezésre alkalmatlan.",
       confusion: "A Gliophorus perplexus tönkcsúcsán hiányzik a zöld árnyalat, színe narancssárga vagy téglavörös. A Gliophorus sciophanus európai faj, amely túlnyomórészt pirosas színű. A Gliophorus reginae hússzínű-rózsaszín, nagyobb és vaskosabb termetű, alig nyálkás. A narancsszínű nedűgomba (Gliophorus laetus) narancssárga vagy sárga, fiatalon sem zöld, és lemezei kifejezetten lefutók. A sárga nedűgomba (Hygrocybe chlorophana) egységesen sárga színű, fiatalon sem zöld, és tönkje idős korban üreges. Az idősebb sárguló termőtestek más sárga nedűgombákkal is összetéveszthetők, de a tönk csúcsa mindig megőrzi a zöld színt. Ausztráliában a zöld színű Gliophorus graminicolor és Gliophorus viridis fajokat korábban szintén e néven tartották nyilván.",
       notes: "A fajnév a görög psittakos (papagáj) szóból származik, a papagájéra emlékeztető zöld és sárga tollazat színei miatt."
+    },
+    fr: {
+      description: "Un petit hygrophore très visqueux des prairies, des pelouses et des bois clairs. Il croît à travers l'Europe tempérée, y compris en Grande-Bretagne et en Irlande. Les récoltes extra-européennes ainsi que celles du nord-ouest du Pacifique appartiennent à d'autres espèces. Le jeune sporophore est vert perroquet foncé et se décolore en passant par des tons jaunes, orangés ou rosâtres.",
+      cap: "Le chapeau mesure 1–4 cm de largeur, campanulé à convexe au début, puis s'aplatissant, souvent avec un mamelon large et bas. La marge est striée à l'état humide. La surface est recouverte d'une épaisse couche de mucus vert qui peut disparaître sous de fortes pluies. La couleur est vert foncé à vert perroquet dans la jeunesse. Elle pâlit en vert-jaune, jaune orangé, orange, ocre rosâtre ou chamois avec l'âge, conservant souvent des plaques vertes. Le revêtement piléique est un ixocutis d'hyphes gélatinisées de 1,5–4 µm de largeur.",
+      hymenium: "Les lames sont largement adnées, adnées à légèrement décurrentes, épaisses et espacées, entrecoupées de lamellules plus courtes. Elles sont d'abord vertes, particulièrement près du bord du chapeau, et pâlissent en jaune, jaune orangé ou rosâtre, parfois avec des arêtes vertes. Les basides sont tétrasporiques, clavées, mesurant 35–45 × 7–9 µm, bouclées à la base. Les spores sont lisses, ellipsoïdes à oblongues, inamyloïdes, mesurant 7,5–10 × 4,5–6 µm. Les cheilocystides et pleurocystides sont absentes.",
+      stipe: "Le pied mesure 2–6 cm de longueur et 2–5 mm d'épaisseur, cylindrique, creux et très gluant. Le sommet reste vert même après que le reste du sporophore a pâli pour devenir jaune ou orange. La partie inférieure est jaune, orange ou verdâtre. Il n'y a ni anneau ni volve.",
+      flesh: "La chair est mince, aqueuse, fragile et concolore à la surface sous le mucus. La couleur verte de la chair s'estompe en jaune. L'odeur est faible et non distinctive. La saveur est douce.",
+      sporePrint: "Blanche. Les spores sont lisses, hyalines, ellipsoïdes à oblongues, munies d'un apicule, mesurant 7,5–9,5 × 4,5–6 µm, inamyloïdes.",
+      habitat: "Les sporophores apparaissent de l'été jusqu'à la fin de l'automne, typiquement d'août à novembre en Europe occidentale et centrale. Ils poussent dans les prairies permanentes non améliorées et pauvres en nutriments, les pâturages à moutons, les pelouses, le gazon des cimetières et les lisières de bois clairs. Ils fructifient isolés ou en petits groupes sur le sol parmi les mousses et l'herbe rase.",
+      uses: "Il est généralement considéré comme non comestible, en partie en raison de sa petite taille et de son revêtement visqueux. Certaines sources le mentionnent comme comestible mais de médiocre qualité, tandis que d'autres le traitent comme légèrement toxique ou suspect. Il n'est pas récolté pour la consommation.",
+      confusion: "L'hygrophore perplexe (Gliophorus perplexus) ne présente pas de vert au sommet du pied et est orange à rouge brique. L'hygrophore ombragé (Gliophorus sciophanus) est le champignon européen principalement rouge maintenu séparé de lui. L'hygrophore reine (Gliophorus reginae) est rose à rose incarnat, plus grand et plus robuste, et seulement faiblement visqueux. L'hygrophore joyeux (Gliophorus laetus) est orange ou jaune, n'est jamais vert dans le jeune âge et possède des lames nettement décurrentes. L'hygrocybe jaunissant (Hygrocybe chlorophana) est entièrement jaune, ne présente aucune teinte verte dans sa jeunesse et son pied est creux à maturité. Les sporophores âgés jaunis peuvent être confondus avec d'autres hygrocybes jaunes, mais le sommet du pied reste vert. L'hygrophore vert herbe (Gliophorus graminicolor) et l'hygrophore vert (Gliophorus viridis) sont les champignons verts d'Australie qui ont été classés sous ce nom.",
+      notes: "Le nom recouvre un complexe d'espèces étroitement apparentées. Les récoltes d'Amérique du Nord enregistrées sous ce nom forment un groupe d'espèces, et celles du nord-ouest du Pacifique n'appartiennent pas à cette espèce. Le champignon bleu puis rouge des séquoias côtiers de Californie a été isolé, et ses basides sont plus longues, d'environ 45–60 µm. Une forme plus verte sans tons rouges fructifie sur la litière d'épicéas au printemps et en été et a été séparée. Les anciens signalements australiens correspondent à Gliophorus graminicolor ou Gliophorus viridis. Une évaluation de 2016 le place sur la liste d'alerte en Allemagne. Il caractérise les prairies permanentes non améliorées, bien qu'il tolère davantage d'engrais que la plupart des hygrocybes et ait ainsi peu de valeur comme indicateur. En Europe, il a régressé là où les prairies ont été fertilisées ou labourées. Il a été considéré comme un saprotrophe sur racines mortes de graminées. Une association mutualiste avec les mousses est aujourd'hui jugée probable, et son mode trophique n'est pas définitivement établi."
     }
     },
     sources: {
@@ -62049,23 +62115,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Hygrocybe_psittacina"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/451442"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -62088,6 +62137,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Z%C3%B6ldes_ned%C5%B1gomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Hygrocybe_psittacina"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/451442"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -62194,9 +62260,9 @@ export const CATALOG = [
       ru: "белый гриб бронзовый",
       uk: "білий гриб темно-каштановий",
       pl: "borowik ciemnobrązowy",
-      fr: "cèpe bronzé",
       it: "porcino nero",
-      hu: "bronzos vargánya"
+      hu: "bronzos vargánya",
+      fr: "cèpe bronzé"
     },
     names: {
       en: ["dark cep", "queen bolete", "black porcini", "black cap bolete"],
@@ -62207,9 +62273,9 @@ export const CATALOG = [
       bg: ['бронзовка'],
       ru: ["боровик бронзовый","боровик темно-каштановый"],
       uk: ["боровик бронзовий"],
-      fr: ["cèpe noir","tête-de-nègre"],
       it: ["bronzino","moreccio"],
-      hu: ["bronzos tinóru"]
+      hu: ["bronzos tinóru"],
+      fr: ["cèpe noir","tête-de-nègre"]
     },
     text: {
       tr: {
@@ -62485,18 +62551,6 @@ export const CATALOG = [
       confusion: "Borowik szlachetny (Boletus edulis) ma jaśniejszy, orzechowobrązowy kapelusz z białawym brzegiem i białą siateczkę na trzonie. Borowik sosnowy (Boletus pinophilus) ma kapelusz o odcieniu czerwonomahoniowym.",
       notes: "W Polsce gatunek rzadki, podlegający ochronie ścisłej."
     },
-    fr: {
-      description: "Un grand champignon ectomycorhizien thermophile des forêts de feuillus. Répandu en Europe centrale et méridionale, plus rare vers le nord.",
-      cap: "Le chapeau mesure 5–20 cm de largeur, parfois jusqu'à 25 cm, très massif, hémisphérique puis convexe. Il est brun très foncé, bistre noirâtre ou bronze cuivré, mat et velouté au début puis glabre.",
-      hymenium: "Les tubes sont longs, blanchâtres au début puis jaune verdâtre et brun olive. Les pores sont fins et ronds, blancs puis jaunâtres, immuables au froissement.",
-      stipe: "Le pied mesure 5–12 cm de hauteur et 3–8 cm d'épaisseur, très robuste, ventru ou obèse, brun cannelle à ocre carné, orné d'un fin réseau réticulé brun pâle.",
-      flesh: "La chair est blanche, remarquablement ferme et compacte, plus ferme encore que celle du cèpe de Bordeaux. L'odeur est agréablement parfumée et noisetée ; la saveur est douce et exquise.",
-      sporePrint: "Brun olive. Les spores sont allongées fusiformes, lisses, mesurant environ 12–16 × 4–5 µm.",
-      habitat: "Les sporophores apparaissent de juillet à octobre pendant les périodes chaudes sous les chênes (Quercus) et les châtaigniers (Castanea), de préférence sur sols sablonneux ou siliceux bien drainés.",
-      uses: "C'est un comestible de tout premier choix, considéré par de nombreux gastronomes comme le plus savoureux et le plus ferme des quatre cèpes nobles.",
-      confusion: "Le cèpe de Bordeaux (Boletus edulis) a un chapeau brun plus clair avec une marge blanchâtre et une surface visqueuse à l'humidité.",
-      notes: "Une évaluation de 2019 le classe en préoccupation mineure (Least Concern)."
-    },
     it: {
       description: "Un eccellente fungo ectomicorrizico dei boschi caldi e collinari di latifoglie (specialmente querce, lecci, sughere e castagni) dell'Europa meridionale e mediterranea.",
       cap: "Il cappello misura solitamente 6–25 cm di diametro. È molto massiccio, sodo e compatto, emisferico poi convesso, con cuticola asciutta e finemente vellutata, di un caratteristico colore bruno scuro, bronzo o quasi nerastro, talvolta con chiazze ocracee più chiare.",
@@ -62520,6 +62574,18 @@ export const CATALOG = [
       uses: "Kiváló csemegegomba. Szilárd, nem puhuló húsa és intenzív aromája miatt a gasztronómiában a legértékesebb vargányának tekintik.",
       confusion: "Az ízletes vargánya (Boletus edulis) világosabb kalapú és nedvesen tapadós. A nyári vargánya (Boletus reticulatus) kalapja világosabb mogyoróbarna és gyakran repedezett.",
       notes: "Csehországban sebezhető fajként tartják számon. Magyarországon 2019-ben az év gombája volt."
+    },
+    fr: {
+      description: "Un excellent cèpe ectomycorhizien comestible des bois de feuillus thermophiles. Il est indigène en Europe centrale et méridionale ainsi que dans certaines régions d'Afrique du Nord. En Europe du Nord, y compris en Grande-Bretagne et en Irlande, il est rare et thermophile. Il possède un chapeau brun foncé à noirâtre, des pores blancs à jaunâtres et un pied brun orné d'un réseau pâle.",
+      cap: "Le chapeau mesure 6–20 cm de largeur, atteignant parfois 25 cm. Il est hémisphérique dans la jeunesse, devenant convexe puis presque étalé. La surface est sèche, finement veloutée ou feutrée au début, devenant plus lisse avec l'âge, et peut se crevasser en petites plaques par temps sec. La couleur est sépia foncé, brun chocolat, brun bronze ou brun noirâtre, souvent avec des plages plus pâles ocre ou brun cuivré, et rarement uniformément noire. La marge est d'abord incurvée, puis droite, et ne dépasse pas les pores. La cuticule ne s'enlève pas facilement.",
+      hymenium: "Les tubes mesurent 1–2 cm de profondeur, adnés à déprimés autour du pied. Ils sont d'abord blancs, devenant crème, jaunâtre pâle et enfin jaune verdâtre avec l'âge. Les pores sont petits et ronds, environ 2–3 par millimètre, concolores aux tubes et ne bleuissant pas à la pression. Les basides sont tétrasporiques, clavées, mesurant 25–35 × 8–11 µm. Les cystides sont clairsemées, fusiformes, mesurant 30–50 × 7–10 µm.",
+      stipe: "Le pied mesure 5–12 cm de longueur et 3–6 cm d'épaisseur, robuste, clavé ou ventru dans le jeune âge, devenant plus cylindrique avec le temps. La surface est brun clair, brun cannelle ou ocre rougeâtre, plus pâle près de l'apex et plus sombre en dessous. Un fin réseau saillant blanchâtre à brun pâle recouvre la partie supérieure et s'étend souvent au-delà du milieu. Il n'y a pas d'anneau. La base présente un mycélium blanc.",
+      flesh: "La chair est épaisse, ferme et compacte, restant plus ferme que chez Boletus edulis. Elle est entièrement blanche, immuable à la coupe ou au froissement, avec une faible nuance brunâtre directement sous la cuticule du chapeau. L'odeur est agréable, fongique ou rappelant légèrement la noisette. La saveur est douce et de noisette.",
+      sporePrint: "Brun olive. Les spores sont lisses, fusiformes à subcylindriques, mesurant 12–16 × 4,5–6 µm.",
+      habitat: "Les sporophores apparaissent de juin à octobre, la poussée principale ayant lieu à la fin de l'été et au début de l'automne. Ils poussent dans les forêts de feuillus thermophiles, particulièrement sur sols acides ou neutres dans des microclimats chauds, couramment associés aux chênes (Quercus petraea, Quercus robur, Quercus pubescens, Quercus ilex, Quercus suber), au châtaignier (Castanea sativa), et occasionnellement au hêtre (Fagus sylvatica). Ils fructifient solitaires ou en petits groupes.",
+      uses: "Un cèpe comestible de choix, considéré par beaucoup comme supérieur à Boletus edulis en raison de sa chair plus ferme et de son arôme riche. Il se consomme frais, séché ou conservé dans l'huile. En Europe méridionale, particulièrement en Italie et en France, il est très recherché et vendu sur les marchés sous des noms locaux tels que porcino nero ou cèpe bronzé.",
+      confusion: "Le cèpe de Bordeaux (Boletus edulis) possède un chapeau plus pâle et visqueux à marge blanchâtre ainsi qu'un pied plus clair orné d'un réseau blanc, et fructifie plus tard par temps plus frais. Le cèpe d'été (Boletus reticulatus) a un chapeau plus clair qui se crevasse souvent en plaques et un pied plus pâle avec un réseau blanchâtre plus étendu, atteignant souvent la base. Le cèpe des pins (Boletus pinophilus) présente un chapeau bosselé brun rougeâtre et pousse principalement sous les pins. Le bolet de fiel (Tylopilus felleus) a un réseau plus sombre, des pores à reflets rosâtres et une saveur très amère. Le bolet bai (Imleria badia) possède des pores qui bleuissent au froissement et un pied dépourvu de réseau.",
+      notes: "Il est classé comme vulnérable (Vulnerable) en République tchèque et figure sur une liste rouge provisoire au Monténégro. En Europe centrale, il est localisé, et en Slovaquie, il peut être très abondant dans certains districts, notamment autour de Košice. C'est le bolet le plus commun dans les forêts du parc naturel régional des Madonies en Sicile. Les récoltes californiennes autrefois rangées sous ce nom correspondent à Boletus regineus. Les signalements en provenance de Chine appartiennent à d'autres espèces. Des récoltes nord-africaines au chapeau acajou et au pied en partie radicant ont été nommées Boletus mamorensis, mais les études moléculaires ne les ont pas séparées de cette espèce. Une étude de 2007 sur quatre bolets a révélé peu de correspondance entre le nombre de sporophores et le mycélium présent dans le sol sous-jacent."
     }
     },
     sources: {
@@ -62820,23 +62886,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/C%C3%A8pe_bronz%C3%A9"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/3827"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -62859,6 +62908,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Bronzos_varg%C3%A1nya"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/C%C3%A8pe_bronz%C3%A9"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/3827"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -62969,18 +63035,18 @@ export const CATALOG = [
       ru: "рядовка лиловоногая",
       uk: "лепіста блідо-лілова",
       pl: "gąsówka dwubarwna",
-      fr: "pied-violet",
       it: "agarico piedeblu",
-      hu: "lilatönkű pereszke"
+      hu: "lilatönkű pereszke",
+      fr: "pied-violet"
     },
     names: {
       en: ["blue-leg"],
       es: ['cabo azul', 'inverniza'],
       ru: ["синеножка","леписта двухцветная"],
       uk: ["рядовка ліловонога","синьоніжка"],
-      fr: ["tricholome sinistre"],
       it: ["lepista personata"],
-      hu: ["lilatönkű tölcsérpereszke"]
+      hu: ["lilatönkű tölcsérpereszke"],
+      fr: ["tricholome sinistre"]
     },
     text: {
       tr: {
@@ -63255,18 +63321,6 @@ export const CATALOG = [
       confusion: "Gąsówka fioletowawa (Lepista nuda) ma również fioletowy kapelusz i blaszki oraz rośnie głównie wewnątrz lasów. Fioletowe zasłonaki (Cortinarius) mają rdzawobrązowy wysyp zarodników i zasnówkę na trzonie.",
       notes: "Ocena z 2019 roku klasyfikuje ten gatunek jako najmniejszej troski (Least Concern)."
     },
-    fr: {
-      description: "Un champignon saprotrophe charnu et tardif des prairies et pâturages. Répandu dans toute l'Europe tempérée.",
-      cap: "Le chapeau mesure 5–15 cm de largeur, épais et charnu, hémisphérique puis convexe à étalé. Il est chamois pâle, beige ochracé ou gris-brun très clair, lisse et glabre, avec la marge longtemps enroulée.",
-      hymenium: "Les lames sont serrées, étroites, échancrées, crème blanchâtre à beige carné pâle, sans nuance de violet.",
-      stipe: "Le pied mesure 4–10 cm de hauteur et 1,5–3 cm d'épaisseur, robuste, ferme, cylindrique ou épaissi à la base, d'une belle couleur violet lilas ou pourpre éclatante contrastant nettement avec le chapeau pâle.",
-      flesh: "La chair est blanche, très épaisse et compacte. L'odeur est agréable et fruitée ; la saveur est douce.",
-      sporePrint: "Rose crème à ocre saumoné très pâle. Les spores sont ellipsoïdes, finement rugueuses, mesurant environ 6–8 × 4–5 µm.",
-      habitat: "Les sporophores apparaissent d'octobre à décembre (résistant bien aux gelées) en cercles ou en troupes dans les prairies pâturées, les pelouses et les parcs.",
-      uses: "C'est un bon comestible une fois bien cuit. Il ne doit jamais être consommé cru.",
-      confusion: "Le pied-bleu (Lepista nuda) a un chapeau violet et des lames violettes et pousse surtout en forêt.",
-      notes: "Également connu sous le nom de Lepista saeva ou Lepista personata."
-    },
     it: {
       description: "Un fungo saprotrofo carnoso dei pascoli, prati montani, radure erbose e margini dei boschi di latifoglie. È diffuso in tutta l'Europa temperata.",
       cap: "Il cappello misura 5–15 cm di diametro. È molto carnoso, sodo, convesso poi appianato con margine a lungo involuto, liscio, di colore bruno chiaro, grigio-beige o caffèlatte uniforme.",
@@ -63290,6 +63344,18 @@ export const CATALOG = [
       uses: "Kiváló csemegegomba. Vastag, ízletes húsa kiváló levesekbe, rántva vagy párolva; a késő őszi szezon egyik legértékesebb gombája. Alapos sütést-főzést igényel.",
       confusion: "A lila pereszke (Lepista nuda) kalapja és lemezei is élénk ibolyáslilák (nemcsak a tönkje) és erdőkben terem avaron.",
       notes: "A korábban Lepista personata vagy Lepista saeva néven ismert fajt a magyar névjegyzék és mikológiai hagyomány lilatönkű pereszke néven tartja számon. Magyarországon 2016-ban az év gombája volt."
+    },
+    fr: {
+      description: "Un champignon saprotrophe comestible et robuste des pâturages et des bois clairs, indigène en Europe. Il possède un chapeau chamois pâle ou gris-brun et un pied nettement violet ou lilas. Il est largement répandu de la Scandinavie jusqu'à la Méditerranée et fructifie en automne et au début de l'hiver, souvent en ronds de sorcières.",
+      cap: "Le chapeau mesure 5–15 cm de largeur et atteint parfois 16 cm. Il débute hémisphérique, reste longtemps convexe, puis devient étalé ou peu profondément déprimé, parfois légèrement concave. La marge reste longtemps enroulée, puis devient aiguë et ondulée. La surface est lisse, sèche et soyeuse, et devient collante ou brillante à l'état humide. Il n'est pas hygrophane, ou seulement très peu. La couleur est crème pâle, blanchâtre, grise, gris-ocre, chamois, brun clair ou gris-ocre à gris-beige, souvent avec une nuance brunâtre. Une teinte lilas est occasionnelle sur un jeune chapeau, et la couleur pâlit avec l'âge. Le chapeau n'est pas violet. Le revêtement piléique est un cutis d'hyphes cylindriques hyalines de 2–4 µm de largeur, à paroi légèrement épaissie, disposées parallèlement ou légèrement enchevêtrées, avec des boucles de conjugaison aux cloisons.",
+      hymenium: "Les lames sont serrées et assez étroites, larges d'environ 7–10 mm, entrecoupées de lamellules plus courtes. Elles sont blanchâtres, crème ou beiges, plus tard crème ocré, et parfois chamois rosâtre. Elles ne présentent aucune teinte violette, et sont généralement plus pâles que le chapeau sauf chez les sporophores âgés. Elles sont échancrées ou émarginées à presque libres, souvent avec une petite dent décurrente, et se détachent facilement lorsqu'on les sépare de la chair. Les basides sont clavées et tétrasporiques, mesurées à 30–40 × 6–8 µm, avec une boucle à la base. L'arête des lames est homomorphe, et aucune cystide n'est différenciée des basides ou des basidioles.",
+      stipe: "Le pied mesure 3–10 cm de longueur. L'épaisseur est communément de 1,2–3 cm, et une description la mentionne jusqu'à 1 cm. Il est plein, fibreux et tenace, cylindrique et souvent court. La base est souvent légèrement clavée ou bulbeuse, et il n'y a pas d'anneau. Des fibrilles lilas ou violettes appliquées longitudinalement reposent sur un fond blanchâtre ou crème. Elles peuvent être assez denses pour que le pied paraisse entièrement violet. La partie supérieure est d'un lilas plus pâle, et la couleur s'estompe rapidement. La base est solidement fixée au substrat.",
+      flesh: "La chair est épaisse, ferme et d'un blanc aqueux. Elle est légèrement violette dans le pied et présente parfois des reflets violets ailleurs. Les avis divergent sur l'odeur. Certaines descriptions la qualifient de fortement parfumée, légèrement de noisette, ou un peu forte mais non désagréable. D'autres la qualifient de faible, agréable, indistincte ou discrète, et un compte-rendu microscopique ne lui trouve aucune odeur notable. La saveur est douce ou sucrée.",
+      sporePrint: "Chamois rosâtre pâle, ou crème à nuance rose. Une description mentionne un dépôt blanc avec une nuance rose chair. Les spores sont ellipsoïdales, à paroi mince et finement verruqueuses à minutieusement épineuses, mesurant 5,5–9 × 4–6 µm, avec un rapport longueur/largeur d'environ 1,4–1,9. Elles sont inamyloïdes dans le réactif de Melzer. Elles contiennent des gouttelettes lipidiques, et l'apicule est excentré.",
+      habitat: "La fructification principale a lieu de septembre à décembre. En Grande-Bretagne, elle s'étend de septembre à novembre et peut se poursuivre jusqu'en janvier lors d'un hiver doux dans le sud de la Grande-Bretagne et en Irlande. En Pologne, les sporophores apparaissent de l'été jusqu'à la fin de l'automne, avec des mentions jusqu'en décembre. En Espagne, ils apparaissent habituellement à partir de novembre et se maintiennent en hiver. En Slovaquie, ils se rencontrent de septembre à décembre, et également lors d'un hiver doux. Des fructifications printanières sont occasionnelles, en avril ou mai, et une récolte près de Prague a été réalisée le 1er mars. Il croît dans les prairies crayeuses et calcaires, les pâturages, les prés de montagne, les landes, les parcs, les jardins, les lisières de forêts et les clairières, et moins souvent le long des lisières de pinèdes, dans les vergers, sur les pentes steppiques et sous les arbres fruitiers ou dans les vieux jardins. Il a également été trouvé dans une dépression dunaire. Les bois clairs sur sol calcaire constituent un habitat occasionnel. Les sporophores se dressent en groupes ou en ronds de sorcières. En dehors de la saison de fructification, le mycélium peut se manifester par une bande d'herbe d'un vert plus foncé.",
+      uses: "Il doit être bien cuit et ne se consomme pas cru. Une minorité de personnes éprouve encore des troubles digestifs après cuisson. Les jeunes chapeaux sont préférés. Les pieds sont plus coriaces et peuvent être séchés et réduits en poudre pour le potage. Il est sauté et accommodé avec des viandes blanches, du fromage, du riz, des pâtes et des omelettes. Il peut être congelé, et les sporophores déjà gelés sur le terrain sont utilisables s'ils sont cuisinés immédiatement. Il est également utilisé dans les soupes, poêlé et conservé au vinaigre. Les sporophores sont souvent véreux, aussi convient-il de les consommer rapidement, et la chair étant poreuse, ils se récoltent de préférence par temps sec. Les sporophores plus âgés peuvent dégager une légère odeur de souris après cuisson. Il est issu de cueillette sauvage et vendu sur les marchés tchèques ainsi qu'en France, en Espagne et au Portugal, parfois dans les mêmes barquettes que Lepista nuda.",
+      confusion: "Le pied-bleu (Lepista nuda) possède un chapeau violet et des lames violettes et croît dans les bois. Les vieux sporophores peuvent se décolorer et perdre cette teinte. Le tricholome à odeur d'iris (Lepista irina) présente une silhouette semblable, mais son pied est blanchâtre dès le jeune âge, et il pousse dans les prairies humides, les vergers et parfois dans les forêts de feuillus. Les espèces de cortinaires (Cortinarius) à pied bleu et chapeau brunâtre croissent en forêt. Leur sporée est brun rouille et teinte les lames, et des restes de cortine subsistent sur le pied.",
+      notes: "Il est assez répandu en Slovaquie. Les récoltes signalées en Californie pourraient appartenir à Clitocybe tarda."
     }
     },
     sources: {
@@ -63594,23 +63660,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Pied-violet"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/451443"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -63628,6 +63677,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Lilat%C3%B6nk%C5%B1_pereszke"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Pied-violet"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/451443"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -63747,9 +63813,9 @@ export const CATALOG = [
       ru: "серпула плачущая",
       uk: "серпула плачуча",
       pl: "stroczek domowy",
-      fr: "mérule pleureuse",
       it: "fungo da cantina",
-      hu: "könnyező házigomba"
+      hu: "könnyező házigomba",
+      fr: "mérule pleureuse"
     },
     names: {
       en: [
@@ -63763,9 +63829,9 @@ export const CATALOG = [
       ro: ['ciupercă de pivniță'],
       ru: ["настоящий домовый гриб"],
       uk: ["справжній домовий гриб"],
-      fr: ["mérule des maisons"],
       it: ["fungo piangente"],
-      hu: ["könnyező fagomba"]
+      hu: ["könnyező fagomba"],
+      fr: ["mérule des maisons"]
     },
     text: {
       tr: {
@@ -64035,17 +64101,6 @@ export const CATALOG = [
       confusion: "Stroczek leśny (Serpula himantioides) tworzy znacznie cieńsze owocniki i rośnie na martwym drewnie w naturalnych lasach.",
       notes: "Najgroźniejszy domowy niszczyciel drewna w strefie umiarkowanej; potrafi transportować wodę grzybnią na odległość wielu metrów."
     },
-    fr: {
-      description: "Un champignon lignicole redoutable provoquant une pourriture cubique dévastatrice dans les charpentes et boiseries des habitations. Répandu dans toutes les régions tempérées du monde.",
-      cap: "Le sporophore forme une croûte étalée (résupinée) ou de consoles épaisses de 10–50 cm de largeur et jusqu'à 2–4 cm d'épaisseur, molle et spongieuse, bordée d'une marge feutrée blanche et épaisse.",
-      hymenium: "La surface fertile est plissée, ondulée, mérulioïde, formant des alvéoles et replis sinueux brun rouille à cannelle foncé, exsudant souvent de grosses gouttelettes aqueuses translucides comme des larmes.",
-      stipe: "Le pied est complètement absent ; le champignon est étalé directement sur le bois ou la maçonnerie.",
-      flesh: "La chair est molle, spongieuse et épaisse, devenant sèche et friable. L'odeur est caractéristique de moisi ou de cave humide.",
-      sporePrint: "Brun rouille à cannelle. Les spores sont ellipsoïdes, lisses, jaune doré sous le microscope, mesurant environ 9–11 × 5–6 µm.",
-      habitat: "Il se développe dans les habitations et bâtiments humides, mal ventilés et obscurs, s'attaquant au bois ouvré (planchers, plinthes, poutres) et capable de traverser la maçonnerie grâce à d'épais cordons mycéliens grisâtres (rhizomorphes).",
-      confusion: "La mérule sauvage (Serpula himantioides) possède des sporophores plus petits et plus minces, croissant sur bois mort de conifères en forêt et sur le bois non traité en extérieur. Le coniophore des caves (Coniophora puteana) se rencontre en forêt et dans les bâtiments ; son hyménophore est lisse et généralement saupoudré de spores brunes.",
-      notes: "C'est le plus destructeur des champignons de pourriture sèche dans les bâtiments de l'hémisphère nord."
-    },
     it: {
       description: "Un temibile fungo xilofago saprotrofo agente di distruttiva carie bruna delle travi e delle strutture lignee negli edifici, cantine e tetti umidi e poco aerati. È diffuso in tutto il mondo.",
       cap: "Il corpo fruttifero è annuale, resupinato a crosta estesa e appiattita aderente al legno o con bordi rialzati a mensola, larga da pochi centimetri fino a oltre un metro e spessa 2–10 mm, carnosa e spugnosa da fresca.",
@@ -64068,6 +64123,17 @@ export const CATALOG = [
       uses: "Étkezésre teljesen alkalmatlan, nem ehető. Súlyos épületkárokat okoz, a faanyag elveszíti szilárdságát és kockákra repedezve szétporlad. A spórák és gombafonalak belélegzése légúti panaszokat és allergiát válthat ki.",
       confusion: "A vad házigomba (Serpula himantioides) termőtestei kisebbek és vékonyabbak, a természetben erdei fenyőtuskókon, valamint kültéri, kezeletlen faanyagon él. A pincepenész (Coniophora puteana) mind erdőkben, mind épületekben előfordul, termőrétege sima (nem redős), és felszínét többnyire barna spórapor fedi.",
       notes: "A fertőzött faanyagot és környezetét radikális építészeti és vegyszeres beavatkozással kell cserélni a további terjedés megállítására."
+    },
+    fr: {
+      description: "Une épaisse croûte annuelle responsable d'une pourriture brune du bois d'œuvre dans les maisons et autres bâtiments, saprotrophe sur bois mort et seulement très rarement trouvée sur le bois en extérieur. Elle est largement répandue à travers l'Europe tempérée, y compris en Grande-Bretagne et en Irlande, ainsi que dans les régions plus fraîches d'Asie, d'Amérique du Nord, d'Australie, de Nouvelle-Zélande et d'Océanie.",
+      cap: "Le sporophore est annuel et forme généralement une plaque résupinée, fixée directement au bois d'œuvre ou au plâtre et à la maçonnerie. La largeur est communément de 5–50 cm. De nombreux sporophores d'Europe centrale restent compris entre 5 et 30 cm, et des plaques confluentes atteignent environ 1 m, voire environ 2 m selon une mention. L'épaisseur est habituellement de 2–12 mm et souvent de 5–10 mm. Une étude trouve la plupart des sporophores épais de seulement 1–5 mm, avec un extrême supérieur voisin de 3 cm. Un jeune sporophore est en coussinet et blanc ou jaunâtre. Le centre devient ensuite l'hyménium coloré, tandis qu'une marge cotonneuse blanche, jaunâtre ou grisâtre subsiste, généralement jusqu'à environ 2 cm de largeur. Un chapeau résupiné-réfléchi est peu fréquent. Lorsqu'il s'en forme un, il ne dépasse guère d'environ 2 cm, bien que des chapeaux occasionnels mesurent 2–10 cm de largeur et jusqu'à 2 cm d'épaisseur. Une surface en croissance active exsude souvent des gouttelettes aqueuses ou laiteuses. Les sporophores vieux et secs virent au brun foncé, et la surface plissée s'aplatit.",
+      hymenium: "La surface est méruloïde. Des plis et des rides forment de grandes alvéoles irrégulières et labyrinthiques, et non de véritables tubes ni des lames. La couleur est jaune orangé à jaune rouille dans le jeune âge, puis rouille, brun-rouge, brune ou brun foncé, et parfois brun olive. Les alvéoles sont grandes, d'environ 1–2 mm de diamètre. Les cystides sont absentes. Des cystidioles hyphoïdes peuvent être présentes. Les basides sont clavées, d'environ 30–60 × 5–8 µm, avec quatre stérigmates et une boucle à la base.",
+      stipe: "Il n'y a pas de pied. Le sporophore est directement fixé au support. Une courte console réfléchie est peu fréquente.",
+      flesh: "La chair est blanchâtre à blanc grisâtre, molle, spongieuse et élastique. L'odeur est fongique dans le jeune âge, parfois forte en intérieur, et devient désagréable avec le temps. Une description la qualifie d'humide et de pourrie. La saveur est douce. Le système d'hyphes est dimitique. Les hyphes génératrices sont bouclées, à paroi mince et larges de 2–4 µm. Les hyphes sous-hyméniales baignent dans une matrice gélatineuse. Les hyphes squelettiques sont plus fréquentes dans les cordons mycéliens. Elles sont à paroi épaisse, larges de 2–4 µm, et cyanophiles. La dégradation est une pourriture brune cubique. Le champignon dégrade la cellulose et l'hémicellulose et laisse la lignine, de sorte que le bois s'assombrit, se fracture en cubes et finit par tomber en poussière.",
+      sporePrint: "Le dépôt est brun-jaune à brun ou brun rouille, et une chute abondante de spores peut poudrer les surfaces environnantes. Les spores sont étroitement ellipsoïdes à ellipsoïdes, lisses, à paroi épaisse et jaunâtres. Certaines possèdent des gouttelettes et un petit apicule. Les mesures publiées se situent autour de 8–12 × 4,5–6 µm. Une monographie donne 9–12 × 5–6 µm et décrit les spores comme non dextrinoïdes et cyanophiles. Une autre indique 9–11 × 4,5–5,5 µm, avec jusqu'à cinq gouttelettes lipidiques.",
+      habitat: "Les sporophores se forment toute l'année dans les bâtiments. Les spécimens frais sont signalés principalement du printemps à l'automne, et dans les bâtiments chauffés également en hiver, une description situant la poussée principale de la fin de l'été jusqu'en hiver. Ils se développent sur les poutres, les parquets, les solives, les portes, les charpentes, le bois de cave et les boiseries dans les combles non ventilés et les mines. Le bois tendre de conifère, particulièrement le pin, est l'hôte habituel. Les feuillus sont peu fréquents. Le champignon colonise également le papier, les textiles, les panneaux de particules, la paille et le roseau. Les cordons mycéliens traversent le plâtre, la brique, le mauvais mortier et le béton poreux, et un sporophore peut se former sur ces surfaces. Il nécessite un air confiné, humide et ombragé. La fructification est favorisée lorsque le bois contient environ 30–40 % d'humidité. La croissance est signalée entre environ 3 et 26 °C, avec un optimum proche de 21–22 °C, et elle cesse au-dessus d'environ 26 °C. Les cordons peuvent transporter l'eau depuis une source humide à travers la maçonnerie vers du bois plus sec, et une mention indique que le champignon produit également de l'eau en dégradant le bois. Les avis divergent sur la possibilité que la pourriture débute sous 20 % environ d'humidité du bois. La dégradation se poursuit souvent alors qu'aucun sporophore n'est visible. En extérieur, il est rare, présent sur bois naturel dans l'Himalaya, le nord de la Californie, la République tchèque et l'Asie orientale.",
+      confusion: "La mérule sauvage (Serpula himantioides) forme des sporophores plus petits et plus minces. Elle croît sur le bois mort de conifère en forêt et sur le bois non traité en extérieur. Le coniophore des caves (Coniophora puteana) se rencontre en forêt et dans les bâtiments. Son hyménium est lisse et est généralement poudré de spores.",
+      notes: "C'est le destructeur de bois d'intérieur le plus dommageable des régions tempérées. La pourriture cubique brune peut progresser à travers les planchers, les solives et les charpentes avant même qu'un sporophore n'apparaisse. Les cordons mycéliens traversant la maçonnerie, la dégradation est souvent éloignée de la source d'humidité initiale. Deux lignées sont connues. L'une est une lignée sauvage moins agressive en Amérique du Nord. L'autre est agressive, dans la nature comme dans les bâtiments, et est présente sur plusieurs continents. Les sporophores sauvages sont rares. Les vieux sporophores et le mycélium peuvent libérer des composés azotés irritants, et des maux de tête, des nausées et des vertiges ont été rapportés."
     }
     },
     sources: {
@@ -64367,23 +64433,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/M%C3%A9rule_pleureuse"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/4867"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -64401,6 +64450,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/K%C3%B6nnyez%C5%91_h%C3%A1zigomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/M%C3%A9rule_pleureuse"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/4867"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -64535,9 +64601,9 @@ export const CATALOG = [
       ru: "трюфель белый",
       uk: "білий трюфель",
       pl: "piestrak jadalny",
-      fr: "truffe du porc",
       it: "tartufo dei maiali",
-      hu: "fehér szarvasgomba"
+      hu: "fehér szarvasgomba",
+      fr: "truffe du porc"
     },
     names: {
       sk: [
@@ -64549,9 +64615,9 @@ export const CATALOG = [
       es: ['trufa de los cerdos', 'trufa de meandros'],
       ru: ["белый трюфель","троицкий трюфель","хойромицес жильчатый"],
       uk: ["хойроміцес жилкуватий"],
-      fr: ["fausse truffe à plis tortueux"],
       it: ["tartufo bianco bastardo"],
-      hu: ["eres fehér-szarvasgomba"]
+      hu: ["eres fehér-szarvasgomba"],
+      fr: ["fausse truffe à plis tortueux"]
     },
     text: {
       tr: {
@@ -64829,18 +64895,6 @@ export const CATALOG = [
       confusion: "Trufla biała (Tuber magnatum) ma gładkie wnętrze z czerwonawym odcieniem i rośnie głównie we Włoszech. Tęgoskór cytrynowy (Scleroderma citrinum) ma twardą perydium i wnętrze fioletowoczarne.",
       notes: "Bywa traktowany jako synonim Choiromyces venosus."
     },
-    fr: {
-      description: "Un champignon ascomycète hypogé produisant de gros tubercules souterrains émergeant parfois à la surface du sol dans les forêts de feuillus et de conifères. Présent dans toute l'Europe.",
-      cap: "Le sporophore forme un tubercule arrondi ou lobé irrégulier de 4–12 cm de diamètre, atteignant parfois la taille d'un poing et un poids de plusieurs centaines de grammes. La surface extérieure (péridium) est lisse, bosselée, crème jaunâtre puis brun chamois ou beige ochracé.",
-      hymenium: "La gleba interne est compacte, pleine, marbrée de veines fertiles sinueuses et tortueuses (méandriformes) blanc crème sur un fond jaunâtre à brun clair.",
-      stipe: "Le pied est totalement absent.",
-      flesh: "La chair est très ferme et dense dans la jeunesse, devenant plus molle à maturité. L'odeur est d'abord agréable et aromatique puis devient puissante, musquée et écœurante avec l'âge ; la saveur est douce.",
-      sporePrint: "Jaunâtre à crème ocré. Les ascospores sont globuleuses, jaune doré, ornées d'épines ou d'appendices sinueux remarquables, mesurant environ 16–22 µm de diamètre.",
-      habitat: "Les tubercules se développent d'abord sous la surface du sol de juin à novembre avant de faire craqueler la terre et d'affleurer, sous les hêtres, les chênes et les conifères.",
-      uses: "Consommé cuit à l'état jeune dans certains pays d'Europe centrale et de l'Est comme condiment aromatique râpé. Il est indigeste ou toxique cru.",
-      confusion: "La truffe blanche d'Alba (Tuber magnatum) possède un péridium plus pâle et des veines blanches fines, avec un parfum d'ail très raffiné.",
-      notes: "Certains auteurs considèrent Choiromyces venosus comme synonyme de ce taxon."
-    },
     it: {
       description: "Un fungo ipogeo o semipogeo ascomicete che fruttifica parzialmente interrato nei boschi collinari e montani di latifoglie e conifere (faggio, abete, pino) su terreni argillosi. È diffuso in Europa centrale e orientale.",
       cap: "Il corpo fruttifero è a forma di tubero nodoso e irregolare simile a una grossa patata, di 4–12 cm di diametro (talvolta fino a 15 cm e oltre mezzo chilo di peso). Il peridio esterno è liscio, inizialmente biancastro o crema, poi bruno-giallastro o nocciola screpolato.",
@@ -64864,6 +64918,18 @@ export const CATALOG = [
       uses: "Kiváló fűszergomba. Nyersen vékonyra szeletelve tésztákra, rizottókra vagy húsételekre reszelik aromás ízesítőként. Nyersen nagy mennyiségben hashajtó hatású lehet.",
       confusion: "A valódi isztriai fehér szarvasgomba (Tuber magnatum) sokkal drágább és más spórájú. A mérgező áltriflák (Scleroderma fajok) belseje feketéslila.",
       notes: "A Choiromyces venosus néven is ismert faj a hazai erdők egyik legértékesebb föld alatti csemegéje."
+    },
+    fr: {
+      description: "Un grand ascomycète hypogé tubériforme. Indigène à travers l'Europe centrale et orientale, la Scandinavie et certaines parties de l'Europe méridionale. Il croît sous les feuillus et les conifères et fructifie sous terre, une partie du sporophore perçant parfois la surface du sol.",
+      cap: "Le sporophore est tubériforme, arrondi, noueux, lobé ou aplati, mesurant habituellement 4–12 cm de largeur, parfois 15 cm, et atteignant 0,5 kg ou davantage. La peau externe est lisse, sèche et mate, parfois craquelée. Elle est blanchâtre, blanc grisâtre ou crème au début, devenant brun jaunâtre pâle, brun-ocre ou chamois, souvent avec des taches brunes là où elle est exposée à la lumière. Des plages de la peau peuvent être brun rougeâtre. La couche externe est un pseudoparenchyme de cellules arrondies à anguleuses, d'environ 10–25 µm de diamètre.",
+      hymenium: "L'intérieur (gléba) est plein, ferme et marbré. Des veines stériles sinueuses et méandriformes de tissu blanchâtre ou crème pâle serpentent à travers les zones fertiles, qui sont jaune grisâtre, brun pâle ou chamois jaunâtre. Les asques sont clavés à sacciformes, mesurant 100–180 × 30–50 µm, et contiennent huit spores. Les ascospores sont globuleuses, jaunâtres, mesurant 16–22 µm de diamètre en excluant l'ornementation, et sont couvertes d'épines obtuses, de verrues ou de bâtonnets atteignant jusqu'à 4 µm de longueur. Les paraphyses sont grêles et cloisonnées.",
+      stipe: "Il n'y a pas de pied.",
+      flesh: "La chair est épaisse, dure et de consistance rappelant la pomme de terre dans la jeunesse, devenant plus molle et légèrement spongieuse avec l'âge. L'odeur est d'abord faible, puis forte, pénétrante et aromatique, souvent qualifiée de douceâtre, rappelant le maïs cuit, l'ail ou le fromage très mûr. La saveur est douce à douceâtre et de noisette.",
+      sporePrint: "Ocre pâle à brun jaunâtre. Les ascospores sont globuleuses, à paroi épaisse, ornées de pointes cylindriques ou de verrues.",
+      habitat: "Les sporophores poussent sous terre, généralement 2–10 cm sous la surface, ou émergent partiellement dans la litière. Ils fructifient de juillet à octobre, occasionnellement en novembre. On les trouve sur des sols acides à neutres, rarement sur la craie, dans les forêts de feuillus et mixtes sous épicéa, pin, hêtre, chêne et bouleau. Ils croissent souvent en petits groupes.",
+      uses: "Comestible dans le jeune âge et bien cuit, mais toxique cru, provoquant des troubles gastro-intestinaux. Il est traditionnellement consommé dans certaines parties d'Europe du Nord et de l'Est, en particulier en Suède, en Pologne et en Russie. Les vieux sporophores à l'odeur désagréable doivent être évités. Il n'est pas considéré comme comparable aux véritables truffes sur le plan gastronomique.",
+      confusion: "La truffe blanche d'Alba (Tuber magnatum) est généralement plus petite. Son intérieur mature est rougeâtre marbré de veines blanches, et son odeur et sa saveur sont agréables et quelque peu aillées. Ses asques renferment une à trois spores, parfois quatre, ornées d'un réseau à larges mailles, et c'est une espèce méditerranéenne. Des sporophores immatures de cette espèce sont parfois vendus frauduleusement sous le nom de cette truffe. Un scléroderme mature (Scleroderma), y compris le scléroderme commun (Scleroderma citrinum) et le scléroderme verruqueux (Scleroderma verrucosum), présente un intérieur presque noir. La truffe des cistes (Choiromyces magnusii) est plus petite, fructifie au printemps, possède des veines non méandriformes et pousse sous les cistes (Cistus).",
+      notes: "Certaines descriptions considèrent ce champignon comme conspécifique de Choiromyces venosus. Des sporophores immatures sont parfois vendus frauduleusement comme Tuber magnatum. En Allemagne, une évaluation de 1992 l'a placé en catégorie 2, et une liste ultérieure le classe en catégorie 3. En Allemagne, il est principalement connu des contreforts alpins et des hautes terres, et il est absent de la plaine septentrionale."
     }
     },
     sources: {
@@ -65181,23 +65247,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Choiromyces_meandriformis"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/4868"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -65220,6 +65269,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/Feh%C3%A9r_szarvasgomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Choiromyces_meandriformis"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/4868"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -65323,9 +65389,9 @@ export const CATALOG = [
       ru: "ежовик коралловидный",
       uk: "герицій коралоподібний",
       pl: "soplówka bukowa",
-      fr: "hydne corail",
       it: "idno corallo",
-      hu: "közönséges petrezselyemgomba"
+      hu: "közönséges petrezselyemgomba",
+      fr: "hydne corail"
     },
     names: {
       en: ["coral tooth fungus", "comb coral mushroom"],
@@ -65611,18 +65677,6 @@ export const CATALOG = [
       confusion: "Soplówka jeżowata (Hericium erinaceus) ma owocnik nierozgałęziony, poduszeczkowaty z długimi kolcami. Soplówka jodłowa (Hericium alpestre) rośnie na jodłach.",
       notes: "W Polsce gatunek rzadki, narażony na wyginięcie (Vulnerable), objęty ochroną częściową."
     },
-    fr: {
-      description: "Un champignon lignicole coralloïde spectaculaire provoquant une pourriture blanche sur les vieux troncs morts de feuillus. Présent dans les forêts anciennes d'Europe, d'Asie et d'Amérique du Nord.",
-      cap: "Le sporophore mesure 10–30 cm de largeur et forme une masse très ramifiée évoquant un corail marin blanc pur. Les branches sont multiples et se divisent successivement en rameaux graciles.",
-      hymenium: "Les rameaux sont garnis de nombreux petits aiguillons pendants de 5–15 mm de longueur, courts, pointus et droits, alignés régulièrement comme les dents d'un peigne.",
-      stipe: "Le pied est court, trapu et fixé profondément au bois mort par une base commune épaisse.",
-      flesh: "La chair est blanche, tendre et élastique au début, devenant fibreuse. L'odeur est agréable et fruitée ; la saveur est douce.",
-      sporePrint: "Blanche. Les spores sont subglobuleuses, lisses à très finement verruqueuses, amyloïdes, mesurant environ 3,5–5 × 3–4 µm.",
-      habitat: "Les sporophores apparaissent d'août à novembre sur les troncs pourrissants et les grosses bûches de hêtres (Fagus), de bouleaux et d'autres feuillus dans les forêts anciennes.",
-      uses: "C'est un champignon comestible recherché lorsqu'il est jeune et bien frais. Sa texture délicate convient particulièrement aux cuissons rapides à la poêle.",
-      confusion: "L'hydne hérisson (Hericium erinaceus) n'est pas ramifié en branches coralloïdes mais forme un coussin compact portant de très longs aiguillons pendants.",
-      notes: "Une évaluation de 2019 le classe en préoccupation mineure (Least Concern)."
-    },
     it: {
       description: "Un magnifico fungo lignicolo agente di carie bianca, saprotrofo su grossi tronchi caduti e ceppi marcescenti di faggio e altre latifoglie. È diffuso nelle foreste vetuste temperate d'Europa e Asia.",
       cap: "Non esiste un cappello differenziato. Il corpo fruttifero è formato da un cespo ampiamente e ripetutamente ramificato simile a un cespuglio di corallo marino bianco, largo 10–30 cm. I rami sono bianchi candidi, curvati e graziosamente suddivisi.",
@@ -65646,6 +65700,18 @@ export const CATALOG = [
       uses: "Fiatalon kitűnő csemegegomba, puha húsa levesekben és átsütve kiváló. Természetvédelmi értéke és ritkasága miatt kímélendő.",
       confusion: "A süngomba (Hericium erinaceus) nem ágas-bogas korallszerű, hanem egyetlen tömör testből áll, amelyről hosszú tüskék lógnak alá.",
       notes: "Idős, természetközeli bükkösök jelenlétét jelző indikátorfaj. Magyarországon védett faj, természetvédelmi értéke 10 000 Ft."
+    },
+    fr: {
+      description: "Un champignon lignicole à aiguillons du bois mort de feuillus, en forme de touffe de corail. Indigène en Europe, où il croît principalement sur le hêtre, et à travers l'Asie tempérée. En Amérique du Nord et dans certaines régions d'Europe, ce nom a été appliqué à d'autres espèces. Il est partout peu commun et rare sur une grande partie du territoire européen.",
+      cap: "Il n'y a pas de chapeau distinct. Le sporophore forme une masse ramifiée coralliforme de 10–30 cm de largeur et 10–25 cm de hauteur, atteignant jusqu'à 40 cm de largeur chez les grands spécimens, fixée au bois par une base courte, épaisse, jaunâtre ou brunâtre. Les rameaux se divisent à plusieurs reprises et portent des aiguillons sur leur face inférieure. La couleur est d'un blanc pur au début, devenant crème, jaunâtre ou ocre avec l'âge.",
+      hymenium: "Les aiguillons sporifères pendent sous la face inférieure des rameaux, disposés en rangées semblables aux dents d'un peigne. Ils sont droits ou légèrement courbés, longs de 5–15 mm, atteignant parfois 20 mm, pointus et cassants. Ils sont d'un blanc pur, devenant crème ou jaunâtre pâle avec l'âge, et s'assombrissant en ocre ou brunâtre à l'état sec. Les basides sont clavées, mesurant 20–30 × 4,5–6 µm, tétrasporiques, avec une boucle à la base. Des gléocystides sont présentes, cylindriques à clavées, amyloïdes. Les hyphes sont monomitiques, à paroi mince à épaisse, bouclées, larges de 3–15 µm, et amyloïdes.",
+      stipe: "Un pied distinct est absent ou réduit à une base radicante courte et épaisse, longue de 1–4 cm et épaisse de 1–3 cm, par laquelle la touffe est fixée au bois. Elle est coriace, fibreuse, blanchâtre, et devient brun-ocre. Il n'y a pas d'anneau.",
+      flesh: "La chair est épaisse à la base, blanche, molle et cassante dans les rameaux, devenant coriace avec l'âge. Elle ne change pas de couleur à la coupe. L'odeur est douce, légèrement fongique ou fruitée. La saveur est douce, devenant légèrement amère ou acidulée chez les sporophores âgés.",
+      sporePrint: "Blanche. Les spores sont largement ellipsoïdes à subglobuleuses, lisses à minutieusement rugueuses, à paroi épaisse, amyloïdes, mesurant 3,5–5 × 3–4 µm. Elles contiennent une unique gouttelette lipidique.",
+      habitat: "Les sporophores poussent sur des troncs tombés morts, de grosses branches et des troncs morts dressés d'arbres feuillus, particulièrement le hêtre (Fagus sylvatica), moins souvent le chêne, le frêne, le bouleau, l'orme, l'érable et le saule. Rarement trouvé sur conifères. Il provoque une pourriture blanche. Les sporophores apparaissent d'août à novembre, occasionnellement jusqu'en décembre sous climats doux, habituellement solitaires ou en petits groupes.",
+      uses: "Un comestible de choix lorsqu'il est jeune et frais, avec une saveur délicate et une texture semblable à celle du crabe ou du homard. Les spécimens plus âgés et jaunâtres deviennent coriaces et amers. Il doit être bien cuit.",
+      confusion: "L'hydne hérisson (Hericium erinaceus) forme un coussin non ramifié, et ses aiguillons mesurent habituellement 1–5 cm de longueur. L'hydne hérissé (Hericium cirrhatum) forme des consoles étagées minces avec des chapeaux distincts. De fins aiguillons recouvrent également sa face supérieure, et les aiguillons du dessous mesurent environ 10–15 mm de longueur. L'hydne des sapins (Hericium alpestre) pousse sur le sapin, de l'Europe jusqu'en Asie centrale. Il est plus compact. Ses aiguillons sont plus longs, mesurant environ 10–20 mm, et se dressent en touffes à l'extrémité des rameaux plutôt qu'en peigne le long des branches. Ses spores sont plus grandes, d'environ (5–)5,5–6,5(–7) × 4,5–6(–6,5) µm, et sa chair prend des teintes rosâtres avec l'âge. Certains ouvrages désignent ce champignon des sapins sous le nom d'Hericium flagellum. L'hydne d'Amérique (Hericium americanum) croît dans l'est de l'Amérique du Nord, principalement sur feuillus. Il est plus trapu, avec des rameaux plus courts, des aiguillons souvent plus longs que 1 cm, des spores d'environ 5,5–7 × 4,5–6 µm, et une teinte rosâtre. Les anciens ouvrages américains appliquaient Hericium coralloides à ce champignon et Hericium ramosum à l'espèce à aiguillons courts. L'hydne des sapins de l'Ouest (Hericium abietis) croît dans le nord-ouest du Pacifique sur le bois de conifères, notamment le sapin et la pruche. Il est massif, ses spores mesurent environ 4,5–5,5 × 4–4,5 µm, et il prend des reflets rosâtres. Le pied-de-mouton (Hydnum repandum) et l'hydne roussissant (Hydnum rufescens) possèdent des aiguillons sous un chapeau régulier et poussent au sol.",
+      notes: "En Pologne, une liste nationale le signale comme vulnérable (Vulnerable). En Grande-Bretagne, une liste non officielle de 2006 le traite comme quasi menacé (Near Threatened). Il est peu fréquent dans les vieilles hêtraies et forêts mixtes de Slovaquie et rare dans les vieilles hêtraies de République tchèque. Le nom actuellement utilisé recouvre plus d'une lignée, et un groupe bien étayé de récoltes de l'est et de l'ouest du Canada, du sud-ouest et du nord-ouest des États-Unis, de Russie, de Suède et d'Ukraine pourrait représenter une espèce distincte."
     }
     },
     sources: {
@@ -65995,23 +66061,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Hericium_coralloides"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/4869"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -66029,6 +66078,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/K%C3%B6z%C3%B6ns%C3%A9ges_petrezselyemgomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Hericium_coralloides"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/4869"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -66164,10 +66230,10 @@ export const CATALOG = [
       ru: "белонавозник бирнбаума",
       uk: "білогноєвик бірнбаума",
       pl: "czubnik cytrynowy",
-      fr: "lépiote jaune",
       it: "lepiota di Birnbaum",
       hu: "sárga bordásőzlábgomba",
-      cs: "bedla cibulkotřenná"
+      cs: "bedla cibulkotřenná",
+      fr: "lépiote jaune"
     },
     names: {
       en: [
@@ -66182,9 +66248,9 @@ export const CATALOG = [
       ru: ["белонавозник жёлтый"],
       uk: ["лейкокопрінус бірнбаума","білопечериця бірнбаума"],
       pl: ["czubajnik cytrynowy"],
-      fr: ["lépiote de Birnbaum"],
       it: ["lepiota gialla"],
-      hu: ["sárga bordás-őzlábgomba"]
+      hu: ["sárga bordás-őzlábgomba"],
+      fr: ["lépiote de Birnbaum"]
     },
     text: {
       tr: {
@@ -66454,17 +66520,6 @@ export const CATALOG = [
       confusion: "Leucocoprinus straminellus jest mniejszy, bledszy (słomkowożółty do białawego) i ma mniejsze zarodniki.",
       notes: "Grzybnia tworzy w podłożu drobne, twarde, żółtawobiałe sklerocja o średnicy poniżej 1 mm."
     },
-    fr: {
-      description: "Un petit champignon saprotrophe tropical d'un jaune soufre éclatant, très commun dans les serres chaudes et les pots de plantes d'intérieur. Répandu dans le monde entier en intérieur.",
-      cap: "Le chapeau mesure 2–6 cm de largeur, d'abord conique-campanulé puis étalé avec un mamelon obtus. Il est d'un jaune soufre ou jaune citron éclatant, entièrement saupoudré d'un feutrage floconneux ou de petites écailles jaunes farineuses. La marge est nettement sillonnée-striée.",
-      hymenium: "Les lames sont libres, minces, serrées, jaune soufre à jaune pâle.",
-      stipe: "Le pied mesure 3–8 cm de hauteur et 2–5 mm d'épaisseur, grêle, épaissi à la base en un petit bulbe, concolore au chapeau, portant un petit anneau jaune délicat et fugace.",
-      flesh: "La chair est très mince, jaune soufre pâle. L'odeur et la saveur sont insignifiantes.",
-      sporePrint: "Blanche. Les spores sont ellipsoïdes, lisses, à paroi épaisse avec un pore germinatif net, dextrinoïdes, mesurant environ 8–11 × 5–7 µm.",
-      habitat: "Les sporophores poussent toute l'année dans les serres, les vérandas et le terreau des plantes vertes en pots d'appartement, souvent en troupes serrées.",
-      confusion: "La lépiote jaune paille (Leucocoprinus straminellus) est plus pâle, parfois blanchâtre, plus petite et plus fragile, avec des spores plus petites mesurant environ 5–7 × 4–6 µm dépourvues de pore germinatif. Leucocoprinus flavescens possède un chapeau blanc à jaunâtre pâle avec un centre brunâtre et des spores plus petites. Leucocoprinus tricolor a un centre brun et une base jaune chrome. Leucocoprinus fragilissimus possède un chapeau extrêmement mince et translucide. La lépiote crétacée (Leucocoprinus cretaceus) est d'un blanc de craie. Leucoagaricus sulphurellus possède des lames bleuissant vivement aux meurtrissures. Le bolbite d'or (Bolbitius titubans) pousse dans l'herbe, ses lames jaunes deviennent cannelle à maturité et son pied est dépourvu d'anneau.",
-      notes: "Son mycélium produit fréquemment de minuscules sclérotes sphériques jaunes de 0,5 à 1 mm de diamètre visibles dans le terreau."
-    },
     it: {
       description: "Un fungo saprotrofo tipico delle regioni tropicali e subtropicali, comunissimo nelle serre, nei vasi di piante d'appartamento e nei terricci umidi riscaldati in tutta Europa.",
       cap: "Il cappello misura 2–6 cm di diametro. Inizialmente è campanulato o conico-ovoide, poi espanso con umbone centrale, interamente di un magnifico e vivido colore giallo limone o giallo zolfo brillante, cosparso da fiocchi o squamette farinose concolori e con margine nettamente striato.",
@@ -66487,6 +66542,17 @@ export const CATALOG = [
       uses: "Mérgező gomba. Gyomor- és bélrendszeri panaszokat, hányást és hasmenést okoz. A szobanövényekben ártalmatlan a növényre nézve, de kisgyermekek és háziállatok elől el kell távolítani.",
       confusion: "A szalmasárga bordásőzlábgomba (Leucocoprinus straminellus) kissé világosabb, olykor fehéres, kisebb és törékenyebb termetű, spórái kisebbek (5–7 × 4–6 μm) és nincs csírapórusuk. A Leucocoprinus flavescens kalapja halványsárgás vagy fehér, közepe barnás, spórái kisebbek. A Leucocoprinus tricolor kalapközépe barna, sárga színei halványabbak és tönk töve krómsárga. A Leucocoprinus fragilissimus kalapja rendkívül vékony és lemezei halványak. A Leucocoprinus brunneoluteus kifejezett barna púppal és vékony, törékeny hússal bír. A krétafehér bordásőzlábgomba (Leucocoprinus cretaceus) hasonló alkatú, de krétafehér színű. A Leucoagaricus sulphurellus lemezei sérülésre élénk kékeszöldre színeződnek. A sárga kérészgomba (Bolbitius titubans) füves területeken nő, sárga lemezei a spórák érésével fahéjbarnára változnak és tönkjén nincs gallér.",
       notes: "A talajban apró, 0,5–0,8 mm-es fehéressárga szkleróciumokat képez. Sárga színét a birnbaumin nevű alkaloidok adják."
+    },
+    fr: {
+      description: "Un petit champignon saprotrophe jaune vif des serres et des pots de fleurs, largement répandu sous les tropiques et les subtropiques. Dans les régions tempérées, y compris en Grande-Bretagne et en Europe centrale, il pousse dans les serres chauffées et à l'intérieur des habitations dans les pots de plantes d'intérieur. Il possède un chapeau jaune campanulé à aplati, couvert d'écailles poudreuses, ainsi qu'un pied jaune pourvu d'un anneau.",
+      cap: "Le chapeau mesure 2–6 cm de largeur, d'abord ovale à conique ou campanulé, puis s'aplatissant, avec un mamelon obtus jaune plus foncé. La marge est profondément cannelée et striée radialement. La surface est sèche, jaune citron vif à jaune canari, couverte de fines écailles poudreuses ou floconneuses jaunes qui disparaissent sous la pluie ou au frottement. Le revêtement piléique est un cutis d'hyphes portant des amas de cellules terminales renflées.",
+      hymenium: "Les lames sont libres, serrées et minces, larges de 2–4 mm, jaune pâle à jaune soufre, s'estompant en blanchâtre. Les arêtes sont finement floconneuses. Les basides sont tétrasporiques, clavées, mesurant 18–25 × 7–9 µm. Les cheilocystides sont abondantes, variables, clavées à renflées, mesurant 30–50 × 10–15 µm. Les pleurocystides sont absentes.",
+      stipe: "Le pied mesure 3–8 cm de longueur et 2–5 mm d'épaisseur, cylindrique, s'atténuant vers le haut, avec une base renflée ou bulbeuse atteignant jusqu'à 1 cm d'épaisseur. Il est creux, fragile et jaune vif comme le chapeau, orné de fins flocons poudreux. Un anneau étroit, membraneux et jaune se trouve sur la moitié supérieure et disparaît souvent avec l'âge. Il n'y a pas de volve.",
+      flesh: "La chair est très mince, fragile et jaune pâle, plus sombre sous la cuticule du chapeau. L'odeur est faible et non distinctive ; la saveur est douce ou légèrement amère.",
+      sporePrint: "Blanche à blanc jaunâtre. Les spores sont lisses, ellipsoïdes à amygdaliformes, avec un pore germinatif distinct, à paroi épaisse, dextrinoïdes et métachromatiques, mesurant 8–12 × 5,5–8 µm.",
+      habitat: "Saprotrophe sur terreau riche, compost et paillis, fructifiant dans des conditions chaudes et humides. Il pousse sur le sol, solitaire, dispersé ou en petits groupes, dans les pots de fleurs, les serres et les couches chaudes. Par temps chaud, il fructifie également en extérieur dans les jardins, les pelouses et sur les sols remaniés en forêt, parfois autour de souches. Dans les serres non chauffées en Grande-Bretagne, ils apparaissent de juin à octobre. Dans les serres chauffées et les pots d'intérieur, ils peuvent apparaître en tout mois de l'année. En extérieur en Amérique du Nord, ils fructifient en été. Une récolte en Égypte a poussé sur la souche d'un citronnier mort en automne.",
+      confusion: "La lépiote jaune paille (Leucocoprinus straminellus) est légèrement plus pâle, parfois blanchâtre, plus petite et plus fragile, avec des spores plus petites d'environ 5–7 × 4–6 µm dépourvues de pore germinatif. La lépiote jaunissante (Leucocoprinus flavescens) possède un chapeau jaunâtre pâle à blanc avec un centre brunâtre et des spores plus petites. La lépiote tricolore (Leucocoprinus tricolor) a le centre du chapeau brun, des teintes jaunes plus pâles et une base de pied jaune chrome. La lépiote très fragile (Leucocoprinus fragilissimus) présente un chapeau extrêmement mince et des lames pâles. La lépiote brun-jaune (Leucocoprinus brunneoluteus) possède un mamelon brun prononcé et une chair mince et fragile. La lépiote blanc de craie (Leucocoprinus cretaceus) a une stature similaire et est d'un blanc crayeux. Le lépiote soufré (Leucoagaricus sulphurellus) possède des lames qui virent au bleu-vert vif au froissement. Le bolbitie jaune d'œuf (Bolbitius titubans) pousse dans les prairies, ses lames jaunes virent au cannelle à mesure que les spores mûrissent, et son pied n'a pas d'anneau.",
+      notes: "De minuscules sclérotes durs, mesurant environ 0,5–0,8 mm de longueur, se forment sur le sol au sein du mycélium. Ils sont beige blanchâtre à blanc jaunâtre pâle. Le champignon ne nuit pas à la plante vivante. Dans un pot d'orchidée transparent, les sclérotes peuvent s'accumuler, altérer l'aspect esthétique de la plante et modifier la rétention d'eau du substrat. La couleur jaune provient de deux alcaloïdes indoliques, la birnbaumine A et la birnbaumine B. La birnbaumine B est le pigment principal. L'ingestion des sporophores provoquerait une gastro-entérite. La gravité exacte de cette intoxication reste incertaine, et certaines sources qualifient sa toxicité d'inconnue."
     }
     },
     sources: {
@@ -66767,23 +66833,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/L%C3%A9piote_jaune"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/40801"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -66806,6 +66855,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/S%C3%A1rga_bord%C3%A1s%C5%91zl%C3%A1bgomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/L%C3%A9piote_jaune"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/40801"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
@@ -66914,8 +66980,8 @@ export const CATALOG = [
       ru: "круцибулюм гладкий",
       uk: "круцибулюм гладенький",
       pl: "kubecznik pospolity",
-      fr: "crucibule lisse",
-      hu: "sárga tégelygomba"
+      hu: "sárga tégelygomba",
+      fr: "crucibule lisse"
     },
     names: {
       en: ["white-egg bird's nest", "common bird's nest"],
@@ -67194,17 +67260,6 @@ export const CATALOG = [
       confusion: "Gatunki z rodzaju czarkówka (Cyathus), np. Cyathus striatus, mają wewnętrzną ściankę kubka wyraźnie podłużnie prążkowaną, a młode owocniki mają inną osłonę.",
       notes: "Krople deszczu wpadające do kielicha owocnika wyrzucają perydiole na zewnątrz na odległość nawet ponad metra dzięki mechanizmowi rozpryskowemu."
     },
-    fr: {
-      description: "Un minuscule champignon gastéromycète saprotrophe en forme de petit nid d'oiseau contenant des « œufs ». Répandu dans toute l'Europe, en Amérique du Nord et en Asie tempérée.",
-      cap: "Le sporophore forme une petite coupe cylindrique ou campanulée de 3–10 mm de diamètre et 3–8 mm de hauteur. L'extérieur est d'abord feutré jaune ocré puis devient brun clair et glabre. L'ouverture est initialement scellée par un opercule membraneux jaune orangé qui se déchire pour révéler un intérieur lisse et blanc argenté.",
-      hymenium: "L'hyménium est enfermé à l'intérieur de petits disques lenticulaires aplatis (les péridioles), mesurant environ 1,5–2 mm de diamètre, de couleur blanc crème, fixés au fond du nid par un fin cordonnet élastique.",
-      stipe: "Le pied est complètement absent ; la coupe est fixée directement sur le bois.",
-      flesh: "La paroi de la coupe est mince, ferme et subéreuse. L'odeur et la saveur sont insignifiantes.",
-      sporePrint: "Incolore. Les spores sont ellipsoïdes, lisses, hyalines, mesurant environ 7–10 × 4–5,5 µm.",
-      habitat: "Les sporophores apparaissent d'août à novembre en groupes denses sur les brindilles tombées, les éclats de bois, les copeaux de paillage et les débris ligneux pourrissants.",
-      confusion: "Les espèces du genre Cyathus (Cyathus) possèdent une paroi à trois couches, sont dépourvues d'opercule jaune ou orange (fermé par une fine membrane blanche dans le jeune âge) et leurs péridioles sont souvent gris foncé à noirs. Crucibulum parvulum est plus petit, mesurant 1,5–3 mm à l'ouverture, et n'est jamais jaune. Le genre Nidula (Nidula) ne possède pas de cordonnet fixant les péridioles. Nidularia deformis (Nidularia deformis) est dépourvu d'opercule et devient brun foncé avec l'âge.",
-      notes: "Les gouttes de pluie frappant l'intérieur de la coupe éjectent les péridioles au loin, dont le cordonnet s'enroule autour des tiges voisines."
-    },
     it: {
       description: "Un minuscolo fungo gasteromicete saprotrofo che fruttifica gregario su rametti secchi, cortecce cadute, cippato di legno e residui vegetali marcescenti. È diffuso in tutto il mondo.",
       cap: "Il corpo fruttifero (peridio) è a forma di minuscola tazzina o nido circolare, largo 3–10 mm all'apice e alto 2–10 mm. L'esterno è tomentoso, di colore giallo-ocraceo o camoscio, chiuso da giovane da una membrana superiore (epiframma) giallo-aranciata che si lacera a maturità lasciando aperta la coppa.",
@@ -67227,6 +67282,17 @@ export const CATALOG = [
       uses: "Nem ehető. Apró mérete és bőrszerű állaga miatt étkezési értéke nincs.",
       confusion: "A csíkos fészekgomba (Cyathus striatus) belső fala jellegzetesen hosszant barázdált és sötétszürke színű.",
       notes: "A ferdén álló belső falak 70–75°-os szöge optimális az esőcseppek általi peridióla-kilökődéshez. Folyadékkultúrában szalfredin vegyületeket termel."
+    },
+    fr: {
+      description: "Un minuscule champignon saprotrophe des brindilles, des copeaux de bois et autres débris ligneux. Il possède une aire de répartition tempérée circumpolaire : signalé dans la majeure partie de l'Europe, y compris en Slovaquie et aux îles Canaries, de l'Alaska au Mexique en Amérique du Nord, au Chili et en Terre de Feu, ainsi qu'en Islande, au Japon, en Australie et en Nouvelle-Zélande.",
+      cap: "Le sporophore, un péridium formant une coupe, mesure 3–10 mm de largeur à l'ouverture et 2–10 mm de hauteur. Il débute en coussinet à presque globuleux et est fermé par un opercule feutré jaune à orange. Lorsque l'opercule se déchire, le sporophore prend une forme de tonneau puis de coupe ou de creuset, avec des parois presque parallèles. La paroi est formée d'une seule couche d'hyphes étroitement enchevêtrées, épaisse d'environ 0,25–0,5 mm. La face externe est jaune à ocre et grossièrement feutrée dans le jeune âge. Elle s'érode pour devenir lisse, vire au cannelle à brun, et les vieilles coupes dégradées peuvent blanchir en blanc sale. La face interne est lisse, brillante et blanchâtre à grise.",
+      hymenium: "Il n'y a ni lames ni pores. Le tissu fertile est enfermé dans les péridioles, les « œufs » logés au fond de la coupe. Une coupe en contient habituellement environ quatre à dix, occasionnellement jusqu'à quinze. Ils sont aplatis, en forme de disque, larges de 1–2 mm et épais de 0,2–0,4 mm, ocre pâle à blancs ; une enveloppe externe blanchâtre (la tunique) entoure chacun d'eux. Chaque péridiole est attaché à la paroi de la coupe par un cordon élastique robuste, le funicule, qui se termine par un petit nodule sous le disque. À l'intérieur d'un péridiole, des basides clavées à quatre spores chacune tapissent la cavité, entremêlées d'hyphes stériles.",
+      stipe: "Il n'y a pas de pied. Le sporophore est fixé au bois ou aux débris par sa base rétrécie.",
+      flesh: "La paroi constitue une couche mince et ferme, et il n'y a ni odeur ni saveur distinctive.",
+      sporePrint: "Incolore. Les spores sont hyalines, lisses, à paroi épaisse et ellipsoïdes, mesurant environ 6–11,5 × 3–6 µm.",
+      habitat: "Les sporophores poussent isolés, dispersés ou en groupes denses sur les brindilles, les branchettes, les cônes, les coquilles de noix, les copeaux de bois, les vieux paillassons, les tiges de plantes, la paille et les excréments, dans les forêts de feuillus, mixtes et de conifères ainsi qu'en milieu ouvert. On les trouve rarement sur de gros troncs ou sur le sol nu. Ils fructifient du début de l'été jusqu'à la fin de l'automne en Europe, et du printemps jusqu'à l'automne en Amérique du Nord, ou durant tout l'hiver dans les climats plus chauds.",
+      confusion: "Les espèces de cyathes (Cyathus) possèdent une paroi à trois couches, sont dépourvues d'opercule jaune à orange et sont fermées dans le jeune âge par une fine membrane blanche ; des spécimens érodés de Cyathus dont la face externe velue est usée se confondent facilement avec cette espèce. Le petit crucibule (Crucibulum parvulum) est plus petit, mesurant 1,5–3 mm de largeur à l'ouverture, et n'est jamais jaune. Le genre Nidula (Nidula) est dépourvu de cordon fixant les péridioles. La nidulaire déformée (Nidularia deformis) n'a pas d'opercule et devient brun foncé avec l'âge.",
+      notes: "Les gouttes de pluie, ou l'eau gouttant d'une feuille située au-dessus, éjectent les péridioles hors de la coupe par éclaboussement. Les parois internes lisses sont inclinées à environ 70–75° par rapport à l'horizontale, ce qui assure une éjection efficace. Les péridioles ont tendance à adhérer à la végétation environnante, où des herbivores peuvent les consommer et disséminer les spores. En culture liquide, le champignon produit des salfrédines, des composés qui inhibent l'enzyme aldose réductase."
     }
     },
     sources: {
@@ -67512,23 +67578,6 @@ export const CATALOG = [
           href: "https://www.ptmyk.pl/"
         }
       ],
-      fr: [
-        {
-          group: "text",
-          name: "Wikipédia",
-          href: "https://fr.wikipedia.org/wiki/Crucibulum_laeve"
-        },
-        {
-          group: "text",
-          name: "INPN",
-          href: "https://inpn.mnhn.fr/espece/cd_nom/4870"
-        },
-        {
-          group: "text",
-          name: "Société Mycologique de France",
-          href: "https://www.mycofrance.fr/"
-        }
-      ],
       it: [
         {
           group: "text",
@@ -67546,6 +67595,23 @@ export const CATALOG = [
           group: "text",
           name: "Wikipédia",
           href: "https://hu.wikipedia.org/wiki/S%C3%A1rga_t%C3%A9gelygomba"
+        }
+      ],
+      fr: [
+        {
+          group: "text",
+          name: "Wikipédia",
+          href: "https://fr.wikipedia.org/wiki/Crucibulum_laeve"
+        },
+        {
+          group: "text",
+          name: "INPN",
+          href: "https://inpn.mnhn.fr/espece/cd_nom/4870"
+        },
+        {
+          group: "text",
+          name: "Société Mycologique de France",
+          href: "https://www.mycofrance.fr/"
         }
       ]
     },
