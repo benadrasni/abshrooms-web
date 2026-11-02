@@ -411,15 +411,15 @@ export const CATALOG = [
       confusion: "Le specie simili includono il porcino di fiele (Tylopilus felleus), che ha un reticolo scuro su gambo chiaro e pori che diventano rosa con l'età, e il boleto malefico (Rubroboletus satanas), che presenta gambo rosso e carne che vira al blu se contusa. Il porcino nero (Boletus aereus), il porcino rosso (Boletus pinophilus) e il porcino estivo (Boletus reticulatus) sono specie europee affini e distinte. Studi molecolari collocano nel complesso di Boletus edulis taxa come Boletus betulicola, Boletus persoonii, Boletus quercicola e Boletus venturii."
     },
     hu: {
-      description: "Nagy termetű, ektomikorrhizás gomba. Egész Európában, Észak-Amerikában és Ázsia egyes részein őshonos. Telepített fákkal behurcolták Új-Zélandra (Christchurch), Ausztráliába (Adelaide Hills), valamint dél-afrikai és zimbabwei fenyőültetvényekbe is.",
-      cap: "A kalap átmérője általában 5–30 cm, olykor ennél is nagyobb; fiatalon domború, majd a kor előrehaladtával kiterül. Színe vörösesbarna, gyakran világosabb szegéllyel, nedves időben tapadós. Egy kifejlett termőtest tömege elérheti az 1 kg-ot. A skóciai Skye szigetén 1995-ben talált példány kalapátmérője elérte a 42 cm-t.",
-      hymenium: "A csövek mintegy 1–2 cm hosszúak. A pórusok aprók, milliméterenként körülbelül 2–3 található belőlük. Fiatalon fehérek és mintegy tömöttnek tűnnek, később sárgák, majd zöldessárgák vagy barnásak lesznek. Nyomásra vagy érintésre nem színeződnek el.",
-      stipe: "A tönk általában 6–25 cm magas és 2–7 cm vastag, fehéres vagy sárgás színű. Fiatalon a tövénél gyakran megduzzadt, később hengeresebbé válik. Felső részét – olykor a teljes tönköt – finom, kiemelkedő fehér hálózat fedi. A tönk tövében a hús néha sötétsárga árnyalatú.",
-      flesh: "A hús fehér, fiatalon vastag és kemény, idővel kissé szivacsossá válik. Elvágva vagy megsértve fehér marad, közvetlenül a kalapbőr alatt azonban halvány rózsaszínes vagy borvöröses-barna árnyalat figyelhető meg.",
+      description: "Nagy termetű, ektomikorrhizás gomba. Egész Európában, Észak-Amerikában és Ázsia egyes részein őshonos. Telepített fákkal behurcolták Új-Zélandra Christchurchbe, az ausztráliai Adelaide Hillsbe, valamint dél-afrikai és zimbabwei fenyőültetvényekbe is.",
+      cap: "A kalap átmérője általában 5–30 cm, olykor ennél nagyobb, fiatalon domború, majd a kor előrehaladtával kiterül. Színe vörösesbarna, gyakran világosabb szegéllyel, nedves állapotban tapadós. Egy érett termőtest tömege körülbelül 1 kg lehet. Egy 1995-ben Skye szigetén talált példány kalapátmérője elérte a 42 cm-t.",
+      hymenium: "A csövek mintegy 1–2 cm mélyek. A pórusok aprók, milliméterenként körülbelül kettő-három található belőlük. Fiatalon fehérek és kitöltöttnek tűnnek, később sárgák, majd zöldessárgától a barnáig színeződnek. Nyomásra vagy érintésre nem színeződnek el.",
+      stipe: "A tönk általában 6–25 cm magas és 2–7 cm vastag, fehér vagy sárgás színű. Fiatalon a tövénél gyakran megduzzadt, később hengeresebbé válik. Felső részét finom kiemelkedő hálózat fedi, amely olykor a teljes tönkre kiterjed. A hús a tönk tövében néha sötétsárga árnyalatú.",
+      flesh: "A hús fehér, fiatalon vastag és tömör, az idő előrehaladtával némileg szivacsossá válik. Az elvágott vagy megsértett hús fehér marad, közvetlenül a kalapbőr alatt halvány rózsaszínes vagy borvöröses-barna árnyalattal.",
       sporePrint: "Olívbarna. A spórák elliptikusak vagy orsó alakúak, méretük mintegy 12–17 × 5–7 μm.",
-      habitat: "A termőtestek nyáron és ősszel jelennek meg, magányosan vagy kettes-hármas csoportokban. Élő fákkal – köztük erdeifenyővel, lucfenyővel, hemlokfenyővel, jegenyefenyővel, bükkfával, tölgyfával és szelídgesztenyével – képez mikorrhizát hűvös mérsékelt övi és szubtrópusi erdőkben.",
-      uses: "Kiváló csemegegomba, amelyet a szezonban frissen fogyasztanak, még gyakrabban azonban szárítva, majd beáztatva levesekhez, tésztafélékhez és rizottókhoz használják fel. Megbízhatóan termeszthető haszonnövényként nem vonható termesztésbe.",
-      confusion: "A hasonló fajok közé tartozik az epeízű tinóru (Tylopilus felleus), amelynek világos tönkjén sötét hálózat látható, pórusai pedig rózsaszínesre változnak, valamint a sátántinóru (Rubroboletus satanas), amely piros tönkű és húsa sérülésre kékül. A bronzos vargánya (Boletus aereus), a vörösbarna vargánya (Boletus pinophilus) és a nyári vargánya (Boletus reticulatus) rokon európai fajok, amelyeket elkülönítenek a Boletus edulis fajtól. Molekuláris vizsgálatok kimutatták, hogy a korábban külön fajként leírt Boletus betulicola, Boletus persoonii, Boletus quercicola és Boletus venturii a Boletus edulis formakörébe tartoznak."
+      habitat: "A termőtestek nyáron és ősszel jelennek meg, magányosan vagy kettes-hármas csoportokban. Élő fákkal – köztük erdeifenyővel, lucfenyővel, hemlokfenyővel, jegenyefenyővel, bükkfával, tölgyfával és szelídgesztenyével – él együtt a hűvös mérsékelt övi és szubtrópusi erdőkben.",
+      uses: "Kiváló csemegegomba, a szezonban frissen, még gyakrabban szárítva és feláztatva fogyasztják levesekben, tésztákban és rizottókban. Megbízhatóan termeszthető haszonnövényként nem termesztik.",
+      confusion: "A hasonló fajok közé tartozik az epeízű tinóru (Tylopilus felleus), amelynek világos tönkjén sötét hálózat látható, pórusai pedig rózsaszínűvé válnak, valamint a sátántinóru (Rubroboletus satanas), amelynek piros a tönkje, húsa pedig sérülésre kékül. A bronzos vargánya (Boletus aereus), a vörösbarna vargánya (Boletus pinophilus) és a nyári vargánya (Boletus reticulatus) olyan rokon európai fajok, amelyeket elkülönítenek a Boletus edulis fajtól. Molekuláris vizsgálatok alapján az olyan nevek, mint a Boletus betulicola, a Boletus persoonii, a Boletus quercicola és a Boletus venturii a Boletus edulis fajkomplexumba tartoznak."
     }
     },
     sources: {
@@ -1230,16 +1230,16 @@ export const CATALOG = [
       notes: "In passato veniva utilizzato per avvelenare le mosche."
     },
     hu: {
-      description: "Lombhullató és fenyőerdőkben élő ektomikorrhizás gomba. Gyakori az északi féltekén, többek között Nagy-Britanniában, Írországban, a kontinentális Európában, Ázsiában, az Egyesült Államokban és Kanadában. Ausztráliába (beleértve Tasmaniát) és Új-Zélandra behurcolták.",
-      cap: "A kalap kifejletten 10–20 cm átmérőjű, piros vagy ritkábban narancsszínű. Fiatalon lekerekített, majd általában kiterül, olykor enyhén bemélyedővé válik. A felületén a burok (velum universale) szabálytalan fehér maradványai ülnek, amelyeket nedves időben az eső lemoshat.",
+      description: "Lombhullató és tűlevelű erdőkben élő ektomikorrhizás gomba. Gyakori az északi féltekén, többek között Nagy-Britanniában és Írországban, a szárazföldi Európában, Ázsiában, az Egyesült Államokban és Kanadában. Behurcolták Ausztráliába (beleértve Tasmaniát is) és Új-Zélandra.",
+      cap: "A kalap éretten 10–20 cm átmérőjű, piros vagy esetenként narancsszínű. Fiatalon lekerekített, és általában kiterül, olykor enyhén bemélyedővé válik. Az egyetemes burok szabálytalan fehér töredékei ülnek a kalapon, amelyek nedves időben lemosódhatnak.",
       hymenium: "A lemezek fehérek, szabadon állók és sűrűn helyezkednek el. A termőtest érésével halványsárgára színeződnek.",
-      stipe: "A tönk 10–25 cm hosszú és 1–2 cm vastag, fehér színű, rajta lecsüngő, barázdált fehér gallér található. Alapja gumósan megvastagodott, és megőrzi a bocskor fehér maradványait, amelyek pikkelyes övekre szakadoznak fel.",
+      stipe: "A tönk 10–25 cm hosszú és 1–2 cm vastag, fehér, barázdált, lecsüngő fehér gallérral. Töve gumósan megvastagodott, és megőrzi a bocskor fehér maradványait, amelyek pikkelyes zónákra szakadoznak fel.",
       flesh: "A hús fehér, közvetlenül a kalapbőr alatt aranysárga réteggel. Szaga nem jellegzetes.",
-      sporePrint: "Fehér. A spórák oválisak, mintegy 9–13 × 6,5–9 μm méretűek, jódoldatra nem kékülnek (inamiloidak).",
-      habitat: "A termőtestek augusztustól novemberig jelennek meg. Lombhullató és tűlevelű fafajokkal, különösen nyírrel, erdeifenyővel és lucfenyővel él mikorrhizás kapcsolatban.",
+      sporePrint: "Fehér. A spórák oválisak, mintegy 9–13 × 6,5–9 μm méretűek, jódoldatra nem válnak kékké.",
+      habitat: "A termőtestek augusztustól novemberig jelennek meg. Keményfákkal és tűlevelűekkel, nevezetesen nyírrel, erdeifenyővel és lucfenyővel él mikorrhizás kapcsolatban.",
       uses: "A légyölő galóca mérgező. Muszcimolt és iboténsavat tartalmaz; a halálos kimenetelű mérgezés rendkívül ritka.",
-      confusion: "A császárgalóca (Amanita caesarea) kalapja narancsszínű, széle bordázott, tönkje sárga; Észak-Európában ritkán vagy egyáltalán nem fordul elő. A piruló galóca (Amanita rubescens) sötét narancsszínű kalappal is megjelenhet, de húsa sérülésre vörösödik. A bükkfa-galambgomba (Russula nobilis) élénkpiros kalapú, ám sem gallérral, sem bocskorral nem rendelkezik. Számos szerző a barna színű barna galócát (Amanita regalis) különálló fajként kezeli.",
-      notes: "Korábban a legyek irtására használták."
+      confusion: "A császárgalóca (Amanita caesarea) kalapja narancsszínű, széle bordázott, tönkje sárga, és Észak-Európában ritkán vagy szinte sosem fordul elő. A piruló galóca (Amanita rubescens) sötétnarancs kalapú is lehet, húsa pedig sérüléskor vörösre változik. A bükkfa-galambgomba (Russula nobilis) élénkpiros kalapú, de nincs gallérja és nincs bocskora. Számos szaktekintély a barna barna galócát (Amanita regalis) különálló fajként tartja nyilván.",
+      notes: "Légyirtásra használták."
     }
     },
     sources: {
@@ -2053,16 +2053,16 @@ export const CATALOG = [
       notes: "Cantharellus pallens è considerata una specie separata a cappello più pallido."
     },
     hu: {
-      description: "Ektomikorrhizás gomba. Skandináviától a Földközi-tengerig egész Európában őshonos; Nagy-Britanniában és Írországban gyakori, de élőhelyhez kötött. Szűkebb értelemben európai faj; a korábban ezen a néven nyilvántartott észak-amerikai előfordulások más fajokhoz tartoznak.",
-      cap: "A kalap átmérője legfeljebb 10 cm, alakja általában tölcséres, hullámos, szabálytalan széllel. Színe a halványsárgától a mély tojássárgájáig terjed. Felületén időnként finom fehéres bevonat alakul ki.",
-      hymenium: "A kalap alsó felületén valódi lemezek helyett ráncok (villásan elágazó lefutó erek, lécek) találhatók. A vastag, hullámos ráncok hosszan lefutnak a tönkre. A tönk közelében egyenes lefutásúak, a kalap széle felé pedig villásan elágazók és hullámosabbak.",
-      stipe: "A tönk a kalappal megegyező színű vagy kissé világosabb, tömör, a töve felé elkeskenyedik, és fokozatosan megy át a kalapba. Hossza 2–8 cm, vastagsága 0,5–1,5 cm. Csoportos növekedésnél a tönkök gyakran görbültek, és tövüknél összenőhetnek.",
-      flesh: "A hús fehér. Illata halvány, sárgabarackra emlékeztető. A nyers hús íze kezdetben enyhe, majd hamarosan borsosan csípőssé válik.",
-      sporePrint: "Halványsárga. A spórák elliptikusak és simák, mintegy 8–11 × 4,5–6 μm méretűek.",
-      habitat: "Nagy-Britanniában és Írországban a termőtestek júliustól decemberig jelennek meg, ritkábban júniusban vagy enyhe teleken is, a legbőségesebben késő nyártól őszig fejlődnek. Nedves, jó vízelvezetésű talajon terem bükk, tölgy, erdeifenyő és lucfenyő, ritkábban nyír alatt, általában mohapárnák között.",
-      uses: "Kiváló csemegegomba. Állaga feszes, és még hosszas főzés után is roppanós marad. Szárítva szívóssá válik, ezért inkább fagyasztva vagy ecetben tartósítják.",
-      confusion: "A narancsvörös álrókagomba (Hygrophoropsis aurantiaca) vékony, valódi lemezekkel és lágyabb hússal rendelkezik, és kevésbé ízletes, ehető gombaként tartják számon. A mérgező világító tölcsérgomba (Omphalotus olearius) valódi lemezeket visel, amelyek a sötétben lumineszkálnak, és csoportosan nő a fák tövénél vagy elhalt tuskókon. A tölcséres rókagomba (Craterellus tubaeformis) kalapja barnás, tönkje pedig üreges és sárga. A halvány rókagomba (Cantharellus pallens) egy jóval fehérebb kalapú rokon európai faj.",
-      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja számon, stabil állománnyal. Magyarországon 2007-ben az év gombája volt."
+      description: "Ektomikorrhizás gomba. Európában Skandináviától a Földközi-tengerig őshonos, Nagy-Britanniában és Írországban gyakori, de helyhez kötött. Szoros értelemben véve európai faj. A korábban e név alá sorolt észak-amerikai gombák más fajokhoz tartoznak.",
+      cap: "A kalap legfeljebb 10 cm átmérőjű, és rendszerint tölcsér alakú, hullámos, szabálytalan szegéllyel. Színe a világossárgától a mély tojássárgájáig terjed. Időnként finom fehér dér fedi el.",
+      hymenium: "Az alsó oldalán valódi lemezek helyett állemezeket visel. Vastag, ráncos erek futnak le mélyen a tönkre. A tönk közelében egyenesek, a kalap széle felé villásan elágazók és kanyargósabbak.",
+      stipe: "A tönk a kalappal megegyező színű vagy valamivel világosabb, tömör, a töve felé elkeskenyedő, és egybeolvad a kalappal. Hossza 2–8 cm, vastagsága 0,5–1,5 cm. Csoportokban a tönkök gyakran íveltek, és a tövükhöz közel néha összenőttek.",
+      flesh: "A hús fehér. Illata halványan a sárgabarackra emlékeztet. A nyers hús íze nem jellegzetes.",
+      sporePrint: "Halványsárgától krémesfehérig terjedő, néha enyhe rózsaszínes árnyalattal. A spórák ellipszoidok és simák, körülbelül 7–11 × 4–6 μm méretűek, jódoldatra nem válnak kékké.",
+      habitat: "A termőtestek júniustól októberig, enyhe őszön egészen novemberig jelennek meg. Leggyakrabban lombhullató erdőkben nő tölggyel, gesztenyével vagy mogyoróval, fenyők alatt is előfordul, és időnként út menti füves szegélyekben, lombhullató sövény alatt is megtalálható. A savanyú talajt kedveli.",
+      uses: "A rókagomba kiváló csemegegomba. A megfőzött termőtestek gyümölcsös, sárgabarackszerű aromájúak.",
+      confusion: "A narancsvörös álrókagomba (Hygrophoropsis aurantiaca) élénkebb narancsszínű, sűrű valódi lemezei vannak, és húsa nem fehér, hanem a kalap színével egyező. Az Omphalotus olearius és az Omphalotus illudens mérgezőek, lombhullató faanyagon nőnek, és valódi lemezeik vannak. A Cantharellus amethysteus lila pikkelyeket visel a kalapján, és különálló fajként kezelik.",
+      notes: "A Cantharellus pallens különálló faj. Magyarországon 2007-ben az év gombája volt."
     }
     },
     sources: {
@@ -2890,16 +2890,16 @@ export const CATALOG = [
       notes: "Una valutazione del 2019 classifica la specie a minor preoccupazione (Least Concern)."
     },
     hu: {
-      description: "Ektomikorrhizás gomba. Egész Európában a mediterrán, mérsékelt övi és hemiboreális erdők gyakori vargányaféléje. Nagy-Britanniában és Írországban ritka, Dél-Európában jóval gyakoribb. Az Észak-Amerikából és Japánból származó, korábban ezen a néven közölt adatok más fajokhoz tartoznak, egy dél-afrikai, telepített fenyvesből származó előfordulása pedig feltehetően behurcolt.",
-      cap: "A kalap átmérője jellemzően 10–20 cm (kisebb példányoknál átlagosan 7–12 cm), színe világos sárgásbarnától középbarnáig terjed. Kezdetben bársonyos felületű, majd száraz időben ráncossá vagy finoman repedezetté válik. A szegélye nem határozottan világosabb a kalap közepénél.",
-      hymenium: "A csövek és a kis pórusok fiatalon fehérek, a kor előrehaladtával zöldessárgára váltanak. Elvágva vagy megnyomva nem színeződnek el észrevehetően.",
-      stipe: "A tönk 8–18 cm hosszú és 2,5–6 cm vastag, leggyakrabban hordó alakú, és csak ritkán bunkószerű. A világostól középbarnáig terjedő alapszínen világosabb, kiemelkedő hálózat található, amely a tönkcsúcs és a tönkalap felé a legsötétebb, míg a megvastagodott középrész közelében némileg világosabb és rózsaszínesebb árnyalatú. A hálózat rendszerint mélyen lefut a tönkön, olykor egészen a tövéig.",
-      flesh: "A hús fehér. Elvágva fehér marad, idővel enyhén sárgulhat. Kevésbé tömör állagú, mint a Boletus edulis vagy a Boletus aereus húsa. Illata földes. Íze kellemes és enyhe, bár nem olyan intenzív, mint az ízletes vargányáé.",
-      sporePrint: "Olívbarna (barnás dohányszínű olívbarna). A spórák kissé orsó alakúak és simák, méretük mintegy 13–15 × 4,5–5,5 μm.",
-      habitat: "Nagy-Britanniában és Írországban a termőtestek júniustól októberig jelennek meg, Dél-Európa egyes részein pedig egészen februárig teremnek. Talajon nő lomblevelű fák alatt, leginkább bükk és tölgyek társaságában, de más lombhullató fafajokkal, és alkalmanként lucfenyő alatt is előfordul. Némileg korábban hoz termőtestet, mint a Boletus edulis.",
-      uses: "Kiváló csemegegomba, egyenértékű a Boletus edulis fajjal, és ugyanazokban az ételekben használják fel. Textúrája és íze szinte megegyezik vele, húsa valamivel puhább.",
-      confusion: "Az ízletes vargánya (Boletus edulis) világosabb tönkű, fehér hálózattal és fehéres szegélyű barna kalappal rendelkezik, és az év későbbi szakaszában terem. A bronzos vargánya (Boletus aereus) sötétebb kalapú és jóval keményebb húsú. Az epeízű tinóru (Tylopilus felleus) tönkfelülete világosabb alapon sötét hálózatot visel, pórusai rózsaszínes árnyalatot kapnak, íze pedig rendkívül keserű. A mérgező piros tinóruk, például a sátántinóru (Rubroboletus satanas), húsa vagy pórusai pirosak, vagy vágásra azonnal kékülnek.",
-      notes: "Kelet felé egészen a Tengermelléki határterületig feljegyezték. Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja számon, stabil állománnyal."
+      description: "Ektomikorrhizás gomba. Egész Európában a mediterrán, mérsékelt övi és hemiboreális erdők elterjedt vargányaféléje. Nagy-Britanniában és Írországban ritka, Dél-Európában gyakoribb. Az ezen a néven korábban feljegyzett észak-amerikai és japán adatok más fajokhoz tartoznak, és egy telepített fenyők alatti dél-afrikai feljegyzést valószínűleg behurcoltnak tekintenek.",
+      cap: "A kalap jellemzően 10–20 cm átmérőjű (kisebb példányoknál átlagosan 7–12 cm), világos sárgásbarnától a középbarnáig terjedő színű. Kezdetben bársonyos felületű, majd száraz időben ráncossá vagy finoman repedezetté válik. Szegélye nem feltűnően világosabb a közepénél.",
+      hymenium: "A csövek és a kis pórusok fiatalon fehérek, a kor előrehaladtával zöldessárgává válnak. Elvágva vagy megsértve színüket nem változtatják meg számottevően.",
+      stipe: "A tönk 8–18 cm hosszú és 2,5–6 cm vastag, leggyakrabban hordó alakú, és csak esetenként bunkós. Világos vagy középbarna alapon világosabb, kiemelkedő hálózat látható rajta, amely a csúcs és a töv felé a legsötétebb, míg a megvastagodott középvonal közelében kissé világosabb és rózsaszínesebb. A hálózat rendszerint mélyen lefut a tönkön, néha egészen a tövéig.",
+      flesh: "A hús fehér. Az elvágott hús fehér marad, az idő múlásával enyhén sárgul. Kevésbé tömör állagú, mint a Boletus edulis vagy a Boletus aereus húsa. Illata földes. Íze kellemes és enyhe, jóllehet nem olyan intenzív, mint az ízletes vargányáé.",
+      sporePrint: "Olívbarna (barnás dohány-olívbarna). A spórák kissé orsó alakúak és simák, méretük mintegy 13–15 × 4,5–5,5 μm.",
+      habitat: "A termőtestek Nagy-Britanniában és Írországban júniustól októberig jelennek meg, Dél-Európa egyes részein pedig egészen februárig. Talajon terem lomblevelű fák alatt, kiváltképp bükk és tölgyek alatt, valamint egyéb lombos fákkal, alkalmanként lucfenyő alatt is. Valamivel korábban terem, mint a Boletus edulis.",
+      uses: "Kiváló csemegegomba, egyenértékű a Boletus edulis fajjal, és ugyanazokban a receptekben alkalmazható. Textúrája és íze szinte azonos, húsa valamivel kevésbé tömör.",
+      confusion: "A Boletus edulis tönkje világosabb, fehér hálózattal és fehéres szegélyű barna kalappal rendelkezik, és később terem. A Boletus aereus sötétebb kalapú és sokkal keményebb húsú. A Tylopilus felleus tönkjén sötétebb hálózat van világosabb alapon, pórusai rózsaszínes árnyalatúak, és íze nagyon keserű. A mérgező piros tinóruk, például a Rubroboletus satanas, húsukban vagy pórusaikban pirosak, vagy elvágva azonnal kékülnek.",
+      notes: "Keletre egészen a Tengermelléki határterületig feljegyezték. Egy 2019-es felmérés nem fenyegetettként (Least Concern) minősíti, stabil populációval."
     }
     },
     sources: {
@@ -3732,16 +3732,16 @@ export const CATALOG = [
       notes: "Sono descritte diverse forme e varietà, tra cui la var. procera e la var. pseudo-olivascens."
     },
     hu: {
-      description: "Nagy termetű szaprotróf gomba, a legmagasabb kalaposgombák egyike. Elterjedt a mérsékelt égövben, köztük Európában és Észak-Amerikában. Gyakori Nagy-Britanniában és Írországban, ahol főként a déli és a parti területeken fordul elő. Új-Zélandra feltehetően behurcolták.",
-      cap: "A kalap 10–25 cm vagy akár 40 cm szélesre is megnőhet. Fiatalon tojásdad vagy gömb alakú, később kiterül, és közepén tompa, sötét púp marad. Felülete világosbarna vagy szürkésfehér alapon sötétbarna, koncentrikusan elhelyezkedő pikkelyekkel borított.",
-      hymenium: "A lemezek fehérek vagy krémszínűek, sűrűn állók, a tönktől távol állnak és a tönköt nem érintik (szabadon állók). Idővel a lemezélek enyhén megbarnulhatnak.",
-      stipe: "A tönk 15–40 cm magas és 1–3 cm vastag, alján gumószerűen megvastagodott. Szürkésbarna alapon sötétbarna harántsávos, kígyóbőrszerű rajzolat díszíti. A tönkön vastag, eltolható, kettős élű fehér gallér található.",
-      flesh: "A hús a kalapban fehér és puha, vékony, vágásra nem színeződik el; a tönkben kemény, fás és rostos. Kellemes, mogyorószerű illata és íze van.",
-      sporePrint: "Fehér vagy krémszínű. A spórák elliptikusak, simák, méretük 15–20 × 10–13 μm, dextrinoidak.",
-      habitat: "Nyártól késő őszig terem. Ritkás erdőkben, erdőszéleken, tisztásokon, legelőkön és erdei utak mentén található meg, tápanyagban gazdag talajon.",
-      uses: "Kiváló csemegegomba. Csak a kalapja fogyasztható, mert tönkje túl szívós és rostos. Leggyakrabban rántva vagy hirtelen átsütve készítik el. Nyersen nem ajánlott fogyasztani.",
-      confusion: "A piruló őzlábgomba (Chlorophyllum rhacodes) kisebb termetű, kalapja durvábban pikkelyes, húsa vágásra narancsvörösre, majd barnára színeződik, és tönkje sima, nem kígyóbőrszerű. Az észak-amerikai zöldspórás őzlábgomba (Chlorophyllum molybdites) mérgező, spórapora zöldes árnyalatú. A kisebb Lepiota fajok között halálosan mérgezők is akadnak, de azok termete ritkán haladja meg a 10 cm-t. A karcsú őzlábgomba (Macrolepiota mastoidea) kalapja csúcsosabb púppal rendelkezik és finomabban pikkelyezett.",
-      notes: "Magyarországon 2012-ben az év gombája volt."
+      description: "Szaprotróf gomba. Gyakori Dél-Britanniában és Írországban, és kevésbé elterjedt Észak-Angliában és Skóciában, kivéve a védett partvidékeken. Előfordul a kontinentális Európa legtöbb részén és a mérsékelt övi Eurázsiában is. Észak-amerikai feljegyzései még megerősítésre várnak.",
+      cap: "A kalap 10–25 cm átmérőjű, alkalmanként eléri a 30 cm-t. Gömbölyűnek és világosbarnától sárgásbarnáig terjedő színűnek indul, sötétebb barna csúccsal, amely a kalapbőr felrepedezésével koncentrikus pikkelygyűrűkre töredezik fel, és addig terül szét, amíg lapos nem lesz egy kiemelkedő sötét púppal.",
+      hymenium: "A lemezek szélesek, sűrűn állók és szabadon állnak, a tönktől némi távolságra végződve. Fehérek vagy halvány krémszínűek.",
+      stipe: "A tönk legfeljebb 30 cm magas és 1–1,5 cm vastag, a gumós tövénél eléri a 2,5 cm-t, és a csúcs felé kissé elkeskenyedik. A gumónak nincs bocskora. Felszíne fehér vagy krémszínű, apró barna pikkelyekkel borított, amelyek sávos kígyóbőrmintázatot alkotnak. A tönk magasságának körülbelül kétharmadánál lévő vastag, kettős élű gallér megmarad, és eléggé meglazul ahhoz, hogy a tönk mentén elcsúsztatható legyen. Belül a tönk szívós, rostos és üreges.",
+      flesh: "A hús fehér, és vágásra nem változik számottevően. A kalapban vékony, puha és kissé szivacsos. A tönkben szívós és rostos. Illata kellemesen mogyorószerű vagy nem jellegzetes, íze édeskés és mogyorószerű.",
+      sporePrint: "Fehér vagy nagyon halvány krém. A spórák ellipszoidtól a tojásdadig terjednek, simák és vastag falúak, méretük mintegy 12–18 × 8–12 μm, apró csíranyílással. Dextrinoidak.",
+      habitat: "A termőtestek Nagy-Britanniában és Írországban júniustól novemberig, Dél-Európában később jelennek meg. Erdei tisztásokon, nyílt erdőkben, utak mentén és erdők melletti füves helyeken nő, magányosan vagy szétszórt csoportokban és boszorkánykörökben, továbbá állandó legelőkön, páfrányok között és stabil homokdűnéken, bolygatott talajon, például kertekben és parcellákon pedig ritkán.",
+      uses: "Kiváló csemegegomba, a termőtesteket meg kell főzni. A kalapok alkotják a felhasznált részt, beleértve a rántott szeletként történő kisütést is. A tönkök szívósak, bár levesbe is aprítják őket, vagy megszárítva megőrlik. A gombát sütik, szárítják vagy párolják.",
+      confusion: "A piruló őzlábgomba (Chlorophyllum rhacodes) kisebb termetű, nagyobb, visszahajló pikkelyekkel és olyan tönkkel, amelyről hiányzik a kígyóbőrmintázat. Húsa vágásra megvörösödik, és sok ember számára mérgező. A Chlorophyllum molybdites zöldes lemezekkel és zöld spóraporral rendelkezik, tönkjén pedig nincs kígyóbőrmintázat. A kis méretű Lepiota fajok, a kis őzlábgombák súlyosan mérgezőek lehetnek, így a 10 cm alatti, teljesen kiterült kalapú példányokat jobb otthagyni. A galócák (Amanita fajok) fehér gombjai, köztük a párducgalóca (Amanita pantherina), további veszélyt jelentenek; a nagy őzlábgomba kalapján sötétebb pikkelyek vannak világosabb alapon, és csak akkor szabad gyűjteni, ha a kalap már kinyílt a gombállapoton túl.",
+      notes: "A var. procera és a var. pseudo-olivascens változatokat ismerik el. A második olív foltokat fejleszt a kalapján, és fenyők alatt nő. A faj elterjedt a mérsékelt övi Eurázsiában, az észak-amerikai adatok pedig még megerősítésre szorulnak. Magyarországon 2012-ben az év gombája volt."
     }
     },
     sources: {
@@ -4552,16 +4552,16 @@ export const CATALOG = [
       notes: "Esiste una forma completamente bianca (forma alba) priva di pigmento verde."
     },
     hu: {
-      description: "Halálosan mérgező ektomikorrhizás gomba. Európa-szerte széles körben elterjedt és gyakori, különösen a melegebb tölgyesekben és bükkösökben. Észak-Amerikába, Dél-Afrikába, Ausztráliába és Új-Zélandra betelepített tölgyekkel és gesztenyefákkal hurcolták be. A gombamérgezésekből eredő halálesetek túlnyomó többségéért ez a faj a felelős.",
-      cap: "A kalap 5–15 cm átmérőjű, kezdetben félgömb alakú, majd domborúvá, végül teljesen lapossá válik. Színe változatos: sárgászöld, olívzöld vagy barnászöld, sugarasan szálas mintázattal, nedves időben nyálkás. Fehér burokmaradványok ritkán maradhatnak a felületén, de a kalap többnyire csupasz.",
-      hymenium: "A lemezek fehérek, sűrűn állók, szabadon állók, a tönköt nem érik el. Sérülésre vagy a kor előrehaladtával sem kapnak rózsaszínes árnyalatot.",
-      stipe: "A tönk 7–15 cm magas és 1–2 cm vastag, fehéres alapon halványzöldes, kígyóbőrszerű vagy zegzugos mintázattal. Felső részén fehér, lecsüngő, enyhén bordázott gallér látható. Tövénél gumószerűen megvastagodott, amelyet egy jól fejlett, szabadon álló, bőrszerű fehér bocskor vesz körül.",
-      flesh: "A hús fehér, a kalapbőr alatt kissé zöldes lehet, elvágva nem változtatja a színét. Fiatalon kellemes, enyhe illatú, idős korban édeskés, émelyítő, mézre vagy rothadó virágokra emlékeztető szagot áraszt.",
-      sporePrint: "Fehér. A spórák gömbölydedek vagy oválisak, méretük 8–11 × 7–9 μm, amiloidak (jódoldatra kékülnek).",
-      habitat: "Nyártól késő őszig terem lomblevelű erdőkben, leggyakrabban tölgy, bükk, gyertyán és szelídgesztenye alatt, ritkábban fenyvesekben is előfordul.",
-      uses: "Halálosan mérgező! Halálos peptideket – amatoxinokat (például alfa-amanitint) és fallotoxinokat – tartalmaz, amelyek gátolják az RNS-polimeráz II enzimet, és súlyos, visszafordíthatatlan máj- és vesekárosodást okoznak. A méreganyagok hőállóak, sem főzéssel, sem szárítással, sem fagyasztással nem semlegesíthetők. A tünetek csak hosszú, 6–24 órás lappangási idő után jelentkeznek, súlyos gyomor- és bélpanaszokkal.",
-      confusion: "A csiperkefajok (Agaricus spp.) lemezei fiatalon rózsaszínűek, majd csokoládébarnára vagy feketésbarnára sötétednek, és nincs bocskoruk. A citromgalóca (Amanita citrina) kalapján sötétebb pettyek találhatók, bocskora a gumóhoz ránőtt, és szaga nyers burgonyára emlékeztet. A hegyeskalapú galóca (Amanita virosa) és a fehér galóca tiszta fehér kalapú. A zöld kalapú galambgombák, mint a varashátú galambgomba (Russula virescens), nem rendelkeznek sem gallérral, sem bocskorral, és húsuk merev, pattanva törő.",
-      notes: "Magyarországon 2006-ban az év gombája volt."
+      description: "Lomberdők ektomikorrhizás gombája, különösen tölggyel. Őshonos Európa nagy részén, Írországtól és Dél-Skandináviától a Földközi-tengeren át Marokkóig és Algériáig, észak-iráni adatokkal. Behurcolták Észak-Amerikába, Ausztráliába, Dél-Afrikába és Dél-Amerika egyes részeire.",
+      cap: "A kalap 5–15 cm átmérőjű. Tojásdad alakúnak és majdnem fehérnek indul, majd sárga, bronz vagy olívbarna színűvé válik, rendszerint sötétebb a közepén, és az idősödéssel kiterül. Szegélye nem bordázott. A burokmaradványok hamar elvesznek, bár száraz időben egy nagy krémszínű folt megmaradhat. Teljesen fehér formája is előfordul.",
+      hymenium: "A lemezek szabadon állók, szélesek és sűrűn helyezkednek el. Kezdetben tiszta fehérek, az idősödéssel krémszínűvé válnak, néha enyhe rózsaszínes árnyalattal.",
+      stipe: "A tönk 7–15 cm hosszú és törtfehér, világosabb zegzugos mintázattal. Érett állapotban rendszerint megmarad a törékeny, lecsüngő gallér. Töve megduzzadt, és egy nagy, fehér, zsákszerű, belül gyakran zöldes árnyalatú bocskorban ül.",
+      flesh: "A hús fehér, elvágva nem változtatja a színét. Szaga fiatalon nem jellegzetes. Az idős termőtestek kellemetlen és émelyítően édeskés szagúak.",
+      sporePrint: "Fehér. A spórák simák és ellipszoidok, méretük mintegy 7–12 × 6–9 μm, és jódoldatban megkékülnek.",
+      habitat: "A termőtestek nyáron és ősszel jelennek meg, Nagy-Britanniában és Írországban júliustól novemberig. Lomblevelű fákkal, különösen tölggyel él együtt, tűlevelűekkel pedig ritkábban.",
+      uses: "Halálosan mérgező. Amatoxinokat tartalmaz, amelyeket a főzés és a fagyasztás nem pusztít el, és ez a gomba okozza a legtöbb halálos kimenetelű gombamérgezést.",
+      confusion: "A citromgalóca (Amanita citrina) kalapján általában barnáskrém burokmaradványok maradnak meg, és nyitott zsákszerű bocskor helyett peremes gumója van. A csiperkefajoknak (Agaricus fajok) nincs bocskoruk, lemezeik pedig rózsaszínűvé, majd sötétbarnává válnak. A fehér forma hasonlíthat a hegyeskalapú galócára (Amanita virosa). A zöld galambgombafajoknak, köztük a fűzöld galambgombának (Russula aeruginea), rideg a húsuk, és nincs sem gallérjuk, sem bocskoruk. Egy fiatal gombállapotú példány hasonlíthat egy pöfetegre, amíg ketté nem vágják, és láthatóvá nem válik a bocskor és a lemezek.",
+      notes: "A tiszta fehér termőtestek egy színváltozatot képviselnek. Magyarországon 2006-ban az év gombája volt."
     }
     },
     sources: {
@@ -5351,16 +5351,16 @@ export const CATALOG = [
       notes: "Nel Nord America occidentale i funghi simili attribuiti a questo binomio appartengono ad altre specie distinte."
     },
     hu: {
-      description: "Mérgező ektomikorrhizás gomba. Széles körben elterjedt Európában és Nyugat-Ázsiában, lombhullató és fenyőerdőkben egyaránt megtalálható. Nagy-Britanniában és Írországban meglehetősen elterjedt, különösen savanyú talajú erdőkben.",
-      cap: "A kalap 4–12 cm átmérőjű, kezdetben félgömb alakú, később domború, majd teljesen kiterül. Színe barnás, sárgásbarna vagy szürkésbarna, felületét sűrűn borítják a burok apró, hófehér, szabálytalan pikkelyei, amelyek esős időben lemosódhatnak. A kalap széle éretten jellegzetesen, finoman bordázott.",
-      hymenium: "A lemezek fehérek, szabadon állók, sűrűn helyezkednek el, éretten sem válnak sárgássá.",
-      stipe: "A tönk 6–14 cm magas és 1–2 cm vastag, fehér színű, felülete sima vagy kissé pelyhes-szálas. Közepén vagy alsó harmadán vékony, fehér, nem vagy csak alig bordázott gallér található. A tönk tövénél jól fejlett gumó van, amelyen a bocskor maradványaként 1–3 éles, párkányszerű, koncentrikus perem (övecske) húzódik.",
-      flesh: "A hús fehér, elvágva vagy sérülésre nem változtatja a színét (soha nem vörösödik). Szaga kissé retekszerű vagy gyenge, nem kifejező.",
-      sporePrint: "Fehér. A spórák oválisak vagy elliptikusak, simák, méretük 9–12 × 7–9 μm, inamiloidak.",
-      habitat: "Nyártól késő őszig terem magányosan vagy kis csoportokban, leggyakrabban tölgy, bükk és gyertyán alatt, valamint fenyvesekben luc- és erdeifenyő társaságában.",
-      uses: "Súlyosan mérgező gomba! Iboténsavat és muszcimolt tartalmaz, hasonlóan a légyölő galócához, de jóval nagyobb koncentrációban. Mérgezése pszichotróp tüneteket, zavartságot, hallucinációkat, szédülést, görcsöket és eszméletvesztést okoz (párducgalóca-típusú szindróma).",
-      confusion: "A piruló galóca (Amanita rubescens) ehető, de tönkje és húsa sérülésre vagy féregjáratokban rózsásvörösre pirul, és gallérja felső oldala finoman bordázott. A szürke galóca (Amanita excelsa) nem mérgező, kalapján a burokmaradványok szürkék vagy barnásak, bordázatlan a széle, és húsa nem színeződik. A légyölő galóca (Amanita muscaria) kalapja élénkvörös vagy narancssárga.",
-      notes: "Egy 2019-es IUCN-értékelés a nem veszélyeztetett (Least Concern) kategóriába sorolta."
+      description: "Lombhullató erdők, különösen bükk, valamint tölgyes elegyes erdők ektomikorrhizás gombája. Ritka lelet Nagy-Britanniában és Írországban, és sokkal gyakoribb Európában délebbre haladva. Feljegyezték Nyugat-Ázsiában is, tűlevelűekkel ritkábban, réteken pedig csak elvétve fordul elő.",
+      cap: "A kalap 5–12 cm átmérőjű. Fénylő barna vagy szürkésbarna, és színe a halványokkertől a nagyon sötétbarnáig terjed. Szegélye nagyon finoman bordázott. A kalap kezdetben boltozatos, és a kor előrehaladtával kiterül. Az egyetemes burok tiszta fehér maradványai rendszerint meglehetősen egyenletesen pettyezik a felületet. Nedves időben lemosódhatnak.",
+      hymenium: "A lemezek fehérek, szabadon állók, sűrűn helyezkednek el és meglehetősen szélesek.",
+      stipe: "A tönk 6–12 cm hosszú és tiszta fehér. A lecsüngő gallér kezdetben vaskos, és a kor előrehaladtával gyakran vékonnyá és ernyedtté válik. Az enyhén megduzzadt töve megőrzi a bocskor fehér maradványait, rendszerint egy vagy több gyapjas gyűrűként, vagy hélixként egy keskeny csatorna (vájat) felett.",
+      flesh: "A hús fehér, elvágva nem változik rózsaszínűre vagy vörösre. Szaga nem jellegzetes, jóllehet a megsértett hús kissé retekre emlékeztető szagú.",
+      sporePrint: "Fehér. A spórák simák, széles ellipszoidoktól a tojásdadig terjednek, méretük 8–12 × 6,7–7,5 μm, és jódoldatban nem kékülnek meg.",
+      habitat: "A termőtestek Nagy-Britanniában és Írországban augusztustól novemberig, Európa legdélebbi részein pedig gyakran akár három hónappal később jelennek meg. Főként lomblevelű fákkal, leggyakrabban tölggyel vagy bükkfával nő, olykor tűlevelűekkel, és alkalmanként közönséges napvirággal is, ahol nem állnak fák a közelben.",
+      uses: "Mérgező, és mérgezőbb a légyölő galócánál (Amanita muscaria). Iboténsavat és muszcimolt tartalmaz. Haláleseteket feljegyeztek, bár nem gyakoriak.",
+      confusion: "A szürke galóca (Amanita excelsa) kalapján szürke burokmaradványok vannak, tönkje zömökebb, és nincs határozott bocskorvájata. A piruló galóca (Amanita rubescens) tönkjén és kalaphúsában rózsaszínűre vagy vörösre változik megsértve. A fehér burokpettyek nedves időben lemosódhatnak, így egy csupasz barna kalap is lehetséges.",
+      notes: "Nyugat-Észak-Amerikában az e névvel illetett barna galócák más fajokhoz tartoznak, és az itt megadott méretek az európai termőtestekre vonatkoznak."
     }
     },
     sources: {
@@ -6157,16 +6157,16 @@ export const CATALOG = [
       notes: "È una specie europea storicamente descritta da Linneo e confermata anche in Cina da analisi filogenetiche."
     },
     hu: {
-      description: "Szaprotróf és fakultatívan mikorrhizás tömlősgomba. Az egyik legismertebb és legkeresettebb tavaszi gomba. Széles körben elterjedt az északi féltekén, Európa, Ázsia és Észak-Amerika lombos erdeiben, parkjaiban és folyóparti ligeteiben.",
-      cap: "A süveg 4–10 cm magas és 3–6 cm széles, tojásdad vagy lekerekített formájú. Felszínét szabálytalan, mély gödröcskék és bordák alkotják, amelyek méhsejtszerű mintázatot hoznak létre. Színe a sárgásbarnától az okkersárgáig vagy szürkésbarnáig változik. A süveg alul teljesen hozzánőtt a tönkhöz, és belseje a tönkkel együtt egyetlen összefüggő üreget alkot.",
-      hymenium: "A termőréteg (téka) a süveg gödröcskéinek belső felületét béleli. A spórák tömlőkben (aszkuszokban) képződnek, a tömlők hengeresek, nyolcspórásak, méretük körülbelül 200–250 × 15–20 μm. Bazídiumokkal nem rendelkezik.",
-      stipe: "A tönk 3–8 cm magas és 1,5–3 cm vastag, fehéres vagy krémszínű, alján gyakran redőzött vagy barázdált, belül teljesen üreges, felszíne finoman szemcsés vagy pelyhes.",
-      flesh: "A hús fehéres vagy halványsárga, törékeny, vékony, viasszerű állagú. Kellemes, fűszeres illatú és enyhe, finom ízű.",
-      sporePrint: "Krémsárga vagy halvány okkerszínű. A tömlőspórák simák, elliptikusak, méretük 18–24 × 11–14 μm.",
-      habitat: "Kora tavasszal, márciustól május végéig terem. Folyóparti ligeterdőkben (kőris, szil, nyárfa alatt), ligetekben, erdőszéleken, gyümölcsösökben és kertekben fordul elő, leginkább meszes, tápanyagdús talajon.",
-      uses: "Kiváló csemegegomba! Nyersen vagy nem eléggé megfőzve gyomorpanaszokat és hemolitikus mérgezést okozhat, ezért legalább 15–20 perces alapos hőkezelés után fogyasztható. Szárítva aromája felerősödik, kitűnő levesek és mártások készítéséhez.",
-      confusion: "A halálosan mérgező redős papsapkagomba (Gyromitra esculenta) süvege agytekervényekre emlékeztetően lebenyes-ráncos, nem méhsejtszerűen gödrös, és belsejében több szabálytalan üreg található. A hegyes kucsmagomba (Morchella elata) süvege hegyesebb, bordái hosszanti lefutásúak és sötétebb színűek. A cseh kucsmagomba (Verpa bohemica) süvege csak a tönk legcsúcsán rögzül, harangszerűen szabadon lóg.",
-      notes: "Egyes molekuláris vizsgálatok kimutatták, hogy a Morchella nemzetség fajhatárai sokkal összetettebbek a hagyományos leírásoknál."
+      description: "Meszes talajú erdők tavaszi gombája. Szoros értelemben véve európai faj, és Kínából is jelentették. Nem gyakori lelet Nagy-Britanniában és Írországban, és előfordul a szárazföldi Európában. Az e név alá korábban besorolt észak-amerikai gombák más fajokhoz tartoznak.",
+      cap: "A süveg 3–8 cm széles és 5–12 cm magas. Néha kúp alakú, és gyakrabban gömbölyded vagy megnyúlt ovális. Üreges. Szabálytalan gödröcskéket keskeny bordák választanak el egymástól. Színe a halványkrémtől az okkerig, a sárgásbarnáig vagy a középbarnáig terjed, és az idősödéssel rendszerint sötétedik. A bordák rendszerint valamivel világosabbak a gödröknél. Szegélye begöngyölt és hozzánőtt a tönkhöz.",
+      hymenium: "A termőréteg a gödröcskék belsejét béleli. A spóratermő aszkuszok (tömlők) ott helyezkednek el. A gödröcskék közötti bordák meddők.",
+      stipe: "A tönk fehér vagy halvány krémszínű, a töve közelében néha barna foltokkal. Magassága 3–12 cm, a tövénél 1,5–6 cm vastag, és a csúcsa felé rendszerint elkeskenyedik. Üreges és sima, a tönk húsa pedig szívós.",
+      flesh: "A süveg húsa viaszos. A nyers hús szaga és íze nem jellegzetes.",
+      sporePrint: "Krémesfehér vagy halványokker. A spórák ellipszoidok és simák, méretük körülbelül 17,5–22 × 9–11 μm. Az aszkuszok hengeresek, mintegy 260 × 20 μm méretűek, nyolc spórával.",
+      habitat: "A termőtestek márciustól kora júniusig jelennek meg. Meszes talajon nő lombhullató fák alatt, alkalmanként törpefűzzel meszes dűnemélyedésekben, és néha bolygatott kerti talajon.",
+      uses: "Kiváló csemegegomba, amint alaposan megfőzték. A nyers termőtestek súlyos gyomorfájást és hányást okozhatnak. A megfőzött termőtesteket szárítják, vajban sütik vagy levesben használják fel. Mivel a rovarok gyakran menedéket találnak az üreges belsőben, a termőtestet a főzés előtt általában hosszában felvágják.",
+      confusion: "A hegyes kucsmagomba (Morchella elata) sötétebb gödrös süvegű, a gödröcskék oszlopokba rendeződnek, és általában hegyesebb. A redős papsapkagomba (Gyromitra esculenta) mérgező. Süvege vörösbarna és agyvelőszerű, tönkje pedig egyetlen összefüggő üreg helyett több kamrára oszlik. A fodros papsapkagomba (Helvella crispa) bordázott tönkkel rendelkezik, kívül barázdákkal és belül üreges járatokkal.",
+      notes: "Európai faj, amelyet Kínából is jelentettek."
     }
     },
     sources: {
@@ -6660,7 +6660,7 @@ export const CATALOG = [
       pl: "boczniak ostrygowaty",
       fr: "pleurote en huître",
       it: "gelone",
-      hu: "kései laskagomba"
+      hu: "késői laskagomba"
     },
     names: {
       en: ["grey oyster mushroom", "oyster fungus", "pearl oyster mushroom"],
@@ -6716,7 +6716,7 @@ export const CATALOG = [
       ru: ["вешенка устричная","устричный гриб"],
       fr: ["pleurote en forme d'huître"],
       it: ["orecchione","fungo ostrica"],
-      hu: ["késői laskagomba"]
+      hu: ["laskagomba"]
     },
     text: {
       tr: {
@@ -7020,16 +7020,16 @@ export const CATALOG = [
       notes: "Pleurotus columbinus è una forma grigio-bluastra spesso considerata sinonimo o varietà ecologica."
     },
     hu: {
-      description: "Lombos fák faanyagát bontó szaprotróf, valamint nematofág gombafaj, amely fonalféreg-bénító hifákkal rendelkezik. Világszerte elterjedt a mérsékelt és szubtrópusi zónában. Az egyik legfontosabb iparilag termesztett étkezési gomba.",
-      cap: "A kalap 5–20 cm széles, kezdetben domború, később kagyló vagy vese alakúvá kiterül. Színe változatos: szürkésbarna, acélkék, pala-szürke vagy sötét hamuszürke, idővel fakulhat. Felülete sima, csupasz, nedvesen kissé zsíros fényű.",
-      hymenium: "A lemezek fehérek vagy világos szürkések, sűrűn állók, mélyen lefutnak a tönkre vagy az oldalsó rögzülési pontra, a tövük felé gyakran eres anasztomózisokkal összekötöttek.",
-      stipe: "A tönk többnyire oldalt álló (excentrikus) vagy csökevényes, olykor teljesen hiányzik; 1–4 cm hosszú és 1–3 cm vastag, fehér vagy szürkésfehér, tövénél finoman nemezes-szőrös.",
-      flesh: "A hús fehér, a kalapban puha és rugalmas, a tönkben szívós, rostos. Kellemes, fűszeres illatú és enyhe, kissé édeskés ízű.",
-      sporePrint: "Fehéres vagy halványlilás-szürkés árnyalatú. A spórák hengeresek, simák, méretük 8–11 × 3–4 μm.",
-      habitat: "Ősztől télig (sőt kora tavaszig fagymentes napokon) terem csoportosan, egymás felett tetőcserépszerűen elhelyezkedve elhalt vagy legyengült lombhullató fák tuskóján, rönkjén, leggyakrabban bükkön, nyáron, fűzfán és diófán.",
-      uses: "Kiváló ehető gomba, termesztésre kiválóan alkalmas. Nyersen hemolitikus anyagokat tartalmaz, amelyek hő hatására elbomlanak, így csak alapos főzés vagy sütés után fogyasztható. Tönkje kemény rostjai miatt többnyire felhasználásra alkalmatlan.",
-      confusion: "A mérgező hegyi laskagomba (Pleurocybella porrigens) jóval vékonyabb húsú, tiszta fehér termőtestű, és kizárólag tűlevelűek faanyagán nő a hegyvidékeken. A nyári laskagomba (Pleurotus pulmonarius) nyáron terem, kalapja világosabb krémszínű vagy fehéres. A zöldes tejelőgomba és a kései kormoslaska (Sarcomyxa serotina) olívzöldes vagy sárgásbarna kalapú, lemezei élesen elhatárolódnak a tönktől.",
-      notes: "Micéliuma képes mikroszkopikus fonalférgeket megbénítani és megemészteni, így pótolva a faanyagban szegény nitrogénszükségletét."
+      description: "Lombos faanyagon élő szaprotróf gomba, néha gyengén parazita. Előfordul egész Nagy-Britanniában és Írországban, valamint a kontinentális Európa legtöbb részén, és széles körben feljegyezték Ázsia nagy részén, beleértve Japánt, valamint Észak-Amerika egyes részein. A csendes-óceáni északnyugati régióból hiányzik.",
+      cap: "A kalap jellemzően 5–18 cm átmérőjű (alkalmanként 2–30 cm, átlagosan 15 cm körül). Fehér, krém, barna, füstszürke vagy kékesszürke színű, és konzolos, kagyló alakú, legyező alakú vagy osztriga alakú, oldalsó vagy excentrikus tönkkel. Domborúnak indul, fiatalon begöngyölt szegéllyel, majd laposabbá válik vagy a közepén bemélyed, hullámos, olykor hasadt szegéllyel. A termőtestek gyakran egymást átfedő emeletekben nőnek, mindegyik tönk külön rögzülve.",
+      hymenium: "A lemezek fehérek, a kor előrehaladtával halványsárgára vagy halványokkerre váltanak, sűrűn állók és mélyen lefutók, a tönk felületének nagy részén végighúzódva.",
+      stipe: "A tönk fehér vagy krémszínű, és a tövénél gyapjas. Néha hiányzik. Ha jelen van, rendszerint rövid, 1–4 cm hosszú és 1–2 cm vastag, a töve felé elkeskenyedő, excentrikus vagy oldalt rögzül a faanyaghoz, gallér nélkül. Közvetlenül belenyílik a kalapba, így a kalap néha úgy tűnik, mintha közvetlenül a fából nőne ki.",
+      flesh: "A hús fehér és tömör, a tönkben szívóssá válik. Íze enyhe és kellemes, illata pedig gombaszerű vagy halványan ánizsra, illetve mandulára emlékeztető.",
+      sporePrint: "Fehértől a halvány lilásszürkéig terjedő. A spórák kissé hengeresektől a keskeny vese alakúig terjednek és simák, méretük 8–12,5 × 3–4,5 μm.",
+      habitat: "A termőtestek főként ősszel és télen jelennek meg, bár az év bármely szakában előfordulhatnak Nagy-Britanniában, Írországban és a szárazföldi Európában. Egymást fedő csoportokban nőnek pusztuló vagy elhalt lábon álló lombhullató fákon, különösen bükkön és tölgyön, valamint kidőlt fatörzseken és tuskókon, és csak nagyon ritkán tűlevelűeken, például lucfenyőn.",
+      uses: "Kiváló csemegegomba, amelyet széles körben termesztenek és árusítanak a boltokban. Íze enyhe, textúrája puha, levesekben, ragukban, pirítva és rántva egyaránt használják. Mivel a hús a kor előrehaladtával szívóssá, íze pedig kaparóvá válik, a fiatal termőtesteket részesítik előnyben.",
+      confusion: "A Pleurotus dryinus deres kalapú, és tönkjén egy múlékony gallér található. A nyári laskagomba (Pleurotus pulmonarius) világosabb színű, és gyakrabban terem nyáron, bár mindkét faj bármikor hozhat termőtestet, és hibridizálódhatnak is. A Crepidotus fajok (kérészgombácskák) 4 cm alatt maradnak. A hegyi laskagomba (Pleurocybella porrigens) rendszerint tölcsér alakú hasított szegéllyel, fenyőfán nő (Nagy-Britannián belül főleg Skóciában), és vesebetegségben szenvedők számára halálos lehet. Más hasonló gombák közé tartozik a Pleurotus cornucopiae, a Hohenbuehelia petaloides és a szőrös kalapú Phyllotopsis nidulans. A mérgező hasonmások közé tartozik az Omphalotus nidiformis Ausztráliában, valamint az Omphalotus olivascens és a Clitocybe dealbata Észak-Amerikában. Néhány mérgező Lentinellus faj fűrészes lemezéllel és finoman szőrös kalappal bír. Az ördögszekér-laskagomba (Pleurotus eryngii) egy rokon, termesztett faj.",
+      notes: "A Pleurotus columbinus egy kékesszürke forma, amelyet olykor külön fajként kezelnek, míg a Pleurotus floridanus különálló fajként van fenntartva. A micélium fonálférgeket ejt csapdába és emészt meg. E nemzetség fajai lovasztatint tartalmaznak, egy olyan sztatint, amely csökkenti a vér koleszterinszintjét."
     }
     },
     sources: {
@@ -7844,16 +7844,16 @@ export const CATALOG = [
       notes: "Lo stato di conservazione globale è classificato come GNR (non valutato)."
     },
     hu: {
-      description: "Lombhullató fákon élő parazita és szaprotróf taplógomba, amely intenzív barna törzs- és geszthullást okoz. Széles körben elterjedt Európában és Észak-Amerikában.",
-      cap: "A termőtestek konzolosak, nyelv vagy legyező alakúak, 10–40 cm szélesek és akár több kilogrammos csoportokat alkotnak egymás felett zsindelyszerűen nőve. Felszíne finoman bársonyos vagy sugarasan ráncolt, színe élénk kénsárga, narancssárga vagy lazacszínű, idős korban fakó sárgásfehérre fakul.",
-      hymenium: "A termőréteg a konzolok alsó felületén található, apró kénsárga pórusokból és rövid csövekből áll (2–4 pórus milliméterenként). Megsértve vagy fiatalon sárgás folyadékcseppeket választhat ki.",
-      stipe: "Tönkje általában nincs, közvetlenül széles vagy kissé elkeskenyedő alappal kapcsolódik a fatörzshöz.",
-      flesh: "A hús fiatalon puha, lédús, húsos, sárgásfehér színű, csirkehúsra emlékeztető állagú; idős korban szárazzá, morzsalékonnyá és krétaszerűvé válik. Illata kellemesen gombaszerű, savanykás ízű.",
-      sporePrint: "Fehér vagy halványsárgás. A spórák széles elliptikusak, simák, méretük 5–7 × 3,5–5 μm.",
-      habitat: "Tavasztól őszig jelenik meg élő vagy elhalt lombos fák törzsén, leggyakrabban fűzön, nyáron, tölgyön, akácon és gyümölcsfákon, ligeterdőkben és parkokban.",
-      uses: "Fiatalon ehető, ízletes gomba, állaga és íze miatt sok helyen „erdei csirkének” nevezik. Csak a konzolok puha, külső szegélyét fogyasztják. Egyes embereknél gyomorpanaszokat vagy allergiás reakciókat okozhat, ezért első fogyasztáskor óvatosság ajánlott, és alaposan meg kell sütni vagy főzni.",
-      confusion: "A fenyő-likacsosgomba (Phaeolus schweinitzii) sötétebb barna, zöldessárga szélű és kizárólag fenyőkön él. Az óriás bokrosgomba (Meripilus giganteus) a fák tövében nő, barnás színű konzoljai sérülésre feketednek.",
-      notes: "Magyarországon 2025-ben az év gombája volt."
+      description: "Élő és elhalt lombhullató fák, valamint olykor tiszafa taplógombája. Nagy-Britannia és Írország számos részén ritkás, helyenként gyakori, beleértve a tiszafaerdőket is. Ugyanezt a gombát, vagy a hozzá nagyon közeli fajokat, Észak-Európa-szerte és Észak-Amerikában a Sziklás-hegységtől keletre is feljegyezték.",
+      cap: "A konzol legfeljebb 40 cm széles, és 1–4 cm vastag a tövénél. Sárgásnarancs, kénsárga vagy élénksárga, olykor zónás, és idővel fakó krémszínűre vagy krétasárgára fakul. A felszín finoman szőrös vagy velúrszerű, majd simává válik. A termőtestek gyakran egymás felett, sűrű átfedő csoportokban nőnek. A szegély tompa és hullámos vagy lebenyes.",
+      hymenium: "A csövek rövidek, körülbelül 1,5–4 mm hosszúak. A pórusok aprók, kerekdedek vagy szögletesek, kénsárgák, és milliméterenként körülbelül 3–4 található belőlük.",
+      stipe: "Tönkje rendszerint nincs. A konzol közvetlenül rögzül a fához, vagy egy rövid, vaskos oldalsó tuskóból indul ki.",
+      flesh: "A hús fiatalon vastag, puha, lédús és húsos. Színe fehéres vagy halványsárga. Később szárazzá, törékennyé és krétaszerűvé válik. Szaga kellemes és gombaszerű, íze pedig savanykás vagy a csirkehúsra emlékeztető.",
+      sporePrint: "Fehér. A spórák simák, széles ellipszoidoktól a tojásdadig terjednek, méretük mintegy 5–7 × 3,5–5 μm.",
+      habitat: "A termőtestek májustól őszig jelennek meg. Élő és elhalt lombos fákon nőnek, leggyakrabban tölgyön, fűzfán, cseresznyén, tiszafán és gesztenyén. A fában kockás barna korhadást idéz elő.",
+      uses: "Fiatalon ehető, és a szezon korai szakaszában a legpuhább. A szívós alap kivételével a széleit szeletelik és sütik, gyakran csirkehús helyettesítésére. Alapos főzést igényel. Nyersen fogyasztva egyes embereknél szédülést, émelygést vagy allergiás reakciókat okozhat. A tiszafán gyűjtött termőtesteket nem javasolják fogyasztani, mivel mérgező alkaloidokat vehetnek fel a gazdafából.",
+      confusion: "A Meripilus giganteus (óriás bokrosgomba) barnás színű konzolokkal bír, pórusai sérülésre feketednek, és nem élénksárga. Az egyéb hasonló taplók jóval szívósabbak, fásak vagy nem kénsárgák.",
+      notes: "A globális természetvédelmi rangja GNR. Magyarországon 2025-ben az év gombája volt."
     }
     },
     sources: {
@@ -8712,16 +8712,16 @@ export const CATALOG = [
       notes: "Una valutazione del 2019 classifica la specie a minor preoccupazione (Least Concern), con popolazione stabile."
     },
     hu: {
-      description: "Közepes vagy nagy termetű ektomikorrhizás gomba. Nagyon gyakori Európa és Észak-Amerika tűlevelű és vegyes erdőiben, savanyú talajokon.",
-      cap: "A kalap 4–15 cm átmérőjű, kezdetben félgömb alakú, majd domborúvá válik. Színe sötét gesztenyebarna, csokoládébarna vagy mogyoróbarna. Nedves időben nyálkás és ragadós, szárazon matt vagy finoman bársonyos.",
-      hymenium: "A csövek és a pórusok krémsárgák, később zöldessárgára érnek, megnyomva vagy elvágva jellegzetesen kékülnek vagy kékészöldre színeződnek.",
-      stipe: "A tönk 4–12 cm hosszú és 1–4 cm vastag, hengeres vagy tövénél kissé vaskosabb, színe világosabb barna a kalapnál, finoman hosszanti szálas-bordás, de nincsen rajta hálózat.",
-      flesh: "A hús fehéres vagy halványsárga, a kalapbőr alatt barna zónával; vágásra a tönkcsúcsban és a csövek felett enyhén kékül. Kellemes, gyenge gombaillatú és enyhe ízű.",
-      sporePrint: "Olívbarna. A spórák orsó alakúak, simák, méretük 12–15 × 4,5–5,5 μm.",
-      habitat: "Kora nyártól késő őszig terem, főként fenyvesekben (erdeifenyő, lucfenyő alatt), ritkábban bükkösökben és tölgyesekben, savanyú talajokon és korhadó tuskók közelében.",
-      uses: "Kiváló ehető gomba, amelyet sokfelé a vargányákhoz hasonlóan értékelnek. Frissen, sütve, levesekben vagy szárítva egyaránt kiváló.",
-      confusion: "Az ízletes vargánya (Boletus edulis) tönkjén fehér hálózat látható, csövei nyomásra nem kékülnek, és húsa fehér marad. Az epeízű tinóru (Tylopilus felleus) tönkjén sötét hálózat van, csövei idővel rózsaszínesednek, és húsa rendkívül keserű. Az aranyos tinóru (Xerocomellus chrysenteron) kalapbőre repedezett, és a repedésekben vöröses hús látszik.",
-      notes: "Ismert tulajdonsága, hogy a talajból hajlamos felhalmozni a nehézfémeket és a radioaktív cézium izotópjait."
+      description: "Tűlevelű és vegyes erdők ektomikorrhizás gombája. Egy 2019-es felmérés Európa nagy részén, valamint Kanadában, az Egyesült Államokban és Oroszországban őshonosként sorolja fel. Gyakori Nagy-Britanniában és Írországban. További feljegyzéseket jelentettek Törökországból, Jordániából, Kínából, Tajvanról és Közép-Mexikóból.",
+      cap: "A kalap jellemzően 5–15 cm átmérőjű (észak-amerikai gyűjtéseknél 3–9 cm). Babérbarna, gesztenyebarna, sötétbarna vagy vörösesbarna, fiatalon finoman pelyhes vagy bársonyos, később sima. Nedves időben ragadóssá vagy nyálkássá válik, és hamar megszárad. Szegélye keskeny és kissé túlnyúló, a kalapbőrt pedig nehéz lehúzni a húsról.",
+      hymenium: "A csövek legfeljebb 1–2 cm mélyek, kezdetben halványsárgák, majd zöldessárgává vagy olívszínűvé válnak, és elvágva rendszerint megkékülnek. A pórusok szögletesek, milliméterenként körülbelül 1–3 található belőlük, a krémszínűtől a halványsárgáig terjednek, majd olívasárgává válnak, és érett termőtesteken tompa kékre vagy kékészöldre színeződnek megnyomásra.",
+      stipe: "A tönk 4–15 cm hosszú (Észak-Amerikában legfeljebb 18 cm) és 1–4 cm vastag. Többé-kevésbé hengeres, a töve közelében gyakran kissé görbült vagy kiszélesedett, fehér bazális micéliummal és gallér nélkül. Felszíne a csúcsán halványsárga, alatta barna vagy vörösesbarna, amelyet kiemelkedő hálózat helyett finom hosszanti barna szálak borítanak világosabb alapon.",
+      flesh: "A hús a fehértől a halványsárgáig terjed, közvetlenül a kalapbőr alatt borvöröses-rózsaszín vagy barnás árnyalattal, és elvágva a csövek felett és a tönkcsúcson általában halványkékre vagy kékészöldre színeződik. Szaga gyenge vagy kissé gyümölcsös, íze pedig enyhe.",
+      sporePrint: "Olívbarna. A spórák kissé orsó alakúak (tinóruszerű-orsósak) és simák, méretük mintegy 11–15 × 4–5,5 μm.",
+      habitat: "A termőtestek késő nyáron és ősszel jelennek meg, Nagy-Britanniában és Írországban augusztustól novemberig, Észak-Amerikában pedig júliustól novemberig. Magányosan vagy szétszórva nőnek a talajon, vagy korhadó, mohás tuskókon, erdeifenyők, lucfenyő, hemlokfenyő és egyéb tűlevelűek alatt, ritkábban bükk, tölgy, szelídgesztenye és nyír alatt. A meszes talajokat kerülik.",
+      uses: "Kiváló csemegegomba, minőségében közel áll a Boletus edulis fajhoz, és alkalmas ugyanazokba a receptekbe. A termőtesteket ritkábban támadják meg a lárvák, mint sok más tinórut, és vékonyra szeletelve jól száradnak. Piacokon árusítják Európában és Közép-Mexikóban.",
+      confusion: "A Boletus edulis kalapja olykor babérbarna, de világos tönkje kiemelkedő fehér hálózatot visel, és pórusai nyomásra nem kékülnek. Az Aureoboletus projectellus robusztusabb és durván hálózatos tönkű. Az Austroboletus gracilis nem kékül nyomásra, pórusai pedig rózsaszínesre válnak. A Xerocomus subtomentosus száraz, bársonyos kalapú, és tágabb sárga pórusai ritkán színeződnek kékre. A nyugat-észak-amerikai Xerocomellus zelleri és a Hortiboletus bubalinus szintén hasonlóak.",
+      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja nyilván, stabil állománnyal. A termőtestek képesek felhalmozni a higanyt, a kobaltot és a nikkelt, a kalapban lévő pigment (norbadion A) pedig koncentrálja a radioaktív cézium-137 izotópot."
     }
     },
     sources: {
@@ -9576,16 +9576,16 @@ export const CATALOG = [
       confusion: "Il falso chiodino (Hypholoma fasciculare) ha lamelle presto verdastre, assenza di anello membranoso vero e carne amarissima e tossica. Altre specie affini di Armillaria (come Armillaria ostoyae) crescono principalmente su conifere con anello orlato di scuro."
     },
     hu: {
-      description: "Fakárosító parazita és szaprotróf gombafaj, amely veszélyes gyökérrothadást okoz lombhullató fákon. Széles körben elterjedt az északi mérsékelt övben. Rizomorfái és micéliuma a sötétben biolumineszcenciát mutathatnak.",
-      cap: "A kalap 3–15 cm átmérőjű, kezdetben domború, később kiterülő, gyakran tompa púppal a közepén. Színe mézsárga, okkerbarna vagy sárgásbarna, közepén sötétebb, apró, letörölhető sötétbarna pikkelyekkel borított.",
-      hymenium: "A lemezek fehérek vagy krémszínűek, később húsbarnás foltokkal pettyezettek, kissé lefutók a tönkre, közepesen sűrűn állók.",
-      stipe: "A tönk 6–15 cm magas és 0,5–2 cm vastag, karcsú, lefelé kissé megvastagodó, alján a csoport többi tagjával összenőtt. Színe a kalaphoz hasonló vagy lefelé sötétbarna. Felső részén jól fejlett, fehéres-sárgás, tartós hártyás gallér található.",
-      flesh: "A hús a kalapban fehéres, puha, a tönkben fás-szálas. Kellemes gombaillatú, íze enyhe, nyersen megrágva kaparóan csípős utóízű.",
-      sporePrint: "Fehér vagy halvány krémszínű. A spórák elliptikusak, simák, méretük 7–9 × 5–6 μm.",
-      habitat: "Késő nyártól késő őszig (főleg szeptember-novemberben) terem, sűrű, nagy csoportokban, élő lombhullató fák tövén vagy elhalt tuskókon, rönkökön.",
-      uses: "Feltételesen ehető gomba. Nyersen mérgező, gyomor- és bélrendszeri tüneteket okoz, ezért legalább 20 perces alapos főzést igényel, a főzővizet pedig ajánlott leönteni. Csak a fiatal példányok kalapja használható fel.",
-      confusion: "A sötétpikkelyes tuskógomba (Armillaria ostoyae) főleg fenyőkön nő, sötétebb barna kalapú és gallérja alsó peremén barnás pikkelyek vannak. A hagymatönkű tuskógomba (Armillaria gallica) tönktöve gumósan megvastagodott. A mérgező sárga kénvirággomba (Hypholoma fasciculare) zöldessárga lemezekkel bír és nincs hártyás gallérja. Az ízletes tőkegomba (Kuehneromyces mutabilis) tönkje a gallér alatt pikkelyes, lemezei fahéjbarnák. A halálosan mérgező fenyves sisakgomba (Galerina marginata) magányosan vagy kis csoportokban nő fenyőtuskón, és rozsdabarna spóraport hullat.",
-      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja számon."
+      description: "Élő lombos fán élősködő parazita gomba, valamint szaprotróf tuskókon és elhalt gyökereken. Gyakori Nagy-Britanniában és Írországban, valamint a kontinentális Európa nagy részén, Skandináviában ritkább, délebbre gyakoribb, és feljegyezték Észak-Amerika keleti és délkeleti részén, valamint Kaliforniában.",
+      cap: "A kalap 3,5–15 cm átmérőjű. Mézsárgától az aranysárgáig vagy vörösesbarnáig terjed, rendszerint sötétebb a közepén. Erősen domborúnak indul és kiterül, gyakran kiemelkedő középrészt és hullámos, bordás szegélyt fejlesztve. Finom sötét vagy barnás pikkelyek borítják a fiatal kalapot, leginkább a közepe felé, bár a kor előrehaladtával lekophatnak. Felszíne száraz, nedves állapotban ragadós.",
+      hymenium: "A lemezek a tönkhöz nőttek vagy kissé lefutók, sűrűn vagy nagyon sűrűn helyezkednek el. Kezdetben egy fehérestől a halványsárgáig terjedő részleges burok fedi őket; fiatalon fehéresek vagy hússzínűek, az idősödéssel sárgássá válnak és rozsdabarna foltokat fejlesztenek.",
+      stipe: "A tönk 6–20 cm magas és 0,5–2,5 cm vastag, a töve felé elkeskenyedő, ahol egy csomó tönkjei összenőnek. A csúcsa közelében fehéres, a töve felé pedig sárgástól a sötétbarnáig vagy olívfeketéig terjed, szívós, rostos külső kéreggel és fehér béllel a belsejében. A felső tönkön egy marandó, vastag, hártyás fehér gallér ül, sárga pelyhes alsó oldallal és szegéllyel.",
+      flesh: "A hús fehér vagy fehéres, elvágva nem változik, a kalapban puha és a tönkben szívós. Szaga nem jellegzetes vagy gyengén gyümölcsös. Íze kellemes és enyhe, fanyar vagy kesernyés utóízzel.",
+      sporePrint: "Fehér vagy nagyon halvány krém. A spórák simák, ellipszoidok, méretük mintegy 7–9,5 × 5–7 μm, és jódoldatban nem kékülnek meg.",
+      habitat: "A termőtestek nyár végétől késő őszig, leginkább szeptembertől novemberig jelennek meg. Sűrű csomókban nőnek élő vagy elhalt lombhullató fákon, különösen tölgyön, bükkön, kőrisen és gyümölcsfákon, a fában agresszív fehérkorhadást idézve elő.",
+      uses: "Feltételesen ehető gomba, de csak alapos forralás és főzés után fogyasztható, mert nyersen gyomor- és bélpanaszokat okoz. Csak a kalapokat érdemes felhasználni, mert a tönk túl rostos és szívós.",
+      confusion: "A Desarmillaria tabescens nagyon hasonló, de egyáltalán nincs gallérja. Az Armillaria ostoyae sötétebb barna, pikkelyei sokkal kifejezettebbek, és főként tűlevelű fákon terem. A mérgező sárga kénvirággomba (Hypholoma fasciculare) lemezei kénsárgák, majd zöldesek, és íze rendkívül keserű. A fenyves-sisakgomba (Galerina marginata) halálosan mérgező, jóval kisebb termetű, spórapora barna, és magányosan vagy kis csoportokban nő tűlevelű tuskókon.",
+      notes: "A faj fekete rizomorfákat képez a fa kérge alatt. A micéliuma sötétben világíthat (biolumineszcencia)."
     }
     },
     sources: {
@@ -10444,15 +10444,15 @@ export const CATALOG = [
       notes: "Mentre la maggior parte dei coprini è stata trasferita su base molecolare ai generi Coprinopsis e Coprinellus, Coprinus comatus rimane la specie tipo del genere Coprinus."
     },
     hu: {
-      description: "Szaprotróf gomba, a tintagombák legismertebb képviselője. Széles körben elterjedt Európában, Ázsiában és Észak-Amerikában. Micéliuma képes a talajban élő mikroszkopikus fonalférgek megbénítására és megemésztésére.",
-      cap: "A kalap 4–12 cm magas és 3–6 cm széles, fiatalon hengeres vagy zárt tojásdad, később harang alakúvá nyílik. Színe tiszta fehér, felülete sűrűn borított felpöndörödő, gyapjas-pikkelyes foszlányokkal, a tetején sárgásbarna csúccsal. Éréskor a széle felpöndörödik, és alulról felfelé tintaszerűen feketén elfolyósodik (autolízis).",
-      hymenium: "A lemezek szabadon állók, nagyon sűrűn helyezkednek el; kezdetben hófehérek, majd a kalap szélétől kezdve rózsaszínesre, végül tintafeketére színeződnek és folyós masszává olvadnak.",
-      stipe: "A tönk 10–25 cm magas és 1–2 cm vastag, hengeres, lefelé kissé vastagodó, fehér, selymesen szálas, üreges. Rajta vékony, fehéres, elmozduló gyűrű (gallér) található, amely gyakran lehullik.",
-      flesh: "A hús fehér, vékony, nagyon puha és törékeny. Kellemes, gyenge gombaillatú és kitűnő enyhe ízű.",
-      sporePrint: "Fekete vagy barnásfekete. A spórák elliptikusak, simák, méretük 10–14 × 6,5–8,5 μm, központi csíranyílással.",
-      habitat: "Tavasztól késő őszig (áprilistól novemberig) terem kertekben, parkokban, füves réteken, legelőkön, útszéleken és bolygatott, nitrogéndús talajokon, gyakran seregesen vagy boszorkánykörökben.",
-      uses: "Kiváló csemegegomba, amíg a lemezei teljesen fehérek. Leszedés után nagyon gyorsan fel kell dolgozni, mert órákon belül megfeketedik és elfolyósodik. A ráncos tintagombával ellentétben nem tartalmaz koprint, így alkoholfogyasztás mellett sem okoz mérgezést.",
-      confusion: "A mérgező harkálytintagomba (Coprinopsis picacea) kalapja sötétbarna alapon nagy fehér pelyhekkel díszített. A ráncos tintagomba (Coprinopsis atramentaria) szürkésbarna, simább kalapú, és koprintartalma miatt alkohollal együtt fogyasztva súlyos mérgezést idéz elő. A mérgező zöldspórás őzlábgomba (Chlorophyllum molybdites) fiatalon felületesen hasonlíthat rá.",
+      description: "Szaprotróf gomba talajon, gyepeken és réteken. Széles körben elterjedt és gyakori Észak-Amerikában, Európában, beleértve Nagy-Britanniát és Írországot, valamint Ázsiában. Ausztráliába és Új-Zélandra behurcolták.",
+      cap: "A kalap 4–15 cm magas és 3–6 cm széles, fiatalon hengeres vagy tojásdad, csúcsán tompa púppal. Tiszta fehér vagy krémszínű, csúcsán sárgásbarna árnyalattal. Felületét sűrűn borítják a gyapjas, felkunkorodó pikkelyek. Az érés során a kalap alulról felfelé kiterül, megfeketedik, és tintaszerű folyadékká folyik szét.",
+      hymenium: "A lemezek szabadon állók, nagyon sűrűn helyezkednek el, kezdetben tiszta fehérek, majd rózsaszínűvé válnak, végül feketévé válnak és elfolyósodnak.",
+      stipe: "A tönk 10–25 cm magas és 1–2,5 cm vastag, tiszta fehér, hengeres, a tövénél kissé megvastagodott. Belül üreges, amelyben egy vékony fonal húzódik végig. Egy keskeny, mozgatható fehér gallért visel.",
+      flesh: "A hús fehér, vékony, törékeny és puha. Szaga és íze kellemes, enyhe.",
+      sporePrint: "Fekete. A spórák simák, ellipszoidok, méretük mintegy 10–14 × 6,5–8,5 μm, nagy csíranyílással.",
+      habitat: "Tavasztól késő őszig terem trágyázott réteken, legelőkön, parkokban, utak mentén és kertekben, csoportosan.",
+      uses: "Kiváló csemegegomba, amíg a lemezei teljesen fehérek. Nagyon hamar elkészítendő a gyűjtés után, mert órákon belül megfeketedik és feloldódik. Alkohollal együtt is fogyasztható, nem tartalmaz koprint.",
+      confusion: "A ráncos tintagomba (Coprinopsis atramentaria) kalapja szürkésbarna, nem gyapjas, és alkohollal fogyasztva mérgezést okoz.",
       notes: "Magyarországon 2009-ben az év gombája volt."
     }
     },
@@ -11288,16 +11288,16 @@ export const CATALOG = [
       confusion: "La spugnola comune (Morchella esculenta) possiede una mitra con alveoli regolari delimitati da coste e un'unica cavità centrale continua sia nel gambo che nel cappello."
     },
     hu: {
-      description: "Tavaszi tömlősgomba, amely homokos talajú tűlevelű erdőkben él. Elterjedt Európában, ahol a hegyvidékeken gyakoribb, mint az alacsonyabb területeken, valamint Észak-Amerikában is széles körben feljegyezték. Nagy-Britanniában és Írországban ritka és elszórt előfordulású.",
-      cap: "A süveg 5–15 cm széles és 4–8 cm magas, szabálytalanul agytekervényszerűen lebenyes, ráncos és tekervényes; általában szélesebb, mint amilyen magas. Színe vörösesbarna, gesztenyebarna vagy sötétbarna. A redők lekerekített szélei a süveg belsejében szabálytalan üregeket zárnak közre.",
-      hymenium: "A termőréteg a süveg teljes külső felületét borítja. Kezdetben sima, majd mélyen ráncolttá és redőzötté válik. Széle visszahajló és a tönkhöz nőtt, fiatalon is csak ritkán áll szabadon. Bazídiumokkal nem rendelkezik; a spórák tömlőkben képződnek.",
-      stipe: "A tönk 2–5 cm magas és 2–3 cm vastag, krémesfehér vagy sárgásfehér, törékeny, felszíne egyenetlen, barázdált, belsejében több szabálytalan, csőszerű üreg húzódik.",
-      flesh: "A hús fehéres vagy viaszsárga, törékeny, vékony falú. Szaga és íze nem jellegzetes.",
-      sporePrint: "Sárgás vagy krémszínű (olykor fehéresként is leírják). A tömlőspórák elliptikusak, simák és áttetszők (hialinok), 18–23 μm (olykor 25 μm-ig terjedő) hosszúak és 10–12,5 μm szélesek, általában két olajcseppel. A tömlők hengeresek, nyolcspórásak, méretük 180–220 × 15–17 μm.",
-      habitat: "A termőtestek áprilistól júliusig fejlődnek, olykor közvetlenül a hóolvadás után bukkannak elő. Homokos talajú tűlevelű erdőkben, leggyakrabban erdeifenyők alatt, valamint néha nyárfák közelében terem, többnyire bolygatott talajú helyeken.",
-      uses: "Nyersen vagy nem megfelelően elkészítve halálosan mérgező! Gyromitrin nevű méreganyagot tartalmaz, amely a szervezetben rendkívül mérgező monometil-hidrazinná (MMH) hidrolizálódik, ami súlyosan károsítja a májat, a központi idegrendszert és a vörösvértesteket. Bár Skandináviában és Kelet-Európában hagyományosan többszöri leforrázás és a főzővíz leöntése után elfogyasztották, a főzés nem távolítja el megbízhatóan az összes toxint, a felszálló gőzök belélegzése önmagában is súlyos mérgezést okozhat, és a méreganyag a szervezetben felhalmozódik.",
-      confusion: "Az ehető ízletes kucsmagomba (Morchella esculenta) süvege méhsejtszerűen gödrös, belsejében egyetlen összefüggő üreg van, tönkje pedig általában hosszabb. A fodros papsapkagomba (Helvella crispa) krémszínű nyereg alakú süveggel és hosszanti bordás tönkkel rendelkezik. Az óriás papsapkagomba (Gyromitra gigas), a püspöksüveggomba (Gyromitra infula) és a Gyromitra ambigua hasonló fajok, az utóbbi kettő szintén mérgező.",
-      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja számon."
+      description: "Talajon termő, tavaszi tömlősgomba (Ascomycota). Megtalálható Európa és Észak-Amerika hűvösebb fenyveseiben. Nagy-Britanniában ritka, főként Skócia fenyveseire korlátozódik. Közép- és Észak-Európában gyakoribb.",
+      cap: "A süveg 3–12 cm széles és 4–10 cm magas, szabálytalanul gömbölyded, mélyen tekervényes és agyvelőszerűen ráncolt felületű. Színe vörösesbarna, sötétbarna vagy gesztenyebarna. Belseje tágas, több kamrára osztott és szabálytalan üregekből áll.",
+      hymenium: "A termőréteg a süveg teljes külső ráncos felületét borítja. A spórák hengeres aszkuszokban fejlődnek ki, mindegyikben nyolc aszkospórával.",
+      stipe: "A tönk 2–8 cm magas és 1,5–4 cm vastag, fehéres vagy szürkésfehér, szabálytalanul ráncolt és barázdált. Belül üreges és kamrás.",
+      flesh: "A hús vékony, törékeny, viaszos tapintású, fehéres vagy világosbarna. Kellemes illatú.",
+      sporePrint: "Fehéres vagy halványsárgás. Az aszkospórák simák, ellipszoidok, méretük mintegy 18–24 × 9–13 μm.",
+      habitat: "Kora tavasszal, márciustól májusig terem homokos talajú fenyvesekben, vágásokon, erdei utak mentén.",
+      uses: "Halálosan mérgező! Gyromitrint tartalmaz, amely monometil-hidrazinná bomlik le a szervezetben, és súlyos máj-, vese- és idegrendszeri károsodást okoz. Fogyasztása tilos és életveszélyes.",
+      confusion: "Az ízletes kucsmagomba (Morchella esculenta) süvege gödröcskékből és bordákból áll, nem agyvelőszerűen ráncos, és tönkje egyetlen összefüggő üregből áll.",
+      notes: "A gyromitrin illékony és hőre bomlik, de a gőzök belélegzése is súlyos mérgezést okozhat; Ascomycota gombaként sosem képez bazídiumokat."
     }
     },
     sources: {
@@ -12118,16 +12118,16 @@ export const CATALOG = [
       notes: "Esiste la forma annulosulphurea con anello giallo zolfo."
     },
     hu: {
-      description: "Lombhullató és fenyőerdőkben élő ektomikorrhizás gomba, amely gyakran kis csoportokban jelenik meg sovány, savanyú talajon. Nagyon gyakori Nagy-Britanniában, Írországban és a kontinentális Európában, őshonos Európában és Ázsiában. Dél-Afrikába betelepített fákkal hurcolhatták be. Az észak-amerikai előfordulásokat más fajokként kezelik.",
-      cap: "A kalap 5–20 cm széles, bár néhány érett kalap csupán mintegy 2,5 cm-es. Színe a csaknem fehértől a rózsaszínesen és barnán át a majdnem feketéig terjed, gyakran barnásrózsaszín. A burok (velum universale) szabálytalan, piszkosfehér vagy szürke maradványai rendszerint megmaradnak a felületén, ám a heves esőzések lemoshatják azokat. A kalap kezdetben félgömb alakú, majd kiterül, olykor kissé tölcséressé válik.",
-      hymenium: "A lemezek fehérek, sűrűn állók, a tönkhöz nőttek vagy majdnem szabadok. Egy kifejlett termőtesten gyakran rózsás vagy rozsdavörös pettyekkel díszítettek, érintésre rózsaszínre vagy tompa vörösre színeződnek.",
-      stipe: "A tönk 7–15 cm hosszú és 1–2 cm vastag. A gallér felett fehér, alatta vörösesbarna, gyakran mély rózsaszínű foltokkal tarkított. Vékony, törékeny, lecsüngő gallérja rendszerint barázdált és gyakran cafrangos. A tönk alapja gumós. Jól elkülönülő bocskor csak a nagyon fiatal termőtesten figyelhető meg, és nem hagy gyűrűs öveket a tönk tövénél. A tönk a kor előrehaladtával üregessé válik.",
-      flesh: "A hús fehér. A kalap és a tönk elvágott vagy megsértett húsa mély rózsaszínűre vagy tompa vörösre változik. A friss termőtestnek nincs jellegzetes szaga vagy íze. A lárvák által megdézsmált idősebb példányok kellemetlen szagúak lehetnek.",
-      sporePrint: "Fehér. A spórák simák, széles elliptikusak vagy oválisak, méretük 8–9 × 5–5,5 μm, jódoldatra kékesfeketére színeződnek (amiloidak).",
-      habitat: "Nagy-Britanniában és Írországban a termőtestek júniustól októberig fejlődnek, enyhe időszakokban akár decemberig is kitartanak. Lomblevelű és tűlevelű fákkal él mikorrhizás kapcsolatban, és különösen bőséges a fenyőerdőkben.",
-      uses: "Kizárólag alapos hőkezelés után fogyasztható! Nyers húsa hemolitikus toxint tartalmaz, amely vérszegénységet idézhet elő; az alapos főzés vagy sütés ezt a toxint elpusztítja. A termőtestek külsőre a mérgező galócákra hasonlítanak.",
-      confusion: "A szürke galóca (Amanita excelsa) húsa vágásra nem színeződik el, egyébként a termőtestei igen hasonlítanak a piruló galóca halvány formáira. A párducgalóca (Amanita pantherina) kalapja barna, rajta tiszta fehér burokmaradványok találhatók, gumójának peremét sima, gallérszerű bocskorövek övezik, húsa pedig nem pirul. A kifakult légyölő galóca (Amanita muscaria) narancsbarna vagy halványsárga lehet, fehér burokmaradványokkal, de húsa nem vörösödik. A császárgalóca (Amanita caesarea) élénk narancsszínű, bordás szélű kalappal és sárga tönkkel rendelkezik, és Dél-Európán kívül ritkán fordul elő.",
-      notes: "Egyik változatának kénsárga gallérja van, egyéb bélyegeiben azonban megegyezik a törzsfajjal."
+      description: "Lombhullató és fenyőerdőkben élő ektomikorrhizás gomba, gyakran kis csoportokban, szegény, savanyú talajon. Nagyon gyakori Nagy-Britanniában, Írországban és a szárazföldi Európában, és őshonos Európában és Ázsiában. Dél-Afrikába a feltételezések szerint telepített fákkal hurcolták be. Az észak-amerikai adatokat más fajoknak tekintik.",
+      cap: "A kalap 5–20 cm átmérőjű, jóllehet néhány érett kalap csupán körülbelül 2,5 cm-es. Színe a majdnem fehértől a rózsaszínen és a barnán át a majdnem feketéig terjed, és gyakran barnásrózsaszínű. Az egyetemes burok szabálytalan törtfehér vagy szürke maradványai rendszerint megmaradnak a felszínen, amelyeket heves esőzés lemoshat. A kalap kezdetben boltozatos, majd kiterül, és olykor enyhén tölcséresedővé válik.",
+      hymenium: "A lemezek fehérek, sűrűn állók, a tönkhöz nőttek vagy majdnem szabadok. Egy érett termőtesten gyakran rózsaszínnel vagy rozsdavörössel pettyezettek, és érintésre rózsaszínűvé vagy tompa vörössé válnak.",
+      stipe: "A tönk 7–15 cm hosszú és 1–2 cm vastag. A gallér felett fehér, alatta vörösesbarna, gyakran mélyrózsaszín foltokkal. Egy vékony, törékeny lecsüngő gallér rendszerint bordázott és gyakran cafrangos. A töve megvastagodott. Jól kivehető bocskor csak egy nagyon fiatal termőtesten mutatkozik, és nem hagy gyűrűket a töve körül. A tönk a kor előrehaladtával üregessé válik.",
+      flesh: "A hús fehér. A kalap és a tönk elvágott vagy megsértett húsa mélyrózsaszínűvé vagy tompa vörössé válik. Egy friss termőtestnek nincs jellegzetes szaga vagy íze. Egy nyüvekkel teli, öregebb termőtest kellemetlen szagú lehet.",
+      sporePrint: "Fehér. A spórák simák, széles ellipszoidoktól a tojásdadig terjednek, méretük 8–9 × 5–5,5 μm, és jódoldatban kékfeketére színeződnek.",
+      habitat: "A termőtestek Nagy-Britanniában és Írországban júniustól októberig, enyhe időszakokban akár decemberig is megjelennek. Lomblevelű és tűlevelű fákkal él együtt, és különösen bőséges a fenyőerdőkben.",
+      uses: "Kizárólag alapos főzés után fogyasztható. A nyers hús egy hemolitikus toxint tartalmaz, amely vérszegénységet (anémiát) okozhat, az alapos főzés pedig elpusztítja ezt a toxint. A termőtestek hasonlítanak a mérgező galócákra.",
+      confusion: "A szürke galóca (Amanita excelsa) húsa elvágva nem változtatja meg a színét, és sok termőteste egyébként úgy néz ki, mint e gomba fakó változata. A párducgalóca (Amanita pantherina) barna kalapú, tiszta fehér burokmaradványokkal, sima gallérszerű bocskorszegéllyel, és húsa nem válik rózsaszínűvé. A kifakult légyölő galóca (Amanita muscaria) narancsbarna vagy halványsárga lehet, fehér burokmaradványokkal és nem vörösödő hússal. A császárgalóca (Amanita caesarea) ragyogó narancssárga kalapú, vonalkázott szegéllyel és sárga tönkkel, és Dél-Európán kívül ritkán található meg.",
+      notes: "Egyik formája kénsárga gallérral rendelkezik, egyébként megegyezik."
     }
     },
     sources: {
@@ -12924,16 +12924,15 @@ export const CATALOG = [
       confusion: "L'ifoloma sublaterizio (Hypholoma lateritium) ha cappello rosso mattone e carne meno amara. Il chiodino buono (Armillaria mellea) ha lamelle biancastre o crema e anello membranoso vero."
     },
     hu: {
-      description: "Fakárosító gomba, amely tuskókon és kidőlt fatörzseken sűrű csomókban jelenik meg. Nagyon gyakori Nagy-Britanniában, Írországban és a kontinentális Európa legtöbb részén, különösen északon és a középső területeken. Szintén gyakori Észak-Amerikában, és feljegyezték Iránból, valamint Kelet-Anatóliából is.",
-      cap: "A kalap 2–7 cm átmérőjű, kénsárga színű, közepén gyakran barnássárga, kezdetben domború, később kissé púpos. Szélén sötét burokmaradványok foszlányai tapadnak meg.",
-      hymenium: "A lemezek sűrűn állók és a tönkhöz nőttek. Fiatalon kénsárgák, majd olívzöldesek lesznek, végül a spórák érésével megfeketednek.",
-      stipe: "A tönk többé-kevésbé a kalappal megegyező színű, a töve felé barnásabb árnyalatú. Hossza 5–12 cm, vastagsága 0,5–1 cm, és rendszerint görbült.",
-      flesh: "A kalaphús kénsárga és meglehetősen kemény állagú. Szaga gombaszerű, nem jellegzetes. Íze rendkívül keserű.",
-      sporePrint: "Bíborbarna. A spórák elliptikusak és simák, méretük 6–7,8 × 4–4,5 μm, apró csírapórussal.",
-      habitat: "Termőtestei egész évben megjelenhetnek, a legbőségesebben júniustól novemberig fejlődnek. Lombos fák, ritkábban fenyők tuskóin, kivágott törzsein és egyéb korhadó faanyagán nő. A látszólag a fűben álló csoportok a talajba temetett fadarabokon élnek. Időnként élő fa odvas törzsén is terem.",
-      uses: "Íze nagyon keserű. Elfogyasztása gyomorfájdalmat, émelygést, hányást, hasmenést, átmeneti bénulást és látászavarokat idézhet elő, rendszerint 5–10 órával a fogyasztás után. A mérgezés lefolyása általában néhány nap alatt lezajlik, és csak nagyon ritkán halálos kimenetelű.",
-      confusion: "A fenyves kénvirággomba (Hypholoma capnoides) fenyőtuskókon él, lemezei füstszürkék, és nem keserű ízű. A téglavörös kénvirággomba (Hypholoma lateritium) nagyobb termetű, kalapja élénk téglavörös színű, és lemezei szürkésbarnák. A tuskógombák (Armillaria fajok) kalapján pikkelyek találhatók, spóraporuk pedig fehér.",
-      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja számon, stabil állománnyal."
+      description: "Fakárosító gomba, amely sűrű csomókban nő tuskókon és kidőlt fatörzseken. Nagyon gyakori Nagy-Britanniában és Írországban, valamint a kontinentális Európa legtöbb részén, különösen északon és a középső tájakon. Gyakori Észak-Amerikában is, és feljegyezték Iránban és Kelet-Anatóliában.",
+      cap: "A kalap 2–7 cm átmérőjű. Kénsárga színű, a közepén gyakran sárgásbarna, és domború vagy kissé púpos. Sötét burokmaradványok tapadnak a szegélyéhez.",
+      hymenium: "A lemezek sűrűn állók és a tönkhöz nőttek. Kezdetben kénsárgák, majd olívzöldek, és feketévé válnak, ahogy a spórák beérnek.",
+      stipe: "A tönk többé-kevésbé a kalap színével megegyező, és a töve felé barnább. Hossza 5–12 cm, vastagsága 0,5–1 cm, és rendszerint görbült.",
+      flesh: "A kalap húsa kénsárga és meglehetősen tömör. Szaga gombaszerű és nem jellegzetes. Íze rendkívül keserű.",
+      sporePrint: "Lilásbarna. A spórák ellipszoidok és simák, méretük 6–7,8 × 4–4,5 μm, kis csíranyílással.",
+      habitat: "A termőtestek egész évben megjelennek, és júniustól novemberig a legbőségesebbek. Tuskókon, kivágott törzseken és lombhullató fák egyéb elhalt faanyagán nő, tűlevelűeken pedig ritkábban. A fűben állónak tűnő csomók a földbe temetett fán fejlődnek. Időnként egy élő fa odvas törzsén is termőtestet hoz.",
+      uses: "Íze nagyon keserű. Egy elfogyasztott étel gyomorfájást, hányingert, hányást, hasmenést, átmeneti bénulást és látászavart okozhat, rendszerint öt-tíz órával később. A megbetegedés általában néhány nap alatt elmúlik, és csak nagyon ritkán halálos kimenetelű. Egy jelentett haláleset egy olyan étkezést követett, amely más gombákat is tartalmazott.",
+      confusion: "A vöröses kénvirággomba (Hypholoma lateritium) téglavörös kalapú, sárga lemezei pedig olívzöld helyett olívbarnává válnak. A fenyő-kénvirággomba (Hypholoma capnoides) fenyőfán nő, enyhe ízű a húsa, és halvány füstszürke lemezei vannak, bármiféle zöld árnyalat nélkül."
     }
     },
     sources: {
@@ -13770,16 +13769,16 @@ export const CATALOG = [
       notes: "Le popolazioni del Nord America orientale appartengono a specie affini secondo recenti studi filogenetici."
     },
     hu: {
-      description: "Füves területeken élő szaprotróf gomba. Széles körben elterjedt és gyakori Európában és Észak-Amerikában, valamint feljegyezték Ázsia egyes részeiről, Észak-Afrikából és Új-Zélandról is.",
-      cap: "A kalap 4–10 cm széles, kezdetben félgömb alakú, majd kiterül. Színe fehér vagy krémszínű, felülete száraz, selymesen sima vagy finoman szálas-pikkelyes, száraz időben felrepedezhet.",
-      hymenium: "A lemezek szabadon állók és sűrűn helyezkednek el. Fiatalon élénk rózsaszínűek, majd csokoládébarnára, végül feketésbarnára sötétednek. Soha nem maradnak fehérek.",
-      stipe: "A tönk 3–8 cm hosszú és 1–2 cm vastag, hengeres vagy a töve felé kissé keskenyedő, fehér színű. Rajta vékony, fehér, múlékony gallér látható, amely gyakran lekopik. Bocskora nincsen.",
-      flesh: "A hús fehér, elvágva alig változik, legfeljebb gyengén rózsásodik. Kellemes, mandulára vagy friss gombára emlékeztető illatú és jóízű.",
-      sporePrint: "Sötét csokoládébarna. A spórák oválisak vagy elliptikusak, simák, méretük 6,5–8,5 × 4,5–6 μm.",
-      habitat: "Tavasztól késő őszig terem legelőkön, mezőkön, füves réteken, kertekben és parkokban, leginkább trágyázott, legeltetett talajon, gyakran boszorkánykörökben.",
-      uses: "Kiváló ehető gomba, az egyik legkedveltebb és legízletesebb vadon termő csiperkefaj. Frissen sütve, levesekben, mártásokban vagy párolva egyaránt kiváló.",
-      confusion: "A halálosan mérgező fehér galócák, különösen a hegyeskalapú galóca (Amanita virosa) és a gyilkos galóca (Amanita phalloides) fehér lemezekkel és jól fejlett bocskorral bírnak, amelyek soha nem színeződnek rózsaszínre vagy barnára. A mérgező karbolszagú csiperke (Agaricus xanthodermus) tönk tövében elvágva azonnal élénksárgára színeződik, és kellemetlen karbol- vagy tintaszagot áraszt.",
-      notes: "Bár a boltban kapható kétspórás csiperkéhez (Agaricus bisporus) hasonlít, ez utóbbi más fajhoz tartozik, és spórái kettesével képződnek a bazídiumokon."
+      description: "Legeltetett rétek, gyepek és más füves helyek szaprotróf gombája, és ritkán található erdőben. Elterjedt és gyakori Nagy-Britanniában és Írországban, valamint Európa nagy részén. Jelentették Észak- és Dél-Afrikából, Ázsiából, Észak-Amerikából, Ausztráliából és Új-Zélandról is.",
+      cap: "A kalap 3–10 cm átmérőjű, fehér vagy krémesfehér, kezdetben domborútól a szélesen domborúig terjed, és az idősödéssel kiterül. Felszíne sima és fénylő vagy finoman selymes, olykor apró barnás vagy szálas pikkelyekre szakadozik szét, és a szegély rendszerint lefelé hajló vagy enyhén begöngyölt marad a részleges burok foszlányaival.",
+      hymenium: "A lemezek szabadon állók és sűrűn helyezkednek el, gyakori rövid lemezkékkel. Gombállapotban egy vékony fehér részleges burok fedi őket; kezdetben mélyrózsaszínűek, majd csokoládébarnává válnak, végül szinte feketék lesznek. Heilocisztídiumok és pleurocisztídiumok hiányoznak.",
+      stipe: "A tönk 3–10 cm magas és 1–2 cm vastag, körülbelül olyan hosszú, amilyen széles a kalap, fehér színű, hengeres vagy a töve felé keskenyedő. A vékony, múlékony fehér gallér felett sima, alatta finoman szálas, és megsértve vagy elvágva nem sárgul meg. Egy teljesen kiterült termőtest gyakran már csak halvány nyomait őrzi az összeesett gallérnak.",
+      flesh: "A hús vastag, kemény és fehér, elvágva néha halványan rózsaszínesre változik, és soha nem színeződik sárgára. Szaga és íze enyhe és kellemes, a termesztett csiperkééhez hasonló.",
+      sporePrint: "Sötét csokoládébarna. A spórák tojásdadoktól az ellipszoidig terjednek és simák, méretük 6,5–9 × 4–6 μm.",
+      habitat: "A termőtestek júniustól októberig jelennek meg. Eső után bújnak elő, magányosan, kis csoportokban vagy boszorkánykörökben, legelőkön, sportpályákon, parkokban és gyepeken.",
+      uses: "Kiváló csemegegomba, ha megfőzik és mértékkel fogyasztják. Ugyanúgy használják fel, mint a termesztett csiperkét: pirítva vagy sütve, rizottóban, omlettekben, levesekben és mártásokban. Mivel a termőtestek gyorsan érnek és rövid ideig tarthatók el, a fajt nem termesztik kereskedelmi forgalomban. A forgalmas utak mellől származó példányokat kerülni kell, mivel felhalmozzák a nehézfémeket és a szennyező anyagokat. Történelmileg Skócia egyes részein szeleteit borogatásként alkalmazták forrázásokra, égési sérülésekre és fekélyekre.",
+      confusion: "A sárguló csiperke (Agaricus xanthodermus) elvágva élénk krómsárgára színeződik a kalapbőrben és különösen a tönk tövében, fenol- vagy tintaszagú, és gyomor-bélrendszeri mérgezést okoz. Az erdőszéli csiperke (Agaricus arvensis) nagyobb termetű, sérülésre gyengén sárgul, ánizsszagú, és ehető. Az ízletes csiperke (Agaricus bitorquis) kettős gallérral rendelkezik, és tömörödött talajon nő ösvények mentén. A halálosan mérgező hegyeskalapú galóca (Amanita virosa), a fehér galóca (Amanita verna) és a gyilkos galóca (Amanita phalloides) fehér formái zsákszerű bocskorral bírnak a tövükön, tartósan fehér lemezeik és fehér spóraporuk van. A fűben növő mérgező fehér tölcsérgombafajok (Clitocybe fajok) lefutó fehér lemezekkel rendelkeznek. Észak-Amerikában a mérgező Agaricus californicus és Agaricus hondensis, valamint az ehető Agaricus andrewii és Agaricus solidipes hasonlóak.",
+      notes: "A Sziklás-hegységtől keletre szekvenált gyűjtések rokon fajokhoz tartoznak, Észak-Amerika nyugati részén pedig a nevet ideiglenesen alkalmazzák. Egy 2018-as felmérés (amelyet 2019-ben publikáltak, 2022-es hibajegyzékkel) nem fenyegetettként (Least Concern) sorolja fel. Vizes kivonatai in vitro inzulinszerű aktivitást mutattak a glükóz-anyagcserére."
     }
     },
     sources: {
@@ -14606,16 +14605,15 @@ export const CATALOG = [
       confusion: "Diverse altre specie affini di Leccinum crescono con betulla: il leccino a base azzurra (Leccinum cyaneobasileucum) arrossa o inazzurra alla base del gambo, mentre il leccino arancione (Leccinum versipelle) ha cappello arancione acceso."
     },
     hu: {
-      description: "Közepes vagy nagy termetű ektomikorrhizás tinórugomba. Európa-szerte nagyon gyakori nyírfák alatt; Észak-Amerikában és Ázsiában is széles körben elterjedt. Ausztráliába és Új-Zélandra telepített nyírfákkal hurcolták be.",
-      cap: "A kalap 5–15 cm átmérőjű, kezdetben domború, majd kissé kiterül és párnásan domborúvá válik. Színe szürkésbarna, sárgásbarna vagy sötét mogyoróbarna. Felülete sima, szárazon matt, nedves időben kissé ragadóssá válhat.",
-      hymenium: "A csövek hosszúak, a tönk körül mélyen bemetszettek. A pórusok aprók, fehéres vagy piszkos krémszínűek, idővel szürkésbarnára érnek. Megnyomva vagy elvágva nem vagy alig színeződnek el.",
-      stipe: "A tönk 7–20 cm magas és 1,5–3,5 cm vastag, karcsú, felfelé vékonyodó, fehéres vagy szürkésfehér alapon sűrű, szürkésfekete vagy sötétbarna pikkelykékkel (érdességekkel) borított.",
-      flesh: "A hús fehér, fiatalon tömör, később puha és szivacsossá válik; elvágva nem változtatja meg a színét, vagy legfeljebb nagyon enyhén rózsásodik a tönkcsúcsban. Illata és íze kellemes, enyhe.",
-      sporePrint: "Dohánybarna vagy fahéjbarna. A spórák orsó alakúak, simák, méretük 14–20 × 5–6,5 μm.",
-      habitat: "Nyártól késő őszig terem kizárólag nyírfák (Betula fajok) alatt, erdőkben, lápos területeken, parkokban és fás legelőkön.",
-      uses: "Ehető gomba, de a tönkje gyorsan fás és szívós lesz, kalapja pedig hamar megpuhul, ezért csak a fiatal példányok használhatók fel. Nyersen gyomorpanaszokat okozhat, ezért alapos főzést vagy sütést igényel. Ételkészítés közben a húsa feketésre sötétedik.",
-      confusion: "A többi érdestinórufaj is hasonlít rá: a nyárfa-érdestinóru (Leccinum duriusculum) kalapja sötétebb és húsa vágásra rózsaszínesre, majd szürkésfeketére pirul. A kormostönkű érdestinóru (Leccinum versipelle) és a tölgyfa-érdestinóru (Leccinum aurantiacum) kalapja narancssárga vagy téglavörös, és húsuk szintén elszíneződik.",
-      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) sorolja be."
+      description: "Nyírfák, köztük ültetett nyírek ektomikorrhizás gombája. Gyakori Nagy-Britanniában és Írországban, és elterjedt a kontinentális Európa-szerte Skandináviától a Földközi-tengerig és az Ibériai-félszigetig. Nagyon gyakori Észak-Amerikában, feljegyezték a Himalájából, és behurcolták Ausztráliába és Új-Zélandra.",
+      cap: "A kalap 5–15 cm átmérőjű. Kezdetben félgömb alakú, majd domború vagy párnás, és a kor előrehaladtával kiterül, gyakran hullámos szegéllyel. Felszíne fiatalon finoman bársonyos, később simább, szép időben száraz, nedvesen tapadóssá válik, a szürkésbarnától a sárgás- vagy vörösesbarnáig terjedő árnyalatokban. Nagyon fakó, majdnem fehér formája ritkán fordul elő.",
+      hymenium: "A csövek 1–2 cm hosszúak, és a tönk körül mélyen bemélyednek. A pórusok aprók és kör alakúak, fiatalon törtfehérek, az idősödéssel piszkosszürkévé vagy barnásszürkévé válnak. Megnyomva a pórusok lassan barnásra színeződnek kékülés helyett.",
+      stipe: "A tönk 7–20 cm hosszú és 1,5–3,5 cm vastag, fiatalon hordó alakú, később karcsún bunkós, felfelé keskenyedő, gallér nélkül. Felszíne fehértől a szürkésig terjed, durva hosszanti vonalakba rendeződő sötétbarna vagy fekete érdességekkel (gyapjas pikkelyekkel) borítva, amelyek a töve felé durvábbá válnak.",
+      flesh: "A hús fehéres, fiatal gombokban kemény, és nedves időben hamar puhává, szivacsossá és vizenyőssé válik. Az elvágott hús fehér marad vagy halványan rózsaszínesre pirul, anélkül, hogy megkékülne; megfőzve sötétszürkévé vagy feketévé válik. Szaga és íze enyhe és kellemes.",
+      sporePrint: "Olívbarna vagy dohányszínű barna. A spórák keskeny ellipszoidoktól a kissé orsó alakúig terjednek és simák, méretük mintegy 14–20 × 4,5–5,5 μm.",
+      habitat: "A termőtestek júniustól novemberig jelennek meg. A talajon nőnek kizárólag nyírfákkal – beleértve a közönséges nyírt (Betula pendula) és a molyhos nyírt (Betula pubescens) – erdőkben, fenyéreken és parkokban, valamint ültetett dísznyírek alatt Észak-Amerikában, Ausztráliában és Új-Zélandon.",
+      uses: "A fiatal, tömör termőtestek alapos megfőzés után ehetőek, bár húsa puhább a Boletus edulisénál, és egyes útmutatók textúráját gyengére értékelik. Vegyes gombaételekben, levesekben vagy szárítva használják, Finnországban és Oroszországban pedig gyakran sós lében vagy ecetben tartósítják. Mint minden Leccinum fajt, tilos nyersen fogyasztani.",
+      confusion: "Számos más, nyírfához kötődő Leccinum faj hasonló: a Leccinum cyaneobasileucum húsa a tönk tövében kékre színeződik; a Leccinum versipelle narancssárgás okker kalapú, feketés érdességekkel és kékeszöldre vagy ibolyásszürkére színeződő hússal bír; a Leccinum holopus végig halvány fehéres vagy zöldesbőrszínű; a Leccinum variicolor kalapja foltos és tönktöve kékeszöldre és korallvörösre színeződik; a Leccinum melaneum pedig nagyon sötétbarna vagy feketés kalapú. A Leccinum duriusculum húsa tömörebb, és nyárfákkal, rezgő nyárral él együtt. Nyersen vagy nem eléggé megfőzve minden Leccinum faj gyomor-bélrendszeri panaszokat okozhat."
     }
     },
     sources: {
@@ -15187,7 +15185,7 @@ export const CATALOG = [
       ru: ["маслёнок поздний","маслёнок настоящий"],
       fr: ["nonnette voilée"],
       it: ["pinaiolo","bavoso"],
-      hu: ["barna vajgomba","barnagyűrűs fenyőtinóru"]
+      hu: ["fenyőtinóru"]
     },
     text: {
       tr: {
@@ -15491,16 +15489,16 @@ export const CATALOG = [
       notes: "Una valutazione del 2018 classifica la specie a minor preoccupazione (Least Concern)."
     },
     hu: {
-      description: "Ektomikorrhizás gomba, a fenyvesek egyik leggyakoribb tinórufaja. Európában, Észak-Amerikában és Észak-Ázsiában őshonos; a déli féltekére (Dél-Amerika, Afrika, Ausztrália, Új-Zéland) erdeifenyő-ültetvényekkel hurcolták be.",
-      cap: "A kalap 4–12 cm átmérőjű, fiatalon félgömb alakú, később domború, végül kiterül. Színe sötétbarna, sárgásbarna vagy csokoládébarna. Felületét vastag, barna, erősen nyálkás és csúszós bőr borítja, amely könnyen és teljesen lehúzható a kalapról.",
-      hymenium: "A csövek rövidek, a pórusok kicsik, kerekek; fiatalon élénksárgák, később sötétsárgák vagy olívzöldesek lesznek. Fiatalon a pórusokat fehéres-lilás részleges burok (velum partiale) fedi.",
-      stipe: "A tönk 4–10 cm magas és 1–3 cm vastag, hengeres, a kalap alatt sárgás és apró szemcsékkel díszített. Felső harmadában feltűnő, hártyás, fehéres-lilás gallér található, amely a burok maradványa.",
-      flesh: "A hús fehéres vagy halványsárga, puha, lédús; elvágva nem változtatja a színét. Illata kellemes, gyümölcsös, íze enyhén savanykás.",
-      sporePrint: "Okkersárga vagy barnássárga. A spórák orsó alakúak, simák, méretük 7–10 × 3–3,5 μm.",
-      habitat: "Kora nyártól késő őszig terem kéttűs fenyők (főként erdeifenyő és feketefenyő) alatt, homokos, meszes vagy savanyú talajú erdőkben, erdőszéleken és ültetvényekben.",
-      uses: "Jóízű, ehető gomba. A csúszós kalapbőrt a hashajtó hatás elkerülése és az esztétikusabb megjelenés érdekében célszerű lehúzni elkészítés előtt. Levesekben, mártásokban, pirítva vagy ecetes savanyúságként kiváló.",
-      confusion: "A szemcsésnyelű fenyőtinóru (Suillus granulatus) nem visel gallért, és tönkcsúcsán tejfehér cseppeket választ ki. A fenyőtinóru (Suillus collinitus) tönk tövében rózsaszínes micéliumszövedék látható és nincs gallérja.",
-      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja számon."
+      description: "Fenyvesek és fenyőültetvények ektomikorrhizás gombája. Termőtestei gyakran nagy számban jelennek meg. Őshonos Eurázsia-szerte Írországtól Koreáig, és fenyőkkel behurcolták Észak- és Dél-Amerikába, Dél-Afrikába, Ausztráliába és Új-Zélandra. Gyakori Nagy-Britanniában és Írországban.",
+      cap: "A kalap jellemzően 4–10 cm átmérőjű, ritkán eléri a 20 cm-t. Kezdetben kúpos vagy félgömb alakú, majd domború, később szélesen domborútól a majdnem laposig terül el, néha alacsony púppal. Színe sötét gesztenyebarna, vörösesbarna vagy csokoládébarna, sárgásbarnára vagy tompa barnássárgára fakulva, és gyakran sugarasan sávos. Nedves időben vastag nyálkaréteg borítja, szárazon fénylővé válik, a kalapbőr pedig könnyen lehúzható. Fiatal termőtesteknél a részleges burok foszlányai gyakran lecsüngenek a szegélyről.",
+      hymenium: "A csövek 3–10 mm mélyek, a tönkhöz nőttek vagy kissé lefutók, és könnyen lefejthetők a kalaphúsról. Kezdetben egy hártyás, fehéres részleges burok fedi őket; a pórusok kicsik (milliméterenként mintegy 2–3 található belőlük), kerekdedek vagy szögletesek, fiatalon citromsárgák, az öregedéssel olívasárgára vagy barnássárgára sötétednek. Nem kékülnek nyomásra.",
+      stipe: "A tönk 3–10 cm magas és 1,5–3 cm vastag, hengeres vagy a tövénél enyhén megvastagodott, fehér bazális micéliummal. A hártyás részleges burok egy feltűnő lecsüngő gallért hagy hátra, amely felül fehéres, alul sötétbarna, lilásbarna vagy ibolyaszínű, a kor előrehaladtával gyakran a tönkre tapadva összeesik. A gallér felett a halványsárga felületet fahéjszínű vagy sötétbarna mirigyszemcsék pontozzák; a gallér alatt a tönk piszkosfehéres vagy barnás, és gyakran nyálkás.",
+      flesh: "A hús fehér vagy halvány citromsárga, vágásra nem változik, és éretten puha és szivacsos. Szaga gyenge és gyümölcsös, íze enyhe és kellemes.",
+      sporePrint: "Okker-agyagbarna vagy fahéjbarna. A spórák megnyúlt ellipszoidoktól a kissé orsó alakúig terjednek és simák, méretük 7–10,5 × 2,5–3,5 μm.",
+      habitat: "A termőtestek főként késő nyáron és ősszel jelennek meg (Nagy-Britanniában és Írországban augusztustól novemberig), valamint melegebb éghajlaton és a déli félteke fenyőültetvényeiben a tavaszi vagy téli esőzések után. Csoportosan nőnek, gyakran nagy seregekben vagy boszorkánykörökben kéttűs fenyők alatt, különösen erdeifenyő (Pinus sylvestris) és feketefenyő (Pinus nigra) társaságában.",
+      uses: "Jó ehető gomba, amelyet sokfelé fogyasztanak és szárítanak is. A ragadós, nyálkás kalapbőrt el kell távolítani a felhasználás előtt, mert emésztési zavarokat vagy hasmenést okozhat. Levesekbe, ragukba és mártásokba kitűnő.",
+      confusion: "A szemcsésnyelű fenyőtinóru (Suillus granulatus) nagyon hasonló, de tönkjén egyáltalán nincs gallér, a tönkcsúcson pedig fehéres cseppeket és barnás mirigyszemcséket visel. A fenyő-tinóru (Suillus bovinus) kisebb méretű, pórusai tágabbak és összenőttek, gallérja nincs. A sárga gyűrűstinóru (Suillus grevillei) vörösfenyő alatt nő, aranysárga vagy narancssárga színű kalappal.",
+      notes: "Gyakori mikorrhizapartner a fenyőtelepítésekben, segítve a fiatal fák megtelepedését."
     }
     },
     sources: {
@@ -16333,15 +16331,15 @@ export const CATALOG = [
       notes: "Un antico affresco romano di Ercolano è ritenuto una delle prime raffigurazioni certe di questo fungo."
     },
     hu: {
-      description: "Ektomikorrhizás tejelőgomba. Európában és a Földközi-tenger vidékén széles körben elterjedt és nagyra értékelt étkezési gomba, amely kéttűs fenyőkkel él szimbiózisban. Behurcolták Chilébe, Ausztráliába és Új-Zélandra.",
-      cap: "A kalap 4–15 cm átmérőjű, kezdetben domború, majd közepe bemélyedővé, végül tölcséressé válik. Színe narancssárga, téglavöröses, felületén jellegzetes sötétebb narancsszínű koncentrikus zónák figyelhetők meg. Idősebb korban vagy megsérülve zöldes, szürkészöldes foltok jelennek meg rajta.",
-      hymenium: "A lemezek sűrűn állók, a tönkre kissé lefutók, élénk narancssárgák. Megsértve élénk narancsvörös tejnedvet eresztenek, amely később lassan piszkoszöldre színeződik.",
-      stipe: "A tönk 3–7 cm hosszú és 1,5–2,5 cm vastag, hengeres, a kalappal megegyező narancssárga színű, felületén apró, kerek, sötétebb narancsszínű gödröcskékkel (pöttyökkel) tarkított. Idővel belül üregessé válik.",
-      flesh: "A hús kemény, merev, törékeny, fehér, de a tejnedvtől narancssárgára színeződik, sérülésre zöldül. Kellemes, gyümölcsös illatú, íze enyhe, kissé fűszeres, kesernyés utóízzel.",
-      sporePrint: "Halvány krémsárga vagy okkeres. A spórák elliptikusak, méretük 7,5–9,5 × 6–7 μm, felszínükön hálózatos díszítettséggel.",
-      habitat: "Nyár végétől késő őszig terem kéttűs fenyők (erdeifenyő, feketefenyő) alatt, homokos, meszes talajon, gyakran fűben, erdőszéleken.",
-      uses: "Kiváló csemegegomba! Különösen népszerű Spanyolországban (Katalóniában). Legjobb hirtelen átsütve, vajban vagy olívaolajban pirítva, valamint savanyúságként elrakva. Fogyasztása után a vizeletet ártalmatlanul vörösesre színezheti.",
-      confusion: "A lucfenyvesi rizike (Lactarius deterrimus) lucfenyők alatt nő, kalapja erősebben és gyorsabban zöldül, tönkje nem vagy alig gödrös. A vörösbarna tejelőgomba (Lactarius quietus) és a többi tejelőgomba fehér vagy sárgás tejnedvet választ ki, amely nem narancssárga.",
+      description: "Kéttűs fenyőkkel ektomikorrhizát képező tejelőgomba. Európában elterjedt és a fenyvesekben gyakori faj. Észak-Amerikába, Dél-Afrikába, Ausztráliába és Új-Zélandra a fenyőtelepítésekkel hurcolták be.",
+      cap: "A kalap 4–12 cm átmérőjű, kezdetben domború, majd tölcséresen bemélyedővé válik. Színe narancssárga vagy sárgásnarancs, koncentrikus sötétebb narancssárga vagy zöldes gyűrűkkel, zónákkal díszítve. Idővel a felületén, különösen a sérüléseken, piszkoszöldes vagy szürkészöldes foltok jelennek meg. Szegélye fiatalon begöngyölt, később kiterül.",
+      hymenium: "A lemezek élénk narancssárgák, sűrűn állók, a tönkre enyhén lefutók. Nyomásra vagy sérülésre lassan piszkoszöldre színeződnek. Megsértve élénk narancsvörös tejnedvet eresztenek.",
+      stipe: "A tönk 3–7 cm hosszú és 1,5–2,5 cm vastag, hengeres, a kalaphoz hasonló színű narancssárga alapon sötétebb narancsszínű gödörkékkel pettyezett. Belül hamar üregessé válik.",
+      flesh: "A hús tömör, merev, pattanva törő, fehéres-narancssárga, elvágva bőséges répasárga vagy narancsvörös tejnedvet választ ki, amely lassanként piszkoszöldre változik. Illata kellemesen fűszeres, gyümölcsös, íze enyhe, kissé kesernyés aromával.",
+      sporePrint: "Világos krémszínű, enyhe lazacrózsaszín árnyalattal. A spórák széles ellipszoidok, méretük mintegy 7–9 × 6–7 μm, felszínükön amiloid mintázattal.",
+      habitat: "A termőtestek augusztustól novemberig jelennek meg. Homokos és meszes talajú fenyvesekben él kéttűs fenyők, különösen erdeifenyő (Pinus sylvestris) alatt.",
+      uses: "Kiváló csemegegomba, a legfinomabb tejelőgombák egyike. Különösen népszerű vajban hirtelen átsütve, grillezve vagy savanyúságnak eltéve. Fogyasztása után a vizeletet ártalmatlanul vörösesre színezheti a benne lévő színezőanyag.",
+      confusion: "A lucfenyvesi rizike (Lactarius deterrimus) lucfenyő alatt nő, jóval erősebben és gyorsabban zöldül, tejnedve 20-30 perc után borvörösre, majd zöldre változik. A vörösbarna tejelőgomba (Lactarius quietus) tölgy alatt terem, húsa fehér tejet ad. A mérgező begöngyöltszélű tejelőgomba (Lactarius torminosus) kalapja rózsásbarna és erősen szőrös, bolyhos szegélyű, tejnedve fehér és nagyon csípős.",
       notes: "Magyarországon 2022-ben az év gombája volt."
     }
     },
@@ -17169,16 +17167,16 @@ export const CATALOG = [
       confusion: "L'amanita primaverile (Amanita verna) cresce in primavera-estate in pianura sotto latifoglie termofile e non vira a giallo con KOH. I prataioli (Agaricus) hanno lamelle rosa o cioccolato e mancano di volva membranosa alla base."
     },
     hu: {
-      description: "Halálosan mérgező ektomikorrhizás gomba. Elterjedt Észak- és Közép-Európában, valamint Ázsia egyes mérsékelt részein; északon gyakoribb, míg délen a hegyvidéki erdőkre korlátozódik. Nagy-Britanniában ritka és helyhez kötött.",
-      cap: "A kalap 4–10 cm átmérőjű, kezdetben tojásdad vagy kúpos, később harang alakúvá, majd domborúvá válik, gyakran csúcsos púppal a közepén. Színe tiszta hófehér, idős korban a közepe kissé sárgás lehet. Felülete szárazon selymes fényű, nedves időben nyálkás és ragadós; ritkán tapadnak rá fehér burokfoszlányok.",
-      hymenium: "A lemezek tiszta fehérek, szabadon állók, sűrűn helyezkednek el, a kor előrehaladtával sem színeződnek el.",
-      stipe: "A tönk 8–15 cm magas és 1–2 cm vastag, karcsú, fehér színű, felülete jellegzetesen pelyhes-gyapjas, pikkelyes vagy rongyos. Felső részén vékony, szakadozott, fehér gallér található, amely könnyen lekophat. Tövénél gumós, és mély, fehér, zsákszerű bocskor övezi.",
-      flesh: "A hús fehér, elvágva nem változtatja a színét. Szaga fiatalon nem feltűnő, idősebb korban kellemetlen, édeskés, émelyítő, rothadó virágra emlékeztető.",
-      sporePrint: "Fehér. A spórák gömbölydedek, simák, méretük 8–10 μm, erősen amiloidak (jódoldatra kékülnek).",
-      habitat: "Nyártól őszig terem savanyú talajú erdőkben, leggyakrabban lucfenyő, erdeifenyő és nyír alatt.",
-      uses: "Halálosan mérgező! A gyilkos galócához hasonlóan nagy mennyiségű amatoxint és fallotoxint tartalmaz, amelyek súlyos máj- és vesekárosodást okoznak. A mérgezési tünetek hosszú, 6–24 órás lappangási idő után lépnek fel, és a mérgezés kimenetele gyakran végzetes.",
-      confusion: "A fehér csiperkék (Agaricus fajok) lemezei fiatalon rózsaszínesek, később csokoládébarnák lesznek, és nincsen bocskoruk. A fehér galóca (Amanita verna) tavaszi faj, tönkje simább, kalapja domborúbb. A fehér színű galambgombák (Russula fajok) nem rendelkeznek gallérral és bocskorral, húsuk pattanva törik.",
-      notes: "Egy 2019-es IUCN-értékelés nem fenyegetettként (Least Concern) sorolta be."
+      description: "Erdei ektomikorrhizás gomba. A síkvidékeken ritka, a hegyvidéki és északi erdőkben gyakoribb. Őshonos Európában és Ázsia északi részein, főként hűvösebb fenyvesekben és savanyú talajú erdőkben fordul elő.",
+      cap: "A kalap 5–10 cm átmérőjű, némely termőtest eléri a 12 cm-t. Kezdetben tojásdad vagy kúpos, tiszta fehér, később kúp alakúból domborúvá válik, gyakran tompa kúppal vagy púpocskával a közepén, ritkán teljesen lapos. Színe hófehér marad, idővel a közepe felé enyhén sárgás vagy krémszínű árnyalatot kaphat. Felszíne szárazon selymes, nedves időben ragadós.",
+      hymenium: "A lemezek szabadon állók, nagyon sűrűn helyezkednek el, tiszta fehérek maradnak az öregedés során is.",
+      stipe: "A tönk 9–15 cm hosszú és 0,6–2 cm vastag, tiszta fehér, szálas, és gyakran kissé hajlott. Felső részén egy törékeny, vékony, lecsüngő fehér gallér található, amely könnyen elszakad és a tönkre tapadva elenyészhet. A tönk felszíne a gallér alatt durván pelyhes, szálas-pikkelyes. Töve gumósan megvastagodott, és egy tágas, laza, hártyás fehér bocskor veszi körül.",
+      flesh: "A hús tiszta fehér, elvágva nem színeződik el. Kálium-hidroxid (KOH) hatására a hús és a kalap azonnal élénksárgára színeződik. Szaga fiatalon nem jellegzetes, idős korban kellemetlen, édeskés vagy rothadó virágokra emlékeztető.",
+      sporePrint: "Fehér. A spórák gömbölydedek vagy szubglobózusak, simák, méretük 7–10 μm, erősen amiloidak (jódoldatra sötétkékre színeződnek).",
+      habitat: "A termőtestek nyár végétől késő őszig (augusztustól novemberig) jelennek meg. Savanyú talajú hegyvidéki erdőkben terem, legfőképpen lucfenyő, erdeifenyő és nyír alatt.",
+      uses: "Halálosan mérgező gomba! Amatoxinokat és fallotoxinokat tartalmaz, akárcsak a gyilkos galóca. Egyetlen kalap elfogyasztása is elegendő egy felnőtt ember halálos mérgezéséhez. A méreganyagok a májat és a vesét támadják meg, a tünetek 8–24 órás késéssel jelentkeznek.",
+      confusion: "A fehér galóca (Amanita verna) tavasszal terem, és húsa nem sárgul KOH-ra. A gyilkos galóca (Amanita phalloides) fehér színváltozata nem kúpos kalapú, és tönkje simább, kígyóbőrszerű. A fehér színű csiperkefajok (Agaricus fajok) lemezei fiatalon rózsaszínesek, később csokoládébarnák, és nincs bocskoruk.",
+      notes: "A gombászoknak minden fehér galóca gyűjtését szigorúan kerülniük kell."
     }
     },
     sources: {
@@ -17971,16 +17969,16 @@ export const CATALOG = [
       notes: "È inserito come specie vulnerabile nelle liste rosse di diversi paesi europei."
     },
     hu: {
-      description: "Nagy termetű, mérgező ektomikorrhizás tinórugomba. Melegkedvelő európai faj, amely a melegebb tölgyesekben és bükkösökben él, meszes talajon. Észak- és Nyugat-Európában ritka és védelemre szorul.",
-      cap: "A kalap 10–25 cm (akár 30 cm) átmérőjű, kezdetben félgömb alakú, majd párnásan domborúvá válik. Színe fehéres, krémszínű, krémszürke vagy világos ezüstszürke, olykor olívás árnyalattal. Felülete matt, finoman nemezes, később csupasszá válik.",
-      hymenium: "A csövek sárgásak, majd zöldessárgák. A pórusok fiatalon sárgák, de nagyon korán élénk kárminvörösre, narancsvörösre vagy vérvörösre színeződnek; nyomásra vagy érintésre kékülnek.",
-      stipe: "A tönk 5–15 cm magas és 4–10 cm vastag, fiatalon vaskos, gömbölyded vagy hordó alakú, később gumós. A tetején sárgás, középen és alul élénk kárminvörös vagy vérpiros; felületét finom, vörös hálózat borítja.",
-      flesh: "A hús fehéres vagy halványsárga, elvágva lassan, gyengén kékül. Fiatalon gyenge gombaszagú, idős korban rendkívül büdös, rothadó dög- vagy hullaszagot áraszt.",
-      sporePrint: "Olívbarna. A spórák orsó alakúak, simák, méretük 11–15 × 5–7 μm.",
-      habitat: "Nyáron és kora ősszel terem, melegkedvelő lomberdőkben (tölgy, bükk, gyertyán és szelídgesztenye alatt), kizárólag meszes alapkőzeten.",
-      uses: "Súlyosan mérgező gomba! Boleszatint nevű glikoproteint és más gyomor-bélrendszeri méreganyagokat tartalmaz. Fogyasztása heves, szűnni nem akaró hányást, véres hasmenést és súlyos kiszáradást okoz. Főzve is mérgező maradhat.",
-      confusion: "A bíborvörös tinóru (Rubroboletus rhodoxanthus) és a Rubroboletus legaliae kalapja rózsás árnyalatú, és húsuk intenzívebben kékül. A céklatinóru (Neoboletus luridiformis) kalapja sötétbarna, tönkje pelyhes és húsa vágásra azonnal sötétkékre színeződik. A farkastinóru (Caloboletus calopus) kalapja szürke, de pórusai sárgák és húsa keserű.",
-      notes: "Egy 2019-es felmérés mérsékelten fenyegetettként (Near Threatened) tartja számon csökkenő európai állománya miatt."
+      description: "Melegkedvelő lomberdők ektomikorrhizás gombája. Dél- és Közép-Európa meszes talajú meleg tölgyeseiben, bükköseiben honos, észak felé ritkul; a Brit-szigeteken ritka és védendő. Ázsia egyes részein is feljegyezték.",
+      cap: "A kalap 10–25 cm (ritkán akár 30 cm) átmérőjű, nagyon vaskos és súlyos. Kezdetben félgömb alakú, majd párnásan domborúvá válik. Színe fehéres, krémszínű, világos szürkésfehér vagy szürkészöldes, a szélén olykor enyhe rózsaszínes beütéssel. Felülete finoman bársonyos, idővel lecsupaszodó.",
+      hymenium: "A csövek zöldessárgák, majd sérülésre kékülnek. A pórusok fiatalon sárgák, de nagyon korán élénk vérvörössé, kárminpirossá válnak, a széle felé narancsos átmenettel. Nyomásra azonnal sötétkékre vagy zöldeskékre színeződnek.",
+      stipe: "A tönk 5–15 cm magas és 4–10 cm vastag, rendkívül vaskos, fiatalon gumós vagy gömbölyded, később hordó alakú. Sárga alapon élénk kárminpiros, vérvörös, finom vörös hálózattal díszítve.",
+      flesh: "A hús fehéres vagy halványsárga, elvágva lassan és gyengén kékül vagy zöldeskékre színeződik. Fiatalon kellemes szagú, de az idős termőtestek elviselhetetlenül bűzösek, rothadó húsra vagy dögre emlékeztető szagot árasztanak. Íze enyhe.",
+      sporePrint: "Olívbarna. A spórák simák, orsó alakúak, méretük mintegy 11–15 × 5–7 μm.",
+      habitat: "A termőtestek a nyári kánikulában, júliustól szeptemberig jelennek meg. Meleg, meszes talajú lomberdőkben él, különösen tölgy, bükk, gyertyán és szelídgesztenye alatt.",
+      uses: "Mérgező gomba! Boleszatint és más gyomor-bélrendszeri toxinokat tartalmaz, amelyek súlyos, csillapíthatatlan hányást, hasmenést, görcsöket és kiszáradást okoznak még alapos főzés után is.",
+      confusion: "A farkastinóru (Caloboletus calopus) kalapja szürkésfehér, de pórusai citromsárgák maradnak, nem pirosak, és húsa nagyon keserű. A bíborvörös tinóru (Rubroboletus rhodoxanthus) kalapja rózsás árnyalatú, húsa a kalapban élénksárga és azonnal mélykékre színeződik. A változékony tinóru (Suillellus luridus) kalapja olívbarna, tönkjén durva hálózat található.",
+      notes: "A legnagyobb és legfeltűnőbb melegkedvelő tinórufélék egyike; Magyarországon és Európa-szerte számos helyen kímélendő ritkaság."
     }
     },
     sources: {
@@ -18781,16 +18779,16 @@ export const CATALOG = [
       confusion: "Il cortinario orellano (Cortinarius orellanus) cresce sotto latifoglie (querce e faggi) su terreno asciutto e ha umbone meno acuto."
     },
     hu: {
-      description: "Halálosan mérgező ektomikorrhizás gomba. Észak- és Közép-Európában, valamint Észak-Amerikában honos, főként hegyvidéki és északi fenyvesekben él. Nagy-Britanniában Skóciában és Észak-Angliában fordul elő.",
-      cap: "A kalap 3–8 cm átmérőjű, kezdetben kúpos vagy harang alakú, később kiterül, de a közepén mindig megőriz egy éles, csúcsos púpot. Színe egységesen meleg rókavörös, rozsdabarna vagy fahéj-vörösesbarna. Felülete száraz, finoman pikkelykés vagy nemezes-szálas.",
-      hymenium: "A lemezek ritkán állók, a tönkhöz nőttek, kezdetben okkervörösesek vagy rozsdabarnák, a spórák érésével fahéjbarnára, rozsdásbarna színűre sötétednek. Fiatalon sárgásfehér pókhálószerű burok (kortina) köti össze a kalap szélét a tönkkel.",
-      stipe: "A tönk 5–12 cm hosszú és 0,5–1,5 cm vastag, hengeres vagy a töve felé kissé vastagodó, a kalaphoz hasonló színű. Felületén sárgás burokmaradványokból álló, elmosódott sávok vagy övek láthatók.",
-      flesh: "A hús sárgásvörös vagy rozsdasárga, a tönk tövében sötétebb. Enyhe retekszagú, íze nem jellegzetes.",
-      sporePrint: "Rozsdabarna. A spórák széles elliptikusak vagy mandula alakúak, felületük finoman szemölcsös, méretük 9–11,5 × 6,5–8,5 μm.",
-      habitat: "Nyár végétől késő őszig terem nedves, savanyú talajú fenyvesekben, tőzegmohalápok szélén, leginkább lucfenyő és erdeifenyő alatt, gyakran áfonyásban.",
-      uses: "Halálosan mérgező! Orellanint tartalmaz, amely rendkívül erős, hőálló veseméreg. A mérgezési tünetek extrém hosszú lappangási idő (2–14 nap) után jelentkeznek szájszárazsággal, égő szomjúsággal, majd veseelégtelenséggel és halállal. A főzés nem semlegesíti a mérget.",
-      confusion: "A mérges pókhálósgomba (Cortinarius orellanus) lomberdőkben (tölgy, bükk alatt) él, kalapja tompább, nem élesen csúcsos púppal bír. Az ehető rókagombák (Cantharellus fajok) ráncos termőrétegűek és sárga spóraport adnak. A fenyves sisakgomba (Galerina marginata) kisebb termetű és fatuskón nő.",
-      notes: "Egy 2019-es IUCN-felmérés nem fenyegetettként (Least Concern) tartja számon."
+      description: "Halálosan mérgező ektomikorrhizás gomba. Észak- és Közép-Európában, valamint Észak-Amerikában honos, főként hegyvidéki és északi fenyvesekben él. Nagy-Britanniában Skóciában és Észak-Angliában fordul elő leginkább.",
+      cap: "A kalap 3–8 cm átmérőjű, kúpos vagy harang alakú, közepén hegyes, kifejezett púpocskával. Színe egységesen meleg rókavörös, rozsdabarna vagy fahéjbarna, felszíne finoman nemezes vagy pikkelykés, száraz.",
+      hymenium: "A lemezek ritkán állók, vastagok, a tönkhöz nőttek, kezdetben sárgásbarnák vagy rozsdavörösek, később a spóráktól mély rozsdabarnává érnek. Fiatalon sárgás pókhálószerű burok (kortina) fedi őket.",
+      stipe: "A tönk 5–12 cm hosszú és 0,5–1,5 cm vastag, hengeres vagy a tövénél kissé vastagabb, a kalaphoz hasonló rozsdabarna színű, rajta sárgás színű, kígyóbőrszerű vagy sávos burokmaradványok láthatók.",
+      flesh: "A hús sárgás vagy rozsdabarna, a tönk tövében vörösesbarna. Kellemetlen retek- vagy jódillatú, íze enyhe.",
+      sporePrint: "Rozsdabarna. A spórák széles ellipszoidok, durván szemölcsösek, méretük mintegy 9–11 × 7–9 μm.",
+      habitat: "Nyár végétől késő őszig terem savanyú talajú, nedves fenyőerdőkben, tőzegmohalápok szélén, lucfenyő és erdeifenyő alatt.",
+      uses: "Halálosan mérgező! Orellanint tartalmaz, egy rendkívül alattomos méreganyagot, amelynek lappangási ideje szokatlanul hosszú (2–14 nap). A méreg a veséket támadja meg és visszafordíthatatlan veseelégtelenséget, dialízis-szükségletet vagy halált okoz.",
+      confusion: "A mérges pókhálósgomba (Cortinarius orellanus) lomberdőkben nő tölgy alatt, kalapja laposabb és nem kúpos. Az ehető rókagombák (Cantharellus fajok) sárgák, állemezeik vannak, nem kúposak és nem rozsdabarnák.",
+      notes: "Az egyik legveszélyesebb európai nagygomba a rendkívül hosszú lappangási idő miatt."
     }
     },
     sources: {
@@ -19553,16 +19551,16 @@ export const CATALOG = [
       notes: "Una valutazione del 2024 classifica la specie a minor preoccupazione (Least Concern)."
     },
     hu: {
-      description: "Ektomikorrhizás gomba. Széles körben elterjedt és gyakori Európában és Észak-Amerikában. Lomberdőkben, különösen bükkösökben és tölgyesekben nő, gyakran csoportosan vagy sűrű csomókban a talajon.",
-      cap: "A termőtest 3–10 cm magas és 2–8 cm széles, mélyen tölcséres vagy trombita formájú, amely egészen a tönk aljáig üreges. Belső felülete barnásfekete vagy fekete, finoman pikkelykés-szálas, széle hullámos, visszahajló és karéjos. Nedvesen mélyfekete, szárazon szürkésbarna színűvé fakul.",
-      hymenium: "A külső, alsó felület alkotja a termőréteget. Sima vagy enyhén hullámos, ráncos, nem visel valódi lemezeket. Színe hamuszürke vagy kékesfekete, a lepergő spóráktól fehéresen porozottá válhat.",
-      stipe: "Különálló tönkje nincsen; a trombita alsó része elkeskenyedve közvetlenül a tönköt képezi, amely szintén üreges és fekete színű.",
-      flesh: "A hús nagyon vékony, rugalmas, szárazon törékeny és fekete. Kellemes, gyümölcsös vagy sárgabarackra emlékeztető illatú, íze kitűnő.",
-      sporePrint: "Fehér vagy halvány krémszínű. A spórák elliptikusak, simák, méretük 11–15 × 7–9 μm.",
-      habitat: "Késő nyártól késő őszig terem lomblevelű erdőkben (főként bükk és tölgy alatt), nyirkos talajon és vastag avarban, sokszor a moha között rejtőzve.",
-      uses: "Kiváló csemegegomba! Különösen szárítva értékes, mivel aromája a szárítás során még intenzívebbé válik. Porrá őrölve pompás fűszerként használják levesek, szószok, rizottók és húsételek ízesítésére.",
-      confusion: "A szürke rókagomba (Cantharellus cinereus) külső felszínén határozott, villásan elágazó lefutó ráncok (eres lécek) találhatók. A fodros trombitagomba (Pseudocraterellus undulatus) kalapja világosabb barna és sűrűn fodros szélű.",
-      notes: "Magyarországon 2015-ben az év gombája volt."
+      description: "Lomberdők talaján növő ektomikorrhizás gomba, különösen bükk és tölgy alatt. Széles körben elterjedt és helyenként bőséges Európában, Észak-Amerikában és Ázsiában.",
+      cap: "A termőtest 3–10 cm átmérőjű és 5–12 cm magas, mélyen tölcséres vagy trombita alakú, egészen a tönk aljáig csőszerűen üreges. Színe nedvesen koromfekete vagy sötétszürke, szárazon szürkésbarna vagy hamuszürke. Szegélye hullámos, begöngyölt, majd visszahajló és gyakran szabálytalanul hasadozott.",
+      hymenium: "A külső, termőréteget hordozó felszín szinte sima vagy finoman ráncos, hamvas szürke vagy kékesszürke színű, valódi lemezek vagy bordák nélkül.",
+      stipe: "Különálló tönkje nincs; a tölcsér lefelé fokozatosan keskenyedő, üreges csőként folytatódik a talajig, színe megegyezik a termőtestével.",
+      flesh: "A hús nagyon vékony, rugalmas, szívós, sötétszürke vagy fekete. Szaga kellemesen gyümölcsös, kajszibarackra vagy szarvasgombára emlékeztető, íze enyhe, kiváló fűszeres aromával.",
+      sporePrint: "Fehér vagy halvány krémszínű. A spórák simák, széles ellipszoidok, méretük mintegy 11–14 × 7–9 μm.",
+      habitat: "A termőtestek nyár végétől késő őszig (augusztustól novemberig) jelennek meg. Lombhullató erdőkben, különösen bükk és tölgyesek avarján él, savanyú vagy meszes talajon, gyakran hatalmas, sűrű csoportokban, de sötét színe miatt a száraz avaron nehezen észrevehető.",
+      uses: "Kiváló csemegegomba és rendkívül értékes fűszergomba. Kiválóan szárítható; szárítva aromája felerősödik, könnyen porrá őrölhető, és levesek, sültek, mártások és tésztafélék fűszerezésére használják.",
+      confusion: "A fodros trombitagomba (Pseudocraterellus undulatus) kalapja világosabb barna és széle erősen fodros. A szürke rókagomba (Cantharellus cinereus) külső felszínén jól kivehető ráncok, lécek találhatók.",
+      notes: "Franciaországban a „halál kürtjének” (trompette de la mort) is nevezik fekete színe miatt, ám kitűnő ehető gomba. Magyarországon 2015-ben az év gombája volt."
     }
     },
     sources: {
@@ -20378,16 +20376,16 @@ export const CATALOG = [
       notes: "Nell'Europa continentale è l'unica specie rappresentante del genere Fistulina."
     },
     hu: {
-      description: "Fakárosító parazita és szaprotróf taplógomba, amely barna szíjácskorhadást okoz tölgyfákon és gesztenyefákon. Elterjedt Európában és Észak-Amerikában az idős tölgyesekben.",
-      cap: "A termőtest konzolos, nyelv vagy máj alakú, 10–25 cm (akár 30 cm) széles és 2–6 cm vastag. Felszíne fiatalon érdes, szemölcsös, nyálkás és tapadós, vérvörös vagy húsvörös színű, idős korban sötét májvörösre vagy vörösesbarnára sötétedik.",
-      hymenium: "A termőréteg alsó felületén apró, egymástól különálló csövek találhatók, amelyek nincsenek egymáshoz nőve (a taplók között egyedülálló módon). A pórusok fehéres-krémszínűek, majd vörösesbarnán foltosodnak, nyomásra vörösbarna cseppeket izzadnak.",
-      stipe: "Tönkje rövid, vaskos és oldalt álló, vagy a gomba közvetlenül a fa törzséhez kapcsolódik széles alappal.",
-      flesh: "A hús vastag, puha, lédús, vörösesen zónázott és rostos, megtévesztően emlékeztet a nyers marhahúsra vagy májra. Elvágva vörös, savanykás nedvet enged. Kellemesen savanykás ízű.",
-      sporePrint: "Rózsaszínes-barnás vagy sárgásbarna. A spórák oválisak, simák, méretük 4,5–6 × 3,5–4,5 μm.",
-      habitat: "Nyár végétől késő őszig terem idős tölgyfák (Quercus fajok) és szelídgesztenyék törzsén, tövén vagy tuskóján.",
-      uses: "Ehető gomba, fiatalon készítik el. Jellegzetes savanykás ízét magas C-vitamin- és savtartalma adja. Vékonyra szeletelve párolva, rántva vagy salátákban fogyasztják; a túlzott savasság mérséklésére áztatás ajánlott.",
-      confusion: "Jellegzetes hússzerű megjelenése, májszíne és szabad csövei miatt más fajjal aligha téveszthető össze. A sárga gévagomba (Laetiporus sulphureus) élénksárga és narancsszínű.",
-      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja számon."
+      description: "Élő és elhalt tölgyfák taplógombája, amely olykor szelídgesztenyén és egyéb lombhullató fákon is megjelenik. Elterjedt és meglehetősen gyakori Nagy-Britanniában és Írországban, a szárazföldi Európán át, valamint Észak-Amerikában, kiváltképp a Sziklás-hegységtől keletre. Afrikából, Ausztráliából, a szubtrópusi Indiából és a Kanári-szigetekről szintén jelentették.",
+      cap: "A konzol kezdetben majdnem gömb alakú és szemölcsös, majd nyelv alakúvá vagy félkörössé válik. Jellemzően 10–25 cm átmérőjű és 2–6 cm vastag. A nagy termőtestek elérik a mintegy 30 cm-es szélességet és a körülbelül 8 cm-es vastagságot, míg egy nagyon fiatal példány csupán körülbelül 5 cm átmérőjű lehet. A felső felszín durva vagy rostos, gyakran sugarasan sávozott, és nedves állapotban tapadós vagy nyálkás. A fiatal konzolok narancsvöröstől a vérvörösig terjednek, később májvörösek, lilásak vagy vörösesbarnák, és öreg korban sötétbarnák.",
+      hymenium: "A csövek szabadon állnak egymástól (nincsenek összenőve), és körülbelül 10–15 mm hosszúak. Fehéresek, krémszínűek, halvány rózsaszínűek vagy halványsárgák, később vörösesbarnák, és rozsdabarnára vagy mély vörösbarnára színeződnek megnyomásra. Az érett csövek csillag alakban nyílnak. A pórusok kicsik és kerekdedek, milliméterenként körülbelül 4–6 darab található belőlük. A bazídiumok bunkósak és négy spórásak. Pleurocisztídiumok nincsenek. A csövek nyílásainál lévő cisztídiumszerű hifavégek körülbelül 5–7 μm szélesek. A hifák monomitikusak, csatkapcsolatokkal, és némelyikük gleoplerotikus.",
+      stipe: "Gyakran jelen van egy rövid oldalsó tönk, amely körülbelül 1–5 cm hosszú és mintegy 4 cm széles, felül a kalaphoz hasonló színű, alul pedig pórushordozó. Számos konzolnak nincs tönkje, és egy elkeskenyedő oldalával rögzül.",
+      flesh: "A hús lédús és körülbelül 3–5 cm vastag. Sötétvöröstől a húsvörösig terjed, világosabb erekkel márványozott vagy sávozott, bár néhány észak-amerikai termőtest fehéres és vörösesen sávozott. Az elvágott hús tompa vörös levet enged ki. Szaga enyhe vagy kellemesen gombaszerű, íze pedig savanykás, enyhén savas vagy kissé kesernyés. Az idősebb hús szívóssá és bőrszerűvé válik.",
+      sporePrint: "A spórapor egyes leírásokban halvány rózsaszínessárga vagy rózsaszínes, másokban vörösesbarna, és ismét másokban okker-rozsdaszínű, amely rozsdabarnára sötétedik. Az európai spórák tojásdadoktól a csepp alakúig terjednek, simák és inamiloidak, méretük mintegy 4–6 × 3–4 μm. Az észak-amerikai spórák kisebbek, körülbelül 3–4 × 2–3 μm méretűek, simák, és széles mandula alakútól a kissé ellipszoidig vagy csepp alakúig terjednek.",
+      habitat: "A termőtestek júniustól novemberig, Nagy-Britanniában és Írországban főként júliustól októberig jelennek meg. Alacsonyan nőnek élő fatörzseken a sebeknél, valamint tuskókon és elhalt gyökereken, legfőképp tölgyön és szelídgesztenyén, ritkábban bükkön, diófán és kőrisen. A Kanári-szigeteken a babér a gazdanövény, Ausztráliában pedig az eukaliptusz sebeiről származnak a jelentések. A gomba élő tölgy gesztjén élősködik, és elhalt faanyagon is táplálkozik. A korhadás egy lassú barna korhadás, és az elszíneződött gesztfát nagyra becsülik a bútorgyártók.",
+      uses: "A fiatal termőtestek alapos főzés után ehetőek. Puhulásig párolják, sütik, vagy gulyásban, illetve ecetes savanyúságban használják fel őket. Íze savanykás és kissé kesernyés, a hús pedig gazdag tanninokban és nehezen emészthető. Egyes leírások jónak értékelik a fiatal termőtesteket, mások nem sorolják őket a jobb ehető gombák közé. Az idősebb termőtestek szívósak, és levük megzavarhatja a gyomrot, ezért a főzés előtt egy éjszakán át áztatják őket.",
+      confusion: "Az Inonotus hispidus erősen szőrös kalapú, és tölgyön, valamint almafán nő. A nagyon fiatal termőtestek hasonlíthatnak a Laetiporus sulphureusra, amely laposabb, egymás felett tetőcserépszerűen elhelyezkedő konzolokat képez. Az Ischnoderma egymással összenőtt csövekkel rendelkezik. A Buglossoporus quercinus hasonló helyeken nő, sárgásbarna kalapbőrrel és hosszabb spórákkal bír. A Daedaleopsis confragosa var. tricolor csupán mintegy 1 cm vastag, és lemezei vannak. A Pycnoporus cinnabarinus kisebb és fás állagú, megnyúlt szögletes pórusokkal.",
+      notes: "Észak-Európában ez a nemzetség egyetlen faja. A déli bükkökön élő Fistulina antarctica, Fistulina endoxantha és Fistulina pumiliae különálló fajok. A fertőzött tölgy gesztjét barna tölgyként (brown oak) értékesítik."
     }
     },
     sources: {
@@ -20920,7 +20918,8 @@ export const CATALOG = [
       ro: ['hrib cărămiziu'],
       ru: ["боровик зернистоногий"],
       uk: ["боровик зернистоногий"],
-      pl: ["borowik ceglastopory"]
+      pl: ["borowik ceglastopory"],
+      hu: ["sárgahúsú tinóru"]
     },
     text: {
       tr: {
@@ -21225,16 +21224,16 @@ export const CATALOG = [
       notes: "Il rapido viraggio all'azzurro-blu è causato dall'ossidazione all'aria dell'acido variegatico presente nella carne."
     },
     hu: {
-      description: "Nagy termetű, ektomikorrhizás tinórugomba. Európa-szerte gyakori lomblevelű és fenyőerdőkben, különösen savanyú talajokon és hegyvidéki tájakon.",
-      cap: "A kalap 6–20 cm átmérőjű, kezdetben félgömb alakú, majd párnásan domborúvá válik. Színe sötétbarna, gesztenyebarna, szarvasbarna vagy csaknem feketésbarna. Felülete szárazon finoman bársonyos, nemezes, nedvesen kissé tapadós.",
-      hymenium: "A csövek sárgásak, majd zöldessárgák; a pórusok aprók, élénk vérvörösek vagy narancsvörösek, a kalap széle felé sárgásak. Érintésre vagy megnyomva azonnal és intenzíven sötétkékre színeződnek.",
-      stipe: "A tönk 5–15 cm magas és 2–5 cm vastag, vaskos, henger vagy bunkó alakú. Sárga alapszínű, amelyet sűrű, finom kárminvörös vagy vérpiros pelyhek borítanak; hálózat nincsen rajta.",
-      flesh: "A hús élénksárga, elvágva azonnal és látványosan mélykékre (tintahordó kékre) változik, majd lassan zöldeskékre fakul. Kellemes, gyenge gombaszagú és enyhe ízű.",
-      sporePrint: "Olívbarna. A spórák orsó alakúak, simák, méretük 12–17 × 5–7 μm.",
-      habitat: "Kora nyártól késő őszig terem savanyú talajú erdőkben, tölgy, bükk, lucfenyő és erdeifenyő alatt.",
-      uses: "Feltételesen ehető, kitűnő csemegegomba! Nyersen vagy elégtelen hőkezelés esetén gyomor- és bélrendszeri panaszokat okozhat, ezért legalább 20 perces alapos főzés vagy sütés szükséges az elfogyasztásához. Főzés közben a kék szín eltűnik, és a hús visszanyeri sárgás színét.",
-      confusion: "A mérgező sátántinóru (Rubroboletus satanas) kalapja fehéres vagy krémszürke, és tönkjén vörös hálózat látható. A változékony tinóru (Suillellus luridus) tönkjén határozott, kiterjedt vörös hálózat van, és a kalapbőre világosabb olívbarna. A vörösbarna vargánya (Boletus pinophilus) csövei nem kékülnek és fehér a húsuk.",
-      notes: "A korábbi szakirodalomban Boletus erythropus néven szerepelt."
+      description: "Tűlevelű és lombos erdők ektomikorrhizás tinóruja. Elterjedt és gyakori Európában a hegyvidéki és dombvidéki erdőkben, különösen savanyú talajon. Észak-Amerikában és Ázsiában is megtalálható.",
+      cap: "A kalap 6–20 cm átmérőjű, kezdetben félgömb alakú, majd párnásan domborúvá válik. Színe sötétbarna, bársonyos barna, gesztenyebarna vagy feketésbarna, felszíne finoman velúros-nemezes.",
+      hymenium: "A csövek zöldessárgák, a pórusok aprók, élénk vérvörösek vagy narancsvörösek, nyomásra azonnal mélykékre színeződnek.",
+      stipe: "A tönk 5–15 cm hosszú és 2–5 cm vastag, vaskos, sárga alapon sűrűn borítják az apró, kárminvörös szemcsék és pettyek (hálózat nélkül!). Sérülésre kékül.",
+      flesh: "A hús élénksárga, elvágva azonnal látványos sötétkékre, indigókékre színeződik. Kellemes gombaillatú és enyhe ízű.",
+      sporePrint: "Olívbarna. A spórák simák, orsó alakúak, méretük mintegy 12–17 × 5–7 μm.",
+      habitat: "Májustól novemberig terem savanyú talajú fenyvesekben és bükkösökben, lucfenyő és bükk alatt.",
+      uses: "Kiváló ehető gomba, de csak alapos (legalább 20 perces) főzés vagy sütés után fogyasztható, nyersen súlyos gyomor-bélrendszeri tüneteket okoz. Hőkezeléskor a kék szín eltűnik és sárga lesz.",
+      confusion: "A változékony tinóru (Suillellus luridus) tönkjén határozott vörös hálózat látható, míg a sárgahúsú tinóru tönkje csak pontozott-pelyhes.",
+      notes: "A népnyelvben gyakran „boszorkánytinórunak” is nevezik az elképesztően gyors és intenzív kékülése miatt."
     }
     },
     sources: {
@@ -22032,16 +22031,16 @@ export const CATALOG = [
       notes: "Una valutazione del 2019 classifica la specie a minor preoccupazione (Least Concern)."
     },
     hu: {
-      description: "Szaprotróf talajlakó gomba, az egyik legkedveltebb tavaszi étkezési gombafaj. Széles körben elterjedt Európában, ahol réteken, legelőkön és cserjésekben él meszes talajon.",
-      cap: "A kalap 5–15 cm átmérőjű, vaskos, húsos, kezdetben félgömb alakú, behajló széllel, majd domborúvá válik, végül kiterül és hullámossá lesz. Színe krémszínű, elefántcsontfehér vagy halvány okkersárgás. Felülete sima, száraz, tapintásra matt.",
-      hymenium: "A lemezek nagyon sűrűn állók, keskenyek, a tönkhöz nőttek vagy kis foggal lefutók. Színük fehéres vagy halvány krémszínű, soha nem vörösödnek vagy rózsásodnak.",
-      stipe: "A tönk 3–9 cm magas és 1,5–3,5 cm vastag, vaskos, zömök, hengeres vagy a töve felé kissé megvastagodott, fehéres vagy krémszínű, hosszantian szálas. Gallérja és bocskora nincsen.",
-      flesh: "A hús vastag, kemény, fehér, elvágva nem változtatja a színét. Erős, jellegzetes friss lisztszagú (uborkás-lisztes) és lisztízű.",
-      sporePrint: "Fehér vagy krémszínű. A spórák elliptikusak, simák, méretük 5–7 × 3,5–4,5 μm, inamiloidak.",
-      habitat: "Tavasszal, áprilistól június elejéig (főleg Szent György napja, április 24. körül) terem füves legelőkön, réteken, erdőszéleken, galagonyás és kökénnyel teli cserjésekben, gyümölcsösökben, gyakran nagy boszorkánykörökben.",
-      uses: "Kiváló csemegegomba! Kellemes lisztes aromája sütés vagy főzés során finom ízzé szelídül. Rendkívül sokoldalúan felhasználható levesekbe, mártásokba, omlettekbe vagy húspástétomokba.",
-      confusion: "A halálosan mérgező téglavörös susulyka (Inosperma erubescens) ugyanabban az időszakban terem, de kalapja és lemezei sérülésre vagy idős korban téglavörösre vörösödnek, spórapora fahéjbarna, és szaga nem lisztszerű. A mérgező nagy döggomba (Entoloma sinuatum) később, nyártól terem, lemezei éretten rózsaszínűek és spórapora lazacrózsaszín.",
-      notes: "Egy 2019-es IUCN-értékelés nem fenyegetettként (Least Concern) sorolta be."
+      description: "Tavaszi szaprotróf gomba füves területeken és erdőszéleken. Európa-szerte elterjedt és gyakori faj, Nagy-Britanniában és Írországban is bőségesen terem tavasszal.",
+      cap: "A kalap 5–12 cm átmérőjű, nagyon vastag húsú, tömör. Kezdetben félgömb alakú, széle erősen begöngyölt, később domborúvá, majd szabálytalanul hullámossá terül el. Színe krémszínű, fehéressárga, elefántcsontszínű vagy világos bőrszínű. Felülete sima, száraz, matt.",
+      hymenium: "A lemezek krémszínűek vagy fehéres-sárgásak, rendkívül sűrűn állók, keskenyek, a tönk előtt felkanyarodók vagy foggal hozzá nőttek.",
+      stipe: "A tönk 4–9 cm hosszú és 1,5–3,5 cm vastag, vaskos, hengeres vagy a tövénél kissé gumós, fehér vagy krémszínű, tömör, szálas felületű.",
+      flesh: "A hús tiszta fehér, vastag, kemény és tömör. Nagyon jellegzetes, erőteljes, kellemes friss lisztszaga és finom lisztíze van.",
+      sporePrint: "Fehér. A spórák simák, ellipszoidok, méretük mintegy 5–7 × 3,5–4,5 μm, nem amiloidak.",
+      habitat: "A termőtestek áprilistól június elejéig (különösen májusban, Szent György napja táján) jelennek meg. Réteken, legelőkön, cserjésekben, erdőszéleken, gyümölcsösökben és bokros helyeken terem meszes talajon, gyakran hatalmas boszorkánykörökben.",
+      uses: "Kiváló csemegegomba, az egyik legfinomabb és legkeresettebb tavaszi étkezési gomba. Levesnek, tojásos ételekhez, pörköltnek és sütve is kitűnő. Alapos főzést igényel.",
+      confusion: "A halálosan mérgező nagy döggomba (Entoloma sinuatum) szintén vastag húsú és lisztszagú, de lemezei éretten rózsaszínűvé válnak, és nyár elejétől őszig terem lomberdőkben. A téglavörös susulyka (Inocybe erubescens) szintén tavasszal terem és halálosan mérgező, de húsa sérülésre téglavörösre színeződik, kalapja kúpos és szaga nem lisztes.",
+      notes: "Angol neve (St George's mushroom) arra utal, hogy hagyományosan Szent György napja (április 23.) körül kezdi bontani termőtesteit."
     }
     },
     sources: {
@@ -22878,16 +22877,16 @@ export const CATALOG = [
       confusion: "Il prugnolo commestibile (Calocybe gambosa) fruttifica nello stesso periodo primaverile, ma ha lamelle costantemente bianche, carne con odore intenso di farina e non arrossa mai alle lesioni."
     },
     hu: {
-      description: "Halálosan mérgező ektomikorrhizás gomba. Melegkedvelő, meszes talajú lomberdőkben, parkokban és füves ligetekben fordul elő bükk, tölgy, hárs és gyertyán alatt. Széles körben elterjedt Európában és Nyugat-Ázsiában.",
-      cap: "A kalap 3–9 cm (olykor 12 cm) átmérőjű, kezdetben kúpos vagy harang alakú, később kiterül, de közepén kifejezett púp marad. Széle gyakran felhasadozik. Színe fiatalon fehéres vagy krémszínű, majd szalmasárgára, végül jellegzetesen téglavörösre, cinóbervörösre vagy narancsvörösre vörösödik, különösen a sérüléseken és repedésekben. Felülete száraz, selymesen sugaras-szálas.",
-      hymenium: "A lemezek sűrűn állók, a tönk előtt felkanyarodók vagy szabadon állók. Fiatalon fehérek vagy halvány okkerszínűek, később olívbarnák, végül rozsdabarnák lesznek; érintésre vagy sérülésre élénk téglavörös foltok keletkeznek rajtuk.",
-      stipe: "A tönk 3–10 cm magas és 0,5–1,5 cm vastag, hengeres, alján kissé gumós. Színe fehéres, majd alulról felfelé fokozatosan narancsvörösre vagy téglavörösre színeződik. Gallérja és bocskora nincsen.",
-      flesh: "A hús fehéres, elvágva vagy megnyomva lassan, de határozottan téglavörösre változik. Szaga fiatalon gyenge, gyümölcsös vagy virágos, később kellemetlen, émelyítő, nem lisztszagú. Íze nem jellegzetes.",
-      sporePrint: "Dohánybarna vagy tompa rozsdabarna. A spórák simák, elliptikusak vagy bab alakúak, méretük 9–15 × 5–8 μm.",
-      habitat: "Tavasszal és kora nyáron, leggyakrabban májusban és júniusban terem lombos erdőkben, parkokban, erdei ösvények mentén, meszes vagy semleges kémhatású talajon.",
-      uses: "Halálosan mérgező! Rendkívül nagy mennyiségű muszkarint tartalmaz (sokkal többet, mint a légyölő galóca). A tünetek a fogyasztást követő 15 perctől 2 órán belül jelentkeznek súlyos izzadással, nyálfolyással, könnyezéssel, hányással, hasmenéssel, látászavarral, lassuló szívveréssel és keringési összeomlással. Megfelelő orvosi beavatkozás (atropin ellenszer) nélkül a mérgezés könnyen halálhoz vezet.",
-      confusion: "A májusi pereszke (Calocybe gambosa) ugyanebben az időszakban nő, de lemezei és húsa soha nem vörösödnek, kalapja nem sugarasan szálas, és kifejezetten erős lisztszaga van. Az ehető csiperkék (Agaricus fajok) gallérral rendelkeznek, és lemezeik rózsaszínesre, majd csokoládébarnára sötétednek anélkül, hogy téglavörösre pirulnának.",
-      notes: "A korábbi nómenklatúrában Inocybe erubescens vagy Inocybe patouillardii néven volt ismert."
+      description: "Lomberdőkben élő, tavasztól nyár elejéig termő ektomikorrhizás gomba. Európa-szerte elterjedt a meszes talajú meleg lomberdőkben, parkokban.",
+      cap: "A kalap 3–8 cm átmérőjű, kezdetben kúpos vagy harang alakú, majd kiterül, éles vagy tompa púppal. Színe fehéres vagy krémsárgás, de nyomásra, sérülésre vagy idős korban feltűnő téglavörösre, narancsvörösre színeződik. Felszíne szálas, sugarasan behasadozó.",
+      hymenium: "A lemezek sűrűn állók, a tönk előtt felkanyarodók, kezdetben fehéres-krémszínűek, majd olívbarnásak lesznek, sérülésre vörösödnek.",
+      stipe: "A tönk 4–8 cm hosszú és 0,8–1,5 cm vastag, hengeres, a kalaphoz hasonlóan fehér, amely idővel vagy nyomásra téglavörösre foltosodik.",
+      flesh: "A hús fehér, elvágva lassan téglavörösre változik. Szaga gyenge, kellemes gyümölcsös, nem lisztes.",
+      sporePrint: "Dohánybarna vagy agyagszínű. A spórák simák, bab alakúak, méretük mintegy 11–14 × 6–8 μm.",
+      habitat: "Májusban és júniusban terem melegkedvelő lomberdőkben, különösen tölgy, bükk és hárs alatt, parkokban, meszes talajon.",
+      uses: "Halálosan mérgező! Rendkívül magas koncentrációban tartalmaz muszkarint (sokkal többet, mint a légyölő galóca), amely heves izzadást, nyálfolyást, látászavart, szívleállást és fulladásos halált okozhat.",
+      confusion: "A májusi pereszke (Calocybe gambosa) húsa fehér marad, nem vörösödik, lemezei fehérek maradnak és átható friss lisztszagú.",
+      notes: "A susulykák legveszélyesebb képviselője, korai megjelenése miatt könnyen összetéveszthető a tavaszi ehető gombákkal."
     }
     },
     sources: {
@@ -23688,16 +23687,16 @@ export const CATALOG = [
       notes: "Una valutazione del 2019 classifica la specie a minor preoccupazione (Least Concern)."
     },
     hu: {
-      description: "Ektomikorrhizás gomba. Széles körben elterjedt és gyakori Európában mind a tűlevelű, mind a lombhullató erdőkben. Egy 2018-as revízió megerősítette az európai előfordulásokat. Az Észak-Amerikából és Kelet-Ázsiából korábban e néven közölt gombák más fajokhoz tartoznak. Régebbi leírások a mérsékelt égövi északi félteke egészére kiterjesztették.",
-      cap: "A kalap 3–15 cm átmérőjű. Kezdetben domború, majd lapos, hullámos vagy karéjos, néha kissé bemélyedő. A kalap széle fiatalon begöngyölt, az egymás mellett sűrűn növő kalapok gyakran szabálytalan alakúvá deformálódnak. Felülete száraz, sima vagy finoman nemezes. Színe krémszínű, sárgás vagy narancsos okker, a széle felé rendszerint világosabb, olykor csaknem fehérre fakulhat. Nyomásra és az öregedéssel okkeres vagy narancsbarna foltok jelennek meg rajta.",
-      hymenium: "Az alsó felületet 2–7 mm hosszú, sűrűn álló, puha tüskék borítják. A tüskék törékenyek, rendszerint lefutók a tönkre, néha csak kissé lefutók. Fiatalon fehérek vagy krémszínűek, később a kalappal megegyező színűvé vagy halvány narancssárgává válnak, és érintésre könnyen letörnek. A bazídiumok bunkó alakúak, 35–50 × 6–8 μm méretűek, négy spórát viselnek, a szterigmák 3–6 μm hosszúak, tövükön csattal.",
-      stipe: "A tönk 2–10 cm magas és 0,5–3 cm vastag. Hengeres vagy kissé bunkószerű, gyakran aszimmetrikus, excentrikus elhelyezkedésű. Töve elkeskenyedhet vagy enyhén duzzadt maradhat. Tömör, fehéres vagy krémszínű, a kalapnál világosabb. Nyomásra halvány okkerbarnára vagy narancsbarnára színeződik. Gallérja nincs.",
-      flesh: "A hús vastag, kemény és törékeny, fehér vagy kissé sárgás árnyalatú. Egyes gyűjtések húsa vágásra sárgás vagy narancsbarna színűre változik, míg másoké változatlan marad. Illata kellemes, enyhe, néha kissé gyümölcsös. Íze kellemes, enyhe vagy enyhén borsos, savanykás, az idősebb termőtestek kesernyéssé válnak.",
-      sporePrint: "Fehér vagy halvány krémszínű. A spórák simák, vékony falúak és hialinok, közel gömbölydedek vagy széles elliptikusak, méretük 6,5–9 × 5,5–7,5 μm. A típusanyagon 7–8,5 × 6,2–7,5 μm méretűek.",
-      habitat: "A termőtestek júliustól novemberig fejlődnek, Nagy-Britanniában és Írországban augusztustól decemberig. A nyugat-európai fenyvesekben egészen a télbe nyúlóan megmaradhatnak. Magányosan, csoportokban, sorokban vagy boszorkánykörökben teremnek talajon, lombhulladékon vagy mohában lucfenyő, jegenyefenyő, erdeifenyő vagy bükk alatt, valamint vegyes erdőkben nyírrel, tölggyel, rezgő nyárral vagy mogyoróval. A talaj gyakran bázikus, de nyirkos helyeken másutt is megélnek.",
-      uses: "Kiváló csemegegomba. A fiatal termőtestek a legértékesebbek, mert az idősebbek kesernyéssé válhatnak. Kemény húsát levesekbe, ragukba és rizottókba használják fel, gyakran más gombákkal keverve. Az európai piacokon árusítják. A főzés enyhíti az enyhén borsos utóízt.",
-      confusion: "A sárgásvörös gereben (Hydnum rufescens) kisebb termetű, kalapja élénkebb barackszínű, narancssárga vagy rozsdaszínű, tüskéi nem lefutók, hanem a tönk előtt felkanyarodók vagy szabadok, kalapszéle élesebben elhatárolt, felülete pedig kevésbé nemezes. A Hydnum ellipsosporum kalapja 3–5 cm-es, spórái elliptikusak (9–11 × 6–7,5 μm). A világos termőtestek DNS-szekvenálás nélkül nem különíthetők el a Hydnum boreorepandum fajtól, spóráik mérete lényegében megegyezik. A Hydnum slovenicum kalapja narancsos-okker és spórái kisebbek (átlagosan 7,5 × 6,4 μm). A Hydnum albidum egy különálló, kisebb termetű, fehértől halványszürkéssárgáig terjedő faj apró, közel gömb alakú spórákkal. A sárga rókagomba (Cantharellus cibarius) és a halvány rókagomba (Cantharellus pallens) nem tüskékkel, hanem vastag, elágazó lefutó ráncokkal rendelkezik.",
-      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja számon."
+      description: "Ektomikorrhizás gomba. Elterjedt és gyakori Európában mind a tűlevelű, mind a lombhullató erdőkben. Egy 2018-as revízió megerősíti az európai adatokat. Az Észak-Amerikából és Kelet-Ázsiából korábban e név alá sorolt gombák más fajokhoz tartoznak. A korábbi beszámolók a mérsékelt övi északi féltekére terjesztették ki.",
+      cap: "A kalap 3–15 cm átmérőjű. Kezdetben domború, majd lapos, hullámos vagy lebenyes, és olykor bemélyedő. Szegélye fiatalon begöngyölt, és a zsúfoltan növő kalapok szabálytalan alakúvá válnak. Felszíne száraz és simától a finoman nemezesig terjed. Színe krémszínű, sárga vagy narancssárgás okker, rendszerint világosabb a szegélye felé, és majdnem fehérre kifakulhat. A nyomódás és a kor előrehaladtával okkerszínűtől narancsbarnáig színeződik.",
+      hymenium: "Az alsó oldalt sűrű, puha, 2–7 mm hosszú tüskék borítják. Törékenyek, rendszerint lefutók, olykor csak röviden lefutók. Kezdetben fehéresek vagy krémszínűek, később kalapszínűek vagy halvány narancsszínűek, és érintésre letörnek. A bazídiumok bunkósak, 35–50 × 6–8 μm méretűek, négy spórásak, 3–6 μm hosszú szterigmákkal és bazális csattal.",
+      stipe: "A tönk 2–10 cm magas és 0,5–3 cm vastag. Hengeres vagy enyhén bunkós, és gyakran excentrikus. Töve elkeskenyedhet vagy kissé megvastagodott maradhat. Tömör, fehéres vagy krémszínű, és világosabb a kalapnál. Nyomásra halvány okkerbarnára vagy narancsbarnára színeződik. Gallérja nincs.",
+      flesh: "A hús vastag, tömör és törékeny, fehér vagy halványan sárgás. Egyes gyűjtések elvágva sárgára vagy narancsbarnára foltosodnak, mások nem változnak. Szaga enyhe, olykor halványan gyümölcsös. Íze az enyhétől a kissé savanykásig vagy borsosig terjed, az idősebb termőtestek pedig megkeserednek.",
+      sporePrint: "Fehértől halvány krémszínűig terjedő. A spórák simák, vékony falúak és hialinok, gömbölydedektől a széles ellipszoidig terjednek, méretük 6,5–9 × 5,5–7,5 μm. A típusanyagon 7–8,5 × 6,2–7,5 μm méretűek.",
+      habitat: "A termőtestek júliustól novemberig, Nagy-Britanniában és Írországban augusztustól decemberig jelennek meg. A nyugat-európai fenyvesekben a télbe nyúlóan is megmaradhatnak. Magányosan, csoportokban, sorokban vagy boszorkánykörökben nőnek a talajon, avaron vagy mohában, lucfenyő, jegenyefenyő, erdeifenyő vagy bükk alatt, valamint vegyes erdőkben nyírrel, tölggyel, rezgő nyárral vagy mogyoróval. A talaj gyakran bázikus, bár olyan helyen is megteremnek, amely pusztán nedves.",
+      uses: "Kiváló csemegegomba. A fiatal termőtesteket részesítik előnyben, mert az idősebbek megkeserednek. Tömör húsa levesekbe, ragukba és rizottókba kerül, gyakran más gombákkal együtt. Európai piacokon árusítják. A főzés enyhíti a borsos ízt.",
+      confusion: "A sárgásvörös gerebengomba (Hydnum rufescens) kisebb méretű, kalapja pedig mélyebb sárgabarack-, narancs- vagy rozsdaszínű. Tüskéi tönkhöz nőttek vagy szabadok, nem pedig lefutók, a kalap szegélye élesebben elhatárolt, és a kalap kevésbé nemezes. A Hydnum ellipsosporum kalapja 3–5 cm átmérőjű, és ellipszoid spórái 9–11 × 6–7,5 μm méretűek. A fakó termőtestek szekvenálás nélkül nem különíthetők el a Hydnum boreorepandum fajtól, és kettejük spórái lényegében azonos méretűek. A Hydnum slovenicum kalapja narancssárgás okker, spórái pedig kisebbek, átlagosan 7,5 × 6,4 μm méretűek. A Hydnum albidum egy különálló, kisebb faj, fehértől halvány szürkészöldig terjedő színű, kis gömbölyded spórákkal. A sárga rókagomba (Cantharellus cibarius) és a Cantharellus pallens vastag, villás erekkel rendelkezik a tüskék helyett.",
+      notes: "Egy 2019-es felmérés a fajt nem fenyegetettként (Least Concern) tartja számon."
     }
     },
     sources: {
@@ -24546,16 +24545,16 @@ export const CATALOG = [
       notes: "I carpofori contengono pigmenti verde-blu utilizzati tradizionalmente per la tintura naturale della lana."
     },
     hu: {
-      description: "Lucfenyvesekben élő ektomikorrhizás gomba, amely jegenyefenyő alatt is előfordul. Elterjedt Európában és Észak-Amerikában, valamint Japánból is jelentették. A Brit-szigetekről és Hollandiából származó adatok egy erdeifenyőhöz kötődő különálló fajhoz (Sarcodon squamosus) tartoznak. Helyileg gyakori a hegyvidéki lucfenyvesekben és a boreális zónában, de Közép-Európa északi síkvidékein megritkult.",
-      cap: "A kalap 5–25 cm átmérőjű, olykor még ennél is nagyobb. Kezdetben domború, majd lapossá vagy tölcséressé válik, szabálytalan, hullámos széllel. Színe szürkésbarna, sötétbarna vagy feketésbarna, felületét nagy, koncentrikusan elhelyezkedő, felálló, cserépszerű pikkelyek borítják, amelyek a közepén a legnagyobbak.",
-      hymenium: "Az alsó termőréteget sűrűn elhelyezkedő, lefutó tüskék alkotják, amelyek hossza 5–15 mm. Fiatalon szürkésfehérek, később szürkésbarnára vagy sötétbarnára érnek; törékenyek és hegyesek.",
-      stipe: "A tönk 3–10 cm magas és 1,5–4 cm vastag, zömök, hengeres vagy lefelé vastagodó, gyakran kissé görbe. Színe fehéres-szürkés vagy világosbarna, tövénél sötétebb, felülete sima vagy kissé szálas.",
-      flesh: "A hús vastag, tömör, kemény, fehéres vagy szürkésbarna árnyalatú. Illata kellemes, fűszeres gombaillat, idősebb korban kissé fanyar, íze fiatalon enyhe, később kesernyéssé válik.",
-      sporePrint: "Barna. A spórák közel gömbölydedek, felületük durván dudoros-szemölcsös, méretük 6–8 × 5–7 μm.",
-      habitat: "Késő nyártól késő őszig terem hegyvidéki és boreális lucfenyvesekben (Picea abies), savanyú talajon, gyakran mohában és áfonyásban, magányosan vagy boszorkánykörökben.",
-      uses: "Fiatalon ehető, ízletes gomba. Idősebb korában megkeseredik és szívóssá válik, ezért csak a fiatal példányokat érdemes fogyasztani. Szárítva és őrölve kiváló aromájú fűszerpor készíthető belőle. Textíliák kék vagy zöldes színezésére is használták.",
-      confusion: "A fenyves gereben (Sarcodon squamosus) erdeifenyők alatt nő, pikkelyei laposabbak és sötétebbek, és a tölgyesekben élő gerebenfajok (Sarcodon quercinus) lomblevelű erdőkhöz kötődnek. A sárga gereben (Hydnum repandum) kalapja sima, sárgásfehér és nem pikkelyes.",
-      notes: "Egy 2019-es felmérés szerint állománya stabil, besorolása nem fenyegetett (Least Concern)."
+      description: "Lucfenyvesek ektomikorrhizás gombája, amely jegenyefenyővel is előfordul. Elterjedt Európában és Észak-Amerikában, és Japánból is feljegyezték. A Brit-szigetekről és Hollandiából származó adatok egy különálló fenyőpartnerhez tartoznak. Helyileg gyakori a hegyvidéki lucfenyvesekben, korábban pedig bőségesebb volt.",
+      cap: "A kalap 5–25 cm átmérőjű, és elérheti a mintegy 30 cm-t. Kezdetben domború, begöngyölt szegéllyel, majd a lapostól a tölcséresig terjed, gyakran mély központi bemélyedéssel, amely lyukká nyílhat. Szegélye hullámossá vagy lebenyessé válik. Felszíne száraz és barna, szürkésbarna vagy sárgásbarna, olykor vöröses árnyalattal, és a széle felé világosabb. Durva, vastag, sötétbarna vagy feketés pikkelyek állnak fel a közepén, gyakran durva koncentrikus zónákban, és a szegély felé laposabban fekszenek. A kor előrehaladtával a pikkelyek sötétednek és felfelé ívelnek.",
+      hymenium: "Az alsó oldalon lemezek helyett sűrű, törékeny tüskéket visel. Lefutnak a tönkre, és megritkulnak rajta. Néhány millimétertől 1,5 cm hosszúak, fiatalon fehérek vagy halványszürkék, később szürkésbarnától a barnáig változnak. Csatkapcsolatok jelen vannak.",
+      stipe: "A tönk 3–10 cm hosszú és 1–4 cm vastag. Számos termőtest olyan alacsonyan ül, hogy a tönk rejtve marad, amíg a gombát fel nem emelik. Hengeres vagy kissé bunkós, olykor excentrikus, és gyakran vastagabb a tövénél, bár némelyik ott vékonyabb. Felszíne száraz, sima vagy finoman bársonyos, fiatalon fehéres, később szürkétől a barnáig terjed, és a csúcsa közelében viselhet néhány csökevényes tüskét. Tömör, majd kissé üreges.",
+      flesh: "A hús vastag és kemény a kalapban, fiatalon fehéres vagy szürkésfehér, később barnás, és a tönk tövében gyakran zöldesfekete foltot mutat. Szaga fűszeres vagy nem jellegzetes, idővel kellemetlenné válik. Íze enyhe, kissé kesernyés vagy fanyar, és a főzés enyhíti a keserűséget.",
+      sporePrint: "Barna. A spórák durván szemölcsösek, szögletes-gömbölydedek, méretük mintegy 5,5–7,5 × 5–6 μm.",
+      habitat: "A termőtestek nyár végétől késő őszig jelennek meg a hegyvidéki fenyvesekben, savanyú talajon, lucfenyő alatt.",
+      uses: "Fiatalon ehető, szárítva fűszerként is használják, de idősebb korban keserűvé válik.",
+      confusion: "A sima gereben (Sarcodon squamosus) erdeifenyő alatt nő, kalapja finomabban pikkelyes, és pikkelyei nem állnak el olyan durván.",
+      notes: "A textilfestésben szürkéskék és zöldes árnyalatok előállítására használják."
     }
     },
     sources: {
@@ -25371,15 +25370,15 @@ export const CATALOG = [
     },
     hu: {
       description: "Ektomikorrhizás galambgomba. Az egyik leggyakoribb és legismertebb galambgomba Európa lomblevelű és vegyes erdőiben. Észak-Amerikában és Ázsiában is megtalálható.",
-      cap: "A kalap 5–15 cm átmérőjű, fiatalon félgömb alakú, majd kiterül és közepe bemélyedővé válik. Színe rendkívül változatos: ibolyáslila, acélkék, olívzöld, szürkéslila vagy zöldesbarna, a színek gyakran foltosan keverednek egymással. Felülete nedvesen zsírosan fénylő, tapadós, sugarasan finoman ráncolt vagy erezett.",
-      hymenium: "A lemezek fehérek vagy krémszínűek, a galambgombák között egyedülálló módon nem törékenyek, hanem lágyak, rugalmasak és zsíros tapintásúak, ujjal végigsimítva nem pattannak el vagy morzsolódnak szét.",
-      stipe: "A tönk 5–10 cm magas és 1,5–3 cm vastag, hengeres, tiszta hófehér színű, felülete sima vagy hosszanti ráncokkal díszített, idővel belül kamrásan szivacsossá válik.",
-      flesh: "A hús fehér, közvetlenül a kalapbőr alatt lilás-vöröses árnyalatú, kemény, merev, törékeny. Vas-szulfát oldattal (FeSO4) nem színeződik vagy legfeljebb nagyon halvány zöldes árnyalatot ad (más galambgombák húsa lazacrózsaszínre vált). Illata gyenge, kellemes, íze kitűnő mogyorószerű.",
-      sporePrint: "Tiszta fehér. A spórák elliptikusak, méretük 7–9 × 6–7 μm, apró, izolált szemölcsökkel díszítettek.",
-      habitat: "Kora nyártól késő őszig terem lomblevelű és vegyes erdőkben, legfőképpen bükk és tölgy alatt, ritkábban fenyvesekben is.",
-      uses: "Kiváló csemegegomba! Az egyik legízletesebb galambgomba, amelyet sokféleképpen készítenek el: levesben, sütve, pirítva, mártásban vagy akár panírozva rántott gombaként.",
-      confusion: "A többi galambgombától (Russula fajok) rugalmas, nem törékeny lemezei és a vas-szulfátra adott negatív színreakciója jól megkülönbözteti. A zöld kalapú galambgombák, mint a varashátú galambgomba (Russula virescens) kalapbőre repedezett. A halálosan mérgező gyilkos galóca (Amanita phalloides) gallérral és bocskorral bír.",
-      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja számon."
+      cap: "A kalap 6–15 cm átmérőjű, kezdetben félgömb alakú, majd domborúból laposra kiterülő, közepe sekélyen bemélyedhet. Színe rendkívül változatos: ibolyáslila, acélkék, szürkészöld, olívzöld vagy barnás árnyalatok keverednek rajta. Felszíne sugarasan ráncolt-eres, nedves időben fénylő és zsíros tapintású.",
+      hymenium: "A lemezek fehérek vagy krémszínűek, sűrűn állók, a tönkhöz nőttek. Rendkívül jellegzetes tulajdonságuk, hogy rugalmasak és zsíros tapintásúak, ujjbeggyel végigsimítva nem törnek el, ellentétben a legtöbb galambgomba morzsolódó lemezeivel.",
+      stipe: "A tönk 5–10 cm hosszú és 1,5–3 cm vastag, tiszta fehér, tömör, majd szivacsos, hengeres.",
+      flesh: "A hús tiszta fehér, a kalapbőr alatt kissé lilás lehet, kemény, pattanva törő. Szaga gyenge, kellemes, íze kitűnő mogyorószerű, diószerű.",
+      sporePrint: "Tiszta fehér. A spórák simák vagy finoman pontozottak, méretük mintegy 7–9 × 6–7 μm.",
+      habitat: "Júniustól novemberig terem lombos erdőkben, különösen bükk, tölgy és gyertyán alatt, valamint fenyvesekben is előfordul.",
+      uses: "Kiváló csemegegomba! Levesnek, sütve, rántva és pörköltnek egyaránt az egyik legízletesebb galambgomba.",
+      confusion: "A többi galambgomba lemezei merevek és törékenyek. A mérgező fajok húsa kóstolva égetően csípős.",
+      notes: "Egy 2019-es felmérés nem fenyegetettként tartja nyilván."
     }
     },
     sources: {
@@ -26183,16 +26182,16 @@ export const CATALOG = [
       notes: "Una valutazione del 2019 classifica la specie a minor preoccupazione (Least Concern)."
     },
     hu: {
-      description: "Fakárosító szaprotróf gomba, amely lombos fák elhalt tuskóin és rönkjein él. Európa-szerte nagyon gyakori, és Észak-Amerikában, valamint Ázsiában is széles körben elterjedt.",
-      cap: "A kalap 3–7 cm átmérőjű, kezdetben domború, később kiterülő, közepén tompa púppal. Jellegzetesen higrofán (nedvszívó): nedvesen ragyogó fahéjbarna vagy sárgásbarna, száradáskor a közepétől kiindulva fakó sárgásfehérre vagy okkersárgára világosodik, gyakran kétszínű, zónázott képet mutatva.",
-      hymenium: "A lemezek sűrűn állók, kissé lefutók vagy tönkhöz nőttek; kezdetben halvány krémszínűek vagy sárgásbarnák, a spórák érésével fahéjbarnára, rozsdabarnára sötétednek.",
-      stipe: "A tönk 4–10 cm magas és 0,4–0,8 cm vastag, hengeres, gyakran görbült, sűrű csomókban összenőtt. Felső része a gallér felett sima és világos; a gallér alatt sötétbarna, és sűrűn borítják a felálló, sötétbarna pikkelykék. Vékony, hártyás gallérja van.",
-      flesh: "A hús a kalapban vékony, puha, sárgásbarna, a tönkben kemény és szívós. Kellemes, fűszeres gombaillatú és kitűnő enyhe ízű.",
-      sporePrint: "Fahéjbarna vagy rozsdabarna. A spórák simák, oválisak vagy elliptikusak, méretük 6–7,5 × 4–4,5 μm, csírapórussal.",
-      habitat: "Tavasztól késő őszig terem nagy, sűrű csomókban lombhullató fák (főleg bükk, nyír, tölgy, éger) elhalt tuskóin és heverő fatörzsein, ritkán fenyőtuskón.",
-      uses: "Kiváló csemegegomba! Csak a kalapját használják fel, mert a tönk túl szívós. Különösen levesekbe, mártásokba és ragukba pompás.",
-      confusion: "A halálosan mérgező fenyves sisakgomba (Galerina marginata) tönkje a gallér alatt nem pelyhes-pikkelyes, hanem ezüstösen szálas, és többnyire fenyőtuskón él kis csoportokban; amatoxintartalma miatt a tőkegomba szedésekor minden egyes példány tönkjét ellenőrizni kell! A sárga kénvirággomba (Hypholoma fasciculare) lemezei zöldessárgák és íze rendkívül keserű.",
-      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja számon."
+      description: "Lombos fák faanyagán sűrű csomókban növő szaprotróf gomba. Elterjedt és gyakori Európában, beleértve Nagy-Britanniát és Írországot, valamint Észak-Amerikában és Ázsiában.",
+      cap: "A kalap 2–7 cm átmérőjű, kezdetben félgömb alakú, majd domborúvá, végül lapossá terül szét, gyakran tompa púppal. Nagyon erősen higrofán: nedvesen sárgásbarna, fahéjbarna vagy mézszínű és fénylő; száradáskor a közepétől kiindulva világos okkersárgára vagy fakó krémszínűre szárad ki, gyakran kétszínűnek látszik.",
+      hymenium: "A lemezek kezdetben halványsárgák, majd a spórák érésével fahéjbarnára, rozsdabarnára sötétednek, sűrűn állók, a tönkhöz nőttek vagy kissé lefutók.",
+      stipe: "A tönk 3–8 cm hosszú és 0,4–0,8 cm vastag, hengeres, gyakran görbült a csoportos növekedés miatt. Felső részén egy hártyás, felfelé álló gallér látható. A gallér felett a tönk világos és sima; a gallér alatt sötétbarna vagy feketésbarna, és nagyon jellegzetes, sűrűn elálló, sötétbarna pikkelyek borítják.",
+      flesh: "A hús a kalapban vékony, puha, sárgásbarna; a tönkben szívós és sötétbarna. Kellemes, fűszeres illatú és jóízű.",
+      sporePrint: "Fahéjbarna vagy rozsdabarna. A spórák simák, ellipszoidok, méretük mintegy 6–7,5 × 4–4,5 μm, csíranyílással.",
+      habitat: "A termőtestek tavasztól késő őszig (áprilistól novemberig) jelennek meg. Sűrű, sok egyedből álló csomókban nő elhalt lombhullató fák tuskóin, rönkjein, különösen bükkön, nyíren, tölgyön és égeren.",
+      uses: "Kiváló csemegegomba! Csak a puha kalapokat gyűjtik és használják fel, mert a tönk túl fás és szívós. Levesekben, mártásokban kitűnő. Szedése azonban nagy figyelmet és tapasztalatot igényel a halálosan mérgező hasonmása miatt.",
+      confusion: "A halálosan mérgező fenyves-sisakgomba (Galerina marginata) tönkje a gallér alatt ezüstösen szálas, nem pelyhes-pikkelyes, szaga lisztszerű, és főleg fenyőtuskókon terem, de lombos fán is előfordulhat. A mérgező sárga kénvirággomba (Hypholoma fasciculare) lemezei kénsárgák, majd zöldesek, és íze nagyon keserű.",
+      notes: "A gyűjtéskor minden egyes példány tönkjét meg kell vizsgálni a sötétbarna pikkelyek jelenlétére a gallér alatt a fenyves-sisakgomba kizárása érdekében."
     }
     },
     sources: {
@@ -26997,16 +26996,16 @@ export const CATALOG = [
       confusion: "La famigliola cangiante commestibile (Kuehneromyces mutabilis) cresce in cespi più fitti su latifoglie, ha gambo vistosamente squamoso sotto l'anello e odore gradevole non farinoso."
     },
     hu: {
-      description: "Halálosan mérgező szaprotróf gomba, amely korhadó faanyagon él. Széles körben elterjedt az északi féltekén (Európa, Észak-Amerika, Ázsia), valamint Ausztráliában is megtalálható.",
-      cap: "A kalap 1,5–4 cm átmérőjű, kezdetben domború, később kiterül, közepén gyakran tompa púppal. Színe sárgásbarna, mézsárga vagy okkerbarna, nedvesen fénylő és sötétebb, száradva sárgásra fakul (higrofán). Széle nedves állapotban finoman bordázott.",
-      hymenium: "A lemezek sűrűn állók, a tönkhöz nőttek vagy kissé lefutók, fiatalon sárgásbarnák, később a spórák érésével rozsdabarnára, fahéjbarnára változnak.",
-      stipe: "A tönk 2–6 cm magas és 0,2–0,6 cm vastag, hengeres, barnás alapszínű. Rajta vékony, fehéres vagy barnás, múlékony gallér látható. A gallér alatt a tönk felülete fehéresen selymes-szálas, soha nincsenek rajta felálló sötét pikkelykék.",
-      flesh: "A hús vékony, sárgásbarna vagy vörösesbarna. Gyenge lisztszagú és lisztízű.",
-      sporePrint: "Rozsdabarna. A spórák mandula alakúak, finoman szemölcsösek, méretük 8–11 × 5–6,5 μm.",
-      habitat: "Nyártól késő őszig (fagyokig) terem legfőképpen fenyőfélék korhadó tuskóin, rönkjein, fahulladékán, ritkábban lombos fák faanyagán is, magányosan vagy kis csoportokban.",
-      uses: "Halálosan mérgező! Ugyanazokat a halálos amatoxinokat tartalmazza, mint a gyilkos galóca. Elfogyasztása súlyos, visszafordíthatatlan máj- és vesekárosodást okoz, a mérgezési tünetek hosszú lappangási idő után lépnek fel, és gyakran halállal végződnek.",
-      confusion: "Az ízletes tőkegomba (Kuehneromyces mutabilis) ehető faj, de tönkje a gallér alatt sötétbarna, felálló pikkelyekkel borított, és sűrű, nagy csomókban nő lombos fán. A fenyves kénvirággomba (Hypholoma capnoides) lemezei szürkéskékek, gallérja nincs.",
-      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja számon."
+      description: "Fakárosító gomba, amely magányosan vagy kis csoportokban terem tuskókon, kidőlt fatörzseken és eltemetett faanyagon. Elterjedt az északi féltekén Európán, Ázsián és Észak-Amerikán át, és feljegyezték Ausztráliában és az Antarktiszon is. Nagy-Britanniában és Írországban nem gyakori.",
+      cap: "A kalap általában 1–7 cm átmérőjű, olykor eléri a 8 cm-t, egy szűkebb leírás pedig 0,5–4 cm-t ad meg. Kezdetben félgömb vagy harang alakú, majd domborútól a majdnem laposig terül el, néha alacsony púppal. Szegélye fiatalon begöngyölt, és nedves állapotban áttetszően bordázott lehet. Felszíne nedvesen kissé ragadós, később fénylő vagy matt. Higrofán, a közepén vörösbarna vagy narancsbarna, a szegély felé mézsárga vagy okkersárga, száradáskor tompa barnássárgára fakul. Egy halvány burok tapadhat egy nagyon fiatal kalap szegélyéhez.",
+      hymenium: "A lemezek sűrűn vagy nagyon sűrűn állók, szélesen a tönkhöz nőttek vagy röviden lefutók, néha lefutó foggal. Kezdetben halvány krémszínűek vagy sárgásak, később okkertől a rozsdabarnáig színeződnek, világosabb éllel. Fiatalon egy fehéres részleges burok fedi őket, és rövid közteslemezek is jelen vannak. A bazídiumok többnyire négy spórásak, ritkábban két spórásak, méretük mintegy 21–30 × 5–8,4 μm. A heilocisztídiumok és pleurocisztídiumok vékony falúak, lombik alakúaktól az orsó alakúig terjednek, körülbelül 34–75 × 5–16 μm méretűek, nyakkal és tompa vagy enyhén kiszélesedő csúccsal. Csatkapcsolatok jelen vannak.",
+      stipe: "A tönk 2–8 cm hosszú és 0,2–0,9 cm vastag, egyenletes vastagságú vagy lefelé kissé vastagabb, gyakran ívelt és törékeny. Kezdetben tömör, majd a tövétől kezdve üregessé válik. Egy vékony, fakó gallér felett fehéres és finoman lisztes felületű. A gallér alatt barna vagy vörösesbarna, halvány szálakkal, amelyek foltokat vagy sávokat hagyhatnak, majd eltűnnek. A gallér a felső felén helyezkedik el, a spóráktól rozsdaszínűvé válik, és lekophat, csupán egy zónát hagyva maga után. Fehér micélium gyakran jelen van a tövében.",
+      flesh: "A hús vékony, sárgás, piszkossárga vagy vizenyős barna színű. Szaga és íze lisztszerű, néha csak gyengén.",
+      sporePrint: "Rozsdabarna. A spórák finoman szemölcsösek, méretük mintegy 8–10 × 5–6 μm.",
+      habitat: "Tűlevelű és ritkábban lombhullató fák tuskóin, mohás korhadékán nő ősztől télig.",
+      uses: "Halálosan mérgező! Ugyanazokat a halálos amatoxinokat tartalmazza, mint a gyilkos galóca (Amanita phalloides), súlyos máj- és vesekárosodást okozva.",
+      confusion: "Az ízletes tőkegomba (Kuehneromyces mutabilis) gallérja alatt sötétbarna, felálló pikkelyek találhatók, nem pedig ezüstös szálak, és szaga kellemes fűszeres, nem lisztes.",
+      notes: "A korábban külön fajként leírt Galerina autumnalis, G. oregonensis és G. venenata a molekuláris vizsgálatok alapján azonosak a Galerina marginata fajjal."
     }
     },
     sources: {
@@ -27809,16 +27808,16 @@ export const CATALOG = [
       confusion: "Sparassis brevipes (Sparassis laminosa) ha lamine più larghe, meno arricciate e cresce principalmente associata a latifoglie (querce e faggi)."
     },
     hu: {
-      description: "Fakárosító parazita és szaprotróf gombafaj, amely intenzív barna tőkorhadást idéz elő fenyőfákon. Széles körben elterjedt Európában és Észak-Amerikában az idős fenyvesekben.",
-      cap: "A termőtest nagy, gömbölyded vagy szabálytalan alakú, 10–30 cm (olykor 50 cm) széles és akár több kilogrammos tömeget is elérhet. Szivacsra, fodros kelkáposztára vagy korallra emlékeztet; sűrűn álló, lapos, szalagszerű, hullámosan fodros ágakból épül fel. Színe sárgásfehér, krémszínű vagy világos okkersárga, az ágak széle idővel megbarnul.",
-      hymenium: "A termőréteg a lapos, fodros ágak mindkét oldalán kifejlődik, sima felületű.",
-      stipe: "A tönkrész vaskos, gumószerű, mélyen a talajba vagy a fa gyökereihez nyúlik, fehéres vagy barnás színű, belőle ágaznak el a termőtestet alkotó lebenyek.",
-      flesh: "A hús rugalmas, viasszerű, nedvdús, fehéres színű. Nagyon kellemes, fűszeres, mogyorószerű illata és enyhe, diószerű íze van.",
-      sporePrint: "Fehéres vagy halvány krémsárga. A spórák oválisak vagy csepp alakúak, simák, méretük 5–7 × 4–5 μm.",
-      habitat: "Nyár végétől késő őszig terem idős kéttűs fenyők (erdeifenyő, feketefenyő), ritkábban lucfenyő vagy vörösfenyő tövében és gyökerein.",
-      uses: "Kiváló csemegegomba! Különösen levesekbe, mártásokba, tejszínes ételekbe vagy pirítva készítve finom. A fodrok közül a földet, avart és apró rovarokat alapos mosással és darabolással kell eltávolítani.",
-      confusion: "A jegenyefenyő-káposztagomba (Sparassis nemecii) jegenyefenyők tövében él, ágai szalagosabbak, szélesebbek és halványabbak. A korallgombák (Ramaria fajok) felálló ágúak és hegyes végűek.",
-      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja számon."
+      description: "Fenyőfák tövén élő parazita és szaprotróf taplógomba. Elterjedt Európában és Észak-Amerikában a fenyvesekben.",
+      cap: "A termőtest 10–40 cm átmérőjű és 10–25 cm magas, gömbölyded vagy lapított, fodros kelkáposztára vagy fürdőszivacsra emlékeztető tömeg. Számtalan lapos, hullámos, fodros szélű ágacskából áll. Színe sárgásfehér, krémszínű vagy szalmasárga, idős korban barnás szélű.",
+      hymenium: "A termőréteg a fodros ágak mindkét oldalát simán bevonja.",
+      stipe: "A termőtest alján egy mélyen a gyökerekhez lenyúló, vastag, fás, feketésbarna tuskószerű tönkrész található.",
+      flesh: "A hús fehéres, fiatalon rugalmas, puha, később szívós. Kellemesen diószerű vagy fűszeres illatú és jóízű.",
+      sporePrint: "Fehéres vagy halványsárga. A spórák simák, ellipszoidok, méretük mintegy 5–7 × 4–5 μm.",
+      habitat: "Augusztustól novemberig terem idős kéttűs fenyők (erdeifenyő) tövénél és tuskóin, barna tőkorhadást okozva a fában.",
+      uses: "Kiváló csemegegomba! Alaposan meg kell tisztítani az ágak közé szorult homoktól és tűlevelektől. Levesben, rántva vagy pirítva kitűnő.",
+      confusion: "A ritka tölgyfa-káposztagomba (Sparassis brevipes) lombos fák alatt nő és ágai szélesebbek, kevésbé fodrosak.",
+      notes: "Egyetlen termőtest tömege elérheti a több kilogrammot is."
     }
     },
     sources: {
@@ -28638,16 +28637,16 @@ export const CATALOG = [
       notes: "Una valutazione del 2019 classifica la specie a minor preoccupazione (Least Concern)."
     },
     hu: {
-      description: "Ektomikorrhizás gomba. Széles körben elterjedt és rendkívül gyakori az északi félteke lomb- és fenyőerdeiben; Ausztráliába és Új-Zélandra telepített fákkal behurcolták.",
-      cap: "A kalap 5–15 cm átmérőjű, kezdetben domború, majd lapossá válik, végül mélyen tölcséressé mélyül. Színe olívbarna, sárgásbarna vagy szürkésbarna. Széle sokáig jellegzetesen és erősen, szorosan begöngyölt marad, nemezes-szőrös felülettel. Nedvesen nyálkás és tapadós, szárazon fénylő.",
-      hymenium: "A lemezek sűrűn állók, a tönkre mélyen lefutók, a tövüknél villásan elágazók és egymással anasztomizálók; könnyen leválaszthatók a kalaphúsról. Színük fiatalon sárgásbarna, krémsárga, nyomásra vagy sérülésre gyorsan és feltűnően rozsdabarnára, sötétbarna foltosra színeződnek.",
-      stipe: "A tönk 3–8 cm magas és 1–2,5 cm vastag, hengeres vagy a töve felé keskenyedő, a kalappal megegyező színű vagy kissé világosabb, nyomásra rozsdabarnán foltosodik.",
-      flesh: "A hús vastag, puha, sárgásfehér, elvágva rozsdabarnára színeződik. Illata kellemes gombaszagú, savanykás ízű.",
-      sporePrint: "Rozsdabarna vagy fahéjbarna. A spórák elliptikusak, simák, méretük 7,5–9 × 4,5–6 μm.",
-      habitat: "Nyártól késő őszig terem nedves erdőkben, parkokban, tőzeges talajon, nyírfák, tölgyek, valamint fenyők társaságában.",
-      uses: "Súlyosan mérgező! Korábban ehetőnek tartották és forrázás után fogyasztották, ám halálos kimenetelű immunhemolitikus vérszegénységet (Paxillus-szindróma) okozhat. Ismételt fogyasztása során a szervezetben antigének halmozódnak fel, amelyek hirtelen és kiszámíthatatlanul heves immunválaszt váltanak ki, ami a vörösvértestek lebomlásához, veseelégtelenséghez és halálhoz vezet.",
-      confusion: "A cölöpgombák más fajai, például a Paxillus cuprinus és a bársonyostönkű cölöpgomba (Tapinella atrotomentosa) hasonlóak lehetnek, utóbbi tönkje vastag és feketésbarna bársonyos bevonatú. A tejelőgombák (Lactarius fajok) tejnedvet választanak ki.",
-      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja számon."
+      description: "Lombhullató és tűlevelű erdőkben élő ektomikorrhizás gomba. Széles körben elterjedt és rendkívül gyakori az északi féltekén: Európában, Észak-Ázsiában és Észak-Amerikában. Behurcolták a déli féltekére is, ahol fák alá ültetve jelent meg.",
+      cap: "A kalap 4–15 cm átmérőjű, kezdetben domború, majd lapossá, végül tölcséressé válik. Színe sárgásbarna, olívbarna vagy okkerbarna. Szegélye nagyon jellegzetesen és erősen, hosszan begöngyölt, finoman bordázott és nemezes szőrös. Nedves időben a kalap ragadóssá válik.",
+      hymenium: "A lemezek sárgásbarnák vagy okkerszínűek, sűrűn állók, a tönkre mélyen lefutók, a tönkcsúcson gyakran anasztomizálók (erekkel összekötöttek). Nyomásra vagy érintésre gyorsan és feltűnően rozsdabarnára, sötétbarnára színeződnek. Könnyen lefejthetők a kalaphúsról.",
+      stipe: "A tönk 3–8 cm hosszú és 1–2 cm vastag, hengeres vagy a töve felé keskenyedő, a kalaphoz hasonló színű vagy világosabb, érintésre sötétbarnán foltosodik.",
+      flesh: "A hús vastag, puha, sárgás vagy okkerszínű, vágásra és sérülésre azonnal barnul. Savanykás ízű és gombaszerű szagú.",
+      sporePrint: "Rozsdabarna vagy agyagbarna. A spórák simák, ellipszoidok, méretük mintegy 7,5–10 × 5–6 μm.",
+      habitat: "A termőtestek nyártól késő őszig (júliustól novemberig) teremnek. Nagyon igénytelen faj: erdőkben, parkokban, kertekben, lápos területeken és tőzegmohás fenyéren egyaránt előfordul, nyír, tölgy, erdeifenyő és más fák alatt.",
+      uses: "Súlyosan mérgező, halált okozhat! Bár régebben forrázás után fogyasztották, ma már ismert, hogy egy veszélyes autoimmun hemolitikus reakciót (Paxillus-szindróma) vált ki: a szervezet ellenanyagokat termel, amelyek ismételt fogyasztáskor hirtelen lebontják a vörösvértesteket, akut veseelégtelenséget és halált okozva.",
+      confusion: "Az éger-cölöpgomba (Paxillus rubicundulus) égerfák alatt él, kalapja pikkelyes-bordás és vékonyabb húsú. A bársonyostönkű cölöpgomba (Tapinella atrotomentosa) tuskókon nő, tönkje sötétbarna, feketésen bársonyos, és jóval vaskosabb termetű.",
+      notes: "A Paxillus involutus a legfontosabb példája a gombamérgezések közül annak, amikor egy korábban ehetőnek vélt fajról bebizonyosodott az életveszélyes immunológiai toxicitása."
     }
     },
     sources: {
@@ -29477,16 +29476,16 @@ export const CATALOG = [
       notes: "Una valutazione del 2019 classifica la specie a minor preoccupazione (Least Concern)."
     },
     hu: {
-      description: "Szaprotróf talajlakó gomba. Széles körben elterjedt és gyakori Európában és Észak-Amerikában; az őszi erdők egyik legkedveltebb étkezési gombafaja.",
-      cap: "A kalap 5–15 cm átmérőjű, kezdetben domború, majd kiterül és hullámossá válik. Színe fiatalon élénk ibolyáslila, kékeslila, később a közepétől kezdve barnáslila vagy szürkésbarna színűre fakul. Felülete sima, csupasz, nedves időben kissé fénylő.",
-      hymenium: "A lemezek sűrűn állók, a tönkhöz nőttek vagy kis foggal lefutók, élénk lilák vagy ibolyáskékek, idővel fakulnak, a spóraportól kissé barnás árnyalatot kaphatnak.",
-      stipe: "A tönk 5–10 cm magas és 1,5–3 cm vastag, hengeres, a tövénél kissé gumós és lilás micéliumszövedékkel borított. Színe ibolyáslila, felülete hosszantian szálas.",
-      flesh: "A hús vastag, puha, halványlila vagy szürkéslila árnyalatú. Erős, kellemesen fűszeres, kissé gyümölcsös illatú és enyhe ízű.",
-      sporePrint: "Világos rózsaszínes-krémszínű vagy halvány hússzínű. A spórák elliptikusak, finoman szemölcsösek, méretük 6–8 × 4–5 μm.",
-      habitat: "Ősszel és kora télen (fagyokig) terem lombos és fenyőerdőkben, valamint parkokban és kertekben, vastag avarban és humuszos talajon, gyakran nagy boszorkánykörökben.",
-      uses: "Kiváló ehető gomba! Nyersen hemolitikus méreganyagokat tartalmaz, amelyek gyomor- és bélpanaszokat okozhatnak, ezért legalább 20 perces alapos főzés vagy sütés szükséges az elkészítéséhez. Kitűnő levesbe, pörköltbe, ecetes savanyúságnak vagy mártásnak.",
-      confusion: "A lilás színű pókhálósgombák (Cortinarius fajok), mint a bíborlila pókhálósgomba (Cortinarius purpurascens) fiatalon pókhálószerű kortinával bírnak, lemezeik és spóraporuk pedig rozsdabarna színű. A lilatönkű pereszke (Collybia personata) kalapja krémszínű vagy világosbarna, és csak a tönkje lila.",
-      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja számon."
+      description: "Erdei avarlakó szaprotróf gomba. Elterjedt és bőségesen terem Európában, Észak-Amerikában és Ázsiában.",
+      cap: "A kalap 5–15 cm átmérőjű, fiatalon domború, majd lapossá terül el, élénk ibolyalila vagy szürkéslila, idős korban barnáslilára fakuló, sima felületű.",
+      hymenium: "A lemezek sűrűn állók, a tönk előtt felkanyarodók vagy foggal lefutók, fiatalon ragyogó lilák, később fakó barnáslilák.",
+      stipe: "A tönk 5–10 cm hosszú és 1–3 cm vastag, hengeres vagy a tövénél kissé gumós, ibolyalila színű, felszíne fehéren szálas-hamvas.",
+      flesh: "A hús puha, lilásfehér vagy lila, vágásra nem színeződik. Kellemes, kissé gyümölcsös, parfümös illatú és enyhe, jóízű.",
+      sporePrint: "Halvány rózsaszínes vagy lazacszínű. A spórák finoman szemölcsösek, méretük mintegy 6–8 × 4–5 μm.",
+      habitat: "Késő őszi faj, októbertől az első fagyokig terem lomb- és tűlevelű erdőkben, kertekben, komposzton, gyakran nagy csoportokban vagy körökben.",
+      uses: "Kiváló ehető gomba, de alapos főzést igényel, mert nyersen hemolitikus méreganyagokat tartalmaz.",
+      confusion: "A mérgező lila pókhálósgomba (Cortinarius traganus) lemezeit fiatalon pókhálószerű burok (kortina) fedi, lemezei rozsdabarnára érnek, és kellemetlen szagú.",
+      notes: "Népszerű őszi étkezési gomba szerte Európában."
     }
     },
     sources: {
@@ -30313,16 +30312,16 @@ export const CATALOG = [
       notes: "In passato era classificato come Clavicorona pyxidata prima del trasferimento filogenetico ad Artomyces."
     },
     hu: {
-      description: "Fakárosító szaprotróf korallgomba-féle. Széles körben elterjedt Európában és Észak-Amerikában elhalt lombhullató faanyagon.",
-      cap: "A termőtest 4–12 cm magas és 3–10 cm széles, korallszerűen gazdagon elágazó. Az ágak felfelé többszörösen villásan elágaznak, és a csúcsuk jellegzetesen csésze vagy serleg alakúan kiszélesedik, amelynek pereméből apró, koronaszerű tüskék vagy újabb ágacskák nőnek ki. Színe fehéres, krémsárgás, halvány okkeres, az ágak csúcsa gyakran világosabb.",
-      hymenium: "A sima termőréteg az ágak külső felületét borítja.",
-      stipe: "A tönkrész rövid, vaskos alappal rögzül a faanyaghoz, felülete finoman nemezes, krémszínű vagy világosbarna.",
-      flesh: "A hús rugalmas, szívós, szárazon törékeny, fehér vagy krémszínű. Illata kellemes, gombaszerű, íze enyhe, majd kissé borsosan csípőssé válik.",
-      sporePrint: "Fehér. A spórák elliptikusak, finoman szemölcsösek, méretük 4–5 × 2,5–3 μm, amiloidak.",
-      habitat: "Tavasztól őszig terem elhalt lombos fák (főként nyárfa, fűzfa, bükk) korhadó törzsén és tuskóin, nedves erdőkben.",
-      uses: "Ehető gomba, de viszonylag ritka, és csípős utóíze miatt kevésbé keresett. Fiatalon sütve vagy párolva készíthető el.",
-      confusion: "A valódi korallgombák (Ramaria fajok) a talajon nőnek, ágaik csúcsa hegyes vagy tompa, és sosem képeznek serlegszerű, csészésen benyomott végződéseket.",
-      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja számon."
+      description: "Korhadó faanyagon termő szaprotróf korallgomba-féle. Elterjedt Európában és Észak-Amerikában.",
+      cap: "A termőtest 4–12 cm magas, bokrosan elágazó, gyertyatartószerűen felálló ágakkal. Nagyon jellegzetes bélyege, hogy az ágak csúcsa kis kehely vagy csésze alakúan kiszélesedik, és a csésze pereméből nőnek ki az újabb ágacskák. Színe fehéres, krémszínű vagy halvány okkersárga.",
+      hymenium: "A termőréteg az ágak külső felületét simán borítja.",
+      stipe: "A tövénél egy rövid, vaskos tönkszerű rész rögzíti a faanyaghoz.",
+      flesh: "A hús rugalmas, fehéres. Kellemes illatú, íze kissé csípős vagy borsos.",
+      sporePrint: "Fehér. A spórák simák vagy finoman pontozottak, amiloidak, méretük mintegy 4–5 × 2–3 μm.",
+      habitat: "Tavasztól őszig terem kidőlt lombos fák (különösen rezgő nyár, fűzfa) korhadó rönkjein.",
+      uses: "Ehető gomba, de alapos főzést igényel; kissé borsos íze miatt fűszerként vagy vegyes gombaételekben használják.",
+      confusion: "A valódi korallgombák (Ramaria fajok) a talajon nőnek és ágaik vége nem csésze alakú.",
+      notes: "Egyedülálló gyertyatartószerű elágazási rendszere miatt mikroszkóp nélkül is könnyen felismerhető."
     }
     },
     sources: {
@@ -30813,7 +30812,7 @@ export const CATALOG = [
       uk: ["поліпор зонтичний"],
       fr: ["poule de bois"],
       it: ["grifola a ombrello"],
-      hu: ["ágas-bogas likacsosgomba"]
+      hu: ["ágas tapló"]
     },
     text: {
       tr: {
@@ -31117,16 +31116,16 @@ export const CATALOG = [
       notes: "Lo sclerozio sotterraneo vive in simbiosi obbligata con il micelio di specie del genere Armillaria."
     },
     hu: {
-      description: "Fakárosító parazita és szaprotróf taplógomba, amely barna tőkorhadást idéz elő idős lombhullató fák gyökerein. Európában, Észak-Amerikában és Kelet-Ázsiában honos, de Európa-szerte ritka és veszélyeztetett faj.",
-      cap: "A termőtest egy közös tőből dúsan elágazó, nagyméretű, gömbölyded bokrot alkot, amely 10–40 cm széles lehet, és több száz apró kalapocskából áll. Az egyes kalapok 1–4 cm átmérőjűek, kerekdedek, közepükön köldökösen bemélyedők, színük világosbarna, szürkésbarna vagy krémszínű, felületük finoman szálas-pikkelyes.",
-      hymenium: "A termőréteg fehér pórusokból és rövid csövekből áll, amelyek hosszan lefutnak az egyes ágacskákra. A pórusok aprók, szögletesek, fehér vagy krémszínűek.",
-      stipe: "A termőtest egy vastag, talajban rejtőző fekete szkleróciumból (álsklerócium) ered, amelyből egy vastag főtönk emelkedik ki, és többszörösen elágazva tartja a kis kalapokat.",
-      flesh: "A hús fehér, törékeny, lédús és puha; idősebb korban szívósabbá válik. Kellemes, fűszeres illatú és enyhe, jóízű.",
-      sporePrint: "Fehér. A spórák hengeresek, simák, méretük 7–10 × 2,5–3,5 μm.",
-      habitat: "Nyártól kora őszig terem idős lombos erdőkben (főként tölgy és bükk alatt), a fák tövében vagy tuskóján.",
-      uses: "Kiváló csemegegomba! Fiatalon kellemesen aromás és finom, levesekhez, ragukhoz vagy pirítva kitűnő. Hagyományos kínai gyógyászatban vizenyő és vesebetegségek kezelésére használják.",
-      confusion: "A bokrosgomba (Grifola frondosa) kalapjai nyelv vagy legyező alakúak és féloldalas rögzülésűek, nem köldökösen kerekdedek. Az óriás bokrosgomba (Meripilus giganteus) jóval nagyobb lapos legyezőket képez, amelyek nyomásra megfeketednek.",
-      notes: "Egy 2019-es IUCN-felmérés mérsékelten fenyegetettként (Near Threatened) sorolta be, több európai országban védett."
+      description: "Lombos fák tövében növő ritka parazita és szaprotróf taplógomba. Európa és Észak-Amerika melegkedvelő tölgyeseiben él, mindenütt ritkuló, védendő faj.",
+      cap: "A termőtest hatalmas, 20–50 cm átmérőjű bokrot alkot, amely akár több száz apró, 1–4 cm-es kerek kalapkából áll. Az egyes kalapok közepe köldökös, színük szürkésbarna, sárgásbarna vagy krémszínű.",
+      hymenium: "A csövek rövidek, fehérek, mélyen lefutók az ágacskákra. A pórusok aprók, fehérek vagy krémszínűek.",
+      stipe: "A termőtest egy vastag központi tuskóból többszörösen elágazó fehér tönkrendszerből áll, amely a föld alatti fekete szkleróciumból ered.",
+      flesh: "A hús fehér, fiatalon puha, törékeny, kellemes illatú és jóízű.",
+      sporePrint: "Fehér. A spórák simák, hengeresek, méretük mintegy 7–10 × 2,5–3,5 μm.",
+      habitat: "Nyáron és kora ősszel terem idős tölgyek és bükkök tövénél, a fák gyökerein.",
+      uses: "Fiatalon kitűnő csemegegomba, valamint nagyra becsült gyógygomba (a kínai orvoslásban Zhu Ling néven ismert vizelethajtó és immunerősítő szer). Vadon termő példányai ritkaságuk miatt kímélendők!",
+      confusion: "A bokrosgomba (Grifola frondosa) kalapjai nyelv alakúak és nem köldökösek, és nem képez ilyen szabályos kerek kalapkákat.",
+      notes: "Föld alatti fekete gumója (szkleróciuma) évekig életképes marad a talajban."
     }
     },
     sources: {
@@ -31914,16 +31913,16 @@ export const CATALOG = [
       confusion: "Il porcinello rosso (Leccinum aurantiacum) cresce principalmente sotto querce e ha squamette sul gambo che sono bruno-rossastre fin da giovane."
     },
     hu: {
-      description: "Nagy termetű, ektomikorrhizás érdestinóru. Főként Európában él, ahol rezgő nyárral (Populus tremula) képez mikorrhizát.",
-      cap: "A kalap 8–20 cm átmérőjű, kezdetben félgömb alakú, majd domborúvá válik. Színe élénk narancsvörös, téglavörös vagy cinóbervörös. Felülete finoman bársonyos, nedvesen kissé ragadós; a kalapbőr a szélén túlnyúlik a csöveken, és rásimul a termőrétegre.",
-      hymenium: "A csövek hosszúak, fehéres vagy piszkos krémszínűek, a tönk körül mély árokkal elválasztottak. A pórusok aprók, kerekdedek, szürkésfehérek, érintésre lassan szürkésbarnára vagy lilásbarnára színeződnek.",
-      stipe: "A tönk 10–20 cm magas és 2–5 cm vastag, vaskos, hengeres vagy lefelé vastagodó. Fehér alapszínű, amelyet fiatalon tiszta fehér pikkelykék fednek; ezek a pikkelyek csak idős korban vagy száradáskor színeződnek barnára vagy rozsdabarnára.",
-      flesh: "A hús vastag, kemény, fehér; vágásra a kalapban és a tönkcsúcsban először lilásrózsaszínre, majd lassan szürkésfeketére sötétedik, a tönk tövében gyakran kékeszöld foltok jelennek meg. Kellemes gombaillatú és enyhe ízű.",
-      sporePrint: "Dohánybarna vagy okkerbarna. A spórák orsó alakúak, simák, méretük 13–17 × 4,5–5,5 μm.",
-      habitat: "Nyártól késő őszig terem rezgő nyár (Populus tremula), ritkábban más nyárfajok alatt erdőkben, erdőszéleken és parkokban.",
-      uses: "Jóízű ehető gomba, de alapos főzést igényel, mivel nyersen gyomorpanaszokat okozhat. Hőkezelés hatására a húsa megfeketedik.",
-      confusion: "A tölgyfa-érdestinóru (Leccinum aurantiacum) tölgyek alatt nő és tönkpikkelyei kezdettől fogva vörösesbarnák. A kormostönkű érdestinóru (Leccinum versipelle) nyírfák alatt nő, és tönkpikkelyei már fiatalon szürkésfeketék.",
-      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja számon."
+      description: "Rezgő nyárral mikorrhizát képező érdestinóru. Európa-szerte elterjedt és a nyárasokban gyakori.",
+      cap: "A kalap 6–20 cm átmérőjű, kezdetben félgömb alakú, majd párnásan domborúvá válik. Ragyogó narancsvörös, téglavörös vagy élénk rozsdavörös színű, felülete finoman bársonyos, szegélyén a kalapbőr jellegzetesen túlnyúlik.",
+      hymenium: "A csövek hosszúak, fehéres-szürkék, a pórusok aprók, krémszínűek, majd barnásszürkék, nyomásra barnulnak.",
+      stipe: "A tönk 8–20 cm hosszú és 2–4 cm vastag, vaskos, fehéres alapon fiatalon sokáig tiszta fehér pikkelyekkel borított, amelyek csak idős korban színeződnek barnásra vagy feketésre.",
+      flesh: "A hús fehér, tömör, elvágva a kalapban és tönkcsúcson szürkéslilára vagy ibolyásfeketére sötétedik, a tönk tövében zöldeskékre vált. Kellemes gombaillatú és enyhe ízű.",
+      sporePrint: "Dohánybarna vagy olívbarna. A spórák orsó alakúak, méretük mintegy 13–17 × 4–5 μm.",
+      habitat: "Júniustól októberig terem kizárólag rezgő nyár (Populus tremula) alatt erdőkben, erdőszéleken.",
+      uses: "Kiváló ehető gomba, alapos főzést igényel. Húsa főzéskor megfeketedik.",
+      confusion: "A tölgyfa-érdestinóru (Leccinum aurantiacum) tölgy alatt él és tönkpikkelyei már fiatalon vörösbarnák.",
+      notes: "A fehér tönkpikkelyek jelenléte fiatal korban a legfontosabb határozóbélyege."
     }
     },
     sources: {
@@ -32676,16 +32675,16 @@ export const CATALOG = [
       notes: "Due ex varietà sono oggi trattate come specie autonome: Hygrophoropsis macrospora e Hygrophoropsis rufa."
     },
     hu: {
-      description: "Szaprotróf talajlakó és fakorhasztó gomba. Nagyon gyakori Európában és Észak-Amerikában, főleg fenyvesekben és savanyú talajú erdőkben.",
-      cap: "A kalap 2–8 cm átmérőjű, kezdetben domború, majd lapossá, végül tölcséressé válik, begöngyölt, hullámos széllel. Színe élénk sárgásnarancs, narancsvörös vagy barnásnarancs, a közepe felé sötétebb. Felülete száraz, finoman nemezes vagy bársonyos.",
-      hymenium: "A lemezek valódi lemezek (nem ráncok), sűrűn állók, többszörösen villásan elágazók, mélyen lefutnak a tönkre. Színük élénk narancssárga vagy narancsvörös, élénkebb a kalap színénél.",
-      stipe: "A tönk 3–6 cm magas és 0,4–1 cm vastag, hengeres, gyakran görbült, a kalappal megegyező színű vagy a töve felé sötétebb barnásfekete árnyalatú.",
-      flesh: "A hús sárgásnarancs vagy krémszínű, puha, vékony és hajlékony. Illata és íze enyhe, nem jellegzetes.",
-      sporePrint: "Fehér vagy halvány krémszínű. A spórák elliptikusak, simák, méretük 5,5–7 × 3,5–4,5 μm, dextrinoidak.",
-      habitat: "Késő nyártól késő őszig (fagyokig) terem fenyvesekben és vegyes erdőkben, savanyú talajon, mohában, tűlevél-almon és korhadó tuskókon.",
-      uses: "Ehető, de gyenge minőségű gomba; íze és állaga elmarad az igazi rókagombáétól, egyeseknél enyhe gyomorpanaszokat is okozhat.",
-      confusion: "A sárga rókagomba (Cantharellus cibarius) termőrétege nem valódi lemezekből, hanem vastag ráncokból áll, húsa kemény, fehér és kajszibarack illatú. A mérgező világító tölcsérgomba (Omphalotus olearius) jóval nagyobb termetű, fatuskókon nő, és lemezei a sötétben világítanak.",
-      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja számon."
+      description: "Fenyvesek talaján és faanyagon termő szaprotróf gomba. Nagyon elterjedt és gyakori Európában és Észak-Amerikában.",
+      cap: "A kalap 2–8 cm átmérőjű, kezdetben domború, majd tölcséressé válik, széle begöngyölt és hullámos. Színe élénk narancssárga, sárgásnarancs vagy barnásnarancs, felszíne finoman bársonyos-nemezes.",
+      hymenium: "A lemezek valódi lemezek: rendkívül sűrűn állók, többszörösen villásan elágazók, mélyen lefutók a tönkre, élénk narancssárga színűek, sokkal élénkebbek, mint a kalap felszíne.",
+      stipe: "A tönk 3–6 cm hosszú és 0,4–0,8 cm vastag, hengeres vagy lefelé vékonyodó, narancssárga vagy barnásnarancs, gyakran hajlott.",
+      flesh: "A hús puha, vékony, narancssárga vagy sárgás, nem tiszta fehér. Szaga és íze enyhe, nem gyümölcsös.",
+      sporePrint: "Fehér vagy krémszínű. A spórák simák, dextrinoidak, méretük mintegy 5,5–7 × 3,5–4,5 μm.",
+      habitat: "Augusztustól novemberig terem fenyvesekben, mohás avaron, korhadó tuskók körül vagy fenyőtűkön, gyakran csoportosan.",
+      uses: "Ehetőnek minősül, de gyenge minőségű, puha állagú és ízetlen, egyes érzékeny embereknél gyomorrontást okozhat.",
+      confusion: "A valódi sárga rókagomba (Cantharellus cibarius) erezete vastag ráncokból áll (nem sűrű vékony valódi lemezekből), húsa tiszta fehér és finom kajszibarackillatú.",
+      notes: "A rókagombát kereső kezdő gombászok leggyakoribb tévesztése, de szerencsére nem veszélyesen mérgező."
     }
     },
     sources: {
@@ -33492,16 +33491,16 @@ export const CATALOG = [
       notes: "In passato forme a cappello ocraceo venivano distinte come Entoloma eulividum."
     },
     hu: {
-      description: "Súlyosan mérgező ektomikorrhizás gomba. Melegkedvelő európai faj, amely meszes talajú lomberdőkben él bükk és tölgy alatt. Észak-Amerikában és Ázsiában is előfordul.",
-      cap: "A kalap 6–18 cm átmérőjű, vaskos, húsos, kezdetben domború, behajló széllel, majd kiterül és hullámossá válik, közepén tompa púppal. Színe szürkésfehér, elefántcsontszínű vagy világos szarvasbarna. Felülete száraz, selymesen fénylő vagy finoman sugarasan szálas.",
-      hymenium: "A lemezek sűrűn állók, a tönk előtt öblösen felkanyarodók (majdnem szabadok). Fiatalon sárgásfehérek vagy krémszínűek, majd a spórák érésével jellegzetes lazacrózsaszínre vagy húsvörösre színeződnek.",
-      stipe: "A tönk 5–12 cm magas és 1,5–3,5 cm vastag, vaskos, zömök, hengeres vagy a tövénél kissé gumósan duzzadt, fehér színű, hosszantian szálas. Gallérja és bocskora nincs.",
-      flesh: "A hús vastag, kemény, fehér, elvágva nem változtatja a színét. Erős, kellemetlen lisztszaga vagy avas lisztszaga és lisztíze van.",
-      sporePrint: "Lazacrózsaszín vagy húspiros. A spórák szögletesek (5–6 szögletűek), méretük 8–11 × 7–9,5 μm.",
-      habitat: "Nyártól kora őszig terem meleg lomberdőkben (tölgy, bükk, gyertyán alatt), ligetekben, parkokban, meszes vagy agyagos talajon.",
-      uses: "Súlyosan mérgező gomba! Heves gyomor- és bélrendszeri mérgezést (resztitúciós gasztroenteritiszt) okoz. A tünetek 1–4 órán belül jelentkeznek heves hányással, hasmenéssel, hasi görcsökkel, lázzal és súlyos kiszáradással, amely orvosi ellátás nélkül végzetes is lehet.",
-      confusion: "A májusi pereszke (Calocybe gambosa) tavasszal terem és lemezei mindvégig fehérek maradnak. A mezei csiperke (Agaricus campestris) gallérral bír és lemezei csokoládébarna színűre sötétednek. A szürke tölcsérgomba (Clitocybe nebularis) lemezei lefutók és spórapora fehéres.",
-      notes: "Egy 2019-es IUCN-értékelés nem fenyegetettként (Least Concern) sorolta be."
+      description: "Melegkedvelő lomberdők talaján termő ektomikorrhizás nagygomba. Európa-szerte elterjedt a meleg tölgyesekben és bükkösökben, ritkább az északi területeken.",
+      cap: "A kalap 6–20 cm átmérőjű, nagyon vaskos és súlyos, domborúból laposra kiterülő, tompa púppal. Színe ólomszürke, krémszürke vagy sárgásfehér, felszíne selymesen fénylő, finoman szálas, száraz.",
+      hymenium: "A lemezek szélesek, a tönk előtt mélyen felkanyarodók vagy majdnem szabadok. Kezdetben sárgásfehérek, majd az érés során a spóráktól jellegzetes hússzínűre, lazacrózsaszínre színeződnek.",
+      stipe: "A tönk 5–15 cm hosszú és 1,5–3,5 cm vastag, vaskos, hengeres vagy a tövénél kissé megvastagodott, fehér vagy krémszínű, szálas-fényes felületű.",
+      flesh: "A hús vastag, kemény, tiszta fehér, elvágva nem változik. Nagyon intenzív, átható, kellemes friss lisztszagú és lisztízű.",
+      sporePrint: "Rózsaszín vagy lazacszínű. A spórák jellegzetesen szögletesek (5–6 szögletűek), méretük mintegy 8–11 × 7–9 μm.",
+      habitat: "Júniustól októberig terem melegkedvelő lomberdőkben, legfőképp tölgy és bükk alatt, meszes talajon, gyakran kis csoportokban vagy körökben.",
+      uses: "Súlyosan mérgező, haláleseteket is okozott! Erős gyomor-bélrendszeri toxinokat tartalmaz, amelyek heves, csillapíthatatlan hányást, hasmenést, súlyos kiszáradást és májkárosodást idéznek elő.",
+      confusion: "A májusi pereszke (Calocybe gambosa) tavasszal terem, lemezei fehérek maradnak és spórapora fehér. A szürke tölcsérgomba (Clitocybe nebularis) lemezei lefutók és édeskés-parfümös szagú. A mezei csiperke (Agaricus campestris) galléros és lemezei csokoládébarna színűre sötétednek.",
+      notes: "A legveszélyesebb gyomor-bélrendszeri mérgezést okozó európai gomba, amely kiváló külleme és kellemes lisztszaga miatt sok tévesztéshez vezet."
     }
     },
     sources: {
@@ -34292,16 +34291,16 @@ export const CATALOG = [
       notes: "Una volta rotto l'ovolo, il gambo spugnoso può allungarsi di 10–15 cm in una sola ora grazie al rapido rigonfiamento cellulare."
     },
     hu: {
-      description: "Szaprotróf gomba, a szömörcsögfélék legismertebb európai képviselője. Széles körben elterjedt és gyakori Európában és Észak-Amerikában. Spóráit legyek és egyéb rovarok terjesztik, amelyeket a dögszagú gleba vonz magához.",
-      cap: "A süvegrész 3–5 cm magas, kúp alakú, tetején fehér koronggal (nyílással). Felszíne méhsejt-szerűen bordázott és gödrös, amelyet kezdetben sötét olívzöld vagy feketészöld, nyálkás, kellemetlen hullaszagú termőréteg (gleba) borít. Miután a legyek letisztogatják a glebát, a bordázat tiszta fehér vagy sárgásfehér színűvé válik.",
-      hymenium: "A termőréteg (gleba) a süveg külső felületén helyezkedik el nyálkás, zöldes massza formájában.",
-      stipe: "A tönk 10–25 cm magas és 2–4 cm vastag, hengeres, hófehér, belül üreges, fala szivacsszerűen kamrás és lyukacsos. Tövét zsákszerű, kocsonyás fehér bocskor övezi, amely a boszorkánytojás maradványa.",
-      flesh: "A süveg és a tönk húsa törékeny, kamrás, fehér; a boszorkánytojásban zöldes, kocsonyás réteg veszi körül a leendő gombatestet. A kifejlett gomba átható, undorító dögszagot áraszt, míg a fiatal boszorkánytojás retekillatú.",
-      sporePrint: "Spórapora nem nyerhető a szokásos módon; a spórák a nyálkás glebában úsznak. A spórák elliptikusak, simák, méretük 3,5–5 × 1,5–2 μm.",
-      habitat: "Nyártól késő őszig terem lomblevelű és fenyőerdőkben, ligetekben, parkokban, nitrogéndús és korhadékban gazdag talajon.",
-      uses: "Csak a fiatal, még zárt, föld alatt fejlődő termőtest (az úgynevezett „boszorkánytojás”) ehető, miután a külső héját és a zselés réteget eltávolították. Nyersen retek ízű, vagy szeletelve és kirántva fogyasztható. A kinyílt, dögszagú gomba étkezésre alkalmatlan.",
-      confusion: "A homoki szömörcsög (Phallus hadriani) homokos talajon terem, és boszorkánytojása, valamint bocskora rózsaszínes vagy ibolyáslila színű. A kutyaszömörcsög (Mutinus caninus) kisebb termetű, süvege narancsvörös és nem válik el élesen a tönktől.",
-      notes: "A boszorkánytojás felrepedése után a tönk rendkívüli sebességgel nő meg: egyetlen óra alatt akár 10–15 cm-t is nyúlhat."
+      description: "Erdei talajon és avarban élő szaprotróf gomba. Nagyon elterjedt és gyakori Európában, Észak-Amerikában és Ázsiában.",
+      cap: "A fejlődés kezdetén a termőtest egy föld alatti vagy félig a talajban ülő, 3–6 cm-es fehéres „boszorkánytojás”. A tojás felrepedésekor néhány óra alatt kibújik belőle a termőtest: a csúcsán lévő 3–5 cm magas, kúp alakú, méhsejtszerűen gödrös süveg, amelyet sötét olívzöld, nyálkás gleba borít, tetején egy fehér lyukas koronggal.",
+      hymenium: "A termőréteg (gleba) a süveget kívülről borító zöldes, bűzös nyálkaréteg, amelyben a spórák találhatók.",
+      stipe: "A tönk 10–20 cm magas és 2–4 cm vastag, tiszta fehér, hengeres, szivacsos-üreges szerkezetű, nagyon törékeny és könnyű, a tövénél a felrepedt tojásmaradványok (bocskor) veszik körül.",
+      flesh: "A kifejlett gomba húsa szivacsos, fehér. Rendkívül átható, messziről érezhető, elviselhetetlen dögszagot (rothadó hús bűzét) áraszt, amely odavonzza a legyeket; a legyek a zöld nyálkát elfogyasztva terjesztik a spórákat.",
+      sporePrint: "Sárgászöldes. A spórák simák, aprók, hengeresek, méretük mintegy 3,5–5 × 1,5–2 μm.",
+      habitat: "Májustól novemberig terem lomb- és tűlevelű erdőkben, parkokban, kertekben, laza, humuszos talajon.",
+      uses: "A fiatal „boszorkánytojás” állapotban – a zselés burok lehúzása után a belső kemény mag – ehető, retekre emlékeztető ízű, nyersen vagy sütve fogyasztható. Kifejlett, bűzös állapotában teljesen alkalmatlan étkezésre.",
+      confusion: "A homoki szömörcsög (Phallus hadriani) boszorkánytojása ibolyás vagy rózsaszínes színű és homokos területeken él.",
+      notes: "Gyors növekedése és fallikus alakja miatt a népi hiedelemvilágban a termékenységgel és boszorkánysággal hozták kapcsolatba."
     }
     },
     sources: {
@@ -35112,16 +35111,16 @@ export const CATALOG = [
       confusion: "Il poliporo marginato (Fomitopsis pinicola) cresce soprattutto su conifere, ha carne più chiara e cuticola che cola resina se accostata a una fiamma."
     },
     hu: {
-      description: "Évelő, fehérkorhadást okozó taplógomba, amely élő lombos fák törzsén parazita, az elhalt faanyagon és tuskókon szaprotróf életmódot folytat. Elterjedt a mérsékelt égövi Európában, Észak-Afrikában, a Kanári-szigeteken, Ázsiában (beleértve Indiát és Pakisztánt), valamint Észak-Amerika keleti részén és Dél-Afrikában. Dél-Angliában és Írországban ritka, Skóciában és Közép-Európában gyakori.",
-      cap: "A termőtest évelő, tönk nélküli (ülő), jellegzetesen lópatkó vagy vastag konzol alakú, teljes szélességében szorosan a fatörzshöz nőtt. Gyakran magányos, olykor egymás felett emeletesen elhelyezkedő vagy összenőtt. Szélessége rendszerint 10–40 cm, a nagyobb példányok elérhetik az 50 cm-t, kivételesen a 60 cm-t is; nyírfán általában kisebb, mintegy 20 cm-es. Magassága 7–15 cm (öreg példányoknál 20–25 cm), a fához rögzülő tövénél elérheti a 20 cm-es vastagságot. Felületét kemény, fénytelen, 1–3 mm vastag kéregrész borítja, amely keresztmetszetben fekete és csillogó, koncentrikus sávokkal és barázdákkal tagolt. Színe fiatalon világosszürke, szürkésbarna vagy mogyoróbarna, idős korban ezüstszürke vagy csaknem fekete; a növekedési zóna és a lekerekített szél sárgás, rozsdabarna vagy bőrsárga.",
-      hymenium: "A csövek rozsdabarnák vagy sötétbarnák, rétegzettek; minden egyes réteg 2–10 mm vastag. Egyetlen évben több (gyakran kettő) növekedési hullám is lezajlik, így a rétegek száma nem azonos a gomba pontos életkorával. A pórusok kerekdedek, vastag falúak, krémszínűek, szürkék vagy barna színűek, milliméterenként 2–5 (leggyakrabban 2–4) található belőlük. Nyomásra kissé megbarnulnak. Növekedés közben a termőréteg víztiszta cseppeket izzadhat.",
-      stipe: "Tönkje nincsen. A termőtest közvetlenül, széles alappal rögzül a fatörzshöz.",
-      flesh: "A hús rendkívül kemény, szívós, fás-parás állagú és szálas szerkezetű; színe sárgásbarna vagy rozsdabarna. A rögzülési pont közelében barna-fehér márványozott mag található. Illata gyengén gyümölcsös, íze fanyar, keserű vagy kellemetlen. Lúg hatására (kálium-hidroxid) a kéreg vérvörösre színeződik a fomentariol miatt, a trámája pedig megfeketedik.",
-      sporePrint: "Fehértől a citromsárgáig terjed. A spórák hengeresek vagy hosszas-elliptikusak, simák, méretük 12–23 × 4–8 μm (leggyakrabban 15–20 × 5–7 μm), inamiloidak.",
-      habitat: "A termőtestek egész évben jelen vannak. Spóráit főleg tavasszal szórja szét. Elsősorban bükkfán (Fagus sylvatica) él Közép-Európában, míg északon nyírfán, délebbre pedig tölgyön és nyárfán fordul elő. A termőtestek akár 30 évig is élhetnek.",
-      uses: "Étkezésre teljesen alkalmatlan fás és kemény állaga miatt. A belső parás húsából régen taplót (tűzcsiholáshoz használt gyújtóst) készítettek; Ötzi, a jégember felszerelésében is találtak belőle darabokat. Emellett gyógyászati vérzéscsillapítóként, valamint sapkák, kesztyűk és más ruházati tárgyak készítésére (taplóművesség) használták fel.",
-      confusion: "A jegenyefenyő-tapló (Fomitopsis pinicola) kalapján narancssárga vagy vöröses növekedési szegély látható és sárgásbarna korhadást okoz. A vastagkérgű tapló (Ganoderma adspersum) spórapora kakaóbarna, és kalapkérege könnyebben benyomható.",
-      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja számon."
+      description: "Lombos fák fehérkorhadást okozó évelő taplógombája, amely az élő törzsön parazita, az elhalt faanyagon és tuskókon pedig szaprotróf. Elterjedési területe a mérsékelt övi Európán, Észak-Afrikán, a Kanári-szigeteken és Ázsián (köztük Indián és Pakisztánon) át Észak-Amerika keleti részéig terjed, és előfordul Dél-Afrikában is. Dél-Britanniában és Írországban ritka, Skóciában gyakori.",
+      cap: "A termőtest évelő és ülő, pata alakú vagy vastag konzol formájú, teljes szélességében a fához rögzülve. Gyakran magányos, olykor emeletesen elhelyezkedő vagy összenőtt. Szélessége általában 10–40 cm, nagy termőtesteknél mintegy 50 cm-ig, kivételes példányoknál 60 cm-ig terjed. Nyírfán rendszerint kisebb, gyakran körülbelül 20 cm széles. Magassága általában 7–15 cm, és idős termőtesteknél eléri a 20–25 cm-t, a rögzülésnél mintegy 20 cm-es vastagsággal. Az első évek után a konzol inkább vastagodik, mint szélesedik. Felszíne kemény, fénytelen, mintegy 1–3 mm vastag kéreg, metszetben fekete és fénylő, koncentrikusan barázdált és nem lakkozott. Fiatalon halványszürke, szürkésbarna, szürkésokker, piszkos sárgásbarna vagy mogyoróbarna, idősen pedig ezüstszürkétől a majdnem feketéig sötétedik. A fiatal termőtestek és a növekedési zóna sárgák, vörösesbarnák, rozsdabarnák vagy bőrsárgák. Szegélye tompa és lekerekített, és világosabb a mögötte lévő kéregnél.",
+      hymenium: "A csövek rozsdabarnák vagy barnák, és rétegekben rakódnak le. Mindegyik réteg mintegy 2–10 mm vastag. Egy évben több növekedési hullám, gyakran kettő is lezajlik, ami azt jelenti, hogy a rétegek száma nem egyezik meg az életkorral, és a legalsó réteg a legfiatalabb. Ha a fatörzs kidől, az új növekedés a pórusokat lefelé fordítja. Az idősebb csövek fehéres anyaggal tömődnek el. A pórusok kerekdedek és vastag falúak, krémszínűek, fehéresek, halványszürkék, okkerek vagy barnák, milliméterenként mintegy 2–5, leggyakrabban 2–4 darabbal, körülbelül 0,2–0,4 mm átmérővel. Megnyomva besötétednek vagy kissé megbarnulnak, és a pórusfelszín kissé homorú lehet. Növekedés közben a hymenium tiszta folyadékcseppeket izzadhat ki. Cisztídiumok nincsenek. A bazídiumok bunkósak, hialinok és négy spórásak, bazális csattal.",
+      stipe: "Tönkje nincs. A konzol közvetlenül a teljes szélességében rögzül.",
+      flesh: "A hús kemény, parafás vagy fás és rostos, világosbarna, sárgásbarna, sárgásbarna-sárgásvörös vagy rozsdabarna színű. A rögzülés közelében egy szemcsés, barna-fehér márványozott mag található egy szívósabb, 2–5 cm vastag sárgásbarna rostos réteg alatt. A kontextus gyakran vékony a csőrétegek mellett. Szaga gyengén gyümölcsös vagy enyhe, íze csípős, keserű vagy kellemetlen. A hifarendszer trimitikus. A generatív hifák vékony falúak, hialinok és csatosak, a szkelet- és kötőhifák vastag falúak és sárgásbarnától az aranybarnáig terjednek, a kötőhifák pedig elágazók. A lúgok a kérget a fomentariol miatt sötét vérvörösre színezik, a kálium-hidroxid pedig feketére változtatja a tramát.",
+      sporePrint: "A spórapor fehértől a citromsárgáig terjed. Egyes beszámolók fehérnek vagy fehéresnek, mások halvány citromsárgától az élénk citromsárgáig írják le a port. Száraz időben fehér porként mutatkozhat. A spórák hengeresektől a hosszúkás-ellipszoidig terjednek, simák, vékony falúak és inamiloidak, hialintól a halványsárgáig terjedő színűek. A közölt méretek mintegy 12–23 × 4–8 μm-t tesznek ki, leggyakrabban 15–20 × 5–7 μm. Az epitípusból származó spórák (12,5–)13,5–18(–20,5) × 4,5–6,5(–7,5) μm méretűek.",
+      habitat: "A termőtestek egész évben jelen vannak, és a növekedés kora nyártól őszig a legerősebb. A spórák főként tavasszal szabadulnak fel, egy kisebb őszi hullámmal, viszonylag alacsony hőmérsékleten. Egy termőtest a tavaszi csúcs idején akár mintegy 887 millió bazídiospórát is szétszórhat egyetlen óra alatt. A konzolok élő és elhalt lombos fák törzsén, tuskóin és kidőlt rönkjein nőnek, és a sérült kérgen keresztül hatolnak be. Északon, valamint lápokon és fenyéreken a nyír a szokásos gazdanövény. Közép-Európában, beleértve a hegyi bükkösöket, a bükk a fő gazdafa. Délebbre a tölgy a szokásos mediterrán gazdanövény, és a nyárfát is déli gazdaként említik. További gazdafák a fűz, a juhar, a hárs, a gyertyán, a cseresznye, a hikoridió, a hegyi juhar, a dió és az éger. A fenyők kivételesek. A micélium látensen megmaradhat az élő bükktörzsekben. A korhadás fehérkorhadás, amely a faanyagot fakóvá és rostossá teszi, és a korhadt fa apró pelyhekre és szálakra bomlik. A termőtestek akár 30 évig is élnek. A fa elpusztulása után a növekedés leállhat, miközben a konzolok rögzülve maradnak.",
+      uses: "A termőtest nem ehető. Túl fás állagú, húsa keserű vagy csípős. A rostos tramából régóta taplót készítettek, amelyet tűzgyújtásra és lassú gyújtózsinórként használtak, valamint bőrszerű anyaggá kalapálták sapkákhoz, kesztyűkhöz és nadrágokhoz, továbbá műlegyek szárítására a horgászatban. Ötzi négy darabot vitt magával, amelyeket taplóként használt. A húst vérzéscsillapító sebkötözőként árulták. A belőle készült port, teát és pálinkát a huszadik században még belsőleg is fogyasztották. Az ókori és középkori orvoslásban a sebkötözés mellett fekélyek, ízületi fájdalmak és gyomorpanaszok kezelésére is alkalmazták.",
+      confusion: "A jegenyefenyő-tapló (Fomitopsis pinicola) kérge narancsos vagy vöröses szegélyű, lakkréteggel borított, amely láng hatására megolvad, és húsa nem színeződik vérvörösre lúg hatására. A vastagtapló (Inonotus dryadeus) tölgyfán él, felszínén fiatalon sárga folyadékcseppek képződnek.",
+      notes: "A neolitikum óta az emberi kultúra egyik legfontosabb taplógombája a tűzcsiholásban és a gyógyászatban."
     }
     },
     sources: {
@@ -35930,16 +35929,16 @@ export const CATALOG = [
       notes: "Forme completamente prive di pigmento (albine) sono state descritte a livello tassonomico come Auricularia lactea."
     },
     hu: {
-      description: "Fakárosító szaprotróf és gyengültségi parazita gombafaj, amely fehérkorhadást idéz elő. Széles körben elterjedt és gyakori Európában, ahol szinte kizárólag bodzafán (Sambucus nigra) él; Észak-Amerikában és Kelet-Ázsiában rokon fajok helyettesítik.",
-      cap: "A termőtest 2–10 cm széles, kagyló, csésze, leggyakrabban emberi fül alakú, hullámos, ráncolt széllel. Felső felülete vörösesbarna, lilásbarna vagy sötétbarna, finoman bársonyos-szőrös. Száraz időben összezsugorodik, megkeményedik és szinte feketévé válik, nedvesség hatására azonban visszanyeri eredeti rugalmas, kocsonyás alakját.",
-      hymenium: "A termőréteg a termőtest belső, alsó, sima vagy ráncos, erezett felületén helyezkedik el. Színe vörösesbarna vagy szürkéslila, száradáskor sötétedik.",
-      stipe: "Tönkje rendszerint nincs, vagy csak egy apró, csökevényes tuskószerű rögzülési ponttal kapcsolódik az ághoz.",
-      flesh: "A hús vékony, kocsonyás, rugalmas és porcos, szárazon merev, szaruszerű és törékeny. Szaga és íze nem jellegzetes.",
-      sporePrint: "Fehér. A spórák kolbász alakúak (allantoidak), simák, méretük 14–22 × 5–7 μm.",
-      habitat: "Egész évben terem (még a téli fagymentes napokon is) elhalt vagy haldokló fekete bodza (Sambucus nigra) ágain és törzsén, ritkábban más lombos fákon, például bükkön, tölgyön vagy kőrisen.",
-      uses: "Kiváló ehető gomba! A kínai konyha egyik legismertebb alapanyaga, levesekben, wokban pirított ételekben és salátákban széles körben kedvelt rugalmas, roppanós állaga miatt. Szárítva sokáig eláll, és vízbe áztatva perceken belül regenerálódik.",
-      confusion: "A szalagos fülgomba (Auricularia mesenterica) felső része sűrűn szőrös, zónázott és vastagabb húsú. A mérgező fajokkal aligha téveszthető össze.",
-      notes: "Egy 2019-es IUCN-értékelés nem fenyegetettként (Least Concern) sorolta be."
+      description: "Lombos fák, különösen bodza elhalt ágain növő kocsonyás szaprotróf gomba. Világszerte elterjedt és gyakori a mérsékelt és szubtrópusi tájakon.",
+      cap: "A termőtest 3–10 cm átmérőjű, kagyló, csésze vagy emberi fül alakú, hullámos, ráncos széllel. Színe vörösesbarna, májbarna vagy sötétbarna, száradáskor szinte feketévé és szarusan keménnyé válik, nedvesség hatására újra feléled és rugalmas kocsonyássá duzzad. Külső felszíne finoman nemezes-bársonyos.",
+      hymenium: "A belső, spóratermő felszín sima vagy ráncos, fénylő, vörösesbarna.",
+      stipe: "Tönkje nincs vagy csak egy apró tuskószerű rögzülési pont képviseli.",
+      flesh: "A hús vékony, rugalmas, porcos-kocsonyás, áttetszően barnás. Szaga és íze nem jellegzetes.",
+      sporePrint: "Fehér. A spórák kolbász alakúak (allantoidak), simák, méretük mintegy 14–18 × 5–7 μm.",
+      habitat: "Egész évben (télen enyhe, fagymentes napokon is) megtalálható elhalt fekete bodza (Sambucus nigra), valamint bükk, juhar és akác ágain, csoportosan.",
+      uses: "Kiváló ehető gomba! Különösen a távol-keleti (kínai) konyha kedvelt alapanyaga („fafülgomba”), levesekben, pirított zöldséges ételekben ropogós, porcos textúrája miatt népszerű. Véralvadásgátló és keringésjavító hatású.",
+      confusion: "A jegenyefenyő-kocsonyagomba (Tremiscus helvelloides) talajon nő és lapát alakú. A barna mirigygomba (Exidia recisa) fűzfán terem és lágyabb kocsonyájú.",
+      notes: "Nevét a keresztény hagyományról kapta, amely szerint Júdás egy bodzafára akasztotta fel magát."
     }
     },
     sources: {
@@ -36769,16 +36768,16 @@ export const CATALOG = [
       notes: "È l'unica specie indigena del genere Tylopilus presente in Europa. Una valutazione del 2025 la colloca a minor preoccupazione (Least Concern)."
     },
     hu: {
-      description: "Ektomikorrhizás tinórugomba. Gyakori Európa és Észak-Amerika fenyő- és lombhullató erdőiben, különösen savanyú talajokon és korhadó tuskók körül.",
-      cap: "A kalap 5–15 cm átmérőjű, kezdetben félgömb alakú, majd párnásan domborúvá válik. Színe sárgásbarna, szürkésbarna vagy mogyoróbarna. Felülete szárazon sima vagy finoman bársonyos, nedvesen kissé tapadós.",
-      hymenium: "A csövek a tönk körül mélyen bemetszettek. Fiatalon fehérek, de hamarosan jellegzetes piszkosrózsaszínre vagy hússzínűre váltanak, megnyomva barnás árnyalatot kapnak.",
-      stipe: "A tönk 6–15 cm magas és 2–5 cm vastag, vaskos, lefelé kissé megvastagodott vagy bunkószerű. Sárgásbarna vagy világosbarna alapon feltűnő, durva, kidomborodó sötétbarna vagy feketés hálózat díszíti.",
-      flesh: "A hús vastag, puha, fehér, vágásra alig változik, legfeljebb kissé rózsásodik. Szaga nem jellegzetes, íze azonban rendkívül keserű (epekeserű), már egyetlen apró darabja is tönkreteszi az egész gombaételt.",
-      sporePrint: "Rózsaszínes vagy hússzínű-barna. A spórák orsó alakúak, simák, méretük 11–15 × 4–5 μm.",
-      habitat: "Nyártól késő őszig terem savanyú talajú fenyvesekben (lucfenyő, erdeifenyő alatt) és lomberdőkben (bükk, tölgy alatt), gyakran korhadó fenyőtuskók tövében.",
-      uses: "Nem ehető, élvezhetetlenül keserű gomba. Nem mérgező, de keserűsége miatt fogyasztásra alkalmatlan, és a főzés sem tünteti el az epés ízt.",
-      confusion: "Az ízletes vargánya (Boletus edulis) tönkcsúcsán fehér hálózat látható, csövei sosem rózsásodnak (idővel sárgászöldek lesznek), és húsa kellemesen mogyoróízű. A nyári vargánya (Boletus reticulatus) kalapja világosabb, és szintén nem rózsásodó pórusú.",
-      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja számon."
+      description: "Fenyvesek és savanyú talajú lomberdők ektomikorrhizás faja. Elterjedt és gyakori Európában és Észak-Amerikában.",
+      cap: "A kalap 5–15 cm átmérőjű, kezdetben félgömb alakú, majd párnásan domborúvá válik. Színe sárgásbarna, mogyoróbarna vagy szürkésbarna, felszíne száraz, finoman bársonyos, majd lecsupaszodó.",
+      hymenium: "A csövek hosszúak, a tönk körül mélyen beöblösödők. A pórusok fiatalon fehérek, de hamarosan jellegzetes húsrózsaszín vagy piszkos rózsaszínes árnyalatot kapnak, nyomásra barnulnak.",
+      stipe: "A tönk 6–15 cm hosszú és 2–4 cm vastag, vaskos, hengeres vagy a tövénél megvastagodott. Világosbarna vagy okkersárga alapon nagyon feltűnő, durva, kiemelkedő, sötétbarna vagy feketés hálózat díszíti.",
+      flesh: "A hús fehér, elvágva nem vagy csak nagyon gyengén, alig észrevehetően kap halvány rózsaszínes árnyalatot. Szaga gyenge, íze elviselhetetlenül, égetően keserű!",
+      sporePrint: "Rózsaszínes vagy hússzínű barna. A spórák orsó alakúak, simák, méretük mintegy 11–15 × 4–5 μm.",
+      habitat: "Júniustól októberig terem savanyú talajú fenyvesekben és bükkösökben, különösen erdeifenyő és lucfenyő alatt, olykor korhadó tuskókon is.",
+      uses: "Nem mérgező, de ehetetlen! Elviselhetetlen keserűsége a főzés során sem múlik el, egyetlen példány képes egy egész fazék gombaételt tönkretenni.",
+      confusion: "Az ízletes vargánya (Boletus edulis) és a nyári vargánya tönkcsúcsán finom fehér hálózat látható (nem sötétbarna hálózat világos alapon!), pórusai sosem válnak rózsaszínűvé, és ízük kellemes mogyorószerű, sosem keserű.",
+      notes: "A vargányát kereső gombászok leggyakoribb bosszúsága; a terepen egy apró darabka megkóstolásával és kiköpésével azonnal leleplezhető keserű íze."
     }
     },
     sources: {
@@ -37563,16 +37562,16 @@ export const CATALOG = [
       notes: "Classificato per lungo tempo nel genere Macrolepiota, è stato trasferito a Chlorophyllum sulla base di analisi filogenetiche molecolari."
     },
     hu: {
-      description: "Szaprotróf talajlakó gomba. Széles körben elterjedt és gyakori Európában és Észak-Amerikában a lombos és fenyőerdők avarjában.",
-      cap: "A kalap 8–18 cm átmérőjű, kezdetben gömbölyded vagy tojásdad, később kiterül, közepén tompa púppal. Alapszíne fehéres vagy világos krémszínű, amelyet sűrűn borítanak a nagy, durva, szürkésbarna vagy sötétbarna, felpöndörödő pikkelyek; a kalap közepe egységesen barna marad.",
-      hymenium: "A lemezek fehérek vagy krémszínűek, szabadon állók, sűrűn elhelyezkedők; sérülésre vagy megnyomva lassan narancsvörösre, majd barnára színeződnek.",
-      stipe: "A tönk 10–18 cm magas és 1,5–2,5 cm vastag, hengeres, a tövénél nagy, gumószerűen duzzadt peremmel. Felülete sima, fehéres vagy halványbarna, soha nem kígyóbőrszerűen zónázott. Vastag, eltolható, kettős élű gallérja van.",
-      flesh: "A hús vastag, a kalapban puha, a tönkben szálas-szívós; elvágva vagy megnyomva azonnal és feltűnően narancsvörösre, sáfránysárgára, majd piszkosbarna színűre változik. Illata és íze kellemes, aromás.",
-      sporePrint: "Fehér vagy krémszínű. A spórák elliptikusak, simák, méretük 9–12 × 6–7 μm, dextrinoidak.",
-      habitat: "Nyártól késő őszig terem tűlevelű és lombos erdőkben, különösen lucfenyvesek vastag tűlevél-almon, valamint kertekben, parkokban, komposzton és trágyás talajon.",
-      uses: "Jóízű ehető gomba, de alapos sütést-főzést igényel! Nyersen gyomorpanaszokat okozhat, és néhány ember érzékeny lehet rá. Csak a kalapja használható fel rántva, sütve vagy levesben.",
-      confusion: "A nagy őzlábgomba (Macrolepiota procera) tönkje sötétbarna kígyóbőrszerű mintázattal díszített, és húsa vágásra nem vörösödik. A kerti őzlábgomba (Chlorophyllum brunneum) tövén peremes gumó látható és gallérja egyszerű. A mérgező zöldspórás őzlábgomba (Chlorophyllum molybdites) spórapora zöldes árnyalatú.",
-      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja számon."
+      description: "Erdei szaprotróf gomba, amely tűlevelű és vegyes erdők humuszban gazdag talaján nő. Elterjedt és gyakori Európában és Észak-Amerikában.",
+      cap: "A kalap 8–18 cm átmérőjű, fiatalon gömbölyded, majd domborúvá, végül lapossá kiterül. Alapszíne piszkosfehér vagy krémszínű, amelyet vastag, durva, elálló, cseréptetőszerűen egymást fedő szürkésbarna pikkelyek borítanak. A kalap közepe egybefüggően sötétbarna marad.",
+      hymenium: "A lemezek szabadon állók, a tönktől távolabb végződnek, sűrűn helyezkednek el, fehérek, nyomásra vagy sérülésre narancsvörösre, majd barnára színeződnek.",
+      stipe: "A tönk 10–18 cm magas és 1–2 cm vastag, a tövénél egy nagy, peremes gumóban végződik. Felszíne sima, fehéres vagy világosbarna, teljesen hiányzik róla a nagy őzlábgombára jellemző kígyóbőrmintázat. Vastag, eltolható, kettős szélű gallért visel.",
+      flesh: "A hús fehér, elvágva vagy megsértve azonnal feltűnő sáfránynarancsra, narancsvörösre, majd vörösesbarnára változik. Kellemes mogyoróillatú és jóízű.",
+      sporePrint: "Fehér vagy krémszínű. A spórák simák, ellipszoidok, dextrinoidak, méretük mintegy 9–12 × 6–7 μm.",
+      habitat: "A termőtestek nyártól késő őszig jelennek meg. Tűlevelű erdőkben, különösen lucfenyvesek avarán, valamint kertekben, parkokban, komposzton és trágyás helyeken terem, gyakran csoportosan vagy boszorkánykörökben.",
+      uses: "Ehető gomba, de csak alapos sütés-főzés után fogyasztható. Egyes embereknél egyéni túlérzékenységet, allergiás gyomor-bélrendszeri panaszokat válthat ki, ezért első alkalommal csak kis mennyiségben ajánlott kóstolni.",
+      confusion: "A nagy őzlábgomba (Macrolepiota procera) tönkje sötéten márványozott, kígyóbőrszerű rajzolatú, és húsa sérülésre nem vörösödik. A mérgező zöldspórás őzlábgomba (Chlorophyllum molybdites) spórapora zöldes, lemezei éretten zöldes árnyalatúak, és súlyos mérgezést okoz. A kerti őzlábgomba (Chlorophyllum brunneum) tövén élesen peremes gumó található, és mérgező lehet.",
+      notes: "A korábbi szakirodalomban Macrolepiota rhacodes néven szerepelt, molekuláris vizsgálatok alapján sorolták át a Chlorophyllum nemzetségbe."
     }
     },
     sources: {
@@ -38351,16 +38350,16 @@ export const CATALOG = [
       notes: "Una valutazione del 2025 colloca la specie a minor preoccupazione (Least Concern)."
     },
     hu: {
-      description: "Mérgező ektomikorrhizás gomba. Széles körben elterjedt az északi féltekén (Európa, Észak-Amerika, Észak-Ázsia), ahol tőzegmohalápokon és nedves fenyvesekben él lucfenyő és erdeifenyő alatt.",
-      cap: "A kalap 4–10 cm átmérőjű, kezdetben félgömb alakú, majd kiterül és közepe sekélyen bemélyedővé válik. Színe ragyogó skarlátvörös, élénk vérpiros vagy cseresznyepiros, esős időben a kalapbőr a szélén kissé kifakulhat. Felülete nedvesen erősen nyálkás és csillogó; kalapbőre könnyen, szinte a kalap közepéig lehúzható. Széle éretten finoman bordázott.",
-      hymenium: "A lemezek tiszta fehérek, szabadon állók vagy tönkhöz nőttek, törékenyek, közepesen sűrűn állók, a kor előrehaladtával sem sárgulnak meg.",
-      stipe: "A tönk 4–8 cm magas és 1–2 cm vastag, hengeres, tiszta fehér, ritkán enyhén sárgás árnyalattal, felülete hosszanti ráncokkal díszített, törékeny.",
-      flesh: "A hús törékeny, fehér, közvetlenül a kalapbőr alatt finom vöröses sávval. Kellemesen gyümölcsös illatú, íze azonban azonnal és rendkívül égetően csípős.",
-      sporePrint: "Fehér. A spórák közel gömbölydedek, felületükön tüskés-hálózatos díszítettséggel, méretük 8–10,5 × 7–8,5 μm, amiloidak.",
-      habitat: "Nyártól késő őszig terem nedves, savanyú talajú fenyvesekben, tőzegmohalápokon és hegyvidéki mocsaras erdőkben, tőzegmoha (Sphagnum) párnák között.",
-      uses: "Mérgező gomba! Gyomor- és bélrendszeri irritációt, heves hányást, gyomorfájdalmat és hasmenést okoz a benne található szeszkviterpén vegyületek miatt. Égetően csípős íze miatt egyébként is élvezhetetlen.",
-      confusion: "A többi piros kalapú galambgombafajtól (például Russula nobilis, Russula silvicola) a tőzegmohás élőhelye, könnyen lehúzható kalapbőre és fehér spórapora különíti el. A légyölő galóca (Amanita muscaria) gallért és bocskort visel.",
-      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja számon."
+      description: "Nedves tűlevelű erdők és tőzegmohalápok ektomikorrhizás gombája, leggyakrabban lucfenyővel és erdeifenyővel. Elterjedt Európában a Földközi-tengertől Észak-Fennoskandiáig, beleértve Nagy-Britanniát és Írországot, és jelentették Észak-Afrikából, Észak-Ázsiából, valamint Észak- és Közép-Amerika egyes részeiről.",
+      cap: "A kalap általában 3–10 cm átmérőjű, és egyes beszámolók 2,5 cm körül indítanak. Félgömb alakú, majd domború, később lapos és sekélyen bemélyedő, néha alacsony púppal. Felszíne sima, ragadós és fénylő, ha nedves. Skarlátvöröstől a cseresznyepirosig terjed, olykor sötétebb a közepén, és ritkábban rózsaszínű. A pigment vízoldékony, és rózsaszínű, narancssárga vagy fehér foltokra fakul ki. Szegélye sokáig sima marad, majd mintegy 2–7 mm hosszan röviden bordázottá válik, és hullámossá vagy göcsörtössé válhat. A kalapbőr egyes beszámolók szerint körülbelül félig, mások szerint kétharmadától majdnem a közepéig, gyakran szinte teljesen lehúzható. A hús a kalapbőr alatt rózsaszínű. A kalapbőr mintegy 4,5–14 μm széles, egy-három szeptummal rendelkező pileocisztídiumokat visel, amelyek szulfobenzaldehidben és szulfovanillinben elszíneződnek.",
+      hymenium: "A lemezek fehérektől a halvány krémszínűig terjednek, jóllehet az érett lemezeket néha mély krémsárgaként írják le. Sűrűn állók, később olykor kissé ritkábbak, vékonyak és törékenyek, mintegy 4–9 mm mélyek, keskenyen a tönkhöz nőttek vagy szabadok, néha felkanyarodók, és alkalmanként kissé lefutók. Némelyikük villásan elágazó, rövid lemezkék is előfordulnak, és keresztirányú erek köthetik össze őket. Az élük egyenletes. A bazídiumok bunkósak és négy spórásak, méretük az európai termőtesteknél mintegy 38–50 × 11–13 μm, egy észak-amerikai leírásban pedig e név alatt mintegy 33–50 × 9–11,6 μm. A heilocisztídiumok orsó alakúak. Az európaiak körülbelül 35–75 × 7–12 μm méretűek, a csúcsuknál alig vagy egyáltalán nem befűzöttek, míg az észak-amerikai leírás sokkal rövidebbeket ad meg, mintegy 14–24 × 4,4–7,3 μm mérettel. A pleurocisztídiumok az európai leírásban mintegy 55–100 × 10–14 μm, az észak-amerikaiban pedig mintegy 35–88 × 7,3–12,4 μm méretűek. A cisztídiumok szulfobenzaldehidben és szulfovanillinben megfestődnek. Csatkapcsolatok hiányoznak.",
+      stipe: "A tönk fehér, száraz és fénylő, néha halványan hosszanti irányban barázdált, és kissé megsárgulhat, különösen a tövénél. Hengeres vagy enyhén bunkós, és nincs gallérja. Az európai termőtestek általában 4–10 cm hosszúak és 1–2,5 cm vastagok, a közölt szélső értékek pedig mintegy 3 cm-től körülbelül 10,5 cm hosszúságig és mintegy 0,7 cm vékonyságig terjednek. Kezdetben kemény és tömör, majd szivacsos vagy részben üreges.",
+      flesh: "A hús fehér és törékeny, hamar szivacsossá válik, a kalapbőr alatt rózsaszínű, és a kor előrehaladtával halványan megsárgulhat. Elvágva nem változtatja a színét. Szaga halvány és gyümölcsös vagy enyhén fűszeres, és szinte teljesen hiányozhat is. Íze azonnal és élesen égetően csípős. A vas-szulfát a húst rózsaszínűre, a fenol barnára színezi, a guajak-reakció pedig negatív vagy majdnem negatív.",
+      sporePrint: "Fehértől nagyon halvány krémszínűig terjedő. A spórák szubglobózusaktól a széles ellipszoidig terjednek, méretük mintegy 7,4–11 × 6,5–9 μm, a hossz-szélesség arányuk pedig körülbelül 1,1–1,3. Durva amiloid szemölcsöket viselnek, amelyek többnyire kúposak és legfeljebb 1,2 μm magasak, és nagyrészt hálózatba kapcsolódnak. Az apiculus mintegy 1,5–1,62 × 1,25 μm, az amiloid hiláris folt pedig szabálytalan, mintegy 3 × 3,75 μm.",
+      habitat: "Nyártól késő őszig terem nedves tűlevelű erdőkben, tőzegmohalápokon, savanyú talajon, lucfenyő és erdeifenyő alatt.",
+      uses: "Mérgező gomba! Erős gyomor- és bélrendszeri irritációt, heves hányást és hasmenést okoz elfogyasztása után.",
+      confusion: "A többi piros kalapú galambgomba közül sok faj nehezen különíthető el; a fenyő-galambgomba (Russula torulosa) tönkje lilásvörös árnyalatú.",
+      notes: "Hatóanyagai közé tartoznak a gyomornyálkahártyát erősen irritáló szeszkviterpének."
     }
     },
     sources: {
@@ -39148,16 +39147,16 @@ export const CATALOG = [
       notes: "Una valutazione del 2025 colloca la specie a minor preoccupazione (Least Concern). Il consumo è vietato per legge in vari paesi europei tra cui l'Italia."
     },
     hu: {
-      description: "Ektomikorrhizás gomba. Homokos talajú erdeifenyvesekben él Európában és Észak-Amerikában.",
-      cap: "A kalap 5–12 cm átmérőjű, kezdetben domború, majd kiterül, gyakran tompa púppal a közepén. Színe élénk sárgászöld, zöldessárga vagy olívzöldes, közepe felé barnás pikkelykékkel vagy szálakkal díszített. Nedvesen nyálkás és tapadós, a homokszemek gyakran rátapadnak.",
-      hymenium: "A lemezek élénk kénsárgák vagy citromsárgák, sűrűn állók, a tönk előtt öblösen felkanyarodók, érintésre sem válnak feketévé.",
-      stipe: "A tönk 4–9 cm magas és 1–2,5 cm vastag, hengeres vagy a tövénél kissé vastagodott, a kalaphoz hasonló sárga vagy zöldessárga színű, hosszantian szálas. Gallérja nincs.",
-      flesh: "A hús vastag, fehéres vagy halványsárga, a kalapbőr alatt sárga. Jellegzetes, kellemes lisztszagú és lisztízű.",
-      sporePrint: "Fehér. A spórák elliptikusak, simák, méretük 6–8 × 4–5 μm, inamiloidak.",
-      habitat: "Ősszel, szeptembertől novemberig terem kéttűs erdeifenyők alatt, homokos, savanyú talajú erdőkben, sokszor a mohában vagy a talajba mélyen süllyedve.",
-      uses: "Mérgező gomba! Korábban Európa-szerte nagyra becsült csemegegombaként tartották számon, ám az ezredforduló után bebizonyosodott, hogy ismételt és bőséges fogyasztása súlyos, életveszélyes vázizom-lebomlást (rabdomiolízist) okozhat, amely izomfájdalommal, izomgyengeséggel és vesekárosodással jár, és több halálesetet is előidézett Franciaországban és Lengyelországban.",
-      confusion: "A mérgező kénsárga pereszke (Tricholoma sulphureum) húsa is sárga, de átható, kellemetlen világítógáz-szagot áraszt és lemezei ritkán állók. A zöldes nedűgomba (Gliophorus psittacinus) jóval kisebb termetű és zöld nyálka borítja.",
-      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja számon."
+      description: "Homoki fenyvesek ektomikorrhizás pereszkéje. Európában és Észak-Amerikában elterjedt, késő ősszel helyenként tömeges.",
+      cap: "A kalap 5–12 cm átmérőjű, domborúból laposra kiterülő, sárgászöld, olívsárga vagy zöldesbarna, felülete finoman pikkelykés, nedves időben ragadós.",
+      hymenium: "A lemezek élénk kénsárgák vagy sárgászöldek, sűrűn állók, a tönk előtt felkanyarodók.",
+      stipe: "A tönk 4–9 cm hosszú és 1–2,5 cm vastag, vaskos, hengeres, a kalaphoz hasonló sárgászöld színű, szálas felületű.",
+      flesh: "A hús fehér, a kalapbőr alatt sárgás. Kellemes, erős friss lisztszagú és lisztízű.",
+      sporePrint: "Fehér. A spórák simák, ellipszoidok, méretük mintegy 6–8 × 4–5 μm.",
+      habitat: "Októbertől decemberig terem homokos talajú erdeifenyvesekben, mohában és tűlevelek között, gyakran csoportosan.",
+      uses: "Mérgező gomba, haláleseteket is okozott! Korábban kiváló csemegegombaként tartották számon, de kiderült, hogy ismételt vagy nagyobb mennyiségű fogyasztása súlyos, életveszélyes rabdomiolízist (harántcsíkolt izomsorvadást) és szívizom-károsodást okozhat.",
+      confusion: "A mérgező büdös pereszke (Tricholoma sulphureum) szintén sárga, de lemezei ritkán állók és elviselhetetlenül büdös világítógáz-szagú.",
+      notes: "Franciaországi és lengyelországi halálos mérgezések hívták fel a figyelmet a faj veszélyességére."
     }
     },
     sources: {
@@ -39978,16 +39977,16 @@ export const CATALOG = [
       notes: "Il nome della specie perlatum fa riferimento alle caratteristiche verruche perlacee che decorano la superficie."
     },
     hu: {
-      description: "Szaprotróf pöfeteggombafaj. Az egyik legelterjedtebb és leggyakoribb pöfeteg az északi féltekén, erdőkben és cserjésekben a talajon és korhadékon.",
-      cap: "A termőtest 3–8 cm magas és 2–5 cm széles, fordított körte vagy bunkó alakú. Külső burka (exoperídium) fehér vagy krémszínű, sűrűn borítják a kúpos, hegyes szemölcsök és tüskék, amelyeket kisebb szemcsék vesznek körül. A tüskék érintésre könnyen lehullanak, és a belső burkon jellegzetes, finom hálózatos mintázatot hagynak maguk után. Éretten a termőtest csúcsán kör alakú nyílás (apikális pórus) keletkezik, amelyen át a szél vagy esőcseppek hatására felhőben távozik a spórapor.",
-      hymenium: "A belső termőréteg (gleba) fiatalon tiszta hófehér és tömör húsú, majd az érés során sárgásfehérré, olívzölddé, végül porszerű olívbarnává válik. Alatta meddő tönkrész található, amely üregesedik.",
-      stipe: "A termőtest alsó, tönkszerű része fokozatosan elkeskenyedik, tönkként funkcionál, de a fejjel egybeolvadt.",
-      flesh: "A gleba húsa fiatalon kemény és fehér, kellemes gombaillatú és jóízű; éretten száraz spóratömeggé és barna rostokká esik szét.",
-      sporePrint: "Olívbarna vagy csokoládébarna. A spórák gömbölydedek, finoman szemölcsösek, méretük 3,5–4,5 μm.",
-      habitat: "Tavasztól késő őszig terem lomb- és fenyőerdőkben, erdőszéleken, erdei ösvények mentén, avarban és korhadó fadarabokon, gyakran csoportosan.",
-      uses: "Ehető gomba, de kizárólag addig fogyasztható, amíg a belseje tiszta hófehér. A tüskés külső bőrt célszerű lehámozni vagy ledörzsölni. Sütve, rántva vagy levesbetétként finom.",
-      confusion: "A barnás pöfeteg (Lycoperdon umbrinum) tüskéi kezdettől fogva barnák vagy feketések. A mérgező rőt áltrifla (Scleroderma citrinum) kemény, vastag bőrű, és belseje már korán márványozott feketéslilára színeződik.",
-      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja számon."
+      description: "Talajon és humuszban gazdag erdei talajon termő szaprotróf pöfeteggomba. Kozmopolita faj, világszerte elterjedt és rendkívül gyakori minden kontinensen.",
+      cap: "A termőtest 3–8 cm magas és 2–5 cm széles, fordított körte, bunkó vagy turbán alakú, a felső gömbölyded részen egy kis tompa púppal (bimbóval). Színe fiatalon tiszta fehér, később sárgásbarna, végül szürkésbarna. Felszínét apró, hegyes, kúp alakú tüskék és szemcsék borítják, amelyek könnyen letörölhetők; lehullásuk után a belső burok felületén jellegzetes hálózatos minta marad vissza.",
+      hymenium: "Valódi lemezei vagy pórusai nincsenek; a spóraképző réteg a termőtest belső részében, a glebában található. A gleba fiatalon tiszta fehér és tömör, majd sárgászöldesre, olívbarnára érik, végül barna porszerű spóratömeggé alakul, amely a termőtest csúcsán nyíló kis lyukon keresztül pöfög ki a szél vagy esőcseppek hatására.",
+      stipe: "A termőtest alsó, szűkebb része meddő tönkrészt képez, amely szivacsos állagú, fehér, és elvágva jól elkülönül a spóratermő glebától.",
+      flesh: "A fiatal termőtest húsa rugalmas, tömör és hófehér. Szaga kellemes, kissé fűszeres vagy gombaszerű, íze enyhe.",
+      sporePrint: "Olívbarna vagy sötétbarna spórapor. A spórák gömb alakúak, finoman szemcsések vagy simák, méretük mintegy 3,5–4,5 μm.",
+      habitat: "A termőtestek nyártól késő őszig (júniustól novemberig) jelennek meg. Mindenféle erdőtípusban, tisztásokon, utak mentén és füves helyeken megtalálható, magányosan vagy sűrű csoportokban.",
+      uses: "Fiatalon, amíg a gleba belseje tiszta hófehér, jóízű ehető gomba. Rántva, levesben vagy pirítva fogyasztható. Amint a belseje sárgulni kezd, már nem ehető.",
+      confusion: "A mérgező rőt áltrifla (Scleroderma citrinum) kérge vastag, kemény, belseje már nagyon fiatalon lilásfekete vagy fekete. A halálosan mérgező galócák (Amanita fajok) fiatal, zárt tojás alakú példányai kettévágva már mutatják a lemezek és a tönk körvonalait, míg a pöfeteg belseje egynemű fehér.",
+      notes: "A termőtest csúcsán lévő nyílásra hulló esőcseppek pumpaként fújják ki a spórafelhőt a levegőbe."
     }
     },
     sources: {
@@ -40782,16 +40781,16 @@ export const CATALOG = [
       confusion: "Il leccino arancione (Leccinum versipelle) cresce esclusivamente sotto betulla e ha squame sul gambo nere fin dall'inizio. Il leccino a gambo bianco (Leccinum albostipitatum) cresce sotto pioppo tremulo e ha squamette inizialmente bianche sul gambo."
     },
     hu: {
-      description: "Nagy termetű, vaskos ektomikorrhizás tinórugomba. Európa-szerte elterjedt lomblevelű erdőkben, tölgyek alatt.",
-      cap: "A kalap 8–20 cm átmérőjű, kezdetben félgömb alakú, később párnásan domborúvá válik. Színe meleg narancsbarna, téglavörös vagy rozsdabarna. Felülete szárazon finoman nemezes, bársonyos, nedvesen kissé tapadóssá válhat.",
-      hymenium: "A csövek hosszúak, szürkésfehérek, majd piszkos krémszínűek, idővel szürkésbarnára sötétednek; a pórusok kicsik, kerekek, nyomásra szürkésbarnán vagy lilásan színeződnek.",
-      stipe: "A tönk 8–20 cm magas és 2–5 cm vastag, vaskos, hengeres vagy a tövénél bunkószerűen kiszélesedő. Fehéres alapon sűrű, vörösesbarna, majd idős korban sötétbarna vagy feketésbarna pikkelykékkel (érdességekkel) borított.",
-      flesh: "A hús vastag, kemény, fehér; vágásra a tönkcsúcsban és a kalapban kezdetben ibolyásrózsaszínre pirul, majd lassan szürkésfeketére sötétedik, a tönk tövében gyakran kékeszöld foltok keletkeznek. Kellemes gombaillatú és enyhe, finom ízű.",
-      sporePrint: "Dohánybarna vagy fahéjbarna. A spórák orsó alakúak, simák, méretük 13–17 × 4–5 μm.",
-      habitat: "Nyártól késő őszig terem tölgyfák (Quercus fajok) alatt erdőkben, erdőszéleken és parkokban, leginkább meszes vagy agyagos talajon.",
-      uses: "Kiváló ehető gomba! Alapos sütést-főzést igényel, mivel nyersen gyomorpanaszokat okozhat. Hőkezelés hatására a húsa megfeketedik, de íze és állaga pompás.",
-      confusion: "A vörös érdestinóru (Leccinum albostipitatum) rezgő nyár alatt nő, fiatalon tiszta fehér tönkpikkelyekkel. A kormostönkű érdestinóru (Leccinum versipelle) nyírfák alatt él és tönkpikkelyei már kezdetben feketék.",
-      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja számon."
+      description: "Tölgyfákkal ektomikorrhizát képező nagy termetű érdestinóru. Elterjedt és gyakori Európa lombhullató tölgyeseiben.",
+      cap: "A kalap 6–20 cm átmérőjű, kezdetben félgömb alakú, majd párnásan domborúvá válik. Színe sötét narancsvörös, téglavörös vagy rozsdabarna, felülete finoman nemezes-bársonyos.",
+      hymenium: "A csövek hosszúak, a pórusok aprók, fiatalon fehéres-krémszínűek, később piszkos szürkésbarnák, érintésre barnulnak.",
+      stipe: "A tönk 8–20 cm hosszú és 2–4 cm vastag, vaskos, fehéres alapszínű, amelyet sűrűn borítanak a vörösesbarna vagy rozsdabarna érdességek és pikkelyek.",
+      flesh: "A hús fehér, kemény, elvágva a kalapban és a tönkcsúcson lassan szürkéslilára vagy feketéslilára színeződik, a tönk tövében gyakran kékeszöldes lesz. Kellemes gombaillatú és enyhe ízű.",
+      sporePrint: "Dohánybarna vagy olívbarna. A spórák orsó alakúak, simák, méretük mintegy 13–18 × 4,5–5,5 μm.",
+      habitat: "Júniustól októberig terem tölgyesekben, tölgyfák alatt erdőszéleken és parkokban.",
+      uses: "Kiváló ehető gomba, alapos főzést igényel. Húsa főzéskor erősen megfeketedik.",
+      confusion: "A vörös érdestinóru (Leccinum albostipitatum) rezgő nyár alatt nő és tönkpikkelyei fiatalon tisztán fehérek. A kormostönkű érdestinóru (Leccinum versipelle) nyírfák alatt él és tönkpikkelyei feketék.",
+      notes: "A melegkedvelő tölgyesek egyik legszebb és legkiadósabb vadon termő gombája."
     }
     },
     sources: {
@@ -41593,16 +41592,16 @@ export const CATALOG = [
       notes: "Una valutazione del 2019 classifica la specie a minor preoccupazione (Least Concern)."
     },
     hu: {
-      description: "Ektomikorrhizás gomba. Nagyon gyakori Európa lomb- és fenyőerdeiben, különösen savanyú, homokos talajokon.",
-      cap: "A kalap 4–10 cm átmérőjű, kezdetben félgömb alakú, majd domborúvá válik, végül kiterül. Színe halvány citromsárga, sárgászöldes vagy krémszínű (létezik tiszta fehér változata is, az Amanita citrina var. alba). Felületét a burok nagy, szabálytalan, barnásfehér vagy szürkés foltjai (pettyei) fedik.",
-      hymenium: "A lemezek fehérek vagy halványsárgás árnyalatúak, szabadon állók, sűrűn helyezkednek el.",
-      stipe: "A tönk 6–12 cm magas és 1–2 cm vastag, hengeres, fehéres vagy halványsárgás színű. Felső részén fehér, lelógó gallér található. Tövénél jellegzetesen és feltűnően nagy, kerek, éles peremű gumóban végződik, amelyhez a bocskor szorosan ránőtt.",
-      flesh: "A hús fehér, közvetlenül a kalapbőr alatt sárgás lehet, elvágva nem színeződik. Jellegzetes, átható nyers burgonyaszagot (vagy retek- és dohszagot) áraszt, íze kellemetlen.",
-      sporePrint: "Fehér. A spórák közel gömbölydedek, simák, méretük 8–10 × 7–9 μm, amiloidak.",
-      habitat: "Nyár végétől késő őszig terem savanyú talajú tölgyesekben, bükkösökben és fenyvesekben (luc- és erdeifenyő alatt).",
-      uses: "Nem ehető (enyhén mérgező). Kis mennyiségben bufotenint tartalmaz, de kellemetlen nyersburgonya-íze és -szaga miatt amúgy is élvezhetetlen. Fő veszélye, hogy a halálosan mérgező gyilkos galócával téveszthető össze.",
-      confusion: "A halálosan mérgező gyilkos galóca (Amanita phalloides) bocskora szabadon álló és zsákszerű (nem ránőtt éles peremű gumó), kalapja sugarasan szálas, nincsenek rajta sötét burokfoltok, és szaga édeskés mézillatú, sohasem nyers burgonyára emlékeztető.",
-      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja számon."
+      description: "Tűlevelű és lomblevelű erdők ektomikorrhizás gombája. Gyakori a Földközi-tengertől Észak-Európáig, beleértve Nagy-Britanniát és Írországot, és feljegyezték Ázsiából is.",
+      cap: "A kalap általában 4–10 cm átmérőjű, és akár 3 cm-es kicsi is lehet, vagy a fehér formában akár 12 cm széles. Kezdetben félgömb alakú, majd domborúvá válik, végül kiterül. Citromsárga vagy halvány sárgászöld, és néha fehéres vagy majdnem tiszta fehér. Felszínét az egyetemes burok szabálytalan, lapos, fehéres vagy barnáskrém foltjai, pettyei borítják. Szegélye nem bordázott.",
+      hymenium: "A lemezek szabadon állók, sűrűn helyezkednek el, és körülbelül 6–12 mm szélesek. Fehérek, néha sárgás beütéssel.",
+      stipe: "A tönk 4–15 cm hosszú és 1–2 cm vastag, fehérestől a halványsárgáig terjed, sima vagy finoman pelyhes, és egy nagy, lekerekített vagy lapított gumóban végződik a tövénél. Egy vékony, lelógó, hártyás sárgásfehér gallért visel a felső részén. A gumó tetejét egy jól látható, peremes, vájatolt szegély övezi.",
+      flesh: "A hús fehér, a tönkben puha és vattaállagú, elvágva nem változtatja meg a színét. Nagyon jellegzetesen nyers, hámozott burgonyára vagy nedves pincére emlékeztető szagú, íze kellemetlen, retekre vagy burgonyára emlékeztető.",
+      sporePrint: "Fehér. A spórák simák, színtelenek és amiloidak, gömbölydedektől a széles ellipszoidig terjednek, méretük mintegy 8,5–11 × 7,5–9 μm.",
+      habitat: "A termőtestek főként augusztustól novemberig jelennek meg, Közép-Európában pedig már júniusban megkezdődhet a termés. Savanyú talajú erdőkben él, különösen bükk, tölgy, nyír és erdeifenyő alatt.",
+      uses: "Nyers termőtestei enyhén mérgezőek. A bennük általában kimutatott vegyület a bufotenin, amely egyes kétéltűek mérgében is megtalálható hallucinogén anyag, ám a főzés lebontja. Kellemetlen szaga és a halálosan mérgező gyilkos galócával való összetéveszthetősége miatt étkezésre nem javasolt.",
+      confusion: "A gyilkos galóca (Amanita phalloides) szabad, zsákszerű bocskorral rendelkezik a határozottan peremes gumó helyett, kalapja sugarasan szálas és rendszerint nincsenek rajta vastag burokmaradványok, szaga pedig idős korban émelyítően édeskés, nem burgonyaszerű.",
+      notes: "A kelet-észak-amerikai halványsárga galócák, amelyeket e név alatt tartottak nyilván, más fajokhoz tartoznak."
     }
     },
     sources: {
@@ -42419,16 +42418,16 @@ export const CATALOG = [
       notes: "Appartiene al sottogenere Pardinicutis, caratterizzato da cuticola squamosa grigio-brunastra."
     },
     hu: {
-      description: "Súlyosan mérgező ektomikorrhizás gomba. Európa és Észak-Amerika hegyvidéki fenyveseiben és bükköseiben él, meszes talajon. Közép-Európa hegyeiben nem ritka.",
-      cap: "A kalap 6–15 cm átmérőjű, vaskos, húsos, kezdetben félgömb alakú, majd domború, végül kiterül, széle sokáig begöngyölt marad. Szürkésfehér vagy ezüstszürke alapon sűrűn borítják a koncentrikusan elhelyezkedő, sötétszürke vagy feketésbarna pikkelyek.",
-      hymenium: "A lemezek sűrűn állók, a tönk előtt öblösen felkanyarodók, fehérek vagy krémszínűek, fiatalon gyakran víztiszta folyadékcseppeket izzadnak.",
-      stipe: "A tönk 4–10 cm magas és 2–4 cm vastag, vaskos, hengeres vagy a tövénél kissé gumószerűen megvastagodott, fehér vagy halványbarna színű, hosszantian szálas. Gallérja nincs.",
-      flesh: "A hús vastag, kemény, fehér, a tönk tövében kissé sárgás lehet, elvágva nem változik. Kellemes, friss lisztszagú és lisztízű.",
-      sporePrint: "Fehér. A spórák elliptikusak, simák, méretük 8–10 × 5,5–7 μm.",
-      habitat: "Késő nyártól késő őszig terem hegyvidéki lucfenyvesekben, jegenyefenyvesekben és bükkösökben, kizárólag meszes alapkőzeten.",
-      uses: "Súlyosan mérgező gomba! Heves, hosszan tartó gyomor- és bélrendszeri mérgezést okoz. A tünetek 15 perctől 2 órán belül jelentkeznek csillapíthatatlan hányással, hasmenéssel és hasi fájdalmakkal, amelyek napokig eltarthatnak, és súlyos kiszáradáshoz vezethetnek.",
-      confusion: "A fenyő-pereszke (Tricholoma terreum) ehető, de jóval kisebb, vékonyabb húsú, tönkje törékeny és nincsen lisztszaga. A csípős pereszke (Tricholoma virgatum) kalapja csúcsosan púpos és íze égetően csípős.",
-      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja számon."
+      description: "Hegyvidéki fenyvesek és bükkösök ektomikorrhizás pereszkéje. Európa és Észak-Amerika meszes talajú hegyvidéki erdeiben honos, mérgező faj.",
+      cap: "A kalap 6–15 cm átmérőjű, nagyon vastag húsú, domborúból laposra kiterülő, tompa púppal. Szürke vagy ezüstszürke alapon koncentrikusan elhelyezkedő, sötétebb szürkésbarna vagy feketés pikkelyek borítják.",
+      hymenium: "A lemezek fehérek vagy enyhén szürkésfehérek, vastagok, a tönk előtt felkanyarodók, fiatalon sárgás vízcseppeket izzadhatnak ki.",
+      stipe: "A tönk 6–12 cm hosszú és 2–4 cm vastag, vaskos, hengeres vagy a tövénél bunkósan vastagodó, fehér vagy világosszürke, szálas felületű.",
+      flesh: "A hús fehér, tömör, vastag. Erős, kellemes friss lisztszagú és lisztízű.",
+      sporePrint: "Fehér. A spórák simák, ellipszoidok, méretük mintegy 8–10 × 5–7 μm.",
+      habitat: "Augusztustól novemberig terem meszes talajú hegyvidéki bükkösökben és fenyvesekben (főleg jegenyefenyő és lucfenyő alatt).",
+      uses: "Súlyosan mérgező! Heves gyomor- és bélrendszeri gyulladást, csillapíthatatlan hányást, hasmenést és kiszáradást okoz; a tünetek már 15 perc és 2 óra között jelentkeznek.",
+      confusion: "A fenyő-pereszke (Tricholoma terreum) sokkal kisebb termetű, vékony húsú és nem lisztszagú. Az ehető pereszkék nem ilyen durván pikkelyesek.",
+      notes: "A pereszkék nemzetségének legveszélyesebb mérgező faja."
     }
     },
     sources: {
@@ -43228,16 +43227,16 @@ export const CATALOG = [
       notes: "Un singolo esemplare gigante può produrre migliaia di miliardi di spore."
     },
     hu: {
-      description: "Nagy termetű szaprotróf pöfeteggombafaj, a gombavilág egyik legtestesebb képviselője. Széles körben elterjedt Európában, Észak-Amerikában és Ázsiában, tápanyagdús füves területeken.",
-      cap: "A termőtest gömbölyded vagy tojásdad, átmérője rendszerint 15–50 cm, de olykor elérheti a 80–100 cm-t is, tömege pedig a 10–20 kilogrammot. Külső felszíne fiatalon sima, bőrszerű, tiszta hófehér, később sárgásbarnára vagy szürkésbarnára változik, és pelyhesen vagy táblásan felrepedezik.",
-      hymenium: "A belső termőréteg (gleba) fiatalon teljesen kitölti a gömböt; tiszta fehér, tömör, sajtszerű vagy túrószerű állagú. Az érés során sárgászöldre, végül száraz, barna spóratömeggé alakul.",
-      stipe: "Valódi tönkje nincsen, csupán egy vékony gyökérszerű micéliumzsinórral kapcsolódik a talajhoz.",
-      flesh: "A fiatal termőtest húsa fehér, rugalmas, nedvdús, kellemes gombaillatú és enyhe ízű. Éretten a burok felszakad, és milliárdnyi barna spóra szabadul fel.",
-      sporePrint: "Olívbarna vagy barna. A spórák gömbölydedek, simák vagy finoman szemölcsösek, méretük 3,5–5,5 μm.",
-      habitat: "Nyártól késő őszig terem erdőszéleken, ritkás ligetekben, legelőkön, réteken, kertekben és parkokban, nitrogénben gazdag talajon.",
-      uses: "Kiváló ehető gomba, amíg a belseje tiszta hófehér. Leggyakrabban vastag szeletekre vágva rántott gombaként készítik el, de pörköltnek vagy sütve is finom.",
-      confusion: "Mérete és tiszta fehér színe miatt összetéveszthetetlen. A többi pöfetegfaj (Lycoperdon fajok) jóval kisebb méretű.",
-      notes: "Egyetlen kifejlett óriáspöfeteg akár 7 billió (7×10^12) spórát is termelhet."
+      description: "Füves területeken termő hatalmas méretű szaprotróf gomba. Világszerte elterjedt a mérsékelt égövben.",
+      cap: "A termőtest óriási, gömbölyded vagy lapított gömb alakú, 20–60 cm (ritkán akár 1 méter) átmérőjű, tömege elérheti a 10–20 kg-ot is. Felszíne fiatalon tiszta hófehér, sima, bőr- vagy velúrszerű, később sárgásbarna, végül szürkésbarna lesz és papírvékonyságú burokká válik.",
+      hymenium: "A termőréteg (gleba) a termőtest belsejét tölti ki teljes egészében. Fiatalon tömör és hófehér, majd sárgászöldesre érik, végül hatalmas tömegű olívbarna spóraporrá alakul, amely a felrepedő külső burokból szóródik szét.",
+      stipe: "Tönkje nincs, csupán egy vékony gyökérszerű micéliumzsinór köti a talajhoz.",
+      flesh: "A fiatal gomba húsa tiszta fehér, rugalmas, sajtszerű. Kellemes gombaillatú és jóízű.",
+      sporePrint: "Olívbarna vagy sötétbarna. A spórák gömb alakúak, simák vagy finoman szemölcsösek, méretük mintegy 4–5,5 μm.",
+      habitat: "Nyártól késő őszig terem tápanyagban gazdag legelőkön, réteken, csalánosokban, erdőszéleken és parkokban, magányosan vagy boszorkánykörökben.",
+      uses: "Kiváló csemegegomba, amíg a belseje tiszta hófehér! Hatalmas szeletekre vágva rántva (mint a rántott hús), vajban sütve vagy grillezve rendkívül ízletes.",
+      confusion: "Hatalmas mérete miatt semmilyen más gombával nem téveszthető össze.",
+      notes: "A gombavilág egyik legtermékenyebb faja: egyetlen kifejlett termőtest akár több billió (10^12) spórát is termelhet."
     }
     },
     sources: {
@@ -44061,16 +44060,16 @@ export const CATALOG = [
       notes: "Esiste una forma completamente bianca (forma alba) a cappello candido."
     },
     hu: {
-      description: "Szaprotróf talajlakó gomba, az őszi erdők egyik leggyakoribb faja. Széles körben elterjedt és gyakori Európában és Észak-Amerikában.",
-      cap: "A kalap 6–20 cm átmérőjű, vastag húsú, kezdetben domború, majd lapossá, végül tölcséressé válik, begöngyölt széllel. Színe hamuszürke, füstszürke vagy szürkésbarna, felületét fiatalon finom fehéres hamvas dér borítja.",
-      hymenium: "A lemezek sűrűn állók, a tönkre kissé lefutók, krémszínűek vagy sárgásfehérek, a kalaphúsról könnyen lefejthetők.",
-      stipe: "A tönk 6–12 cm magas és 1,5–3,5 cm vastag, vaskos, lefelé vastagodó, fehéres vagy szürkésfehér, felülete hosszantian szálas, tövénél fehér micéliumszövedékkel.",
-      flesh: "A hús vastag, kemény, fehér, nem változtatja a színét. Erős, jellegzetes, fanyar, édeskés-fűszeres szagú és enyhe ízű.",
-      sporePrint: "Halványsárga vagy krémszínű. A spórák elliptikusak, simák, méretük 6–8 × 3,5–5 μm.",
-      habitat: "Késő ősszel terem lomb- és fenyőerdőkben, vastag avarban és humuszos talajon, gyakran hatalmas boszorkánykörökben vagy sorokban.",
-      uses: "Feltételesen ehető gomba, de sok embernél egyéni érzékenységet és gyomor-bélpanaszokat okozhat. Nebularin nevű anyagot tartalmaz. Csak alapos, legalább 20 perces előfőzés és a főzővíz leöntése után ajánlott fogyasztani, leginkább savanyúságnak elrakva.",
-      confusion: "A mérgező nagy döggomba (Entoloma sinuatum) lemezei lazacrózsaszínűek, spórapora rózsás és szaga erős lisztszagú. A viaszfehér tölcsérgomba (Clitocybe candicans) kisebb és mérgező.",
-      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja számon."
+      description: "Erdei avarban termő szaprotróf gomba. Nagyon gyakori és elterjedt Európában és Észak-Amerikában a mérsékelt égövben.",
+      cap: "A kalap 6–20 cm átmérőjű, vaskos húsú, domborúból ellaposodó, majd tölcséresedő, szürke, hamuszürke vagy barnásszürke, fiatalon fehéres hamvas bevonattal.",
+      hymenium: "A lemezek krémszínűek vagy sárgásfehérek, sűrűn állók, a tönkre kissé lefutók, a kalaphúsról könnyen leválaszthatók.",
+      stipe: "A tönk 6–12 cm hosszú és 1,5–3,5 cm vastag, vaskos, a töve felé bunkósan vastagodó, szürkésfehér, szálas felületű.",
+      flesh: "A hús vastag, fehér, tömör. Erős, nagyon jellegzetes édeskés, émelyítő, parfümös vagy fűszeres szagú és enyhe ízű.",
+      sporePrint: "Fehér vagy krémsárgás. A spórák simák, ellipszoidok, méretük mintegy 6–8 × 3,5–5 μm.",
+      habitat: "Késő ősszel, októbertől decemberig jelenik meg lomb- és fenyőerdők vastag avartakaróján, gyakran hatalmas boszorkánykörökben.",
+      uses: "Feltételesen ehető, alapos (legalább 20 perces) főzést igényel. Erős szaga miatt sokan nem kedvelik, és egyéni érzékenység esetén gyomorrontást okozhat.",
+      confusion: "A halálosan mérgező nagy döggomba (Entoloma sinuatum) lemezei rózsaszínűek, szaga lisztes, és nyár végétől kora őszig terem.",
+      notes: "Nebularint tartalmaz, egy természetes antibiotikus és tumorellenes hatású vegyületet."
     }
     },
     sources: {
@@ -44892,16 +44891,16 @@ export const CATALOG = [
       notes: "I corpi fruttiferi secchi ospitano larve di coleotteri e ditteri specializzati."
     },
     hu: {
-      description: "Fakárosító szaprotróf taplógomba, amely intenzív fehérkorhadást idéz elő elhalt lombos faanyagon. Kozmopolita faj, világszerte rendkívül gyakori.",
-      cap: "A termőtestek vékonyak, legyező vagy rozetta alakúak, 3–10 cm szélesek és mindössze 1–5 mm vastagok, sűrűn egymás felett, cserépszerűen helyezkednek el. Felszínük finoman bársonyos vagy selymesen fénylő, koncentrikusan sávos és zónázott. A zónák színe rendkívül változatos: barna, fekete, szürke, kék, sárgásbarna és fehér sávok váltakoznak rajta, a széle fehér és hullámos.",
-      hymenium: "A termőréteg az alsó felületen apró, kerekded vagy szögletes pórusokból és rövid csövekből áll (3–5 pórus milliméterenként). Színe fehéres vagy krémszínű, idővel sárgásbarnára színeződik.",
-      stipe: "Tönkje nincsen, közvetlenül rögzül a fához.",
-      flesh: "A hús vékony, szívós, bőrszerű vagy parafaszerű, fehér színű. Szaga kellemes gombaillat, íze nem jellegzetes.",
-      sporePrint: "Fehér vagy halványsárgás. A spórák hengeresek vagy kolbász alakúak, simák, méretük 5–7 × 1,5–2,5 μm.",
-      habitat: "Egész évben megtalálható elhalt lombhullató fák (főként bükk, tölgy, nyír) tuskóin, rönkjein és ágain.",
-      uses: "Étkezésre alkalmatlan kemény, bőrszerű állaga miatt. A hagyományos kínai orvoslásban és a modern gyógyászatban az egyik legfontosabb gyógygomba: poliszacharid-K (PSK, krestin) nevű hatóanyaga immunerősítő és daganatellenes terápiák kiegészítőjeként ismert.",
-      confusion: "A borostás réteggomba (Stereum hirsutum) alsó felülete sima (nem pórusos). A bársonyos egyrétűtapló (Trametes pubescens) egyszínűbb és szőrösebb.",
-      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja számon."
+      description: "Lombos fák elhalt faanyagán élő egyéves fehérkorhadást okozó taplógomba. Világszerte az egyik leggyakoribb és legelterjedtebb taplófaj.",
+      cap: "A konzol 3–10 cm széles és 1–3 mm vastag, vékony, legyező vagy rozetta alakú, tetőcserépszerűen egymás felett csoportosulva nő. Felszíne csodálatosan sokszínű: koncentrikus sávokban váltakozik a fekete, szürke, barna, sárga, rozsdabarna, kékesszürke és fehéres szín. Felszíne selymesen bársonyos és sima zónákból áll.",
+      hymenium: "A csövek nagyon rövidek (1–2 mm), a pórusok aprók, fehérek, krémszínűek, később sárgásbarnák, milliméterenként 3–5 darab található belőlük.",
+      stipe: "Tönkje nincs, oldalával közvetlenül rögzül a fa aljzathoz.",
+      flesh: "A hús szívós, bőrszerű, vékony, fehér színű. Szaga kellemes gombaszerű.",
+      sporePrint: "Fehér. A spórák simák, hengeresek vagy kolbász alakúak, méretük mintegy 5–7 × 1,5–2,5 μm.",
+      habitat: "Egész évben megtalálható elhalt lombhullató fák (bükk, tölgy, nyír) tuskóin, ágain, kidőlt törzsein, hatalmas csoportokban.",
+      uses: "Nem ehető szívós, bőrszerű állaga miatt. A világ egyik legtöbbet kutatott és legfontosabb gyógygombája (kínaiul Yun Zhi, japánul Kawaratake); a belőle kivont poliszacharid-K (PSK) és poliszacharid-peptid (PSP) hivatalosan elismert tumorellenes és immunmoduláns gyógyszerkészítmények alapanyaga.",
+      confusion: "A borostás réteggomba (Stereum hirsutum) alsó felülete teljesen sima, nincsenek rajta pórusok. Az egyéb Trametes fajok vastagabbak és nem ilyen élénken sokszínűen zónázottak.",
+      notes: "Rendkívül hatékony lignocellulóz-bontó enzimrendszerrel rendelkezik, amelyet ipari bioremediációban is alkalmaznak."
     }
     },
     sources: {
@@ -45758,16 +45757,16 @@ export const CATALOG = [
       notes: "Una valutazione del 2019 classifica la specie a minor preoccupazione (Least Concern), con popolazione stabile."
     },
     hu: {
-      description: "Nagy termetű, ektomikorrhizás tinórugomba. Európa fenyveseiben és lombos erdőiben él, savanyú homokos talajon; Skandináviában és Közép-Európa hegyvidékein elterjedtebb.",
-      cap: "A kalap 8–25 cm (akár 30 cm) átmérőjű, vaskos, kezdetben félgömb alakú, majd kiterül. Színe mély vörösbarna, mahagónibarna vagy bordóbarna. Felülete egyenetlen, gödrös vagy ráncolt, fiatalon fehéresen hamvas, nedves időben kissé ragadós. A kalapbőr alatt a hús vörösesbarna zónát mutat.",
-      hymenium: "A csövek hosszúak, a tönknél mély árokkal; fiatalon fehérek, később sárgák, végül olívzöldesek lesznek, érintésre nem kékülnek.",
-      stipe: "A tönk 8–20 cm magas és 3–10 cm vastag, rendkívül vaskos, vaskosan gumós vagy hordó alakú. Vörösesbarna árnyalatú alapon finom vörösesbarna hálózat borítja, amely szinte a tövéig lefut.",
-      flesh: "A hús kemény, vastag, fehér, elvágva nem változtatja a színét, közvetlenül a kalapbőr alatt azonban borvöröses sáv látható. Kellemes, diószerű illatú és kitűnő enyhe ízű.",
-      sporePrint: "Olívbarna. A spórák orsó alakúak, simák, méretük 13–21 × 3,5–6,5 μm.",
-      habitat: "Tavasztól késő őszig (főleg május-júniusban és augusztus-októberben) terem savanyú talajú fenyvesekben (erdeifenyő, lucfenyő alatt), valamint szelídgesztenye és bükk társaságában.",
-      uses: "Kiváló csemegegomba! Az egyik legértékesebb és legkeményebb húsú vargányafaj, a lárvák kevésbé károsítják, mint a többi vargányát. Frissen, sütve, levesben vagy szárítva egyaránt pompás.",
-      confusion: "Az ízletes vargánya (Boletus edulis) kalapja világosabb barna és fehér a tönkhálózata. A bronzos vargánya (Boletus aereus) kalapja sötét feketésbarna és melegkedvelő tölgyesekben nő. Az epeízű tinóru (Tylopilus felleus) csövei rózsaszínesek és húsa rendkívül keserű.",
-      notes: "Egy 2019-es IUCN-felmérés nem fenyegetettként (Least Concern) tartja számon."
+      description: "Fenyvesek és hegyvidéki erdők ektomikorrhizás vargányaféléje. Európában honos, különösen északon és a hegyvidéki fenyvesekben elterjedt faj.",
+      cap: "A kalap 8–25 cm átmérőjű, nagyon vaskos és súlyos, félgömbből párnásan domborúvá válik. Színe jellegzetes mély vörösbarna, mahagónibarna vagy borvöröses-barna, felülete ráncolt-gödrös, fiatalon fehéresen deres bevonattal.",
+      hymenium: "A csövek és pórusok aprók, fiatalon sokáig fehérek, később sárgára, majd zöldessárgára érnek, sérülésre nem kékülnek.",
+      stipe: "A tönk 6–15 cm hosszú és 3–8 cm vastag, rendkívül vaskos, hasas vagy gumós. Vörösesbarna vagy okkerbarna színű, felső részén finom vörösesbarna hálózattal borítva.",
+      flesh: "A hús kemény, tömör, fehér, közvetlenül a kalapbőr alatt jellegzetesen borvöröses vagy rózsásbarna sávval. Kellemes mogyoróillatú és édeskés, diószerű ízű.",
+      sporePrint: "Olívbarna. A spórák simák, orsó alakúak, méretük mintegy 13–17 × 4,5–5,5 μm.",
+      habitat: "Tavasztól késő őszig terem kéttűs fenyők (erdeifenyő) alatt homokos vagy savanyú talajon, valamint hegyvidéki lucfenyvesekben és bükkösökben.",
+      uses: "Kiváló, elsőrendű csemegegomba! Minden vargányaételhez kitűnő, szárítva és frissen egyaránt csúcsgasztronómiai értékű.",
+      confusion: "Az ízletes vargánya (Boletus edulis) kalapja világosabb barna és kalapbőre alatt a hús fehér marad (nem borvöröses).",
+      notes: "A négy európai nemes vargányafaj egyike."
     }
     },
     sources: {
@@ -46258,7 +46257,8 @@ export const CATALOG = [
       ru: ["болет красивоножковый","боровик несъедобный"],
       uk: ["боровик гарний"],
       pl: ["borowik żółtopory"],
-      it: ["boleto dal piede rosso e giallo"]
+      it: ["boleto dal piede rosso e giallo"],
+      hu: ["kesernyés tinóru","piroslábú kesernyéstinóru"]
     },
     text: {
       tr: {
@@ -46563,16 +46563,16 @@ export const CATALOG = [
       notes: "Una valutazione del 2019 classifica la specie a minor preoccupazione (Least Concern)."
     },
     hu: {
-      description: "Tűlevelű és lombhullató erdőkben élő ektomikorrhizás tinórugomba. Egész Európában elterjedt a Földközi-tengertől észak felé, főként a mérsékelt övben, és leggyakoribb a hegyvidékeken. Feljegyezték a Kaukázusból, Törökországból, Pakisztánból, Jünnanból, Koreából és Tajvanról is. Az Észak-Amerikából és Japánból származó jelentések vitatottak.",
-      cap: "A kalap 3–20 cm átmérőjű, és olykor eléri a 25 cm-t is. Kezdetben félgömb alakú, széle sokáig begöngyölt és gyakran szabálytalanul hullámos, majd domborúvá vagy párnásan domborúvá válik. A közepe ellaposodhat, bár egyes termőtestek idős korukig lekerekítettek maradnak. Felülete száraz és fénytelen, fiatalon finoman nemezes vagy pelyhes, később csupasz, a közepén néha felrepedezik vagy apró pikkelyeket képez. Színe a világosbarna, agyagbarna és tejeskávészíntől a füstszürkén és szürkésbarnán át az olívbarna vagy sárgásbarna árnyalatokig terjed, néha olívzöldes beütéssel, és ritkán vöröses árnyalattal. A kalapbőr kissé túlnyúlhat a peremen.",
-      hymenium: "A csövek 3–20 mm hosszúak, a tönknél bemetszettek. Citromsárgák, majd olívsárgák lesznek. A pórusok aprók és kerekdedek, kezdetben szürkés- vagy citromsárgák, később zöldessárgák vagy olívsárgák, a csövekkel egyező színűek. A megnyomott vagy elvágott pórusok és csövek kékre vagy kékészöldre színeződnek. A bazídiumok bunkó alakúak és négy spórát viselnek, méretük mintegy 30–38 × 9–12 μm. A cisztidák bunkós vagy orsó alakúak, áttetszők (hialinok), mintegy 25–40 × 10–15 μm-esek.",
-      stipe: "A tönk 3–15 cm hosszú és 1–5 cm vastag. Nagy-Britanniában és Írországban gyakran mintegy 7–9 cm hosszú és 3–5 cm vastag. A fiatal tönk hasas vagy hordó alakú. A kifejlett tönk bunkós vagy hengeres, gyakran a közepén a legvastagabb, a kalap alatt vagy a töve felé elkeskenyedik, és olykor görbült. A tönkcsúcs élénksárga. Ez alatt a tönk kármin- vagy rózsásvörös, a töve pedig általában tompa barnásvörös vagy barna. Néha a teljes tönk piros színű. A napfény fakíthatja a vörös színt, és a kifejlett termőtesteken vagy a néhány napig tárolt példányokon a vörös szín eltűnhet, okkerbarnát hagyva maga után. Finom vagy közepesen durva hálózat borítja a felületét. A csúcson a hálózat fehér vagy halványsárga a sárga alapon. Lejjebb húsvörös, piszkosvörös vagy barnássárga, és a tövétől felfelé megbarnul. A szemek lefelé nagyobbakká és megnyúltabbakká válnak, és közvetlenül a tövénél eltűnnek. A nyomódásnak kitett helyeken kékül. Gallérja nincs.",
-      flesh: "A hús fehéres, halvány krémszínű vagy halványsárga, a tönk tövében gyakran piszkosvöröses vagy lilás árnyalatú. Az elvágott felület kékre vagy kékészöldre vált. Az elszíneződés lehet gyors vagy mérsékelt, néha gyenge, majd a kék szín elhalványul. Az elvágott felület átmenetileg fehér maradhat a kékészöld szín megjelenése előtt. A fiatal hús kemény. Szaga gyenge és gombaszerű, vagy erősebb és kellemetlen, tintára emlékeztető. Íze kezdetben édeskés, majd rendkívül keserű. A keserűség az idősebb termőtestekben enyhülhet, és termőhelyenként is változhat. Melzer-reagensben a hús erősen amiloid.",
-      sporePrint: "Olívsárga, halvány okkerolív, dohánybarna vagy barnásolív. A bazidiospórák simák, keskeny elliptikusak vagy kissé orsó alakúak, mintegy 12–16 × 4–6 μm méretűek.",
-      habitat: "A termőtestek júniustól decemberig, leggyakrabban júliustól októberig jelennek meg. Magányosan vagy csoportokban nőnek, leggyakrabban dombvidékeken és hegyekben, ritkábban síkvidékeken. Rendszeres mikorrhizapartnerei a lucfenyő, a jegenyefenyő, az erdeifenyő, a bükk és a tölgy. Közép-Európában a leggyakoribb lucfenyővel és bükkfával, gyakran savanyú talajon. Nagy-Britanniában és Írországban főleg mészkövön vagy egyéb lúgos, illetve semleges talajon él bükk és tölgy alatt, de fenyővel és lucfenyővel is előfordul. Pakisztánban himalájai nyárral és pindrow-jegenyefenyővel jegyezték fel.",
-      uses: "A főzés nem távolítja el a keserű ízt, és egyetlen termőtest is elronthatja az egész ételt. Néhány embernél gyomor-bélrendszeri megbetegedést idéz elő a fogyasztása. Az orosz Távol-Keleten és Ukrajnában fogyasztották termőtesteit.",
-      confusion: "A gyökeres tinóru (Caloboletus radicans) tönkjén alig vagy egyáltalán nincs vörös szín, hálózata gyengébb, tönktöve gyökerező, és meleg, meszes talajú lomberdőkben nő. A Caloboletus kluzakii tönkje szintén alig vöröses a sárga alapon, gyengébb a hálózata, és meszes talajú lomberdőkben él. A Caloboletus polygonius délebbi elterjedésű, meszes lomberdőkben él, kevésbé hálózatos a tönkje, és húsa nem reagál Melzer-reagensre. A sátántinóru (Rubroboletus satanas) pórusai pirosak. A változékony tinóru (Suillellus luridus) kalapja sötétebb, pórusai narancsvörösek, tönktövében a hús narancsvörös, és azonnal kékül. A céklatinóru (Neoboletus luridiformis) pórusai pirosak és tönkjén nincsen hálózat.",
-      notes: "Egy 2019-es IUCN-felmérés nem fenyegetettként (Least Concern) tartja számon, stabil állománnyal."
+      description: "Fenyvesek és lomberdők ektomikorrhizás tinórugombája. Európa-szerte elterjedt a Földközi-tengertől észak felé haladva, elsősorban a mérsékelt égövben, és a hegyvidékeken a leggyakoribb. Rögzítették a Kaukázusban, Törökországban, Pakisztánban, Jünnanban, Koreában és Tajvanon is. Az észak-amerikai és japán adatai vitatottak.",
+      cap: "A kalap 3–20 cm átmérőjű, és esetenként eléri a 25 cm-t. Kezdetben félgömb alakú, sokáig begöngyölt és gyakran szabálytalanul hullámos széllel, majd domborúvá vagy párna alakúvá válik. A kalap közepe ellaposodhat, bár egyes termőtestek idős korukra is lekerekítettek maradnak. Felülete száraz és matt, fiatalon finoman nemezes vagy pelyhes, később csupasz, a közepén néha megrepedezik vagy apró pikkelyeket képez. Színe a halványbarnától, agyagbarnától és tejeskávészíntől a füstszürkén és szürkésbarnán át az olívbarnáig vagy sárgásbarnáig terjed, néha olív árnyalattal, ritkán vöröses beütéssel. A kalapbőr túlnyúlhat a peremen.",
+      hymenium: "A csövek 3–20 mm hosszúak, a tönknél kiöblösödők vagy bemetszettek. Citromsárgák, majd olívsárgák. A pórusok aprók és kerekek, eleinte szürkészöldek vagy citromsárgák, később zöldesek vagy olívsárgák, és megegyeznek a csövek színével. Nyomásra vagy vágásra a pórusok és a csövek kékre vagy kékészöldre színeződnek. A bazídiumok bunkó alakúak és négy spórásak, körülbelül 30–38 × 9–12 μm méretűek. A cisztidák bunkós vagy orsó alakúak, hialinok, körülbelül 25–40 × 10–15 μm-esek.",
+      stipe: "A tönk 3–15 cm hosszú és 1–5 cm vastag. Nagy-Britanniában és Írországban gyakran körülbelül 7–9 cm hosszú és 3–5 cm vastag. Fiatalon a tönk hasas vagy hordó alakú. Az érett tönk bunkós vagy hengeres, középen gyakran vastagabb, a kalap alatt vagy a töve felé elkeskenyedő, és olykor görbült. A csúcsa élénksárga. Ez alatt a tönk kárminvörös vagy rózsaszínes-vörös, a töve pedig általában tompa barnásvörös vagy barna. Néha az egész tönk vörös. A napfény fakíthatja a vörös színt, és az érett termőtesteken vagy a néhány napig tárolt példányokon a vörösség eltűnhet, okkerbarnát hagyva maga után. Finom vagy meglehetősen durva hálózat borítja a felületet. A csúcson a hálózat fehér vagy halványsárga a sárga alapon. Lejjebb húsvörös, piszkosvörös vagy barnássárga, és a tövétől felfelé barnul. A hálószemek lefelé nagyobbá és nyúltabbá válnak, a legalsó tövénél pedig eltűnnek. A nyomódott részek megkékülnek. Gallérja nincs.",
+      flesh: "A hús fehéres, halványkrémszínű vagy halványsárga, a tönk tövében gyakran piszkosvöröses vagy lilás árnyalatú. A vágási felület kékre vagy kékészöldre változik. A színváltozás lehet gyors vagy csupán mérsékelt, néha gyenge, majd a kék szín elhalványul. A vágás átmenetileg fehér maradhat, mielőtt a kékészöld megjelenik. A fiatal hús kemény. Szaga gyenge és gombaszerű, vagy erősebb és kellemetlen, tintára emlékeztető. Íze kezdetben édeskés, majd nagyon keserű. A keserűség az idősebb termőtestekben mérséklődhet, és helyenként változhat. A hús Melzer-reagensben erősen amiloid.",
+      sporePrint: "Olívsárga, halvány okkerolív, dohány-olívbarna vagy barnásolív. A bazidiospórák simák, keskenyen elliptikusak vagy szubfuziformak, körülbelül 12–16 × 4–6 μm méretűek.",
+      habitat: "Termőtestei júniustól decemberig jelennek meg, leggyakrabban júliustól októberig. Magányosan vagy csoportosan nőnek, gyakran a dombvidékeken és a hegyvidékeken, kevésbé gyakran az alföldeken. Szokásos partnerei a lucfenyő, jegenyefenyő, erdeifenyő, bükk és tölgy. Közép-Európában a gomba leggyakrabban lucfenyővel és bükkel társul, gyakran savanyú talajon nő. Nagy-Britanniában és Írországban főleg mészkövön vagy más lúgos vagy semleges talajon él bükk és tölgy alatt, de erdeifenyő és lucfenyő mellett is előfordul. Pakisztánban himalájai nyárral és pindrow-jegenyefenyővel jegyezték fel.",
+      uses: "A főzés nem távolítja el a keserűséget, és egyetlen termőtest tönkreteheti az ételt. Néhány embernél gyomor-bélrendszeri megbetegedést okoz az elfogyasztása. Az orosz Távol-Keleten és Ukrajnában fogyasztották a termőtesteit.",
+      confusion: "A Caloboletus radicans tönkjén alig vagy egyáltalán nincs vörös szín, hálózata gyengébb, tönkcsúcsa gyökerező, és meleg, meszes lomberdőkben nő. A Caloboletus kluzakii tönkje szintén jóval kevésbé vörös a sárga alapon, hálózata gyengébb, és meszes talajú lombos fákkal nő. A Caloboletus polygonius délibb elterjedésű, meszes lomberdőkben él, tönkje kevésbé hálózatos, húsa pedig nem reagál Melzer-reagensben. A Rubroboletus satanas pórusnyílásai vörösek. A Suillellus luridus kalapja sötétebb, pórusai narancssárgává vagy narancsvörössé válnak, tönktövében a hús narancsvörös, és húsa azonnal kékül. A Neoboletus luridiformis csövei vörösek. A Xerocomellus chrysenteron tönkje hálózat nélküli. Más Xerocomellus fajok kisebbek, puhábbak és karcsúbbak, barna kalappal és nem keserű hússal. A Boletus edulis tönkén nincs vörös szín, pórusai nem kékülnek. A nyugat-észak-amerikai Caloboletus rubripes keserű, hasonló kalapú és kékülő sárga pórusú, de vöröses tönkje hálózatmentes. A Caloboletus inedulis kisebb, és fehér vagy szürkésfehér kalapú. A Caloboletus roseipes hemlokfenyővel nő. A Caloboletus firmus pórusai vörösek, tönkje nem hálózatos.",
+      notes: "A keserű íz nagyrészt a kalopinból és az O-acetilciklokalopin A-ból származik. A termőtestek tartalmazzák a pulvinsav-származék kalocint, valamint a rokon norbadion A-t is. A kék elszíneződést a kalopin oxidációja okozza. Két rokon fajban megtalálható a muszkarin, de ebben a gombában nem mutatták ki. Egy 2025-ös értékelés a Nem fenyegetett (Least Concern) kategóriába sorolja, stabil populációval és jelentős fenyegetés nélkül."
     }
     },
     sources: {
@@ -47089,7 +47089,7 @@ export const CATALOG = [
       sk: ["hríb plstnatý", "suchohríb plstený"],
       es: ['boleto aterciopelado'],
       ro: ['hrib mic'],
-      hu: ["molyhos nemezestinóru"]
+      hu: ["nemezes tinóru"]
     },
     text: {
       tr: {
@@ -47392,16 +47392,16 @@ export const CATALOG = [
       notes: "È la specie tipo del genere Xerocomus."
     },
     hu: {
-      description: "Lombhullató és tűlevelű erdőkben élő ektomikorrhizás tinórugomba. Gyakori és széles körben elterjedt Európában. Észak-Amerikából és Kelet-Ázsiából származó korábbi adatai más rokon fajokhoz tartoznak.",
-      cap: "A kalap 4–12 cm átmérőjű, kezdetben félgömb alakú, majd domborúvá válik, végül kiterül. Színe olívbarna, sárgásbarna vagy szürkésbarna. Felülete száraz, finoman nemezes, bársonyos tapintású, száraz időben felrepedezhet, de a repedésekben nem tűnik elő vörös hús.",
-      hymenium: "A csövek a tönkhöz nőttek vagy enyhén lefutók. A pórusok tágak, szögletesek, fiatalon élénksárgák, később zöldessárgák lesznek; nyomásra nem vagy csak gyengén, lassan kékülnek.",
-      stipe: "A tönk 4–10 cm hosszú és 1–2,5 cm vastag, hengeres vagy a töve felé keskenyedő. Sárgás alapszínű, lefelé gyakran vörösesbarna árnyalatú, finom hosszanti bordázattal; igazi hálózata nincsen.",
-      flesh: "A hús fehéres vagy halványsárga, a tönk tövében kissé barnásvöröses, elvágva többnyire változatlan marad, vagy csak nagyon halványan és bizonytalanul kékül. Kellemes gombaillatú, enyhe, kissé savanykás ízű.",
-      sporePrint: "Olívbarna. A spórák orsó alakúak, simák, méretük 11–15 × 4,5–5,5 μm.",
-      habitat: "Nyártól késő őszig terem lomb- és fenyőerdőkben (tölgy, bükk, nyír, valamint erdeifenyő és lucfenyő alatt), savanyú vagy semleges talajon.",
-      uses: "Ehető gomba, de puha húsa miatt hamar romlik, ezért csak a fiatal példányokat érdemes szedni. Sütve, levesekbe vagy szárítva használható fel.",
-      confusion: "Az aranyos tinóru (Xerocomellus chrysenteron) kalapbőre mélyen felrepedezik és a repedésekben vöröses hús látható. A zöldhátú zsemlegomba (Xerocomus ferrugineus) sárga micéliumszövedékkel rendelkezik a tönk tövében és húsa fehér marad. A barna tinóru (Imleria badia) kalapja sötétebb gesztenyebarna és pórusai erősebben kékülnek.",
-      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja számon."
+      description: "Lomblevelű fák és fenyők ektomikorrhizás gombája. Elterjedt Európában, Észak-Afrikában, Észak-Amerikában és Észak-Ázsiában, és bekerült Ausztráliába is. Korábban tágabb értelemben használták a nevet több egymáshoz közel álló fajra.",
+      cap: "A kalap általában 3–12 cm átmérőjű, és kivételesen körülbelül 20 cm-es is lehet. Kezdetben félgömb alakú, majd domborúvá vagy lapossá válik, a széle pedig sokáig begöngyölt maradhat. A felülete száraz, matt és molyhos vagy finoman bársonyos. Idős korban vagy száraz időben a kalapbőr gyakran apró pikkelyekre vagy foltokra repedezik fel, felfedve az alatta lévő sárgás húst. Színe változatos: okkersárga, olívbarna, sárgásbarna, szürkésbarna vagy tompa sárgászöld, olykor vörösesbarna árnyalattal. A kalapbőr nem vagy alig nyúlik túl a peremen. A kalapbőr kálium-hidroxiddal (KOH) vörösesbarna vagy mahagónibarna színreakciót ad.",
+      hymenium: "A csövek krómsárgák vagy élénksárgák, később olívsárgák, körülbelül 5–15 mm hosszúak, a tönknél kissé felkanyarodók vagy lefutók. A pórusok viszonylag tágak, szögletesek, szabálytalanok, fiatalon élénk aranysárgák, idővel olívzöldesre érnek. Nyomásra kissé kékülhetnek vagy zöldülhetnek, ám a reakció gyakran gyenge, lassú vagy elmarad. A bazídiumok négy spórásak, körülbelül 28–40 × 8–11 μm méretűek. A cisztidák orsó vagy bunkó alakúak, vékony falúak, 35–65 × 8–15 μm-esek. A csövek kálium-hidroxiddal barna vagy sötétbarna színreakciót adnak.",
+      stipe: "A tönk 4–10 cm hosszú és 1–3 cm vastag. Gallérja nincs. Hengeres vagy orsó alakú, a töve felé gyakran elkeskenyedő vagy kihegyesedő, és néha kissé görbe. Színe sárga vagy sárgásfehér, a töve felé gyakran barna, vörösesbarna vagy vöröses pontozottsággal díszített. Valódi hálózata többnyire hiányzik, de a felső részén durva, hosszanti bordás-erezetes hálózat lehet jelen. A tövénél a micélium fehéres vagy halványsárgás. Nyomásra a tönk felülete nem vagy alig színeződik kékre. A tönk tövének felülete Melzer-reagensben inamiloid.",
+      flesh: "A hús fehéres vagy sárgás, a csövek felett élénkebb sárga, a tönk alsó részében pedig rózsaszínes vagy rózsásbarna árnyalatú. Vágásra a hús a tönk tetején és a kalapban enyhén kékülhet, vagy színe változatlan marad. Állaga fiatalon szilárd, később szivacsossá és puhává válik a kalapban, a tönkben pedig szívós marad. Szaga gyenge, kellemes, gombaszerű vagy enyhén gyümölcsös. Íze enyhe vagy kissé savanykás. A hús kálium-hidroxiddal barna vagy szürkésbarna reakciót ad, Melzer-reagenssel pedig inamiloid.",
+      sporePrint: "Olívbarna vagy dohány-olívbarna. A bazidiospórák simák, orsó alakúak vagy szubfuziformak, körülbelül 10–14 × 4–5 μm méretűek, inamiloidok.",
+      habitat: "Termőtestei magányosan vagy kis csoportokban jelennek meg, Közép-Európában júniustól október végéig, Nagy-Britanniában és Írországban augusztustól októberig. Széles körben megterem savanyú vagy mészkerülő talajon, lomb- és fenyőerdőkben, parkokban, erdei tisztásokon és utak mentén. Különösen gyakori tölgy, bükk, erdeifenyő és lucfenyő alatt, egyesével vagy kisebb csoportokban. Mikorrhizás kapcsolatot létesít a fenti fákkal, és nitrogénben szegény, savanyú talajt kedvel.",
+      uses: "Ehető gomba. Bár kellemes ízű, a kalap húsa hamar megpuhul, szivacsossá válik, a tönkje pedig rágós, rostos lehet, ezért a fiatal példányok a legalkalmasabbak fogyasztásra. Más gombákkal keverve kiváló. Nyersen nem szabad fogyasztani.",
+      confusion: "A Xerocomus ferrugineus húsa fehéres és vágásra nem színeződik, beleértve a tönk tövét is, micéliuma sárga, pórusai pedig már fiatalon olív árnyalatúak. Leginkább fenyvesekben vagy bükk, nyír és fűz alatt él, tölgy alatt nem. A Xerocomus chrysonemus tönkjének tövében a hús élénksárga, micéliuma szintén sárga, és húsa többnyire nem kékül. A Xerocomus silwoodensis sötétebb vörösesbarna kalappal bír, nyárfák (Populus) alatt él, húsa pedig levegőn fehéresről sárgásra változik. A Xerocomellus chrysenteron kalapja rózsaszínes vagy vöröses húsig repedezik fel, gyakran kisebb és puhább, és vöröses tönkje általában nem keskenyedik le. Az Aureoboletus moravicus kapor- és kókuszillatú, a csövek felett barna vonal húzódik, és húsa nem kékül. Az Imleria badia sötétebb kalapú, erősebben kékül, nedvesen nyálkás vagy ragadós. A piros kalapú formákat a Xerocomellus rubellus csoportjától a tönk tövében látható rózsaszínes vagy rózsásbarna hús, valamint a kalapbőr alig kérgesedett vagy sima sejtjei választják el.",
+      notes: "Európában sokáig összetévesztették a Xerocomus ferrugineus fajjal, és a tölgyektől távoli előfordulásokat ma megbízhatatlannak és valószínűleg annak a fajnak tekintik. Egy 2012-es elemzés a nyugat-lengyelországi Noteć-erdőből származó kalapokban bőséges káliumot, foszfort és magnéziumot talált 46000, 8400 és 1100 mg/kg száraztömeg átlagértékekkel, és megállapította, hogy a kadmium, higany és ólom nem jelent veszélyt a fogyasztóra."
     }
     },
     sources: {
@@ -47890,7 +47890,7 @@ export const CATALOG = [
       pl: "koźlarz pomarańczowożółty",
       fr: "bolet roux",
       it: "leccino arancione",
-      hu: "kormostönkű érdestinóru"
+      hu: "sárga érdestinóru"
     },
     names: {
       en: ["dark-stalked bolete"],
@@ -47898,7 +47898,8 @@ export const CATALOG = [
       sv: ['blek björksopp', 'tegelfärgad björksopp', 'tegelröd björksopp'],
       ro: ['roniță'],
       ru: ["подосиновик разнокожий"],
-      fr: ["bolet orangé des bouleaux"]
+      fr: ["bolet orangé des bouleaux"],
+      hu: ["sárga érdeslábú-tinóru","vörös érdestinóru"]
     },
     text: {
       tr: {
@@ -48202,16 +48203,16 @@ export const CATALOG = [
       notes: "Analisi filogenetiche molecolari hanno dimostrato che forme a cappello giallo o pallido come Leccinum cerinum e Leccinum percandidum rappresentano varianti ecologiche della medesima specie."
     },
     hu: {
-      description: "Nagy termetű ektomikorrhizás gomba, amely kizárólag nyírfákkal (Betula fajok) él szimbiózisban. Európa északi és hegyvidéki tájain gyakori, különösen savanyú talajokon és tőzeges területeken.",
-      cap: "A kalap 8–20 cm átmérőjű, kezdetben félgömb alakú, majd párnásan domborúvá válik. Színe élénk sárgásnarancs, narancsvörös vagy rozsdanarancs. Felülete finoman bársonyos, száraz; a kalapbőr a szélén jellegzetesen túlnyúlik a csöveken, és rásimul a termőrétegre.",
-      hymenium: "A csövek hosszúak, szürkésfehérek, idővel szürkésbarnára sötétednek; a tönk körül mély árokkal elválasztottak. A pórusok aprók, kerekdedek, szürkésfehérek, megnyomva lilásbarnára színeződnek.",
-      stipe: "A tönk 8–20 cm magas és 2–5 cm vastag, vaskos, hengeres vagy felfelé keskenyedő. Fehér alapon sűrű, fekete vagy szürkésfekete pikkelykékkel (érdességekkel) borított, amelyek már fiatalon sötétek.",
-      flesh: "A hús vastag, kemény, fehér; elvágva a kalapban és a tönkcsúcsban először szürkéskékre, liláskékre vált, majd szürkésfeketére sötétedik, a tönk tövében pedig zöldeskék foltok jelennek meg. Kellemes illatú és jóízű.",
-      sporePrint: "Dohánybarna vagy fahéjbarna. A spórák orsó alakúak, simák, méretük 13–16 × 4–5 μm.",
-      habitat: "Nyártól késő őszig terem nyírfák alatt erdőkben, lápokon és hegyvidéki réteken, savanyú talajon.",
-      uses: "Kiváló ehető gomba! Alapos főzést vagy sütést igényel, nyersen gyomorpanaszokat okozhat. Hőkezelés során a húsa megfeketedik.",
-      confusion: "A vörös érdestinóru (Leccinum albostipitatum) rezgő nyár alatt nő és fiatalon tiszta fehér tönkpikkelyei vannak. A tölgyfa-érdestinóru (Leccinum aurantiacum) tölgyek alatt nő és tönkpikkelyei vörösesbarnák. A barna érdestinóru (Leccinum scabrum) kalapja szürkésbarna.",
-      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja számon."
+      description: "Nyírfák alatti ektomikorrhizás gomba nyíresekben, fenyéreken és cserjésekben, magányosan vagy szórt csoportokban. Nagy-Britanniában és Írországban meglehetősen gyakori, és elterjedt a kontinensen Skandináviától délen Portugáliáig, Spanyolországig és Olaszországig, keleten pedig Oroszországig. Előfordul Észak-Amerika egyes részein is, beleértve Délkelet-Alaszkát.",
+      cap: "A kalap 4–20 cm átmérőjű. Nagyon fiatalon félgömb alakú és meglehetősen vékony, majd vastag húsú, széles domború vagy párna alakú, és ritkán lapul le teljesen. Felülete matt és aprón molyhos vagy nemezes, általában száraz, és nedves időben olykor enyhén zsíros tapintású. Színe sárganarancs, narancssárga, vörösesnarancs vagy narancsbarna, és ritka világos formája majdnem fehér, néha rózsaszín vagy narancssárga beütéssel. A kalapbőr fiatalon mintegy 2–4 mm-rel túlnyúlik a peremen, gyakran rongyos lebenyként, és ez a túlnyúlás később eltűnik.",
+      hymenium: "A csövek mintegy 8–25 mm hosszúak, szürkésfehértől egérszürkéig vagy barnásszürkéig terjednek, és a tönk körül szinte szabadon állók vagy mélyen kiöblösödők. A pórusok aprók, körülbelül 0,5 mm átmérőjűek és kerekek. Fiatalon szürkék, olívszürkés-barnák vagy egérszürkék, és idővel világosabbá, okkerszínűvé vagy barnává válnak. A sérült pórusok barnásra vagy lilásszürkére változnak. A bazídiumok négy spórásak, és a csövek felületén cisztidák találhatók.",
+      stipe: "A tönk 8–22 cm hosszú és 2–7 cm vastag, gyakran inkább 2–4 cm, gallér nélkül. Fiatalon megnyúlt és bunkós vagy hasas, később majdnem hengeres, és érett korban a kalap alatt szinte mindig keskenyebb, mint a tövénél. Felülete fehér, világosszürke vagy sárgásszürke, és a kezdetektől fogva kontrasztos szürkésfekete vagy fekete gyapjas pikkelyek borítják.",
+      flesh: "A hús fehéres és fiatalon kemény. Vágásra rózsaszínűvé vagy vörösessé válhat, majd szürkévé vagy lilásszürkévé, végül feketéssé színeződik. A kalap húsa lassan változhat, csak fokozatosan válik szürkévé, mielőtt ibolyás árnyalattal megfeketedne, míg a tönk, különösen a töve, kékeszöldre, majd majdnem feketére változik. A szárított hús fekete lesz. Idősebb termőtestekben a kalap megpuhul, a tönk töve pedig rostos marad és elfásodhat. Szaga enyhe, íze pedig enyhe, kellemes vagy édeskés.",
+      sporePrint: "Okkersárgás barna vagy olívbarna, sárgásbarna. A spórák keskenyen elliptikusak vagy orsó alakúak, vékony falúak, többnyire 11–16,5 × 3,5–5 μm méretűek, körülbelül 3,5 hossz-szélesség aránnyal, és inamiloidok. Alkalmanként a spórák olyan rövidek is lehetnek, mint körülbelül 9 μm.",
+      habitat: "A termőtestek májustól novemberig jelennek meg. A közép-európai adatok májustól októberig terjednek, a brit és ír feljegyzések júliustól szeptemberig, a tágabb európai leírások pedig júliustól vagy augusztustól novemberig. A talajon nőnek nyírfákkal, homokos, enyhén savanyú vagy vályogos talajon, lombhullató és vegyes erdőkben, fenyéreken, cserjésekben, ligetekben és ösvények mentén, néha olyan helyeken is, ahol fenyők is jelen vannak. Helyenként bőségesek lehetnek.",
+      uses: "A fiatal, kemény termőtestek alapos főzés után jó ehető gombát adnak, bár egy vargánya ízben és textúrában jobb. A nyers vagy nem megfelelően megfőtt termőtestek hányingert és hányást okozhatnak, ezért 15–20 perces sütést vagy főzést igényelnek. A hús a főzés során megfeketedik. Finnországban, Lettországban, Litvániában, Észtországban, Fehéroroszországban, Délkelet-Alaszkában és Oroszországban élelemként gyűjtik, Csehországban pedig piacokon is árusítják.",
+      confusion: "A Leccinum scabrum szintén nyírfával nő. Barna kalapja van, és a tönk húsa vágásra nem mutat kifejezett színváltozást. A Leccinum albostipitatum rezgőnyárral nő. Tönkje az érés derekáig fehér marad, és a pórusnyílások nagyon fiatalon fehéresek. A Leccinum aurantiacum általában tölggyel vagy rezgőnyárral nő, vöröses pikkelyei vannak a tönkön, és fiatalon szintén fehéres pórusnyílásokkal bír. A Leccinum piceinum lucfenyővel él, a Leccinum vulpinum pedig erdeifenyővel. Tönkpikkelyeik fekete helyett barnák.",
+      notes: "DNS-vizsgálatok nyomán számos leírás a Leccinum cerinum, Leccinum percandidum és Leccinum roseotinctum taxonokat e faj színváltozatainak tekinti. Egy 2025-ös értékelés a Nem fenyegetett (Least Concern) kategóriába sorolja. Széles elterjedésű, nagy és stabil populációval rendelkezik, és nem azonosítottak nála jelentős fenyegetést."
     }
     },
     sources: {
@@ -48681,12 +48682,12 @@ export const CATALOG = [
       pl: "koźlarz topolowy",
       fr: "bolet rude des peupliers",
       it: "porcinello grigio dei pioppi",
-      hu: "nyárfa-érdestinóru"
+      hu: "sötét érdestinóru"
     },
     names: { es: ['boleto de los chopos', 'faisán'],
       ru: ["обабок твердоватый"],
       fr: ["bolet durillon"],
-      hu: ["nyárfa-tinóru"]
+      hu: ["nyárfa-érdestinóru","szürkés érdestinóru"]
     },
     text: {
       tr: {
@@ -48992,16 +48993,16 @@ export const CATALOG = [
       notes: "Una valutazione del 2025 classifica la specie a minor preoccupazione (Least Concern)."
     },
     hu: {
-      description: "Vaskos, kemény húsú ektomikorrhizás gomba, amely fehér és rezgő nyárral (Populus alba, Populus tremula) él szimbiózisban. Európában széles körben elterjedt és gyakori lomblevelű erdőkben és ligetekben.",
-      cap: "A kalap 6–18 cm átmérőjű, vaskos, félgömb alakúból domborúvá válik. Színe szürkésbarna, mogyoróbarna, agyagbarna vagy szürkésfehér, sohasem narancsos vagy téglavörös. Felülete fiatalon finoman nemezes, idővel simává válik, nedvesen kissé tapadós.",
-      hymenium: "A csövek hosszúak, a pórusok aprók, krémszínűek vagy szürkésfehérek, idővel szürkésbarnára érnek; megnyomva vagy elvágva barnásan vagy lilásszürkén színeződnek.",
-      stipe: "A tönk 8–18 cm magas és 2–4 cm vastag, nagyon kemény, vaskos, lefelé vastagodó. Fehéres alapon sűrű, apró, sötétszürke vagy feketés pikkelykékkel fedett, amelyek hosszanti sávokba vagy finom álhálózatba rendeződhetnek.",
-      flesh: "A hús feltűnően kemény és merev, fehér; elvágva a kalapban és a tönk felső részén gyorsan rózsaszínesre vagy húsvörösre pirul, majd szürkésfeketére sötétedik, a tönk tövében pedig azonnal intenzív kékeszöldre vagy zöldeskékre színeződik. Kellemes gombaillatú és finom ízű.",
-      sporePrint: "Dohánybarna vagy okkerbarna. A spórák orsó alakúak, simák, méretük 13–17 × 5–6 μm.",
-      habitat: "Nyártól késő őszig terem nyárfák (főként Populus alba és Populus tremula) alatt ligeterdőkben, folyópartokon, parkokban és erdőszéleken, agyagos vagy meszes talajon.",
-      uses: "Kiváló csemegegomba! Kemény húsa miatt az egyik legértékesebb érdestinóru, amely nem puhul meg gyorsan. Alapos sütést-főzést igényel, a hőkezelés során a húsa megfeketedik.",
-      confusion: "A barna érdestinóru (Leccinum scabrum) nyírfák alatt nő, húsa puha és vágásra nem színeződik el. A vörös kalapú érdestinóruk (Leccinum aurantiacum, Leccinum albostipitatum) kalapja élénk narancsvörös vagy téglavörös.",
-      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja számon."
+      description: "Nyárfa- és rezgőnyárerdők, parkok és utak menti ektomikorrhizás gomba. Elterjedt a mérsékelt övi Európában Nagy-Britanniától és Írországtól Közép- és Dél-Európán át Skandináviáig, keleten pedig Szibériáig, és e területen kívül is terem ültetett nyárfák alatt.",
+      cap: "A kalap általában 4–16 cm átmérőjű, és egy robusztus termőtest elérheti a körülbelül 20–25 cm-t is. Eleinte majdnem gömb alakú vagy félgömbös, majd domború vagy párna alakú, néha kissé bemélyedő középponttal. A kalapbőr fiatalon finoman molyhos vagy bársonyos, később simább, száraz és matt, éretten nedves időben pedig ragadós vagy nyálkás. Színe a világosszürkétől, sárgásbarnától és szürkésbarnától az umbrabarnáig, szépia- vagy vörösesbarnáig terjed, néha a perem felé világosabb vagy sárgás. A perem gyakran vékony lebenyként túlnyúlik a csöveken. A felület idős korban finoman megrepedezhet, de nem válik durva foltokká és nem gödrös.",
+      hymenium: "A csövek 10–30 mm hosszúak, a tönk körül bemélyedők vagy majdnem szabadok, olykor szélesen tönkhöz nőttek. Eleinte fehérek vagy krémszínűek, majd szürkék vagy piszkos krémszínűek. A pórusok aprók és kerekek, körülbelül 0,3–0,5 mm átmérőjűek, a csövekkel egyező színűek, és idővel olív árnyalatot vehetnek fel. Nem sárgák. A sérült pórusok barnásra színeződnek, és egyes gyűjtések sötétedés előtt rózsaszínesre pirulnak. A bazídiumok bunkó alakúak és négy spórásak, körülbelül 20–37 × 6–9 μm méretűek, csatlakozások (clamp connections) nélkül. A pórusok élén bőségesen találhatók palack alakú, gyakran hosszú nyakú cisztidák, amelyek körülbelül 20–75 × 5,5–17 μm méretűek, 2–4 μm széles nyakra szűkülve, színtelenek vagy barna tartalmúak.",
+      stipe: "A tönk 5–20 cm hosszú és 1–5 cm vastag, hengeres, középen megduzzadt vagy bunkó alakú, gyakran keskenyebb a kalap alatt és vastagabb a töve felé, gallér nélkül. Fehér, krémszínű vagy szürkés, finom pikkelyekkel borítva, amelyek eleinte világosbarnák, majd barnásfeketére sötétednek, különösen a töve felé, olykor hosszanti sorokba rendeződve vagy laza hálózattá egyesülve. Fiatal termőtesten a csúcson lévő pikkelyek fehérek maradnak, halvány zónát hagyva a kalap alatt, amíg a kalap ki nem terül. A tövén gyakran kékeszöld foltok láthatók. A felső harmad néha finoman bordázott.",
+      flesh: "A hús szilárd és fehér vagy krémszínű. Vágásra a kalapban és a tönk felső részében rózsaszínűre, rézvörösre vagy vöröseslilára színeződik, majd szürkésfekete lesz, a tönk töve pedig kékeszöldre válik. A színváltozás lehet gyors és kifejezett, vagy lassabb, és néha átmenetileg szürkésbarna vagy lilásszürke. A tönk alsó felében a hús gyorsan elfásodik és rágóssá válik. Szaga kellemes és gombaszerű, íze enyhe és kellemes.",
+      sporePrint: "Okkersárgás barna, dohánybarna vagy sárgásbarna. A spórák simák, keskenyen elliptikusak vagy orsó alakúak, körülbelül 12–16,5 × 4,5–6 μm méretűek, inamiloidok.",
+      habitat: "A termőtestek nyártól késő őszig, júniustól novemberig jelennek meg. Magányosan vagy kis csoportokban nőnek a talajon nyárfákkal, különösen fehér nyárral és rezgőnyárral, valamint fekete nyárral, erdőkben, erdőszéleken, parkokban, kertekben és utak mentén, gyakran füves vagy mohás helyeken, meszes és nehezebb talajokon.",
+      uses: "Jó ehető gomba, de alapos főzést igényel, legalább 15–20 percig, mivel nyersen vagy nem eléggé megfőzve gyomorpanaszokat és hányást okozhat. Főzéskor a húsa feketévé válik. A tönk rágós és fás tövét általában kidobják.",
+      confusion: "A Leccinum scabrum nyírfával nő. Húsa fehér marad vagy csak halványan rózsás, és a tönk töve nem színeződik kékeszöldre. A Leccinum versipelle szintén nyírrel él. Narancssárgás-okker kalapja van, és húsa sérülésre kékeszöldre vagy lilásszürkére változik. A Leccinum variicolor nyírrel él és foltos, világosabb jegyekkel tarkított kalapú, míg ez a faj egyenletesebb kalapú és nyárfával nő. A Leccinum pseudoscabrum gyertyánnal él. Kalapja gödrös, pórusai sárgássá válnak, húsa pedig teljesebben megfeketedik. A Leccinum cyaneobasileucum nyírfával él és kisebb méretű. Tönktöve kékre színeződik, húsa pedig rózsaszínűvé, majd lassan kékké válik. A Leccinellum crocipodium tölggyel, bükkel és gyertyánnal nő, okkersárgától sárgásbarnáig terjedő kalapú, és nem foltosodik kékeszölden a tönk tövén. A Leccinum rufum var. decipiens szintén rezgőnyárral él. Tönkpikkelyei sokáig világosak maradnak, kalapbőre pedig erősebben túlnyúlik. A Leccinum fuscoalbum sötétebb barna kalapú, húsa pedig erősebben feketedik.",
+      notes: "A fajt a rezgőnyár és más nyárfák alatti élőhely, a kemény, vágásra vörösödő, majd feketedő hús, valamint a tönk tövének kékeszöld foltosodása határozza meg egyértelműen."
     }
     },
     sources: {
@@ -49479,7 +49480,7 @@ export const CATALOG = [
       pl: "bokówka biała",
       fr: "pleurote étalé",
       it: "orecchietta d'angelo",
-      hu: "hegyi laskagomba"
+      hu: "fehér fülőke"
     },
     names: {
       en: ["angel wing"],
@@ -49487,7 +49488,7 @@ export const CATALOG = [
       ru: ["вешенка распростёртая","крылья ангела"],
       fr: ["oreille de cochon"],
       it: ["fungo dell'angelo"],
-      hu: ["fenyves fehérlaska"]
+      hu: ["angyalszárny-gomba"]
     },
     text: {
       tr: {
@@ -49791,16 +49792,16 @@ export const CATALOG = [
       notes: "Tra settembre e ottobre 2004 in Giappone 59 persone furono colpite da grave encefalopatia tossica dopo aver consumato questo fungo, con 17 decessi accertati."
     },
     hu: {
-      description: "Fakárosító szaprotróf fehérkorhasztó gombafaj, amely kizárólag idős hegyvidéki és boreális fenyőerdőkben él korhadó tűlevelű faanyagon. Széles körben elterjedt az északi féltekén (Európa, Észak-Amerika, Kelet-Ázsia/Japán).",
-      cap: "A termőtest 2–8 cm széles, lapos, nyelv, vese, fül vagy angyalszárny alakú, vékony húsú. Színe ragyogó tiszta hófehér, idős korban enyhén krémszínűvé vagy sárgássá válhat. Felülete sima, selymes, széle finoman behajló és hullámos.",
-      hymenium: "A lemezek tiszta hófehérek, nagyon sűrűn állók, a termőtest rögzülési pontjához futnak össze, keskenyek és vékonyak.",
-      stipe: "Tönkje nincsen; közvetlenül a faanyaghoz nőtt oldalsó vagy hátoldali részével.",
-      flesh: "A hús nagyon vékony, törékeny, fehér, elvágva nem színeződik. Illata és íze enyhe, kellemes gombaszerű.",
-      sporePrint: "Fehér. A spórák közel gömbölydedek vagy széles elliptikusak, simák, méretük 5,5–7 × 4,5–6 μm, inamiloidak.",
-      habitat: "Késő nyártól késő őszig terem hegyvidéki tűlevelű erdőkben elhalt fenyőtörzseken, tuskókon és mohás rönkökön (főként lucfenyő és jegenyefenyő faanyagán).",
-      uses: "Mérgező, halálos kimenetelű mérgezést okozhat! Évtizedeken át ehetőnek tartották Japánban és Észak-Amerikában, ám 2004-ben Japánban tömeges, súlyos agyvelőbántalmat (akut enkefalopátiát) okozott, amely 17 halálesethez vezetett (főleg vesebetegségben szenvedőknél). Egy szokatlan aminosav-származékot (pleurocibellin) tartalmaz, amely károsítja az agysejteket.",
-      confusion: "A kései laskagomba (Pleurotus ostreatus) vastag húsú, szürke vagy barna kalapú és lombos fákon él. A fatönkökön élő egyéb fehér taplógombák jóval vastagabbak és kemények.",
-      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja számon globálisan, de Közép-Európában ritka faj."
+      description: "Fenyőfák korhadó faanyagán seregesen élő szaprofita taplógomba-szerű faj. Az északi félteke mérsékelt és hegyvidéki részein honos, beleértve Észak-Amerikát, Észak- és Közép-Európát, valamint Japánt.",
+      cap: "A kalap 2–10 cm széles, lapos, kagyló, vese vagy lapát alakú, gyakran tölcséressé váló vagy félköríves, a szubsztrátumhoz oldalt vagy a hátoldalával rögzül. Színe tiszta hófehér vagy áttetszően fehér, idővel kissé krémszínűvé vagy sárgássá válhat. Felülete sima, selymes, matt, széle finoman begöngyölt, majd hullámos, olykor bordás vagy lebenyes.",
+      hymenium: "A lemezek sűrűn állók, keskenyek, a meddő tönkrész vagy a tapadási pont felé lefutók, olykor villásan elágazók. Színük tiszta fehér, később halvány krémszínűek.",
+      stipe: "A tönk hiányzik (ülő gomba), vagy csak egy nagyon rövid, csökevényes, oldalsó fehér tuskó formájában van jelen.",
+      flesh: "A hús nagyon vékony, törékeny, tiszta fehér, nedvesen kissé rugalmas. Szaga kellemes, enyhe gombaszag vagy kissé lisztes, íze enyhe, édeskés.",
+      sporePrint: "Fehér. A spórák gömbölydedek vagy széles tojásdadok, simák, inamiloidok, 3–4 × 2,5–3,5 μm méretűek.",
+      habitat: "Késő nyártól késő őszig terem lucfenyő, jegenyefenyő és más tűlevelűek erősen korhadt tuskóin és kidőlt fatörzsein, gyakran sűrű, egymás fölött elhelyezkedő csoportokban vagy tetőcserépszerű sorokban.",
+      uses: "MÉRGEZŐ, HALÁLOS MÉRGEZÉST IS OKOZHAT! Évtizedeken át ehetőként tartották számon Észak-Amerikában és Japánban, azonban 2004-ben Japánban tömeges, végzetes akut enkefalopátiás (agyvelőbántalommal járó) mérgezéshullámot okozott, különösen krónikus vesebetegek körében. A gomba egy szokatlan aminosav-toxint (pleurocybellaziridin) tartalmaz, amely súlyos idegrendszeri károsodást vált ki. Fogyasztása szigorúan tilos!",
+      confusion: "A Pleurotus ostreatus és a Pleurotus pulmonarius vastagabb húsúak, és általában lombhullató fán nőnek. Spóráik megnyúltak, szubhengeresek vagy vese alakúak, a Pleurotus ostreatus spórapora pedig halvány lilás árnyalatú lehet. A Panellus mitis határozott tönkkel rendelkezik. A Crepidotus termőtestek kisebbek és barna spóraport hullatnak. A Hohenbuehelia rövid, de határozott tönkkel bír.",
+      notes: "A Pleurocybella porrigens Japánban 'sugihira-take' néven volt ismert, és hagyományosan fogyasztották, amíg a mérgezések toxikológiai vizsgálata fel nem tárta a rejtett veszélyeket."
     }
     },
     sources: {
@@ -50561,16 +50562,16 @@ export const CATALOG = [
       notes: "I basidi portano quasi esclusivamente due spore ciascuno, caratteristica microscopica a cui allude l'epiteto specifico bisporigera."
     },
     hu: {
-      description: "Vegyes tűlevelű és lombhullató erdőkben élő ektomikorrhizás gomba, amely gyakran tölgyfákkal képez kapcsolatot. Gyakori és széles körben elterjedt Észak-Amerika keleti részén, a texasi fenyvesektől és tölgyesektől észak felé Kanadán át Újfundland és a Tengeri Tartományok boreális erdőségéig. Nyugatabbra ritka.",
-      cap: "A kalap 2,5–13 cm átmérőjű. Kezdetben tojásdad vagy ovális, begöngyölt széllel, majd domborúvá vagy szélesen domborúvá válik, olykor harang alakú vagy majdnem lapos, és alacsony, széles púpja lehet. Felülete csupasz, vagy nagyon ritkán megőriz egy foszlányt az univerzális burokból. Száraz, vagy nedvesen kissé tapadós, színe fehér vagy elefántcsontfehér. A közepe a kor előrehaladtával halványbarna, krémszínű, szalmasárga vagy halvány rózsaszínű árnyalatot kaphat, és a régi sérülések kissé rozsdabarnássá válhatnak. Az egész kalapot befedő sárgás vagy rózsás árnyalat ritka. Széle nem bordás.",
-      hymenium: "A lemezek szabadon vagy majdnem szabadon állók, sűrűn helyezkednek el, fehérek, sok köztes lemezkével. A bazídiumok bunkó alakúak, vékony falúak és csat nélküliek, méretük 34–45 × 4–11 μm. Rendszerint két spórát viselnek. A három- vagy négyspórás bazídiumok ritkák, bár a szezon előrehaladtával gyakoribbá válhatnak. Cisztidák nincsenek.",
-      stipe: "A tönk 5,5–14 cm hosszú és 0,5–2 cm vastag, fehér és tömör. A csúcsa felé kissé elkeskenyedik, alul kerekded gumóvá szélesedik, és finom hosszanti barázdák lehetnek rajta. Felülete gyakran pelyhes vagy finoman pikkelyes, különösen fiatalon, olykor csaknem sima. Vékony fehér, szoknyaszerű gallér csüng a tönk felső részén. Alapja zsákszerű fehér bocskorban ül, amely legfeljebb 3,8 cm magas és mintegy 2 mm vastag, olykor a talajba temetve marad vagy elszakad. A bocskor néha lebenyes, és a tönkhöz simulhat.",
-      flesh: "A hús vékony és fehér, sérülésre nem változtatja a színét. Egy csepp kálium-hidroxid (KOH) a kalap felületét élénksárgára, a kalaphúst pedig sárgára színezi. A tirozináz-teszt kívül és belül egyaránt negatív. Szaga fiatalon enyhe vagy kellemes, idővel émelyítővé, édeskésen nehézzé vagy rothadó húsra emlékeztetővé válik.",
-      sporePrint: "Fehér. A spórák simák, vékony falúak, gömbölydedek vagy széles elliptikusak, méretük 7–10 × 6–9,6 μm, és amiloidak.",
-      habitat: "A termőtestek nyáron és ősszel jelennek meg, gyakran kora őszre, magányosan, szétszórtan vagy csoportokban a talajon. Tölgyekkel és feltehetően más keményfákkal nő, nyugaton nyírrel és rezgő nyárral is feljegyezték.",
-      uses: "Halálosan mérgező, és a nemzetség legmérgezőbb tagjaként tartják számon Észak-Amerikában. A termőtest amatoxinokat (főként alfa-amanitint) és a fallotoxinok közé tartozó fallacidint tartalmaz, a termőtestek között csekély eltéréssel. Egyetlen kifejlett termőtest halálos dózist tartalmazhat, és a méreganyagokat a forralás, a fagyasztás vagy a szárítás sem semmisíti meg.",
-      confusion: "Az Amanita ocreata Észak-Amerika nyugati részén él, rendszerint zömökebb termetű, és spórái elliptikusak; kálium-hidroxidra szintén sárgul. Az Amanita elliptosperma elliptikus spórákkal rendelkezik és nem sárgul KOH-ra. Az Amanita magnivelaris vastagabb, nemezes gallért visel és általában nem sárgul KOH-ra. Az Amanita virosiformis megnyúlt spórájú. A hegyeskalapú galóca (Amanita virosa) és a fehér galóca (Amanita verna) európai fajok, amelyek Észak-Amerikában nem fordulnak elő természetesen. Az Amanita virosa sárgul KOH-ra és később, ősszel terem. Az Amanita verna nem sárgul KOH-ra. A méret nem megbízható bélyeg e fajok elkülönítésére. A gyilkos galóca (Amanita phalloides) fehér formái nem sárgulnak KOH-ra. A ragadós bocskorosgomba (Volvopluteus gloiocephalus) nem visel gallért, érett lemezei és spórapora rózsaszínűek, és kertekben, pázsitokon él. A fehér tarlógomba (Leucoagaricus leucothites) nem rendelkezik bocskorral, és vastag falú dextrinoid spórái vannak. A zárt burokban lévő fiatal gombakezdemény pöfetegre hasonlíthat, amíg hosszában fel nem vágják, feltárva a kalapot és a lemezeket.",
-      notes: "Egy 2025-ös értékelés nem fenyegetettként (Least Concern) tartja számon. A fajnak nincsen hivatalos magyar neve."
+      description: "Észak-Amerika keleti részén honos, rendkívül mérgező galócafaj, a hírhedt pusztító angyalok (destroying angels) egyike. Tölgyekkel és más lombhullató fákkal él ektomikorrhizás kapcsolatban.",
+      cap: "A kalap 3–10 cm átmérőjű, kezdetben tojásdad vagy félgömb alakú, majd domborúvá, végül teljesen kiterülővé válik, középen kissé tompa púppal. Színe tiszta hófehér, idős korban a közepe halványsárgásra színeződhet. Felülete sima, száraz, nedves időben kissé ragadós, burokmaradványok ritkán maradnak rajta.",
+      hymenium: "A lemezek szabadon állók, sűrűn helyezkednek el, tiszta fehér színűek, idősödve sem sötétednek meg. A bazídiumok szinte kivétel nélkül kétspórásak (amiről a nevét kapta).",
+      stipe: "A tönk 6–14 cm hosszú és 0,5–1,5 cm vastag, karcsú, felfelé vékonyodó, tövénél kerekded gumóban végződik. Színe fehér, felszíne sima vagy finoman pelyhes-szálas. A tönk felső részén vékony, hártyás, lelógó, fehér gallér található. A gumós tövet jól fejlett, zsákszerű, hártyás fehér bocskor övezi.",
+      flesh: "A hús törékeny, vékony, fehér, vágásra nem színeződik. Szaga fiatalon kellemes vagy jelentéktelen, idővel émelyítő, kellemetlen szagúvá válik. Kálium-hidroxid (KOH) hatására a kalapbőr és a hús azonnal élénksárgára színeződik.",
+      sporePrint: "Fehér. A spórák gömbölydedek vagy széles oválisak, simák, amiloidok, körülbelül 8–10 × 7–9 μm méretűek.",
+      habitat: "Nyártól őszig terem tölgyesekben, vegyes erdőkben, parkokban talajon, Észak-Amerika keleti partvidékétől a Nagy-tavakig és délre Texasig.",
+      uses: "HALÁLOSAN MÉRGEZŐ! Amatoxinokat (amanitint) tartalmaz, ugyanazokat a méreganyagokat, mint a gyilkos galóca. Egyetlen termőtest elfogyasztása is visszafordíthatatlan máj- és vesekárosodást, illetve halált okozhat.",
+      confusion: "Az Amanita ocreata Észak-Amerika nyugati részén nő, általában zömökebb termetű, és spórái elliptikusak. Kálium-hidroxiddal szintén sárgára színeződik. Az Amanita elliptosperma spórái elliptikusak, és kálium-hidroxiddal nem sárgul. Az Amanita magnivelaris vastagabb, nemezes gallérral bír, és jellemzően nem sárgul kálium-hidroxiddal. Az Amanita virosiformis spórái megnyúltak. Az Amanita vernicoccora tavasszal nő a nyugati partvidéken, nincs sárga KOH-reakciója, és négy spórás bazídiumai vannak. Az Agaricus campestris és más ehető csiperkék gallérosak, de nincs bocskoruk, lemezeik pedig rózsaszínűvé, majd csokoládébarnává érnek. A Leucoagaricus leucothites galléros, de nincs bocskora, és KOH-val nem mutat sárga színreakciót.",
+      notes: "Észak-Amerika keleti részén a halálos gombamérgezések döntő többségét ez a faj okozza. A mérgezési mechanizmus lényege az RNS-polimeráz II enzim gátlása, ami a májsejtek nekrózisához vezet."
     }
     },
     sources: {
@@ -50896,7 +50897,8 @@ export const CATALOG = [
     names: {
       en: ["flesh-brown parasol", "deadly parasol"],
       es: ['mucerón'],
-      ru: ["лепиота коричнево-красноватая"]
+      ru: ["лепиота коричнево-красноватая"],
+      hu: ["barnásvörös őzlábgomba"]
     },
     text: {
       tr: {
@@ -51198,16 +51200,16 @@ export const CATALOG = [
       notes: "È responsabile di numerosi avvelenamenti mortali in tutta l'Europa mediterranea a causa della confusione con specie commestibili prative."
     },
     hu: {
-      description: "Kis termetű, halálosan mérgező szaprotróf gomba. Elterjedt Európa melegebb részein, különösen a Földközi-tenger vidékén és Közép-Európában; parkokban, kertekben, útszéleken és füves területeken fordul elő.",
-      cap: "A kalap 2–6 cm átmérőjű, kezdetben félgömb alakú vagy domború, később kiterül, közepén tompa púppal. Fehéres alapon sűrűn borítják a koncentrikusan elhelyezkedő húsbarnás, vörösesbarna vagy borvörös pikkelyek; a közepe egységesen sötétbarna marad.",
-      hymenium: "A lemezek szabadon állók, sűrűn helyezkednek el, fehérek vagy krémszínűek, a tönköt nem érik el.",
-      stipe: "A tönk 2–5 cm magas és 0,3–0,8 cm vastag, hengeres. A gallérzóna felett fehéres, alatta a kalaphoz hasonló húsbarnás, borvöröses pikkelyövekkel és szálas övecskékkel díszített. Nem hártyás gallérja, hanem pikkelyes gallérzónája van.",
-      flesh: "A hús vékony, a kalapban fehér, a tönk tövében borvöröses árnyalatú. Gyümölcsös illatú, íze enyhe.",
-      sporePrint: "Fehér. A spórák elliptikusak, simák, méretük 7–9 × 4–5 μm, dextrinoidak.",
-      habitat: "Nyártól késő őszig terem bolygatott talajú helyeken, akácosokban, parkokban, kertekben, fás ligetekben, homokos vagy meszes talajon.",
-      uses: "Halálosan mérgező! Nagy koncentrációban tartalmaz amatoxinokat. Több halálos kimenetelű mérgezést okozott már Európában, miután a kis termetű ehető szegfűgombával vagy nagyobb őzlábgombák fiatal példányaival tévesztették össze.",
-      confusion: "A mezei szegfűgomba (Marasmius oreades) lemezei ritkán állók, kalapja sima, egyszínű és nem pikkelyes. A nagy őzlábgomba (Macrolepiota procera) óriási termetű, tönkje kígyóbőrszerűen mintázott és vastag eltolható gallért visel. A többi kistermetű Lepiota faj szintén súlyosan mérgező lehet.",
-      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja számon."
+      description: "Kistermetű, rendkívül veszélyes, amatoxintartalmú őzlábgombafaj. Európa déli és középső részein honos, de elterjedt Ázsia mérsékelt részein is. Parkokban, kertekben, utak mentén és melegkedvelő lomberdőkben fordul elő.",
+      cap: "A kalap 2–6 cm átmérőjű, kezdetben félgömb alakú vagy harangszerű, majd domborúvá, kiterülővé válik, középen gyakran tompa púppal. Alapszíne fehéres vagy rózsás-krémszínű, amelyet sűrűn borítanak a körkörösen elhelyezkedő húsbarna, vörösesbarna vagy sötétbarna, koncentrikus szálas pikkelykék. A kalap közepe egybefüggően sötétbarna.",
+      hymenium: "A lemezek szabadon állók, sűrűk, fehérek, krémszínűek vagy enyhén sárgásfehérek, élük finoman fűrészes lehet.",
+      stipe: "A tönk 2–5 cm hosszú és 0,3–0,8 cm vastag, hengeres, üregesedő. Színe a gallérzóna felett fehér vagy halvány rózsás, alatta a kalaphoz hasonló sötét vörösesbarna vagy húsbarna pikkelykékkel övezett zónák láthatók. Nem valódi hártyás gallérja van, hanem csak egy gyengén fejlett, szálas-pikkelyes, gyűrűszerű gallérzónája, amely hamar eltűnhet.",
+      flesh: "A hús vékony, puha, fehér, a tönkben és idős korban enyhén vörösesbarna vagy borvörös árnyalatot vehet fel. Szaga édeskés, gyümölcsös vagy kissé kellemetlen, vegyszerszerű, íze enyhe (megkóstolni szigorúan tilos!).",
+      sporePrint: "Fehér. A spórák elliptikusak vagy tojásdadok, simák, dextrinoidok, 7–9 × 4–5 μm méretűek.",
+      habitat: "Nyártól késő őszig (főleg augusztustól októberig) terem humuszban gazdag talajon, lombhullató erdők szélein, parkokban, kertekben, temetőkben, sövények alatt, csalánosokban, gyakran lakott területek közelében.",
+      uses: "HALÁLOSAN MÉRGEZŐ! Halálos mennyiségű amatoxint tartalmaz, hatása és klinikai lefolyása megegyezik a gyilkos galócáéval. Fogyasztása súlyos, potenciálisan végzetes májnekrózist okoz.",
+      confusion: "A Marasmius oreades pikkelytelen, sima, sárgásbarna kalapú, lemezei szélesek és távol állók, tönkje szívós és rostos pikkelyek nélkül, spórái inamiloidok. A Tricholoma terreum fenyvesekben nő, kiöblösödő vagy felkanyarodó lemezű, szürke szálas kalapú rózsás vagy borvörös tónusok nélkül, és tönkjén hiányzik a gallérzóna és a pikkelyezettség. A Macrolepiota procera összehasonlíthatatlanul nagyobb, feltűnő mozgatható kettős gallérral és kígyóbőrmintás tönkkel. A Lepiota subincarnata kisebb, egyenletesebben rózsás, és sokkal kisebb spórákkal rendelkezik. A Lepiota cristata erős, szúrós karbol- vagy gumiszagú, és lövedék alakú, sarkantyús spórái vannak. A Lepiota ignivolvata tönkgallérjának alapjánál élénk narancsvörös folt látható.",
+      notes: "A kistermetű őzlábgombák alapszabálya a gombagyűjtők számára: 10 cm alatti kalapátmérőjű őzlábgombát tilos étkezési céllal leszedni, mert a legtöbb fajuk amatoxint termel és életveszélyes!"
     }
     },
     sources: {
@@ -51620,7 +51622,8 @@ export const CATALOG = [
       es: ['cicuta blanca de primavera', 'oronja blanca'],
       bg: ['бяла мухоморка'],
       ru: ["весенняя поганка"],
-      it: ["amanita primaverile"]
+      it: ["amanita primaverile"],
+      hu: ["tavaszi galóca"]
     },
     text: {
       tr: {
@@ -51923,16 +51926,16 @@ export const CATALOG = [
       notes: "L'epiteto verna fa riferimento alla tipica epoca di comparsa primaverile."
     },
     hu: {
-      description: "Halálosan mérgező ektomikorrhizás gomba. Melegkedvelő európai faj, amely a mediterrán és szubmediterrán lomberdőkben, főként tölgyesekben él; tavasszal és kora nyáron jelenik meg. Észak-Európában rendkívül ritka.",
-      cap: "A kalap 4–10 cm átmérőjű, kezdetben félgömb alakú, majd domborúvá válik, végül kiterül. Színe tiszta hófehér, idős korban a közepe kissé sárgás vagy krémszínű lehet. Felülete sima, csupasz, szárazon selymes fényű, nedvesen kissé tapadós.",
-      hymenium: "A lemezek tiszta fehérek, szabadon állók, sűrűn helyezkednek el, a kor előrehaladtával sem színeződnek el.",
-      stipe: "A tönk 6–12 cm magas és 1–2 cm vastag, hengeres, tiszta fehér, felülete sima vagy finoman pelyhes-szálas. Felső részén fehér, vékony, lelógó gallér látható. Tövénél gumószerűen duzzadt, amelyet mély, zsákszerű fehér bocskor vesz körül.",
-      flesh: "A hús fehér, elvágva nem változtatja a színét. Kálium-hidroxid (KOH) hatására nem sárgul (vagy csak alig észrevehetően). Szaga fiatalon gyenge, idős korban kellemetlen.",
-      sporePrint: "Fehér. A spórák közel gömbölydedek vagy széles oválisak, simák, méretük 8–11 × 7–9 μm, amiloidak.",
-      habitat: "Tavasztól kora nyárig (májustól júliusig) terem melegkedvelő tölgyesekben és szelídgesztenyésekben, meszes vagy semleges talajon.",
-      uses: "Halálosan mérgező! Nagy mennyiségben tartalmaz amatoxinokat. A gyilkos galócához hasonlóan súlyos máj- és vesekárosodást okoz; a tünetek hosszú lappangási idő után lépnek fel, és a mérgezés gyakran végzetes.",
-      confusion: "A májusi pereszke (Calocybe gambosa) tavasszal terem, de erős lisztszaga van, nincsen gallérja és bocskora. Az ehető fehér csiperkék (Agaricus fajok) lemezei rózsaszínűek vagy csokoládébarna árnyalatúak és nincs bocskoruk.",
-      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja számon."
+      description: "Dél- és Közép-Európában, valamint a Földközi-tenger medencéjében honos, halálosan mérgező galócafaj. Melegkedvelő tölgyesekben és lomberdőkben él ektomikorrhizás partnerekkel, tipikusan tavasszal és kora nyáron jelenik meg.",
+      cap: "A kalap 4–10 cm átmérőjű, kezdetben félgömb alakú, majd domború, végül laposan kiterülő. Színe tiszta hófehér, szárazon selymesen fényes, nedvesen kissé tapadós. Idős korban a közepe kissé sárgás vagy krémszínű lehet. Felülete teljesen sima, burokmaradványok szinte soha nem láthatók rajta.",
+      hymenium: "A lemezek szabadon állók, sűrűk, tiszta fehér színűek, idős korban is fehérek maradnak.",
+      stipe: "A tönk 6–12 cm hosszú és 0,8–1,5 cm vastag, hengeres vagy felfelé enyhén vékonyodó, tövénél kerekded gumóval. Felszíne fehér, sima vagy finoman szálas. Felső részén fehér, vékony, hártyás, lelógó gallér található. A tönk tövét jól fejlett, szabadon álló, zsákszerű fehér bocskor veszi körül.",
+      flesh: "A hús fehér, nem színeződik. Szaga fiatalon kellemes, idős korban émelyítő, édeskés, íze enyhe (kóstolni tilos!). Kálium-hidroxiddal (KOH) a kalapbőr és a hús nem ad sárga színreakciót (ellentétben az Amanita virosával).",
+      sporePrint: "Fehér. A spórák gömbölydedek vagy széles elliptikusak, simák, amiloidok, 8–11 × 7–9 μm méretűek.",
+      habitat: "Tavasztól nyár végéig (május–július, ritkábban ősszel) terem meleg, meszes talajú lomberdőkben, főként tölgyek (Quercus) és szelídgesztenye alatt.",
+      uses: "HALÁLOSAN MÉRGEZŐ! Amatoxinokat és fallotoxinokat tartalmaz. Elfogyasztása heveny májelégtelenséget és halált okoz. A gyilkos galóca tavaszi megfelelőjének tekinthető.",
+      confusion: "Az Agaricus fajok, mint például az Agaricus campestris és az Agaricus arvensis, nem rendelkeznek bocskorral a tönk tövén, és lemezeik rózsaszínűvé, végül csokoládébarnává válnak. A Leucoagaricus leucothites gallérral bír, de nincs bocskora, és húsa nem reagál kálium-hidroxiddal. A Calocybe gambosa tavasszal terem, sűrű krémszínű lemezei vannak, nincs gallérja és nincs bocskora, és erősen friss lisztszagú. Az Amanita virosa később, ősszel terem, kúposabb a kalapja, pelyhes a tönkje, és kálium-hidroxiddal élénksárgára színeződik. Az Amanita phalloides var. alba szintén szabad bocskorral és szoknyaszerű gallérral rendelkezik, de ősszel terem és mikroszkopikus jellegeiben különbözik. Észak-Amerikában hasonló halálos fehér pusztító angyalok az Amanita bisporigera, amelynek kétspórás bazídiumai vannak és sárgul KOH-val, valamint az Amanita ocreata.",
+      notes: "A faj a Phalloideae szekció klasszikus halálos pusztító angyalainak egyike. A szövetekben lévő amatoxinok gátolják az RNS-polimeráz II-t, leállítva a sejt fehérjeszintézisét és masszív májsejt-pusztulást okozva. Az észak-amerikai korábbi feljegyzések gyakran összetévesztették az őshonos fehér galócákat ezzel az európai taxonnal, de a molekuláris filogenetika e faj valódi előfordulását Európára és a Földközi-tenger medencéjére korlátozza."
     }
     },
     sources: {
@@ -52620,16 +52623,16 @@ export const CATALOG = [
       notes: "Il principio tossico letale è stato isolato e identificato nel 2009 da ricercatori giapponesi."
     },
     hu: {
-      description: "Halálosan mérgező ektomikorrhizás galambgomba. Kelet-Ázsiában (Japánban, Kínában, Tajvanon) honos lomblevelű és vegyes erdőkben, tölgyek és chinquapin fák alatt.",
-      cap: "A kalap 6–12 cm átmérőjű, kezdetben domború, majd lapossá, végül mélyen tölcséressé válik. Színe szürkésbarna, kormosbarna vagy piszkosbarna, felülete száraz, fénytelen, idővel szürkésfeketére sötétedik.",
-      hymenium: "A lemezek ritkán állók, vastagok, tönkhöz nőttek vagy kissé lefutók; színük fehéres vagy krémszínű, megsértve vagy megnyomva lassan vörösödnek, de sohasem feketednek el teljesen.",
-      stipe: "A tönk 4–8 cm magas és 1–2,5 cm vastag, hengeres, tömör, a kalappal megegyező szürkésbarna színű, szálas felületű.",
-      flesh: "A hús fehér, kemény, merev; elvágva lassan rózsásvörösre színeződik, de nem feketedik meg. Szaga és íze nem feltűnő.",
-      sporePrint: "Fehér. A spórák gömbölydedek, felületükön finom tüskékkel, méretük 7–9 × 6,5–8 μm, amiloidak.",
-      habitat: "Nyáron és kora ősszel terem Kelet-Ázsia szubtrópusi és mérsékelt övi lomberdőiben, különösen Fagaceae fajok alatt.",
-      uses: "Halálosan mérgező! Rhabdomyolysist (heveny vázizom-lebomlást) okoz a benne lévő rendkívül erős szerves sav, a cikloprop-2-én-karbonsav miatt. A tünetek 30 perctől néhány órán belül jelentkeznek hányással, hasmenéssel, majd heves izomfájdalmakkal, izomgyengeséggel, a légzőizmok bénulásával és akut veseelégtelenséggel, amely gyakran halálos kimenetelű.",
-      confusion: "A feketedő galambgombák (például Russula nigricans) húsa vágásra először szintén vörösödik, de ezt követően teljesen koromfeketére színeződik, és nem okoznak halálos rabdomiolízist.",
-      notes: "Nincs hivatalos magyar neve, a nemzetközi szakirodalomban latin nevén említik."
+      description: "Halálosan mérgező ektomikorrhizás gomba robusztus, törékeny termőtesttel, amely sérülésre vörösre pirul anélkül, hogy megfeketedne. Kelet- és Délkelet-Ázsiában honos, beleértve Japánt, Kínát és Tajvant. Elsősorban meleg-mérsékelt övi lombhullató és vegyes erdőkben fordul elő, a talajon bükkfafélékkel társulva a nyári és őszi hónapokban.",
+      cap: "A kalap 5–12 cm átmérőjű, kezdetben domború begöngyölt széllel, majd széles domborúvá vagy lapossá válik, végül a közepén sekélyen bemélyedő vagy tölcsér alakú lesz. Felülete száraz, fiatalon sima vagy finoman bársonyos, eleinte fehéres vagy halvány szürkés-sárgásbarna, idősödve füstszürkére, barnásfeketére vagy korombarnára sötétedik. Széle sima, egyenletes marad, se nem bordás, se nem barázdált. Sérülésre vagy karcolásra a felület lassan halvány rózsaszínes-vörösre vagy borvörösre változik.",
+      hymenium: "A lemezek tönkhöz nőttek vagy kissé lefutók, mérsékelten ritkák vagy távol állók, meglehetősen vastagok és törékenyek, a teljes lemezek között rövidebb köztes lemezekkel. Krémszínűek vagy halványsárgásfehérek, sérülésre vagy vágásra vöröses-rózsaszínűre pirulnak, és nem feketednek meg.",
+      stipe: "A tönk 4–9 cm magas és 1,5–3 cm vastag, zömök, hengeres vagy a töve felé kissé keskenyedő, fiatalon tömör és kemény, később törékeny, morzsalékos belsővel bélelt lesz. Felülete száraz, sima vagy halványan hosszanti szálas, fehéres vagy halvány szürkésbarna, a fogás helyén vörösesre pirul, és idős korban füstbarnára sötétedik. Nincs gallérja és nincs bocskora.",
+      flesh: "A hús vastag, kemény, törékeny és fehér, levegőre kerülve perceken belül jellegzetesen halvány rózsaszínes-vörösre vagy borvörösre pirul, de soha nem válik feketévé. Szaga gyenge és nem jellegzetes, íze enyhe.",
+      sporePrint: "Fehér. A spórák széles elliptikusak vagy szubglobózusak, 7–9,5 × 6–8 μm méretűek, alacsony szemölcsökből álló amiloid díszítettséggel, amelyeket finom vonalak kötnek össze részleges hálózatot képezve.",
+      habitat: "Magányosan, szórtan vagy kis csoportokban terem a talajon lombos és örökzöld vegyes erdőkben, mikorrhizás kapcsolatot létesítve bükkfafélékkel (Castanopsis, Quercus, Lithocarpus), valamint fenyőkkel. A meleg monszunesők után júniustól októberig terem.",
+      uses: "Halálosan mérgező. Elfogyasztása harminc perctől két óráig terjedő időn belül gyors fellépésű hányingert, hányást és hasmenést okoz, amit súlyos, generalizált rhabdomyolysis követ – a vázizomszövet masszív szétesése. Ez az állapot gyakran heveny vesekárosodást, hiperkalémiát, szívleállást, légzési elégtelenséget és halált idéz elő. Fő mikotoxinja a cikloprop-2-én-karbonsav.",
+      confusion: "Hasonlít a Russula nigricanshoz, amelynek húsa vágásra vörösre színeződik, de azt követően húsz percen belül megfeketedik, és sokkal ritkábban álló, vastag lemezei vannak. A Russula densifolia szintén vörösödik, majd feketedik, de sűrű, vékony lemezekkel rendelkezik. A Russula albonigra közvetlenül feketedik vörös szakasz nélkül. Az észak-amerikai Russula eccentrica vörösre, majd barnásszürkére színeződik, nem tartalmaz ciklopropén toxint, és nem kapcsolódik rhabdomyolysishez.",
+      notes: "E gomba végzetes mikotoxicitását 2009-ben tisztázták a cikloprop-2-én-karbonsav izolálásával, amely egy szokatlanul feszített gyűrűs, kis molekulatömegű vegyület, amely a vázizomrostok toxikus lebomlását indítja el. Egy termőtest töredéke is halálos dózist jelenthet az ember számára, és a dokumentált mérgezésekben a halálozási arány meghaladja az ötven százalékot Japánban és Dél-Kínában."
     }
     },
     sources: {
@@ -53206,16 +53209,16 @@ export const CATALOG = [
       notes: "È considerato uno dei funghi più velenosi al mondo: perfino il contatto prolungato dei succhi con la pelle può provocare severe dermatiti necrotiche."
     },
     hu: {
-      description: "Halálosan mérgező tömlősgomba (Ascomycota), amely korhadó faanyagon és elhalt gyökereken él. Kelet-Ázsiában (Japánban és a Koreai-félszigeten), valamint Délkelet-Ázsiában honos hegyvidéki erdőkben.",
-      cap: "Termőteste nem képez valódi kalapot; hengeres, bunkó vagy szarv alakú, gyakran agancsszerűen elágazó, 5–15 cm magas és 1–2,5 cm vastag sztróma formájában fejlődik. Színe feltűnő, élénk korallvörös, narancsvörös vagy cinóbervörös, csúcsa felé gyakran elkeskenyedő.",
-      hymenium: "A termőréteg a vörös sztróma felületébe süllyedt peritéciumokból áll. A spórák tömlőkben (aszkuszokban) képződnek, hengeresek, bennük nyolc kétsejtű tömlőspóra található, amelyek éréskor félspórákra esnek szét. Bazídiumokkal nem rendelkezik.",
-      stipe: "A termőtest alsó, tönkszerű része közvetlenül a korhadó fához vagy a talajban lévő elhalt gyökerekhez kapcsolódik, színe a felső részhez hasonlóan élénkvörös.",
-      flesh: "A hús szívós, rostos, fehéres vagy halványsárgás, a sztróma külső rétege kemény és piros. Szaga és íze nem jellegzetes.",
-      sporePrint: "Nem nyerhető szokásos módon; a mikroszkopikus tömlőspórák hialinok, simák, méretük 3,5–5 × 3–4 μm.",
-      habitat: "Nyártól őszig terem Kelet-Ázsia lombhullató és vegyes hegyvidéki erdeiben, korhadó fatuskókon vagy a talajban rejtőző elhalt gyökereken.",
-      uses: "Rendkívül mérgező, a gombavilág egyik legveszélyesebb faja! Halálos trichotecén mikotoxinokat (például szatratoxin-H-t) tartalmaz, amelyek gátolják a fehérjeszintézist, és a bőrön keresztül felszívódva is súlyos gyulladást és hámlást okozhatnak. Elfogyasztása heves lázat, hányást, belső vérzést, csontvelő-elégtelenséget, hajhullást, vese- és májelégtelenséget, valamint agyvelőkárosodást idéz elő, amely rendszerint halálos kimenetelű.",
-      confusion: "A gyógyhatású pecsétviaszgomba (Ganoderma lucidum) fiatal, pirosas fejlődési alakjaival vagy a Cordyceps fajokkal téveszthető össze, amelyek hagyományos gyógyászati felhasználása miatt a mérgezések előfordultak.",
-      notes: "Nincs hivatalos magyar neve, a szakirodalomban Podostroma cornu-damae vagy Trichoderma cornu-damae néven szerepel."
+      description: "Halálosan mérgező szaprofita tömlősgomba, amely felálló, élénkvörös vagy narancsvörös, bunkó alakú vagy agancsszerűen elágazó sztrómákat képez. A mérsékelt és szubtrópusi Kelet- és Délkelet-Ázsiában honos, beleértve Japánt, Dél-Koreát és Kínát, Ausztráliából dokumentált elszigetelt előfordulásokkal. Korhadó faanyagon, tuskókon és eltemetett gyökereken jelenik meg lombhullató erdőkben a meleg nyári és őszi hónapokban.",
+      cap: "A termőtest nem hagyományos kalapból áll, hanem felálló, hengeres, ujj alakú, bunkós vagy agancsszerűen elágazó, húsos-szívós sztrómákból, amelyek 4–14 cm magasak és 0,5–2 cm vastagok. Felülete élénk cinóbervörös, narancsvörös vagy lángvörös, a meddő csúcsok felé gyakran halványabb narancssárga vagy sárgás. Felülete finoman rücskös a külső kéregbe ágyazott apró, sötétebb peritéciális nyílásoktól (osztiumoktól).",
+      hymenium: "A termőréteg nem lemezekből vagy pórusokból áll; ehelyett a sztróma felszíne alatti rétegbe ágyazott, gömbölyded vagy lombik alakú peritéciumokban helyezkedik el. A tömlők (asci) hengeresek, nyolcspórásak, körülbelül 85–110 × 4,5–6 μm méretűek. Minden aszkospóra kétsejtű, és éréskor gyorsan két különálló, gömbölyded vagy szubglobózus, finoman szemcsés részspórára válik szét, amelyek 3,5–4,5 × 3–4 μm méretűek.",
+      stipe: "Nincs különálló tönk; az elágazó sztróma alapja fokozatosan szűkül egy rövid, steril bázissá, amely közvetlenül a faaljzatba ágyazódik.",
+      flesh: "A sztróma belső húsa fehéres vagy halványsárgás, szívós, rostos, szárazon parafaszerű vagy törékeny. Nem mutat kifejezett szagot, és ízvizsgálatát tilos elvégezni.",
+      sporePrint: "Fehéres a tömegben kiváló részspóráktól. A spórák színtelenek (hialinok) és aprók.",
+      habitat: "Egyesével vagy kis csoportokban nő a talajon heverő korhadt fatörzseken, eltemetett tölgygyökereken vagy tuskókon, főként meleg, nedves hegyvidéki tölgy- és vegyes erdőkben júniustól októberig.",
+      uses: "Halálosan mérgező. A világ egyik legveszélyesebb gombája, amely többféle rendkívül erős makrociklusos trichotecén mikotoxint tartalmaz, köztük szatrioxin H-t, roridin E-t és verrukarin J-t. A méreganyagok felszívódása súlyos sejtszintű fehérjeszintézis-gátlást okoz, ami napokon belül többszervi elégtelenséghez, a csontvelő pusztulásához, generalizált belső vérzésekhez, hámló bőrkiütésekhez, hajhulláshoz, kisagyi sorvadáshoz és halálhoz vezet. A toxinok a bőrön át is képesek felszívódni kontaktus esetén.",
+      confusion: "Felszínesen hasonlít ehető Cordyceps fajokra vagy a fiatal pecsétviaszgomba (Ganoderma lingzhi) agancsszerű növedékeire, de a Ganoderma lakkozott, fás kérget fejleszt, alján pórusokkal. Hasonlít a veszélytelen ehető korallgombákra is, mint a Clavulinopsis miyabeana és a Clavaria rosea, de mindkettőből hiányoznak a beágyazott peritéciális pórusok, bazidiospóráik külső termőrétegen vannak, és termőtestük törékeny. A beágyazott peritéciumok és a széteső aszkospórák mikroszkópos vizsgálata könnyen megkülönbözteti minden korallszerű bazídiumos gombától.",
+      notes: "Eredetileg Podostroma cornu-damae néven írták le, de a modern molekuláris elemzések a Trichoderma nemzetségbe helyezték át. Japánban 'kaentake' néven ismert, ami tűzgombát jelent. Számos halálesetet regisztráltak Japánban és Dél-Koreában, ahol gyűjtők tévedésből ehető gombáknak vélték."
     }
     },
     sources: {
@@ -53800,16 +53803,16 @@ export const CATALOG = [
       notes: "La maggioranza dei basidi porta solo due spore (basidi bisporici), ciascuna delle quali riceve due nuclei."
     },
     hu: {
-      description: "Halálosan mérgező ektomikorrhizás gomba. Kelet-Ázsiában (főként Kína déli részén, Kuangtung és Fucsien tartományokban) honos, meleg szubtrópusi lomberdőkben.",
-      cap: "A kalap 4–9 cm átmérőjű, kezdetben félgömb alakú, majd domborúvá, végül lapossá válik, a közepe gyakran tompán bemélyedő. Színe tiszta hófehér vagy krémszínű, felülete sima, csupasz, széle bordázatlan.",
-      hymenium: "A lemezek fehérek, szabadon állók, sűrűn helyezkednek el, a kor előrehaladtával sem színeződnek el. A bazídiumok többségében kétspórásak.",
-      stipe: "A tönk 6–12 cm magas és 0,5–1,2 cm vastag, hengeres vagy lefelé vastagodó, fehér színű. Felső részén fehér, vékony, múlékony gallér található. Tövét zsákszerű, szabadon álló fehér bocskor övezi.",
-      flesh: "A hús fehér, elvágva nem változik. Kálium-hidroxid (KOH) hatására sárgára színeződik. Szaga és íze nem jellegzetes.",
-      sporePrint: "Fehér. A spórák gömbölydedek, simák, méretük 8–11 × 7,5–10 μm, amiloidak.",
-      habitat: "Tavasztól nyárig terem szubtrópusi lomberdőkben, legfőképpen bükkfélék (Castanopsis fajok) alatt.",
-      uses: "Halálosan mérgező! Rendkívül nagy mennyiségű amatoxint tartalmaz; Kína déli részén a legtöbb halálos gombamérgezésért ez a faj a felelős. Súlyos heveny máj- és veseelégtelenséget okoz.",
-      confusion: "A többi fehér színű ázsiai galócafajtól (például Amanita fuliginea fehér változatai) kétspórás bazídiumai és gömbölyded spórái különítik el.",
-      notes: "Nincs hivatalos magyar neve, a nemzetközi szakirodalomban latin nevén említik."
+      description: "Egy halálosan mérgező ektomikorrhizás galóca, a pusztító angyalok egyike, amely szubtrópusi és meleg-mérsékelt övi lomberdőkben nő Kína déli részén és Kelet-Ázsiában.",
+      cap: "A kalap 4–9 cm átmérőjű, kezdetben félgömb alakú, majd domború, végül laposan kiterülő. Színe tiszta hófehér vagy krémszínű fehér, a közepe felé néha halvány sárgásbarna árnyalattal. Felülete sima, száraz, idős korban a széle alig vagy egyáltalán nem bordás.",
+      hymenium: "A lemezek szabadon állók, sűrűn helyezkednek el, tiszta fehér vagy krémes fehér színűek. A bazídiumok túlnyomóan kétspórásak.",
+      stipe: "A tönk 7–12 cm hosszú és 0,6–1,2 cm vastag, hengeres, lefelé kissé vastagodó, a tövénél kerekded gumóban végződik. Színe tiszta fehér, felszíne sima vagy finoman hosszanti szálas. Felső részén fehér hártyás gallér található. A tövén jól fejlett, zsákszerű fehér bocskor figyelhető meg.",
+      flesh: "A hús fehér, vékony, nem változtatja a színét. Kálium-hidroxid (KOH) hatására a termőtest sárga színreakciót mutat.",
+      sporePrint: "Fehér. A spórák gömbölydedek, simák, amiloidok, 9–12 μm átmérőjűek.",
+      habitat: "Kora tavasztól nyár elejéig terem szubtrópusi örökzöld és lombhullató tölgyesekben Kína déli tartományaiban.",
+      uses: "HALÁLOSAN MÉRGEZŐ! Nagy koncentrációban tartalmaz amatoxinokat. Dél-Kínában az egyik leggyakoribb oka a végzetes kimenetelű gombamérgezéseknek.",
+      confusion: "Az Amanita bisporigera alacsonyabban elhelyezkedő gallérral, kisebb spórákkal (jellemzően 8–9,5 × 7–8,5 μm) és a bocskorában több felfújt sejttel rendelkezik. Az Amanita oberwinklerana négy spórás, elliptikus spórákkal, a csúcs alatt alacsonyabban elhelyezkedő, törékenyebb gallérral és bocskorral, több felfújt sejttel a bocskorban, és nincs sárga reakciója kálium-hidroxiddal. Az Amanita subjunquillea var. alba négy spórás, lejjebb elhelyezkedő gallérral és kisebb spórákkal. Az Amanita verna négy spórás. Az Amanita virosa négy spórás, és fehér, visszahajló pikkelyek vannak a tönkjén. Az Amanita parviexitialis két spórás, de kalapja mintegy 3 cm széles és a közepén enyhén barna. Az Amanita suballiacea négy spórás, kisebb elliptikus vagy széles elliptikus spórákkal. Az Amanita pallidorosea és az Amanita subpallidorosea gyakran rózsaszín árnyalatot mutat a kalap közepén. Az Amanita rimosa kalapszéle sugarasan behasadozhat. Az Amanita chepangiana és az Amanita alboumbelliformis bordás széllel, üreges tönkkel, nem gumós bázissal és egyenesen levágott rövid lemezekkel rendelkezik. A Volvopluteus gloiocephalus nem rendelkezik gallérral, érett lemezei és spórapora rózsaszínűek, és élő fák helyett avaron nő.",
+      notes: "A fajt 2001-ben írták le Kanton (Guangdong) tartományból származó minták alapján. Kína déli részén a halálos kimenetelű gombamérgezések egyik vezető okozója."
     }
     },
     sources: {
@@ -54404,16 +54407,16 @@ export const CATALOG = [
       notes: "Il primo avvelenamento documentato nel 1997 ha coinvolto 14 persone con 9 decessi accertati."
     },
     hu: {
-      description: "Halálosan mérgező ektomikorrhizás gomba. Kínában és Kelet-Ázsia más részein honos szubtrópusi és meleg mérsékelt övi erdőkben.",
-      cap: "A kalap 4–9 cm átmérőjű, kezdetben domború, majd lapossá válik. Színe sötét kormosszürke, füstszürke, barnásszürke vagy csaknem feketés, a közepe felé sötétebb, sugarasan finoman szálas mintázattal.",
-      hymenium: "A lemezek fehérek vagy krémszínűek, szabadon állók, sűrűn elhelyezkedők.",
-      stipe: "A tönk 6–13 cm magas és 0,8–1,5 cm vastag, fehéres vagy szürkés árnyalatú, finom szürkés szálakkal vagy pelyhekkel díszített. Felső részén fehér vagy szürkés gallér található, tövét jól fejlett fehér bocskor veszi körül.",
-      flesh: "A hús fehér, elvágva nem változik. Szaga és íze nem feltűnő.",
-      sporePrint: "Fehér. A spórák közel gömbölydedek, simák, méretük 7,5–9,5 × 7–9 μm, amiloidak.",
-      habitat: "Nyártól őszig terem lombhullató és fenyőerdőkben, legfőképpen fenyőfélék (Pinus fajok) és bükkfélék társaságában.",
-      uses: "Halálosan mérgező! Magas amatoxintartalma miatt heveny máj- és vesekárosodást idéz elő; Kínában a gyilkos galóca ázsiai megfelelőjeként tartják számon.",
-      confusion: "Külsőre emlékeztet az európai gyilkos galóca (Amanita phalloides) sötét formáira vagy a párducgalócára, de nincsenek a kalapján fehér pettyek és lemezei fehérek maradnak.",
-      notes: "Nincs hivatalos magyar neve, a nemzetközi szakirodalomban latin nevén említik."
+      description: "Egy halálosan mérgező, sötét színű ektomikorrhizás galóca Kína déli és keleti részén, valamint a szomszédos kelet-ázsiai területeken. A Phalloideae szekció tagjaként bükkfafélékkel él szubtrópusi hegyvidéki erdőkben.",
+      cap: "A kalap 3–7 cm átmérőjű, kezdetben félgömb alakú vagy kúpos, majd kiterülővé válik. Színe szürkésbarna, sötétszürke vagy koromszürke, a közepe felé sötétebb, feketés, a széle felé kissé világosabb. Felülete sima, selymes, sugarasan szálas, burokmaradványok ritkán fedik.",
+      hymenium: "A lemezek szabadon állók, fehérek vagy világosszürkék, viszonylag sűrűk.",
+      stipe: "A tönk 6–11 cm hosszú és 0,5–1 cm vastag, hengeres, a tövénél kissé gumós. Színe fehéres vagy világosszürke, felületét gyakran sötétszürke szálas pikkelykék vagy kígyóbőrszerű sávok díszítik. Felső részén fehér vagy szürkés gallér található, tövét hártyás fehér bocskor övezi.",
+      flesh: "A hús vékony, fehér vagy a kalapbőr alatt szürkés. Szaga nem jellegzetes.",
+      sporePrint: "Fehér. A spórák simák, vékony falúak, hialinok, gömbölydedek vagy szubglobózusak, és jódban kékre színeződnek (amiloidok). Többségük körülbelül 8–10,5 × 7,5–9,5 μm méretű.",
+      habitat: "A termőtestek magányosan vagy kis csoportokban jelennek meg a talajon Castanopsis, tölgyek és más bükkfafélék alatt szubtrópusi erdőkben Kína déli és középső részein júniustól szeptemberig.",
+      uses: "HALÁLOSAN MÉRGEZŐ! Magas koncentrációban tartalmaz amatoxinokat. Kínában a gyilkos galóca csoportjának egyik legveszélyesebb képviselője, rendszeresen okoz tömeges halálos mérgezéseket.",
+      confusion: "Az Amanita fuligineoides nagyobb méretű, tönkcsúcsa nem gömbölyded vagy szubglobózus, és bocskorában kevesebb felfújt sejt található. Az Amanita subfuliginea kisebb spórákkal rendelkezik. Az Amanita pseudoporphyria burokmaradványokat viselhet a kalapján, fehér gallérja és vastag fehér bocskora van, tönkje lefelé vastagszik és fehér rostokat hordoz. Az Amanita porphyria fenyvesek alatt él, szemölcsös vagy foltos burokmaradványokat visel a kalapján, és sekély bocskora van. Az Amanita elephas fehér gallérral és kisebb spórákkal rendelkezik. Az Amanita citrina var. grisea sárgás gallérral, sekély vörösesbarna bocskorral és furcsa szaggal bír.",
+      notes: "Az első megerősített mérgezés 1997-ben 14 embert érintett és 9 halálesettel járt. Későbbi dél-kínai összesítések 33 esetet és 42 halálesetet tartanak számon 2000 és 2009 között. A halálozási arány meghaladja a hetven százalékot."
     }
     },
     sources: {
@@ -54998,15 +55001,15 @@ export const CATALOG = [
       notes: "Nella contea di Wengyuan nel Guangdong provocò l'intossicazione letale di raccoglitori locali che lo avevano scambiato per specie commestibili tradizionali."
     },
     hu: {
-      description: "Lomblevelű erdőkben, különösen a bükkfélék uralta erdőségekben élő ektomikorrhizás gomba. Kínában Csianghszi, Hunan, Hubej, Kuangtung, Kujcsou, Jünnan és Hajnan tartományokból, valamint Észak-Thaiföldről ismert. Egy genetikailag szekvenált gyűjtése ismert a japán Hjógo prefektúrából is. Dél-Kínában halálos kimenetelű mérgezéseket okozott.",
-      cap: "A kalap 3–6,2 cm átmérőjű. Kezdetben félgömb alakú, majd domborúvá, végül lapossá válik. Felülete száraz vagy kissé ragadós, nedvesen fénylő. A széle felé fehér vagy sárgásfehér. A közepe halványsárga vagy krémszínű, és kissé barnás is lehet. Széle nem bordázott, és nem visel lelógó burokmaradványokat. Finom sugaras bordák futnak ki a peremig – amelyek olykor csak nagyító alatt láthatók –, és a széle felrepedezhet.",
-      hymenium: "A lemezek szabadon állók, sűrűn helyezkednek el, fehérek vagy fehéresek, mintegy 4–5 mm szélesek. A rövid lemezkék két vagy háromféle hosszúságúak, és a tönk felé elkeskenyednek. A lemezél steril, és mintegy 20–25 × 15–20 μm méretű duzzadt sejteket visel. A bazídiumok bunkó alakúak és négy spórát hordoznak, méretük 38–42 × 15–18 μm, a szterigmák 4–6 μm hosszúak. A bazídiumok tövénél nincsenek csatkapcsolatok.",
-      stipe: "A tönk 5–9 cm hosszú, a szár vastagsága 0,3–1 cm. A 7–9 cm-es hosszúság a gumót is magában foglalja. Majdnem hengeres, felfelé kissé elkeskenyedő és tömör. Színe fehér vagy piszkosfehér, néha apró fehér pikkelykékkel díszített, és sérülésre kissé sárgásfehérre színeződhet. Vékony, hártyás gallér található a csúcsa közelében. Ez szoknyaszerű, enyhén bordázott és fehér. Tövénél gömbölyded vagy kissé gömbölyded, peremes gumó látható, amely mintegy 1,6–2 cm széles. A bocskor fehér szegélye legfeljebb 1 cm-re emelkedik fel a gumó peremétől, és egy hártyás fehér belső perem is jelen van.",
-      flesh: "A hús fehér. A kalapban puha, és a tönk felett mintegy 2–3 mm vastag. A tönkben tömör és fehér vagy fehéres színű.",
-      sporePrint: "Fehér. A spórák simák, színtelenek és vékony falúak, gömbölydedek vagy kissé gömbölydedek, olykor széles elliptikusak, és a belső oldalukon gyakran lelapítottak. Méretük (6,0–)6,3–8,3(–8,6) × (5,6–)5,8–7,4(–8,2) μm, átlagosan körülbelül 7,0 × 6,6 μm, Q-értékük 1,01–1,16(–1,18). Az átlagos Q-érték mintegy 1,06. Jódoldatban megkékülnek (amiloidak).",
-      habitat: "A termőtestek magányosan vagy elszórtan jelennek meg a talajon lomblevelű erdőkben, beleértve a bükkfélék erdeit is, júniustól szeptemberig.",
-      uses: "Halálosan mérgező. Amatoxinokat tartalmaz, és heveny májkárosodást okoz, amely májelégtelenségig súlyosbodhat. Specifikus ellenszere nem ismert.",
-      notes: "A kuangtungi Vengjüan megyében öt ember szenvedett mérgezést, és közülük ketten – egy 15 éves és egy 7 éves gyermek – meghaltak. A helyszínen gyűjtött gombákat e fajként és Amanita fuliginea gombaként azonosították. A kalapbőr 130–190 μm vastag és kétrétegű. Felső rétege enyhén zselatinos és bőségesen tartalmaz felfújt sejteket, ami egyedülálló kombináció az Amanita nemzetség Phalloideae szekciójában."
+      description: "Lomberdők ektomikorrhizás gombája, különösen a bükkfafélék által uralt erdőkben. Kína déli részéről ismert, ahol meleg-mérsékelt és szubtrópusi élőhelyeken fordul elő. Egyike a nemrégiben azonosított halálos fehér galócáknak. Amatoxinokat tartalmaz.",
+      cap: "A kalap 3–6,2 cm átmérőjű. Félgömb alakúan kezdődik, domborúvá, majd lapossá válik. Felülete száraz vagy kissé ragadós, fehér, a közepe felé néha halvány krémszínű vagy halvány sárgás árnyalattal. Burokmaradványok ritkán maradnak rajta. A perem nem bordás, de érett korban gyakran jellegzetesen, sugarasan behasadozik (rimózus). A hús fehér, vékony és törékeny. A kalapbőr és a hús kálium-hidroxiddal (KOH) sárgára színeződik.",
+      hymenium: "A lemezek szabadon állók, sűrűk, fehérek vagy fehéresek, körülbelül 4–5 mm szélesek. A rövid lemezek két vagy három hosszúságban helyezkednek el, és fokozatosan elkeskenyednek a tönk felé. A lemezélek finoman pelyhesek. A bazídiumok bunkó alakúak, túlnyomórészt kétspórásak, körülbelül 28–36 × 8–11 μm méretűek, ritkán egy- vagy háromspórásak. A lemezélen bőségesen találhatók gömbölyded vagy tojásdad marginális sejtek.",
+      stipe: "A tönk 5–9 cm hosszú, a tönk teste pedig 0,3–1 cm vastag. A 7–9 cm-es hosszúság magában foglalja a gumót is. Majdnem hengeres vagy felfelé enyhén keskenyedő, tövén kerekded vagy szubglobózus gumóval, amely 1–2,5 cm széles. Felülete fehér, sima vagy finoman hosszanti szálas. Felső részén fehér hártyás, lelógó gallér található, amely idővel leszakadhat. A tönk tövét fehér, zsákszerű, hártyás bocskor veszi körül, amelynek pereme szabadon áll.",
+      flesh: "A hús fehér, vékony, sérülésre nem változtatja a színét. Szaga nem jellegzetes vagy enyhén kellemetlen. Íze ismeretlen, tesztelése tilos.",
+      sporePrint: "Fehér. A spórák simák, színtelenek és vékony falúak, gömbölydedek vagy szubglobózusak, alkalmanként széles elliptikusak, és jódban megkékülnek (amiloidok). Méretük körülbelül 9–11,5 × 8,5–10,5 μm.",
+      habitat: "A termőtestek a talajon jelennek meg magányosan vagy kis csoportokban a Castanopsis, Cyclobalanopsis és Lithocarpus fafajok által uralt szubtrópusi erdőkben. Júniustól augusztusig gyűjthető Kína déli hegyvidékein.",
+      uses: "Halálosan mérgező. Amatoxinokat tartalmaz és akut májkárosodást okoz, amely májelégtelenségig súlyosbodhat. Nincs specifikus ellenszere, a túlélés az azonnali támogató kezeléstől függ.",
+      notes: "A fajt a dél-kínai Kuangtung (Guangdong) tartományban írták le. Vengjüan (Wengyuan) megyében öt ember mérgeződött meg tőle, és közülük ketten, egy 15 és egy 7 éves gyermek meghalt. A gomba a helyi fehér galóca fajkomplexum része."
     }
     },
     sources: {
@@ -55607,15 +55610,16 @@ export const CATALOG = [
       notes: "Il fungo contiene aminoacidi tossici non proteici insoliti (tra cui acidi aminoidrossiesinoici) che inducono ipoglicemia fulminante e arresto cardiaco acuto."
     },
     hu: {
-      description: "Elhalt faanyagon csoportosan termő, gyakori fakorhasztó gomba. A délnyugat-kínai Jünnan szubtrópusi hegyvidékein terem, és kizárólag a tartomány délnyugati, középső és északnyugati részéről ismert, mintegy 1700 és 3000 méter közötti magasságban.",
-      cap: "A termőtest törékeny, a rövidebb tengelye mentén mintegy 3–7 cm, a hosszabb tengelye mentén 5–10 cm méretű. A kalap legyező vagy szirom alakú, mint a ginkgófalevél, hullámos és részben áttetsző széllel. Frissen fehér, színe a rózsásfehértől a piszkosfehéren át a világosbarnáig terjedhet.",
-      hymenium: "A lemezek keskenyek és lefutók a tönkre.",
-      stipe: "A tönk rövid, gyakran aszimmetrikus vagy oldalt álló. Rostos, világos vagy barnás színű, és nem üreges.",
-      flesh: "A hús törékeny és könnyen törik. Kellemes illata nincsen.",
-      habitat: "A termőtestek júniustól kora szeptemberig jelennek meg. A vizsgált gyűjtések a csapadékos június, július és augusztus hónapokban történtek. Csomókban, gyakran tömegesen fejlődnek ott, ahol a gomba előfordul, elhalt fákon, tuskókon, kidőlt törzseken és egyéb korhadó faanyagon hegyvidéki lombhullató és vegyes erdőkben, beleértve a bükk-, fenyő- és teafélék által uralt erdőket is. A terepen feljegyzett előfordulási helyei mintegy 1800 és 2800 méter közé esnek.",
-      uses: "Azok az emberek, akik a gomba elfogyasztása után meghaltak, korábban általában teljesen egészségesek voltak. A legtöbben mindennapi tevékenységük közben vesztették el eszméletüket és mintegy tíz percen belül meghaltak, vagy kómába estek és egy napon belül elhunytak. Néhányan görcsrohamokat kaptak vagy hánytak, miközben eszméletlenek voltak. Néhányan közvetlenül előtte elájultak vagy szédültek, és egyeseknél enyhe tünetek jelentkeztek időszakosan három-öt napon át, amelyek nem akadályozták mindennapi tevékenységüket. Az utolsó étkezéstől a halálig eltelt medián idő négy nap volt, 16 óra és 15 nap közötti tartományban. Két embernek, aki evett belőle és túlélte, 3,31 és 3,65 mmol/l volt a vércukorszintje. Négy olyan személy vizsgálata, aki fogyasztott belőle, elhalt szívizomsejtek kis foltjait mutatta ki limfocitákkal. Egerekben a friss gomba kivonata súlyos hipoglikémiát és órákon belüli halált okozott. Ez a lefolyás kísérleti jellegű, és nem azonos az emberi folyamattal.",
-      confusion: "A rokon Trogia infundibuliformis (Trogia infundibuliformis) tölcsér alakú kalappal, hullámos széllel, kissé lefutó lemezekkel, higrofán felülettel, üreges tönkkel és kellemes illattal rendelkezik. A Trogia venenata mindezen bélyegekkel nem rendelkezik; kalapja legyező vagy szirom alakú, részben áttetsző hullámos széllel és keskeny lemezekkel, tönkje pedig rostos, világostól barnásig terjedő és nem üreges.",
-      notes: "A termőtestek 2R-amino-4S-hidroxi-5-hexinsavat, 2R-amino-5-hexinsavat és gamma-guanidinovajsavat tartalmaznak. A két hexinsavas aminosav nem fehérjealkotó aminosav, és egerekben hipoglikémiát vált ki. Egyiküket megtalálták egy olyan személy szívvérében, aki hirtelen halt meg egy olyan faluban, ahol a gomba termett. Ezek nem adnak magyarázatot minden hirtelen halálesetre a térségben. Több mint 400 hirtelen, megmagyarázhatatlan halálesetet jegyeztek fel Északnyugat-Jünnanban 1978 óta, túlnyomó többségében olyan embereknél, akik egészségesnek tűntek, és több mint tízből kilenc eset júniusra, júliusra és augusztusra esett. A különleges megfigyelés alatt tartott megyékben 395 ilyen halálesetet számláltak össze 1975-től 2009-ig. Az ismeretlen gombák fogyasztásától óvó figyelmeztetések, valamint egy későbbi, kifejezetten ezt a gombát megnevező felhívás nyomán a halálesetek száma élesen visszaesett: mintegy 73 százalékkal kevesebb haláleset történt 2006 és 2009 között, mint 2002 és 2005 között. A halálesetek nem szűntek meg teljesen. A szárított termőtestek báriumtartalma körülbelül 0,5–22 µg grammonként, és a mintavételi helyeken az átlagok körülbelül 5,4–12,2 µg grammonként voltak, ami összevethető más élelmiszerekkel. Ez nem magyarázza meg a haláleseteket. Az emberek az ehető gombák gyűjtése közben szedték le a gombát."
+      description: "Egy kistermetű, szaprofita, fehér lemezű gomba, amely korhadó faanyagon terem Délnyugat-Kínában. Endemikus faj Jünnan tartomány hegyvidéki területein. Korábban ártalmatlannak vélték, amíg fel nem fedezték, hogy felelős a jünnani hirtelen halál szindrómáért.",
+      cap: "A kalap 1,5–5 cm átmérőjű, kezdetben domború, majd lapossá, benyomottá vagy sekélyen tölcséressé válik, gyakran féloldalas, legyező vagy szirom alakú. Felülete sima, áttetszően fehér, nedvesen kissé zselatinos vagy higrofán. Széle vékony, éles, hullámos vagy lebenyes, és nedves állapotban áttetszően bordázott. A hús nagyon vékony és áttetsző fehér.",
+      hymenium: "A lemezek lefutók vagy mélyen lefutók, keskenyek, viszonylag ritkák, gyakran villásan elágazók és keresztirányú erekkel összekötöttek (anasztomizálók). Színük tiszta fehér vagy enyhén krémszínű.",
+      stipe: "A tönk 1–4 cm hosszú és 2–5 mm vastag, gyakran oldalsó vagy excentrikus, hengeres vagy a töve felé keskenyedő, olykor görbült. Színe fehéres vagy világosbarna, szilárd vagy tömör, felülete sima vagy finoman szálas, tövén fehér micéliummal.",
+      flesh: "A hús fehér, vékony, kissé szívós és rugalmas. Szaga nem jellegzetes, íze enyhe.",
+      sporePrint: "Fehér. A spórák simák, színtelenek, elliptikusak, inamiloidok, körülbelül 5–7 × 3–4 μm méretűek.",
+      habitat: "A termőtestek júniustól kora szeptemberig jelennek meg. A tanulmányozott gyűjtések a júniusi, júliusi és augusztusi esős hónapokban készültek. Korhadt lombhullató fatörzseken, tuskókon és faágakon teremnek szubtrópusi örökzöld széleslevelű erdőkben, 1800 és 2600 méter közötti tengerszint feletti magasságban Jünnan hegyvidékein.",
+      uses: "Azok az emberek, akik a fogyasztása után meghaltak, korábban általában egészségesek voltak. A legtöbben a mindennapi tevékenység közben veszítették el az eszméletüket, és órákon belül meghaltak. A túlélőknél szédülés, szívdobogásérzés, hányinger, hányás és fáradtság lépett fel. A szívritmuszavarok gyakoriak voltak, és a vérképelemzések magas kreatin-kináz szintet és hipoglikémiát mutattak. A klinikai lefolyás a zsírsav-oxidáció hirtelen összeomlását tükrözi. A gomba elfogyasztása életveszélyes, szigorúan tilos.",
+      confusion: "A Trogia infundibuliformis tölcsér alakú kalappal, hullámos peremmel, lefutó lemezekkel, higrofán felülettel, üreges tönkkel és kellemes szaggal bír. Ebből a fajból hiányoznak ezek a jellegek. Kalapja legyező vagy szirom alakú, részben áttetsző hullámos peremmel és keskeny lemezekkel, tönkje pedig rostos, fehéres vagy barnás, és nem üreges.",
+      notes: "A termőtestek 2R-amino-4S-hidroxi-5-hexinsavat, 2R-amino-5-hexinsavat és γ-guanidinovajat tartalmaznak. Ezek a mérgező, nem fehérjealkotó aminosavak gátolják a zsírsavak béta-oxidációját, ami szívizomelhaláshoz és halálos ritmuszavarokhoz vezet. A gomba felelős a 'jünnani hirtelen felnőttkori halál szindróma' több mint harminc éven át tartó, mintegy 400 emberéletet követelő rejtélyes tragédiájáért. A kínai CDC tudósai 2010-re bizonyították a gomba és a halálesetek közötti közvetlen kapcsolatot, ami után a lakossági felvilágosítás sikeresen véget vetett a haláleseteknek."
     }
     },
     sources: {
@@ -56095,7 +56099,8 @@ export const CATALOG = [
       nl: ['Rodekoolzwam'],
       bg: ['аметистова хамелеонова гъба', 'лилавка'],
       ru: ["лаковица лиловая"],
-      fr: ["clitocybe améthyste"]
+      fr: ["clitocybe améthyste"],
+      hu: ["lila laccaria"]
     },
     text: {
       tr: {
@@ -56398,16 +56403,16 @@ export const CATALOG = [
       notes: "I carpofori concentrano elevate quantità di arsenico (fino a oltre 100 mg per kg di peso secco)."
     },
     hu: {
-      description: "Kis termetű ektomikorrhizás gomba, amely mérsékelt övi erdőkben, lombhulladékon és mohában nő, gyakran csoportosan. Európa-szerte elterjedt, Ázsia nagy részén, Közép- és Dél-Amerikában, valamint Észak-Amerika keleti felén is él. Jelentések szerint Afrikában, Ausztráliában és Új-Zélandon is előfordul.",
-      cap: "A kalap rendszerint 2–6 cm átmérőjű, és elérheti a 7 cm-t is. A Sziklás-hegységtől keletre gyakran mindössze 0,5–3,5 cm-es. Kezdetben domború, begöngyölt széllel, később lapos vagy hullámos, jellemzően bemélyedő középpel, széle olykor karéjos. Felülete fiatalon sima, később fénytelen, a közepén korpás vagy finoman pikkelyes. Erősen higrofán. Nedves állapotban mély ametisztlila, ibolyáslila vagy szürkéslila. Száradáskor a közepétől kiindulva barnáslilára, halványszürkére, sárgásbarnára, krémszínűre vagy csaknem fehérre fakul, széle enyhén bordázottá válhat. Kálium-hidroxid hatására a kalap felszíne barnásra színeződik.",
-      hymenium: "A lemezek vastagok, 3–8 mm szélesek és ritkán állók, közöttük rövidebb köztes lemezkékkel. Szélesen a tönkhöz nőttek, néha kissé lefutók, vagy apró foggal csatlakoznak. Színük a kalaphoz hasonlóan mélylila; a lemezek felülete a spóráktól fehéresen porozottá válik. Az idősebb lemezek hullámosak lehetnek. A bazídiumok bunkó alakúak és színtelenek, méretük 30–64,5 × 8,5–14 μm, többnyire négy spórát hordoznak.",
-      stipe: "A tönk 0,6–12 cm magas és 0,1–1 cm vastag, hengeres, gyakran hajlott vagy csavarodott, a tövénél kissé vastagabb lehet. Szálas és szívós szerkezetű, fiatalon tömör, később üregessé válik. Színe a kalappal megegyező lila, és vele együtt fakul. Tövét lilás vagy fehéres micéliumszövedék borítja, amellyel az avart összetapasztja. Gallérja nincs.",
-      flesh: "A hús vékony, vizenyős, nedvesen halványlila, száradva rózsásbarna vagy szürkésfehér. Szaga gyenge, nem jellegzetes, íze enyhe, kissé édeskés.",
-      sporePrint: "Fehér vagy fehéres. A spórák gömbölydedek, színtelenek, felületükön 1,4–3 μm hosszú tüskékkel; tüskék nélkül méretük 7–11 μm. Inamiloidak.",
-      habitat: "A termőtestek májustól decemberig fejlődnek, a főszezon júniustól novemberig tart. Lomblevelű és tűlevelű erdők avarjában és mohájában élnek, különösen bükk és tölgy alatt, nyirkos talajon.",
-      uses: "Ehető gomba, de nem tartozik a legértékesebb fajok közé. Csak a kalapját érdemes felhasználni, mert tönkje túl szívós és szálas. Élénk színe miatt ételek díszítésére, levesekbe használják.",
-      confusion: "A húsbarna pénzecskegomba (Laccaria laccata) hasonló alakú és termetű, de kalapja és lemezei húsbarnák vagy narancsbarnák, és nem lilák. A fakó példányokat nehéz elkülöníteni, kivéve ha a lemezeken megmaradt némi lila árnyalat. A kétszínű pénzecskegomba (Laccaria bicolor) fiatalon lilás lemezű, de kalapja barna.",
-      notes: "Képes felhalmozni a talajból származó arzént és radioaktív céziumot, ezért erősen szennyezett talajon való szedése kerülendő."
+      description: "Kistermetű, ektomikorrhizás gomba lomb- és fenyőavarban, valamint mohában a mérsékelt égövi erdőkben, gyakran csoportosan. Európában széles körben elterjedt, és növekszik Ázsia nagy részén, Közép- és Dél-Amerikában, valamint Észak-Amerika keleti részén. Jelentések szerint jelen van Afrikában, Ausztráliában és Új-Zélandon is.",
+      cap: "A kalap általában 2–6 cm átmérőjű, és elérheti a 7 cm-t. A Sziklás-hegységtől keletre gyakran csak 0,5–3,5 cm-es. Kezdetben domború, begöngyölt széllel, később lapos vagy hullámos, jellemzően központi bemélyedéssel, és a pereme karéjos lehet. Felülete eleinte sima, később matt, korpás vagy a közepén finoman pikkelyes. Higrofán. Nedvesen mély ametisztlila, ibolyaszínű vagy liláslila, néha szürkéslila. Ahogy szárad, a közepétől kiindulva fakul lilásbarnán át világosszürkére, sárgásbarnára, halványokkerre, krémszínűre vagy majdnem fehérre, és a pereme gyengén bordás lehet. A kalapbőr 6–20 μm széles hifákból álló kutisz, felálló sejtekkel vagy azok kötegeivel. A kálium-hidroxid barnásra színezi a kalap felületét.",
+      hymenium: "A lemezek vastagok, 3–8 mm szélesek és ritkán állók, közöttük rövidebb köztes lemezekkel. Szélesen tönkhöz nőttek, néha rövid szakaszon lefutnak a tönkre, vagy enyhe kiöblösödéssel érintik azt. A kalaphoz hasonlóan ibolyaszínűek. Számos leírás szerint megtartják ezt a színt a kalap kifakulása után is, bár a lemezoldalak fehérré válnak a spóráktól, és egy leírás szerint maguk a lemezek is kivilágosodnak, mielőtt a kalap sárgásbarnára fakulna. Az idősebb lemezek hullámosak lehetnek. A bazídiumok bunkó alakúak és színtelenek, 30–64,5 × 8,5–14 μm méretűek, általában négy spórásak és ritkán két spórásak, legfeljebb 10 μm hosszú szterigmákkal. A heilocisztidák bőségesek, vékony falúak és színtelenek, fonalastól a bunkó alakúig vagy duzzadtig terjednek, 25–65 × 4–12 μm méretűek, és alkalmanként elérhetik a 92 μm hosszúságot is.",
+      stipe: "A tönk 0,6–12 cm magas és 0,1–1 cm vastag. Hengeres, gyakran hajlott vagy csavarodott, és néha kissé vastagabb a tövénél. Rostos és szívós, fiatalon tömör, később velős vagy üreges. Felülete szálas, fehéres szálakkal, a teteje közelében pedig lisztes. A kalaphoz hasonlóan ibolyaszínű és azzal együtt fakul. Lilás vagy fehéres micélium köti össze az avart a tövénél. Gallérja nincs.",
+      flesh: "A hús vékony és vizes, nedvesen halványlila, később rózsaszínes-barna vagy barnás. Szaga gyenge és nem jellegzetes, néha enyhén gombaszerű. Íze enyhe és néha kissé édeskés.",
+      sporePrint: "Fehér vagy fehéres. A spórák gömbölydedek, ritkán enyhén elliptikusak és színtelenek, körülbelül 1–1,07 hossz-szélesség aránnyal. A díszítettség nélkül körülbelül 7–11 μm átmérőjűek. Inamiloidok. A tüskék körülbelül 1,4–3 μm hosszúak és több mint 1 μm szélesek a tövüknél. Egy brit mérés 1,5 μm-nél áll meg.",
+      habitat: "Termőtestei májustól decemberbe nyúlóan jelennek meg. Nagy-Britanniában, Írországban és Szlovákiában a főszezon júniustól novemberig tart. A cseh területeken júniustól novemberig jegyzik fel, beleértve egy májusi leletet is, a Sziklás-hegységtől keletre pedig késő tavasszal és nyáron teremnek. Lombhullató és tűlevelű erdők avarában és mohájában nőnek, különösen bükkel és tölggyel, valamint más lombos és tűlevelű fákkal parkokban és kertekben. Egyesével, szórtan vagy csoportokban jelennek meg, nedves talajon a levelek között, néha korhadó gallyakon.",
+      uses: "Ehető, és nem tekintik csemegének. Csak a kalapokat érdemes megfőzni, mert a tönkök rostosak és szívósak. A kalapok levesekbe és mártásokba kerülnek, ahol a szín a lényeg része, a lemezeket pedig először megtisztítják. Nagy mennyiség szükséges egy étkezéshez.",
+      confusion: "A Laccaria laccata ugyanolyan alakú és szívós rostos tönkű, de a kalapja és a lemezei narancsbarnák, vörösesbarnák vagy rózsaszínes-okkerek. A fakó sárgásbarnára kifakult idős termőtesteket nehéz elkülöníteni tőle, hacsak nem marad némi lila szín a lemezekben. A Laccaria bicolor lemezei fiatalon lilák, így egy kifakult termőtest hasonlíthat rá. A kifejlett Laccaria bicolor robusztusabb és nem mindenhol ibolyaszínű. A Laccaria amethysteo-occidentalis a Sziklás-hegységtől nyugatra nő fenyőkkel. Átlagosan nagyobb, a lila szín borvörös felé fakul barna helyett, és spórái szubglobózustól széles elliptikusig terjednek, körülbelül 1,06–1,24 hossz-szélesség aránnyal és rövidebb tüskékkel. A mexikói-öbölbeli Laccaria vinaceobrunnea csak nagyon fiatalon mélypúpú lila, hamar violásbarnára, majd tompa narancsbarnára vagy sárgásbarnára fakul. Spórái köztes alakúak, kalapbőre paliszádoderm. Quercus virginianával él. A Laccaria gomezii a közép- és észak-dél-amerikai köderdőkben él tölggyel, sötétebb lila és sűrű lemezekkel bír. A Mycena pura ibolyás színű, de lemezei sápadtak, tönkje nem rostos, és retekszagú. Az Inocybe geophylla lila formája hegyes púppal, kellemetlen szaggal és barnuló sűrű lemezekkel bír, barna spóraporral. A Cortinarius violaceus nemezes kalapú, és pókhálószerű véluma rozsdabarna spóraport fog fel; más lila Cortinarius fajok is osztoznak ezen a cortinán és spóraszínben. A Lepista nuda húsosabb és nagyobb méretű, és termőtestei eltérő alakúak.",
+      notes: "A termőtestek felhalmozzák a talajból származó arzént. Szennyezett talajon vagy bányameddőkön a kalapok akár 100–250 mg/kg arzént is felvehetnek szárazanyagra vetítve. A gomba radioaktív céziumot is felhalmoz, és a csernobili katasztrófa utáni európai minták magas Cézium-137 szintet mutattak. A pigmentet, az ametisztint kromatográfiával választották el, és kiderült, hogy a szárítás vagy a tárolás során lebomlik."
     }
     },
     sources: {
@@ -57227,16 +57232,16 @@ export const CATALOG = [
       notes: "Il taxon costituisce un complesso di diverse forme affini strettamente imparentate."
     },
     hu: {
-      description: "Kis vagy közepes termetű gyepes szaprotróf gomba. Széles körben elterjedt az északi féltekén (Európa, Észak-Amerika, Ázsia), valamint Ausztráliában és Új-Zélandon is.",
-      cap: "A kalap 2–7 cm átmérőjű, feltűnően hegyes kúpos, később harang alakú, de a közepén mindig megőrzi az éles csúcsot; széle gyakran behasadozik. Színe változatos: sárga, narancssárga, skarlátvörös vagy vörösesbarna. Érintésre, sérülésre vagy idős korban jellegzetesen és teljesen megfeketedik. Felülete nedvesen tapadós vagy kissé nyálkás, szárazon szálas-fénylő.",
-      hymenium: "A lemezek szabadon állók vagy tönkhöz nőttek, hasasak, sűrűn vagy közepesen sűrűn állók. Színük kezdetben fehéres, majd sárga vagy narancssárga, idős korban vagy érintésre fokozatosan koromfeketére színeződnek.",
-      stipe: "A tönk 4–10 cm hosszú és 0,3–1 cm vastag, hengeres, karcsú, a kalaphoz hasonlóan sárga vagy narancssárga, hosszantian szálas és csavart lefutású. Érintésre vagy sérülésre ez is feketedik. Gallérja nincs.",
-      flesh: "A hús vékony, törékeny, sárgás vagy narancsszínű, levegőn lassan vagy gyorsan megfeketedik. Szaga és íze nem jellegzetes.",
-      sporePrint: "Fehér. A spórák simák, elliptikusak, méretük 8–12 × 5–7 μm, inamiloidak.",
-      habitat: "Nyártól késő őszig terem természetközeli gyepeken, hegyi legelőkön, kaszálókon, homoki réteken, parkokban és világos erdőszéleken, tápanyagszegény talajon.",
-      uses: "Nem ehető (enyhén mérgező). Gyomor- és bélpanaszokat okozhat, ráadásul vékony húsa és megfeketedő jellege miatt étkezésre teljesen alkalmatlan.",
-      confusion: "A többi piros és sárga nedűgombafaj (például Hygrocybe coccinea, Hygrocybe punicea) nem feketedik meg érintésre és száradáskor sem.",
-      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja számon."
+      description: "Réti gomba legelőkön, gyepeken, útpadkákon és dűnéken, nyílt erdőkben és ösvények mentén is megtalálható. Magányosan vagy csoportosan nő. A Földközi-tengertől Izlandig és Észak-Amerikán át fordul elő, feljegyezték Észak-Ázsiából, Észak-Afrikából, Dél-Amerikából, Ausztráliából, Új-Guineából és Új-Zélandról is.",
+      cap: "A kalap 0,5–12 cm átmérőjű, általában körülbelül 2–10 cm. Észak-Amerika keleti részén a termőtestek gyakran kisebbek, mintegy 1–6 cm-es kalappal. Eleinte hegyesen kúpos, néha tompán az, majd kiterül, de megtartja hegyes púpját. A perem karéjossá válhat vagy felhajolhat, így egy öreg kalap enyhén harang alakú, és a kis kalapok gyakran áttetszően bordásak. Felülete nedves időben nyálkás vagy zsíros, utána pedig száraz és selymes. A tipikus formát úgy is leírják, mint nem ragadóst. Színe skarlátvörös, narancssárga vagy sárga, a peremén néha halványabb, és egyes termőtestek bronz-, olívbarna vagy zöldes színűek, vagy sárgák és azután zöldek bármiféle vörös szín nélkül. A közepétől vagy a hegyétől kiindulva foltokban feketedik meg, és egy öreg kalap teljesen fekete lehet, miközben még mindig fényes. A kálium-hidroxid a kalapon negatív reakciót ad. A kalapbőr ixokutisz.",
+      hymenium: "A lemezek szabadon állók vagy keskenyen tönkhöz nőttek. Vastagok és viaszosak, valamint vékonynak is leírják őket. Ritkán állótól a sűrűig terjednek, szélesek és sápadtak, a fehérestől vagy citromsárgától a narancssárgáig terjednek, és csak ritkán vörösesek. Idővel és nyomásra megfeketednek, néha a peremüktől kiindulva. Rövid köztes lemezek gyakoriak. A bazídiumok 40–60 μm hosszúak, és kettő, három vagy négy spórát hordoznak. A négy spórás bazídiumok csatlakozásokkal (clamp connections) rendelkeznek, a két spórásakból pedig hiányoznak a kapcsok. Cisztidák hiányoznak. A lemeztráma szabályos, 1000 μm-es vagy hosszabb orsó alakú sejtekkel, amelyek kiállhatnak a lemez éléből.",
+      stipe: "A tönk az európai termőtestekben 1,5–12 cm hosszú, Észak-Amerikában pedig 20 cm-es hosszúságot is feljegyeztek. Vastagsága 0,2–2 cm. Hengeres, gyakran barázdált vagy csavarodott, és nincs gallérja. Sárga, narancssárga vagy citromsárga, a kalap közelében néha skarlátvörös, a tövénél fehéres, és az alsó része vörössel vagy zölddel csíkozott lehet. Frissen nedves vagy nyálkás, hamar száraz és szálas lesz, és egyes termőtestek nem ragadósak. A brit termőtesteket velősnek írják le üreges helyett. Más leírásokban idős korban üreges. Idővel és fogásra megfeketedik, a tetejétől lefelé vagy a tövétől kezdve. Törékeny és könnyen behasadozik.",
+      flesh: "A hús vékony és nagyon törékeny, sárga, narancssárga vagy a kalap színével megegyező, és egyes termőtestek tönkjében fehér. Vágásra megfeketedik, gyorsan vagy lassan. Szaga nem jellegzetes. Íze nem jellegzetes, vagy enyhe és édeskés egyes leírásokban, másokban pedig keserű.",
+      sporePrint: "Fehér. A spórák elliptikusak, oválisak vagy bab alakúak, néha befűződöttek, simák és inamiloidok, körülbelül 8,5–12 × 5–8 μm méretűek, és kevesebb mint kétszer olyan hosszúak, mint szélesek. A négy spórás termőtestekből származó spórák körülbelül 8,5–10 × 6–7 μm-esek, a két spórásakból származók pedig körülbelül 9–11,5 × 5.5–7,5 μm méretűek.",
+      habitat: "Nagy-Britanniában és Írországban a termőtestek júliustól novemberig jelennek meg, Csehországban pedig júniustól novemberig, enyhe tél után tavasszal is felbukkanva. Észak-Amerika keleti részén kora nyártól őszig jelennek meg, melegebb éghajlaton pedig a télbe nyúlóan, beleértve a késő ősztől a tél közepéig tartó időszakot Kalifornia partvidékén. Magányosan, szórtan vagy seregesen nőnek, néha vonalakban, alacsony, műtrágyázatlan fűben: réteken, legelőkön, gyepeken, templomkertekben, útpadkákon és dűnéken, valamint nyílt erdőkben, nyiladékokon, ösvények mentén és lápok peremén. A napos helyeket kedvelik, és zárt erdőkben kevésbé gyakoriak. Több bolygatást és műtrágyát viselnek el, mint a legtöbb nedűgomba, és az elsők között jelennek meg a felhagyott szántókon. Ahol a gyepet megművelték, ott lokálissá válnak, és ahol a fű alacsony és műtrágyázatlan marad, ott gyakran bőségesek.",
+      uses: "Mérgezőnek tekintik, egyes leírásokban csak gyengén annak. Fogyasztását erős gyomor- és bélrendszeri panaszok követték, és egy neki tulajdonított mérgezést Kínából is jelentettek. Néhány határozókönyv ehetőnek nevezte. Más leírások az ehetőséget ismeretlennek hagyják, vagy a jelentett hatást valami kisebb tünetre, például szédülékenységre korlátozzák. A termőtestek csekély húsúak, nedves időben nyálkásak, és megfeketednek fogásra.",
+      confusion: "A Hygrocybe conicoides meszes dűnéken nő, sárga, lazac- vagy vöröses lemezei vannak, és sokkal lassabban, ritkán teljesen feketedik meg. Spórái hosszabbak és keskenyebbek, körülbelül 10–12,5 × 5–6 μm-esek. A Hygrocybe acutoconica nem feketedik meg. A Hygrocybe punicea hasonló termetű és nem feketedik meg. A Hygrocybe coccinea és a Hygrocybe miniata nem feketednek meg. A Hygrocybe nigrescens tompább, kevésbé kúpos kalappal és robusztusabb termőtesttel különül el, és tölgyerdőkből jelentik. A Hygrocybe singeri szintén megfeketedik és nyálkás tönkje van. A nyugati partvidékről és a felső Nagy-tavak vidékéről ismert. A Hygrocybe psittacina tarkább és gyakran zöldre változik.",
+      notes: "A név szorosan összefüggő formák komplexumát fedi le, amelyek közül legalább tizenegy létezik, és a szerzők nem ugyanazokat a határokat húzzák meg. Egyesek a vörös formát Hygrocybe conica var. conica-nak, a sárga formát pedig Hygrocybe conica var. chloroides-nek tekintik. A Hygrocybe conica sensu stricto-t úgy választották szét, mint amely savanyú talajon nő, fekete szálakkal a tönkön, és északi vagy hegyvidéki faj. Más szárazföldi formákat meszes talajról és dűnékről más neveken írtak le. A gomba a muszkarin szempontjából negatívnak bizonyult. Muszkarinnyomokat jelentettek belőle, de a későbbi elemzések nem erősítették meg a jelenlétét. Egy 2019-es értékelés a fajkomplexumot Nem fenyegetettként (Least Concern) sorolja be."
     }
     },
     sources: {
@@ -57730,7 +57735,7 @@ export const CATALOG = [
       uk: ["негниючник лучний","маразміус лучний"],
       fr: ["faux mousseron","bouton de guêtre"],
       it: ["marasmiotto"],
-      hu: ["csirkegomba","illatos szegfűgomba","közönséges szegfűgomba"]
+      hu: ["szegfűgomba"]
     },
     text: {
       tr: {
@@ -58034,16 +58039,16 @@ export const CATALOG = [
       notes: "I corpi fruttiferi essiccati all'aria possiedono la straordinaria capacità di rivivere (revinescenza): reidratati con l'acqua riprendono la forma turgida e possono riprendere a sporulare."
     },
     hu: {
-      description: "Kis termetű, fűevő szaprotróf gombafaj, amely füves területeken boszorkánykörökben terem. Európában és Észak-Amerikában rendkívül gyakori és elterjedt. Kiszáradás után víz hatására képes újraéledni (anhidrobiózis).",
-      cap: "A kalap 2–6 cm átmérőjű, kezdetben félgömb alakú, majd kiterül, de a közepén mindig megőriz egy kifejezett tompa púpot. Színe világos tejeskávébarna, fahéjbarna vagy sárgásbarna, szárazon világos krémszínűre, bőrsárgára fakul (higrofán). Felülete sima, csupasz, széle finoman bordázott lehet.",
-      hymenium: "A lemezek szabadon állók vagy tönkhöz nőttek, feltűnően ritkán állók, vastagok, közöttük sok köztes lemezke található. Színük a kalaphoz hasonló krémszínű vagy halványbarna.",
-      stipe: "A tönk 4–8 cm magas és 0,3–0,6 cm vastag, hengeres, karcsú, rendkívül szívós és rugalmas, ujjal megcsavarva sem törik el. Színe világos krémszínű vagy világosbarna, felülete finoman nemezes. Gallérja nincs.",
-      flesh: "A hús vékony, fehéres vagy sárgásfehér. Jellegzetes, kellemes, édeskés, szegfűszegre vagy cianidra (keserűmandulára) emlékeztető illata és kitűnő aromás íze van.",
-      sporePrint: "Fehér. A spórák elliptikusak vagy csepp alakúak, simák, méretük 7–10 × 4–6 μm, inamiloidak.",
-      habitat: "Tavasztól késő őszig (áprilistól novemberig, legbőségesebben meleg esők után) terem legelőkön, réteken, füves tisztásokon, pázsitokon és dűlőutak mentén, gyakran hatalmas boszorkánykörökben.",
-      uses: "Kiváló csemegegomba! Az egyik legízletesebb levesgomba, de pörköltnek, mártásnak és rántottának is kitűnő. Csak a kalapját gyűjtik, mivel a tönk túl szívós és rágós. Kitűnően és könnyen szárítható.",
-      confusion: "A halálosan mérgező húsbarnás őzlábgomba (Lepiota brunneoincarnata) pikkelyes kalapú, lemezei sűrűn állnak és gallérzónája van. A kerti susulyka (Inocybe fajok) és a mezei tölcsérgomba (Clitocybe dealbata) sűrű fehér lemezekkel bírnak, lefutók, és mérgezőek. A rozsdásszárú fülőke (Gymnopus dryophilus) lemezei sűrűn állók és erdőben terem.",
-      notes: "Magyarországon 2014-ben az év gombája volt."
+      description: "Füves területek, rétek, legelők, parkok, kertek és pázsitok szaprofita gombája, amely gyakran csoportokban, ívekben vagy boszorkánykörökben áll az eső után. Az északi félteke mérsékelt égövében él, beleértve Nagy-Britanniát, Írországot, a szárazföldi Európát és Észak-Amerika nagy részét, és gyakori marad ott a gyepeken, ahol emberek járnak.",
+      cap: "A kalap körülbelül 1–5 cm átmérőjű, és a közzétett mérések elérik a 6 vagy 7 cm-t. Eleinte tompán kúpos vagy félgömb alakú, majd domború, végül lapos, és megtartja széles púpját. A perem vékony, és néha halványan vonalkázott vagy barázdált, különösen nedves állapotban vagy idős korban. Felülete sima és csupasz, és erősen higrofán: narancssárgás okker, cserbarna, vöröses okker vagy halvány barnássárga és nedvesen fénylő, száradva sárgásbarnára, halványokkerre vagy krémszínűre fakul, alkalmanként fehérre, vagy ritkán rózsaszínesre. A kalapbőr bunkó, körte vagy henger alakú sejtekből álló himeniform réteg, seprűsejtek nélkül.",
+      hymenium: "A lemezek vastagok és ritkán állók, akár 6 mm szélesek, köztük rövidebb lemezekkel. A terepi leírások úgy írják le őket, mint amelyek a tönkhöz kanyarodók, bemetszettek vagy szabadon állók. Egy összeállított leírás tönkhöz nőttnek nevezi őket. Szárazon fehértől a krémszínűig terjednek, nedvesen pedig okkersárgák. A bazídiumok 39–52 × 6–8 μm-esek, négy szterigmával és bazális csattal. Cisztidák hiányoznak.",
+      stipe: "A tönk 2–10 cm hosszú és 1,5–6 mm vastag, hengeres, a tövénél néha kissé megduzzadt. Tömör, szívós és hajlékony, és törés nélkül megcsavarható. Fehéres, sárgásbarna vagy halványokker, általában világosabb, mint a kalap, és a töve felé sötétedik. Felülete fiatalon finoman fehéren nemezes, később csupasz, tövét pedig fehér micélium fedi.",
+      flesh: "A hús fehéres, kevés és porcos állagú, a tönkben pedig szívós. Szaga kellemes és gombaszerű, és néha enyhén keserűmandulára emlékeztet. Egyes leírások a szagot és az ízt nem jellegzetesnek nevezik. Íze enyhe és kissé diószerű.",
+      sporePrint: "Fehér, vagy néha halvány krémszínű. A spórák simák, hialinok és elliptikustól a mag alakúig vagy fuzoidig terjednek, csíranyílás nélkül. Inamiloidok és körülbelül 6–11 × 4–6 μm méretűek.",
+      habitat: "A mérsékelt égövi Európában a termőtestek márciustól a télbe nyúlóan jelennek meg, Nagy-Britanniában és Írországban pedig júniustól novemberig. Melegebb éghajlaton egész évben teremnek. Csoportokban, ívekben vagy körökben nőnek, általában eső után, pázsitokon, réteken, legelőkön, parkokban, gyümölcsösökben, kertekben és füves útpadkákon, néha part menti dűnefüvek között, néha pedig erdőszéleken.",
+      uses: "Kiváló ehető gomba (Magyarországon 2014-ben az Év Gombája). A kalapok képezik a felhasznált részt, különösen levesekben és ragukban, és tároláshoz szárítják őket. A tönkök szívósak, és azokat eldobják. A kalapok édes ízűek.",
+      confusion: "A Clitocybe rivulosa ugyanabban a fűben nő, és képes köröket alkotni. Lemezei sűrűk és lefutók, kalapja fehér, szürke vagy okkerbarna, domború púp nélkül, tönkje pedig merevebb és kevésbé hajlékony. Az Agrocybe praecox sárgásbarna lemezekkel bír, amelyek besötétednek, és barna spóraport ad. Az Agrocybe pediades nélkülözi a púpot, tönkje könnyen törik, és a spórapor barnára színezi a lemezeket. A Marasmius collinus sima, törékeny tönkkel rendelkezik, amely megcsavarva eltörik, sűrűbb lemezei vannak, és kellemetlen a szaga. A Marasmius torquescens lombhullató erdők lombrétegében él, és sötét rozsdabarnától a feketéig terjedő alsó tönkkel bír. A Marasmius wynneae halvány fehéres kalapú, sötét tönktövű és kisebb spórákkal rendelkezik. A Gymnopus dryophilus sokkal sűrűbb lemezekkel bír.",
+      notes: "A kiszáradt termőtestek vízben újraélednek. Visszanyerik alakjukat, és új sejteket, valamint új spórákat képezhetnek. A termőtestek trehalóz cukrot tartalmaznak, amely lehetővé teszi a sejtek túlélését a kiszáradás során. Ahol a micélium körben növekszik, az élő perem mentén a fű sötétebb zöld, a körön belül pedig a fű megbarnul ott, ahol a micélium elpusztult."
     }
     },
     sources: {
@@ -58512,12 +58517,13 @@ export const CATALOG = [
       pl: "maczużnik bojowy",
       fr: "cordyceps militaire",
       it: "cordyceps militare",
-      hu: "vörös rovarrontógomba"
+      hu: "katonás rovarrontógomba"
     },
     names: {
       en: ["scarlet caterpillar fungus", "scarlet caterpillar club"],
       es: ['hongo de la procesionaria'],
-      sv: ['larvklubba']
+      sv: ['larvklubba'],
+      hu: ["vörös rovarrontógomba"]
     },
     text: {
       tr: {
@@ -58820,16 +58826,16 @@ export const CATALOG = [
       notes: "Produce cordicepina (3'-deossiadenosina), un analogo nucleosidico dell'adenosina con documentate proprietà farmacologiche."
     },
     hu: {
-      description: "Rovarparazita tömlősgomba (Ascomycota). Lepkék talajban rejtőző bábjain és hernyóin élősködik. Elterjedt az északi féltekén (Európa, Észak-Amerika, Kelet-Ázsia), lombos és vegyes erdőkben.",
-      cap: "Termőteste nem képez kalapot; 2–6 cm magas és 0,3–0,8 cm vastag, narancssárga vagy élénk narancsvörös, bunkó vagy henger alakú sztrómából áll. Felső, megvastagodott termő része apró szemölcsökkel sűrűn pontozott, amelyek a termőtestbe süllyedt peritéciumok nyílásai.",
-      hymenium: "A termőréteg a sztróma felső részén elhelyezkedő peritéciumok belsejét béleli. A spórák tömlőkben (aszkuszokban) képződnek, a tömlők nagyon hosszúak, hengeresek, bennük fonalas, soksejtű tömlőspórák találhatók, amelyek éréskor apró félspórákra (2–4 × 1–1,5 μm) hullanak szét. Bazídiumokkal nem rendelkezik.",
-      stipe: "A termőtest alsó, tönkszerű része simább, világosabb narancssárga vagy sárgásfehér, és közvetlenül a talajba temetett rovarbábból ered.",
-      flesh: "A hús fehéres-narancssárga, szívós, rostos, rugalmas. Szaga és íze nem jellegzetes.",
-      sporePrint: "Fehér vagy áttetsző. A tömlőspórák hialinok, fonalasak.",
-      habitat: "Nyár végétől késő őszig terem lomb- és fenyőerdőkben, mohás talajon, avaron, ahol a talajban rejtőző éjjeli lepkék bábrészeit parazitálja.",
-      uses: "Étkezésre nem használják apró mérete miatt. A hagyományos ázsiai orvoslásban és a modern farmakológiában nagyra becsült gyógygomba: kordicepin nevű bioaktív vegyületet tartalmaz, amely immunmoduláló, gyulladáscsökkentő és daganatellenes hatásokkal bír.",
-      confusion: "A sáfrányszínű gyepkorallgomba (Clavulinopsis laeticolor) narancssárga bunkó alakú gomba, amellyel összetéveszthető, mielőtt a tönk tövét kiásnák. A vörös rovarrontógomba szemölcsös termőrésszel bír és a talajba temetett bábból vagy lárvából nő ki. A kígyónyelvű rontógomba (Tolypocladium ophioglossoides) felül vörösesbarna vagy fekete, alul sárga, barna vagy fekete, és sárga micéliumzsinórok kötik össze a talajban rejtőző álszarvasgombákkal (Elaphomyces fajok).",
-      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja számon."
+      description: "Füves területek, mohák és erdőszélek parazita bunkógombája, amely magányosan vagy csoportokban nő egy eltemetett lepke- vagy pillangóbábból. Az északi féltekén fordul elő, és gyakrabban található meg Észak-Amerika keleti részén, mint a Sziklás-hegységtől nyugatra. Nagy-Britanniában és Írországban nem gyakori, és könnyen elkerüli a figyelmet.",
+      cap: "A termőtest egyetlen bunkó, narancssárga vagy skarlátvörös, és csak ritkán ágas. A termékeny fej kissé megduzzadt és szemcsés a kiemelkedő pórusoktól. A brit fejek 0,5–4 cm hosszúak és 2–4 mm vastagok. Az egész bunkó 1–8 cm magas: Közép-Európában gyakran 2–5 cm, Észak-Amerikában 2–8 cm hosszú és körülbelül 5 mm vastag, egy francia leírásban pedig 15–70 mm hosszú és 3–10 mm vastag. A fej szélesebb, mint a meddő tuskó.",
+      hymenium: "A termékeny felület maga a narancssárga fej. Lombik alakútól a gömbölydedig terjedő peritéciumok ágyazódnak bele, és ezek néha félig beágyazottak vagy majdnem felületiek. Mindegyik egy kis kiemelkedő póruson keresztül nyílik. A tömlők (asci) hosszúak és hengeresek, nyolcspórásak, körülbelül 300–510 × 3,5–5 μm méretűek, körülbelül 3,5–5 μm vastag apikális sapkával.",
+      stipe: "A meddő nyél a talajban lévő gazdaszervezetig nyúlik le. Hengeres, sima vagy finoman szálas, és világosabb narancssárga vagy fehéres.",
+      flesh: "A belső szövet fehéres vagy halvány narancssárga, szívós, rostos és rugalmas. Szaga és íze nem jellegzetes.",
+      sporePrint: "Fehéres. Az aszkospórák fonalasak, soksejtűek, éréskor apró hengeres részspórákra esnek szét, amelyek 2–4,5 × 1–1,5 μm méretűek.",
+      habitat: "Termőtestei késő nyártól késő őszig jelennek meg mohás gyepeken, erdei tisztásokon és utak mentén a talajban rejtőző lepkebábokból.",
+      uses: "Étkezési értéke nincs apró mérete és szívóssága miatt, de a tradicionális gyógyászatban nagyra értékelt gyógygomba. Bioaktív anyagai miatt széles körben termesztik és kutatják.",
+      confusion: "A Clavulinopsis laeticolor egy narancssárga korallbunkó, amelyet e fajnak lehet nézni, mielőtt az alapot kiássák. A Cordyceps militaris pattanásos termékeny fejjel rendelkezik, és eltemetett bábból vagy lárvából nő ki. A Tolypocladium ophioglossoides felül vörösesbarna vagy fekete, alul pedig sárga, barna vagy fekete, és sárga micéliumzsinórok kötik össze egy eltemetett Elaphomyces fajjal.",
+      notes: "A hernyóbábokat parazitáló tömlősgombák típusfaja, amely világszerte ismert rovarrontó gomba."
     }
     },
     sources: {
@@ -59286,7 +59292,7 @@ export const CATALOG = [
       pl: "soplówka jeżowata",
       fr: "hydne hérisson",
       it: "criniera di leone",
-      hu: "süngomba"
+      hu: "közönséges süngomba"
     },
     names: {
       en: ["bearded tooth", "bearded hedgehog", "tree hedgehog"],
@@ -59297,7 +59303,7 @@ export const CATALOG = [
       uk: ["герицій гребінчастий"],
       fr: ["crinière de lion"],
       it: ["fungo istrice","testa di scimmia"],
-      hu: ["cérnagomba","közönséges süngomba","szakállas süngomba"]
+      hu: ["süngomba","oroszlánsörény-gomba","szakállas süngomba"]
     },
     text: {
       tr: {
@@ -59602,16 +59608,16 @@ export const CATALOG = [
       notes: "Una valutazione del 2019 classifica la specie a minor preoccupazione (Least Concern), sebbene sia protetta in molte liste rosse regionali per la rarità del suo habitat."
     },
     hu: {
-      description: "Fakárosító parazita és szaprotróf gombafaj, amely fehérkorhadást idéz elő idős lombos fákon. Elterjedt Európában, Észak-Amerikában és Kelet-Ázsiában, de idős természetközeli erdőkhöz kötött ritka faj.",
-      cap: "A termőtest tömör, kerekded, gumószerű vagy szív alakú, 10–25 cm széles és akár több kilogramm tömegű. Felszínét sűrűn borítják a lecsüngő, puha, párhuzamosan álló tüskék, amelyek 1–6 cm hosszúak, jégcsapokra vagy oroszlánsörényre emlékeztetnek. Színe tiszta hófehér vagy krémszínű, idős korban sárgásbarnára színeződik.",
-      hymenium: "A termőréteg a hosszú, lecsüngő tüskék felületén található, amelyek végig borítják a termőtest alsó és oldalsó részeit.",
-      stipe: "Tönkje nincsen, közvetlenül rögzül a fatörzshöz egy vaskos, rövid tuskószerű alappal.",
-      flesh: "A hús vastag, tömör, rugalmas, fehér, elvágva nem színeződik. Nagyon kellemes, édeskés, rákhúsra vagy homárra emlékeztető illata és íze van.",
-      sporePrint: "Fehér. A spórák gömbölydedek, simák vagy finoman szemölcsösek, méretük 5–7 × 4–5,5 μm, amiloidak.",
-      habitat: "Késő nyártól késő őszig terem élő vagy elhalt idős lombos fák (főként bükk és tölgy) törzsén, odvaiban és vastag ágain.",
-      uses: "Kiváló csemegegomba! Íze pirítva rákra vagy homárra emlékeztet. Mesterségesen termesztik is. Emellett kiemelkedő gyógygomba: hericenon és erinacintartalma miatt serkenti az idegnövekedési faktort (NGF), javítja a memóriát és védi az idegrendszert.",
-      confusion: "A közönséges petrezselyemgomba (Hericium coralloides) gazdagon elágazó ágrendszerű, nem tömör süngolyó alakú.",
-      notes: "Magyarországon 2018-ban az év gombája volt."
+      description: "Idős lombhullató fák sebein vagy elhalt törzsein növő ehető és gyógyhatású fogasgomba. Cirkumboreális elterjedésű Észak-Amerikában, Európában és Ázsiában.",
+      cap: "A termőtest egyetlen tömör, el nem ágazó, kerekded, ovális vagy párna alakú tömb, amelyből lefelé függnek a puha tüskék. Szélessége 10–30 cm, magassága szintén 10–25 cm. Színe kezdetben tiszta fehér vagy krémszínű, idővel sárgás, majd okkerbarna lesz.",
+      hymenium: "Sűrűn elhelyezkedő csüngő tüskék borítják az alsó felületet. A tövüknél vastagok, kúposak, hegyesek és törékenyek. Általában 1–5 cm hosszúak, néha 6 cm-esek, és alkalmanként elérik a 8 cm-t. Fehérek, majd krémszínűek vagy viaszsárgák, később okkerek vagy barnák. A bazídiumok bunkó alakúak, 25–40 × 5–8 μm-esek, és négy spórásak bazális csattal. Hengeres gleocisztidák jelen vannak. A hifák monomitikusak és generatívak, hialinok és kapcsosak, vékony vagy vastag falúak, körülbelül 3–15 μm szélesek és amiloidok.",
+      stipe: "Határozott tönk általában hiányzik. A termőtest ülő, vagy egy rövid, széles fehér bázissal rendelkezik, amely körülbelül 1–3 cm hosszú. Gallérja nincs.",
+      flesh: "A hús vastag, fehér, rugalmas és szilárd, és idős korban szívóssá válik. A friss vágás fehér marad. A szárított hús sárgásra vagy vörösesbarnára változik. Szaga enyhe, néha gyengén gyümölcsös vagy kissé aludttejre emlékeztető. Íze enyhétől az édeskésig terjed.",
+      sporePrint: "Fehér. A spórák széles elliptikustól a szubglobózusig terjednek, vastag falúak, simák vagy finoman érdesek, és amiloidok. Gyakran tartalmaznak egy nagy olajcseppet. Méretük körülbelül 5–7 × 4–5,5 μm.",
+      habitat: "A termőtestek júliustól novemberig jelennek meg, Franciaországban és Spanyolországban pedig kora télig. Enyhe télen egy öreg termőtest januárban is megmaradhat. Magányosan vagy kis csoportokban nőnek, élő bükk és tölgy sebeiből, valamint e fák és más keményfák, köztük gyertyán, kőris, juhar, fehér akác, platán, dió és bálványfa elhalt törzseiből, tuskóiból és kidőlt rönkjeiből. A korhadás fehérkorhadás, és behatolhat a gesztbe. Fűrészporhalmokon is megjelennek. Ugyanaz a törzs a későbbi években újra teremhet.",
+      uses: "A fiatal termőtestek csemege ehető gombák (Magyarországon 2018-ban az Év Gombája), és ízüket homárhoz, halhoz vagy porhanyós húshoz hasonlítják. Az idősebb termőtestek szívóssá válnak. A gombát keményfa rönkökön és fűrészporon termesztik, és termőtesteit árusítják.",
+      confusion: "A Hericium coralloides elágazó és korallszerű, rövidebb tüskékkel, és általában bükkön és kőrisen nő. A Hericium cirrhatum rövidebb tüskékkel bír, mintegy 10–15 mm hosszúakkal, és vékonyabb, emeletes konzolokat képez különálló kalapokkal. A Hericium alpestre elágazó és fenyőfán él. A Hericium americanum elágazó, hosszú tüskékkel, és Észak-Amerika keleti részén nő. Egy fejletlen, elágazó Hericium indulhat egyetlen csomóként, és egy fiatal, hosszú tüskés termőtestnek lehet 1 cm-es vagy annál rövidebb tüskéje, így az érett termőtest el nem ágazó párnája adja a tisztább elkülönítést. A Hydnum repandum és a Hydnum rufescens sima kalap alatt viselnek tüskéket, és a talajon nőnek.",
+      notes: "Egy 2019-es értékelés a fajt Nem fenyegetettként (Least Concern) és hanyatlóként sorolja be, miközben az európai, ázsiai és észak-amerikai gombákat egyetlen fajként kezeli. A vadon élő termőtestek Nagy-Britanniában, Lengyelországban és Szlovákiában törvényileg védettek. Nagy-Britanniában a védelem az 1981-es Vadvédelmi és Vidéki Törvény 8. melléklete alapján áll fenn. Lengyelországban 1995 óta szigorúan védett, és a nemzeti vörös lista veszélyeztetettként jelöli meg. Szlovákiában a bírság egy termőtestért 100 euró. Egy cseh nemzeti jegyzék sebezhetőként kezeli. Az ezen a néven árusított termesztett anyagok jelentős része egy kelet-ázsiai faj. Hericenonokat és erinacineket jelentenek az ezen a néven árusított termőtestekből és micéliumból, és gyógyhatásuk még nem bizonyított minden szempontból."
     }
     },
     sources: {
@@ -60161,7 +60167,7 @@ export const CATALOG = [
       uk: ["ганодерма лакована"],
       pl: ["lakownica lśniąca"],
       fr: ["reishi"],
-      hu: ["lakkostapló"]
+      hu: ["reishi","lakktapló"]
     },
     text: {
       tr: {
@@ -60464,16 +60470,16 @@ export const CATALOG = [
       notes: "Una valutazione del 2024 classifica la specie a minor preoccupazione (Least Concern)."
     },
     hu: {
-      description: "Fakárosító gyengültségi parazita és szaprotróf taplógomba, amely fehérkorhadást idéz elő lombhullató fák törzsén és tuskóin. Európában, Észak-Amerikában és Ázsiában honos.",
-      cap: "A kalap 5–20 cm átmérőjű, félkör, vese vagy legyező alakú, lapos vagy domború. Felületét kemény, fényes, pecsétviaszszerű, lakkos kéreg borítja, koncentrikus barázdákkal. Színe sárgásvörös, fényes gesztenyebarna vagy vörösesbarna, a növekedésben lévő széle fehér vagy krémsárga.",
-      hymenium: "A pórusok nagyon aprók (4–6 milliméterenként), fehérek vagy krémszínűek, idővel szürkésbarnára sötétednek; megnyomva barnulnak.",
-      stipe: "A tönk 5–15 cm hosszú és 1–3 cm vastag, hengeres, gyakran görbült, excentrikus vagy oldalt álló, a kalaphoz hasonlóan sötétbarna, fényes lakkbevonattal.",
-      flesh: "A hús szívós, parafás vagy fás keménységű, világosbarna vagy fahéjbarna színű. Szaga gombaszerű, íze enyhén kesernyés.",
-      sporePrint: "Barna. A spórák oválisak, csonka csúcsúak, kétrétegű fallal és belső szemölcsökkel, méretük 9–12 × 6–8 μm.",
-      habitat: "Nyártól késő őszig terem elhalt lombhullató fák (főleg tölgy, bükk, éger) tövében, tuskóján vagy talajban rejtőző gyökerein.",
-      uses: "Fás keménysége miatt étkezésre alkalmatlan. A világ egyik legelismertebb gyógygombája (kínaiul lingzhi, japánul reishi): triterpéneket és poliszacharidokat tartalmaz, teának, tinktúrának vagy pornak elkészítve erősíti az immunrendszert, védi a májat és csökkenti a stresszt.",
-      confusion: "A vastagkérgű tapló (Ganoderma adspersum) és a déli tapló (Ganoderma australe) nincsenek fénylő lakkréteggel bevonva és tönk nélküliek.",
-      notes: "Magyarországon 2010-ben az év gombája volt."
+      description: "Lombhullató fa egyéves konzolos gombája, amely élő törzseken parazita, tuskókon és gyökereken pedig szaprotróf. Előfordul a mérsékelt égövi és mediterrán Európában, északon Dél-Skandináviáig, valamint Kína egyes részein. Nagy-Britanniában és Írországban ritka. Az Európán kívüli adatok többsége más fajokhoz tartozik.",
+      cap: "A termőtest egyéves, és egy öreg példány néha két vagy három évig is megmarad. Általában tönkkel rendelkezik, és ritkán ülő. A kalap legyező, vese, ovális, lapát alakú vagy félköríves, kissé domború, és néha karéjos. Általában körülbelül 5–20 cm átmérőjű, mintegy 3 cm-től 25 cm-ig, és körülbelül 1–3 cm vastag. Sok kalap csak 6–10 cm-es. Felülete koncentrikusan barázdált és dudoros, kemény, fényes lakkbevonat alatt. Egy fiatal kalap sárgától sárgásokkerig terjed, majd a közepétől kiindulva rozsdavöröstől mahagónibarnáig színeződik, idős korban pedig lila, lilásbarna vagy feketésbarna lesz. A perem tompa, és fehér, sárga vagy krémszínű, amíg a kalap növekszik. Amikor a növekedés leáll, az egész kalap mahagóni- vagy lilásbarnává, illetve majdnem feketévé válik. A lehullott spórák tompítják a fényt.",
+      hymenium: "A csövek általában egy rétegben, ritkán két vagy három rétegben helyezkednek el, és körülbelül 5–20 mm mélyek. Fehérek, majd okkerek, okkerbarnák vagy fahéjszínűek. A pórusok kerekek, körülbelül 4–6 milliméterenként, mintegy 0,12–0,2 mm széles nyílásokkal. A nyílások fehéresek vagy krémszínűek, majd fahéjbarnától dohánybarnáig terjednek, és nyomásra megbarnulnak. Az öreg pórusok szögletessé válnak. Cisztidák hiányoznak. A bazídiumok hengeresek, legfeljebb körülbelül 23 μm hosszúak, négy spórásak és a tövükön kapcsosak.",
+      stipe: "A tönk általában jelen van, és gyakran oldalsó, néha a peremhez közel rögzül, vagy excentrikus. Körülbelül 3–25 cm hosszú és 1–3 cm vastag. Hengerestől a lapítottig terjed, gyakran szabálytalanul görbült vagy csomós. Felülete kemény és fényesen lakkozott, vörösesbarna, sötét gesztenyebarna vagy feketéslila, a kalap felületéhez illeszkedve. A belső hús szívós és parafaszerű.",
+      flesh: "A hús szívós, bőrszerű, parafaszerű vagy fás. Fehéres, fás krémszínű vagy világosbarna a kéreg közelében, és sötétbarna vagy csokoládébarna a csövek felett. Vágásra nem színeződik. Szaga gyenge és gombaszerű, íze pedig keserű.",
+      sporePrint: "Barna, rozsdabarna vagy tompa okkerbarna. A spórák oválisak vagy elliptikusak, csonka csúccsal, kettős falúak, finoman tüskés belső fallal, körülbelül 9–12 × 6–8 μm méretűek.",
+      habitat: "Termőtestei májustól novemberig jelennek meg és áttelelhetnek. Főleg tölgyön nőnek, és bükkön, kőrisen, égeren, szelídgesztenyén, platánon, valamint más lombhullató fákon is megtelepednek élő fák alapjánál, tuskókon és eltemetett gyökereken.",
+      uses: "Nem ehető fás szövete és keserű íze miatt. A világ egyik legismertebb tradicionális gyógygombája (Magyarországon 2010-ben az Év Gombája). Teák, kivonatok és tinktúrák formájában fogyasztják.",
+      confusion: "A Ganoderma resinaceum általában tönk nélküli vagy rövid tönkű. Felső felülete tompább, krémszínű, világos vörösesbarna vagy szürkésbarna, széle lekerekítettebb, spórái nagyobbak, pórusai kisebbek. Öreg élő fák tövében nő, különösen tölgyön. A Ganoderma carnosum sötétebb és lilásfekete, hosszú oldalsó tönkkel és valamivel nagyobb, erősebben díszített spórákkal, és főleg jegenyefenyőn és lucfenyőn nő. Az átmeneti termőtestek és genetikai eredmények nyitva hagyják annak lehetőségét, hogy a kettő egyetlen változékony faj. A Ganoderma applanatum tompa és okkerszürke vagy szürkésbarna, kemény, nem lakkozott kéreggel, és több évig él.",
+      notes: "A Ganoderma lucidum nevet évtizedeken át tág értelemben használták a világ szinte minden részén található fényes lakktaplóra. A modern DNS-vizsgálatok feltárták, hogy az ázsiai 'Lingzhi' külön faj (Ganoderma lingzhi), míg az igazi Ganoderma lucidum európai faji egység."
     }
     },
     sources: {
@@ -60973,7 +60979,7 @@ export const CATALOG = [
       ru: ["свинуха чешуйчатая"],
       fr: ["chanterelle en massue","gomphe à massue"],
       it: ["gomfo clavato"],
-      hu: ["lila rókagomba","zápfoggomba"]
+      hu: ["ibolyás disznófülke","disznófül"]
     },
     text: {
       tr: {
@@ -61278,16 +61284,16 @@ export const CATALOG = [
       notes: "Una valutazione del 2019 classifica la specie come Quasi Minacciata (Near Threatened) a causa della frammentazione e degradazione delle foreste vetuste di conifere."
     },
     hu: {
-      description: "Ektomikorrhizás gomba. Európa, Észak-Amerika és Ázsia hegyvidéki fenyveseiben honos, de Európa-szerte ritka és visszaszorulóban lévő, veszélyeztetett faj.",
-      cap: "A termőtest 4–12 cm széles és 5–15 cm magas, bunkó, trombita vagy lapított tölcsér alakú, disznófülre emlékeztetően féloldalas lebenyekkel. Felső felülete lapos vagy bemélyedő, színe fiatalon ibolyáslila vagy bíborlila, később sárgásbarnára, bőrsárgára fakul, széle hullámos.",
-      hymenium: "A külső, lefutó felületet sűrűn hálózatos, villásan elágazó, tompa ráncok és lécek alkotják. Színe fiatalon gyönyörű ibolyáslila vagy szürkéslila, később a spóráktól sárgásbarna vagy okkeres lesz.",
-      stipe: "A tönkrész zömök, vaskos, 3–8 cm hosszú és 1,5–3 cm vastag, lefelé keskenyedő, a kalappal és a termőréteggel egybeolvad.",
-      flesh: "A hús vastag, tömör, fehér vagy halványlilás, nem színeződik. Kellemes, fűszeres illatú és jóízű.",
-      sporePrint: "Okkersárga vagy sárgásbarna. A spórák elliptikusak, finoman szemölcsösek, méretük 10–14 × 4,5–6 μm.",
-      habitat: "Nyár végétől késő őszig terem hegyvidéki lucfenyvesekben és jegenyefenyvesekben, bükkel kevert erdőkben, meszes talajon, gyakran sűrű csoportokban vagy boszorkánykörökben.",
-      uses: "Kiváló ehető csemegegomba, de mivel Európa-szerte ritka és védett, kíméletre szorul.",
-      confusion: "A sötét trombitagomba (Craterellus cornucopioides) fekete színű és vékony húsú. A lila pereszke (Lepista nuda) valódi lemezekkel rendelkezik.",
-      notes: "Magyarországon 2023-ban az év gombája volt."
+      description: "Fenyvesek és hegyvidéki bükkösök ektomikorrhizás gombája, amely gyakran csoportokban vagy boszorkánykörökben terem. Európa, Ázsia és Észak-Amerika hegyvidéki területein honos.",
+      cap: "A termőtest tölcséres, lapát vagy disznófül alakú, 4–12 cm széles és 5–15 cm magas. Felső (meddő) felülete lapos vagy bemélyedő, fiatalon lila vagy ibolyás, idővel sárgásbarna vagy bőrszínű lesz, széle hullámos, karéjos.",
+      hymenium: "A külső, termékeny felület lefutó ráncokból, redőkből vagy eres bordákból áll (nem lemezes!). Színe fiatalon feltűnő ibolyáslila vagy bíboros, később az érő spóráktól okkersárgás vagy barnás árnyalatot kap.",
+      stipe: "A termőtest tövénél fokozatosan elkeskenyedő tömör tuskórész, gyakran több példány tövénél összenőve. Színe a termőréteghez hasonlóan lilás árnyalatú.",
+      flesh: "A hús vastag, tömör, fehéres vagy halvány krémszínű, enyhe lilás beütéssel. Szaga kellemesen gyümölcsös és gombaszerű, íze enyhe, kellemes.",
+      sporePrint: "Okkersárga vagy fahéjszínű. A spórák megnyúltak, elliptikusak, finoman szemcsések, körülbelül 10–14 × 4–6 μm méretűek.",
+      habitat: "Nyártól késő őszig terem hegyvidéki jegenye- és lucfenyvesekben, valamint hegyi bükkösökben mészkedvelő talajon.",
+      uses: "Kiváló, csemege ehető gomba (Magyarországon 2023-ban az Év Gombája). Zamatos húsa miatt nagyra becsülik, levesekhez és húsételekhez kiváló.",
+      confusion: "A Cantharellus fajok (rókagombák) szintén ráncos-eres termőréteggel bírnak, de sosem lilák, hanem sárgák. A Craterellus cornucopioides (sötét trombitagomba) feketésszürke, vékony húsú, és nincs lila színe. A kék pókhálósgombák igazi lemezekkel és kalappal rendelkeznek.",
+      notes: "Európa-szerte veszélyeztetett és visszaszorulóban lévő gombafaj az erdei élőhelyek degradációja miatt. Magyarországon védett faj, természetvédelmi értéke 10 000 Ft."
     }
     },
     sources: {
@@ -61778,7 +61784,7 @@ export const CATALOG = [
       pl: "wilgotniczka papuzia",
       fr: "hygrophore perroquet",
       it: "igrocybe pappagallo",
-      hu: "zöldes nedűgomba"
+      hu: "papagáj-nedűgomba"
     },
     names: {
       en: [
@@ -61791,7 +61797,7 @@ export const CATALOG = [
       ru: ["глиофорус попугайский"],
       uk: ["гліофор папуговий"],
       pl: ["wilgotnica papuzia"],
-      hu: ["zöldessárga nedűgomba"]
+      hu: ["papagájgomba"]
     },
     text: {
       tr: {
@@ -62096,16 +62102,16 @@ export const CATALOG = [
       notes: "Una valutazione del 2019 colloca la specie a minor preoccupazione (Least Concern)."
     },
     hu: {
-      description: "Kis termetű, szaprotróf nedűgombafaj. Széles körben elterjedt Észak- és Közép-Európában, valamint Észak-Amerikában természetközeli gyepeken és erdőszéleken.",
-      cap: "A kalap 1–4 cm átmérőjű, kezdetben félgömb vagy harang alakú, később domborúvá válik, közepén tompa púppal. Fiatalon sötét papagájzöld, smaragdzöld színű, vastag, csúszós nyálkaréteg borítja; idővel sárgászöldre, sárgára, narancssárgára vagy rózsaszínesre fakul, a zöld szín gyakran csak a széle mentén marad meg. Széle bordás.",
-      hymenium: "A lemezek ritkán állók, vastagok, tönkhöz nőttek vagy kis foggal lefutók, sárgásak, tövük zöldes árnyalatú.",
-      stipe: "A tönk 3–7 cm magas és 0,2–0,5 cm vastag, hengeres, karcsú, rendkívül nyálkás és csúszós. A csúcsán zöld, lefelé sárga vagy narancssárga színű.",
-      flesh: "A hús vékony, sárgászöld, puha. Szaga és íze nem jellegzetes.",
-      sporePrint: "Fehér. A spórák elliptikusak, simák, méretük 7,5–9 × 4,5–5,5 μm, inamiloidak.",
-      habitat: "Késő nyártól késő őszig terem mohás hegyi legelőkön, kaszálókon, természetes gyepeken és ritkás erdőszéleken, tápanyagszegény talajon.",
-      uses: "Nem ehető. Apró mérete, vizenyős-nyálkás állaga miatt étkezési értéke nincsen, ráadásul gyomorpanaszokat is okozhat.",
-      confusion: "Jellegzetes zöld színe és nyálkás felülete miatt más gombával aligha téveszthető össze. Kifakulva a többi sárga nedűgombára (Hygrocybe fajok) hasonlíthat.",
-      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja számon."
+      description: "Természetközeli gyepek és legelők kistermetű, rendkívül tarka nedűgombája. Európa mérsékelt részein és Észak-Amerikában fordul elő.",
+      cap: "A kalap 1–4 cm széles, kezdetben félgömb vagy kúpos alakú, majd domborúvá válik, tompa púppal. Felülete vastag, ragadós-nyálkás zselatinréteggel fedett. Színe fiatalon fűzöld, smaragdzöld vagy olívzöld, amely később sárgára, narancssárgára, rózsaszínesre fakul, tarka megjelenést adva. Széle áttetszően bordás.",
+      hymenium: "A lemezek tönkhöz nőttek vagy lefutók, vastagok, viaszosak, viszonylag ritkák. Színük zöldes, sárga vagy narancssárga, élük gyakran zöld marad.",
+      stipe: "A tönk 2–6 cm hosszú és 2–5 mm vastag, hengeres, nyálkás réteggel borított. Csúcsa idős korban is jellegzetesen zöld marad, míg alsó része elsárgul.",
+      flesh: "A hús vékony, törékeny, vizes, zöldessárga. Szaga és íze enyhe, nem jellegzetes.",
+      sporePrint: "Fehér. A spórák simák, elliptikusak, inamiloidok, körülbelül 7–9 × 4–5,5 μm méretűek.",
+      habitat: "Ősszel terem legelőkön, réteken, mohás gyepeken és tisztásokon.",
+      uses: "Nem ehető étkezési céllal, nyálkás és értéktelen, fogyasztása egyeseknél gyomorpanaszokat válthat ki.",
+      confusion: "A Hygrocybe chlorophana végig sárga, fiatalon sem zöld, és tönkje üreges éretten. A Stropharia aeruginosa jóval nagyobb, lemezei barnák és galléros a tönkje.",
+      notes: "A Gliophorus nemzetség típusfaja. Idős korban a zöld szín elvesztésével nehezebbé válik a felismerése, de a zöld tönkcsúcs segít az azonosításban."
     }
     },
     sources: {
@@ -62601,7 +62607,7 @@ export const CATALOG = [
       uk: ["боровик бронзовий"],
       fr: ["cèpe noir","tête-de-nègre"],
       it: ["bronzino","moreccio"],
-      hu: ["bronzos tinóru"]
+      hu: ["fekete vargánya"]
     },
     text: {
       tr: {
@@ -62905,16 +62911,16 @@ export const CATALOG = [
       notes: "Una valutazione del 2019 classifica la specie a minor preoccupazione (Least Concern)."
     },
     hu: {
-      description: "Nagy termetű, kiváló ektomikorrhizás csemegegomba. Melegkedvelő európai faj, amely a déli és közép-európai meleg tölgyesekben és szelídgesztenyésekben honos; Észak-Európában ritka vagy hiányzik.",
-      cap: "A kalap 7–20 cm (akár 25 cm) átmérőjű, vaskos, félgömb alakúból domborúvá válik. Színe sötétbarna, feketésbarna, bronzbarna, gyakran sárgásbarna vagy rezes foltokkal tarkítva. Felülete szárazon finoman bársonyos, nemezes, nem tapadós.",
-      hymenium: "A csövek hosszúak, a tönknél mély árokkal; fiatalon fehérek és mintegy tömöttek, később sárgák, végül olívzöldesek lesznek, érintésre nem kékülnek.",
-      stipe: "A tönk 6–15 cm magas és 3–8 cm vastag, rendkívül vaskos, hasas vagy gumós. Színe világosabb barna a kalapnál, felső részén finom fehér vagy világosbarna hálózat borítja.",
-      flesh: "A hús feltűnően kemény, tömör, tiszta fehér, vágásra nem színeződik el. Rendkívül kellemes, aromás illatú és mogyoróízű.",
-      sporePrint: "Olívbarna. A spórák orsó alakúak, simák, méretük 12–16 × 4–5,5 μm.",
-      habitat: "Nyártól kora őszig terem meleg lomberdőkben (különösen tölgy, szelídgesztenye és bükk alatt), meszes vagy savanyú alapkőzeten egyaránt.",
-      uses: "Kiváló csemegegomba! Kemény húsa és fenséges aromája miatt a legfinomabb vargányafajként tartják számon. Frissen sütve, levesekbe, mártásokba és szárítva is pompás.",
-      confusion: "Az ízletes vargánya (Boletus edulis) kalapja világosabb mogyoróbarna, nedvesen ragadós, és hűvösebb erdőkben él. A nyári vargánya (Boletus reticulatus) kalapja világosabb szürkésbarna, felülete repedező. Az epeízű tinóru (Tylopilus felleus) pórusai rózsaszínesek és húsa keserű.",
-      notes: "Magyarországon 2019-ben az év gombája volt."
+      description: "Melegkedvelő lomberdők ektomikorrhizás vargányafaja, amely magányosan vagy kis csoportokban nő tölgyesekben és gesztenyésekben. Dél- és Közép-Európában, valamint a mediterrán térségben honos.",
+      cap: "A kalap általában 6–20 cm átmérőjű, és akár 40 cm-es példányokat is találtak. Kezdetben félgömb alakú, majd domborútól párna alakúig terjed, végül lapos vagy kissé benyomott. Színe sötét csokoládébarna vagy feketésbarna, idősödve gyakran bronz, réz vagy olív foltokkal, és a pereméig sötét marad. A perem melegebb vörösesbarna lehet. Felülete fiatalon száraz és finoman bársonyos, később sima, néha enyhén zsíros tapintású. Kevésbé ráncos és dudoros, mint a Boletus pinophilus kalapja. Idős korban csupasszá válhat és táblásan felrepedezhet. A fiatal kalap halvány hamvasságot viselhet.",
+      hymenium: "A csövek szabadok vagy tönkhöz nőttek, a tönk körül szinte szabadon állók, és körülbelül 5–30 mm hosszúak. Ők és az apró kerek pórusok eleinte fehérek, majd sárgától zöldessárgáig terjednek olív árnyalattal, és idős korban barnásak lesznek. Ahol a csövek egyenlőtlen hosszúságúak, ott a pórusfelszín egyenetlen és gödrös. A pórusok sűrűn helyezkednek el, körülbelül kettő-három milliméterenként. A vágott csövek megtartják a színüket. A pórusok nyomódása változatlanul hagyhatja őket, vagy egy idő után borvöröses árnyalatot adhat nekik. A cisztidák orsó alakúak, körülbelül 50–65 × 11–16 μm méretűek.",
+      stipe: "A tönk általában 5–12 cm hosszú és 2–8 cm vastag. A nagy termőtestek elérik a körülbelül 15 cm magasságot és 10 cm vastagságot. Fiatalon hordó alakú vagy duzzadt, majd bunkós vagy hengeres, és gyakran rövid és vaskos marad. Felülete világosbarna, okkersárga vagy gesztenyebarna, a kalapnál világosabb, és ritkán fehéres. Finom, barna vagy a felület színéhez közeli hálózat gyakran halványan látható. Gyakran a tönk felső részére korlátozódik, bár elérheti a hosszának körülbelül kétharmadát is lefelé. Lejjebb a hálószemek finom hosszanti vonalakká szakadozhatnak.",
+      flesh: "A hús fehér. Fiatalon nagyon szilárd, szilárdabb, mint a Boletus edulis húsa, és a tönk éretten szivacsossá és puhává válik. A vágott hús fehér marad. Egy vörösesbarna vagy piszkosrózsaszín, halványbarna réteg húzódik a kalapbőr alatt, és a kalap húsa nagyon lassan enyhén lilássá válhat. Íze enyhe és kellemes. Szaga enyhe, földes vagy mogyoróra emlékeztető. A friss húsban gyenge, és a szárított húsban erősebbé válik.",
+      sporePrint: "Olívbarna vagy olívszínű. A spórák orsó alakútól az elliptikusig terjednek és simák, körülbelül 10,5–19 × 3,5–7 μm méretűek.",
+      habitat: "A termőtestek meleg lombhullató erdőkben jelennek meg, főleg tölgy alatt, valamint bükk, szelídgesztenye, magyaltölgy és paratölgy alatt, továbbá nyugati szamócafa, fás hanga és szuhar mellett. Gyakran nőnek tisztásokon, ösvények mentén, parkokban és halastavak partján. Közép-Európában májustól októberig jelennek meg, hegyvidéki fenyvesekben nem. Nagy-Britanniában és Írországban augusztustól októberig jelennek meg, Dél-Európa egyes részein pedig októbertől februárig. Melegkedvelő. Savanyú talajon, mészkövön vagy meszes agyagon él, Észak-Európában pedig kizárólag mészkövön.",
+      uses: "Kiváló ehető gomba (Magyarországon 2019-ben az Év Gombája). Egyenrangúnak tekintik a Boletus reticulatusszal, és Dél-Európában gyakran a Boletus edulis fölé rangsorolják. Frissen vagy szárítva fogyasztják, és a szárítás erősíti az aromáját. Piacokon árusítják a Boletus edulisszal és a Boletus reticulatusszal együtt. Észak-Olaszországban, Borgotaro körzetében egyike annak a négy fajnak, amelyet Fungo di Borgotaro néven értékesítenek. A kalapbőrt rajta hagyják, a pórusokat pedig csak akkor távolítják el, ha öregek és puhák.",
+      confusion: "A Boletus edulis világosabb, ragadós kalappal rendelkezik, fehéres széllel és világosabb tönkkel fehér hálózattal, és később, hűvösebb időben terem. A Boletus reticulatus világosabb kalappal bír, amely gyakran foltokra repedezik, és világosabb tönkkel rendelkezik, kidolgozottabb fehéres hálózattal, amely gyakran eléri a tövét. A Boletus pinophilus vörösesbarna, dudoros kalapú, és főleg erdeifenyőkkel él. A Tylopilus felleus sötétebb hálózattal, rózsaszínes árnyalatú pórusokkal és nagyon keserű ízzel rendelkezik. Az Imleria badia pórusai nyomásra kékülnek, és tönkjén nincs hálózat.",
+      notes: "A Cseh Köztársaságban sebezhetőként kezelik, és Montenegróban egy ideiglenes vörös listán szerepel. Közép-Európában lokális, Szlovákiában pedig egyes körzetekben nagyon bőséges lehet, beleértve Kassa környékét is. A leggyakoribb vargánya a szicíliai Madonie Regionális Természeti Park erdeiben. A korábban e név alá sorolt kaliforniai gyűjtések a Boletus regineus fajhoz tartoznak. A Kínából származó adatok más fajokhoz tartoznak. Az észak-afrikai, mahagóni kalapú és részben gyökerező tönkű gyűjtéseket Boletus mamorensis néven nevezték el, és a molekuláris vizsgálatok nem választották el őket ettől a fajtól. Egy 2007-es vizsgálat négy tinórufajnál alig talált egyezést a termőtestek száma és az alattuk lévő talajban lévő micélium között."
     }
     },
     sources: {
@@ -63366,7 +63372,7 @@ export const CATALOG = [
       pl: "gąsówka dwubarwna",
       fr: "pied-violet",
       it: "agarico piedeblu",
-      hu: "lilatönkű pereszke"
+      hu: "lila pereszke"
     },
     names: {
       en: ["blue-leg"],
@@ -63375,7 +63381,7 @@ export const CATALOG = [
       uk: ["рядовка ліловонога","синьоніжка"],
       fr: ["tricholome sinistre"],
       it: ["lepista personata"],
-      hu: ["lilatönkű tölcsérpereszke"]
+      hu: ["kékpereszke","pereszke"]
     },
     text: {
       tr: {
@@ -63678,16 +63684,16 @@ export const CATALOG = [
       notes: "È ampiamente conosciuto anche con il binomio Lepista saeva o Lepista personata."
     },
     hu: {
-      description: "Szaprotróf talajlakó gomba, az őszi rétek és legelők egyik legkedveltebb faja. Széles körben elterjedt és gyakori Európában és Észak-Amerikában.",
-      cap: "A kalap 6–15 cm átmérőjű, vaskos, kezdetben domború, majd lapossá válik, széle sokáig begöngyölt. Színe világos szürkésbarna, bézs, krémszínű vagy tejeskávébarna, kalapján sohasem lila. Felülete sima, bőrszerű.",
-      hymenium: "A lemezek sűrűn állók, a tönkhöz nőttek vagy kissé lefutók, krémszínűek vagy halvány szürkésfehérek, idővel enyhén barnulnak.",
-      stipe: "A tönk 4–8 cm magas és 1,5–3,5 cm vastag, vaskos, hengeres vagy a tövénél kissé gumós. Színe feltűnő, ragyogó ibolyáslila vagy kékeslila, felülete hosszantian szálas vagy pikkelykés. Gallérja nincs.",
-      flesh: "A hús vastag, kemény, fehér vagy halvány krémszínű, nem színeződik. Kellemes, fűszeres gombaillatú és kitűnő enyhe ízű.",
-      sporePrint: "Halvány rózsaszínes-krémszínű. A spórák elliptikusak, finoman szemölcsösek, méretük 6–8 × 4–5 μm.",
-      habitat: "Késő ősszel és kora télen (fagyokig) terem füves legelőkön, réteken, dűlőutak mentén, akácosokban és ritkás erdőszéleken, gyakran nagy boszorkánykörökben.",
-      uses: "Kiváló ehető gomba! Alapos sütést-főzést igényel, nyersen nem fogyasztható. Tömör húsa miatt pörköltnek, levesbe vagy ecetes savanyúságnak pompás.",
-      confusion: "A lila pereszke (Lepista nuda) kalapja és lemezei is élénk lilák, és többnyire erdőkben terem. A lila színű pókhálósgombák (Cortinarius fajok) rozsdabarna spóraport hullatnak.",
-      notes: "Magyarországon 2016-ban az év gombája volt."
+      description: "Füves területek, rétek, legelők, parkok, kertek és erdőszélek húsos szaprofita gombája, amely gyakran körökben vagy csoportokban áll. Széles körben elterjedt Európában Nagy-Britanniától és Írországtól a kontinensen át Közép- és Dél-Európáig, és Észak-Amerikából is jelentik.",
+      cap: "A kalap általában 5–15 cm átmérőjű, és eléri a 16 cm-t. Félgömb alakúan kezdődik, sokáig domború marad, később lapossá vagy sekélyen bemélyedővé válik, néha enyhén homorú. A perem sokáig begöngyölt marad, majd élessé és hullámossá válik. Felülete sima, száraz és selymes, nedvesen ragadóssá vagy csillogóvá válik. Nem higrofán, vagy csak enyhén az. Színe halvány krémszínű, fehéres, szürke, szürkésokker, sárgásbarna, világosbarna vagy okkerszürkétől szürkésbézsig terjed, gyakran barnás árnyalattal. Lilás árnyalat alkalmanként előfordul a fiatal kalapon, és a szín a korral kivilágosodik. A kalap nem ibolyaszínű. A kalapbőr hengeres hialin hifákból álló kutisz, amelyek 2–4 μm szélesek, enyhén megvastagodott falakkal, párhuzamosan vagy kissé összefonódva fekszenek, és csatokkal bírnak a szeptumoknál.",
+      hymenium: "A lemezek sűrűk és meglehetősen keskenyek, körülbelül 7–10 mm szélesek, rövidebb lemezekkel keverve. Fehérek, krémszínűek vagy bézsek, később okkerkrémszínűek, és néha rózsaszínes sárgásbarnák. Nincs bennük lilás árnyalat, és általában világosabbak, mint a kalap, kivéve az öreg termőtesteket. Kiöblösödők vagy bevágottak a majdnem szabadig, gyakran egy kis lefutó foggal, és kaparásra könnyen leválnak. A bazídiumok bunkó alakúak és négy spórásak, 30–40 × 6–8 μm-es méretben mérve, a tövükön csattal. A lemezél homomorf, és a bazídiumoktól vagy bazidiólumoktól nem különülnek el cisztidák.",
+      stipe: "A tönk 3–10 cm hosszú. A vastagság általában 1,2–3 cm, és egy leírás 1 cm-ig adja meg lefelé. Tömör, rostos és szívós, hengeres, és gyakran rövid. A töve gyakran enyhén bunkós vagy gumós, és nincs gallérja. Hosszantilag rásimuló ibolyaszínű vagy lila szálak fekszenek a fehéres vagy krémszínű alapon. Elég sűrűk lehetnek ahhoz, hogy a tönk teljesen ibolyaszínűnek tűnjön. A felső rész halványabb lila, és a szín gyorsan elhalványul. A töve szilárdan rögzül az aljzathoz.",
+      flesh: "A hús vastag, szilárd és vizesen fehéres. A tönkben enyhén ibolyaszínű, és néha máshol is lila árnyalatú. A szag megítélésében nincs egyetértés. Egyes leírások erősen parfümösnek, kissé diószerűnek vagy némileg erősnek, de nem kellemetlennek nevezik. Mások gyengének, kellemesnek, nem jellegzetesnek vagy feltűnésmentesnek hívják, és egy mikroszkópos leírás nem talál kiemelkedő szagot. Íze enyhe vagy édeskés.",
+      sporePrint: "Halvány rózsaszínes sárgásbarna, vagy krémszínű rózsaszín árnyalattal. Egy leírás fehérként írja le a lerakódást hússzínű-rózsaszín árnyalattal. A spórák elliptikusak, vékony falúak és finoman szemölcsösek vagy aprón tüskések, 5,5–9 × 4–6 μm méretűek, körülbelül 1,4–1,9 hossz-szélesség aránnyal. Melzer-reagensben inamiloidok. Olajcseppeket tartalmaznak, és az apikulusz excentrikus.",
+      habitat: "A fő termőidő szeptembertől decemberig tart. Nagy-Britanniában szeptembertől novemberig tart, és enyhe télen januárba is belenyúlhat Dél-Britanniában és Írországban. Lengyelországban a termőtestek nyártól késő őszig jönnek, feljegyzésekkel decemberen át. Spanyolországban általában novembertől jelennek meg és a télbe nyúlnak. Szlovákiában szeptembertől decemberig jönnek, valamint enyhe télen is. Tavaszi termőtestek alkalmiak, áprilisban vagy májusban, és egy Prága melletti gyűjtés március 1-jén készült. Mész- és mészkőgyepekben, legelőkön, hegyi réteken, lápvidéken, parkokban, kertekben, erdőszéleken és tisztásokon nő, ritkábban erdeifenyvesek peremén, gyümölcsösökben, sztyepplejtőkön, gyümölcsfák alatt vagy régi kertekben. Dűnemélyedésben is megtalálták. A meszes talajú nyílt erdők alkalmi termőhelyet jelentenek. A termőtestek csoportokban vagy boszorkánykörökben állnak. A termőidőn kívül a micélium sötétebb zöld fűsávként mutatkozhat.",
+      uses: "Alaposan megfőzik, és nyersen nem fogyasztják (Magyarországon 2016-ban az Év Gombája). Az emberek egy kisebbsége még a megfőzése után is emésztési zavarokat kap. A fiatal kalapokat részesítik előnyben. A tönkök szívósabbak, és megszáríthatók, majd leveshez poríthatók. Hirtelen kisütik és világos húsokhoz, sajthoz, rizshez, tésztához és omlettekhez használják. Fagyasztható, és a már megfagyott termőtestek használhatók, ha azonnal megfőzik őket. Levesekben is használják, rántva és ecetben eltéve. A termőtestek gyakran kukacosak, ezért hamar felhasználják őket, a hús pedig porózus, ezért száraz napon gyűjtik őket. Az idősebb termőtesteknek főzés után halvány egérszaga lehet. A vadonból szedve árusítják cseh piacokon, valamint Franciaországban, Spanyolországban és Portugáliában, néha ugyanazokban a csomagokban, mint a Lepista nudát.",
+      confusion: "A Lepista nuda lila kalappal és lila lemezekkel rendelkezik, és erdőkben nő. Az idős termőtestek kifakulhatnak és elveszíthetik ezt a színt. A Lepista irina nagyjából ugyanúgy épül fel, de a tönkje fiatalkorától kezdve fehéres, és nedves réteken, gyümölcsösökben és néha lombhullató erdőkben nő. A kék tönkű és barnás kalapú Cortinarius fajok erdőkben élnek. Spóraporuk rozsdabarna és megszínezi a lemezeket, a tönkön pedig cortina-maradványok maradnak.",
+      notes: "Meglehetősen széles körben terjedt el, de az élőhelyvesztés lokálisan érinti. Egy 2019-es értékelés Nem fenyegetettként (Least Concern) sorolja be. A termőtestek a talajból származó fémeket és metalloidokat, köztük rezet és arzént halmoznak fel. Bányászati területeken és ipari meddőkön a kalapok szokatlanul magas rézszintet vehetnek fel, és a szárított gomba akár 100 mg/kg réz feletti koncentrációt is tartalmazhat. Széles körben termesztik laboratóriumban, és tanulmányozzák antioxidáns és antimikrobiális tulajdonságait."
     }
     },
     sources: {
@@ -64163,7 +64169,7 @@ export const CATALOG = [
       uk: ["справжній домовий гриб"],
       fr: ["mérule des maisons"],
       it: ["fungo piangente"],
-      hu: ["könnyező fagomba"]
+      hu: ["házigomba"]
     },
     text: {
       tr: {
@@ -64459,16 +64465,16 @@ export const CATALOG = [
       notes: "È il più distruttivo fungo degradatore del legno lavorato nelle regioni temperate: il micelio può attraversare muri e murature per molti metri per raggiungere nuovo legno da attaccare."
     },
     hu: {
-      description: "Épületfát károsító szaprotróf taplógombafaj, amely rendkívül agresszív barna kockás korhadást idéz elő beépített faanyagban. Világszerte elterjedt és a legveszélyesebb házi gombakártevőként tartják számon.",
-      cap: "Termőteste lapos, bevonatszerű (reszupinátus) vagy peremén kissé visszahajló, konzolos peremet képez; mérete néhány centimétertől akár egy méterig is terjedhet. Vastagsága 0,5–2 cm. Színe rozsdabarna vagy sárgásbarna, széles, fehéres növekedési szegéllyel, felületén gyakran víztiszta vagy sárgás cseppeket („könnyeket”) választ ki.",
-      hymenium: "A termőréteg ráncos, redős vagy gödrös-pórusos, szivacsos felületű, rozsdabarna színű.",
-      stipe: "Tönkje nincsen, közvetlenül rásimul a faanyagra vagy a falazatra.",
-      flesh: "A hús szivacsos, szárazon törékeny és parafaszerű. Szaga jellegzetes, kellemetlen, dohos pince- vagy gombaszag.",
-      sporePrint: "Rozsdabarna. A spórák elliptikusak vagy bab alakúak, simák, méretük 9–12 × 5–6,5 μm.",
-      habitat: "Főként épületek nedves, rosszul szellőző részeiben (pincékben, padlók alatt, gerendákon, falazatokon) él, ahol vastag micéliumzsinórjaival (rizomorfáival) akár méterekre is képes szállítani a vizet száraz faanyagok lebontásához.",
-      uses: "Étkezésre teljesen alkalmatlan! Épületkárosító gomba, amely faszerkezetek összeomlását okozhatja, spórái pedig légúti allergiát és asztmát válthatnak ki.",
-      confusion: "A pincopenész és más házigombafajok (például Coniophora puteana) kevésbé vastag termőtestet képeznek és nincsenek feltűnő könnycseppjeik.",
-      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja számon természetes élőhelyein."
+      description: "Feldolgozott és szerkezeti fa agresszív barnakorhadást okozó taplógombája épületekben, pincékben és bányákban. Természetes erdőkben nagyon ritka, de ember alkotta környezetben világszerte elterjedt a mérsékelt égövben.",
+      cap: "Nem valódi kalapos gomba: termőteste kiterülő, reszupinátus vagy szétterülő-visszahajló, vastag, szivacsos-húsos lemezként fekszik az aljzaton, amely akár 1 méteres kiterjedést is elérhet. Széle fehéres, pelyhes, vastag micéliumzsinórokkal.",
+      hymenium: "A termőfelület szabálytalanul ráncos, redős, pórusos vagy gödrös (merulioid), felülete rozsdabarna, sárgásbarna vagy dohánybarna. A felületén gyakran tiszta vízcseppek választódnak ki ('könnyezik'), amelyeket a fa cellulózának lebontása során képződő anyagcserevíz hoz létre.",
+      stipe: "Nincs tönkje; közvetlenül az aljzatra tapad és kiterjed.",
+      flesh: "A belső szövet szivacsos, szárazon parafaszerű, törékeny, barnás. Szaga jellegzetesen dohos, nehéz, pincére emlékeztető gombaszag.",
+      sporePrint: "Rozsdabarna vagy élénk fahéjbarna. A spórák vastag falúak, elliptikusak, simák, körülbelül 9–12 × 5–6 μm méretűek.",
+      habitat: "Nedves épületekben, pincékben, padlók alatt, gerendákon, falazatokon és beépített faanyagokon fordul elő. Erdőben, természetes faanyagon nagyon ritka.",
+      uses: "NEM EHETŐ! Nem étkezési gomba, hanem az egyik legveszélyesebb faanyagkárosító épületkártevő. A fa cellulóztartalmát lebontja, ami a faanyag barnulását, kockás törését és a tartószerkezetek gyors összeomlását okozza. Spórái és a penészszag allergiás és légúti megbetegedéseket válthatnak ki.",
+      confusion: "A Serpula himantioides kisebb és vékonyabb termőtestekkel bír. Erdőkben elhalt tűlevelű fán és kültéri kezeletlen faanyagon nő. A Coniophora puteana erdőkben és épületekben is előfordul. Termőrétege sima, és általában spórákkal porozott.",
+      notes: "Különleges képessége, hogy vastag rizomorfáival (micéliumkötegeivel) méterekre képes elszállítani a vizet és a tápanyagokat még száraz falakon és téglán keresztül is, így a száraz faanyagot is képes megfertőzni és elpusztítani."
     }
     },
     sources: {
@@ -64952,7 +64958,7 @@ export const CATALOG = [
       uk: ["хойроміцес жилкуватий"],
       fr: ["fausse truffe à plis tortueux"],
       it: ["tartufo bianco bastardo"],
-      hu: ["eres fehér-szarvasgomba"]
+      hu: ["erezett szarvasgomba","magyar szarvasgomba"]
     },
     text: {
       tr: {
@@ -65258,16 +65264,16 @@ export const CATALOG = [
       notes: "In alcuni testi storici è trattato come sinonimo di Choiromyces venosus."
     },
     hu: {
-      description: "Föld alatti (hipogeikus) tömlősgomba (Ascomycota), amely mikorrhizás kapcsolatban él lombos és tűlevelű fákkal. Európa-szerte elterjedt, különösen savanyú talajú erdőkben.",
-      cap: "A termőtest gumó alakú, szabálytalanul gömbölyded, burgonyára emlékeztető, 5–15 cm átmérőjű és akár 500 gramm tömegű is lehet. Felszíne sima vagy kissé repedezett, színe fehéres, krémsárga, idővel sárgásbarna vagy szürkésbarna foltokkal tarkított.",
-      hymenium: "A termőréteg a termőtest belsejében található. A belső hús (gleba) kemény, fehéres vagy szürkés, amelyet sűrűn futó kanyargós, agyvelőszerű erek (meddő és termő sávok) hálóznak be. A spórák tömlőkben képződnek, a tömlők nyolcspórásak. Bazídiumokkal nem rendelkezik.",
-      stipe: "Tönkje nincs, közvetlenül a föld alatt fejlődik.",
-      flesh: "A hús kemény, tömör, sajtszerű. Nagyon erős, átható, fűszeres, aromás illata (főtt kukoricára, sajtra vagy fokhagymára emlékeztető) és kellemes íze van.",
-      sporePrint: "Nem képez spóraport; a spórák a belső húsban találhatók. A tömlőspórák gömb alakúak, sárgásak, felületükön hosszú tüskékkel, méretük tüskék nélkül 16–22 μm.",
-      habitat: "Nyártól kora őszig terem a talaj felső rétegében rejtőzve (gyakran kissé kiemelkedve) lucfenyő, erdeifenyő, tölgy és bükk alatt, leginkább savanyú talajon.",
-      uses: "Kiváló csemegegomba! Nyersen emésztési panaszokat okozhat, ezért sütve vagy főzve használják fel pompás aromájú ízesítőként tésztákhoz, mártásokhoz és húsokhoz.",
-      confusion: "A valódi szarvasgombáktól (Tuber fajok) világosabb színe, nagyobb termete és savanyú talajkedvelése különíti el. A mérgező rőt áltrifla (Scleroderma citrinum) belseje feketéslila.",
-      notes: "Egy 2019-es felmérés nem fenyegetettként (Least Concern) tartja számon."
+      description: "Föld alatti (hipogei) ektomikorrhizás tömlősgomba lombhullató és vegyes erdőkben, különösen Közép- és Kelet-Európában. Szabálytalan, burgonyaszerű gumókat képez a talajban.",
+      cap: "A termőtest gumó alakú, szabálytalanul gömbölyded vagy lebenyes, 3–12 cm átmérőjű, és akár több száz gramm tömegű is lehet. Felülete sima vagy finoman bársonyos, színe fehéres, krémszínű, világos sárgásbarna, idősödve gyakran barna foltokkal.",
+      hymenium: "Zárt termőtestű (kleisztotécium / gleba). A belső rész (gleba) kemény, tömör, krémszínű vagy halványbarna, amelyet sűrű, fehéres, kanyargós steril erek hálóznak be (meandrikus mintázat). A spórák a belső húsban elszórt gömbölyded tömlőkben (asci) képződnek, nem bazídiumokon!",
+      stipe: "Nincs tönkje; teljesen a talajfelszín alatt, a humuszrétegben fejlődik.",
+      flesh: "A belső hús kemény, sajtszerű, fehéres-márványozott. Szaga fiatalon kellemes, enyhén fokhagymás vagy gyümölcsös, idős korban penetráns, sajtra vagy ammóniára emlékeztető; íze aromás, fűszeres.",
+      sporePrint: "Nem képez szabad spóraport. A spórák nagyok, gömbölydedek, felületükön hosszú, tompa tüskékkel és pálcikaszerű díszítettséggel borítottak, mintegy 20–30 μm méretűek.",
+      habitat: "Nyár végétől késő őszig terem a talajban (5–15 cm mélyen) lombhullató erdőkben, különösen tölgy, bükk, gyertyán és hárs alatt, agyagos, nehéz, nedves talajokon.",
+      uses: "Kiváló ehető és fűszergomba. Frissen reszelve használják tésztákra, rizottókra, húsokra. Bár alacsonyabb árfekvésű, mint a híres piemonti fehér szarvasgomba, a gasztronómiában megbecsült faj.",
+      confusion: "A Tuber magnatum általában kisebb. Érett belseje vöröses fehér erekkel, szaga és íze pedig kellemes és némileg fokhagymás. Tömlői egy-három, alkalmanként négy spórát tartalmaznak, amelyek tág szemű hálózattal díszítettek, és mediterrán faj. E faj éretlen termőtesteit néha e szarvasgombaként árusítják. Egy érett Scleroderma, beleértve a Scleroderma citrinumot és a Scleroderma verrucosumot, szinte fekete belsővel rendelkezik. A Choiromyces magnusii kisebb, tavasszal terem, erei nem kanyargósak, és Cistus alatt él.",
+      notes: "Keresésére képzett szarvasgombász kutyákat használnak, mivel a talaj alatt rejtőző gombát csak a szaga alapján lehet felkutatni."
     }
     },
     sources: {
@@ -65729,7 +65735,7 @@ export const CATALOG = [
       pl: "soplówka bukowa",
       fr: "hydne corail",
       it: "idno corallo",
-      hu: "közönséges petrezselyemgomba"
+      hu: "cérnagomba"
     },
     names: {
       en: ["coral tooth fungus", "comb coral mushroom"],
@@ -65739,7 +65745,7 @@ export const CATALOG = [
       uk: ["їжовик коралоподібний"],
       pl: ["soplówka jodłowa"],
       it: ["ericio coralloide"],
-      hu: ["bükkös petrezselyemgomba"]
+      hu: ["ágas süngomba"]
     },
     text: {
       tr: {
@@ -66044,16 +66050,16 @@ export const CATALOG = [
       notes: "È considerato una specie indicatrice di foreste antiche e ben conservate ed è protetto in vari paesi europei."
     },
     hu: {
-      description: "Fakárosító szaprotróf taplógombafaj, amely fehérkorhadást okoz elhalt lombos fákon, különösen bükkfán. Széles körben elterjedt Európában és Észak-Amerikában, de idős természetes erdőkben él.",
-      cap: "A termőtest korallszerűen gazdagon és finoman elágazó, 10–30 cm széles és 10–25 cm magas bokrot képez. Tiszta hófehér, később krémszínűvé vagy sárgásfehérré válik. Az ágacskák alsó feléről sűrű sorokban apró, 0,5–1 cm hosszú, hegyes, lecsüngő tüskék nyúlnak le.",
-      hymenium: "A termőréteg a finom lecsüngő tüskék felszínét borítja.",
-      stipe: "A termőtest egy közös, vaskos, tuskószerű rögzülési ponttal kapcsolódik a faanyaghoz.",
-      flesh: "A hús puha, rugalmas, törékeny, fehér színű. Kellemes, gyenge gombaillatú és enyhe, finom ízű.",
-      sporePrint: "Fehér. A spórák közel gömbölydedek, simák vagy finoman szemölcsösek, méretük 3,5–5 × 3–4 μm, amiloidak.",
-      habitat: "Késő nyártól késő őszig terem elhalt, korhadó bükkfák (Fagus sylvatica) kidőlt törzsén és tuskóin, ritkábban más lombos fákon.",
-      uses: "Kiváló ehető csemegegomba! Fiatalon és frissen sütve, levesben vagy pirítva finom. Ritkasága miatt kíméletet érdemel.",
-      confusion: "A süngomba (Hericium erinaceus) tömör gömb alakú, hosszú tüskékkel és nem ágas-bogas. A fenyves petrezselyemgomba (Hericium alpestre) fenyőfán él.",
-      notes: "Egy 2019-es IUCN-felmérés nem fenyegetettként (Least Concern) sorolta be."
+      description: "Idős lombhullató fák elhalt faanyagán korallszerűen elágazó, fehér fogasgomba. Európa és Észak-Amerika mérsékelt övi lomberdeiben honos, főként bükkfán.",
+      cap: "A termőtest gazdagon elágazó korallszerű tömb, 10–30 cm széles és magas, egyetlen tuskóból szétágazó puha, törékeny ágakkal. Színe tiszta hófehér, idősödve krémszínűvé vagy sárgássá válik.",
+      hymenium: "Az elágazások alsó oldalán sorakozó finom, lecsüngő tüskék alkotják, amelyek 3–10 mm hosszúak, fehérek és hegyesek.",
+      stipe: "Rövid, vastag meddő tuskóval rögzül a fához, amelyből az elágazások szétterülnek.",
+      flesh: "A hús fehér, puha, rugalmas, nem színeződik. Szaga kellemes, enyhe gombaszag, íze jó, enyhe.",
+      sporePrint: "Fehér. A spórák kicsik, gömbölydedek, finoman pontozottak, amiloidok, körülbelül 3,5–5 × 3–4 μm méretűek.",
+      habitat: "Késő nyártól késő őszig terem elhalt bükk és más lombhullató fák vastag törzsén és tuskóin háborítatlan, idős erdőkben.",
+      uses: "Ehető, fiatalon kitűnő csemegegomba. Természeti értéke és ritkasága miatt azonban óvandó.",
+      confusion: "A Hericium erinaceus egy el nem ágazó párna, és tüskéi általában 1–5 cm hosszúak. A Hericium cirrhatum emeletes, vékony konzolokat képez különálló kalapokkal. Finom tüskék borítják a felső felületét is, és az alatta lévő tüskék körülbelül 10–15 mm hosszúak. A Hericium alpestre jegenyefenyőn nő Európától Közép-Ázsiáig. Tömörebb termetű. Tüskéi hosszabbak, mintegy 10–20 mm-esek, és csomókban állnak az ágvégeken ahelyett, hogy fésűszerűen sorakoznának az ágak mentén. Spórái nagyobbak, körülbelül (5–)5,5–6,5(–7) × 4,5–6(–6,5) μm méretűek, és húsa idős korban rózsaszínesre pirul. Egyes könyvek ezt a jegenyefenyő-gombát Hericium flagellum néven nevezik. A Hericium americanum Észak-Amerika keleti részén nő, főként keményfán. Zömökebb, rövidebb ágakkal, gyakran 1 cm-nél hosszabb tüskékkel, körülbelül 5,5–7 × 4,5–6 μm méretű spórákkal és rózsaszínes elszíneződéssel. A régebbi amerikai könyvek a Hericium coralloides nevet alkalmazták arra a gombára, és a Hericium ramosum nevet a rövid tüskés fajra. A Hericium abietis a csendes-óceáni északnyugaton nő tűlevelű fán, beleértve a jegenye- és hemlokfenyőt. Masszív termetű, spórái körülbelül 4,5–5,5 × 4–4,5 μm méretűek, és rózsaszínesre pirul. A Hydnum repandum és a Hydnum rufescens sima kalap alatt viselnek tüskéket, és a talajon nőnek.",
+      notes: "Lengyelországban egy nemzeti jegyzék sebezhetőként jelöli meg, és a vadon élő termőtestek 2014 óta részben védettek a szigorúbb korábbi védelem után. Németországban és Svájcban a veszélyeztetett fajok közé tartozik. Magyarországon védett gomba, természetvédelmi értéke 5 000 Ft. Idős, természetes bükkösök kulcsfontosságú indikátorfaja."
     }
     },
     sources: {
@@ -66575,7 +66581,7 @@ export const CATALOG = [
       pl: "czubnik cytrynowy",
       fr: "lépiote jaune",
       it: "lepiota di Birnbaum",
-      hu: "sárga bordásőzlábgomba"
+      hu: "sárga kérészgomba"
     },
     names: {
       en: [
@@ -66592,7 +66598,7 @@ export const CATALOG = [
       pl: ["czubajnik cytrynowy"],
       fr: ["lépiote de Birnbaum"],
       it: ["lepiota gialla"],
-      hu: ["sárga bordás-őzlábgomba"]
+      hu: ["sárga tarlógomba","üvegházi kérészgomba"]
     },
     text: {
       tr: {
@@ -66889,16 +66895,16 @@ export const CATALOG = [
       notes: "Nel terriccio tra il micelio si formano piccolissimi sclerozi duri tondeggianti giallo oro di circa 0,5–1 mm. È un fungo tossico se ingerito, causando disturbi gastrointestinali."
     },
     hu: {
-      description: "Trópusi és szubtrópusi szaprotróf gomba, amely a mérsékelt égövben üvegházakban, virágcserepekben és szobanövények földjén él világszerte.",
-      cap: "A kalap 2–6 cm átmérőjű, kezdetben tojásdad vagy harang alakú, később kiterül, közepén kifejezett tompa púppal. Színe élénk citromsárga, kénsárga vagy kanárisárga. Felülete sűrűn borított apró, sárga pelyhekkel és lisztszerű szemcsékkel; széle hosszan és feltűnően bordázott.",
-      hymenium: "A lemezek szabadon állók, sűrűn helyezkednek el, élénk citromsárgák vagy kénsárgák, nem változtatják a színüket.",
-      stipe: "A tönk 3–8 cm magas és 0,3–0,6 cm vastag, hengeres, alján gumószerűen megvastagodott. Színe a kalaphoz hasonló citromsárga, felülete pelyhes. Felső részén kis, sárga, múlékony gallér látható.",
-      flesh: "A hús nagyon vékony, törékeny, citromsárga színű. Szaga és íze nem jellegzetes.",
-      sporePrint: "Fehér. A spórák elliptikusak, simák, méretük 8–11 × 5–7 μm, dextrinoidak, csírapórussal.",
-      habitat: "Egész évben megjelenhet virágcserepekben, pálmaházakban, üvegházakban és orchideák ültetőközegében a meleg, nedves humuszos talajon.",
-      uses: "Mérgező gomba! Gyomor- és bélrendszeri panaszokat, hányást és hasmenést okoz birnbaumin alkaloidjai miatt. Fogyasztásra alkalmatlan.",
-      confusion: "A szalmasárga bordásőzlábgomba (Leucocoprinus straminellus) kissé halványabb, olykor fehéres, kisebb és törékenyebb, kisebb méretű (mintegy 5–7 × 4–6 μm-es), csírapórus nélküli spórákkal. A Leucocoprinus flavescens (Leucocoprinus flavescens) kalapja halványsárgás vagy fehér, barnás középpel és kisebb spórákkal. A Leucocoprinus tricolor (Leucocoprinus tricolor) kalapközepe barna, sárga színei halványabbak, tönk töve pedig krómsárga. A Leucocoprinus fragilissimus (Leucocoprinus fragilissimus) rendkívül vékony kalappal és halvány lemezekkel bír. A Leucocoprinus brunneoluteus (Leucocoprinus brunneoluteus) határozott barna púppal és vékony, törékeny hússal rendelkezik. A fehér bordásőzlábgomba (Leucocoprinus cretaceus) hasonló termetű, de krétafehér színű. A Leucoagaricus sulphurellus (Leucoagaricus sulphurellus) lemezei nyomásra élénk kékészöldre színeződnek. A kérészpapsapkagomba (Bolbitius titubans) füves területeken nő, sárga lemezei a spórák érésével fahéjbarnára váltanak, és tönkjén nincsen gallér.",
-      notes: "Micéliuma apró, 0,5–0,8 mm-es sárgásfehér szkleróciumokat képez a cserép talajában, amelyek nem károsítják a növényt."
+      description: "Melegkedvelő, élénksárga kistermetű csiperkeféle gomba üvegházakban, virágcserepekben és szobanövények földjén, a szabadban meleg nyarakon.",
+      cap: "A kalap 2–6 cm átmérőjű, és esetenként körülbelül 7 cm. Tojásdad, hengeres vagy kúpos alakban kezdődik, majd kiterülve széles domborúvá válik, tompa vagy kerekded púp körül. A perem vékony, és a sugaras barázdák vagy bordák messze befelé terjednek a közepe felé, gyakran a kalap sugarának a felén túl. Felülete száraz, nemezes vagy finoman pikkelyes-pelyhes. Színe élénk citromsárga, kénsárga vagy kanárisárga, a púpnál gyakran sötétebb sárga vagy okkersárga. A szín idősödve fakulhat, de nem barnul meg. A kalapbőr egy trichoderma, amely hengeres vagy orsó alakú, felálló láncokból és hifákból áll, sárga pigmenttartalommal.",
+      hymenium: "A lemezek szabadon állók és gyakran távoliak a tönktől. Kénsárgák, vagy kissé világosabbak, mint a kalap, sárga finoman pelyhes vagy fűrészes éllel. Sűrűn vagy közepesen sűrűn helyezkednek el, meglehetősen keskenyek, és rövidebb lemezekkel keverednek. Éréskor sem válnak barnává vagy rózsaszínűvé. A bazídiumok bunkó alakúak, körülbelül 18–26 × 7–9 μm méretűek, és négy spórát hordoznak csatlakozások nélkül. A heilocisztidák bőségesek, palack, orsó vagy bunkó alakúak, néha fejecskével vagy nyújtott nyakkal, körülbelül 30–65 × 10–18 μm méretűek. Pleurocisztidák hiányoznak.",
+      stipe: "A tönk 3–10 cm hosszú. A tönk teste általában 1,5–5 mm vastag, és egyes európai gyűjtések 5–8 mm vastagok. A töve duzzadt, gömbölyded vagy bunkós gumóvá válik, amely 8–20 mm széles lehet. Üreges, törékeny, és gyakran hajlott vagy hullámos. Színe sárga, mint a kalap, a töve felé kissé sötétebb, és fehér micélium fedi a bázisát. Felülete pelyhes vagy finoman szemcsés, a csúcsán pedig simább. Egy kis hártyás, sárga gallér ül a középső vagy felső tönkön. A gallér vékony, múlékony, és elcsúszhat a tönkön vagy hamar leeshet.",
+      flesh: "A hús vékony és tompa fehérestől a sárgásig terjed. Fiatalon szilárd, később puhábbá és törékenyebbé válik. Szaga gyenge, gombaszerű vagy kissé kellemetlen és savanykás. Íze enyhe, nem jellegzetes vagy kissé kesernyés.",
+      sporePrint: "Fehér. A spórák elliptikustól enyhén mandula alakúig terjednek, simák és vastag falúak, többnyire körülbelül 8–12 × 5–7 μm méretűek, és néha elérik a 13 × 8 μm-t. Jól kivehető csíranyílással rendelkeznek. Melzer-reagensben dextrinoidok, és a belső fal metilénkékkel metakromatikus.",
+      habitat: "A termőtestek humuszon, komposzton és virágföldön nőnek magányosan, szórtan vagy kis csoportokban virágcserepekben, üvegházakban és melegágyakban. Meleg időben a szabadban is teremnek kertekben, pázsitokon és bolygatott erdei talajon, néha tuskók körül. Fűtetlen brit üvegházakban júniustól októberig jelennek meg. Fűtött üvegházakban és beltéri cserepekben bármelyik hónapban felbukkanhatnak. Észak-Amerikában a szabadban nyáron teremnek. Egy egyiptomi gyűjtés egy elhalt citromfa tuskójából nőtt ki ősszel.",
+      uses: "Mérgező. Fogyasztása gyomor- és bélrendszeri tüneteket okoz. A növényre magára teljesen ártalmatlan szaprofita.",
+      confusion: "A Leucocoprinus straminellus kissé halványabb, néha fehéres, kisebb és törékenyebb, kisebb, körülbelül 5–7 × 4–6 μm-es spórákkal, amelyekből hiányzik a csíranyílás. A Leucocoprinus flavescens halvány sárgásfehér kalapú, barnás középponttal és kisebb spórákkal. A Leucocoprinus tricolor barna kalapközéppel, halványabb sárga színekkel és krómsárga tönktővel rendelkezik. A Leucocoprinus fragilissimus rendkívül vékony kalappal és sápadt lemezekkel bír. A Leucocoprinus brunneoluteus kifejezett barna púppal és vékony, törékeny hússal rendelkezik. A Leucocoprinus cretaceus hasonló termetű és krétafehér. A Leucoagaricus sulphurellus lemezei sérülésre élénk kékeszöldre színeződnek. A Bolbitius titubans gyepekben nő, sárga lemezei fahéjszínűvé válnak a spórák érésével, és tönkjén nincs gallér.",
+      notes: "Apró, kemény, körülbelül 0,5–0,8 mm hosszú szkleróciumok képződnek a talajon a micélium között. Fehéres bézstől a halvány sárgásfehérig terjednek. A gomba nem károsítja az élő növényt. Egy átlátszó orchideacserépben a szkleróciumok felhalmozódhatnak, ronthatják a növény megjelenését, és megváltoztathatják, ahogyan az aljzat megtartja a vizet. A sárga szín két indol alkaloidból, a birnbaumin A-ból és a birnbaumin B-ből származik. A birnbaumin B a fő pigment. A termőtestek elfogyasztása gasztroenteritisz-szerű megbetegedést okoz a beszámolók szerint. Hogy ez a mérgezés mennyire súlyos, az még bizonytalan, és egyes leírások a toxicitást ismeretlenként kezelik."
     }
     },
     sources: {
@@ -67336,7 +67342,7 @@ export const CATALOG = [
       sv: ['brödkorgsvamp', 'vanlig brödkorgsvamp'],
       ru: ["бокальчик гладкий"],
       uk: ["горшечник гладенький"],
-      hu: ["tégelygomba","sima fészekgomba"]
+      hu: ["közönséges madárfészekgomba"]
     },
     text: {
       tr: {
@@ -67632,16 +67638,16 @@ export const CATALOG = [
       notes: "Le gocce di pioggia che cadono direttamente nella coppa fungono da catapulta idraulica, schizzando i peridioli a diversi metri di distanza dove il cordoncino funicolare si avvolge sui rametti vicini per disperdere le spore."
     },
     hu: {
-      description: "Apró szaprotróf madárfészek-gomba, amely korhadó ágakon, fakérgen, faforgácson és növényi maradványokon él. Cirkumpoláris mérsékelt övi elterjedésű: Európa legtöbb részén, Észak-Amerikában Alaszka és Mexikó között, valamint Japánban, Ausztráliában és Új-Zélandon is megtalálható.",
-      cap: "A termőtest pohár vagy tégely alakú perídium, a szájánál 3–10 mm átmérőjű és 2–10 mm magas. Kezdetben párna alakú vagy közel gömbölyded, amelyet felül sárga vagy narancsszínű, nemezes hártya (epifragma) zár le. A hártya felszakadása után a termőtest hordó vagy tégely alakúvá válik, közel párhuzamos falakkal. A perídium fala egyetlen réteg szorosan összefonódott hifából áll (0,25–0,5 mm vastag). Külseje fiatalon sárga vagy okkersárga és durván nemezes; idővel simára kopik és fahéjbarnára vagy szürkésfehérre fakul. Belső felülete sima, fényes, fehéres vagy világosszürke.",
-      hymenium: "Lemezekkel vagy pórusokkal nem rendelkezik. A spóratermő szövet a tégelyben fekvő lencse alakú peridiólumokban (a „fészek tojásaiban”) található. Egy-egy kehely rendszerint 4–10 (néha 15) peridiólumot tartalmaz. Ezek lapított korong alakúak, 1–2 mm szélesek és 0,2–0,4 mm vastagok, halvány okkeresek vagy fehérek; mindegyiket fehéres külső burok (tunica) fedi. Minden peridiólumot egy rugalmas zsinór (funiculus) rögzít a kehely falához, amely egy kis bütyökben végződik a korong alatt. A peridiólum belsejét négyspórás bunkós bazídiumok bélelik.",
-      stipe: "Tönkje nincsen. A termőtest elkeskenyedő aljával közvetlenül tapad az aljzathoz.",
-      flesh: "A perídium fala vékony, szívós, bőrszerű réteg; szaga és íze nem jellegzetes.",
-      sporePrint: "Színtelen. A spórák hialinok, simák, vastag falúak és elliptikusak, méretük 6–11,5 × 3–6 μm.",
-      habitat: "A termőtestek magányosan, szétszórtan vagy sűrű csoportokban nőnek gallyakon, elhalt ágakon, tobozokon, dióhéjon, fahulladékon, növényi szárakon és szalmán lombos és vegyes erdőkben, kertekben és nyílt területeken. Ritkán találhatók vastag rönkökön vagy csupasz talajon. Kora nyártól késő őszig teremnek.",
-      uses: "Étkezésre alkalmatlan apró mérete és szívós bőrszerű állaga miatt.",
-      confusion: "A csíkos fészekgomba (Cyathus striatus) kehelybelseje hosszanti bordás és sötétebb barna. A sima fészekgomba (Cyathus olla) fala háromrétegű és nincs sárga lezáró hártyája. A Nidularia deformis nem rendelkezik rögzítőzsinórral a peridiólumoknál.",
-      notes: "A hulló esőcseppek loccsanása repíti ki a peridiólumokat a kehelyből, amelyek zsinórjukkal a környező növényzethez tapadnak, elősegítve a spórák terjesztését."
+      description: "Gallyak, faapríték és más fás törmelék apró szaprotróf gombája. Cirkumpoláris mérsékelt övi elterjedésű: Európa legtöbb részén feljegyezték, beleértve Szlovákiát és a Kanári-szigeteket, Észak-Amerikában Alaszkától Mexikóig, Chilében és Tűzföldön, valamint Izlandon, Japánban, Ausztráliában és Új-Zélandon is.",
+      cap: "A termőtest, egy serleget képező perídium, 3–10 mm széles a szájánál és 2–10 mm magas. Párna alakútól a majdnem kerekdedig kezdődik, és egy sárga vagy narancssárga, nemezes fedő zárja le. Ahogy a fedő leszakad, a termőtest hordó alakúvá, majd serleg vagy tégely alakúvá válik, majdnem párhuzamos oldalakkal. A fala szorosan összefonódott hifák egyetlen rétege, körülbelül 0,25–0,5 mm vastag. A külső felülete fiatalon sárga vagy okkersárga és durván nemezes. Idővel lekopik simára, fahéjszínűtől barnáig változik, és az öreg, viharvert serlegek piszkosfehérre fakulhatnak. A belseje sima, fényes és fehérestől a szürkéig terjed.",
+      hymenium: "Nincsenek lemezek vagy pórusok. A spóratermő szövet a peridiolákba záródik, a serlegben fekvő 'tojásokba'. Egy serleg általában körülbelül négy-tíz darabot tartalmaz belőlük, alkalmanként akár tizenötöt is. Lapítottak, korong alakúak, 1–2 mm szélesek és 0,2–0,4 mm vastagok, és a halványokkertől a fehérig terjednek; egy fehéres külső burok (a tunika) zárja le mindegyiket. Mindegyik peridiolát egy vaskos, rugalmas zsinór, a funiculus rögzíti a serleg falához, amely egy kis gombban végződik a korong alatt. Egy peridiola belsejében négy spórás bunkó alakú bazídiumok bélelik az üreget steril hifákkal keverve.",
+      stipe: "Nincs tönkje. A termőtest az elkeskenyedő tövével rögzül a fához vagy a törmelékhez.",
+      flesh: "A fal egy vékony, szilárd réteg, és nincs kifejezett szaga vagy íze.",
+      sporePrint: "Színtelen. A spórák hialinok, simák, vastag falúak és elliptikusak, körülbelül 6–11,5 × 3–6 μm méretűek.",
+      habitat: "A termőtestek magányosan, szórtan vagy sűrű csoportokban nőnek gallyakon, botokon, tobozokon, dióhéjakon, faaprítékon, régi gyékényen, növényszárakon, szalmán és trágyán, lombhullató, vegyes és fenyves erdőkben, valamint a szabadban. Ritkán találhatók meg nagy rönkökön vagy csupasz talajon. Kora nyártól késő őszig teremnek Európában, és tavasztól őszig Észak-Amerikában, vagy a télen át melegebb éghajlaton.",
+      uses: "Nem ehető apró mérete és bőrszerű állaga miatt.",
+      confusion: "A Cyathus fajok háromrétegű fallal rendelkeznek, hiányzik belőlük a sárgától narancssárgáig terjedő fedő, és a fiatal termőtesteket ehelyett egy vékony fehér hártya zárja le; a lekopott, viharvert Cyathusok, amelyekről a szőrös külső lekopott, könnyen összetéveszthetők vele. A Crucibulum parvulum kisebb, 1,5–3 mm széles a szájánál, és soha nem sárga. A Nidula nem rendelkezik a peridiolákat rögzítő zsinórral. A Nidularia deformis nem rendelkezik fedővel, és a korral sötétbarnává válik.",
+      notes: "Az esőcseppek vagy a felülről lehulló vízpermet kicsapja a peridiolákat a serlegből. A sima belső falak körülbelül 70–75°-os szöget zárnak be a vízszintessel, ami jó kilövellést biztosít. A peridiolák hajlamosak a közeli növényzetre tapadni, ahol a növényevők megehetik őket és terjeszthetik a spórákat. Folyékony tenyészetben a gomba szalfredineket termel, olyan vegyületeket, amelyek gátolják az aldóz-reduktáz enzimet."
     }
     },
     sources: {
