@@ -20,6 +20,12 @@ import {
   KEY_WHERE,
   identifySearch
 } from "./src/identifyQuery.mjs";
+import {
+  countByCountry,
+  countryName,
+  formatSeenWhen,
+  loadPublicSightings
+} from "./src/sightings.mjs";
 
 var PATH_LANGS = LANGS.map(function (item) { return item.code; }).filter(function (code) {
   return code !== "en";
@@ -77,6 +83,13 @@ function countLabel(n, lang) {
   var copy = t(lang);
   var category = languageOf(lang).plural(n);
   return copy[category].replace("{n}", String(n));
+}
+
+function recordsLabel(n, lang) {
+  var copy = t(lang);
+  var category = languageOf(lang).plural(n);
+  var key = "records" + category.charAt(0).toUpperCase() + category.slice(1);
+  return String(copy[key] || copy.recordsMany).replace("{n}", String(n));
 }
 
 function href(path, lang) {
@@ -1175,18 +1188,41 @@ function photoBand(species, lang) {
   );
 }
 
+function seenBand(species, lang) {
+  var copy = t(lang);
+  return (
+    '<section class="band" id="seen" data-latin="' + esc(species.name) + '">' +
+      '<div class="band-h"><h2>' + esc(copy.seen) + "</h2><p>" + esc(copy.seenLede) + "</p></div>" +
+      '<div class="seen">' +
+        '<div class="seen-main">' +
+          '<p class="muted seen-empty" hidden>' + esc(copy.noSightings) + "</p>" +
+          '<div class="obs"></div>' +
+        "</div>" +
+        '<aside class="aside">' +
+          '<h3 class="seen-count" hidden>' + esc(recordsLabel(0, lang)) + "</h3>" +
+          '<ul class="places" hidden></ul>' +
+          "<p>" + esc(copy.recordInApp) + "</p>" +
+          '<div class="app-icon-placeholder"><img src="/icon-192.png" alt="" width="64" height="64"></div>' +
+        "</aside>" +
+      "</div>" +
+    "</section>"
+  );
+}
+
 var light = null;
 var lightOverflow = "";
 
-function lightItems() {
-  return Array.prototype.map.call(document.querySelectorAll(".photos .photo-open"), function (button) {
+function lightItems(root) {
+  var scope = root || document.querySelector(".photos") || document;
+  return Array.prototype.map.call(scope.querySelectorAll(".photo-open, .obs-open"), function (button) {
     var img = button.querySelector("img");
     var figure = button.closest("figure");
     var credit = figure ? figure.querySelector(".credit") : null;
     return {
       src: img ? img.getAttribute("src") : "",
       caption: button.getAttribute("data-caption") || "",
-      credit: credit ? credit.innerHTML : ""
+      credit: credit ? credit.innerHTML : "",
+      plain: button.getAttribute("data-plain") === "1"
     };
   });
 }
@@ -1221,14 +1257,17 @@ function paintLightbox() {
   var image = node.querySelector("img");
   image.src = item.src;
   image.alt = item.caption;
-  node.querySelector(".lightbox-body p").textContent = item.caption;
+  var caption = node.querySelector(".lightbox-body p");
+  caption.textContent = item.caption;
+  caption.classList.toggle("plain", !!item.plain);
+  caption.hidden = !item.caption;
   var credit = node.querySelector(".lightbox-credit");
   credit.innerHTML = item.credit || "";
   credit.hidden = !item.credit;
 }
 
-function openLightbox(index) {
-  var items = lightItems();
+function openLightbox(index, root) {
+  var items = lightItems(root);
   if (!items.length) return;
   light = { items: items, index: (index + items.length) % items.length };
   paintLightbox();
@@ -1322,6 +1361,7 @@ function mushroomPage(lang, key) {
         "</div>" +
       "</section>" +
       photoBand(species, lang) +
+      seenBand(species, lang) +
       taxonomyBand(species, lang) +
     "</div>";
   var head = spoken ? spoken + " (" + species.name + ")" : species.name;
@@ -1584,6 +1624,8 @@ function render() {
     });
   }
   clearTimeout(searchTimer);
+  var seenHost = document.getElementById("seen");
+  if (seenHost) loadSeen(seenHost.getAttribute("data-latin") || "", route.lang);
   var input = document.getElementById("q");
   if (input) input.addEventListener("input", function () {
     var box = document.getElementById("results");
@@ -1607,6 +1649,61 @@ function render() {
 var listenersBound = false;
 var started = false;
 var searchTimer = 0;
+var seenToken = 0;
+
+function paintSeen(host, rows, lang) {
+  if (!host) return;
+  var locale = languageOf(lang).locale;
+  var empty = host.querySelector(".seen-empty");
+  var grid = host.querySelector(".obs");
+  var count = host.querySelector(".seen-count");
+  var places = host.querySelector(".places");
+  var shown = rows.slice(0, 8);
+  if (empty) empty.hidden = shown.length > 0;
+  if (count) {
+    count.hidden = false;
+    count.textContent = recordsLabel(rows.length, lang);
+  }
+  if (grid) {
+    grid.innerHTML = shown.map(function (row, index) {
+      var when = formatSeenWhen(row.when, locale);
+      var where = countryName(row.country, locale);
+      var caption = [when, where].filter(Boolean).join(" · ");
+      return (
+        "<figure>" +
+          '<button type="button" class="obs-open" data-index="' + index + '" data-caption="' + esc(caption) + '" data-plain="1"' +
+            (caption ? ' aria-label="' + esc(caption) + '"' : "") + ">" +
+            '<img src="' + esc(row.url) + '" alt="" loading="lazy">' +
+          "</button>" +
+          (caption ? "<figcaption>" + esc(caption) + "</figcaption>" : "") +
+        "</figure>"
+      );
+    }).join("");
+  }
+  if (places) {
+    var countries = countByCountry(rows, locale);
+    places.hidden = countries.length === 0;
+    places.innerHTML = countries.map(function (row) {
+      return "<li>" + esc(row.name) + " <span>" + esc(String(row.count)) + "</span></li>";
+    }).join("");
+  }
+}
+
+function loadSeen(latin, lang) {
+  var token = ++seenToken;
+  var name = String(latin || "");
+  loadPublicSightings(name).then(function (rows) {
+    if (token !== seenToken) return;
+    var host = document.getElementById("seen");
+    if (!host || host.getAttribute("data-latin") !== name) return;
+    paintSeen(host, rows, lang);
+  }).catch(function () {
+    if (token !== seenToken) return;
+    var host = document.getElementById("seen");
+    if (!host || host.getAttribute("data-latin") !== name) return;
+    paintSeen(host, [], lang);
+  });
+}
 
 function revealWhere() {
   var whereField = document.getElementById("identify-where");
@@ -1646,9 +1743,12 @@ document.addEventListener("click", function (event) {
     else refuseAnalytics();
     return;
   }
-  var opener = event.target.closest(".photo-open");
+  var opener = event.target.closest(".photo-open, .obs-open");
   if (opener) {
-    openLightbox(Number(opener.getAttribute("data-index")) || 0);
+    var gallery = opener.closest(".photos, .obs") || document;
+    var buttons = gallery.querySelectorAll(".photo-open, .obs-open");
+    var index = Array.prototype.indexOf.call(buttons, opener);
+    openLightbox(index < 0 ? 0 : index, gallery);
     return;
   }
   if (light) {
@@ -1816,5 +1916,6 @@ export {
   visibleListIds,
   listSpecies,
   countLabel,
+  recordsLabel,
   start
 };

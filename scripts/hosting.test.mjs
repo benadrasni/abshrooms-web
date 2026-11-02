@@ -59,6 +59,8 @@ test('the content security policy allows json-ld, list styles, and self-hosted f
   assert.match(csp, /style-src 'self' 'unsafe-inline'/);
   assert.match(csp, /script-src-attr 'none'/);
   assert.match(csp, /connect-src [^;]*https:\/\/www\.cloudflare\.com/);
+  assert.match(csp, /connect-src [^;]*https:\/\/firestore\.googleapis\.com/);
+  assert.match(csp, /img-src [^;]*https:\/\/firebasestorage\.googleapis\.com/);
   assert.doesNotMatch(csp, /https:\/\/\*\.cloudflare\.com/);
   assert.doesNotMatch(csp, /fonts\.googleapis\.com/);
   assert.match(csp, /connect-src[^;]* https:\/\/analytics\.google\.com /);

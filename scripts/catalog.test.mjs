@@ -1,6 +1,6 @@
 import assert from 'node:assert/strict';
 import test from 'node:test';
-import { COPY, LANGS, CATALOG as siteCatalog, countLabel, parse, viewModel } from '../catalog.js';
+import { COPY, LANGS, CATALOG as siteCatalog, countLabel, parse, recordsLabel, viewModel } from '../catalog.js';
 import { EN_GB, prefersBritishEnglish } from '../copy.js';
 import { CATALOG } from '../species.js';
 
@@ -333,6 +333,34 @@ test('a species page shows the plate and photo credits stored on the record', ()
   const about = viewModel({ lang: 'en', view: 'about', search: '' });
   assert.match(about.html, /class="credit">(?:<a[^>]*>)?L\. Dufour/);
   assert.match(about.html, />UuMUfQ</);
+});
+
+test('a species page has Seen in the wild and an app-icon placeholder', () => {
+  const page = viewModel({ lang: 'en', view: 'mushroom', key: 'Boletus edulis', search: '' });
+  assert.match(page.html, /id="seen" data-latin="Boletus edulis"/);
+  assert.match(page.html, /<h2>Seen in the wild<\/h2>/);
+  assert.match(page.html, /Public observations only\. Country and month, not a street pin\./);
+  assert.match(page.html, /<p class="muted seen-empty" hidden>No public sightings yet\.<\/p>/);
+  assert.match(page.html, /<h3 class="seen-count" hidden>0 public records<\/h3>/);
+  assert.match(page.html, /Record one in the app/);
+  assert.match(page.html, /class="app-icon-placeholder"><img src="\/icon-192\.png"/);
+  assert.equal(page.html.includes('play.google.com'), false);
+  assert.equal(page.html.includes('apps.apple.com'), false);
+  assert.equal(recordsLabel(1, 'en'), '1 public record');
+  assert.equal(recordsLabel(0, 'en'), '0 public records');
+  assert.equal(recordsLabel(2, 'en'), '2 public records');
+  assert.equal(recordsLabel(1, 'sk'), '1 verejný záznam');
+  assert.equal(recordsLabel(2, 'sk'), '2 verejné záznamy');
+  assert.equal(recordsLabel(5, 'sk'), '5 verejných záznamov');
+  assert.equal(recordsLabel(2, 'sl'), '2 javna zapisa');
+  assert.equal(recordsLabel(0, 'fr'), '0 mention publique');
+  const slovak = viewModel({ lang: 'sk', view: 'mushroom', key: 'Boletus edulis', search: '' });
+  assert.match(slovak.html, /<h2>Nájdené v prírode<\/h2>/);
+  assert.match(slovak.html, /<h3 class="seen-count" hidden>0 verejných záznamov<\/h3>/);
+  const order = page.html.indexOf('In the field');
+  const seen = page.html.indexOf('Seen in the wild');
+  const taxonomy = page.html.indexOf('>Taxonomy<');
+  assert.ok(order > 0 && order < seen && seen < taxonomy);
 });
 
 const STIPE_FIELDS = ['stipeHeightFrom', 'stipeHeightTo', 'stipeThickFrom', 'stipeThickTo'];
