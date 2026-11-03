@@ -675,5 +675,8 @@ export const TAXA = {
   },
   Parasola: {
     rank: "genus"
+  },
+  Hymenopellis: {
+    rank: "genus"
   }
 };

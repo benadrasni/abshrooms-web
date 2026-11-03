@@ -1023,6 +1023,74 @@ function section(label, text) {
   return '<div class="sec"><div class="k">' + esc(label) + "</div><p>" + esc(text) + "</p></div>";
 }
 
+var lookalikeAccepted = null;
+var lookalikeSynonyms = null;
+
+function ensureLookalikes() {
+  if (lookalikeAccepted) return;
+  lookalikeAccepted = {};
+  lookalikeSynonyms = {};
+  CATALOG.forEach(function (species) {
+    lookalikeAccepted[species.name.toLowerCase()] = species;
+    (species.synonyms || []).forEach(function (citation) {
+      var match = String(citation).match(/^([A-Z][A-Za-z-]{2,}) ([a-z][a-z-]{2,})\b/);
+      if (!match) return;
+      var key = (match[1] + " " + match[2]).toLowerCase();
+      if (lookalikeAccepted[key]) return;
+      var owners = lookalikeSynonyms[key];
+      if (!owners) {
+        lookalikeSynonyms[key] = [species];
+        return;
+      }
+      var i;
+      for (i = 0; i < owners.length; i++) {
+        if (owners[i].name === species.name) return;
+      }
+      owners.push(species);
+    });
+  });
+}
+
+// An accepted name wins. A MycoBank synonym links only when one species owns it.
+function speciesForMention(binomial, currentName) {
+  ensureLookalikes();
+  var key = binomial.toLowerCase();
+  var exact = lookalikeAccepted[key];
+  if (exact) return exact.name === currentName ? null : exact;
+  var owners = lookalikeSynonyms[key] || [];
+  if (owners.length !== 1 || owners[0].name === currentName) return null;
+  return owners[0];
+}
+
+function linkedLatin(text, currentName, lang) {
+  var re = /\b([A-Z][A-Za-z-]{2,}) ([a-z][a-z-]{2,})\b/g;
+  var out = "";
+  var last = 0;
+  var match;
+  while ((match = re.exec(text)) !== null) {
+    var binomial = match[1] + " " + match[2];
+    var target = speciesForMention(binomial, currentName);
+    out += esc(text.slice(last, match.index));
+    if (target) {
+      // Latin stays left to right inside Arabic, Hebrew, and Persian paragraphs.
+      out += '<a class="latin" data-source="lookalike" href="' +
+        esc(href("/mushroom/" + encodeURIComponent(target.name), lang)) +
+        '"><bdi dir="ltr">' + esc(binomial) + "</bdi></a>";
+    } else {
+      out += esc(binomial);
+    }
+    last = match.index + match[0].length;
+  }
+  out += esc(text.slice(last));
+  return out;
+}
+
+function lookalikesHtml(lang, label, text, currentName) {
+  if (!text) return "";
+  return '<div class="sec"><div class="k">' + esc(label) + "</div><p>" +
+    linkedLatin(text, currentName, lang) + "</p></div>";
+}
+
 function moreNames(copy, n) {
   var template = copy.moreNames;
   if (n === 1 && copy.moreNamesOne) template = copy.moreNamesOne;
@@ -1357,7 +1425,7 @@ function mushroomPage(lang, key) {
           section(copy.spore, text.sporePrint) +
           section(copy.habitat, text.habitat) +
           (text.uses ? '<aside class="note uses"><div class="k">' + esc(copy.uses) + '</div><p class="disclaimer">' + esc(edible ? copy.usesNote : copy.usesCaution) + "</p><p>" + esc(text.uses) + "</p></aside>" : "") +
-          (text.confusion ? section(copy.lookalikes, text.confusion) : "") +
+          (text.confusion ? lookalikesHtml(lang, copy.lookalikes, text.confusion, species.name) : "") +
         "</div>" +
       "</section>" +
       photoBand(species, lang) +
@@ -1812,7 +1880,9 @@ document.addEventListener("click", function (event) {
     var speciesName = mushroomPath[1];
     try { speciesName = decodeURIComponent(speciesName); } catch (err) { /* keep the raw segment */ }
     speciesName = speciesName.replace(/_/g, " ");
-    var source = results ? "search" : link.closest(".identify-page") ? "key" : "list";
+    var source = link.getAttribute("data-source") === "lookalike"
+      ? "lookalike"
+      : results ? "search" : link.closest(".identify-page") ? "key" : "list";
     trackMushroom(speciesName, source);
   }
   if (url.hostname === "whatsthatflower.com") {

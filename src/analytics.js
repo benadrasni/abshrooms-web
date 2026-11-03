@@ -316,7 +316,7 @@ export function trackFilterResult({ under, where, color, season, count }) {
   if (mode === 'on') sendFilter(queuedFilter);
 }
 
-/** A species opened from search, the key, or a list. Matches the app event. */
+/** A species opened from search, the key, a list, or a lookalike. Matches the app event. */
 export function trackMushroom(name, source) {
   if (!ready()) return;
   const itemId = String(name || '').trim().slice(0, 100);

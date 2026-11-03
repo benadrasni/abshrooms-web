@@ -335,6 +335,57 @@ test('a species page shows the plate and photo credits stored on the record', ()
   assert.match(about.html, />UuMUfQ</);
 });
 
+function lookalikesParagraph(html, heading) {
+  const marker = `<div class="k">${heading}</div><p>`;
+  const start = html.indexOf(marker);
+  assert.ok(start >= 0, heading);
+  const from = start + marker.length;
+  return html.slice(from, html.indexOf('</p>', from));
+}
+
+test('lookalikes link a species that is in the book', () => {
+  const reticulatus = viewModel({ lang: 'en', view: 'mushroom', key: 'Boletus reticulatus', search: '' });
+  const summer = lookalikesParagraph(reticulatus.html, 'Lookalikes');
+  assert.match(summer, /<a class="latin" data-source="lookalike" href="\/mushroom\/Boletus%20edulis\/"><bdi dir="ltr">Boletus edulis<\/bdi><\/a>/);
+  assert.match(summer, /href="\/mushroom\/Boletus%20aereus\/"/);
+  assert.match(summer, /href="\/mushroom\/Tylopilus%20felleus\/"/);
+  assert.match(summer, /href="\/mushroom\/Rubroboletus%20satanas\/"/);
+
+  const edulis = viewModel({ lang: 'en', view: 'mushroom', key: 'Boletus edulis', search: '' });
+  const penny = lookalikesParagraph(edulis.html, 'Lookalikes');
+  assert.match(penny, /kept separate from Boletus edulis\./);
+  assert.equal(penny.includes('/mushroom/Boletus%20edulis/'), false);
+  assert.equal(penny.includes('Boletus betulicola</bdi>'), false);
+  assert.match(penny, /href="\/mushroom\/Boletus%20reticulatus\/"/);
+  assert.match(penny, /href="\/mushroom\/Tylopilus%20felleus\/"/);
+
+  const virosa = viewModel({ lang: 'en', view: 'mushroom', key: 'Amanita virosa', search: '' });
+  const destroying = lookalikesParagraph(virosa.html, 'Lookalikes');
+  assert.match(
+    destroying,
+    /<a class="latin" data-source="lookalike" href="\/mushroom\/Amanita%20citrina\/"><bdi dir="ltr">Amanita citrina<\/bdi><\/a> var\. alba/
+  );
+  assert.match(destroying, /Agaricus species, including Agaricus sylvicola/);
+  assert.equal(destroying.includes('Agaricus%20sylvicola'), false);
+  assert.match(destroying, /href="\/mushroom\/Agaricus%20campestris\/"/);
+  assert.match(destroying, /href="\/mushroom\/Amanita%20verna\/"/);
+  assert.match(destroying, /href="\/mushroom\/Amanita%20phalloides\/"/);
+
+  const nuda = viewModel({ lang: 'en', view: 'mushroom', key: 'Lepista nuda', search: '' });
+  const blewitt = lookalikesParagraph(nuda.html, 'Lookalikes');
+  assert.match(blewitt, /href="\/mushroom\/Collybia%20personata\/"><bdi dir="ltr">Lepista personata<\/bdi>/);
+  assert.match(blewitt, /href="\/mushroom\/Collybia%20personata\/"><bdi dir="ltr">Lepista saeva<\/bdi>/);
+
+  const calopus = viewModel({ lang: 'en', view: 'mushroom', key: 'Caloboletus calopus', search: '' });
+  const bitter = lookalikesParagraph(calopus.html, 'Lookalikes');
+  assert.match(bitter, /Melzer&#39;s/);
+  assert.equal(bitter.includes("Melzer's"), false);
+
+  const slovak = viewModel({ lang: 'sk', view: 'mushroom', key: 'Boletus reticulatus', search: '' });
+  const skPara = lookalikesParagraph(slovak.html, COPY.sk.lookalikes);
+  assert.match(skPara, /href="\/sk\/mushroom\/Boletus%20edulis\/"/);
+});
+
 test('a species page has Seen in the wild and an app-icon placeholder', () => {
   const page = viewModel({ lang: 'en', view: 'mushroom', key: 'Boletus edulis', search: '' });
   assert.match(page.html, /id="seen" data-latin="Boletus edulis"/);
