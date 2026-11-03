@@ -672,5 +672,8 @@ export const TAXA = {
   Coprinellus: {
     rank: "genus",
     pl: "czernidłaczek"
+  },
+  Parasola: {
+    rank: "genus"
   }
 };

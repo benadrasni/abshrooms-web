@@ -78125,5 +78125,1855 @@ export const CATALOG = [
       "Gomphos orellanus (Fr.) Kuntze",
       "Cortinarius rutilans Quél."
     ]
+  },
+  {
+    id: 96,
+    name: "Clathrus columnatus",
+    author: "Bosc",
+    family: "Phallaceae",
+    genus: "Clathrus",
+    order: "Phallales",
+    edibility: "inedible",
+    hymenium: "gleba",
+    where: ["ground", "wood", "grass"],
+    color: ["red", "yellow", "white"],
+    path: [
+      "Fungi",
+      "Dikarya",
+      "Basidiomycota",
+      "Agaricomycotina",
+      "Agaricomycetes",
+      "Phallomycetidae",
+      "Phallales",
+      "Phallaceae",
+      "Clathrus"
+    ],
+    summary: ["Phallales", "Phallaceae", "Clathrus"],
+    added: "2026-11-03",
+    plate: STORAGE + "photos/Phallales/Phallaceae/Clathrus_columnatus/Clathrus_columnatus@1600.webp",
+    plateGrid: STORAGE + "photos/Phallales/Phallaceae/Clathrus_columnatus/Clathrus_columnatus@400.webp",
+    plateCredit: {
+      author: "Gemini",
+      license: "not stated"
+    },
+    photos: [
+      {
+        src: STORAGE + "photos/Phallales/Phallaceae/Clathrus_columnatus/cc1.webp",
+        author: "Alex Abair",
+        license: "CC BY 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Clathrus_columnatus_110971244.jpg"
+      },
+      {
+        src: STORAGE + "photos/Phallales/Phallaceae/Clathrus_columnatus/cc2.webp",
+        author: "Alex Abair",
+        license: "CC BY 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Clathrus_columnatus_248790793.jpg"
+      },
+      {
+        src: STORAGE + "photos/Phallales/Phallaceae/Clathrus_columnatus/cc3.webp",
+        author: "Alexey Sergeev",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Clathrus_columnatus_Bosc_849632.jpg"
+      },
+      {
+        src: STORAGE + "photos/Phallales/Phallaceae/Clathrus_columnatus/cc4.webp",
+        author: "Alexander Abair",
+        license: "CC BY 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Clathrus_columnatus_emerging.jpg"
+      },
+      {
+        src: STORAGE + "photos/Phallales/Phallaceae/Clathrus_columnatus/cc5.webp",
+        author: "gillow2e",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:2016-10-14_Clathrus_columnatus_Bosc_705551.jpg"
+      },
+      {
+        src: STORAGE + "photos/Phallales/Phallaceae/Clathrus_columnatus/cc6.webp",
+        author: "Bob Peterson",
+        license: "CC BY-SA 2.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0",
+        source: "https://commons.wikimedia.org/wiki/File:Stinkhorn_Fungus_(Clathrus_columnatus)_(6386125953).jpg"
+      }
+    ],
+    capFrom: 2,
+    capTo: 4,
+    fruitingFrom: 3,
+    fruitingTo: 11,
+    label: {
+      en: "column stinkhorn",
+      ja: "ヨツデタケ",
+      ru: "решёточник колоннообразный"
+    },
+    names: {
+      en: ["columned stinkhorn"]
+    },
+    text: {
+      en: {
+        description: "A saprotrophic stinkhorn with two to five spongy, orange to red columns that rise from a white egg and join at the top. It grows alone or in groups on sandy soil, lawns and wood-chip mulch in warm regions of the Americas, Africa and Oceania. The foul-smelling spore slime inside the columns attracts flies.",
+        cap: "The young fruit body is a whitish to greyish egg 2–5 cm across, with a brownish gelatinous layer under the skin that surrounds the red to orange fruit body folded inside. The mature fruit body is 5–12 cm tall and 2–4 cm wide, although some sources give a height of up to 8 cm. It consists of two to five hollow, spongy columns, usually three to four, up to about 1 cm thick. They arise separately from the volva and join seamlessly in an arch at the top. They are orange to red, fading to pink or yellowish towards the base, and finely pocketed.",
+        hymenium: "There are no gills or pores. The spore-bearing tissue is the gleba, a brown to olive-brown, sticky, foul-smelling slime that is smeared on the inner surfaces of the columns, near or just below the top. Its smell draws flies and other insects, which feed on it and carry the spores away.",
+        stipe: "There is no stem. The columns rise separately from a thick, loose, white, sac-like volva, the remains of the egg skin, which stays around the base. The base is anchored to the ground by white cords (rhizomorphs).",
+        flesh: "The columns are hollow, soft and spongy, with a finely pocketed surface. When an egg is cut open, the red to orange young fruit body is visible, embedded in a brownish gelatinous layer.",
+        sporePrint: "Olive-brown. The spores are smooth and ellipsoid to cylindrical, about 3.5–5 × 1.5–2.5 μm.",
+        habitat: "A saprotrophic fungus that grows alone, scattered or in groups on or near woody debris, buried roots and stumps, in sandy soil, lawns, gardens and wood-chip mulch, often in disturbed or landscaped places. It fruits from spring to autumn, and through the winter in warm climates, especially after wet weather. It occurs in North, Central and South America, Africa, China and Oceania, and may have been introduced to North America with exotic plants.",
+        uses: "Not used as food. The egg is described as mild-tasting and one guide lists the species as edible, but the mature fruit body smells foul. Two old reports describe poisoning, convulsions in a girl who ate a small piece and the death of hogs that ate it, so it is best treated as inedible.",
+        confusion: "Pseudocolus fusiformis has three to four arms that arise from a shared, sometimes very short stem hidden in the volva, spore slime over at least the upper half of the arms, and a greyish to grey-brown egg and volva. Teased out of the volva, the arms of this species are clearly separate. Clathrus bicolumnatus is smaller, up to 9 cm tall, and has only two columns. Clathrus ruber forms a globular lattice instead of columns.",
+        notes: "The species name columnatus is Latin for supported by pillars. The species was first described from South Carolina by the French botanist Bosc in 1811. The gleba hangs below the arch of the receptacle. A sap beetle, Psilopyga fasciata, has been recorded feeding on the gleba of Mexican specimens."
+      },
+      sk: {
+        description: "Saprotrofná smradľavá huba s dvoma až piatimi hubovitými, oranžovými až červenými stĺpmi, ktoré vyrastajú z bieleho vajca a na vrchu sa spájajú. Rastie jednotlivo alebo v skupinách na piesočnatej pôde, trávnikoch a v mulčovacej kôre v teplých oblastiach Ameriky, Afriky a Oceánie. Páchnuci výtrusný sliz vo vnútri stĺpov priťahuje muchy.",
+        cap: "Mladá plodnica je belavé až sivastré vajce široké 2–5 cm s hnedastou rôsolovitou vrstvou pod kožkou, ktorá obklopuje červenú až oranžovú plodnicu zloženú vo vnútri. Zrelá plodnica je 5–12 cm vysoká a 2–4 cm široká, hoci niektoré zdroje uvádzajú výšku najviac 8 cm. Tvorí ju dva až päť dutých, hubovitých stĺpov, zvyčajne tri až štyri, hrubých asi do 1 cm. Vyrastajú oddelene z pošvy a navrchu sa bez švu spájajú do oblúka. Sú oranžové až červené, k báze blednú do ružova alebo do žltkasta a majú jemne jamkatý povrch.",
+        hymenium: "Lupene ani póry nemá. Výtrusorodým pletivom je gleba, hnedá až olivovohnedá, lepkavá a páchnuca slizovitá hmota, ktorá je rozotretá po vnútorných povrchoch stĺpov, blízko vrcholu alebo tesne pod ním. Jej pach priťahuje muchy a iný hmyz, ktorý ju požiera a roznáša výtrusy.",
+        stipe: "Hlúbik nemá. Stĺpy vyrastajú oddelene z hrubej, voľnej, bielej vakovitej pošvy, zvyšku obalu vajca, ktorá zostáva okolo bázy. Báza je k pôde pripevnená bielymi povrazcami (rizomorfami).",
+        flesh: "Stĺpy sú duté, mäkké a hubovité s jemne jamkatým povrchom. Keď vajce rozrežeme, vidno červenú až oranžovú mladú plodnicu, uloženú v hnedastej rôsolovitej vrstve.",
+        sporePrint: "Olivovohnedý. Výtrusy sú hladké, elipsoidné až valcovité, veľké asi 3,5–5 × 1,5–2,5 μm.",
+        habitat: "Saprotrofná huba, ktorá rastie jednotlivo, roztrúsene alebo v skupinách na drevnom odpade alebo v jeho blízkosti, na zakopaných koreňoch a pňoch, na piesočnatej pôde, trávnikoch, v záhradách a v mulčovacej kôre, často na narušených alebo upravených miestach. Plodí od jari do jesene a v teplom podnebí aj cez zimu, najmä po daždi. Vyskytuje sa v Severnej, Strednej a Južnej Amerike, v Afrike, Číne a Oceánii a do Severnej Ameriky mohla byť zavlečená s exotickými rastlinami.",
+        uses: "Nepoužíva sa ako potravina. Vajce sa opisuje ako jemnej chuti a jedna príručka druh uvádza ako jedlý, no zrelá plodnica páchne. Dve staré správy opisujú otravu, kŕče u dievčaťa, ktoré zjedlo malý kúsok, a uhynutie ošípaných, ktoré ju zožrali, preto ju treba považovať za nejedlú.",
+        confusion: "Pseudocolus fusiformis má tri až štyri ramená, ktoré vyrastajú zo spoločného, niekedy veľmi krátkeho hlúbika ukrytého v pošve, výtrusný sliz aspoň na hornej polovici ramien a sivastré až sivohnedé vajce a pošvu. Ak ramená vyslobodíme z pošvy, u tohto druhu sú zreteľne oddelené. Clathrus bicolumnatus je menší, vysoký do 9 cm, a má len dva stĺpy. Clathrus ruber tvorí guľovitú mriežku namiesto stĺpov.",
+        notes: "Druhové meno columnatus je latinsky podopretý stĺpmi. Druh prvýkrát opísal z Južnej Karolíny francúzsky botanik Bosc v roku 1811. Gleba visí pod oblúkom receptákula. Chrobák z čeľade lesklôčkovitých Psilopyga fasciata bol zaznamenaný pri požieraní gleby na mexických exemplároch."
+      },
+      ar: {
+        description: "فطر رمّي كريه الرائحة له من عمودين إلى خمسة أعمدة إسفنجية برتقالية إلى حمراء تخرج من بيضة بيضاء وتلتحم في الأعلى. ينمو منفردًا أو في مجموعات على التربة الرملية والمروج ونشارة الخشب في المناطق الدافئة من الأمريكتين وأفريقيا وأوقيانوسيا. ويجذب مخاط الأبواغ كريه الرائحة داخل الأعمدة الذباب.",
+        cap: "الجسم الثمري اليافع بيضة بيضاء إلى رمادية عرضها ٢–٥ سم، وتحت جلدها طبقة هلامية مائلة إلى البني تحيط بالجسم الثمري الأحمر إلى البرتقالي المطوي في الداخل. أما الجسم الثمري الناضج فارتفاعه ٥–١٢ سم وعرضه ٢–٤ سم، مع أن بعض المصادر تذكر ارتفاعًا يصل إلى ٨ سم. يتكوّن من عمودين إلى خمسة أعمدة مجوفة إسفنجية، وعادة من ثلاثة إلى أربعة، يبلغ سمكها نحو ١ سم. تنشأ منفصلة من الفولفا وتلتحم دون فاصل في قوس عند القمة. لونها برتقالي إلى أحمر ويبهت نحو القاعدة إلى الوردي أو المصفرّ، وسطحها مُنقَّر بدقة.",
+        hymenium: "لا توجد خياشيم ولا مسام. النسيج الحامل للأبواغ هو الغليبا، وهي مادة مخاطية لزجة كريهة الرائحة لونها بني إلى بني زيتوني، تُدهن بها الأسطح الداخلية للأعمدة قرب القمة أو أسفلها مباشرة. تجذب رائحتها الذباب وحشرات أخرى تأكلها وتنشر الأبواغ.",
+        stipe: "لا يوجد ساق. تخرج الأعمدة منفصلة من فولفا سميكة رخوة بيضاء على شكل كيس، وهي بقية جلد البيضة، تبقى حول القاعدة. وتتثبت القاعدة في الأرض بخيوط بيضاء (ريزومورفات).",
+        flesh: "الأعمدة مجوفة ليّنة إسفنجية وسطحها مُنقَّر بدقة. وعند شق البيضة يظهر الجسم الثمري اليافع الأحمر إلى البرتقالي مغمورًا في طبقة هلامية مائلة إلى البني.",
+        sporePrint: "بني زيتوني. الأبواغ ملساء بيضوية إلى أسطوانية، بقياس نحو ٣٫٥–٥ × ١٫٥–٢٫٥ ميكرومتر.",
+        habitat: "فطر رمّي ينمو منفردًا أو متفرقًا أو في مجموعات على بقايا الخشب أو قربها، وعلى الجذور والجذوع المدفونة، وفي التربة الرملية والمروج والحدائق ونشارة الخشب، وغالبًا في أماكن مضطربة أو مهيّأة. يثمر من الربيع إلى الخريف، وطوال الشتاء في المناخات الدافئة، خاصة بعد الأمطار. يوجد في أمريكا الشمالية والوسطى والجنوبية وأفريقيا والصين وأوقيانوسيا، وربما أُدخل إلى أمريكا الشمالية مع نباتات غريبة.",
+        uses: "لا يُستعمل غذاءً. يوصف طعم البيضة بأنه معتدل، ويُدرج أحد الأدلة النوع بين الصالحة للأكل، لكن الجسم الثمري الناضج كريه الرائحة. ويصف تقريران قديمان تسممًا، فقد أصيبت فتاة أكلت قطعة صغيرة بتشنجات، ونفقت خنازير أكلته، لذا الأفضل اعتباره غير صالح للأكل.",
+        confusion: "يملك Pseudocolus fusiformis ثلاثة إلى أربعة أذرع تنشأ من ساق مشتركة، قصيرة جدًا أحيانًا ومخبأة في الفولفا، ومخاط الأبواغ يغطي النصف العلوي من الأذرع على الأقل، وبيضته وفولفاه رمادية إلى بنية رمادية. وعند تحرير أذرع هذا النوع من الفولفا تبدو منفصلة بوضوح. أما Clathrus bicolumnatus فأصغر، ارتفاعه حتى ٩ سم، وله عمودان فقط. ويكوّن Clathrus ruber شبكة كروية بدل الأعمدة.",
+        notes: "اسم النوع columnatus لاتيني ومعناه المدعوم بأعمدة. وصف النوع أول مرة من ساوث كارولاينا عالم النبات الفرنسي بوسك عام ١٨١١. تتدلى الغليبا تحت قوس الحامل الثمري. وسُجّل أن خنفساء العصارة Psilopyga fasciata تتغذى على الغليبا في عينات مكسيكية."
+      },
+      bg: {
+        description: "Сапротрофна воняща гъба с два до пет гъбести, оранжеви до червени стълба, които израстват от бяло яйце и горе се сливат. Расте единично или на групи по песъчлива почва, тревни площи и дървесна мулч в топлите райони на Америка, Африка и Океания. Миришещата на гниене спорова слуз във вътрешността на стълбовете привлича мухи.",
+        cap: "Младото плодно тяло е белезникаво до сивкаво яйце с диаметър 2–5 cm, под чиято обвивка има кафеникав желатинов слой, обграждащ сгънатото вътре червено до оранжево плодно тяло. Зрялото плодно тяло е високо 5–12 cm и широко 2–4 cm, макар че някои източници посочват височина до 8 cm. Състои се от два до пет кухи, гъбести стълба, обикновено три до четири, дебели до около 1 cm. Те излизат отделно от вагината и горе се сливат без шев в арка. Оранжеви до червени са, към основата избледняват до розово или жълтеникаво и са с фино ямкована повърхност.",
+        hymenium: "Няма пластинки или пори. Спороносната тъкан е глебата — кафява до маслиненокафява, лепкава и зловонна слуз, размазана по вътрешните страни на стълбовете близо до върха или малко под него. Миризмата ѝ привлича мухи и други насекоми, които я ядат и разнасят спорите.",
+        stipe: "Краче няма. Стълбовете излизат отделно от дебела, рехава, бяла чувалчеста вагина, остатък от обвивката на яйцето, която остава около основата. Основата е закрепена за почвата с бели нишки (ризоморфи).",
+        flesh: "Стълбовете са кухи, меки и гъбести, с фино ямкована повърхност. При разрязване на яйцето се вижда червеното до оранжево младо плодно тяло, потопено в кафеникав желатинов слой.",
+        sporePrint: "Маслиненокафяв. Спорите са гладки, елипсоидни до цилиндрични, около 3,5–5 × 1,5–2,5 μm.",
+        habitat: "Сапротрофна гъба, която расте единично, пръснато или на групи върху дървесни остатъци или близо до тях, върху заровени корени и пънове, по песъчлива почва, тревни площи, градини и дървесна мулч, често на нарушени или озеленени места. Плододава от пролетта до есента, а в топъл климат и през зимата, особено след дъжд. Среща се в Северна, Централна и Южна Америка, Африка, Китай и Океания и може да е пренесена в Северна Америка с екзотични растения.",
+        uses: "Не се използва за храна. Яйцето се описва като с мек вкус и едно ръководство посочва вида за ядлив, но зрялото плодно тяло мирише отвратително. Две стари съобщения описват отравяне — гърчове при момиче, изяло малко парче, и смърт на свине, които са я яли, затова е най-добре да се счита за неядлива.",
+        confusion: "Pseudocolus fusiformis има три до четири рамена, които излизат от общо, понякога съвсем късо краче, скрито във вагината, спорова слуз най-малко по горната половина на раменете и сивкаво до сивокафяво яйце и вагина. Ако раменете се освободят от вагината, при този вид те са ясно отделени. Clathrus bicolumnatus е по-малък, до 9 cm висок, и има само два стълба. Clathrus ruber образува кълбовидна решетка вместо стълбове.",
+        notes: "Видовото име columnatus е латинско и означава подпрян със стълбове. Видът е описан за пръв път от Южна Каролина от френския ботаник Боск през 1811 г. Глебата виси под свода на рецептакулума. Бръмбарът от семейство лъскачи Psilopyga fasciata е наблюдаван да се храни с глебата на мексикански екземпляри."
+      },
+      zh: {
+        description: "腐生性的臭角菌,有兩到五根海綿質、橙色至紅色的柱,從白色的卵中升起,並在頂端相連。單生或群生於溫暖地區(美洲、非洲和大洋洲)的沙質土壤、草坪和木屑覆蓋物上。柱內側散發惡臭的孢子黏液會吸引蒼蠅。",
+        cap: "幼時的子實體是寬2–5 cm的白色至灰白色的卵,卵皮下有一層褐色的膠質層,包裹著折疊在內的紅色至橙色子實體。成熟的子實體高5–12 cm、寬2–4 cm,不過有些資料給出的高度最高為8 cm。由兩到五根中空的海綿質柱組成,通常為三到四根,粗最多約1 cm。它們從菌托分別長出,在頂端無縫連成一個拱。柱呈橙色至紅色,向基部漸淡為粉紅色或淡黃色,表面有細小的凹坑。",
+        hymenium: "沒有菌褶或菌孔。產孢組織是孢體(gleba),為褐色至橄欖褐色、黏稠而惡臭的黏液,塗抹在柱的內表面,靠近頂端或就在頂端之下。它的氣味會吸引蒼蠅等昆蟲,昆蟲取食後便傳播孢子。",
+        stipe: "沒有菌柄。各柱從厚實、鬆弛、白色的袋狀菌托(卵皮的殘留)中分別升起,菌托留在基部。基部以白色的索狀物(菌索)固定在地面上。",
+        flesh: "柱中空、柔軟、海綿質,表面有細小的凹坑。切開卵時,可見紅色至橙色的幼嫩子實體,包埋在褐色的膠質層中。",
+        sporePrint: "橄欖褐色。孢子光滑,橢圓形至圓柱形,約3.5–5 × 1.5–2.5微米。",
+        habitat: "腐生真菌,單生、散生或群生於木質殘體上或其附近、埋藏的樹根和樹樁上,以及沙質土壤、草坪、花園和木屑覆蓋物中,常見於受干擾或經過園藝整理的地方。從春季到秋季結實,在溫暖氣候下整個冬季也會結實,尤其在雨後。分布於北美洲、中美洲、南美洲、非洲、中國和大洋洲,可能是隨外來植物被引入北美洲的。",
+        uses: "不作食用。有描述稱其卵的味道溫和,有一本指南將其列為可食用,但成熟子實體氣味惡臭。兩則舊報告記載了中毒事件:一名吃了一小塊的女孩出現抽搐,以及吃了它的豬死亡,因此最好視為不可食用。",
+        confusion: "Pseudocolus fusiformis 有三到四條臂,從一個共同的、有時很短而隱藏在菌托內的柄長出,孢子黏液至少覆蓋臂的上半部,卵和菌托為灰白色至灰褐色。把臂從菌托中分開後,本種的臂明顯是分離的。Clathrus bicolumnatus 較小,高達9 cm,只有兩根柱。Clathrus ruber 形成球形網格,而不是柱。",
+        notes: "種加詞 columnatus 是拉丁語,意為「由柱支撐的」。本種於1811年由法國植物學家博斯克(Bosc)根據南卡羅來納州的標本首次描述。孢體懸掛在托(受器)的拱之下。墨西哥標本上曾記錄到樹液蟲 Psilopyga fasciata 取食孢體。"
+      },
+      hr: {
+        description: "Saprotrofna smrdljivka s dva do pet spužvastih, narančastih do crvenih stupova koji izrastaju iz bijelog jajeta i na vrhu se spajaju. Raste pojedinačno ili u skupinama na pjeskovitom tlu, travnjacima i malču od drvne sječke u toplim područjima Amerike, Afrike i Oceanije. Neugodno mirisna sluz sa sporama unutar stupova privlači muhe.",
+        cap: "Mlado plodište je bjelkasto do sivkasto jaje široko 2–5 cm, s smećkastim želatinoznim slojem ispod kožice koji okružuje crveno do narančasto plodište presavijeno unutra. Zrelo plodište visoko je 5–12 cm i široko 2–4 cm, iako neki izvori navode visinu do 8 cm. Sastoji se od dva do pet šupljih, spužvastih stupova, obično tri do četiri, debljine do oko 1 cm. Izrastaju odvojeno iz ovojnice, a na vrhu se bez spoja sljevaju u luk. Narančasti su do crveni, prema bazi blijede u ružičasto ili žućkasto, a površina im je fino udubljena.",
+        hymenium: "Nema listića ni pora. Tkivo koje nosi spore je gleba, smeđa do maslinastosmeđa, ljepljiva i neugodno mirisna sluz razmazana po unutarnjim stranama stupova, blizu vrha ili tik ispod njega. Njezin miris privlači muhe i druge kukce, koji je jedu i raznose spore.",
+        stipe: "Stručka nema. Stupovi izrastaju odvojeno iz debele, rahle, bijele vrećaste ovojnice, ostatka kožice jajeta, koja ostaje oko baze. Baza je bijelim vrpcama (rizomorfima) usidrena u tlo.",
+        flesh: "Stupovi su šuplji, mekani i spužvasti, s fino udubljenom površinom. Kad se jaje prereže, vidi se crveno do narančasto mlado plodište, uloženo u smećkasti želatinozni sloj.",
+        sporePrint: "Maslinastosmeđ. Spore su glatke, elipsoidne do cilindrične, veličine oko 3,5–5 × 1,5–2,5 μm.",
+        habitat: "Saprotrofna gljiva koja raste pojedinačno, raštrkano ili u skupinama na drvnom otpadu ili blizu njega, na zakopanom korijenju i panjevima, na pjeskovitom tlu, travnjacima, u vrtovima i malču od drvne sječke, često na poremećenim ili uređenim mjestima. Plodi od proljeća do jeseni, a u toplim klimama i tijekom zime, osobito nakon kiše. Javlja se u Sjevernoj, Srednjoj i Južnoj Americi, Africi, Kini i Oceaniji, a u Sjevernu Ameriku možda je unesena s egzotičnim biljkama.",
+        uses: "Ne koristi se za jelo. Jaje se opisuje kao blagog okusa i jedan ga priručnik navodi kao jestivo, ali zrelo plodište zaudara. Dva stara izvješća opisuju otrovanje, grčeve kod djevojčice koja je pojela mali komad i uginuće svinja koje su je pojele, pa je najbolje smatrati je nejestivom.",
+        confusion: "Pseudocolus fusiformis ima tri do četiri kraka koji izrastaju iz zajedničkog, katkad vrlo kratkog stručka skrivenog u ovojnici, sluz sa sporama barem na gornjoj polovici krakova te sivkasto do sivosmeđe jaje i ovojnicu. Kad se krakovi oslobode iz ovojnice, kod ove su vrste jasno odvojeni. Clathrus bicolumnatus je manji, visok do 9 cm, i ima samo dva stupa. Clathrus ruber tvori kuglastu rešetku umjesto stupova.",
+        notes: "Naziv vrste columnatus latinski je i znači poduprt stupovima. Vrstu je prvi opisao iz Južne Karoline francuski botaničar Bosc 1811. godine. Gleba visi ispod luka receptakula. Zabilježeno je da se kornjaš Psilopyga fasciata hrani glebom na meksičkim primjercima."
+      },
+      cs: {
+        description: "Saprotrofní zapáchající houba s dvěma až pěti houbovitými, oranžovými až červenými sloupky, které vyrůstají z bílého vejce a nahoře se spojují. Roste jednotlivě nebo ve skupinách na písčité půdě, trávnících a ve štěpkovém mulči v teplých oblastech Ameriky, Afriky a Oceánie. Páchnoucí sliz s výtrusy uvnitř sloupků přitahuje mouchy.",
+        cap: "Mladá plodnice je bělavé až našedlé vejce široké 2–5 cm s hnědavou rosolovitou vrstvou pod slupkou, která obklopuje uvnitř složenou červenou až oranžovou plodnici. Dospělá plodnice je vysoká 5–12 cm a široká 2–4 cm, některé zdroje však uvádějí výšku nejvýše 8 cm. Tvoří ji dva až pět dutých, houbovitých sloupků, obvykle tři až čtyři, tlustých do asi 1 cm. Vyrůstají odděleně z pochvy a nahoře se bez švu spojují v oblouk. Jsou oranžové až červené, k bázi bledne do růžova nebo do žlutavá a mají jemně důlkatý povrch.",
+        hymenium: "Lupeny ani rourky chybí. Výtrusorodým pletivem je gleba, hnědý až olivově hnědý, lepkavý a páchnoucí sliz, který je rozetřen po vnitřních plochách sloupků, blízko vrcholu nebo těsně pod ním. Jeho pach přitahuje mouchy a jiný hmyz, který ho požírá a roznáší výtrusy.",
+        stipe: "Třeň chybí. Sloupky vyrůstají odděleně z tlusté, volné, bílé vakovité pochvy, zbytku obalu vejce, která zůstává kolem báze. Báze je k půdě připevněna bílými provazci (rizomorfami).",
+        flesh: "Sloupky jsou duté, měkké a houbovité s jemně důlkatým povrchem. Po rozříznutí vejce je vidět červená až oranžová mladá plodnice uložená v hnědavé rosolovité vrstvě.",
+        sporePrint: "Olivově hnědý. Výtrusy jsou hladké, elipsoidní až válcovité, velké asi 3,5–5 × 1,5–2,5 μm.",
+        habitat: "Saprotrofní houba, která roste jednotlivě, roztroušeně nebo ve skupinách na dřevním odpadu nebo v jeho blízkosti, na zakopaných kořenech a pařezech, na písčité půdě, trávnících, v zahradách a ve štěpkovém mulči, často na narušených nebo upravených místech. Plodí od jara do podzimu a v teplém podnebí i přes zimu, zejména po dešti. Vyskytuje se v Severní, Střední a Jižní Americe, v Africe, Číně a Oceánii a do Severní Ameriky mohla být zavlečena s exotickými rostlinami.",
+        uses: "Nepoužívá se jako potravina. Vejce se popisuje jako jemné chuti a jedna příručka druh uvádí jako jedlý, zralá plodnice však zapáchá. Dvě staré zprávy popisují otravu, křeče u dívky, která snědla malý kousek, a úhyn prasat, která ji požrala, proto ji lze nejlépe považovat za nejedlou.",
+        confusion: "Pseudocolus fusiformis má tři až čtyři ramena, která vyrůstají ze společného, někdy velmi krátkého třeně ukrytého v pochvě, výtrusný sliz alespoň na horní polovině ramen a našedlé až šedohnědé vejce a pochvu. Když se ramena vyprostí z pochvy, jsou u tohoto druhu zřetelně oddělená. Clathrus bicolumnatus je menší, vysoký do 9 cm, a má jen dva sloupky. Clathrus ruber tvoří kulovitou mřížku místo sloupků.",
+        notes: "Druhové jméno columnatus je latinské a znamená podepřený sloupy. Druh poprvé popsal z Jižní Karolíny francouzský botanik Bosc v roce 1811. Gleba visí pod obloukem receptakula. Brouk Psilopyga fasciata z čeledi lesklicovitých byl zaznamenán při požírání gleby na mexických exemplářích."
+      },
+      da: {
+        description: "En saprotrof stinksvamp med to til fem svampede, orange til røde søjler, der rejser sig fra et hvidt æg og vokser sammen foroven. Den vokser enkeltvis eller i grupper på sandet jord, plæner og barkflis i varme egne af Amerika, Afrika og Oceanien. Det ildelugtende sporeslim inde i søjlerne lokker fluer til.",
+        cap: "Den unge frugtkrop er et hvidligt til gråligt æg, 2–5 cm bredt, med et brunligt geleagtigt lag under skallen, som omgiver den røde til orange frugtkrop, der ligger sammenfoldet indeni. Den modne frugtkrop er 5–12 cm høj og 2–4 cm bred, selv om nogle kilder angiver en højde på op til 8 cm. Den består af to til fem hule, svampede søjler, som regel tre til fire, op til ca. 1 cm tykke. De rejser sig hver for sig fra skeden og vokser uden sømme sammen i en bue foroven. De er orange til røde, bliver lyserøde eller gullige mod grunden og har en fint grubet overflade.",
+        hymenium: "Der er hverken lameller eller porer. Det sporebærende væv er gleba, et brunt til olivenbrunt, klæbrigt og ildelugtende slim, som er smurt ud på søjlernes indersider tæt på toppen eller lige under den. Dens lugt lokker fluer og andre insekter til, som æder den og spreder sporerne.",
+        stipe: "Der er ingen stok. Søjlerne rejser sig hver for sig fra en tyk, løs, hvid sæklignende skede, resterne af ægskallen, som bliver siddende omkring grunden. Grunden er forankret i jorden med hvide tråde (rhizomorfer).",
+        flesh: "Søjlerne er hule, bløde og svampede med en fint grubet overflade. Når et æg skæres over, ses den røde til orange unge frugtkrop indlejret i et brunligt geleagtigt lag.",
+        sporePrint: "Olivenbrunt. Sporerne er glatte, ellipsoide til cylindriske, ca. 3,5–5 × 1,5–2,5 μm.",
+        habitat: "En saprotrof svamp, der vokser enkeltvis, spredt eller i grupper på eller nær træaffald, nedgravede rødder og stubbe, på sandet jord, plæner, i haver og barkflis, ofte på forstyrrede eller anlagte steder. Den danner frugtkroppe fra forår til efterår og i varmt klima også gennem vinteren, især efter regn. Den findes i Nord-, Mellem- og Sydamerika, Afrika, Kina og Oceanien og kan være indført til Nordamerika sammen med eksotiske planter.",
+        uses: "Bruges ikke som mad. Ægget beskrives som mildt i smagen, og en håndbog opfører arten som spiselig, men den modne frugtkrop lugter ildelugtende. To gamle beretninger beskriver forgiftning, kramper hos en pige, der spiste et lille stykke, og døden hos svin, der åd den, så den bedst betragtes som uspiselig.",
+        confusion: "Pseudocolus fusiformis har tre til fire arme, som udgår fra en fælles, af og til meget kort stok skjult i skeden, sporeslim over mindst den øverste halvdel af armene samt et gråligt til gråbrunt æg og skede. Når armene frigøres fra skeden, er de hos denne art tydeligt adskilte. Clathrus bicolumnatus er mindre, op til 9 cm høj, og har kun to søjler. Clathrus ruber danner et kugleformet gitter i stedet for søjler.",
+        notes: "Artsnavnet columnatus er latin og betyder understøttet af søjler. Arten blev første gang beskrevet fra South Carolina af den franske botaniker Bosc i 1811. Glebaen hænger under receptaklets bue. En bille, Psilopyga fasciata, er registreret som ædende af glebaen på mexicanske eksemplarer."
+      },
+      nl: {
+        description: "Een saprotrofe stinkzwam met twee tot vijf sponsachtige, oranje tot rode zuilen die uit een wit ei omhoogkomen en bovenaan samensmelten. Hij groeit alleen of in groepen op zandige grond, gazons en houtsnippers in warme streken van Amerika, Afrika en Oceanië. Het stinkende sporenslijm aan de binnenkant van de zuilen trekt vliegen aan.",
+        cap: "Het jonge vruchtlichaam is een witachtig tot grijsachtig ei van 2–5 cm breed, met onder de huid een bruinachtige gelatineuze laag die het binnenin opgevouwen rode tot oranje vruchtlichaam omgeeft. Het volwassen vruchtlichaam is 5–12 cm hoog en 2–4 cm breed, al geven sommige bronnen een hoogte van hoogstens 8 cm. Het bestaat uit twee tot vijf holle, sponsachtige zuilen, meestal drie tot vier, tot ongeveer 1 cm dik. Ze ontspringen afzonderlijk aan de volva en smelten bovenaan naadloos samen tot een boog. Ze zijn oranje tot rood, verbleken naar de basis toe tot roze of geelachtig en hebben een fijn gegroefd oppervlak.",
+        hymenium: "Er zijn geen lamellen of poriën. Het sporendragende weefsel is de gleba, een bruin tot olijfbruin, kleverig, stinkend slijm dat aan de binnenkant van de zuilen is uitgesmeerd, vlak bij of net onder de top. De geur trekt vliegen en andere insecten aan, die het opeten en de sporen verspreiden.",
+        stipe: "Er is geen steel. De zuilen komen afzonderlijk uit een dikke, losse, witte, zakvormige volva, het restant van de eihuid, die rond de basis blijft zitten. De basis is met witte strengen (rizomorfen) in de grond verankerd.",
+        flesh: "De zuilen zijn hol, zacht en sponsachtig, met een fijn gegroefd oppervlak. Als een ei wordt opengesneden, is het rode tot oranje jonge vruchtlichaam te zien, ingebed in een bruinachtige gelatineuze laag.",
+        sporePrint: "Olijfbruin. De sporen zijn glad, ellipsoïde tot cilindrisch en ongeveer 3,5–5 × 1,5–2,5 μm.",
+        habitat: "Een saprotrofe schimmel die alleen, verspreid of in groepen groeit op of bij houtafval, op begraven wortels en stronken, op zandige grond, in gazons, tuinen en houtsnippers, vaak op verstoorde of aangelegde plekken. Hij draagt van voorjaar tot herfst vruchtlichamen, in een warm klimaat ook tijdens de winter, vooral na regen. Hij komt voor in Noord-, Midden- en Zuid-Amerika, Afrika, China en Oceanië en is mogelijk met uitheemse planten naar Noord-Amerika gebracht.",
+        uses: "Niet gebruikt als voedsel. Het ei wordt als mild van smaak beschreven en één gids noemt de soort eetbaar, maar het volwassen vruchtlichaam stinkt. Twee oude berichten beschrijven vergiftiging, stuiptrekkingen bij een meisje dat een klein stukje at en de dood van varkens die het aten, daarom kan hij het best als oneetbaar worden beschouwd.",
+        confusion: "Pseudocolus fusiformis heeft drie tot vier armen die ontspringen aan een gemeenschappelijke, soms zeer korte steel die in de volva verborgen zit, sporenslijm over minstens de bovenste helft van de armen en een grijsachtig tot grijsbruin ei en volva. Als de armen uit de volva worden losgemaakt, zijn ze bij deze soort duidelijk gescheiden. Clathrus bicolumnatus is kleiner, tot 9 cm hoog, en heeft maar twee zuilen. Clathrus ruber vormt een bolvormig traliewerk in plaats van zuilen.",
+        notes: "De soortnaam columnatus is Latijn voor ondersteund door pilaren. De soort werd in 1811 voor het eerst beschreven uit South Carolina door de Franse botanicus Bosc. De gleba hangt onder de boog van het receptaculum. Van de glanskever Psilopyga fasciata is vastgelegd dat hij op Mexicaanse exemplaren de gleba at."
+      },
+      et: {
+        description: "Saprotroofne haisuseen, millel on kaks kuni viis käsnjat, oranži kuni punast sammast, mis kerkivad valgest munast ja ülaosas ühinevad. Kasvab üksikult või rühmiti liivasel pinnasel, muruplatsidel ja hakkepuidust multšis Ameerika, Aafrika ja Okeaania soojades piirkondades. Sammaste siseküljel olev halvasti lõhnav eoslima meelitab ligi kärbseid.",
+        cap: "Noor viljakeha on valkjas kuni hallikas muna läbimõõduga 2–5 cm, mille koore all on pruunikas tarretiskiht, mis ümbritseb seespool kokku volditud punast kuni oranži viljakeha. Täiskasvanud viljakeha on 5–12 cm kõrge ja 2–4 cm lai, kuigi mõned allikad annavad kõrguseks kuni 8 cm. See koosneb kahest kuni viiest õõnsast, käsnjast sambast, tavaliselt kolmest kuni neljast, kuni umbes 1 cm paksusest. Need kasvavad tupest eraldi ja ühinevad ülaosas õmbluseta kaareks. Need on oranžid kuni punased, põhja poole kahvatuvad roosakaks või kollakaks ning pinnalt peenelt lohklikud.",
+        hymenium: "Lamelle ega poore ei ole. Eosi kandev kude on gleba, pruun kuni oliivpruun, kleepuv ja halvasti lõhnav lima, mis on määritud sammaste siseküljele tipu lähedale või veidi selle alla. Selle lõhn meelitab ligi kärbseid ja muid putukaid, kes seda söövad ja eoseid laiali kannavad.",
+        stipe: "Jalga ei ole. Sambad tõusevad eraldi paksust, lahtisest, valgest kottjast tupest, muna koore jäänusest, mis jääb põhja ümber. Põhi on valgete nööridega (risomorfidega) mulda kinnitunud.",
+        flesh: "Sambad on õõnsad, pehmed ja käsnjad, peenelt lohklikud. Muna läbi lõigates on näha punast kuni oranži noort viljakeha, mis on pruunikasse tarretiskihti sisse põimunud.",
+        sporePrint: "Oliivpruun. Eosed on siledad, ellipsoidsed kuni silindrilised, umbes 3,5–5 × 1,5–2,5 μm.",
+        habitat: "Saprotroofne seen, mis kasvab üksikult, hajusalt või rühmiti puidujäätmetel või nende lähedal, mattunud juurtel ja kändudel, liivasel pinnasel, muruplatsidel, aedades ja hakkepuidust multšis, sageli häiritud või heakorrastatud kohtades. Viljub kevadest sügiseni ja soojas kliimas ka talvel, eriti pärast vihma. Esineb Põhja-, Kesk- ja Lõuna-Ameerikas, Aafrikas, Hiinas ja Okeaanias ning võib olla Põhja-Ameerikasse toodud eksootiliste taimedega.",
+        uses: "Toiduks ei kasutata. Muna kirjeldatakse kerge maitsega ja üks käsiraamat märgib liigi söödavaks, kuid täiskasvanud viljakeha haiseb. Kaks vana teadet kirjeldavad mürgistust, krampe tüdrukul, kes sõi väikese tüki, ja sigade surma, kes seda sõid, mistõttu on parem pidada seda mittesöödavaks.",
+        confusion: "Pseudocolus fusiformis'el on kolm kuni neli haru, mis kasvavad ühisest, vahel väga lühikesest tupes peidetud jalast, eoslima vähemalt harude ülemisel poolel ning hallikas kuni hallikaspruun muna ja tupp. Kui harud tupest välja vabastada, on selle liigi omad selgelt eraldi. Clathrus bicolumnatus on väiksem, kuni 9 cm kõrge, ja tal on ainult kaks sammast. Clathrus ruber moodustab sammaste asemel kerakujulise võre.",
+        notes: "Liiginimi columnatus on ladina keeles ja tähendab sammastega toetatud. Liigi kirjeldas esimest korda Lõuna-Carolinast prantsuse botaanik Bosc 1811. aastal. Gleba ripub viljakandja kaare all. Mehhiko isenditel on registreeritud mahlamardika Psilopyga fasciata toitumist glebast."
+      },
+      fi: {
+        description: "Saprotrofinen haisusieni, jolla on kaksi–viisi sienimäistä, oranssia tai punaista pylvästä, jotka nousevat valkoisesta munasta ja yhtyvät yläpäästä. Se kasvaa yksittäin tai ryhmissä hiekkamaalla, nurmikoilla ja hakkeesta tehdyssä katteessa Amerikan, Afrikan ja Oseanian lämpimillä alueilla. Pylväiden sisäpuolella oleva pahanhajuinen itiölima houkuttelee kärpäsiä.",
+        cap: "Nuori itiöemä on valkoinen tai harmahtava, 2–5 cm leveä muna, jonka kuoren alla on ruskehtava hyytelökerros, joka ympäröi sisällä taittuneena olevaa punaista tai oranssia itiöemää. Kypsä itiöemä on 5–12 cm korkea ja 2–4 cm leveä, vaikka jotkin lähteet antavat korkeudeksi enintään 8 cm. Se koostuu kahdesta viiteen ontosta, sienimäisestä pylväästä, yleensä kolmesta neljään, jotka ovat enintään noin 1 cm paksuja. Ne nousevat erillään tupesta ja yhtyvät yläpäässä saumattomasti holviksi. Ne ovat oransseja tai punaisia, vaalenevat tyveä kohti vaaleanpunaisiksi tai kellertäviksi ja niiden pinta on hienosti kuoppainen.",
+        hymenium: "Heltteitä tai putkia ei ole. Itiöitä kantava kudos on gleba, ruskea tai oliiviruskea, tahmea ja pahanhajuinen lima, joka on levittynyt pylväiden sisäpinnoille huipun lähelle tai aivan sen alapuolelle. Sen haju houkuttelee kärpäsiä ja muita hyönteisiä, jotka syövät sitä ja levittävät itiöt.",
+        stipe: "Vartta ei ole. Pylväät nousevat erillään paksusta, löysästä, valkoisesta pussimaisesta tupesta, munankuoren jäänteestä, joka jää tyven ympärille. Tyvi kiinnittyy maahan valkoisilla säikeillä (risomorfeilla).",
+        flesh: "Pylväät ovat onttoja, pehmeitä ja sienimäisiä, ja niiden pinta on hienosti kuoppainen. Kun muna leikataan auki, näkyy punainen tai oranssi nuori itiöemä, joka on upotettuna ruskehtavaan hyytelökerrokseen.",
+        sporePrint: "Oliiviruskea. Itiöt ovat sileitä, ellipsoidisia tai sylinterimäisiä, noin 3,5–5 × 1,5–2,5 μm.",
+        habitat: "Saprotrofinen sieni, joka kasvaa yksittäin, hajallaan tai ryhmissä puujätteellä tai sen lähellä, maahan hautautuneilla juurilla ja kannoilla, hiekkamaalla, nurmikoilla, puutarhoissa ja hakekatteessa, usein häiriintyneillä tai rakennetuilla paikoilla. Se tekee itiöemiä keväästä syksyyn ja lämpimässä ilmastossa talvellakin, etenkin sateen jälkeen. Sitä tavataan Pohjois-, Väli- ja Etelä-Amerikassa, Afrikassa, Kiinassa ja Oseaniassa, ja se on ehkä tullut Pohjois-Amerikkaan vierasperäisten kasvien mukana.",
+        uses: "Ei käytetä ruokana. Munan makua kuvataan mietona ja yksi opas luettelee lajin syötäväksi, mutta kypsä itiöemä haisee pahalta. Kaksi vanhaa raporttia kuvaa myrkytystä, kouristuksia tytöllä, joka söi pienen palan, ja sikojen kuoleman, jotka söivät sitä, joten se on parasta katsoa syömäkelvottomaksi.",
+        confusion: "Pseudocolus fusiformis -lajilla on kolme tai neljä käsivartta, jotka nousevat yhteisestä, joskus hyvin lyhyestä tupen sisään kätkeytyvästä varresta, itiölimaa vähintään käsivarsien yläpuoliskolla sekä harmahtava tai harmaanruskea muna ja tuppi. Kun käsivarret irrotetaan tupesta, tämän lajin käsivarret ovat selvästi erillään. Clathrus bicolumnatus on pienempi, enintään 9 cm korkea, ja siinä on vain kaksi pylvästä. Clathrus ruber muodostaa pylväiden sijaan pallomaisen ristikon.",
+        notes: "Lajinimi columnatus on latinaa ja tarkoittaa pylväiden tukemaa. Lajin kuvasi ensimmäisen kerran Etelä-Carolinasta ranskalainen kasvitieteilijä Bosc vuonna 1811. Gleba riippuu itiöemän holvin alla. Mehukuoriaisiin kuuluvan Psilopyga fasciata -kovakuoriaisen on havaittu syövän glebaa meksikolaisilla yksilöillä."
+      },
+      fr: {
+        description: "Un champignon puant saprotrophe doté de deux à cinq colonnes spongieuses, orange à rouges, qui sortent d'un œuf blanc et se rejoignent au sommet. Il pousse seul ou en groupes sur les sols sableux, les pelouses et les paillis de copeaux de bois dans les régions chaudes d'Amérique, d'Afrique et d'Océanie. La masse de spores nauséabonde à l'intérieur des colonnes attire les mouches.",
+        cap: "Le jeune carpophore est un œuf blanchâtre à grisâtre de 2–5 cm de large, avec sous la peau une couche gélatineuse brunâtre qui entoure le carpophore rouge à orange replié à l'intérieur. Le carpophore mature mesure 5–12 cm de haut et 2–4 cm de large, bien que certaines sources indiquent une hauteur d'au plus 8 cm. Il se compose de deux à cinq colonnes creuses et spongieuses, le plus souvent trois à quatre, épaisses d'environ 1 cm au plus. Elles naissent séparément de la volve et se rejoignent sans couture en une arche au sommet. Elles sont orange à rouges, pâlissent vers la base en rose ou en jaunâtre et ont une surface finement alvéolée.",
+        hymenium: "Il n'y a ni lames ni pores. Le tissu porteur des spores est la gléba, une masse visqueuse brune à brun olive, collante et d'odeur fétide, étalée sur la face interne des colonnes, près du sommet ou juste en dessous. Son odeur attire des mouches et d'autres insectes, qui s'en nourrissent et dispersent les spores.",
+        stipe: "Il n'y a pas de pied. Les colonnes naissent séparément d'une volve épaisse, lâche, blanche, en forme de sac, reste de la peau de l'œuf, qui demeure autour de la base. La base est ancrée au sol par des cordons blancs (rhizomorphes).",
+        flesh: "Les colonnes sont creuses, molles et spongieuses, à la surface finement alvéolée. Lorsqu'on coupe un œuf, on voit le jeune carpophore rouge à orange, noyé dans une couche gélatineuse brunâtre.",
+        sporePrint: "Brun olive. Les spores sont lisses, ellipsoïdes à cylindriques, d'environ 3,5–5 × 1,5–2,5 μm.",
+        habitat: "Un champignon saprotrophe qui pousse seul, de façon dispersée ou en groupes sur des débris de bois ou à proximité, sur des racines et des souches enfouies, sur sol sableux, pelouses, jardins et paillis de copeaux, souvent dans des lieux perturbés ou aménagés. Il fructifie du printemps à l'automne, et durant l'hiver dans les climats chauds, surtout après la pluie. Il se rencontre en Amérique du Nord, centrale et du Sud, en Afrique, en Chine et en Océanie, et a peut-être été introduit en Amérique du Nord avec des plantes exotiques.",
+        uses: "Non utilisé comme aliment. L'œuf est décrit comme de saveur douce et un guide classe l'espèce comme comestible, mais le carpophore mature a une odeur fétide. Deux anciens rapports décrivent des intoxications, des convulsions chez une fillette qui en avait mangé un petit morceau et la mort de porcs qui en avaient mangé, aussi vaut-il mieux la considérer comme non comestible.",
+        confusion: "Pseudocolus fusiformis a trois à quatre bras qui naissent d'un pied commun, parfois très court et caché dans la volve, de la masse de spores sur au moins la moitié supérieure des bras, et un œuf et une volve grisâtres à gris brun. Une fois dégagés de la volve, les bras de cette espèce sont nettement séparés. Clathrus bicolumnatus est plus petit, haut de 9 cm au plus, et n'a que deux colonnes. Clathrus ruber forme un treillis globuleux au lieu de colonnes.",
+        notes: "Le nom d'espèce columnatus est latin et signifie soutenu par des piliers. L'espèce a été décrite pour la première fois en 1811 à partir de la Caroline du Sud par le botaniste français Bosc. La gléba pend sous l'arche du réceptacle. Le coléoptère Psilopyga fasciata a été observé en train de se nourrir de la gléba sur des spécimens mexicains."
+      },
+      de: {
+        description: "Ein saprotropher Stinkpilz mit zwei bis fünf schwammigen, orangen bis roten Säulen, die aus einem weißen Ei aufsteigen und oben miteinander verwachsen sind. Er wächst einzeln oder in Gruppen auf sandigem Boden, Rasen und Holzhackschnitzel-Mulch in warmen Gebieten Amerikas, Afrikas und Ozeaniens. Der übel riechende Sporenschleim an den Innenseiten der Säulen lockt Fliegen an.",
+        cap: "Der junge Fruchtkörper ist ein weißliches bis gräuliches Ei von 2–5 cm Breite, mit einer bräunlichen gallertigen Schicht unter der Haut, die den im Inneren gefalteten roten bis orangen Fruchtkörper umgibt. Der reife Fruchtkörper ist 5–12 cm hoch und 2–4 cm breit, wobei manche Quellen eine Höhe von höchstens 8 cm angeben. Er besteht aus zwei bis fünf hohlen, schwammigen Säulen, meist drei bis vier, die bis etwa 1 cm dick sind. Sie entspringen getrennt der Volva und vereinigen sich oben nahtlos zu einem Bogen. Sie sind orange bis rot, zur Basis hin rosa oder gelblich verblassend, und haben eine fein grubige Oberfläche.",
+        hymenium: "Lamellen oder Poren fehlen. Das sporenbildende Gewebe ist die Gleba, eine braune bis olivbraune, klebrige, übel riechende Schleimmasse, die an den Innenseiten der Säulen nahe der Spitze oder knapp darunter verschmiert ist. Ihr Geruch lockt Fliegen und andere Insekten an, die sie fressen und die Sporen verbreiten.",
+        stipe: "Ein Stiel fehlt. Die Säulen entspringen getrennt einer dicken, lockeren, weißen, sackartigen Volva, dem Rest der Eihaut, die an der Basis bleibt. Die Basis ist mit weißen Strängen (Rhizomorphen) im Boden verankert.",
+        flesh: "Die Säulen sind hohl, weich und schwammig, mit fein grubiger Oberfläche. Schneidet man ein Ei auf, sieht man den roten bis orangen jungen Fruchtkörper, eingebettet in eine bräunliche gallertige Schicht.",
+        sporePrint: "Olivbraun. Die Sporen sind glatt, ellipsoid bis zylindrisch und etwa 3,5–5 × 1,5–2,5 μm groß.",
+        habitat: "Ein saprotropher Pilz, der einzeln, verstreut oder in Gruppen auf oder bei Holzabfällen, an vergrabenen Wurzeln und Stümpfen, auf sandigem Boden, Rasen, in Gärten und Holzhackschnitzel-Mulch wächst, oft an gestörten oder angelegten Stellen. Er fruchtet von Frühjahr bis Herbst, in warmem Klima auch im Winter, besonders nach Regen. Er kommt in Nord-, Mittel- und Südamerika, Afrika, China und Ozeanien vor und wurde möglicherweise mit exotischen Pflanzen nach Nordamerika eingeschleppt.",
+        uses: "Nicht als Speisepilz verwendet. Das Ei wird als mild im Geschmack beschrieben und ein Führer nennt die Art essbar, doch der reife Fruchtkörper riecht übel. Zwei alte Berichte beschreiben Vergiftungen, Krämpfe bei einem Mädchen, das ein kleines Stück aß, und den Tod von Schweinen, die ihn fraßen, daher sollte man ihn am besten als ungenießbar betrachten.",
+        confusion: "Pseudocolus fusiformis hat drei bis vier Arme, die einem gemeinsamen, manchmal sehr kurzen, in der Volva verborgenen Stiel entspringen, Sporenschleim mindestens auf der oberen Hälfte der Arme und ein gräuliches bis graubraunes Ei und eine ebensolche Volva. Löst man die Arme aus der Volva, sind sie bei dieser Art deutlich getrennt. Clathrus bicolumnatus ist kleiner, bis 9 cm hoch, und hat nur zwei Säulen. Clathrus ruber bildet statt Säulen ein kugeliges Gitter.",
+        notes: "Der Artname columnatus ist lateinisch und bedeutet von Säulen getragen. Die Art wurde 1811 vom französischen Botaniker Bosc erstmals aus South Carolina beschrieben. Die Gleba hängt unter dem Bogen des Receptaculums. Der Glanzkäfer Psilopyga fasciata wurde beim Fressen der Gleba an mexikanischen Exemplaren beobachtet."
+      },
+      he: {
+        description: "פטרייה מסריחה ספרוטרופית בעלת שניים עד חמישה עמודים ספוגיים בצבע כתום עד אדום, העולים מביצה לבנה ומתאחדים בראשם. היא גדלה בודדת או בקבוצות על קרקע חולית, מדשאות וחיפוי של שבבי עץ באזורים חמים באמריקה, באפריקה ובאוקיאניה. הריר המסריח של הנבגים בתוך העמודים מושך זבובים.",
+        cap: "גוף הפרי הצעיר הוא ביצה לבנבנה עד אפרפרה ברוחב 2–5 ס\"מ, ומתחת לקליפתה שכבה ג'לטינית חומצחמה העוטפת את גוף הפרי האדום עד הכתום המקופל בפנים. גוף הפרי הבוגר גבוה 5–12 ס\"מ ורחב 2–4 ס\"מ, אף שמקורות מסוימים מציינים גובה של עד 8 ס\"מ. הוא מורכב משניים עד חמישה עמודים חלולים וספוגיים, בדרך כלל שלושה עד ארבעה, בעובי של עד כ-1 ס\"מ. הם צומחים בנפרד מהנרתיק ומתאחדים בראשם בקשת ללא תפר. הם כתומים עד אדומים, דוהים לכיוון הבסיס לוורוד או לצהבהב, ופני השטח שלהם מנוקדים בגומות עדינות.",
+        hymenium: "אין למינות או נקבוביות. הרקמה הנושאת את הנבגים היא הגלבה, ריר דביק ומסריח בצבע חום עד חום זית, המרוח על הפנים הפנימיים של העמודים סמוך לראשם או ממש מתחתיו. ריחה מושך זבובים וחרקים אחרים, האוכלים אותה ומפיצים את הנבגים.",
+        stipe: "אין גבעול. העמודים עולים בנפרד מנרתיק עבה, רופף, לבן, בצורת שק, שריד קליפת הביצה, הנשאר סביב הבסיס. הבסיס מעוגן באדמה בחוטים לבנים (ריזומורפים).",
+        flesh: "העמודים חלולים, רכים וספוגיים, ופניהם מנוקדים בעדינות. כשחותכים ביצה, נראה גוף הפרי הצעיר האדום עד הכתום, שקוע בשכבה ג'לטינית חומצחמה.",
+        sporePrint: "חום זית. הנבגים חלקים, אליפסואידיים עד גליליים, בגודל של כ-3.5–5 × 1.5–2.5 מיקרומטר.",
+        habitat: "פטרייה ספרוטרופית הגדלה בודדת, מפוזרת או בקבוצות על שאריות עץ או לידן, על שורשים וגדמים קבורים, על קרקע חולית, במדשאות, בגינות ובחיפוי של שבבי עץ, לעיתים קרובות במקומות מופרעים או מגוננים. היא נושאת פירות מהאביב עד הסתיו, ובאקלים חם גם במהלך החורף, בעיקר לאחר גשם. היא נמצאת בצפון, במרכז ובדרום אמריקה, באפריקה, בסין ובאוקיאניה, וייתכן שהובאה לצפון אמריקה עם צמחים אקזוטיים.",
+        uses: "אינה משמשת למאכל. טעם הביצה מתואר כעדין ומדריך אחד מונה את המין כאכיל, אך גוף הפרי הבוגר מסריח. שני דיווחים ישנים מתארים הרעלה, עוויתות אצל ילדה שאכלה חתיכה קטנה ומותם של חזירים שאכלו אותה, ולכן מוטב להתייחס אליה כבלתי אכילה.",
+        confusion: "ל-Pseudocolus fusiformis שלוש עד ארבע זרועות העולות מגבעול משותף, לעיתים קצר מאוד ומוסתר בנרתיק, ריר נבגים לפחות על החצי העליון של הזרועות, וביצה ונרתיק אפרפרים עד אפור-חומים. כשמשחררים את הזרועות מהנרתיק, אצל מין זה הן נפרדות בבירור. Clathrus bicolumnatus קטן יותר, עד 9 ס\"מ גובה, ובעל שני עמודים בלבד. Clathrus ruber יוצר סבכה כדורית במקום עמודים.",
+        notes: "שם המין columnatus הוא לטיני ופירושו נתמך בעמודים. המין תואר לראשונה מדרום קרוליינה בידי הבוטנאי הצרפתי בוסק בשנת 1811. הגלבה תלויה מתחת לקשת של גוף הפרי. החיפושית Psilopyga fasciata תועדה אוכלת גלבה בדגימות מקסיקניות."
+      },
+      hi: {
+        description: "एक मृतोपजीवी दुर्गंधी कवक जिसमें दो से पाँच स्पंजी, नारंगी से लाल स्तंभ होते हैं, जो सफ़ेद अंडे से निकलते हैं और ऊपर आपस में जुड़ जाते हैं। यह अमेरिका, अफ़्रीका और ओशिनिया के गर्म क्षेत्रों में रेतीली मिट्टी, घास के मैदानों और लकड़ी के चिप्स की मल्च पर अकेले या समूहों में उगता है। स्तंभों के भीतर की दुर्गंधयुक्त बीजाणु-लेस मक्खियों को आकर्षित करती है।",
+        cap: "युवा फलनकाय 2–5 सेमी चौड़ा सफ़ेदी लिए से धूसर अंडा होता है, जिसकी त्वचा के नीचे भूरी-सी जेली जैसी परत होती है जो भीतर मुड़े हुए लाल से नारंगी फलनकाय को घेरे रहती है। परिपक्व फलनकाय 5–12 सेमी ऊँचा और 2–4 सेमी चौड़ा होता है, हालाँकि कुछ स्रोत अधिकतम 8 सेमी ऊँचाई बताते हैं। यह दो से पाँच खोखले, स्पंजी स्तंभों से बना होता है, आमतौर पर तीन से चार, जो लगभग 1 सेमी तक मोटे होते हैं। ये वॉल्वा से अलग-अलग निकलते हैं और ऊपर बिना जोड़ के एक मेहराब में जुड़ जाते हैं। ये नारंगी से लाल होते हैं, आधार की ओर गुलाबी या पीले-से फीके पड़ जाते हैं और सतह पर बारीक गड्ढे होते हैं।",
+        hymenium: "न गिल्स होते हैं न रंध्र। बीजाणु धारण करने वाला ऊतक ग्लेबा है, जो भूरे से जैतूनी भूरे रंग का, चिपचिपा और दुर्गंधयुक्त लेसदार पदार्थ है और स्तंभों की भीतरी सतहों पर शीर्ष के पास या ठीक उसके नीचे पुता रहता है। इसकी गंध मक्खियों और अन्य कीटों को खींचती है, जो इसे खाते हैं और बीजाणु फैलाते हैं।",
+        stipe: "डंठल नहीं होता। स्तंभ अंडे की त्वचा के अवशेष, मोटे, ढीले, सफ़ेद थैलीनुमा वॉल्वा, से अलग-अलग उठते हैं, जो आधार के चारों ओर बना रहता है। आधार सफ़ेद डोरियों (राइज़ोमॉर्फ़) से ज़मीन में जमा रहता है।",
+        flesh: "स्तंभ खोखले, मुलायम और स्पंजी होते हैं और उनकी सतह पर बारीक गड्ढे होते हैं। अंडे को काटने पर लाल से नारंगी युवा फलनकाय दिखता है, जो भूरी-सी जेली जैसी परत में धँसा होता है।",
+        sporePrint: "जैतूनी भूरा। बीजाणु चिकने, दीर्घवृत्ताकार से बेलनाकार होते हैं, लगभग 3.5–5 × 1.5–2.5 μm के।",
+        habitat: "एक मृतोपजीवी कवक जो लकड़ी के मलबे पर या उसके पास, दबी हुई जड़ों और ठूँठों पर, रेतीली मिट्टी, घास के मैदानों, बगीचों और लकड़ी के चिप्स की मल्च में अकेले, बिखरे हुए या समूहों में उगता है, अक्सर बिगड़े हुए या सजाए गए स्थानों में। यह वसंत से शरद तक फलता है, और गर्म जलवायु में सर्दियों में भी, ख़ासकर बारिश के बाद। यह उत्तर, मध्य और दक्षिण अमेरिका, अफ़्रीका, चीन और ओशिनिया में पाया जाता है, और संभव है कि इसे विदेशी पौधों के साथ उत्तरी अमेरिका लाया गया हो।",
+        uses: "खाने के लिए उपयोग नहीं होता। अंडे का स्वाद हल्का बताया जाता है और एक मार्गदर्शिका इस प्रजाति को खाने योग्य बताती है, पर परिपक्व फलनकाय से दुर्गंध आती है। दो पुरानी रिपोर्टों में विषाक्तता का वर्णन है, एक छोटा टुकड़ा खाने वाली लड़की को दौरे पड़े और इसे खाने वाले सूअर मर गए, इसलिए इसे अखाद्य मानना ही सबसे अच्छा है।",
+        confusion: "Pseudocolus fusiformis में तीन से चार भुजाएँ होती हैं जो एक साझा, कभी-कभी बहुत छोटे और वॉल्वा में छिपे डंठल से निकलती हैं, बीजाणु-लेस कम से कम भुजाओं के ऊपरी आधे भाग पर होता है, और अंडा व वॉल्वा धूसर से धूसर-भूरे होते हैं। भुजाओं को वॉल्वा से अलग करने पर इस प्रजाति में वे साफ़ अलग दिखती हैं। Clathrus bicolumnatus छोटा होता है, 9 सेमी तक ऊँचा, और उसमें केवल दो स्तंभ होते हैं। Clathrus ruber स्तंभों की जगह गोलाकार जाली बनाता है।",
+        notes: "प्रजाति का नाम columnatus लैटिन है और इसका अर्थ है स्तंभों से सहारा दिया हुआ। इस प्रजाति का वर्णन पहली बार 1811 में फ़्रांसीसी वनस्पतिशास्त्री बॉस्क ने साउथ कैरोलाइना से किया था। ग्लेबा रिसेप्टैकल के मेहराब के नीचे लटकता है। मैक्सिको के नमूनों पर Psilopyga fasciata नामक भृंग को ग्लेबा खाते हुए दर्ज किया गया है।"
+      },
+      hu: {
+        description: "Szaprotróf büdösgomba két-öt szivacsos, narancssárgától vörösig terjedő oszloppal, amelyek fehér tojásból emelkednek ki, és felül összenőnek. Egyesével vagy csoportosan nő homokos talajon, gyepen és faaprítékos talajtakaróban Amerika, Afrika és Óceánia meleg tájain. Az oszlopok belsejében lévő bűzös spóranyálka legyeket vonz.",
+        cap: "A fiatal termőtest 2–5 cm széles fehéres-szürkés tojás, amelynek héja alatt barnás kocsonyás réteg van, ez veszi körül a belsejében összehajtott vörös-narancs termőtestet. Az érett termőtest 5–12 cm magas és 2–4 cm széles, bár egyes források legfeljebb 8 cm magasságot adnak meg. Két-öt üreges, szivacsos oszlopból áll, többnyire háromból-négyből, legfeljebb mintegy 1 cm vastagon. Ezek külön-külön nőnek ki a bocskorból, és felül varrat nélkül ívvé forrnak össze. Narancsszínűek vagy vörösek, a tő felé rózsaszínbe vagy sárgásba halványulnak, felszínük finoman gödrös.",
+        hymenium: "Nincsenek lemezei vagy pórusai. A spórahordó szövet a gleba, barnától olajbarnáig terjedő színű, ragacsos, bűzös nyálka, amely az oszlopok belső felületén a csúcs közelében vagy közvetlenül alatta van elkenve. Szaga legyeket és más rovarokat vonz, amelyek megeszik, és szétviszik a spórákat.",
+        stipe: "Tönkje nincs. Az oszlopok külön-külön emelkednek ki egy vastag, laza, fehér, zsákszerű bocskorból, amely a tojáshéj maradványa, és a tő körül marad. A tő fehér szálakkal (rizomorfákkal) rögzül a talajhoz.",
+        flesh: "Az oszlopok üregesek, puhák és szivacsosak, felszínük finoman gödrös. Ha a tojást átvágjuk, látható a vörös-narancs fiatal termőtest, amely barnás kocsonyás rétegbe ágyazódik.",
+        sporePrint: "Olajbarna. A spórák simák, ellipszoid alakútól hengeresig, mintegy 3,5–5 × 1,5–2,5 μm méretűek.",
+        habitat: "Szaprotróf gomba, amely egyesével, szétszórtan vagy csoportosan nő faanyaghulladékon vagy annak közelében, eltemetett gyökereken és tuskókon, homokos talajon, gyepen, kertekben és faaprítékos talajtakaróban, gyakran zavart vagy parkosított helyeken. Tavasztól őszig terem, meleg éghajlaton télen is, különösen esőzések után. Előfordul Észak-, Közép- és Dél-Amerikában, Afrikában, Kínában és Óceániában, és lehet, hogy egzotikus növényekkel hurcolták be Észak-Amerikába.",
+        uses: "Élelmiszerként nem használják. A tojás ízét enyhének írják le, és egy gombakalauz ehetőként sorolja fel a fajt, de az érett termőtest bűzös. Két régi beszámoló mérgezést ír le, görcsöket egy lánynál, aki egy kis darabot megevett, és sertések pusztulását, amelyek megették, ezért a legjobb ehetetlennek tekinteni.",
+        confusion: "A Pseudocolus fusiformisnak három-négy karja van, amelyek közös, néha nagyon rövid, a bocskorban rejtőző tönkből nőnek ki, a spóranyálka legalább a karok felső felén található, a tojás és a bocskor pedig szürkés vagy szürkésbarna. Ha a karokat kiszabadítjuk a bocskorból, ennél a fajnál egyértelműen különállóak. A Clathrus bicolumnatus kisebb, legfeljebb 9 cm magas, és csak két oszlopa van. A Clathrus ruber oszlopok helyett gömbölyű rácsot alkot.",
+        notes: "A columnatus fajnév latin, jelentése oszlopokkal alátámasztott. A fajt 1811-ben írta le először Dél-Karolinából a francia botanikus, Bosc. A gleba a receptákulum íve alatt lóg. A Psilopyga fasciata nevű fénybogarat megfigyelték, amint mexikói példányokon a glebát eszi."
+      },
+      id: {
+        description: "Jamur busuk saprotrof dengan dua sampai lima kolom berspons berwarna oranye hingga merah yang naik dari telur putih dan menyatu di bagian atas. Tumbuh sendiri atau berkelompok di tanah berpasir, halaman rumput, dan mulsa serpihan kayu di daerah hangat di Amerika, Afrika, dan Oseania. Lendir spora berbau busuk di bagian dalam kolom menarik lalat.",
+        cap: "Tubuh buah muda berupa telur keputihan hingga keabu-abuan selebar 2–5 cm, dengan lapisan gelatin kecokelatan di bawah kulitnya yang mengelilingi tubuh buah merah hingga oranye yang terlipat di dalamnya. Tubuh buah dewasa setinggi 5–12 cm dan selebar 2–4 cm, meskipun sebagian sumber menyebut tinggi hingga 8 cm. Tubuh buah terdiri dari dua sampai lima kolom berongga dan berspons, biasanya tiga sampai empat, setebal hingga sekitar 1 cm. Kolom-kolom itu muncul terpisah dari volva dan menyatu tanpa sambungan membentuk lengkungan di bagian atas. Warnanya oranye hingga merah, memudar menjadi merah muda atau kekuningan ke arah pangkal, dan permukaannya berlekuk halus.",
+        hymenium: "Tidak ada bilah atau pori. Jaringan pembawa spora adalah gleba, lendir cokelat hingga cokelat zaitun yang lengket dan berbau busuk, yang terolesi pada permukaan dalam kolom dekat puncak atau tepat di bawahnya. Baunya menarik lalat dan serangga lain, yang memakannya dan menyebarkan spora.",
+        stipe: "Tidak ada tangkai. Kolom-kolom muncul terpisah dari volva yang tebal, longgar, putih, dan berbentuk kantong, sisa kulit telur yang tetap berada di sekitar pangkal. Pangkalnya tertanam di tanah dengan tali putih (rizomorf).",
+        flesh: "Kolomnya berongga, lunak, dan berspons dengan permukaan berlekuk halus. Bila telur dibelah, tampak tubuh buah muda yang merah hingga oranye, terbenam dalam lapisan gelatin kecokelatan.",
+        sporePrint: "Cokelat zaitun. Spora halus, elips hingga silindris, berukuran sekitar 3,5–5 × 1,5–2,5 μm.",
+        habitat: "Jamur saprotrof yang tumbuh sendiri, tersebar, atau berkelompok di atau dekat sisa kayu, akar dan tunggul yang terkubur, di tanah berpasir, halaman rumput, kebun, dan mulsa serpihan kayu, sering di tempat yang terganggu atau ditata. Berbuah dari musim semi hingga musim gugur, dan sepanjang musim dingin di iklim hangat, terutama setelah hujan. Ditemukan di Amerika Utara, Tengah, dan Selatan, Afrika, Tiongkok, dan Oseania, dan mungkin masuk ke Amerika Utara bersama tanaman eksotis.",
+        uses: "Tidak dimanfaatkan sebagai makanan. Telurnya digambarkan berasa lembut dan satu panduan mencantumkan spesies ini sebagai dapat dimakan, tetapi tubuh buah dewasanya berbau busuk. Dua laporan lama menggambarkan keracunan, kejang pada seorang anak perempuan yang memakan sepotong kecil, dan kematian babi yang memakannya, jadi sebaiknya dianggap tidak dapat dimakan.",
+        confusion: "Pseudocolus fusiformis memiliki tiga sampai empat lengan yang muncul dari tangkai bersama, kadang sangat pendek dan tersembunyi di dalam volva, lendir spora setidaknya pada separuh bagian atas lengan, serta telur dan volva keabu-abuan hingga cokelat keabuan. Bila lengan dilepaskan dari volva, pada spesies ini lengan jelas terpisah. Clathrus bicolumnatus lebih kecil, setinggi hingga 9 cm, dan hanya memiliki dua kolom. Clathrus ruber membentuk kisi bulat, bukan kolom.",
+        notes: "Nama spesies columnatus berasal dari bahasa Latin dan berarti ditopang tiang. Spesies ini pertama kali dideskripsikan dari South Carolina oleh ahli botani Prancis Bosc pada tahun 1811. Gleba menggantung di bawah lengkungan reseptakulum. Kumbang Psilopyga fasciata tercatat memakan gleba pada spesimen dari Meksiko."
+      },
+      it: {
+        description: "Un fungo puzzolente saprotrofo con da due a cinque colonne spugnose, da arancioni a rosse, che escono da un uovo bianco e si uniscono in alto. Cresce solitario o in gruppi su terreno sabbioso, prati e pacciame di trucioli di legno nelle regioni calde di America, Africa e Oceania. La massa di spore maleodorante all'interno delle colonne attira le mosche.",
+        cap: "Il giovane carpoforo è un uovo biancastro o grigiastro largo 2–5 cm, con sotto la pelle uno strato gelatinoso brunastro che avvolge il carpoforo da rosso ad arancione ripiegato all'interno. Il carpoforo maturo è alto 5–12 cm e largo 2–4 cm, anche se alcune fonti indicano un'altezza di al massimo 8 cm. È formato da due a cinque colonne cave e spugnose, di solito tre o quattro, spesse fino a circa 1 cm. Nascono separatamente dalla volva e si uniscono senza cuciture in un arco in alto. Sono da arancioni a rosse, sbiadiscono verso la base in rosa o giallastro e hanno una superficie finemente alveolata.",
+        hymenium: "Non ha lamelle né pori. Il tessuto portatore delle spore è la gleba, una massa viscosa da bruna a bruno oliva, appiccicosa e di odore fetido, spalmata sulla superficie interna delle colonne, vicino alla sommità o subito sotto. Il suo odore attira mosche e altri insetti, che se ne nutrono e disperdono le spore.",
+        stipe: "Non ha gambo. Le colonne nascono separatamente da una volva spessa, lassa, bianca, a forma di sacco, resto della pelle dell'uovo, che rimane intorno alla base. La base è ancorata al suolo da cordoni bianchi (rizomorfe).",
+        flesh: "Le colonne sono cave, molli e spugnose, con la superficie finemente alveolata. Tagliando un uovo si vede il giovane carpoforo da rosso ad arancione, immerso in uno strato gelatinoso brunastro.",
+        sporePrint: "Bruno oliva. Le spore sono lisce, da ellissoidali a cilindriche, di circa 3,5–5 × 1,5–2,5 μm.",
+        habitat: "Un fungo saprotrofo che cresce solitario, sparso o in gruppi su residui legnosi o nelle vicinanze, su radici e ceppi interrati, su terreno sabbioso, prati, giardini e pacciame di trucioli di legno, spesso in luoghi disturbati o sistemati a verde. Fruttifica dalla primavera all'autunno, e durante l'inverno nei climi caldi, soprattutto dopo la pioggia. Si trova in America settentrionale, centrale e meridionale, in Africa, in Cina e in Oceania, e potrebbe essere stato introdotto in America settentrionale con piante esotiche.",
+        uses: "Non è usato come alimento. L'uovo è descritto come di sapore delicato e una guida elenca la specie come commestibile, ma il carpoforo maturo ha un odore fetido. Due vecchie segnalazioni descrivono avvelenamenti, convulsioni in una bambina che ne aveva mangiato un pezzetto e la morte di maiali che l'avevano mangiato, perciò è meglio considerarlo non commestibile.",
+        confusion: "Pseudocolus fusiformis ha da tre a quattro bracci che nascono da un gambo comune, a volte cortissimo e nascosto nella volva, la massa di spore almeno sulla metà superiore dei bracci e un uovo e una volva da grigiastri a grigio-bruni. Liberati dalla volva, i bracci di questa specie risultano nettamente separati. Clathrus bicolumnatus è più piccolo, alto fino a 9 cm, e ha solo due colonne. Clathrus ruber forma un reticolo globoso invece di colonne.",
+        notes: "Il nome della specie columnatus è latino e significa sostenuto da colonne. La specie fu descritta per la prima volta nel 1811 dal botanico francese Bosc, a partire dalla Carolina del Sud. La gleba pende sotto l'arco del ricettacolo. Il coleottero Psilopyga fasciata è stato osservato nutrirsi della gleba su esemplari messicani."
+      },
+      ja: {
+        description: "腐生性の悪臭菌で、白い卵から出る2〜5本の海綿状の橙色から赤色の柱が先端で合わさります。アメリカ大陸、アフリカ、オセアニアの温暖な地域の砂質土壌、芝生、木材チップのマルチ上に、単生または群生します。柱の内側にある悪臭を放つ胞子の粘液がハエを引き寄せます。",
+        cap: "若い子実体は幅2〜5 cmの白色から灰白色の卵で、皮の下に褐色を帯びたゼラチン質の層があり、内部に折りたたまれた赤色から橙色の子実体を包んでいます。成熟した子実体は高さ5〜12 cm、幅2〜4 cmですが、資料によっては高さを最大8 cmとしています。2〜5本(通常は3〜4本)の中空で海綿状の柱からなり、太さは最大約1 cmです。柱はつぼから別々に生じ、先端でつなぎ目なくアーチ状に合わさります。橙色から赤色で、基部に向かって桃色または黄色みを帯びて色が薄れ、表面は細かい窪みがあります。",
+        hymenium: "ヒダも管孔もありません。胞子を生じる組織はグレバで、褐色からオリーブ褐色の粘り気のある悪臭を放つ粘液状で、柱の内側の面の先端付近またはそのすぐ下に塗りつけられたように付いています。その臭いがハエなどの昆虫を引き寄せ、昆虫がそれを食べて胞子を運びます。",
+        stipe: "柄はありません。柱は卵の皮の名残である厚くゆるい白色の袋状のつぼから別々に立ち上がり、つぼは基部に残ります。基部は白い菌糸束(根状菌糸束)で地面に固定されます。",
+        flesh: "柱は中空で柔らかく海綿状で、表面には細かい窪みがあります。卵を切ると、褐色を帯びたゼラチン質の層に埋もれた赤色から橙色の若い子実体が見えます。",
+        sporePrint: "オリーブ褐色。胞子は平滑で、楕円形から円筒形、大きさは約3.5〜5 × 1.5〜2.5 μmです。",
+        habitat: "腐生菌で、木質の残骸の上やその近く、埋もれた根や切り株の上、砂質土壌、芝生、庭、木材チップのマルチに、単生、散生または群生し、攪乱された場所や造園された場所にしばしば見られます。春から秋、温暖な気候では冬の間も、特に雨の後に発生します。北アメリカ、中央アメリカ、南アメリカ、アフリカ、中国、オセアニアに分布し、外来植物とともに北アメリカに持ち込まれた可能性があります。",
+        uses: "食用には利用されません。卵は味が穏やかと記され、ある図鑑は食用としていますが、成熟した子実体は悪臭を放ちます。小さな一片を食べた少女にけいれんが起きた例と、これを食べたブタが死んだ例の二つの古い報告があり、食べられないものとして扱うのが最善です。",
+        confusion: "Pseudocolus fusiformisは3〜4本の腕が、つぼの中に隠れた共通の、ときにごく短い柄から生じ、胞子の粘液は少なくとも腕の上半分にあり、卵とつぼは灰白色から灰褐色です。腕をつぼから取り出すと、本種では腕が明らかに分離しています。Clathrus bicolumnatusはより小型で高さ9 cmまでで、柱は2本だけです。Clathrus ruberは柱ではなく球形の格子を作ります。",
+        notes: "種小名のcolumnatusはラテン語で柱に支えられたという意味です。この種は1811年にフランスの植物学者ボスクがサウスカロライナから初めて記載しました。グレバは托のアーチの下に垂れ下がります。メキシコの標本では、ケシキスイ科の甲虫Psilopyga fasciataがグレバを食べているのが記録されています。"
+      },
+      ko: {
+        description: "썩은 나무 등을 먹고 사는 부생성 악취 버섯으로, 흰 알에서 솟아 위에서 서로 붙는 해면질의 주황색에서 붉은색 기둥이 2~5개 있습니다. 아메리카, 아프리카, 오세아니아의 따뜻한 지역에서 모래땅, 잔디밭, 우드칩 멀칭재 위에 홀로 또는 무리 지어 자랍니다. 기둥 안쪽의 악취 나는 포자 점액이 파리를 끌어들입니다.",
+        cap: "어린 자실체는 너비 2~5 cm의 흰색에서 회백색 알이며, 껍질 아래에 갈색을 띤 젤라틴질 층이 있어 안쪽에 접혀 있는 붉은색에서 주황색 자실체를 둘러쌉니다. 성숙한 자실체는 높이 5~12 cm, 너비 2~4 cm이며, 일부 자료는 높이를 최대 8 cm로 적습니다. 속이 빈 해면질 기둥 2~5개, 보통 3~4개로 이루어지며 굵기는 최대 약 1 cm입니다. 기둥은 대주머니에서 따로 나와 위쪽에서 이음매 없이 아치를 이루며 붙습니다. 주황색에서 붉은색이며 밑동으로 갈수록 분홍색이나 노르스름하게 옅어지고 표면에는 잔 홈이 있습니다.",
+        hymenium: "주름살이나 관공은 없습니다. 포자를 만드는 조직은 글레바로, 갈색에서 올리브갈색의 끈적이고 악취가 나는 점액이며, 기둥 안쪽 면의 꼭대기 근처나 바로 아래에 발려 있습니다. 그 냄새가 파리와 다른 곤충을 끌어들이고, 곤충이 이를 먹고 포자를 퍼뜨립니다.",
+        stipe: "자루는 없습니다. 기둥은 알껍질의 흔적인 두껍고 느슨한 흰색 주머니 모양의 대주머니에서 따로 솟아오르며, 대주머니는 밑동에 남습니다. 밑동은 흰색 끈(균사다발)으로 땅에 고정됩니다.",
+        flesh: "기둥은 속이 비고 부드러우며 해면질이고 표면에 잔 홈이 있습니다. 알을 자르면 갈색을 띤 젤라틴질 층에 묻혀 있는 붉은색에서 주황색의 어린 자실체가 보입니다.",
+        sporePrint: "올리브갈색. 포자는 매끄럽고 타원형에서 원통형이며 크기는 약 3.5–5 × 1.5–2.5 μm입니다.",
+        habitat: "썩은 나무 부스러기 위나 그 가까이, 묻힌 뿌리와 그루터기, 모래땅, 잔디밭, 정원, 우드칩 멀칭재에 홀로, 흩어져서 또는 무리 지어 자라는 부생균으로, 흔히 교란되었거나 조경된 곳에서 보입니다. 봄부터 가을까지, 따뜻한 기후에서는 겨울에도, 특히 비가 온 뒤에 자실체를 만듭니다. 북아메리카, 중앙아메리카, 남아메리카, 아프리카, 중국, 오세아니아에서 발견되며, 외래 식물과 함께 북아메리카에 들어왔을 수 있습니다.",
+        uses: "식용으로 쓰지 않습니다. 알은 맛이 순하다고 하며 한 도감은 식용으로 적고 있으나, 성숙한 자실체는 악취가 납니다. 작은 조각을 먹은 소녀가 경련을 일으킨 사례와 이를 먹은 돼지가 죽은 사례, 두 건의 오래된 보고가 있으므로 먹을 수 없는 것으로 여기는 것이 가장 좋습니다.",
+        confusion: "Pseudocolus fusiformis는 팔이 3~4개이며, 대주머니 속에 숨은 공통의, 때로는 매우 짧은 자루에서 나오고, 포자 점액은 적어도 팔의 윗부분 절반에 있으며, 알과 대주머니는 회백색에서 회갈색입니다. 팔을 대주머니에서 빼내 보면 이 종은 팔이 뚜렷하게 분리되어 있습니다. Clathrus bicolumnatus는 더 작아 높이 9 cm까지이고 기둥이 2개뿐입니다. Clathrus ruber는 기둥 대신 공 모양의 격자를 이룹니다.",
+        notes: "종소명 columnatus는 라틴어로 기둥으로 받쳐진이라는 뜻입니다. 이 종은 1811년 프랑스 식물학자 보스크가 사우스캐롤라이나에서 처음 기재했습니다. 글레바는 기둥이 이루는 아치 아래에 매달려 있습니다. 멕시코 표본에서는 밑빠진벌레류 딱정벌레 Psilopyga fasciata가 글레바를 먹는 것이 기록되었습니다."
+      },
+      lv: {
+        description: "Saprotrofa smirdošā sēne ar divām līdz piecām sūkļainām, oranžām līdz sarkanām kolonnām, kas izaug no baltas olas un augšpusē saaug kopā. Aug atsevišķi vai grupās smilšainā augsnē, zālājos un koka skaidu mulčā Amerikas, Āfrikas un Okeānijas siltajos apgabalos. Kolonnu iekšpusē esošās nelabi smakojošās sporu gļotas pievilina mušas.",
+        cap: "Jaunais augļķermenis ir baltgana līdz pelēcīga ola, 2–5 cm plata, kuras apvalka apakšā ir brūnganā želejveida kārta, kas ieskauj iekšpusē salocīto sarkano līdz oranžo augļķermeni. Nobriedis augļķermenis ir 5–12 cm augsts un 2–4 cm plats, lai gan daži avoti min augstumu līdz 8 cm. To veido divas līdz piecas dobas, sūkļainas kolonnas, parasti trīs līdz četras, līdz aptuveni 1 cm biezas. Tās izaug atsevišķi no makstis un augšpusē bez šuves saaug arkā. Tās ir oranžas līdz sarkanas, pret pamatni pārbālē līdz rozā vai dzeltenīgam, un to virsma ir smalki bedrīšaina.",
+        hymenium: "Plātņu un poru nav. Sporas nesošais audu slānis ir gleba — brūna līdz olīvbrūna, lipīga, nelabi smakojoša gļotaina masa, kas ir izsmērēta pa kolonnu iekšpusēm pie augšgala vai tieši zem tā. Tās smaka pievilina mušas un citus kukaiņus, kas to apēd un izplata sporas.",
+        stipe: "Kāta nav. Kolonnas izaug atsevišķi no biezas, vaļīgas, baltas, maisveida makstis, olas apvalka paliekām, kas paliek ap pamatni. Pamatne ir piestiprināta zemei ar baltām auklām (rizomorfām).",
+        flesh: "Kolonnas ir dobas, mīkstas un sūkļainas ar smalki bedrīšainu virsmu. Pārgriežot olu, redzams sarkanais līdz oranžais jaunais augļķermenis, kas iegremdēts brūnganā želejveida kārtā.",
+        sporePrint: "Olīvbrūns. Sporas ir gludas, elipsoīdas līdz cilindriskas, aptuveni 3,5–5 × 1,5–2,5 μm.",
+        habitat: "Saprotrofa sēne, kas aug atsevišķi, izkaisīti vai grupās uz koksnes atliekām vai to tuvumā, apraktām saknēm un celmiem, smilšainā augsnē, zālājos, dārzos un koka skaidu mulčā, bieži traucētās vai labiekārtotās vietās. Augļķermeņus veido no pavasara līdz rudenim, bet siltā klimatā arī ziemā, īpaši pēc lietus. Sastopama Ziemeļamerikā, Centrālamerikā un Dienvidamerikā, Āfrikā, Ķīnā un Okeānijā, un uz Ziemeļameriku, iespējams, ievazāta kopā ar eksotiskiem augiem.",
+        uses: "Pārtikā neizmanto. Olas garša tiek raksturota kā maiga, un viena rokasgrāmata sugu min kā ēdamu, taču nobriedis augļķermenis smird. Divos vecos ziņojumos aprakstīta saindēšanās, krampji meitenei, kas apēda nelielu gabaliņu, un cūku nāve, kas to bija apēdušas, tāpēc to vislabāk uzskatīt par neēdamu.",
+        confusion: "Pseudocolus fusiformis ir trīs līdz četras rokas, kas izaug no kopēja, dažkārt ļoti īsa makstī paslēpta kāta, sporu gļotas vismaz rokas augšējā pusē, kā arī pelēcīga līdz pelēkbrūna ola un maksts. Ja rokas atbrīvo no makstis, šai sugai tās ir skaidri atdalītas. Clathrus bicolumnatus ir mazāks, līdz 9 cm augsts, un tam ir tikai divas kolonnas. Clathrus ruber kolonnu vietā veido lodveida režģi.",
+        notes: "Sugas nosaukums columnatus ir latīņu valodā un nozīmē kolonnu atbalstīts. Sugu pirmoreiz 1811. gadā aprakstīja franču botāniķis Boss no Dienvidkarolīnas. Gleba karājas zem receptakula arkas. Meksikas eksemplāros novērots, ka kukainis Psilopyga fasciata ēd glebu."
+      },
+      lt: {
+        description: "Saprotrofinis smirdutis su dviem–penkiais kempiniais, oranžiniais iki raudonų stulpeliais, kurie išauga iš balto kiaušinio ir viršuje susijungia. Auga pavieniui arba grupėmis smėlėtoje dirvoje, vejose ir medžio drožlių mulče šiltuose Amerikos, Afrikos ir Okeanijos regionuose. Stulpelių viduje esančios blogai kvepiančios sporų gleivės privilioja muses.",
+        cap: "Jaunas vaisiakūnis yra balsvas iki pilkšvo kiaušinis, 2–5 cm pločio, po jo odele yra rusvas drebutinis sluoksnis, apgaubiantis viduje sulankstytą raudoną iki oranžinio vaisiakūnį. Subrendęs vaisiakūnis yra 5–12 cm aukščio ir 2–4 cm pločio, nors kai kurie šaltiniai nurodo iki 8 cm aukštį. Jį sudaro du–penki tuščiaviduriai, kempiniai stulpeliai, dažniausiai trys ar keturi, iki maždaug 1 cm storio. Jie išauga atskirai iš makšties ir viršuje be siūlės susijungia į arką. Jie oranžiniai iki raudonų, link pagrindo išblunka iki rožinių ar gelsvų, o paviršius smulkiai duobėtas.",
+        hymenium: "Plokštelių ar porų nėra. Sporas nešantis audinys yra gleba — rudos iki alyvuogių rudos spalvos, lipnios, nemaloniai kvepiančios gleivės, ištepliotos stulpelių vidiniuose paviršiuose šalia viršūnės arba tiesiai po ja. Jos kvapas privilioja muses ir kitus vabzdžius, kurie jas suėda ir išnešioja sporas.",
+        stipe: "Kojelės nėra. Stulpeliai išauga atskirai iš storos, laisvos, baltos, maišo formos makšties, kiaušinio luobelės likučio, kuri lieka aplink pagrindą. Pagrindas baltomis virvelėmis (rizomorfomis) pritvirtintas prie žemės.",
+        flesh: "Stulpeliai yra tuščiaviduriai, minkšti ir kempiniai, smulkiai duobėtu paviršiumi. Perpjovus kiaušinį matomas raudonas iki oranžinio jaunas vaisiakūnis, įsmeigtas į rusvą drebutinį sluoksnį.",
+        sporePrint: "Alyvuogių rudas. Sporos lygios, elipsoidinės iki cilindrinių, maždaug 3,5–5 × 1,5–2,5 μm.",
+        habitat: "Saprotrofinis grybas, augantis pavieniui, išsibarsčiusiai ar grupėmis ant medienos atliekų arba šalia jų, užkastų šaknų ir kelmų, smėlėtoje dirvoje, vejose, soduose ir medžio drožlių mulče, dažnai sutrikdytose ar sutvarkytose vietose. Vaisiakūnius sudaro nuo pavasario iki rudens, o šiltame klimate ir žiemą, ypač po lietaus. Randamas Šiaurės, Centrinėje ir Pietų Amerikoje, Afrikoje, Kinijoje ir Okeanijoje, o į Šiaurės Ameriką galėjo būti atvežtas su egzotiniais augalais.",
+        uses: "Maistui nenaudojamas. Kiaušinio skonis apibūdinamas kaip švelnus ir vienas vadovas rūšį nurodo kaip valgomą, bet subrendęs vaisiakūnis dvokia. Dvi senos žinutės aprašo apsinuodijimą, traukulius mergaitei, kuri suvalgė mažą gabalėlį, ir kiaulių, kurios jį suėdė, žūtį, todėl geriausia jį laikyti nevalgomu.",
+        confusion: "Pseudocolus fusiformis turi tris ar keturias rankas, kurios išauga iš bendros, kartais labai trumpos, makštyje paslėptos kojelės, sporų gleivės yra bent viršutinėje rankų pusėje, o kiaušinis ir makštis pilkšvi iki pilkšvai rudi. Išlaisvinus rankas iš makšties, šios rūšies jos aiškiai atskiros. Clathrus bicolumnatus mažesnis, iki 9 cm aukščio, ir turi tik du stulpelius. Clathrus ruber vietoj stulpelių sudaro rutulinę gardelę.",
+        notes: "Rūšies pavadinimas columnatus lotyniškas ir reiškia stulpų laikomas. Rūšį pirmą kartą 1811 m. iš Pietų Karolinos aprašė prancūzų botanikas Bosc. Gleba kabo po receptakulio arka. Meksikos pavyzdžiuose užfiksuota, kad vabalas Psilopyga fasciata ėda glebą."
+      },
+      no: {
+        description: "En saprotrof stinksopp med to til fem svampaktige, oransje til røde søyler som kommer opp av et hvitt egg og vokser sammen øverst. Den vokser enkeltvis eller i grupper på sandjord, plener og flisbark i varme strøk av Amerika, Afrika og Oseania. Det illeluktende sporeslimet på innsiden av søylene lokker til seg fluer.",
+        cap: "Den unge fruktkroppen er et kvitaktig til grålig egg, 2–5 cm bredt, med et brunaktig gelélag under skallet som omgir den røde til oransje fruktkroppen som ligger sammenfoldet inni. Den modne fruktkroppen er 5–12 cm høy og 2–4 cm bred, selv om noen kilder oppgir en høyde på høyst 8 cm. Den består av to til fem hule, svampaktige søyler, som regel tre til fire, opptil omtrent 1 cm tykke. De kommer hver for seg opp av skjeden og vokser sømløst sammen i en bue øverst. De er oransje til røde, blir lyserøde eller gulaktige mot basis og har en fint gropet overflate.",
+        hymenium: "Det er verken skiver eller porer. Det sporebærende vevet er gleba, et brunt til olivenbrunt, klebrig og illeluktende slim som er smurt utover innsiden av søylene nær toppen eller like under den. Lukten trekker til seg fluer og andre insekter, som spiser det og sprer sporene.",
+        stipe: "Det er ingen stilk. Søylene kommer hver for seg opp av en tykk, løs, hvit, sekkeformet skjede, restene av eggskallet, som blir sittende rundt basis. Basis er festet til bakken med hvite tråder (rhizomorfer).",
+        flesh: "Søylene er hule, myke og svampaktige med en fint gropet overflate. Når et egg skjæres over, ser man den røde til oransje unge fruktkroppen, innleiret i et brunaktig gelélag.",
+        sporePrint: "Olivenbrunt. Sporene er glatte, ellipsoide til sylindriske, ca. 3,5–5 × 1,5–2,5 μm.",
+        habitat: "En saprotrof sopp som vokser enkeltvis, spredt eller i grupper på eller nær trerester, nedgravde røtter og stubber, på sandjord, plener, i hager og flisbark, ofte på forstyrrede eller opparbeidede steder. Den danner fruktkropper fra vår til høst, og i varmt klima også gjennom vinteren, særlig etter regn. Den finnes i Nord-, Mellom- og Sør-Amerika, Afrika, Kina og Oseania og kan være innført til Nord-Amerika sammen med eksotiske planter.",
+        uses: "Brukes ikke som mat. Egget beskrives som mildt i smaken, og en bestemmelsesbok oppgir arten som spiselig, men den modne fruktkroppen lukter vondt. To gamle rapporter beskriver forgiftning, kramper hos en jente som spiste et lite stykke, og at griser som åt den, døde, så den bør helst regnes som uspiselig.",
+        confusion: "Pseudocolus fusiformis har tre til fire armer som kommer fra en felles, av og til svært kort stilk skjult i skjeden, sporeslim på minst den øvre halvdelen av armene og et grålig til gråbrunt egg og skjede. Når armene frigjøres fra skjeden, er de tydelig adskilt hos denne arten. Clathrus bicolumnatus er mindre, opptil 9 cm høy, og har bare to søyler. Clathrus ruber danner et kuleformet gitter i stedet for søyler.",
+        notes: "Artsnavnet columnatus er latin og betyr støttet av søyler. Arten ble første gang beskrevet fra Sør-Carolina av den franske botanikeren Bosc i 1811. Glebaen henger under buen på reseptaklet. Billen Psilopyga fasciata er registrert mens den spiser gleba på meksikanske eksemplarer."
+      },
+      fa: {
+        description: "قارچی بدبوی ساپروتروف با دو تا پنج ستون اسفنجی نارنجی تا قرمز که از یک تخم سفید برمی‌خیزند و در بالا به هم می‌پیوندند. این قارچ به‌صورت منفرد یا گروهی در خاک شنی، چمنزارها و مالچ تراشه چوب در مناطق گرم آمریکا، آفریقا و اقیانوسیه می‌روید. لعاب اسپورِ بدبو در درون ستون‌ها مگس‌ها را جلب می‌کند.",
+        cap: "اندام باردهی جوان تخمی سفیدرنگ تا خاکستری به پهنای ۲ تا ۵ سانتی‌متر است که زیر پوستش لایه‌ای ژلاتینی قهوه‌ای‌فام قرار دارد و اندام باردهی قرمز تا نارنجیِ تاشده در درون را در بر می‌گیرد. اندام باردهی بالغ ۵ تا ۱۲ سانتی‌متر بلندی و ۲ تا ۴ سانتی‌متر پهنا دارد، هرچند برخی منابع بلندی را تا ۸ سانتی‌متر ذکر می‌کنند. از دو تا پنج ستون توخالی و اسفنجی تشکیل شده، معمولاً سه تا چهار ستون که ضخامتشان تا حدود ۱ سانتی‌متر است. ستون‌ها جداگانه از ولوا برمی‌خیزند و در بالا بدون درز در یک قوس به هم می‌پیوندند. نارنجی تا قرمزند، به‌سمت پایه به صورتی یا زردفام کم‌رنگ می‌شوند و سطحی ریزحفره دارند.",
+        hymenium: "تیغه یا منفذی وجود ندارد. بافت اسپورزا گلبا است، لعابی چسبناک و بدبو به رنگ قهوه‌ای تا قهوه‌ای زیتونی که بر سطح درونی ستون‌ها، نزدیک نوک یا درست زیر آن، مالیده شده است. بوی آن مگس‌ها و حشرات دیگر را جلب می‌کند که آن را می‌خورند و اسپورها را پراکنده می‌کنند.",
+        stipe: "ساقه وجود ندارد. ستون‌ها جداگانه از ولوایی ضخیم، سست، سفید و کیسه‌ای‌شکل، بازماندهٔ پوست تخم، برمی‌خیزند که پیرامون پایه می‌ماند. پایه با ریسه‌های سفید (ریزومورف) در خاک مهار می‌شود.",
+        flesh: "ستون‌ها توخالی، نرم و اسفنجی‌اند و سطحی ریزحفره دارند. با بریدن تخم، اندام باردهی جوان قرمز تا نارنجی دیده می‌شود که در لایه‌ای ژلاتینی قهوه‌ای‌فام فرو رفته است.",
+        sporePrint: "قهوه‌ای زیتونی. اسپورها صاف و بیضوی تا استوانه‌ای‌اند، حدود ۳٫۵ تا ۵ × ۱٫۵ تا ۲٫۵ میکرومتر.",
+        habitat: "قارچی ساپروتروف که به‌صورت منفرد، پراکنده یا گروهی روی بقایای چوب یا نزدیک آن، روی ریشه‌ها و کنده‌های مدفون، در خاک شنی، چمنزارها، باغ‌ها و مالچ تراشه چوب می‌روید، اغلب در جاهای آشفته یا محوطه‌سازی‌شده. از بهار تا پاییز و در اقلیم گرم در زمستان نیز، به‌ویژه پس از باران، میوه می‌دهد. در آمریکای شمالی، مرکزی و جنوبی، آفریقا، چین و اقیانوسیه یافت می‌شود و شاید همراه گیاهان بیگانه به آمریکای شمالی آورده شده باشد.",
+        uses: "به‌عنوان خوراک استفاده نمی‌شود. طعم تخم آن ملایم توصیف شده و یک راهنما این گونه را خوراکی فهرست کرده است، اما اندام باردهی بالغ بوی بدی دارد. دو گزارش قدیمی مسمومیت را شرح می‌دهند، تشنج در دختری که تکهٔ کوچکی از آن خورد و مرگ خوک‌هایی که آن را خوردند، بنابراین بهتر است آن را غیرخوراکی بدانیم.",
+        confusion: "Pseudocolus fusiformis سه تا چهار بازو دارد که از ساقه‌ای مشترک، گاهی بسیار کوتاه و پنهان در ولوا، برمی‌خیزند، لعاب اسپور دست‌کم بر نیمهٔ بالایی بازوها دارد و تخم و ولوایش خاکستری تا خاکستری‌قهوه‌ای است. وقتی بازوها از ولوا آزاد شوند، در این گونه آشکارا جدا از هم‌اند. Clathrus bicolumnatus کوچک‌تر است، تا ۹ سانتی‌متر بلندی دارد و فقط دو ستون دارد. Clathrus ruber به‌جای ستون، شبکه‌ای کروی می‌سازد.",
+        notes: "نام گونه columnatus لاتین است و به معنای «برپاشده بر ستون‌ها» است. این گونه نخستین بار در سال ۱۸۱۱ توسط گیاه‌شناس فرانسوی بوسک از کارولینای جنوبی توصیف شد. گلبا زیر قوس گیرنده آویزان است. در نمونه‌های مکزیکی، تغذیهٔ سوسک Psilopyga fasciata از گلبا ثبت شده است."
+      },
+      pl: {
+        description: "Saprotroficzny grzyb cuchnący z dwoma do pięciu gąbczastych, pomarańczowych do czerwonych kolumn, które wyrastają z białego jaja i łączą się na szczycie. Rośnie pojedynczo lub w grupach na piaszczystej glebie, trawnikach i ściółce ze zrębków drewna w ciepłych regionach Ameryki, Afryki i Oceanii. Cuchnący śluz zarodnikowy wewnątrz kolumn przyciąga muchy.",
+        cap: "Młody owocnik to białawe do szarawego jajo o szerokości 2–5 cm, z brązowawą galaretowatą warstwą pod skórką, która otacza złożony w środku czerwony do pomarańczowego owocnik. Dojrzały owocnik ma 5–12 cm wysokości i 2–4 cm szerokości, choć niektóre źródła podają wysokość do 8 cm. Składa się z dwóch do pięciu pustych, gąbczastych kolumn, zwykle trzech do czterech, grubych do około 1 cm. Wyrastają osobno z pochwy i na szczycie zrastają się bez szwu w łuk. Są pomarańczowe do czerwonych, ku podstawie blakną do różowego lub żółtawego i mają drobno dołkowaną powierzchnię.",
+        hymenium: "Nie ma blaszek ani rurek. Tkanką zarodnikonośną jest gleba, brązowa do oliwkowobrązowej, lepka, cuchnąca śluzowata masa rozsmarowana na wewnętrznych powierzchniach kolumn, blisko szczytu lub tuż pod nim. Jej zapach przyciąga muchy i inne owady, które ją zjadają i roznoszą zarodniki.",
+        stipe: "Trzonu nie ma. Kolumny wyrastają osobno z grubej, luźnej, białej, workowatej pochwy, resztki osłony jaja, która pozostaje wokół podstawy. Podstawa jest zakotwiczona w podłożu białymi sznurami (ryzomorfami).",
+        flesh: "Kolumny są puste, miękkie i gąbczaste, o drobno dołkowanej powierzchni. Po przecięciu jaja widać czerwony do pomarańczowego młody owocnik zanurzony w brązowawej galaretowatej warstwie.",
+        sporePrint: "Oliwkowobrązowy. Zarodniki są gładkie, elipsoidalne do walcowatych, mają około 3,5–5 × 1,5–2,5 μm.",
+        habitat: "Grzyb saprotroficzny rosnący pojedynczo, rozproszony lub w grupach na szczątkach drewna lub w ich pobliżu, na zakopanych korzeniach i pniakach, na piaszczystej glebie, trawnikach, w ogrodach i ściółce ze zrębków drewna, często w miejscach zaburzonych lub zagospodarowanych. Owocniki wytwarza od wiosny do jesieni, a w ciepłym klimacie także zimą, zwłaszcza po deszczu. Występuje w Ameryce Północnej, Środkowej i Południowej, w Afryce, Chinach i Oceanii, a do Ameryki Północnej mogła zostać zawleczona z egzotycznymi roślinami.",
+        uses: "Nie jest wykorzystywany jako pokarm. Jajo opisuje się jako łagodne w smaku i jeden przewodnik podaje gatunek jako jadalny, ale dojrzały owocnik cuchnie. Dwa stare doniesienia opisują zatrucie, drgawki u dziewczynki, która zjadła mały kawałek, i śmierć świń, które go zjadły, więc najlepiej uznać go za niejadalny.",
+        confusion: "Pseudocolus fusiformis ma trzy do czterech ramion wyrastających ze wspólnego, czasem bardzo krótkiego trzonu ukrytego w pochwie, śluz zarodnikowy co najmniej na górnej połowie ramion oraz szarawe do szarobrązowego jajo i pochwę. Po uwolnieniu ramion z pochwy u tego gatunku są one wyraźnie rozdzielone. Clathrus bicolumnatus jest mniejszy, do 9 cm wysokości, i ma tylko dwie kolumny. Clathrus ruber tworzy kulistą siatkę zamiast kolumn.",
+        notes: "Nazwa gatunkowa columnatus jest łacińska i oznacza podparty kolumnami. Gatunek został po raz pierwszy opisany w 1811 roku z Karoliny Południowej przez francuskiego botanika Bosca. Gleba zwisa pod łukiem receptakulum. U okazów meksykańskich odnotowano żerowanie na glebie chrząszcza Psilopyga fasciata."
+      },
+      pt: {
+        description: "Um cogumelo fétido saprotrófico com duas a cinco colunas esponjosas, de laranja a vermelhas, que saem de um ovo branco e se unem no topo. Cresce isolado ou em grupos em solo arenoso, relvados e cobertura de aparas de madeira em regiões quentes da América, de África e da Oceânia. O muco de esporos malcheiroso no interior das colunas atrai moscas.",
+        cap: "O corpo de frutificação jovem é um ovo esbranquiçado a acinzentado com 2–5 cm de largura, com uma camada gelatinosa acastanhada sob a pele que envolve o corpo de frutificação vermelho a laranja dobrado no interior. O corpo de frutificação maduro tem 5–12 cm de altura e 2–4 cm de largura, embora algumas fontes indiquem uma altura de no máximo 8 cm. É formado por duas a cinco colunas ocas e esponjosas, geralmente três a quatro, com até cerca de 1 cm de espessura. Nascem separadamente da volva e unem-se sem costura num arco no topo. São de laranja a vermelhas, esmorecem para rosa ou amareladas em direção à base e têm a superfície finamente alveolada.",
+        hymenium: "Não tem lamelas nem poros. O tecido portador dos esporos é a gleba, uma massa viscosa castanha a castanho-oliva, pegajosa e de cheiro fétido, espalhada na face interna das colunas, perto do topo ou logo abaixo dele. O seu cheiro atrai moscas e outros insetos, que se alimentam dela e dispersam os esporos.",
+        stipe: "Não tem pé. As colunas nascem separadamente de uma volva espessa, solta, branca, em forma de saco, o resto da pele do ovo, que permanece à volta da base. A base fixa-se ao solo por cordões brancos (rizomorfos).",
+        flesh: "As colunas são ocas, moles e esponjosas, com a superfície finamente alveolada. Ao cortar um ovo, vê-se o corpo de frutificação jovem, vermelho a laranja, mergulhado numa camada gelatinosa acastanhada.",
+        sporePrint: "Castanho-oliva. Os esporos são lisos, elipsoides a cilíndricos, com cerca de 3,5–5 × 1,5–2,5 μm.",
+        habitat: "Um fungo saprotrófico que cresce isolado, disperso ou em grupos sobre resíduos de madeira ou perto deles, em raízes e cepos enterrados, em solo arenoso, relvados, jardins e cobertura de aparas de madeira, muitas vezes em locais perturbados ou ajardinados. Frutifica da primavera ao outono, e durante o inverno nos climas quentes, sobretudo depois da chuva. Ocorre na América do Norte, Central e do Sul, em África, na China e na Oceânia, e pode ter sido introduzido na América do Norte com plantas exóticas.",
+        uses: "Não é usado como alimento. O ovo é descrito como de sabor suave e um guia indica a espécie como comestível, mas o corpo de frutificação maduro cheira mal. Dois relatos antigos descrevem intoxicação, convulsões numa menina que comeu um pequeno pedaço e a morte de porcos que o comeram, pelo que é melhor considerá-lo não comestível.",
+        confusion: "Pseudocolus fusiformis tem três a quatro braços que nascem de um pé comum, por vezes muito curto e escondido na volva, o muco de esporos pelo menos na metade superior dos braços e um ovo e uma volva acinzentados a castanho-acinzentados. Libertos da volva, os braços desta espécie ficam claramente separados. Clathrus bicolumnatus é menor, com até 9 cm de altura, e tem apenas duas colunas. Clathrus ruber forma uma rede globosa em vez de colunas.",
+        notes: "O nome da espécie columnatus é latino e significa sustentado por pilares. A espécie foi descrita pela primeira vez em 1811, a partir da Carolina do Sul, pelo botânico francês Bosc. A gleba pende sob o arco do receptáculo. O escaravelho Psilopyga fasciata foi registado a alimentar-se da gleba em exemplares mexicanos."
+      },
+      ro: {
+        description: "O ciupercă puturoasă saprofită cu două până la cinci coloane spongioase, portocalii până la roșii, care ies dintr-un ou alb și se unesc în partea de sus. Crește singură sau în grupuri pe sol nisipos, pe peluze și pe mulci de așchii de lemn în regiunile calde din America, Africa și Oceania. Mucilagiul cu spori urât mirositor din interiorul coloanelor atrage muștele.",
+        cap: "Corpul fructifer tânăr este un ou albicios până la cenușiu, lat de 2–5 cm, cu un strat gelatinos brunifiat sub piele, care înconjoară corpul fructifer roșu până la portocaliu pliat în interior. Corpul fructifer matur are 5–12 cm înălțime și 2–4 cm lățime, deși unele surse indică o înălțime de cel mult 8 cm. Este alcătuit din două până la cinci coloane goale, spongioase, de obicei trei sau patru, groase de până la circa 1 cm. Ies separat din volvă și se unesc fără cusătură într-un arc în partea de sus. Sunt portocalii până la roșii, pălesc spre bază în roz sau gălbui și au suprafața fin alveolată.",
+        hymenium: "Nu are lamele sau pori. Țesutul purtător de spori este gleba, o masă vâscoasă brună până la brun-măslinie, lipicioasă și urât mirositoare, întinsă pe fețele interioare ale coloanelor, aproape de vârf sau chiar sub el. Mirosul ei atrage muște și alte insecte, care o consumă și răspândesc sporii.",
+        stipe: "Nu are picior. Coloanele ies separat dintr-o volvă groasă, lejeră, albă, în formă de sac, rămășița pielii oului, care rămâne în jurul bazei. Baza este ancorată în sol prin cordoane albe (rizomorfe).",
+        flesh: "Coloanele sunt goale, moi și spongioase, cu suprafața fin alveolată. Când un ou este tăiat, se vede corpul fructifer tânăr, roșu până la portocaliu, cufundat într-un strat gelatinos brunifiat.",
+        sporePrint: "Brun-măsliniu. Sporii sunt netezi, elipsoidali până la cilindrici, de circa 3,5–5 × 1,5–2,5 μm.",
+        habitat: "O ciupercă saprofită care crește singură, răzleț sau în grupuri pe resturi lemnoase sau în apropierea lor, pe rădăcini și cioate îngropate, pe sol nisipos, peluze, în grădini și pe mulci de așchii de lemn, adesea în locuri perturbate sau amenajate. Fructifică din primăvară până toamna, iar în climatele calde și iarna, mai ales după ploaie. Se găsește în America de Nord, Centrală și de Sud, în Africa, în China și în Oceania și poate că a fost introdusă în America de Nord odată cu plante exotice.",
+        uses: "Nu este folosită ca aliment. Oul este descris ca având gust blând și un ghid listează specia ca fiind comestibilă, dar corpul fructifer matur miroase urât. Două rapoarte vechi descriu intoxicații, convulsii la o fetiță care a mâncat o bucățică și moartea unor porci care au mâncat-o, așa că cel mai bine este considerată necomestibilă.",
+        confusion: "Pseudocolus fusiformis are trei până la patru brațe care ies dintr-un picior comun, uneori foarte scurt și ascuns în volvă, mucilagiul cu spori cel puțin pe jumătatea superioară a brațelor și un ou și o volvă cenușiu până la cenușiu-brun. Când brațele sunt eliberate din volvă, la această specie sunt clar separate. Clathrus bicolumnatus este mai mic, înalt de până la 9 cm, și are doar două coloane. Clathrus ruber formează o rețea globuloasă în loc de coloane.",
+        notes: "Numele speciei columnatus este latin și înseamnă susținut de stâlpi. Specia a fost descrisă pentru prima dată în 1811, din Carolina de Sud, de botanistul francez Bosc. Gleba atârnă sub arcul receptaculului. Cărăbușul Psilopyga fasciata a fost înregistrat hrănindu-se cu gleba pe exemplare mexicane."
+      },
+      ru: {
+        description: "Сапротрофный гриб-вонючка с двумя–пятью губчатыми оранжевыми или красными столбиками, которые поднимаются из белого яйца и сходятся наверху. Растёт по одному или группами на песчаной почве, газонах и мульче из древесной щепы в тёплых областях Америки, Африки и Океании. Зловонная споровая слизь на внутренней стороне столбиков привлекает мух.",
+        cap: "Молодое плодовое тело — беловатое или сероватое яйцо шириной 2–5 см, под оболочкой которого лежит буроватый студенистый слой, окружающий сложенное внутри красное или оранжевое плодовое тело. Зрелое плодовое тело высотой 5–12 см и шириной 2–4 см, хотя некоторые источники указывают высоту до 8 см. Оно состоит из двух–пяти полых губчатых столбиков, обычно трёх–четырёх, толщиной до примерно 1 см. Они отходят от вольвы по отдельности, а наверху без шва смыкаются в арку. Они оранжевые или красные, к основанию бледнеют до розоватых или желтоватых, поверхность тонко ямчатая.",
+        hymenium: "Пластинок и пор нет. Спороносная ткань — глеба, бурая или оливково-бурая липкая зловонная слизь, размазанная по внутренним сторонам столбиков вблизи вершины или чуть ниже. Её запах привлекает мух и других насекомых, которые поедают её и разносят споры.",
+        stipe: "Ножки нет. Столбики отходят по отдельности от толстой, рыхлой, белой мешковидной вольвы, остатка оболочки яйца, которая остаётся вокруг основания. Основание крепится к земле белыми шнурами (ризоморфами).",
+        flesh: "Столбики полые, мягкие и губчатые, с тонко ямчатой поверхностью. Если яйцо разрезать, виден красное или оранжевое молодое плодовое тело, погружённое в буроватый студенистый слой.",
+        sporePrint: "Оливково-бурый. Споры гладкие, эллипсоидные или цилиндрические, около 3,5–5 × 1,5–2,5 мкм.",
+        habitat: "Сапротрофный гриб, растущий по одному, разбросанно или группами на древесных остатках или рядом с ними, на погребённых корнях и пнях, на песчаной почве, газонах, в садах и на мульче из древесной щепы, часто в нарушенных или благоустроенных местах. Плодоносит с весны до осени, а в тёплом климате и зимой, особенно после дождя. Встречается в Северной, Центральной и Южной Америке, Африке, Китае и Океании, а в Северную Америку мог быть завезён с экзотическими растениями.",
+        uses: "В пищу не используется. Вкус яйца описывают как мягкий, и один определитель указывает вид как съедобный, но зрелое плодовое тело зловонно. В двух старых сообщениях описано отравление: судороги у девочки, съевшей небольшой кусочек, и гибель свиней, которые его съели, поэтому лучше считать гриб несъедобным.",
+        confusion: "У Pseudocolus fusiformis три–четыре луча отходят от общей, иногда очень короткой ножки, скрытой в вольве, споровая слизь покрывает не менее верхней половины лучей, а яйцо и вольва сероватые или серо-бурые. Если освободить лучи от вольвы, у этого вида они чётко разделены. Clathrus bicolumnatus мельче, высотой до 9 см, и имеет всего два столбика. Clathrus ruber образует шаровидную решётку вместо столбиков.",
+        notes: "Видовое название columnatus латинское и означает поддерживаемый колоннами. Вид впервые описан из Южной Каролины французским ботаником Боском в 1811 году. Глеба свисает под аркой рецептакула. На мексиканских экземплярах зарегистрировано питание глебой жука Psilopyga fasciata."
+      },
+      sr: {
+        description: "Сапротрофна смрдљивка са два до пет сунђерастих, наранџастих до црвених стубова који израстају из белог јајета и на врху се спајају. Расте појединачно или у групама на песковитом тлу, травњацима и малчу од дрвне сечке у топлим пределима Америке, Африке и Океаније. Непријатно миришљава слуз са спорама унутар стубова привлачи муве.",
+        cap: "Младо плодно тело је беличасто до сивкасто јаје широко 2–5 cm, са смеђкастим желатинозним слојем испод опне који обавија унутра пресавијено црвено до наранџасто плодно тело. Зрело плодно тело је високо 5–12 cm и широко 2–4 cm, иако неки извори наводе висину до 8 cm. Састоји се од два до пет шупљих, сунђерастих стубова, обично три до четири, дебљине до око 1 cm. Израстају одвојено из овојнице, а на врху се без шава спајају у лук. Наранџасти су до црвени, према бази бледе у ружичасто или жућкасто, а површина им је фино удубљена.",
+        hymenium: "Нема листића ни пора. Ткиво које носи споре је глеба, смеђа до маслинастосмеђа, љепљива и непријатно миришљава слуз размазана по унутрашњим странама стубова, близу врха или одмах испод њега. Њен мирис привлачи муве и друге инсекте, који је једу и разносе споре.",
+        stipe: "Стручка нема. Стубови израстају одвојено из дебеле, растресите, беле врећасте овојнице, остатка опне јајета, која остаје око базе. База је белим врпцама (ризоморфима) усидрена у тло.",
+        flesh: "Стубови су шупљи, меки и сунђерасти, са фино удубљеном површином. Када се јаје пресече, види се црвено до наранџасто младо плодно тело, уроњено у смеђкасти желатинозни слој.",
+        sporePrint: "Маслинастосмеђ. Споре су глатке, елипсоидне до цилиндричне, величине око 3,5–5 × 1,5–2,5 μm.",
+        habitat: "Сапротрофна гљива која расте појединачно, расејано или у групама на дрвном отпаду или близу њега, на закопаном корењу и пањевима, на песковитом тлу, травњацима, у баштама и малчу од дрвне сечке, често на поремећеним или уређеним местима. Рађа од пролећа до јесени, а у топлој клими и током зиме, нарочито после кише. Јавља се у Северној, Централној и Јужној Америци, Африци, Кини и Океанији, а у Северну Америку је можда унета са егзотичним биљкама.",
+        uses: "Не користи се за јело. Јаје се описује као благог укуса и један приручник наводи врсту као јестиву, али зрело плодно тело смрди. Два стара извештаја описују тровање, грчеве код девојчице која је појела мали комад и угинуће свиња које су је појеле, па је најбоље сматрати је нејестивом.",
+        confusion: "Pseudocolus fusiformis има три до четири крака који израстају из заједничког, понекад врло кратког стручка скривеног у овојници, слуз са спорама барем на горњој половини кракова и сивкасто до сивосмеђе јаје и овојницу. Када се краци ослободе из овојнице, код ове врсте су јасно раздвојени. Clathrus bicolumnatus је мањи, висок до 9 cm, и има само два стуба. Clathrus ruber ствара кугласту решетку уместо стубова.",
+        notes: "Назив врсте columnatus је латински и значи подупрт стубовима. Врсту је први описао из Јужне Каролине француски ботаничар Боск 1811. године. Глеба виси испод лука рецептакулума. Бележено је да се буба Psilopyga fasciata храни глебом на мексичким примерцима."
+      },
+      sl: {
+        description: "Saprotrofna smrdljivka z dvema do petimi gobastimi, oranžnimi do rdečimi stebriči, ki rastejo iz belega jajca in se na vrhu združijo. Raste posamezno ali v skupinah na peščenih tleh, travnikih in zastirki iz lesnih sekancev v toplih območjih Amerike, Afrike in Oceanije. Smrdeča sluz s trosi znotraj stebričev privablja muhe.",
+        cap: "Mlado trosišče je belkasto do sivkasto jajce, široko 2–5 cm, pod kožico ima rjavkasto želatinasto plast, ki obdaja znotraj zloženo rdeče do oranžno trosišče. Zrelo trosišče je visoko 5–12 cm in široko 2–4 cm, čeprav nekateri viri navajajo višino do 8 cm. Sestavljeno je iz dveh do petih votlih, gobastih stebričev, običajno treh do štirih, debelih do približno 1 cm. Rastejo ločeno iz tulca in se na vrhu brez šiva združijo v lok. Oranžni so do rdeči, proti dnu zbledijo v rožnato ali rumenkasto, površina pa je drobno jamičasta.",
+        hymenium: "Nima listov ali por. Trosonosno tkivo je gleba, rjava do olivno rjava, lepljiva in smrdeča sluz, razmazana po notranjih straneh stebričev blizu vrha ali tik pod njim. Njen vonj privablja muhe in druge žuželke, ki jo pojedo in raznašajo trose.",
+        stipe: "Beta nima. Stebriči rastejo ločeno iz debelega, ohlapnega, belega, vrečastega tulca, ostanka jajčne kožice, ki ostane okoli dna. Dno je z belimi vrvicami (rizomorfami) zasidrano v tla.",
+        flesh: "Stebriči so votli, mehki in gobasti, z drobno jamičasto površino. Ko jajce prerežemo, vidimo rdeče do oranžno mlado trosišče, ki je potopljeno v rjavkasto želatinasto plast.",
+        sporePrint: "Olivno rjav. Trosi so gladki, elipsoidni do valjasti, veliki okoli 3,5–5 × 1,5–2,5 μm.",
+        habitat: "Saprotrofna goba, ki raste posamezno, razpršeno ali v skupinah na lesnih ostankih ali blizu njih, na zakopanih koreninah in štorih, na peščenih tleh, travnikih, v vrtovih in zastirki iz lesnih sekancev, pogosto na motenih ali urejenih krajih. Plodi od pomladi do jeseni, v toplem podnebju pa tudi pozimi, zlasti po dežju. Pojavlja se v Severni, Srednji in Južni Ameriki, Afriki, na Kitajskem in v Oceaniji, v Severno Ameriko pa so jo morda zanesli z eksotičnimi rastlinami.",
+        uses: "Ne uporablja se za hrano. Jajce opisujejo kot blagega okusa in en priročnik vrsto navaja kot užitno, vendar zrelo trosišče smrdi. Dve stari poročili opisujeta zastrupitev, krče pri deklici, ki je pojedla majhen kos, in pogin svinj, ki so jo pojedle, zato jo je najbolje šteti za neužitno.",
+        confusion: "Pseudocolus fusiformis ima tri do štiri roke, ki rastejo iz skupnega, včasih zelo kratkega beta, skritega v tulcu, trosno sluz vsaj na zgornji polovici rok ter sivkasto do sivorjavo jajce in tulec. Ko roke osvobodimo iz tulca, so pri tej vrsti jasno ločene. Clathrus bicolumnatus je manjši, visok do 9 cm, in ima le dva stebriča. Clathrus ruber namesto stebričev tvori kroglasto mrežo.",
+        notes: "Vrstno ime columnatus je latinsko in pomeni podprt s stebri. Vrsto je prvi opisal iz Južne Karoline francoski botanik Bosc leta 1811. Gleba visi pod lokom receptakula. Na mehiških primerkih so zabeležili, da se z glebo hrani hrošč Psilopyga fasciata."
+      },
+      es: {
+        description: "Un hongo hediondo saprótrofo con dos a cinco columnas esponjosas, de naranja a rojas, que salen de un huevo blanco y se unen en la parte superior. Crece solitario o en grupos sobre suelo arenoso, céspedes y mantillo de astillas de madera en regiones cálidas de América, África y Oceanía. El limo de esporas maloliente del interior de las columnas atrae a las moscas.",
+        cap: "El carpóforo joven es un huevo blanquecino a grisáceo de 2–5 cm de ancho, con una capa gelatinosa parduzca bajo la piel que rodea el carpóforo de rojo a naranja plegado en el interior. El carpóforo maduro mide 5–12 cm de alto y 2–4 cm de ancho, aunque algunas fuentes indican una altura de hasta 8 cm. Consta de dos a cinco columnas huecas y esponjosas, normalmente tres o cuatro, de hasta aproximadamente 1 cm de grosor. Nacen por separado de la volva y se unen sin costura en un arco en la parte superior. Son de naranja a rojas, palidecen hacia la base a rosa o amarillentas y tienen la superficie finamente alveolada.",
+        hymenium: "No tiene láminas ni poros. El tejido portador de las esporas es la gleba, una masa viscosa de color pardo a pardo oliváceo, pegajosa y de olor fétido, untada en la cara interna de las columnas, cerca de la cima o justo por debajo. Su olor atrae a moscas y otros insectos, que se alimentan de ella y dispersan las esporas.",
+        stipe: "No tiene pie. Las columnas nacen por separado de una volva gruesa, laxa, blanca, en forma de saco, el resto de la piel del huevo, que permanece alrededor de la base. La base se ancla al suelo mediante cordones blancos (rizomorfos).",
+        flesh: "Las columnas son huecas, blandas y esponjosas, con la superficie finamente alveolada. Al cortar un huevo se ve el carpóforo joven, de rojo a naranja, sumergido en una capa gelatinosa parduzca.",
+        sporePrint: "Pardo oliváceo. Las esporas son lisas, de elipsoidales a cilíndricas, de unos 3,5–5 × 1,5–2,5 μm.",
+        habitat: "Un hongo saprótrofo que crece solitario, disperso o en grupos sobre restos de madera o cerca de ellos, en raíces y tocones enterrados, en suelo arenoso, céspedes, jardines y mantillo de astillas de madera, a menudo en lugares alterados o ajardinados. Fructifica de la primavera al otoño, y durante el invierno en climas cálidos, sobre todo después de la lluvia. Se encuentra en América del Norte, Central y del Sur, en África, en China y en Oceanía, y puede haber sido introducido en América del Norte con plantas exóticas.",
+        uses: "No se usa como alimento. El huevo se describe como de sabor suave y una guía incluye la especie como comestible, pero el carpóforo maduro huele mal. Dos informes antiguos describen intoxicaciones, convulsiones en una niña que comió un trocito y la muerte de cerdos que lo comieron, por lo que es mejor considerarlo no comestible.",
+        confusion: "Pseudocolus fusiformis tiene de tres a cuatro brazos que nacen de un pie común, a veces muy corto y oculto en la volva, el limo de esporas al menos en la mitad superior de los brazos y un huevo y una volva de grisáceos a pardo grisáceos. Una vez liberados de la volva, los brazos de esta especie quedan claramente separados. Clathrus bicolumnatus es más pequeño, de hasta 9 cm de alto, y tiene solo dos columnas. Clathrus ruber forma una red globosa en lugar de columnas.",
+        notes: "El nombre de la especie columnatus es latino y significa sostenido por columnas. La especie fue descrita por primera vez en 1811, a partir de Carolina del Sur, por el botánico francés Bosc. La gleba cuelga bajo el arco del receptáculo. Se ha registrado que el escarabajo Psilopyga fasciata se alimenta de la gleba en ejemplares mexicanos."
+      },
+      sv: {
+        description: "En saprotrof stinksvamp med två till fem svampiga, orange till röda pelare som kommer upp ur ett vitt ägg och växer ihop upptill. Den växer enstaka eller i grupper på sandig jord, gräsmattor och flisbarkstäckning i varma delar av Amerika, Afrika och Oceanien. Det illaluktande sporslemmet på pelarnas insida lockar till sig flugor.",
+        cap: "Den unga fruktkroppen är ett vitaktigt till gråaktigt ägg, 2–5 cm brett, med ett brunaktigt gelélager under skalet som omger den röda till orange fruktkroppen som ligger hopvikt inuti. Den mogna fruktkroppen är 5–12 cm hög och 2–4 cm bred, även om vissa källor anger en höjd på högst 8 cm. Den består av två till fem ihåliga, svampiga pelare, oftast tre till fyra, upp till omkring 1 cm tjocka. De kommer var för sig upp ur slidan och växer sömlöst ihop i en båge upptill. De är orange till röda, blir rosa eller gulaktiga mot basen och har en fint fint gropig yta.",
+        hymenium: "Det finns varken skivor eller porer. Den sporbärande vävnaden är gleban, ett brunt till olivbrunt, klibbigt och illaluktande slem som är utstruket på pelarnas insidor nära toppen eller strax under den. Dess lukt lockar flugor och andra insekter, som äter av det och sprider sporerna.",
+        stipe: "Det finns ingen fot. Pelarna kommer var för sig upp ur en tjock, lös, vit, säckformad slida, resterna av äggskalet, som blir kvar kring basen. Basen är förankrad i marken med vita trådar (rhizomorfer).",
+        flesh: "Pelarna är ihåliga, mjuka och svampiga med en fint gropig yta. När ett ägg skärs upp syns den röda till orange unga fruktkroppen, inbäddad i ett brunaktigt gelélager.",
+        sporePrint: "Olivbrunt. Sporerna är släta, ellipsoida till cylindriska, cirka 3,5–5 × 1,5–2,5 μm.",
+        habitat: "En saprotrof svamp som växer enstaka, spritt eller i grupper på eller nära vedrester, nedgrävda rötter och stubbar, på sandig jord, gräsmattor, i trädgårdar och flisbarkstäckning, ofta på störda eller anlagda platser. Den bildar fruktkroppar från vår till höst, och i varmt klimat också under vintern, särskilt efter regn. Den förekommer i Nord-, Central- och Sydamerika, Afrika, Kina och Oceanien och kan ha förts in till Nordamerika med exotiska växter.",
+        uses: "Används inte som mat. Ägget beskrivs som milt i smaken och en handbok anger arten som ätlig, men den mogna fruktkroppen luktar illa. Två gamla rapporter beskriver förgiftning, kramper hos en flicka som åt en liten bit och att grisar som åt den dog, så den bör helst betraktas som oätlig.",
+        confusion: "Pseudocolus fusiformis har tre till fyra armar som kommer från en gemensam, ibland mycket kort fot dold i slidan, sporslem på minst den övre halvan av armarna och ett grått till gråbrunt ägg och slida. När armarna frigörs från slidan är de hos denna art tydligt åtskilda. Clathrus bicolumnatus är mindre, upp till 9 cm hög, och har bara två pelare. Clathrus ruber bildar ett klotformigt galler i stället för pelare.",
+        notes: "Artnamnet columnatus är latin och betyder uppburen av pelare. Arten beskrevs första gången 1811 från South Carolina av den franske botanikern Bosc. Gleban hänger under receptaklets båge. Skalbaggen Psilopyga fasciata har noterats äta av gleban på mexikanska exemplar."
+      },
+      tr: {
+        description: "Saprofit bir kokarca mantarı; beyaz bir yumurtadan yükselen ve üstte birleşen, süngerimsi, turuncudan kırmızıya iki ila beş sütunu vardır. Amerika, Afrika ve Okyanusya'nın sıcak bölgelerinde kumlu toprakta, çimenlerde ve odun talaşı malçta tek tek ya da gruplar hâlinde yetişir. Sütunların içindeki kötü kokulu spor balçığı sinekleri çeker.",
+        cap: "Genç meyve gövdesi, kabuğunun altında kahverengimsi jelatinimsi bir tabaka bulunan, 2–5 cm genişliğinde beyazımsıdan grimsiye bir yumurtadır; bu tabaka içeride katlanmış hâlde duran kırmızıdan turuncuya meyve gövdesini sarar. Olgun meyve gövdesi 5–12 cm yüksekliğinde ve 2–4 cm genişliğindedir, ancak bazı kaynaklar en çok 8 cm yükseklik verir. Genellikle üç ila dört olmak üzere iki ila beş içi boş, süngerimsi sütundan oluşur ve kalınlıkları yaklaşık 1 cm'ye kadardır. Sütunlar volvadan ayrı ayrı çıkar ve üstte dikişsiz bir kemerde birleşir. Turuncudan kırmızıya renklidirler, tabana doğru pembeye ya da sarımsıya solarlar ve yüzeyleri ince çukurcuklarla kaplıdır.",
+        hymenium: "Lamel ya da gözenek yoktur. Spor taşıyan doku glebadır; sütunların iç yüzeylerine tepeye yakın ya da hemen altına sürülmüş, kahverengiden zeytin kahverengisine kadar değişen, yapışkan ve kötü kokulu bir balçıktır. Kokusu sinekleri ve başka böcekleri çeker; bunlar glebayı yer ve sporları taşır.",
+        stipe: "Sap yoktur. Sütunlar, yumurta zarının kalıntısı olan ve tabanın çevresinde kalan kalın, gevşek, beyaz, kese biçimli bir volvadan ayrı ayrı yükselir. Taban beyaz iplikçiklerle (rizomorflarla) toprağa tutunur.",
+        flesh: "Sütunlar içi boş, yumuşak ve süngerimsidir, yüzeyleri ince çukurcuklarla kaplıdır. Bir yumurta kesildiğinde, kahverengimsi jelatinimsi bir tabakaya gömülü kırmızıdan turuncuya genç meyve gövdesi görülür.",
+        sporePrint: "Zeytin kahverengi. Sporlar pürüzsüz, elipsoitten silindirike kadar değişen biçimde olup yaklaşık 3,5–5 × 1,5–2,5 μm boyutundadır.",
+        habitat: "Odunsu atıkların üzerinde ya da yakınında, gömülü kökler ve kütükler üzerinde, kumlu toprakta, çimenlerde, bahçelerde ve odun talaşı malçta tek tek, dağınık ya da gruplar hâlinde yetişen saprofit bir mantardır; çoğunlukla bozulmuş ya da düzenlenmiş yerlerde görülür. İlkbahardan sonbahara, sıcak iklimlerde kışın da, özellikle yağıştan sonra meyve verir. Kuzey, Orta ve Güney Amerika'da, Afrika'da, Çin'de ve Okyanusya'da görülür ve Kuzey Amerika'ya egzotik bitkilerle getirilmiş olabilir.",
+        uses: "Gıda olarak kullanılmaz. Yumurtanın tadı yumuşak olarak tanımlanır ve bir rehber türü yenilebilir olarak listeler, ancak olgun meyve gövdesi kötü kokar. İki eski rapor zehirlenmeyi anlatır: küçük bir parça yiyen bir kızda çırpınmalar ve onu yiyen domuzların ölümü; bu nedenle yenmez saymak en iyisidir.",
+        confusion: "Pseudocolus fusiformis'in, volva içinde gizli ortak ve bazen çok kısa bir saptan çıkan üç ila dört kolu, kolların en az üst yarısında spor balçığı ve grimsiden gri kahverengiye yumurtası ile volvası vardır. Kollar volvadan ayrıldığında, bu türde belirgin biçimde ayrıdırlar. Clathrus bicolumnatus daha küçüktür, 9 cm'ye kadar yüksekliktedir ve yalnızca iki sütunu vardır. Clathrus ruber sütun yerine küresel bir kafes oluşturur.",
+        notes: "Tür adı columnatus Latincedir ve sütunlarla desteklenmiş anlamına gelir. Tür ilk kez 1811'de Fransız botanikçi Bosc tarafından Güney Karolina'dan tanımlanmıştır. Gleba, meyve gövdesinin kemerinin altında sarkar. Meksika örneklerinde Psilopyga fasciata böceğinin glebayı yediği kaydedilmiştir."
+      },
+      uk: {
+        description: "Сапротрофний гриб-смердючка з двома–п'ятьма губчастими помаранчевими або червоними стовпчиками, які здіймаються з білого яйця й угорі зростаються. Росте поодинці або групами на піщаному ґрунті, газонах і мульчі з деревної тріски в теплих районах Америки, Африки та Океанії. Смердючий споровий слиз усередині стовпчиків приваблює мух.",
+        cap: "Молоде плодове тіло — білувате або сивувате яйце завширшки 2–5 см, під оболонкою якого лежить буруватий драглистий шар, що оточує складене всередині червоне або помаранчеве плодове тіло. Зріле плодове тіло заввишки 5–12 см і завширшки 2–4 см, хоча деякі джерела називають висоту до 8 см. Воно складається з двох–п'яти порожнистих губчастих стовпчиків, зазвичай трьох–чотирьох, завтовшки до приблизно 1 см. Вони відходять від вольви окремо, а вгорі без шва змикаються в арку. Вони помаранчеві або червоні, до основи блякнуть до рожевого або жовтуватого, поверхня тонко ямчаста.",
+        hymenium: "Пластинок і пор немає. Спороносна тканина — глеба, бурий або оливково-бурий липкий смердючий слиз, розмазаний по внутрішніх боках стовпчиків поблизу верхівки або трохи нижче. Її запах приваблює мух та інших комах, які поїдають її й розносять спори.",
+        stipe: "Ніжки немає. Стовпчики відходять окремо від товстої, пухкої, білої мішкоподібної вольви, залишку оболонки яйця, яка лишається навколо основи. Основа кріпиться до ґрунту білими шнурами (різоморфами).",
+        flesh: "Стовпчики порожнисті, м'які й губчасті, з тонко ямчастою поверхнею. Якщо яйце розрізати, видно червоне або помаранчеве молоде плодове тіло, занурене в буруватий драглистий шар.",
+        sporePrint: "Оливково-бурий. Спори гладенькі, еліпсоїдні або циліндричні, приблизно 3,5–5 × 1,5–2,5 мкм.",
+        habitat: "Сапротрофний гриб, що росте поодинці, розкидано або групами на деревних рештках чи поряд із ними, на похованих коренях і пеньках, на піщаному ґрунті, газонах, у садах і на мульчі з деревної тріски, часто в порушених або упорядкованих місцях. Плодоносить із весни до осені, а в теплому кліматі й узимку, особливо після дощу. Трапляється в Північній, Центральній і Південній Америці, Африці, Китаї та Океанії, а до Північної Америки міг потрапити з екзотичними рослинами.",
+        uses: "У їжу не вживається. Смак яйця описують як м'який, і один визначник наводить вид як їстівний, але зріле плодове тіло смердить. У двох давніх повідомленнях описано отруєння: судоми в дівчинки, яка з'їла невеликий шматочок, і загибель свиней, які його з'їли, тож найкраще вважати гриб неїстівним.",
+        confusion: "У Pseudocolus fusiformis три–чотири промені відходять від спільної, іноді дуже короткої ніжки, схованої у вольві, споровий слиз вкриває щонайменше верхню половину променів, а яйце й вольва сіруваті або сіро-бурі. Якщо звільнити промені від вольви, у цього виду вони чітко розділені. Clathrus bicolumnatus дрібніший, заввишки до 9 см, і має лише два стовпчики. Clathrus ruber утворює кулясту решітку замість стовпчиків.",
+        notes: "Видова назва columnatus латинська й означає підтримуваний колонами. Вид уперше описав із Південної Кароліни французький ботанік Боск у 1811 році. Глеба звисає під аркою рецептакула. На мексиканських зразках зафіксовано живлення глебою жука Psilopyga fasciata."
+      }
+    },
+    sources: {
+      en: [
+        {
+          "group": "name",
+          "name": "MushroomExpert.Com",
+          "href": "https://www.mushroomexpert.com/clathrus_columnatus.html"
+        },
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://en.wikipedia.org/wiki/Clathrus_columnatus"
+        },
+        {
+          "group": "name",
+          "name": "Index Fungorum",
+          "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=200050",
+          "detail": "200050"
+        },
+        {
+          "group": "name",
+          "name": "Species Fungorum",
+          "href": "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=200050",
+          "detail": "200050"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239478",
+          "detail": "5239478"
+        }
+      ],
+      sk: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239478",
+          "detail": "5239478"
+        }
+      ],
+      ar: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239478",
+          "detail": "5239478"
+        }
+      ],
+      bg: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239478",
+          "detail": "5239478"
+        }
+      ],
+      zh: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239478",
+          "detail": "5239478"
+        }
+      ],
+      hr: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239478",
+          "detail": "5239478"
+        }
+      ],
+      cs: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239478",
+          "detail": "5239478"
+        }
+      ],
+      da: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239478",
+          "detail": "5239478"
+        }
+      ],
+      nl: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://nl.wikipedia.org/wiki/Clathrus_columnatus"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239478",
+          "detail": "5239478"
+        }
+      ],
+      et: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239478",
+          "detail": "5239478"
+        }
+      ],
+      fi: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239478",
+          "detail": "5239478"
+        }
+      ],
+      fr: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239478",
+          "detail": "5239478"
+        }
+      ],
+      de: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239478",
+          "detail": "5239478"
+        }
+      ],
+      he: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239478",
+          "detail": "5239478"
+        }
+      ],
+      hi: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239478",
+          "detail": "5239478"
+        }
+      ],
+      hu: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239478",
+          "detail": "5239478"
+        }
+      ],
+      id: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239478",
+          "detail": "5239478"
+        }
+      ],
+      it: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239478",
+          "detail": "5239478"
+        }
+      ],
+      ja: [
+        {
+          "group": "text",
+          "name": "京都府レッドデータブック2015",
+          "href": "https://www.pref.kyoto.jp/kankyo/rdb/bio/db/fun0016.html",
+          "detail": "ヨツデタケ"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239478",
+          "detail": "5239478"
+        }
+      ],
+      ko: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239478",
+          "detail": "5239478"
+        }
+      ],
+      lv: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239478",
+          "detail": "5239478"
+        }
+      ],
+      lt: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239478",
+          "detail": "5239478"
+        }
+      ],
+      no: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239478",
+          "detail": "5239478"
+        }
+      ],
+      fa: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239478",
+          "detail": "5239478"
+        }
+      ],
+      pl: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://pl.wikipedia.org/wiki/Clathrus_columnatus"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239478",
+          "detail": "5239478"
+        }
+      ],
+      pt: [
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://pt.wikipedia.org/wiki/Clathrus_columnatus"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239478",
+          "detail": "5239478"
+        }
+      ],
+      ro: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239478",
+          "detail": "5239478"
+        }
+      ],
+      ru: [
+        {
+          "group": "text",
+          "name": "Википедия",
+          "href": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D1%88%D1%91%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA_%D0%BA%D0%BE%D0%BB%D0%BE%D0%BD%D0%BD%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B9"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239478",
+          "detail": "5239478"
+        }
+      ],
+      sr: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239478",
+          "detail": "5239478"
+        }
+      ],
+      sl: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239478",
+          "detail": "5239478"
+        }
+      ],
+      es: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://es.wikipedia.org/wiki/Clathrus_columnatus"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239478",
+          "detail": "5239478"
+        }
+      ],
+      sv: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://sv.wikipedia.org/wiki/Clathrus_columnatus"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239478",
+          "detail": "5239478"
+        }
+      ],
+      tr: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239478",
+          "detail": "5239478"
+        }
+      ],
+      uk: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5239478",
+          "detail": "5239478"
+        }
+      ]
+    },
+    synonyms: [
+      "Linderia columnata (Bosc) G. Cunn.",
+      "Colonnaria columnata (Bosc) E. Fisch.",
+      "Linderiella columnata (Bosc) G. Cunn."
+    ]
+  },
+  {
+    id: 97,
+    name: "Parasola plicatilis",
+    author: "(Curtis) Redhead, Vilgalys & Hopple",
+    family: "Psathyrellaceae",
+    genus: "Parasola",
+    order: "Agaricales",
+    edibility: "inedible",
+    hymenium: "gills",
+    where: ["ground", "grass"],
+    color: ["brown", "dark"],
+    path: [
+      "Fungi",
+      "Dikarya",
+      "Basidiomycota",
+      "Agaricomycotina",
+      "Agaricomycetes",
+      "Agaricomycetidae",
+      "Agaricales",
+      "Psathyrellaceae",
+      "Parasola"
+    ],
+    summary: ["Agaricales", "Psathyrellaceae", "Parasola"],
+    added: "2026-11-03",
+    plate: STORAGE + "photos/Agaricales/Psathyrellaceae/Parasola_plicatilis/Parasola_plicatilis@1600.webp",
+    plateGrid: STORAGE + "photos/Agaricales/Psathyrellaceae/Parasola_plicatilis/Parasola_plicatilis@400.webp",
+    plateCredit: {
+      author: "James Sowerby",
+      license: "public domain",
+      source: "https://commons.wikimedia.org/wiki/File:Coloured_Figures_of_English_Fungi_or_Mushrooms_-_t._364.jpg"
+    },
+    photos: [
+      {
+        src: STORAGE + "photos/Agaricales/Psathyrellaceae/Parasola_plicatilis/pp1.webp",
+        author: "Nathan Wilson",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Parasola_plicatilis_6204.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Psathyrellaceae/Parasola_plicatilis/pp2.webp",
+        author: "DidierFy",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Parasola_plicatilis_06.2025_(7).jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Psathyrellaceae/Parasola_plicatilis/pp3.webp",
+        author: "Thomas Pruß",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Raedchentintling001.JPG"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Psathyrellaceae/Parasola_plicatilis/pp4.webp",
+        author: "DidierFy",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Parasola_plicatilis_06.2025_(8).jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Psathyrellaceae/Parasola_plicatilis/pp5.webp",
+        author: "Höyhens",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:ParasolaPlicatilisGillsFi.JPG"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Psathyrellaceae/Parasola_plicatilis/pp6.webp",
+        author: "Kryštof Boura",
+        license: "CC BY 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Parasola_plicatilis_77661745.jpg"
+      }
+    ],
+    capFrom: 1,
+    capTo: 3.5,
+    stipeHeightFrom: 3.5,
+    stipeHeightTo: 10,
+    stipeThickFrom: 0.1,
+    stipeThickTo: 0.2,
+    fruitingFrom: 5,
+    fruitingTo: 11,
+    label: {
+      en: "pleated inkcap",
+      sk: "hnojník ozdobný",
+      zh: "褶紋鬼傘",
+      hr: "naborana gnojištarka",
+      cs: "hnojník řasnatý",
+      da: "plæne-hjulhat",
+      nl: "Gewoon plooirokje",
+      et: "kraetindik",
+      fi: "ratasmustesieni",
+      fr: "coprin plissé",
+      de: "Gemeiner Scheibchentintling",
+      hu: "gyenge áltintagomba",
+      ja: "ヒメヒガサヒトヨタケ",
+      ko: "양산버섯",
+      lv: "krokainā tintene",
+      lt: "pievinis mėšlagrybis",
+      no: "hjulsopp",
+      pl: "parasolka fałdowana",
+      ru: "навозник складчатый",
+      sl: "zgubana črnilovka",
+      es: "coprino plegado",
+      sv: "veckad bläcksvamp",
+      uk: "гнойовик складчастий"
+    },
+    names: {
+      en: ["little Japanese umbrella"],
+      zh: ["褶紋近地傘"],
+      cs: ["hnojník řasový"],
+      da: ["hjul-blækhat"],
+      nl: ["plooirokje"],
+      fr: ["coprin parasol"],
+      de: ["Rad-Tintling", "Scheibchentintling", "Rädchentintling"],
+      no: ["hjulblekksopp"],
+      pl: ["czernidłak fałdowany"],
+      es: ["coprino plisado"]
+    },
+    text: {
+      en: {
+        description: "A tiny, short-lived inkcap whose pale, deeply pleated cap opens like a miniature umbrella above a hair-thin, fragile white stem. It grows alone, scattered or in small groups in short grass on lawns, meadows and verges, and its gills turn grey and black without dissolving into ink.",
+        cap: "The cap is 1–3.5 cm across when fully open, and only 5–10 mm and cylindrical to egg-shaped when young. It becomes bell-shaped or convex, then opens flat like an umbrella, sometimes with a slightly depressed centre. It is deeply grooved from the margin almost to the middle, while the centre stays smooth as a small disc. Young caps are yellowish to reddish brown with a tawny or orange-brown centre, and they turn grey in the grooves and finally grey overall. The surface is bald and without veil remnants. The thin cap shrivels or collapses instead of dissolving.",
+        hymenium: "The gills are free from the stem and attach to a small collar around its top. They are thin, close to fairly distant, white at first, then grey and finally black. Unlike those of most inkcaps, they do not deliquesce, and the cap flattens and shrivels instead. The basidia are four-spored.",
+        stipe: "The stem is 3.5–10 cm long and only 1–2 mm thick, cylindrical and equal, with a slightly swollen base. It is very fragile and hollow, bald to finely silky, and white to pale cream, becoming slightly brownish towards the base. There is no ring.",
+        flesh: "The flesh is very thin, whitish to greyish and insubstantial. The smell and taste are not distinctive.",
+        sporePrint: "Black. The spores are angular-ovoid to lemon-shaped, sometimes slightly ellipsoid, smooth and dark reddish brown, about 10–15 × 8–11 μm, with a prominent eccentric germ pore.",
+        habitat: "A saprotrophic fungus that grows alone, scattered or in small groups in short grass, usually in sunny places such as lawns, meadows, parks, roadsides and the edges of woods and fields. Occasionally it forms troops on soil covered with leaf litter or wood chips. The fruit bodies appear overnight after rain and are usually gone by the next day. It fruits from spring through autumn, mostly from May to November, and over winter in warm climates. It is widespread in the northern temperate zone, including Europe and North America, with records from Asia, North Africa and Australia.",
+        uses: "Considered inedible, although it is not known to be poisonous. The fruit bodies are tiny, thin-fleshed and so fragile that there is nothing worth eating.",
+        confusion: "Parasola leiocephala looks almost identical but has smaller, more angular spores, about 8–12 × 7–10.5 μm, and grows on bare soil or in shaded grass. Parasola auricoma is slightly larger, has brown hairs on the cap and has gills attached to the stem. Parasola kuehneri is more orange-brown with smaller spores and grows at woodland edges. Small species of Coprinopsis and Coprinellus have a powdery or granular veil coating, at least when young. Coprinellus disseminatus grows in dense troops on stumps and rotting wood.",
+        notes: "Unlike most inkcaps, the cap does not turn into ink: it flattens and then dries and shrivels in the morning sun, or the stem collapses under the weight of the cap. The fruit bodies grow at night after rain and last only about a day. The cap resembles a tiny cocktail umbrella. It is common and is assessed as Least Concern on the Danish red list."
+      },
+      sk: {
+        description: "Drobná, krátkodobá huba, ktorej bledý, hlboko ryhovaný klobúk sa rozovrie ako miniatúrny dáždnik nad vlásočnicovo tenkým, krehkým bielym hlúbikom. Rastie jednotlivo, roztrúsene alebo v malých skupinách v krátkej tráve na trávnikoch, lúkach a okrajoch ciest a jej lupene sivejú a černejú bez rozpúšťania na atrament.",
+        cap: "Klobúk je po úplnom rozovretí široký 1–3,5 cm, v mladosti len 5–10 mm a valcovitý až vajcovitý. Potom je zvončekovitý alebo klenutý a nakoniec sa rozovrie naplocho ako dáždnik, niekedy s mierne preliačeným stredom. Je hlboko ryhovaný od okraja takmer po stred, pričom stred zostáva hladký ako malý terčík. Mladé klobúky sú žltkasté až červenohnedé s okrovým alebo oranžovohnedým stredom, v ryhách sivejú a nakoniec sú celé sivé. Povrch je holý a bez zvyškov plachtičky. Tenký klobúk sa nerozplýva, ale zasychá a zvraští sa alebo sa zloží.",
+        hymenium: "Lupene sú voľné, pripojené k malému golierčeku na vrchu hlúbika. Sú tenké, husté až pomerne riedke, spočiatku biele, potom sivé a nakoniec čierne. Na rozdiel od väčšiny hnojníkov sa nerozplývajú na atrament, klobúk sa len splošťuje a zvraští. Bazídiá sú štvorvýtrusné.",
+        stipe: "Hlúbik je dlhý 3,5–10 cm a hrubý len 1–2 mm, valcovitý a rovnomerne hrubý, so slabo zhrubnutou bázou. Je veľmi krehký a dutý, holý až jemne hodvábny, biely až bledokrémový a k báze mierne hnedastý. Prstenec chýba.",
+        flesh: "Dužina je veľmi tenká, belavá až sivastá a nepatrná. Vôňa a chuť nie sú výrazné.",
+        sporePrint: "Čierny. Výtrusy sú uhlovito vajcovité až citrónovité, niekedy mierne elipsovité, hladké a tmavočervenohnedé, asi 10–15 × 8–11 μm, s výraznou excentrickou klíčnou pórou.",
+        habitat: "Saprotrofná huba, ktorá rastie jednotlivo, roztrúsene alebo v malých skupinách v krátkej tráve, zvyčajne na slnečných miestach, ako sú trávniky, lúky, parky, okraje ciest a okraje lesov a polí. Občas tvorí skupiny na pôde pokrytej lístím alebo štiepkou. Plodnice vyrastú cez noc po daždi a zvyčajne do nasledujúceho dňa zmiznú. Rastie od jari do jesene, najmä od mája do novembra, a v teplých oblastiach aj cez zimu. Je rozšírená v severnom miernom pásme vrátane Európy a Severnej Ameriky, s nálezmi aj z Ázie, severnej Afriky a Austrálie.",
+        uses: "Považuje sa za nejedlú, hoci nie je známa ako jedovatá. Plodnice sú drobné, tenkomäsité a také krehké, že niet čo jesť.",
+        confusion: "Parasola leiocephala vyzerá takmer rovnako, ale má menšie, hranatejšie výtrusy, asi 8–12 × 7–10,5 μm, a rastie na holej pôde alebo v tienistej tráve. Parasola auricoma je o niečo väčšia, má na klobúku hnedé chĺpky a lupene prirastené k hlúbiku. Parasola kuehneri je oranžovohnedšia, s menšími výtrusmi, a rastie na okrajoch lesov. Drobné druhy rodov Coprinopsis a Coprinellus majú aspoň v mladosti prášnatý alebo zrnitý povlak plachtičky. Coprinellus disseminatus rastie v hustých skupinách na pňoch a zhnitom dreve.",
+        notes: "Na rozdiel od väčšiny hnojníkov sa klobúk nerozplýva na atrament: splošťuje sa a potom na rannom slnku zasychá a zvraští sa, alebo sa hlúbik zloží pod váhou klobúka. Plodnice vyrastú v noci po daždi a vydržia len asi jeden deň. Klobúk pripomína drobný kokteilový dáždnik. Je bežná a v dánskom červenom zozname je hodnotená ako najmenej ohrozený druh (LC)."
+      },
+      ar: {
+        description: "فطر حبري صغير جدًا وقصير العمر، قبعته الشاحبة المثلمة بعمق تنفتح كمظلة مصغّرة فوق ساق بيضاء هشّة رفيعة كالشعرة. ينمو منفردًا أو متفرقًا أو في جماعات صغيرة في العشب القصير على المروج والحقول وجوانب الطرق، وتتحول صفائحه إلى الرمادي ثم الأسود من دون أن تذوب إلى حبر.",
+        cap: "يبلغ عرض القبعة ١–٣.٥ سم عند تمام انفتاحها، وهي في الصغر أسطوانية إلى بيضاوية وعرضها ٥–١٠ مم فقط. ثم تصير جرسية أو محدبة، وبعدها تنفتح منبسطة كالمظلة، وأحيانًا يكون وسطها منخفضًا قليلًا. وهي مثلمة بعمق من الحافة حتى ما يقارب الوسط، بينما يبقى الوسط أملس كقرص صغير. القبعات الفتية صفراء مائلة إلى البني المحمر وفي وسطها لون سمرة أو بني برتقالي، وتتحول إلى الرمادي في الثلوم ثم إلى الرمادي كليًا. السطح أملس بلا بقايا غلاف. القبعة الرقيقة لا تذوب بل تذبل أو تنهار.",
+        hymenium: "الصفائح حرة غير ملتصقة بالساق، وتتصل بطوق صغير حول أعلاها. وهي رقيقة، متقاربة إلى متباعدة نسبيًا، بيضاء في البداية ثم رمادية وأخيرًا سوداء. وعلى خلاف أغلب الفطور الحبرية لا تذوب إلى حبر، بل تنبسط القبعة وتذبل. الأبواغ القاعدية رباعية الأبواغ.",
+        stipe: "طول الساق ٣.٥–١٠ سم وسمكها ١–٢ مم فقط، أسطوانية متساوية، وقاعدتها منتفخة قليلًا. وهي شديدة الهشاشة ومجوفة، ملساء إلى حريرية ناعمة، بيضاء إلى كريمية شاحبة وتميل إلى البني قليلًا نحو القاعدة. لا توجد حلقة.",
+        flesh: "اللحم رقيق جدًا، أبيض إلى رمادي، وهزيل. الرائحة والطعم غير مميزين.",
+        sporePrint: "أسود. الأبواغ زاوية بيضاوية إلى ليمونية الشكل، وأحيانًا إهليلجية قليلًا، ملساء وبنية محمرّة داكنة، وقياسها نحو ١٠–١٥ × ٨–١١ ميكرومتر، ولها ثقب إنبات جانبي بارز.",
+        habitat: "فطر رمّي ينمو منفردًا أو متفرقًا أو في جماعات صغيرة في العشب القصير، وعادةً في أماكن مشمسة مثل المروج والحقول والمتنزهات وجوانب الطرق وأطراف الغابات والحقول. وأحيانًا يكوّن جماعات على تربة مغطاة بالأوراق المتساقطة أو رقائق الخشب. تظهر الثمار بين ليلة وضحاها بعد المطر وتختفي عادةً في اليوم التالي. يثمر من الربيع حتى الخريف، ومعظمه من مايو إلى نوفمبر، وخلال الشتاء في المناخات الدافئة. وهو منتشر في المنطقة المعتدلة الشمالية ومنها أوروبا وأمريكا الشمالية، مع تسجيلات من آسيا وشمال أفريقيا وأستراليا.",
+        uses: "يُعدّ غير صالح للأكل، مع أنه غير معروف بأنه سام. فالثمار صغيرة ورقيقة اللحم وهشة إلى حد أنه لا يوجد فيها ما يستحق الأكل.",
+        confusion: "يبدو Parasola leiocephala مطابقًا تقريبًا، لكن أبواغه أصغر وأكثر زاوية، نحو ٨–١٢ × ٧–١٠.٥ ميكرومتر، وينمو على تربة عارية أو في عشب ظليل. أما Parasola auricoma فهو أكبر قليلًا وعلى قبعته شعيرات بنية وصفائحه ملتصقة بالساق. أما Parasola kuehneri فأميل إلى البني البرتقالي وأبواغه أصغر وينمو على أطراف الغابات. وفي الأنواع الصغيرة من الجنسين Coprinopsis و Coprinellus طبقة غلاف مسحوقية أو حبيبية، على الأقل في الصغر. أما Coprinellus disseminatus فينمو في جماعات كثيفة على الجذوع والخشب المتحلل.",
+        notes: "على خلاف أغلب الفطور الحبرية لا تتحول القبعة إلى حبر، بل تنبسط ثم تجف وتذبل في شمس الصباح، أو تنهار الساق تحت وزن القبعة. تنمو الثمار ليلًا بعد المطر ولا تدوم إلا نحو يوم واحد. وتشبه القبعة مظلة كوكتيل صغيرة. وهو شائع، وقد صُنّف على أنه أقل إثارة للقلق (LC) في القائمة الحمراء الدنماركية."
+      },
+      bg: {
+        description: "Дребна, краткотрайна мастилена гъба, чиято бледа, дълбоко набраздена шапка се разтваря като миниатюрен чадър над тънко като косъм, крехко бяло пънче. Расте единично, пръснато или на малки групи в ниска трева по тревни площи, ливади и банкети, а ламелите ѝ сивеят и почернява, без да се разливат в мастило.",
+        cap: "Шапката е 1–3,5 cm в диаметър при пълно разтваряне, а в млада възраст е само 5–10 mm и цилиндрична до яйцевидна. После става камбановидна или изпъкнала и накрая се разтваря плоско като чадър, понякога с леко вдлъбнат център. Дълбоко е набраздена от ръба почти до средата, а центърът остава гладък като малък диск. Младите шапки са жълтеникави до червеникавокафяви с жълтеникавокафяв или оранжевокафяв център, в браздите сивеят и накрая стават изцяло сиви. Повърхността е гола, без остатъци от воал. Тънката шапка не се разлива, а се свива или се срутва.",
+        hymenium: "Ламелите са свободни и се прикрепват към малка яка около върха на пънчето. Тънки са, гъсти до сравнително редки, в началото бели, после сиви и накрая черни. За разлика от повечето мастилени гъби не се разтварят в мастило, а шапката се сплесква и се свива. Базидиите са четириспорови.",
+        stipe: "Пънчето е дълго 3,5–10 cm и дебело само 1–2 mm, цилиндрично и равно, с леко подуто основание. Много е крехко и кухо, голо до ситно копринено, бяло до бледокремаво и към основата леко кафеникаво. Пръстен няма.",
+        flesh: "Месото е много тънко, бялкаво до сивкаво и незабележимо. Мирисът и вкусът не са характерни.",
+        sporePrint: "Черен. Спорите са ъгловато яйцевидни до лимоновидни, понякога леко елипсовидни, гладки и тъмночервеникавокафяви, около 10–15 × 8–11 μm, с изразена ексцентрична покълнателна пора.",
+        habitat: "Сапротрофна гъба, която расте единично, пръснато или на малки групи в ниска трева, обикновено на слънчеви места като тревни площи, ливади, паркове, пътни банкети и краища на гори и ниви. Понякога образува групи върху почва, покрита с окапали листа или дървесни стърготини. Плодните тела се появяват за една нощ след дъжд и обикновено изчезват на следващия ден. Плододава от пролетта до есента, най-вече от май до ноември, а в топъл климат и през зимата. Разпространена е в северната умерена зона, включително в Европа и Северна Америка, със сведения и от Азия, Северна Африка и Австралия.",
+        uses: "Смята се за негодна за ядене, макар че не е известна като отровна. Плодните тела са дребни, тънкомесести и толкова крехки, че няма какво да се яде.",
+        confusion: "Parasola leiocephala изглежда почти същата, но има по-дребни, по-ъгловати спори, около 8–12 × 7–10,5 μm, и расте на гола почва или в сенчеста трева. Parasola auricoma е малко по-едра, има кафяви власинки по шапката и ламели, прикрепени към пънчето. Parasola kuehneri е по-оранжевокафява, с по-дребни спори, и расте по краищата на гори. Дребните видове от родовете Coprinopsis и Coprinellus имат прашест или зърнест покров от воал, поне в млада възраст. Coprinellus disseminatus расте на гъсти групи по пънове и гниеща дървесина.",
+        notes: "За разлика от повечето мастилени гъби шапката не се превръща в мастило: сплесква се и после изсъхва и се свива на утринното слънце, или пънчето се срутва под тежестта на шапката. Плодните тела израстват нощем след дъжд и траят само около един ден. Шапката прилича на малък коктейлен чадър. Обикновена е и в Червения списък на Дания е оценена като вид с най-малка загриженост (LC)."
+      },
+      zh: {
+        description: "一種微小而短命的鬼傘類蘑菇，淡色、有深褶皺的菌蓋如迷你雨傘般撐開，下方是細如髮絲、脆弱的白色菌柄。它單生、散生或小群生於草坪、草地和路邊的矮草中，菌褶變灰、變黑，卻不會溶成墨汁。",
+        cap: "菌蓋完全展開時寬1–3.5厘米，幼時僅寬5–10毫米，呈圓柱形至卵形。之後成鐘形或凸鏡形，最後像雨傘一樣展平，有時中央略凹。表面從邊緣到幾乎中央都有深深的溝紋，中央則保持光滑，呈小圓盤狀。幼嫩的菌蓋呈淺黃色至紅褐色，中央為黃褐色或橙褐色，溝紋處先變灰，最後整體變灰。表面光滑無毛，沒有菌幕殘留物。薄薄的菌蓋不會自溶，而是皺縮或塌陷。",
+        hymenium: "菌褶離生，與菌柄頂端周圍的一個小環領相連。菌褶薄，由密至相當稀疏，幼時白色，之後灰色，最後黑色。與大多數鬼傘類不同，它不會自溶成墨汁，菌蓋只是展平並皺縮。擔子具4個孢子。",
+        stipe: "菌柄長3.5–10厘米，粗僅1–2毫米，圓柱形，上下等粗，基部略膨大。非常脆弱，中空，光滑至有細絲狀光澤，白色至淡奶油色，近基部略帶褐色。沒有菌環。",
+        flesh: "菌肉很薄，呈白色至灰白色，極不顯著。氣味和味道不明顯。",
+        sporePrint: "黑色。孢子呈多角卵形至檸檬形，有時略呈橢圓形，光滑，暗紅褐色，大小約為10–15 × 8–11μm，有明顯偏心的芽孔。",
+        habitat: "腐生真菌，單生、散生或小群生於矮草中，通常在向陽處，例如草坪、草地、公園、路邊以及林緣和田邊。偶爾也成群生於覆有落葉或木屑的土壤上。子實體在雨後一夜之間長出，通常到次日就消失。春季至秋季結實，大多在五月至十一月，在溫暖氣候下冬季也有。分布於北溫帶，包括歐洲和北美洲，在亞洲、北非和澳洲也有記錄。",
+        uses: "被認為不可食用，不過並不被認為有毒。子實體微小、肉薄而且非常脆弱，沒有值得食用的部分。",
+        confusion: "Parasola leiocephala 外觀幾乎相同，但孢子較小、角度更明顯，約為8–12 × 7–10.5μm，生於裸露的土壤或有遮蔭的草中。Parasola auricoma 略大，菌蓋上有褐色細毛，菌褶與菌柄相連。Parasola kuehneri 更偏橙褐色，孢子較小，生於林緣。Coprinopsis 和 Coprinellus 的小型種至少在幼時有粉狀或顆粒狀的菌幕覆蓋物。Coprinellus disseminatus 密集群生於樹樁和腐木上。",
+        notes: "與大多數鬼傘類不同，菌蓋不會變成墨汁：它先展平，然後在晨光下乾枯皺縮，或是菌柄在菌蓋的重量下塌倒。子實體在雨後夜間長出，只能維持大約一天。菌蓋像一把小小的雞尾酒傘。它很常見，在丹麥紅色名錄中被評為無危（LC）。"
+      },
+      hr: {
+        description: "Sitna, kratkotrajna gljiva čiji se blijedi, duboko nabrani klobuk otvara poput minijaturnog kišobrana nad tankim poput vlasi, krhkim bijelim stručkom. Raste pojedinačno, raštrkano ili u malim skupinama u niskoj travi na travnjacima, livadama i uz ceste, a listići joj sive i crne, a da se ne rastaču u tintu.",
+        cap: "Klobuk je potpuno otvoren širok 1–3,5 cm, a u mladosti je samo 5–10 mm širok i valjkast do jajolik. Zatim postaje zvonolik ili ispupčen i naposljetku se otvara plosnato poput kišobrana, katkad s blago udubljenim središtem. Duboko je izbrazdan od ruba gotovo do sredine, a središte ostaje glatko poput malog diska. Mladi klobuci su žućkasti do crvenkastosmeđi s oker do narančastosmeđim središtem, u brazdama sive, a naposljetku su posve sivi. Površina je gola, bez ostataka ovoja. Tanki klobuk se ne rastače, nego se smežura ili sklopi.",
+        hymenium: "Listići su slobodni i pričvršćeni za mali ovratnik oko vrha stručka. Tanki su, gusti do prilično rijetki, u početku bijeli, zatim sivi i naposljetku crni. Za razliku od većine srodnih vrsta ne rastaču se u tintu, nego se klobuk spljošti i smežura. Bazidiji su četverosporni.",
+        stipe: "Stručak je dug 3,5–10 cm i debeo samo 1–2 mm, cilindričan i jednake debljine, s blago zadebljanom bazom. Vrlo je krhak i šupalj, gol do sitno svilenkast, bijel do blijedokremast, a prema bazi blago smećkast. Prstena nema.",
+        flesh: "Meso je vrlo tanko, bjelkasto do sivkasto i neznatno. Miris i okus nisu izraženi.",
+        sporePrint: "Crn. Spore su uglato jajolike do limunaste, katkad blago elipsoidne, glatke i tamno crvenkastosmeđe, oko 10–15 × 8–11 μm, s izraženom ekscentričnom klicnom porom.",
+        habitat: "Saprotrofna gljiva koja raste pojedinačno, raštrkano ili u malim skupinama u niskoj travi, obično na sunčanim mjestima poput travnjaka, livada, parkova, uz ceste te na rubovima šuma i polja. Katkad tvori skupine na tlu prekrivenom lišćem ili drvnom sječkom. Plodišta niknu preko noći nakon kiše i obično nestanu do sljedećeg dana. Plodi od proljeća do jeseni, najviše od svibnja do studenoga, a u toploj klimi i preko zime. Rasprostranjena je u sjevernom umjerenom pojasu, uključujući Europu i Sjevernu Ameriku, a nalazi su poznati i iz Azije, sjeverne Afrike i Australije.",
+        uses: "Smatra se nejestivom, iako nije poznata kao otrovna. Plodišta su sitna, tankoga mesa i toliko krhka da nema što jesti.",
+        confusion: "Parasola leiocephala izgleda gotovo jednako, ali ima sitnije, kutnije spore, oko 8–12 × 7–10,5 μm, a raste na golom tlu ili u zasjenjenoj travi. Parasola auricoma je nešto veća, ima smeđe dlačice na klobuku i listiće prirasle uz stručak. Parasola kuehneri je narančastosmeđa, sitnijih spora, i raste na rubovima šuma. Sitne vrste rodova Coprinopsis i Coprinellus imaju barem u mladosti brašnast ili zrnat ovoj. Coprinellus disseminatus raste u gustim skupinama na panjevima i trulom drvu.",
+        notes: "Za razliku od većine srodnih vrsta klobuk se ne pretvara u tintu: spljošti se pa se na jutarnjem suncu osuši i smežura, ili se stručak sruši pod težinom klobuka. Plodišta niknu noću nakon kiše i traju samo oko jedan dan. Klobuk podsjeća na sitni koktel kišobran. Česta je i na danskom crvenom popisu procijenjena je kao najmanje zabrinjavajuća vrsta (LC)."
+      },
+      cs: {
+        description: "Drobná, krátce žijící houba s bledým, hluboce rýhovaným kloboukem, který se rozevírá jako miniaturní deštníček nad vlásečnicově tenkým, křehkým bílým třeněm. Roste jednotlivě, roztroušeně nebo v malých skupinkách v nízké trávě na trávnících, loukách a krajnicích a její lupeny šednou a černají, aniž by se rozplývaly v inkoust.",
+        cap: "Klobouk je po úplném rozevření široký 1–3,5 cm, v mládí jen 5–10 mm a válcovitý až vejčitý. Potom je zvonkovitý nebo klenutý a nakonec se rozevře naplocho jako deštník, někdy s mírně prohloubeným středem. Je hluboce rýhovaný od okraje téměř ke středu, přičemž střed zůstává hladký jako malý terčík. Mladé klobouky jsou nažloutlé až červenohnědé s okrovým nebo oranžovohnědým středem, v rýhách šednou a nakonec jsou celé šedé. Povrch je holý a bez zbytků plachetky. Tenký klobouk se nerozplývá, ale scvrkne se nebo zhroutí.",
+        hymenium: "Lupeny jsou volné a připojené k malému límci na vrcholu třeně. Jsou tenké, husté až poměrně řídké, zprvu bílé, potom šedé a nakonec černé. Na rozdíl od většiny hnojníků se nerozplývají v inkoust, klobouk se jen zplošťuje a scvrkává. Basidie jsou čtyřspórové.",
+        stipe: "Třeň je dlouhý 3,5–10 cm a tlustý jen 1–2 mm, válcovitý a rovnoměrně tlustý, s mírně ztluštělou bází. Je velmi křehký a dutý, holý až jemně hedvábný, bílý až světle krémový a k bázi mírně nahnědlý. Prsten chybí.",
+        flesh: "Dužnina je velmi tenká, bělavá až našedlá a nepatrná. Vůně a chuť nejsou nápadné.",
+        sporePrint: "Černý. Výtrusy jsou hranatě vejčité až citronovité, někdy mírně elipsoidní, hladké a tmavě červenohnědé, asi 10–15 × 8–11 μm, s výrazným excentrickým klíčním pórem.",
+        habitat: "Saprotrofní houba, která roste jednotlivě, roztroušeně nebo v malých skupinkách v nízké trávě, obvykle na slunných místech, například na trávnících, loukách, v parcích, na krajnicích silnic a na okrajích lesů a polí. Občas tvoří skupinky na půdě pokryté listím nebo štěpkou. Plodnice vyrůstají přes noc po dešti a obvykle do druhého dne zmizí. Plodí od jara do podzimu, nejvíce od května do listopadu, a v teplém podnebí i přes zimu. Je rozšířená v severním mírném pásu včetně Evropy a Severní Ameriky, s nálezy i z Asie, severní Afriky a Austrálie.",
+        uses: "Považuje se za nejedlou, ačkoli není známa jako jedovatá. Plodnice jsou drobné, tenkomasé a tak křehké, že není co jíst.",
+        confusion: "Parasola leiocephala vypadá téměř stejně, ale má menší, hranatější výtrusy, asi 8–12 × 7–10,5 μm, a roste na holé půdě nebo ve stinné trávě. Parasola auricoma je o něco větší, má na klobouku hnědé chloupky a lupeny přirostlé k třeni. Parasola kuehneri je oranžovohnědší, s menšími výtrusy, a roste na okrajích lesů. Drobné druhy rodů Coprinopsis a Coprinellus mají alespoň v mládí moučnatý nebo zrnitý povlak plachetky. Coprinellus disseminatus roste v hustých skupinách na pařezech a trouchnivém dřevě.",
+        notes: "Na rozdíl od většiny hnojníků se klobouk nerozplývá v inkoust: zplošťuje se a pak na ranním slunci zaschne a scvrkne se, nebo se třeň zhroutí pod tíhou klobouku. Plodnice vyrůstají v noci po dešti a vydrží jen asi jeden den. Klobouk připomíná drobný koktejlový deštníček. Je běžná a v dánském červeném seznamu je hodnocena jako málo dotčený druh (LC)."
+      },
+      da: {
+        description: "En lille, kortlivet blækhat-lignende svamp, hvis bleg, dybt furet hat åbner sig som en miniatureparaply over en hårtynd, skrøbelig hvid stok. Den vokser enkeltvis, spredt eller i små grupper i kort græs på plæner, enge og vejkanter, og dens lameller bliver grå og sorte uden at opløses til blæk.",
+        cap: "Hatten er 1–3,5 cm bred, når den er helt udfoldet, og som ung kun 5–10 mm og cylindrisk til ægformet. Derefter bliver den klokkeformet eller hvælvet og breder sig til sidst fladt ud som en paraply, nogle gange med let nedtrykt midte. Den er dybt furet fra randen næsten ind til midten, mens midten forbliver glat som en lille skive. Unge hatte er gulligt til rødbrune med et gyldenbrunt eller orangebrunt center, og de bliver grå i furerne og til sidst grå over det hele. Overfladen er skaldet uden slørrester. Den tynde hat opløses ikke, men skrumper ind eller falder sammen.",
+        hymenium: "Lamellerne er frie og sidder fast på en lille krave øverst på stokken. De er tynde, tætte til ret fjerntstående, først hvide, derefter grå og til sidst sorte. I modsætning til de fleste blækhatte opløses de ikke til blæk, i stedet flader hatten ud og skrumper. Basidierne er firesporede.",
+        stipe: "Stokken er 3,5–10 cm lang og kun 1–2 mm tyk, cylindrisk og lige tyk hele vejen, med let opsvulmet base. Den er meget skrøbelig og hul, skaldet til fint silkeagtig, hvid til bleg cremefarvet og let brunlig mod basis. Der er ingen ring.",
+        flesh: "Kødet er meget tyndt, hvidligt til gråligt og ubetydeligt. Lugt og smag er ikke særlige.",
+        sporePrint: "Sort. Sporerne er kantet ægformede til citronformede, nogle gange svagt elliptiske, glatte og mørkt rødbrune, cirka 10–15 × 8–11 μm, med en tydelig excentrisk kimpore.",
+        habitat: "En saprotrof svamp, der vokser enkeltvis, spredt eller i små grupper i kort græs, som regel på solrige steder som plæner, enge, parker, vejkanter og kanter af skove og marker. Af og til danner den flokke på jord dækket af løv eller flis. Frugtlegemerne dukker op natten over efter regn og er som regel væk næste dag. Den frugter fra forår til efterår, mest fra maj til november, og gennem vinteren i varme klimaer. Den er udbredt i den nordlige tempererede zone, herunder Europa og Nordamerika, med fund fra Asien, Nordafrika og Australien.",
+        uses: "Anses for uspiselig, selv om den ikke er kendt som giftig. Frugtlegemerne er bittesmå, tyndkødede og så skrøbelige, at der intet er at spise.",
+        confusion: "Parasola leiocephala ligner den næsten helt, men har mindre, mere kantede sporer, cirka 8–12 × 7–10,5 μm, og vokser på bar jord eller i skygget græs. Parasola auricoma er lidt større, har brune hår på hatten og lameller, der sidder fast på stokken. Parasola kuehneri er mere orangebrun, med mindre sporer, og vokser i skovkanter. Små arter af Coprinopsis og Coprinellus har et melet eller kornet slørdække, i hvert fald som unge. Coprinellus disseminatus vokser i tætte flokke på stubbe og rådnende ved.",
+        notes: "I modsætning til de fleste blækhatte bliver hatten ikke til blæk: den flader ud og tørrer derefter ind og skrumper i morgensolen, eller også knækker stokken under hattens vægt. Frugtlegemerne vokser om natten efter regn og holder kun omkring et døgn. Hatten ligner en lille cocktailparaply. Den er almindelig og er vurderet som ikke truet (LC) på den danske rødliste."
+      },
+      nl: {
+        description: "Een piepkleine, kortlevende inktzwam waarvan de bleke, diep geplooide hoed zich opent als een miniatuurparaplu boven een haardunne, breekbare witte steel. Hij groeit alleen, verspreid of in kleine groepjes in kort gras op gazons, weilanden en bermen, en zijn plaatjes worden grijs en zwart zonder te versmelten tot inkt.",
+        cap: "De hoed is volledig geopend 1–3,5 cm breed, jong slechts 5–10 mm en cilindrisch tot eivormig. Daarna wordt hij klokvormig of convex en ten slotte opent hij zich plat als een paraplu, soms met een licht ingedeukt midden. Hij is van de rand tot bijna het midden diep geplooid, terwijl het midden glad blijft als een klein schijfje. Jonge hoeden zijn geelachtig tot roodbruin met een okerbruin of oranjebruin midden, ze worden grijs in de plooien en ten slotte helemaal grijs. Het oppervlak is kaal en zonder velumresten. De dunne hoed versmelt niet tot inkt, maar krimpt of klapt in elkaar.",
+        hymenium: "De plaatjes zijn vrij van de steel en bevestigd aan een klein kraagje rond de top ervan. Ze zijn dun, vrij dicht tot vrij ver uit elkaar, eerst wit, dan grijs en ten slotte zwart. Anders dan bij de meeste inktzwammen lossen ze niet op tot inkt, maar de hoed vlakt af en krimpt. De basidiën zijn viersporig.",
+        stipe: "De steel is 3,5–10 cm lang en slechts 1–2 mm dik, cilindrisch en overal even dik, met een licht verdikte basis. Hij is zeer breekbaar en hol, kaal tot fijn zijdeachtig, wit tot bleekcrème en naar de basis toe licht bruinachtig. Een ring ontbreekt.",
+        flesh: "Het vlees is zeer dun, witachtig tot grijsachtig en onbeduidend. Geur en smaak zijn niet opvallend.",
+        sporePrint: "Zwart. De sporen zijn hoekig eivormig tot citroenvormig, soms licht ellipsvormig, glad en donker roodbruin, ongeveer 10–15 × 8–11 μm, met een duidelijke excentrische kiemporie.",
+        habitat: "Een saprotrofe schimmel die alleen, verspreid of in kleine groepjes groeit in kort gras, meestal op zonnige plaatsen zoals gazons, weilanden, parken, wegbermen en randen van bossen en akkers. Soms vormt hij groepjes op grond bedekt met bladstrooisel of houtsnippers. De vruchtlichamen verschijnen 's nachts na regen en zijn meestal de volgende dag weer verdwenen. Hij draagt vruchten van het voorjaar tot de herfst, meestal van mei tot november, en in warme streken ook in de winter. Hij komt voor in de noordelijke gematigde zone, waaronder Europa en Noord-Amerika, met waarnemingen uit Azië, Noord-Afrika en Australië.",
+        uses: "Wordt als oneetbaar beschouwd, hoewel hij niet als giftig bekend is. De vruchtlichamen zijn piepklein, dunvlezig en zo breekbaar dat er niets te eten valt.",
+        confusion: "Parasola leiocephala lijkt er bijna op, maar heeft kleinere, hoekigere sporen, ongeveer 8–12 × 7–10,5 μm, en groeit op kale grond of in beschaduwd gras. Parasola auricoma is iets groter, heeft bruine haartjes op de hoed en plaatjes die aan de steel vastzitten. Parasola kuehneri is meer oranjebruin, met kleinere sporen, en groeit aan bosranden. Kleine soorten van Coprinopsis en Coprinellus hebben, althans jong, een bepoederde of korrelige velumbekleding. Coprinellus disseminatus groeit in dichte groepen op stronken en rottend hout.",
+        notes: "Anders dan bij de meeste inktzwammen verandert de hoed niet in inkt: hij vlakt af en droogt dan in de ochtendzon op en krimpt, of de steel knikt onder het gewicht van de hoed. De vruchtlichamen groeien 's nachts na regen en duren maar ongeveer een dag. De hoed lijkt op een klein cocktailparasolletje. Hij is algemeen en is beoordeeld als niet bedreigd (LC) op de Deense rode lijst."
+      },
+      et: {
+        description: "Väike, lühiealine tindik, kelle kahvatu, sügavalt vaoline kübar avaneb nagu miniatuurne vihmavari juuksekarva peenikese, habras valge jala kohal. Ta kasvab üksikult, hajusalt või väikeste salkadena madalas rohus muruplatsidel, niitudel ja teeservades ning tema eoslehed muutuvad halliks ja mustaks, tindiks lahustumata.",
+        cap: "Kübar on täielikult avanenult 1–3,5 cm lai, noorena vaid 5–10 mm ja silindriline kuni munajas. Seejärel muutub see kellukjaks või kumeraks ning lõpuks avaneb lamedaks nagu vihmavari, vahel kergelt lohkus keskkohaga. See on servast peaaegu keskkohani sügavalt vaoline, keskkoht jääb aga siledaks väikeseks kettaks. Noored kübarad on kollakast punakaspruunini, kollakaspruuni või oranžikaspruuni keskkohaga, vagudes muutuvad nad halliks ja lõpuks üleni halliks. Pind on paljas ja katteloori jäänusteta. Õhuke kübar ei lahustu tindiks, vaid kuivab kokku või variseb kokku.",
+        hymenium: "Eoslehed on jalast vabad ja kinnituvad jala tipu ümber oleva väikese krae külge. Need on õhukesed, tihedad kuni üsna hõredad, algul valged, siis hallid ja lõpuks mustad. Erinevalt enamikust tindikutest ei lahustu need tindiks, vaid kübar lamandub ja kuivab kokku. Basiidid on neljaeoselised.",
+        stipe: "Jalg on 3,5–10 cm pikk ja vaid 1–2 mm paks, silindriline ja ühepaksune, kergelt paistes tüvega. See on väga habras ja õõnes, paljas kuni peenelt siidjas, valge kuni kahvatukreemjas ning tüve poole kergelt pruunikas. Rõngast ei ole.",
+        flesh: "Seeneliha on väga õhuke, valkjas kuni hallikas ja tühine. Lõhn ja maitse pole eripärased.",
+        sporePrint: "Must. Eosed on nurgelised munajad kuni sidrunikujulised, vahel kergelt ellipsoidsed, siledad ja tumepunakaspruunid, umbes 10–15 × 8–11 μm, selgelt väljendunud ekstsentrilise idupoorusega.",
+        habitat: "Saprotroofne seen, mis kasvab üksikult, hajusalt või väikeste salkadena madalas rohus, tavaliselt päikeselistes kohtades, näiteks muruplatsidel, niitudel, parkides, teeservades ning metsa- ja põlluservades. Aeg-ajalt moodustab ta salku lehekõdu või hakkepuiduga kaetud mullal. Viljakehad ilmuvad öösel pärast vihma ja on tavaliselt järgmiseks päevaks kadunud. Ta viljub kevadest sügiseni, enamasti maist novembrini, ning soojas kliimas ka talvel. Ta on levinud põhjapoolses parasvöötmes, sh Euroopas ja Põhja-Ameerikas, leide on ka Aasiast, Põhja-Aafrikast ja Austraaliast.",
+        uses: "Peetakse mittesöödavaks, kuigi liiki ei peeta mürgiseks. Viljakehad on pisikesed, õhukese lihaga ja nii rabedad, et süüa pole midagi.",
+        confusion: "Parasola leiocephala näeb peaaegu samasugune välja, kuid tema eosed on väiksemad ja nurgelisemad, umbes 8–12 × 7–10,5 μm, ning ta kasvab paljal mullal või varjulises rohus. Parasola auricoma on veidi suurem, kübaral on pruunid karvad ja eoslehed on jalaga kasvanud. Parasola kuehneri on oranžikaspruunim, väiksemate eostega, ning kasvab metsaservades. Perekondade Coprinopsis ja Coprinellus väikestel liikidel on vähemalt noorena jahune või helbeline katteloor. Coprinellus disseminatus kasvab tihedates salkades kändudel ja kõduneval puidul.",
+        notes: "Erinevalt enamikust tindikutest ei muutu kübar tindiks: see lamandub ja kuivab siis hommikupäikeses kokku või jalg murdub kübara raskuse all. Viljakehad kasvavad öösel pärast vihma ja kestavad vaid umbes ühe päeva. Kübar meenutab pisikest kokteilivihmavarju. Ta on tavaline ning Taani punases nimekirjas on ta hinnatud ohustamata liigiks (LC)."
+      },
+      fi: {
+        description: "Pieni, lyhytikäinen mustesieni, jonka vaalea, syvästi uurteinen lakki avautuu kuin pieni sateenvarjo hiuksenohuen, hauraan valkoisen jalan päällä. Se kasvaa yksittäin, hajallaan tai pieninä ryhminä lyhyessä nurmikossa nurmikoilla, niityillä ja tienvarsilla, ja sen heltat harmaantuvat ja mustuvat sulamatta musteeksi.",
+        cap: "Lakki on täysin avautuneena 1–3,5 cm leveä, nuorena vain 5–10 mm ja lieriömäinen tai munamainen. Sitten se on kellomainen tai kupera ja lopulta avautuu tasaiseksi kuin sateenvarjo, joskus keskeltä hieman painunut. Se on syvästi uurteinen reunasta lähes keskustaan asti, mutta keskusta pysyy sileänä pienenä kiekkona. Nuoret lakit ovat kellertävistä punaruskeisiin, keskusta on kellanruskea tai oranssinruskea, ja uurteista ne harmaantuvat ja lopulta kokonaan harmaiksi. Pinta on kalju eikä siinä ole jäänteitä esiliinasta. Ohut lakki ei sula musteeksi, vaan kuivuu ryppyiseksi tai romahtaa kasaan.",
+        hymenium: "Heltat ovat vapaat ja kiinnittyvät jalan yläosan ympärillä olevaan pieneen kaulukseen. Ne ovat ohuet, tiheät tai melko harvat, aluksi valkoiset, sitten harmaat ja lopulta mustat. Toisin kuin useimmilla mustesienillä ne eivät sula musteeksi, vaan lakki litistyy ja kuivuu ryppyiseksi. Tyvisolut ovat neli-itiöisiä.",
+        stipe: "Jalka on 3,5–10 cm pitkä ja vain 1–2 mm paksu, lieriömäinen ja tasapaksu, tyvi hieman paksuuntunut. Se on hyvin hauras ja ontto, kalju tai hienosti silkkinen, valkoinen tai vaalean kermanvärinen ja tyveä kohti lievästi ruskehtava. Jalassa ei ole rengasta.",
+        flesh: "Malto on hyvin ohutta, valkeahkoa tai harmahtavaa ja mitätöntä. Haju ja maku eivät ole erityisiä.",
+        sporePrint: "Musta. Itiöt ovat kulmikkaan munamaisia tai sitruunamaisia, joskus hieman soikeita, sileitä ja tumman punaruskeita, noin 10–15 × 8–11 μm, ja niissä on selvä sivulla oleva itämishuokonen.",
+        habitat: "Lahottajasieni, joka kasvaa yksittäin, hajallaan tai pieninä ryhminä lyhyessä nurmikossa, yleensä aurinkoisilla paikoilla, kuten nurmikoilla, niityillä, puistoissa, tienvarsilla sekä metsien ja peltojen reunoilla. Joskus se muodostaa ryhmiä lehtikarikkeen tai hakkeen peittämällä maalla. Itiöemät ilmestyvät yöllä sateen jälkeen ja ovat yleensä poissa seuraavaan päivään mennessä. Se kasvaa keväästä syksyyn, enimmäkseen touko–marraskuussa, ja lämpimässä ilmastossa myös talven yli. Se on levinnyt pohjoiselle lauhkealle vyöhykkeelle, myös Eurooppaan ja Pohjois-Amerikkaan, ja löytöjä on myös Aasiasta, Pohjois-Afrikasta ja Australiasta.",
+        uses: "Pidetään syömäkelvottomana, vaikka lajia ei tunneta myrkylliseksi. Itiöemät ovat pikkuruisia, ohutlihaisia ja niin hauraita, ettei syötävää ole.",
+        confusion: "Parasola leiocephala on lähes samannäköinen, mutta sen itiöt ovat pienempiä ja kulmikkaampia, noin 8–12 × 7–10,5 μm, ja se kasvaa paljaalla maalla tai varjoisessa nurmikossa. Parasola auricoma on hieman suurempi, lakissa on ruskeita karvoja ja heltat ovat kiinnittyneet jalkaan. Parasola kuehneri on oranssinruskeampi, sen itiöt ovat pienempiä ja se kasvaa metsänreunoilla. Sukujen Coprinopsis ja Coprinellus pienillä lajeilla on ainakin nuorena jauhomainen tai rakeinen esiliinan peite. Coprinellus disseminatus kasvaa tiheinä ryhminä kannoilla ja lahoavassa puussa.",
+        notes: "Toisin kuin useimmilla mustesienillä lakki ei muutu musteeksi: se litistyy ja kuivuu sitten aamuauringossa ryppyiseksi, tai jalka taittuu lakin painosta. Itiöemät kasvavat yöllä sateen jälkeen ja kestävät vain noin vuorokauden. Lakki muistuttaa pientä cocktail-sateenvarjoa. Laji on yleinen ja arvioitu elinvoimaiseksi (LC) Tanskan punaisessa listassa."
+      },
+      fr: {
+        description: "Un minuscule coprin éphémère dont le chapeau pâle, profondément plissé, s'ouvre comme un parasol miniature au-dessus d'un pied blanc, fragile et fin comme un cheveu. Il pousse isolé, dispersé ou en petits groupes dans l'herbe rase des pelouses, des prairies et des bords de chemins, et ses lames deviennent grises puis noires sans se liquéfier en encre.",
+        cap: "Le chapeau mesure 1–3,5 cm de diamètre lorsqu'il est entièrement ouvert, et seulement 5–10 mm, cylindrique à ovoïde, chez le jeune. Il devient campanulé ou convexe, puis s'étale à plat comme un parasol, parfois avec un centre légèrement déprimé. Il est profondément strié de la marge presque jusqu'au centre, tandis que le centre reste lisse, en forme de petit disque. Les jeunes chapeaux sont jaunâtres à brun rougeâtre, avec un centre fauve ou brun orangé, ils grisonnent dans les stries et finissent entièrement gris. La surface est glabre et sans restes de voile. Le chapeau mince ne se liquéfie pas, il se flétrit ou s'affaisse.",
+        hymenium: "Les lames sont libres et reliées à un petit collier autour du sommet du pied. Elles sont minces, serrées à assez espacées, d'abord blanches, puis grises et enfin noires. Contrairement à celles de la plupart des coprins, elles ne se liquéfient pas en encre, et le chapeau s'aplatit puis se flétrit. Les basides sont tétrasporiques.",
+        stipe: "Le pied mesure 3,5–10 cm de longueur et seulement 1–2 mm d'épaisseur, cylindrique et de largeur égale, avec une base légèrement renflée. Il est très fragile et creux, glabre à finement soyeux, blanc à crème pâle et légèrement brunâtre vers la base. Il n'y a pas d'anneau.",
+        flesh: "La chair est très mince, blanchâtre à grisâtre et insignifiante. L'odeur et la saveur ne sont pas marquées.",
+        sporePrint: "Noire. Les spores sont anguleuses, ovoïdes à citriformes, parfois légèrement elliptiques, lisses et brun rouge foncé, d'environ 10–15 × 8–11 μm, avec un pore germinatif excentré bien visible.",
+        habitat: "Un champignon saprotrophe qui pousse isolé, dispersé ou en petits groupes dans l'herbe rase, le plus souvent dans des endroits ensoleillés comme les pelouses, les prairies, les parcs, les bords de routes et les lisières des bois et des champs. Il forme parfois des groupes sur un sol couvert de litière de feuilles ou de copeaux de bois. Les carpophores apparaissent pendant la nuit après la pluie et ont généralement disparu le lendemain. Il fructifie du printemps à l'automne, surtout de mai à novembre, et pendant l'hiver sous les climats chauds. Il est répandu dans la zone tempérée nord, y compris en Europe et en Amérique du Nord, avec des signalements en Asie, en Afrique du Nord et en Australie.",
+        uses: "Considéré comme non comestible, bien qu'il ne soit pas connu comme toxique. Les carpophores sont minuscules, à chair mince et si fragiles qu'il n'y a rien à manger.",
+        confusion: "Parasola leiocephala est presque identique, mais a des spores plus petites et plus anguleuses, d'environ 8–12 × 7–10,5 μm, et pousse sur sol nu ou dans l'herbe ombragée. Parasola auricoma est un peu plus grand, a des poils bruns sur le chapeau et des lames attachées au pied. Parasola kuehneri est plus brun orangé, à spores plus petites, et pousse en lisière de bois. Les petites espèces de Coprinopsis et de Coprinellus ont, au moins jeunes, un revêtement de voile farineux ou granuleux. Coprinellus disseminatus pousse en groupes denses sur les souches et le bois pourrissant.",
+        notes: "Contrairement à la plupart des coprins, le chapeau ne se transforme pas en encre : il s'aplatit puis se dessèche et se flétrit au soleil du matin, ou le pied s'affaisse sous le poids du chapeau. Les carpophores poussent la nuit après la pluie et ne durent qu'environ un jour. Le chapeau ressemble à un minuscule parasol de cocktail. L'espèce est commune et évaluée en préoccupation mineure (LC) dans la liste rouge danoise."
+      },
+      de: {
+        description: "Ein winziger, kurzlebiger Tintling, dessen blasser, tief gefalteter Hut sich wie ein Miniaturschirm über einem haardünnen, zerbrechlichen weißen Stiel öffnet. Er wächst einzeln, verstreut oder in kleinen Gruppen im kurzen Gras auf Rasen, Wiesen und Wegrändern, und seine Lamellen werden grau und schwarz, ohne zu Tinte zu zerfließen.",
+        cap: "Der Hut ist voll geöffnet 1–3,5 cm breit, jung nur 5–10 mm und zylindrisch bis eiförmig. Dann ist er glockig oder gewölbt und öffnet sich schließlich flach wie ein Schirm, manchmal mit leicht eingesenkter Mitte. Er ist vom Rand fast bis zur Mitte tief gerieft, während die Mitte als kleine Scheibe glatt bleibt. Junge Hüte sind gelblich bis rotbraun mit rötlich ockerbrauner bis orangebrauner Mitte, in den Riefen werden sie grau und zuletzt ganz grau. Die Oberfläche ist kahl und ohne Velumreste. Der dünne Hut zerfließt nicht, sondern schrumpelt oder klappt zusammen.",
+        hymenium: "Die Lamellen sind frei und setzen an einem kleinen Kragen um die Stielspitze an. Sie sind dünn, dicht bis ziemlich entfernt stehend, zuerst weiß, dann grau und zuletzt schwarz. Anders als bei den meisten Tintlingen zerfließen sie nicht zu Tinte, sondern der Hut flacht ab und schrumpelt. Die Basidien sind viersporig.",
+        stipe: "Der Stiel ist 3,5–10 cm lang und nur 1–2 mm dick, zylindrisch und gleichdick, mit leicht verdickter Basis. Er ist sehr zerbrechlich und hohl, kahl bis fein seidig, weiß bis blass cremefarben und zur Basis hin leicht bräunlich. Einen Ring gibt es nicht.",
+        flesh: "Das Fleisch ist sehr dünn, weißlich bis gräulich und unscheinbar. Geruch und Geschmack sind nicht auffällig.",
+        sporePrint: "Schwarz. Die Sporen sind eckig eiförmig bis zitronenförmig, manchmal leicht elliptisch, glatt und dunkel rotbraun, etwa 10–15 × 8–11 μm, mit deutlich außermittigem Keimporus.",
+        habitat: "Ein saprotropher Pilz, der einzeln, verstreut oder in kleinen Gruppen im kurzen Gras wächst, meist an sonnigen Stellen wie Rasen, Wiesen, Parks, Wegrändern sowie an Wald- und Feldrändern. Gelegentlich bildet er Gruppen auf Boden, der mit Laub oder Holzhäcksel bedeckt ist. Die Fruchtkörper erscheinen über Nacht nach Regen und sind meist am nächsten Tag wieder verschwunden. Er fruchtet vom Frühjahr bis in den Herbst, meist von Mai bis November, in warmen Klimazonen auch über den Winter. Er ist in der nördlichen gemäßigten Zone verbreitet, auch in Europa und Nordamerika, mit Nachweisen aus Asien, Nordafrika und Australien.",
+        uses: "Gilt als ungenießbar, obwohl die Art nicht als giftig bekannt ist. Die Fruchtkörper sind winzig, dünnfleischig und so zerbrechlich, dass es nichts zu essen gibt.",
+        confusion: "Parasola leiocephala sieht fast gleich aus, hat aber kleinere, kantigere Sporen, etwa 8–12 × 7–10,5 μm, und wächst auf nacktem Boden oder in beschattetem Gras. Parasola auricoma ist etwas größer, hat braune Haare auf dem Hut und am Stiel angewachsene Lamellen. Parasola kuehneri ist orangebrauner, hat kleinere Sporen und wächst an Waldrändern. Kleine Arten der Gattungen Coprinopsis und Coprinellus haben zumindest jung eine mehlige oder körnige Velumbekleidung. Coprinellus disseminatus wächst in dichten Gruppen auf Baumstümpfen und morschem Holz.",
+        notes: "Anders als bei den meisten Tintlingen verwandelt sich der Hut nicht in Tinte: Er flacht ab und trocknet dann in der Morgensonne ein und schrumpelt, oder der Stiel knickt unter dem Gewicht des Hutes um. Die Fruchtkörper wachsen nachts nach Regen und halten nur etwa einen Tag. Der Hut ähnelt einem winzigen Cocktailschirmchen. Die Art ist häufig und wird in der dänischen Roten Liste als nicht gefährdet (LC) eingestuft."
+      },
+      he: {
+        description: "פטרייה זעירה וקצרת חיים, שכובעה החיוור והמחורץ עמוק נפתח כמו מטרייה קטנה מעל רגל לבנה, שברירית ודקה כשערה. היא גדלה בודדת, מפוזרת או בקבוצות קטנות בעשב נמוך על מדשאות, באחו ובשולי דרכים, והדפים שלה מאפירים ומשחירים בלי להתמוסס לדיו.",
+        cap: "כשהכובע פתוח לגמרי הוא רחב 1–3.5 ס״מ, וכשהוא צעיר רחב רק 5–10 מ״מ וגלילי עד ביצתי. אחר כך הוא פעמוני או קמור ולבסוף נפתח שטוח כמו מטרייה, לפעמים עם מרכז שקוע מעט. הוא מחורץ עמוק מהשוליים כמעט עד האמצע, ואילו המרכז נשאר חלק כמו דיסקה קטנה. כובעים צעירים בצבע צהבהב עד חום־אדמדם, עם מרכז חום־שזוף או חום־כתום, ובחריצים הם מאפירים ולבסוף הופכים אפורים כולם. פני השטח קירחים וללא שרידי מעטפת. הכובע הדק אינו מתמוסס לדיו אלא מצטמק או קורס.",
+        hymenium: "הדפים חופשיים ומחוברים לצווארון קטן סביב ראש הרגל. הם דקים, צפופים עד מרוחקים למדי, תחילה לבנים, אחר כך אפורים ולבסוף שחורים. בניגוד לרוב פטריות הדיו הם אינם מתמוססים לדיו, אלא הכובע משתטח ומצטמק. הבזידיות הן בעלות ארבעה נבגים.",
+        stipe: "הרגל באורך 3.5–10 ס״מ ובעובי של 1–2 מ״מ בלבד, גלילית ושווה בעובייה, עם בסיס נפוח מעט. היא שברירית מאוד וחלולה, קירחת עד משיית דק, לבנה עד שמנת חיוור ומעט חומה לכיוון הבסיס. אין טבעת.",
+        flesh: "הבשר דק מאוד, לבנבן עד אפרפר וחסר משמעות. הריח והטעם אינם בולטים.",
+        sporePrint: "שחור. הנבגים זוויתיים ביציים עד בצורת לימון, לעתים אליפטיים במקצת, חלקים וחומים־אדמדמים כהים, בגודל של כ־10–15 × 8–11 מיקרומטר, עם נקבובית נביטה בולטת הממוקמת מחוץ למרכז.",
+        habitat: "פטרייה ספרופיטית הגדלה בודדת, מפוזרת או בקבוצות קטנות בעשב נמוך, בדרך כלל במקומות שטופי שמש כמו מדשאות, אחו, פארקים, שולי דרכים ושולי יערות ושדות. לעתים היא יוצרת קבוצות על קרקע המכוסה בשכבת עלים או בשבבי עץ. גופי הפרי מופיעים בן לילה אחרי גשם ובדרך כלל נעלמים למחרת. היא נושאת פרי מהאביב ועד הסתיו, בעיקר ממאי עד נובמבר, ובאקלים חם גם בחורף. היא נפוצה באזור הממוזג הצפוני, כולל אירופה וצפון אמריקה, ויש לה תיעוד גם מאסיה, מצפון אפריקה ומאוסטרליה.",
+        uses: "נחשבת בלתי אכילה, אם כי המין אינו ידוע כרעיל. גופי הפרי זעירים, דקי בשר ושבריריים עד כדי כך שאין בהם מה לאכול.",
+        confusion: "Parasola leiocephala נראית כמעט זהה, אך הנבגים שלה קטנים וזוויתיים יותר, בגודל של כ־8–12 × 7–10.5 מיקרומטר, והיא גדלה על קרקע חשופה או בעשב מוצל. Parasola auricoma גדולה מעט יותר, יש לה שערות חומות על הכובע והדפים שלה מחוברים לרגל. Parasola kuehneri חומה־כתומה יותר, בעלת נבגים קטנים יותר, וגדלה בשולי יערות. במינים קטנים של הסוגים Coprinopsis ו־Coprinellus יש, לפחות כשהם צעירים, ציפוי מעטפת קמחי או גרגירי. Coprinellus disseminatus גדלה בקבוצות צפופות על גדמי עצים ועל עץ מתפורר.",
+        notes: "בניגוד לרוב פטריות הדיו, הכובע אינו הופך לדיו: הוא משתטח ואז מתייבש ומצטמק בשמש הבוקר, או שהרגל קורסת תחת משקל הכובע. גופי הפרי גדלים בלילה אחרי גשם וחיים רק כיום אחד. הכובע דומה למטרייה זעירה של קוקטייל. היא נפוצה והוערכה כמדאיגה פחות (LC) ברשימה האדומה של דנמרק."
+      },
+      hi: {
+        description: "एक बहुत छोटा, अल्पजीवी कुकुरमुत्ता, जिसकी हल्के रंग की, गहरी धारीदार टोपी बाल जैसे पतले, नाज़ुक सफ़ेद डंठल के ऊपर छोटी छतरी की तरह खुलती है। यह अकेले, बिखरा हुआ या छोटे समूहों में लॉन, घास के मैदानों और सड़क किनारे की छोटी घास में उगता है, और इसके गिल्स स्याही में घुले बिना धूसर और फिर काले पड़ जाते हैं।",
+        cap: "पूरी तरह खुलने पर टोपी 1–3.5 सेमी चौड़ी होती है, जबकि छोटी अवस्था में केवल 5–10 मिमी चौड़ी और बेलनाकार से अंडाकार होती है। फिर यह घंटी के आकार की या उत्तल हो जाती है और अंत में छतरी की तरह सपाट खुल जाती है, कभी-कभी बीच से थोड़ी धँसी हुई। यह किनारे से लगभग बीच तक गहरी धारीदार होती है, जबकि बीच का हिस्सा छोटी तश्तरी की तरह चिकना रहता है। छोटी टोपियाँ पीलापन लिए हुए से लालिमा लिए भूरी होती हैं, जिनका केंद्र गेरुआ-भूरा या नारंगी-भूरा होता है; धारियों में वे धूसर होने लगती हैं और अंत में पूरी तरह धूसर हो जाती हैं। सतह चिकनी होती है और आवरण के अवशेष नहीं होते। पतली टोपी स्याही की तरह घुलती नहीं, बल्कि सिकुड़ जाती है या ढह जाती है।",
+        hymenium: "गिल्स डंठल से मुक्त होते हैं और डंठल के ऊपरी सिरे के चारों ओर एक छोटे कॉलर से जुड़े रहते हैं। वे पतले, सघन से काफ़ी दूर-दूर, शुरू में सफ़ेद, फिर धूसर और अंत में काले होते हैं। अधिकांश स्याही वाले कुकुरमुत्तों के विपरीत वे स्याही की तरह नहीं घुलते, बल्कि टोपी चपटी होकर सिकुड़ जाती है। बेसिडिया चार बीजाणुओं वाले होते हैं।",
+        stipe: "डंठल 3.5–10 सेमी लंबा और केवल 1–2 मिमी मोटा, बेलनाकार और एक-सा मोटा होता है, आधार थोड़ा फूला हुआ। यह बहुत नाज़ुक और खोखला, चिकना से बारीक रेशमी, सफ़ेद से हल्का क्रीम रंग का और आधार की ओर हल्का भूरापन लिए होता है। कोई छल्ला नहीं होता।",
+        flesh: "गूदा बहुत पतला, सफ़ेदी से धूसरपन लिए हुए और नगण्य होता है। गंध और स्वाद विशेष नहीं होते।",
+        sporePrint: "काला। बीजाणु कोणीय अंडाकार से नींबू के आकार के, कभी-कभी थोड़े दीर्घवृत्ताकार, चिकने और गहरे लाल-भूरे होते हैं, लगभग 10–15 × 8–11 μm के, जिनमें केंद्र से हटकर स्पष्ट अंकुरण छिद्र होता है।",
+        habitat: "एक मृतजीवी कवक जो अकेले, बिखरा हुआ या छोटे समूहों में छोटी घास में उगता है, आमतौर पर धूप वाली जगहों जैसे लॉन, घास के मैदान, उद्यान, सड़क किनारे और जंगलों व खेतों के किनारों पर। कभी-कभी यह पत्तियों के कचरे या लकड़ी की कतरन से ढकी मिट्टी पर समूह बना लेता है। फलनकाय बारिश के बाद रात भर में निकल आते हैं और आमतौर पर अगले दिन तक गायब हो जाते हैं। यह वसंत से शरद तक, ज़्यादातर मई से नवंबर तक, और गर्म जलवायु में सर्दियों में भी फलता है। यह उत्तरी समशीतोष्ण क्षेत्र में फैला हुआ है, जिसमें यूरोप और उत्तरी अमेरिका शामिल हैं, और एशिया, उत्तरी अफ़्रीका और ऑस्ट्रेलिया से भी इसके अभिलेख हैं।",
+        uses: "अखाद्य माना जाता है, हालाँकि यह प्रजाति विषैली नहीं जानी जाती। फलनकाय इतने छोटे, पतले गूदे वाले और नाज़ुक होते हैं कि खाने लायक कुछ नहीं होता।",
+        confusion: "Parasola leiocephala लगभग एक जैसा दिखता है, पर इसके बीजाणु छोटे और अधिक कोणीय होते हैं, लगभग 8–12 × 7–10.5 μm के, और यह खुली मिट्टी या छायादार घास में उगता है। Parasola auricoma थोड़ा बड़ा होता है, उसकी टोपी पर भूरे रोएँ होते हैं और गिल्स डंठल से जुड़े होते हैं। Parasola kuehneri अधिक नारंगी-भूरा होता है, उसके बीजाणु छोटे होते हैं और वह जंगल के किनारों पर उगता है। Coprinopsis और Coprinellus वंश की छोटी प्रजातियों पर कम से कम छोटी अवस्था में आटे जैसा या दानेदार आवरण होता है। Coprinellus disseminatus ठूँठों और सड़ती लकड़ी पर घने समूहों में उगता है।",
+        notes: "अधिकांश स्याही वाले कुकुरमुत्तों के विपरीत टोपी स्याही में नहीं बदलती: वह चपटी होती है और फिर सुबह की धूप में सूखकर सिकुड़ जाती है, या टोपी के वज़न से डंठल ढह जाता है। फलनकाय बारिश के बाद रात में उगते हैं और केवल लगभग एक दिन टिकते हैं। टोपी एक नन्ही कॉकटेल छतरी जैसी दिखती है। यह आम है और डेनमार्क की रेड लिस्ट में इसे न्यूनतम चिंता (LC) श्रेणी में आँका गया है।"
+      },
+      hu: {
+        description: "Apró, rövid életű tintagomba, amelynek halvány, mélyen redőzött kalapja miniatűr esernyőként nyílik ki egy hajszálvékony, törékeny fehér tönk fölött. Egyesével, szórtan vagy kis csoportokban nő rövid fűben gyepeken, réteken és útszéleken, lemezei pedig szürkévé, majd feketévé válnak, anélkül hogy tintaszerűen elfolynának.",
+        cap: "A kalap teljesen kinyílva 1–3,5 cm széles, fiatalon csak 5–10 mm, hengeres vagy tojásdad. Aztán harang alakú vagy domború, végül laposan kiterül, mint egy esernyő, olykor kissé benyomott középpel. A szélétől majdnem a közepéig mélyen barázdált, a közepe azonban sima marad, kis korongként. A fiatal kalapok sárgás- vagy vörösesbarnák, aranybarna vagy narancsbarna középpel, a barázdákban szürkülnek, végül teljesen szürkék lesznek. A felszín kopasz, burokmaradványok nélkül. A vékony kalap nem folyik el, hanem összeszárad vagy összeomlik.",
+        hymenium: "A lemezek szabadok, és a tönk csúcsa körüli kis gallérhoz csatlakoznak. Vékonyak, sűrűk vagy meglehetősen ritkák, eleinte fehérek, majd szürkék, végül feketék. A legtöbb tintagombával ellentétben nem folynak el tintaszerűen, hanem a kalap ellaposodik és összeszárad. A bazídiumok négyspórásak.",
+        stipe: "A tönk 3,5–10 cm hosszú és mindössze 1–2 mm vastag, hengeres és egyenletes vastagságú, töve enyhén megvastagodott. Nagyon törékeny és üreges, kopasz vagy finoman selymes, fehér vagy halvány krémszínű, töve felé enyhén barnás. Gyűrűje nincs.",
+        flesh: "A húsa nagyon vékony, fehéres vagy szürkés és jelentéktelen. Szaga és íze nem jellegzetes.",
+        sporePrint: "Fekete. A spórák szögletesen tojásdadok vagy citrom alakúak, olykor kissé elliptikusak, simák és sötét vörösesbarnák, körülbelül 10–15 × 8–11 μm méretűek, feltűnő, külpontos csírapórussal.",
+        habitat: "Szaprotróf gomba, amely egyesével, szórtan vagy kis csoportokban nő rövid fűben, általában napos helyeken, például gyepeken, réteken, parkokban, útszéleken, valamint erdők és mezők szélén. Időnként lombalmos vagy faaprítékkal borított talajon csoportokat alkot. A termőtestek éjszaka, eső után jelennek meg, és általában másnapra eltűnnek. Tavasztól őszig terem, leginkább májustól novemberig, meleg éghajlaton pedig télen is. Az északi mérsékelt övben elterjedt, Európában és Észak-Amerikában is, előfordulását Ázsiából, Észak-Afrikából és Ausztráliából is jelezték.",
+        uses: "Nem ehetőnek tartják, bár a faj nem ismert mérgezőként. A termőtestek aprók, vékony húsúak és olyan törékenyek, hogy nincs mit enni rajtuk.",
+        confusion: "A Parasola leiocephala majdnem ugyanolyan, de spórái kisebbek és szögletesebbek, körülbelül 8–12 × 7–10,5 μm méretűek, és csupasz talajon vagy árnyékos fűben nő. A Parasola auricoma valamivel nagyobb, kalapján barna szőrök vannak, lemezei pedig a tönkhöz nőttek. A Parasola kuehneri narancsbarnább, kisebb spórájú, és erdőszéleken nő. A Coprinopsis és a Coprinellus nemzetség apró fajain legalább fiatalon lisztes vagy szemcsés burokbevonat van. A Coprinellus disseminatus sűrű csoportokban nő tuskókon és korhadó faanyagon.",
+        notes: "A legtöbb tintagombával ellentétben a kalap nem válik tintává: ellaposodik, majd a reggeli napon kiszárad és összezsugorodik, vagy a tönk összeroppan a kalap súlya alatt. A termőtestek éjszaka nőnek eső után, és csak körülbelül egy napig tartanak. A kalap egy apró koktélesernyőre emlékeztet. Gyakori, és a dán vörös listán nem fenyegetett (LC) besorolást kapott."
+      },
+      id: {
+        description: "Jamur tinta kecil yang berumur pendek, dengan tudung pucat beralur dalam yang membuka seperti payung mini di atas tangkai putih yang rapuh dan setipis rambut. Jamur ini tumbuh sendiri, tersebar, atau dalam kelompok kecil di rumput pendek pada halaman rumput, padang rumput, dan tepi jalan, dan lamelanya menjadi abu-abu lalu hitam tanpa meleleh menjadi tinta.",
+        cap: "Tudung yang terbuka penuh selebar 1–3,5 cm, sedangkan saat muda hanya selebar 5–10 mm dan berbentuk silinder hingga telur. Kemudian berbentuk lonceng atau cembung dan akhirnya terbuka datar seperti payung, kadang dengan bagian tengah sedikit cekung. Tudung beralur dalam dari tepi hampir sampai ke tengah, sedangkan bagian tengahnya tetap halus seperti cakram kecil. Tudung muda berwarna kekuningan hingga cokelat kemerahan dengan bagian tengah cokelat kekuningan atau cokelat jingga, menjadi abu-abu pada alurnya dan akhirnya abu-abu seluruhnya. Permukaannya gundul dan tanpa sisa selubung. Tudung yang tipis tidak meleleh menjadi tinta, tetapi mengerut atau ambruk.",
+        hymenium: "Lamela bebas dari tangkai dan menempel pada kerah kecil di sekeliling ujung atas tangkai. Lamela tipis, rapat hingga cukup jarang, mula-mula putih, lalu abu-abu, dan akhirnya hitam. Berbeda dengan sebagian besar jamur tinta, lamela tidak meleleh menjadi tinta, melainkan tudung menjadi pipih dan mengerut. Basidia memiliki empat spora.",
+        stipe: "Tangkai panjangnya 3,5–10 cm dan tebalnya hanya 1–2 mm, berbentuk silinder dengan ketebalan sama, dengan pangkal yang sedikit menggembung. Tangkai sangat rapuh dan berongga, gundul hingga berkilau halus seperti sutra, putih hingga krem pucat, dan sedikit kecokelatan ke arah pangkal. Tidak ada cincin.",
+        flesh: "Dagingnya sangat tipis, keputihan hingga keabu-abuan, dan tidak berarti. Bau dan rasanya tidak khas.",
+        sporePrint: "Hitam. Sporanya berbentuk telur bersudut hingga seperti lemon, kadang sedikit elips, halus, dan cokelat kemerahan tua, berukuran sekitar 10–15 × 8–11 μm, dengan pori kecambah yang jelas dan terletak di luar pusat.",
+        habitat: "Jamur saprofit yang tumbuh sendiri, tersebar, atau dalam kelompok kecil di rumput pendek, biasanya di tempat yang terkena sinar matahari seperti halaman rumput, padang rumput, taman, tepi jalan, serta tepi hutan dan ladang. Kadang membentuk kelompok di tanah yang tertutup serasah daun atau serpihan kayu. Tubuh buah muncul semalam setelah hujan dan biasanya sudah hilang keesokan harinya. Jamur ini berbuah dari musim semi hingga musim gugur, terutama dari Mei hingga November, dan sepanjang musim dingin di iklim hangat. Jamur ini tersebar luas di zona beriklim sedang di belahan utara, termasuk Eropa dan Amerika Utara, dengan catatan dari Asia, Afrika Utara, dan Australia.",
+        uses: "Dianggap tidak dapat dimakan, meskipun tidak diketahui beracun. Tubuh buahnya kecil, berdaging tipis, dan begitu rapuh sehingga tidak ada yang bisa dimakan.",
+        confusion: "Parasola leiocephala hampir identik, tetapi sporanya lebih kecil dan lebih bersudut, sekitar 8–12 × 7–10,5 μm, dan tumbuh di tanah terbuka atau rumput teduh. Parasola auricoma sedikit lebih besar, memiliki rambut cokelat di tudung, dan lamelanya menempel pada tangkai. Parasola kuehneri lebih cokelat jingga, dengan spora lebih kecil, dan tumbuh di tepi hutan. Spesies kecil dari marga Coprinopsis dan Coprinellus memiliki lapisan selubung berbubuk atau berbutir, setidaknya saat muda. Coprinellus disseminatus tumbuh dalam kelompok padat pada tunggul dan kayu lapuk.",
+        notes: "Berbeda dengan sebagian besar jamur tinta, tudung tidak berubah menjadi tinta: tudung menjadi pipih lalu mengering dan mengerut di bawah sinar matahari pagi, atau tangkai ambruk karena berat tudung. Tubuh buah tumbuh pada malam hari setelah hujan dan hanya bertahan sekitar satu hari. Tudung menyerupai payung koktail mungil. Jamur ini umum dan dinilai Risiko Rendah (LC) dalam daftar merah Denmark."
+      },
+      it: {
+        description: "Un minuscolo coprino effimero, con un cappello pallido e profondamente plissettato che si apre come un ombrellino miniaturizzato su un gambo bianco, fragile e sottile come un capello. Cresce isolato, sparso o in piccoli gruppi nell'erba bassa di prati, pascoli e bordi stradali, e le sue lamelle diventano grigie e poi nere senza dissolversi in inchiostro.",
+        cap: "Il cappello misura 1–3,5 cm di larghezza quando è completamente aperto, e solo 5–10 mm, da cilindrico a ovoidale, da giovane. Poi diventa campanulato o convesso e infine si apre piatto come un ombrello, talvolta con il centro leggermente depresso. È profondamente solcato dal margine quasi fino al centro, mentre il centro rimane liscio come un piccolo disco. I cappelli giovani sono giallastri o bruno-rossastri, con il centro fulvo o bruno-arancio, grigeggiano nei solchi e infine diventano interamente grigi. La superficie è glabra e priva di residui di velo. Il cappello sottile non si scioglie in inchiostro, ma avvizzisce o collassa.",
+        hymenium: "Le lamelle sono libere e unite a un piccolo collare attorno alla sommità del gambo. Sono sottili, da fitte a piuttosto distanziate, dapprima bianche, poi grigie e infine nere. A differenza di quelle della maggior parte dei coprini, non si dissolvono in inchiostro, e il cappello si appiattisce e avvizzisce. I basidi sono tetrasporici.",
+        stipe: "Il gambo è lungo 3,5–10 cm e spesso solo 1–2 mm, cilindrico e di spessore uniforme, con la base leggermente rigonfia. È molto fragile e cavo, glabro o finemente sericeo, da bianco a crema pallido e leggermente brunastro verso la base. Non c'è anello.",
+        flesh: "La carne è molto sottile, da biancastra a grigiastra e insignificante. L'odore e il sapore non sono particolari.",
+        sporePrint: "Nera. Le spore sono angolose, da ovoidali a citriformi, talvolta leggermente ellittiche, lisce e bruno-rossastre scure, di circa 10–15 × 8–11 μm, con un evidente poro germinativo eccentrico.",
+        habitat: "Un fungo saprotrofo che cresce isolato, sparso o in piccoli gruppi nell'erba bassa, di solito in luoghi soleggiati come prati, pascoli, parchi, bordi stradali e margini di boschi e campi. Talvolta forma gruppi su terreno coperto di lettiera di foglie o di cippato. I carpofori compaiono nella notte dopo la pioggia e di solito sono scomparsi il giorno dopo. Fruttifica dalla primavera all'autunno, soprattutto da maggio a novembre, e durante l'inverno nei climi caldi. È diffuso nella zona temperata settentrionale, comprese Europa e Nord America, con segnalazioni anche in Asia, Nord Africa e Australia.",
+        uses: "Considerato non commestibile, anche se non è noto come velenoso. I carpofori sono minuscoli, di carne sottile e così fragili che non c'è nulla da mangiare.",
+        confusion: "Parasola leiocephala è quasi identico, ma ha spore più piccole e più angolose, di circa 8–12 × 7–10,5 μm, e cresce su terreno nudo o nell'erba ombreggiata. Parasola auricoma è un po' più grande, ha peli bruni sul cappello e lamelle attaccate al gambo. Parasola kuehneri è più bruno-arancio, con spore più piccole, e cresce ai margini dei boschi. Le piccole specie di Coprinopsis e Coprinellus hanno, almeno da giovani, un rivestimento di velo farinoso o granuloso. Coprinellus disseminatus cresce in gruppi fitti su ceppi e legno in decomposizione.",
+        notes: "A differenza della maggior parte dei coprini, il cappello non si trasforma in inchiostro: si appiattisce e poi si secca e avvizzisce al sole del mattino, oppure il gambo crolla sotto il peso del cappello. I carpofori crescono di notte dopo la pioggia e durano solo circa un giorno. Il cappello ricorda un minuscolo ombrellino da cocktail. È comune ed è valutato a minor preoccupazione (LC) nella lista rossa danese."
+      },
+      ja: {
+        description: "小さくて短命なきのこで、淡い色の深い溝のある傘が、髪の毛のように細くもろい白い柄の上でミニチュアの傘のように開きます。芝生や草地、道ばたの短い草の中に、単生または散生、あるいは小さな群れをつくって生え、ひだは溶けて墨汁状になることなく灰色から黒色になります。",
+        cap: "傘は完全に開くと幅1–3.5 cmで、若いときはわずか5–10 mmの円筒形から卵形です。のちに釣鐘形または丸山形になり、最後には傘のように平らに開き、中央がわずかにくぼむこともあります。縁からほぼ中央まで深い溝があり、中央は小さな円盤状に平滑なままです。若い傘は黄色みを帯びた色から赤褐色で、中央は黄褐色からオレンジ褐色をしており、溝のところから灰色になり、最後には全体が灰色になります。表面は無毛で、被膜の名残はありません。薄い傘は溶けて墨汁状になることはなく、しぼんだりつぶれたりします。",
+        hymenium: "ひだは柄から離生し、柄の先端を囲む小さな襟につながっています。薄く、密からやや疎で、はじめは白く、のちに灰色、最後に黒くなります。多くのヒトヨタケ類と違って墨汁状に溶けることはなく、傘は平らになってしぼみます。担子器は4胞子性です。",
+        stipe: "柄は長さ3.5–10 cm、太さはわずか1–2 mmで、円筒形で上下同じ太さ、基部はやや膨らみます。非常にもろく中空で、無毛からごく細かい絹状で、白色から淡いクリーム色、基部に向かってやや褐色を帯びます。つばはありません。",
+        flesh: "肉は非常に薄く、白っぽいから灰色がかった色で、ほとんど目立ちません。においと味に特徴はありません。",
+        sporePrint: "黒色です。胞子は角のある卵形からレモン形で、ときにやや楕円形、平滑で暗赤褐色、大きさは約10–15 × 8–11 μmで、中心からずれた目立つ発芽孔があります。",
+        habitat: "腐生菌で、芝生、草地、公園、道ばた、森や畑の縁など、日当たりのよい場所の短い草の中に、単生、散生、または小さな群れをつくって生えます。ときに落ち葉やウッドチップに覆われた土の上に群生します。子実体は雨のあとの一夜で現れ、たいてい翌日には消えます。春から秋、おもに5月から11月に発生し、暖かい気候では冬にも見られます。ヨーロッパや北アメリカを含む北半球の温帯に広く分布し、アジア、北アフリカ、オーストラリアからも記録があります。",
+        uses: "食用に適さないとされますが、毒きのことしては知られていません。子実体は小さく、肉が薄く、とてももろいため、食べるところがありません。",
+        confusion: "Parasola leiocephala はほとんど同じに見えますが、胞子はより小さく角張っており、約8–12 × 7–10.5 μmで、裸地や日陰の草地に生えます。Parasola auricoma はやや大きく、傘に褐色の毛があり、ひだは柄に付きます。Parasola kuehneri はよりオレンジ褐色で、胞子が小さく、森の縁に生えます。Coprinopsis 属や Coprinellus 属の小型種には、少なくとも若いときには粉状または粒状の被膜があります。Coprinellus disseminatus は切り株や腐った材の上に密な群れをつくって生えます。",
+        notes: "多くのヒトヨタケ類と違い、傘は墨汁状になりません。平らになったあと、朝日で乾いてしぼむか、傘の重みで柄が折れます。子実体は雨のあとの夜に生え、およそ1日しかもちません。傘は小さなカクテルパラソルのように見えます。ふつうに見られ、デンマークのレッドリストで軽度懸念（LC）と評価されています。"
+      },
+      ko: {
+        description: "작고 수명이 짧은 버섯으로, 연한 색의 깊은 주름이 있는 갓이 머리카락처럼 가늘고 부서지기 쉬운 흰 대 위에서 작은 우산처럼 펴집니다. 잔디밭, 풀밭, 길가의 짧은 풀 속에 홀로, 흩어져서, 또는 작은 무리를 이루어 자라며, 주름살은 먹물처럼 녹지 않고 회색에서 검은색으로 변합니다.",
+        cap: "갓은 완전히 펴지면 지름이 1–3.5 cm이고, 어릴 때는 지름이 5–10 mm에 불과하며 원통형에서 달걀 모양입니다. 이후 종 모양 또는 볼록한 모양이 되었다가 마침내 우산처럼 평평하게 펴지며, 때로는 중앙이 약간 오목합니다. 가장자리에서 거의 중앙까지 깊은 주름이 있고, 중앙은 작은 원반처럼 매끈하게 남습니다. 어린 갓은 노르스름한 색에서 붉은 갈색이며 중앙은 황갈색 또는 주황 갈색이고, 주름 부분부터 회색이 되어 마침내 전체가 회색이 됩니다. 표면은 매끈하며 외피막의 흔적이 없습니다. 얇은 갓은 먹물처럼 녹지 않고 쪼그라들거나 주저앉습니다.",
+        hymenium: "주름살은 대에서 떨어져 있고 대 꼭대기를 둘러싼 작은 깃에 붙어 있습니다. 얇고, 촘촘한 것에서 다소 성긴 것까지 있으며, 처음에는 흰색이고, 이후 회색이 되며 마지막에는 검은색이 됩니다. 대부분의 먹물버섯류와 달리 먹물처럼 녹지 않고, 갓이 납작해지며 쪼그라듭니다. 담자기는 포자가 4개입니다.",
+        stipe: "대는 길이 3.5–10 cm, 굵기 1–2 mm에 불과하고, 원통형이며 굵기가 일정하고 밑동은 약간 부풀어 있습니다. 매우 부서지기 쉽고 속이 비어 있으며, 매끈하거나 가는 비단 같은 결이 있고, 흰색에서 연한 크림색이며 밑동으로 갈수록 약간 갈색을 띱니다. 턱받이는 없습니다.",
+        flesh: "살은 매우 얇고, 희끄무레하거나 회색을 띠며 보잘것없습니다. 냄새와 맛은 특별하지 않습니다.",
+        sporePrint: "검은색입니다. 포자는 각진 달걀 모양에서 레몬 모양이고, 때로는 약간 타원형이며, 매끈하고 어두운 적갈색이고, 크기는 약 10–15 × 8–11 μm이며 중심에서 벗어난 뚜렷한 발아공이 있습니다.",
+        habitat: "부생성 버섯으로, 잔디밭, 풀밭, 공원, 길가, 숲과 밭의 가장자리처럼 대개 햇볕이 드는 곳의 짧은 풀 속에 홀로, 흩어져서, 또는 작은 무리를 이루어 자랍니다. 가끔 낙엽이나 우드칩이 덮인 땅에서 무리를 이룹니다. 자실체는 비가 온 뒤 하룻밤 사이에 나타나고 보통 다음 날이면 사라집니다. 봄부터 가을까지, 주로 5월부터 11월까지 자라며, 따뜻한 기후에서는 겨울에도 납니다. 유럽과 북아메리카를 포함한 북반구 온대 지역에 널리 분포하며, 아시아, 북아프리카, 오스트레일리아에서도 기록이 있습니다.",
+        uses: "먹을 수 없는 버섯으로 여겨지지만, 독이 있는 종으로 알려져 있지는 않습니다. 자실체가 작고 살이 얇으며 매우 부서지기 쉬워 먹을 것이 없습니다.",
+        confusion: "Parasola leiocephala는 거의 똑같이 생겼지만 포자가 더 작고 더 각지며, 크기는 약 8–12 × 7–10.5 μm이고, 맨땅이나 그늘진 풀밭에서 자랍니다. Parasola auricoma는 약간 더 크고, 갓에 갈색 털이 있으며, 주름살이 대에 붙어 있습니다. Parasola kuehneri는 더 주황 갈색이고 포자가 더 작으며 숲 가장자리에서 자랍니다. Coprinopsis속과 Coprinellus속의 작은 종들은 적어도 어릴 때는 가루 모양이나 알갱이 모양의 외피막이 덮여 있습니다. Coprinellus disseminatus는 그루터기와 썩은 나무 위에 빽빽한 무리를 이루어 자랍니다.",
+        notes: "대부분의 먹물버섯류와 달리 갓이 먹물로 변하지 않습니다. 납작해진 뒤 아침 햇볕에 말라 쪼그라들거나, 갓의 무게 때문에 대가 주저앉습니다. 자실체는 비 온 뒤 밤에 자라며 약 하루밖에 가지 않습니다. 갓은 작은 칵테일 우산을 닮았습니다. 흔하며 덴마크 적색 목록에서 관심대상(LC)으로 평가되었습니다."
+      },
+      lv: {
+        description: "Sīka, īslaicīga tintene, kuras bāla, dziļi krokaina cepurīte atveras kā miniatūrs lietussargs virs matiņa tieva, trausla balta kātiņa. Tā aug atsevišķi, izkaisīti vai nelielās grupās zemā zālē pļavās, zālājos un ceļmalās, un tās lapiņas kļūst pelēkas un tad melnas, nešķīstot tintē.",
+        cap: "Pilnībā atvērusies cepurīte ir 1–3,5 cm plata, jaunībā tikai 5–10 mm plata un cilindriska līdz olveida. Pēc tam tā ir zvanveida vai izliekta un beidzot atveras plakana kā lietussargs, dažreiz ar nedaudz ieliektu vidu. Tā ir dziļi vagota no malas gandrīz līdz vidum, bet vidus paliek gluds kā neliels disks. Jaunas cepurītes ir dzeltenīgas līdz sarkanbrūnas, ar iedzeltenbrūnu vai oranžbrūnu vidu, vagās tās kļūst pelēkas un beigās pavisam pelēkas. Virsma ir kaila, bez plīvura paliekām. Plānā cepurīte nešķīst tintē, bet sakalst vai sakrīt.",
+        hymenium: "Lapiņas ir brīvas un piestiprinātas pie neliela apkakles kātiņa augšgalā. Tās ir plānas, blīvas līdz diezgan retas, sākumā baltas, tad pelēkas un beigās melnas. Atšķirībā no vairuma tinteņu tās nešķīst tintē, bet cepurīte saplok un sakalst. Bazīdijas ir četrsporu.",
+        stipe: "Kātiņš ir 3,5–10 cm garš un tikai 1–2 mm biezs, cilindrisks un visā garumā vienāds, ar nedaudz paresninātu pamatni. Tas ir ļoti trausls un dobs, kails līdz smalki zīdains, balts līdz bāli krēmkrāsas un pamatnē viegli brūngans. Gredzena nav.",
+        flesh: "Mīkstums ir ļoti plāns, balts līdz pelēcīgs un nenozīmīgs. Smarža un garša nav izteikta.",
+        sporePrint: "Melns. Sporas ir kantaini olveida līdz citronveida, dažreiz nedaudz elipsoīdas, gludas un tumši sarkanbrūnas, aptuveni 10–15 × 8–11 μm, ar izteiktu ekscentrisku dīgšanas poru.",
+        habitat: "Saprotrofa sēne, kas aug atsevišķi, izkaisīti vai nelielās grupās zemā zālē, parasti saulainās vietās, piemēram, zālājos, pļavās, parkos, ceļmalās un mežu un lauku malās. Dažreiz tā veido grupas uz zemes, ko klāj lapu kārta vai koka šķeldas. Augļķermeņi parādās naktī pēc lietus un parasti līdz nākamajai dienai ir pazuduši. Tā aug no pavasara līdz rudenim, galvenokārt no maija līdz novembrim, un siltā klimatā arī ziemā. Tā ir plaši izplatīta ziemeļu mērenajā joslā, tostarp Eiropā un Ziemeļamerikā, ar atradumiem arī Āzijā, Ziemeļāfrikā un Austrālijā.",
+        uses: "Uzskata par neēdamu, lai gan suga nav zināma kā indīga. Augļķermeņi ir sīki, plāna mīkstuma un tik trausli, ka nav ko ēst.",
+        confusion: "Parasola leiocephala izskatās gandrīz tāpat, bet tās sporas ir mazākas un kantaināks, aptuveni 8–12 × 7–10,5 μm, un tā aug uz kailas zemes vai ēnainā zālē. Parasola auricoma ir nedaudz lielāka, tai ir brūni matiņi uz cepurītes un lapiņas piestiprinātas pie kātiņa. Parasola kuehneri ir oranžbrūnāka, ar mazākām sporām, un aug mežu malās. Ģinšu Coprinopsis un Coprinellus sīkajām sugām vismaz jaunībā ir miltains vai graudains plīvura pārklājums. Coprinellus disseminatus aug blīvās grupās uz celmiem un trūdošas koksnes.",
+        notes: "Atšķirībā no vairuma tinteņu cepurīte nepārvēršas tintē: tā saplok un tad rīta saulē izžūst un sakrīt, vai arī kātiņš salūst zem cepurītes svara. Augļķermeņi izaug naktī pēc lietus un ilgst tikai apmēram vienu dienu. Cepurīte atgādina sīku kokteiļa lietussargu. Suga ir bieža, un Dānijas sarkanajā sarakstā tā novērtēta kā mazāk apdraudēta suga (LC)."
+      },
+      lt: {
+        description: "Smulkus, trumpaamžis grybas, kurio blyški, giliai klostyta kepurėlė išsiskleidžia kaip miniatiūrinis skėtis virš plaukelio plono, trapaus balto kotelio. Auga pavieniui, išsibarsčiusi arba nedidelėmis grupėmis žemoje žolėje pievose, vejose ir pakelėse, o jo lakšteliai pilkėja ir juoduoja netirpdami į rašalą.",
+        cap: "Visiškai išsiskleidusi kepurėlė 1–3,5 cm skersmens, jauna tik 5–10 mm skersmens ir cilindriška iki kiaušiniškos. Paskui ji varpelio formos arba iškili ir galiausiai išsiskleidžia plokščia kaip skėtis, kartais šiek tiek įdubusiu viduriu. Ji giliai vagota nuo krašto beveik iki vidurio, o vidurys lieka lygus kaip mažas diskas. Jaunos kepurėlės gelsvos iki raudonai rudos, su geltonai rudu arba oranžiškai rudu viduriu, vagose pilkėja, o galiausiai tampa visiškai pilkos. Paviršius plikas, be dengiamojo sluoksnio likučių. Plona kepurėlė netirpsta į rašalą, o susitraukia arba suklimpsta.",
+        hymenium: "Lakšteliai laisvi ir prisitvirtinę prie nedidelio apykaklio kotelio viršuje. Jie ploni, tankūs iki gana retų, iš pradžių balti, paskui pilki ir galiausiai juodi. Skirtingai nei daugumos rašalinių grybų, jie netirpsta į rašalą, o kepurėlė susiplojusi susitraukia. Bazidės keturių sporų.",
+        stipe: "Kotelis 3,5–10 cm ilgio ir tik 1–2 mm storio, cilindriškas ir vienodo storio, su šiek tiek sustorėjusia apačia. Jis labai trapus ir tuščiaviduris, plikas iki smulkiai šilkinio, baltas iki blyškiai kreminio, o apačioje šiek tiek rusvas. Žiedo nėra.",
+        flesh: "Trama labai plona, balkšva iki pilkšvos ir menka. Kvapas ir skonis nebūdingi.",
+        sporePrint: "Juodas. Sporos kampuotai kiaušiniškos iki citrinos formos, kartais šiek tiek elipsinės, lygios ir tamsiai raudonai rudos, apie 10–15 × 8–11 μm, su ryškia ekscentrine daigumo anga.",
+        habitat: "Saprotrofinis grybas, kuris auga pavieniui, išsibarstęs arba nedidelėmis grupėmis žemoje žolėje, paprastai saulėtose vietose, pavyzdžiui, vejose, pievose, parkuose, pakelėse ir miškų bei laukų pakraščiuose. Kartais sudaro grupes ant žemės, padengtos lapų paklote arba medžio skiedra. Vaisiakūniai išdygsta per naktį po lietaus ir paprastai iki kitos dienos išnyksta. Vaisius veda nuo pavasario iki rudens, daugiausia nuo gegužės iki lapkričio, o šiltame klimate ir žiemą. Jis paplitęs šiaurinėje vidutinio klimato juostoje, įskaitant Europą ir Šiaurės Ameriką, o radinių yra ir iš Azijos, Šiaurės Afrikos bei Australijos.",
+        uses: "Laikomas nevalgomu, nors rūšis nežinoma kaip nuodinga. Vaisiakūniai maži, plono minkštimo ir tokie trapūs, kad nėra ko valgyti.",
+        confusion: "Parasola leiocephala atrodo beveik taip pat, bet jos sporos mažesnės ir kampuotesnės, apie 8–12 × 7–10,5 μm, ir ji auga ant plikos žemės arba pavėsingoje žolėje. Parasola auricoma kiek didesnė, ant kepurėlės turi rudų plaukelių, o jos lakšteliai prisiaugę prie kotelio. Parasola kuehneri oranžiškiau ruda, su mažesnėmis sporomis, ir auga miškų pakraščiuose. Mažos Coprinopsis ir Coprinellus genčių rūšys bent jaunystėje turi miltuotą arba grūdėtą dengiamojo sluoksnio dangą. Coprinellus disseminatus auga tankiomis grupėmis ant kelmų ir pūvančios medienos.",
+        notes: "Skirtingai nei daugumos rašalinių grybų, kepurėlė nevirsta rašalu: ji susiploja, o paskui ryto saulėje išdžiūsta ir susitraukia arba kotelis lūžta nuo kepurėlės svorio. Vaisiakūniai auga naktį po lietaus ir išsilaiko tik apie parą. Kepurėlė primena mažytį kokteilio skėtuką. Rūšis dažna, o Danijos raudonajame sąraše ji įvertinta kaip mažiausiai grėsminga (LC)."
+      },
+      no: {
+        description: "En liten, kortlevd blekksopp med en blek, dypt furet hatt som åpner seg som en miniatyrparaply over en hårtynn, skjør hvit stilk. Den vokser enkeltvis, spredt eller i små grupper i kort gress på plener, enger og veikanter, og skivene blir grå og deretter svarte uten å løses opp til blekk.",
+        cap: "Hatten er 1–3,5 cm bred når den er helt utfoldet, og som ung bare 5–10 mm og sylindrisk til eggformet. Deretter blir den klokkeformet eller buet og brer seg til slutt flatt ut som en paraply, noen ganger med litt nedtrykt midte. Den er dypt furet fra kanten nesten inn til midten, mens midten forblir glatt som en liten skive. Unge hatter er gulaktige til rødbrune med et gyllenbrunt eller oransjebrunt sentrum, og de blir grå i furene og til slutt grå over det hele. Overflaten er glatt uten slørrester. Den tynne hatten løses ikke opp til blekk, men skrumper inn eller faller sammen.",
+        hymenium: "Skivene er frie og sitter fast på en liten krave øverst på stilken. De er tynne, tette til ganske fjerntstående, først hvite, deretter grå og til slutt svarte. I motsetning til de fleste blekksopper løses de ikke opp til blekk, i stedet flater hatten ut og skrumper. Basidiene er firesporede.",
+        stipe: "Stilken er 3,5–10 cm lang og bare 1–2 mm tykk, sylindrisk og jevntykk, med litt oppsvulmet base. Den er svært skjør og hul, glatt til fint silkeaktig, hvit til blek kremfarget og svakt brunaktig mot basis. Det er ingen ring.",
+        flesh: "Kjøttet er svært tynt, hvitaktig til gråaktig og ubetydelig. Lukt og smak er ikke spesielle.",
+        sporePrint: "Svart. Sporene er kantet eggformede til sitronformede, noen ganger svakt elliptiske, glatte og mørkt rødbrune, omtrent 10–15 × 8–11 μm, med en tydelig usentrisk kimpore.",
+        habitat: "En saprotrof sopp som vokser enkeltvis, spredt eller i små grupper i kort gress, vanligvis på solrike steder som plener, enger, parker, veikanter og kanter av skog og åker. Av og til danner den grupper på jord dekket av løv eller flis. Fruktlegemene dukker opp over natten etter regn og er vanligvis borte neste dag. Den fruktifiserer fra vår til høst, mest fra mai til november, og gjennom vinteren i varme klimaer. Den er utbredt i den nordlige tempererte sonen, blant annet i Europa og Nord-Amerika, med funn fra Asia, Nord-Afrika og Australia.",
+        uses: "Regnes som uspiselig, selv om arten ikke er kjent som giftig. Fruktlegemene er bittesmå, tynnkjøttede og så skjøre at det ikke er noe å spise.",
+        confusion: "Parasola leiocephala ser nesten lik ut, men har mindre, mer kantete sporer, omtrent 8–12 × 7–10,5 μm, og vokser på bar jord eller i skygget gress. Parasola auricoma er litt større, har brune hår på hatten og skiver som sitter fast på stilken. Parasola kuehneri er mer oransjebrun, har mindre sporer og vokser i skogkanter. Små arter av Coprinopsis og Coprinellus har et melaktig eller kornet slørdekke, i hvert fall som unge. Coprinellus disseminatus vokser i tette grupper på stubber og råtnende ved.",
+        notes: "I motsetning til de fleste blekksopper blir ikke hatten til blekk: den flater ut og tørker deretter inn og skrumper i morgensolen, eller stilken knekker under hattens vekt. Fruktlegemene vokser om natten etter regn og varer bare omtrent ett døgn. Hatten ligner en liten cocktailparaply. Den er vanlig og vurdert som livskraftig (LC) på den danske rødlisten."
+      },
+      fa: {
+        description: "قارچی ریز و کوتاه‌عمر از گروه قارچ‌های جوهری، که کلاهک کم‌رنگ و عمیقاً چین‌دارش مانند چتری کوچک بر ساقه‌ای سفید، شکننده و باریک به باریکی مو باز می‌شود. به صورت تک‌افتاده، پراکنده یا در گروه‌های کوچک در چمن کوتاه، چمنزارها، مراتع و کنار جاده‌ها رشد می‌کند و تیغه‌هایش بدون ذوب‌شدن به جوهر، خاکستری و سپس سیاه می‌شوند.",
+        cap: "کلاهک وقتی کاملاً باز شده ۱ تا ۳٫۵ سانتی‌متر پهنا دارد و در جوانی تنها ۵ تا ۱۰ میلی‌متر پهنا دارد و استوانه‌ای تا تخم‌مرغی است. سپس زنگوله‌ای یا محدب می‌شود و سرانجام مانند چتر تخت باز می‌شود و گاهی مرکزش اندکی فرو رفته است. از لبه تا تقریباً مرکز عمیقاً شیاردار است، در حالی که مرکز آن مانند قرصی کوچک صاف می‌ماند. کلاهک‌های جوان زردفام تا قهوه‌ای مایل به قرمز هستند و مرکزشان قهوه‌ای زرد یا قهوه‌ای نارنجی است؛ در شیارها خاکستری می‌شوند و سرانجام سراسر خاکستری می‌گردند. سطح آن بدون کرک است و بقایای پوشش ندارد. کلاهک نازک مثل جوهر ذوب نمی‌شود، بلکه چروکیده می‌شود یا فرو می‌ریزد.",
+        hymenium: "تیغه‌ها آزادند و به یقه‌ای کوچک در بالای ساقه متصل می‌شوند. نازک‌اند و از متراکم تا نسبتاً پراکنده هستند؛ در آغاز سفیدند، سپس خاکستری و سرانجام سیاه. برخلاف بیشتر قارچ‌های جوهری مثل جوهر ذوب نمی‌شوند، بلکه کلاهک پهن و چروکیده می‌شود. بازیدی‌ها چهارهاگی هستند.",
+        stipe: "ساقه ۳٫۵ تا ۱۰ سانتی‌متر بلندی و تنها ۱ تا ۲ میلی‌متر ضخامت دارد، استوانه‌ای و هم‌ضخامت است و پایه‌اش اندکی متورم است. بسیار شکننده و توخالی است، بدون کرک تا ابریشمی ظریف، سفید تا کرم کم‌رنگ و به سمت پایه اندکی قهوه‌ای‌فام است. حلقه ندارد.",
+        flesh: "گوشت بسیار نازک، سفیدفام تا خاکستری‌فام و ناچیز است. بو و طعم ویژه‌ای ندارد.",
+        sporePrint: "سیاه. هاگ‌ها زاویه‌دار و تخم‌مرغی تا لیموشکل، گاهی اندکی بیضوی، صاف و قهوه‌ای مایل به قرمز تیره‌اند و اندازه‌شان حدود ۱۰ تا ۱۵ × ۸ تا ۱۱ میکرومتر است، با منفذ جوانه‌زنی برجسته و خارج از مرکز.",
+        habitat: "قارچی پوسیده‌خوار که به صورت تک‌افتاده، پراکنده یا در گروه‌های کوچک در چمن کوتاه رشد می‌کند، معمولاً در جاهای آفتابی مانند چمن‌ها، چمنزارها، پارک‌ها، کنار جاده‌ها و لبهٔ جنگل‌ها و مزارع. گاهی در گروه‌هایی بر خاک پوشیده از لاشبرگ یا خرده‌چوب دیده می‌شود. اندام‌های باردهی شبانه پس از باران پدیدار می‌شوند و معمولاً تا روز بعد ناپدید می‌گردند. از بهار تا پاییز، بیشتر از ماه مه تا نوامبر، و در اقلیم‌های گرم در طول زمستان میوه می‌دهد. در منطقهٔ معتدل شمالی، از جمله اروپا و آمریکای شمالی، گسترده است و از آسیا، شمال آفریقا و استرالیا نیز گزارش شده است.",
+        uses: "غیرخوراکی به شمار می‌آید، هرچند این گونه سمی شناخته نشده است. اندام‌های باردهی ریز، کم‌گوشت و چنان شکننده‌اند که چیزی برای خوردن ندارند.",
+        confusion: "Parasola leiocephala تقریباً همانند به نظر می‌رسد، اما هاگ‌های کوچک‌تر و زاویه‌دارتری دارد، حدود ۸ تا ۱۲ × ۷ تا ۱۰٫۵ میکرومتر، و بر خاک لخت یا در چمن سایه‌دار رشد می‌کند. Parasola auricoma اندکی بزرگ‌تر است، روی کلاهکش کرک‌های قهوه‌ای دارد و تیغه‌هایش به ساقه چسبیده‌اند. Parasola kuehneri قهوه‌ای نارنجی‌تر است، هاگ‌های کوچک‌تری دارد و در لبهٔ جنگل‌ها رشد می‌کند. گونه‌های کوچک سرده‌های Coprinopsis و Coprinellus دست‌کم در جوانی پوششی آردی یا دانه‌دار از پرده دارند. Coprinellus disseminatus در گروه‌های انبوه بر کنده‌ها و چوب پوسیده رشد می‌کند.",
+        notes: "برخلاف بیشتر قارچ‌های جوهری، کلاهک به جوهر تبدیل نمی‌شود: پهن می‌شود و سپس زیر آفتاب صبح خشک و چروکیده می‌گردد، یا ساقه زیر وزن کلاهک فرو می‌ریزد. اندام‌های باردهی شبانه پس از باران رشد می‌کنند و تنها حدود یک روز دوام می‌آورند. کلاهک شبیه چتر کوچک کوکتل است. رایج است و در فهرست سرخ دانمارک در ردهٔ کمترین نگرانی (LC) ارزیابی شده است."
+      },
+      pl: {
+        description: "Drobny, krótkotrwały grzyb o bladym, głęboko prążkowanym kapeluszu, który otwiera się jak miniaturowy parasolik nad cienkim jak włos, kruchym białym trzonem. Rośnie pojedynczo, rozproszony lub w małych grupach w niskiej trawie na trawnikach, łąkach i poboczach, a jego blaszki szarzeją i czernieją, nie rozpływając się w atrament.",
+        cap: "Kapelusz po całkowitym otwarciu ma 1–3,5 cm średnicy, a za młodu tylko 5–10 mm i jest walcowaty do jajowatego. Potem jest dzwonkowaty lub wypukły, a w końcu rozpościera się płasko jak parasol, czasem z lekko wklęsłym środkiem. Jest głęboko prążkowany od brzegu niemal do środka, a środek pozostaje gładki jak mały dysk. Młode kapelusze są żółtawe do czerwonobrązowych, ze złocistobrązowym lub pomarańczowobrązowym środkiem, w prążkach szarzeją, a w końcu są całe szare. Powierzchnia jest naga i bez resztek osłony. Cienki kapelusz nie rozpływa się, lecz marszczy się lub zapada.",
+        hymenium: "Blaszki są wolne i połączone z małym kołnierzem wokół wierzchołka trzonu. Są cienkie, gęste do dość rzadkich, początkowo białe, potem szare, a na końcu czarne. W przeciwieństwie do większości czernidłakowatych nie rozpływają się w atrament, kapelusz natomiast spłaszcza się i marszczy. Podstawki są czterozarodnikowe.",
+        stipe: "Trzon ma 3,5–10 cm długości i tylko 1–2 mm grubości, jest walcowaty i jednakowo gruby, z lekko zgrubiałą podstawą. Jest bardzo kruchy i pusty w środku, nagi do delikatnie jedwabistego, biały do bladokremowego i ku podstawie lekko brązowawy. Nie ma pierścienia.",
+        flesh: "Miąższ jest bardzo cienki, białawy do szarawego i nieznaczny. Zapach i smak nie są charakterystyczne.",
+        sporePrint: "Czarny. Zarodniki są kanciasto jajowate do cytrynkowatych, czasem lekko elipsoidalne, gładkie i ciemnoczerwonobrązowe, mają około 10–15 × 8–11 μm, z wyraźnym ekscentrycznym porem rostkowym.",
+        habitat: "Grzyb saprotroficzny, który rośnie pojedynczo, rozproszony lub w małych grupach w niskiej trawie, zwykle w słonecznych miejscach, takich jak trawniki, łąki, parki, pobocza dróg oraz skraje lasów i pól. Czasem tworzy skupiska na glebie pokrytej ściółką liściową lub zrębkami drewna. Owocniki pojawiają się w nocy po deszczu i zwykle następnego dnia znikają. Owocnikuje od wiosny do jesieni, głównie od maja do listopada, a w ciepłym klimacie także zimą. Jest szeroko rozpowszechniony w północnej strefie umiarkowanej, w tym w Europie i Ameryce Północnej, z doniesieniami także z Azji, Afryki Północnej i Australii.",
+        uses: "Uważany za niejadalny, choć gatunek nie jest znany jako trujący. Owocniki są drobne, cienkomięsiste i tak kruche, że nie ma czego jeść.",
+        confusion: "Parasola leiocephala wygląda niemal tak samo, ale ma mniejsze, bardziej kanciaste zarodniki, około 8–12 × 7–10,5 μm, i rośnie na gołej ziemi lub w zacienionej trawie. Parasola auricoma jest nieco większa, ma brązowe włoski na kapeluszu i blaszki przyrośnięte do trzonu. Parasola kuehneri jest bardziej pomarańczowobrązowa, ma mniejsze zarodniki i rośnie na skrajach lasów. Drobne gatunki z rodzajów Coprinopsis i Coprinellus mają, przynajmniej za młodu, mączystą lub ziarnistą osłonę. Coprinellus disseminatus rośnie w gęstych grupach na pniakach i butwiejącym drewnie.",
+        notes: "W przeciwieństwie do większości czernidłakowatych kapelusz nie zamienia się w atrament: spłaszcza się, a potem w porannym słońcu zasycha i marszczy się, albo trzon łamie się pod ciężarem kapelusza. Owocniki rosną w nocy po deszczu i trwają tylko około doby. Kapelusz przypomina maleńki parasolik do koktajli. Gatunek jest pospolity i na duńskiej czerwonej liście oceniany jako gatunek najmniejszej troski (LC)."
+      },
+      pt: {
+        description: "Um minúsculo cogumelo de vida curta, cujo chapéu pálido e profundamente pregueado se abre como uma sombrinha em miniatura sobre um pé branco, frágil e fino como um fio de cabelo. Cresce isolado, disperso ou em pequenos grupos na relva curta de relvados, prados e bermas de caminhos, e as suas lâminas ficam cinzentas e depois pretas sem se dissolverem em tinta.",
+        cap: "O chapéu mede 1–3,5 cm de largura quando totalmente aberto, e apenas 5–10 mm, de cilíndrico a ovoide, quando jovem. Depois torna-se campanulado ou convexo e por fim abre-se plano como um guarda-chuva, por vezes com o centro ligeiramente deprimido. É profundamente sulcado desde a margem quase até ao centro, enquanto o centro se mantém liso, como um pequeno disco. Os chapéus jovens são amarelados a castanho-avermelhados, com o centro fulvo ou castanho-alaranjado, ficam cinzentos nos sulcos e por fim totalmente cinzentos. A superfície é glabra e sem restos de véu. O chapéu fino não se desfaz em tinta, mas encarquilha ou colapsa.",
+        hymenium: "As lâminas são livres e ligam-se a um pequeno colar em redor do topo do pé. São finas, de apertadas a bastante espaçadas, primeiro brancas, depois cinzentas e por fim pretas. Ao contrário das da maioria dos cogumelos de tinta, não se dissolvem em tinta, e o chapéu achata-se e encarquilha. Os basídios têm quatro esporos.",
+        stipe: "O pé mede 3,5–10 cm de comprimento e apenas 1–2 mm de espessura, é cilíndrico e de largura uniforme, com a base ligeiramente dilatada. É muito frágil e oco, glabro a finamente sedoso, branco a creme-pálido e ligeiramente acastanhado para a base. Não tem anel.",
+        flesh: "A carne é muito fina, esbranquiçada a acinzentada e insignificante. O cheiro e o sabor não são distintivos.",
+        sporePrint: "Preta. Os esporos são angulosos, de ovoides a limoniformes, por vezes ligeiramente elípticos, lisos e castanho-avermelhados escuros, com cerca de 10–15 × 8–11 μm, com um poro germinativo excêntrico bem visível.",
+        habitat: "Um fungo saprófito que cresce isolado, disperso ou em pequenos grupos na relva curta, geralmente em locais soalheiros como relvados, prados, parques, bermas de estradas e orlas de bosques e campos. Por vezes forma grupos em solo coberto de folhada ou de aparas de madeira. Os corpos frutíferos surgem durante a noite depois da chuva e costumam ter desaparecido no dia seguinte. Frutifica da primavera ao outono, sobretudo de maio a novembro, e durante o inverno em climas quentes. Está difundido na zona temperada do norte, incluindo a Europa e a América do Norte, com registos também na Ásia, no Norte de África e na Austrália.",
+        uses: "Considerado não comestível, embora não seja conhecido como venenoso. Os corpos frutíferos são minúsculos, de carne fina e tão frágeis que não há nada para comer.",
+        confusion: "Parasola leiocephala é quase idêntico, mas tem esporos mais pequenos e mais angulosos, com cerca de 8–12 × 7–10,5 μm, e cresce em solo nu ou em relva sombreada. Parasola auricoma é um pouco maior, tem pelos castanhos no chapéu e lâminas aderentes ao pé. Parasola kuehneri é mais castanho-alaranjado, com esporos mais pequenos, e cresce nas orlas dos bosques. As espécies pequenas de Coprinopsis e Coprinellus têm, pelo menos quando jovens, um revestimento de véu farinhento ou granuloso. Coprinellus disseminatus cresce em grupos densos sobre cepos e madeira em decomposição.",
+        notes: "Ao contrário da maioria dos cogumelos de tinta, o chapéu não se transforma em tinta: achata-se e depois seca e encarquilha ao sol da manhã, ou o pé dobra-se sob o peso do chapéu. Os corpos frutíferos crescem de noite depois da chuva e duram apenas cerca de um dia. O chapéu faz lembrar uma minúscula sombrinha de cocktail. É comum e está avaliado como pouco preocupante (LC) na lista vermelha dinamarquesa."
+      },
+      ro: {
+        description: "O ciupercă minusculă și efemeră, a cărei pălărie pală, adânc plisată, se deschide ca o umbreluță în miniatură deasupra unui picior alb, fragil și subțire ca un fir de păr. Crește solitară, răzleață sau în grupuri mici în iarba scurtă de pe peluze, pajiști și marginea drumurilor, iar lamelele ei devin cenușii, apoi negre, fără să se topească în cerneală.",
+        cap: "Pălăria are 1–3,5 cm în diametru când este complet deschisă și doar 5–10 mm, cilindrică până la ovoidală, la tinerețe. Apoi devine clopotată sau convexă și în cele din urmă se deschide plată ca o umbrelă, uneori cu centrul ușor adâncit. Este adânc brăzdată de la margine aproape până în centru, în timp ce centrul rămâne neted ca un mic disc. Pălăriile tinere sunt gălbui până la brun-roșcate, cu centrul brun-gălbui sau brun-portocaliu, în brazde devin cenușii și în cele din urmă complet cenușii. Suprafața este golașă și fără rămășițe de văl. Pălăria subțire nu se topește în cerneală, ci se ofilește sau se prăbușește.",
+        hymenium: "Lamelele sunt libere și se prind de un mic guler din jurul vârfului piciorului. Sunt subțiri, dese până la destul de rare, la început albe, apoi cenușii și în cele din urmă negre. Spre deosebire de cele ale majorității ciupercilor cu cerneală, nu se topesc în cerneală, iar pălăria se aplatizează și se ofilește. Bazidiile au patru spori.",
+        stipe: "Piciorul are 3,5–10 cm lungime și doar 1–2 mm grosime, este cilindric și de aceeași grosime pe toată lungimea, cu baza ușor umflată. Este foarte fragil și scobit, golaș până la fin mătăsos, alb până la crem-pal și ușor brunificat spre bază. Nu are inel.",
+        flesh: "Carnea este foarte subțire, albicioasă până la cenușie și neînsemnată. Mirosul și gustul nu sunt distinctive.",
+        sporePrint: "Negru. Sporii sunt angulos ovoidali până la în formă de lămâie, uneori ușor elipsoidali, netezi și brun-roșcați închis, de aproximativ 10–15 × 8–11 μm, cu un por germinativ excentric evident.",
+        habitat: "O ciupercă saprofită care crește solitară, răzleață sau în grupuri mici în iarba scurtă, de obicei în locuri însorite, precum peluzele, pajiștile, parcurile, marginile drumurilor și marginile pădurilor și ale câmpurilor. Uneori formează grupuri pe sol acoperit cu litieră de frunze sau cu talaș de lemn. Corpurile fructifere apar peste noapte după ploaie și de obicei dispar până a doua zi. Fructifică din primăvară până toamna, mai ales din mai până în noiembrie, iar în climatele calde și iarna. Este larg răspândită în zona temperată nordică, inclusiv în Europa și America de Nord, cu semnalări și din Asia, Africa de Nord și Australia.",
+        uses: "Considerată necomestibilă, deși nu este cunoscută ca otrăvitoare. Corpurile fructifere sunt minuscule, cu carne subțire și atât de fragile, încât nu e nimic de mâncat.",
+        confusion: "Parasola leiocephala arată aproape la fel, dar are spori mai mici și mai angulari, de aproximativ 8–12 × 7–10,5 μm, și crește pe sol gol sau în iarbă umbrită. Parasola auricoma este puțin mai mare, are peri bruni pe pălărie și lamele prinse de picior. Parasola kuehneri este mai brun-portocalie, cu spori mai mici, și crește la marginea pădurilor. Speciile mici de Coprinopsis și Coprinellus au, cel puțin la tinerețe, o acoperire de văl făinoasă sau granuloasă. Coprinellus disseminatus crește în grupuri dense pe cioate și lemn în descompunere.",
+        notes: "Spre deosebire de majoritatea ciupercilor cu cerneală, pălăria nu se transformă în cerneală: se aplatizează, apoi se usucă și se ofilește în soarele dimineții, sau piciorul se frânge sub greutatea pălăriei. Corpurile fructifere cresc noaptea după ploaie și durează doar aproximativ o zi. Pălăria seamănă cu o umbreluță minusculă de cocktail. Este obișnuită și evaluată ca preocupare minimă (LC) în lista roșie daneză."
+      },
+      ru: {
+        description: "Крошечный недолговечный гриб с бледной, глубоко складчатой шляпкой, которая раскрывается, как миниатюрный зонтик, над тонкой, как волосок, хрупкой белой ножкой. Растёт по одному, рассеянно или небольшими группами в низкой траве на газонах, лугах и обочинах, а его пластинки сереют и чернеют, не расплываясь в чернильную жидкость.",
+        cap: "Шляпка в полностью раскрытом виде 1–3,5 см в диаметре, а в молодости всего 5–10 мм и цилиндрическая до яйцевидной. Затем она колокольчатая или выпуклая и в конце концов раскрывается плоско, как зонтик, иногда с немного вдавленным центром. Она глубоко бороздчатая от края почти до центра, а центр остаётся гладким, как небольшой диск. Молодые шляпки желтоватые до красновато-коричневых, с жёлто-коричневым или оранжево-коричневым центром, в бороздках они сереют и в конце концов становятся серыми целиком. Поверхность голая, без остатков покрывала. Тонкая шляпка не расплывается, а сморщивается или оседает.",
+        hymenium: "Пластинки свободные и соединены с небольшим воротничком вокруг верхушки ножки. Они тонкие, от частых до довольно редких, сначала белые, затем серые и наконец чёрные. В отличие от большинства навозников, они не расплываются в чернильную жидкость, а шляпка уплощается и сморщивается. Базидии четырёхспоровые.",
+        stipe: "Ножка длиной 3,5–10 см и толщиной всего 1–2 мм, цилиндрическая и одинаковой толщины по всей длине, с немного утолщённым основанием. Она очень хрупкая и полая, голая до тонкошелковистой, белая до бледно-кремовой и к основанию слегка буроватая. Кольца нет.",
+        flesh: "Мякоть очень тонкая, беловатая до сероватой и незаметная. Запах и вкус не выражены.",
+        sporePrint: "Чёрный. Споры угловато-яйцевидные до лимоновидных, иногда слегка эллипсоидные, гладкие и тёмно-красновато-коричневые, около 10–15 × 8–11 мкм, с хорошо заметной эксцентрической ростковой порой.",
+        habitat: "Сапротрофный гриб, который растёт по одному, рассеянно или небольшими группами в низкой траве, обычно на солнечных местах, таких как газоны, луга, парки, обочины дорог, опушки лесов и края полей. Иногда образует группы на почве, покрытой опавшей листвой или древесной щепой. Плодовые тела появляются за одну ночь после дождя и обычно исчезают к следующему дню. Плодоносит с весны до осени, главным образом с мая по ноябрь, а в тёплом климате и зимой. Широко распространён в северной умеренной зоне, включая Европу и Северную Америку, с находками также в Азии, Северной Африке и Австралии.",
+        uses: "Считается несъедобным, хотя вид не известен как ядовитый. Плодовые тела крошечные, тонкомясистые и такие хрупкие, что есть там нечего.",
+        confusion: "Parasola leiocephala выглядит почти так же, но имеет более мелкие и более угловатые споры, около 8–12 × 7–10,5 мкм, и растёт на голой почве или в затенённой траве. Parasola auricoma немного крупнее, имеет на шляпке коричневые волоски, а пластинки приросшие к ножке. Parasola kuehneri более оранжево-коричневая, с более мелкими спорами, и растёт на опушках лесов. У мелких видов Coprinopsis и Coprinellus есть, по крайней мере в молодости, мучнистое или зернистое покрывало. Coprinellus disseminatus растёт плотными группами на пнях и гниющей древесине.",
+        notes: "В отличие от большинства навозников, шляпка не превращается в чернильную жидкость: она уплощается, а затем на утреннем солнце засыхает и сморщивается, или ножка ломается под тяжестью шляпки. Плодовые тела растут ночью после дождя и держатся всего около суток. Шляпка напоминает крошечный коктейльный зонтик. Вид обычен и в Красном списке Дании оценивается как вид наименьшего риска (LC)."
+      },
+      sr: {
+        description: "Ситна гљива кратког века чији се бледи, дубоко набрани шешир отвара као минијатурни кишобран изнад дршке беле боје, крхке и танке као влас. Расте појединачно, расејано или у малим групама у ниској трави на травњацима, ливадама и поред путева, а њени листићи сиве и црне, не растапајући се у мастило.",
+        cap: "Потпуно отворен шешир је широк 1–3,5 cm, а у младости само 5–10 mm и ваљкаст до јајаст. Затим је звонаст или испупчен и на крају се отвара равно као кишобран, понекад са благо удубљеним средиштем. Дубоко је избраздан од руба готово до средине, а средиште остаје глатко као мали диск. Млади шешири су жућкасти до црвенкастосмеђи, са окер-смеђим или наранџастосмеђим средиштем, у браздама сиве, а на крају су потпуно сиви. Површина је гола и без остатака покривача. Танки шешир се не растапа, већ се смежура или се сруши.",
+        hymenium: "Листићи су слободни и причвршћени за мали оковратник око врха дршке. Танки су, густи до прилично ретки, у почетку бели, затим сиви и на крају црни. За разлику од већине сродних гљива, не растапају се у мастило, већ се шешир спљошти и смежура. Базидије су четвороспорне.",
+        stipe: "Дршка је дугачка 3,5–10 cm и дебела само 1–2 mm, цилиндрична и једнако дебела, са благо задебљаном основом. Врло је крхка и шупља, гола до ситно свилена, бела до бледокремаста, а према основи благо смеђкаста. Прстена нема.",
+        flesh: "Месо је врло танко, беличасто до сивкасто и незнатно. Мирис и укус нису изражени.",
+        sporePrint: "Црн. Споре су угласто јајасте до лимунасте, понекад благо елипсоидне, глатке и тамно црвенкастосмеђе, око 10–15 × 8–11 μm, са изразитом ексцентричном клијном пором.",
+        habitat: "Сапротрофна гљива која расте појединачно, расејано или у малим групама у ниској трави, обично на сунчаним местима као што су травњаци, ливаде, паркови, ивице путева и ободи шума и њива. Понекад ствара групе на тлу прекривеном лишћем или дрвном сечком. Плодоносна тела никну преко ноћи после кише и обично нестану до следећег дана. Рађа од пролећа до јесени, највише од маја до новембра, а у топлој клими и преко зиме. Раширена је у северном умереном појасу, укључујући Европу и Северну Америку, а налази су познати и из Азије, северне Африке и Аустралије.",
+        uses: "Сматра се нејестивом, мада врста није позната као отровна. Плодоносна тела су ситна, танког меса и толико крхка да нема шта да се једе.",
+        confusion: "Parasola leiocephala изгледа готово исто, али има ситније и угластије споре, око 8–12 × 7–10,5 μm, и расте на голом тлу или у засењеној трави. Parasola auricoma је нешто већа, има смеђе длачице на шеширу и листиће срасле са дршком. Parasola kuehneri је наранџастосмеђа, ситнијих спора, и расте на ободима шума. Ситне врсте родова Coprinopsis и Coprinellus имају, бар у младости, брашнаст или зрнаст покривач. Coprinellus disseminatus расте у густим групама на пањевима и трулом дрвету.",
+        notes: "За разлику од већине сродних гљива, шешир се не претвара у мастило: спљошти се, а затим се на јутарњем сунцу осуши и смежура, или се дршка преломи под тежином шешира. Плодоносна тела расту ноћу после кише и трају само око једног дана. Шешир подсећа на ситан коктел кишобран. Честа је и у Црвеној листи Данске оцењена је као врста најмање бриге (LC)."
+      },
+      sl: {
+        description: "Droben, kratkoživ goba, katere bled, globoko nagubani klobuk se odpre kot miniaturen dežnik nad lasno tankim, krhkim belim betom. Raste posamično, razpršeno ali v majhnih skupinah v nizki travi na travnikih, pašnikih in ob poteh, njeni lističi pa osivijo in počrnijo, ne da bi se raztopili v črnilo.",
+        cap: "Popolnoma odprt klobuk je širok 1–3,5 cm, v mladosti le 5–10 mm in valjast do jajčast. Nato je zvonast ali izbočen in se nazadnje odpre ploščato kot dežnik, včasih z rahlo vdrtim središčem. Od roba skoraj do sredine je globoko nažlebljen, središče pa ostane gladko kot majhen disk. Mladi klobuki so rumenkasti do rdečkastorjavi, z rumenorjavim ali oranžnorjavim središčem, v žlebovih osivijo in nazadnje so povsem sivi. Površina je gola in brez ostankov ovoja. Tanek klobuk se ne raztopi, ampak se skrči ali zleze skupaj.",
+        hymenium: "Lističi so prosti in pritrjeni na majhen ovratnik okoli vrha beta. So tanki, goste do precej redki, najprej beli, nato sivi in nazadnje črni. Za razliko od večine sorodnih gob se ne raztopijo v črnilo, klobuk se le splošči in skrči. Bazidiji so štirispori.",
+        stipe: "Bet je dolg 3,5–10 cm in debel le 1–2 mm, valjast in enakomerno debel, z rahlo odebeljeno osnovo. Je zelo krhek in votel, gol do drobno svilnat, bel do bledo kremast in proti osnovi rahlo rjavkast. Obročka ni.",
+        flesh: "Meso je zelo tanko, belkasto do sivkasto in neznatno. Vonj in okus nista izrazita.",
+        sporePrint: "Črn. Trosi so oglato jajčasti do limonastih, včasih rahlo elipsoidni, gladki in temno rdečkastorjavi, veliki okoli 10–15 × 8–11 μm, z izrazito ekscentrično kalilno poro.",
+        habitat: "Saprotrofna goba, ki raste posamično, razpršeno ali v majhnih skupinah v nizki travi, običajno na sončnih mestih, kot so travniki, pašniki, parki, robovi poti ter robovi gozdov in polj. Včasih tvori skupine na tleh, prekritih z listnim opadom ali lesnimi sekanci. Plodišča zrastejo čez noč po dežju in običajno do naslednjega dne izginejo. Plodi od pomladi do jeseni, največ od maja do novembra, v toplem podnebju pa tudi pozimi. Razširjena je v severnem zmernem pasu, vključno z Evropo in Severno Ameriko, najdbe pa so znane tudi iz Azije, severne Afrike in Avstralije.",
+        uses: "Velja za neužitno, čeprav vrsta ni znana kot strupena. Plodišča so drobna, tankomesnata in tako krhka, da ni kaj jesti.",
+        confusion: "Parasola leiocephala je videti skoraj enako, a ima manjše, bolj oglate trose, veliki okoli 8–12 × 7–10,5 μm, in raste na golih tleh ali v senčni travi. Parasola auricoma je nekoliko večja, ima rjave dlačice na klobuku in lističe, priraščene na bet. Parasola kuehneri je bolj oranžnorjava, z manjšimi trosi, in raste na robovih gozdov. Drobne vrste rodov Coprinopsis in Coprinellus imajo vsaj v mladosti moknat ali zrnat ovoj. Coprinellus disseminatus raste v gostih skupinah na štorih in trhlem lesu.",
+        notes: "Za razliko od večine sorodnih gob se klobuk ne spremeni v črnilo: splošči se, nato se na jutranjem soncu posuši in skrči, ali pa se bet pod težo klobuka zlomi. Plodišča rastejo ponoči po dežju in zdržijo le približno en dan. Klobuk spominja na drobcen koktajl dežnik. Je pogosta in v danskem rdečem seznamu ocenjena kot vrsta najmanjšega varstvenega pomena (LC)."
+      },
+      es: {
+        description: "Un hongo diminuto y efímero, cuyo sombrero pálido y profundamente plisado se abre como una sombrilla en miniatura sobre un pie blanco, frágil y fino como un cabello. Crece aislado, disperso o en pequeños grupos en la hierba corta de céspedes, prados y bordes de caminos, y sus láminas se vuelven grises y luego negras sin licuarse en tinta.",
+        cap: "El sombrero mide 1–3,5 cm de ancho cuando está completamente abierto, y solo 5–10 mm, de cilíndrico a ovoide, de joven. Después es campanulado o convexo y por fin se abre plano como un paraguas, a veces con el centro ligeramente deprimido. Está profundamente surcado desde el margen casi hasta el centro, mientras que el centro se mantiene liso, como un pequeño disco. Los sombreros jóvenes son amarillentos a pardo rojizos, con el centro leonado o pardo anaranjado, se vuelven grises en los surcos y por fin completamente grises. La superficie es glabra y sin restos de velo. El sombrero fino no se licúa en tinta, sino que se arruga o se desploma.",
+        hymenium: "Las láminas son libres y se unen a un pequeño collar alrededor de la parte superior del pie. Son finas, de apretadas a bastante espaciadas, primero blancas, luego grises y por último negras. A diferencia de las de la mayoría de los hongos de tinta, no se licúan en tinta, y el sombrero se aplana y se arruga. Los basidios tienen cuatro esporas.",
+        stipe: "El pie mide 3,5–10 cm de largo y solo 1–2 mm de grosor, es cilíndrico y de grosor uniforme, con la base ligeramente engrosada. Es muy frágil y hueco, glabro a finamente sedoso, blanco a crema pálido y ligeramente parduzco hacia la base. No tiene anillo.",
+        flesh: "La carne es muy fina, blanquecina a grisácea e insignificante. El olor y el sabor no son distintivos.",
+        sporePrint: "Negra. Las esporas son angulosas, de ovoides a limoniformes, a veces ligeramente elípticas, lisas y pardo rojizo oscuro, de unos 10–15 × 8–11 μm, con un poro germinativo excéntrico bien marcado.",
+        habitat: "Un hongo saprótrofo que crece aislado, disperso o en pequeños grupos en la hierba corta, normalmente en lugares soleados como céspedes, prados, parques, bordes de carreteras y márgenes de bosques y campos. A veces forma grupos sobre suelo cubierto de hojarasca o de astillas de madera. Los carpóforos aparecen durante la noche después de la lluvia y suelen haber desaparecido al día siguiente. Fructifica de primavera a otoño, sobre todo de mayo a noviembre, y durante el invierno en climas cálidos. Está extendido por la zona templada del norte, incluidas Europa y Norteamérica, con registros también en Asia, el norte de África y Australia.",
+        uses: "Se considera no comestible, aunque no se conoce como venenoso. Los carpóforos son diminutos, de carne fina y tan frágiles que no hay nada que comer.",
+        confusion: "Parasola leiocephala es casi idéntico, pero tiene esporas más pequeñas y más angulosas, de unos 8–12 × 7–10,5 μm, y crece en suelo desnudo o en hierba sombreada. Parasola auricoma es algo más grande, tiene pelos pardos en el sombrero y láminas unidas al pie. Parasola kuehneri es más pardo anaranjado, con esporas más pequeñas, y crece en los márgenes de los bosques. Las especies pequeñas de Coprinopsis y Coprinellus tienen, al menos de jóvenes, un revestimiento de velo harinoso o granuloso. Coprinellus disseminatus crece en grupos densos sobre tocones y madera en descomposición.",
+        notes: "A diferencia de la mayoría de los hongos de tinta, el sombrero no se convierte en tinta: se aplana y luego se seca y se arruga con el sol de la mañana, o el pie se dobla bajo el peso del sombrero. Los carpóforos crecen de noche tras la lluvia y duran solo un día aproximadamente. El sombrero recuerda a una diminuta sombrilla de cóctel. Es común y está evaluada como de preocupación menor (LC) en la lista roja danesa."
+      },
+      sv: {
+        description: "En liten, kortlivad bläcksvamp vars bleka, djupt refflade hatt öppnar sig som ett miniatyrparaply över en hårtunn, skör vit fot. Den växer enstaka, spridd eller i små grupper i kort gräs på gräsmattor, ängar och vägkanter, och dess skivor blir grå och sedan svarta utan att lösas upp till bläck.",
+        cap: "Hatten är 1–3,5 cm bred när den är helt utbredd, och som ung bara 5–10 mm och cylindrisk till äggformad. Därefter blir den klockformad eller välvd och breder till sist ut sig platt som ett paraply, ibland med något nedtryckt mitt. Den är djupt refflad från kanten nästan in till mitten, medan mitten förblir slät som en liten skiva. Unga hattar är gulaktiga till rödbruna med en gyllenbrun eller orangebrun mitt, och de blir grå i reffelrännorna och till sist helt grå. Ytan är kal och utan slöjrester. Den tunna hatten löses inte upp till bläck, utan skrumpnar eller viker ihop sig.",
+        hymenium: "Skivorna är fria och sitter fast vid en liten krage överst på foten. De är tunna, täta till ganska glesa, först vita, sedan grå och till sist svarta. Till skillnad från hos de flesta bläcksvampar löses de inte upp till bläck, utan hatten plattas ut och skrumpnar. Basidierna är fyrsporiga.",
+        stipe: "Foten är 3,5–10 cm lång och bara 1–2 mm tjock, cylindrisk och jämntjock, med något uppsvälld bas. Den är mycket skör och ihålig, kal till fint silkeslen, vit till blekt gräddfärgad och svagt brunaktig mot basen. Ring saknas.",
+        flesh: "Köttet är mycket tunt, vitaktigt till gråaktigt och obetydligt. Lukt och smak är inte särskilda.",
+        sporePrint: "Svart. Sporerna är kantigt äggformade till citronformade, ibland svagt elliptiska, släta och mörkt rödbruna, ungefär 10–15 × 8–11 μm, med en tydlig excentrisk grobspringa.",
+        habitat: "En saprotrof svamp som växer enstaka, spridd eller i små grupper i kort gräs, vanligen på soliga platser som gräsmattor, ängar, parker, vägkanter och skogs- och åkerkanter. Ibland bildar den grupper på mark täckt av lövförna eller flis. Fruktkropparna dyker upp över natten efter regn och är oftast borta nästa dag. Den fruktificerar från vår till höst, mest från maj till november, och under vintern i varmt klimat. Den är utbredd i det norra tempererade bältet, bland annat i Europa och Nordamerika, med fynd även från Asien, Nordafrika och Australien.",
+        uses: "Anses oätlig, även om arten inte är känd som giftig. Fruktkropparna är pyttesmå, tunnköttiga och så sköra att det inte finns något att äta.",
+        confusion: "Parasola leiocephala ser nästan likadan ut, men har mindre, mer kantiga sporer, ungefär 8–12 × 7–10,5 μm, och växer på bar jord eller i skuggigt gräs. Parasola auricoma är något större, har bruna hår på hatten och skivor som sitter fast vid foten. Parasola kuehneri är mer orangebrun, har mindre sporer och växer i skogskanter. Små arter av Coprinopsis och Coprinellus har, åtminstone som unga, ett mjölaktigt eller kornigt slöjöverdrag. Coprinellus disseminatus växer i täta flockar på stubbar och multnande ved.",
+        notes: "Till skillnad från hos de flesta bläcksvampar blir hatten inte till bläck: den plattas ut och torkar sedan in och skrumpnar i morgonsolen, eller så knäcks foten under hattens tyngd. Fruktkropparna växer på natten efter regn och varar bara ungefär ett dygn. Hatten liknar ett litet cocktailparaply. Den är vanlig och bedömd som livskraftig (LC) på den danska rödlistan."
+      },
+      tr: {
+        description: "Küçücük ve kısa ömürlü bir mürekkep mantarı; soluk renkli, derin kıvrımlı şapkası, saç teli kadar ince, kırılgan beyaz bir sapın üzerinde minyatür bir şemsiye gibi açılır. Kısa otlar içinde, çim alanlarda, çayırlarda ve yol kenarlarında tek tek, dağınık ya da küçük gruplar hâlinde yetişir; lamelleri mürekkebe dönüşüp erimeden önce grileşir, sonra siyahlaşır.",
+        cap: "Şapka tamamen açıldığında 1–3,5 cm genişliğindedir; gençken yalnızca 5–10 mm genişliğinde olup silindirik ile yumurta biçimi arasındadır. Sonra çan biçimli ya da dışbükey olur ve sonunda şemsiye gibi düz açılır, bazen ortası hafif çukurdur. Kenardan neredeyse ortaya kadar derin oluklu olup orta kısmı küçük bir disk gibi düz kalır. Genç şapkalar sarımsıdan kırmızımsı kahverengiye kadar değişir, ortası sarımsı kahverengi ya da turuncumsu kahverengidir; oluklarda grileşir ve sonunda tamamen gri olur. Yüzeyi çıplaktır ve örtü kalıntısı yoktur. İnce şapka mürekkebe dönüşüp erimez, büzülür ya da çöker.",
+        hymenium: "Lameller serbesttir ve sapın tepesindeki küçük bir yakaya bağlanır. İncedirler, sıktan oldukça seyrek aralıklıya kadar değişirler; önce beyaz, sonra gri ve en sonunda siyahtır. Çoğu mürekkep mantarının aksine mürekkebe dönüşüp erimezler; şapka yassılaşır ve büzülür. Bazidyumlar dört sporludur.",
+        stipe: "Sap 3,5–10 cm uzunluğunda ve yalnızca 1–2 mm kalınlığındadır; silindirik ve boyunca eşit kalınlıktadır, tabanı hafif şişkindir. Çok kırılgandır ve içi boştur, çıplak ile ince ipeksi arasındadır, beyazdan soluk krem rengine kadar değişir ve tabana doğru hafif kahverengimsidir. Halka yoktur.",
+        flesh: "Eti çok ince, beyazımsıdan grimsiye kadar ve önemsizdir. Kokusu ve tadı belirgin değildir.",
+        sporePrint: "Siyah. Sporlar köşeli yumurta biçiminden limon biçimine kadar değişir, bazen hafif eliptiktir; düzgün ve koyu kırmızımsı kahverengidir, yaklaşık 10–15 × 8–11 μm boyutundadır ve merkezden kaymış belirgin bir çimlenme gözeneği taşır.",
+        habitat: "Kısa otlar içinde, genellikle çim alanlar, çayırlar, parklar, yol kenarları ile orman ve tarla kenarları gibi güneşli yerlerde tek tek, dağınık ya da küçük gruplar hâlinde yetişen saprofit bir mantardır. Bazen yaprak çöpü ya da odun yongasıyla kaplı toprakta gruplar oluşturur. Meyve gövdeleri yağmurdan sonra bir gecede çıkar ve genellikle ertesi gün kaybolur. İlkbahardan sonbahara, çoğunlukla Mayıs'tan Kasım'a kadar, sıcak iklimlerde ise kış boyunca meyve verir. Kuzey ılıman kuşakta, Avrupa ve Kuzey Amerika dâhil, yaygındır; Asya, Kuzey Afrika ve Avustralya'dan da kayıtları vardır.",
+        uses: "Yenmez kabul edilir, ancak türün zehirli olduğu bilinmemektedir. Meyve gövdeleri küçücük, ince etli ve o kadar kırılgandır ki yenecek bir şey yoktur.",
+        confusion: "Parasola leiocephala neredeyse aynı görünür, ancak sporları daha küçük ve daha köşelidir, yaklaşık 8–12 × 7–10,5 μm, ve çıplak toprakta ya da gölgeli otlarda yetişir. Parasola auricoma biraz daha büyüktür, şapkasında kahverengi tüyler vardır ve lamelleri sapa bağlıdır. Parasola kuehneri daha turuncumsu kahverengidir, sporları daha küçüktür ve orman kenarlarında yetişir. Coprinopsis ve Coprinellus cinslerinin küçük türlerinde en azından gençken unlu ya da taneli bir örtü kaplaması bulunur. Coprinellus disseminatus kütüklerde ve çürüyen odunda sık topluluklar hâlinde yetişir.",
+        notes: "Çoğu mürekkep mantarının aksine şapka mürekkebe dönüşmez: yassılaşır, sonra sabah güneşinde kurur ve büzülür ya da sap şapkanın ağırlığı altında kırılır. Meyve gövdeleri yağmurdan sonra geceleyin büyür ve yalnızca yaklaşık bir gün dayanır. Şapka minik bir kokteyl şemsiyesine benzer. Yaygındır ve Danimarka kırmızı listesinde asgari endişe (LC) olarak değerlendirilmiştir."
+      },
+      uk: {
+        description: "Крихітний недовговічний гриб із блідим, глибоко складчастим капелюшком, який розкривається, як мініатюрна парасолька, над тонкою, як волосинка, крихкою білою ніжкою. Росте поодинці, розсіяно або невеликими групами в низькій траві на газонах, луках і узбіччях, а його пластинки сіріють і чорніють, не розпливаючись у чорнильну рідину.",
+        cap: "Капелюшок у повністю розкритому вигляді 1–3,5 см у діаметрі, а в молодості лише 5–10 мм і циліндричний до яйцеподібного. Потім він дзвоникоподібний або опуклий і зрештою розкривається плоско, як парасолька, інколи з трохи вдавленим центром. Він глибоко борозенчастий від краю майже до центру, а центр залишається гладким, як невеликий диск. Молоді капелюшки жовтуваті до червонувато-коричневих, із жовто-коричневим або оранжево-коричневим центром, у борозенках вони сіріють і зрештою стають цілком сірими. Поверхня гола, без залишків покривала. Тонкий капелюшок не розпливається, а зморщується або осідає.",
+        hymenium: "Пластинки вільні й з'єднані з невеликим комірцем навколо верхівки ніжки. Вони тонкі, від частих до досить рідких, спочатку білі, потім сірі й нарешті чорні. На відміну від більшості споріднених грибів, вони не розпливаються у чорнильну рідину, а капелюшок уплощується і зморщується. Базидії чотириспорові.",
+        stipe: "Ніжка завдовжки 3,5–10 см і завтовшки лише 1–2 мм, циліндрична й однакової товщини, з трохи потовщеною основою. Вона дуже крихка й порожниста, гола до тонкошовковистої, біла до блідо-кремової і до основи злегка бурувата. Кільця немає.",
+        flesh: "М'якуш дуже тонкий, білуватий до сіруватого й непомітний. Запах і смак не виражені.",
+        sporePrint: "Чорний. Спори кутасто-яйцеподібні до лимоноподібних, інколи трохи еліпсоїдні, гладенькі й темно-червонувато-коричневі, близько 10–15 × 8–11 мкм, із добре помітною ексцентричною паростковою порою.",
+        habitat: "Сапротрофний гриб, що росте поодинці, розсіяно або невеликими групами в низькій траві, зазвичай на сонячних місцях, таких як газони, луки, парки, узбіччя доріг, узлісся й краї полів. Іноді утворює групи на ґрунті, вкритому опалим листям або деревною тріскою. Плодові тіла з'являються за одну ніч після дощу й зазвичай зникають до наступного дня. Плодоносить з весни до осені, переважно з травня до листопада, а в теплому кліматі й узимку. Поширений у північній помірній зоні, зокрема в Європі та Північній Америці, є знахідки також в Азії, Північній Африці й Австралії.",
+        uses: "Вважається неїстівним, хоча вид не відомий як отруйний. Плодові тіла крихітні, тонком'ясисті й такі крихкі, що їсти там нічого.",
+        confusion: "Parasola leiocephala виглядає майже так само, але має дрібніші й кутастіші спори, близько 8–12 × 7–10,5 мкм, і росте на голому ґрунті або в затіненій траві. Parasola auricoma трохи більша, має на капелюшку коричневі волоски, а пластинки приросли до ніжки. Parasola kuehneri більш оранжево-коричнева, з дрібнішими спорами, і росте на узліссях. У дрібних видів Coprinopsis і Coprinellus є, принаймні в молодості, борошнисте або зернисте покривало. Coprinellus disseminatus росте щільними групами на пеньках і гнилій деревині.",
+        notes: "На відміну від більшості споріднених грибів, капелюшок не перетворюється на чорнильну рідину: він уплощується, а потім на ранковому сонці засихає і зморщується, або ніжка ламається під вагою капелюшка. Плодові тіла ростуть уночі після дощу й тримаються лише близько доби. Капелюшок нагадує крихітну коктейльну парасольку. Вид звичайний, а в Червоному списку Данії оцінюється як вид найменшого занепокоєння (LC)."
+      }
+    },
+    sources: {
+      en: [
+        {
+          "group": "name",
+          "name": "MushroomExpert.Com",
+          "href": "https://www.mushroomexpert.com/parasola_plicatilis.html"
+        },
+        {
+          "group": "name",
+          "name": "First Nature",
+          "href": "https://www.first-nature.com/fungi/parasola-plicatilis.php"
+        },
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://en.wikipedia.org/wiki/Parasola_plicatilis"
+        },
+        {
+          "group": "name",
+          "name": "Naturbasen",
+          "href": "https://www.naturbasen.dk/art/5393/plaene-hjulhat",
+          "detail": "not threatened"
+        },
+        {
+          "group": "name",
+          "name": "Index Fungorum",
+          "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=474758",
+          "detail": "474758"
+        },
+        {
+          "group": "name",
+          "name": "Species Fungorum",
+          "href": "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=474758",
+          "detail": "474758"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534522",
+          "detail": "2534522"
+        }
+      ],
+      sk: [
+        {
+          "group": "text",
+          "name": "Hlásek Fungi",
+          "href": "https://www.hlasek.com/coprinus_plicatilis.html",
+          "detail": "hnojník ozdobný"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534522",
+          "detail": "2534522"
+        }
+      ],
+      ar: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534522",
+          "detail": "2534522"
+        }
+      ],
+      bg: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534522",
+          "detail": "2534522"
+        }
+      ],
+      zh: [
+        {
+          "group": "text",
+          "name": "臺灣物種名錄 TaiCOL",
+          "href": "https://taicol.tw/taxon/t0042255",
+          "detail": "褶紋鬼傘"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534522",
+          "detail": "2534522"
+        }
+      ],
+      hr: [
+        {
+          "group": "text",
+          "name": "CROmushrooms",
+          "href": "https://cromushrooms.eu/index.php/?id=570&layout=edit",
+          "detail": "naborana gnojištarka"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534522",
+          "detail": "2534522"
+        }
+      ],
+      cs: [
+        {
+          "group": "text",
+          "name": "Houbareni.cz",
+          "href": "https://www.houbareni.cz/houba/hnojnik_rasnaty",
+          "detail": "hnojník řasnatý"
+        },
+        {
+          "group": "text",
+          "name": "Treking.cz",
+          "href": "https://www.treking.cz/priroda/hnojnik-rasnaty.htm",
+          "detail": "hnojník řasnatý"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534522",
+          "detail": "2534522"
+        }
+      ],
+      da: [
+        {
+          "group": "text",
+          "name": "Naturbasen",
+          "href": "https://www.naturbasen.dk/art/5393/plaene-hjulhat",
+          "detail": "plæne-hjulhat"
+        },
+        {
+          "group": "text",
+          "name": "Danske Svampe (Stenlarris)",
+          "href": "http://www.stenlarris.dk/HERBARIE/HERBE/Parasola.HTM"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534522",
+          "detail": "2534522"
+        }
+      ],
+      nl: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://nl.wikipedia.org/wiki/Gewoon_plooirokje"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534522",
+          "detail": "2534522"
+        }
+      ],
+      et: [
+        {
+          "group": "text",
+          "name": "Latvijas daba",
+          "href": "https://www.latvijasdaba.lv/senes/coprinus-plicatilis-sowerby-fr-fr/",
+          "detail": "kraetindik"
+        },
+        {
+          "group": "text",
+          "name": "Fungarium.info",
+          "href": "https://www.fungarium.info/%D0%90%D0%B3%D0%B0%D1%80%D0%B8%D0%BA%D0%BE%D0%BC%D0%B8%D1%86%D0%B5%D1%82%D1%8B%20-%20Agaricomycetes/%D0%90%D0%B3%D0%B0%D1%80%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Agaricales/%D0%9F%D1%81%D0%B0%D1%82%D0%B8%D1%80%D0%B5%D0%BB%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5%20-%20Psathyrellaceae/%D0%9F%D0%B0%D1%80%D0%B0%D1%81%D0%BE%D0%BB%D0%B0%20%D1%81%D0%BA%D0%BB%D0%B0%D0%B4%D1%87%D0%B0%D1%82%D0%B0%D1%8F%20-%20Parasola%20plicatilis/index.html",
+          "detail": "Kraetindik"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534522",
+          "detail": "2534522"
+        }
+      ],
+      fi: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://fi.wikipedia.org/wiki/Ratasmustesieni"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534522",
+          "detail": "2534522"
+        }
+      ],
+      fr: [
+        {
+          "group": "text",
+          "name": "Les champignons.net",
+          "href": "https://www.les-champignons.net/coprin-plisse/",
+          "detail": "coprin plissé"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534522",
+          "detail": "2534522"
+        }
+      ],
+      de: [
+        {
+          "group": "text",
+          "name": "Pilzsuchmaschine",
+          "href": "https://www.pilzsuchmaschine.de/123pilze/GemeinerScheiben.htm",
+          "detail": "Gemeiner Scheibchentintling"
+        },
+        {
+          "group": "text",
+          "name": "Fungus Atlas",
+          "href": "https://fungusradar.com/de/atlas/parasola-plicatilis/",
+          "detail": "Gemeiner Scheibchentintling"
+        },
+        {
+          "group": "text",
+          "name": "Mycopedia",
+          "href": "https://www.mycopedia.ch/pilze/5714.htm"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534522",
+          "detail": "2534522"
+        }
+      ],
+      he: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534522",
+          "detail": "2534522"
+        }
+      ],
+      hi: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534522",
+          "detail": "2534522"
+        }
+      ],
+      hu: [
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://hu.wikipedia.org/wiki/Gyenge_%C3%A1ltintagomba"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534522",
+          "detail": "2534522"
+        }
+      ],
+      id: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534522",
+          "detail": "2534522"
+        }
+      ],
+      it: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://it.wikipedia.org/wiki/Coprinus_plicatilis"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534522",
+          "detail": "2534522"
+        }
+      ],
+      ja: [
+        {
+          "group": "text",
+          "name": "ウィキペディア",
+          "href": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A1%E3%83%92%E3%82%AC%E3%82%B5%E3%83%92%E3%83%88%E3%83%A8%E3%82%BF%E3%82%B1"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534522",
+          "detail": "2534522"
+        }
+      ],
+      ko: [
+        {
+          "group": "text",
+          "name": "국가생물종목록 (NIBR)",
+          "href": "https://species.nibr.go.kr/national-list",
+          "detail": "양산버섯"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534522",
+          "detail": "2534522"
+        }
+      ],
+      lv: [
+        {
+          "group": "text",
+          "name": "Latvijas daba",
+          "href": "https://www.latvijasdaba.lv/senes/coprinus-plicatilis-sowerby-fr-fr/",
+          "detail": "krokainā tintene"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534522",
+          "detail": "2534522"
+        }
+      ],
+      lt: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://lt.wikipedia.org/wiki/Pievinis_m%C4%97%C5%A1lagrybis"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534522",
+          "detail": "2534522"
+        }
+      ],
+      no: [
+        {
+          "group": "name",
+          "name": "Artsdatabanken (NorTaxa)",
+          "href": "https://nortaxa.artsdatabanken.no/name-info/58459",
+          "detail": "hjulsopp"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534522",
+          "detail": "2534522"
+        }
+      ],
+      fa: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534522",
+          "detail": "2534522"
+        }
+      ],
+      pl: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://pl.wikipedia.org/wiki/Parasolka_fa%C5%82dowana"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534522",
+          "detail": "2534522"
+        }
+      ],
+      pt: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534522",
+          "detail": "2534522"
+        }
+      ],
+      ro: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://ro.wikipedia.org/wiki/Parasola_plicatilis"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534522",
+          "detail": "2534522"
+        }
+      ],
+      ru: [
+        {
+          "group": "text",
+          "name": "Википедия",
+          "href": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B2%D0%BE%D0%B7%D0%BD%D0%B8%D0%BA_%D1%81%D0%BA%D0%BB%D0%B0%D0%B4%D1%87%D0%B0%D1%82%D1%8B%D0%B9"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534522",
+          "detail": "2534522"
+        }
+      ],
+      sr: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534522",
+          "detail": "2534522"
+        }
+      ],
+      sl: [
+        {
+          "group": "text",
+          "name": "Gobe na Bovškem",
+          "href": "https://www.gobenabovskem.si/goba/parasola-plicatilis/",
+          "detail": "zgubana črnilovka"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534522",
+          "detail": "2534522"
+        }
+      ],
+      es: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://es.wikipedia.org/wiki/Parasola_plicatilis"
+        },
+        {
+          "group": "text",
+          "name": "Aranzadi Zientzia Elkartea",
+          "href": "https://www.aranzadi.eus/buscador-micologico/ficha/1-1-003.07.01.06.04.00?from=gallery",
+          "detail": "coprino plegado"
+        },
+        {
+          "group": "text",
+          "name": "Fichas Micológicas",
+          "href": "https://www.fichasmicologicas.com/?alf=C&art=1096&micos=1",
+          "detail": "coprino plegado"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534522",
+          "detail": "2534522"
+        }
+      ],
+      sv: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://sv.wikipedia.org/wiki/Veckad_bl%C3%A4cksvamp"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534522",
+          "detail": "2534522"
+        }
+      ],
+      tr: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534522",
+          "detail": "2534522"
+        }
+      ],
+      uk: [
+        {
+          "group": "text",
+          "name": "Digital Collection of the State Museum of Natural History",
+          "href": "https://dc.smnh.org/species/detail/species-8370.html",
+          "detail": "гнойовик складчастий"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2534522",
+          "detail": "2534522"
+        }
+      ]
+    },
+    synonyms: [
+      "Agaricus plicatilis Curtis",
+      "Coprinus plicatilis (Curtis) Fr.",
+      "Ephemerocybe plicatilis (Curtis) Fayod"
+    ]
   }
 ];
