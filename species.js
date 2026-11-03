@@ -44616,7 +44616,7 @@ export const CATALOG = [
           "habitat": "Raste tijekom cijele godine na panjevima, odumrlim granama i deblima bjelogorice, osobito hrasta i bukve.",
           "sporePrint": "Bijel. Spore su cilindrične, blago zakrivljene, glatke, 5–7 × 1,5–2,5 μm.",
           "uses": "Nejestiva gljiva zbog kožaste i žilave konzistencije. Široko se koristi u tradicionalnoj medicini i farmakologiji (polisaharid Krestin) zbog imunostimulirajućih svojstava.",
-          "confusion": "Dlakavi slojevčac (Stereum hirsutum) i druge vrste roda Stereum imaju potpuno gladak himenij bez pora. Čekinjasta tvrdokoška (Trametes hirsuta) je deblja, a svježi klobuk joj je bjelkast do siv i grubo čekinjast, a ne fino baršunast. Baršunasta tvrdokoška (Trametes pubescens) nema izrazito kontrastne zone boja. Okerasta tvrdokoška (Trametes ochracea) je kruća, deblja pri hvatištu (do 10 mm), s manje raznolikim okerastim pojasevima bez svilenkastog sjaja. Mirisna tvrdokoška (Trametes suaveolens) znatno je bljeđa i obično ne raste u preklapajućim katovima.",
+          "confusion": "Dlakavi slojevčac (Stereum hirsutum) i druge vrste roda Stereum imaju potpuno gladak himenij bez pora. Čekinjasta raznocijevka (Trametes hirsuta) je deblja, a svježi klobuk joj je bjelkast do siv i grubo čekinjast, a ne fino baršunast. Baršunasta tvrdokoška (Trametes pubescens) nema izrazito kontrastne zone boja. Okerasta tvrdokoška (Trametes ochracea) je kruća, deblja pri hvatištu (do 10 mm), s manje raznolikim okerastim pojasevima bez svilenkastog sjaja. Mirisna tvrdokoška (Trametes suaveolens) znatno je bljeđa i obično ne raste u preklapajućim katovima.",
           "notes": "Zbog koncentričnih pojaseva u engleskom govornom području naziva se puranov rep (turkey tail)."
     },
       sr: {
@@ -44674,7 +44674,7 @@ export const CATALOG = [
           "habitat": "Kasvaa ympäri vuoden kuolleilla lehtipuiden rungoilla, kannoilla ja maapuilla, erityisesti koivulla, pyökillä ja tammella.",
           "sporePrint": "Valkoinen. Itiöt ovat lieriömäisiä tai makkaramaisia, 5–6 × 1,5–2 μm.",
           "uses": "Syötäväksi kelpaamaton sitkeän nahkamaisen rakenteensa vuoksi. Käytetään laajasti lääkinnällisiin tarkoituksiin ja teenä; siitä eristettävää polysakkaridi K:ta (PSK) tutkitaan ja käytetään syöpähoidon tukihoitona.",
-          "confusion": "Pörrövyökääpä (Trametes hirsuta) on paksumpi ja sen pinta on harmaan karkeakarvainen. Nukkavyökääpä (Trametes pubescens) on tasaisen kermanvalkea ilman kirjavia vöitä.",
+          "confusion": "Karvavyökääpä (Trametes hirsuta) on paksumpi ja sen pinta on harmaan karkeakarvainen. Nukkavyökääpä (Trametes pubescens) on tasaisen kermanvalkea ilman kirjavia vöitä.",
           "notes": "Englanninkielinen nimi 'turkey tail' viittaa kalkkunan pyrstösulkia muistuttavaan moniväriseen vyöhykkeisyyteen."
     },
       de: {
@@ -44827,7 +44827,7 @@ export const CATALOG = [
       sporePrint: "Споровый порошок белый или беловатый. Одно описание включает жёлтый цвет. Споры цилиндрические или слегка изогнутые, гладкие, тонкостенные, гиалиновые и неамилоидные. Опубликованные размеры составляют около 4–7 × 1,5–2,5 мкм, чаще всего около 4,5–6 × 1,5–2,5 мкм.",
       habitat: "Плодовые тела присутствуют круглый год. В Великобритании и Ирландии они чаще всего встречаются осенью и зимой, когда рассеиваются споры. В Центральной Европе свежие плодовые тела появляются преимущественно с конца мая по август. Они растут на валежных брёвнах лиственных пород, пнях, поленницах, упавших ветках, стоячей мёртвой древесине и на живых деревьях, в которые проникают через мелкие раны. Бук является основным хозяином в Центральной Европе, а дуб — излюбленным хозяином. Другие хозяева включают берёзу, граб, лещину, иву, вишню и другие плодовые деревья, а также многие другие лиственные породы. Хвойные деревья являются редким хозяином, хотя они не редки в Центральной Европе. Гриб также растёт вне леса, на садовой древесине, соприкасающейся с почвой, и на складированных или строительных лесоматериалах. Плодовые тела переживают периоды засухи. Рост происходит достаточно быстро, так что опёнок (Armillaria) не вытесняет его.",
       uses: "Плодовое тело слишком кожистое и жёсткое, чтобы употреблять его в пищу, и традиционно считается несъедобным. В традиционной китайской медицине и японской фитотерапии гриб издавна заваривали в виде чая или отвара под названиями юньчжи и каваратаке. Полисахарид-K (PSK, крестин) был выделен в Японии, а полисахарид-пептид (PSP) — в Китае. PSK был одобрен в Японии в 1977 году как адъювант при стандартной химиотерапии рака желудка, пищевода, толстой кишки, молочной железы и лёгких. Систематические обзоры и метаанализы сообщают об улучшении выживаемости и иммунной функции у онкологических пациентов, получавших PSK наряду со стандартным лечением. Лабораторные исследования показывают иммуномодулирующие, антиоксидантные и противовирусные свойства экстрактов. В западной медицине эти препараты рассматриваются в основном как биологически активные добавки к пище. Волокнистая ткань также использовалась для окрашивания шерсти и тканей в коричневые и серые тона.",
-      confusion: "Виды Stereum ostrea (Stereum ostrea), Stereum hirsutum (Stereum hirsutum), Stereum subtomentosum (Stereum subtomentosum) и другие виды рода стереум (Stereum) имеют гладкий гимений без пор. Траметес жестковолосистый (Trametes hirsuta) толще, а свежая шляпка у него беловатая до серой и грубоволосистая, а не тонкобархатистая. Траметес пушистый (Trametes pubescens) лишён резко контрастных цветовых зон. Траметес охристый (Trametes ochracea) жёсткий, а не тонкий и гибкий, толще у основания (примерно до 10 мм), с менее разнообразными охристыми и жёлто-коричневыми полосами, без шелковистых или блестящих зон, и образует менее скученные сростки. Траметес охристый (Trametes ochracea) часто делит один ствол с этим грибом, и эти два вида не всегда легко разделить. Траметес душистый (Trametes suaveolens) намного светлее и обычно не растёт перекрывающимися ярусами. Другие виды рода траметес (Trametes) с плотностью пор всего около 1–3 на мм отличаются этим размером пор.",
+      confusion: "Виды Stereum ostrea (Stereum ostrea), Stereum hirsutum (Stereum hirsutum), Stereum subtomentosum (Stereum subtomentosum) и другие виды рода стереум (Stereum) имеют гладкий гимений без пор. Траметес жёстковолосистый (Trametes hirsuta) толще, а свежая шляпка у него беловатая до серой и грубоволосистая, а не тонкобархатистая. Траметес пушистый (Trametes pubescens) лишён резко контрастных цветовых зон. Траметес охристый (Trametes ochracea) жёсткий, а не тонкий и гибкий, толще у основания (примерно до 10 мм), с менее разнообразными охристыми и жёлто-коричневыми полосами, без шелковистых или блестящих зон, и образует менее скученные сростки. Траметес охристый (Trametes ochracea) часто делит один ствол с этим грибом, и эти два вида не всегда легко разделить. Траметес душистый (Trametes suaveolens) намного светлее и обычно не растёт перекрывающимися ярусами. Другие виды рода траметес (Trametes) с плотностью пор всего около 1–3 на мм отличаются этим размером пор.",
       notes: "Плодовые тела поедаются молью Nemaxera betulinella и мухами Polyporivora picta и Mycetophila luctuosa. Гриб может повреждать складированную и конструкционную древесину, включая рудничные стойки и железнодорожные шпалы."
     },
     uk: {
@@ -44839,7 +44839,7 @@ export const CATALOG = [
           "habitat": "Плодові тіла присутні цілий рік. У Британії та Ірландії їх найчастіше знаходять восени й узимку, коли вивільняються спори. У Центральній Європі свіжі плодові тіла з'являються переважно з кінця травня до серпня. Вони ростуть на мертвих колодах листяних дерев, пнях, складеній деревині, опалих гілках і сучках, стоячій мертвій деревині та на живих деревах, у які вони проникають через невеликі рани. Бук є основним господарем у Центральній Європі, а дуб — улюбленим господарем. Інші господарі включають березу, граб, ліщину, вербу, вишню та інші плодові дерева, а також багато інших листяних порід. Хвойні дерева є нетиповим господарем, хоча вони не рідкість у Центральній Європі. Він також росте за межами лісу, на садовій деревині, що контактує з ґрунтом, і на збереженій або будівельній деревині. Плодові тіла витримують посушливі періоди. Ріст є достатньо швидким, тому опеньок (Armillaria) не витісняє його.",
           "sporePrint": "Відкладення біле або білувате. Один опис включає жовтий колір. Спори циліндричні або злегка вигнуті, гладкі, тонкостінні, гіалінові та неамілоїдні. Опубліковані виміри становлять близько 4–7 × 1,5–2,5 мкм, найчастіше близько 4,5–6 × 1,5–2,5 мкм.",
           "uses": "Плодове тіло неїстівне. Воно занадто цупке для їжі. Сухі плодові тіла використовують у квіткових композиціях, а раніше їх носили як прикраси на капелюхах і закріплювали на брошках і пряжках. Екстракти мають тривалу історію застосування в традиційній китайській, японській і корейській медицині. Полісахарид-K схвалений у Японії як ад'ювант при лікуванні раку й не схвалений у Сполучених Штатах для будь-якого клінічного стану. Дослідження повідомляли про певний ад'ювантний ефект при деяких видах раку in vitro і частково in vivo. Добавки пов'язували з діареєю, потемнінням калу й потемнінням нігтів. У 2020 році в Сполучених Штатах двом фірмам було наказано припинити маркетинг продуктів із цього гриба як ліків проти раку або імуностимуляторів.",
-          "confusion": "Стереум жорстковолосистий (Stereum ostrea), стереум волосистий (Stereum hirsutum), стереум повстистий (Stereum subtomentosum) та інші види Stereum мають гладкий гіменофор без пор. Траметес шорсткий (Trametes hirsuta) товстіший, а свіжа шапинка від білуватої до сірої та грубоволосиста, а не дрібнооксамитова. Траметес пухнастий (Trametes pubescens) не має різко контрастних колірних зон. Траметес вохристий (Trametes ochracea) жорсткий, а не тонкий і гнучкий, товстіший біля основи, приблизно до 10 мм, з менш різноманітними вохристими й жовто-коричневими смугами й без шовковистих чи блискучих зон, і утворює менш щільні скупчення. Траметес вохристий (Trametes ochracea) часто росте на одному стовбурі з цим грибом, і ці два види не завжди легко розрізнити. Траметес запашний (Trametes suaveolens) значно світліший і зазвичай не росте черепичастими ярусами. Інші види роду траметес (Trametes) із лише близько 1–3 порами на 1 мм відрізняються цим розміром пор.",
+          "confusion": "Стереум жорстковолосистий (Stereum ostrea), стереум волосистий (Stereum hirsutum), стереум повстистий (Stereum subtomentosum) та інші види Stereum мають гладкий гіменофор без пор. Траметес жорстковолосистий (Trametes hirsuta) товстіший, а свіжа шапинка від білуватої до сірої та грубоволосиста, а не дрібнооксамитова. Траметес пухнастий (Trametes pubescens) не має різко контрастних колірних зон. Траметес вохристий (Trametes ochracea) жорсткий, а не тонкий і гнучкий, товстіший біля основи, приблизно до 10 мм, з менш різноманітними вохристими й жовто-коричневими смугами й без шовковистих чи блискучих зон, і утворює менш щільні скупчення. Траметес вохристий (Trametes ochracea) часто росте на одному стовбурі з цим грибом, і ці два види не завжди легко розрізнити. Траметес запашний (Trametes suaveolens) значно світліший і зазвичай не росте черепичастими ярусами. Інші види роду траметес (Trametes) із лише близько 1–3 порами на 1 мм відрізняються цим розміром пор.",
           "notes": "Плодові тіла поїдаються міллю Nemaxera betulinella та мухами Polyporivora picta і Mycetophila luctuosa. Гриб може пошкоджувати складену деревину та будівельні лісоматеріали, зокрема шахтні кріплення й залізничні шпали."
     },
     pl: {
@@ -79974,6 +79974,1055 @@ export const CATALOG = [
       "Agaricus plicatilis Curtis",
       "Coprinus plicatilis (Curtis) Fr.",
       "Ephemerocybe plicatilis (Curtis) Fayod"
+    ]
+  },
+  {
+    id: 98,
+    name: "Trametes hirsuta",
+    author: "(Wulfen) Lloyd",
+    family: "Polyporaceae",
+    genus: "Trametes",
+    order: "Polyporales",
+    edibility: "inedible",
+    hymenium: "tubes",
+    where: ["wood"],
+    color: ["white", "brown", "dark"],
+    path: [
+      "Fungi",
+      "Dikarya",
+      "Basidiomycota",
+      "Agaricomycotina",
+      "Agaricomycetes",
+      "Incertae sedis",
+      "Polyporales",
+      "Polyporaceae",
+      "Trametes"
+    ],
+    summary: ["Polyporales", "Polyporaceae", "Trametes"],
+    added: "2026-11-03",
+    plate: STORAGE + "photos/Polyporales/Polyporaceae/Trametes_hirsuta/Trametes_hirsuta@1600.webp",
+    plateGrid: STORAGE + "photos/Polyporales/Polyporaceae/Trametes_hirsuta/Trametes_hirsuta@400.webp",
+    plateCredit: {
+      author: "Giacomo Bresadola",
+      license: "public domain",
+      source: "https://commons.wikimedia.org/wiki/File:Bresadola_-_Polystictus_hirsutus.png"
+    },
+    photos: [
+      {
+        src: STORAGE + "photos/Polyporales/Polyporaceae/Trametes_hirsuta/th1.webp",
+        author: "Anneli Salo",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Hairy_Bracket_Trametes_hirsuta_C_VI08_H5977.jpg"
+      },
+      {
+        src: STORAGE + "photos/Polyporales/Polyporaceae/Trametes_hirsuta/th2.webp",
+        author: "Jerzy Opioła",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Trametes_hirsuta_G3.1.jpg"
+      },
+      {
+        src: STORAGE + "photos/Polyporales/Polyporaceae/Trametes_hirsuta/th3.webp",
+        author: "Jose Angel Urquia Goitia",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Larruki_ilelatza_azpitik_ikusita.jpg"
+      },
+      {
+        src: STORAGE + "photos/Polyporales/Polyporaceae/Trametes_hirsuta/th4.webp",
+        author: "Garnhami",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Trametes_hirsuta_bovenkant.jpg"
+      },
+      {
+        src: STORAGE + "photos/Polyporales/Polyporaceae/Trametes_hirsuta/th5.webp",
+        author: "Paramecium",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Trametes_hirsuta_(Striegelige_Tramete).jpg"
+      },
+      {
+        src: STORAGE + "photos/Polyporales/Polyporaceae/Trametes_hirsuta/th6.webp",
+        author: "Jerzy Opioła",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Trametes_hirsuta_BS11.jpg"
+      }
+    ],
+    capFrom: 3,
+    capTo: 10,
+    fruitingFrom: 1,
+    fruitingTo: 12,
+    label: {
+      en: "hairy bracket",
+      sk: "trúdnikovec chlpatý",
+      zh: "毛栓孔菌",
+      hr: "čekinjasta raznocijevka",
+      cs: "outkovka chlupatá",
+      da: "håret læderporesvamp",
+      nl: "ruig elfenbankje",
+      et: "vill-tagel",
+      fi: "karvavyökääpä",
+      fr: "tramète hirsute",
+      de: "Striegelige Tramete",
+      hu: "borostás egyrétűtapló",
+      ja: "アラゲカワラタケ",
+      ko: "흰구름송편버섯",
+      lv: "sarainā tauriņpiepe",
+      lt: "šiurkščioji kempė",
+      no: "raggkjuke",
+      pl: "wrośniak szorstki",
+      ru: "траметес жёстковолосистый",
+      sl: "nakosmatena ploskocevka",
+      es: "yesquero blanco peludo",
+      sv: "borstticka",
+      uk: "траметес жорстковолосистий"
+    },
+    names: {
+      en: ["hairy turkey tail"],
+      zh: ["毛栓菌", "粗毛栓菌"],
+      et: ["villkõbjas"],
+      pl: ["huba kosmata", "huba szorstka"],
+      ru: ["трутовик жёстковолосистый"],
+      es: ["hongo peludo de repisa"],
+      uk: ["трутовик жорстковолосистий"]
+    },
+    text: {
+      en: {
+        description: "A tough, leathery bracket fungus that grows in overlapping tiers on dead hardwood. The semicircular, shelf-like caps are covered in coarse, stiff hairs and zoned in whitish grey, often green with algae, with a brownish rim. It is one of the commonest bracket fungi in Europe and can be found all year round.",
+        cap: "The bracket is semicircular to fan-shaped, 3–10 cm wide and up to about 6 cm from the wood to the margin, but only 0.3–1 cm thick at the base. It is attached directly to the wood at one side and is often fused with its neighbours in overlapping rows. The upper surface is coarsely hairy to bristly, with concentric furrows and zones. It is white to cream when young, becoming whitish grey to grey, sometimes yellowish or darker towards the margin. Older caps are often tinged green by a coating of algae, and the margin is often yellowish brown. Occasional specimens reach 15 cm.",
+        hymenium: "The pore surface is white to cream when young, becoming ochre, greyish or pale brown with age. The pores are round to slightly angular, about 3–4 per millimetre, and the tubes are up to about 6 mm deep. The basidia are club-shaped, about 15–22 × 5–7 μm.",
+        stipe: "There is no stipe. The bracket is sessile and grows directly from the wood.",
+        flesh: "The flesh is tough, leathery and whitish, in two layers: a soft greyish upper layer and a whitish lower layer, separated by a thin dark line. Young fruit bodies smell faintly of aniseed, and the taste is mild to bitter.",
+        sporePrint: "White. The spores are cylindrical, smooth and inamyloid, about 5.5–9 × 1.6–2.5 μm. There are no cystidia, and the hyphal system is trimitic.",
+        habitat: "A saprotroph that causes a white rot of dead hardwood. It grows, often in large numbers, on logs, stumps, fallen branches and standing dead trunks, most often of beech and birch, and rarely on conifers. It sometimes colonises wounds on living trees. The tough brackets are annual but persist for months, so the species can be found all year round. It is widespread across Europe, Asia and North America.",
+        uses: "Inedible: the flesh is much too tough and leathery to eat, although the fungus is not known to be poisonous. In the laboratory, cultures have been studied as a source of the enzyme laccase and for turning alkenes into aldehydes.",
+        confusion: "Trametes pubescens is unzoned, buff and more finely downy, and has no layered flesh. Trametes versicolor is more distinctly zoned and finely velvety rather than coarsely hairy. Trametes villosa is larger, with angular, tooth-like pores. Trametes gibbosa has a smooth cap. Trametes ochracea is more zoned and coloured, and triangular in section. Lenzites betulinus has gills instead of pores. Stereum hirsutum has a smooth underside without pores. Trametes occidentalis is closely related.",
+        notes: "The species name hirsuta is Latin for hairy. The green colour of older brackets is not the fungus but a film of algae growing among the hairs. In Denmark and Norway it is common and assessed as Least Concern."
+      },
+      sk: {
+        description: "Húževnatá, kožovitá konzolovitá huba, ktorá rastie v strechovito sa prekrývajúcich radoch na odumretom dreve listnáčov. Polkruhovité klobúky sú pokryté hrubými tuhými chlpmi a zonované v belavosivých tónoch, často sú od rias zelené a majú hnedastý okraj. Je to jedna z najbežnejších konzolovitých húb v Európe a nájdeme ju po celý rok.",
+        cap: "Plodnica je polkruhovitá až vejárovitá, 3–10 cm široká a od dreva po okraj siaha asi do 6 cm, pri báze je však hrubá len 0,3–1 cm. Je priamo bokom prirastená na drevo a často zrastená so susednými plodnicami v strechovitých radoch. Horný povrch je hrubo chlpatý až štetinatý, so sústrednými ryhami a pásmi. V mladosti je biela až krémová, neskôr belavosivá až sivá, niekedy do žlta alebo k okraju tmavšia. Staršie klobúky bývajú od povlaku rias sfarbené do zelena a okraj je často žltohnedý. Ojedinele dorastajú do 15 cm.",
+        hymenium: "Plocha s pórmi je v mladosti biela až krémová, s vekom okrová, sivastá alebo bledohnedá. Póry sú okrúhle až mierne hranaté, asi 3–4 na milimeter, a rúrky sú dlhé až asi 6 mm. Bazídiá sú kyjovité, asi 15–22 × 5–7 μm.",
+        stipe: "Hlúbik chýba. Plodnica je prisadnutá a vyrastá priamo z dreva.",
+        flesh: "Dužina je húževnatá, kožovitá a belavá, v dvoch vrstvách: mäkšia sivastá horná vrstva a belavá spodná vrstva sú oddelené tenkou tmavou čiarou. Mladé plodnice slabo voňajú po anízi a chuť je mierna až horká.",
+        sporePrint: "Biely. Výtrusy sú valcovité, hladké a inamyloidné, asi 5,5–9 × 1,6–2,5 μm. Cystídy chýbajú a hyfový systém je trimitický.",
+        habitat: "Saprotrofná huba, ktorá spôsobuje bielu hnilobu odumretého dreva listnáčov. Rastie často vo veľkom množstve na kmeňoch, pňoch, spadnutých konároch a stojacich odumretých kmeňoch, najčastejšie buka a brezy, zriedka na ihličnanoch. Niekedy osídľuje rany na živých stromoch. Húževnaté plodnice sú jednoročné, ale pretrvávajú mesiace, takže druh nájdeme po celý rok. Je rozšírená po celej Európe, Ázii a Severnej Amerike.",
+        uses: "Nejedlá: dužina je na jedenie oveľa príliš húževnatá a kožovitá, hoci huba nie je známa ako jedovatá. V laboratóriu sa jej kultúry skúmali ako zdroj enzýmu lakázy a na premenu alkénov na aldehydy.",
+        confusion: "Trametes pubescens nemá zóny, je okrovohnedá a jemnejšie chĺpkatá a nemá dvojvrstvovú dužinu. Trametes versicolor je výraznejšie zonovaná a jemne zamatová, nie hrubo chlpatá. Trametes villosa je väčšia, s hranatými, zúbkovitými pórmi. Trametes gibbosa má hladký klobúk. Trametes ochracea je viac zonovaná a pestrejšia a v reze trojuholníková. Lenzites betulinus má namiesto pórov lupene. Stereum hirsutum má hladkú spodnú stranu bez pórov. Trametes occidentalis je blízko príbuzná.",
+        notes: "Druhové meno hirsuta je latinské slovo pre chlpatý. Zelená farba starších plodníc nepochádza od huby, ale od vrstvy rias, ktoré rastú medzi chlpmi. V Dánsku a Nórsku je bežná a hodnotená ako málo dotknutý druh (Least Concern)."
+      },
+      ar: {
+        description: "فطر رفّي صلب وجلدي ينمو في طبقات متراكبة على الخشب الميت للأشجار عريضة الأوراق. قبعاته نصف دائرية تشبه الرفوف، مغطاة بشعيرات خشنة صلبة ومتدرجة المناطق بلون رمادي مبيضّ، وكثيرًا ما تخضرّ بالطحالب، وحافتها مائلة إلى البني. وهو من أكثر الفطور الرفّية شيوعًا في أوروبا ويمكن العثور عليه طوال العام.",
+        cap: "جسم الثمرة نصف دائري إلى مروحي الشكل، عرضه ٣–١٠ سم ويمتد من الخشب إلى الحافة نحو ٦ سم، لكن سمكه عند القاعدة ٠٫٣–١ سم فقط. وهو ملتصق مباشرة بالخشب من أحد جانبيه، وكثيرًا ما يلتحم بجيرانه في صفوف متراكبة. السطح العلوي خشن الشعر إلى شائك، مع أخاديد ومناطق متحدة المركز. لونه أبيض إلى كريمي في الصغر، ثم رمادي مبيضّ إلى رمادي، وأحيانًا مصفرّ أو أغمق نحو الحافة. وغالبًا ما تكتسي القبعات المسنّة صبغة خضراء من طبقة من الطحالب، والحافة غالبًا بنية مصفرّة. وقد تبلغ بعض العينات ١٥ سم.",
+        hymenium: "سطح المسام أبيض إلى كريمي في الصغر، ثم يصير أوكر أو رماديًا أو بنيًا شاحبًا مع التقدم في العمر. المسام مستديرة إلى مضلّعة قليلًا، نحو ٣–٤ في كل ملّيمتر، وعمق الأنابيب يصل إلى نحو ٦ مم. الأعراس (البازيديا) هراوية الشكل، قياسها نحو ١٥–٢٢ × ٥–٧ ميكرومتر.",
+        stipe: "لا يوجد ساق. جسم الثمرة جالس وينمو مباشرة من الخشب.",
+        flesh: "اللحم صلب وجلدي ومبيضّ، في طبقتين: طبقة علوية طرية رمادية اللون وطبقة سفلية مبيضّة يفصل بينهما خط داكن رفيع. تفوح من الثمار الفتية رائحة خفيفة تشبه اليانسون، والطعم معتدل إلى مرّ.",
+        sporePrint: "أبيض. الأبواغ أسطوانية ملساء وغير نشوية التفاعل (inamyloid)، وقياسها نحو ٥٫٥–٩ × ١٫٦–٢٫٥ ميكرومتر. لا توجد خلايا كيسية (cystidia)، والنظام الخيطي ثلاثي الأنماط (trimitic).",
+        habitat: "فطر رمّي يسبب تعفنًا أبيض في الخشب الميت للأشجار عريضة الأوراق. ينمو، غالبًا بأعداد كبيرة، على الجذوع المقطوعة والجذوع الباقية والأغصان المتساقطة والجذوع الميتة القائمة، وأكثرها من الزان والبتولا، ونادرًا على الصنوبريات. وقد يستوطن أحيانًا جروح الأشجار الحية. أجسام الثمار الصلبة حولية لكنها تبقى أشهرًا، لذا يمكن العثور على النوع طوال العام. وهو منتشر في أوروبا وآسيا وأمريكا الشمالية.",
+        uses: "غير صالح للأكل: فاللحم أصلب وأكثر جلدية من أن يؤكل، مع أن الفطر غير معروف بسمّيته. وفي المختبر درست مزارعه مصدرًا لإنزيم اللاكاز ولتحويل الألكينات إلى ألدهيدات.",
+        confusion: "يخلو Trametes pubescens من المناطق المتدرجة، وهو أصفر باهت وأنعم زغبًا، وليس له لحم ذو طبقتين. أما Trametes versicolor فمناطقه أوضح وهو مخملي ناعم وليس خشن الشعر. ويكبر Trametes villosa حجمًا، ومساميّه مضلّعة تشبه الأسنان. وقبعة Trametes gibbosa ملساء. ويتميز Trametes ochracea بمناطق وألوان أكثر ومقطع مثلثي. ولدى Lenzites betulinus صفائح بدل المسام. وسطح Stereum hirsutum السفلي أملس بلا مسام. ويقترب Trametes occidentalis منه في القرابة.",
+        notes: "اسم النوع hirsuta كلمة لاتينية تعني المشعر. واللون الأخضر على أجسام الثمار المسنّة ليس من الفطر نفسه بل من غشاء من الطحالب ينمو بين الشعيرات. وهو شائع في الدنمارك والنرويج ومصنّف ضمن «الأقل اهتمامًا» (Least Concern)."
+      },
+      bg: {
+        description: "Жилава, кожеста конзолна гъба, която расте на припокриващи се етажи по мъртва дървесина от широколистни дървета. Полукръглите шапки приличат на рафтове, покрити са с груби твърди власинки и са на зони в бялосиво, често позеленели от водорасли, с кафеникав ръб. Тя е една от най-разпространените конзолни гъби в Европа и може да се намери през цялата година.",
+        cap: "Плодното тяло е полукръгло до ветрилообразно, широко 3–10 cm и от дървото до ръба стига до около 6 cm, но при основата е дебело само 0,3–1 cm. То е прикрепено направо за дървото отстрани и често е сраснало със съседните в припокриващи се редици. Горната повърхност е грубо влакнеста до четинеста, с концентрични бразди и зони. В млада възраст е бяла до кремава, после бялосива до сива, понякога жълтеникава или по-тъмна към ръба. По-старите шапки често се оцветяват в зелено от налепа водорасли, а ръбът често е жълтокафяв. Отделни екземпляри достигат 15 cm.",
+        hymenium: "Порестата повърхност е бяла до кремава в млада възраст, с възрастта става охрена, сивкава или бледокафява. Порите са кръгли до леко ъгловати, около 3–4 на милиметър, а тръбичките са дълги до около 6 mm. Базидиите са боздуганоподобни, около 15–22 × 5–7 μm.",
+        stipe: "Дръжка няма. Плодното тяло е приседнало и расте направо от дървесината.",
+        flesh: "Месото е жилаво, кожесто и белезникаво, на два слоя: мек сивкав горен слой и белезникав долен слой, разделени от тънка тъмна линия. Младите плодни тела миришат слабо на анасон, а вкусът е мек до горчив.",
+        sporePrint: "Бял. Спорите са цилиндрични, гладки и инамилоидни, около 5,5–9 × 1,6–2,5 μm. Цистиди липсват, а хифната система е тримитна.",
+        habitat: "Сапротроф, който причинява бяло гниене на мъртва дървесина от широколистни дървета. Расте, често на големи групи, по трупи, пънове, паднали клони и изправени мъртви стволове, най-често на бук и бреза, рядко на иглолистни. Понякога засяда по рани на живи дървета. Жилавите плодни тела са едногодишни, но се задържат месеци наред, затова видът може да се намери през цялата година. Разпространен е из цяла Европа, Азия и Северна Америка.",
+        uses: "Негодна за консумация: месото е прекалено жилаво и кожесто за ядене, макар че гъбата не е известна като отровна. В лабораторията културите ѝ са изучавани като източник на ензима лаказа и за превръщане на алкени в алдехиди.",
+        confusion: "Trametes pubescens няма зони, е бежова и с по-фино опушване и няма двуслойно месо. Trametes versicolor е с по-ясни зони и е фино кадифена, а не грубо власата. Trametes villosa е по-едра, с ъглести, зъбовидни пори. Trametes gibbosa има гладка шапка. Trametes ochracea е по-зонирана и по-пъстра, а на срез е триъгълна. Lenzites betulinus има пластинки вместо пори. Stereum hirsutum има гладка долна страна без пори. Trametes occidentalis е близкородствена.",
+        notes: "Видовото име hirsuta е латинска дума за „влакнест“. Зеленият цвят на по-старите плодни тела не е на самата гъба, а на налеп от водорасли, растящи между власинките. В Дания и Норвегия е често срещана и е оценена като вид с най-малка загриженост (Least Concern)."
+      },
+      zh: {
+        description: "一種堅韌、革質的架狀真菌，在闊葉樹的枯木上呈覆瓦狀層疊生長。半圓形的架狀菌蓋被有粗硬的毛，帶有灰白色的環帶，常因藻類而呈綠色，邊緣帶褐色。它是歐洲最常見的架狀真菌之一，全年都可見到。",
+        cap: "子實體半圓形至扇形，寬3–10厘米，從木材到邊緣最長約6厘米，但基部厚度僅0.3–1厘米。它以一側直接附著在木材上，常與鄰近的子實體在覆瓦狀的列中癒合。上表面具粗毛至剛毛狀，有同心的溝紋和環帶。幼時白色至奶油色，之後變為灰白至灰色，有時帶黃色，或向邊緣變深。較老的菌蓋常因附生的藻類而泛綠，邊緣常為黃褐色。個別標本可達15厘米。",
+        hymenium: "孔面幼時白色至奶油色，老時變為赭色、灰色或淡褐色。孔口圓形至略呈角狀，每毫米約3–4個，菌管長可達約6毫米。擔子呈棒狀，約15–22 × 5–7 μm。",
+        stipe: "沒有菌柄。子實體無柄，直接從木材上長出。",
+        flesh: "菌肉堅韌、革質、偏白，分為兩層：柔軟的灰色上層和白色下層，中間隔著一條細的深色線。幼嫩的子實體有淡淡的茴香味，味道溫和至帶苦味。",
+        sporePrint: "白色。孢子圓柱形，光滑，無澱粉質反應，約5.5–9 × 1.6–2.5 μm。無囊狀體，菌絲系統為三菌絲型。",
+        habitat: "一種腐生菌，使闊葉樹的枯木產生白色腐朽。它常大量生長在原木、樹樁、落枝和立枯樹幹上，最常見於山毛櫸和樺樹，很少生於針葉樹。有時也侵入活樹的傷口。堅韌的子實體為一年生，但可存留數月，因此全年都能見到。它廣泛分布於歐洲、亞洲和北美洲。",
+        uses: "不可食用：菌肉過於堅韌、革質，無法食用，但這種真菌並不被認為有毒。在實驗室中，它的培養物曾被研究作為漆酶的來源，以及用於把烯烴轉化為醛。",
+        confusion: "Trametes pubescens 沒有環帶，呈淡黃褐色，絨毛更細，菌肉不分層。Trametes versicolor 的環帶更明顯，表面是細絨毛狀而非粗毛狀。Trametes villosa 較大，孔口呈角狀、如齒狀。Trametes gibbosa 的菌蓋光滑。Trametes ochracea 的環帶和顏色更豐富，切面呈三角形。Lenzites betulinus 為菌褶而非孔。Stereum hirsutum 下表面光滑，沒有孔。Trametes occidentalis 與它親緣相近。",
+        notes: "種加詞 hirsuta 在拉丁語中意為「多毛的」。較老的子實體上的綠色並非來自真菌本身，而是生長在毛之間的一層藻類。它在丹麥和挪威很常見，被評為無危（Least Concern）。"
+      },
+      hr: {
+        description: "Žilava, kožasta gljiva konzolašica koja raste u preklopljenim katovima na mrtvom drvu listača. Polukružni klobuci nalik policama prekriveni su grubim, krutim dlačicama i zonirani u bjelkastosivim tonovima, često su zeleni od algi, s smećkastim rubom. Jedna je od najčešćih konzolastih gljiva u Europi i može se naći cijele godine.",
+        cap: "Plodno tijelo je polukružno do lepezasto, široko 3–10 cm, a od drva do ruba proteže se do oko 6 cm, no pri bazi je debelo samo 0,3–1 cm. Bokom je izravno priraslo uz drvo i često je sraslo sa susjednima u preklopljenim redovima. Gornja je površina grubo dlakava do čekinjasta, s koncentričnim brazdama i zonama. U mladosti je bijela do krem, zatim bjelkastosiva do siva, katkad žućkasta ili tamnija prema rubu. Stariji su klobuci često zelenkasti od prevlake algi, a rub je često žućkastosmeđ. Pojedini primjerci dosegnu 15 cm.",
+        hymenium: "Površina s porama u mladosti je bijela do krem, a s godinama postaje oker, sivkasta ili blijedosmeđa. Pore su okrugle do blago uglate, oko 3–4 na milimetar, a cjevčice su duge do oko 6 mm. Bazidiji su batinasti, oko 15–22 × 5–7 μm.",
+        stipe: "Stručka nema. Plodno tijelo je sjedeće i raste izravno iz drva.",
+        flesh: "Meso je žilavo, kožasto i bjelkasto, u dva sloja: mekan sivkast gornji sloj i bjelkast donji sloj odvojeni tankom tamnom crtom. Mlada plodišta slabo mirišu po anisu, a okus je blag do gorak.",
+        sporePrint: "Bijel. Spore su cilindrične, glatke i inamiloidne, oko 5,5–9 × 1,6–2,5 μm. Cistida nema, a hifni sustav je trimitski.",
+        habitat: "Saprotrof koji uzrokuje bijelu trulež mrtvog drva listača. Raste, često u velikom broju, na deblima, panjevima, palim granama i stojećim mrtvim stablima, najčešće bukve i breze, a rijetko na četinjačama. Katkad naseljava ozljede na živim stablima. Žilava plodišta su jednogodišnja, ali se zadržavaju mjesecima, pa se vrsta može naći cijele godine. Rasprostranjena je diljem Europe, Azije i Sjeverne Amerike.",
+        uses: "Nejestiva: meso je previše žilavo i kožasto za jelo, iako gljiva nije poznata kao otrovna. U laboratoriju su njezine kulture proučavane kao izvor enzima lakaze i za pretvaranje alkena u aldehide.",
+        confusion: "Trametes pubescens nema zone, oker je boje i finije dlakava te nema dvoslojno meso. Trametes versicolor ima izraženije zone i fino je baršunasta, a ne grubo dlakava. Trametes villosa je veća, s uglatim, zubastim porama. Trametes gibbosa ima gladak klobuk. Trametes ochracea je više zonirana i šarenija, a u presjeku trokutasta. Lenzites betulinus ima listiće umjesto pora. Stereum hirsutum ima glatku donju stranu bez pora. Trametes occidentalis je blisko srodna.",
+        notes: "Vrsni naziv hirsuta latinska je riječ za dlakavo. Zelena boja starijih plodišta nije od same gljive, nego od prevlake algi koje rastu među dlačicama. U Danskoj i Norveškoj je česta i procijenjena kao najmanje zabrinjavajuća (Least Concern)."
+      },
+      cs: {
+        description: "Houževnatá, kožovitá konzolovitá houba, která roste ve střechovitě se překrývajících řadách na odumřelém dřevě listnáčů. Polokruhovité klobouky jsou pokryté hrubými tuhými chlupy a mají bělavě šedé pásy, často jsou od řas zelené a mají nahnědlý okraj. Je to jedna z nejběžnějších konzolovitých hub v Evropě a najdeme ji po celý rok.",
+        cap: "Plodnice je polokruhovitá až vějířovitá, 3–10 cm široká a od dřeva po okraj sahá asi do 6 cm, u báze je však tlustá jen 0,3–1 cm. Je přímo bokem přirostlá k dřevu a často srostlá se sousedními plodnicemi ve střechovitých řadách. Svrchní strana je hrubě chlupatá až štětinatá, s koncentrickými rýhami a pásy. V mládí je bílá až krémová, později bělavě šedá až šedá, někdy nažloutlá nebo k okraji tmavší. Starší klobouky bývají od povlaku řas zelené a okraj je často žlutohnědý. Ojediněle dorůstají až 15 cm.",
+        hymenium: "Plocha s póry je v mládí bílá až krémová, s věkem okrová, našedlá nebo světle hnědá. Póry jsou okrouhlé až mírně hranaté, asi 3–4 na milimetr, a rourky jsou dlouhé až asi 6 mm. Basidie jsou kyjovité, asi 15–22 × 5–7 μm.",
+        stipe: "Třeň chybí. Plodnice je přisedlá a roste přímo ze dřeva.",
+        flesh: "Dužnina je houževnatá, kožovitá a bělavá, ve dvou vrstvách: měkčí našedlá horní vrstva a bělavá spodní vrstva jsou odděleny tenkou tmavou linkou. Mladé plodnice slabě voní po anýzu a chuť je mírná až hořká.",
+        sporePrint: "Bílý. Výtrusy jsou válcovité, hladké a inamyloidní, asi 5,5–9 × 1,6–2,5 μm. Cystidy chybějí a hyfový systém je trimitický.",
+        habitat: "Saprotrofní houba, která způsobuje bílou hnilobu odumřelého dřeva listnáčů. Roste často ve velkém množství na kmenech, pařezech, spadlých větvích a stojících odumřelých kmenech, nejčastěji buku a břízy, zřídka na jehličnanech. Někdy osidluje rány na živých stromech. Houževnaté plodnice jsou jednoleté, ale vydrží měsíce, takže druh najdeme po celý rok. Je rozšířená po celé Evropě, Asii a Severní Americe.",
+        uses: "Nejedlá: dužnina je na jídlo příliš houževnatá a kožovitá, i když houba není známa jako jedovatá. V laboratoři se její kultury zkoumaly jako zdroj enzymu lakázy a pro přeměnu alkenů na aldehydy.",
+        confusion: "Trametes pubescens nemá pásy, je okrově hnědavá a jemněji chlupatá a nemá dvouvrstevnou dužninu. Trametes versicolor má výraznější pásy a je jemně sametová, ne hrubě chlupatá. Trametes villosa je větší, s hranatými, zoubkovitými póry. Trametes gibbosa má hladký klobouk. Trametes ochracea má výraznější pásy a pestřejší barvy a v řezu je trojúhelníková. Lenzites betulinus má místo pórů lupeny. Stereum hirsutum má hladkou spodní stranu bez pórů. Trametes occidentalis je blízce příbuzná.",
+        notes: "Druhové jméno hirsuta je latinské slovo pro chlupatý. Zelená barva starších plodnic nepochází od houby samotné, ale od povlaku řas, které rostou mezi chlupy. V Dánsku a Norsku je běžná a hodnocená jako málo dotčený druh (Least Concern)."
+      },
+      da: {
+        description: "En sej, læderagtig konsolsvamp, der vokser i overlappende etager på dødt løvtræ. De halvcirkelformede, hylde-lignende hatte er dækket af grove, stive hår og zoneret i hvidlige grå toner, ofte grønne af alger, med en brunlig rand. Den er en af de almindeligste konsolsvampe i Europa og kan findes hele året.",
+        cap: "Frugtlegemet er halvcirkelformet til viftedannet, 3–10 cm bredt og rager op til ca. 6 cm ud fra veddet, men er kun 0,3–1 cm tykt ved basis. Det sidder direkte på veddet med den ene side og er ofte sammenvokset med nabofrugtlegemerne i overlappende rækker. Oversiden er groft behåret til børstehåret med koncentriske furer og zoner. Den er hvid til cremefarvet som ung, senere hvidgrå til grå, nogle gange gullig eller mørkere mod randen. Ældre hatte er ofte grønlige af et lag alger, og randen er ofte gulbrun. Enkelte eksemplarer når 15 cm.",
+        hymenium: "Poreoverfladen er hvid til cremefarvet som ung og bliver med alderen okker, grålig eller lysebrun. Porerne er runde til let kantede, ca. 3–4 pr. mm, og rørene er op til ca. 6 mm lange. Basidierne er kølleformede, ca. 15–22 × 5–7 μm.",
+        stipe: "Der er ingen stok. Frugtlegemet er siddende og vokser direkte fra veddet.",
+        flesh: "Kødet er sejt, læderagtigt og hvidligt i to lag: et blødt gråligt øvre lag og et hvidligt nedre lag, adskilt af en tynd mørk linje. Unge frugtlegemer lugter svagt af anis, og smagen er mild til bitter.",
+        sporePrint: "Hvidt. Sporerne er cylindriske, glatte og inamyloide, ca. 5,5–9 × 1,6–2,5 μm. Der er ingen cystider, og hyfesystemet er trimitisk.",
+        habitat: "En saprotrof, der forårsager hvidråd i dødt løvtræ. Den vokser, ofte i store mængder, på stammer, stubbe, nedfaldne grene og stående døde træer, oftest af bøg og birk og sjældent på nåletræer. Den bosætter sig nogle gange i sår på levende træer. De seje frugtlegemer er etårige, men holder sig i måneder, så arten kan findes hele året. Den er udbredt i hele Europa, Asien og Nordamerika.",
+        uses: "Uspiselig: kødet er alt for sejt og læderagtigt til at spise, selv om svampen ikke er kendt som giftig. I laboratoriet er kulturer undersøgt som kilde til enzymet laccase og til at omdanne alkener til aldehyder.",
+        confusion: "Trametes pubescens er uden zoner, lysebrun og mere finhåret og har ikke lagdelt kød. Trametes versicolor er tydeligere zoneret og finfiltet frem for grovhåret. Trametes villosa er større, med kantede, tandlignende porer. Trametes gibbosa har en glat hat. Trametes ochracea er mere zoneret og farverig og trekantet i tværsnit. Lenzites betulinus har lameller i stedet for porer. Stereum hirsutum har en glat underside uden porer. Trametes occidentalis er nært beslægtet.",
+        notes: "Artsnavnet hirsuta er latin for behåret. Den grønne farve på ældre frugtlegemer stammer ikke fra svampen, men fra en hinde af alger, der vokser mellem hårene. I Danmark og Norge er den almindelig og vurderet som ikke truet (Least Concern)."
+      },
+      nl: {
+        description: "Een taaie, leerachtige consoolzwam die in dakpansgewijs overlappende rijen op dood loofhout groeit. De halfronde, plankvormige hoeden zijn bedekt met grove, stugge haren en geschakeerd in witachtig grijze tinten, vaak groen van de algen, met een bruinachtige rand. Het is een van de meest algemene consoolzwammen van Europa en is het hele jaar te vinden.",
+        cap: "Het vruchtlichaam is halfrond tot waaiervormig, 3–10 cm breed en reikt van het hout tot de rand tot ongeveer 6 cm, maar is aan de basis slechts 0,3–1 cm dik. Het zit met één zijde direct aan het hout vast en is vaak vergroeid met de buren in elkaar overlappende rijen. De bovenzijde is grof behaard tot borstelig, met concentrische groeven en zones. Jong is hij wit tot crème, later witachtig grijs tot grijs, soms gelig of naar de rand donkerder. Oudere hoeden zijn vaak groen aangelopen door een laagje algen en de rand is vaak geelbruin. Enkele exemplaren worden 15 cm.",
+        hymenium: "De buisjeslaag is jong wit tot crème en wordt met de leeftijd okerkleurig, grijsachtig of lichtbruin. De poriën zijn rond tot licht hoekig, ongeveer 3–4 per millimeter, en de buisjes zijn tot ongeveer 6 mm lang. De basidiën zijn knotsvormig, ongeveer 15–22 × 5–7 μm.",
+        stipe: "Er is geen steel. Het vruchtlichaam is gezeteld en groeit rechtstreeks uit het hout.",
+        flesh: "Het vlees is taai, leerachtig en witachtig, in twee lagen: een zachte grijzige bovenlaag en een witachtige onderlaag, gescheiden door een dunne donkere lijn. Jonge vruchtlichamen ruiken zwak naar anijs en de smaak is mild tot bitter.",
+        sporePrint: "Wit. De sporen zijn cilindrisch, glad en niet amyloïd, ongeveer 5,5–9 × 1,6–2,5 μm. Er zijn geen cystiden en het hyfensysteem is trimitisch.",
+        habitat: "Een saprotroof die witrot veroorzaakt in dood loofhout. Hij groeit, vaak in grote aantallen, op stammen, stronken, gevallen takken en staande dode stammen, meestal van beuk en berk, en zelden op naaldbomen. Soms vestigt hij zich in wonden van levende bomen. De taaie vruchtlichamen zijn eenjarig maar blijven maandenlang staan, zodat de soort het hele jaar te vinden is. Hij komt wijdverbreid voor in Europa, Azië en Noord-Amerika.",
+        uses: "Niet eetbaar: het vlees is veel te taai en leerachtig om te eten, hoewel de zwam niet als giftig bekendstaat. In het laboratorium zijn kweken onderzocht als bron van het enzym laccase en voor het omzetten van alkenen in aldehyden.",
+        confusion: "Trametes pubescens is ongezoneerd, vaalbruin en fijner behaard en heeft geen gelaagd vlees. Trametes versicolor is duidelijker gezoneerd en fijn fluwelig in plaats van grof behaard. Trametes villosa is groter, met hoekige, tandachtige poriën. Trametes gibbosa heeft een gladde hoed. Trametes ochracea is sterker gezoneerd en kleuriger en in doorsnede driehoekig. Lenzites betulinus heeft lamellen in plaats van poriën. Stereum hirsutum heeft een gladde onderzijde zonder poriën. Trametes occidentalis is nauw verwant.",
+        notes: "De soortnaam hirsuta is Latijn voor behaard. De groene kleur van oudere vruchtlichamen komt niet van de zwam zelf, maar van een laagje algen dat tussen de haren groeit. In Denemarken en Noorwegen is hij algemeen en beoordeeld als niet bedreigd (Least Concern)."
+      },
+      et: {
+        description: "Kõva, nahkjas puiduseen, mis kasvab katusekivikujuliselt kattuvate ridadena surnud lehtpuidul. Poolringikujulised riiulitaolised kübarad on kaetud jämedate jäikade karvadega ja vöötatud valkjashalli tooni, sageli on need vetikatest rohekad ning serv on pruunikas. See on üks Euroopa tavalisemaid tagleid ja seda võib leida aastaringselt.",
+        cap: "Viljakeha on poolringja kuni lehvikjas, 3–10 cm lai ja ulatub puidust servani kuni umbes 6 cm, kuid on aluselt vaid 0,3–1 cm paks. See kasvab ühe küljega otse puidu külge ja on sageli kattuvates ridades naabritega kokku kasvanud. Pealispind on jämedalt karvane kuni harjaskarvane, kontsentriliste vagude ja vöötidega. Noorelt on see valge kuni kreemjas, hiljem valkjashall kuni hall, vahel kollakas või serva poole tumedam. Vanemad kübarad on sageli vetikakihi tõttu rohekad ja serv on sageli kollakaspruun. Üksikud isendid ulatuvad 15 cm-ni.",
+        hymenium: "Poorkiht on noorelt valge kuni kreemjas ja muutub vanemaks ookerjaks, hallikaks või heleruskeks. Poorid on ümmargused kuni kergelt nurgelised, umbes 3–4 millimeetri kohta, ja torukesed on kuni umbes 6 mm pikad. Basiidid on nuiakujulised, umbes 15–22 × 5–7 μm.",
+        stipe: "Jalga ei ole. Viljakeha on istuv ja kasvab otse puidust.",
+        flesh: "Viljaliha on kõva, nahkjas ja valkjas, kahes kihis: pehme hallikas pealmine kiht ja valkjas alumine kiht, mida eraldab õhuke tume joon. Noored viljakehad lõhnavad nõrgalt aniisi järele ja maitse on kerge kuni kibe.",
+        sporePrint: "Valge. Eosed on silindrilised, siledad ja inamüloidsed, umbes 5,5–9 × 1,6–2,5 μm. Tsüstiide ei ole ja hüüfisüsteem on trimiitne.",
+        habitat: "Saprotroof, kes põhjustab surnud lehtpuidu valgemädanikku. Ta kasvab sageli suurel hulgal palkidel, känkudel, mahalangenud okstel ja püstistel surnud tüvedel, enamasti pöögil ja kasel, harva okaspuudel. Mõnikord asustab ta elavate puude haavu. Kõvad viljakehad on ühe-aastased, kuid püsivad kuid, nii et liiki võib leida aastaringselt. Ta on levinud kogu Euroopas, Aasias ja Põhja-Ameerikas.",
+        uses: "Mittesöödav: viljaliha on söömiseks palju liiga kõva ja nahkjas, kuigi seent ei peeta mürgiseks. Laboris on tema kultuure uuritud ensüümi lakkaasi allikana ja alkeenide aldehüüdideks muundamiseks.",
+        confusion: "Trametes pubescens on vöötamata, kollakaspruun ja õrnema karvasusega ning tal ei ole kihilist viljaliha. Trametes versicolor on selgemini vöötatud ja peenelt sametine, mitte jämedalt karvane. Trametes villosa on suurem, nurgeliste hambataoliste pooridega. Trametes gibbosa kübar on sile. Trametes ochracea on rohkem vöötatud ja värvilisem ning lõikes kolmnurkne. Lenzites betulinus on poorkihi asemel lehekestega. Stereum hirsutum alapind on sile, pooridetu. Trametes occidentalis on lähedane sugulane.",
+        notes: "Liiginimi hirsuta on ladina keeles karvane. Vanemate viljakehade roheline värv ei ole seene enda oma, vaid karvade vahel kasvava vetikakile oma. Taanis ja Norras on ta tavaline ja hinnatud ohualtimatuna (Least Concern)."
+      },
+      fi: {
+        description: "Sitkeä, nahkamainen vyökääpä, joka kasvaa päällekkäisinä kerroksina kuolleella lehtipuulla. Puolipyöreät, hyllymäiset lakit ovat peittyneet karkeisiin jäykkiin karvoihin ja ovat vyöhykkeisiä valkoisenharmaita, usein levästä vihreitä, ja reuna on ruskehtava. Se on yksi Euroopan yleisimmistä kääpistä, ja sen voi löytää ympäri vuoden.",
+        cap: "Itiöemä on puolipyöreä tai viuhkamainen, 3–10 cm leveä ja ulottuu puusta reunaan noin 6 cm, mutta on tyvestä vain 0,3–1 cm paksu. Se kiinnittyy suoraan puuhun toisesta sivustaan ja kasvaa usein yhteen naapureidensa kanssa päällekkäisissä riveissä. Yläpinta on karkeakarvainen tai harjasmainen, ja siinä on samankeskisiä uurteita ja vyöhykkeitä. Nuorena se on valkoinen tai kermanvalkoinen, myöhemmin valkoisenharmaa tai harmaa, joskus kellertävä tai reunaa kohti tummempi. Vanhemmat lakit ovat usein levän vuoksi vihertäviä, ja reuna on usein kellanruskea. Yksittäiset yksilöt voivat olla 15 cm leveitä.",
+        hymenium: "Pillistö on nuorena valkoinen tai kermanvalkoinen ja muuttuu iän myötä okranväriseksi, harmahtavaksi tai vaaleanruskeaksi. Huokoset ovat pyöreitä tai hieman kulmikkaita, noin 3–4 millimetrillä, ja putket ovat enintään noin 6 mm pitkiä. Tyvisolut ovat nuijamaisia, noin 15–22 × 5–7 μm.",
+        stipe: "Jalkaa ei ole. Itiöemä on jalaton ja kasvaa suoraan puusta.",
+        flesh: "Malto on sitkeää, nahkamaista ja valkoista, kaksikerroksista: pehmeä harmahtava yläkerros ja valkoinen alakerros, joita erottaa ohut tumma viiva. Nuoret itiöemät tuoksuvat heikosti anikselta, ja maku on miedon karvas.",
+        sporePrint: "Valkoinen. Itiöt ovat lieriömäisiä, sileitä ja inamyloidisia, noin 5,5–9 × 1,6–2,5 μm. Kystidejä ei ole, ja rihmasto on trimiittinen.",
+        habitat: "Lahottaja, joka aiheuttaa kuolleen lehtipuun valkolahoa. Se kasvaa usein runsaana tukeilla, kannoilla, kaatuneilla oksilla ja pystyyn kuolleilla rungoilla, useimmiten koivulla ja pyökillä, harvoin havupuilla. Joskus se asuttaa elävien puiden vaurioita. Sitkeät itiöemät ovat yksivuotisia mutta säilyvät kuukausia, joten lajin voi löytää ympäri vuoden. Se on laajalle levinnyt Euroopassa, Aasiassa ja Pohjois-Amerikassa.",
+        uses: "Syömäkelvoton: malto on aivan liian sitkeää ja nahkamaista syötäväksi, vaikka sientä ei tiedetä myrkylliseksi. Laboratoriossa sen viljelmiä on tutkittu lakkaasientsyymin lähteenä ja alkeenien muuntamiseksi aldehydeiksi.",
+        confusion: "Trametes pubescens on vyöhykkeetön, kellanruskea ja hienokarvaisempi, eikä sen maltossa ole kerroksia. Trametes versicolor on selvemmin vyöhykkeinen ja hienon samettinen eikä karkeakarvainen. Trametes villosa on suurempi, ja sen huokoset ovat kulmikkaita ja hammasmaisia. Trametes gibbosa on lakkipinnaltaan sileä. Trametes ochracea on enemmän vyöhykkeinen ja värikkäämpi, ja poikkileikkaukseltaan kolmiomainen. Lenzites betulinus on huokosten sijaan heltallinen. Stereum hirsutum on alapinnaltaan sileä ja huokositon. Trametes occidentalis on läheistä sukua.",
+        notes: "Lajinimi hirsuta on latinaa ja tarkoittaa karvaista. Vanhojen itiöemien vihreä väri ei johdu sienestä itsestään vaan karvojen välissä kasvavasta levälevystä. Tanskassa ja Norjassa se on yleinen ja arvioitu elinvoimaiseksi (Least Concern)."
+      },
+      fr: {
+        description: "Un champignon en console coriace, à la consistance de cuir, qui pousse en étages imbriqués sur le bois mort de feuillus. Les chapeaux demi-circulaires en forme d'étagère sont couverts de poils raides et grossiers, zonés de gris blanchâtre, souvent verdis par des algues, avec un bord brunâtre. C'est l'un des champignons en console les plus courants d'Europe, et on peut le trouver toute l'année.",
+        cap: "Le carpophore est demi-circulaire à en éventail, large de 3–10 cm et long jusqu'à environ 6 cm du bois jusqu'au bord, mais épais de seulement 0,3–1 cm à la base. Il est fixé directement au bois par un côté et souvent soudé à ses voisins en rangées imbriquées. La face supérieure est grossièrement velue à hérissée, avec des sillons et des zones concentriques. Elle est blanche à crème chez le jeune, puis gris blanchâtre à gris, parfois jaunâtre ou plus foncée vers le bord. Les chapeaux âgés sont souvent teintés de vert par un enduit d'algues, et la marge est souvent brun jaunâtre. Quelques spécimens atteignent 15 cm.",
+        hymenium: "La face à pores est blanche à crème chez le jeune, puis devient ocre, grisâtre ou brun pâle avec l'âge. Les pores sont ronds à légèrement anguleux, environ 3–4 par millimètre, et les tubes mesurent jusqu'à environ 6 mm de profondeur. Les basides sont en massue, d'environ 15–22 × 5–7 μm.",
+        stipe: "Il n'y a pas de pied. Le carpophore est sessile et pousse directement sur le bois.",
+        flesh: "La chair est coriace, semblable à du cuir et blanchâtre, en deux couches : une couche supérieure tendre grisâtre et une couche inférieure blanchâtre, séparées par une fine ligne sombre. Les jeunes carpophores sentent faiblement l'anis, et la saveur est douce à amère.",
+        sporePrint: "Blanche. Les spores sont cylindriques, lisses et inamyloïdes, d'environ 5,5–9 × 1,6–2,5 μm. Il n'y a pas de cystides et le système d'hyphes est trimitique.",
+        habitat: "Un saprotrophe qui provoque une pourriture blanche du bois mort de feuillus. Il pousse, souvent en grand nombre, sur des troncs, des souches, des branches tombées et des arbres morts sur pied, le plus souvent de hêtre et de bouleau, rarement de conifères. Il colonise parfois les blessures des arbres vivants. Les carpophores coriaces sont annuels mais persistent des mois, si bien que l'espèce se trouve toute l'année. Il est répandu dans toute l'Europe, en Asie et en Amérique du Nord.",
+        uses: "Non comestible : la chair est beaucoup trop coriace pour être mangée, bien que le champignon ne soit pas connu comme toxique. En laboratoire, ses cultures ont été étudiées comme source de l'enzyme laccase et pour transformer des alcènes en aldéhydes.",
+        confusion: "Trametes pubescens n'est pas zoné, est beige et plus finement duveteux, et n'a pas de chair en couches. Trametes versicolor est plus nettement zoné et finement velouté plutôt que grossièrement velu. Trametes villosa est plus grand, avec des pores anguleux en forme de dents. Trametes gibbosa a un chapeau lisse. Trametes ochracea est plus zoné et plus coloré, et triangulaire en coupe. Lenzites betulinus a des lames au lieu de pores. Stereum hirsutum a une face inférieure lisse, sans pores. Trametes occidentalis est étroitement apparenté.",
+        notes: "Le nom d'espèce hirsuta est le mot latin pour velu. La couleur verte des carpophores âgés ne vient pas du champignon lui-même, mais d'un film d'algues qui poussent entre les poils. Au Danemark et en Norvège, il est commun et évalué comme de préoccupation mineure (Least Concern)."
+      },
+      de: {
+        description: "Ein zäher, ledriger Porling, der in dachziegelartig überlappenden Reihen auf totem Laubholz wächst. Die halbkreisförmigen, konsolenartigen Hüte sind mit groben, steifen Haaren bedeckt und weißlich grau gezont, oft von Algen grün überzogen, mit bräunlichem Rand. Er ist einer der häufigsten Porlinge Europas und ist das ganze Jahr über zu finden.",
+        cap: "Der Fruchtkörper ist halbkreis- bis fächerförmig, 3–10 cm breit und reicht vom Holz bis zum Rand etwa 6 cm, ist aber an der Basis nur 0,3–1 cm dick. Er sitzt mit einer Seite direkt am Holz und ist oft mit seinen Nachbarn in überlappenden Reihen verwachsen. Die Oberseite ist grob striegelig bis borstig behaart, mit konzentrischen Furchen und Zonen. Jung ist sie weiß bis cremefarben, später weißlich grau bis grau, manchmal gelblich oder zum Rand hin dunkler. Ältere Hüte sind oft durch einen Algenüberzug grünlich getönt, und der Rand ist oft gelblich braun. Einzelne Exemplare erreichen 15 cm.",
+        hymenium: "Die Porenschicht ist jung weiß bis cremefarben und wird mit dem Alter ockerfarben, gräulich oder hellbraun. Die Poren sind rund bis leicht eckig, etwa 3–4 pro Millimeter, und die Röhren sind bis etwa 6 mm lang. Die Basidien sind keulenförmig, etwa 15–22 × 5–7 μm.",
+        stipe: "Einen Stiel gibt es nicht. Der Fruchtkörper sitzt und wächst direkt aus dem Holz.",
+        flesh: "Das Fleisch ist zäh, ledrig und weißlich, in zwei Schichten: eine weiche gräuliche Oberschicht und eine weißliche Unterschicht, getrennt durch eine dünne dunkle Linie. Junge Fruchtkörper riechen schwach nach Anis, und der Geschmack ist mild bis bitter.",
+        sporePrint: "Weiß. Die Sporen sind zylindrisch, glatt und inamyloid, etwa 5,5–9 × 1,6–2,5 μm. Zystiden fehlen, und das Hyphensystem ist trimitisch.",
+        habitat: "Ein Saprobiont, der Weißfäule im toten Laubholz verursacht. Er wächst, oft in großer Zahl, auf Stämmen, Stümpfen, herabgefallenen Ästen und stehenden toten Stämmen, meist von Buche und Birke, selten an Nadelholz. Manchmal besiedelt er Wunden an lebenden Bäumen. Die zähen Fruchtkörper sind einjährig, halten sich aber monatelang, sodass die Art das ganze Jahr über zu finden ist. Er ist in ganz Europa, Asien und Nordamerika verbreitet.",
+        uses: "Ungenießbar: Das Fleisch ist viel zu zäh und ledrig zum Essen, auch wenn der Pilz nicht als giftig bekannt ist. Im Labor wurden seine Kulturen als Quelle des Enzyms Laccase und zur Umwandlung von Alkenen in Aldehyde untersucht.",
+        confusion: "Trametes pubescens ist ungezont, gelbbraun und feiner filzig und hat kein geschichtetes Fleisch. Trametes versicolor ist deutlicher gezont und fein samtig statt grob behaart. Trametes villosa ist größer, mit eckigen, zahnartigen Poren. Trametes gibbosa hat einen glatten Hut. Trametes ochracea ist stärker gezont und bunter und im Schnitt dreieckig. Lenzites betulinus hat Lamellen statt Poren. Stereum hirsutum hat eine glatte Unterseite ohne Poren. Trametes occidentalis ist nah verwandt.",
+        notes: "Der Artname hirsuta ist lateinisch für behaart. Die grüne Farbe älterer Fruchtkörper stammt nicht vom Pilz selbst, sondern von einem Algenfilm, der zwischen den Haaren wächst. In Dänemark und Norwegen ist er häufig und als nicht gefährdet (Least Concern) eingestuft."
+      },
+      he: {
+        description: "פטרייה קשה ועורית מסוג מדף, הגדלה בקומות חופפות על עץ מת של עצים רחבי עלים. הכובעים חצי העגולים דמויי המדף מכוסים שערות גסות וקשיחות ומחולקים לאזורים בגוני אפור לבנבן, לעיתים קרובות ירוקים מאצות, עם שוליים חומים. זהו אחד מפטריות המדף הנפוצות ביותר באירופה, וניתן למצוא אותו כל השנה.",
+        cap: "גוף הפרי חצי עגול עד מניפתי, ברוחב 3–10 ס״מ, ומהעץ עד השוליים הוא מגיע לכ־6 ס״מ, אך עוביו בבסיס הוא רק 0.3–1 ס״מ. הוא מחובר ישירות לעץ בצדו האחד ולעיתים קרובות מתאחה עם שכניו בשורות חופפות. המשטח העליון שעיר גס עד זיפני, עם חריצים ואזורים מרוכזים. בצעירותו הוא לבן עד שמנת, ואחר כך אפרפר־לבנבן עד אפור, לעיתים צהבהב או כהה יותר לכיוון השוליים. כובעים מבוגרים נצבעים לרוב בירוק על ידי ציפוי אצות, והשוליים לרוב חום צהבהב. דגימות בודדות מגיעות ל־15 ס״מ.",
+        hymenium: "משטח הנקבוביות לבן עד שמנת בצעירותו, ועם הגיל הופך לצבע אוכרה, אפרפר או חום בהיר. הנקבוביות עגולות עד מעט זוויתיות, כ־3–4 למילימטר, והצינוריות באורך של עד כ־6 מ״מ. הבסידיות בצורת אלה, כ־15–22 × 5–7 מיקרומטר.",
+        stipe: "אין גבעול. גוף הפרי יושב וצומח ישירות מהעץ.",
+        flesh: "הבשר קשה, עורי ולבנבן, בשתי שכבות: שכבה עליונה רכה אפרפרה ושכבה תחתונה לבנבנה, המופרדות בקו כהה דק. גופי פרי צעירים מדיפים ריח חלש של אניס, והטעם מתון עד מריר.",
+        sporePrint: "לבן. הנבגים גליליים, חלקים ובלתי עמילניים (inamyloid), בגודל כ־5.5–9 × 1.6–2.5 מיקרומטר. אין ציסטידיות, ומערכת ההיפות טרימיטית.",
+        habitat: "סאפרוטרוף הגורם לריקבון לבן בעץ מת של עצים רחבי עלים. הוא גדל, לרוב בכמויות גדולות, על גזעים, גדמים, ענפים שנפלו וגזעים מתים עומדים, לרוב של אשור וליבנה, ולעיתים נדירות על מחטניים. לעיתים הוא מתיישב בפצעים של עצים חיים. גופי הפרי הקשים חד־שנתיים אך נשארים חודשים, ולכן אפשר למצוא את המין כל השנה. הוא נפוץ ברחבי אירופה, אסיה וצפון אמריקה.",
+        uses: "לא אכיל: הבשר קשה ועורי מכדי לאכול, אף שהפטרייה אינה ידועה כרעילה. במעבדה נחקרו תרביות שלה כמקור לאנזים לקאז ולהמרת אלקנים לאלדהידים.",
+        confusion: "ל־Trametes pubescens אין אזורים, הוא בצבע בז׳ וקטיפתי עדין יותר ואין לו בשר בשכבות. Trametes versicolor בעל אזורים בולטים יותר וקטיפתי עדין ולא שעיר גס. Trametes villosa גדול יותר, עם נקבוביות זוויתיות דמויות שיניים. לכובע של Trametes gibbosa משטח חלק. Trametes ochracea בעל יותר אזורים וצבעים ובחתך משולש. ל־Lenzites betulinus יש למלות במקום נקבוביות. לצד התחתון של Stereum hirsutum משטח חלק ללא נקבוביות. Trametes occidentalis קרוב אליו מאוד.",
+        notes: "שם המין hirsuta הוא מילה לטינית שמשמעה שעיר. הצבע הירוק של גופי פרי מבוגרים אינו של הפטרייה עצמה אלא של ציפוי אצות הצומח בין השערות. בדנמרק ובנורווגיה הוא נפוץ ומוערך כמין בסיכון נמוך (Least Concern)."
+      },
+      hi: {
+        description: "एक सख्त, चमड़े जैसा ब्रैकेट कवक, जो मृत चौड़ी पत्ती वाले पेड़ों की लकड़ी पर एक-दूसरे पर चढ़ी हुई परतों में उगता है। अर्धगोलाकार, शेल्फ़ जैसी टोपियाँ मोटे, कड़े रोमों से ढकी होती हैं और सफ़ेद-धूसर रंग के क्षेत्रों में बँटी होती हैं, अक्सर शैवाल से हरी, और किनारा भूरापन लिए होता है। यह यूरोप के सबसे आम ब्रैकेट कवकों में से एक है और साल भर मिल सकता है।",
+        cap: "फलनकाय अर्धगोलाकार से पंखे के आकार का होता है, 3–10 सेमी चौड़ा और लकड़ी से किनारे तक लगभग 6 सेमी तक फैला होता है, पर आधार पर केवल 0.3–1 सेमी मोटा होता है। यह एक ओर से सीधे लकड़ी से जुड़ा होता है और अक्सर पड़ोसी फलनकायों से एक-दूसरे पर चढ़ी पंक्तियों में जुड़ जाता है। ऊपरी सतह मोटे रोमों वाली से बालदार होती है, जिस पर संकेंद्री खाँचे और क्षेत्र होते हैं। कम उम्र में यह सफ़ेद से क्रीम रंग का होता है, फिर सफ़ेद-धूसर से धूसर हो जाता है, कभी पीला-सा या किनारे की ओर गहरा। पुरानी टोपियाँ अक्सर शैवाल की परत से हरी आभा लेती हैं, और किनारा अक्सर पीला-भूरा होता है। कुछ नमूने 15 सेमी तक पहुँचते हैं।",
+        hymenium: "छिद्र वाली सतह कम उम्र में सफ़ेद से क्रीम रंग की होती है और उम्र के साथ गेरुआ, धूसर या हल्की भूरी हो जाती है। छिद्र गोल से हल्के कोणीय होते हैं, लगभग 3–4 प्रति मिलीमीटर, और नलिकाएँ लगभग 6 मिमी तक गहरी होती हैं। बेसिडिया गदा के आकार के होते हैं, लगभग 15–22 × 5–7 माइक्रोमीटर।",
+        stipe: "कोई डंठल नहीं होता। फलनकाय बिना डंठल का होता है और सीधे लकड़ी से उगता है।",
+        flesh: "गूदा सख्त, चमड़े जैसा और सफ़ेदी लिए होता है, दो परतों में: नरम धूसर ऊपरी परत और सफ़ेदी लिए निचली परत, जो एक पतली गहरी रेखा से अलग होती हैं। कम उम्र के फलनकायों से सौंफ़ जैसी हल्की गंध आती है, और स्वाद हल्के से कड़वे के बीच का होता है।",
+        sporePrint: "सफ़ेद। बीजाणु बेलनाकार, चिकने और अनामाइलॉइड (inamyloid) होते हैं, लगभग 5.5–9 × 1.6–2.5 माइक्रोमीटर। सिस्टिडिया नहीं होते और हाइफ़ा तंत्र त्रिमिटिक होता है।",
+        habitat: "एक मृतोपजीवी कवक, जो मृत चौड़ी पत्ती वाले पेड़ों की लकड़ी में सफ़ेद सड़न पैदा करता है। यह अक्सर बड़ी संख्या में लट्ठों, ठूँठों, गिरी शाखाओं और खड़े मृत तनों पर उगता है, ज़्यादातर बीच और बर्च पर, और शायद ही कभी शंकुधारी पेड़ों पर। कभी-कभी यह जीवित पेड़ों के घावों में बस जाता है। सख्त फलनकाय एकवर्षीय होते हैं पर महीनों टिके रहते हैं, इसलिए यह प्रजाति साल भर मिल सकती है। यह पूरे यूरोप, एशिया और उत्तरी अमेरिका में फैली है।",
+        uses: "अखाद्य: गूदा खाने के लिए बहुत अधिक सख्त और चमड़े जैसा है, हालाँकि यह कवक ज़हरीला नहीं माना जाता। प्रयोगशाला में इसके संवर्धनों का अध्ययन लैकेज़ एंज़ाइम के स्रोत के रूप में और ऐल्कीन को ऐल्डिहाइड में बदलने के लिए किया गया है।",
+        confusion: "Trametes pubescens में क्षेत्र नहीं होते, यह पीला-भूरा और अधिक महीन रोएँदार होता है, और इसका गूदा परतों वाला नहीं होता। Trametes versicolor के क्षेत्र अधिक स्पष्ट होते हैं और यह मोटे रोमों वाला नहीं, बल्कि महीन मख़मली होता है। Trametes villosa बड़ा होता है, जिसके छिद्र कोणीय और दाँत जैसे होते हैं। Trametes gibbosa की टोपी चिकनी होती है। Trametes ochracea में क्षेत्र और रंग अधिक होते हैं और इसका अनुप्रस्थ काट त्रिकोणाकार होता है। Lenzites betulinus में छिद्रों की जगह गिल होते हैं। Stereum hirsutum की निचली सतह चिकनी होती है और उसमें छिद्र नहीं होते। Trametes occidentalis इसका निकट संबंधी है।",
+        notes: "प्रजाति नाम hirsuta लैटिन में रोएँदार के लिए शब्द है। पुराने फलनकायों का हरा रंग कवक का अपना नहीं है, बल्कि रोमों के बीच उगने वाली शैवाल की परत का है। डेनमार्क और नॉर्वे में यह आम है और इसे सबसे कम चिंताजनक (Least Concern) आँका गया है।"
+      },
+      hu: {
+        description: "Szívós, bőrszerű konzolos taplógomba, amely cserépszerűen egymásra boruló sorokban nő elhalt lombos fán. A félkör alakú, polcszerű kalapok durva, merev szőrökkel borítottak és fehéres szürke övekkel tagoltak, gyakran algától zöldek, szélük barnás. Európa egyik leggyakoribb taplógombája, és egész évben megtalálható.",
+        cap: "A termőtest félkör vagy legyező alakú, 3–10 cm széles, a fától a széléig legfeljebb kb. 6 cm hosszú, tövénél azonban csak 0,3–1 cm vastag. Egyik oldalával közvetlenül a fához tapad, és gyakran összenő a szomszédaival egymásra boruló sorokban. A felső felszíne durván szőrös, sörtés, koncentrikus barázdákkal és övekkel. Fiatalon fehér vagy krémszínű, később fehéres szürke vagy szürke, néha sárgás, vagy a széle felé sötétebb. Az idősebb kalapok gyakran zöldes árnyalatúak az algabevonattól, a szél gyakran sárgásbarna. Egyes példányok elérik a 15 cm-t.",
+        hymenium: "A pórusos termőréteg fiatalon fehér vagy krémszínű, idővel okkeres, szürkés vagy halványbarna lesz. A pórusok kerekek vagy kissé szögletesek, kb. 3–4 van egy milliméteren, a csövek legfeljebb kb. 6 mm hosszúak. A bazídiumok bunkó alakúak, kb. 15–22 × 5–7 μm.",
+        stipe: "Nincs tönk. A termőtest ülő, közvetlenül a fából nő ki.",
+        flesh: "A húsa szívós, bőrszerű és fehéres, két rétegű: puha, szürkés felső réteg és fehéres alsó réteg, amelyeket vékony sötét vonal választ el. A fiatal termőtestek halványan ánizsillatúak, az íze enyhe vagy kesernyés.",
+        sporePrint: "Fehér. A spórák hengeresek, simák és inamiloidok, kb. 5,5–9 × 1,6–2,5 μm. Cisztídiumok nincsenek, a hifarendszer trimitikus.",
+        habitat: "Szaprotróf, amely fehér korhadást okoz az elhalt lombos fában. Gyakran nagy számban nő rönkökön, tuskókon, lehullott ágakon és álló elhalt törzseken, leggyakrabban bükkön és nyírfán, ritkán fenyőféléken. Néha élő fák sebeiben telepszik meg. A szívós termőtestek egyévesek, de hónapokig megmaradnak, így a faj egész évben megtalálható. Egész Európában, Ázsiában és Észak-Amerikában elterjedt.",
+        uses: "Nem ehető: a húsa túlságosan szívós és bőrszerű ahhoz, hogy megegyék, bár a gomba nem ismert mérgezőként. Laboratóriumban tenyészeteit a lakkáz enzim forrásaként és alkének aldehidekké alakítására vizsgálták.",
+        confusion: "A Trametes pubescens nem övezett, okkerbarna és finomabban molyhos, húsa nem rétegzett. A Trametes versicolor határozottabban övezett és finoman bársonyos, nem durván szőrös. A Trametes villosa nagyobb, szögletes, fogszerű pórusokkal. A Trametes gibbosa kalapja sima. A Trametes ochracea övezettebb és színesebb, és metszetben háromszögletű. A Lenzites betulinus pórusok helyett lemezes. A Stereum hirsutum alsó felszíne sima, pórus nélküli. A Trametes occidentalis közeli rokon.",
+        notes: "A hirsuta fajnév latinul szőrös jelentésű. Az idősebb termőtestek zöld színe nem magától a gombától ered, hanem a szőrök között növő algabevonattól. Dániában és Norvégiában gyakori, és nem fenyegetettként (Least Concern) értékelték."
+      },
+      id: {
+        description: "Jamur braket yang liat dan seperti kulit, tumbuh berlapis-lapis tumpang tindih pada kayu keras yang telah mati. Tudungnya yang setengah lingkaran dan menyerupai rak tertutup rambut kasar yang kaku dan berzona abu-abu keputihan, sering kehijauan karena alga, dengan tepi kecokelatan. Jamur ini termasuk jamur braket paling umum di Eropa dan dapat ditemukan sepanjang tahun.",
+        cap: "Tubuh buahnya berbentuk setengah lingkaran sampai kipas, lebar 3–10 cm dan menjorok dari kayu sampai tepi hingga sekitar 6 cm, tetapi tebalnya di pangkal hanya 0,3–1 cm. Tubuh buah menempel langsung pada kayu di satu sisi dan sering menyatu dengan tetangganya dalam barisan yang saling tumpang tindih. Permukaan atasnya berambut kasar sampai berduri, dengan alur dan zona konsentris. Saat muda berwarna putih sampai krem, kemudian abu-abu keputihan sampai abu-abu, kadang kekuningan atau lebih gelap ke arah tepi. Tudung yang lebih tua sering bernuansa hijau akibat lapisan alga, dan tepinya sering cokelat kekuningan. Beberapa spesimen mencapai 15 cm.",
+        hymenium: "Permukaan berpori berwarna putih sampai krem saat muda, kemudian menjadi kuning kecokelatan, keabu-abuan, atau cokelat pucat seiring usia. Porinya bulat sampai agak bersudut, sekitar 3–4 per milimeter, dan tabungnya sedalam hingga sekitar 6 mm. Basidianya berbentuk gada, sekitar 15–22 × 5–7 μm.",
+        stipe: "Tidak ada tangkai. Tubuh buahnya duduk dan tumbuh langsung dari kayu.",
+        flesh: "Dagingnya liat, seperti kulit, dan keputihan, dalam dua lapis: lapisan atas yang lunak keabu-abuan dan lapisan bawah keputihan, dipisahkan oleh garis gelap yang tipis. Tubuh buah muda berbau samar adas manis, dan rasanya ringan sampai pahit.",
+        sporePrint: "Putih. Sporanya silindris, halus, dan inamiloid, sekitar 5,5–9 × 1,6–2,5 μm. Tidak ada sistidia, dan sistem hifanya trimitik.",
+        habitat: "Saprofit yang menyebabkan pembusukan putih pada kayu keras yang mati. Tumbuh, sering dalam jumlah besar, pada batang tumbang, tunggul, cabang jatuh, dan batang mati yang masih berdiri, paling sering dari pohon beech dan birch, jarang pada konifer. Kadang menjajah luka pada pohon hidup. Tubuh buahnya yang liat bersifat setahun tetapi bertahan berbulan-bulan, sehingga jenis ini dapat ditemukan sepanjang tahun. Tersebar luas di seluruh Eropa, Asia, dan Amerika Utara.",
+        uses: "Tidak dapat dimakan: dagingnya jauh terlalu liat dan seperti kulit untuk dimakan, meskipun jamur ini tidak dikenal beracun. Di laboratorium, kulturnya telah dipelajari sebagai sumber enzim lakase dan untuk mengubah alkena menjadi aldehida.",
+        confusion: "Trametes pubescens tidak berzona, berwarna kuning kecokelatan, berbulu halus yang lebih lembut, dan tidak memiliki daging berlapis. Trametes versicolor zonanya lebih jelas dan halus seperti beludru, bukan berambut kasar. Trametes villosa lebih besar, dengan pori bersudut menyerupai gigi. Trametes gibbosa memiliki tudung yang halus. Trametes ochracea lebih berzona dan berwarna, dan berpenampang segitiga. Lenzites betulinus memiliki bilah, bukan pori. Stereum hirsutum memiliki sisi bawah yang halus tanpa pori. Trametes occidentalis berkerabat dekat.",
+        notes: "Nama jenis hirsuta berarti berambut dalam bahasa Latin. Warna hijau pada tubuh buah yang lebih tua bukan berasal dari jamurnya sendiri, melainkan dari lapisan alga yang tumbuh di antara rambut-rambutnya. Di Denmark dan Norwegia jamur ini umum dan dinilai sebagai berisiko rendah (Least Concern)."
+      },
+      it: {
+        description: "Un fungo a mensola coriaceo, simile al cuoio, che cresce in file sovrapposte sul legno morto di latifoglie. I cappelli semicircolari a mensola sono coperti di peli ruvidi e rigidi e zonati in grigio biancastro, spesso verdi per le alghe, con margine brunastro. È uno dei funghi a mensola più comuni d'Europa e si può trovare tutto l'anno.",
+        cap: "Il carpoforo è semicircolare o a ventaglio, largo 3–10 cm e lungo dal legno al margine fino a circa 6 cm, ma spesso solo 0,3–1 cm alla base. È attaccato direttamente al legno da un lato e spesso si salda ai vicini in file sovrapposte. La superficie superiore è ruvidamente pelosa fino a irsuta, con solchi e zone concentriche. Da giovane è bianca fino a crema, poi grigio biancastra fino a grigia, a volte giallastra o più scura verso il margine. I cappelli più vecchi sono spesso tinti di verde da un rivestimento di alghe, e il margine è spesso giallo-bruno. Alcuni esemplari raggiungono i 15 cm.",
+        hymenium: "La superficie porosa è bianca fino a crema da giovane e con l'età diventa ocra, grigiastra o marrone chiaro. I pori sono rotondi fino a leggermente angolosi, circa 3–4 per millimetro, e i tubi sono lunghi fino a circa 6 mm. I basidi sono clavati, circa 15–22 × 5–7 μm.",
+        stipe: "Non c'è un gambo. Il carpoforo è sessile e cresce direttamente dal legno.",
+        flesh: "La carne è coriacea, simile al cuoio e biancastra, in due strati: uno strato superiore tenero grigiastro e uno inferiore biancastro, separati da una sottile linea scura. I giovani carpofori hanno un lieve odore di anice, e il sapore è mite fino ad amaro.",
+        sporePrint: "Bianca. Le spore sono cilindriche, lisce e inamiloidi, circa 5,5–9 × 1,6–2,5 μm. Non ci sono cistidi e il sistema ifale è trimitico.",
+        habitat: "Un saprotrofo che causa carie bianca nel legno morto di latifoglie. Cresce, spesso in gran numero, su tronchi, ceppi, rami caduti e tronchi morti in piedi, più spesso di faggio e betulla, raramente di conifere. A volte colonizza le ferite di alberi vivi. I carpofori coriacei sono annuali ma persistono per mesi, quindi la specie si può trovare tutto l'anno. È diffusa in tutta Europa, in Asia e in Nord America.",
+        uses: "Non commestibile: la carne è troppo coriacea e simile al cuoio per essere mangiata, anche se il fungo non è noto come velenoso. In laboratorio le sue colture sono state studiate come fonte dell'enzima laccasi e per trasformare alcheni in aldeidi.",
+        confusion: "Trametes pubescens non è zonata, è color camoscio e più finemente vellutata, e non ha carne stratificata. Trametes versicolor è più nettamente zonata e finemente vellutata anziché ruvidamente pelosa. Trametes villosa è più grande, con pori angolosi simili a denti. Trametes gibbosa ha il cappello liscio. Trametes ochracea è più zonata e colorata, e triangolare in sezione. Lenzites betulinus ha lamelle al posto dei pori. Stereum hirsutum ha la faccia inferiore liscia, senza pori. Trametes occidentalis è strettamente imparentata.",
+        notes: "Il nome della specie hirsuta è la parola latina per peloso. Il colore verde dei carpofori più vecchi non è del fungo stesso, ma di una pellicola di alghe che cresce fra i peli. In Danimarca e in Norvegia è comune ed è valutata a rischio minimo (Least Concern)."
+      },
+      ja: {
+        description: "枯れた広葉樹の上に重なり合う段になって生える、丈夫で革質の棚状のキノコ。半円形で棚のような傘は粗く硬い毛に覆われ、灰白色の環紋があり、しばしば藻類で緑色になり、縁は褐色を帯びる。ヨーロッパで最もよく見られる棚状キノコの一つで、一年中見られる。",
+        cap: "子実体は半円形から扇形で、幅3–10 cm、木から縁まで最大約6 cmあるが、基部の厚さはわずか0.3–1 cmである。片側で直接木に付着し、しばしば隣の子実体と重なり合う列になって癒合する。上面は粗い毛から剛毛状で、同心円状の溝と環紋がある。若いときは白色からクリーム色で、のちに灰白色から灰色になり、黄色みを帯びたり、縁に向かって暗色になったりすることもある。古い傘は藻類の被覆で緑色を帯びることが多く、縁はしばしば黄褐色である。まれに15 cmに達する個体もある。",
+        hymenium: "管孔面は若いときは白色からクリーム色で、年を取ると黄土色、灰色がかった色、または淡褐色になる。孔口は円形からやや角形で、1 mmあたり約3–4個、管の長さは最大約6 mmである。担子器は棍棒状で、約15–22 × 5–7 μmである。",
+        stipe: "柄はない。子実体は無柄で、木から直接生える。",
+        flesh: "肉は丈夫で革質、白色を帯び、2層になっている。柔らかい灰色の上層と白色の下層が、細い暗色の線で隔てられる。若い子実体はかすかにアニスの香りがし、味は穏やかから苦い。",
+        sporePrint: "白色。胞子は円筒形で平滑、非アミロイドで、約5.5–9 × 1.6–2.5 μmである。シスチジアはなく、菌糸型は三菌糸型である。",
+        habitat: "枯れた広葉樹に白色腐朽を起こす腐生菌。丸太、切り株、落枝、立ち枯れの幹に、しばしば大量に生え、ブナやカバノキに最も多く、針葉樹にはまれである。ときに生きた木の傷にも定着する。丈夫な子実体は一年生だが数か月残るため、この種は一年中見られる。ヨーロッパ、アジア、北アメリカに広く分布する。",
+        uses: "食べられない。肉は食用にするには丈夫で革質すぎるが、毒キノコとしては知られていない。実験室では、その培養物がラッカーゼ酵素の供給源として、またアルケンをアルデヒドに変える目的で研究されている。",
+        confusion: "Trametes pubescens は環紋がなく、淡黄褐色で毛がより細かく、肉は層にならない。Trametes versicolor は環紋がより明瞭で、粗毛ではなく細かいビロード状である。Trametes villosa はより大きく、孔口は角形で歯状である。Trametes gibbosa は傘が平滑である。Trametes ochracea は環紋と色がより目立ち、断面が三角形である。Lenzites betulinus は孔口ではなくひだがある。Stereum hirsutum は下面が平滑で孔口がない。Trametes occidentalis は近縁である。",
+        notes: "種小名のhirsutaはラテン語で「毛深い」を意味する。古い子実体の緑色は菌自体のものではなく、毛の間に生える藻類の膜によるものである。デンマークとノルウェーでは普通種で、軽度懸念（Least Concern）と評価されている。"
+      },
+      ko: {
+        description: "죽은 활엽수 목재 위에 서로 겹쳐진 층을 이루며 자라는, 질기고 가죽 같은 선반 모양 버섯. 반원형의 선반 같은 갓은 거칠고 뻣뻣한 털로 덮여 있고 흰빛 도는 회색 고리무늬가 있으며, 흔히 조류로 인해 녹색을 띠고 가장자리는 갈색빛이다. 유럽에서 가장 흔한 선반버섯 중 하나이며 일 년 내내 볼 수 있다.",
+        cap: "자실체는 반원형에서 부채꼴이며, 너비 3–10 cm이고 나무에서 가장자리까지 약 6 cm에 이르지만 기부의 두께는 0.3–1 cm에 불과하다. 한쪽 면이 나무에 곧바로 붙어 있고 이웃한 자실체와 겹쳐진 줄을 이루며 합쳐지는 경우가 많다. 윗면은 거친 털에서 강모 모양이며, 동심원 모양의 홈과 고리무늬가 있다. 어릴 때는 흰색에서 크림색이고, 나중에 흰빛 도는 회색에서 회색이 되며, 때로는 누런색을 띠거나 가장자리 쪽이 더 어둡다. 오래된 갓은 조류가 덮여 녹색을 띠는 일이 많고 가장자리는 흔히 황갈색이다. 드물게 15 cm에 이르는 개체도 있다.",
+        hymenium: "구멍이 있는 면은 어릴 때 흰색에서 크림색이며, 나이가 들면 황토색, 회색빛 또는 연한 갈색이 된다. 구멍은 둥근 모양에서 약간 각진 모양이고 1 mm당 약 3–4개이며, 관의 깊이는 약 6 mm까지이다. 담자기는 곤봉 모양이고 약 15–22 × 5–7 μm이다.",
+        stipe: "자루가 없다. 자실체는 무병성이며 나무에서 곧바로 자란다.",
+        flesh: "살은 질기고 가죽 같으며 흰빛을 띠고, 두 층으로 되어 있다. 부드러운 회색빛의 위층과 흰빛의 아래층이 가는 어두운 선으로 구분된다. 어린 자실체는 희미한 아니스 향이 나고, 맛은 순하거나 쓰다.",
+        sporePrint: "흰색. 포자는 원통형이고 매끈하며 아밀로이드 반응이 없고(inamyloid), 약 5.5–9 × 1.6–2.5 μm이다. 낭상체는 없고 균사 체계는 3균사형이다.",
+        habitat: "죽은 활엽수 목재에 백색부후를 일으키는 부생균. 통나무, 그루터기, 떨어진 가지, 서 있는 죽은 줄기에 흔히 많은 수가 나며, 너도밤나무와 자작나무에 가장 많고 침엽수에는 드물다. 때로는 살아 있는 나무의 상처에도 정착한다. 질긴 자실체는 1년생이지만 몇 달 동안 남아 있어서 이 종은 일 년 내내 볼 수 있다. 유럽, 아시아, 북아메리카 전역에 널리 분포한다.",
+        uses: "먹을 수 없다. 살이 먹기에는 너무 질기고 가죽 같지만, 이 버섯이 독이 있다고 알려져 있지는 않다. 실험실에서는 그 배양체가 락카아제 효소의 공급원으로, 또 알켄을 알데하이드로 바꾸는 데 연구되었다.",
+        confusion: "Trametes pubescens는 고리무늬가 없고 연한 황갈색이며 털이 더 가늘고 살이 층을 이루지 않는다. Trametes versicolor는 고리무늬가 더 뚜렷하고 거친 털이 아니라 고운 벨벳 모양이다. Trametes villosa는 더 크고 구멍이 각지며 이빨 모양이다. Trametes gibbosa는 갓이 매끈하다. Trametes ochracea는 고리무늬와 색이 더 뚜렷하고 단면이 삼각형이다. Lenzites betulinus는 구멍 대신 주름살이 있다. Stereum hirsutum은 아랫면이 매끈하고 구멍이 없다. Trametes occidentalis는 가까운 근연종이다.",
+        notes: "종소명 hirsuta는 라틴어로 털이 많다는 뜻이다. 오래된 자실체의 녹색은 버섯 자체의 색이 아니라 털 사이에서 자라는 조류 막 때문이다. 덴마크와 노르웨이에서는 흔하며 관심대상(Least Concern)으로 평가된다."
+      },
+      lv: {
+        description: "Ciets, ādains piepes tipa sēne, kas aug jumtiņveidā pārklājošās rindās uz miruša lapkoku koka. Pusapaļās, plauktveida cepurītes klāj rupjas, stingras sariņas, tās ir balti pelēkās joslās, bieži no aļģēm zaļas, ar brūngani nokrāsotu malu. Tā ir viena no visbiežāk sastopamajām piepēm Eiropā, un to var atrast visu gadu.",
+        cap: "Augļķermenis ir pusapaļš līdz vēdekļveida, 3–10 cm plats un no koka līdz malai sniedzas līdz aptuveni 6 cm, bet pie pamatnes ir tikai 0,3–1 cm biezs. Ar vienu malu tas ir piestiprinājies tieši pie koka un bieži saaug ar kaimiņiem jumtiņveidā pārklājošās rindās. Virspuse ir rupji matiņaina līdz saraina, ar koncentriskām vagām un joslām. Jauns tas ir balts līdz krēmkrāsas, vēlāk balti pelēks līdz pelēks, dažkārt iedzeltens vai pret malu tumšāks. Vecākas cepurītes bieži kļūst zaļganas no aļģu apvalka, un mala bieži ir dzeltenbrūna. Atsevišķi eksemplāri sasniedz 15 cm.",
+        hymenium: "Poru slānis jaunībā ir balts līdz krēmkrāsas, ar vecumu kļūst okerains, pelēcīgs vai gaiši brūns. Poras ir apaļas līdz nedaudz stūrainas, apmēram 3–4 uz milimetru, un caurulītes ir līdz aptuveni 6 mm garas. Bazīdijas ir nūjveidīgas, apmēram 15–22 × 5–7 μm.",
+        stipe: "Kājas nav. Augļķermenis ir sēdošs un aug tieši no koka.",
+        flesh: "Mīkstums ir ciets, ādains un balts, divos slāņos: mīksts pelēcīgs augšējais slānis un balts apakšējais slānis, kurus atdala plāna tumša līnija. Jauniem augļķermeņiem ir vāja anīsa smarža, un garša ir maiga līdz rūgta.",
+        sporePrint: "Balts. Sporas ir cilindriskas, gludas un inamiloīdas, apmēram 5,5–9 × 1,6–2,5 μm. Cistīdu nav, un hifu sistēma ir trimītiska.",
+        habitat: "Saprotrofs, kas izraisa baltpuvi mirušā lapkoku kokā. Tas aug, bieži lielā skaitā, uz baļķiem, celmiem, nokritušiem zariem un stāvošiem mirušiem stumbriem, visbiežāk bērza un dižskābarža koksnē, reti uz skujkokiem. Dažkārt tas apmetas dzīvu koku brūcēs. Cietie augļķermeņi ir viengadīgi, bet saglabājas mēnešiem, tāpēc sugu var atrast visu gadu. Tā ir plaši izplatīta visā Eiropā, Āzijā un Ziemeļamerikā.",
+        uses: "Neēdama: mīkstums ir pārāk ciets un ādains, lai to ēstu, lai gan sēne nav zināma kā indīga. Laboratorijā tās kultūras ir pētītas kā fermenta lakāzes avots un alkēnu pārvēršanai aldehīdos.",
+        confusion: "Trametes pubescens nav joslota, tā ir okerbrūna un smalkāk pūkaina, un tai nav slāņaina mīkstuma. Trametes versicolor joslas ir skaidrākas, un tā ir smalki samtaina, nevis rupji matiņaina. Trametes villosa ir lielāka, ar stūrainām, zobiem līdzīgām porām. Trametes gibbosa cepurīte ir gluda. Trametes ochracea ir vairāk joslota un krāsaināka, un griezumā trīsstūrveida. Lenzites betulinus poru vietā ir plātnītes. Stereum hirsutum apakšpuse ir gluda, bez porām. Trametes occidentalis ir tuvs radinieks.",
+        notes: "Sugas nosaukums hirsuta latīņu valodā nozīmē matains. Vecāku augļķermeņu zaļā krāsa nav pašas sēnes krāsa, bet gan starp matiņiem augošu aļģu plēve. Dānijā un Norvēģijā tā ir bieži sastopama un novērtēta kā mazāk apdraudēta (Least Concern)."
+      },
+      lt: {
+        description: "Kietas, odiškas kempinių šeimos grybas, augantis čerpiškai viena virš kitos išsidėsčiusiomis eilėmis ant negyvos lapuočių medienos. Pusapskritės, lentynos pavidalo kepurėlės apaugusios šiurkščiais standžiais plaukeliais ir juostuotos balkšvai pilkais tonais, dažnai dumblių sužaliavusios, su rusvu kraštu. Tai vienas dažniausių kempinių grybų Europoje, aptinkamas ištisus metus.",
+        cap: "Vaisiakūnis pusapskritis iki vėduoklės pavidalo, 3–10 cm pločio, nuo medienos iki krašto siekia iki maždaug 6 cm, bet prie pagrindo tik 0,3–1 cm storio. Vienu šonu jis priaugęs tiesiai prie medienos ir dažnai suauga su kaimynais čerpiškai išsidėsčiusiose eilėse. Viršutinis paviršius šiurkščiai plaukuotas iki šeriuotas, su koncentriniais grioveliais ir juostomis. Jaunas jis baltas iki kreminio, vėliau balkšvai pilkas iki pilko, kartais gelsvas arba prie krašto tamsesnis. Senesnės kepurėlės dažnai pažaliuoja nuo dumblių apnašų, o kraštas dažnai gelsvai rudas. Pavieniai egzemplioriai siekia 15 cm.",
+        hymenium: "Porų sluoksnis jaunas baltas iki kreminio, su amžiumi tampa gelsvai rudas, pilkšvas arba šviesiai rudas. Poros apvalios iki šiek tiek kampuotų, maždaug 3–4 viename milimetre, o vamzdeliai iki maždaug 6 mm ilgio. Bazidės lazdelės pavidalo, maždaug 15–22 × 5–7 μm.",
+        stipe: "Kojelės nėra. Vaisiakūnis sėdintis ir auga tiesiai iš medienos.",
+        flesh: "Minkštimas kietas, odiškas ir balkšvas, dviejų sluoksnių: minkštas pilkšvas viršutinis sluoksnis ir balkšvas apatinis sluoksnis, atskirti plona tamsia linija. Jauni vaisiakūniai silpnai kvepia anyžiais, o skonis švelnus iki kartaus.",
+        sporePrint: "Balta. Sporos cilindriškos, lygios ir inamiloidinės, maždaug 5,5–9 × 1,6–2,5 μm. Cistidžių nėra, o hifų sistema trimitinė.",
+        habitat: "Saprotrofas, sukeliantis negyvos lapuočių medienos baltąjį puvinį. Auga, dažnai dideliais būriais, ant rąstų, kelmų, nukritusių šakų ir stovinčių negyvų kamienų, dažniausiai buko ir beržo, retai ant spygliuočių. Kartais įsikuria gyvų medžių žaizdose. Kietieji vaisiakūniai vienmečiai, bet išlieka mėnesius, todėl rūšį galima rasti ištisus metus. Paplitęs visoje Europoje, Azijoje ir Šiaurės Amerikoje.",
+        uses: "Nevalgomas: minkštimas per kietas ir odiškas, kad jį būtų galima valgyti, nors grybas nežinomas kaip nuodingas. Laboratorijoje jo kultūros tyrinėtos kaip fermento lakazės šaltinis ir alkenams paversti aldehidais.",
+        confusion: "Trametes pubescens be juostų, gelsvai rusva ir smulkiau pūkuota, jos minkštimas nėra sluoksniuotas. Trametes versicolor juostos ryškesnės, ji smulkiai aksominė, o ne šiurkščiai plaukuota. Trametes villosa didesnė, su kampuotomis, dantis primenančiomis poromis. Trametes gibbosa kepurėlė lygi. Trametes ochracea daugiau juostuota ir spalvingesnė, o pjūvyje trikampė. Lenzites betulinus vietoj porų turi plokšteles. Stereum hirsutum apatinė pusė lygi, be porų. Trametes occidentalis yra artima giminaitė.",
+        notes: "Rūšies pavadinimas hirsuta lotyniškai reiškia plaukuotas. Senesnių vaisiakūnių žalia spalva yra ne paties grybo, o tarp plaukelių augančių dumblių plėvelės. Danijoje ir Norvegijoje jis dažnas ir įvertintas kaip mažiausiai grėsmingas (Least Concern)."
+      },
+      no: {
+        description: "En seig, læraktig kjuke som vokser i overlappende etasjer på dødt løvtre. De halvsirkelformede, hylleformede hattene er dekket av grove, stive hår og sonet i kvitaktig grått, ofte grønne av alger, med brunaktig kant. Den er en av de vanligste kjukene i Europa og kan finnes hele året.",
+        cap: "Fruktkroppen er halvsirkelformet til viftedannet, 3–10 cm bred og strekker seg fra veden og ut til kanten opptil ca. 6 cm, men er bare 0,3–1 cm tykk ved basis. Den sitter direkte på veden med den ene siden og vokser ofte sammen med naboene i overlappende rader. Overflaten er grovt hårete til ragget, med konsentriske furer og soner. Som ung er den hvit til kremfarget, senere kvitgrå til grå, noen ganger gulaktig eller mørkere mot kanten. Eldre hatter er ofte grønnaktige av et belegg av alger, og kanten er ofte gulbrun. Enkelte eksemplarer blir 15 cm.",
+        hymenium: "Poreflaten er hvit til kremfarget som ung og blir med alderen oker, grålig eller blekbrun. Porene er runde til svakt kantete, omtrent 3–4 per millimeter, og rørene er opptil ca. 6 mm lange. Basidiene er klubbeformede, omtrent 15–22 × 5–7 μm.",
+        stipe: "Det er ingen stilk. Fruktkroppen er sittende og vokser direkte ut av veden.",
+        flesh: "Kjøttet er seigt, læraktig og kvitaktig, i to lag: et mykt grålig øvre lag og et kvitaktig nedre lag, adskilt av en tynn mørk linje. Unge fruktkropper lukter svakt av anis, og smaken er mild til bitter.",
+        sporePrint: "Hvitt. Sporene er sylindriske, glatte og inamyloide, omtrent 5,5–9 × 1,6–2,5 μm. Det er ingen cystider, og hyfesystemet er trimittisk.",
+        habitat: "En saprotrof som forårsaker hvitråte i dødt løvtre. Den vokser, ofte i store mengder, på stokker, stubber, nedfalne greiner og stående døde stammer, oftest av bøk og bjørk, sjelden på bartrær. Noen ganger setter den seg i sår på levende trær. De seige fruktkroppene er ettårige, men holder seg i flere måneder, slik at arten kan finnes hele året. Den er utbredt over hele Europa, Asia og Nord-Amerika.",
+        uses: "Uspiselig: kjøttet er altfor seigt og læraktig til å spises, selv om soppen ikke er kjent som giftig. I laboratoriet er kulturer undersøkt som kilde til enzymet lakkase og for å omdanne alkener til aldehyder.",
+        confusion: "Trametes pubescens er usonet, gulbrun og finere dunhåret, og har ikke lagdelt kjøtt. Trametes versicolor er tydeligere sonet og finfiltet i stedet for grovhåret. Trametes villosa er større, med kantete, tannlignende porer. Trametes gibbosa har glatt hatt. Trametes ochracea er mer sonet og fargerik og trekantet i tverrsnitt. Lenzites betulinus har lameller i stedet for porer. Stereum hirsutum har glatt underside uten porer. Trametes occidentalis er nær beslektet.",
+        notes: "Artsnavnet hirsuta er latin for hårete. Den grønne fargen på eldre fruktkropper kommer ikke fra soppen selv, men fra en hinne av alger som vokser mellom hårene. I Danmark og Norge er den vanlig og vurdert som livskraftig (Least Concern)."
+      },
+      fa: {
+        description: "قارچی کمربندی‌شکل، سخت و چرمی که در طبقه‌های روی هم افتاده بر چوب مردهٔ درختان پهن‌برگ می‌روید. کلاهک‌های نیم‌دایره‌ای و قفسه‌مانند آن با موهای زبر و سخت پوشیده شده و به رنگ خاکستری مایل به سفید منطقه‌بندی شده‌اند، اغلب بر اثر جلبک سبز می‌شوند و لبه‌ای قهوه‌ای‌فام دارند. این قارچ یکی از رایج‌ترین قارچ‌های کمربندی اروپاست و در تمام سال دیده می‌شود.",
+        cap: "جسم میوه نیم‌دایره‌ای تا بادبزنی‌شکل است، ۳ تا ۱۰ سانتی‌متر پهنا دارد و از چوب تا لبه حدود ۶ سانتی‌متر پیش می‌رود، اما ضخامتش در قاعده فقط ۰٫۳ تا ۱ سانتی‌متر است. از یک سو مستقیم به چوب چسبیده و اغلب با همسایگانش در ردیف‌های روی هم افتاده جوش می‌خورد. سطح بالایی زبر و مودار تا موی‌خاری است، با شیارها و منطقه‌های هم‌مرکز. در جوانی سفید تا کرم است، سپس خاکستری مایل به سفید تا خاکستری می‌شود و گاهی زردفام یا به سمت لبه تیره‌تر است. کلاهک‌های مسن‌تر اغلب بر اثر پوششی از جلبک سبزفام می‌شوند و لبه اغلب قهوه‌ای زرد است. برخی نمونه‌ها به ۱۵ سانتی‌متر می‌رسند.",
+        hymenium: "سطح روزنه‌دار در جوانی سفید تا کرم است و با افزایش سن اُخرایی، خاکستری‌فام یا قهوه‌ای روشن می‌شود. روزنه‌ها گرد تا اندکی زاویه‌دارند، حدود ۳ تا ۴ در هر میلی‌متر، و لوله‌ها تا حدود ۶ میلی‌متر عمق دارند. بازیدی‌ها گرزی‌شکل و حدود ۱۵ تا ۲۲ × ۵ تا ۷ میکرومتر هستند.",
+        stipe: "ساقه ندارد. جسم میوه نشسته است و مستقیم از چوب می‌روید.",
+        flesh: "گوشت سخت، چرمی و سفیدفام است و دو لایه دارد: لایهٔ بالایی نرم و خاکستری‌فام و لایهٔ پایینی سفیدفام که با خطی تیرهٔ باریک از هم جدا می‌شوند. جسم‌های میوهٔ جوان بوی کم‌رنگی از انیسون دارند و طعم آن از ملایم تا تلخ است.",
+        sporePrint: "سفید. هاگ‌ها استوانه‌ای، صاف و غیرآمیلوئیدی (inamyloid) هستند و حدود ۵٫۵ تا ۹ × ۱٫۶ تا ۲٫۵ میکرومتر اندازه دارند. سیستیدی وجود ندارد و نظام هیف‌ها سه‌گونه (trimitic) است.",
+        habitat: "ساپروتروفی که در چوب مردهٔ درختان پهن‌برگ پوسیدگی سفید ایجاد می‌کند. اغلب به تعداد زیاد روی تنه‌های افتاده، کنده‌های ته‌مانده، شاخه‌های افتاده و تنه‌های مردهٔ ایستاده می‌روید، بیشتر روی راش و غان و به‌ندرت روی مخروطیان. گاهی در زخم درختان زنده مستقر می‌شود. جسم‌های میوهٔ سخت یک‌ساله‌اند اما ماه‌ها باقی می‌مانند، بنابراین این گونه در تمام سال یافت می‌شود. در سراسر اروپا، آسیا و آمریکای شمالی گسترده است.",
+        uses: "غیرخوراکی: گوشت آن برای خوردن بسیار سخت و چرمی است، هرچند این قارچ سمی شناخته نشده است. در آزمایشگاه کشت‌های آن به‌عنوان منبع آنزیم لاکاز و برای تبدیل آلکن‌ها به آلدهیدها بررسی شده است.",
+        confusion: "Trametes pubescens منطقه‌بندی ندارد، به رنگ زردکاهی و با کرک ظریف‌تر است و گوشت لایه‌لایه ندارد. Trametes versicolor منطقه‌های آشکارتری دارد و ظریف و مخملی است، نه زبر و مودار. Trametes villosa بزرگ‌تر است و روزنه‌های زاویه‌دار و دندان‌مانند دارد. کلاهک Trametes gibbosa صاف است. Trametes ochracea منطقه‌ها و رنگ‌های بیشتری دارد و در برش مثلثی است. Lenzites betulinus به‌جای روزنه تیغه دارد. Stereum hirsutum سطح زیرین صاف و بدون روزنه دارد. Trametes occidentalis خویشاوند نزدیک آن است.",
+        notes: "نام گونه hirsuta در لاتین به معنی مودار است. رنگ سبز جسم‌های میوهٔ مسن‌تر از خود قارچ نیست، بلکه از لایه‌ای جلبک است که میان موها رشد می‌کند. در دانمارک و نروژ رایج است و در ردهٔ «کمترین نگرانی» (Least Concern) ارزیابی شده است."
+      },
+      pl: {
+        description: "Twardy, skórzasty grzyb półkowy, który rośnie dachówkowato nakładającymi się rzędami na martwym drewnie drzew liściastych. Półkoliste, półkowate kapelusze pokryte są grubymi, sztywnymi włoskami i mają białawoszare strefy, często są zielone od glonów, z brunatnawym brzegiem. To jeden z najpospolitszych grzybów półkowych w Europie, można go znaleźć przez cały rok.",
+        cap: "Owocnik jest półkolisty do wachlarzowatego, szeroki na 3–10 cm i od drewna do brzegu sięga do około 6 cm, ale przy nasadzie ma tylko 0,3–1 cm grubości. Jednym bokiem przyrasta bezpośrednio do drewna i często zrasta się z sąsiadami w nakładające się rzędy. Górna powierzchnia jest grubo owłosiona do szczeciniastej, z koncentrycznymi bruzdami i strefami. Młody jest biały do kremowego, później białawoszary do szarego, czasem żółtawy lub ciemniejszy ku brzegowi. Starsze kapelusze często zielenieją od nalotu glonów, a brzeg jest często żółtobrązowy. Pojedyncze okazy osiągają 15 cm.",
+        hymenium: "Warstwa rurek jest u młodych owocników biała do kremowej, z wiekiem staje się ochrowa, szarawa lub jasnobrązowa. Pory są okrągłe do lekko kanciastych, około 3–4 na milimetr, a rurki mają do około 6 mm długości. Podstawki są maczugowate, około 15–22 × 5–7 μm.",
+        stipe: "Trzonu brak. Owocnik jest siedzący i wyrasta bezpośrednio z drewna.",
+        flesh: "Miąższ jest twardy, skórzasty i białawy, dwuwarstwowy: miękka szarawa warstwa górna i biaława warstwa dolna, oddzielone cienką ciemną linią. Młode owocniki lekko pachną anyżem, a smak jest łagodny do gorzkiego.",
+        sporePrint: "Biały. Zarodniki są cylindryczne, gładkie i nieamyloidalne, około 5,5–9 × 1,6–2,5 μm. Cystyd brak, a system strzępek jest trimityczny.",
+        habitat: "Saprotrof wywołujący białą zgniliznę martwego drewna drzew liściastych. Rośnie, często licznie, na kłodach, pniakach, opadłych gałęziach i stojących martwych pniach, najczęściej buka i brzozy, rzadko na drzewach iglastych. Czasem zasiedla rany żywych drzew. Twarde owocniki są jednoroczne, ale utrzymują się miesiącami, więc gatunek można znaleźć przez cały rok. Jest szeroko rozpowszechniony w Europie, Azji i Ameryce Północnej.",
+        uses: "Niejadalny: miąższ jest zdecydowanie zbyt twardy i skórzasty do jedzenia, choć grzyb nie jest znany jako trujący. W laboratorium jego kultury badano jako źródło enzymu lakazy oraz do przekształcania alkenów w aldehydy.",
+        confusion: "Trametes pubescens nie ma stref, jest płowa i drobniej omszona, a jej miąższ nie jest warstwowy. Trametes versicolor ma wyraźniejsze strefy i jest drobno aksamitna, a nie grubo owłosiona. Trametes villosa jest większa, z kanciastymi, ząbkowatymi porami. Trametes gibbosa ma gładki kapelusz. Trametes ochracea ma więcej stref i barw, a w przekroju jest trójkątna. Lenzites betulinus ma blaszki zamiast por. Stereum hirsutum ma gładką spodnią stronę bez por. Trametes occidentalis jest blisko spokrewniona.",
+        notes: "Epitet gatunkowy hirsuta po łacinie oznacza owłosiony. Zielona barwa starszych owocników nie pochodzi od samego grzyba, lecz od warstwy glonów rosnących wśród włosków. W Danii i Norwegii jest pospolity i oceniony jako gatunek najmniejszej troski (Least Concern)."
+      },
+      pt: {
+        description: "Um fungo de prateleira duro e coriáceo, que cresce em andares sobrepostos na madeira morta de folhosas. Os chapéus semicirculares em forma de prateleira são cobertos de pelos grossos e rígidos e zonados em cinzento esbranquiçado, muitas vezes verdes de algas, com margem acastanhada. É um dos fungos de prateleira mais comuns da Europa e pode ser encontrado durante todo o ano.",
+        cap: "O corpo de frutificação é semicircular a em leque, com 3–10 cm de largura e até cerca de 6 cm da madeira à margem, mas com apenas 0,3–1 cm de espessura na base. Está preso diretamente à madeira por um dos lados e muitas vezes funde-se com os vizinhos em fiadas sobrepostas. A superfície superior é grosseiramente peluda a hirsuta, com sulcos e zonas concêntricas. Quando jovem é branca a creme, depois cinzento-esbranquiçada a cinzenta, por vezes amarelada ou mais escura para a margem. Os chapéus mais velhos ficam muitas vezes esverdeados por um revestimento de algas, e a margem é frequentemente castanho-amarelada. Alguns exemplares chegam aos 15 cm.",
+        hymenium: "A superfície de poros é branca a creme quando jovem e com a idade torna-se ocre, acinzentada ou castanho-pálida. Os poros são redondos a ligeiramente angulosos, cerca de 3–4 por milímetro, e os tubos têm até cerca de 6 mm de profundidade. Os basídios são claviformes, com cerca de 15–22 × 5–7 μm.",
+        stipe: "Não há pé. O corpo de frutificação é séssil e cresce diretamente da madeira.",
+        flesh: "A carne é dura, coriácea e esbranquiçada, em duas camadas: uma camada superior macia acinzentada e uma camada inferior esbranquiçada, separadas por uma linha escura fina. Os corpos de frutificação jovens cheiram ligeiramente a anis, e o sabor é suave a amargo.",
+        sporePrint: "Branca. Os esporos são cilíndricos, lisos e inamiloides, com cerca de 5,5–9 × 1,6–2,5 μm. Não há cistídios e o sistema hifálico é trimítico.",
+        habitat: "Um sapróbio que causa podridão branca na madeira morta de folhosas. Cresce, muitas vezes em grande número, em troncos, cepos, ramos caídos e troncos mortos em pé, com mais frequência de faia e bétula, raramente de coníferas. Por vezes coloniza feridas de árvores vivas. Os corpos de frutificação duros são anuais, mas persistem durante meses, pelo que a espécie pode ser encontrada durante todo o ano. Está amplamente distribuída pela Europa, Ásia e América do Norte.",
+        uses: "Não comestível: a carne é demasiado dura e coriácea para ser comida, embora o fungo não seja conhecido como venenoso. No laboratório, as suas culturas foram estudadas como fonte da enzima lacase e para transformar alcenos em aldeídos.",
+        confusion: "Trametes pubescens não tem zonas, é de cor de camurça e mais finamente pubescente, e não tem carne em camadas. Trametes versicolor tem zonas mais nítidas e é finamente aveludada em vez de grosseiramente peluda. Trametes villosa é maior, com poros angulosos semelhantes a dentes. Trametes gibbosa tem o chapéu liso. Trametes ochracea é mais zonada e colorida, e triangular em corte. Lenzites betulinus tem lâminas em vez de poros. Stereum hirsutum tem a face inferior lisa, sem poros. Trametes occidentalis é muito próxima.",
+        notes: "O nome da espécie hirsuta é a palavra latina para peludo. A cor verde dos corpos de frutificação mais velhos não é do próprio fungo, mas de uma película de algas que cresce entre os pelos. Na Dinamarca e na Noruega é comum e avaliada como pouco preocupante (Least Concern)."
+      },
+      ro: {
+        description: "O ciupercă de consolă tare și coriacee, care crește în etaje suprapuse pe lemnul mort de foioase. Pălăriile semicirculare, în formă de poliță, sunt acoperite cu peri aspri și rigizi și zonate în gri albicios, adesea verzi din cauza algelor, cu marginea brunie. Este una dintre cele mai comune ciuperci de consolă din Europa și poate fi găsită tot anul.",
+        cap: "Corpul fructifer este semicircular până la evantai, lat de 3–10 cm și se întinde de la lemn până la margine până la aproximativ 6 cm, dar la bază are doar 0,3–1 cm grosime. Este prins direct de lemn pe o parte și adesea se unește cu vecinii în rânduri suprapuse. Suprafața superioară este aspră, păroasă până la setoasă, cu șanțuri și zone concentrice. Tânăr este alb până la crem, apoi alb-cenușiu până la cenușiu, uneori gălbui sau mai închis spre margine. Pălăriile mai vechi sunt adesea înverzite de un înveliș de alge, iar marginea este adesea galben-brună. Unele exemplare ajung la 15 cm.",
+        hymenium: "Suprafața cu pori este albă până la cremă la tinerețe și devine ocru, cenușii sau brun-pal odată cu vârsta. Porii sunt rotunzi până la ușor unghiulari, aproximativ 3–4 pe milimetru, iar tuburile au până la aproximativ 6 mm adâncime. Bazidiile sunt clavate, de aproximativ 15–22 × 5–7 μm.",
+        stipe: "Nu are picior. Corpul fructifer este sesil și crește direct din lemn.",
+        flesh: "Carnea este tare, coriacee și albicioasă, în două straturi: un strat superior moale, cenușiu, și un strat inferior albicios, separate de o linie subțire închisă la culoare. Corpurile fructifere tinere miros ușor a anason, iar gustul este blând până la amar.",
+        sporePrint: "Albă. Sporii sunt cilindrici, netezi și inamiloizi, de aproximativ 5,5–9 × 1,6–2,5 μm. Nu există cistide, iar sistemul hifal este trimitic.",
+        habitat: "Un saprofit care provoacă putregai alb în lemnul mort de foioase. Crește, adesea în număr mare, pe bușteni, cioate, ramuri căzute și trunchiuri moarte în picioare, cel mai des de fag și mesteacăn, rar pe conifere. Uneori colonizează rănile arborilor vii. Corpurile fructifere tari sunt anuale, dar persistă luni de zile, așa că specia poate fi găsită tot anul. Este larg răspândită în Europa, Asia și America de Nord.",
+        uses: "Necomestibilă: carnea este mult prea tare și coriacee pentru a fi mâncată, deși ciuperca nu este cunoscută ca fiind otrăvitoare. În laborator, culturile ei au fost studiate ca sursă a enzimei lacază și pentru transformarea alchenelor în aldehide.",
+        confusion: "Trametes pubescens nu este zonată, este de culoarea pielii de căprioară și mai fin pubescentă, și nu are carne stratificată. Trametes versicolor are zone mai clare și este fin catifelată, nu aspru păroasă. Trametes villosa este mai mare, cu pori unghiulari, asemănători dinților. Trametes gibbosa are pălăria netedă. Trametes ochracea este mai zonată și mai colorată, și triunghiulară în secțiune. Lenzites betulinus are lamele în loc de pori. Stereum hirsutum are fața inferioară netedă, fără pori. Trametes occidentalis este strâns înrudită.",
+        notes: "Numele speciei hirsuta este cuvântul latin pentru păros. Culoarea verde a corpurilor fructifere mai vechi nu aparține ciupercii, ci unei pelicule de alge care crește printre peri. În Danemarca și Norvegia este comună și evaluată ca neamenințată (Least Concern)."
+      },
+      ru: {
+        description: "Жёсткий кожистый трутовик, растущий черепитчатыми рядами на мёртвой древесине лиственных пород. Полукруглые полочковидные шляпки покрыты грубыми жёсткими волосками, зонированы в беловато-серых тонах, часто зеленеют от водорослей, край буроватый. Это один из самых обычных трутовиков Европы, его можно найти круглый год.",
+        cap: "Плодовое тело полукруглое или веерообразное, шириной 3–10 см, от древесины до края выступает примерно до 6 см, а у основания его толщина всего 0,3–1 см. Одной стороной оно прикреплено прямо к древесине и часто срастается с соседними в черепитчатые ряды. Верхняя поверхность грубоволосистая до щетинистой, с концентрическими бороздками и зонами. В молодости белая или кремовая, затем беловато-серая или серая, иногда желтоватая или темнее к краю. Старые шляпки часто зеленеют из-за налёта водорослей, а край нередко жёлто-бурый. Отдельные экземпляры достигают 15 см.",
+        hymenium: "Трубчатая поверхность в молодости белая или кремовая, с возрастом становится охристой, сероватой или светло-бурой. Поры округлые или слегка угловатые, около 3–4 на миллиметр, трубочки длиной до примерно 6 мм. Базидии булавовидные, около 15–22 × 5–7 мкм.",
+        stipe: "Ножки нет. Плодовое тело сидячее и растёт прямо из древесины.",
+        flesh: "Мякоть жёсткая, кожистая и беловатая, двухслойная: мягкий сероватый верхний слой и беловатый нижний слой, разделённые тонкой тёмной линией. Молодые плодовые тела слабо пахнут анисом, вкус от мягкого до горьковатого.",
+        sporePrint: "Белый. Споры цилиндрические, гладкие, неамилоидные, около 5,5–9 × 1,6–2,5 мкм. Цистид нет, гифальная система тримитическая.",
+        habitat: "Сапротроф, вызывающий белую гниль мёртвой древесины лиственных пород. Растёт, нередко группами, на брёвнах, пнях, упавших ветвях и стоящих сухих стволах, чаще всего бука и берёзы, редко на хвойных. Иногда поселяется на ранах живых деревьев. Жёсткие плодовые тела однолетние, но сохраняются месяцами, поэтому вид можно найти круглый год. Широко распространён в Европе, Азии и Северной Америке.",
+        uses: "Несъедобен: мякоть слишком жёсткая и кожистая, чтобы её есть, хотя гриб не известен как ядовитый. В лаборатории его культуры изучали как источник фермента лакказы и для превращения алкенов в альдегиды.",
+        confusion: "Trametes pubescens без зон, палево-бурая, с более тонким опушением, мякоть не слоистая. Trametes versicolor с более чёткими зонами, тонко бархатистая, а не грубоволосистая. Trametes villosa крупнее, с угловатыми зубчатыми порами. Trametes gibbosa с гладкой шляпкой. Trametes ochracea более зонированная и яркая, в разрезе треугольная. У Lenzites betulinus вместо пор пластинки. У Stereum hirsutum нижняя поверхность гладкая, без пор. Trametes occidentalis близкородственна.",
+        notes: "Видовое название hirsuta по-латыни означает волосистый. Зелёный цвет старых плодовых тел принадлежит не самому грибу, а плёнке водорослей, растущей между волосками. В Дании и Норвегии он обычен и оценён как вид наименьшего риска (Least Concern)."
+      },
+      sr: {
+        description: "Тврда, кожаста гљива полица која расте у збијеним, црепасто наслаганим редовима на мртвом дрвету листопадних врста. Полукружни, полицама налик шешири прекривени су грубим, крутим длачицама и зонирани у беличасто сивим тоновима, често зелени од алги, са смеђкастом ивицом. То је једна од најчешћих гљива полица у Европи и може се наћи током целе године.",
+        cap: "Плодоносно тело је полукружно до лепезасто, широко 3–10 цм, од дрвета до ивице допире до око 6 цм, а при основи је дебело само 0,3–1 цм. Једном страном је причвршћено непосредно за дрво и често срасте са суседним у црепасто наслагане редове. Горња површина је грубо длакава до чекињаста, са концентричним браздама и зонама. Младо је бело до крем боје, касније беличасто сиво до сиво, понекад жућкасто или тамније према ивици. Старији шешири често позеле од превлаке алги, а ивица је често жућкастосмеђа. Поједини примерци достижу 15 цм.",
+        hymenium: "Површина са порама је у младости бела до крем, а с годинама постаје окерасто, сивкаста или бледосмеђа. Поре су округле до благо угласте, око 3–4 на милиметар, а цевчице су дугачке до око 6 мм. Базидије су батинасте, око 15–22 × 5–7 μm.",
+        stipe: "Нема дршке. Плодоносно тело је седеће и расте директно из дрвета.",
+        flesh: "Месо је тврдо, кожасто и беличасто, у два слоја: мек сивкасти горњи слој и беличасти доњи слој, раздвојени танком тамном линијом. Млада плодоносна тела слабо мирише на анис, а укус је благ до горак.",
+        sporePrint: "Бела. Споре су цилиндричне, глатке и инамилоидне, око 5,5–9 × 1,6–2,5 μm. Нема цистида, а хифни систем је тримитички.",
+        habitat: "Сапротроф који изазива белу трулеж мртвог дрвета листопадних врста. Расте, често у великом броју, на трупцима, пањевима, палим гранама и усправним мртвим стаблима, најчешће букве и брезе, ретко на четинарима. Понекад колонизује ране живих стабала. Тврда плодоносна тела су једногодишња, али опстају месецима, па се врста може наћи током целе године. Широко је распрострањена у Европи, Азији и Северној Америци.",
+        uses: "Није јестива: месо је превише тврдо и кожасто да би се јело, иако гљива није позната као отровна. У лабораторији су њене културе проучаване као извор ензима лаказа и за претварање алкена у алдехиде.",
+        confusion: "Trametes pubescens нема зоне, жућкастосмеђа и ситније пахуљаста, а месо није слојевито. Trametes versicolor има јасније зоне и ситно је баршунаста, а не грубо длакава. Trametes villosa је већа, са угластим порама налик зубима. Trametes gibbosa има гладак шешир. Trametes ochracea је више зонирана и шареније боје, а у пресеку је троугласта. Lenzites betulinus има листиће уместо пора. Stereum hirsutum има глатку доњу страну без пора. Trametes occidentalis је блиско сродна.",
+        notes: "Врсни назив hirsuta је латинска реч за длакав. Зелена боја старијих плодоносних тела не потиче од саме гљиве, већ од слоја алги који расте међу длачицама. У Данској и Норвешкој је честа и оцењена као мање забрињавајућа (Least Concern)."
+      },
+      sl: {
+        description: "Trda, usnjata luknjičarka, ki raste v prekrivajočih se vrstah na mrtvem lesu listavcev. Polkrožni, policam podobni klobuki so pokriti z grobimi, togimi dlačicami in belkasto sivo coniranimi, pogosto zeleni od alg, z rjavkastim robom. Je ena najpogostejših luknjičark v Evropi in jo je mogoče najti vse leto.",
+        cap: "Trosnjak je polkrožen do pahljačast, širok 3–10 cm in sega od lesa do roba do približno 6 cm, ob dnu pa je debel le 0,3–1 cm. Z eno stranjo je pritrjen neposredno na les in pogosto zraste s sosedi v strešasto prekrivajoče se vrste. Zgornja površina je groba, dlakava do ščetinasta, s koncentričnimi brazdami in conami. Mlad je bel do kremen, pozneje belkasto siv do siv, včasih rumenkast ali temnejši proti robu. Starejši klobuki pogosto ozelenijo zaradi prevleke alg, rob pa je pogosto rumenkasto rjav. Posamezni primerki dosežejo 15 cm.",
+        hymenium: "Površina s porami je v mladosti bela do kremna, s starostjo postane okrasta, sivkasta ali bledo rjava. Pore so okrogle do rahlo oglate, približno 3–4 na milimeter, cevke pa so dolge do približno 6 mm. Bazidiji so kijasti, približno 15–22 × 5–7 μm.",
+        stipe: "Beta ni. Trosnjak je sedeč in raste neposredno iz lesa.",
+        flesh: "Meso je trdo, usnjato in belkasto, v dveh plasteh: mehka sivkasta zgornja plast in belkasta spodnja plast, ločeni s tanko temno črto. Mladi trosnjaki rahlo dišijo po janežu, okus pa je blag do grenak.",
+        sporePrint: "Bel. Trosi so valjasti, gladki in inamiloidni, približno 5,5–9 × 1,6–2,5 μm. Cistid ni, hifni sistem pa je trimitski.",
+        habitat: "Saprotrof, ki povzroča belo trohnobo mrtvega lesa listavcev. Raste, pogosto v velikem številu, na hlodih, štorih, padlih vejah in stoječih mrtvih deblih, najpogosteje bukve in breze, redko na iglavcih. Včasih naseli rane živih dreves. Trdi trosnjaki so enoletni, a vztrajajo več mesecev, zato vrsto lahko najdemo vse leto. Je razširjena po vsej Evropi, Aziji in Severni Ameriki.",
+        uses: "Neužitna: meso je veliko pretrdo in usnjato za uživanje, čeprav goba ni znana kot strupena. V laboratoriju so njene kulture proučevali kot vir encima lakaze in za pretvorbo alkenov v aldehide.",
+        confusion: "Trametes pubescens je brez con, rumenkasto rjava in finejše dlakava, njeno meso ni plastovito. Trametes versicolor ima bolj izrazite cone in je drobno žametna, ne pa grobo dlakava. Trametes villosa je večja, z oglatimi, zobem podobnimi porami. Trametes gibbosa ima gladek klobuk. Trametes ochracea je bolj conirana in pisana, v preseku pa trikotna. Lenzites betulinus ima namesto por lamele. Stereum hirsutum ima gladko spodnjo stran brez por. Trametes occidentalis je tesno sorodna.",
+        notes: "Vrstno ime hirsuta je latinska beseda za kosmat. Zelena barva starejših trosnjakov ni barva same gobe, ampak plasti alg, ki raste med dlačicami. Na Danskem in Norveškem je pogosta in ocenjena kot najmanj ogrožena (Least Concern)."
+      },
+      es: {
+        description: "Un hongo de repisa duro y coriáceo que crece en pisos superpuestos sobre madera muerta de frondosas. Los sombreros semicirculares en forma de repisa están cubiertos de pelos ásperos y rígidos y zonados en gris blanquecino, a menudo verdes por las algas, con el margen parduzco. Es uno de los hongos de repisa más comunes de Europa y se puede encontrar durante todo el año.",
+        cap: "El cuerpo fructífero es semicircular a en abanico, de 3–10 cm de ancho y se extiende de la madera al margen hasta unos 6 cm, pero en la base tiene solo 0,3–1 cm de grosor. Está unido directamente a la madera por un lado y a menudo se fusiona con sus vecinos en filas superpuestas. La superficie superior es áspera y peluda a hirsuta, con surcos y zonas concéntricas. De joven es blanca a crema, luego gris blanquecina a gris, a veces amarillenta o más oscura hacia el margen. Los sombreros más viejos suelen volverse verdosos por una cubierta de algas, y el margen suele ser pardo amarillento. Algunos ejemplares alcanzan los 15 cm.",
+        hymenium: "La superficie con poros es blanca a crema de joven y con la edad se vuelve ocre, grisácea o pardo pálida. Los poros son redondos a algo angulosos, de unos 3–4 por milímetro, y los tubos miden hasta unos 6 mm de profundidad. Los basidios son claviformes, de unos 15–22 × 5–7 μm.",
+        stipe: "No hay pie. El cuerpo fructífero es sésil y crece directamente de la madera.",
+        flesh: "La carne es dura, coriácea y blanquecina, en dos capas: una capa superior blanda grisácea y una capa inferior blanquecina, separadas por una línea oscura fina. Los cuerpos fructíferos jóvenes huelen ligeramente a anís, y el sabor es suave a amargo.",
+        sporePrint: "Blanca. Las esporas son cilíndricas, lisas e inamiloides, de unos 5,5–9 × 1,6–2,5 μm. No hay cistidios y el sistema hifal es trimítico.",
+        habitat: "Un saprótrofo que causa podredumbre blanca en la madera muerta de frondosas. Crece, a menudo en gran número, sobre troncos, tocones, ramas caídas y troncos muertos en pie, con más frecuencia de haya y abedul, rara vez de coníferas. A veces coloniza heridas de árboles vivos. Los cuerpos fructíferos duros son anuales pero persisten durante meses, por lo que la especie se puede encontrar todo el año. Está ampliamente distribuida por Europa, Asia y Norteamérica.",
+        uses: "No comestible: la carne es demasiado dura y coriácea para comerla, aunque el hongo no se conoce como venenoso. En el laboratorio, sus cultivos se han estudiado como fuente de la enzima lacasa y para transformar alquenos en aldehídos.",
+        confusion: "Trametes pubescens no tiene zonas, es de color ante y más finamente pubescente, y no tiene la carne en capas. Trametes versicolor tiene zonas más nítidas y es finamente aterciopelada en lugar de áspera y peluda. Trametes villosa es más grande, con poros angulosos parecidos a dientes. Trametes gibbosa tiene el sombrero liso. Trametes ochracea es más zonada y colorida, y triangular en sección. Lenzites betulinus tiene láminas en lugar de poros. Stereum hirsutum tiene la cara inferior lisa, sin poros. Trametes occidentalis es muy cercana.",
+        notes: "El nombre de la especie hirsuta es la palabra latina para peludo. El color verde de los cuerpos fructíferos más viejos no es del propio hongo, sino de una película de algas que crece entre los pelos. En Dinamarca y Noruega es común y está evaluada como de preocupación menor (Least Concern)."
+      },
+      sv: {
+        description: "En seg, läderartad fnösksvamp som växer i överlappande våningar på död lövved. De halvcirkelformade, hyllformade hattarna är täckta av grova, styva hår och zonerade i vitaktigt grått, ofta gröna av alger, med brunaktig kant. Den är en av de vanligaste fnösksvamparna i Europa och kan hittas året runt.",
+        cap: "Fruktkroppen är halvcirkelformad till solfjädersformad, 3–10 cm bred och sträcker sig från veden ut till kanten upp till cirka 6 cm, men är bara 0,3–1 cm tjock vid basen. Den sitter direkt på veden med ena sidan och växer ofta samman med grannarna i överlappande rader. Ovansidan är grovt hårig till borstig, med koncentriska fåror och zoner. Som ung är den vit till gräddfärgad, senare vitgrå till grå, ibland gulaktig eller mörkare mot kanten. Äldre hattar är ofta grönaktiga av ett algöverdrag, och kanten är ofta gulbrun. Enstaka exemplar blir 15 cm.",
+        hymenium: "Porytan är vit till gräddfärgad som ung och blir med åldern ockrafärgad, gråaktig eller blekbrun. Porerna är runda till svagt kantiga, cirka 3–4 per millimeter, och rören är upp till cirka 6 mm långa. Basidierna är klubbformade, cirka 15–22 × 5–7 μm.",
+        stipe: "Det finns ingen fot. Fruktkroppen är sittande och växer direkt ur veden.",
+        flesh: "Köttet är segt, läderartat och vitaktigt, i två lager: ett mjukt gråaktigt övre lager och ett vitaktigt undre lager, åtskilda av en tunn mörk linje. Unga fruktkroppar luktar svagt av anis, och smaken är mild till bitter.",
+        sporePrint: "Vitt. Sporerna är cylindriska, släta och inamyloida, cirka 5,5–9 × 1,6–2,5 μm. Det finns inga cystider, och hyfsystemet är trimitiskt.",
+        habitat: "En saprotrof som orsakar vitröta i död lövved. Den växer, ofta i stora mängder, på stockar, stubbar, nedfallna grenar och stående döda stammar, oftast av bok och björk, sällan på barrträd. Ibland etablerar den sig i sår på levande träd. De sega fruktkropparna är ettåriga men sitter kvar i månader, så arten kan hittas året runt. Den är vida utbredd i Europa, Asien och Nordamerika.",
+        uses: "Oätlig: köttet är alldeles för segt och läderartat för att ätas, men svampen är inte känd som giftig. I laboratoriet har dess kulturer studerats som källa till enzymet lackas och för att omvandla alkener till aldehyder.",
+        confusion: "Trametes pubescens är ozonerad, ockrabrun och finare dunhårig, och saknar skiktat kött. Trametes versicolor är tydligare zonerad och finsammetig i stället för grovhårig. Trametes villosa är större, med kantiga, tandlika porer. Trametes gibbosa har slät hatt. Trametes ochracea är mer zonerad och färgrik och triangulär i genomskärning. Lenzites betulinus har skivor i stället för porer. Stereum hirsutum har slät undersida utan porer. Trametes occidentalis är nära släkt.",
+        notes: "Artnamnet hirsuta är latin för hårig. Den gröna färgen på äldre fruktkroppar kommer inte från svampen själv utan från en hinna av alger som växer bland håren. I Danmark och Norge är den vanlig och bedömd som livskraftig (Least Concern)."
+      },
+      tr: {
+        description: "Geniş yapraklı ağaçların ölü odununda üst üste binen katlar hâlinde büyüyen, sert ve deri gibi bir raf mantarı. Yarım daire biçimli, raf şeklindeki şapkalar kaba ve sert tüylerle kaplıdır, beyazımsı gri kuşaklıdır, çoğu zaman alglerden yeşil görünür ve kenarı kahverengimsidir. Avrupa'nın en yaygın raf mantarlarından biridir ve yıl boyunca bulunabilir.",
+        cap: "Meyve gövdesi yarım daire biçiminden yelpaze biçimine kadardır, 3–10 cm genişliğinde olup odundan kenara doğru yaklaşık 6 cm uzanır, ancak tabanda yalnızca 0,3–1 cm kalınlığındadır. Bir kenarıyla doğrudan oduna tutunur ve çoğu zaman komşularıyla üst üste binen sıralar hâlinde kaynaşır. Üst yüzeyi kaba tüylüden kıllıya kadardır, eş merkezli oluklar ve kuşaklar taşır. Gençken beyazdan krem rengine, sonra beyazımsı griden griye döner, bazen sarımsı ya da kenara doğru daha koyudur. Yaşlı şapkalar çoğunlukla alg tabakasıyla yeşilimsi olur, kenar sıklıkla sarımsı kahverengidir. Bazı örnekler 15 cm'ye ulaşır.",
+        hymenium: "Gözenekli yüzey gençken beyazdan krem rengine, yaşlandıkça koyu sarı, grimsi ya da soluk kahverengiye döner. Gözenekler yuvarlaktan hafif köşeliye kadardır, milimetrede yaklaşık 3–4 tanedir ve tüpler yaklaşık 6 mm derinliğe kadar uzanır. Bazidiyumlar topuz biçimlidir, yaklaşık 15–22 × 5–7 μm boyutundadır.",
+        stipe: "Sap yoktur. Meyve gövdesi oturgandır ve doğrudan odundan çıkar.",
+        flesh: "Et sert, deri gibi ve beyazımsıdır, iki katmanlıdır: yumuşak, grimsi bir üst katman ve beyazımsı bir alt katman, ince koyu bir çizgiyle ayrılır. Genç meyve gövdeleri hafif anason kokar, tadı yumuşaktan acıya kadardır.",
+        sporePrint: "Beyaz. Sporlar silindirik, düz ve inamiloittir, yaklaşık 5,5–9 × 1,6–2,5 μm boyutundadır. Sistid yoktur ve hif sistemi trimitiktir.",
+        habitat: "Geniş yapraklı ağaçların ölü odununda beyaz çürüklüğe yol açan bir saprofittir. Genellikle çok sayıda hâlinde kütüklerde, kesik gövdelerde, düşmüş dallarda ve ayakta duran ölü gövdelerde, çoğunlukla kayın ve huşta, nadiren iğne yapraklılarda büyür. Bazen canlı ağaçların yaralarına yerleşir. Sert meyve gövdeleri tek yıllıktır ancak aylarca kalır, bu nedenle tür yıl boyunca bulunabilir. Avrupa, Asya ve Kuzey Amerika'da yaygındır.",
+        uses: "Yenmez: eti yemek için fazlasıyla sert ve deri gibidir, ancak mantarın zehirli olduğu bilinmemektedir. Laboratuvarda kültürleri lakkaz enziminin kaynağı olarak ve alkenlerin aldehitlere dönüştürülmesi için incelenmiştir.",
+        confusion: "Trametes pubescens kuşaksızdır, devetüyü renklidir ve daha ince tüylüdür, eti katmanlı değildir. Trametes versicolor kuşakları daha belirgindir ve kaba tüylü değil, ince kadifemsidir. Trametes villosa daha büyüktür, köşeli, diş benzeri gözenekleri vardır. Trametes gibbosa'nın şapkası düzdür. Trametes ochracea daha kuşaklı ve renklidir, kesitte üçgendir. Lenzites betulinus'ta gözenek yerine lameller vardır. Stereum hirsutum'un alt yüzü düzdür ve gözeneksizdir. Trametes occidentalis yakın akrabasıdır.",
+        notes: "Tür adı hirsuta Latince'de tüylü anlamına gelir. Yaşlı meyve gövdelerinin yeşil rengi mantarın kendisinden değil, tüylerin arasında büyüyen alg tabakasındandır. Danimarka ve Norveç'te yaygındır ve asgari endişe (Least Concern) olarak değerlendirilmiştir."
+      },
+      uk: {
+        description: "Твердий шкірястий трутовик, що росте черепичастими рядами на мертвій деревині листяних порід. Напівкруглі поличкоподібні капелюшки вкриті грубими жорсткими волосками, зоновані в білувато-сірих тонах, часто зеленіють від водоростей, край буруватий. Це один із найпоширеніших трутовиків Європи, його можна знайти цілий рік.",
+        cap: "Плодове тіло напівкругле або віялоподібне, завширшки 3–10 см, від деревини до краю сягає приблизно 6 см, а в основі його товщина лише 0,3–1 см. Одним боком воно прикріплене прямо до деревини й часто зростається із сусідніми в черепичасті ряди. Верхня поверхня грубоволосиста до щетинистої, з концентричними борозенками й зонами. У молодості біла або кремова, потім білувато-сіра або сіра, іноді жовтувата або темніша до краю. Старі капелюшки часто зеленіють через наліт водоростей, а край нерідко жовто-бурий. Окремі екземпляри сягають 15 см.",
+        hymenium: "Трубчаста поверхня в молодості біла або кремова, з віком стає охристою, сіруватою або світло-бурою. Пори округлі або злегка кутасті, близько 3–4 на міліметр, трубочки завдовжки до приблизно 6 мм. Базидії булавоподібні, близько 15–22 × 5–7 мкм.",
+        stipe: "Ніжки немає. Плодове тіло сидяче й росте прямо з деревини.",
+        flesh: "М'якуш жорсткий, шкірястий і білуватий, двошаровий: м'який сіруватий верхній шар і білуватий нижній шар, розділені тонкою темною лінією. Молоді плодові тіла слабо пахнуть анісом, смак від м'якого до гіркуватого.",
+        sporePrint: "Білий. Спори циліндричні, гладенькі, неамілоїдні, близько 5,5–9 × 1,6–2,5 мкм. Цистид немає, гіфальна система тримітична.",
+        habitat: "Сапротроф, що спричиняє білу гниль мертвої деревини листяних порід. Росте, нерідко групами, на колодах, пнях, впалих гілках і стоячих сухих стовбурах, найчастіше бука і берези, рідко на хвойних. Іноді оселяється на ранах живих дерев. Тверді плодові тіла однорічні, але зберігаються місяцями, тому вид можна знайти цілий рік. Широко поширений у Європі, Азії та Північній Америці.",
+        uses: "Неїстівний: м'якуш занадто жорсткий і шкірястий, щоб його їсти, хоча гриб не відомий як отруйний. У лабораторії його культури вивчали як джерело ферменту лакази та для перетворення алкенів на альдегіди.",
+        confusion: "Trametes pubescens без зон, паляво-бура, з тоншим опушенням, м'якуш не шаруватий. Trametes versicolor із чіткішими зонами, тонко оксамитова, а не грубоволосиста. Trametes villosa більша, з кутастими зубчастими порами. Trametes gibbosa з гладеньким капелюшком. Trametes ochracea більш зонована й яскрава, у розрізі трикутна. У Lenzites betulinus замість пор пластинки. У Stereum hirsutum нижня поверхня гладенька, без пор. Trametes occidentalis близькоспоріднена.",
+        notes: "Видова назва hirsuta латиною означає волосистий. Зелений колір старих плодових тіл належить не самому грибу, а плівці водоростей, що росте між волосками. У Данії та Норвегії він звичайний і оцінений як вид найменшого ризику (Least Concern)."
+      }
+    },
+    sources: {
+      en: [
+        {
+          "group": "name",
+          "name": "First Nature",
+          "href": "https://www.first-nature.com/fungi/trametes-hirsuta.php"
+        },
+        {
+          "group": "name",
+          "name": "MushroomExpert.Com",
+          "href": "https://www.mushroomexpert.com/trametes_hirsuta.html"
+        },
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://en.wikipedia.org/wiki/Trametes_hirsuta"
+        },
+        {
+          "group": "name",
+          "name": "Index Fungorum",
+          "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=531523",
+          "detail": "531523"
+        },
+        {
+          "group": "name",
+          "name": "Species Fungorum",
+          "href": "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=531523",
+          "detail": "531523"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8032257",
+          "detail": "8032257"
+        }
+      ],
+      sk: [
+        {
+          "group": "text",
+          "name": "Hlásek Fungi",
+          "href": "https://www.hlasek.com/trametes_hirsuta_al9423.html",
+          "detail": "trúdnikovec chlpatý"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8032257",
+          "detail": "8032257"
+        }
+      ],
+      ar: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8032257",
+          "detail": "8032257"
+        }
+      ],
+      bg: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8032257",
+          "detail": "8032257"
+        }
+      ],
+      zh: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://zh.wikipedia.org/wiki/%E6%AF%9B%E6%A0%93%E5%AD%94%E8%8F%8C"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8032257",
+          "detail": "8032257"
+        }
+      ],
+      hr: [
+        {
+          "group": "text",
+          "name": "CROmushrooms",
+          "href": "https://www.cromushrooms.eu/index.php/pregled-vrsta?id=590&option=com_content&view=article",
+          "detail": "čekinjasta raznocijevka"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8032257",
+          "detail": "8032257"
+        }
+      ],
+      cs: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://cs.wikipedia.org/wiki/Outkovka_chlupat%C3%A1"
+        },
+        {
+          "group": "text",
+          "name": "Stromopedie",
+          "href": "https://stromopedie.cz/atlas/outkovka-chlupata",
+          "detail": "outkovka chlupatá"
+        },
+        {
+          "group": "text",
+          "name": "Hlásek Fungi",
+          "href": "https://www.hlasek.com/trametes_hirsuta_al9423.html"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8032257",
+          "detail": "8032257"
+        }
+      ],
+      da: [
+        {
+          "group": "text",
+          "name": "Den danske Rødliste",
+          "href": "https://roedliste.au.dk/data.asp?ID=1979&gruppeID=86",
+          "detail": "håret læderporesvamp"
+        },
+        {
+          "group": "text",
+          "name": "Hlásek Fungi",
+          "href": "https://www.hlasek.com/trametes_hirsuta_al9423.html"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8032257",
+          "detail": "8032257"
+        }
+      ],
+      nl: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://nl.wikipedia.org/wiki/Ruig_elfenbankje"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8032257",
+          "detail": "8032257"
+        }
+      ],
+      et: [
+        {
+          "group": "text",
+          "name": "Vikipeedia",
+          "href": "https://et.wikipedia.org/wiki/Vill-tagel"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8032257",
+          "detail": "8032257"
+        }
+      ],
+      fi: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://fi.wikipedia.org/wiki/Karvavy%C3%B6k%C3%A4%C3%A4p%C3%A4"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8032257",
+          "detail": "8032257"
+        }
+      ],
+      fr: [
+        {
+          "group": "text",
+          "name": "Hlásek Fungi",
+          "href": "https://www.hlasek.com/trametes_hirsuta_al9423.html"
+        },
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://fr.wikipedia.org/wiki/Trametes_hirsuta"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8032257",
+          "detail": "8032257"
+        }
+      ],
+      de: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://de.wikipedia.org/wiki/Striegelige_Tramete"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8032257",
+          "detail": "8032257"
+        }
+      ],
+      he: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8032257",
+          "detail": "8032257"
+        }
+      ],
+      hi: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8032257",
+          "detail": "8032257"
+        }
+      ],
+      hu: [
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://hu.wikipedia.org/wiki/Borost%C3%A1s_egyr%C3%A9t%C5%B1tapl%C3%B3"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8032257",
+          "detail": "8032257"
+        }
+      ],
+      id: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8032257",
+          "detail": "8032257"
+        }
+      ],
+      it: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://it.wikipedia.org/wiki/Trametes_hirsuta"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8032257",
+          "detail": "8032257"
+        }
+      ],
+      ja: [
+        {
+          "group": "text",
+          "name": "三河の植物観察",
+          "href": "https://mikawanoyasou.org/kinoko/aragekawaratake.htm",
+          "detail": "アラゲカワラタケ"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8032257",
+          "detail": "8032257"
+        }
+      ],
+      ko: [
+        {
+          "group": "text",
+          "name": "흰구름송편버섯",
+          "href": "https://kheenn.tistory.com/15861816",
+          "detail": "흰구름송편버섯"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8032257",
+          "detail": "8032257"
+        }
+      ],
+      lv: [
+        {
+          "group": "text",
+          "name": "Latvijas sēnes",
+          "href": "https://www.senes.lv/species/trametes_hirsuta.htm",
+          "detail": "sarainā tauriņpiepe"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8032257",
+          "detail": "8032257"
+        }
+      ],
+      lt: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://lt.wikipedia.org/wiki/%C5%A0iurk%C5%A1%C4%8Dioji_kemp%C4%97"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8032257",
+          "detail": "8032257"
+        }
+      ],
+      no: [
+        {
+          "group": "name",
+          "name": "Artsdatabanken",
+          "href": "https://artsdatabanken.no/arter/takson/147283",
+          "detail": "raggkjuke"
+        },
+        {
+          "group": "text",
+          "name": "Store norske leksikon",
+          "href": "https://snl.no/raggkjuke",
+          "detail": "raggkjuke"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8032257",
+          "detail": "8032257"
+        }
+      ],
+      fa: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8032257",
+          "detail": "8032257"
+        }
+      ],
+      pl: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://pl.wikipedia.org/wiki/Wro%C5%9Bniak_szorstki"
+        },
+        {
+          "group": "text",
+          "name": "Grzyby.pl",
+          "href": "https://www.grzyby.pl/gatunki/Trametes_hirsuta.htm",
+          "detail": "wrośniak szorstki"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8032257",
+          "detail": "8032257"
+        }
+      ],
+      pt: [
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://pt.wikipedia.org/wiki/Trametes_hirsuta"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8032257",
+          "detail": "8032257"
+        }
+      ],
+      ro: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://ro.wikipedia.org/wiki/Trametes_hirsuta"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8032257",
+          "detail": "8032257"
+        }
+      ],
+      ru: [
+        {
+          "group": "text",
+          "name": "Википедия",
+          "href": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D0%B5%D1%81_%D0%B6%D1%91%D1%81%D1%82%D0%BA%D0%BE%D0%B2%D0%BE%D0%BB%D0%BE%D1%81%D0%B8%D1%81%D1%82%D1%8B%D0%B9"
+        },
+        {
+          "group": "text",
+          "name": "Грибы России",
+          "href": "https://www.mushrooms.su/ru/trametes_hirsuta.htm",
+          "detail": "траметес жёстковолосистый"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8032257",
+          "detail": "8032257"
+        }
+      ],
+      sr: [
+        {
+          "group": "text",
+          "name": "Википедија",
+          "href": "https://sr.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B2%D0%B0_%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D1%86%D0%B5%D0%B2%D0%BA%D0%B0"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8032257",
+          "detail": "8032257"
+        }
+      ],
+      sl: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://sl.wikipedia.org/wiki/Nakosmatena_ploskocevka"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8032257",
+          "detail": "8032257"
+        }
+      ],
+      es: [
+        {
+          "group": "text",
+          "name": "Fungipedia",
+          "href": "https://www.fungipedia.org/hongos/trametes-hirsuta.html",
+          "detail": "yesquero blanco peludo"
+        },
+        {
+          "group": "text",
+          "name": "El medi natural del Bages",
+          "href": "https://elmedinaturaldelbages.cat/es/species/yesquero-blanco-hirsuto-trametes-hirsuta-es/",
+          "detail": "yesquero blanco peludo"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8032257",
+          "detail": "8032257"
+        }
+      ],
+      sv: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://sv.wikipedia.org/wiki/Borstticka"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8032257",
+          "detail": "8032257"
+        }
+      ],
+      tr: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8032257",
+          "detail": "8032257"
+        }
+      ],
+      uk: [
+        {
+          "group": "text",
+          "name": "Світ грибів України",
+          "href": "https://gribi.net.ua/uk/trametes-hirsuta/",
+          "detail": "траметес жорстковолосистий"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/8032257",
+          "detail": "8032257"
+        }
+      ]
+    },
+    synonyms: [
+      "Boletus hirsutus Wulfen",
+      "Polyporus hirsutus (Wulfen) Fr.",
+      "Polystictus hirsutus (Wulfen) Fr.",
+      "Hansenia hirsuta (Wulfen) P.Karst.",
+      "Bjerkandera hirsuta (Wulfen) Thüm.",
+      "Coriolus hirsutus (Wulfen) Pat.",
+      "Microporus hirsutus (Wulfen) Kuntze",
+      "Polystictoides hirsutus (Wulfen) Lázaro Ibiza",
+      "Boletus velutinus J.J.Planer",
+      "Boletus fibula Sowerby",
+      "Polyporus fibula (Sowerby) Fr.",
+      "Polystictus fibula (Sowerby) Cooke",
+      "Coriolus fibula (Sowerby) Quél.",
+      "Microporus fibula (Sowerby) Kuntze",
+      "Boletus nigromarginatus Schwein.",
+      "Polyporus nigromarginatus (Schwein.) Steud.",
+      "Microporus nigromarginatus (Schwein.) Kuntze",
+      "Coriolus nigromarginatus (Schwein.) Murrill",
+      "Polystictus nigromarginatus (Schwein.) P.W.Graff",
+      "Polyporus peltatus Pers.",
+      "Polyporellus peltatus (Pers.) P.Karst.",
+      "Scenidium peltatum (Pers.) Kuntze",
+      "Polyporus vellereus Berk.",
+      "Polystictus vellereus (Berk.) Fr.",
+      "Hansenia vellerea (Berk.) P.Karst.",
+      "Microporus vellereus (Berk.) Kuntze",
+      "Coriolus vellereus (Berk.) Pat.",
+      "Polyporus galbanatus Berk.",
+      "Polystictus galbanatus (Berk.) Cooke",
+      "Microporus galbanatus (Berk.) Kuntze",
+      "Polyporus cinerascens Lév.",
+      "Polystictus cinerascens (Lév.) Cooke",
+      "Polyporus cinereus Lév.",
+      "Polyporus gourliei Berk.",
+      "Fomes gourliei (Berk.) Cooke",
+      "Scindalma gourliei (Berk.) Kuntze",
+      "Trametes porioides Lázaro Ibiza",
+      "Polyporus fagicola Velen."
     ]
   }
 ];
