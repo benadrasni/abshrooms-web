@@ -76250,4 +76250,783 @@ export const CATALOG = [
       "Coprinus floridanus Murrill"
     ]
   }
+,
+  {
+    id: 94,
+    name: "Cyathus striatus",
+    author: "Willd.",
+    family: "Nidulariaceae",
+    genus: "Cyathus",
+    order: "Agaricales",
+    edibility: "inedible",
+    hymenium: "gleba",
+    where: [
+      "wood"
+    ],
+    color: [
+      "brown",
+      "dark"
+    ],
+    path: [
+      "Fungi",
+      "Dikarya",
+      "Basidiomycota",
+      "Agaricomycotina",
+      "Agaricomycetes",
+      "Agaricomycetidae",
+      "Agaricales",
+      "Nidulariaceae",
+      "Cyathus"
+    ],
+    summary: [
+      "Agaricales",
+      "Nidulariaceae",
+      "Cyathus"
+    ],
+    added: "2026-11-02",
+    plate: STORAGE + "photos/Agaricales/Nidulariaceae/Cyathus_striatus/Cyathus_striatus@1600.webp",
+    plateGrid: STORAGE + "photos/Agaricales/Nidulariaceae/Cyathus_striatus/Cyathus_striatus@400.webp",
+    plateCredit: {
+      author: "L. Dufour",
+      license: "public domain",
+      source: "https://www.biodiversitylibrary.org/page/3270863"
+    },
+    photos: [
+      {
+        src: STORAGE + "photos/Agaricales/Nidulariaceae/Cyathus_striatus/cs1.webp",
+        author: "John Roper",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:2012-10-22_Cyathus_striatus_(Huds.)_Willd_274333.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Nidulariaceae/Cyathus_striatus/cs2.webp",
+        author: "Björn S.",
+        license: "CC BY-SA 2.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0",
+        source: "https://commons.wikimedia.org/wiki/File:Cyathus_striatus_(29143848376).jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Nidulariaceae/Cyathus_striatus/cs3.webp",
+        author: "Lukas Large",
+        license: "CC BY-SA 2.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0",
+        source: "https://commons.wikimedia.org/wiki/File:Cyathus_striatus_(27109681260).jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Nidulariaceae/Cyathus_striatus/cs4.webp",
+        author: "DidierFy",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Cyathus_striatus_08.2024_(1).jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Nidulariaceae/Cyathus_striatus/cs5.webp",
+        author: "Hagen Graebner",
+        license: "CC BY 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Cryathusstriatus3.jpg"
+      }
+    ],
+    capFrom: 0.4,
+    capTo: 1.5,
+    fruitingFrom: 6,
+    fruitingTo: 12,
+    label: {
+      en: "fluted bird's nest",
+      sk: "čiaškovec pásikavý",
+      cs: "číšenka rýhovaná",
+      de: "Gestreifter Teuerling",
+      fr: "cyathe strié",
+      pl: "kubek prążkowany",
+      hu: "csíkos pohárgomba",
+      uk: "келишки смугасті",
+      nl: "Gestreept nestzwammetje",
+      da: "stribet redesvamp",
+      sv: "strimmig brödkorgssvamp",
+      no: "stripebrødkorg",
+      fi: "uurrepesäsieni",
+      et: "joonik-vakkseen",
+      lv: "svītrainā kausenīte",
+      lt: "rievėtoji miegė",
+      sl: "črtkani košek",
+      sr: "пругаста корпица",
+      ro: "cupița pământului",
+      bg: "обикновен циатус",
+      ja: "スジチャダイゴケ",
+      zh: "隆紋黑蛋巢菌"
+    },
+    names: {
+      en: [
+        "fluted bird's nest fungus"
+      ],
+      pl: [
+        "kubecznik porysowany",
+        "pucharek prążkowany"
+      ],
+      sr: [
+        "птичије гнездо"
+      ],
+      ro: [
+        "ferdela pământului",
+        "muierța pământului"
+      ],
+      bg: [
+        "набраздена чашка"
+      ]
+    },
+    text: {
+      en: {
+        description: "A small saprotrophic fungus of dead twigs, fallen branches, and wood chips. It is widespread in temperate Europe, including Slovakia, and in Asia and North America, and it is also recorded in Central America, South America, and New Zealand.",
+        cap: "The fruit body is a cup, usually 7–10 mm high and 6–8 mm wide, and from about 5–16 mm high and 4–15 mm across. It starts club-shaped to narrowly obconic and is closed by a thin whitish membrane. The membrane tears and leaves small scraps on the rim as the cup opens into a vase or funnel with a narrowed base. The outside is grey-buff, brown, rusty brown, or blackish brown, and shaggy, with hairs that mostly point downward. The inside is grey, shiny, and strongly grooved, especially in the upper half.",
+        hymenium: "There are no gills. The spores form inside the peridioles, the eggs that sit in the cup. A cup holds about ten to sixteen of them. They are lenticular, 1–2 mm wide, and pale grey to silvery grey, sometimes whitish while a thin outer coat remains, and pressure from their neighbours can make them look angular. Each is tied to the inner wall by a cord, the funiculus. The basidia are club-shaped, with long stalks, and usually bear four spores seated directly on the basidium.",
+        stipe: "There is no stipe. The cup sits on a pad of hyphae, often about 8–12 mm across, that holds it to the wood.",
+        flesh: "The wall is thin and tough to hard, and brown. Smell and taste are not distinctive.",
+        sporePrint: "White to colourless. The spores are hyaline, smooth, thick-walled, and ellipsoid, often notched at one end, about 12–22 × 7–12 μm.",
+        habitat: "Fruit bodies grow scattered or in dense groups on fallen twigs, branches, and other woody debris of broadleaf and conifer trees, including oak, beech, spruce, maple, and hornbeam, and on wood chips and other plant remains, in woods and in the open. They fruit from June into December: June to November through Central Europe, August to December in Slovakia, and summer and autumn in Britain and North America.",
+        notes: "A raindrop that lands in the cup splashes the peridioles out. The cord uncoils, and a sticky end can catch on nearby vegetation so the peridiole is left hanging there. The fungus produces striatins, compounds with antibiotic activity.",
+        confusion: "Cyathus olla has a smooth interior and a less shaggy outside, and it grows more often in the open. Cyathus stercoreus also has a smooth interior and grows on dung or manured ground. Crucibulum laeve has a yellow to orange lid, an ochre-yellow felted outside, a smooth pale inside, and pale ochre to white peridioles."
+      },
+      sk: {
+        description: "Drobná saprotrofná huba odumretých konárikov, spadnutých vetiev a drevných štiepok. Je rozšírená v miernom pásme Európy vrátane Slovenska, v Ázii a v Severnej Amerike a zaznamenaná je aj v Strednej Amerike, Južnej Amerike a na Novom Zélande.",
+        cap: "Klobúk je pohárik, zvyčajne vysoký 7–10 mm a široký 6–8 mm a celkovo asi 5–16 mm vysoký a 4–15 mm široký. Za mladi je kyjačikovitý až úzko obrátene kužeľovitý a uzatvára ho tenká belavá blana. Blana sa trhá a na okraji zanecháva drobné zvyšky, keď sa klobúk otvára do vázy alebo lievika so zúženou bázou. Vonkajšok je sivobéžový, hnedý, hrdzavohnedý alebo čiernohnedý a chlpatý, s chlpmi, ktoré väčšinou smerujú nadol. Vnútro je sivé, lesklé a výrazne ryhované, najmä v hornej polovici.",
+        hymenium: "Lupene chýbajú. Výtrusy vznikajú vo vnútri peridiol, vajíčok, ktoré sedia v poháriku. V jednom poháriku ich býva asi desať až šestnásť. Sú šošovicovité, široké 1–2 mm, svetlosivé až striebristosivé, niekedy belavé, kým ostáva tenký vonkajší obal, a tlak susedných ich môže urobiť hranatými. Každá je k vnútornej stene priviazaná šnúrkou (funiculus). Bazídiá sú kyjačikovité, s dlhými stopkami, a zvyčajne nesú štyri výtrusy nasadené priamo na bazídiu.",
+        stipe: "Hlúbik chýba. Pohárik sedí na vankúši hýf, často asi 8–12 mm širokom, ktorý ho drží na dreve.",
+        flesh: "Dužina steny je tenká a tuhá až tvrdá a hnedá. Vôňa a chuť nie sú výrazné.",
+        sporePrint: "Výtrusný prach je biely až bezfarebný. Výtrusy sú hyalínne, hladké, hrubostenné a elipsoidné, často na jednom konci vykrojené, asi 12–22 × 7–12 μm.",
+        habitat: "Plodnice rastú roztrúsene alebo v hustých skupinách na spadnutých konárikoch, vetvách a inom drevenom odpade listnatých aj ihličnatých drevín, vrátane duba, buka, smreka, javora a hrabu, aj na drevných štiepkach a iných rastlinných zvyškoch, v lese aj na otvorenom mieste. Objavujú sa od júna do decembra: od júna do novembra v strednej Európe, od augusta do decembra na Slovensku a v lete a na jeseň v Británii a v Severnej Amerike.",
+        notes: "Dažďová kvapka, ktorá dopadne do pohárika, vyšplechne peridioly von. Šnúrka sa rozvinie a lepkavý koniec sa môže zachytiť na blízkej vegetácii, takže peridiola ostane visieť. Huba tvorí striatíny, zlúčeniny s antibiotickým účinkom.",
+        confusion: "Cyathus olla má hladké vnútro a menej chlpatý vonkajšok a rastie častejšie na otvorených miestach. Cyathus stercoreus má tiež hladké vnútro a rastie na truse alebo na hnojenej pôde. Crucibulum laeve má žlté až oranžové viečko, okrovožltý plstnatý vonkajšok, hladké svetlé vnútro a svetlookrové až biele peridioly."
+      },
+      cs: {
+        description: "Malá saprotrofní houba odumřelých větviček, spadlých větví a dřevní štěpky. Je rozšířená v mírném pásu Evropy včetně Slovenska i v Asii a Severní Americe a je zaznamenána také ve Střední Americe, v Jižní Americe a na Novém Zélandu.",
+        cap: "Klobouk má podobu číšky a bývá obvykle 7–10 mm vysoký a 6–8 mm široký, celkově asi 5–16 mm vysoký a 4–15 mm široký. Zpočátku je kyjovitý až úzce obráceně kuželovitý a uzavírá ho tenká bělavá blána. Blána se trhá a na okraji zanechává drobné útržky, když se klobouk otevírá do vázy nebo nálevky se zúženou bází. Vnějšek je šedobéžový, hnědý, rezavě hnědý nebo černohnědý a chlupatý, s chlupy, které většinou směřují dolů. Vnitřek je šedý, lesklý a silně rýhovaný, zvláště v horní polovině.",
+        hymenium: "Lupeny chybějí. Výtrusy se tvoří uvnitř peridiol, vajíček, která sedí v číšce. V jedné číšce jich bývá asi deset až šestnáct. Jsou čočkovité, 1–2 mm široké, světle šedé až stříbřitě šedé, někdy bělavé, dokud zůstává tenký vnější obal, a tlak sousedních je může dělat hranatými. Každá je k vnitřní stěně připoutána provazcem (funiculus). Bazidie jsou kyjovité, s dlouhými stopkami, a obvykle nesou čtyři výtrusy nasazené přímo na bazidii.",
+        stipe: "Třeň chybí. Číška sedí na polštáři hyf, často asi 8–12 mm širokém, který ji drží na dřevě.",
+        flesh: "Dužnina stěny je tenká a tuhá až tvrdá a hnědá. Vůně a chuť nejsou výrazné.",
+        sporePrint: "Výtrusný prach je bílý až bezbarvý. Výtrusy jsou hyalinní, hladké, tlustostěnné a elipsoidní, často na jednom konci vykrojené, asi 12–22 × 7–12 μm.",
+        habitat: "Plodnice rostou roztroušeně nebo v hustých skupinách na spadlých větvičkách, větvích a jiném dřevním odpadu listnatých i jehličnatých dřevin, včetně dubu, buku, smrku, javoru a habru, a na dřevní štěpce a jiných rostlinných zbytcích, v lese i na otevřeném místě. Objevují se od června do prosince: od června do listopadu ve střední Evropě, od srpna do prosince na Slovensku a v létě a na podzim v Británii a v Severní Americe.",
+        notes: "Dešťová kapka, která dopadne do plodnice, vyšplíchne peridioly ven. Provazec se rozvine a lepkavý konec se může zachytit na blízké vegetaci, takže peridiola zůstane viset. Houba tvoří striatiny, sloučeniny s antibiotickým účinkem.",
+        confusion: "Číšenka hrnečková (Cyathus olla) má hladké vnitřní stěny a méně chlupatý vnějšek a roste častěji na otevřených místech. Číšenka výkalová (Cyathus stercoreus) má také hladké vnitřní stěny a roste na trusu nebo na hnojené půdě. Pohárovka obecná (Crucibulum laeve) má žluté až oranžové víčko, okrově žlutý plstnatý vnějšek, hladké světlé vnitřní stěny a světle okrové až bílé peridioly."
+      },
+      de: {
+        description: "Ein kleiner saprotropher Pilz an toten Zweigen, gefallenen Ästen und Hackschnitzeln. Er ist im gemäßigten Europa, einschließlich der Slowakei, sowie in Asien und Nordamerika weit verbreitet und auch in Mittelamerika, Südamerika und Neuseeland nachgewiesen.",
+        cap: "Der Hut ist der becherförmige Fruchtkörper, meist 7–10 mm hoch und 6–8 mm breit, und insgesamt etwa 5–16 mm hoch und 4–15 mm im Durchmesser. Er beginnt keulenförmig bis schmal verkehrt kegelförmig und ist von einer dünnen weißlichen Haut verschlossen. Die Haut reißt und lässt kleine Fetzen am Rand zurück, während sich der Becher zu einer Vase oder einem Trichter mit verengter Basis öffnet. Die Außenseite ist graubeige, braun, rostbraun oder schwarzbraun und zottig, mit Haaren, die meist nach unten zeigen. Die Innenseite ist grau, glänzend und stark gefurcht, besonders in der oberen Hälfte.",
+        hymenium: "Lamellen fehlen. Die Sporen entstehen in den Peridiolen, den Eiern, die im Becher sitzen. Ein Becher enthält etwa 10–16 davon. Sie sind linsenförmig, 1–2 mm breit und hellgrau bis silbergrau, manchmal weißlich, solange eine dünne äußere Hülle bleibt, und der Druck der Nachbarn kann sie kantig erscheinen lassen. Jede ist mit einem Strang, dem Funiculus, an der Innenwand festgebunden. Die Basidien sind keulenförmig, mit langen Stielen, und tragen gewöhnlich vier Sporen, die direkt auf der Basidie sitzen.",
+        stipe: "Ein Stiel fehlt. Der Becher sitzt auf einem Polster aus Hyphen, oft etwa 8–12 mm im Durchmesser, das ihn am Holz hält.",
+        flesh: "Das Fleisch der Wand ist dünn, zäh bis hart und braun. Geruch und Geschmack sind nicht charakteristisch.",
+        sporePrint: "Das Sporenpulver ist weiß bis farblos. Die Sporen sind hyalin, glatt, dickwandig und ellipsoid, oft an einem Ende eingekerbt, etwa 12–22 × 7–12 μm.",
+        habitat: "Die Fruchtkörper wachsen zerstreut oder in dichten Gruppen auf gefallenen Zweigen, Ästen und anderen Holzresten von Laub- und Nadelbäumen, darunter Eiche, Buche, Fichte, Ahorn und Hainbuche (Quercus, Fagus, Picea, Acer, Carpinus), sowie auf Hackschnitzeln und anderen Pflanzenresten. Das Vorkommen liegt in Wäldern und im Offenland. Sie fruchten von Juni bis in den Dezember: Juni–November in Mitteleuropa, August–Dezember in der Slowakei sowie Sommer und Herbst in Großbritannien und Nordamerika.",
+        notes: "Ein Regentropfen, der in den Becher fällt, schleudert die Peridiolen heraus. Der Strang entrollt sich, und ein klebriges Ende kann an der nahen Vegetation hängen bleiben, sodass die Peridiole dort hängen bleibt. Der Pilz bildet Striatine, Verbindungen mit antibiotischer Wirkung.",
+        confusion: "Der Topf-Teuerling (Cyathus olla) hat eine glatte Innenseite und eine weniger zottige Außenseite und wächst häufiger im Offenland. Der Dung-Teuerling (Cyathus stercoreus) hat ebenfalls eine glatte Innenseite und wächst auf Dung oder gedüngtem Boden. Der Gemeine Tiegelteuerling (Crucibulum laeve) hat einen gelben bis orangefarbenen Deckel, eine ockergelbe filzige Außenseite, eine glatte helle Innenseite und hellockerfarbene bis weiße Peridiolen."
+      },
+      fr: {
+        description: "Un petit champignon saprotrophe des brindilles mortes, des branches tombées et des copeaux de bois. Il est répandu dans l'Europe tempérée, y compris en Slovaquie, ainsi qu'en Asie et en Amérique du Nord, et il est aussi signalé en Amérique centrale, en Amérique du Sud et en Nouvelle-Zélande.",
+        cap: "Le corps fructifère est une coupe, habituellement haute de 7–10 mm et large de 6–8 mm, et d'environ 5–16 mm de haut sur 4–15 mm de large. Il est d'abord de forme claviforme à étroitement obconique et fermé par une fine membrane blanchâtre. La membrane se déchire et laisse de petits lambeaux sur le bord lorsque la coupe s'ouvre en vase ou en entonnoir à base rétrécie. L'extérieur est gris chamois, brun, brun rouille ou brun noirâtre, et hirsute, avec des poils orientés pour la plupart vers le bas. L'intérieur est gris, luisant et fortement cannelé, surtout dans la moitié supérieure.",
+        hymenium: "Il n'y a pas de lames. Les spores se forment à l'intérieur des péridioles, les œufs qui reposent dans la coupe. Une coupe en renferme environ dix à seize. Elles sont lenticulaires, larges de 1–2 mm, gris pâle à gris argenté, parfois blanchâtres tant qu'une fine enveloppe externe persiste, et la pression des voisines peut les rendre anguleuses. Chacune est reliée à la paroi interne par un cordon, le funicule. Les basides sont clavées, à long pédoncule, et portent généralement quatre spores sessiles, posées directement sur la baside.",
+        stipe: "Il n'y a pas de pied. La coupe repose sur un coussinet d'hyphes, souvent d'environ 8–12 mm de diamètre, qui la fixe au bois.",
+        flesh: "La paroi est mince et de tenace à dure, et brune. L'odeur et la saveur ne sont pas particulières.",
+        sporePrint: "Blanche à incolore. Les spores sont hyalines, lisses, à paroi épaisse et ellipsoïdes, souvent échancrées à une extrémité, d'environ 12–22 × 7–12 μm.",
+        habitat: "Les corps fructifères poussent dispersés ou en groupes denses sur des brindilles tombées, des branches et d'autres débris ligneux de feuillus et de conifères, notamment le chêne, le hêtre, l'épicéa, l'érable et le charme, ainsi que sur des copeaux de bois et d'autres restes végétaux, dans les bois et à découvert. Ils fructifient de juin jusqu'en décembre : de juin à novembre dans l'Europe centrale, d'août à décembre en Slovaquie, et en été et en automne en Grande-Bretagne et en Amérique du Nord.",
+        notes: "Une goutte de pluie qui tombe dans la coupe éclabousse les péridioles. Le cordon se déroule, et une extrémité collante peut s'accrocher à la végétation voisine, de sorte que la péridiole reste suspendue. Le champignon produit des striatines, des composés à activité antibiotique.",
+        confusion: "Cyathus olla a un intérieur lisse et un extérieur moins hirsute, et il pousse plus souvent à découvert. Cyathus stercoreus a aussi un intérieur lisse et pousse sur le crottin ou un sol fumé. Crucibulum laeve a un couvercle jaune à orangé, un extérieur feutré jaune ocre, un intérieur pâle et lisse, et des péridioles ocre pâle à blanches."
+      },
+      pl: {
+        description: "Mały saprotroficzny grzyb martwych gałązek, opadłych gałęzi i zrębków drzewnych. Jest szeroko rozpowszechniony w umiarkowanej Europie, w tym na Słowacji, oraz w Azji i Ameryce Północnej, a notowany jest także w Ameryce Środkowej, Ameryce Południowej i w Nowej Zelandii.",
+        cap: "Kapelusz jest kubkiem, zwykle wysokim na 7–10 mm i szerokim na 6–8 mm, a ogółem około 5–16 mm wysokim i 4–15 mm szerokim. Z początku jest buławkowaty do wąsko odwrotnie stożkowatego i zamknięty cienką białawą błoną. Błona pęka i zostawia na brzegu drobne strzępy, gdy kapelusz otwiera się w wazon lub lejek ze zwężoną podstawą. Zewnętrzna strona jest szarobeżowa, brązowa, rdzawobrązowa lub czarniawobrązowa i kosmata, z włoskami, które przeważnie są skierowane w dół. Wnętrze jest szare, błyszczące i silnie bruzdowane, zwłaszcza w górnej połowie.",
+        hymenium: "Blaszek nie ma. Zarodniki powstają wewnątrz perydioli, jajeczek, które siedzą w kubku. W jednym kubku jest ich około dziesięciu do szesnastu. Są soczewkowate, szerokie na 1–2 mm, jasnoszare do srebrzystoszarych, czasem białe, dopóki zostaje cienka zewnętrzna otoczka, a nacisk sąsiadów może nadawać im kanciasty wygląd. Każda jest przywiązana do wewnętrznej ściany sznureczkiem (funiculus). Podstawki są buławkowate, z długimi trzonkami, i zwykle mają cztery zarodniki osadzone bezpośrednio na podstawce.",
+        stipe: "Trzonu nie ma. Kubek siedzi na poduszce strzępek, często około 8–12 mm szerokiej, która trzyma go przy drewnie.",
+        flesh: "Miąższ ściany jest cienki, od łykowatego po twardy, i brązowy. Zapach i smak nie są charakterystyczne.",
+        sporePrint: "Wysyp zarodników jest biały do bezbarwnego. Zarodniki są hialinowe, gładkie, grubościenne i elipsoidalne, często z wcięciem na jednym końcu, około 12–22 × 7–12 μm.",
+        habitat: "Owocniki rosną w rozproszeniu lub w gęstych grupach na opadłych gałązkach, gałęziach i innych zdrewniałych szczątkach drzew liściastych i iglastych, w tym dębu, buka, świerka, klonu i grabu, oraz na zrębkach drzewnych i innych szczątkach roślin, w lasach i na otwartej przestrzeni. Owocnikują od czerwca do grudnia: od czerwca do listopada w Europie Środkowej, od sierpnia do grudnia na Słowacji oraz latem i jesienią w Brytanii i w Ameryce Północnej.",
+        notes: "Kropla deszczu, która wpadnie do owocnika, wypryskuje perydiole na zewnątrz. Sznureczek się rozwija, a lepki koniec może zaczepić o pobliską roślinność, tak że perydiola zostaje tam zawieszona. Grzyb wytwarza striatyny, związki o działaniu antybiotycznym. W Polsce jest gatunkiem pospolitym.",
+        confusion: "Kubek ołowianoszary (Cyathus olla) ma gładkie wnętrze i mniej kosmatą stronę zewnętrzną i częściej rośnie na otwartej przestrzeni. Kubek gnojowy (Cyathus stercoreus) też ma gładkie wnętrze i rośnie na odchodach lub na nawiezionej ziemi. Kubecznik płowopomarańczowy (Crucibulum laeve) ma żółte do pomarańczowego wieczko, ochrowożółtą filcowatą stronę zewnętrzną, gładkie jasne wnętrze i jasnoochrowe do białych perydiole."
+      },
+      hu: {
+        description: "Apró szaprotróf gomba elhalt gallyakon, lehullott ágakon és faforgácson. A mérsékelt övi Európában, így Szlovákiában is, valamint Ázsiában és Észak-Amerikában elterjedt, és Közép-Amerikából, Dél-Amerikából és Új-Zélandról is ismert.",
+        cap: "Külön kalapja nincs: a termőtest pohár, rendszerint 7–10 mm magas és 6–8 mm széles, tágabb tartományban pedig körülbelül 5–16 mm magas és 4–15 mm átmérőjű. Kezdetben bunkós vagy keskenyen fordított kúp alakú, és vékony fehéres hártya zárja. A hártya felszakad, és apró cafatokat hagy a peremen, miközben a pohár váza vagy tölcsér alakúra nyílik, összeszűkült alappal. A külseje szürkésokker, barna, rozsdabarna vagy feketésbarna, és borzas, a szőrök többnyire lefelé állnak. A belseje szürke, fénylő és erősen barázdált, különösen a felső felében.",
+        hymenium: "Lemezek nincsenek. A spórák a peridiolákban képződnek, azokban a tojásokban, amelyek a pohárban ülnek. Egy pohárban körülbelül tíz–tizenhat van belőlük. Lencse alakúak, 1–2 mm szélesek, halványszürkék vagy ezüstszürkék, néha fehéresek, amíg vékony külső burkuk megmarad, és a szomszédok nyomása szögletesnek mutathatja őket. Mindegyiket zsinór, a funiculus köti a belső falhoz. A bazídiumok bunkó alakúak, hosszú nyéllel, és rendszerint négy, közvetlenül a bazídiumon ülő spórát viselnek.",
+        stipe: "Tönk nincs. A pohár egy hifapárnán ül, amely gyakran körülbelül 8–12 mm átmérőjű, és a fához rögzíti.",
+        flesh: "A hús a vékony, szívóstól keményig terjedő, barna fal. Szaga és íze nem jellegzetes.",
+        sporePrint: "A spórapor fehér vagy színtelen. A spórák hialinok, simák, vastag falúak és elliptikusak, gyakran az egyik végükön bemetszettek, körülbelül 12–22 × 7–12 μm.",
+        habitat: "Az élőhelyen a termőtestek szórtan vagy sűrű csoportokban nőnek lombos és fenyőfák, köztük tölgy, bükk, lucfenyő, juhar és gyertyán lehullott gallyain, ágain és más fás törmelékén, valamint faforgácson és egyéb növényi maradványokon, erdőben és nyílt terepen. Júniustól decemberig teremnek: Közép-Európában júniustól novemberig, Szlovákiában augusztustól decemberig, Britanniában és Észak-Amerikában nyáron és ősszel.",
+        notes: "Egy esőcsepp, amely a pohárba hull, kifröcsköli a peridiolákat. A zsinór letekeredik, és a ragadós vége a közeli növényzetbe akadhat, így a peridiola ott lógva marad. A gomba striatinokat termel, amelyek antibiotikus hatású vegyületek.",
+        confusion: "A szürkés pohárgomba (Cyathus olla) belseje sima, a külseje kevésbé borzas, és gyakrabban nő nyílt terepen. A karcsú pohárgomba (Cyathus stercoreus) belseje szintén sima, és trágyán vagy trágyázott talajon nő. A sárga tégelygomba (Crucibulum laeve) fedele sárga vagy narancssárga, a külseje okkersárga és nemezes, a belseje sima és halvány, a peridiolái halványokkersárgák vagy fehérek."
+      },
+      uk: {
+        description: "Дрібний сапротрофний гриб на мертвих гілочках, опалих гілках і трісках. Він широко поширений у помірній Європі, зокрема в Словаччині, а також в Азії та Північній Америці, і його також відмічено в Центральній Америці, Південній Америці та Новій Зеландії.",
+        cap: "Окремої шапинки немає: плодове тіло — чашечка, зазвичай 7–10 мм заввишки і 6–8 мм завширшки, і близько 5–16 мм заввишки та 4–15 мм упоперек. Спочатку воно булавоподібне до вузько-оберненоконічного і закрите тонкою білуватою плівкою. Плівка рветься і лишає дрібні клаптики на краю, коли чашечка розкривається у вазу або лійку зі звуженою основою. Зовні вона сірувато-вохриста, коричнева, іржаво-коричнева або чорнувато-коричнева і кошлата, волоски здебільшого спрямовані вниз. Зсередини вона сіра, блискуча і сильно борозенчаста, особливо у верхній половині.",
+        hymenium: "Пластинок немає. Спори утворюються в перідіолах, яйцях, що сидять у чашечці. У чашечці їх близько десяти–шістнадцяти. Вони сочевицеподібні, 1–2 мм завширшки, блідо-сірі до сріблясто-сірих, іноді білуваті, поки лишається тонка зовнішня оболонка, а тиск сусідів може робити їх на вигляд кутастими. Кожна прив’язана до внутрішньої стінки шнуром, фунікулюсом. Базидії булавоподібні, з довгими ніжками, і зазвичай несуть чотири спори, що сидять безпосередньо на базидії.",
+        stipe: "Ніжки немає. Чашечка сидить на подушечці з гіф, часто близько 8–12 мм у поперечнику, яка тримає її на деревині.",
+        flesh: "М’якуш — тонка стінка, від цупкої до твердої, коричнева. Запах і смак невиразні.",
+        sporePrint: "Споровий порошок білий до безбарвного. Спори гіалінові, гладенькі, товстостінні й еліпсоїдні, часто з виїмкою на одному кінці, близько 12–22 × 7–12 мкм.",
+        habitat: "У місцезростанні плодові тіла ростуть розсіяно або щільними групами на опалих гілочках, гілках та інших деревних рештках широколистих і хвойних дерев, зокрема дуба, бука, ялини, клена і граба, а також на трісках та інших рослинних рештках, у лісах і на відкритих місцях. Вони плодоносять із червня до грудня: з червня до листопада в Центральній Європі, з серпня до грудня в Словаччині, а влітку й восени у Британії та Північній Америці.",
+        notes: "Крапля дощу, що падає в чашечку, виплескує перідіоли. Шнур розкручується, і липкий кінець може зачепитися за ближню рослинність, тож перідіола лишається там висіти. Гриб утворює стриатини, сполуки з антибіотичною дією.",
+        confusion: "У Cyathus olla внутрішня поверхня гладенька, зовнішня менш кошлата, і він частіше росте на відкритих місцях. У Cyathus stercoreus внутрішня поверхня також гладенька, і він росте на гної або на угноєному ґрунті. У Crucibulum laeve є жовта або жовтогаряча покришка, вохристо-жовта повстиста зовнішня поверхня, гладенька бліда внутрішня поверхня і блідо-вохристі до білих перідіоли."
+      },
+      ru: {
+        description: "Мелкий сапротрофный гриб на мертвых веточках, опавших ветвях и щепе. Он широко распространен в умеренной Европе, включая Словакию, а также в Азии и Северной Америке, и отмечен также в Центральной Америке, Южной Америке и Новой Зеландии.",
+        cap: "Отдельной шляпки нет: плодовое тело — чашечка, обычно 7–10 мм высотой и 6–8 мм шириной, и около 5–16 мм высотой и 4–15 мм в поперечнике. Сначала оно булавовидное до узко-обратноконического и закрыто тонкой беловатой плёнкой. Плёнка рвется и оставляет мелкие обрывки на краю, когда чашечка раскрывается в вазу или воронку с суженным основанием. Снаружи она серовато-палевая, коричневая, ржаво-коричневая или черновато-коричневая и лохматая, волоски большей частью направлены вниз. Изнутри она серая, блестящая и сильно бороздчатая, особенно в верхней половине.",
+        hymenium: "Пластинок нет. Споры образуются в перидиолах, яйцах, которые сидят в чашечке. В чашечке их около десяти–шестнадцати. Они линзовидные, 1–2 мм шириной, бледно-серые до серебристо-серых, иногда беловатые, пока сохраняется тонкая внешняя оболочка, а давление соседей может делать их угловатыми на вид. Каждая привязана к внутренней стенке шнуром, фуникулюсом. Базидии булавовидные, с длинными ножками, и обычно несут четыре споры, сидящие прямо на базидии.",
+        stipe: "Ножки нет. Чашечка сидит на подушечке из гиф, часто около 8–12 мм в поперечнике, которая держит ее на древесине.",
+        flesh: "Мякоть — тонкая стенка, от жесткой до твердой, коричневая. Запах и вкус невыразительны.",
+        sporePrint: "Споровый порошок белый до бесцветного. Споры гиалиновые, гладкие, толстостенные и эллипсоидные, часто с выемкой на одном конце, около 12–22 × 7–12 мкм.",
+        habitat: "В местообитании плодовые тела растут рассеянно или плотными группами на опавших веточках, ветвях и других древесных остатках широколиственных и хвойных деревьев, включая дуб, бук, ель, клен и граб, а также на щепе и других растительных остатках, в лесах и на открытых местах. Они плодоносят с июня по декабрь: с июня по ноябрь в Центральной Европе, с августа по декабрь в Словакии, а летом и осенью в Британии и Северной Америке.",
+        notes: "Капля дождя, которая попадает в чашечку, выплескивает перидиолы. Шнур раскручивается, и липкий конец может зацепиться за соседнюю растительность, так что перидиола остается там висеть. Гриб образует стриатины, соединения с антибиотической активностью.",
+        confusion: "У Cyathus olla внутренняя поверхность гладкая, наружная менее лохматая, и он чаще растет на открытых местах. У Cyathus stercoreus внутренняя поверхность тоже гладкая, и он растет на навозе или на унавоженной почве. У Crucibulum laeve желтая или оранжевая крышечка, охристо-желтая войлочная наружная поверхность, гладкая бледная внутренняя поверхность и бледно-охристые до белых перидиолы."
+      },
+      es: {
+        description: "Un hongo saprótrofo pequeño de ramitas muertas, ramas caídas y virutas de madera. Está extendido por la Europa templada, incluida Eslovaquia, y por Asia y América del Norte, y también se ha citado en América Central, América del Sur y Nueva Zelanda.",
+        cap: "El cuerpo fructífero es una copa, por lo general de 7–10 mm de alto y 6–8 mm de ancho, y de unos 5–16 mm de alto y 4–15 mm de través. Al principio es de claviforme a estrechamente obcónico y está cerrado por una fina membrana blanquecina. La membrana se desgarra y deja pequeños restos en el borde cuando la copa se abre en jarrón o embudo de base estrechada. El exterior es gris ante, pardo, pardo herrumbroso o pardo negruzco, e hirsuto, con pelos orientados en su mayor parte hacia abajo. El interior es gris, brillante y fuertemente acanalado, sobre todo en la mitad superior.",
+        hymenium: "No hay láminas. Las esporas se forman dentro de los peridiolos, los huevos que están en la copa. Una copa contiene unos diez a dieciséis. Son lenticulares, de 1–2 mm de ancho, y de gris pálido a gris plateado, a veces blanquecinos mientras permanece una fina cubierta externa, y la presión de los vecinos puede hacer que parezcan angulosos. Cada uno está unido a la pared interna por un cordón, el funículo. Los basidios son claviformes, con pedúnculos largos, y suelen llevar cuatro esporas sésiles, asentadas directamente sobre el basidio.",
+        stipe: "No hay pie. La copa se asienta sobre una almohadilla de hifas, a menudo de unos 8–12 mm de diámetro, que la sujeta a la madera.",
+        flesh: "La pared es delgada y de tenaz a dura, y parda. El olor y el sabor no son distintivos.",
+        sporePrint: "Blanca a incolora. Las esporas son hialinas, lisas, de pared gruesa y elipsoidales, a menudo escotadas en un extremo, de unos 12–22 × 7–12 μm.",
+        habitat: "Los cuerpos fructíferos crecen dispersos o en grupos densos sobre ramitas caídas, ramas y otros restos leñosos de frondosas y coníferas, entre ellos roble, haya, pícea, arce y carpe, y sobre virutas de madera y otros restos vegetales, en bosques y en terreno abierto. Fructifican de junio hasta diciembre: de junio a noviembre en Europa central, de agosto a diciembre en Eslovaquia, y en verano y otoño en Gran Bretaña y América del Norte.",
+        notes: "Una gota de lluvia que cae en la copa salpica los peridiolos hacia fuera. El cordón se desenrolla, y un extremo pegajoso puede engancharse en la vegetación cercana, de modo que el peridiolo queda colgando. El hongo produce estriatinas, compuestos con actividad antibiótica.",
+        confusion: "Cyathus olla tiene el interior liso y el exterior menos hirsuto, y crece más a menudo en terreno abierto. Cyathus stercoreus también tiene el interior liso y crece sobre estiércol o suelo abonado. Crucibulum laeve tiene una tapa de amarilla a anaranjada, un exterior afieltrado amarillo ocre, un interior pálido y liso, y peridiolos de ocre pálido a blancos."
+      },
+      pt: {
+        description: "Um pequeno fungo saprotrófico de raminhos mortos, ramos caídos e aparas de madeira. Está difundido na Europa temperada, incluindo a Eslováquia, e na Ásia e na América do Norte, e está também registado na América Central, na América do Sul e na Nova Zelândia.",
+        cap: "O corpo frutífero é uma taça, em regra com 7–10 mm de altura e 6–8 mm de largura, e cerca de 5–16 mm de altura e 4–15 mm de través. Começa de claviforme a estreitamente obcónico e está fechado por uma membrana esbranquiçada fina. A membrana rasga-se e deixa pequenos farrapos no rebordo quando a taça se abre em vaso ou funil de base estreita. O exterior é cinzento-camurça, castanho, castanho-ferrugem ou castanho-anegrado, e hirsuto, com pelos na maior parte voltados para baixo. O interior é cinzento, brilhante e fortemente sulcado, sobretudo na metade superior.",
+        hymenium: "Não há lâminas. Os esporos formam-se dentro dos peridíolos, os ovos que estão na taça. Uma taça contém cerca de dez a dezasseis. São lenticulares, com 1–2 mm de largura, e de cinzento-claro a cinzento-prateado, por vezes esbranquiçados enquanto permanece um revestimento externo fino, e a pressão dos vizinhos pode fazê-los parecer angulosos. Cada um está preso à parede interna por um cordão, o funículo. Os basídios são claviformes, de pedúnculos longos, e normalmente têm quatro esporos sésseis, assentes diretamente sobre o basídio.",
+        stipe: "Não há estipe. A taça assenta numa almofada de hifas, muitas vezes com cerca de 8–12 mm de diâmetro, que a prende à madeira.",
+        flesh: "A parede é fina e de tenaz a dura, e castanha. O cheiro e o sabor não são distintivos.",
+        sporePrint: "Branca a incolor. Os esporos são hialinos, lisos, de parede espessa e elipsoidais, muitas vezes entalhados numa extremidade, com cerca de 12–22 × 7–12 μm.",
+        habitat: "Os corpos frutíferos crescem dispersos ou em grupos densos sobre raminhos caídos, ramos e outros detritos lenhosos de folhosas e de coníferas, entre os quais carvalho, faia, pícea, ácer e carpa, e sobre aparas de madeira e outros restos vegetais, em bosques e em terreno aberto. Frutificam de junho até dezembro: de junho a novembro na Europa Central, de agosto a dezembro na Eslováquia, e no verão e no outono na Grã-Bretanha e na América do Norte.",
+        notes: "Uma gota de chuva que cai na taça faz saltar os peridíolos. O cordão desenrola-se, e uma extremidade pegajosa pode prender-se à vegetação próxima, de modo que o peridíolo fica pendurado. O fungo produz estriatinas, compostos com atividade antibiótica.",
+        confusion: "Cyathus olla tem o interior liso e o exterior menos hirsuto, e cresce mais vezes em terreno aberto. Cyathus stercoreus também tem o interior liso e cresce em estrume ou em solo estrumado. Crucibulum laeve tem uma tampa de amarela a alaranjada, um exterior feltrado ocre-amarelo, um interior pálido e liso, e peridíolos de ocre pálido a brancos."
+      },
+      nl: {
+        description: "Een kleine saprotrofe paddenstoel op dode twijgen, afgevallen takken en houtsnippers. Hij is wijdverspreid in het gematigde Europa, waaronder Slowakije, en in Azië en Noord-Amerika, en hij is ook gemeld uit Midden-Amerika, Zuid-Amerika en Nieuw-Zeeland.",
+        cap: "De hoed is hier het bekervormige vruchtlichaam, meestal 7–10 mm hoog en 6–8 mm breed, en in totaal ongeveer 5–16 mm hoog en 4–15 mm in doorsnee. Hij begint knotsvormig tot smal omgekeerd kegelvormig en is gesloten door een dun witachtig vlies. Het vlies scheurt en laat kleine flarden op de rand achter, terwijl de beker opengaat tot een vaas of trechter met een versmalde basis. De buitenzijde is grijsbeige, bruin, roestbruin of zwartbruin en ruig, met haren die meestal naar beneden wijzen. De binnenzijde is grijs, glanzend en sterk gegroefd, vooral in de bovenste helft.",
+        hymenium: "Plaatjes ontbreken. De sporen ontstaan in de peridiolen, de eitjes die in de beker zitten. Een beker bevat er ongeveer 10–16. Ze zijn lensvormig, 1–2 mm breed en lichtgrijs tot zilvergrijs, soms witachtig zolang een dun buitenste vlies blijft, en druk van de buren kan ze hoekig doen lijken. Elk is met een koord, de funiculus, aan de binnenwand vastgemaakt. De basidiën zijn knotsvormig, met lange stelen, en dragen gewoonlijk vier sporen die direct op de basidie zitten.",
+        stipe: "Een steel ontbreekt. De beker zit op een kussentje van hyfen, vaak ongeveer 8–12 mm in doorsnee, dat hem aan het hout houdt.",
+        flesh: "Het vlees van de wand is dun, taai tot hard en bruin. Geur en smaak zijn niet kenmerkend.",
+        sporePrint: "De sporenprint is wit tot kleurloos. De sporen zijn hyalien, glad, dikwandig en ellipsoïd, vaak aan één uiteinde ingekerfd, ongeveer 12–22 × 7–12 μm.",
+        habitat: "De vruchtlichamen groeien verspreid of in dichte groepen op afgevallen twijgen, takken en ander houtig afval van loof- en naaldbomen, waaronder eik, beuk, spar, esdoorn en haagbeuk (Quercus, Fagus, Picea, Acer, Carpinus), en op houtsnippers en andere plantenresten. De standplaats ligt in bossen en in het open veld. Ze fructificeren van juni tot in december: juni–november in Midden-Europa, augustus–december in Slowakije, en in de zomer en de herfst in Groot-Brittannië en Noord-Amerika.",
+        notes: "Een regendruppel die in de beker valt, spat de peridiolen naar buiten. Het koord ontrolt zich, en een kleverig uiteinde kan aan de nabije begroeiing blijven haken, zodat de peridiole daar blijft hangen. De paddenstoel vormt striatinen, verbindingen met antibiotische werking.",
+        confusion: "Bleek nestzwammetje (Cyathus olla) heeft een gladde binnenzijde en een minder ruige buitenzijde en groeit vaker in het open veld. Mestnestzwammetje (Cyathus stercoreus) heeft eveneens een gladde binnenzijde en groeit op mest of bemeste grond. Geel nestzwammetje (Crucibulum laeve) heeft een geel tot oranje deksel, een okergele viltige buitenzijde, een gladde bleke binnenzijde en bleekokergele tot witte peridiolen."
+      },
+      da: {
+        description: "En lille saprotrof svamp på døde kviste, nedfaldne grene og flis. Den er udbredt i det tempererede Europa, herunder Slovakiet, og i Asien og Nordamerika, og den er også registreret i Mellemamerika, Sydamerika og New Zealand.",
+        cap: "Hatten er her det bægerformede frugtlegeme, sædvanligvis 7–10 mm høj og 6–8 mm bred, og i alt omkring 5–16 mm høj og 4–15 mm på tværs. Den begynder kølleformet til smalt omvendt kegleformet og er lukket af en tynd hvidlig hinde. Hinden river og efterlader små flager på randen, mens bægeret åbner sig til en vase eller tragt med en indsnævret basis. Ydersiden er gråbeige, brun, rustbrun eller sortbrun og pjusket, med hår der mest peger nedad. Indersiden er grå, skinnende og stærkt furet, især i den øvre halvdel.",
+        hymenium: "Der er ingen lameller. Sporerne dannes inde i peridiolerne, de æg der sidder i bægeret. Et bæger rummer omkring 10–16 af dem. De er linseformede, 1–2 mm brede og lysegrå til sølvgrå, undertiden hvidlige mens en tynd ydre hinde er tilbage, og tryk fra naboerne kan få dem til at se kantede ud. Hver er bundet til indervæggen med en snor, funiculus. Basidierne er kølleformede, med lange stilke, og bærer sædvanligvis fire sporer, der sidder direkte på basidiet.",
+        stipe: "Der er ingen stok. Bægeret sidder på en pude af hyfer, ofte omkring 8–12 mm på tværs, som holder det fast til træet.",
+        flesh: "Kødet i væggen er tyndt, sejt til hårdt og brunt. Lugt og smag er ikke særprægede.",
+        sporePrint: "Sporeaftrykket er hvidt til farveløst. Sporerne er hyaline, glatte, tykvæggede og ellipsoide, ofte med et hak i den ene ende, omkring 12–22 × 7–12 μm.",
+        habitat: "Frugtlegemerne vokser spredt eller i tætte grupper på nedfaldne kviste, grene og andet træaffald af løv- og nåletræer, deriblandt eg, bøg, gran, ahorn og avnbøg (Quercus, Fagus, Picea, Acer, Carpinus), og på flis og andre planterester. Voksestedet er skov og åbent land. De fruktificerer fra juni og ind i december: juni–november i Centraleuropa, august–december i Slovakiet og sommer og efterår i Storbritannien og Nordamerika.",
+        notes: "En regndråbe, der lander i bægeret, slynger peridiolerne ud. Snoren ruller sig ud, og en klæbrig ende kan hænge fast i den nære vegetation, så peridiolen bliver hængende der. Svampen danner striatiner, forbindelser med antibiotisk virkning.",
+        confusion: "Klokke-redesvamp (Cyathus olla) har en glat inderside og en mindre pjusket yderside, og den vokser oftere i det åbne. Cyathus stercoreus har også en glat inderside og vokser på gødning eller gødet jord. Crucibulum laeve har et gult til orange låg, en okkergul filtret yderside, en glat lys inderside og blegokker til hvide peridioler."
+      },
+      sv: {
+        description: "En liten saprotrof svamp på döda kvistar, nedfallna grenar och flis. Den är vitt spridd i det tempererade Europa, inklusive Slovakien, och i Asien och Nordamerika, och den är också rapporterad från Centralamerika, Sydamerika och Nya Zeeland.",
+        cap: "Hatten är här den bägarformade fruktkroppen, vanligen 7–10 mm hög och 6–8 mm bred, och sammanlagt omkring 5–16 mm hög och 4–15 mm tvärsöver. Den börjar klubbformad till smalt omvänt konisk och är sluten av en tunn vitaktig hinna. Hinnan brister och lämnar små flagor på kanten när bägaren öppnar sig till en vas eller tratt med en avsmalnad bas. Utsidan är gråbeige, brun, rostbrun eller svartbrun och raggig, med hår som mest pekar nedåt. Insidan är grå, glänsande och starkt fårad, särskilt i den övre halvan.",
+        hymenium: "Skivor saknas. Sporerna bildas inuti peridiolerna, de ägg som sitter i bägaren. En bägare rymmer omkring 10–16 av dem. De är linsformade, 1–2 mm breda och ljusgrå till silvergrå, ibland vitaktiga så länge en tunn yttre hinna finns kvar, och tryck från grannarna kan få dem att se kantiga ut. Var och en är fäst vid innerväggen med en sträng, funiculus. Basidierna är klubbformade, med långa skaft, och bär vanligen fyra sporer som sitter direkt på basidien.",
+        stipe: "En fot saknas. Bägaren sitter på en dyna av hyfer, ofta omkring 8–12 mm tvärsöver, som håller den fast vid veden.",
+        flesh: "Köttet i väggen är tunt, segt till hårt och brunt. Lukt och smak är inte särskiljande.",
+        sporePrint: "Sporavtrycket är vitt till färglöst. Sporerna är hyalina, släta, tjockväggiga och ellipsoida, ofta urnupna i ena änden, omkring 12–22 × 7–12 μm.",
+        habitat: "Fruktkropparna växer strödda eller i täta grupper på nedfallna kvistar, grenar och annat vedavfall av löv- och barrträd, däribland ek, bok, gran, lönn och avenbok (Quercus, Fagus, Picea, Acer, Carpinus), samt på flis och andra växtrester. Växtplatsen är skog och öppen mark. De fruktifierar från juni och in i december: juni–november i Centraleuropa, augusti–december i Slovakien samt sommar och höst i Storbritannien och Nordamerika.",
+        notes: "En regndroppe som landar i bägaren skvätter ut peridiolerna. Strängen rullar ut sig, och en klibbig ände kan fastna på närliggande vegetation så att peridiolen blir hängande där. Svampen bildar striatiner, föreningar med antibiotisk verkan.",
+        confusion: "Cyathus olla har en slät insida och en mindre raggig utsida, och den växer oftare i öppen mark. Cyathus stercoreus har också en slät insida och växer på dynga eller gödslad mark. Crucibulum laeve har ett gult till orange lock, en ockergul filtad utsida, en slät ljus insida och blekockra till vita peridioler."
+      },
+      no: {
+        description: "En liten saprotrof sopp på døde kvister, nedfalne greiner og flis. Den er vidt utbredt i det tempererte Europa, inkludert Slovakia, og i Asia og Nord-Amerika, og den er også registrert i Mellom-Amerika, Sør-Amerika og New Zealand.",
+        cap: "Hatten er her det begerformede fruktlegemet, vanligvis 7–10 mm høy og 6–8 mm bred, og i alt omkring 5–16 mm høy og 4–15 mm på tvers. Den begynner kølleformet til smalt omvendt kjegleformet og er lukket av en tynn hvitaktig hinne. Hinnen revner og etterlater små flak på kanten når begeret åpner seg til en vase eller trakt med en innsnevret basis. Utsiden er gråbeige, brun, rustbrun eller svartbrun og raggete, med hår som mest peker nedover. Innsiden er grå, glinsende og sterkt furet, særlig i den øvre halvdelen.",
+        hymenium: "Skiver mangler. Sporene dannes inne i peridiolene, eggene som sitter i begeret. Et beger rommer omkring 10–16 av dem. De er linseformede, 1–2 mm brede og lysegrå til sølvgrå, av og til hvitaktige mens en tynn ytre hinne er igjen, og press fra naboene kan få dem til å se kantete ut. Hver er festet til innerveggen med en snor, funiculus. Basidiene er kølleformede, med lange stilker, og bærer vanligvis fire sporer som sitter direkte på basidien.",
+        stipe: "En stilk mangler. Begeret sitter på en pute av hyfer, ofte omkring 8–12 mm på tvers, som holder det fast til veden.",
+        flesh: "Kjøttet i veggen er tynt, seigt til hardt og brunt. Lukt og smak er ikke særpregede.",
+        sporePrint: "Sporeavtrykket er hvitt til fargeløst. Sporene er hyaline, glatte, tykkveggede og ellipsoide, ofte med et hakk i den ene enden, omkring 12–22 × 7–12 μm.",
+        habitat: "Fruktlegemene vokser spredt eller i tette grupper på nedfalne kvister, greiner og annet vedavfall av løv- og bartrær, deriblant eik, bøk, gran, lønn og agnbøk (Quercus, Fagus, Picea, Acer, Carpinus), og på flis og andre planterester. Voksestedet er skog og åpent lende. De fruktifiserer fra juni og inn i desember: juni–november i Mellom-Europa, august–desember i Slovakia og sommer og høst i Storbritannia og Nord-Amerika.",
+        notes: "En regndråpe som lander i begeret, skvetter peridiolene ut. Snoren kveiler seg ut, og en klebrig ende kan feste seg i vegetasjonen like ved, slik at peridiolen blir hengende der. Soppen danner striatiner, forbindelser med antibiotisk virkning.",
+        confusion: "Cyathus olla har en glatt innside og en mindre raggete utside, og den vokser oftere i det åpne. Cyathus stercoreus har også en glatt innside og vokser på møkk eller gjødslet mark. Crucibulum laeve har et gult til oransje lokk, en okerfarget filtet utside, en glatt lys innside og blekoker til hvite peridioler."
+      },
+      fi: {
+        description: "Pieni lahottajasieni kuolleilla risuilla, pudonneilla oksilla ja puuhakkeella. Se on laajalle levinnyt lauhkeassa Euroopassa, myös Slovakiassa, sekä Aasiassa ja Pohjois-Amerikassa, ja sitä on tavattu myös Keski-Amerikassa, Etelä-Amerikassa ja Uudessa-Seelannissa.",
+        cap: "Lakki on tässä maljamainen itiöemä, tavallisesti 7–10 mm korkea ja 6–8 mm leveä, ja kaiken kaikkiaan noin 5–16 mm korkea ja 4–15 mm leveä. Se on aluksi nuijamainen tai kapean vastakartion muotoinen ja ohuen vaalean kalvon sulkema. Kalvo repeää ja jättää pieniä repaleita reunaan, kun malja avautuu maljakoksi tai suppiloksi, jonka tyvi on kaventunut. Ulkopinta on harmaanbeige, ruskea, ruosteenruskea tai mustanruskea ja takkuinen, ja karvat osoittavat enimmäkseen alaspäin. Sisäpinta on harmaa, kiiltävä ja voimakkaasti uurteinen, etenkin yläpuoliskossa.",
+        hymenium: "Helttoja ei ole. Itiöt syntyvät peridioleissa, maljassa istuvissa munissa. Maljassa on niitä noin 10–16. Ne ovat linssimäisiä, 1–2 mm leveitä ja vaaleanharmaita tai hopeanharmaita, joskus valkeita niin kauan kuin ohut ulkokerros on jäljellä, ja naapureiden paine voi saada ne näyttämään kulmikkailta. Jokainen on kiinnitetty sisäseinään rihmalla, funiculuksella. Basidiot ovat nuijamaisia ja pitkävartisia, ja niissä on tavallisesti neljä itiötä, jotka istuvat suoraan basidiossa.",
+        stipe: "Jalkaa ei ole. Malja istuu rihmastotyynyllä, usein noin 8–12 mm levyisellä, joka kiinnittää sen puuhun.",
+        flesh: "Seinän malto on ohut, sitkeästä kovaan, ja ruskea. Hajussa ja maussa ei ole mitään erityistä.",
+        sporePrint: "Itiöpöly on valkoista tai väritöntä. Itiöt ovat hyaliinisia, sileitä, paksuseinäisiä ja ellipsoideja, usein lovettuja toisesta päästä, noin 12–22 × 7–12 μm.",
+        habitat: "Itiöemät kasvavat hajallaan tai tiheinä ryhminä pudonneilla risuilla, oksilla ja muulla lehti- ja havupuiden puuaineksella, muun muassa tammella, pyökillä, kuusella, vaahteralla ja valkopyökillä (Quercus, Fagus, Picea, Acer, Carpinus), sekä puuhakkeella ja muilla kasvijätteillä. Kasvupaikka on metsä ja avoin maa. Ne tuottavat itiöemiä kesäkuusta joulukuuhun: kesäkuu–marraskuu Keski-Euroopassa, elokuu–joulukuu Slovakiassa sekä kesällä ja syksyllä Isossa-Britanniassa ja Pohjois-Amerikassa.",
+        notes: "Sadepisara, joka osuu maljaan, roiskauttaa peridiolit ulos. Rihma kiertyy auki, ja tahmea pää voi tarttua läheiseen kasvillisuuteen niin, että peridioli jää roikkumaan siihen. Sieni tuottaa striatineja, yhdisteitä, joilla on antibioottista vaikutusta.",
+        confusion: "Cyathus ollalla on sileä sisäpinta ja vähemmän takkuinen ulkopinta, ja se kasvaa useammin avoimella. Cyathus stercoreus on myös sisältä sileä ja kasvaa lannalla tai lannoitetulla maalla. Crucibulum laevella on keltainen tai oranssi kansi, okranvärinen huopainen ulkopinta, sileä vaalea sisäpinta ja vaaleanokrat tai valkoiset peridiolit."
+      },
+      et: {
+        description: "Väike saprotroofne seen surnud oksaraagudel, langenud okstel ja puiduhaketel. Ta on laialt levinud parasvöötme Euroopas, sealhulgas Slovakkias, ning Aasias ja Põhja-Ameerikas, ja teda on leitud ka Kesk-Ameerikast, Lõuna-Ameerikast ja Uus-Meremaalt.",
+        cap: "Eraldi kübarat ei ole: viljakeha on karikas, tavaliselt 7–10 mm kõrge ja 6–8 mm lai ning umbes 5–16 mm kõrge ja 4–15 mm läbimõõdus. Alguses on see nuijakujuline kuni kitsalt äraspidi koonusjas ja suletud õhukese valkja kilega. Kile rebeneb ja jätab servale väikesi räbalaid, kui karikas avaneb vaasiks või lehtriks kitsenenud alusega. Välispind on hallikasookerjas, pruun, roostpruun või mustjaspruun ja karvane, karvad on enamasti allapoole suunatud. Sisepind on hall, läikiv ja tugevasti vaoline, eriti ülemises pooles.",
+        hymenium: "Eoslehti ei ole. Eosed tekivad peridioolides, munades, mis istuvad karikas. Ühes karikas on neid umbes kümme kuni kuusteist. Need on läätsekujulised, 1–2 mm laiad, kahvatuhallid kuni hõbehallid, mõnikord valkjad, kuni õhuke väliskest püsib, ja naabrite surve võib muuta nad nurgeliseks. Igaüks on seotud siseseinaga nööriga, funiculusega. Basiidid on nuijakujulised, pika varrega, ja kannavad tavaliselt nelja eost, mis istuvad otse basiidiumil.",
+        stipe: "Jalga ei ole. Karikas istub hüüfipadjandil, sageli umbes 8–12 mm läbimõõdus, mis hoiab seda puidu küljes.",
+        flesh: "Seeneliha on õhuke sein, sitkest kuni kõvani, ja pruun. Lõhn ja maitse ei ole iseloomulikud.",
+        sporePrint: "Eosetolm on valge kuni värvitu. Eosed on hüaliinsed, siledad, paksuseinalised ja ellipsoidsed, sageli ühest otsast sälgulised, umbes 12–22 × 7–12 μm.",
+        habitat: "Kasvukoht on metsad ja lageda, kus viljakehad kasvavad hajusalt või tihedate rühmadena laialehiste ja okaspuude, sealhulgas tamme, pöögi, kuuse, vahtra ja valgepöögi langenud raagudel, okstel ja muul puidujäänusel ning puiduhaketel ja muudel taimejäänustel. Nad viljuvad juunist detsembrini: Kesk-Euroopas juunist novembrini, Slovakkias augustist detsembrini ning Britannias ja Põhja-Ameerikas suvel ja sügisel.",
+        notes: "Vihmapiisk, mis langeb karikasse, pritsib peridioolid välja. Nöör kerib end lahti, ja kleepuv ots võib haarata lähedasest taimestikust, nii et peridiool jääb sinna rippuma. Seen toodab striatineid, antibiootilise toimega ühendeid.",
+        confusion: "Karik-vakkseenel (Cyathus olla) on sile sisemus ja vähem karvane välispind, ning ta kasvab sagedamini lagedal. Cyathus stercoreus on samuti sileda sisemusega ja kasvab sõnnikul või väetatud pinnasel. Külimitseenel (Crucibulum laeve) on kollane kuni oranž kaas, ookerkollane viltjas välispind, sile kahvatu sisemus ning kahvatuookrid kuni valged peridioolid."
+      },
+      lv: {
+        description: "Neliela saprotrofa sēne uz atmirušiem zariņiem, nokritušiem zariem un šķeldas. Tā ir plaši sastopama mērenajā Eiropā, tostarp Slovākijā, kā arī Āzijā un Ziemeļamerikā, un tā ir reģistrēta arī Centrālamerikā, Dienvidamerikā un Jaunzēlandē.",
+        cap: "Atsevišķas cepurītes nav: augļķermenis ir kausiņš, parasti 7–10 mm augsts un 6–8 mm plats, un aptuveni 5–16 mm augsts un 4–15 mm diametrā. Sākumā tas ir vālesveida līdz šauri apgriezti konusveidīgs, un to noslēdz plāna bālgana plēve. Plēve pārplīst un atstāj uz malas sīkas atliekas, kad kausiņš atveras par vāzi vai piltuvi ar sašaurinātu pamatu. Ārpuse ir pelēcīgi okerkrāsas, brūna, rūsganbrūna vai melngani brūna un pinkaina, matiņi lielākoties vērsti uz leju. Iekšpuse ir pelēka, spīdīga un stipri rievota, īpaši augšējā pusē.",
+        hymenium: "Lapiņu nav. Sporas veidojas peridiolās, olās, kas sēž kausiņā. Kausiņā to ir aptuveni desmit līdz sešpadsmit. Tās ir lēcveida, 1–2 mm platas, gaiši pelēkas līdz sudrabaini pelēkas, reizēm bālganas, kamēr saglabājas plāns ārējais apvalks, un kaimiņu spiediens var padarīt tās šķietami stūrainas. Katra ir saistīta ar iekšējo sienu ar saiti, funiculus. Bazīdijas ir vālesveida, ar gariem kātiņiem, un parasti nes četras sporas, kas sēž tieši uz bazīdijas.",
+        stipe: "Kātiņa nav. Kausiņš sēž uz hifu spilventiņa, bieži aptuveni 8–12 mm diametrā, kas to tur pie koksnes.",
+        flesh: "Mīkstums ir plāna sieniņa, sīksta līdz cieta, un brūna. Smarža un garša nav raksturīgas.",
+        sporePrint: "Sporu nospiedums ir balts līdz bezkrāsains. Sporas ir hialīnas, gludas, biezsienainas un elipsoidālas, bieži vienā galā ar ierobu, aptuveni 12–22 × 7–12 μm.",
+        habitat: "Biotopā augļķermeņi aug izklaidus vai blīvās grupās uz platlapju un skujkoku, tostarp ozola, dižskābarža, egles, kļavas un skābarža, nokritušiem zariņiem, zariem un citām koksnes atliekām, kā arī uz šķeldas un citām augu atliekām, mežos un atklātā vietā. Tie augļo no jūnija līdz decembrim: Viduseiropā no jūnija līdz novembrim, Slovākijā no augusta līdz decembrim, bet Britānijā un Ziemeļamerikā vasarā un rudenī.",
+        notes: "Lietus lāse, kas iekrīt kausiņā, izšļaksta peridiolas. Saite attinas, un lipīgs gals var aizķerties tuvējā veģetācijā, tā ka peridiola paliek tur karājamies. Sēne veido striatīnus, savienojumus ar antibiotisku iedarbību.",
+        confusion: "Gludajai kausenītei (Cyathus olla) ir gluda iekšpuse un mazāk pinkaina ārpuse, un tā biežāk aug atklātā vietā. Cyathus stercoreus arī ir gluda iekšpuse, un tā aug uz mēsliem vai mēslotas zemes. Parastajai piestenītei (Crucibulum laeve) ir dzeltens līdz oranžs vāciņš, okkerdzeltena filcaina ārpuse, gluda bāla iekšpuse un bāli okerdzeltenas līdz baltas peridiolas."
+      },
+      lt: {
+        description: "Nedidelis saprotrofinis grybas ant negyvų šakelių, nukritusių šakų ir medžio skiedrų. Jis plačiai paplitęs vidutinio klimato Europoje, įskaitant Slovakiją, taip pat Azijoje ir Šiaurės Amerikoje, ir taip pat žinomas Centrinėje Amerikoje, Pietų Amerikoje ir Naujojoje Zelandijoje.",
+        cap: "Atskira kepurėlė nesusidaro: vaisiakūnis yra taurelė, paprastai 7–10 mm aukščio ir 6–8 mm pločio, ir apie 5–16 mm aukščio bei 4–15 mm skersmens. Pradžioje jis buožiškas arba siaurai apverstai kūgiškas ir uždarytas plona balsva plėvele. Plėvelė plyšta ir palieka smulkių skiaučių ant krašto, kai taurelė atsiveria į vazos ar piltuvo pavidalą susiaurėjusiu pagrindu. Išorė pilkšvai ochrinė, ruda, rūdžių ruda arba juosvai ruda ir gauruota, plaukeliai daugiausia nukreipti žemyn. Vidus pilkas, blizgus ir stipriai vagotas, ypač viršutinėje pusėje.",
+        hymenium: "Lakštelių nėra. Sporos susidaro peridiolėse, kiaušinėliuose, kurie guli taurelėje. Taurelėje jų būna apie dešimt–šešiolika. Jos lęšiškos, 1–2 mm pločio, šviesiai pilkos iki sidabriškai pilkos, kartais balsvos, kol išlieka plonas išorinis apvalkalas, o kaimynių spaudimas gali padaryti jas kampuotas. Kiekviena vidine sienele sujungta virvele, funiculus. Bazidijos buožiškos, su ilgais koteliais, ir paprastai neša keturias sporas, sėdinčias tiesiai ant bazidijos.",
+        stipe: "Koto nėra. Taurelė sėdi ant hifų pagalvėlės, dažnai apie 8–12 mm skersmens, kuri laiko ją prie medienos.",
+        flesh: "Trama yra plona sienelė, nuo tvirtos iki kietos, ir ruda. Kvapas ir skonis neišraiškingi.",
+        sporePrint: "Sporų atspaudas baltas iki bespalvio. Sporos hialininės, lygios, storasienės ir elipsoidinės, dažnai įrantytos viename gale, apie 12–22 × 7–12 μm.",
+        habitat: "Augavietėje vaisiakūniai auga išsibarstę arba tankiomis grupėmis ant lapuočių ir spygliuočių, įskaitant ąžuolą, buką, eglę, klevą ir skroblą, nukritusių šakelių, šakų ir kitų medienos liekanų, taip pat ant medžio skiedrų ir kitų augalų liekanų, miškuose ir atvirose vietose. Jie dera nuo birželio iki gruodžio: Vidurio Europoje nuo birželio iki lapkričio, Slovakijoje nuo rugpjūčio iki gruodžio, o Britanijoje ir Šiaurės Amerikoje vasarą ir rudenį.",
+        notes: "Lietaus lašas, kuris įkrinta į taurelę, ištaško peridioles. Virvelė išsivynioja, ir lipnus galas gali užkibti už gretimos augalijos, tad peridiolė lieka ten kaboti. Grybas gamina striatinus, junginius, turinčius antibiotinį aktyvumą.",
+        confusion: "Puvėsinė miegė (Cyathus olla) turi lygų vidų ir mažiau gauruotą išorę, ir dažniau auga atvirose vietose. Mėšlinė miegė (Cyathus stercoreus) taip pat turi lygų vidų ir auga ant mėšlo arba mėšlu patręštos žemės. Lygusis tigliagrybis (Crucibulum laeve) turi geltoną arba oranžinį dangtelį, ochriškai geltoną veltininę išorę, lygų šviesų vidų ir šviesiai ochrines iki baltų peridioles."
+      },
+      it: {
+        description: "Un piccolo fungo saprotrofo di rametti morti, rami caduti e trucioli di legno. È diffuso nell'Europa temperata, Slovacchia compresa, e in Asia e in America settentrionale, ed è segnalato anche in America centrale, in America meridionale e in Nuova Zelanda.",
+        cap: "Il corpo fruttifero è una coppa, di solito alta 7–10 mm e larga 6–8 mm, e di circa 5–16 mm di altezza e 4–15 mm di larghezza. All'inizio è da clavato a strettamente obconico ed è chiuso da una sottile membrana biancastra. La membrana si lacera e lascia piccoli brandelli sull'orlo quando la coppa si apre a vaso o a imbuto con la base ristretta. L'esterno è grigio camoscio, bruno, bruno ruggine o bruno nerastro, e irsuto, con peli rivolti per lo più verso il basso. L'interno è grigio, lucido e fortemente scanalato, soprattutto nella metà superiore.",
+        hymenium: "Non ci sono lamelle. Le spore si formano dentro i peridioli, le uova che stanno nella coppa. Una coppa ne contiene circa da dieci a sedici. Sono lenticolari, larghi 1–2 mm, e da grigio pallido a grigio argenteo, talvolta biancastri finché resta un sottile rivestimento esterno, e la pressione dei vicini può farli sembrare angolosi. Ciascuno è legato alla parete interna da un cordone, il funicolo. I basidi sono clavati, con lunghi peduncoli, e di solito portano quattro spore sessili, inserite direttamente sul basidio.",
+        stipe: "Non c'è gambo. La coppa poggia su un cuscinetto di ife, spesso di circa 8–12 mm di diametro, che la fissa al legno.",
+        flesh: "La parete è sottile e da tenace a dura, e bruna. Odore e sapore non sono particolari.",
+        sporePrint: "Bianca o incolore. Le spore sono ialine, lisse, a parete spessa ed ellissoidali, spesso intaccate a un'estremità, di circa 12–22 × 7–12 μm.",
+        habitat: "I corpi fruttiferi crescono sparsi o in gruppi densi su rametti caduti, rami e altri detriti legnosi di latifoglie e conifere, tra cui quercia, faggio, abete rosso, acero e carpino, e su trucioli di legno e altri resti vegetali, nei boschi e all'aperto. Fruttificano da giugno fino a dicembre: da giugno a novembre nell'Europa centrale, da agosto a dicembre in Slovacchia, e in estate e in autunno in Gran Bretagna e in America settentrionale.",
+        notes: "Una goccia di pioggia che cade nella coppa schizza fuori i peridioli. Il cordone si srotola, e un'estremità appiccicosa può attaccarsi alla vegetazione vicina, così che il peridiolo resta appeso. Il fungo produce striatine, composti con attività antibiotica.",
+        confusion: "Cyathus olla ha l'interno liscio e l'esterno meno irsuto, e cresce più spesso all'aperto. Cyathus stercoreus ha anch'esso l'interno liscio e cresce su letame o terreno concimato. Crucibulum laeve ha un coperchio da giallo ad arancione, un esterno feltrato giallo ocra, un interno pallido e liscio, e peridioli da ocra pallido a bianchi."
+      },
+      hr: {
+        description: "Mala saprotrofna gljiva mrtvih grančica, otpalih grana i drvne sječke. Rasprostranjena je u umjerenoj Europi, uključujući Slovačku, te u Aziji i Sjevernoj Americi, a zabilježena je i u Srednjoj Americi, Južnoj Americi i na Novom Zelandu.",
+        cap: "Klobuk je čaška, obično visok 7–10 mm i širok 6–8 mm, a ukupno oko 5–16 mm visok i 4–15 mm širok. Isprva je batinast do usko obrnuto stožast i zatvoren tankom bjelkastom opnom. Opna se razdere i na rubu ostavi sitne ostatke kad se klobuk otvara u vazu ili lijevak sa suženom bazom. Vani je sivkasto bež, smeđ, hrđavosmeđ ili crnkastosmeđ i čupav, s dlačicama koje su većinom usmjerene prema dolje. Unutrašnjost je siva, sjajna i jako izbrazdana, osobito u gornjoj polovici.",
+        hymenium: "Listića nema. Spore nastaju unutar peridiola, jajašaca koja sjede u čaški. U jednoj čaški ih je oko deset do šesnaest. Lećaste su, široke 1–2 mm, svijetlosive do srebrnosive, katkad bjelkaste dok ostaje tanki vanjski ovoj, a pritisak susjeda može ih učiniti uglatima. Svaka je za unutarnju stijenku vezana vrpcom (funiculus). Bazidije su batinaste, s dugim drškama, i obično nose četiri spore nasađene izravno na bazidij.",
+        stipe: "Stručka nema. Čaška sjedi na jastučiću hifa, često oko 8–12 mm širokom, koji je drži na drvu.",
+        flesh: "Meso stijenke je tanko i žilavo do tvrdo, i smeđe. Miris i okus nisu izraženi.",
+        sporePrint: "Otisak spora je bijel do bezbojan. Spore su hijaline, glatke, debelostjene i elipsoidne, često urezane na jednom kraju, oko 12–22 × 7–12 μm.",
+        habitat: "Plodna tijela rastu razasuto ili u gustim skupinama na otpalim grančicama, granama i drugom drvenom otpadu listača i četinjača, uključujući hrast, bukvu, smreku, javor i grab, te na drvnoj sječki i drugim biljnim ostacima, u šumi i na otvorenome. Plode od lipnja do prosinca: od lipnja do studenoga u Srednjoj Europi, od kolovoza do prosinca u Slovačkoj te ljeti i u jesen u Britaniji i Sjevernoj Americi.",
+        notes: "Kišna kap koja padne u čašku izbaci peridiole van. Vrpca se odmotava, a ljepljivi kraj može se uhvatiti za obližnju vegetaciju, pa peridiola ostane visjeti. Gljiva stvara striatine, spojeve s antibiotičkim djelovanjem.",
+        confusion: "Cyathus olla ima glatku unutrašnjost i manje čupavu vanjštinu te češće raste na otvorenome. Cyathus stercoreus također ima glatku unutrašnjost i raste na izmetu ili na gnojenom tlu. Crucibulum laeve ima žuti do narančasti poklopac, okeržuti pusteni vanjski sloj, glatku svijetlu unutrašnjost i peridiole svijetlooker do bijele boje."
+      },
+      sl: {
+        description: "Majhna saprotrofna gliva odmrlih vejic, odpadlih vej in lesnih sekancev. Razširjena je v zmerni Evropi, vključno s Slovaško, ter v Aziji in Severni Ameriki, zabeležena pa je tudi v Srednji Ameriki, Južni Ameriki in na Novi Zelandiji.",
+        cap: "Klobuk je košek, običajno visok 7–10 mm in širok 6–8 mm, v celoti pa približno 5–16 mm visok in 4–15 mm širok. Sprva je kijast do ozko narobe stožčast in zaprt s tanko belkasto opno. Opna se pretrga in na robu pusti drobne ostanke, ko se klobuk odpre v vazo ali lijak z zoženo osnovo. Zunanjost je sivkasto bež, rjava, rjasto rjava ali črnikasto rjava in kosmata, z dlačicami, ki so večinoma usmerjene navzdol. Notranjost je siva, sijoča in močno žlebasta, zlasti v zgornji polovici.",
+        hymenium: "Lističev nima. Trosi nastajajo v peridiolah, jajčecih, ki sedijo v košku. V enem košku jih je približno deset do šestnajst. So lečaste, široke 1–2 mm, svetlo sive do srebrno sivih, včasih belkaste, dokler ostaja tanek zunanji ovoj, pritisk sosednjih pa jih lahko naredi oglate. Vsaka je na notranjo steno privezana z vrvico (funiculus). Bazidiji so kijasti, z dolgimi peclji, in običajno nosijo štiri trose, nameščene neposredno na bazidij.",
+        stipe: "Beta nima. Košek sedi na blazinici hif, pogosto približno 8–12 mm široki, ki ga drži na lesu.",
+        flesh: "Meso stene je tanko in žilavo do trdo ter rjavo. Vonj in okus nista značilna.",
+        sporePrint: "Trosni prah je bel do brezbarven. Trosi so hialini, gladki, debelostenski in elipsasti, pogosto z zarezo na enem koncu, približno 12–22 × 7–12 μm.",
+        habitat: "Trosnjaki rastejo raztreseno ali v gostih skupinah na odpadlih vejicah, vejah in drugih lesnih ostankih listavcev in iglavcev, vključno s hrastom, bukvijo, smreko, javorjem in gabrom, ter na lesnih sekancih in drugih rastlinskih ostankih, v gozdu in na prostem. Trosijo od junija do decembra: od junija do novembra v Srednji Evropi, od avgusta do decembra na Slovaškem ter poleti in jeseni v Britaniji in Severni Ameriki.",
+        notes: "Dežna kaplja, ki pade v notranjost, izbrizga peridiole ven. Vrvica se odvije in lepljiv konec se lahko ujame za bližnje rastlinje, tako da peridiola obvisi. Gliva izdeluje striatine, spojine z antibiotičnim delovanjem.",
+        confusion: "Gladki košek (Cyathus olla) ima gladko notranjost in manj kosmato zunanjost ter pogosteje raste na prostem. Govnov košek (Cyathus stercoreus) ima prav tako gladko notranjost in raste na iztrebkih ali na gnojeni zemlji. Navadni lonček (Crucibulum laeve) ima rumeno do oranžno veko, oker rumeno polsteno zunanjost, gladko svetlo notranjost in svetlo oker do bele peridiole."
+      },
+      sr: {
+        description: "Мала сапротрофна гљива мртвих гранчица, опалих грана и дрвене сечке. Распрострањена је у умереној Европи, укључујући Словачку, и у Азији и Северној Америци, а забележена је и у Средњој Америци, Јужној Америци и на Новом Зеланду.",
+        cap: "Шешир је чашица, обично висок 7–10 mm и широк 6–8 mm, а укупно око 5–16 mm висок и 4–15 mm широк. У почетку је батинаст до уско обрнуто купаст и затворен танком беличастом опном. Опна се поцепа и на ободу остави ситне остатке кад се шешир отвара у вазу или левак са суженом основом. Споља је сивкасто беж, смеђ, рђастосмеђ или црнкастосмеђ и чупав, са длачицама које су углавном усмерене надоле. Унутрашњост је сива, сјајна и јако избраздана, нарочито у горњој половини.",
+        hymenium: "Листића нема. Споре настају унутар перидиола, јајашаца која седе у чашици. У једној чашици их је око десет до шеснаест. Сочивасте су, широке 1–2 mm, светлосиве до сребрнастосиве, понекад беличасте док остаје танки спољашњи омот, а притисак суседа може да их учини угластим. Свака је за унутрашњи зид везана врпцом (funiculus). Базидије су батинасте, са дугим дршкама, и обично носе четири споре које седе непосредно на базидији.",
+        stipe: "Дршке нема. Чашица седи на јастучићу хифа, често око 8–12 mm широком, који је држи на дрвету.",
+        flesh: "Месо зида је танко и жилаво до тврдо, и смеђе. Мирис и укус нису изражени.",
+        sporePrint: "Отисак спора је бео до безбојан. Споре су хијалинске, глатке, дебелозидне и елипсоидне, често зарезане на једном крају, око 12–22 × 7–12 μm.",
+        habitat: "Плодна тела расту расуто или у густим скупинама на опалим гранчицама, гранама и другом дрвеном отпаду лишћара и четинара, укључујући храст, букву, смрчу, јавор и граб, и на дрвеној сечки и другим биљним остацима, у шуми и на отвореном. Плоде од јуна до децембра: од јуна до новембра у Средњој Европи, од августа до децембра у Словачкој, а лети и у јесен у Британији и Северној Америци.",
+        notes: "Кишна кап која падне у чашицу избацује перидиоле напоље. Врпца се одмотава, а лепљиви крај може да се ухвати за оближњу вегетацију, тако да перидиола остане да виси. Гљива ствара стриатине, једињења са антибиотичким дејством.",
+        confusion: "Глатка кошарица (Cyathus olla) има глатку унутрашњост и мање чупаву спољашњост и чешће расте на отвореном. Cyathus stercoreus такође има глатку унутрашњост и расте на балеги или на нађубреном тлу. Crucibulum laeve има жут до наранџаст поклопац, окержуту пустену спољашњост, глатку светлу унутрашњост и светлоокер до беле перидиоле."
+      },
+      ro: {
+        description: "O ciupercă saprotrofă mică de rămurele moarte, ramuri căzute și așchii de lemn. Este răspândită în Europa temperată, inclusiv în Slovacia, și în Asia și America de Nord, și este semnalată și în America Centrală, America de Sud și Noua Zeelandă.",
+        cap: "Corpul fructifer este o cupă, de obicei înaltă de 7–10 mm și lată de 6–8 mm, și de circa 5–16 mm înălțime și 4–15 mm lățime. La început are formă de măciucă până la o formă îngustă obconică și este închis de o membrană subțire albicioasă. Membrana se rupe și lasă mici fâșii pe margine când cupa se deschide într-o vază sau o pâlnie cu baza îngustată. Exteriorul este cenușiu-bej, brun, brun-ruginiu sau brun-negricios, și zbârlit, cu peri îndreptați mai ales în jos. Interiorul este cenușiu, lucios și puternic canelat, mai ales în jumătatea superioară.",
+        hymenium: "Nu există lamele. Sporii se formează în peridiole, ouăle care stau în cupă. O cupă ține circa zece până la șaisprezece. Sunt lenticulare, late de 1–2 mm, și de la cenușiu-palid la cenușiu-argintiu, uneori albicioase cât timp rămâne un înveliș exterior subțire, iar presiunea vecinelor le poate face să pară unghiulare. Fiecare este legată de peretele interior printr-un cordon, funiculusul. Bazidiile sunt clavate, cu tulpini lungi, și de obicei poartă patru spori sesili, așezați direct pe bazidie.",
+        stipe: "Nu există picior. Cupa stă pe o pernă de hife, adesea de circa 8–12 mm în diametru, care o fixează de lemn.",
+        flesh: "Peretele este subțire și de la tenace la dur, și brun. Mirosul și gustul nu sunt caracteristice.",
+        sporePrint: "Albă până la incoloră. Sporii sunt hialini, netezi, cu perete gros și elipsoidali, adesea crestați la un capăt, de circa 12–22 × 7–12 μm.",
+        habitat: "Corpurile fructifere cresc împrăștiate sau în grupuri dese pe rămurele căzute, ramuri și alte resturi lemnoase de foioase și conifere, între care stejar, fag, molid, arțar și carpen, precum și pe așchii de lemn și alte resturi vegetale, în păduri și în loc deschis. Fructifică din iunie până în decembrie: din iunie până în noiembrie în Europa Centrală, din august până în decembrie în Slovacia, iar vara și toamna în Marea Britanie și în America de Nord.",
+        notes: "O picătură de ploaie care cade în cupă stropește peridiolele afară. Cordonul se desfășoară, iar un capăt lipicios se poate prinde de vegetația din apropiere, astfel încât peridiola rămâne atârnată acolo. Ciuperca produce striatine, compuși cu activitate antibiotică.",
+        confusion: "Cyathus olla are interiorul neted și exteriorul mai puțin zbârlit, și crește mai des în loc deschis. Cyathus stercoreus are și el interiorul neted și crește pe bălegar sau pe sol gunoit. Crucibulum laeve are un capac de la galben la portocaliu, un exterior pâslos ocru-gălbui, un interior palid și neted, și peridiole de la ocru palid la albe."
+      },
+      bg: {
+        description: "Дребен сапротрофен гъбен вид по мъртви клонки, паднали клони и дървесни стърготини. Разпространен е в умерена Европа, включително в Словакия, както и в Азия и Северна Америка, и е отбелязан също в Централна Америка, Южна Америка и Нова Зеландия.",
+        cap: "Отделна гугла няма: плодното тяло е чашка, обикновено 7–10 мм висока и 6–8 мм широка, и около 5–16 мм висока и 4–15 мм в диаметър. Отначало е бухалковидна до тясно обратноконична и е затворена от тънка белезникава ципа. Ципата се разкъсва и оставя дребни късчета по ръба, докато чашката се отваря във ваза или фуния със стеснена основа. Външната страна е сивоохрена, кафява, ръждивокафява или чернокафява и рошава, с власинки, които най-често сочат надолу. Вътрешността е сива, лъскава и силно набраздена, особено в горната половина.",
+        hymenium: "Ламели няма. Спорите се образуват в перидиолите, яйцата, които стоят в чашката. В една чашка има около десет до шестнадесет. Те са лещовидни, широки 1–2 мм, бледосиви до сребристосиви, понякога белезникави, докато остава тънка външна обвивка, а натискът от съседните може да ги прави ъгловати. Всяка е вързана за вътрешната стена с шнур, фуникулусът. Базидиите са бухалковидни, с дълги дръжки, и обикновено носят четири спори, седнали направо върху базидията.",
+        stipe: "Пънче няма. Чашката стои върху възглавничка от хифи, често около 8–12 мм в диаметър, която я държи към дървесината.",
+        flesh: "Месото е тънка стена, от жилава до твърда, и кафява. Миризмата и вкусът не са характерни.",
+        sporePrint: "Споровият прашец е бял до безцветен. Спорите са хиалинни, гладки, дебелостенни и елипсоидни, често с изрезка в единия край, около 12–22 × 7–12 μm.",
+        habitat: "В местообитанието плодните тела растат разпръснато или на гъсти групи по паднали клонки, клони и други дървесни остатъци от широколистни и иглолистни дървета, включително дъб, бук, смърч, клен и габър, както и по дървесни стърготини и други растителни остатъци, в гори и на открито. Плододават от юни до декември: от юни до ноември в Централна Европа, от август до декември в Словакия и през лятото и есента в Британия и Северна Америка.",
+        notes: "Дъждовна капка, която попадне в чашката, изпръсква перидиолите навън. Шнурът се размотава, и лепкавият край може да се захване за близката растителност, така че перидиолата остава да виси там. Гъбата образува стриатини, съединения с антибиотично действие.",
+        confusion: "Cyathus olla има гладка вътрешност и по-слабо рунтава външна повърхност и по-често расте на открито. Торен циатус (Cyathus stercoreus) също има гладка вътрешност и расте върху тор или на наторена почва. Crucibulum laeve има жълто до оранжево капаче, охреножълта плъстена външна повърхност, гладка бледа вътрешност и бледоохрени до бели перидиоли."
+      },
+      tr: {
+        description: "Ölü ince dallar, düşmüş dallar ve odun yongaları üzerinde yaşayan küçük bir saprofit mantardır. Slovakya dahil ılıman Avrupa’da, Asya’da ve Kuzey Amerika’da yaygındır; Orta Amerika, Güney Amerika ve Yeni Zelanda’dan da kaydı vardır.",
+        cap: "Meyve gövdesi bir kâsedir; genellikle 7–10 mm yüksekliğinde ve 6–8 mm genişliğindedir, yaklaşık 5–16 mm yüksekliğe ve 4–15 mm genişliğe de çıkar. Başlangıçta sopa biçiminden dar ters koniye kadar değişir ve ince, beyazımsı bir zarla kapalıdır. Zar yırtılır ve kâse, tabanı daralmış bir vazo ya da huni olarak açılırken ağız kenarında küçük parçalar bırakır. Dışı grimsi devetüyü, kahverengi, pas kahverengisi ya da siyahımsı kahverengidir ve kaba tüylüdür; tüylerin çoğu aşağı bakar. İçi gri, parlak ve özellikle üst yarısında belirgin olukludur.",
+        hymenium: "Lameller yoktur. Sporlar, kâsenin içinde duran yumurtaların, yani peridiollerin içinde oluşur. Bir kâsede yaklaşık 10–16 tane bulunur. Mercek biçimindedirler, 1–2 mm genişliğindedir, açık griden gümüşi griye kadar değişir, ince bir dış örtü dururken bazen beyazımsıdır ve komşularının baskısı onları köşeli gösterebilir. Her biri bir kordonla, funikulus ile, iç duvara bağlıdır. Bazidiyumlar sopa biçiminde ve uzun saplıdır; genellikle dört spor doğrudan bazidiyumun üzerinde oturur.",
+        stipe: "Sap yoktur. Kâse, onu oduna bağlayan, çoğu kez yaklaşık 8–12 mm çapında bir mantar ipliği yastığının üzerinde durur.",
+        flesh: "Etli kısım, yani duvar, ince ve esnekten serte kadar değişen kıvamdadır ve kahverengidir. Koku ve tat belirgin değildir.",
+        sporePrint: "Spor izi beyazdan renksizedir. Sporlar renksiz ve saydam, düz, kalın duvarlı ve elipsoittir; bir uçları çoğu kez çentiklidir ve yaklaşık 12–22 × 7–12 μm boyundadır.",
+        habitat: "Meyve gövdeleri, meşe, kayın, ladin, akçaağaç ve gürgen dahil geniş yapraklı ve iğne yapraklı ağaçların düşmüş ince dalları, dalları ve diğer odunsu döküntüleri üzerinde, ayrıca odun yongaları ve diğer bitki artıklarında, yaşam alanı olan ormanda ve açıkta, dağınık ya da sık kümeler halinde büyür. Haziran’dan Aralık’a kadar meyve verir: Orta Avrupa’da Haziran–Kasım, Slovakya’da Ağustos–Aralık, Britanya ve Kuzey Amerika’da yaz ve sonbahar.",
+        notes: "Kâseye düşen bir yağmur damlası peridiolleri dışarı sıçratır. Kordon açılır ve yapışkan ucu yakındaki bitkilere takılabilir, böylece peridiol orada asılı kalır. Mantar, antibiyotik etkinliği olan striatins bileşiklerini üretir.",
+        confusion: "Cyathus olla’nın içi düzgündür, dışı daha az kaba tüylüdür ve daha çok açıkta büyür. Cyathus stercoreus’un içi de düzgündür ve dışkı ya da gübrelenmiş toprakta büyür. Crucibulum laeve’nin kapağı sarıdan turuncuya değişir, dışı aşıboyası sarısı ve keçemsi, içi düzgün ve soluktur; peridiolleri soluk aşıboyasından beyaza kadardır."
+      },
+      id: {
+        description: "Jamur saprotrof kecil pada ranting mati, cabang yang jatuh, dan serpihan kayu. Tersebar luas di Eropa beriklim sedang, termasuk Slovakia, serta di Asia dan Amerika Utara, dan tercatat pula di Amerika Tengah, Amerika Selatan, dan Selandia Baru.",
+        cap: "Tubuh buah berupa mangkuk, biasanya tinggi 7–10 mm dan lebar 6–8 mm, dan dari sekitar 5–16 mm tinggi serta 4–15 mm lebar. Mula-mula berbentuk gada hingga kerucut terbalik yang sempit dan tertutup selaput tipis keputihan. Selaput itu robek dan meninggalkan serpihan kecil di bibir saat mangkuk membuka menjadi vas atau corong dengan pangkal yang menyempit. Bagian luar abu-abu kekuningan pucat, cokelat, cokelat karat, atau cokelat kehitaman, dan berambut kasar, dengan rambut yang sebagian besar mengarah ke bawah. Bagian dalam abu-abu, mengilap, dan beralur kuat, terutama pada setengah bagian atas.",
+        hymenium: "Tidak ada lamela. Spora terbentuk di dalam peridiol, telur yang duduk di dalam mangkuk. Satu mangkuk memuat sekitar 10–16 peridiol. Peridiol itu lentikular, lebar 1–2 mm, abu-abu pucat sampai abu-abu keperakan, kadang keputihan selagi selaput luar yang tipis masih ada, dan tekanan dari tetangga-tetangganya dapat membuatnya tampak bersudut. Masing-masing diikat ke dinding dalam oleh seutas tali, funikulus. Basidium berbentuk gada, bertangkai panjang, dan biasanya menghasilkan empat spora yang duduk langsung pada basidium.",
+        stipe: "Tidak ada tangkai. Mangkuk duduk pada bantalan hifa, sering kali selebar sekitar 8–12 mm, yang menahannya pada kayu.",
+        flesh: "Daging, yaitu dindingnya, tipis dan liat sampai keras, serta cokelat. Bau dan rasa tidak khas.",
+        sporePrint: "Jejak spora putih sampai tidak berwarna. Sporanya hialin, halus, berdinding tebal, dan elipsoidal, sering bertakik di satu ujung, sekitar 12–22 × 7–12 μm.",
+        habitat: "Tubuh buah tumbuh tersebar atau dalam kelompok rapat pada ranting, cabang, dan sisa kayu lain dari pohon berdaun lebar dan konifer yang jatuh, termasuk Quercus, Fagus, Picea, Acer, dan Carpinus, serta pada serpihan kayu dan sisa tumbuhan lain. Habitatnya di dalam hutan dan di tempat terbuka. Tubuh buah muncul dari Juni sampai Desember: Juni hingga November di Eropa Tengah, Agustus hingga Desember di Slovakia, serta musim panas dan gugur di Britania dan Amerika Utara.",
+        notes: "Tetesan hujan yang jatuh ke dalam mangkuk memercikkan peridiol keluar. Talinya terurai, dan ujung yang lengket dapat tersangkut pada tumbuhan di dekatnya sehingga peridiol tertinggal bergantung di sana. Jamur ini menghasilkan striatins, senyawa dengan aktivitas antibiotik.",
+        confusion: "Cyathus olla memiliki bagian dalam yang halus dan bagian luar yang kurang berambut kasar, serta lebih sering tumbuh di tempat terbuka. Cyathus stercoreus juga memiliki bagian dalam yang halus dan tumbuh pada kotoran atau tanah yang dipupuk. Crucibulum laeve memiliki tutup kuning sampai jingga, bagian luar kuning oker yang terasa seperti kain kempa, bagian dalam pucat yang halus, dan peridiol oker pucat sampai putih."
+      },
+      ja: {
+        description: "枯れた細枝、落ちた枝、木材チップに生える小型の腐生性の菌類です。スロバキアを含む温帯のヨーロッパ、アジア、北アメリカに広く分布し、中央アメリカ、南アメリカ、ニュージーランドでも記録されています。",
+        cap: "子実体はコップ形で、ふつう高さ7–10 mm、幅6–8 mm、およそ高さ5–16 mm、幅4–15 mmになるものもあります。はじめは棍棒形から狭い倒円錐形で、薄い白っぽい膜に閉じられています。膜は破れ、コップが開くときに縁へ小さな断片を残し、基部のくびれた花瓶形または漏斗形になります。外側は灰淡黄褐色、褐色、さび褐色、または黒褐色で、毛は粗く、多くは下を向きます。内側は灰色で光沢があり、とくに上半分に強い縦の溝があります。",
+        hymenium: "ひだはありません。胞子はコップの中の卵、すなわち小塊粒の中でできます。コップ1個に約10–16個入ります。レンズ形で幅1–2 mm、淡灰色から銀灰色で、薄い外被が残っているあいだは白色がかることがあり、隣同士の圧迫で角張って見えることがあります。それぞれは紐（臍の緒）で内壁につながります。担子は棍棒形で長い柄をもち、ふつう4個の胞子が担子の上に直接座っています。",
+        stipe: "柄はありません。コップは菌糸の座の上にあり、その座はしばしば径約8–12 mmで、コップを木材に固定します。",
+        flesh: "肉にあたる壁は薄く、強靭から硬い質で、褐色です。匂いや味に特徴はありません。",
+        sporePrint: "胞子紋は白色から無色です。胞子は無色、平滑、厚壁、楕円形で、一端がしばしば切れ込んでおり、約12–22 × 7–12 μmです。",
+        habitat: "子実体は、ナラ、ブナ、トウヒ、カエデ、クマシデを含む広葉樹と針葉樹の落ちた細枝、枝、そのほかの木質の残骸の上、および木材チップやほかの植物遺体の上に、林の中と開けた場所を発生環境として、散生または密な群生をします。発生は6月から12月に及び、中央ヨーロッパでは6月から11月、スロバキアでは8月から12月、イギリスと北アメリカでは夏と秋です。",
+        notes: "コップに落ちた雨粒が小塊粒をはね出します。紐はほどけ、粘る先端が近くの植物に引っ掛かると、小塊粒はそこにぶら下がったままになります。抗生物質活性をもつ化合物、ストリアチン類を作ります。京都府では準絶滅危惧種とされています。",
+        confusion: "Cyathus ollaは内側が平滑で、外側の毛はより少なく、開けた場所に生えることがより多いです。ハタケチャダイゴケ（Cyathus stercoreus）も内側は平滑で、糞の上、または施肥された地面に生えます。Crucibulum laeveは黄色から橙色の蓋をもち、外側は黄土黄色のフェルト状、内側は平滑で淡色、小塊粒は淡黄土色から白色です。"
+      },
+      ko: {
+        description: "죽은 잔가지, 떨어진 나뭇가지, 나무 칩에 사는 작은 부생성 균류입니다. 슬로바키아를 포함한 온대 유럽과 아시아, 북아메리카에 널리 퍼져 있으며, 중앙아메리카, 남아메리카, 뉴질랜드에서도 기록되어 있습니다.",
+        cap: "자실체는 컵 모양이며, 보통 높이 7–10 mm, 너비 6–8 mm이고, 약 높이 5–16 mm, 너비 4–15 mm에 이르기도 합니다. 처음에는 곤봉형에서 좁은 역원뿔형이며, 얇은 흰색 막으로 닫혀 있습니다. 막이 찢어져 가장자리에 작은 조각을 남기고, 컵은 밑이 좁아진 꽃병 또는 깔때기 모양으로 열립니다. 바깥쪽은 회색빛 담황갈색, 갈색, 녹슨 갈색 또는 거무스름한 갈색이고 털이 덥수룩하며, 털은 대부분 아래를 향합니다. 안쪽은 회색으로 윤이 나고, 특히 위쪽 절반에 홈이 깊게 나 있습니다.",
+        hymenium: "주름살은 없습니다. 포자는 컵 안에 놓인 알, 곧 peridiole 안에서 만들어집니다. 컵 하나에는 약 10–16개가 들어 있습니다. 알은 렌즈 모양이고 너비 1–2 mm이며, 옅은 회색에서 은회색이고, 얇은 겉껍질이 남아 있는 동안에는 희끄무레하기도 하며, 이웃한 것들의 눌림으로 각져 보일 수 있습니다. 각각은 끈, 곧 funiculus로 안쪽 벽에 매여 있습니다. 담자기는 곤봉 모양이고 자루가 길며, 보통 포자 네 개가 담자기 위에 직접 붙어 있습니다.",
+        stipe: "대는 없습니다. 컵은 균사로 된 방석 위에 있으며, 그 방석은 흔히 너비 약 8–12 mm로 컵을 나무에 붙들어 둡니다.",
+        flesh: "살에 해당하는 벽은 얇고 질기거나 단단하며 갈색입니다. 냄새와 맛은 뚜렷하지 않습니다.",
+        sporePrint: "포자문은 흰색에서 무색입니다. 포자는 무색 투명하고 매끄러우며 벽이 두껍고 타원형이며, 한끝은 흔히 패여 있고, 크기는 약 12–22 × 7–12 μm입니다.",
+        habitat: "자실체는 참나무, 너도밤나무, 가문비나무, 단풍나무, 서어나무를 포함한 활엽수와 침엽수의 떨어진 잔가지, 가지, 그 밖의 목질 잔해 위에, 그리고 나무 칩과 다른 식물 잔해 위에, 숲 속과 트인 곳이 서식지이며, 그곳에서 흩어지거나 빽빽한 무리로 자랍니다. 6월부터 12월까지 발생하며, 중부 유럽에서는 6월부터 11월까지, 슬로바키아에서는 8월부터 12월까지, 영국과 북아메리카에서는 여름과 가을입니다.",
+        notes: "컵에 떨어진 빗방울이 peridiole을 튀겨 냅니다. 끈이 풀리고, 끈적한 끝이 근처 식물에 걸리면 peridiole은 거기에 매달린 채 남습니다. 이 균류는 항생 활성이 있는 화합물인 striatins를 만듭니다.",
+        confusion: "Cyathus olla는 안쪽이 매끄럽고 바깥 털이 덜 덥수룩하며, 트인 곳에서 더 자주 자랍니다. Cyathus stercoreus도 안쪽이 매끄럽고, 똥이나 거름을 준 땅에서 자랍니다. Crucibulum laeve는 노란빛에서 주황색의 덮개가 있고, 바깥은 황토색에서 노란색의 펠트 같으며, 안쪽은 매끄럽고 옅으며, peridiole은 옅은 황토색에서 흰색입니다."
+      },
+      zh: {
+        description: "一種小型的腐生真菌，生於枯死的細枝、落下的枝條和木片上。廣布於溫帶歐洲，包括斯洛伐克，以及亞洲和北美洲，中美洲、南美洲和紐西蘭也有紀錄。",
+        cap: "子實體是一個杯子，通常高7–10 mm、寬6–8 mm，也有約高5–16 mm、寬4–15 mm的。起初為棍棒形至狹倒圓錐形，由一層薄的帶白色的膜封閉。膜撕裂後在杯緣留下小碎片，杯子張開成花瓶形或漏斗形，基部收窄。外側為灰黃褐色、褐色、鏽褐色或黑褐色，毛粗而蓬鬆，毛大多朝下。內側灰色、有光澤，有很深的縱溝，上半部尤其明顯。",
+        hymenium: "沒有菌褶。孢子形成於杯中的卵內，卵即peridiole。一個杯子約有10–16個。它們呈透鏡形，寬1–2 mm，淡灰至銀灰，薄的外被還在時或帶白色，鄰近個體的擠壓可使它們看起來有稜角。每個以一條繩索，即funiculus，連在內壁上。擔子呈棍棒形，柄長，通常四個孢子直接生在擔子上。",
+        stipe: "沒有菌柄。杯子坐在一團菌絲墊上，這團墊常常寬約8–12 mm，把杯子固定在木材上。",
+        flesh: "杯壁薄，堅韌至堅硬，褐色。氣味和味道都不明顯。",
+        sporePrint: "孢子印為白色或無色。孢子無色透明，光滑，厚壁，橢圓形，一端常常有缺刻，約12–22 × 7–12 μm。",
+        habitat: "子實體散生或密集成群，生於闊葉樹和針葉樹落下的細枝、枝條和其他木質殘體上，包括櫟、山毛櫸、雲杉、槭和鵝耳櫪，也生於木片和其他植物殘體上，生長環境為林中和開闊處。發生期從6月延續到12月：中歐為6月至11月，斯洛伐克為8月至12月，英國和北美洲為夏季和秋季。",
+        notes: "落入杯中的雨滴把卵濺出去。繩索展開，有黏性的一端可以掛在附近的植物上，於是卵懸在那裡。此菌產生striatin，即具有抗生素活性的化合物。",
+        confusion: "Cyathus olla內側平滑，外側沒有那麼蓬鬆，更常生在開闊處。Cyathus stercoreus內側也平滑，生在糞上或施過肥的地面。Crucibulum laeve有黃色至橙色的蓋，外側為赭黃色的氈狀，內側平滑而色淡，卵為淡赭色至白色。"
+      },
+      hi: {
+        description: "मृत टहनियों, गिरी हुई शाखाओं और लकड़ी की छीलन पर रहने वाली एक छोटी मृतोपजीवी कवक। यह समशीतोष्ण यूरोप में, स्लोवाकिया सहित, तथा एशिया और उत्तरी अमेरिका में व्यापक है, और मध्य अमेरिका, दक्षिण अमेरिका तथा न्यूज़ीलैंड से भी दर्ज है।",
+        cap: "फलनकाय एक प्याला है, और टोपी यही प्याला है। यह आमतौर पर 7–10 mm ऊँचा और 6–8 mm चौड़ा होता है, और लगभग 5–16 mm ऊँचा तथा 4–15 mm चौड़ा। शुरू में यह गदा के आकार से संकीर्ण उलटा-शंक्वाकार होता है और एक पतली श्वेताभ झिल्ली से बंद रहता है। झिल्ली फटती है और प्याले के खुलते समय किनारे पर छोटे टुकड़े छोड़ती है, और प्याला संकरे आधार वाला कलश या कीप बन जाता है। बाहर धूसर-मटमैला, भूरा, जंग जैसा भूरा या कालिमा लिए भूरा और झबरा होता है, और रोएँ अधिकतर नीचे की ओर झुके होते हैं। अंदर धूसर, चमकदार और गहराई से खाँचेदार होता है, खासकर ऊपरी आधे भाग में।",
+        hymenium: "गिल्स नहीं होते। बीजाणु पेरिडिओल के भीतर बनते हैं, वे अंडे जो प्याले में बैठे होते हैं। एक प्याले में लगभग दस से सोलह होते हैं। वे मसूराकार, 1–2 mm चौड़े और हल्के धूसर से चाँदी जैसे धूसर होते हैं, पतली बाहरी परत रहते कभी-कभी श्वेताभ, और पड़ोसियों के दबाव से कोणीय दिख सकते हैं। हर एक भीतरी दीवार से एक डोरी, फ्यूनिकुलस, से बँधा होता है। बेसिडिया गदा के आकार के और लंबे वृंत वाले होते हैं, और आमतौर पर चार बीजाणु सीधे बेसिडियम पर बैठे होते हैं।",
+        stipe: "डंठल नहीं होता। प्याला कवकतंतुओं के एक गद्दे पर बैठता है, अक्सर लगभग 8–12 mm चौड़ा, जो उसे लकड़ी से जोड़े रखता है।",
+        flesh: "भित्ति पतली और कड़ी से कठोर तथा भूरी होती है। गूदे की गंध और स्वाद विशिष्ट नहीं हैं।",
+        sporePrint: "बीजाणु छाप सफ़ेद से रंगहीन होती है। बीजाणु रंगहीन, चिकने, मोटी भित्ति वाले और दीर्घवृत्ताकार होते हैं, अक्सर एक सिरे पर कटे हुए, लगभग 12–22 × 7–12 μm।",
+        habitat: "फलनकाय चौड़ी पत्ती और शंकुधारी पेड़ों की गिरी टहनियों, शाखाओं और अन्य काष्ठीय मलबे पर छितरे या घने समूहों में उगते हैं, जिनमें ओक, बीच, स्प्रूस, मेपल और हॉर्नबीम (Carpinus) शामिल हैं, तथा लकड़ी की छीलन और अन्य पादप अवशेषों पर, जंगलों में और खुले में। वे जून से दिसंबर तक फलते हैं: मध्य यूरोप में जून से नवंबर, स्लोवाकिया में अगस्त से दिसंबर, और ब्रिटेन तथा उत्तरी अमेरिका में ग्रीष्म और शरद में।",
+        notes: "प्याले में गिरने वाली वर्षा की बूँद पेरिडिओल को बाहर छितरा देती है। डोरी खुलती है, और उसका चिपचिपा सिरा पास की वनस्पति पर अटक सकता है, जिससे पेरिडिओल वहीं लटका रह जाता है। यह कवक striatins बनाती है, ऐसे यौगिक जिनमें प्रतिजैविक सक्रियता होती है।",
+        confusion: "Cyathus olla का भीतरी भाग चिकना और बाहर कम झबरा होता है, और यह अधिक बार खुले में उगता है। Cyathus stercoreus का भीतरी भाग भी चिकना होता है और यह गोबर या खाद मिली ज़मीन पर उगता है। Crucibulum laeve का ढक्कन पीला से नारंगी होता है, बाहर गेरुआ-पीला और नमदा जैसा, अंदर चिकना और हल्का, और पेरिडिओल हल्के गेरुए से सफ़ेद होते हैं।"
+      },
+      he: {
+        description: "פטרייה סאפרוטרופית קטנה של זרדים מתים, ענפים שנשרו ושבבי עץ. היא נפוצה באירופה הממוזגת, ובכלל זה בסלובקיה, ובאסיה ובצפון אמריקה, ותועדה גם באמריקה המרכזית, באמריקה הדרומית ובניו זילנד.",
+        cap: "גוף הפרי הוא גביע, והכובע הוא הגביע עצמו. גובהו בדרך כלל 7–10 mm ורוחבו 6–8 mm, ומכ־5–16 mm גובה ו־4–15 mm לרוחב. תחילה הוא דמוי אלה עד חרוט הפוך צר, וסגור בקרום דק לבנבן. הקרום נקרע ומשאיר קרעים קטנים על השפה כשהגביע נפתח לאגרטל או למשפך בעל בסיס מוצר. החוץ אפור־בז', חום, חום חלוד או חום־שחרחר, ומדובלל, ושערותיו פונות ברובן מטה. הפנים אפורים, מבריקים ומחורצים מאוד, בייחוד במחצית העליונה.",
+        hymenium: "אין דפים. הנבגים נוצרים בתוך הכיסונים, ה«ביצים» היושבות בגביע. בגביע כעשרה עד שישה־עשר מהם. הם עדשתיים, ברוחב 1–2 mm, אפורים חיוורים עד אפור־כסוף, לעיתים לבנבנים כל עוד נותרה קליפה חיצונית דקה, ולחץ השכנים יכול לעשותם זוויתיים למראה. כל אחד קשור לדופן הפנימית בפתיל קורים, ה־funiculus. הבסידיות דמויות אלה, בעלות עוקצים ארוכים, ובדרך כלל נושאות ארבעה נבגים היושבים ישירות על הבסידיה.",
+        stipe: "אין רגל. הגביע יושב על כרית של קורים, לרוב ברוחב של כ־8–12 mm, המצמידה אותו לעץ.",
+        flesh: "הדופן דקה וקשה עד קשיחה, וחומה. לבשר אין ריח או טעם אופייניים.",
+        sporePrint: "הדפס הנבגים לבן עד חסר צבע. הנבגים חסרי צבע, חלקים, עבי דופן ואליפסואידיים, לרוב בעלי חריץ בקצה אחד, בגודל של כ־12–22 × 7–12 μm.",
+        habitat: "גופי הפרי גדלים פזורים או בקבוצות צפופות על זרדים שנשרו, ענפים ושאר פסולת עצה של עצי עלים רחבים ומחטניים, ובהם אלון, אשור, אשוחית, אדר וקרפינוס (Carpinus), ועל שבבי עץ ושאר שרידי צמחים, ביער ובשטח פתוח. הם מניבים מיוני ועד דצמבר: מיוני עד נובמבר ברחבי מרכז אירופה, מאוגוסט עד דצמבר בסלובקיה, ובקיץ ובסתיו בבריטניה ובצפון אמריקה.",
+        notes: "טיפת גשם הנוחתת בגביע מתיזה את הכיסונים החוצה. הפתיל נפרש, וקצה דביק יכול להיתפס בצמחייה סמוכה כך שהכיסון נשאר תלוי שם. הפטרייה מייצרת striatins, תרכובות בעלות פעילות אנטיביוטית.",
+        confusion: "ל־Cyathus olla פנים חלקים וחוץ פחות שעיר, והיא גדלה לעיתים קרובות יותר בשטח הפתוח. למצילת גללים (Cyathus stercoreus) גם פנים חלקים, והיא גדלה על גללים או על קרקע מזובלת. ל־Crucibulum laeve מכסה צהוב עד כתום, חוץ לבדי בצבע אוכרה־צהוב, פנים חיוורים וחלקים, וכיסונים בצבע אוכרה חיוור עד לבן."
+      },
+      fa: {
+        description: "قارچی کوچک و ساپروتروف روی سرشاخه‌های مرده، شاخه‌های افتاده و خرده‌چوب. در اروپای معتدل، از جمله اسلواکی، و در آسیا و آمریکای شمالی گسترده است و از آمریکای مرکزی، آمریکای جنوبی و نیوزیلند نیز گزارش شده است.",
+        cap: "اندام بارده جامی است و کلاهک همان جام است. معمولاً ۷–۱۰ میلی‌متر ارتفاع و ۶–۸ میلی‌متر پهنا دارد، و حدود ۵–۱۶ میلی‌متر ارتفاع و ۴–۱۵ میلی‌متر پهنا. در آغاز گرزی تا مخروطی وارونهٔ باریک است و با پرده‌ای نازک و سفیدفام بسته است. پرده پاره می‌شود و هنگام باز شدن جام به گلدان یا قیفی با قاعدهٔ باریک، خرده‌های کوچکی بر لبه می‌گذارد. بیرون نخودی خاکستری، قهوه‌ای، قهوه‌ای زنگاری یا قهوه‌ای مایل به سیاه و پشمالو است و کرک‌ها بیشتر رو به پایین‌اند. درون خاکستری، براق و به‌شدت شیاردار است، به‌ویژه در نیمهٔ بالایی.",
+        hymenium: "تیغه‌ای وجود ندارد. هاگ‌ها درون پریدیول‌ها ساخته می‌شوند، همان تخم‌هایی که در جام نشسته‌اند. هر جام حدود ده تا شانزده عدد از آن‌ها را نگه می‌دارد. عدسی‌شکل‌اند، ۱–۲ میلی‌متر پهنا دارند و خاکستری روشن تا خاکستری نقره‌ای‌اند، و تا وقتی پوشش بیرونی نازک مانده گاهی سفیدفام‌اند، و فشار همسایه‌ها می‌تواند آن‌ها را زاویه‌دار نشان دهد. هر یک با رشته‌ای، فونیکولوس (funiculus)، به دیوارهٔ درونی بسته است. بازیدی‌ها گرزی‌شکل‌اند، با ساقه‌های بلند، و معمولاً چهار هاگ دارند که مستقیم روی بازیدی نشسته‌اند.",
+        stipe: "ساقه‌ای وجود ندارد. جام روی بالشتکی از ریسه می‌نشیند که اغلب حدود ۸–۱۲ میلی‌متر پهنا دارد و آن را به چوب نگه می‌دارد.",
+        flesh: "دیواره نازک و سفت تا سخت، و قهوه‌ای است. گوشت بو و مزهٔ شاخصی ندارد.",
+        sporePrint: "نقش هاگ سفید تا بی‌رنگ است. هاگ‌ها بی‌رنگ، صاف، دیواره‌ضخیم و بیضوی‌اند، اغلب با شکافی در یک سر، حدود ۱۲–۲۲ × ۷–۱۲ میکرومتر.",
+        habitat: "اندام‌های بارده پراکنده یا در گروه‌های انبوه روی سرشاخه‌ها و شاخه‌های افتاده و دیگر خردهٔ چوبی درختان پهن‌برگ و سوزنی‌برگ، از جمله بلوط، راش، نوئل، افرا و ممرز (Carpinus)، و روی خرده‌چوب و دیگر بقایای گیاهی، در جنگل و در فضای باز می‌رویند. از ژوئن تا دسامبر میوه می‌دهند: در اروپای مرکزی از ژوئن تا نوامبر، در اسلواکی از اوت تا دسامبر، و در بریتانیا و آمریکای شمالی در تابستان و پاییز.",
+        notes: "قطرهٔ بارانی که در جام می‌افتد پریدیول‌ها را به بیرون می‌پاشد. رشته باز می‌شود و سر چسبناکش می‌تواند به گیاهان نزدیک بگیرد، چنان‌که پریدیول آنجا آویزان بماند. این قارچ striatins می‌سازد، ترکیب‌هایی با فعالیت پادزیستی.",
+        confusion: "Cyathus olla درون صاف و بیرون کمتر پشمالو دارد و بیشتر در فضای باز می‌روید. Cyathus stercoreus نیز درون صاف دارد و روی سرگین یا زمین کودداده می‌روید. Crucibulum laeve درپوشی زرد تا نارنجی، بیرون نمدی به رنگ زرد اخرایی، درون روشن و صاف، و پریدیول‌هایی به رنگ اخرایی روشن تا سفید دارد."
+      },
+      ar: {
+        description: "فطر رمّي صغير على الأغصان الميتة والأفرع الساقطة ورقائق الخشب. واسع الانتشار في أوروبا المعتدلة، ومنها سلوفاكيا، وفي آسيا وأمريكا الشمالية، ومسجل أيضًا في أمريكا الوسطى وأمريكا الجنوبية ونيوزيلندا.",
+        cap: "الجسم الثمري كأس، والقبعة هي الكأس نفسها. ارتفاعه عادة ٧–١٠ مم وعرضه ٦–٨ مم، ونحو ٥–١٦ مم ارتفاعًا و٤–١٥ مم عرضًا. يبدأ هراوي الشكل إلى مخروطي مقلوب ضيق، ويغلقه غشاء رقيق مبيض. يتمزق الغشاء ويترك قصاصات صغيرة على الحافة حين تنفتح الكأس إلى مزهرية أو قمع بقاعدة متضيقة. الخارج رمادي بيجي أو بني أو بني صدئ أو بني مسود، وأشعث، وشعيراته تتجه في الغالب إلى الأسفل. الداخل رمادي لامع ومحزز بشدة، ولا سيما في النصف العلوي.",
+        hymenium: "لا صفائح. تتكون الأبواغ داخل البيريدولات، وهي البيض الجالس في الكأس. تحمل الكأس نحو عشرة إلى ستة عشر منها. وهي عدسية، عرضها ١–٢ مم، رمادية فاتحة إلى رمادية فضية، وقد تكون مبيضة ما بقي غلاف خارجي رقيق، وضغط الجيران قد يجعلها تبدو زاوية. كل واحدة مربوطة بالجدار الداخلي بحبل، هو الفونيكولوس (funiculus). البازيديومات هراوية، ذات أعناق طويلة، وتحمل عادة أربعة أبواغ جالسة مباشرة على البازيديوم.",
+        stipe: "لا ساق. تجلس الكأس على وسادة من الخيوط الفطرية، عرضها غالبًا نحو ٨–١٢ مم، تثبتها على الخشب.",
+        flesh: "الجدار رقيق ومتين إلى صلب، وبني. اللحم لا رائحة له ولا طعم مميزان.",
+        sporePrint: "طبعة الأبواغ بيضاء إلى عديمة اللون. الأبواغ شفافة، ملساء، سميكة الجدار وإهليلجية، غالبًا ذات ثلم في أحد الطرفين، نحو ١٢–٢٢ × ٧–١٢ ميكرومتر.",
+        habitat: "تنمو الأجسام الثمرية متفرقة أو في مجموعات كثيفة على الأغصان والأفرع الساقطة وغيرها من الحطام الخشبي لأشجار عريضة الأوراق ومخروطية، منها البلوط والزان والتنوب والقيقب والشرد (Carpinus)، وعلى رقائق الخشب وبقايا نباتية أخرى، في الغابات وفي العراء. تثمر من يونيو إلى ديسمبر: من يونيو إلى نوفمبر في أوروبا الوسطى، ومن أغسطس إلى ديسمبر في سلوفاكيا، وفي الصيف والخريف في بريطانيا وأمريكا الشمالية.",
+        notes: "قطرة مطر تقع في الكأس تنثر البيريدولات إلى الخارج. ينفك الحبل، وقد يعلق طرفه اللزج بالنبات القريب فيبقى البيريدول معلقًا هناك. ينتج الفطر مركبات striatins ذات نشاط مضاد للحيوية.",
+        confusion: "Cyathus olla داخله أملس وخارجه أقل أشعثًا، وينمو أكثر في العراء. Cyathus stercoreus داخله أملس أيضًا وينمو على الروث أو الأرض المسمّدة. Crucibulum laeve له غطاء أصفر إلى برتقالي، وخارج لبدي أصفر مغري، وداخل شاحب أملس، وبيريدولات من المغرة الفاتحة إلى الأبيض."
+      }
+    },
+    sources: {
+
+      en: [
+        {
+          group: "text",
+          name: "Wikipedia",
+          href: "https://en.wikipedia.org/wiki/Cyathus_striatus"
+        },
+        {
+          group: "text",
+          name: "MushroomExpert",
+          href: "https://www.mushroomexpert.com/cyathus_striatus.html"
+        },
+        {
+          group: "text",
+          name: "de.wikipedia",
+          href: "https://de.wikipedia.org/wiki/Gestreifter_Teuerling"
+        },
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Cyathus-striatus/ciaskovec-pasikavy/cisenka-ryhovana/ID31"
+        },
+        {
+          group: "text",
+          name: "botany.cz",
+          href: "https://botany.cz/cs/cyathus-striatus/"
+        },
+        {
+          group: "text",
+          name: "Treking.cz",
+          href: "https://www.treking.cz/priroda/cisenka-ryhovana.htm"
+        },
+        {
+          group: "text",
+          name: "grzyby.pl",
+          href: "https://grzyby.pl/gatunki/Cyathus_striatus.htm"
+        },
+        {
+          group: "text",
+          name: "123pilzsuche",
+          href: "https://www.123pilzsuche.de/daten/details/GestreifterTeuerling.htm"
+        },
+        {
+          group: "name",
+          name: "Index Fungorum",
+          href: "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=211223",
+          detail: "211223"
+        },
+        {
+          group: "name",
+          name: "Species Fungorum",
+          href: "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=211223",
+          detail: "211223"
+        },
+        {
+          group: "name",
+          name: "MycoBank",
+          href: "https://www.mycobank.org/page/Name%20details%20page/7438",
+          detail: "211223"
+        },
+        {
+          group: "name",
+          name: "GBIF",
+          href: "https://www.gbif.org/species/5243151",
+          detail: "5243151"
+        }
+      ],
+      sk: [
+        {
+          group: "text",
+          name: "nahuby.sk",
+          href: "https://www.nahuby.sk/atlas-hub/Cyathus-striatus/ciaskovec-pasikavy/cisenka-ryhovana/ID31",
+          detail: "čiaškovec pásikavý"
+        }
+      ],
+      cs: [
+        {
+          group: "name",
+          name: "BOTANY.cz",
+          href: "https://botany.cz/cs/cyathus-striatus/",
+          detail: "číšenka rýhovaná"
+        },
+        {
+          group: "name",
+          name: "Treking.cz",
+          href: "https://www.treking.cz/priroda/cisenka-ryhovana.htm"
+        }
+      ],
+      de: [
+        {
+          group: "name",
+          name: "Pilze Deutschlands",
+          href: "https://www.pilze-deutschland.de/organismen/cyathus-striatus-huds-willd-1787",
+          detail: "Gestreifter Teuerling"
+        },
+        {
+          group: "name",
+          name: "Wikipedia",
+          href: "https://de.wikipedia.org/wiki/Gestreifter_Teuerling"
+        }
+      ],
+      fr: [
+        {
+          group: "name",
+          name: "MycoDB",
+          href: "https://www.mycodb.fr/fiche.php?genre=Cyathus&espece=striatus",
+          detail: "cyathe strié"
+        }
+      ],
+      pl: [
+        {
+          group: "name",
+          name: "Wikipedia",
+          href: "https://pl.wikipedia.org/wiki/Kubek_pr%C4%85%C5%BCkowany",
+          detail: "kubek prążkowany"
+        },
+        {
+          group: "name",
+          name: "grzyby.pl",
+          href: "https://grzyby.pl/gatunki/Cyathus_striatus.htm"
+        }
+      ],
+      hu: [
+        {
+          group: "name",
+          name: "Wikipedia",
+          href: "https://hu.wikipedia.org/wiki/Cs%C3%ADkos_poh%C3%A1rgomba",
+          detail: "csíkos pohárgomba"
+        }
+      ],
+      uk: [
+        {
+          group: "name",
+          name: "Wikipedia",
+          href: "https://uk.wikipedia.org/wiki/%D0%9A%D0%B5%D0%BB%D0%B8%D1%88%D0%BA%D0%B8_%D1%81%D0%BC%D1%83%D0%B3%D0%B0%D1%81%D1%82%D1%96",
+          detail: "келишки смугасті"
+        }
+      ],
+      nl: [
+        {
+          group: "name",
+          name: "Wikipedia",
+          href: "https://nl.wikipedia.org/wiki/Gestreept_nestzwammetje",
+          detail: "Gestreept nestzwammetje"
+        }
+      ],
+      da: [
+        {
+          group: "name",
+          name: "Naturbasen",
+          href: "https://www.naturbasen.dk/art/5628/stribet-redesvamp",
+          detail: "stribet redesvamp"
+        },
+        {
+          group: "name",
+          name: "De danske svampenavne",
+          href: "https://www.mycokey.com/MycokeyDK/DKkeysPDFs/DeDanskeSvampenavne.pdf"
+        }
+      ],
+      sv: [
+        {
+          group: "name",
+          name: "Wikipedia",
+          href: "https://sv.wikipedia.org/wiki/Strimmig_br%C3%B6dkorgssvamp",
+          detail: "strimmig brödkorgssvamp"
+        }
+      ],
+      no: [
+        {
+          group: "name",
+          name: "Artsdatabanken",
+          href: "https://artsdatabanken.no/arter/takson/37301",
+          detail: "stripebrødkorg"
+        }
+      ],
+      fi: [
+        {
+          group: "name",
+          name: "Lajitietokeskus",
+          href: "https://laji.fi/sv/taxon/MX.235209",
+          detail: "uurrepesäsieni"
+        },
+        {
+          group: "name",
+          name: "Wikipedia",
+          href: "https://fi.wikipedia.org/wiki/Uurrepes%C3%A4sieni"
+        }
+      ],
+      et: [
+        {
+          group: "name",
+          name: "Wikipedia",
+          href: "https://et.wikipedia.org/wiki/Joonik-vakkseen",
+          detail: "joonik-vakkseen"
+        }
+      ],
+      lv: [
+        {
+          group: "name",
+          name: "Latvijas makroskopisko bazīdijsēņu konspekts",
+          href: "https://www.silava.lv/images/articles/Latvijas-Vegetacija/2024-34/2024-LatVeg-34.pdf",
+          detail: "svītrainā kausenīte"
+        }
+      ],
+      lt: [
+        {
+          group: "name",
+          name: "Lietuvos makroskopinių grybų ir kerpių sąvadas",
+          href: "https://gamtostyrimai.lt/wp-content/uploads/2024/12/2024_Grybu_savadas_web.pdf",
+          detail: "rievėtoji miegė"
+        }
+      ],
+      sl: [
+        {
+          group: "name",
+          name: "Wikipedia",
+          href: "https://sl.wikipedia.org/wiki/%C4%8Crtkani_ko%C5%A1ek",
+          detail: "črtkani košek"
+        },
+        {
+          group: "name",
+          name: "gobe.si",
+          href: "https://www.gobe.si/Gobe/CyathusStriatus"
+        }
+      ],
+      sr: [
+        {
+          group: "name",
+          name: "Википедија",
+          href: "https://sr.wikipedia.org/wiki/Cyathus_striatus",
+          detail: "пругаста корпица"
+        }
+      ],
+      ro: [
+        {
+          group: "name",
+          name: "Wikipedia",
+          href: "https://ro.wikipedia.org/wiki/Cyathus_striatus",
+          detail: "cupița pământului"
+        }
+      ],
+      bg: [
+        {
+          group: "name",
+          name: "Уикипедия",
+          href: "https://bg.wikipedia.org/wiki/%D0%9E%D0%B1%D0%B8%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD_%D1%86%D0%B8%D0%B0%D1%82%D1%83%D1%81",
+          detail: "обикновен циатус"
+        }
+      ],
+      ja: [
+        {
+          group: "name",
+          name: "京都府レッドデータブック2015",
+          href: "https://www.pref.kyoto.jp/kankyo/rdb/bio/db/fun0049.html",
+          detail: "スジチャダイゴケ"
+        },
+        {
+          group: "name",
+          name: "コトバンク",
+          href: "https://kotobank.jp/word/%E3%81%99%E3%81%98%E3%81%A1%E3%82%83%E3%81%A0%E3%81%84%E3%81%94%E3%81%91-1346741"
+        }
+      ],
+      zh: [
+        {
+          group: "name",
+          name: "TaiCOL",
+          href: "https://taicol.tw/zh-hant/taxon/t0035258",
+          detail: "隆紋黑蛋巢菌"
+        }
+      ]
+    },
+    synonyms: [
+      "Peziza striata Huds.",
+      "Nidularia striata (Willd.) With.",
+      "Cyathella striata (Willd.) Brot."
+    ]
+  }
 ];

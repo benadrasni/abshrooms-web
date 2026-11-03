@@ -625,6 +625,10 @@ export const TAXA = {
     rank: "genus",
     sk: "pohárovček"
   },
+  Cyathus: {
+    rank: "genus",
+    sk: "čiaškovec"
+  },
   Clathrus: {
     rank: "genus",
     sk: "mrežovka"
