@@ -4194,6 +4194,8 @@ export const CATALOG = [
     capTo: 15,
     stipeHeightFrom: 7,
     stipeHeightTo: 15,
+    stipeThickFrom: 1,
+    stipeThickTo: 2,
     fruitingFrom: 7,
     fruitingTo: 11,
     label: {
@@ -5006,6 +5008,8 @@ export const CATALOG = [
     capTo: 12,
     stipeHeightFrom: 6,
     stipeHeightTo: 12,
+    stipeThickFrom: 0.6,
+    stipeThickTo: 3,
     fruitingFrom: 8,
     fruitingTo: 11,
     label: {
@@ -10094,7 +10098,9 @@ export const CATALOG = [
         source: "https://commons.wikimedia.org/wiki/File:Coprinus_comatus_(1)_(48992601347).jpg"
       }
     ],
-    capTo: 6,
+    capFrom: 3,
+    capTo: 8,
+    stipeHeightFrom: 10,
     stipeHeightTo: 30,
     stipeThickFrom: 1,
     stipeThickTo: 1.5,
@@ -20026,6 +20032,7 @@ export const CATALOG = [
     capTo: 25,
     stipeHeightFrom: 1,
     stipeHeightTo: 5,
+    stipeThickTo: 4,
     fruitingFrom: 6,
     fruitingTo: 11,
     label: {
@@ -55298,6 +55305,8 @@ export const CATALOG = [
         source: "https://doi.org/10.1371/journal.pone.0149507.g001"
       }
     ],
+    capFrom: 3,
+    capTo: 10,
     fruitingFrom: 6,
     fruitingTo: 9,
     label: {
@@ -74397,6 +74406,12 @@ export const CATALOG = [
         source: "https://commons.wikimedia.org/wiki/File:Cortinarius_praestans2.jpg"
       }
     ],
+    capFrom: 10,
+    capTo: 20,
+    stipeHeightFrom: 8,
+    stipeHeightTo: 15,
+    stipeThickFrom: 2,
+    stipeThickTo: 5,
     fruitingFrom: 8,
     fruitingTo: 11,
     label: {
@@ -75330,6 +75345,12 @@ export const CATALOG = [
         source: "https://commons.wikimedia.org/wiki/File:Coprinellus_Disseminatus_-_Czernid%C5%82ak_gromadny_01.jpg"
       }
     ],
+    capFrom: 0.5,
+    capTo: 2,
+    stipeHeightFrom: 2,
+    stipeHeightTo: 5,
+    stipeThickFrom: 0.1,
+    stipeThickTo: 0.2,
     fruitingFrom: 5,
     fruitingTo: 11,
     label: {
@@ -77027,6 +77048,1082 @@ export const CATALOG = [
       "Peziza striata Huds.",
       "Nidularia striata (Willd.) With.",
       "Cyathella striata (Willd.) Brot."
+    ]
+  },
+  {
+    id: 95,
+    name: "Cortinarius orellanus",
+    author: "Fr.",
+    family: "Cortinariaceae",
+    genus: "Cortinarius",
+    order: "Agaricales",
+    edibility: "deadly",
+    hymenium: "gills",
+    where: ["ground"],
+    color: ["yellow", "brown"],
+    path: [
+      "Fungi",
+      "Dikarya",
+      "Basidiomycota",
+      "Agaricomycotina",
+      "Agaricomycetes",
+      "Agaricomycetidae",
+      "Agaricales",
+      "Cortinariaceae",
+      "Cortinarius"
+    ],
+    summary: ["Agaricales", "Cortinariaceae", "Cortinarius"],
+    added: "2026-11-03",
+    plate: STORAGE + "photos/Agaricales/Cortinariaceae/Cortinarius_orellanus/Cortinarius_orellanus@1600.webp",
+    plateGrid: STORAGE + "photos/Agaricales/Cortinariaceae/Cortinarius_orellanus/Cortinarius_orellanus@400.webp",
+    plateCredit: {
+      author: "Mordecai Cubitt Cooke",
+      license: "public domain",
+      source: "https://commons.wikimedia.org/wiki/File:Cooke-Illustrations_of_British_Fungi-Pl.787.jpg"
+    },
+    photos: [
+      {
+        src: STORAGE + "photos/Agaricales/Cortinariaceae/Cortinarius_orellanus/co1.webp",
+        author: "Andreas Kunze",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:2013-10-16_Cortinarius_orellanus_1a.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Cortinariaceae/Cortinarius_orellanus/co2.webp",
+        author: "Andreas Kunze",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:2013-10-16_Cortinarius_orellanus_1b.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Cortinariaceae/Cortinarius_orellanus/co3.webp",
+        author: "Thomas Pruß",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:C._orellanus_jung.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Cortinariaceae/Cortinarius_orellanus/co4.webp",
+        author: "Inger-Lise Fonneland",
+        license: "CC BY 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Cortinarius_orellanus.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Cortinariaceae/Cortinarius_orellanus/co5.webp",
+        author: "Claude PAGE",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Cortinarius_orellanus_(37534772370).jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Cortinariaceae/Cortinarius_orellanus/co6.webp",
+        author: "Claude PAGE",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Cortinarius_orellanus_(54841816679).jpg"
+      }
+    ],
+    capFrom: 3,
+    capTo: 6,
+    stipeHeightFrom: 4,
+    stipeHeightTo: 9,
+    stipeThickFrom: 0.7,
+    stipeThickTo: 1.5,
+    fruitingFrom: 7,
+    fruitingTo: 11,
+    label: {
+      en: "fool's webcap",
+      sk: "pavučinovec plyšový",
+      bg: "оранжево-червен паяжинник",
+      zh: "奧來絲膜菌",
+      hr: "crvenjača",
+      cs: "pavučinec plyšový",
+      da: "hvælvet gift-slørhat",
+      nl: "Giftige gordijnzwam",
+      et: "kastanvöödik",
+      fi: "lehtomyrkkyseitikki",
+      fr: "cortinaire couleur de rocou",
+      de: "Orangefuchsiger Raukopf",
+      hu: "mérges pókhálósgomba",
+      it: "cortinario orellano",
+      ja: "ドクフウセンタケ",
+      lv: "dzeltensarkanā tīmeklene",
+      lt: "nuodingasis nuosėdis",
+      no: "butt giftslørsopp",
+      pl: "zasłonak rudy",
+      ro: "pălăria nebunului",
+      ru: "паутинник горный",
+      sl: "poljska koprenka",
+      es: "cortinario de montaña",
+      sv: "orangebrun giftspindling",
+      uk: "павутинник гірський"
+    },
+    names: {
+      sk: ["pavučinec plyšový"],
+      cs: ["kožnatka plyšová"],
+      fr: ["cortinaire à couleur de rocou", "cortinaire des montagnes"],
+      de: ["Orangefuchsiger Rauhkopf", "Orangefuchsiger Schleierling", "Orangefuchsiger Hautkopf"],
+      ro: ["cortinaria de munte"],
+      ru: ["паутинник плюшевый", "паутинник оранжево-красный"],
+      uk: ["павутинник помаранчево-червоний"]
+    },
+    text: {
+      en: {
+        description: "A small to medium-sized, deadly poisonous mushroom with a dry, matt, orange-brown to rusty-brown cap with a low blunt umbo, thick, rather distant orange-brown gills and a yellowish to ochre stem without girdle zones. It grows on the ground in warm broadleaved woods, mostly under oak and beech.",
+        cap: "The cap is 3–6 cm across, rarely up to 8 cm. It is rounded to bell-shaped when young, then convex to flattened with a low, blunt umbo. The surface is dry and matt, finely fibrous to felty-scaly, and orange-brown to rusty or reddish brown, often darker in the centre. The margin is at first rolled in and joined to the stem by a fugitive pale yellow cortina. A drop of potassium hydroxide (KOH) turns the cap skin black.",
+        hymenium: "The gills are adnate to sinuate, thick, broad and rather distant. They are saffron to yellow-ochre when young, then orange-brown to rust-brown as the spores ripen.",
+        stipe: "The stem is 4–9 cm long and 0.7–1.5 cm thick, cylindrical, tapering a little towards the base, solid and fibrillose. It is yellowish to ochre-brown, usually paler than the cap, and has only fine fibrous veil remnants, without distinct yellow girdle zones.",
+        flesh: "The flesh is thin in the cap, yellowish to pale ochre and rust-red just under the cap skin. The smell is faintly of radish and the taste is mild, so neither gives any warning.",
+        sporePrint: "Rust-brown. The spores are ellipsoid to almond-shaped and finely to moderately warty, about 8–11 × 5.5–6.5 μm.",
+        habitat: "An ectomycorrhizal fungus that grows singly or in small groups on mostly acid soil in warm broadleaved woods, mainly under oak and beech, also under hornbeam, hazel, sweet chestnut and birch, and only rarely near conifers. It fruits from about July or August to November. It is rare and patchy, found mostly in central, eastern and southern Europe, and very rare in the north and in the British Isles.",
+        uses: "It is deadly poisonous and must never be eaten. It contains orellanine, a kidney toxin that is not destroyed by cooking. The poisoning is delayed: the first symptoms usually appear after 2 to 3 days, sometimes only after up to three weeks, so the mushroom is rarely suspected as the cause. Thirst, nausea, vomiting, flank pain, headache and chills are followed by acute kidney failure that can lead to permanent damage, dialysis or a kidney transplant. There is no antidote, and anyone who may have eaten it needs urgent medical care and should call a poison centre.",
+        confusion: "Cortinarius rubellus is also deadly and very similar; it usually has a more pronounced umbo and a stem with yellow girdle zones, and it grows mostly in conifer woods and bogs. It is also confused with Cantharellus cibarius, an edible mushroom with ridges instead of true gills, with Armillaria mellea and Marasmius oreades, and with other small brown species of Cortinarius.",
+        notes: "The poisoning was recognised after a mass poisoning near Bydgoszcz in Poland in 1952, when 102 people fell ill and 11 died. The syndrome it causes is called orellanus syndrome after this species. It is rare and is assessed as Vulnerable (VU) on the Danish red list and as Least Concern (LC) on the Norwegian red list."
+      },
+      sk: {
+        description: "Malá až stredne veľká, smrteľne jedovatá huba so suchým, matným, oranžovohnedým až hrdzavohnedým klobúkom s nízkym tupým hrbolčekom, hrubými, dosť riedkymi oranžovohnedými lupeňmi a žltkastým až okrovým hlúbikom bez pásikov. Rastie na zemi v teplých listnatých lesoch, najmä pod dubmi a bukmi.",
+        cap: "Klobúk je široký 3–6 cm, zriedka až 8 cm. V mladosti je zaoblený až zvončekovitý, potom vypuklý až ploský s nízkym tupým hrbolčekom. Povrch je suchý a matný, jemne vláknitý až plstnato šupinkatý, oranžovohnedý až hrdzavý alebo červenohnedý, často v strede tmavší. Okraj je spočiatku podvinutý a s hlúbikom ho spája pomíňajúca bledožltá pavučinka (cortina). Kvapka hydroxidu draselného (KOH) sfarbí pokožku klobúka na čierno.",
+        hymenium: "Lupene sú prirastené až vykrojené, hrubé, široké a dosť riedke. V mladosti sú šafránové až žltookrové, neskôr oranžovohnedé až hrdzavohnedé, keď dozrievajú výtrusy.",
+        stipe: "Hlúbik je dlhý 4–9 cm a hrubý 0,7–1,5 cm, valcovitý, k báze mierne zúžený, plný a vláknitý. Je žltkastý až okrovohnedý, zvyčajne svetlejší ako klobúk a má len jemné vláknité zvyšky závoja, bez výrazných žltých pásikov.",
+        flesh: "Dužina je v klobúku tenká, žltkastá až bledookrová a tesne pod pokožkou klobúka hrdzavočervená. Vôňa je slabo reďkovková a chuť mierna, takže ani jedno nevaruje.",
+        sporePrint: "Hrdzavohnedý. Výtrusy sú elipsoidné až mandľovité a jemne až stredne bradavkaté, asi 8–11 × 5,5–6,5 μm.",
+        habitat: "Ektomykorízna huba, ktorá rastie jednotlivo alebo v malých skupinách na prevažne kyslej pôde v teplých listnatých lesoch, hlavne pod dubmi a bukmi, ďalej pod hrabmi, lieskami, gaštanmi jedlými a brezami a len zriedka pri ihličnanoch. Plodí od približne júla alebo augusta do novembra. Je vzácna a rastie na ostrovčekoch, najmä v strednej, východnej a južnej Európe, na severe a na Britských ostrovoch je veľmi vzácna.",
+        uses: "Je smrteľne jedovatá a nikdy sa nesmie jesť. Obsahuje orelanín, jed poškodzujúci obličky, ktorý sa varením nezničí. Otrava sa prejaví oneskorene: prvé príznaky sa zvyčajne objavia po 2 až 3 dňoch, niekedy až po troch týždňoch, takže na hubu sa len zriedka pomyslí ako na príčinu. Smäd, nevoľnosť, vracanie, bolesť v boku, bolesť hlavy a zimnica sú nasledované akútnym zlyhaním obličiek, ktoré môže viesť k trvalému poškodeniu, dialýze alebo transplantácii obličky. Protijed neexistuje a každý, kto ju mohol zjesť, potrebuje urgentnú lekársku pomoc a má zavolať toxikologické informačné centrum.",
+        confusion: "Cortinarius rubellus je tiež smrteľne jedovatý a veľmi podobný; zvyčajne má výraznejší hrbolček a hlúbik so žltými pásikmi a rastie hlavne v ihličnatých lesoch a na rašeliniskách. Zamieňa sa aj s druhom Cantharellus cibarius, jedlou hubou s lištami namiesto pravých lupeňov, s druhmi Armillaria mellea a Marasmius oreades a s inými malými hnedými druhmi rodu Cortinarius.",
+        notes: "Otrava bola rozpoznaná po hromadnej otrave pri Bydgoszczi v Poľsku v roku 1952, keď ochorelo 102 ľudí a 11 zomrelo. Syndróm, ktorý spôsobuje, sa podľa tohto druhu nazýva orelanový syndróm. Je vzácna a v dánskom červenom zozname je hodnotená ako zraniteľná (VU), v nórskom červenom zozname ako najmenej ohrozená (LC)."
+      },
+      ar: {
+        description: "فطر صغير إلى متوسط الحجم، شديد السمّية ومميت، قبعته جافة باهتة بنية برتقالية إلى بنية صدئة وفي وسطها نتوء منخفض كليل، وخياشيمه سميكة متباعدة نوعًا ما بنية برتقالية، وساقه مصفرّة إلى مغرية اللون بلا مناطق حزامية. ينمو على الأرض في الغابات العريضة الأوراق الدافئة، غالبًا تحت أشجار البلوط والزان.",
+        cap: "يبلغ عرض القبعة ٣–٦ سم، وقد يصل نادرًا إلى ٨ سم. تكون في الصغر مستديرة إلى جرسية، ثم محدبة إلى مسطحة وفي وسطها نتوء منخفض كليل. سطحها جاف وباهت، ليفي ناعم إلى حرشفي لبّادي، بني برتقالي إلى بني صدئ أو بني محمر، وكثيرًا ما يكون أغمق في الوسط. الحافة ملتفة إلى الداخل في البداية وتتصل بالساق بغلالة (كورتينا) صفراء باهتة سريعة الزوال تشبه نسيج العنكبوت. تقطر واحدة من هيدروكسيد البوتاسيوم (KOH) تسوّد جلد القبعة.",
+        hymenium: "الخياشيم ملتصقة إلى مشقوقة قليلًا، سميكة وعريضة ومتباعدة نوعًا ما. تكون في الصغر صفراء زعفرانية إلى صفراء مغرية، ثم بنية برتقالية إلى بنية صدئة مع نضج الأبواغ.",
+        stipe: "طول الساق ٤–٩ سم وسمكها ٠٫٧–١٫٥ سم، أسطوانية تضيق قليلًا نحو القاعدة، مصمتة وليفية. لونها مصفر إلى بني مغري، وهي عادةً أفتح من القبعة، وعليها فقط بقايا ليفية دقيقة من الغلالة بلا مناطق صفراء حزامية واضحة.",
+        flesh: "اللحم رقيق في القبعة، مصفر إلى مغري باهت، وأحمر صدئ تحت جلد القبعة مباشرة. الرائحة خفيفة تشبه الفجل والطعم معتدل، فلا يحذّر أيٌّ منهما.",
+        sporePrint: "بني صدئ. الأبواغ إهليلجية إلى لوزية الشكل، ذات ثآليل دقيقة إلى متوسطة، وقياسها نحو ٨–١١ × ٥٫٥–٦٫٥ ميكرومتر.",
+        habitat: "فطر جذري خارجي يعيش على الأشجار، ينمو منفردًا أو في مجموعات صغيرة في تربة حمضية في الغالب في الغابات العريضة الأوراق الدافئة، أساسًا تحت البلوط والزان، وكذلك تحت الشمر والبندق والكستناء الحلو والبتولا، ونادرًا ما يكون قرب الصنوبريات. تظهر أجسامه الثمرية تقريبًا من يوليو أو أغسطس إلى نوفمبر. وهو نادر ويوجد في بقع متفرقة، خصوصًا في وسط أوروبا وشرقها وجنوبها، وهو نادر جدًا في الشمال وفي الجزر البريطانية.",
+        uses: "فطر شديد السمّية ومميت ولا يجوز أكله أبدًا. يحتوي على الأوريلانين، وهو سمّ للكلى لا يتلفه الطهي. التسمم متأخر الظهور: تظهر الأعراض الأولى عادةً بعد ٢–٣ أيام، وأحيانًا بعد ما يصل إلى ثلاثة أسابيع، لذلك نادرًا ما يُشتبه في الفطر سببًا. يعقب العطش والغثيان والقيء وألم الخاصرة والصداع والقشعريرة فشل كلوي حاد قد يؤدي إلى تلف دائم أو غسيل كلى أو زرع كلية. لا يوجد ترياق، وكل من ربما أكله يحتاج إلى رعاية طبية عاجلة وعليه الاتصال بمركز السموم.",
+        confusion: "Cortinarius rubellus مميت السمّية أيضًا ويشبهه كثيرًا؛ وعادةً يكون نتوؤه أوضح وساقه ذات مناطق حزامية صفراء، وينمو أساسًا في الغابات الصنوبرية والمستنقعات. ويُخلط أيضًا مع Cantharellus cibarius، وهو فطر صالح للأكل له حروف بدل الخياشيم الحقيقية، ومع Armillaria mellea ومع Marasmius oreades، ومع أنواع صغيرة بنية أخرى من جنس Cortinarius.",
+        notes: "عُرف هذا التسمم بعد تسمم جماعي قرب Bydgoszcz في بولندا عام ١٩٥٢، مرض فيه ١٠٢ شخص وتوفي ١١. وتسمى المتلازمة التي يسببها باسم هذا النوع متلازمة أوريلانوس. وهو نادر، وقد صُنّف على أنه معرّض للخطر (VU) في القائمة الحمراء الدنماركية وأقل اهتمامًا (LC) في القائمة الحمراء النرويجية."
+      },
+      bg: {
+        description: "Малка до средно голяма смъртоносно отровна гъба със суха, матова, оранжевокафява до ръждивокафява шапка с ниска тъпа гърбица, дебели, доста редки оранжевокафяви пластинки и жълтеникаво до охрено краче без опасващи зони. Расте на земята в топли широколистни гори, най-често под дъб и бук.",
+        cap: "Шапката е 3–6 cm в диаметър, рядко до 8 cm. В млада възраст е закръглена до камбановидна, после изпъкнала до плоска с ниска тъпа гърбица. Повърхността е суха и матова, ситно влакнеста до филцово-люспеста, оранжевокафява до ръждива или червеникавокафява, често по-тъмна в средата. Краят отначало е подвит и свързан с крачето чрез преходна бледожълта паяжинообразна завеса (кортина). Капка калиева основа (KOH) оцветява кожицата на шапката в черно.",
+        hymenium: "Пластинките са сраснали до изрязани, дебели, широки и доста редки. В млада възраст са шафранови до жълтоохрени, по-късно оранжевокафяви до ръждивокафяви, докато спорите узряват.",
+        stipe: "Крачето е 4–9 cm дълго и 0,7–1,5 cm дебело, цилиндрично, към основата леко стеснено, плътно и влакнесто. То е жълтеникаво до охреникафяво, обикновено по-светло от шапката и има само фини влакнести остатъци от покривалото, без ясни жълти опасващи зони.",
+        flesh: "Месото в шапката е тънко, жълтеникаво до бледоохрено, а точно под кожицата на шапката е ръждивочервено. Миризмата е слабо на репичка, а вкусът е мек, затова нито едното не предупреждава.",
+        sporePrint: "Ръждивокафяв. Спорите са елипсовидни до бадемовидни, фино до умерено брадавичести, около 8–11 × 5,5–6,5 μm.",
+        habitat: "Ектомикоризна гъба, която расте единично или в малки групи върху предимно кисела почва в топли широколистни гори, главно под дъб и бук, а също под габър, лешник, питом кестен и бреза, и само рядко близо до иглолистни. Плододава приблизително от юли или август до ноември. Рядка е и се среща на петна, най-вече в Централна, Източна и Южна Европа, а на север и на Британските острови е много рядка.",
+        uses: "Смъртоносно отровна е и никога не бива да се яде. Съдържа ореланин, отрова за бъбреците, която не се разрушава при варене. Отравянето протича със закъснение: първите признаци обикновено се появяват след 2–3 дни, понякога чак след до три седмици, затова рядко се подозира гъбата като причина. Жаждата, гаденето, повръщането, болката в хълбока, главоболието и тръпките са последвани от остра бъбречна недостатъчност, която може да доведе до трайно увреждане, диализа или бъбречна трансплантация. Противоотрова няма и всеки, който може да я е изял, се нуждае от спешна медицинска помощ и трябва да се обади в токсикологичен център.",
+        confusion: "Cortinarius rubellus също е смъртоносно отровен и много подобен; обикновено има по-изразена гърбица и краче с жълти опасващи зони и расте най-вече в иглолистни гори и блата. Бърка се и с Cantharellus cibarius, ядлива гъба с гънки вместо истински пластинки, с Armillaria mellea и Marasmius oreades и с други дребни кафяви видове от рода Cortinarius.",
+        notes: "Отравянето е разпознато след масово отравяне край Бидгошч в Полша през 1952 г., когато се разболяват 102 души и 11 умират. Синдромът, който предизвиква, е наречен по този вид ореланусов синдром. Рядка е и в датския Червен списък е оценена като уязвима (VU), а в норвежкия Червен списък като с най-малка загриженост (LC)."
+      },
+      zh: {
+        description: "小型至中型的劇毒蕈類，菌蓋乾燥、無光澤，橙褐色至鏽褐色，具低而鈍的突起，菌褶厚、較稀疏，呈橙褐色，菌柄淡黃色至赭色，沒有環帶。生於溫暖闊葉林的地上，多在櫟樹和山毛櫸下。",
+        cap: "菌蓋直徑3–6公分，偶爾達8公分。幼時圓形至鐘形，之後變為凸鏡形至平展，具低而鈍的突起。表面乾燥、無光澤，具細纖維至氈狀鱗片，橙褐色至鏽褐色或紅褐色，中央常較深。邊緣起初內捲，並以易消失的淡黃色蛛網狀菌幕（絲膜）與菌柄相連。滴一滴氫氧化鉀（KOH）會使菌蓋表皮變黑。",
+        hymenium: "菌褶直生至彎生，厚、寬，較稀疏。幼時為藏紅花黃色至黃赭色，隨著孢子成熟轉為橙褐色至鏽褐色。",
+        stipe: "菌柄長4–9公分，粗0.7–1.5公分，圓柱形，向基部稍變細，實心，纖維質。淡黃色至赭褐色，通常比菌蓋淺，只有菌幕留下的細纖維狀殘餘，沒有明顯的黃色環帶。",
+        flesh: "菌肉在菌蓋中較薄，淡黃色至淺赭色，緊靠菌蓋表皮下方為鏽紅色。氣味略似蘿蔔，味道溫和，因此兩者都無法起到警示作用。",
+        sporePrint: "鏽褐色。孢子橢圓形至杏仁形，具細疣至中等疣，約8–11 × 5.5–6.5 μm。",
+        habitat: "外生菌根真菌，單生或小群生，多生於酸性土壤上的溫暖闊葉林中，主要在櫟樹和山毛櫸下，也見於鵝耳櫪、榛、栗和樺下，只有很少靠近針葉樹。子實體約從7月或8月至11月出現。數量稀少，呈斑塊狀分布，主要見於中歐、東歐和南歐，在北歐和不列顛群島非常罕見。",
+        uses: "劇毒，絕不能食用。含有絲膜菌毒素（orellanine），一種腎毒素，烹煮無法破壞。中毒為延遲發作：最初症狀通常在2–3天後出現，有時要到最長三週後才出現，因此很少有人懷疑是這種蕈類。口渴、噁心、嘔吐、腰側疼痛、頭痛和寒顫之後會出現急性腎衰竭，可導致永久性損害、洗腎或腎臟移植。沒有解毒劑，任何可能吃過它的人都需要緊急就醫，並應聯絡毒物諮詢中心。",
+        confusion: "Cortinarius rubellus同樣劇毒而且非常相似，通常突起更明顯，菌柄有黃色環帶，主要生於針葉林和沼澤。它也與Cantharellus cibarius（一種可食用的蕈類，具脈狀褶而非真正的菌褶）、Armillaria mellea、Marasmius oreades以及絲膜菌屬的其他小型褐色種混淆。",
+        notes: "1952年波蘭比得哥什附近發生集體中毒，102人發病，11人死亡，此後才認識到這種中毒。它引起的症候群以這個種命名，稱為奧來絲膜菌症候群（orellanus syndrome）。該種稀少，在丹麥紅色名錄中被評為易危（VU），在挪威紅色名錄中被評為無危（LC）。"
+      },
+      hr: {
+        description: "Mala do srednje velika, smrtonosno otrovna gljiva sa suhim, mutnim, narančastosmeđim do hrđavosmeđim klobukom s niskom tupom izbočinom, debelim, prilično rijetkim narančastosmeđim listićima i žućkastim do oker stručkom bez pojasnih zona. Raste na tlu u toplim listopadnim šumama, najčešće ispod hrastova i bukava.",
+        cap: "Klobuk je promjera 3–6 cm, rijetko do 8 cm. U mladosti je zaobljen do zvonolik, zatim izbočen do ravan s niskom tupom izbočinom. Površina je suha i mutna, sitnovlaknasta do filcasto ljuskava, narančastosmeđa do hrđava ili crvenkastosmeđa, često tamnija u sredini. Rub je isprva podvijen i sa stručkom ga spaja prolazna blijedožuta paučinasta koprena (kortina). Kap kalijevog hidroksida (KOH) boji kožicu klobuka u crno.",
+        hymenium: "Listići su prirasli do izrezani, debeli, široki i prilično rijetki. U mladosti su šafranasti do žutooker, kasnije narančastosmeđi do hrđavosmeđi kako spore sazrijevaju.",
+        stipe: "Stručak je dug 4–9 cm i debeo 0,7–1,5 cm, valjkast, prema bazi blago sužen, pun i vlaknast. Žućkast je do oker-smeđ, obično svjetliji od klobuka i ima samo sitne vlaknaste ostatke koprene, bez jasnih žutih pojasnih zona.",
+        flesh: "Meso je u klobuku tanko, žućkasto do blijedooker, a odmah ispod kožice klobuka hrđavocrveno. Miris je slabo na rotkvicu, a okus blag, pa ni jedno ni drugo ne upozorava.",
+        sporePrint: "Hrđavosmeđ. Spore su elipsoidne do bademaste, sitno do umjereno bradavičaste, veličine oko 8–11 × 5,5–6,5 μm.",
+        habitat: "Ektomikorizna gljiva koja raste pojedinačno ili u malim skupinama na pretežno kiselom tlu u toplim listopadnim šumama, ponajviše ispod hrastova i bukava, a također ispod grabova, lijeski, pitomog kestena i breza, a samo rijetko u blizini crnogorice. Plodi otprilike od srpnja ili kolovoza do studenoga. Rijetka je i javlja se razasuto, uglavnom u srednjoj, istočnoj i južnoj Europi, a na sjeveru i na Britanskom otočju vrlo je rijetka.",
+        uses: "Smrtonosno je otrovna i nikada se ne smije jesti. Sadrži orelanin, otrov za bubrege koji se kuhanjem ne uništava. Trovanje teče s odgodom: prvi znakovi obično se pojave nakon 2 do 3 dana, ponekad tek nakon tri tjedna, pa se gljiva rijetko sumnjiči kao uzrok. Žeđ, mučnina, povraćanje, bol u boku, glavobolja i zimica prelaze u akutno zatajenje bubrega koje može dovesti do trajnog oštećenja, dijalize ili presađivanja bubrega. Protuotrova nema, a svatko tko ju je možda pojeo treba hitnu liječničku pomoć i mora nazvati centar za kontrolu otrovanja.",
+        confusion: "Cortinarius rubellus također je smrtonosno otrovan i vrlo sličan; obično ima izraženiju izbočinu i stručak sa žutim pojasnim zonama, a raste uglavnom u crnogoričnim šumama i na tresetištima. Miješa se i s vrstom Cantharellus cibarius, jestivom gljivom s naborima umjesto pravih listića, s vrstama Armillaria mellea i Marasmius oreades te s drugim sitnim smeđim vrstama roda Cortinarius.",
+        notes: "Trovanje je prepoznato nakon masovnog trovanja kraj Bydgoszcza u Poljskoj 1952. godine, kada se razboljelo 102 osobe, a 11 ih je umrlo. Sindrom koji uzrokuje naziva se po ovoj vrsti orelanusni sindrom. Rijetka je, a na danskom crvenom popisu ocijenjena je kao osjetljiva (VU), a na norveškom crvenom popisu kao vrsta najmanje zabrinutosti (LC)."
+      },
+      cs: {
+        description: "Malá až středně velká, smrtelně jedovatá houba se suchým, matným, oranžovohnědým až rezavohnědým kloboukem s nízkým tupým hrbolem, tlustými, poměrně řídkými oranžovohnědými lupeny a nažloutlým až okrovým třeněm bez pásků. Roste na zemi v teplých listnatých lesích, zejména pod duby a buky.",
+        cap: "Klobouk je široký 3–6 cm, vzácně až 8 cm. V mládí je zaoblený až zvonkovitý, potom vypouklý až plochý s nízkým tupým hrbolem. Povrch je suchý a matný, jemně vláknitý až plstnatě šupinkatý, oranžovohnědý až rezavý či červenohnědý, často uprostřed tmavší. Okraj je zprvu podvinutý a s třeněm jej spojuje pomíjivá světle žlutá pavučinka (cortina). Kapka hydroxidu draselného (KOH) zbarví pokožku klobouku do černa.",
+        hymenium: "Lupeny jsou přirostlé až vykrojené, tlusté, široké a poměrně řídké. V mládí jsou šafránové až žlutookrové, později oranžovohnědé až rezavohnědé, jak zrají výtrusy.",
+        stipe: "Třeň je dlouhý 4–9 cm a tlustý 0,7–1,5 cm, válcovitý, k bázi mírně zúžený, plný a vláknitý. Je nažloutlý až okrově hnědý, obvykle světlejší než klobouk a má jen jemné vláknité zbytky závoje, bez výrazných žlutých pásků.",
+        flesh: "Dužnina je v klobouku tenká, nažloutlá až světle okrová a těsně pod pokožkou klobouku rezavě červená. Vůně je slabě ředkvičková a chuť mírná, takže ani jedno nevaruje.",
+        sporePrint: "Rezavohnědý. Výtrusy jsou elipsoidní až mandlovité a jemně až středně bradavkaté, asi 8–11 × 5,5–6,5 μm.",
+        habitat: "Ektomykorhizní houba, která roste jednotlivě nebo v malých skupinách na většinou kyselé půdě v teplých listnatých lesích, hlavně pod duby a buky, dále pod habry, lískami, kaštanovníky jedlými a břízami a jen zřídka poblíž jehličnanů. Plodí zhruba od července či srpna do listopadu. Je vzácná a roste ostrůvkovitě, hlavně ve střední, východní a jižní Evropě, na severu a na Britských ostrovech je velmi vzácná.",
+        uses: "Je smrtelně jedovatá a nikdy se nesmí jíst. Obsahuje orellanin, jed poškozující ledviny, který se vařením nezničí. Otrava se projeví se zpožděním: první příznaky se obvykle objeví po 2 až 3 dnech, někdy až po třech týdnech, takže se na houbu jen zřídka pomyslí jako na příčinu. Žízeň, nevolnost, zvracení, bolest v boku, bolest hlavy a zimnice jsou následovány akutním selháním ledvin, které může vést k trvalému poškození, dialýze nebo transplantaci ledviny. Protijed neexistuje a každý, kdo ji mohl sníst, potřebuje neodkladnou lékařskou pomoc a má zavolat toxikologické informační středisko.",
+        confusion: "Cortinarius rubellus je také smrtelně jedovatý a velmi podobný; obvykle má výraznější hrbol a třeň se žlutými pásky a roste hlavně v jehličnatých lesích a na rašeliništích. Zaměňuje se také s druhem Cantharellus cibarius, jedlou houbou s lištami místo pravých lupenů, s druhy Armillaria mellea a Marasmius oreades a s jinými malými hnědými druhy rodu Cortinarius.",
+        notes: "Otrava byla rozpoznána po hromadné otravě u Bydhošti v Polsku v roce 1952, kdy onemocnělo 102 lidí a 11 zemřelo. Syndrom, který způsobuje, se podle tohoto druhu nazývá orelanový syndrom. Je vzácná a v dánském červeném seznamu je hodnocena jako zranitelná (VU), v norském červeném seznamu jako málo dotčená (LC)."
+      },
+      da: {
+        description: "En lille til mellemstor, dødeligt giftig svamp med en tør, mat, orangebrun til rustbrun hat med en lav, stump pukkel, tykke, ret fjernt stillede orangebrune lameller og en gullig til okkerfarvet stok uden bælter. Den vokser på jorden i varme løvskove, oftest under eg og bøg.",
+        cap: "Hatten er 3–6 cm bred, sjældent op til 8 cm. Som ung er den rund til klokkeformet, derefter hvælvet til flad med en lav, stump pukkel. Overfladen er tør og mat, fint trævlet til filtet skællet og orangebrun til rustbrun eller rødbrun, ofte mørkere i midten. Randen er først indrullet og forbundet med stokken af et forgængeligt, lysegult slør (cortina). En dråbe kaliumhydroxid (KOH) farver hatskindet sort.",
+        hymenium: "Lamellerne er tilvoksede til bugtede, tykke, brede og ret fjernt stillede. Som unge er de safrangule til gulokker, senere orangebrune til rustbrune, efterhånden som sporerne modnes.",
+        stipe: "Stokken er 4–9 cm lang og 0,7–1,5 cm tyk, cylindrisk, let tilspidset mod bunden, massiv og trævlet. Den er gullig til okkerbrun, som regel lysere end hatten, og har kun fine trævlede rester af slørret uden tydelige gule bælter.",
+        flesh: "Kødet er tyndt i hatten, gulligt til lys okker og lige under hatskindet rustrødt. Lugten er svagt af radise og smagen mild, så ingen af dem advarer.",
+        sporePrint: "Rustbrun. Sporerne er ellipsoide til mandelformede og fint til moderat vorte, cirka 8–11 × 5,5–6,5 μm.",
+        habitat: "En ektomykorrhizasvamp, der vokser enkeltvis eller i små grupper på for det meste sur jord i varme løvskove, hovedsageligt under eg og bøg, også under avnbøg, hassel, ægte kastanje og birk og kun sjældent nær nåletræer. Den danner frugtlegemer fra omkring juli eller august til november. Den er sjælden og spredt, og findes mest i Central-, Øst- og Sydeuropa, mens den er meget sjælden i nord og på De Britiske Øer.",
+        uses: "Den er dødeligt giftig og må aldrig spises. Den indeholder orellanin, et nyregift, som ikke ødelægges ved kogning. Forgiftningen er forsinket: De første symptomer viser sig som regel efter 2 til 3 dage, nogle gange først efter op til tre uger, så svampen mistænkes sjældent som årsag. Tørst, kvalme, opkastning, smerter i siden, hovedpine og kulderystelser efterfølges af akut nyresvigt, som kan føre til varig skade, dialyse eller nyretransplantation. Der findes ingen modgift, og enhver, der kan have spist den, har brug for akut lægehjælp og bør ringe til Giftlinjen.",
+        confusion: "Cortinarius rubellus er også dødeligt giftig og meget lig; den har som regel en tydeligere pukkel og en stok med gule bælter og vokser mest i nåleskov og moser. Den forveksles også med Cantharellus cibarius, en spiselig svamp med ribber i stedet for ægte lameller, med Armillaria mellea og Marasmius oreades og med andre små brune arter af Cortinarius.",
+        notes: "Forgiftningen blev erkendt efter en masseforgiftning ved Bydgoszcz i Polen i 1952, hvor 102 mennesker blev syge og 11 døde. Det syndrom, den forårsager, kaldes efter denne art orellanus-syndrom. Den er sjælden og er vurderet som sårbar (VU) på den danske rødliste og som ikke truet (LC) på den norske rødliste."
+      },
+      nl: {
+        description: "Een kleine tot middelgrote, dodelijk giftige paddenstoel met een droge, matte, oranjebruine tot roestbruine hoed met een lage stompe bult, dikke, vrij wijd uit elkaar staande oranjebruine plaatjes en een geelachtige tot okerkleurige steel zonder gordelzones. Hij groeit op de grond in warme loofbossen, meestal onder eik en beuk.",
+        cap: "De hoed is 3–6 cm breed, zelden tot 8 cm. Jong is hij afgerond tot klokvormig, daarna bol tot vlak met een lage, stompe bult. Het oppervlak is droog en mat, fijnvezelig tot viltig-schubbig en oranjebruin tot roestbruin of roodbruin, vaak in het midden donkerder. De rand is eerst ingerold en met de steel verbonden door een vergankelijke lichtgele cortina. Een druppel kaliumhydroxide (KOH) kleurt de hoedhuid zwart.",
+        hymenium: "De plaatjes zijn aangegroeid tot uitgerand, dik, breed en vrij wijd uit elkaar. Jong zijn ze saffraan- tot geeloker, later oranjebruin tot roestbruin naarmate de sporen rijpen.",
+        stipe: "De steel is 4–9 cm lang en 0,7–1,5 cm dik, cilindrisch, naar de voet toe iets versmald, vol en vezelig. Hij is geelachtig tot okerbruin, meestal lichter dan de hoed, en heeft alleen fijne vezelige restanten van het velum, zonder duidelijke gele gordelzones.",
+        flesh: "Het vlees is in de hoed dun, geelachtig tot bleekoker en vlak onder de hoedhuid roestrood. De geur is zwak naar radijs en de smaak is mild, dus beide waarschuwen niet.",
+        sporePrint: "Roestbruin. De sporen zijn ellipsoïde tot amandelvormig en fijn tot matig wratterig, ongeveer 8–11 × 5,5–6,5 μm.",
+        habitat: "Een mycorrhizavormende schimmel die solitair of in kleine groepen groeit op meestal zure grond in warme loofbossen, vooral onder eik en beuk, ook onder haagbeuk, hazelaar, tamme kastanje en berk, en slechts zelden bij naaldbomen. Hij vormt vruchtlichamen van ongeveer juli of augustus tot november. Hij is zeldzaam en komt verspreid voor, vooral in Midden-, Oost- en Zuid-Europa, en is in het noorden en op de Britse eilanden zeer zeldzaam.",
+        uses: "Hij is dodelijk giftig en mag nooit worden gegeten. Hij bevat orellanine, een nierengif dat niet door koken wordt vernietigd. De vergiftiging verloopt vertraagd: de eerste klachten treden meestal na 2 tot 3 dagen op, soms pas na maximaal drie weken, zodat de paddenstoel zelden als oorzaak wordt vermoed. Dorst, misselijkheid, braken, flankpijn, hoofdpijn en koude rillingen worden gevolgd door acuut nierfalen dat kan leiden tot blijvende schade, dialyse of een niertransplantatie. Er is geen tegengif en wie hem mogelijk gegeten heeft, heeft dringend medische hulp nodig en moet een vergiftigingeninformatiecentrum bellen.",
+        confusion: "Cortinarius rubellus is ook dodelijk giftig en sterk gelijkend; hij heeft meestal een duidelijkere bult en een steel met gele gordelzones en groeit vooral in naaldbossen en venen. Hij wordt ook verward met Cantharellus cibarius, een eetbare paddenstoel met plooien in plaats van echte plaatjes, met Armillaria mellea en Marasmius oreades en met andere kleine bruine soorten van Cortinarius.",
+        notes: "De vergiftiging werd herkend na een massavergiftiging bij Bydgoszcz in Polen in 1952, waarbij 102 mensen ziek werden en 11 stierven. Het syndroom dat hij veroorzaakt heet naar deze soort orellanus-syndroom. Hij is zeldzaam en wordt op de Deense rode lijst beoordeeld als kwetsbaar (VU) en op de Noorse rode lijst als niet bedreigd (LC)."
+      },
+      et: {
+        description: "Väike kuni keskmise suurusega surmavalt mürgine seen, kelle kübar on kuiv, tuhm, oranžikaspruun kuni roostepruun ja madala tömbi kühmuga, eoslehekesed paksud, üsna hõredad ja oranžikaspruunid ning jalg kollakas kuni ookerjas ilma vöötideta. Ta kasvab maas soojades lehtmetsades, enamasti tammede ja pöökide all.",
+        cap: "Kübar on 3–6 cm lai, harva kuni 8 cm. Noorena on see ümar kuni kellukjas, hiljem kumer kuni lame madala tömbi kühmuga. Pind on kuiv ja tuhm, peeneskiuline kuni vildiselt soomuseline ning oranžikaspruun kuni roostekas või punakaspruun, sageli keskelt tumedam. Serv on algul sissepööratud ja jalaga ühendatud kaduva kahvatukollase kiudloori (kortiinaga). Tilk kaaliumhüdroksiidi (KOH) värvib kübarakesta mustaks.",
+        hymenium: "Eoslehekesed on külgekasvanud kuni sälgulised, paksud, laiad ja üsna hõredad. Noorena on need safrankollased kuni kollakasookerjad, hiljem oranžikaspruunid kuni roostepruunid, kui eosed valmivad.",
+        stipe: "Jalg on 4–9 cm pikk ja 0,7–1,5 cm paks, silindriline, aluse poole veidi ahenev, täidetud ja kiuline. See on kollakas kuni ookerpruun, tavaliselt kübarast heledam ning kannab vaid peeneid kiulisi loorijäänuseid ilma selgete kollaste vöötideta.",
+        flesh: "Liha on kübaras õhuke, kollakas kuni kahvatuookerjas ja otse kübarakesta all roostepunane. Lõhn on nõrgalt redisene ja maitse leebe, seega pole ükski neist hoiatav.",
+        sporePrint: "Roostepruun. Eosed on ellipsoidsed kuni mandlikujulised ning peeneselt kuni mõõdukalt soolatud, umbes 8–11 × 5,5–6,5 μm.",
+        habitat: "Mükoriisat moodustav seen, kes kasvab üksikult või väikeste rühmadena enamasti happelisel mullal soojades lehtmetsades, peamiselt tammede ja pöökide all, ka valge pöögi, sarapuu, söögikastani ja kase all ning ainult harva okaspuude lähedal. Viljakehad ilmuvad ligikaudu juulist või augustist novembrini. Ta on haruldane ja esineb kohati, peamiselt Kesk-, Ida- ja Lõuna-Euroopas, põhjas ja Briti saartel on ta väga haruldane.",
+        uses: "See on surmavalt mürgine ja seda ei tohi iial süüa. Selles on orellaniini, neerumürki, mida kuumutamine ei hävita. Mürgistus on hilinenud: esimesed sümptomid ilmnevad tavaliselt 2–3 päeva pärast, mõnikord alles kuni kolme nädala pärast, nii et seent kahtlustatakse harva põhjusena. Janu, iiveldus, oksendamine, külgvalu, peavalu ja külmavärinad lähevad üle ägedaks neerupuudulikkuseks, mis võib viia püsiva kahjustuse, dialüüsi või neerusiirdamiseni. Vastumürki ei ole ja igaüks, kes võis seda süüa, vajab kiiret arstiabi ning peab helistama mürgistusteabekeskusse.",
+        confusion: "Cortinarius rubellus on samuti surmavalt mürgine ja väga sarnane; tal on tavaliselt selgem kühm ja jalal kollased vööndid ning ta kasvab peamiselt okasmetsades ja rabades. Teda aetakse segi ka liigiga Cantharellus cibarius, söödava seenega, millel on tõeliste eoslehekeste asemel voldid, ning liikidega Armillaria mellea ja Marasmius oreades ja teiste väikeste pruunide Cortinarius'e liikidega.",
+        notes: "Mürgistus tunti ära pärast massimürgistust Bydgoszczi lähedal Poolas 1952. aastal, kui haigestus 102 inimest ja 11 suri. Selle tekitatavat sündroomi nimetatakse selle liigi järgi orellanus-sündroomiks. Ta on haruldane ning Taani punases nimestikus on ta hinnatud kahjustatavaks (VU) ja Norra punases nimestikus soodsas seisundis liigiks (LC)."
+      },
+      fi: {
+        description: "Pieni tai keskikokoinen, tappavan myrkyllinen sieni, jonka lakki on kuiva, himmeä, oranssinruskea tai ruosteenruskea ja matalasti tylppäkohoumainen, heltat paksut ja melko harvassa oranssinruskeat ja jalka kellertävä tai okranvärinen ilman vyöhykkeitä. Se kasvaa maassa lämpimissä lehtimetsissä, useimmiten tammen ja pyökin alla.",
+        cap: "Lakki on 3–6 cm leveä, harvoin jopa 8 cm. Nuorena se on pyöreä tai kellomainen, sitten kupera tai litteä ja matalan tylpän kohouman peittämä. Pinta on kuiva ja himmeä, hienosäikeinen tai huopamaisen suomuinen sekä oranssinruskea, ruosteenruskea tai punaruskea, usein keskeltä tummempi. Reuna on aluksi sisäänkiertynyt, ja sen yhdistää jalkaan katoava vaaleankeltainen seittiverho (cortina). Tippa kaliumhydroksidia (KOH) värjää lakin pinnan mustaksi.",
+        hymenium: "Heltat ovat kiinnikasvaneet tai lovimaiset, paksut, leveät ja melko harvassa. Nuorena ne ovat sahraminkeltaiset tai okrankeltaiset, myöhemmin oranssinruskeat tai ruosteenruskeat itiöiden kypsyessä.",
+        stipe: "Jalka on 4–9 cm pitkä ja 0,7–1,5 cm paksu, lieriömäinen, tyveä kohti hieman kapeneva, täyteläinen ja säikeinen. Se on kellertävä tai okranruskea, yleensä lakkia vaaleampi, ja siinä on vain hienoja säikeisiä verhon jäänteitä ilman selviä keltaisia vyöhykkeitä.",
+        flesh: "Liha on lakissa ohutta, kellertävää tai vaaleanokraista ja aivan lakin pinnan alla ruosteenpunaista. Haju on heikosti retiisimäinen ja maku mieto, joten kumpikaan ei varoita.",
+        sporePrint: "Ruosteenruskea. Itiöt ovat ellipsinmuotoisia tai manteleita muistuttavia sekä hienosti tai kohtalaisesti syylämäisiä, kooltaan noin 8–11 × 5,5–6,5 μm.",
+        habitat: "Sieni muodostaa ektomykorritsan ja kasvaa yksittäin tai pienissä ryhmissä enimmäkseen happamalla maalla lämpimissä lehtimetsissä, pääasiassa tammen ja pyökin alla, myös valkopyökin, pähkinäpensaan, jalokastanjan ja koivun alla ja vain harvoin havupuiden lähellä. Se tuottaa itiöemiä noin heinä- tai elokuusta marraskuuhun. Laji on harvinainen ja kasvaa laikuittain, pääasiassa Keski-, Itä- ja Etelä-Euroopassa, ja pohjoisessa sekä Brittein saarilla se on hyvin harvinainen.",
+        uses: "Se on tappavan myrkyllinen, eikä sitä saa koskaan syödä. Se sisältää orelaniinia, munuaismyrkkyä, jota kypsentäminen ei tuhoa. Myrkytys on viivästynyt: ensimmäiset oireet ilmaantuvat yleensä 2–3 päivän kuluttua, joskus vasta jopa kolmen viikon kuluttua, joten sientä epäillään harvoin syyksi. Jano, pahoinvointi, oksentelu, kylkikipu, päänsärky ja vilunväristykset johtavat äkilliseen munuaisten vajaatoimintaan, joka voi aiheuttaa pysyvän vaurion, dialyysin tarpeen tai munuaisensiirron. Vastamyrkkyä ei ole, ja jokaisen, joka on voinut syödä sitä, on hakeuduttava kiireellisesti lääkäriin ja soitettava myrkytystietokeskukseen.",
+        confusion: "Cortinarius rubellus on myös tappavan myrkyllinen ja hyvin samannäköinen; sillä on yleensä selvempi kohouma ja jalassa keltaisia vyöhykkeitä, ja se kasvaa pääasiassa havumetsissä ja soilla. Sitä sekoitetaan myös lajiin Cantharellus cibarius, syötävään sieneen, jolla on todellisten heltojen sijasta poimut, sekä lajeihin Armillaria mellea ja Marasmius oreades ja muihin pieniin ruskeisiin Cortinarius-suvun lajeihin.",
+        notes: "Myrkytys tunnistettiin Puolassa Bydgoszczin lähellä vuonna 1952 sattuneen joukkomyrkytyksen jälkeen, jolloin sairastui 102 ihmistä ja 11 kuoli. Sen aiheuttamaa oireyhtymää kutsutaan tämän lajin mukaan orellanus-oireyhtymäksi. Laji on harvinainen, ja Tanskan punaisessa kirjassa se on arvioitu vaarantuneeksi (VU) ja Norjan punaisessa kirjassa elinvoimaiseksi (LC)."
+      },
+      fr: {
+        description: "Un champignon petit à moyen, mortellement toxique, au chapeau sec, mat, brun orangé à brun roux, avec un petit mamelon bas et obtus, aux lames épaisses, assez espacées et brun orangé, et au pied jaunâtre à ocre sans zones annulaires. Il pousse sur le sol dans les bois chauds de feuillus, le plus souvent sous les chênes et les hêtres.",
+        cap: "Le chapeau mesure 3–6 cm de diamètre, rarement jusqu'à 8 cm. Jeune, il est arrondi à campanulé, puis convexe à aplati, avec un mamelon bas et obtus. La surface est sèche et mate, finement fibrilleuse à squamuleuse comme du feutre, brun orangé à brun roux ou brun rougeâtre, souvent plus foncée au centre. La marge est d'abord enroulée et reliée au pied par une cortine jaune pâle, fugace. Une goutte d'hydroxyde de potassium (KOH) noircit la cuticule du chapeau.",
+        hymenium: "Les lames sont adnées à sinuées, épaisses, larges et assez espacées. Jeunes, elles sont jaune safran à jaune ocre, puis brun orangé à brun roux à mesure que les spores mûrissent.",
+        stipe: "Le pied mesure 4–9 cm de long sur 0,7–1,5 cm d'épaisseur, cylindrique, un peu aminci vers la base, plein et fibreux. Il est jaunâtre à brun ocre, en général plus clair que le chapeau, et ne porte que de fins restes fibreux de la cortine, sans zones jaunes nettes.",
+        flesh: "La chair est mince dans le chapeau, jaunâtre à ocre pâle et rouge rouille juste sous la cuticule. L'odeur est faiblement de radis et la saveur douce, si bien qu'aucune des deux n'avertit.",
+        sporePrint: "Brun roux. Les spores sont ellipsoïdes à amygdaliformes, finement à modérément verruqueuses, d'environ 8–11 × 5,5–6,5 μm.",
+        habitat: "Champignon ectomycorhizien qui pousse isolé ou en petits groupes sur sol le plus souvent acide, dans les bois chauds de feuillus, surtout sous les chênes et les hêtres, mais aussi sous les charmes, les noisetiers, les châtaigniers et les bouleaux, et seulement rarement près des conifères. Il fructifie environ de juillet ou août à novembre. Il est rare et irrégulièrement réparti, surtout en Europe centrale, orientale et méridionale, et très rare dans le nord et aux îles Britanniques.",
+        uses: "Il est mortellement toxique et ne doit jamais être mangé. Il contient de l'orellanine, une toxine pour les reins que la cuisson ne détruit pas. L'intoxication est retardée : les premiers symptômes apparaissent en général après 2 à 3 jours, parfois seulement jusqu'à trois semaines plus tard, si bien que le champignon est rarement soupçonné. La soif, les nausées, les vomissements, les douleurs de flanc, les maux de tête et les frissons sont suivis d'une insuffisance rénale aiguë pouvant entraîner des lésions définitives, une dialyse ou une greffe de rein. Il n'existe pas d'antidote, et toute personne qui l'aurait peut-être mangé a besoin de soins médicaux urgents et doit appeler le centre antipoison.",
+        confusion: "Cortinarius rubellus est lui aussi mortellement toxique et très semblable ; il a en général un mamelon plus marqué et un pied à zones annulaires jaunes, et pousse surtout dans les forêts de conifères et les tourbières. Il est aussi confondu avec Cantharellus cibarius, un champignon comestible à plis au lieu de vraies lames, avec Armillaria mellea et Marasmius oreades, et avec d'autres petites espèces brunes de Cortinarius.",
+        notes: "L'intoxication a été reconnue après une intoxication collective près de Bydgoszcz, en Pologne, en 1952, au cours de laquelle 102 personnes sont tombées malades et 11 sont mortes. Le syndrome qu'elle provoque est appelé, d'après cette espèce, syndrome orellanien. Elle est rare et a été évaluée comme vulnérable (VU) sur la liste rouge danoise et comme préoccupation mineure (LC) sur la liste rouge norvégienne."
+      },
+      de: {
+        description: "Ein kleiner bis mittelgroßer, tödlich giftiger Pilz mit trockenem, mattem, orangebraunem bis rostbraunem Hut mit flachem, stumpfem Buckel, dicken, ziemlich entfernt stehenden orangebraunen Lamellen und einem gelblichen bis ockerfarbenen Stiel ohne Gürtelzonen. Er wächst auf dem Boden in warmen Laubwäldern, meist unter Eichen und Buchen.",
+        cap: "Der Hut ist 3–6 cm breit, selten bis 8 cm. Jung ist er gerundet bis glockig, dann gewölbt bis flach mit flachem, stumpfem Buckel. Die Oberfläche ist trocken und matt, fein faserig bis filzig-schuppig und orangebraun bis rostbraun oder rötlich braun, oft in der Mitte dunkler. Der Rand ist anfangs eingerollt und durch eine flüchtige hellgelbe Cortina mit dem Stiel verbunden. Ein Tropfen Kalilauge (KOH) färbt die Huthaut schwarz.",
+        hymenium: "Die Lamellen sind angewachsen bis ausgebuchtet, dick, breit und ziemlich entfernt stehend. Jung sind sie safran- bis gelbocker, später orangebraun bis rostbraun, wenn die Sporen reifen.",
+        stipe: "Der Stiel ist 4–9 cm lang und 0,7–1,5 cm dick, zylindrisch, zur Basis leicht verjüngt, voll und faserig. Er ist gelblich bis ockerbraun, meist heller als der Hut, und trägt nur feine faserige Velumreste, ohne deutliche gelbe Gürtelzonen.",
+        flesh: "Das Fleisch ist im Hut dünn, gelblich bis blassocker und direkt unter der Huthaut rostrot. Der Geruch ist schwach rettichartig und der Geschmack mild, sodass beides nicht warnt.",
+        sporePrint: "Rostbraun. Die Sporen sind ellipsoid bis mandelförmig und fein bis mäßig warzig, etwa 8–11 × 5,5–6,5 μm.",
+        habitat: "Ein Mykorrhizapilz, der einzeln oder in kleinen Gruppen auf meist saurem Boden in warmen Laubwäldern wächst, vor allem unter Eichen und Buchen, auch unter Hainbuchen, Haseln, Edelkastanien und Birken, und nur selten bei Nadelbäumen. Er fruchtet von etwa Juli oder August bis November. Er ist selten und kommt nur zerstreut vor, vor allem in Mittel-, Ost- und Südeuropa, im Norden und auf den Britischen Inseln ist er sehr selten.",
+        uses: "Er ist tödlich giftig und darf nie gegessen werden. Er enthält Orellanin, ein Nierengift, das durch Kochen nicht zerstört wird. Die Vergiftung verläuft verzögert: Die ersten Beschwerden treten meist nach 2 bis 3 Tagen auf, manchmal erst nach bis zu drei Wochen, sodass der Pilz selten als Ursache vermutet wird. Durst, Übelkeit, Erbrechen, Flankenschmerzen, Kopfschmerzen und Schüttelfrost folgen auf ein akutes Nierenversagen, das zu bleibenden Schäden, Dialyse oder einer Nierentransplantation führen kann. Ein Gegengift gibt es nicht; wer ihn gegessen haben könnte, braucht dringend ärztliche Hilfe und sollte eine Giftnotrufzentrale anrufen.",
+        confusion: "Cortinarius rubellus ist ebenfalls tödlich giftig und sehr ähnlich; er hat meist einen deutlicheren Buckel und einen Stiel mit gelben Gürtelzonen und wächst vor allem in Nadelwäldern und Mooren. Er wird auch mit Cantharellus cibarius, einem essbaren Pilz mit Leisten statt echter Lamellen, mit Armillaria mellea und Marasmius oreades sowie mit anderen kleinen braunen Arten der Gattung Cortinarius verwechselt.",
+        notes: "Die Vergiftung wurde nach einer Massenvergiftung bei Bydgoszcz in Polen im Jahr 1952 erkannt, bei der 102 Menschen erkrankten und 11 starben. Das dadurch verursachte Syndrom heißt nach dieser Art Orellanus-Syndrom. Er ist selten und wird auf der dänischen Roten Liste als gefährdet (Vulnerable, VU) und auf der norwegischen Roten Liste als nicht gefährdet (Least Concern, LC) eingestuft. Pilz des Jahres 2002 in Deutschland."
+      },
+      he: {
+        description: "פטרייה קטנה עד בינונית, רעילה קטלנית, בעלת כובע יבש, עמום, חום־כתום עד חום־חלוד עם בליטה נמוכה וקהה, ולמלות עבות, די רחוקות זו מזו, בצבע חום־כתום, וגבעול צהבהב עד אוקר ללא אזורי חגורה. היא גדלה על הקרקע ביערות רחבי עלים חמים, לרוב מתחת לאלונים ולאשוריים.",
+        cap: "הכובע ברוחב 3–6 ס״מ, לעיתים רחוקות עד 8 ס״מ. כשהוא צעיר הוא מעוגל עד פעמוני, אחר כך קמור עד שטוח עם בליטה נמוכה וקהה. פני השטח יבשים ועמומים, סיביים דק עד קשקשיים כמו לבד, חום־כתום עד חום־חלוד או חום־אדמדם, ולעיתים קרובות כהים יותר במרכז. הקצה מקופל תחילה פנימה ומחובר לגבעול בקורטינה צהובה בהירה חולפת. טיפה של אשלגן הידרוקסידי (KOH) צובעת את עור הכובע בשחור.",
+        hymenium: "הלמלות צמודות עד מעוגלות בבסיסן, עבות, רחבות ודי רחוקות זו מזו. כשהן צעירות הן צהובות כזעפרן עד צהובות־אוקר, ואחר כך חומות־כתומות עד חומות־חלודות ככל שהנבגים מבשילים.",
+        stipe: "הגבעול באורך 4–9 ס״מ ובעובי 0.7–1.5 ס״מ, גלילי, מצטמצם מעט לכיוון הבסיס, מלא וסיבי. הוא צהבהב עד חום־אוקר, בדרך כלל בהיר מהכובע, ויש עליו רק שאריות סיביות דקות של הקורטינה, ללא אזורי חגורה צהובים בולטים.",
+        flesh: "הבשר דק בכובע, צהבהב עד אוקר חיוור, ואדום־חלוד מתחת לעור הכובע. הריח קלוש של צנון והטעם עדין, ולכן אף אחד מהם אינו מזהיר.",
+        sporePrint: "חום־חלוד. הנבגים אליפסיים עד בצורת שקד, עם יבלות דקות עד בינוניות, בגודל של כ־8–11 × 5.5–6.5 מיקרומטר.",
+        habitat: "פטרייה אקטומיקוריזית הגדלה בודדת או בקבוצות קטנות, לרוב על קרקע חומצית ביערות רחבי עלים חמים, בעיקר מתחת לאלונים ולאשוריים, וגם מתחת לשדרניות, לאגוזי לוז, לערמונים ולליבנים, ורק לעיתים רחוקות ליד עצי מחט. גופי הפרי מופיעים בערך מיולי או מאוגוסט עד נובמבר. היא נדירה ומופיעה בכתמים, בעיקר במרכז, במזרח ובדרום אירופה, ונדירה מאוד בצפון ובאיים הבריטיים.",
+        uses: "היא רעילה קטלנית ואסור לאכול אותה לעולם. היא מכילה אורלנין, רעלן כליות שבישול אינו משמיד. ההרעלה מתעכבת: התסמינים הראשונים מופיעים בדרך כלל אחרי 2–3 ימים, לפעמים רק אחרי עד שלושה שבועות, ולכן רק לעיתים רחוקות חושדים בפטרייה. צמא, בחילה, הקאות, כאב בצד הגוף, כאב ראש וצמרמורות באים לפני אי־ספיקת כליות חריפה העלולה להוביל לנזק קבוע, לדיאליזה או להשתלת כליה. אין נוגדן, וכל מי שאולי אכל אותה זקוק לטיפול רפואי דחוף וצריך להתקשר למרכז לייעוץ בהרעלות.",
+        confusion: "Cortinarius rubellus גם הוא רעיל קטלנית ודומה מאוד; בדרך כלל יש לו בליטה בולטת יותר וגבעול עם אזורי חגורה צהובים, והוא גדל בעיקר ביערות מחטניים ובביצות. היא גם מתבלבלת עם Cantharellus cibarius, פטרייה אכילה עם קפלים במקום למלות אמיתיות, עם Armillaria mellea ו־Marasmius oreades ועם מינים חומים קטנים אחרים של Cortinarius.",
+        notes: "ההרעלה הוכרה אחרי הרעלה המונית ליד Bydgoszcz שבפולין ב־1952, שבה חלו 102 בני אדם ו־11 מתו. התסמונת שהיא גורמת נקראת על שם מין זה תסמונת אורלנוס. היא נדירה והוערכה כפגיעה (VU) ברשימה האדומה הדנית וכמעוררת דאגה פחותה (LC) ברשימה האדומה הנורווגית."
+      },
+      hi: {
+        description: "छोटी से मध्यम आकार की, जानलेवा ज़हरीली कुकुरमुत्ता, जिसकी टोपी सूखी, फीकी, नारंगी-भूरी से जंग जैसी भूरी होती है और उस पर नीचा भोथरा उभार होता है, जिसकी गिल्स मोटी, कुछ दूर-दूर और नारंगी-भूरी होती हैं, और जिसका तना पीलापन लिए हुए से गेरुए रंग का होता है तथा उस पर कमरबंद जैसे क्षेत्र नहीं होते। यह गर्म चौड़ी पत्ती वाले जंगलों में ज़मीन पर उगती है, ज़्यादातर ओक और बीच के नीचे।",
+        cap: "टोपी 3–6 सेमी चौड़ी होती है, कभी-कभार 8 सेमी तक। छोटी अवस्था में यह गोल से घंटी जैसी होती है, फिर उत्तल से चपटी हो जाती है और उस पर नीचा भोथरा उभार होता है। सतह सूखी और फीकी होती है, बारीक रेशेदार से फेल्ट जैसी पपड़ीदार, नारंगी-भूरी से जंग जैसी भूरी या लाल-भूरी, अक्सर बीच में अधिक गहरी। किनारा पहले भीतर की ओर मुड़ा होता है और तने से एक क्षणभंगुर हल्के पीले मकड़ी-जाल जैसे आवरण (कॉर्टिना) से जुड़ा रहता है। पोटैशियम हाइड्रॉक्साइड (KOH) की एक बूँद टोपी की त्वचा को काला कर देती है।",
+        hymenium: "गिल्स तने से जुड़ी हुई से खाँचेदार होती हैं, मोटी, चौड़ी और कुछ दूर-दूर। छोटी अवस्था में ये केसरिया पीली से पीली-गेरुए रंग की होती हैं, फिर बीजाणु पकने पर नारंगी-भूरी से जंग जैसी भूरी हो जाती हैं।",
+        stipe: "तना 4–9 सेमी लंबा और 0.7–1.5 सेमी मोटा होता है, बेलनाकार, आधार की ओर थोड़ा पतला, ठोस और रेशेदार। यह पीलापन लिए हुए से गेरुए-भूरे रंग का होता है, आमतौर पर टोपी से हल्का, और उस पर आवरण के केवल बारीक रेशेदार अवशेष होते हैं, स्पष्ट पीले कमरबंद-क्षेत्र नहीं।",
+        flesh: "गूदा टोपी में पतला, पीलापन लिए हुए से हल्के गेरुए रंग का और टोपी की त्वचा के ठीक नीचे जंग जैसा लाल होता है। गंध हल्की मूली जैसी और स्वाद मंद होता है, इसलिए दोनों में से कोई चेतावनी नहीं देता।",
+        sporePrint: "जंग जैसा भूरा। बीजाणु दीर्घवृत्ताकार से बादाम के आकार के और बारीक से मध्यम मस्सेदार होते हैं, लगभग 8–11 × 5.5–6.5 μm के।",
+        habitat: "यह एक्टोमाइकोराइज़ल कुकुरमुत्ता अकेले या छोटे समूहों में, ज़्यादातर अम्लीय मिट्टी में, गर्म चौड़ी पत्ती वाले जंगलों में उगता है, मुख्यतः ओक और बीच के नीचे, और हॉर्नबीम, हेज़ल, मीठे शाहबलूत और भूर्ज के नीचे भी, तथा शंकुधारी पेड़ों के पास केवल कभी-कभार। फलनकाय लगभग जुलाई या अगस्त से नवंबर तक निकलते हैं। यह दुर्लभ है और धब्बों में मिलता है, मुख्यतः मध्य, पूर्वी और दक्षिणी यूरोप में, और उत्तर में तथा ब्रिटिश द्वीपों में बहुत दुर्लभ है।",
+        uses: "यह जानलेवा ज़हरीला है और इसे कभी नहीं खाना चाहिए। इसमें ऑरेलैनिन होता है, जो गुर्दों का विष है और पकाने से नष्ट नहीं होता। विषाक्तता देर से प्रकट होती है: पहले लक्षण आमतौर पर 2–3 दिन बाद, कभी-कभी तीन हफ़्ते तक बाद में दिखते हैं, इसलिए कुकुरमुत्ते पर शायद ही कभी संदेह किया जाता है। प्यास, मतली, उल्टी, पसली के नीचे दर्द, सिरदर्द और ठंड लगने के बाद तीव्र गुर्दा विफलता होती है, जिससे स्थायी क्षति, डायलिसिस या गुर्दा प्रत्यारोपण की नौबत आ सकती है। कोई प्रतिविष नहीं है, और जिसने भी इसे खाया हो सकता है उसे तुरंत चिकित्सा सहायता चाहिए और उसे विष नियंत्रण केंद्र को फ़ोन करना चाहिए।",
+        confusion: "Cortinarius rubellus भी जानलेवा ज़हरीला और बहुत मिलता-जुलता है; इसमें आमतौर पर अधिक स्पष्ट उभार और पीले कमरबंद-क्षेत्रों वाला तना होता है, और यह मुख्यतः शंकुधारी जंगलों और दलदलों में उगता है। इसे Cantharellus cibarius से भी भ्रमित किया जाता है, जो असली गिल्स की जगह उभरी हुई धारियों वाला खाने योग्य कुकुरमुत्ता है, साथ ही Armillaria mellea और Marasmius oreades से, और Cortinarius वंश की अन्य छोटी भूरी प्रजातियों से भी।",
+        notes: "इस विषाक्तता को 1952 में पोलैंड के Bydgoszcz के पास हुई सामूहिक विषाक्तता के बाद पहचाना गया, जिसमें 102 लोग बीमार पड़े और 11 की मृत्यु हुई। इससे होने वाले लक्षण-समूह को इसी प्रजाति के नाम पर ऑरेलैनस सिंड्रोम कहा जाता है। यह दुर्लभ है और डेनमार्क की रेड लिस्ट में संवेदनशील (VU) तथा नॉर्वे की रेड लिस्ट में न्यूनतम चिंता (LC) आँकी गई है।"
+      },
+      hu: {
+        description: "Kis vagy közepes méretű, halálosan mérgező gomba száraz, matt, narancsbarna vagy rozsdabarna kalappal, amelyen alacsony, tompa púp van, vastag, meglehetősen ritkás narancsbarna lemezekkel és sárgás vagy okkerszínű, övzónák nélküli tönkkel. Talajon nő meleg lombos erdőkben, leggyakrabban tölgyek és bükkök alatt.",
+        cap: "A kalap 3–6 cm széles, ritkán akár 8 cm. Fiatalon gömbölyded vagy harang alakú, később domború vagy lapos, alacsony, tompa púppal. Felszíne száraz és matt, finoman szálas vagy nemezes pikkelyes, narancsbarna, rozsdabarna vagy vöröses barna, gyakran középen sötétebb. Pereme eleinte begöngyölt, és múlékony, halványsárga pókhálószerű fátyol (kortina) köti a tönkhöz. Egy csepp kálium-hidroxid (KOH) feketére színezi a kalapbőrt.",
+        hymenium: "A lemezek tönkhöz nőttek vagy kissé kimetszettek, vastagok, szélesek és meglehetősen ritkásak. Fiatalon sáfránysárgák vagy sárgás okkerszínűek, később narancsbarnák vagy rozsdabarnák, ahogy a spórák beérnek.",
+        stipe: "A tönk 4–9 cm hosszú és 0,7–1,5 cm vastag, hengeres, az alap felé kissé elkeskenyedő, tömör és rostos. Sárgás vagy okkerbarna, általában világosabb a kalapnál, és csak finom rostos fátyolmaradványok láthatók rajta, határozott sárga övzónák nélkül.",
+        flesh: "A húsa a kalapban vékony, sárgás vagy halvány okkerszínű, közvetlenül a kalapbőr alatt rozsdavörös. Szaga gyengén retekszerű, íze enyhe, így egyik sem figyelmeztet.",
+        sporePrint: "Rozsdabarna. A spórák ellipszoidosak vagy mandula alakúak, finoman vagy mérsékelten szemölcsösek, mérete körülbelül 8–11 × 5,5–6,5 μm.",
+        habitat: "Ektomikorrhizás gomba, amely egyesével vagy kis csoportokban nő többnyire savanyú talajon meleg lombos erdőkben, főként tölgyek és bükkök alatt, de gyertyán, mogyoró, szelídgesztenye és nyír alatt is, csak ritkán fenyők közelében. Termőteste nagyjából júliustól vagy augusztustól novemberig jelenik meg. Ritka és foltszerűen fordul elő, főleg Közép-, Kelet- és Dél-Európában, északon és a Brit-szigeteken nagyon ritka.",
+        uses: "Halálosan mérgező, soha nem szabad megenni. Orellanint tartalmaz, amely vesemérget, és a főzés nem pusztítja el. A mérgezés késleltetett: az első tünetek általában 2–3 nap múlva jelentkeznek, néha csak akár három hét után, ezért ritkán gyanakszanak a gombára. A szomjúságot, hányingert, hányást, oldalfájdalmat, fejfájást és hidegrázást heveny veseelégtelenség követi, amely tartós károsodáshoz, dialízishez vagy veseátültetéshez vezethet. Ellenszer nincs, és mindenkinek, aki talán megette, sürgős orvosi ellátásra van szüksége, és fel kell hívnia a mérgezési ügyeletet.",
+        confusion: "A Cortinarius rubellus szintén halálosan mérgező és nagyon hasonló; általában határozottabb púpja van, tönkjén sárga övzónák vannak, és főként fenyvesekben és lápokon nő. Összetévesztik a Cantharellus cibarius fajjal is, amely ehető gomba, valódi lemezek helyett redőkkel, az Armillaria mellea és a Marasmius oreades fajjal, valamint más kis barna Cortinarius fajokkal.",
+        notes: "A mérgezést az 1952-es lengyelországi, Bydgoszcz környéki tömeges mérgezés után ismerték fel, amikor 102 ember betegedett meg, és 11 meghalt. Az általa okozott tünetegyüttest erről a fajról orellanus-szindrómának nevezik. Ritka, a dán vörös listán sebezhetőnek (VU), a norvég vörös listán nem fenyegetettnek (LC) minősítették."
+      },
+      id: {
+        description: "Jamur kecil hingga sedang yang sangat beracun dan mematikan, bertudung kering, kusam, cokelat jingga hingga cokelat karat dengan umbo rendah yang tumpul, berinsang tebal, agak jarang, berwarna cokelat jingga, serta bertangkai kekuningan hingga oker tanpa zona cincin. Jamur ini tumbuh di tanah pada hutan berdaun lebar yang hangat, kebanyakan di bawah ek (Quercus) dan beech (Fagus).",
+        cap: "Tudung berdiameter 3–6 cm, jarang sampai 8 cm. Saat muda berbentuk bulat hingga lonceng, kemudian cembung hingga datar dengan umbo rendah yang tumpul. Permukaannya kering dan kusam, berserat halus hingga bersisik seperti kempa, berwarna cokelat jingga hingga cokelat karat atau cokelat kemerahan, sering lebih gelap di tengah. Tepinya mula-mula menggulung ke dalam dan terhubung ke tangkai oleh selubung laba-laba (kortina) kuning pucat yang cepat hilang. Setetes kalium hidroksida (KOH) mewarnai kulit tudung menjadi hitam.",
+        hymenium: "Insang melekat hingga berlekuk, tebal, lebar, dan agak jarang. Saat muda berwarna kuning safron hingga kuning oker, kemudian cokelat jingga hingga cokelat karat seiring spora matang.",
+        stipe: "Tangkai panjangnya 4–9 cm dan tebalnya 0,7–1,5 cm, berbentuk silinder, sedikit meruncing ke arah pangkal, padat, dan berserat. Warnanya kekuningan hingga cokelat oker, biasanya lebih pucat daripada tudung, dan hanya memiliki sisa selubung berserat halus tanpa zona kuning yang jelas.",
+        flesh: "Dagingnya tipis di tudung, kekuningan hingga oker pucat, dan merah karat tepat di bawah kulit tudung. Baunya samar seperti lobak dan rasanya lembut, sehingga keduanya tidak memberi peringatan.",
+        sporePrint: "Cokelat karat. Spora berbentuk elipsoid hingga seperti buah almon, berbintil halus hingga sedang, berukuran sekitar 8–11 × 5,5–6,5 μm.",
+        habitat: "Jamur ektomikoriza yang tumbuh sendiri atau dalam kelompok kecil, kebanyakan di tanah asam pada hutan berdaun lebar yang hangat, terutama di bawah ek (Quercus) dan beech (Fagus), juga di bawah Carpinus, Corylus, Castanea, dan Betula, dan hanya jarang di dekat pohon runjung. Tubuh buahnya muncul kira-kira dari Juli atau Agustus hingga November. Jamur ini langka dan tersebar secara berbercak, terutama di Eropa tengah, timur, dan selatan, serta sangat langka di utara dan di Kepulauan Britania.",
+        uses: "Jamur ini sangat beracun dan mematikan, dan tidak boleh dimakan. Ia mengandung orelanin, racun ginjal yang tidak rusak oleh pemasakan. Keracunannya tertunda: gejala pertama biasanya muncul setelah 2–3 hari, kadang baru setelah hingga tiga minggu, sehingga jamur ini jarang dicurigai sebagai penyebabnya. Rasa haus, mual, muntah, nyeri pinggang, sakit kepala, dan menggigil diikuti gagal ginjal akut yang dapat menyebabkan kerusakan permanen, cuci darah, atau transplantasi ginjal. Tidak ada penawarnya, dan siapa pun yang mungkin telah memakannya membutuhkan perawatan medis segera serta harus menghubungi pusat informasi keracunan.",
+        confusion: "Cortinarius rubellus juga sangat beracun dan mematikan serta sangat mirip; biasanya umbonya lebih jelas dan tangkainya memiliki zona cincin kuning, dan tumbuh terutama di hutan runjung dan rawa gambut. Jamur ini juga dikacaukan dengan Cantharellus cibarius, jamur yang dapat dimakan dengan lipatan, bukan insang sejati, dengan Armillaria mellea dan Marasmius oreades, serta dengan jenis Cortinarius cokelat kecil lainnya.",
+        notes: "Keracunan ini dikenali setelah keracunan massal di dekat Bydgoszcz, Polandia, pada 1952, ketika 102 orang jatuh sakit dan 11 meninggal. Sindrom yang ditimbulkannya dinamai sindrom orellanus menurut spesies ini. Jamur ini langka dan dinilai rentan (VU) dalam daftar merah Denmark serta risiko rendah (LC) dalam daftar merah Norwegia."
+      },
+      it: {
+        description: "Un fungo di taglia piccola o media, mortalmente velenoso, con cappello asciutto, opaco, bruno-arancio a bruno-ruggine, con un umbone basso e ottuso, lamelle spesse, piuttosto distanziate e bruno-arancio, e gambo giallastro a ocra senza zone anulari. Cresce sul terreno nei boschi caldi di latifoglie, per lo più sotto querce e faggi.",
+        cap: "Il cappello misura 3–6 cm di diametro, raramente fino a 8 cm. Da giovane è arrotondato o campanulato, poi convesso o appianato con un umbone basso e ottuso. La superficie è asciutta e opaca, finemente fibrillosa o squamulosa come feltro, bruno-arancio a bruno-ruggine o bruno-rossastra, spesso più scura al centro. Il margine è dapprima involuto ed è unito al gambo da una cortina giallo pallido e fugace. Una goccia di idrossido di potassio (KOH) fa diventare nera la cuticola del cappello.",
+        hymenium: "Le lamelle sono adnate o smarginate, spesse, larghe e piuttosto distanziate. Da giovani sono giallo zafferano o giallo-ocra, poi bruno-arancio o bruno-ruggine man mano che le spore maturano.",
+        stipe: "Il gambo misura 4–9 cm di lunghezza e 0,7–1,5 cm di spessore, è cilindrico, leggermente assottigliato verso la base, pieno e fibroso. È giallastro o bruno-ocra, in genere più chiaro del cappello, e porta solo sottili resti fibrosi della cortina, senza zone gialle ben definite.",
+        flesh: "La carne è sottile nel cappello, giallastra o ocra pallido e rosso ruggine appena sotto la cuticola. L'odore è debolmente di ravanello e il sapore dolce, quindi nessuno dei due mette in guardia.",
+        sporePrint: "Bruno-ruggine. Le spore sono ellissoidali o a mandorla e finemente o moderatamente verrucose, di circa 8–11 × 5,5–6,5 μm.",
+        habitat: "Fungo ectomicorrizico che cresce isolato o in piccoli gruppi su terreno per lo più acido, nei boschi caldi di latifoglie, soprattutto sotto querce e faggi, ma anche sotto carpini, noccioli, castagni e betulle, e solo raramente vicino alle conifere. Fruttifica approssimativamente da luglio o agosto a novembre. È raro e discontinuo, soprattutto nell'Europa centrale, orientale e meridionale, ed è molto raro al nord e nelle Isole Britanniche.",
+        uses: "È mortalmente velenoso e non va mai mangiato. Contiene orellanina, una tossina dei reni che la cottura non distrugge. L'intossicazione è ritardata: i primi sintomi compaiono di solito dopo 2–3 giorni, a volte solo fino a tre settimane dopo, perciò il fungo è raramente sospettato. Sete, nausea, vomito, dolore al fianco, mal di testa e brividi sono seguiti da insufficienza renale acuta, che può portare a danni permanenti, dialisi o trapianto di rene. Non esiste antidoto e chiunque possa averlo mangiato ha bisogno di cure mediche urgenti e deve chiamare il centro antiveleni.",
+        confusion: "Cortinarius rubellus è anch'esso mortalmente velenoso e molto simile; di solito ha un umbone più marcato e un gambo con zone anulari gialle, e cresce soprattutto nei boschi di conifere e nelle torbiere. Viene confuso anche con Cantharellus cibarius, un fungo commestibile con pieghe al posto delle vere lamelle, con Armillaria mellea e Marasmius oreades e con altre piccole specie brune di Cortinarius.",
+        notes: "L'intossicazione fu riconosciuta dopo un'intossicazione di massa vicino a Bydgoszcz, in Polonia, nel 1952, in cui si ammalarono 102 persone e 11 morirono. La sindrome che provoca si chiama, da questa specie, sindrome orellanica. È rara ed è stata valutata come vulnerabile (VU) nella lista rossa danese e come a rischio minimo (LC) in quella norvegese."
+      },
+      ja: {
+        description: "小型から中型の猛毒のキノコで、傘は乾いてつやがなく、橙褐色から錆褐色で低く鈍い突起があり、ひだは厚く間隔がやや広い橙褐色、柄は黄色みを帯びた色から黄土色で環状の帯はありません。暖かい広葉樹林の地上に生え、多くはナラ類やブナの下に見られます。",
+        cap: "傘は直径3–6 cm、まれに8 cmに達します。若いうちは丸みを帯びた形から釣鐘形で、のちに丸山形から平らになり、低く鈍い突起があります。表面は乾いてつやがなく、細かい繊維状からフェルト状の鱗片があり、橙褐色から錆褐色または赤褐色で、中央が濃いことが多いです。縁は初め内側に巻き、はかなく消える淡黄色のクモの巣状の被膜（コルチナ）で柄とつながります。水酸化カリウム（KOH）を1滴つけると傘の表皮が黒くなります。",
+        hymenium: "ひだは直生からやや湾生で、厚く幅広く、間隔はやや広いです。若いうちはサフラン色から黄土黄色で、胞子が熟すにつれて橙褐色から錆褐色になります。",
+        stipe: "柄は長さ4–9 cm、太さ0.7–1.5 cmで、円柱形、基部へ向かってわずかに細くなり、中実で繊維質です。黄色みを帯びた色から黄土褐色で、多くは傘より淡く、被膜の細い繊維状の残りがあるだけで、はっきりした黄色の帯はありません。",
+        flesh: "肉は傘では薄く、黄色みを帯びた色から淡い黄土色で、傘の表皮のすぐ下は錆赤色です。においはかすかにダイコンのようで、味は穏やかなので、どちらも警告になりません。",
+        sporePrint: "錆褐色。胞子は楕円形からアーモンド形で、細かいいぼから中程度のいぼがあり、およそ8–11 × 5.5–6.5 μmです。",
+        habitat: "外生菌根性のキノコで、単生または小さな群れで、おもに酸性の土壌の暖かい広葉樹林に生え、主にナラ類やブナの下、ほかにクマシデ、ハシバミ、クリ、カバノキの下にも見られ、針葉樹の近くにはまれです。子実体はおよそ7月または8月から11月に出ます。まれで、分布はまだら状で、おもに中部・東部・南部ヨーロッパに見られ、北部やブリテン諸島では非常にまれです。",
+        uses: "猛毒で、決して食べてはいけません。加熱しても壊れない腎臓毒のオレラニンを含みます。中毒は遅れて現れ、最初の症状はふつう2–3日後、ときには最長3週間後に出るため、このキノコが原因と疑われることはまれです。のどの渇き、吐き気、嘔吐、脇腹の痛み、頭痛、悪寒に続いて急性腎不全となり、永続的な障害、透析、腎移植に至ることがあります。解毒薬はなく、食べた可能性のある人は直ちに医療機関で治療を受け、中毒情報センターに連絡してください。",
+        confusion: "Cortinarius rubellusも猛毒でよく似ており、通常は突起がより目立ち、柄に黄色の環状の帯があり、おもに針葉樹林や湿原に生えます。また、本当のひだではなく隆起がある食用キノコのCantharellus cibarius、Armillaria mellea、Marasmius oreades、ほかの小型で褐色のCortinarius属の種とも混同されます。",
+        notes: "1952年にポーランドのブィドゴシュチュ近郊で起きた集団中毒、患者102人、死者11人の後に、この中毒が認識されました。引き起こされる症候群は、この種にちなんでオレラヌス症候群と呼ばれます。まれな種で、デンマークのレッドリストでは危急（VU）、ノルウェーのレッドリストでは低懸念（LC）と評価されています。"
+      },
+      ko: {
+        description: "작거나 중간 크기의 치명적인 독버섯으로, 갓은 건조하고 광택이 없으며 주황갈색에서 녹슨 갈색이고 낮고 뭉툭한 돌기가 있으며, 주름살은 두껍고 다소 성기며 주황갈색이고, 자루는 노르스름한 색에서 황토색이며 띠 모양 구역이 없습니다. 따뜻한 활엽수림의 땅에서 자라며 대개 참나무와 너도밤나무 아래에서 납니다.",
+        cap: "갓은 지름 3–6 cm이고 드물게 8 cm까지 자랍니다. 어릴 때는 둥근 모양에서 종 모양이고, 이후 볼록한 모양에서 편평해지며 낮고 뭉툭한 돌기가 있습니다. 표면은 건조하고 광택이 없으며 가는 섬유상에서 펠트 같은 비늘 모양이고, 주황갈색에서 녹슨 갈색 또는 붉은 갈색이며 가운데가 더 짙은 경우가 많습니다. 가장자리는 처음에 안쪽으로 말려 있고 곧 사라지는 연한 노란색 거미줄 모양 외피막(코르티나)으로 자루와 이어집니다. 수산화칼륨(KOH) 한 방울은 갓의 표피를 검게 물들입니다.",
+        hymenium: "주름살은 올린 모양에서 굽은 모양이며 두껍고 넓고 다소 성깁니다. 어릴 때는 사프란 노란색에서 노란 황토색이고, 포자가 익으면서 주황갈색에서 녹슨 갈색으로 변합니다.",
+        stipe: "자루는 길이 4–9 cm, 굵기 0.7–1.5 cm이고 원통형이며 밑동 쪽으로 약간 가늘어지고 속이 차 있으며 섬유질입니다. 노르스름한 색에서 황토 갈색이고 보통 갓보다 연하며, 외피막의 가는 섬유상 잔해만 있을 뿐 뚜렷한 노란 띠 구역은 없습니다.",
+        flesh: "살은 갓에서 얇고 노르스름한 색에서 연한 황토색이며 갓 표피 바로 아래는 녹슨 붉은색입니다. 냄새는 희미하게 무 같고 맛은 순해서 둘 다 경고가 되지 않습니다.",
+        sporePrint: "녹슨 갈색. 포자는 타원형에서 아몬드 모양이고 가는 사마귀 돌기에서 중간 정도의 사마귀 돌기가 있으며, 크기는 약 8–11 × 5.5–6.5 μm입니다.",
+        habitat: "외생균근성 버섯으로 홀로 또는 작은 무리를 지어 주로 산성 토양의 따뜻한 활엽수림에서 자라며, 주로 참나무와 너도밤나무 아래에서 나고 서어나무, 개암나무, 밤나무, 자작나무 아래에서도 나며 침엽수 가까이에서는 드뭅니다. 대략 7월 또는 8월부터 11월까지 자실체가 나옵니다. 드물고 군데군데 분포하며 주로 중부, 동부, 남부 유럽에서 발견되고 북부와 영국 제도에서는 매우 드뭅니다.",
+        uses: "치명적인 독버섯이므로 절대 먹어서는 안 됩니다. 조리해도 파괴되지 않는 신장 독소인 오렐라닌이 들어 있습니다. 중독은 지연되어 나타납니다. 첫 증상은 보통 2–3일 뒤, 때로는 최대 3주 뒤에야 나타나므로 이 버섯이 원인으로 의심되는 경우가 드뭅니다. 갈증, 메스꺼움, 구토, 옆구리 통증, 두통, 오한에 이어 급성 신부전이 생기며 영구적인 손상, 투석, 신장 이식으로 이어질 수 있습니다. 해독제는 없으며, 먹었을 가능성이 있는 사람은 즉시 응급 치료를 받고 독극물 정보센터에 연락해야 합니다.",
+        confusion: "Cortinarius rubellus도 치명적인 독버섯으로 매우 비슷하며, 보통 돌기가 더 뚜렷하고 자루에 노란 띠 구역이 있으며 주로 침엽수림과 습지에서 자랍니다. 진짜 주름살 대신 주름이 있는 식용 버섯인 Cantharellus cibarius, Armillaria mellea, Marasmius oreades, 그리고 Cortinarius 속의 다른 작은 갈색 종과도 혼동됩니다.",
+        notes: "이 중독은 1952년 폴란드 비드고슈치 근처에서 102명이 앓고 11명이 사망한 집단 중독 뒤에 알려졌습니다. 이로 인한 증후군은 이 종의 이름을 따 오렐라누스 증후군이라고 부릅니다. 드문 종으로, 덴마크 적색 목록에서는 취약(VU), 노르웨이 적색 목록에서는 최소관심(LC)으로 평가되었습니다."
+      },
+      lv: {
+        description: "Maza līdz vidēja izmēra, nāvējoši indīga sēne ar sausu, blāvu, oranžbrūnu līdz rūsgani brūnu cepurīti ar zemu, strupu kupolu, biezām, diezgan retām oranžbrūnām plāksnītēm un dzeltenīgu līdz okerainu kātu bez joslām. Tā aug uz zemes siltos lapkoku mežos, visbiežāk zem ozoliem un dižskābaržiem.",
+        cap: "Cepurīte ir 3–6 cm plata, reti līdz 8 cm. Jaunībā tā ir noapaļota līdz zvanveidīga, vēlāk izliekta līdz plakana ar zemu, strupu kupolu. Virsma ir sausa un blāva, smalki šķiedraina līdz filcaini zvīņaina un oranžbrūna līdz rūsgani vai sarkanbrūna, bieži vidū tumšāka. Mala sākumā ir ieritināta, un to ar kātu savieno gaistošs, gaiši dzeltens tīmekļveida plīvurs (kortīna). Kālija hidroksīda (KOH) piliens cepurītes ādu nokrāso melnu.",
+        hymenium: "Plāksnītes ir pieaugušas līdz izliektas, biezas, platas un diezgan retas. Jaunībā tās ir safrāndzeltenas līdz dzeltenokeraini, vēlāk oranžbrūnas līdz rūsgani brūnas, sporām nobriestot.",
+        stipe: "Kāts ir 4–9 cm garš un 0,7–1,5 cm biezs, cilindrisks, pret pamatni nedaudz sašaurināts, pilns un šķiedrains. Tas ir dzeltenīgs līdz okerbrūns, parasti gaišāks par cepurīti, un uz tā ir tikai smalkas šķiedrainas plīvura paliekas bez skaidrām dzeltenām joslām.",
+        flesh: "Mīkstums cepurītē ir plāns, dzeltenīgs līdz gaiši okerains un tieši zem cepurītes ādas rūsgani sarkans. Smarža ir viegli redīsu, garša maiga, tāpēc neviena no tām nebrīdina.",
+        sporePrint: "Rūsgani brūns. Sporas ir elipsoīdas līdz mandeļveida, smalki līdz mēreni kārpainas, apmēram 8–11 × 5,5–6,5 μm lielas.",
+        habitat: "Ektomikorizas sēne, kas aug atsevišķi vai nelielās grupās galvenokārt skābā augsnē siltos lapkoku mežos, pamatā zem ozoliem un dižskābaržiem, kā arī zem skābaržiem, lazdām, īstajām kastaņām un bērziem, un tikai reti skuju koku tuvumā. Augļķermeņi parādās aptuveni no jūlija vai augusta līdz novembrim. Tā ir reta un sastopama plankumiem, galvenokārt Centrāleiropā, Austrumeiropā un Dienvideiropā, bet ziemeļos un Britu salās ļoti reta.",
+        uses: "Tā ir nāvējoši indīga, un to nekad nedrīkst ēst. Tajā ir orelanīns, nieru inde, ko vārīšana neiznīcina. Saindēšanās ir aizkavēta: pirmie simptomi parasti parādās pēc 2–3 dienām, dažreiz tikai pēc pat trim nedēļām, tāpēc sēni reti uzskata par cēloni. Slāpēm, nelabumam, vemšanai, sāpēm sānos, galvassāpēm un drebuļiem seko akūta nieru mazspēja, kas var izraisīt paliekošus bojājumus, dialīzi vai nieru transplantāciju. Pretindes nav, un ikvienam, kas to varētu būt apēdis, nepieciešama steidzama medicīniskā palīdzība un jāzvana saindēšanās informācijas centram.",
+        confusion: "Cortinarius rubellus ir arī nāvējoši indīgs un ļoti līdzīgs; tam parasti ir izteiktāks kupols un kāts ar dzeltenām joslām, un tas aug galvenokārt skujkoku mežos un purvos. To sajauc arī ar Cantharellus cibarius, ēdamu sēni ar krokām īstu plāksnīšu vietā, ar Armillaria mellea un Marasmius oreades, kā arī ar citām mazām brūnām Cortinarius sugām.",
+        notes: "Saindēšanos atpazina pēc masveida saindēšanās pie Bidgoščas Polijā 1952. gadā, kad saslima 102 cilvēki un 11 nomira. Sindromu, ko tā izraisa, pēc šīs sugas sauc par orellanus sindromu. Tā ir reta, un Dānijas sarkanajā sarakstā tā novērtēta kā ievainojama (VU), bet Norvēģijas sarkanajā sarakstā kā mazāk apdraudēta (LC)."
+      },
+      lt: {
+        description: "Maža arba vidutinio dydžio, mirtinai nuodingas grybas su sausa, matine, oranžiškai rudu iki rūdžiai rudu kepurėle su žemu buku gumburu, storomis, gana retomis oranžiškai rudomis plokštelėmis ir gelsva iki ochros spalvos kojele be juostų. Auga ant žemės šiltuose lapuočių miškuose, dažniausiai po ąžuolais ir bukais.",
+        cap: "Kepurėlė 3–6 cm pločio, retai iki 8 cm. Jauna ji apvali iki varpelio formos, vėliau išgaubta iki plokščios su žemu buku gumburu. Paviršius sausas ir matinis, smulkiai plaušuotas iki veltinio pavidalo žvynuotas, oranžiškai rudas iki rūdžiai ar rausvai rudo, dažnai viduryje tamsesnis. Kraštas iš pradžių įsirangęs, o su koja jį jungia nepastovus šviesiai geltonas voratinklinis dengiamasis (kortina). Lašas kalio hidroksido (KOH) kepurėlės odelę nudažo juodai.",
+        hymenium: "Plokštelės prisiaugusios iki įpjautų, storos, plačios ir gana retos. Jaunos jos šafraninės iki gelsvai ochros spalvos, vėliau oranžiškai rudos iki rūdžiai rudos, sporoms bręstant.",
+        stipe: "Koja 4–9 cm ilgio ir 0,7–1,5 cm storio, cilindriška, link pagrindo šiek tiek siaurėjanti, kieta ir plaušuota. Ji gelsva iki ochriškai rudos, paprastai šviesesnė už kepurėlę, turi tik smulkių plaušuotų dengiamojo likučių be ryškių geltonų juostų.",
+        flesh: "Minkštimas kepurėlėje plonas, gelsvas iki šviesiai ochros spalvos, o tiesiai po kepurėlės oda rūdžiai raudonas. Kvapas silpnai ridikėlių, skonis švelnus, todėl nė vienas jų neįspėja.",
+        sporePrint: "Rūdžiai ruda. Sporos elipsoidinės iki migdolo formos, smulkiai iki vidutiniškai karpuotos, maždaug 8–11 × 5,5–6,5 μm dydžio.",
+        habitat: "Ektomikorizinis grybas, augantis pavieniui arba nedidelėmis grupėmis daugiausia rūgščiame dirvožemyje šiltuose lapuočių miškuose, daugiausia po ąžuolais ir bukais, taip pat po skroblais, lazdynais, valgomaisiais kaštonais ir beržais, o prie spygliuočių tik retai. Vaisiakūniai pasirodo maždaug nuo liepos ar rugpjūčio iki lapkričio. Jis retas ir paplitęs dėmėmis, daugiausia Vidurio, Rytų ir Pietų Europoje, o šiaurėje ir Britų salose labai retas.",
+        uses: "Jis mirtinai nuodingas ir niekada neturi būti valgomas. Jame yra orelanino, inkstų nuodo, kurio virimas nesunaikina. Apsinuodijimas uždelstas: pirmieji simptomai paprastai pasireiškia po 2–3 dienų, kartais tik po trijų savaičių, todėl grybas retai įtariamas kaip priežastis. Troškulį, pykinimą, vėmimą, šono skausmą, galvos skausmą ir šaltkrėtį seka ūmus inkstų nepakankamumas, galintis sukelti negrįžtamą pažeidimą, dializę ar inkstų persodinimą. Priešnuodžio nėra, o kiekvienas, kuris galėjo jo suvalgyti, turi skubiai kreiptis į gydytoją ir paskambinti apsinuodijimų informacijos biurui.",
+        confusion: "Cortinarius rubellus taip pat mirtinai nuodingas ir labai panašus; paprastai jo gumburas ryškesnis, o koja su geltonomis juostomis, auga daugiausia spygliuočių miškuose ir pelkėse. Jis painiojamas ir su Cantharellus cibarius, valgomu grybu su rievėmis vietoj tikrų plokštelių, su Armillaria mellea ir Marasmius oreades bei kitomis mažomis rudomis Cortinarius rūšimis.",
+        notes: "Apsinuodijimas buvo atpažintas po masinio apsinuodijimo prie Bydgoščiaus Lenkijoje 1952 m., kai susirgo 102 žmonės, o 11 mirė. Jo sukeliamas sindromas pagal šią rūšį vadinamas orellanus sindromu. Jis retas, Danijos raudonojoje knygoje įvertintas kaip pažeidžiamas (VU), o Norvegijos raudonajame sąraše kaip mažiausiai susirūpinimą keliantis (LC)."
+      },
+      no: {
+        description: "En liten til middels stor, dødelig giftig sopp med tørr, matt, oransjebrun til rustbrun hatt med lav, butt pukkel, tykke, ganske tettstilte oransjebrune skiver og en gulaktig til okerfarget stilk uten belter. Den vokser på bakken i varme løvskoger, oftest under eik og bøk.",
+        cap: "Hatten er 3–6 cm bred, sjelden opptil 8 cm. Som ung er den rund til klokkeformet, deretter hvelvet til flat med en lav, butt pukkel. Overflaten er tørr og matt, finfibret til filtskjellet og oransjebrun til rustbrun eller rødbrun, ofte mørkere i midten. Kanten er først innrullet og forbundet med stilken av et flyktig, lysegult slør (cortina). En dråpe kaliumhydroksid (KOH) farger hattehuden svart.",
+        hymenium: "Skivene er tilvokste til buktede, tykke, brede og ganske fjerntstilte. Som unge er de safrangule til gulokere, senere oransjebrune til rustbrune etter hvert som sporene modnes.",
+        stipe: "Stilken er 4–9 cm lang og 0,7–1,5 cm tykk, sylindrisk, svakt smalere mot basis, massiv og fibret. Den er gulaktig til okerbrun, vanligvis lysere enn hatten, og har bare fine fibrige slørrester uten tydelige gule belter.",
+        flesh: "Kjøttet er tynt i hatten, gulaktig til lys oker og rustrødt like under hattehuden. Lukten er svakt av reddik og smaken mild, så ingen av dem advarer.",
+        sporePrint: "Rustbrun. Sporene er ellipsoide til mandelformede og fint til moderat vorte, omtrent 8–11 × 5,5–6,5 μm.",
+        habitat: "En mykorrhizasopp som vokser enkeltvis eller i små grupper på for det meste sur jord i varme løvskoger, hovedsakelig under eik og bøk, også under agnbøk, hassel, ekte kastanje og bjørk, og bare sjelden nær bartrær. Den danner fruktlegemer fra omtrent juli eller august til november. Den er sjelden og spredt og finnes mest i Sentral-, Øst- og Sør-Europa, mens den er svært sjelden i nord og på De britiske øyer.",
+        uses: "Den er dødelig giftig og må aldri spises. Den inneholder orellanin, et nyregift som ikke ødelegges av koking. Forgiftningen er forsinket: De første symptomene viser seg vanligvis etter 2 til 3 dager, noen ganger først etter opptil tre uker, så soppen blir sjelden mistenkt som årsak. Tørste, kvalme, oppkast, smerter i siden, hodepine og frysninger etterfølges av akutt nyresvikt som kan føre til varig skade, dialyse eller nyretransplantasjon. Det finnes ingen motgift, og alle som kan ha spist den, trenger akutt legehjelp og bør ringe Giftinformasjonen.",
+        confusion: "Cortinarius rubellus er også dødelig giftig og veldig lik; den har vanligvis en tydeligere pukkel og en stilk med gule belter og vokser mest i barskog og myr. Den forveksles også med Cantharellus cibarius, en spiselig sopp med ribber i stedet for ekte skiver, med Armillaria mellea og Marasmius oreades og med andre små brune arter av Cortinarius.",
+        notes: "Forgiftningen ble gjenkjent etter en masseforgiftning ved Bydgoszcz i Polen i 1952, da 102 personer ble syke og 11 døde. Syndromet den forårsaker, kalles etter denne arten orellanus-syndrom. Den er sjelden og er vurdert som sårbar (VU) på den danske rødlisten og som livskraftig (LC) på den norske rødlisten."
+      },
+      fa: {
+        description: "قارچی کوچک تا متوسط، به‌شدت سمی و کشنده، با کلاهک خشک و مات، قهوه‌ای نارنجی تا قهوه‌ای زنگاری با برجستگی کوتاه و کند، تیغه‌های ضخیم و نسبتاً دور از هم قهوه‌ای نارنجی، و ساقه‌ای زردفام تا خاکی‌رنگ بدون ناحیه‌های کمربندی. روی زمین در جنگل‌های پهن‌برگ گرم می‌روید، بیشتر زیر درختان بلوط و راش.",
+        cap: "کلاهک ۳ تا ۶ سانتی‌متر پهنا دارد و به‌ندرت تا ۸ سانتی‌متر می‌رسد. در جوانی گرد تا زنگوله‌ای است، سپس محدب تا مسطح می‌شود و برجستگی کوتاه و کندی دارد. سطح آن خشک و مات است، ریشه‌ریشه‌ی ظریف تا فلس‌دار نمدمانند، قهوه‌ای نارنجی تا قهوه‌ای زنگاری یا قهوه‌ای مایل به قرمز، و اغلب در مرکز تیره‌تر. لبه در آغاز به درون پیچیده است و با پرده‌ای زودگذر زردکم‌رنگ و تارعنکبوتی (کورتینا) به ساقه می‌پیوندد. یک قطره هیدروکسید پتاسیم (KOH) پوست کلاهک را سیاه می‌کند.",
+        hymenium: "تیغه‌ها چسبیده تا کمی کنگره‌دار، ضخیم، پهن و نسبتاً دور از هم‌اند. در جوانی زعفرانی تا زرد خاکی‌اند، سپس با رسیدن هاگ‌ها قهوه‌ای نارنجی تا قهوه‌ای زنگاری می‌شوند.",
+        stipe: "ساقه ۴ تا ۹ سانتی‌متر بلندی و ۰٫۷ تا ۱٫۵ سانتی‌متر ضخامت دارد، استوانه‌ای، به سمت پایه اندکی باریک‌شونده، توپر و رشته‌ای است. زردفام تا قهوه‌ای خاکی است، معمولاً روشن‌تر از کلاهک، و فقط بقایای رشته‌ای ظریف پرده روی آن دیده می‌شود، بدون ناحیه‌های کمربندی زرد آشکار.",
+        flesh: "گوشت در کلاهک نازک، زردفام تا خاکی کم‌رنگ، و درست زیر پوست کلاهک قرمز زنگاری است. بو کمی شبیه تربچه و طعم ملایم است، پس هیچ‌کدام هشدار نمی‌دهند.",
+        sporePrint: "قهوه‌ای زنگاری. هاگ‌ها بیضوی تا بادامی شکل و با زگیل‌های ظریف تا متوسط‌اند و اندازه‌شان حدود ۸ تا ۱۱ × ۵٫۵ تا ۶٫۵ میکرومتر است.",
+        habitat: "قارچی اکتومایکوریزی که تکی یا در گروه‌های کوچک بیشتر روی خاک اسیدی در جنگل‌های پهن‌برگ گرم می‌روید، به‌ویژه زیر بلوط و راش، و نیز زیر ممرز، فندق، شاه‌بلوط شیرین و توس، و تنها به‌ندرت نزدیک مخروطیان. اندام‌های میوه‌ی آن تقریباً از تیر یا مرداد تا آبان‌ماه پدیدار می‌شوند. کمیاب است و به‌صورت لکه‌ای دیده می‌شود، بیشتر در اروپای مرکزی، شرقی و جنوبی، و در شمال و جزایر بریتانیا بسیار کمیاب است.",
+        uses: "به‌شدت سمی و کشنده است و هرگز نباید خورده شود. حاوی اورلانین است، سمی برای کلیه‌ها که پختن آن را از بین نمی‌برد. مسمومیت با تأخیر بروز می‌کند: نخستین نشانه‌ها معمولاً پس از ۲ تا ۳ روز، و گاه تا سه هفته بعد پدیدار می‌شوند، از این رو به‌ندرت به این قارچ مشکوک می‌شوند. تشنگی، تهوع، استفراغ، درد پهلو، سردرد و لرز به نارسایی حاد کلیه می‌انجامد که می‌تواند به آسیب دائمی، دیالیز یا پیوند کلیه منجر شود. پادزهری وجود ندارد و هر کس که شاید آن را خورده باشد به مراقبت پزشکی فوری نیاز دارد و باید با مرکز مسمومیت‌ها تماس بگیرد.",
+        confusion: "Cortinarius rubellus نیز کشنده و بسیار مشابه است؛ معمولاً برجستگی آشکارتر و ساقه‌ای با ناحیه‌های کمربندی زرد دارد و بیشتر در جنگل‌های مخروطی و باتلاق‌ها می‌روید. با Cantharellus cibarius، قارچی خوراکی که به‌جای تیغه‌های واقعی چین‌خوردگی دارد، با Armillaria mellea و Marasmius oreades، و با گونه‌های کوچک قهوه‌ای دیگر Cortinarius نیز اشتباه گرفته می‌شود.",
+        notes: "این مسمومیت پس از مسمومیت دسته‌جمعی نزدیک Bydgoszcz در لهستان در سال ۱۹۵۲ شناخته شد که در آن ۱۰۲ نفر بیمار شدند و ۱۱ نفر مردند. سندرمی که ایجاد می‌کند به نام این گونه سندرم اورلانوس خوانده می‌شود. کمیاب است و در فهرست سرخ دانمارک آسیب‌پذیر (VU) و در فهرست سرخ نروژ کمترین نگرانی (LC) ارزیابی شده است."
+      },
+      pl: {
+        description: "Mały lub średniej wielkości, śmiertelnie trujący grzyb o suchym, matowym, pomarańczowobrązowym do rdzawobrązowego kapeluszu z niskim, tępym garbkiem, grubych, dość rzadkich pomarańczowobrązowych blaszkach i żółtawym do ochrowego trzonie bez pasków. Rośnie na ziemi w ciepłych lasach liściastych, najczęściej pod dębami i bukami.",
+        cap: "Kapelusz ma 3–6 cm średnicy, rzadko do 8 cm. Za młodu jest zaokrąglony do dzwonkowatego, potem wypukły do płaskiego z niskim, tępym garbkiem. Powierzchnia jest sucha i matowa, drobnowłóknista do filcowato łuskowatej, pomarańczowobrązowa do rdzawej lub czerwonobrązowej, często ciemniejsza pośrodku. Brzeg jest z początku podwinięty i połączony z trzonem nietrwałą bladożółtą zasnówką (kortyną). Kropla wodorotlenku potasu (KOH) zabarwia skórkę kapelusza na czarno.",
+        hymenium: "Blaszki są przyrośnięte do wykrojonych, grube, szerokie i dość rzadkie. Za młodu są szafranowe do żółtoochrowych, później pomarańczowobrązowe do rdzawobrązowych w miarę dojrzewania zarodników.",
+        stipe: "Trzon ma 4–9 cm długości i 0,7–1,5 cm grubości, jest walcowaty, ku podstawie lekko zwężony, pełny i włóknisty. Jest żółtawy do ochrowobrązowego, zwykle jaśniejszy od kapelusza i ma tylko drobne włókniste resztki osłony, bez wyraźnych żółtych pasków.",
+        flesh: "Miąższ jest w kapeluszu cienki, żółtawy do bladoochrowego, a tuż pod skórką kapelusza rdzawoczerwony. Zapach jest słabo rzodkiewkowy, a smak łagodny, więc żadne z nich nie ostrzega.",
+        sporePrint: "Rdzawobrązowy. Zarodniki są elipsoidalne do migdałowatych, drobno do średnio brodawkowate, mają około 8–11 × 5,5–6,5 μm.",
+        habitat: "Grzyb ektomykoryzowy, który rośnie pojedynczo lub w niewielkich grupach na przeważnie kwaśnej glebie w ciepłych lasach liściastych, głównie pod dębami i bukami, także pod grabami, leszczynami, kasztanami jadalnymi i brzozami, a tylko rzadko w pobliżu drzew iglastych. Owocniki wytwarza mniej więcej od lipca lub sierpnia do listopada. Jest rzadki i rozproszony, występuje głównie w Europie Środkowej, Wschodniej i Południowej, a na północy i na Wyspach Brytyjskich jest bardzo rzadki.",
+        uses: "Jest śmiertelnie trujący i nigdy nie wolno go jeść. Zawiera orelaninę, truciznę uszkadzającą nerki, której gotowanie nie niszczy. Zatrucie ma przebieg opóźniony: pierwsze objawy pojawiają się zwykle po 2–3 dniach, czasem dopiero po upływie nawet trzech tygodni, więc grzyb rzadko jest podejrzewany o spowodowanie zatrucia. Pragnienie, nudności, wymioty, ból w boku, ból głowy i dreszcze przechodzą w ostrą niewydolność nerek, która może prowadzić do trwałego uszkodzenia, dializ lub przeszczepu nerki. Nie ma odtrutki, a każdy, kto mógł go zjeść, potrzebuje pilnej pomocy lekarskiej i powinien zadzwonić do ośrodka toksykologicznego.",
+        confusion: "Cortinarius rubellus jest również śmiertelnie trujący i bardzo podobny; zwykle ma wyraźniejszy garbek i trzon z żółtymi paskami, a rośnie głównie w lasach iglastych i na torfowiskach. Bywa też mylony z Cantharellus cibarius, jadalnym grzybem z fałdami zamiast prawdziwych blaszek, z Armillaria mellea i Marasmius oreades oraz z innymi małymi brązowymi gatunkami rodzaju Cortinarius.",
+        notes: "Zatrucie rozpoznano po masowym zatruciu w pobliżu Bydgoszczy w 1952 roku, gdy zachorowały 102 osoby, a 11 zmarło. Wywoływany przez niego zespół nazywa się od tego gatunku zespołem orelaninowym. Jest rzadki i na duńskiej czerwonej liście oceniono go jako gatunek narażony (VU), a na norweskiej jako gatunek najmniejszej troski (LC)."
+      },
+      pt: {
+        description: "Um cogumelo pequeno a médio, mortalmente venenoso, com chapéu seco, baço, castanho-alaranjado a castanho-ferrugíneo e com um umbo baixo e obtuso, lamelas grossas, bastante afastadas e castanho-alaranjadas, e pé amarelado a ocre sem zonas em anel. Cresce no solo em bosques quentes de folhosas, sobretudo sob carvalhos e faias.",
+        cap: "O chapéu mede 3–6 cm de largura, raramente até 8 cm. Quando jovem é arredondado a campanulado, depois convexo a achatado, com um umbo baixo e obtuso. A superfície é seca e baça, finamente fibrosa a escamosa como feltro, castanho-alaranjada a castanho-ferrugínea ou castanho-avermelhada, muitas vezes mais escura ao centro. A margem é primeiro enrolada para dentro e ligada ao pé por uma cortina amarelo-pálida e fugaz. Uma gota de hidróxido de potássio (KOH) escurece a cutícula do chapéu até ficar preta.",
+        hymenium: "As lamelas são adnatas a sinuosas, grossas, largas e bastante afastadas. Quando jovens são amarelo-açafrão a ocre-amareladas, mais tarde castanho-alaranjadas a castanho-ferrugíneas, à medida que os esporos amadurecem.",
+        stipe: "O pé mede 4–9 cm de comprimento e 0,7–1,5 cm de espessura, é cilíndrico, ligeiramente afilado para a base, maciço e fibroso. É amarelado a castanho-ocre, em geral mais claro do que o chapéu, e só apresenta finos restos fibrosos da cortina, sem zonas amarelas bem definidas.",
+        flesh: "A carne é fina no chapéu, amarelada a ocre-pálida e vermelho-ferrugínea logo abaixo da cutícula. O cheiro é ligeiramente a rabanete e o sabor suave, por isso nenhum dos dois serve de aviso.",
+        sporePrint: "Castanho-ferrugíneo. Os esporos são elipsoides a amendoados e finamente a moderadamente verrucosos, com cerca de 8–11 × 5,5–6,5 μm.",
+        habitat: "Cogumelo ectomicorrízico que cresce isolado ou em pequenos grupos, em solo sobretudo ácido, em bosques quentes de folhosas, principalmente sob carvalhos e faias, mas também sob carpas, aveleiras, castanheiros e bétulas, e só raramente perto de coníferas. Frutifica aproximadamente de julho ou agosto a novembro. É raro e aparece de forma irregular, sobretudo na Europa central, oriental e meridional, sendo muito raro no norte e nas Ilhas Britânicas.",
+        uses: "É mortalmente venenoso e nunca deve ser comido. Contém orelanina, uma toxina dos rins que a cozedura não destrói. A intoxicação é tardia: os primeiros sintomas surgem normalmente ao fim de 2 a 3 dias, por vezes só até três semanas depois, pelo que o cogumelo raramente é suspeito. Sede, náuseas, vómitos, dor no flanco, dores de cabeça e arrepios são seguidos de insuficiência renal aguda, que pode causar lesões permanentes, diálise ou transplante renal. Não existe antídoto, e quem o possa ter comido precisa de cuidados médicos urgentes e deve ligar para o centro de informação antivenenos.",
+        confusion: "Cortinarius rubellus também é mortalmente venenoso e muito semelhante; costuma ter um umbo mais marcado e um pé com zonas amarelas em anel, e cresce sobretudo em bosques de coníferas e turfeiras. Também é confundido com Cantharellus cibarius, um cogumelo comestível com pregas em vez de lamelas verdadeiras, com Armillaria mellea e Marasmius oreades, e com outras espécies pequenas e castanhas de Cortinarius.",
+        notes: "A intoxicação foi reconhecida depois de uma intoxicação em massa perto de Bydgoszcz, na Polónia, em 1952, em que 102 pessoas adoeceram e 11 morreram. A síndrome que provoca chama-se, por causa desta espécie, síndrome orellanus. É rara e foi avaliada como vulnerável (VU) na lista vermelha dinamarquesa e como pouco preocupante (LC) na lista vermelha norueguesa."
+      },
+      ro: {
+        description: "O ciupercă mică spre mijlocie, mortal otrăvitoare, cu pălărie uscată, mată, brun-portocalie până la brun-ruginie, cu un mamelon jos și tocit, lamele groase, destul de rare, brun-portocalii și picior gălbui până la ocru, fără zone inelare. Crește pe sol în păduri calde de foioase, mai ales sub stejari și fagi.",
+        cap: "Pălăria are 3–6 cm în diametru, rar până la 8 cm. La tânără este rotunjită până la campanulată, apoi convexă până la aplatizată, cu un mamelon jos și tocit. Suprafața este uscată și mată, fin fibroasă până la solzoasă ca pâsla, brun-portocalie până la brun-ruginie sau brun-roșcată, adesea mai închisă în centru. Marginea este la început răsfrântă spre interior și unită cu piciorul printr-o cortină galben-pală, trecătoare. O picătură de hidroxid de potasiu (KOH) înnegrește cuticula pălăriei.",
+        hymenium: "Lamelele sunt aderente până la sinuate, groase, late și destul de rare. La tinerețe sunt galben-șofran până la galben-ocru, apoi brun-portocalii până la brun-ruginii, pe măsură ce sporii se coc.",
+        stipe: "Piciorul are 4–9 cm lungime și 0,7–1,5 cm grosime, este cilindric, ușor subțiat spre bază, plin și fibros. Este gălbui până la brun-ocru, de obicei mai deschis decât pălăria, și are doar resturi fine, fibroase, ale cortinei, fără zone galbene distincte.",
+        flesh: "Carnea este subțire în pălărie, gălbuie până la ocru-pal și roșu-ruginie chiar sub cuticulă. Mirosul este slab de ridiche, iar gustul blând, deci niciunul nu avertizează.",
+        sporePrint: "Brun-ruginiu. Sporii sunt elipsoidali până la migdalați și fin până la moderat verucoși, de aproximativ 8–11 × 5,5–6,5 μm.",
+        habitat: "Ciupercă ectomicorizică, ce crește izolat sau în grupuri mici, pe sol mai ales acid, în păduri calde de foioase, în principal sub stejari și fagi, dar și sub carpeni, aluni, castani comestibili și mesteceni, și numai rar lângă conifere. Fructifică aproximativ din iulie sau august până în noiembrie. Este rară și apare pe petice, mai ales în Europa centrală, de est și de sud, și este foarte rară în nord și în Insulele Britanice.",
+        uses: "Este mortal otrăvitoare și nu trebuie mâncată niciodată. Conține orelanină, o toxină a rinichilor pe care gătirea nu o distruge. Intoxicația este întârziată: primele simptome apar de obicei după 2–3 zile, uneori abia după până la trei săptămâni, așa că ciuperca este rareori bănuită drept cauză. Setea, greața, vărsăturile, durerea de flanc, durerea de cap și frisoanele sunt urmate de insuficiență renală acută, care poate duce la leziuni permanente, dializă sau transplant de rinichi. Nu există antidot, iar oricine ar fi putut să o mănânce are nevoie de îngrijiri medicale urgente și trebuie să sune la centrul de toxicologie.",
+        confusion: "Cortinarius rubellus este și el mortal otrăvitor și foarte asemănător; de obicei are un mamelon mai pronunțat și un picior cu zone inelare galbene, și crește mai ales în păduri de conifere și în turbării. Este confundată și cu Cantharellus cibarius, o ciupercă comestibilă cu cute în loc de lamele adevărate, cu Armillaria mellea și Marasmius oreades și cu alte specii mici, brune, de Cortinarius.",
+        notes: "Intoxicația a fost recunoscută după o intoxicație în masă lângă Bydgoszcz, în Polonia, în 1952, când 102 persoane s-au îmbolnăvit și 11 au murit. Sindromul pe care îl provoacă se numește, după această specie, sindrom orellanus. Este rară și a fost evaluată ca vulnerabilă (VU) în lista roșie daneză și ca preocupare minimă (LC) în lista roșie norvegiană."
+      },
+      ru: {
+        description: "Небольшой или средних размеров смертельно ядовитый гриб с сухой матовой оранжево-коричневой до ржаво-коричневой шляпкой с низким тупым бугорком, толстыми, довольно редкими оранжево-коричневыми пластинками и желтоватой до охристой ножкой без опоясывающих зон. Растёт на земле в тёплых лиственных лесах, чаще всего под дубами и буками.",
+        cap: "Шляпка 3–6 см в поперечнике, редко до 8 см. В молодости округлая до колокольчатой, затем выпуклая до плоской с низким тупым бугорком. Поверхность сухая и матовая, тонковолокнистая до войлочно-чешуйчатой, оранжево-коричневая до ржавой или красно-коричневой, часто темнее в центре. Край сначала подвёрнут и соединён с ножкой недолговечной бледно-жёлтой кортиной (паутинистым покрывалом). Капля гидроксида калия (KOH) окрашивает кожицу шляпки в чёрный цвет.",
+        hymenium: "Пластинки приросшие до выемчатых, толстые, широкие и довольно редкие. В молодости они шафрановые до жёлто-охристых, позже оранжево-коричневые до ржаво-коричневых по мере созревания спор.",
+        stipe: "Ножка длиной 4–9 см и толщиной 0,7–1,5 см, цилиндрическая, к основанию слегка суженная, плотная и волокнистая. Она желтоватая до охристо-коричневой, обычно светлее шляпки и несёт лишь тонкие волокнистые остатки покрывала, без чётких жёлтых опоясывающих зон.",
+        flesh: "Мякоть в шляпке тонкая, желтоватая до бледно-охристой, а прямо под кожицей шляпки ржаво-красная. Запах слабый, редечный, вкус мягкий, поэтому ни то ни другое не предупреждает об опасности.",
+        sporePrint: "Ржаво-коричневый. Споры эллипсоидные до миндалевидных, мелко до умеренно бородавчатые, около 8–11 × 5,5–6,5 μm.",
+        habitat: "Эктомикоризный гриб, растущий одиночно или небольшими группами на преимущественно кислой почве в тёплых лиственных лесах, главным образом под дубами и буками, а также под грабами, лещиной, каштаном съедобным и берёзами, и лишь изредка вблизи хвойных. Плодоносит примерно с июля или августа до ноября. Он редок и распространён пятнами, встречается в основном в Центральной, Восточной и Южной Европе, а на севере и на Британских островах очень редок.",
+        uses: "Смертельно ядовит, его нельзя есть ни в коем случае. Содержит ореланин, яд, поражающий почки, который не разрушается при варке. Отравление протекает с задержкой: первые признаки обычно появляются через 2–3 дня, иногда лишь спустя три недели, поэтому на гриб как на причину редко думают. Жажда, тошнота, рвота, боль в боку, головная боль и озноб сменяются острой почечной недостаточностью, которая может привести к необратимому поражению, диализу или пересадке почки. Противоядия нет, и каждому, кто мог его съесть, необходима срочная медицинская помощь и звонок в токсикологический центр.",
+        confusion: "Cortinarius rubellus тоже смертельно ядовит и очень похож; обычно у него более выраженный бугорок и ножка с жёлтыми опоясывающими зонами, а растёт он в основном в хвойных лесах и на болотах. Его путают также с Cantharellus cibarius, съедобным грибом со складками вместо настоящих пластинок, с Armillaria mellea и Marasmius oreades и с другими мелкими коричневыми видами рода Cortinarius.",
+        notes: "Отравление было распознано после массового отравления близ Быдгоща в Польше в 1952 году, когда заболели 102 человека, а 11 умерли. Вызываемый им синдром назван по этому виду ореланусным синдромом. Гриб редок; в датском Красном списке он оценён как уязвимый (VU), а в норвежском Красном списке как вызывающий наименьшие опасения (LC)."
+      },
+      sr: {
+        description: "Мања до средње велика, смртоносно отровна гљива са сувим, мат, наранџастосмеђим до рђавосмеђим шеширом са ниском тупом избочином, дебелим, прилично ретким наранџастосмеђим листићима и жућкастом до окер стопом без опасујућих зона. Расте на тлу у топлим листопадним шумама, најчешће испод храстова и буква.",
+        cap: "Шешир је широк 3–6 cm, ретко до 8 cm. У младости је заобљен до звонаст, затим избочен до раван са ниском тупом избочином. Површина је сува и мат, ситно влакнаста до филцасто љускава, наранџастосмеђа до рђава или црвенкастосмеђа, често тамнија у средини. Руб је испрва подвијен и са стопом га спаја пролазна бледожута кортина (паучинасти застор). Кап калијум-хидроксида (KOH) боји кожицу шешира у црно.",
+        hymenium: "Листићи су прирасли до урезани, дебели, широки и прилично ретки. У младости су шафранасти до жутоокер, касније наранџастосмеђи до рђавосмеђи како споре сазревају.",
+        stipe: "Стопа је дуга 4–9 cm и дебела 0,7–1,5 cm, цилиндрична, према основи благо сужена, пуна и влакнаста. Жућкаста је до окер-смеђа, обично светлија од шешира и има само ситне влакнасте остатке застора, без јасних жутих опасујућих зона.",
+        flesh: "Месо је у шеширу танко, жућкасто до бледо окер, а одмах испод кожице шешира рђаво црвено. Мирис је слабо на ротквицу, а укус благ, па ништа од тога не упозорава.",
+        sporePrint: "Рђавосмеђ. Споре су елипсоидне до бадемасте, ситно до умерено брадавичасте, око 8–11 × 5,5–6,5 μm.",
+        habitat: "Ектомикоризна гљива која расте појединачно или у малим групама на претежно киселом земљишту у топлим листопадним шумама, углавном испод храстова и буква, а такође испод граба, леске, питомог кестена и брезе, и само ретко у близини четинара. Плодоноси отприлике од јула или августа до новембра. Ретка је и јавља се на мрљама, углавном у централној, источној и јужној Европи, а на северу и на Британским острвима је веома ретка.",
+        uses: "Смртоносно је отровна и никада се не сме јести. Садржи ореланин, отров за бубреге који се кувањем не уништава. Тровање тече с кашњењем: први знаци се обично појаве после 2–3 дана, понекад тек после до три недеље, па се на гљиву као узрок ретко помишља. Жеђ, мучнина, повраћање, бол у боку, главобоља и језа смењују се акутном бубрежном инсуфицијенцијом која може довести до трајног оштећења, дијализе или пресађивања бубрега. Противотрова нема, а свако ко је можда појео гљиву треба хитну медицинску помоћ и треба да позове токсиколошки центар.",
+        confusion: "Cortinarius rubellus је такође смртоносно отрован и врло сличан; обично има израженију избочину и стопу са жутим опасујућим зонама, а расте углавном у четинарским шумама и тресетиштима. Меша се и са Cantharellus cibarius, јестивом гљивом са наборима уместо правих листића, са Armillaria mellea и Marasmius oreades и са другим ситним смеђим врстама рода Cortinarius.",
+        notes: "Тровање је препознато после масовног тровања код Бидгошча у Пољској 1952. године, када је оболело 102 људи, а 11 је умрло. Синдром који изазива назван је по овој врсти ореланусни синдром. Ретка је, а на данској Црвеној листи оцењена је као рањива (VU), док је на норвешкој Црвеној листи оцењена као врста најмање забринутости (LC)."
+      },
+      sl: {
+        description: "Majhna do srednje velika, smrtno strupena goba s suhim, medlim, oranžnorjavim do rjastorjavim klobukom z nizko topo izboklino, debelimi, precej redkimi oranžnorjavimi listi in rumenkastim do okrastim betom brez pasastih con. Raste na tleh v toplih listnatih gozdovih, najpogosteje pod hrasti in bukvami.",
+        cap: "Klobuk je širok 3–6 cm, redko do 8 cm. V mladosti je zaobljen do zvonast, nato izbočen do raven z nizko topo izboklino. Površina je suha in medla, drobnovlaknata do klobučasto luskasta, oranžnorjava do rjasta ali rdečerjava, v sredini pogosto temnejša. Rob je sprva podvit in z betom povezan z minljivo bledorumeno koprenasto zaveso (kortino). Kapljica kalijevega hidroksida (KOH) obarva povrhnjico klobuka črno.",
+        hymenium: "Listi so priraščeni do izrezani, debeli, široki in precej redki. V mladosti so žafranasti do rumenookrasti, pozneje oranžnorjavi do rjastorjavi, ko trosi dozorevajo.",
+        stipe: "Bet je dolg 4–9 cm in debel 0,7–1,5 cm, valjast, proti dnu rahlo zožen, poln in vlaknat. Je rumenkast do okrastorjav, običajno svetlejši od klobuka in ima le drobne vlaknate ostanke zavese, brez izrazitih rumenih pasastih con.",
+        flesh: "Meso je v klobuku tanko, rumenkasto do bledookrasto, tik pod povrhnjico klobuka pa rjastordeče. Vonj je rahlo po redkvici, okus pa blag, zato nič od tega ne opozarja.",
+        sporePrint: "Rjastorjav. Trosi so elipsoidni do mandljasti, drobno do zmerno bradavičasti, veliki okoli 8–11 × 5,5–6,5 μm.",
+        habitat: "Ektomikorizna goba, ki raste posamično ali v majhnih skupinah na večinoma kislih tleh v toplih listnatih gozdovih, predvsem pod hrasti in bukvami, pa tudi pod gabri, leskami, pravimi kostanji in brezami, le redko v bližini iglavcev. Plodi približno od julija ali avgusta do novembra. Je redka in razpršena, najdemo jo predvsem v srednji, vzhodni in južni Evropi, na severu in na Britanskem otočju pa je zelo redka.",
+        uses: "Je smrtno strupena in je nikoli ne smemo jesti. Vsebuje orelanin, strup za ledvice, ki ga kuhanje ne uniči. Zastrupitev poteka z zamikom: prvi znaki se običajno pojavijo po 2 do 3 dneh, včasih šele po treh tednih, zato na gobo kot vzrok redko pomislimo. Žeji, slabosti, bruhanju, bolečini v boku, glavobolu in mrzlici sledi akutna odpoved ledvic, ki lahko vodi do trajne okvare, dialize ali presaditve ledvice. Protistrupa ni, vsak, ki jo je morda pojedel, pa potrebuje nujno zdravniško pomoč in mora poklicati center za zastrupitve.",
+        confusion: "Cortinarius rubellus je prav tako smrtno strupen in zelo podoben; običajno ima izrazitejšo izboklino in bet z rumenimi pasastimi conami, raste pa predvsem v iglastih gozdovih in barjih. Zamenjujejo jo tudi z vrsto Cantharellus cibarius, užitno gobo z listi namesto pravih lističev, z vrstama Armillaria mellea in Marasmius oreades ter z drugimi majhnimi rjavimi vrstami rodu Cortinarius.",
+        notes: "Zastrupitev so prepoznali po množični zastrupitvi pri Bydgoszczu na Poljskem leta 1952, ko je zbolelo 102 ljudi, 11 pa jih je umrlo. Sindrom, ki ga povzroča, se po tej vrsti imenuje orelanusni sindrom. Je redka, na danskem rdečem seznamu je ocenjena kot ranljiva (VU), na norveškem rdečem seznamu pa kot vrsta najmanjše skrbi (LC)."
+      },
+      es: {
+        description: "Un hongo pequeño a mediano, mortalmente venenoso, de sombrero seco, mate, pardo anaranjado a pardo oxidado, con un umbón bajo y obtuso, láminas gruesas, bastante separadas y pardo anaranjadas, y pie amarillento a ocre sin zonas anulares. Crece en el suelo en bosques cálidos de planifolios, sobre todo bajo robles y hayas.",
+        cap: "El sombrero mide 3–6 cm de ancho, rara vez hasta 8 cm. De joven es redondeado a campanulado, luego convexo a aplanado, con un umbón bajo y obtuso. La superficie es seca y mate, finamente fibrosa a escamosa afieltrada, pardo anaranjada a pardo oxidada o pardo rojiza, a menudo más oscura en el centro. El margen es al principio enrollado hacia dentro y está unido al pie por una cortina amarillo pálido y fugaz. Una gota de hidróxido de potasio (KOH) tiñe de negro la cutícula del sombrero.",
+        hymenium: "Las láminas son adnatas a sinuosas, gruesas, anchas y bastante separadas. De jóvenes son amarillo azafrán a ocre amarillentas, más tarde pardo anaranjadas a pardo oxidadas, a medida que maduran las esporas.",
+        stipe: "El pie mide 4–9 cm de largo y 0,7–1,5 cm de grosor, es cilíndrico, algo afilado hacia la base, macizo y fibroso. Es amarillento a pardo ocre, por lo general más claro que el sombrero, y solo tiene finos restos fibrosos de la cortina, sin zonas amarillas bien marcadas.",
+        flesh: "La carne es delgada en el sombrero, amarillenta a ocre pálido y rojo oxidado justo bajo la cutícula. El olor es ligeramente a rábano y el sabor suave, así que ninguno de los dos advierte.",
+        sporePrint: "Pardo oxidado. Las esporas son elipsoidales a almendradas y finamente a moderadamente verrugosas, de unos 8–11 × 5,5–6,5 μm.",
+        habitat: "Hongo ectomicorrícico que crece solo o en pequeños grupos, en suelo mayormente ácido, en bosques cálidos de planifolios, principalmente bajo robles y hayas, y también bajo carpes, avellanos, castaños y abedules, y solo raramente cerca de coníferas. Fructifica aproximadamente de julio o agosto a noviembre. Es raro y aparece de forma irregular, sobre todo en Europa central, oriental y meridional, y es muy raro en el norte y en las Islas Británicas.",
+        uses: "Es mortalmente venenoso y nunca debe comerse. Contiene orellanina, una toxina de los riñones que la cocción no destruye. La intoxicación es tardía: los primeros síntomas suelen aparecer a los 2 o 3 días, a veces solo hasta tres semanas después, por lo que rara vez se sospecha del hongo. La sed, las náuseas, los vómitos, el dolor en el costado, el dolor de cabeza y los escalofríos van seguidos de insuficiencia renal aguda, que puede causar daño permanente, diálisis o trasplante de riñón. No hay antídoto, y quien pueda haberlo comido necesita atención médica urgente y debe llamar al centro de toxicología.",
+        confusion: "Cortinarius rubellus también es mortalmente venenoso y muy parecido; suele tener un umbón más marcado y un pie con zonas amarillas anulares, y crece sobre todo en bosques de coníferas y turberas. También se confunde con Cantharellus cibarius, un hongo comestible con pliegues en lugar de láminas verdaderas, con Armillaria mellea y Marasmius oreades, y con otras especies pequeñas y pardas de Cortinarius.",
+        notes: "La intoxicación se reconoció tras una intoxicación masiva cerca de Bydgoszcz, en Polonia, en 1952, en la que enfermaron 102 personas y murieron 11. El síndrome que causa se llama, por esta especie, síndrome orellanus. Es rara y fue evaluada como vulnerable (VU) en la lista roja danesa y como de preocupación menor (LC) en la lista roja noruega."
+      },
+      sv: {
+        description: "En liten till medelstor, dödligt giftig svamp med torr, matt, orangebrun till rostbrun hatt med låg, trubbig puckel, tjocka, ganska glesa orangebruna skivor och en gulaktig till ockrafärgad fot utan bälten. Den växer på marken i varma lövskogar, oftast under ek och bok.",
+        cap: "Hatten är 3–6 cm bred, sällan upp till 8 cm. Som ung är den rundad till klockformad, sedan välvd till platt med en låg, trubbig puckel. Ytan är torr och matt, finfibrig till filtartat fjällig och orangebrun till rostbrun eller rödbrun, ofta mörkare i mitten. Kanten är först nedrullad och förenad med foten genom en flyktig, ljusgul spindelvävsslöja (cortina). En droppe kaliumhydroxid (KOH) färgar hatthuden svart.",
+        hymenium: "Skivorna är fastvuxna till buktiga, tjocka, breda och ganska glesa. Som unga är de saffransgula till gulockra, senare orangebruna till rostbruna när sporerna mognar.",
+        stipe: "Foten är 4–9 cm lång och 0,7–1,5 cm tjock, cylindrisk, något avsmalnande mot basen, massiv och fibrig. Den är gulaktig till ockrabrun, oftast ljusare än hatten, och har bara fina fibriga slöjrester utan tydliga gula bälten.",
+        flesh: "Köttet är tunt i hatten, gulaktigt till ljust ockra och rostrött strax under hatthuden. Lukten är svagt rättikslik och smaken mild, så ingetdera varnar.",
+        sporePrint: "Rostbrun. Sporerna är ellipsoida till mandelformade och fint till måttligt vårtiga, cirka 8–11 × 5,5–6,5 μm.",
+        habitat: "En ektomykorrhizabildande svamp som växer ensam eller i små grupper på mestadels sur mark i varma lövskogar, främst under ek och bok, även under avenbok, hassel, äkta kastanj och björk, och bara sällan nära barrträd. Den bildar fruktkroppar från omkring juli eller augusti till november. Den är sällsynt och fläckvis förekommande, främst i Central-, Öst- och Sydeuropa, medan den är mycket sällsynt i norr och på Brittiska öarna.",
+        uses: "Den är dödligt giftig och får aldrig ätas. Den innehåller orellanin, ett njurgift som inte förstörs av tillagning. Förgiftningen är fördröjd: de första symtomen visar sig oftast efter 2 till 3 dagar, ibland först efter upp till tre veckor, så svampen misstänks sällan som orsak. Törst, illamående, kräkningar, smärta i sidan, huvudvärk och frossa följs av akut njursvikt som kan leda till bestående skada, dialys eller njurtransplantation. Det finns inget motgift, och den som kan ha ätit den behöver akut läkarvård och bör ringa Giftinformationscentralen.",
+        confusion: "Cortinarius rubellus är också dödligt giftig och mycket lik; den har oftast en tydligare puckel och en fot med gula bälten och växer mest i barrskog och på myrar. Den förväxlas också med Cantharellus cibarius, en ätlig svamp med ådror i stället för äkta skivor, med Armillaria mellea och Marasmius oreades och med andra små bruna arter av Cortinarius.",
+        notes: "Förgiftningen upptäcktes efter en massförgiftning vid Bydgoszcz i Polen 1952, då 102 personer insjuknade och 11 dog. Syndromet den orsakar kallas efter denna art orellanussyndrom. Den är sällsynt och bedöms som sårbar (VU) på den danska rödlistan och som livskraftig (LC) på den norska rödlistan."
+      },
+      tr: {
+        description: "Küçük ila orta boyda, öldürücü derecede zehirli bir mantar; şapkası kuru, mat, turuncu-kahverengiden pas-kahverengine kadar, düşük ve küt bir çıkıntılı, lameller kalın, oldukça seyrek ve turuncu-kahverengi, sapı sarımsıdan okra rengine kadar ve halka kuşaksız. Sıcak yapraklı ormanlarda toprakta, çoğunlukla meşe ve kayın altında yetişir.",
+        cap: "Şapka 3–6 cm çapındadır, nadiren 8 cm'ye kadar çıkar. Gençken yuvarlak ile çan biçimlidir, sonra dışbükey ile düz arasında olur ve düşük, küt bir çıkıntı taşır. Yüzey kuru ve mattır, ince lifli ile keçemsi pullu, turuncu-kahverengiden pas-kahverengine ya da kırmızımsı kahverengine kadar değişir ve ortada çoğu kez daha koyudur. Kenar önce içe kıvrıktır ve sapa geçici, soluk sarı bir örümcek ağı örtüsüyle (kortina) bağlanır. Bir damla potasyum hidroksit (KOH) şapka derisini siyaha boyar.",
+        hymenium: "Lameller bitişik ile oyuklu arasındadır; kalın, geniş ve oldukça seyrektir. Gençken safran sarısından sarımsı okra rengine kadardır, sporlar olgunlaştıkça turuncu-kahverengiden pas-kahverengine döner.",
+        stipe: "Sap 4–9 cm uzunluğunda ve 0,7–1,5 cm kalınlığındadır, silindirik, tabana doğru hafifçe incelen, dolu ve liflidir. Sarımsıdan okra-kahverengine kadardır, genellikle şapkadan açıktır ve üzerinde yalnızca örtüden kalan ince lifli kalıntılar vardır, belirgin sarı kuşaklar yoktur.",
+        flesh: "Et şapkada incedir, sarımsıdan soluk okra rengine kadardır ve şapka derisinin hemen altında pas kırmızısıdır. Koku hafifçe turpu andırır, tat yumuşaktır; bu yüzden ikisi de uyarı vermez.",
+        sporePrint: "Pas kahverengi. Sporlar elipsoit ile badem biçimli, ince ile orta derecede siğillidir ve yaklaşık 8–11 × 5,5–6,5 μm boyutundadır.",
+        habitat: "Tek tek ya da küçük gruplar halinde, çoğunlukla asidik toprakta, sıcak yapraklı ormanlarda yetişen ektomikorizal bir mantardır; başlıca meşe ve kayın altında, ayrıca gürgen, fındık, kestane ve huş altında bulunur, iğne yapraklıların yakınında ise nadirdir. Yaklaşık temmuz ya da ağustostan kasıma kadar meyve verir. Nadirdir ve yamalar halinde bulunur; başlıca Orta, Doğu ve Güney Avrupa'dadır, kuzeyde ve Britanya Adaları'nda ise çok nadirdir.",
+        uses: "Öldürücü derecede zehirlidir ve asla yenmemelidir. Pişirmeyle yok olmayan bir böbrek zehiri olan orelanin içerir. Zehirlenme gecikmelidir: ilk belirtiler genellikle 2–3 gün sonra, bazen ise ancak üç haftaya kadar geçtikten sonra ortaya çıkar; bu yüzden mantardan nadiren şüphelenilir. Susuzluk, bulantı, kusma, yan ağrısı, baş ağrısı ve titreme, kalıcı hasara, diyalize ya da böbrek naklisine yol açabilen akut böbrek yetmezliğine dönüşür. Bir panzehiri yoktur; yemiş olabilecek herkesin acil tıbbi bakıma ihtiyacı vardır ve zehir danışma merkezini aramalıdır.",
+        confusion: "Cortinarius rubellus da öldürücü derecede zehirlidir ve çok benzer; genellikle daha belirgin bir çıkıntısı ve sarı kuşaklı bir sapı vardır, başlıca iğne yapraklı ormanlarda ve turbalıklarda yetişir. Ayrıca gerçek lamel yerine kıvrımları olan yenilebilir bir mantar olan Cantharellus cibarius ile, Armillaria mellea ve Marasmius oreades ile ve Cortinarius cinsinin diğer küçük kahverengi türleriyle karıştırılır.",
+        notes: "Zehirlenme, 1952'de Polonya'da Bydgoszcz yakınında 102 kişinin hastalandığı ve 11'inin öldüğü toplu zehirlenmeden sonra tanındı. Neden olduğu sendroma bu türün adından dolayı orellanus sendromu denir. Nadirdir; Danimarka kırmızı listesinde hassas (VU), Norveç kırmızı listesinde asgari endişe (LC) olarak değerlendirilmiştir."
+      },
+      uk: {
+        description: "Невеликий або середнього розміру смертельно отруйний гриб із сухою матовою оранжево-коричневою до іржаво-коричневої шапкою з низьким тупим горбком, товстими, досить рідкими оранжево-коричневими пластинками та жовтуватою до охристої ніжкою без опоясувальних зон. Росте на землі в теплих листяних лісах, найчастіше під дубами та буками.",
+        cap: "Шапка завширшки 3–6 см, рідко до 8 см. У молодості округла до дзвоникуватої, потім опукла до плоскої з низьким тупим горбком. Поверхня суха й матова, тонковолокниста до повстисто-лускатої, оранжево-коричнева до іржавої або червоно-коричневої, часто темніша в центрі. Край спочатку підігнутий і з'єднаний з ніжкою недовговічною блідо-жовтою кортиною (павутинистим покривалом). Крапля гідроксиду калію (KOH) забарвлює шкірку шапки в чорний колір.",
+        hymenium: "Пластинки прирослі до виїмчастих, товсті, широкі й досить рідкі. У молодості вони шафранові до жовто-охристих, пізніше оранжево-коричневі до іржаво-коричневих у міру дозрівання спор.",
+        stipe: "Ніжка завдовжки 4–9 см і завтовшки 0,7–1,5 см, циліндрична, до основи трохи звужена, щільна й волокниста. Вона жовтувата до охристо-коричневої, зазвичай світліша за шапку й має лише тонкі волокнисті залишки покривала, без чітких жовтих опоясувальних зон.",
+        flesh: "М'якуш у шапці тонкий, жовтуватий до блідо-охристого, а відразу під шкіркою шапки іржаво-червоний. Запах слабкий, редьковий, смак м'який, тому ні те, ні інше не застерігає.",
+        sporePrint: "Іржаво-коричневий. Спори еліпсоїдні до мигдалеподібних, дрібно до помірно бородавчасті, приблизно 8–11 × 5,5–6,5 μm.",
+        habitat: "Ектомікоризний гриб, що росте поодинці або невеликими групами на переважно кислому ґрунті в теплих листяних лісах, головно під дубами та буками, а також під грабами, ліщиною, каштаном їстівним і березами, і лише зрідка поблизу хвойних. Плодоносить приблизно з липня чи серпня до листопада. Він рідкісний і трапляється осередками, переважно в Центральній, Східній і Південній Європі, а на півночі та на Британських островах дуже рідкісний.",
+        uses: "Смертельно отруйний, його ніколи не можна їсти. Містить ореланін, отруту, що вражає нирки і не руйнується під час варіння. Отруєння має відтермінований перебіг: перші ознаки зазвичай з'являються через 2–3 дні, іноді лише через три тижні, тому на гриб як на причину рідко думають. Спрага, нудота, блювання, біль у боці, головний біль і озноб змінюються гострою нирковою недостатністю, яка може призвести до незворотного ушкодження, діалізу або пересадки нирки. Протиотрути немає, і кожному, хто міг його з'їсти, потрібна термінова медична допомога та дзвінок до токсикологічного центру.",
+        confusion: "Cortinarius rubellus теж смертельно отруйний і дуже схожий; зазвичай він має виразніший горбок і ніжку з жовтими опоясувальними зонами, а росте переважно в хвойних лісах і на болотах. Його плутають також із Cantharellus cibarius, їстівним грибом зі складками замість справжніх пластинок, з Armillaria mellea та Marasmius oreades і з іншими дрібними коричневими видами роду Cortinarius.",
+        notes: "Отруєння було розпізнано після масового отруєння поблизу Бидгоща в Польщі 1952 року, коли захворіли 102 людини, а 11 померли. Синдром, який він спричиняє, названо за цим видом ореланусним синдромом. Гриб рідкісний; у данському Червоному списку його оцінено як вразливий (VU), а в норвезькому Червоному списку як такий, що викликає найменше занепокоєння (LC)."
+      }
+    },
+    sources: {
+      en: [
+        {
+          "group": "name",
+          "name": "First Nature",
+          "href": "https://www.first-nature.com/fungi/cortinarius-orellanus.php"
+        },
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://en.wikipedia.org/wiki/Cortinarius_orellanus"
+        },
+        {
+          "group": "name",
+          "name": "Artsdatabanken",
+          "href": "https://lister.artsdatabanken.no/rodlisteforarter/2021/10873",
+          "detail": "Least Concern, 2021"
+        },
+        {
+          "group": "name",
+          "name": "Danmarks Miljøundersøgelser, Rødliste",
+          "href": "https://roedliste.au.dk/data.asp?ID=6924&gruppeID=90",
+          "detail": "Vulnerable (VU)"
+        },
+        {
+          "group": "name",
+          "name": "Index Fungorum",
+          "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=158559",
+          "detail": "158559"
+        },
+        {
+          "group": "name",
+          "name": "Species Fungorum",
+          "href": "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=158559",
+          "detail": "158559"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2528684",
+          "detail": "2528684"
+        }
+      ],
+      sk: [
+        {
+          "group": "text",
+          "name": "nahuby.sk",
+          "href": "https://www.nahuby.sk/atlas-hub/Cortinarius-orellanus/pavucinovec-plysovy/pavucinec-plysovy/ID371",
+          "detail": "pavučinovec plyšový"
+        },
+        {
+          "group": "text",
+          "name": "fotonet.sk",
+          "href": "https://fotonet.sk/atlas/fungi_huby/cortinarius-orellanus",
+          "detail": "pavučinovec plyšový"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2528684",
+          "detail": "2528684"
+        }
+      ],
+      ar: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2528684",
+          "detail": "2528684"
+        }
+      ],
+      bg: [
+        {
+          "group": "text",
+          "name": "Уикипедия",
+          "href": "https://bg.wikipedia.org/wiki/%D0%9E%D1%80%D0%B0%D0%BD%D0%B6%D0%B5%D0%B2%D0%BE-%D1%87%D0%B5%D1%80%D0%B2%D0%B5%D0%BD_%D0%BF%D0%B0%D1%8F%D0%B6%D0%B8%D0%BD%D0%BD%D0%B8%D0%BA"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2528684",
+          "detail": "2528684"
+        }
+      ],
+      zh: [
+        {
+          "group": "text",
+          "name": "臺北榮民總醫院臨床毒物與職業醫學部",
+          "href": "https://wd.vghtpe.gov.tw/CT/Fpage.action?fid=16370&muid=18223",
+          "detail": "奧來絲膜菌"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2528684",
+          "detail": "2528684"
+        }
+      ],
+      hr: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://hr.wikipedia.org/wiki/Crvenja%C4%8Da"
+        },
+        {
+          "group": "text",
+          "name": "CROmushrooms",
+          "href": "https://www.cromushrooms.eu/index.php/?id=777&layout=edit",
+          "detail": "crvenjača"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2528684",
+          "detail": "2528684"
+        }
+      ],
+      cs: [
+        {
+          "group": "text",
+          "name": "Česká mykologická společnost",
+          "href": "https://www.myko.cz/myko-atlas/Cortinarius-orellanus/",
+          "detail": "pavučinec plyšový"
+        },
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://cs.wikipedia.org/wiki/Pavu%C4%8Dinec_ply%C5%A1ov%C3%BD"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2528684",
+          "detail": "2528684"
+        }
+      ],
+      da: [
+        {
+          "group": "text",
+          "name": "Danmarks Miljøundersøgelser, Rødliste",
+          "href": "https://roedliste.au.dk/data.asp?ID=6924&gruppeID=90",
+          "detail": "hvælvet gift-slørhat"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2528684",
+          "detail": "2528684"
+        }
+      ],
+      nl: [
+        {
+          "group": "text",
+          "name": "NDFF Verspreidingsatlas",
+          "href": "https://www.verspreidingsatlas.nl/0028840",
+          "detail": "Giftige gordijnzwam"
+        },
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://nl.wikipedia.org/wiki/Giftige_gordijnzwam"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2528684",
+          "detail": "2528684"
+        }
+      ],
+      et: [
+        {
+          "group": "text",
+          "name": "Mürgistusteabekeskus",
+          "href": "https://www.16662.ee/inimesele/murgistusriskid/murgistused-loodusest",
+          "detail": "kastanvöödik"
+        },
+        {
+          "group": "text",
+          "name": "Eesti Loodus",
+          "href": "http://vana.loodusajakiri.ee/eesti_loodus/artikkel4095_4056.html",
+          "detail": "kastanvöödik"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2528684",
+          "detail": "2528684"
+        }
+      ],
+      fi: [
+        {
+          "group": "text",
+          "name": "Suomen Sieniseura",
+          "href": "https://www.funga.fi/sienilaji/cortinarius-orellanus/",
+          "detail": "lehtomyrkkyseitikki"
+        },
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://fi.wikipedia.org/wiki/Lehtomyrkkyseitikki"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2528684",
+          "detail": "2528684"
+        }
+      ],
+      fr: [
+        {
+          "group": "text",
+          "name": "INPN, TAXREF",
+          "href": "https://inpn.mnhn.fr/espece/cd_nom/35315",
+          "detail": "cortinaire couleur de rocou"
+        },
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://fr.wikipedia.org/wiki/Cortinaire_couleur_de_rocou"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2528684",
+          "detail": "2528684"
+        }
+      ],
+      de: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://de.wikipedia.org/wiki/Orangefuchsiger_Raukopf"
+        },
+        {
+          "group": "text",
+          "name": "Wikipedia, Pilz des Jahres",
+          "href": "https://de.wikipedia.org/wiki/Pilz_des_Jahres",
+          "detail": "2002"
+        },
+        {
+          "group": "text",
+          "name": "Umweltbundesamt, Chronik",
+          "href": "https://sns.uba.de/chronik/de/concepts/calendarEvent_562.html",
+          "detail": "Pilz des Jahres 2002"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2528684",
+          "detail": "2528684"
+        }
+      ],
+      he: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2528684",
+          "detail": "2528684"
+        }
+      ],
+      hi: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2528684",
+          "detail": "2528684"
+        }
+      ],
+      hu: [
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://hu.wikipedia.org/wiki/M%C3%A9rges_p%C3%B3kh%C3%A1l%C3%B3sgomba"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2528684",
+          "detail": "2528684"
+        }
+      ],
+      id: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2528684",
+          "detail": "2528684"
+        }
+      ],
+      it: [
+        {
+          "group": "text",
+          "name": "Regione Emilia-Romagna, funghi mortali",
+          "href": "https://ambiente.regione.emilia-romagna.it/it/parchi-natura2000/sistema-regionale/funghi-sottobosco-tartufi/funghi-allegati/funghi-mortali",
+          "detail": "cortinario orellano"
+        },
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://it.wikipedia.org/wiki/Cortinarius_orellanus"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2528684",
+          "detail": "2528684"
+        }
+      ],
+      ja: [
+        {
+          "group": "text",
+          "name": "日本菌学会 大会講演要旨 (J-STAGE)",
+          "href": "https://www.jstage.jst.go.jp/article/msj7abst/58/0/58_94/_pdf",
+          "detail": "ドクフウセンタケ"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2528684",
+          "detail": "2528684"
+        }
+      ],
+      ko: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2528684",
+          "detail": "2528684"
+        }
+      ],
+      lv: [
+        {
+          "group": "text",
+          "name": "Latvijas makroskopisko bazīdijsēņu konspekts",
+          "href": "https://www.silava.lv/images/articles/Latvijas-Vegetacija/2024-34/2024-LatVeg-34.pdf",
+          "detail": "dzeltensarkanā tīmeklene"
+        },
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://lv.wikipedia.org/wiki/Dzeltensarkan%C4%81_t%C4%ABmeklene"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2528684",
+          "detail": "2528684"
+        }
+      ],
+      lt: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://lt.wikipedia.org/wiki/Nuodingasis_nuos%C4%97dis"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2528684",
+          "detail": "2528684"
+        }
+      ],
+      no: [
+        {
+          "group": "text",
+          "name": "Store norske leksikon",
+          "href": "https://snl.no/butt_giftsl%C3%B8rsopp",
+          "detail": "butt giftslørsopp"
+        },
+        {
+          "group": "name",
+          "name": "Artsdatabanken",
+          "href": "https://lister.artsdatabanken.no/rodlisteforarter/2021/10873",
+          "detail": "Least Concern, 2021"
+        },
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://no.wikipedia.org/wiki/Butt_giftsl%C3%B8rsopp"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2528684",
+          "detail": "2528684"
+        }
+      ],
+      fa: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2528684",
+          "detail": "2528684"
+        }
+      ],
+      pl: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://pl.wikipedia.org/wiki/Zas%C5%82onak_rudy"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2528684",
+          "detail": "2528684"
+        }
+      ],
+      pt: [
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://pt.wikipedia.org/wiki/Cortinarius_orellanus"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2528684",
+          "detail": "2528684"
+        }
+      ],
+      ro: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://ro.wikipedia.org/wiki/Cortinarius_orellanus"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2528684",
+          "detail": "2528684"
+        }
+      ],
+      ru: [
+        {
+          "group": "text",
+          "name": "Википедия",
+          "href": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%83%D1%82%D0%B8%D0%BD%D0%BD%D0%B8%D0%BA_%D0%B3%D0%BE%D1%80%D0%BD%D1%8B%D0%B9"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2528684",
+          "detail": "2528684"
+        }
+      ],
+      sr: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2528684",
+          "detail": "2528684"
+        }
+      ],
+      sl: [
+        {
+          "group": "text",
+          "name": "Operativni seznam gliv Slovenije",
+          "href": "https://www.zdravgozd.si/dat/gradivo/22.pdf",
+          "detail": "poljska koprenka"
+        },
+        {
+          "group": "text",
+          "name": "Gobarsko društvo Lisička Maribor",
+          "href": "https://www.gobe.si/Gobe/CortinariusOrellanus",
+          "detail": "poljska koprenka"
+        },
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://sl.wikipedia.org/wiki/Poljska_koprenka"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2528684",
+          "detail": "2528684"
+        }
+      ],
+      es: [
+        {
+          "group": "text",
+          "name": "Aranzadi",
+          "href": "https://www.aranzadi.eus/index.php/buscador-micologico/ficha/1-1-003.11.07.25.01.00",
+          "detail": "cortinario de montaña"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2528684",
+          "detail": "2528684"
+        }
+      ],
+      sv: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://sv.wikipedia.org/wiki/Orangebrun_giftspindling"
+        },
+        {
+          "group": "text",
+          "name": "Giftinformationscentralen",
+          "href": "https://giftinformation.se/svampregister/orangebrun-giftspindling/",
+          "detail": "orangebrun giftspindling"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2528684",
+          "detail": "2528684"
+        }
+      ],
+      tr: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2528684",
+          "detail": "2528684"
+        }
+      ],
+      uk: [
+        {
+          "group": "text",
+          "name": "Гриби України",
+          "href": "http://gribi.net.ua/uk/cortinarius-orellanus/",
+          "detail": "павутинник гірський"
+        },
+        {
+          "group": "text",
+          "name": "Вікіпедія",
+          "href": "https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B2%D1%83%D1%82%D0%B8%D0%BD%D0%BD%D0%B8%D0%BA_%D0%BF%D0%BE%D0%BC%D0%B0%D1%80%D0%B0%D0%BD%D1%87%D0%B5%D0%B2%D0%BE-%D1%87%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B8%D0%B9_%D0%BE%D1%82%D1%80%D1%83%D0%B9%D0%BD%D0%B8%D0%B9"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2528684",
+          "detail": "2528684"
+        }
+      ]
+    },
+    synonyms: [
+      "Dermocybe orellana (Fr.) Ricken",
+      "Gomphos orellanus (Fr.) Kuntze",
+      "Cortinarius rutilans Quél."
     ]
   }
 ];

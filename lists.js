@@ -771,6 +771,9 @@ export const LISTS = [
       },
       {
         "name": "Pleurocybella porrigens"
+      },
+      {
+        "name": "Cortinarius orellanus"
       }
     ],
     "coverSpecies": "Amanita phalloides"

@@ -43,7 +43,7 @@ test('a list page shows catalog species and skips the rest', () => {
   assert.doesNotMatch(page.html, /class="year"/);
   const names = listSpecies('deadly-poisonous').map((row) => row.name);
   assert.deepEqual(names.slice(0, 3), ['Amanita phalloides', 'Amanita virosa', 'Amanita bisporigera']);
-  assert.equal(names.at(-1), 'Pleurocybella porrigens');
+  assert.equal(names.at(-1), 'Cortinarius orellanus');
   assert.match(page.html, /Cortinarius rubellus/);
   assert.match(page.html, /Inosperma erubescens/);
   assert.match(page.html, /Galerina marginata/);
@@ -117,7 +117,6 @@ test('German and Latvian year lists link the catalog species', () => {
 // A year-list row is a catalog species, or one of these gaps. The key is
 // (id, year, name). Order does not matter.
 const YEAR_LIST_GAPS = [
-  ['mushroom-of-the-year-de', 2002, 'Cortinarius orellanus'],
   ['mushroom-of-the-year-de', 2012, 'Cantharellus cinereus'],
   ['mushroom-of-the-year-de', 2025, 'Clavaria zollingeri'],
   ['mushroom-of-the-year-at', 2016, 'Hapalopilus croceus'],
