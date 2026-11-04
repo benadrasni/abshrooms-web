@@ -678,5 +678,8 @@ export const TAXA = {
   },
   Hymenopellis: {
     rank: "genus"
+  },
+  Lactifluus: {
+    rank: "genus"
   }
 };

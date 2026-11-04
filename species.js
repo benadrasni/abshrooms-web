@@ -82025,5 +82025,1020 @@ export const CATALOG = [
       "Collybia radicans P.Kumm.",
       "Collybia retigera Bres."
     ]
+  },
+  {
+    id: 100,
+    name: "Lactifluus volemus",
+    author: "(Fr.) Kuntze",
+    family: "Russulaceae",
+    genus: "Lactifluus",
+    order: "Russulales",
+    edibility: "choice",
+    hymenium: "gills",
+    where: ["ground"],
+    color: ["brown", "yellow"],
+    path: [
+      "Fungi",
+      "Dikarya",
+      "Basidiomycota",
+      "Agaricomycotina",
+      "Agaricomycetes",
+      "Incertae sedis",
+      "Russulales",
+      "Russulaceae",
+      "Lactifluus"
+    ],
+    summary: ["Russulales", "Russulaceae", "Lactifluus"],
+    added: "2026-11-03",
+    plate: STORAGE + "photos/Russulales/Russulaceae/Lactifluus_volemus/Lactifluus_volemus@1600.webp",
+    plateGrid: STORAGE + "photos/Russulales/Russulaceae/Lactifluus_volemus/Lactifluus_volemus@400.webp",
+    plateCredit: {
+      author: "L. Dufour",
+      license: "public domain",
+      source: "https://commons.wikimedia.org/wiki/File:Atlas_des_champignons_comestibles_et_v%C3%A9n%C3%A9neux_(Planche_23)_(6358017973).jpg"
+    },
+    photos: [
+      {
+        src: STORAGE + "photos/Russulales/Russulaceae/Lactifluus_volemus/lv1.webp",
+        author: "Ernie",
+        license: "public domain",
+        source: "https://commons.wikimedia.org/wiki/File:AD2009Sep06_Lactarius_Volemus_03.jpg"
+      },
+      {
+        src: STORAGE + "photos/Russulales/Russulaceae/Lactifluus_volemus/lv2.webp",
+        author: "Dan Molter",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Lactarius_volemus_90024.jpg"
+      },
+      {
+        src: STORAGE + "photos/Russulales/Russulaceae/Lactifluus_volemus/lv3.webp",
+        author: "Ryan Hodnett",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Fishy_Milkcap_(Lactifluus_volemus)_-_Kristiansand,_Norway_2021-08-10_(02).jpg"
+      },
+      {
+        src: STORAGE + "photos/Russulales/Russulaceae/Lactifluus_volemus/lv4.webp",
+        author: "Richard Kneal",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Lactarius_volemus_(Fr.)_Fr_244742.jpg"
+      },
+      {
+        src: STORAGE + "photos/Russulales/Russulaceae/Lactifluus_volemus/lv5.webp",
+        author: "Jerzy Opioła",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Lactarius_volemus_a1_(1).JPG"
+      },
+      {
+        src: STORAGE + "photos/Russulales/Russulaceae/Lactifluus_volemus/lv6.webp",
+        author: "GLJIVARSKO DRUSTVO NIS from Serbia",
+        license: "CC BY 2.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/2.0",
+        source: "https://commons.wikimedia.org/wiki/File:LACTARIUS_VOLEMUS_(Fr._Fr.)_Fr._(5891728423).jpg"
+      }
+    ],
+    capFrom: 5,
+    capTo: 12,
+    stipeHeightFrom: 5,
+    stipeHeightTo: 10,
+    stipeThickFrom: 1,
+    stipeThickTo: 2.5,
+    fruitingFrom: 6,
+    fruitingTo: 10,
+    label: {
+      en: "weeping milkcap",
+      sk: "rýdzik surovičkový",
+      bg: "хлебна млечница",
+      zh: "多汁乳菇",
+      hr: "presnac",
+      cs: "ryzec syrovinka",
+      da: "spiselig mælkehat",
+      nl: "vissige melkzwam",
+      et: "kuldriisikas",
+      fi: "kultarousku",
+      fr: "lactaire à lait abondant",
+      de: "Brätling",
+      hu: "kenyérgomba",
+      it: "lattario volgare",
+      ja: "チチタケ",
+      ko: "배젖버섯",
+      lv: "saldā krimilde",
+      lt: "piengrybis jautakis",
+      no: "mandelriske",
+      pl: "mleczajowiec smaczny",
+      ro: "lăptucă dulce",
+      ru: "груздь красно-коричневый",
+      sr: "преснац",
+      sl: "sočni mlečnik",
+      es: "lactario anaranjado",
+      sv: "mandelriska",
+      tr: "tirmit mantarı",
+      uk: "хрящ-молочник червоно-коричневий"
+    },
+    names: {
+      en: ["weeping milk cap", "tawny milkcap", "fishy milkcap", "apricot milk cap", "voluminous-latex milky"],
+      sk: ["surovka"],
+      bg: ["хлебенка", "суроватка", "просеник"],
+      hr: ["brinovka", "sirovka", "sirogriz"],
+      cs: ["syrovinka"],
+      de: ["Milchbrätling", "Brot-Milchling", "Birnen-Milchling"],
+      it: ["lattario volemo"],
+      pl: ["mleczaj smaczny"],
+      ro: ["vinețică cu lapte"],
+      ru: ["краснушка", "подмолочник"],
+      sr: ["пресна млечица"],
+      sl: ["sočna mlečnica"]
+    },
+    text: {
+      en: {
+        description: "A large, firm milkcap with a dry, velvety cap of apricot to orange-brown and crowded, creamy gills. When cut it releases abundant mild white latex that slowly stains brown, and the flesh smells distinctly of fish. It grows on the ground under broadleaved trees, sometimes under conifers, from summer to autumn, and is a good edible.",
+        cap: "The cap is 5–12 cm wide, convex with an inrolled margin when young, later flattening and becoming shallowly funnel-shaped with a central depression. The surface is dry, smooth to finely velvety, and sometimes wrinkles or cracks with age. The colour ranges from apricot and orange to tawny and reddish brown, often darker at the centre, without concentric zones.",
+        hymenium: "The gills are crowded, narrow and brittle, attached to the stem or running slightly down it, and often forked, with short gills between them. They are creamy white to pale golden yellow and turn brown where bruised. Cut gills release copious white latex.",
+        stipe: "The stem is 5–10 cm long and 1–2.5 cm thick, cylindrical or tapering slightly towards the base, firm and solid. It is coloured like the cap or a little paler, with a smooth to finely velvety surface that is sometimes faintly ribbed lengthwise. There is no ring.",
+        flesh: "The flesh is white, firm and brittle, and stains slowly brown when cut. The milk is abundant, white and mild in taste, and it stains skin, paper and tissue brown. The smell is distinctly fishy, like herring, and grows stronger as the mushroom ages or dries, but it disappears on cooking.",
+        sporePrint: "White to cream. The spores are almost round, about 7.5–10 × 7.5–9 μm, with ridges forming a complete net-like pattern.",
+        habitat: "A mycorrhizal fungus that grows on the ground in broadleaved woods, especially with oak, beech, hornbeam and chestnut, and less often in conifer woods and peaty places. It grows singly, scattered or in small groups and fruits from June to October. It is widespread in temperate Europe, North America and Asia, but is rare or declining in some countries.",
+        uses: "Edible and highly regarded, valued for its firm flesh and mild taste. The fishy smell disappears during cooking. It suits slow cooking, stews and sauces, and the latex stains hands brown. Some people dislike the odour and the slightly granular texture.",
+        confusion: "Lactifluus rugatus is smaller, with a wrinkled cap margin, a weaker, more herbal smell and latex that does not change colour. Lactarius hygrophoroides has distant gills, no fishy smell and latex that does not stain brown. Lactifluus corrugis has a more wrinkled cap, darker gills, a weaker smell and larger spores. Lactifluus oedematopus has a darker reddish-brown cap and a swollen stem.",
+        notes: "The name is applied to a group of closely related species: molecular studies divide European material into several species, and collections from Asia and North America include many more. The latex contains natural rubber, and the fruit bodies hold unusual sterols. A variety whose cap stays yellow occurs in the south-eastern United States."
+      },
+      sk: {
+        description: "Veľký, pevný rýdzik so suchým, zamatovým klobúkom marhuľovej až oranžovohnedej farby a hustými krémovými lupeňmi. Po porezaní vylúči hojné jemné biele mlieko, ktoré sa pomaly sfarbuje na hnedo, a dužina výrazne vonia po rybách. Rastie na zemi pod listnáčmi, niekedy pod ihličnanmi, od leta do jesene a je dobrou jedlou hubou.",
+        cap: "Klobúk je 5–12 cm široký, v mladosti vypuklý s podvinutým okrajom, neskôr sa rozloží a stáva sa plytko lievikovitým so stredovým preliačením. Povrch je suchý, hladký až jemne zamatový a s vekom sa niekedy zvráskavie alebo rozpúka. Farba sa pohybuje od marhuľovej a oranžovej po žltohnedú a červenohnedú, v strede býva tmavšia, bez sústredných pásov.",
+        hymenium: "Lupene sú husté, úzke a krehké, pripojené k hlúbiku alebo mierne zbiehavé, často vidlicovité, s kratšími lupienkami medzi nimi. Sú krémovobiele až bledé zlatožlté a pri poranení hnednú. Po rozrezaní uvoľňujú hojné biele mlieko.",
+        stipe: "Hlúbik je 5–10 cm dlhý a 1–2,5 cm hrubý, valcovitý alebo k báze mierne zúžený, pevný a plný. Je sfarbený ako klobúk alebo o niečo svetlejšie, s hladkým až jemne zamatovým povrchom, ktorý je niekedy slabo pozdĺžne rebrovaný. Prsteň chýba.",
+        flesh: "Dužina je biela, tvrdá a krehká a na reze sa pomaly sfarbuje na hnedo. Mlieko je hojné, biele a mierne chuťou a farbí kožu, papier aj tkaniny na hnedo. Vôňa je výrazne rybacia, ako po slede, s vekom alebo po vysušení sa zosilňuje, no pri varení zmizne.",
+        sporePrint: "Biely až krémový. Výtrusy sú takmer guľovité, asi 7,5–10 × 7,5–9 μm, s lištami tvoriacimi úplnú sieťku.",
+        habitat: "Mykorízna huba, ktorá rastie na zemi v listnatých lesoch, najmä pri dube, buku, hrabe a gaštane, a menej často v ihličnatých lesoch a na rašeliniskách. Rastie jednotlivo, roztrúsene alebo v malých skupinách a plodí od júna do októbra. Je rozšírená v miernom pásme Európy, Severnej Ameriky a Ázie, no v niektorých krajinách je vzácna alebo ustupuje.",
+        uses: "Jedlá a veľmi cenená pre pevnú dužinu a jemnú chuť. Rybacia vôňa pri varení zmizne. Hodí sa na pomalé varenie, do dusených jedál a omáčok a mlieko farbí ruky na hnedo. Niektorým ľuďom prekáža zápach a mierne zrnitá textúra.",
+        confusion: "Lactifluus rugatus je menší, s vrásčitým okrajom klobúka, slabšou, skôr bylinnou vôňou a mliekom, ktoré nemení farbu. Lactarius hygrophoroides má riedke lupene, nevonia po rybách a jeho mlieko sa nesfarbuje na hnedo. Lactifluus corrugis má viac zvráskavený klobúk, tmavšie lupene, slabšiu vôňu a väčšie výtrusy. Lactifluus oedematopus má tmavší červenohnedý klobúk a zhrubnutý hlúbik.",
+        notes: "Názov sa používa pre skupinu blízko príbuzných druhov: molekulárne štúdie rozdeľujú európsky materiál na niekoľko druhov a zbery z Ázie a Severnej Ameriky zahŕňajú ďalšie. Mlieko obsahuje prírodný kaučuk a plodnice obsahujú nezvyčajné steroly. Odroda s klobúkom, ktorý ostáva žltý, rastie na juhovýchode Spojených štátov."
+      },
+      ar: {
+        description: "فطر لبني كبير وصلب ذو قبعة جافة مخملية بلون المشمش إلى البرتقالي البني وصفائح كريمية متقاربة. عند قطعه يفرز لبنًا أبيض وفيرًا معتدل الطعم يتحول ببطء إلى البني، ولحمه تفوح منه رائحة سمك واضحة. ينمو على الأرض تحت الأشجار عريضة الأوراق، وأحيانًا تحت الصنوبريات، من الصيف إلى الخريف، وهو صالح للأكل وجيد.",
+        cap: "عرض القبعة ٥–١٢ سم، محدبة ذات حافة ملتفة إلى الداخل في الصغر، ثم تتسطح وتصير قمعية ضحلة مع انخفاض في الوسط. السطح جاف أملس إلى مخملي ناعم، وقد يتجعد أو يتشقق مع التقدم في العمر. يتراوح اللون من المشمشي والبرتقالي إلى البني المصفر والبني المحمر، وغالبًا ما يكون أغمق في الوسط ومن دون حلقات متحدة المركز.",
+        hymenium: "الصفائح متقاربة وضيقة وهشة، متصلة بالساق أو نازلة عليها قليلًا، وكثيرًا ما تكون متشعبة، وتتخللها صفائح قصيرة. لونها أبيض كريمي إلى أصفر ذهبي شاحب، وتتحول إلى البني عند الكدم. وعند جرحها تفرز لبنًا أبيض غزيرًا.",
+        stipe: "طول الساق ٥–١٠ سم وسمكها ١–٢٫٥ سم، أسطوانية أو متناقصة قليلًا نحو القاعدة، صلبة وممتلئة. لونها مثل القبعة أو أفتح قليلًا، وسطحها أملس إلى مخملي ناعم وقد يكون مضلعًا بخفة بالطول. لا توجد حلقة.",
+        flesh: "اللحم أبيض صلب وهش، ويتحول ببطء إلى البني عند القطع. اللبن غزير أبيض معتدل الطعم، ويصبغ الجلد والورق والأنسجة بالبني. الرائحة سمكية واضحة تشبه رائحة الرنجة، وتشتد مع تقدم الفطر في العمر أو جفافه، لكنها تزول عند الطبخ.",
+        sporePrint: "أبيض إلى كريمي. الأبواغ شبه كروية، قياسها نحو ٧٫٥–١٠ × ٧٫٥–٩ ميكرومتر، وعليها حروف بارزة تشكل شبكة كاملة.",
+        habitat: "فطر جذري تكافلي ينمو على الأرض في الغابات عريضة الأوراق، خاصة مع البلوط والزان والبقص والكستناء، وبدرجة أقل في غابات الصنوبريات والأماكن الخثية. ينمو منفردًا أو متفرقًا أو في مجموعات صغيرة ويثمر من يونيو إلى أكتوبر. وهو منتشر في أوروبا المعتدلة وأمريكا الشمالية وآسيا، لكنه نادر أو في تراجع في بعض البلدان.",
+        uses: "صالح للأكل ويحظى بتقدير كبير بفضل لحمه الصلب وطعمه المعتدل. تزول الرائحة السمكية عند الطبخ. يناسب الطبخ البطيء واليخنات والصلصات، ويصبغ لبنه اليدين بالبني. ولا تعجب رائحته وقوامه الحبيبي قليلًا بعض الناس.",
+        confusion: "يكون Lactifluus rugatus أصغر، بحافة قبعة متجعدة ورائحة أضعف وأقرب إلى رائحة الأعشاب ولبن لا يغيّر لونه. أما Lactarius hygrophoroides فصفائحه متباعدة وليس له رائحة سمك ولبنه لا يصبغ بالبني. ولـ Lactifluus corrugis قبعة أكثر تجعدًا وصفائح أغمق ورائحة أضعف وأبواغ أكبر. وللنوع Lactifluus oedematopus قبعة بنية محمرة أغمق وساق منتفخة.",
+        notes: "يُطلق هذا الاسم على مجموعة من الأنواع الوثيقة القرابة: فالدراسات الجزيئية تقسم المادة الأوروبية إلى عدة أنواع، كما تضم العينات من آسيا وأمريكا الشمالية أنواعًا أخرى كثيرة. يحتوي اللبن على مطاط طبيعي، وتحتوي الأجسام الثمرية على ستيرولات غير شائعة. ويوجد في جنوب شرق الولايات المتحدة صنف تبقى قبعته صفراء."
+      },
+      bg: {
+        description: "Голяма, твърда млечница със суха, кадифена шапка с цвят от кайсиев до оранжевокафяв и гъсти кремави пластинки. При срязване отделя обилно меко бяло млечице, което бавно кафенее, а месото мирише отчетливо на риба. Расте по земята под широколистни дървета, понякога и под иглолистни, от лятото до есента и е добра ядлива гъба.",
+        cap: "Шапката е широка 5–12 cm, в млада възраст изпъкнала с подвита навътре периферия, по-късно се сплесква и става плитко фуниеста с вдлъбнатина в средата. Повърхността е суха, гладка до фино кадифена, а с възрастта понякога се набръчква или напуква. Цветът варира от кайсиев и оранжев до жълтеникавокафяв и червеникавокафяв, често по-тъмен в средата, без концентрични зони.",
+        hymenium: "Пластинките са гъсти, тесни и чупливи, прикрепени към дръжката или слабо слизащи по нея, често разклонени, с къси пластинки помежду им. Те са кремавобели до бледозлатистожълти и кафенеят при натиск. При нараняване отделят обилно бяло млечице.",
+        stipe: "Дръжката е дълга 5–10 cm и дебела 1–2,5 cm, цилиндрична или леко стеснена към основата, твърда и плътна. Оцветена е като шапката или малко по-светла, с гладка до фино кадифена повърхност, която понякога е слабо надлъжно набраздена. Пръстен няма.",
+        flesh: "Месото е бяло, твърдо и чупливо и бавно кафенее при срязване. Млечицето е обилно, бяло и меко на вкус и оцветява кожата, хартията и тъканите в кафяво. Миризмата е отчетливо рибена, като на херинга, усилва се с остаряването или изсъхването на гъбата, но изчезва при готвене.",
+        sporePrint: "Бял до кремав. Спорите са почти сферични, около 7,5–10 × 7,5–9 μm, с гребени, образуващи пълна мрежовидна шарка.",
+        habitat: "Микоризна гъба, която расте по земята в широколистни гори, най-вече при дъб, бук, габър и кестен, а по-рядко в иглолистни гори и торфени места. Расте единично, пръснато или на малки групи и плододава от юни до октомври. Разпространена е в умерения пояс на Европа, Северна Америка и Азия, но в някои страни е рядка или намалява.",
+        uses: "Ядлива и високо ценена заради твърдото си месо и мекия вкус. Рибената миризма изчезва при готвене. Подходяща е за бавно готвене, яхнии и сосове, а млечицето оцветява ръцете в кафяво. Някои хора не харесват миризмата и леко зърнестата текстура.",
+        confusion: "Lactifluus rugatus е по-дребна, с набръчкан ръб на шапката, по-слаба, по-скоро тревиста миризма и млечице, което не променя цвета си. Lactarius hygrophoroides има рядко разположени пластинки, няма рибена миризма и млечицето му не кафенее. Lactifluus corrugis има по-набръчкана шапка, по-тъмни пластинки, по-слаба миризма и по-едри спори. Lactifluus oedematopus има по-тъмна червеникавокафява шапка и подут крак.",
+        notes: "Името се прилага за група близкородствени видове: молекулярните проучвания разделят европейския материал на няколко вида, а находките от Азия и Северна Америка включват още много. Млечицето съдържа естествен каучук, а плодните тела съдържат необичайни стероли. В югоизточните Съединени щати се среща разновидност с шапка, която остава жълта."
+      },
+      zh: {
+        description: "一種大型、肉質堅實的乳菇，菌蓋乾燥，具絲絨質感，呈杏色至橙褐色，菌褶密集，奶油色。切開時會流出大量味道溫和的白色乳汁，乳汁慢慢變成褐色，菌肉有明顯的魚腥味。夏季至秋季生長在闊葉樹下的地面上，有時也在針葉樹下，是品質良好的食用菇。",
+        cap: "菌蓋寬5–12厘米，幼時凸起，邊緣內捲，後來變平，中央凹陷，呈淺漏斗形。表面乾燥，光滑至具細絨毛，老時有時出現皺紋或開裂。顏色從杏色、橙色到黃褐色和紅褐色，中央常較深，沒有同心環帶。",
+        hymenium: "菌褶密集、狹窄而易碎，直生至稍延生，常分叉，其間夾有短菌褶。顏色為奶油白至淡金黃色，受傷處變褐。菌褶被切開時會流出大量白色乳汁。",
+        stipe: "菌柄長5–10厘米，粗1–2.5厘米，圓柱形或向基部稍細，堅實，實心。顏色與菌蓋相同或稍淺，表面光滑至具細絨毛，有時有淡淡的縱稜。無菌環。",
+        flesh: "菌肉白色，堅實而易碎，切開後慢慢變褐。乳汁量多，白色，味道溫和，會把皮膚、紙張和織物染成褐色。氣味明顯有魚腥味，像鯡魚，隨著菌體老化或乾燥而變濃，烹煮後消失。",
+        sporePrint: "白色至奶油色。孢子近球形，約7.5–10 × 7.5–9 μm，表面的脊稜形成完整的網狀紋飾。",
+        habitat: "一種外生菌根真菌，生長在闊葉林的地面上，尤其在櫟樹、山毛櫸、鵝耳櫪和栗樹下，較少見於針葉林和泥炭地。單生、散生或小群生長，6月至10月結實。廣泛分布於歐洲、北美洲和亞洲的溫帶地區，但在一些國家稀少或數量減少。",
+        uses: "可食用，評價很高，肉質堅實，味道溫和。魚腥味烹煮時會消失。適合慢燉、燉菜和做醬汁，乳汁會把手染成褐色。有些人不喜歡它的氣味和略帶顆粒感的口感。",
+        confusion: "Lactifluus rugatus 較小，菌蓋邊緣有皺紋，氣味較淡且偏草本味，乳汁不變色。Lactarius hygrophoroides 菌褶稀疏，無魚腥味，乳汁不會染成褐色。Lactifluus corrugis 菌蓋皺紋更多，菌褶顏色較深，氣味較淡，孢子較大。Lactifluus oedematopus 菌蓋為較深的紅褐色，菌柄膨大。",
+        notes: "這個名稱被用於一組親緣關係很近的物種：分子研究把歐洲的材料分為數個物種，來自亞洲和北美洲的標本還包含更多物種。乳汁含天然橡膠，子實體含有不尋常的甾醇。美國東南部有一個菌蓋始終保持黃色的變種。"
+      },
+      hr: {
+        description: "Velika, čvrsta mliječnica sa suhim, baršunastim klobukom boje marelice do narančastosmeđe i gustim krem listićima. Kad se zareže, ispušta obilan blagi bijeli mliječni sok koji polako posmeđi, a meso izrazito miriše po ribi. Raste na tlu ispod listopadnog drveća, ponekad i ispod četinjača, od ljeta do jeseni i dobra je jestiva gljiva.",
+        cap: "Klobuk je širok 5–12 cm, u mladosti ispupčen s podvijenim rubom, kasnije se spljošti i postaje plitko ljevkast s udubinom u sredini. Površina je suha, glatka do fino baršunasta, a s godinama se katkad naboro ili ispuca. Boja varira od marelične i narančaste do žutosmeđe i crvenosmeđe, često je tamnija u sredini, bez koncentričnih zona.",
+        hymenium: "Listići su gusti, uski i lomljivi, priraštene uz stručak ili blago stršeći niz njega, često rašljasti, s kraćim listićima između njih. Krem su bijeli do blijedo zlatnožuti i na dodir posmeđe. Prerezani ispuštaju obilan bijeli mliječni sok.",
+        stipe: "Stručak je dug 5–10 cm i debeo 1–2,5 cm, valjkast ili blago sužen prema bazi, čvrst i pun. Obojen je kao klobuk ili malo svjetlije, glatke do fino baršunaste površine koja je katkad slabo uzdužno rebrasta. Prstena nema.",
+        flesh: "Meso je bijelo, čvrsto i lomljivo, a na rezu polako posmeđi. Mliječni sok je obilan, bijel i blagog okusa te kožu, papir i tkaninu boji smeđe. Miris je izrazito riblji, kao na haringu, jača kako gljiva stari ili se suši, ali nestaje kuhanjem.",
+        sporePrint: "Bijel do krem. Spore su gotovo okrugle, oko 7,5–10 × 7,5–9 μm, s grebenima koji tvore potpunu mrežastu šaru.",
+        habitat: "Mikorizna gljiva koja raste na tlu u listopadnim šumama, osobito uz hrast, bukvu, grab i kesten, a rjeđe u šumama četinjača i na tresetnim mjestima. Raste pojedinačno, raštrkano ili u malim skupinama i plodi od lipnja do listopada. Rasprostranjena je u umjerenom pojasu Europe, Sjeverne Amerike i Azije, ali je u nekim zemljama rijetka ili je sve manje.",
+        uses: "Jestiva i vrlo cijenjena zbog čvrstog mesa i blagog okusa. Riblji miris nestaje kuhanjem. Pogodna je za dugo kuhanje, variva i umake, a mliječni sok boji ruke smeđe. Nekima smetaju miris i pomalo zrnasta tekstura.",
+        confusion: "Lactifluus rugatus je manji, s naboranim rubom klobuka, slabijim, više travnatim mirisom i mliječnim sokom koji ne mijenja boju. Lactarius hygrophoroides ima rijetke listiće, ne miriše po ribi, a njegov mliječni sok ne posmeđi. Lactifluus corrugis ima jače naboran klobuk, tamnije listiće, slabiji miris i veće spore. Lactifluus oedematopus ima tamniji crvenosmeđi klobuk i zadebljan stručak.",
+        notes: "Naziv se primjenjuje na skupinu blisko srodnih vrsta: molekularna istraživanja dijele europski materijal na nekoliko vrsta, a nalazi iz Azije i Sjeverne Amerike obuhvaćaju još mnogo njih. Mliječni sok sadrži prirodni kaučuk, a plodišta sadrže neobične sterole. Na jugoistoku Sjedinjenih Država javlja se varijetet čiji klobuk ostaje žut."
+      },
+      cs: {
+        description: "Velký, pevný ryzec se suchým, sametovým kloboukem meruňkové až oranžovohnědé barvy a hustými krémovými lupeny. Po naříznutí vyroní hojné jemné bílé mléko, které pomalu hnědne, a dužnina výrazně voní po rybách. Roste na zemi pod listnatými stromy, někdy pod jehličnany, od léta do podzimu a je to dobrá jedlá houba.",
+        cap: "Klobouk je 5–12 cm široký, v mládí vypouklý s podvinutým okrajem, později se rozprostře a stává se mělce nálevkovitým s prohlubní uprostřed. Povrch je suchý, hladký až jemně sametový a ve stáří se někdy svraskává nebo praská. Barva se pohybuje od meruňkové a oranžové po žlutohnědou a červenohnědou, uprostřed bývá tmavší, bez soustředných zón.",
+        hymenium: "Lupeny jsou husté, úzké a křehké, přirostlé ke třeni nebo mírně sbíhavé, často vidličnatě rozvětvené, s kratšími lupénky mezi nimi. Jsou krémově bílé až světle zlatožluté a při poranění hnědnou. Po naříznutí uvolňují hojné bílé mléko.",
+        stipe: "Třeň je 5–10 cm dlouhý a 1–2,5 cm tlustý, válcovitý nebo k bázi mírně zúžený, pevný a plný. Je zbarvený jako klobouk nebo o něco světlejší, s hladkým až jemně sametovým povrchem, který bývá někdy slabě podélně žebrovaný. Prsten chybí.",
+        flesh: "Dužnina je bílá, tvrdá a křehká a na řezu pomalu hnědne. Mléko je hojné, bílé a mírné chuti a hnědě barví kůži, papír i tkaniny. Vůně je výrazně rybí, jako po slanečkovi, se stářím nebo po usušení sílí, ale při vaření zmizí.",
+        sporePrint: "Bílý až krémový. Výtrusy jsou téměř kulovité, asi 7,5–10 × 7,5–9 μm, s lištami tvořícími úplnou síťku.",
+        habitat: "Mykorhizní houba, která roste na zemi v listnatých lesích, zejména u dubu, buku, habru a kaštanu, a méně často v jehličnatých lesích a na rašeliništích. Roste jednotlivě, roztroušeně nebo v malých skupinách a plodí od června do října. Je rozšířena v mírném pásu Evropy, Severní Ameriky a Asie, ale v některých zemích je vzácná nebo ustupuje.",
+        uses: "Jedlá a velmi ceněná pro pevnou dužninu a jemnou chuť. Rybí vůně při vaření zmizí. Hodí se na pomalé vaření, do dušených pokrmů a omáček a mléko barví ruce dohněda. Některým lidem vadí zápach a mírně zrnitá textura.",
+        confusion: "Lactifluus rugatus je menší, s vrásčitým okrajem klobouku, slabší, spíše bylinnou vůní a mlékem, které nemění barvu. Lactarius hygrophoroides má řídké lupeny, nevoní po rybách a jeho mléko nehnědne. Lactifluus corrugis má více svraskalý klobouk, tmavší lupeny, slabší vůni a větší výtrusy. Lactifluus oedematopus má tmavší červenohnědý klobouk a ztloustlý třeň.",
+        notes: "Název se používá pro skupinu blízce příbuzných druhů: molekulární studie dělí evropský materiál na několik druhů a sběry z Asie a Severní Ameriky zahrnují další. Mléko obsahuje přírodní kaučuk a plodnice obsahují neobvyklé steroly. Na jihovýchodě Spojených států roste varieta s kloboukem, který zůstává žlutý."
+      },
+      da: {
+        description: "En stor, fast mælkehat med tør, fløjlsagtig hat i abrikos til orangebrun og tætsiddende cremefarvede lameller. Når den skæres, afgiver den rigeligt mild, hvid mælk, der langsomt farves brun, og kødet lugter tydeligt af fisk. Den vokser på jorden under løvtræer, nogle gange under nåletræer, fra sommer til efterår og er en god spisesvamp.",
+        cap: "Hatten er 5–12 cm bred, hvælvet med indrullet rand som ung, senere fladere og lavt tragtformet med en fordybning i midten. Overfladen er tør, glat til fint fløjlsagtig og bliver med alderen nogle gange rynket eller sprækket. Farven varierer fra abrikos og orange til rødbrun og gulbrun, ofte mørkere i midten og uden koncentriske zoner.",
+        hymenium: "Lamellerne er tætsiddende, smalle og sprøde, tilvoksede eller let nedløbende på stokken og ofte gaffelgrenede med korte lameller imellem. De er cremehvide til lysegyldne og bliver brune ved tryk. Overskårne lameller afgiver rigelig hvid mælk.",
+        stipe: "Stokken er 5–10 cm lang og 1–2,5 cm tyk, cylindrisk eller let tilspidset mod bunden, fast og massiv. Den har samme farve som hatten eller er lidt lysere, med glat til fint fløjlsagtig overflade, der nogle gange er svagt ribbet på langs. Der er ingen ring.",
+        flesh: "Kødet er hvidt, fast og sprødt og bliver langsomt brunt, når det skæres. Mælken er rigelig, hvid og mild i smagen og farver hud, papir og stof brunt. Lugten er tydeligt fiskeagtig, som sild, og bliver stærkere, når svampen bliver gammel eller tørrer, men forsvinder ved tilberedning.",
+        sporePrint: "Hvid til cremefarvet. Sporerne er næsten runde, omkring 7,5–10 × 7,5–9 μm, med ribber, der danner et helt netmønster.",
+        habitat: "En mykorrhizasvamp, der vokser på jorden i løvskov, især ved eg, bøg, avnbøg og kastanje, og sjældnere i nåleskov og på tørvebund. Den vokser enkeltvis, spredt eller i små grupper og bærer frugt fra juni til oktober. Den er udbredt i det tempererede Europa, Nordamerika og Asien, men er sjælden eller i tilbagegang i nogle lande.",
+        uses: "Spiselig og højt værdsat for sit faste kød og milde smag. Fiskelugten forsvinder ved tilberedning. Den egner sig til langsom tilberedning, gryderetter og saucer, og mælken farver hænderne brune. Nogle kan ikke lide lugten og den let kornede konsistens.",
+        confusion: "Lactifluus rugatus er mindre med rynket hatrand, svagere og mere urteagtig lugt og mælk, der ikke skifter farve. Lactarius hygrophoroides har fjerntstående lameller, ingen fiskelugt og mælk, der ikke farver brunt. Lactifluus corrugis har en mere rynket hat, mørkere lameller, svagere lugt og større sporer. Lactifluus oedematopus har en mørkere rødbrun hat og en opsvulmet stok.",
+        notes: "Navnet bruges om en gruppe nært beslægtede arter: molekylære undersøgelser opdeler europæisk materiale i flere arter, og fund fra Asien og Nordamerika omfatter mange flere. Mælken indeholder naturgummi, og frugtlegemerne indeholder usædvanlige steroler. I det sydøstlige USA findes en varietet, hvis hat forbliver gul."
+      },
+      nl: {
+        description: "Een grote, stevige melkzwam met een droge, fluweelzachte hoed van abrikoos tot oranjebruin en dicht opeenstaande roomkleurige lamellen. Bij het insnijden komt er veel milde, witte melk vrij die langzaam bruin kleurt, en het vlees ruikt duidelijk naar vis. Hij groeit op de grond onder loofbomen, soms onder naaldbomen, van zomer tot herfst en is goed eetbaar.",
+        cap: "De hoed is 5–12 cm breed, jong bol met een ingerolde rand, later afgeplat en ondiep trechtervormig met een deuk in het midden. Het oppervlak is droog, glad tot fijn fluweelachtig en wordt met de leeftijd soms gerimpeld of gescheurd. De kleur varieert van abrikoos en oranje tot roodbruin en geelbruin, vaak donkerder in het midden en zonder concentrische zones.",
+        hymenium: "De lamellen staan dicht op elkaar, zijn smal en broos, aangehecht aan de steel of een weinig aflopend en vaak gevorkt, met korte lamellen ertussen. Ze zijn roomwit tot lichtgoudgeel en kleuren bruin bij beschadiging. Aangesneden lamellen laten veel witte melk vrij.",
+        stipe: "De steel is 5–10 cm lang en 1–2,5 cm dik, cilindrisch of naar de basis licht versmald, stevig en vol. Hij heeft dezelfde kleur als de hoed of is iets lichter, met een gladde tot fijn fluweelachtige oppervlakte die soms zwak in de lengte geribd is. Er is geen ring.",
+        flesh: "Het vlees is wit, stevig en broos en kleurt bij insnijden langzaam bruin. De melk is overvloedig, wit en mild van smaak en kleurt huid, papier en weefsel bruin. De geur is duidelijk visachtig, als haring, en wordt sterker naarmate de paddenstoel ouder wordt of opdroogt, maar verdwijnt bij het koken.",
+        sporePrint: "Wit tot crème. De sporen zijn bijna rond, ongeveer 7,5–10 × 7,5–9 μm, met ribben die een volledig netvormig patroon vormen.",
+        habitat: "Een mycorrhizavormende schimmel die op de grond groeit in loofbos, vooral bij eik, beuk, haagbeuk en kastanje, en minder vaak in naaldbos en op veenachtige plekken. Hij groeit solitair, verspreid of in kleine groepen en vormt vruchtlichamen van juni tot oktober. Hij komt voor in het gematigde Europa, Noord-Amerika en Azië, maar is in sommige landen zeldzaam of achteruitgaand.",
+        uses: "Eetbaar en zeer gewaardeerd om het stevige vlees en de milde smaak. De visgeur verdwijnt tijdens het koken. Hij is geschikt voor langzaam garen, stoofpotten en sauzen, en de melk kleurt de handen bruin. Sommige mensen houden niet van de geur en de licht korrelige structuur.",
+        confusion: "Lactifluus rugatus is kleiner, met een gerimpelde hoedrand, een zwakkere, meer kruidige geur en melk die niet van kleur verandert. Lactarius hygrophoroides heeft wijd uit elkaar staande lamellen, geen visgeur en melk die niet bruin kleurt. Lactifluus corrugis heeft een sterker gerimpelde hoed, donkerdere lamellen, een zwakkere geur en grotere sporen. Lactifluus oedematopus heeft een donkerdere roodbruine hoed en een gezwollen steel.",
+        notes: "De naam wordt gebruikt voor een groep nauw verwante soorten: moleculair onderzoek verdeelt Europees materiaal in verschillende soorten, en collecties uit Azië en Noord-Amerika omvatten er nog veel meer. De melk bevat natuurrubber en de vruchtlichamen bevatten ongebruikelijke sterolen. In het zuidoosten van de Verenigde Staten komt een variëteit voor waarvan de hoed geel blijft."
+      },
+      et: {
+        description: "Suur ja tugev riisikas kuiva, sametise aprikoosist oranžikaspruunini kübara ja tihedate kreemikate lamellidega. Lõigatuna eritab ohtralt mahedat valget piimmahla, mis muutub aeglaselt pruuniks, ning seeneliha lõhnab selgelt kala järele. Kasvab maa peal lehtpuude all, vahel ka okaspuude all, suvest sügiseni ja on hea toiduseen.",
+        cap: "Kübar on 5–12 cm lai, noorena kumer sissepööratud servaga, hiljem lamenev ja madala lehtrikujuline keskse lohuga. Pind on kuiv, sile kuni peenelt sametine ning vanemas eas mõnikord kortsuline või pragunev. Värvus varieerub aprikoosist ja oranžist kollakaspruuni ja punakaspruunini, keskelt sageli tumedam, ilma kontsentriliste tsoonideta.",
+        hymenium: "Lamellid on tihedad, kitsad ja haprad, jalaga kasvanud või veidi alla jooksvad, sageli kahelharulised, nende vahel on lühemad lamellid. Need on kreemjasvalged kuni kahvatukuldkollased ja muutuvad vigastamisel pruuniks. Läbilõigatud lamellid eritavad rohkesti valget piimmahla.",
+        stipe: "Jalg on 5–10 cm pikk ja 1–2,5 cm paks, silindriline või aluse poole veidi kitsenev, kõva ja täidetud. See on kübaraga sama värvi või veidi heledam, siledapinnaline kuni peenelt sametine ning mõnikord nõrgalt pikisuunas soonikuline. Rõngast ei ole.",
+        flesh: "Seeneliha on valge, kõva ja habras ning muutub lõigatuna aeglaselt pruuniks. Piimmahl on rohke, valge ja mahedamaitseline ning värvib nahka, paberit ja kangast pruuniks. Lõhn on selgelt kalane, heeringalaadne, tugevneb seene vananedes või kuivades, kuid kaob toiduvalmistamisel.",
+        sporePrint: "Valge kuni kreemjas. Eosed on peaaegu ümmargused, umbes 7,5–10 × 7,5–9 μm, harjadega, mis moodustavad terve võrgumustri.",
+        habitat: "Mükoriisaseen, mis kasvab maapinnal lehtmetsades, eriti tamme, pöögi, valgepöögi ja kastani all, harvemini okasmetsades ja turbaaladel. Kasvab üksikult, hajusalt või väikeste rühmadena ning viljub juunist oktoobrini. On levinud parasvöötme Euroopas, Põhja-Ameerikas ja Aasias, kuid mõnes riigis on haruldane või kahanev.",
+        uses: "Söödav ja kõrgelt hinnatud tiheda liha ja mahedama maitse poolest. Kalalõhn kaob keetmisel. Sobib aeglaseks hautamiseks, pajaroogadesse ja kastmetesse ning piimmahl värvib käed pruuniks. Mõnele ei meeldi lõhn ja kergelt terakeseline tekstuur.",
+        confusion: "Lactifluus rugatus on väiksem, kortsulise kübaraservaga, nõrgema, rohkem rohtja lõhnaga ja värvi mittemuutva piimmahlaga. Lactarius hygrophoroides on harvade lamellidega, ilma kalalõhnata ning tema piimmahl ei muutu pruuniks. Lactifluus corrugis on rohkem kortsulise kübara, tumedamate lamellide, nõrgema lõhna ja suuremate eostega. Lactifluus oedematopus on tumedama punakaspruuni kübara ja paistetanud jalaga.",
+        notes: "Nime kasutatakse lähisugulaste liikide rühma kohta: molekulaaruuringud jagavad Euroopa materjali mitmeks liigiks ning Aasia ja Põhja-Ameerika kogud sisaldavad veel palju liike. Piimmahl sisaldab looduslikku kautšukit ja viljakehad ebatavalisi steroole. Kagu-Ameerika Ühendriikides esineb teisend, mille kübar jääb kollaseks."
+      },
+      fi: {
+        description: "Suuri ja kiinteä rousku, jolla on kuiva, samettinen aprikoosinvärisestä oranssinruskeaan vaihteleva lakki ja tiheät kermanväriset heltat. Leikattaessa siitä erittyy runsaasti miedonmakuista valkoista maitiaisnestettä, joka ruskettuu hitaasti, ja malto haisee selvästi kalalle. Kasvaa maassa lehtipuiden alla, joskus havupuidenkin alla, kesästä syksyyn ja on hyvä ruokasieni.",
+        cap: "Lakki on 5–12 cm leveä, nuorena kupera ja reunasta sisäänpäin kiertynyt, myöhemmin laajeneva ja matalan suppilomainen keskeltä kuopalla. Pinta on kuiva, sileä tai hienosti samettinen ja voi vanhana ryppyyntyä tai halkeilla. Väri vaihtelee aprikoosista ja oranssista kullanruskeaan ja punaruskeaan, keskeltä usein tummempi, ilman kehävyöhykkeitä.",
+        hymenium: "Heltat ovat tiheät, kapeat ja hauraat, jalkaan kiinnittyneet tai hieman jalalle laskeutuvat, usein haarautuvat, ja niiden välissä on lyhyempiä heltoja. Ne ovat kermanvalkoiset tai vaalean kultakeltaiset ja ruskettuvat painettaessa. Leikatuista helloista valuu runsaasti valkoista maitiaisnestettä.",
+        stipe: "Jalka on 5–10 cm pitkä ja 1–2,5 cm paksu, sylinterimäinen tai tyveä kohti hieman kapeneva, luja ja umpinainen. Se on lakin värinen tai hieman vaaleampi, pinta on sileä tai hienosti samettinen ja joskus heikosti pituussuuntaan uurteinen. Rengasta ei ole.",
+        flesh: "Malto on valkoista, kiinteää ja haurasta, ja se ruskettuu hitaasti leikattaessa. Maitiaisneste on runsasta, valkoista ja miedonmakuista, ja se värjää ihon, paperin ja kankaan ruskeaksi. Haju on selvästi kalamainen, sillinomainen, voimistuu sienen vanhetessa tai kuivuessa, mutta häviää kypsennettäessä.",
+        sporePrint: "Valkoinen tai kermanvärinen. Itiöt ovat lähes pyöreitä, noin 7,5–10 × 7,5–9 μm, ja niissä on harjanteita, jotka muodostavat täydellisen verkkokuvion.",
+        habitat: "Sieni, joka muodostaa sienijuuren ja kasvaa maassa lehtimetsissä, erityisesti tammen, pyökin, vaahterapyökin ja kastanjan seurassa, harvemmin havumetsissä ja turvemailla. Kasvaa yksittäin, hajallaan tai pieninä ryhminä ja kantaa itiöemiä kesäkuusta lokakuuhun. Sitä esiintyy lauhkealla vyöhykkeellä Euroopassa, Pohjois-Amerikassa ja Aasiassa, mutta joissakin maissa se on harvinainen tai vähenevä.",
+        uses: "Syötävä ja arvostettu kiinteän maltonsa ja miedon makunsa vuoksi. Kalanhaju häviää kypsennettäessä. Sopii hitaaseen kypsennykseen, pataruokiin ja kastikkeisiin, ja maitiaisneste värjää kädet ruskeiksi. Jotkut eivät pidä hajusta eivätkä hieman rakeisesta rakenteesta.",
+        confusion: "Lactifluus rugatus on pienempi, sen lakin reuna on ryppyinen, haju on heikompi ja yrttisempi ja maitiaisneste ei muuta väriään. Lactarius hygrophoroides on harvaheltainen, ei haise kalalle eikä sen maitiaisneste ruskistu. Lactifluus corrugis on ryppyisempi, sen heltat ovat tummemmat, haju heikompi ja itiöt suuremmat. Lactifluus oedematopus on tummemman punaruskea ja sen jalka on turvonnut.",
+        notes: "Nimeä käytetään läheisten lajien ryhmästä: molekyylitutkimukset jakavat eurooppalaisen aineiston useaan lajiin, ja Aasian ja Pohjois-Amerikan keruut sisältävät vielä lisää. Maitiaisneste sisältää luonnonkumia ja itiöemät epätavallisia steroleja. Yhdysvaltain kaakkoisosissa esiintyy muunnos, jonka lakki pysyy keltaisena."
+      },
+      fr: {
+        description: "Un grand lactaire ferme, au chapeau sec et velouté, d'abricot à brun orangé, aux lames serrées de couleur crème. Coupé, il laisse échapper un lait blanc abondant et doux qui brunit lentement, et sa chair sent nettement le poisson. Il pousse sur le sol sous les feuillus, parfois sous les conifères, de l'été à l'automne et c'est un bon comestible.",
+        cap: "Le chapeau mesure 5–12 cm de large, convexe à bord enroulé chez le jeune, puis s'aplatit et devient en entonnoir peu profond avec une dépression centrale. La surface est sèche, lisse à finement veloutée, et peut se rider ou se fendiller avec l'âge. La couleur va de l'abricot et de l'orange au brun fauve et au brun rougeâtre, souvent plus foncée au centre, sans zones concentriques.",
+        hymenium: "Les lames sont serrées, étroites et cassantes, adnées ou légèrement décurrentes, souvent fourchues, avec des lamellules intercalées. Elles sont blanc crème à jaune doré pâle et brunissent au froissement. Coupées, elles laissent couler un lait blanc abondant.",
+        stipe: "Le pied mesure 5–10 cm de long et 1–2,5 cm d'épaisseur, cylindrique ou légèrement aminci vers la base, ferme et plein. Il est de la couleur du chapeau ou un peu plus pâle, à surface lisse à finement veloutée, parfois faiblement côtelée dans la longueur. Il n'y a pas d'anneau.",
+        flesh: "La chair est blanche, ferme et cassante, et brunit lentement à la coupe. Le lait est abondant, blanc et doux, et tache la peau, le papier et les tissus en brun. L'odeur est nettement de poisson, de hareng, et se renforce quand le champignon vieillit ou sèche, mais elle disparaît à la cuisson.",
+        sporePrint: "Blanche à crème. Les spores sont presque rondes, d'environ 7,5–10 × 7,5–9 μm, avec des crêtes formant un réseau complet.",
+        habitat: "Un champignon mycorhizien qui pousse sur le sol dans les bois de feuillus, surtout avec le chêne, le hêtre, le charme et le châtaignier, et plus rarement dans les bois de conifères et les endroits tourbeux. Il pousse isolé, dispersé ou en petits groupes et fructifie de juin à octobre. Il est répandu dans les zones tempérées d'Europe, d'Amérique du Nord et d'Asie, mais il est rare ou en déclin dans certains pays.",
+        uses: "Comestible et très apprécié pour sa chair ferme et sa saveur douce. L'odeur de poisson disparaît à la cuisson. Il convient à la cuisson lente, aux ragoûts et aux sauces, et son lait tache les mains en brun. Certaines personnes n'aiment pas l'odeur ni la texture légèrement granuleuse.",
+        confusion: "Lactifluus rugatus est plus petit, avec un bord du chapeau ridé, une odeur plus faible et plus herbacée et un lait qui ne change pas de couleur. Lactarius hygrophoroides a des lames espacées, n'a pas d'odeur de poisson et son lait ne brunit pas. Lactifluus corrugis a un chapeau plus ridé, des lames plus foncées, une odeur plus faible et de plus grandes spores. Lactifluus oedematopus a un chapeau brun rougeâtre plus foncé et un pied renflé.",
+        notes: "Le nom est appliqué à un groupe d'espèces très proches : les études moléculaires répartissent le matériel européen en plusieurs espèces, et les récoltes d'Asie et d'Amérique du Nord en comprennent beaucoup d'autres. Le lait contient du caoutchouc naturel et les carpophores renferment des stérols inhabituels. Une variété dont le chapeau reste jaune existe dans le sud-est des États-Unis."
+      },
+      de: {
+        description: "Ein großer, fester Milchling mit trockenem, samtigem Hut in Aprikosen- bis Orangebraun und dicht stehenden cremefarbenen Lamellen. Beim Anschneiden tritt reichlich milder, weißer Milchsaft aus, der sich langsam braun färbt, und das Fleisch riecht deutlich nach Fisch. Er wächst am Boden unter Laubbäumen, manchmal unter Nadelbäumen, von Sommer bis Herbst und ist ein guter Speisepilz.",
+        cap: "Der Hut ist 5–12 cm breit, jung gewölbt mit eingerolltem Rand, später abgeflacht und flach trichterförmig mit einer Vertiefung in der Mitte. Die Oberfläche ist trocken, glatt bis fein samtig und wird im Alter manchmal runzelig oder rissig. Die Farbe reicht von Aprikose und Orange bis Gelbbraun und Rotbraun, in der Mitte oft dunkler, ohne konzentrische Zonen.",
+        hymenium: "Die Lamellen stehen dicht, sind schmal und brüchig, am Stiel angewachsen oder leicht herablaufend und oft gegabelt, mit kürzeren Lamellen dazwischen. Sie sind cremeweiß bis blass goldgelb und verfärben sich bei Verletzung braun. Angeschnitten geben sie reichlich weißen Milchsaft ab.",
+        stipe: "Der Stiel ist 5–10 cm lang und 1–2,5 cm dick, zylindrisch oder zur Basis leicht verjüngt, fest und voll. Er ist wie der Hut gefärbt oder etwas heller, die Oberfläche glatt bis fein samtig und manchmal schwach der Länge nach gerippt. Ein Ring fehlt.",
+        flesh: "Das Fleisch ist weiß, fest und brüchig und färbt sich beim Schneiden langsam braun. Der Milchsaft ist reichlich, weiß und mild im Geschmack und färbt Haut, Papier und Stoff braun. Der Geruch ist deutlich fischig, wie von Hering, wird mit dem Alter oder beim Trocknen stärker, verschwindet aber beim Kochen.",
+        sporePrint: "Weiß bis cremefarben. Die Sporen sind fast rund, etwa 7,5–10 × 7,5–9 μm, mit Leisten, die ein vollständiges Netz bilden.",
+        habitat: "Ein Mykorrhizapilz, der am Boden in Laubwäldern wächst, besonders bei Eiche, Buche, Hainbuche und Kastanie, seltener in Nadelwäldern und an torfigen Stellen. Er wächst einzeln, verstreut oder in kleinen Gruppen und fruchtet von Juni bis Oktober. Er ist in den gemäßigten Zonen Europas, Nordamerikas und Asiens verbreitet, in manchen Ländern aber selten oder rückläufig.",
+        uses: "Essbar und hoch geschätzt wegen seines festen Fleisches und milden Geschmacks. Der Fischgeruch verschwindet beim Kochen. Er eignet sich zum langsamen Garen, für Schmorgerichte und Soßen, und der Milchsaft färbt die Hände braun. Manche mögen den Geruch und die leicht körnige Beschaffenheit nicht.",
+        confusion: "Lactifluus rugatus ist kleiner, hat einen runzeligen Hutrand, einen schwächeren, eher kräuterartigen Geruch und einen Milchsaft, der seine Farbe nicht ändert. Lactarius hygrophoroides hat entfernt stehende Lamellen, keinen Fischgeruch und einen Milchsaft, der sich nicht braun färbt. Lactifluus corrugis hat einen stärker runzeligen Hut, dunklere Lamellen, einen schwächeren Geruch und größere Sporen. Lactifluus oedematopus hat einen dunkleren rotbraunen Hut und einen angeschwollenen Stiel.",
+        notes: "Der Name wird für eine Gruppe nah verwandter Arten verwendet: Molekulare Untersuchungen teilen das europäische Material in mehrere Arten auf, und Aufsammlungen aus Asien und Nordamerika umfassen noch viele weitere. Der Milchsaft enthält Naturkautschuk, und die Fruchtkörper enthalten ungewöhnliche Sterole. Im Südosten der Vereinigten Staaten kommt eine Varietät vor, deren Hut gelb bleibt."
+      },
+      he: {
+        description: "פטריית חלבית גדולה וקשיחה עם כובע יבש וקטיפתי בגוון משמש עד חום־כתום ולמלות קרמיות צפופות. כשחותכים אותה היא מפרישה חלב לבן בשפע בטעם עדין, שהופך לאט לחום, והבשר מדיף ריח דגים מובהק. היא גדלה על הקרקע מתחת לעצים רחבי עלים, לפעמים מתחת למחטניים, מהקיץ עד הסתיו, והיא פטריה אכילה טובה.",
+        cap: "רוחב הכובע 5–12 ס״מ, קמור עם שולים מגולגלים פנימה בצעירותו, ואחר כך משתטח והופך למשפך רדוד עם שקע במרכז. פני השטח יבשים, חלקים עד קטיפתיים דק, ולעיתים מתקמטים או נסדקים עם הגיל. הצבע נע ממשמש וכתום ועד חום־צהבהב וחום־אדמדם, לרוב כהה יותר במרכז וללא אזורים קונצנטריים.",
+        hymenium: "הלמלות צפופות, צרות ושבירות, מחוברות לגבעול או יורדות מעט לאורכו, לעיתים קרובות מפוצלות, ובינן למלות קצרות. צבען לבן־קרמי עד צהוב־זהוב חיוור, והן הופכות לחומות במקום פגיעה. למלות חתוכות מפרישות חלב לבן רב.",
+        stipe: "אורך הגבעול 5–10 ס״מ ועוביו 1–2.5 ס״מ, גלילי או מצטמצם מעט לכיוון הבסיס, קשיח ומלא. צבעו כצבע הכובע או מעט בהיר יותר, פני השטח חלקים עד קטיפתיים דק ולעיתים מצולעים קלות לאורך. אין טבעת.",
+        flesh: "הבשר לבן, קשיח ושביר, והופך לאט לחום כשחותכים אותו. החלב שופע, לבן ובטעם עדין, והוא צובע עור, נייר ואריג בחום. הריח דגי באופן מובהק, כמו של הרינג, מתחזק עם התבגרות הפטרייה או התייבשותה, אך נעלם בבישול.",
+        sporePrint: "לבן עד קרם. הנבגים כמעט עגולים, בגודל 7.5–10 × 7.5–9 μm בקירוב, עם רכסים היוצרים דגם רשתי שלם.",
+        habitat: "פטרייה מיקוריזית הגדלה על הקרקע ביערות רחבי עלים, בעיקר ליד אלון, אשור, קרנן וערמון, ופחות ביערות מחטניים ובמקומות כבוליים. היא גדלה בודדת, מפוזרת או בקבוצות קטנות ונושאת פרי מיוני עד אוקטובר. היא נפוצה באזורים הממוזגים של אירופה, צפון אמריקה ואסיה, אך נדירה או בירידה בכמה מדינות.",
+        uses: "אכילה ומוערכת מאוד בזכות בשרה הקשיח וטעמה העדין. ריח הדגים נעלם בבישול. היא מתאימה לבישול איטי, תבשילים ורטבים, והחלב צובע את הידיים בחום. יש אנשים שאינם אוהבים את הריח ואת המרקם הגרגרי במקצת.",
+        confusion: "Lactifluus rugatus קטן יותר, עם שולי כובע מקומטים, ריח חלש יותר ועשבוני יותר וחלב שאינו משנה צבע. ל־Lactarius hygrophoroides למלות מרוחקות, אין ריח דגים והחלב אינו הופך לחום. ל־Lactifluus corrugis כובע מקומט יותר, למלות כהות יותר, ריח חלש יותר ונבגים גדולים יותר. ל־Lactifluus oedematopus כובע חום־אדמדם כהה יותר וגבעול נפוח.",
+        notes: "השם משמש לקבוצה של מינים קרובים מאוד: מחקרים מולקולריים מחלקים את החומר האירופי למספר מינים, ואוספים מאסיה וצפון אמריקה כוללים רבים נוספים. החלב מכיל גומי טבעי, ובגופי הפרי יש סטרולים יוצאי דופן. בדרום־מזרח ארצות הברית קיים זן שכובעו נשאר צהוב."
+      },
+      hi: {
+        description: "एक बड़ी, सख्त दूधिया कुकुरमुत्ता जिसकी टोपी सूखी और मखमली, खुबानी से नारंगी-भूरे रंग की होती है और जिसके गिल घने, मलाईदार रंग के होते हैं। काटने पर इससे भरपूर, हल्के स्वाद वाला सफेद दूध निकलता है जो धीरे-धीरे भूरा हो जाता है, और गूदे से मछली जैसी साफ़ गंध आती है। यह चौड़ी पत्ती वाले पेड़ों के नीचे, कभी-कभी शंकुधारी पेड़ों के नीचे, गर्मियों से पतझड़ तक ज़मीन पर उगता है और अच्छा खाने योग्य है।",
+        cap: "टोपी 5–12 सेमी चौड़ी होती है, युवावस्था में उत्तल और किनारा भीतर की ओर मुड़ा हुआ, बाद में चपटी होकर बीच में गड्ढे के साथ उथले कीप जैसी हो जाती है। सतह सूखी, चिकनी से बारीक मखमली होती है और उम्र के साथ कभी-कभी झुर्रीदार या फटी हुई हो जाती है। रंग खुबानी और नारंगी से लेकर पीले-भूरे और लाल-भूरे तक होता है, अक्सर बीच में गहरा, और इसमें संकेंद्रित घेरे नहीं होते।",
+        hymenium: "गिल घने, संकरे और भंगुर होते हैं, डंठल से जुड़े हुए या थोड़े नीचे उतरे हुए, अक्सर दोफाड़, और उनके बीच छोटे गिल होते हैं। इनका रंग मलाईदार सफेद से हल्का सुनहरा पीला होता है और दबने पर भूरे हो जाते हैं। काटने पर इनसे भरपूर सफेद दूध निकलता है।",
+        stipe: "डंठल 5–10 सेमी लंबा और 1–2.5 सेमी मोटा होता है, बेलनाकार या आधार की ओर थोड़ा पतला, सख्त और ठोस। इसका रंग टोपी जैसा या थोड़ा हल्का होता है, सतह चिकनी से बारीक मखमली, और कभी-कभी लंबाई में हल्की धारीदार। इसमें छल्ला नहीं होता।",
+        flesh: "गूदा सफेद, सख्त और भंगुर होता है और काटने पर धीरे-धीरे भूरा हो जाता है। दूध भरपूर, सफेद और हल्के स्वाद का होता है और त्वचा, कागज़ और कपड़े को भूरा रंग देता है। गंध साफ़ तौर पर मछली जैसी, हिल्सा जैसी होती है, जो कुकुरमुत्ते के पुराने होने या सूखने पर तेज़ हो जाती है, पर पकाने पर गायब हो जाती है।",
+        sporePrint: "सफेद से मलाईदार। बीजाणु लगभग गोल होते हैं, करीब 7.5–10 × 7.5–9 μm, और उन पर उभरी रेखाएँ एक पूरा जालीदार नमूना बनाती हैं।",
+        habitat: "एक माइकोराइज़ा बनाने वाली फफूँद जो चौड़ी पत्ती वाले जंगलों में, खासकर ओक, बीच, हॉर्नबीम और चेस्टनट के पास, ज़मीन पर उगती है, और कम ही शंकुधारी जंगलों तथा पीट वाली जगहों में। यह अकेले, बिखरे हुए या छोटे समूहों में उगती है और जून से अक्टूबर तक फलती है। यह यूरोप, उत्तरी अमेरिका और एशिया के समशीतोष्ण क्षेत्रों में व्यापक है, पर कुछ देशों में दुर्लभ है या घट रही है।",
+        uses: "खाने योग्य और अपने सख्त गूदे व हल्के स्वाद के कारण बहुत सराही जाती है। मछली जैसी गंध पकाने पर गायब हो जाती है। यह धीमी आँच पर पकाने, स्ट्यू और सॉस के लिए उपयुक्त है, और इसका दूध हाथों को भूरा कर देता है। कुछ लोगों को इसकी गंध और थोड़ी दानेदार बनावट पसंद नहीं आती।",
+        confusion: "Lactifluus rugatus छोटा होता है, टोपी का किनारा झुर्रीदार, गंध कमज़ोर और अधिक जड़ी-बूटी जैसी, और दूध का रंग नहीं बदलता। Lactarius hygrophoroides में गिल दूर-दूर होते हैं, मछली जैसी गंध नहीं होती और दूध भूरा नहीं होता। Lactifluus corrugis की टोपी अधिक झुर्रीदार, गिल गहरे, गंध कमज़ोर और बीजाणु बड़े होते हैं। Lactifluus oedematopus की टोपी गहरी लाल-भूरी और डंठल फूला हुआ होता है।",
+        notes: "यह नाम निकट संबंधी प्रजातियों के एक समूह के लिए इस्तेमाल होता है: आणविक अध्ययन यूरोपीय सामग्री को कई प्रजातियों में बाँटते हैं, और एशिया व उत्तरी अमेरिका के संग्रह में और भी कई हैं। दूध में प्राकृतिक रबर होता है और फलन-काय में असामान्य स्टेरॉल होते हैं। दक्षिण-पूर्वी संयुक्त राज्य में एक किस्म मिलती है जिसकी टोपी पीली ही रहती है।"
+      },
+      hu: {
+        description: "Nagy, kemény tejelőgomba száraz, bársonyos, kajszibarackszíntől narancsbarnáig terjedő kalappal és sűrű, krémszínű lemezekkel. Elvágva bőségesen enyhe ízű fehér tejnedvet ereszt, amely lassan megbarnul, húsa pedig határozottan halszagú. Lombos fák alatt, olykor fenyők alatt is nő a talajon nyártól őszig, és jó ehető gomba.",
+        cap: "A kalap 5–12 cm széles, fiatalon domború, begöngyölt szélű, később kiterül, és közepén bemélyedéssel, sekélyen tölcséres lesz. A felülete száraz, sima vagy finoman bársonyos, idősen olykor ráncos vagy berepedezik. A színe kajszibarackostól és narancsostól a sárgásbarnáig és vörösesbarnáig változik, közepén gyakran sötétebb, koncentrikus zónák nélkül.",
+        hymenium: "A lemezek sűrűk, keskenyek és törékenyek, a tönkhöz nőttek vagy kissé lefutók, gyakran villásan elágazók, köztük rövidebb lemezekkel. Krémfehértől halvány aranysárgáig terjednek, és sérülésre megbarnulnak. Elvágva bőségesen fehér tejnedvet ereszt.",
+        stipe: "A tönk 5–10 cm hosszú és 1–2,5 cm vastag, hengeres vagy az alap felé enyhén vékonyodó, kemény és tömör. Színe a kalapéval megegyező vagy kissé világosabb, felülete sima vagy finoman bársonyos, olykor hosszában gyengén bordázott. Gyűrűje nincs.",
+        flesh: "A húsa fehér, kemény és törékeny, vágásra lassan megbarnul. A tejnedv bőséges, fehér és enyhe ízű, és barnára festi a bőrt, a papírt és a textilt. A szaga határozottan halas, heringre emlékeztető, a gomba öregedésével vagy szárításával erősödik, főzéskor azonban eltűnik.",
+        sporePrint: "Fehér vagy krémszínű. A spórák majdnem gömbölyűek, körülbelül 7,5–10 × 7,5–9 μm-esek, a rajtuk lévő bordák teljes hálózatos mintázatot alkotnak.",
+        habitat: "Mikorrhizás gomba, amely a talajon nő lombos erdőkben, főleg tölgy, bükk, gyertyán és szelídgesztenye mellett, ritkábban fenyvesekben és tőzeges helyeken. Magányosan, szórtan vagy kis csoportokban terem, és júniustól októberig hoz termőtestet. Európa, Észak-Amerika és Ázsia mérsékelt övi tájain elterjedt, de egyes országokban ritka vagy csökkenő állományú.",
+        uses: "Ehető, kemény húsa és enyhe íze miatt nagyra becsült. A halszag főzéskor eltűnik. Lassú főzésre, ragukhoz és mártásokhoz alkalmas, a tejnedv pedig barnára festi a kezet. Egyeseknek nem tetszik a szaga és a kissé szemcsés állaga.",
+        confusion: "A Lactifluus rugatus kisebb, kalapszéle ráncos, szaga gyengébb és inkább fűszeres, tejnedve pedig nem változtat színt. A Lactarius hygrophoroides lemezei ritkák, nincs halszaga, és tejnedve nem barnul meg. A Lactifluus corrugis kalapja ráncosabb, lemezei sötétebbek, szaga gyengébb, spórái nagyobbak. A Lactifluus oedematopus kalapja sötétebb vörösesbarna, tönkje felduzzadt.",
+        notes: "A nevet közeli rokon fajok csoportjára használják: a molekuláris vizsgálatok az európai anyagot több fajra osztják, az ázsiai és észak-amerikai gyűjtések pedig még sokkal többet tartalmaznak. A tejnedv természetes kaucsukot tartalmaz, a termőtestek szokatlan szterolokat. Az Egyesült Államok délkeleti részén él egy változat, amelynek kalapja sárga marad."
+      },
+      id: {
+        description: "Jamur susu yang besar dan padat dengan tudung kering berbeludru berwarna aprikot hingga cokelat jingga serta lamela krem yang rapat. Saat dipotong, jamur ini mengeluarkan getah putih berlimpah yang berasa lembut dan perlahan menjadi cokelat, dan dagingnya berbau amis ikan yang jelas. Jamur ini tumbuh di tanah di bawah pohon berdaun lebar, kadang di bawah konifer, dari musim panas hingga musim gugur, dan merupakan jamur yang baik untuk dimakan.",
+        cap: "Tudung berdiameter 5–12 cm, cembung dengan tepi menggulung ke dalam saat muda, kemudian mendatar dan menjadi seperti corong dangkal dengan cekungan di tengah. Permukaannya kering, halus hingga berbeludru halus, dan kadang berkerut atau retak seiring usia. Warnanya berkisar dari aprikot dan jingga hingga cokelat kekuningan dan cokelat kemerahan, sering lebih gelap di tengah, tanpa zona konsentris.",
+        hymenium: "Lamela rapat, sempit, dan rapuh, melekat pada tangkai atau sedikit menurun, sering bercabang dua, dengan lamela pendek di antaranya. Warnanya putih krem hingga kuning keemasan pucat dan menjadi cokelat saat memar. Lamela yang dipotong mengeluarkan banyak getah putih.",
+        stipe: "Tangkai panjangnya 5–10 cm dan tebalnya 1–2,5 cm, silindris atau sedikit menyempit ke arah pangkal, padat dan penuh. Warnanya seperti tudung atau sedikit lebih pucat, dengan permukaan halus hingga berbeludru halus dan kadang bergaris samar memanjang. Tidak ada cincin.",
+        flesh: "Dagingnya putih, padat, dan rapuh, serta perlahan menjadi cokelat saat dipotong. Getahnya berlimpah, putih, dan berasa lembut, dan menodai kulit, kertas, serta kain menjadi cokelat. Baunya jelas amis seperti ikan haring, menguat ketika jamur menua atau mengering, tetapi hilang saat dimasak.",
+        sporePrint: "Putih hingga krem. Sporanya hampir bulat, sekitar 7,5–10 × 7,5–9 μm, dengan rusuk yang membentuk pola jaring lengkap.",
+        habitat: "Jamur mikoriza yang tumbuh di tanah dalam hutan berdaun lebar, terutama dekat ek, beech, hornbeam, dan kastanye, dan lebih jarang di hutan konifer serta tempat bergambut. Tumbuh sendiri, tersebar, atau dalam kelompok kecil dan berbuah dari Juni hingga Oktober. Jamur ini tersebar luas di wilayah beriklim sedang di Eropa, Amerika Utara, dan Asia, tetapi langka atau menurun di beberapa negara.",
+        uses: "Dapat dimakan dan sangat dihargai karena dagingnya yang padat dan rasanya yang lembut. Bau amisnya hilang saat dimasak. Cocok untuk dimasak perlahan, semur, dan saus, dan getahnya menodai tangan menjadi cokelat. Beberapa orang tidak menyukai baunya dan teksturnya yang sedikit berbutir.",
+        confusion: "Lactifluus rugatus lebih kecil, dengan tepi tudung berkerut, bau yang lebih lemah dan lebih seperti rempah, serta getah yang tidak berubah warna. Lactarius hygrophoroides memiliki lamela yang jarang, tidak berbau ikan, dan getahnya tidak menjadi cokelat. Lactifluus corrugis memiliki tudung yang lebih berkerut, lamela lebih gelap, bau lebih lemah, dan spora lebih besar. Lactifluus oedematopus memiliki tudung cokelat kemerahan yang lebih gelap dan tangkai yang membengkak.",
+        notes: "Nama ini dipakai untuk sekelompok spesies yang sangat berkerabat: studi molekuler membagi bahan Eropa menjadi beberapa spesies, dan koleksi dari Asia dan Amerika Utara mencakup lebih banyak lagi. Getahnya mengandung karet alam, dan tubuh buahnya mengandung sterol yang tidak biasa. Di Amerika Serikat bagian tenggara terdapat varietas yang tudungnya tetap kuning."
+      },
+      it: {
+        description: "Un lattario grande e sodo, con cappello asciutto e vellutato da albicocca a bruno arancio e lamelle fitte color crema. Se tagliato emette abbondante latte bianco dolce che imbrunisce lentamente, e la carne ha un netto odore di pesce. Cresce sul terreno sotto latifoglie, talvolta sotto conifere, dall'estate all'autunno ed è un buon commestibile.",
+        cap: "Il cappello misura 5–12 cm di larghezza, convesso con margine involuto da giovane, poi appiattito e a imbuto poco profondo con una depressione centrale. La superficie è asciutta, liscia o finemente vellutata e con l'età può diventare rugosa o screpolata. Il colore va dall'albicocca e arancio al bruno fulvo e al bruno rossastro, spesso più scuro al centro, senza zone concentriche.",
+        hymenium: "Le lamelle sono fitte, strette e fragili, annesse o leggermente decorrenti, spesso forcate, con lamellule frapposte. Sono bianco crema o giallo oro pallido e imbruniscono al tocco. Se tagliate emettono abbondante latte bianco.",
+        stipe: "Il gambo è lungo 5–10 cm e spesso 1–2,5 cm, cilindrico o leggermente assottigliato verso la base, sodo e pieno. Ha il colore del cappello o è un po' più pallido, con superficie liscia o finemente vellutata, a volte debolmente costolata in senso longitudinale. Non c'è anello.",
+        flesh: "La carne è bianca, soda e fragile, e imbrunisce lentamente al taglio. Il latte è abbondante, bianco e dolce, e macchia di bruno pelle, carta e tessuti. L'odore è nettamente di pesce, di aringa, si rafforza con l'età o con l'essiccazione, ma scompare con la cottura.",
+        sporePrint: "Da bianca a crema. Le spore sono quasi rotonde, circa 7,5–10 × 7,5–9 μm, con creste che formano un reticolo completo.",
+        habitat: "Un fungo micorrizico che cresce sul terreno nei boschi di latifoglie, soprattutto con quercia, faggio, carpino e castagno, e più raramente nei boschi di conifere e nei luoghi torbosi. Cresce isolato, sparso o in piccoli gruppi e fruttifica da giugno a ottobre. È diffuso nelle zone temperate di Europa, Nord America e Asia, ma in alcuni paesi è raro o in declino.",
+        uses: "Commestibile e molto apprezzato per la carne soda e il sapore delicato. L'odore di pesce scompare durante la cottura. Si presta a cotture lente, stufati e salse, e il latte macchia le mani di bruno. Ad alcune persone non piacciono l'odore e la consistenza leggermente granulosa.",
+        confusion: "Lactifluus rugatus è più piccolo, con margine del cappello rugoso, odore più debole e più erbaceo e latte che non cambia colore. Lactarius hygrophoroides ha lamelle distanziate, non ha odore di pesce e il suo latte non imbrunisce. Lactifluus corrugis ha un cappello più rugoso, lamelle più scure, odore più debole e spore più grandi. Lactifluus oedematopus ha un cappello bruno rossastro più scuro e un gambo rigonfio.",
+        notes: "Il nome è applicato a un gruppo di specie strettamente affini: gli studi molecolari dividono il materiale europeo in diverse specie, e le raccolte dall'Asia e dal Nord America ne comprendono molte altre. Il latte contiene gomma naturale e i carpofori contengono steroli insoliti. Nel sud-est degli Stati Uniti esiste una varietà il cui cappello resta giallo."
+      },
+      ja: {
+        description: "大型でしっかりしたチチタケの仲間で、傘は乾いてビロード状、杏色からオレンジ褐色、ひだは密で乳白色です。切ると穏やかな味の白い乳液を多量に出し、乳液はゆっくり褐色に変わり、肉には魚のような強いにおいがあります。夏から秋にかけて広葉樹林の地上に、時には針葉樹林にも生え、味のよい食用きのこです。",
+        cap: "傘の幅は5–12 cmで、若いうちは丸山形で縁が内側に巻き、のちに平らに開いて中央がくぼみ、浅い漏斗形になります。表面は乾いていて、滑らかから細かいビロード状で、古くなるとしわが寄ったりひび割れたりすることがあります。色は杏色やオレンジから黄褐色や赤褐色まで変化し、中央が濃いことが多く、同心円状の環紋はありません。",
+        hymenium: "ひだは密で幅が狭くもろく、柄に直生するか少し垂生し、しばしば二股に分かれ、間に短いひだが入ります。クリーム白色から淡い黄金色で、傷つくと褐色になります。切ると白い乳液を多量に出します。",
+        stipe: "柄は長さ5–10 cm、太さ1–2.5 cmで、円柱形か基部にかけてやや細くなり、硬く中実です。傘と同じ色かやや淡く、表面は滑らかから細かいビロード状で、縦にわずかな筋が入ることもあります。つばはありません。",
+        flesh: "肉は白色で硬くもろく、切るとゆっくり褐色に変わります。乳液は多量で白く、味は穏やかで、皮膚や紙や布を褐色に染めます。においは明らかに魚臭く、ニシンのようで、きのこが古くなったり乾いたりすると強まりますが、加熱すると消えます。",
+        sporePrint: "白色からクリーム色。胞子はほぼ球形で、約7.5–10 × 7.5–9 μm、隆起線が完全な網目模様をつくります。",
+        habitat: "外生菌根を作る菌で、広葉樹林の地上、特にナラ類、ブナ、クマシデ、クリの近くに生え、針葉樹林や泥炭地にはあまり生えません。単生、散生または小群生し、6月から10月に子実体をつくります。ヨーロッパ、北アメリカ、アジアの温帯に広く分布しますが、国によっては稀または減少しています。",
+        uses: "食用になり、肉質がしっかりして味が穏やかなため高く評価されています。魚臭は加熱すると消えます。じっくり煮込む料理、シチュー、ソースに向いていて、乳液は手を褐色に染めます。においやややざらついた食感を好まない人もいます。",
+        confusion: "Lactifluus rugatus はより小型で、傘の縁にしわがあり、においは弱くハーブ状で、乳液は色が変わりません。Lactarius hygrophoroides はひだが疎で、魚臭がなく、乳液は褐色になりません。Lactifluus corrugis は傘のしわが多く、ひだが濃色で、においは弱く、胞子は大きめです。Lactifluus oedematopus は傘がより濃い赤褐色で、柄が膨らんでいます。",
+        notes: "この名前は近縁な種の集まりに使われています。分子研究ではヨーロッパの材料が複数の種に分けられ、アジアや北アメリカの標本にはさらに多くの種が含まれます。乳液には天然ゴムが含まれ、子実体には珍しいステロールが含まれます。アメリカ合衆国南東部には、傘が黄色のままの変種があります。"
+      },
+      ko: {
+        description: "크고 단단한 젖버섯으로, 갓은 건조하고 벨벳 같으며 살구색에서 주황갈색을 띠고 주름살은 빽빽한 크림색입니다. 자르면 맛이 순한 흰 즙이 많이 나오고 즙은 서서히 갈색으로 변하며, 살에서는 뚜렷한 생선 냄새가 납니다. 여름부터 가을까지 활엽수 아래 땅에서, 때로는 침엽수 아래에서도 자라며 맛이 좋은 식용버섯입니다.",
+        cap: "갓은 지름 5–12 cm이며, 어릴 때는 볼록하고 가장자리가 안으로 말려 있다가 나중에 편평해지고 가운데가 오목한 얕은 깔때기 모양이 됩니다. 표면은 건조하고 매끈하거나 가는 벨벳 같으며, 나이가 들면 주름지거나 갈라지기도 합니다. 색은 살구색과 주황색에서 황갈색, 적갈색까지 다양하고 가운데가 더 진한 경우가 많으며 동심원 무늬는 없습니다.",
+        hymenium: "주름살은 빽빽하고 좁으며 잘 부서지고, 대에 붙거나 약간 내려붙으며 흔히 갈라지고 그 사이에 짧은 주름살이 있습니다. 크림빛 흰색에서 연한 황금빛 노란색이며 상처가 나면 갈색으로 변합니다. 자르면 흰 즙이 많이 나옵니다.",
+        stipe: "대는 길이 5–10 cm, 굵기 1–2.5 cm이며 원통형이거나 아래쪽으로 약간 가늘어지고 단단하며 속이 차 있습니다. 갓과 같은 색이거나 조금 연하고, 표면은 매끈하거나 가는 벨벳 같으며 때로 세로로 희미한 줄이 있습니다. 턱받이는 없습니다.",
+        flesh: "살은 흰색이고 단단하며 잘 부서지고, 자르면 서서히 갈색으로 변합니다. 즙은 많고 희며 맛이 순하고, 피부와 종이와 천을 갈색으로 물들입니다. 냄새는 청어 같은 뚜렷한 생선 냄새이며 버섯이 늙거나 마르면 강해지지만 익히면 사라집니다.",
+        sporePrint: "흰색에서 크림색. 포자는 거의 둥글며 약 7.5–10 × 7.5–9 μm이고, 융기선이 완전한 그물무늬를 이룹니다.",
+        habitat: "외생균근을 만드는 버섯으로, 활엽수림의 땅에서 특히 참나무, 너도밤나무, 서어나무, 밤나무 곁에 자라며, 침엽수림이나 이탄지에서는 드물게 자랍니다. 홀로, 흩어져서 또는 작은 무리로 자라며 6월부터 10월까지 발생합니다. 유럽, 북아메리카, 아시아의 온대 지역에 널리 분포하지만 일부 나라에서는 드물거나 줄어들고 있습니다.",
+        uses: "식용이며 단단한 살과 순한 맛 때문에 높이 평가됩니다. 생선 냄새는 익히면 사라집니다. 오래 끓이는 요리, 스튜, 소스에 알맞으며 즙은 손을 갈색으로 물들입니다. 냄새와 약간 알갱이진 식감을 싫어하는 사람도 있습니다.",
+        confusion: "Lactifluus rugatus는 더 작고 갓 가장자리에 주름이 있으며, 냄새가 약하고 풀 향에 가까우며 즙의 색이 변하지 않습니다. Lactarius hygrophoroides는 주름살이 성글고 생선 냄새가 없으며 즙이 갈색으로 변하지 않습니다. Lactifluus corrugis는 갓에 주름이 더 많고 주름살이 더 어두우며 냄새가 약하고 포자가 더 큽니다. Lactifluus oedematopus는 갓이 더 어두운 적갈색이고 대가 부풀어 있습니다.",
+        notes: "이 이름은 서로 가까운 종들의 무리에 쓰입니다. 분자 연구에서는 유럽의 자료를 여러 종으로 나누며, 아시아와 북아메리카의 채집품에는 더 많은 종이 포함됩니다. 즙에는 천연고무가 들어 있고 자실체에는 특이한 스테롤이 들어 있습니다. 미국 남동부에는 갓이 노란색으로 남는 변종이 있습니다."
+      },
+      lv: {
+        description: "Liela, cieta piena sēne ar sausu, samtainu cepurīti no aprikožu līdz oranžbrūnai krāsai un blīvām krēmkrāsas plātnītēm. Pārgriežot izdala bagātīgas maigas baltas piena sulas, kas lēnām kļūst brūnas, un mīkstums izteikti smaržo pēc zivs. Aug uz zemes zem lapu kokiem, dažkārt zem skujkokiem, no vasaras līdz rudenim, un ir laba ēdamā sēne.",
+        cap: "Cepurīte ir 5–12 cm plata, jaunībā izliekta ar ieritinātu malu, vēlāk kļūst plakana un sekli piltuvveidīga ar iedobumu vidū. Virsma ir sausa, gluda līdz smalki samtaina, un vecumā dažkārt saburzās vai plīst. Krāsa mainās no aprikožu un oranžas līdz dzeltenbrūnai un sarkanbrūnai, bieži vidū tumšāka, bez koncentriskām joslām.",
+        hymenium: "Plātnītes ir blīvas, šauras un trauslas, piekļautas kātam vai nedaudz pa to nolaižas, bieži dakšveidā sazarotas, starp tām ir īsākas plātnītes. Tās ir krēmbaltas līdz bāli zeltaini dzeltenas un saspiestas kļūst brūnas. Pārgrieztas tās izdala bagātīgas baltas piena sulas.",
+        stipe: "Kāts ir 5–10 cm garš un 1–2,5 cm resns, cilindrisks vai uz pamatni nedaudz sašaurināts, ciets un pilns. Tas ir cepurītes krāsā vai nedaudz gaišāks, ar gludu līdz smalki samtainu virsmu, dažkārt vāji gareniski ribotu. Gredzena nav.",
+        flesh: "Mīkstums ir balts, ciets un trausls, un griezumā lēnām kļūst brūns. Piena sula ir bagātīga, balta un maiga garšā, un tā iekrāso ādu, papīru un audumu brūnā krāsā. Smarža ir izteikti zivīga, kā siļķei, tā pastiprinās, sēnei novecojot vai izžūstot, bet gatavojot izzūd.",
+        sporePrint: "Balts līdz krēmkrāsas. Sporas ir gandrīz apaļas, apmēram 7,5–10 × 7,5–9 μm, ar izciļņiem, kas veido pilnīgu tīklveida rakstu.",
+        habitat: "Mikorizas sēne, kas aug uz zemes lapu koku mežos, īpaši pie ozola, dižskābarža, skābarža un kastaņa, retāk skujkoku mežos un kūdrainās vietās. Aug atsevišķi, izkaisīti vai nelielās grupās un augļķermeņus veido no jūnija līdz oktobrim. Tā ir plaši izplatīta Eiropas, Ziemeļamerikas un Āzijas mērenajā joslā, bet dažās valstīs ir reta vai tās skaits samazinās.",
+        uses: "Ēdama un augstu vērtēta par ciešo mīkstumu un maigo garšu. Zivs smarža gatavojot izzūd. Piemērota lēnai gatavošanai, sautējumiem un mērcēm, un piena sula iekrāso rokas brūnas. Dažiem nepatīk smarža un nedaudz graudainā tekstūra.",
+        confusion: "Lactifluus rugatus ir mazāks, ar grumbainu cepurītes malu, vājāku, vairāk zālaugu smaržu un piena sulu, kas nemaina krāsu. Lactarius hygrophoroides ir retas plātnītes, nav zivs smaržas, un tā piena sula nekļūst brūna. Lactifluus corrugis ir grumbaināka cepurīte, tumšākas plātnītes, vājāka smarža un lielākas sporas. Lactifluus oedematopus ir tumšāka sarkanbrūna cepurīte un uztūcis kāts.",
+        notes: "Nosaukumu lieto tuvu radniecīgu sugu grupai: molekulārie pētījumi Eiropas materiālu sadala vairākās sugās, un vākumi no Āzijas un Ziemeļamerikas ietver vēl daudz vairāk. Piena sula satur dabisko kaučuku, un augļķermeņi satur neparastus sterolus. ASV dienvidaustrumos sastopama varietāte, kuras cepurīte paliek dzeltena."
+      },
+      lt: {
+        description: "Didelis, tvirtas pienių grybas su sausa, aksomine skrybėle nuo abrikosinės iki oranžinės rudos spalvos ir tankiomis kreminėmis plokštelėmis. Perpjautas išskiria gausiai švelnaus skonio baltų sulčių, kurios lėtai paruduoja, o minkštimas ryškiai kvepia žuvimi. Auga ant žemės po lapuočiais, kartais po spygliuočiais, nuo vasaros iki rudens ir yra geras valgomasis grybas.",
+        cap: "Skrybėlė yra 5–12 cm skersmens, jauna išgaubta su įlenktu kraštu, vėliau išsilygina ir tampa negiliai piltuvėliška su įdubimu viduryje. Paviršius sausas, lygus arba smulkiai aksominis, o senstant kartais susiraukšlėja ar įtrūksta. Spalva kinta nuo abrikosinės ir oranžinės iki gelsvai rudos ir raudonai rudos, viduryje dažnai tamsesnė, be koncentrinių juostų.",
+        hymenium: "Plokštelės tankios, siauros ir trapios, prisitvirtinusios prie kojelės arba šiek tiek nusileidžiančios, dažnai šakotos, tarp jų yra trumpesnių plokštelių. Jos kreminės baltos iki blyškiai auksinės geltonos ir spaudžiamos paruduoja. Perpjautos išskiria daug baltų sulčių.",
+        stipe: "Kojelė yra 5–10 cm ilgio ir 1–2,5 cm storio, cilindrinė arba prie pagrindo šiek tiek siaurėjanti, kieta ir pilna. Ji tokios pat spalvos kaip skrybėlė arba šiek tiek šviesesnė, paviršius lygus arba smulkiai aksominis, kartais silpnai išilgai rievėtas. Žiedo nėra.",
+        flesh: "Minkštimas baltas, kietas ir trapus, o perpjautas lėtai paruduoja. Sultys gausios, baltos ir švelnaus skonio, jos nudažo odą, popierių ir audinį ruda spalva. Kvapas ryškiai žuvies, kaip silkės, stiprėja grybui senstant ar džiūstant, bet gaminant dingsta.",
+        sporePrint: "Balta iki kreminės. Sporos beveik apvalios, apie 7,5–10 × 7,5–9 μm, su gyslomis, sudarančiomis visą tinklišką raštą.",
+        habitat: "Mikorizinis grybas, augantis ant žemės lapuočių miškuose, ypač prie ąžuolo, buko, skroblo ir kaštono, rečiau spygliuočių miškuose ir durpingose vietose. Auga pavieniui, išsibarstęs arba nedidelėmis grupėmis ir vaisius veda nuo birželio iki spalio. Paplitęs vidutinio klimato Europos, Šiaurės Amerikos ir Azijos zonose, tačiau kai kuriose šalyse yra retas arba nyksta.",
+        uses: "Valgomas ir labai vertinamas dėl tvirto minkštimo ir švelnaus skonio. Žuvies kvapas gaminant išnyksta. Tinka lėtam troškinimui, troškiniams ir padažams, o sultys nudažo rankas ruda spalva. Kai kuriems nepatinka kvapas ir kiek grūdėta tekstūra.",
+        confusion: "Lactifluus rugatus yra mažesnis, su raukšlėtu skrybėlės kraštu, silpnesniu, labiau žolelių kvapu ir sultimis, kurios nekeičia spalvos. Lactarius hygrophoroides turi retas plokšteles, nekvepia žuvimi, o jo sultys neparuduoja. Lactifluus corrugis turi labiau raukšlėtą skrybėlę, tamsesnes plokšteles, silpnesnį kvapą ir didesnes sporas. Lactifluus oedematopus turi tamsesnę raudonai rudą skrybėlę ir patinusią kojelę.",
+        notes: "Pavadinimas taikomas artimai giminingų rūšių grupei: molekuliniai tyrimai Europos medžiagą skirsto į kelias rūšis, o rinkiniai iš Azijos ir Šiaurės Amerikos apima dar daugiau. Sultyse yra natūralaus kaučiuko, o vaisiakūniuose yra neįprastų sterolių. Pietryčių Jungtinėse Valstijose auga atmaina, kurios skrybėlė lieka geltona."
+      },
+      no: {
+        description: "En stor, fast riske med tørr, fløyelsaktig hatt i aprikos til oransjebrun farge og tette kremfargede skiver. Når den skjæres, avgir den rikelig mild, hvit melk som langsomt blir brun, og kjøttet lukter tydelig fisk. Den vokser på bakken under lauvtrær, noen ganger under bartrær, fra sommer til høst, og er en god matsopp.",
+        cap: "Hatten er 5–12 cm bred, ung hvelvet med innrullet kant, senere flat og grunt traktformet med en forsenkning midt på. Overflaten er tørr, glatt til fint fløyelsaktig og blir med alderen noen ganger rynket eller sprukket. Fargen varierer fra aprikos og oransje til gulbrun og rødbrun, ofte mørkere i midten og uten konsentriske soner.",
+        hymenium: "Skivene er tette, smale og sprø, tilvokst stilken eller litt nedløpende, ofte gaffelgrenet, med kortere skiver imellom. De er kremhvite til blekt gyllengule og blir brune ved trykk. Oppskårne skiver avgir rikelig hvit melk.",
+        stipe: "Stilken er 5–10 cm lang og 1–2,5 cm tykk, sylindrisk eller litt avsmalnende mot basis, fast og full. Den har samme farge som hatten eller er litt lysere, med glatt til fint fløyelsaktig overflate som av og til er svakt lengderibbet. Det er ingen ring.",
+        flesh: "Kjøttet er hvitt, fast og sprøtt og blir langsomt brunt når det skjæres. Melken er rikelig, hvit og mild i smaken og farger hud, papir og stoff brunt. Lukten er tydelig fiskeaktig, som sild, og blir sterkere når soppen eldes eller tørker, men forsvinner ved tilberedning.",
+        sporePrint: "Hvit til kremfarget. Sporene er nesten runde, omtrent 7,5–10 × 7,5–9 μm, med rygger som danner et helt nettmønster.",
+        habitat: "En mykorrhizasopp som vokser på bakken i lauvskog, særlig ved eik, bøk, agnbøk og kastanje, og sjeldnere i barskog og på torvrik mark. Den vokser enkeltvis, spredt eller i små grupper og danner fruktlegemer fra juni til oktober. Den er utbredt i tempererte strøk i Europa, Nord-Amerika og Asia, men er sjelden eller på tilbakegang i noen land.",
+        uses: "Spiselig og høyt verdsatt for sitt faste kjøtt og milde smak. Fiskelukten forsvinner ved tilberedning. Den egner seg til langsom koking, gryteretter og sauser, og melken farger hendene brune. Noen liker ikke lukten og den litt kornete teksturen.",
+        confusion: "Lactifluus rugatus er mindre, med rynket hattkant, svakere og mer urteaktig lukt og melk som ikke skifter farge. Lactarius hygrophoroides har tynt plasserte skiver, ingen fiskelukt og melk som ikke farger brunt. Lactifluus corrugis har en mer rynket hatt, mørkere skiver, svakere lukt og større sporer. Lactifluus oedematopus har en mørkere rødbrun hatt og en oppsvulmet stilk.",
+        notes: "Navnet brukes om en gruppe nært beslektede arter: molekylære studier deler europeisk materiale i flere arter, og funn fra Asia og Nord-Amerika omfatter mange flere. Melken inneholder naturgummi, og fruktlegemene inneholder uvanlige steroler. I det sørøstlige USA finnes en varietet med hatt som forblir gul."
+      },
+      fa: {
+        description: "قارچ شیری بزرگ و سفت با کلاهک خشک و مخملی به رنگ زردآلویی تا قهوه‌ای نارنجی و تیغه‌های کرمی و متراکم. هنگام بریدن شیرابهٔ سفید فراوان و ملایم از آن خارج می‌شود که کم‌کم قهوه‌ای می‌شود و گوشت آن بوی ماهی آشکاری دارد. روی زمین زیر درختان پهن‌برگ و گاهی زیر مخروطیان از تابستان تا پاییز می‌روید و قارچی خوراکی و خوب است.",
+        cap: "کلاهک ۵–۱۲ سانتی‌متر پهنا دارد، در جوانی محدب با لبهٔ به داخل پیچیده است و بعدها صاف می‌شود و با فرورفتگی در مرکز به شکل قیف کم‌عمق درمی‌آید. سطح آن خشک، صاف تا مخملی ظریف است و با افزایش سن گاهی چروکیده یا ترک‌خورده می‌شود. رنگ آن از زردآلویی و نارنجی تا قهوه‌ای مایل به زرد و قهوه‌ای مایل به قرمز متغیر است، اغلب در مرکز تیره‌تر و بدون ناحیه‌های هم‌مرکز.",
+        hymenium: "تیغه‌ها متراکم، باریک و شکننده‌اند، به ساقه چسبیده یا کمی روی آن پایین‌رونده‌اند، اغلب دوشاخه‌اند و میان آن‌ها تیغه‌های کوتاه‌تری وجود دارد. رنگشان از سفید کرمی تا زرد طلایی کم‌رنگ است و با فشار قهوه‌ای می‌شوند. تیغه‌های بریده‌شده شیرابهٔ سفید فراوانی تراوش می‌کنند.",
+        stipe: "ساقه ۵–۱۰ سانتی‌متر بلندا و ۱–۲٫۵ سانتی‌متر ضخامت دارد، استوانه‌ای یا کمی باریک‌شونده به سمت پایه، سفت و توپر. رنگ آن مانند کلاهک یا کمی روشن‌تر است، سطحش صاف تا مخملی ظریف و گاهی به‌طور ضعیف در طول شیاردار است. حلقه ندارد.",
+        flesh: "گوشت سفید، سفت و شکننده است و هنگام بریدن کم‌کم قهوه‌ای می‌شود. شیرابه فراوان، سفید و ملایم است و پوست، کاغذ و پارچه را قهوه‌ای رنگ می‌کند. بو آشکارا ماهی‌مانند و شبیه شاه‌ماهی است و با پیر شدن یا خشک شدن قارچ شدیدتر می‌شود، اما هنگام پختن از بین می‌رود.",
+        sporePrint: "سفید تا کرمی. هاگ‌ها تقریباً گرد و به اندازهٔ حدود ۷٫۵–۱۰ × ۷٫۵–۹ میکرومتر هستند و برجستگی‌هایی دارند که الگوی شبکه‌ای کاملی می‌سازند.",
+        habitat: "قارچی ریشه‌همزیست که روی زمین در جنگل‌های پهن‌برگ، به‌ویژه کنار بلوط، راش، ممرز و شاه‌بلوط می‌روید و کمتر در جنگل‌های مخروطی و جاهای ذغال‌سنگ‌نارس‌دار دیده می‌شود. به‌صورت منفرد، پراکنده یا در گروه‌های کوچک می‌روید و از ژوئن تا اکتبر میوه می‌دهد. در مناطق معتدل اروپا، آمریکای شمالی و آسیا گسترده است، اما در برخی کشورها کمیاب یا رو به کاهش است.",
+        uses: "خوراکی است و به دلیل گوشت سفت و طعم ملایم بسیار ارزشمند شمرده می‌شود. بوی ماهی هنگام پختن از بین می‌رود. برای پخت آهسته، خورش‌ها و سس‌ها مناسب است و شیرابهٔ آن دست را قهوه‌ای می‌کند. برخی افراد بو و بافت کمی دانه‌دار آن را دوست ندارند.",
+        confusion: "Lactifluus rugatus کوچک‌تر است، لبهٔ کلاهک چروکیده، بوی ضعیف‌تر و بیشتر گیاهی و شیرابه‌ای دارد که رنگ عوض نمی‌کند. Lactarius hygrophoroides تیغه‌های دورازهم دارد، بوی ماهی ندارد و شیرابه‌اش قهوه‌ای نمی‌شود. Lactifluus corrugis کلاهک چروکیده‌تر، تیغه‌های تیره‌تر، بوی ضعیف‌تر و هاگ‌های بزرگ‌تری دارد. Lactifluus oedematopus کلاهک قهوه‌ای مایل به قرمز تیره‌تر و ساقهٔ متورم دارد.",
+        notes: "این نام برای گروهی از گونه‌های بسیار نزدیک به هم به کار می‌رود: مطالعات مولکولی مواد اروپایی را به چند گونه تقسیم می‌کنند و نمونه‌های آسیا و آمریکای شمالی گونه‌های بسیار بیشتری را دربر می‌گیرند. شیرابه حاوی لاستیک طبیعی است و اندام‌های میوه استرول‌های غیرمعمولی دارند. در جنوب شرقی ایالات متحده واریته‌ای وجود دارد که کلاهکش زرد می‌ماند."
+      },
+      pl: {
+        description: "Duży, twardy mleczaj z suchym, aksamitnym kapeluszem w kolorze od morelowego do pomarańczowobrązowego i gęstymi kremowymi blaszkami. Przecięty wydziela obfite, łagodne białe mleko, które powoli brunatnieje, a miąższ wyraźnie pachnie rybą. Rośnie na ziemi pod drzewami liściastymi, czasem pod iglastymi, od lata do jesieni i jest dobrym grzybem jadalnym.",
+        cap: "Kapelusz ma 5–12 cm średnicy, w młodości jest wypukły z podwiniętym brzegiem, później rozpościera się i staje się płytko lejkowaty z wgłębieniem pośrodku. Powierzchnia jest sucha, gładka do drobno aksamitnej, a z wiekiem czasem marszczy się lub pęka. Barwa waha się od morelowej i pomarańczowej do żółtobrązowej i czerwonobrązowej, pośrodku często ciemniejsza, bez koncentrycznych stref.",
+        hymenium: "Blaszki są gęste, wąskie i kruche, przyrośnięte do trzonu lub lekko zbiegające, często rozwidlone, z krótszymi blaszkami pomiędzy nimi. Są kremowobiałe do bladozłocistożółtych i brunatnieją po uciśnięciu. Po przecięciu wydzielają obfite białe mleko.",
+        stipe: "Trzon ma 5–10 cm długości i 1–2,5 cm grubości, jest walcowaty lub lekko zwężony ku podstawie, twardy i pełny. Ma barwę kapelusza lub jest nieco jaśniejszy, powierzchnię gładką do drobno aksamitnej, czasem słabo podłużnie żeberkowaną. Nie ma pierścienia.",
+        flesh: "Miąższ jest biały, twardy i kruchy, a po przecięciu powoli brunatnieje. Mleko jest obfite, białe i łagodne w smaku, a skórę, papier i tkaninę barwi na brązowo. Zapach jest wyraźnie rybi, jak śledzia, nasila się, gdy grzyb się starzeje lub schnie, ale znika podczas gotowania.",
+        sporePrint: "Biały do kremowego. Zarodniki są prawie kuliste, około 7,5–10 × 7,5–9 μm, z grzebieniami tworzącymi pełną siateczkę.",
+        habitat: "Grzyb mikoryzowy rosnący na ziemi w lasach liściastych, zwłaszcza przy dębie, buku, grabie i kasztanie, rzadziej w lasach iglastych i na torfowych miejscach. Rośnie pojedynczo, rozproszony lub w małych grupach i owocniki wytwarza od czerwca do października. Jest rozpowszechniony w strefie umiarkowanej Europy, Ameryki Północnej i Azji, ale w niektórych krajach jest rzadki lub zanika.",
+        uses: "Jadalny i wysoko ceniony za twardy miąższ i łagodny smak. Rybi zapach znika podczas gotowania. Nadaje się do powolnego gotowania, na potrawki i do sosów, a mleko barwi ręce na brązowo. Niektórym nie odpowiada zapach i lekko ziarnista konsystencja.",
+        confusion: "Lactifluus rugatus jest mniejszy, ma pomarszczony brzeg kapelusza, słabszy, bardziej ziołowy zapach i mleko, które nie zmienia barwy. Lactarius hygrophoroides ma rzadkie blaszki, nie pachnie rybą, a jego mleko nie brunatnieje. Lactifluus corrugis ma bardziej pomarszczony kapelusz, ciemniejsze blaszki, słabszy zapach i większe zarodniki. Lactifluus oedematopus ma ciemniejszy czerwonobrązowy kapelusz i obrzmiały trzon.",
+        notes: "Nazwa jest stosowana do grupy blisko spokrewnionych gatunków: badania molekularne dzielą materiał europejski na kilka gatunków, a zbiory z Azji i Ameryki Północnej obejmują ich jeszcze więcej. Mleko zawiera kauczuk naturalny, a owocniki zawierają nietypowe sterole. Na południowym wschodzie Stanów Zjednoczonych występuje odmiana, której kapelusz pozostaje żółty."
+      },
+      pt: {
+        description: "Um lactário grande e firme, de chapéu seco e aveludado, de cor damasco a castanho-alaranjado, e lâminas apertadas cor de creme. Quando cortado, liberta abundante leite branco e suave que escurece lentamente, e a carne cheira nitidamente a peixe. Cresce no solo sob árvores de folha larga, por vezes sob coníferas, do verão ao outono, e é um bom comestível.",
+        cap: "O chapéu tem 5–12 cm de largura, convexo com a margem enrolada quando jovem, depois achata e fica em funil pouco profundo com uma depressão central. A superfície é seca, lisa a finamente aveludada, e com a idade pode enrugar ou fender. A cor vai de damasco e laranja a castanho-amarelado e castanho-avermelhado, muitas vezes mais escura no centro, sem zonas concêntricas.",
+        hymenium: "As lâminas são apertadas, estreitas e quebradiças, aderentes ao pé ou ligeiramente decorrentes, muitas vezes bifurcadas, com lamélulas intercaladas. São branco-creme a amarelo-dourado pálido e escurecem quando pisadas. Cortadas, libertam abundante leite branco.",
+        stipe: "O pé tem 5–10 cm de comprimento e 1–2,5 cm de espessura, cilíndrico ou ligeiramente afilado para a base, firme e cheio. Tem a cor do chapéu ou um pouco mais pálido, com superfície lisa a finamente aveludada, por vezes ligeiramente estriada no sentido do comprimento. Não tem anel.",
+        flesh: "A carne é branca, firme e quebradiça, e escurece lentamente ao corte. O leite é abundante, branco e de sabor suave, e mancha de castanho a pele, o papel e os tecidos. O cheiro é nitidamente a peixe, a arenque, e fica mais forte quando o cogumelo envelhece ou seca, mas desaparece na cozedura.",
+        sporePrint: "Branca a creme. Os esporos são quase redondos, com cerca de 7,5–10 × 7,5–9 μm, com cristas que formam um retículo completo.",
+        habitat: "Um fungo micorrízico que cresce no solo em bosques de folha larga, sobretudo junto de carvalho, faia, carpino e castanheiro, e mais raramente em pinhais e locais turfosos. Cresce isolado, disperso ou em pequenos grupos e frutifica de junho a outubro. Está disseminado nas zonas temperadas da Europa, da América do Norte e da Ásia, mas em alguns países é raro ou está em declínio.",
+        uses: "Comestível e muito apreciado pela carne firme e sabor suave. O cheiro a peixe desaparece na cozedura. Presta-se a cozedura lenta, estufados e molhos, e o leite mancha as mãos de castanho. Algumas pessoas não gostam do cheiro nem da textura ligeiramente granulosa.",
+        confusion: "Lactifluus rugatus é mais pequeno, com margem do chapéu rugosa, cheiro mais fraco e mais herbáceo e leite que não muda de cor. Lactarius hygrophoroides tem lâminas espaçadas, não cheira a peixe e o seu leite não escurece. Lactifluus corrugis tem o chapéu mais rugoso, lâminas mais escuras, cheiro mais fraco e esporos maiores. Lactifluus oedematopus tem o chapéu castanho-avermelhado mais escuro e o pé dilatado.",
+        notes: "O nome é aplicado a um grupo de espécies muito próximas: estudos moleculares dividem o material europeu em várias espécies, e as colheitas da Ásia e da América do Norte incluem muitas mais. O leite contém borracha natural e os carpóforos contêm esteróis pouco comuns. No sudeste dos Estados Unidos existe uma variedade cujo chapéu permanece amarelo."
+      },
+      ro: {
+        description: "O ciupercă lăptoasă mare și fermă, cu pălărie uscată, catifelată, de la culoarea caisei la brun-portocaliu, și lamele dese, crem. Tăiată, lasă să curgă lapte alb abundent și blând, care se brunifică lent, iar carnea miroase pronunțat a pește. Crește pe sol sub arbori foioși, uneori sub conifere, din vară până toamna, și este o ciupercă comestibilă bună.",
+        cap: "Pălăria are 5–12 cm lățime, la tinerețe convexă cu marginea răsfrântă spre interior, apoi se aplatizează și devine puțin adâncă în formă de pâlnie, cu o adâncitură în centru. Suprafața este uscată, netedă până la fin catifelată, iar odată cu vârsta se ridează sau crapă uneori. Culoarea variază de la caisiu și portocaliu la brun-gălbui și brun-roșcat, adesea mai închisă în centru, fără zone concentrice.",
+        hymenium: "Lamelele sunt dese, înguste și casante, aderente la picior sau ușor decurente, adesea bifurcate, cu lamelule intercalate. Sunt alb-crem până la galben-auriu pal și se brunifică la atingere. Tăiate, lasă să curgă lapte alb din belșug.",
+        stipe: "Piciorul are 5–10 cm lungime și 1–2,5 cm grosime, cilindric sau ușor subțiat spre bază, ferm și plin. Are culoarea pălăriei sau este puțin mai pal, cu suprafața netedă până la fin catifelată, uneori slab striată pe lungime. Nu are inel.",
+        flesh: "Carnea este albă, fermă și casantă și se brunifică lent la tăiere. Laptele este abundent, alb și blând la gust și pătează în brun pielea, hârtia și țesăturile. Mirosul este pronunțat de pește, de scrumbie, și se intensifică pe măsură ce ciuperca îmbătrânește sau se usucă, dar dispare la gătire.",
+        sporePrint: "Albă până la crem. Sporii sunt aproape rotunzi, de aproximativ 7,5–10 × 7,5–9 μm, cu creste care formează o rețea completă.",
+        habitat: "O ciupercă micorizantă care crește pe sol în pădurile de foioase, mai ales lângă stejar, fag, carpen și castan, și mai rar în pădurile de conifere și în locuri turboase. Crește solitară, răspândită sau în grupuri mici și fructifică din iunie până în octombrie. Este răspândită în zonele temperate din Europa, America de Nord și Asia, dar în unele țări este rară sau în declin.",
+        uses: "Comestibilă și foarte apreciată pentru carnea fermă și gustul blând. Mirosul de pește dispare la gătire. Se potrivește pentru gătire lentă, tocănițe și sosuri, iar laptele pătează mâinile în brun. Unor persoane nu le plac mirosul și textura ușor granulară.",
+        confusion: "Lactifluus rugatus este mai mic, cu marginea pălăriei ridată, miros mai slab și mai ierbos și lapte care nu își schimbă culoarea. Lactarius hygrophoroides are lamele rare, nu miroase a pește, iar laptele său nu se brunifică. Lactifluus corrugis are pălăria mai ridată, lamele mai închise, miros mai slab și spori mai mari. Lactifluus oedematopus are pălăria brun-roșcată mai închisă și piciorul umflat.",
+        notes: "Numele se aplică unui grup de specii foarte apropiate: studiile moleculare împart materialul european în mai multe specii, iar recoltele din Asia și America de Nord includ mult mai multe. Laptele conține cauciuc natural, iar corpurile fructifere conțin steroli neobișnuiți. În sud-estul Statelor Unite există o varietate a cărei pălărie rămâne galbenă."
+      },
+      ru: {
+        description: "Крупный плотный груздь с сухой бархатистой шляпкой от абрикосового до оранжево-коричневого цвета и частыми кремовыми пластинками. При надрезе выделяет обильный мягкий белый млечный сок, который медленно буреет, а мякоть заметно пахнет рыбой. Растёт на земле под лиственными деревьями, иногда под хвойными, с лета до осени и является хорошим съедобным грибом.",
+        cap: "Шляпка 5–12 см в диаметре, в молодости выпуклая с подвёрнутым краем, затем уплощается и становится неглубоко воронковидной с вдавленностью в центре. Поверхность сухая, гладкая или тонкобархатистая, с возрастом иногда морщинистая или растрескивающаяся. Окраска от абрикосовой и оранжевой до жёлто-коричневой и красно-коричневой, в центре часто темнее, без концентрических зон.",
+        hymenium: "Пластинки частые, узкие и ломкие, приросшие к ножке или слабо нисходящие, часто вильчато разветвлённые, с более короткими пластинками между ними. Они кремово-белые до бледно-золотисто-жёлтых и при надавливании буреют. При надрезе выделяют обильный белый млечный сок.",
+        stipe: "Ножка 5–10 см длиной и 1–2,5 см толщиной, цилиндрическая или слегка суженная к основанию, плотная и сплошная. Она окрашена как шляпка или чуть светлее, поверхность гладкая или тонкобархатистая, иногда слабо продольно рёбристая. Кольца нет.",
+        flesh: "Мякоть белая, плотная и ломкая, на разрезе медленно буреет. Млечный сок обильный, белый и мягкий на вкус, окрашивает кожу, бумагу и ткань в коричневый цвет. Запах отчётливо рыбный, как у селёдки, усиливается при старении или высыхании гриба, но исчезает при варке.",
+        sporePrint: "Белый до кремового. Споры почти круглые, около 7,5–10 × 7,5–9 μm, с гребнями, образующими полную сетчатую сеть.",
+        habitat: "Микоризообразующий гриб, растущий на земле в лиственных лесах, особенно рядом с дубом, буком, грабом и каштаном, реже в хвойных лесах и на торфянистых местах. Растёт одиночно, рассеянно или небольшими группами и плодоносит с июня по октябрь. Широко распространён в умеренных областях Европы, Северной Америки и Азии, но в некоторых странах редок или становится реже.",
+        uses: "Съедобный и высоко ценится за плотную мякоть и мягкий вкус. Рыбный запах исчезает при варке. Подходит для медленного приготовления, тушёных блюд и соусов, а млечный сок окрашивает руки в коричневый цвет. Некоторым не нравятся запах и слегка зернистая текстура.",
+        confusion: "Lactifluus rugatus мельче, с морщинистым краем шляпки, более слабым травянистым запахом и соком, который не меняет цвет. У Lactarius hygrophoroides редкие пластинки, нет рыбного запаха, а млечный сок не буреет. У Lactifluus corrugis шляпка более морщинистая, пластинки темнее, запах слабее, а споры крупнее. У Lactifluus oedematopus шляпка более тёмная красно-коричневая, а ножка вздутая.",
+        notes: "Название применяется к группе близкородственных видов: молекулярные исследования делят европейский материал на несколько видов, а сборы из Азии и Северной Америки включают ещё больше. Млечный сок содержит натуральный каучук, а плодовые тела содержат необычные стеролы. На юго-востоке Соединённых Штатов встречается разновидность, у которой шляпка остаётся жёлтой."
+      },
+      sr: {
+        description: "Велика, чврста млечница са сувим, баршунастим клобуком боје кајсије до наранџастосмеђе и густим кремастим листићима. Када се засече, лучи обиман благи бели млечни сок који полако посмеђи, а месо изразито мирише на рибу. Расте на тлу испод листопадног дрвећа, понекад и испод четинара, од лета до јесени и добра је јестива печурка.",
+        cap: "Клобук је широк 5–12 cm, у младости испупчен са подврнутом ивицом, касније се спљошти и постаје плитко левкаст са удубљењем у средини. Површина је сува, глатка до фино баршунаста, а с годинама се понекад набора или пуца. Боја варира од кајсијске и наранџасте до жућкастосмеђе и црвенкастосмеђе, често је тамнија у средини, без концентричних зона.",
+        hymenium: "Листићи су густи, уски и ломљиви, прирасли уз дршку или благо силазни, често рашљасти, са краћим листићима између њих. Кремасто су бели до бледо златножути и на додир посмеђе. Пресечени луче обиман бели млечни сок.",
+        stipe: "Дршка је дуга 5–10 cm и дебела 1–2,5 cm, ваљкаста или благо сужена према бази, чврста и пуна. Обојена је као клобук или нешто светлије, глатке до фино баршунасте површине која је понекад слабо уздужно ребраста. Прстена нема.",
+        flesh: "Месо је бело, чврсто и ломљиво, а на пресеку полако посмеђи. Млечни сок је обиман, бео и благог укуса и боји кожу, папир и тканину смеђе. Мирис је изразито рибљи, као на харингу, појачава се како печурка стари или се суши, али нестаје кувањем.",
+        sporePrint: "Бела до кремаста. Споре су готово округле, око 7,5–10 × 7,5–9 μm, са гребенима који чине потпуну мрежасту шару.",
+        habitat: "Микоризна гљива која расте на тлу у листопадним шумама, нарочито уз храст, букву, граб и кестен, а ређе у шумама четинара и на тресетним местима. Расте појединачно, расуто или у малим групама и плоди од јуна до октобра. Распрострањена је у умереном појасу Европе, Северне Америке и Азије, али је у неким земљама ретка или јој број опада.",
+        uses: "Јестива и веома цењена због чврстог меса и благог укуса. Рибљи мирис нестаје кувањем. Погодна је за дуго кување, варива и умаке, а млечни сок боји руке смеђе. Некима смета мирис и помало зрнаста текстура.",
+        confusion: "Lactifluus rugatus је мањи, са наборном ивицом клобука, слабијим, више биљним мирисом и млечним соком који не мења боју. Lactarius hygrophoroides има ретке листиће, не мирише на рибу, а његов млечни сок не посмеђи. Lactifluus corrugis има више наборан клобук, тамније листиће, слабији мирис и веће споре. Lactifluus oedematopus има тамнији црвенкастосмеђи клобук и задебљану дршку.",
+        notes: "Назив се примењује на групу блиско сродних врста: молекуларна истраживања деле европски материјал на неколико врста, а налази из Азије и Северне Америке обухватају још много њих. Млечни сок садржи природни каучук, а плодна тела садрже необичне стероле. На југоистоку Сједињених Држава јавља се варијетет чији клобук остаје жут."
+      },
+      sl: {
+        description: "Velika, čvrsta mlečnica s suhim, žametnim klobukom marelične do oranžnorjave barve in gostimi kremastimi lističi. Ob prerezu izloča obilno blago belo mleko, ki počasi porjavi, meso pa izrazito diši po ribah. Raste na tleh pod listavci, včasih pod iglavci, od poletja do jeseni in je dobra užitna goba.",
+        cap: "Klobuk je širok 5–12 cm, v mladosti izbočen z zavihanim robom, pozneje se sploščí in postane plitvo lijakast z vdolbino na sredini. Površina je suha, gladka do fino žametna, s starostjo pa se včasih nagubá ali razpoka. Barva je od marelične in oranžne do rumenorjave in rdečerjave, na sredini pogosto temnejša, brez koncentričnih con.",
+        hymenium: "Lističi so gosti, ozki in krhki, priraščeni na betič ali rahlo se spuščajoči po njem, pogosto vilasto razvejeni, med njimi so krajši lističi. Kremno beli so do bledo zlatorumeni in ob pritisku porjavijo. Ob prerezu izločajo obilno belo mleko.",
+        stipe: "Betič je dolg 5–10 cm in debel 1–2,5 cm, valjast ali rahlo zožen proti dnu, čvrst in poln. Obarvan je kot klobuk ali nekoliko svetlejši, njegova površina je gladka do fino žametna, včasih rahlo vzdolžno rebrasta. Obročka nima.",
+        flesh: "Meso je belo, čvrsto in krhko, na prerezu pa počasi porjavi. Mleko je obilno, belo in blagega okusa ter kožo, papir in tkanino obarva rjavo. Vonj je izrazito po ribah, kot po slanikih, s starostjo ali s sušenjem se okrepi, pri kuhanju pa izgine.",
+        sporePrint: "Bel do kremen. Trosi so skoraj okrogli, veliki približno 7,5–10 × 7,5–9 μm, z grebeni, ki tvorijo popoln mrežast vzorec.",
+        habitat: "Mikorizna goba, ki raste na tleh v listnatih gozdovih, zlasti ob hrastu, bukvi, gabru in kostanju, redkeje v iglastih gozdovih in na šotnih mestih. Raste posamezno, razpršeno ali v majhnih skupinah in obrodi od junija do oktobra. Razširjena je v zmernem pasu Evrope, Severne Amerike in Azije, vendar je v nekaterih državah redka ali upada.",
+        uses: "Užitna in zelo cenjena zaradi čvrstega mesa in blagega okusa. Vonj po ribah pri kuhanju izgine. Primerna je za počasno kuhanje, enolončnice in omake, mleko pa obarva roke rjavo. Nekaterim ni všeč vonj in nekoliko zrnata tekstura.",
+        confusion: "Lactifluus rugatus je manjši, z nagubanim robom klobuka, šibkejšim, bolj zeliščnim vonjem in mlekom, ki ne spreminja barve. Lactarius hygrophoroides ima redke liste, ne diši po ribah, njegovo mleko pa ne porjavi. Lactifluus corrugis ima bolj naguban klobuk, temnejše liste, šibkejši vonj in večje trose. Lactifluus oedematopus ima temnejši rdečerjav klobuk in zadebeljen betič.",
+        notes: "Ime se uporablja za skupino tesno sorodnih vrst: molekularne raziskave evropski material razdelijo na več vrst, zbirke iz Azije in Severne Amerike pa vključujejo še veliko več. Mleko vsebuje naravni kavčuk, trosnjaki pa nenavadne sterole. Na jugovzhodu Združenih držav raste varieteta, katere klobuk ostane rumen."
+      },
+      es: {
+        description: "Un lactario grande y firme, de sombrero seco y aterciopelado de color albaricoque a pardo anaranjado y láminas apretadas de color crema. Al cortarlo suelta abundante leche blanca de sabor suave que se vuelve parda lentamente, y su carne huele claramente a pescado. Crece en el suelo bajo árboles de hoja ancha, a veces bajo coníferas, del verano al otoño, y es un buen comestible.",
+        cap: "El sombrero mide 5–12 cm de ancho, convexo con el margen enrollado de joven, luego se aplana y adopta forma de embudo poco profundo con una depresión central. La superficie es seca, lisa a finamente aterciopelada, y con la edad a veces se arruga o se agrieta. El color va del albaricoque y el naranja al pardo amarillento y al pardo rojizo, a menudo más oscuro en el centro, sin zonas concéntricas.",
+        hymenium: "Las láminas son apretadas, estrechas y quebradizas, adnadas o ligeramente decurrentes, a menudo bifurcadas, con laminillas intercaladas. Son de color blanco crema a amarillo dorado pálido y se vuelven pardas al presionarlas. Cortadas, sueltan abundante leche blanca.",
+        stipe: "El pie mide 5–10 cm de largo y 1–2,5 cm de grosor, cilíndrico o ligeramente adelgazado hacia la base, firme y macizo. Es del color del sombrero o algo más pálido, con la superficie lisa a finamente aterciopelada, a veces débilmente acanalada a lo largo. No tiene anillo.",
+        flesh: "La carne es blanca, firme y quebradiza, y se vuelve parda lentamente al corte. La leche es abundante, blanca y de sabor suave, y mancha de pardo la piel, el papel y los tejidos. El olor es claramente a pescado, a arenque, y se intensifica cuando el hongo envejece o se seca, pero desaparece al cocinarlo.",
+        sporePrint: "Blanca a crema. Las esporas son casi redondas, de unos 7,5–10 × 7,5–9 μm, con crestas que forman un retículo completo.",
+        habitat: "Un hongo micorrícico que crece en el suelo en bosques de hoja ancha, sobre todo junto a roble, haya, carpe y castaño, y con menos frecuencia en bosques de coníferas y lugares turbosos. Crece solitario, disperso o en pequeños grupos y fructifica de junio a octubre. Está extendido por las zonas templadas de Europa, Norteamérica y Asia, pero en algunos países es raro o está en declive.",
+        uses: "Comestible y muy apreciado por su carne firme y su sabor suave. El olor a pescado desaparece al cocinarlo. Es adecuado para cocciones lentas, guisos y salsas, y la leche tiñe las manos de pardo. A algunas personas no les gustan el olor ni la textura ligeramente granulosa.",
+        confusion: "Lactifluus rugatus es más pequeño, con el margen del sombrero arrugado, olor más débil y más herbáceo y leche que no cambia de color. Lactarius hygrophoroides tiene láminas espaciadas, no huele a pescado y su leche no se vuelve parda. Lactifluus corrugis tiene el sombrero más arrugado, láminas más oscuras, olor más débil y esporas mayores. Lactifluus oedematopus tiene el sombrero pardo rojizo más oscuro y el pie hinchado.",
+        notes: "El nombre se aplica a un grupo de especies muy próximas: los estudios moleculares dividen el material europeo en varias especies, y las recolecciones de Asia y Norteamérica incluyen muchas más. La leche contiene caucho natural y los carpóforos contienen esteroles poco comunes. En el sureste de Estados Unidos existe una variedad cuyo sombrero permanece amarillo."
+      },
+      sv: {
+        description: "En stor, fast riska med torr, sammetslen hatt i aprikos till orangebrun färg och täta gräddfärgade skivor. När den skärs ger den rikligt med mild, vit mjölk som sakta blir brun, och köttet luktar tydligt fisk. Den växer på marken under lövträd, ibland under barrträd, från sommar till höst och är en god matsvamp.",
+        cap: "Hatten är 5–12 cm bred, ung välvd med invikt kant, senare utbredd och grunt trattformad med en fördjupning i mitten. Ytan är torr, slät till fint sammetslen och blir med åldern ibland rynkig eller spricker. Färgen varierar från aprikos och orange till gulbrun och rödbrun, ofta mörkare i mitten och utan koncentriska zoner.",
+        hymenium: "Skivorna är täta, smala och spröda, fastvuxna vid foten eller något nedlöpande, ofta gaffelgrenade, med kortare skivor emellan. De är gräddvita till blekt gyllengula och blir bruna vid tryck. Skurna skivor ger rikligt med vit mjölk.",
+        stipe: "Foten är 5–10 cm lång och 1–2,5 cm tjock, cylindrisk eller något avsmalnande mot basen, fast och massiv. Den har samma färg som hatten eller är något ljusare, med slät till fint sammetslen yta som ibland är svagt längsribbad. Det finns ingen ring.",
+        flesh: "Köttet är vitt, fast och sprött och blir långsamt brunt när det skärs. Mjölken är riklig, vit och mild i smaken och färgar hud, papper och tyg brunt. Lukten är tydligt fiskaktig, som sill, och blir starkare när svampen åldras eller torkar, men försvinner vid tillagning.",
+        sporePrint: "Vit till gräddfärgad. Sporerna är nästan runda, omkring 7,5–10 × 7,5–9 μm, med åsar som bildar ett helt nätmönster.",
+        habitat: "En mykorrhizasvamp som växer på marken i lövskog, särskilt vid ek, bok, avenbok och kastanj, och mer sällan i barrskog och på torvrik mark. Den växer enstaka, spridd eller i små grupper och bildar fruktkroppar från juni till oktober. Den är utbredd i tempererade områden i Europa, Nordamerika och Asien, men är sällsynt eller på tillbakagång i vissa länder.",
+        uses: "Ätlig och högt värderad för sitt fasta kött och milda smak. Fisklukten försvinner vid tillagning. Den passar för långsam tillagning, grytor och såser, och mjölken färgar händerna bruna. Vissa tycker inte om lukten och den något korniga konsistensen.",
+        confusion: "Lactifluus rugatus är mindre, med rynkig hattkant, svagare och mer örtaktig lukt och mjölk som inte ändrar färg. Lactarius hygrophoroides har glest sittande skivor, ingen fisklukt och mjölk som inte färgar brunt. Lactifluus corrugis har en mer rynkig hatt, mörkare skivor, svagare lukt och större sporer. Lactifluus oedematopus har en mörkare rödbrun hatt och en uppsvälld fot.",
+        notes: "Namnet används för en grupp nära besläktade arter: molekylära studier delar upp europeiskt material i flera arter, och insamlingar från Asien och Nordamerika omfattar många fler. Mjölken innehåller naturgummi, och fruktkropparna innehåller ovanliga steroler. I sydöstra USA finns en varietet vars hatt förblir gul."
+      },
+      tr: {
+        description: "Büyük ve sert bir sütlü mantar; kuru, kadifemsi şapkası kayısı renginden turuncu kahverengiye kadar değişir, lamelleri sık ve krem renklidir. Kesildiğinde bol miktarda yumuşak lezzetli beyaz süt salgılar, süt yavaşça kahverengiye döner ve etinden belirgin bir balık kokusu gelir. Yazdan sonbahara kadar geniş yapraklı ağaçların, bazen iğne yapraklıların altında toprakta yetişir ve iyi bir yenilebilir mantardır.",
+        cap: "Şapka 5–12 cm genişliğindedir; gençken dışbükey ve kenarı içe kıvrıktır, sonra düzleşir ve ortasında çukurluk bulunan sığ huni biçimini alır. Yüzey kuru, pürüzsüzden ince kadifemsiye kadardır ve yaşlandıkça bazen kırışır veya çatlar. Renk kayısı ve turuncudan sarımsı kahverengiye ve kırmızımsı kahverengiye kadar değişir, ortası çoğunlukla daha koyudur ve eş merkezli bölgeler yoktur.",
+        hymenium: "Lameller sık, dar ve kırılgandır, sapa bitişik veya hafifçe inik, çoğunlukla çatallıdır ve aralarında daha kısa lameller bulunur. Krem beyazdan soluk altın sarısına kadar değişir ve ezildiğinde kahverengileşir. Kesilen lameller bol beyaz süt salgılar.",
+        stipe: "Sap 5–10 cm uzunluğunda ve 1–2,5 cm kalınlığındadır; silindirik veya tabana doğru hafifçe incelen yapıdadır, serttir ve doludur. Şapka ile aynı renkte ya da biraz daha soluktur; yüzeyi pürüzsüzden ince kadifemsiye kadardır ve bazen boyuna hafifçe damarlıdır. Halka yoktur.",
+        flesh: "Et beyaz, sert ve kırılgandır, kesildiğinde yavaşça kahverengileşir. Süt boldur, beyazdır ve yumuşak lezzetlidir; deriyi, kâğıdı ve kumaşı kahverengiye boyar. Koku belirgin biçimde ringa balığı gibi balık kokusudur, mantar yaşlandıkça veya kuruduğunda güçlenir, ancak pişirmeyle kaybolur.",
+        sporePrint: "Beyazdan kreme. Sporlar neredeyse yuvarlaktır, yaklaşık 7,5–10 × 7,5–9 μm boyutundadır ve tam bir ağsı desen oluşturan çıkıntılara sahiptir.",
+        habitat: "Geniş yapraklı ormanlarda, özellikle meşe, kayın, gürgen ve kestane yakınında toprakta yetişen, mikoriza oluşturan bir mantardır; iğne yapraklı ormanlarda ve turbalı yerlerde daha az görülür. Tek tek, dağınık veya küçük gruplar halinde büyür ve haziran–ekim aylarında meyve verir. Avrupa, Kuzey Amerika ve Asya'nın ılıman bölgelerinde yaygındır, ancak bazı ülkelerde nadirdir veya azalmaktadır.",
+        uses: "Yenilebilir; sert eti ve yumuşak lezzeti nedeniyle çok beğenilir. Balık kokusu pişirme sırasında kaybolur. Yavaş pişirmeye, güveçlere ve soslara uygundur, sütü elleri kahverengiye boyar. Bazı kişiler kokusunu ve hafif taneli dokusunu sevmez.",
+        confusion: "Lactifluus rugatus daha küçüktür, şapka kenarı kırışıktır, kokusu daha zayıf ve daha çok otsudur, sütü renk değiştirmez. Lactarius hygrophoroides'in lamelleri seyrektir, balık kokusu yoktur ve sütü kahverengileşmez. Lactifluus corrugis'in şapkası daha kırışıktır, lamelleri daha koyudur, kokusu daha zayıftır ve sporları daha büyüktür. Lactifluus oedematopus'un şapkası daha koyu kırmızımsı kahverengidir ve sapı şişkindir.",
+        notes: "Bu ad, birbirine çok yakın türlerden oluşan bir grup için kullanılır: moleküler çalışmalar Avrupa materyalini birkaç türe ayırır, Asya ve Kuzey Amerika'dan toplanan örnekler ise çok daha fazlasını içerir. Süt doğal kauçuk içerir ve meyve gövdeleri alışılmadık steroller taşır. Amerika Birleşik Devletleri'nin güneydoğusunda şapkası sarı kalan bir varyete bulunur."
+      },
+      uk: {
+        description: "Великий щільний рижик із сухою оксамитовою шапкою від абрикосового до оранжево-коричневого кольору та частими кремовими пластинками. При надрізі виділяє рясний м'який білий молочний сік, який повільно буріє, а м'якуш виразно пахне рибою. Росте на землі під листяними деревами, іноді під хвойними, з літа до осені та є добрим їстівним грибом.",
+        cap: "Шапка 5–12 см в діаметрі, замолоду випукла з підгорнутим краєм, потім розпростерта і неглибоко лійкоподібна із заглибленням у центрі. Поверхня суха, гладенька або тонкооксамитова, з віком інколи зморшкувата чи розтріскується. Забарвлення від абрикосового й оранжевого до жовто-коричневого та червоно-коричневого, у центрі часто темніше, без концентричних зон.",
+        hymenium: "Пластинки часті, вузькі й ламкі, прирослі до ніжки або трохи спадаючі, часто вилчасто розгалужені, з коротшими пластинками між ними. Вони кремово-білі до блідо-золотисто-жовтих і при натисканні буріють. При надрізі виділяють рясний білий молочний сік.",
+        stipe: "Ніжка завдовжки 5–10 см і завтовшки 1–2,5 см, циліндрична або трохи звужена до основи, щільна й суцільна. Вона забарвлена як шапка або трохи світліша, поверхня гладенька чи тонкооксамитова, інколи слабо поздовжньо ребриста. Кільця немає.",
+        flesh: "М'якуш білий, щільний і ламкий, на розрізі повільно буріє. Молочний сік рясний, білий і м'який на смак, забарвлює шкіру, папір і тканину в коричневий колір. Запах виразно рибний, як у оселедця, посилюється, коли гриб старіє або сохне, але зникає при варінні.",
+        sporePrint: "Білий до кремового. Спори майже круглі, приблизно 7,5–10 × 7,5–9 μm, із гребенями, що утворюють повний сітчастий візерунок.",
+        habitat: "Мікоризний гриб, що росте на землі в листяних лісах, особливо біля дуба, бука, граба й каштана, рідше в хвойних лісах і на торфових місцях. Росте поодиноко, розсіяно або невеликими групами й плодоносить з червня по жовтень. Поширений в помірних областях Європи, Північної Америки та Азії, але в деяких країнах рідкісний або зникає.",
+        uses: "Їстівний і високо цінується за щільний м'якуш і м'який смак. Рибний запах зникає під час варіння. Підходить для повільного приготування, тушкованих страв і соусів, а молочний сік забарвлює руки в коричневий колір. Дехто не любить запах і трохи зернисту текстуру.",
+        confusion: "Lactifluus rugatus дрібніший, із зморшкуватим краєм шапки, слабшим трав'янистим запахом і соком, що не змінює колір. У Lactarius hygrophoroides рідкі пластинки, немає рибного запаху, а молочний сік не буріє. У Lactifluus corrugis шапка більш зморшкувата, пластинки темніші, запах слабший, а спори більші. У Lactifluus oedematopus шапка темніша червоно-коричнева, а ніжка здута.",
+        notes: "Назва застосовується до групи близькоспоріднених видів: молекулярні дослідження ділять європейський матеріал на кілька видів, а збори з Азії та Північної Америки охоплюють ще більше. Молочний сік містить натуральний каучук, а плодові тіла містять незвичні стероли. На південному сході Сполучених Штатів трапляється різновид, у якого шапка залишається жовтою."
+      }
+    },
+    sources: {
+      en: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://en.wikipedia.org/wiki/Lactifluus_volemus"
+        },
+        {
+          "group": "text",
+          "name": "Missouri Department of Conservation",
+          "href": "https://mdc.mo.gov/discover-nature/field-guide/voluminous-latex-milky"
+        },
+        {
+          "group": "name",
+          "name": "Index Fungorum",
+          "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=231740",
+          "detail": "231740"
+        },
+        {
+          "group": "name",
+          "name": "Species Fungorum",
+          "href": "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=231740",
+          "detail": "231740"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551150",
+          "detail": "2551150"
+        }
+      ],
+      sk: [
+        {
+          "group": "text",
+          "name": "Nahuby.sk",
+          "href": "https://www.nahuby.sk/atlas-hub/Lactifluus-volemus/rydzik-surovickovy/ryzec-syrovinka/ID593",
+          "detail": "rýdzik surovičkový"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551150",
+          "detail": "2551150"
+        }
+      ],
+      ar: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551150",
+          "detail": "2551150"
+        }
+      ],
+      bg: [
+        {
+          "group": "text",
+          "name": "Уикипедия",
+          "href": "https://bg.wikipedia.org/wiki/%D0%A5%D0%BB%D0%B5%D0%B1%D0%BD%D0%B0_%D0%BC%D0%BB%D0%B5%D1%87%D0%BD%D0%B8%D1%86%D0%B0"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551150",
+          "detail": "2551150"
+        }
+      ],
+      zh: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://zh.wikipedia.org/wiki/%E5%A4%9A%E6%B1%81%E4%B9%B3%E8%8F%87"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551150",
+          "detail": "2551150"
+        }
+      ],
+      hr: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://hr.wikipedia.org/wiki/Presnac"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551150",
+          "detail": "2551150"
+        }
+      ],
+      cs: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://cs.wikipedia.org/wiki/Ryzec_syrovinka"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551150",
+          "detail": "2551150"
+        }
+      ],
+      da: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://da.wikipedia.org/wiki/Spiselig_M%C3%A6lkehat"
+        },
+        {
+          "group": "text",
+          "name": "Naturbasen",
+          "href": "https://www.naturbasen.dk/art/13865/spiselig-maelkehat",
+          "detail": "spiselig mælkehat"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551150",
+          "detail": "2551150"
+        }
+      ],
+      nl: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://nl.wikipedia.org/wiki/Vissige_melkzwam"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551150",
+          "detail": "2551150"
+        }
+      ],
+      et: [
+        {
+          "group": "text",
+          "name": "Vikipeedia",
+          "href": "https://et.wikipedia.org/wiki/Kuldriisikas"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551150",
+          "detail": "2551150"
+        }
+      ],
+      fi: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://fi.wikipedia.org/wiki/Kultarousku"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551150",
+          "detail": "2551150"
+        }
+      ],
+      fr: [
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://fr.wikipedia.org/wiki/Lactarius_volemus"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551150",
+          "detail": "2551150"
+        }
+      ],
+      de: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://de.wikipedia.org/wiki/Br%C3%A4tling"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551150",
+          "detail": "2551150"
+        }
+      ],
+      he: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551150",
+          "detail": "2551150"
+        }
+      ],
+      hi: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551150",
+          "detail": "2551150"
+        }
+      ],
+      hu: [
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://hu.wikipedia.org/wiki/Keny%C3%A9rgomba"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551150",
+          "detail": "2551150"
+        }
+      ],
+      id: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://id.wikipedia.org/wiki/Lactifluus_volemus"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551150",
+          "detail": "2551150"
+        }
+      ],
+      it: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://it.wikipedia.org/wiki/Lactarius_volemus"
+        },
+        {
+          "group": "text",
+          "name": "Funghi Magazine",
+          "href": "https://funghimagazine.it/lactifluus-volemus/",
+          "detail": "lattario volgare"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551150",
+          "detail": "2551150"
+        }
+      ],
+      ja: [
+        {
+          "group": "text",
+          "name": "ウィキペディア",
+          "href": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%81%E3%82%BF%E3%82%B1"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551150",
+          "detail": "2551150"
+        }
+      ],
+      ko: [
+        {
+          "group": "text",
+          "name": "배젖버섯",
+          "href": "https://kheenn.tistory.com/15854661",
+          "detail": "배젖버섯"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551150",
+          "detail": "2551150"
+        }
+      ],
+      lv: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://lv.wikipedia.org/wiki/Sald%C4%81_krimilde"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551150",
+          "detail": "2551150"
+        }
+      ],
+      lt: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://lt.wikipedia.org/wiki/Piengrybis_jautakis"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551150",
+          "detail": "2551150"
+        }
+      ],
+      no: [
+        {
+          "group": "name",
+          "name": "Artsdatabanken",
+          "href": "https://artsdatabanken.no/arter/takson/189396",
+          "detail": "mandelriske"
+        },
+        {
+          "group": "text",
+          "name": "Store norske leksikon",
+          "href": "https://snl.no/mandelriske",
+          "detail": "mandelriske"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551150",
+          "detail": "2551150"
+        }
+      ],
+      fa: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551150",
+          "detail": "2551150"
+        }
+      ],
+      pl: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://pl.wikipedia.org/wiki/Mleczajowiec_smaczny"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551150",
+          "detail": "2551150"
+        }
+      ],
+      pt: [
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://pt.wikipedia.org/wiki/Lactarius_volemus"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551150",
+          "detail": "2551150"
+        }
+      ],
+      ro: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://ro.wikipedia.org/wiki/Lactifluus_volemus"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551150",
+          "detail": "2551150"
+        }
+      ],
+      ru: [
+        {
+          "group": "text",
+          "name": "Википедия",
+          "href": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D1%83%D0%B7%D0%B4%D1%8C_%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D0%BE-%D0%BA%D0%BE%D1%80%D0%B8%D1%87%D0%BD%D0%B5%D0%B2%D1%8B%D0%B9"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551150",
+          "detail": "2551150"
+        }
+      ],
+      sr: [
+        {
+          "group": "text",
+          "name": "Википедија",
+          "href": "https://sr.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D1%81%D0%BD%D0%B0%D1%86"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551150",
+          "detail": "2551150"
+        }
+      ],
+      sl: [
+        {
+          "group": "text",
+          "name": "Gobarsko društvo Lisička Maribor",
+          "href": "https://www.gobe.si/Gobe/LactifluusVolemus",
+          "detail": "sočni mlečnik"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551150",
+          "detail": "2551150"
+        }
+      ],
+      es: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://es.wikipedia.org/wiki/Lactarius_volemus"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551150",
+          "detail": "2551150"
+        }
+      ],
+      sv: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://sv.wikipedia.org/wiki/Mandelriska"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551150",
+          "detail": "2551150"
+        }
+      ],
+      tr: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://tr.wikipedia.org/wiki/Tirmit_mantar%C4%B1"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551150",
+          "detail": "2551150"
+        }
+      ],
+      uk: [
+        {
+          "group": "text",
+          "name": "Вікіпедія",
+          "href": "https://uk.wikipedia.org/wiki/%D0%A5%D1%80%D1%8F%D1%89-%D0%BC%D0%BE%D0%BB%D0%BE%D1%87%D0%BD%D0%B8%D0%BA_%D1%87%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%BE-%D0%BA%D0%BE%D1%80%D0%B8%D1%87%D0%BD%D0%B5%D0%B2%D0%B8%D0%B9"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551150",
+          "detail": "2551150"
+        }
+      ]
+    },
+    synonyms: [
+      "Agaricus volemus Fr.",
+      "Lactarius volemus (Fr.) Fr.",
+      "Galorrheus volemus (Fr.) P.Kumm.",
+      "Agaricus lactifluus L.",
+      "Amanita lactiflua (L.) Lam.",
+      "Lactarius lactifluus (L.) Quél.",
+      "Agaricus ichoratus Batsch",
+      "Hypophyllum ichoratum (Batsch) Paulet",
+      "Lactarius ichoratus (Batsch) Fr.",
+      "Galorrheus ichoratus (Batsch) P.Kumm.",
+      "Lactifluus ichoratus (Batsch) Kuntze",
+      "Agaricus testaceus Pers.",
+      "Lactarius testaceus (Pers.) Guég."
+    ]
   }
 ];
