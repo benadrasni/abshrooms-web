@@ -666,6 +666,7 @@ export const TAXA = {
   },
   Psathyrellaceae: {
     rank: "family",
+    sk: "krehkovcovité",
     de: "Mürblingsverwandte",
     pl: "kruchaweczkowate"
   },
@@ -680,6 +681,13 @@ export const TAXA = {
     rank: "genus"
   },
   Lactifluus: {
+    rank: "genus"
+  },
+  Clavariaceae: {
+    rank: "family",
+    sk: "kyjankovité"
+  },
+  Clavaria: {
     rank: "genus"
   }
 };

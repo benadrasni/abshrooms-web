@@ -83040,5 +83040,1301 @@ export const CATALOG = [
       "Agaricus testaceus Pers.",
       "Lactarius testaceus (Pers.) Guég."
     ]
+  },
+  {
+    id: 101,
+    name: "Clavaria zollingeri",
+    author: "Lév.",
+    family: "Clavariaceae",
+    genus: "Clavaria",
+    order: "Agaricales",
+    edibility: "inedible",
+    hymenium: "smooth",
+    where: ["grass", "ground"],
+    color: ["purple"],
+    path: [
+      "Fungi",
+      "Dikarya",
+      "Basidiomycota",
+      "Agaricomycotina",
+      "Agaricomycetes",
+      "Agaricomycetidae",
+      "Agaricales",
+      "Clavariaceae",
+      "Clavaria"
+    ],
+    summary: ["Agaricales", "Clavariaceae", "Clavaria"],
+    added: "2026-11-03",
+    plate: STORAGE + "photos/Agaricales/Clavariaceae/Clavaria_zollingeri/Clavaria_zollingeri@1600.webp",
+    plateGrid: STORAGE + "photos/Agaricales/Clavariaceae/Clavaria_zollingeri/Clavaria_zollingeri@400.webp",
+    plateCredit: {
+      author: "Gemini",
+      license: "not stated"
+    },
+    photos: [
+      {
+        src: STORAGE + "photos/Agaricales/Clavariaceae/Clavaria_zollingeri/cz1.webp",
+        author: "Mikael Niku",
+        license: "CC BY 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Clavaria_zollingeri_92439210.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Clavariaceae/Clavaria_zollingeri/cz2.webp",
+        author: "Cowirrie",
+        license: "CC0",
+        licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/",
+        source: "https://commons.wikimedia.org/wiki/File:Clavaria_zollingeri_196446954.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Clavariaceae/Clavaria_zollingeri/cz3.webp",
+        author: "John Bjarne Jordal, Biolog J.B. Jordal AS",
+        license: "CC BY 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Clavaria_zollingeri_01.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Clavariaceae/Clavaria_zollingeri/cz4.webp",
+        author: "Serge-Étienne Parent",
+        license: "CC0",
+        licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/",
+        source: "https://commons.wikimedia.org/wiki/File:Clavaria_zollingeri_303985892.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Clavariaceae/Clavaria_zollingeri/cz5.webp",
+        author: "Dawn Nelson",
+        license: "CC BY 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Clavaria_zollingeri_304288279.jpg"
+      },
+      {
+        src: STORAGE + "photos/Agaricales/Clavariaceae/Clavaria_zollingeri/cz6.webp",
+        author: "Jay Sturner from USA",
+        license: "CC BY 2.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/2.0",
+        source: "https://commons.wikimedia.org/wiki/File:Clavaria_zollingeri_in_East_Woods_of_the_Morton_Arboretum_-_Flickr_-_Jay_Sturner.jpg"
+      }
+    ],
+    capFrom: 4,
+    capTo: 7,
+    fruitingFrom: 8,
+    fruitingTo: 10,
+    label: {
+      en: "violet coral",
+      sk: "kyjačik zollingerov",
+      bg: "бледокафява клавария",
+      zh: "堇紫珊瑚菌",
+      hr: "zollingerova kijača",
+      cs: "kyjanka zollingerova",
+      da: "purpurkøllesvamp",
+      nl: "amethistknotszwam",
+      et: "lilla tõlvik",
+      fi: "violettihaarakas",
+      fr: "clavaire violette",
+      de: "Amethystfarbene Wiesenkoralle",
+      ja: "ムラサキホウキタケ",
+      ko: "자주싸리국수버섯",
+      lv: "lavandas vālene",
+      no: "fiolett greinkøllesopp",
+      fa: "مرجان بنفش",
+      pl: "goździeniec fioletowy",
+      ru: "клавария бледно-бурая",
+      sv: "violett fingersvamp"
+    },
+    names: {
+      en: ["violet coral fungus", "violaceous fairy club"],
+      cs: ["kuřátko zollingerovo"],
+      da: ["purpur-køllesvamp"],
+      nl: ["ametistknotszwam"],
+      fr: ["clavaire de Zollinger"],
+      de: ["Amethystfarbiges Keulchen", "Zollingers Korallenpilz", "Violette Keule"],
+      sv: ["ametistfingersvamp"]
+    },
+    text: {
+      en: {
+        description: "A small, brittle coral fungus that forms tufts of slender, repeatedly forked branches in violet to amethyst, fading to pinkish lilac with age. The branch tips are rounded and often turn brownish. It grows on the ground in nutrient-poor grassland and in woodland litter, from late summer to autumn.",
+        cap: "The fruit body has no cap. It is a tuft 4–7 cm wide and up to 10 cm tall, made of cylindrical, solid branches 2–6 mm thick that fork several times at U-shaped or V-shaped angles. The surface is smooth and dry. The colour is violet to amethyst, sometimes shaded with red or brown, and it fades to pink or greyish with age and on drying. The tips are usually rounded and soon turn brownish.",
+        hymenium: "The spore-bearing surface is smooth and covers the outside of the branches. There are no gills, pores or teeth.",
+        stipe: "There is no distinct stem. The branches rise in a tuft from a short, whitish to greyish base, and the branching starts close to the ground.",
+        flesh: "The flesh is thin, brittle and the same colour as the surface. The smell is slight or absent, and the taste is mild, sometimes faintly like radish. It does not change colour with iron salts.",
+        sporePrint: "White. The spores are smooth, colourless, nearly round to broadly elliptical, about 4–7 × 3–5 μm, with one large oil droplet. The basidia are four-spored.",
+        habitat: "It grows singly, in groups or in tufts on the ground. In Europe it is found mostly in nutrient-poor, unfertilised grassland, and sometimes in ash woods and blackthorn scrub. In North America it is found mostly in broadleaved woods, among moss and leaf litter. It fruits from August to October. It is widespread but uncommon, and it declines where grassland is farmed intensively or fertilised.",
+        uses: "Edibility is not established. Some sources report the brittle fruit bodies as edible in small amounts, with little culinary value and a possible laxative effect; others call them inedible, and most give no information on the contents. It is better left where it grows, as the species is rare and declining.",
+        confusion: "Clavulina amethystina has almost the same colour and shape and is separated reliably only under the microscope, by its two-spored basidia. Alloclavaria purpurea has few or no branches and a duller purple. Clavulina amethystinoides is dull lilac to tan and so densely branched that it looks toothed. Ramariopsis pulchella is smaller, rarely over 3 cm, clearly stalked, and its flesh turns green to blackish-green with iron(II) sulfate. Violet species of Ramaria, such as Ramaria fumigata, have an ochre spore print.",
+        notes: "Assessed as Vulnerable (VU) worldwide by the IUCN in 2019, and listed in the red lists of several European countries. The name has been applied to a group of related violet corals. A 2025 revision found that the type specimen, from Java, is a different fungus, now placed in Clavulinopsis. The violet corals of Europe and North America are now named Clavaria amethystina and Clavaria violaceopulchra."
+      },
+      sk: {
+        description: "Malá krehká koralovitá huba, ktorá tvorí trsy tenkých, opakovane vidlicovito rozvetvených vetvičiek fialovej až ametystovej farby, ktoré s vekom blednú do ružovkastej lila. Konce vetvičiek sú zaoblené a často hnednú. Rastie na zemi na živinami chudobných lúkach a v lesnej hrabanke od konca leta do jesene.",
+        cap: "Plodnica nemá klobúk. Je to trs široký 4–7 cm a vysoký až 10 cm, zložený z valcovitých, plných vetvičiek hrubých 2–6 mm, ktoré sa viackrát vidlicovito delia v uhloch tvaru U alebo V. Povrch je hladký a suchý. Farba je fialová až ametystová, niekedy s červeným alebo hnedým nádychom, a s vekom i po vysušení bledne do ružova alebo sivasta. Konce sú väčšinou zaoblené a čoskoro hnednú.",
+        hymenium: "Výtrusorodá vrstva je hladká a pokrýva vonkajšiu stranu vetvičiek. Lupene, rúrky ani ostne nie sú.",
+        stipe: "Zreteľný hlúbik chýba. Vetvičky vyrastajú v trse z krátkej, belavej až sivastej bázy a vetvenie sa začína tesne nad zemou.",
+        flesh: "Dužina je tenká, krehká a rovnakej farby ako povrch. Vôňa je slabá alebo žiadna a chuť je jemná, niekedy slabo redkovkovitá. So železitými soľami nemení farbu.",
+        sporePrint: "Biely. Výtrusy sú hladké, bezfarebné, takmer guľovité až široko elipsoidné, asi 4–7 × 3–5 μm, s jednou veľkou olejovou kvapkou. Bazídie sú štvorvýtrusné.",
+        habitat: "Rastie jednotlivo, v skupinách alebo v trsoch na zemi. V Európe sa nachádza najmä na živinami chudobných, nehnojených lúkach a občas v jaseňových lesoch a v tŕnkových krovinách. V Severnej Amerike sa nachádza najmä v listnatých lesoch, medzi machom a opadom listov. Plodí od augusta do októbra. Je rozšírená, no nie častá, a ubúda tam, kde sa trávnaté porasty intenzívne obhospodarujú alebo hnoja.",
+        uses: "Jedlosť nie je overená. Niektoré zdroje uvádzajú krehké plodnice ako jedlé v malom množstve, s malou kulinárskou hodnotou a možným preháňacím účinkom, iné ich pokladajú za nejedlé a väčšina neuvádza nič o ich zložení. Lepšie je nechať ju tam, kde rastie, pretože druh je vzácny a ustupuje.",
+        confusion: "Clavulina amethystina má takmer rovnakú farbu a tvar a spoľahlivo sa odlíši až pod mikroskopom podľa bazídií s dvoma výtrusmi. Alloclavaria purpurea má málo vetiev alebo žiadne a je matnejšie fialová. Clavulina amethystinoides je matne lila až hnedastá a je tak husto rozvetvená, že vyzerá ostnato. Ramariopsis pulchella je menšia, zriedka vyššia ako 3 cm, zreteľne stopkatá a jej dužina sa so síranom železnatým sfarbí na zeleno až čiernozeleno. Fialové druhy rodu Ramaria, napríklad Ramaria fumigata, majú okrový výtrusný prach.",
+        notes: "Svetová organizácia IUCN ju v roku 2019 zaradila medzi zraniteľné druhy (VU) a je uvedená v červených zoznamoch viacerých európskych krajín. Názov sa používal pre skupinu príbuzných fialových koralovitých húb. Revízia z roku 2025 zistila, že typový exemplár z Jávy je iná huba, ktorá sa dnes zaraďuje do rodu Clavulinopsis. Fialové koralovité huby Európy a Severnej Ameriky sa dnes nazývajú Clavaria amethystina a Clavaria violaceopulchra."
+      },
+      ar: {
+        description: "فطر مرجاني صغير هش يكوّن حزمًا من الأغصان الرفيعة المتفرعة مرارًا بلون بنفسجي إلى أرجواني جمشتي، ويبهت مع التقدم في العمر إلى بنفسجي وردي. أطراف الأغصان مستديرة وتميل غالبًا إلى البني. ينمو على الأرض في المروج الفقيرة بالمغذيات وفي فرشة الغابات، من أواخر الصيف حتى الخريف.",
+        cap: "لا توجد قبعة للجسم الثمري؛ فهو حزمة عرضها ٤–٧ سم وارتفاعها حتى ١٠ سم، تتكوّن من أغصان أسطوانية مصمتة سمكها ٢–٦ مم تتفرع عدة مرات بزوايا على شكل U أو V. السطح أملس وجاف. اللون بنفسجي إلى جمشتي، وقد يميل أحيانًا إلى الأحمر أو البني، ويبهت إلى الوردي أو الرمادي مع التقدم في العمر وعند الجفاف. الأطراف مستديرة غالبًا وتتحول سريعًا إلى البني.",
+        hymenium: "السطح الحامل للأبواغ أملس ويغطي الجانب الخارجي للأغصان. لا توجد صفائح ولا مسام ولا أسنان.",
+        stipe: "لا يوجد ساق واضح. تنبثق الأغصان في حزمة من قاعدة قصيرة بيضاء إلى رمادية، ويبدأ التفرع قريبًا من الأرض.",
+        flesh: "اللحم رقيق هش ولونه كلون السطح. الرائحة خفيفة أو معدومة والطعم معتدل، وأحيانًا يشبه الفجل قليلًا. لا يتغير لونه مع أملاح الحديد.",
+        sporePrint: "أبيض. الأبواغ ملساء عديمة اللون، شبه كروية إلى بيضاوية عريضة، قياسها نحو ٤–٧ × ٣–٥ ميكرومتر، وفيها قطرة زيت كبيرة واحدة. البازيديات رباعية الأبواغ.",
+        habitat: "ينمو منفردًا أو في مجموعات أو في حزم على الأرض. في أوروبا يوجد غالبًا في المروج الفقيرة بالمغذيات غير المسمَّدة، وأحيانًا في غابات المران وأدغال البرقوق الشوكي. في أمريكا الشمالية يوجد غالبًا في الغابات عريضة الأوراق بين الطحالب وفرشة الأوراق. يثمر من أغسطس إلى أكتوبر. واسع الانتشار لكنه غير شائع، ويتراجع حيث تُستغل المروج بكثافة أو تُسمَّد.",
+        uses: "لم تثبت صلاحيته للأكل. تذكر بعض المصادر أن الأجسام الثمرية الهشة صالحة للأكل بكميات قليلة وقيمتها الغذائية ضئيلة وقد تكون ملينة، وتعدّها مصادر أخرى غير صالحة للأكل، وأغلبها لا يقدّم معلومات عن مكوناتها. الأفضل تركه حيث ينمو لأن النوع نادر ومتراجع.",
+        confusion: "Clavulina amethystina تكاد تطابقه في اللون والشكل ولا تُميَّز عنه بثقة إلا بالمجهر من خلال بازيدياتها ثنائية الأبواغ. Alloclavaria purpurea قليلة التفرع أو غير متفرعة ولونها بنفسجي أكثر خفوتًا. Clavulina amethystinoides لونها بنفسجي باهت إلى بني فاتح وتفرعها كثيف حتى تبدو مسننة. Ramariopsis pulchella أصغر ونادرًا ما يزيد ارتفاعها على ٣ سم ولها ساق واضحة، ويتحول لحمها إلى الأخضر ثم الأخضر المسود مع كبريتات الحديد الثنائي. أنواع جنس Ramaria البنفسجية، مثل Ramaria fumigata، لها بصمة أبواغ بلون الأوكر.",
+        notes: "صُنّف عالميًا ضمن الأنواع المعرّضة للخطر (VU) لدى الاتحاد الدولي لحفظ الطبيعة عام ٢٠١٩، وهو مدرج في القوائم الحمراء لعدة دول أوروبية. استُخدم الاسم لمجموعة من الفطور المرجانية البنفسجية القريبة. وجدت مراجعة عام ٢٠٢٥ أن العينة النمطية من جاوة فطر مختلف يُنقل الآن إلى جنس Clavulinopsis. أما الفطور المرجانية البنفسجية في أوروبا وأمريكا الشمالية فتُسمى الآن Clavaria amethystina و Clavaria violaceopulchra."
+      },
+      bg: {
+        description: "Малка чуплива коралоподобна гъба, която образува снопчета от тънки, многократно разклонени клонки с виолетов до аметистов цвят, избледняващ с възрастта до розовеникаво лилав. Върховете на клонките са закръглени и често покафеняват. Расте по земята на бедни на хранителни вещества ливади и в горската шума от края на лятото до есента.",
+        cap: "Плодното тяло няма шапка. То е снопче с ширина 4–7 cm и височина до 10 cm, съставено от цилиндрични, плътни клонки с дебелина 2–6 mm, които се разклоняват няколко пъти под U-образни или V-образни ъгли. Повърхността е гладка и суха. Цветът е виолетов до аметистов, понякога с червеникав или кафяв оттенък, а с възрастта и при изсъхване избледнява до розов или сивкав. Върховете обикновено са закръглени и бързо покафеняват.",
+        hymenium: "Спороносният слой е гладък и покрива външната страна на клонките. Няма пластинки, тръбички или шипове.",
+        stipe: "Няма ясно изразен крак. Клонките излизат на снопче от къса, белезникава до сивкава основа, а разклоняването започва близо до земята.",
+        flesh: "Месото е тънко, чупливо и със същия цвят като повърхността. Миризмата е слаба или липсва, а вкусът е мек, понякога леко наподобява репичка. С железни соли не променя цвета си.",
+        sporePrint: "Бял. Спорите са гладки, безцветни, почти кръгли до широко елипсовидни, около 4–7 × 3–5 μm, с една голяма маслена капка. Базидиите са четириспорови.",
+        habitat: "Расте единично, на групи или на снопчета по земята. В Европа се среща най-често по бедни на хранителни вещества, ненаторявани ливади, а понякога в ясенови гори и храсталаци от трънка. В Северна Америка се среща най-често в широколистни гори, сред мъх и окапали листа. Плодоносва от август до октомври. Разпространена е, но не е честа, и намалява там, където тревните площи се обработват интензивно или се наторяват.",
+        uses: "Ядливостта не е установена. Някои източници посочват, че чупливите плодни тела са ядливи в малки количества, с малка кулинарна стойност и възможно слабително действие, други ги смятат за неядливи, а повечето не дават сведения за състава им. По-добре е да се остави там, където расте, защото видът е рядък и намалява.",
+        confusion: "Clavulina amethystina е почти със същия цвят и форма и надеждно се различава само под микроскоп по базидиите с две спори. Alloclavaria purpurea има малко клонки или няма и е по-матово лилава. Clavulina amethystinoides е матово лилава до кафеникава и е толкова гъсто разклонена, че изглежда назъбена. Ramariopsis pulchella е по-малка, рядко по-висока от 3 cm, с ясно изразен крак, а месото ѝ със железен(II) сулфат става зелено до черновато зелено. Виолетовите видове от род Ramaria, например Ramaria fumigata, имат охрист спорен прах.",
+        notes: "Международният съюз за опазване на природата (IUCN) я е оценил през 2019 г. като уязвим вид (VU), а видът е включен в червените списъци на няколко европейски държави. Името е прилагано за група сродни виолетови коралоподобни гъби. Ревизия от 2025 г. установява, че типовият образец от Ява е друга гъба, която днес се отнася към род Clavulinopsis. Виолетовите коралоподобни гъби от Европа и Северна Америка днес се наричат Clavaria amethystina и Clavaria violaceopulchra."
+      },
+      zh: {
+        description: "一種小型易碎的珊瑚狀真菌，形成由細長、多次分叉的枝條組成的簇，顏色從紫羅蘭色到紫水晶色，隨年齡增長褪為淡粉紫色。枝端圓鈍，常變為褐色。生長在貧瘠的草地和林地落葉層的地面上，從夏末到秋季。",
+        cap: "子實體沒有菌蓋，呈寬4–7厘米、高可達10厘米的簇狀，由圓柱形、實心的枝條組成，枝條粗2–6毫米，多次呈U形或V形分叉。表面光滑乾燥。顏色從紫羅蘭色到紫水晶色，有時帶紅色或褐色調，隨年齡增長和乾燥而褪為粉紅色或灰色。枝端通常圓鈍，很快變褐。",
+        hymenium: "產孢面光滑，覆蓋枝條外表面。沒有菌褶、菌管或菌刺。",
+        stipe: "沒有明顯的菌柄。枝條從短而白色至灰色的基部成簇生出，分枝從靠近地面處開始。",
+        flesh: "肉薄而脆，顏色與表面相同。氣味微弱或無，味道溫和，有時略似蘿蔔。遇鐵鹽不變色。",
+        sporePrint: "白色。孢子光滑，無色，近球形至寬橢圓形，約4–7 × 3–5 μm，含一個大油滴。擔子為四孢。",
+        habitat: "單生、群生或簇生於地面。在歐洲多見於貧瘠、未施肥的草地，有時見於白蠟樹林和黑刺李灌叢；在北美洲多見於闊葉林的苔蘚和落葉層中。8月至10月結實。分布廣但不常見，在草地被集約利用或施肥的地方減少。",
+        uses: "可食性尚未確定。有些資料報告這種脆弱的子實體少量可食，烹飪價值不高，可能有輕瀉作用；另一些資料稱其不可食，多數資料沒有說明其成分。由於該物種稀少且在減少，最好讓它留在原地。",
+        confusion: "Clavulina amethystina 的顏色和形狀幾乎相同，只有在顯微鏡下根據其二孢擔子才能可靠區分。Alloclavaria purpurea 分枝很少或不分枝，紫色較暗淡。Clavulina amethystinoides 呈暗淡的淡紫色至黃褐色，分枝極密，看起來像有齒。Ramariopsis pulchella 較小，很少超過3厘米，有明顯的柄，肉遇硫酸亞鐵變綠至黑綠色。紫色的枝瑚菌屬種類，例如 Ramaria fumigata，孢子印為赭色。",
+        notes: "2019年被世界自然保護聯盟評為易危（Vulnerable，VU），並被列入歐洲多個國家的紅色名錄。這個名稱曾被用於一組相近的紫色珊瑚菌。2025年的修訂發現，產自爪哇的模式標本是另一種真菌，現歸入 Clavulinopsis 屬。歐洲和北美洲的紫色珊瑚菌現在稱為 Clavaria amethystina 和 Clavaria violaceopulchra。"
+      },
+      hr: {
+        description: "Mala, lomljiva koraljasta gljiva koja tvori čuperke tankih, višekratno račvastih ogranaka ljubičaste do ametistne boje, koji s godinama blijede u ružičastolila. Vrhovi ogranaka su zaobljeni i često posmeđe. Raste na tlu na livadama siromašnim hranjivima i u šumskoj stelji od kasnog ljeta do jeseni.",
+        cap: "Plodno tijelo nema klobuk. To je čuperak širok 4–7 cm i visok do 10 cm, sastavljen od valjkastih, punih ogranaka debljine 2–6 mm koji se više puta račvaju u kutovima u obliku slova U ili V. Površina je glatka i suha. Boja je ljubičasta do ametistna, katkad s crvenkastim ili smeđim tonom, a starenjem i sušenjem blijedi u ružičastu ili sivkastu. Vrhovi su obično zaobljeni i brzo posmeđe.",
+        hymenium: "Plodni sloj je gladak i prekriva vanjsku površinu ogranaka. Nema listića, cjevčica ni bodlji.",
+        stipe: "Nema jasno izraženoga stručka. Ogranci niču u čupercima iz kratke, bjelkaste do sivkaste baze, a račvanje počinje blizu tla.",
+        flesh: "Meso je tanko, lomljivo i iste boje kao površina. Miris je slab ili ga nema, a okus je blag, ponekad lagano poput rotkvice. Sa željeznim solima ne mijenja boju.",
+        sporePrint: "Bijeli. Spore su glatke, bezbojne, gotovo okrugle do široko elipsoidne, oko 4–7 × 3–5 μm, s jednom velikom uljnom kapljicom. Bazidije su četverosporne.",
+        habitat: "Raste pojedinačno, u skupinama ili čupercima na tlu. U Europi se najčešće nalazi na livadama siromašnim hranjivima koje se ne gnoje, a ponekad u jasenovim šumama i trnovitim šikarama. U Sjevernoj Americi se najčešće nalazi u listopadnim šumama, među mahovinom i listincem. Plodi od kolovoza do listopada. Rasprostranjena je, ali nije česta, a nestaje ondje gdje se travnjaci intenzivno obrađuju ili gnoje.",
+        uses: "Jestivost nije utvrđena. Neki izvori navode da su lomljiva plodna tijela jestiva u malim količinama, male kulinarske vrijednosti i s mogućim laksativnim učinkom, dok ih drugi smatraju nejestivima, a većina ne daje podatke o sastavu. Bolje ju je ostaviti ondje gdje raste jer je vrsta rijetka i u opadanju.",
+        confusion: "Clavulina amethystina gotovo je jednake boje i oblika, a pouzdano se razlikuje samo mikroskopom, po bazidijama s dvije spore. Alloclavaria purpurea ima malo ogranaka ili ih nema i mutnije je ljubičasta. Clavulina amethystinoides je mutnoljubičasta do smeđkasta i tako gusto razgranata da izgleda kao da ima zube. Ramariopsis pulchella manja je, rijetko viša od 3 cm, jasno ima stručak, a njezino meso sa željezovim(II) sulfatom postaje zeleno do crnozeleno. Ljubičaste vrste roda Ramaria, primjerice Ramaria fumigata, imaju oker otisak spora.",
+        notes: "Međunarodna unija za očuvanje prirode (IUCN) procijenila ju je 2019. kao ranjivu (VU), a nalazi se i na crvenim popisima nekoliko europskih zemalja. Naziv se primjenjivao na skupinu srodnih ljubičastih koraljnih gljiva. Revizija iz 2025. pokazala je da je tipski primjerak s Jave druga gljiva, koja se sada svrstava u rod Clavulinopsis. Ljubičaste koraljne gljive Europe i Sjeverne Amerike sada se zovu Clavaria amethystina i Clavaria violaceopulchra."
+      },
+      cs: {
+        description: "Malá křehká korálovitá houba, která tvoří chomáčky tenkých, opakovaně vidličnatě rozvětvených větviček fialové až ametystové barvy, jež s věkem blednou do narůžovělé lila. Konce větviček jsou zaoblené a často hnědnou. Roste na zemi na loukách chudých na živiny a v lesní hrabance od konce léta do podzimu.",
+        cap: "Plodnice nemá klobouk. Je to chomáč široký 4–7 cm a vysoký až 10 cm, složený z válcovitých, plných větviček silných 2–6 mm, které se několikrát vidličnatě dělí v úhlech tvaru U nebo V. Povrch je hladký a suchý. Barva je fialová až ametystová, někdy s červeným nebo hnědým nádechem, a s věkem i po vysušení bledne do růžova nebo našedlá. Konce jsou obvykle zaoblené a brzy hnědnou.",
+        hymenium: "Výtrusorodá vrstva je hladká a pokrývá vnější stranu větviček. Lupeny, rourky ani ostny chybějí.",
+        stipe: "Výrazný třeň chybí. Větvičky vyrůstají v chomáči z krátké, bělavé až našedlé báze a větvení začíná těsně nad zemí.",
+        flesh: "Dužina je tenká, křehká a stejné barvy jako povrch. Vůně je slabá nebo žádná a chuť je jemná, někdy slabě ředkvičková. Se železitými solemi nemění barvu.",
+        sporePrint: "Bílý. Výtrusy jsou hladké, bezbarvé, téměř kulovité až široce elipsoidní, asi 4–7 × 3–5 μm, s jednou velkou olejovou kapkou. Bazidie jsou čtyřvýtrusné.",
+        habitat: "Roste jednotlivě, ve skupinách nebo v chomáčích na zemi. V Evropě se vyskytuje hlavně na loukách chudých na živiny, které se nehnojí, a někdy v jasanových lesích a trnkových křovinách. V Severní Americe se vyskytuje hlavně v listnatých lesích, mezi mechem a opadem. Plodí od srpna do října. Je rozšířená, ale nepříliš častá, a ubývá tam, kde se louky intenzivně obhospodařují nebo hnojí.",
+        uses: "Jedlost není prokázána. Některé zdroje uvádějí křehké plodnice jako jedlé v malém množství, s malou kuchyňskou hodnotou a možným projímavým účinkem, jiné je pokládají za nejedlé a většina o jejich složení nic neuvádí. Lépe je nechat ji tam, kde roste, protože druh je vzácný a ustupuje.",
+        confusion: "Clavulina amethystina má téměř stejnou barvu i tvar a spolehlivě se odliší jen pod mikroskopem podle bazidií se dvěma výtrusy. Alloclavaria purpurea má málo větví nebo žádné a je matněji fialová. Clavulina amethystinoides je matně lila až hnědavá a je tak hustě větvená, že vypadá ostnitě. Ramariopsis pulchella je menší, jen zřídka vyšší než 3 cm, zřetelně stopkatá a její dužina se se síranem železnatým zbarví zeleně až černozeleně. Fialové druhy rodu Ramaria, například Ramaria fumigata, mají okrový výtrusný prach.",
+        notes: "Mezinárodní svaz ochrany přírody (IUCN) ji v roce 2019 zařadil mezi zranitelné druhy (VU) a je uvedena v červených seznamech několika evropských zemí. Název se používal pro skupinu příbuzných fialových korálovitých hub. Revize z roku 2025 zjistila, že typový exemplář z Jávy je jiná houba, která se dnes řadí do rodu Clavulinopsis. Fialové korálovité houby Evropy a Severní Ameriky se dnes nazývají Clavaria amethystina a Clavaria violaceopulchra."
+      },
+      da: {
+        description: "En lille, skør koralsvamp, der danner tuer af tynde, gentagne gange forgrenede grene i violet til ametystfarvet, som med alderen blegner til lyserødlilla. Grenspidserne er afrundede og bliver ofte brunlige. Den vokser på jorden på næringsfattige græsarealer og i skovbunden fra sensommer til efterår.",
+        cap: "Frugtlegemet har ingen hat. Det er en tue, 4–7 cm bred og op til 10 cm høj, bygget af cylindriske, massive grene på 2–6 mm tykkelse, som forgrener sig flere gange i U- eller V-formede vinkler. Overfladen er glat og tør. Farven er violet til ametystfarvet, nogle gange med et rødligt eller brunligt skær, og den blegner til lyserød eller grålig med alderen og ved tørring. Spidserne er som regel afrundede og bliver snart brunlige.",
+        hymenium: "Sporelaget er glat og dækker grenenes yderside. Der er hverken lameller, rør eller pigge.",
+        stipe: "Der er ingen tydelig stok. Grenene vokser i en tue fra en kort, hvidlig til grålig base, og forgreningen begynder tæt ved jorden.",
+        flesh: "Kødet er tyndt, skørt og har samme farve som overfladen. Lugten er svag eller mangler, og smagen er mild, undertiden svagt som radise. Det skifter ikke farve med jernsalte.",
+        sporePrint: "Hvidt. Sporerne er glatte, farveløse, næsten runde til bredt ellipsoide, ca. 4–7 × 3–5 μm, med én stor oliedråbe. Basidierne er firesporede.",
+        habitat: "Den vokser enkeltvis, i grupper eller i tuer på jorden. I Europa findes den mest på næringsfattige, ugødede græsarealer og indimellem i askeskove og slåenkrat. I Nordamerika findes den mest i løvskov, mellem mos og løv. Den frugter fra august til oktober. Den er udbredt, men ikke almindelig, og går tilbage, hvor græsarealer drives intensivt eller gødskes.",
+        uses: "Spiseligheden er ikke fastslået. Nogle kilder opgiver de skøre frugtlegemer som spiselige i små mængder, med ringe kulinarisk værdi og en mulig afførende virkning, andre kalder dem uspiselige, og de fleste oplyser intet om indholdet. Den bør hellere blive stående, hvor den vokser, da arten er sjælden og i tilbagegang.",
+        confusion: "Clavulina amethystina har næsten samme farve og form og kan kun sikkert adskilles under mikroskop på sine basidier med to sporer. Alloclavaria purpurea har få eller ingen grene og en mattere violet farve. Clavulina amethystinoides er mat lilla til lysebrun og så tæt forgrenet, at den ser pigget ud. Ramariopsis pulchella er mindre, sjældent over 3 cm, tydeligt stokket, og dens kød bliver grønt til sortgrønt med jern(II)sulfat. Violette arter af slægten Ramaria, for eksempel Ramaria fumigata, har okkergult sporeaftryk.",
+        notes: "Vurderet som sårbar (VU) på verdensplan af IUCN i 2019 og opført på de røde lister i flere europæiske lande. Navnet er blevet brugt om en gruppe beslægtede violette koralsvampe. En revision fra 2025 viste, at typeeksemplaret fra Java er en anden svamp, som nu hører til slægten Clavulinopsis. De violette koralsvampe i Europa og Nordamerika hedder nu Clavaria amethystina og Clavaria violaceopulchra."
+      },
+      nl: {
+        description: "Een kleine, broze koraalzwam die pollen vormt van dunne, herhaaldelijk vertakte takjes in violet tot amethistkleur, die met de leeftijd verbleken tot roze-lila. De uiteinden van de takjes zijn afgerond en worden vaak bruinig. Hij groeit op de grond in voedselarme graslanden en in de strooisellaag van bossen, van de late zomer tot in de herfst.",
+        cap: "Het vruchtlichaam heeft geen hoed. Het is een pol van 4–7 cm breed en tot 10 cm hoog, opgebouwd uit cilindrische, massieve takjes van 2–6 mm dik die zich meermaals vertakken in U- of V-vormige hoeken. Het oppervlak is glad en droog. De kleur is violet tot amethistkleurig, soms met een rode of bruine zweem, en verbleekt met de leeftijd en bij uitdrogen tot roze of grijzig. De uiteinden zijn meestal afgerond en worden snel bruinig.",
+        hymenium: "Het sporenvormende oppervlak is glad en bedekt de buitenkant van de takjes. Er zijn geen lamellen, buisjes of stekels.",
+        stipe: "Er is geen duidelijke steel. De takjes ontspringen in een pol uit een korte, witachtige tot grijsachtige basis, en de vertakking begint dicht bij de grond.",
+        flesh: "Het vlees is dun, broos en heeft dezelfde kleur als het oppervlak. De geur is zwak of afwezig en de smaak is mild, soms licht radijsachtig. Met ijzerzouten verandert het niet van kleur.",
+        sporePrint: "Wit. De sporen zijn glad, kleurloos, bijna rond tot breed elliptisch, ongeveer 4–7 × 3–5 μm, met één grote oliedruppel. De basidiën zijn viersporig.",
+        habitat: "Hij groeit solitair, in groepen of in pollen op de grond. In Europa wordt hij vooral gevonden in voedselarme, onbemeste graslanden en soms in essenbossen en sleedoornstruwelen. In Noord-Amerika wordt hij vooral gevonden in loofbos, tussen mos en bladstrooisel. Hij vormt vruchtlichamen van augustus tot oktober. Hij is wijdverbreid maar niet algemeen en gaat achteruit waar graslanden intensief worden gebruikt of bemest.",
+        uses: "De eetbaarheid is niet vastgesteld. Sommige bronnen noemen de broze vruchtlichamen in kleine hoeveelheden eetbaar, met weinig culinaire waarde en een mogelijk laxerende werking; andere noemen ze oneetbaar, en de meeste geven geen informatie over de inhoudsstoffen. Hij kan beter blijven staan waar hij groeit, want de soort is zeldzaam en gaat achteruit.",
+        confusion: "Clavulina amethystina heeft vrijwel dezelfde kleur en vorm en is alleen onder de microscoop betrouwbaar te onderscheiden, aan de basidiën met twee sporen. Alloclavaria purpurea heeft weinig of geen takken en een doffer paars. Clavulina amethystinoides is dof lila tot bruinachtig en zo dicht vertakt dat ze getand lijkt. Ramariopsis pulchella is kleiner, zelden hoger dan 3 cm, duidelijk gesteeld, en haar vlees wordt groen tot zwartgroen met ijzer(II)sulfaat. Violette soorten van het geslacht Ramaria, zoals Ramaria fumigata, hebben een okerkleurige sporenprint.",
+        notes: "Door de IUCN in 2019 wereldwijd beoordeeld als kwetsbaar (VU) en opgenomen op de rode lijsten van meerdere Europese landen. De naam is gebruikt voor een groep verwante violette koraalzwammen. Een revisie uit 2025 toonde aan dat het typeexemplaar, afkomstig uit Java, een andere zwam is die nu bij het geslacht Clavulinopsis wordt ondergebracht. De violette koraalzwammen van Europa en Noord-Amerika heten nu Clavaria amethystina en Clavaria violaceopulchra."
+      },
+      et: {
+        description: "Väike habras korallseen, mis moodustab kimpe õhukestest, korduvalt harunevatest violetsetest kuni ametüstvärvi okstest, mis vananedes luitavad roosakaslillaks. Okste tipud on ümarad ja muutuvad sageli pruunikaks. Kasvab maapinnal toitainetevaestel niitudel ja metsakõdus suve lõpust sügiseni.",
+        cap: "Viljakehal pole kübarat. See on 4–7 cm lai ja kuni 10 cm kõrge kimp, mis koosneb silindrilistest, tahketest okstest paksusega 2–6 mm ja mis harunevad mitu korda U- või V-kujuliste nurkadega. Pind on sile ja kuiv. Värvus on violetne kuni ametüstjas, vahel punaka või pruunika varjundiga, ning vananedes ja kuivades luitub roosaks või halliks. Tipud on tavaliselt ümarad ja muutuvad peagi pruunikaks.",
+        hymenium: "Eoseid kandev pind on sile ja katab okste välispinda. Lehekesi, torukesi ega okkaid ei ole.",
+        stipe: "Selget jalga ei ole. Oksad kasvavad kimbuna lühikesest valkjast kuni hallikast alusest ja harunemine algab maapinna lähedalt.",
+        flesh: "Viljaliha on õhuke, habras ja pinnaga sama värvi. Lõhn on nõrk või puudub ning maitse on pehme, mõnikord kergelt redisele sarnane. Rauasooladega ei muuda värvi.",
+        sporePrint: "Valge. Eosed on siledad, värvuseta, peaaegu ümmargused kuni laialt ellipsoidsed, umbes 4–7 × 3–5 μm, ühe suure õlitilgaga. Basiidid on neljaeoselised.",
+        habitat: "Kasvab üksikult, rühmadena või kimpudena maapinnal. Euroopas leidub teda peamiselt toitainetevaestel väetamata rohumaadel ning vahel saarmetsades ja põõsastikes. Põhja-Ameerikas leidub teda peamiselt lehtmetsades, sammalde ja lehekõdu seas. Viljub augustist oktoobrini. On laialt levinud, kuid mitte tavaline, ning kahaneb seal, kus rohumaid kasutatakse intensiivselt või väetatakse.",
+        uses: "Söödavus ei ole kindlaks tehtud. Mõnede allikate andmetel on habrad viljakehad väikestes kogustes söödavad, vähese toiduväärtusega ja võimaliku lahtistava toimega, teised peavad neid mittesöödavaks ning enamik ei anna nende koostise kohta teavet. Parem on jätta ta sinna, kus ta kasvab, sest liik on haruldane ja kahanemas.",
+        confusion: "Clavulina amethystina on peaaegu sama värvi ja kujuga ning teda saab usaldusväärselt eristada vaid mikroskoobi all kahe eosega basiidide järgi. Alloclavaria purpurea on vähe harunenud või harunemata ja tuhmimalt lilla. Clavulina amethystinoides on tuhm lilla kuni pruunikas ja nii tihedalt harunenud, et näib hambuline. Ramariopsis pulchella on väiksem, harva üle 3 cm, selgelt jalaga ning tema liha muutub raud(II)sulfaadiga roheliseks kuni mustjasroheliseks. Perekonna Ramaria violetsetel liikidel, näiteks Ramaria fumigata, on ookerjas eosepulber.",
+        notes: "IUCN hindas ta 2019. aastal ülemaailmselt ohualdiks (VU) ja ta on kantud mitme Euroopa riigi punastesse nimekirjadesse. Nime on kasutatud seotud violetsete korallseente rühma kohta. 2025. aasta revisjon näitas, et Jaava tüüpeksemplar on teine seen, mis paigutatakse nüüd perekonda Clavulinopsis. Euroopa ja Põhja-Ameerika violetsed korallseened kannavad nüüd nimesid Clavaria amethystina ja Clavaria violaceopulchra."
+      },
+      fi: {
+        description: "Pieni, hauras korallisieni, joka muodostaa tuppaita ohuista, toistuvasti haarautuvista violeteista tai ametistinvärisistä oksista, jotka haalistuvat iän myötä vaaleanpunertavan liilaksi. Oksien kärjet ovat pyöreät ja ruskehtuvat usein. Se kasvaa maassa ravinneköyhillä niityillä ja metsän karikkeessa loppukesästä syksyyn.",
+        cap: "Itiöemällä ei ole hattua. Se on 4–7 cm leveä ja enintään 10 cm korkea tupas, joka koostuu lieriömäisistä, umpinaisista, 2–6 mm paksuista oksista, jotka haarautuvat useita kertoja U:n tai V:n muotoisin kulmin. Pinta on sileä ja kuiva. Väri on violetti tai ametistinvärinen, joskus punertavan tai ruskehtavan sävyinen, ja se haalistuu iän myötä ja kuivuessaan vaaleanpunaiseksi tai harmahtavaksi. Kärjet ovat yleensä pyöreät ja ruskehtuvat pian.",
+        hymenium: "Itiöitä tuottava pinta on sileä ja peittää oksien ulkopinnan. Lamelleja, putkia tai piikkejä ei ole.",
+        stipe: "Selvää jalkaa ei ole. Oksat nousevat tupaksena lyhyestä, valkoisesta tai harmahtavasta tyvestä, ja haarautuminen alkaa lähellä maata.",
+        flesh: "Lihaosa on ohut, hauras ja samanvärinen kuin pinta. Haju on heikko tai puuttuu, ja maku on lempeä, joskus hieman retiisimäinen. Rautasuoloilla se ei muuta väriä.",
+        sporePrint: "Valkoinen. Itiöt ovat sileitä, värittömiä, lähes pyöreitä tai leveästi ellipsoidisia, noin 4–7 × 3–5 μm, ja niissä on yksi suuri öljypisara. Basidit ovat nelitiöisiä.",
+        habitat: "Kasvaa yksittäin, ryhmissä tai tuppaina maassa. Euroopassa sitä tavataan etenkin ravinneköyhillä, lannoittamattomilla niityillä ja joskus saarnimetsissä ja pensaikoissa. Pohjois-Amerikassa sitä tavataan etenkin lehtimetsissä, sammalen ja lehtikarikkeen joukossa. Itiöemät kehittyvät elokuusta lokakuuhun. Laji on laajalle levinnyt mutta ei yleinen, ja se taantuu, kun niittyjä viljellään tehokkaasti tai lannoitetaan.",
+        uses: "Syötävyyttä ei ole varmistettu. Joidenkin lähteiden mukaan hauraat itiöemät ovat syötäviä pieninä määrinä, niiden ruokailuarvo on vähäinen ja ne voivat olla ulostuttavia; toiset pitävät niitä syömäkelvottomina, ja useimmat eivät kerro niiden sisällöstä mitään. On parempi jättää se kasvupaikalleen, sillä laji on harvinainen ja taantuva.",
+        confusion: "Clavulina amethystina on lähes samanvärinen ja -muotoinen, ja sen erottaa varmasti vain mikroskoopilla kaksitiöisistä basideista. Alloclavaria purpurea on vähän haarautunut tai haarautumaton ja himmeämmän violetti. Clavulina amethystinoides on himmeän liila tai ruskehtava ja niin tiheästi haarautunut, että se näyttää piikkiseltä. Ramariopsis pulchella on pienempi, harvoin yli 3 cm, selvästi jalallinen, ja sen liha muuttuu rauta(II)sulfaatilla vihreäksi tai mustanvihreäksi. Ramaria-suvun violeteilla lajeilla, kuten Ramaria fumigata, itiöjauhe on okranvärinen.",
+        notes: "IUCN arvioi lajin vuonna 2019 maailmanlaajuisesti vaarantuneeksi (VU), ja se on useiden Euroopan maiden punaisilla listoilla. Nimeä on käytetty ryhmästä toisiinsa liittyviä violetteja korallisieniä. Vuoden 2025 tarkistus osoitti, että Jaavalta peräisin oleva tyyppinäyte on eri sieni, joka kuuluu nykyisin sukuun Clavulinopsis. Euroopan ja Pohjois-Amerikan violetit korallisienet tunnetaan nykyisin nimillä Clavaria amethystina ja Clavaria violaceopulchra."
+      },
+      fr: {
+        description: "Un petit champignon corallomorphe cassant, qui forme des touffes de rameaux fins, plusieurs fois fourchus, de couleur violette à améthyste, pâlissant avec l'âge en lilas rosé. Les extrémités des rameaux sont arrondies et brunissent souvent. Il pousse sur le sol dans les prairies pauvres en nutriments et dans la litière des bois, de la fin de l'été à l'automne.",
+        cap: "Le carpophore n'a pas de chapeau. C'est une touffe large de 4–7 cm et haute jusqu'à 10 cm, formée de rameaux cylindriques, pleins, épais de 2–6 mm, qui se divisent plusieurs fois en angles en U ou en V. La surface est lisse et sèche. La couleur va du violet à l'améthyste, parfois nuancée de rouge ou de brun, et pâlit en rose ou en grisâtre avec l'âge et au séchage. Les extrémités sont le plus souvent arrondies et brunissent vite.",
+        hymenium: "L'hyménium est lisse et couvre la face externe des rameaux. Il n'y a ni lames, ni tubes, ni aiguillons.",
+        stipe: "Il n'y a pas de pied distinct. Les rameaux partent en touffe d'une base courte, blanchâtre à grisâtre, et la ramification commence près du sol.",
+        flesh: "La chair est mince, cassante et de la même couleur que la surface. L'odeur est faible ou nulle et la saveur est douce, parfois légèrement de radis. Elle ne change pas de couleur avec les sels de fer.",
+        sporePrint: "Sporée blanche. Les spores sont lisses, incolores, presque rondes à largement elliptiques, d'environ 4–7 × 3–5 μm, avec une grosse goutte d'huile. Les basides sont tétrasporiques.",
+        habitat: "Il pousse isolé, en groupes ou en touffes sur le sol. En Europe, on le trouve surtout dans les prairies maigres non fertilisées, parfois dans les frênaies et les fourrés de prunellier. En Amérique du Nord, on le trouve surtout dans les bois de feuillus, parmi les mousses et la litière de feuilles. Il fructifie d'août à octobre. Il est répandu mais peu commun, et il régresse là où les prairies sont exploitées de façon intensive ou fertilisées.",
+        uses: "La comestibilité n'est pas établie. Certaines sources indiquent que les carpophores cassants sont comestibles en petite quantité, de faible valeur culinaire et peut-être laxatifs ; d'autres les disent non comestibles, et la plupart ne donnent aucune information sur leur composition. Il vaut mieux le laisser où il pousse, car l'espèce est rare et en déclin.",
+        confusion: "Clavulina amethystina a presque la même couleur et la même forme et ne se distingue de façon sûre qu'au microscope, par ses basides à deux spores. Alloclavaria purpurea a peu de rameaux ou aucun et un violet plus terne. Clavulina amethystinoides est d'un lilas terne à brunâtre et si densément ramifiée qu'elle paraît dentée. Ramariopsis pulchella est plus petite, rarement haute de plus de 3 cm, nettement pédicellée, et sa chair devient verte à vert noirâtre avec le sulfate de fer(II). Les espèces violettes du genre Ramaria, comme Ramaria fumigata, ont une sporée ocre.",
+        notes: "Évaluée comme vulnérable (VU) à l'échelle mondiale par l'UICN en 2019 et inscrite sur les listes rouges de plusieurs pays européens. Le nom a été appliqué à un groupe de clavaires violettes apparentées. Une révision de 2025 a montré que le spécimen type, originaire de Java, est un autre champignon, aujourd'hui placé dans le genre Clavulinopsis. Les clavaires violettes d'Europe et d'Amérique du Nord s'appellent désormais Clavaria amethystina et Clavaria violaceopulchra."
+      },
+      de: {
+        description: "Ein kleiner, spröder Korallenpilz, der Büschel aus dünnen, mehrfach gegabelten Ästen in Violett bis Amethyst bildet, die mit dem Alter zu rosigem Lila verblassen. Die Astspitzen sind gerundet und werden oft bräunlich. Er wächst auf dem Boden nährstoffarmer Wiesen und in der Waldstreu, von Spätsommer bis Herbst.",
+        cap: "Der Fruchtkörper hat keinen Hut. Er ist ein 4–7 cm breiter und bis zu 10 cm hoher Büschel aus zylindrischen, vollen Ästen von 2–6 mm Dicke, die sich mehrfach in U- oder V-förmigen Winkeln gabeln. Die Oberfläche ist glatt und trocken. Die Farbe reicht von Violett bis Amethyst, manchmal mit rötlichem oder bräunlichem Hauch, und verblasst mit dem Alter und beim Trocknen zu Rosa oder Gräulich. Die Spitzen sind meist gerundet und werden bald bräunlich.",
+        hymenium: "Die sporentragende Schicht ist glatt und bedeckt die Außenseite der Äste. Es gibt keine Lamellen, Röhren oder Stacheln.",
+        stipe: "Ein abgesetzter Stiel fehlt. Die Äste entspringen büschelig einer kurzen, weißlichen bis grauen Basis, und die Verzweigung beginnt dicht über dem Boden.",
+        flesh: "Das Fleisch ist dünn, spröde und gleichfarbig wie die Oberfläche. Der Geruch ist schwach oder fehlt, der Geschmack mild, manchmal leicht rettichartig. Mit Eisensalzen verfärbt es sich nicht.",
+        sporePrint: "Weiß. Die Sporen sind glatt, farblos, fast rund bis breit elliptisch, etwa 4–7 × 3–5 μm, mit einem großen Öltropfen. Die Basidien sind viersporig.",
+        habitat: "Er wächst einzeln, in Gruppen oder in Büscheln am Boden. In Europa findet man ihn vor allem auf nährstoffarmen, ungedüngten Wiesen, manchmal in Eschenwäldern und Schlehengebüschen. In Nordamerika findet man ihn vor allem in Laubwäldern, zwischen Moos und Falllaub. Er fruchtet von August bis Oktober. Er ist weit verbreitet, aber nicht häufig und geht dort zurück, wo Grünland intensiv bewirtschaftet oder gedüngt wird.",
+        uses: "Die Essbarkeit ist nicht geklärt. Einige Quellen nennen die spröden Fruchtkörper in kleinen Mengen essbar, von geringem Speisewert und möglicherweise abführend; andere halten sie für ungenießbar, und die meisten machen keine Angaben zu den Inhaltsstoffen. Er bleibt besser stehen, denn die Art ist selten und rückläufig.",
+        confusion: "Clavulina amethystina hat fast dieselbe Farbe und Form und ist nur unter dem Mikroskop sicher an den zweisporigen Basidien zu unterscheiden. Alloclavaria purpurea hat wenige oder keine Äste und ein matteres Violett. Clavulina amethystinoides ist mattlila bis bräunlich und so dicht verzweigt, dass sie gezähnt wirkt. Ramariopsis pulchella ist kleiner, selten über 3 cm hoch, deutlich gestielt, und ihr Fleisch wird mit Eisen(II)-sulfat grün bis schwarzgrün. Violette Arten der Gattung Ramaria, etwa Ramaria fumigata, haben ein ockerfarbenes Sporenpulver.",
+        notes: "Von der IUCN 2019 weltweit als gefährdet (VU) eingestuft und in den Roten Listen mehrerer europäischer Länder geführt. Pilz des Jahres 2025 in Deutschland. Der Name wurde auf eine Gruppe verwandter violetter Korallenpilze angewandt. Eine Revision von 2025 ergab, dass das Typusexemplar aus Java ein anderer Pilz ist, der heute in die Gattung Clavulinopsis gestellt wird. Die violetten Korallenpilze Europas und Nordamerikas heißen heute Clavaria amethystina und Clavaria violaceopulchra."
+      },
+      he: {
+        description: "פטרייה אלמוגית קטנה ושברירית, היוצרת קבוצות של ענפים דקים המסתעפים שוב ושוב בצבע סגול עד אמטיסט, המחוויר עם הגיל לסגול־ורדרד. קצות הענפים מעוגלים ולעיתים קרובות הופכים חומים. היא גדלה על הקרקע באחו דל בחומרי הזנה ובשכבת העלים בחורש, מסוף הקיץ ועד הסתיו.",
+        cap: "לגוף הפרי אין כובע. זו קבוצה ברוחב 4–7 ס״מ ובגובה של עד 10 ס״מ, המורכבת מענפים גלילים ומלאים בעובי 2–6 מ״מ, המסתעפים כמה פעמים בזוויות בצורת U או V. פני השטח חלקים ויבשים. הצבע סגול עד אמטיסט, לעיתים עם גוון אדמדם או חום, ועם הגיל ובעת ייבוש הוא מחוויר לוורוד או לאפרפר. הקצוות מעוגלים בדרך כלל והופכים במהרה חומים.",
+        hymenium: "שכבת הנבגים חלקה ומכסה את הצד החיצוני של הענפים. אין למלות, צינוריות או קוצים.",
+        stipe: "אין רגל נפרדת. הענפים עולים בקבוצה מבסיס קצר, לבנבן עד אפרפר, וההסתעפות מתחילה קרוב לקרקע.",
+        flesh: "הבשר דק, שברירי ובצבע זהה לפני השטח. הריח חלש או חסר והטעם עדין, לעיתים מעט כמו צנון. הוא אינו משנה צבע במגע עם מלחי ברזל.",
+        sporePrint: "לבן. הנבגים חלקים, חסרי צבע, כמעט עגולים עד אליפטיים רחבים, בגודל כ־4–7 × 3–5 מיקרומטר, עם טיפת שמן גדולה אחת. הבסיסידיות בעלות ארבעה נבגים.",
+        habitat: "גדלה בודדת, בקבוצות או בצרורות על הקרקע. באירופה היא נמצאת בעיקר באחו דל בחומרי הזנה ולא מדושן, ולעיתים ביערות ובסבך שיחים. בצפון אמריקה היא נמצאת בעיקר ביערות עצי עלים רחבים, בין טחבים לשכבת עלים נושרים. היא נושאת פרי מאוגוסט עד אוקטובר. היא נפוצה אך לא שכיחה, ומצטמצמת במקומות שבהם האחו מנוצל בעצימות או מדושן.",
+        uses: "אכילותה לא נקבעה. מקורות אחדים מציינים שגופי הפרי השבריריים אכילים בכמות קטנה, בעלי ערך קולינרי נמוך ועם השפעה משלשלת אפשרית; אחרים מגדירים אותם כבלתי אכילים, ורוב המקורות אינם מוסרים מידע על הרכבם. עדיף להשאיר אותה במקום גידולה, שכן המין נדיר ומצטמצם.",
+        confusion: "Clavulina amethystina דומה כמעט לגמרי בצבע ובצורה, ואפשר להבדיל בינה לבין הפטרייה הזו בביטחון רק במיקרוסקופ, לפי בסיסידיות בעלות שני נבגים. Alloclavaria purpurea כמעט אינה מסתעפת או שאינה מסתעפת כלל, וסגולה עמומה יותר. Clavulina amethystinoides סגולה עמומה עד חומה ומסועפת בצפיפות כזו שהיא נראית משוננת. Ramariopsis pulchella קטנה יותר, לעיתים רחוקות גבוהה מ־3 ס״מ, בעלת רגל ברורה, והבשר שלה הופך לירוק עד ירוק־שחור במגע עם ברזל גופרתי. מיני הסוג Ramaria הסגולים, כגון Ramaria fumigata, בעלי אבקת נבגים בגוון אוקר.",
+        notes: "הוערכה על ידי ה־IUCN בשנת 2019 כפגיעה (VU) בעולם כולו, והיא רשומה ברשימות האדומות של כמה מדינות באירופה. השם שימש לקבוצה של פטריות אלמוגיות סגולות קרובות. עדכון מ־2025 מצא שדגימת הטיפוס מג'אווה היא פטרייה אחרת, ששויכה כיום לסוג Clavulinopsis. הפטריות האלמוגיות הסגולות של אירופה וצפון אמריקה נקראות כיום Clavaria amethystina ו־Clavaria violaceopulchra."
+      },
+      hi: {
+        description: "एक छोटी, भंगुर प्रवाल कवक, जो बैंगनी से ऐमेथिस्ट रंग की पतली, बार-बार शाखित शाखाओं के गुच्छे बनाती है और उम्र के साथ गुलाबी-बैंगनी रंग में फीकी पड़ जाती है। शाखाओं के सिरे गोल होते हैं और अक्सर भूरे पड़ जाते हैं। यह पोषक तत्वों की कमी वाले घास के मैदानों और जंगल की पत्ती-परत में ज़मीन पर, गर्मियों के अंत से शरद ऋतु तक उगती है।",
+        cap: "फलन-काय में छतरी नहीं होती। यह 4–7 सेमी चौड़ा और 10 सेमी तक ऊँचा गुच्छा है, जो 2–6 मिमी मोटी बेलनाकार, ठोस शाखाओं से बना होता है; ये शाखाएँ U या V आकार के कोणों पर कई बार विभाजित होती हैं। सतह चिकनी और सूखी होती है। रंग बैंगनी से ऐमेथिस्ट होता है, कभी-कभी लालिमा या भूरेपन की छाया के साथ, और उम्र बढ़ने तथा सूखने पर गुलाबी या धूसर पड़ जाता है। सिरे प्रायः गोल होते हैं और जल्दी भूरे पड़ जाते हैं।",
+        hymenium: "बीजाणु धारण करने वाली सतह चिकनी होती है और शाखाओं के बाहरी भाग को ढकती है। इसमें गिल, छिद्र या काँटे नहीं होते।",
+        stipe: "कोई अलग डंठल नहीं होता। शाखाएँ एक छोटे, सफ़ेदी से धूसर आधार से गुच्छे में उठती हैं, और शाखन ज़मीन के पास से शुरू हो जाता है।",
+        flesh: "गूदा पतला, भंगुर और सतह के रंग का होता है। गंध हल्की या अनुपस्थित होती है और स्वाद मृदु, कभी-कभी हल्का मूली जैसा। लौह लवणों से इसका रंग नहीं बदलता।",
+        sporePrint: "सफ़ेद। बीजाणु चिकने, रंगहीन, लगभग गोल से चौड़े दीर्घवृत्ताकार, लगभग 4–7 × 3–5 μm के होते हैं, जिनमें एक बड़ी तेल की बूँद होती है। बेसिडिया चार-बीजाणु वाले होते हैं।",
+        habitat: "यह अकेले, समूहों में या गुच्छों में ज़मीन पर उगती है। यूरोप में यह मुख्यतः पोषक तत्वों की कमी वाले, बिना खाद वाले घास के मैदानों में मिलती है, और कभी-कभी जंगलों तथा झाड़ियों में। उत्तरी अमेरिका में यह मुख्यतः चौड़ी पत्ती वाले जंगलों में काई और झरी पत्तियों के बीच मिलती है। यह अगस्त से अक्तूबर तक फलती है। यह व्यापक रूप से फैली है पर आम नहीं है, और जहाँ घास के मैदानों में गहन खेती या खाद का उपयोग होता है वहाँ घटती जाती है।",
+        uses: "इसकी खाद्यता सिद्ध नहीं है। कुछ स्रोतों के अनुसार भंगुर फलन-काय थोड़ी मात्रा में खाने योग्य हैं, पाक-मूल्य कम है और रेचक प्रभाव संभव है; अन्य इन्हें अखाद्य मानते हैं, और अधिकांश इनके घटकों के बारे में कुछ नहीं बताते। इसे वहीं छोड़ देना बेहतर है जहाँ यह उगती है, क्योंकि यह प्रजाति दुर्लभ है और घट रही है।",
+        confusion: "Clavulina amethystina रंग और आकार में लगभग एक जैसी है और केवल सूक्ष्मदर्शी में दो-बीजाणु वाले बेसिडिया से भरोसेमंद रूप से अलग पहचानी जाती है। Alloclavaria purpurea में शाखाएँ कम या नहीं होतीं और बैंगनी रंग अधिक फीका होता है। Clavulina amethystinoides फीकी लिलाक से भूरी-सी होती है और इतनी घनी शाखित होती है कि दंतुर लगती है। Ramariopsis pulchella छोटी होती है, शायद ही 3 सेमी से ऊँची, स्पष्ट डंठल वाली, और इसका गूदा आयरन(II) सल्फेट से हरा से काला-हरा हो जाता है। Ramaria वंश की बैंगनी प्रजातियों, जैसे Ramaria fumigata, का बीजाणु-छाप गेरुआ होता है।",
+        notes: "IUCN ने 2019 में इसे विश्व स्तर पर संवेदनशील (VU) आँका, और यह कई यूरोपीय देशों की लाल सूचियों में दर्ज है। यह नाम संबंधित बैंगनी प्रवाल कवकों के एक समूह के लिए प्रयोग होता रहा है। 2025 के एक पुनरीक्षण में पाया गया कि जावा का प्रारूप नमूना एक भिन्न कवक है, जो अब Clavulinopsis वंश में रखा जाता है। यूरोप और उत्तरी अमेरिका की बैंगनी प्रवाल कवकें अब Clavaria amethystina और Clavaria violaceopulchra कहलाती हैं।"
+      },
+      hu: {
+        description: "Kis termetű, törékeny korallgomba, amely vékony, többszörösen elágazó, ibolyaszínű és ametisztszínű ágakból álló csomókat alkot, melyek idősen rózsás lilába halványodnak. Az ágak csúcsa lekerekített, és gyakran megbarnul. Tápanyagszegény gyepeken és az erdei avarban nő a talajon, nyár végétől őszig.",
+        cap: "A termőtestnek nincs kalapja. 4–7 cm széles és legfeljebb 10 cm magas csomó, amely 2–6 mm vastag, hengeres, tömör ágakból áll, melyek U vagy V alakú szögekben többször elágaznak. A felszíne sima és száraz. A színe ibolyától ametisztig terjed, olykor vöröses vagy barnás árnyalattal, és korral, valamint száradáskor rózsaszínűre vagy szürkésre halványodik. A csúcsok többnyire lekerekítettek, és hamar megbarnulnak.",
+        hymenium: "A spórahordó felület sima, és az ágak külső oldalát fedi. Nincsenek lemezek, csövek vagy tüskék.",
+        stipe: "Külön tönk nincs. Az ágak csomóban emelkednek ki egy rövid, fehéres-szürkés tövi részből, és az elágazás közel a talajhoz kezdődik.",
+        flesh: "A húsa vékony, törékeny, és a felszínnel azonos színű. A szaga gyenge vagy hiányzik, az íze enyhe, olykor kissé retekszerű. Vassókkal nem változtat színt.",
+        sporePrint: "Fehér. A spórák simák, színtelenek, majdnem gömbölyűtől szélesen elliptikusig, körülbelül 4–7 × 3–5 μm méretűek, egy nagy olajcseppel. A bazídiumok négyspórásak.",
+        habitat: "Egyesével, csoportosan vagy csomókban nő a talajon. Európában főleg tápanyagszegény, trágyázatlan gyepeken él, olykor kőrisligetekben és kökénybokrokban. Észak-Amerikában főleg lombos erdőkben található, moha és falevélavar között. Augusztustól októberig terem. Széles körben elterjedt, de nem gyakori, és ott fogy, ahol a gyepeket intenzíven művelik vagy trágyázzák.",
+        uses: "Ehetősége nem tisztázott. Egyes források szerint a törékeny termőtestek kis mennyiségben ehetők, kevés konyhai értékűek és esetleg hashajtó hatásúak; mások ehetetlennek tartják őket, és a legtöbb forrás nem közöl semmit az összetételükről. Jobb ott hagyni, ahol nő, mert a faj ritka és fogyóban van.",
+        confusion: "A Clavulina amethystina színe és alakja szinte azonos, és csak mikroszkóppal, a kétspórás bazídiumok alapján különböztethető meg biztosan. Az Alloclavaria purpurea alig vagy egyáltalán nem ágazik el, és fakóbb lila. A Clavulina amethystinoides fakó lilától barnásig terjed, és annyira sűrűn elágazó, hogy fogazottnak látszik. A Ramariopsis pulchella kisebb, ritkán magasabb 3 cm-nél, jól láthatóan nyeles, és a húsa vas(II)-szulfáttól zöldre, feketészöldre változik. A Ramaria nemzetség ibolyaszínű fajainak, például a Ramaria fumigata, okkersárga a spórapora.",
+        notes: "Az IUCN 2019-ben világszerte sebezhetőnek (VU) minősítette, és több európai ország vörös listáján szerepel. A nevet egymással rokon ibolyaszínű korallgombák egy csoportjára használták. Egy 2025-ös revízió kimutatta, hogy a jávai típuspéldány más gomba, amelyet ma a Clavulinopsis nemzetségbe sorolnak. Európa és Észak-Amerika ibolyaszínű korallgombáit ma Clavaria amethystina és Clavaria violaceopulchra néven ismerjük."
+      },
+      id: {
+        description: "Jamur karang kecil yang rapuh, membentuk rumpun cabang-cabang ramping yang bercabang berulang kali berwarna ungu hingga ungu ametis, memudar menjadi lilac kemerahan seiring usia. Ujung cabangnya membulat dan sering menjadi kecokelatan. Tumbuh di tanah pada padang rumput miskin hara dan di serasah hutan, dari akhir musim panas hingga musim gugur.",
+        cap: "Tubuh buah tidak memiliki tudung. Bentuknya rumpun selebar 4–7 cm dan setinggi hingga 10 cm, tersusun dari cabang-cabang silindris yang padat dengan tebal 2–6 mm, yang bercabang beberapa kali dengan sudut berbentuk U atau V. Permukaannya halus dan kering. Warnanya ungu hingga ungu ametis, kadang dengan semburat merah atau cokelat, dan memudar menjadi merah muda atau keabu-abuan seiring usia dan saat mengering. Ujungnya biasanya membulat dan segera menjadi kecokelatan.",
+        hymenium: "Permukaan penghasil spora halus dan menutupi sisi luar cabang. Tidak ada bilah, pori, maupun duri.",
+        stipe: "Tidak ada tangkai yang jelas. Cabang-cabang muncul berumpun dari pangkal pendek berwarna keputihan hingga keabu-abuan, dan percabangan dimulai dekat tanah.",
+        flesh: "Dagingnya tipis, rapuh, dan berwarna sama dengan permukaan. Baunya lemah atau tidak ada, rasanya lembut, kadang sedikit seperti lobak. Tidak berubah warna dengan garam besi.",
+        sporePrint: "Putih. Spora halus, tak berwarna, hampir bulat hingga lonjong lebar, sekitar 4–7 × 3–5 μm, dengan satu tetes minyak besar. Basidianya berspora empat.",
+        habitat: "Tumbuh sendiri, berkelompok, atau berumpun di tanah. Di Eropa terutama ditemukan di padang rumput miskin hara yang tidak dipupuk, dan kadang di hutan serta semak belukar. Di Amerika Utara terutama ditemukan di hutan berdaun lebar, di antara lumut dan serasah daun. Berbuah dari Agustus hingga Oktober. Tersebar luas tetapi tidak umum, dan berkurang di tempat padang rumput dikelola secara intensif atau dipupuk.",
+        uses: "Kelayakan makannya belum dipastikan. Beberapa sumber menyebut tubuh buah yang rapuh ini dapat dimakan dalam jumlah kecil, bernilai kuliner rendah, dan mungkin bersifat pencahar; sumber lain menyebutnya tidak dapat dimakan, dan sebagian besar tidak memberi keterangan tentang kandungannya. Sebaiknya dibiarkan di tempat tumbuhnya, karena jenis ini langka dan menurun.",
+        confusion: "Clavulina amethystina hampir sama dalam warna dan bentuk, dan hanya dapat dibedakan dengan pasti di bawah mikroskop, dari basidia berspora dua. Alloclavaria purpurea bercabang sedikit atau tidak sama sekali dan berwarna ungu lebih kusam. Clavulina amethystinoides berwarna lilac kusam hingga kecokelatan dan bercabang begitu rapat sehingga tampak bergigi. Ramariopsis pulchella lebih kecil, jarang lebih tinggi dari 3 cm, jelas bertangkai, dan dagingnya menjadi hijau hingga hijau kehitaman dengan besi(II) sulfat. Jenis-jenis ungu dari marga Ramaria, seperti Ramaria fumigata, memiliki cetakan spora berwarna oker.",
+        notes: "Dinilai Rentan (VU) secara global oleh IUCN pada 2019 dan tercantum dalam daftar merah beberapa negara Eropa. Nama ini pernah dipakai untuk sekelompok jamur karang ungu yang berkerabat. Revisi tahun 2025 menemukan bahwa spesimen tipe dari Jawa adalah jamur lain, yang kini ditempatkan dalam marga Clavulinopsis. Jamur karang ungu dari Eropa dan Amerika Utara kini bernama Clavaria amethystina dan Clavaria violaceopulchra."
+      },
+      it: {
+        description: "Un piccolo fungo corallo fragile, che forma ciuffi di rami sottili, ripetutamente biforcati, di colore da violetto ad ametista, che con l'età sbiadiscono in lilla rosato. Le punte dei rami sono arrotondate e spesso diventano brunastre. Cresce sul terreno nei prati poveri di nutrienti e nella lettiera dei boschi, dalla fine dell'estate all'autunno.",
+        cap: "Il carpoforo non ha cappello. È un ciuffo largo 4–7 cm e alto fino a 10 cm, formato da rami cilindrici, pieni, spessi 2–6 mm, che si biforcano più volte ad angoli a U o a V. La superficie è liscia e asciutta. Il colore va dal violetto all'ametista, a volte con sfumature rossastre o brune, e con l'età e con l'essiccazione sbiadisce in rosa o grigiastro. Le punte sono per lo più arrotondate e presto diventano brunastre.",
+        hymenium: "L'imenio è liscio e ricopre la parte esterna dei rami. Non ci sono lamelle, tubuli né aculei.",
+        stipe: "Non c'è un gambo distinto. I rami si alzano a ciuffo da una base corta, biancastra o grigiastra, e la ramificazione comincia vicino al suolo.",
+        flesh: "La carne è sottile, fragile e dello stesso colore della superficie. L'odore è debole o assente e il sapore è mite, a volte vagamente di ravanello. Non cambia colore con i sali di ferro.",
+        sporePrint: "Bianca. Le spore sono lisce, incolori, quasi rotonde o largamente ellittiche, di circa 4–7 × 3–5 μm, con una grossa goccia oleosa. I basidi sono tetrasporici.",
+        habitat: "Cresce isolato, in gruppi o in ciuffi sul terreno. In Europa si trova soprattutto nei prati poveri di nutrienti e non concimati, a volte nei frassineti e nei cespuglieti di prugnolo. In Nord America si trova soprattutto nei boschi di latifoglie, tra muschio e lettiera di foglie. Fruttifica da agosto a ottobre. È diffuso ma non comune, e diminuisce dove i prati sono gestiti in modo intensivo o concimati.",
+        uses: "La commestibilità non è accertata. Alcune fonti indicano i carpofori fragili come commestibili in piccola quantità, di scarso valore culinario e forse lassativi; altre li dicono non commestibili, e la maggior parte non fornisce informazioni sulla composizione. È meglio lasciarlo dove cresce, perché la specie è rara e in declino.",
+        confusion: "Clavulina amethystina ha quasi lo stesso colore e la stessa forma e si distingue con sicurezza solo al microscopio, dai basidi con due spore. Alloclavaria purpurea ha pochi rami o nessuno e un viola più opaco. Clavulina amethystinoides è di un lilla opaco fino al brunastro e così fittamente ramificata da sembrare dentata. Ramariopsis pulchella è più piccola, raramente alta più di 3 cm, nettamente peduncolata, e la sua carne diventa verde o verde nerastro con il solfato di ferro(II). Le specie violette del genere Ramaria, come Ramaria fumigata, hanno una sporata ocra.",
+        notes: "Valutata come vulnerabile (VU) a livello mondiale dalla IUCN nel 2019 e inclusa nelle liste rosse di diversi paesi europei. Il nome è stato applicato a un gruppo di clavarie violette affini. Una revisione del 2025 ha mostrato che l'esemplare tipo, proveniente da Giava, è un altro fungo, oggi collocato nel genere Clavulinopsis. Le clavarie violette d'Europa e Nord America si chiamano oggi Clavaria amethystina e Clavaria violaceopulchra."
+      },
+      ja: {
+        description: "小型で脆いサンゴ状のキノコで、紫色からアメジスト色の細い枝が何度も分かれた束をつくり、成熟すると淡い桃紫色に褪せる。枝先は丸く、しばしば褐色になる。栄養に乏しい草地や林内の落葉層の地上に、晩夏から秋にかけて生える。",
+        cap: "子実体に傘はない。幅4–7 cm、高さ10 cmほどまでの束で、太さ2–6 mmの円柱形で中実の枝からなり、枝はU字形やV字形の角度で何度も分かれる。表面は平滑で乾いている。色は紫色からアメジスト色で、赤みや褐色みを帯びることもあり、成熟や乾燥により桃色や灰色を帯びて褪せる。枝先はたいてい丸く、すぐに褐色になる。",
+        hymenium: "子実層は平滑で、枝の外側を覆う。ひだ、管孔、針はない。",
+        stipe: "明確な柄はない。枝は短い白色から灰色の基部から束になって立ち上がり、分岐は地面の近くから始まる。",
+        flesh: "肉は薄くて脆く、表面と同じ色。においは弱いかなく、味は穏やかで、わずかにダイコンのようなこともある。鉄塩では変色しない。",
+        sporePrint: "白色。胞子は平滑で無色、ほぼ球形から広楕円形で、約4–7 × 3–5 μm、大きな油滴を1個含む。担子器は4胞子性。",
+        habitat: "地上に単生、群生、または束になって生える。ヨーロッパでは主に栄養に乏しく施肥されていない草地に見られ、ときに林内や低木林にも生える。北アメリカでは主に広葉樹林のコケや落葉の間に見られる。8月から10月に子実体をつくる。広く分布するが普通ではなく、草地が集約的に利用されたり施肥されたりする場所では減少する。",
+        uses: "食用の可否は確定していない。脆い子実体を少量なら食用とし、料理上の価値は低く、緩下作用があるかもしれないと述べる資料もあれば、食べられないとする資料もあり、成分について触れていない資料が大半である。種が希少で減少しているため、生えている場所に残すのがよい。",
+        confusion: "Clavulina amethystina は色も形もほとんど同じで、確実な区別は顕微鏡で2胞子性の担子器を確かめるしかない。Alloclavaria purpurea は枝がほとんどないか分岐せず、紫色がくすんでいる。Clavulina amethystinoides はくすんだ薄紫色から褐色で、枝が非常に密に分かれ、歯があるように見える。Ramariopsis pulchella は小型で、高さが3 cmを超えることはまれで、柄がはっきりあり、肉は硫酸鉄(II)で緑色から黒緑色になる。Ramaria 属の紫色の種、たとえば Ramaria fumigata の胞子紋は黄土色である。",
+        notes: "2019年にIUCNにより世界的に危急種（VU）と評価され、ヨーロッパの複数の国のレッドリストに掲載されている。この名前は近縁な紫色のサンゴ状キノコの一群に使われてきた。2025年の改訂により、ジャワ島産のタイプ標本は別の菌であり、現在は Clavulinopsis 属に置かれることが分かった。ヨーロッパと北アメリカの紫色のサンゴ状キノコは、現在 Clavaria amethystina と Clavaria violaceopulchra と呼ばれる。"
+      },
+      ko: {
+        description: "작고 잘 부서지는 산호 모양의 버섯으로, 보라색에서 자수정색까지의 가늘고 여러 번 갈라지는 가지가 다발을 이루며, 나이가 들면 분홍빛 연보라색으로 바랜다. 가지 끝은 둥글고 흔히 갈색으로 변한다. 영양분이 적은 풀밭과 숲속 낙엽층의 땅 위에서 늦여름부터 가을까지 자란다.",
+        cap: "자실체에는 갓이 없다. 너비 4–7 cm, 높이 최대 10 cm의 다발로, 굵기 2–6 mm의 원통형이고 속이 찬 가지로 이루어지며, 가지는 U자형이나 V자형 각도로 여러 번 갈라진다. 표면은 매끈하고 건조하다. 색은 보라색에서 자수정색이며 때로 붉거나 갈색 기운이 돌고, 나이가 들거나 마르면 분홍색이나 회색빛으로 바랜다. 끝은 대개 둥글고 곧 갈색으로 변한다.",
+        hymenium: "포자를 만드는 면은 매끈하며 가지의 바깥쪽을 덮는다. 주름살, 관공, 가시는 없다.",
+        stipe: "뚜렷한 자루는 없다. 가지는 짧고 흰색에서 회색빛인 밑부분에서 다발로 솟아나며, 갈라짐은 땅 가까이에서 시작된다.",
+        flesh: "살은 얇고 잘 부서지며 표면과 같은 색이다. 냄새는 약하거나 없고 맛은 순하며 때로 무와 약간 비슷하다. 철염에는 색이 변하지 않는다.",
+        sporePrint: "흰색. 포자는 매끈하고 무색이며 거의 둥근 모양에서 넓은 타원형이고, 약 4–7 × 3–5 μm이며 큰 기름방울이 하나 있다. 담자기는 4포자성이다.",
+        habitat: "땅 위에 홀로, 무리 지어, 또는 다발로 자란다. 유럽에서는 주로 영양분이 적고 비료를 주지 않은 풀밭에서 발견되며, 때로 숲과 덤불에서도 발견된다. 북아메리카에서는 주로 활엽수림의 이끼와 낙엽 사이에서 발견된다. 8월부터 10월까지 자실체를 만든다. 널리 분포하지만 흔하지는 않으며, 풀밭이 집약적으로 이용되거나 비료를 받는 곳에서는 줄어든다.",
+        uses: "식용 여부는 확정되지 않았다. 일부 자료는 잘 부서지는 자실체를 소량이면 먹을 수 있고 요리 가치는 낮으며 설사 효과가 있을 수 있다고 하고, 다른 자료는 먹을 수 없다고 하며, 대부분의 자료는 성분에 대해 아무 정보도 주지 않는다. 이 종은 드물고 감소하고 있으므로 자라는 곳에 그대로 두는 것이 좋다.",
+        confusion: "Clavulina amethystina는 색과 모양이 거의 같으며, 현미경으로 2포자성 담자기를 확인해야만 확실히 구별된다. Alloclavaria purpurea는 가지가 거의 없거나 갈라지지 않으며 보라색이 더 칙칙하다. Clavulina amethystinoides는 칙칙한 연보라색에서 갈색빛이며 가지가 매우 빽빽하게 갈라져 이빨이 있는 것처럼 보인다. Ramariopsis pulchella는 더 작고 높이가 3 cm를 넘는 일이 드물며 자루가 뚜렷하고, 살은 황산철(II)에 녹색에서 검은 녹색으로 변한다. Ramaria 속의 보라색 종, 예를 들어 Ramaria fumigata의 포자 문은 황토색이다.",
+        notes: "2019년 IUCN에서 전 세계적으로 취약종(VU)으로 평가되었으며, 유럽 여러 나라의 적색목록에 올라 있다. 이 이름은 서로 가까운 보라색 산호 모양 버섯 무리에 사용되어 왔다. 2025년의 개정 연구에서 자바에서 채집된 기준 표본은 다른 균류이며 현재 Clavulinopsis 속에 놓인다는 사실이 밝혀졌다. 유럽과 북아메리카의 보라색 산호 모양 버섯은 현재 Clavaria amethystina와 Clavaria violaceopulchra로 불린다."
+      },
+      lv: {
+        description: "Maza, trausla koraļveida sēne, kas veido ķekarus no tievām, atkārtoti dakšveidā sazarotām violetas līdz ametista krāsas zariņām, kuras ar vecumu izbālē līdz rožaini ceriņkrāsai. Zariņu gali ir noapaļoti un bieži kļūst brūnīgi. Aug uz zemes barības vielām nabadzīgās pļavās un meža pakaisā no vasaras beigām līdz rudenim.",
+        cap: "Augļķermenim nav cepures. Tas ir 4–7 cm plats un līdz 10 cm augsts ķekars, kas sastāv no cilindriskiem, pilniem zariem ar 2–6 mm biezumu, kuri vairākkārt dakšveidā sazarojas U vai V veida leņķos. Virsma ir gluda un sausa. Krāsa ir violeta līdz ametista, dažkārt ar sarkanīgu vai brūnīgu nokrāsu, un ar vecumu un žūstot tā izbālē līdz rozā vai pelēkīgai. Gali parasti ir noapaļoti un drīz kļūst brūnīgi.",
+        hymenium: "Sporu nesošā virsma ir gluda un klāj zaru ārpusi. Plātņu, porainā slāņa vai dzeloņu nav.",
+        stipe: "Izteikta kājiņa nav. Zari ķekarā paceļas no īsa, balgana līdz pelēcīga pamata, un zarošanās sākas tuvu zemei.",
+        flesh: "Mīkstums ir plāns, trausls un tādā pašā krāsā kā virsma. Smarža ir vāja vai tās nav, garša ir maiga, dažkārt nedaudz redīsa garša. Ar dzelzs sāļiem krāsu nemaina.",
+        sporePrint: "Balts. Sporas ir gludas, bezkrāsainas, gandrīz apaļas līdz plati elipsoīdas, apmēram 4–7 × 3–5 μm, ar vienu lielu eļļas pilienu. Bazīdijas ir četrsporu.",
+        habitat: "Aug atsevišķi, grupās vai ķekaros uz zemes. Eiropā visbiežāk sastopama barības vielām nabadzīgās, nemēslotās pļavās, dažkārt arī mežos un krūmājos. Ziemeļamerikā visbiežāk sastopama platlapju mežos, starp sūnām un lapu kritalām. Augļķermeņus veido no augusta līdz oktobrim. Ir plaši izplatīta, bet nav bieža, un sarūk tur, kur pļavas intensīvi apsaimnieko vai mēslo.",
+        uses: "Ēdamība nav noskaidrota. Daži avoti min trauslos augļķermeņus kā ēdamus nelielā daudzumā, ar niecīgu kulināro vērtību un iespējamu caurejas līdzekļa iedarbību; citi tos uzskata par neēdamiem, un lielākā daļa nesniedz informāciju par sastāvu. Labāk to atstāt tur, kur tā aug, jo suga ir reta un sarūkoša.",
+        confusion: "Clavulina amethystina ir gandrīz tādā pašā krāsā un formā, un droši to var atšķirt tikai mikroskopā pēc divsporu bazīdijām. Alloclavaria purpurea ir maz zaru vai to nav, un violetā krāsa ir blāvāka. Clavulina amethystinoides ir blāvi ceriņkrāsas līdz brūnīga un tik blīvi sazarota, ka šķiet zobota. Ramariopsis pulchella ir mazāka, reti augstāka par 3 cm, ar skaidri izteiktu kājiņu, un tās mīkstums ar dzelzs(II) sulfātu kļūst zaļš līdz melnzaļš. Ramaria ģints violetajām sugām, piemēram, Ramaria fumigata, sporu nospiedums ir okera krāsā.",
+        notes: "IUCN 2019. gadā novērtējusi kā neaizsargātu (VU) visā pasaulē, un tā ir iekļauta vairāku Eiropas valstu sarkanajos sarakstos. Šo nosaukumu lietoja radniecīgu violeto koraļsēņu grupai. 2025. gada pārskatā noskaidrots, ka tipa paraugs no Javas ir cita sēne, kas tagad tiek ievietota ģintī Clavulinopsis. Eiropas un Ziemeļamerikas violetās koraļsēnes tagad sauc par Clavaria amethystina un Clavaria violaceopulchra."
+      },
+      lt: {
+        description: "Mažas, trapus koralinis grybas, sudarantis kuokštus iš plonų, daug kartų šakotų violetinės iki ametisto spalvos šakelių, su amžiumi išblunkančių iki rausvai alyvinės. Šakelių galiukai užapvalinti ir dažnai parudėja. Auga ant žemės skurdžiose maisto medžiagų pievose ir miško paklotėje nuo vasaros pabaigos iki rudens.",
+        cap: "Vaisiakūnis kepurėlės neturi. Tai 4–7 cm pločio ir iki 10 cm aukščio kuokštas iš cilindrinių, ne tuščiavidurių šakelių, 2–6 mm storio, kurios kelis kartus šakojasi U arba V formos kampais. Paviršius lygus ir sausas. Spalva nuo violetinės iki ametisto, kartais su rausvu ar rusvu atspalviu, o su amžiumi ir džiūstant išblunka iki rausvos ar pilkšvos. Galiukai dažniausiai užapvalinti ir greitai parudėja.",
+        hymenium: "Sporas nešantis paviršius lygus ir dengia šakelių išorę. Lapelių, vamzdelių ar dyglių nėra.",
+        stipe: "Ryškios kojelės nėra. Šakelės kuokštu kyla iš trumpo, balsvo iki pilkšvo pagrindo, o šakojimasis prasideda arti žemės.",
+        flesh: "Mėsa plona, trapi ir tos pačios spalvos kaip paviršius. Kvapas silpnas arba jo nėra, skonis švelnus, kartais šiek tiek primena ridikėlį. Nuo geležies druskų spalvos nekeičia.",
+        sporePrint: "Baltas. Sporos lygios, bespalvės, beveik apvalios iki plačiai elipsiškos, maždaug 4–7 × 3–5 μm, su vienu dideliu aliejaus lašu. Bazidės keturių sporų.",
+        habitat: "Auga pavieniui, grupėmis arba kuokštais ant žemės. Europoje dažniausiai randamas skurdžiose maisto medžiagų, netręštose pievose, kartais ir miškuose bei krūmynuose. Šiaurės Amerikoje dažniausiai randamas plačialapiuose miškuose, tarp samanų ir lapų paklotės. Vaisiakūnius sudaro nuo rugpjūčio iki spalio. Paplitęs plačiai, bet nėra dažnas, ir nyksta ten, kur pievos intensyviai naudojamos ar tręšiamos.",
+        uses: "Valgomumas nenustatytas. Kai kurie šaltiniai nurodo, kad trapūs vaisiakūniai valgomi nedideliais kiekiais, mažos kulinarinės vertės ir galbūt turi laisvinamąjį poveikį; kiti juos laiko nevalgomais, o dauguma jokios informacijos apie sudėtį nepateikia. Geriau jį palikti ten, kur auga, nes rūšis reta ir nyksta.",
+        confusion: "Clavulina amethystina spalva ir forma beveik tokia pati, ir patikimai atskiriama tik mikroskopu, pagal dvisporias bazides. Alloclavaria purpurea turi mažai šakų arba jų neturi, o violetinė spalva blankesnė. Clavulina amethystinoides yra blankiai alyvinė iki rusvos ir taip tankiai šakota, kad atrodo dantyta. Ramariopsis pulchella mažesnė, retai aukštesnė nei 3 cm, su aiškia kojele, o jos mėsa nuo geležies(II) sulfato pažaliuoja iki juodžaliai. Violetinių Ramaria genties rūšių, pavyzdžiui, Ramaria fumigata, sporų atspaudas yra okros spalvos.",
+        notes: "IUCN 2019 m. visame pasaulyje jį įvertino kaip pažeidžiamą (VU), jis įrašytas į kelių Europos šalių raudonuosius sąrašus. Šis pavadinimas buvo taikomas giminingų violetinių koralinių grybų grupei. 2025 m. peržiūra parodė, kad tipinis egzempliorius iš Javos yra kitas grybas, dabar priskiriamas genčiai Clavulinopsis. Europos ir Šiaurės Amerikos violetiniai koraliniai grybai dabar vadinami Clavaria amethystina ir Clavaria violaceopulchra."
+      },
+      no: {
+        description: "En liten, sprø korallsopp som danner tuer av tynne, gjentatte ganger forgrenede greiner i fiolett til ametystfarget, som blekner til rosa lilla med alderen. Grenspissene er avrundede og blir ofte brunaktige. Den vokser på bakken i næringsfattig eng og i skogbunnen fra sensommer til høst.",
+        cap: "Fruktlegemet har ingen hatt. Det er en tue, 4–7 cm bred og opptil 10 cm høy, bygd opp av sylindriske, massive greiner på 2–6 mm tykkelse som forgrener seg flere ganger i U- eller V-formede vinkler. Overflaten er glatt og tørr. Fargen er fiolett til ametystfarget, noen ganger med et rødlig eller brunlig skjær, og den blekner til rosa eller grålig med alderen og ved tørking. Spissene er som regel avrundede og blir snart brunaktige.",
+        hymenium: "Sporelaget er glatt og dekker utsiden av grenene. Det er verken skiver, rør eller pigger.",
+        stipe: "Det er ingen tydelig stilk. Grenene vokser i en tue fra en kort, hvitaktig til grålig base, og forgreningen begynner tett ved bakken.",
+        flesh: "Kjøttet er tynt, sprøtt og har samme farge som overflaten. Lukten er svak eller mangler, og smaken er mild, av og til svakt som reddik. Det skifter ikke farge med jernsalter.",
+        sporePrint: "Hvitt. Sporene er glatte, fargeløse, nesten runde til bredt ellipsoide, omtrent 4–7 × 3–5 μm, med én stor oljedråpe. Basidiene er firesporede.",
+        habitat: "Den vokser enkeltvis, i grupper eller i tuer på bakken. I Europa finnes den mest i næringsfattig, ugjødslet eng og iblant i askeskog og slåpetornkratt. I Nord-Amerika finnes den mest i løvskog, mellom mose og løv. Den fruktifiserer fra august til oktober. Den er utbredt, men ikke vanlig, og går tilbake der enger drives intensivt eller gjødsles.",
+        uses: "Spiseligheten er ikke fastslått. Noen kilder oppgir de sprø fruktlegemene som spiselige i små mengder, med liten kulinarisk verdi og en mulig avførende virkning, andre kaller dem uspiselige, og de fleste gir ingen opplysninger om innholdet. Den bør heller bli stående der den vokser, siden arten er sjelden og i tilbakegang.",
+        confusion: "Clavulina amethystina har nesten samme farge og form og kan bare skilles sikkert under mikroskop på basidiene med to sporer. Alloclavaria purpurea har få eller ingen greiner og en mattere fiolett farge. Clavulina amethystinoides er matt lilla til lysebrun og så tett forgrenet at den ser pigget ut. Ramariopsis pulchella er mindre, sjelden over 3 cm, tydelig stilket, og kjøttet blir grønt til svartgrønt med jern(II)sulfat. Fiolette arter i slekten Ramaria, for eksempel Ramaria fumigata, har okerfarget sporeavtrykk.",
+        notes: "Vurdert som sårbar (VU) på verdensbasis av IUCN i 2019 og oppført på de røde listene i flere europeiske land. Navnet har vært brukt om en gruppe beslektede fiolette korallsopper. En revisjon fra 2025 viste at typeeksemplaret fra Java er en annen sopp, som nå plasseres i slekten Clavulinopsis. De fiolette korallsoppene i Europa og Nord-Amerika heter nå Clavaria amethystina og Clavaria violaceopulchra."
+      },
+      fa: {
+        description: "قارچ مرجانی کوچک و شکننده‌ای که دسته‌هایی از شاخه‌های باریک و چندبار دوشاخه‌شونده به رنگ بنفش تا ارغوانیِ آمتیستی می‌سازد و با افزایش سن به یاسی مایل به صورتی کم‌رنگ می‌شود. نوک شاخه‌ها گرد است و اغلب قهوه‌ای می‌شود. روی زمین، در چمنزارهای فقیر از مواد مغذی و لایه برگ‌های جنگل، از اواخر تابستان تا پاییز می‌روید.",
+        cap: "اندام باردهی کلاهک ندارد. دسته‌ای است به پهنای ۴–۷ سانتی‌متر و ارتفاع تا ۱۰ سانتی‌متر، متشکل از شاخه‌های استوانه‌ای و توپر به ضخامت ۲–۶ میلی‌متر که چند بار با زاویه‌های U یا V شکل دوشاخه می‌شوند. سطح صاف و خشک است. رنگ از بنفش تا آمتیستی است، گاهی با رگه‌ای از قرمز یا قهوه‌ای، و با افزایش سن و خشک‌شدن به صورتی یا خاکستری‌رنگ کم‌رنگ می‌شود. نوک‌ها معمولاً گرد است و زود قهوه‌ای می‌شود.",
+        hymenium: "سطح هاگ‌زا صاف است و بیرون شاخه‌ها را می‌پوشاند. تیغه، لوله یا خار وجود ندارد.",
+        stipe: "ساقه مشخصی وجود ندارد. شاخه‌ها به‌صورت دسته از پایه‌ای کوتاه و سفیدرنگ تا خاکستری بالا می‌آیند و شاخه‌شدن نزدیک زمین آغاز می‌شود.",
+        flesh: "گوشت نازک و شکننده است و همان رنگ سطح را دارد. بو ضعیف است یا وجود ندارد و طعم ملایم است، گاهی کمی شبیه تربچه. با نمک‌های آهن تغییر رنگ نمی‌دهد.",
+        sporePrint: "سفید. هاگ‌ها صاف، بی‌رنگ، تقریباً گرد تا بیضوی پهن، حدود ۴–۷ × ۳–۵ میکرومتر، با یک قطره روغن بزرگ هستند. بازیدی‌ها چهارهاگی‌اند.",
+        habitat: "روی زمین به‌صورت تک‌افتاده، گروهی یا دسته‌ای می‌روید. در اروپا بیشتر در چمنزارهای فقیر و کودنداده و گاهی در جنگل‌ها و بوته‌زارها یافت می‌شود. در آمریکای شمالی بیشتر در جنگل‌های پهن‌برگ، میان خزه و برگ‌های ریخته دیده می‌شود. از اوت تا اکتبر میوه می‌دهد. گسترده است اما رایج نیست و در جاهایی که چمنزارها به‌شدت بهره‌برداری یا کود داده می‌شوند کاهش می‌یابد.",
+        uses: "خوراکی‌بودن آن مشخص نشده است. برخی منابع اندام‌های شکننده را در مقدار کم خوراکی، با ارزش آشپزی اندک و احتمالاً ملین می‌دانند؛ منابع دیگر آن را غیرخوراکی می‌خوانند و بیشتر منابع درباره ترکیبات آن اطلاعاتی نمی‌دهند. بهتر است همان‌جا که می‌روید رها شود، چون این گونه کمیاب و رو‌به‌کاهش است.",
+        confusion: "Clavulina amethystina تقریباً همان رنگ و شکل را دارد و فقط زیر میکروسکوپ از روی بازیدی‌های دوهاگی به‌طور مطمئن تشخیص داده می‌شود. Alloclavaria purpurea شاخه‌های کم دارد یا اصلاً شاخه ندارد و بنفش آن کدرتر است. Clavulina amethystinoides یاسی کدر تا قهوه‌ای‌رنگ است و چنان پرشاخه است که دندانه‌دار به نظر می‌رسد. Ramariopsis pulchella کوچک‌تر است، به‌ندرت از ۳ سانتی‌متر بلندتر می‌شود، ساقه روشن دارد و گوشتش با سولفات آهن(II) سبز تا سبز مایل به سیاه می‌شود. گونه‌های بنفش سرده Ramaria، مانند Ramaria fumigata، هاگ‌ریزی اخرایی‌رنگ دارند.",
+        notes: "اتحادیه جهانی حفاظت از طبیعت (IUCN) در سال ۲۰۱۹ آن را در سطح جهان آسیب‌پذیر (VU) ارزیابی کرد و در فهرست‌های قرمز چند کشور اروپایی آمده است. این نام برای گروهی از قارچ‌های مرجانی بنفش خویشاوند به کار می‌رفته است. بازنگری سال ۲۰۲۵ نشان داد که نمونه نوع از جاوه قارچی دیگر است که اکنون در سرده Clavulinopsis جای می‌گیرد. قارچ‌های مرجانی بنفش اروپا و آمریکای شمالی اکنون Clavaria amethystina و Clavaria violaceopulchra نامیده می‌شوند."
+      },
+      pl: {
+        description: "Mały, kruchy grzyb koralowaty, tworzący kępki cienkich, wielokrotnie rozwidlonych gałązek w kolorze fioletowym do ametystowego, które z wiekiem blakną do różowawego liliowego. Końce gałązek są zaokrąglone i często brunatnieją. Rośnie na ziemi na ubogich w składniki pokarmowe łąkach i w ściółce leśnej, od końca lata do jesieni.",
+        cap: "Owocnik nie ma kapelusza. Jest to kępka szeroka na 4–7 cm i wysoka do 10 cm, złożona z walcowatych, pełnych gałązek grubości 2–6 mm, które kilkakrotnie rozwidlają się pod kątami w kształcie litery U lub V. Powierzchnia jest gładka i sucha. Barwa jest fioletowa do ametystowej, czasem z czerwonawym lub brunatnym odcieniem, a z wiekiem i podczas wysychania blednie do różowej lub szarawej. Końce są zwykle zaokrąglone i szybko brunatnieją.",
+        hymenium: "Hymenofor jest gładki i pokrywa zewnętrzną stronę gałązek. Nie ma blaszek, rurek ani kolców.",
+        stipe: "Wyraźnego trzonu brak. Gałązki wyrastają kępką z krótkiej, białawej do szarawej podstawy, a rozgałęzienie zaczyna się tuż nad ziemią.",
+        flesh: "Miąższ jest cienki, kruchy i ma taką samą barwę jak powierzchnia. Zapach jest słaby lub brak go, smak łagodny, czasem lekko rzodkiewkowy. Nie zmienia barwy pod wpływem soli żelaza.",
+        sporePrint: "Biały. Zarodniki są gładkie, bezbarwne, prawie kuliste do szeroko elipsoidalnych, mają około 4–7 × 3–5 μm i jedną dużą kroplę oleju. Podstawki są czterozarodnikowe.",
+        habitat: "Rośnie pojedynczo, w grupach lub w kępkach na ziemi. W Europie spotyka się go głównie na ubogich w składniki pokarmowe, nienawożonych łąkach, czasem w lasach jesionowych i zaroślach tarniny. W Ameryce Północnej spotyka się go głównie w lasach liściastych, wśród mchu i ściółki liściowej. Owocniki wytwarza od sierpnia do października. Jest szeroko rozmieszczony, ale nie częsty, i ustępuje tam, gdzie łąki są użytkowane intensywnie lub nawożone.",
+        uses: "Jadalność nie jest ustalona. Niektóre źródła podają kruche owocniki jako jadalne w niewielkich ilościach, o małej wartości kulinarnej i możliwym działaniu przeczyszczającym; inne uznają je za niejadalne, a większość nie podaje informacji o składzie. Lepiej zostawić go tam, gdzie rośnie, bo gatunek jest rzadki i ustępuje.",
+        confusion: "Clavulina amethystina ma niemal taką samą barwę i kształt, a pewnie odróżnia się ją tylko pod mikroskopem, po podstawkach z dwoma zarodnikami. Alloclavaria purpurea ma mało gałązek lub wcale ich nie ma i jest bardziej matowo fioletowa. Clavulina amethystinoides jest matowo liliowa do brunatnej i tak gęsto rozgałęziona, że wygląda na ząbkowaną. Ramariopsis pulchella jest mniejsza, rzadko wyższa niż 3 cm, z wyraźnym trzonem, a jej miąższ pod wpływem siarczanu żelaza(II) zieleni się do czarnozielonego. Fioletowe gatunki rodzaju Ramaria, na przykład Ramaria fumigata, mają ochrowy wysyp zarodników.",
+        notes: "Międzynarodowa Unia Ochrony Przyrody (IUCN) oceniła go w 2019 roku jako gatunek narażony (VU) w skali świata, a jest on umieszczony na czerwonych listach kilku krajów europejskich. Nazwy tej używano dla grupy pokrewnych fioletowych koralówek. Rewizja z 2025 roku wykazała, że okaz typowy z Jawy to inny grzyb, który obecnie zalicza się do rodzaju Clavulinopsis. Fioletowe koralówki Europy i Ameryki Północnej nazywa się dziś Clavaria amethystina i Clavaria violaceopulchra."
+      },
+      pt: {
+        description: "Um pequeno fungo-coral quebradiço, que forma tufos de ramos finos, repetidamente bifurcados, de cor violeta a ametista, que com a idade esmaecem para lilás rosado. As pontas dos ramos são arredondadas e muitas vezes tornam-se acastanhadas. Cresce no solo em prados pobres em nutrientes e na folhada dos bosques, do final do verão ao outono.",
+        cap: "O corpo frutífero não tem chapéu. É um tufo com 4–7 cm de largura e até 10 cm de altura, formado por ramos cilíndricos e maciços, de 2–6 mm de espessura, que se bifurcam várias vezes em ângulos em forma de U ou de V. A superfície é lisa e seca. A cor vai do violeta ao ametista, por vezes com um tom avermelhado ou acastanhado, e com a idade e a secagem esmaece para rosa ou acinzentado. As pontas são geralmente arredondadas e depressa ficam acastanhadas.",
+        hymenium: "O himénio é liso e cobre o exterior dos ramos. Não há lamelas, tubos nem espinhos.",
+        stipe: "Não há pé distinto. Os ramos erguem-se em tufo a partir de uma base curta, esbranquiçada a acinzentada, e a ramificação começa perto do solo.",
+        flesh: "A carne é fina, quebradiça e da mesma cor que a superfície. O cheiro é fraco ou ausente e o sabor é suave, por vezes ligeiramente a rabanete. Não muda de cor com sais de ferro.",
+        sporePrint: "Branca. Os esporos são lisos, incolores, quase redondos a largamente elípticos, com cerca de 4–7 × 3–5 μm, com uma gota de óleo grande. Os basídios são tetrasporados.",
+        habitat: "Cresce isolado, em grupos ou em tufos no solo. Na Europa encontra-se sobretudo em prados pobres em nutrientes e não adubados, por vezes em freixiais e em matagais de abrunheiro. Na América do Norte encontra-se sobretudo em bosques de folhosas, entre musgo e folhada. Frutifica de agosto a outubro. Está amplamente distribuído, mas não é comum, e diminui onde os prados são geridos de forma intensiva ou adubados.",
+        uses: "A comestibilidade não está estabelecida. Algumas fontes indicam os corpos frutíferos quebradiços como comestíveis em pequena quantidade, de pouco valor culinário e possivelmente laxativos; outras consideram-nos não comestíveis, e a maioria não dá informação sobre a composição. É melhor deixá-lo onde cresce, porque a espécie é rara e está em declínio.",
+        confusion: "Clavulina amethystina tem quase a mesma cor e forma e só se distingue com segurança ao microscópio, pelos basídios com dois esporos. Alloclavaria purpurea tem poucos ramos ou nenhum e um violeta mais baço. Clavulina amethystinoides é de um lilás baço a acastanhado e tão densamente ramificada que parece dentada. Ramariopsis pulchella é menor, raramente com mais de 3 cm, claramente pedunculada, e a sua carne torna-se verde a verde-enegrecido com sulfato de ferro(II). As espécies violetas do género Ramaria, como Ramaria fumigata, têm esporada ocre.",
+        notes: "Espécie avaliada como vulnerável (VU) a nível mundial pela UICN em 2019 e incluída nas listas vermelhas de vários países europeus. O nome foi aplicado a um grupo de clavárias violetas aparentadas. Uma revisão de 2025 mostrou que o espécime tipo, proveniente de Java, é outro fungo, hoje colocado no género Clavulinopsis. As clavárias violetas da Europa e da América do Norte chamam-se agora Clavaria amethystina e Clavaria violaceopulchra."
+      },
+      ro: {
+        description: "O ciupercă-coral mică și fragilă, care formează tufe de ramuri subțiri, ramificate de mai multe ori, de culoare violet până la ametist, ce se decolorează cu vârsta spre liliachiu-roz. Vârfurile ramurilor sunt rotunjite și devin adesea brunii. Crește pe sol în pajiști sărace în nutrienți și în litiera pădurilor, de la sfârșitul verii până toamna.",
+        cap: "Corpul fructifer nu are pălărie. Este o tufă lată de 4–7 cm și înaltă de până la 10 cm, formată din ramuri cilindrice, pline, groase de 2–6 mm, care se bifurcă de mai multe ori în unghiuri în formă de U sau V. Suprafața este netedă și uscată. Culoarea merge de la violet la ametist, uneori cu o nuanță roșiatică sau brună, și se decolorează spre roz sau cenușiu odată cu vârsta și la uscare. Vârfurile sunt de obicei rotunjite și devin repede brunii.",
+        hymenium: "Himenul este neted și acoperă partea exterioară a ramurilor. Nu are lamele, tuburi sau țepi.",
+        stipe: "Nu există picior distinct. Ramurile pornesc în tufă dintr-o bază scurtă, albicioasă până la cenușie, iar ramificarea începe aproape de sol.",
+        flesh: "Carnea este subțire, fragilă și de aceeași culoare cu suprafața. Mirosul este slab sau lipsește, iar gustul este blând, uneori ușor de ridiche. Nu își schimbă culoarea cu sărurile de fier.",
+        sporePrint: "Albă. Sporii sunt netezi, incolori, aproape rotunzi până la larg elipsoidali, de circa 4–7 × 3–5 μm, cu o picătură mare de ulei. Bazidiile sunt cu patru spori.",
+        habitat: "Crește singuratică, în grupuri sau în tufe pe sol. În Europa se găsește mai ales în pajiști sărace în nutrienți, neîngrășate, și uneori în frasinete și în tufărișuri de porumbar. În America de Nord se găsește mai ales în păduri de foioase, printre mușchi și litieră de frunze. Fructifică din august până în octombrie. Este larg răspândită, dar nu comună, și se împuținează acolo unde pajiștile sunt exploatate intensiv sau îngrășate.",
+        uses: "Comestibilitatea nu este stabilită. Unele surse indică corpurile fructifere fragile drept comestibile în cantitate mică, de valoare culinară redusă și posibil laxative; altele le consideră necomestibile, iar majoritatea nu oferă informații despre compoziție. Este mai bine să fie lăsată acolo unde crește, deoarece specia este rară și în declin.",
+        confusion: "Clavulina amethystina are aproape aceeași culoare și formă și se deosebește sigur doar la microscop, după bazidiile cu doi spori. Alloclavaria purpurea are puține ramuri sau deloc și un violet mai șters. Clavulina amethystinoides este liliachie ștearsă până la brunie și atât de dens ramificată încât pare dințată. Ramariopsis pulchella este mai mică, rareori mai înaltă de 3 cm, cu picior bine evidențiat, iar carnea ei devine verde până la verde-negricios cu sulfat de fier(II). Speciile violete din genul Ramaria, de exemplu Ramaria fumigata, au pulbere sporală ocru.",
+        notes: "Evaluată ca vulnerabilă (VU) la nivel mondial de IUCN în 2019 și inclusă în listele roșii ale mai multor țări europene. Numele a fost aplicat unui grup de ciuperci-coral violete înrudite. O revizuire din 2025 a arătat că exemplarul tip, din Java, este altă ciupercă, plasată acum în genul Clavulinopsis. Ciupercile-coral violete din Europa și America de Nord se numesc acum Clavaria amethystina și Clavaria violaceopulchra."
+      },
+      ru: {
+        description: "Небольшой хрупкий коралловидный гриб, образующий пучки тонких, многократно разветвлённых веточек фиолетового до аметистового цвета, которые с возрастом выцветают до розовато-сиреневого. Концы веточек закруглены и часто буреют. Растёт на земле на бедных питательными веществами лугах и в лесной подстилке с конца лета до осени.",
+        cap: "Плодовое тело без шляпки. Это пучок шириной 4–7 см и высотой до 10 см, состоящий из цилиндрических плотных веточек толщиной 2–6 мм, которые несколько раз вильчато разветвляются под U- или V-образными углами. Поверхность гладкая, сухая. Окраска от фиолетовой до аметистовой, иногда с красноватым или буроватым оттенком, с возрастом и при высыхании выцветает до розовой или сероватой. Концы обычно закруглённые и быстро буреют.",
+        hymenium: "Гименофор гладкий и покрывает наружную сторону веточек. Пластинок, трубочек и шипиков нет.",
+        stipe: "Выраженной ножки нет. Веточки поднимаются пучком от короткого беловатого до сероватого основания, а ветвление начинается у самой земли.",
+        flesh: "Мякоть тонкая, хрупкая, одного цвета с поверхностью. Запах слабый или отсутствует, вкус мягкий, иногда слегка редечный. С солями железа цвет не меняет.",
+        sporePrint: "Белый. Споры гладкие, бесцветные, почти округлые до широкоэллиптических, около 4–7 × 3–5 μm, с одной крупной каплей масла. Базидии четырёхспоровые.",
+        habitat: "Растёт по одному, группами или пучками на земле. В Европе встречается главным образом на бедных питательными веществами, неудобряемых лугах, иногда в ясеневых лесах и зарослях тёрна. В Северной Америке встречается главным образом в лиственных лесах, среди мха и опавших листьев. Плодоносит с августа по октябрь. Широко распространён, но нечаст и исчезает там, где луга интенсивно используют или удобряют.",
+        uses: "Съедобность не установлена. Одни источники называют хрупкие плодовые тела съедобными в небольшом количестве, малоценными в кулинарии и, возможно, слабительными; другие считают их несъедобными, а большинство не даёт сведений о составе. Лучше оставить его там, где он растёт, поскольку вид редкий и сокращающийся.",
+        confusion: "Clavulina amethystina почти не отличается по цвету и форме и надёжно распознаётся только под микроскопом по двухспоровым базидиям. У Alloclavaria purpurea мало ветвей или они отсутствуют, а фиолетовый цвет более тусклый. Clavulina amethystinoides тускло-сиреневая до буроватой и так густо ветвится, что кажется зубчатой. Ramariopsis pulchella мельче, редко выше 3 см, с отчётливой ножкой, а её мякоть с сульфатом железа(II) становится зелёной до чёрно-зелёной. У фиолетовых видов рода Ramaria, например Ramaria fumigata, споровый порошок охристый.",
+        notes: "В 2019 году Международный союз охраны природы (МСОП) оценил вид как уязвимый (VU) в мировом масштабе; он внесён в красные списки нескольких европейских стран. Это название применялось к группе родственных фиолетовых коралловидных грибов. Ревизия 2025 года показала, что типовой образец с Явы — другой гриб, который сейчас относят к роду Clavulinopsis. Фиолетовые коралловидные грибы Европы и Северной Америки теперь называются Clavaria amethystina и Clavaria violaceopulchra."
+      },
+      sr: {
+        description: "Мала, ломљива корална гљива која гради чуперке танких, више пута рачвастих гранчица љубичасте до аметистне боје, које с годинама бледе у ружичастољубичасту. Врхови гранчица су заобљени и често посмеђе. Расте на земљи на ливадама сиромашним хранљивим материјама и у шумској простирци од краја лета до јесени.",
+        cap: "Плодно тело нема клобук. То је чуперак широк 4–7 cm и висок до 10 cm, састављен од ваљкастих, пуних гранчица дебљине 2–6 mm које се више пута рачвају под угловима у облику слова U или V. Површ је глатка и сува. Боја је љубичаста до аметистна, понекад са црвенкастом или смеђкастом нијансом, а с годинама и сушењем бледи у ружичасту или сивкасту. Врхови су обично заобљени и брзо посмеђе.",
+        hymenium: "Плодни слој је гладак и прекрива спољашњу страну гранчица. Нема листића, цевчица ни бодљи.",
+        stipe: "Нема јасно издвојене дршке. Гранчице расту у чуперку из кратке, беличасте до сивкасте основе, а рачвање почиње близу тла.",
+        flesh: "Месо је танко, ломљиво и исте боје као површ. Мирис је слаб или га нема, а укус је благ, понекад благо налик ротквици. Са солима гвожђа не мења боју.",
+        sporePrint: "Бела. Споре су глатке, безбојне, готово округле до широко елипсоидне, око 4–7 × 3–5 μm, са једном великом капи уља. Базидије су четвороспорне.",
+        habitat: "Расте појединачно, у групама или у чуперцима на тлу. У Европи се најчешће налази на ливадама сиромашним хранљивим материјама које се не ђубре, а понекад у шумама јасена и жбуњу. У Северној Америци се најчешће налази у листопадним шумама, међу маховином и лишћем. Плодоноси од августа до октобра. Широко је распрострањена, али није честа, и нестаје тамо где се травњаци интензивно обрађују или ђубре.",
+        uses: "Јестивост није утврђена. Неки извори наводе да су ломљива плодна тела јестива у малим количинама, мале кулинарске вредности и са могућим лаксативним дејством, док их други сматрају нејестивим, а већина не даје податке о саставу. Боље је оставити је тамо где расте јер је врста ретка и у опадању.",
+        confusion: "Clavulina amethystina је готово исте боје и облика, а поуздано се разликује само микроскопом, по базидијама са две споре. Alloclavaria purpurea има мало грана или их нема и мутније је љубичаста. Clavulina amethystinoides је мутнољубичаста до смеђкаста и толико густо разграната да изгледа као да има зубе. Ramariopsis pulchella је мања, ретко виша од 3 cm, са јасном дршком, а њено месо са гвожђе(II) сулфатом постаје зелено до црнозелено. Љубичасте врсте рода Ramaria, на пример Ramaria fumigata, имају окер отисак спора.",
+        notes: "Међународна унија за заштиту природе (IUCN) оценила ју је 2019. као рањиву (VU), а налази се и на црвеним листама неколико европских земаља. Назив се примењивао на групу сродних љубичастих коралних гљива. Ревизија из 2025. показала је да је типски примерак са Јаве друга гљива, која се сада сврстава у род Clavulinopsis. Љубичасте коралне гљиве Европе и Северне Америке сада се зову Clavaria amethystina и Clavaria violaceopulchra."
+      },
+      sl: {
+        description: "Majhna, krhka koralasta goba, ki tvori šopke tankih, večkrat vilasto razvejanih vejic vijoličaste do ametistne barve, ki s starostjo obledijo v rožnato lila. Konice vejic so zaobljene in pogosto porjavijo. Raste na tleh na travnikih, revnih s hranili, in v gozdni stelji od poznega poletja do jeseni.",
+        cap: "Trosnjak nima klobuka. Je šop, širok 4–7 cm in visok do 10 cm, sestavljen iz valjastih, polnih vejic, debelih 2–6 mm, ki se večkrat razvejijo pod koti v obliki črke U ali V. Površina je gladka in suha. Barva je vijoličasta do ametistna, včasih z rdečkastim ali rjavkastim odtenkom, s starostjo in pri sušenju pa obledi v rožnato ali sivkasto. Konice so večinoma zaobljene in kmalu porjavijo.",
+        hymenium: "Trosišče je gladko in prekriva zunanjo stran vejic. Lamel, cevk ali bodic ni.",
+        stipe: "Izrazitega beta ni. Vejice poganjajo v šopu iz kratke, belkaste do sivkaste baze, razvejanje pa se začne tik nad tlemi.",
+        flesh: "Meso je tanko, krhko in enake barve kot površina. Vonj je šibek ali ga ni, okus je blag, včasih rahlo po redkvici. Z železovimi solmi ne spremeni barve.",
+        sporePrint: "Bel. Trosi so gladki, brezbarvni, skoraj okrogli do široko elipsoidni, veliki približno 4–7 × 3–5 μm, z eno veliko oljno kapljico. Bazidiji so štiritrosni.",
+        habitat: "Raste posamič, v skupinah ali v šopih na tleh. V Evropi jo najdemo predvsem na travnikih, revnih s hranili in negnojenih, včasih v jesenovih gozdovih in grmiščih. V Severni Ameriki jo najdemo predvsem v listnatih gozdovih, med mahom in odpadlim listjem. Trosnjake razvije od avgusta do oktobra. Je razširjena, a ni pogosta, in izginja tam, kjer travnike intenzivno obdelujejo ali gnojijo.",
+        uses: "Užitnost ni ugotovljena. Nekateri viri navajajo, da so krhki trosnjaki užitni v majhnih količinah, majhne kulinarične vrednosti in morda odvajalni; drugi jih imajo za neužitne, večina pa o sestavi ne poroča. Bolje jo je pustiti tam, kjer raste, saj je vrsta redka in upada.",
+        confusion: "Clavulina amethystina ima skoraj enako barvo in obliko in se zanesljivo loči le pod mikroskopom, po bazidijih z dvema trosoma. Alloclavaria purpurea ima malo vej ali nobene in je medlejše vijoličasta. Clavulina amethystinoides je medlo lila do rjavkasta in tako gosto razvejana, da je videti zobata. Ramariopsis pulchella je manjša, redko višja od 3 cm, z jasnim betom, njeno meso pa z železovim(II) sulfatom postane zeleno do črnozeleno. Vijoličaste vrste rodu Ramaria, na primer Ramaria fumigata, imajo trosni prah okerne barve.",
+        notes: "Mednarodna zveza za ohranitev narave (IUCN) jo je leta 2019 ocenila kot ranljivo (VU), uvrščena pa je tudi na rdeče sezname več evropskih držav. Ime so uporabljali za skupino sorodnih vijoličastih koralnih gob. Revizija iz leta 2025 je pokazala, da je tipski primerek z Jave druga goba, ki jo zdaj uvrščamo v rod Clavulinopsis. Vijoličaste koralne gobe Evrope in Severne Amerike se zdaj imenujejo Clavaria amethystina in Clavaria violaceopulchra."
+      },
+      es: {
+        description: "Un pequeño hongo coral quebradizo que forma matas de ramas finas, repetidamente bifurcadas, de color violeta a amatista, que con la edad palidecen a lila rosado. Las puntas de las ramas son redondeadas y a menudo se vuelven parduscas. Crece en el suelo en prados pobres en nutrientes y en la hojarasca de los bosques, desde finales del verano hasta el otoño.",
+        cap: "El carpóforo no tiene sombrero. Es una mata de 4–7 cm de ancho y hasta 10 cm de alto, formada por ramas cilíndricas y macizas de 2–6 mm de grosor que se bifurcan varias veces en ángulos en forma de U o de V. La superficie es lisa y seca. El color va del violeta al amatista, a veces con un tono rojizo o pardo, y con la edad y al secarse palidece a rosa o grisáceo. Las puntas suelen ser redondeadas y pronto se vuelven parduscas.",
+        hymenium: "El himenio es liso y cubre el exterior de las ramas. No hay láminas, tubos ni aguijones.",
+        stipe: "No hay pie diferenciado. Las ramas surgen en mata de una base corta, blanquecina a grisácea, y la ramificación empieza cerca del suelo.",
+        flesh: "La carne es fina, quebradiza y del mismo color que la superficie. El olor es débil o ausente y el sabor es suave, a veces ligeramente a rábano. No cambia de color con sales de hierro.",
+        sporePrint: "Blanca. Las esporas son lisas, incoloras, casi redondas a anchamente elípticas, de unos 4–7 × 3–5 μm, con una gota de aceite grande. Los basidios son tetraspóricos.",
+        habitat: "Crece solitario, en grupos o en matas sobre el suelo. En Europa se encuentra sobre todo en prados pobres en nutrientes y sin abonar, a veces en fresnedas y en espinares de endrino. En América del Norte se encuentra sobre todo en bosques de frondosas, entre musgo y hojarasca. Fructifica de agosto a octubre. Está muy extendido, pero no es común, y disminuye donde los prados se explotan de forma intensiva o se abonan.",
+        uses: "La comestibilidad no está establecida. Algunas fuentes indican que los carpóforos quebradizos son comestibles en pequeña cantidad, de poco valor culinario y posiblemente laxantes; otras los consideran no comestibles, y la mayoría no da información sobre su composición. Es mejor dejarlo donde crece, porque la especie es rara y está en declive.",
+        confusion: "Clavulina amethystina tiene casi el mismo color y forma y solo se distingue con seguridad al microscopio, por los basidios con dos esporas. Alloclavaria purpurea tiene pocas ramas o ninguna y un violeta más apagado. Clavulina amethystinoides es de un lila apagado a pardusco y tan densamente ramificada que parece dentada. Ramariopsis pulchella es más pequeña, rara vez de más de 3 cm, claramente pedunculada, y su carne se vuelve verde a verde negruzco con sulfato de hierro(II). Las especies violetas del género Ramaria, como Ramaria fumigata, tienen esporada ocre.",
+        notes: "Especie evaluada como vulnerable (VU) a nivel mundial por la UICN en 2019 e incluida en las listas rojas de varios países europeos. El nombre se ha aplicado a un grupo de clavarias violetas emparentadas. Una revisión de 2025 mostró que el ejemplar tipo, procedente de Java, es otro hongo, hoy colocado en el género Clavulinopsis. Las clavarias violetas de Europa y América del Norte se llaman ahora Clavaria amethystina y Clavaria violaceopulchra."
+      },
+      sv: {
+        description: "En liten, spröd korallsvamp som bildar tuvor av tunna, upprepat grenade grenar i violett till ametistfärgat, som bleknar till rosaaktigt lila med åldern. Grenspetsarna är rundade och blir ofta brunaktiga. Den växer på marken i näringsfattig gräsmark och i skogens förna, från sensommar till höst.",
+        cap: "Fruktkroppen har ingen hatt. Den är en tuva som är 4–7 cm bred och upp till 10 cm hög, uppbyggd av cylindriska, massiva grenar som är 2–6 mm tjocka och som grenar sig flera gånger i U- eller V-formade vinklar. Ytan är slät och torr. Färgen går från violett till ametistfärgad, ibland med en rödaktig eller brunaktig ton, och blekar till rosa eller gråaktig med åldern och vid torkning. Spetsarna är oftast rundade och blir snart brunaktiga.",
+        hymenium: "Sporlagret är slätt och täcker grenarnas utsida. Det finns inga skivor, rör eller taggar.",
+        stipe: "Det finns ingen tydlig fot. Grenarna växer i en tuva från en kort, vitaktig till gråaktig bas, och förgreningen börjar nära marken.",
+        flesh: "Köttet är tunt, sprött och har samma färg som ytan. Lukten är svag eller saknas och smaken är mild, ibland svagt rättikalik. Det ändrar inte färg med järnsalter.",
+        sporePrint: "Vit. Sporerna är släta, färglösa, nästan runda till brett ellipsoida, omkring 4–7 × 3–5 μm, med en stor oljedroppe. Basidierna är fyrsporiga.",
+        habitat: "Den växer enstaka, i grupper eller i tuvor på marken. I Europa finns den mest i näringsfattig, ogödslad gräsmark och ibland i askskog och slånsnår. I Nordamerika finns den mest i lövskog, bland mossa och lövförna. Den bildar fruktkroppar från augusti till oktober. Den är vitt utbredd men inte vanlig och minskar där gräsmark brukas intensivt eller gödslas.",
+        uses: "Ätligheten är inte fastställd. Vissa källor anger de spröda fruktkropparna som ätliga i små mängder, med litet kulinariskt värde och möjlig laxerande effekt; andra kallar dem oätliga, och de flesta ger ingen information om innehållet. Den bör hellre få stå kvar där den växer, eftersom arten är sällsynt och i tillbakagång.",
+        confusion: "Clavulina amethystina har nästan samma färg och form och skiljs säkert bara under mikroskop, på basidierna med två sporer. Alloclavaria purpurea har få eller inga grenar och en mattare violett färg. Clavulina amethystinoides är matt lila till brunaktig och så tätt grenad att den ser tandad ut. Ramariopsis pulchella är mindre, sällan över 3 cm, tydligt skaftad, och dess kött blir grönt till svartgrönt med järn(II)sulfat. Violetta arter i släktet Ramaria, till exempel Ramaria fumigata, har ockrafärgat sporavtryck.",
+        notes: "Bedömd som sårbar (VU) globalt av IUCN 2019 och upptagen i rödlistor i flera europeiska länder. Namnet har använts för en grupp besläktade violetta korallsvampar. En revision från 2025 visade att typexemplaret från Java är en annan svamp, som nu förs till släktet Clavulinopsis. De violetta korallsvamparna i Europa och Nordamerika heter nu Clavaria amethystina och Clavaria violaceopulchra."
+      },
+      tr: {
+        description: "Küçük, kırılgan, mercan biçimli bir mantar; mordan ametist rengine uzanan, ince ve defalarca çatallanan dallardan oluşan öbekler yapar ve yaşlandıkça pembemsi eflatuna solar. Dal uçları yuvarlaktır ve çoğu zaman kahverengileşir. Yaz sonundan sonbahara kadar besin bakımından fakir çayırlarda ve orman çöplüğünde toprak üzerinde yetişir.",
+        cap: "Meyve gövdesinde şapka yoktur. 4–7 cm genişliğinde ve 10 cm'ye kadar yüksekliğinde, 2–6 mm kalınlığında silindirik, dolu dallardan oluşan bir öbektir; dallar U veya V biçimli açılarla birkaç kez çatallanır. Yüzey düzgün ve kurudur. Renk mordan ametiste uzanır, bazen kırmızımsı veya kahverengimsi bir tonla, ve yaşlanınca ve kuruyunca pembeye veya grimsiye solar. Uçlar çoğunlukla yuvarlaktır ve çabuk kahverengileşir.",
+        hymenium: "Spor taşıyan yüzey düzgündür ve dalların dış yüzünü kaplar. Lamel, tüp ya da diken yoktur.",
+        stipe: "Belirgin bir sap yoktur. Dallar kısa, beyazımsıdan grimsiye uzanan bir tabandan öbek hâlinde yükselir ve çatallanma toprağa yakın başlar.",
+        flesh: "Et ince, kırılgan ve yüzeyle aynı renktedir. Koku zayıftır ya da yoktur, tat yumuşaktır, bazen hafifçe turp gibidir. Demir tuzlarıyla renk değiştirmez.",
+        sporePrint: "Beyaz. Sporlar düzgün, renksiz, neredeyse yuvarlaktan geniş elipse kadar, yaklaşık 4–7 × 3–5 μm boyutundadır ve tek bir büyük yağ damlası içerir. Bazidiyumlar dört sporludur.",
+        habitat: "Toprak üzerinde tek tek, gruplar hâlinde veya öbekler hâlinde yetişir. Avrupa'da çoğunlukla besin bakımından fakir, gübrelenmemiş çayırlarda, bazen dişbudak ormanlarında ve çalılıklarda bulunur. Kuzey Amerika'da çoğunlukla geniş yapraklı ormanlarda, yosun ve yaprak çöpü arasında bulunur. Ağustostan ekime kadar meyve verir. Yaygındır ama sık rastlanmaz; çayırların yoğun işlendiği veya gübrelendiği yerlerde azalır.",
+        uses: "Yenilebilirliği belirlenmemiştir. Bazı kaynaklar kırılgan meyve gövdelerinin az miktarda yenilebilir, mutfak değeri düşük ve olasılıkla müshil etkili olduğunu bildirir; diğerleri yenmez der, çoğu kaynak da içeriği hakkında bilgi vermez. Tür nadir ve azalmakta olduğundan yetiştiği yerde bırakmak daha iyidir.",
+        confusion: "Clavulina amethystina neredeyse aynı renk ve biçimdedir ve yalnızca mikroskop altında, iki sporlu bazidiyumlarından güvenle ayırt edilir. Alloclavaria purpurea az dallıdır ya da hiç dallanmaz ve moru daha mattır. Clavulina amethystinoides mat eflatundan kahverengimsiye uzanır ve o kadar sık dallanır ki dişli görünür. Ramariopsis pulchella daha küçüktür, nadiren 3 cm'den uzundur, belirgin saplıdır ve eti demir(II) sülfatla yeşile, siyahımsı yeşile döner. Ramaria cinsinin mor türlerinde, örneğin Ramaria fumigata türünde, spor baskısı oker renklidir.",
+        notes: "IUCN tarafından 2019'da dünya genelinde hassas (VU) olarak değerlendirilmiş ve birkaç Avrupa ülkesinin kırmızı listelerinde yer almıştır. Ad, birbiriyle akraba mor mercan mantarlarından oluşan bir grup için kullanılmıştır. 2025 tarihli bir revizyon, Java'dan gelen tip örneğin farklı bir mantar olduğunu ve şimdi Clavulinopsis cinsine yerleştirildiğini göstermiştir. Avrupa ve Kuzey Amerika'nın mor mercan mantarları artık Clavaria amethystina ve Clavaria violaceopulchra olarak adlandırılır."
+      },
+      uk: {
+        description: "Невеликий крихкий коралоподібний гриб, що утворює пучки тонких, багаторазово розгалужених гілочок фіолетового до аметистового кольору, які з віком вицвітають до рожевуватого бузкового. Кінці гілочок заокруглені й часто буріють. Росте на землі на бідних на поживні речовини луках і в лісовій підстилці з кінця літа до осені.",
+        cap: "Плодове тіло не має капелюшка. Це пучок завширшки 4–7 см і заввишки до 10 см, що складається з циліндричних суцільних гілочок завтовшки 2–6 мм, які кілька разів розгалужуються під U- або V-подібними кутами. Поверхня гладенька й суха. Забарвлення від фіолетового до аметистового, іноді з червонуватим або брунатним відтінком, з віком і під час висихання вицвітає до рожевого або сіруватого. Кінці зазвичай заокруглені й швидко буріють.",
+        hymenium: "Гіменофор гладенький і вкриває зовнішній бік гілочок. Пластинок, трубочок і шипиків немає.",
+        stipe: "Виразної ніжки немає. Гілочки здіймаються пучком від короткої білуватої до сіруватої основи, а розгалуження починається біля самої землі.",
+        flesh: "М'якуш тонкий, крихкий, того самого кольору, що й поверхня. Запах слабкий або відсутній, смак м'який, іноді ледь рідькуватий. З солями заліза колір не змінює.",
+        sporePrint: "Білий. Спори гладенькі, безбарвні, майже округлі до широкоеліптичних, приблизно 4–7 × 3–5 μm, з однією великою краплею олії. Базидії чотириспорові.",
+        habitat: "Росте поодинці, групами або пучками на землі. В Європі трапляється переважно на бідних на поживні речовини, незагноєних луках, іноді в ясенових лісах і заростях. У Північній Америці трапляється переважно в листяних лісах, серед моху й опалого листя. Плодоносить з серпня до жовтня. Поширений широко, але нечастий і зникає там, де луки інтенсивно використовують або удобрюють.",
+        uses: "Їстівність не встановлена. Одні джерела називають крихкі плодові тіла їстівними в невеликій кількості, малоцінними в кулінарії та, можливо, послаблювальними; інші вважають їх неїстівними, а більшість не дає відомостей про склад. Краще залишити його там, де він росте, бо вид рідкісний і скорочується.",
+        confusion: "Clavulina amethystina майже не відрізняється за кольором і формою й надійно розпізнається лише під мікроскопом за двоспоровими базидіями. У Alloclavaria purpurea мало гілок або вони відсутні, а фіолетовий колір тьмяніший. Clavulina amethystinoides тьмяно-бузкова до брунатної й так густо розгалужена, що здається зубчастою. Ramariopsis pulchella дрібніша, рідко вища за 3 см, з виразною ніжкою, а її м'якуш із сульфатом заліза(II) стає зеленим до чорно-зеленого. У фіолетових видів роду Ramaria, наприклад Ramaria fumigata, споровий порошок охристий.",
+        notes: "У 2019 році Міжнародний союз охорони природи (МСОП) оцінив вид як вразливий (VU) у світовому масштабі; його внесено до червоних списків кількох європейських країн. Цю назву застосовували до групи споріднених фіолетових коралоподібних грибів. Ревізія 2025 року показала, що типовий зразок з Яви — інший гриб, який нині відносять до роду Clavulinopsis. Фіолетові коралоподібні гриби Європи та Північної Америки тепер називаються Clavaria amethystina і Clavaria violaceopulchra."
+      }
+    },
+    sources: {
+      en: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://en.wikipedia.org/wiki/Clavaria_zollingeri"
+        },
+        {
+          "group": "text",
+          "name": "MushroomExpert.Com",
+          "href": "https://www.mushroomexpert.com/clavaria_zollingeri.html"
+        },
+        {
+          "group": "name",
+          "name": "Index Fungorum",
+          "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=154126",
+          "detail": "154126"
+        },
+        {
+          "group": "name",
+          "name": "Species Fungorum",
+          "href": "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=154126",
+          "detail": "154126"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244510",
+          "detail": "5244510"
+        },
+        {
+          "group": "text",
+          "name": "Red List Info",
+          "href": "https://redlist.info/iucn/species_view/154126/",
+          "detail": "IUCN 2019"
+        },
+        {
+          "group": "text",
+          "name": "Fungi 11(7): 482 (2025)",
+          "href": "https://www.mdpi.com/2309-608X/11/7/482"
+        }
+      ],
+      sk: [
+        {
+          "group": "text",
+          "name": "Nahuby.sk",
+          "href": "https://www.nahuby.sk/atlas-hub/Clavaria-zollingeri/kyjacik-Zollingerov/kyjanka-Zollingerova/ID11179",
+          "detail": "kyjačik zollingerov"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244510",
+          "detail": "5244510"
+        },
+        {
+          "group": "text",
+          "name": "Red List Info",
+          "href": "https://redlist.info/iucn/species_view/154126/",
+          "detail": "IUCN 2019"
+        },
+        {
+          "group": "text",
+          "name": "Fungi 11(7): 482 (2025)",
+          "href": "https://www.mdpi.com/2309-608X/11/7/482"
+        }
+      ],
+      ar: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244510",
+          "detail": "5244510"
+        },
+        {
+          "group": "text",
+          "name": "Red List Info",
+          "href": "https://redlist.info/iucn/species_view/154126/",
+          "detail": "IUCN 2019"
+        },
+        {
+          "group": "text",
+          "name": "Fungi 11(7): 482 (2025)",
+          "href": "https://www.mdpi.com/2309-608X/11/7/482"
+        }
+      ],
+      bg: [
+        {
+          "group": "text",
+          "name": "Уикипедия",
+          "href": "https://bg.wikipedia.org/wiki/%D0%91%D0%BB%D0%B5%D0%B4%D0%BE%D0%BA%D0%B0%D1%84%D1%8F%D0%B2%D0%B0_%D0%BA%D0%BB%D0%B0%D0%B2%D0%B0%D1%80%D0%B8%D1%8F"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244510",
+          "detail": "5244510"
+        },
+        {
+          "group": "text",
+          "name": "Red List Info",
+          "href": "https://redlist.info/iucn/species_view/154126/",
+          "detail": "IUCN 2019"
+        },
+        {
+          "group": "text",
+          "name": "Fungi 11(7): 482 (2025)",
+          "href": "https://www.mdpi.com/2309-608X/11/7/482"
+        }
+      ],
+      zh: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://zh.wikipedia.org/wiki/%E5%A0%87%E7%B4%AB%E7%8F%8A%E7%91%9A%E8%8F%8C"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244510",
+          "detail": "5244510"
+        },
+        {
+          "group": "text",
+          "name": "Red List Info",
+          "href": "https://redlist.info/iucn/species_view/154126/",
+          "detail": "IUCN 2019"
+        },
+        {
+          "group": "text",
+          "name": "Fungi 11(7): 482 (2025)",
+          "href": "https://www.mdpi.com/2309-608X/11/7/482"
+        }
+      ],
+      hr: [
+        {
+          "group": "text",
+          "name": "CROmushrooms",
+          "href": "https://www.cromushrooms.eu/index.php/pregled-vrsta?id=3341&option=com_content&view=article",
+          "detail": "zollingerova kijača"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244510",
+          "detail": "5244510"
+        },
+        {
+          "group": "text",
+          "name": "Red List Info",
+          "href": "https://redlist.info/iucn/species_view/154126/",
+          "detail": "IUCN 2019"
+        },
+        {
+          "group": "text",
+          "name": "Fungi 11(7): 482 (2025)",
+          "href": "https://www.mdpi.com/2309-608X/11/7/482"
+        }
+      ],
+      cs: [
+        {
+          "group": "text",
+          "name": "Red List Info",
+          "href": "https://redlist.info/iucn/species_view/154126/",
+          "detail": "kyjanka zollingerova"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244510",
+          "detail": "5244510"
+        },
+        {
+          "group": "text",
+          "name": "Fungi 11(7): 482 (2025)",
+          "href": "https://www.mdpi.com/2309-608X/11/7/482"
+        }
+      ],
+      da: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://da.wikipedia.org/wiki/Purpurk%C3%B8llesvamp"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244510",
+          "detail": "5244510"
+        },
+        {
+          "group": "text",
+          "name": "Red List Info",
+          "href": "https://redlist.info/iucn/species_view/154126/",
+          "detail": "IUCN 2019"
+        },
+        {
+          "group": "text",
+          "name": "Fungi 11(7): 482 (2025)",
+          "href": "https://www.mdpi.com/2309-608X/11/7/482"
+        }
+      ],
+      nl: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://nl.wikipedia.org/wiki/Amethistknotszwam"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244510",
+          "detail": "5244510"
+        },
+        {
+          "group": "text",
+          "name": "Red List Info",
+          "href": "https://redlist.info/iucn/species_view/154126/",
+          "detail": "IUCN 2019"
+        },
+        {
+          "group": "text",
+          "name": "Fungi 11(7): 482 (2025)",
+          "href": "https://www.mdpi.com/2309-608X/11/7/482"
+        }
+      ],
+      et: [
+        {
+          "group": "text",
+          "name": "Red List Info",
+          "href": "https://redlist.info/iucn/species_view/154126/",
+          "detail": "lilla tõlvik"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244510",
+          "detail": "5244510"
+        },
+        {
+          "group": "text",
+          "name": "Fungi 11(7): 482 (2025)",
+          "href": "https://www.mdpi.com/2309-608X/11/7/482"
+        }
+      ],
+      fi: [
+        {
+          "group": "text",
+          "name": "Red List Info",
+          "href": "https://redlist.info/iucn/species_view/154126/",
+          "detail": "violettihaarakas"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244510",
+          "detail": "5244510"
+        },
+        {
+          "group": "text",
+          "name": "Fungi 11(7): 482 (2025)",
+          "href": "https://www.mdpi.com/2309-608X/11/7/482"
+        }
+      ],
+      fr: [
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://fr.wikipedia.org/wiki/Clavaire_de_Zollinger"
+        },
+        {
+          "group": "name",
+          "name": "GBIF (TAXREF)",
+          "href": "https://www.gbif.org/species/5244510",
+          "detail": "clavaire violette"
+        },
+        {
+          "group": "text",
+          "name": "Red List Info",
+          "href": "https://redlist.info/iucn/species_view/154126/",
+          "detail": "IUCN 2019"
+        },
+        {
+          "group": "text",
+          "name": "Fungi 11(7): 482 (2025)",
+          "href": "https://www.mdpi.com/2309-608X/11/7/482"
+        }
+      ],
+      de: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://de.wikipedia.org/wiki/Amethystfarbene_Wiesenkoralle"
+        },
+        {
+          "group": "text",
+          "name": "Deutsche Gesellschaft für Mykologie",
+          "href": "https://www.dgfm-ev.de/de/ueber-uns/news/pilz-des-jahres-2025-amethystfarbene-wiesenkoralle",
+          "detail": "Pilz des Jahres 2025"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244510",
+          "detail": "5244510"
+        },
+        {
+          "group": "text",
+          "name": "Red List Info",
+          "href": "https://redlist.info/iucn/species_view/154126/",
+          "detail": "IUCN 2019"
+        },
+        {
+          "group": "text",
+          "name": "Fungi 11(7): 482 (2025)",
+          "href": "https://www.mdpi.com/2309-608X/11/7/482"
+        }
+      ],
+      he: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244510",
+          "detail": "5244510"
+        },
+        {
+          "group": "text",
+          "name": "Red List Info",
+          "href": "https://redlist.info/iucn/species_view/154126/",
+          "detail": "IUCN 2019"
+        },
+        {
+          "group": "text",
+          "name": "Fungi 11(7): 482 (2025)",
+          "href": "https://www.mdpi.com/2309-608X/11/7/482"
+        }
+      ],
+      hi: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244510",
+          "detail": "5244510"
+        },
+        {
+          "group": "text",
+          "name": "Red List Info",
+          "href": "https://redlist.info/iucn/species_view/154126/",
+          "detail": "IUCN 2019"
+        },
+        {
+          "group": "text",
+          "name": "Fungi 11(7): 482 (2025)",
+          "href": "https://www.mdpi.com/2309-608X/11/7/482"
+        }
+      ],
+      hu: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244510",
+          "detail": "5244510"
+        },
+        {
+          "group": "text",
+          "name": "Red List Info",
+          "href": "https://redlist.info/iucn/species_view/154126/",
+          "detail": "IUCN 2019"
+        },
+        {
+          "group": "text",
+          "name": "Fungi 11(7): 482 (2025)",
+          "href": "https://www.mdpi.com/2309-608X/11/7/482"
+        }
+      ],
+      id: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244510",
+          "detail": "5244510"
+        },
+        {
+          "group": "text",
+          "name": "Red List Info",
+          "href": "https://redlist.info/iucn/species_view/154126/",
+          "detail": "IUCN 2019"
+        },
+        {
+          "group": "text",
+          "name": "Fungi 11(7): 482 (2025)",
+          "href": "https://www.mdpi.com/2309-608X/11/7/482"
+        }
+      ],
+      it: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://it.wikipedia.org/wiki/Clavaria_zollingeri"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244510",
+          "detail": "5244510"
+        },
+        {
+          "group": "text",
+          "name": "Red List Info",
+          "href": "https://redlist.info/iucn/species_view/154126/",
+          "detail": "IUCN 2019"
+        },
+        {
+          "group": "text",
+          "name": "Fungi 11(7): 482 (2025)",
+          "href": "https://www.mdpi.com/2309-608X/11/7/482"
+        }
+      ],
+      ja: [
+        {
+          "group": "text",
+          "name": "ウィキペディア",
+          "href": "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%83%A9%E3%82%B5%E3%82%AD%E3%83%9B%E3%82%A6%E3%82%AD%E3%82%BF%E3%82%B1"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244510",
+          "detail": "5244510"
+        },
+        {
+          "group": "text",
+          "name": "Red List Info",
+          "href": "https://redlist.info/iucn/species_view/154126/",
+          "detail": "IUCN 2019"
+        },
+        {
+          "group": "text",
+          "name": "Fungi 11(7): 482 (2025)",
+          "href": "https://www.mdpi.com/2309-608X/11/7/482"
+        }
+      ],
+      ko: [
+        {
+          "group": "text",
+          "name": "Korean Journal of Mycology, List of Recorded Korean Aphyllophorales",
+          "href": "https://www.kjmycology.or.kr/wp-content/uploads/2025/02/KJM-3301-07.pdf",
+          "detail": "자주싸리국수버섯"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244510",
+          "detail": "5244510"
+        },
+        {
+          "group": "text",
+          "name": "Red List Info",
+          "href": "https://redlist.info/iucn/species_view/154126/",
+          "detail": "IUCN 2019"
+        },
+        {
+          "group": "text",
+          "name": "Fungi 11(7): 482 (2025)",
+          "href": "https://www.mdpi.com/2309-608X/11/7/482"
+        }
+      ],
+      lv: [
+        {
+          "group": "text",
+          "name": "Red List Info",
+          "href": "https://redlist.info/iucn/species_view/154126/",
+          "detail": "lavandas vālene"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244510",
+          "detail": "5244510"
+        },
+        {
+          "group": "text",
+          "name": "Fungi 11(7): 482 (2025)",
+          "href": "https://www.mdpi.com/2309-608X/11/7/482"
+        }
+      ],
+      lt: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244510",
+          "detail": "5244510"
+        },
+        {
+          "group": "text",
+          "name": "Red List Info",
+          "href": "https://redlist.info/iucn/species_view/154126/",
+          "detail": "IUCN 2019"
+        },
+        {
+          "group": "text",
+          "name": "Fungi 11(7): 482 (2025)",
+          "href": "https://www.mdpi.com/2309-608X/11/7/482"
+        }
+      ],
+      no: [
+        {
+          "group": "text",
+          "name": "Red List Info",
+          "href": "https://redlist.info/iucn/species_view/154126/",
+          "detail": "fiolett greinkøllesopp"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244510",
+          "detail": "5244510"
+        },
+        {
+          "group": "text",
+          "name": "Fungi 11(7): 482 (2025)",
+          "href": "https://www.mdpi.com/2309-608X/11/7/482"
+        }
+      ],
+      fa: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D8%AC%D8%A7%D9%86_%D8%A8%D9%86%D9%81%D8%B4"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244510",
+          "detail": "5244510"
+        },
+        {
+          "group": "text",
+          "name": "Red List Info",
+          "href": "https://redlist.info/iucn/species_view/154126/",
+          "detail": "IUCN 2019"
+        },
+        {
+          "group": "text",
+          "name": "Fungi 11(7): 482 (2025)",
+          "href": "https://www.mdpi.com/2309-608X/11/7/482"
+        }
+      ],
+      pl: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://pl.wikipedia.org/wiki/Go%C5%BAdzieniec_fioletowy"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244510",
+          "detail": "5244510"
+        },
+        {
+          "group": "text",
+          "name": "Red List Info",
+          "href": "https://redlist.info/iucn/species_view/154126/",
+          "detail": "IUCN 2019"
+        },
+        {
+          "group": "text",
+          "name": "Fungi 11(7): 482 (2025)",
+          "href": "https://www.mdpi.com/2309-608X/11/7/482"
+        }
+      ],
+      pt: [
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://pt.wikipedia.org/wiki/Clavaria_zollingeri"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244510",
+          "detail": "5244510"
+        },
+        {
+          "group": "text",
+          "name": "Red List Info",
+          "href": "https://redlist.info/iucn/species_view/154126/",
+          "detail": "IUCN 2019"
+        },
+        {
+          "group": "text",
+          "name": "Fungi 11(7): 482 (2025)",
+          "href": "https://www.mdpi.com/2309-608X/11/7/482"
+        }
+      ],
+      ro: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244510",
+          "detail": "5244510"
+        },
+        {
+          "group": "text",
+          "name": "Red List Info",
+          "href": "https://redlist.info/iucn/species_view/154126/",
+          "detail": "IUCN 2019"
+        },
+        {
+          "group": "text",
+          "name": "Fungi 11(7): 482 (2025)",
+          "href": "https://www.mdpi.com/2309-608X/11/7/482"
+        }
+      ],
+      ru: [
+        {
+          "group": "text",
+          "name": "Википедия",
+          "href": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B0%D0%B2%D0%B0%D1%80%D0%B8%D1%8F_%D0%B1%D0%BB%D0%B5%D0%B4%D0%BD%D0%BE-%D0%B1%D1%83%D1%80%D0%B0%D1%8F"
+        },
+        {
+          "group": "name",
+          "name": "EPPO Global Database",
+          "href": "https://gd.eppo.int/taxon/CLVRZO",
+          "detail": "клавария бледно-бурая"
+        },
+        {
+          "group": "text",
+          "name": "Red List Info",
+          "href": "https://redlist.info/iucn/species_view/154126/",
+          "detail": "IUCN 2019"
+        },
+        {
+          "group": "text",
+          "name": "Fungi 11(7): 482 (2025)",
+          "href": "https://www.mdpi.com/2309-608X/11/7/482"
+        }
+      ],
+      sr: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244510",
+          "detail": "5244510"
+        },
+        {
+          "group": "text",
+          "name": "Red List Info",
+          "href": "https://redlist.info/iucn/species_view/154126/",
+          "detail": "IUCN 2019"
+        },
+        {
+          "group": "text",
+          "name": "Fungi 11(7): 482 (2025)",
+          "href": "https://www.mdpi.com/2309-608X/11/7/482"
+        }
+      ],
+      sl: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244510",
+          "detail": "5244510"
+        },
+        {
+          "group": "text",
+          "name": "Red List Info",
+          "href": "https://redlist.info/iucn/species_view/154126/",
+          "detail": "IUCN 2019"
+        },
+        {
+          "group": "text",
+          "name": "Fungi 11(7): 482 (2025)",
+          "href": "https://www.mdpi.com/2309-608X/11/7/482"
+        }
+      ],
+      es: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://es.wikipedia.org/wiki/Clavaria_zollingeri"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244510",
+          "detail": "5244510"
+        },
+        {
+          "group": "text",
+          "name": "Red List Info",
+          "href": "https://redlist.info/iucn/species_view/154126/",
+          "detail": "IUCN 2019"
+        },
+        {
+          "group": "text",
+          "name": "Fungi 11(7): 482 (2025)",
+          "href": "https://www.mdpi.com/2309-608X/11/7/482"
+        }
+      ],
+      sv: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://sv.wikipedia.org/wiki/Violett_fingersvamp"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244510",
+          "detail": "5244510"
+        },
+        {
+          "group": "text",
+          "name": "Red List Info",
+          "href": "https://redlist.info/iucn/species_view/154126/",
+          "detail": "IUCN 2019"
+        },
+        {
+          "group": "text",
+          "name": "Fungi 11(7): 482 (2025)",
+          "href": "https://www.mdpi.com/2309-608X/11/7/482"
+        }
+      ],
+      tr: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244510",
+          "detail": "5244510"
+        },
+        {
+          "group": "text",
+          "name": "Red List Info",
+          "href": "https://redlist.info/iucn/species_view/154126/",
+          "detail": "IUCN 2019"
+        },
+        {
+          "group": "text",
+          "name": "Fungi 11(7): 482 (2025)",
+          "href": "https://www.mdpi.com/2309-608X/11/7/482"
+        }
+      ],
+      uk: [
+        {
+          "group": "text",
+          "name": "Вікіпедія",
+          "href": "https://uk.wikipedia.org/wiki/Clavaria_zollingeri"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/5244510",
+          "detail": "5244510"
+        },
+        {
+          "group": "text",
+          "name": "Red List Info",
+          "href": "https://redlist.info/iucn/species_view/154126/",
+          "detail": "IUCN 2019"
+        },
+        {
+          "group": "text",
+          "name": "Fungi 11(7): 482 (2025)",
+          "href": "https://www.mdpi.com/2309-608X/11/7/482"
+        }
+      ]
+    },
+    synonyms: [
+      "Clavaria bicolor Massee",
+      "Clavaria lavandula Peck",
+      "Clavaria rosalana Petch",
+      "Clavaria schaefferi Sacc.",
+      "Clavaria violacea Petch"
+    ]
   }
 ];
