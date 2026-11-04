@@ -690,5 +690,11 @@ export const TAXA = {
   },
   Clavaria: {
     rank: "genus"
+  },
+  Phyllotopsis: {
+    rank: "genus"
+  },
+  Hohenbuehelia: {
+    rank: "genus"
   }
 };

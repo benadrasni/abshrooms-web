@@ -92,7 +92,7 @@ export const LISTS = [
         "year": 2011
       },
       {
-        "name": "Cantharellus cinereus",
+        "name": "Craterellus cinereus",
         "year": 2012
       },
       {

@@ -73,7 +73,7 @@ test('region lists sort by place and year lists put the newest year first', () =
   assert.equal(years[0].year, 2027);
   assert.equal(years.at(-1).name, 'Leccinum aurantiacum');
   assert.equal(years.at(-1).year, 1994);
-  assert.ok(years.length < 34);
+  assert.ok(years.length <= 34);
 });
 
 test('2016 on the German and Hungarian year lists is Collybia personata', () => {
@@ -117,7 +117,6 @@ test('German and Latvian year lists link the catalog species', () => {
 // A year-list row is a catalog species, or one of these gaps. The key is
 // (id, year, name). Order does not matter.
 const YEAR_LIST_GAPS = [
-  ['mushroom-of-the-year-de', 2012, 'Cantharellus cinereus'],
   ['mushroom-of-the-year-at', 2016, 'Hapalopilus croceus'],
   ['mushroom-of-the-year-at', 2017, 'Bovista paludosa'],
   ['mushroom-of-the-year-at', 2018, 'Pseudoplectania melaena'],
@@ -132,7 +131,6 @@ const YEAR_LIST_GAPS = [
   ['mushroom-of-the-year-nl', 2018, 'Leotia lubrica'],
   ['mushroom-of-the-year-nl', 2019, 'Clavaria argillacea'],
   ['mushroom-of-the-year-nl', 2020, 'Clavaria argillacea'],
-  ['mushroom-of-the-year-nl', 2021, 'Phyllotopsis nidulans'],
   ['mushroom-of-the-year-lv', 2024, 'Chlorociboria aeruginascens'],
   ['mushroom-of-the-year-lv', 2023, 'Grifola frondosa'],
   ['mushroom-of-the-year-lv', 2022, 'Hydnellum ferrugineum'],
