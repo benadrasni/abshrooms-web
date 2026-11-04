@@ -643,7 +643,8 @@ export const TAXA = {
     rank: "order"
   },
   Cenangiaceae: {
-    rank: "family"
+    rank: "family",
+    sk: "cenangiovité"
   },
   Mitrula: {
     rank: "genus"
@@ -685,7 +686,7 @@ export const TAXA = {
   },
   Clavariaceae: {
     rank: "family",
-    sk: "kyjankovité"
+    sk: "kyjačikovité"
   },
   Clavaria: {
     rank: "genus"
