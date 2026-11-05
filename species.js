@@ -94523,6 +94523,35 @@ export const CATALOG = [
     stipeHeightTo: 7,
     stipeThickFrom: 1,
     stipeThickTo: 3,
+    fruitingFrom: 5,
+    fruitingTo: 11,
+    label: {
+      en: "forest lamb",
+      sk: "krásnopórovec ovčí",
+      bg: "овча прахан",
+      zh: "绵地花孔菌",
+      hr: "ovčje vime",
+      cs: "krásnopórka mlynářka",
+      et: "harilik lambaseenik",
+      fi: "lampaankääpä",
+      fr: "polypore des brebis",
+      de: "Schafporling",
+      hu: "fakó zsemlegomba",
+      lt: "avinė dirvapintė",
+      no: "fåresopp",
+      pl: "naziemek białawy",
+      ro: "babița oilor",
+      ru: "трутовик овечий",
+      sl: "ovčji mesnatovec",
+      sv: "fårticka",
+      uk: "альбатрел овечий"
+    },
+    names: {
+      en: ["sheep polypore","sheep's foot"],
+      fr: ["polypore de brebis"],
+      de: ["Schafeuter-Porling","Schaf-Porling"],
+      ru: ["альбатреллус овечий"]
+    },
     text: {
       en: {
         label: "forest lamb",
