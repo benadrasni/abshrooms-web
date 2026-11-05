@@ -297,15 +297,15 @@ export const CATALOG = [
       confusion: "Forvekslingsmuligheder omfatter galderørhat (Tylopilus felleus), som har et mørkt netmønster på en bleg stok og porer, der bliver lyserøde, samt Satans rørhat (Rubroboletus satanas), som har rød stok og kød, der blåner ved beskadigelse. Bronze-rørhat (Boletus aereus), rødbrun rørhat (Boletus pinophilus) og sommer-rørhat (Boletus reticulatus) er beslægtede europæiske arter, der holdes adskilt fra Boletus edulis. Molekylære undersøgelser placerer navne som Boletus betulicola, Boletus persoonii, Boletus quercicola og Boletus venturii i Boletus edulis-komplekset."
     },
     no: {
-      description: 'En stor ektomykorrhizadannende sopp. Naturlig utbredt over hele Europa, Nord-Amerika og deler av Asia. Introdusert med plantede trær i Christchurch på New Zealand, i Adelaide Hills i Australia og i furuplantasjer i Sør-Afrika og Zimbabwe.',
-      cap: 'Hatten er vanligvis 5–30 cm bred, noen ganger større, halvkuleformet til hvelvet som ung og flater ut med alderen. Den er rødbrun, ofte med en lysere kant, og blir klebrig i fuktig vær. Et fullvoksent fruktlegeme kan veie rundt 1 kg. Et eksemplar fra Skye i 1995 hadde en hattdiameter på 42 cm.',
-      hymenium: 'Rørene er omtrent 1–2 cm dype. Porene er små, omtrent to til tre per millimeter. De er hvitaktige og virker tette hos unge eksemplarer, blir deretter gule og senere grønngule til brune. De skifter ikke farge ved berøring eller trykk.',
-      stipe: 'Stilken er vanligvis 6–25 cm høy og 2–7 cm tykk, hvit eller gulaktig. Den er ofte oppsvulmet ved basis som ung og blir mer sylindrisk senere. Et fint opphøyd hvitaktig årenett dekker den øvre delen, noen ganger hele stilken. Kjøttet i stilkbasis er noen ganger mørkegult.',
-      flesh: 'Kjøttet er hvitt, tykt og fast hos unge sopper, og blir noe svampete med alderen. Gjennomskåret eller skadet kjøtt forblir hvitt, med et svakt rosa eller vinbrunt skjær like under hatthuden.',
-      sporePrint: 'Olivenbrunt. Sporene er elliptiske til spindelformede, omtrent 12–17 × 5–7 μm.',
-      habitat: 'Fruktlegemer viser seg om sommeren og høsten, enkeltvis eller i grupper på to eller tre. Den vokser i mykorrhiza med levende trær, inkludert furu, gran, hemlokk, edelgran, bøk, eik og ekte kastanje, i kjølig-tempererte og subtropiske skoger.',
-      uses: 'Den er en utsøkt matsopp (god matsopp), som spises fersk i sesongen og enda oftere tørket og deretter bløtlagt, til supper, pasta og risotto. Den dyrkes ikke kommersielt som en pålitelig avling.',
-      confusion: 'Forvekslingsarter inkluderer gallerørsopp (Tylopilus felleus), som har et mørkt årenett på en lys stilk og porer som blir rosa med alderen, og satansopp (Rubroboletus satanas), som har rød stilk og kjøtt som blåner ved overskjæring. Eikesteinsopp (Boletus aereus), rødbrun steinsopp (Boletus pinophilus) og bleklodden steinsopp (Boletus reticulatus) er nærstående europeiske arter som holdes adskilt fra Boletus edulis. Molekylære studier plasserer navn som Boletus betulicola, Boletus persoonii, Boletus quercicola og Boletus venturii i Boletus edulis-komplekset.'
+      description: "En stor ektomykorrhizadannende sopp. Naturlig utbredt over hele Europa, Nord-Amerika og deler av Asia. Introdusert sammen med plantede trær i Christchurch på New Zealand, i Adelaide Hills i Australia samt i furuplantasjer i Sør-Afrika og Zimbabwe.",
+      cap: "Hatten er vanligvis 5–30 cm bred, noen ganger større, hvelvet som ung og flater ut med alderen. Den er rødbrun, ofte med en lysere kant, og klebrig i fuktig vær. Et fullvoksent fruktlegeme kan veie rundt 1 kg. Et eksemplar fra Skye i 1995 hadde en hattdiameter på 42 cm.",
+      hymenium: "Rørene er omkring 1–2 cm dype. Porene er små, omtrent to til tre per millimeter. De er hvitaktige og ser fylte ut hos unge eksemplarer, blir deretter gule og senere grønngule til brune. De misfarges ikke ved berøring eller trykk.",
+      stipe: "Stilken er vanligvis 6–25 cm høy og 2–7 cm tykk, hvit eller gulaktig. Den er ofte oppsvulmet ved basis som ung og mer sylindrisk senere. Et fint opphøyd årenett dekker den øvre delen, noen ganger hele stilken. Kjøttet i stilkbasis er noen ganger mørkegult.",
+      flesh: "Kjøttet er hvitt, tykt og fast hos unge sopper, og blir noe svampete med alderen. Gjennomskåret eller skadet kjøtt forblir hvitt, med et svakt rosa eller vinbrunt skjær like under hatthuden.",
+      sporePrint: "Olivenbrunt. Sporene er elliptiske til spindelformede, cirka 12–17 × 5–7 μm.",
+      habitat: "Fruktlegemer viser seg om sommeren og høsten, enkeltvis eller i grupper på to eller tre. Den vokser i mykorrhiza med levende trær, inkludert furu, gran, hemlokk, edelgran, bøk, eik og ekte kastanje, i kjølig-tempererte og subtropiske skoger.",
+      uses: "Den er en utsøkt matsopp, som spises fersk i sesongen og enda oftere tørket og deretter bløtlagt, til supper, pasta og risotto. Den dyrkes ikke som en pålitelig kommersiell avling.",
+      confusion: "Forvekslingsarter inkluderer gallerørsopp (Tylopilus felleus), som har et mørkt årenett på en lys stilk og porer som blir rosa, samt satansopp (Rubroboletus satanas), som har rød stilk og kjøtt som blåner ved trykk eller snitt. Eikesteinsopp (Boletus aereus), rødbrun steinsopp (Boletus pinophilus) og bleklodden steinsopp (Boletus reticulatus) er nærstående europeiske arter som holdes adskilt fra Boletus edulis. Molekylære studier plasserer navn som Boletus betulicola, Boletus persoonii, Boletus quercicola og Boletus venturii i Boletus edulis-komplekset."
     },
     sv: {
       description: "En stor ektomykorrhizabildande svamp. Ursprunglig i hela Europa, Nordamerika och delar av Asien. Introducerad tillsammans med planterade träd i Christchurch i Nya Zeeland, i Adelaide Hills i Australien samt i tallplantager i Sydafrika och Zimbabwe.",
@@ -1107,16 +1107,16 @@ export const CATALOG = [
       notes: "Den blev tidligere brugt mod fluer."
     },
     no: {
-      description: 'En ektomykorrhizadannende sopp i løv- og barskog. Vanlig over hele den nordlige halvkule, inkludert De britiske øyer, det europeiske fastlandet, Asia, USA og Canada. Den er introdusert i Australia (inkludert Tasmania) og New Zealand.',
-      cap: 'Hatten er 10–20 cm bred som utvokst, rød eller av og til oransje. Den er avrundet til halvkuleformet som ung og flater vanligvis ut med alderen, noen ganger med et svakt nedsunket sentrum. Uregelmessige hvite hattformede rester av universalsløret (velum universale) ligger på hatten og kan vaskes bort i regnvær.',
-      hymenium: 'Skivene er hvite, frie og tette. De blir blekgule etter hvert som fruktlegemet modnes.',
-      stipe: 'Stilken er 10–25 cm lang og 1–2 cm tykk, hvit, med en riflet, hengende hvit ring. Basis er knollformet oppsvulmet og bærer hvite rester av volvaen, som sprekker opp i konsentriske kranser eller skjellaktige ringer.',
-      flesh: 'Kjøttet er hvitt, med et gyllengult lag like under hatthuden. Lukten er ikke utpreget.',
-      sporePrint: 'Hvitt. Sporene er ovale, omtrent 9–13 × 6,5–9 μm, og blir ikke blå i jod (inamyloide).',
-      habitat: 'Fruktlegemer viser seg fra august til november. Den vokser i symbiose med løv- og bartrær, særlig bjørk, furu og gran.',
-      uses: 'Rød fluesopp er giftig. Den inneholder muskimol og ibotensyre; dødelige forgiftninger er ekstremt sjeldne. Forkoking i rikelig med vann hvor kokevannet kastes er en historisk praksis og gjør ikke soppen trygg å spise.',
-      confusion: 'Keiserfluesopp (Amanita caesarea) har oransje hatt med stripet kant og gul stilk, og finnes knapt eller aldri i Nord-Europa. Rødnende fluesopp (Amanita rubescens) kan ha en dyp oransjebrun hatt, men kjøttet rødner tydelig ved skade. Bøkekremle (Russula nobilis) har knallrød hatt, men mangler ring og volva helt. Mange mykologer regner den brune brun fluesopp (Amanita regalis) som en egen art.',
-      notes: 'Soppen ble tidligere brukt som fluegift ved at den ble lagt i melk.'
+      description: "En ektomykorrhizadannende sopp i løv- og barskoger. Vanlig over hele den nordlige halvkule, inkludert Storbritannia og Irland, det europeiske fastlandet, Asia, USA og Canada. Introdusert i Australia (inkludert Tasmania) og New Zealand.",
+      cap: "Hatten er 10–20 cm bred som utvokst, rød eller av og til oransje. Den er avrundet som ung og flater vanligvis ut, noen ganger med et svakt nedsunket sentrum. Uregelmessige hvite fragmenter av det universelle sløret ligger på hatten og kan vaskes bort i regnvær.",
+      hymenium: "Skivene er hvite, frie og tette. De blir blekgule etter hvert som fruktlegemet modnes.",
+      stipe: "Stilken er 10–25 cm lang og 1–2 cm tykk, hvit, med en riflet, hengende hvit ring. Basis er oppsvulmet og beholder hvite rester av volvaen (sliren), som sprekker opp i konsentriske kranser av skjell.",
+      flesh: "Kjøttet er hvitt, med et gyllengult lag like under hatthuden. Lukten er ikke utpreget.",
+      sporePrint: "Hvitt. Sporene er ovale, cirka 9–13 × 6,5–9 μm, og farges ikke blå i jod (inamyloide).",
+      habitat: "Fruktlegemer viser seg fra august til november. Den vokser sammen med løv- og bartrær, særlig bjørk, furu og gran.",
+      uses: "Rød fluesopp er giftig. Den inneholder muskimol og ibotensyre, og dødelige forgiftninger er ekstremt sjeldne.",
+      confusion: "Keiserfluesopp (Amanita caesarea) har oransje hatt med stripet kant og gul stilk, og finnes sjelden eller aldri i Nord-Europa. Rødnende fluesopp (Amanita rubescens) kan ha mørkt oransje hatt, og kjøttet rødmer ved skade. Giftkremle (Russula nobilis) har lysende rød hatt, men mangler ring og volva. Mange forfattere regner brun fluesopp (Amanita regalis) som en egen art.",
+      notes: "Den ble tidligere brukt som middel mot fluer."
     },
     sv: {
       description: "En ektomykorrhizabildande svamp i löv- och barrskogar. Allmän på norra halvklotet, inklusive Brittiska öarna, det europeiska fastlandet, Asien, USA och Kanada. Introducerad i Australien (inklusive Tasmanien) och Nya Zeeland.",
@@ -1931,16 +1931,16 @@ export const CATALOG = [
       notes: "Cantharellus pallens betragtes i dag af mange som en selvstændig art."
     },
     no: {
-      description: 'En ektomykorrhizadannende sopp. Naturlig utbredt i Europa fra Skandinavia til Middelhavet, og vanlig over store deler av kontinentet. I snever forstand er den en rent europeisk art; nordamerikanske sopper som tidligere ble plassert under dette navnet, tilhører andre arter.',
-      cap: 'Hatten er opptil 10 cm bred og vanligvis traktformet, med en bølget, uregelmessig kant. Fargen varierer fra lys gul til dyp eggeplommegul. Et fint hvitt belegg kan noen ganger dekke overflaten.',
-      hymenium: 'Undersiden bærer ribber eller årer (falske skiver) snarere enn ekte skiver. Tykke, rynkete ribber løper langt nedover stilken (nedløpende). De er rette nær stilken og gaffeldelte og mer buede mot hattkanten.',
-      stipe: 'Stilken har samme farge som hatten eller er noe lysere, massiv og avsmalnende mot basis, og går jevnt over i hatten. Den er 2–8 cm lang og 0,5–1,5 cm tykk. I tette klynger er stilkene ofte bøyde og noen ganger sammenvokste ved bunnen.',
-      flesh: 'Kjøttet er hvitt til blekgult, fast og fibrøst i stilken. Lukten minner svakt om aprikos. Smaken av rått kjøtt er mild til svakt pepperaktig, men ikke utpreget.',
-      sporePrint: 'Blekgult til kremhvitt, noen ganger med et svakt rosa skjær. Sporene er ellipsoide og glatte, 8–11 × 5–7 μm.',
-      habitat: 'Fruktlegemer viser seg fra juni til oktober, og inn i november i milde høster. Den vokser oftest i sur jord under bøk, eik, furu og gran, og trives særlig godt i mose.',
-      uses: 'Kantarellen er en utsøkt matsopp (god matsopp). Varmebehandlede fruktlegemer har en behagelig fruktig, aprikosaktig aroma og en fast tekstur. Den stekes i smør, brukes i stuing, sauser og supper, eller konserveres.',
-      confusion: 'Falsk kantarell (Hygrophoropsis aurantiaca) er mer oransje, har tette ekte skiver og mykere kjøtt. Oliventraktsopp (Omphalotus olearius) er en søreuropeisk giftsopp som vokser i klynger på trevirke. Blek kantarell (Cantharellus pallens) skilles ut som en egen art med et lyst, blekt skjellbelegg på hatten.',
-      notes: 'Cantharellus pallens regnes i dag som en egen art.'
+      description: "En ektomykorrhizadannende sopp. Naturlig utbredt i Europa fra Skandinavia til Middelhavet, og vanlig men lokalt forekommende i Storbritannia og Irland. I streng forstand er den europeisk. Nordamerikanske sopper som tidligere ble ført under dette navnet, tilhører andre arter.",
+      cap: "Hatten er opptil 10 cm bred og vanligvis traktformet, med en bølget og uregelmessig kant. Fargen varierer fra lys gul til dyp eggegul. Et fint hvitt belegg kan noen ganger dekke overflaten.",
+      hymenium: "Undersiden bærer falske skiver (ribber) snarere enn ekte skiver. Tykke, rynkede årer løper langt nedover stilken. De er rette nær stilken, og gaffeldelte og mer buktende ut mot hattkanten.",
+      stipe: "Stilken har samme farge som hatten eller er litt lysere, massiv og smalner av mot basis, og går jevnt over i hatten. Den er 2–8 cm lang og 0,5–1,5 cm tykk. I knipper er stilkene ofte bøyde og noen ganger sammenvokste nær basis.",
+      flesh: "Kjøttet er hvitt. Lukten er fruktig og minner om aprikoser, og smaken er mild med en svakt pepret ettersmak.",
+      sporePrint: "Blekgult til kremhvitt, noen ganger med et svakt rosa skjær. Sporene er ellipsoide og glatte, cirka 7–11 × 4–6 μm, og farges ikke blå i jod (inamyloide).",
+      habitat: "Fruktlegemer viser seg fra juli til desember i Storbritannia og Irland og gjennom store deler av Europa. Den vokser på bakken i skog, ofte i mose eller blant løvførne, i mykorrhiza med bøk, eik, furu og gran. Den foretrekker sur jordbunn.",
+      uses: "Kantarell er en utsøkt matsopp, verdsatt for sin fine smak og faste konsistens. Den tilberedes ofte stekt i smør eller brukes i sauser, supper og gryteretter.",
+      confusion: "Falsk kantarell (Hygrophoropsis aurantiaca) har ekte, tette, tynne oransje skiver som er gjentatte ganger gaffeldelte, samt en spedere stilk. Den giftige oliven-lystrattsoppen (Omphalotus olearius) vokser i knipper på løvtrær i Sør-Europa og har bioluminescerende oransje skiver. Blek kantarell (Cantharellus pallens) har en blekere, mer hvitaktig hatt med et tydelig hvitt belegg.",
+      notes: "Cantharellus pallens regnes nå av mange som en egen art."
     },
     sv: {
       description: "En ektomykorrhizabildande svamp. Ursprunglig i Europa från Skandinavien till Medelhavet, och allmän men lokalt förekommande på Brittiska öarna. I strikt bemärkelse är den europeisk. Nordamerikanska svampar som tidigare fördes under detta namn tillhör andra arter.",
@@ -2769,16 +2769,16 @@ export const CATALOG = [
       notes: "Den er registreret østpå til Primorskij kraj. En vurdering fra 2019 klassificerer den som livskraftig (Least Concern) med en stabil bestand."
     },
     no: {
-      description: 'En ektomykorrhizadannende rørsopp. En vanlig rørsopp i middelhavsområdet, tempererte og hemiboreale skoger gjennom store deler av Europa. Den danner mykorrhiza med løvtrær, særlig eik og bøk.',
-      cap: 'Hatten er vanligvis 10–20 cm bred (gjennomsnittlig 7–12 cm hos mindre eksemplarer), lys gulbrun til gråbrun eller hasselnøttbrun. Den er halvkuleformet til hvelvet som ung og flater ut senere. Overflaten er tørr og fint lodden eller fløyelsaktig som ung, og sprekker ofte opp i et karakteristisk mønster i tørt vær.',
-      hymenium: 'Rørene og de små porene er hvite som unge, og blir grønngule med alderen. De skifter ikke farge ved trykk eller snitt.',
-      stipe: 'Stilken er 8–18 cm lang og 2,5–6 cm tykk, ofte tønneformet til klubbeformet. Den er lys brun til lærfarget, og er dekket av et markant, hevet hvitt til lyst årenett som strekker seg nesten helt ned til basis.',
-      flesh: 'Kjøttet er hvitt. Gjennomsnittlig gjennomskåret kjøtt forblir hvitt og gulner bare svakt med alderen. Det er noe mindre fast enn kjøttet hos vanlig steinsopp. Lukten er behagelig soppaktig og nøtteaktig.',
-      sporePrint: 'Olivenbrunt. Sporene er subfusiforme og glatte, omtrent 13–15 × 4,5–5,5 μm.',
-      habitat: 'Fruktlegemer viser seg fra forsommeren til høsten, ofte tidligere på sesongen enn Boletus edulis. Den vokser i varme løvskoger under eik, bøk, kastanje og lind på veldrenert jord.',
-      uses: 'Den er en utsøkt matsopp (god matsopp), like god som Boletus edulis og brukes i de samme oppskriftene. Teksturen er litt mykere, og tørket sopp gir en kraftig aroma.',
-      confusion: 'Steinsopp (Boletus edulis) har glatt, ofte klebrig hatthud med hvit rand, blekere stilk med årenett hovedsakelig i øvre del, og opptrer gjerne senere på høsten. Eikesteinsopp (Boletus aereus) har mye mørkere, nesten bronsebrun til svartbrun hatt.',
-      notes: 'En vurdering fra 2019 plasserer arten som livskraftig (Least Concern) med en stabil bestand.'
+      description: "En ektomykorrhizadannende sopp. En vanlig rørsopp i middelhavsområdet, tempererte og hemiboreale skoger i hele Europa. Den er sjelden i Storbritannia og Irland og vanligere i Sør-Europa. Funn fra Nord-Amerika og Japan som tidligere ble ført til dette navnet tilhører andre arter, og et sørafrikansk funn under plantede furutrær regnes som sannsynlig introdusert.",
+      cap: "Hatten er vanligvis 10–20 cm bred (mindre eksemplarer i gjennomsnitt 7–12 cm), lys gulbrun til mellombryn. Til å begynne med er den fløyelsaktig, og i tørt vær blir den rynket eller fint oppsprukket. Kanten er ikke markant lysere enn midten.",
+      hymenium: "Rørene og de små porene er hvite hos unge eksemplarer, og blir grønngule med alderen. De forandrer ikke farge nevneverdig ved snitt eller trykk.",
+      stipe: "Stilken er 8–18 cm lang og 2,5–6 cm tykk, oftere tønneformet og bare av og til klubbeformet. Et lysere opphøyd årenett trer frem mot en blek til mellombryn bunn, mørkest mot toppen og basis og noe lysere og mer rosa nær den oppsvulmede midtdelen. Årenettet løper vanligvis langt nedover stilken og noen ganger helt til basis.",
+      flesh: "Kjøttet er hvitt. Gjennomskåret kjøtt forblir hvitt og gulner bare svakt med alderen. Det er mindre fast enn kjøttet hos Boletus edulis eller Boletus aereus. Lukten er jordaktig. Smaken er behagelig og mild, om enn ikke like kraftig som hos steinsopp.",
+      sporePrint: "Olivenbrunt (olivenaktig snusbrunt). Sporene er spoleformede og glatte, cirka 13–15 × 4,5–5,5 μm.",
+      habitat: "Fruktlegemer viser seg fra juni til oktober i Storbritannia og Irland, og frem til februar i enkelte deler av Sør-Europa. Den vokser på bakken under løvtrær, særlig bøk og eik, men også sammen med andre løvtrær og unntaksvis under gran. Den bærer frukt noe tidligere enn Boletus edulis.",
+      uses: "Den er en utsøkt matsopp, like god som Boletus edulis og brukes i de samme oppskriftene. Konsistensen og smaken er nesten den samme, og kjøttet er noe mindre fast.",
+      confusion: "Steinsopp (Boletus edulis) har en lysere stilk, et hvitt årenett og en brun hatt med hvitaktig kant, og den fruktifiserer senere. Eikesteinsopp (Boletus aereus) har en mørkere hatt og mye fastere kjøtt. Gallerørsopp (Tylopilus felleus) har et mørkere årenett på en lysere stilk, et rosa skjær på porene og en svært bitter smak. Giftige røde rørsopper, slik som satansopp (Rubroboletus satanas), har rødt kjøtt eller røde porer, eller blåner umiddelbart ved snitt.",
+      notes: "Den er registrert østover til Primorje kraj. En vurdering fra 2019 plasserer den som livskraftig (Least Concern), med en stabil bestand."
     },
     sv: {
       description: "En ektomykorrhizabildande svamp. En allmän sopp i medelhavs-, tempererade och hemiboreala skogar i hela Europa. Den är sällsynt på Brittiska öarna och vanligare i Sydeuropa. Fynd från Nordamerika och Japan som tidigare förts till detta namn tillhör andra arter, och en förekomst i södra Afrika under planterade tallar anses troligen introducerad.",
@@ -3613,16 +3613,16 @@ export const CATALOG = [
       notes: "Var. procera og var. pseudo-olivascens anerkendes. Sidstnævnte udvikler olivenfarvede pletter på hatten og vokser under nåletræer. Arten er vidt udbredt i det tempererede Eurasien, og nordamerikanske fund mangler stadig bekræftelse."
     },
     no: {
-      description: 'En saprotrof stor skivesopp. Utbredt og stedvis vanlig i Europa, i lysåpne skoger, beitemarker, skogbryn og lysninger på næringsrik, veldrenert grunn.',
-      cap: 'Hatten er 10–25 cm bred, av og til opptil 30 cm. Den starter kuleformet til eggformet, lukket rundt stilken, før den åpner seg til en bred hvelvet hatt med en markant mørk midtknekk (umbo). Hatthuden sprekker opp i grove, brune, konsentriske skjell på en lysere hvitaktig bakgrunn.',
-      hymenium: 'Skivene er brede, tette og frie, og slutter et stykke fra stilken. De er hvite til blekt kremfargede, og forblir uforandret ved snitt eller berøring.',
-      stipe: 'Stilken blir opptil 30 cm høy og 1–1,5 cm tykk, med en kraftig oppsvulmet knollbasis opptil 2,5 cm bred. Den er hul og seig, med et karakteristisk slangeskinnslignende, brunt sikk-sakk-mønster på lys bunn, samt en stor, tykk, dobbeltvegget ring som sitter løst og kan forskyves opp og ned langs stilken.',
-      flesh: 'Kjøttet er hvitt og skifter ikke farge ved gjennoskjæring. I hatten er det mykt og mørt, mens stilkkjøttet er treent og seigt. Lukten og smaken er behagelig nøtteaktig.',
-      sporePrint: 'Hvitt til blekt kremfarget. Sporene er store, ellipsoide, glatte og tykkveggede, omtrent 12–18 × 8–12 μm.',
-      habitat: 'Fruktlegemer viser seg fra juli til oktober eller november. Den vokser på gresskledde heier, beitemarker, skoglysninger og i vegkanter.',
-      uses: 'Den er en utsøkt matsopp (god matsopp). Kun hatten brukes, da stilken er for seig og treaktig. Hatten paneres og stekes ofte hel som en wienersnitsel.',
-      confusion: 'Rødnende parasollsopp (Chlorophyllum rhacodes) er mindre, har grovere skjell, glatt stilk uten vannelsmønster, og kjøttet rødner kraftig ved snitt eller trykk. Giftige små parasollsopper i slekten Lepiota er vesentlig mindre (under 10 cm brede) og mangler den løse, forskyvbare ringen.',
-      notes: 'Det skilles mellom underarter som var. procera og var. pseudo-olivascens.'
+      description: "En saprotrof sopp. Vanlig i den sørlige delen av Storbritannia og Irland, og mindre vanlig i Nord-England og Skottland unntatt ved lune kyststrøk. Den forekommer også i det meste av det europeiske fastlandet og gjennom tempererte deler av Eurasia. Nordamerikanske funn er fremdeles ubekreftede.",
+      cap: "Hatten er 10–25 cm bred, av og til opptil 30 cm. Den begynner som kuleformet og lysebrun til lærfarget, med en mørkere brun midt som brytes opp i konsentriske ringer av skjell når hatthuden sprekker, og den brer seg ut til den er flat med en fremtredende mørk pukkel.",
+      hymenium: "Skivene er brede, tette og frie, og ender i en viss avstand fra stilken. De er hvite eller blekt kremfargede.",
+      stipe: "Stilken blir opptil 30 cm høy og 1–1,5 cm tykk, og når 2,5 cm over den knollformede basisen, samt smalner noe av mot toppen. Knollen mangler volva (slire). Overflaten er hvit eller kremfarget og dekket av små brune skjell som danner et båndet slangeskinnsmønster. En tykk ring med dobbel egg omtrent to tredjedeler oppe på stilken er varig og blir løs nok til å kunne skyves langs stilken. Innvendig er stilken seig, trevlet og hul.",
+      flesh: "Kjøttet er hvitt og forandrer seg ikke nevneverdig ved gjennomskjæring. I hatten er det tynt, mykt og noe svampete. I stilken er det seigt og trevlet. Lukten er behagelig nøtteaktig eller ubetydelig, og smaken er søtlig og nøtteaktig.",
+      sporePrint: "Hvitt eller svært blekt kremfarget. Sporene er ellipsoide til eggformede, glatte og tykkveggede, cirka 12–18 × 8–12 μm, med en liten spirepore. De er dekstrinoide.",
+      habitat: "Fruktlegemer viser seg fra juni til november i Storbritannia og Irland, og senere i Sør-Europa. Den vokser i skoglysninger, åpen skog, veikanter og gresskledde steder ved skogsbryn, alene eller i spredte flokker og hekseringer, også på varig beitemark, blant bregner og på stabile sanddyner, og sjelden på forstyrret mark som hager og parsellhager.",
+      uses: "Den er en utsøkt matsopp, og fruktlegemene bør varmebehandles. Hattene er delen som brukes, blant annet stekt som snitsel. Stilkene er seige, selv om de også hakkes til suppe eller tørkes og males. Soppen stekes, tørkes eller stues.",
+      confusion: "Rødnende parasollsopp (Chlorophyllum rhacodes) er mindre, med større tilbakebøyde skjell og en stilk som mangler slangeskinnsmønsteret. Kjøttet blir rødt ved snitt, og for mange mennesker er den giftig. Chlorophyllum molybdites har grønnlige skiver og et grønt sporeavtrykk, og stilken mangler slangeskinnsmønsteret. Små Lepiota-arter (småparasollsopper) kan være alvorlig giftige, så en fullt utvokst hatt under 10 cm bør helst stå. Hvite knopper av fluesopp (Amanita), inkludert panterfluesopp (Amanita pantherina), er en annen fare; parasollsoppen har mørkere skjell på en lysere hatt og bør bare plukkes etter at hatten har åpnet seg forbi knoppstadiet.",
+      notes: "Varietetene var. procera og var. pseudo-olivascens er anerkjent. Den andre utvikler olivenfargede flekker på hatten og vokser under bartrær. Arten er vidt utbredt i tempererte Eurasia, og nordamerikanske rapporter trenger fremdeles bekreftelse."
     },
     sv: {
       description: "En saprotrof svamp. Allmän i södra delen av Storbritannien och Irland, samt mindre vanlig i norra England och Skottland förutom vid skyddade kuster. Den förekommer också i större delen av det europeiska fastlandet och genom tempererade Eurasien. Nordamerikanska fynd är ännu obekräftade.",
@@ -4435,16 +4435,16 @@ export const CATALOG = [
       notes: "Helt hvide frugtlegemer er en farveform."
     },
     no: {
-      description: 'En ektomykorrhizadannende, dødelig giftig sopp. Den er ansvarlig for de aller fleste dødelige soppforgiftninger i Europa. Utbredt i løvskog i tempererte deler av Europa og introdusert til Nord-Amerika, Australia og andre deler av verden med importerte trær.',
-      cap: 'Hatten er vanligvis 5–15 cm bred. Den starter halvkuleformet og flater ut med alderen. Fargen er olivengrønn, gulgrønn eller blekgrønn, ofte med mørkere stråler mot midten og lysere kant, men kan blekne mot nesten hvit i tørt vær. Hatthuden er lett avdragbar og blir klebrig i fuktig vær.',
-      hymenium: 'Skivene er hvite, frie fra stilken, brede og tette. De forblir hvite gjennom hele soppens levetid.',
-      stipe: 'Stilken er 7–15 cm lang og 1–2 cm tykk, hvit til svakt grønnlig vatret med et fint sikksakk-mønster. Den bærer en hengende, hvit membranaktig ring øverst. Ved basis har den en stor, poseformet, hvit slire (volva) som omslutter den oppsvulmede knollen.',
-      flesh: 'Kjøttet er hvitt, også like under hatthuden, og misfarges ikke ved snitt. Unge eksemplarer har en svak, behagelig lukt, mens eldre fruktlegemer utvikler en ubehagelig, søtlig og kvalmende lukt.',
-      sporePrint: 'Hvitt. Sporene er subglobose til ovale, glatte og amyloide, 8–11 × 7–9 μm.',
-      habitat: 'Fruktlegemer viser seg fra august til oktober. Den vokser i mykorrhiza med løvtrær, særlig eik og bøk, sjeldnere under bartrær, på næringsrik og kalkrik grunn.',
-      uses: 'Dødelig giftig. Soppen inneholder amatoksiner (spesielt alfa-amanitin) og fallotoksiner, som forårsaker massiv leversvikt og nyreskade. Symptomene opptrer først etter 6–24 timer. Toksinene ødelegges ikke av koking, steking, tørking eller frysing.',
-      confusion: 'Grønn fluesopp kan forveksles med spiselige sjampinjonger (Agaricus), som imidlertid har skiver som raskt farges rosa og siden sjokoladebrune, og som mangler volva. Den kan også forveksles med grønne kremler som gaffelkremle (Russula cyanoxantha), men kremler mangler både ring og volva og har sprøtt, osteaktig kjøtt. Gul fluesopp (Amanita citrina) har gulaktig hatt med mørkere lapper, lukter rå potet og har en kantet knoll i stedet for poseformet volva.',
-      notes: 'En enkelt hatt inneholder mer enn nok gift til å ta livet av et voksent menneske.'
+      description: "En ektomykorrhizadannende sopp i løvskog, særlig sammen med eik. Naturlig utbredt over store deler av Europa, fra Irland og Sør-Skandinavia gjennom Middelhavsområdet til Marokko og Algerie, med rapporter fra det nordlige Iran. Introdusert i Nord-Amerika, Australia, Sør-Afrika og deler av Sør-Amerika.",
+      cap: "Hatten er 5–15 cm bred. Den begynner som eggformet og nesten hvit, blir deretter gul, bronsefarget eller olivengrønn, vanligvis mørkere i midten, og flater ut med alderen. Kanten er ikke stripet. Slørrester forsvinner snart, selv om et stort kremfarget flak kan sitte igjen i tørt vær. En helt hvit form forekommer.",
+      hymenium: "Skivene er frie, brede og tette. De er rent hvite til å begynne med og blir kremfargede med alderen, noen ganger med et svakt rosa skjær.",
+      stipe: "Stilken er 7–15 cm lang og gråhvit, med et lysere sikksakkmønster. En skjør, hengende ring blir vanligvis værende ved modenhet. Den oppsvulmede basisen sitter i en stor, hvit poselignende slire (volva), som ofte er grønntonet på innsiden.",
+      flesh: "Kjøttet er hvitt og forandrer ikke farge ved gjennomskjæring. Lukten er ubetydelig som ung. Gamle fruktlegemer lukter ubehagelig og kvalmende søtlig.",
+      sporePrint: "Hvitt. Sporene er glatte og ellipsoide, cirka 7–12 × 6–9 μm, og blir blå i jod (amyloide).",
+      habitat: "Fruktlegemer viser seg om sommeren og høsten, fra juli til november i Storbritannia og Irland. Den vokser med løvtrær, særlig eik, og sjeldnere med bartrær.",
+      uses: "Den er dødelig giftig. Den inneholder amatoksiner, som verken koking eller frysing ødelegger, og den forårsaker de fleste dødelige soppforgiftninger.",
+      confusion: "Gul fluesopp (Amanita citrina) beholder vanligvis brunkremfargede slørrester på hatten og har en kantet knoll fremfor en åpen poselignende slire. Sjampinjongarter (Agaricus) mangler slire (volva), og skivene deres blir rosa og deretter mørkebrune. Den hvite formen kan ligne hvit fluesopp (Amanita virosa). Grønne kremlearter, inkludert grønnkremle (Russula aeruginea), har sprøtt kjøtt og verken ring eller slire. En ung knopp kan ligne en røyksopp inntil den skjæres igjennom og sliren og skivene kommer til syne.",
+      notes: "Helt hvite fruktlegemer regnes som en fargeform."
     },
     sv: {
       description: "En ektomykorrhizabildande svamp i lövskogar, särskilt med ek. Ursprunglig över stora delar av Europa, från Irland och södra Skandinavien genom Medelhavsområdet till Marocko och Algeriet, med rapporter från norra Iran. Introducerad i Nordamerika, Australien, Sydafrika och delar av Sydamerika.",
@@ -5238,16 +5238,16 @@ export const CATALOG = [
       notes: "I det vestlige Nordamerika er de brune fluesvampe, som har fået dette navn, andre arter, og målene angivet her gælder for europæiske frugtlegemer."
     },
     no: {
-      description: 'En ektomykorrhizadannende, sterkt giftig sopp. Den finnes i løv- og barskoger i store deler av Europa og Asia, ofte i varme skogbryn og parker.',
-      cap: 'Hatten er 4–11 cm bred, mørkebrun, nøttebrun til gråbrun, ofte med mørkere sentrum. Den er halvkuleformet som ung og flater ut med alderen. Kanten er tydelig stripet hos utvokste eksemplarer. Overflaten er dekket av mange små, snøhvite, regelmessige vorter (rester av universalsløret).',
-      hymenium: 'Skivene er hvite, frie, tette og forblir hvite uten å misfarges.',
-      stipe: 'Stilken er 6–14 cm lang og 0,8–2 cm tykk, hvit, hul med alderen. Den har en hengende, tynn hvit ring som ofte sitter lavt på stilken og mangler tydelige striper på oversiden. Basis ender i en knoll med en karakteristisk, skarp kantkrage og ofte én til to konsentriske ringvalker over kragen.',
-      flesh: 'Kjøttet er hvitt og skifter ikke farge ved overskjæring eller skade. Lukten er svak, men minner svakt om rått mel eller reddik.',
-      sporePrint: 'Hvitt. Sporene er bredt ellipsoide, glatte og inamyloide, 8–12 × 6,5–8,5 μm.',
-      habitat: 'Fruktlegemer viser seg fra juli til oktober. Den vokser under eik, bøk, furu og gran på varm og kalkrik grunn.',
-      uses: 'Panterfluesopp er sterkt giftig. Den inneholder ibotensyre og muskimol i betydelig høyere konsentrasjoner enn rød fluesopp, og forårsaker alvorlig forgiftning av sentralnervesystemet med hallusinasjoner, kramper og bevisstløshet.',
-      confusion: 'Rødnende fluesopp (Amanita rubescens) har rødbrunt anstrøk, kjøtt som tydelig rødner ved skade, riflet overside på ringen og uregelmessige gråhvite skjell. Grå fluesopp (Amanita excelsa) har gråbrune skjell, riflet ring og kjøtt som ikke rødner, men mangler den skarpe knollkragen.',
-      notes: 'Den inneholder samme type toksiner som Amanita muscaria, men i langt mer potente mengder.'
+      description: "En ektomykorrhizadannende sopp i edelløvskog, særlig med bøk, samt i blandingsskog med eik. Den er et sjeldent funn i Storbritannia og Irland og mye vanligere lenger sør i Europa. Den er også rapportert over Vest-Asia, og forekommer sjeldnere med bartrær og unntaksvis på enger.",
+      cap: "Hatten er 5–12 cm bred. Den er skinnende brun eller gråbrun, og fargen varierer fra lys oker til svært mørk brun. Kanten er svært fint stripet. Hatten begynner som hvelvet og flater ut med alderen. Rent hvite rester av det universelle sløret er vanligvis prikket nokså jevnt over overflaten. De kan skylles bort i regnvær.",
+      hymenium: "Skivene er hvite, frie, tette og temmelig brede.",
+      stipe: "Stilken er 6–12 cm lang og rent hvit. En hengende ring er kraftig til å begynne med og blir ofte tynn og slapp med alderen. Den svakt oppsvulmede basisen beholder de hvite restene av sliren (volvaen), vanligvis som én eller flere ullne ringer, eller som en spiral, over en smal fure.",
+      flesh: "Kjøttet er hvitt og blir ikke rosa eller rødt ved snitt. Lukten er ikke utpreget, selv om skadet kjøtt lukter svakt av reddik.",
+      sporePrint: "Hvitt. Sporene er glatte, bredt ellipsoide til eggformede, 8–12 × 6,7–7,5 μm, og farges ikke blå i jod (inamyloide).",
+      habitat: "Fruktlegemer viser seg fra august til november i Storbritannia og Irland, og ofte opptil tre måneder senere helt sør i Europa. Den vokser hovedsakelig med løvtrær, oftest eik eller bøk, noen ganger med bartrær, og av og til sammen med solrose der det ikke står trær i nærheten.",
+      uses: "Den er giftig, og mer giftig enn rød fluesopp (Amanita muscaria). Den inneholder ibotensyre og muskimol. Dødsfall er rapportert, selv om det er uvanlig.",
+      confusion: "Rødnende fluesopp (Amanita rubescens) blir rosa eller rød på stilken og i hattekjøttet ved skade. Grå fluesopp (Amanita excelsa) har grålige slørrester på hatten, en kraftigere stilk og mangler en tydelig fure over knollen. De hvite slørflekkene kan vaskes bort i regnvær, så en bar brun hatt er også mulig.",
+      notes: "I det vestlige Nord-Amerika tilhører de brune fluesoppene som har fått dette navnet andre arter, og målene som er oppgitt her gjelder europeiske fruktlegemer."
     },
     sv: {
       description: "En ektomykorrhizabildande svamp i ädellövskog, särskilt bok, och i blandskogar med ek. Den är ett sällsynt fynd i Storbritannien och Irland och betydligt vanligare längre söderut i Europa. Den är också noterad över västra Asien, och förekommer mer sällan med barrträd och sällsynt på ängsmark.",
@@ -6045,16 +6045,16 @@ export const CATALOG = [
       notes: "Det er en europæisk art, der også er rapporteret fra Kina."
     },
     no: {
-      description: 'En ettertraktet vårmorkel i sekksporesoppene (Ascomycota). Den er saprotrof og fakultativt mykorrhizadannende. Utbredt over store deler av den nordlige halvkule, i lysåpne løvskoger, hager, frukthager og på flisbelagt grunn.',
-      cap: 'Hatten er 4–10 cm høy og 3–6 cm bred, rund til oval eller eggformet. Den har et karakteristisk nettverk av ribber som danner dype, uregelmessige groper (kamre), som minner om en badesvamp. Fargen varierer fra gulbrun og honninggul til gråbrun, og gropene er ofte mørkere enn ribbene.',
-      hymenium: 'Det sporebærende laget (hymeniet) kler innsiden av gropene på hatten. Askosporene dannes inne i mikroskopiske sporesekker (askuser), som hver inneholder åtte sporer.',
-      stipe: 'Stilken er 3–8 cm lang og 1,5–3 cm tykk, hvitaktig til blekgul, kornete eller fint melet på overflaten, og ofte oppsvulmet eller furet ved basis. Både hatten og stilken er helt hule og går i ett uten skillevegg.',
-      flesh: 'Kjøttet er hvitaktig til blekt oker, tynt, elastisk og voksaktig. Lukten og smaken er behagelig og mild.',
-      sporePrint: 'Kremgult til blekt oker. Sporene er ellipsoide, glatte, 18–25 × 11–15 μm, med små oljedråper i endene utenfor sporen.',
-      habitat: 'Fruktlegemer viser seg om våren, fra april til juni. Den vokser på kalkrik, næringsrik jord under lauvtrær som ask, alm og epletrær, i parker og på gammel hagejord.',
-      uses: 'Den er en utsøkt matsopp (god matsopp). Den må aldri spises rå da den inneholder magetarmirriterende stoffer som brytes ned ved varmebehandling. Den bør gjennomkokes eller gjennomstekes grundig før fortæring, og er ypperlig tørket.',
-      confusion: 'Spissmorkel (Morchella elata-komplekset) har mer kjegleformet hatt med langsgående ribber. Sandmorkel (Gyromitra esculenta) er dødelig giftig og har en hjerneaktig foldet hatt uten reelle groper, og stilken har flere uregelmessige kamre innvendig.',
-      notes: 'Rundmorkel opptrer ofte i hager og parker noen år etter at det er lagt ut bark eller flis.'
+      description: "En vårsopp i kalkrik skog. I streng forstand er den europeisk, og den er også rapportert fra Kina. Den er et uvanlig funn i Storbritannia og Irland, og forekommer gjennom hele det europeiske fastlandet. Nordamerikanske sopper som tidligere ble plassert under dette navnet, tilhører andre arter.",
+      cap: "Hatten er typisk 2–10 cm bred (i gjennomsnitt 4–6 cm) og 3–9 cm høy (i gjennomsnitt 5–7 cm). Den er eggformet til nesten kuleformet eller kjegleformet, med en buttet spiss og en hul innside. Overflaten har et nettverk av uregelmessige ribber som danner et bikakemønster av avlange fordypninger eller groper. Ribbene er gulbrune til gråbrune, og gropene er vanligvis mørkere i bunnen. Hele overflaten kan falme til en jevnere gul eller blekbrun farge med alderen.",
+      hymenium: "Det sporebærende laget kler de indre overflatene i de uregelmessige gropene på utsiden av hatten.",
+      stipe: "Stilken er 3–10 cm lang og 1,5–4 cm tykk, hvitaktig til blekgul, kornet eller fint melet på overflaten, og hul innvendig. Den er ofte furet eller foldet ved den oppsvulmede basisen, og går i ett med hatten i toppen.",
+      flesh: "Kjøttet er tynt, sprøtt, voksaktig og lyst kremfarget til gulhvitt. Lukten og smaken er behagelig og mild.",
+      sporePrint: "Kremhvitt eller blekt okergult. Sporene er ellipsoide og glatte, cirka 17,5–22 × 9–11 μm. Askene er sylindriske, cirka 260 × 20 μm, med åtte sporer.",
+      habitat: "Fruktlegemer viser seg om våren, fra mars til mai eller tidlig i juni. Den vokser på kalkrik grunn i edelløvskog, skogsbryn, parker, frukthager, elvebredder og nylig brent mark, ofte under ask, alm, eik og frukttrær.",
+      uses: "Den er en utsøkt matsopp når den er ordentlig varmebehandlet. Rå fruktlegemer kan forårsake alvorlige magesmerter og kvalme. Tilberedte fruktlegemer tørkes, stekes i smør eller brukes i supper. Fordi insekter ofte søker tilflukt inne i det hule indre, deles fruktlegemet vanligvis på langs før tilberedning.",
+      confusion: "Spissmorkel (Morchella elata eller Morchella conica) har en mer kjegleformet, spiss hatt med rettere langsgående ribber. Den giftige sandmorkelen (Gyromitra esculenta) har en hjerneaktig foldet og brunrød hatt, ikke et bikakemønster med groper, og inneholder det farlige giftstoffet gyromitrin. Klokkemorkel (Verpa bohemica) har en hatt som bare er festet helt øverst på stilken og henger fritt som en bjelle.",
+      notes: "Nyere fylogenetiske studier har vist at Morchella esculenta utgjør et artskompleks med mange adskilte arter i Europa og Nord-Amerika."
     },
     sv: {
       description: "En vårsvamp i kalkrika skogar. I strikt bemärkelse är den europeisk, och den rapporteras även från Kina. Den är ett ovanligt fynd i Storbritannien och Irland, och förekommer genom det europeiska fastlandet. Nordamerikanska svampar som tidigare placerats under detta namn är andra arter.",
@@ -6910,16 +6910,16 @@ export const CATALOG = [
       notes: "Pleurotus columbinus er en blågrå form, der undertiden behandles som en selvstændig art, og Pleurotus floridanus holdes adskilt. Mycelet indfanger og fordøjer nematoder. Arter af denne slægt indeholder lovastatin, et statin der sænker blodets kolesteroltal."
     },
     no: {
-      description: 'En utbredt vedboende skivesopp som er saprotrof og nematofag (mycelet lammer og fordøyer rundormer). Den danner tette, taklagte klynger på svekkede eller døde løvtrær, særlig bøk, bjørk og osp, over hele Europa, Asia og Nord-Amerika.',
-      cap: 'Hatten er 5–20 cm bred, tungeformet, skålformet eller vifteformet med innrullet kant som ung. Fargen varierer fra mørk blygrå, blågrå eller stålgrå til gråbrun, og blekner til brungul eller lyst lærfarget med alderen. Overflaten er glatt og fuktig.',
-      hymenium: 'Skivene er hvite til kremfargede, tette og løper langt nedover stilken (nedløpende). De gulner noe hos eldre eksemplarer.',
-      stipe: 'Stilken er kort eller mangler nesten helt, 1–4 cm lang og 1–2 cm tykk, ofte sidefelt eller eksentrisk festet til trestammen, hvit og lodden ved basis.',
-      flesh: 'Kjøttet er hvitt, tykt og saftig i hatten, men blir seigt og treaktig i stilken med alderen. Lukten er behagelig soppaktig med et svakt anisolje- eller mandelaktig hint.',
-      sporePrint: 'Hvitt til svakt lillagrått. Sporene er sylindriske til bønneformede, glatte, 8–12,5 × 3–4,5 μm.',
-      habitat: 'Fruktlegemer viser seg hovedsakelig om senhøsten og vinteren (ofte etter de første frostnettene), men kan opptre gjennom hele året i fuktige perioder. Den vokser på stammer og stubber av løvtrær.',
-      uses: 'Den er en utsøkt matsopp (god matsopp) og dyrkes i stor skala over hele verden. Unge hatter stekes, grilles eller brukes i gryter og supper. Må varmebehandles grundig da rå sopp inneholder varmelabile hemolytiske stoffer.',
-      confusion: 'Blek østerssopp (Pleurotus pulmonarius) er lysere kremfarget og opptrer om sommeren. Krittøsterssopp (Pleurocybella porrigens) vokser utelukkende på råtnende bartrevirke og er tynnkjøttet og kritthvit. Viftelærsopp (Panellus stipticus) er liten, seig og bitter.',
-      notes: 'Mycelet skiller ut giftstoffer som lammer nematoder (rundormer), som deretter brytes ned for å skaffe nitrogen. Soppen produserer også lovastatin, et kolesterolsenkende stoff.'
+      description: "En treboende sopp som danner store, taklagte knipper på levende og døde løvtrær. Den er vidt utbredt og vanlig i tempererte og boreale skoger over hele verden, inkludert Storbritannia, Irland, store deler av Europa, Asia og Nord-Amerika.",
+      cap: "Hatten er typisk 5–18 cm bred (av og til 2–30 cm, i gjennomsnitt rundt 15 cm). Den er hvit, kremfarget, brun, røykgrå eller blågrå, og konsollformet, muslingformet, vifteformet eller østersformet, med en sidestilt eller eksentrisk stilk. Den begynner som hvelvet, med innrullet kant som ung, og blir flatere eller midtstilt nedsunket, med en bølgete kant som noen ganger er sprukket. Fruktlegemer vokser ofte i overlappende, taklagte etasjer, der hver stilk er festet separat.",
+      hymenium: "Skivene er hvite til kremfargede, brede, tette og løper langt nedover stilken (nedløpende). De er ofte gaffeldelte nær stilkfestet og kan få et svakt gult skjær hos eldre eksemplarer.",
+      stipe: "Stilken er hvit eller kremfarget og ullen ved basis. Den mangler noen ganger helt. Når den finnes, er den vanligvis kort, 1–4 cm lang og 1–2 cm tykk, avsmalnende mot basis, eksentrisk eller sidefestet til veden, uten ring. Den vider seg jevnt ut i hatten, slik at hatten noen ganger ser ut til å vokse direkte ut fra treet.",
+      flesh: "Kjøttet er hvitt og fast, og blir seigt i stilken. Smaken er mild og behagelig, og lukten er soppaktig eller har et svakt preg av anis eller mandel.",
+      sporePrint: "Hvitt til blekt lillagrått. Sporene er subsylindriske til smalt nyreformede og glatte, 8–12,5 × 3–4,5 μm.",
+      habitat: "Fruktlegemer viser seg hovedsakelig om høsten og vinteren, selv om de kan opptre til enhver tid av året i Storbritannia, Irland og på det europeiske fastlandet. De vokser i overlappende knipper på døende eller døde stående løvtrær, særlig bøk og eik, samt på falne stammer og stubber, og bare ytterst sjelden på bartrær som gran.",
+      uses: "Den er en utsøkt matsopp, allment dyrket og solgt i butikker. Smaken er mild og teksturen myk, og den brukes i supper, stuing, wokretter og panerte retter. Fordi kjøttet blir seigt og smaken skarp med alderen, foretrekkes unge fruktlegemer.",
+      confusion: "Senskjellsopp (Pleurotus dryinus) har en melet hatt og en kortvarig ring på stilken. Blek østerssopp (Pleurotus pulmonarius) er blekere og bærer frukt oftere om sommeren, selv om begge arter kan fruktifisere til enhver tid og de to kan hybridisere. Dvergøsterssopper (Crepidotus) forblir under 4 cm i bredde. Krittøsterssopp (Pleurocybella porrigens) er vanligvis traktformet med kløvd kant, vokser på barved (hovedsakelig i barskog) og kan være dødelig for personer med nyresykdom. Andre lignende sopper inkluderer traktøsterssopp (Pleurotus cornucopiae), Hohenbuehelia petaloides og den hårete oransjeøsterssoppen (Phyllotopsis nidulans). Giftige forvekslingsarter i andre verdensdeler omfatter Omphalotus nidiformis i Australia samt Omphalotus olivascens og giftslørsopplignende traktsopper (Clitocybe dealbata) i Nord-Amerika. Enkelte giftige Lentinellus-arter har sagtakkede skiveegger og fint hårete hatter. Kongsøsterssopp (Pleurotus eryngii) er en nærstående dyrket art.",
+      notes: "Blå østerssopp (Pleurotus columbinus) er en blågrå form som noen ganger behandles som en egen art, og Pleurotus floridanus holdes adskilt. Mycelet fanger og fordøyer nematoder (rundormer). Arter i denne slekten inneholder lovastatin, et statin som senker kolesterolnivået i blodet."
     },
     sv: {
       description: "En saprotrof svamp, ibland svagt parasitisk, på lövved. Den förekommer i hela Storbritannien och Irland och i större delen av det europeiska fastlandet, och är allmänt noterad i stora delar av Asien, däribland Japan, samt i delar av Nordamerika. Den saknas i Stillahavsområdet i nordvästra Nordamerika.",
@@ -7735,16 +7735,16 @@ export const CATALOG = [
       notes: "Den globale bevaringsstatus er GNR, sidst vurderet i 1993. Laetiporus cincinnatus, Laetiporus huroniensis, Laetiporus gilbertsonii og Laetiporus montanus er selvstændige arter."
     },
     no: {
-      description: 'En iøynefallende porekledd kjuke som vokser parasittisk og saprotroft på levende og døde løvtrær, spesielt eik, og sjelden på barlind. Utbredt i Europa og østlige deler av Nord-Amerika.',
-      cap: 'Fruktlegemene danner store, taklagte konsoller som blir 10–40 cm brede (av og til opptil 60 cm) og 3–12 cm tykke. Unge konsoller er myke, saftige og svampete med bølgete, tykke kanter. Fargen er lysende svovelgul til laksoransje eller ferskenfarget, og blekner til lyst lærfarget eller hvitaktig med alderen.',
-      hymenium: 'Rørene er korte, 1,5–4 mm lange. Porene er bittesmå, 2–4 per millimeter, og lysende svovelgule.',
-      stipe: 'Mangler stilk; konsollene sitter direkte festet til trestammen med en bred eller innsnevret basis.',
-      flesh: 'Kjøttet er mykt, saftig og gult til oransjeaktig som ungt, og kan skille ut gulaktig væske ved trykk. Med alderen blir det tørt, smuldrete og kritthvitt. Smaken er mildt syrlig og lukten soppaktig.',
-      sporePrint: 'Hvitt. Sporene er bredt ovale til ellipsoide, glatte, 5–7 × 3,5–4,5 μm.',
-      habitat: 'Fruktlegemer viser seg fra mai til høsten (hovedsakelig sensommer). Den forårsaker en aggressiv brun råte i kjerneveden på eik, kastanje, pil og frukttrær.',
-      uses: 'Unge, myke fruktlegemer er spiselige (god matsopp) og smaker og føles som kyllingkjøtt (kjent som \'chicken of the woods\'). Den må varmebehandles grundig og aldri spises rå. Sopper som vokser på barlind (Taxus) må unngås da de kan ta opp giftige stoffer fra vertstreet.',
-      confusion: 'Kjempeflathatt/kjempemorkel-aktige kjuker som kjempekjuke (Meripilus giganteus) har porer som sverter ved trykk. Nordamerikanske arter som Laetiporus cincinnatus har hvite porer.',
-      notes: 'Den globale bevaringsstatusen er ikke vurdert (GNR).'
+      description: "En hylleformet kjukesopp på levende og døde løvtrær, og av og til på barlind. Den er spredt forekommende i mange deler av Storbritannia og Irland og lokalt vanlig, blant annet i barlindskog. Den samme soppen, eller arter som står den svært nær, er rapportert over hele Nord-Europa og, i Nord-Amerika, øst for Rocky Mountains.",
+      cap: "Enkeltstående hyller er typisk 10–40 cm brede (av og til 5–60 cm) og 3–12 cm tykke. Unge hyller er myke og saftige, med brede, bølgete kanter som blir tynnere og blekere med alderen. Fargen spenner fra lysende oransje og rosaoransje til eggegul eller blekt kremgul, og gamle fruktlegemer blekner til lærfarget eller hvitaktig.",
+      hymenium: "Rørene er korte, 1,5–4 mm dype. Porene er avrundede til ovale, vanligvis 2–4 per millimeter, og lysende svovelgule (og blekner til blekgule med alderen).",
+      stipe: "Den mangler stilk. Hyllene vokser direkte ut fra trestammen eller smalner av til en sidestilt basis.",
+      flesh: "Kjøttet er hvitt til guloransje når det er fuktig og blekere i tørr tilstand. Det lukter soppaktig og smaker syrlig. Som fersk er det saftig og kan skille ut en gulaktig saft. Senere blir det tørt, smuldrete og sprøtt.",
+      sporePrint: "Hvitt. Sporene er ellipsoide til bredt eggformede, 5–7 × 3,5–4,5 μm.",
+      habitat: "Fruktlegemer viser seg hovedsakelig om sommeren og høsten (fra april til november i Europa, og fra juni til oktober i Nord-Amerika). Den vokser på stående og falne stammer, og av og til på store greiner, hovedsakelig av eik, ekte kastanje, bøk og av og til kirsebær, selje og barlind. Den lever på død eller døende ved og parasitterer levende trær, der den forårsaker en brun terningråte i kjerneveden.",
+      uses: "Unge, saftige fruktlegemer er en god matsopp. De skjæres i skiver, pensles med olje og stekes i brødsmuler, eller sauteres i smør. Teksturen og smaken sammenlignes med kylling. En minoritet av mennesker opplever kvalme eller fordøyelsesbesvær. Fruktlegemer som vokser på barlind eller robinia (falsk akasie) unngås fordi disse trærne inneholder giftstoffer. Den må ikke spises rå, og eldre hyller er seige og treaktige.",
+      confusion: "Blekere fruktlegemer kan ligne kjempekjuke (Meripilus giganteus), hvis porer svertes ved trykk. I Nord-Amerika vokser Laetiporus cincinnatus ved basis av eiketrær og har en blek rosaoransje overside og hvite porer, Laetiporus persicinus bruner ved trykk, Laetiporus huroniensis vokser på bartrær som hemlokk, og Laetiporus gilbertsonii vokser på eukalyptus og eik i vest. Alvorlig ubehag etter inntak har særlig vært knyttet til artene som lever på bartrær og eukalyptus.",
+      notes: "Den globale bevaringsstatusen er GNR, sist vurdert i 1993. Laetiporus cincinnatus, Laetiporus huroniensis, Laetiporus gilbertsonii og Laetiporus montanus regnes som separate arter."
     },
     sv: {
       description: "En ticka på levande och döda lövträd, och ibland på idegran. Den är sparsamt förekommande i många delar av Storbritannien och Irland och lokalt allmän, bland annat i idegransskogar. Samma svamp, eller arter som står den mycket nära, rapporteras över norra Europa och, i Nordamerika, öster om Klippiga bergen.",
@@ -8603,16 +8603,16 @@ export const CATALOG = [
       notes: "En vurdering fra 2019 klassificerer den som livskraftig (Least Concern) med en stabil bestand. Frugtlegemerne kan bioakkumulere kviksølv, kobolt og nikkel, og et pigment i hatten (norbadion A) opkoncentrerer radioaktivt cæsium-137."
     },
     no: {
-      description: 'En ektomykorrhizadannende rørsopp i bar- og blandingsskog. En vurdering fra 2019 lister den som hjemmehørende over store deler av Europa og Nord-Amerika, der den er en av de vanligste og mest skattede matsoppene.',
-      cap: 'Hatten er vanligvis 5–15 cm bred. Den er mørkebrun, kastanjebrun til sjokoladebrun, halvkuleformet som ung og hvelvet til flat senere. I tørt vær er overflaten fløyelsaktig, men den blir glatt og klebrig i fuktig vær.',
-      hymenium: 'Rørene er opptil 1–2 cm dype, blekgule i starten og blir grønngule til olivengule. Porene er kantede og blåner raskt ved trykk eller berøring.',
-      stipe: 'Stilken er 4–15 cm lang og 1–4 cm tykk, mer eller mindre sylindrisk, ofte langstrakt. Den er lysere brun enn hatten med langsgående fine striper eller fibre, men mangler et opphøyd årenett.',
-      flesh: 'Kjøttet er hvitt til blekgult, med et svakt rødbrunt skjær like under hatthuden, og blåner svakt og uregelmessig ved gjennomskjæring, særlig over rørene og i stilktoppen. Lukten er behagelig fruktig og smaken mild.',
-      sporePrint: 'Olivenbrunt. Sporene er glatte, spindelformede, 11–15 × 4–5,5 μm.',
-      habitat: 'Fruktlegemer viser seg fra august til november. Den vokser på sur grunn under bartrær (særlig gran og furu), men kan også finnes under bøk og eik, ofte nær råtnende stubber eller i dyp mose.',
-      uses: 'Den er en utsøkt matsopp (god matsopp), nær på høyde med steinsopp og egnet til steking, tørking og supper. Blåfargen forsvinner under varmebehandling.',
-      confusion: 'Steinsopp (Boletus edulis) har et tydelig hvitt årenett øverst på stilken og rør som ikke blåner ved trykk. Gallerørsopp (Tylopilus felleus) har mørkt årenett på stilken, porer som blir rosa, og en intenst bitter smak.',
-      notes: 'En vurdering fra 2019 plasserer arten som livskraftig (Least Concern). Soppen har en tendens til å akkumulere tungmetaller og radioaktivt cesium.'
+      description: "En ektomykorrhizadannende sopp i barskog og blandingsskog. En vurdering fra 2019 lister den som opprinnelig i store deler av Europa samt i Canada, USA og Russland. Den er vanlig i Storbritannia og Irland. Ytterligere funn rapporteres fra Tyrkia, Jordan, Kina, Taiwan og det sentrale Mexico.",
+      cap: "Hatten er typisk 5–15 cm bred (3–9 cm i nordamerikanske innsamlinger). Den er kastanjebrun, mørkebrun eller rødbrun, fint lodden eller fløyelsaktig som ung og glatt senere. Den blir klebrig eller slimete i fuktig vær og tørker raskt inn. Kanten er smal og overhengende, og hatthuden er vanskelig å flå av fra kjøttet.",
+      hymenium: "Rørene er opptil 1–2 cm dype, lysgule til å begynne med og blir grønngule eller olivenfargede, og blåner vanligvis ved snitt. Porene er kantete, omkring 1–3 per millimeter, kremhvite til lysgule, overgående i olivengule, og antar ved trykk en matt blå eller blågrønn fargetone hos modne fruktlegemer.",
+      stipe: "Stilken er 4–15 cm lang (opptil 18 cm i Nord-Amerika) og 1–4 cm tykk. Den er mer eller mindre sylindrisk, ofte noe bøyd eller fortykket nær basis, med hvitt basismycel og uten ring. Overflaten er lysgul ved toppen og brun til rødbrun nedover, dekket av fine langsgående brune fibriller mot en lysere bunn snarere enn et opphøyd årenett.",
+      flesh: "Kjøttet er hvitt til lyst gult, med en vinrosa eller brunaktig fargetone like under hatthuden, og farges vanligvis lyst blått eller blågrønt like over rørene og i stilkens topp ved gjennomskjæring. Lukten er svak eller lett fruktig, og smaken er mild.",
+      sporePrint: "Olivenbrunt. Sporene er nesten spoleformede (boletoid-fusiforme) og glatte, cirka 11–15 × 4–5,5 μm.",
+      habitat: "Fruktlegemer viser seg om sensommeren og høsten, fra august til november i Storbritannia og Irland samt fra juli til november i Nord-Amerika. De vokser enkeltvis eller spredt på bakken, eller på råtne mosegrodde stubber, under furu, gran, hemlokk og andre bartrær, samt mer sjeldent under bøk, eik, ekte kastanje og bjørk. De unngår kalkrik jordbunn.",
+      uses: "Den er en utsøkt matsopp, svært lik Boletus edulis i matverdi og egnet i de samme oppskriftene. Fruktlegemene angripes sjeldnere av mark enn mange andre rørsopper, og de tørker godt når de skjæres i tynne skiver. De selges på markeder i Europa og det sentrale Mexico.",
+      confusion: "Steinsopp (Boletus edulis) har noen ganger en kastanjebrun hatt, men dens lyse stilk bærer et opphøyd hvitt årenett og porene blåner ikke ved trykk. Aureoboletus projectellus er kraftigere og har en grovt nettmønstret stilk. Austroboletus gracilis blåner ikke, og dens porer blir rosaaktige. Sørlig fløyelsrørsopp (Xerocomus subtomentosus) har en tørr, fløyelsaktig hatt og videre gule porer som sjelden blåner. Xerocomellus zelleri i det vestlige Nord-Amerika og Hortiboletus bubalinus er også svært like.",
+      notes: "En vurdering fra 2019 klassifiserer den som livskraftig (Least Concern), med en stabil bestand. Fruktlegemer kan bioakkumulere kvikksølv, kobolt og nikkel, og et pigment i hatten (norbadion A) anriker radioaktivt cesium-137."
     },
     sv: {
       description: "En ektomykorrhizabildande svamp i barr- och blandskogar. En bedömning från 2019 listar den som ursprunglig i stora delar av Europa samt i Kanada, USA och Ryssland. Den är allmän i Storbritannien och Irland. Ytterligare fynd rapporteras från Turkiet, Jordanien, Kina, Taiwan och centrala Mexiko.",
@@ -9468,16 +9468,15 @@ export const CATALOG = [
       confusion: "Mørk honningsvamp (Armillaria ostoyae) har mørkebrune eller sorte skæl på undersiden af ringen og vokser hovedsageligt på nåletræer. Knoldfodet honningsvamp (Armillaria gallica) har en knoldformet stokbasis og et spindelvævsagtigt slør, der kun efterlader en utydelig ringzone. Ringløs honningsvamp (Desarmillaria tabescens) mangler en ring. Almindelig skælhat (Pholiota squarrosa) har skællet hat og stok, lameller der bliver rustbrune, og intet hvidt sporeaftryk. Den dødeligt giftige randbæltet hjelmhat (Galerina marginata) vokser også på ved, men er mindre, har et rustbrunt sporeaftryk og mangler den tykke hvid-og-gule ring samt sorte rhizomorfer. Flere honningfarvede Armillaria-arter blev behandlet under dette ene navn indtil 1970'erne."
     },
     no: {
-      description: 'En parasittisk skivesopp på levende løvtrær, og en saprotrof på stubber og døde røtter. Den er utbredt og vanlig i tempererte skoger i Europa, og danner svarte strenger av mycel (rhizomorfer) under barken og i jorda.',
-      cap: 'Hatten er 3,5–15 cm bred, honninggul til gyllengul eller rødbrun, ofte mørkere i midten. Den er hvelvet som ung og flater ut med alderen. Overflaten har små, mørke, opprette skjell som ofte forsvinner mot kanten og på eldre hatter.',
-      hymenium: 'Skivene er tilvokste til svakt nedløpende, tette, hvitaktige til kremfargede som unge, og utvikler gulaktige eller rustbrune flekker etter hvert.',
-      stipe: 'Stilken er 6–20 cm lang og 0,5–2,5 cm tykk, avsmalnende mot basis der mange stilker møtes i en felles klynge. Den er blekgul øverst og mørkere brun nederst, og bærer en markant, hvit til gulaktig, tykk ring.',
-      flesh: 'Hattkjøttet er hvitt til blekt gulaktig, fast, og endrer ikke farge ved overskjæring. Stilkkjøttet er treent og seigt. Lukten er svakt syrlig og smaken mild til svakt snerpende bitter.',
-      sporePrint: 'Hvitt til blekt kremfarget. Sporene er ellipsoide, glatte og inamyloide, 7–9 × 5–6 μm.',
-      habitat: 'Fruktlegemer viser seg fra juli til november, oftest i september og oktober. De opptrer i tette, store klynger på stammer, stubber og røtter av løvtrær som eik, bøk og frukttrær.',
-      uses: 'Hattene er spiselige med forbehold (spiselig med forbehold), men må varmebehandles grundig før de spises; de seige stilkene kastes. Rå eller utilstrekkelig kokt sopp er giftig og forårsaker kraftige mage- og tarmsmerter. Noen personer reagerer allergisk selv etter grundig koking.',
-      confusion: 'Mørk honningsopp (Armillaria ostoyae) vokser hovedsakelig på bartrær og har mørkere skjell på hatten og mørkebrune skjell på undersiden av ringen. Stubbeskjellsopp (Kuehneromyces mutabilis) har brunt sporeavtrykk og skjellet stilk under ringen. Besk svovelsopp (Hypholoma fasciculare) har grønngule skiver og bitter smak.',
-      notes: 'Det vegetative mycelet er bioluminescerende (lyser svakt i mørket).'
+      description: "En parasittisk sopp på levende trevirke av løvtrær og en saprotrof på stubber og døde røtter. Den er vanlig i Storbritannia og Irland og gjennom store deler av det europeiske fastlandet, mer sjelden i Skandinavia og vanligere lenger sør, samt er registrert i det østlige og sørøstlige Nord-Amerika og i California.",
+      cap: "Hatten er 3,5–15 cm bred. Den er honninggul til gullgul eller rødbrun, vanligvis mørkere i midten. Den begynner som dypt hvelvet og flater ut, og utvikler ofte en opphøyd midt og en bølget, stripet kant. Fine mørke eller brunaktige skjell dekker den unge hatten, tydeligst mot midten, selv om de kan slites bort med alderen. Overflaten er tørr til klebrig ved fuktig vær.",
+      hymenium: "Skivene er tilvokste til kort nedløpende og tette. De er først dekket av et hvitaktig til lysgult partielt slør, og er hvitaktige til kjøttfargede som unge, overgående i gulaktig med rustbrune flekker med alderen.",
+      stipe: "Stilken er 6–20 cm lang og 0,5–2,5 cm tykk, avsmalnende mot basis der stilkene i et knippe er sammenvokst. Den er hvitaktig nær toppen og gulaktig til mørkebrun eller olivensvart mot basis, med en seig, trevlet ytre bark og hvit marg innvendig. En varig, tykk, hinnenaktig hvit ring med gul, ullen underside og kant sitter på den øvre delen av stilken.",
+      flesh: "Hattekjøttet er hvitt til hvitaktig og fast, og endrer ikke farge ved snitt. Lukten er svak eller søtlig, og smaken er mild til å begynne med med en noe bitter eller snerpende ettersmak. Aktivt voksende mycel i råtnende ved er bioluminescerende (lysved), mens selve fruktlegemene ikke lyser.",
+      sporePrint: "Hvitt til lyst kremfarget. Sporene er ellipsoide, glatte og inamyloide, 7–9 × 5–6 μm, med en tydelig apiculus. Basidiene mangler klemmebøyler ved basis.",
+      habitat: "Fruktlegemer viser seg fra juli til november i Storbritannia, Irland og på det europeiske fastlandet, samt om høsten (eller inn i vinteren i varmere klima) i Nord-Amerika. De vokser i tette knipper på levende stammer, stubber og begravde røtter av løvtrær, inkludert eik og frukttrær, og sprer seg gjennom bakken og barken ved hjelp av seige, svarte rotlignende rhizomorfer.",
+      uses: "Den er spiselig og velsmakende etter grundig varmebehandling, men kan forårsake kraftige mage-tarm-plager dersom den er utilstrekkelig tilberedt eller spises i store mengder. Rå sopp er giftig. Kun unge hatter brukes vanligvis, ettersom stilkene er seige og tungt fordøyelige.",
+      confusion: "Mørk honningsopp (Armillaria ostoyae) vokser hovedsakelig på barved og har mørkere, mer markante skjell på hatten og en ring med mørkebrune slørtufser. Ringløs honningsopp (Desarmillaria tabescens) mangler ring fullstendig. Klubbehonungsopp (Armillaria gallica) har en mer klubbeformet stilkbasis og et gult, mer opprevet ringslør. Norsk honningsopp (Armillaria cepistipes) er spedere og vokser i glisnere grupper. Flatklokkehatt (Galerina marginata) er dødelig giftig og skilles ved brunt sporeavtrykk, mindre størrelse og vekst på barved. Besk svovelsopp (Hypholoma fasciculare) vokser også i knipper, men har svovelgult kjøtt, grønnlige skiver og mørkt purpurbrunt sporeavtrykk. Seig riddermusserong (Tricholoma sejunctum) vokser på bakken og mangler ring."
     },
     sv: {
       description: "En parasitisk svamp på levande lövträdsved och en saprotrof på stubbar och döda rötter. Den är allmän i Storbritannien och Irland och genom stora delar av det europeiska fastlandet, mer sällsynt i Skandinavien och vanligare längre söderut, samt är noterad i östra och sydöstra Nordamerika och i Kalifornien.",
@@ -10334,16 +10333,16 @@ export const CATALOG = [
       notes: "Mens de fleste blækhatte af molekylære årsager er blevet overført til Coprinopsis, Coprinellus og Parasola i Psathyrellaceae, forbliver denne art i Agaricaceae. En vurdering fra 2019 (ændret i 2022) opregner den som livskraftig (Least Concern). Dens mycelium kan immobilisere og fordøje jordlevende nematoder."
     },
     no: {
-      description: 'En saprotrof skivesopp som vokser på plener, beitemarker, veikanter og ruderatmark. Utbredt og vanlig over store deler av verden i tempererte soner.',
-      cap: 'Hatten er 5–15 cm høy (av og til opptil 20 cm) og 3–8 cm bred. Den starter avlangt sylindrisk eller klokkeformet, nesten lukket om stilken. Fargen er hvit, og overflaten sprekker opp i store, frynsete, opprullede skjell, bortsett fra den glatte, lysebrune toppen. Ved modning smelter hatten og skivene nedenfra og opp til en svart, blekkaktig væske (autolyse).',
-      hymenium: 'Skivene er frie, ekstremt tette og brede. De er først rent hvite, blir så rosa, og oppløses deretter raskt til svart blekkvæske.',
-      stipe: 'Stilken er 10–30 cm lang og 1–2,5 cm tykk, hvit, hul og silkeaktig trådet. Den bærer en tynn, bevegelig hvit ring som ofte faller av eller glir ned til basis.',
-      flesh: 'Kjøttet er hvitt, tynt og skjørt i hatten, og trådet i stilken. Lukten og smaken er mild og behagelig.',
-      sporePrint: 'Svart til brunsvarte. Sporene er glatte, ellipsoide med en sentral spirepore, 9–13 × 6,5–9,5 μm.',
-      habitat: 'Fruktlegemer viser seg fra mai til november, særlig på sensommeren og høsten. Den vokser i grupper på næringsrik, forstyrret mark, nysådde plener og langs veier.',
-      uses: 'Unge, faste fruktlegemer der skivene fortsatt er helt hvite, er en utsøkt matsopp (god matsopp). Den må tilberedes straks etter plukking før autolysen starter. Inneholder ikke koprin og kan trygt nytes sammen med alkohol.',
-      confusion: 'Grå blekksopp (Coprinopsis atramentaria) har glatt eller rynket gråbrun hatt uten store skjell, og inneholder stoffet koprin, som gir kraftig antabus-lignende forgiftning ved samtidig inntak av alkohol.',
-      notes: 'De fleste andre blekksopper er overført til slektene Coprinopsis og Coprinellus, mens matblekksoppen tilhører Coprinus s.str.'
+      description: "En saprotrof sopp på rik, kulturpåvirket eller gjødslet mark. Den er vidt utbredt og vanlig gjennom tempererte deler av den nordlige halvkule, inkludert Storbritannia, Irland, det europeiske fastlandet og Nord-Amerika. Den er også innført til Australia og New Zealand.",
+      cap: "Hatten er 4–10 cm høy og 3–6 cm bred som ung, sylindrisk eller klokkeformet, og strekker seg til 15 cm eller mer før den går i oppløsning. Den er hvit med en gulbrun midt, og overflaten sprekker snart opp i grove, opprette hvite til lysbrune ullne skjell. Fra kanten og oppover løses hatten og skivene opp til en svart, klebrig blekklignende væske gjennom selvsmelting (autodigestjon).",
+      hymenium: "Skivene er frie fra stilken, ekstremt tettstilte og tynne. De er rent hvite til å begynne med, blir raskt rosa eller lakserosa fra kanten og smelter deretter ned til svart blekk.",
+      stipe: "Stilken er 10–30 cm høy (unntaksvis opptil 40 cm) og 1–2,5 cm tykk, sylindrisk eller svakt avsmalnende oppover, glatt, hvit, sprø og hul, med en løs trådaktig streng av fibre hengende inne i hulrommet. Den løsner lett fra hatten. En smal, bevegelig hvit ring nær basis blir ofte farget av svarte sporer eller glir nedover stilken.",
+      flesh: "Kjøttet er hvitt, svært mørt og saftig i unge hatter, uten fremtredende lukt eller smak.",
+      sporePrint: "Svart til bronseaktig svart. Sporene er ellipsoide og glatte, 9–13 × 6,5–9,5 μm, med en sentral eller svakt eksentrisk spirepore.",
+      habitat: "Fruktlegemer viser seg fra april til november i Storbritannia, Irland og på det europeiske fastlandet, samt om sommeren og høsten i Nord-Amerika, rikest like etter regn. De vokser enkeltvis, i små grupper eller i flokker og hekseringer på plener, veikanter, stikanter, treflis og forstyrret eller komprimert mark.",
+      uses: "Den er en utsøkt matsopp av høy kvalitet når den tilberedes som ung mens skivene fremdeles er rent hvite. Den må tilberedes umiddelbart etter plukking ettersom selvsmeltingen fortsetter selv etter høsting. Den inneholder ikke koprin og forårsaker derfor ikke antabuslignende reaksjoner i kombinasjon med alkohol.",
+      confusion: "Grå blekksopp (Coprinopsis atramentaria) har en glatt, grå eller gråbrun furet hatt uten grove hvite skjell og inneholder koprin, noe som forårsaker alvorlig forgiftning i kombinasjon med alkohol. Dunblekksopp (Coprinopsis lagopus) og hjulblekksopp (Parasola plicatilis) er betydelig mindre, tynnere og kortlivede. Snøhvit blekksopp (Coprinopsis nivea) vokser direkte på møkk og er melaktig hvit. Grønnsporet parasollsopp (Chlorophyllum molybdites) i Nord-Amerika har grønt sporeavtrykk og kan forårsake alvorlig forgiftning.",
+      notes: "Mens de fleste blekksopper har blitt overført på molekylært grunnlag til Coprinopsis, Coprinellus og Parasola innen familien Psathyrellaceae, forblir denne arten i Agaricaceae. En vurdering fra 2019 (oppdatert 2022) lister den som livskraftig (Least Concern). Mycelet kan immobilisere og fordøye jordlevende nematoder."
     },
     sv: {
       description: "En saprotrof svamp på rik, kulturpåverkad eller gödslad mark. Den är vitt utbredd och allmän genom tempererade delar av norra halvklotet, inklusive Storbritannien, Irland, det europeiska fastlandet och Nordamerika. Den är även införd i Australien och Nya Zeeland.",
@@ -11178,16 +11177,15 @@ export const CATALOG = [
       confusion: "Spiselig morkel (Morchella esculenta) har en dybt grubet hat og ét sammenhængende hulrum, og dens stok er sædvanligvis længere. Almindelig foldhat (Helvella crispa) har en cremefarvet hvid, sadelformet hat og en stok med langsgående hulrum. Kæmpestenmorkel (Gyromitra gigas), bispehue (Gyromitra infula) og Gyromitra ambigua ligner, og de to sidstnævnte er giftige."
     },
     no: {
-      description: 'En vårsopp i sekksporesoppene (Ascomycota) som vokser i sandete barskog. Utbredt i Europa og Nord-Amerika, særlig vanlig i boreale barskoger på forstyrret sandjord og hogstflater.',
-      cap: 'Hatten er 5–15 cm bred og 4–8 cm høy, uregelmessig rundet, med sterkt foldede og krøllete folder som minner slående om en hjerne eller valnøttkjerne. Fargen er rødbrun, kastanjebrun til mørkebrun.',
-      hymenium: 'Det sporebærende laget kler hele overflaten av de ytre foldene. Askosporene dannes inne i mikroskopiske sporesekker (askuser).',
-      stipe: 'Stilken er 2–5 cm høy og 2–3 cm tykk, blek, hvitaktig til lys gråaktig eller lyst kjøttfarget, og er uregelmessig furet. Innvendig har den flere hulrom og kamre.',
-      flesh: 'Kjøttet er tynt, sprøtt, voksaktig og hvitaktig. Lukten og smaken er behagelig og mild.',
-      sporePrint: 'Gulaktig til lyst okerfarget. Sporene er glatte, ellipsoide, 18–23 × 9–12 μm, med to oljedråper.',
-      habitat: 'Fruktlegemer viser seg fra april til juni, ofte rett etter snøsmeltingen. Den trives på mager sandjord langs skogsveier, stier og på hogstflater med furu.',
-      uses: 'Dødelig giftig. Soppen inneholder gyromitrin, som i kroppen omdannes til det svært giftige og kreftfremkallende stoffet monometylhydrazin (rakettdrivstoff). Verken koking eller tørking fjerner giften fullstendig, og dampene under tilberedning er giftige å puste inn. Soppen må aldri spises.',
-      confusion: 'Spiselige morkler i slekten Morchella, som rundmorkel (Morchella esculenta) og spissmorkel (Morchella elata), har groper og ribber, ikke hjerneaktige folder, og er fullstendig hule innvendig i ett enkelt sammenhengende kammer.',
-      notes: 'Tidligere ble sandmorkel spist etter gjentatt avkoking, men dette frarådes nå på det sterkeste da giften akkumuleres i kroppen og dampene er helsefarlige.'
+      description: "En vårsopp i sandrike barskoger. Den er vidt utbredt i Europa, der den er vanligere i fjellområder enn i lavlandet, og den er også registrert over store deler av Nord-Amerika. I Storbritannia og Irland blir den sjelden funnet og er svært lokal.",
+      cap: "Hatten er 5–15 cm bred og 4–8 cm høy. Den er rødbrun, uregelmessig flikete og minner om en hjerne, og den er vanligvis bredere enn den er høy. Avrundede folder danner uregelmessige hule kamre inne i hatten.",
+      hymenium: "Det fruktbare sporedannende laget kler utsiden av hatten. Det er glatt til å begynne med og blir dypt rynket og foldet. Kanten er bøyd innover og sammenvokst med stilken, og er sjelden fri hos unge eksemplarer.",
+      stipe: "Stilken er kremhvit og sprø. Den er 2–5 cm høy og 2–3 cm tykk. Flere uregelmessige rørformede hulrom løper inne i den.",
+      flesh: "Lukten og smaken er ikke fremtredende.",
+      sporePrint: "Gulaktig lærfarget, også beskrevet som hvitaktig. Sporene er ellipsoide, glatte og hyaline, 18–23 μm lange og av og til opptil 25 μm, samt 10–12,5 μm brede, vanligvis med to oljedråper. Askene er sylindriske, åttes porede, 180–220 × 15–17 μm.",
+      habitat: "Fruktlegemer viser seg fra april inn i juli, og de kan komme opp mens snøen smelter. Den vokser på sandholdig jord i barskog, oftest under furutrær og av og til under osp, og ofte der marken har blitt forstyrret.",
+      uses: "Den er dødelig giftig som rå eller utilstrekkelig varmebehandlet. Den inneholder gyromitrin, som i kroppen omdannes ved hydrolyse til den giftige forbindelsen monometylhydrazin (MMH), som skader leveren, sentralnervesystemet og de røde blodlegemene. Selv om fruktlegemer tradisjonelt har blitt spist i Skandinavia og Øst-Europa etter gjentatt avkoking i rikelig med vann der kokevannet kastes, fjerner avkoking ikke pålitelig all gift, innånding av dampene under koking kan i seg selv gi alvorlig forgiftning, og gjentatt inntak fører til at giftstoffet kan hope seg opp i kroppen.",
+      confusion: "Rundmorkel (Morchella esculenta) har en dypt gropet hatt med bikakemønster og et enkelt sammenhengende hulrom, og stilken er vanligvis lengre. Hvit hattesopp (Helvella crispa) har en kremhvit sadelformet hatt og en stilk med dype langsgående ribber og hulrom. Kjempe morkel (Gyromitra gigas), bispelue (Gyromitra infula) og mørk bispelue (Gyromitra ambigua) er nærstående arter, og de to sistnevnte er giftige."
     },
     sv: {
       description: "En vårsvamp i sandiga barrskogar. Den är vitt utbredd i Europa, där den är vanligare i bergsområden än i låglänta områden, och den är också noterad över stora delar av Nordamerika. I Storbritannien och Irland är den sällan funnen och mycket lokal.",
@@ -12003,16 +12001,16 @@ export const CATALOG = [
       notes: "En form har en svovlgul ring og er i øvrigt ens."
     },
     no: {
-      description: 'En ektomykorrhizadannende fluesopp i løv- og barskog. Svært vanlig i store deler av Europa og Nord-Amerika på sur, mager grunn.',
-      cap: 'Hatten er 5–20 cm bred. Fargen er rødbrun, okerbrun til kjøttfarget brun. Den starter halvkuleformet og flater ut med alderen. Overflaten er besatt med tallrike gråhvite, rosagrå eller lyst rødbrune vorter eller flak (rester av universalsløret). Kanten er ikke stripet.',
-      hymenium: 'Skivene er hvite og tette, men utvikler rødaktige flekker eller misfarging der de er skadet eller med alderen.',
-      stipe: 'Stilken er 6–16 cm høy og 1–2,5 cm tykk, hvitaktig øverst og rødbrun eller rosabrun nederst, ofte med røde flekker. Den bærer en bred, hengende hvit ring som har tydelige langsgående striper eller riller på oversiden. Knollen i bunnen er avrundet uten skarp kantkrage.',
-      flesh: 'Kjøttet er hvitt, men rødner karakteristisk langsomt ved snitt, skade eller markangrep, og blir vinrødt til mursteinsrødt. Lukten er svak og smaken mild.',
-      sporePrint: 'Hvitt. Sporene er bredt ovale, glatte og amyloide, 8–10,5 × 6–7 μm.',
-      habitat: 'Fruktlegemer viser seg fra juni til oktober. Den vokser under både løvtrær (eik, bøk, bjørk) og bartrær (gran, furu).',
-      uses: 'Spiselig med forbehold (spiselig med forbehold). Den må aldri spises rå da den inneholder varmelabile hemolytiske toksiner (rubescenslysin) som ødelegger røde blodlegemer. Etter grundig gjennomsteking eller koking regnes den i mange europeiske land som en god matsopp, men forvekslingsfaren med dødelige fluesopper gjør at den frarådes for uerfarne.',
-      confusion: 'Panterfluesopp (Amanita pantherina) har snøhvite vorter, stripet hattkant, ustripet ring, skarp knollkrage og kjøtt som aldri rødner. Grå fluesopp (Amanita excelsa) har gråbrune flak og rødner ikke.',
-      notes: 'Rødningen i kjøttet og de fine stripene på oversiden av ringen er de viktigste kjennetegnene.'
+      description: "En ektomykorrhizadannende sopp i løv- og barskog, ofte i små grupper på mager, sur mark. Den er svært vanlig i Storbritannia, Irland og på det europeiske fastlandet, og er opprinnelig i Europa og Asia. I Sør-Afrika antas den å ha blitt innført med plantede trær. Nordamerikanske funn behandles som andre arter.",
+      cap: "Hatten er 5–20 cm bred, selv om enkelte modne hatter bare er omkring 2,5 cm. Fargen varierer fra nesten hvit via rosa og brunt til nesten svart, og er ofte brunrosa. Uregelmessige smusshvite eller grå fragmenter av det universelle sløret sitter vanligvis igjen på overflaten, og kraftig regn kan vaske dem bort. Hatten begynner som hvelvet og flater ut, og blir noen ganger noe traktformet.",
+      hymenium: "Skivene er hvite, tette og tilvokste til nesten frie fra stilken. På et modent fruktlegeme er de ofte flekket i rosa eller rustbrunt, og de blir rosa eller matt røde ved berøring.",
+      stipe: "Stilken er 7–15 cm lang og 1–2 cm tykk. Den er hvit over ringen og rødbrun under, ofte med dype rosa flekker. En tynn, skjør hengende ring er vanligvis furet og ofte frynset. Basisen er oppsvulmet. En tydelig slire (volva) synes bare på svært unge fruktlegemer og etterlater ingen ringer rundt basis. Stilken blir hul med alderen.",
+      flesh: "Kjøttet er hvitt. Gjennomskåret eller skadet kjøtt i hatten og stilken blir dyprosa eller matt rødt. Et ferskt fruktlegeme har ingen fremtredende lukt eller smak. Et eldre fruktlegeme fullt av insektlarver kan lukte ubehagelig.",
+      sporePrint: "Hvitt. Sporene er glatte, bredt ellipsoide til eggformede, 8–9 × 5–5,5 μm, og farges blåsvart i jod (amyloide).",
+      habitat: "Fruktlegemer viser seg fra juni til oktober i Storbritannia og Irland, og i milde perioder så sent som i desember. Den vokser med løv- og bartrær og er særlig rikelig i barskog.",
+      uses: "Den spises kun etter grundig varmebehandling. Rått kjøtt inneholder et hemolytisk giftstoff som kan ødelegge røde blodlegemer (forårsake anemi), og grundig oppvarming ødelegger dette giftstoffet. Fruktlegemene ligner giftige fluesopper.",
+      confusion: "Grå fluesopp (Amanita excelsa) har et kjøtt som ikke endrer farge ved snitt, og mange av dens fruktlegemer ser ellers ut som en lys form av denne soppen. Panterfluesopp (Amanita pantherina) har en brun hatt med rent hvite slørfragmenter, en glatt kragelignende volvakant og et kjøtt som ikke rødmer. Utvasket rød fluesopp (Amanita muscaria) kan være oransjebrun eller lysgul, med hvite slørfragmenter og uten rødnende kjøtt. Keiserfluesopp (Amanita caesarea) har en lysende oransje hatt med stripet kant og en gul stilk, og den påtreffes sjelden utenfor Sør-Europa.",
+      notes: "En form har en svovelgul ring, men er for øvrig lik."
     },
     sv: {
       description: "En ektomykorrhizabildande svamp i löv- och barrskog, ofta i små grupper på mager sur mark. Den är mycket allmän i Storbritannien, Irland och på det europeiska fastlandet, och är ursprunglig i Europa och Asien. I Sydafrika antas den ha införts med planterade träd. Nordamerikanska fynd behandlas som andra arter.",
@@ -12811,16 +12809,15 @@ export const CATALOG = [
       confusion: "Teglrød svovlhat (Hypholoma lateritium) har en teglrød hat, og dens gule lameller bliver olivenbrune frem for olivengrønne. Gran-svovlhat (Hypholoma capnoides) vokser på nåletræ, har mildtsmagende kød og blegt røggrå lameller uden noget grønt skær."
     },
     no: {
-      description: 'En svært vanlig, vedboende saprotrof skivesopp som vokser i tette klynger på død ved av både løvtrær og bartrær. Utbredt over hele den nordlige halvkule.',
-      cap: 'Hatten er 2–6 cm bred (noen ganger opptil 8 cm), lysende svovelgul til grønngul med et mørkere oransjebrunt til rødbrunt sentrum. Den er hvelvet som ung og flater ut med alderen.',
-      hymenium: 'Skivene er tette, tilvokste til svakt nedløpende. De er karakteristisk svovelgule til grønngule som unge, og mørkner til olivenbrunt og til slutt purpursvart ved sporemodning.',
-      stipe: 'Stilken er 4–10 cm lang og 0,3–1 cm tykk, svovelgul øverst og mer oransjebrun til rustbrun mot basis. Den er bøyd i klyngene og har flyktige, mørke rester av sløret (kortina) som danner en ufullstendig fibersone.',
-      flesh: 'Kjøttet er tynt, svovelgult, og lukter ubehagelig soppaktig. Smaken er intenst og vedvarende besk og bitter.',
-      sporePrint: 'Mørkt purpurbrunt. Sporene er glatte, ellipsoide med en distinkt spirepore, 6–8 × 4–4,5 μm.',
-      habitat: 'Fruktlegemer viser seg fra mai til november (og gjennom milde vintre). Den vokser i store klynger på råtnende stubber, røtter og falne trestammer.',
-      uses: 'Giftig. Soppen inneholder fascikuloler og forårsaker akutt mage- og tarmforgiftning med kvalme, oppkast og diaré. Den intense bitterheten gjør den uansett uspiselig.',
-      confusion: 'Teglrød svovelsopp (Hypholoma lateritium) har mørkere teglrød hatt og mangler den lysende svovelgule fargen på skivene. Stubbeskjellsopp (Kuehneromyces mutabilis) har behagelig smak, skjellet stilk og kanelbrunt sporeavtrykk.',
-      notes: 'Den intense bitre smaken er merkbar selv ved en ørten liten smaksprøve på tungespissen.'
+      description: "En vednedbrytende sopp som vokser i tette tuer på stubber og falne trestammer. Den er svært vanlig i Storbritannia og Irland og over store deler av det europeiske fastlandet, særlig i nord og i sentrale strøk. Den er likeledes vanlig i Nord-Amerika, og er registrert i Iran og i det østlige Anatolia.",
+      cap: "Hatten er 2–7 cm bred. Den er svovelgul, ofte lærfarget til oransjebrun i midten, samt hvelvet til svakt puklet. Mørke slørrester henger ofte igjen ved kanten.",
+      hymenium: "Skivene er tette og tilvokste til stilken. De er først svovelgule, deretter olivengrønne, og mørkner til svartaktige etter hvert som sporene modnes.",
+      stipe: "Stilken har mer eller mindre samme farge som hatten og er brunere mot basis. Den er 5–12 cm lang og 0,5–1 cm tykk, og er vanligvis bøyd.",
+      flesh: "Hattekjøttet er svovelgult og ganske fast. Lukten er soppaktig og ikke utpreget. Smaken er svært bitter.",
+      sporePrint: "Purpurbrunt. Sporene er ellipsoide og glatte, 6–7,8 × 4–4,5 μm, med en liten spirepore.",
+      habitat: "Fruktlegemer viser seg gjennom hele året og er mest tallrike fra juni til november. Den vokser på stubber, falne stammer og annet dødt trevirke av løvtrær og sjeldnere av bartrær. Knipper som later til å stå i gresset vokser på begravd ved. Den danner av og til fruktlegemer på den hule stammen av et levende tre.",
+      uses: "Smaken er svært bitter. Et måltid kan forårsake magesmerter, kvalme, oppkast, diaré, forbigående lammelser og synsforstyrrelser, vanligvis fem til ti timer etter inntak. Forgiftningen går vanligvis over etter noen dager, og er bare ytterst sjelden dødelig. Et rapportert dødsfall fulgte etter et måltid som også inneholdt andre sopper.",
+      confusion: "Teglrød svovelsopp (Hypholoma lateritium) har teglrød hatt, og dens gule skiver blir olivengule til olivenbrune snarere enn olivengrønne. Røyksvovelsopp (Hypholoma capnoides) vokser på barved, har mildt smakende kjøtt og lyst røykgrå skiver uten noe grønnskjær."
     },
     sv: {
       description: "En vednedbrytande svamp som växer i täta tuvor på stubbar och fallna stammar. Den är mycket allmän i Storbritannien och Irland och över större delen av det europeiska fastlandet, särskilt i norr och i centrum. Den är likaså allmän i Nordamerika, och är noterad i Iran och i östra Anatolien.",
@@ -13649,16 +13646,16 @@ export const CATALOG = [
       notes: "Sekventerede indsamlinger øst for Rocky Mountains tilhører beslægtede arter, og i det vestlige Nordamerika anvendes navnet foreløbigt. En vurdering fra 2018 (offentliggjort i 2019 med et erratum i 2022) opregner den som livskraftig (Least Concern). Vandige ekstrakter har vist insulinlignende aktivitet på glukosemetabolismen in vitro."
     },
     no: {
-      description: 'En saprotrof skivesopp som vokser i beitemarker, på gressplener og heier, og sjelden finnes i skog. Utbredt over store deler av verden i tempererte strøk.',
-      cap: 'Hatten er 3–10 cm bred, hvit til kremhvit, halvkuleformet til hvelvet i starten og flater ut med alderen. Overflaten er tørr og silkeaktig glatt eller fint skjellet, og kanten har ofte hengende slørrester som ung.',
-      hymenium: 'Skivene er frie, tette og brede. De er først lyst rosa til kjøttrøde, og blir mørkebrune til sjokoladebrune etter hvert som sporene modnes. De er aldri hvite hos utvokste sopper.',
-      stipe: 'Stilken er 3–10 cm lang og 1–2 cm tykk, hvit, sylindrisk eller svakt avsmalnende mot basis. Den har en tynn, enkel, oppadrettet hvit ring som er skjør og ofte faller av eller forsvinner tidlig.',
-      flesh: 'Kjøttet er tykt, fast og hvitt, og kan få et svakt rosa skjær ved overskjæring, men gulner aldri. Lukten og smaken er behagelig soppaktig.',
-      sporePrint: 'Mørkt sjokoladebrunt. Sporene er glatte, bredt ellipsoide, 6,5–9 × 4–6 μm.',
-      habitat: 'Fruktlegemer viser seg fra juni til oktober, særlig etter regnskyll på sensommeren. Den danner ofte hekseringer på ugjødslede beitemarker, hestebeiter og gressplener.',
-      uses: 'Den er en utsøkt matsopp (god matsopp). Den brukes på samme måte som dyrket sjampinjong, til steking, sauser og supper.',
-      confusion: 'Giftsjampinjong (Agaricus xanthodermus) lukter ubehagelig kjemisk av karbol/tusse og gulfarges intenst kromgult ved snitt i stilkbasis. Hvit fluesopp (Amanita virosa) har alltid rent hvite skiver og en markant poseformet slire (volva) ved basis.',
-      notes: 'DNA-studier viser at nordamerikanske forekomster tilhører nærstående kryptiske arter.'
+      description: "En saprotrof sopp på beitemarker, plener og andre gresskledde steder, og påtreffes sjelden i skog. Den er vidt utbredt og vanlig i Storbritannia og Irland og gjennom store deler av Europa. Den rapporteres også fra Nord- og Sør-Afrika, Asia, Nord-Amerika, Australia og New Zealand.",
+      cap: "Hatten er 3–10 cm bred, hvit til kremhvit, først hvelvet til bredt hvelvet og flater ut med alderen. Overflaten er glatt og glinsende til fint silkeaktig, og sprekker av og til opp i små brunaktige eller trådete skjell, og kanten forblir vanligvis nedbøyd eller svakt innrullet med rester av det partielle sløret.",
+      hymenium: "Skivene er frie fra stilken og tette, med tallrike korte mellomskiver. I knoppstadiet dekkes de av et tynt hvitt partielt slør; de er friskt rosa til å begynne med, blir deretter sjokoladebrune og til slutt nesten svarte. Cheilocystider og pleurocystider mangler.",
+      stipe: "Stilken er 3–10 cm høy og 1–2 cm tykk, omtrent like lang som hatten er bred, hvit samt sylindrisk eller avsmalnende mot basis. Den er glatt over den tynne, forgjengelige hvite ringen og fint trådet under, og den gulner ikke ved trykk eller snitt. Et fullt utvokst fruktlegeme beholder ofte bare utydelige spor av den sammenfalne ringen.",
+      flesh: "Kjøttet er tykt, fast og hvitt, antar av og til en svak rosa tone ved snitt og gulner aldri. Lukten og smaken er mild og behagelig, svært lik dyrkede sjampinjonger.",
+      sporePrint: "Mørkt sjokoladebrunt. Sporene er eggformede til ellipsoide og glatte, 6,5–9 × 4–6 μm.",
+      habitat: "Fruktlegemer viser seg fra juni til oktober. De kommer frem etter regn, enkeltvis, i små grupper eller i hekseringer, på beitemarker, idrettsplasser, i parker og på plener.",
+      uses: "Det er en utsøkt matsopp når den tilberedes og spises med måte. Den brukes på samme måte som dyrket sjampinjong, stekt eller brunet, i risotto, omeletter, supper og sauser. Fordi fruktlegemene modnes raskt og har kort holdbarhet, dyrkes ikke arten kommersielt. Eksemplarer fra sterkt trafikkerte veikanter bør unngås fordi de opptar tungmetaller og forurensninger. Historisk har skiver i deler av Skottland blitt lagt som omslag på skåldeskader, brannsår og sår.",
+      confusion: "Giftsjampinjong (Agaricus xanthodermus) farges intenst kromgul i hatthuden og særlig ved basis av stilken ved snitt, lukter av fenol eller blekk og forårsaker mage-tarm-forgiftning. Snøballsjampinjong (Agaricus arvensis) er større, gulner svakt ved berøring, lukter anis og er spiselig. Veisjampinjong (Agaricus bitorquis) har dobbel ring og vokser på hardpakket jord langs stier. Dødelig giftig hvit fluesopp (Amanita virosa), hvit vårfluesopp (Amanita verna) og hvite former av grønn fluesopp (Amanita phalloides) har en poselignende slire (volva) ved basis, varig hvite skiver og hvitt sporeavtrykk. Giftige hvite traktsopper (Clitocybe) i gressmark har nedløpende hvite skiver. I Nord-Amerika er de giftige artene Agaricus californicus og Agaricus hondensis, samt de spiselige Agaricus andrewii og Agaricus solidipes, svært like.",
+      notes: "Sekvenserte innsamlinger øst for Rocky Mountains tilhører nærstående arter, og i det vestlige Nord-Amerika brukes navnet inntil videre. En vurdering fra 2018 (publisert 2019 med et erratum i 2022) lister den som livskraftig (Least Concern). Vandige ekstrakter har vist insulinlignende aktivitet på glukosemetabolismen in vitro."
     },
     sv: {
       description: "En saprotrof svamp på betade ängar, gräsmattor och andra gräsbevuxna platser, och påträffas sällan i skog. Den är vitt utbredd och allmän i Storbritannien och Irland och genom större delen av Europa. Den rapporteras även från norra och södra Afrika, Asien, Nordamerika, Australien och Nya Zeeland.",
@@ -14488,16 +14485,15 @@ export const CATALOG = [
       confusion: "Flere andre birke-tilknyttede arter af Leccinum ligner hinanden: skønfodet birkerørhat (Leccinum cyaneobasileucum) har kød, der blåner i stokbasis; orange birkerørhat (Leccinum versipelle) har orangeokker hat, sortagtige skæl og kød, der anløber blågrønt eller violetgråt; hvid birkerørhat (Leccinum holopus) er gennemgående bleg, hvidlig til grønligt beige; spættet birkerørhat (Leccinum variicolor) har en marmoreret hat og en stokbasis, der anløber blågrønt og koralrødt; og sortbrun birkerørhat (Leccinum melaneum) har en meget mørkebrun til sortagtig hat. Skællet poppelrørhat (Leccinum duriusculum) har fastere kød og vokser med poppel og bævreasp. Alle Leccinum-arter kan forårsage mave-tarm-forstyrrelser, hvis de spises rå eller utilstrækkeligt tilberedte."
     },
     no: {
-      description: 'En ektomykorrhizadannende rørsopp som er strengt knyttet til bjørketrær. Den er en av de vanligste rørsoppene i hele Nord- og Sentral-Europa, og finnes overalt der det vokser bjørk.',
-      cap: 'Hatten er 5–15 cm bred, halvkuleformet som ung og blir puteforformet til hvelvet senere. Fargen er gråbrun, lys nøttebrun til mørkebrun. Overflaten er tørr og glatt, men kan bli noe klebrig i fuktig vær.',
-      hymenium: 'Rørene er 1–2 cm lange, dypt innsunket rundt stilken, hvite til gråhvite og blir brungrå med alderen. Porene er bittesmå og runde, og misfarges ikke eller mørkner bare svakt ved berøring.',
-      stipe: 'Stilken er 7–20 cm lang og 1,5–3,5 cm tykk, slank og lett klubbeformet, hvitaktig i bunnen og tett besatt med mørkebrune til svarte skjell (skrubber) i langsgående linjer.',
-      flesh: 'Kjøttet er hvitt, fast i unge knopper, men blir raskt mykt og svampete i hatten og trådet i stilken i fuktig vær. Gjennomskåret kjøtt forblir hvitt og endrer ikke farge (eller mørkner bare ytterst svakt). Lukten og smaken er mild.',
-      sporePrint: 'Olivenbrunt til snusbrunt. Sporene er smalt spindelformede, glatte, 13–20 × 5–7 μm.',
-      habitat: 'Fruktlegemer viser seg fra juni til november. Den vokser utelukkende i mykorrhiza med bjørk (Betula), både i skog, myrkanter og parker.',
-      uses: 'Spiselig (spiselig). Unge, faste fruktlegemer er gode matsopper, men må gjennomkokes eller gjennomstekes i minst 15–20 minutter. Rå eller utilstrekkelig varmebehandlede skrubber inneholder giftstoffer som gir akutt mage- og tarmforgiftning.',
-      confusion: 'Andre bjørketilknyttede skrubber, som myrskrubb (Leccinum holopus) med hvit hatt, og rødskrubb (Leccinum versipelle) som har oransjerød hatt og kjøtt som sverter kraftig ved overskjæring.',
-      notes: 'Arten danner et artskompleks med flere nærstående former.'
+      description: "En ektomykorrhizadannende skrubb i bjørkeskoger, inkludert plantede bjørketrær. Den er tallrik i Storbritannia og Irland og vanlig på det europeiske fastlandet fra Skandinavia til Middelhavet og Den iberiske halvøy. Den er svært vanlig i Nord-Amerika, dokumentert i Himalaya og innført til Australia og New Zealand.",
+      cap: "Hatten er 5–15 cm bred. Den er først halvkuleformet, deretter hvelvet eller puteformet og flater ut med alderen, ofte med en bølget kant. Overflaten er fint filtet som ung og senere glattere, tørr i fint vær og klebrig i regnvær, i toner fra gråbrunt til gulaktig eller rødaktig brunt. En svært blek, nesten hvit form forekommer sjelden.",
+      hymenium: "Rørene er 1–2 cm dype og dypt innsunket omkring stilken. Porene er små og runde, gråhvite hos unge eksemplarer og blir smussgrå eller brunaktig grå med alderen. Ved trykk mørkner porene langsomt til brunt i stedet for blått.",
+      stipe: "Stilken er 7–20 cm lang og 1,5–3,5 cm tykk, tønneformet som ung og senere slankt klubbeformet, avsmalnende mot toppen og uten ring. Overflaten er hvit til gråaktig, dekket av mørkebrune til svarte frynser eller ru skjell ordnet i grove langsgående linjer, som blir grovere mot basis.",
+      flesh: "Kjøttet er hvitaktig, fast i unge knopper og blir raskt mykt, svampete og vannfylt i regnvær. Gjennomskåret kjøtt forblir hvitt eller får en svak rosa tone uten å blåne; det blir mørkegrått til svart under varmebehandling. Lukten og smaken er mild og behagelig.",
+      sporePrint: "Olivenbrunt til tobakksbrunt. Sporene er smalt ellipsoide til nesten spoleformede og glatte, cirka 14–20 × 4,5–5,5 μm.",
+      habitat: "Fruktlegemer viser seg fra juni til november. De vokser utelukkende på bakken sammen med bjørk, deriblant hengebjørk (Betula pendula) og dunbjørk (Betula pubescens), i skog, på heier og i parker, samt under plantede prydbjørker i Nord-Amerika, Australia og New Zealand.",
+      uses: "Unge, faste fruktlegemer er spiselige når de gjennomstekes eller kokes grundig, selv om kjøttet er mykere enn hos steinsopp (Boletus edulis), og enkelte soppbøker vurderer konsistensen som middelmådig. Den brukes i blandede soppretter, supper eller tørkes, og i Finland og Russland legges den ofte ned i eddik eller saltlake. Som alle skrubber (Leccinum) må den ikke spises rå.",
+      confusion: "Flere andre bjørkebundne arter av Leccinum ligner hverandre: myrskrubb (Leccinum holopus) er gjennomgående blek, hvitaktig til grønnaktig beige; marmorskrubb (Leccinum variicolor) har marmorert hatt og en stilkbasis som farges blågrønn og korallrød; blåfotskrubb (Leccinum cyaneobasileucum) har kjøtt som blåner i stilkbasis; rødskrubb (Leccinum versipelle) har oransjeoker hatt, svarte skjell og kjøtt som farges blågrønt til fiolettgrått; og mørk bjørkeskrubb (Leccinum melaneum) har en svært mørkebrun til svartaktig hatt. Brun ospeskrubb (Leccinum duriusculum) har fastere kjøtt og vokser med poppel og osp. Alle Leccinum-arter kan forårsake mage-tarm-forstyrrelser dersom de spises rå eller utilstrekkelig varmebehandlet."
     },
     sv: {
       description: "En ektomykorrhizabildande strävsopp i björkskogar, inklusive planterade björkar. Den är talrik i Storbritannien och Irland och allmän på det europeiska fastlandet från Skandinavien till Medelhavet och Iberiska halvön. Den är mycket allmän i Nordamerika, dokumenterad i Himalaya och införd i Australien och Nya Zeeland.",
@@ -15366,16 +15362,16 @@ export const CATALOG = [
       notes: "En vurdering fra 2018 opregner arten som livskraftig (Least Concern)."
     },
     no: {
-      description: 'En ektomykorrhizadannende rørsopp knyttet til to-nålige furutrær. Meget vanlig over hele Europa og Nord-Amerika, og introdusert i furuplantasjer på den sørlige halvkule.',
-      cap: 'Hatten er 4–10 cm bred (av og til opptil 15 cm), hvelvet til flat, sjokoladebrun til gulbrun eller rødbrun. Hatthuden er dekket av et tykt, slimete lag i vått vær og kan lett flås av.',
-      hymenium: 'Rørene er 3–10 mm dype, tilvokste til svakt nedløpende, lyst sitrongule til mørkegule. Hos unge sopper er porene dekket av et hvitt til fiolettaktig delslør (velum partiale).',
-      stipe: 'Stilken er 3–10 cm lang og 1,5–3 cm tykk, sylindrisk, hvitaktig til lysegul med fine brune kjertelprikker over den markante, hinnenaktige, brunfiolette ringen.',
-      flesh: 'Kjøttet er hvitaktig til blekgult, mykt og svampete i hatten hos voksne eksemplarer, og endrer ikke farge ved snitt. Lukten og smaken er mild og behagelig fruktig.',
-      sporePrint: 'Leirbrunt til kanelbrunt. Sporene er glatte, avlangt ellipsoide, 7–10 × 3–3,5 μm.',
-      habitat: 'Fruktlegemer viser seg fra august til november. Den vokser i furuskog og plantasjer på sandholdig, mager grunn.',
-      uses: 'Den er en god matsopp (spiselig). Den slimete hatthuden bør flås av før tilberedning, da den kan virke avførende hos sensitive personer. Soppen må varmebehandles grundig.',
-      confusion: 'Seig kusopp (Suillus bovinus) og ringløs smørsopp (Suillus granulatus) mangler ring på stilken. Sandsopp (Suillus variegatus) har tørr, filtet hatt og blåner svakt i kjøttet.',
-      notes: 'En vurdering fra 2018 lister arten som livskraftig (Least Concern).'
+      description: "En ektomykorrhizadannende sopp i furuskoger og i furuplantasjer. Fruktlegemer opptrer ofte i stort antall. Den er opprinnelig over hele Eurasia, fra Irland til Korea, og den har blitt innført sammen med furutrær til Nord- og Sør-Amerika, det sørlige Afrika, Australia og New Zealand. Den er vanlig i Storbritannia og Irland.",
+      cap: "Hatten er typisk 4–10 cm bred, sjelden opptil 20 cm. Den er kjegleformet til halvkuleformet til å begynne med, deretter hvelvet, og senere bredt hvelvet til nesten flat, av og til med en lav pukkel. Fargen er mørkt kastanjebrun, rødbrun eller sjokoladebrun, og blekner til gulbrun eller matt lærfarget, samt er ofte radielt stripet. Den er dekket av et tykt lag slim i fuktig vær og blir glinsende når den tørker, og hatthuden kan lett flås av fra kjøttet. Hos unge fruktlegemer henger det ofte rester av det partielle sløret igjen ved kanten.",
+      hymenium: "Rørene er 3–10 mm dype, tilvokste til noe nedløpende, og løsner lett fra hattekjøttet. Porene, som til å begynne med dekkes av et hinnenaktig hvitaktig partielt slør, er små (cirka 2–3 per millimeter), runde til kantete, sitrongule som unge og mørkner til olivengule eller brungule med alderen. De blåner ikke ved trykk.",
+      stipe: "Stilken er 3–10 cm høy og 1,5–3 cm tykk, sylindrisk eller noe oppsvulmet ved basis, med hvitt basismycel. Et hinnenaktig partielt slør etterlater en fremtredende hengende ring som er hvitaktig på oversiden og mørkebrun til purpuraktig eller fiolett undertil, og som ofte faller sammen mot stilken med alderen. Over ringen er den lysgule overflaten besatt med kanelbrune til mørkebrune kjertelkorn; under ringen er stilken smusshvit til brunaktig og ofte slimete.",
+      flesh: "Kjøttet er hvitt til lyst sitrongult, uforanderlig ved snitt, og mykt og svampete ved modenhet. Lukten er svak og fruktig, og smaken er mild og behagelig.",
+      sporePrint: "Okerbrunt til leirbrunt eller kanelbrunt. Sporene er langstrakt ellipsoide til nesten spoleformede og glatte, 7–10,5 × 2,5–3,5 μm.",
+      habitat: "Fruktlegemer viser seg hovedsakelig om sensommeren og høsten (fra august til november i Storbritannia og Irland), samt etter nedbørsperioder om våren eller vinteren i varmere klima og furuplantasjer på den sørlige halvkule. De vokser selskapelig, ofte i store flokker eller ringer, under furutrær — særlig to-nålede arter som vanlig furu (Pinus sylvestris) og svartfuru (Pinus nigra).",
+      uses: "Den er en god matsopp når den er grundig varmebehandlet. Den brukes i supper, gryter og stekte retter, legges inn i eddik eller tørkes. Fordi den tykke, slimete hatthuden blir slimete i pannen og kan gi fordøyelsesbesvær hos følsomme personer, flås hatthuden (og rørlaget hos eldre eksemplarer) av før tilberedning.",
+      confusion: "Ringløs smørsopp (Suillus granulatus) vokser under furutrær i samme miljø, men mangler partielt slør og ring, og dens unge porer utsondrer melkeaktige dråper. Lerkesopp (Suillus grevillei) vokser under lerk og har en gullgul til oransjebrun hatt. Ung sleipsopp (Gomphidius glutinosus) har slimete brun hatt, men har nedløpende skiver snarere enn porer. I Nord-Amerika har Suillus borealis og Suillus pseudobrevipes et partielt slør som fester seg til hattkanten snarere enn å danne en ring på stilken, Suillus cothurnatus har en tykk båndlignende ring og oransjeoker kjøtt, og Suillus albidipes mangler kjertelkorn på stilken.",
+      notes: "En vurdering fra 2018 lister den som livskraftig (Least Concern)."
     },
     sv: {
       description: "En ektomykorrhizabildande svamp i tallskogar och i tallplantager. Fruktkroppar uppträder ofta i stort antal. Den är ursprunglig över hela Eurasien, från Irland till Korea, och den har införts med tallar i Nord- och Sydamerika, södra Afrika, Australien och Nya Zeeland. Den är allmän i Storbritannien och Irland.",
@@ -16208,16 +16204,16 @@ export const CATALOG = [
       notes: "En romersk fresko fra Herculaneum anses for en af de tidligste afbildninger af denne svamp. Molekylært og morfologisk arbejde af Nuytinck, Verbeken og Miller (2007) bekræftede, at dette er en europæisk art, forskellig fra de nord- og mellemamerikanske taxa, som tidligere bar navnet."
     },
     no: {
-      description: 'En ektomykorrhizadannende riskesopp knyttet til furu på sandholdig og kalkrik jord. Utbredt i Europa, særlig rundt Middelhavet og i tempererte furuskoger.',
-      cap: 'Hatten er 6–20 cm bred, først hvelvet med innrullet kant og nedsunket sentrum, senere traktformet. Fargen er guloransje til gulrotfarget med konsentriske mørkere ringer og soner. Med alderen eller ved skade utvikler overflaten grønne flekker.',
-      hymenium: 'Skivene er nedløpende, tette og lysende oransje. De skiller ut en gulrotfarget melkesaft ved brudd eller snitt, og flekkes langsomt grønne etter noen timer.',
-      stipe: 'Stilken er 5–8 cm lang og 1,5–2 cm tykk, sylindrisk, hul som utvokst, lys oransje med mørkere oransje groper (stipelgroper).',
-      flesh: 'Kjøttet er hvitaktig i kjernen og gulrotfarget mot overflatene, med rikelig oransje melkesaft som forblir uforandret oransje før den tørker grønnlig inn. Lukten er behagelig fruktig og smaken mild til svakt krydret.',
-      sporePrint: 'Blekt kremfarget med et svakt rosa skjær. Sporene er ellipsoide med et ufullstendig årenett, 7–9 × 6–7 μm.',
-      habitat: 'Fruktlegemer viser seg fra august til oktober eller november. Den vokser under furutrær på tørr, sandrik eller kalkholdig grunn.',
-      uses: 'Den er en utsøkt matsopp (god matsopp). Den er høyt skattet i Sør- og Mellom-Europa, og egner seg utmerket til steking i smør, grilling og sylting. Den oransje melkesaften farger urinen ufarlig rødlig etter et større måltid.',
-      confusion: 'Granmatriske (Lactarius deterrimus) vokser under gran, har grønnaktig anløpning mye raskere og mangler groper på stilken.',
-      notes: 'En romersk freske fra Herculaneum regnes som en av de eldste kjente avbildningene av denne soppen.'
+      description: "En ektomykorrhizadannende sopp i furuskoger. Den er opprinnelig i Europa, inkludert Middelhavsområdet, og har blitt innført med furutrær til Chile, Australia, New Zealand og Sør-Afrika. Populasjoner i Nord-Amerika og Mellom-Amerika som har båret samme navn, tilhører andre arter.",
+      cap: "Hatten er 6–20 cm bred. Den begynner som hvelvet med innrullet kant og en sentral fordypning, og blir bredt traktformet med alderen. Overflaten er gulrot-oransje til rød-oransje med mørkere konsentriske soner, farges grønn ved trykk og utvikler ofte grågrønne flekker etter hvert som den eldes. Den er glatt, matt i tørt vær og klebrig i fuktig vær.",
+      hymenium: "Skivene er kort nedløpende, tette og lysende oransje, og får grønne flekker der de skades. Gjennomskårne skiver skiller ut en gulrot-oransje melkesaft som forblir oransje over lang tid og langsomt overgår til grågrønt etter flere timer (i motsetning til Lactarius deterrimus, hvis melkesaft blir vinrød innen 30–60 minutter).",
+      stipe: "Stilken er sylindrisk, snart hul og relativt kort, 5–8 cm lang og 1,5–2 cm tykk. Den lyst oransje overflaten er prydet med spredte, grunne og klarere oransje groper (scrobiculi), særlig mot basis, og farges grønn der den berøres.",
+      flesh: "Kjøttet er hvitaktig i midten og gulrot-oransje nær overflatene, og antar langsomt en matt grønn tone etter snitt. Lukten er fruktig, og melkesaften smaker mildt til å begynne med med en noe bitter eller snerpende ettersmak.",
+      sporePrint: "Lyst rosatonet lærfarget. Sporene er ellipsoide, 7–9 × 6–7 μm, og prydet med et velavgrenset, nesten komplett amyloid nettverk av åser.",
+      habitat: "Fruktlegemer viser seg fra august til oktober i Storbritannia og Irland (og inn i november på det europeiske fastlandet). De vokser på bakken i barskog sammen med furutrær. På den sørlige halvkule danner de fruktlegemer fra april til juni i furuplantasjer.",
+      uses: "Den er en høyt skattet matsopp som tradisjonelt grilles, stekes i panne, stues eller legges ned i olje eller lake i Spania, Provence, Polen, Kypros og Russland. Unge hatter med innrullet kant foretrekkes, og langsom tilberedning eller grilling foretrekkes fremfor tørking, ettersom tørkede fruktlegemer mister sin fine aroma.",
+      confusion: "Granmatriske (Lactarius deterrimus) vokser under gran, har en mer ensfarget hatt og en stilk uten groper, og skiller ut oransje melkesaft som blir vinrød innen 30–60 minutter. Vinrød matriske (Lactarius sanguifluus) vokser under furutrær på kalkrik mark og skiller umiddelbart ut dyp vinrød melkesaft. Edelgranmatriske (Lactarius salmonicolor) vokser under edelgran og farges knapt grønn. Lillagrå matriske (Lactarius quieticolor) vokser under furutrær på sur mark, har mattere oransjebrune farger og farges blågrønn. Skarp rødriske (Lactarius torminosus) er rosaaktig med en tovet, raggete eller skjegget hattkant, skiller ut skarp hvit melkesaft, vokser med bjørk og er giftig. I Nord-Amerika omfatter forvekslingsarter Lactarius rubrilacteus, Lactarius thyinos, Lactarius olympianus og Lactarius salmoneus.",
+      notes: "En romersk freske fra Herculaneum regnes som en av de tidligste avbildningene av denne soppen. Molekylært og morfologisk arbeid av Nuytinck, Verbeken og Miller (2007) bekreftet at dette er en europeisk art, adskilt fra nord- og mellomamerikanske taxa som tidligere ble gitt dette navnet."
     },
     sv: {
       description: "En ektomykorrhizabildande svamp i tallskogar. Den är ursprunglig i Europa, inklusive Medelhavsområdet, och har införts med tallar till Chile, Australien, Nya Zeeland och Sydafrika. Populationer i Nordamerika och Centralamerika som har burit samma namn är andra arter.",
@@ -17047,16 +17043,15 @@ export const CATALOG = [
       confusion: "Forårs-fluesvamp (Amanita verna) bærer frugt om foråret, og dens kød bliver ikke gult med kaliumhydroxid. Den hvide form af grøn fluesvamp (Amanita phalloides) bærer frugt om efteråret og er lige så dødeligt giftig. Den hvide form af gul fluesvamp (Amanita citrina var. alba) bevarer sædvanligvis slørrester på hatten og lugter af rå kartofler. Champignoner (Agaricus), herunder agerhøne-champignon (Agaricus sylvicola) og mark-champignon (Agaricus campestris), har ingen volva, og deres lameller bliver lyserøde og derefter brune. En ung knop kan minde om en støvbold, indtil den gennemskæres, og volvaen kommer til syne. Lignende hvide fluesvampe i Nordamerika, herunder Amanita bisporigera, Amanita ocreata og Amanita amerivirosa, er andre arter."
     },
     no: {
-      description: 'En ektomykorrhizadannende, dødelig giftig fluesopp. Den finnes i barskog og fuktig løvskog i Nord- og Mellom-Europa, og er særlig vanlig i Fennoskandia i granskog og blandingsskog.',
-      cap: 'Hatten er 5–10 cm bred (av og til opptil 12 cm), rent snøhvit, først kjegleformet til klokkeformet, senere hvelvet og ofte noe asymmetrisk eller skjev. Overflaten er glatt, tørr og silkeaktig, og blir klebrig i fuktig vær.',
-      hymenium: 'Skivene er rent hvite, frie fra stilken og sitter tett. De forblir kritthvite gjennom hele soppens liv.',
-      stipe: 'Stilken er 9–15 cm lang og 0,6–2 cm tykk, ren hvit, trådet og kledd med lodne, hvite skjell eller tufser under ringen. Den har en tynn, hengende hvit ring som er skjør og lett kan rives bort. Ved basis er stilken oppsvulmet til en rund knoll omsluttet av en sekkformet, dyp, hvit slire (volva).',
-      flesh: 'Kjøttet er rent hvitt og endrer ikke farge ved snitt i luft, men reagerer øyeblikkelig med kaliumhydroksid (KOH) ved å bli lysende sitrongult. Lukten er i starten uanselig, men blir ubehagelig søtlig og kvalmende med alderen.',
-      sporePrint: 'Hvitt. Sporene er kulerunde, glatte og amyloide, 7–10 μm i diameter.',
-      habitat: 'Fruktlegemer viser seg fra juli til oktober. Den vokser i fuktig sur jord i barskog (gran, furu) og blandingsskog med bjørk.',
-      uses: 'Dødelig giftig. Fruktlegemet inneholder amatoksiner og fallotoksiner. Én eneste hatt er nok til å forårsake dødelig leversvikt hos et menneske. Symptomene opptrer etter 6–24 timer. Toksinene kan ikke kokes eller tørkes bort.',
-      confusion: 'Sjampinjonger (Agaricus) har skiver som raskt blir rosa og deretter mørkebrune, og mangler volva helt. Vårfluesopp (Amanita verna) er en søreuropeisk vårart hvis kjøtt ikke reagerer gult med KOH. Hvite former av gul fluesopp (Amanita citrina) lukter rå potet og har en kantet knoll i stedet for poseformet volva.',
-      notes: 'Hvit fluesopp er en av de farligste soppene i den nordiske floraen.'
+      description: "En ektomykorrhizadannende sopp i skogsmark. Den er sparsomt forekommende i lavlandet og vanligere i fjellnære områder, samt vanlig i skandinaviske barskoger. Den forekommer gjennom hele Europa, inkludert Storbritannia og Irland, med bekreftede funn fra det nordlige Asia. Nordamerikanske funn under dette navnet tilhører andre arter.",
+      cap: "Hatten er 5–10 cm bred, og enkelte fruktlegemer når 12 cm. Den begynner som eggformet og rent hvit, blir deretter klokkeformet eller av og til nesten flat, ofte med en bred pukkel, og sitter ofte skjevt på stilken. Kanten er ikke furet eller stripet. Midten kan bli elfenbenshvit. Slørrester vaskes snart bort og sitter sjelden igjen på en moden hatt.",
+      hymenium: "Skivene er frie fra stilken, tette og hvite.",
+      stipe: "Stilken er 9–15 cm lang og 0,6–2 cm tykk, rent hvit, trevlet og ofte noe bøyd. En skjør ring henger høyt oppe på stilken og kan være glatt eller furet. Basisen sitter i en stor, hvit poselignende slire (volva), som vanligvis er begravd i jorden.",
+      flesh: "Kjøttet er hvitt. Det blir straks gult med kaliumhydroksid (KOH) og lysende gult med natriumhydroksid. Et modent fruktlegeme lukter svakt kvalmende, og lukten har også blitt sammenlignet med reddik.",
+      sporePrint: "Hvitt. Sporene er kulerunde til nesten kulerunde og glatte, 7–10 μm brede, samt amyloide (farges blå til blåsvart i jod).",
+      habitat: "Fruktlegemer viser seg om sensommeren og høsten, fra august til november i Storbritannia og fra juli til september i Nord-Europa. Den vokser i kanten av løv- eller blandingsskog, med bøk, ekte kastanje, furu, gran og edelgran.",
+      uses: "Den er dødelig giftig. Fruktlegemet inneholder amatoksiner og fallotoksiner, og en enkelt hatt kan ta livet av et voksent menneske.",
+      confusion: "Hvit vårfluesopp (Amanita verna) bærer frukt om våren, og kjøttet gulner ikke med kaliumhydroksid. Den hvite formen av grønn fluesopp (Amanita phalloides) opptrer om høsten og er like giftig. Hvitgul fluesopp (Amanita citrina var. alba) beholder vanligvis slørrester på hatten og lukter rå potet. Sjampinjonger (Agaricus), deriblant skogsjampinjong (Agaricus sylvicola) og beitesjampinjong (Agaricus campestris), mangler slire (volva), og skivene deres blir rosa og deretter brune. En ung knopp kan ligne en røyksopp inntil den skjæres igjennom slik at sliren og skivene synes. Lignende hvite fluesopper i Nord-Amerika, slik som Amanita bisporigera, Amanita ocreata og Amanita amerivirosa, er andre arter."
     },
     sv: {
       description: "En ektomykorrhizabildande svamp i skogsmark. Den är sparsamt förekommande i låglandet och rikligare i bergsområden, samt allmän i skandinaviska barrskogar. Den förekommer genom hela Europa, inklusive Storbritannien och Irland, med bekräftade fynd från norra Asien. Nordamerikanska fynd under detta namn tillhör andra arter.",
@@ -17841,16 +17836,16 @@ export const CATALOG = [
       notes: "Rødliste-vurderinger i både Storbritannien og Tjekkiet klassificerer arten som sårbar (Vulnerable)."
     },
     no: {
-      description: 'En stor, ektomykorrhizadannende rørsopp knyttet til varme løvskoger på kalkholdig grunn. Den er hovedsakelig sørlig og mellomeuropeisk i sin utbredelse og er svært sjelden i Nord-Europa.',
-      cap: 'Hatten er vanligvis 6–30 cm bred (i sjeldne tilfeller opptil 40 cm). Den er halvkuleformet som ung og flater ut til en massiv, ujevn pute. Hatthuden er krittaktig hvitaktig, askegrå til lyst okergrå, tørr og filtaktig som ung.',
-      hymenium: 'Rørene er opptil 25 mm lange, blekgule til olivengule, og blåner svakt ved snitt. Porene er først gule, men blir raskt lysende oransjerøde til blodrøde, og blåner ved berøring.',
-      stipe: 'Stilken er 5–15 cm lang og 4–12 cm tykk, ofte kuleformet til knollformet og bredere enn den er høy som ung. Fargen er gulaktig øverst og karminrød til purpurrød på midten og mot basis, dekket av et fint, rødaktig årenett.',
-      flesh: 'Kjøttet er tykt, fast som ungt og svampete senere, hvitaktig til blekgult, og blåner langsomt og svakt ved overskjæring. Eldre eksemplarer har en frastøtende, åtselaktig lukt.',
-      sporePrint: 'Olivenbrunt. Sporene er glatte, spindelformede, 10–16 × 4,5–7,5 μm.',
-      habitat: 'Fruktlegemer viser seg fra juni til september. Den vokser i varme løvskoger under eik og bøk på kalkrik, næringsrik jord.',
-      uses: 'Giftig. Soppen forårsaker kraftig mage- og tarmforgiftning med voldsomme magesmerter, vedvarende oppkast og diaré, særlig ved inntak i rå eller utilstrekkelig varmebehandlet tilstand.',
-      confusion: 'Ildrørsopp (Suillellus luridus) har mørkere olivenbrun hatt, oransjerødt årenett på stilken og kjøtt som blåner kraftig og umiddelbart ved overskjæring. Blodrørsopp (Neoboletus luridiformis) har mørkebrun hatt og mangler årenett på stilken.',
-      notes: 'Rødlistevurderinger i Storbritannia og Sentral-Europa klassifiserer den som sårbar (Vulnerable).'
+      description: "En ektomykorrhizadannende rørsopp i varme edelløvskoger på kalkrik grunn. Den er overveiende sørlig i Europa, sjelden eller fraværende lenger nord, og i Storbritannia og Irland begrenset til kalkområder i Sør-England. Den rapporteres også fra Tyrkia, Krim, Ukraina, Nord-Israel og Kypros. Funn fra det vestlige Nord-Amerika tilhører Rubroboletus eastwoodiae.",
+      cap: "Hatten er typisk 6–30 cm bred (unntaksvis opptil 40–50 cm). Den begynner som halvkuleformet med innrullet kant og blir hvelvet, ofte med bølget eller flikete kant som gammel. Overflaten er kritthvit, gråhvit eller sølvaktig lærfarget, noen ganger med en tone av oliven, oker eller brunt med alderen. Den er fint fløyelsaktig til å begynne med, senere glatt, og noe klebrig i fuktig vær; hatthuden kan ikke flås av.",
+      hymenium: "Rørene er opptil 25 mm lange, frie til svakt tilvokste, lysgule til grønngule eller gulolivenfargede, og blåner ved snitt. De små avrundede porene er gule til oransje hos svært unge eksemplarer, men blir snart blodrøde til karminrøde fra stilken og utover (og forblir ofte lysere nær kanten), samt blåner ved trykk.",
+      stipe: "Stilken er 5–15 cm lang (unntaksvis 20–25 cm) og 4–12 cm tykk (unntaksvis 16–20 cm). Den er kraftig og knollformet — ofte bredere enn høy — tønneformet som ung og mer klubbeformet senere, med en oppsvulmet basis. Overflaten er gullgul til oransje ved toppen, rosaaktig rød til karminrød gjennom midtpartiet og mørkt purpurrød mot basis, dekket på den øvre halvdelen eller over hele stilken av et fint gult til blodrødt nettverk med sekskantede masker.",
+      flesh: "Kjøttet er tykt, fast som ungt og svampete senere, hvitaktig til lyst gult eller halmfarget (noen ganger rødaktig i stilkbasis). Ved snitt farges det langsomt og moderat lyst blått til himmelblått — kraftigst like over rørene og i stilkens topp — før det blekner tilbake mot smusshvitt. Lukten er svak og noe moskusaktig hos unge fruktlegemer, men blir motbydelig og åtsellignende med alderen. Smaken hos ungt kjøtt er mild og nøtteaktig, selv om ren smaking på rått kjøtt kan utløse kvalme.",
+      sporePrint: "Olivenbrunt. Sporene er nesten spoleformede til spoleformede og glatte, 10–16 × 4,5–7,5 μm.",
+      habitat: "Fruktlegemer viser seg fra mai til september (hovedsakelig sensommer og tidlig høst i Storbritannia). De vokser enkeltvis eller i små grupper på kalkbunn i varm, åpen løvskog under eik, bøk, ekte kastanje, agnbøk og lind.",
+      uses: "Den er giftig, særlig i rå tilstand, og forårsaker alvorlig mage-tarm-forgiftning med kvalme, magesmerter, voldsomme oppkast og vanntynn diaré som kan vare i flere dager og føre til kraftig dehydrering. Hovedtoksinet er bolesatin, et giftig glykoprotein som hemmer proteinsyntesen i cellene. Varmebehandling reduserer toksisiteten, men ødelegger ikke alle giftstoffer pålitelig, og soppen er uspiselig og farlig også etter tilberedning.",
+      confusion: "Ildrørsopp (Suillellus luridus) har en mørkere brun eller olivenbrun hatt, et kraftigere rødt årenett på stilken og kjøtt som umiddelbart blåner mørkeblått ved snitt, med en rød linje over rørene (Batailles linje). Blodrørsopp (Neoboletus luridiformis) har en mørkebrun, mokkaaktig hatt, mangler årenett på stilken (har i stedet røde korn/flokker) og kjøttet blåner intenst mørkeblått på et øyeblikk. Besk rørsopp (Caloboletus calopus) har gule porer som ikke er røde og et svært bittert kjøtt. Fager rørsopp (Rubroboletus rhodoxanthus) har en blek hatt som ofte blir rosa, gule porer som blir røde, men kjøtt som bare blåner i hatten og forblir gult i stilken.",
+      notes: "I eldre litteratur ble arten ført til slekten Boletus. Molekylære fylogenetiske studier førte til at den ble plassert i den nye slekten Rubroboletus sammen med andre røde, blånende rørsopper."
     },
     sv: {
       description: "En ektomykorrhizabildande sopp i varma ädellövskogar på kalkrik mark. Den är övervägande sydlig i Europa, sällsynt eller saknad längre norrut, och i Storbritannien och Irland begränsad till kalkområden i södra England. Den rapporteras även från Turkiet, Krim, Ukraina, norra Israel och Cypern. Fynd från västra Nordamerika tillhör Rubroboletus eastwoodiae.",
@@ -18654,16 +18649,15 @@ export const CATALOG = [
       confusion: "Plettet giftslørhat (Cortinarius orellanus) kan have en pukkel, og dens pukkel er sædvanligvis mindre spids. Tragt-kantarel (Craterellus tubaeformis) har en tragtformet hat og ribber frem for lameller. Kantareller har ribber, og rørhatte har porer."
     },
     no: {
-      description: 'En ektomykorrhizadannende, dødelig giftig slørsopp. Den vokser i fuktig barskog på mager, sur jord blant mose og blåbærlyng i Nord- og Mellom-Europa og Nord-Amerika.',
-      cap: 'Hatten er 3–8 cm bred, kjegleformet til hvelvet, og beholder nesten alltid en markant, spiss pukkel (umbo) på midten. Fargen er jevnt revebrun, kanelbrun til oransjebrun. Overflaten er tørr og fint filtaktig til fint skjellet.',
-      hymenium: 'Skivene er tilvokste, forholdsvis tykke og fjerne. De er først safrangule til gulbrune, og blir rustbrune etter hvert som sporene modnes.',
-      stipe: 'Stilken er 5–10 cm høy og 0,7–1,5 cm tykk, sylindrisk eller svakt klubbeformet mot basis. Fargen er rødbrun som hatten, med svake, gule skråbånd eller belter (rester av universalsløret).',
-      flesh: 'Kjøttet er safrangult til okerbrunt i hatten og mørkere rødbrunt i stilkbasis. Lukten er svak, minner svakt om reddik.',
-      sporePrint: 'Rustbrunt. Sporene er bredt ovale til nesten kulerunde, vortete, 9–12 × 6,5–8,5 μm.',
-      habitat: 'Fruktlegemer viser seg fra august til oktober. Den vokser i mose og fuktig torvjord i granskog og furuskog.',
-      uses: 'Dødelig giftig. Soppen inneholder orellanin, et potent nyretoksin som ødelegger nyrevevet og fører til akutt nyresvikt. Symptomene viser seg først etter en lang latenstid på 2 til 14 dager, noe som gjør diagnosen vanskelig. Giften kan ikke kokes eller tørkes bort.',
-      confusion: 'Traktkantarell (Craterellus tubaeformis) har hul stilk, gaffeldelte årer/ribber på undersiden, og vokser ofte i samme fuktige mosemiljø. Narresopp og uspiselig slørsopp kan overfladisk ligne, men spiss giftslørsopp kjennes på den tørre, rødbrune hatten med spiss pukkel og rustbrune skiver.',
-      notes: 'Sammen med hvit fluesopp er spiss giftslørsopp regnet som Norges farligste sopp.'
+      description: "En ektomykorrhizadannende slørsopp i fuktig barskog. Den er vanlig i Skandinavia, nordlige deler av De britiske øyer og deler av Mellom- og Nord-Europa, samt forekommer i tempererte og boreale deler av Nord-Amerika. Den vokser hovedsakelig i mosegrodd granskog med innslag av furu.",
+      cap: "Hatten er 3–8 cm bred, til å begynne med kjegleformet til klokkeformet med en markert spiss pukkel, og flater ut til hvelvet med beholdt spiss midtpukkel. Overflaten er matt, tørr og fint filtet eller trådete skjellet. Fargen er jevnt reve rød, kanelbrun eller rødbrun, og blekner lite ved tørke.",
+      hymenium: "Skivene er glisne, tykke og tilvokste til utrandede. De er først lyst safrangule til kanelbrune og modnes til dypt rustbrune fra sporene.",
+      stipe: "Stilken er 5–10 cm lang og 0,7–1,5 cm tykk, sylindrisk eller svakt klubbeformet og ofte bøyd. Den er lysere enn hatten, trevlet, og nedentil dekorert med konsentriske gulaktige bånd (rester av universalsløret) i et slangeskinnslignende mønster, med rustrøde tråder fra kortinaen høyere oppe på stilken.",
+      flesh: "Kjøttet er lyst gulaktig til rødbrunt i hatten og mer kanelbrunt i stilken. Lukten er svak, ofte beskrevet som reddikaktig eller lett støvaktig, og smaken er mild til ubetydelig.",
+      sporePrint: "Rustbrunt. Sporene er bredt ellipsoide til nesten kulerunde, vortete, 8,5–11,5 × 6,5–9 μm.",
+      habitat: "Fruktlegemer viser seg fra august til oktober. Den vokser på sur, næringsfattig mark blant torvmose, blåbærlyng og mose i fuktige barskoger, fremfor alt sammen med gran (Picea abies), men også med furu (Pinus sylvestris).",
+      uses: "Den er dødelig giftig og en av de farligste giftsoppene i Europa. Den inneholder orellanin, et stabilt bipyridintoksin som forårsaker irreversibel nyresvikt. Forgiftningssymptomer opptrer først etter en lang latenstid på 2 til 14 dager, noe som ofte gjør diagnostiseringen vanskelig. Verken koking, tørking eller frysing ødelegger giftstoffet, og forgiftningen krever ofte dialyse eller nyretransplantasjon.",
+      confusion: "Butt giftslørsopp (Cortinarius orellanus) har en butt hvelvet hatt uten skarp spiss pukkel, vokser i løvskoger med eik og bøk og er like dødelig giftig. Traktkantarell (Craterellus tubaeformis) vokser i lignende mosegrodde miljøer, men har gulbrun hatt, gule forgrenede årer på undersiden og en gul, hul stilk. Gul trompetsopp (Craterellus lutescens) har oransje underside med nesten glatte folder. Lakssopp (Laccaria laccata) har hvitt sporeavtrykk, elastisk stilk og mangler spiss pukkel."
     },
     sv: {
       description: "En ektomykorrhizabildande spindelskivling i fuktig barrskog. Den är allmän i Skandinavien, norra Brittiska öarna och delar av Central- och Nordeuropa, samt förekommer i tempererade och boreala delar av Nordamerika. Den växer främst i mossiga granskogar med inslag av tall.",
@@ -19421,16 +19415,16 @@ export const CATALOG = [
       notes: "En vurdering fra 2024 placerer arten som livskraftig (Least Concern)."
     },
     no: {
-      description: 'En mykorrhizadannende sopp som er usedvanlig godt kamuflert i visnet løv på skogbunnen. Utbredt i Europa og Asia i løvskog med eik og bøk på kalkrik eller næringsrik leirjord.',
-      cap: 'Hatten er 4–8 cm bred, dypt traktformet eller trompetformet, og går direkte over i den hule stilken. Kanten er bølget og innrullet. Innsiden av trakten er gråsvart til kullsvarte, tørr og fint skjellet eller filtet.',
-      hymenium: 'Undersiden (hymeniet) er glatt til svakt rynket eller året, uten reelle ribber eller skiver. Fargen er askegrå, røkgrå til blågrå med et hvitt rimaktig sporebelegg ved modning.',
-      stipe: 'Stilken er hul helt ned til bunnen, 3–10 cm lang, mørkegrå til svart, og går i ett med hatten som en trakt.',
-      flesh: 'Kjøttet er tynt, elastisk, gråsvart og pergamentaktig. Lukten er behagelig fruktig og aromatisk, og smaken mild.',
-      sporePrint: 'Hvitt til blekt kremgult. Sporene er bredt ovale, glatte og hyaline, 11,5–16 × 7–10 μm.',
-      habitat: 'Fruktlegemer viser seg fra august til november. Den vokser i klynger på fuktig næringsrik jord under bøk, eik og hassel.',
-      uses: 'Den er en utsøkt matsopp (god matsopp). Den tynne konsistensen gjør den usedvanlig velegnet til tørking, og tørket sopp kan knuses til et velsmakende krydderpulver som hever smaken i supper, sauser og viltretter.',
-      confusion: 'Grå trompetsopp (Craterellus cinereus) har mer markerte, gaffeldelte årer på undersiden. Krustrompetsopp (Craterellus undulatus) har lysere brun hatt og rynkete underside.',
-      notes: 'En vurdering fra 2024 plasserer arten som livskraftig (Least Concern).'
+      description: "En mykorrhizadannende sopp som er vanskelig å få øye på mot løvførnen på bakken. I streng forstand er den europeisk, fra Skandinavia til Middelhavet, og lokalt forekommende, men ofte svært rikelig der den finnes i Storbritannia og Irland. Et bredere artskompleks som tidligere ble samlet under dette navnet, forekommer i Nord- og Sør-Amerika samt i Asia, deriblant Japan.",
+      cap: "Fruktlegemet er 3–10 cm bredt og 4–12 cm høyt, dypt traktformet eller trompetformet, med et hulrom som går helt ned til stilkbasis. Kanten er utbredt, bølget og ofte uregelmessig flikete. Oversiden (traktens innside) er mørkt gråbrun til kullsvart, fint skjellet eller filtet i tørr tilstand og dypt svart i vått vær.",
+      hymenium: "Undersiden (traktens utside) bærer det sporeproduserende laget. Overflaten er glatt til svakt ujevn eller rynket, uten ekte ribber eller skiver. Fargen er askegrå til blågrå eller blygrå, og blir hvitaktig pudret når sporene modnes.",
+      stipe: "Stilken er grå og pruinøs (dugget), fint rynket på langs og hul helt ned til basis, mot hvilken den smalner noe av. Den går jevnt over i hatten. Fruktlegemer vokser seg vanligvis opptil rundt 10 cm høye, og unntaksvis opptil 15 cm.",
+      flesh: "Kjøttet er svært tynt, elastisk og svartgrått, og tørker inn til en sprø konsistens. Lukten er behagelig fruktig og krydret, og smaken er mild og nøtteaktig.",
+      sporePrint: "Hvitt til lyst kremfarget. Sporene er ellipsoide, glatte og hyaline, 11–15 × 7–9 μm.",
+      habitat: "Fruktlegemer viser seg fra juni til november, og inn i desember under en mild høst i Sør-Storbritannia. I middelhavslandene og på Den iberiske halvøy fortsetter de inn i det nye året. De vokser i grupper på bakken i løvskoger, oftest under bøk og også sammen med eik og andre løvtrær, ofte i mose på fuktig, tung og kalkrik leirjord.",
+      uses: "Den er en utsøkt matsopp. Den smaker mye bedre enn hva det mørke fruktlegemet kan gi inntrykk av. Tørkede fruktlegemer lar seg lagre svært godt, og soppen tilberedes også til en velsmakende saus.",
+      confusion: "Craterellus fallax er svært lik og forekommer i det østlige Nord-Amerika, der den skilles ved et gulaktig til lakserosa okerfarget sporeavtrykk. Grå kantarell (Craterellus cinereus, Cantharellus cinereus) har tydelige forgrenede, nedløpende falske skiver (ribber) på utsiden og basidier som bærer fire til seks sporer, mens kruskantarell (Craterellus sinuosus, Pseudocraterellus undulatus) har en mer kruset, bølget hatt og en kraftig rynket fertil overflate.",
+      notes: "En vurdering fra 2024 klassifiserer arten som livskraftig (Least Concern)."
     },
     sv: {
       description: "En mykorrhizabildande svamp som är svår att få syn på mot lövförnan på marken. I strikt bemärkelse är den europeisk, från Skandinavien till Medelhavet, och lokalt förekommande men ofta mycket riklig där den påträffas i Storbritannien och Irland. Ett bredare artkomplex som tidigare innefattades under detta namn förekommer i Nord- och Sydamerika samt i Asien, däribland Japan.",
@@ -20248,16 +20242,16 @@ export const CATALOG = [
       notes: "I Nordeuropa er dette den eneste art i slægten. Fistulina antarctica, Fistulina endoxantha og Fistulina pumiliae er selvstændige arter på sydbøg (Nothofagus). Inficeret kerneved af eg sælges som \"brunt egetræ\"."
     },
     no: {
-      description: 'En særpreget vedboende kjuke som vokser parasittisk og saprotroft på gamle eiketrær og edelkastanje. Utbredt i Vest- og Mellom-Europa, og finnes sjelden i sørlige kyststrøk i Norge.',
-      cap: 'Fruktlegemet er tungeformet til nyreformet, 10–25 cm bredt og 2–6 cm tykt. Overflaten er først ru og rødlig klebrig med små vorter, og blir blodrød, leverrød til okserød, minnende slående om et stykke rått kjøtt eller en tunge.',
-      hymenium: 'Rørene er frie fra hverandre og henger tett sammen som små individuelle sylindre, 10–15 mm lange. De er først hvitaktige til kremgule, og blir rødbrune ved berøring eller med alderen.',
-      stipe: 'En kort, tykk sidestilt stilk er ofte til stede, 1–5 cm lang og opptil 4 cm bred, farget som hatten.',
-      flesh: 'Kjøttet er tykt, mykt og usedvanlig saftig, mørkerødt til kjøttrødt med lysere striper, som marmorert storfekjøtt. Det skiller ut en blodrød væske når det presses. Smaken er merkbart syrlig på grunn av høyt innhold av garvesyre og vitamin C.',
-      sporePrint: 'Lakserosa til blekt rødbrunt. Sporene er bredt ovale, glatte, 4,5–6 × 3–4 μm.',
-      habitat: 'Fruktlegemer viser seg fra august til oktober på gamle, grove eikestammer og eikestubber. Den forårsaker en brun misfarging av veden (såkalt \'brun eik\') som er ettertraktet av møbelsnekkere.',
-      uses: 'Unge fruktlegemer er spiselige (spiselig). På grunn av den syrlige smaken bløtlegges kjøttet noen ganger i melk eller vann før det stekes som en biff eller brukes i gryteretter.',
-      confusion: 'Trollkjuke (Inonotus hispidus) har grovt lodden overflate og vokser på eik og ask, men har brunt kjøtt uten den røde, marmorerte saftigheten.',
-      notes: 'Dette er den eneste europeiske arten i slekten Fistulina.'
+      description: "En kjuke på levende og døde eiketrær, og av og til på ekte kastanje og andre løvtrær. Den er vidt utbredt og ganske vanlig i Storbritannia og Irland, gjennom det europeiske fastlandet og i Nord-Amerika, særlig øst for Rocky Mountains. Den rapporteres også fra Afrika, Australia, det subtropiske India og Kanariøyene.",
+      cap: "Konsollen begynner som nesten kuleformet og vortete, og blir deretter tungeformet eller halvsirkelformet. Den er typisk 10–25 cm bred og 2–6 cm tykk. Store fruktlegemer når rundt 30 cm bredde og omkring 8 cm tykkelse, og et svært ungt fruktlegeme kan være bare rundt 5 cm bredt. Oversiden er ru eller trevlet, ofte radielt stripet, samt klebrig eller slimete i fuktig vær. Unge konsoller er oransjerøde til blodrøde, deretter leverrøde, purpuraktige eller rødbrune, og mørkebrune ved høy alder.",
+      hymenium: "Rørene står frie fra hverandre og er cirka 10–15 mm lange. De er hvitaktige, kremfargede, lyst rosaaktige eller lysgule, deretter rødbrune, og de farges rustbrune til dypt rødbrune ved trykk. Modne rør åpner seg stjerneaktig. Porene er små og runde, cirka 4–6 per millimeter. Basidiene er klubbeformede og firesporede. Pleurocystider mangler. Cystidelignende hyfeender ved rørmunningene er cirka 5–7 μm brede. Hyfene er monomittiske med klemmebøyler, og enkelte er oleifere.",
+      stipe: "En kort sidestilt stilk finnes ofte, cirka 1–5 cm lang og opptil rundt 4 cm bred, farget som hatten over og porebærende undertil. Mange konsoller mangler stilk helt og fester seg med en avsmalnende side.",
+      flesh: "Kjøttet er saftig og cirka 3–5 cm tykt. Det er mørkerødt til kjøttrødt, marmorert eller stripet med lysere årer, selv om enkelte nordamerikanske fruktlegemer er hvitaktige med rødaktige striper. Gjennomskåret kjøtt skiller ut en matt rød saft. Lukten er mild eller behagelig soppaktig, og smaken er syrlig, svakt syreaktig eller lett bitter. Eldre kjøtt blir seigt og læraktig.",
+      sporePrint: "Sporeavtrykket beskrives som lyst rosagult eller rosaaktig i enkelte kilder, rødbrunt i andre, samt oker-rustfarget, mørknende til rustbrunt, i atter andre. Europeiske sporer er eggformede til tåreformede, glatte og inamyloide, cirka 4–6 × 3–4 μm. Nordamerikanske sporer er mindre, cirka 3–4 × 2–3 μm, glatte samt bredt mandelformede til noe ellipsoide eller tåreformede.",
+      habitat: "Fruktlegemer viser seg fra juni inn i november, og i Storbritannia og Irland hovedsakelig fra juli til oktober. De vokser lavt på levende stammer ved sårflater, samt på stubber og døde røtter, hovedsakelig av eik og ekte kastanje, og sjeldnere av bøk, valnøtt og ask. På Kanariøyene er vertstreet laurbærtre, og i Australia gjelder rapportene sårflater på eukalyptus. Soppen parasitterer levende eikekjerneved og lever også på død ved. Nedbrytningen er en langsom brunråte, og den misfargede kjerneveden verdsettes høyt av møbelsnekkere.",
+      uses: "Unge fruktlegemer er spiselige etter grundig tilberedning. De småkokes til de blir møre, stekes, eller brukes i en gulasj eller eddiksylting. Smaken er syrlig og noe bitter, og kjøttet er rikt på tanniner og tungt fordøyelig. Enkelte kilder verdsetter unge fruktlegemer høyt, mens andre ikke regner dem blant de bedre matsoppene. Eldre fruktlegemer er seige, og saften kan virke irriterende på magen, så de legges ofte i bløt over natten før tilberedning.",
+      confusion: "Opeikepiggsopp og kreftkjuke kan overfladisk minne om denne. Børstekjuke (Inonotus hispidus) har en kraftig hårete hatt og vokser på eik og epletrær. Svært unge fruktlegemer kan ligne svovelkjuke (Laetiporus sulphureus), som danner flatere konsoller stablet over hverandre. Kjuker i slekten Ischnoderma har sammenvokste rør. Eikekjuke (Buglossoporus quercinus) vokser på lignende steder og har gulbrun hatthud og lengre sporer. Trekkspillkjuke (Daedaleopsis confragosa var. tricolor) er bare rundt 1 cm tykk og har skiver. Sinoberkjuke (Pycnoporus cinnabarinus) er mindre og treaktig, med langstrakte kantete porer.",
+      notes: "I Nord-Europa er dette den eneste arten i slekten. Fistulina antarctica, Fistulina endoxantha og Fistulina pumiliae er separate arter på sørbøk. Angrepet eikekjerneved selges som 'brun eik'."
     },
     sv: {
       description: "En ticka på levande och döda ekar, och ibland på äkta kastanj och andra lövträd. Den är vitt utbredd och ganska allmän i Storbritannien och Irland, genom det europeiska fastlandet och i Nordamerika, särskilt öster om Klippiga bergen. Den rapporteras även från Afrika, Australien, subtropiska Indien och Kanarieöarna.",
@@ -21096,16 +21090,16 @@ export const CATALOG = [
       notes: "Den blånende reaktion skyldes variegatsyre, som iltes i kontakt med luften, og porernes røde farve hidrører fra pigmentet variegatorubin. I Slovakiet lades denne svamp ofte stå uindhøstet, fordi de iøjnefaldende røde porer og den voldsomme blånende reaktion afskrækker mange uerfarne svampesamlere."
     },
     no: {
-      description: 'En stor, ektomykorrhizadannende rørsopp i sur barskog og bøkeskog. Utbredt over store deler av Europa på mager, sur grunn.',
-      cap: 'Hatten er 5–20 cm bred, halvkuleformet til hvelvet, mørk sjokoladebrun til lærbrun eller mørk kastanjebrun. Overflaten er tørr og fløyelsaktig som ung, og blir glatt med alderen.',
-      hymenium: 'Rørene er gule til olivengule, opptil 3 cm lange, og blåner intenst ved snitt. Porene er bittesmå, lysende oransjerøde til blodrøde, og blåner umiddelbart til mørkeblått ved minste berøring.',
-      stipe: 'Stilken er 5–15 cm lang og 2–5 cm tykk, ofte kraftig klubbeformet eller tønneformet nederst. Den er gul øverst og rødaktig nedover, tett besatt med fine, karminrøde fnokker eller prikker, og mangler helt et årenett.',
-      flesh: 'Kjøttet er fast og kraftig gult, og blåner momentant til mørk indigoblått ved overskjæring eller skade. Lukten er svak og smaken behagelig mild.',
-      sporePrint: 'Olivenbrunt. Sporene er spindelformede til smalt ellipsoide, glatte, 12–18 × 4,5–6,5 μm.',
-      habitat: 'Fruktlegemer viser seg fra juni til oktober. Den vokser under gran, furu, bøk og eik på sur, næringsfattig jord.',
-      uses: 'Den er en utsøkt matsopp (god matsopp), men må varmebehandles grundig i minst 15–20 minutter. Som rå er den giftig og gir kraftig magebesvær. Den intense blåfargen forsvinner under steking eller koking og erstattes av en fin gulbrun farge.',
-      confusion: 'Ildrørsopp (Suillellus luridus) har et tydelig hevet rødt årenett på stilken og rød linje under rørene. Satansopp (Rubroboletus satanas) har kritthvit til lysegrå hatt, svampete form og vond lukt.',
-      notes: 'Den intense blåfargen skyldes oksidering av variegasinsyre når kjøttet kommer i kontakt med luft.'
+      description: "En ektomykorrhizadannende rørsopp i sur barskog og bøkeskog. Den er vidt utbredt i Europa med ytterligere rapporter fra Kaukasus, Lilleasia, Midtøsten, Nord-Amerika og, som en form, Nord-Afrika. Den er ganske vanlig i Storbritannia og Irland, mer i åstrakter og fjellskoger enn i lavlandet.",
+      cap: "Hatten er 5–20 cm bred, av og til opptil 25 cm. Den er halvkuleformet, deretter hvelvet eller puteformet, og flatere med alderen. Overflaten er vanligvis mørkebrun, kastanjebrun eller sjokoladebrun, sjeldnere lysere brun, oliventonet eller kobberaktig bronsefarget, fint filtet eller fløyelsaktig og matt som ung, deretter snau, og kortvarig en anelse klebrig i fuktig vær. Trykte steder mørkner, noen ganger nesten til svart. Blekere hatter forekommer, særlig på fruktlegemer som vokser med eik. Hatthuden begynner som et trikoderm av opprette sylindriske til svakt klubbeformede hyfeender, 3–6 μm brede, som snart legger seg flatt og blir noe gelatinøse.",
+      hymenium: "Rørene er gule til olivengule, opptil cirka 3 cm lange, utrandede eller tilvokste til stilken, og blir straks blågrønne ved snitt. Porene er små, cirka 1 mm eller mindre, bare gule som helt unge, deretter oransjerøde til dypt blodrøde, og blekere med en oliventone med alderen. Trykk gjør dem straks blå, og de blå merkene blir senere svartbrune. Basidiene måler 25–40 × 9–13 μm, av og til opptil 15 μm brede. Cystidene er flaskeformede til bukete spoleformede, mer spredte og større på porene, og opptil cirka 50 μm lange.",
+      stipe: "Stilken er 4–15 cm lang og 2–5 cm tykk, ofte 7–15 × 2–4 cm i Storbritannia og Irland, og mangler ring og opphøyd årenett. Den er bukete som ung, deretter sylindrisk til klubbeformet. Grunnfargen er gul til brungul, gul ved toppen, og dekket av fine røde prikker eller korn, som kan være gulaktige nær toppen. På de blekere fruktlegemene som vokser med eik, er prikkene fine og spredte. Basisen er olivenfarget og lett filtet med blekt gulaktig mycel. Trykte steder blir straks blå.",
+      flesh: "Kjøttet er dypgult til eggegult, noen ganger lett rødaktig i stilkbasis, samt fast, trevlet og seigt i basis. Snittflater blir straks intenst dypblå. I løpet av flere timer blekner det blå til en matt gul farge. Lukten er svak og soppaktig, eller ikke utpreget, og smaken er mild.",
+      sporePrint: "Olivenbrunt til mørkt olivenfarget. Sporene er spoleformede til bredt ellipsoide, cirka 12–18 × 4,5–6,5 μm, eller 12–16 × 4,5–6 μm i britisk materiale.",
+      habitat: "Fruktlegemer viser seg fra mai inn i oktober eller november, fra juni til november i Slovakia og fra august til oktober i Storbritannia og Irland. De vokser enkeltvis eller i grupper på bakken, ofte i skogsbryn, i lysninger eller blant blåbærlyng, på frisk, sur mark under gran og andre bartrær og sjeldnere under bøk og eik. De påtreffes ofte sammen med steinsopp (Boletus edulis). Svært tørr, svært våt og sterkt kalkrik mark unngås, og de er sjeldne der jordsmonnet er nitrogenrikt.",
+      uses: "Grundig varmebehandlet er den en meget god matsopp som sankes i stor skala i flere europeiske land, selv om enkelte personer reagerer med overfølsomhet mot den. I visse områder foretrekkes den fremfor steinsopp (Boletus edulis). Den blå fargen forsvinner under tilberedning. Rå eller utilstrekkelig varmebehandlede fruktlegemer forårsaker oppkast og diaré, og av den grunn frarådes tørking.",
+      confusion: "Ildrørsopp (Suillellus luridus) har et rødt årenett på stilken, en mørkere linje der rørene møter hattekjøttet og en oransjerød til oransjegul rørbunn, og den foretrekker kalkrik mark. Flokkestilket rørsopp (Suillellus queletii) har en glattere, blekere stilk med finere korn, ofte en rødaktig hatt og purpurrødt kjøtt i stilkbasis, og dette basale kjøttet er amyloidt. Falsk ildrørsopp (Suillellus mendax) har både årenett og prikker, rødere fargetoner på hatt og stilk samt amyloidt kjøtt i stilkbasis. Satansopp (Rubroboletus satanas) har en blekgrå til kritthvit hatt, en knollformet stilk med et rødt årenett og kjøtt som bare blåner moderat. Blodrødstilket sopp (Rubroboletus dupainii) har en lysende rød hatt. Ulverørsopp (Rubroboletus lupinus) har en glatt stilk. Rosenrørsopp (Rubroboletus pulcherrimus) har en nettmønstret stilk og er større. Purpurrørsopp (Imperator rhodopurpureus) foretrekker nøytral mark. Gul blodrørsopp (Neoboletus junquilleus) har gul hatt. Eikeblodrørsopp (Neoboletus xanthopus) er gulere på hatt og stilk, med mindre korn og en filtet stilkbasis, og vokser med eik og kastanje. Svartblånende rørsopp (Cyanoboletus pulverulentus) blir mye raskere mørkeblå over hele fruktlegemet. Besk rørsopp (Caloboletus calopus) og rot-rørsopp (Caloboletus radicans) har gule porer og bittert kjøtt. Gallerørsopp (Tylopilus felleus) har rosa porer og svært bittert kjøtt. Steinsopp (Boletus edulis) og svartbrun rørsopp (Imleria badia) mangler røde porer og blåner ikke så intenst. Fløyelspluggsopp (Tapinella atrotomentosa) har skiver og en mørkebrun, fløyelsaktig stilk.",
+      notes: "Den blånende reaksjonen skyldes variegatsyre, som oksideres i kontakt med luften, og porenes røde farge stammer fra pigmentet variegatorubin. I Slovakia blir denne soppen ofte stående igjen i skogen fordi de iøynefallende røde porene og den kraftige blånende reaksjonen skremmer uerfarne soppsankere."
     },
     sv: {
       description: "En ektomykorrhizabildande sopp i sura barr- och bokskogar. Den är vitt utbredd i Europa med ytterligare rapporter från Kaukasus, Mindre Asien, Främre Orienten, Nordamerika och, som en form, Nordafrika. Den är ganska allmän i Storbritannien och Irland, mer i berg och förberg än i låglandet.",
@@ -21905,16 +21899,16 @@ export const CATALOG = [
       notes: "En rødlistevurdering fra 2019 angiver arten som ikke truet (Least Concern)."
     },
     no: {
-      description: 'En kraftig, saprotrof vårsopp som vokser i kalkrike gressmarker, beitemarker, frukthager og skogbryn. Utbredt i Europa, der den tradisjonelt regnes som en av vårens fineste matsopper.',
-      cap: 'Hatten er 4–15 cm bred (oftest 5–12 cm). Den er halvkuleformet til hvelvet med innrullet kant som ung, og flater ut senere. Fargen er hvitaktig, kremgul til lyst lærgul. Hatthuden er tørr og glatt som porselen eller semsket skinn.',
-      hymenium: 'Skivene er svært tette, smale, 5–9 mm brede, utrandet festet til stilken. De er kremhvite og forblir lyse uten fargeendring.',
-      stipe: 'Stilken er 3–9 cm lang og 1–4 cm tykk, kraftig, massiv, sylindrisk eller knollaktig oppsvulmet ved basis. Fargen er hvit til kremhvit som hatten.',
-      flesh: 'Kjøttet er tykt, fast og hvitt, og beholder fargen ved overskjæring. Både lukten og smaken er kraftig og karakteristisk melet (minner om fersk deig eller nykvernet korn).',
-      sporePrint: 'Hvitt til kremhvitt. Sporene er glatte, ellipsoide, tynnveggede, 5–6,5 × 3–4 μm.',
-      habitat: 'Fruktlegemer viser seg om våren, hovedsakelig fra april til juni (tradisjonelt rundt sankthans på De britiske øyer, men fra slutten av april i Mellom-Europa). Den danner store hekseringer i beitemark og frukthager.',
-      uses: 'Den er en utsøkt matsopp (god matsopp). Den kraftige melsmaken forsvinner under varmebehandling og gir en rik, aromatisk smak til stekt sopp, omeletter og supper.',
-      confusion: 'Vårtrevlesopp (Inosperma erubescens) vokser på samme tid om våren i parker og løvskog, men dens kjøtt rødner tydelig ved brudd, skivene blir brune, og lukten er fruktig og ubehagelig, aldri melet. Giftrødspore (Entoloma sinuatum) opptrer senere på sommeren og høsten og har rødbrune skiver.',
-      notes: 'En vurdering fra 2019 lister arten som livskraftig (Least Concern).'
+      description: "En kjøttfull saprotrof sopp på kalkrike gressmarker, enger, i frukthager og gresskledde skogsbryn, som ofte vokser i hekseringer. Den er vidt utbredt i Europa, lokalt tallrik i visse områder og fraværende i andre, og rapporteres fra Nord-Amerika. Fruktlegemene hører til vårens første store matsopper.",
+      cap: "Hatten er 4–15 cm bred, oftest cirka 5–12 cm. Den er halvkuleformet, klokkeformet eller kjegleformet til å begynne med, med en lenge innrullet kant, og senere hvelvet til utbredt, hvorved den ofte forblir hvelvet, bølget eller uregelmessig bulet. Overflaten er glatt, matt og silkeaktig samt snau. Den er hvitaktig til kremfarget eller beige, noen ganger med en lysebrun eller gråbrun tone, og blir ofte okergul, lærfarget eller gulaktig brun med alderen. Gule hatter forekommer også.",
+      hymenium: "Skivene er svært tette og tynne, cirka 5–9 mm brede, med en bølget eller fint sagtannet egg. De er utrandede til tilvokste, ofte festet med en liten tann og noen ganger nedløpende i en kort linje. De er hvitaktige til kremhvite, senere blekt okerfargede eller gråaktige, og blir ikke rosa. Basidiene er smalt klubbeformede til sylindriske med utvidet topp, 15–20 × 4–6 μm, vanligvis firesporede og sjelden tosporede, med siderofile korn og en basal klemmebøyle. Cystider mangler.",
+      stipe: "Stilken er 3–9 cm lang og 1–4 cm tykk, mer eller mindre sylindrisk og ofte bøyd. Unge stilker er noen ganger knollformede, og basis kan forbli noe oppsvulmet eller sjeldnere avsmalnende. Den er kompakt til å begynne med og kan bli noe margfylt eller trevlet, hvitaktig til kremfarget, nedentil ofte blekt okerfarget, og glatt til langsfibret. Ring mangler.",
+      flesh: "Kjøttet er tykt, fast, en anelse svampete og hvitt, og det endrer ikke farge ved snitt. Lukten er kraftig og melaktig, som nymalt mel, agurk eller våt murpuss. Smaken er behagelig og melaktig i rå tilstand. Varmebehandling fjerner det meste av denne mellukten og melsmaken.",
+      sporePrint: "Hvitt til hvitaktig kremfarget. Sporene er eggformede til ellipsoide, glatte, hyaline og tynnveggede samt inamyloide, 4–7 × 2,3–4,5 μm.",
+      habitat: "Hovedfruktifiseringen skjer fra april til juni. I middelhavsområdet kan soppene vise seg allerede i mars, mens de i Skandinavia og høyfjellet fortsetter gjennom juni og juli, og en mer sparsom høstfruktifisering er registrert i oktober og november. De opptrer enkeltvis, i grupper eller i hekseringer som består over mange år, på enger, beitemarker, i frukthager, hager og veikanter, i kratt av hagtorn, slåpetorn og villroser, samt langs løvskogsbryn under hassel, bøk, eik eller bjørk, av og til nær gran. Jordsmonnet er vanligvis næringsrikt og kalkrikt, selv om fruktlegemer også forekommer på moderat sur mark. Soppen bryter ned gressførne. Enkelte kilder regner den som mykorrhizadannende.",
+      uses: "Det er en utmerket matsopp som tilberedes i omeletter, risotto, supper og sauser, eller tørkes, syltes eller konserveres på annet vis. Den oppgis å kunne spises rå, men varmebehandles vanligvis. Unge fruktlegemer foretrekkes, ettersom eldre eksemplarer ofte angripes av fluelarver. Fruktlegemer fra trafikkerte veikanter kan oppta forurensninger fra biltrafikken. I Baskerland er den en vårlig delikatesse, og kommersielle mengder importeres fra Romania, Ungarn, Tyrkia og Øst-Europa. I det sentrale Italia har den vært høyt verdsatt siden 1500-tallet.",
+      confusion: "Vårtrevlesopp (Inosperma erubescens) vokser på de samme vårlige lokalitetene, blant annet i parker og løvskoger. Skivene dens er blekrosa snarere enn hvite, tilvokste, og rødmer ved trykk, og fruktlegemet lukter skarpt og fruktig snarere enn melaktig. Giftrødspore (Entoloma sinuatum) har glisnere skiver som blir lakserosa til kjøttrøde og et kjøttfarget rosa sporeavtrykk. En kilde beskriver dens lukt som harsk, mens andre angir at kjøttet kan lukte og smake mel, så de rosa skivene og sporeavtrykket er de pålitelige kjennetegnene. Den bærer frukt fra mai til høsten i åpne løvskoger, og de to artene kan vokse sammen i et skogsbryn. Melsopp (Clitopilus prunulus) lukter også mel, men dens skiver er nedløpende og den fruktifiserer senere på året. Hvit fagerhatt (Tricholomella constricta) bærer frukt om høsten på nitrogenrik mark og har rotslående stilk og ring.",
+      notes: "En rødlistevurdering fra 2019 angir arten som livskraftig (Least Concern)."
     },
     sv: {
       description: "En köttig saprotrof svamp i kalkrika gräsmarker, ängar, fruktträdgårdar och gräsbevuxna skogsbryn, som ofta växer i häxringar. Den är vitt utbredd i Europa, lokalt talrik i vissa områden och saknas i andra, och rapporteras från Nordamerika. Fruktkropparna hör till vårens första stora matsvampar.",
@@ -22752,16 +22746,15 @@ export const CATALOG = [
       confusion: "Vårmusseron (Calocybe gambosa) sætter frugtlegemer på de samme forårslokaliteter. Dens lameller forbliver hvidlige til cremefarvede og rødmer ikke, hatten er ikke radialt trådet, og kødet har en kraftig melagtig lugt. Rødmende trævlhat (Inocybe godeyi) er mindre, lugter frugtagtigt og har en randet knold ved stokbasis. Duftende trævlhat (Inosperma bongardii) rødmer også ved berøring, men har en groft fibret til skællet hat og en skarp, kemisk lugt. Pære-trævlhat (Inocybe pyriodora) rødmer langsomt og har tykvæggede pleurocystider og en tung, sødlig lugt. Andre blege arter i gruppen er mindre og rødmer ikke med alderen eller ved tryk. I Israel er den blevet forvekslet med gråbladet ridderhat (Tricholoma terreum), som deler voksested og ikke rødmer. Den er også blevet forvekslet med champignoner (Agaricus) og rynket slørhat (Cortinarius caperatus). Denne svamp mangler en ring, og dens lameller rødmer, hvor de trykkes."
     },
     no: {
-      description: 'En ektomykorrhizadannende, dødelig giftig trevlesopp i kalkrike løvskoger, parker og hager, særlig under bøk og lind. Utbredt i Europa.',
-      cap: 'Hatten er 2,5–9 cm bred (noen ganger opptil 12 cm). Den starter kjegleformet til klokkeformet med en spiss pukkel, og flater ut med alderen mens pukkelen beholdes. Fargen er først hvitaktig til lyst oker, men overflaten utvikler raskt teglrøde til mursteinsrøde flekker ved berøring og med alderen. Hatthuden er radialt trådet og trevlete, og sprekker ofte opp i kanten.',
-      hymenium: 'Skivene er tette, opptil 8 mm brede, tilvokste til nesten frie. De starter hvitaktige til leirfargede, og blir etter hvert kanelbrune til olivenbrune med en ujevn, hvitaktig egg. Ved trykk eller skade flekkes de tydelig teglrøde.',
-      stipe: 'Stilken er 2,5–12 cm lang og 0,4–2 cm tykk, sylindrisk med en svakt oppsvulmet basis. Den er hvitaktig og silketrådet som ung, men rødner kraftig ved håndtering og med alderen.',
-      flesh: 'Kjøttet er hvitt, men rødner markant og raskt ved overskjæring eller skade. Lukten er i starten behagelig fruktig, men blir ubehagelig søtlig hos eldre sopper. Den har aldri mel-lukt.',
-      sporePrint: 'Okerbrunt til kanelbrunt. Sporene er glatte, bønneformede til ellipsoide, 11–15 × 6,5–8,5 μm.',
-      habitat: 'Fruktlegemer viser seg fra mai til juli (hovedsakelig i juni). Den vokser under bøk, eik og lind på varm, kalkrik grunn i parker og løvskoger.',
-      uses: 'Dødelig giftig. Soppen inneholder store mengder muskarin (opptil 200 ganger mer enn rød fluesopp). Forgiftningen inntrer raskt, ofte innen 15–30 minutter, med voldsom svette, spyttflod, tåreflod, synsforstyrrelser, pusteproblemer og hjertearytmi som kan føre til hjertestans.',
-      confusion: 'Vårfagerhatt (Calocybe gambosa) opptrer på samme tid om våren, men har tykt kjøtt som lukter kraftig av mel, skiver som forblir hvite til kremgule, og kjøtt som aldri rødner.',
-      notes: 'Vårtrevlesopp er en av de farligste forvekslingsartene for vårens soppsankere i Mellom- og Sør-Europa.'
+      description: "En ektomykorrhizadannende sopp i kalkrike løvskoger, parker og gresskledde miljøer, vanligvis med bøk, eik, lind eller agnbøk. Den er vidt utbredt i Europa, rapportert fra det østlige Anatolia og funnet i Israel under eik og furu. I det vestlige Sibir bærer den frukt på plener og under plantede løvtrær.",
+      cap: "Hatten er 2,5–9 cm bred, og enkelte fruktlegemer når 12 cm. Den er kjegleformet eller klokkeformet til å begynne med, med innrullet kant, deretter hvelvet til utbredt, vanligvis med en bred pukkel (umbo). Kanten bøyer seg ofte oppover og sprekker radielt. Overflaten er tørr og silkeaktig med fine radielle fibre snarere enn skjell, selv om den oppsprukne kanten kan deles opp i felter, og den er noe klebrig i fuktig vær. Unge hatter er hvite til kremfargede eller blekt okergule. De blir halmgule til okergule og deretter teglrøde eller sinoberrøde med røde flekker der overflaten trykkes eller sprekker.",
+      hymenium: "Skivene er tette, opptil cirka 8 mm brede, med en hvitaktig, frynset og ujevn egg. De er utrandede til smalt tilvokste eller tilvokste, og noen ganger nesten frie. De er hvitaktige til blekt okergule i starten, deretter rosa, gråbrune eller olivenbrune, og til slutt rødbrune, ofte med rødaktige flekker, og de antar en rustrød eller rødnende farge ved trykk. Basidiene er klubbeformede, 31–50 × 10–15 μm, overveiende firesporede, med enkelte tosporede. Cheilocystidene er tynnveggede, sylindriske til smalt klubbeformede, uten krystallkrone, og fargeløse eller fylt med rødbrunt innhold, cirka 25–70 × 8–20 μm. Pleurocystider mangler. Et svært ungt fruktlegeme kan ha en flyktig kortina.",
+      stipe: "Stilken er 2,5–12 cm lang og 0,4–2 cm tykk, sylindrisk, ofte avsmalnende mot toppen eller noe klubbeformet; basisen kan ha en liten jordklump festet til seg. Den er kompakt hos unge eksemplarer. Overflaten er langsfibret, og toppen er melet til fint kornfrynset med kaulocystider som ligner cheilocystidene bare nær spissen. Den er hvitaktig til blekt okergul i starten, blir deretter oransjerød til teglrød, vanligvis fra basis og oppover, men forblir lysere enn den gamle hatten. Ring mangler.",
+      flesh: "Kjøttet er hvitt i hatten og hvitaktig til blekrosa i stilken. Trykte steder rødmer kraftig. Gjennomskåret kjøtt rødmer langsomt og bare flekkvis i enkelte innsamlinger, og forandrer seg knapt i andre. Unge fruktlegemer er ofte svakt fruktige, søte, såpeaktige eller minner om rødbete. Eldre fruktlegemer lukter ubehagelig, og enkelte funn lukter spermatisk eller ufriskt og krydret. Lukten er ikke melaktig. Smaken beskrives som mild.",
+      sporePrint: "Okerbrunt til mattbrunt, noen ganger med en oliventone. Sporene er glatte, ellipsoide til bønneformede og av og til uregelmessige, 9–15 × 5–8 μm, for det meste cirka 10–14,5 × 5,5–7,5 μm.",
+      habitat: "Fruktlegemer viser seg fra mai til september, mest i juni. I det vestlige Sibir strekker sesongen seg inn i oktober. De vokser enkeltvis eller i små grupper på bakken og i løvførne, vanligvis på kalkrik eller nøytral grunn, under bøk, eik, lind og agnbøk, samt i blandingsskog, langs stier, i parker og på skyggefulle plener under plantede løvtrær. Enkelte funn er gjort under bjørk eller bartrær.",
+      uses: "Den er dødelig giftig. Fruktlegemene inneholder en stor mengde muskarin. Symptomene kan begynne innen femten minutter til to timer med kvalme, kaldsvette, voldsom spytt- og tåreflod, oppkast, smertefull diaré og kramper, etterfulgt av uregelmessig hjerterytme, pustevansker, kraftløshet og tåkesyn, mens den rammede forblir ved bevissthet. Den rapporterte dødelige dosen er cirka 40–50 g fersk sopp, og et dødsfall ble registrert i Surrey i 1937.",
+      confusion: "Vårfagerhatt (Calocybe gambosa) bærer frukt på de samme vårlige lokalitetene. Dens skiver forblir hvitaktige til kremhvite og rødmer ikke, hatten er ikke radielt trådet og kjøttet har en kraftig melaktig lukt. Rødnende trevlesopp (Inocybe godeyi) er mindre, lukter fruktig og har en kantet knoll ved stilkbasis. Dukttrevlesopp (Inosperma bongardii) rødmer også ved berøring, men har en grovt trådet til skjellet hatt og en skarp, kjemisk lukt. Pæretrevlesopp (Inocybe pyriodora) rødmer langsomt og har tykkveggede pleurocystider og en tung, søtlig lukt. Andre bleke arter i gruppen er mindre og rødmer ikke med alderen eller ved trykk. I Israel har den blitt forvekslet med jordmusserong (Tricholoma terreum), som deler voksested og ikke rødmer. Den har også blitt forvekslet med sjampinjonger (Agaricus) og rimsopp (Cortinarius caperatus). Denne soppen mangler ring og dens skiver rødmer der de trykkes."
     },
     sv: {
       description: "En ektomykorrhizabildande svamp i kalkrika lövskogar, parker och gräsbevuxna miljöer, vanligen med bok, ek, lind eller avenbok. Den är vitt utbredd i Europa, rapporterad från östra Anatolien och funnen i Israel under ek och tall. I västra Sibirien sätter den fruktkroppar på gräsmattor och under planterade lövträd.",
@@ -23557,16 +23550,16 @@ export const CATALOG = [
       notes: "En rødlistevurdering fra 2019 angiver arten som ikke truet (Least Concern)."
     },
     no: {
-      description: 'En ektomykorrhizadannende piggsopp. Den er utbredt og vanlig i Europa, i både bartrær- og løvtreskog. Den danner mykorrhiza med en rekke treslag, særlig gran, furu, bøk og eik.',
-      cap: 'Hatten er 3–15 cm bred. Den starter hvelvet, blir senere flat, bølget eller fliket, og noen ganger nedsunket i midten. Fargen varierer fra hvitaktig, kremgul til blekt lærbrun eller ferskenfarget. Overflaten er tørr og glatt eller svakt filtet, og kanten er lenge innrullet.',
-      hymenium: 'Undersiden er tett besatt med myke, skjøre pigger, 2–7 mm lange. De løper gjerne litt nedover stilken (nedløpende). Piggene har samme farge som hatten eller er litt lysere, og brekker lett av ved berøring.',
-      stipe: 'Stilken er 2–10 cm høy og 0,5–3 cm tykk, kraftig, sylindrisk eller svakt klubbeformet mot basis, ofte litt skjevt festet. Fargen er hvitaktig til kremfarget, og kan få oransjebrune flekker ved håndtering.',
-      flesh: 'Kjøttet er tykt, fast og sprøtt, hvitt til svakt gulaktig. Lukten er behagelig fruktig og smaken mild, men eldre eksemplarer kan utvikle en svakt bitter ettersmak.',
-      sporePrint: 'Hvitt til blekt kremfarget. Sporene er glatte, subglobose til bredt ellipsoide, 6,5–9 × 5,5–7 μm.',
-      habitat: 'Fruktlegemer viser seg fra juli til november. Den vokser i små grupper eller danner hekseringer i moserik barskog og løvskog.',
-      uses: 'Den er en utsøkt matsopp (god matsopp). Piggene skrapes ofte av før tilberedning fordi de lett faller av i pannen. Kjøttet beholder en fast og god konsistens ved steking og koking, og egner seg utmerket i blandingsretter.',
-      confusion: 'Rødgul piggsopp (Hydnum rufescens) er spinklere, har mørkere oransjebrun til aprikosfarget hatt, og pigger som ikke er nedløpende. Piggsopper kan knapt forveksles med giftige sopper på grunn av piggene på undersiden.',
-      notes: 'En vurdering fra 2019 lister arten som livskraftig (Least Concern).'
+      description: "En ektomykorrhizadannende piggsopp i skog med bøk, eik, furu og gran. Den er vidt utbredt i den nordlige tempererte sonen og er vanlig i Europa. Den rapporteres fra deler av Asia og under dette navnet i eldre litteratur fra Nord-Amerika, der fruktlegemene nå føres til andre arter.",
+      cap: "Hatten er 2,5–17 cm bred, ofte 5–10 cm i Storbritannia og Irland, og unntaksvis opptil 25–30 cm. Den er hvelvet til å begynne med, ofte med innrullet kant, og flater deretter ut eller blir svakt traktformet, og forblir ofte uregelmessig med bølget eller flikete kant. Hatter fra tette klynger kan vokse sammen. Overflaten er tørr og snau til fint filtet, og kan sprekke opp ved tørke. Fargen er kremfarget, blekgul, halmgul eller blekt oransjeaktig, og den mørkner eller blir okergul med alderen og ved berøring.",
+      hymenium: "Undersiden bærer tettstilte, sylindriske pigger som er 2–7 mm lange (unntaksvis til 10 mm). Piggene er nedløpende på stilken, og på den ene siden av stilken løper de ofte lenger ned enn på den andre. De er kremfargede til blekt gulaktige eller svakt lakserosa, og de blir mørkere okeroransje eller gulbrune ved berøring og med alderen. Piggene er sprø og brekker lett av. Basidiene er klubbeformede, (30–)35–45(–55) × 6–8(–9) μm, og bærer tre til seks sporer, vanligvis fire eller fem. Cystider mangler.",
+      stipe: "Stilken er 3–8,5 cm lang og 1–4 cm tykk, og i britisk materiale 3–10 × 1–3 cm. Den er sylindrisk eller uregelmessig, ofte noe bøyd og noen ganger avsmalnende eller klubbeformet mot basis. Stilken sitter sentralt eller skjevt på hatten. Overflaten er tørr, glatt til lett filtet, hvitaktig til blekt kremfarget, og antar en gul eller oransje tone ved trykk og med alderen. Den er kompakt og fast, og mangler ring.",
+      flesh: "Kjøttet er tykt, fast og sprøtt, hvitt til blekt kremfarget, og mørkner langsomt til gulbrunt eller oransjebrunt ved snitt. Lukten er behagelig og svakt fruktig. Smaken er mild eller svakt pepret i unge fruktlegemer, og eldre eksemplarer kan være skarpe eller bitre. Rask koking demper den peprede smaken.",
+      sporePrint: "Hvitt til blekt kremfarget. Sporene er bredt ellipsoide til nesten kulerunde, glatte, tynnveggede og inamyloide, 6,5–9 × 5,5–7 μm, oftest omkring 7–8,5 × 5,5–6,5 μm.",
+      habitat: "Fruktlegemer viser seg fra juli til desember i Europa, og fra august til november i Storbritannia og Irland. De vokser enkeltvis, i grupper eller i tette tuer, ofte i hekseringer eller rader, på bakken blant løv- og barstrø eller i mose. De danner mykorrhiza med bøk og eik, og også med furu og gran. Jordsmonnet er veldrenert, næringsfattig til moderat næringsrikt, og surt eller kalkfattig.",
+      uses: "Det er en meget god og ettertraktet matsopp som selges på markeder i Frankrike, Italia, Spania, Portugal, Canada og Mexico. Den er lett å rense og angripes sjelden av mark. Unge fruktlegemer er best; eldre eksemplarer kan bli bitre og bør forvelles. Den stekes i smør, stues eller konserveres i olje eller eddik.",
+      confusion: "Rødgul piggsopp (Hydnum rufescens) er mindre og hatten har en dypere aprikosaktig, oransje eller rustrød farge. Piggene dens er tilvokste eller frie snarere enn nedløpende, hattkanten er skarpere avgrenset og hatten er mindre filtet. Ovalsporet piggsopp (Hydnum ellipsosporum) har en hatt på 3–5 cm i bredde og ellipsoide sporer på 9–11 × 6–7,5 μm. Bleke fruktlegemer kan ikke skilles fra Hydnum boreorepandum uten en dna-sekvens, og sporene hos de to artene er i hovedsak like store. Hydnum slovenicum har en oransjeoker hatt og mindre sporer, i gjennomsnitt 7,5 × 6,4 μm. Hvit piggsopp (Hydnum albidum) er en selvstendig, mindre art, hvit til blekt grågul, med små nesten kulerunde sporer. Kantarell (Cantharellus cibarius) og blek kantarell (Cantharellus pallens) har tykke forgrenede ribber eller årer snarere enn pigger.",
+      notes: "En rødlistevurdering fra 2019 angir arten som livskraftig (Least Concern)."
     },
     sv: {
       description: "En ektomykorrhizabildande taggsvamp i skogar med bok, ek, tall och gran. Den är vitt utbredd i den norra tempererade zonen och är allmän i Europa. Den rapporteras från delar av Asien och under detta namn i äldre litteratur från Nordamerika, där fruktkropparna numera förs till andra arter.",
@@ -24414,16 +24407,16 @@ export const CATALOG = [
       notes: "Gamle frugtlegemer af denne art og dens slægtninge indeholder blågrønne pigmenter, der anvendes til farvning af uld. En polsk rødliste fra 2006 placerer arten som sårbar (vulnerable). Den var strengt fredet i Polen indtil 2014."
     },
     no: {
-      description: 'En stor, ektomykorrhizadannende piggsopp i granskog, sjelden med edelgran. Utbredt i barskogsområder i Europa og Nord-Amerika på sur, mager grunn.',
-      cap: 'Hatten er 5–25 cm bred, av og til opptil 30 cm. Den er hvelvet som ung med innrullet kant, og flater ut med et nedsunket sentrum. Fargen er gråbrun til mørkebrun. Overflaten er dekket av store, oppstående, grove, konsentriske skjell, særlig mot midten.',
-      hymenium: 'Undersiden bærer tette, skjøre pigger i stedet for skiver eller rør. Piggene er 5–12 mm lange, nedløpende på stilken, først hvitaktige til gråhvite og mørkner til gråbrune med alderen.',
-      stipe: 'Stilken er 3–10 cm lang og 1–4 cm tykk, ofte kort og kraftig, sylindrisk eller avsmalnende mot bunnen. Fargen er gråhvit til lyst gråbrun, og mørkere brun ved basis.',
-      flesh: 'Kjøttet er tykt, fast, hvitaktig til blekt gråbrunt i hatten og mørkere i stilkbasis. Lukten er krydret soppaktig og smaken er mild hos unge eksemplarer, men blir bitter hos eldre sopper.',
-      sporePrint: 'Brunt til gråbrunt. Sporene er nesten kulerunde med karakteristiske kantede vorter, 5,5–7,5 × 5–6 μm.',
-      habitat: 'Fruktlegemer viser seg fra august til oktober. Den vokser på bakken i eldre granskog med tykt mosedekke.',
-      uses: 'Unge fruktlegemer kan spises (spiselig), men kjøttet er seigt og kvaliteten middels. Eldre eksemplarer er for bitre. Tørket og malt sopp brukes av og til som krydder.',
-      confusion: 'Furuskjellpigg (Sarcodon squamosus) er nært beslektet, men vokser med furu og har mindre, mer tilliggende skjell på hatten.',
-      notes: 'Eldre fruktlegemer inneholder blågrønne pigmenter som tradisjonelt har vært brukt til soppfarging av ull.'
+      description: "En ektomykorrhizadannende piggsopp som danner mykorrhiza med bartrær, særlig gran. Den er vidt utbredt i de boreale og montane regionene i Europa, Asia og Nord-Amerika. Nyere dna-studier viser at det klassiske artsbegrepet omfatter to arter: granskjellpigg (Sarcodon imbricatus) med gran og furuskjellpigg (Sarcodon squamosus) med furu.",
+      cap: "Hatten er 5–20 cm bred, av og til opptil 30 cm, hvelvet til å begynne med, deretter utbredt og ofte med en dyp midtfordypning. Overflaten er tørr, dekket av store, grove, mørkebrune til svartbrune skjell som er oppoverbøyde, stive og ordnet i mer eller mindre konsentriske ringer, størst mot midten og mindre mot kanten. Grunnfargen er lysebrun til gråbrun og mørkner med alderen. Kanten er innrullet til å begynne med, bølget og ofte flikete.",
+      hymenium: "Piggene er tette, slanke, 5–12 mm lange, nedløpende på stilken, sprø og brekker lett av. De er hvitaktige til lysegrå som unge og blir gråbrune til mørkebrune etter hvert som sporene modnes, med lyse spisser. Basidiene er 30–40 × 6–8 μm, firesporede, med en basal klemmebøyle. Cystider mangler.",
+      stipe: "Stilken er 3–10 cm lang og 1–4 cm tykk. Mange fruktlegemer sitter så lavt at stilken er skjult inntil soppen løftes opp. Den er sylindrisk eller noe klubbeformet, noen ganger eksentrisk, og ofte tykkere ved basis, selv om enkelte er smalere nedentil. Overflaten er tørr, glatt eller fint filtet, hvitaktig hos unge eksemplarer og grå til brun senere, og den kan bære noen få ufullstendig utviklede pigger nær toppen. Hvitt mycel fester seg ved basis. Det indre er kompakt til å begynne med og kan bli hult med alderen.",
+      flesh: "Kjøttet er tykt, hvitaktig til lysegrått eller lysebrunt, og brunaktig i stilkbasis. Ungt kjøtt er fast. Eldre kjøtt er mykt eller læraktig. Det skiller ikke ut væske. Lukten er mild eller krydret, og smaken er mild, behagelig eller noe bitter, og mer bitter i gamle fruktlegemer. Kaliumhydroksid på kjøttet gir en svak oliventone eller ingen reaksjon overhodet.",
+      sporePrint: "Brunt til gråbrunt. Basidiosporene er nesten kulerunde til uregelmessig kuleformede med kantete vorter eller knoller. Sentraleuropeiske data angir 6–8 × 5–5,5 μm. En nordamerikansk kilde angir 5–8,5 × 5–7,5 μm.",
+      habitat: "Fruktlegemene viser seg fra juli til september over store deler av Nord-Amerika og fra september til desember på vestkysten. I Sentral-Europa bærer de frukt fra august inn i november, og i mildt vær holder de seg noe lenger. De vokser enkeltvis, i grupper eller i sammenvokste klynger, noen ganger i hekseringer, på sur sandjord, i mose eller i barnåler, hovedsakelig under gran i heie-, ås- og fjellskoger, og også under edelgran. De påtreffes også i blandings- og løvskog.",
+      uses: "Unge fruktlegemer spises, selv om kjøttet er seigt og kvaliteten bare er middelmådig. Eldre eksemplarer er bitre og læraktige. Forvelling reduserer bitterheten. De syltes eller tørkes og brukes som krydder, og i Bulgaria males den tørkede soppen til et aromatisk mel. Rå fruktlegemer kan være giftige, og enkelte innsamlinger forårsaker mage-tarm-besvær.",
+      confusion: "Furuskjellpigg (Sarcodon squamosus) har mindre, mer tiltrykte skjell og vokser med furu. Besk lærpiggsopp (Hydnellum scabrosum) har finere skjell, en svært bitter smak og blågrønt kjøtt i stilkbasis. Fiolbrun piggsopp (Hydnellum joeides) er brun og kjøttet blir langsomt fiolett ved snitt. Konglesopp (Strobilomyces strobilaceus) kan se tovet ut ovenfra, men har porer. Blek piggsopp (Hydnum repandum) har en glatt kremfarget, gul eller oransje hatt og bleke pigger, uten grove mørke skjell.",
+      notes: "Gamle fruktlegemer av denne arten og dens slektninger inneholder blågrønne pigmenter som brukes til farging av ull. En polsk rødliste fra 2006 plasserer arten som sårbar (vulnerable). Den var strengt fredet i Polen frem til 2014."
     },
     sv: {
       description: "En ektomykorrhizabildande taggsvamp som bildar mykorrhiza med barrträd, särskilt gran. Den är vitt utbredd i de boreala och montana regionerna i Europa, Asien och Nordamerika. Nyare dna-studier visar att det klassiska artbegreppet omfattar två arter: fjällig taggsvamp (Sarcodon imbricatus) med gran och motaggsvamp (Sarcodon squamosus) med tall.",
@@ -25238,16 +25231,16 @@ export const CATALOG = [
       notes: "En rødlistevurdering fra 2025 placerer arten som ikke truet (Least Concern), lader fund og angivelser fra Afrika forblive usikre og afviser australske rapporter som værende en anden art. Nordamerikanske frugtlegemer, der bærer dette navn, tilhører sandsynligvis mere end én selvstændig art."
     },
     no: {
-      description: 'En ektomykorrhizadannende kremle i løv- og blandingsskog, særlig under bøk og eik, men også under gran og furu. Utbredt og vanlig over store deler av Europa.',
-      cap: 'Hatten er 5–15 cm bred. Den starter halvkuleformet og flater ut med et svakt nedsunket sentrum. Fargen er usedvanlig variabel (broket): en blanding av fiolett, purpur, grønnaktig, olivengrå og stålgrå, ofte med et mørkere midtparti. Hatthuden er fuktig og klebrig med fine radiære årer.',
-      hymenium: 'Skivene er hvite til kremhvite, tette og har en helt spesiell myk, fet eller elastisk konsistens: de kan strykes over med fingeren uten å knekke, i motsetning til de sprø skivene hos de fleste andre kremler.',
-      stipe: 'Stilken er 4–10 cm lang og 1,5–3,5 cm tykk, ren hvit (sjelden med et svakt lilla skjær), kraftig, sylindrisk og sprø med osteaktig bruddflate.',
-      flesh: 'Kjøttet er hvitt, fast og tykt, ofte med en fiolett tone like under hatthuden. Det forblir hvitt ved overskjæring og reagerer ikke (eller bare ytterst svakt grønt) med jernsulfat (FeSO4). Smaken er mild og nøtteaktig.',
-      sporePrint: 'Rent hvitt. Sporene er bredt ellipsoide med små vorter, 7–9 × 5,5–7 μm.',
-      habitat: 'Fruktlegemer viser seg fra juni til oktober. Den trives i skogbunn med humusholdig, næringsrik jord under bøk, eik og gran.',
-      uses: 'Den er en utsøkt matsopp (god matsopp). Den milde smaken og faste konsistensen gjør den til en av de beste matkremlene.',
-      confusion: 'Grønnkremle (Russula aeruginea) har sprø skiver og lyst kremfarget sporeavtrykk. Grønn fluesopp (Amanita phalloides) har ring på stilken, poseformet volva ved basis og ikke osteaktig sprøtt kjøtt.',
-      notes: 'En vurdering fra 2025 plasserer arten som livskraftig (Least Concern).'
+      description: "En ektomykorrhizadannende sopp i løv- og blandingsskog, oftest med bøk og eik og også med gran og edelgran. Den er vidt utbredt i Europa fra Middelhavet til det sentrale Fennoskandia, og rapporteres fra Nord-Afrika, Kanariøyene, tempererte deler av Asia samt deler av Nord- og Mellom-Amerika.",
+      cap: "Hatten er vanligvis 5–15 cm bred, med publiserte yttergrenser på cirka 4,5–18 cm. Den er halvkuleformet til å begynne med, deretter hvelvet, og senere flat til grunt nedsunket, noen ganger nesten traktformet. Overflaten er glatt til fint radielt året, klebrig og glinsende i fuktig vær. Hatthuden kan flås av fra et lite stykke ved kanten til omtrent halvveis inn mot midten. Fargene omfatter lilla, fiolett, vinrødt, grått, oliven og grønt, ofte flammet og mørkere mot midten, som kan blekne til okergult. Kanten forblir skarp og glatt lenge og blir eventuelt bare svakt furet med alderen. Natriumhydroksid farger hatthuden brunaktig og svovelsyre farger den grønngul.",
+      hymenium: "Skivene er hvite til blekt kremfargede, tette, fettaktige og myke/bøyelige: de bøyer seg og fjærer tilbake i stedet for å brekke, i motsetning til de sprø skivene hos de fleste andre arter i slekten. De er utrandede eller tilvokste til svakt nedløpende, noen ganger gaffeldelte, av ulik lengde og ganske smale, avsmalnende mot begge ender. Basidiene er klubbeformede og firesporede. Publiserte lengder varierer fra cirka 45–55 μm til cirka 66–73 μm, ved en bredde på cirka 9–11 μm. Cheilocystidene er spoleformede til sylindriske, cirka 30–55 × 4–6 μm, noen ganger med et lite vedheng. Pleurocystidene er cirka 27–85 × 3–6 μm. Cystidene blir svakt gråsvart i sulfobenzaldehyd og lett blå i sulfovanillin.",
+      stipe: "Stilken er hvit, noen ganger med en lilla tone eller svakt rosa anløpt. Den er sylindrisk og kraftig, ofte avsmalnende ved basis, og mangler ring. Europeiske fruktlegemer er cirka 5–12 cm lange og 1,5–3 cm tykke, og publiserte yttergrenser når cirka 2,5–13 cm i lengde og 1–5 cm i tykkelse. Stilken er kompakt til å begynne med og senere svampete eller med kamre.",
+      flesh: "Kjøttet er hvitt, fast og tykt, ofte fioletttonet like under hatthuden, og endrer ikke farge ved snitt. Lukten er ikke utpreget. Smaken er mild og nøtteaktig, og blir på det meste svakt skarp først etter langvarig tygging. Jernsalter (FeSO4) fremkaller ingen lakserosa reaksjon: kjøttet forblir uforandret eller blir langsomt blekt grågrønt til olivenfarget. Guajak farger kjøttet blågrønt, svakt i starten og kraftig etter cirka 50 sekunder.",
+      sporePrint: "Rent hvitt. Sporene er bredt ellipsoide, for det meste 7–9 × 5,5–7 μm, med et lengde-bredde-forhold på omkring 1,1–1,2. De bærer isolerte, butte amyloide vorter på cirka 0,5 μm i høyde, som bare sparsomt er forbundet med hverandre.",
+      habitat: "Fruktlegemer viser seg i Europa fra juni til begynnelsen av november, fra mai i Sentral-Europa og av og til fra midten av april. I Storbritannia og Irland opptrer de fra juli til november. De vokser enkeltvis eller i grupper på bakken i bøk-, eik- og edelløvskoger, og også sammen med gran og edelgran, inkludert i parker og hager. Jordsmonnet er friskt og løst, svakt surt til svakt basisk, og ikke utpreget nitrogenrikt. Fruktlegemene er uvanlige på hardpakket, vannmettet eller langvarig uttørket mark. I det østlige Nord-Amerika og fjellstatene viser de seg fra juli til oktober, og fra oktober til januar lenger vest.",
+      uses: "Det er en god matsopp med en mild, nøtteaktig smak. Kjøttet forblir mykere etter tilberedning enn hos mange andre spiselige kremler. Den stekes og brukes i omeletter, supper og gryteretter. Fruktlegemene angripes ofte av fluelarver.",
+      confusion: "Grønngrå kremle (Russula ionochlora) og duekremle (Russula grisea) er mindre, har sprø skivestruktur og gir ikke et rent hvitt sporeavtrykk. Duekremle har et kremfarget sporeavtrykk, en mer blågrå hatt med fiolette eller grønne nyanser samt kremfargede skiver. Gaffelkremle (Russula heterophylla) blir rosa i kjøttet med jernsalter og har mindre sporer. Rutekremle (Russula virescens) har en oppsprukket grønn hatt, kjøtt som blir rosaoransje med jernsalter og en hatthud som overveiende består av sfæriske celler. Gul trompetkremle / gulskivekremle (Russula claroflava) gråner i kjøttet med alderen, har sprø skiver og et mørkt kremfarget til blekt okerfarget sporeavtrykk. Sildkremle (Russula xerampelina) er like variabel i hattefargen og lukter skalldyr eller kokt krabbe. Rødstilket kremle (Russula olivacea) kan ha en spraglete hatt og har gule sporer. Grønnkremle (Russula aeruginea) er mer ensartet grønn, vokser ofte med bjørk, har et kremfarget sporeavtrykk og sprø skiver, og smaken er ofte skarp i skivene. Grønn fluesopp (Amanita phalloides) har ring og slire (volva), frie hvite skiver og blekgrønn til olivengrønn hatt, og er dødelig giftig.",
+      notes: "En rødlistevurdering fra 2025 plasserer arten som livskraftig (Least Concern), lar funn og data fra Afrika forbli usikre og avviser australske rapporter som en annen art. Nordamerikanske fruktlegemer som bærer dette navnet tilhører sannsynligvis flere selvstendige arter."
     },
     sv: {
       description: "En ektomykorrhizabildande svamp i löv- och blandskogar, oftast med bok och ek och även med gran och ädelgran. Den är vitt utbredd i Europa från Medelhavet till centrala Fennoskandien, och rapporteras från Nordafrika, Kanarieöarna, tempererade delar av Asien samt delar av Nord- och Centralamerika.",
@@ -26052,16 +26045,16 @@ export const CATALOG = [
       notes: "En rødlistevurdering fra 2019 angiver arten som ikke truet (Least Concern), og bestandstendensen i denne vurdering er stabil."
     },
     no: {
-      description: 'En vednedbrytende saprotrof skivesopp som vokser i store klynger på stubber og falne trestammer av løvtrær, særlig bjørk. Utbredt og vanlig i tempererte deler av Europa og Asia.',
-      cap: 'Hatten er 2–8 cm bred, hvelvet som ung og flater ut med en bred midtknekk. Den er sterkt hygrofan (skifter farge ved tørking): i fuktig tilstand er den kanelbrun til honninggul og gjennomskinnelig stripet i kanten, mens den tørker opp fra midten til en lys okergul farge.',
-      hymenium: 'Skivene er tette, tilvokste til svakt nedløpende. De er først blekgule til leirfargede, og blir kanelbrune til rustbrune etter hvert som sporene modnes.',
-      stipe: 'Stilken er 3–10 cm lang og 0,3–1 cm tykk, ofte bøyd i klyngene. Over den lille hinnenaktige ringen er stilken glatt og lys; under ringen er den mørkebrun og tett besatt med grove, utstående, mørkebrune skjell.',
-      flesh: 'Kjøttet er tynt, blekt okergult til vannaktig lyst i hatten, og mørkere og seigere i stilken. Lukten er behagelig krydret og smaken mild og nøtteaktig.',
-      sporePrint: 'Kanelbrunt til okerbrunt. Sporene er glatte, ovale med en tydelig spirepore, 6–7,5 × 4–5 μm.',
-      habitat: 'Fruktlegemer viser seg fra mai til november i tette klynger på råtnende løvtrestubber, spesielt bjørk.',
-      uses: 'Den er en god matsopp (god matsopp). Kun hattene brukes, da stilkene er for treaktige og seige. Den egner seg utmerket i supper og sauser.',
-      confusion: 'Flatklokkehatt (Galerina marginata) er dødelig giftig og kan vokse på samme trestubber. Den har hvitpudret eller sølvtrådet stilk under ringen uten grove, oppstående skjell, og mangler stubbeskjellsoppens behagelige krydderlukt.',
-      notes: 'En vurdering fra 2019 lister arten som livskraftig (Least Concern).'
+      description: "En vednedbrytende sopp som vokser i tuer på stubber og falne trestammer. Den er vanlig i Storbritannia og Irland samt over hele Europa, fra Middelhavet til Island og Skandinavia. Den er vidt utbredt i Asia, inkludert Kaukasus, Sibir og Japan, samt i Nord-Amerika, særlig i det montane vestlige området, og i Australia.",
+      cap: "Hatten er 1,5–10 cm bred, oftest cirka 2–8 cm. Den begynner som butt, halvkuleformet eller klokkeformet med innbøyd kant, og blir hvelvet eller nesten flat, ofte med en lav, bred pukkel. Overflaten er sterkt hygrofan og fettet eller klebrig i fuktig vær på grunn av en avdragbar hinne, og den fuktige kanten er tett gjennomskinnelig stripet. Fargen er rødaktig kanelbrun, matt kanelbrun eller oransjebrun, og tørker opp fra midten og utover til blekt okergul, honninggul eller lyst lærbrun, slik at det ofte blir stående et mørkere vannaktig belte rundt en lysere midt. Svært unge hatter kan bære fine hvite slørtråder eller bitte små skjell, men overflaten blir snart glatt.",
+      hymenium: "Skivene er tette med mange korte mellomskiver, og kan stå glisnere med alderen. De er bredt tilvokste eller utrandede, og ofte kort nedløpende. De er bleke, blekt okerfargede eller gulaktige til å begynne med, deretter matt kanelbrune til rustbrune. Et hvitaktig til lyst lærfarget partielt slør dekker dem som unge. Basidiene er 20–23 × 4–5 μm og firesporede, og pleurocystider mangler. Cheilocystidene er tynnveggede og hyaline, nesten sylindriske til spoleformet bukete eller smalt flaskeformede, noen ganger svakt hodeformede. Data varierer: de kan være tallrike og cirka 17–29 × 3,3–7 μm, spredte og cirka 20–40 × 2,5–7 μm, eller 35–50 × 7,5–12,5 μm. Klemmebøyler finnes. Kaulocystidene ligner disse og kan være sparsomme, særlig på eldre materiale.",
+      stipe: "Stilken er 3–10 cm lang og 0,2–1,2 cm tykk, ofte bøyd, og jevntykk eller avsmalnende mot basis. Over ringen er den blekt okergul og glatt, silkeaktig eller fint stripet. Under ringen bærer den bakoverbøyde brune skjell og mørkner mot en svartbrun basis. Ringen er hinnenaktig og hvitaktig, senere farget kanelbrun av sporene. Den kan bli opprevet eller slapp, eller bare bestå som en sone av tråder, og på gamle fruktlegemer kan skjellene slites bort. Basisen er snau eller kledd med hvitt mycel. Det indre er margfylt, deretter hult.",
+      flesh: "Hattekjøttet er tynt utenfor midtpartiet, blekt lærfarget til lyst okergult eller kremfarget, vannaktig og mykt, og det endrer ikke farge ved snitt. Stilkens kjøtt er blekt ved toppen og rustbrunt til mørkebrunt mot basis, og det er seigt. Lukten er svak. Den kan være behagelig krydret, soppaktig eller minne om nysaget trevirke, og den er verken melaktig eller av reddik. Smaken er mild til behagelig krydret, eller en anelse ubehagelig, og ikke bitter.",
+      sporePrint: "Sporeavtrykket er okerbrunt til kanelbrunt eller rustbrunt. Sporene er glatte i lysmikroskop, eggformede til bredt ellipsoide eller mandelformede, 5,5–8 × 3,5–5 μm, og av og til opptil 6 μm brede. Toppen er tvert avskåret på grunn av en spirepore. De er blekt lærfargede til brungylne i KOH og blekt gulbrune i Melzers reagens.",
+      habitat: "Fruktlegemene kan vise seg i hvilken som helst måned der været er mildt, og de er mest tallrike om sommeren og høsten. I Sentral-Europa er de registrert fra mars inn i desember, med hovedsesong fra mai til november. Den lever som saprotrof på stubber, stammer og begravd ved, i tette tuer og bare sjelden enkeltvis. Løvfellende trær er de vanlige vertene, særlig bjørk, bøk, or, lind og ekte kastanje. Den påtreffes sjeldnere på gran, selv om den er tallrik på barved i det nordvestlige Nord-Amerika. Tuer som later til å stå i løvførnen vokser på begravd ved, og den er vanlig på fuktig mark langs bekker og elver.",
+      uses: "Hattene stekes eller brukes til å sette smak på sauser og supper, og smaken er best etter varmebehandling. Stilkene er for seige og kastes. En dødelig giftig forvekslingsart vokser på samme trevirke, så en rekke soppbøker fraråder sanking med mindre de to artene kan skilles fra hverandre med fullstendig sikkerhet.",
+      confusion: "Flatklokkehatt (Galerina marginata) er dødelig giftig og vokser på samme slags ved, enkeltvis eller i mindre knipper. Stubbeskjellsopp tørker opp fra midten og utover, slik at kanten forblir et mørkere vannaktig belte, mens flatklokkehatt tørker fra kanten og innover. Stilken under ringen er skjellet her og er normalt silketrådet hos flatklokkehatt, selv om skjell kan forekomme hos sistnevnte, så karakteren er ikke helt pålitelig alene. Lukt og smak er her krydret eller soppaktig og mild. Flatklokkehatt lukter og smaker melaktig, eller av mel til reddik, og dens sporer er større og vortete. Kaliumhydroksid (KOH) på hatten gir ingen fargeforandring her, men farger hatten hos flatklokkehatt rød. De to kan noen ganger bare skilles sikkert under mikroskop. Besk svovelsopp (Hypholoma fasciculare) og nærstående tuevoksende arter av Hypholoma har et gråfiolett eller gråsvart sporeavtrykk, glatt stilk, lite eller ingen hygrofan fargeforandring og mangler ring. Røyksvovelsopp (Hypholoma capnoides) har en glatt stilk og skivene dens blir gråaktig brune til purpurbrune. Arter av skjellsopper (Pholiota) i samme miljø har ofte en mer skjellet hatt. Enkelte er klebrige eller slimete, og ringen, når den finnes, er trådet og forsvinner snart. Mørk sprøsopp (Psathyrella piluliformis) mangler ring og dens sporeavtrykk er nesten svartbrunt. Vintersopp (Flammulina velutipes) har en mørkere fløyelslodden stilk og hvitt sporeavtrykk. Honningsopper (Armillaria), deriblant Armillaria nabsnona på or, har hvitt sporeavtrykk. Vårskjellsopp (Kuehneromyces vernalis) har glattere og fuktigere hatt, bærer frukt om våren og forsommeren samt har lengre sporer på 6–8,5 × 4–5 μm. Kuehneromyces lignicola har smalere sporer uten spirepore og vokser på barved.",
+      notes: "En rødlistevurdering fra 2019 angir arten som livskraftig (Least Concern), og bestandstrenden i denne vurderingen er stabil."
     },
     sv: {
       description: "En vednedbrytande svamp som växer i tuvor på stubbar och fallna stammar. Den är allmän i Storbritannien och Irland samt över hela Europa, från Medelhavet till Island och Skandinavien. Den är vitt utbredd i Asien, inklusive Kaukasus, Sibirien och Japan, samt i Nordamerika, särskilt i det montanta västra området, och i Australien.",
@@ -26868,16 +26861,15 @@ export const CATALOG = [
       confusion: "Foranderlig skælhat (Kuehneromyces mutabilis) har skæl på stokken op til ringen, en krydret eller aromatisk lugt, glatte sporer og en hat, der ofte er lysere i midten end ved randen. Forårs-skælhat (Kuehneromyces vernalis) er sjældnere og nærmere beslægtet, og dens sporer er glatte og har en spirepore. Almindelig fløjlsfod (Flammulina velutipes) har hvide til blegt gule lameller, et hvidt sporeaftryk, glatte elliptiske sporer på 6,5–9 × 2,5–4 μm, ingen ring og en stok, der bliver mørk og fløjlsagtig. Gran-svovlhat (Hypholoma capnoides) har lameller, der først er hvidlige og derefter gråblå. Ægte honningsvamp (Armillaria mellea) har et hvidt sporeaftryk. Arter af skælhat (Pholiota) har ofte en skællet hat, et mørkebrunt sporeaftryk og glatte sporer."
     },
     no: {
-      description: 'En vednedbrytende, dødelig giftig skivesopp som vokser enkeltvis eller i små grupper på stubber, falne stammer og flis av bartrær og løvtrær. Utbredt over hele den nordlige halvkule.',
-      cap: 'Hatten er 1–5 cm bred, hvelvet til flat, ofte med en liten pukkel. Den er hygrofan: i vått vær er den okerbrun til rødbrun og gjennomskinnelig stripet i kanten, mens den tørker inn til en blekere gulbrun eller lærgul farge. Overflaten er glatt.',
-      hymenium: 'Skivene er tette, tilvokste til svakt nedløpende, lyst okerbrune som unge og mørkner til rustbrune.',
-      stipe: 'Stilken er 2–8 cm lang og 0,2–0,8 cm tykk, brunaktig, ofte med en liten, tynn, flyktig ring. Under ringen er stilken kledd med hvitaktige, langsgående silketråder eller fibre (sølvglinsende), men mangler helt grove utstående skjell.',
-      flesh: 'Kjøttet er tynt, vannaktig gulbrunt i hatten og mørkere brunt i stilkbasis. Lukten og smaken er melet.',
-      sporePrint: 'Rustbrunt. Sporene er vortete, mandelformede, 8,5–11 × 5–6,5 μm.',
-      habitat: 'Fruktlegemer viser seg fra august til november. Den vokser på morken ved av både bartrær (særlig gran) og løvtrær.',
-      uses: 'Dødelig giftig. Soppen inneholder de samme amatoksinene som grønn og hvit fluesopp. Inntak fører til alvorlig leversvikt og død. Giften ødelegges verken av koking, steking eller tørking.',
-      confusion: 'Stubbeskjellsopp (Kuehneromyces mutabilis) har en stilk som er grovt skjellet under ringen og en behagelig krydret lukt uten melpreg. Skjermsopper og svovelsopper har andre skivefarger.',
-      notes: 'Tidligere oppdelinger i arter som Galerina autumnalis og Galerina venenata er nå synonymisert med Galerina marginata.'
+      description: "En vednedbrytende sopp som danner fruktlegemer enkeltvis eller i små knipper på stubber, falne stammer og begravd ved. Den er vidt utbredt på den nordlige halvkule, gjennom Europa, Asia og Nord-Amerika, og den har også blitt registrert i Australia og Antarktis. I Storbritannia og Irland er den uvanlig.",
+      cap: "Hatten er vanligvis 1–7 cm bred, av og til opptil 8 cm, og en snevrere oppfatning angir 0,5–4 cm. Den er halvkuleformet eller klokkeformet til å begynne med, deretter hvelvet til nesten flat, noen ganger med en lav pukkel. Kanten er innrullet som ung og kan være gjennomskinnelig stripet i fuktig vær. Overflaten er fuktig og en smule klebrig, deretter glinsende eller matt. Den er hygrofan, rødbrun til oransjebrun i midten og honninggul eller okergul mot kanten, og blekner til matt lærfarget etter hvert som den tørker. Et blekt slør kan henge ved kanten på en svært ung hatt.",
+      hymenium: "Skivene er tette til svært tette og bredt tilvokste til kort nedløpende, noen ganger med en nedløpende tann. De er blekt kremfargede eller gulaktige til å begynne med, deretter okergule til rustbrune med en blekere egg. Et hvitaktig partielt slør dekker dem som unge, og korte mellomskiver forekommer. Basidiene er for det meste firesporede, sjeldnere tosporede, cirka 21–30 × 5–8,4 μm. Cheilocystider og pleurocystider er tynnveggede og flaskeformede til spoleformede, cirka 34–75 × 5–16 μm, med en hals og en butt eller svakt utvidet spiss. Klemmebøyler finnes.",
+      stipe: "Stilken er 2–8 cm lang og 0,2–0,9 cm tykk, jevntykk eller en anelse tykkere nedentil, ofte bøyd og sprø. Den er kompakt til å begynne med og blir hul fra basis. Over en tynn, blek ring er den hvitaktig og fint pudret. Under ringen er den brun til rødbrun med bleke fibre, som kan etterlate flekker eller belter og deretter forsvinne. Ringen sitter på den øvre halvdelen, blir rustfarget av sporene og kan forsvinne slik at bare en trådsone gjenstår. Hvitt mycel er ofte til stede ved basis.",
+      flesh: "Kjøttet er tynt og gulaktig, smussgult eller vannaktig brunt. Lukten og smaken er melaktig, noen ganger bare svakt.",
+      sporePrint: "Rustbrunt til snusbrunt. Sporene er bredt ellipsoide til mandelformede og fint vortete, for det meste 7–11 × 4,5–6 μm, av og til opptil 11,5 μm lange og 7 μm brede. En glatt plage finnes, og den ytre veggen løsner ofte (kalyptrat).",
+      habitat: "I Europa opptrer fruktlegemene fra mai inn i desember, oftest om sommeren og høsten, og Sentral-Europa har dessuten en tidlig vårfruktifisering. I det tempererte Nord-Amerika viser de seg gjennom hele året, oftest om våren og høsten. Den vokser på morkent trevirke av bartrær og løvfellende trær, på stubber, falne stammer, greiner, sagflis, avskallet bark og begravd ved, og den forårsaker en trådet hvitråte. På trevirke i elveleier og våtmarker kan den være blant de vanligste soppene. Grupper og små tuer er det vanlige, og enkeltstående fruktlegemer forekommer.",
+      uses: "Den inneholder amatoksiner, deriblant α-amanitin og γ-amanitin, samme klasse av dødelige giftstoffer som hos grønn fluesopp (Amanita phalloides). Symptomene begynner mange timer etter et måltid og noen ganger først følgende dag: voldsomme magesmerter, oppkast og diaré. En tilsynelatende bedring kan følge, og deretter leverskader, blødninger i mage-tarm-kanalen, nyresvikt, koma eller død, ofte innen cirka en uke. En alvorlig forgiftning kan etterlate varige lever- og nyreskader. Mellom 1978 og 1995 ble det rapportert ti slike forgiftningstilfeller i Europa og Nord-Amerika, hvorav to var dødelige.",
+      confusion: "Stubbeskjellsopp (Kuehneromyces mutabilis) har opprette skjell på stilken opp til ringen, en krydret eller aromatisk lukt, glatte sporer og en hatt som ofte er lysere i midten enn ved kanten. Vårskjellsopp (Kuehneromyces vernalis) er mer sjelden og nært beslektet, og dens sporer er glatte og har en spirepore. Vintersopp (Flammulina velutipes) har hvite til blekgule skiver, hvitt sporeavtrykk, glatte elliptiske sporer på 6,5–9 × 2,5–4 μm, mangler ring og har en stilk som blir mørk og fløyelslodden. Røyksvovelsopp (Hypholoma capnoides) har skiver som først er hvitaktige og deretter gråblå til purpurgrå. Ekte honningsopp (Armillaria mellea) har hvitt sporeavtrykk. Arter av skjellsopper (Pholiota) har ofte skjellet hatt, mørkebrunt sporeavtrykk og glatte sporer."
     },
     sv: {
       description: "En vednedbrytande svamp som sätter fruktkroppar enstaka eller i små tuvor på stubbar, fallna stammar och begravd ved. Den är vitt utbredd på norra halvklotet, genom Europa, Asien och Nordamerika, och den har även registrerats i Australien och Antarktis. I Storbritannien och Irland är den ovanlig.",
@@ -27674,16 +27666,15 @@ export const CATALOG = [
       confusion: "Bredfliget blomkålssvamp (Sparassis brevipes) har bredere, mindre krusede, spatelformede fligspidser, ofte med en bleg fortykket kant, og den mangler spænder. Dens lugt er sæbeagtig. Den vokser på ædelgran, og sjældnere på bøg, gran eller lærk, og den er også rapporteret med fyr. Sparassis spathulata har mere lige, oprette flige og vokser med løvtræer i det østlige Nordamerika, selvom den også rapporteres med fyr. Sparassis radicata holdes adskilt i det vestlige Nordamerika, hvor den har en lang rodslående basis. Løvporesvamp (Grifola frondosa) vokser ved basis af eg og har gråbrune vifteformede segmenter med porer på undersiden. Arter af Ramaria har oprette grene, der ikke er affladede og krusede i spidserne. Kandelabersvamp (Artomyces pyxidatus) og Artomyces microsporus vokser på fast dødt ved, og deres oprette grene ender i små kroner."
     },
     no: {
-      description: 'En parasittisk og saprotrof sopp som danner store, kuleformede fruktlegemer ved basis av levende eller døde furutrær. Utbredt i eldre barskog i Europa og Nord-Amerika.',
-      cap: 'Fruktlegemet er 10–30 cm bredt (av og til opptil 40–50 cm) og veier ofte flere kilo. Det består av en tett masse av flate, krøllete, bølgede og flikede forgreininger som minner slående om et blomkålhode eller en badesvamp. Fargen er først kremhvit til lyst gulaktig, og blir okerbrun i kantene med alderen.',
-      hymenium: 'Det sporeproduserende laget dekker overflaten av de krøllete forgreiningene på begge sider.',
-      stipe: 'Stilken danner en tykk, rotaktig, knollformet kjerne som er dypt forankret i treets røtter.',
-      flesh: 'Kjøttet er hvitt, fast og elastisk som ungt, og blir seigere med alderen. Lukten er behagelig aromatisk og nøtteaktig, og smaken er mild.',
-      sporePrint: 'Kremgult til blekt oker. Sporene er glatte, bredt ellipsoide, 5–7 × 4–5 μm.',
-      habitat: 'Fruktlegemer viser seg fra august til november. Den vokser ved foten av gamle furustammer eller på furustubber, og forårsaker brun kjernevedråte.',
-      uses: 'Den er en utsøkt matsopp (god matsopp). Unge, faste eksemplarer må renses grundig for barnåler og jord før de stekes i smør, kokes i suppe eller tørkes.',
-      confusion: 'Fingersopper (Ramaria) har opprette, korallformede grener som ikke er flate og bladaktig krøllete. Sparassis nemecii vokser under edelgran og har hvitere, grovere fliker.',
-      notes: 'Fruktlegemet kan komme opp igjen på samme furustubbe år etter år.'
+      description: "En brunråtesopp i barskoger, parasittisk på levende røtter og saprotrof på stubber, oftest sammen med furu. Den er vidt utbredt fra Middelhavet gjennom Sentral-Europa til det nordlige Skottland og Skandinavias sørlige kyster, og den rapporteres fra Nord-Afrika. Nordamerikanske funn under dette navnet samt visse asiatiske funn tilhører andre arter i samme kompleks.",
+      cap: "Fruktlegemet er vanligvis 10–40 cm bredt og cirka 10–25 cm høyt. Mindre eksemplarer er cirka 5 cm brede og 5 cm høye, og store kan veie mange kilo, opptil cirka 6 kg. Den er uregelmessig avrundet, en tett masse av flattrykte, bølgete, krusete fliker med tannete kanter, sammenvokste på visse steder og med hulrom imellom seg. Flikene er hvitaktige eller kremfargede til å begynne med, deretter gulaktige, og brunaktige med alderen, noen ganger med en mørkere kant når de tørker. Unge fliker er seige og elastiske og blir senere mykere. Et tørt fruktlegeme er sprøtt.",
+      hymenium: "Den fertile overflaten er glatt og hvitaktig til kremfarget, og mørkner etter hvert som sporene modnes. Den kler begge sider av flikene, selv om enkelte beskrivelser finner den mest utviklet på undersiden av de flattrykte spissene.",
+      stipe: "En kort, tykk, kjøttfull basis er ofte begravd i jorden eller i rotveden. Den er sylindrisk og rotlignende, hvitaktig til kremfarget, og svartaktig mot festepunktet. I et fullvoksent fruktlegeme kan den være skjult.",
+      flesh: "Kjøttet er hvitt, elastisk og voksaktig, og hyfesystemet er monomittisk med klemmebøyler. Lukten er krydret og svakt søtlig, noen ganger en anelse anisaktig, og svakt kvaelignende i rå tilstand. Smaken er nøtteaktig, og den kan være mildt skarp.",
+      sporePrint: "Hvitt, råhvitt eller kremfarget, og også beskrevet som blekt gulaktig til blekt okerfarget. Gamle fliker kan se ut som om de var pudret med oransjeoker. Sporene er glatte, ellipsoide til bredt ellipsoide eller eggformede, cirka 4,5–7,5 × 3–5,5 μm, og inneholder ofte en oljedråpe.",
+      habitat: "Fruktlegemene viser seg fra juli til desember i Sentral-Europa, med en topp i september og oktober, fra juli til oktober i Storbritannia og Irland samt inn i november ifølge enkelte kilder, fra august til oktober i Slovakia og fra juli til november i tsjekkiske kilder. De vokser ved basis av levende bartrær eller på stubber, særlig furu (Pinus sylvestris), og også på andre furuarter, gran, lerk og av og til douglasgran. Soppen trenger inn gjennom sår i røttene eller stambasen og forårsaker en brunråte i kjerneveden. Det nedbrutte trevirket lukter terpentin. Den kan leve videre i stubben over flere år og smitte nye trær derfra. Den forekommer på mange jordtyper som verken er svært tørre eller svært våte. I Slovakia påtreffes den oftest i furuskoger på sandholdig mark, deriblant i Záhorie.",
+      uses: "Det er en utmerket matsopp som ung og fersk. Når flikene blir brune og fruktlegemet begynner å forfalle, blir den tungt fordøyelig og bør få stå i fred. Kjøttet er en anelse bruskaktig i rå tilstand og forblir fast under tilberedning. Den brukes i supper, deriblant magesuppe (falsk dršťková polévka), stekes og tørkes til sauser. Barnåler, jord og larver fester seg lett i foldene. En kort forvelling, cirka 2–3 minutter ifølge en kilde, gjør massen elastisk og lettere å skylle under rennende vann, og den kan også skjæres i skiver på et par centimeters tykkelse og legges i bløt. Den tilberedes langsomt. Den holder seg i en uke eller mer i kjøleskap, og kan tørkes eller hermetiseres i olje eller kaldt vann.",
+      confusion: "Bredfliket blomkålsopp (Sparassis brevipes) har bredere, mindre krusete, spatelformede flikspisser, ofte med en blek fortykket kant, og den mangler klemmebøyler. Lukten dens er såpeaktig. Den vokser på edelgran og mer sjelden på bøk, gran eller lerk, og rapporteres også med furu. Sparassis spathulata har rettere, mer opprette fliker og vokser med løvtrær i det østlige Nord-Amerika, selv om den også rapporteres med furu. Sparassis radicata holdes adskilt i det vestlige Nord-Amerika, der den har en lang rotlignende basis. Skjeggkjuke / korallkjuke (Grifola frondosa) vokser ved basis av eik og har gråbrune tunge- eller vifteformede hyller med porer på undersiden. Arter av korallsopper (Ramaria) har opprette greiner som ikke er flattrykte og krusete i spissene. Begerfingersopp (Artomyces pyxidatus) og Artomyces microsporus vokser på fast dødt trevirke, og deres opprette greiner slutter i små kroner."
     },
     sv: {
       description: "En brunrötesvamp i barrskogar, parasitisk på levande rötter och saprotrof på stubbar, oftast med tall. Den är vitt utbredd från Medelhavet genom Centraleuropa till norra Skottland och Skandinaviens södra kuster, och den rapporteras från Nordafrika. Nordamerikanska fynd under detta namn samt vissa asiatiska fynd tillhör andra arter i samma komplex.",
@@ -28498,16 +28489,16 @@ export const CATALOG = [
       notes: "Flere lignende arter blev senere udskilt fra frugtlegemer, der tidligere blev henført til dette navn."
     },
     no: {
-      description: 'En ektomykorrhizadannende skivesopp som er meget vanlig i løv- og barskog, parker og hager over hele Europa og Nord-Amerika.',
-      cap: 'Hatten er 4–15 cm bred (av og til opptil 20 cm). Den starter hvelvet med en dypt og tett innrullet, filtet kant, og flater ut med et traktformet nedsunket sentrum. Fargen er okerbrun, olivenbrun til lærbrun. Hatthuden er filtaktig som ung og klebrig i fuktig vær, og flekkes mørkebrun ved berøring.',
-      hymenium: 'Skivene er tette, gaffeldelte og løper langt nedover stilken (nedløpende). De er først gulaktige til leirfargede og blir rustbrune, og flekkes umiddelbart mørkebrune ved trykk. De kan lett løsnes fra hattekjøttet som et sammenhengende lag.',
-      stipe: 'Stilken er 3–8 cm lang og 1–2,5 cm tykk, ofte avsmalnende mot basis. Den er farget som hatten eller litt lysere, og misfarges brunt ved berøring.',
-      flesh: 'Kjøttet er tykt, mykt, blekgult til okerbrunt, og mørkner raskt til rødbrunt ved overskjæring. Lukten er svakt syrlig og smaken mild til syrlig.',
-      sporePrint: 'Rustbrunt. Sporene er glatte, ellipsoide, 7,5–10 × 5–6 μm.',
-      habitat: 'Fruktlegemer viser seg fra juli til november under bjørk, furu, gran og eik på fuktig, sur jord.',
-      uses: 'Giftig. Pluggsopp ble tidligere spist etter avkoking, men er nå kjent for å forårsake det potensielt dødelige Paxillus-syndromet. Gjentatt inntak kan utløse en autoimmun hemolytisk anemi der kroppens immunforsvar plutselig angriper og ødelegger egne røde blodlegemer.',
-      confusion: 'Fløyelspluggsopp (Tapinella atrotomentosa) har en tykk, kullsvarte eller mørkebrun fløyelslodden stilk og vokser direkte på bartrestubber. Vifteriske (Lactarius) skiller ut melkesaft.',
-      notes: 'Paxillus involutus regnes nå som et artskompleks av flere kryptiske arter.'
+      description: "En ektomykorrhizadannende og saprotrof sopp i løv- og barskoger, parker og hager, ofte i nærheten av bjørk. Den er vidt utbredt og svært vanlig i tempererte deler av den nordlige halvkule, inkludert Europa og Nord-Amerika, og har blitt introdusert til den sørlige halvkule. Den ble tidligere regnet som spiselig, men er i virkeligheten farlig giftig.",
+      cap: "Hatten er vanligvis 4–12 cm bred, med publiserte yttergrenser på cirka 2–15 cm og ifølge en kilde opptil cirka 20 cm. Den er halvkuleformet eller hvelvet til å begynne med, deretter flat og senere nedsenket til traktformet. Kanten forblir sterkt innrullet over lang tid og er dunete eller filtet, og kan bli furet med alderen. Overflaten er fint filtet som ung, senere glattere, og noe klebrig i fuktig vær. Fargen varierer fra okerbrun og gulbrun til olivenbrun eller rustbrun, og trykk og elde gjør den mørkere.",
+      hymenium: "Skivene er tette, smale og dypt nedløpende. De forgrener seg gaffelaktig og nær stilken forener de seg til et nettverk eller blir porelignende. De kan trekkes av fra kjøttet som et sammenhengende lag. De er blekt gulaktige til blekt okerfargede i starten, senere rustbrune, og trykk gjør dem brune til mørkebrune. Cheilocystider og pleurocystider er slanke og trådformede, cirka 40–65 × 8–10,5 μm.",
+      stipe: "Stilken matcher hatten eller er noe lysere, gulaktig til brun, og mørkner der den berøres. Den er sylindrisk, ofte bøyd og avsmalnende mot basis, og mangler ring. Den er vanligvis 3–8 cm lang og cirka 1–2 cm tykk. Publiserte mål oppgir dessuten cirka 3–6 × 1–3 cm. Den er kompakt.",
+      flesh: "Kjøttet er blekt gult til gulaktig, fast og saftig, og bruner ved snitt. Varmebehandling gjør det svart, og det avgir rikelig med væske. Lukten er svak og ikke utpreget, noen ganger svakt soppaktig. Smaken er syrlig. Den brune misfargingen forårsakes av fenolen involutin.",
+      sporePrint: "Siennabrunt, okerbrunt eller rustbrunt. Sporene er ellipsoide og glatte. Publiserte mål er cirka 7,5–9 × 5–6 μm og cirka 6,5–8,5 × 4,5–5 μm.",
+      habitat: "Fruktlegemer viser seg fra juni til november i Sentral-Europa og fra juli til oktober i Storbritannia og Irland. Andre steder opptrer de om sensommeren og høsten. I kyststrøk i California opptrer fruktlegemer knyttet til eik og furu fra senhøsten inn i vinteren, og en form ved bjørkeplantinger viser seg om høsten. De vokser enkeltvis eller i grupper på bakken i løv- og barskoger, parker, hager, plener og langs stier, ofte under bjørk og også sammen med eik, bøk, furu, gran og andre trær. De foretrekker fuktig mark og jordsmonn som er surt eller i det minste kalkfattig. De påtreffes av og til på treholdig strø rundt stubber.",
+      uses: "Den ble tidligere spist i stort omfang i Sentral- og Øst-Europa, ofte syltet, saltet eller tilberedt i gryteretter, og ble regnet som av lav kvalitet. Den saltes og legges fremdeles ned i deler av Øst-Europa, særlig i Polen. Rå fruktlegemer forårsaker alvorlige mage-tarm-plager. Varmebehandling fjerner ikke et antigen som etter gjentatte måltider kan få immunsystemet til å danne antistoffer og ødelegge de røde blodlegemene (autoimmun hemolytisk anemi). Reaksjonen kan føre til akutt nyresvikt, sjokk og åndedrettsstans, selv hos personer som har spist soppen i årevis med bare milde mageplager. Den tyske mykologen Julius Schäffer døde i 1944, sytten dager etter et måltid av denne soppen.",
+      confusion: "Traktformede sopper i slekten traktsopper (Clitocybe) har hvite skiver og et hvitt sporeavtrykk. Svartriske (Lactarius turpis) er mørkere olivenfarget og skiller ut hvit melkesaft, i likhet med andre risker. Orepluggsopp (Paxillus rubicundulus, også kalt Paxillus filamentosus) vokser utelukkende med or. Den er mindre og blekere med en tynn hatt som har flate skjell mot kanten, kjøtt som knapt bruner, dypt gulokerfargede skiver som ikke endrer farge og mindre sporer på cirka 5,5–8,5 × 4–5 μm. Stor pluggsopp (Paxillus obscurisporus) har hatter opptil cirka 40 cm, en kant som har en tendens til å rulle seg ut og flate ut, og en avsmalnende stilk med kremfarget mycel ved basis. Parkpluggsopp (Paxillus validus) vokser under løvtrær i parker, har en stilk av mer eller mindre jevn tykkelse og hatter opptil cirka 20 cm; krystaller i dens rhizomorfer når cirka 2,5 μm, mens krystaller i andre Paxillus-rhizomorfer forblir under cirka 0,5 μm. Kobberpluggsopp (Paxillus cuprinus) blir kobberbrun med alderen, har noe mandelformede sporer med innsnørt spiss og vokser med bjørk på åpne steder. Vårpluggsopp (Paxillus vernalis) har et mørkere sporeavtrykk og en tykkere stilk på cirka 2–4 cm og vokser under osp og bjørk. Fløyelspluggsopp (Tapinella atrotomentosa) vokser på eller ved bartrestubber og har en kort, tykk stilk dekket av mørkebrunt fløyelsludd. Kjellermusling (Tapinella panuoides) mangler stilk eller har bare en kort sidestilt stilk og vokser på barved.",
+      notes: "Flere lignende arter ble senere skilt ut fra fruktlegemer som tidligere ble ført til dette navnet."
     },
     sv: {
       description: "En ektomykorrhizabildande och saprotrof svamp i löv- och barrskogar, parker och trädgårdar, ofta i närheten av björk. Den är vitt utbredd och mycket allmän i tempererade delar av norra hemisfären, inklusive Europa och Nordamerika, och har introducerats till södra hemisfären. Den ansågs tidigare ätlig men är i själva verket farligt giftig.",
@@ -29338,16 +29329,16 @@ export const CATALOG = [
       notes: "En undersøgelse fra 2015 finder, at denne art ikke er nærtbeslægtet med Lepista densifolia."
     },
     no: {
-      description: 'En kraftig, saprotrof skivesopp i løv- og barskog, hager og komposthauger. Utbredt og vanlig over store deler av Europa og Nord-Amerika om høsten.',
-      cap: 'Hatten er 5–15 cm bred, hvelvet med innrullet kant som ung, og flater ut senere, ofte med en bred, ujevn pukkel. Fargen er iøynefallende fiolett eller blåfiolett som ung, og blekner til rødbrun eller lærfarget fra midten med alderen mens kanten beholder fiolett-toner.',
-      hymenium: 'Skivene er tette, utrandede til nesten frie, levende fiolette til syrinfargede, og falmer til brungult hos eldre eksemplarer.',
-      stipe: 'Stilken er 4–10 cm lang og 1–3 cm tykk, kraftig, sylindrisk med en oppsvulmet basis dekket av et fiolett filtbelegg. Overflaten er langsfibret og lyst fiolett.',
-      flesh: 'Kjøttet er tykt, mykt, blekt fiolett til lillaaktig i hatten og forblir uforandret ved snitt. Lukten er karakteristisk aromatisk og parfymert, og smaken mild og behagelig.',
-      sporePrint: 'Blekt rosagrått til lyst kremfarget. Sporene er fint vortete, ellipsoide, 6–8 × 4–5 μm.',
-      habitat: 'Fruktlegemer viser seg fra september til november (og inn i desember i milde vintre). Den vokser i tykt løvdekke, nåledropp og hagekompost, ofte i store hekseringer.',
-      uses: 'Den er en god matsopp (spiselig). Den må varmebehandles grundig da rå sopp inneholder hemolytiske stoffer. Den har en spesiell, markant aroma som mange setter stor pris på i stuede retter.',
-      confusion: 'Giftige fiolette slørsopper (Cortinarius), som kanel- og giftslørsopper, har rustbrune skiver som eldre, trådete slørrester (kortina) på stilken og brunt sporeavtrykk.',
-      notes: 'Det har vært vist at soppen inneholder stoffer med antibakteriell virkning.'
+      description: "En kjøttfull saprotrof sopp i løvførne i skoger, parker og hager, som ofte vokser i hekseringer eller rader. Den er hjemmehørende i det tempererte Europa og Nord-Amerika, rapportert fra Asia, Nord-Afrika og Sør-Amerika, og introdusert i Australia og New Zealand, der den blir stadig vanligere.",
+      cap: "Hatten er 2,5–15 cm bred, og når av og til opptil 20 cm. Den er hvelvet med en lenge innrullet kant, og senere utbredt eller svakt nedsunket, ofte bølget, hvorved kanten kan bøye seg oppover. Overflaten er glatt og noe hygrofan, klebrig eller fuktig i vått vær, og den unge kanten kan se rimfrostaktig ut. Unge hatter er fiolette, lilla eller purpurblå. Fargen blekner fra midten mot lærbrunt, oker eller brunt, og enkelte hatter er brune eller beige fra starten. Nordamerikanske fruktlegemer er ofte mer matt lysebrune, mens skivene og stilken vanligvis beholder noe purpurfarge. Hatthuden er en cutis eller en ixocutis av hyfer på 2–8 μm i bredde med klemmebøyler.",
+      hymenium: "Skivene er tette og 6–10 mm brede. De er utrandede til tilvokste og ofte festet med en liten tann. De er fiolette eller lilla til å begynne med, deretter beige, kjøttfarget brune eller brune, og de løsner lett fra hatten. Basidiene er klubbeformede og firesporede, 15–26 × 4–8 μm. Cystider mangler.",
+      stipe: "Stilken er 2–11 cm høy og 1–3 cm tykk. Den er kompakt og fast, sylindrisk, og ofte klubbeformet eller knollformet ved basis. Overflaten er trevlet. Den er fiolett eller lilla til å begynne med, deretter gråblå, og senere nesten hvitaktig, noen ganger rustbrun nedentil. Den øvre delen er ofte hvitaktig og melet, og små skjell kan sitte i et sikksakkmønster. Det finnes ingen ring. Hvitt til lilla mycel binder sammen førnen slik at klumper av substratet sitter igjen på basis.",
+      flesh: "Kjøttet er tykt, lilla til hvitaktig, fast som ungt og mykere med alderen. Det endrer ikke farge ved snitt. Lukten er søtlig og aromatisk, til tider svakt av anis eller frukt, og noen ganger parfyrmert; den har dessuten blitt sammenlignet med frossen appelsinjuice. Smaken er mild, behagelig og soppaktig eller noe nøtteaktig. Kaliumhydroksid endrer ikke fargen på hatten eller kjøttet.",
+      sporePrint: "Blekt rosaaktig lærfarget til kjøttfarget rosa. Et ferskt sporeavtrykk kan se hvitt ut med en okerrosa tone, og det blir mer rosa eller mer okerfarget etter hvert som det tørker. Sporene er ellipsoide, fint vortete til svært fint piggete, inamyloide og cyanofile, 5,5–9 × 3–5,5 μm, med et lengde-bredde-forhold på cirka 1,2–1,9.",
+      habitat: "Den primære fruktifiseringsperioden er fra august til desember. I Storbritannia strekker den seg fra august inn i desember. I Slovakia opptrer fruktlegemene fra slutten av september til november og fortsetter ofte inn i frostværet i desember. I Sibir er perioden august til midten av oktober. Vårfruktlegemer forekommer i mai, og under milde vintre kan fruktifiseringen fortsette. Den vokser på humus og løvførne i løv- og barskoger, hekker, parker, hager, alléer og frukthager, på kompost, i gressmarker og sanddynesenkninger samt blant hageavfall i byer, ofte i hekseringer eller rader, inkludert hekseringer under gran og furu. Den forekommer fra lavlandet opp i fjellet. I det introduserte utbredelsesområdet vokser den ved eukalyptus og tornblad, og fruktlegemene avviker noe fra dem i Europa.",
+      uses: "Det er en utmerket matsopp forutsatt at den varmebehandles grundig, og den spises ikke rå. Det rå kjøttet inneholder et varmefølsomt hemolysin som bryter ned røde blodlegemer og ødelegges ved grundig oppvarming. En minoritet av mennesker opplever likevel fordøyelsesbesvær etter inntak av fruktlegemer som er kokt eller stekt godt. Unge hatter foretrekkes. De stekes, tilberedes i smør eller fløtesaus, eller brukes i omeletter, pasta, ris, osteretter, til lyst kjøtt og i gryter, blant annet sammen med purre eller løk. De kan også tørkes, eller forvelles og legges ned i olivenolje eller hvit eddik. Ville fruktlegemer tar lettere opp tungmetaller enn mange andre sopper og bør spises med måte. Soppen selges i Frankrike, Spania og Portugal og mer allment på europeiske markeder. Dyrkinger i Storbritannia, Nederland og Frankrike oppgis å smake mindre godt enn de ville. Finhakket og kokt i en jerngryte farger den stoff eller papir gressgrønt. Den rapporteres å hemme bakterier og gjær samt senke blodsukkeret hos diabetikere. Fruktlegemer som har frosset til i naturen i fersk tilstand, kan tilberedes så snart de har tint.",
+      confusion: "Slørsopper (Cortinarius) som deler de fiolette fargene, deriblant fiolett slørsopp (Cortinarius violaceus), lilla slørsopp (Cortinarius alboviolaceus), bukkeduskeslørsopp / geitslørsopp (Cortinarius traganus) og den mer sjeldne stinkslørsoppen (Cortinarius camphoratus), skilles ved sine brune til rustbrune sporer som farger skivene og trådene fra kortinaen brune; dessuten lukter geitslørsopp og stinkslørsopp ille og er uspiselige eller giftige. Mørkblå ridderhatt (Lepista sordida) er mindre og tynnere, mer hygrofan, med en klokkeformet hatt på 2–7 cm i bredde og noe mindre sporer. Lillastilket ridderhatt (Lepista personata) har en blekgrå til lærbrun hatt og fiolett farge begrenset til stilken, og vokser på åpne beitemarker og gressmarker. Blek blå ridderhatt (Lepista glaucocana) er blekere, mer askegrå til lilagrå og har mindre sporer. Fiolmusserong (Calocybe ionides) er mindre, med en hatt på 2–5 cm, rent hvitt sporeavtrykk og en kraftig mellukt. Lilla silketrevlesopp (Inocybe geophylla var. lilacina) har en liten spiss hatt, jordaktig lukt og kanelbrunt sporeavtrykk, og er giftig. Ametystsopp (Laccaria amethystina) er mindre og spedere med tykke, svært glisne skiver og hvitt sporeavtrykk.",
+      notes: "En undersøkelse fra 2015 fant at denne arten ikke er nært beslektet med Lepista densifolia."
     },
     sv: {
       description: "En köttig saprotrof svamp i lövförna i skogar, parker och trädgårdar, som ofta växer i häxringar eller rader. Den är hemmahörande i det tempererade Europa och Nordamerika, rapporterad från Asien, Nordafrika och Sydamerika, och introducerad i Australien och Nya Zeeland, där den blir allt vanligare.",
@@ -30174,16 +30165,16 @@ export const CATALOG = [
       notes: "Fra flydende kulturer er pyxidatol A–C, tsuicolin E og omphadiol blevet isoleret. I Polen behandles arten som sårbar, hvilket kædes sammen med tabet af flodnære løvskove."
     },
     no: {
-      description: 'En vednedbrytende fingersopp som vokser på råtnende stammer og greiner av løvtrær, særlig osp. Utbredt i boreale og tempererte skoger i Europa, Asia og Nord-Amerika.',
-      cap: 'Fruktlegemet er 4–12 cm høyt og 2–10 cm bredt, rikt forgrenet i opprette, korallaktige grener. Fargen er først kremhvit til blekgul, og blir lyst okerbrun til kjøttfarget med alderen. Forgreiningene er unike ved at hver grenspiss ender i en liten begerformet utvidelse, hvorfra det skyter ut 3–6 nye små grener fra kanten, som et kandelaber.',
-      hymenium: 'Det sporebærende laget dekker overflaten av de opprette grenene.',
-      stipe: 'Basis danner en kort, felles stilkdel festet til treverket.',
-      flesh: 'Kjøttet er elastisk og seigt som ferskt, hvitaktig. Lukten er svakt krydret og smaken først mild, men utvikler raskt en skarp, pepperaktig brenning på tungen.',
-      sporePrint: 'Hvitt. Sporene er bittesmå, ellipsoide, fint ru eller glatte, amyloide, 4–5,5 × 2–3 μm.',
-      habitat: 'Fruktlegemer viser seg fra juni til september på død, fuktig ved av løvtrær, spesielt på ospestokker.',
-      uses: 'Spiselig med forbehold (spiselig med forbehold). Den pepperaktige smaken forsvinner vanligvis ved steking eller koking, men soppen regnes ikke som en førsteklasses matsopp.',
-      confusion: 'Andre korallsopper og fingersopper (Ramaria og Clavulina) vokser vanligvis på bakken og mangler de karakteristiske begerformede forgreiningsspissene.',
-      notes: 'Den karakteristiske kandelaberaktige forgreiningen med beger i spissene gjør den lett å identifisere.'
+      description: "En saprotrof korallignende sopp på råtnende trevirke gjennom hele den tempererte nordlige halvkule. Den er vidt utbredt i Europa, Asia og Nord-Amerika, temmelig sjelden i store deler av Vest-Europa og sjelden i Storbritannia. I Nord-Amerika forekommer den i øst, i Rocky Mountains og i Mexico, og mangler eller er sjelden ved stillehavskysten.",
+      cap: "Fruktlegemet er cirka 2–13 cm høyt og 2–10 cm bredt, og vanligvis 4–12 cm høyt. Opprette greiner på cirka 1–5 mm i tykkelse utgår gjentatte ganger fra en kort basis og forener seg nedentil i tykkere stammer. De står tett sammen. Hver greinspiss åpner seg i et grunt beger med cirka 3–6 kortere tenner langs kanten, og samme kranslignende forgrening gjentar seg nedover langs greinene. Fargen er til å begynne med hvitaktig, kremfarget eller blekt kjøttfarget rosa, deretter gulaktig eller okerfarget, noen ganger med en rosa tone. Spissene blir ofte brune med alderen. Tørkede fruktlegemer blir kanelbrune til brune.",
+      hymenium: "Den fertile overflaten er glatt og dekker greinene. Basidiene er klubbeformede og firesporede med en klemmebøyle ved basis og måler cirka 16–30 × 3,6–5,2 μm. Cystidene er spoleformede, sylindriske, svakt hodeformede eller klubbeformede, opptil cirka 50 × 9 μm, og stikker ofte knapt ut. Det finnes også tynnveggede leptocystider på cirka 3–5 μm i bredde. Gloeoplere hyfer kan munning i hymeniet som gloeocystider, som stikker ut opptil 15 μm.",
+      stipe: "En kort basis finnes vanligvis, cirka 1–3 cm lang og opptil 1 cm tykk. Den er hvitaktig, rosa eller brunaktig og fint dunete. Den kan være nesten helt skjult eller trenge noe inn i veden. Mycelputen ved festepunktet er hvit til rustfarget.",
+      flesh: "Kjøttet er hvitaktig til gulaktig, bøyelig og ganske seigt, og det bruner ved berøring. Lukten er kraftig krydret, svakt jordaktig eller som nyopptatte poteter, og kan være uanselig. Smaken er mild, lett bitter eller pepret, og skarpheten tiltar etter gjennomtygging av kjøttet. Hyfesystemet er monomittisk. Generative hyfer bærer klemmebøyler og når en bredde på cirka 12–16 μm. Gloeoplere hyfer på cirka 3–8 μm i bredde ligger spredt i kjøttet. Jernsalter etterlater greinene og basisen uforandret eller farger dem gråaktige til brunaktige.",
+      sporePrint: "Hvitt. Sporene er ellipsoide til avlangt ellipsoide, cirka 3,6–5,5 × 2–3 μm, fint vortete eller fint punkterte, ofte med en liten apiculus og en oljedråpe. De er amyloide.",
+      habitat: "Fruktlegemene viser seg hovedsakelig fra juli til september i Sentral-Europa og fra juni til september lenger øst i Europa, med funn fra mai inn i oktober. I det østlige Nord-Amerika bærer den frukt fra vår til høst og ifølge mange kilder fra juni til september. De vokser enkeltvis eller i grupper på morkne stubber og falne stammer, særlig av osp og andre poppelarter, selje/pil, bøk, eik, lind, agnbøk og lønn, og dessuten på bjørk, or, ask, hyllebær og ekte kastanje. Barved er mindre vanlig. Furu og edelgran er dokumentert, og nyere funn på det nordtyske lavlandet er overveiende på furu. I Nord-Europa er de vanlige vertene bjørk, poppel og selje. I det østlige Nord-Amerika er tulipantre (Liriodendron tulipifera) en vanlig vert.",
+      uses: "I Sentral-Europa regnes den som uspiselig. Enkelte nordamerikanske kilder betegner den som spiselig så lenge den er fersk, og den har også blitt oppgitt som rått spiselig, selv om den er bedre etter varmebehandling. I 2014 fantes den ikke oppført på noen tysk liste over matsopper, sopper med tvilsom matverdi eller giftsopper. Fruktlegemene er ofte små.",
+      confusion: "Rank fingersopp (Ramaria stricta) vokser likeledes på trevirke og har opprette greiner. Greinspissene dens er ikke begeraktig kronede, den har hvite rotlignende mycelstrenger og smaken dens blir ikke skarpere ved tygging. Andre fingersopper (Ramaria) vokser på bakken og slutter ikke i små begre. Engfingersopper (Clavulinopsis) mangler begerlignende spisser. Liten begerfingersopp (Artomyces microsporus) ligner arten i formen med greiner som står tett sammen fra basis til topp, kortere sporer på cirka 3–3,8 μm i lengde og en tydelig forkjærlighet for død furuved. Kamfingersopp (Artomyces cristatus) er liten, og dens fruktlegemer er uforgrenede eller bare sjelden to ganger forgrenede.",
+      notes: "Fra flytende kulturer har pyxidatol A–C, tsuicolin E og omfadiol blitt isolert. I Polen behandles arten som sårbar, noe som knyttes til tapet av flommarksskoger."
     },
     sv: {
       description: "En saprotrof koralliknande svamp på multnande ved genom hela den tempererade norra hemisfären. Den är vitt utbredd i Europa, Asien och Nordamerika, tämligen sällsynt i större delen av Västeuropa och sällsynt i Storbritannien. I Nordamerika förekommer den i öster, i Klippiga bergen och i Mexiko, och saknas eller är sällsynt vid Stillahavskusten.",
@@ -30977,16 +30968,16 @@ export const CATALOG = [
       notes: "I naturen rapporteres det underjordiske sklerotium at dannes der, hvor myceliet af en honningsvamp (Armillaria) er til stede, herunder køllestokket honningsvamp (Armillaria gallica) og knoldet honningsvamp (Armillaria cepistipes). Sklerotiet er blevet brugt i traditionel kinesisk medicin som et vanddrivende middel i mere end 2000 år. Svampen er ualmindelig, og visse kilder angiver, at frugtlegemerne bør lades urørte i naturen."
     },
     no: {
-      description: 'En sjelden, parasittisk og saprotrof kjuke som danner store, klyngedannende fruktlegemer ved foten av gamle eiketrær og bøketrær. Den vokser fra et underjordisk, svartaktig sklerotium.',
-      cap: 'Fruktlegemet består av en enorm samling av hundrevis av små, runde, navleformede enkelthatter som forgreiner seg fra en felles hvit kjerne, og kan bli 20–50 cm i diameter. De enkelte hattene er 1–4 cm brede, gråbrune til lyst okerfargede, med nedsunket sentrum.',
-      hymenium: 'Undersiden av hver lille hatt bærer hvite til kremfargede porer som løper langt nedover stilkene. Porene er bittesmå, 1–3 per millimeter.',
-      stipe: 'Hver liten hatt har en hvit, sentral stilk som forener seg i et treaktig forgrenet stilksystem ned til et felles feste.',
-      flesh: 'Kjøttet er hvitt, mykt og skjørt som ungt, med en behagelig nøtteaktig lukt og smak. Det blir treent og seigt med alderen.',
-      sporePrint: 'Hvitt. Sporene er sylindriske, glatte og inamyloide, 7–10 × 2,5–3,5 μm.',
-      habitat: 'Fruktlegemer viser seg fra juli til september i eldre løvskog ved basis av eik eller bøk.',
-      uses: 'Unge, myke fruktlegemer er en utsøkt matsopp (god matsopp). Sklerotiet (kinesisk: Zhu Ling) har en lang tradisjon i tradisjonell kinesisk medisin som vanndrivende middel.',
-      confusion: 'Kjempeflathatt (Grifola frondosa) har sidefestede, tungeformede mørkegrå hatter og vokser likeledes ved eik, men har ikke sentralt stilkede, sirkelrunde småhatter.',
-      notes: 'Arten er sjelden og rødlistet i store deler av Europa på grunn av tilbakegang av gamle eikeskoger.'
+      description: "En sopp som forårsaker hvitråte i løvskoger, parasittisk på levende røtter og saprotrof på stubber. Den har en temperert utbredelse på den nordlige halvkule, fra Sentral- og Øst-Europa nordover til det sørlige Fennoskandia, over Nord-Amerika og gjennom Kaukasus og Sibir til Pakistan. I Storbritannia er den sjelden og overveiende sørlig.",
+      cap: "Fruktlegemet er en tykk, kjøttfull, forgrenet stamme som bærer mange små, runde, sentralt stilkede hatter, noen ganger flere hundre, og den utgår fra et underjordisk sklerotium. Hele knippet er vanligvis 10–50 cm bredt og kan veie mange kilo. De enkelte hattene er 1–5 cm brede, oftest 2–4 cm. De er tynne, bredt hvelvede eller flatt hvelvede til å begynne med, deretter utbredte til grunt nedsunkede, navlede eller traktformede med en tynn, bølget kant. Overflaten er kremfarget, blekt okerfarget, gråbrun, blekt gulbrun, røykbrun eller hvitaktig, ofte med gråaktige eller gråbrune trådete skjell eller fine radielle fibrer, særlig som ung, og den blir okerfarget og deretter brun med alderen. Kanten kan gulne ved skade. Fruktlegemet er kortlivet og faller sammen i vått vær.",
+      hymenium: "Porene er hvite til kremfargede, nedløpende på de enkelte delstilkene, kantete og fine, cirka 1–3 per millimeter, med rør på 1–2 mm i lengde. De misfarges ikke merkbart ved berøring. Basidiene er klubbeformede og firesporede, cirka 25–40 × 6–8 μm. Cystider mangler.",
+      stipe: "Hver enkelt hatt bæres av en slank, hvitaktig stilk på 2–5 cm i lengde, som forener seg med andre stilker i et stadig tykkere forgreiningssystem, som munner ut i en felles sentral rotknoll eller et underjordisk sklerotium. Sklerotiet er svartaktig, uregelmessig knollformet, seigt og ofte 10–30 cm begravd i jorden.",
+      flesh: "Kjøttet er hvitt. Ungt kjøtt er saftig og mykt, deretter trevlet og sprøtt, og fargen endres ikke ved snitt. Eldre kjøtt er seigt og trevlet, og i tørr tilstand er det hardt og sprøtt. Ungt kjøtt lukter behagelig, melaktig eller svakt søtlig, og smaken er mild. Med alderen blir lukten ubehagelig og smaken bitter eller skarp. Hyfesystemet er dimittisk med klemmebøyler. Kaliumhydroksid gir ingen fargereaksjon på kjøttet eller på hatten.",
+      sporePrint: "Hvitt. Sporene er sylindriske til smalt ellipsoide, glatte, hyaline og inamyloide, cirka 7–10 × 2,5–3,5 μm, ofte med oljedråper.",
+      habitat: "Fruktlegemene viser seg fra slutten av mai, etter regn, gjennom november, hovedsakelig fra juli til september. Slovakiske funn spenner fra juni til september, britiske gjennom sommer og høst, og funn fra det østlige Nord-Amerika fra mai til september eller fra vår til høst. De vokser enkeltvis eller opptil cirka seks sammen ved basis av levende løvtrær og stubber, og også noen meter derfra, fra et svartbrunt, knudret sklerotium like under markoverflaten, ofte omkring tynne levende røtter. Sklerotiet har en tynn, rynket bark og et seigt, korkaktig kremfarget eller hvitt indre. Eik og bøk er de vanlige vertene sammen med agnbøk, ask og andre løvtrær. Den foretrekker varme voksesteder på kalkrike eller baserike jordsmonn og unngår næringsfattig, sur sand og leire. Fruktlegemene kan komme igjen på samme sted over mange år, eller hoppe over år. Etter hogst kan soppen overleve på stubben i opptil cirka 30 år, og et vertsskifte til gran rapporteres av og til.",
+      uses: "Det er en utmerket matsopp som ung og fersk, før hattene blir seige og ubehagelige i smaken. Den brukes i supper, sauteres eller stekes i smør, og hele knippet kan deles opp i mindre buketter. Innen tradisjonell kinesisk medisin brukes det tørkede sklerotiet under navnet Zhuling som et vanndrivende middel og til behandling av nyresykdommer.",
+      confusion: "Skjeggkjuke / korallkjuke (Grifola frondosa) danner likeledes store knipper ved basis av eik, men fruktlegemet består av flate, tungeformede eller vifteformede gråbrune hyller med sidestilte stilker, mens skjermkjuke har mange små, runde, sentralt stilkede hatter. Kjempekjuke (Meripilus giganteus) har tykkere, spatelformede hyller med en eksentrisk stilk og vokser overveiende ved bøk. Blomkålsopp (Sparassis crispa) er blekere med krusete fliker og vokser ved bartrær, særlig furu. Ringløs honningsopp (Desarmillaria tabescens) har skiver. Sklerotiekjuke (Polyporus tuberaster) danner likeledes fruktlegemer fra et sklerotium, men dens fruktlegeme består av en enkelt hatt.",
+      notes: "I naturen rapporteres det underjordiske sklerotiet å dannes der mycel av en honningsopp (Armillaria) er til stede, deriblant klubbehonungsopp (Armillaria gallica) og norsk honningsopp (Armillaria cepistipes). Sklerotiet har vært brukt i tradisjonell kinesisk medisin som et urindrivende middel i mer enn 2000 år. Soppen er uvanlig og enkelte kilder angir at fruktlegemene bør skånes i naturen."
     },
     sv: {
       description: "En svamp som orsakar vitröta i lövskogar, parasitisk på levande rötter och saprotrof på stubbar. Den har en tempererad utbredning på norra halvklotet, från Central- och Östeuropa norrut till södra Fennoskandien, över Nordamerika och genom Kaukasus och Sibirien till Pakistan. I Storbritannien är den sällsynt och övervägande sydlig.",
@@ -31778,16 +31769,15 @@ export const CATALOG = [
       confusion: "Rustrød skælrørhat (Leccinum aurantiacum) har allerede som ung rødbrune skæl på stokken, som er tættere og mørkere end de hos denne art i starten hvide skæl, og en hat der ofte er mere rød eller ifølge visse kilder grønligt anløben. Kilder forbinder den med eg eller bævreasp. Orange skælrørhat (Leccinum versipelle) vokser med birk, er kraftigere, har en gul-okkeragtig hat og grove sorte skæl og anløber ved tryk straks sortagtigt uden en forudgående rødlig fase. Gran-skælrørhat (Leccinum piceinum) vokser ved gran og har et grønligt skær på hatten."
     },
     no: {
-      description: 'En stor, ektomykorrhizadannende skrubb knyttet til osp og andre poppelslag. Utbredt i tempererte og boreale deler av Europa.',
-      cap: 'Hatten er 5–20 cm bred, halvkuleformet til hvelvet, lysende oransjerød til teglrød. Hatthuden er tørr og fint lodden som ung, og henger ofte noe over hattkanten som en smal brem.',
-      hymenium: 'Rørene er lange, dypt utrandede ved stilken, hvitaktige til kremfargede og mørkner til gråbrunt. Porene er bittesmå og misfarges svakt gråbrunt ved trykk.',
-      stipe: 'Stilken er 8–20 cm lang og 2–4 cm tykk, kraftig, hvit i bunnen og besatt med små skjell (skrubber) som forblir helt hvite lenge hos unge eksemplarer, og blir bare rødbrune eller gråbrune øverst med alderen.',
-      flesh: 'Kjøttet er tykt og fast, hvitt i hatten og stilken. Ved snitt farges det først lilla-grått til vinrødt, før det sverter til mørkegrått eller blåsvart. Lukten og smaken er mild.',
-      sporePrint: 'Olivenbrunt til okerbrunt. Sporene er spindelformede, glatte, 13–18 × 4,5–6 μm.',
-      habitat: 'Fruktlegemer viser seg fra juli til oktober i skog og skogbryn der det vokser osp (Populus tremula).',
-      uses: 'Spiselig (spiselig). Som alle skrubber må den varmebehandles grundig i minst 15–20 minutter før den spises, da utilstrekkelig varmebehandling gir forgiftning. Kjøttet sverter under tilberedning, men har en god og fast konsistens.',
-      confusion: 'Eikeskrubb (Leccinum aurantiacum) har mørkere rødbrune skjell på stilken fra starten og vokser med eik. Rødskrubb (Leccinum versipelle) vokser med bjørk og har svarte skjell på stilken.',
-      notes: 'Arten ble formelt skilt ut fra Leccinum aurantiacum på grunnlag av molekylære studier og de hvite stilkskjellene som ung.'
+      description: "En ektomykorrhizadannende sopp i ospeskoger og poppelskoger, som vokser enkeltvis eller i spredte grupper. Den er vanlig i Skandinavia og i fjellene i Sentral-Europa, mer sjelden i lavlandet og mot sør og vest, samt ganske sjelden i Storbritannia. Den rapporteres også fra Nord-Asia og sjeldnere fra Nord-Amerika.",
+      cap: "Hatten er 3–25 cm bred. Den er halvkuleformet til å begynne med, deretter hvelvet og senere puteformet til nesten flat, noen ganger med en oppoverbøyd kant. Overflaten er tørr og fint filtet eller trådet, hos unge eksemplarer dypt oransje til oransjerød eller oransjebrun, noen ganger teglrød eller mørkerød, og den blekner eller sprekker opp med alderen, særlig ved regn. Kanten er tynn, og hatthuden skyter ut over rørene som en steril hinnekant, hos unge fruktlegemer opptil cirka 4–6 mm. Hatthuden er en cutis av smale sylindriske hyfer.",
+      hymenium: "Rørene er 7–30 mm lange, bukete og smalt tilvokste til dypt utrandede ved stilken. De er hvitaktige til gulhvite til å begynne med, deretter gråaktige med en olivenfarget eller gulgrå tone. Porene er små og avrundede, cirka 0,5 mm i diameter, og av samme farge som rørene. Trykte porer bruner og antar en purpurgrå til purpursvart farge. Basidiene måler 25–35 × 7,5–11 μm og er to- eller firesporede. Cystidene er flaskeformede til klubbeformede eller spoleformede, cirka 20–50 × 7–15 μm, ofte med en forlenget spiss. Klemmebøyler mangler.",
+      stipe: "Stilken er 5–27 cm lang og 1,2–5 cm tykk, oppsvulmet eller bukete hos unge eksemplarer, deretter sylindrisk eller lett klubbeformet og avsmalnende mot toppen, uten ring. Den er hvit til gråaktig med fine kornaktige tufser eller skjell, som ofte er ordnet i uregelmessige langsgående rader. Tufsene er til å begynne med rent hvite, deretter fra basis og oppover oransjebrune til kastanjebrune og med alderen mørkt gråbrune, mens den øvre delen av stilken lenge kan forbli blek. Ved berøring kan basis anta en blå eller blågrønn farge. Kaulocystidene er klubbeformede til spoleformede, cirka 15–65 × 10–16 μm.",
+      flesh: "Kjøttet er hvitt og tykt. Det er fast hos unge eksemplarer, deretter svampete i hatten, trevlet i stilken og i stilkbasis nesten treaktig. Gjennomskåret kjøtt antar en skifergrå-lilla, vinrød eller purpuraktig tone, deretter rødbrun, grå eller purpursvart til nesten svart. Basisen kan allerede ha grønne eller blåaktige flekker og kan blåfarges. Smaken er mild og lukten svak. Jernsulfat farger kjøttet grågrønt og formalin smussrosa og deretter brunlilla.",
+      sporePrint: "Brunt, okerbrunt eller olivenbrunt. Sporene er spoleformede til spoleformet avsmalnende med en kjegleformet spiss og en grunn fordypning, cirka (9,5–)11–18 × 4–5,5 μm.",
+      habitat: "Fruktlegemene viser seg fra mai til november, oftest fra juni til oktober og i Storbritannia fra august til november. De vokser på bakken ved osp (Populus tremula) og ifølge enkelte kilder også ved andre poppelarter, i blandingsskog, langs skogsbryn og på hogstflater samt på fuktige steder, vanligere på sur mark enn på tørr eller kalkrik mark.",
+      uses: "Faste unge fruktlegemer er etter grundig varmebehandling gode matsopper. Kjøttet regnes som velsmakende og mørkner under tilberedning; denne misfargingen forsvinner ikke og er helt ufarlig. Den må ikke spises rå.",
+      confusion: "Eikeskrubb (Leccinum aurantiacum) har allerede som ung rødbrune skjell på stilken, som er tettere og mørkere enn de hos denne arten til å begynne med hvite skjellene, og en hatt som ofte er mer rød eller ifølge enkelte kilder grønnaktig anløpt. Kilder knytter den til eik eller osp. Vanlig rødskrubb (Leccinum versipelle) vokser med bjørk, er kraftigere, har en gul-okeraktig hatt og grove svarte skjell samt antar ved trykk straks en svartaktig tone uten forutgående rødnende fase. Granskrubb (Leccinum piceinum) vokser ved gran og har en grønnaktig tone på hatten."
     },
     sv: {
       description: "En ektomykorrhizabildande svamp i aspskogar och poppelskogar, som växer enstaka eller i spridda grupper. Den är allmän i Skandinavien och i bergen i Centraleuropa, mer sällsynt i låglandet och mot söder och väster, samt ganska sällsynt i Storbritannien. Den rapporteras även från Nordasien och sällsynt från Nordamerika.",
@@ -32534,16 +32524,16 @@ export const CATALOG = [
       notes: "To tidligere varieteter betragtes nu som de selvstændige arter Hygrophoropsis macrospora og Hygrophoropsis rufa. Frugtlegemer registreret under dette navn i Californien tilhører et ubeskrevet kompleks. Kølleformede frugtlegemer med snoet lamelvæv samt en morkellignende form forekommer lejlighedsvis."
     },
     no: {
-      description: 'En saprotrof skivesopp i barskog, på heier, flis og råtnende trefliser. Meget vanlig over store deler av den nordlige halvkule.',
-      cap: 'Hatten er 2–8 cm bred, først hvelvet med innrullet kant, senere flat og traktformet. Fargen er lysende oransjegul til oransje, ofte med en lysere kant og brunere midte. Overflaten er tørr og fint fløyelsaktig filtet.',
-      hymenium: 'Skivene er ekte skiver: tynne, tette, gaffeldelte og løper langt nedover stilken (nedløpende). De har en kraftig oransje til laksoransje farge, som er mer intens enn hattefargen.',
-      stipe: 'Stilken er 2–6 cm lang og 0,3–0,8 cm tykk, ofte bøyd, oransjebrun og mørkere mot bunnen.',
-      flesh: 'Kjøttet er tynt, mykt, gulaktig til oransje, og blir vattaktig tørt med alderen. Lukten og smaken er ubetydelig.',
-      sporePrint: 'Hvitt til kremhvitt. Sporene er glatte, ellipsoide, 5–8 × 3–4,5 μm, og er dekstrinoide (farges rødbrune i Melzers reagens).',
-      habitat: 'Fruktlegemer viser seg fra august til november. Den vokser på mosebunn, barnåler og råtnende stubber i barskog.',
-      uses: 'Ikke matsopp (eller spiselig med forbehold). Den regnes som uspiselig eller av lav matverdi, med tørr konsistens og lite smak. Noen personer kan få milde fordøyelsesplager.',
-      confusion: 'Kantarell (Cantharellus cibarius) er fast, eggeplommegul, lukter aprikos og har tykke, gaffeldelte ribber/årer på undersiden i stedet for tynne, ekte skiver.',
-      notes: 'Tross likheten med kantarell tilhører den rørsoppordenen (Boletales).'
+      description: "En saprotrof sopp i barskog og blandingsskog samt på heier, som ofte vokser på eller nær råtnende stubber, barnåler og treflis. Den er vidt utbredt i tempererte og boreale deler av Europa, Asia og Nord-Amerika, og har blitt introdusert til Australia. Den er velkjent som en forvekslingsart til kantarell.",
+      cap: "Hatten er 2–8 cm bred, av og til opptil 10 cm. Den er hvelvet til å begynne med med innrullet kant, deretter flat og senere grunt til dypt traktformet med en bølget eller flikete kant. Overflaten er tørr og fint filtet eller fløyelsaktig som ung, senere glattere. Fargen varierer fra blekgult via oransje til oransjerødt eller oransjebrunt. Midten er med alderen ofte mørkere eller olivenbrun, og enkelte fruktlegemer er svært bleke. Hatthuden er enten et trikoderm av hyfer på 4–15 μm i bredde eller et lag av liggende eller sammenflettede hyfer med klemmebøyler på cirka 7–12 μm i bredde. Kaliumhydroksid på hatten reagerer negativt til rødaktig.",
+      hymenium: "Skivene er ekte skiver, tette og tynne, og de forgrener seg gjentatte ganger gaffelaktig. De løper langt nedover stilken og kan trekkes av fra kjøttet. De er ofte mer klart oransje enn hatten, fra gult over oransje til teglrødt, og de kan være noe krusete der de møter stilken. Unge skiver er tykkere, og senere er eggene tynne. De er cirka 1,5–4 mm brede. Basidiene er 25–40 × 5–8 μm og bærer to, tre eller fire sporer. Cystider mangler. Klemmebøyler finnes.",
+      stipe: "Stilken er 1,5–8 cm lang og 0,3–1 cm tykk. Den mangler ring og sitter ofte en anelse eksentrisk. Den er kompakt til å begynne med og senere hul. Den er oransje, gul eller teglrødt oransje. Enkelte fruktlegemer er mørkere eller svartaktige ved basis, eller blir brune der ved berøring og med alderen. Britiske fruktlegemer er blekere mot basis og lett skjellete nær toppen. Hvitt mycel kan dekke basis.",
+      flesh: "Kjøttet er tynt og mykt, senere vattaktig, og tørt. Det er hvitt, gulaktig, blekt oransje eller gulloransje, og det er brunaktig i stilken. Lukten er svak og soppaktig eller ikke utpreget, og noen ganger aromatisk. Smaken er ikke utpreget, lett bitter eller skarp, eller ubehagelig søtlig til bitter.",
+      sporePrint: "Hvitt til kremfarget. Sporene er ellipsoide, glatte og fargeløse, cirka 5–8,5 × 2,5–5 μm, og mangler spirepore. Veggene kan bli tykkere med alderen. De er vanligvis dekstrinoide, selv om et sporeavtrykk kan inneholde både dekstrinoide og inamyloide sporer, og de er cyanofile.",
+      habitat: "I Sentral-Europa viser fruktlegemene seg fra august til desember og i Slovakia fra september til november. I Storbritannia og Irland opptrer de fra august til november, i det østlige Nord-Amerika fra juli til oktober og på stillehavskysten fra september inn i januar, inkludert fra tidlig høst til sen vinter i California. De er ofte tallrike etter tørre somre. De vokser enkeltvis, spredt eller i grupper, noen ganger i hekseringer, på bakken i strø, på råtnende barved, stubber, begravde kongler og treflis, samt på heier og brannflater. De påtreffes sjeldnere i rene løvskoger, og de foretrekker mager eller sur mark. På ved forårsaker de brunråte.",
+      uses: "Arten ble lenge regnet som giftig. Den er ikke kjent som en alvorlig giftsopp, men smaken er dårlig og den anbefales ikke som matsopp. En del mennesker får magebesvær, vanligvis milde, etter et større måltid, og hallusinasjoner har vært rapportert. Alvorlige tilfeller har blitt tolket som forveksling med Omphalotus eller som en sjelden individuell reaksjon. Den selges i Frankrike og Belgia og spises i Frankrike og Spania samt av zapotek- og tepehuán-folkene. Rådet i Italia er å la den stå på grunn av giftige forvekslingsarter.",
+      confusion: "Kantarell (Cantharellus cibarius) er tykkere og fastere, lys gul, med butte ribber snarere enn ekte skiver, og den dufter aprikos. Blek kantarell (Cantharellus pallens) har en lysere hatt med hvitt slørbelegg. Oransjekantarell (Cantharellus friesii) er mer oransje, men har fremdeles ribber og fastere kjøtt. Oliven-lystrattsopp (Omphalotus olearius) og Omphalotus illudens er giftige; de vokser i tette tuer på løvtreved som oliven, eik eller ekte kastanje, med kraftigere fruktlegemer og udelte ekte skiver. Brun narrkantarell (Hygrophoropsis rufa) har en brunere hatt og stilk samt en brun fløyelsaktig eller skjellet overflate. Stor narrkantarell (Hygrophoropsis macrospora) har kremfargede skiver og en kremfarget stilk samt lengre sporer. Mørkskjellet narrkantarell (Hygrophoropsis fuscosquamula) har fine brune skjell på en matt oransje hatt, lengre sporer og et trikoderm. Duftkantarell (Aphroditeola olida) er mindre og rosa med en karamellaktig duft og mindre inamyloide sporer. Gyllenmosehatt (Chrysomphalina chrysophylla) har en gulbrun hatt og udelte gule skiver. Praktskivesopp (Haasiella splendidissima) har et rosaaktig sporeavtrykk og udelte skiver. Traktsopp (Infundibulicybe gibba) er blekere og har hvite udelte skiver. En blek form av narrkantarell kan også ha hvite skiver, og disse skivene er fremdeles gaffeldelte og lette å skille fra kjøttet.",
+      notes: "To tidligere varieteter betraktes nå som de selvstendige artene Hygrophoropsis macrospora og Hygrophoropsis rufa. Fruktlegemer registrert under dette navnet i California tilhører et ubeskrevet kompleks. Klubbeformede fruktlegemer med buktende skivevev, samt en morkellignende form, forekommer av og til."
     },
     sv: {
       description: "En saprotrof svamp i barr- och blandskogar samt på hedar, som ofta växer på eller nära multnande stubbar, barrförna och träflis. Den är vitt utbredd i tempererade och boreala delar av Europa, Asien och Nordamerika, och har introducerats till Australien. Den är välkänd som en förväxlingsart till kantarell.",
@@ -33350,16 +33340,16 @@ export const CATALOG = [
       notes: "Frugtlegemer, der tidligere blev adskilt som Entoloma eulividum med en okkergul hat og lameller uden gult, inkluderes her i arten."
     },
     no: {
-      description: 'En stor, kraftig giftsopp i varme løvskoger, særlig med eik og bøk på kalkrik jord. Den regnes som en ektomykorrhizadannende sopp. Utbredt i Sør- og Mellom-Europa, sjelden i Norden.',
-      cap: 'Hatten er 5–20 cm bred (av og til opptil 25 cm). Den starter halvkuleformet til kjegleformet, blir hvelvet og flater ut med en bølget, ujevn kant. Fargen er elfenbenshvit, askegrå til lyst okergrå eller lærgul. Hatthuden er glatt, tørr og silkeskinnende.',
-      hymenium: 'Skivene er brede, 8–15 mm, utrandet festet til stilken. De er først gulaktige, og blir lakserosa til kjøttrøde etter hvert som de kantede sporene modnes.',
-      stipe: 'Stilken er 5–15 cm lang og 1,5–3,5 cm tykk, kraftig og hvit, sylindrisk eller oppsvulmet ved basis, med en langsfibret overflate.',
-      flesh: 'Kjøttet er hvitt, tykt og fast, og endrer ikke farge ved snitt. Lukten er i starten behagelig melet, men blir ubehagelig harsk og kvalmende hos eldre sopper.',
-      sporePrint: 'Lakserosa til kjøttrødt. Sporene er kantete med 5–6 hjørner, 8–11 × 7–9 μm.',
-      habitat: 'Fruktlegemer viser seg fra juli til oktober i varme løvskoger under eik og bøk på kalkrik leirjord.',
-      uses: 'Giftig. Soppen forårsaker alvorlig mage-tarmforgiftning (gastroenteritt) med voldsom oppkast, kraftige magesmerter og diaré som inntrer etter 1–3 timer, og kan føre til dehydrering og sykehusinnleggelse.',
-      confusion: 'Vårfagerhatt (Calocybe gambosa) opptrer om våren og har tette skiver som forblir hvite, og hvitt sporeavtrykk. Puddertraktsopp (Clitocybe nebularis) har nedløpende skiver og kremhvitt sporeavtrykk.',
-      notes: 'Giftrødspore er en av de vanligste årsakene til alvorlige soppforgiftninger i Sentral-Europa.'
+      description: "En sopp i varmere løvskoger, oftest sammen med eik og bøk. Den anses å danne mykorrhiza med disse trærne samt med selje/pil, selv om en saprotrof levemåte også regnes som mulig. Utbredelsesområdet strekker seg fra Middelhavet til Danmark, Sør-Norge, Estland og Belarus, og den har også blitt rapportert fra Nord-Amerika og Nord-Asia.",
+      cap: "Hatten er vanligvis 5–20 cm bred, og en bredde på 30 cm har blitt målt. Den begynner som halvkuleformet, kjegleformet eller klokkeformet med innrullet kant, blir deretter hvelvet og senere utbredt og bølget, ofte med en bred, butt pukkel. Overflaten er glatt, silkeaktig og fint innvokst trådet, noen ganger flekket eller året av fibrer, og noe klebrig hos unge eksemplarer. Den tynne hatthuden kan flås av. Den er ikke hygrofan. Fargene spenner fra elfenbenshvitt og hvitaktig til gulaktig, gråoker, blekt gråbrunt og oker, noen ganger med en svak lillagrå tone, og hatten mørkner med alderen. Kanten er tynn, senere bølget, og kan sprekke i varmt vær. Pigmentet i hatthuden er intracellulært.",
+      hymenium: "Skivene er glisne, brede og temmelig tykke, cirka 8–15 mm brede og korte i forhold til hatten. De er utrandede til avrundet tilvokste, noen ganger nesten frie, og av og til med en liten nedløpende tann, men de er ikke ekte nedløpende. Ved basis finnes tverribber, og korte mellomskiver er skutt inn mellom dem. De er hvitaktige til å begynne med og forblir gulaktige eller kremfargede over lang tid, blir deretter gulaktig lakserosa til kjøttfarget rosa, og senere kjøttrøde eller brunaktig rosa. En form uten gult i skivene er sjelden og kjent fra vidt adskilte steder. Basidiene er firesporede og bærer klemmebøyler, cirka 27–35 × 7,5–9,5 μm. Cystider mangler på skiveggen. Klemmebøyler er tallrike på hyfesepter.",
+      stipe: "Stilken er vanligvis 5–15 cm lang og 1–3 cm tykk. Publiserte yttergrenser strekker seg fra cirka 3–20 cm i lengde og 0,5–4 cm i tykkelse. Den er hvit til elfenbensfarget og senere kremgulaktig. Den er sylindrisk og kraftig, ofte klubbeformet eller knollformet ved basis, og mangler ring. Overflaten er trevlet, furet og glinsende, pudret ved toppen og hvitfiltet ved basis. Stilken er massiv og fast til å begynne med, senere svampete eller hul, og sprø.",
+      flesh: "Kjøttet er hvitt, tykt, fast og glinsende, og endrer ikke farge ved gjennomskjæring. Unge fruktlegemer lukter og smaker av ferskt mel. Med alderen blir lukten ubehagelig og kan gå over til syrlig, reddikaktig, søtlig eller harsk. Smaken er mild hos unge eksemplarer.",
+      sporePrint: "Sporeavtrykket er kjøttfarget rosa til lyserosa eller kjøttrødaktig, og en kilde beskriver det som rødbrunt. Sporene er kantete og nesten ensidig symmetriske til svakt asymmetriske, med fem til sju hjørner og ofte seks. De måler for det meste 8–11,5 × 7–9,5 μm, vanligvis cirka 9–11 × 8–9 μm, med et lengde-bredde-forhold på cirka 1,0–1,3 og et gjennomsnitt omkring 1,2. De er glatte og blekt gulaktig rosa, og inneholder hver en stor oljedråpe.",
+      habitat: "I Sentral-Europa opptrer fruktlegemene hovedsakelig fra juni til september eller oktober, og i Tyskland overveiende fra august til oktober, sjelden i forsommeren eller senere. I Slovakia opptrer de fra begynnelsen av juli, sjelden fra slutten av mai, inn i september i varmere, åpne løvskoger, særlig eikeskoger, samt langs damkanter og trerekker. Arten foretrekker varme og mangler i kaldere fjellområder og på mer sur grunn. I Storbritannia og Irland danner den fruktlegemer fra forsommer til senhøst, og rundt Middelhavet kan dette fortsette inn i vinteren. I Nord-Amerika danner den fruktlegemer om sommeren og høsten. Fruktlegemer vokser enkeltvis eller i grupper, ofte i hekseringer, i åpne bøke-, eik-agnbøk- og bøk-edelgranskoger, i skogsbryn samt i hekker, parker og engmark. Jordsmonnet er friskt til fuktig eller vekselfuktig, leirholdig eller kalkholdig, og moderat næringsrikt. De vanlige trepartnerne er bøk og eik, samt agnbøk, hassel, bjørk og selje/pil.",
+      uses: "Soppen forårsaker alvorlige mage-tarm-forgiftninger. Symptomene begynner fra cirka en halv time til fire timer etter et måltid og omfatter kvalme, oppkast, kolikkaktige magesmerter, diaré og hodepine, ledsaget av væske- og elektrolyttap, kramper og noen ganger sirkulasjonskollaps. Sykdomsforløpet kan vare i cirka to dager eller fortsette over flere dager. Akutt levertoksisitet og psykiatriske symptomer, inkludert humørsvingninger, delirium, forvirring og depresjon, er sjeldne, og depresjonen kan vedvare i måneder. Forgiftningen kan være dødelig, særlig hos barn og svekkede personer, selv om den oftest forløper alvorlig uten dødelig utgang. Dødsfall blant voksne så vel som barn har blitt rapportert. Den står for en stor andel av soppforgiftninger i Europa, omkring en tiendedel ifølge en sammenstilling, deriblant 70 sykehusinnleggelser i Genève i 1983 og 33 av 145 tilfeller over fem år ved et sykehus i Parma. Toksiner har ikke blitt fullstendig isolert. Vinylglycin har vært mistenkt, lektiner som agglutinerer blodlegemer av type A er påvist, og en insekticid virkning på bananfluer har blitt registrert.",
+      confusion: "Vårfagerhatt (Calocybe gambosa) har tettsittende hvite skiver som forblir hvitaktige, et hvitt sporeavtrykk, fruktifisering om våren og glatte ellipsoide sporer. Puddertraktsopp (Clitocybe nebularis) har nedløpende kremfargede skiver, et hvitaktig til gult sporeavtrykk og glatte sporer, og mangler skivenes og sporenes rosa tone. Jordmusserong (Tricholoma terreum) har en grå filtet hatt og hvite sporer. Silkeridderhatt (Tricholoma columbetta) er rent hvit med hvite sporer og vokser på sur mark. Vårrødspore (Entoloma vernum), mai-rødspore (Entoloma clypeatum), slåperødspore (Entoloma saepium) og lundrødspore (Entoloma aprile) danner fruktlegemer om våren sammen med rosefamilien (Rosaceae) og er spedere. Stinkerødspore (Entoloma rhodopolium) er mindre, spedere og har en glatt, hygrofan hatt med en ubehagelig lukt. Sjampinjonger (Agaricus) har en ring på stilken, frie skiver og sjokoladebrune sporer. Lillastilket ridderhatt (Lepista personata) har et blekt lysrosa sporeavtrykk, men har en påfallende fiolett stilk og vokser på åpne gressmarker.",
+      notes: "Fruktlegemer som tidligere ble skilt ut som Entoloma eulividum, med okergul hatt og skiver som mangler gult, inkluderes her i arten."
     },
     sv: {
       description: "En svamp i varmare lövskogar, oftast med ek och bok. Den anses bilda mykorrhiza med dessa träd samt med pil, även om ett saprotroft levnadssätt också betraktas som möjligt. Dess utbredningsområde sträcker sig från Medelhavet till Danmark, södra Norge, Estland och Belarus, och den har även rapporterats från Nordamerika och Nordasien.",
@@ -34150,16 +34140,16 @@ export const CATALOG = [
       notes: "Efter at hekseægget er revnet, kan stokken forlænges med 10–15 cm i timen, og det ekspanderende frugtlegeme kan udøve et tryk på cirka 1,33 kPa, hvilket er tilstrækkeligt til at bryde gennem asfalt. Spyfluer, herunder Calliphora vicina, Lucilia caesar og Lucilia ampullacea, samt fluen Dryomyza anilis æder af glebaen og afsætter hurtigt sporerig flydende afføring. Ådselsbiller såsom Oeceoptoma thoracica og Meligethes viridescens tiltrækkes tillige og æder videre af vævet."
     },
     no: {
-      description: 'En saprotrof bukmorkelsopp (Gasteromycetes) i løv- og barskog, parker og hager på næringsrik humusjord. Utbredt over store deler av Europa og Nord-Amerika.',
-      cap: 'Fruktlegemet starter som et underjordisk eller delvis overjordisk \'hekseegg\', 3–6 cm i diameter, hvitt med en tykk, geléaktig mellomhinne. Ved modning sprekker egget, og en hvit, svampete stilk skyter raskt opp og bærer en kjegleformet hatt på toppen. Hatten er dekket av en mørkegrønn, illeluktende slimmasse (gleba).',
-      hymenium: 'Det sporebærende laget (gleba) er den mørkegrønne, tyktflytende slimmassen på utsiden av hatten. Lukten av åtsel og råttent kjøtt tiltrekker fluer, som spiser slimet og sprer sporene. Når slimet er borte, står et hvitt, bikakeaktig nettverk igjen på hatten.',
-      stipe: 'Stilken er 10–25 cm lang og 2–4 cm tykk, hvit, hul og skkjør med svampete porer i veggene. Ved bunnen sitter restene av egget som en poseformet slire (volva).',
-      flesh: 'Stilkkjøttet er hvitt og porøst. Selve glebaen har en gjennomtrengende, avskyelig åtsellukt som kan kjennes på mange meters avstand.',
-      sporePrint: 'Mangler ordinært sporeavtrykk; sporene er innebygd i det grønne slimet og er avlange og glatte, 3–5 × 1,5–2 μm.',
-      habitat: 'Fruktlegemer viser seg fra juni til oktober i næringsrik jord og råtnende løv- eller nåledropp i skoger og parker.',
-      uses: 'I eggstadiet (\'hekseegg\') er soppen spiselig (spiselig). Det harde, faste midtpartiet skjæres ut fra det slimete gelélaget og kan stekes. Det utvokste fruktlegemet er uspiselig på grunn av stanken.',
-      confusion: 'Sandstanksopp (Phallus hadriani) vokser på sanddyner og har et egg med rosa til fiolett farge.',
-      notes: 'Den utvokste soppens falliske form og raske vekst (opptil 10–15 cm i timen under strekningen) har gjort den velkjent i folketroen.'
+      description: "En saprotrof sopp som vokser frem fra et underjordisk hekseegg og utvikler en opprett, svampete stilk med en slimete, illeluktende gleba på hatten. Den forekommer over hele Europa, tempererte deler av Asia og Nord-Amerika, og er vidt utbredt og vanlig i Storbritannia og Irland.",
+      cap: "Hatten er klokkeformet eller kjegleformet, 2–5 cm høy og 1,5–4 cm bred, festet ved toppen av stilken og øverst gjennombrutt av en hvitaktig ringformet åpning. Overflaten er grovt året eller gropet i et nettmønster. Den er til å begynne med dekket av en mørkt olivengrønn til svartgrønn, slimete gleba som avgir en gjennomtrengende stank av åt扩大/åtsel. Etter at insekter har spist og fjernet glebaen, fremtrer den nakne hatten hvitaktig eller gulaktig med et tydelig bikakemønster. I eggstadiet er fruktlegemet halvkuleformet til eggrundt, 3–6 cm i diameter, hvitaktig til okerfarget, festet til bakken med en kraftig mycelstreng. Gjennomskåret viser egget den mørkegrønne glebaen omgitt av et tykt lag gjennomsiktig gelé. Skiver og rør mangler.",
+      hymenium: "Det fertile overflatelaget utgjøres av en gleba, et mørkt olivengrønt til grønnbrunt slim som dekker den gropete hatten, mørkebrunt i enkelte nordamerikanske innsamlinger. Den lukter gjennomtrengende av åtsel. Fluer spiser av den og sprer sporene videre, slik at den hvite bikakestrukturen trer frem i løpet av noen timer. I det uåpnede hekseegget er glebaen det grønnaktige laget rundt den utviklende hatten, innenfor et tykt hvitt gelélag. Det finnes verken skiver eller rør.",
+      stipe: "Stilken er hvit, hul og sprø, med en svampete vegg av små kamre, cirka én til tre per millimeter. Den er vanligvis 10–25 cm høy og 2–4 cm tykk, og en fullt utstrakt sopp kan bli cirka 30 cm høy og 4–5 cm tykk. Innsamlinger fra det sentrale Nord-Amerika er ofte kortere, cirka 7–11 cm høye og 2–3 cm tykke. Basisen omgis av en slire (volva) bestående av to eller tre fliker, cirka 3–5 cm høy, som utgjør restene av hekseegget. Europeiske funn er vanligvis hvitaktige til kremfargede. Nordamerikanske innsamlinger beskrives som hvitaktige, gulaktige, rosa, fiolette eller rødbrune.",
+      flesh: "Stilkens kjøtt er hvitt, sprøtt og cirka 2–5 mm tykt. Bortsett fra glebaen er lukten jordaktig eller søtlig og smaken ubetydelig. Det uåpnede hekseegget lukter av reddik. Den liklignende åtselstanken fra den utvokste soppen stammer utelukkende fra glebaen. Jernsalter og kaliumhydroksid fremkaller ingen fargeendring på overflatene.",
+      sporePrint: "Et tradisjonelt sporeavtrykk mangler. Sporene blir værende i den olivenfargede glebaen, der de fremtrer blekgule til grønngule, inntil insekter fører dem bort. De er glatte og avlangt ellipsoide til nesten sylindriske. Sentraleuropeiske mål er cirka 3,5–5 × 1,5–2 μm. Et bredere publisert intervall er 3–5 × 1,5–2,5 μm, og innsamlinger fra det sentrale Nord-Amerika er mindre, cirka 3–4 × 1–1,5 μm.",
+      habitat: "Fruktlegemene viser seg fra mai til november. I Storbritannia og Irland påtreffes utvokste fruktlegemer for det meste fra juni til oktober, mens egg kan forekomme året rundt og vanligvis sprekker opp om sommeren. I Sentral-Europa strekker sesongen seg fra forsommer til høst, normalt fra juni til september, med enkelte vinterfunn. I varmere deler av Nord-Amerika kan den danne fruktlegemer fra vår til høst eller inn i vinteren. Den vokser på humusrik jordbunn og på morkent trevirke, ofte ved stubber, i gran-, bøk-, bøk-edelgran-, eik-agnbøk-, strand- og oreskoger samt i kratt, parker, hekker, hager, plener, buskas og langs stier. Særlig vanlig er den i barskoger. Typisk er et fuktig, nitrogenrikt jordsmonn, noen ganger langs bekker, og fruktlegemene vokser ofte selskapelig sammen.",
+      uses: "Det uåpnede hekseegget er spiselig. Hinnen og det geléaktige laget fjernes, og den faste hvite kjernen spises rå, sprø og med smak av reddik, eller paneres og stekes. I Frankrike og Tyskland legges eggene ned eller bearbeides i pølser. Vurderingene av smaken varierer. Den utvokste soppen spises ikke på grunn av den motbydelige stanken.",
+      confusion: "Sandstanksopp (Phallus hadriani) har et rosa til fiolett hekseegg og en tilsvarende slire samt en kortere stilk. I Storbritannia vokser den i kystdyner og på andre steder med sandholdig mark i varme strøk. I Nord-Amerika varierer imidlertid sliren hos Phallus impudicus fra hvitaktig via gulaktig og rosa til purpur eller rødbrun, så en fiolett slire alene skiller ikke de to artene pålitelig der. Visse rapporter fra det vestlige Nord-Amerika benytter fortsatt en fiolett slire for Phallus hadriani. Hundestanksopp (Mutinus caninus) er mye mindre, lukter svakere og har en oransje bikakestruktur under glebaen i stedet for en hvit bikakestruktur på en separat hatt. Bringebærstanksopp (Mutinus ravenelii) skilles på tilsvarende måte, og en stilk hos Mutinus bryter ikke frem rent fra hekseegget. Et grovt hvitt nett eller 'slørskjørt' under hatten behandles som en varietet av denne arten, som var. pseudoduplicatus eller var. togatus. Britiske beskrivelser har brukt navnet Dictyophora duplicata om denne slørbærende formen. Sentraleuropeiske beskrivelser betrakter den nettbærende soppen som en varietet og ikke som en selvstendig amerikansk art. Så snart glebaen er fjernet av insekter, kan den furete hatten overfladisk minne om spissmorkel (Morchella esculenta). Den gjenværende sliren, den hule svampete stilken, spor av slim samt fruktifisering om sommeren og høsten i stedet for om våren skiller dem fra hverandre. Phallus ravenelii er vanligere øst for Mississippi, mens Phallus impudicus rapporteres oftere vest for denne elven.",
+      notes: "Etter at hekseegget har sprukket, kan stilken strekke seg med 10–15 cm i timen, og det ekspanderende fruktlegemet kan utøve et trykk på cirka 1,33 kPa, noe som er tilstrekkelig til å bryte gjennom asfalt. Spyfluer, deriblant Calliphora vicina, Lucilia caesar og Lucilia ampullacea, samt fluen Dryomyza anilis spiser av glebaen og avsetter raskt sporerik flytende avføring. Åtselbiller som Oeceoptoma thoracica og glansbiller lokkes også dit og spiser videre på vevet."
     },
     sv: {
       description: "En saprotrof svamp som växer fram ur ett underjordiskt häxägg och utvecklar en upprätt, svampig fot med en slemmig, illaluktande gleba på hatten. Den förekommer över hela Europa, tempererade Asien och Nordamerika, och är vitt utbredd och allmän i Storbritannien och Irland.",
@@ -34972,16 +34962,15 @@ export const CATALOG = [
       confusion: "Randbæltet hovporesvamp (Fomitopsis pinicola) vokser hyppigere på nåletræer, har en blegere trama og porer, som ikke misfarves ved tryk. Birkeporesvamp (Fomitopsis betulina) er enårig, vokser på birk og har en meget glattere overside. Flad lakporesvamp (Ganoderma applanatum) er fladere, ofte med en markant brun overside, et brunt sporeaftryk og vortede sporer, og dens porer mørkner kraftigt ved tryk. Almindelig ildporesvamp (Phellinus igniarius) er mørkere, med en hård, træagtig skorpe, som ikke kan trykkes ind, og skorpen bliver ikke blodrød i baser. Fomes fasciatus har sædvanligvis cirka 4–5 porer per mm og mindre sporer på cirka 7,5–16 × 2,5–6 μm. Fomes inzengae er en selvstændig art på varmere sydlige og lavtliggende voksesteder, herunder dele af Centraleuropa, og de to kan vokse i samme region. Poretæthed, sporestørrelse og bredden af skelethyferne overlapper, så disse karakterer adskiller dem ikke. En undersøgelse fra 2019 rapporterede meget mindre sporer hos Fomes inzengae, cirka 9–12,5 × 2,8–3,8 μm, men senere målinger fra Centraleuropa fandt sporer inden for samme interval som hos denne art."
     },
     no: {
-      description: 'En flerårig, hvitråtedannende kjuke som vokser parasittisk og saprotroft på svekkede og døde løvtrær, særlig bjørk i Norden og bøk lenger sør. Utbredt over hele den nordlige tempererte sone.',
-      cap: 'Fruktlegemet er flerårig, hovformet og bredt festet til stammen, 10–40 cm bredt og opptil 20 cm tykt. Oversiden har en hard, treaktig skorpe med konsentriske vekstsonefurer. Fargen er askegrå, blygrå eller sølvgrå, og eldre deler kan bli nesten svarte.',
-      hymenium: 'Rørene er rustbrune og anlagt i årlige lag oppå hverandre, der hvert lag er 2–10 mm tykt. Porene er bittesmå, 3–4 per millimeter, og lys gråbrune til kanelbrune.',
-      stipe: 'Mangler stilk; fruktlegemet er sittende og fast forankret til trestammen over hele sin bredde.',
-      flesh: 'Kjøttet (trama) er hardt, korkaktig til treaktig, filtaktig og lyst rødbrunt til kanelbrunt.',
-      sporePrint: 'Hvitt til lyst sitrongult. Sporene er sylindriske, glatte, 15–20 × 5–7 μm.',
-      habitat: 'Fruktlegemer finnes hele året på stående og falne stammer av bjørk og bøk.',
-      uses: 'Ikke matsopp (inedible). Kjøttet er altfor hardt og treaktig. Det filtaktige tramaet ble historisk kokt i aske og bearbeidet til \'knusk\' (fyrtøy for å fange gnister fra flint og stål), og til å stanse blødninger eller lage klesplagg.',
-      confusion: 'Rødrandkjuke (Fomitopsis pinicola) vokser oftest på gran, har lysere kjøtt og som oftest et oransjerødt lakkaktig vekstbelte ytterst.',
-      notes: 'Ismannen Ötzi, som levde for over 5000 år siden, bar med seg knuskkjuke for å kunne gjøre opp ild.'
+      description: "En flerårig kjuke som forårsaker hvitråte på løvtrær, parasittisk på levende stammer og saprotroft på dødt trevirke og stubber. Den forekommer i tempererte deler av Europa, Nord-Afrika, på Kanariøyene og i Asia, inkludert India og Pakistan, til det østlige Nord-Amerika, og den finnes også i det sørlige Afrika. I det sørlige Storbritannia og Irland er den sjelden, men vanlig i Skottland.",
+      cap: "Fruktlegemet er flerårig og stilkløst, hovformet eller en tykk konsoll festet langs hele bredden. Den vokser ofte enkeltvis og av og til i etasjer eller sammenvokst. Bredden er vanligvis 10–40 cm, store konsoller når cirka 50 cm og eksepsjonelle eksemplarer 60 cm. På bjørk forblir den vanligvis mindre, ofte opptil cirka 20 cm. Høyden er typisk cirka 7–15 cm og hos gamle fruktlegemer cirka 20–25 cm, med en tykkelse på cirka 20 cm ved festepunktet. Etter de første årene blir konsollen tykkere snarere enn bredere. Overflaten er en hard, matt skorpe på cirka 1–3 mm i tykkelse, svart og glinsende i tverrsnitt, konsentrisk furet og ulakkert. Som ung er den lysegrå, gråbrun, gråoker, smussaktig gulbrun eller nøttebrun, og med alderen sølvgrå til nesten svart. Unge konsoller og tilvekstkanten er gule, rødbrune, rustbrune eller semsket gule. Kanten er butt og avrundet samt lysere i fargen enn skorpen bak.",
+      hymenium: "Rørene er rustbrune til brune og lagdelte. Hvert lag er cirka 2–10 mm tykt. Flere vekstperioder per år, ofte to, innebærer at antallet lag ikke tilsvarer alderen i år; det nederste laget er det yngste. Når en trelegeme velter, vender ny vekst porene nedover igjen. Eldre rør fylles med en hvitaktig substans. Porene er runde og tykkveggede, kremfargede, hvitaktige, lysegrå, okergule eller brune, cirka 2–5 per millimeter og oftest 2–4, med en diameter på cirka 0,2–0,4 mm. Ved trykk mørkner de eller brunfarges lett, og poreflaten kan være svakt konkav. Under aktiv vekst kan hymeniet skille ut klare dråper (guttasjon). Cystider mangler. Basidiene er klubbeformede, hyaline og firesporede med en basal klemmebøyle.",
+      stipe: "Stilk mangler. Konsollen er direkte festet langs hele sin bredde.",
+      flesh: "Kjøttet (trama) er hardt, korkaktig til treaktig og trevlet, lysebrunt, gulbrunt, rustgult eller rustbrunt. Ved festepunktet finnes en kornet, brunhvit marmorert mycelkjerne under et seigere gulbrunt trevlet lag på cirka 2–5 cm i tykkelse. Kjøttet over rørlagene er ofte tynt. Lukten er svakt fruktig eller mild, og smaken er skarp, bitter eller ubehagelig. Hyfesystemet er trimittisk. Generative hyfer er tynnveggede, hyaline og bærer klemmebøyler; skjeletthyfer og bindehyfer er tykkveggede og gulbrune til gullbrune, hvorved bindehyfene er forgrenede. Baser farger skorpen mørkt blodrød på grunn av fomentariol, og kaliumhydroksid farger kjøttet svart.",
+      sporePrint: "Sporeavtrykket er hvitt til sitrongult. Enkelte kilder oppgir avtrykket som hvitt eller hvitaktig, og andre som blekt sitrongult til klart sitrongult. I tørt vær kan det ligge som et hvitt pulver på konsollens overside. Sporene er sylindriske til avlangt ellipsoide, glatte, tynnveggede og inamyloide, hyaline til blekt gule. Publiserte mål spenner fra cirka 12–23 × 4–8 μm, for det meste 15–20 × 5–7 μm. Sporer fra epitypematerialet måler (12,5–)13,5–18(–20,5) × 4,5–6,5(–7,5) μm.",
+      habitat: "Fruktlegemene finnes hele året, og tilveksten er kraftigst fra forsommer til høst. Sporer frigjøres hovedsakelig om våren med en mindre høsttopp ved relativt lave temperaturer. En konsoll kan ved vårtoppen avgi opptil cirka 887 millioner basidiosporer i timen. Konsollene vokser på levende og døde stammer av løvtrær, på stubber og læger, og trenger inn gjennom skadet bark. Bjørk er den vanlige verten i nord samt på myrer og heier. Bøk er hovedverten i Sentral-Europa, inkludert i fjellskoger. Lenger sør er eik den vanlige mediterrane verten, og poppel har også blitt rapportert som sørlig vert. Andre verter omfatter selje/pil, lønn, lind, agnbøk, kirsebær, hickory, platan, valnøtt og or. Bartrær er ytterst uvanlig. Mycelet kan forbli latent til stede i levende bøkestammer. Hvitråten etterlater trevirket blekt og trevlet, og nedbrutt ved smuldrer opp i små flak og fibrer. Et fruktlegeme kan sitte igjen i opptil cirka 30 år. Etter treets død kan tilveksten opphøre, mens konsollene forblir sittende.",
+      uses: "Fruktlegemet er uspiselig. Det er altfor treaktig, og kjøttet smaker bittert eller skarpt. Den trevlete traman har lenge blitt bearbeidet til knusk (amadou), brukt som fyrtøy ved opptenning av ild og som en langsomtbrennende lunte, samt banket og bearbeidet til et læraktig materiale for luer, hansker og vester, og dessuten brukt til å tørke fluer ved fluefiske. Ismannen Ötzi bar med seg fire biter som ble brukt som knusk. Kjøttet ble solgt som et blodstillende sårbehandlingsmiddel (fungus chirurgorum). Pulver, te og brennevin fremstilt av soppen ble fortsatt inntatt innvortes på 1900-tallet. I antikke og middelalderske tekster sikter navnene agaricum og Polyporus officinalis vanligvis til lerkekjuke (Laricifomes officinalis) snarere enn til denne arten.",
+      confusion: "Rødrandkjuke (Fomitopsis pinicola) vokser oftere på bartrær, har en blekere trama og porer som ikke misfarges ved trykk. Knivkjuke (Fomitopsis betulina) er ettårig, vokser på bjørk og har en betydelig glattere overside. Flatkjuke (Ganoderma applanatum) er flatere, ofte med en påfallende brun overside, et brunt sporeavtrykk og vortete sporer, og porene dens mørkner kraftig ved trykk. Ildkjuke (Phellinus igniarius) er mørkere, med en hard, treaktig skorpe som ikke kan trykkes inn, og skorpen blir ikke blodrød i baser. Fomes fasciatus har vanligvis cirka 4–5 porer per mm og mindre sporer på cirka 7,5–16 × 2,5–6 μm. Fomes inzengae er en selvstendig art på varmere sørlige og lavtliggende voksesteder, deriblant deler av Sentral-Europa, og de to kan vokse i samme region. Poretetthet, sporestørrelse og skjeletthyfenes bredde overlapper, så disse karakterene skiller dem ikke adskilt. En undersøkelse fra 2019 rapporterte mye mindre sporer hos Fomes inzengae, cirka 9–12,5 × 2,8–3,8 μm, men senere målinger fra Sentral-Europa fant sporer innenfor samme intervall som hos denne arten."
     },
     sv: {
       description: "En flerårig ticka som orsakar vitröta på lövträd, parasitiskt på levande stammar och saprotroft på död ved och stubbar. Den förekommer i tempererade Europa, Nordafrika, på Kanarieöarna och i Asien, inklusive Indien och Pakistan, till östra Nordamerika, och den finns även i södra Afrika. I södra Storbritannien och Irland är den sällsynt, men allmän i Skottland.",
@@ -35782,16 +35771,16 @@ export const CATALOG = [
       notes: "Upigmenterede frugtlegemer er blevet navngivet på artsniveau som Auricularia lactea og er ikke en selvstændig art. En undersøgelse af dna-sekvenser afgrænsede denne art til Europa. Nordamerikanske og østasiatiske svampe, der tidligere blev henført til dette navn, tilhører andre arter. Et frugtlegeme, som er tørret ind, indtil det har tabt det meste af sin vægt, kan fortsat frigive sporer. I det 19. århundrede blev den anvendt i folkemedicinen mod ondt i halsen, øjensmerter og gulsot samt som et sammensnerpende middel."
     },
     no: {
-      description: 'En vedboende gelésopp som vokser saprotroft og svakt parasittisk på levende og døde løvtrær, særlig på hylletre (Sambucus nigra). Utbredt over store deler av verden i tempererte soner.',
-      cap: 'Fruktlegemet er 3–12 cm bredt og 1–3 mm tykt, skålformet til uregelmessig øreformet og rynket, minnende slående om et menneskelig øre. Fargen er rødbrun til kastanjebrun eller mørkebrun. Overflaten på utsiden er fløyelsaktig dunete.',
-      hymenium: 'Det sporebærende laget kler den glatte, bølgede og årede innsiden. Fargen er rødbrun til grålilla.',
-      stipe: 'Mangler stilk eller har kun et bittelite sidefeste.',
-      flesh: 'Kjøttet er geléaktig, seigt og elastisk i fuktig tilstand, og krymper sammen til en hard, hornaktig svart hinne ved tørking. Lukten og smaken er nøytral.',
-      sporePrint: 'Hvitt. Sporene er pølseformede til bønneformede (allantoide), glatte, 14–18 × 5–8 μm.',
-      habitat: 'Fruktlegemer finnes året rundt, særlig om høsten og vinteren i fuktig mildvær, hovedsakelig på gamle greiner av svarthyll.',
-      uses: 'Spiselig (spiselig). Soppen er høyt skattet i asiatisk matlaging (kinesisk: mu err) for sin sprø, bruskaktige tekstur i supper, wokretter og salater. Den må varmebehandles før fortæring.',
-      confusion: 'Buskøre (Auricularia mesenterica) er tykkere og har en hårete, sonet overside.',
-      notes: 'Navnet henspiller på Judas Iskariot, som ifølge legenden skal ha hengt seg i et hylletre.'
+      description: "En vednedbrytende gelésopp på levende og dødt løvtrevirke som vokser enkeltvis, i grupper eller i tette klynger, som en svak parasitt og en saprotrof. I snever forstand er det en europeisk art. Eldre rapporter behandlet den som vidt utbredt over hele den nordlige tempererte sonen.",
+      cap: "Fruktlegemet er 3–12 cm bredt, av og til opptil 13 cm, og cirka 1–3 mm tykt. Det er skålformet eller øreformet til å begynne med og senere uregelmessig flikete, og er festet ved den ene siden eller ved en helt kort basis. Utsiden er rødbrun til lærbrun, ofte med en fiolett tone, og fint dunete. Den er glattere som ung, senere foldet og rynket, og mørkner med alderen, noen ganger til nesten svart i tørr tilstand. Innsiden er blekere, gråbrun til kjøttfarget brun, glatt eller året og noen ganger glinsende. Sjelden mangler fruktlegemer pigment og vokser innimellom de vanlige brune eksemplarene. Hårene på utsiden er cirka 100–150 μm lange, noen ganger opptil 250 μm, og 5–7,5 μm brede. De er hyaline og tykkveggede, med et smalt hulrom, en noe oppsvulmet basis og en spiss eller butt ende, og vokser ofte i tuer.",
+      hymenium: "Hymeniet kler den indre eller nedre overflaten. Det er glatt eller året, blekere enn utsiden, fra blekt gråaktig eller gråbrunt til kjøttfarget brunt, og kan ha et fint hvitaktig belegg. Basidiene er sylindriske til klubbeformede, 65–85 × 4–5,5 μm, og oppdelt av tre tverrvegger i fire celler. Sterigmene er lange og ses sjelden. Cystider mangler. Hyfene er sterkt gelatinerende. Klemmebøyler har blitt rapportert på hyfer som er 1–5 μm brede, og kjøtthyfene beskrives også som overveiende uten klemmebøyler, rikt forgrenede og oppsvulmede ved leddene. En margstreng (medulla) kan forekomme eller mangle. Når den finnes, ligger den vanligvis nær hymeniet. Krystaller ligger vanligvis spredt i hymeniet.",
+      stipe: "Det finnes ingen egentlig stilk. Fruktlegemet er stilkløst eller nesten stilkløst og er festet i siden eller ved en kort, smal basis.",
+      flesh: "Kjøttet er rødbrunt, seigt, gelatinøst og elastisk i fersk tilstand, samt cirka 1–3 mm tykt. Tørkede fruktlegemer blir harde, sprø og nesten svarte. De kan krympe til cirka en tiendedel av den ferske størrelsen. Etter regn eller bløtlegging tar de opp vann, sveller, gjenvinner formen og kan fortsette å vokse. Et fruktlegeme som har tørket inn til det har mistet det meste av sin vekt, kan gå tilbake til tre eller fire ganger den tørkede størrelsen. Lukten er ubetydelig, eller noen ganger muggen og jordaktig. Smaken er mild eller praktisk talt fraværende.",
+      sporePrint: "Hvitt. Sporene er pølseformede til sylindriske eller smalt nyreformede, glatte, fargeløse og tynnveggede, vanligvis med en eller to store dråper. De er inamyloide og ikke cyanofile. Det vanlige intervallet er cirka 15–22 × 5–7 μm, og publiserte yttergrenser spenner over cirka 13–23 × 4–8 μm. Lengden varierer innen arten, og enkelte britiske innsamlinger er lengre og bredere enn andre europeiske funn.",
+      habitat: "Fruktlegemer forekommer året rundt. I Storbritannia er de vanligst om høsten, og viser seg også om vinteren og våren. I Sentral-Europa påtreffes de oftest fra mars til november, særlig etter rikelig regn, og fortsetter gjennom vinteren, selv under frost. De vokser enkeltvis, i grupper eller i klynger, ofte i stort antall, på eldre greiner og stammer. De er en svak parasitt på levende trevirke og en saprotrof på død ved, og på død ved forårsaker de hvitråte. Den vanlige verten er svarthyll (Sambucus nigra). De vokser dessuten på spisslønn, bøk, ask, spolebusk, platanlønn, selje/pil, or, bjørk, robinia, alm og valnøtt, og sjelden på gran eller andre bartrær.",
+      uses: "Den er spiselig etter varmebehandling og spises ikke rå. Smaken og lukten er mild, og den verdsettes for sin faste, bruskaktige konsistens snarere enn for smaken. Den spises ikke i stor utstrekning overalt, selv om den i Polen konsumeres allment. Tørkede fruktlegemer kan bløtlegges og svelle opp igjen til en større størrelse, noen ganger tre eller fire ganger den tørkede størrelsen. Dyrkingsmycel selges for dyrking på løvtrestokker eller på et sterilt erstatningssubstrat. Den soppen som brukes i østasiatisk matlaging og medisin er en nærstående art.",
+      confusion: "Bruskøre (Auricularia mesenterica) vokser i tykkere, konsollformede etasjer. Oversiden dens er sonert og mer grovt filtet, og hymeniet er ofte mørkere eller purpurfarget. Auricularia cerrina er mørkegrå til nesten svart, med mer gråaktige til hvitaktige hår, en margstreng (medulla) gjennom kjøttet og mindre sporer; den ble beskrevet fra frynseeik i Tsjekkia, og begge artene kan forekomme på eik. Auricularia cornea er mer hårete og mer læraktig, med en tydelig margstreng, mindre sporer og variabel farge. Auricularia heimuer er svært lik og vokser i Øst-Asia; basidiene dens er kortere og sporene måler cirka 11–13 × 4–5 μm. Auricularia angiospermarum vokser på nordamerikansk løvved; basidiene dens er kortere og sporene er cirka 13–15 × 4,8–5,5 μm. Auricularia americana vokser på nordamerikanske bartrær og har kortere sporer, cirka 14–16,5 × 4,5–5,4 μm. Seljebevre (Exidia recisa) vokser på tynne kvister; den er mer gjennomsiktig, blir ikke muslingformet og den skarpe kanten er furet. Svartbevre (Exidia glandulosa) er mørkere, og dens sterile overflate er kornet og vortete. Løvbevre (Phaeotremella frondosa) danner tett sammenpakkede, hjernelignende folder, aldri et tydelig øre, og overflaten er fullstendig glatt. Brunbevre (Tremella foliacea) har samme form: tett sammenpakkede, hjernelignende folder, intet tydelig øre og en fullstendig glatt overflate. Poppelskål (Schizophyllum amplum) er mindre, hvitaktig og filtet på utsiden, foretrekker poppel og selje samt har encellede basidier. Brun begersopp (Peziza badia) er skålformet med kort stilk og ugjennomsiktig kjøtt, og vokser vanligvis tett mot bakken.",
+      notes: "Opigmenterte fruktlegemer har blitt gitt artsstatus under navnet Auricularia lactea, men utgjør ikke en selvstendig art. En undersøkelse av dna-sekvenser avgrenset denne arten til Europa. Nordamerikanske og østasiatiske sopper som tidligere ble ført til dette navnet tilhører andre arter. Et fruktlegeme som har tørket inn til det har mistet det meste av sin vekt, kan fortsette å frigjøre sporer. På 1800-tallet ble den brukt i folkemedisinen mot sår hals, øyesmerter og gulsott samt som et sammentrekkende middel."
     },
     sv: {
       description: "En vednedbrytande gelésvamp på levande och dött lövträ som växer enstaka, i grupper eller i täta gyttringar, som en svag parasit och en saprotrof. I snäv bemärkelse är det en europeisk art. Äldre rapporter behandlade den som vitt utbredd över hela den norra tempererade zonen.",
@@ -36622,16 +36611,16 @@ export const CATALOG = [
       notes: "Den er den eneste art i slægten i Europa. En rødlistevurdering fra 2025 placerer arten som ikke truet (Least Concern). Nordamerikanske frugtlegemer, der er henført til dette navn, repræsenterer muligvis ikke den europæiske art, med undtagelse af eksemplarer ved naturaliseret rødgran. Australske indsamlinger med konstant mindre sporer er Tylopilus brevisporus. Frugtlegemer optager cæsium-137 fra forurenet jordbund og udviser kun en begrænset evne til at ophobe polonium-210. Myceliet vokser i axenisk kultur og kan under en 12-timers lyscyklus danne bittesmå, ofte misdannede frugtlegemer med hatte på 0,5–1 cm i bredden, ofte uden stok. Kun få arter i rørhatfamilien (Boletaceae) sætter frugtlegemer uden en vært. Paenibacillus tylopili, isoleret fra mykorrhizosfæren, nedbryder kitin. I Nordamerika kan pukkelfluen Megaselia pygmaeoides angribe frugtlegemerne; i Europa foretrækker denne flue andre rørhatte. Skimmelsvampen Sepedonium ampullosporum kan snylte på dem. På hatkødet farver formaldehyd vævet rosa og jernsalte grågrønt. Kaliumhydroxid farver sædvanligvis hathuden orange."
     },
     no: {
-      description: 'En ektomykorrhizadannende rørsopp i løv- og barskog på sur, mager grunn. Utbredt i Europa og Nord-Amerika, ofte nær råtnende stubber.',
-      cap: 'Hatten er 4–15 cm bred (av og til opptil 18 cm). Den er halvkuleformet til hvelvet, lyst lærbrun, gulbrun til nøttebrun. Overflaten er tørr og filtaktig som ung, og blir glatt med alderen.',
-      hymenium: 'Rørene er 1,5–2 cm dype, dypt utrandede rundt stilken. De er hvite som unge, men blir etter hvert skittent rosa til kjøttrøde etter hvert som sporene modnes. Porene misfarges brunaktig ved trykk.',
-      stipe: 'Stilken er 4–15 cm lang og 1–4 cm tykk, ofte klubbeformet mot basis. Fargen er gulbrun til okerbrun, og overflaten er dekket av et markant, grovt opphøyd mørkebrunt til olivensvart årenett på en lysere bakgrunn.',
-      flesh: 'Kjøttet er hvitt, tykt og mykt, med et svakt rosa skjær like under hatthuden. Det endrer knapt farge ved overskjæring. Lukten er svak, men smaken er intenst og uutholdelig bitter.',
-      sporePrint: 'Kjøttrødt til rosabrunt. Sporene er glatte, spindelformede, 11–15 × 4–5 μm.',
-      habitat: 'Fruktlegemer viser seg fra juli til oktober i sur barskog (furu, gran) og bøkeskog.',
-      uses: 'Ikke matsopp (inedible). På grunn av den overveldende bitre smaken er soppen uspiselig, og en eneste liten bit kan ødelegge et helt soppmåltid. Den er ikke giftig, men helt uspiselige.',
-      confusion: 'Steinsopp (Boletus edulis) forveksles ofte av uerfarne plukkere; steinsopp har hvitt årenett på lys stilk, rør som blir grønngule (aldri rosa) og en mild, nøtteaktig smak.',
-      notes: 'En vurdering fra 2025 plasserer arten som livskraftig (Least Concern).'
+      description: "En ektomykorrhizadannende rørsopp i barskog og blandingsskog på sur mark, som danner mykorrhiza med furu, gran og av og til bøk eller bjørk. Den er vidt utbredt i Europa og tempererte deler av Asia. Nyere undersøkelser viser at nordamerikanske og australske funn under dette navnet for det meste tilhører andre selvstendige arter i slekten Tylopilus.",
+      cap: "Hatten er 4–15 cm bred, av og til opptil 20 cm eller til og med 25 cm. Den er halvkuleformet som ung, deretter hvelvet til puteformet og flatere med alderen. Overflaten er tørr, glatt til fint filtet som ung, senere glatt, og noe klebrig i fuktig vær. Fargen varierer fra blekt lærbrun, gulbrun eller nøttebrun til gråbrun eller mørkebrun. Kanten er innrullet til å begynne med og forblir ofte nedbøyd. Hatthuden er et trikoderm av sammenflettede hyfer med sylindriske til noe klubbeformede ender på cirka 3–8 μm i bredde.",
+      hymenium: "Rørene er cirka 1,5–2 cm dype og kan i midten nå 2–3 cm. De er dypt utrandede ved stilken eller tilvokste og deretter utrandede, til å begynne med hvite eller blekt kremfargede og senere lyserosa, grårosa, kjøttfarget rosa eller korallrosa. De lar seg lett skille fra hattekjøttet. Porene er små og avrundede til kantete, cirka 1–2 per millimeter, hvite, deretter svakt rosa og ved modenhet blekrosa til kjøttfarget rosa. Porer som trykkes blir kjøttfarget brune, rosabrune, karminrøde eller rustbrune. En eldre poreflate utvikler rustfargede flekker og kan bule nedover. Basidiene er klubbeformede og firesporede, cirka 18–26 × 7–10 μm. Pleurocystider er spoleformede, ofte oppsvulmede på midten eller avsmalnende til en liten spiss, tynnveggede, cirka 30–44 × 8–11 μm. Cheilocystider ligner disse, cirka 25–44 × 7–11 μm.",
+      stipe: "Stilken er 4–15 cm lang, sjelden opptil 20 cm, og cirka 1–4 cm tykk. Britiske fruktlegemer er ofte 4–8 × 1–1,8 cm, og sentraleuropeiske kilder oppgir en tykkelse på 2–6 cm, der basisen noen ganger når 6 cm. Unge stilker er bukete eller tønneformede. Modne stilker er klubbeformede til sylindriske, ofte krumme og tykkere mot basis. Toppen er hvitaktig, deretter sitrongul til olivengul, og resten er brunaktig. Et grovt, opphøyd nettverk med store, langstrakte masker, brunt på en blekere bunn, løper vanligvis helt ned til basis. Hvitt mycel dekker basis. Det finnes ingen ring.",
+      flesh: "Kjøttet er hvitt til kremfarget og antar en svakt rosa tone like under hatthuden. Snittflater forblir vanligvis uforandret, selv om de av og til blir svakt lyserosa. Ungt kjøtt er fast. Eldre kjøtt blir mykt, og stilkens kjøtt er trevlet. Lukten er ubetydelig, noen ganger behagelig og noen ganger svakt ubehagelig. Smaken er vanligvis svært bitter, og varmebehandling forsterker denne bitterheten. Insekter angriper sjelden fruktlegemene.",
+      sporePrint: "Lyserosa, leirrosa, kjøttfarget rosa eller brunaktig rosa. Basidiosporene er glatte, spoleformede til smalt spoleformede eller nesten sylindriske, cirka 10–17,5 × 3–5 μm.",
+      habitat: "Fruktlegemene viser seg fra juni til november og i Storbritannia og Irland fra august til november. De vokser enkeltvis eller i små grupper, noen ganger to eller tre sammenvokst ved basis, fra lavlandet opp i fjellet. Sentraleuropeiske funn er hovedsakelig under furu og gran, i blandingsskog eller under løvtrær, på kalkfattig mark. Britiske og irske funn er vanligvis under eik, bøk eller andre løvtrær og bare unntaksvis under bartrær. Jordsmonnet er veldrenert og sandholdig, grusete eller torvaktig, og på kalkbunn er soppen begrenset til fuktige steder med et tykt førnelag. Voksesteder omfatter hulrom i gamle trær, gamle bartrestubber og begravd morkent trevirke. Fruktlegemenes antall følger nedbøren, og tørre perioder tåles godt.",
+      uses: "Bitterheten er tilstrekkelig kraftig til at soppen må regnes som uspiselig, og et enkelt eksemplar kan ødelegge en hel sopprett. Den regnes ikke som giftig. Koking forsterker den bittre smaken. I deler av Frankrike, Romania og det tidligere Øst-Tyskland ble de lagt i bløt eller stuet i skummet melk og deretter spist, eller tørket og finmalt som et krydder. Tørkede fruktlegemer brukes i enkelte land i stedet for pepper. Personer som ikke smaker visse bitre forbindelser, merker kanskje ikke bitterheten. Den spesifikke bitre forbindelsen er ikke endelig identifisert. Betaglukaner fra fruktlegemene var cytotoksiske i laboratorietester og stimulerte fagocytose, og andre ekstrakter hemmet bukspyttkjertellipase eller viste mild antibakteriell aktivitet. Disse laboratorieresultatene utgjør likevel ingen dokumentert medisinsk bruk.",
+      confusion: "Unge fruktlegemer kan ved første øyekast ligne en ung steinsopp (Boletus edulis), som imidlertid har en blek stilk med et hvitt årenett og porer som blir gulgrønne til olivenfargede, ikke rosa. Svartbrun rørsopp (Imleria badia) har gule rør som blåner ved trykk, og mangler et grovt mørkt årenett. Sørlig fløyelsrørsopp (Xerocomus subtomentosus) har gule porer og en spedere stilk. Tylopilus rubrobrunneus vokser med løvtrær i det østlige Nord-Amerika, har en fiolett til purpurbrun hatt og smaker likeledes bittert. Tylopilus variobrunneus har en rødbrun til kastanjebrun hatt, olivetoner som ung, sporer på vanligvis cirka 9–13 × 3–4,5 μm og en mild til svakt bitter smak. Tylopilus rhoadsiae fra det sørøstlige USA har en blekere hatt som forblir mindre, opptil cirka 9 cm. Tylopilus indecisus og Tylopilus ferrugineus har et mindre utpreget årenett på stilken. Tylopilus neofelleus fra løvskoger i Kina, Ny-Guinea, Japan og Taiwan har en vinaktig brun hatt, en rosabrun til vinrød stilk, sporer på cirka 11–14 × 4–5 μm og lengre pleurocystider på cirka 49–107 × 14–24 μm. Australske innsamlinger med gjennomgående mindre sporer tilhører Tylopilus brevisporus.",
+      notes: "Den er den eneste arten i slekten i Europa. En rødlistevurdering fra 2025 bedømmer arten som livskraftig (Least Concern). Nordamerikanske fruktlegemer som har vært ført til dette navnet representerer muligens ikke den europeiske arten, med unntak for eksemplarer ved naturalisert gran. Australske innsamlinger med gjennomgående mindre sporer er Tylopilus brevisporus. Fruktlegemer tar opp cesium-137 fra forurenset jordsmonn og viser bare en begrenset evne til å akkumulere polonium-210. Mycelet vokser i ren kultur og kan under en 12-timers lyssyklus danne ytterst små, ofte misdannede fruktlegemer med hatter på 0,5–1 cm i bredde, ofte uten stilk. Bare et fåtall arter i rørsoppfamilien (Boletaceae) danner fruktlegemer uten en vert. Paenibacillus tylopili, isolert fra mykorrizosfæren, bryter ned kitin. I Nord-Amerika kan pukkelfluen Megaselia pygmaeoides angripe fruktlegemene; i Europa foretrekker denne fluen andre rørsopper. Muggen Sepedonium ampullosporum kan parasittere på dem. På hattekjøttet farger formaldehyd vevet rosa og jernsalter grågrønt. Kaliumhydroksid farger vanligvis hatthuden oransje."
     },
     sv: {
       description: "En ektomykorrhizabildande sopp i barr- och blandskogar på sur mark, som bildar mykorrhiza med tall, gran och ibland bok eller björk. Den är vitt utbredd i Europa och tempererade Asien. Nyare undersökningar visar att nordamerikanska och australiska fynd under detta namn för det mesta tillhör andra självständiga arter i släktet Tylopilus.",
@@ -37416,16 +37405,16 @@ export const CATALOG = [
       notes: "Frugtlegemerne har en jævnt opsvulmet knold og en dobbelt ring. Chlorophyllum brunneum har en skarpt randet knold."
     },
     no: {
-      description: 'En stor saprotrof skivesopp som vokser i næringsrik skogsjord, maurtuer, hager, parker og hekker. Utbredt i Europa og tempererte strøk.',
-      cap: 'Hatten er 5–18 cm bred. Den starter kuleformet til eggformet, og flater ut til hvelvet. Overflaten sprekker opp i store, grove, taggete, tilliggende brune skjell på en hvitaktig bunn, bortsett fra den jevnt brune midten.',
-      hymenium: 'Skivene er frie, tette, brede og hvite, og blir rødlige til brunlige ved skade eller med alderen.',
-      stipe: 'Stilken er 6–20 cm lang og 1–2,5 cm tykk, sylindrisk med en kraftig oppsvulmet knollbasis opptil 5 cm bred. Overflaten er jevnt hvitaktig til gråbrun og glatt, uten det mørke slangeskinnmønsteret som finnes hos stor parasollsopp. Den har en tykk, frynsete, bevegelig dobbeltring.',
-      flesh: 'Kjøttet er tykt og hvitt, men rødner umiddelbart ved overskjæring eller trykk og blir safranrødt til oransjerødt, før det langsomt mørkner til skittent rødbrunt. Lukten og smaken er behagelig nøtteaktig.',
-      sporePrint: 'Hvitt til kremhvitt. Sporene er glatte, ellipsoide, dekstrinoide, 9–12 × 6–7 μm.',
-      habitat: 'Fruktlegemer viser seg fra juli til november i næringsrik humusjord, barskogsstrø, maurtuer og komposthager.',
-      uses: 'Spiselig (god matsopp). Den må varmebehandles grundig. Noen få personer kan få allergilignende magebesvær av denne arten, så måtehold anbefales første gang den prøves.',
-      confusion: 'Stor parasollsopp (Macrolepiota procera) er større, har slangeskinnmønstret stilk og kjøtt som ikke rødner. Giftparasollsopp (Chlorophyllum molybdites) har grønt sporeavtrykk og finnes i subtropiske strøk.',
-      notes: 'Arten ble tidligere plassert i slekten Macrolepiota, men hører nå hjemme i Chlorophyllum.'
+      description: "En stor saprotrof hatttesopp i skoger, hekker og næringsrik, forstyrret mark. Den er vanlig i Storbritannia og Irland og vidt utbredt i Europa og Nord-Amerika, der den oftest påtreffes fra Rocky Mountains og østover. Fruktlegemene vokser enkeltvis, spredt eller i flokker og hekseringer.",
+      cap: "Hatten er 5–18 cm bred. Den begynner som eggformet eller nesten kulerund, blir deretter klokkeformet eller hvelvet og senere utbredt eller meget bredt klokkeformet, ofte med en pukkel (umbo). Den er sjelden helt flat. Overflaten er tørr og myk. En ung hatt er glatt og brun til oransjebrun. Hatthuden sprekker deretter opp i store brune skjell over en hvitaktig, kremfarget eller blekbrun, trevlet bunn. Skjellene er frynsete og taklagte og mørkere enn bakgrunnen, mens midten forblir glatt eller oppsprukket og brun. På midten og på skjellene er pileipellis et trikoderm, og på den bleke, trevlete overflaten er den en cutis. Kaliumhydroksid på hatten er negativ, eller lyserosa på de brune partiene, og ammoniakk er negativ.",
+      hymenium: "Skivene er frie fra stilken, tette og bukete, avsmalnende mot stilken og omkring 12–15 mm brede. Korte mellomskiver er vanlige. De er hvite til kremfargede. Eggene kan bli rødaktige eller brunaktige, og overflatene antar en rødaktig tone ved trykk. Et vattaktig slør dekker dem som unge. Cheilocystidene er klubbeformede til nesten kulerunde, noen ganger med en kort stilk, hyaline og tynnveggede, cirka 15–50 × 10–17,5 μm. Pleurocystider mangler.",
+      stipe: "Stilken er 5–21 cm lang og 1–3,5 cm tykk, med en jevnt oppsvulmet knoll på opptil cirka 5 cm i bredde. Knollen er ikke skarpt kantet. Stilken er klubbeformet til nesten sylindrisk, avsmalnende oppover og hul, og den brekker lett løs fra hattekjøttet. Den er glatt og snau, hvitaktig til kremfarget oppover og brunaktig til rødbrun nedover, og antar en brun eller rød farge ved trykk. Hvitt mycel kan dekke basis. En vattaktig, bevegelig ring sitter i den øvre tredjedelen. Ringen er hvitaktig, med dobbel krage, brunaktig på undersiden og kan gli nedover mot basis.",
+      flesh: "Kjøttet er hvitt og tykt. Gjennomskåret kjøtt farges oransje eller safrangult innen få sekunder, deretter rødt og så rustbrunt. Forandringen er kraftigst nær toppen av stilken. Eldre kjøtt i hatten er vattaktig, og kjøttet i stilken er nesten treaktig. Lukten er behagelig og soppaktig, noen ganger sterkt aromatisk. Smaken er ikke-karakteristisk eller behagelig soppaktig, og mindre fin enn hos stor parasollsopp (Macrolepiota procera). Beskrivelser av soppen under dette navnet angir denne lukten. Den opprinnelige beskrivelsen angir en ubehagelig smak og lukt.",
+      sporePrint: "Hvitt til blekt kremfarget. Sporene er glatte, fargeløse og dekstrinoide, med en spirepore, cirka 8–13 × 5–8 μm. De er ellipsoide til bredt ellipsoide, samt kulerunde, pæreformede eller noe mandelformede, noen ganger med en tvert avskåret ende.",
+      habitat: "I Storbritannia og Irland opptrer fruktlegemene fra juni til oktober, i Sentral-Europa fra juli til november og i Nord-Amerika fra vår til høst. De vokser i skoger av alle slag, oftere under løvtrær, på rikere mark og ikke i et dypt førnelag. De vokser også i hekker, på humusrik forstyrret jord, plener, hager, veikanter og grøftekanter, ofte nær gran. I det sørlige Slovakia er de lokalt tallrike under robinia. De vokser enkeltvis, spredt eller i flokker og hekseringer, i lavlandet og på åser.",
+      uses: "Den tilberedes og spises i stor utstrekning og er mindre verdsatt enn stor parasollsopp (Macrolepiota procera). Den har også forårsaket alvorlige mage-tarm-forgiftninger. En del av de rapporterte tilfellene regnes som en individuell overfølsomhet, og enkelte kilder fraråder i dag inntak. Den ble i 2023 strøket fra den tsjekkiske listen over handelssopper.",
+      confusion: "Stor parasollsopp (Macrolepiota procera) har mindre skjell og et brunt og hvitt slangeskinnsmønster på stilken, og kjøttet rødmer ikke. Giftparasollsopp (Chlorophyllum brunneum) har en skarpt kantet knoll ved stilkbasis, en enkel ring i stedet for en dobbel ring og en kortere, tykkere stilk. Den vokser i hager, på kompost og gjødslet mark. Dens sporer er gjennomgående tvert avskåret, og dens cheilocystider er lengre og smalere. Mørk parasollsopp (Chlorophyllum olivieri) har skjell som ikke kontrasterer mot hattens gråbrune bunn. Den er vanlig i barnåler, knollen er mindre utviklet og sporene er en anelse mindre, cirka 8–11 × 5–7 μm. Grønnsporet parasollsopp (Chlorophyllum molybdites) har grønne skiver og et grønt sporeavtrykk ved modenhet og er giftig. Kongesjampinjong (Agaricus augustus) kan ligne den i felt og har et mørkebrunt eller purpurbrunt sporeavtrykk.",
+      notes: "Fruktlegemene har en jevnt oppsvulmet knoll og en dobbel ring. Chlorophyllum brunneum har en skarpt kantet knoll."
     },
     sv: {
       description: "En stor saprotrof hattsvamp i skogar, häckar och näringsrik, störd mark. Den är allmän i Storbritannien och Irland och vitt utbredd i Europa och Nordamerika, där den oftast påträffas från Klippiga bergen och österut. Fruktkropparna växer enstaka, utspridda eller i flockar och häxringar.",
@@ -38205,16 +38194,16 @@ export const CATALOG = [
       notes: "En vurdering fra 2025 klassificerer arten som livskraftig (Least Concern). Den danner ektomykorrhiza med fyrrefamilien over hele den nordlige halvkugle. Australske fund tilhører Russula persanguinea. Visse sydamerikanske fund er blevet behandlet med forsigtighed. Nordamerikanske fund er usikre, og nogle tilhører andre arter."
     },
     no: {
-      description: 'En ektomykorrhizadannende kremle i fuktig barskog og torvmyrer, særlig under gran og furu i sphagnum-mose. Utbredt over hele den nordlige halvkule.',
-      cap: 'Hatten er 3–10 cm bred, halvkuleformet som ung og flater ut med et svakt nedsunket sentrum. Fargen er skinnende knallrød til skarlagensrød, og kan blekne til rosa i regnvær. Hatthuden er klebrig og glatt, og kan lett flås av nesten inn til midten.',
-      hymenium: 'Skivene er tette til middels fjerne, frie til svakt tilvokste, rent hvite og beholder hvitfargen uten å gulne.',
-      stipe: 'Stilken er 4–9 cm lang og 1–2 cm tykk, rent hvit, sylindrisk og sprø med osteaktig konsistens.',
-      flesh: 'Kjøttet er hvitt, sprøtt, med et svakt rødlig skjær like under hatthuden. Lukten er behagelig fruktig, men smaken er brennende skarp og pepperaktig.',
-      sporePrint: 'Rent hvitt. Sporene er bredt ovale, piggete, 8–10,5 × 7–8,5 μm.',
-      habitat: 'Fruktlegemer viser seg fra juli til oktober på våte steder, torvmose og i kanten av myrer i barskog.',
-      uses: 'Giftig. Soppen forårsaker akutt mage- og tarmirritasjon med kvalme, oppkast og diaré dersom den spises rå eller utilstrekkelig tilberedt. Den brennende skarpe smaken gjør den uansett uspiselige.',
-      confusion: 'Bøkekremle (Russula nobilis) vokser med bøk, forblir mer hvelvet som moden, har fastere kjøtt, og hatthuden kan bare flås av omtrent en tredjedel inn mot midten. Furukremle (Russula silvestris) er litt mindre skarp og vokser på tørrere grunn under eik og furu. Bjørkekremle (Russula betularum) er mindre og skjørere, den rosa hatten blekner raskt, og den vokser vanligvis med bjørk. Vasskremle (Russula aquosa) vokser i myr og kjøttet er nesten mildt. Storkremle (Russula paludosa) deler fuktige voksesteder i barskog, er høyst svakt skarp i unge skiver, har rødlig stilk og lyst oker sporeavtrykk. Blodkremle (Russula sanguinaria) har rødlig skjær på stilken. Gullkremle (Russula aurea) har gult i stilk, skiver og kjøtt. Peppertannkremle (Russula badia) har rødbrun hatt, harpiksaktig lukt, fastere kjøtt, forsinket skarp smak og oker til gult sporeavtrykk. Skjørkremle (Russula fragilis) har utrandede skiver og stilken blåner med naftol. Fjellkremle (Russula nana) vokser i arktiske og alpine heier med dvergbjørk eller rypebær.',
-      notes: 'Det latinske artsnavnet emetica henviser til dens brekningsfremkallende egenskaper.'
+      description: "En ektomykorrhizadannende sopp i fuktige barskoger og torvmosemyrer (Sphagnum), oftest med gran og furu. Den er vidt utbredt i Europa fra Middelhavet til det nordlige Fennoskandia, inkludert Storbritannia og Irland, og har blitt rapportert fra Nord-Afrika, Nord-Asia og deler av Nord- og Mellom-Amerika.",
+      cap: "Hatten er vanligvis 3–10 cm bred, og enkelte kilder angir fra 2,5 cm. Den er halvkuleformet, deretter hvelvet og senere utbredt og grunt nedsunket, noen ganger med en lav pukkel (umbo). Overflaten er glatt, klebrig i fuktig vær og glinsende. Den er skarlagenrød til kirsebærrød, noen ganger mørkere i midten og sjeldnere lyserosa. Pigmentet er vannløselig og blekner til rosa, oransje eller hvite flekker. Kanten forblir lenge glatt og blir senere kort stripet over cirka 2–7 mm samt kan være bølget eller ujevn. Hatthuden kan ifølge enkelte kilder flås av opptil omtrent halvparten og ifølge andre over to tredjedeler til nesten midten, ofte nesten fullstendig. Kjøttet under hatthuden er lyserosa. Hatthuden bærer pileocystider på cirka 4,5–14 μm i bredde med ett til tre septa, som skifter farge i sulfobenzaldehyd og sulfovanillin.",
+      hymenium: "Skivene er hvite til blekt kremfargede, selv om modne skiver noen ganger beskrives som dypere kremgule. De er tette og senere av og til en anelse glisnere, tynne og sprø, cirka 4–9 mm høye, smalt tilvokste til frie, noen ganger utrandede og unntaksvis svakt nedløpende. Noen er gaffeldelte, det forekommer korte mellomskiver, og de kan være forbundet av tverribber (anastomoser). Skiveggen er glatt. Basidiene er klubbeformede og firesporede, cirka 38–50 × 11–13 μm hos europeiske fruktlegemer og cirka 33–50 × 9–11,6 μm i en nordamerikansk kilde under dette navnet. Cheilocystidene er spoleformede. De europeiske er cirka 35–75 × 7–12 μm og knapt eller ikke innsnørte ved spissen, mens en nordamerikansk kilde oppgir betydelig kortere cystider, cirka 14–24 × 4,4–7,3 μm. Pleurocystidene er cirka 55–100 × 10–14 μm i en europeisk kilde og cirka 35–88 × 7,3–12,4 μm i en nordamerikansk kilde. Cystidene skifter farge i sulfobenzaldehyd og sulfovanillin. Klemmebøyler mangler.",
+      stipe: "Stilken er hvit, tørr og glinsende, noen ganger svakt lengdestripet, og kan gulne en anelse, særlig ved basis. Den er sylindrisk eller noe klubbeformet og mangler ring. Europeiske fruktlegemer er vanligvis cirka 4–10 cm lange og 1–2,5 cm tykke, og publiserte yttergrenser spenner fra cirka 3 cm til cirka 10,5 cm i lengde og ned til cirka 0,7 cm i tykkelse. Til å begynne med er den fast og massiv, senere svampete eller delvis hul.",
+      flesh: "Kjøttet er hvitt og sprøtt, raskt svampete, lyserosa under hatthuden og kan gulne svakt med alderen. Ved gjennomskjæring endrer det ikke farge. Lukten er svak og fruktig eller lett krydret og kan nesten mangle. Smaken er umiddelbart og intenst brennende skarp. Jernsulfat farger kjøttet lyserosa, fenol brunt, og guajak er negativ eller nesten negativ.",
+      sporePrint: "Hvitt til meget blekt kremfarget. Sporene er nesten kulerunde til bredt ellipsoide, cirka 7,4–11 × 6,5–9 μm, med et lengde-bredde-forhold på cirka 1,1–1,3. De bærer grove amyloide vorter, overveiende kjegleformede og opptil cirka 1,2 μm høye, som i stor utstrekning er forbundet i et nettmønster. Apiculus er cirka 1,5–1,62 × 1,25 μm, og den amyloide hilære flekken er uregelmessig, cirka 3 × 3,75 μm.",
+      habitat: "I Sentral-Europa opptrer fruktlegemene fra juni til oktober, i Tyskland fra juli til november og i Storbritannia og Irland fra august til oktober. De vokser enkeltvis eller i grupper på fuktig til gjennombløt sur mark i barskoger, særlig med gran og furu, ofte i mose, i torvmosemyrer og på fuktige heier. Av og til påtreffes de på humus eller på sterkt morkent trevirke.",
+      uses: "Rå eller utilstrekkelig varmebehandlede fruktlegemer forårsaker kvalme, oppkast, krampaktige magesmerter og diaré, vanligvis innen en halv time til tre timer og noen ganger innen cirka en time. Forgiftningen er overveiende av gastrointestinal karakter. Ekstreme tilfeller omfatter kramper og koma, og et dødelig utfall er usannsynlig unntatt hos svekkede, immunsvekkede eller svært unge personer. De lokalirriterende stoffene anses å være seskviterpener, deriblant laktarorufin A, furanodiol, metoksyfuranalkohol og en navnløs forbindelse. Koking eller marinering, slik det praktiseres i Russland og Øst-Europa, sies å fjerne den peprede smaken og en stor del av giftigheten, og grundig avkoking oppgis likeledes å ødelegge toksinene. Den brennende skarpe smaken har også fått enkelte kilder til ganske enkelt å betegne soppen som uspiselig.",
+      confusion: "Bøkekremle (Russula nobilis) vokser under bøk, forblir mer hvelvet ved modenhet, har fastere kjøtt og hatthuden kan bare flås av opptil omtrent en tredjedel eller bare ved kanten. Furu-giftkremle (Russula silvestris) er en anelse mindre skarp og vokser på tørrere sandmark under eik og furu. Bjørkegiftkremle (Russula betularum) er mindre og sprørere, dens lyserosa hatt blekner raskt, sporene er en anelse større og den vokser vanligvis med bjørk. Vasskremle (Russula aquosa) vokser i torvmosemyrer og kjøttet dens er nesten mildt. Storkremle (Russula paludosa) deler de fuktige barskogsmiljøene, er på det meste svakt skarp i de unge skivene, har vanligvis en rødaktig tone på stilken og et blekt okerfarget sporeavtrykk. Blodkremle (Russula sanguinaria) har en rødaktig tone på stilken. Gullkremle (Russula aurea) har gul farge på stilken, på skiveggene og i hattekjøttet. Pepparkremle (Russula badia) har rødbrun hatt, en sedertreaktig lukt, fastere kjøtt, en forsinket brennende skarp smak, okergult til gult sporeavtrykk og en stilk som noen ganger har en rosa tone. Skjørkremle (Russula fragilis) har fint hakkede skivegger og stilken dens farges blå med naftol. Fjellkremle (Russula nana) vokser på arktiske og alpine heier med dvergvier eller rypebær. I det østlige og nordlige USA har Russula rugulosa en rynket, vortete hatthud, kremfargede sporer og en mild smak.",
+      notes: "En vurdering fra 2025 klassifiserer arten som livskraftig (Least Concern). Den danner ektomykorrhiza med furufamilien (Pinaceae) over hele den nordlige halvkule. Australske funn tilhører Russula persanguinea. Visse søramerikanske funn har blitt behandlet med forsiktighet. Nordamerikanske funn er usikre, og enkelte tilhører andre arter."
     },
     sv: {
       description: "En ektomykorrhizabildande svamp i fuktiga barrskogar och vitmosskärr (Sphagnum), oftast med gran och tall. Den är vitt utbredd i Europa från Medelhavet till norra Fennoskandien, inklusive Storbritannien och Irland, och har rapporterats från Nordafrika, Nordasien och delar av Nord- och Centralamerika.",
@@ -39003,16 +38992,16 @@ export const CATALOG = [
       notes: "Nogle forfattere skelner fortsat en mere robust, puklet klitform i afventning af en revision af komplekset. Japansk materiale af denne klitform ligger i en særskilt klade, adskilt fra europæiske frugtlegemer af arten og fra europæisk materiale under samme navn. Nordamerikanske fund dækker over forskellige økosystemer, og forgiftninger er ikke rapporteret dér. Materiale fra vestkysten benævnt Tricholoma flavovirens kan omfatte mere end én art. Tricholoma ulvenii er lysere citrongul med lidt mindre sporer og bredere hyfer i lameltramaet, og nordeuropæiske ITS-sekvenser adskiller den ikke fra denne art. I Tyskland er arten fredet mod indsamling. En vurdering fra 2016 klassificerer den som ikke truet (Least Concern). Den polske rødliste placerer den i kategori I (ubestemt truet)."
     },
     no: {
-      description: 'En ektomykorrhizadannende musserong knyttet til furutrær på mager sandjord. Utbredt i Europa og Nord-Amerika.',
-      cap: 'Hatten er 4–12 cm bred, hvelvet til flat, ofte med en bred, butt pukkel. Fargen er lysende svovelgul til grønngul med små rødbrune til olivenbrune skjell mot midten. Hatthuden er klebrig i fuktig vær og overstrødd med sandkorn.',
-      hymenium: 'Skivene er svovelgule til sitrongule, tette, utrandet festet til stilken, og forblir gule.',
-      stipe: 'Stilken er 3–8 cm lang og 1–2,5 cm tykk, kraftig, sylindrisk, blekgul til svovelgul, og glatt til fint trådet.',
-      flesh: 'Kjøttet er hvitt til blekgult i hatten og rent gult under hatthuden. Lukten og smaken er utpreget melet.',
-      sporePrint: 'Hvitt. Sporene er glatte, ellipsoide, inamyloide, 6–8 × 4–5 μm.',
-      habitat: 'Fruktlegemer viser seg fra september til november i sandete furuskoger og kystdyner.',
-      uses: 'Giftig (tidligere regnet som en god matsopp). Gjentatt inntak over flere påfølgende måltider har vist seg å kunne utløse alvorlig rabdomyolyse (akutt nedbrytning av skjelettmuskulatur), som har ført til dødsfall i Frankrike og Polen. Soppen frarådes nå fullstendig som matsopp.',
-      confusion: 'Svovelmusserong (Tricholoma sulphureum) er helt svovelgul, har fjerne skiver og en motbydelig lukt av lysgass eller kjemikalier. Grønnkremle har sprøtt kjøtt og mangler mel-lukt.',
-      notes: 'Den historiske statusen som høyt skattet delikatesse ble brått endret etter de veldokumenterte forgiftningsepisodene rundt årtusenskiftet.'
+      description: "En kjøttfull ektomykorrhizadannende sopp i sandige furuskoger, som ofte vokser i grupper eller hekseringer, med fruktlegemer halvt begravd i sand, mose eller barnåler. Den er hjemmehørende i hele den tempererte sonen på den nordlige halvkule, i Europa og Nord-Amerika, og har blitt rapportert fra Asia og Mellom-Amerika.",
+      cap: "Hatten er 4–15 cm bred. Den er hvelvet, halvkuleformet eller bredt kjegleformet, med en lenge innrullet kant, senere utbredt, bølget eller svakt nedsunket, ofte med en lav, bred pukkel (umbo). Fargen spenner fra sitrongult, kromgult og gulgrønt til honninggult, brungult eller olivenbrunt, og midten er mørkere brun. Tiltrykte oransjebrune til umbrabrune skjell eller tråder ligger i midten, uten fremtredende svartaktige radielle tråder. Overflaten er fuktig klebrig og hurtigtørkende samt er vanligvis dekket av sand. Partier som har ligget under strø forblir blekere. Hatthuden kan flås av. Kilder beskriver enten en cutis som går over i et trikoderm med sylindriske hyfer på cirka 20–45 × 2–7 μm, sylindriske eller klubbeformede ender og brunt pigment, eller en glattere ixocutis av hyfer på 2,5–5 μm i bredde, som i kaliumhydroksid er hyaline til rødaktige. Kaliumhydroksid gir intet fargeskifte på hatten. Klemmebøyler mangler i hele fruktlegemet.",
+      hymenium: "Skivene er utrandede til smalt tilvokste, ofte med en liten tann, og er moderat glisne til tette, oftest middels tette. De er blekgule til klart svovelgule og noen ganger gulgrønne eller guloransje. Mellomskiver er tallrike. Skiveggen er vanligvis glatt og kan være fint sagtannet samt forblir gul. Basidiene er oftest firesporede, 25–40 × 6–10 μm, og mangler en basal klemmebøyle. Cystider mangler.",
+      stipe: "Stilken er 3–10 cm lang og 0,6–3 cm tykk. Den er massiv, sylindrisk og ofte klubbeformet eller noe utvidet nedentil, noen ganger avsmalnende. Ring mangler. Overflaten er hvitaktig til blekt gul øverst og mer intensivt kromgul, svovelgul, gulgrønn eller brungul nedover. Den er langstrådet, nesten glatt og bærer noen ganger meget små oransjebrune skjell. Basisen kan ha en fiolett tone. Det basale mycelet er hvitt til blekgult og ofte vanskelig å se under sand og barnåler. Stilken sitter ofte nesten helt nede i bakken, og basisen kleber til sandkorn.",
+      flesh: "Kjøttet er tykt og kompakt. Det er hvitt til blekt gult, sitrongult under hatthuden og lysere enn overflaten. Ved gjennomskjæring endrer det ikke farge. Lukten er svak. Den er ofte melaktig, som nymalt mel, og sterkere i gjennomskåret kjøtt, selv om enkelte fruktlegemer bare har en svak lukt. Smaken er mild og melaktig, eller søtlig og nøtteaktig, og har også blitt beskrevet ganske enkelt som soppaktig.",
+      sporePrint: "Hvitt. Sporene er ellipsoide, glatte og hyaline, med en tydelig apiculus, ikke-amyloide, 5–9,5 × 3–6 μm. Lengde-bredde-forholdet er cirka 1,1–2,0, vanligvis nær 1,5–1,6.",
+      habitat: "Fruktifiseringen strekker seg fra juli til desember. I Storbritannia og Irland varer den fra juli til oktober, i Skandinavia tidligere og i Sør-Europa senere. I Slovakia pågår den fra slutten av september til begynnelsen av desember og i Polen fra september til senhøsten med en topp etter den første frosten. I Sibir varer den fra juli til oktober. I Nord-Amerika danner den fruktlegemer om sommeren og høsten. Den danner ektomykorrhiza med furu, særlig på meget næringsfattig sandjord, ofte i grupper eller hekseringer. Fruktlegemene sitter ofte nesten skjult under mose, furunåler eller sand, slik at bare en del av hatten er synlig. I Storbritannia forekommer den av og til med bjørk og eik. I Nord-Skottland er den vanlig under furu og i Sør-Storbritannia og Irland sjelden. Sibirske funn fra mørke barskoger og edelgranskoger kan tilhøre Tricholoma frondosae.",
+      uses: "Den ble lenge plukket og solgt som en god matsopp, og visse regionale kilder verdsetter den fremdeles høyt – en vurdering som i dag er sterkt omstridt. Ved inntak i store mengder har den forårsaket rabdomyolyse (nedbrytning av muskelvev). Tolv franske tilfeller mellom 1992 og 2000 omfattet tre dødsfall, og senere tilfeller er kjent fra Polen og andre steder. Giftstoffet er ukjent. Omsetning er forbudt i Frankrike. I Tyskland lyder den offisielle anbefalingen at den ikke bør spises. Et polsk forsøk fra 2018 med et enkelt stekt måltid på 300 g hos ti frivillige fant ingen effekt, og salg er der fortsatt tillatt i henhold til en forskrift fra 2008, men nyere oversikter fraråder sanking.",
+      confusion: "Svovelridderhatt (Tricholoma sulphureum) mangler hattens brunolivenfargede midt, har glisne skiver, en smalere stilk, svovelgult kjøtt og en sterk, ubehagelig lukt av lysgass eller svovel. Seig riddermusserong (Tricholoma sejunctum) har hvite til svakt gulaktige skiver, mørke radielle tråder og en bitter eller skarp smak. Tricholoma subsejunctum og grønngul ridderhatt (Tricholoma viridilutescens) har likeledes hvite skiver og vokser i blandingsskog. Bitter ridderhatt (Tricholoma aestuans) har en mer kjegleformet hatt og en utpreget brennende skarp smak, med hvitaktig kjøtt og en ubetydelig lukt, samt vokser i fjellstrøk under bartrær. Ospemusserong (Tricholoma frondosae) er mer intensivt gulolivenfarget, slankere, med mer fremtredende skjell på hatten og mindre sporer, samt foretrekker poppel og osp på rikere jordsmonn, mens riddermusserong (Tricholoma equestre) vokser på meget mager sandmark under furu. Tricholoma chrysophyllum vokser med steineik og har en svakt skjellet stilk samt en mer olivengrønn, mer skjellet hatt. Tricholoma arvernense kan ha lignende brune, sennepsgule og gulgrønne hattetone og noen ganger vokse i samme skoger, men dens skiver er hvite uten gult. Grønn fluesopp (Amanita phalloides) har hvite skiver, en slire (volva), vanligvis en ring og en kvalmende søtlig lukt. Entoloma luridum i det øvre Midtvesten og østlige Nord-Amerika deler habitatet, men modne skiver og sporeavtrykk er brunrosa, og lukten er ikke melaktig.",
+      notes: "Enkelte forfattere skiller fremdeles ut en mer robust, pukkelbærende form i påvente av en revisjon av komplekset. Japansk materiale av denne formen ligger i en separat klade, skilt fra europeiske fruktlegemer av arten og fra europeisk materiale under samme navn. Nordamerikanske funn dekker ulike økosystemer, og forgiftninger har ikke blitt rapportert derfra. Materiale fra vestkysten kalt Tricholoma flavovirens kan omfatte flere arter. Tricholoma ulvenii er lysere sitrongul med noe mindre sporer og bredere hyfer i skivenes trama, og nordeuropeiske ITS-sekvenser skiller den ikke fra denne arten. I Tyskland er arten fredet mot plukking. En vurdering fra 2016 klassifiserer den som livskraftig (Least Concern). Den polske rødlisten plasserer den i kategori I (ubestemt truet)."
     },
     sv: {
       description: "En köttig ektomykorrhizabildande svamp i sandiga tallskogar, som ofta växer i grupper eller häxringar, med fruktkroppar halvt begravda i sand, mossa eller barrförna. Den är hemmahörande i hela den tempererade zonen på norra halvklotet, i Europa och Nordamerika, och har rapporterats från Asien och Centralamerika.",
@@ -39834,16 +39823,16 @@ export const CATALOG = [
       notes: "En vurdering fra 2019 klassificerer arten som livskraftig (Least Concern). Frugtlegemerne ophober cadmium, bly, kviksølv og selen og har været anvendt som indikator for jordforurening. Frugtlegemer indsamlet i 1977 fra græsbevokset jord langs en motorvej i Connecticut indeholdt høje koncentrationer af cadmium og bly. Lycoperdinsyre er blevet isoleret fra frugtlegemerne."
     },
     no: {
-      description: 'En saprotrof røyksopp i løv- og barskog, parker og beiter. Svært vanlig over hele verden.',
-      cap: 'Fruktlegemet er 2–8 cm bredt og 3–9 cm høyt, pæreformet eller omvendt kjegleformet, med en markant steril stilkdel nederst. Overflaten er hvit til kremhvit og dekket av tette, kjegleformede pigger og vorter, som faller av ved berøring og etterlater et fint nettverksmønster på den indre hinnen.',
-      hymenium: 'Sporene dannes inne i fruktlegemet i glebaen. Ved modning åpner toppen seg i et lite rundt hull (pore), hvorfra sporemassen pustes ut som en røyksky når regndråper eller dyr treffer utsiden.',
-      stipe: 'Den sterile basaldelen fungerer som en stilk og er hvitaktig og svampete innvendig.',
-      flesh: 'Glebaen er hvit, fast og elastisk som ung. Ved sporemodning blir den gulgrønn, deretter olivenbrun og til slutt et tørt, brunt sporepulver. Lukten er svak og smaken mild.',
-      sporePrint: 'Olivenbrunt. Sporene er kulerunde, vortete, 3,5–4,5 μm i diameter.',
-      habitat: 'Fruktlegemer viser seg fra juli til november, enkeltvis eller i grupper på skogbunnen eller på råtnende trevirke.',
-      uses: 'Spiselig (spiselig). Kun unge fruktlegemer der glebaen fortsatt er helt ren, hvit og fast innvendig, kan spises. Den ytre vortete huden skrelles ofte av før steking i smør.',
-      confusion: 'Stankrøyksopp (Lycoperdon nigrescens) har mørkebrune til svarte pigger og lukter ubehagelig. Fluesopper i eggstadiet har skiver og hattform innvendig når de snittes på tvers.',
-      notes: 'Det vitenskapelige navnet perlatum betyr \'perlekledd\' og viser til de perlelignende vortene på overflaten.'
+      description: "En saprotrof sopp i skogstrø og på gresskledde steder. Den er vanlig i hele Europa, inkludert Storbritannia, Irland og Slovakia, og i tempererte Nord-Amerika fra Alaska til Mexico, samt har blitt rapportert fra deler av Asia, Afrika, Australia, New Zealand, Sør-Amerika, Grønland og Island.",
+      cap: "Fruktlegemet er pæreformet eller klubbeformet, noen ganger nesten rundt, med et avrundet eller avflatet hode på en smalere steril basis. Den er vanligvis 2–6 cm bred og 4–9 cm høy. Publiserte mål spenner fra cirka 1,5 cm i bredde og 3 cm i høyde opptil cirka 7 cm i bredde og 10 cm i høyde, og det fertile hodet er cirka 2–5 cm bredt. Unge fruktlegemer er hvite til kremfargede. Hodet er dekket av korte, faste, kjegleformede pigger/vorter på cirka 1 mm i høyde, ofte med mindre vorter eller korn rundt de større. Vortene er hvitaktige, grå eller brune, og spissene er ofte okerfargede eller brune. De faller av og etterlater runde arr, ofte i et nettmønster som er tydeligst på hodet og svakere mot basis. Overflaten gulner deretter til oker, gråbrunt eller olivenbrunt. I toppen åpner det seg en liten pore. Den ytre veggen er papirtynn.",
+      hymenium: "Glebaen fyller hodet. Som ung er den hvit og fast, og dens små kamre er kledd med hymeniet. Deretter gulner den til gult og olivenfarget samt blir myk, og ved modenhet er den et olivenbrunt til mørkebrunt pulver. Poren i toppen slipper ut pulveret. Skiver mangler. Basidiene er firesporede. Europeiske innsamlinger har korte klubbeformede basidier på cirka 7–10 × 4–5 μm med ulikt lange sterigmer på cirka 5–10 μm. Nordamerikanske innsamlinger beskrives med mindre, nesten runde basidier på cirka 5–6 × 5–6 μm og sterigmer på cirka 3 μm i lengde. Capillitiet er gulbrunt til brunt, uten tverrvegger, cirka 2–7,5 μm bredt, med spredte porer.",
+      stipe: "Den sterile basisen utgjøres av en bred, skaftlignende stilkdel, ikke en egentlig slank stilk. Som ung er den hvit og svampete eller margaktig, og de små vortene på den er mindre enn på hodet. Den er cirka 1,2–2,2 cm tykk. Med alderen gulner, brunfarges eller gråbrunes den og blir stående igjen etter at sporpulveret har blåst bort. Tynne hvite mycelstrenger forbinder den med jorden.",
+      flesh: "Den unge glebaen og den sterile basisen er begge hvite. Glebaen er fast, og basisen er svampete eller bomullsaktig. Ferskt kjøtt er mildt eller behagelig soppaktig, og visse beskrivelser betegner både lukt og smak som krydret. Lukten kan også være så kraftig at det er best å ikke blande soppen med andre arter. Så snart det indre blir gult, olivengrønt eller brunt, lar man fruktlegemet stå i fred.",
+      sporePrint: "Spormassen er olivenbrun og blir mørkebrun. Den blir værende i glebaen inntil den blåses ut gjennom poren. Sporene er kulerunde, tykkveggede og fint vortete. Europeiske sporer er cirka 3,5–4,5 μm i diameter, innenfor et bredere publisert intervall på 3–4,5 μm. Nordamerikanske innsamlinger måler cirka 4–5 μm og fremtrer som grønngule i kaliumhydroksid.",
+      habitat: "Fruktlegemene viser seg fra juni til november i store deler av Europa, fra juli til november i Storbritannia og Irland og i Polen helt inn i desember. I tempererte Nord-Amerika opptrer de fra senvåren til høsten og i varme klima gjennom hele vinteren. Soppen er saprotrof på jord, løvførne og barnåler og bare sjelden på sterkt morkent trevirke. Den vokser i bar- og løvskoger, inkludert bøkeskoger og eik-agnbøkskoger, samt i kratt, på heier, i parker, på enger og langs veier, noen ganger i gress eller på sanddyner. Fruktlegemene står enkeltvis, spredt eller i grupper og knipper og noen ganger i hekseringer. I Slovakia er det den vanligste arten i slekten og vokser i alle skogtyper.",
+      uses: "Bare fruktlegemer der det indre fremdeles er rent hvitt og fast spises. Den seige ytterveggen flås av. Så lenge det indre er hvitt kan soppen spises rå, stekes raskt gyllenbrun i smør eller brukes i omeletter eller supper. Ved tilberedning setter kjøttet seg og hardner noe. Den kan også stues. Så snart det indre er gult, olivengrønt eller brunt, skal den ikke spises. Vurderingene av smaken varierer: enkelte kaller den velsmakende, og lukten kan være for gjennomtrengende til å blandes med andre sopper.",
+      confusion: "Klypperøyksopp (Apioperdon pyriforme) har få eller ingen tydelige pigger, vokser på morken ved og etterlater ikke noe nettmønster når kornene faller av. Begravd ved kan få den til tilsynelatende å vokse på bakken. Piggkøllerøyksopp / piggrøyksopp (Lycoperdon echinatum) er mørkere, ofte med en rødaktig tone, og har mye lengre pigger. Svartnende røyksopp (Lycoperdon nigrescens) er mørkere; dens pigger sitter i grupper med spisser som bøyer seg mot hverandre, de er sammensatte og etterlater intet nettmønster. Skogrøyksopp (Lycoperdon umbrinum) har mykere, tynnere pigger som ikke etterlater arr; dens modne gleba er mørkebrun til purpurbrun, og basisen har en fiolett tone. Flakrøyksopp (Lycoperdon marginatum) feller sine pigger i uregelmessige flak. Stilkrøyksopp (Lycoperdon excipuliforme) er større og gråere; dens finere pigger etterlater intet mønster, og ved modenhet brytes den øvre delen helt ned. Slørrøyksopp (Lycoperdon mammiforme) sprekker opp i store kremfargede skjell i stedet for korte kjegleformede pigger. Vanlig potetrøyksopp (Scleroderma citrinum) har en tykk peridievegg, og det indre begynner som lysegrått for raskt å bli marmorert purpursvart til svart. En ung fluesopp (Amanita), deriblant rød fluesopp (Amanita muscaria) og grønn fluesopp (Amanita phalloides), viser ved et vertikalt snitt anlegg til hatt, skiver og en slire; denne soppen mangler helt skiveanlegg.",
+      notes: "En vurdering fra 2019 klassifiserer arten som livskraftig (Least Concern). Fruktlegemene akkumulerer kadmium, bly, kvikksølv og selen og har blitt brukt som indikator for jordforurensning. Fruktlegemer samlet inn i 1977 fra gressbevokst mark langs en motorvei i Connecticut inneholdt høye konsentrasjoner av kadmium og bly. Lykoperdinsyre har blitt isolert fra fruktlegemene."
     },
     sv: {
       description: "En saprotrof svamp i skogsförna och på gräsbevuxna platser. Den är allmän i hela Europa, inklusive Storbritannien, Irland och Slovakien, och i tempererade Nordamerika från Alaska till Mexiko, samt har rapporterats från delar av Asien, Afrika, Australien, Nya Zeeland, Sydamerika, Grönland och Island.",
@@ -40641,16 +40630,15 @@ export const CATALOG = [
       confusion: "Hvidstokket skælrørhat (Leccinum albostipitatum) har stokskæl, der er hvide som unge og først senere rødmer, samt en mere rent orange hat. Den vokser med bævreasp og poppel. Orange skælrørhat (Leccinum versipelle) vokser med birk, har en orange til gulokker hat og grove sorte skæl fra starten samt anløber blågrønt til sortagtigt i stokbasis. Ræverød skælrørhat (Leccinum vulpinum) vokser med fyr, og gran-skælrørhat (Leccinum piceinum) vokser med gran og har grå porer som ung. Ikke alle fremstillinger opretholder disse nåletræs-arter som adskilte. I Nordamerika vokser Leccinum insigne med bævreasp eller birk, og Leccinum atrostipitatum vokser med birk."
     },
     no: {
-      description: 'En stor, kraftig ektomykorrhizadannende rørsopp knyttet til eiketrær. Utbredt i løvskog i Europa på næringsrik og kalkholdig grunn.',
-      cap: 'Hatten er 6–20 cm bred, halvkuleformet til hvelvet, rødbrun, kobberrød til teglsteinsoransje. Overflaten er tørr og filtaktig som ung.',
-      hymenium: 'Rørene er lange, 1–2,5 cm, innsunket rundt stilken, kremhvite som unge og mørkner til brungrått. Porene er bittesmå og flekkes mørkt ved berøring.',
-      stipe: 'Stilken er 8–20 cm lang og 2–5 cm tykk, kraftig, hvitaktig, og fra tidlig av tett besatt med rødbrune skjell (skrubber) som mørkner til nesten svarte mot basis med alderen.',
-      flesh: 'Kjøttet er tykt, fast og hvitt. Ved overskjæring anløper det først vinrødt til lillagrått, og mørkner deretter til blåsvarte toner. Lukten og smaken er mild og god.',
-      sporePrint: 'Olivenbrunt til okerbrunt. Sporene er spindelformede, glatte, 13–17 × 4–5 μm.',
-      habitat: 'Fruktlegemer viser seg fra juli til oktober i løvskog under eiketrær (Quercus).',
-      uses: 'Spiselig (spiselig). Den må gjennomkokes eller gjennomstekes grundig i minst 15–20 minutter for å unngå magebesvær. Kjøttet sverter ved varmebehandling, men har en utmerket, fast konsistens.',
-      confusion: 'Ospeskrubb (Leccinum albostipitatum) har hvite stilkskjell som ung og vokser med osp. Rødskrubb (Leccinum versipelle) har svarte stilkskjell fra starten og vokser utelukkende med bjørk.',
-      notes: 'Den karakteristiske tilknytningen til eik og de tidlig rødbrune stilkskjellene skiller den fra de andre rødhattede skrubbene.'
+      description: "En ektomykorrhizadannende skrubb i løvskoger og langs skogsbryn. Den er mindre vanlig, men vidt utbredt i Storbritannia og Irland, ganske vanlig i Nord- og Sentral-Europa samt overordentlig rikelig i Skandinavia, og blir mer sjelden lenger sør i lavlandet. Funn under dette navnet i Nord-Amerika tilhører muligens andre arter.",
+      cap: "Hatten er 4–15 cm bred. Den er til å begynne med nesten kulerund, med hatthuden tett trykket mot stilken, deretter halvkuleformet til hvelvet, og kan flate ut eller få en uregelmessig form. Overflaten er fint filtet som ung og senere glattere eller fint skjellet, tørr og bare noe klebrig i fuktig vær, i teglrødt, oransjerødt eller daddelbrunt. Kanten er butt og henger cirka 2–4 mm ut over porene, ofte som frynsete fliker. Hatthuden er et trikoderm av delvis opprette hyfer på cirka 7–13 μm i bredde, med brunt pigment.",
+      hymenium: "Rørene er 1–3 cm lange og bredt tilvokste eller utrandet tilvokste. De er hvitaktige til kremfargede og blir gråaktige eller blekbrune. Porene er meget små, under 0,5 mm, og kantete. De kan være kremfargede og senere blekbrune, eller okerfargede til brune som unge og blekere senere. Skadede porer antar en rosa tone og deretter grått eller mørkt. Basidiene er bukete til klubbeformede, cirka 22–26 × 10–12 μm, og firesporede, uten klemmebøyler. Cheilocystidene er spoleformede til bukete og forsynt med nebb, cirka 28–50 × 7–12 μm. Pleurocystider mangler.",
+      stipe: "Stilken er 5–25 cm lang og 1,5–5 cm tykk, ofte tønneformet som ung og senere nesten sylindrisk, svakt avsmalnende oppover, noen ganger noe klubbeformet ved basis, samt mangler ring. Den er hvit til lærbrunaktig. Beskrivelser skiller seg hva angår skjellene: de er rødbrune til rustfargede fra starten, eller hvitaktige først og raskt rustbrune nedenfra basis. De mørkner til mørkebrune og sitter tettere mot basis. Basisen er noen ganger blågrønnflekket.",
+      flesh: "Kjøttet er hvitaktig, tykt og fast som ungt. Med alderen blir hattekjøttet mykt og stilken trevlet. Gjennomskåret kjøtt i hatten rødmer eller antar en bordeauxrød tone og blir deretter grått til svartaktig. Mot basis blåner det ofte en anelse eller blir blågrønt. Lukten og smaken er mild og behagelig.",
+      sporePrint: "Brunt til olivenbrunt lærgyllent, noen ganger med en gulgrønn tone. Sporene er spoleformede, glatte og tykkveggede, cirka 12–20 × 3–6 μm.",
+      habitat: "Fruktlegemene viser seg fra juli til november. De vokser på bakken, enkeltvis eller i grupper, i skoger og ved skogsbryn, oftest med osp, andre poppelarter og eik, samt sjeldnere med bøk, bjørk, ekte kastanje, selje/pil eller lind. I Europa er arten ikke kjent fra bartrær.",
+      uses: "Unge, faste fruktlegemer spises etter grundig gjennomsteking eller koking. Kjøttet er mykere enn hos steinsopp (Boletus edulis) og blir meget mørkt i pannen, og fruktlegemene kan også tørkes. Utilstrekkelig tilberedte fruktlegemer har forårsaket oppkast, og enkelte personer rapporterer mage-tarm-besvær. Forsinkede forgiftningssymptomer rapportert fra Nord-Amerika involverer muligens andre arter med oransje hatt.",
+      confusion: "Ospeskrubb (Leccinum albostipitatum) har stilkskjell som er hvite som unge og først senere rødmer, samt en mer rent oransje hatt. Den vokser med osp og poppel. Rødskrubb (Leccinum versipelle) vokser med bjørk, har en oransje til guloker hatt og grove svarte skjell fra starten, samt antar en blågrønn til svartaktig farge i stilkbasis. Furuskrubb (Leccinum vulpinum) vokser med furu, og granskrubb (Leccinum piceinum) vokser med gran samt har grå porer som ung. Ikke alle forfattere opprettholder disse barvedartene som adskilte. I Nord-Amerika vokser Leccinum insigne med osp eller bjørk, og Leccinum atrostipitatum vokser med bjørk."
     },
     sv: {
       description: "En ektomykorrhizabildande sopp i lövskogar och längs skogsbryn. Den är mindre allmän men vitt utbredd i Storbritannien och Irland, ganska allmän i Nord- och Centraleuropa samt utomordentligt riklig i Skandinavien, och blir mer sällsynt längre söderut i låglandet. Fynd under detta namn i Nordamerika tillhör möjligen andra arter.",
@@ -41445,16 +41433,16 @@ export const CATALOG = [
       notes: "Blegkugule fluesvampe i det østlige Nordamerika, som har været henført under dette navn, er andre arter, og målene her gælder for europæiske frugtlegemer."
     },
     no: {
-      description: 'En vanlig ektomykorrhizadannende fluesopp i løv- og barskog på sur, mager jord. Utbredt over hele Europa og tempererte deler av Nord-Amerika.',
-      cap: 'Hatten er 4–10 cm bred, halvkuleformet som ung og flater ut med alderen. Fargen er blekt sitrongul, gulgrønn eller hvitaktig. Overflaten er dekket av store, uregelmessige, flate, hvitaktige til lyst gråbrune flak eller lapper (rester av universalsløret).',
-      hymenium: 'Skivene er tette, frie fra stilken, hvite til svakt gulaktige.',
-      stipe: 'Stilken er 6–12 cm lang og 1–2 cm tykk, hvitaktig til lyst gulaktig. Den bærer en hengende, myk gulaktig ring øverst. Ved basis ender den i en stor, kulerund knoll med en markant, skarp, skålformet kant (kantet knoll), uten poseformet volva.',
-      flesh: 'Kjøttet er hvitt og endrer ikke farge ved snitt. Det har en sterk, karakteristisk lukt av rå potet eller nyslått gress, og smaken minner også om rå potet.',
-      sporePrint: 'Hvitt. Sporene er nesten kulerunde, glatte, amyloide, 8–10,5 × 7–9 μm.',
-      habitat: 'Fruktlegemer viser seg fra august til november under eik, bøk, furu og gran på sur sand- eller torvjord.',
-      uses: 'Ikke matsopp (inedible) eller spiselig med forbehold. Den inneholder bufotenin, men i så små mengder at den ikke regnes som dødelig giftig. Den sterke lukten og smaken av rå potet gjør den kulinarisk uinteressant, og forvekslingsfaren med grønn og hvit fluesopp er stor.',
-      confusion: 'Grønn fluesopp (Amanita phalloides) er dødelig giftig, har poseformet dyp volva (ikke kantet knoll), mangler den skarpe potetlukten og har sjelden store lapper på hatten. Hvite former av gul fluesopp (var. alba) kan forveksles med hvit fluesopp (Amanita virosa).',
-      notes: 'Den skarpe knollkanten og den intense lukten av rå potet er artens sikreste kjennetegn.'
+      description: "En ektomykorrhizadannende sopp i barskog og løvskog. Den er vanlig fra Middelhavet til Hebridene og Sør-Skandinavia og østover gjennom Sentral-Europa til Belarus og Estland. Den har også blitt rapportert fra Kaukasus, Korea, Japan, Kanariøyene, Australia og Sør-Afrika.",
+      cap: "Hatten er vanligvis 4–10 cm bred, og den kan være så liten som 3 cm eller, hos den hvite formen, så bred som 12 cm. Den er blekt sitrongul, gulgrønn, gråaktig eller hvitaktig, alltid i en lys nyanse. En hvit form mangler det gule pigmentet og kan vokse blant de gule fruktlegemene. Unge hatter er avrundede eller eggformede, deretter hvelvede og til slutt utbredte, hvorved kanten forblir nedbøyd, glatt og ikke stripet. Overflaten er fetglinsende i fuktig vær. Tykke, skjellaktige slørflak, hvite, kremfargede, grå eller brunaktige, ligger vanligvis på hatten og sitter ofte tettere mot midten. De kan vaskes bort eller mangle helt.",
+      hymenium: "Skivene er frie fra stilken, tette og omkring 6–12 mm brede. De er hvite, noen ganger med en gulaktig tone.",
+      stipe: "Stilken er 4–15 cm lang og 1–2 cm tykk, hvitaktig til blekgul, glatt eller fint fnokket og hul som moden. En hinnenaktig ring henger fra den øvre delen av stilken. Den er hvit til gulaktig og varig, og oversiden kan være glatt eller fint stripet. Basisen utgjøres av en brått avsatt knoll i en skålformet slire (volva) som forblir fastvokst og slutter i en skarp kant eller fure, snarere enn å åpne seg i en fri sekk.",
+      flesh: "Kjøttet er hvitt, mykt og vattaktig i stilken og endrer ikke farge ved gjennomskjæring. Det lukter rå potet eller potetgroer, og kan også lukte jordaktig, av reddik eller av raps. Eldre fruktlegemer har noen ganger bare en svak lukt. Smaken er ubehagelig, av samme karakter som rå potet.",
+      sporePrint: "Hvitt. Sporene er glatte, fargeløse og amyloide, kulerunde til bredt ellipsoide. Nesten kulerunde sporer måler cirka 6,5–10 μm. Ellipsoide mål er cirka 7,5–11 × 7–9 μm, og runde sporer oppgis også som 8–10 × 7–8 μm.",
+      habitat: "Fruktlegemene viser seg hovedsakelig fra august til november, og i Sentral-Europa kan de begynne allerede i juni. I Storbritannia og Irland er sesongen august til november. Den vokser med bartrær og med løvtrær. I Sentral-Europa er den vanlige partneren gran, deretter bøk og også furu, eik og bjørk på sur, basefattig, næringsfattig mark som forblir moderat fuktig. I Storbritannia og Irland er den særlig vanlig med bøk på basisk eller nøytral grunn og mer sjelden på sterkt sur mark.",
+      uses: "Rå fruktlegemer er svakt giftige. Stoffet som vanligvis rapporteres fra dem er bufotenin, som ifølge enkelte rapporter ødelegges ved varmebehandling, og en lav konsentrasjon av alfa-amanitin har likeledes blitt rapportert. Lukten og smaken er ubehagelig, og fruktlegemet forveksles lett med dødelig giftige fluesopper, hvorfor den lar stå uspist.",
+      confusion: "Grønn fluesopp (Amanita phalloides) har en fri, flikete poselignende slire og en radielt innvokst trådet hatt som vanligvis mangler tykke slørflak. Fargene dens spenner fra hvitt til olivengrønt og mangler sitrongul tone, og modne fruktlegemer dufter kvalmende søtt. Hvit fluesopp (Amanita virosa) og hvit vårfluesopp (Amanita verna) har likeledes en fri poselignende slire. Amanita virosa beholder sjelden slørflak ved modenhet, hatten forblir noe hvelvet og ringen er tynn samt sitter høyt oppe på stilken. Blek gul fluesopp (Amanita gemmata) har en dypere gul hatt med stripet kant, tynnere hvite slørrester og en ring som raskt forsvinner, samt mangler lukten av rå potet. Slørfluesopp (Amanita strobiliformis) er større med en hvit til okerfarget hatt, tykke frynsete slørrester og en ring som sprekker opp i flak, samt mangler likeledes denne lukten.",
+      notes: "Blekgule fluesopper i det østlige Nord-Amerika som har vært ført til dette navnet tilhører andre arter, og målene her gjelder europeiske fruktlegemer."
     },
     sv: {
       description: "En ektomykorrhizabildande svamp i barr- och lövskogar. Den är vanlig från Medelhavet till Hebriderna och södra Skandinavien och österut genom Centraleuropa till Belarus och Estland. Den har även rapporterats från Kaukasus, Korea, Japan, Kanarieöarna, Australien och Sydafrika.",
@@ -42270,16 +42258,16 @@ export const CATALOG = [
       notes: "Arten hører til underslægten Pardinicutis, en gruppe med grå, brune eller blege hatte, der er uldne eller fint skællede, sporer på omkring 8–11 μm i længden og rigelige øskener. Den står nær Tricholoma huronense, Tricholoma mutabile og Tricholoma venenatum. Tricholoma pardinum var. filamentosum er sjælden i Sydeuropa med spisekastanje og rødgran og har en mere fibret hat og stok med melet lugt og agurkeagtig smag. En federe, slankere form forekommer ligeledes. En vurdering fra 2006 klassificerer arten som truet i Tjekkiet. En nordamerikansk beskrivelse angiver tyndvæggede cheilocystider med en kort stilk og en afrundet top, 29–41 × 12–21 μm, og ingen cystider på lameloverfladen. En californisk indsamling under dette navn havde hverken cheilocystider eller pleurocystider, og dens sporer målte 7–9 × 4–5 μm."
     },
     no: {
-      description: 'En kraftig, ektomykorrhizadannende musserong i barskog og fjellnær bøkeskog på kalkrik jord. Utbredt i Mellom- og Sør-Europa, og sjelden eller fraværende i lavlandet i Norden.',
-      cap: 'Hatten er 5–15 cm bred, halvkuleformet som ung og flater ut til hvelvet med innrullet kant. Fargen er sølvgrå til askegrå eller blygrå, og overflaten er karakteristisk brutt opp i konsentriske, mørkegrå til brunsvarte skjell på en lysere bunn (tigermønster).',
-      hymenium: 'Skivene er brede, tette, utrandet festet til stilken, hvite til blekt kremfargede, og kan skille ut små vanndråper i fuktig vær.',
-      stipe: 'Stilken er 5–12 cm lang og 1,5–3,5 cm tykk, hvitaktig med okerbrune flekker mot den fortykkede basis, massiv og fast.',
-      flesh: 'Kjøttet er tykt, fast og hvitt, og endrer ikke farge ved snitt. Lukten og smaken er behagelig melet.',
-      sporePrint: 'Hvitt. Sporene er glatte, ellipsoide, inamyloide, 8–10 × 5,5–7 μm.',
-      habitat: 'Fruktlegemer viser seg fra august til oktober i barskog med gran og furu og fjellskoger med bøk på kalkrik grunn.',
-      uses: 'Giftig. Soppen forårsaker svært alvorlig mage-tarmforgiftning selv i små mengder, med kraftig oppkast, magesmerter og diaré som inntrer etter 15 minutter til 2 timer.',
-      confusion: 'Jordmusserong (Tricholoma terreum) er mye spinklere, har tynnere stilk, mørkere skiver og mangler mel-lukten.',
-      notes: 'Arten mangler et offisielt etablert norsk folkenavn og vises under sitt vitenskapelige navn.'
+      description: "En stor, kjøttfull ektomykorrhizadannende sopp i kalkrike løv- og barskoger som vokser enkeltvis eller i grupper og av og til i hekseringer. Den er hjemmehørende i hele Europa, der den er vanligere mot sør og i fjellet, og den har blitt rapportert fra det sørvestlige Tyrkia, Kina, Japan og tempererte deler av Nord-Amerika.",
+      cap: "Hatten er 5–15 cm bred, noen ganger bare 3 cm og unntaksvis opptil 20 cm. Den begynner som halvkuleformet, klokkeformet eller bredt kjegleformet med en lenge innrullet kant, og flater senere ut, ofte med en bred, lav pukkel (umbo) og en bølget eller flikete kant. Grunnfargen er hvitaktig, sølvgrå, kremgrå eller blekt oker. Mørkegrå, gråbrune, sepiabrune eller svartaktige skjell ligger i konsentriske ringer, større mot midten og finere mot kanten. Overflaten er tørr, og hatthuden er vanskelig å flå av. Den kan skyte en anelse ut over skivene. Hatthuden er en cutis til et trikoderm av sylindriske hyfer på 2–9 μm i bredde med klubbeformede spisser opptil 11 μm i bredde, samlet i bunter i skjellene. Pigmentet er både intracellulært og inkrusterende, og inkrusteringen er kraftigere mot subcutis. Klemmebøyler forekommer.",
+      hymenium: "Skivene er utrandede, ofte med en liten tann, selv om enkelte kilder beskriver dem som frie. Tettheten varierer fra moderat glisne til tette, oftest middels tette. De er tykke og opptil cirka 12 mm brede, med tallrike kortere mellomskiver. Til å begynne med er de hvite, deretter kremfargede eller matt grå, noen ganger med en gul, olivengrønn eller grønnaktig tone, og eggen kan være sagtannet. I fuktig vær skiller skiveggen ofte ut klare vanndråper, i likhet med toppen av stilken. Basidiene er sylindriske til klubbeformede, oftest firesporede og noen ganger tosporede, cirka 39–50 × 8–9,6 μm. Hår på skiveggen er fåtallige og ligner basidioler eller er misdannede. Ekte cystider på skivenes overflate mangler.",
+      stipe: "Stilken er 3–12 cm høy, av og til opptil 15 cm, og 1,5–4 cm tykk. Den er massiv og kraftig, sylindrisk, klubbeformet eller knollformet og noen ganger spoleformet, ved basis ofte cirka dobbelt så tykk som ved toppen. Ring mangler. Overflaten er hvit, kremfarget, lysegrå eller lysebrun, fint trådet til filtet og noen ganger fint hårete eller svakt prikket. Toppen kan hos unge eksemplarer bære vanndråper. Basisen antar ved trykk eller med alderen en okerfarget, smussbrun eller gul farge og kan være svakt rosabrun.",
+      flesh: "Kjøttet er tykt og fast. Det er hvitaktig, gråaktig under hatthuden og i den nedre delen av stilken gulaktig til rustfarget, der det noen ganger er rosa. Ved gjennomskjæring endrer det ikke farge, bortsett fra i stilkbasis. Lukten er melaktig, som nymalt mel, og hos enkelte fruktlegemer gressaktig, jordig eller spermatisk, til å begynne med svak og senere ubehagelig. Smaken er mild og melaktig. Under ultrafiolett lys fluorescerer kjøttet i lilla.",
+      sporePrint: "Hvitt. Sporene er ellipsoide til ovale, av og til nesten kulerunde, glatte og hyaline, med en fremtredende apiculus, ikke-amyloide, 7,5–10 × 5–7 μm, med yttergrenser opptil 12 × 8 μm. Lengde-bredde-forholdet er cirka 1,2–1,7, vanligvis nær 1,3–1,5.",
+      habitat: "Fruktifiseringen varer fra august til oktober, og funn spenner fra mai til november. Den danner ektomykorrhiza på kalkrik eller på annen måte basisk mark, enkeltvis, i grupper eller i hekseringer, med bøk, edelgran, gran og eik, oftere i høyereliggende strøk. I Jurafjellene kan den være tallrik. Den er ikke med sikkerhet dokumentert fra Danmark, Nederland eller De britiske øyer. I Slovakia danner den fruktlegemer fra august til oktober i løv- og blandingsskog under bøk og noen ganger eik, gran eller edelgran. I Tsjekkia er den sjelden, hovedsakelig med bøk og edelgran. I Polen er den utelukkende vanlig på kalkrik eller basisk mark under bøk, gran og edelgran om sommeren og høsten. I Tyskland forekommer den spredt, fremst i sør og i Syd-Mecklenburg. I Nord-Amerika brukes navnet om en nordlig fjellbunden sopp med bartrær samt om en kalifornisk kystsopp med Notholithocarpus densiflorus, Arbutus menziesii og Quercus agrifolia, som muligens ikke er samme art. Fruktlegemer under dette kystnavnet opptrer til og med om vinteren. Visse rapporter fra de vestlige fjellområdene kan tilhøre Tricholoma smithii.",
+      uses: "Selv når den spises i små mengder fremkaller den en alvorlig mage-tarm-forgiftning. Kvalme, svimmelhet, oppkast, diaré, magesmerter, kraftig svetting og angst inntrer innen cirka en halv time til to timer. Den akutte sykdommen varer ofte to til seks timer, og restitusjonen krever vanligvis fire til seks dager. Leggkramper og forstyrrelser i leverfunksjonen har vært rapportert, selv om varige skader ikke er det vanlige utfallet. Ved et felles måltid gjorde to hatter sju personer og en katt alvorlig syke. Toksinet er ukjent. Det irriterer og betenner slimhinnen i mage og tarm. Dødsfall som følge av sirkulasjonssvikt og væsketap kan ikke utelukkes, selv om fatale tilfeller er eksepsjonelle. I første halvdel av 1900-tallet var den ansvarlig for over en femtedel av soppforgiftningene i Sveits, hvorav mange i Jura. Den behagelige lukten og smaken øker faren.",
+      confusion: "Jordmusserong (Tricholoma terreum) er mindre, mørkere og spedere, mangler den melaktige lukten og har mindre sporer på 5–7,5 × 4–5 μm. Sølvmusserong (Tricholoma argyraceum) har finere skjell, og dens skiver samt trykte steder gulner med alderen; den vokser i lavere liggende strøk. Gulnende musserong (Tricholoma scalpturatum) er mindre og spedere, og hatten er fintrådet snarere enn dekket av store skjell. Svartskjellet musserong (Tricholoma atrosquamosum) er mindre og mørkere og lukter pepret. Rødnende musserong (Tricholoma orirubens) har fine mørke skjell, rosafargede skiver og sprøtt kjøtt samt er generelt mindre. Musmusserong (Tricholoma myomyces) er mindre, unge fruktlegemer har et tynt, trådet partielt slør, og sporene måler 5–6 × 3,5–4 μm. Striperidderhatt (Tricholoma portentosum) har en lignende størrelse, men hatten er ensartet grå og aldri skjellet. Tricholoma nigrum og stripete former av brennmusserong (Tricholoma virgatum) har stripete hatter snarere enn skjellete. En blek form kan være nesten hvit med bleke skjell og kan forveksles med silkeridderhatt (Tricholoma columbetta), som mangler disse skjellene. Tricholoma venenatum er mer gulbrun og har klemmebøyler. Tricholoma huronense har smalere skiver, dråper av rødaktig væske på skiver og stilk samt en askegrå, skjellet stilk. Fintrådet musserong (Tricholoma filamentosum) er mindre og blekere med en silketrådet hatt uten kontrasterende skjell, og klemmebøyler finnes likeledes hos denne. Bresadolas musserong (Tricholoma bresadolanum) er en anelse mindre og mindre skjellet, nesten luktfri, med en skarp smak, og vokser under løvtrær. Gråbrun musserong (Tricholoma tumidum) er mer brunaktig og har mindre sporer. Andre grå arter i slekten mangler klemmebøyler.",
+      notes: "Arten hører til underslekten Pardinicutis, en gruppe med grå, brune eller bleke hatter som er ullne eller fint skjellete, sporer på omkring 8–11 μm i lengde og rikelige klemmebøyler. Den står nær Tricholoma huronense, Tricholoma mutabile og Tricholoma venenatum. Tricholoma pardinum var. filamentosum er sjelden i Sør-Europa med ekte kastanje og gran og har en mer trådet hatt og stilk med melaktig lukt og agurklignende smak. En kraftigere, slankere form forekommer også. En vurdering fra 2006 klassifiserer arten som truet i Tsjekkia. En nordamerikansk beskrivelse oppgir tynnveggede cheilocystider med en kort stilk og en avrundet topp, 29–41 × 12–21 μm, og ingen cystider på skivenes overflate. En kalifornisk innsamling under dette navnet hadde verken cheilocystider eller pleurocystider, og sporene målte 7–9 × 4–5 μm."
     },
     sv: {
       description: "En stor, köttig ektomykorrhizabildande svamp i kalkrika löv- och barrskogar som växer enstaka eller i grupper och ibland i häxringar. Den är hemmahörande i hela Europa, där den är vanligare mot söder och i bergen, och den har rapporterats från sydvästra Turkiet, Kina, Japan och tempererade Nordamerika.",
@@ -43079,16 +43067,16 @@ export const CATALOG = [
       notes: "Et enkelt stort frugtlegeme producerer sporer i billionvis – ved en enkelt tælling mere end syv billioner. Svampen blev tidligere skåret i strimler til standsning af blødninger, gemt som fyrtønder og tændt til ulmning for at berolige bier. I New Zealand blev den brugt til at standse blødninger og behandle brandsår. Proteinet calvacin fra frugtlegemerne blev i 1960'erne testet mod tumorer. Gentagne doser fremkaldte allergiske reaktioner hos hunde og aber, og forskningen blev indstillet på grund af toksicitet."
     },
     no: {
-      description: 'En enorm saprotrof røyksopp som vokser på næringsrike gressmarker, beiter, frukthager og skogbryn. Utbredt over hele den tempererte sonen.',
-      cap: 'Fruktlegemet er sittende, kulerundt eller noe uregelmessig flattrykt, 20–50 cm i diameter (av og til opptil 80–100 cm) og kan veie over 10–20 kg. Overflaten er først snøhvit og lærglatt som semsket skinn, og mørkner til gulbrun eller olivengrå ved modning før skinnet sprekker opp i store flak.',
-      hymenium: 'Glebaen fyller hele fruktlegemet uten steril stilkbase. Den er rent hvit og elastisk som ung, og omdannes til en enorm masse av gulgrønt og til slutt tørt olivenbrunt sporepulver.',
-      stipe: 'Mangler stilk; fruktlegemet er forankret til jorda med en tynn, rotaktig mycelstreng.',
-      flesh: 'Kjøttet (glebaen) er hvitt, fast og osteaktig som ungt. Lukten er behagelig soppaktig og smaken mild.',
-      sporePrint: 'Olivenbrunt til brunt. Sporene er kulerunde, vortete, 3,5–5 μm.',
-      habitat: 'Fruktlegemer viser seg fra juni til oktober på næringsrik, kalkholdig eng, kirkegårder og beitemark.',
-      uses: 'Spiselig (god matsopp). Kun fruktlegemer som fortsatt er helt hvite og faste tvers igjennom, kan spises. Skinnet flås av og kjøttet skjæres i tykke skiver som paneres og stekes som \'vegetarbiffer\'.',
-      confusion: 'Skålrøyksopp (Bovistella utriformis) er betydelig mindre (opptil 15 cm) og har et mønster av kantede ruter på overflaten.',
-      notes: 'Et enkelt stort eksemplar kan produsere mer enn sju billioner sporer.'
+      description: "En saprotrof sopp på enger, beitemarker og næringsrike åpne steder. I Storbritannia og Irland er den lokal og forekommer i tempererte Europa, inkludert Slovakia, i Nord-Amerika fra Great Plains og østover (der kartlegginger ikke fant den i Arizona eller Florida), samt i deler av Asia og på den sørlige halvkule.",
+      cap: "Fruktlegemet er en stilkløs, noe avflatet eller uregelmessig sfære, noen ganger flikete eller innsnørt i den ene siden, og en egentlig hatt mangler. Den er vanligvis 10–50 cm bred. Eksemplarer på over 50 cm er ikke sjeldne, og en vanlig øvre grense er cirka 80 cm. Publiserte yttergrenser omfatter en diameter på 150 cm og en vekt på 23,3 kg, og vekter over 20 kg er veldokumenterte. Den ytre veggen (eksoperidiet) er tynn, glatt og læraktig. Målinger varierer fra under 1 mm til cirka 2–3 mm. Som ung er den fint filtet og senere glatt, noen ganger med bare svake skjell. Fargen er til å begynne med hvit, deretter kremfarget eller gulaktig og med alderen grønngul, olivenbrun, rødbrun eller mørkebrun. Oversiden sprekker opp i uregelmessige felter. Den tynne innerveggen (endoperidiet) er sprø og går i stykker, og ytterveggen faller av i biter. Basisen kan være rynket.",
+      hymenium: "Glebaen fyller hele fruktlegemet. En steril basis mangler eller utgjøres bare av et meget tynt kompakt lag med samme struktur som glebaen. Som ung er glebaen hvit, fast og kompakt. Den blir myk og gulner, farges deretter grønn eller olivenfarget og er ved modenhet et gulbrunt til olivenbrunt eller brunt pulver. Skiver mangler. Veggen åpner seg ikke gjennom en enkelt pore; den sprekker opp og faller av slik at sporpulveret frigjøres etter hvert som fruktlegemet faller sammen. Capillitiet er brunt til gulaktig, langt og grenet, cirka 2,5–5 μm bredt, med vegger på cirka 0,5–1 μm i tykkelse. Det er noen ganger septert og noen ganger forsynt med groper.",
+      stipe: "En egentlig stilk mangler. En tykk hvit mycelstreng forbinder basisen med jorden og hardner med alderen. Strengen kan bli cirka 6 cm lang og 2 cm tykk. Den brekker ofte av, hvorpå fruktlegemet kan rulle rundt med vinden (som en steppeløper) og spre sporer så snart veggen sprekker opp.",
+      flesh: "Den unge glebaen er hvit, fast og elastisk eller margaktig. Lukten hos et ferskt fruktlegeme er svak og behagelig eller lite fremtredende, og smaken er mild. Kaliumhydroksid gir ingen fargereaksjon på overflaten. Etter hvert som sporene modnes, gulner glebaen, blir olivengrønn og brun, og mer modne eksemplarer kan lukte ubehagelig av urin. Så snart det indre ikke lenger er rent hvitt, skal soppen ikke spises.",
+      sporePrint: "Så lenge fruktlegemet er lukket, foreligger det intet vanlig sporeavtrykk. Den modne spormassen er olivenbrun til brun, og enkelte kilder kaller den brunaktig olivengrå eller rødbrun. Sporene er kulerunde til nesten kulerunde og tykkveggede, glatte eller fint vortete, og de bærer noen ganger en kort stilkrest. Europeiske sporer er cirka 3,5–5 μm i diameter. Innsamlinger fra det sentrale Illinois måler cirka 2,5–4 μm og fremtrer som hyaline til gulaktige i kaliumhydroksid.",
+      habitat: "Fruktlegemene viser seg fra juni til oktober i Slovakia og store deler av Sentral-Europa, fra juli til november i Storbritannia og Irland samt om sensommeren og tidighøsten i det østlige Nord-Amerika fra Great Plains. En eldre britisk kilde forlenger sesongen tilbake til mai. De følger ofte etter langvarig regn. Soppen er saprotrof på næringsrik eller gjødslet mark, på enger, beitemarker, i hager, frukthager, grøftekanter og veikanter, blant brennesler og annen frodig vegetasjon samt av og til i åpne skoger eller lysåpne, ganske tørre furuskoger. Fruktlegemene står enkeltvis, i små grupper eller i hekseringer. Ringer på mer enn 10 m i diameter har blitt observert i gamle frukthager, og en engring rommet 27 fruktlegemer på hver cirka 1,5–5 kg i en sirkel med en diameter på cirka 6 m. Brune vattaktige rester kan forbli stående frem til påfølgende sesong. På et kjent voksested kommer soppen ofte igjen over mange år.",
+      uses: "Utelukkende fruktlegemer der det indre fremdeles er rent hvitt og fjærende fast spises. Den seige ytterveggen flås av og kjøttet skjæres i tykke skiver. Skivene stekes som snitsel panert i egg og brødsmuler samt stekes med bacon, eller tilsettes i ovnsretter eller supper. Tilberedt kjøtt sammenlignes med tofu eller smeltet ost. Vurderingene av smaken varierer: enkelte kaller den mild og andre kaller den fortreffelig. Så snart det indre er gult, olivengrønt eller brunt, lar man den stå. Eksemplarer langs sterkt trafikkerte veier bør unngås på grunn av forurensning fra bileksos.",
+      confusion: "Sprukket røyksopp (Bovistella utriformis) er mye mindre, cirka 6–15 cm bred, og har formen av et sammentrykt pære eller en morter. Ytterveggen dens er vortete eller sprekker opp i et mosaikkmønster, og den har en steril basis. Stilkrøyksopp (Lycoperdon excipuliforme) kan bli ganske stor; overflaten er vortete eller fnokket snarere enn glatt, og den har en steril skaftlignende basis. Calvatia booniana i det vestlige Nord-Amerika kan bli over 60 cm stor, men overflaten sprekker opp i store mangekantede skjell. Arter i slekten Bovista forblir betydelig mindre, og den ytre huden er ikke alltid glatt. Vanlig potetrøyksopp (Scleroderma citrinum) er mye mindre og fastere, og dens indre blir mørkt purpursvart med hvitaktig marmorering mens fruktlegemet fremdeles er ungt. En ung fluesopp (Amanita) viser ved et vertikalt snitt anlegg til skiver og en stilk. En uåpnet stanksopp har et geléaktig lag inne i hekseegget. Denne soppen har et ensartet hvitt indre uten spor av skiveanlegg.",
+      notes: "Et enkelt stort fruktlegeme produserer sporer i billionvis – ved en enkelt telling mer enn sju billioner. Soppen ble før skåret i strimler for å stanse blødninger, spart som knusk og tent for å ulme i den hensikt å roe ned bier. I New Zealand ble den brukt til å stanse blødninger og behandle brannskader. Proteinet calvacin fra fruktlegemene ble testet på 1960-tallet mot svulster. Gjentatte doser fremkalte allergiske reaksjoner hos hunder og aper, og forskningen ble avbrutt på grunn av toksisitet."
     },
     sv: {
       description: "En saprotrof svamp på ängar, betesmarker och näringsrika öppna platser. I Storbritannien och Irland är den lokal och förekommer i tempererade Europa, inklusive Slovakien, i Nordamerika från Great Plains och österut (där karteringar inte fann den i Arizona eller Florida), samt i delar av Asien och på södra halvklotet.",
@@ -43913,16 +43901,16 @@ export const CATALOG = [
       notes: "En hvid form har mælkehvid hat og stok. Indsamlinger i Nordamerika, især uden for Pacific Northwest, er muligvis ikke alle samme art, som blev beskrevet fra Tyskland. Ældre frugtlegemer deformeres undertiden af snyltesvampen pjalte-posesvamp (Volvariella surrecta), som dækker dem med et hvidt mycelium."
     },
     no: {
-      description: 'En stor, kjøttfull saprotrof skivesopp i løv- og barskog. Utbredt og meget vanlig over hele Europa om høsten, der den ofte danner store hekseringer i barnål- og løvstrø.',
-      cap: 'Hatten er 5–20 cm bred (noen ganger opptil 25 cm). Den starter hvelvet med innrullet kant og flater ut til bredt traktformet. Fargen er gråbrun til askegrå, dekket av et karakteristisk hvitaktig, melaktig pudderbelegg som delvis forsvinner med alderen.',
-      hymenium: 'Skivene er tette, smale, 3–7 mm brede, og løper kort nedover stilken (nedløpende). De er kremhvite til blekgule og kan lett løsnes fra hattekjøttet.',
-      stipe: 'Stilken er 5–15 cm lang og 1,5–4 cm tykk, kraftig, sylindrisk med oppsvulmet basis dekket av hvitt mycel. Fargen er hvitaktig til lyst gråbrun og langsfibret.',
-      flesh: 'Kjøttet er tykt, fast og hvitt. Lukten er kraftig, søtlig og krydret (minner om frukostblanding eller kjemikalier), og smaken er mild til svakt pepperaktig.',
-      sporePrint: 'Kremgult til blekt oker. Sporene er glatte, ellipsoide, inamyloide, 6–8 × 3,5–5 μm.',
-      habitat: 'Fruktlegemer viser seg fra august til november (og inn i desember) i dype lag av løv- og barnålstrø.',
-      uses: 'Spiselig med forbehold (eller ikke matsopp). Den spises tradisjonelt i enkelte deler av Europa etter avkoking, men forårsaker mage- og tarmbesvær hos mange personer, og inneholder stoffet nebularin som mistenkes for å være helseskadelig. Den frarådes i dag som matsopp i mange soppbøker.',
-      confusion: 'Giftrødspore (Entoloma sinuatum) har utrandede skiver som blir rosa og mangler det puddergrå belegget.',
-      notes: 'Det antibakterielle stoffet nebularin ble opprinnelig isolert fra denne arten.'
+      description: "En stor, kjøttfull saprotrof sopp i løv- og barskoger, parker og gressrike veikanter som ofte vokser i store flokker eller hekseringer. Den er meget vanlig og vidt utbredt i hele Europa, inkludert Storbritannia og Irland, og forekommer over hele den tempererte nordlige halvkule i Asia og Nord-Amerika.",
+      cap: "Hatten er vanligvis 5–20 cm bred. Publiserte bredder spenner likeledes fra 5 cm til 25 cm, og en kalifornisk beskrivelse oppgir 4–30 cm. Den begynner som hvelvet, noen ganger kjegleformet med innrullet kant, blir deretter utbredt, bølget eller svakt nedsunket og kan bli grunt traktformet mens kanten forblir nedbøyd. En bred pukkel (umbo) forekommer av og til, og kanten kan med alderen bli flikete. Overflaten er tørr til fuktig, glatt eller matt og radielt trådet, og den er ikke hygrofan. I fuktig vær kan den føles svakt fetglinsende. Unge hatter bærer et hvitaktig belegg (pudder) over hele overflaten, og dette belegget bevares senere bare på midten. Fargen er tåkegrå, askegrå eller gråbrun, vanligvis blekere mot kanten, fra beige til nesten hvit. Fuktig vær gjør den mørkere grå eller gråbrun, og tørt vær får den til å blekne til blekgrå eller hvitaktig gråbrun. Enkelte fruktlegemer er hvitaktige fra starten. Den tynne hatthuden kan flås av inn til midten. Hatthuden er en cutis av forgrenede hyfer på cirka 1,5–7 μm i bredde med klemmebøyler, og enkelte celler inneholder brunt pigment. Kaliumhydroksid endrer ikke hattens farge.",
+      hymenium: "Skivene er tette. En telling oppgir cirka 60–90 på en hatt. De er 3–7 mm brede og kan med alderen nå cirka 10 mm. De er bredt tilvokste til svakt eller kort nedløpende og løsner lett fra hattekjøttet. De er til å begynne med hvite eller hvitaktige, deretter kremfargede, blekt oker eller gulaktige, noen ganger med en brunaktig tone. Tørkede eksemplarer kan bli lyst brunoransje. Kortere mellomskiver er skutt inn imellom, og skivene er vanligvis gaffeldelte. Basidiene er firesporede og bærer en klemmebøyle ved basis. En europeisk beskrivelse oppgir dem som sylindriske til klubbeformede og 20–25 × 5–6,5 μm. En nordamerikansk beskrivelse oppgir dem som svakt klubbeformede og 33–36 × 4–6 μm. Cystider mangler.",
+      stipe: "Stilken er vanligvis 5–15 cm lang og 1,5–5 cm tykk. En kalifornisk beskrivelse oppgir 4–9 × 1,5–3 cm. Den er sylindrisk og ofte klubbeformet eller oppsvulmet ved basis, særlig hos unge eksemplarer. Ring mangler. Overflaten er tørr, glatt eller trevlet, noen ganger med langsgående gråbrune tråder. Den er hvitaktig, blekgrå eller lyst brunaktig og lysere enn hatten. Der den berøres kan den anta en brunaktig farge. Den er til å begynne med fylt og fast, deretter løst margfylt og senere hul. Hvitt mycel dekker basis og binder sammen førnen.",
+      flesh: "Kjøttet er hvitt og tykt. Det er fast hos unge eksemplarer og senere mykt, svampete eller vattaktig i hatten samt trevlet i stilken. Ved gjennomskjæring endrer det ikke farge. Lukten er sterk og karakteristisk. Unge fruktlegemer er aromatiske, søtlige, fruktige eller melaktige, og lukten har blitt sammenlignet med appelsinblomster. Samme lukt betegnes ofte som ubehagelig, harsk, stinkbilleaktig, av kålrot, av muggost eller av steinkulltjære og blir mer ubehagelig med alderen. Smaken er mild, soppaktig, søtlig, syrlig eller en anelse bitter. Enkelte beskrivelser finner ingen utpreget smak, og andre kaller det rå kjøttet ubehagelig.",
+      sporePrint: "Hvitt, kremfarget, kremhvitt, blekt gulbrunt eller blekgult. Et tynt lag kan se hvitaktig ut og et tykt mer gult. Sporene er ellipsoide, glatte og hyaline, overveiende 5–8,5 × 3–5 μm, med et lengde-bredde-forhold på cirka 1,5–2 der dette er målt. De er inamyloide og sporeveggen er cyanofil.",
+      habitat: "Hovedfruktifiseringen skjer fra august til desember. I Storbritannia varer den fra august til begynnelsen av desember. I Sentral-Europa opptrer fruktlegemer fra september, noen ganger fra slutten av august, inn i november eller desember. I Slovakia strekker sesongen seg fra slutten av september til november. I Sibir er sesongen fra august til oktober. I California opptrer de sjelden før desember, og i et varmt klima kan fruktifiseringen fortsette gjennom hele vinteren. Den vokser på bakken og i dyp humus blant løv og nåler i løv- og barskoger. Foretrukket er bøkeskoger rike på mold, og den vokser også i granplantasjer, eik-agnbøkskoger, hekker, parker, hager og plener samt under sypresser, eik og hassel, også i tettbygde strøk. Fruktlegemene står enkeltvis eller i enorme grupper, rader eller hekseringer. Jordsmonnet er friskt til moderat fuktig og ikke altfor magert, ofte leirholdig, og arten tolererer et bredt pH-intervall. Den unngår sand, grus, torv og myr. Naturlige bestander er oftest løvskog, og den foretrekker unge til middelaldrende skoger.",
+      uses: "Den spises i deler av Europa, deriblant franske og sveitsiske Jura, Castilla og León, Baskerland, Navarra og Sentral-Europa, og har også blitt rapportert som matsopp i Russland, Ukraina, Kina, Mexico og Chile. Unge fruktlegemer brukes. De kokes lenge, forvelles og vannet helles av, tilsettes i små mengder i blandede soppretter eller legges ned i eddik. Mange mennesker tåler den godt. Andre opplever imidlertid kvalme, oppkast og diaré, noen ganger allerede etter en liten porsjon og stundom til og med etter grundig gjennomsteking eller koking, og alvorlige mage-tarm-forgiftninger er veldokumenterte. Rå fruktlegemer forårsaker voldsomme fordøyelsesbesvær. Fruktlegemer inneholder nebularin, isolert i 1953, sammen med andre antibiotiske og soppdrepende stoffer. Nebularin er varmebestandig, så koking ødelegger det ikke. Offisielle sveitsiske soppkontrollører har siden 2017 ansett arten som uspiselig, og dette standpunktet ble opprettholdt i 2023. I Frankrike betraktes den i dag som uspiselig eller sterkt mistenkt for toksisitet. Tyske, østerrikske, italienske og nordiske anbefalinger fraråder konsum eller plasserer den blant arter med omstridt spiselighet. Bare lukten avskrekker mange. Eldre fruktlegemer kan fremdeles se friske ut mens de allerede har begynt å brytes ned og råtne, selv etter nattefrost.",
+      confusion: "Giftrødspore (Entoloma sinuatum) har skiver som er utrandede eller bølgete, ikke nedløpende. De er gulaktige og blir deretter lakserosa, sporeavtrykket er rosa, lukten er melaktig og den danner fruktlegemer tidligere, hovedsakelig i varme kalkrike løvskoger. Melsopp (Clitopilus prunulus) har likeledes nedløpende skiver, men kjøttet er meget sprøtt, lukten minner sterkt om ferskt mel og sporeavtrykket er rosa. Løvtraktsopp (Clitocybe phyllophila) er giftig og hvitaktig, og den sterke søtlige lukten skiller puddertraktsopp fra den. Flere mindre hvitaktige Clitocybe-arter med hatter under cirka 10 cm er dødelig giftige, så en avbleket hvitaktig hatt er den som lettest forveksles med dem. Klubbestilket traktsopp (Ampulloclitocybe clavipes) er mindre, vanligvis med en mørkere grå hatt, og stilken forblir ved modenhet kraftig klubbeformet eller kjegleformet. Kjempetraktsopp (Infundibulicybe geotropa) er slankere og den utvokste hatten er dypt traktformet. Parfymeryllikmusserong (Lepista irina) og marmorert ridderhatt (Lepista panaeolus) har skiver som ikke løper nedover stilken samt ornamenterte sporer. Blå ridderhatt (Lepista nuda) har lilla skiver som er utrandede. Blek blå ridderhatt (Lepista glaucocana) er større og har blåaktig lilla toner. Striperidderhatt (Tricholoma portentosum) har utrandede skiver og en stilk som gulner. Såperidderhatt (Tricholoma saponaceum) har en olivenbrun hatt og en såpeaktig, fruktig lukt. Hvit lærhatt (Leucopaxillus albissimus) er blekere, brytes ned langsommere og har et hvitt sporeavtrykk. Clitocybe robusta har en mer rent hvit hatt.",
+      notes: "En hvit form har melkehvit hatt og stilk. Innsamlinger i Nord-Amerika, særlig utenfor Pacific Northwest, er muligens ikke alle samme art som den som ble beskrevet fra Tyskland. Eldre fruktlegemer deformeres av og til av parasittsoppen Volvariella surrecta, som dekker dem med et hvitt mycel."
     },
     sv: {
       description: "En stor, köttig saprotrof svamp i löv- och barrskogar, parker och gräsrika vägkanter som ofta växer i stora flockar eller häxringar. Den är mycket allmän och vitt utbredd i hela Europa, inklusive Storbritannien och Irland, och förekommer över hela den tempererade norra hemisfären i Asien och Nordamerika.",
@@ -44746,16 +44734,16 @@ export const CATALOG = [
       notes: "Frugtlegemerne ædes af natsværmeren Nemaxera betulinella samt af fluearterne Polyporivora picta og Mycetophila luctuosa. Svampen kan forrette skade på oplagret tømmer og konstruktionstræ, herunder tømmer i miner samt jernbanesveller."
     },
     no: {
-      description: 'En tynn, ettårig hvitråtekjuke som vokser saprotroft på død ved av løvtrær, særlig bøk, eik og bjørk. En av verdens mest utbredte kjuker.',
-      cap: 'Fruktlegemene er tynne, læraktige, vifteformede til halvsirkelformede konsoller, 3–10 cm brede og bare 1–3 mm tykke, taklagte i store samlinger. Oversiden er praktfullt sonet med konsentriske striper i skiftende farger: brunt, grått, svart, oker, blåaktig og rustrødt, med en hvit ytterkant. Sonene veksler mellom glatte og fløyelslodne partier som silke.',
-      hymenium: 'Undersiden har bittesmå, runde porer, 3–5 per millimeter, som er hvitaktige til kremgule og mørkner til okerbrunt med alderen.',
-      stipe: 'Mangler stilk; konsollene er sittende direkte på veden med en innsnevret basis.',
-      flesh: 'Kjøttet er tynt, hvitt, seigt og læraktig i frisk tilstand, og hardt ved tørking. Lukten er soppaktig og smaken nøytral.',
-      sporePrint: 'Hvitt. Sporene er glatte, sylindriske, lett bøyde, 5–6 × 1,5–2,5 μm.',
-      habitat: 'Fruktlegemer finnes hele året på stubber, greiner og falne stammer av løvtrær.',
-      uses: 'Ikke matsopp (inedible). Fruktlegemet er altfor seigt og læraktig til å spises. Tørket sopp brukes i dekorasjoner og til fremstilling av ekstrakter (som polysakkarid-K / PSK) i tradisjonell og komplementær medisin.',
-      confusion: 'Lærsopper (Stereum) har helt glatt underside uten porer. Beltekjuke (Trametes ochracea) er tykkere og har mer ensfargede okergule toner.',
-      notes: 'Arten er kjent internasjonalt som \'turkey tail\' på grunn av det fjærlignende mønsteret.'
+      description: "En tynn, ettårig hvitråtesopp (kjuke) på løvtre, saprotrof på død ved og noen ganger en svak parasitt på levende trær. Den er sannsynligvis utbredt over hele verden, og er vanlig i hele Europa fra Skandinavia til Middelhavet, inkludert Storbritannia og Irland, samt gjennom Asia, Nord-Amerika og Australia.",
+      cap: "Fruktlegemet er ettårig og stilkløst, vifteformet, halvsirkelrundt, nyreformet eller rosettbærende. Konsoller vokser ofte sammen side ved side og i taklagte etasjer. Festepunktet kan være avsmalnet eller så kan konsollen løpe et kort stykke nedover trestammen. Unge fruktlegemer er sjelden utbredte og nedbøyde, og et meget ungt eksemplar kan være en knudrete skorpe. Bredden er vanligvis 2–8 cm og når opptil cirka 10 cm, selv om mange sentraleuropeiske fruktlegemer forblir mellom 2–6 cm. Dybden er cirka 1–4 cm. Hatten er cirka 1–3 mm tykk, og kjøttet ved festepunktet er opptil cirka 3 mm. Den er bøyelig i fersk tilstand. Overflaten er fint fløyelsaktig til hårete, der hårete soner veksler med glattere, silkeaktige eller glinsende soner. Sonene spenner over hvitt, kremfarget, oker, gult, kanelbrunt, rustfarget, brunt, grått, blågrått, blått og svart, samt noen ganger oransje eller olivengrønt. Kanten er blekere, hvitaktig til okerfarget som ung, bølget og tynn. Eldre fruktlegemer svartner, og de er ofte grønnaktige av alger. Grønt har likeledes blitt rapportert som en soneringsfarge.",
+      hymenium: "Rørene er korte, cirka 1,5–3 mm dype. Porene er små, cirka 3–6 per millimeter og noen ganger flere, runde til kantete, og de blir labyrintiske og grå med alderen. Poreflaten er hvit, hvitaktig, kremfarget eller blekbrun, og den antar ikke noen spesiell farge ved trykk. Cystider mangler. Basidiene er klubbeformede, cirka 18–20 × 3–4,5 μm, firesporede og med en klemmebøyle ved basis.",
+      stipe: "Det finnes ingen stilk. Konsollen er direkte festet, noen ganger med en avsmalnet basis, og den kan løpe et kort stykke nedover veden.",
+      flesh: "Kjøttet er tynt og hvitaktig, seigt og trevlet i fersk tilstand samt læraktig i tørr tilstand. En tynn svart linje i tverrsnitt skiller den hårete overflaten fra kjøttet (konteksten). Lukt og smak er ikke-karakteristiske. Kaliumhydroksid på kjøttet er negativ til gulaktig eller gul. Hyfesystemet er trimittisk. Råten er en hvitråte i yteveden, og soppen bryter ned lignin.",
+      sporePrint: "Avtrykket er hvitt til hvitaktig. En rapport angir gult. Sporene er sylindriske til noe krumme, glatte, tynnveggede, hyaline og inamyloide. Publiserte mål spenner fra cirka 4–7 × 1,5–2,5 μm, oftest cirka 4,5–6 × 1,5–2,5 μm.",
+      habitat: "Fruktlegemer finnes til stede hele året. I Storbritannia og Irland påtreffes de oftest om høsten og vinteren, når sporene frigjøres. I Sentral-Europa opptrer de ferske fruktlegemene hovedsakelig fra slutten av mai til inn i august. De vokser på dødt løvtrevirke, stubber, vedstabler, nedfalne greiner og kvister, stående død ved og levende trær, som de trenger inn i gjennom små sår. Bøk er den viktigste verten i Sentral-Europa, og eik er en foretrukket vert. Andre verter omfatter bjørk, agnbøk, hassel, selje/pil, kirsebær og andre frukttrær samt mange flere løvtrær. Bartrær er en uvanlig vert, selv om de ikke er sjeldne i Sentral-Europa. Den vokser også utenfor skogen på hagegjerder og trekonstruksjoner i kontakt med bakken samt på lagret tømmer eller bygningsvirke. Fruktlegemene overlever tørkeperioder. Tilveksten er tilstrekkelig rask til at honningsopp (Armillaria) ikke utkonkurrerer den.",
+      uses: "Fruktlegemet er uspiselig. Det er altfor seigt til å spises. Tørkede fruktlegemer brukes i blomsteroppsatser, og de ble tidligere båret som hattepynt og innfattet i brosjer og spenner. Ekstrakter har en lang tradisjon innen tradisjonell kinesisk, japansk og koreansk medisin. Polysakkarid-K (PSK eller Krestin) er godkjent i Japan som adjuvant behandling ved kreft og er ikke godkjent i USA for noen klinisk tilstand. Studier har rapportert viss adjuvant effekt ved visse kreftformer in vitro og delvis in vivo. Kosttilskudd har blitt koblet til diaré, mørk avføring og mørkere negler. I 2020 ble to selskaper i USA pålagt å opphøre med markedsføring av produkter fra denne soppen som kreftlegemiddel eller immunstimulerende middel.",
+      confusion: "Lærsonekjuke (Stereum ostrea), raggskinn (Stereum hirsutum), fløyelsskinn (Stereum subtomentosum) og andre arter i slekten Stereum har et glatt hymenium og ingen porer. Børstekjuke (Trametes hirsuta) er tykkere, og den ferske hatten er hvitaktig til grå og grovt hårete snarere enn fint filtet. Fløyelskjuke (Trametes pubescens) mangler sterkt kontrasterende fargesoner. Sonekjuke (Trametes ochracea) er stiv snarere enn tynn og bøyelig, tykkere ved festepunktet (opptil cirka 10 mm), med mindre varierte oker- og gulbrune belter samt uten silkeaktige eller glinsende soner, og den danner mindre tette knipper. Trametes ochracea deler ofte stamme med denne soppen, og de to er ikke alltid lette å skille fra hverandre. Velluktende kjuke (Trametes suaveolens) er mye blekere og vokser vanligvis ikke i taklagte etasjer. Andre Trametes-arter med bare cirka 1–3 porer per millimeter skilles ved denne porestørrelsen.",
+      notes: "Fruktlegemene spises av møllarten Nemaxera betulinella samt av flueartene Polyporivora picta og Mycetophila luctuosa. Soppen kan forårsake skade på lagret tømmer og konstruksjonsvirke, inkludert gruvevirke og jernbanesviller."
     },
     sv: {
       description: "En tunn, ettårig vitrötesvamp (ticka) på lövträ, saprotrof på död ved och ibland en svag parasit på levande träd. Den är sannolikt utbredd över hela världen, och är allmän i hela Europa från Skandinavien till Medelhavet, inklusive Storbritannien och Irland, samt genom Asien, Nordamerika och Australien.",
@@ -45612,16 +45600,16 @@ export const CATALOG = [
       notes: "En vurdering fra 2019 klassificerer den som livskraftig (Least Concern) med en stabil bestand. Den kan være lokalt meget talrig i fyrreskove og i fyrreplantager af enhver alder, og der kendes ingen større trusler. Den behandles som sårbar i Tjekkiet. Oprindelige populationer i det vestlige Nordamerika, som tidligere blev henført til dette navn, tilhører Boletus rex-veris, og de i det østlige Nordamerika er Boletus pseudopinophilus. Oprindelige kinesiske populationer henført hertil er andre arter. Den er endvidere rapporteret fra plantede fyrretræer i Mexico, Chile, Sydafrika og New Zealand. Frugtlegemer under ædelgran og rødgran er blevet udskilt som en varietet. Den ophober kviksølv, cadmium og selen med de højeste koncentrationer i porerne. En undersøgelse fra 2007 af fire rørhatte fandt ringe overensstemmelse mellem antallet af frugtlegemer og myceliet i jorden under dem."
     },
     no: {
-      description: 'En stor, ektomykorrhizadannende rørsopp i tempererte og boreale furuskoger. Utbredt i Europa, særlig vanlig i Fennoskandia på sandrik furumo.',
-      cap: 'Hatten er 6–30 cm bred (av og til opptil 40 cm), halvkuleformet til bredt hvelvet, kraftig og massiv. Fargen er karakteristisk dyp rødbrun, mahognibrun eller purpurbrun. Hatthuden er fint ruglete, ujevn og tørr, men kan bli litt klebrig i fuktig vær.',
-      hymenium: 'Rørene er opptil 2,5 cm lange, nesten frie fra stilken, hvite som unge og blir grønngule til olivengule. De skifter ikke farge ved trykk.',
-      stipe: 'Stilken er 7–16 cm lang og 3–10 cm tykk, ofte kulerund eller kraftig knollformet som ung, lys rødbrun med et fint, hevet lyst årenett som er mest markert øverst.',
-      flesh: 'Kjøttet er hvitt, fast og kompakt, med en karakteristisk rødbrun til vinrød tone like under hatthuden. Det forblir hvitt ved overskjæring. Lukten og smaken er behagelig nøtteaktig.',
-      sporePrint: 'Olivenbrunt. Sporene er spindelformede, glatte, 14–19 × 4,5–6 μm.',
-      habitat: 'Fruktlegemer viser seg fra juni til oktober i mykorrhiza med furu (Pinus sylvestris) på tørr, sandrik morenejord og furumoer.',
-      uses: 'Den er en utsøkt matsopp (god matsopp), like høyt verdsatt som vanlig steinsopp (Boletus edulis) og tilberedes på samme måte fersk eller tørket.',
-      confusion: 'Vanlig steinsopp (Boletus edulis) har lysere brun hatt med hvitaktig kant og hvit stilk med lyst årenett. Bleklodden steinsopp (Boletus reticulatus) har lysere, fint lodden hatt og vokser med løvtrær.',
-      notes: 'En vurdering fra 2019 plasserer arten som livskraftig (Least Concern).'
+      description: "En ektomykorrhizasopp i tempererte og boreale furuskoger. Den er vanlig og lokalt tallrik i hele Europa, og den er rapportert fra Asia. I Storbritannia er den vanligere i eldre furuskoger i Skottland enn i plantasjer lenger sør. I Sør-Europa er den mer en fjellart.",
+      cap: "Hatten er vanligvis 6–30 cm bred og kan nå omkring 40 cm. Den er halvkuleformet til å begynne med, deretter hvelvet til tykt puteformet, og til slutt nesten flat. Fargen er mørkt rødbrun til vinrød eller rødbrun-kastanje, uten noe gult bånd ved kanten. Kanten er rosa eller blekrosa, av og til med et lilla skjær, og på en ung hatt kan den være blekrosa med et hvitaktig, pudderaktig belegg. Overflaten er ujevn og ofte rynket, bare svakt filtaktig eller snau, tørr til svakt fetaktig, og klebrig eller litt slimete i fuktig vær. Hatthuden er tykkere og mer gelatinøs enn hos steinsopp (Boletus edulis), blek steinsopp (Boletus reticulatus) og bronserørsopp (Boletus aereus), og ved modning henger den en aning utover rørene.",
+      hymenium: "Rørene er tilvokste til nesten frie ved stilken og opptil cirka 25 mm lange. De og de små porene er hvite til kremfargede til å begynne med, deretter gule med et olivenfarget skjær, og olivenbrune når de er fullt modne. Porens munninger nær stilken kan få en brunaktig tone. Gjennomskårne rør beholder samme farge. Trykk eller skade på porene etterlater dem uforandret, eller farger dem svakt blågrønne til å begynne med og deretter brune.",
+      stipe: "Stilken er vanligvis 7–16 cm lang og 3–10 cm tykk, og store fruktlegemer når omkring 25 cm i høyde og 16 cm i tykkelse. Den er nesten kuleformet eller eggformet som ung, deretter klubbeformet eller tønneformet til sylindrisk, og den forblir forholdsvis kort og kraftig. Overflaten er kremrødlig til blekbrun, hvit eller hvitaktig ved spissen og basis, og av og til nær hattens farge men litt blekere, med et oransjerødt skjær mot basis. Et årenett, hvitt til blekbrunt og av og til rødaktig, strekker seg nesten helt ned til basis. På mange fruktlegemer er årenettet fint, og det er grovere enn nettet hos steinsopp (Boletus edulis), blek steinsopp (Boletus reticulatus) og bronserørsopp (Boletus aereus).",
+      flesh: "Kjøttet er hvitt, fast og kompakt som ungt, og mykere ved modning. Det forblir hvitt ved gjennomskjæring. Et vinrødt til rødbrunt lag ligger like under hatthuden, og stilkbasis kan oppvise brunaktige eller gulaktige flekker. Smaken er behagelig og mild. Lukten er mild til soppaktig.",
+      sporePrint: "Olivenbrunt til olivengrønt. Sporene er spoleformede til sylindrisk-ellipsoide og glatte, ofte med oljedråper, cirka 13–21 × 3,5–6,5 μm.",
+      habitat: "Fruktlegemene vokser enkeltvis eller i små grupper. I Storbritannia bærer de frukt fra sommeren og utover høsten, i Italia så tidlig som i april, og i Sentral-Europa i to bølger: fra mai inn i juni og igjen fra august inn i november. Den vokser på næringsfattig, sur sandjord under furu, inkludert i tørr lavhei, og også sammen med gran og edelgran. Den bærer også frukt under edelkastanje, eik og bøk, og muligens under bjørk og agnbøk.",
+      uses: "Den er en utsøkt matsopp som spises fersk, tørket, hermetisert eller tilberedt på samme måte som steinsopp (Boletus edulis). Den sankes og selges i en rekke land. I Borgotaro-distriktet i Nord-Italia er den én av fire arter som selges under betegnelsen Fungo di Borgotaro. Soppsankere foretrekker den ofte fremfor blek steinsopp (Boletus reticulatus) fordi kjøttet sjeldnere angripes av bille- og fluelarver.",
+      confusion: "Steinsopp (Boletus edulis) har en blekere stilk med et hvitt årenett, en brun hatt med hvitaktig kant og et finere årenett. Blek steinsopp (Boletus reticulatus) har en blekere hatt som sprekker opp i tørt vær og vokser hovedsakelig med løvtrær. Bronserørsopp (Boletus aereus) har en mørkere, bronsefarget filtaktig hatt uten mahognitonen, og fastere kjøtt. Gallerørsopp (Tylopilus felleus) har porer med et rosa skjær og en svært bitter smak. Dronningrørsopp (Butyriboletus regius) er mer rosa, og porene er aldri hvite.",
+      notes: "En vurdering fra 2019 plasserer den som livskraftig (Least Concern) med en stabil bestand. Den kan være lokalt svært tallrik i furuskog og i furuplantasjer av alle aldre, og ingen store trusler er kjent. Den behandles som sårbar i Tsjekkia. Opprinnelige bestander i det vestlige Nord-Amerika som tidligere ble ført under dette navnet tilhører Boletus rex-veris, og de i det østlige Nord-Amerika er Boletus pseudopinophilus. Opprinnelige kinesiske populasjoner plassert her tilhører andre arter. Den har også blitt rapportert fra plantede furuer i Mexico, Chile, Sør-Afrika og New Zealand. Fruktlegemer under edelgran og gran har blitt skilt ut som en varietet. Den akkumulerer kvikksølv, kadmium og selen, med de høyeste konsentrasjonene i porene. En studie fra 2007 av fire rørsopper fant lite samsvar mellom antallet fruktlegemer og mycelet i jordsmonnet under dem."
     },
     sv: {
       description: "En ektomykorrhizabildande sopp i tempererade och boreala tallskogar. Den är allmän och lokalt talrik i hela Europa och rapporterad från Asien. I Storbritannien är den vanligare i äldre tallskogar i Skottland än i planteringar längre söderut. I Sydeuropa är den främst en bergsart.",
@@ -46418,16 +46406,16 @@ export const CATALOG = [
       notes: "Den bitre smag skyldes overvejende calopin og O-acetylcyclocalopin A. Frugtlegemerne indeholder tillige pulvinsyrederivater såsom atromentinsyre, variegatinsyrer og xerocomsyre, som i laboratorieforsøg hæmmede cytokrom P450-enzymer. De vigtigste flygtige stoffer er 3-octanon, 3-octanol, 1-octen-3-ol og limonen. En sammenligning af europæiske og nordamerikanske fund konkluderede, at den typiske form ikke findes i USA, skønt flere nordamerikanske håndbøger fortsat nævner den. I Pacific Northwest viste sekventerede fund med rød stok sig hidtil at tilhøre Caloboletus rubripes og ikke denne art."
     },
     no: {
-      description: 'En ektomykorrhizadannende rørsopp i bar- og løvskog på sur til kalkrik jord. Utbredt i Europa fra Middelhavet til Skandinavia, ofte i høyereliggende bøke- og granskoger.',
-      cap: 'Hatten er 3–20 cm bred (av og til opptil 25 cm). Den starter halvkuleformet med innrullet kant og flater ut til hvelvet. Fargen er askegrå, krittaktig lærgrå til lyst okergrå, ofte med et svakt olivenskjær. Overflaten er tørr og fint filtaktig som ung.',
-      hymenium: 'Rørene er 3–20 mm lange, utrandet ved stilken, sitrongule til olivengule, og blåner raskt ved snitt. Porene er bittesmå, runde, først sitrongule og blåner kraftig til grønnblått ved trykk.',
-      stipe: 'Stilken er 3–15 cm lang og 1–5 cm tykk, ofte kraftig klubbeformet eller tønneformet nederst. Fargen er sitrongul øverst og karminrød til skarlagensrød på nedre halvdel, dekket av et markant, fint opphøyd hvitaktig til gult årenett.',
-      flesh: 'Kjøttet er tykt, fast, hvitaktig til lysegult i hatten og rødlig i stilkbasis, og blåner ved snitt. Lukten er svakt syrlig, men smaken er intenst og vedvarende besk og bitter.',
-      sporePrint: 'Olivenbrunt. Sporene er glatte, spindelformede, 11–16 × 4,5–6 μm.',
-      habitat: 'Fruktlegemer viser seg fra juli til oktober i fjellnær barskog (gran) og bøkeskog.',
-      uses: 'Ikke matsopp (inedible). Koking fjerner ikke den intense bitterheten, og en enkelt sopp kan ødelegge en hel matrett. Den kan også gi milde mageplager.',
-      confusion: 'Rotrørsopp (Caloboletus radicans) har knapt rødt på stilken og mangler det røde årenettet. Satansopp (Rubroboletus satanas) har røde porer og vokser i lavlandet i varm løvskog.',
-      notes: 'Den bitre smaken skyldes bitterstoffene calopin og cyclocalopin.'
+      description: "En ektomykorrhizasopp i nåle- og løvskoger. Den forekommer over hele Europa fra Middelhavet og nordover, hovedsakelig i den tempererte sonen, og er mest tallrik i fjellområder. Den er også dokumentert i Kaukasus, Tyrkia, Pakistan, Yunnan, Korea og Taiwan. Rapporter fra Nord-Amerika og Japan er omstridte.",
+      cap: "Hatten er 3–20 cm bred og når unntaksvis 25 cm. Den er halvkuleformet til å begynne med med en lenge innrullet og ofte uregelmessig bølgete kant, og blir hvelvet eller puteformet. Midten kan flate ut, selv om enkelte fruktlegemer forblir avrundede opp i høy alder. Overflaten er tørr og matt, hos unge eksemplarer fint filtaktig eller dunet og senere glatt, og i midten sprekker den av og til opp eller danner små skjell. Fargen varierer fra lysebrun, leirbrun og kaffe-med-melk over røykgul og gråbrun til olivenbrun eller gulbrun, av og til med et olivengrønt skjær og sjelden med et rødlig anstrøk. Hatthuden kan rage en aning utover kanten.",
+      hymenium: "Rørene er 3–20 mm lange og utrandede ved stilken. De er sitrongule, deretter olivengule. Porene er små og runde, til å begynne med grågule eller sitrongule og senere grønnlige eller olivengule, i samme farge som rørene. Skadede eller gjennomskårne porer og rør blir blå eller blågrønne. Basidiene er klubbeformede og firesporede, cirka 30–38 × 9–12 μm. Cystidene er klubbeformede til spoleformede og hyaline, cirka 25–40 × 10–15 μm.",
+      stipe: "Stilken er 3–15 cm lang og 1–5 cm tykk. I Storbritannia og Irland er den ofte cirka 7–9 cm lang og 3–5 cm tykk. Unge stilker er buktede eller tønneformede. Modne stilker er klubbeformede til sylindriske, ofte tykkere på midten og avsmalnende under hatten eller mot basis, og av og til bøyde. Toppen er klargul. Derunder er stilken karminrød til rosenrød, og basis er vanligvis matt brunrød eller brun. Hele stilken er av og til rød. Sollys kan bleke den røde fargen, og hos overmodne fruktlegemer eller eksemplarer som har ligget noen dager kan det røde forsvinne og etterlate en okerbrun tone. Overflaten dekkes av et fint til ganske grovt årenett. Ved spissen er nettet hvitt eller lysende gult mot en gul bunn. Lenger nede er det kjøttrødt, smussrødt eller brungult og brunfarges nedenfra og oppover. Maskene blir større og mer langstrakte nedover og forsvinner helt ved basis. Trykkskadede partier blir blå. Ring mangler.",
+      flesh: "Kjøttet er hvitaktig, blekt kremfarget eller lysende gult, og i stilkbasis ofte smussrødlig eller fiolettaktig. Snittflaten blir blå eller blågrønn. Denne fargeforandringen kan være rask eller bare moderat og er av og til svak, hvorpå det blå blekner. Snittflaten kan forbli hvit et øyeblikk før det blågrønne trer frem. Ungt kjøtt er hardt. Lukten er svak og soppaktig, eller kraftigere og ubehagelig og har blitt sammenlignet med blekk. Smaken er til å begynne med søtaktig, deretter svært bitter. Bitterheten kan avta hos eldre fruktlegemer og variere fra sted til sted. Kjøttet er sterkt amyloid i Melzers reagens.",
+      sporePrint: "Olivengult, blekt okeroliven, oliven-snusbrunt eller brunaktig olivenfarget. Basidiosporene er glatte, smalt ellipsoide til nesten spoleformede, cirka 12–16 × 4–6 μm.",
+      habitat: "Fruktlegemene bærer frukt fra juni til desember og rikeligst fra juli til oktober. De vokser enkeltvis eller i grupper, ofte i åslendte strøk og fjellområder og mer sjelden i lavlandet. Vanlige vertstrær er gran, edelgran, furu, bøk og eik. I Sentral-Europa påtreffes soppen oftest med gran og bøk og vokser jevnlig på sur jordbunn. I Storbritannia og Irland forekommer den hovedsakelig på kalkholdig eller nøytral grunn under bøk og eik, men også med furu og gran. I Pakistan er den registrert sammen med Populus ciliata og Abies pindrow.",
+      uses: "Varmebehandling fjerner ikke bitterheten, og ett enkelt fruktlegeme kan ødelegge en hel matrett. Enkelte personer blir syke med mage-tarm-symptomer etter inntak. Fruktlegemer har tradisjonelt blitt spist i Det fjerne østen i Russland og i Ukraina.",
+      confusion: "Rotrørsopp (Caloboletus radicans) har lite eller intet rødt på stilken, et svakere årenett og en rotaktig tilspisset basis, og den vokser i varme, kalkrike løvskoger. Caloboletus kluzakii (Caloboletus kluzakii) har likeledes mye mindre rødt på en gul stilk og et svakere årenett, og vokser med løvtrær på kalkrik grunn. Caloboletus polygonius (Caloboletus polygonius) er sørligere, vokser i kalkrike løvskoger, har et mindre tydelig årenett på stilken og kjøttet reagerer ikke i Melzers reagens. Satansopp (Rubroboletus satanas) har røde poremunninger. Ildrørsopp (Suillellus luridus) har mørkere hatt, porer som blir oransje til rødoransje og oransjerødt kjøtt i stilkbasis, og kjøttet blåner umiddelbart. Blodrørsopp (Neoboletus luridiformis) har røde rør og porer. Ruterørsopp (Xerocomellus chrysenteron) har en stilk uten årenett. Andre Xerocomellus-arter er mindre, mykere og spinklere, med brun hatt og kjøtt som ikke er bittert. Steinsopp (Boletus edulis) har intet rødt på stilken og porene blåner ikke. Caloboletus rubripes (Caloboletus rubripes) fra det vestlige Nord-Amerika er bitter og har lignende hatt og gule porer som blåner ved trykk, men den rødlige stilken mangler årenett. Caloboletus inedulis (Caloboletus inedulis) er mindre og har en hvit til gråhvit hatt. Caloboletus roseipes (Caloboletus roseipes) vokser med hemlokkgran. Caloboletus firmus (Caloboletus firmus) har røde porer og intet årenett på stilken.",
+      notes: "Den bitre smaken forårsakes overveiende av calopin og O-acetylcyklocalopin A. Fruktlegemene inneholder også pulvinsyrederivater som atromentinsyre, variegatsyre og xerocomsyre, som i laboratorieforsøk hemmet cytokrom P450-enzymer. De viktigste flyktige stoffene er 3-oktanon, 3-oktanol, 1-okten-3-ol og limonen. En sammenligning mellom europeiske og nordamerikanske funn konkluderte med at den typiske formen ikke forekommer i USA, selv om flere nordamerikanske felthåndbøker fremdeles fører den opp. I Stillehavs-nordvest har sekvenserte funn med rød stilk vist seg å tilhøre Caloboletus rubripes og ikke denne arten."
     },
     sv: {
       description: "En ektomykorrhizabildande sopp i barr- och lövskogar. Den förekommer över hela Europa från Medelhavet och norrut, främst i den tempererade zonen, och är mest talrik i bergstrakter. Den är även dokumenterad i Kaukasus, Turkiet, Pakistan, Yunnan, Korea och Taiwan. Uppgifter från Nordamerika och Japan är omstridda.",
@@ -47249,16 +47237,16 @@ export const CATALOG = [
       notes: "I Europa blev den længe forvekslet med Xerocomus ferrugineus, og fund uden forbindelse til eg betragtes nu som upålidelige og tilhører sandsynligvis denne art. En analyse af hatte fra Noteć-skoven i det vestlige Polen fra 2012 fandt rigelige mængder kalium, fosfor og magnesium med gennemsnitsværdier på henholdsvis 46000, 8400 og 1100 mg/kg tørvægt og fastslog, at cadmium, kviksølv og bly ikke udgjorde nogen risiko for forbrugeren."
     },
     no: {
-      description: 'En ektomykorrhizadannende rørsopp i løv- og blandingsskog, særlig under eik. Utbredt over store deler av Europa.',
-      cap: 'Hatten er 3–12 cm bred (av og til opptil 18 cm). Den er halvkuleformet til hvelvet, gulbrun, olivengul til semsket skinnbrun. Overflaten er tørr og mykt fløyelsaktig filtet som ung, og sprekker sjelden opp i dype ruter.',
-      hymenium: 'Rørene er 5–15 mm dype, tilvokste til svakt nedløpende, lysende kromgule til olivengule. Porene er store og kantede, 1–2 mm brede, og blåner bare svakt og uregelmessig ved trykk.',
-      stipe: 'Stilken er 3–10 cm lang og 1–2,5 cm tykk, ofte avsmalnende mot basis, gulaktig øverst med rødbrune langsgående ribber eller flak, men mangler ekte årenett.',
-      flesh: 'Kjøttet er hvitaktig til blekgult, kraftigere gult over rørene, og svakt rosabrunt i stilkbasis. Ved snitt forblir det uforandret eller blåner bare ytterst svakt over rørene. Lukten er behagelig fruktig og smaken mild.',
-      sporePrint: 'Olivenbrunt. Sporene er glatte, spindelformede, 10–14 × 4–5 μm.',
-      habitat: 'Fruktlegemer viser seg fra juni til oktober under eik og bøk, men også i blandingsskog.',
-      uses: 'Spiselig (spiselig). Soppen er spiselig og egner seg i blandingsretter, men er av middels matverdi da hatten fort blir myk og svampete.',
-      confusion: 'Fløyelsrørsopp (Xerocomus ferrugineus) har helt hvitt uforandret kjøtt også i stilkbasis og lysende gult basismycel. Ruterørsopp (Xerocomellus chrysenteron) har rød hud under hatthuden som synes i sprekkene.',
-      notes: 'Arten ble lenge forvekslet med Xerocomus ferrugineus, og funn knyttet til eik tilhører i dag X. subtomentosus s.str.'
+      description: "En ektomykorrhizasopp i løv- og blandingsskoger. Den er vidt utbredt i Europa, vanlig i lavlandet og i kupert terreng samt sjelden i Storbritannia og Irland, og den er rapportert fra Asia, Nord-Amerika, Australia, Marokko under korkeik og det vestlige Grønland sammen med dunbjørk.",
+      cap: "Hatten er vanligvis 3–12 cm bred og helt unntaksvis cirka 20 cm. Den er halvkuleformet til å begynne med, deretter hvelvet til flat, ofte med en bølgete kant. Overflaten er tørr og fløyelsaktig eller filtaktig, senere glattere, og sprekker opp ved tørke slik at det gulaktige eller hvitaktige kjøttet trer frem. Fargen spenner fra olivengrønn og guloliven over oker og lysebrun til brun, og enkelte hatter er teglrøde, klargule eller røde. Hatthuden er vanskelig å flå av. Ammoniakk eller kaliumhydroksid farger den straks mahognirød. Den beskrives både som et palisadederm av septerte, sylindriske celler, glatte eller nesten glatte, og som et fibrøst trikoderm.",
+      hymenium: "Rørene er kromgule til klargule, senere olivengule, cirka 5–15 mm lange samt tilvokste eller litt nedløpende. De rives i stykker heller enn å løsne rent. Porene er store og kantede, i samme farge, og ved modning cirka 1–3 mm vide. Vanligvis blir de blå eller blågrønne ved trykk eller skade, om enn ikke på hvert enkelt fruktlegeme, og det skadede stedet kan senere bli brunt. Hos enkelte eksemplarer blåner rørene knapt i det hele tatt. Basidiene er klubbeformede og firesporede, cirka 25–34 × 6,5–9 μm. Pleurocystidene er lansettformede og glatte, cirka 47–72 × 8–12 μm.",
+      stipe: "Stilken mangler ring. Den er sylindrisk til spoleformet, ved basis ofte avsmalnende eller tilspisset og av og til noe fortykket. Den er vanligvis 4–12 cm lang, av og til opptil 14 cm, og cirka 0,5–2 cm tykk, av og til opptil 2,5 cm. Den er gul, blekere eller brunaktig nedentil, med brune, rosa eller rødaktige korn eller langsgående ribber som kan minne om et grovt, prikkete årenett. Overflaten forandrer seg ikke ved trykk. Det basale mycelet er hvitaktig, og enkelte mycelstrenger kan være gule.",
+      flesh: "Kjøttet er hvitaktig til gult, dypere gult like over rørene og rosa eller rosabrunt i den nedre delen av stilken. Gjennomskåret kjøtt i hatten blåner svakt eller ikke i det hele tatt, og stilkkjøttet kan få en svak rødme. Hattkjøttet blir mykt. Stilkkjøttet forblir fibrøst og fast samt brunfarges mot basis. Smaken er mild eller en aning syrlig. Lukten er mild eller lite fremtredende, av og til svakt syrlig, og stilkbasis hos eldre fruktlegemer kan lukte jodoform.",
+      sporePrint: "Olivenbrunt til brunaktig olivenfarget. Sporene under lysmikroskop er glatte, smalt ellipsoide til nesten spoleformede, med en grunn suprahilær fordypning, cirka 9–15 × 4–6 μm. Under elektronmikroskop oppviser overflaten en fin ornamentering.",
+      habitat: "Fruktlegemene vokser enkeltvis eller i små grupper, i Sentral-Europa fra juni til slutten av oktober og i Storbritannia og Irland fra august til oktober. De vokser i løv- og blandingsskoger samt i parker, oftest sammen med eik, men også med bøk, agnbøk og bjørk, inkludert i kanter av nåletreplantasjer der bjørk og selje forekommer. I Storbritannia vokser de ofte på kalkrik grunn. Der arten er strengt bundet til eik, blant annet ved innsjøbredder i lavland og åslendte strøk, betraktes funn under andre treslag som usikre.",
+      uses: "Den er spiselig og egnet for blandingssoppretter samt kan tørkes. Den er ikke høyt verdsatt. Hatthuden smaker av og til bittert, og de seige delene av eldre stilkbaser kasseres.",
+      confusion: "Brun fløyelsrørsopp (Xerocomus ferrugineus) har hvitaktig, uforanderlig kjøtt, også i stilkbasis, gult basalt mycel samt porer som er olivenfargede også som unge; den vokser særlig med nåletrær eller med bøk, bjørk og vier, ikke med eik. Gyllen fløyelsrørsopp (Xerocomus chrysonemus) har klargult kjøtt i stilkbasis og gult basalt mycel, og kjøttet blåner vanligvis ikke. Xerocomus silwoodensis (Xerocomus silwoodensis) har en mørkere rødbrun hatt, vokser med poppel (Populus) og har hvitaktig kjøtt som blir gulaktig i luft. Ruterørsopp (Xerocomellus chrysenteron) sprekker opp slik at rosa eller rødt kjøtt kommer til syne, er ofte mindre og mykere samt har en rødaktig stilk som vanligvis ikke smalner av mot basis. Aureoboletus moravicus (Aureoboletus moravicus) lukter dill og kokos, har en brun linje over rørene og blåner ikke. Brunskrubb (Imleria badia) har mørkere hatt, blåner kraftigere og er klebrig eller slimete i fuktig vær. Rødhattede former skilles fra gruppen rundt rød ruterørsopp (Xerocomellus rubellus) ved det rosa eller rosabrune kjøttet i stilkbasis og ved hyfer i hatthuden som er svakt inkrusterte eller glatte.",
+      notes: "I Europa ble den lenge forvekslet med Xerocomus ferrugineus, og funn uten tilknytning til eik betraktes i dag som usikre og tilhører sannsynligvis den arten. En analyse fra 2012 av hatter fra Noteć-skogen i det vestlige Polen fant rikelige mengder kalium, fosfor og magnesium med gjennomsnittsverdier på henholdsvis 46 000, 8 400 og 1 100 mg/kg tørrvekt, og slo fast at kadmium, kvikksølv og bly ikke utgjorde noen helserisiko for forbrukeren."
     },
     sv: {
       description: "En ektomykorrhizabildande sopp i löv- och blandskogar. Den är vitt utbredd i Europa, allmän i låglandet och i backiga landskap samt sällsynt i Storbritannien och Irland, och den är rapporterad från Asien, Nordamerika, Australien, Marocko under korkek samt västra Grönland tillsammans med glasbjörk.",
@@ -48060,16 +48048,16 @@ export const CATALOG = [
       notes: "På grundlag af DNA-analyser betragter mange kilder Leccinum cerinum, Leccinum percandidum og Leccinum roseotinctum som farveformer af denne art. En vurdering fra 2025 klassificerer den som ikke truet (Least Concern). Den har en bred udbredelse og en stor, stabil bestand, og der er ikke identificeret nogen væsentlig trussel."
     },
     no: {
-      description: 'En stor, ektomykorrhizadannende rørsopp som er strengt knyttet til bjørketrær. En av de vanligste og mest kjente rørsoppene i Fennoskandia og Nord-Europa på heier, myrkanter og i bjørkeskog.',
-      cap: 'Hatten er 4–20 cm bred, først halvkuleformet og fast, senere hvelvet til puteforformet. Fargen er lysende oransjegul, teglsteinsrød til oransjebrun. Hatthuden er tørr og fint lodden som ung, og henger ofte litt ut over hattkanten som en tynn flikete hinne.',
-      hymenium: 'Rørene er 8–25 mm lange, dypt innsunket ved stilken, gråhvite til brungrå eller blygrå. Porene er bittesmå og flekkes mørkegrå ved trykk.',
-      stipe: 'Stilken er 8–22 cm lang og 2–5 cm tykk, kraftig, hvit i bunnen og fra tidlig av tett besatt med grove, svarte skjell (skrubber) i opprette linjer.',
-      flesh: 'Kjøttet er tykt, fast og hvitt som ungt. Ved snitt farges det først lilla-rosa eller vinrødt, for deretter raskt å mørkne til blågrått og til slutt kullsvarte toner. Lukten og smaken er mild.',
-      sporePrint: 'Okerbrunt til olivenbrunt. Sporene er spindelformede, glatte, 12,5–16 × 4–5 μm.',
-      habitat: 'Fruktlegemer viser seg fra juni til oktober i mykorrhiza med bjørk (Betula pendula, B. pubescens og dvergbjørk B. nana).',
-      uses: 'Spiselig (god matsopp). Må gjennomkokes eller gjennomstekes grundig i minst 15–20 minutter. Rå eller utilstrekkelig varmebehandlet rødskrubb forårsaker alvorlig mage- og tarmforgiftning. Kjøttet blir svart under tilberedning, men beholder en fast og god tekstur.',
-      confusion: 'Brunskrubb (Leccinum scabrum) har brun hatt og kjøtt som ikke misfarges til svart. Ospeskrubb (Leccinum albostipitatum) har hvite stilkskjell som ung og vokser med osp.',
-      notes: 'I tørre heieområder og fjellet er rødskrubb ofte en av de mest dominerende matsoppene.'
+      description: "En ektomykorrhizasopp i bjørkeskoger, på heier og i kratt, som vokser enkeltvis eller i spredte grupper. I Storbritannia og Irland er den ganske vanlig, og på det europeiske kontinentet er den vidt utbredt fra Skandinavia sørover til Portugal, Spania og Italia samt østover til Russland. Den forekommer også i deler av Nord-Amerika, inkludert det sørøstlige Alaska.",
+      cap: "Hatten er 4–20 cm bred. Den er halvkuleformet og ganske tynn som svært ung, deretter tykkjøttet, bredt hvelvet eller puteformet og flater sjelden helt ut. Overflaten er matt og fint filtaktig eller dunet, vanligvis tørr, og i fuktig vær av og til noe fetaktig. Fargen er guloransje, oransje, rødoransje eller oransjebrun, og en sjelden blek form er nesten hvit, av og til med et rosa eller oransje skjær. Hatthuden rager cirka 2–4 mm utover kanten hos unge eksemplarer, ofte som en frynset brem, og dette overhenget forsvinner senere.",
+      hymenium: "Rørene er omkring 8–25 mm lange, gråhvite til musegrå eller brungrå og nesten frie eller dypt utrandede rundt stilken. Porene er små, cirka 0,5 mm vide, og runde. Som unge er de grå, olivengråbrune eller musegrå og blir lysere med alderen, okerfargede eller brune. Trykkskadede porer blir brune eller får et purpurgrått skjær. Basidiene er firesporede, og cystider forekommer på utsiden av rørene.",
+      stipe: "Stilken er 8–22 cm lang og 2–7 cm tykk, ofte snarere 2–4 cm, uten ring. Den er langstrakt og klubbeformet eller bukete i ungdommen, deretter mer sylindrisk og ved modning nesten alltid smalere under hatten enn ved basis. Overflaten er hvit, lysegrå eller gulgrå og fra starten dekket av kontrasterende gråsorte til sorte ullaktige skjell.",
+      flesh: "Kjøttet er hvitaktig og fast hos unge eksemplarer. Ved gjennomskjæring kan det bli rosa eller rødaktig, deretter grått eller purpurgrått og til slutt sort. Hattkjøttet kan skifte farge langsomt og til å begynne med bare bli grått før det med et fiolett skjær blir sort, mens stilken, særlig basis, farges blågrønn og deretter nesten sort. Tørket kjøtt blir sort. Hos eldre fruktlegemer blir hatten myk, mens stilkbasis forblir fibrøs og kan bli treaktig. Lukten er mild, og smaken er mild, behagelig eller søtaktig.",
+      sporePrint: "Okerbrunt til olivenbrunt eller gulbrunt. Sporene er smalt ellipsoide til nesten spoleformede og tynnveggede, oftest 11–16,5 × 3,5–5 μm, med et lengde-bredde-forhold nær 3,5, og de er inamyloide. Enkelte sporer er kortere, ned til cirka 9 μm.",
+      habitat: "Fruktlegemene bærer frukt fra mai til november. Sentraleuropeiske funn strekker seg fra mai til oktober, britiske og irske fra juli til september og bredere europeiske kilder fra juli eller august til november. De vokser på bakken sammen med bjørk på sandholdig, moderat sur eller leirholdig grunn, i løv- og blandingsskoger, på heier, i kratt, lunder og veikanten, av og til der det også finnes nåletrær. De kan være lokalt tallrike.",
+      uses: "Unge, faste fruktlegemer er etter grundig varmebehandling en god matsopp, selv om steinsopp (Boletus edulis) er overlegen i smak og konsistens. Rå eller utilstrekkelig varmebehandlede fruktlegemer kan forårsake kvalme og oppkast, og de bør derfor stekes eller kokes i 15–20 minutter. Kjøttet blir sort ved tilberedning. Den sankes som matsopp i Finland, Latvia, Litauen, Estland, Belarus, det sørøstlige Alaska og Russland samt selges på markeder i Tsjekkia.",
+      confusion: "Brunskrubb (Leccinum scabrum) vokser likeledes med bjørk. Den har en brun hatt, og stilkkjøttet oppviser ingen påfallende fargeforandring ved gjennomskjæring. Hvitstilket ospeskrubb (Leccinum albostipitatum) vokser med osp. Stilken forblir hvit langt inn i modningen, og poremunningene er hvitaktige hos unge eksemplarer. Ospeskrubb (Leccinum aurantiacum) vokser vanligvis med eik eller osp, har rødbrune stilkskjell og likeledes hvitaktige poremunninger i ungdommen. Granskrubb (Leccinum piceinum) vokser med gran, og furuskrubb (Leccinum vulpinum) vokser med furu. Deres stilkskjell er brune, ikke sorte.",
+      notes: "Basert på DNA-studier betrakter mange kilder Leccinum cerinum, Leccinum percandidum og Leccinum roseotinctum som fargeformer av denne arten. En vurdering fra 2025 plasserer den som livskraftig (Least Concern). Den har en bred utbredelse og en stor, stabil bestand, og ingen vesentlige trusler er identifisert."
     },
     sv: {
       description: "En ektomykorrhizabildande sopp i björkskogar, på hedar och i buskmarker, som växer enstaka eller i spridda grupper. I Storbritannien och Irland är den ganska allmän, och på den europeiska kontinenten är den vitt utbredd från Skandinavien söderut till Portugal, Spanien och Italien samt österut till Ryssland. Den förekommer även i delar av Nordamerika, inklusive sydöstra Alaska.",
@@ -48849,16 +48837,16 @@ export const CATALOG = [
       notes: "En vurdering fra 2025 klassificerer arten som livskraftig (Least Concern). Den har en bred udbredelse og en stor, stabil bestand, og der er ikke identificeret nogen væsentlig trussel. I Storbritannien og Irland er den sjælden og primært sydlig og sydøstlig, og den er tilstrækkelig sparsom til, at indsamling frarådes. I Slovakiet er den meget sjælden, omend regelmæssig på sine voksesteder. I Tjekkiet blev den længe betragtet som sjælden og er blevet fundet hyppigere i de seneste årtier. Omkring Novosibirsk sætter den frugtlegemer under plantede sølvpopler i en blandet birkeskov."
     },
     no: {
-      description: 'En stor, ektomykorrhizadannende skrubb knyttet til osp og sølvpoppel. Utbredt i Europa i parker, allégater og skogbryn med poppelslag.',
-      cap: 'Hatten er 4–16 cm bred (av og til opptil 20 cm), halvkuleformet til hvelvet, gråbrun, lærbrun til mørk kastanjebrun, ofte med et svakt fiolett skjær som ung. Overflaten er tørr og fint lodden, og blir glatt med alderen.',
-      hymenium: 'Rørene er 10–30 mm lange, utrandet ved stilken, kremhvite til gråhvite, og mørkner til brungrått. Porene er små og flekkes mørkt ved berøring.',
-      stipe: 'Stilken er 5–20 cm lang og 1,5–4 cm tykk, ofte oppsvulmet på midten eller klubbeformet. Den er hvitaktig med tette, fine brunsvarte skjell, og har ofte en karakteristisk blågrønn misfarging ved basis.',
-      flesh: 'Kjøttet er usedvanlig fast og kompakt, og beholder fastheten lenge. Ved snitt rødner det svakt i hatten før det gråner, mens stilkkjøttet farges mørkt blågrønt mot basis.',
-      sporePrint: 'Olivenbrunt. Sporene er spindelformede, glatte, 13–17 × 5–6 μm.',
-      habitat: 'Fruktlegemer viser seg fra juni til oktober under osp (Populus tremula) og hvitpoppel (Populus alba).',
-      uses: 'Spiselig (god matsopp). Den krever grundig varmebehandling i 15–20 minutter som alle skrubber, men regnes som en av de beste i slekten på grunn av det uvanlig faste kjøttet.',
-      confusion: 'Brunskrubb (Leccinum scabrum) vokser med bjørk, har mykere kjøtt som ikke rødner eller sverter, og mangler blågrønn farge i stilkbasis.',
-      notes: 'En vurdering fra 2025 lister arten som livskraftig (Least Concern).'
+      description: "En ektomykorrhizasopp i poppellunder, parker og alléer, strengt knyttet til popler (særlig gråpoppel, sølvpoppel og osp). Opprinnelig i Europa og rapportert fra Asia. I Storbritannia og Irland er den sjelden og hovedsakelig sørlig; i Sentral-Europa er den ganske vanlig.",
+      cap: "Hatten er vanligvis 6–16 cm bred og kan nå omkring 20 cm. Den begynner som halvkuleformet, deretter puteformet til hvelvet og senere flatere, og kan med alderen bli bølgete eller uregelmessig i fasongen. Overflaten er glatt, matt og fint filtaktig som ung, tørr og bare i fuktig vær en aning klebrig eller slimete ved modning. Fargen varierer fra blekgrå, beige og gråbrun til umbrabrun, sepiabrun eller rødbrun, av og til blekere eller gulaktig mot kanten. Kanten henger ofte utover rørene som en smal frynsete brem. Overflaten kan sprekke opp fint med alderen, men brytes ikke opp i grove partier og er ikke gropete.",
+      hymenium: "Rørene er 10–30 mm lange og fordypede til nesten frie rundt stilken, av og til bredt tilvokste. De er hvite eller kremfargede hos unge eksemplarer, deretter grå eller smussig kremfargede. Porene er små og runde, cirka 0,3–0,5 mm vide, i samme farge som rørene, og kan få et olivenskjær med alderen. De er ikke gule. Trykkskadede porer blir brunaktige, og enkelte innsamlinger oppviser en rosa tone før de mørkner. Basidiene er klubbeformede og firesporede, cirka 20–37 × 6–9 μm, uten bøyler. Cystider finnes rikelig på porkanten, flaskeformede og ofte med en lang hals, cirka 20–75 × 5,5–17 μm og avsmalnende til en hals på 2–4 μm i bredde, fargeløse eller med brunt innhold.",
+      stipe: "Stilken er 5–20 cm lang og 1–5 cm tykk, sylindrisk, bukete eller klubbeformet, ofte smalere under hatten og tykkere mot basis, uten ring. Den er hvit, kremfarget eller gråaktig, dekket av fine skjell som til å begynne med er blekbrune og mørkner til brunsorte, særlig mot basis, av og til ordnet i langsgående rader eller forent i et løst årenett. På et ungt fruktlegeme forblir skjellene ved toppen hvite, noe som etterlater en blek sone under hatten inntil hatten brer seg ut. Basis er ofte blågrønt flekket. Den øvre tredjedelen er av og til fint ribbet.",
+      flesh: "Kjøttet er hvitt og forblir lenge fast og kompakt, og mykner i hatten først ved full modning mens stilken forblir hard og fibrøs. Gjennomskåret kjøtt i hatten og øvre del av stilken får en lakserosa til rødlig tone og beholder den fargen over lang tid, deretter gråfiolett eller gråsort. Det svartner ikke alltid fullstendig. Kjøttet i stilkbasis, som allerede kan være gulaktig grønt, farges blågrønt. Formalin farger kjøttet intenst rødt. Lukten er svak og behagelig, og smaken er mild.",
+      sporePrint: "Olivenbrunt til gulbrunt. Sporene er spoleformede til ellipsoide, glatte og ofte med dråper, cirka 12–18 × 4,5–6 μm. Publiserte mål spenner også fra så små som cirka 9–13 × 3,5–6 μm til så store som cirka 16–20 × 5–7 μm.",
+      habitat: "Fruktlegemene bærer frukt fra mai til oktober: fra sensommeren til høsten i Storbritannia, fra juni til begynnelsen av oktober i Sentral-Europa og fra august til oktober i Slovakia. De vokser på bakken, enkeltvis eller i grupper og av og til i små knipper, i åpen skog, i skogs- og engkanter, i parker og på kirkegårder samt langs veikanter sammen med popler, særlig sølvpoppel og osp, inkludert plantede trær, og de kan stå flere meter fra trestammen. De kan bære frukt i ganske tørt vær. Kilder er uenige om jordsmonnet: noen beskriver en forkjærlighet for kalkrik grunn og andre for sur grunn.",
+      uses: "Unge, faste fruktlegemer er en utsøkt matsopp ved grundig varmebehandling, og den fibrøse stilkbasis kasseres helst. Kjøttet forblir fastere og mindre vannaktig enn hos andre Leccinum-arter, og smaken er utmerket, særlig etter tørking. Den bør ikke spises rå.",
+      confusion: "Brunskrubb (Leccinum scabrum) vokser med bjørk; kjøttet forblir hvitt eller blir bare svakt rosa, og stilkbasis farges ikke blågrønn. Rødskrubb (Leccinum versipelle) vokser likeledes med bjørk, har en oransjeoker hatt og kjøttet får en blågrønn eller fiolettgrå tone ved skade. Spraglet skrubb (Leccinum variicolor) vokser med bjørk og har en spettet hatt med blekere partier, mens poppelskrubb har en jevnere hatt og vokser med poppel. Hasselskrubb (Leccinum pseudoscabrum) vokser med agnbøk; hatten er bulkete, porene blir gulaktige og kjøttet svartner mer fullstendig. Myrskrubb (Leccinum cyaneobasileucum) vokser med bjørk og er mindre; stilkbasis får en blå farge og kjøttet blir rosa og deretter langsomt blått. Gul skrubb (Leccinellum crocipodium) vokser med eik, bøk og agnbøk, har en okergul til gulbrun hatt og farges ikke blågrønn ved stilkbasis. Leccinum rufum var. decipiens (Leccinum rufum var. decipiens) vokser likeledes med osp; stilkskjellene forblir bleke over lang tid og hatthuden henger kraftigere utover kanten. Leccinum fuscoalbum (Leccinum fuscoalbum) har en mørkere brun hatt og kjøttet svartner mer intenst.",
+      notes: "En vurdering fra 2025 plasserer arten som livskraftig (Least Concern). Den har en bred utbredelse og en stor, stabil bestand, og ingen vesentlige trusler er identifisert. I Storbritannia og Irland er den sjelden og hovedsakelig sørlig og sørøstlig, og den er sjelden nok til at sanking frarådes. I Slovakia er den svært sjelden, men regelmessig på sine voksesteder. I Tsjekkia ble den lenge betraktet som uvanlig, men har blitt funnet oftere i de seneste tiårene. Rundt Novosibirsk bærer den frukt under plantede sølvpopler i en blandet bjørkeskog."
     },
     sv: {
       description: "En ektomykorrhizabildande sopp i poppellundar, parker och alléer, strikt knuten till popplar (särskilt gråpoppel, silverpoppel och asp). Ursprunglig i Europa och rapporterad från Asien. I Storbritannien och Irland är den sällsynt och främst sydlig; i Centraleuropa ganska allmän.",
@@ -49649,16 +49637,16 @@ export const CATALOG = [
       notes: "I september og oktober 2004 udviklede 59 mennesker i ni japanske præfekturer akut encefalopati efter at have spist svampen, og 17 døde. De fleste af de omkomne led af en nyresygdom, og deres gennemsnitsalder var cirka 70 år. Symptomerne begyndte inden for tre uger efter måltidet, og døden indtraf 13 til 29 dage efter symptomernes opståen. Endnu et dødsfald i 2009 ramte en person i hæmodialyse. Årsagen er endnu ikke endeligt fastlagt. Frugtlegemerne indeholder den ustabile aminosyre pleurocybellaziridin, som er giftig for rottehjerneceller i kultur. En hypotese går ud på, at et glykoprotein og et lektin tilsammen beskadiger blod-hjerne-barrieren og lader aminosyren nå hjernen, og at de tre stoffer kun forvolder skaden i kombination. En polsk vurdering betragter arten som sårbar."
     },
     no: {
-      description: 'En hvitråtedannende vedboende skivesopp som vokser utelukkende på råtnende trevirke av bartrær (særlig gran og furu). Utbredt i tempererte og boreale barskoger på den nordlige halvkule.',
-      cap: 'Hatten er 2–10 cm bred, tynnkjøttet, tungeformet, nyreformet eller øreformet, med en innrullet, fliket kant. Fargen er rent snøhvit til elfenbenshvit, og overflaten er silkeaktig glatt eller fint dunete ved festet.',
-      hymenium: 'Skivene er tette, smale, rent hvite til blekt kremfargede, og løper sammen mot basalfestet.',
-      stipe: 'Mangler stilk eller har kun et lite sidefeste til treverket.',
-      flesh: 'Kjøttet er tynt, hvitt og skjørt. Lukten og smaken er mild.',
-      sporePrint: 'Hvitt. Sporene er nesten kulerunde til bredt ellipsoide, glatte, 5,5–7 × 4,5–6 μm.',
-      habitat: 'Fruktlegemer viser seg fra august til november i eldre fuktig barskog på morkne stubber og falne trestammer av gran.',
-      uses: 'Giftig (tidligere regnet som spiselig). Den ble lenge spist i Japan og Europa, men forårsaket i 2004 en rekke dødsfall og tilfeller av akutt encefalopati (hjerneskade) i Japan, særlig hos personer med nedsatt nyrefunksjon. Den regnes nå som giftig og frarådes fullstendig.',
-      confusion: 'Blågrå østerssopp (Pleurotus ostreatus) er mye større, har tykt gråblått kjøtt og vokser på løvtrær. Liten østerssopp (Pleurotus pulmonarius) vokser likeledes på løvtre og har tykkere kjøtt.',
-      notes: 'Forgiftningsmekanismen skyldes aminosyren pleurocybellin, som kan krysse blodhjernebarrieren hos sårbare personer.'
+      description: "En saprotrof hvitråtesopp på død bartreved. Den er vidt utbredt i tempererte skoger på den nordlige halvkule, i Storbritannia hovedsakelig i Skottland og Nord-England med sporadiske funn i Wales og Irland, og over det nordlige Fastlands-Europa, kjøligere deler av Asia og deler av Nord-Amerika.",
+      cap: "Hatten er 2–10 cm bred og svært tynn. Den er tungeformet, øreformet, kronbladformet eller vifteformet, og ofte en ufullstendig trakt kløvd ned langs den ene siden helt til basis. Unge fruktlegemer er rent hvite med en innrullet kant. Eldre hatter blir kremfargede til gulaktige, og kanten blir bølgete og fliket. Overflaten er glatt, eller kortvarig fint filtaktig som ung og deretter nesten snau, og filten sitter ofte igjen nær festepunktet. Hatthuden er ikke gelatinøs. Den består av hyfer med bøyler, oppgitt som cirka 3–5 μm brede med hårlignende ender og som 5–13 μm brede.",
+      hymenium: "Skivene er hvite til elfenbenshvite, senere kremfargede eller gulaktige, tettstilte og smale, og de løper ned til festepunktet. Basidiene er firesporede, sylindriske til klubbeformede, cirka 30–36 × 5–7,5 μm, med en klemmebøyle ved basis. Cystider mangler. Cheilocystider mangler, eller er fåtallige og knapt forskjellige fra de andre cellene langs skiveeggen. Skivetramaet er uregelmessig.",
+      stipe: "En stilk mangler helt, eller finnes bare som en kort, avsmalnende hvit tapp der hatten møter veden. Det finnes ikke noe slør.",
+      flesh: "Kjøttet er hvitt, svært tynt og bøyelig, og gjennomskinnelig som ungt. Lukten er svak og behagelig, eller ikke særpreget, og smaken er mild. Begge har også blitt beskrevet som fraværende.",
+      sporePrint: "Hvitt til hvitaktig. Sporene er subglobose til bredt ellipsoide, glatte, tynnveggede og hyaline, ofte med en oljedråpe. De måler cirka 5–7,5 × 4,5–7 μm, og de er inamyloide og ikke cyanofile.",
+      habitat: "Fruktlegemene bærer frukt fra sommeren til senhøstes, fra august til november i Storbritannia, Irland, Sentral-Europa og Nord-Amerika. De vokser i taklagte klynger, av og til delvis sammenvokste, på sterkt råtne og ofte mosegrodde bartrestammer og stubber, særlig gran, edelgran og hemlokkgran, og oftere i fuktige fjellskoger.",
+      uses: "Eldre soppbøker oppgir den som spiselig, selv om kjøttet er tynt og smaken mild eller nøytral. Etter dødelige tilfeller av encefalopati i Japan, i første rekke hos personer med nyresykdom, behandles den som dødelig giftig.",
+      confusion: "Østerssopp (Pleurotus ostreatus) og blek østerssopp (Pleurotus pulmonarius) har tykkere kjøtt og vokser vanligvis på løvtreved. Deres sporer er avlange og subcylindriske til nyreformede, og sporeavtrykket hos østerssopp kan ha et svakt lilla skjær. Vinterlærhatt (Panellus mitis) har en tydelig stilk. Muslingsopper (Crepidotus) har mindre fruktlegemer og gir et brunt sporeavtrykk. Gelelærhatter (Hohenbuehelia) har en kort, men tydelig stilk.",
+      notes: "I september og oktober 2004 utviklet 59 personer i ni japanske prefekturer akutt encefalopati etter å ha spist soppen, og 17 døde. De fleste av de som døde led av en nyresykdom, og gjennomsnittsalderen var cirka 70 år. Symptomene oppsto innen tre uker etter måltidet, og døden inntraff 13 til 29 dager etter at symptomene startet. Et ytterligere dødsfall i 2009 rammet en person i hemodialyse. Årsaken er ennå ikke endelig klarlagt. Fruktlegemene inneholder den ustabile aminosyren pleurocybellaziridin, som er giftig for hjerneceller fra rotte i cellekultur. Én hypotese går ut på at et glykoprotein og et lektin sammen skader blod-hjerne-barrieren og lar aminosyren nå hjernen, og at disse tre stoffene bare forårsaker skaden i kombinasjon. En polsk rødlistevurdering behandler arten som sårbar."
     },
     sv: {
       description: "En saprotrof vitrötande svamp på död barrved. Den är vitt utbredd i tempererade skogar på norra halvklotet, inom Storbritannien främst i Skottland och norra England, med enstaka fynd i Wales och Irland, liksom i norra Kontinentaleuropa, svalare delar av Asien och delar av Nordamerika.",
@@ -50419,16 +50407,16 @@ export const CATALOG = [
       notes: "En vurdering fra 2025 klassificerer arten som livskraftig (Least Concern). Felthåndbøger adskiller den fra andre hvide arter i det østlige Nordamerika ved dens tosporede basidier, runde sporer og den gule KOH-reaktion, og sekvenssammenligninger peger på Amanita pallidorosea som den nærmeste slægtning. Indsamlinger fra det sydøstlige Arizona og det centrale Mexico, som ligner den, reagerer svagt eller slet ikke med KOH, og det er ikke bevist, at de tilhører denne art. Fund i fyrreplantager i Colombia er muligvis indført med eksporterede træer. Generne, der er ansvarlige for syntesen af dens amatoxiner og phallotoxiner, er blevet identificeret. Voksne biller af arten Tritoma biguttata affinis udnytter frugtlegemerne som sekundær fødekilde, og nøgensneglen Arion subfuscus er observeret ædende af dem."
     },
     no: {
-      description: 'En ektomykorrhizadannende, dødelig giftig fluesopp i østlige Nord-Amerika. Den kalles \'destroying angel\' i USA og er en av de giftigste soppene på det nordamerikanske kontinentet.',
-      cap: 'Hatten er 3–10 cm bred, halvkuleformet til hvelvet og flater ut med alderen. Den er kritthvit, glatt og blir klebrig i fuktig vær.',
-      hymenium: 'Skivene er frie fra stilken, tette og forblir rent hvite.',
-      stipe: 'Stilken er 6–14 cm lang og 0,5–1,5 cm tykk, ren hvit, med en tynn, hengende hvit ring og en dyp, sekkformet poseformet slire (volva) ved basis.',
-      flesh: 'Kjøttet er hvitt og reagerer øyeblikkelig med kaliumhydroksid (KOH) ved å bli lysende sitrongult.',
-      sporePrint: 'Hvitt. Basidiene er karakteristiske ved at de bærer bare to sporer hver (bisporige). Sporene er kulerunde, glatte og amyloide, 7,5–10 μm.',
-      habitat: 'Fruktlegemer viser seg om sommeren og høsten på bakken i løv- og blandingsskog, særlig under eik.',
-      uses: 'Dødelig giftig. Inneholder dødelige mengder amatoksiner som forårsaker akutt leversvikt. Én hatt er nok til å ta livet av et voksent menneske.',
-      confusion: 'Hvit fluesopp (Amanita virosa) er europeisk og har fire sporebærende basidier. Amanita verna fruktifiserer om våren.',
-      notes: 'Arten har ikke noe etablert norsk navn og presenteres under sitt vitenskapelige navn.'
+      description: "En ektomykorrhizasopp i blandede bar- og løvskoger, ofte sammen med eik. Den er vanlig og vidt utbredt i det østlige Nord-Amerika, fra furu- og eikeskoger i Texas nordover gjennom Canada til den boreale skogen i Newfoundland og de maritime provinsene. Den er sjelden lenger vest.",
+      cap: "Hatten er 2,5–13 cm bred. Den starter eggformet eller oval med innrullet kant, blir deretter hvelvet til bredt hvelvet, av og til klokkeformet eller nesten flat, og kan ha en lav, bred pukkel. Overflaten er snau, eller beholder bare ytterst sjelden en rest av universalsløret. Den er tørr, eller i fuktig vær litt klebrig, og hvit til elfenbenshvit. Midten kan med alderen bli blekt lærbrun, kremfarget, strågul eller blekrosa, og gamle sår kan bli svakt rustfargede. Et gult eller rosa skjær over hele hatten er sjeldent. Kanten er ikke stripet.",
+      hymenium: "Skivene er frie eller nesten frie, tette og hvite, med tallrike kortere mellomskiver. Basidiene er klubbeformede, tynnveggede og uten klemmebøyler, 34–45 × 4–11 μm. De bærer vanligvis to sporer. Tre- eller firesporede basidier er sjeldne, selv om firesporede basidier kan bli vanligere utover i sesongen. Cystider mangler.",
+      stipe: "Stilken er 5,5–14 cm lang og 0,5–2 cm tykk, hvit og massiv. Den smalner litt av oppover, utvider seg til en rund knoll ved basis og kan ha fine langsgående furer. Overflaten er ofte skjellete eller fint flosset, særlig hos unge eksemplarer, og kan være nesten glatt. En tynn, hvit, skjørtaktig ring henger høyt på stilken. Basis sitter i en hvit, sekkformet slire (volva) opptil 3,8 cm i høyde og omkring 2 mm i tykkelse, som kan forbli under jorden eller sprekke opp. Sliren er av og til fliket og kan slutte tett inntil stilken.",
+      flesh: "Kjøttet er tynt og hvitt, og endrer ikke farge ved skade. En dråpe kaliumhydroksid farger hatthuden klargul og hattkjøttet gult. En tyrosinasetest gir ingen reaksjon, verken utvendig eller innvendig. Lukten hos unge fruktlegemer er mild eller behagelig og blir med alderen søtlig, kvalmende søt eller minner om råtnende kjøtt.",
+      sporePrint: "Hvitt. Sporene er glatte, tynnveggede og kulerunde til subglobose eller bredt ellipsoide, 7–10 × 6–9,6 μm, og amyloide.",
+      habitat: "Fruktlegemene bærer frukt om sommeren og høsten, ofte tidlig om høsten, enkeltvis, spredt eller i grupper på bakken. Den vokser med eik og muligens andre løvtrær, og i vest rapporteres den også sammen med bjørk og osp.",
+      uses: "Den er dødelig giftig og betraktes som den giftigste representanten for slekten i Nord-Amerika. Fruktlegemet inneholder amatoksiner, overveiende alfa-amanitin, og fallotoksinet fallacidin, med liten variasjon mellom individuelle fruktlegemer. Ett enkelt utvokst fruktlegeme kan inneholde en dødelig dose, og giftene ødelegges verken ved koking, steking, frysing eller tørking.",
+      confusion: "Amanita ocreata (Amanita ocreata) vokser i det vestlige Nord-Amerika, er vanligvis kraftigere og har ellipsoide sporer; den gulner likeledes med kaliumhydroksid. Amanita elliptosperma (Amanita elliptosperma) har ellipsoide sporer og gulner ikke med kaliumhydroksid. Amanita magnivelaris (Amanita magnivelaris) har en tykkere, filtaktig ring og reagerer vanligvis ikke med kaliumhydroksid. Amanita virosiformis (Amanita virosiformis) har avlange sporer. Hvit fluesopp (Amanita virosa) og vårfluesopp (Amanita verna) er europeiske arter som ikke forekommer naturlig i Nord-Amerika. Hvit fluesopp (Amanita virosa) gulner med kaliumhydroksid og bærer frukt senere på høsten. Vårfluesopp (Amanita verna) reagerer ikke med kaliumhydroksid. Størrelse er ikke et pålitelig kjennetegn for å skille disse artene. Hvite former av grønn fluesopp (Amanita phalloides) gulner ikke med kaliumhydroksid. Slidresopp (Volvopluteus gloiocephalus) mangler ring, har rosa skiver ved modning og et rosa sporeavtrykk, og vokser gjerne i hager, på plener og flis. Silkeskivesopp (Leucoagaricus leucothites) mangler slire (volva) og har tykkveggede dekstrinoide sporer. Sjampinjonger (Agaricus) mangler slire (volva), og skivene deres blir rosa og deretter sjokoladebrune.",
+      notes: "En vurdering fra 2025 plasserer arten som livskraftig (Least Concern). Felthåndbøker skiller den fra andre hvite arter i det østlige Nord-Amerika ved dens tosporede basidier, runde sporer og gule KOH-reaksjon, og sekvenssammenligninger peker mot Amanita pallidorosea som dens nærmeste slektning. Innsamlinger fra det sørøstlige Arizona og det sentrale Mexico som ligner den reagerer svakt eller ikke i det hele tatt med KOH, og det er ikke bevist at de tilhører denne arten. Funn i furuplantasjer i Colombia er trolig innført med eksporterte trær. Genene som er ansvarlige for syntesen av amatoksinene og fallotoksinene er identifisert. Voksne biller av arten Tritoma biguttata affinis utnytter fruktlegemene som en sekundær næringskilde, og skogsneglen Arion subfuscus har blitt observert i å ete av dem."
     },
     sv: {
       description: "En ektomykorrhizabildande svamp i blandade barr- och lövskogar, ofta tillsammans med ek. Den är allmän och vitt utbredd i östra Nordamerika, från tall- och ekskogar i Texas norrut genom Kanada till den boreala skogen i Newfoundland och Maritima provinserna. Den är sällsynt längre västerut.",
@@ -51058,16 +51046,16 @@ export const CATALOG = [
       notes: "Det er en af de giftigste arter i slægten Lepiota. Kemiske analyser bekræfter alfa-amanitin-koncentrationer på linje med dem hos grøn fluesvamp (Amanita phalloides), hvor allerede 100 gram friske svampe kan udløse fatalt leversvigt. Adskillige dødelige forgiftninger er dokumenteret i Sydeuropa, Nordafrika, Tyrkiet og Iran. Molekylær fylogenetik placerer den i Lepiota sektion Ovisporae sammen med andre amatoksinproducerende parasolhatte."
     },
     no: {
-      description: 'En liten, dødelig giftig parasollsopp som finnes i varme parker, hager, veikanter og gressmarker i Sør- og Mellom-Europa og deler av Asia.',
-      cap: 'Hatten er 2–7 cm bred, halvkuleformet som ung og flater ut. Den er hvitaktig i bunnen og tett dekket av små, rødbrune til vinrøde skjell konsentrert rundt det mørke midtpartiet.',
-      hymenium: 'Skivene er frie, tette, hvite til blekt kremfargede.',
-      stipe: 'Stilken er 2–5 cm lang og 0,3–0,7 cm tykk, hvitaktig øverst og mørkere vinrødbrun med skjellbånd under den ufullstendige ringzonen.',
-      flesh: 'Kjøttet er tynt, hvitt, med et rødlig skjær i stilken. Lukten er fruktig.',
-      sporePrint: 'Hvitt. Sporene er ellipsoide, dekstrinoide, 7–9 × 4–5 μm.',
-      habitat: 'Fruktlegemer viser seg fra sommer til senhøst i parker, kirkegårder og gresskanter på kalkrik jord.',
-      uses: 'Dødelig giftig. Inneholder dødelige konsentrasjoner av amatoksiner, og har forårsaket en rekke dødsfall i Sør-Europa og Asia etter å ha blitt forvekslet med spiselige sopper.',
-      confusion: 'Stor parasollsopp (Macrolepiota procera) er enorm i sammenligning (over 10–25 cm bred) med stor løs ring. Ingen små parasollsopper (Lepiota) under 10 cm må noensinne spises.',
-      notes: 'Arten mangler et offisielt etablert norsk navn og presenteres under sitt latinske navn.'
+      description: "En liten saprotrof sopp i parker, hager, gresskledde marker, veikanter og skogglenter. Den er vidt utbredt i det tempererte Europa og deler av Asia østover til Kina og foretrekker varme sommer- og høstforhold samt næringsrik eller sandholdig jord. Den mangler i Amerika og Australasia.",
+      cap: "Hatten er 2–7 cm bred, til å begynne med halvkuleformet eller klokkeformet, deretter utbredt til bredt hvelvet eller nesten flat med en svak, lav pukkel. Overflaten er tørr med en hvitaktig til kremfarget bunn, tett dekket av rosenbrune, rødbrune eller vinbrune trådete skjell som mot den blekere kanten ofte brytes opp i konsentriske soner; kanten forblir noe innrullet som ung. Midten beholder vanligvis en sammenhengende, mørkt rødbrun skive.",
+      hymenium: "Skivene er frie fra stilken, tette og hvite til lyst kremfargede. Basidiene er klubbeformede, overveiende firesporede, og måler 25–35 × 6–8 μm. Cheilocystidene er tallrike, sylindriske til smalt klubbeformede, og danner en steril egg langs skivene. Pleurocystider mangler.",
+      stipe: "Stilken er 2–5 cm lang og 0,5–1 cm tykk, sylindrisk, rett eller noe bøyd samt hul med alderen. Toppen ovenfor ringsonen er glatt og hvitaktig til lyst rosatonet lærbrun. En utydelig, ullaktig-trådet mørkebrun ringsone markerer stilkens midtre eller nedre del, hvorunder overflaten prydes av konsentriske belter av mørkebrune til purpurbrune trådete skjell som ligner dem på hatten.",
+      flesh: "Kjøttet er tynt, hvitt i hatten og stilktoppen, og får en vinrød til rosabrun tone ved gjennomskjæring eller trykk, særlig i den nedre delen av stilken. Lukten er svakt fruktig, søtlig eller minner om oljemaling og sedertre. Smaken er søtlig eller mild, men må aldri prøvesmakes.",
+      sporePrint: "Hvitt. Sporene er ellipsoide til avlangt ellipsoide, glatte, hyaline, 7–10 × 4,5–5,5 μm, og dekstrinoide, samt farges rødbrune i Melzers reagens.",
+      habitat: "Fruktlegemene bærer frukt fra juli til november, enkeltvis, spredt eller i små grupper på bakken og blant gress i parker, hager, plener, veikanter, kystdyner og langs kanter av løv- eller blandingsskoger.",
+      uses: "Den er dødelig giftig. Fruktlegemene inneholder dødelige konsentrasjoner av amatoksiner, overveiende alfa-amanitin, som forårsaker alvorlige, forsinkede mage-tarm-symptomer etterfulgt av dødelig lever- og nyrenekrose. Forgiftninger skjer ofte fordi den forveksles med matsopper som nelliksopp (Marasmius oreades) eller jordmusserong (Tricholoma terreum).",
+      confusion: "Nelliksopp (Marasmius oreades) vokser i lignende hekseringer i gressmark, men har en glatt, uskjellet, blekt lærgul hatt, brede og fjerne skiver, en seig trådet stilk uten skjell samt inamyloide sporer. Jordmusserong (Tricholoma terreum) vokser med nåletrær, har utrandede til tilvokste skiver, en grå trådet hatt uten rosa eller vinrøde toner samt mangler ringsone og stilkskjell. Stor parasollsopp (Macrolepiota procera) er enormt mye større, med en fremtredende forskyvbar dobbelring og en stilk med vattert mønster. Kjøttrød parasollsopp (Lepiota subincarnata) er mindre, mer ensartet rosa og har betydelig mindre sporer. Stinkparasollsopp (Lepiota cristata) har en sterk, gjennomtrengende lukt av karbol eller brent gummi og prosjektillignende sporer med sporeansats. Ringbåndparasollsopp (Lepiota ignivolvata) har en klargul til oransjerød flekk ved basis av stilkringen.",
+      notes: "Den er en av de giftigste artene i slekten Lepiota. Kjemiske analyser bekrefter alfa-amanitinkonsentrasjoner på nivå med grønn fluesopp (Amanita phalloides), der så lite som 100 gram fersk sopp kan utløse dødelig leversvikt. Flere dødelige forgiftninger er dokumentert i Sør-Europa, Nord-Afrika, Tyrkia og Iran. Molekylær fylogeni plasserer den i Lepiota seksjon Ovisporae sammen med andre amatoksinproduserende småparasollsopper."
     },
     sv: {
       description: "En liten saprotrof svamp i parker, trädgårdar, gräsbevuxna fält, vägkanter och skogsgläntor. Den är vitt utbredd i tempererade Europa och delar av Asien österut till Kina och föredrar varma sommar- och höstförhållanden samt näringsrika eller sandiga jordar. Den saknas i Amerika och Australasien.",
@@ -51784,16 +51772,16 @@ export const CATALOG = [
       notes: "Arten er en af de klassiske dødeligt giftige hvide fluesvampe i sektion Phalloideae. Amatoxiner i vævene hæmmer RNA-polymerase II, standser den cellulære proteinsyntese og forårsager massiv levercellenekrose. Historiske beretninger fra Nordamerika forvekslede ofte hjemmehørende hvide fluesvampe med dette europæiske taxon, men molekylær fylogenetik begrænser artens sande forekomst til Europa og Middelhavsområdet."
     },
     no: {
-      description: 'En ektomykorrhizadannende, dødelig giftig hvit fluesopp i Sør-Europa og middelhavsområdet, knyttet til eik og bøk om våren.',
-      cap: 'Hatten er 4–10 cm bred, ren snøhvit, hvelvet som ung og flater ut. Overflaten er glatt og tørr.',
-      hymenium: 'Skivene er frie, tette og forblir rent hvite.',
-      stipe: 'Stilken er 7–12 cm lang og 0,8–1,5 cm tykk, hvit, med en hvit ring øverst og en markant, dyp, poseformet volva ved basis.',
-      flesh: 'Kjøttet er hvitt. I motsetning til Amanita virosa reagerer ikke kjøttet med kaliumhydroksid (KOH-negativ). Lukten er uanselig, men blir ubehagelig hos gamle sopper.',
-      sporePrint: 'Hvitt. Sporene er bredt ovale, glatte og amyloide, 8–11 × 7–9 μm.',
-      habitat: 'Fruktlegemer viser seg om våren og forsommeren i varme løvskoger.',
-      uses: 'Dødelig giftig. Inneholder amatoksiner som ødelegger levercellene.',
-      confusion: 'Hvit fluesopp (Amanita virosa) vokser om høsten i barskog og reagerer gult med KOH. Hvite sjampinjonger mangler volva og har fargede skiver.',
-      notes: 'Arten finnes ikke naturlig i Norge og mangler et offisielt norsk navn; den presenteres under sitt latinske navn.'
+      description: "En dødelig giftig ektomykorrhizasopp med et rent hvitt fruktlegeme og en vedvarende sekkformet slire (volva). Den er hjemmehørende i Sør- og Sentral-Europa og strekker seg til deler av Vest-Asia og Nord-Afrika. Den forekommer hovedsakelig i varme lavlandsskoger og middelhavsskoger og er sjelden eller fraværende på nordligere breddegrader.",
+      cap: "Hatten er 5–10 cm bred, til å begynne med halvkuleformet eller klokkeformet, deretter hvelvet og til slutt nesten flat. Overflaten er glatt, i fuktig vær litt klebrig men tørker raskt, silkeskinnende og rent hvit, med alderen i midten av og til med en svak kremfarget eller gulaktig tone. Kanten er glatt og ikke stripet.",
+      hymenium: "Skivene er frie fra stilken, tette, tynne og rent hvite gjennom hele utviklingen. Kortere mellomskiver er skutt inn mellom de gjennomgående skivene.",
+      stipe: "Stilken er 7–15 cm høy og 1–2 cm tykk, sylindrisk eller noe avsmalnende oppover, massiv som ung og senere margsylindrisk til hul. Overflaten er hvit, glatt eller med svake silkeaktige fibre. En fin, hinneaktig, hvit skjørtaktig ring henger i stilkens øvre tredjedel. Basis er knollformet oppsvulmet og omsluttes av en tydelig, fri, hvit sekkformet slire (volva).",
+      flesh: "Kjøttet er hvitt, mykt og endrer ikke farge ved gjennomskjæring eller trykk. Med kaliumhydroksid farges det ikke gult. Lukten er svak og lite fremtredende som fersk, og blir søtlig hos eldre fruktlegemer.",
+      sporePrint: "Hvitt. Sporene er bredt ellipsoide til subglobose, glatte, amyloide og måler 8,5–11,5 × 7–9 μm.",
+      habitat: "Den vokser enkeltvis eller i små spredte grupper på bakken i varme løvskoger, parker og skogkanter i ektomykorrhizadannende forbindelse hovedsakelig med eik, edelkastanje, agnbøk og bøk, og sjelden med nåletrær. Fruktlegemene bærer frukt fra mai til oktober, særlig på senvåren og forsommeren.",
+      uses: "Den er dødelig giftig. Fruktlegemet inneholder dødelige konsentrasjoner av amatoksiner og fallotoksiner, som motstår koking, steking, frysing og tørking. Inntak forårsaker, etter en karakteristisk latenstid på seks til tjuefire timer, sterke magesmerter etterfulgt av fremadskridende lever- og nyrenekrose som ofte er dødelig.",
+      confusion: "Sjampinjonger, som engsjampinjong (Agaricus campestris) og åkersjampinjong (Agaricus arvensis), mangler slire (volva) ved stilkbasis, og skivene deres blir rosa og til slutt sjokoladebrune. Silkeskivesopp (Leucoagaricus leucothites) har en ring, men ingen slire, og kjøttet reagerer ikke med kaliumhydroksid. Vårfagerhatt (Calocybe gambosa) bærer frukt om våren, har tette kremfargede skiver, verken ring eller slire samt lukter sterkt av ferskt mel. Hvit fluesopp (Amanita virosa) bærer frukt senere på høsten, har en mer kjegleformet hatt og flosset stilk samt farges klargul med kaliumhydroksid. Den hvite formen av grønn fluesopp (Amanita phalloides var. alba) har likeledes en fri slire og en skjørtaktig ring, men bærer frukt om høsten og skiller seg i mikroskopiske karakterer. I Nord-Amerika omfatter lignende dødelige hvite fluesopper Amanita bisporigera (Amanita bisporigera), som har tosporede basidier og gulner med kaliumhydroksid, samt Amanita ocreata (Amanita ocreata).",
+      notes: "Arten er en av de klassiske dødelig giftige hvite fluesoppene i seksjon Phalloideae. Amatoksiner i vevet hemmer RNA-polymerase II, noe som stanser den cellulære proteinsyntesen og forårsaker massiv levernekrose. Historiske rapporter fra Nord-Amerika forvekslet ofte stedegne hvite fluesopper med dette europeiske taksonet, men molekylær fylogeni begrenser artens virkelige utbredelse til Europa og Middelhavsområdet."
     },
     sv: {
       description: "En dödligt giftig ektomykorrhizabildande svamp med en rent vit fruktkropp och en bestående säcklik volva. Den är hemmahörande i Syd- och Centraleuropa och sträcker sig till delar av Västasien och Nordafrika. Den förekommer främst i varma låglandsskogar och medelhavsskogar och är sällsynt eller saknas på nordligare breddgrader.",
@@ -52482,16 +52470,16 @@ export const CATALOG = [
       notes: "Svampens dødelige mykotoksicitet blev opklaret i 2009 ved isolering af cycloprop-2-encarboxylsyre, en usædvanlig spændt lavmolekylær forbindelse, der udløser toksisk nedbrydning af skeletmuskelfibre. Blot en brøkdel af et frugtlegeme kan give en dødelig dosis hos mennesker og forårsage en dødelighed på over halvtreds procent i dokumenterede forgiftningstilfælde i Japan og det sydlige Kina."
     },
     no: {
-      description: 'En dødelig giftig kremleart som er hjemmehørende i Øst-Asia (Kina, Japan, Taiwan).',
-      cap: 'Hatten er 6–12 cm bred, hvelvet til nedsunket traktformet, gråbrun til sotbrun.',
-      hymenium: 'Skivene er fjerne, tykke, kremhvite, og rødner ved skade før de mørkner.',
-      stipe: 'Stilken er 3–8 cm lang og 1–2,5 cm tykk, gråbrun.',
-      flesh: 'Kjøttet er hvitt, og rødner ved snitt uten deretter å bli fullstendig svart.',
-      sporePrint: 'Hvitt. Sporene er nesten kulerunde og piggete, 7–9 × 6–8 μm.',
-      habitat: 'Vokser under eik og bøk i subtropiske og tempererte asiatiske skoger.',
-      uses: 'Dødelig giftig. Soppen inneholder det unike toksinet russulin A (sykloprop-2-enkarboksylsyre), som forårsaker akutt rabdomyolyse med massiv nedbrytning av skjelettmuskulatur, myoglobinuri, pustelammelse og sirkulasjonssvikt.',
-      confusion: 'Svertekremle (Russula nigricans) er europeisk og skifter farge til rødt og deretter kullsvarte toner ved snitt.',
-      notes: 'Arten er asiatisk og har ikke noe norsk navn.'
+      description: "En dødelig giftig ektomykorrhizasopp med et robust, sprøtt fruktlegeme som rødmer ved skade uten å svartne. Hjemmehørende i Øst- og Sørøst-Asia, inkludert Japan, Kina og Taiwan. Den forekommer først og fremst i varmtempererte løv- og blandingsskoger og vokser på bakken i symbiose med trær i bøkefamilien (Fagaceae) om sommeren og høsten.",
+      cap: "Hatten er 5–12 cm bred, til å begynne med hvelvet med innrullet kant, brer seg deretter ut til bredt hvelvet eller flat og blir til slutt grunt nedsenket til traktformet i midten. Overflaten er tørr, glatt eller fint fløyelsaktig hos unge eksemplarer, hvitaktig til lyst gråbeige til å begynne med, og mørkner med alderen til røykgrå, brunsort eller sotbrun. Kanten er glatt, forblir jevn samt er verken stripet eller furet. Ved trykk eller skraping rødmer overflaten langsomt til blekrosa eller vinrød.",
+      hymenium: "Skivene er tilvokste til noe nedløpende, moderat fjerne til ganske fjerne, temmelig tykke og sprø, med kortere mellomskiver skutt inn mellom de gjennomgående skivene. De er kremfargede til lyst gulhvite, får en rødlig rosa tone ved skade eller gjennomskjæring og svartner ikke.",
+      stipe: "Stilken er 4–9 cm høy og 1,5–3 cm tykk, kraftig, sylindrisk eller noe avsmalnende mot basis, massiv og fast hos unge eksemplarer og utvikler senere et sprøtt, margfylt indre. Overflaten er tørr, glatt eller utydelig langstrådet, hvitaktig til lyst gråbrun, får en rødlig tone ved berøring og mørkner til røykbrun med alderen. Ring og slire mangler.",
+      flesh: "Kjøttet er tykt, fast, sprøtt og hvitt, og rødmer karakteristisk til blekrosa eller vinrødt i løpet av noen minutter etter eksponering for luft, men blir aldri sort. Lukten er svak og ubestemmelig, og smaken er mild.",
+      sporePrint: "Hvitt. Sporene er bredt ellipsoide til subglobose, måler 7–9,5 × 6–8 μm, med en amyloid ornamentering av lave vorter forbundet av fine linjer som danner et delvis nettverk.",
+      habitat: "Enkeltvis, spredt eller i små grupper på bakken i eviggrønne løv- og blandingsskoger i mykorrhizadannende forbindelse med trær i bøkefamilien som Castanopsis, Quercus og Lithocarpus, samt med furu. Den bærer frukt fra juni til oktober etter varme monsunregn.",
+      uses: "Dødelig giftig. Inntak forårsaker raskt innsettende kvalme, oppkast og diaré innen tretti minutter til to timer, etterfulgt av alvorlig, generalisert rabdomyolyse – massiv nedbrytning av skjelettmuskelvev. Dette utløser akutt nyreskade, hyperkalemi, hjertestans, respirasjonssvikt og død. Det primære mykotoksinet er cykloprop-2-enkarboksylsyre.",
+      confusion: "Ligner svartsvertesopp (Russula nigricans), hvor kjøttet rødmer ved gjennomskjæring men deretter svartner innen tjue minutter, og som har mye tykkere og mer fjerntstilte skiver. Tettskivesvertesopp (Russula densifolia) rødmer likeledes og svartner deretter, men har tettstilte, tynne skiver. Svedekremle (Russula albonigra) blir direkte sort uten noe forutgående rødt stadium. Den nordamerikanske Russula eccentrica (Russula eccentrica) rødmer og blir deretter brungrå, mangler cyklopropentoksinet og er ikke forbundet med rabdomyolyse.",
+      notes: "Soppens dødelige mykotoksisitet ble klarlagt i 2009 gjennom isoleringen av cykloprop-2-enkarboksylsyre, en uvanlig spent lavmolekylær forbindelse som utløser toksisk nedbrytning av skjelettmuskelfibre. En brøkdel av et enkelt fruktlegeme kan gi en dødelig dose hos mennesker og forårsake en dødelighet på over femti prosent i dokumenterte forgiftningstilfeller i Japan og Sør-Kina."
     },
     sv: {
       description: "En dödligt giftig ektomykorrhizabildande kremla med en robust, spröd fruktkropp som rodnar vid skada utan att svartna. Hemhörande i Öst- och Sydostasien, inklusive Japan, Kina och Taiwan. Den förekommer främst i varmtempererade löv- och blandskogar och växer på marken i symbios med träd i bokfamiljen (Fagaceae) under sommar och höst.",
@@ -53068,16 +53056,16 @@ export const CATALOG = [
       notes: "Dette er en af de ganske få dødeligt giftige sæksvampe, der kendes af videnskaben. Adskillige dødelige forgiftninger i Japan og Sydkorea skyldtes, at folk indsamlede de klart røde stromata i den fejlagtige tro, at det var medicinske svampe som Ganoderma eller Cordyceps, og udblødte dem i te eller sake. Kemiske undersøgelser har påvist, at dens trichothecen-mykotoksiner fungerer som kraftige hæmmere af proteinsyntesen i eukaryote celler, hvilket fører til cellulær apoptose i flere organsystemer."
     },
     no: {
-      description: 'En ekstremt giftig sekksporesopp (Ascomycota) som er hjemmehørende i Øst-Asia (Japan, Korea, Kina). Den er kjent på japansk som \'kaentake\' (flammesopp).',
-      cap: 'Fruktlegemene er klubbeformede eller sylindriske, uregelmessig forgrenede som hjortetakker eller flammer, 5–15 cm høye. Fargen er lysende rød til oransjerød.',
-      hymenium: 'Sporene dannes i perithecier som ligger nedsenket i det røde overflatelaget.',
-      stipe: 'Fruktlegemet danner en opprett stengel som sitter festet til råtnende trevirke eller røtter.',
-      flesh: 'Kjøttet er seigt og gulhvitt.',
-      sporePrint: 'Hvitt. Sporene er mikroskopiske og deler seg i delsporer.',
-      habitat: 'Vokser på bakken i tilknytning til råtnende røtter av eiketrær angrepet av eikesyke.',
-      uses: 'Dødelig giftig. Soppen inneholder potente trichotecen-mykotoksiner (som satratoksin H), som forårsaker multiorgansvikt, benmargssvikt, hudavskalling og nevrologiske skader. Selv berøring av overflaten kan forårsake alvorlig hudbetennelse.',
-      confusion: 'Rød åmeklubbe (Cordyceps militaris) vokser fra insektpupper og er mindre. Fingersopper (Clavulinopsis) er tynne og har annen struktur.',
-      notes: 'Arten er en av verdens giftigste sopper og mangler norsk navn.'
+      description: "En dødelig giftig, saprotrof sekksporesopp (Ascomycota) som danner opprette, klarrøde til oransjerøde, klubbeformede eller geviraktig forgrenede stromata. Hjemmehørende i det tempererte og subtropiske Øst- og Sørøst-Asia, inkludert Japan, Sør-Korea og Kina, med isolerte forekomster dokumentert i Australia. Den bryter frem på råtnende ved, stubber og begravde røtter i løvskoger under varme sommer- og høstmåneder.",
+      cap: "Stromaet er 5–20 cm høyt og 1–3 cm tykt, enkeltvis eller i små klynger, og består av opprette, sylindriske til sammentrykte, fingeraktige eller gevirformede fliker som er enkle eller uregelmessig forgrenede nær spissene. Overflaten er glatt til fint vorteaktig med de små åpningene til nedsenkede peritecier, iøynefallende skarlagensrød, sinoberrød eller lysende oransjerød som fersk, og falmer til gulaktig oransje i tørt vær eller med alderen, samt hvitaktig til lyst rosabeige mot basis.",
+      hymenium: "Det fertile hymenievevet er ikke ordnet i skiver eller rør, men er innebygd i de øvre delene av det kjøttfulle stromaet. Små kolbeformede til subglobose peritecier som måler cirka 200–400 μm i diameter ligger nedsenket under den røde stromaoverflaten og skyter ut sekksporer (askosporer) gjennom små sylindriske porer (ostioli) som prikker overflaten. Sporesekkene (asci) er sylindriske, unitunikate, åttesporede, med en fortykket apikal ring, og måler 55–75 × 3–4 μm.",
+      stipe: "En tydelig stilk mangler eller er dårlig definert, og representeres av den sterile, avsmalnende nedre delen av stromaet. Den måler 1–4 cm i lengde og 1–2,5 cm i bredde, er sylindrisk eller smalner av nedover i det treaktige substratet, hvitaktig til gulaktig oransje, massiv og mangler ring, slør eller slire (volva).",
+      flesh: "Kjøttet er tykt, trevlet-kjøttfullt som ferskt, blir korkaktig eller seigt med alderen, hvitaktig til lyst gulkremfarget innvendig, og endrer ikke farge ved gjennomskjæring eller trykk. Det har ingen distinkt lukt og en mild eller ubestemmelig smak. Berøring av skadet vev bør strengt unngås.",
+      sporePrint: "Gulhvitt til blekgult. Askosporene er tocellede, hyaline, fint piggete eller vorteaktige, og faller lett fra hverandre ved midtseptet til to separate delsporer inne i sporesekken: en distal subglobos delspore som måler 3,5–3,8 × 2,8–3,4 μm og en proksimal ellipsoidal delspore som måler 2,6–4,3 × 2,8–3,5 μm.",
+      habitat: "Enkeltvis, spredt eller i små knipper på eller nær råtnende stubber, døde trestammer og begravde råtnende røtter av løvtrær, særlig eik og andre arter i bøkefamilien (Fagaceae). Den bærer frukt fra juli til oktober etter kraftig nedbør i fuktige, varmtempererte og subtropiske skoger.",
+      uses: "Dødelig giftig. Inntak forårsaker alvorlig multiorgantoksisitet som til å begynne med kjennetegnes av magesmerter, oppkast og diaré, etterfulgt i løpet av noen dager av benmargshemming med uttalt leukopeni og trombocytopeni, omfattende avskalling og avstøting av huden, håravfall (alopeci), akutt nyre- og leversvikt, disseminert intravaskulær koagulasjon (DIC), lillehjerneatrofi med ataksi og talevansker samt dødelig sjokk. De viktigste toksinene er potente makrosykliske trikotecener, overveiende satratoksin H og dets acetatderivater.",
+      confusion: "Ligner overfladisk på spiselige arter av snylteklubbe (Cordyceps) eller unge gevirlignende utvekster av lakkjuke (Ganoderma lingzhi), men lakkjuke danner en lakkert, treaktig skorpe med porer på undersiden. Den ligner også noe på de ufarlige, spiselige fingersoppene Clavulinopsis miyabeana (Clavulinopsis miyabeana) og rosenkøllesopp (Clavaria rosea), men begge mangler nedsenkede peritecieporer, bærer basidiesporer på et ytre hymenium og er sprø. Mikroskopisk undersøkelse av de nedsenkede periteciene og de fragmenterende askosporene skiller den lett fra alle korallignende stilksporesopper.",
+      notes: "Dette er en av de svært få dødelig giftige sekksporesoppene vitenskapen kjenner til. Flere dødelige forgiftninger i Japan og Sør-Korea oppsto ved at personer sanket de klarrøde stromaene under den feilaktige troen på at de var medisinske sopper som Ganoderma eller Cordyceps og trakk dem ut i te eller sake. Kjemiske undersøkelser påviste at dens trikotecen-mykotoksiner fungerer som potente hemmere av eukaryot proteinsyntese, noe som utløser cellulær apoptose på tvers av en rekke organsystemer."
     },
     sv: {
       description: "En dödligt giftig, saprotrof sporsäcksvamp (Ascomycota) som bildar upprätta, klarröda till orangeröda, klubblika eller gevirartat förgrenade stromata. Ursprunglig i tempererade och subtropiska Öst- och Sydostasien, inklusive Japan, Sydkorea och Kina, med isolerade förekomster dokumenterade i Australien. Den bryter fram på murket trä, stubbar och begravda rötter i lövskogar under de varma sommar- och höstmånaderna.",
@@ -53662,16 +53650,16 @@ export const CATALOG = [
       notes: "Næsten hvert basidie bærer to sporer, og hver spore modtager to cellekerner, så den kan etablere et dikaryon uden parring. Fælles multilokus-genotyper er fundet på lokaliteter i Guangdong mere end 80 km fra hinanden. Fra 2019 til 2023 forårsagede den flere dødsfald i Kina end nogen anden svamp med 135 tilfælde og 24 dødsfald. Cirka 50 g frisk svamp anslås at indeholde tilstrækkeligt gift til at dræbe en voksen person på 50 kg, og de højeste koncentrationer findes i hatten og lamellerne."
     },
     no: {
-      description: 'En dødelig giftig hvit fluesopp i Øst-Asia, opprinnelig beskrevet fra Guangdong i Kina.',
-      cap: 'Hatten er 4–7 cm bred, ren hvit, hvelvet til flat, glatt.',
-      hymenium: 'Skivene er frie, tette og hvite.',
-      stipe: 'Stilken er 7–9 cm lang og 0,5–1 cm tykk, hvit, med en skjør ring og en poseformet hvit volva ved basis.',
-      flesh: 'Kjøttet er hvitt og reagerer gult med KOH.',
-      sporePrint: 'Hvitt. Basidiene er tosporede (bisporige).',
-      habitat: 'Vokser i subtropiske løvskoger om våren.',
-      uses: 'Dødelig giftig. Inneholder amatoksiner og fallotoksiner.',
-      confusion: 'Amanita bisporigera er nordamerikansk. Hvit fluesopp (Amanita virosa) er fire-sporet og europeisk.',
-      notes: 'Mangler et etablert norsk navn.'
+      description: "En ektomykorrhizasopp i subtropiske løvskoger i Sør- og Sørvest-Kina, fremfor alt sammen med det eviggrønne treet Castanopsis fissa. Den er kjent fra Guangdong, Yunnan, Guizhou og Zhejiang, og forgiftningstilfeller er kjent fra Thailand. En tosporet innsamling fra Odisha har blitt henvist til denne arten.",
+      cap: "Hatten er 4–8 cm bred. Den starter eggformet, blir deretter hvelvet og flater senere ut, av og til med en svakt nedsenket midt. Overflaten er glatt og hvit, av og til kremfarget over midtpartiet. Kanten er ikke stripet og har ingen vedhengende slørrester.",
+      hymenium: "Skivene er frie, tette og hvite til hvitaktige, opptil 5 mm dype. Mellomskiver er tallrike, avsmalnende mot stilken og ordnet i to eller tre sjikt. Basidiene er klubbeformede, 27–55 × 10–15 μm, og nesten alle tosporede, sjelden ensporede, med sterigmer på 5–7 μm i lengde, enkelte opptil 9 μm. Klemmebøyler mangler ved basidiebasis.",
+      stipe: "Stilken er 7–9 cm lang og 0,5–1 cm tykk, hvit til hvitaktig, nesten sylindrisk eller en aning smalere oppover, med en svakt oppsvulmet spiss. Den er glatt eller bærer fine trådete skjell. En tynn, hvit, hinneaktig ring sitter ved eller like under spissen og kan rives av når hatten folder seg ut. Basis er en tilnærmet kulerund knoll på 1–2 cm i bredde, omsluttet av en tynn, hvit, hinneaktig slire (volva) hvis frie kant er cirka 7 mm til 2 cm høy.",
+      flesh: "Kjøttet er hvitt. Fortynnet kaliumhydroksid (KOH) farger alle vev gule.",
+      sporePrint: "Hvitt. Sporene er glatte, tynnveggede og kulerunde til subglobose, sjelden bredt ellipsoide, cirka (9–)9,5–12(–14,5) × (8,5–)9–11,5(–13) μm, med en liten apiculus, og de farges blå i jod (amyloide).",
+      habitat: "Fruktlegemene bærer frukt enkeltvis eller i grupper på bakken. I Guangdong er de tallrike under det varme regnet i mars og april og fortsetter inn i juli. I Yunnan opptrer de fra midtsommer og utover høsten. Det vanlige vertstreet er Castanopsis fissa. På flere lokaliteter i Guangdong vokser de også i blandede bestander som omfatter Lithocarpus glaber.",
+      uses: "Den er dødelig giftig. Den inneholder amatoksiner og fallotoksiner. Koking, steking, tørking og frysing ødelegger dem ikke.",
+      confusion: "Amanita bisporigera (Amanita bisporigera) har en lavere ring, mindre sporer, typisk 8–9,5 × 7–8,5 μm, og flere oppsvulmede celler i sliren. Amanita oberwinklerana (Amanita oberwinklerana) er firesporet, med ellipsoide sporer, en ring plassert under spissen, en sprøere ring og slire, flere oppsvulmede celler i sliren og ingen gul reaksjon med kaliumhydroksid. Amanita subjunquillea var. alba (Amanita subjunquillea var. alba) er firesporet, med lavere ring og mindre sporer. Vårfluesopp (Amanita verna) er firesporet. Hvit fluesopp (Amanita virosa) er firesporet og har hvite, flossete skjell på stilken. Amanita parviexitialis (Amanita parviexitialis) er tosporet, men hatten er cirka 3 cm bred og svakt brunaktig i midten. Amanita suballiacea (Amanita suballiacea) er firesporet, med mindre ellipsoide til bredt ellipsoide sporer. Amanita pallidorosea (Amanita pallidorosea) og Amanita subpallidorosea (Amanita subpallidorosea) har ofte en rosa tone i hattens midt. Amanita rimosa (Amanita rimosa) kan sprekke opp radielt ved hattkanten. Amanita chepangiana (Amanita chepangiana) og Amanita alboumbelliformis (Amanita alboumbelliformis) har en stripet kant, hul stilk, en stilkbasis som ikke er knollformet samt korte skiver som er tvert avkuttede. Slidresopp (Volvopluteus gloiocephalus) mangler ring, modne skiver og sporeavtrykk er rosa, og den vokser på strøfall framfor sammen med levende trær.",
+      notes: "Nesten hver basidie bærer to sporer, og hver spore mottar to cellekjerner slik at den kan etablere et dikaryon uten paring. Felles multilokus-genotyper har blitt funnet på lokaliteter i Guangdong mer enn 80 km fra hverandre. Fra 2019 til 2023 forårsaket den flere dødsfall i Kina enn noen annen sopp, med 135 forgiftningstilfeller og 24 dødsfall. Cirka 50 g fersk sopp anslås å inneholde nok gift til å drepe en voksen person på 50 kg, og de høyeste konsentrasjonene finnes i hatten og skivene."
     },
     sv: {
       description: "En ektomykorrhizabildande svamp i subtropiska lövskogar i södra och sydvästra Kina, framför allt tillsammans med det städsegröna trädet Castanopsis fissa. Den är känd från Guangdong, Yunnan, Guizhou och Zhejiang, och förgiftningsfall är kända från Thailand. En tvåsporig insamling från Odisha har hänförts till denna art.",
@@ -54266,16 +54254,16 @@ export const CATALOG = [
       notes: "Den første bekræftede forgiftning i 1997 omfattede 14 personer og 9 dødsfald. Senere opgørelser for det sydlige Kina angiver 33 hændelser, 352 forgiftede personer og 79 dødsfald. Toksinniveauerne er allerede høje i knopstadiet, topper mens frugtlegemet vokser kraftigt, og falder, når det er udvokset. Amatoksiner overstiger phallotoksiner i alle væv, og voksestedet har større betydning for den samlede mængde gift end for balancen mellem de to grupper."
     },
     no: {
-      description: 'En dødelig giftig fluesopp fra Kina, knyttet til eik og Castanopsis.',
-      cap: 'Hatten er 3–6 cm bred, gråbrun til sotbrun, halvkuleformet til hvelvet.',
-      hymenium: 'Skivene er frie, tette og gråhvite.',
-      stipe: 'Stilken er 6–10 cm lang og 0,4–1 cm tykk, hvit til gråaktig med fibrøse skjell, ring og en liten volva ved basis.',
-      flesh: 'Kjøttet er tynt og hvitt.',
-      sporePrint: 'Hvitt. Sporene er kulerunde og amyloide.',
-      habitat: 'Vokser på bakken i subtropiske skoger i Kina.',
-      uses: 'Dødelig giftig. Ansvarlig for mange dødelige forgiftninger i Kina på grunn av amatoksiner.',
-      confusion: 'Amanita fuligineoides (Amanita fuligineoides) er større, har ikke kulerund stilkbasis og har færre oppsvulmede celler i volvaen. Amanita subfuliginea (Amanita subfuliginea) har mindre sporer. Amanita pseudoporphyria (Amanita pseudoporphyria) kan bære slørrester på hatten, har hvit ring og tykk hvit volva. Gråbrun fluesopp (Amanita porphyria) vokser under bartrær, har flekkete slørrester på hatten og en grunn volva.',
-      notes: 'Mangler norsk navn.'
+      description: "En ektomykorrhizasopp i skoger dominert av eik, Castanopsis og andre trær i bøkefamilien (Fagaceae). Den er kjent fra Japan, fra det østlige, sørlige, sentrale og sørvestlige Kina samt fra en skog med bøkefamilie-trær i Nord-Thailand. I Sør- og Sentral-Kina har den gjentatte ganger forårsaket dødelige forgiftninger.",
+      cap: "Hatten er 3–6 cm bred. Den starter eggformet til klokkeformet, blir deretter hvelvet og senere flat, av og til med en lav, bred pukkel. Den er litt klebrig i vått vær og glinsende i tørt vær. Fargen er sotbrun til sortaktig, mørkest i midten, med mørkegrå inngrodde radielle tråder i overflaten. Kanten er ikke stripet og har intet hengende slør, og den kan sprekke opp med alderen.",
+      hymenium: "Skivene er frie, tette og hvite til gråhvite, cirka 3–4 mm brede, med glatte egger. Mellomskiver er tallrike og smalner av mot stilken. Antallet gjennomgående skiver er cirka 80–100, og de korte skivene forekommer i én til tre lengder. Basidiene er klubbeformede og firesporede, cirka 30–35 × 8–10 μm, med sterigmer på cirka 3–4 μm i lengde. Klemmebøyler mangler på basidiene.",
+      stipe: "Stilken er 6–10 cm lang og 0,4–1 cm tykk. Den er margfylt og deretter hul, nesten jevntykk eller en aning smalere oppover, med en svakt oppsvulmet spiss. Den er blekere enn hatten, hvit til gråaktig, og under ringen bærer den grå til gråbrune tråder og skjell, ofte i et sikksakkmønster. En hinneaktig ring sitter nær toppen; den er hvitaktig til å begynne med, deretter smusshvit eller grå, svakt stripet og vedvarende. Basis er svakt knollformet til subglobos, omsluttet av en hvit, hinneaktig slire (volva) som er fri over omtrent halve sin høyde og sprekker opp i tre til fem fliker.",
+      flesh: "Kjøttet er hvitt, tynt og uforanderlig. Lukten er svak eller mangler, og det finnes ingen særpreget smak.",
+      sporePrint: "Hvitt. Sporene er glatte, tynnveggede, hyaline og kulerunde til subglobose, og de farges blå i jod (amyloide). De fleste er cirka 7,5–9,5 μm i diameter, innenfor et målt intervall på cirka 7–11 × 6,5–10 μm.",
+      habitat: "Fruktlegemene bærer frukt enkeltvis eller i små grupper på bakken under Castanopsis, eik og andre trær i bøkefamilien (Fagaceae). I Japan bærer de frukt fra sommeren og utover høsten. I Kina bærer de frukt fra senvåren og inn i sommeren. I Nord-Thailand er de registrert fra slutten av juli.",
+      uses: "Den er dødelig giftig. Den inneholder amatoksiner, inkludert α-amanitin og β-amanitin, samt fallotoksiner. De høyeste konsentrasjonene finnes i skivene, hatten og stilken.",
+      confusion: "Amanita fuligineoides (Amanita fuligineoides) er større, stilkbasis er ikke kulerund til subglobos, og sliren har færre oppsvulmede celler. Amanita subfuliginea (Amanita subfuliginea) har mindre sporer. Amanita pseudoporphyria (Amanita pseudoporphyria) kan bære slørrester på hatten, har en hvit ring og tykk hvit slire, og stilken blir tykkere nedover samt bærer hvite tråder. Porfyrfluesopp (Amanita porphyria) vokser under bartrær, bærer vorteaktige eller flikete slørrester på hatten og har en lavtsittende, smal slire. Amanita elephas (Amanita elephas) har en hvit ring og mindre sporer. Mørk gul fluesopp (Amanita citrina var. grisea) har en gulaktig ring, en lav rødbrun slire og en ubehagelig rå potetlukt.",
+      notes: "Den første bekreftede forgiftningen i 1997 omfattet 14 personer og 9 dødsfall. Senere sammenstillinger for Sør-Kina angir 33 hendelser, 352 forgiftede personer og 79 dødsfall. Toksinnivåene er allerede høye i knoppstadiet, kulminerer mens fruktlegemet vokser kraftig og synker når det er fullt utvokst. Amatoksiner overstiger fallotoksiner i alle vev, og voksestedet har større innvirkning på den totale giftmengden enn på balansen mellom de to gruppene."
     },
     sv: {
       description: "En ektomykorrhizabildande svamp i skogar dominerade av ek, Castanopsis och andra träd i bokfamiljen (Fagaceae). Den är känd från Japan, från östra, södra, centrala och sydvästra Kina samt från en skog med bokväxter i norra Thailand. I södra och centrala Kina har den upprepade gånger orsakat dödliga förgiftningar.",
@@ -54869,15 +54857,15 @@ export const CATALOG = [
       notes: "I Wengyuan Amt i Guangdong blev fem personer forgiftet, og to af dem, en 15-årig og en 7-årig, døde. Svampe indsamlet på findestedet blev identificeret som denne art og som Amanita fuliginea. Hathuden er 130–190 μm tyk og tolaget. Dens øvre lag er let gelatiniseret og indeholder talrige opsvulmede celler, en kombination der er enestående inden for fluesvampeslægtens sektion Phalloideae."
     },
     no: {
-      description: 'En dødelig giftig fluesopp beskrevet fra Kina.',
-      cap: 'Hatten er 3–6 cm bred, hvelvet til flat, hvitaktig med radiære sprekker.',
-      hymenium: 'Skivene er frie og hvite.',
-      stipe: 'Stilken er 5–9 cm lang, hvit med ring og poseformet volva.',
-      flesh: 'Kjøttet er hvitt.',
-      sporePrint: 'Hvitt.',
-      habitat: 'Løvskog i sørlige Kina.',
-      uses: 'Dødelig giftig pga. amatoksiner.',
-      notes: 'Mangler norsk navn.'
+      description: "En ektomykorrhizasopp i løvskoger, særlig skoger dominert av trær i bøkefamilien (Fagaceae). Den er kjent fra Jiangxi, Hunan, Hubei, Guangdong, Guizhou, Yunnan og Hainan i Kina samt fra Nord-Thailand. En sekvensert innsamling er kjent fra Hyogo i Japan. Dødelige forgiftninger har blitt registrert i Sør-Kina.",
+      cap: "Hatten er 3–6,2 cm bred. Den starter halvkuleformet og blir hvelvet, deretter flat. Overflaten er tørr, eller litt klebrig og glinsende i fuktig vær. Den er hvit til gulaktig hvit mot kanten. Midten er blekgul til kremfarget, og kan være svakt brun. Kanten er ikke stripet og har intet hengende slør. Fine radielle furer, som av og til bare ses tydelig under lupe, løper mot kanten, som kan sprekke opp.",
+      hymenium: "Skivene er frie, tette og hvite til hvitaktige, cirka 4–5 mm brede. Korte skiver forekommer i to eller tre lengder og smalner av mot stilken. Skiveeggen er steril og bærer oppsvulmede celler på cirka 20–25 × 15–20 μm. Basidiene er klubbeformede og firesporede, 38–42 × 15–18 μm, med sterigmer på 4–6 μm i lengde. Klemmebøyler mangler på basidiene.",
+      stipe: "Stilken er 5–9 cm lang, og skaftet er 0,3–1 cm tykt. En lengde på 7–9 cm er inkludert knollen. Den er nesten sylindrisk, noe smalere oppover og massiv. Den er hvit til smusshvit, av og til med små hvite skjell, og den kan misfarges svakt gulhvitt ved trykk. En tynn, hinneaktig ring sitter nær spissen. Den er skjørtaktig, svakt stripet og hvit. Basis har en kulerund til subglobos, kantet knoll på cirka 1,6–2 cm i bredde. En hvit flik av sliren (volva) reiser seg opptil 1 cm fra knollens kant, og en hinneaktig hvit indre flik forekommer.",
+      flesh: "Kjøttet er hvitt. I hatten er det mykt og cirka 2–3 mm tykt like over stilken. I stilken er det massivt og hvitt til hvitaktig.",
+      sporePrint: "Hvitt. Sporene er glatte, fargeløse og tynnveggede, kulerunde til subglobose, leilighetsvis bredt ellipsoide og ofte avflatet på innsiden. De måler (6,0–)6,3–8,3(–8,6) × (5,6–)5,8–7,4(–8,2) μm, i gjennomsnitt cirka 7,0 × 6,6 μm, med et Q-forhold på 1,01–1,16(–1,18). Det gjennomsnittlige Q-forholdet er cirka 1,06. De farges blå i jod.",
+      habitat: "Fruktlegemene bærer frukt enkeltvis eller spredt på bakken i løvskog, inkludert skoger med trær fra bøkefamilien (Fagaceae), fra juni og inn i september.",
+      uses: "Den er dødelig giftig. Den inneholder amatoksiner og forårsaker akutt leverskade, som kan utvikle seg til leversvikt. Intet spesifikt motgift er kjent.",
+      notes: "I herredet Wengyuan i Guangdong ble fem personer forgiftet, og to av dem, en 15-åring og en 7-åring, omkom. Sopper som ble samlet inn på stedet ble identifisert som denne arten og som Amanita fuliginea. Hatthuden er 130–190 μm tykk og toskiktet. Det øvre skiktet er noe gelatinisert og inneholder rikelig med oppsvulmede celler, en kombinasjon som er unik innen fluesoppslektens seksjon Phalloideae."
     },
     sv: {
       description: "En ektomykorrhizabildande svamp i lövskogar, särskilt skogar dominerade av träd i bokfamiljen (Fagaceae). Den är känd från Jiangxi, Hunan, Hubei, Guangdong, Guizhou, Yunnan och Hainan i Kina samt från norra Thailand. En sekvenserad insamling är känd från Hyogo i Japan. Dödliga förgiftningar har registrerats i södra Kina.",
@@ -55475,15 +55463,15 @@ export const CATALOG = [
       notes: "Frugtlegemerne indeholder 2R-amino-4S-hydroxy-5-hexynsyre, 2R-amino-5-hexynsyre og γ-guanidinobutansyre. De to hexyn-aminosyrer anvendes ikke i proteiner, og hos mus forårsager de hypoglykæmi. En af dem er blevet påvist i hjerteblodet hos en person, der døde pludseligt i en landsby, hvor svampen voksede. De forklarer ikke ethvert pludseligt dødsfald i regionen. Mere end 400 uforklarlige pludselige dødsfald er blevet registreret i det nordvestlige Yunnan siden 1978, langt størstedelen hos personer, der hidtil havde virket sunde og raske, og mere end ni ud af ti faldt i juni, juli og august. I de amter, der var under særlig overvågning, blev der talt 395 sådanne dødsfald fra 1975 til og med 2009. Advarsler mod at spise ukendte svampe og en senere advarsel, som specifikt nævnte denne svamp, blev fulgt af et kraftigt fald: cirka 73 procent færre dødsfald fra 2006 til 2009 end fra 2002 til 2005. Dødsfaldene ophørte dog ikke fuldstændigt. Bariumindholdet i tørrede frugtlegemer er cirka 0,5–22 µg pr. gram, og gennemsnittet på de undersøgte lokaliteter var cirka 5,4–12,2 µg pr. gram, hvilket er sammenligneligt med andre fødevarer. Det kan ikke forklare dødsfaldene. Folk har forvekslet og plukket svampen under indsamling af spiselige svampe."
     },
     no: {
-      description: 'En hvitaktig, vedboende skivesopp som er hjemmehørende i Yunnan-provinsen i sørvestlige Kina.',
-      cap: 'Fruktlegemet er tynt og sart, 3–7 cm bredt, hvitaktig til lyst kremfarget.',
-      hymenium: 'Skivene er smale og nedløpende.',
-      stipe: 'Stilken er kort, ofte sidestilt eller eksentrisk.',
-      flesh: 'Kjøttet er skjørt og tynt.',
-      habitat: 'Vokser i klynger på råtnende løvtreved i fuktige fjellskoger i Yunnan.',
-      uses: 'Dødelig giftig. Soppen ble identifisert som årsaken til det gåtefulle \'Yunnan Sudden Death Syndrome\', som krevde hundrevis av liv over flere tiår. Den inneholder giftige, ikke-proteinogene aminosyrer som forårsaker akutt hypoglykemi og hjertestans.',
-      confusion: 'Trogia infundibuliformis (Trogia infundibuliformis) har traktformet hatt, bølget kant, nedløpende skiver, hygrofan overflate, hul stilk og behagelig lukt, trekk som denne arten mangler.',
-      notes: 'Mangler norsk navn.'
+      description: "En vanlig vednedbrytende sopp som danner fruktlegemer i knipper på død ved. Den vokser i de subtropiske fjellene i Yunnan i det sørvestlige Kina, og er kjent utelukkende fra provinsens sørvestlige, sentrale og nordvestlige deler mellom cirka 1 700 og 3 000 meters høyde.",
+      cap: "Fruktlegemet er spinkelt, cirka 3–7 cm langs den kortere aksen og 5–10 cm langs den lengre. Hatten er vifteformet til kronbladaktig, som et ginkgoblad, med en bølgete og delvis gjennomskinnelig kant. Den er hvit som fersk, og fargen varierer også fra rosaaktig over smusshvit til lysebrun.",
+      hymenium: "Skivene er smale og nedløpende.",
+      stipe: "Stilken er kort og ofte eksentrisk eller sidestilt. Den er trådet og blek til brunaktig, og den er ikke hul.",
+      flesh: "Kjøttet er sprøtt og brekker lett. En behagelig lukt mangler.",
+      habitat: "Fruktlegemene opptrer fra juni til begynnelsen av september. Studerte innsamlinger ble gjort i de regnfulle månedene juni, juli og august. De vokser i knipper, ofte rikelig der soppen finnes, på døde trær, stubber, falne stammer og annen råtten ved i løvfellende og blandet fjellskog, inkludert skoger dominert av trær i bøke-, furu- og tebuskfamilien. Stedene den har blitt funnet i felt ligger mellom cirka 1 800 og 2 800 meters høyde.",
+      uses: "Personer som døde etter å ha spist den hadde vanligvis vært friske i forkant. De fleste mistet bevisstheten under vanlige hverdagsaktiviteter og døde innen cirka ti minutter, eller falt i koma og døde innen et døgn. Noen få fikk kramper eller kastet opp i bevisstløs tilstand. Enkelte hadde besvimt eller følt seg svimle like i forveien, og noen hadde milde symptomer, av og på i tre til fem dager, som ikke avbrøt vanlige aktiviteter. Fra det siste måltidet til dødens inntreffen var mediantiden fire dager, innenfor et spenn fra 16 timer til 15 dager. To personer som hadde spist den og overlevde hadde blodsukkernivåer på 3,31 og 3,65 mmol/l. Undersøkelse av fire personer som hadde spist den påviste små områder med nekrotisk hjertemuskulatur med lymfocytter. Hos mus forårsaket et ekstrakt av den ferske soppen uttalt hypoglykemi og død i løpet av få timer. Det forløpet er eksperimentelt og tilsvarer ikke direkte forløpet hos mennesker.",
+      confusion: "Trogia infundibuliformis (Trogia infundibuliformis) har en traktformet hatt, en bølgete kant, svakt nedløpende skiver, en hygrofan overflate, en hul stilk og en behagelig lukt. Denne arten mangler disse trekkene. Hatten er vifteformet til kronbladaktig, med en delvis gjennomskinnelig bølgete kant og smale skiver, og stilken er trådet, blek til brunaktig og ikke hul.",
+      notes: "Fruktlegemene inneholder 2R-amino-4S-hydroksy-5-heksynsyre, 2R-amino-5-heksynsyre og γ-guanidinobutyrsyre. De to heksyn-aminosyrene brukes ikke i proteiner, og hos mus forårsaker de hypoglykemi. Én av dem har blitt påvist i hjerteblodet hos en person som døde plutselig i en landsby der soppen vokste. De forklarer likevel ikke hvert eneste plutselige dødsfall i regionen. Mer enn 400 uforklarlige plutselige dødsfall har blitt registrert i det nordvestlige Yunnan siden 1978, det store flertallet hos personer som tidligere virket friske, og mer enn ni av ti inntraff i juni, juli og august. I herredene som ble holdt under spesiell overvåkning ble det talt 395 slike dødsfall fra 1975 til og med 2009. Advarsler mot å spise ukjente sopper og en senere advarsel som uttrykkelig navnga denne soppen ble fulgt av en kraftig nedgang: cirka 73 prosent færre dødsfall fra 2006 til 2009 enn fra 2002 til 2005. Dødsfallene opphørte likevel ikke helt. Barium i tørkede fruktlegemer er cirka 0,5–22 µg per gram, og gjennomsnittet på de undersøkte lokalitetene var cirka 5,4–12,2 µg per gram, noe som er sammenlignbart med andre næringsmidler. Det forklarer ikke dødsfallene. Mennesker har plukket soppen under sanking av spiselig sopp."
     },
     sv: {
       description: "En allmän vednedbrytande svamp som bildar fruktkroppar i knippen på död ved. Den växer i de subtropiska bergen i Yunnan i sydvästra Kina, och är känd endast från provinsens sydvästra, centrala och nordvästra delar mellan cirka 1 700 och 3 000 m höjd.",
@@ -56259,16 +56247,16 @@ export const CATALOG = [
       notes: "Frugtlegemerne har en udpræget evne til at ophobe og koncentrere arsen. En måling påviste omkring 100 mikrogram per gram tørvægt, og på forurenet jordbund kan mængden blive særdeles høj. Myceliet vokser villigt på steder, hvor jorden er rig på ammoniak eller andre kvælstofkilder. En vurdering fra 2014 i Murmansk Oblast og en vurdering fra 2020 i Republikken Karelen behandler begge arten som sjælden og næsten truet (Near Threatened). Fund fra Sibirien, som bærer dette navn, behøver fortsat nærmere kontrol og undersøgelse, da en del af dette materiale kan tilhøre Laccaria amethysteo-occidentalis."
     },
     no: {
-      description: 'En liten, ektomykorrhizadannende skivesopp i løv- og barskog. Utbredt og vanlig i store deler av Europa.',
-      cap: 'Hatten er 2–6 cm bred, hvelvet med nedsunket sentrum og bølget kant. I fuktig vær har den en intens, dyp ametystfiolett farge, men som sterkt hygrofan tørker den opp til en blek gråhvit eller lærfarget nyanse.',
-      hymenium: 'Skivene er tykke, fjerne, tilvokste til svakt nedløpende, og beholder den dype fiolette fargen lenger enn hatten.',
-      stipe: 'Stilken er 4–10 cm lang og 0,3–0,8 cm tykk, slank, seig og langsfibret, fiolett med hvite myceltråder ved basis.',
-      flesh: 'Kjøttet er tynt, vannaktig og fiolett. Lukten og smaken er mild.',
-      sporePrint: 'Hvitt. Sporene er kulerunde, kraftig piggete, 8–10 μm i diameter.',
-      habitat: 'Fruktlegemer viser seg fra august til november i fuktig skogbunn under bøk, eik og bartrær.',
-      uses: 'Spiselig (spiselig). Hattene er spiselige og kan brukes som fargeinnslag i soppretter, men har lite egensmak og bør spises med måtehold da soppen kan akkumulere arsen fra jordsmonnet.',
-      confusion: 'Lakssopp (Laccaria laccata) har kjøttfarget oransjebrun hatt og skiver. Hekk- og slørsopper har brunt sporeavtrykk.',
-      notes: 'Arten er kjent for å kunne ta opp og konsentrere arsenikkforbindelser fra jorda.'
+      description: "En liten ektomykorrhizasopp i løvstrø og mose i tempererte skoger, ofte i grupper. Den er vidt utbredt i Europa og vokser i store deler av Asia, i Mellom- og Sør-Amerika samt i det østlige Nord-Amerika. Rapporter oppgir den også fra Afrika, Australia og New Zealand.",
+      cap: "Hatten er vanligvis 2–6 cm bred og kan nå 7 cm. Øst for Rocky Mountains er den ofte bare 0,5–3,5 cm. Den er først hvelvet med innrullet kant og senere flat eller bølgete, typisk med en sentral fordypning, og kanten kan være fliket. Overflaten er først glatt og senere matt, melet eller fint skjellet i midten. Den er hygrofan. I fuktig tilstand er den dyp ametystfarget, fiolett eller lilla, av og til gråaktig lilla. Når den tørker, blekner den fra midten over lilabrun til lysegrå, lærbrun, lyseoker, kremfarget eller nesten hvit, og kanten kan være svakt stripet. Hatthuden er en cutis av hyfer som er 6–20 μm brede, med opprette celler eller bunter av slike. Kaliumhydroksid farger hattoverflaten brunaktig.",
+      hymenium: "Skivene er tykke, 3–8 mm brede og fjerntstilte med kortere mellomskiver. De er bredt tilvokste og løper av og til et kort stykke nedover stilken, eller møter den med en svak utranding. De er fiolette i likhet med hatten. Flere kilder oppgir at de beholder denne fargen etter at hatten har bleknet, selv om sidene blir hvite av sporer, mens én kilde oppgir at selve skivene blekner før hatten blir lærbrun. Eldre skiver kan være bølgete. Basidiene er klubbeformede og fargeløse, 30–64,5 × 8,5–14 μm, vanligvis firesporede og sjelden tosporede, med sterigmer på opptil 10 μm i lengde. Cheilocystider er tallrike, tynnveggede og fargeløse, trådformede til klubbeformede eller oppsvulmede, 25–65 × 4–12 μm, og leilighetsvis opptil 92 μm lange.",
+      stipe: "Stilken er 0,6–12 cm høy og 0,1–1 cm tykk. Den er sylindrisk, ofte bøyd eller vridd, og av og til noe tykkere ved basis. Den er trevlet og seig, massiv som ung og senere margfylt eller hul. Overflaten er trevlet med hvitaktige fibre og melet nær toppen. Den er fiolett i likhet med hatten og blekner sammen med den. Lilla til hvitaktig mycel binder sammen strøfallet ved basis. Det finnes ingen ring.",
+      flesh: "Kjøttet er tynt og vannaktig, blekt lilla i fuktig tilstand og senere rosabrunaktig eller brunaktig. Lukten er svak og lite særpreget, av og til mildt soppaktig. Smaken er mild og av og til noe søtlig.",
+      sporePrint: "Hvitt til hvitaktig. Sporene er kulerunde, sjelden svakt ellipsoide, og fargeløse, med et lengde-bredde-forhold på cirka 1–1,07. Fratrukket ornamenteringen er de cirka 7–11 μm i diameter. De er inamyloide. Piggene er cirka 1,4–3 μm lange og mer enn 1 μm brede ved basis. En britisk måling angir en øvre grense på 1,5 μm.",
+      habitat: "Fruktlegemer opptrer fra mai til desember. I Storbritannia og Irland samt i Slovakia er hovedsesongen juni til november. I Tsjekkia er de registrert fra juni til november, inkludert et funn i mai, og øst for Rocky Mountains bærer de frukt på senvåren og sommeren. De vokser i strøfall og mose i løv- og barskoger, særlig med bøk og eik, men også med andre løv- og bartrær, i parker og hager. De viser seg enkeltvis, spredt eller i grupper på fuktig jord blant løv og av og til på råtnende kvister.",
+      uses: "Den er spiselig og regnes ikke som noen delikatesse. Bare hattene er verdt å tilberede, ettersom stilkene er trevlete og seige. Hattene brukes i supper og sauser, der fargen er en del av poenget, og skivene renses bort først. Det trengs et stort antall fruktlegemer til et måltid.",
+      confusion: "Lakssopp (Laccaria laccata) har samme fasong og en seig trevlet stilk, men hatten og skivene er oransjebrune, rødbrune eller rosaoker. Gamle fruktlegemer som har bleknet til lyst lærbrune er da vanskelige å skille fra den, med mindre noen fiolette toner gjenstår i skivene. Tofarget lakssopp (Laccaria bicolor) har lilla skiver som ung, så et avbleket fruktlegeme kan minne om den. En utvokst tofarget lakssopp er kraftigere og er ikke ensfarget fiolett overalt. Laccaria amethysteo-occidentalis (Laccaria amethysteo-occidentalis) vokser vest for Rocky Mountains sammen med bartrær. Den er i gjennomsnitt større, den fiolette fargen blekner mot vinrødt snarere enn brunt, og sporene er nesten kulerunde til bredt ellipsoide med et lengde-bredde-forhold på cirka 1,06–1,24 og kortere pigger. Laccaria vinaceobrunnea (Laccaria vinaceobrunnea) ved Mexicogolfen er dyp purpur bare som svært ung og blekner raskt til fiolettbrun og deretter matt oransjebrun eller lærbrun. Sporene har en mellomform, og hatthuden er et palisadederm. Den vokser sammen med Quercus virginiana. Laccaria gomezii (Laccaria gomezii) i tåkeskoger med eik i Mellom-Amerika og det nordlige Sør-Amerika er mørkere purpurfarget og har tette skiver. Reddikhytte (Mycena pura) er fiolett, men skivene er bleke, stilken er ikke trevlet og den lukter reddik. Den lilla formen av silketrevlesopp (Inocybe geophylla var. lilacina) har en spiss pukkel, en ubehagelig lukt og tette skiver som blir brune, med et brunt sporeavtrykk. Fiolett slørsopp (Cortinarius violaceus) har en filtet hatt og et spindelvevslignende slør (cortina) som fanger et rustbrunt sporeavtrykk, og andre fiolette arter av slørsopper (Cortinarius) deler dette sløret og sporefargen. Blå ridderhatt (Lepista nuda) er kjøttfullere og større, og fruktlegemene har en annen form.",
+      notes: "Fruktlegemene kan akkumulere arsen. En måling fant cirka 100 mikrogram per gram tørrvekt, og på forurenset grunn kan innholdet bli høyt. Mycelet vokser villig der jordsmonnet er rikt på ammoniakk eller annet nitrogen. En vurdering fra 2014 i Murmansk oblast og en vurdering fra 2020 i Republikken Karelia behandler den begge som sjelden og nær truet (Near Threatened). Funn fra Sibir som bærer dette navnet må fremdeles kontrolleres, ettersom en del av materialet kan tilhøre Laccaria amethysteo-occidentalis."
     },
     sv: {
       description: "En liten ektomykorrhizabildande svamp i lövförna och mossa i tempererade skogar, ofta i grupper. Den är vitt utbredd i Europa och växer i stora delar av Asien, i Central- och Sydamerika samt i östra Nordamerika. Rapporter anger den även från Afrika, Australien och Nya Zeeland.",
@@ -57089,16 +57077,16 @@ export const CATALOG = [
       notes: "Navnet dækker over et artskompleks af nærtstående former, mindst elleve forskellige, og biologiske forfattere trækker ikke de samme artsgrænser. Visse forfattere udskiller ikke sortnende vokshat (Hygrocybe nigrescens), da tosporede og firesporede basidier kan forekomme på et og samme frugtlegeme. Frugtlegemer fra kær og rigkær, som kun svartner en smule, med en stribet hat og en afdrættelig hathud, er blevet udskilt som en selvstændig varietet, og deres sporer er en smule længere og smallere. Indsamlinger, der er arkiveret under dette navn i Californien, tilhører et særskilt kompleks, og den ægte europæiske art mangler sandsynligvis dér. Mange australske indsamlinger, som er blevet henført hertil, er Hygrocybe astatogala. Fuldt udviklede frugtlegemer bliver helt sorte og kan blive stående i ugevis. I Tyskland er den fredet ligesom de øvrige vokshatte. Den regnes for livskraftig (Least Concern) på rødlisten i Danmark, Finland, Norge og Sverige. Den har tidligere været betragtet som mykorrhizapartner med græsser og som saprotrof på døde rødder. Et gensidigt samliv med mosser anses i dag for sandsynligt, og den egentlige ernæringsmæssige levevis er endnu ikke endeligt afklaret."
     },
     no: {
-      description: 'En karakteristisk vokssopp som vokser i ugjødslet gressmark, beitemark, sanddyner og skoglysninger. Utbredt over hele verden.',
-      cap: 'Hatten er 2–6 cm bred, spisst kjegleformet, og beholder kjegleformen lenge. Fargen er flammende skarlagensrød, oransje eller guloransje. Ved berøring, med alderen eller ved inntørking sverter hele soppen kraftig og blir kullsvart.',
-      hymenium: 'Skivene er nesten frie, tykke og voksaktige, først blekgule til oransje, og sverter langsomt ved trykk eller skade.',
-      stipe: 'Stilken er 3–10 cm lang og 0,4–1 cm tykk, furet og langstrådet, guloransje og sverter etter hvert helt fra bunnen og opp.',
-      flesh: 'Kjøttet er tynt, skjørt og gult, og sverter ved overskjæring. Lukten og smaken er ubetydelig.',
-      sporePrint: 'Hvitt. Sporene er glatte, ellipsoide, inamyloide, 8–11 × 5–6,5 μm.',
-      habitat: 'Fruktlegemer viser seg fra juli til oktober i artsrike, tradisjonelt drevne beitemarker og plener.',
-      uses: 'Giftig (eller ikke matsopp). Den inneholder stoffer som kan forårsake magebesvær, og den kraftige svertingen gjør den uansett lite appetittlig.',
-      confusion: 'Andre fargerike vokssopper (Hygrocybe) sverter aldri ved berøring eller med alderen.',
-      notes: 'Kjeglevokssopp er et artskompleks av flere nært beslektede genetiske linjer.'
+      description: "En gressmarkssopp på enger, beitemarker, plener, veikanter og sanddyner, som også påtreffes i åpne skoger og langs stier. Den vokser enkeltvis eller i grupper. Den forekommer fra Middelhavet til Island og over hele Nord-Amerika, og den er registrert i det nordlige Asia, Nord-Afrika, Sør-Amerika, Australia, Ny-Guinea og New Zealand.",
+      cap: "Hatten er 0,5–12 cm bred, vanligvis omkring 2–10 cm. Fruktlegemer i det østlige Nord-Amerika er ofte mindre med en hatt på cirka 1–6 cm. Den er skarpt kjegleformet til å begynne med, av og til mer avrundet kjegleformet, og brer seg ut men beholder en spiss pukkel. Kanten kan bli fliket eller bøye seg oppover, slik at en eldre hatt blir svakt klokkeformet, og små hatter er ofte gjennomskinnelig stripete. Overflaten er slimete eller fetaktig i fuktig vær og tørr og silkeaktig etterpå. Den typiske formen beskrives også som ikke-klebrig. Fargen er skarlagensrød, oransje eller gul, av og til blekere ved kanten, og enkelte fruktlegemer er bronsefargede, olivenbrune eller grønnlige, eller gule og deretter grønne uten noen røde innslag. Den svartner flekkvis fra midten eller spissen, og en gammel hatt kan bli fullstendig sort og fremdeles blank. Kaliumhydroksid på hatten er negativ. Hatthuden er en ixocutis.",
+      hymenium: "Skivene er frie til smalt tilvokste. De er tykke og voksaktige, men beskrives også som tynne. De er fjernt- til tettstilte, brede og bleke, fra hvitaktige eller sitrongule til oransje, og bare sjelden rødlige. De svartner med alderen og ved berøring, av og til med start fra eggen. Korte mellomskiver er vanlige. Basidiene er 40–60 μm lange og bærer to, tre eller fire sporer. Firesporede basidier har klemmebøyler, mens tosporede basidier mangler slike. Cystider mangler. Skivetramaet er regelmessig med spoleformede celler på 1000 μm eller lengre, som kan stikke ut fra skiveeggen.",
+      stipe: "Stilken er 1,5–12 cm lang hos europeiske fruktlegemer, og en lengde på opptil 20 cm er rapportert fra Nord-Amerika. Den er 0,2–2 cm tykk. Den er sylindrisk, ofte furet eller vridd, og mangler ring. Den er gul, oransje eller sitrongul, av og til skarlagensrød nær hatten og hvitaktig ved basis, og den nedre delen kan være stripet i rødt eller grønt. Den er fuktig eller slimete som fersk og snart tørr og trådet, og enkelte fruktlegemer er ikke slimete. Britiske fruktlegemer beskrives som margfylte snarere enn hule. Ifølge andre kilder er den hul med alderen. Den svartner med alderen og ved berøring fra toppen og nedover eller fra basis. Den er skjør og sprekker lett opp.",
+      flesh: "Kjøttet er tynt og svært skjørt, gult, oransje eller i hattens farge, og hvitt i stilken hos enkelte fruktlegemer. Det svartner ved snitt, raskt eller langsomt. Lukten er ikke særpreget. Smaken er ikke særpreget, eller mild og søtlig i enkelte kilder, samt bitter i andre.",
+      sporePrint: "Hvitt. Sporene er ellipsoide, eggrunde eller bønneformede (faseoliforme), av og til innsnørte, glatte og inamyloide, cirka 8,5–12 × 5–8 μm, og mindre enn dobbelt så lange som brede. Sporer fra firesporede fruktlegemer er cirka 8,5–10 × 6–7 μm, og sporer fra tosporede fruktlegemer er cirka 9–11,5 × 5,5–7,5 μm.",
+      habitat: "I Storbritannia og Irland opptrer fruktlegemene fra juli til november, og i Tsjekkia fra juni til november, med ytterligere forekomster om våren etter en mild vinter. I det østlige Nord-Amerika viser de seg fra forsommeren gjennom høsten, og i varmere klima inn i vinteren, deriblant fra senhøstes til midtvinters på Californias kyst. De vokser enkeltvis, spredt eller i store flokker, av og til i rader, i kort ugjødslet gress: enger, beitemarker, plener, kirkegårder, veikanter og sanddyner samt i åpne skoger, glenter, langs stier og i mosekanter. De foretrekker solrike voksesteder og er mindre vanlige i tette skoger. De tåler mer forstyrrelse og gjødsling enn de fleste andre vokssopper og er blant de første til å etablere seg på forlatte jorder. Der gressmarker har blitt dyrket opp og gjødslet blir de lokale, og der gresset forblir kort og ugjødslet er de ofte tallrike.",
+      uses: "Den regnes som giftig, i enkelte kilder som svakt giftig. Inntak har blitt ledsaget av kraftige mage-tarm-plager, og et forgiftningstilfelle tilskrevet arten har blitt rapportert fra Kina. Noen soppbøker har betegnet den som spiselig. Andre beretninger lar spiseligheten stå som ukjent eller begrenser den rapporterte virkningen til mildere symptomer, som lett svimmelhet. Fruktlegemene er spinkle, slimete i vått vær, og de svartner ved berøring.",
+      confusion: "Sandvokssopp (Hygrocybe conicoides) vokser på kalkrike sanddyner, har gule, lakserosa eller rødlige skiver og svartner mye langsommere og sjelden fullstendig. Sporene er lengre og smalere, cirka 10–12,5 × 5–6 μm. Spiss vokssopp (Hygrocybe acutoconica) svartner ikke. Skarlagenvokssopp (Hygrocybe punicea) har lignende vekstmåte og svartner ikke. Kochenillevokssopp (Hygrocybe coccinea) og mønjevokssopp (Hygrocybe miniata) svartner ikke. Gul vokssopp (Hygrocybe chlorophana) er lysere gul eller oransje, har en avrundet hatt og svartner ikke. Papegøyevokssopp (Gliophorus psittacinus) er slimete og grønn til gulaktig, men svartner heller ikke ved berøring eller med alderen.",
+      notes: "Navnet dekker et artskompleks av nærstående former, minst elleve ulike, og forfattere trekker ikke de samme artsgrensene. Enkelte forfattere skiller ikke ut svartsvertende vokssopp (Hygrocybe nigrescens), ettersom tosporede og firesporede basidier kan forekomme på ett og samme fruktlegeme. Fruktlegemer fra myrer og rikkjær, som bare svartner en aning, med stripet hatt og avdragbar hatthud, har blitt skilt ut som en selvstendig varietet, og sporene er noe lengre og smalere. Innsamlinger arkivert under dette navnet i California tilhører et separat kompleks, og den ekte europeiske arten mangler trolig der. Mange australske innsamlinger som har blitt ført hit tilhører Hygrocybe astatogala. Fullt utviklede fruktlegemer blir helt sorte og kan bli stående i flere uker. I Tyskland er den fredet ved lov i likhet med øvrige vokssopper. Den vurderes som livskraftig (Least Concern) på rødlisten i Danmark, Finland, Norge og Sverige. Den har tidligere blitt betraktet som mykorrhizapartner med gress og som saprotrof på døde røtter. Et mutualistisk samliv med moser anses i dag som sannsynlig, og den egentlige næringsmåten er fremdeles ikke endelig klarlagt."
     },
     sv: {
       description: "En gräsmarkssvamp på ängar, betesmarker, gräsmattor, vägrenar och sanddyner, som även påträffas i öppna skogar och längs stigar. Den växer ensam eller i grupper. Den förekommer från Medelhavet till Island och över hela Nordamerika, och den är noterad i norra Asien, Nordafrika, Sydamerika, Australien, Nya Guinea och Nya Zeeland.",
@@ -57897,16 +57885,16 @@ export const CATALOG = [
       notes: "Tørrede frugtlegemer genoplives i vand. De genvinder deres oprindelige form og kan danne nye celler og nye sporer. Frugtlegemerne indeholder sukkerstoffet trehalose, som gør det muligt for cellerne at overleve udtørring. Hvor myceliet vokser i en heksering, er græsset langs den levende forkant mørkere grønt, mens græsset inden for ringen er brunt og vissent, hvor myceliet er dødt."
     },
     no: {
-      description: 'En liten, seig saprotrof skivesopp som vokser i gressmark på plener, beiter, heier og sanddyner. Kjent for å danne store, årelange hekseringer.',
-      cap: 'Hatten er 1–5 cm bred, hvelvet med en markant stump pukkel, og flater ut med alderen. Fargen er lærgul, kjøttfarget okerbrun til kremfarget, og tørker blekt inn. Overflaten er tørr og glatt.',
-      hymenium: 'Skivene er frie til utrandede, tykke, påfallende fjerne fra hverandre, med kortere mellomskiver. Fargen er hvitaktig til lyst kremfarget.',
-      stipe: 'Stilken er 3–8 cm lang og 2–5 mm tykk, lys okerfarget, slank, og bemerkelsesverdig seig og elastisk: den kan tvinnes rundt fingeren uten å knekke.',
-      flesh: 'Kjøttet er tynt og hvitaktig. Det har en særpreget, behagelig aromatisk lukt som minner om nellik eller bittermandel (cyanidforbindelser i ørsmå mengder), og smaken er søtlig nøtteaktig.',
-      sporePrint: 'Hvitt. Sporene er glatte, dråpeformede til ellipsoide, inamyloide, 7–9 × 4,5–6 μm.',
-      habitat: 'Fruktlegemer viser seg fra mai til november på ugjødslede gressplener og beiter.',
-      uses: 'Den er en utsøkt matsopp (god matsopp). Kun hattene brukes, da stilkene er for seige. Soppen tørker lett og kan gjenoppfriskes i vann uten å miste sin opprinnelige konsistens og fine aroma.',
-      confusion: 'Giftig traktsopp (Clitocybe rivulosa) vokser i samme gressmarksmiljø, men har tette, nedløpende skiver og en sprø stilk som brekker tvert av.',
-      notes: 'Inntørkede fruktlegemer \'våkner til liv\' igjen og fortsetter å spre sporer etter regn.'
+      description: "En vanlig saprotrof sopp på plener, enger, beitemarker, i parker og på andre gressmarker, ofte i store flokker, buer eller hekseringer etter regn. Den vokser gjennom hele den tempererte nordlige halvkule, inkludert Storbritannia, Irland, det europeiske fastlandet og størsteparten av Nord-Amerika, og forblir vanlig på gressflater der mennesker ferdes.",
+      cap: "Hatten er cirka 1–5 cm bred, og publiserte mål når 6 eller 7 cm. Den er først butt kjegleformet eller halvkuleformet, deretter hvelvet og til slutt flat, med en bred sentral pukkel beholdt. Kanten er tynn og av og til svakt stripet eller furet, særlig i fuktig vær eller med alderen. Overflaten er glatt og snau samt sterkt hygrofan: oransjeoker, lærbrun, rødaktig oker eller lyst brungul og glinsende i væte, og tørker til lyst lærbrun, lyst okerfarget eller kremhvit, samt leilighetsvis hvit eller mer sjelden rosaaktig. Hatthuden er et hymeniformt lag av klubbeformede, pæreformede eller sylindriske celler uten børsteceller.",
+      hymenium: "Skivene er tykke og fjerntstilte, opptil 6 mm brede, med kortere mellomskiver skutt innimellom. Felthåndbøker beskriver dem som festet med utranding eller frie fra stilken. En oversikt kaller dem tilvokste. De er hvite til kremfargede i tørr tilstand og okerfargede i væte. Basidiene er 39–52 × 6–8 μm med fire sterigmer og en basal klemmebøyle. Cystider mangler.",
+      stipe: "Stilken er 2–10 cm lang og 1,5–6 mm tykk, sylindrisk og av og til noe oppsvulmet ved basis. Den er massiv, seig og bøyelig, og kan vris flere runder uten å brekke av. Den er hvitaktig, lyst lærbrun eller lyst okerfarget, vanligvis blekere enn hatten, og mørkner mot basis. Overflaten er fint hvitfiltet som ung og senere glatt, og basis er dekket av hvitt mycel.",
+      flesh: "Kjøttet er hvitaktig, tynt og bruskaktig, samt seigt i stilken. Lukten er behagelig og soppaktig, av og til med en svak tone av bittermandel. Enkelte kilder betegner lukten og smaken som ubetydelig. Smaken er mild og søtt nøtteaktig.",
+      sporePrint: "Hvitt eller av og til lyst kremfarget. Sporene er glatte, hyaline, ellipsoide til eplekjerneformede eller spoleformede, uten spirepore. De er inamyloide og måler cirka 6–11 × 4–6 μm.",
+      habitat: "I det tempererte Europa opptrer fruktlegemer fra mars og inn i vinteren, og i Storbritannia og Irland fra juni til november. I varmere klima danner de fruktlegemer året rundt. De vokser i flokker, buer eller hekseringer, vanligvis etter regn, på plener, enger, beitemarker, i parker, frukthager, hager og gresskledde veikanter, av og til blant gress i sanddyner ved kysten og leilighetsvis i skogkanter.",
+      uses: "Den er en utmerket og velsmakende matsopp. Det er hattene som benyttes, særlig i supper og gryter, og de tørkes for langtidsoppbevaring. Stilkene er altfor seige og kasseres. Hattene har en søtlig smak.",
+      confusion: "Giftsivsopp (Clitocybe rivulosa) vokser i samme gressmark og kan danne ringer. Skivene er tettstilte og nedløpende, hatten er hvit, grå eller okerbrun og hvelvet uten pukkel, og stilken er stivere og mindre bøyelig. Våråkersopp (Agrocybe praecox) har lærbrune skiver som mørkner samt et brunt sporeavtrykk. Gul åkersopp (Agrocybe pediades) mangler pukkel, stilken knekker lett, og sporeavtrykket farger skivene brune. Bakkenelliksopp (Marasmius collinus) har en glatt, sprø stilk som brekker når den vris, tettere skiver og en ubehagelig lukt. Dvergnelliksopp (Marasmius torquescens) vokser i løvstrø i edelløvskog og har en mørkt rustbrun til sort nedre stilkdel. Bøkenelliksopp (Marasmius wynneae) har en blekt hvitaktig hatt, en mørk stilkbasis og mindre sporer. Blek flathatt (Gymnopus dryophilus) har mye tettere skiver.",
+      notes: "Tørkede fruktlegemer gjenopplives i vann. De gjenvinner fasongen og kan produsere nye celler og nye sporer. Fruktlegemene inneholder trehalose, noe som gjør at cellene kan overleve uttørking. Der mycelet vokser i en heksering er gresset i den levende forkanten mørkere grønt, og gresset innenfor ringen er brunt og visnet der mycelet har dødd."
     },
     sv: {
       description: "En allmän saprotrof svamp på gräsmattor, ängar, betesmarker, i parker och på andra gräsmarker, ofta i stora flockar, bågar eller häxringar efter regn. Den växer genom hela den tempererade norra hemisfären, inklusive Storbritannien, Irland, det europeiska fastlandet och större delen av Nordamerika, och förblir allmän på gräsytor där människor vistas.",
@@ -58685,16 +58673,16 @@ export const CATALOG = [
       notes: "Svampen danner cordycepin, som er en biologisk aktiv nukleosidanalog til adenosin. Den dyrkes kommercielt i stor målestok på korn af ris, på pupper af silkesommerfugle samt i flydende næringsmedier i Kina, Vietnam, Taiwan og Indonesien. En hvidlig, melet eller pudderagtig skimmelvækst på insektpupperne er i litteraturen blevet beskrevet under navnet Isaria farinosa, men det er endnu ikke videnskabeligt fastslået, om denne anamorfiske vækst i virkeligheden tilhører den samme art. Blandt de arter af snyltekøller i slægten Cordyceps, som er fundet og registreret på De Britiske Øer og i Nordvesteuropa, er dette den art, man hyppigst støder på i naturen."
     },
     no: {
-      description: 'En parasittisk sekksporesopp (Ascomycota) som infiserer og vokser ut fra nedgravde pupper og larver av sommerfugler. Utbredt i gressmark og skogbryn over store deler av den nordlige halvkule.',
-      cap: 'Fruktlegemet er en opprett, uforgrenet klubbe, 2–6 cm høy. Den øvre, fertile delen er 1–3 cm lang og 3–6 mm tykk, lysende oransjerød til skarlagensrød, og tett punktert av bittesmå vorter (åpningene til peritheciene).',
-      hymenium: 'Sporene dannes inne i nedsenkede flaskeformede hulrom (perithecier) i klubbens overflate. Askosporene er trådformede og brekker opp i mikroskopiske delsporer ved modning.',
-      stipe: 'Den sterile nedre delen er 1–3 cm lang, tynnere, glatt og lys oransje, og ender i den døde vertspuppen nede i jorda.',
-      flesh: 'Kjøttet er lyst oransje, mykt og seigt.',
-      sporePrint: 'Hvitt. Sporene er trådformede og flercellede.',
-      habitat: 'Fruktlegemer viser seg fra august til november i mose, gress og lyng på steder der det finnes sommerfuglpupper i bakken.',
-      uses: 'Ikke matsopp (eller tradisjonell medisinsopp). Soppen produserer bioaktive stoffer som cordycepin, og dyrkes kunstig på kornsubstrater til bruk i naturmedisin og kosttilskudd.',
-      confusion: 'Liten oransjeklubbe (Clavulinopsis laeticolor) vokser direkte fra jordbunn uten tilknytning til insektpupper og har glatt overflate uten vorter.',
-      notes: 'Hvis man graver forsiktig opp stilkbasis, finner man alltid den mumifiserte sommerfuglpuppen den vokser ut fra.'
+      description: "En parasittisk klubbesopp i gressmark, mose og skogkanter, som vokser enkeltvis eller i grupper fra en underjordisk puppe av nattfly eller dagsommerfugl. Den forekommer over hele den nordlige halvkule og påtreffes oftere i det østlige Nord-Amerika enn vest for Rocky Mountains. I Storbritannia og Irland er den mindre vanlig og lett å overse.",
+      cap: "Fruktlegemet er en enkel klubbe, oransje til skarlagensrød, og bare sjelden grenet. Det fertile hodet er noe oppsvulmet og kornet med opphøyde porer. Britiske hoder er 0,5–4 cm lange og 2–4 mm tykke. Hele klubben er 1–8 cm høy: ofte 2–5 cm i Sentral-Europa, 2–8 cm lang og opptil cirka 5 mm tykk i Nord-Amerika, samt 15–70 mm lang og 3–10 mm tykk ifølge en fransk beskrivelse. Hodet er bredere enn den sterile stilkbasis.",
+      hymenium: "Den fertile overflaten utgjøres av det oransje hodet. Kolbeformede til kulerunde peritecier ligger nedsenket i dette, og de er av og til til dels nedsenkede eller nesten overfladiske. Hvert enkelt åpner seg med en liten opphøyd pore. Sporesekkene (asci) er lange og sylindriske, åttesporede, cirka 300–510 × 3,5–5 μm, med en apikal hette som er cirka 3,5–5 μm tykk.",
+      stipe: "Den sterile stilken utgjør den nedre delen av klubben. I Storbritannia er den 1–3 cm lang og 1–1,5 mm tykk, vanligvis bølgete, glattere enn hodet og i en blekere oransje tone. Den smalner av der den møter det underjordiske insektet.",
+      flesh: "Kjøttet er hvitaktig til lyst vannaktig oransje, med et fastere ytre sjikt.",
+      sporePrint: "Hvitt. Askosporene er glatte, hyaline samt lange og trådformede, med mange tverrvegger. De brytes opp i ellipsoide delsporer. Britiske og nordamerikanske kilder oppgir disse segmentene til cirka 2–4,5 × 1–1,5 μm. Sentraleuropeiske kilder oppgir cirka 3–7 × 1–1,2 μm, og en fransk kilde oppgir 4–7 × 1–1,5 μm.",
+      habitat: "I Storbritannia og Irland opptrer klubbene om sommeren og høsten, og over store deler av Europa fra august inn i november. I Nord-Amerika opptrer de om sommeren og høsten. I Slovakia er de registrert fra mai inn i januar. De vokser enkeltvis eller i små grupper, i gress, mose, på bar jord samt langs skogkanter og fuktige skråninger. Det vanlige vertsansvaret er en underjordisk puppe av en nattsvermer eller dagsommerfugl, mer sjelden en larve, og en fransk kilde inkluderer også fullt utviklede sommerfugler. Insektet ligger i jorden eller i sterkt nedbrutt ved. Mycelet koloniserer det levende insektet, og klubben vokser senere opp fra de begravde restene.",
+      uses: "Nordamerikanske felthåndbøker behandler den som uspiselig eller bare muligens spiselig. Den behandles som uspiselig i Slovakia og mangler kulinarisk interesse i Frankrike. I Storbritannia tillegges den ingen større kulinarisk verdi utover dens anvendelse innen tradisjonell kinesisk medisin. I Asia kokes klubbene i supper og gryteretter (hot pot), og arten er et godkjent nytt næringsmiddel (novel food) i Kina. Fruktlegemet inneholder et protein, CMP18, som dreper celler i laboratorietester og kan være skadelig i rå tilstand. Varmebehandling ødelegger det. Når den selges som kosttilskudd mangler tilstrekkelig dokumentasjon på sikkerhet eller effekt, og påstandene baserer seg i stor grad på likheten med Ophiocordyceps sinensis. Innen Den europeiske union er mycelet og fruktlegemet et ikke-godkjent nytt næringsmiddel. I 2025 ble produkter trukket tilbake fra det nederlandske markedet etter pålegg fra myndighetene. Mycel av Ophiocordyceps sinensis som selges i kosttilskudd regnes ikke som nytt næringsmiddel.",
+      confusion: "Praktgullkølle (Clavulinopsis laeticolor) er en oransje fingersopp som kan forveksles med denne arten før basis er gravd opp. Rød snylteklubbe (Cordyceps militaris) har et kornaktig fertilt hode og vokser fra en underjordisk puppe eller larve. Ormetunge (Tolypocladium ophioglossoides) er rødbrun til sort oventil og gul, brun eller sort nedentil, og gule mycelstrenger forbinder den med en begravd hjortetrøffel (Elaphomyces).",
+      notes: "Soppen produserer cordycepin, en nukleosidanalog til adenosin. Den dyrkes på ris, på silkesommerfuglpupper og i flytende dyrkningsmedier i Kina, Vietnam, Taiwan og Indonesia. En hvit, pudderaktig påvekst på puppene har blitt kalt Isaria farinosa, og det er ikke fastslått om denne veksten tilhører samme art. Av artene i Cordyceps registrert i Storbritannia og Irland er dette den arten som oftest påtreffes."
     },
     sv: {
       description: "En parasitisk klubbsvamp i gräsmark, mossa och skogsbryn, som växer ensam eller i grupper från en underjordisk puppa av nattfjäril eller dagfjäril. Den förekommer över hela norra halvklotet och påträffas oftare i östra Nordamerika än väster om Klippiga bergen. I Storbritannien och Irland är den mindre vanlig och lätt att förbise.",
@@ -59467,16 +59455,16 @@ export const CATALOG = [
       notes: "En vurdering fra 2019 rødlistede arten som livskraftig (Least Concern) og i tilbagegang, idet de europæiske, asiatiske og nordamerikanske former blev behandlet som én art. Vilde frugtlegemer er fredet ved lov i Storbritannien, Polen og Slovakiet. I Storbritannien er fredningen hjemlet under Schedule 8 i Wildlife and Countryside Act 1981. I Polen har den været strengt fredet siden 1995, og en national rødliste opfører den som truet. I Slovakiet er bøden for et enkelt frugtlegeme 100 euro. En tjekkisk national rødliste behandler den som sårbar. Meget af det dyrkede materiale, der sælges under dette navn, tilhører en østasiatisk art. Hericenoner og erinaciner er påvist i frugtlegemer og mycelium, der sælges under dette navn, men en medicinsk virkning er ikke videnskabeligt bevist."
     },
     no: {
-      description: 'En sjelden og praktfull vedboende piggsopp på gamle løvtrær, særlig bøk og eik. Utbredt i Mellom- og Sør-Europa, Nord-Amerika og Asia; i Norge er den ytterst sjelden og fredet.',
-      cap: 'Fruktlegemet mangler tradisjonell hatt og stilk, og danner en kompakt, uforgrenet pute eller knoll, 10–30 cm bred. Hele undersiden og sidene er tett dekket av lange, hengende, myke pigger, 2–5 cm lange, som minner om en hvit løvemanke eller et piggsvin. Fargen er snøhvit til kremhvit som ung, og gulner til lyst okerbrunt med alderen.',
-      hymenium: 'Sporene dannes på overflaten av de hengende piggene.',
-      stipe: 'Mangler stilk; sitter festet til trestammen med en tykk, kort base.',
-      flesh: 'Kjøttet er tykt, hvitt, fast og elastisk. Lukten er behagelig soppaktig og smaken mild.',
-      sporePrint: 'Hvitt. Sporene er nesten kulerunde, fint vortete, amyloide, 5,5–7 × 4,5–5,5 μm.',
-      habitat: 'Fruktlegemer viser seg fra august til november høyt oppe på stammer eller i sårområder på levende eller nylig døde gamle bøketrær.',
-      uses: 'En utsøkt matsopp (god matsopp). Dyrkes kommersielt i stor skala under navnet \'lion\'s mane\'. Den har en mild smak og kjøttaktig konsistens som sammenlignes med hummer eller krabbe. Ville eksemplarer i Norge må ikke plukkes da arten er sterkt truet.',
-      confusion: 'Korallpiggsopp (Hericium coralloides) er rikt korallaktig forgrenet og har kortere pigger.',
-      notes: 'En vurdering fra 2019 lister arten som sårbar i Europa. Soppen studeres for stoffer (erinaciner og hericenoner) som kan stimulere nervevekstfaktor (NGF).'
+      description: "En vednedbrytende piggsopp i gamle edelløvskoger. Den er hjemmehørende i Europa, hovedsakelig på bøk og eik, og sjelden over store deler av dette utbredelsesområdet. En studie fra 2025 begrenser dette navnet til den europeiske soppen. Den samme formen i Øst-Asia og i det østlige og vestlige Nord-Amerika tilhører andre arter.",
+      cap: "Det finnes ingen separat hatt. Fruktlegemet er en ugrenet pute, avrundet, hjerteformet eller avlang, vanligvis 10–25 cm bred og opptil cirka 30 cm, samt cirka 7–18 cm høy, på et kort bredt feste. Den er hvit, deretter kremhvit, lyst gul eller voksguI, og oker til brun med alderen. Den øvre overflaten kan være korthåret eller filtet.",
+      hymenium: "Tettstilte hengende pigger dekker undersiden. De er tykke ved basis, kjegleformede, spisse og sprø. De er vanligvis 1–5 cm lange, av og til 6 cm og leilighetsvis 8 cm. De er hvite, deretter kremhvite eller voksgule, og senere okerfargede eller brune. Basidiene er klubbeformede, 25–40 × 5–8 μm, og firesporede med en basal klemmebøyle. Sylindriske gloeocystider forekommer. Hyfene er monomittiske og generative, hyaline og med klemmebøyler, tynn- til tykkveggede, cirka 3–15 μm brede og amyloide.",
+      stipe: "En tydelig stilk mangler vanligvis. Fruktlegemet er sittende (uten stilk), eller det har en kort bred hvit basis som er cirka 1–3 cm lang. Det finnes ingen ring.",
+      flesh: "Kjøttet er tykt, hvitt, elastisk og fast, og blir seigt med alderen. Et ferskt snitt forblir hvitt. Tørket kjøtt blir gulaktig til rødbrunt. Lukten er mild, av og til svakt fruktig eller minner litt om syrnet melk. Smaken er mild til søtlig.",
+      sporePrint: "Hvitt. Sporene er bredt ellipsoide til nesten kulerunde, tykkveggede, glatte til fint ujevne og amyloide. De inneholder ofte én stor oljedråpe. De måler cirka 5–7 × 4–5,5 μm.",
+      habitat: "Fruktlegemer opptrer fra juli til november, og inn i tidlig vinter i Frankrike og Spania. I en mild vinter kan et gammelt fruktlegeme fremdeles være til stede i januar. De vokser enkeltvis eller i små grupper, fra sår på levende bøk og eik og fra døde stammer, stubber og lægder av disse trærne og av andre løvtrær, inkludert agnbøk, ask, lønn, robinia, platan, valnøtt og gudetre. Råten er en hvitråte og kan trenge inn i kjerneveden. De opptrer også på sagflishauger. Den samme trestammen kan danne fruktlegemer igjen i senere år.",
+      uses: "Unge fruktlegemer er en utsøkt matsopp, og smaken har blitt sammenlignet med hummer, fisk eller mørt kjøtt. Eldre fruktlegemer blir seige. Soppen dyrkes på løvtrestammer og på sagflis, og fruktlegemene selges kommersielt.",
+      confusion: "Korallpiggsopp (Hericium coralloides) er grenet og korallignende med kortere pigger, og den vokser vanligvis på bøk og ask. Piggflak (Hericium cirrhatum) har kortere pigger, cirka 10–15 mm lange, og en tynnere, taklagt konsoll med tydelige hatter. Granpiggsopp (Hericium alpestre) er grenet og vokser på barved. Hericium americanum (Hericium americanum) er grenet med lange pigger og vokser i det østlige Nord-Amerika. En ung grenet Hericium kan begynne som en enkelt klump, og et ungt langpigget fruktlegeme kan ha pigger på 1 cm eller mindre, så den ugrenede puteformen hos et utvokst fruktlegeme gir det klareste skillet. Blek piggsopp (Hydnum repandum) og rødgul piggsopp (Hydnum rufescens) har pigger under en glatt hatt og vokser på bakken.",
+      notes: "En vurdering fra 2019 rødlistet arten som livskraftig (Least Concern) og i tilbakegang, idet de europeiske, asiatiske og nordamerikanske soppene ble behandlet som én felles art. Ville fruktlegemer er fredet ved lov i Storbritannia, Polen og Slovakia. I Storbritannia gjelder vernet under Schedule 8 i Wildlife and Countryside Act 1981. I Polen har den vært strengt fredet siden 1995, og en nasjonal rødliste angir den som sterkt truet. I Slovakia er boten for ett enkelt fruktlegeme 100 euro. En tsjekkisk nasjonal rødliste behandler den som sårbar. Mye av det dyrkede materialet som selges under dette navnet tilhører en østasiatisk art. Hericenoner og erinaciner er rapportert fra fruktlegemer og mycel som selges under dette navnet, men en medisinsk effekt er ikke vitenskapelig påvist."
     },
     sv: {
       description: "En vednedbrytande taggsvamp i gamla ädellövskogar. Den är inhemsk i Europa, huvudsakligen på bok och ek, och sällsynt över stora delar av detta utbredningsområde. En studie från 2025 begränsar detta namn till den europeiska svampen. Samma form i Östasien och i östra och västra Nordamerika tillhör andra arter.",
@@ -60331,16 +60319,16 @@ export const CATALOG = [
       notes: "Sekventerede indsamlinger fra Storbritannien, Tjekkiet og dele af Kina tilhører denne art. Den østasiatiske dyrkede svamp, der længe har været henført til dette navn, er Ganoderma sichuanense. Nordamerikanske lakporesvampe er blevet udskilt som Ganoderma sessile, Ganoderma curtisii og Ganoderma polychromum. Mellemformer i frugtlegemernes udseende sammen med genetiske data er blevet tolket som tegn på, at Ganoderma carnosum kan være den samme variable art. En historisk europæisk kilde omtaler frugtlegemet som en talisman."
     },
     no: {
-      description: 'En oppsiktsvekkende ettårig kjuke som vokser på stubber og røtter av løvtrær, særlig eik og bøk. Utbredt i tempererte deler av Europa og Asia.',
-      cap: 'Hatten er 5–25 cm bred, nyreformet, vifteformet eller rundaktig. Oversiden er dekket av en hard, skinnende skorpe som ser ut som den er nylakkert med rødbrun til mørk mahognirød lakk, med lysere gul til hvit vekstkant som ung.',
-      hymenium: 'Rørene er 5–20 mm lange, hvitaktige til kanelbrune. Porene er bittesmå, 4–5 per millimeter, kremhvite og blir brungule ved berøring eller med alderen.',
-      stipe: 'Vanligvis sidestilt eller eksentrisk, 5–15 cm lang og 1–3 cm tykk, ujevn og knudrete, dekket av den samme skinnende, lakkaktige rødbrune skorpen som hatten.',
-      flesh: 'Kjøttet er treaktig, korkaktig og seigt, lyst korkbrunt til rødbrunt. Lukten er svak og smaken bitter.',
-      sporePrint: 'Brunt. Sporene er karakteristisk eggformede med en avkuttet ende og to cellevegger med mellomliggende søyler, 9–12 × 6–8 μm.',
-      habitat: 'Fruktlegemer viser seg fra juni til oktober ved foten av gamle løvtrær og på råtnende stubber.',
-      uses: 'Ikke matsopp (inedible). Kjøttet er altfor hardt og treaktig til å spises. Soppen er berømt i tradisjonell asiatisk medisin som \'Reishi\' eller \'Lingzhi\', og tørkes og trekkes som te eller pulveriseres.',
-      confusion: 'Flatkjuke (Ganoderma applanatum) er flerårig, mangler lakkoverflate og stilk, og har matt overflate som kan tegnes på.',
-      notes: 'Arten har en over 2000 år lang historie i kinesisk urtefilosofi som et symbol på helse og langt liv.'
+      description: "En ettårig kjukesopp på løvtrær, som lever parasittisk på levende stammer og saprotroft på stubber og røtter. Den forekommer gjennom det tempererte og mediterrane Europa, nordover til Sør-Skandinavia, samt i deler av Kina. Den er mindre vanlig i Storbritannia og Irland. De fleste funn fra utenfor Europa tilhører andre arter.",
+      cap: "Fruktlegemet er ettårig, og et gammelt eksemplar varer noen ganger i to eller tre år. Det er vanligvis stilket og sjelden sittende (uten stilk). Hatten er vifteformet, nyreformet, oval, spatelformet eller halvsirkelformet, svakt hvelvet og av og til fliket. Den er vanligvis cirka 5–20 cm bred, fra cirka 3 cm til cirka 25 cm, og cirka 1–3 cm tykk. Mange hatter er bare 6–10 cm brede. Overflaten er konsentrisk furet og knudrete under et hardt, blankt lakksjikt. En ung hatt er gul til guloker, deretter rustrød til mahognifarget fra midten, og purpurfarget, purpurbrun eller sortbrun med alderen. Kanten er butt, samt hvit, gul eller kremfarget så lenge hatten vokser. Når tilveksten stanser, er hele hatten mahognifarget til purpurbrun eller nesten sort. Nedfalte sporer gjør glansen matt.",
+      hymenium: "Rørene sitter vanligvis i ett enkelt sjikt, sjelden i to eller tre, og er cirka 5–20 mm dype. De er hvite, deretter okerfargede, okerbrune eller kanelbrune. Porene er runde, cirka 4–6 per millimeter, med poreåpninger på cirka 0,12–0,2 mm i diameter. Munningene er hvitaktige eller kremfargede, deretter kanelbrune til tobakksbrune, og blir brune ved trykk. Gamle porer blir kantete. Cystider mangler. Basidiene er sylindriske, opptil cirka 23 μm lange, firesporede og med klemmebøyler ved basis.",
+      stipe: "Stilken er vanligvis sidestilt eller eksentrisk, og av og til ligger den horisontalt. Den er uregelmessig sylindrisk og knudrete, cirka 5–20 cm lang og 1–2 cm tykk. Enkelte fruktlegemer har bare en kort stilkaktig basis, og en stilk mangler leilighetsvis helt. Overflaten bærer det samme lakksjiktet som hatten. Den er rødbrun, mahognifarget eller purpurrød, og mørkner til kastanjebrun eller purpursort.",
+      flesh: "Kjøttet er tykt, hardt og korkaktig til trevlet, og bruddflaten ser filtet ut. Det er hvitaktig eller kremfarget, deretter gulaktig brunt, rødbrunt eller brunt, og av og til sonet. Lukten er ikke særpreget. Smaken er bitter. Generative hyfer er tynnveggede, hyaline, septerte og med klemmebøyler, opptil cirka 2,5 μm brede. Skletthyfer er tykkveggede og brune, cirka 2–3 μm brede. Lakkskorpen smelter i en flamme.",
+      sporePrint: "Sporeavtrykket er rustbrunt, rødbrunt eller lærbrunt. Sporene er ellipsoide til eggformede med den ene enden tvert avkuttet (trunka), dobbeltveggede og fint vorteaktige. De er gulbrune til lyst brune, inamyloide, og inneholder en stor oljedråpe. Publiserte mål er cirka 7–12 × 6–8 μm.",
+      habitat: "Fruktlegemer vokser fra mai til oktober, og gamle eksemplarer overlever inn i vinteren. De vokser ved basis av løvtrær samt på stubber og røtter av disse, særlig eik, samt på bøk og lønn. Gran, furu og andre nåletrær er leilighetsvise verter. Voksesteder er varme eike- og blandingsskoger, bøkeskoger, elveskoger, hekker, parker og veikanter der eik eller bøk forekommer. Råten er en lys hvitråte som ikke er spesielt aggressiv.",
+      uses: "Fruktlegemet er altfor hardt og treaktig til å spises, og smaken er bitter.",
+      confusion: "Harpikslakkjuke (Ganoderma resinaceum) er vanligvis sittende eller har en svært kort stilk. Den øvre overflaten er mattere, kremfarget, lyst rødbrun eller gråbrun, kanten er mer avrundet, sporene er større og porene er mindre. Den vokser ved basis av gamle levende trær, særlig eik. Granlakkjuke (Ganoderma carnosum) er mørkere og purpursort med en lang sidestilt stilk og noe større, kraftigere ornamenterte sporer, og den vokser hovedsakelig på edelgran og gran. Mellomformer og genetiske resultater holder muligheten åpen for at de to utgjør én enkelt variabel art. Flatkjuke (Ganoderma applanatum) er matt og okerbrun, sittende og bredt festet. Lakkskorpen hos vokslakkjuke (Ganoderma pfeifferi) smelter i en flamme i likhet med denne arten. Porene er dekket av en gul voks om vinteren og våren, og den vokser primært på bøk. Ganoderma valesiacum (Ganoderma valesiacum) vokser på lerk i Alpene og Karpatene.",
+      notes: "Sekvenserte innsamlinger fra Storbritannia, Tsjekkia og deler av Kina tilhører denne arten. Den østasiatiske dyrkede soppen som lenge har båret dette navnet er Ganoderma sichuanense. Nordamerikanske lakkjuke-innsamlinger har blitt skilt ut som Ganoderma sessile, Ganoderma curtisii og Ganoderma polychromum. Mellomformer i fruktlegemenes utseende sammen med genetiske data tyder på at Ganoderma resinaceum og Ganoderma carnosum kan utgjøre én enkelt variabel art."
     },
     sv: {
       description: "En ettårig ticka på lövträd, som lever parasitiskt på levande stammar och saprotroft på stubbar och rötter. Den förekommer genom tempererade och mediterrana Europa, norrut till södra Skandinavien, samt i delar av Kina. Den är mindre allmän i Storbritannien och Irland. De flesta fynd utanför Europa tillhör andra arter.",
@@ -61145,16 +61133,16 @@ export const CATALOG = [
       notes: "Det er den eneste art i slægten Gomphus i Europa og den eneste nordamerikanske art, der fortsat placeres i slægten. Den regnes for truet i 17 europæiske lande og er en af 33 svampearter, der er foreslået til beskyttelse under Bernkonventionen. Den er fredet ved lov i Slovakiet, Slovenien og Ungarn. I Slovakiet er bøden 100 euro for et enkelt frugtlegeme. Den findes ikke længere på De Britiske Øer, hvor den sidst blev fundet i 1927. En vurdering fra 2006 kategoriserer den som kritisk truet (Critically Endangered) i Tjekkiet, hvor den næsten forsvandt i den sene del af det tyvende århundrede. Ekstrakter af frugtlegemet er rige på phenoliske forbindelser, og indsamlinger fra det sydlige Ægæerhav har indeholdt cadmium over det niveau, der anbefales for fødevarer i Den Europæiske Union."
     },
     no: {
-      description: 'En stor, ektomykorrhizadannende kantarell-lignende sopp i eldre, kalkrik barskog med gran og edelgran. Sjelden og rødlistet i store deler av Europa.',
-      cap: 'Fruktlegemet er klubbeformet, traktformet eller omvendt kjegleformet, 4–10 cm bredt og 5–15 cm høyt, ofte fliket og sammenvokst i tette grupper. Toppen er flat eller nedsunket, lyst lilla til fiolett som ung, og falmer til gulbrun eller lærfarget.',
-      hymenium: 'Undersiden bærer ikke skiver, men et forgrenet og rynkete nettverk av lave ribber eller årer som løper langt nedover stilken. Fargen er iøynefallende fiolett til lillaaktig grå, og blir okerbrun ved sporemodning.',
-      stipe: 'Stilken er kort, massiv, avsmalnende mot basis og går jevnt over i hatten, fiolett til blekt lillaaktig.',
-      flesh: 'Kjøttet er tykt, fast, hvitt til marmorert fiolett i hatten. Lukten er behagelig soppaktig og smaken mild.',
-      sporePrint: 'Okerbrunt til gulbrunt. Sporene er avlangt ellipsoide, vortete, 10–14 × 4,5–6 μm.',
-      habitat: 'Fruktlegemer viser seg fra august til oktober i gammel, mosegrodd granskog på kalkholdig grunn.',
-      uses: 'En utsøkt matsopp (god matsopp). Den har en fin, fyldig aroma som minner om kantarell, men på grunn av sin store sjeldenhet og rødlistestatus i Norge bør den skånes.',
-      confusion: 'Blå ridderhatt (Lepista nuda) har ekte skiver og vokser i strøbunn. Svart trompetsopp er tynnkjøttet og svart.',
-      notes: 'Arten er en god indikatorart for gammel, urørt kalkgranskog med lang økologisk kontinuitet.'
+      description: "En ektomykorrhizasopp som vokser med bartrær og i Europa også med bøk. Hjemmehørende i det tempererte Europa, der den i dag er sjelden og ikke lenger finnes på De britiske øyer, samt i tempererte områder av Asia og Nord-Amerika, oftest i fjellstrøk og i Stillehavs-nordvest.",
+      cap: "Et ungt fruktlegeme er klubbeformet med en flat eller svakt nedsenket overside, og åpner seg til en bølgete, fliket vase eller vifte. Flere hatter deler ofte en felles stilk og vokser sammen langs kanten. Oversiden er tørr og glatt til fint filtet, av og til med små brune hårlignende flekker nær kanten. Den er lilla til fiolett i starten, deretter lilagrå, okerfarget, oransjebrun, olivenbrun eller kremfarget lærbrun. Fruktlegemet er vanligvis 4–15 cm bredt og 6–15 cm høyt, og store eksemplarer når opp mot 20 cm.",
+      hymenium: "Tykke, butte årer løper langt nedover stilken. De er gaffelgrenede og forbundet med tverribber, og kan virke nesten poreaktige. Unge årer er mørkfiolette, purpurfargede eller kjøttfarget fiolette, og blekner til bleklilla, gulaktig eller brunaktig. Basidiene er klubbeformede, hyaline og firesporede, cirka 48–90 × 8,5–12 μm. Cystider mangler. Hyfene har klemmebøyler og tramaet er dimittisk.",
+      stipe: "Stilken går direkte over i hatten og er ofte vanskelig å skille fra årene. Den er kort og tykk, cirka 1–12 cm lang og 0,8–3 cm tykk, massiv og avsmalnende mot basis, der tilstøtende fruktlegemer ofte vokser sammen. Den er lilla nær årene og hvitaktig til lyst brun nedentil, finhåret og grovere mot basis. Berøring kan misfarge den rødbrunt.",
+      flesh: "Kjøttet er hvitt til gulaktig hvitt, blekt lilla eller kanellærbrunt, av og til marmorert, tykt under midten og tynnere mot kanten, samt forholdsvis mykt. Lukten er mild og soppaktig, eller svak til svakt harsk. Smaken er mild og blir svakt bitter med alderen.",
+      sporePrint: "Gult til okerbrunaktig. Sporene er ellipsoide til noe mandelformede, ofte avflatet på den ene siden, fint til grovt vorteaktige, med en apiculus og oljedråper, cirka 9–16 × 4–7,5 μm. De farges ikke blå i jod. I kaliumhydroksid er de hyaline til svakt brunaktige.",
+      habitat: "Fruktlegemene bærer frukt fra juni til oktober i Europa, fra juli til oktober over store deler av Nord-Amerika og fra sommeren inn i vinteren langs Stillehavskysten. De vokser på bakken, enkeltvis eller i klynger, buer eller hekseringer, i fuktig, skyggefullt strøfall under gran og edelgran, samt under bøk i Europa, ofte på kalkrik grunn i blandet fjellskog. De er vanligere over cirka 600 meters høyde.",
+      uses: "Den er en velsmakende matsopp der den fremdeles sankes. Kjøttet er fast og kjøttfullt. Eldre fruktlegemer blir bitre og er ofte markspiste. Enkelte finner smaken intetsigende, og den kan gi mage-tarm-plager hos følsomme personer.",
+      confusion: "Avstumpet klubbesopp (Clavariadelphus truncatus) er smalere og gul med en flat topp og en overflate som bare er rynket og ikke dekket av tykke årer. Gomphus crassipes (Gomphus crassipes) vokser i gamle furu- og sederskoger rundt Middelhavet. Hatten er tydeligere avgrenset fra stilken, hymeniet er blekere grålilla, hatten er lyst gråbrun og kjøttet er utpreget fiolett ved snitt. Sporene er lengre, cirka 11–17 × 5,5–7 μm, og finere rynket. Skjellet traktkantarell (Turbinellus floccosus) og Turbinellus kauffmanii (Turbinellus kauffmanii) har samme vaselignende form, men hatten er tett dekket av skjell. Pseudocraterellus pseudoclavatus (Pseudocraterellus pseudoclavatus) vokser under bartrær i det sentrale og vestlige Nord-Amerika og skilles under mikroskop samt ved sin reaksjon med kaliumhydroksid.",
+      notes: "Det er den eneste arten i slekten Gomphus i Europa og den eneste nordamerikanske arten som fremdeles plasseres i slekten. Den regnes som truet i 17 europeiske land og er en av 33 sopparter som er foreslått for vern under Bernkonvensjonen. Den er fredet ved lov i Slovakia, Slovenia og Ungarn. I Slovakia er boten 100 euro for et enkelt fruktlegeme. Den er utdødd på De britiske øyer, der den sist ble funnet i 1927. En vurdering fra 2006 lister den som kritisk truet (Critically Endangered) i Tsjekkia, der den nesten forsvant mot slutten av 1900-tallet. Fruktlegeme-ekstrakter er rike på fenoliske forbindelser, og innsamlinger fra det sørlige Egeerhavet har inneholdt kadmiumnivåer over det som anbefales for næringsmidler innen Den europeiske union."
     },
     sv: {
       description: "En ektomykorrhizabildande svamp som växer med barrträd och i Europa även med bok. Inhemsk i det tempererade Europa, där den i dag är sällsynt och inte längre påträffas på Brittiska öarna, samt i tempererade Asien och Nordamerika, oftast i bergsområden och i Pacific Northwest.",
@@ -61963,16 +61951,16 @@ export const CATALOG = [
       notes: "Navnet dækker over et kompleks af nært beslægtede arter. Indsamlinger i Nordamerika, der er arkiveret under dette navn, udgør en artsgruppe, og fund fra Pacific Northwest tilhører ikke denne art. Den svamp, der først er blå og derefter rød i de californiske kystskove med rødtræ (redwood), er udskilt som en særskilt art, og dens basidier er længere, cirka 45–60 μm. En grønnere form uden røde toner bærer frugt på granførne om foråret og sommeren og er blevet adskilt. Tidlige australske fund tilhører Gliophorus graminicolor eller Gliophorus viridis. En vurdering fra 2016 placerer den på advarselslisten over truede arter i Tyskland. Den er et kendetegn for udyrket naturoverdrev, om end den tåler mere gødskning end de fleste andre vokshatte og derfor har begrænset værdi som ren indikatorart. I Europa er den gået markant tilbage på steder, hvor græsarealer er blevet gødet eller oppløjet. Den har været opfattet som saprotrof på døde græsrødder, men et gensidigt samliv med mosser anses i dag for sandsynligt, og dens ernæringsmæssige strategi er endnu ikke endeligt fastlagt."
     },
     no: {
-      description: 'En fargesprakende liten vokssopp i ugjødslet naturbeitemark, heier og gresskanter. Utbredt over store deler av Europa.',
-      cap: 'Hatten er 1–4 cm bred, klokkeformet til hvelvet, ofte med en liten pukkel. Den er usedvanlig fargerik og slimet: som ung er den intens papegøyegrønn eller smaragdgrønn, men skifter etter hvert farge og blir oransje, gul, rødlig eller rosa etter hvert som det grønne slimet vaskes bort eller tørker inn.',
-      hymenium: 'Skivene er tykke, voksaktige, tilvokste, grønnaktige som unge og blir guloransje med grønn kant.',
-      stipe: 'Stilken er 2–7 cm lang og 2–6 mm tykk, sylindrisk, glatt og svært klebrig slimet. Fargen er grønn øverst og gul eller oransje nederst.',
-      flesh: 'Kjøttet er tynt, grønnaktig til gult, sprøtt og vannaktig. Lukten og smaken er ubetydelig.',
-      sporePrint: 'Hvitt. Sporene er glatte, ellipsoide, inamyloide, 7,5–9,5 × 4,5–6 μm.',
-      habitat: 'Fruktlegemer viser seg fra juli til november i artsrike, ugjødslede beitemarker og plener.',
-      uses: 'Ikke matsopp (eller spiselig med forbehold). Den er for liten, vassen og slimet til å ha noen matverdi.',
-      confusion: 'Gliophorus perplexus (Gliophorus perplexus) mangler grønt i stilktoppen og er oransje til teglrød. Gliophorus sciophanus (Gliophorus sciophanus) er en hovedsakelig rød europeisk sopp. Gliophorus reginae (Gliophorus reginae) er rosa til kjøttfarget rosa, større og bare svakt slimet. Mønjevokssopp (Gliophorus laetus) er oransje eller gul, ikke grønn som ung, og har tydelig nedløpende skiver. Kjeglevokssopp (Hygrocybe conica) sverter ved berøring og med alderen.',
-      notes: 'Papegøyevokssopp er en typisk \'beitemarksopp\' og fungerer som en indikatorart for verdifulle semi-naturlige gressmarker.'
+      description: "En gressmarkssopp på kortvokste enger, beitemarker, plener og veikanter, som også påtreffes i gresskledde skoger og på mosegrodde skråninger. Den vokser enkeltvis eller i små grupper. Den forekommer fra Middelhavet til Island og Grønland samt over store deler av Europa, og er registrert over det nordlige Asia, Nord- og Sør-Amerika samt Sør-Afrika.",
+      cap: "Hatten er 1–5 cm bred. Den begynner som halvkuleformet eller klokkeformet, med en butt pukkel, og brer seg ut til hvelvet eller nesten flat, vanligvis med en butt pukkel igjen. Kanten er stripet i væte og kan bøye seg oppover med alderen, noe som gir en nedsenket midt. Den er slimete til klebrig i fuktig vær, glatt og glinsende. Fargen er praktfull: dypt papegøyegrønn eller smaragdgrønn, med rosa, oransje eller gule toner som sprer seg fra kanten og toppen. Når slimet vaskes bort og hatten tørker, blekner den til matt rødaktig, oransjerød, kjøttrosa, lyst gul eller strågul, og eldre fruktlegemer kan bli lærbrune eller hvitaktige. Slimet kan forbli grønt ved kanten etter at midten har blitt gul. Hatthuden er en ixocutis.",
+      hymenium: "Skivene er bredt til smalt tilvokste, av og til med en nedløpende tann, og de kan løsne fra stilken. De er tykke og fjerntstilte, med kortere mellomskiver imellom. De er grønne til å begynne med, ofte med gule eller oransje toner nær hatten, og blekner senere til grønnaktig gult, lysende gult eller oransje. Basidiene er klubbeformede, 35–46 × 7–9 μm, og firesporede. Klemmebøyler forekommer. Cystider mangler. Skivetramaet er regelmessig til noe sammenflettet, med sylindriske celler på cirka 30–75 × 5–15 μm, ifølge enkelte opplysninger opptil 140 μm eller opptil 210 μm, og mangler de lange rørformede cellene som ses hos Hygrocybe.",
+      stipe: "Stilken er 2–9 cm lang og 0,2–1,2 cm tykk. Den er sylindrisk, av og til langsgående flattrykt eller furet, og ofte bøyd. Den er hul med alderen og skjør. Den er slimete til klebrig i likhet med hatten. Toppen er grønn, og denne fargen vedvarer vanligvis etter at den nedre delen har blitt gul, oransje eller rødlig, eller så er stilken grønn tvers igjennom. Det finnes ingen ring. Basis er ofte omgitt av hvitt mycel.",
+      flesh: "Kjøttet er tynt, vannaktig og skjørt. Det er hvitt eller blekt, eller i samme farge som overflaten, og grønt like under hatthuden og stilkoverflaten. Det endrer ikke farge ved snitt. Lukten er ubestemmelig, og enkelte kilder beskriver den som svakt jordaktig eller fruktig. Smaken er mild. I kaliumhydroksid farges hatthuden gul, guloransje eller svakt rosaaktig, og kjøttet blir lyst gult.",
+      sporePrint: "Hvitt. Sporene er bredt ellipsoide til eggformede, glatte og inamyloide. Mange har en tydelig apiculus og en stor sentral oljedråpe. Målene ligger rundt cirka 7,5–10 × 4,5–6,5 μm, med et lengde-bredde-forhold på cirka 1,4–1,7.",
+      habitat: "I Storbritannia og Irland opptrer fruktlegemene fra august til november, av og til inn i begynnelsen av desember. I Tsjekkia viser de seg fra mai inn i november, med en topp utover høsten. I det østlige Nord-Amerika opptrer de om sommeren og høsten. De vokser på bakken, enkeltvis eller i grupper, i kort ugjødslet gressmark: beitemarker, enger, gamle plener, parkområder, kirkegårdsgress, sanddyner, veikanter og åpne buskmarker, samt i gresskledde skoger og åpne bar- og løvtrebestander. I Storbritannia er de vanlige i lavlandet og kan nå opp i subalpine beitemarker. I Europa er de knyttet til ugjødslet gressmark og går raskt tilbake der kunstgjødsel eller kalk tilføres, selv om de tåler mer næringstilførsel enn visse andre vokssopper og overlever lenger i aldrende beitemarker. De forekommer på både sur og kalkrik grunn, og leilighetsvis på forstyrret mark.",
+      uses: "Den oppgis som spiselig i enkelte europeiske håndbøker, men det vannaktige kjøttet, det slimete belegget og den beskjedne størrelsen gjør at den sjelden sankes. Andre bøker behandler den som uspiselig, og noen antyder en mild giftighet. Usikkerheten i rapportene rundt dette artskomplekset gjør at inntak frarådes.",
+      confusion: "Gliophorus perplexus (Gliophorus perplexus) mangler grønt ved stilkspissen og er oransje til teglrød. Dyster vokssopp (Gliophorus sciophanus) er det hovedsakelig rødlige til tegloransje medlemmet av komplekset i Europa. Purpurvokssopp (Gliophorus reginae) er purpurbrun og slimete og mangler grønne toner, selv om stilkspissen kan være lilla. Gulskivevokssopp (Gliophorus laetus) er oransje eller gul, er ikke grønn som ung og har tydelig nedløpende skiver. Gul vokssopp (Hygrocybe chlorophana) er ensfarget gul, mangler grønt som ung og stilken er hul ved modning. Eldre gule fruktlegemer kan forveksles med andre gule vokssopper, men stilkspissen forblir grønn. Gliophorus graminicolor (Gliophorus graminicolor) og Gliophorus viridis (Gliophorus viridis) er de grønne soppene i Australia som har blitt ført til dette navnet.",
+      notes: "Navnet dekker et artskompleks av nærstående arter. Innsamlinger i Nord-Amerika som er arkivert under dette navnet utgjør en artsgruppe, og funn fra Stillehavs-nordvest tilhører ikke denne arten. Soppen som først er blå og deretter rød i Californias redwood-skoger har blitt skilt ut som en egen art, og basidiene er lengre, cirka 45–60 μm. En grønnere form uten røde toner danner fruktlegemer på granstrø om våren og sommeren og har blitt skilt ut. Tidlige australske funn tilhører Gliophorus graminicolor eller Gliophorus viridis. En vurdering fra 2016 plasserer den på rødlistens varselliste i Tyskland. Den er karakteristisk for ugjødslet beitemark, selv om den tåler mer gjødsling enn de fleste andre vokssopper og derfor har begrenset verdi som ren indikatorart. I Europa har den gått kraftig tilbake der gressmarker er gjødslet eller pløyd opp. Den har blitt betraktet som saprotrof på døde gressrøtter, men et mutualistisk samliv med moser anses i dag som sannsynlig, og næringsmåten er fremdeles ikke endelig klarlagt."
     },
     sv: {
       description: "En gräsmarkssvamp på kortvuxna ängar, betesmarker, gräsmattor och vägrenar, som även påträffas i gräsbevuxna skogar och på mossiga sluttningar. Den växer ensam eller i små grupper. Den förekommer från Medelhavet till Island och Grönland samt över stora delar av Europa, och är noterad över norra Asien, Nord- och Sydamerika samt Sydafrika.",
@@ -62773,16 +62761,16 @@ export const CATALOG = [
       notes: "Den betragtes som sårbar i Tjekkiet og er opført på en foreløbig rødliste i Montenegro. I Centraleuropa er den lokalt forekommende, og i Slovakiet kan den være meget talrig i visse distrikter, herunder omkring Košice. Den er den mest almindelige rørhat i skovene i Madonie Regional Naturpark på Sicilien. Fund fra Californien, som tidligere blev henført til dette navn, tilhører Boletus regineus. Angivelser fra Kina tilhører andre arter. Nordafrikanske indsamlinger med mahognifarvet hat og en delvist rodslående stok er blevet beskrevet under navnet Boletus mamorensis, men molekylære undersøgelser har ikke kunnet adskille dem fra denne art. En undersøgelse fra 2007 af fire rørhattearter påviste ringe sammenhæng mellem antallet af frugtlegemer og mængden af mycelium i jorden under dem."
     },
     no: {
-      description: 'En stor og staselig ektomykorrhizadannende rørsopp i varme eike- og bøkeskoger på kalkrik eller leirholdig jord. Utbredt i Sør- og Mellom-Europa, og meget sjelden i Nord-Europa.',
-      cap: 'Hatten er 6–20 cm bred (av og til opptil 25 cm), halvkuleformet til hvelvet, kraftig og kompakt. Fargen er karakteristisk mørkebrun, bronsebrun til nesten kullsvart, ofte med lysere okerbrune flekker. Overflaten er tørr og fløyelsaktig som ung.',
-      hymenium: 'Rørene er 1–2 cm dype, hvite til kremfargede som unge og blir olivengule med alderen. Porene er bittesmå, runde, og endrer ikke farge ved trykk.',
-      stipe: 'Stilken er 6–14 cm lang og 3–8 cm tykk, kraftig knollformet til tønneformet, brun til lærbrun med et fint, lyst årenett øverst.',
-      flesh: 'Kjøttet er rent hvitt, usedvanlig fast og hardt hos unge sopper, og forblir hvitt ved overskjæring. Lukten og smaken er utsøkt nøtteaktig og aromatisk.',
-      sporePrint: 'Olivenbrunt. Sporene er spindelformede, glatte, 12–16 × 4–5 μm.',
-      habitat: 'Fruktlegemer viser seg fra juli til oktober i varme løvskoger under eik og bøk på kalkrik grunn.',
-      uses: 'En førsteklasses matsopp (god matsopp), av mange soppelskere regnet som den aller beste og mest velsmakende av steinsoppene.',
-      confusion: 'Vanlig steinsopp (Boletus edulis) har lysere brun hatt med klebrig hud og hvit kant. Svartbrun rørsopp (Imleria badia) har rør som blåner ved trykk.',
-      notes: 'I Italia og Frankrike er denne arten spesielt høyt skattet og kalles henholdsvis \'porcino nero\' og \'cèpe bronzé\'.'
+      description: "En termofil (varmeelskende), ektomykorrhizasopp i edelløvskoger, hovedsakelig sammen med eik og bøk i det varmtempererte og mediterrane Europa. Den forekommer nordover til Tsjekkia, Slovakia og Sør-England. Den danner fruktlegemer enkeltvis eller i små grupper. Innsamlinger fra California som tidligere ble ført hit tilhører Boletus regineus, og kinesiske innsamlinger tilhører andre arter.",
+      cap: "Hatten er vanligvis 5–20 cm bred. Store fruktlegemer når cirka 25 cm, og hatter på cirka 30 cm og cirka 40 cm har blitt registrert. Den starter halvkuleformet, brer seg ut til hvelvet og flater ut med alderen, ofte med en bølgete kant. Kanten er innrullet til å begynne med. Overflaten er tørr, fint fløyelsaktig eller dunet som ung, og snart glatt. Den kan sprekke opp i tørt vær. Fargen er mørk: mørkebrun, sepiabrun, sjokoladebrun, bronsebrun eller sortaktig brun, ofte med blekere oker-, kobber- eller gråaktige flekker der løv har dekket den. Unge hatter er av og til nesten helt sorte. Overflaten blåner ikke ved berøring. Hatthuden er et sammenflettet trikoderm.",
+      hymenium: "Rørene er frie til tilvokste, nesten frie ved stilken, og cirka 5–30 mm lange. De og de små runde porene er hvitaktige i starten, ser fylte ut hos unge fruktlegemer, blir deretter lyst gule, grønngule og til slutt olivenfargede eller olivenbrune. Porene er små, cirka to til tre per millimeter. Porer og rør blåner ikke ved snitt eller trykk, selv om svært gamle rør kan misfarges svakt brunaktig. Basidiene er klubbeformede, firesporede, cirka 23–40 × 8–11 μm. Cystidene er spoleformede til klubbeformede, fargeløse, cirka 28–55 × 7–12 μm.",
+      stipe: "Stilken er vanligvis 5–12 cm lang og 2–8 cm tykk. Store fruktlegemer når cirka 15 cm i høyde og 10 cm i tykkelse. Den er tønneformet eller knollformet til å begynne med, deretter klubbeformet eller sylindrisk. Overflaten er tørr, lyst brungul, kanelbrun eller rødbrun, vanligvis blekere enn hatten, og dekkes, i det minste i den øvre delen og ofte over den øvre halvdelen eller mer, av et fint opphøyd årenett. Nettet er hvitaktig øverst og blir brunaktig nedover. Basis er ofte dekket av hvitaktig mycel. Det finnes ingen ring.",
+      flesh: "Kjøttet er hvitt. Det er svært fast som ungt, fastere enn kjøttet hos steinsopp (Boletus edulis), og stilken blir svampaktig og mykere med alderen. Det forblir hvitt ved snitt eller trykk, med en svak brunaktig linje like under hatthuden og av og til en svak gulaktig tone nær rørene. Lukten er behagelig og soppaktig, kraftigere enn hos andre medlemmer i edulis-gruppen. Smaken er mild og nøtteaktig, også beskrevet som søtlig.",
+      sporePrint: "Olivenbrunt. Sporene er glatte, spoleformede til ellipsoide, cirka 12–16 × 4–5,5 μm, lyst brungule.",
+      habitat: "Fruktlegemer opptrer i varme løvskoger, hovedsakelig under eik og også under bøk, edelkastanje, steineik og korkeik, samt leilighetsvis under agnbøk eller lind. De vokser på tørre, sure, nøytrale eller kalkrike jordtyper, på åpne, solrike steder, langs stier og i varme sørhellinger, i lavland og lavere fjellstrøk. De viser seg enkeltvis eller i små grupper. I Sør-Europa strekker sesongen seg fra mai til november, med fruktlegemedannelse inn i desember i milde vintre. I Sentral-Europa og Storbritannia er fruktifiseringen konsentrert til sensommeren og høsten, ofte etter varme sommerregn.",
+      uses: "Den er en utsøkt og velsmakende matsopp, høyt verdsatt i middelhavsområdet. Kjøttet er fastere enn hos steinsopp (Boletus edulis) og beholder konsistensen godt ved tilberedning. I Spania, Frankrike og Italia sankes den kommersielt og selges fersk og tørket. Den brukes i supper, risotto og stekte retter, tilberedes med hvitløk og persille eller legges ned i olje. Eldre fruktlegemer kan bli bløte og markspiste og skjæres da bort. Soppen kan ikke dyrkes under kontrollerte forhold.",
+      confusion: "Steinsopp (Boletus edulis) har en blekere, klebrig hatt med hvitaktig kant og en blekere stilk med et hvitt årenett, og danner fruktlegemer senere i kjøligere vær. Blek steinsopp (Boletus reticulatus) har en blekere hatt som ofte sprekker opp i tørke og en blekere stilk med et mer utbredt hvitaktig årenett som ofte når helt til basis. Rødbrun steinsopp (Boletus pinophilus) har en rødbrun, knudrete hatt og vokser hovedsakelig sammen med furu. Gallerørsopp (Tylopilus felleus) har et mørkere årenett, porer med et rosaaktig skjær og en svært bitter smak. Brunskrubb (Imleria badia) har porer som blåner ved trykk og mangler årenett på stilken.",
+      notes: "Den betraktes som sårbar i Tsjekkia og er oppført på en foreløpig rødliste i Montenegro. I Sentral-Europa forekommer den lokalt, og i Slovakia kan den være svært tallrik i enkelte distrikter, som rundt Košice. Den er den vanligste rørsoppen i skogene i Madonie regionale naturpark på Sicilia. Funn fra California som tidligere ble ført til dette navnet tilhører Boletus regineus. Rapporter fra Kina tilhører andre arter. Nordafrikanske innsamlinger med mahognifarget hatt og en delvis rotaktig stilk ble beskrevet under navnet Boletus mamorensis, men molekylære studier har ikke kunnet skille dem fra denne arten. En studie fra 2007 av fire rørsopparter fant liten sammenheng mellom antallet fruktlegemer og mengden mycel i jordsmonnet under dem."
     },
     sv: {
       description: "En termofil (värmeälskande), ektomykorrhizabildande sopp i ädellövskogar, främst tillsammans med ek och bok i varmtempererade och mediterrana Europa. Den förekommer norrut till Tjeckien, Slovakien och södra England. Den bildar fruktkroppar enstaka eller i små grupper. Kaliforniska kollekter som tidigare förts hit tillhör Boletus regineus, och kinesiska kollekter tillhör andra arter.",
@@ -63547,16 +63535,16 @@ export const CATALOG = [
       notes: "Den er temmelig udbredt i Slovakiet. Indsamlinger, der er rapporteret fra Californien, tilhører muligvis Clitocybe tarda."
     },
     no: {
-      description: 'En kraftig, saprotrof høstsopp i gressmark, beitemark, frukthager og skogkanter. Utbredt over store deler av Europa.',
-      cap: 'Hatten er 6–15 cm bred (av og til opptil 20 cm), hvelvet med innrullet kant som ung, og flater ut senere. Fargen er lys lærbrun, blekt gråbrun til kremoker, og mangler fiolette toner på hatten.',
-      hymenium: 'Skivene er tette, utrandede, kremhvite til blekt rosagrå, og kan lett løsnes fra hattekjøttet.',
-      stipe: 'Stilken er 4–9 cm lang og 1,5–3 cm tykk, kraftig, sylindrisk eller svakt oppsvulmet ved basis. Den er iøynefallende fiolett eller lysende lillafarget med langsgående fibre, noe som står i sterk kontrast til den bleke hatten.',
-      flesh: 'Kjøttet er tykt, fast og hvitt, og endrer ikke farge ved snitt. Lukten er behagelig soppaktig og smaken mild og nøtteaktig.',
-      sporePrint: 'Blekt rosagrått til lyst kremfarget. Sporene er fint vortete, ellipsoide, 6,5–8 × 4–5 μm.',
-      habitat: 'Fruktlegemer viser seg sent på høsten, fra september til november (ofte etter de første frostnettene), i hekseringer på beitemark og plener.',
-      uses: 'En god matsopp (god matsopp). Den må varmebehandles grundig før den spises. Det faste kjøttet egner seg ypperlig til steking og stuing.',
-      confusion: 'Blå ridderhatt (Lepista nuda) har blåfiolett hatt og skiver i tillegg til fiolett stilk.',
-      notes: 'Arten er tradisjonelt bedre kjent under det vitenskapelige navnet Lepista personata eller Lepista saeva.'
+      description: "En kraftig, saprotrof sopp i gressmarker og åpne skoger, kjennetegnet av en blek hatt, bleke skiver og en fiolett eller lilla stilk. Den vokser over det tempererte og boreale Europa, samt i deler av Asia, Nord-Afrika og Nord-Amerika. Den er vidt utbredt i Storbritannia og Irland, og danner fruktlegemer sent på året.",
+      cap: "Hatten er 5–15 cm bred, sjelden opptil 20 cm. Den er halvkuleformet til å begynne med med en innrullet, dunet kant, deretter hvelvet til avflatet, ofte bølgete eller uregelmessig, med en butt pukkel eller grunn fordypning. Overflaten er glatt, litt klebrig i fuktig tilstand og matt når den er tørr. Fargen er blek og variabel: lyst grå, gråaktig lærbrun, kremfarget, okergrå eller gråbeige, ofte med et brunaktig skjær. En lilatone forekommer leilighetsvis på en ung hatt, og fargen blekner med alderen. Hatten er ikke fiolett. Hatthuden er en cutis av sylindriske hyaline hyfer på 2–4 μm i bredde med noe fortykkede vegger, som ligger parallelt eller svakt sammenflettet, med klemmebøyler ved skilleveggene.",
+      hymenium: "Skivene er tettstilte og ganske smale, cirka 7–10 mm brede, med kortere mellomskiver skutt innimellom. De er hvitaktige, kremfargede eller beige, senere okerkremfargede og av og til rosabeige. De mangler helt fiolett tone og er vanligvis blekere enn hatten unntatt hos gamle fruktlegemer. De er utrandede til nesten frie, ofte med en liten nedløpende tann, og løsner lett fra hattkjøttet ved avskraping. Basidiene er klubbeformede og firesporede, oppmålt til 30–40 × 6–8 μm, med en klemmebøyle ved basis. Skiveeggen er homomorf, og det finnes ingen cystider differensiert fra basidier eller basidioler.",
+      stipe: "Stilken er 3–10 cm lang. Tykkelsen er vanligvis 1,2–3 cm, og en enkelt kilde angir den ned til 1 cm. Den er massiv, trevlet og seig, sylindrisk og ofte kort. Basis er ofte svakt klubbeformet eller knollformet, og det finnes ingen ring. Langsgående tiltrykte fiolette eller lilla tråder ligger mot en hvitaktig eller kremfarget bunn. De kan sitte så tett at stilken ser fullstendig fiolett ut. Den øvre delen er lysere lilla, og fargen blekner raskt. Basis er fast forankret i substratet med hvitt mycel.",
+      flesh: "Kjøttet er tykt, fast og vannaktig hvitaktig. Det er svakt fiolett i stilken, og har av og til fiolette strøk andre steder. Kildene spriker om lukten. Enkelte beskriver den som sterkt parfymert, noe nøtteaktig eller ganske kraftig men ikke ubehagelig. Andre kaller den svak, behagelig, ubestemmelig eller uanselig, og en mikroskopisk undersøkelse fant ingen fremtredende lukt. Smaken er mild eller søtlig.",
+      sporePrint: "Lyst rosabeige eller kremfarget med en rosa tone. Én kilde beskriver avtrykket som hvitt med en kjøttfarget rosa tone. Sporene er ellipsoide, tynnveggede og fint vorteaktige til minimalt piggete, 5,5–9 × 4–6 μm, med et lengde-bredde-forhold på cirka 1,4–1,9. De er inamyloide i Melzers reagens. De inneholder oljedråper, og apiculus er eksentrisk.",
+      habitat: "Hovedfruktifiseringen foregår fra september til desember. I Storbritannia varer den fra september til november og kan fortsette inn i januar under milde vintre i Sør-Storbritannia og Irland. I Polen opptrer fruktlegemene fra sommeren til sent på høsten, med funn gjennom desember. I Spania viser de seg vanligvis fra november og fortsetter inn i vinteren. I Slovakia kommer de fra september til desember, likeledes under en mild vinter. Vårfruktifisering forekommer leilighetsvis i april eller mai, og en innsamling nær Praha ble gjort 1. mars. Den vokser på kalk- og krittgressmarker, beitemarker, fjellenger, heier, i parker, hager, skogkanter og glenter, og sjeldnere langs kanten av furuskoger, i frukthager, i steppeskråninger samt under frukttrær eller i gamle hager. Den har også blitt funnet i dynesenkninger. Åpne skoger på kalkrik grunn er et leilighetsvist voksested. Fruktlegemene står i grupper eller i hekseringer. Utenfor fruktsesongen kan mycelet vise seg som et bånd av mørkere grønt gress.",
+      uses: "Den skal gjennomvarmes grundig og spises ikke rå. En minoritet av mennesker får likevel fordøyelsesbesvær selv etter varmebehandling. Unge hatter foretrekkes. Stilkene er seigere og kan tørkes og males til pulver for suppe. Den stekes og brukes sammen med lyst kjøtt, ost, ris, pasta og eggeretter. Den kan fryses, og fruktlegemer som allerede er frosne i naturen kan brukes dersom de tilberedes umiddelbart. Den brukes også i supper, pannestekes og legges ned i eddik. Fruktlegemene er ofte markspiste, så de bør brukes raskt, og kjøttet er porøst, så de bør sankes på en tørr dag. Eldre fruktlegemer kan lukte svakt av mus etter tilberedning. Den selges villplukket på tsjekkiske torg samt i Frankrike, Spania og Portugal, av og til i samme pakninger som blå ridderhatt (Lepista nuda).",
+      confusion: "Blå ridderhatt (Lepista nuda) har fiolett hatt og fiolette skiver og vokser i skog. Gamle fruktlegemer kan blekne og miste denne fargen. Hvit ridderhatt (Lepista irina) er bygd på omtrent samme måte, men stilken er hvitaktig helt fra starten, og den vokser på fuktige enger, i frukthager og av og til i løvskog. Arter av slørsopper (Cortinarius) med blå stilker og brunaktige hatter vokser i skogsmark. Sporeavtrykket deres er rustbrunt og farger skivene, og rester av et spindelvevslignende slør (cortina) sitter igjen på stilken.",
+      notes: "Den er ganske vidt utbredt i Slovakia. Innsamlinger rapportert fra California tilhører muligens Clitocybe tarda."
     },
     sv: {
       description: "En kraftig, saprotrof svamp i gräsmarker och öppna skogar, som kännetecknas av en blek hatt, bleka skivor och en violett eller lila fot. Den växer över tempererade och boreala Europa, samt i delar av Asien, Nordafrika och Nordamerika. Den är vitt utbredd i Storbritannien och Irland, och bildar fruktkroppar sent på året.",
@@ -64329,16 +64317,15 @@ export const CATALOG = [
       notes: "Dette er den mest ødelæggende nedbryder af indendørs træværk i tempererede egne. Det terningformede brune råd (brunmuld) kan brede sig gennem gulve, bjælkelag og tagkonstruktioner, længe før et frugtlegeme viser sig. Myceliestrengene kan vandre over murværk, så nedbrydningen findes ofte langt fra den oprindelige fugtkilde. To udviklingslinjer er kendt. Den ene er en mindre aggressiv vild udviklingslinje i Nordamerika. Den anden er aggressiv, både i naturen og i bygninger, og den forekommer på adskillige kontinenter. Vilde frugtlegemer i naturen er sjældne. En opgørelse fra 1991 anslog de årlige omkostninger ved udbedring af skader forårsaget af denne svamp i Storbritannien til mindst 150 millioner britiske pund (£150 millioner). Gamle frugtlegemer og mycelium kan frigive irriterende kvælstofforbindelser, og hovedpine, kvalme og svimmelhed er blevet rapporteret."
     },
     no: {
-      description: 'En fryktet vednedbrytende sopp som forårsaker alvorlig brun råte i trekonstruksjoner i bygninger. Utbredt i tempererte strøk over hele verden, nesten utelukkende innendørs i bebygde områder.',
-      cap: 'Fruktlegemet er resupinat (skorpeformet utbredt over underlaget), 5–50 cm bredt (eller over en meter), med en bølget, hvitaktig, filtet vekstkant. Fargen på det sporeproduserende midtpartiet er rustbrun til kanelbrun.',
-      hymenium: 'Hymeniet har en labyrintisk overflate av brede, foldede ribber og groper, og skiller ofte ut klare dråper av vann (\'tårer\', derav navnet lacrymans).',
-      stipe: 'Mangler stilk; sitter direkte på treverk eller murverk.',
-      flesh: 'Kjøttet er mykt, svampete og seigt i fuktig tilstand, og blir sprøtt ved tørking. Det lukter fuktig kjeller og sopp.',
-      sporePrint: 'Rustbrunt. Sporene produseres i enorme mengder og dekker ofte overflater i nærheten med et fint rustbrunt støvlag.',
-      habitat: 'Vokser innendørs i fuktige krypkjellere, gulvbjelkelag og hulrom med bartrevirke. Soppen kan transportere vann gjennom tykke mycelstrenger over lange avstander gjennom tørt murverk.',
-      uses: 'Ikke matsopp (inedible). Fruktlegemet er uspiselig og helseskadelig i inneklima.',
-      confusion: 'Vill hussopp (Serpula himantioides) danner tynnere fruktlegemer og vokser utendørs på morkent bartrevirke i skog.',
-      notes: 'Ekte hussopp er den mest ødeleggende råtesoppen på bygningstreverk i tempererte strøk.'
+      description: "En tykk, ettårig brunråtedannende skorpelignende sopp på bearbeidet trevirke i hus og andre bygninger, som lever saprotroft på død ved og bare svært sjelden påtreffes på trevirke utendørs i naturen. Den er vidt utbredt gjennom det tempererte Europa, inkludert Storbritannia og Irland, samt gjennom kjøligere deler av Asia, Nord-Amerika, Australia, New Zealand og Oseania.",
+      cap: "Fruktlegemet er ettårig og vanligvis en resupinat (flatt utbredt) kake, festet direkte til treverk eller til murpuss og murverk. Bredden er vanligvis 5–50 cm. Mange sentraleuropeiske fruktlegemer holder seg innen 5–30 cm, og sammenvokste flak kan nå cirka 1 m, eller cirka 2 m ifølge én kilde. Tykkelsen er vanligvis 2–12 mm og ofte 5–10 mm. Én kilde angir de fleste fruktlegemer til bare 1–5 mm tykke, med en øvre grense nær 3 cm. Et ungt fruktlegeme er putelignende og hvitt eller gulaktig. Midten danner deretter det fargede hymeniet, mens en hvit, gulaktig eller gråaktig, bomullsaktig kant vedvarer, vanligvis opptil cirka 2 cm bred. En avbøyd hattdannelse er uvanlig. Når en slik dannes stikker den oftest ikke lenger ut enn cirka 2 cm, selv om leilighetsvise hatter kan bli 2–10 cm brede og opptil 2 cm tykke. En aktivt voksende overflate bærer ofte vannaktige eller melkeaktige dråper. Gamle, tørre fruktlegemer blir mørkebrune, og den foldede overflaten flates ut.",
+      hymenium: "Overflaten er merulioid. Folder og rynker danner store, uregelmessige, labyrintiske groper, som verken er ekte rør eller skiver. Fargen er guloransje til rustgul som ung, deretter rustfarget, rødbrun, brun eller mørkebrun, og av og til olivenbrun. Gropene er store, cirka 1–2 mm i diameter. Cystider mangler. Hyfelignende cystidioler kan forekomme. Basidiene er klubbeformede, cirka 30–60 × 5–8 μm, med fire sterigmer og en basal klemmebøyle.",
+      stipe: "Det finnes ingen stilk. Fruktlegemet er festet direkte til underlaget. En kort avbøyd konsoll er uvanlig.",
+      flesh: "Kjøttet er hvitaktig til gråhvitt, mykt, svampaktig og elastisk. Lukten er soppaktig som ung, av og til kraftig innendørs, og den blir ubehagelig med alderen. Én kilde beskriver den som fuktig og råtten. Smaken er mild. Hyfesystemet er dimittisk. Generative hyfer har klemmebøyler, er tynnveggede og 2–4 μm brede. De subhymeniale hyfene ligger i en gelatinøs grunnmasse. Skletthyfer er vanligere i mycelstrengene. De er tykkveggede, 2–4 μm brede og cyanofile. Nedbrytningen er en kubisk brunråte. Soppen bryter ned cellulose og hemicellulose men etterlater ligninet, slik at veden mørkner, sprekker opp i terninger og til slutt pulveriseres.",
+      sporePrint: "Sporeavtrykket er gulbrunt til brunt eller rustbrunt, og et rikelig nedfall kan dekke nærliggende flater som et fint støvlag. Sporene er smalt ellipsoide til ellipsoide, glatte, tykkveggede og gulaktige. Noen har dråper og en liten apiculus. Publiserte målinger samler seg rundt 8–12 × 4,5–6 μm. Én monografi oppgir 9–12 × 5–6 μm, og betegner dem som ikke-dekstrinoide og cyanofile. En annen oppgir 9–11 × 4,5–5,5 μm med opptil fem oljedråper.",
+      habitat: "Fruktlegemer dannes året rundt i bygninger. Ferske fruktlegemer rapporteres primært fra vår til høst, og i oppvarmede bygninger også om vinteren, idet én kilde angir hovedforekomsten fra sensommeren inn i vinteren. De vokser på bjelker, gulvplanker, stendere, dører, sperrer, kjellervirke og trekonstruksjoner i uventilerte kryprom og gruver. Mykt bartre, særlig furu, er det vanlige vertstreet. Løvtre angripes sjeldnere. Soppen koloniserer også papir, tekstiler, sponplater, halm og takrør. Mycelstrenger kan trenge gjennom puss, teglstein, dårlig mørtel og porøs betong, og et fruktlegeme kan dannes på disse flatene. Den krever fuktig, skyggefull og stillestående luft. Fruktlegemedannelse fremmes når trevirket inneholder cirka 30–40 prosent fuktighet. Vekst er registrert fra cirka 3 til 26 °C, med et optimum rundt 21–22 °C, og stanser over cirka 26 °C. Mycelstrengene kan transportere vann fra en fuktkilde over murverk til tørrere trevirke, og én kilde bemerker at soppen også produserer vann når den bryter ned veden. Kildene spriker om hvorvidt nedbrytning kan starte under cirka 20 prosent fuktighet i treverket. Nedbrytningen fortsetter ofte uten at noe fruktlegeme er synlig. Utendørs i naturen er den sjelden på naturlig død ved i Himalaya, Nord-California, Tsjekkia og Øst-Asia.",
+      confusion: "Viltvoksende hussopp (Serpula himantioides) danner mindre og tynnere fruktlegemer. Den vokser på død barved i skog og på ubehandlet trevirke utendørs. Kjellersopp (Coniophora puteana) forekommer i både skog og bygninger. Hymeniet er glatt og er vanligvis pudret med sporer.",
+      notes: "Dette er den mest destruktive innendørs trenedbryteren i tempererte regioner. Den kubiske brunråten kan trenge gjennom gulv, bjelkelag og takstoler lenge før et fruktlegeme viser seg. Mycelstrengene krysser murverk, så råten påtreffes ofte langt fra den opprinnelige fuktkilden. To utviklingslinjer er kjent. Den ene er en mindre aggressiv vill utviklingslinje i Nord-Amerika. Den andre er aggressiv, både i naturen og i bygninger, og forekommer på flere kontinenter. Ville fruktlegemer i naturen er sjeldne. Et anslag fra 1991 anslo den årlige reparasjonskostnaden for skader forårsaket av denne soppen i Storbritannia til minst 150 millioner britiske pund. Gamle fruktlegemer og mycel kan avgi irriterende nitrogenholdige gasser, og hodepine, kvalme og svimmelhet har blitt rapportert."
     },
     sv: {
       description: "En tjock, ettårig brunrötedannande skorpformad svamp på bearbetat virke i hus och andra byggnader, som lever saprotroft på död ved och endast mycket sällan påträffas på trä utomhus i naturen. Den är vitt utbredd genom tempererade Europa, inklusive Storbritannien och Irland, samt genom kyligare delar av Asien, Nordamerika, Australien, Nya Zeeland och Oceanien.",
@@ -65120,16 +65107,16 @@ export const CATALOG = [
       notes: "Visse forfattere betragter denne svamp som værende samme art som Choiromyces venosus. Umodne frugtlegemer sælges undertiden svigagtigt som den ægte hvide trøffel, Tuber magnatum. I Tyskland placerede en vurdering fra 1992 den i kategori 2 over truede arter, og en senere liste anbringer den i kategori 3. I Tyskland kendes den hovedsageligt fra Alpernes forland og bjergområderne, mens den mangler på det nordlige lavland."
     },
     no: {
-      description: 'En stor underjordisk sekksporesopp (Ascomycota) som vokser delvis nedgravd i jorda i løv- og barskog, ofte i leirholdig jord. Utbredt i Europa.',
-      cap: 'Fruktlegemet er en uregelmessig, knollformet eller potetformet knoll, 4–12 cm bred (av og til opptil 15 cm), med furer og folder. Ytterhuden er lyst lærbrun til grågul, glatt eller fint sprekkete.',
-      hymenium: 'Glebaen fyller det indre av knollen. Den er fast, massiv, hvitaktig til lys oker med et karakteristisk meandrerende mønster av marmorerte, buede, lyse og mørkere årer.',
-      stipe: 'Mangler stilk.',
-      flesh: 'Kjøttet er fast og kompakt som ungt. Lukten er kraftig og aromatisk, minnende om hvitløk, moden ost eller kokt skinke, og smaken er nøtteaktig.',
-      sporePrint: 'Gult til kremgult. Askosporene er kulerunde, gulbrune med lange pigger, 16–22 μm i diameter.',
-      habitat: 'Fruktlegemer utvikles under jorda fra juli til oktober, og sprekker ofte opp jordoverflaten når de modnes under bøk, eik og gran.',
-      uses: 'Spiselig (spiselig). Unge fruktlegemer brukes i små mengder som krydder til supper og sauser. Rå eller i for store mengder kan den forårsake fordøyelsesbesvær.',
-      confusion: 'Hvit trøffel (Tuber magnatum) er jevnere, mangler pigger på sporene og er langt mer kostbar.',
-      notes: 'Mange mykologiske oppslagsverk behandler arten som synonym med Choiromyces venosus.'
+      description: "En stor underjordisk sekksporesopp som ligner en hvit trøffel, og som danner fruktlegemer like under markoverflaten eller presser seg opp i løvstrøet. Den vokser over det tempererte og boreale Europa, der den ofte er lokalt rikelig. Lignende underjordiske sopper fra andre kontinenter tilhører andre arter.",
+      cap: "Fruktlegemet er en uregelmessig, potetlignende knoll. Den er vanligvis cirka 4–12 cm bred. Publiserte størrelser strekker seg fra cirka 2 cm til cirka 15 cm, og vekten kan nå cirka 500 g, med en registrering om cirka 1 kg. Overflaten er tørr, lyst gulaktig hvit eller kremoker til å begynne med, mørkner til lyst gulbrun, hasselnøttbrun eller rødbrun, og sprekker ofte opp i små flate skjell eller sprekker. Den er fliket, foldet og furet, med grunne furer. Det finnes ingen stilk. Det ytre peridiet er cirka 0,5–1 mm tykt.",
+      hymenium: "Glebaen er massiv og fast, uten hulrom og uten skiver. Den er hvitaktig til å begynne med, deretter kremfarget, lyst gul, gråhvit eller lyst lærbrun, marmorert med mørkere, smale, buktende årer som løper gjennom hele det indre. Årene er sterile, og det fertile vevet ligger mellom dem. Med alderen mørkner de fertile partiene til gulbrunt eller hasselnøttbrunt, slik at de hvitaktige årene forblir synlige. Sporesekkene (asci) er klubbeformede til sekkformede, åttesporede, cirka 100–180 × 50–80 μm. Parafysene er slanke, fargeløse, cirka 4–9 μm brede og septerte. Klemmebøyler mangler.",
+      stipe: "Det finnes ingen stilk.",
+      flesh: "Den unge glebaen er fast, kompakt og hvitaktig, og skifter farge etter hvert som den modnes. Et ungt fruktlegeme har svak lukt, eller en svak behagelig aroma. Når sporene modnes blir lukten sterk, tung og aromatisk, vekselvis beskrevet som hvitløkaktig, som overmoden ost, som gjærende korn eller ubehagelig søtlig. Hos overmodne fruktlegemer blir den skarp, emmen og kvalmende. Smaken er behagelig, mild og nøtteaktig som fersk, og blir bitter og ubehagelig med alderen. Kjøttet blir gulbrunt til brunt i kaliumhydroksid.",
+      sporePrint: "Lyst gulbrunt til okerbrunt. Sporene er kulerunde, gulaktige, inamyloide, prydet med butte sylindriske pigger og vorter som er cirka 3–5 μm lange. Fratrukket piggene måler de cirka 16–22 μm i diameter.",
+      habitat: "Fruktlegemer opptrer fra juni inn i november, oftest fra juli til oktober. De vokser i bar-, løv- og blandingsskoger, vanligvis i rik, fuktig leirjord, leirblandet eller sandholdig leirjord, særlig under gran, furu, bøk og eik. De er underjordiske til å begynne med, cirka 2–10 cm under markoverflaten, og etter hvert som de vokser sprekker og løfter de jorden, strøfallet eller mosen inntil den øvre delen blottlegges. De vokser enkeltvis eller i små grupper, av og til i ringer eller buer. Søk med dresserte hunder er den tradisjonelle måten å finne dem på.",
+      uses: "Den er en spiselig sopp med en lang tradisjon for sanking i Skandinavia og Nord-Europa. Kjøttet må varmebehandles; rå fruktlegemer forårsaker fordøyelsesbesvær. Eldre fruktlegemer med sterk eller ubehagelig lukt kasseres, ettersom de gir fordøyelsesplager. Den skjæres i skiver og stekes, stues eller tørkes og rives som krydder. Den selges av og til under betegnelsen hvit trøffel.",
+      confusion: "Hvit trøffel (Tuber magnatum) er vanligvis mindre. Det modne indre er rødaktig med hvite årer, og lukten og smaken er behagelig og noe hvitløkaktig. Sporesekkene rommer én til tre sporer, leilighetsvis fire, prydet med et grovmasket nettverk, og det er en middelhavsart. Umodne fruktlegemer av denne arten selges av og til under det navnet. En moden potetsopp (Scleroderma), inkludert gul potetsopp (Scleroderma citrinum) og brun potetsopp (Scleroderma verrucosum), har et nesten sort indre. Choiromyces magnusii (Choiromyces magnusii) er mindre, danner fruktlegemer om våren, har årer som ikke bukter seg og vokser under solroseplanter (Cistus).",
+      notes: "Enkelte beretninger behandler denne som samme sopp som Choiromyces venosus. Umodne fruktlegemer selges av og til som hvit trøffel (Tuber magnatum), men lukten er, når den først utvikles, helt annerledes. Mycelet danner ektomykorrhiza med løv- og bartrær. En nærstående art, Choiromyces terfezioides (Choiromyces terfezioides), har blitt beskrevet fra saltholdig jord i Ungarn, med mindre fruktlegemer og tydelige mikroskopiske karakterer."
     },
     sv: {
       description: "En stor underjordisk sporsäcksvamp som liknar en vit tryffel, och som bildar fruktkroppar strax under markytan eller tränger upp i lövförnan. Den växer över tempererade och boreala Europa, där den ofta är lokalt riklig. Liknande hypogeiska svampar från andra kontinenter tillhör andra arter.",
@@ -65906,16 +65893,16 @@ export const CATALOG = [
       notes: "I Polen opfører en national rødliste arten som sårbar, og vilde frugtlegemer har været delvist fredet siden 2014 efter en periode med streng fredning fra 1983 til 2014. I Storbritannien er den ikke formelt vurderet. En uofficiel liste fra 2006 behandler den som næsten truet, og i England er den en art af særlig betydning under section 41 i Natural Environment and Rural Communities Act 2006. Den er ualmindelig, men udbredt i det sydlige og østlige England, spredt i Midlands og Yorkshire, registreret én gang i Wales og ikke fundet vildtvoksende i Skotland. Den er ualmindelig i gamle bøge- og blandingsskove i Slovakiet og sjælden i gamle bøgeskove i Tjekkiet, og indsamling frarådes i begge lande. Navnet dækker i dag over mere end én udviklingslinje, og en velunderbygget gruppe af indsamlinger fra det østlige og vestlige Canada, det sydvestlige og nordvestlige USA, Rusland, Sverige og Ukraine udgør muligvis en selvstændig art."
     },
     no: {
-      description: 'En vednedbrytende hvitråtesopp som danner usedvanlig vakre, korallformede fruktlegemer på død ved av løvtrær, særlig bjørk, osp og bøk. Utbredt i eldre naturskog i Europa, Asia og Nord-Amerika.',
-      cap: 'Fruktlegemet er 10–30 cm bredt og opptil 20 cm høyt, rikt og åpent forgrenet i gjentatte grener, minnende om en hvit sjøkorall. Fargen er snøhvit til kremhvit som ung, og blir lyst gulaktig eller okerbrun med alderen.',
-      hymenium: 'Undersiden og sidene av de fine grenene er besatt med kamformede rader av myke, hengende pigger, 5–15 mm lange.',
-      stipe: 'Mangler reell stilk; forgreiningene springer ut fra en tykk, felles hvitaktig base festet til trestammen.',
-      flesh: 'Kjøttet er hvitt, fast og mykt som ungt, og seigt som eldre. Lukten og smaken er mild og behagelig.',
-      sporePrint: 'Hvitt. Sporene er nesten kulerunde til bredt ellipsoide, fint ru, amyloide, 5–6,5 × 4,5–5,5 μm.',
-      habitat: 'Fruktlegemer viser seg fra august til oktober på morkne, grove liggende stammer av bjørk og bøk i fuktig urskogspreget skog.',
-      uses: 'Spiselig (spiselig). Unge, ferske fruktlegemer er spiselige og har en god, mild smak, men arten er sjelden og rødlistet i Norge og bør skånes.',
-      confusion: 'Piggsvinsopp (Hericium erinaceus) er uforgrenet med mye lengre pigger (opptil 5 cm).',
-      notes: 'Korallpiggsopp er en viktig signalart for biologisk verdifull naturskog med mye død ved.'
+      description: "En trenedbrytende piggsopp i gamle, urørte løvskoger, hovedsakelig på bøk, vidt utbredt i tempererte deler av Europa samt over Asia og Nord-Amerika. Den danner fruktlegemer på døde lægder og grove greiner, der den danner en grenet korallignende masse av nedhengende pigger. Den er mindre vanlig til sjelden over store deler av sitt europeiske utbredelsesområde.",
+      cap: "Det finnes ingen separat hatt. Fruktlegemet er en åpen, gjentatt grenet masse, korallignende, som utgår fra en kort basis. Det er vanligvis cirka 10–30 cm bredt, når leilighetsvis cirka 40 cm, og er cirka 7–20 cm høyt. Greinene er kjøttfulle og sprø, hvite til å begynne med, deretter kremfargede, lyst gulaktige eller voksgule, og blir matt okerlærbrune til brunaktige med alderen. Hovedgreinene deler seg i finere sidegreiner som bærer piggene.",
+      hymenium: "Korte hengende pigger dekker greinene og samles i spissene. De er spisse og henger nedover. De er vanligvis cirka 0,5–1 cm lange, opptil 1,5 cm, og når sjelden 2 cm. De sitter ordnet som tennene på en kam langs undersidene av smågreinene, samt i dusker ved greinspissene. De er hvite, deretter kremfargede eller gulaktige, og blir brunaktige som gamle eller tørre. Basidiene er klubbeformede, firesporede, cirka 20–35 × 4,5–6 μm. Klemmebøyler forekommer. Gloeocystider forekommer, cirka 3–7 μm brede, med oljeaktig innhold. Hyfene er monomittiske, tynn- til tykkveggede, forsynt med klemmebøyler og amyloide.",
+      stipe: "En distinkt stilk mangler vanligvis. Fruktlegemet utgår fra en kort hvit til kremfarget basis som er cirka 1–4 cm tykk. Basis er fast forankret i den råtne veden, ofte inni en sprekk eller hulrom. Det finnes ingen ring.",
+      flesh: "Kjøttet er hvitt, fast og kompakt, og et ferskt snitt forblir hvitt. Det er mykt som ferskt og blir sprøtt med alderen. Tørket kjøtt er sprøtt og lett. Lukten er svak, behagelig og svakt søtlig eller soppaktig. Smaken er mild, og blir bitter med alderen.",
+      sporePrint: "Hvitt. Sporene er bredt ellipsoide til nesten kulerunde, glatte til minimalt ujevne, tykkveggede og amyloide, med en liten apiculus. De måler cirka 4,5–6 × 3,5–5 μm.",
+      habitat: "Fruktlegemer opptrer fra juli til november. I Slovakia viser de seg hovedsakelig i oktober og november, og i varmere deler av Europa kan fruktifiseringen fortsette inn i vinteren. De vokser med hvitråte på døde lægder, stubber og grove greiner av løvtrær, overveiende på bøk, og leilighetsvis på eik, ask, bjørk, lønn og selje. De danner fruktlegemer enkeltvis eller i små grupper på gamle, godt nedbrutte trestammer i fuktige, skyggefulle løv- og blandingsskoger.",
+      uses: "Unge fruktlegemer er spiselige og velsmakende, med en fin og mør konsistens. Eldre fruktlegemer blir seige, bitre og usmakelige. Arten dyrkes i Øst-Asia, men er fredet mot sanking i naturen i Europa.",
+      confusion: "Piggsvinsopp (Hericium erinaceus) er en ugrenet pute, og piggene er vanligvis 1–5 cm lange. Piggflak (Hericium cirrhatum) danner taklagte tynne konsoller med tydelige hatter. Fine pigger dekker også oversiden, og piggene på undersiden er cirka 10–15 mm lange. Granpiggsopp (Hericium alpestre) vokser på edelgran, fra Europa inn i Sentral-Asia. Den er mer kompakt. Piggene er lengre, cirka 10–20 mm, og de sitter i dusker i greinspissene snarere enn i en kam langs greinene. Sporene er større, cirka (5–)5,5–6,5(–7) × 4,5–6(–6,5) μm, og kjøttet får en rosa tone med alderen. Enkelte soppbøker kaller denne arten Hericium flagellum (Hericium flagellum). Hericium americanum (Hericium americanum) vokser i det østlige Nord-Amerika, mest på løvved. Den er kraftigere bygd, med kortere greiner, pigger som ofte er lengre enn 1 cm, sporer på cirka 5,5–7 × 4,5–6 μm og får en rosaaktig misfarging. Eldre amerikanske bøker brukte Hericium coralloides for den soppen og Hericium ramosum (Hericium ramosum) for arten med korte pigger. Hericium abietis (Hericium abietis) vokser i Stillehavs-nordvest på barved, inkludert edelgran og hemlokkgran. Den er massiv, sporene er cirka 4,5–5,5 × 4–4,5 μm, og den får en rosa tone. Blek piggsopp (Hydnum repandum) og rødgul piggsopp (Hydnum rufescens) har pigger under en glatt hatt og vokser på bakken.",
+      notes: "I Polen oppfører en nasjonal rødliste arten som sårbar, og ville fruktlegemer har vært delvis fredet siden 2014 etter en periode med streng fredning fra 1983 til 2014. I Storbritannia er den ikke formelt vurdert. En uoffisiell liste fra 2006 behandler den som nær truet (Near Threatened), og i England er den en art av særskilt betydning under section 41 i Natural Environment and Rural Communities Act 2006. Den er mindre vanlig men spredt i Sør- og Øst-England, spredt i Midlands og Yorkshire, registrert én gang i Wales og ikke funnet viltvoksende i Skottland. Den er mindre vanlig i gamle bøke- og blandingsskoger i Slovakia og sjelden i gamle bøkeskoger i Tsjekkia, og sanking frarådes i begge land. Navnet dekker i dag mer enn én utviklingslinje, og en godt underbygd gruppe innsamlinger fra østlige og vestlige Canada, sørvestlige og nordvestlige USA, Russland, Sverige og Ukraina utgjør muligens en ubeskrevet art."
     },
     sv: {
       description: "En vednedbrytande svamp i gamla, orörda lövskogar, främst på bok, vitt utbredd i tempererade Europa samt över Asien och Nordamerika. Den bildar fruktkroppar på döda lågor och grova grenar, där den bildar en grenad korallik massa av nedhängande taggar. Den är mindre allmän till sällsynt över stora delar av sitt europeiska utbredningsområde.",
@@ -66752,16 +66739,15 @@ export const CATALOG = [
       notes: "Bittesmå hårde sklerotier på cirka 0,5–0,8 mm i længden dannes på jorden mellem myceliet. De er hvidligbeige til blegt gullighvide. Svampen skader ikke den levende plante. I en gennemsigtig orkidépotte kan sklerotierne samle sig, skæmme plantens udseende og ændre substratets vandholdende egenskaber. Den gule farve skyldes to indolalkaloider, birnbaumin A og birnbaumin B. Birnbaumin B er det primære pigment. Indtagelse af frugtlegemerne rapporteres at forårsage en gastroenteritis-lignende sygdom. Hvor alvorlig denne forgiftning er, er fortsat usikkert, og visse kilder betragter giftigheden som ukendt."
     },
     no: {
-      description: 'En tropisk og subtropisk saprotrof skivesopp som i tempererte strøk er en velkjent potteplante-sopp i veksthus, vinduskarmer og botaniske hager.',
-      cap: 'Hatten er 2–6 cm bred, først oval til klokkeformet, senere hvelvet til flat med stripet kant. Fargen er lysende svovelgul til sitrongul. Overflaten er dekket av små, melete eller fnokkete gule skjell.',
-      hymenium: 'Skivene er frie fra stilken, tette og svovelgule.',
-      stipe: 'Stilken er 3–10 cm lang og 2–5 mm tykk, slank, hul, svovelgul med en oppsvulmet knollbasis og en liten, tynn, gul ring midt på stilken som lett kan falle av.',
-      flesh: 'Kjøttet er tynt, skjørt og gult. Lukten og smaken er ubetydelig.',
-      sporePrint: 'Hvitt. Sporene er glatte, ellipsoide med en tydelig spirepore, dekstrinoide, 8–11 × 5–7 μm.',
-      habitat: 'Fruktlegemer opptrer innendørs året rundt i blomsterpotter, blomsterkasser og veksthus med fuktig, næringsrik plantejord.',
-      uses: 'Giftig. Soppen forårsaker mage- og tarmforgiftning ved inntak. Den gjør ingen skade på potteplantene, men spiser råtnende organisk materiale i jorda.',
-      confusion: 'Blekgul paraplyhatt (Leucocoprinus straminellus) er lysere gulhvit, mindre og skjørere, med mindre sporer uten spirepore. Leucocoprinus flavescens (Leucocoprinus flavescens) har hvitaktig hatt med brungult sentrum. Leucocoprinus fragilissimus (Leucocoprinus fragilissimus) har ekstremt tynn hatt og bleke skiver. Krittparaplyhatt (Leucocoprinus cretaceus) er kritthvit. Gullgullhatt (Bolbitius titubans) vokser i gressmark, har skiver som blir kanelbrune, og mangler ring.',
-      notes: 'Mycelet danner ofte bittesmå, gule, kulerunde sklerotier i blomsterjorda.'
+      description: "En saprotrof skivesopp, vanlig overalt i tropene og subtropene og forekommende i varmere tempererte soner i Europa, Nord-Amerika og Australia. I Storbritannia, Irland og Tsjekkia er den kjent fra veksthus og blomsterpotter framfor fra naturen. Den danner også fruktlegemer utendørs i varmt vær.",
+      cap: "Hatten er 2–6 cm bred, leilighetsvis cirka 7 cm. Den begynner som eggformet, sylindrisk eller kjegleformet, og brer seg deretter ut til klokkeformet, halvkuleformet eller nesten flat, ofte med en lav midtpukkel. Overflaten er tørr, sitrongul til svovelgul, glatt til pudret med opprevne trådete skjell som lett gnis av. Skjellene sitter tettere i midten, der de mørkner til en dypere gul eller brunaktig farge. Kanten er furet-stripet, lysere i furene og innrullet som ung. Ved uttørking blekner hatten og kan bli lærbrun, okerfarget eller brunaktig.",
+      hymenium: "Skivene er frie og ofte med en avstand fra stilken. De er svovelgule eller noe blekere enn hatten med en gul egg. De er tett- til bare moderat fjerntstilte, opptil cirka 4 mm brede, og korte mellomskiver er vanlige. De kan bli bukete, og eggene kan være fint frynsete. Cheilocystidene når cirka 50 × 15 μm. De er bukete og nebbformede (rostrate), tynnveggede og glatte. Pleurocystider mangler. Basidiolene er oppsvulmede.",
+      stipe: "Stilken er 3–10 cm lang. Selve skaftet er vanligvis 1,5–5 mm tykt, og enkelte europeiske innsamlinger er 5–8 mm tykke. Basis er knollformet eller klubbeformet og 4–15 mm bred. Overflaten er tørr, sitrongul til svovelgul og melet til fint ullskjellet, og kan brunfarges med alderen. En tynn, hinneaktig ring, som er gul på oversiden og hvitaktig på undersiden, kan sitte hvor som helst langs skaftet. Den er bevegelig, skjør og faller ofte av. Det indre er hult, men margfylt og glinsende hvitt. Mycelet ved basis er lyst gult.",
+      flesh: "Kjøttet er tynt og matt hvitaktig til gulaktig. Det er fast som ungt og blir senere mykere og sprøere. Lukten er ubestemmelig eller svakt soppaktig og av og to ubehagelig. Smaken er mild.",
+      sporePrint: "Hvitt. Sporene er ellipsoide til svakt mandelformede, glatte og tykkveggede, overveiende cirka 8–12 × 5–7 μm og av og til så korte som 7–9 × 5–6 μm, med en spirepore på cirka 1–2 μm i diameter. De er dekstrinoide. Enkelte innsamlinger har i gjennomsnitt noe mindre sporer, cirka 7,7–10,5 × 5,9–7,3 μm.",
+      habitat: "Fruktlegemene vokser på humus, kompost og pottejord, enkeltvis, spredt eller i små knipper, i blomsterpotter, veksthus og drivbenker. I varmt vær danner de også fruktlegemer utendørs i hager, på plener og på forstyrret skogsbunn, av og til rundt trestubber. I uoppvarmede britiske veksthus opptrer de fra juni til oktober. I oppvarmede veksthus og innendørs blomsterpotter kan de dukke opp i hvilken som helst måned. Utendørs i Nord-Amerika danner de fruktlegemer om sommeren. En innsamling i Egypt vokste frem på stubben av et dødt sitrontre om høsten.",
+      confusion: "Lys væpnerhatt (Leucocoprinus straminellus) er noe blekere, av og til hvitaktig, mindre og sprøere, med mindre sporer på cirka 5–7 × 4–6 μm som mangler spirepore. Leucocoprinus flavescens (Leucocoprinus flavescens) har en lyst gulaktig til hvit hatt med brunaktig midt og mindre sporer. Leucocoprinus tricolor (Leucocoprinus tricolor) har en brun hattmidt, blekere gule farger og en kromgul stilkbasis. Skjør væpnerhatt (Leucocoprinus fragilissimus) har en ekstremt tynn hatt og bleke skiver. Leucocoprinus brunneoluteus (Leucocoprinus brunneoluteus) har en markant brun pukkel og tynt, skjørt kjøtt. Hvit væpnerhatt (Leucocoprinus cretaceus) har lignende vekstmåte men er kritthvit. Leucoagaricus sulphurellus (Leucoagaricus sulphurellus) har skiver som misfarges i en klar blågrønn farge ved berøring. Gul kjeglesopp (Bolbitius titubans) vokser i gressmark, de gule skivene blir kanelbrune når sporene modnes og stilken mangler ring.",
+      notes: "Minimalt små, harde sklerotier på cirka 0,5–0,8 mm i lengde dannes på jorden mellom mycelet. De er hvitaktig lærbrune til lyst gulhvite. Soppen skader ikke den levende planten. I en gjennomsiktig orkidépotte kan sklerotiene samle seg, skjemme plantens utseende og forandre substratets vannholdende evne. Den gule fargen stammer fra to indolalkaloider, birnbaumin A og birnbaumin B. Birnbaumin B er hovedpigmentet. Inntak av fruktlegemene rapporteres å forårsake en gastroenterittlignende sykdom. Hvor alvorlig denne forgiftningen er forblir uvisst, og enkelte kilder betrakter giftigheten som ukjent."
     },
     sv: {
       description: "En saprotrof skivling, allmän överallt i tropikerna och subtropikerna och förekommande i varmare tempererade zoner i Europa, Nordamerika och Australien. I Storbritannien, Irland och Tjeckien är den känd från växthus och blomkrukor snarare än från naturen. Den bildar även fruktkroppar utomhus i varmt väder.",
@@ -67490,16 +67476,15 @@ export const CATALOG = [
       notes: "Regndråber, eller vand der drypper fra et overhængende blad, plasker peridiolerne ud af bægeret. De glatte indervægge skråner med en vinkel på cirka 70–75° i forhold til vandret, hvilket giver en optimal opsprøjtseffekt. Peridiolerne har tendens til at klæbe sig fast til nærliggende vegetation, hvor planteædere kan æde dem og sprede sporerne. I flydende kultur danner svampen salfrediner, som er stoffer der hæmmer enzymet aldosereduktase."
     },
     no: {
-      description: 'En bitte liten saprotrof reirsopp (Nidulariaceae) som vokser på råtnende kvister, treflis, bark og plantestilker. Utbredt og vanlig over store deler av den nordlige halvkule.',
-      cap: 'Fruktlegemet er skålformet eller begerformet (et peridium), 3–10 mm bredt og 2–10 mm høyt. Unge beger er dekket av et gult til oransje lokk (epifragma) som brister ved modning og avslører 4–6 linseformede \'egg\' (peridioler) i bunnen av begeret. Utsiden er lyst okergul og fint filtet.',
-      hymenium: 'Mangler rør og skiver. Det sporeproduserende vevet ligger lukket inne i peridiolene. Hver peridiol er hvitaktig, 1–2 mm bred, og er forankret til begerets innside med en tynn, elastisk kveilet tråd (funiculus).',
-      stipe: 'Mangler stilk; sitter direkte på treverket med en flat base.',
-      flesh: 'Begerveggen er tynn, seig og læraktig.',
-      sporePrint: 'Fargeløse sporer. Sporene er glatte, tykkveggede, ellipsoide, 6–11,5 × 3,5–6 μm.',
-      habitat: 'Fruktlegemer viser seg fra juli til november i tette klynger på råtnende kvister, flis, kongler og bark.',
-      uses: 'Ikke matsopp (inedible). Soppen er altfor liten og læraktig til å ha noen matverdi.',
-      confusion: 'Stripet brødkorg (Cyathus striatus) har en mørkere gråbrun overside med tydelig stripet innside.',
-      notes: 'Regndråper som treffer begeret slynger peridiolene ut med stor kraft, hvor den klebrige tråden fester seg til vegetasjonen rundt.'
+      description: "En svært liten saprotrof brødkorvsopp på kvister, treflis og planterester, med en sirkumpolar-temperert utbredelse: registrert over større deler av Europa, inkludert Slovakia og Kanariøyene, fra Alaska til Mexico i Nord-Amerika, i Chile og Ildlandet samt på Island, i Japan, Australia og New Zealand.",
+      cap: "Fruktlegemet, et begerlignende peridium, er 3–10 mm bredt ved munningen og 2–10 mm høyt. Det begynner som puteformet til nesten rundt, lukket av et gult til oransje filtaktig lokk (epifragma). Når lokket rives bort blir begeret tønneformet og deretter begeraktig eller digelformet med nesten parallelle sider. Veggen består av et enkelt sjikt av sammenflettede hyfer, cirka 0,25–0,5 mm tykt. Utsiden er gul til okerfarget og grovt filtet som ung. Den slites glatt av vær og vind, blir kanelfarget til brun, og gamle værbitte begre kan blekes til smussig hvite. Innsiden er glatt, glinsende og hvitaktig til grå.",
+      hymenium: "Det finnes verken skiver eller porer. Det sporedannende vevet er innesluttet i peridiolene, de såkalte 'eggene' som ligger i begeret. Et beger rommer vanligvis cirka fire til ti stykker, leilighetsvis opptil femten. De er flattrykte, linse- eller skiveformede, 1–2 mm brede og 0,2–0,4 mm tykke samt lyst okerfargede til hvite; en hvitaktig ytre hinne (tunica) omslutter hvert enkelt. Hver peridiol er forankret til begerets innside med en kraftig elastisk streng, funikelen, som ender i en liten knott under skiven. Inne i en peridiol kler klubbeformede basidier med fire sporer hver hulrommet, blandet med sterile hyfer.",
+      stipe: "Det finnes ingen stilk. Fruktlegemet fester direkte til veden eller planterestene med sin avsmalnede basis.",
+      flesh: "Veggen er et tynt, fast sjikt, og det finnes ingen særpreget lukt eller smak.",
+      sporePrint: "Fargeløst. Sporene er hyaline, glatte, tykkveggede og ellipsoide, cirka 6–11,5 × 3–6 μm.",
+      habitat: "Fruktlegemene vokser enkeltvis, spredt eller i tette grupper på kvister, pinner, kongler, nøtteskall, treflis, gamle matter, plantestengler, halm og møkk i løv-, blandings- og barskoger samt i åpent lende. De påtreffes sjelden på grove trestammer eller på bar jord. De danner fruktlegemer fra forsommeren til senhøstes i Europa, og fra våren gjennom høsten i Nord-Amerika, eller gjennom hele vinteren i varmere klima.",
+      confusion: "Arter av brødkorvsopper (Cyathus) har en trelags vegg, mangler det gule til oransje lokket og er hos unge fruktlegemer i stedet lukket av en tynn hvit hinne; værbitte eksemplarer av Cyathus (Cyathus) der den hårete utsiden er slitt bort forveksles lett med denne arten. Crucibulum parvulum (Crucibulum parvulum) er mindre, 1,5–3 mm bred ved munningen og aldri gul. Slekten Nidula (Nidula) mangler strengen som fester peridiolene. Erterede (Nidularia deformis) mangler lokk og blir mørkebrun med alderen.",
+      notes: "Regndråper, eller vann som drypper fra et overhengende blad, spruter peridiolene ut av begeret. De glatte innerveggene heller i cirka 70–75° vinkel mot horisontalplanet, noe som gir en god spruteffekt. Peridiolene har en tendens til å klistre seg fast til nærliggende vegetasjon, der planteetere kan spise dem og spre sporene. I flytende kultur danner soppen salfrediner, forbindelser som hemmer enzymet aldosereduktase."
     },
     sv: {
       description: "En mycket liten saprotrof brödkorgssvamp på kvistar, träflis och växtrester, med en cirkumpolär-tempererad utbredning: noterad över större delen av Europa, inklusive Slovakien och Kanarieöarna, från Alaska till Mexiko i Nordamerika, i Chile och Eldslandet samt på Island, i Japan, Australien och Nya Zeeland.",
@@ -90698,6 +90683,3081 @@ export const CATALOG = [
       "Lentinus magnus Peck",
       "Lentinus platensis Speg.",
       "Lentinus spretus Peck"
+    ]
+  },
+  {
+    id: 108,
+    name: "Helvella crispa",
+    author: "(Scop.) Fr.",
+    family: "Helvellaceae",
+    genus: "Helvella",
+    order: "Pezizales",
+    edibility: "poisonous",
+    hymenium: "smooth",
+    where: ["ground"],
+    color: ["white"],
+    path: [
+      "Fungi",
+      "Dikarya",
+      "Ascomycota",
+      "Pezizomycotina",
+      "Pezizomycetes",
+      "Pezizomycetidae",
+      "Pezizales",
+      "Helvellaceae",
+      "Helvella"
+    ],
+    summary: ["Pezizales", "Helvellaceae", "Helvella"],
+    added: "2026-11-04",
+    plate: STORAGE + "photos/Pezizales/Helvellaceae/Helvella_crispa/Helvella_crispa@1600.webp",
+    plateGrid: STORAGE + "photos/Pezizales/Helvellaceae/Helvella_crispa/Helvella_crispa@400.webp",
+    plateCredit: {
+      author: "Léon Dufour",
+      license: "public domain",
+      source: "https://commons.wikimedia.org/wiki/File:Atlas_des_champignons_comestibles_et_v%C3%A9n%C3%A9neux_(Planche_79)_(6358032517).jpg"
+    },
+    photos: [
+      {
+        src: STORAGE + "photos/Pezizales/Helvellaceae/Helvella_crispa/hcp1.webp",
+        author: "Jean-Pol GRANDMONT",
+        license: "CC BY 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:0_Helvella_crispa_-_Havr%C3%A9_(1).JPG"
+      },
+      {
+        src: STORAGE + "photos/Pezizales/Helvellaceae/Helvella_crispa/hcp2.webp",
+        author: "Holger Krisp",
+        license: "CC BY 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Herbstlorchel-Helvella_crispa.jpg"
+      },
+      {
+        src: STORAGE + "photos/Pezizales/Helvellaceae/Helvella_crispa/hcp3.webp",
+        author: "Bildkreateur",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Herbst-Lorchel_(Helvella_crispa).jpg"
+      },
+      {
+        src: STORAGE + "photos/Pezizales/Helvellaceae/Helvella_crispa/hcp4.webp",
+        author: "Agnes Monkelbaan",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Witte_kluifzwam_(Helvella_Crispa)._Locatie,_Hortus_(Haren,_Groningen)_002.jpg"
+      },
+      {
+        src: STORAGE + "photos/Pezizales/Helvellaceae/Helvella_crispa/hcp5.webp",
+        author: "abumadsen",
+        license: "CC0",
+        licenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/",
+        source: "https://commons.wikimedia.org/wiki/File:Helvella_crispa_167563577.jpg"
+      },
+      {
+        src: STORAGE + "photos/Pezizales/Helvellaceae/Helvella_crispa/hcp6.webp",
+        author: "Svencapoeira",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Valge_helvell1.jpg"
+      }
+    ],
+    capFrom: 2,
+    capTo: 6,
+    stipeHeightFrom: 3,
+    stipeHeightTo: 10,
+    stipeThickFrom: 1,
+    stipeThickTo: 3,
+    fruitingFrom: 7,
+    fruitingTo: 11,
+    label: {
+      en: "white saddle",
+      sk: "chriapač kučeravý",
+      zh: "皱马鞍菌",
+      hr: "jesenski hrčak",
+      cs: "chřapáč kadeřavý",
+      da: "kruset foldhat",
+      nl: "witte kluifzwam",
+      et: "valge helvell",
+      fi: "valkomörsky",
+      fr: "helvelle crépue",
+      de: "Herbst-Lorchel",
+      hu: "fodros papsapkagomba",
+      ja: "ノボリリュウ",
+      lv: "krokainais rumpucis",
+      lt: "garbanotoji alvytė",
+      no: "lys høstmorkel",
+      pl: "piestrzyca kędzierzawa",
+      ro: "mitră tomnatică",
+      ru: "лопастник курчавый",
+      sr: "јесењи хрчак",
+      sl: "jesenski loputar",
+      es: "oreja de gato blanca",
+      sv: "vit hattmurkla",
+      uk: "гельвела кучерява"
+    },
+    names: {
+      en: ["fluted white elfin saddle", "elfin saddle", "common helvel"],
+      hr: ["jesenji hrčak", "kovrčavi hrčak"],
+      de: ["Krause Lorchel"],
+      ja: ["ノボリリュウタケ"],
+      no: ["lys haustmorkel"],
+      ro: ["zbârciog creț"],
+      ru: ["гельвелла курчавая"],
+      sr: ["јесења јамичарка"],
+      es: ["oreja de gato"]
+    },
+    text: {
+      en: {
+        description: "A pale autumn ascomycete with an irregular, saddle-shaped cap of two to four lobes on a deeply furrowed, ribbed white stipe. It grows on soil in deciduous and mixed woods, often beside paths and at woodland edges. Although it was once eaten after boiling, it is now regarded as poisonous.",
+        cap: "The cap is 2–6 cm across, saddle-shaped with two to four lobes, irregularly folded and wavy, with the margin free from the stipe and the lobes often curled downwards. The upper surface is smooth to wrinkled and white, cream or pale ochre. The underside is whitish and finely downy.",
+        hymenium: "The spore-bearing layer covers the upper surface of the cap. It is smooth to slightly wrinkled and has no gills, pores or pits. The asci each contain eight spores.",
+        stipe: "The stipe is 3–10 cm tall and 1–3 cm thick, white to cream, often widening towards the base. It is deeply grooved by sharp longitudinal ribs, and a section shows several hollow chambers inside.",
+        flesh: "The flesh is thin and brittle in the cap and waxy to elastic in the stipe, whitish, with a mild taste and a faint mushroomy smell.",
+        sporePrint: "The spore print is white. The spores are elliptical, smooth and colourless, with one large central oil drop, about 16–20 × 10–12 µm.",
+        habitat: "It grows on soil, singly or in small groups, in deciduous and mixed woods, often under beech and oak, and also in parks, along paths and on grassy verges. Fruitbodies appear from July to November. It is widespread in Europe and also occurs in Asia and North America.",
+        uses: "Older literature and some regional guides describe it as edible after boiling and discarding the water, or after drying, but it is now regarded as poisonous. It is suspected of containing gyromitrin-like compounds that release monomethylhydrazine, and raw or undercooked fruitbodies have caused digestive upsets. It should not be eaten.",
+        confusion: "Helvella lacunosa has a grey to black cap and a greyish ribbed stipe, but its pale forms can look similar. Helvella lactea is smaller, creamy white, with a less deeply furrowed stipe. Gyromitra infula has a reddish-brown, brain-like cap and a smooth, unribbed stipe. Morchella species have a cap covered with honeycomb-like pits and fruit in spring.",
+        notes: "Giovanni Antonio Scopoli described it in 1772 as Phallus crispus, and Elias Magnus Fries moved it to Helvella in 1822. The epithet crispa means curled or crisped and refers to the wavy cap. It is one of the most frequently found Helvella species in Europe."
+      },
+      sk: {
+        description: "Svetlá jesenná vreckatá huba s nepravidelným, sedlovitým klobúkom s dvoma až štyrmi lalokmi na hlboko brázdenom, rebrovanom bielom hlúbiku. Rastie na zemi v listnatých a zmiešaných lesoch, často pri cestách a na okrajoch lesov. Kedysi sa jedávala po prevarení, dnes sa považuje za jedovatú.",
+        cap: "Klobúk má 2–6 cm, je sedlovitý s dvoma až štyrmi lalokmi, nepravidelne zprehýbaný a zvlnený, okraj nie je prirastený k hlúbiku a laloky sú často podvinuté nadol. Horný povrch je hladký až zvráskavený, biely, krémový alebo svetloochrový. Spodná strana je belavá a jemne plstnatá.",
+        hymenium: "Výtrusorodá vrstva pokrýva horný povrch klobúka. Je hladká až mierne zvráskavená a nemá lupene, rúrky ani jamky. Každé vrecúško obsahuje osem výtrusov.",
+        stipe: "Hlúbik je 3–10 cm vysoký a 1–3 cm hrubý, biely až krémový, často sa k báze rozširuje. Je hlboko brázdený ostrými pozdĺžnymi rebrami a na reze sú vidieť viaceré duté komôrky.",
+        flesh: "Dužina je v klobúku tenká a krehká, v hlúbiku voskovitá až pružná, belavá, s miernou chuťou a slabou hubovou vôňou.",
+        sporePrint: "Výtrusný prach je biely. Výtrusy sú elipsoidné, hladké a bezfarebné, s jednou veľkou centrálnou olejovou kvapkou, približne 16–20 × 10–12 µm.",
+        habitat: "Rastie na zemi jednotlivo alebo v malých skupinách v listnatých a zmiešaných lesoch, často pod bukmi a dubmi, aj v parkoch, pri cestách a na trávnatých okrajoch. Plodnice sa objavujú od júla do novembra. Je rozšírená v Európe a vyskytuje sa aj v Ázii a Severnej Amerike.",
+        uses: "Staršia literatúra a niektoré regionálne atlasy ju uvádzajú ako jedlú po prevarení a vyliatí vody alebo po usušení, dnes sa však považuje za jedovatú. Je podozrivá z obsahu látok podobných gyromitrínu, z ktorých vzniká monometylhydrazín, a surové alebo nedostatočne tepelne upravené plodnice spôsobili tráviace ťažkosti. Nemala by sa jesť.",
+        confusion: "Helvella lacunosa má sivý až čierny klobúk a sivastý rebrovaný hlúbik, jej svetlé formy však môžu vyzerať podobne. Helvella lactea je menšia, krémovobiela, s menej hlboko brázdeným hlúbikom. Gyromitra infula má červenohnedý, mozgovito zvlnený klobúk a hladký, nerebrovaný hlúbik. Druhy rodu Morchella majú klobúk pokrytý jamkami ako plást a rastú na jar.",
+        notes: "Giovanni Antonio Scopoli ju opísal v roku 1772 ako Phallus crispus a Elias Magnus Fries ju v roku 1822 preradil do rodu Helvella. Druhový prívlastok crispa znamená kučeravý a vzťahuje sa na zvlnený klobúk. Patrí k najčastejšie nachádzaným druhom rodu Helvella v Európe."
+      },
+      ar: {
+        description: "فطر زقي خريفي فاتح اللون، له قبعة غير منتظمة على شكل سرج بفصين إلى أربعة فصوص، فوق ساق بيضاء مضلعة ذات أخاديد عميقة. ينمو على التربة في الغابات المتساقطة الأوراق والمختلطة، وغالبًا بجانب الممرات وعلى أطراف الغابات. كان يؤكل قديمًا بعد السلق، لكنه يُعدّ اليوم سامًّا.",
+        cap: "يبلغ قطر القبعة ٢–٦ سم، وهي سرجية الشكل بفصين إلى أربعة فصوص، مطوية ومتموجة بشكل غير منتظم، وحافتها غير ملتصقة بالساق، وكثيرًا ما تنثني الفصوص إلى الأسفل. السطح العلوي أملس إلى مجعد، أبيض أو قشدي أو مغرّي فاتح. أما السطح السفلي فمبيضّ وزغبي ناعم.",
+        hymenium: "تغطي الطبقة الحاملة للأبواغ السطح العلوي للقبعة. وهي ملساء إلى مجعدة قليلًا، بلا صفائح ولا مسام ولا حفر. يحتوي كل زق على ثمانية أبواغ.",
+        stipe: "يبلغ طول الساق ٣–١٠ سم وسمكها ١–٣ سم، وهي بيضاء إلى قشدية، وغالبًا ما تتسع نحو القاعدة. تشقها أخاديد عميقة بين أضلاع طولية حادة، ويظهر في مقطعها عدة حجرات مجوفة.",
+        flesh: "اللحم رقيق وهش في القبعة، وشمعي إلى مرن في الساق، مبيضّ، طعمه معتدل ورائحته فطرية خفيفة.",
+        sporePrint: "بصمة الأبواغ بيضاء. الأبواغ إهليلجية ملساء عديمة اللون، فيها قطرة زيتية كبيرة في الوسط، ويبلغ حجمها نحو ١٦–٢٠ × ١٠–١٢ ميكرومتر.",
+        habitat: "ينمو على التربة منفردًا أو في مجموعات صغيرة في الغابات المتساقطة الأوراق والمختلطة، وغالبًا تحت الزان والبلوط، وكذلك في الحدائق وعلى جوانب الممرات والحواف العشبية. تظهر الأجسام الثمرية من يوليو إلى نوفمبر. وهو واسع الانتشار في أوروبا، ويوجد أيضًا في آسيا وأمريكا الشمالية.",
+        uses: "تصفه المراجع القديمة وبعض الأدلة المحلية بأنه صالح للأكل بعد سلقه والتخلص من الماء أو بعد تجفيفه، لكنه يُعدّ اليوم سامًّا. إذ يُشتبه في احتوائه على مركبات شبيهة بالجيرومترين تطلق مونوميثيل هيدرازين، وقد سببت الأجسام الثمرية النيئة أو غير المطهوة جيدًا اضطرابات هضمية. لا ينبغي أكله.",
+        confusion: "لدى Helvella lacunosa قبعة رمادية إلى سوداء وساق مضلعة رمادية، لكن أشكالها الفاتحة قد تبدو مشابهة. أما Helvella lactea فأصغر، بيضاء قشدية، وساقها أقل عمقًا في الأخاديد. ولدى Gyromitra infula قبعة بنية محمرة متعرجة كالدماغ وساق ملساء غير مضلعة. وأنواع Morchella قبعتها مغطاة بحفر تشبه خلايا النحل وتظهر في الربيع.",
+        notes: "وصفه جوفاني أنطونيو سكوبولي عام ١٧٧٢ باسم Phallus crispus، ونقله إلياس ماغنوس فريز إلى الجنس Helvella عام ١٨٢٢. يعني النعت crispa «المجعّد» أو «المتموّج» ويشير إلى القبعة المتموجة. وهو من أكثر أنواع Helvella مصادفةً في أوروبا."
+      },
+      bg: {
+        description: "Светла есенна торбеста гъба с неправилна, седловидна шапка с два до четири дяла върху дълбоко набраздено, оребрено бяло пънче. Расте на почва в широколистни и смесени гори, често покрай пътеки и по горски окрайнини. Някога се е яла след сваряване, но днес се смята за отровна.",
+        cap: "Шапката е 2–6 cm, седловидна с два до четири дяла, неправилно нагъната и вълниста, като ръбът не е сраснат с пънчето, а дяловете често са подвити надолу. Горната повърхност е гладка до набръчкана, бяла, кремава или бледоохрена. Долната страна е белезникава и фино мъхеста.",
+        hymenium: "Спороносният слой покрива горната повърхност на шапката. Той е гладък до леко набръчкан, без пластинки, тръбици или ямки. Всяка торбичка съдържа осем спори.",
+        stipe: "Пънчето е 3–10 cm високо и 1–3 cm дебело, бяло до кремаво, често разширено към основата. Дълбоко е набраздено от остри надлъжни ребра, а в разрез се виждат няколко кухи камери.",
+        flesh: "Месото е тънко и крехко в шапката, восъчно до еластично в пънчето, белезникаво, с мек вкус и слаб гъбен мирис.",
+        sporePrint: "Споровият отпечатък е бял. Спорите са елипсовидни, гладки и безцветни, с една голяма централна маслена капка, около 16–20 × 10–12 µm.",
+        habitat: "Расте на почва единично или на малки групи в широколистни и смесени гори, често под бук и дъб, също в паркове, покрай пътеки и по тревисти краища. Плодните тела се появяват от юли до ноември. Разпространена е в Европа и се среща също в Азия и Северна Америка.",
+        uses: "По-старата литература и някои регионални справочници я описват като ядлива след сваряване и изхвърляне на водата или след сушене, но днес се смята за отровна. Подозира се, че съдържа подобни на гиромитрина съединения, които освобождават монометилхидразин, а сурови или недостатъчно сготвени плодни тела са причинявали храносмилателни разстройства. Не бива да се яде.",
+        confusion: "Helvella lacunosa има сива до черна шапка и сивкаво оребрено пънче, но светлите ѝ форми могат да изглеждат сходно. Helvella lactea е по-дребна, кремавобяла, с по-плитко набраздено пънче. Gyromitra infula има червенокафява, мозъчно нагъната шапка и гладко, неоребрено пънче. Видовете Morchella имат шапка, покрита с ямки като пчелна пита, и плододават през пролетта.",
+        notes: "Джовани Антонио Скополи я описва през 1772 г. като Phallus crispus, а Елиас Магнус Фрис я премества в рода Helvella през 1822 г. Видовият епитет crispa означава къдрав и се отнася до вълнистата шапка. Тя е един от най-често срещаните видове Helvella в Европа."
+      },
+      zh: {
+        description: "一种浅色的秋季子囊菌，菌盖不规则，呈马鞍形，具二至四瓣，着生于具深沟和棱脊的白色菌柄上。生于阔叶林和混交林的土壤上，常见于小路旁和林缘。过去曾有人煮后食用，但现在被视为有毒。",
+        cap: "菌盖宽2–6厘米，马鞍形，具二至四瓣，不规则折叠并呈波状，边缘与菌柄分离，裂瓣常向下卷曲。上表面平滑至有皱纹，白色、奶油色或浅赭色。下表面污白色，被细绒毛。",
+        hymenium: "产孢层覆盖菌盖上表面，平滑至略有皱纹，无菌褶、菌孔或凹坑。每个子囊含八枚孢子。",
+        stipe: "菌柄高3–10厘米，粗1–3厘米，白色至奶油色，常向基部变粗。表面具锐利的纵向棱脊和深沟，切面可见数个中空的腔室。",
+        flesh: "菌肉在菌盖中薄而脆，在菌柄中呈蜡质至有弹性，污白色，味道温和，有淡淡的蘑菇气味。",
+        sporePrint: "孢子印白色。孢子椭圆形，光滑，无色，中央有一个大油滴，约16–20 × 10–12微米。",
+        habitat: "单生或小群生于阔叶林和混交林的土壤上，常见于山毛榉和栎树下，也见于公园、小路旁和草地边缘。子实体于7月至11月出现。广布于欧洲，亚洲和北美洲也有分布。",
+        uses: "较早的文献和一些地方图鉴称其煮沸弃水或干燥后可食，但现在被视为有毒。它被怀疑含有类似鹿花菌素的化合物，可释放甲基肼，生食或未煮透的子实体曾引起消化不适。不应食用。",
+        confusion: "Helvella lacunosa的菌盖灰色至黑色，菌柄带灰色并有棱脊，但其浅色型可能与本种相似。Helvella lactea较小，乳白色，菌柄沟纹较浅。Gyromitra infula的菌盖红褐色、呈脑状褶皱，菌柄平滑无棱。Morchella属的种类菌盖布满蜂窝状凹坑，于春季出菇。",
+        notes: "斯科波利于1772年将其描述为Phallus crispus，弗里斯于1822年将其移入Helvella属。种加词crispa意为“卷曲的”，指其波状的菌盖。它是欧洲最常见的Helvella属物种之一。"
+      },
+      hr: {
+        description: "Svijetla jesenska mješinarka s nepravilnim, sedlastim klobukom od dva do četiri režnja na duboko izbrazdanom, narebranom bijelom stručku. Raste na tlu u bjelogoričnim i mješovitim šumama, često uz putove i na rubovima šuma. Nekad se jela nakon kuhanja, no danas se smatra otrovnom.",
+        cap: "Klobuk je širok 2–6 cm, sedlast s dva do četiri režnja, nepravilno naboran i valovit; rub nije srastao sa stručkom, a režnjevi su često savijeni prema dolje. Gornja površina je glatka do naborana, bijela, krem ili svijetlo okerasta. Donja strana je bjelkasta i fino baršunasta.",
+        hymenium: "Sloj koji nosi spore prekriva gornju površinu klobuka. Gladak je do blago naboran i nema listića, cjevčica ni jamica. Svaki askus sadrži osam spora.",
+        stipe: "Stručak je visok 3–10 cm i debeo 1–3 cm, bijel do krem, često proširen prema dnu. Duboko je izbrazdan oštrim uzdužnim rebrima, a na presjeku se vidi nekoliko šupljih komorica.",
+        flesh: "Meso je tanko i krhko u klobuku, voštano do elastično u stručku, bjelkasto, blagog okusa i slabog mirisa na gljive.",
+        sporePrint: "Otrusina je bijela. Spore su eliptične, glatke i bezbojne, s jednom velikom središnjom uljnom kapljicom, oko 16–20 × 10–12 µm.",
+        habitat: "Raste na tlu pojedinačno ili u manjim skupinama u bjelogoričnim i mješovitim šumama, često ispod bukve i hrasta, a i u parkovima, uz putove i na travnatim rubovima. Plodna tijela pojavljuju se od srpnja do studenoga. Raširena je u Europi, a nalazi se i u Aziji i Sjevernoj Americi.",
+        uses: "Starija literatura i neki regionalni priručnici navode je kao jestivu nakon kuhanja i bacanja vode ili nakon sušenja, no danas se smatra otrovnom. Sumnja se da sadrži spojeve slične giromitrinu koji oslobađaju monometilhidrazin, a sirova ili nedovoljno kuhana plodna tijela uzrokovala su probavne smetnje. Ne treba je jesti.",
+        confusion: "Helvella lacunosa ima sivi do crni klobuk i sivkast narebran stručak, ali njezini svijetli oblici mogu izgledati slično. Helvella lactea je manja, krem bijela, s pliće izbrazdanim stručkom. Gyromitra infula ima crvenkastosmeđi, mozgasto naborani klobuk i gladak, nenarebran stručak. Vrste roda Morchella imaju klobuk prekriven jamicama poput saća i rastu u proljeće.",
+        notes: "Giovanni Antonio Scopoli opisao ju je 1772. kao Phallus crispus, a Elias Magnus Fries premjestio ju je u rod Helvella 1822. Epitet crispa znači kovrčav i odnosi se na valoviti klobuk. Jedna je od najčešće nalaženih vrsta roda Helvella u Europi."
+      },
+      cs: {
+        description: "Světlá podzimní vřeckovýtrusná houba s nepravidelným, sedlovitým kloboukem o dvou až čtyřech lalocích na hluboce brázditém, žebernatém bílém třeni. Roste na zemi v listnatých a smíšených lesích, často u cest a na okrajích lesů. Dříve se jídala po povaření, dnes je považována za jedovatou.",
+        cap: "Klobouk měří 2–6 cm, je sedlovitý se dvěma až čtyřmi laloky, nepravidelně zprohýbaný a zvlněný; okraj není přirostlý k třeni a laloky bývají ohrnuté dolů. Svrchní povrch je hladký až vrásčitý, bílý, krémový nebo světle okrový. Spodní strana je bělavá a jemně plstnatá.",
+        hymenium: "Výtrusorodá vrstva pokrývá svrchní povrch klobouku. Je hladká až mírně vrásčitá a nemá lupeny, rourky ani jamky. Každé vřecko obsahuje osm výtrusů.",
+        stipe: "Třeň je 3–10 cm vysoký a 1–3 cm tlustý, bílý až krémový, často se k bázi rozšiřuje. Je hluboce brázditý ostrými podélnými žebry a na řezu je vidět několik dutých komůrek.",
+        flesh: "Dužnina je v klobouku tenká a křehká, v třeni voskovitá až pružná, bělavá, mírné chuti a slabé houbové vůně.",
+        sporePrint: "Výtrusný prach je bílý. Výtrusy jsou elipsoidní, hladké a bezbarvé, s jednou velkou centrální olejovou kapkou, asi 16–20 × 10–12 µm.",
+        habitat: "Roste na zemi jednotlivě nebo v malých skupinách v listnatých a smíšených lesích, často pod buky a duby, také v parcích, u cest a na travnatých okrajích. Plodnice se objevují od července do listopadu. Je rozšířena v Evropě a vyskytuje se i v Asii a Severní Americe.",
+        uses: "Starší literatura a některé regionální atlasy ji uvádějí jako jedlou po povaření a slití vody nebo po usušení, dnes je však považována za jedovatou. Je podezřelá z obsahu látek podobných gyromitrinu, z nichž vzniká monomethylhydrazin, a syrové nebo nedostatečně tepelně upravené plodnice způsobily zažívací potíže. Neměla by se jíst.",
+        confusion: "Helvella lacunosa má šedý až černý klobouk a šedavý žebernatý třeň, její světlé formy však mohou vypadat podobně. Helvella lactea je menší, krémově bílá, s méně hluboce brázditým třeněm. Gyromitra infula má červenohnědý, mozkovitě zprohýbaný klobouk a hladký, nežebernatý třeň. Druhy rodu Morchella mají klobouk pokrytý jamkami jako plástev a rostou na jaře.",
+        notes: "Giovanni Antonio Scopoli ji popsal roku 1772 jako Phallus crispus a Elias Magnus Fries ji roku 1822 přeřadil do rodu Helvella. Druhové jméno crispa znamená kadeřavý a vztahuje se ke zvlněnému klobouku. Patří k nejčastěji nalézaným druhům rodu Helvella v Evropě."
+      },
+      da: {
+        description: "En lys sæksvamp fra efteråret med en uregelmæssig, sadelformet hat med to til fire lapper på en dybt furet, ribbet hvid stok. Den vokser på jord i løv- og blandskov, ofte langs stier og ved skovbryn. Den blev tidligere spist efter kogning, men regnes i dag for giftig.",
+        cap: "Hatten er 2–6 cm bred, sadelformet med to til fire lapper, uregelmæssigt foldet og bølget; randen er fri af stokken, og lapperne er ofte bøjet nedad. Oversiden er glat til rynket, hvid, cremefarvet eller lyst okker. Undersiden er hvidlig og fint dunet.",
+        hymenium: "Det sporebærende lag dækker hattens overside. Det er glat til let rynket og har ingen lameller, rør eller gruber. Hver sæk indeholder otte sporer.",
+        stipe: "Stokken er 3–10 cm høj og 1–3 cm tyk, hvid til cremefarvet og ofte udvidet mod basis. Den er dybt furet af skarpe langsgående ribber, og i snit ses flere hule kamre.",
+        flesh: "Kødet er tyndt og skørt i hatten, voksagtigt til elastisk i stokken, hvidligt, med mild smag og svag svampelugt.",
+        sporePrint: "Sporepulveret er hvidt. Sporerne er elliptiske, glatte og farveløse med én stor central oliedråbe, ca. 16–20 × 10–12 µm.",
+        habitat: "Den vokser på jord enkeltvis eller i små grupper i løv- og blandskov, ofte under bøg og eg, og også i parker, langs stier og på græsklædte rabatter. Frugtlegemerne kommer fra juli til november. Arten er udbredt i Europa og findes også i Asien og Nordamerika.",
+        uses: "Ældre litteratur og nogle regionale svampebøger beskriver den som spiselig efter kogning, hvor vandet hældes fra, eller efter tørring, men i dag regnes den for giftig. Den mistænkes for at indeholde gyromitrinlignende stoffer, der frigiver monomethylhydrazin, og rå eller utilstrækkeligt tilberedte frugtlegemer har givet maveproblemer. Den bør ikke spises.",
+        confusion: "Helvella lacunosa har grå til sort hat og gråligt ribbet stok, men lyse former kan ligne. Helvella lactea er mindre, cremehvid og har en mindre dybt furet stok. Gyromitra infula har rødbrun, hjernelignende foldet hat og glat stok uden ribber. Morchella-arter har en hat dækket af bikagelignende gruber og kommer om foråret.",
+        notes: "Giovanni Antonio Scopoli beskrev den i 1772 som Phallus crispus, og Elias Magnus Fries flyttede den til Helvella i 1822. Artsnavnet crispa betyder kruset og hentyder til den bølgede hat. Den er en af de hyppigst fundne Helvella-arter i Europa."
+      },
+      nl: {
+        description: "Een lichte herfstzakjeszwam met een onregelmatige, zadelvormige hoed met twee tot vier lobben op een diep gegroefde, geribde witte steel. Hij groeit op de grond in loof- en gemengde bossen, vaak langs paden en aan bosranden. Vroeger werd hij na koken gegeten, maar tegenwoordig geldt hij als giftig.",
+        cap: "De hoed is 2–6 cm breed, zadelvormig met twee tot vier lobben, onregelmatig geplooid en golvend; de rand is niet met de steel vergroeid en de lobben zijn vaak naar beneden omgebogen. De bovenkant is glad tot gerimpeld, wit, crème of licht oker. De onderkant is witachtig en fijn donzig.",
+        hymenium: "De sporendragende laag bedekt de bovenkant van de hoed. Hij is glad tot licht gerimpeld en heeft geen plaatjes, buisjes of putjes. Elke ascus bevat acht sporen.",
+        stipe: "De steel is 3–10 cm hoog en 1–3 cm dik, wit tot crème en verbreedt vaak naar de voet. Hij is diep gegroefd door scherpe lengteribben, en in doorsnede zijn meerdere holle kamers te zien.",
+        flesh: "Het vlees is dun en breekbaar in de hoed, wasachtig tot elastisch in de steel, witachtig, met een zachte smaak en een zwakke paddenstoelengeur.",
+        sporePrint: "De sporenprint is wit. De sporen zijn elliptisch, glad en kleurloos, met één grote centrale oliedruppel, ongeveer 16–20 × 10–12 µm.",
+        habitat: "Hij groeit op de grond, alleen of in kleine groepjes, in loof- en gemengde bossen, vaak onder beuk en eik, en ook in parken, langs paden en in grazige bermen. Vruchtlichamen verschijnen van juli tot november. Hij is wijdverbreid in Europa en komt ook voor in Azië en Noord-Amerika.",
+        uses: "Oudere literatuur en sommige regionale gidsen noemen hem eetbaar na koken met weggieten van het water of na drogen, maar tegenwoordig geldt hij als giftig. Hij wordt verdacht van het bevatten van gyromitrine-achtige stoffen die monomethylhydrazine vrijmaken, en rauwe of onvoldoende verhitte vruchtlichamen hebben maag-darmklachten veroorzaakt. Hij moet niet gegeten worden.",
+        confusion: "Helvella lacunosa heeft een grijze tot zwarte hoed en een grijzige geribde steel, maar lichte vormen kunnen erop lijken. Helvella lactea is kleiner, crèmewit, met een minder diep gegroefde steel. Gyromitra infula heeft een roodbruine, hersenachtig geplooide hoed en een gladde steel zonder ribben. Morchella-soorten hebben een hoed vol honingraatachtige putjes en verschijnen in het voorjaar.",
+        notes: "Giovanni Antonio Scopoli beschreef hem in 1772 als Phallus crispus, en Elias Magnus Fries plaatste hem in 1822 in het geslacht Helvella. De soortnaam crispa betekent gekruld en verwijst naar de golvende hoed. Het is een van de vaakst gevonden Helvella-soorten in Europa."
+      },
+      et: {
+        description: "Hele sügisene kottseen, millel on ebakorrapärane, sadulakujuline kahe- kuni neljahõlmaline kübar sügavalt vagusel, roietega valgel jalal. Kasvab mullal leht- ja segametsades, sageli radade ääres ja metsaservadel. Varem söödi seda pärast keetmist, kuid tänapäeval peetakse seda mürgiseks.",
+        cap: "Kübar on 2–6 cm lai, sadulakujuline kahe kuni nelja hõlmaga, ebakorrapäraselt volditud ja laineline; serv ei ole jalaga kokku kasvanud ning hõlmad on sageli allapoole keerdunud. Pealmine pind on sile kuni kortsus, valge, kreemjas või kahvatu ookerjas. Alumine pind on valkjas ja peenelt udemeline.",
+        hymenium: "Eoseid kandev kiht katab kübara pealmise pinna. See on sile kuni kergelt kortsus ning sel ei ole lehekesi, torukesi ega süvendeid. Igas kotis on kaheksa eost.",
+        stipe: "Jalg on 3–10 cm kõrge ja 1–3 cm jäme, valge kuni kreemjas, sageli alusel laienev. See on sügavate vagudega teravate pikiroiete vahel ning lõikes on näha mitu õõnsat kambrit.",
+        flesh: "Viljaliha on kübaras õhuke ja habras, jalas vahajas kuni elastne, valkjas, mahe maitsega ja nõrga seenelõhnaga.",
+        sporePrint: "Eospulber on valge. Eosed on elliptilised, siledad ja värvitud, ühe suure keskse õlitilgaga, umbes 16–20 × 10–12 µm.",
+        habitat: "Kasvab mullal üksikult või väikeste rühmadena leht- ja segametsades, sageli pöökide ja tammede all, samuti parkides, radade ääres ja rohtunud teeservadel. Viljakehad ilmuvad juulist novembrini. Liik on laialt levinud Euroopas ning esineb ka Aasias ja Põhja-Ameerikas.",
+        uses: "Vanem kirjandus ja mõned piirkondlikud seenetaskuraamatud kirjeldavad seda söödavana pärast keetmist ja vee äravalamist või pärast kuivatamist, kuid tänapäeval peetakse seda mürgiseks. Seda kahtlustatakse güromitriinisarnaste ühendite sisalduses, millest vabaneb monometüülhüdrasiin, ning toored või ebapiisavalt kuumtöödeldud viljakehad on põhjustanud seedehäireid. Seda ei tohiks süüa.",
+        confusion: "Liigil Helvella lacunosa on hall kuni must kübar ja hallikas roietega jalg, kuid selle heledad vormid võivad näida sarnased. Helvella lactea on väiksem, kreemvalge ja vähem sügavate vagudega jalaga. Liigil Gyromitra infula on punakaspruun, ajusarnaselt volditud kübar ja sile, roieteta jalg. Perekonna Morchella liikide kübar on kaetud kärjetaoliste süvenditega ja nad kasvavad kevadel.",
+        notes: "Giovanni Antonio Scopoli kirjeldas seda 1772. aastal nimega Phallus crispus ja Elias Magnus Fries paigutas selle 1822. aastal perekonda Helvella. Liigiepiteet crispa tähendab kähar ja viitab lainelisele kübarale. See on üks sagedamini leitavaid perekonna Helvella liike Euroopas."
+      },
+      fi: {
+        description: "Vaalea syksyinen kotelosieni, jonka epäsäännöllinen, satulamainen lakki on kaksi- tai neliliuskainen ja istuu syvään uurteisen, harjanteisen valkoisen jalan päällä. Se kasvaa maassa lehti- ja sekametsissä, usein polkujen varsilla ja metsänreunoilla. Sitä syötiin aiemmin keitettynä, mutta nykyään sitä pidetään myrkyllisenä.",
+        cap: "Lakki on 2–6 cm leveä, satulamainen ja kahdesta neljään liuskainen, epäsäännöllisesti poimuttunut ja aaltoileva; reuna ei ole kiinnittynyt jalkaan, ja liuskat ovat usein taipuneet alaspäin. Yläpinta on sileä tai ryppyinen, valkoinen, kermanvärinen tai vaalean okra. Alapinta on vaalea ja hienosti nukkainen.",
+        hymenium: "Itiöitä tuottava kerros peittää lakin yläpinnan. Se on sileä tai hieman ryppyinen, eikä siinä ole heltoja, pillejä eikä kuoppia. Jokaisessa kotelossa on kahdeksan itiötä.",
+        stipe: "Jalka on 3–10 cm korkea ja 1–3 cm paksu, valkoinen tai kermanvärinen ja usein tyveä kohti levenevä. Siinä on syviä uurteita terävien pitkittäisten harjanteiden välissä, ja poikkileikkauksessa näkyy useita onttoja kammioita.",
+        flesh: "Malto on lakissa ohut ja hauras, jalassa vahamainen tai kimmoisa, vaalea, maultaan mieto ja hajultaan heikosti sienimäinen.",
+        sporePrint: "Itiöpöly on valkoinen. Itiöt ovat elliptisiä, sileitä ja värittömiä, ja niissä on yksi suuri keskeinen öljypisara; koko noin 16–20 × 10–12 µm.",
+        habitat: "Kasvaa maassa yksittäin tai pieninä ryhminä lehti- ja sekametsissä, usein pyökkien ja tammien alla, sekä puistoissa, polkujen varsilla ja ruohoisilla pientareilla. Itiöemiä on heinäkuusta marraskuuhun. Laji on laajalle levinnyt Euroopassa, ja sitä tavataan myös Aasiassa ja Pohjois-Amerikassa.",
+        uses: "Vanhempi kirjallisuus ja jotkin alueelliset oppaat kuvaavat sitä syötäväksi keitettynä ja keitinvesi kaadettuna tai kuivattuna, mutta nykyään sitä pidetään myrkyllisenä. Sen epäillään sisältävän gyromitriinin kaltaisia yhdisteitä, joista vapautuu monometyylihydratsiinia, ja raa'at tai riittämättömästi kypsennetyt itiöemät ovat aiheuttaneet ruoansulatusvaivoja. Sitä ei pidä syödä.",
+        confusion: "Helvella lacunosalla on harmaa tai musta lakki ja harmahtava harjanteinen jalka, mutta sen vaaleat muodot voivat näyttää samankaltaisilta. Helvella lactea on pienempi, kermanvalkoinen ja sen jalka on matalammin uurteinen. Gyromitra infulalla on punaruskea, aivomaisesti poimuttunut lakki ja sileä, harjanteeton jalka. Morchella-lajien lakki on täynnä hunajakennomaisia kuoppia, ja ne kasvavat keväällä.",
+        notes: "Giovanni Antonio Scopoli kuvasi lajin vuonna 1772 nimellä Phallus crispus, ja Elias Magnus Fries siirsi sen Helvella-sukuun vuonna 1822. Lajinimi crispa tarkoittaa kiharaa ja viittaa aaltoilevaan lakkiin. Se on yksi Euroopan yleisimmin tavattavista Helvella-lajeista."
+      },
+      fr: {
+        description: "Un ascomycète automnal pâle, au chapeau irrégulier en forme de selle à deux à quatre lobes, porté par un pied blanc profondément sillonné et côtelé. Il pousse sur le sol dans les bois de feuillus et les bois mêlés, souvent au bord des chemins et en lisière. Autrefois consommé après cuisson, il est aujourd'hui considéré comme toxique.",
+        cap: "Le chapeau mesure 2–6 cm, en forme de selle à deux à quatre lobes, irrégulièrement plissé et ondulé ; la marge est libre du pied et les lobes sont souvent enroulés vers le bas. La face supérieure est lisse à ridée, blanche, crème ou ocre pâle. La face inférieure est blanchâtre et finement pubescente.",
+        hymenium: "La couche fertile recouvre la face supérieure du chapeau. Elle est lisse à légèrement ridée, sans lames, tubes ni alvéoles. Chaque asque contient huit spores.",
+        stipe: "Le pied mesure 3–10 cm de haut et 1–3 cm d'épaisseur, blanc à crème, souvent élargi vers la base. Il est profondément sillonné de côtes longitudinales aiguës, et une coupe montre plusieurs chambres creuses.",
+        flesh: "La chair est mince et cassante dans le chapeau, cireuse à élastique dans le pied, blanchâtre, à saveur douce et à faible odeur fongique.",
+        sporePrint: "La sporée est blanche. Les spores sont elliptiques, lisses et hyalines, avec une grosse guttule centrale, d'environ 16–20 × 10–12 µm.",
+        habitat: "Il pousse sur le sol, isolé ou en petits groupes, dans les bois de feuillus et les bois mêlés, souvent sous les hêtres et les chênes, ainsi que dans les parcs, au bord des chemins et sur les talus herbeux. Les fructifications apparaissent de juillet à novembre. Il est répandu en Europe et se rencontre aussi en Asie et en Amérique du Nord.",
+        uses: "La littérature ancienne et certains guides régionaux le disent comestible après ébullition avec rejet de l'eau ou après dessiccation, mais il est aujourd'hui considéré comme toxique. On le soupçonne de contenir des composés apparentés à la gyromitrine libérant de la monométhylhydrazine, et des fructifications crues ou insuffisamment cuites ont provoqué des troubles digestifs. Il ne faut pas le consommer.",
+        confusion: "Helvella lacunosa a un chapeau gris à noir et un pied côtelé grisâtre, mais ses formes pâles peuvent sembler proches. Helvella lactea est plus petite, blanc crème, avec un pied moins profondément sillonné. Gyromitra infula a un chapeau brun rougeâtre plissé comme un cerveau et un pied lisse, non côtelé. Les espèces de Morchella ont un chapeau couvert d'alvéoles en nid d'abeilles et fructifient au printemps.",
+        notes: "Giovanni Antonio Scopoli l'a décrit en 1772 sous le nom de Phallus crispus, et Elias Magnus Fries l'a placé dans le genre Helvella en 1822. L'épithète crispa signifie « crépu » et fait allusion au chapeau ondulé. C'est l'une des espèces de Helvella les plus souvent trouvées en Europe."
+      },
+      de: {
+        description: "Ein heller Herbst-Schlauchpilz mit unregelmäßigem, sattelförmigem Hut aus zwei bis vier Lappen auf einem tief gefurchten, gerippten weißen Stiel. Er wächst auf dem Boden in Laub- und Mischwäldern, oft an Wegrändern und Waldsäumen. Früher wurde er nach dem Abkochen gegessen, heute gilt er als giftig.",
+        cap: "Der Hut ist 2–6 cm breit, sattelförmig mit zwei bis vier Lappen, unregelmäßig verbogen und wellig; der Rand ist nicht mit dem Stiel verwachsen, und die Lappen sind oft nach unten eingerollt. Die Oberseite ist glatt bis runzelig, weiß, cremefarben oder blass ocker. Die Unterseite ist weißlich und fein flaumig.",
+        hymenium: "Die sporenbildende Schicht überzieht die Oberseite des Hutes. Sie ist glatt bis leicht runzelig und hat weder Lamellen noch Röhren oder Gruben. Jeder Ascus enthält acht Sporen.",
+        stipe: "Der Stiel ist 3–10 cm hoch und 1–3 cm dick, weiß bis cremefarben und zur Basis hin oft verbreitert. Er ist durch scharfe Längsrippen tief gefurcht, und im Schnitt zeigen sich mehrere hohle Kammern.",
+        flesh: "Das Fleisch ist im Hut dünn und brüchig, im Stiel wachsartig bis elastisch, weißlich, mit mildem Geschmack und schwachem Pilzgeruch.",
+        sporePrint: "Das Sporenpulver ist weiß. Die Sporen sind elliptisch, glatt und farblos, mit einem großen zentralen Öltropfen, etwa 16–20 × 10–12 µm.",
+        habitat: "Er wächst auf dem Boden einzeln oder in kleinen Gruppen in Laub- und Mischwäldern, oft unter Buchen und Eichen, auch in Parks, an Wegrändern und auf grasigen Böschungen. Die Fruchtkörper erscheinen von Juli bis November. Die Art ist in Europa weit verbreitet und kommt auch in Asien und Nordamerika vor.",
+        uses: "Ältere Literatur und manche regionalen Pilzbücher nennen ihn nach Abkochen und Wegschütten des Wassers oder nach dem Trocknen essbar, heute gilt er jedoch als giftig. Er steht im Verdacht, gyromitrinähnliche Verbindungen zu enthalten, die Monomethylhydrazin freisetzen, und rohe oder unzureichend erhitzte Fruchtkörper haben Magen-Darm-Beschwerden verursacht. Er sollte nicht gegessen werden.",
+        confusion: "Helvella lacunosa hat einen grauen bis schwarzen Hut und einen grauen gerippten Stiel, doch helle Formen können ähnlich aussehen. Helvella lactea ist kleiner, cremeweiß und hat einen weniger tief gefurchten Stiel. Gyromitra infula hat einen rotbraunen, hirnartig gefalteten Hut und einen glatten, ungerippten Stiel. Morchella-Arten haben einen mit wabenartigen Gruben bedeckten Hut und erscheinen im Frühjahr.",
+        notes: "Giovanni Antonio Scopoli beschrieb ihn 1772 als Phallus crispus, und Elias Magnus Fries stellte ihn 1822 in die Gattung Helvella. Das Epitheton crispa bedeutet kraus und bezieht sich auf den welligen Hut. Er gehört zu den in Europa am häufigsten gefundenen Helvella-Arten."
+      },
+      he: {
+        description: "פטרייה שקית בהירה של הסתיו, בעלת כובע לא סדיר בצורת אוכף עם שתיים עד ארבע אונות, על רגל לבנה מצולעת עם חריצים עמוקים. גדלה על הקרקע ביערות נשירים ומעורבים, לעיתים קרובות לצד שבילים ובשולי יערות. בעבר נאכלה לאחר הרתחה, אך כיום היא נחשבת רעילה.",
+        cap: "קוטר הכובע 2–6 ס״מ, בצורת אוכף עם שתיים עד ארבע אונות, מקופל וגלי באופן לא סדיר; השוליים אינם מחוברים לרגל, והאונות נכפפות לעיתים קרובות כלפי מטה. הצד העליון חלק עד מקומט, לבן, קרם או אוקר בהיר. הצד התחתון לבנבן ומכוסה פלומה עדינה.",
+        hymenium: "השכבה הנושאת נבגים מכסה את הצד העליון של הכובע. היא חלקה עד מקומטת מעט, ללא למלות, צינוריות או גומות. כל שקית מכילה שמונה נבגים.",
+        stipe: "גובה הרגל 3–10 ס״מ ועוביה 1–3 ס״מ, לבנה עד קרם, ולעיתים מתרחבת לכיוון הבסיס. היא חרוצה עמוק בין צלעות אורכיות חדות, ובחתך נראים כמה חללים ריקים.",
+        flesh: "הבשר דק ושביר בכובע, שעוותי עד גמיש ברגל, לבנבן, בעל טעם מתון וריח פטרייתי קלוש.",
+        sporePrint: "טביעת הנבגים לבנה. הנבגים אליפטיים, חלקים וחסרי צבע, עם טיפת שמן מרכזית גדולה אחת, כ־16–20 × 10–12 מיקרומטר.",
+        habitat: "גדלה על הקרקע, בודדת או בקבוצות קטנות, ביערות נשירים ומעורבים, לעיתים קרובות מתחת לאשורים ולאלונים, וכן בפארקים, לצד שבילים ובשוליים מכוסי עשב. גופי הפרי מופיעים מיולי עד נובמבר. המין נפוץ באירופה ומצוי גם באסיה ובצפון אמריקה.",
+        uses: "ספרות ישנה וכמה מדריכים אזוריים מתארים אותה כאכילה לאחר הרתחה ושפיכת המים או לאחר ייבוש, אך כיום היא נחשבת רעילה. יש חשד שהיא מכילה תרכובות דמויות גירומיטרין המשחררות מונומתילהידרזין, וגופי פרי נאים או מבושלים חלקית גרמו להפרעות עיכול. אין לאכול אותה.",
+        confusion: "ל־Helvella lacunosa כובע אפור עד שחור ורגל מצולעת אפרפרה, אך צורותיה הבהירות עשויות להיראות דומות. Helvella lactea קטנה יותר, לבנה־קרם, ורגלה חרוצה פחות עמוק. ל־Gyromitra infula כובע חום־אדמדם המקופל כמוח ורגל חלקה ללא צלעות. למיני Morchella כובע מכוסה גומות כחלת דבש, והם מופיעים באביב.",
+        notes: "ג׳ובאני אנטוניו סקופולי תיאר אותה בשנת 1772 בשם Phallus crispus, ואליאס מגנוס פריס העביר אותה לסוג Helvella בשנת 1822. שם המין crispa פירושו מסולסל, והוא מתייחס לכובע הגלי. זהו אחד ממיני Helvella הנמצאים בתדירות הגבוהה ביותר באירופה."
+      },
+      hi: {
+        description: "शरद ऋतु का एक हल्के रंग का ऐस्कोमाइसीट कवक, जिसकी अनियमित, काठी जैसी टोपी में दो से चार पालियाँ होती हैं और यह गहरी खाँचों वाले, धारीदार सफ़ेद डंठल पर टिकी होती है। यह पर्णपाती और मिश्रित वनों में मिट्टी पर, अक्सर पगडंडियों के किनारे और वन-सीमाओं पर उगता है। पहले इसे उबालकर खाया जाता था, पर अब इसे विषैला माना जाता है।",
+        cap: "टोपी 2–6 सेमी चौड़ी, दो से चार पालियों वाली काठी जैसी, अनियमित रूप से मुड़ी और लहरदार होती है; किनारा डंठल से जुड़ा नहीं होता और पालियाँ अक्सर नीचे की ओर मुड़ी रहती हैं। ऊपरी सतह चिकनी से झुर्रीदार, सफ़ेद, क्रीम या हल्की गेरुई होती है। निचली सतह सफ़ेद-सी और बारीक रोएँदार होती है।",
+        hymenium: "बीजाणु उत्पन्न करने वाली परत टोपी की ऊपरी सतह को ढकती है। यह चिकनी से हल्की झुर्रीदार होती है और इसमें गलफड़े, छिद्र या गड्ढे नहीं होते। प्रत्येक ऐस्कस में आठ बीजाणु होते हैं।",
+        stipe: "डंठल 3–10 सेमी ऊँचा और 1–3 सेमी मोटा, सफ़ेद से क्रीम रंग का, अक्सर आधार की ओर चौड़ा होता है। इस पर तीखी लंबवत धारियों के बीच गहरी खाँचें होती हैं, और काटने पर भीतर कई खोखले कक्ष दिखते हैं।",
+        flesh: "गूदा टोपी में पतला और भंगुर, डंठल में मोम जैसा से लचीला, सफ़ेद-सा होता है; स्वाद हल्का और गंध हल्की कवक जैसी होती है।",
+        sporePrint: "बीजाणु छाप सफ़ेद होती है। बीजाणु दीर्घवृत्ताकार, चिकने और रंगहीन होते हैं, जिनमें बीच में एक बड़ी तेल-बूँद होती है; आकार लगभग 16–20 × 10–12 µm।",
+        habitat: "यह पर्णपाती और मिश्रित वनों में मिट्टी पर अकेले या छोटे समूहों में उगता है, अक्सर बीच और ओक के नीचे, और पार्कों, पगडंडियों के किनारे तथा घास वाले किनारों पर भी। फलन जुलाई से नवंबर तक होता है। यह यूरोप में व्यापक रूप से पाया जाता है और एशिया तथा उत्तरी अमेरिका में भी मिलता है।",
+        uses: "पुराना साहित्य और कुछ क्षेत्रीय मार्गदर्शिकाएँ इसे उबालकर पानी फेंकने के बाद या सुखाने के बाद खाने योग्य बताती हैं, पर अब इसे विषैला माना जाता है। इसमें जाइरोमिट्रिन जैसे यौगिकों के होने का संदेह है जो मोनोमिथाइलहाइड्राज़ीन छोड़ते हैं, और कच्चे या अधपके फलनकायों से पाचन संबंधी गड़बड़ियाँ हुई हैं। इसे नहीं खाना चाहिए।",
+        confusion: "Helvella lacunosa की टोपी धूसर से काली और डंठल धूसर-सा धारीदार होता है, पर इसके हल्के रूप मिलते-जुलते दिख सकते हैं। Helvella lactea छोटी, क्रीम-सफ़ेद होती है और इसका डंठल कम गहरा खाँचेदार होता है। Gyromitra infula की टोपी लाल-भूरी, मस्तिष्क जैसी मुड़ी हुई और डंठल चिकना, बिना धारियों का होता है। Morchella प्रजातियों की टोपी मधुमक्खी के छत्ते जैसे गड्ढों से ढकी होती है और वे वसंत में निकलती हैं।",
+        notes: "जोवान्नी आंतोनियो स्कोपोली ने 1772 में इसे Phallus crispus नाम से वर्णित किया, और एलियास माग्नस फ्रीस ने 1822 में इसे वंश Helvella में रखा। प्रजाति-नाम crispa का अर्थ घुँघराला है और यह लहरदार टोपी की ओर संकेत करता है। यह यूरोप में सबसे अधिक मिलने वाली Helvella प्रजातियों में से एक है।"
+      },
+      hu: {
+        description: "Világos színű, őszi tömlősgomba szabálytalan, nyereg alakú, két-négy karéjú süveggel, mélyen barázdált, bordás fehér tönkön. Lomb- és elegyes erdőkben a talajon nő, gyakran utak mentén és erdőszéleken. Régen főzés után fogyasztották, ma mérgezőnek tartják.",
+        cap: "A süveg 2–6 cm széles, nyereg alakú, két-négy karéjú, szabálytalanul hajlott és hullámos; széle nem nő össze a tönkkel, a karéjok gyakran lefelé hajlanak. Felső felülete sima vagy ráncos, fehér, krémszínű vagy halvány okkeres. Alsó oldala fehéres, finoman pelyhes.",
+        hymenium: "A spóratermő réteg a süveg felső felületét borítja. Sima vagy enyhén ráncos, nincsenek rajta lemezek, csövek vagy gödrök. Minden aszkusz nyolc spórát tartalmaz.",
+        stipe: "A tönk 3–10 cm magas és 1–3 cm vastag, fehér vagy krémszínű, a töve felé gyakran kiszélesedik. Éles hosszanti bordák között mélyen barázdált, metszetében több üreges kamra látható.",
+        flesh: "Húsa a süvegben vékony és törékeny, a tönkben viaszos vagy rugalmas, fehéres, íze enyhe, szaga gyengén gombaszerű.",
+        sporePrint: "Spórapora fehér. A spórák elliptikusak, simák és színtelenek, egy nagy központi olajcseppel, körülbelül 16–20 × 10–12 µm-esek.",
+        habitat: "A talajon nő magányosan vagy kis csoportokban lomb- és elegyes erdőkben, gyakran bükk és tölgy alatt, valamint parkokban, utak mentén és füves útszéleken. Termőtestei júliustól novemberig jelennek meg. Európában elterjedt, és Ázsiában meg Észak-Amerikában is előfordul.",
+        uses: "A régebbi irodalom és egyes regionális gombakönyvek ehetőnek írják le forrázás és a víz leöntése vagy szárítás után, ma azonban mérgezőnek tartják. Feltételezik, hogy giromitrinszerű vegyületeket tartalmaz, amelyekből monometil-hidrazin szabadul fel, a nyers vagy elégtelenül hőkezelt termőtestek pedig emésztési panaszokat okoztak. Nem szabad elfogyasztani.",
+        confusion: "A Helvella lacunosa süvege szürke vagy fekete, tönkje szürkés és bordás, de világos alakjai hasonlónak tűnhetnek. A Helvella lactea kisebb, krémfehér, tönkje kevésbé mélyen barázdált. A Gyromitra infula süvege vörösbarna, agyszerűen tekervényes, tönkje sima, bordázatlan. A Morchella-fajok süvegét méhsejtszerű gödrök borítják, és tavasszal teremnek.",
+        notes: "Giovanni Antonio Scopoli 1772-ben Phallus crispus néven írta le, Elias Magnus Fries pedig 1822-ben a Helvella nemzetségbe sorolta. A crispa fajnév jelentése fodros, a hullámos süvegre utal. Európa egyik leggyakrabban talált Helvella-faja."
+      },
+      id: {
+        description: "Jamur askomiseta pucat dari musim gugur dengan tudung tak beraturan berbentuk pelana yang terdiri atas dua sampai empat cuping, di atas tangkai putih bergalur dalam dan berusuk. Tumbuh di tanah di hutan gugur daun dan hutan campuran, sering di tepi jalan setapak dan di pinggir hutan. Dulu jamur ini dimakan setelah direbus, tetapi kini dianggap beracun.",
+        cap: "Tudung berukuran 2–6 cm, berbentuk pelana dengan dua sampai empat cuping, terlipat dan bergelombang tak beraturan; tepinya tidak menyatu dengan tangkai dan cupingnya sering melengkung ke bawah. Permukaan atas halus sampai berkerut, putih, krem, atau oker pucat. Sisi bawah keputihan dan berbulu halus.",
+        hymenium: "Lapisan penghasil spora menutupi permukaan atas tudung. Lapisan ini halus sampai sedikit berkerut dan tidak memiliki bilah, pori, atau lubang. Setiap askus berisi delapan spora.",
+        stipe: "Tangkai setinggi 3–10 cm dan setebal 1–3 cm, putih sampai krem, sering melebar ke arah pangkal. Tangkai bergalur dalam di antara rusuk memanjang yang tajam, dan pada potongan melintang tampak beberapa ruang berongga.",
+        flesh: "Dagingnya tipis dan rapuh di tudung, seperti lilin sampai elastis di tangkai, keputihan, rasanya lembut dan baunya samar seperti jamur.",
+        sporePrint: "Cetak spora berwarna putih. Spora berbentuk elips, halus, dan tidak berwarna, dengan satu tetes minyak besar di tengah, sekitar 16–20 × 10–12 µm.",
+        habitat: "Tumbuh di tanah secara soliter atau dalam kelompok kecil di hutan gugur daun dan hutan campuran, sering di bawah pohon beech dan ek, juga di taman, di tepi jalan setapak, dan di pinggiran berumput. Tubuh buah muncul dari Juli sampai November. Spesies ini tersebar luas di Eropa dan juga terdapat di Asia dan Amerika Utara.",
+        uses: "Literatur lama dan beberapa panduan regional menyebutnya dapat dimakan setelah direbus dan airnya dibuang atau setelah dikeringkan, tetapi kini jamur ini dianggap beracun. Jamur ini diduga mengandung senyawa mirip giromitrin yang melepaskan monometilhidrazin, dan tubuh buah mentah atau kurang matang pernah menyebabkan gangguan pencernaan. Jamur ini tidak boleh dimakan.",
+        confusion: "Helvella lacunosa memiliki tudung abu-abu sampai hitam dan tangkai berusuk keabu-abuan, tetapi bentuk pucatnya dapat terlihat mirip. Helvella lactea lebih kecil, putih krem, dengan tangkai yang galurnya kurang dalam. Gyromitra infula memiliki tudung cokelat kemerahan yang berlipat seperti otak dan tangkai halus tanpa rusuk. Spesies Morchella memiliki tudung yang dipenuhi lubang seperti sarang lebah dan muncul pada musim semi.",
+        notes: "Giovanni Antonio Scopoli mendeskripsikannya pada tahun 1772 sebagai Phallus crispus, dan Elias Magnus Fries memindahkannya ke genus Helvella pada tahun 1822. Epitet crispa berarti keriting dan merujuk pada tudungnya yang bergelombang. Ini adalah salah satu spesies Helvella yang paling sering ditemukan di Eropa."
+      },
+      it: {
+        description: "Un ascomicete autunnale chiaro, con cappello irregolare a forma di sella formato da due a quattro lobi, portato da un gambo bianco profondamente solcato e costoluto. Cresce sul terreno nei boschi di latifoglie e misti, spesso lungo i sentieri e ai margini dei boschi. Un tempo veniva consumato dopo la bollitura, ma oggi è considerato tossico.",
+        cap: "Il cappello misura 2–6 cm, a forma di sella con due a quattro lobi, irregolarmente ripiegato e ondulato; il margine è libero dal gambo e i lobi sono spesso ripiegati verso il basso. La superficie superiore è liscia o rugosa, bianca, crema o ocra pallido. La faccia inferiore è biancastra e finemente pubescente.",
+        hymenium: "Lo strato fertile ricopre la superficie superiore del cappello. È liscio o leggermente rugoso, senza lamelle, tubuli o alveoli. Ogni asco contiene otto spore.",
+        stipe: "Il gambo è alto 3–10 cm e spesso 1–3 cm, bianco o crema, spesso allargato verso la base. È profondamente solcato da coste longitudinali acute e in sezione mostra diverse camere cave.",
+        flesh: "La carne è sottile e fragile nel cappello, cerosa o elastica nel gambo, biancastra, con sapore dolce e debole odore fungino.",
+        sporePrint: "La sporata è bianca. Le spore sono ellittiche, lisce e ialine, con una grossa guttula centrale, di circa 16–20 × 10–12 µm.",
+        habitat: "Cresce sul terreno, isolato o in piccoli gruppi, nei boschi di latifoglie e misti, spesso sotto faggi e querce, ma anche nei parchi, lungo i sentieri e sulle scarpate erbose. I corpi fruttiferi compaiono da luglio a novembre. È diffuso in Europa e si trova anche in Asia e in Nord America.",
+        uses: "La letteratura più vecchia e alcune guide regionali lo indicano come commestibile dopo bollitura con eliminazione dell'acqua o dopo essiccazione, ma oggi è considerato tossico. Si sospetta che contenga composti simili alla giromitrina che liberano monometilidrazina, e corpi fruttiferi crudi o poco cotti hanno causato disturbi digestivi. Non deve essere consumato.",
+        confusion: "Helvella lacunosa ha cappello da grigio a nero e gambo costoluto grigiastro, ma le sue forme chiare possono sembrare simili. Helvella lactea è più piccola, bianco crema, con gambo meno profondamente solcato. Gyromitra infula ha cappello bruno-rossastro ripiegato come un cervello e gambo liscio, senza coste. Le specie di Morchella hanno il cappello coperto di alveoli a nido d'ape e fruttificano in primavera.",
+        notes: "Giovanni Antonio Scopoli lo descrisse nel 1772 come Phallus crispus, ed Elias Magnus Fries lo trasferì nel genere Helvella nel 1822. L'epiteto crispa significa crespo e allude al cappello ondulato. È una delle specie di Helvella più frequentemente trovate in Europa."
+      },
+      ja: {
+        description: "秋に発生する淡色の子嚢菌で、二〜四片に裂けた不規則な鞍形の頭部が、深い溝と稜のある白い柄の上につく。広葉樹林や混交林の地上に生え、林道沿いや林縁でよく見られる。かつては茹でて食べられたが、現在では有毒とされる。",
+        cap: "頭部は幅2–6cmで、二〜四片に裂けた鞍形、不規則に折れ曲がり波打つ。縁は柄に癒着せず、裂片はしばしば下方へ巻き込む。上面は平滑〜しわがあり、白色、クリーム色または淡黄土色。下面は白っぽく、細かい綿毛に覆われる。",
+        hymenium: "胞子をつくる子実層は頭部の上面を覆う。平滑〜わずかにしわがあり、ひだ、管孔、くぼみはない。子嚢にはそれぞれ8個の胞子が入る。",
+        stipe: "柄は高さ3–10cm、太さ1–3cmで、白色〜クリーム色、しばしば基部に向かって太くなる。鋭い縦の稜の間に深い溝があり、断面には中空の小室がいくつか見られる。",
+        flesh: "肉は頭部では薄くもろく、柄ではろう質〜弾力があり、白っぽい。味は温和で、かすかにきのこの匂いがある。",
+        sporePrint: "胞子紋は白色。胞子は楕円形で平滑、無色、中央に大きな油球が一つあり、約16–20 × 10–12 µm。",
+        habitat: "広葉樹林や混交林の地上に単生または小群生し、ブナやナラの下に多く、公園、林道沿い、草地の縁にも生える。子実体は7月から11月に発生する。ヨーロッパに広く分布し、アジアと北アメリカにも見られる。",
+        uses: "古い文献や一部の地方図鑑では、茹でて湯を捨てるか乾燥させれば食べられるとされるが、現在では有毒とされる。ギロミトリンに似た化合物を含み、モノメチルヒドラジンを生じる疑いがあり、生や加熱不十分なものは消化器障害を起こしたことがある。食べてはならない。",
+        confusion: "Helvella lacunosaは頭部が灰色〜黒色で柄も灰色を帯びた稜があるが、淡色型は似て見えることがある。Helvella lacteaはより小さく、クリーム白色で、柄の溝が浅い。Gyromitra infulaは頭部が赤褐色で脳のように波打ち、柄は平滑で稜がない。Morchella属の種は頭部が蜂の巣状のくぼみに覆われ、春に発生する。",
+        notes: "1772年にスコポリがPhallus crispusとして記載し、1822年にフリースがHelvella属へ移した。種小名crispaは「縮れた」を意味し、波打つ頭部にちなむ。ヨーロッパで最もよく見つかるHelvella属の種の一つである。"
+      },
+      ko: {
+        description: "가을에 나는 연한 색의 자낭균으로, 두 개에서 네 개의 열편으로 된 불규칙한 안장 모양의 머리가 깊은 홈과 능선이 있는 흰 자루 위에 달린다. 활엽수림과 혼합림의 땅 위에 나며, 흔히 오솔길 옆과 숲 가장자리에서 볼 수 있다. 예전에는 삶아서 먹기도 했으나 지금은 독버섯으로 여겨진다.",
+        cap: "머리는 너비 2–6cm로, 두 개에서 네 개의 열편으로 된 안장 모양이며 불규칙하게 접히고 물결친다. 가장자리는 자루에 붙지 않으며 열편은 흔히 아래로 말린다. 윗면은 매끄럽거나 주름지며 흰색, 크림색 또는 연한 황토색이다. 아랫면은 희끄무레하고 미세한 솜털이 있다.",
+        hymenium: "포자를 만드는 자실층은 머리의 윗면을 덮는다. 매끄럽거나 약간 주름지며 주름살, 관공, 구멍이 없다. 각 자낭에는 포자가 8개 들어 있다.",
+        stipe: "자루는 높이 3–10cm, 굵기 1–3cm이며 흰색에서 크림색이고 흔히 아래쪽으로 굵어진다. 날카로운 세로 능선 사이에 깊은 홈이 있으며, 단면에서는 속이 빈 방이 여러 개 보인다.",
+        flesh: "살은 머리에서는 얇고 잘 부서지며, 자루에서는 밀랍질에서 탄력이 있고 희끄무레하다. 맛은 순하고 약한 버섯 냄새가 난다.",
+        sporePrint: "포자문은 흰색이다. 포자는 타원형이고 매끄러우며 무색이고, 가운데에 큰 기름방울이 하나 있으며 크기는 약 16–20 × 10–12 µm이다.",
+        habitat: "활엽수림과 혼합림의 땅 위에 홀로 또는 작은 무리로 나며, 흔히 너도밤나무와 참나무 아래에서, 또 공원, 오솔길 옆, 풀이 난 길가에서도 자란다. 자실체는 7월부터 11월까지 나타난다. 유럽에 널리 분포하며 아시아와 북아메리카에서도 발견된다.",
+        uses: "옛 문헌과 일부 지역 도감은 삶아서 물을 버리거나 말린 뒤에는 먹을 수 있다고 하지만, 지금은 독버섯으로 여겨진다. 모노메틸히드라진을 내놓는 자이로미트린 비슷한 화합물을 함유한다는 의심을 받으며, 날것이나 덜 익힌 자실체는 소화 장애를 일으킨 적이 있다. 먹어서는 안 된다.",
+        confusion: "Helvella lacunosa는 머리가 회색에서 검은색이고 자루도 회색빛 능선이 있지만, 연한 색 형태는 비슷해 보일 수 있다. Helvella lactea는 더 작고 크림빛 흰색이며 자루의 홈이 얕다. Gyromitra infula는 머리가 적갈색이고 뇌처럼 주름지며 자루는 매끄럽고 능선이 없다. Morchella 속의 종은 머리가 벌집 같은 구멍으로 덮여 있고 봄에 난다.",
+        notes: "1772년 스코폴리가 Phallus crispus로 기재했고, 1822년 프리스가 Helvella 속으로 옮겼다. 종소명 crispa는 '곱슬곱슬한'이라는 뜻으로 물결치는 머리를 가리킨다. 유럽에서 가장 자주 발견되는 Helvella 속 종 가운데 하나이다."
+      },
+      lv: {
+        description: "Gaiša rudens asku sēne ar neregulāru, seglveidīgu cepurīti no divām līdz četrām daivām uz dziļi rievota, ribota balta kātiņa. Aug uz augsnes lapu koku un jauktos mežos, bieži gar takām un meža malās. Agrāk to ēda pēc novārīšanas, taču mūsdienās to uzskata par indīgu.",
+        cap: "Cepurīte ir 2–6 cm plata, seglveidīga ar divām līdz četrām daivām, neregulāri locīta un viļņaina; mala nav saaugusi ar kātiņu, un daivas bieži ir noliektas uz leju. Virspuse ir gluda līdz krunkaina, balta, krēmkrāsas vai gaiši okera. Apakšpuse ir bālgana un smalki pūkaina.",
+        hymenium: "Sporas veidojošais slānis klāj cepurītes virspusi. Tas ir gluds līdz nedaudz krunkains, bez lapiņām, stobriņiem vai bedrītēm. Katrā askā ir astoņas sporas.",
+        stipe: "Kātiņš ir 3–10 cm augsts un 1–3 cm resns, balts līdz krēmkrāsas, bieži pie pamata paplatināts. To dziļi izrievo asas garenribas, un griezumā redzamas vairākas dobas kameras.",
+        flesh: "Mīkstums cepurītē ir plāns un trausls, kātiņā vaskveidīgs līdz elastīgs, bālgans, ar maigu garšu un vāju sēņu smaržu.",
+        sporePrint: "Sporu nospiedums ir balts. Sporas ir elipsoidālas, gludas un bezkrāsainas, ar vienu lielu centrālu eļļas pilienu, apmēram 16–20 × 10–12 µm.",
+        habitat: "Aug uz augsnes pa vienai vai nelielās grupās lapu koku un jauktos mežos, bieži zem dižskābaržiem un ozoliem, kā arī parkos, gar takām un zālainās ceļmalās. Augļķermeņi parādās no jūlija līdz novembrim. Suga ir plaši izplatīta Eiropā un sastopama arī Āzijā un Ziemeļamerikā.",
+        uses: "Vecākajā literatūrā un dažos reģionālos sēņu noteicējos tā minēta kā ēdama pēc novārīšanas un ūdens noliešanas vai pēc izžāvēšanas, taču mūsdienās to uzskata par indīgu. Tai ir aizdomas par giromitrīnam līdzīgu savienojumu saturu, no kuriem atbrīvojas monometilhidrazīns, un neapstrādāti vai nepietiekami termiski apstrādāti augļķermeņi ir izraisījuši gremošanas traucējumus. To nevajadzētu ēst.",
+        confusion: "Sugai Helvella lacunosa ir pelēka līdz melna cepurīte un pelēcīgs ribots kātiņš, taču tās gaišās formas var izskatīties līdzīgas. Helvella lactea ir mazāka, krēmbalta, ar seklāk rievotu kātiņu. Sugai Gyromitra infula ir sarkanbrūna, smadzenēm līdzīgi krokota cepurīte un gluds, neribots kātiņš. Ģints Morchella sugām cepurīte ir klāta ar šūnveida bedrītēm, un tās aug pavasarī.",
+        notes: "Latvijā 2003. gadā bija gada sēne. Džovanni Antonio Skopoli to aprakstīja 1772. gadā kā Phallus crispus, un Eliass Magnuss Frīss 1822. gadā to pārcēla uz ģinti Helvella. Sugas epitets crispa nozīmē sprogains un norāda uz viļņaino cepurīti."
+      },
+      lt: {
+        description: "Šviesus rudeninis aukšliagrybis su netaisyklinga, balno formos kepurėle iš dviejų–keturių skiaučių ant giliai vagoto, briaunoto balto kotelio. Auga ant dirvožemio lapuočių ir mišriuose miškuose, dažnai prie takų ir miško pakraščiuose. Anksčiau jis buvo valgomas išvirus, tačiau dabar laikomas nuodingu.",
+        cap: "Kepurėlė 2–6 cm pločio, balno formos, su dviem–keturiomis skiautėmis, netaisyklingai sulankstyta ir banguota; kraštas nesuaugęs su koteliu, skiautės dažnai užlinkusios žemyn. Viršutinis paviršius lygus arba raukšlėtas, baltas, kreminis arba blyškiai ochrinis. Apatinė pusė balsva, smulkiai pūkuota.",
+        hymenium: "Sporas formuojantis sluoksnis dengia viršutinį kepurėlės paviršių. Jis lygus arba šiek tiek raukšlėtas, be lakštelių, vamzdelių ar duobučių. Kiekviename aukšle yra aštuonios sporos.",
+        stipe: "Kotelis 3–10 cm aukščio ir 1–3 cm storio, baltas arba kreminis, dažnai pamato link platėjantis. Jis giliai išvagotas aštriomis išilginėmis briaunomis, o pjūvyje matyti kelios tuščiavidurės kameros.",
+        flesh: "Trama kepurėlėje plona ir trapi, kotelyje vaškinė arba elastinga, balsva, švelnaus skonio ir silpno grybų kvapo.",
+        sporePrint: "Sporų atspaudas baltas. Sporos elipsiškos, lygios ir bespalvės, su vienu dideliu centriniu aliejaus lašu, maždaug 16–20 × 10–12 µm.",
+        habitat: "Auga ant dirvožemio pavieniui arba nedidelėmis grupėmis lapuočių ir mišriuose miškuose, dažnai po bukais ir ąžuolais, taip pat parkuose, prie takų ir žolėtuose pakelėse. Vaisiakūniai pasirodo nuo liepos iki lapkričio. Rūšis plačiai paplitusi Europoje, aptinkama ir Azijoje bei Šiaurės Amerikoje.",
+        uses: "Senesnėje literatūroje ir kai kuriuose regioniniuose grybų vadovuose jis nurodomas kaip valgomas išvirus ir nupylus vandenį arba išdžiovinus, tačiau dabar laikomas nuodingu. Įtariama, kad jame yra į giromitriną panašių junginių, iš kurių išsiskiria monometilhidrazinas, o žali arba nepakankamai termiškai apdoroti vaisiakūniai yra sukėlę virškinimo sutrikimų. Jo valgyti nereikėtų.",
+        confusion: "Helvella lacunosa turi pilką arba juodą kepurėlę ir pilkšvą briaunotą kotelį, tačiau jos šviesios formos gali atrodyti panašiai. Helvella lactea mažesnė, kreminės baltos spalvos, jos kotelis sekliau vagotas. Gyromitra infula turi rausvai rudą, smegenis primenančią raukšlėtą kepurėlę ir lygų, nebriaunotą kotelį. Morchella genties rūšių kepurėlė padengta korį primenančiomis duobutėmis, jos auga pavasarį.",
+        notes: "Giovanni Antonio Scopoli 1772 m. aprašė jį kaip Phallus crispus, o Eliasas Magnusas Friesas 1822 m. perkėlė į Helvella gentį. Rūšies epitetas crispa reiškia garbanotas ir nurodo banguotą kepurėlę. Tai viena dažniausiai randamų Helvella rūšių Europoje."
+      },
+      no: {
+        description: "En lys høstsekksporesopp med en uregelmessig, salformet hatt med to til fire lapper på en dypt furet, ribbet hvit stilk. Den vokser på jord i løv- og blandingsskog, ofte langs stier og i skogkanter. Tidligere ble den spist etter koking, men i dag regnes den som giftig.",
+        cap: "Hatten er 2–6 cm bred, salformet med to til fire lapper, uregelmessig foldet og bølget; kanten er fri fra stilken, og lappene er ofte bøyd nedover. Oversiden er glatt til rynkete, hvit, kremfarget eller blekt oker. Undersiden er hvitaktig og fint dunet.",
+        hymenium: "Det sporebærende laget dekker oversiden av hatten. Det er glatt til svakt rynkete og har verken skiver, rør eller groper. Hver sporesekk inneholder åtte sporer.",
+        stipe: "Stilken er 3–10 cm høy og 1–3 cm tykk, hvit til kremfarget og ofte utvidet mot basis. Den er dypt furet av skarpe langsgående ribber, og i snitt ses flere hule kamre.",
+        flesh: "Kjøttet er tynt og skjørt i hatten, voksaktig til elastisk i stilken, hvitaktig, med mild smak og svak sopplukt.",
+        sporePrint: "Sporepulveret er hvitt. Sporene er elliptiske, glatte og fargeløse, med én stor sentral oljedråpe, omtrent 16–20 × 10–12 µm.",
+        habitat: "Den vokser på jord enkeltvis eller i små grupper i løv- og blandingsskog, ofte under bøk og eik, og også i parker, langs stier og i gressrike veikanter. Fruktlegemene kommer fra juli til november. Arten er vidt utbredt i Europa og finnes også i Asia og Nord-Amerika.",
+        uses: "Eldre litteratur og enkelte regionale soppbøker beskriver den som spiselig etter koking der vannet helles av, eller etter tørking, men i dag regnes den som giftig. Den mistenkes for å inneholde gyromitrinlignende stoffer som frigjør monometylhydrazin, og rå eller utilstrekkelig varmebehandlede fruktlegemer har gitt mage- og tarmplager. Den bør ikke spises.",
+        confusion: "Helvella lacunosa har grå til svart hatt og gråaktig ribbet stilk, men lyse former kan ligne. Helvella lactea er mindre, kremhvit og har en grunnere furet stilk. Gyromitra infula har rødbrun, hjernelignende foldet hatt og glatt stilk uten ribber. Morchella-arter har en hatt dekket av bikakelignende groper og kommer om våren.",
+        notes: "Giovanni Antonio Scopoli beskrev den i 1772 som Phallus crispus, og Elias Magnus Fries flyttet den til slekten Helvella i 1822. Artsnavnet crispa betyr kruset og viser til den bølgete hatten. Den er en av de oftest funnede Helvella-artene i Europa."
+      },
+      fa: {
+        description: "قارچی کیسه‌ای و کم‌رنگ از فصل پاییز با کلاهکی نامنظم و زین‌مانند که دو تا چهار لوب دارد و بر پایه‌ای سفید، شیاردار و دنده‌دار قرار گرفته است. بر روی خاک در جنگل‌های خزان‌کننده و آمیخته، اغلب کنار کوره‌راه‌ها و در حاشیهٔ جنگل‌ها می‌روید. در گذشته پس از جوشاندن خورده می‌شد، اما امروزه سمی به شمار می‌آید.",
+        cap: "کلاهک ۲–۶ سانتی‌متر پهنا دارد، زین‌مانند با دو تا چهار لوب، به‌طور نامنظم چین‌خورده و موج‌دار است؛ لبهٔ آن به پایه نچسبیده و لوب‌ها اغلب به سمت پایین خم شده‌اند. سطح بالایی صاف تا چروکیده و سفید، کرم یا اُخرایی کم‌رنگ است. سطح زیرین سفیدفام و با کرک‌های ریز است.",
+        hymenium: "لایهٔ هاگ‌ساز سطح بالایی کلاهک را می‌پوشاند. این لایه صاف تا کمی چروکیده است و تیغه، منفذ یا حفره ندارد. هر آسک هشت هاگ دارد.",
+        stipe: "پایه ۳–۱۰ سانتی‌متر بلندی و ۱–۳ سانتی‌متر ضخامت دارد، سفید تا کرم است و اغلب به سوی قاعده پهن‌تر می‌شود. میان دنده‌های طولی تیز آن شیارهای عمیقی هست و در برش چند حفرهٔ توخالی دیده می‌شود.",
+        flesh: "گوشت در کلاهک نازک و شکننده و در پایه مومی تا کشسان و سفیدفام است، با طعمی ملایم و بوی ضعیف قارچی.",
+        sporePrint: "اثر هاگ سفید است. هاگ‌ها بیضوی، صاف و بی‌رنگ‌اند و یک قطرهٔ روغنی بزرگ در میانه دارند، به اندازهٔ حدود ۱۶–۲۰ × ۱۰–۱۲ میکرومتر.",
+        habitat: "بر روی خاک به‌صورت تکی یا در گروه‌های کوچک در جنگل‌های خزان‌کننده و آمیخته، اغلب زیر راش و بلوط، و همچنین در پارک‌ها، کنار کوره‌راه‌ها و حاشیه‌های علفزار می‌روید. اندام‌های بارده از ژوئیه تا نوامبر پدیدار می‌شوند. این گونه در اروپا گسترش فراوان دارد و در آسیا و آمریکای شمالی نیز یافت می‌شود.",
+        uses: "منابع قدیمی‌تر و برخی راهنماهای منطقه‌ای آن را پس از جوشاندن و دور ریختن آب یا پس از خشک کردن خوراکی دانسته‌اند، اما امروزه سمی به شمار می‌آید. گمان می‌رود ترکیباتی شبیه ژیرومیترین دارد که مونومتیل‌هیدرازین آزاد می‌کنند، و اندام‌های بارده خام یا ناپخته موجب ناراحتی‌های گوارشی شده‌اند. نباید آن را خورد.",
+        confusion: "Helvella lacunosa کلاهکی خاکستری تا سیاه و پایه‌ای دنده‌دار و خاکستری‌فام دارد، اما شکل‌های کم‌رنگ آن ممکن است شبیه به نظر برسند. Helvella lactea کوچک‌تر و سفید کرم است و پایه‌اش شیارهای کم‌عمق‌تری دارد. Gyromitra infula کلاهکی قهوه‌ای مایل به قرمز و چین‌خورده مانند مغز و پایه‌ای صاف و بی‌دنده دارد. گونه‌های Morchella کلاهکی پوشیده از حفره‌های لانه‌زنبوری دارند و در بهار می‌رویند.",
+        notes: "جووانی آنتونیو اسکوپولی آن را در سال ۱۷۷۲ با نام Phallus crispus توصیف کرد و الیاس ماگنوس فریس در سال ۱۸۲۲ آن را به سردهٔ Helvella منتقل کرد. صفت گونه‌ای crispa به معنای مجعد است و به کلاهک موج‌دار اشاره دارد. این قارچ یکی از گونه‌های Helvella است که بیش از همه در اروپا یافت می‌شود."
+      },
+      pl: {
+        description: "Jasny, jesienny workowiec o nieregularnym, siodłowatym kapeluszu z dwóch do czterech płatów, osadzonym na głęboko bruzdowanym, żeberkowanym białym trzonie. Rośnie na ziemi w lasach liściastych i mieszanych, często przy ścieżkach i na skrajach lasów. Dawniej jadano go po ugotowaniu, obecnie uważa się go za trujący.",
+        cap: "Kapelusz ma 2–6 cm szerokości, jest siodłowaty, z dwoma do czterech płatów, nieregularnie pofałdowany i falisty; brzeg nie jest zrośnięty z trzonem, a płaty są często podwinięte w dół. Górna powierzchnia jest gładka do pomarszczonej, biała, kremowa lub jasnoochrowa. Spód jest białawy i delikatnie omszony.",
+        hymenium: "Warstwa wytwarzająca zarodniki pokrywa górną powierzchnię kapelusza. Jest gładka do lekko pomarszczonej, bez blaszek, rurek i dołków. Każdy worek zawiera osiem zarodników.",
+        stipe: "Trzon ma 3–10 cm wysokości i 1–3 cm grubości, jest biały do kremowego, często rozszerzony ku podstawie. Jest głęboko bruzdowany ostrymi podłużnymi żeberkami, a na przekroju widać kilka pustych komór.",
+        flesh: "Miąższ jest w kapeluszu cienki i kruchy, w trzonie woskowaty do elastycznego, białawy, o łagodnym smaku i słabym grzybowym zapachu.",
+        sporePrint: "Wysyp zarodników jest biały. Zarodniki są eliptyczne, gładkie i bezbarwne, z jedną dużą centralną kroplą oleju, około 16–20 × 10–12 µm.",
+        habitat: "Rośnie na ziemi pojedynczo lub w małych grupach w lasach liściastych i mieszanych, często pod bukami i dębami, a także w parkach, przy ścieżkach i na trawiastych poboczach. Owocniki pojawiają się od lipca do listopada. Gatunek jest szeroko rozprzestrzeniony w Europie, występuje też w Azji i Ameryce Północnej.",
+        uses: "Starsza literatura i niektóre regionalne atlasy podają, że jest jadalny po ugotowaniu i odlaniu wody lub po wysuszeniu, obecnie uważa się go jednak za trujący. Podejrzewa się, że zawiera związki podobne do gyromitryny, z których uwalnia się monometylohydrazyna, a surowe lub niedogotowane owocniki powodowały dolegliwości żołądkowo-jelitowe. Nie należy go jeść.",
+        confusion: "Helvella lacunosa ma szary do czarnego kapelusz i szarawy żeberkowany trzon, ale jej jasne formy mogą wyglądać podobnie. Helvella lactea jest mniejsza, kremowobiała, z płycej bruzdowanym trzonem. Gyromitra infula ma czerwonobrązowy, pofałdowany jak mózg kapelusz i gładki trzon bez żeberek. Gatunki z rodzaju Morchella mają kapelusz pokryty komórkami jak plaster miodu i owocnikują wiosną.",
+        notes: "Giovanni Antonio Scopoli opisał go w 1772 roku jako Phallus crispus, a Elias Magnus Fries przeniósł go do rodzaju Helvella w 1822 roku. Epitet crispa oznacza kędzierzawy i odnosi się do falistego kapelusza. Należy do najczęściej znajdowanych gatunków z rodzaju Helvella w Europie."
+      },
+      pt: {
+        description: "Um ascomiceto outonal claro, com chapéu irregular em forma de sela, de dois a quatro lobos, sobre um pé branco profundamente sulcado e com costelas. Cresce no solo em bosques de folhosas e mistos, muitas vezes junto a caminhos e nas orlas dos bosques. Antigamente era comido depois de cozido, mas hoje é considerado tóxico.",
+        cap: "O chapéu mede 2–6 cm, em forma de sela com dois a quatro lobos, irregularmente dobrado e ondulado; a margem é livre do pé e os lobos curvam-se muitas vezes para baixo. A face superior é lisa a enrugada, branca, creme ou ocre-pálida. A face inferior é esbranquiçada e finamente pubescente.",
+        hymenium: "A camada fértil cobre a face superior do chapéu. É lisa a ligeiramente enrugada, sem lamelas, tubos ou alvéolos. Cada asco contém oito esporos.",
+        stipe: "O pé tem 3–10 cm de altura e 1–3 cm de espessura, branco a creme, muitas vezes alargado para a base. É profundamente sulcado por costelas longitudinais agudas e, em corte, mostra várias câmaras ocas.",
+        flesh: "A carne é fina e quebradiça no chapéu, cerosa a elástica no pé, esbranquiçada, de sabor suave e com leve cheiro a cogumelo.",
+        sporePrint: "A esporada é branca. Os esporos são elípticos, lisos e hialinos, com uma grande gota de óleo central, cerca de 16–20 × 10–12 µm.",
+        habitat: "Cresce no solo, isolado ou em pequenos grupos, em bosques de folhosas e mistos, muitas vezes sob faias e carvalhos, e também em parques, junto a caminhos e em bermas relvadas. Os corpos de frutificação aparecem de julho a novembro. É comum na Europa e ocorre também na Ásia e na América do Norte.",
+        uses: "A literatura antiga e alguns guias regionais consideram-no comestível depois de fervido com rejeição da água ou depois de seco, mas hoje é considerado tóxico. Suspeita-se que contenha compostos semelhantes à giromitrina que libertam monometil-hidrazina, e corpos de frutificação crus ou mal cozinhados provocaram perturbações digestivas. Não deve ser comido.",
+        confusion: "Helvella lacunosa tem chapéu cinzento a negro e pé acinzentado com costelas, mas as suas formas claras podem parecer semelhantes. Helvella lactea é menor, branco-creme, com pé menos profundamente sulcado. Gyromitra infula tem chapéu castanho-avermelhado dobrado como um cérebro e pé liso, sem costelas. As espécies de Morchella têm o chapéu coberto de alvéolos em favo de mel e frutificam na primavera.",
+        notes: "Giovanni Antonio Scopoli descreveu-o em 1772 como Phallus crispus, e Elias Magnus Fries transferiu-o para o género Helvella em 1822. O epíteto crispa significa crespo e alude ao chapéu ondulado. É uma das espécies de Helvella mais frequentemente encontradas na Europa."
+      },
+      ro: {
+        description: "Un ascomicet de toamnă, de culoare deschisă, cu pălărie neregulată în formă de șa, cu doi până la patru lobi, pe un picior alb adânc brăzdat și cu coaste. Crește pe sol în păduri de foioase și mixte, adesea pe marginea potecilor și la liziere. Odinioară era consumat după fierbere, dar astăzi este considerat otrăvitor.",
+        cap: "Pălăria are 2–6 cm, în formă de șa cu doi până la patru lobi, neregulat pliată și ondulată; marginea nu este concrescută cu piciorul, iar lobii sunt adesea răsfrânți în jos. Fața superioară este netedă până la zbârcită, albă, crem sau ocru-pal. Fața inferioară este albicioasă și fin pufoasă.",
+        hymenium: "Stratul fertil acoperă fața superioară a pălăriei. Este neted până la ușor zbârcit, fără lamele, tuburi sau alveole. Fiecare asc conține opt spori.",
+        stipe: "Piciorul are 3–10 cm înălțime și 1–3 cm grosime, alb până la crem, adesea lățit spre bază. Este adânc brăzdat de coaste longitudinale ascuțite, iar în secțiune se văd mai multe camere goale.",
+        flesh: "Carnea este subțire și fragilă în pălărie, ceroasă până la elastică în picior, albicioasă, cu gust dulceag și miros slab de ciupercă.",
+        sporePrint: "Sporeea este albă. Sporii sunt eliptici, netezi și hialini, cu o picătură mare de ulei în centru, de circa 16–20 × 10–12 µm.",
+        habitat: "Crește pe sol, solitar sau în grupuri mici, în păduri de foioase și mixte, adesea sub fagi și stejari, precum și în parcuri, pe marginea potecilor și pe taluzuri înierbate. Corpurile fructifere apar din iulie până în noiembrie. Specia este larg răspândită în Europa și se găsește și în Asia și America de Nord.",
+        uses: "Literatura mai veche și unele ghiduri regionale o consideră comestibilă după fierbere și aruncarea apei sau după uscare, dar astăzi este considerată otrăvitoare. Este suspectată că ar conține compuși asemănători giromitrinei, care eliberează monometilhidrazină, iar corpurile fructifere crude sau insuficient gătite au provocat tulburări digestive. Nu trebuie consumată.",
+        confusion: "Helvella lacunosa are pălăria cenușie până la neagră și piciorul cenușiu cu coaste, dar formele ei deschise pot părea asemănătoare. Helvella lactea este mai mică, alb-crem, cu piciorul mai puțin adânc brăzdat. Gyromitra infula are pălăria brun-roșcată, cutată ca un creier, și piciorul neted, fără coaste. Speciile de Morchella au pălăria acoperită de alveole ca un fagure și fructifică primăvara.",
+        notes: "Giovanni Antonio Scopoli a descris-o în 1772 sub numele Phallus crispus, iar Elias Magnus Fries a mutat-o în genul Helvella în 1822. Epitetul crispa înseamnă creț și se referă la pălăria ondulată. Este una dintre speciile de Helvella cel mai des găsite în Europa."
+      },
+      ru: {
+        description: "Светлый осенний сумчатый гриб с неправильной седловидной шляпкой из двух–четырёх лопастей на глубоко бороздчатой рёбристой белой ножке. Растёт на почве в лиственных и смешанных лесах, часто у тропинок и на опушках. Раньше его ели после отваривания, но теперь считают ядовитым.",
+        cap: "Шляпка 2–6 см в поперечнике, седловидная, из двух–четырёх лопастей, неправильно изогнутая и волнистая; край не прирастает к ножке, лопасти часто загнуты вниз. Верхняя поверхность гладкая или морщинистая, белая, кремовая или бледно-охристая. Нижняя сторона беловатая, тонкоопушённая.",
+        hymenium: "Спороносный слой покрывает верхнюю поверхность шляпки. Он гладкий или слегка морщинистый, без пластинок, трубочек и ячеек. Каждая сумка содержит восемь спор.",
+        stipe: "Ножка 3–10 см высотой и 1–3 см толщиной, белая или кремовая, часто расширенная к основанию. Она глубоко бороздчатая, с острыми продольными рёбрами, на разрезе видны несколько полых камер.",
+        flesh: "Мякоть в шляпке тонкая и ломкая, в ножке восковидная или упругая, беловатая, с мягким вкусом и слабым грибным запахом.",
+        sporePrint: "Споровый порошок белый. Споры эллипсоидные, гладкие, бесцветные, с одной крупной центральной масляной каплей, около 16–20 × 10–12 мкм.",
+        habitat: "Растёт на почве одиночно или небольшими группами в лиственных и смешанных лесах, часто под буками и дубами, а также в парках, у тропинок и на травянистых обочинах. Плодовые тела появляются с июля по ноябрь. Вид широко распространён в Европе, встречается также в Азии и Северной Америке.",
+        uses: "В старой литературе и некоторых региональных справочниках его называют съедобным после отваривания со сливом воды или после сушки, однако теперь его считают ядовитым. Предполагают, что он содержит сходные с гиромитрином соединения, из которых образуется монометилгидразин, а сырые или недостаточно проваренные плодовые тела вызывали расстройства пищеварения. Есть его не следует.",
+        confusion: "У Helvella lacunosa шляпка от серой до чёрной и сероватая рёбристая ножка, но её светлые формы могут выглядеть похоже. Helvella lactea мельче, кремово-белая, с менее глубоко бороздчатой ножкой. У Gyromitra infula красно-бурая, извилистая, как мозг, шляпка и гладкая ножка без рёбер. Виды рода Morchella имеют шляпку, покрытую ячейками, как соты, и плодоносят весной.",
+        notes: "Джованни Антонио Скополи описал его в 1772 году как Phallus crispus, а Элиас Магнус Фрис в 1822 году перенёс в род Helvella. Видовой эпитет crispa означает «курчавый» и указывает на волнистую шляпку. Это один из наиболее часто встречающихся видов рода Helvella в Европе."
+      },
+      sr: {
+        description: "Светла јесења мешинарка с неправилним, седластим шеширом од два до четири режња на дубоко избразданој, ребрастој белој дршци. Расте на земљи у листопадним и мешовитим шумама, често поред стаза и на ободима шума. Некада се јела после кувања, али се данас сматра отровном.",
+        cap: "Шешир је широк 2–6 cm, седласт с два до четири режња, неправилно набран и таласаст; ивица није срасла с дршком, а режњеви су често повијени надоле. Горња површина је глатка до наборана, бела, крем или бледо окераста. Доња страна је беличаста и фино паперјаста.",
+        hymenium: "Слој који ствара споре прекрива горњу површину шешира. Гладак је до благо набран и нема листиће, цевчице ни јамице. Сваки аскус садржи осам спора.",
+        stipe: "Дршка је висока 3–10 cm и дебела 1–3 cm, бела до крем, често проширена према основи. Дубоко је избраздана оштрим уздужним ребрима, а на пресеку се види неколико шупљих комора.",
+        flesh: "Месо је у шеширу танко и крхко, у дршци воштано до еластично, беличасто, благог укуса и слабог мириса на гљиве.",
+        sporePrint: "Отисак спора је бео. Споре су елипсоидне, глатке и безбојне, с једном великом централном капљицом уља, око 16–20 × 10–12 µm.",
+        habitat: "Расте на земљи појединачно или у малим групама у листопадним и мешовитим шумама, често испод букве и храста, а и у парковима, поред стаза и на травнатим ивицама путева. Плодна тела се јављају од јула до новембра. Широко је распрострањена у Европи, а налази се и у Азији и Северној Америци.",
+        uses: "Старија литература и неки регионални приручници наводе је као јестиву после кувања и бацања воде или после сушења, али се данас сматра отровном. Сумња се да садржи једињења слична гиромитрину која ослобађају монометилхидразин, а сирова или недовољно кувана плодна тела изазивала су пробавне сметње. Не треба је јести.",
+        confusion: "Helvella lacunosa има сив до црн шешир и сивкасту ребрасту дршку, али њени светли облици могу изгледати слично. Helvella lactea је мања, крем беле боје, с плиће избразданом дршком. Gyromitra infula има црвенкастосмеђ, мождано набран шешир и глатку дршку без ребара. Врсте рода Morchella имају шешир прекривен јамицама попут саћа и расту у пролеће.",
+        notes: "Ђовани Антонио Скополи описао ју је 1772. као Phallus crispus, а Елијас Магнус Фрис ју је 1822. пренео у род Helvella. Епитет crispa значи коврџав и односи се на таласасти шешир. Једна је од најчешће налажених врста рода Helvella у Европи."
+      },
+      sl: {
+        description: "Svetla jesenska zaprtotrosnica z nepravilnim, sedlastim klobukom iz dveh do štirih krp na globoko brazdastem, rebrastem belem betu. Raste na tleh v listnatih in mešanih gozdovih, pogosto ob poteh in na gozdnih robovih. Nekoč so jo jedli po kuhanju, danes pa velja za strupeno.",
+        cap: "Klobuk je širok 2–6 cm, sedlast z dvema do štirimi krpami, nepravilno naguban in valovit; rob ni zrasel z betom, krpe pa so pogosto zavihane navzdol. Zgornja površina je gladka do nagubana, bela, kremasta ali bledo okrasta. Spodnja stran je belkasta in fino puhasta.",
+        hymenium: "Trosovna plast prekriva zgornjo površino klobuka. Je gladka do rahlo nagubana in nima lističev, cevk ali jamic. Vsak askus vsebuje osem trosov.",
+        stipe: "Bet je visok 3–10 cm in debel 1–3 cm, bel do kremast, pogosto proti dnu razširjen. Globoko je razbrazdan z ostrimi vzdolžnimi rebri, v prerezu pa je videti več votlih prekatov.",
+        flesh: "Meso je v klobuku tanko in krhko, v betu voščeno do prožno, belkasto, blagega okusa in šibkega gobjega vonja.",
+        sporePrint: "Trosni prah je bel. Trosi so elipsoidni, gladki in brezbarvni, z eno veliko osrednjo oljno kapljico, približno 16–20 × 10–12 µm.",
+        habitat: "Raste na tleh posamič ali v manjših skupinah v listnatih in mešanih gozdovih, pogosto pod bukvami in hrasti, pa tudi v parkih, ob poteh in na travnatih robovih. Trosnjaki se pojavljajo od julija do novembra. Vrsta je razširjena po Evropi, najdemo pa jo tudi v Aziji in Severni Ameriki.",
+        uses: "Starejša literatura in nekateri regionalni priročniki jo navajajo kot užitno po kuhanju in odlitju vode ali po sušenju, danes pa velja za strupeno. Domnevajo, da vsebuje giromitrinu podobne spojine, iz katerih se sprošča monometilhidrazin, surovi ali premalo kuhani trosnjaki pa so povzročili prebavne težave. Ne smemo je jesti.",
+        confusion: "Helvella lacunosa ima siv do črn klobuk in sivkast rebrast bet, vendar so njene svetle oblike lahko podobne. Helvella lactea je manjša, kremasto bela, z manj globoko brazdastim betom. Gyromitra infula ima rdečerjav, možgansko naguban klobuk in gladek bet brez reber. Vrste rodu Morchella imajo klobuk, pokrit s satastimi jamicami, in rastejo spomladi.",
+        notes: "Giovanni Antonio Scopoli jo je leta 1772 opisal kot Phallus crispus, Elias Magnus Fries pa jo je leta 1822 premestil v rod Helvella. Vrstni pridevek crispa pomeni kodrast in se nanaša na valoviti klobuk. Je ena najpogosteje najdenih vrst rodu Helvella v Evropi."
+      },
+      es: {
+        description: "Un ascomiceto otoñal de color claro, con sombrero irregular en forma de silla de montar de dos a cuatro lóbulos, sobre un pie blanco profundamente surcado y acostillado. Crece en el suelo de bosques de frondosas y mixtos, a menudo junto a caminos y en los bordes del bosque. Antiguamente se comía tras hervirlo, pero hoy se considera tóxico.",
+        cap: "El sombrero mide 2–6 cm, tiene forma de silla de montar con dos a cuatro lóbulos, irregularmente plegado y ondulado; el margen está libre del pie y los lóbulos suelen curvarse hacia abajo. La cara superior es lisa a arrugada, blanca, crema u ocre pálido. La cara inferior es blanquecina y finamente pubescente.",
+        hymenium: "La capa fértil cubre la cara superior del sombrero. Es lisa a ligeramente arrugada, sin láminas, tubos ni alvéolos. Cada asca contiene ocho esporas.",
+        stipe: "El pie mide 3–10 cm de alto y 1–3 cm de grosor, blanco a crema, a menudo ensanchado hacia la base. Está profundamente surcado por costillas longitudinales agudas y en corte muestra varias cámaras huecas.",
+        flesh: "La carne es delgada y frágil en el sombrero, cérea a elástica en el pie, blanquecina, de sabor suave y ligero olor fúngico.",
+        sporePrint: "La esporada es blanca. Las esporas son elípticas, lisas e hialinas, con una gran gútula central, de unos 16–20 × 10–12 µm.",
+        habitat: "Crece en el suelo, solitario o en pequeños grupos, en bosques de frondosas y mixtos, a menudo bajo hayas y robles, y también en parques, junto a caminos y en taludes herbosos. Los cuerpos fructíferos aparecen de julio a noviembre. Está ampliamente distribuido en Europa y se encuentra también en Asia y Norteamérica.",
+        uses: "La literatura antigua y algunas guías regionales lo consideran comestible tras hervirlo y desechar el agua o tras secarlo, pero hoy se considera tóxico. Se sospecha que contiene compuestos parecidos a la giromitrina que liberan monometilhidracina, y los cuerpos fructíferos crudos o poco cocinados han causado trastornos digestivos. No debe consumirse.",
+        confusion: "Helvella lacunosa tiene el sombrero gris a negro y el pie acostillado grisáceo, pero sus formas claras pueden parecer similares. Helvella lactea es más pequeña, blanco crema, con el pie menos profundamente surcado. Gyromitra infula tiene el sombrero pardo rojizo, plegado como un cerebro, y el pie liso, sin costillas. Las especies de Morchella tienen el sombrero cubierto de alvéolos en forma de panal y fructifican en primavera.",
+        notes: "Giovanni Antonio Scopoli lo describió en 1772 como Phallus crispus, y Elias Magnus Fries lo trasladó al género Helvella en 1822. El epíteto crispa significa rizado y alude al sombrero ondulado. Es una de las especies de Helvella que se encuentran con más frecuencia en Europa."
+      },
+      sv: {
+        description: "En ljus höstsäcksvamp med en oregelbunden, sadelformad hatt med två till fyra flikar på en djupt fårad, ribbad vit fot. Den växer på marken i löv- och blandskog, ofta längs stigar och i skogsbryn. Förr åts den efter kokning, men i dag räknas den som giftig.",
+        cap: "Hatten är 2–6 cm bred, sadelformad med två till fyra flikar, oregelbundet veckad och vågig; kanten är fri från foten och flikarna är ofta nedböjda. Ovansidan är slät till skrynklig, vit, krämfärgad eller blekt ockra. Undersidan är vitaktig och fint dunig.",
+        hymenium: "Det sporbildande lagret täcker hattens ovansida. Det är slätt till svagt skrynkligt och saknar skivor, rör och gropar. Varje säck innehåller åtta sporer.",
+        stipe: "Foten är 3–10 cm hög och 1–3 cm tjock, vit till krämfärgad och ofta vidgad mot basen. Den är djupt fårad av skarpa längsgående åsar, och i genomskärning syns flera ihåliga kamrar.",
+        flesh: "Köttet är tunt och sprött i hatten, vaxartat till elastiskt i foten, vitaktigt, med mild smak och svag svamplukt.",
+        sporePrint: "Sporpulvret är vitt. Sporerna är elliptiska, släta och färglösa, med en stor central oljedroppe, omkring 16–20 × 10–12 µm.",
+        habitat: "Den växer på marken ensam eller i små grupper i löv- och blandskog, ofta under bok och ek, och även i parker, längs stigar och på gräsbevuxna vägkanter. Fruktkropparna kommer från juli till november. Arten är vida spridd i Europa och förekommer även i Asien och Nordamerika.",
+        uses: "Äldre litteratur och vissa regionala svampböcker anger den som ätlig efter kokning där vattnet hälls bort, eller efter torkning, men i dag räknas den som giftig. Den misstänks innehålla gyromitrinliknande ämnen som frigör monometylhydrazin, och råa eller otillräckligt tillagade fruktkroppar har orsakat mag- och tarmbesvär. Den bör inte ätas.",
+        confusion: "Helvella lacunosa har grå till svart hatt och gråaktig ribbad fot, men ljusa former kan likna. Helvella lactea är mindre, krämvit och har en grundare fårad fot. Gyromitra infula har rödbrun, hjärnlikt veckad hatt och slät fot utan åsar. Morchella-arter har en hatt täckt av bikakeliknande gropar och kommer på våren.",
+        notes: "Giovanni Antonio Scopoli beskrev den 1772 som Phallus crispus, och Elias Magnus Fries flyttade den till släktet Helvella 1822. Artepitetet crispa betyder krusig och syftar på den vågiga hatten. Den är en av de oftast funna Helvella-arterna i Europa."
+      },
+      tr: {
+        description: "Sonbaharda çıkan, açık renkli bir askomiset; iki ila dört loblu, düzensiz, eyer biçimli şapkası derin oluklu, kaburgalı beyaz bir sapın üzerinde durur. Yaprak döken ve karışık ormanlarda toprak üzerinde, çoğunlukla patika kenarlarında ve orman kıyılarında yetişir. Eskiden haşlandıktan sonra yenirdi, ancak bugün zehirli kabul edilmektedir.",
+        cap: "Şapka 2–6 cm genişliğinde, iki ila dört loblu eyer biçiminde, düzensiz kıvrımlı ve dalgalıdır; kenarı sapa kaynaşmamıştır ve loblar çoğu zaman aşağı doğru kıvrıktır. Üst yüzey düzden buruşuğa, beyaz, krem ya da soluk okr renklidir. Alt yüzü beyazımsı ve ince tüylüdür.",
+        hymenium: "Spor üreten tabaka şapkanın üst yüzeyini kaplar. Düzden hafifçe buruşuğa değişir; lamel, gözenek ya da çukur içermez. Her askusta sekiz spor bulunur.",
+        stipe: "Sap 3–10 cm boyunda ve 1–3 cm kalınlığında, beyazdan kreme, çoğunlukla tabana doğru genişler. Keskin boyuna kaburgalar arasında derin oluklar vardır ve kesitinde birkaç boş oda görülür.",
+        flesh: "Eti şapkada ince ve kırılgan, sapta mumsu ila esnek, beyazımsıdır; tadı yumuşak, kokusu hafif mantar kokusudur.",
+        sporePrint: "Spor izi beyazdır. Sporlar eliptik, düz ve renksizdir, ortada büyük bir yağ damlası taşır; yaklaşık 16–20 × 10–12 µm boyutundadır.",
+        habitat: "Yaprak döken ve karışık ormanlarda toprak üzerinde tek tek ya da küçük gruplar hâlinde, çoğunlukla kayın ve meşe altında, ayrıca parklarda, patika kenarlarında ve otlu yol kenarlarında yetişir. Meyve gövdeleri temmuzdan kasıma kadar görülür. Avrupa'da geniş bir yayılışa sahiptir; Asya'da ve Kuzey Amerika'da da bulunur.",
+        uses: "Eski kaynaklar ve bazı bölgesel rehberler haşlanıp suyu döküldükten ya da kurutulduktan sonra yenebileceğini belirtir, ancak bugün zehirli kabul edilmektedir. Monometilhidrazin açığa çıkaran jiromitrin benzeri bileşikler içerdiğinden şüphelenilmektedir ve çiğ ya da yeterince pişirilmemiş meyve gövdeleri sindirim bozukluklarına yol açmıştır. Yenmemelidir.",
+        confusion: "Helvella lacunosa'nın şapkası griden siyaha, sapı grimsi ve kaburgalıdır, ancak açık renkli formları benzer görünebilir. Helvella lactea daha küçük, krem beyazdır ve sapı daha sığ olukludur. Gyromitra infula'nın şapkası kırmızımsı kahverengi ve beyin gibi kıvrımlı, sapı ise düz ve kaburgasızdır. Morchella türlerinin şapkası bal peteğine benzer çukurlarla kaplıdır ve ilkbaharda çıkarlar.",
+        notes: "Giovanni Antonio Scopoli onu 1772'de Phallus crispus adıyla tanımlamış, Elias Magnus Fries ise 1822'de Helvella cinsine aktarmıştır. Tür adı crispa kıvırcık anlamına gelir ve dalgalı şapkaya işaret eder. Avrupa'da en sık bulunan Helvella türlerinden biridir."
+      },
+      uk: {
+        description: "Світлий осінній сумчастий гриб із неправильною сідлоподібною шапинкою з двох–чотирьох лопатей на глибоко борозенчастій ребристій білій ніжці. Росте на ґрунті в листяних і мішаних лісах, часто біля стежок і на узліссях. Колись його їли після відварювання, але нині вважають отруйним.",
+        cap: "Шапинка 2–6 см завширшки, сідлоподібна, з двох–чотирьох лопатей, неправильно вигнута й хвиляста; край не приростає до ніжки, лопаті часто загнуті донизу. Верхня поверхня гладенька або зморшкувата, біла, кремова або блідо-вохриста. Нижній бік білуватий, тонко опушений.",
+        hymenium: "Спороносний шар вкриває верхню поверхню шапинки. Він гладенький або злегка зморшкуватий, без пластинок, трубочок і комірок. Кожна сумка містить вісім спор.",
+        stipe: "Ніжка 3–10 см заввишки і 1–3 см завтовшки, біла або кремова, часто розширена до основи. Вона глибоко борозенчаста, з гострими поздовжніми ребрами, на розрізі видно кілька порожнистих камер.",
+        flesh: "М'якуш у шапинці тонкий і ламкий, у ніжці восковий або пружний, білуватий, з м'яким смаком і слабким грибним запахом.",
+        sporePrint: "Споровий порошок білий. Спори еліпсоподібні, гладенькі, безбарвні, з однією великою центральною краплею олії, близько 16–20 × 10–12 мкм.",
+        habitat: "Росте на ґрунті поодинці або невеликими групами в листяних і мішаних лісах, часто під буками й дубами, а також у парках, біля стежок і на трав'янистих узбіччях. Плодові тіла з'являються з липня по листопад. Вид поширений у Європі, трапляється також в Азії та Північній Америці.",
+        uses: "Давніша література і деякі регіональні довідники називають його їстівним після відварювання зі зливанням води або після сушіння, проте нині його вважають отруйним. Припускають, що він містить подібні до гіромітрину сполуки, з яких утворюється монометилгідразин, а сирі чи недостатньо проварені плодові тіла спричиняли розлади травлення. Їсти його не слід.",
+        confusion: "У Helvella lacunosa шапинка від сірої до чорної і сірувата ребриста ніжка, але її світлі форми можуть виглядати схоже. Helvella lactea дрібніша, кремово-біла, з менш глибоко борозенчастою ніжкою. У Gyromitra infula червоно-бура, звивиста, як мозок, шапинка і гладенька ніжка без ребер. Види роду Morchella мають шапинку, вкриту комірками, як стільники, і плодоносять навесні.",
+        notes: "Джованні Антоніо Скополі описав його 1772 року як Phallus crispus, а Еліас Магнус Фріс 1822 року переніс до роду Helvella. Видовий епітет crispa означає «кучерявий» і вказує на хвилясту шапинку. Це один із найчастіше знаходжуваних видів роду Helvella в Європі."
+      }
+    },
+    sources: {
+      en: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://en.wikipedia.org/wiki/Helvella_crispa"
+        },
+        {
+          "group": "name",
+          "name": "Index Fungorum",
+          "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=186148",
+          "detail": "186148"
+        },
+        {
+          "group": "name",
+          "name": "Species Fungorum",
+          "href": "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=186148",
+          "detail": "186148"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2554614",
+          "detail": "2554614"
+        }
+      ],
+      sk: [
+        {
+          "group": "name",
+          "name": "NAHUBY.SK",
+          "href": "https://www.nahuby.sk/atlas-hub/Helvella-crispa/chriapac-kuceravy/chrapac-kaderavy/ID163",
+          "detail": "chriapač kučeravý"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2554614",
+          "detail": "2554614"
+        }
+      ],
+      ar: [
+        {
+          "group": "text",
+          "name": "ويكيبيديا",
+          "href": "https://ar.wikipedia.org/wiki/%D9%87%D9%84%D9%81%D9%8A%D9%84%D8%A9_%D9%85%D8%AC%D8%B9%D8%AF%D8%A9"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2554614",
+          "detail": "2554614"
+        }
+      ],
+      bg: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2554614",
+          "detail": "2554614"
+        }
+      ],
+      zh: [
+        {
+          "group": "name",
+          "name": "Wikidata",
+          "href": "https://www.wikidata.org/wiki/Q1516648",
+          "detail": "Q1516648"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2554614",
+          "detail": "2554614"
+        }
+      ],
+      hr: [
+        {
+          "group": "name",
+          "name": "Hrvatska enciklopedija",
+          "href": "https://enciklopedija.hr/clanak/hrcci",
+          "detail": "jesenski hrčak"
+        },
+        {
+          "group": "text",
+          "name": "CROmushrooms",
+          "href": "https://www.cromushrooms.eu/index.php/pregled-vrsta?id=1181&option=com_content&view=article",
+          "detail": "jesenji hrčak"
+        },
+        {
+          "group": "text",
+          "name": "gljive.com.hr",
+          "href": "https://gljive.com.hr/gljive/Helvella_crispa.html",
+          "detail": "jesenski hrčak, kovrčavi hrčak"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2554614",
+          "detail": "2554614"
+        }
+      ],
+      cs: [
+        {
+          "group": "text",
+          "name": "Wikipedie",
+          "href": "https://cs.wikipedia.org/wiki/Ch%C5%99ap%C3%A1%C4%8D_kade%C5%99av%C3%BD"
+        },
+        {
+          "group": "text",
+          "name": "NAHUBY.SK",
+          "href": "https://www.nahuby.sk/atlas-hub/Helvella-crispa/chriapac-kuceravy/chrapac-kaderavy/ID163",
+          "detail": "chřapáč kadeřavý"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2554614",
+          "detail": "2554614"
+        }
+      ],
+      da: [
+        {
+          "group": "name",
+          "name": "Danmarks Svampeatlas",
+          "href": "https://svampe.databasen.org/taxon/14607",
+          "detail": "kruset foldhat"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2554614",
+          "detail": "2554614"
+        }
+      ],
+      nl: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://nl.wikipedia.org/wiki/Witte_kluifzwam"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2554614",
+          "detail": "2554614"
+        }
+      ],
+      et: [
+        {
+          "group": "text",
+          "name": "Vikipeedia",
+          "href": "https://et.wikipedia.org/wiki/Valge_helvell"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2554614",
+          "detail": "2554614"
+        }
+      ],
+      fi: [
+        {
+          "group": "name",
+          "name": "Laji.fi",
+          "href": "https://laji.fi/taxon/MX.237069",
+          "detail": "valkomörsky"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2554614",
+          "detail": "2554614"
+        }
+      ],
+      fr: [
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://fr.wikipedia.org/wiki/Helvelle_cr%C3%A9pue"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2554614",
+          "detail": "2554614"
+        }
+      ],
+      de: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://de.wikipedia.org/wiki/Herbst-Lorchel"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2554614",
+          "detail": "2554614"
+        }
+      ],
+      he: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2554614",
+          "detail": "2554614"
+        }
+      ],
+      hi: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2554614",
+          "detail": "2554614"
+        }
+      ],
+      hu: [
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://hu.wikipedia.org/wiki/Fodros_papsapkagomba"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2554614",
+          "detail": "2554614"
+        }
+      ],
+      id: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2554614",
+          "detail": "2554614"
+        }
+      ],
+      it: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://it.wikipedia.org/wiki/Helvella_crispa"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2554614",
+          "detail": "2554614"
+        }
+      ],
+      ja: [
+        {
+          "group": "text",
+          "name": "ウィキペディア",
+          "href": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%9C%E3%83%AA%E3%83%AA%E3%83%A5%E3%82%A6"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2554614",
+          "detail": "2554614"
+        }
+      ],
+      ko: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2554614",
+          "detail": "2554614"
+        }
+      ],
+      lv: [
+        {
+          "group": "text",
+          "name": "Vikipēdija",
+          "href": "https://lv.wikipedia.org/wiki/Krokainais_rumpucis"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2554614",
+          "detail": "2554614"
+        }
+      ],
+      lt: [
+        {
+          "group": "name",
+          "name": "Lietuvos makroskopinių grybų ir kerpių sąvadas (Gamtos tyrimų centras, 2024)",
+          "href": "https://gamtostyrimai.lt/wp-content/uploads/2024/12/2024_Grybu_savadas_web.pdf",
+          "detail": "garbanotoji alvytė"
+        },
+        {
+          "group": "text",
+          "name": "15min.lt (J. Kasparavičius)",
+          "href": "https://www.15min.lt/gyvenimas/naujiena/namai/valinskas-rado-netiketu-grybu-mikologe-paaiskino-ka-su-jais-daryti-1034-2776330"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2554614",
+          "detail": "2554614"
+        }
+      ],
+      no: [
+        {
+          "group": "name",
+          "name": "Artsdatabanken",
+          "href": "https://artsdatabanken.no/arter/takson/55007",
+          "detail": "lys høstmorkel"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2554614",
+          "detail": "2554614"
+        }
+      ],
+      fa: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2554614",
+          "detail": "2554614"
+        }
+      ],
+      pl: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://pl.wikipedia.org/wiki/Piestrzyca_k%C4%99dzierzawa"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2554614",
+          "detail": "2554614"
+        }
+      ],
+      pt: [
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://pt.wikipedia.org/wiki/Helvella_crispa"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2554614",
+          "detail": "2554614"
+        }
+      ],
+      ro: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://ro.wikipedia.org/wiki/Helvella_crispa"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2554614",
+          "detail": "2554614"
+        }
+      ],
+      ru: [
+        {
+          "group": "text",
+          "name": "Википедия",
+          "href": "https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D0%BF%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA_%D0%BA%D1%83%D1%80%D1%87%D0%B0%D0%B2%D1%8B%D0%B9"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2554614",
+          "detail": "2554614"
+        }
+      ],
+      sr: [
+        {
+          "group": "text",
+          "name": "Википедија",
+          "href": "https://sr.wikipedia.org/wiki/%D0%88%D0%B5%D1%81%D0%B5%D1%9A%D0%B8_%D1%85%D1%80%D1%87%D0%B0%D0%BA"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2554614",
+          "detail": "2554614"
+        }
+      ],
+      sl: [
+        {
+          "group": "text",
+          "name": "Wikipedija",
+          "href": "https://sl.wikipedia.org/wiki/Jesenski_loputar"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2554614",
+          "detail": "2554614"
+        }
+      ],
+      es: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://es.wikipedia.org/wiki/Helvella_crispa"
+        },
+        {
+          "group": "name",
+          "name": "Aranzadi",
+          "href": "https://www.aranzadi.eus/buscador-micologico/ficha/2-1-054.06.09.00.03.00?from=gallery",
+          "detail": "oreja de gato blanca"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2554614",
+          "detail": "2554614"
+        }
+      ],
+      sv: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://sv.wikipedia.org/wiki/Vit_hattmurkla"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2554614",
+          "detail": "2554614"
+        }
+      ],
+      tr: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2554614",
+          "detail": "2554614"
+        }
+      ],
+      uk: [
+        {
+          "group": "text",
+          "name": "Вікіпедія",
+          "href": "https://uk.wikipedia.org/wiki/%D0%93%D0%B5%D0%BB%D1%8C%D0%B2%D0%B5%D0%BB%D0%B0_%D0%BA%D1%83%D1%87%D0%B5%D1%80%D1%8F%D0%B2%D0%B0"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2554614",
+          "detail": "2554614"
+        }
+      ]
+    },
+    synonyms: [
+      "Phallus crispus Scop.",
+      "Costapeda crispa (Scop.) K.R. Falck",
+      "Helvella nigricans Schaeff.",
+      "Phallus costatus Batsch",
+      "Helvella pityophila Boud.",
+      "Helvella barlae Boud. & Pat."
+    ]
+  },
+  {
+    id: 109,
+    name: "Hydnellum ferrugineum",
+    author: "(Fr.) P. Karst.",
+    family: "Bankeraceae",
+    genus: "Hydnellum",
+    order: "Thelephorales",
+    edibility: "inedible",
+    hymenium: "teeth",
+    where: ["ground"],
+    color: ["white", "brown"],
+    path: [
+      "Fungi",
+      "Dikarya",
+      "Basidiomycota",
+      "Agaricomycotina",
+      "Agaricomycetes",
+      "Incertae sedis",
+      "Thelephorales",
+      "Bankeraceae",
+      "Hydnellum"
+    ],
+    summary: ["Thelephorales", "Bankeraceae", "Hydnellum"],
+    added: "2026-11-04",
+    plate: STORAGE + "photos/Thelephorales/Bankeraceae/Hydnellum_ferrugineum/Hydnellum_ferrugineum@1600.webp",
+    plateGrid: STORAGE + "photos/Thelephorales/Bankeraceae/Hydnellum_ferrugineum/Hydnellum_ferrugineum@400.webp",
+    plateCredit: {
+      author: "Pierre Bulliard",
+      license: "public domain",
+      source: "https://commons.wikimedia.org/wiki/File:Herbier_de_la_France,_ou_collection_complette_des_plantes_indig%C3%A8nes_de_ce_royaume_(IA_b30449248).pdf?page=241"
+    },
+    photos: [
+      {
+        src: STORAGE + "photos/Thelephorales/Bankeraceae/Hydnellum_ferrugineum/hfp1.webp",
+        author: "Svencapoeira",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Pruun_k%C3%BCbarnarmik.jpg"
+      },
+      {
+        src: STORAGE + "photos/Thelephorales/Bankeraceae/Hydnellum_ferrugineum/hfp2.webp",
+        author: "Alan Rockefeller",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Hydnellum_ferrugineum_181546.jpg"
+      },
+      {
+        src: STORAGE + "photos/Thelephorales/Bankeraceae/Hydnellum_ferrugineum/hfp3.webp",
+        author: "Myrabella",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Hydnellum_ferrugineum_Glieres.jpg"
+      },
+      {
+        src: STORAGE + "photos/Thelephorales/Bankeraceae/Hydnellum_ferrugineum/hfp4.webp",
+        author: "Juan Antonio Picado Méndez",
+        license: "CC BY 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Hydnellum_ferrugineum_in_Pinus_halepensis_forest_(Tamaj%C3%B3n,_Spain).jpg"
+      },
+      {
+        src: STORAGE + "photos/Thelephorales/Bankeraceae/Hydnellum_ferrugineum/hfp5.webp",
+        author: "Svencapoeira",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Pruun_k%C3%BCbarnarmik3.jpg"
+      },
+      {
+        src: STORAGE + "photos/Thelephorales/Bankeraceae/Hydnellum_ferrugineum/hfp6.webp",
+        author: "caspar s",
+        license: "CC BY 2.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/2.0",
+        source: "https://commons.wikimedia.org/wiki/File:Hydnellum_ferrugineum_(7882897880).jpg"
+      }
+    ],
+    capFrom: 3,
+    capTo: 10,
+    stipeHeightFrom: 1,
+    stipeHeightTo: 6,
+    stipeThickFrom: 1,
+    stipeThickTo: 3,
+    fruitingFrom: 8,
+    fruitingTo: 10,
+    label: {
+      en: "mealy tooth",
+      sk: "jelenkovka hrdzavohnedá",
+      zh: "锈色亚齿菌",
+      cs: "lošákovec rezavý",
+      da: "rust-korkpigsvamp",
+      nl: "roodbruine stekelzwam",
+      et: "pruun kübarnarmik",
+      fi: "ruosteorakas",
+      fr: "hydne ferrugineux",
+      de: "Rotbrauner Korkstacheling",
+      he: "שנונית שחומה",
+      hu: "izzadó fásgereben",
+      ja: "アカノシズクハリタケ",
+      lv: "rūsganā brūnzobe",
+      lt: "rudasis dyglutėlis",
+      no: "rustbrunpigg",
+      pl: "kolczakówka kasztanowata",
+      ru: "гиднеллум ржавчинный",
+      sl: "rjasta ježevka",
+      es: "hidno herrumbroso",
+      sv: "dropptaggsvamp"
+    },
+    names: {
+      ja: ["オオサビハリタケ"],
+      sv: ["röddroppig taggsvamp"]
+    },
+    text: {
+      en: {
+        description: "A tough, corky tooth fungus with a top-shaped fruitbody whose young, whitish surface oozes conspicuous blood-red droplets. It ages to rusty or reddish brown. It grows on poor, sandy or mossy soil under conifers, especially pine, and is not edible.",
+        cap: "The cap is 3–10 cm across, convex at first, then flat or shallowly depressed, irregular, and often fused with neighbouring caps. The surface is felty and uneven, whitish to pinkish when young and beaded with red droplets, then reddish to rusty brown and lumpy, with a paler growing margin.",
+        hymenium: "The underside bears crowded spines up to about 6 mm long that run a little down the stipe. They are whitish at first, then purplish brown to brown.",
+        stipe: "The stipe is 1–6 cm long and 1–3 cm thick, short, often tapering downwards, felty and brown, with a spongy base that binds soil, needles and moss.",
+        flesh: "The flesh is tough and corky, reddish brown and faintly zoned. The taste is mild and the smell mealy.",
+        sporePrint: "The spore print is brown. The spores are roughly round, warty and brownish, about 5–6.5 × 3.5–5 µm.",
+        habitat: "It forms mycorrhizae with conifers, mainly pine and spruce, on nutrient-poor sandy or mossy soil, singly or in fused groups. Fruitbodies appear from August to October. It occurs in Europe and North America.",
+        uses: "It is not edible because the flesh is tough and corky. Like other Hydnellum species it has been used to dye wool.",
+        confusion: "Hydnellum peckii also oozes red droplets when young, but its flesh has a sharp, peppery taste. Hydnellum spongiosipes has a thick, spongy stipe and grows with broadleaved trees. Hydnellum concrescens has a thinner, concentrically zoned cap. Hydnellum scrobiculatum is smaller, with a pitted, rough cap.",
+        notes: "Elias Magnus Fries described it in 1815 as Hydnum ferrugineum, and Petter Adolf Karsten moved it to Hydnellum in 1879. The epithet ferrugineum means rust-coloured. The red droplets are sap pressed out of the actively growing fruitbody."
+      },
+      sk: {
+        description: "Tuhá, korkovitá ostnatá huba s kužeľovitou plodnicou, ktorej mladý belavý povrch vylučuje nápadné krvavočervené kvapky. Starnutím hrdzavohnedne. Rastie na chudobných piesočnatých alebo machových pôdach pod ihličnanmi, najmä pod borovicou, a nie je jedlá.",
+        cap: "Klobúk má priemer 3–10 cm, najprv vypuklý, potom plochý až plytko vhĺbený, nepravidelný a často zrastený so susednými klobúkmi. Povrch je plstnatý a hrboľatý, za mlada belavý až ružovkastý a pokrytý červenými kvapkami, neskôr červenohnedý až hrdzavohnedý so svetlejším rastúcim okrajom.",
+        hymenium: "Na spodnej strane sú husté ostne dlhé asi do 6 mm, mierne zbiehavé na hlúbik. Najprv sú belavé, potom fialovohnedé až hnedé.",
+        stipe: "Hlúbik je 1–6 cm dlhý a 1–3 cm hrubý, krátky, často nadol zúžený, plstnatý a hnedý, so špongiovitou bázou, ktorá zachytáva pôdu, ihličie a mach.",
+        flesh: "Dužina je tuhá a korkovitá, červenohnedá a nevýrazne pásikavá. Chuť je mierna a vôňa múčna.",
+        sporePrint: "Výtrusný prach je hnedý. Výtrusy sú približne guľovité, bradavičnaté a hnedasté, asi 5–6,5 × 3,5–5 µm.",
+        habitat: "Tvorí mykorízu s ihličnanmi, hlavne s borovicou a smrekom, na živinami chudobných piesočnatých alebo machových pôdach, jednotlivo alebo v zrastených skupinách. Plodnice sa objavujú od augusta do októbra. Vyskytuje sa v Európe a Severnej Amerike.",
+        uses: "Nie je jedlá, pretože dužina je tuhá a korkovitá. Podobne ako iné druhy rodu Hydnellum sa používala na farbenie vlny.",
+        confusion: "Hydnellum peckii za mlada tiež vylučuje červené kvapky, ale jeho dužina má ostrú, štipľavú chuť. Hydnellum spongiosipes má hrubý, špongiovitý hlúbik a rastie s listnáčmi. Hydnellum concrescens má tenší, sústredne pásikavý klobúk. Hydnellum scrobiculatum je menší, s jamkatým, drsným klobúkom.",
+        notes: "Elias Magnus Fries ho opísal v roku 1815 ako Hydnum ferrugineum a Petter Adolf Karsten ho v roku 1879 preradil do rodu Hydnellum. Druhový prívlastok ferrugineum znamená hrdzavej farby. Červené kvapky sú šťava vytláčaná z aktívne rastúcej plodnice."
+      },
+      ar: {
+        description: "فطر شوكي صلب فليني، جسمه الثمري على شكل خذروف، ويفرز سطحه الفتي المائل إلى البياض قطرات بارزة حمراء كالدم. ويتحول مع العمر إلى بني صدئي أو بني محمر. ينمو في تربة رملية أو طحلبية فقيرة تحت المخروطيات، ولا سيما الصنوبر، وهو غير صالح للأكل.",
+        cap: "يبلغ عرض القبعة ٣–١٠ سم، وتكون محدبة في البداية ثم مسطحة أو منخفضة قليلاً، غير منتظمة، وكثيراً ما تلتحم بالقبعات المجاورة. السطح لبدي غير مستوٍ، مائل إلى البياض أو الوردي في الصغر ومرصع بقطرات حمراء، ثم بني محمر إلى بني صدئي مع حافة نامية أفتح لوناً.",
+        hymenium: "يحمل السطح السفلي أشواكاً متزاحمة يصل طولها إلى نحو ٦ مم، تمتد قليلاً على الساق. تكون في البداية مائلة إلى البياض ثم بنية أرجوانية إلى بنية.",
+        stipe: "يبلغ طول الساق ١–٦ سم وسمكها ١–٣ سم، وهي قصيرة تستدق غالباً نحو الأسفل، لبدية بنية، ولها قاعدة إسفنجية تمسك التربة والإبر والطحالب.",
+        flesh: "اللحم صلب فليني، بني محمر وذو نطاقات خفيفة. الطعم معتدل والرائحة دقيقية.",
+        sporePrint: "بصمة الأبواغ بنية. الأبواغ مستديرة تقريباً، ثؤلولية وبنية اللون، نحو ٥–٦٫٥ × ٣٫٥–٥ ميكرومتر.",
+        habitat: "يكوّن جذوراً فطرية مع المخروطيات، وخاصة الصنوبر والتنوب، في تربة رملية أو طحلبية فقيرة بالمغذيات، منفرداً أو في مجموعات ملتحمة. تظهر الأجسام الثمرية من أغسطس إلى أكتوبر. ينتشر في أوروبا وأمريكا الشمالية.",
+        uses: "غير صالح للأكل لأن لحمه صلب فليني. واستُخدم مثل أنواع Hydnellum الأخرى في صباغة الصوف.",
+        confusion: "يفرز Hydnellum peckii أيضاً قطرات حمراء في صغره، لكن لحمه حاد الطعم لاذع كالفلفل. أما Hydnellum spongiosipes فله ساق سميكة إسفنجية وينمو مع الأشجار عريضة الأوراق. ولـ Hydnellum concrescens قبعة أرق ذات نطاقات متحدة المركز. أما Hydnellum scrobiculatum فهو أصغر وقبعته خشنة منقرة.",
+        notes: "وصفه إلياس ماغنوس فريس عام ١٨١٥ باسم Hydnum ferrugineum، ونقله بيتر أدولف كارستن إلى الجنس Hydnellum عام ١٨٧٩. يعني النعت ferrugineum «بلون الصدأ». والقطرات الحمراء عصارة تُعصر من الجسم الثمري في أثناء نموه النشط."
+      },
+      bg: {
+        description: "Жилава, коркова бодлива гъба с пумпаловидно плодно тяло, чиято млада белезникава повърхност отделя забележими кървавочервени капки. С възрастта става ръждивокафява или червеникавокафява. Расте на бедни песъчливи или мъхести почви под иглолистни дървета, особено бор, и не е годна за консумация.",
+        cap: "Шапката е 3–10 cm в диаметър, отначало изпъкнала, после плоска или плитко вдлъбната, неправилна и често сраснала със съседни шапки. Повърхността е филцеста и неравна, като млада белезникава до розовееща и покрита с червени капки, по-късно червеникавокафява до ръждивокафява с по-светъл растящ ръб.",
+        hymenium: "Отдолу има гъсти бодли, дълги до около 6 mm, които слабо се спускат по пънчето. Отначало са белезникави, после пурпурнокафяви до кафяви.",
+        stipe: "Пънчето е 1–6 cm дълго и 1–3 cm дебело, късо, често стеснено надолу, филцесто и кафяво, с гъбеста основа, която обхваща почва, иглички и мъх.",
+        flesh: "Месото е жилаво и корково, червеникавокафяво и слабо зонирано. Вкусът е мек, а миризмата брашнеста.",
+        sporePrint: "Споровият отпечатък е кафяв. Спорите са почти кълбовидни, брадавичести и кафеникави, около 5–6,5 × 3,5–5 µm.",
+        habitat: "Образува микориза с иглолистни дървета, главно бор и смърч, на бедни песъчливи или мъхести почви, поединично или на срасли групи. Плодните тела се появяват от август до октомври. Среща се в Европа и Северна Америка.",
+        uses: "Не е годна за консумация, защото месото е жилаво и корково. Както и други видове Hydnellum, е използвана за боядисване на вълна.",
+        confusion: "Hydnellum peckii също отделя червени капки като млад, но месото му има остър, лютив вкус. Hydnellum spongiosipes има дебело, гъбесто пънче и расте с широколистни дървета. Hydnellum concrescens има по-тънка, концентрично зонирана шапка. Hydnellum scrobiculatum е по-малък, с ямчеста, грапава шапка.",
+        notes: "Елиас Магнус Фрис я описва през 1815 г. като Hydnum ferrugineum, а Петер Адолф Карстен я премества в род Hydnellum през 1879 г. Епитетът ferrugineum означава „с цвят на ръжда“. Червените капки са сок, изстискван от активно растящото плодно тяло."
+      },
+      zh: {
+        description: "一种坚韧、木栓质的齿菌，子实体呈陀螺形，幼时发白的表面会渗出醒目的血红色液滴，老后变为锈褐色或红褐色。生于针叶树下，尤其是松树下贫瘠的沙质或苔藓土壤上，不可食用。",
+        cap: "菌盖直径3–10厘米，初凸起，后平展或稍下凹，形状不规则，常与相邻菌盖愈合。表面毡毛状、凹凸不平，幼时白色至带粉红色并布满红色液滴，后变为红褐色至锈褐色，生长中的边缘颜色较浅。",
+        hymenium: "下面密生长达约6毫米的菌刺，稍延生至菌柄。菌刺初为白色，后变为紫褐色至褐色。",
+        stipe: "菌柄长1–6厘米，粗1–3厘米，短，常向下渐细，毡毛状，褐色，基部海绵状，裹有泥土、针叶和苔藓。",
+        flesh: "菌肉坚韧、木栓质，红褐色，有不明显的环带。味道温和，有粉味。",
+        sporePrint: "孢子印褐色。孢子近球形，有疣，带褐色，约5–6.5 × 3.5–5微米。",
+        habitat: "与针叶树，主要是松树和云杉形成菌根，生于营养贫瘠的沙质或苔藓土壤上，单生或愈合成群。子实体出现于8月至10月。分布于欧洲和北美洲。",
+        uses: "由于菌肉坚韧、木栓质，不可食用。与其他Hydnellum属物种一样，曾被用来染羊毛。",
+        confusion: "Hydnellum peckii幼时也会渗出红色液滴，但其菌肉有辛辣如胡椒的味道。Hydnellum spongiosipes菌柄粗厚、海绵状，与阔叶树共生。Hydnellum concrescens菌盖较薄，有同心环带。Hydnellum scrobiculatum较小，菌盖有凹坑且粗糙。",
+        notes: "埃利亚斯·马格努斯·弗里斯于1815年将其描述为Hydnum ferrugineum，彼得·阿道夫·卡斯滕于1879年将其移入Hydnellum属。种加词ferrugineum意为“锈色的”。红色液滴是从生长活跃的子实体中挤出的汁液。"
+      },
+      hr: {
+        description: "Žilava, plutasta gljiva bodljikača s plodištem u obliku zvrka, čija mlada bjelkasta površina izlučuje upadljive krvavocrvene kapljice. Starenjem postaje hrđavosmeđa ili crvenkastosmeđa. Raste na siromašnim pjeskovitim ili mahovinastim tlima ispod četinjača, osobito bora, i nije jestiva.",
+        cap: "Šešir je promjera 3–10 cm, isprva ispupčen, zatim ravan ili plitko udubljen, nepravilan i često srastao sa susjednim šeširima. Površina je pustenasta i neravna, u mladosti bjelkasta do ružičasta i prekrivena crvenim kapljicama, kasnije crvenkastosmeđa do hrđavosmeđa sa svjetlijim rubom koji raste.",
+        hymenium: "Na donjoj strani su gusti bodlji dugi do oko 6 mm, koji se malo spuštaju niz stručak. Isprva su bjelkasti, zatim purpurnosmeđi do smeđi.",
+        stipe: "Stručak je dug 1–6 cm i debeo 1–3 cm, kratak, često sužen prema dolje, pustenast i smeđ, sa spužvastom osnovom koja obuhvaća tlo, iglice i mahovinu.",
+        flesh: "Meso je žilavo i plutasto, crvenkastosmeđe i neizrazito zonirano. Okus je blag, a miris brašnast.",
+        sporePrint: "Otisak spora je smeđ. Spore su približno okrugle, bradavičaste i smećkaste, oko 5–6,5 × 3,5–5 µm.",
+        habitat: "Tvori mikorizu s četinjačama, uglavnom borom i smrekom, na pjeskovitim ili mahovinastim tlima siromašnim hranjivima, pojedinačno ili u sraslim skupinama. Plodišta se pojavljuju od kolovoza do listopada. Rasprostranjena je u Europi i Sjevernoj Americi.",
+        uses: "Nije jestiva jer je meso žilavo i plutasto. Kao i druge vrste roda Hydnellum, rabila se za bojenje vune.",
+        confusion: "Hydnellum peckii u mladosti također izlučuje crvene kapljice, ali mu meso ima oštar, ljut okus. Hydnellum spongiosipes ima debeo, spužvast stručak i raste uz listopadno drveće. Hydnellum concrescens ima tanji, koncentrično zoniran šešir. Hydnellum scrobiculatum je manji, s jamičastim, hrapavim šeširom.",
+        notes: "Elias Magnus Fries opisao ju je 1815. kao Hydnum ferrugineum, a Petter Adolf Karsten premjestio ju je 1879. u rod Hydnellum. Epitet ferrugineum znači boje hrđe. Crvene kapljice su sok istisnut iz plodišta koje aktivno raste."
+      },
+      cs: {
+        description: "Tuhá, korkovitá ostnatá houba s káčovitou plodnicí, jejíž mladý bělavý povrch vylučuje nápadné krvavě červené kapky. Stářím rezavě nebo červenohnědě hnědne. Roste na chudých písčitých nebo mechatých půdách pod jehličnany, hlavně pod borovicí, a není jedlá.",
+        cap: "Klobouk má průměr 3–10 cm, zprvu vypouklý, pak plochý až mělce prohloubený, nepravidelný a často srostlý se sousedními klobouky. Povrch je plstnatý a hrbolatý, zamlada bělavý až narůžovělý a pokrytý červenými kapkami, později červenohnědý až rezavě hnědý se světlejším rostoucím okrajem.",
+        hymenium: "Na spodní straně jsou husté ostny dlouhé asi do 6 mm, mírně sbíhající na třeň. Zprvu jsou bělavé, pak fialově hnědé až hnědé.",
+        stipe: "Třeň je 1–6 cm dlouhý a 1–3 cm tlustý, krátký, často dolů zúžený, plstnatý a hnědý, s houbovitou bází, která obrůstá půdu, jehličí a mech.",
+        flesh: "Dužnina je tuhá a korkovitá, červenohnědá a nezřetelně páskovaná. Chuť je mírná a vůně moučná.",
+        sporePrint: "Výtrusný prach je hnědý. Výtrusy jsou přibližně kulovité, bradavčité a nahnědlé, asi 5–6,5 × 3,5–5 µm.",
+        habitat: "Tvoří mykorhizu s jehličnany, hlavně s borovicí a smrkem, na živinami chudých písčitých nebo mechatých půdách, jednotlivě nebo ve srostlých skupinách. Plodnice se objevují od srpna do října. Vyskytuje se v Evropě a Severní Americe.",
+        uses: "Není jedlá, protože dužnina je tuhá a korkovitá. Stejně jako jiné druhy rodu Hydnellum se používala k barvení vlny.",
+        confusion: "Hydnellum peckii zamlada také vylučuje červené kapky, ale jeho dužnina má ostrou, pálivou chuť. Hydnellum spongiosipes má tlustý, houbovitý třeň a roste s listnáči. Hydnellum concrescens má tenčí, soustředně páskovaný klobouk. Hydnellum scrobiculatum je menší, s důlkatým, drsným kloboukem.",
+        notes: "Elias Magnus Fries ji popsal roku 1815 jako Hydnum ferrugineum a Petter Adolf Karsten ji roku 1879 přeřadil do rodu Hydnellum. Druhové jméno ferrugineum znamená rezavé barvy. Červené kapky jsou šťáva vytlačovaná z aktivně rostoucí plodnice."
+      },
+      da: {
+        description: "En sej, korkagtig pigsvamp med en snurretoplignende frugtkrop, hvis unge, hvidlige overflade udskiller iøjnefaldende blodrøde dråber. Med alderen bliver den rustbrun eller rødbrun. Den vokser på næringsfattig sandet eller mosklædt jord under nåletræer, især fyr, og er ikke spiselig.",
+        cap: "Hatten er 3–10 cm bred, først hvælvet, senere flad eller svagt fordybet, uregelmæssig og ofte sammenvokset med nabohatte. Overfladen er filtet og ujævn, som ung hvidlig til rosa og besat med røde dråber, senere rødbrun til rustbrun med en lysere voksende rand.",
+        hymenium: "Undersiden bærer tætte pigge op til ca. 6 mm lange, der løber lidt ned ad stokken. De er først hvidlige, senere purpurbrune til brune.",
+        stipe: "Stokken er 1–6 cm lang og 1–3 cm tyk, kort, ofte tilspidset nedad, filtet og brun, med en svampet basis, der binder jord, nåle og mos.",
+        flesh: "Kødet er sejt og korkagtigt, rødbrunt og svagt zoneret. Smagen er mild og lugten melagtig.",
+        sporePrint: "Sporepulveret er brunt. Sporerne er næsten runde, vortede og brunlige, ca. 5–6,5 × 3,5–5 µm.",
+        habitat: "Den danner mykorrhiza med nåletræer, især fyr og gran, på næringsfattig sandet eller mosklædt jord, enkeltvis eller i sammenvoksede grupper. Frugtlegemerne ses fra august til oktober. Den findes i Europa og Nordamerika.",
+        uses: "Den er ikke spiselig, fordi kødet er sejt og korkagtigt. Som andre Hydnellum-arter er den brugt til at farve uld.",
+        confusion: "Hydnellum peckii udskiller også røde dråber som ung, men kødet har en skarp, peberagtig smag. Hydnellum spongiosipes har en tyk, svampet stok og vokser med løvtræer. Hydnellum concrescens har en tyndere, koncentrisk zoneret hat. Hydnellum scrobiculatum er mindre, med en grubet, ru hat.",
+        notes: "Elias Magnus Fries beskrev den i 1815 som Hydnum ferrugineum, og Petter Adolf Karsten flyttede den til Hydnellum i 1879. Artsnavnet ferrugineum betyder rustfarvet. De røde dråber er saft, der presses ud af den aktivt voksende frugtkrop."
+      },
+      nl: {
+        description: "Een taaie, kurkachtige stekelzwam met een tolvormig vruchtlichaam, waarvan het jonge, witachtige oppervlak opvallende bloedrode druppels afscheidt. Met de leeftijd wordt hij roestbruin of roodbruin. Hij groeit op arme, zandige of bemoste grond onder naaldbomen, vooral den, en is niet eetbaar.",
+        cap: "De hoed is 3–10 cm breed, eerst gewelfd, later vlak of ondiep ingedeukt, onregelmatig en vaak vergroeid met naburige hoeden. Het oppervlak is viltig en hobbelig, jong witachtig tot roze en bezet met rode druppels, later roodbruin tot roestbruin met een lichtere groeiende rand.",
+        hymenium: "De onderkant draagt dichte stekels tot ongeveer 6 mm lang, die iets aflopen langs de steel. Ze zijn eerst witachtig, later paarsbruin tot bruin.",
+        stipe: "De steel is 1–6 cm lang en 1–3 cm dik, kort, vaak naar onderen versmald, viltig en bruin, met een sponzige voet die aarde, naalden en mos vasthoudt.",
+        flesh: "Het vlees is taai en kurkachtig, roodbruin en vaag gezoneerd. De smaak is zacht en de geur meelachtig.",
+        sporePrint: "De sporee is bruin. De sporen zijn vrijwel rond, wrattig en bruinachtig, ongeveer 5–6,5 × 3,5–5 µm.",
+        habitat: "Hij vormt mycorrhiza met naaldbomen, vooral den en spar, op voedselarme zandige of bemoste grond, alleen of in vergroeide groepen. De vruchtlichamen verschijnen van augustus tot oktober. Hij komt voor in Europa en Noord-Amerika.",
+        uses: "Hij is niet eetbaar, omdat het vlees taai en kurkachtig is. Net als andere Hydnellum-soorten is hij gebruikt om wol te verven.",
+        confusion: "Hydnellum peckii scheidt jong ook rode druppels af, maar het vlees heeft een scherpe, peperige smaak. Hydnellum spongiosipes heeft een dikke, sponzige steel en groeit bij loofbomen. Hydnellum concrescens heeft een dunnere, concentrisch gezoneerde hoed. Hydnellum scrobiculatum is kleiner, met een putjesrijke, ruwe hoed.",
+        notes: "Elias Magnus Fries beschreef hem in 1815 als Hydnum ferrugineum, en Petter Adolf Karsten plaatste hem in 1879 in Hydnellum. De soortaanduiding ferrugineum betekent roestkleurig. De rode druppels zijn sap dat uit het actief groeiende vruchtlichaam wordt geperst."
+      },
+      et: {
+        description: "Sitke, korgilaadne ogaseen, mille vurrikujulise viljakeha noor valkjas pind eritab silmatorkavaid verepunaseid tilku. Vanemana muutub ta roostepruuniks või punakaspruuniks. Kasvab okaspuude, eriti männi all toitainevaesel liivasel või samblasel mullal ega ole söödav.",
+        cap: "Kübar on 3–10 cm lai, algul kumer, hiljem lame või madalalt lohkjas, ebakorrapärane ja sageli kokku kasvanud naaberkübaratega. Pind on viltjas ja ebatasane, noorelt valkjas kuni roosakas ja kaetud punaste tilkadega, hiljem punakaspruun kuni roostepruun heledama kasvava servaga.",
+        hymenium: "Alaküljel on tihedad kuni umbes 6 mm pikkused ogad, mis jooksevad veidi jalale. Algul on need valkjad, hiljem purpurpruunid kuni pruunid.",
+        stipe: "Jalg on 1–6 cm pikk ja 1–3 cm jäme, lühike, sageli allapoole ahenev, viltjas ja pruun, käsnja alusega, mis seob mulda, okkaid ja sammalt.",
+        flesh: "Viljaliha on sitke ja korgilaadne, punakaspruun ja nõrgalt vöödiline. Maitse on mahe ja lõhn jahujas.",
+        sporePrint: "Eoslima on pruun. Eosed on peaaegu ümarad, mügarlikud ja pruunikad, umbes 5–6,5 × 3,5–5 µm.",
+        habitat: "Moodustab mükoriisa okaspuudega, peamiselt männi ja kuusega, toitainevaesel liivasel või samblasel mullal, üksikult või kokku kasvanud rühmadena. Viljakehad ilmuvad augustist oktoobrini. Levinud Euroopas ja Põhja-Ameerikas.",
+        uses: "Ei ole söödav, sest viljaliha on sitke ja korgilaadne. Nagu teisi Hydnellum'i liike, on teda kasutatud villa värvimiseks.",
+        confusion: "Hydnellum peckii eritab noorelt samuti punaseid tilku, kuid tema viljalihal on terav, pipraline maitse. Hydnellum spongiosipes'il on jäme käsnjas jalg ja ta kasvab lehtpuudega. Hydnellum concrescens'il on õhem, kontsentriliselt vöödiline kübar. Hydnellum scrobiculatum on väiksem, auklik-kareda kübaraga.",
+        notes: "Elias Magnus Fries kirjeldas seda 1815. aastal nime all Hydnum ferrugineum ja Petter Adolf Karsten tõstis selle 1879. aastal perekonda Hydnellum. Liiginimi ferrugineum tähendab roostevärvilist. Punased tilgad on mahl, mis pressitakse välja aktiivselt kasvavast viljakehast."
+      },
+      fi: {
+        description: "Sitkeä, korkkimainen piikkisieni, jonka hyrrämäisen itiöemän nuori, vaalea pinta erittää näyttäviä verenpunaisia pisaroita. Vanhetessaan se muuttuu ruosteenruskeaksi tai punaruskeaksi. Se kasvaa havupuiden, erityisesti männyn, alla karulla hiekkaisella tai sammaleisella maalla, eikä se ole ruokasieni.",
+        cap: "Lakki on 3–10 cm leveä, aluksi kupera, myöhemmin tasainen tai matalasti painunut, epäsäännöllinen ja usein yhteen kasvanut viereisten lakkien kanssa. Pinta on huopamainen ja epätasainen, nuorena vaalea tai punertava ja punaisten pisaroiden peittämä, myöhemmin punaruskea tai ruosteenruskea, ja kasvava reuna on vaaleampi.",
+        hymenium: "Alapinnalla on tiheässä enintään noin 6 mm pitkiä piikkejä, jotka jatkuvat hieman jalalle. Ne ovat aluksi vaaleita, myöhemmin purppuranruskeita tai ruskeita.",
+        stipe: "Jalka on 1–6 cm pitkä ja 1–3 cm paksu, lyhyt, usein alaspäin kapeneva, huopamainen ja ruskea, ja sen sienimäinen tyvi sitoo maata, neulasia ja sammalta.",
+        flesh: "Malto on sitkeä ja korkkimainen, punaruskea ja heikosti vyöhykkeinen. Maku on mieto ja haju jauhoinen.",
+        sporePrint: "Itiöpöly on ruskea. Itiöt ovat lähes pyöreitä, nystyisiä ja ruskehtavia, noin 5–6,5 × 3,5–5 µm.",
+        habitat: "Se muodostaa sienijuuren havupuiden, lähinnä männyn ja kuusen, kanssa ravinneköyhällä hiekkaisella tai sammaleisella maalla, yksittäin tai yhteen kasvaneina ryhminä. Itiöemiä tavataan elokuusta lokakuuhun. Lajia esiintyy Euroopassa ja Pohjois-Amerikassa.",
+        uses: "Se ei ole ruokasieni, koska malto on sitkeä ja korkkimainen. Muiden Hydnellum-lajien tapaan sitä on käytetty villan värjäämiseen.",
+        confusion: "Myös Hydnellum peckii erittää nuorena punaisia pisaroita, mutta sen maltolla on terävä, pippurinen maku. Hydnellum spongiosipes -lajilla on paksu, sienimäinen jalka, ja se kasvaa lehtipuiden kanssa. Hydnellum concrescens -lajilla on ohuempi, samankeskisesti vyöhykkeinen lakki. Hydnellum scrobiculatum on pienempi, ja sen lakki on kuoppainen ja karhea.",
+        notes: "Elias Magnus Fries kuvasi lajin vuonna 1815 nimellä Hydnum ferrugineum, ja Petter Adolf Karsten siirsi sen sukuun Hydnellum vuonna 1879. Lajinimi ferrugineum tarkoittaa ruosteenväristä. Punaiset pisarat ovat nestettä, jota aktiivisesti kasvava itiöemä puristaa ulos."
+      },
+      fr: {
+        description: "Un champignon à aiguillons coriace et subéreux, au sporophore en forme de toupie, dont la surface blanchâtre des jeunes exemplaires exsude de spectaculaires gouttelettes rouge sang. Il devient brun rouille ou brun rougeâtre en vieillissant. Il pousse sur des sols pauvres, sableux ou moussus, sous les conifères, surtout les pins, et n'est pas comestible.",
+        cap: "Le chapeau mesure 3–10 cm de diamètre ; d'abord convexe, puis plat ou légèrement déprimé, il est irrégulier et souvent soudé aux chapeaux voisins. La surface est feutrée et bosselée, blanchâtre à rosée et perlée de gouttes rouges chez les jeunes, puis brun rougeâtre à brun rouille, avec une marge en croissance plus pâle.",
+        hymenium: "La face inférieure porte des aiguillons serrés, longs d'environ 6 mm au plus, un peu décurrents sur le pied. Ils sont d'abord blanchâtres, puis brun pourpré à bruns.",
+        stipe: "Le pied mesure 1–6 cm de long et 1–3 cm d'épaisseur ; court, souvent atténué vers le bas, feutré et brun, il a une base spongieuse qui englobe terre, aiguilles et mousse.",
+        flesh: "La chair est coriace et subéreuse, brun rougeâtre et faiblement zonée. La saveur est douce et l'odeur farineuse.",
+        sporePrint: "La sporée est brune. Les spores sont presque rondes, verruqueuses et brunâtres, d'environ 5–6,5 × 3,5–5 µm.",
+        habitat: "Il forme des mycorhizes avec les conifères, surtout pins et épicéas, sur des sols pauvres, sableux ou moussus, isolé ou en groupes soudés. Les sporophores apparaissent d'août à octobre. Il est présent en Europe et en Amérique du Nord.",
+        uses: "Il n'est pas comestible, car sa chair est coriace et subéreuse. Comme d'autres espèces d'Hydnellum, il a servi à teindre la laine.",
+        confusion: "Hydnellum peckii exsude aussi des gouttes rouges quand il est jeune, mais sa chair a une saveur âcre et poivrée. Hydnellum spongiosipes a un pied épais et spongieux et pousse sous les feuillus. Hydnellum concrescens a un chapeau plus mince, zoné concentriquement. Hydnellum scrobiculatum est plus petit, avec un chapeau rugueux et creusé de fossettes.",
+        notes: "Elias Magnus Fries l'a décrit en 1815 sous le nom d'Hydnum ferrugineum, et Petter Adolf Karsten l'a transféré dans Hydnellum en 1879. L'épithète ferrugineum signifie couleur de rouille. Les gouttes rouges sont de la sève expulsée par le sporophore en pleine croissance."
+      },
+      de: {
+        description: "Ein zäher, korkiger Stachelpilz mit kreiselförmigem Fruchtkörper, dessen junge, weißliche Oberfläche auffällige blutrote Tropfen ausscheidet. Im Alter wird er rost- oder rotbraun. Er wächst auf armen, sandigen oder moosigen Böden unter Nadelbäumen, besonders Kiefern, und ist kein Speisepilz.",
+        cap: "Der Hut ist 3–10 cm breit, zuerst gewölbt, dann flach oder seicht vertieft, unregelmäßig und oft mit benachbarten Hüten verwachsen. Die Oberfläche ist filzig und uneben, jung weißlich bis rosa und mit roten Tropfen besetzt, später rotbraun bis rostbraun mit hellerem, wachsendem Rand.",
+        hymenium: "Die Unterseite trägt dichte, bis etwa 6 mm lange Stacheln, die etwas am Stiel herablaufen. Sie sind zuerst weißlich, dann purpurbraun bis braun.",
+        stipe: "Der Stiel ist 1–6 cm lang und 1–3 cm dick, kurz, oft nach unten verjüngt, filzig und braun, mit einer schwammigen Basis, die Erde, Nadeln und Moos einschließt.",
+        flesh: "Das Fleisch ist zäh und korkig, rotbraun und undeutlich gezont. Der Geschmack ist mild, der Geruch mehlartig.",
+        sporePrint: "Das Sporenpulver ist braun. Die Sporen sind fast rundlich, warzig und bräunlich, etwa 5–6,5 × 3,5–5 µm.",
+        habitat: "Er bildet Mykorrhiza mit Nadelbäumen, vor allem Kiefer und Fichte, auf nährstoffarmen sandigen oder moosigen Böden, einzeln oder in verwachsenen Gruppen. Die Fruchtkörper erscheinen von August bis Oktober. Er kommt in Europa und Nordamerika vor.",
+        uses: "Er ist nicht essbar, da das Fleisch zäh und korkig ist. Wie andere Hydnellum-Arten wurde er zum Färben von Wolle verwendet.",
+        confusion: "Hydnellum peckii scheidet jung ebenfalls rote Tropfen aus, sein Fleisch schmeckt jedoch scharf und pfeffrig. Hydnellum spongiosipes hat einen dicken, schwammigen Stiel und wächst bei Laubbäumen. Hydnellum concrescens hat einen dünneren, konzentrisch gezonten Hut. Hydnellum scrobiculatum ist kleiner und hat einen grubigen, rauen Hut.",
+        notes: "Elias Magnus Fries beschrieb ihn 1815 als Hydnum ferrugineum, und Petter Adolf Karsten stellte ihn 1879 in die Gattung Hydnellum. Das Epitheton ferrugineum bedeutet rostfarben. Die roten Tropfen sind Saft, der aus dem aktiv wachsenden Fruchtkörper gepresst wird."
+      },
+      he: {
+        description: "פטרייה קוצנית קשוחה ושעמית, בעלת גוף פרי דמוי סביבון, שפני השטח הלבנבנים שלה בצעירותה מפרישים טיפות בולטות בצבע אדום כדם. עם הזמן היא משחימה לגוון חום חלודה או חום אדמדם. היא גדלה בקרקע חולית או מכוסת טחב ועניה תחת עצי מחט, בעיקר אורנים, ואינה ראויה למאכל.",
+        cap: "רוחב הכובע 3–10 ס\"מ; בתחילה הוא קמור, אחר כך שטוח או שקוע מעט, לא סדיר, ולעיתים קרובות מאוחה לכובעים סמוכים. פני השטח לבדיים ולא אחידים, בצעירותם לבנבנים עד ורדרדים ומשובצים בטיפות אדומות, ובהמשך חומים־אדמדמים עד חומי חלודה, עם שוליים צומחים בהירים יותר.",
+        hymenium: "בצד התחתון קוצים צפופים באורך של עד כ־6 מ\"מ, היורדים מעט על הרגל. בתחילה הם לבנבנים, ואחר כך חומים־סגלגלים עד חומים.",
+        stipe: "אורך הרגל 1–6 ס\"מ ועוביה 1–3 ס\"מ; היא קצרה, לרוב מצטמצמת כלפי מטה, לבדית וחומה, ובסיסה ספוגי ולוכד אדמה, מחטים וטחב.",
+        flesh: "הבשר קשוח ושעמי, חום־אדמדם ובעל אזורים מעומעמים. הטעם עדין והריח קמחי.",
+        sporePrint: "אבקת הנבגים חומה. הנבגים כמעט עגולים, יבלתיים וחומחמים, כ־5–6.5 × 3.5–5 מיקרומטר.",
+        habitat: "היא יוצרת מיקוריזה עם עצי מחט, בעיקר אורן ואשוח, בקרקע חולית או מכוסת טחב ודלה במזינים, ביחידות או בקבוצות מאוחות. גופי הפרי מופיעים מאוגוסט עד אוקטובר. היא נפוצה באירופה ובצפון אמריקה.",
+        uses: "היא אינה ראויה למאכל משום שבשרה קשוח ושעמי. בדומה למינים אחרים של Hydnellum, שימשה לצביעת צמר.",
+        confusion: "גם Hydnellum peckii מפריש טיפות אדומות בצעירותו, אך לבשרו טעם חריף ופלפלי. ל־Hydnellum spongiosipes רגל עבה וספוגית, והוא גדל עם עצים רחבי עלים. ל־Hydnellum concrescens כובע דק יותר עם אזורים קונצנטריים. Hydnellum scrobiculatum קטן יותר, וכובעו מחוספס ומנוקב גומות.",
+        notes: "אליאס מגנוס פריס תיאר אותה ב־1815 בשם Hydnum ferrugineum, ופטר אדולף קרסטן העביר אותה לסוג Hydnellum ב־1879. שם המין ferrugineum פירושו בצבע חלודה. הטיפות האדומות הן מוהל הנדחק החוצה מגוף הפרי בזמן צמיחתו הפעילה."
+      },
+      hi: {
+        description: "यह एक सख़्त, कॉर्क जैसा काँटेदार कवक है, जिसका फलनकाय लट्टू के आकार का होता है और जिसकी नई, सफ़ेद-सी सतह से ख़ून जैसी लाल स्पष्ट बूँदें रिसती हैं। उम्र के साथ यह जंग-भूरा या लाल-भूरा हो जाता है। यह शंकुधारी पेड़ों, विशेषकर चीड़, के नीचे ग़रीब रेतीली या काई वाली मिट्टी पर उगता है और खाने योग्य नहीं है।",
+        cap: "टोपी 3–10 सेमी चौड़ी होती है; पहले उत्तल, फिर चपटी या हल्की धँसी हुई, अनियमित और अक्सर पड़ोसी टोपियों से जुड़ी हुई। सतह नमदे जैसी और ऊबड़-खाबड़ होती है, युवावस्था में सफ़ेद-सी से गुलाबी और लाल बूँदों से भरी, बाद में लाल-भूरी से जंग-भूरी, जिसका बढ़ता किनारा हल्का रहता है।",
+        hymenium: "निचली सतह पर लगभग 6 मिमी तक लंबे घने काँटे होते हैं, जो डंठल पर थोड़ा नीचे तक उतरते हैं। ये पहले सफ़ेद-से और बाद में बैंगनी-भूरे से भूरे हो जाते हैं।",
+        stipe: "डंठल 1–6 सेमी लंबा और 1–3 सेमी मोटा होता है; छोटा, अक्सर नीचे की ओर पतला, नमदे जैसा और भूरा, जिसका स्पंजी आधार मिट्टी, सुइयों और काई को बाँधे रखता है।",
+        flesh: "गूदा सख़्त और कॉर्क जैसा, लाल-भूरा और हल्की पट्टियों वाला होता है। स्वाद हल्का और गंध आटे जैसी होती है।",
+        sporePrint: "बीजाणु छाप भूरी होती है। बीजाणु लगभग गोल, मस्सेदार और भूरे-से होते हैं, लगभग 5–6.5 × 3.5–5 µm।",
+        habitat: "यह शंकुधारी पेड़ों, मुख्यतः चीड़ और स्प्रूस, के साथ कवकमूल बनाता है और पोषक तत्वों में कमज़ोर रेतीली या काई वाली मिट्टी पर अकेले या जुड़े समूहों में उगता है। फलनकाय अगस्त से अक्टूबर तक दिखते हैं। यह यूरोप और उत्तरी अमेरिका में पाया जाता है।",
+        uses: "इसका गूदा सख़्त और कॉर्क जैसा होने के कारण यह खाने योग्य नहीं है। अन्य Hydnellum प्रजातियों की तरह इसका उपयोग ऊन रंगने में किया गया है।",
+        confusion: "Hydnellum peckii भी युवावस्था में लाल बूँदें छोड़ता है, लेकिन उसके गूदे का स्वाद तीखा, मिर्च जैसा होता है। Hydnellum spongiosipes का डंठल मोटा और स्पंजी होता है और यह चौड़ी पत्ती वाले पेड़ों के साथ उगता है। Hydnellum concrescens की टोपी पतली और संकेंद्रित पट्टियों वाली होती है। Hydnellum scrobiculatum छोटा होता है और उसकी टोपी गड्ढेदार व खुरदरी होती है।",
+        notes: "एलियास माग्नस फ़्रीस ने 1815 में इसे Hydnum ferrugineum नाम से वर्णित किया, और पेटर अडोल्फ़ कार्स्टन ने 1879 में इसे Hydnellum वंश में रखा। प्रजाति-नाम ferrugineum का अर्थ है जंग के रंग का। लाल बूँदें वह रस हैं जो सक्रिय रूप से बढ़ते फलनकाय से बाहर निकलता है।"
+      },
+      hu: {
+        description: "Szívós, parafaszerű tüskés gomba csigaforma termőtesttel, amelynek fiatal, fehéres felszíne feltűnő vérvörös cseppeket választ ki. Idősen rozsdabarnára vagy vörösbarnára sötétedik. Tűlevelű fák, főleg erdeifenyő alatt, sovány homokos vagy mohás talajon nő, és nem ehető.",
+        cap: "A kalap 3–10 cm széles, eleinte domború, később lapos vagy kissé bemélyedő, szabálytalan, és gyakran összenő a szomszédos kalapokkal. Felszíne nemezes és egyenetlen, fiatalon fehéres vagy rózsaszínes és vörös cseppekkel borított, később vörösbarna vagy rozsdabarna, világosabb, növekvő szegéllyel.",
+        hymenium: "Az alsó oldalon sűrű, legfeljebb kb. 6 mm hosszú tüskék vannak, amelyek kissé lefutnak a tönkre. Eleinte fehéresek, majd bíborbarnák vagy barnák.",
+        stipe: "A tönk 1–6 cm hosszú és 1–3 cm vastag, rövid, gyakran lefelé keskenyedő, nemezes és barna, szivacsos tövében földet, tűleveleket és mohát foglal magába.",
+        flesh: "A hús szívós és parafaszerű, vörösbarna, halványan zónázott. Íze enyhe, szaga lisztes.",
+        sporePrint: "A spórapor barna. A spórák csaknem gömbölyűek, szemcsések és barnásak, kb. 5–6,5 × 3,5–5 µm.",
+        habitat: "Tűlevelű fákkal, főleg fenyővel és lucfenyővel alkot gyökérkapcsoltságot, tápanyagszegény homokos vagy mohás talajon, magányosan vagy összenőtt csoportokban. Termőtestei augusztustól októberig jelennek meg. Európában és Észak-Amerikában fordul elő.",
+        uses: "Nem ehető, mert húsa szívós és parafaszerű. Más Hydnellum-fajokhoz hasonlóan gyapjú festésére használták.",
+        confusion: "A Hydnellum peckii fiatalon szintén vörös cseppeket választ ki, de húsa csípős, borsos ízű. A Hydnellum spongiosipes tönkje vastag és szivacsos, és lombos fák alatt nő. A Hydnellum concrescens kalapja vékonyabb, koncentrikusan zónázott. A Hydnellum scrobiculatum kisebb, kalapja gödrös és érdes.",
+        notes: "Elias Magnus Fries 1815-ben írta le Hydnum ferrugineum néven, Petter Adolf Karsten pedig 1879-ben a Hydnellum nemzetségbe helyezte. A ferrugineum fajnév jelentése rozsdaszínű. A vörös cseppek az aktívan növekvő termőtestből kipréselt nedvek."
+      },
+      id: {
+        description: "Jamur berduri yang liat dan bergabus, dengan tubuh buah berbentuk gasing yang permukaannya keputihan saat muda dan mengeluarkan tetesan merah darah yang mencolok. Seiring umur warnanya menjadi cokelat karat atau cokelat kemerahan. Jamur ini tumbuh di tanah berpasir atau berlumut yang miskin hara di bawah pohon jarum, terutama pinus, dan tidak dapat dimakan.",
+        cap: "Tudung berdiameter 3–10 cm, mula-mula cembung, lalu datar atau sedikit cekung, tidak beraturan, dan sering menyatu dengan tudung di sebelahnya. Permukaannya berbulu kempa dan tidak rata, keputihan hingga merah muda saat muda dan bertabur tetesan merah, kemudian cokelat kemerahan hingga cokelat karat dengan tepi tumbuh yang lebih pucat.",
+        hymenium: "Sisi bawah ditumbuhi duri rapat sepanjang sampai sekitar 6 mm yang sedikit menurun ke tangkai. Duri mula-mula keputihan, lalu cokelat keunguan hingga cokelat.",
+        stipe: "Tangkai panjangnya 1–6 cm dan tebalnya 1–3 cm, pendek, sering meruncing ke bawah, berbulu kempa dan cokelat, dengan pangkal seperti spons yang mengikat tanah, daun jarum, dan lumut.",
+        flesh: "Dagingnya liat dan bergabus, cokelat kemerahan dan berzona samar. Rasanya lembut dan baunya seperti tepung.",
+        sporePrint: "Cetak spora berwarna cokelat. Spora hampir bulat, berkutil, dan kecokelatan, sekitar 5–6,5 × 3,5–5 µm.",
+        habitat: "Jamur ini membentuk mikoriza dengan pohon jarum, terutama pinus dan spruce, di tanah berpasir atau berlumut yang miskin hara, tunggal atau dalam kelompok yang menyatu. Tubuh buah muncul dari Agustus hingga Oktober. Jamur ini terdapat di Eropa dan Amerika Utara.",
+        uses: "Jamur ini tidak dapat dimakan karena dagingnya liat dan bergabus. Seperti spesies Hydnellum lain, jamur ini pernah dipakai untuk mewarnai wol.",
+        confusion: "Hydnellum peckii juga mengeluarkan tetesan merah saat muda, tetapi dagingnya terasa tajam seperti merica. Hydnellum spongiosipes memiliki tangkai tebal seperti spons dan tumbuh bersama pohon berdaun lebar. Hydnellum concrescens memiliki tudung lebih tipis dengan zona konsentris. Hydnellum scrobiculatum lebih kecil, dengan tudung kasar berlekuk.",
+        notes: "Elias Magnus Fries mendeskripsikannya pada 1815 sebagai Hydnum ferrugineum, dan Petter Adolf Karsten memindahkannya ke Hydnellum pada 1879. Epitet ferrugineum berarti berwarna karat. Tetesan merah itu adalah cairan yang terperas keluar dari tubuh buah yang sedang tumbuh aktif."
+      },
+      it: {
+        description: "Un fungo idnoide tenace e suberoso, con carpoforo a forma di trottola, la cui superficie biancastra da giovane trasuda vistose goccioline rosso sangue. Invecchiando diventa bruno ruggine o bruno rossastro. Cresce su suoli poveri, sabbiosi o muscosi, sotto le conifere, soprattutto i pini, e non è commestibile.",
+        cap: "Il cappello misura 3–10 cm di diametro; dapprima convesso, poi piano o leggermente depresso, è irregolare e spesso concresciuto con i cappelli vicini. La superficie è feltrata e bitorzoluta, da giovane biancastra o rosata e cosparsa di gocce rosse, poi bruno rossastra o bruno ruggine, con il margine in accrescimento più chiaro.",
+        hymenium: "La faccia inferiore porta aculei fitti, lunghi fino a circa 6 mm, un po' decorrenti sul gambo. Sono dapprima biancastri, poi bruno porpora o bruni.",
+        stipe: "Il gambo è lungo 1–6 cm e spesso 1–3 cm; corto, spesso attenuato in basso, feltrato e bruno, ha una base spugnosa che ingloba terra, aghi e muschio.",
+        flesh: "La carne è tenace e suberosa, bruno rossastra e debolmente zonata. Il sapore è dolce e l'odore farinoso.",
+        sporePrint: "La sporata è bruna. Le spore sono quasi rotonde, verrucose e brunastre, circa 5–6,5 × 3,5–5 µm.",
+        habitat: "Forma micorrize con le conifere, soprattutto pini e abeti rossi, su suoli poveri di nutrienti, sabbiosi o muscosi, isolato o in gruppi concresciuti. I carpofori compaiono da agosto a ottobre. È presente in Europa e Nord America.",
+        uses: "Non è commestibile perché la carne è tenace e suberosa. Come altre specie di Hydnellum, è stato usato per tingere la lana.",
+        confusion: "Anche Hydnellum peckii trasuda gocce rosse da giovane, ma la sua carne ha un sapore acre e pepato. Hydnellum spongiosipes ha un gambo spesso e spugnoso e cresce con le latifoglie. Hydnellum concrescens ha un cappello più sottile, zonato concentricamente. Hydnellum scrobiculatum è più piccolo, con il cappello ruvido e scrobicolato.",
+        notes: "Elias Magnus Fries lo descrisse nel 1815 come Hydnum ferrugineum, e Petter Adolf Karsten lo trasferì in Hydnellum nel 1879. L'epiteto ferrugineum significa color ruggine. Le gocce rosse sono linfa espulsa dal carpoforo in crescita attiva."
+      },
+      ja: {
+        description: "強靭でコルク質の歯菌で、子実体はこま形。若い白っぽい表面から目立つ血のように赤い液滴を分泌する。古くなると錆褐色から赤褐色になる。針葉樹、特にマツの下の貧栄養な砂地や苔の生えた土に生え、食用にならない。",
+        cap: "傘は径3–10 cm、初め饅頭形で、のち平らから浅く窪み、不規則で、しばしば隣の傘と癒合する。表面はフェルト状で凹凸があり、若いときは白っぽいから淡紅色で赤い液滴をつけ、のち赤褐色から錆褐色となり、成長中の縁は淡色。",
+        hymenium: "下面には長さ約6 mmまでの針が密生し、柄にやや垂生する。針は初め白っぽく、のち紫褐色から褐色になる。",
+        stipe: "柄は長さ1–6 cm、太さ1–3 cmで短く、しばしば下方に細まり、フェルト状で褐色。基部は海綿状で、土や針葉、苔を巻き込む。",
+        flesh: "肉は強靭でコルク質、赤褐色で不明瞭な環紋がある。味は温和で、粉のような匂いがある。",
+        sporePrint: "胞子紋は褐色。胞子はほぼ球形で疣があり、褐色を帯び、約5–6.5 × 3.5–5 µm。",
+        habitat: "針葉樹、主にマツやトウヒと外生菌根をつくり、貧栄養な砂地や苔の生えた土に単生または癒合した群れで生える。子実体は8月から10月に現れる。ヨーロッパと北アメリカに分布する。",
+        uses: "肉が強靭でコルク質のため食用にならない。他のHydnellum属の種と同様に、羊毛の染色に用いられてきた。",
+        confusion: "Hydnellum peckiiも若いときに赤い液滴を分泌するが、肉には胡椒のような辛味がある。Hydnellum spongiosipesは太く海綿状の柄をもち、広葉樹とともに生える。Hydnellum concrescensは傘が薄く、同心円状の環紋がある。Hydnellum scrobiculatumはより小さく、傘に窪みがあってざらつく。",
+        notes: "エリアス・マグヌス・フリースが1815年にHydnum ferrugineumとして記載し、ペッテル・アドルフ・カルステンが1879年にHydnellum属へ移した。種小名ferrugineumは「錆色の」を意味する。赤い液滴は、活発に成長している子実体から押し出された汁液である。"
+      },
+      ko: {
+        description: "질기고 코르크질인 이빨버섯으로, 자실체는 팽이 모양이며 어린 희끄무레한 표면에서 눈에 띄는 핏빛 붉은 방울을 내보낸다. 나이가 들면 녹갈색이나 적갈색으로 변한다. 침엽수, 특히 소나무 아래의 척박한 모래땅이나 이끼 낀 흙에서 자라며 먹을 수 없다.",
+        cap: "갓은 지름 3–10 cm로, 처음에는 둥글게 볼록하다가 평평해지거나 얕게 오목해지며, 불규칙하고 이웃한 갓과 자주 붙어 자란다. 표면은 펠트 같고 울퉁불퉁하며, 어릴 때는 희끄무레하거나 분홍빛을 띠고 붉은 방울이 맺히다가, 나중에 적갈색에서 녹갈색이 되고 자라는 가장자리는 더 연하다.",
+        hymenium: "아랫면에는 길이 약 6 mm까지의 침이 빽빽하게 나 있으며 자루에 약간 내려 붙는다. 침은 처음에 희끄무레하다가 자갈색에서 갈색으로 변한다.",
+        stipe: "자루는 길이 1–6 cm, 굵기 1–3 cm로 짧고, 흔히 아래로 가늘어지며, 펠트 같고 갈색이다. 밑동은 해면질이어서 흙, 솔잎, 이끼를 감싼다.",
+        flesh: "살은 질기고 코르크질이며 적갈색이고 희미한 테무늬가 있다. 맛은 순하고 밀가루 냄새가 난다.",
+        sporePrint: "포자문은 갈색이다. 포자는 거의 구형이고 사마귀 돌기가 있으며 갈색을 띠고, 크기는 약 5–6.5 × 3.5–5 µm이다.",
+        habitat: "침엽수, 주로 소나무와 가문비나무와 균근을 이루며, 영양이 부족한 모래땅이나 이끼 낀 흙에서 홀로 또는 서로 붙은 무리로 자란다. 자실체는 8월부터 10월까지 나타난다. 유럽과 북아메리카에 분포한다.",
+        uses: "살이 질기고 코르크질이어서 먹을 수 없다. 다른 Hydnellum 종과 마찬가지로 양모 염색에 쓰였다.",
+        confusion: "Hydnellum peckii도 어릴 때 붉은 방울을 내보내지만, 살에서 후추처럼 매운 맛이 난다. Hydnellum spongiosipes는 굵고 해면질인 자루를 가지며 활엽수와 함께 자란다. Hydnellum concrescens는 갓이 더 얇고 동심원 테무늬가 있다. Hydnellum scrobiculatum은 더 작고 갓이 움푹 패고 거칠다.",
+        notes: "엘리아스 망누스 프리스가 1815년에 Hydnum ferrugineum으로 기재했고, 페테르 아돌프 카르스텐이 1879년에 Hydnellum속으로 옮겼다. 종소명 ferrugineum은 녹슨 빛깔을 뜻한다. 붉은 방울은 활발히 자라는 자실체에서 밀려 나온 즙이다."
+      },
+      lv: {
+        description: "Stingra, korķaina adatsēne ar vilciņveida augļķermeni, kura jaunā, bālganā virsma izdala uzkrītošus asinssarkanus pilienus. Ar vecumu tā kļūst rūsgani brūna vai sarkanbrūna. Aug skujkoku, īpaši priežu, mežos uz nabadzīgām smilšainām vai sūnainām augsnēm un nav ēdama.",
+        cap: "Cepurīte ir 3–10 cm plata, sākumā izliekta, vēlāk plakana vai sekli iedobta, neregulāra un bieži saaugusi ar blakus esošām cepurītēm. Virsma ir filcaina un nelīdzena, jaunībā bālgana līdz iesārta un klāta ar sarkaniem pilieniem, vēlāk sarkanbrūna līdz rūsgani brūna ar gaišāku augošu malu.",
+        hymenium: "Apakšpusē ir blīvi, līdz apmēram 6 mm gari dzeloņi, kas nedaudz nostiepjas uz kātiņa. Sākumā tie ir bālgani, vēlāk purpurbrūni līdz brūni.",
+        stipe: "Kātiņš ir 1–6 cm garš un 1–3 cm resns, īss, bieži uz leju sašaurināts, filcains un brūns, ar sūkļainu pamatni, kas saista augsni, skujas un sūnas.",
+        flesh: "Mīkstums ir stingrs un korķains, sarkanbrūns un vāji zonāls. Garša ir maiga, smarža miltaina.",
+        sporePrint: "Sporu nospiedums ir brūns. Sporas ir gandrīz apaļas, kārpainas un brūnganas, apmēram 5–6,5 × 3,5–5 µm.",
+        habitat: "Veido mikorizu ar skujkokiem, galvenokārt priedi un egli, uz barības vielām nabadzīgām smilšainām vai sūnainām augsnēm, pa vienai vai saaugušās grupās. Augļķermeņi parādās no augusta līdz oktobrim. Sastopama Eiropā un Ziemeļamerikā.",
+        uses: "Nav ēdama, jo mīkstums ir stingrs un korķains. Tāpat kā citas Hydnellum sugas, tā izmantota vilnas krāsošanai.",
+        confusion: "Arī Hydnellum peckii jaunībā izdala sarkanus pilienus, taču tās mīkstumam ir asa, piparaina garša. Hydnellum spongiosipes ir resns, sūkļains kātiņš, un tā aug ar lapu kokiem. Hydnellum concrescens ir plānāka, koncentriski zonāla cepurīte. Hydnellum scrobiculatum ir mazāka, ar bedrainu, raupju cepurīti.",
+        notes: "Eliass Magnuss Friss to aprakstīja 1815. gadā kā Hydnum ferrugineum, un Peters Ādolfs Karstens 1879. gadā to pārcēla uz ģinti Hydnellum. Sugas epitets ferrugineum nozīmē rūsas krāsas. Asinssarkanie pilieni ir sula, ko izspiež aktīvi augošs augļķermenis. Latvijā 2022. gadā tā kopā ar Hydnellum peckii bija gada sēne."
+      },
+      lt: {
+        description: "Kietas, kamštiškas dygliagrybis su vilkelio formos vaisiakūniu, kurio jauno, balsvo paviršiaus išsiskiria ryškūs kraujo raudonumo lašai. Senstant jis tampa rūdžių rudumo arba rausvai rudas. Auga spygliuočių, ypač pušų, miškuose skurdžiame smėlingame ar samanotame dirvožemyje ir nėra valgomas.",
+        cap: "Kepurėlė 3–10 cm skersmens, iš pradžių išgaubta, vėliau plokščia ar seklia įduba, netaisyklinga ir dažnai suaugusi su gretimomis kepurėlėmis. Paviršius veltiniškas ir nelygus, jaunas balsvas ar rausvas ir nusėtas raudonais lašais, vėliau rausvai rudas ar rūdžių rudumo su šviesesniu augančiu kraštu.",
+        hymenium: "Apatinėje pusėje yra tankūs, iki maždaug 6 mm ilgio dygliai, šiek tiek nusileidžiantys kotu. Iš pradžių jie balsvi, vėliau purpuriškai rudi ar rudi.",
+        stipe: "Kotas 1–6 cm ilgio ir 1–3 cm storio, trumpas, dažnai žemyn siaurėjantis, veltiniškas ir rudas, su kempiniu pagrindu, kuris sukimba su dirvožemiu, spygliais ir samanomis.",
+        flesh: "Trama kieta ir kamštiška, rausvai ruda ir neryškiai zonuota. Skonis švelnus, kvapas miltų.",
+        sporePrint: "Sporų milteliai rudi. Sporos beveik apvalios, karpuotos ir rusvos, maždaug 5–6,5 × 3,5–5 µm.",
+        habitat: "Sudaro mikorizę su spygliuočiais, daugiausia pušimis ir eglėmis, maisto medžiagų stokojančiame smėlingame ar samanotame dirvožemyje, pavieniui ar suaugusiomis grupėmis. Vaisiakūniai pasirodo nuo rugpjūčio iki spalio. Paplitęs Europoje ir Šiaurės Amerikoje.",
+        uses: "Nevalgomas, nes trama kieta ir kamštiška. Kaip ir kitos Hydnellum rūšys, naudotas vilnai dažyti.",
+        confusion: "Hydnellum peckii jaunas taip pat išskiria raudonus lašus, tačiau jo trama aštraus, pipiriško skonio. Hydnellum spongiosipes turi storą, kempinišką kotą ir auga su lapuočiais. Hydnellum concrescens kepurėlė plonesnė, koncentriškai zonuota. Hydnellum scrobiculatum mažesnis, su duobėta, šiurkščia kepurėle.",
+        notes: "Eliasas Magnusas Frisas jį aprašė 1815 m. kaip Hydnum ferrugineum, o Petteris Adolfas Karstenas 1879 m. perkėlė į Hydnellum gentį. Rūšies epitetas ferrugineum reiškia rūdžių spalvos. Kraujo spalvos lašai yra sultys, išspaudžiamos iš aktyviai augančio vaisiakūnio."
+      },
+      no: {
+        description: "En seig, korkaktig piggsopp med snurrebassformet fruktlegeme, der den unge, hvitaktige overflaten skiller ut iøynefallende blodrøde dråper. Med alderen blir den rustbrun eller rødbrun. Den vokser på næringsfattig sandig eller mosekledd jord under bartrær, særlig furu, og er ikke spiselig.",
+        cap: "Hatten er 3–10 cm bred, først hvelvet, senere flat eller svakt forsenket, uregelmessig og ofte sammenvokst med nabohatter. Overflaten er filtet og ujevn, som ung hvitaktig til rosa og besatt med røde dråper, senere rødbrun til rustbrun med en lysere voksende kant.",
+        hymenium: "Undersiden har tette pigger opptil ca. 6 mm lange, som løper litt ned på stilken. De er først hvitaktige, senere purpurbrune til brune.",
+        stipe: "Stilken er 1–6 cm lang og 1–3 cm tykk, kort, ofte avsmalnende nedover, filtet og brun, med en svampete basis som binder jord, barnåler og mose.",
+        flesh: "Kjøttet er seigt og korkaktig, rødbrunt og svakt sonert. Smaken er mild og lukten melaktig.",
+        sporePrint: "Sporepulveret er brunt. Sporene er nesten runde, vortete og brunlige, ca. 5–6,5 × 3,5–5 µm.",
+        habitat: "Den danner mykorrhiza med bartrær, især furu og gran, på næringsfattig sandig eller mosekledd jord, enkeltvis eller i sammenvokste grupper. Fruktlegemene kommer fra august til oktober. Den finnes i Europa og Nord-Amerika.",
+        uses: "Den er ikke spiselig fordi kjøttet er seigt og korkaktig. Som andre Hydnellum-arter er den brukt til å farge ull.",
+        confusion: "Hydnellum peckii skiller også ut røde dråper som ung, men kjøttet har en skarp, pepperaktig smak. Hydnellum spongiosipes har en tykk, svampete stilk og vokser med løvtrær. Hydnellum concrescens har en tynnere, konsentrisk sonert hatt. Hydnellum scrobiculatum er mindre, med en gropet, ru hatt.",
+        notes: "Elias Magnus Fries beskrev den i 1815 som Hydnum ferrugineum, og Petter Adolf Karsten flyttet den til Hydnellum i 1879. Artsnavnet ferrugineum betyr rustfarget. De røde dråpene er saft som presses ut av det aktivt voksende fruktlegemet."
+      },
+      fa: {
+        description: "قارچی خاردار، سفت و چوب‌پنبه‌ای با بدنهٔ بارده‌ای فرفره‌مانند که سطح سفیدفام آن در جوانی قطره‌های چشمگیر سرخ مانند خون تراوش می‌کند. با افزایش سن به قهوه‌ای زنگاری یا قهوه‌ای مایل به سرخ درمی‌آید. در خاک‌های فقیر شنی یا خزه‌دار زیر درختان سوزنی‌برگ، به‌ویژه کاج، می‌روید و خوراکی نیست.",
+        cap: "کلاهک ۳–۱۰ سانتی‌متر پهنا دارد؛ نخست برآمده، سپس تخت یا اندکی فرورفته، نامنظم و اغلب با کلاهک‌های مجاور به هم پیوسته است. سطح آن نمدی و ناهموار است، در جوانی سفیدفام تا صورتی و پوشیده از قطره‌های سرخ، و بعد قهوه‌ای مایل به سرخ تا قهوه‌ای زنگاری با حاشیهٔ رویندهٔ روشن‌تر.",
+        hymenium: "سطح زیرین خارهای انبوهی به درازای حداکثر حدود ۶ میلی‌متر دارد که اندکی روی پایه پایین می‌روند. خارها نخست سفیدفام و سپس قهوه‌ای ارغوانی تا قهوه‌ای‌اند.",
+        stipe: "پایه ۱–۶ سانتی‌متر درازا و ۱–۳ سانتی‌متر ضخامت دارد؛ کوتاه، اغلب رو به پایین باریک‌شونده، نمدی و قهوه‌ای است و قاعدهٔ اسفنجی آن خاک، سوزن‌برگ‌ها و خزه را در بر می‌گیرد.",
+        flesh: "گوشت سفت و چوب‌پنبه‌ای، قهوه‌ای مایل به سرخ و با نوارهای کم‌رنگ است. مزه ملایم و بو آردی است.",
+        sporePrint: "اثر هاگ قهوه‌ای است. هاگ‌ها تقریباً گرد، زگیل‌دار و قهوه‌ای‌فام‌اند و حدود ۵–۶٫۵ × ۳٫۵–۵ میکرومتر اندازه دارند.",
+        habitat: "با درختان سوزنی‌برگ، به‌ویژه کاج و نوئل، قارچ‌ریشه می‌سازد و در خاک‌های شنی یا خزه‌دار کم‌مواد مغذی، به‌تنهایی یا در گروه‌های به هم پیوسته می‌روید. بدنه‌های بارده از اوت تا اکتبر پدیدار می‌شوند. در اروپا و آمریکای شمالی یافت می‌شود.",
+        uses: "چون گوشتش سفت و چوب‌پنبه‌ای است خوراکی نیست. مانند دیگر گونه‌های Hydnellum برای رنگرزی پشم به کار رفته است.",
+        confusion: "Hydnellum peckii نیز در جوانی قطره‌های سرخ تراوش می‌کند، اما گوشتش مزهٔ تند و فلفلی دارد. Hydnellum spongiosipes پایه‌ای ستبر و اسفنجی دارد و با درختان پهن‌برگ می‌روید. Hydnellum concrescens کلاهکی نازک‌تر با نوارهای هم‌مرکز دارد. Hydnellum scrobiculatum کوچک‌تر است و کلاهکی زبر و گودال‌دار دارد.",
+        notes: "الیاس ماگنوس فریس آن را در سال ۱۸۱۵ با نام Hydnum ferrugineum توصیف کرد و پتر آدولف کارستن در سال ۱۸۷۹ آن را به سردهٔ Hydnellum منتقل کرد. صفت گونه‌ای ferrugineum به معنای زنگاری‌رنگ است. قطره‌های سرخ شیره‌ای‌اند که از بدنهٔ بارده در حال رشد فعال بیرون رانده می‌شوند."
+      },
+      pl: {
+        description: "Twardy, korkowaty grzyb kolczasty o bąkowatym owocniku, którego młoda, biaława powierzchnia wydziela efektowne, krwistoczerwone krople. Z wiekiem staje się rdzawobrązowy lub czerwonobrązowy. Rośnie na ubogich, piaszczystych lub omszałych glebach pod drzewami iglastymi, zwłaszcza sosnami, i nie jest jadalny.",
+        cap: "Kapelusz ma średnicę 3–10 cm, początkowo jest wypukły, później płaski lub płytko wklęsły, nieregularny i często zrośnięty z sąsiednimi kapeluszami. Powierzchnia jest filcowata i nierówna, u młodych biaława do różowawej i pokryta czerwonymi kroplami, później czerwonobrązowa do rdzawobrązowej, z jaśniejszym, przyrastającym brzegiem.",
+        hymenium: "Spód pokrywają gęste kolce o długości do około 6 mm, nieco zbiegające na trzon. Początkowo są białawe, później purpurowobrązowe do brązowych.",
+        stipe: "Trzon ma 1–6 cm długości i 1–3 cm grubości, jest krótki, często zwężony ku dołowi, filcowaty i brązowy, z gąbczastą podstawą obejmującą glebę, igły i mech.",
+        flesh: "Miąższ jest twardy i korkowaty, czerwonobrązowy i słabo strefowany. Smak łagodny, zapach mączny.",
+        sporePrint: "Wysyp zarodników jest brązowy. Zarodniki są niemal kuliste, brodawkowate i brązowawe, około 5–6,5 × 3,5–5 µm.",
+        habitat: "Tworzy mikoryzę z drzewami iglastymi, głównie sosną i świerkiem, na ubogich w składniki odżywcze glebach piaszczystych lub omszałych, pojedynczo lub w zrośniętych grupach. Owocniki pojawiają się od sierpnia do października. Występuje w Europie i Ameryce Północnej.",
+        uses: "Nie jest jadalny, ponieważ miąższ jest twardy i korkowaty. Podobnie jak inne gatunki Hydnellum był używany do barwienia wełny.",
+        confusion: "Hydnellum peckii za młodu również wydziela czerwone krople, ale jego miąższ ma ostry, pieprzny smak. Hydnellum spongiosipes ma gruby, gąbczasty trzon i rośnie z drzewami liściastymi. Hydnellum concrescens ma cieńszy, koncentrycznie strefowany kapelusz. Hydnellum scrobiculatum jest mniejszy, z dołkowatym, szorstkim kapeluszem.",
+        notes: "Elias Magnus Fries opisał go w 1815 roku jako Hydnum ferrugineum, a Petter Adolf Karsten przeniósł go do rodzaju Hydnellum w 1879 roku. Epitet ferrugineum oznacza rdzawy. Czerwone krople to sok wyciskany z aktywnie rosnącego owocnika."
+      },
+      pt: {
+        description: "Um fungo de acúleos rijo e suberoso, com corpo de frutificação em forma de pião, cuja superfície esbranquiçada, quando jovem, exsuda gotículas vistosas de cor vermelho-sangue. Com a idade torna-se castanho-ferrugem ou castanho-avermelhado. Cresce em solos pobres, arenosos ou musgosos, sob coníferas, sobretudo pinheiros, e não é comestível.",
+        cap: "O chapéu mede 3–10 cm de diâmetro; primeiro convexo, depois plano ou ligeiramente deprimido, é irregular e muitas vezes soldado aos chapéus vizinhos. A superfície é feltrosa e irregular, esbranquiçada a rosada e salpicada de gotas vermelhas quando jovem, depois castanho-avermelhada a castanho-ferrugem, com a margem em crescimento mais clara.",
+        hymenium: "A face inferior apresenta acúleos densos com até cerca de 6 mm de comprimento, um pouco decorrentes no pé. São primeiro esbranquiçados e depois castanho-purpúreos a castanhos.",
+        stipe: "O pé mede 1–6 cm de comprimento e 1–3 cm de espessura; é curto, muitas vezes afilado para baixo, feltroso e castanho, com uma base esponjosa que envolve terra, agulhas e musgo.",
+        flesh: "A carne é rija e suberosa, castanho-avermelhada e vagamente zonada. O sabor é suave e o cheiro farinhoso.",
+        sporePrint: "A esporada é castanha. Os esporos são quase redondos, verrucosos e acastanhados, com cerca de 5–6,5 × 3,5–5 µm.",
+        habitat: "Forma micorrizas com coníferas, sobretudo pinheiros e piceas, em solos pobres em nutrientes, arenosos ou musgosos, isolado ou em grupos concrescidos. Os corpos de frutificação surgem de agosto a outubro. Ocorre na Europa e na América do Norte.",
+        uses: "Não é comestível porque a carne é rija e suberosa. Como outras espécies de Hydnellum, foi usado para tingir lã.",
+        confusion: "Hydnellum peckii também exsuda gotas vermelhas quando jovem, mas a sua carne tem um sabor acre e apimentado. Hydnellum spongiosipes tem um pé grosso e esponjoso e cresce com folhosas. Hydnellum concrescens tem um chapéu mais fino, com zonas concêntricas. Hydnellum scrobiculatum é menor, com o chapéu áspero e escrobiculado.",
+        notes: "Elias Magnus Fries descreveu-o em 1815 como Hydnum ferrugineum, e Petter Adolf Karsten transferiu-o para Hydnellum em 1879. O epíteto ferrugineum significa cor de ferrugem. As gotas vermelhas são seiva expelida pelo corpo de frutificação em crescimento ativo."
+      },
+      ro: {
+        description: "O ciupercă cu țepi, tenace și suberoasă, cu corp fructifer în formă de titirez, a cărei suprafață albicioasă la exemplarele tinere exsudă picături spectaculoase, roșii ca sângele. Odată cu vârsta devine brun-ruginie sau brun-roșcată. Crește pe soluri sărace, nisipoase sau cu mușchi, sub conifere, mai ales pini, și nu este comestibilă.",
+        cap: "Pălăria are 3–10 cm diametru, la început convexă, apoi plată sau ușor adâncită, neregulată și adesea concrescută cu pălăriile vecine. Suprafața este pâsloasă și denivelată, la tinerețe albicioasă până la rozalie și presărată cu picături roșii, apoi brun-roșcată până la brun-ruginie, cu marginea în creștere mai deschisă.",
+        hymenium: "Partea inferioară poartă țepi deși, lungi de până la circa 6 mm, puțin decurenți pe picior. Sunt la început albicioși, apoi brun-purpurii până la bruni.",
+        stipe: "Piciorul are 1–6 cm lungime și 1–3 cm grosime, este scurt, adesea îngustat spre bază, pâslos și brun, cu o bază spongioasă care înglobează pământ, ace și mușchi.",
+        flesh: "Carnea este tenace și suberoasă, brun-roșcată și vag zonată. Gustul este blând, iar mirosul făinos.",
+        sporePrint: "Amprenta sporilor este brună. Sporii sunt aproape rotunzi, verucoși și brunii, de circa 5–6,5 × 3,5–5 µm.",
+        habitat: "Formează micorize cu coniferele, în principal pinul și molidul, pe soluri sărace în nutrienți, nisipoase sau cu mușchi, solitar sau în grupuri concrescute. Corpurile fructifere apar din august până în octombrie. Este răspândită în Europa și America de Nord.",
+        uses: "Nu este comestibilă, deoarece carnea este tenace și suberoasă. Ca și alte specii de Hydnellum, a fost folosită la vopsirea lânii.",
+        confusion: "Hydnellum peckii exsudă de asemenea picături roșii la tinerețe, dar carnea are un gust iute, piperat. Hydnellum spongiosipes are un picior gros, spongios și crește cu foioase. Hydnellum concrescens are o pălărie mai subțire, zonată concentric. Hydnellum scrobiculatum este mai mic, cu pălăria aspră și gropiță.",
+        notes: "Elias Magnus Fries a descris-o în 1815 ca Hydnum ferrugineum, iar Petter Adolf Karsten a mutat-o în Hydnellum în 1879. Epitetul ferrugineum înseamnă de culoarea ruginii. Picăturile roșii sunt sevă presată din corpul fructifer aflat în creștere activă."
+      },
+      ru: {
+        description: "Жёсткий пробковатый ежовиковый гриб с волчковидным плодовым телом, молодая беловатая поверхность которого выделяет заметные кроваво-красные капли. С возрастом он становится ржаво-бурым или красновато-коричневым. Растёт на бедных песчаных или моховых почвах под хвойными деревьями, особенно соснами, и несъедобен.",
+        cap: "Шляпка 3–10 см в диаметре, сначала выпуклая, затем плоская или неглубоко вдавленная, неправильная и часто срастающаяся с соседними шляпками. Поверхность войлочная и бугристая, у молодых беловатая до розоватой и усеянная красными каплями, позднее красновато-коричневая до ржаво-бурой, с более светлым растущим краем.",
+        hymenium: "Снизу расположены густые шипы длиной до примерно 6 мм, слегка нисходящие на ножку. Сначала они беловатые, затем пурпурно-коричневые до коричневых.",
+        stipe: "Ножка 1–6 см длиной и 1–3 см толщиной, короткая, часто сужена книзу, войлочная, коричневая, с губчатым основанием, охватывающим почву, хвою и мох.",
+        flesh: "Мякоть жёсткая и пробковатая, красновато-коричневая, с неясной зональностью. Вкус мягкий, запах мучнистый.",
+        sporePrint: "Споровый порошок коричневый. Споры почти шаровидные, бородавчатые, буроватые, около 5–6,5 × 3,5–5 мкм.",
+        habitat: "Образует микоризу с хвойными деревьями, главным образом с сосной и елью, на бедных питательными веществами песчаных или моховых почвах, поодиночке или сросшимися группами. Плодовые тела появляются с августа по октябрь. Встречается в Европе и Северной Америке.",
+        uses: "Несъедобен, так как мякоть жёсткая и пробковатая. Как и другие виды Hydnellum, использовался для окрашивания шерсти.",
+        confusion: "Hydnellum peckii в молодости тоже выделяет красные капли, но его мякоть имеет острый, перечный вкус. У Hydnellum spongiosipes толстая губчатая ножка, и он растёт с лиственными деревьями. У Hydnellum concrescens шляпка тоньше, с концентрическими зонами. Hydnellum scrobiculatum мельче, с ямчатой шероховатой шляпкой.",
+        notes: "Элиас Магнус Фрис описал его в 1815 году как Hydnum ferrugineum, а Петер Адольф Карстен перенёс в род Hydnellum в 1879 году. Видовой эпитет ferrugineum означает «ржавого цвета». Красные капли — это сок, выдавливаемый из активно растущего плодового тела."
+      },
+      sr: {
+        description: "Жилава, плутаста гљива бодљикара са плодиштем у облику чигре, чија млада беличаста површина излучује упадљиве крвавоцрвене капљице. Старењем постаје рђастомрка или црвенкастомрка. Расте на сиромашним песковитим или маховинастим земљиштима испод четинара, нарочито бора, и није јестива.",
+        cap: "Шешир је пречника 3–10 cm, у почетку испупчен, затим раван или плитко удубљен, неправилан и често срастао са суседним шеширима. Површина је пустенаста и неравна, у младости беличаста до ружичаста и прекривена црвеним капљицама, касније црвенкастомрка до рђастомрка са светлијом ивицом која расте.",
+        hymenium: "На доњој страни су густе бодље дуге до око 6 mm, које се мало спуштају низ дршку. У почетку су беличасте, затим пурпурномрке до мрке.",
+        stipe: "Дршка је дуга 1–6 cm и дебела 1–3 cm, кратка, често сужена наниже, пустенаста и мрка, са сунђерастом основом која обухвата земљу, иглице и маховину.",
+        flesh: "Месо је жилаво и плутасто, црвенкастомрко и нејасно зонирано. Укус је благ, а мирис брашнаст.",
+        sporePrint: "Отисак спора је мрк. Споре су готово округле, брадавичасте и мркасте, око 5–6,5 × 3,5–5 µm.",
+        habitat: "Гради микоризу са четинарима, углавном бором и смрчом, на песковитим или маховинастим земљиштима сиромашним хранљивим материјама, појединачно или у сраслим групама. Плодишта се јављају од августа до октобра. Распрострањена је у Европи и Северној Америци.",
+        uses: "Није јестива јер је месо жилаво и плутасто. Као и друге врсте рода Hydnellum, коришћена је за бојење вуне.",
+        confusion: "Hydnellum peckii у младости такође излучује црвене капљице, али му месо има оштар, љут укус. Hydnellum spongiosipes има дебелу, сунђерасту дршку и расте уз листопадно дрвеће. Hydnellum concrescens има тањи, концентрично зониран шешир. Hydnellum scrobiculatum је мањи, са јамичастим, храпавим шеширом.",
+        notes: "Елијас Магнус Фрис описао ју је 1815. године као Hydnum ferrugineum, а Петер Адолф Карстен преместио ју је 1879. године у род Hydnellum. Епитет ferrugineum значи боје рђе. Црвене капљице су сок истиснут из плодишта које активно расте."
+      },
+      sl: {
+        description: "Žilava, plutasta bodičarka s plodiščem v obliki vrtavke, katere mlado belkasto površje izloča opazne krvavo rdeče kapljice. S starostjo postane rjasto rjava ali rdečkasto rjava. Raste na revnih peščenih ali mahovnatih tleh pod iglavci, zlasti borom, in ni užitna.",
+        cap: "Klobuk meri 3–10 cm v premeru, sprva je izbočen, nato raven ali plitvo vdrt, nepravilen in pogosto zraščen s sosednjimi klobuki. Površina je polstena in neravna, v mladosti belkasta do rožnata in posejana z rdečimi kapljicami, pozneje rdečkasto rjava do rjasto rjava s svetlejšim rastočim robom.",
+        hymenium: "Na spodnji strani so gosti bodički, dolgi do približno 6 mm, ki se nekoliko spuščajo na bet. Sprva so belkasti, nato škrlatno rjavi do rjavi.",
+        stipe: "Bet je dolg 1–6 cm in debel 1–3 cm, kratek, pogosto navzdol zožen, polsten in rjav, z gobasto osnovo, ki objema prst, iglice in mah.",
+        flesh: "Meso je žilavo in plutasto, rdečkasto rjavo in nejasno pasasto. Okus je mil, vonj po moki.",
+        sporePrint: "Trosni prah je rjav. Trosi so skoraj okrogli, bradavičasti in rjavkasti, približno 5–6,5 × 3,5–5 µm.",
+        habitat: "Tvori mikorizo z iglavci, predvsem borom in smreko, na s hranili revnih peščenih ali mahovnatih tleh, posamič ali v zraščenih skupinah. Plodišča se pojavljajo od avgusta do oktobra. Razširjena je v Evropi in Severni Ameriki.",
+        uses: "Ni užitna, ker je meso žilavo in plutasto. Tako kot druge vrste rodu Hydnellum so jo uporabljali za barvanje volne.",
+        confusion: "Hydnellum peckii v mladosti prav tako izloča rdeče kapljice, vendar ima njegovo meso oster, poprast okus. Hydnellum spongiosipes ima debel, gobast bet in raste z listavci. Hydnellum concrescens ima tanjši, koncentrično pasast klobuk. Hydnellum scrobiculatum je manjši, z jamičastim, hrapavim klobukom.",
+        notes: "Elias Magnus Fries jo je leta 1815 opisal kot Hydnum ferrugineum, Petter Adolf Karsten pa jo je leta 1879 prestavil v rod Hydnellum. Vrstni pridevek ferrugineum pomeni rjaste barve. Rdeče kapljice so sok, ki ga iztiska aktivno rastoče plodišče."
+      },
+      es: {
+        description: "Un hongo de púas correoso y suberoso, con el cuerpo fructífero en forma de peonza, cuya superficie blanquecina en los ejemplares jóvenes exuda llamativas gotitas de color rojo sangre. Con la edad se vuelve pardo herrumbroso o pardo rojizo. Crece en suelos pobres, arenosos o musgosos, bajo coníferas, sobre todo pinos, y no es comestible.",
+        cap: "El sombrero mide 3–10 cm de diámetro; primero convexo, luego plano o ligeramente deprimido, es irregular y a menudo se suelda con los sombreros vecinos. La superficie es afieltrada y abollada, blanquecina a rosada y salpicada de gotas rojas en la juventud, después pardo rojiza a pardo herrumbrosa, con el margen en crecimiento más pálido.",
+        hymenium: "La cara inferior lleva aguijones apretados de hasta unos 6 mm de largo, algo decurrentes por el pie. Son primero blanquecinos y luego pardo purpúreos a pardos.",
+        stipe: "El pie mide 1–6 cm de largo y 1–3 cm de grosor; es corto, a menudo atenuado hacia abajo, afieltrado y pardo, con una base esponjosa que engloba tierra, acículas y musgo.",
+        flesh: "La carne es correosa y suberosa, pardo rojiza y vagamente zonada. El sabor es suave y el olor harinoso.",
+        sporePrint: "La esporada es parda. Las esporas son casi redondas, verrugosas y parduscas, de unos 5–6,5 × 3,5–5 µm.",
+        habitat: "Forma micorrizas con coníferas, principalmente pinos y píceas, en suelos pobres en nutrientes, arenosos o musgosos, solitario o en grupos soldados. Los cuerpos fructíferos aparecen de agosto a octubre. Está presente en Europa y Norteamérica.",
+        uses: "No es comestible porque su carne es correosa y suberosa. Como otras especies de Hydnellum, se ha utilizado para teñir lana.",
+        confusion: "Hydnellum peckii también exuda gotas rojas cuando es joven, pero su carne tiene un sabor acre y picante. Hydnellum spongiosipes tiene un pie grueso y esponjoso y crece con frondosas. Hydnellum concrescens tiene un sombrero más delgado, con zonas concéntricas. Hydnellum scrobiculatum es más pequeño, con el sombrero áspero y escrobiculado.",
+        notes: "Elias Magnus Fries lo describió en 1815 como Hydnum ferrugineum, y Petter Adolf Karsten lo trasladó a Hydnellum en 1879. El epíteto ferrugineum significa de color herrumbre. Las gotas rojas son savia expulsada por el cuerpo fructífero en crecimiento activo."
+      },
+      sv: {
+        description: "En seg, korkartad taggsvamp med snurreformad fruktkropp, vars unga, vitaktiga yta utsöndrar iögonfallande blodröda droppar. Med åldern blir den rostbrun eller rödbrun. Den växer på näringsfattig sandig eller mossig mark under barrträd, särskilt tall, och är inte ätlig.",
+        cap: "Hatten är 3–10 cm bred, först välvd, senare plan eller svagt nedsänkt, oregelbunden och ofta sammanvuxen med grannhattar. Ytan är filtad och knölig, som ung vitaktig till rosa och besatt med röda droppar, senare rödbrun till rostbrun med en ljusare växande kant.",
+        hymenium: "Undersidan har täta taggar upp till ungefär 6 mm långa, som löper något ned på foten. De är först vitaktiga, senare purpurbruna till bruna.",
+        stipe: "Foten är 1–6 cm lång och 1–3 cm tjock, kort, ofta avsmalnande nedåt, filtad och brun, med en svampig bas som binder jord, barr och mossa.",
+        flesh: "Köttet är segt och korkartat, rödbrunt och svagt zonerat. Smaken är mild och lukten mjölaktig.",
+        sporePrint: "Sporpulvret är brunt. Sporerna är nästan runda, vårtiga och brunaktiga, ungefär 5–6,5 × 3,5–5 µm.",
+        habitat: "Den bildar mykorrhiza med barrträd, främst tall och gran, på näringsfattig sandig eller mossig mark, ensam eller i sammanvuxna grupper. Fruktkropparna syns från augusti till oktober. Den förekommer i Europa och Nordamerika.",
+        uses: "Den är inte ätlig eftersom köttet är segt och korkartat. Liksom andra Hydnellum-arter har den använts för att färga ull.",
+        confusion: "Även Hydnellum peckii utsöndrar röda droppar som ung, men dess kött har en skarp, pepprig smak. Hydnellum spongiosipes har en tjock, svampig fot och växer med lövträd. Hydnellum concrescens har en tunnare, koncentriskt zonerad hatt. Hydnellum scrobiculatum är mindre, med en gropig, sträv hatt.",
+        notes: "Elias Magnus Fries beskrev den 1815 som Hydnum ferrugineum, och Petter Adolf Karsten flyttade den till Hydnellum 1879. Artepitetet ferrugineum betyder rostfärgad. De röda dropparna är sav som pressas ut ur den aktivt växande fruktkroppen."
+      },
+      tr: {
+        description: "Topaç biçimli meyve gövdesine sahip, sert ve mantarımsı dokulu dikenli bir mantardır; genç, beyazımsı yüzeyi göze çarpan kan kırmızısı damlacıklar salgılar. Yaşlandıkça pas kahverengisi ya da kırmızımsı kahverengi olur. İğne yapraklı ağaçların, özellikle çamların altında, besince fakir kumlu veya yosunlu topraklarda yetişir ve yenmez.",
+        cap: "Şapka 3–10 cm çapındadır; önce dışbükey, sonra düz ya da hafifçe çukur, düzensizdir ve sıklıkla komşu şapkalarla kaynaşır. Yüzey keçemsi ve engebelidir; gençken beyazımsıdan pembemsiye değişir ve kırmızı damlalarla bezelidir, sonra kırmızımsı kahverengiden pas kahverengisine döner, büyüyen kenarı daha açık renklidir.",
+        hymenium: "Alt yüzeyde yaklaşık 6 mm'ye kadar uzunlukta sık dikenler bulunur ve sapa doğru biraz iner. Dikenler önce beyazımsı, sonra mor kahverengiden kahverengiye döner.",
+        stipe: "Sap 1–6 cm uzunluğunda ve 1–3 cm kalınlığındadır; kısadır, çoğunlukla aşağıya doğru incelir, keçemsi ve kahverengidir, süngerimsi tabanı toprağı, iğne yaprakları ve yosunu sarar.",
+        flesh: "Et sert ve mantarımsıdır, kırmızımsı kahverengidir ve belirsiz kuşaklıdır. Tadı yumuşak, kokusu unumsudur.",
+        sporePrint: "Spor izi kahverengidir. Sporlar neredeyse yuvarlak, siğilli ve kahverengimsidir, yaklaşık 5–6,5 × 3,5–5 µm.",
+        habitat: "İğne yapraklı ağaçlarla, başlıca çam ve ladinle mikoriza oluşturur; besince fakir kumlu veya yosunlu topraklarda tek tek ya da kaynaşmış gruplar halinde yetişir. Meyve gövdeleri ağustostan ekime kadar görülür. Avrupa ve Kuzey Amerika'da bulunur.",
+        uses: "Eti sert ve mantarımsı olduğu için yenmez. Diğer Hydnellum türleri gibi yün boyamada kullanılmıştır.",
+        confusion: "Hydnellum peckii de gençken kırmızı damlalar salgılar, ancak etinin tadı keskin ve biberimsidir. Hydnellum spongiosipes kalın, süngerimsi bir sapa sahiptir ve geniş yapraklı ağaçlarla yetişir. Hydnellum concrescens daha ince, eşmerkezli kuşaklı bir şapkaya sahiptir. Hydnellum scrobiculatum daha küçüktür ve şapkası çukurlu ve pürüzlüdür.",
+        notes: "Elias Magnus Fries onu 1815'te Hydnum ferrugineum adıyla tanımladı; Petter Adolf Karsten ise 1879'da Hydnellum cinsine aktardı. Tür adı ferrugineum pas renkli anlamına gelir. Kırmızı damlalar, etkin biçimde büyüyen meyve gövdesinden dışarı sızan özsudur."
+      },
+      uk: {
+        description: "Жорсткий корковий їжовиковий гриб із дзиґоподібним плодовим тілом, молода білувата поверхня якого виділяє помітні криваво-червоні краплі. З віком він стає іржаво-бурим або червонувато-коричневим. Росте на бідних піщаних або мохових ґрунтах під хвойними деревами, особливо соснами, і неїстівний.",
+        cap: "Шапинка 3–10 см у діаметрі, спочатку опукла, потім плоска або неглибоко вдавлена, неправильна й часто зростається із сусідніми шапинками. Поверхня повстиста й горбкувата, у молодих білувата до рожевуватої та вкрита червоними краплями, пізніше червонувато-коричнева до іржаво-бурої, зі світлішим краєм, що росте.",
+        hymenium: "Знизу розташовані густі шипи завдовжки до близько 6 мм, трохи низбіжні на ніжку. Спочатку вони білуваті, потім пурпурово-коричневі до коричневих.",
+        stipe: "Ніжка 1–6 см завдовжки і 1–3 см завтовшки, коротка, часто звужена донизу, повстиста, коричнева, з губчастою основою, що охоплює ґрунт, хвою та мох.",
+        flesh: "М'якуш жорсткий і корковий, червонувато-коричневий, з неясною зональністю. Смак м'який, запах борошнистий.",
+        sporePrint: "Споровий порошок коричневий. Спори майже кулясті, бородавчасті, буруваті, близько 5–6,5 × 3,5–5 мкм.",
+        habitat: "Утворює мікоризу з хвойними деревами, переважно із сосною та ялиною, на бідних на поживні речовини піщаних або мохових ґрунтах, поодинці або зрослими групами. Плодові тіла з'являються з серпня по жовтень. Поширений у Європі та Північній Америці.",
+        uses: "Неїстівний, бо м'якуш жорсткий і корковий. Як і інші види Hydnellum, його використовували для фарбування вовни.",
+        confusion: "Hydnellum peckii замолоду також виділяє червоні краплі, але його м'якуш має гострий, перцевий смак. Hydnellum spongiosipes має товсту губчасту ніжку й росте з листяними деревами. Hydnellum concrescens має тоншу, концентрично зональну шапинку. Hydnellum scrobiculatum дрібніший, з ямчастою шорсткою шапинкою.",
+        notes: "Еліас Магнус Фріс описав його 1815 року як Hydnum ferrugineum, а Петер Адольф Карстен переніс до роду Hydnellum 1879 року. Видовий епітет ferrugineum означає «іржавого кольору». Червоні краплі — це сік, що видавлюється з активно зростаючого плодового тіла."
+      }
+    },
+    sources: {
+      en: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://en.wikipedia.org/wiki/Hydnellum_ferrugineum"
+        },
+        {
+          "group": "name",
+          "name": "Index Fungorum",
+          "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=100986",
+          "detail": "100986"
+        },
+        {
+          "group": "name",
+          "name": "Species Fungorum",
+          "href": "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=100986",
+          "detail": "100986"
+        },
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (UKSI; Catalogue of Life)",
+          "href": "https://api.gbif.org/v1/species/2522229/vernacularNames?limit=100",
+          "detail": "mealy tooth"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2522229",
+          "detail": "2522229"
+        }
+      ],
+      sk: [
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (Catalogue of Life)",
+          "href": "https://api.gbif.org/v1/species/2522229/vernacularNames?limit=100",
+          "detail": "jelenkovka hrdzavohnedá"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2522229",
+          "detail": "2522229"
+        }
+      ],
+      ar: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2522229",
+          "detail": "2522229"
+        }
+      ],
+      bg: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2522229",
+          "detail": "2522229"
+        }
+      ],
+      zh: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://zh.wikipedia.org/wiki/%E9%94%88%E8%89%B2%E4%BA%9A%E9%BD%BF%E8%8F%8C"
+        },
+        {
+          "group": "name",
+          "name": "Wikidata",
+          "href": "https://www.wikidata.org/wiki/Q5954059",
+          "detail": "Q5954059"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2522229",
+          "detail": "2522229"
+        }
+      ],
+      hr: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2522229",
+          "detail": "2522229"
+        }
+      ],
+      cs: [
+        {
+          "group": "text",
+          "name": "Wikipedie",
+          "href": "https://cs.wikipedia.org/wiki/Lo%C5%A1%C3%A1kovec_rezav%C3%BD"
+        },
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (Catalogue of Life)",
+          "href": "https://api.gbif.org/v1/species/2522229/vernacularNames?limit=100",
+          "detail": "lošákovec rezavý"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2522229",
+          "detail": "2522229"
+        }
+      ],
+      da: [
+        {
+          "group": "name",
+          "name": "Danmarks Svampeatlas",
+          "href": "https://svampe.databasen.org/taxon/14780",
+          "detail": "rust-korkpigsvamp (De danske svampenavne, Petersen & Vesterholt)"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2522229",
+          "detail": "2522229"
+        }
+      ],
+      nl: [
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (Nederlands Soortenregister; Belgian Species List)",
+          "href": "https://api.gbif.org/v1/species/2522229/vernacularNames?limit=100",
+          "detail": "roodbruine stekelzwam"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2522229",
+          "detail": "2522229"
+        }
+      ],
+      et: [
+        {
+          "group": "text",
+          "name": "Vikipeedia",
+          "href": "https://et.wikipedia.org/wiki/Pruun_k%C3%BCbarnarmik"
+        },
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (Catalogue of Life)",
+          "href": "https://api.gbif.org/v1/species/2522229/vernacularNames?limit=100",
+          "detail": "pruun kübarnarmik"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2522229",
+          "detail": "2522229"
+        }
+      ],
+      fi: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://fi.wikipedia.org/wiki/Ruosteorakas"
+        },
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (FinBIF checklist of Finnish species)",
+          "href": "https://api.gbif.org/v1/species/2522229/vernacularNames?limit=100",
+          "detail": "ruosteorakas"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2522229",
+          "detail": "2522229"
+        }
+      ],
+      fr: [
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://fr.wikipedia.org/wiki/Hydnellum_ferrugineum"
+        },
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (TAXREF)",
+          "href": "https://api.gbif.org/v1/species/2522229/vernacularNames?limit=100",
+          "detail": "hydne ferrugineux"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2522229",
+          "detail": "2522229"
+        }
+      ],
+      de: [
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (Taxon list of fungi from Germany; Catalogue of Life)",
+          "href": "https://api.gbif.org/v1/species/2522229/vernacularNames?limit=100",
+          "detail": "Rotbrauner Korkstacheling"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2522229",
+          "detail": "2522229"
+        }
+      ],
+      he: [
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (Catalogue of Life)",
+          "href": "https://api.gbif.org/v1/species/2522229/vernacularNames?limit=100",
+          "detail": "שנונית שחומה"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2522229",
+          "detail": "2522229"
+        }
+      ],
+      hi: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2522229",
+          "detail": "2522229"
+        }
+      ],
+      hu: [
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://hu.wikipedia.org/wiki/Izzad%C3%B3_f%C3%A1sgereben"
+        },
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (Catalogue of Life)",
+          "href": "https://api.gbif.org/v1/species/2522229/vernacularNames?limit=100",
+          "detail": "izzadó fásgereben"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2522229",
+          "detail": "2522229"
+        }
+      ],
+      id: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2522229",
+          "detail": "2522229"
+        }
+      ],
+      it: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2522229",
+          "detail": "2522229"
+        }
+      ],
+      ja: [
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (Katsumoto (2010) list of local names of fungi)",
+          "href": "https://api.gbif.org/v1/species/2522229/vernacularNames?limit=100",
+          "detail": "アカノシズクハリタケ, オオサビハリタケ"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2522229",
+          "detail": "2522229"
+        }
+      ],
+      ko: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2522229",
+          "detail": "2522229"
+        }
+      ],
+      lv: [
+        {
+          "group": "text",
+          "name": "Vikipēdija",
+          "href": "https://lv.wikipedia.org/wiki/R%C5%ABsgan%C4%81_br%C5%ABnzobe"
+        },
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (Catalogue of Life)",
+          "href": "https://api.gbif.org/v1/species/2522229/vernacularNames?limit=100",
+          "detail": "rūsganā brūnzobe"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2522229",
+          "detail": "2522229"
+        }
+      ],
+      lt: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://lt.wikipedia.org/wiki/Rudasis_dyglut%C4%97lis"
+        },
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (Catalogue of Life)",
+          "href": "https://api.gbif.org/v1/species/2522229/vernacularNames?limit=100",
+          "detail": "rudasis dyglutėlis"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2522229",
+          "detail": "2522229"
+        }
+      ],
+      no: [
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (Catalogue of Life; Artsdatabanken)",
+          "href": "https://api.gbif.org/v1/species/2522229/vernacularNames?limit=100",
+          "detail": "rustbrunpigg"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2522229",
+          "detail": "2522229"
+        }
+      ],
+      fa: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2522229",
+          "detail": "2522229"
+        }
+      ],
+      pl: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://pl.wikipedia.org/wiki/Kolczak%C3%B3wka_kasztanowata"
+        },
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (Catalogue of Life)",
+          "href": "https://api.gbif.org/v1/species/2522229/vernacularNames?limit=100",
+          "detail": "kolczakówka kasztanowata"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2522229",
+          "detail": "2522229"
+        }
+      ],
+      pt: [
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://pt.wikipedia.org/wiki/Hydnellum_ferrugineum"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2522229",
+          "detail": "2522229"
+        }
+      ],
+      ro: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2522229",
+          "detail": "2522229"
+        }
+      ],
+      ru: [
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (Catalogue of Life)",
+          "href": "https://api.gbif.org/v1/species/2522229/vernacularNames?limit=100",
+          "detail": "гиднеллум ржавчинный"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2522229",
+          "detail": "2522229"
+        }
+      ],
+      sr: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2522229",
+          "detail": "2522229"
+        }
+      ],
+      sl: [
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (Catalogue of Life)",
+          "href": "https://api.gbif.org/v1/species/2522229/vernacularNames?limit=100",
+          "detail": "rjasta ježevka"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2522229",
+          "detail": "2522229"
+        }
+      ],
+      es: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://es.wikipedia.org/wiki/Hydnellum_ferrugineum"
+        },
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (Vernacular names of Iberian fungi in Spain)",
+          "href": "https://api.gbif.org/v1/species/2522229/vernacularNames?limit=100",
+          "detail": "hidno herrumbroso"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2522229",
+          "detail": "2522229"
+        }
+      ],
+      sv: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://sv.wikipedia.org/wiki/Dropptaggsvamp"
+        },
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (Dyntaxa; Catalogue of Life)",
+          "href": "https://api.gbif.org/v1/species/2522229/vernacularNames?limit=100",
+          "detail": "dropptaggsvamp"
+        },
+        {
+          "group": "name",
+          "name": "Wikidata",
+          "href": "https://www.wikidata.org/wiki/Q5954059",
+          "detail": "röddroppig taggsvamp (alias)"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2522229",
+          "detail": "2522229"
+        }
+      ],
+      tr: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2522229",
+          "detail": "2522229"
+        }
+      ],
+      uk: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2522229",
+          "detail": "2522229"
+        }
+      ]
+    },
+    synonyms: [
+      "Hydnum ferrugineum Fr.",
+      "Calodon ferrugineus (Fr.) P. Karst.",
+      "Phaeodon ferrugineus (Fr.) J. Schröt.",
+      "Hydnum hybridum Bull.",
+      "Calodon hybridus (Bull.) Lindau",
+      "Hydnellum hybridum (Bull.) Banker",
+      "Hydnum carbunculus Secr.",
+      "Hydnellum sanguinarium Banker",
+      "Hydnellum pineticola K.A. Harrison"
+    ]
+  },
+  {
+    id: 110,
+    name: "Heterobasidion annosum",
+    author: "(Fr.) Bref.",
+    family: "Bondarzewiaceae",
+    genus: "Heterobasidion",
+    order: "Russulales",
+    edibility: "inedible",
+    hymenium: "tubes",
+    where: ["wood"],
+    color: ["brown", "white"],
+    path: [
+      "Fungi",
+      "Dikarya",
+      "Basidiomycota",
+      "Agaricomycotina",
+      "Agaricomycetes",
+      "Incertae sedis",
+      "Russulales",
+      "Bondarzewiaceae",
+      "Heterobasidion"
+    ],
+    summary: ["Russulales", "Bondarzewiaceae", "Heterobasidion"],
+    added: "2026-11-04",
+    plate: STORAGE + "photos/Russulales/Bondarzewiaceae/Heterobasidion_annosum/Heterobasidion_annosum@1600.webp",
+    plateGrid: STORAGE + "photos/Russulales/Bondarzewiaceae/Heterobasidion_annosum/Heterobasidion_annosum@400.webp",
+    plateCredit: {
+      author: "Robert Hartig",
+      license: "public domain",
+      source: "https://commons.wikimedia.org/wiki/File:Die_Zersetzungserscheinungen_des_Holzes_der_Nadelholzb%C3%A4ume_und_der_Eiche_in_forstlicher,_botanischer_und_chemischer_Richtung_(IA_diezersetzungser00hartuoft).pdf?page=167"
+    },
+    photos: [
+      {
+        src: STORAGE + "photos/Russulales/Bondarzewiaceae/Heterobasidion_annosum/hap1.webp",
+        author: "Michel Langeveld",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Heterobasidion_annosum_108228612.jpg"
+      },
+      {
+        src: STORAGE + "photos/Russulales/Bondarzewiaceae/Heterobasidion_annosum/hap2.webp",
+        author: "Kieran Roy Powell",
+        license: "CC BY 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Heterobasidion_annosum_Aberystwyth_2023.jpg"
+      },
+      {
+        src: STORAGE + "photos/Russulales/Bondarzewiaceae/Heterobasidion_annosum/hap3.webp",
+        author: "Michel Langeveld",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Heterobasidion_annosum_172179521.jpg"
+      },
+      {
+        src: STORAGE + "photos/Russulales/Bondarzewiaceae/Heterobasidion_annosum/hap4.webp",
+        author: "Matej Frančeškin",
+        license: "CC BY 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/4.0",
+        source: "https://commons.wikimedia.org/wiki/File:Heterobasidion_annosum_342546101.jpg"
+      },
+      {
+        src: STORAGE + "photos/Russulales/Bondarzewiaceae/Heterobasidion_annosum/hap5.webp",
+        author: "Henk Monster",
+        license: "CC BY 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Heterobasidion_annosum_(GB=_Root_Rot,_Syn._Annosum_Root_Rot,_D=_Wurzelschwamm,_F=_Polypore_du_pin,_NL=_Dennenmoorder)_cream_spores_and_causes_white_root_rot,_at_Schelmseweg_Schaarsbergen_-_panoramio.jpg"
+      },
+      {
+        src: STORAGE + "photos/Russulales/Bondarzewiaceae/Heterobasidion_annosum/hap6.webp",
+        author: "Jerzy Opioła",
+        license: "CC BY-SA 3.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+        source: "https://commons.wikimedia.org/wiki/File:Heterobasidion.annosum_G4.JPG"
+      }
+    ],
+    capFrom: 5,
+    capTo: 15,
+    fruitingFrom: 1,
+    fruitingTo: 12,
+    label: {
+      en: "root fomes",
+      sk: "koreňovka vrstevnatá",
+      ar: "بوليط معمر",
+      bg: "коренова гъба",
+      zh: "多年异担子菌",
+      cs: "kořenovník vrstevnatý",
+      da: "almindelig rodfordærver",
+      nl: "dennenmoorder",
+      et: "männi-juurepess",
+      fi: "männynjuurikääpä",
+      fr: "polypore du rond des pins",
+      de: "Gemeiner Wurzelschwamm",
+      hu: "gyökérrontó tapló",
+      ja: "マツノネクチタケ",
+      ko: "뿌리버섯",
+      lv: "sakņu piepe",
+      lt: "šakninė pintenė",
+      no: "fururotkjuke",
+      pl: "korzeniowiec sosnowy",
+      ru: "корневая губка",
+      sl: "borov trohnobnež",
+      es: "yesquero añoso",
+      sv: "rotticka",
+      uk: "коренева губка"
+    },
+    names: {
+      en: ["conifer-base polypore"],
+      fr: ["polypore du pin"],
+      de: ["Wurzelschwamm"],
+      lv: ["priežu sakņupiepe"],
+      no: ["rotkjuke"],
+      pl: ["korzeniowiec wieloletni"]
+    },
+    text: {
+      en: {
+        description: "A tough, perennial bracket fungus that grows low on conifer trunks, on stumps and on exposed roots, often half hidden in the litter. The knobbly upper surface is brown with a white growing edge, and the underside is white with tiny pores. It causes a serious root and butt rot of conifers and is not edible.",
+        cap: "The brackets are 5–15 cm wide, 1–8 cm deep and 1–2 cm thick, with a sharp edge, often fused in rows or tiers, and sometimes spread flat on the wood. The upper surface is knobbly and wrinkled, finely felty then bare, with a thin dark crust; it is greyish, reddish or dark brown, with a white growing margin.",
+        hymenium: "The underside has small, round pores, about 3–4 per mm, cream-white to ochre-yellow, browning when bruised. The yearly tube layers are hard to see.",
+        stipe: "There is no stipe; the bracket is attached broadly to the wood.",
+        flesh: "The flesh is whitish to wood-coloured, corky and tough when fresh and woody when dry. The smell is strongly fungal.",
+        sporePrint: "The spore print is white. The spores are broadly ellipsoid to round, finely warty, about 4–7 × 3–5 µm.",
+        habitat: "It lives as a parasite and decomposer at the base of trunks, on roots and on stumps of conifers, mainly spruce and pine, and sometimes of broadleaved trees. Spores infect fresh stumps and the fungus spreads to neighbouring trees through root contacts. Fruitbodies can be found all year. It occurs throughout the Northern Hemisphere.",
+        uses: "It is not edible because the flesh is woody. Foresters protect fresh stumps by treating them with spores of the competing fungus Phlebiopsis gigantea.",
+        confusion: "Neoantrodia serialis is paler and yellowish, has no crust and causes a brown cubical rot. Heterobasidion parviporum, mainly on spruce, and Heterobasidion abietinum, mainly on fir, look almost the same and are separated mostly by host and pore size.",
+        notes: "Elias Magnus Fries described it in 1821 as Polyporus annosus. Robert Hartig showed in 1874 that it causes the root rot of conifers, and Oscar Brefeld moved it to Heterobasidion in 1888. The epithet annosum means old or long-lived, after the perennial fruitbodies."
+      },
+      sk: {
+        description: "Tuhá, viacročná konzolovitá huba, ktorá rastie nízko na kmeňoch ihličnanov, na pňoch a na obnažených koreňoch, často napoly skrytá v opade. Hrboľatý povrch je hnedý s bielym rastúcim okrajom a spodná strana je biela s drobnými pórmi. Spôsobuje vážnu hnilobu koreňov a spodnej časti kmeňa ihličnanov a nie je jedlá.",
+        cap: "Plodnice sú 5–15 cm široké, 1–8 cm hlboké a 1–2 cm hrubé, s ostrým okrajom, často zrastené do radov alebo poschodí, niekedy rozliate na dreve. Povrch je hrboľatý a vráskavý, najprv jemne plstnatý, potom lysý, s tenkou tmavou kôrkou; je sivastý, červenkastý až tmavohnedý, s bielym rastúcim okrajom.",
+        hymenium: "Na spodnej strane sú drobné okrúhle póry, asi 3–4 na mm, krémovobiele až okrovožlté, po otlačení hnednú. Ročné vrstvy rúrok sú ťažko rozoznateľné.",
+        stipe: "Hlúbik chýba; plodnica prirastá k drevu širokou bázou.",
+        flesh: "Dužina je belavá až drevovej farby, za čerstva korkovito tuhá, po vyschnutí drevnatá. Vôňa je výrazne hubová.",
+        sporePrint: "Výtrusný prach je biely. Výtrusy sú široko elipsoidné až guľovité, jemne bradavičnaté, asi 4–7 × 3–5 µm.",
+        habitat: "Žije ako parazit a rozkladač na báze kmeňov, na koreňoch a pňoch ihličnanov, hlavne smreka a borovice, niekedy aj listnáčov. Výtrusy infikujú čerstvé pne a huba sa šíri na susedné stromy cez kontakty koreňov. Plodnice možno nájsť po celý rok. Vyskytuje sa na celej severnej pologuli.",
+        uses: "Nie je jedlá, pretože dužina je drevnatá. Lesníci ošetrujú čerstvé pne výtrusmi konkurenčnej huby Phlebiopsis gigantea, aby zabránili nákaze.",
+        confusion: "Neoantrodia serialis je svetlejšia a žltkastá, nemá kôrku a spôsobuje hnedú kockovitú hnilobu. Heterobasidion parviporum, hlavne na smreku, a Heterobasidion abietinum, hlavne na jedli, vyzerajú takmer rovnako a rozlišujú sa najmä podľa hostiteľa a veľkosti pórov.",
+        notes: "Elias Magnus Fries ju opísal v roku 1821 ako Polyporus annosus. Robert Hartig v roku 1874 ukázal, že spôsobuje hnilobu koreňov ihličnanov, a Oscar Brefeld ju v roku 1888 preradil do rodu Heterobasidion. Prívlastok annosum znamená mnohoročný, podľa dlho žijúcich plodníc."
+      },
+      ar: {
+        description: "فطر رفّي صلب معمّر ينمو منخفضاً على جذوع المخروطيات وعلى الأرومات والجذور المكشوفة، وكثيراً ما يكون نصف مختبئ في الفرشة. سطحه العلوي المعقّد بني ذو حافة نامية بيضاء، وسطحه السفلي أبيض ذو مسام دقيقة. يسبب تعفناً خطيراً في جذور المخروطيات وقواعد جذوعها، وهو غير صالح للأكل.",
+        cap: "يبلغ عرض الرفوف ٥–١٥ سم وعمقها ١–٨ سم وسمكها ١–٢ سم، وحافتها حادة، وكثيراً ما تلتحم في صفوف أو طبقات، وأحياناً تنبسط على الخشب. السطح العلوي متكتل ومتجعد، لبّادي ناعم ثم أملس، ذو قشرة رقيقة داكنة؛ لونه رمادي أو محمر أو بني داكن، مع حافة نامية بيضاء.",
+        hymenium: "في السطح السفلي مسام صغيرة مستديرة، نحو ٣–٤ في كل مليمتر، بيضاء قشدية إلى صفراء مغرّة، تصير بنية عند الضغط. طبقات الأنابيب السنوية يصعب تمييزها.",
+        stipe: "لا ساق له؛ يلتصق الرف بالخشب بقاعدة عريضة.",
+        flesh: "اللحم أبيض إلى بلون الخشب، فليني صلب وهو طازج وخشبي عند الجفاف. رائحته فطرية قوية.",
+        sporePrint: "بصمة الأبواغ بيضاء. الأبواغ إهليلجية عريضة إلى كروية، دقيقة الثآليل، نحو ٤–٧ × ٣–٥ ميكرومتر.",
+        habitat: "يعيش متطفلاً ومحللاً عند قواعد الجذوع وعلى جذور وأرومات المخروطيات، ولا سيما التنوب والصنوبر، وأحياناً على الأشجار عريضة الأوراق. تصيب الأبواغ الأرومات الحديثة القطع، وينتقل الفطر إلى الأشجار المجاورة عبر تلامس الجذور. يمكن العثور على أجسامه الثمرية طوال السنة. ينتشر في نصف الكرة الشمالي كله.",
+        uses: "غير صالح للأكل لأن لحمه خشبي. يحمي الحراجيون الأرومات الحديثة بمعالجتها بأبواغ الفطر المنافس Phlebiopsis gigantea.",
+        confusion: "الفطر Neoantrodia serialis أفتح لوناً ومصفرّ، بلا قشرة، ويسبب تعفناً بنياً مكعباً. أما Heterobasidion parviporum، وغالباً على التنوب، و Heterobasidion abietinum، وغالباً على الشوح، فيبدوان متطابقين تقريباً ويُفرّقان أساساً بالعائل وحجم المسام.",
+        notes: "وصفه إلياس ماغنوس فريس عام ١٨٢١ باسم Polyporus annosus. وبيّن روبرت هارتيغ عام ١٨٧٤ أنه يسبب تعفن جذور المخروطيات، ونقله أوسكار بريفيلد إلى الجنس Heterobasidion عام ١٨٨٨. يعني النعت annosum «كثير السنين»، إشارة إلى أجسامه الثمرية الطويلة العمر."
+      },
+      bg: {
+        description: "Жилава многогодишна конзолна гъба, която расте ниско по стъблата на иглолистни дървета, по пънове и по оголени корени, често наполовина скрита в постилката. Неравната горна повърхност е кафява с бял нарастващ ръб, а долната страна е бяла с дребни пори. Причинява сериозно гниене на корените и основата на стъблото при иглолистните и не е ядлива.",
+        cap: "Плодните тела са 5–15 cm широки, 1–8 cm дълбоки и 1–2 cm дебели, с остър ръб, често сраснали в редове или етажи, понякога разстлани по дървото. Горната повърхност е бучковата и набръчкана, отначало фино филцеста, после гола, с тънка тъмна кора; сивкава, червеникава до тъмнокафява, с бял нарастващ ръб.",
+        hymenium: "Отдолу има дребни кръгли пори, около 3–4 на mm, кремавобели до охреножълти, покафеняват при натиск. Годишните слоеве тръбички трудно се различават.",
+        stipe: "Пънче няма; плодното тяло е прикрепено към дървото с широка основа.",
+        flesh: "Месото е белезникаво до с цвят на дърво, коркововидно и жилаво в свежо състояние, дървесно при изсъхване. Мирисът е силно гъбен.",
+        sporePrint: "Спорите на маса са бели. Спорите са широко елипсоидни до кълбовидни, фино брадавичести, около 4–7 × 3–5 µm.",
+        habitat: "Живее като паразит и разградител в основата на стъблата, по корените и пъновете на иглолистни, главно смърч и бор, понякога и на широколистни дървета. Спорите заразяват пресни пънове, а гъбата преминава към съседни дървета чрез допира на корените. Плодни тела се намират през цялата година. Разпространена е в цялото Северно полукълбо.",
+        uses: "Не е ядлива, защото месото е дървесно. Горските служители предпазват пресните пънове, като ги третират със спори на конкурентната гъба Phlebiopsis gigantea.",
+        confusion: "Neoantrodia serialis е по-светла и жълтеникава, без кора и причинява кафяво кубично гниене. Heterobasidion parviporum, главно по смърч, и Heterobasidion abietinum, главно по ела, изглеждат почти еднакво и се различават главно по гостоприемника и размера на порите.",
+        notes: "Елиас Магнус Фрис я описва през 1821 г. като Polyporus annosus. Роберт Хартиг показва през 1874 г., че тя причинява кореновото гниене на иглолистните, а Оскар Брефелд я премества в Heterobasidion през 1888 г. Епитетът annosum означава многогодишен, по дълго живеещите плодни тела."
+      },
+      zh: {
+        description: "一种坚韧的多年生檐状真菌，生于针叶树树干基部、树桩和裸露的根上，常半掩于落叶层中。上表面凹凸不平，褐色，具白色生长边缘；下表面白色，具细小孔口。它引起针叶树严重的根腐和干基腐，不可食用。",
+        cap: "子实体宽5–15厘米，伸出1–8厘米，厚1–2厘米，边缘锐，常成排或成层愈合，有时平伏于木材上。上表面有瘤突和皱纹，初具细绒毛，后光滑，有一层薄的暗色硬壳；灰色、红褐色至暗褐色，生长边缘白色。",
+        hymenium: "下表面具小而圆的孔口，每毫米约3–4个，乳白色至赭黄色，受伤后变褐色。各年的菌管层不易分辨。",
+        stipe: "无菌柄；子实体以宽阔的基部附着于木材上。",
+        flesh: "菌肉白色至木材色，新鲜时木栓质而坚韧，干后木质。气味有强烈的菌香。",
+        sporePrint: "孢子印白色。孢子宽椭圆形至近球形，有细疣，约4–7 × 3–5微米。",
+        habitat: "作为寄生菌和分解者生于针叶树（主要是云杉和松树）的树干基部、根和树桩上，有时也生于阔叶树上。孢子侵染新鲜树桩，真菌再通过根系接触蔓延到邻近树木。全年都能找到子实体。分布于整个北半球。",
+        uses: "菌肉木质，不可食用。林业人员用竞争性真菌Phlebiopsis gigantea的孢子处理新伐树桩来防止侵染。",
+        confusion: "Neoantrodia serialis颜色较浅，带黄色，无硬壳，引起褐色块状腐朽。Heterobasidion parviporum（主要生于云杉）和Heterobasidion abietinum（主要生于冷杉）外观几乎相同，主要靠寄主和孔口大小区分。",
+        notes: "埃利亚斯·马格努斯·弗里斯于1821年将其描述为Polyporus annosus。罗伯特·哈蒂希在1874年证明它引起针叶树根腐，奥斯卡·布雷菲尔德于1888年将其移入异担子菌属（Heterobasidion）。种加词annosum意为多年的，指其长寿的子实体。"
+      },
+      hr: {
+        description: "Žilava, višegodišnja gljiva u obliku konzole koja raste nisko na deblima četinjača, na panjevima i na ogoljelom korijenju, često napola skrivena u stelji. Kvrgava gornja površina je smeđa s bijelim rubom rasta, a donja strana bijela sa sitnim porama. Uzrokuje ozbiljnu trulež korijena i pridanka četinjača i nije jestiva.",
+        cap: "Plodišta su široka 5–15 cm, duboka 1–8 cm i debela 1–2 cm, oštra ruba, često srasla u redove ili katove, ponekad razlivena po drvu. Gornja površina je kvrgava i naborana, najprije fino pustenasta, zatim gola, s tankom tamnom korom; sivkasta, crvenkasta do tamnosmeđa, s bijelim rubom rasta.",
+        hymenium: "Na donjoj strani su sitne okrugle pore, oko 3–4 na mm, krem-bijele do okerastožute, na pritisak posmeđe. Godišnji slojevi cjevčica teško se razaznaju.",
+        stipe: "Stručka nema; plodište je širokom osnovom priraslo uz drvo.",
+        flesh: "Meso je bjelkasto do boje drva, svježe plutasto i žilavo, suho drvenasto. Miris je snažno gljivlji.",
+        sporePrint: "Otisak spora je bijel. Spore su široko elipsoidne do okrugle, fino bradavičaste, oko 4–7 × 3–5 µm.",
+        habitat: "Živi kao parazit i razgrađivač na pridanku debala, na korijenju i panjevima četinjača, ponajviše smreke i bora, a ponekad i listača. Spore zaraze svježe panjeve, a gljiva se preko dodira korijenja širi na susjedna stabla. Plodišta se mogu naći tijekom cijele godine. Raširena je na cijeloj sjevernoj polutki.",
+        uses: "Nije jestiva jer je meso drvenasto. Šumari štite svježe panjeve tretirajući ih sporama konkurentske gljive Phlebiopsis gigantea.",
+        confusion: "Neoantrodia serialis je svjetlija i žućkasta, bez kore, i uzrokuje smeđu kockastu trulež. Heterobasidion parviporum, uglavnom na smreci, i Heterobasidion abietinum, uglavnom na jeli, izgledaju gotovo jednako i razlikuju se ponajprije po domaćinu i veličini pora.",
+        notes: "Elias Magnus Fries opisao ju je 1821. kao Polyporus annosus. Robert Hartig je 1874. pokazao da uzrokuje trulež korijena četinjača, a Oscar Brefeld ju je 1888. premjestio u rod Heterobasidion. Epitet annosum znači višegodišnji, prema dugovječnim plodištima."
+      },
+      cs: {
+        description: "Tuhý, víceletý choroš, který roste nízko na kmenech jehličnanů, na pařezech a na obnažených kořenech, často napůl skrytý v opadu. Hrbolatý povrch je hnědý s bílým přirůstajícím okrajem a spodní strana je bílá s drobnými póry. Způsobuje vážnou hnilobu kořenů a báze kmene jehličnanů a není jedlý.",
+        cap: "Plodnice jsou 5–15 cm široké, 1–8 cm hluboké a 1–2 cm tlusté, s ostrým okrajem, často srostlé do řad nebo pater, někdy rozlité po dřevě. Povrch je hrbolatý a vrásčitý, nejprve jemně plstnatý, pak lysý, s tenkou tmavou korou; je šedavý, načervenalý až tmavě hnědý, s bílým přirůstajícím okrajem.",
+        hymenium: "Na spodní straně jsou drobné okrouhlé póry, asi 3–4 na mm, krémově bílé až okrově žluté, po otlačení hnědnou. Roční vrstvy rourek jsou špatně rozeznatelné.",
+        stipe: "Třeň chybí; plodnice přirůstá ke dřevu širokou bází.",
+        flesh: "Dužnina je bělavá až barvy dřeva, za čerstva korkovitě tuhá, v suchu dřevnatá. Vůně je silně houbová.",
+        sporePrint: "Výtrusný prach je bílý. Výtrusy jsou široce elipsoidní až kulovité, jemně bradavčité, asi 4–7 × 3–5 µm.",
+        habitat: "Žije jako parazit a rozkladač na bázi kmenů, na kořenech a pařezech jehličnanů, hlavně smrku a borovice, někdy i listnáčů. Výtrusy infikují čerstvé pařezy a houba se šíří na sousední stromy kontakty kořenů. Plodnice lze najít po celý rok. Vyskytuje se na celé severní polokouli.",
+        uses: "Není jedlý, protože dužnina je dřevnatá. Lesníci ošetřují čerstvé pařezy výtrusy konkurenční houby Phlebiopsis gigantea, aby zabránili nákaze.",
+        confusion: "Neoantrodia serialis je světlejší a nažloutlá, nemá korku a způsobuje hnědou kostkovitou hnilobu. Heterobasidion parviporum, hlavně na smrku, a Heterobasidion abietinum, hlavně na jedli, vypadají téměř stejně a rozlišují se hlavně podle hostitele a velikosti pórů.",
+        notes: "Elias Magnus Fries jej popsal v roce 1821 jako Polyporus annosus. Robert Hartig v roce 1874 ukázal, že způsobuje hnilobu kořenů jehličnanů, a Oscar Brefeld jej v roce 1888 přeřadil do rodu Heterobasidion. Přívlastek annosum znamená mnohaletý, podle dlouho žijících plodnic."
+      },
+      da: {
+        description: "En sej, flerårig konsolsvamp, der vokser lavt på nåletræstammer, på stubbe og på blottede rødder, ofte halvt skjult i førnen. Den knoldede overside er brun med en hvid tilvækstrand, og undersiden er hvid med små porer. Den giver alvorlig rod- og stammeråd hos nåletræer og er ikke spiselig.",
+        cap: "Frugtlegemerne er 5–15 cm brede, 1–8 cm dybe og 1–2 cm tykke, med skarp kant, ofte sammenvoksede i rækker eller etager og undertiden udbredte på veddet. Oversiden er knoldet og rynket, først fint filtet, senere glat, med en tynd mørk skorpe; grålig, rødlig til mørkebrun, med hvid tilvækstrand.",
+        hymenium: "Undersiden har små, runde porer, ca. 3–4 pr. mm, cremehvide til okkergule, brunende ved tryk. De årlige rørlag er svære at se.",
+        stipe: "Der er ingen stok; frugtlegemet sidder bredt fast på veddet.",
+        flesh: "Kødet er hvidligt til træfarvet, korkagtigt og sejt i frisk tilstand og træagtigt, når det er tørt. Lugten er kraftigt svampeagtig.",
+        sporePrint: "Sporepulveret er hvidt. Sporerne er bredt ellipsoide til runde, fint vortede, ca. 4–7 × 3–5 µm.",
+        habitat: "Den lever som parasit og nedbryder ved stammebasis, på rødder og stubbe af nåletræer, især gran og fyr, og undertiden af løvtræer. Sporerne inficerer friske stubbe, og svampen spreder sig til nabotræer gennem rodkontakter. Frugtlegemer kan findes hele året. Den forekommer på hele den nordlige halvkugle.",
+        uses: "Den er ikke spiselig, fordi kødet er træagtigt. Skovbrugere behandler friske stubbe med sporer af den konkurrerende svamp Phlebiopsis gigantea for at hindre smitte.",
+        confusion: "Neoantrodia serialis er lysere og gullig, har ingen skorpe og giver brunmuld. Heterobasidion parviporum, mest på gran, og Heterobasidion abietinum, mest på ædelgran, ser næsten ens ud og skelnes især på værtstræ og porestørrelse.",
+        notes: "Elias Magnus Fries beskrev den i 1821 som Polyporus annosus. Robert Hartig viste i 1874, at den giver rodråd hos nåletræer, og Oscar Brefeld flyttede den til Heterobasidion i 1888. Artsnavnet annosum betyder mangeårig, efter de langlivede frugtlegemer."
+      },
+      nl: {
+        description: "Een taaie, meerjarige consolezwam die laag op stammen van naaldbomen, op stronken en op blootliggende wortels groeit, vaak half verborgen in het strooisel. De knobbelige bovenkant is bruin met een witte aangroeirand, en de onderkant is wit met kleine poriën. Hij veroorzaakt een ernstige wortel- en stamvoetrot bij naaldbomen en is niet eetbaar.",
+        cap: "De vruchtlichamen zijn 5–15 cm breed, 1–8 cm diep en 1–2 cm dik, met een scherpe rand, vaak vergroeid in rijen of etages en soms plat over het hout uitgespreid. De bovenkant is knobbelig en gerimpeld, eerst fijn viltig, later kaal, met een dunne donkere korst; grijzig, roodachtig tot donkerbruin, met een witte aangroeirand.",
+        hymenium: "De onderkant heeft kleine, ronde poriën, ongeveer 3–4 per mm, crèmewit tot okergeel, bruin verkleurend bij aanraking. De jaarlijkse buislagen zijn moeilijk te zien.",
+        stipe: "Er is geen steel; het vruchtlichaam zit met een brede basis aan het hout vast.",
+        flesh: "Het vlees is witachtig tot houtkleurig, kurkachtig en taai als het vers is en houtig als het droog is. De geur is sterk zwamachtig.",
+        sporePrint: "De sporenprint is wit. De sporen zijn breed ellipsvormig tot rond, fijn wrattig, ongeveer 4–7 × 3–5 µm.",
+        habitat: "Hij leeft als parasiet en afbreker aan de stamvoet, op wortels en op stronken van naaldbomen, vooral spar en den, en soms van loofbomen. Sporen infecteren verse stronken en de zwam verspreidt zich via wortelcontacten naar naburige bomen. Vruchtlichamen zijn het hele jaar te vinden. Hij komt voor op het hele noordelijk halfrond.",
+        uses: "Hij is niet eetbaar omdat het vlees houtig is. Bosbeheerders beschermen verse stronken door ze te behandelen met sporen van de concurrerende zwam Phlebiopsis gigantea.",
+        confusion: "Neoantrodia serialis is lichter en geelachtig, heeft geen korst en veroorzaakt bruinrot. Heterobasidion parviporum, vooral op spar, en Heterobasidion abietinum, vooral op zilverspar, zien er bijna hetzelfde uit en worden vooral onderscheiden op waardboom en poriegrootte.",
+        notes: "Elias Magnus Fries beschreef hem in 1821 als Polyporus annosus. Robert Hartig toonde in 1874 aan dat hij de wortelrot van naaldbomen veroorzaakt, en Oscar Brefeld plaatste hem in 1888 in Heterobasidion. Het epitheton annosum betekent vele jaren oud, naar de langlevende vruchtlichamen."
+      },
+      et: {
+        description: "Sitke, mitmeaastane konsoolne seen, mis kasvab madalal okaspuude tüvedel, kändudel ja paljastunud juurtel, sageli poolenisti varises peidus. Muhklik pealmine pind on pruun valge kasvuservaga ning alumine pind valge, tillukeste pooridega. See põhjustab okaspuudel rasket juure- ja tüvemädanikku ega ole söödav.",
+        cap: "Viljakehad on 5–15 cm laiad, 1–8 cm sügavad ja 1–2 cm paksud, terava servaga, sageli ridade või kihtidena kokku kasvanud ning vahel puidule laiali valgunud. Pealispind on muhklik ja kortsuline, algul peenviltjas, hiljem paljas, õhukese tumeda koorikuga; hallikas, punakas kuni tumepruun, valge kasvuservaga.",
+        hymenium: "Alumisel pinnal on väikesed ümarad poorid, umbes 3–4 mm kohta, kreemjasvalged kuni ookerkollased, vajutamisel pruunistuvad. Aastased torukeste kihid on raskesti eristatavad.",
+        stipe: "Jalg puudub; viljakeha kinnitub puidule laia alusega.",
+        flesh: "Viljaliha on valkjas kuni puiduvärvi, värskelt korgijas ja sitke, kuivalt puitunud. Lõhn on tugevalt seene moodi.",
+        sporePrint: "Eoste kogum on valge. Eosed on laialt ellipsoidsed kuni ümarad, peenetüükalised, umbes 4–7 × 3–5 µm.",
+        habitat: "See elab parasiidi ja lagundajana okaspuude, eriti kuuse ja männi tüvede alusel, juurtel ja kändudel, vahel ka lehtpuudel. Eosed nakatavad värskeid kände ja seen levib juurekontaktide kaudu naaberpuudele. Viljakehi võib leida aasta läbi. Levinud kogu põhjapoolkeral.",
+        uses: "See ei ole söödav, sest viljaliha on puitunud. Metsamehed kaitsevad värskeid kände, töödeldes neid konkureeriva seene Phlebiopsis gigantea eostega.",
+        confusion: "Neoantrodia serialis on heledam ja kollakas, koorikuta ning põhjustab pruunmädanikku. Heterobasidion parviporum, peamiselt kuusel, ja Heterobasidion abietinum, peamiselt nulul, näevad välja peaaegu ühesugused ning neid eristatakse eelkõige peremeespuu ja pooride suuruse järgi.",
+        notes: "Elias Magnus Fries kirjeldas seda 1821. aastal nimega Polyporus annosus. Robert Hartig näitas 1874. aastal, et see põhjustab okaspuude juuremädanikku, ja Oscar Brefeld paigutas selle 1888. aastal perekonda Heterobasidion. Liiginimi annosum tähendab mitmeaastast, pikaealiste viljakehade järgi."
+      },
+      fi: {
+        description: "Sitkeä, monivuotinen kääpä, joka kasvaa matalalla havupuiden rungoilla, kannoilla ja paljastuneilla juurilla, usein puoliksi karikkeen kätkemänä. Kyhmyinen yläpinta on ruskea ja sen kasvureuna valkoinen, ja alapinta on valkoinen ja pienihuokoinen. Se aiheuttaa havupuille vakavaa juuri- ja tyvilahoa eikä ole syötävä.",
+        cap: "Itiöemät ovat 5–15 cm leveitä, 1–8 cm ulkonevia ja 1–2 cm paksuja, terävälaitaisia, usein riveiksi tai kerroksiksi yhteenkasvaneita ja joskus puulle levittäytyneitä. Yläpinta on kyhmyinen ja ryppyinen, aluksi hienohuopainen, myöhemmin kalju, ohuen tumman kuoren peittämä; harmahtava, punertava tai tummanruskea, kasvureuna valkoinen.",
+        hymenium: "Alapinnalla on pienet, pyöreät huokoset, noin 3–4 millimetrillä, kermanvalkoiset tai okrankeltaiset, kosketuksesta ruskettuvat. Vuotuiset pillikerrokset erottuvat huonosti.",
+        stipe: "Jalkaa ei ole; itiöemä on kiinnittynyt puuhun leveältä.",
+        flesh: "Malto on valkeahko tai puunvärinen, tuoreena korkkimainen ja sitkeä, kuivana puumainen. Haju on voimakkaan sienimäinen.",
+        sporePrint: "Itiöpöly on valkoinen. Itiöt ovat leveän ellipsoidisia tai pyöreitä, hienosti nystyisiä, noin 4–7 × 3–5 µm.",
+        habitat: "Se elää loisena ja lahottajana havupuiden, etenkin kuusen ja männyn, tyvellä, juurilla ja kannoilla, joskus myös lehtipuilla. Itiöt tartuttavat tuoreita kantoja, ja sieni leviää juurikontaktien kautta naapuripuihin. Itiöemiä voi löytää ympäri vuoden. Sitä tavataan koko pohjoisella pallonpuoliskolla.",
+        uses: "Se ei ole syötävä, koska malto on puumainen. Metsänhoitajat suojaavat tuoreita kantoja käsittelemällä ne kilpailevan sienen Phlebiopsis gigantea itiöillä.",
+        confusion: "Neoantrodia serialis on vaaleampi ja kellertävä, siltä puuttuu kuori, ja se aiheuttaa ruskolahoa. Heterobasidion parviporum, lähinnä kuusella, ja Heterobasidion abietinum, lähinnä jalokuusella, näyttävät lähes samanlaisilta, ja ne erotetaan lähinnä isäntäpuun ja huokoskoon perusteella.",
+        notes: "Elias Magnus Fries kuvasi sen vuonna 1821 nimellä Polyporus annosus. Robert Hartig osoitti vuonna 1874, että se aiheuttaa havupuiden juurilahoa, ja Oscar Brefeld siirsi sen sukuun Heterobasidion vuonna 1888. Lajinimi annosum tarkoittaa monivuotista, pitkäikäisten itiöemien mukaan."
+      },
+      fr: {
+        description: "Un polypore coriace et pérenne qui pousse au bas des troncs de conifères, sur les souches et sur les racines à nu, souvent à moitié caché dans la litière. La face supérieure bosselée est brune avec une marge de croissance blanche, et la face inférieure est blanche à pores minuscules. Il provoque une grave pourriture des racines et du pied des conifères et n’est pas comestible.",
+        cap: "Les consoles mesurent 5–15 cm de large, 1–8 cm de profondeur et 1–2 cm d’épaisseur ; la marge est aiguë, elles sont souvent soudées en rangées ou en étages et parfois étalées sur le bois. La face supérieure est bosselée et ridée, d’abord finement feutrée puis glabre, avec une mince croûte sombre ; grisâtre, rougeâtre à brun foncé, avec une marge de croissance blanche.",
+        hymenium: "La face inférieure porte de petits pores ronds, environ 3–4 par mm, blanc crème à jaune ocre, brunissant au toucher. Les couches annuelles de tubes se distinguent mal.",
+        stipe: "Il n’y a pas de pied ; la console est fixée au bois par une large base.",
+        flesh: "La chair est blanchâtre à couleur de bois, subéreuse et coriace à l’état frais, ligneuse à l’état sec. L’odeur est fortement fongique.",
+        sporePrint: "La sporée est blanche. Les spores sont largement ellipsoïdes à rondes, finement verruqueuses, d’environ 4–7 × 3–5 µm.",
+        habitat: "Il vit en parasite et en décomposeur au pied des troncs, sur les racines et les souches de conifères, surtout l’épicéa et le pin, parfois de feuillus. Les spores infectent les souches fraîches, puis le champignon gagne les arbres voisins par les contacts racinaires. On trouve des sporophores toute l’année. Il est présent dans tout l’hémisphère Nord.",
+        uses: "Il n’est pas comestible, car sa chair est ligneuse. Les forestiers protègent les souches fraîches en les traitant avec des spores du champignon concurrent Phlebiopsis gigantea.",
+        confusion: "Neoantrodia serialis est plus pâle et jaunâtre, sans croûte, et cause une pourriture brune cubique. Heterobasidion parviporum, surtout sur épicéa, et Heterobasidion abietinum, surtout sur sapin, sont presque identiques et se distinguent surtout par l’hôte et la taille des pores.",
+        notes: "Elias Magnus Fries l’a décrit en 1821 sous le nom de Polyporus annosus. Robert Hartig a montré en 1874 qu’il provoque la pourriture des racines des conifères, et Oscar Brefeld l’a placé dans Heterobasidion en 1888. L’épithète annosum signifie âgé de nombreuses années, d’après ses sporophores de longue vie."
+      },
+      de: {
+        description: "Ein zäher, mehrjähriger Porling, der tief am Stammgrund von Nadelbäumen, an Stümpfen und an freiliegenden Wurzeln wächst und oft halb in der Streu verborgen ist. Die höckerige Oberseite ist braun mit weißer Zuwachskante, die Unterseite weiß mit winzigen Poren. Er verursacht eine schwere Wurzel- und Stammfäule an Nadelbäumen und ist ungenießbar.",
+        cap: "Die Fruchtkörper sind 5–15 cm breit, 1–8 cm tief und 1–2 cm dick, mit scharfer Kante, oft in Reihen oder dachziegelig verwachsen und manchmal flach auf dem Holz ausgebreitet. Die Oberseite ist höckerig und runzelig, erst feinfilzig, dann kahl, mit einer dünnen dunklen Kruste; grau, rötlich bis dunkelbraun, mit weißer Zuwachskante.",
+        hymenium: "Die Unterseite trägt kleine, rundliche Poren, etwa 3–4 pro mm, cremeweiß bis ockergelb, auf Druck bräunend. Die jährlichen Röhrenschichten sind schlecht zu erkennen.",
+        stipe: "Ein Stiel fehlt; der Fruchtkörper sitzt breit am Holz an.",
+        flesh: "Das Fleisch ist weißlich bis holzfarben, frisch korkig-zäh und trocken holzig. Der Geruch ist kräftig pilzartig.",
+        sporePrint: "Das Sporenpulver ist weiß. Die Sporen sind breit ellipsoid bis kugelig, feinwarzig, etwa 4–7 × 3–5 µm.",
+        habitat: "Er lebt als Parasit und Zersetzer am Stammgrund, an Wurzeln und Stümpfen von Nadelbäumen, vor allem Fichte und Kiefer, gelegentlich auch von Laubbäumen. Sporen infizieren frische Stümpfe, und der Pilz breitet sich über Wurzelkontakte auf Nachbarbäume aus. Fruchtkörper findet man das ganze Jahr. Er kommt auf der gesamten Nordhalbkugel vor.",
+        uses: "Er ist ungenießbar, weil das Fleisch holzig ist. Förster schützen frische Stümpfe, indem sie sie mit Sporen des konkurrierenden Pilzes Phlebiopsis gigantea behandeln.",
+        confusion: "Neoantrodia serialis ist heller und gelblich, hat keine Kruste und verursacht eine würfelige Braunfäule. Heterobasidion parviporum, vor allem an Fichte, und Heterobasidion abietinum, vor allem an Tanne, sehen fast gleich aus und werden hauptsächlich nach Wirt und Porengröße unterschieden.",
+        notes: "Elias Magnus Fries beschrieb ihn 1821 als Polyporus annosus. Robert Hartig zeigte 1874, dass er die Wurzelfäule der Nadelbäume verursacht, und Oscar Brefeld stellte ihn 1888 in die Gattung Heterobasidion. Das Epitheton annosum bedeutet vieljährig, nach den langlebigen Fruchtkörpern."
+      },
+      he: {
+        description: "פטרייה מדפית קשוחה ורב־שנתית הגדלה נמוך על גזעי מחטניים, על גדמים ועל שורשים חשופים, ולעתים קרובות חבויה למחצה בשכבת הנשר. הצד העליון הגבשושי חום ובעל שוליים לבנים צומחים, והצד התחתון לבן ובעל נקבוביות זעירות. היא גורמת לריקבון חמור של שורשים ובסיסי גזעים של מחטניים ואינה ראויה למאכל.",
+        cap: "המדפים ברוחב 5–15 ס״מ, בעומק 1–8 ס״מ ובעובי 1–2 ס״מ, בעלי שוליים חדים, לרוב מאוחים בשורות או בקומות ולעתים פרושים על העץ. הצד העליון גבשושי ומקומט, תחילה לבדי דק ואחר כך חלק, עם קרום כהה ודק; אפרפר, אדמדם עד חום כהה, עם שוליים צומחים לבנים.",
+        hymenium: "בצד התחתון נקבוביות קטנות ועגולות, כ־3–4 למילימטר, לבנות־שמנתיות עד צהובות־אוכרה, המשחימות במגע. שכבות הצינוריות השנתיות קשות להבחנה.",
+        stipe: "אין לה רגל; המדף מחובר לעץ בבסיס רחב.",
+        flesh: "הבשר לבנבן עד בצבע עץ, שעמי וקשוח כשהוא טרי ועצי כשהוא יבש. הריח פטרייתי חזק.",
+        sporePrint: "אבקת הנבגים לבנה. הנבגים אליפטיים רחבים עד כדוריים, מגובששים דק, כ־4–7 × 3–5 מיקרומטר.",
+        habitat: "היא חיה כטפיל וכמפרקת בבסיס גזעים, על שורשים ועל גדמים של מחטניים, בעיקר אשוח ואורן, ולעתים גם של עצים רחבי עלים. הנבגים מדביקים גדמים טריים, והפטרייה מתפשטת לעצים שכנים דרך מגע בין שורשים. ניתן למצוא גופי פרי כל השנה. היא נפוצה בכל חצי הכדור הצפוני.",
+        uses: "היא אינה ראויה למאכל כי הבשר עצי. יערנים מגינים על גדמים טריים בטיפול בנבגים של הפטרייה המתחרה Phlebiopsis gigantea.",
+        confusion: "Neoantrodia serialis בהירה וצהבהבה יותר, חסרת קרום וגורמת לריקבון חום קובייתי. Heterobasidion parviporum, בעיקר על אשוח, ו־Heterobasidion abietinum, בעיקר על אשוחית, נראות כמעט זהות ומובחנות בעיקר לפי העץ המאכסן וגודל הנקבוביות.",
+        notes: "אליאס מגנוס פריס תיאר אותה ב־1821 בשם Polyporus annosus. רוברט הרטיג הראה ב־1874 שהיא גורמת לריקבון השורשים של המחטניים, ואוסקר ברפלד העביר אותה לסוג Heterobasidion ב־1888. השם annosum פירושו רב־שנים, על שם גופי הפרי ארוכי החיים."
+      },
+      hi: {
+        description: "एक सख़्त, बहुवर्षीय ब्रैकेट कवक जो शंकुधारी पेड़ों के तनों के निचले हिस्से, ठूँठों और खुली जड़ों पर उगता है और अक्सर पत्तियों की परत में आधा छिपा रहता है। इसकी उभरी-खुरदरी ऊपरी सतह भूरी होती है और बढ़ता किनारा सफ़ेद, जबकि निचली सतह सफ़ेद और बहुत बारीक छिद्रों वाली होती है। यह शंकुधारी पेड़ों में जड़ और तने के आधार की गंभीर सड़न पैदा करता है और खाने योग्य नहीं है।",
+        cap: "फलकाय 5–15 सेमी चौड़े, 1–8 सेमी गहरे और 1–2 सेमी मोटे होते हैं, किनारा तीखा होता है, अक्सर पंक्तियों या परतों में जुड़े होते हैं और कभी-कभी लकड़ी पर चपटे फैले रहते हैं। ऊपरी सतह गाँठदार और झुर्रीदार, पहले बारीक रोएँदार फिर चिकनी, पतली गहरी पपड़ी वाली; धूसर, लालिमायुक्त से गहरी भूरी, सफ़ेद बढ़ते किनारे के साथ।",
+        hymenium: "निचली सतह पर छोटे, गोल छिद्र होते हैं, लगभग 3–4 प्रति मिमी, क्रीम-सफ़ेद से गेरुआ-पीले, दबाने पर भूरे हो जाते हैं। वार्षिक नलिका-परतें मुश्किल से दिखती हैं।",
+        stipe: "डंठल नहीं होता; फलकाय चौड़े आधार से लकड़ी से जुड़ा रहता है।",
+        flesh: "गूदा सफ़ेद-सा से लकड़ी के रंग का, ताज़ा होने पर कॉर्क जैसा और सख़्त, सूखने पर लकड़ी जैसा होता है। गंध तेज़ कवक जैसी होती है।",
+        sporePrint: "बीजाणु छाप सफ़ेद होती है। बीजाणु चौड़े दीर्घवृत्ताकार से गोल, बारीक मस्सेदार, लगभग 4–7 × 3–5 µm होते हैं।",
+        habitat: "यह शंकुधारी पेड़ों, मुख्यतः स्प्रूस और चीड़, और कभी-कभी चौड़ी पत्ती वाले पेड़ों के तनों के आधार, जड़ों और ठूँठों पर परजीवी और अपघटक के रूप में रहता है। बीजाणु ताज़ा कटे ठूँठों को संक्रमित करते हैं और कवक जड़ों के संपर्क से पड़ोसी पेड़ों तक फैलता है। फलकाय पूरे साल मिल सकते हैं। यह पूरे उत्तरी गोलार्ध में पाया जाता है।",
+        uses: "यह खाने योग्य नहीं है क्योंकि गूदा लकड़ी जैसा होता है। वनकर्मी ताज़ा ठूँठों पर प्रतिस्पर्धी कवक Phlebiopsis gigantea के बीजाणु लगाकर उन्हें बचाते हैं।",
+        confusion: "Neoantrodia serialis हल्का और पीलापन लिए होता है, उसमें पपड़ी नहीं होती और वह भूरी घनाकार सड़न पैदा करता है। Heterobasidion parviporum, मुख्यतः स्प्रूस पर, और Heterobasidion abietinum, मुख्यतः फ़र पर, लगभग एक जैसे दिखते हैं और मुख्यतः मेज़बान पेड़ तथा छिद्रों के आकार से पहचाने जाते हैं।",
+        notes: "एलियास माग्नुस फ़्रीस ने 1821 में इसे Polyporus annosus नाम से वर्णित किया। रॉबर्ट हार्टिग ने 1874 में दिखाया कि यह शंकुधारी पेड़ों की जड़-सड़न का कारण है, और ऑस्कर ब्रेफ़ेल्ड ने 1888 में इसे Heterobasidion वंश में रखा। विशेषण annosum का अर्थ है कई वर्ष पुराना, इसके दीर्घायु फलकायों के कारण।"
+      },
+      hu: {
+        description: "Szívós, évelő taplógomba, amely tűlevelű fák törzsének alján, tuskókon és kilátszó gyökereken nő, gyakran félig az avarba rejtve. Göröngyös felszíne barna, fehér növekvő szegéllyel, alsó oldala fehér, apró pórusokkal. Súlyos gyökér- és tőkorhadást okoz a tűlevelűeken, és nem ehető.",
+        cap: "A termőtestek 5–15 cm szélesek, 1–8 cm mélyek és 1–2 cm vastagok, éles szélűek, gyakran sorokba vagy emeletekbe nőnek össze, néha laposan szétterülnek a fán. A felszín göröngyös és ráncos, előbb finoman nemezes, később kopasz, vékony sötét kéreggel; szürkés, vöröses vagy sötétbarna, fehér növekvő szegéllyel.",
+        hymenium: "Az alsó oldalon apró, kerek pórusok vannak, milliméterenként kb. 3–4, krémfehérek vagy okkersárgák, nyomásra barnulnak. Az évenkénti csőrétegek nehezen láthatók.",
+        stipe: "Tönkje nincs; a termőtest széles alappal ül a fán.",
+        flesh: "A hús fehéres vagy fa színű, frissen parafás-szívós, szárazon fás. Szaga erősen gombaszerű.",
+        sporePrint: "A spórapor fehér. A spórák szélesen ellipszoidok vagy gömbölyűek, finoman szemölcsösek, kb. 4–7 × 3–5 µm.",
+        habitat: "Élősködőként és lebontóként él a tűlevelűek, főleg a luc és az erdeifenyő törzsalapján, gyökerein és tuskóin, néha lombos fákon is. A spórák a friss tuskókat fertőzik meg, majd a gomba a gyökérkapcsolatokon át a szomszédos fákra terjed. Termőtestei egész évben megtalálhatók. Az egész északi félgömbön előfordul.",
+        uses: "Nem ehető, mert a húsa fás. Az erdészek a friss tuskókat a versengő Phlebiopsis gigantea gomba spóráival kezelve védik.",
+        confusion: "A Neoantrodia serialis világosabb és sárgás, nincs kérge, és barna kockás korhadást okoz. A főleg lucon élő Heterobasidion parviporum és a főleg jegenyefenyőn élő Heterobasidion abietinum szinte ugyanúgy néz ki, és főleg a gazdafa és a pórusméret alapján különíthető el.",
+        notes: "Elias Magnus Fries 1821-ben írta le Polyporus annosus néven. Robert Hartig 1874-ben kimutatta, hogy a tűlevelűek gyökérkorhadását okozza, Oscar Brefeld pedig 1888-ban a Heterobasidion nemzetségbe helyezte. Az annosum faji jelző jelentése sokéves, a hosszú életű termőtestekre utalva."
+      },
+      id: {
+        description: "Jamur kurung yang liat dan menahun, tumbuh rendah di batang pohon konifer, di tunggul, dan di akar yang terbuka, sering setengah tersembunyi di serasah. Permukaan atasnya yang berbenjol berwarna cokelat dengan tepi tumbuh putih, dan sisi bawahnya putih dengan pori yang sangat kecil. Jamur ini menyebabkan busuk akar dan pangkal batang yang parah pada konifer dan tidak dapat dimakan.",
+        cap: "Tubuh buahnya lebar 5–15 cm, menjorok 1–8 cm, dan tebal 1–2 cm, bertepi tajam, sering menyatu dalam deretan atau bertingkat, dan kadang menghampar rata di kayu. Permukaan atas berbenjol dan berkerut, mula-mula berbulu halus lalu gundul, dengan kerak tipis gelap; keabuan, kemerahan hingga cokelat tua, dengan tepi tumbuh putih.",
+        hymenium: "Sisi bawah memiliki pori kecil yang bulat, sekitar 3–4 per mm, putih krem hingga kuning oker, menjadi cokelat bila ditekan. Lapisan tabung tahunan sulit dibedakan.",
+        stipe: "Tidak ada tangkai; tubuh buah menempel pada kayu dengan pangkal yang lebar.",
+        flesh: "Dagingnya keputihan hingga berwarna kayu, seperti gabus dan liat saat segar, berkayu saat kering. Baunya kuat seperti jamur.",
+        sporePrint: "Cetak sporanya putih. Sporanya lebar elipsoid hingga bulat, berkutil halus, sekitar 4–7 × 3–5 µm.",
+        habitat: "Jamur ini hidup sebagai parasit dan pengurai di pangkal batang, akar, dan tunggul konifer, terutama cemara spruce dan pinus, kadang juga pohon berdaun lebar. Spora menginfeksi tunggul segar, lalu jamur menyebar ke pohon tetangga melalui kontak akar. Tubuh buah dapat ditemukan sepanjang tahun. Tersebar di seluruh belahan bumi utara.",
+        uses: "Tidak dapat dimakan karena dagingnya berkayu. Rimbawan melindungi tunggul segar dengan mengolesinya dengan spora jamur pesaing Phlebiopsis gigantea.",
+        confusion: "Neoantrodia serialis lebih pucat dan kekuningan, tidak berkerak, dan menyebabkan busuk cokelat berbentuk kubus. Heterobasidion parviporum, terutama pada spruce, dan Heterobasidion abietinum, terutama pada fir, tampak hampir sama dan dibedakan terutama dari pohon inang dan ukuran pori.",
+        notes: "Elias Magnus Fries mendeskripsikannya pada 1821 sebagai Polyporus annosus. Robert Hartig menunjukkan pada 1874 bahwa jamur ini menyebabkan busuk akar konifer, dan Oscar Brefeld memindahkannya ke Heterobasidion pada 1888. Epitet annosum berarti berumur banyak tahun, merujuk pada tubuh buahnya yang berumur panjang."
+      },
+      it: {
+        description: "Un poliporo coriaceo e perenne che cresce in basso sui tronchi di conifere, sulle ceppaie e sulle radici scoperte, spesso mezzo nascosto nella lettiera. La superficie superiore bitorzoluta è bruna con un margine di accrescimento bianco, e la parte inferiore è bianca con pori minuti. Provoca un grave marciume delle radici e del colletto delle conifere e non è commestibile.",
+        cap: "I carpofori sono larghi 5–15 cm, sporgenti 1–8 cm e spessi 1–2 cm, con margine acuto, spesso concresciuti in file o a mensole sovrapposte e a volte distesi sul legno. La superficie è bitorzoluta e rugosa, prima finemente feltrata, poi glabra, con una sottile crosta scura; grigiastra, rossastra fino a bruno scuro, con margine di accrescimento bianco.",
+        hymenium: "La parte inferiore ha pori piccoli e rotondi, circa 3–4 per mm, bianco crema fino a giallo ocra, che imbruniscono al tocco. Gli strati annuali di tubuli si distinguono a fatica.",
+        stipe: "Il gambo manca; il carpoforo è attaccato al legno con un’ampia base.",
+        flesh: "La carne è biancastra o color legno, suberosa e tenace da fresca, legnosa da secca. L’odore è fortemente fungino.",
+        sporePrint: "La sporata è bianca. Le spore sono largamente ellissoidi o rotonde, finemente verrucose, circa 4–7 × 3–5 µm.",
+        habitat: "Vive come parassita e decompositore alla base dei tronchi, sulle radici e sulle ceppaie di conifere, soprattutto abete rosso e pino, talvolta di latifoglie. Le spore infettano le ceppaie fresche e il fungo si diffonde agli alberi vicini attraverso i contatti radicali. I carpofori si trovano tutto l’anno. È presente in tutto l’emisfero boreale.",
+        uses: "Non è commestibile perché la carne è legnosa. I forestali proteggono le ceppaie fresche trattandole con spore del fungo concorrente Phlebiopsis gigantea.",
+        confusion: "Neoantrodia serialis è più chiara e giallastra, priva di crosta, e provoca una carie bruna cubica. Heterobasidion parviporum, soprattutto su abete rosso, e Heterobasidion abietinum, soprattutto su abete bianco, sono quasi identici e si distinguono soprattutto per l’ospite e la grandezza dei pori.",
+        notes: "Elias Magnus Fries lo descrisse nel 1821 come Polyporus annosus. Robert Hartig dimostrò nel 1874 che provoca il marciume radicale delle conifere, e Oscar Brefeld lo trasferì in Heterobasidion nel 1888. L’epiteto annosum significa di molti anni, per i carpofori longevi."
+      },
+      ja: {
+        description: "針葉樹の幹の根元、切り株、地表に出た根に低く生える、硬く多年生の棚状のきのこで、しばしば落ち葉に半ば埋もれている。上面はこぶ状で褐色、成長中の縁は白く、下面は白色で微細な孔がある。針葉樹に深刻な根腐れと根株腐朽を起こし、食用にならない。",
+        cap: "子実体は幅5–15 cm、張り出し1–8 cm、厚さ1–2 cmで、縁は鋭く、しばしば列状または段状に癒合し、ときに材上に背着して広がる。上面はこぶ状でしわがあり、初め細かいフェルト状、のち無毛となり、薄い暗色の殻皮がある。灰色、赤みを帯びた色から暗褐色で、成長中の縁は白い。",
+        hymenium: "下面には小さな円形の孔が1 mmあたり約3–4個あり、クリーム白色から黄土黄色で、触れると褐変する。毎年の管孔層は見分けにくい。",
+        stipe: "柄はなく、子実体は広い基部で材に付着する。",
+        flesh: "肉は白っぽいから材色で、生ではコルク質で強靭、乾くと木質になる。強いきのこ臭がある。",
+        sporePrint: "胞子紋は白色。胞子は広楕円形から球形で、微細ないぼがあり、約4–7 × 3–5 µm。",
+        habitat: "針葉樹、とくにトウヒ類とマツ類の幹の根元、根、切り株に寄生菌かつ分解菌として生え、ときに広葉樹にも生える。胞子が新しい切り株に感染し、菌は根の接触を通じて隣の木へ広がる。子実体は一年中見られる。北半球全域に分布する。",
+        uses: "肉が木質なので食用にならない。林業では、新しい切り株に競合菌Phlebiopsis giganteaの胞子を処理して感染を防ぐ。",
+        confusion: "Neoantrodia serialisは色が淡く黄色みがあり、殻皮がなく、褐色の立方状腐朽を起こす。主にトウヒに生えるHeterobasidion parviporumと、主にモミに生えるHeterobasidion abietinumはほとんど同じ姿で、主に宿主と孔の大きさで区別される。",
+        notes: "エリアス・マグヌス・フリースが1821年にPolyporus annosusとして記載した。ロベルト・ハルティヒは1874年にこれが針葉樹の根腐れの原因であることを示し、オスカー・ブレフェルトが1888年にHeterobasidion属に移した。種小名annosumは「多年の」を意味し、長寿の子実体にちなむ。"
+      },
+      ko: {
+        description: "침엽수 줄기 밑동, 그루터기, 드러난 뿌리에 낮게 자라는 질기고 여러해살이인 선반 모양 버섯으로, 흔히 낙엽층에 반쯤 묻혀 있다. 울퉁불퉁한 윗면은 갈색이고 자라는 가장자리는 흰색이며, 아랫면은 흰색으로 아주 작은 구멍이 있다. 침엽수에 심한 뿌리썩음과 밑동썩음을 일으키며 먹을 수 없다.",
+        cap: "자실체는 너비 5–15 cm, 돌출 1–8 cm, 두께 1–2 cm이고 가장자리가 날카로우며, 흔히 줄지어 또는 층층이 붙어 자라고 때로는 나무 위에 납작하게 퍼진다. 윗면은 혹이 많고 주름지며 처음에는 미세한 펠트 모양이다가 나중에 매끈해지고, 얇고 어두운 껍질이 있다. 회색, 붉은빛에서 짙은 갈색이며 자라는 가장자리는 흰색이다.",
+        hymenium: "아랫면에는 작고 둥근 구멍이 1 mm에 약 3–4개 있으며, 크림빛 흰색에서 황토빛 노란색이고 누르면 갈색으로 변한다. 해마다 생기는 관공층은 잘 구분되지 않는다.",
+        stipe: "대가 없으며, 자실체는 넓은 밑부분으로 나무에 붙는다.",
+        flesh: "살은 흰빛에서 나무색이며, 신선할 때는 코르크질로 질기고 마르면 목질이 된다. 버섯 냄새가 강하다.",
+        sporePrint: "포자문은 흰색이다. 포자는 넓은 타원형에서 구형이고 미세한 사마귀가 있으며 약 4–7 × 3–5 µm이다.",
+        habitat: "침엽수, 주로 가문비나무와 소나무의 줄기 밑동, 뿌리, 그루터기에 기생균이자 분해균으로 살며 때로는 활엽수에도 난다. 포자가 갓 베어 낸 그루터기를 감염시키고, 균은 뿌리 접촉을 통해 이웃 나무로 퍼진다. 자실체는 일 년 내내 볼 수 있다. 북반구 전역에 분포한다.",
+        uses: "살이 목질이라 먹을 수 없다. 산림 관리자들은 경쟁 균인 Phlebiopsis gigantea의 포자로 갓 베어 낸 그루터기를 처리해 감염을 막는다.",
+        confusion: "Neoantrodia serialis는 더 연하고 노르스름하며 껍질이 없고 갈색 입방상 부후를 일으킨다. 주로 가문비나무에 나는 Heterobasidion parviporum과 주로 전나무에 나는 Heterobasidion abietinum은 거의 똑같아 보이며 주로 기주와 구멍 크기로 구별한다.",
+        notes: "엘리아스 마그누스 프리스가 1821년 Polyporus annosus로 기재했다. 로베르트 하르티히는 1874년 이 균이 침엽수 뿌리썩음의 원인임을 밝혔고, 오스카 브레펠트가 1888년 Heterobasidion 속으로 옮겼다. 종소명 annosum은 여러 해 묵은이라는 뜻으로, 오래 사는 자실체에서 왔다."
+      },
+      lv: {
+        description: "Stingra, daudzgadīga piepe, kas aug zemu uz skujkoku stumbriem, uz celmiem un atsegtām saknēm, bieži pa pusei paslēpta nobirās. Pauguraino virspusi klāj brūna krāsa ar baltu augšanas malu, bet apakšpuse ir balta ar sīkām porām. Tā izraisa smagu skujkoku sakņu un stumbra pamatnes trupi un nav ēdama.",
+        cap: "Augļķermeņi ir 5–15 cm plati, 1–8 cm dziļi un 1–2 cm biezi, ar asu malu, bieži saauguši rindās vai stāvos un dažkārt izpletušies uz koksnes. Virsma ir paugurota un grumbaina, sākumā smalki filcaina, vēlāk kaila, ar plānu tumšu garozu; pelēcīga, iesārta līdz tumši brūna, ar baltu augšanas malu.",
+        hymenium: "Apakšpusē ir sīkas, apaļas poras, apmēram 3–4 uz mm, krēmbaltas līdz okerdzeltenas, piespiežot brūnē. Ikgadējie stobriņu slāņi ir grūti saskatāmi.",
+        stipe: "Kātiņa nav; augļķermenis ar platu pamatni piestiprināts pie koksnes.",
+        flesh: "Mīkstums ir bālgans līdz koksnes krāsā, svaigs korķains un stingrs, sauss kokains. Smarža ir spēcīgi sēņaina.",
+        sporePrint: "Sporu pulveris ir balts. Sporas ir plati elipsoīdas līdz apaļas, smalki kārpainas, apmēram 4–7 × 3–5 µm.",
+        habitat: "Tā dzīvo kā parazīts un noārdītājs skujkoku, galvenokārt egles un priedes, stumbru pamatnē, uz saknēm un celmiem, dažkārt arī uz lapu kokiem. Sporas inficē svaigus celmus, un sēne caur sakņu kontaktiem izplatās uz kaimiņu kokiem. Augļķermeņus var atrast visu gadu. Sastopama visā ziemeļu puslodē.",
+        uses: "Tā nav ēdama, jo mīkstums ir kokains. Mežkopji apstrādā svaigus celmus ar konkurējošās sēnes Phlebiopsis gigantea sporām, lai novērstu inficēšanos.",
+        confusion: "Neoantrodia serialis ir gaišāka un iedzeltena, tai nav garozas, un tā izraisa brūno kubisko trupi. Heterobasidion parviporum, galvenokārt uz eglēm, un Heterobasidion abietinum, galvenokārt uz baltegles, izskatās gandrīz vienādi, un tās atšķir galvenokārt pēc saimniekauga un poru lieluma.",
+        notes: "Eliass Magnuss Friss to aprakstīja 1821. gadā kā Polyporus annosus. Roberts Hartigs 1874. gadā parādīja, ka tā izraisa skujkoku sakņu trupi, un Oskars Brefelds 1888. gadā to pārcēla uz ģinti Heterobasidion. Epitets annosum nozīmē daudzgadīgs, pēc ilgi dzīvojošajiem augļķermeņiem. Latvijā 2009. gadā bija gada sēne."
+      },
+      lt: {
+        description: "Kieta, daugiametė kempinė, auganti žemai ant spygliuočių kamienų, ant kelmų ir atidengtų šaknų, dažnai iki pusės paslėpta paklotėje. Gumbuotas viršutinis paviršius rudas, su baltu augančiu kraštu, o apatinė pusė balta, su smulkiomis poromis. Ji sukelia sunkų spygliuočių šaknų ir kamieno pagrindo puvinį ir yra nevalgoma.",
+        cap: "Vaisiakūniai 5–15 cm pločio, 1–8 cm gylio ir 1–2 cm storio, aštriu kraštu, dažnai suaugę eilėmis ar aukštais, kartais paplitę ant medienos. Paviršius gumbuotas ir raukšlėtas, iš pradžių smulkiai veltiniškas, vėliau plikas, su plona tamsia pluta; pilkšvas, rausvas iki tamsiai rudo, su baltu augančiu kraštu.",
+        hymenium: "Apačioje yra smulkios apvalios poros, apie 3–4 viename mm, kreminės baltos iki ochriškai geltonų, paspaudus paruduoja. Kasmetiniai vamzdelių sluoksniai sunkiai įžiūrimi.",
+        stipe: "Koto nėra; vaisiakūnis plačiu pagrindu prisitvirtinęs prie medienos.",
+        flesh: "Trama balsva iki medienos spalvos, šviežia kamštinė ir kieta, sausa sumedėjusi. Kvapas stiprus, grybo.",
+        sporePrint: "Sporų milteliai balti. Sporos plačiai elipsoidinės iki apvalių, smulkiai karpuotos, apie 4–7 × 3–5 µm.",
+        habitat: "Gyvena kaip parazitas ir skaidytojas spygliuočių, daugiausia eglių ir pušų, kamienų pagrinde, ant šaknų ir kelmų, kartais ir ant lapuočių. Sporos užkrečia šviežius kelmus, o grybas per šaknų sąlytį plinta į kaimyninius medžius. Vaisiakūnių galima rasti ištisus metus. Paplitusi visame šiauriniame pusrutulyje.",
+        uses: "Ji nevalgoma, nes trama sumedėjusi. Miškininkai šviežius kelmus apsaugo apdorodami juos konkuruojančio grybo Phlebiopsis gigantea sporomis.",
+        confusion: "Neoantrodia serialis šviesesnė ir gelsva, be plutos, ir sukelia rudąjį kubinį puvinį. Heterobasidion parviporum, daugiausia ant eglių, ir Heterobasidion abietinum, daugiausia ant kėnių, atrodo beveik vienodai ir skiriamos daugiausia pagal medį šeimininką ir porų dydį.",
+        notes: "Eliasas Magnusas Frisas ją aprašė 1821 m. kaip Polyporus annosus. Robertas Hartigas 1874 m. parodė, kad ji sukelia spygliuočių šaknų puvinį, o Oskaras Brefeldas 1888 m. perkėlė ją į Heterobasidion gentį. Epitetas annosum reiškia daugiametis, pagal ilgaamžius vaisiakūnius."
+      },
+      no: {
+        description: "En seig, flerårig kjuke som vokser lavt på stammer av bartrær, på stubber og på blottlagte røtter, ofte halvt skjult i strøet. Den knollete oversiden er brun med hvit tilvekstkant, og undersiden er hvit med små porer. Den gir alvorlig rot- og stammeråte hos bartrær og er ikke spiselig.",
+        cap: "Fruktlegemene er 5–15 cm brede, 1–8 cm dype og 1–2 cm tykke, med skarp kant, ofte sammenvokste i rader eller etasjer og noen ganger flatt utbredt på veden. Oversiden er knollete og rynkete, først fint filtet, senere glatt, med en tynn mørk skorpe; gråaktig, rødlig til mørkebrun, med hvit tilvekstkant.",
+        hymenium: "Undersiden har små, runde porer, omtrent 3–4 per mm, kremhvite til okergule, som blir brune ved trykk. De årlige rørlagene er vanskelige å se.",
+        stipe: "Den har ingen stilk; fruktlegemet sitter bredt fast på veden.",
+        flesh: "Kjøttet er hvitaktig til trefarget, korkaktig og seigt når det er friskt og treaktig når det er tørt. Lukten er kraftig soppaktig.",
+        sporePrint: "Sporepulveret er hvitt. Sporene er bredt ellipsoide til runde, fint vortete, omtrent 4–7 × 3–5 µm.",
+        habitat: "Den lever som parasitt og nedbryter ved stammebasis, på røtter og stubber av bartrær, særlig gran og furu, og noen ganger av løvtrær. Sporene infiserer ferske stubber, og soppen sprer seg til nabotrær gjennom rotkontakt. Fruktlegemer kan finnes hele året. Den forekommer på hele den nordlige halvkule.",
+        uses: "Den er ikke spiselig fordi kjøttet er treaktig. Skogbrukere behandler ferske stubber med sporer av den konkurrerende soppen Phlebiopsis gigantea for å hindre smitte.",
+        confusion: "Neoantrodia serialis er lysere og gulaktig, har ingen skorpe og gir brunråte. Heterobasidion parviporum, mest på gran, og Heterobasidion abietinum, mest på edelgran, ser nesten like ut og skilles mest på vertstre og porestørrelse.",
+        notes: "Elias Magnus Fries beskrev den i 1821 som Polyporus annosus. Robert Hartig viste i 1874 at den gir rotråte hos bartrær, og Oscar Brefeld flyttet den til Heterobasidion i 1888. Artsnavnet annosum betyr mangeårig, etter de langlivede fruktlegemene."
+      },
+      fa: {
+        description: "قارچی طاقچه‌ای، سخت و چندساله که پایین تنهٔ درختان سوزنی‌برگ، روی کنده‌ها و ریشه‌های بیرون‌زده می‌روید و اغلب نیمه‌پنهان در لاشبرگ است. سطح بالایی برآمده‌اش قهوه‌ای با حاشیهٔ رویشی سفید است و سطح زیرین سفید با منفذهای بسیار ریز. این قارچ پوسیدگی شدید ریشه و پای تنه را در سوزنی‌برگان ایجاد می‌کند و خوراکی نیست.",
+        cap: "اندام‌های بارده ۵–۱۵ سانتی‌متر پهنا، ۱–۸ سانتی‌متر عمق و ۱–۲ سانتی‌متر ضخامت دارند، لبه‌شان تیز است، اغلب در ردیف‌ها یا طبقه‌ها به هم جوش می‌خورند و گاهی روی چوب پهن می‌شوند. سطح بالایی برآمده و چین‌دار است، نخست نمدی ریز و سپس صاف، با پوستهٔ نازک تیره؛ خاکستری، مایل به سرخ تا قهوه‌ای تیره، با حاشیهٔ رویشی سفید.",
+        hymenium: "سطح زیرین منفذهای کوچک و گرد دارد، حدود ۳–۴ در هر میلی‌متر، سفید کرم تا زرد اُخرایی، که با فشار قهوه‌ای می‌شوند. لایه‌های سالانهٔ لوله‌ها به‌سختی دیده می‌شوند.",
+        stipe: "پایه ندارد؛ اندام بارده با قاعده‌ای پهن به چوب چسبیده است.",
+        flesh: "گوشت سفیدفام تا به رنگ چوب است، در حالت تازه چوب‌پنبه‌ای و سخت و در حالت خشک چوبی. بوی قارچی قوی دارد.",
+        sporePrint: "اثر هاگ سفید است. هاگ‌ها بیضوی پهن تا گرد، با زگیل‌های ریز، حدود ۴–۷ × ۳–۵ میکرومتر هستند.",
+        habitat: "به‌صورت انگل و تجزیه‌کننده در پای تنه، روی ریشه‌ها و کنده‌های سوزنی‌برگان، به‌ویژه نوئل و کاج، و گاهی درختان پهن‌برگ زندگی می‌کند. هاگ‌ها کنده‌های تازه را آلوده می‌کنند و قارچ از راه تماس ریشه‌ها به درختان همسایه گسترش می‌یابد. اندام‌های بارده در تمام سال یافت می‌شوند. در سراسر نیمکرهٔ شمالی پراکنده است.",
+        uses: "خوراکی نیست، زیرا گوشتش چوبی است. جنگلبانان کنده‌های تازه را با هاگ‌های قارچ رقیب Phlebiopsis gigantea تیمار می‌کنند تا از آلودگی جلوگیری شود.",
+        confusion: "Neoantrodia serialis روشن‌تر و مایل به زرد است، پوسته ندارد و پوسیدگی قهوه‌ای مکعبی ایجاد می‌کند. Heterobasidion parviporum، بیشتر روی نوئل، و Heterobasidion abietinum، بیشتر روی شیردار، تقریباً یکسان به نظر می‌رسند و بیشتر با درخت میزبان و اندازهٔ منفذها از هم جدا می‌شوند.",
+        notes: "الیاس ماگنوس فریس آن را در ۱۸۲۱ با نام Polyporus annosus توصیف کرد. روبرت هارتیگ در ۱۸۷۴ نشان داد که این قارچ عامل پوسیدگی ریشهٔ سوزنی‌برگان است، و اسکار برفلد در ۱۸۸۸ آن را به سردهٔ Heterobasidion منتقل کرد. صفت annosum به معنای چندساله است و به اندام‌های بارده دیرزی آن اشاره دارد."
+      },
+      pl: {
+        description: "Twardy, wieloletni grzyb nadrzewny o owocnikach w kształcie konsol, rosnący nisko na pniach drzew iglastych, na pniakach i odsłoniętych korzeniach, często do połowy ukryty w ściółce. Guzowata górna powierzchnia jest brązowa z białym brzegiem przyrostowym, a spód biały z drobnymi porami. Powoduje groźną zgniliznę korzeni i odziomka drzew iglastych i jest niejadalny.",
+        cap: "Owocniki mają 5–15 cm szerokości, 1–8 cm głębokości i 1–2 cm grubości, ostry brzeg, często zrastają się w rzędy lub piętra, a czasem rozpościerają się płasko na drewnie. Powierzchnia jest guzowata i pomarszczona, najpierw delikatnie filcowata, potem naga, z cienką ciemną skorupką; szarawa, czerwonawa do ciemnobrązowej, z białym brzegiem przyrostowym.",
+        hymenium: "Na spodzie są drobne, okrągławe pory, około 3–4 na mm, białokremowe do ochrowożółtych, brązowiejące po uciśnięciu. Coroczne warstwy rurek są słabo widoczne.",
+        stipe: "Trzonu brak; owocnik przyrasta do drewna szeroką podstawą.",
+        flesh: "Miąższ jest białawy do barwy jasnego drewna, na świeżo korkowaty i łykowaty, po wyschnięciu zdrewniały. Zapach jest silnie grzybowy.",
+        sporePrint: "Wysyp zarodników jest biały. Zarodniki są szeroko elipsoidalne do okrągławych, drobno brodawkowane, około 4–7 × 3–5 µm.",
+        habitat: "Żyje jako pasożyt i rozkładca u nasady pni, na korzeniach i pniakach drzew iglastych, głównie świerka i sosny, czasem także liściastych. Zarodniki zakażają świeże pniaki, a grzyb przenosi się na sąsiednie drzewa przez styki korzeni. Owocniki można znaleźć przez cały rok. Występuje na całej półkuli północnej.",
+        uses: "Jest niejadalny, ponieważ miąższ jest zdrewniały. Leśnicy smarują świeże pniaki zarodnikami konkurencyjnego grzyba Phlebiopsis gigantea, aby zapobiec zakażeniu.",
+        confusion: "Neoantrodia serialis jest jaśniejsza i żółtawa, nie ma skorupki i powoduje brunatną zgniliznę kostkową. Heterobasidion parviporum, głównie na świerku, i Heterobasidion abietinum, głównie na jodle, wyglądają niemal tak samo i odróżnia się je głównie po żywicielu i wielkości porów.",
+        notes: "Elias Magnus Fries opisał go w 1821 roku jako Polyporus annosus. Robert Hartig wykazał w 1874 roku, że powoduje zgniliznę korzeni drzew iglastych, a Oscar Brefeld przeniósł go w 1888 roku do rodzaju Heterobasidion. Epitet annosum oznacza wieloletni, od długowiecznych owocników."
+      },
+      pt: {
+        description: "Um poliporo duro e perene que cresce baixo nos troncos de coníferas, em cepos e em raízes expostas, muitas vezes meio escondido na manta morta. A face superior irregular e nodosa é castanha, com uma margem de crescimento branca, e a face inferior é branca, com poros minúsculos. Causa uma podridão grave das raízes e da base do tronco das coníferas e não é comestível.",
+        cap: "Os basidiomas têm 5–15 cm de largura, 1–8 cm de profundidade e 1–2 cm de espessura, margem aguda, e muitas vezes fundem-se em filas ou andares, por vezes estendendo-se planos sobre a madeira. A face superior é nodosa e enrugada, primeiro finamente feltrada, depois glabra, com uma crosta fina e escura; acinzentada, avermelhada a castanho-escura, com margem de crescimento branca.",
+        hymenium: "A face inferior tem poros pequenos e redondos, cerca de 3–4 por mm, branco-creme a amarelo-ocre, que acastanham ao toque. As camadas anuais de tubos são difíceis de ver.",
+        stipe: "Não tem pé; o basidioma prende-se à madeira por uma base larga.",
+        flesh: "A carne é esbranquiçada a cor de madeira, suberosa e rija quando fresca, lenhosa quando seca. O cheiro é fortemente fúngico.",
+        sporePrint: "A esporada é branca. Os esporos são largamente elipsoides a redondos, finamente verrugosos, com cerca de 4–7 × 3–5 µm.",
+        habitat: "Vive como parasita e decompositor na base dos troncos, nas raízes e nos cepos de coníferas, sobretudo espruce e pinheiro, e por vezes de folhosas. Os esporos infetam cepos frescos e o fungo passa às árvores vizinhas pelos contactos entre raízes. Os basidiomas encontram-se todo o ano. Ocorre em todo o hemisfério norte.",
+        uses: "Não é comestível, porque a carne é lenhosa. Os silvicultores protegem os cepos frescos tratando-os com esporos do fungo concorrente Phlebiopsis gigantea.",
+        confusion: "Neoantrodia serialis é mais pálida e amarelada, não tem crosta e causa uma podridão castanha cúbica. Heterobasidion parviporum, sobretudo em espruce, e Heterobasidion abietinum, sobretudo em abeto, são quase idênticos e distinguem-se sobretudo pelo hospedeiro e pelo tamanho dos poros.",
+        notes: "Elias Magnus Fries descreveu-o em 1821 como Polyporus annosus. Robert Hartig mostrou em 1874 que causa a podridão das raízes das coníferas, e Oscar Brefeld transferiu-o para Heterobasidion em 1888. O epíteto annosum significa de muitos anos, devido aos basidiomas de vida longa."
+      },
+      ro: {
+        description: "O ciupercă poliporă tare și perenă, care crește jos pe trunchiurile coniferelor, pe cioate și pe rădăcinile dezgolite, adesea pe jumătate ascunsă în litieră. Fața superioară noduroasă este brună, cu o margine de creștere albă, iar fața inferioară este albă, cu pori minusculi. Provoacă o putrezire gravă a rădăcinilor și a bazei trunchiului la conifere și nu este comestibilă.",
+        cap: "Corpurile fructifere au 5–15 cm lățime, 1–8 cm adâncime și 1–2 cm grosime, cu margine ascuțită, adesea concrescute în șiruri sau etaje și uneori întinse plat pe lemn. Fața superioară este noduroasă și zbârcită, la început fin pâsloasă, apoi glabră, cu o crustă subțire închisă la culoare; cenușie, roșiatică până la brun-închis, cu margine de creștere albă.",
+        hymenium: "Fața inferioară are pori mici și rotunzi, cam 3–4 pe mm, alb-crem până la galben-ocru, care se brunifică la atingere. Straturile anuale de tuburi se disting greu.",
+        stipe: "Piciorul lipsește; corpul fructifer este prins de lemn printr-o bază largă.",
+        flesh: "Carnea este albicioasă până la culoarea lemnului, suberoasă și tenace când e proaspătă, lemnoasă când e uscată. Mirosul este puternic fungic.",
+        sporePrint: "Sporii în masă sunt albi. Sporii sunt larg elipsoidali până la rotunzi, fin verucoși, de circa 4–7 × 3–5 µm.",
+        habitat: "Trăiește ca parazit și descompunător la baza trunchiurilor, pe rădăcinile și cioatele coniferelor, mai ales molid și pin, uneori și ale foioaselor. Sporii infectează cioatele proaspete, iar ciuperca trece la arborii vecini prin contactele dintre rădăcini. Corpurile fructifere se găsesc tot anul. Este răspândită în toată emisfera nordică.",
+        uses: "Nu este comestibilă, deoarece carnea este lemnoasă. Silvicultorii protejează cioatele proaspete tratându-le cu spori ai ciupercii concurente Phlebiopsis gigantea.",
+        confusion: "Neoantrodia serialis este mai deschisă și gălbuie, nu are crustă și provoacă putregai brun cubic. Heterobasidion parviporum, mai ales pe molid, și Heterobasidion abietinum, mai ales pe brad, arată aproape la fel și se deosebesc mai ales după gazdă și mărimea porilor.",
+        notes: "Elias Magnus Fries a descris-o în 1821 ca Polyporus annosus. Robert Hartig a arătat în 1874 că provoacă putrezirea rădăcinilor la conifere, iar Oscar Brefeld a mutat-o în genul Heterobasidion în 1888. Epitetul annosum înseamnă de mulți ani, după corpurile fructifere longevive."
+      },
+      ru: {
+        description: "Жёсткий многолетний трутовик, растущий низко на стволах хвойных деревьев, на пнях и обнажённых корнях, часто наполовину скрытый в подстилке. Бугристая верхняя поверхность бурая, с белым нарастающим краем, а нижняя сторона белая, с мелкими порами. Вызывает тяжёлую гниль корней и комля хвойных и несъедобен.",
+        cap: "Плодовые тела 5–15 см шириной, 1–8 см вглубь и 1–2 см толщиной, с острым краем, часто срастаются рядами или черепитчато, иногда распростёрты по древесине. Верхняя поверхность бугристая и морщинистая, сначала тонковойлочная, затем голая, с тонкой тёмной коркой; сероватая, красноватая до тёмно-бурой, с белым нарастающим краем.",
+        hymenium: "Снизу мелкие округлые поры, около 3–4 на мм, кремово-белые до охристо-жёлтых, при надавливании буреют. Ежегодные слои трубочек различаются плохо.",
+        stipe: "Ножки нет; плодовое тело прикреплено к древесине широким основанием.",
+        flesh: "Мякоть беловатая до цвета древесины, в свежем виде пробковая и жёсткая, в сухом деревянистая. Запах сильный грибной.",
+        sporePrint: "Споровый порошок белый. Споры широкоэллипсоидные до шаровидных, мелкобородавчатые, около 4–7 × 3–5 мкм.",
+        habitat: "Живёт как паразит и разрушитель древесины у основания стволов, на корнях и пнях хвойных, главным образом ели и сосны, иногда и лиственных деревьев. Споры заражают свежие пни, а гриб переходит на соседние деревья через контакты корней. Плодовые тела можно найти круглый год. Распространён по всему Северному полушарию.",
+        uses: "Несъедобен, так как мякоть деревянистая. Лесоводы защищают свежие пни, обрабатывая их спорами конкурирующего гриба Phlebiopsis gigantea.",
+        confusion: "Neoantrodia serialis светлее и желтоватая, без корки и вызывает бурую призматическую гниль. Heterobasidion parviporum, преимущественно на ели, и Heterobasidion abietinum, преимущественно на пихте, выглядят почти одинаково и различаются в основном по дереву-хозяину и размеру пор.",
+        notes: "Элиас Магнус Фрис описал его в 1821 году как Polyporus annosus. Роберт Гартиг показал в 1874 году, что он вызывает корневую гниль хвойных, а Оскар Брефельд перенёс его в род Heterobasidion в 1888 году. Эпитет annosum означает многолетний, по долгоживущим плодовым телам."
+      },
+      sr: {
+        description: "Жилава, вишегодишња гљива у облику конзоле која расте ниско на стаблима четинара, на пањевима и на огољеном корењу, често напола скривена у стељи. Квргава горња површина је смеђа са белим ободом раста, а доња страна бела са ситним порама. Изазива озбиљну трулеж корена и прикорења четинара и није јестива.",
+        cap: "Плодишта су широка 5–15 cm, дубока 1–8 cm и дебела 1–2 cm, оштрог руба, често срасла у редове или спратове, понекад разливена по дрвету. Горња површина је квргава и наборана, најпре фино пустенаста, затим гола, са танком тамном кором; сивкаста, црвенкаста до тамносмеђа, са белим ободом раста.",
+        hymenium: "На доњој страни су ситне округле поре, око 3–4 на mm, крем-беле до окержуте, на притисак посмеђе. Годишњи слојеви цевчица тешко се разазнају.",
+        stipe: "Дршке нема; плодиште је широком основом срасло уз дрво.",
+        flesh: "Месо је беличасто до боје дрвета, свеже плутасто и жилаво, суво дрвенасто. Мирис је снажно гљиваст.",
+        sporePrint: "Отисак спора је бео. Споре су широко елипсоидне до округле, фино брадавичасте, око 4–7 × 3–5 µm.",
+        habitat: "Живи као паразит и разлагач у прикорењу стабала, на корењу и пањевима четинара, пре свега смрче и бора, а понекад и лишћара. Споре заразе свеже пањеве, а гљива се преко додира корења шири на суседна стабла. Плодишта се могу наћи током целе године. Распрострањена је на целој северној хемисфери.",
+        uses: "Није јестива јер је месо дрвенасто. Шумари штите свеже пањеве третирајући их спорама конкурентске гљиве Phlebiopsis gigantea.",
+        confusion: "Neoantrodia serialis је светлија и жућкаста, без коре, и изазива мрку коцкасту трулеж. Heterobasidion parviporum, углавном на смрчи, и Heterobasidion abietinum, углавном на јели, изгледају готово исто и разликују се пре свега по домаћину и величини пора.",
+        notes: "Елијас Магнус Фрис ју је описао 1821. као Polyporus annosus. Роберт Хартиг је 1874. показао да изазива трулеж корена четинара, а Оскар Брефелд ју је 1888. преместио у род Heterobasidion. Епитет annosum значи вишегодишњи, према дуговечним плодиштима."
+      },
+      sl: {
+        description: "Žilava, večletna lesna goba v obliki konzole, ki raste nizko na deblih iglavcev, na štorih in na razgaljenih koreninah, pogosto napol skrita v opadu. Grbinasta zgornja površina je rjava z belim robom rasti, spodnja stran pa bela z drobnimi porami. Povzroča hudo trohnobo korenin in spodnjega dela debla iglavcev in ni užitna.",
+        cap: "Trosnjaki so široki 5–15 cm, globoki 1–8 cm in debeli 1–2 cm, z ostrim robom, pogosto zrasli v vrste ali nadstropja in včasih razliti po lesu. Zgornja površina je grbinasta in nagubana, najprej drobno polstena, nato gola, s tanko temno skorjo; sivkasta, rdečkasta do temno rjava, z belim robom rasti.",
+        hymenium: "Na spodnji strani so drobne okrogle pore, približno 3–4 na mm, smetanasto bele do okrasto rumene, ob pritisku porjavijo. Letne plasti cevk se slabo razločijo.",
+        stipe: "Beta nima; trosnjak je s široko osnovo prirasel na les.",
+        flesh: "Meso je belkasto do lesne barve, sveže plutasto in žilavo, suho olesenelo. Vonj je močno gobji.",
+        sporePrint: "Trosni prah je bel. Trosi so široko elipsoidni do okrogli, drobno bradavičasti, približno 4–7 × 3–5 µm.",
+        habitat: "Živi kot zajedavec in razkrojevalec na spodnjem delu debel, na koreninah in štorih iglavcev, predvsem smreke in bora, včasih tudi listavcev. Trosi okužijo sveže štore, goba pa se prek stikov korenin širi na sosednja drevesa. Trosnjake lahko najdemo vse leto. Razširjena je po vsej severni polobli.",
+        uses: "Ni užitna, ker je meso olesenelo. Gozdarji varujejo sveže štore tako, da jih premažejo s trosi tekmovalne glive Phlebiopsis gigantea.",
+        confusion: "Neoantrodia serialis je svetlejša in rumenkasta, nima skorje in povzroča rjavo kockasto trohnobo. Heterobasidion parviporum, predvsem na smreki, in Heterobasidion abietinum, predvsem na jelki, sta si skoraj enaka in se ločita predvsem po gostitelju in velikosti por.",
+        notes: "Elias Magnus Fries jo je leta 1821 opisal kot Polyporus annosus. Robert Hartig je leta 1874 pokazal, da povzroča trohnobo korenin iglavcev, Oscar Brefeld pa jo je leta 1888 prestavil v rod Heterobasidion. Vrstni pridevek annosum pomeni večleten, po dolgoživih trosnjakih."
+      },
+      es: {
+        description: "Un políporo duro y perenne que crece bajo en los troncos de coníferas, en tocones y en raíces expuestas, a menudo medio escondido en la hojarasca. La cara superior, abollada, es parda con un margen de crecimiento blanco, y la inferior es blanca con poros diminutos. Causa una grave pudrición de las raíces y de la base del tronco de las coníferas y no es comestible.",
+        cap: "Los basidiomas miden 5–15 cm de ancho, 1–8 cm de fondo y 1–2 cm de grosor, con el margen agudo; a menudo se sueldan en filas o pisos y a veces se extienden planos sobre la madera. La cara superior es abollada y arrugada, primero finamente afieltrada y luego glabra, con una costra fina y oscura; grisácea, rojiza a pardo oscura, con margen de crecimiento blanco.",
+        hymenium: "La cara inferior tiene poros pequeños y redondos, unos 3–4 por mm, blanco crema a amarillo ocre, que pardean al roce. Las capas anuales de tubos apenas se distinguen.",
+        stipe: "No tiene pie; el basidioma se une a la madera por una base ancha.",
+        flesh: "La carne es blanquecina a color madera, suberosa y tenaz en fresco y leñosa en seco. El olor es fuertemente fúngico.",
+        sporePrint: "La esporada es blanca. Las esporas son anchamente elipsoides a redondas, finamente verrugosas, de unos 4–7 × 3–5 µm.",
+        habitat: "Vive como parásito y descomponedor en la base de los troncos, en raíces y tocones de coníferas, sobre todo pícea y pino, y a veces de frondosas. Las esporas infectan los tocones frescos y el hongo pasa a los árboles vecinos por los contactos entre raíces. Los basidiomas se encuentran todo el año. Está presente en todo el hemisferio norte.",
+        uses: "No es comestible porque la carne es leñosa. Los forestales protegen los tocones frescos tratándolos con esporas del hongo competidor Phlebiopsis gigantea.",
+        confusion: "Neoantrodia serialis es más pálida y amarillenta, no tiene costra y causa una pudrición parda cúbica. Heterobasidion parviporum, sobre todo en pícea, y Heterobasidion abietinum, sobre todo en abeto, son casi idénticos y se distinguen sobre todo por el hospedante y el tamaño de los poros.",
+        notes: "Elias Magnus Fries lo describió en 1821 como Polyporus annosus. Robert Hartig demostró en 1874 que causa la pudrición radical de las coníferas, y Oscar Brefeld lo trasladó a Heterobasidion en 1888. El epíteto annosum significa de muchos años, por sus basidiomas longevos."
+      },
+      sv: {
+        description: "En seg, flerårig tickasvamp som växer lågt på barrträdsstammar, på stubbar och på blottade rötter, ofta halvt dold i förnan. Den knöliga ovansidan är brun med vit tillväxtkant, och undersidan är vit med små porer. Den orsakar svår rotröta och stamröta hos barrträd och är inte ätlig.",
+        cap: "Fruktkropparna är 5–15 cm breda, 1–8 cm djupa och 1–2 cm tjocka, med skarp kant, ofta sammanvuxna i rader eller våningar och ibland utbredda på veden. Ovansidan är knölig och rynkig, först fint filtad, senare kal, med en tunn mörk skorpa; gråaktig, rödaktig till mörkbrun, med vit tillväxtkant.",
+        hymenium: "Undersidan har små, runda porer, ungefär 3–4 per mm, krämvita till ockragula, som brunnar vid tryck. De årliga rörlagren är svåra att se.",
+        stipe: "Fot saknas; fruktkroppen sitter brett fast på veden.",
+        flesh: "Köttet är vitaktigt till träfärgat, korkartat och segt i färskt tillstånd och träigt när det är torrt. Lukten är kraftigt svampaktig.",
+        sporePrint: "Sporpulvret är vitt. Sporerna är brett ellipsoida till runda, fint vårtiga, ungefär 4–7 × 3–5 µm.",
+        habitat: "Den lever som parasit och nedbrytare vid stambasen, på rötter och stubbar av barrträd, främst gran och tall, och ibland av lövträd. Sporerna infekterar färska stubbar, och svampen sprids till grannträd genom rotkontakter. Fruktkroppar kan hittas året runt. Den förekommer på hela norra halvklotet.",
+        uses: "Den är inte ätlig eftersom köttet är träigt. Skogsbrukare skyddar färska stubbar genom att behandla dem med sporer av den konkurrerande svampen Phlebiopsis gigantea.",
+        confusion: "Neoantrodia serialis är ljusare och gulaktig, saknar skorpa och orsakar brunröta. Heterobasidion parviporum, främst på gran, och Heterobasidion abietinum, främst på ädelgran, ser nästan likadana ut och skiljs främst på värdträd och porstorlek.",
+        notes: "Elias Magnus Fries beskrev den 1821 som Polyporus annosus. Robert Hartig visade 1874 att den orsakar barrträdens rotröta, och Oscar Brefeld flyttade den till Heterobasidion 1888. Artepitetet annosum betyder mångårig, efter de långlivade fruktkropparna."
+      },
+      tr: {
+        description: "İğne yapraklı ağaçların gövde diplerinde, kütüklerde ve açıkta kalmış köklerde alçakta büyüyen, sert ve çok yıllık bir raf mantarıdır; çoğu zaman yarısı döküntü altında gizlidir. Yumrulu üst yüzü kahverengi, büyüyen kenarı beyazdır; alt yüzü beyaz ve çok küçük gözeneklidir. İğne yapraklılarda ağır kök ve gövde dibi çürüklüğüne yol açar ve yenmez.",
+        cap: "Meyve gövdeleri 5–15 cm genişliğinde, 1–8 cm derinliğinde ve 1–2 cm kalınlığındadır; kenarı keskindir, çoğu kez sıralar ya da katlar halinde kaynaşır ve bazen odun üzerine yassı yayılır. Üst yüz yumrulu ve buruşuk, önce ince keçemsi, sonra çıplak, ince koyu bir kabukludur; grimsi, kırmızımsı ile koyu kahverengi arası, beyaz büyüme kenarlıdır.",
+        hymenium: "Alt yüzde milimetrede yaklaşık 3–4 adet küçük, yuvarlak gözenek bulunur; krem beyaz ile aşı sarısı arasındadır ve bastırınca kahverengileşir. Yıllık tüp katmanları zor seçilir.",
+        stipe: "Sapı yoktur; meyve gövdesi oduna geniş bir tabanla tutunur.",
+        flesh: "Eti beyazımsı ile odun rengi arasındadır, tazeyken mantarımsı ve serttir, kuruyunca odunsulaşır. Kokusu güçlü mantar kokusudur.",
+        sporePrint: "Spor izi beyazdır. Sporlar geniş elipsoit ile yuvarlak arası, ince siğilli, yaklaşık 4–7 × 3–5 µm’dir.",
+        habitat: "İğne yapraklıların, özellikle ladin ve çamın gövde diplerinde, köklerinde ve kütüklerinde parazit ve ayrıştırıcı olarak yaşar; bazen geniş yapraklı ağaçlarda da görülür. Sporlar taze kütükleri enfekte eder ve mantar kök temaslarıyla komşu ağaçlara yayılır. Meyve gövdeleri yıl boyunca bulunabilir. Bütün Kuzey Yarımküre’de yayılış gösterir.",
+        uses: "Eti odunsu olduğu için yenmez. Ormancılar taze kütükleri rakip mantar Phlebiopsis gigantea’nın sporlarıyla işleyerek korur.",
+        confusion: "Neoantrodia serialis daha açık renkli ve sarımsıdır, kabuğu yoktur ve kahverengi küp çürüklüğü yapar. Çoğunlukla ladinde yetişen Heterobasidion parviporum ile çoğunlukla göknarda yetişen Heterobasidion abietinum neredeyse aynı görünür ve başlıca konak ağaç ile gözenek büyüklüğüne göre ayrılır.",
+        notes: "Elias Magnus Fries onu 1821’de Polyporus annosus adıyla tanımladı. Robert Hartig 1874’te bunun iğne yapraklıların kök çürüklüğüne yol açtığını gösterdi ve Oscar Brefeld onu 1888’de Heterobasidion cinsine aktardı. Annosum sıfatı çok yıllık anlamına gelir ve uzun ömürlü meyve gövdelerine işaret eder."
+      },
+      uk: {
+        description: "Жорсткий багаторічний трутовик, що росте низько на стовбурах хвойних дерев, на пнях і оголених коренях, часто наполовину схований у підстилці. Горбкувата верхня поверхня бура, з білим краєм наростання, а нижній бік білий, з дрібними порами. Спричиняє тяжку гниль коренів і комля хвойних і неїстівний.",
+        cap: "Плодові тіла 5–15 см завширшки, 1–8 см углиб і 1–2 см завтовшки, з гострим краєм, часто зростаються рядами чи черепитчасто, іноді розпростерті по деревині. Верхня поверхня горбкувата й зморшкувата, спершу тонкоповстиста, потім гола, з тонкою темною кіркою; сірувата, червонувата до темно-бурої, з білим краєм наростання.",
+        hymenium: "Знизу дрібні округлі пори, близько 3–4 на мм, кремово-білі до вохристо-жовтих, при натисканні буріють. Щорічні шари трубочок розрізняються погано.",
+        stipe: "Ніжки немає; плодове тіло прикріплене до деревини широкою основою.",
+        flesh: "М’якуш білуватий до кольору деревини, свіжий корковий і жорсткий, сухий дерев’янистий. Запах сильний грибний.",
+        sporePrint: "Спорова маса біла. Спори широкоеліпсоїдні до кулястих, дрібнобородавчасті, близько 4–7 × 3–5 мкм.",
+        habitat: "Живе як паразит і руйнівник деревини біля основи стовбурів, на коренях і пнях хвойних, переважно ялини та сосни, іноді й листяних дерев. Спори заражають свіжі пні, а гриб переходить на сусідні дерева через контакти коренів. Плодові тіла можна знайти цілий рік. Поширений по всій Північній півкулі.",
+        uses: "Неїстівний, бо м’якуш дерев’янистий. Лісівники захищають свіжі пні, обробляючи їх спорами конкурентного гриба Phlebiopsis gigantea.",
+        confusion: "Neoantrodia serialis світліша й жовтувата, без кірки і спричиняє буру призматичну гниль. Heterobasidion parviporum, переважно на ялині, і Heterobasidion abietinum, переважно на ялиці, виглядають майже однаково і розрізняються головно за деревом-господарем і розміром пор.",
+        notes: "Еліас Магнус Фріс описав його 1821 року як Polyporus annosus. Роберт Гартіг показав 1874 року, що він спричиняє кореневу гниль хвойних, а Оскар Брефельд переніс його до роду Heterobasidion 1888 року. Епітет annosum означає багаторічний, за довговічними плодовими тілами."
+      }
+    },
+    sources: {
+      en: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://en.wikipedia.org/wiki/Heterobasidion_annosum"
+        },
+        {
+          "group": "name",
+          "name": "Index Fungorum",
+          "href": "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=119859",
+          "detail": "119859"
+        },
+        {
+          "group": "name",
+          "name": "Species Fungorum",
+          "href": "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=119859",
+          "detail": "119859"
+        },
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (UKSI)",
+          "href": "https://api.gbif.org/v1/species/2551968/vernacularNames?limit=100",
+          "detail": "Root Fomes"
+        },
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (GBIF vernacular list)",
+          "href": "https://api.gbif.org/v1/species/2551968/vernacularNames?limit=100",
+          "detail": "Conifer-base Polypore"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551968",
+          "detail": "2551968"
+        }
+      ],
+      sk: [
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (Catalogue of Life)",
+          "href": "https://api.gbif.org/v1/species/2551968/vernacularNames?limit=100",
+          "detail": "koreňovka vrstevnatá"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551968",
+          "detail": "2551968"
+        }
+      ],
+      ar: [
+        {
+          "group": "text",
+          "name": "ويكيبيديا",
+          "href": "https://ar.wikipedia.org/wiki/%D8%A8%D9%88%D9%84%D9%8A%D8%B7_%D9%85%D8%B9%D9%85%D8%B1"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551968",
+          "detail": "2551968"
+        }
+      ],
+      bg: [
+        {
+          "group": "name",
+          "name": "Wikidata",
+          "href": "https://www.wikidata.org/wiki/Q1411830",
+          "detail": "Коренова гъба (label)"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551968",
+          "detail": "2551968"
+        }
+      ],
+      zh: [
+        {
+          "group": "name",
+          "name": "Wikidata",
+          "href": "https://www.wikidata.org/wiki/Q1411830",
+          "detail": "多年异担子菌 (label)"
+        },
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (Catalogue of Life)",
+          "href": "https://api.gbif.org/v1/species/2551968/vernacularNames?limit=100",
+          "detail": "多年異擔子菌"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551968",
+          "detail": "2551968"
+        }
+      ],
+      hr: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551968",
+          "detail": "2551968"
+        }
+      ],
+      cs: [
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (Catalogue of Life)",
+          "href": "https://api.gbif.org/v1/species/2551968/vernacularNames?limit=100",
+          "detail": "kořenovník vrstevnatý"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551968",
+          "detail": "2551968"
+        }
+      ],
+      da: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://da.wikipedia.org/wiki/Rodford%C3%A6rver"
+        },
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (Danish national checklist)",
+          "href": "https://api.gbif.org/v1/species/2551968/vernacularNames?limit=100",
+          "detail": "almindelig rodfordærver"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551968",
+          "detail": "2551968"
+        }
+      ],
+      nl: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://nl.wikipedia.org/wiki/Dennenmoorder"
+        },
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (Nederlands Soortenregister)",
+          "href": "https://api.gbif.org/v1/species/2551968/vernacularNames?limit=100",
+          "detail": "Dennenmoorder"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551968",
+          "detail": "2551968"
+        }
+      ],
+      et: [
+        {
+          "group": "text",
+          "name": "Vikipeedia",
+          "href": "https://et.wikipedia.org/wiki/M%C3%A4nni-juurepess"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551968",
+          "detail": "2551968"
+        }
+      ],
+      fi: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://fi.wikipedia.org/wiki/M%C3%A4nnynjuurik%C3%A4%C3%A4p%C3%A4"
+        },
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (Catalogue of Life)",
+          "href": "https://api.gbif.org/v1/species/2551968/vernacularNames?limit=100",
+          "detail": "männynjuurikääpä"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551968",
+          "detail": "2551968"
+        }
+      ],
+      fr: [
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://fr.wikipedia.org/wiki/Polypore_du_pin"
+        },
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (TAXREF)",
+          "href": "https://api.gbif.org/v1/species/2551968/vernacularNames?limit=100",
+          "detail": "polypore du rond des pins"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551968",
+          "detail": "2551968"
+        }
+      ],
+      de: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://de.wikipedia.org/wiki/Gemeiner_Wurzelschwamm"
+        },
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (Catalogue of Life)",
+          "href": "https://api.gbif.org/v1/species/2551968/vernacularNames?limit=100",
+          "detail": "Gemeiner Wurzelschwamm, Wurzelschwamm"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551968",
+          "detail": "2551968"
+        }
+      ],
+      he: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551968",
+          "detail": "2551968"
+        }
+      ],
+      hi: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551968",
+          "detail": "2551968"
+        }
+      ],
+      hu: [
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://hu.wikipedia.org/wiki/Gy%C3%B6k%C3%A9rront%C3%B3_tapl%C3%B3"
+        },
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (Catalogue of Life)",
+          "href": "https://api.gbif.org/v1/species/2551968/vernacularNames?limit=100",
+          "detail": "gyökérrontó tapló"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551968",
+          "detail": "2551968"
+        }
+      ],
+      id: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551968",
+          "detail": "2551968"
+        }
+      ],
+      it: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://it.wikipedia.org/wiki/Heterobasidion_annosum"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551968",
+          "detail": "2551968"
+        }
+      ],
+      ja: [
+        {
+          "group": "text",
+          "name": "ウィキペディア",
+          "href": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%84%E3%83%8E%E3%83%8D%E3%82%AF%E3%83%81%E3%82%BF%E3%82%B1"
+        },
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (Catalogue of Life)",
+          "href": "https://api.gbif.org/v1/species/2551968/vernacularNames?limit=100",
+          "detail": "マツノネクチタケ"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551968",
+          "detail": "2551968"
+        }
+      ],
+      ko: [
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (Catalogue of Life)",
+          "href": "https://api.gbif.org/v1/species/2551968/vernacularNames?limit=100",
+          "detail": "뿌리버섯"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551968",
+          "detail": "2551968"
+        }
+      ],
+      lv: [
+        {
+          "group": "text",
+          "name": "Vikipēdija",
+          "href": "https://lv.wikipedia.org/wiki/Sak%C5%86u_piepe"
+        },
+        {
+          "group": "name",
+          "name": "Latvijas Mikologu biedrība",
+          "href": "https://www.senes.lv/mikologubiedriba/GADA_SENES.htm",
+          "detail": "sakņu piepe (gada sēne 2009)"
+        },
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (Catalogue of Life)",
+          "href": "https://api.gbif.org/v1/species/2551968/vernacularNames?limit=100",
+          "detail": "priežu sakņupiepe"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551968",
+          "detail": "2551968"
+        }
+      ],
+      lt: [
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (Catalogue of Life)",
+          "href": "https://api.gbif.org/v1/species/2551968/vernacularNames?limit=100",
+          "detail": "šakninė pintenė"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551968",
+          "detail": "2551968"
+        }
+      ],
+      no: [
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (Catalogue of Life; Artsdatabanken)",
+          "href": "https://api.gbif.org/v1/species/2551968/vernacularNames?limit=100",
+          "detail": "fururotkjuke, rotkjuke"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551968",
+          "detail": "2551968"
+        }
+      ],
+      fa: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551968",
+          "detail": "2551968"
+        }
+      ],
+      pl: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://pl.wikipedia.org/wiki/Korzeniowiec_sosnowy"
+        },
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (Catalogue of Life)",
+          "href": "https://api.gbif.org/v1/species/2551968/vernacularNames?limit=100",
+          "detail": "korzeniowiec wieloletni"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551968",
+          "detail": "2551968"
+        }
+      ],
+      pt: [
+        {
+          "group": "text",
+          "name": "Wikipédia",
+          "href": "https://pt.wikipedia.org/wiki/Heterobasidion_annosum"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551968",
+          "detail": "2551968"
+        }
+      ],
+      ro: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551968",
+          "detail": "2551968"
+        }
+      ],
+      ru: [
+        {
+          "group": "text",
+          "name": "Википедия",
+          "href": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%BD%D0%B5%D0%B2%D0%B0%D1%8F_%D0%B3%D1%83%D0%B1%D0%BA%D0%B0"
+        },
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (Catalogue of Life)",
+          "href": "https://api.gbif.org/v1/species/2551968/vernacularNames?limit=100",
+          "detail": "корневая губка"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551968",
+          "detail": "2551968"
+        }
+      ],
+      sr: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551968",
+          "detail": "2551968"
+        }
+      ],
+      sl: [
+        {
+          "group": "text",
+          "name": "Wikipedija",
+          "href": "https://sl.wikipedia.org/wiki/Borov_trohnobne%C5%BE"
+        },
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (Catalogue of Life)",
+          "href": "https://api.gbif.org/v1/species/2551968/vernacularNames?limit=100",
+          "detail": "borov trohnobnež"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551968",
+          "detail": "2551968"
+        }
+      ],
+      es: [
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (Catalogue of Life)",
+          "href": "https://api.gbif.org/v1/species/2551968/vernacularNames?limit=100",
+          "detail": "yesquero añoso"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551968",
+          "detail": "2551968"
+        }
+      ],
+      sv: [
+        {
+          "group": "text",
+          "name": "Wikipedia",
+          "href": "https://sv.wikipedia.org/wiki/Rotticka"
+        },
+        {
+          "group": "name",
+          "name": "GBIF vernacular names (Catalogue of Life)",
+          "href": "https://api.gbif.org/v1/species/2551968/vernacularNames?limit=100",
+          "detail": "rotticka"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551968",
+          "detail": "2551968"
+        }
+      ],
+      tr: [
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551968",
+          "detail": "2551968"
+        }
+      ],
+      uk: [
+        {
+          "group": "text",
+          "name": "Вікіпедія",
+          "href": "https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%B5%D0%BD%D0%B5%D0%B2%D0%B0_%D0%B3%D1%83%D0%B1%D0%BA%D0%B0"
+        },
+        {
+          "group": "name",
+          "name": "GBIF",
+          "href": "https://www.gbif.org/species/2551968",
+          "detail": "2551968"
+        }
+      ]
+    },
+    synonyms: [
+      "Polyporus annosus Fr.",
+      "Boletus annosus (Fr.) Spreng.",
+      "Fomes annosus (Fr.) Cooke",
+      "Fomitopsis annosa (Fr.) P. Karst.",
+      "Placodes annosus (Fr.) Quél.",
+      "Pycnoporus annosus (Fr.) P. Karst.",
+      "Scindalma annosum (Fr.) Kuntze",
+      "Friesia annosa (Fr.) Lázaro Ibiza",
+      "Boletus cryptarum Bull.",
+      "Polyporus cryptarum (Bull.) Fr.",
+      "Fomes cryptarum (Bull.) Sacc.",
+      "Heterobasidion cryptarum (Bull.) Rauschert",
+      "Polyporus makraulos Rostk.",
+      "Physisporus makraulos (Rostk.) P. Karst.",
+      "Poria makraulos (Rostk.) Quél.",
+      "Polyporus subpileatus Weinm.",
+      "Polyporus serpentarius Pers.",
+      "Spiniger meineckellus (A.J. Olson) Stalpers"
     ]
   }
 ];

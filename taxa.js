@@ -146,6 +146,7 @@ export const TAXA = {
   },
   Mycenaceae: {
     rank: "family",
+    sk: "prilbičkovité",
     cs: "helmovkovité",
     pl: "grzybówkowate"
   },
@@ -352,6 +353,12 @@ export const TAXA = {
     de: "Ohrlöffelstachelingsverwandte",
     pl: "szyszkogłówkowate"
   },
+  Bondarzewiaceae: {
+    rank: "family"
+  },
+  Heterobasidion: {
+    rank: "genus"
+  },
   Lactarius: {
     rank: "genus",
     sk: "rýdzik"
@@ -462,6 +469,9 @@ export const TAXA = {
   Sarcodon: {
     rank: "genus",
     sk: "jelenkovec"
+  },
+  Hydnellum: {
+    rank: "genus"
   },
   Kuehneromycetaceae: {
     rank: "family"
@@ -717,6 +727,12 @@ export const TAXA = {
     rank: "family"
   },
   Neolentinus: {
+    rank: "genus"
+  },
+  Helvellaceae: {
+    rank: "family"
+  },
+  Helvella: {
     rank: "genus"
   }
 };

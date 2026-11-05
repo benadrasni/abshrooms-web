@@ -100,7 +100,7 @@ test('the Estonian year list keeps a genus pick as a genus', () => {
   assert.match(page.html, />Perekond</);
   assert.doesNotMatch(page.html, /Cantharellus%20cibarius/);
   assert.match(page.html, /Heterobasidion/);
-  assert.doesNotMatch(page.html, /href="[^"]*Heterobasidion/);
+  assert.match(page.html, /href="\/et\/genus\/Heterobasidion\/"/);
   assert.ok(page.html.indexOf('>2023<') < page.html.indexOf('>2017<'));
 });
 
@@ -133,19 +133,16 @@ const YEAR_LIST_GAPS = [
   ['mushroom-of-the-year-nl', 2020, 'Clavaria argillacea'],
   ['mushroom-of-the-year-lv', 2024, 'Chlorociboria aeruginascens'],
   ['mushroom-of-the-year-lv', 2023, 'Grifola frondosa'],
-  ['mushroom-of-the-year-lv', 2022, 'Hydnellum ferrugineum'],
   ['mushroom-of-the-year-lv', 2020, 'Peziza ammophila'],
   ['mushroom-of-the-year-lv', 2019, 'Noblesia crocea'],
   ['mushroom-of-the-year-lv', 2016, 'Amanita strobiliformis'],
   ['mushroom-of-the-year-lv', 2015, 'Phlebiopsis gigantea'],
   ['mushroom-of-the-year-lv', 2014, 'Aureoboletus projectellus'],
   ['mushroom-of-the-year-lv', 2012, 'Rhodotus palmatus'],
-  ['mushroom-of-the-year-lv', 2009, 'Heterobasidion annosum'],
   ['mushroom-of-the-year-lv', 2008, 'Agaricus bitorquis'],
   ['mushroom-of-the-year-lv', 2007, 'Aspropaxillus giganteus'],
   ['mushroom-of-the-year-lv', 2006, 'Sarcosoma globosum'],
   ['mushroom-of-the-year-lv', 2005, 'Phaeolepiota aurea'],
-  ['mushroom-of-the-year-lv', 2003, 'Helvella crispa'],
   ['mushroom-of-the-year-hu', 2008, 'Russula virescens'],
   ['mushroom-of-the-year-hu', 2011, 'Amanita caesarea'],
   ['mushroom-of-the-year-hu', 2013, 'Agaricus bohusii'],
