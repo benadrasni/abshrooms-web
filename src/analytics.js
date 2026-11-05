@@ -331,6 +331,19 @@ export function trackMushroom(name, source) {
   });
 }
 
+/** A tap on a store badge. Matches the flower site event. */
+export function trackStore(store) {
+  if (!ready()) return;
+  const which = store === 'app_store' || store === 'google_play' ? store : '';
+  if (!which) return;
+  window.gtag('event', 'store_click', {
+    store: which,
+    page_path: window.location.pathname,
+    transport_type: 'beacon',
+    send_to: GA_ID,
+  });
+}
+
 /** A tap on the flower field guide. */
 export function trackSister(place) {
   if (!ready()) return;

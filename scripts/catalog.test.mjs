@@ -386,7 +386,7 @@ test('lookalikes link a species that is in the book', () => {
   assert.match(skPara, /href="\/sk\/mushroom\/Boletus%20edulis\/"/);
 });
 
-test('a species page has Seen in the wild and an app-icon placeholder', () => {
+test('a species page has Seen in the wild and store badges', () => {
   const page = viewModel({ lang: 'en', view: 'mushroom', key: 'Boletus edulis', search: '' });
   assert.match(page.html, /id="seen" data-latin="Boletus edulis"/);
   assert.match(page.html, /<h2>Seen in the wild<\/h2>/);
@@ -394,9 +394,11 @@ test('a species page has Seen in the wild and an app-icon placeholder', () => {
   assert.match(page.html, /<p class="muted seen-empty" hidden>No public sightings yet\.<\/p>/);
   assert.match(page.html, /<h3 class="seen-count" hidden>0 public records<\/h3>/);
   assert.match(page.html, /Record one in the app/);
-  assert.match(page.html, /class="app-icon-placeholder"><img src="\/icon-192\.png"/);
-  assert.equal(page.html.includes('play.google.com'), false);
-  assert.equal(page.html.includes('apps.apple.com'), false);
+  assert.equal(page.html.includes('app-icon-placeholder'), false);
+  const seenHtml = page.html.slice(page.html.indexOf('id="seen"'));
+  const aside = seenHtml.slice(seenHtml.indexOf('class="aside"'), seenHtml.indexOf('</aside>'));
+  assert.match(aside, /data-store="google_play"/);
+  assert.match(aside, /data-store="app_store"/);
   assert.equal(recordsLabel(1, 'en'), '1 public record');
   assert.equal(recordsLabel(0, 'en'), '0 public records');
   assert.equal(recordsLabel(2, 'en'), '2 public records');
@@ -412,6 +414,36 @@ test('a species page has Seen in the wild and an app-icon placeholder', () => {
   const seen = page.html.indexOf('Seen in the wild');
   const taxonomy = page.html.indexOf('>Taxonomy<');
   assert.ok(order > 0 && order < seen && seen < taxonomy);
+});
+
+test('store badges sit where the flower site puts them', () => {
+  const play = 'https://play.google.com/store/apps/details?id=sk.ab.shrooms';
+  const apple = 'https://apps.apple.com/us/app/whats-that-mushroom/id6826707489';
+  for (const language of LANGS) {
+    const copy = COPY[language.code];
+    const home = viewModel({ lang: language.code, view: 'home', search: '' });
+    const about = viewModel({ lang: language.code, view: 'about', search: '' });
+    const identify = viewModel({ lang: language.code, view: 'identify', search: '' });
+    const species = viewModel({ lang: language.code, view: 'mushroom', key: 'Boletus edulis', search: '' });
+    for (const page of [home, about, identify, species]) {
+      assert.ok(page.html.includes(play), language.code);
+      assert.ok(page.html.includes(apple), language.code);
+      assert.ok(page.html.includes(`alt="${esc(copy.storePlay)}"`), `${language.code} play`);
+      assert.ok(page.html.includes(`alt="${esc(copy.storeApple)}"`), `${language.code} apple`);
+      assert.equal(page.html.includes('app-banner'), false, `${language.code} static shell`);
+    }
+    const homeBand = home.html.slice(home.html.indexOf('class="band identify-band"'));
+    assert.ok(homeBand.indexOf(play) > homeBand.indexOf(esc(copy.keyOpen)), `${language.code} home`);
+    const aboutBand = about.html.slice(about.html.lastIndexOf('class="band identify-band"'));
+    assert.ok(aboutBand.indexOf(play) < aboutBand.indexOf('about-sister'), `${language.code} about`);
+    const filters = identify.html.slice(
+      identify.html.indexOf('class="identify-filters"'),
+      identify.html.indexOf('class="identify-results"')
+    );
+    assert.ok(filters.includes('class="identify-stores"'), `${language.code} identify`);
+    assert.ok(filters.includes(play), `${language.code} identify play`);
+    assert.equal(filters.includes('identify-results'), false, language.code);
+  }
 });
 
 const STIPE_FIELDS = ['stipeHeightFrom', 'stipeHeightTo', 'stipeThickFrom', 'stipeThickTo'];

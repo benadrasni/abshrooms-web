@@ -144,6 +144,11 @@ export const TAXA = {
     hu: "kucsmagombafélék",
     pl: "smardzowate"
   },
+  Mycenaceae: {
+    rank: "family",
+    cs: "helmovkovité",
+    pl: "grzybówkowate"
+  },
   Pleurotaceae: {
     rank: "family",
     sk: "hlivovité",
@@ -695,6 +700,23 @@ export const TAXA = {
     rank: "genus"
   },
   Hohenbuehelia: {
+    rank: "genus"
+  },
+  Mycena: {
+    rank: "genus",
+    sk: "prilbička",
+    cs: "helmovka",
+    de: "Helmlinge",
+    hu: "kígyógomba",
+    pl: "grzybówka"
+  },
+  Gloeophyllales: {
+    rank: "order"
+  },
+  Gloeophyllaceae: {
+    rank: "family"
+  },
+  Neolentinus: {
     rank: "genus"
   }
 };

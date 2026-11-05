@@ -11,7 +11,8 @@ import {
   trackFilterResult,
   trackMushroom,
   trackSearch,
-  trackSister
+  trackSister,
+  trackStore
 } from "./src/analytics.js";
 import {
   KEY_COLOR,
@@ -26,6 +27,14 @@ import {
   formatSeenWhen,
   loadPublicSightings
 } from "./src/sightings.mjs";
+import {
+  bannerDecision,
+  bannerMarkup,
+  pageStorage,
+  readDismissed,
+  relatedAppInstalled,
+  writeDismissed
+} from "./src/appBanner.mjs";
 
 var PATH_LANGS = LANGS.map(function (item) { return item.code; }).filter(function (code) {
   return code !== "en";
@@ -102,6 +111,8 @@ function href(path, lang) {
 }
 
 var FLOWER_ORIGIN = "https://whatsthatflower.com";
+var PLAY_URL = "https://play.google.com/store/apps/details?id=sk.ab.shrooms";
+var APP_STORE_URL = "https://apps.apple.com/us/app/whats-that-mushroom/id6826707489";
 var APP_PRIVACY = "https://storage.googleapis.com/abshrooms-resources/misc/PrivacyPolicyofWhatsthatmushroom.htm";
 
 function flowerUrl(lang) {
@@ -113,6 +124,92 @@ function flowerUrl(lang) {
     return FLOWER_ORIGIN + "/" + code + "/";
   }
   return FLOWER_ORIGIN + "/";
+}
+
+var relatedInstalled = false;
+var installWatchStarted = false;
+var bannerObserver = null;
+
+function currentBannerStore() {
+  if (relatedInstalled || typeof navigator === "undefined") return null;
+  return bannerDecision({
+    userAgent: navigator.userAgent,
+    maxTouchPoints: navigator.maxTouchPoints || 0,
+    dismissed: readDismissed(pageStorage())
+  });
+}
+
+function appBannerHtml(lang) {
+  var store = currentBannerStore();
+  if (!store) return "";
+  var copy = t(lang);
+  return bannerMarkup({
+    app: copy.app,
+    short: copy.appShort,
+    get: copy.appBannerGet,
+    close: copy.lightboxClose,
+    storePlay: copy.storePlay,
+    storeApple: copy.storeApple
+  }, store, { play: PLAY_URL, appStore: APP_STORE_URL });
+}
+
+function clearAppBannerHeight() {
+  if (bannerObserver) {
+    bannerObserver.disconnect();
+    bannerObserver = null;
+  }
+  document.documentElement.style.removeProperty("--app-banner-h");
+}
+
+function dismissAppBanner() {
+  writeDismissed(pageStorage());
+  var bar = document.querySelector(".app-banner");
+  if (bar) bar.remove();
+  clearAppBannerHeight();
+}
+
+function watchInstalledApp() {
+  if (installWatchStarted) return;
+  var ask = navigator.getInstalledRelatedApps;
+  if (typeof ask !== "function") return;
+  installWatchStarted = true;
+  ask.call(navigator).then(function (apps) {
+    if (!relatedAppInstalled(apps)) return;
+    relatedInstalled = true;
+    var bar = document.querySelector(".app-banner");
+    if (bar) bar.remove();
+    clearAppBannerHeight();
+  }).catch(function () {});
+}
+
+function syncAppBanner() {
+  clearAppBannerHeight();
+  var bar = document.querySelector(".app-banner");
+  if (!bar) return;
+  var root = document.documentElement;
+  var apply = function () {
+    root.style.setProperty("--app-banner-h", bar.offsetHeight + "px");
+  };
+  apply();
+  if (typeof ResizeObserver !== "undefined") {
+    bannerObserver = new ResizeObserver(apply);
+    bannerObserver.observe(bar);
+  }
+  watchInstalledApp();
+}
+
+function storeLinks(lang) {
+  var copy = t(lang);
+  return (
+    '<div class="stores stores-lg">' +
+      '<a href="' + PLAY_URL + '" data-store="google_play">' +
+        '<img class="store-badge" src="/images/google-play-badge.png" alt="' + esc(copy.storePlay) + '">' +
+      "</a>" +
+      '<a href="' + APP_STORE_URL + '" data-store="app_store">' +
+        '<img class="store-badge store-badge-apple" src="/images/app-store-badge.svg" alt="' + esc(copy.storeApple) + '">' +
+      "</a>" +
+    "</div>"
+  );
 }
 
 function stripLang(path, lang) {
@@ -454,6 +551,7 @@ function identifyPage(lang, search, seasonOpen) {
             '<div class="habitat-grid">' + whereTiles + "</div></fieldset>" +
           "<fieldset><legend>" + esc(copy.colorQuestion) + "</legend>" +
             '<p class="key-note">' + esc(copy.colorNote) + '</p><div class="swatches">' + swatches + "</div></fieldset>" +
+          '<div class="identify-stores">' + storeLinks(lang) + "</div>" +
         "</div>" +
         '<section class="identify-results" id="identify-results" aria-labelledby="identify-count">' +
           '<div class="identify-results-h">' +
@@ -971,6 +1069,7 @@ function home(lang) {
         "<h2>" + esc(copy.keyTitle) + "</h2>" +
         '<p class="lede">' + esc(copy.keyLede) + "</p>" +
         '<p><a href="' + href("/identify", lang) + '">' + esc(copy.keyOpen) + "</a></p>" +
+        storeLinks(lang) +
       "</section>" +
     "</div>";
   return { title: copy.app, description: copy.homeDesc, html: shell(lang, page, true) };
@@ -1270,7 +1369,7 @@ function seenBand(species, lang) {
           '<h3 class="seen-count" hidden>' + esc(recordsLabel(0, lang)) + "</h3>" +
           '<ul class="places" hidden></ul>' +
           "<p>" + esc(copy.recordInApp) + "</p>" +
-          '<div class="app-icon-placeholder"><img src="/icon-192.png" alt="" width="64" height="64"></div>' +
+          storeLinks(lang) +
         "</aside>" +
       "</div>" +
     "</section>"
@@ -1531,6 +1630,7 @@ function aboutPage(lang) {
         "<h2>" + esc(copy.keyTitle) + "</h2>" +
         '<p class="lede">' + esc(copy.keyLede) + "</p>" +
         '<p><a href="' + href("/identify", lang) + '">' + esc(copy.keyOpen) + "</a></p>" +
+        storeLinks(lang) +
         '<p class="about-sister">' + esc(copy.aboutSister) + ' <a href="' + flowerUrl(lang) + '">' + esc(copy.sisterSite) + "</a></p>" +
       "</section>" +
     "</div>";
@@ -1671,8 +1771,9 @@ function render() {
   route.search = search;
   route.seasonOpen = !!(seasonPanel && seasonPanel.open);
   var model = viewModel(route);
-  document.getElementById("app").innerHTML = model.html;
+  document.getElementById("app").innerHTML = appBannerHtml(route.lang) + model.html;
   setMeta(model, route.lang, pathname);
+  syncAppBanner();
   paintConsent(route.lang);
   window.scrollTo(0, y);
   var nextFilters = document.querySelector(".identify-filters");
@@ -1805,6 +1906,11 @@ document.addEventListener("error", function (event) {
 }, true);
 
 document.addEventListener("click", function (event) {
+  var bannerClose = event.target.closest("[data-app-banner-close]");
+  if (bannerClose) {
+    dismissAppBanner();
+    return;
+  }
   var gaBtn = event.target.closest("[data-ga]");
   if (gaBtn) {
     if (gaBtn.getAttribute("data-ga") === "allow") allowAnalytics();
@@ -1885,6 +1991,8 @@ document.addEventListener("click", function (event) {
       : results ? "search" : link.closest(".identify-page") ? "key" : "list";
     trackMushroom(speciesName, source);
   }
+  var store = link.getAttribute("data-store");
+  if (store === "google_play" || store === "app_store") trackStore(store);
   if (url.hostname === "whatsthatflower.com") {
     trackSister(link.closest(".about-sister") ? "about" : "footer");
   }
