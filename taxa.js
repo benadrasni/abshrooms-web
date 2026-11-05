@@ -245,6 +245,12 @@ export const TAXA = {
     rank: "order",
     sk: "trúdnikotvaré"
   },
+  Grifolaceae: {
+    rank: "family"
+  },
+  Grifola: {
+    rank: "genus"
+  },
   Polyporaceae: {
     rank: "family",
     sk: "trúdnikovité",
@@ -354,7 +360,8 @@ export const TAXA = {
     pl: "szyszkogłówkowate"
   },
   Bondarzewiaceae: {
-    rank: "family"
+    rank: "family",
+    sk: "trsovcovité"
   },
   Heterobasidion: {
     rank: "genus"
@@ -664,6 +671,21 @@ export const TAXA = {
   Mitrula: {
     rank: "genus"
   },
+  Leotiales: {
+    rank: "order"
+  },
+  Leotiaceae: {
+    rank: "family"
+  },
+  Leotia: {
+    rank: "genus"
+  },
+  Chlorociboriaceae: {
+    rank: "family"
+  },
+  Chlorociboria: {
+    rank: "genus"
+  },
   Diplocystidiaceae: {
     rank: "family"
   },
@@ -724,15 +746,24 @@ export const TAXA = {
     rank: "order"
   },
   Gloeophyllaceae: {
-    rank: "family"
+    rank: "family",
+    sk: "trámovkovité"
   },
   Neolentinus: {
     rank: "genus"
   },
   Helvellaceae: {
-    rank: "family"
+    rank: "family",
+    sk: "chriapačovité"
   },
   Helvella: {
     rank: "genus"
+  },
+  Hymenogastraceae: {
+    rank: "family"
+  },
+  Gymnopilus: {
+    rank: "genus",
+    sk: "šupinovec"
   }
 };
