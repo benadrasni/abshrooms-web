@@ -770,5 +770,14 @@ export const TAXA = {
   Gymnopilus: {
     rank: "genus",
     sk: "šupinovec"
+  },
+  Albatrellaceae: {
+    rank: "family"
+  },
+  Albatrellus: {
+    rank: "genus",
+    sk: "krásnopórovec",
+    cs: "krásnopórka"
   }
+
 };
