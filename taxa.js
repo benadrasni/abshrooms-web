@@ -272,7 +272,8 @@ export const TAXA = {
     sk: "lesklokôrovka"
   },
   Trametes: {
-    rank: "genus"
+    rank: "genus",
+    sk: "trúdnikovec"
   },
   Laetiporaceae: {
     rank: "family",
@@ -611,6 +612,10 @@ export const TAXA = {
     sk: "lievikovcovité",
     cs: "stročkovcovité",
     pl: "siatkoblaszkowate"
+  },
+  Ramaria: {
+    rank: "genus",
+    sk: "strapačka"
   },
   Gomphus: {
     rank: "genus",
