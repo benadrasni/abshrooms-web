@@ -92837,6 +92837,39 @@ export const CATALOG = [
     stipeHeightTo: 5,
     stipeThickFrom: 2,
     stipeThickTo: 5,
+    fruitingFrom: 7,
+    fruitingTo: 11,
+    label: {
+      en: "salmon coral",
+      sk: "strapačka úhľadná",
+      bg: "красива коралка",
+      zh: "粉紅枝瑚菌",
+      cs: "kuřátka sličná",
+      da: "smuk koralsvamp",
+      nl: "fraaie koraalzwam",
+      fi: "kavalahaarakas",
+      fr: "clavaire élégante",
+      de: "Dreifarbige Koralle",
+      hu: "cifra korallgomba",
+      ja: "ハナホウキタケ",
+      lt: "bekotis šakočius",
+      pl: "koralówka strojna",
+      ro: "meloșel",
+      ru: "рамария красивая",
+      sl: "lepa griva",
+      sv: "lömsk fingersvamp"
+    },
+    names: {
+      en: ["pinkish coral mushroom","beautiful clavaria","handsome clavaria","yellow-tipped coral","pink coral fungus"],
+      sk: ["kuriatka pekné"],
+      zh: ["美丽枝瑚菌"],
+      fr: ["ramaire jolie","clavaire belle"],
+      de: ["Schöne Koralle"],
+      pl: ["gałęziak strojny"],
+      ro: ["tocmăgel"],
+      ru: ["рогатик прекрасный"],
+      sl: ["tribarvna griva"]
+    },
     text: {
       en: {
         label: "salmon coral",
@@ -93360,6 +93393,38 @@ export const CATALOG = [
     stipeHeightTo: 8,
     stipeThickFrom: 1,
     stipeThickTo: 2.5,
+    fruitingFrom: 6,
+    fruitingTo: 11,
+    label: {
+      en: "indigo milk cap",
+      zh: "蓝绿乳菇",
+      cs: "ryzec indigový",
+      et: "indigoriisikas",
+      fa: "قارچ شیری آبی",
+      de: "Indigo-Reizker",
+      pl: "mleczaj niebieski",
+      ru: "млечник голубой",
+      es: "hongo azul"
+    },
+    names: {
+      en: ["indigo milky","indigo lactarius","blue milk mushroom","blue lactarius"],
+      zh: ["靛蓝乳菇"],
+      et: ["indigo riisikas"],
+      de: ["Indigoreizker"],
+      pl: ["mleczaj indygowy"],
+      ru: ["млечник индиго","млечник синий"],
+      es: ["añil","azul","quexque"]
+    },
+    sources: {
+      en: [
+      { group: "name", name: "Index Fungorum", href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=220303" },
+      { group: "name", name: "GBIF", href: "https://www.gbif.org/species/7240044" },
+      { group: "text", name: "Wikipedia", href: "https://en.wikipedia.org/wiki/Lactarius_indigo" },
+      { group: "text", name: "MushroomExpert", href: "https://www.mushroomexpert.com/lactarius_indigo.html" },
+      { group: "text", name: "Wikimedia Commons", href: "https://commons.wikimedia.org/wiki/Category:Lactarius_indigo" },
+      { group: "text", name: "Wikipedia", href: "https://de.wikipedia.org/wiki/Indigo-Reizker" }
+      ]
+    },
     text: {
       en: {
         label: "indigo milk cap",
@@ -93856,7 +93921,7 @@ export const CATALOG = [
         author: "Rosser1954",
         license: "CC BY-SA 4.0",
         licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
-        source: "https://commons.wikimedia.org/wiki/File:Lactarius_camphoratus_(Curry_Milkcap)_with_'milk'_on_gills.jpg"
+        source: "https://commons.wikimedia.org/wiki/File:Lactarius_camphoratus_(Curry_Milkcap)_with_%27milk%27_on_gills.jpg"
       },
       {
         src: STORAGE + "photos/Russulales/Russulaceae/Lactarius_camphoratus/lc3.webp",
@@ -93886,6 +93951,48 @@ export const CATALOG = [
     stipeHeightTo: 10,
     stipeThickFrom: 0.4,
     stipeThickTo: 1,
+    fruitingFrom: 6,
+    fruitingTo: 11,
+    label: {
+      en: "curry milkcap",
+      sk: "rýdzik gáfrový",
+      zh: "香乳菇",
+      cs: "ryzec kafrový",
+      nl: "kruidige melkzwam",
+      et: "kamperriisikas",
+      fi: "sikurirousku",
+      fr: "lactaire camphré",
+      de: "Kampfer-Milchling",
+      hu: "kámfor-tejelőgomba",
+      ja: "ニオイワチチタケ",
+      lt: "kamparinis piengrybis",
+      no: "duftriske",
+      pl: "mleczaj kamforowy",
+      ro: "lăptucă camforată",
+      ru: "млечник камфорный",
+      sr: "цикоријевка",
+      sv: "kamferriska",
+      uk: "хрящ-молочник камфорний"
+    },
+    names: {
+      en: ["curry-scented milkcap","candy cap","aromatic milkcap"],
+      zh: ["浓香乳菇"],
+      de: ["Kampfermilchling"],
+      hu: ["kámforszagú tejelőgomba","cikória tejelőgomba"],
+      ru: ["груздь камфорный"]
+    },
+    sources: {
+      en: [
+      { group: "name", name: "Index Fungorum", href: "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=233655" },
+      { group: "name", name: "GBIF", href: "https://www.gbif.org/species/8813286" },
+      { group: "text", name: "First Nature", href: "https://www.first-nature.com/fungi/lactarius-camphoratus.php" },
+      { group: "text", name: "Wikipedia", href: "https://en.wikipedia.org/wiki/Lactarius_camphoratus" },
+      { group: "text", name: "Nahuby.sk", href: "https://www.nahuby.sk/atlas-hub/Lactarius-camphoratus/rydzik-gafrovy/ryzec-kafrovy/ID562" },
+      { group: "text", name: "grzybomaps.pl", href: "https://grzybomaps.pl/en/atlas/mleczaj-kamforowy/" },
+      { group: "text", name: "Wild Food UK", href: "https://www.wildfooduk.com/mushroom-guide/curry-scented-milkcap/" },
+      { group: "text", name: "MushroomExpert", href: "https://www.mushroomexpert.com/lactarius_camphoratus.html" }
+      ]
+    },
     text: {
       en: {
         label: "curry milkcap",
