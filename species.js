@@ -99678,7 +99678,7 @@ export const CATALOG = [
     // PLATE: M.C. Cooke historical colour plate (v2 restores pale bottom cross-section + full stipe).
     plate: STORAGE + "photos/Agaricales/Melanoleucaceae/Melanoleuca_melaleuca/Melanoleuca_melaleuca@1600.webp",
     plateGrid: STORAGE + "photos/Agaricales/Melanoleucaceae/Melanoleuca_melaleuca/Melanoleuca_melaleuca@400.webp",
-    plateCredit: { author: "M.C. Cooke", license: "Public domain (historical plate; user-supplied Melanoleuca melaleuca.png)", source: "file:///Users/adrianbenko/Downloads/Melanoleuca%20melaleuca.png" },
+    plateCredit: { author: "M.C. Cooke", license: "public domain" },
     photos: [
 
       {
@@ -99723,6 +99723,25 @@ export const CATALOG = [
     stipeHeightTo: 9,
     stipeThickFrom: 0.5,
     stipeThickTo: 1,
+    fruitingFrom: 7,
+    fruitingTo: 11,
+    label: {
+      en: "bald knight",
+      cs: "tmavobělka obecná",
+      da: "sorthvid munkehat",
+      nl: "kale veldridderzwam",
+      et: "harilik kühmik",
+      fi: "nokisataheltta",
+      de: "Gemeiner Weichritterling",
+      hu: "sötétlábú csupaszpereszke",
+      pl: "ciemnobiałka ciemna",
+      sv: "mörkmusseron",
+      uk: "меланоливка коротконога"
+    },
+    names: {
+      en: ["changeable melanoleuca","common cavalier"],
+      pl: ["bedłka czarniawa","ciemnogłówka ciemna"]
+    },
     text: {
       en: {
         label: "bald knight",
@@ -100204,7 +100223,7 @@ export const CATALOG = [
     // Family Hymenogastraceae (GBIF Backbone + current IF; not older Strophariaceae).
     plate: STORAGE + "photos/Agaricales/Hymenogastraceae/Hebeloma_crustuliniforme/Hebeloma_crustuliniforme@1600.webp",
     plateGrid: STORAGE + "photos/Agaricales/Hymenogastraceae/Hebeloma_crustuliniforme/Hebeloma_crustuliniforme@400.webp",
-    plateCredit: { author: "L. Dufour", license: "Public domain (historical plate; user-supplied Hebeloma crustuliniforme.png)", source: "file:///Users/adrianbenko/Downloads/Hebeloma%20crustuliniforme.png" },
+    plateCredit: { author: "L. Dufour", license: "public domain" },
     photos: [
 
       {
@@ -100249,6 +100268,30 @@ export const CATALOG = [
     stipeHeightTo: 11,
     stipeThickFrom: 0.5,
     stipeThickTo: 2,
+    fruitingFrom: 7,
+    fruitingTo: 11,
+    label: {
+      en: "poison pie",
+      zh: "殼表黏滑菇",
+      cs: "slzivka oprahlá",
+      da: "almindelig tåreblad",
+      nl: "radijsvaalhoed",
+      et: "pisarhebel",
+      fi: "kalvastympönen",
+      fr: "hébélome échaudé",
+      de: "Tongrauer Tränen-Fälbling",
+      hu: "zsemleszínű fakógomba",
+      lt: "ašarojanti jaunabudė",
+      no: "tårereddiksopp",
+      pl: "włośnianka rosista",
+      ro: "ciupercă plângătoare",
+      ru: "гебелома клейкая",
+      sv: "tårfränskivling",
+      uk: "гебелома клейка"
+    },
+    names: {
+      en: ["fairy cakes","poisonpie"]
+    },
     text: {
       en: {
         label: "poison pie",
