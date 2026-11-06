@@ -782,6 +782,15 @@ export const TAXA = {
     rank: "genus",
     sk: "krásnopórovec",
     cs: "krásnopórka"
+  },
+  Melanoleucaceae: {
+    rank: "family"
+  },
+  Melanoleuca: {
+    rank: "genus"
+  },
+  Hebeloma: {
+    rank: "genus"
   }
 
 };
