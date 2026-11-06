@@ -246,7 +246,8 @@ export const TAXA = {
     sk: "trúdnikotvaré"
   },
   Grifolaceae: {
-    rank: "family"
+    rank: "family",
+    sk: "trsovnicovité"
   },
   Grifola: {
     rank: "genus"
@@ -680,7 +681,8 @@ export const TAXA = {
     rank: "order"
   },
   Leotiaceae: {
-    rank: "family"
+    rank: "family",
+    sk: "patyčkovité"
   },
   Leotia: {
     rank: "genus"
@@ -765,14 +767,16 @@ export const TAXA = {
     rank: "genus"
   },
   Hymenogastraceae: {
-    rank: "family"
+    rank: "family",
+    sk: "hľuzovité"
   },
   Gymnopilus: {
     rank: "genus",
     sk: "šupinovec"
   },
   Albatrellaceae: {
-    rank: "family"
+    rank: "family",
+    sk: "krásnopórovcovité"
   },
   Albatrellus: {
     rank: "genus",
