@@ -239,13 +239,13 @@ function guidePair(lang) {
       '<div class="guide-card">' +
         "<h2>" + esc(copy.appInApp) + "</h2>" +
         '<p class="lede">' + esc(copy.keyLede) + "</p>" +
-        '<p><a href="' + href("/identify", lang) + '">' + esc(copy.keyOpen) + "</a></p>" +
+        '<p class="guide-link"><a href="' + href("/identify", lang) + '">' + esc(copy.keyOpen) + "</a></p>" +
         storeLinks(lang) +
       "</div>" +
       '<div class="guide-card">' +
         "<h2>" + esc(copy.plantInApp) + "</h2>" +
         '<p class="lede">' + esc(copy.plantLede) + "</p>" +
-        '<p><a href="' + flowerIdentifyUrl(lang) + '" data-sister-place="guide">' + esc(copy.sisterSite) + "</a></p>" +
+        '<p class="guide-link"><a href="' + flowerIdentifyUrl(lang) + '" data-sister-place="guide">' + esc(copy.plantOpen) + "</a></p>" +
         flowerStoreLinks(lang) +
       "</div>" +
     "</div>"

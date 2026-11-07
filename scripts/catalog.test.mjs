@@ -132,6 +132,7 @@ const ABOUT_KEYS = [
   'keyTitle',
   'keyLede',
   'keyOpen',
+  'plantOpen',
   'appInApp',
   'plantInApp',
   'plantLede',
@@ -442,6 +443,7 @@ test('store badges sit where the flower site puts them', () => {
       const band = page.html.slice(page.html.indexOf('class="band identify-band"'));
       assert.ok(band.indexOf(esc(copy.appInApp)) < band.indexOf(esc(copy.plantInApp)), `${language.code} order`);
       assert.ok(band.indexOf(esc(copy.keyOpen)) < band.indexOf(play), `${language.code} mushroom key`);
+      assert.ok(band.includes(esc(copy.plantOpen)), `${language.code} plant site`);
       assert.ok(band.indexOf(play) < band.indexOf(flowerPlay), `${language.code} stores`);
       assert.ok(band.includes(flowerApple), `${language.code} apple`);
       assert.ok(band.includes(flowerIdentify), `${language.code} flower web`);
