@@ -741,6 +741,14 @@ a.lang-chip:hover, a.lang-chip.on { border-color: var(--ink); }
 .identify-band h2 { font-family: Fraunces, Georgia, serif; font-weight: 520; font-size: 28px; margin: 0 0 10px; }
 .identify-band .lede { margin-bottom: 12px; }
 .identify-band a { color: var(--madder); }
+.guide-pair {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  column-gap: 48px;
+  row-gap: 32px;
+  align-items: start;
+}
+.guide-pair .lede { max-width: none; }
 .identify-stores { padding: 16px 16px 20px; }
 .identify-stores .stores { margin-top: 0; justify-content: center; }
 .about-sister { margin-top: 8px; font-size: 14px; color: var(--ink-2); }
@@ -1135,6 +1143,7 @@ html.ga-ask body { padding-bottom: var(--ga-banner-h, 120px); }
   .identify-page { padding-bottom: 72px; }
 }
 @media (max-width: 860px) {
+  .guide-pair { grid-template-columns: 1fr; }
   .spread { grid-template-columns: 1fr; }
   .plate {
     position: relative;

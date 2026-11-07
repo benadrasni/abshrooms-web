@@ -791,6 +791,7 @@ export const TAXA = {
   },
   Hebeloma: {
     rank: "genus"
-  }
-
+  },
+  Volvariella: {rank: "genus"},
+  Volvariellaceae: {rank: "family"}
 };

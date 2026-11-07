@@ -180,7 +180,6 @@ const YEAR_LIST_GAPS = [
   ['mushroom-of-the-year-hu', 2013, 'Agaricus bohusii'],
   ['mushroom-of-the-year-hu', 2017, 'Omphalotus olearius'],
   ['mushroom-of-the-year-hu', 2020, 'Microstoma protractum'],
-  ['mushroom-of-the-year-hu', 2021, 'Volvariella bombycina'],
   ['mushroom-of-the-year-hu', 2026, 'Agaricus bohusii'],
   ['mushroom-of-the-year-fi', 2025, 'Albatrellus ovinus'],
   ['mushroom-of-the-year-fi', 2026, 'Lactarius camphoratus'],

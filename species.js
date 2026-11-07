@@ -101914,35 +101914,35 @@ export const CATALOG = [
   },
   "photos": [
     {
-      "src": STORAGE + "photos/Russulales/Russulaceae/Russula_virescens/rv1.webp",
-      "author": "Björn Sothmann (Flickr: Björn S...)",
-      "license": "CC BY-SA 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-      "source": "https://commons.wikimedia.org/wiki/File%3AGreen-cracking%20Russula%20-%20Russula%20virescens%20%2823627794868%29.jpg"
-    },
+    "src": STORAGE + "photos/Russulales/Russulaceae/Russula_virescens/rv1_habitat_1024_v3.webp",
+    "author": "Bubbah63",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Gol%C4%8Duba%C4%8Da_3.JPG"
+},
     {
-      "src": STORAGE + "photos/Russulales/Russulaceae/Russula_virescens/rv2.webp",
+      "src": STORAGE + "photos/Russulales/Russulaceae/Russula_virescens/rv2_square_v2.webp",
       "author": "Björn Sothmann (Flickr: Björn S...)",
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "source": "https://commons.wikimedia.org/wiki/File%3AGreen-cracking%20Russula%20-%20Russula%20virescens%20%2836809338303%29.jpg"
     },
     {
-      "src": STORAGE + "photos/Russulales/Russulaceae/Russula_virescens/rv3.webp",
+      "src": STORAGE + "photos/Russulales/Russulaceae/Russula_virescens/rv3_square_v2.webp",
       "author": "Lukas Large",
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "source": "https://commons.wikimedia.org/wiki/File%3ALukas%20Large%20-%20Russula%20virescens%20%2853127942902%29.jpg"
     },
     {
-      "src": STORAGE + "photos/Russulales/Russulaceae/Russula_virescens/rv4.webp",
+      "src": STORAGE + "photos/Russulales/Russulaceae/Russula_virescens/rv4_square_v2.webp",
       "author": "Paffka",
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "source": "https://commons.wikimedia.org/wiki/File%3ARussula%20virescens2.JPG"
     },
     {
-      "src": STORAGE + "photos/Russulales/Russulaceae/Russula_virescens/rv5.webp",
+      "src": STORAGE + "photos/Russulales/Russulaceae/Russula_virescens/rv5_square_v2.webp",
       "author": "Paffka",
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
@@ -102657,6 +102657,879 @@ export const CATALOG = [
         "https://en.wikipedia.org/wiki/Russula_virescens",
         "https://www.iucnredlist.org/species/230148498/260413110",
         "https://et.wikipedia.org/wiki/Areoolpilvik"
+      ]
+    }
+  }
+},
+{
+  "id": 127,
+  "name": "Volvariella bombycina",
+  "author": "(Schaeff.) Singer",
+  "edibility": "edible",
+  "hymenium": "gills",
+  "where": [
+    "wood"
+  ],
+  "color": [
+    "white",
+    "yellow"
+  ],
+  "added": "2026-11-06",
+  "family": "Volvariellaceae",
+  "genus": "Volvariella",
+  "order": "Agaricales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Agaricales",
+    "Volvariellaceae",
+    "Volvariella"
+  ],
+  "summary": [
+    "Agaricales",
+    "Volvariellaceae",
+    "Volvariella"
+  ],
+  "capFrom": 5,
+  "capTo": 20,
+  "stipeHeightFrom": 6,
+  "stipeHeightTo": 25,
+  "stipeThickFrom": 1,
+  "stipeThickTo": 3,
+  "fruitingFrom": 6,
+  "fruitingTo": 9,
+  "label": {
+    "en": "silky rosegill",
+    "sk": "pošvovec stromový",
+    "cs": "kukmák bělovlnný",
+    "pl": "pochwiak jedwabnikowy",
+    "ru": "вольвариелла шелковистая",
+    "uk": "вольваріелла шовковиста",
+    "de": "Wolliger Scheidling",
+    "fr": "volvaire soyeuse",
+    "es": "volvaria sedosa",
+    "nl": "Zijdeachtige beurszwam",
+    "no": "stor sliresopp",
+    "da": "silkehåret posesvamp",
+    "sv": "silkesslidskivling",
+    "fi": "silkkituppisieni",
+    "et": "puidu-tupplehik",
+    "lv": "zīdainā makstaine",
+    "hu": "óriás bocskorosgomba",
+    "ro": "burete păros",
+    "ja": "キヌオオフクロタケ",
+    "ko": "흰비단털버섯"
+  },
+  "names": {
+    "en": ["silky sheath", "tree silksheath"],
+    "ro": ["opincuță"]
+  },
+  "plate": STORAGE + "photos/Agaricales/Volvariellaceae/Volvariella_bombycina/Volvariella_bombycina@1600.webp",
+  "plateGrid": STORAGE + "photos/Agaricales/Volvariellaceae/Volvariella_bombycina/Volvariella_bombycina@400.webp",
+  "plateCredit": {
+    "author": "J. C. Schäffer (supplied mark/publication credit; individual draughtsperson unverified)",
+    "credit": "After J. C. Schäffer, Fungorum ... icones, vol.I, Tab.XCVIII (1762), Agaricus bombycinus. Supplied prepared derivative bears J. C. Schäffer mark; individual draughtsperson unverified.",
+    "license": "Historical source public domain; supplied prepared derivative provenance beyond source match/mark unverified",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Tab98-Agaricus_bombycinus_Schaeff.jpg"
+  },
+  "photos": [
+    {
+      "src": STORAGE + "photos/Agaricales/Volvariellaceae/Volvariella_bombycina/vb1_square_v2.webp",
+      "author": "Svencapoeira",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Puidu-tupplehik1.jpg"
+    },
+    {
+      "src": STORAGE + "photos/Agaricales/Volvariellaceae/Volvariella_bombycina/vb2_square_v2.webp",
+      "author": "GLJIVARSKO DRUSTVO NIS from Serbia",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:VOLVARIELLA_BOMBYCINA_(Schff._Fr.)_Sing._(6000725187).jpg"
+    },
+    {
+      "src": STORAGE + "photos/Agaricales/Volvariellaceae/Volvariella_bombycina/vb3_square_v2.webp",
+      "author": "Marie Čcheidzeová",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Kukm%C3%A1k_b%C4%9Blovlnn%C3%BD_(Volvariella_bombycina)_-_Konr%C3%A1dov_(3).jpg"
+    },
+    {
+      "src": STORAGE + "photos/Agaricales/Volvariellaceae/Volvariella_bombycina/vb4_square_v2.webp",
+      "author": "Lukas from London, England",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Volvariella_bombycina_(34272836004).jpg"
+    },
+    {
+      "src": STORAGE + "photos/Agaricales/Volvariellaceae/Volvariella_bombycina/vb5_square_v2.webp",
+      "author": "Cartread",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Silky_Rosegill,_maple_tree_of_Vermont,_USA,_July_2012.jpg"
+    }
+  ],
+  "text": {
+    "en": {
+      "description": "A large saprotrophic mushroom that decomposes hardwood, growing singly or in small groups in forests, parks and gardens. It is widespread but generally uncommon, reported from Europe, Asia, Africa, the Americas and Australia. Fruit bodies may emerge from wounds or cavities well above ground on standing trees.",
+      "cap": "5–20 cm wide, initially egg-shaped, becoming bell-shaped to broadly convex or almost flat. Dry, white to cream, sometimes yellowing centrally, with long silky fibres that may overhang the margin.",
+      "hymenium": "Gills free, crowded and broad; white when young, becoming pink to brownish pink. Basidia four-spored; clamp connections absent.",
+      "stipe": "6–25 cm long and 1–3 cm thick, white to pale ochre, solid, smooth and often curved, tapering upward. No ring. The base is enclosed by a large persistent membranous volva, whitish at first, later yellowish to brown and often cracked or scaly.",
+      "flesh": "White, soft and fragile, not changing when cut. Odour faint, sometimes radish-like or earthy; flavour mild.",
+      "sporePrint": "Deposit pink to brownish pink. Spores smooth and ellipsoid; European descriptions give 6.5–10.5 × 4.5–7 µm.",
+      "habitat": "On decaying wood of broad-leaved trees, especially elm, maple, beech, poplar and willow, including dead parts of living trees, stumps and fallen trunks. Usually summer to autumn: June–September in Central Europe, July–November in Britain and Ireland. It is a wood saprotroph, not a parasite of healthy tissue.",
+      "uses": "Edible, but culinary assessments range from good to mediocre. Its scarcity and the risk of confusion with deadly volva-bearing mushrooms make collecting it for food inadvisable.",
+      "confusion": "Volvariella caesiotincta is smaller, with a greyish cap on rotten wood. Volvopluteus gloiocephalus has a smooth, sticky cap and usually grows on soil or compost, not trunks. Deadly Amanita phalloides and Amanita virosa have white gills and white spore deposits, usually a ring, and grow from soil; young white-gilled specimens require particular caution.",
+      "notes": "Retaining old trees and coarse dead wood preserves habitat. Norway's 2021 assessment rates it Near Threatened, a regional rather than global status.",
+      "label": "silky rosegill",
+      "names": [
+        "silky sheath",
+        "tree silksheath"
+      ],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/volvariella-bombycina.php",
+        "https://botany.cz/cs/volvariella-bombycina/",
+        "https://www.myko.cz/myko-atlas/Volvariella-bombycina/",
+        "https://en.wikipedia.org/wiki/Volvariella_bombycina",
+        "https://www.mushroomexpert.com/volvariella_bombycina.html",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/28791",
+        "https://redlist.info/iucn/species_view/307781/"
+      ]
+    },
+    "sk": {
+      "description": "Veľká saprotrofná huba rozkladajúca drevo listnatých stromov. Rastie jednotlivo alebo v malých skupinách v lesoch, parkoch a záhradách. Je široko rozšírená, ale zväčša nehojná; zaznamenaná je v Európe, Ázii, Afrike, Amerike a Austrálii. Plodnice môžu vyrastať z poranení alebo dutín stojacich stromov aj vysoko nad zemou.",
+      "cap": "Široký 5–20 cm, za mladi vajcovitý, neskôr zvoncovitý až široko klenutý alebo takmer plochý. Je suchý, biely až krémový, niekedy v strede žltnúci, s dlhými hodvábnymi vláknami, ktoré môžu presahovať okraj.",
+      "hymenium": "Lupene sú voľné, husté a široké, za mladi biele, neskôr ružové až hnedastoružové. Bazídiá sú štvorvýtrusné; pracky chýbajú.",
+      "stipe": "Dlhý 6–25 cm a hrubý 1–3 cm, biely až bledookrový, plný, hladký a často zakrivený, smerom nahor zúžený. Prsteň chýba. Bázu obklopuje veľká trváca blanitá pošva, spočiatku belavá, neskôr žltkastá až hnedá, často popraskaná alebo šupinatá.",
+      "flesh": "Biela, mäkká a krehká, na reze nemení farbu. Vôňa je slabá, niekedy reďkovková alebo zemitá; chuť mierna.",
+      "sporePrint": "Výtrusný prach je ružový až hnedastoružový. Výtrusy sú hladké a elipsoidné; európske opisy uvádzajú 6,5–10,5 × 4,5–7 µm.",
+      "habitat": "Na rozkladajúcom sa dreve listnáčov, najmä brestov, javorov, bukov, topoľov a vŕb, aj na odumretých častiach živých stromov, pňoch a padnutých kmeňoch. Zvyčajne od leta do jesene: v strednej Európe od júna do septembra, v Británii a Írsku od júla do novembra. Je saprotrofná, nie parazit zdravých pletív.",
+      "uses": "Jedlá, ale hodnotenia kuchynskej kvality siahajú od dobrej po priemernú. Pre nehojnosť a riziko zámeny so smrteľne jedovatými hubami s pošvou sa zber na jedlo neodporúča.",
+      "confusion": "Volvariella caesiotincta je menšia a má sivastý klobúk; rastie na práchnivom dreve. Volvopluteus gloiocephalus má hladký lepkavý klobúk a spravidla rastie na pôde alebo komposte, nie na kmeňoch. Smrteľne jedovaté Amanita phalloides a Amanita virosa majú biele lupene aj výtrusný prach, zvyčajne prsteň a rastú z pôdy; mladé plodnice s bielymi lupeňmi vyžadujú mimoriadnu opatrnosť.",
+      "notes": "Zachovanie starých stromov a hrubého mŕtveho dreva chráni stanovištia. Nórske hodnotenie z roku 2021 ju radí medzi takmer ohrozené druhy (Near Threatened); ide o regionálny, nie globálny stav.",
+      "label": "pošvovec stromový",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/volvariella-bombycina.php",
+        "https://botany.cz/cs/volvariella-bombycina/",
+        "https://www.myko.cz/myko-atlas/Volvariella-bombycina/",
+        "https://en.wikipedia.org/wiki/Volvariella_bombycina",
+        "https://www.mushroomexpert.com/volvariella_bombycina.html",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/28791",
+        "https://redlist.info/iucn/species_view/307781/",
+        "https://www.seredskenovinky.sk/clanok/2016-11-23-posvovec"
+      ]
+    },
+    "cs": {
+      "description": "Velká saprotrofní houba rozkládající dřevo listnatých stromů. Roste jednotlivě nebo v malých skupinách v lesích, parcích a zahradách. Je široce rozšířená, ale většinou nehojná; zaznamenána je v Evropě, Asii, Africe, Americe a Austrálii. Plodnice mohou vyrůstat z poranění nebo dutin stojících stromů i vysoko nad zemí.",
+      "cap": "Široký 5–20 cm, zpočátku vejčitý, později zvoncovitý až široce vyklenutý nebo téměř plochý. Je suchý, bílý až krémový, někdy uprostřed žloutnoucí, s dlouhými hedvábnými vlákny, která mohou přesahovat okraj.",
+      "hymenium": "Lupeny jsou volné, husté a široké, v mládí bílé, později růžové až hnědorůžové. Bazidie jsou čtyřvýtrusné; přezky chybějí.",
+      "stipe": "Dlouhý 6–25 cm a tlustý 1–3 cm, bílý až světle okrový, plný, hladký a často zahnutý, směrem vzhůru zúžený. Prsten chybí. Bázi obklopuje velká vytrvalá blanitá pochva, zprvu bělavá, později nažloutlá až hnědá, často rozpraskaná nebo šupinatá.",
+      "flesh": "Bílá, měkká a křehká, na řezu nemění barvu. Vůně je slabá, někdy ředkvová nebo zemitá; chuť mírná.",
+      "sporePrint": "Výtrusný prach je růžový až hnědorůžový. Výtrusy jsou hladké a elipsoidní; evropské popisy uvádějí 6,5–10,5 × 4,5–7 µm.",
+      "habitat": "Na rozkládajícím se dřevě listnáčů, zejména jilmů, javorů, buků, topolů a vrb, včetně odumřelých částí živých stromů, pařezů a padlých kmenů. Obvykle od léta do podzimu: ve střední Evropě od června do září, v Británii a Irsku od července do listopadu. Je dřevním saprotrofem, nikoli parazitem zdravých pletiv.",
+      "uses": "Jedlá, ale hodnocení kuchyňské kvality sahá od dobré po průměrnou. Pro nehojnost a riziko záměny se smrtelně jedovatými houbami s pochvou se sběr k jídlu nedoporučuje.",
+      "confusion": "Volvariella caesiotincta je menší, s našedlým kloboukem na trouchnivém dřevě. Volvopluteus gloiocephalus má hladký lepkavý klobouk a obvykle roste na půdě či kompostu, nikoli na kmenech. Smrtelně jedovaté Amanita phalloides a Amanita virosa mají bílé lupeny i výtrusný prach, zpravidla prsten a rostou z půdy; mladé plodnice s bílými lupeny vyžadují zvláštní opatrnost.",
+      "notes": "Zachování starých stromů a hrubého mrtvého dřeva chrání stanoviště. Norské hodnocení z roku 2021 ji řadí mezi téměř ohrožené druhy (Near Threatened); jde o regionální, nikoli globální stav.",
+      "label": "kukmák bělovlnný",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/volvariella-bombycina.php",
+        "https://botany.cz/cs/volvariella-bombycina/",
+        "https://www.myko.cz/myko-atlas/Volvariella-bombycina/",
+        "https://en.wikipedia.org/wiki/Volvariella_bombycina",
+        "https://www.mushroomexpert.com/volvariella_bombycina.html",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/28791",
+        "https://redlist.info/iucn/species_view/307781/"
+      ]
+    },
+    "pl": {
+      "description": "Duży grzyb saprotroficzny rozkładający drewno drzew liściastych, rosnący pojedynczo lub w małych grupach w lasach, parkach i ogrodach. Jest szeroko rozprzestrzeniony, lecz na ogół niezbyt częsty; notowany w Europie, Azji, Afryce, obu Amerykach i Australii. Owocniki mogą wyrastać z ran lub dziupli stojących drzew wysoko nad ziemią.",
+      "cap": "Średnica 5–20 cm, początkowo jajowaty, potem dzwonkowaty do szeroko wypukłego lub niemal płaskiego. Suchy, biały do kremowego, czasem żółknący w środku, pokryty długimi jedwabistymi włókienkami mogącymi zwisać poza brzeg.",
+      "hymenium": "Blaszki wolne, gęste i szerokie; początkowo białe, następnie różowe do brązoworóżowych. Podstawki czterozarodnikowe; sprzążek brak.",
+      "stipe": "Długość 6–25 cm, grubość 1–3 cm, biały do jasnoochrowego, pełny, gładki, często wygięty i zwężający się ku górze. Bez pierścienia. Nasadę otacza duża trwała błoniasta pochwa, początkowo biaława, później żółtawa do brązowej, często spękana lub łuskowata.",
+      "flesh": "Biały, miękki i kruchy, niezmienny po przekrojeniu. Zapach słaby, czasem rzodkiewkowy lub ziemisty; smak łagodny.",
+      "sporePrint": "Wysyp różowy do brązoworóżowego. Zarodniki gładkie, elipsoidalne; opisy europejskie podają 6,5–10,5 × 4,5–7 µm.",
+      "habitat": "Na rozkładającym się drewnie drzew liściastych, zwłaszcza wiązów, klonów, buków, topól i wierzb, także na martwych częściach żywych drzew, pniakach i powalonych pniach. Zwykle od lata do jesieni: w Europie Środkowej od czerwca do września, w Wielkiej Brytanii i Irlandii od lipca do listopada. Jest saprotrofem drewna, a nie pasożytem zdrowych tkanek.",
+      "uses": "Jadalny, ale oceny kulinarne wahają się od dobrych po przeciętne. Ze względu na rzadkość i ryzyko pomylenia ze śmiertelnie trującymi grzybami z pochwą zbieranie go do jedzenia jest niewskazane.",
+      "confusion": "Volvariella caesiotincta jest mniejsza, ma szarawy kapelusz i rośnie na próchniejącym drewnie. Volvopluteus gloiocephalus ma gładki lepki kapelusz i zwykle rośnie na ziemi lub kompoście, nie na pniach. Śmiertelnie trujące Amanita phalloides i Amanita virosa mają białe blaszki i biały wysyp, zwykle pierścień i wyrastają z gleby; młode okazy o białych blaszkach wymagają szczególnej ostrożności.",
+      "notes": "Zachowanie starych drzew i grubego martwego drewna chroni siedliska. Norweska ocena z 2021 roku zalicza gatunek do bliskich zagrożenia (Near Threatened); jest to status regionalny, nie globalny.",
+      "label": "pochwiak jedwabnikowy",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/volvariella-bombycina.php",
+        "https://botany.cz/cs/volvariella-bombycina/",
+        "https://www.myko.cz/myko-atlas/Volvariella-bombycina/",
+        "https://en.wikipedia.org/wiki/Volvariella_bombycina",
+        "https://www.mushroomexpert.com/volvariella_bombycina.html",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/28791",
+        "https://redlist.info/iucn/species_view/307781/",
+        "https://pl.wikipedia.org/wiki/Pochwiak_jedwabnikowy"
+      ]
+    },
+    "ru": {
+      "description": "Крупный сапротрофный гриб, разлагающий древесину лиственных деревьев и растущий одиночно или небольшими группами в лесах, парках и садах. Широко распространён, но обычно встречается нечасто; отмечен в Европе, Азии, Африке, обеих Америках и Австралии. Плодовые тела могут появляться в ранах и дуплах стоящих деревьев высоко над землёй.",
+      "cap": "Диаметром 5–20 cm, сначала яйцевидная, затем колокольчатая, широковыпуклая или почти плоская. Сухая, белая до кремовой, иногда желтеющая в центре, с длинными шелковистыми волокнами, которые могут свисать за край.",
+      "hymenium": "Пластинки свободные, частые и широкие; сначала белые, затем розовые до коричневато-розовых. Базидии четырёхспоровые; пряжки отсутствуют.",
+      "stipe": "Длиной 6–25 cm и толщиной 1–3 cm, белая до светло-охристой, сплошная, гладкая, часто изогнутая и суженная кверху. Кольца нет. Основание заключено в крупную стойкую плёнчатую вольву, сначала беловатую, затем желтоватую до коричневой, часто растрескавшуюся или чешуйчатую.",
+      "flesh": "Белая, мягкая и хрупкая, на срезе не меняется. Запах слабый, иногда редечный или землистый; вкус мягкий.",
+      "sporePrint": "Споровый порошок розовый до коричневато-розового. Споры гладкие, эллипсоидные; европейские описания указывают 6,5–10,5 × 4,5–7 µm.",
+      "habitat": "На разлагающейся древесине лиственных пород, особенно вяза, клёна, бука, тополя и ивы, включая мёртвые участки живых деревьев, пни и упавшие стволы. Обычно с лета до осени: июнь–сентябрь в Центральной Европе, июль–ноябрь в Британии и Ирландии. Это древесный сапротроф, а не паразит здоровых тканей.",
+      "uses": "Съедобен, но кулинарные оценки варьируют от хороших до посредственных. Из-за нечастой встречаемости и риска спутать его со смертельно ядовитыми грибами с вольвой сбор для еды не рекомендуется.",
+      "confusion": "Volvariella caesiotincta мельче, с сероватой шляпкой, растёт на гнилой древесине. Volvopluteus gloiocephalus имеет гладкую липкую шляпку и обычно растёт на почве или компосте, а не на стволах. Смертельно ядовитые Amanita phalloides и Amanita virosa имеют белые пластинки и белый споровый порошок, обычно кольцо и растут из почвы; молодые белопластинчатые экземпляры требуют особой осторожности.",
+      "notes": "Сохранение старых деревьев и крупной мёртвой древесины поддерживает местообитания. В норвежской оценке 2021 года вид отнесён к близким к уязвимому положению (Near Threatened); это региональный, а не глобальный статус.",
+      "label": "вольвариелла шелковистая",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/volvariella-bombycina.php",
+        "https://botany.cz/cs/volvariella-bombycina/",
+        "https://www.myko.cz/myko-atlas/Volvariella-bombycina/",
+        "https://en.wikipedia.org/wiki/Volvariella_bombycina",
+        "https://www.mushroomexpert.com/volvariella_bombycina.html",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/28791",
+        "https://redlist.info/iucn/species_view/307781/",
+        "https://ru.wikipedia.org/wiki/Вольвариелла_шелковистая"
+      ]
+    },
+    "uk": {
+      "description": "Великий сапротрофний гриб, що розкладає деревину листяних дерев і росте поодинці або невеликими групами в лісах, парках і садах. Широко розповсюджений, але зазвичай нечастий; відомий у Європі, Азії, Африці, обох Америках та Австралії. Плодові тіла можуть з'являтися в ранах і дуплах стоячих дерев високо над землею.",
+      "cap": "Діаметром 5–20 cm, спочатку яйцеподібна, згодом дзвоникоподібна, широкоопукла або майже плоска. Суха, біла до кремової, іноді жовтіє посередині, з довгими шовковистими волокнами, що можуть звисати за край.",
+      "hymenium": "Пластинки вільні, густі й широкі; спочатку білі, згодом рожеві до коричнювато-рожевих. Базидії чотириспорові; пряжок немає.",
+      "stipe": "Завдовжки 6–25 cm і завтовшки 1–3 cm, біла до світло-вохристої, суцільна, гладенька, часто зігнута, звужена догори. Кільця немає. Основу оточує велика стійка плівчаста вольва, спершу білувата, потім жовтувата до коричневої, часто потріскана або луската.",
+      "flesh": "Білий, м'який і крихкий, на зрізі не змінюється. Запах слабкий, іноді редьковий або землистий; смак м'який.",
+      "sporePrint": "Споровий порошок рожевий до коричнювато-рожевого. Спори гладенькі, еліпсоїдні; європейські описи наводять 6,5–10,5 × 4,5–7 µm.",
+      "habitat": "На деревині листяних порід, що розкладається, особливо в'яза, клена, бука, тополі та верби, включно з відмерлими частинами живих дерев, пнями й поваленими стовбурами. Зазвичай від літа до осені: червень–вересень у Центральній Європі, липень–листопад у Британії та Ірландії. Це деревний сапротроф, а не паразит здорових тканин.",
+      "uses": "Їстівний, але кулінарні оцінки коливаються від добрих до посередніх. Через нечасту появу та ризик сплутати зі смертельно отруйними грибами з вольвою збирати його для їжі не радять.",
+      "confusion": "Volvariella caesiotincta менша, із сіруватою шапинкою, росте на трухлявій деревині. Volvopluteus gloiocephalus має гладеньку липку шапинку й зазвичай росте на ґрунті або компості, а не на стовбурах. Смертельно отруйні Amanita phalloides і Amanita virosa мають білі пластинки й білий споровий порошок, зазвичай кільце та ростуть із ґрунту; молоді білопластинчасті екземпляри потребують особливої обережності.",
+      "notes": "Збереження старих дерев і грубої мертвої деревини підтримує оселища. Норвезька оцінка 2021 року відносить вид до близьких до загрозливого стану (Near Threatened); це регіональний, а не глобальний статус.",
+      "label": "вольваріелла шовковиста",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/volvariella-bombycina.php",
+        "https://botany.cz/cs/volvariella-bombycina/",
+        "https://www.myko.cz/myko-atlas/Volvariella-bombycina/",
+        "https://en.wikipedia.org/wiki/Volvariella_bombycina",
+        "https://www.mushroomexpert.com/volvariella_bombycina.html",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/28791",
+        "https://redlist.info/iucn/species_view/307781/",
+        "https://uk.wikipedia.org/wiki/Вольваріелла_шовковиста"
+      ]
+    },
+    "de": {
+      "description": "Ein großer saprotropher Pilz, der Laubholz zersetzt und einzeln oder in kleinen Gruppen in Wäldern, Parks und Gärten wächst. Er ist weit verbreitet, meist aber selten und aus Europa, Asien, Afrika, Amerika und Australien bekannt. Die Fruchtkörper können aus Wunden oder Höhlungen stehender Bäume hoch über dem Boden erscheinen.",
+      "cap": "5–20 cm breit, anfangs eiförmig, später glockig bis breit gewölbt oder fast flach. Trocken, weiß bis cremefarben, mitunter in der Mitte gilbend, mit langen seidigen Fasern, die über den Rand hinausragen können.",
+      "hymenium": "Lamellen frei, dicht und breit; jung weiß, später rosa bis bräunlich rosa. Basidien viersporig; Schnallen fehlen.",
+      "stipe": "6–25 cm lang und 1–3 cm dick, weiß bis blass ockerfarben, voll, glatt, oft gebogen und nach oben verjüngt. Ohne Ring. Die Basis steckt in einer großen, dauerhaften häutigen Volva, anfangs weißlich, später gelblich bis braun und oft rissig oder schuppig.",
+      "flesh": "Weiß, weich und brüchig, im Schnitt unveränderlich. Geruch schwach, gelegentlich rettichartig oder erdig; Geschmack mild.",
+      "sporePrint": "Sporenpulver rosa bis bräunlich rosa. Sporen glatt und ellipsoid; europäische Beschreibungen nennen 6,5–10,5 × 4,5–7 µm.",
+      "habitat": "Auf vermorschendem Laubholz, besonders von Ulme, Ahorn, Buche, Pappel und Weide, auch an abgestorbenen Teilen lebender Bäume, Stümpfen und liegenden Stämmen. Meist Sommer bis Herbst: Juni–September in Mitteleuropa, Juli–November in Großbritannien und Irland. Ein Holzsaprotroph, kein Parasit gesunden Gewebes.",
+      "uses": "Essbar, die kulinarischen Bewertungen reichen jedoch von gut bis mittelmäßig. Wegen der Seltenheit und der Verwechslungsgefahr mit tödlich giftigen Pilzen mit Volva ist vom Sammeln zum Verzehr abzuraten.",
+      "confusion": "Volvariella caesiotincta ist kleiner, mit gräulichem Hut auf morschem Holz. Volvopluteus gloiocephalus hat einen glatten klebrigen Hut und wächst meist auf Erde oder Kompost, nicht an Stämmen. Die tödlich giftigen Amanita phalloides und Amanita virosa haben weiße Lamellen und weißes Sporenpulver, meist einen Ring und wachsen aus dem Boden; junge weißblättrige Exemplare erfordern besondere Vorsicht.",
+      "notes": "Der Erhalt alter Bäume und starken Totholzes bewahrt Lebensräume. Die norwegische Bewertung von 2021 stuft die Art als potenziell gefährdet (Near Threatened) ein; dies ist ein regionaler, kein globaler Status.",
+      "label": "Wolliger Scheidling",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/volvariella-bombycina.php",
+        "https://botany.cz/cs/volvariella-bombycina/",
+        "https://www.myko.cz/myko-atlas/Volvariella-bombycina/",
+        "https://en.wikipedia.org/wiki/Volvariella_bombycina",
+        "https://www.mushroomexpert.com/volvariella_bombycina.html",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/28791",
+        "https://redlist.info/iucn/species_view/307781/",
+        "https://de.wikipedia.org/wiki/Wolliger_Scheidling"
+      ]
+    },
+    "fr": {
+      "description": "Un grand champignon saprotrophe qui décompose le bois de feuillus et pousse isolément ou en petits groupes dans les forêts, les parcs et les jardins. Il est largement répandu mais généralement peu fréquent, signalé en Europe, en Asie, en Afrique, dans les Amériques et en Australie. Les fructifications peuvent sortir de blessures ou de cavités d'arbres debout, bien au-dessus du sol.",
+      "cap": "Large de 5–20 cm, d'abord ovoïde, puis campanulé à largement convexe ou presque plat. Sec, blanc à crème, parfois jaunissant au centre, couvert de longues fibres soyeuses pouvant dépasser la marge.",
+      "hymenium": "Lames libres, serrées et larges, blanches dans la jeunesse puis roses à rose brunâtre. Basides tétrasporiques ; boucles de conjugaison absentes.",
+      "stipe": "Long de 6–25 cm et épais de 1–3 cm, blanc à ocre pâle, plein, lisse, souvent courbé et aminci vers le haut. Sans anneau. La base est enveloppée d'une grande volve membraneuse persistante, blanchâtre puis jaunâtre à brune, souvent craquelée ou écailleuse.",
+      "flesh": "Blanche, tendre et fragile, immuable à la coupe. Odeur faible, parfois de radis ou de terre ; saveur douce.",
+      "sporePrint": "Sporée rose à rose brunâtre. Spores lisses, ellipsoïdes ; les descriptions européennes indiquent 6,5–10,5 × 4,5–7 µm.",
+      "habitat": "Sur le bois de feuillus en décomposition, notamment ormes, érables, hêtres, peupliers et saules, y compris les parties mortes d'arbres vivants, les souches et les troncs tombés. Généralement de l'été à l'automne : juin–septembre en Europe centrale, juillet–novembre en Grande-Bretagne et en Irlande. Saprotrophe du bois, non parasite des tissus sains.",
+      "uses": "Comestible, mais sa valeur culinaire est jugée bonne à médiocre. Sa rareté et le risque de confusion avec des champignons mortels à volve rendent sa récolte alimentaire déconseillée.",
+      "confusion": "Volvariella caesiotincta est plus petite, à chapeau grisâtre, sur bois pourri. Volvopluteus gloiocephalus a un chapeau lisse et visqueux et pousse surtout sur le sol ou le compost, non sur les troncs. Amanita phalloides et Amanita virosa, mortelles, ont des lames et une sporée blanches, généralement un anneau, et poussent sur le sol ; les jeunes exemplaires à lames blanches demandent une vigilance particulière.",
+      "notes": "Conserver les vieux arbres et le gros bois mort préserve l'habitat. L'évaluation norvégienne de 2021 classe l'espèce quasi menacée (Near Threatened) ; ce statut est régional et non mondial.",
+      "label": "volvaire soyeuse",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/volvariella-bombycina.php",
+        "https://botany.cz/cs/volvariella-bombycina/",
+        "https://www.myko.cz/myko-atlas/Volvariella-bombycina/",
+        "https://en.wikipedia.org/wiki/Volvariella_bombycina",
+        "https://www.mushroomexpert.com/volvariella_bombycina.html",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/28791",
+        "https://redlist.info/iucn/species_view/307781/",
+        "https://gd.eppo.int/taxon/VOLLBO"
+      ]
+    },
+    "es": {
+      "description": "Un hongo saprótrofo grande que descompone madera de frondosas y crece aislado o en pequeños grupos en bosques, parques y jardines. Está ampliamente distribuido, aunque suele ser poco frecuente, y se ha citado en Europa, Asia, África, América y Australia. Los cuerpos fructíferos pueden surgir de heridas o cavidades de árboles en pie a bastante altura.",
+      "cap": "De 5–20 cm de anchura, al principio ovoide, después acampanado a ampliamente convexo o casi plano. Seco, blanco a crema, a veces amarillea en el centro, con largas fibras sedosas que pueden sobresalir del margen.",
+      "hymenium": "Láminas libres, apretadas y anchas; blancas al principio y luego rosas a pardo-rosadas. Basidios tetraspóricos; sin fíbulas.",
+      "stipe": "De 6–25 cm de largo y 1–3 cm de grosor, blanco a ocre pálido, macizo, liso, a menudo curvado y estrechado hacia arriba. Sin anillo. La base queda envuelta en una gran volva membranosa persistente, blanquecina al principio, luego amarillenta a parda y a menudo agrietada o escamosa.",
+      "flesh": "Blanca, blanda y frágil, sin cambios al corte. Olor débil, a veces a rábano o terroso; sabor suave.",
+      "sporePrint": "Esporada rosa a pardo-rosada. Esporas lisas y elipsoidales; las descripciones europeas dan 6,5–10,5 × 4,5–7 µm.",
+      "habitat": "En madera de frondosas en descomposición, especialmente olmos, arces, hayas, chopos y sauces, incluidas partes muertas de árboles vivos, tocones y troncos caídos. Normalmente de verano a otoño: junio–septiembre en Europa central, julio–noviembre en Gran Bretaña e Irlanda. Es un saprótrofo de la madera, no un parásito de tejidos sanos.",
+      "uses": "Comestible, aunque las valoraciones culinarias van de buenas a mediocres. Su escasez y el riesgo de confusión con hongos mortales provistos de volva desaconsejan recolectarlo para comer.",
+      "confusion": "Volvariella caesiotincta es menor, con sombrero grisáceo sobre madera podrida. Volvopluteus gloiocephalus tiene un sombrero liso y pegajoso y suele crecer en suelo o compost, no en troncos. Las mortales Amanita phalloides y Amanita virosa tienen láminas y esporada blancas, normalmente anillo, y crecen en el suelo; los ejemplares jóvenes de láminas blancas requieren especial cautela.",
+      "notes": "Conservar árboles viejos y madera muerta gruesa preserva su hábitat. La evaluación noruega de 2021 lo considera casi amenazado (Near Threatened); es un estado regional, no mundial.",
+      "label": "volvaria sedosa",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/volvariella-bombycina.php",
+        "https://botany.cz/cs/volvariella-bombycina/",
+        "https://www.myko.cz/myko-atlas/Volvariella-bombycina/",
+        "https://en.wikipedia.org/wiki/Volvariella_bombycina",
+        "https://www.mushroomexpert.com/volvariella_bombycina.html",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/28791",
+        "https://redlist.info/iucn/species_view/307781/",
+        "https://es.wikipedia.org/wiki/Volvariella_bombycina"
+      ]
+    },
+    "it": {
+      "description": "Un grande fungo saprotrofo che decompone il legno di latifoglie, crescendo isolato o in piccoli gruppi in boschi, parchi e giardini. È ampiamente diffuso ma generalmente poco comune, segnalato in Europa, Asia, Africa, nelle Americhe e in Australia. I corpi fruttiferi possono emergere da ferite o cavità di alberi in piedi, molto sopra il suolo.",
+      "cap": "Largo 5–20 cm, inizialmente ovoidale, poi campanulato, largamente convesso o quasi piano. Asciutto, bianco-crema, talvolta ingiallente al centro, con lunghe fibre sericee che possono oltrepassare il margine.",
+      "hymenium": "Lamelle libere, fitte e larghe; dapprima bianche, poi rosa fino a rosa-brunastro. Basidi tetrasporici; giunti a fibbia assenti.",
+      "stipe": "Lungo 6–25 cm e spesso 1–3 cm, bianco fino a ocra pallido, pieno, liscio, spesso curvo e assottigliato verso l'alto. Senza anello. La base è racchiusa in una grande volva membranosa persistente, dapprima biancastra, poi giallastra fino a bruna, spesso screpolata o squamosa.",
+      "flesh": "Bianca, tenera e fragile, immutabile al taglio. Odore debole, talvolta di ravanello o terroso; sapore mite.",
+      "sporePrint": "Sporata rosa fino a rosa-brunastro. Spore lisce ed ellissoidali; le descrizioni europee riportano 6,5–10,5 × 4,5–7 µm.",
+      "habitat": "Su legno di latifoglie in decomposizione, soprattutto olmi, aceri, faggi, pioppi e salici, comprese parti morte di alberi vivi, ceppaie e tronchi caduti. Di solito dall'estate all'autunno: giugno–settembre nell'Europa centrale, luglio–novembre in Gran Bretagna e Irlanda. È un saprotrofo del legno, non un parassita dei tessuti sani.",
+      "uses": "Commestibile, ma i giudizi culinari variano da buoni a mediocri. La scarsità e il rischio di confusione con funghi mortali provvisti di volva ne sconsigliano la raccolta alimentare.",
+      "confusion": "Volvariella caesiotincta è più piccola, con cappello grigiastro su legno marcio. Volvopluteus gloiocephalus ha cappello liscio e vischioso e cresce di solito sul terreno o sul compost, non sui tronchi. Le mortali Amanita phalloides e Amanita virosa hanno lamelle e sporata bianche, generalmente un anello, e crescono sul terreno; gli esemplari giovani a lamelle bianche richiedono particolare cautela.",
+      "notes": "Conservare vecchi alberi e legno morto di grandi dimensioni preserva l'habitat. La valutazione norvegese del 2021 considera la specie prossima alla minaccia (Near Threatened); si tratta di uno stato regionale, non globale.",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/volvariella-bombycina.php",
+        "https://botany.cz/cs/volvariella-bombycina/",
+        "https://www.myko.cz/myko-atlas/Volvariella-bombycina/",
+        "https://en.wikipedia.org/wiki/Volvariella_bombycina",
+        "https://www.mushroomexpert.com/volvariella_bombycina.html",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/28791",
+        "https://redlist.info/iucn/species_view/307781/"
+      ]
+    },
+    "pt": {
+      "description": "Um grande fungo saprotrófico que decompõe madeira de folhosas, crescendo isolado ou em pequenos grupos em florestas, parques e jardins. Tem ampla distribuição, mas é geralmente pouco frequente, com registos na Europa, Ásia, África, Américas e Austrália. Os corpos frutíferos podem surgir de feridas ou cavidades de árvores em pé, bastante acima do solo.",
+      "cap": "Com 5–20 cm de largura, inicialmente ovoide, tornando-se campanulado a amplamente convexo ou quase plano. Seco, branco a creme, por vezes amarelecendo no centro, com fibras sedosas compridas que podem ultrapassar a margem.",
+      "hymenium": "Lamelas livres, apertadas e largas; brancas de início, depois rosadas a castanho-rosadas. Basídios tetraspóricos; sem fíbulas.",
+      "stipe": "Com 6–25 cm de comprimento e 1–3 cm de espessura, branco a ocre-pálido, maciço, liso, frequentemente curvo e estreitando para cima. Sem anel. A base está envolvida por uma grande volva membranosa persistente, inicialmente esbranquiçada, depois amarelada a castanha, muitas vezes gretada ou escamosa.",
+      "flesh": "Branca, macia e frágil, sem alteração ao corte. Odor ténue, por vezes a rabanete ou terroso; sabor suave.",
+      "sporePrint": "Esporada rosada a castanho-rosada. Esporos lisos e elipsoidais; as descrições europeias indicam 6,5–10,5 × 4,5–7 µm.",
+      "habitat": "Em madeira de folhosas em decomposição, sobretudo ulmeiros, bordos, faias, choupos e salgueiros, incluindo partes mortas de árvores vivas, cepos e troncos caídos. Geralmente do verão ao outono: junho–setembro na Europa Central, julho–novembro na Grã-Bretanha e Irlanda. É saprotrófico da madeira, não parasita tecidos saudáveis.",
+      "uses": "Comestível, mas as apreciações culinárias variam de boas a medíocres. A escassez e o risco de confusão com fungos mortais com volva desaconselham a colheita para consumo.",
+      "confusion": "Volvariella caesiotincta é menor, com chapéu acinzentado sobre madeira podre. Volvopluteus gloiocephalus tem chapéu liso e pegajoso e cresce geralmente no solo ou em composto, não em troncos. As mortais Amanita phalloides e Amanita virosa têm lamelas e esporada brancas, habitualmente anel, e crescem no solo; os exemplares jovens de lamelas brancas exigem especial cautela.",
+      "notes": "Conservar árvores velhas e madeira morta grossa preserva o habitat. A avaliação norueguesa de 2021 classifica a espécie como quase ameaçada (Near Threatened); é um estatuto regional, não global.",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/volvariella-bombycina.php",
+        "https://botany.cz/cs/volvariella-bombycina/",
+        "https://www.myko.cz/myko-atlas/Volvariella-bombycina/",
+        "https://en.wikipedia.org/wiki/Volvariella_bombycina",
+        "https://www.mushroomexpert.com/volvariella_bombycina.html",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/28791",
+        "https://redlist.info/iucn/species_view/307781/"
+      ]
+    },
+    "nl": {
+      "description": "Een grote saprotrofe paddenstoel die loofhout afbreekt en alleen of in kleine groepen in bossen, parken en tuinen groeit. De soort is wijdverspreid maar doorgaans niet algemeen, met meldingen uit Europa, Azië, Afrika, beide Amerika's en Australië. Vruchtlichamen kunnen hoog boven de grond uit wonden of holten van staande bomen verschijnen.",
+      "cap": "5–20 cm breed, eerst eivormig, later klokvormig tot breed gewelfd of bijna vlak. Droog, wit tot crèmekleurig, soms vergelend in het midden, met lange zijdeachtige vezels die over de rand kunnen hangen.",
+      "hymenium": "Lamellen vrij, dicht opeen en breed; jong wit, later roze tot bruinroze. Basidiën viersporig; gespen ontbreken.",
+      "stipe": "6–25 cm lang en 1–3 cm dik, wit tot bleek oker, vol, glad, vaak gebogen en naar boven versmald. Geen ring. De voet zit in een grote blijvende vliezige beurs, eerst wittig, later gelig tot bruin en vaak gebarsten of schubbig.",
+      "flesh": "Wit, zacht en broos, niet verkleurend bij doorsnijden. Geur zwak, soms radijsachtig of aards; smaak mild.",
+      "sporePrint": "Sporenpoeder roze tot bruinroze. Sporen glad en ellipsoïd; Europese beschrijvingen geven 6,5–10,5 × 4,5–7 µm.",
+      "habitat": "Op verterend loofhout, vooral iep, esdoorn, beuk, populier en wilg, ook op dode delen van levende bomen, stronken en gevallen stammen. Gewoonlijk zomer tot herfst: juni–september in Midden-Europa, juli–november in Groot-Brittannië en Ierland. Een houtsaprotroof, geen parasiet van gezond weefsel.",
+      "uses": "Eetbaar, maar de culinaire waardering loopt uiteen van goed tot matig. Door de schaarste en het gevaar voor verwisseling met dodelijk giftige paddenstoelen met een beurs is verzamelen voor consumptie af te raden.",
+      "confusion": "Volvariella caesiotincta is kleiner, met een grijzige hoed op vermolmd hout. Volvopluteus gloiocephalus heeft een gladde kleverige hoed en groeit meestal op aarde of compost, niet op stammen. De dodelijk giftige Amanita phalloides en Amanita virosa hebben witte lamellen en wit sporenpoeder, doorgaans een ring, en groeien uit de grond; jonge witlamellige exemplaren vereisen extra voorzichtigheid.",
+      "notes": "Behoud van oude bomen en dik dood hout beschermt het leefgebied. De Noorse beoordeling van 2021 noemt de soort bijna bedreigd (Near Threatened); dit is een regionale, geen wereldwijde status.",
+      "label": "Zijdeachtige beurszwam",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/volvariella-bombycina.php",
+        "https://botany.cz/cs/volvariella-bombycina/",
+        "https://www.myko.cz/myko-atlas/Volvariella-bombycina/",
+        "https://en.wikipedia.org/wiki/Volvariella_bombycina",
+        "https://www.mushroomexpert.com/volvariella_bombycina.html",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/28791",
+        "https://redlist.info/iucn/species_view/307781/",
+        "https://www.verspreidingsatlas.nl/0141010"
+      ]
+    },
+    "no": {
+      "description": "En stor saprotrof sopp som bryter ned løvved og vokser enkeltvis eller i små grupper i skog, parker og hager. Den er vidt utbredt, men vanligvis uvanlig, med funn fra Europa, Asia, Afrika, Amerika og Australia. Fruktlegemer kan komme fra sår eller hulrom høyt over bakken på stående trær.",
+      "cap": "5–20 cm bred, først eggformet, senere klokkeformet til bredt hvelvet eller nesten flat. Tørr, hvit til kremfarget, av og til gulnende i midten, med lange silkefibre som kan henge utover kanten.",
+      "hymenium": "Skivene er frie, tette og brede; først hvite, senere rosa til brunrosa. Basidiene er firesporede; bøyler mangler.",
+      "stipe": "6–25 cm lang og 1–3 cm tykk, hvit til blekt okerfarget, massiv, glatt, ofte bøyd og avsmalnende oppover. Uten ring. Basis omsluttes av en stor, varig, hinneaktig slire, først hvitaktig, senere gulaktig til brun, ofte oppsprukket eller skjellet.",
+      "flesh": "Hvitt, mykt og skjørt, uten fargeendring ved snitt. Svak lukt, noen ganger reddikaktig eller jordaktig; mild smak.",
+      "sporePrint": "Sporepulver rosa til brunrosa. Sporene er glatte og ellipsoide; europeiske beskrivelser oppgir 6,5–10,5 × 4,5–7 µm.",
+      "habitat": "På råtnende løvved, særlig alm, lønn, bøk, osp eller andre popler og selje eller andre vierarter, også døde deler av levende trær, stubber og falne stammer. Vanligvis sommer til høst: juni–september i Mellom-Europa, juli–november i Storbritannia og Irland. En vedsaprotrof, ikke en parasitt på friskt vev.",
+      "uses": "Spiselig, men den kulinariske vurderingen varierer fra god til middelmådig. Sjeldenheten og faren for forveksling med dødelig giftige sopper med slire gjør sanking til mat lite tilrådelig.",
+      "confusion": "Volvariella caesiotincta er mindre, med gråaktig hatt på råtten ved. Volvopluteus gloiocephalus har glatt, klebrig hatt og vokser vanligvis på jord eller kompost, ikke på stammer. De dødelig giftige Amanita phalloides og Amanita virosa har hvite skiver og hvitt sporepulver, vanligvis ring, og vokser fra bakken; unge hvitskivede eksemplarer krever særlig varsomhet.",
+      "notes": "Bevaring av gamle trær og grov død ved tar vare på leveområdene. Den norske vurderingen fra 2021 setter arten til nær truet (Near Threatened); dette er en regional, ikke global status.",
+      "label": "stor sliresopp",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/volvariella-bombycina.php",
+        "https://botany.cz/cs/volvariella-bombycina/",
+        "https://www.myko.cz/myko-atlas/Volvariella-bombycina/",
+        "https://en.wikipedia.org/wiki/Volvariella_bombycina",
+        "https://www.mushroomexpert.com/volvariella_bombycina.html",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/28791",
+        "https://redlist.info/iucn/species_view/307781/"
+      ]
+    },
+    "da": {
+      "description": "En stor saprotrof svamp, som nedbryder løvtræ og vokser enkeltvis eller i små grupper i skove, parker og haver. Den er vidt udbredt, men som regel ikke almindelig, og kendes fra Europa, Asien, Afrika, Amerika og Australien. Frugtlegemer kan komme fra sår eller hulheder højt over jorden på stående træer.",
+      "cap": "5–20 cm bred, først ægformet, senere klokkeformet til bredt hvælvet eller næsten flad. Tør, hvid til cremefarvet, undertiden gulnende i midten, med lange silkefibre, der kan hænge ud over randen.",
+      "hymenium": "Lameller frie, tætte og brede; først hvide, senere rosa til brunrosa. Basidier firesporede; øskner mangler.",
+      "stipe": "6–25 cm lang og 1–3 cm tyk, hvid til blegt okkerfarvet, massiv, glat, ofte krummet og tilspidset opefter. Uden ring. Basis er omgivet af en stor, blivende, hindeagtig pose, først hvidlig, senere gullig til brun, ofte sprækket eller skællet.",
+      "flesh": "Hvidt, blødt og skørt, uden farveændring ved snit. Svag lugt, undertiden radiseagtig eller jordagtig; mild smag.",
+      "sporePrint": "Sporestøv rosa til brunrosa. Sporer glatte og ellipsoidiske; europæiske beskrivelser angiver 6,5–10,5 × 4,5–7 µm.",
+      "habitat": "På nedbrudt løvtræ, især elm, løn, bøg, poppel og pil, også på døde dele af levende træer, stubbe og væltede stammer. Oftest sommer til efterår: juni–september i Centraleuropa, juli–november i Storbritannien og Irland. En vedsaprotrof, ikke en parasit på sundt væv.",
+      "uses": "Spiselig, men den kulinariske vurdering spænder fra god til middelmådig. Dens sjældenhed og risikoen for forveksling med dødeligt giftige svampe med pose gør indsamling til mad utilrådelig.",
+      "confusion": "Volvariella caesiotincta er mindre, med grålig hat på råddent træ. Volvopluteus gloiocephalus har glat, klæbrig hat og vokser sædvanligvis på jord eller kompost, ikke på stammer. De dødeligt giftige Amanita phalloides og Amanita virosa har hvide lameller og hvidt sporestøv, normalt ring, og vokser fra jorden; unge eksemplarer med hvide lameller kræver særlig forsigtighed.",
+      "notes": "Bevarelse af gamle træer og groft dødt ved beskytter levestederne. Den norske vurdering fra 2021 betegner arten som næsten truet (Near Threatened); status er regional, ikke global.",
+      "label": "silkehåret posesvamp",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/volvariella-bombycina.php",
+        "https://botany.cz/cs/volvariella-bombycina/",
+        "https://www.myko.cz/myko-atlas/Volvariella-bombycina/",
+        "https://en.wikipedia.org/wiki/Volvariella_bombycina",
+        "https://www.mushroomexpert.com/volvariella_bombycina.html",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/28791",
+        "https://redlist.info/iucn/species_view/307781/"
+      ]
+    },
+    "sv": {
+      "description": "En stor saprotrof svamp som bryter ned lövved och växer ensam eller i små grupper i skogar, parker och trädgårdar. Den är vitt spridd men vanligen ovanlig och rapporterad från Europa, Asien, Afrika, Amerika och Australien. Fruktkroppar kan komma ur sår eller håligheter högt över marken på stående träd.",
+      "cap": "5–20 cm bred, först äggformad, sedan klockformad till brett välvd eller nästan plan. Torr, vit till gräddfärgad, ibland gulnande i mitten, med långa silkesfibrer som kan hänga över kanten.",
+      "hymenium": "Skivorna är fria, täta och breda; först vita, senare rosa till brunrosa. Basidierna är fyrsporiga; söljor saknas.",
+      "stipe": "6–25 cm lång och 1–3 cm tjock, vit till blekt ockrafärgad, kompakt, slät, ofta böjd och avsmalnande uppåt. Utan ring. Basen omsluts av en stor, bestående, hinnartad slida, först vitaktig, senare gulaktig till brun, ofta sprucken eller fjällig.",
+      "flesh": "Vitt, mjukt och skört, utan färgförändring vid snitt. Svag lukt, ibland rättikliknande eller jordig; mild smak.",
+      "sporePrint": "Sporpulver rosa till brunrosa. Sporerna är släta och ellipsoida; europeiska beskrivningar anger 6,5–10,5 × 4,5–7 µm.",
+      "habitat": "På murken lövved, särskilt alm, lönn, bok, poppel och vide, även döda delar av levande träd, stubbar och fallna stammar. Vanligen sommar till höst: juni–september i Centraleuropa, juli–november i Storbritannien och Irland. En vedsaprotrof, inte en parasit på frisk vävnad.",
+      "uses": "Ätlig, men de kulinariska omdömena varierar från god till medelmåttig. Dess ovanlighet och risken för förväxling med dödligt giftiga svampar med slida gör insamling till mat olämplig.",
+      "confusion": "Volvariella caesiotincta är mindre, med gråaktig hatt på murken ved. Volvopluteus gloiocephalus har slät, klibbig hatt och växer oftast på jord eller kompost, inte på stammar. De dödligt giftiga Amanita phalloides och Amanita virosa har vita skivor och vitt sporpulver, vanligtvis ring, och växer ur marken; unga vitskiviga exemplar kräver särskild försiktighet.",
+      "notes": "Bevarande av gamla träd och grov död ved skyddar livsmiljön. Den norska bedömningen från 2021 klassar arten som nära hotad (Near Threatened); detta är en regional, inte global status.",
+      "label": "silkesslidskivling",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/volvariella-bombycina.php",
+        "https://botany.cz/cs/volvariella-bombycina/",
+        "https://www.myko.cz/myko-atlas/Volvariella-bombycina/",
+        "https://en.wikipedia.org/wiki/Volvariella_bombycina",
+        "https://www.mushroomexpert.com/volvariella_bombycina.html",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/28791",
+        "https://redlist.info/iucn/species_view/307781/",
+        "https://laji.fi/taxon/MX.72132"
+      ]
+    },
+    "fi": {
+      "description": "Suuri lehtipuuta hajottava lahottajasieni, joka kasvaa yksittäin tai pieninä ryhminä metsissä, puistoissa ja puutarhoissa. Se on laajalle levinnyt mutta yleensä melko harvinainen, ja sitä on ilmoitettu Euroopasta, Aasiasta, Afrikasta, Amerikasta ja Australiasta. Itiöemiä voi ilmestyä pystypuiden haavoihin tai onkaloihin korkealle maanpinnan yläpuolelle.",
+      "cap": "5–20 cm leveä, aluksi munanmuotoinen, myöhemmin kellomainen, laakean kupera tai lähes laakea. Kuiva, valkoinen tai kermanvärinen, joskus keskeltä kellastuva, pitkien silkkimäisten kuitujen peittämä; kuidut voivat ulottua reunan yli.",
+      "hymenium": "Heltat ovat irtotyviset, tiheät ja leveät; aluksi valkoiset, myöhemmin vaaleanpunaiset tai ruskeanpunertavat. Basidiot ovat nelitiöisiä; sinkilöitä ei ole.",
+      "stipe": "6–25 cm pitkä ja 1–3 cm paksu, valkoinen tai vaaleanokranvärinen, täyteinen, sileä, usein kaareva ja ylöspäin kapeneva. Rengas puuttuu. Tyveä ympäröi suuri pysyvä kalvomainen tuppi, aluksi valkeahko, myöhemmin kellertävä tai ruskea, usein halkeileva tai suomuinen.",
+      "flesh": "Valkoinen, pehmeä ja hauras, ei muuta väriä leikattaessa. Haju heikko, joskus retiisimäinen tai multainen; maku mieto.",
+      "sporePrint": "Itiöpöly vaaleanpunainen tai ruskeanpunertava. Itiöt sileitä ja ellipsoidisia; eurooppalaisissa kuvauksissa koko on 6,5–10,5 × 4,5–7 µm.",
+      "habitat": "Lahoavalla lehtipuulla, etenkin jalavalla, vaahteralla, pyökillä, poppelilla ja pajulla, myös elävien puiden kuolleissa osissa, kannoilla ja kaatuneilla rungoilla. Tavallisesti kesästä syksyyn: Keski-Euroopassa kesä–syyskuussa, Britanniassa ja Irlannissa heinä–marraskuussa. Puun lahottaja, ei terveen kudoksen loinen.",
+      "uses": "Syötävä, mutta ruoka-arvoa on arvioitu hyvästä keskinkertaiseksi. Harvinaisuuden ja hengenvaarallisiin tupellisiin sieniin sekoittamisen riskin vuoksi keräämistä ruoaksi ei suositella.",
+      "confusion": "Volvariella caesiotincta on pienempi, harmahtavalakkinen ja kasvaa laholla puulla. Volvopluteus gloiocephalus on sileä- ja tahmealakkinen ja kasvaa yleensä maalla tai kompostissa, ei rungoilla. Tappavan myrkyllisillä Amanita phalloides ja Amanita virosa -lajeilla heltat ja itiöpöly ovat valkoiset, niillä on yleensä rengas ja ne kasvavat maasta; nuorten valkohelttaisten yksilöiden kanssa on oltava erityisen varovainen.",
+      "notes": "Vanhojen puiden ja järeän lahopuun säilyttäminen turvaa elinympäristön. Norjan vuoden 2021 arvioinnissa laji on silmälläpidettävä (Near Threatened); luokitus on alueellinen eikä maailmanlaajuinen.",
+      "label": "silkkituppisieni",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/volvariella-bombycina.php",
+        "https://botany.cz/cs/volvariella-bombycina/",
+        "https://www.myko.cz/myko-atlas/Volvariella-bombycina/",
+        "https://en.wikipedia.org/wiki/Volvariella_bombycina",
+        "https://www.mushroomexpert.com/volvariella_bombycina.html",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/28791",
+        "https://redlist.info/iucn/species_view/307781/",
+        "https://laji.fi/taxon/MX.72132"
+      ]
+    },
+    "et": {
+      "description": "Suur lehtpuitu lagundav saprotroofne seen, mis kasvab üksikult või väikeste rühmadena metsades, parkides ja aedades. Ta on laialt levinud, kuid enamasti harv, teada Euroopast, Aasiast, Aafrikast, Ameerikast ja Austraaliast. Viljakehad võivad ilmuda seisvate puude haavades või õõnsustes kõrgel maapinnast.",
+      "cap": "5–20 cm lai, algul munajas, hiljem kellukjas kuni laialt kumer või peaaegu lame. Kuiv, valge kuni kreemikas, vahel keskelt kolletuv, pikkade siidjate kiududega, mis võivad ulatuda üle serva.",
+      "hymenium": "Eoslehekesed on vabad, tihedad ja laiad; algul valged, hiljem roosad kuni pruunikasroosad. Basiidid on neljaeoselised; pandlad puuduvad.",
+      "stipe": "6–25 cm pikk ja 1–3 cm jäme, valge kuni kahvatu ookerjas, täis, sile, sageli kõver ja ülespoole ahenev. Rõngas puudub. Alust ümbritseb suur püsiv kilejas tupp, algul valkjas, hiljem kollakas kuni pruun, sageli lõhenenud või soomuseline.",
+      "flesh": "Valge, pehme ja habras, lõikamisel värvust ei muuda. Lõhn nõrk, mõnikord redise- või mullalõhnaline; maitse mahe.",
+      "sporePrint": "Eospulber roosa kuni pruunikasroosa. Eosed siledad ja ellipsoidsed; Euroopa kirjeldustes 6,5–10,5 × 4,5–7 µm.",
+      "habitat": "Kõduneval lehtpuidul, eriti jalakal, vahtral, pöögil, paplil ja pajul, ka elusate puude surnud osadel, kändudel ja langenud tüvedel. Tavaliselt suvest sügiseni: Kesk-Euroopas juuni–september, Suurbritannias ja Iirimaal juuli–november. Puidusaprotroof, mitte terve koe parasiit.",
+      "uses": "Söödav, kuid kulinaarsed hinnangud ulatuvad heast keskpäraseni. Harulduse ja surmavalt mürgiste tupega seentega segiajamise ohu tõttu ei ole toiduks korjamine soovitatav.",
+      "confusion": "Volvariella caesiotincta on väiksem, hallika kübaraga ja kasvab pehkinud puidul. Volvopluteus gloiocephalus on sileda kleepuva kübaraga ning kasvab enamasti mullal või kompostil, mitte tüvedel. Surmavalt mürgistel Amanita phalloides ja Amanita virosa on valged eoslehekesed ja valge eospulber, tavaliselt rõngas ning nad kasvavad mullast; noorte valgelehekeliste viljakehade puhul tuleb olla eriti ettevaatlik.",
+      "notes": "Vanade puude ja jämeda surnud puidu säilitamine hoiab kasvupaiku. Norra 2021. aasta hinnangus on liik ohulähedane (Near Threatened); see on piirkondlik, mitte üleilmne staatus.",
+      "label": "puidu-tupplehik",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/volvariella-bombycina.php",
+        "https://botany.cz/cs/volvariella-bombycina/",
+        "https://www.myko.cz/myko-atlas/Volvariella-bombycina/",
+        "https://en.wikipedia.org/wiki/Volvariella_bombycina",
+        "https://www.mushroomexpert.com/volvariella_bombycina.html",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/28791",
+        "https://redlist.info/iucn/species_view/307781/",
+        "https://et.wikipedia.org/wiki/Puidu-tupplehik"
+      ]
+    },
+    "lv": {
+      "description": "Liela saprotrofa sēne, kas noārda lapu koku koksni un aug pa vienai vai nelielās grupās mežos, parkos un dārzos. Plaši izplatīta, tomēr parasti nav bieža; zināma Eiropā, Āzijā, Āfrikā, Amerikā un Austrālijā. Augļķermeņi var parādīties stāvošu koku brūcēs vai dobumos augstu virs zemes.",
+      "cap": "5–20 cm plata, sākumā olveidīga, vēlāk zvanveidīga līdz plaši izliekta vai gandrīz plakana. Sausa, balta līdz krēmkrāsai, reizēm centrā dzeltējoša, ar garām zīdainām šķiedrām, kas var pārkārties pāri malai.",
+      "hymenium": "Lapiņas brīvas, ciešas un platas; sākumā baltas, vēlāk rozā līdz brūngani rozā. Bazīdijas četrsporainas; sprādžu nav.",
+      "stipe": "6–25 cm garš un 1–3 cm resns, balts līdz gaiši okerdzeltenam, pilns, gluds, bieži izliekts un uz augšu sašaurināts. Bez gredzena. Pamatni apņem liela paliekoša plēvaina maksts, sākumā bālgana, vēlāk dzeltenīga līdz brūna, bieži saplaisājusi vai zvīņaina.",
+      "flesh": "Balts, mīksts un trausls, griezumā nemainās. Smarža vāja, dažreiz redīsu vai zemes; garša maiga.",
+      "sporePrint": "Sporu masa rozā līdz brūngani rozā. Sporas gludas, elipsoidālas; Eiropas aprakstos 6,5–10,5 × 4,5–7 µm.",
+      "habitat": "Uz trūdošas lapu koku koksnes, īpaši gobām, kļavām, dižskābaržiem, papelēm un vītoliem, arī dzīvu koku atmirušajās daļās, uz celmiem un kritušiem stumbriem. Parasti no vasaras līdz rudenim: Centrāleiropā jūnijs–septembris, Lielbritānijā un Īrijā jūlijs–novembris. Koksnes saprotrofs, nevis veselu audu parazīts.",
+      "uses": "Ēdama, bet kulinārais vērtējums svārstās no laba līdz viduvējam. Retuma un sajaukšanas riska ar nāvējoši indīgām makstainām sēnēm dēļ ievākt pārtikai nav ieteicams.",
+      "confusion": "Volvariella caesiotincta ir mazāka, ar pelēcīgu cepurīti uz satrupējušas koksnes. Volvopluteus gloiocephalus ir gluda, lipīga cepurīte, un tā parasti aug augsnē vai kompostā, nevis uz stumbriem. Nāvējoši indīgajām Amanita phalloides un Amanita virosa ir baltas lapiņas un balta sporu masa, parasti gredzens, un tās aug augsnē; jauniem eksemplāriem ar baltām lapiņām nepieciešama īpaša piesardzība.",
+      "notes": "Vecu koku un lielu atmirušas koksnes gabalu saglabāšana uztur dzīvotni. Norvēģijas 2021. gada vērtējumā suga ir gandrīz apdraudēta (Near Threatened); tas ir reģionāls, nevis globāls statuss.",
+      "label": "zīdainā makstaine",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/volvariella-bombycina.php",
+        "https://botany.cz/cs/volvariella-bombycina/",
+        "https://www.myko.cz/myko-atlas/Volvariella-bombycina/",
+        "https://en.wikipedia.org/wiki/Volvariella_bombycina",
+        "https://www.mushroomexpert.com/volvariella_bombycina.html",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/28791",
+        "https://redlist.info/iucn/species_view/307781/",
+        "https://lv.wikipedia.org/wiki/Zīdainā_makstaine"
+      ]
+    },
+    "lt": {
+      "description": "Stambus saprotrofinis grybas, ardantis lapuočių medieną ir augantis pavieniui arba mažomis grupėmis miškuose, parkuose bei soduose. Plačiai paplitęs, tačiau paprastai nedažnas; žinomas Europoje, Azijoje, Afrikoje, Amerikoje ir Australijoje. Vaisiakūniai gali pasirodyti stovinčių medžių žaizdose ar drevėse aukštai virš žemės.",
+      "cap": "5–20 cm pločio, iš pradžių kiaušiniška, vėliau varpiška, plačiai iškili arba beveik plokščia. Sausa, balta iki kreminės, kartais centre gelstanti, su ilgomis šilkinėmis skaidulomis, galinčiomis nusvirti už krašto.",
+      "hymenium": "Lakšteliai laisvi, tankūs ir platūs; jauni balti, vėliau rausvi iki rusvai rausvų. Bazidijos ketursporės; sagčių nėra.",
+      "stipe": "6–25 cm ilgio ir 1–3 cm storio, baltas iki blyškiai ochrinio, pilnaviduris, lygus, dažnai išlinkęs ir į viršų siaurėjantis. Be žiedo. Pamatą gaubia didelė išliekanti plėvinė išnara, iš pradžių balkšva, vėliau gelsva iki rudos, dažnai sutrūkinėjusi ar žvynuota.",
+      "flesh": "Baltas, minkštas ir trapus, perpjautas spalvos nekeičia. Kvapas silpnas, kartais ridikėlių ar žemės; skonis švelnus.",
+      "sporePrint": "Sporų atspaudas rausvas iki rusvai rausvo. Sporos lygios, elipsoidinės; Europos aprašymuose nurodoma 6,5–10,5 × 4,5–7 µm.",
+      "habitat": "Ant pūvančios lapuočių medienos, ypač guobų, klevų, bukų, tuopų ir gluosnių, įskaitant negyvas gyvų medžių dalis, kelmus ir nuvirtusius kamienus. Paprastai nuo vasaros iki rudens: Vidurio Europoje birželį–rugsėjį, Britanijoje ir Airijoje liepą–lapkritį. Medienos saprotrofas, o ne sveikų audinių parazitas.",
+      "uses": "Valgomas, tačiau kulinarinis vertinimas svyruoja nuo gero iki vidutiniško. Dėl retumo ir rizikos supainioti su mirtinai nuodingais grybais su išnara rinkti maistui nepatartina.",
+      "confusion": "Volvariella caesiotincta mažesnė, pilkšva kepurėle, auga ant supuvusios medienos. Volvopluteus gloiocephalus turi lygią lipnią kepurėlę ir paprastai auga dirvoje ar komposte, ne ant kamienų. Mirtinai nuodingos Amanita phalloides ir Amanita virosa turi baltus lakštelius ir baltą sporų atspaudą, dažniausiai žiedą, auga iš dirvos; jauni baltais lakšteliais egzemplioriai reikalauja ypatingo atsargumo.",
+      "notes": "Senų medžių ir stambios negyvos medienos išsaugojimas padeda išlaikyti buveines. Norvegijos 2021 m. vertinime rūšis priskirta arti grėsmės esančioms (Near Threatened); tai regioninė, o ne pasaulinė būklė.",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/volvariella-bombycina.php",
+        "https://botany.cz/cs/volvariella-bombycina/",
+        "https://www.myko.cz/myko-atlas/Volvariella-bombycina/",
+        "https://en.wikipedia.org/wiki/Volvariella_bombycina",
+        "https://www.mushroomexpert.com/volvariella_bombycina.html",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/28791",
+        "https://redlist.info/iucn/species_view/307781/"
+      ]
+    },
+    "bg": {
+      "description": "Едра сапротрофна гъба, която разгражда дървесина от широколистни дървета и расте поединично или на малки групи в гори, паркове и градини. Широко разпространена, но обикновено рядка; известна е от Европа, Азия, Африка, двете Америки и Австралия. Плодните тела могат да излизат от рани или хралупи на стоящи дървета високо над земята.",
+      "cap": "Широка 5–20 cm, първоначално яйцевидна, после камбановидна до широко изпъкнала или почти плоска. Суха, бяла до кремава, понякога пожълтява в центъра, с дълги копринени влакна, които може да надвисват над ръба.",
+      "hymenium": "Ламелите са свободни, гъсти и широки; отначало бели, после розови до кафеникаворозови. Базидиите са четириспорови; катарами липсват.",
+      "stipe": "Дълго 6–25 cm и дебело 1–3 cm, бяло до бледоохрено, плътно, гладко, често извито и стесняващо се нагоре. Без пръстен. Основата е обвита в голяма трайна ципеста волва, отначало белезникава, после жълтеникава до кафява, често напукана или люспеста.",
+      "flesh": "Бяло, меко и крехко, не променя цвета си при разрязване. Миризмата е слаба, понякога на репички или пръст; вкусът е мек.",
+      "sporePrint": "Споровият прашец е розов до кафеникаворозов. Спорите са гладки и елипсоидни; европейските описания посочват 6,5–10,5 × 4,5–7 µm.",
+      "habitat": "Върху гниеща широколистна дървесина, особено бряст, явор, бук, топола и върба, включително мъртви части на живи дървета, пънове и паднали стволове. Обикновено от лятото до есента: юни–септември в Централна Европа, юли–ноември във Великобритания и Ирландия. Дървесен сапротроф, а не паразит на здрава тъкан.",
+      "uses": "Ядлива, но кулинарните оценки варират от добри до посредствени. Поради рядкостта и опасността от объркване със смъртоносно отровни гъби с волва събирането за храна не се препоръчва.",
+      "confusion": "Volvariella caesiotincta е по-дребна, със сивкава шапка, върху гнило дърво. Volvopluteus gloiocephalus има гладка лепкава шапка и обикновено расте на почва или компост, не по стволове. Смъртоносните Amanita phalloides и Amanita virosa имат бели ламели и бял споров прашец, обикновено пръстен, и растат от почвата; младите екземпляри с бели ламели изискват особено внимание.",
+      "notes": "Запазването на стари дървета и едра мъртва дървесина съхранява местообитанията. Норвежката оценка от 2021 г. определя вида като почти застрашен (Near Threatened); това е регионален, не глобален статут.",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/volvariella-bombycina.php",
+        "https://botany.cz/cs/volvariella-bombycina/",
+        "https://www.myko.cz/myko-atlas/Volvariella-bombycina/",
+        "https://en.wikipedia.org/wiki/Volvariella_bombycina",
+        "https://www.mushroomexpert.com/volvariella_bombycina.html",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/28791",
+        "https://redlist.info/iucn/species_view/307781/"
+      ]
+    },
+    "hr": {
+      "description": "Velika saprotrofna gljiva koja razgrađuje drvo listača i raste pojedinačno ili u malim skupinama u šumama, parkovima i vrtovima. Široko je rasprostranjena, ali uglavnom nije česta; zabilježena je u Europi, Aziji, Africi, Amerikama i Australiji. Plodišta mogu izrasti iz ozljeda ili šupljina uspravnih stabala visoko iznad tla.",
+      "cap": "Širok 5–20 cm, isprva jajolik, zatim zvonolik do široko ispupčen ili gotovo ravan. Suh, bijel do kremast, katkad žuti u sredini, s dugim svilenkastim vlaknima koja mogu visjeti preko ruba.",
+      "hymenium": "Listići su slobodni, gusti i široki; isprva bijeli, zatim ružičasti do smeđastoružičasti. Bazidiji su četverosporni; kopče nedostaju.",
+      "stipe": "Dug 6–25 cm i debeo 1–3 cm, bijel do blijedooker, pun, gladak, često zakrivljen i sužen prema vrhu. Bez prstena. Bazu obavija velika trajna opnasta ovojnica, isprva bjelkasta, zatim žućkasta do smeđa, često ispucala ili ljuskava.",
+      "flesh": "Bijelo, meko i krhko, ne mijenja boju pri rezanju. Miris slab, katkad na rotkvicu ili zemlju; okus blag.",
+      "sporePrint": "Otisak spora ružičast do smeđastoružičast. Spore su glatke i elipsoidne; europski opisi navode 6,5–10,5 × 4,5–7 µm.",
+      "habitat": "Na trulom drvu listača, osobito brijesta, javora, bukve, topole i vrbe, uključujući mrtve dijelove živih stabala, panjeve i srušena debla. Obično od ljeta do jeseni: lipanj–rujan u srednjoj Europi, srpanj–studeni u Britaniji i Irskoj. Saprotrof drva, a ne nametnik zdravog tkiva.",
+      "uses": "Jestiva, ali kulinarske ocjene sežu od dobrih do osrednjih. Zbog rijetkosti i rizika zamjene sa smrtonosno otrovnim gljivama s ovojnicom sakupljanje za hranu nije preporučljivo.",
+      "confusion": "Volvariella caesiotincta manja je, sa sivkastim klobukom na trulom drvu. Volvopluteus gloiocephalus ima gladak ljepljiv klobuk i obično raste na tlu ili kompostu, a ne na deblima. Smrtonosne Amanita phalloides i Amanita virosa imaju bijele listiće i bijeli otisak spora, obično prsten, te rastu iz tla; mladi primjerci s bijelim listićima zahtijevaju poseban oprez.",
+      "notes": "Očuvanje starih stabala i krupnoga mrtvog drva čuva staništa. Norveška procjena iz 2021. svrstava vrstu u gotovo ugrožene (Near Threatened); to je regionalni, a ne globalni status.",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/volvariella-bombycina.php",
+        "https://botany.cz/cs/volvariella-bombycina/",
+        "https://www.myko.cz/myko-atlas/Volvariella-bombycina/",
+        "https://en.wikipedia.org/wiki/Volvariella_bombycina",
+        "https://www.mushroomexpert.com/volvariella_bombycina.html",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/28791",
+        "https://redlist.info/iucn/species_view/307781/"
+      ]
+    },
+    "sr": {
+      "description": "Велика сапротрофна гљива која разграђује дрво лишћара и расте појединачно или у малим групама у шумама, парковима и баштама. Широко је распрострањена, али обично није честа; забележена је у Европи, Азији, Африци, Америкама и Аустралији. Плодоносна тела могу израсти из повреда или шупљина усправних стабала високо изнад тла.",
+      "cap": "Широк 5–20 cm, у почетку јајолик, затим звонаст до широко испупчен или готово раван. Сув, бео до кремаст, понекад жути у средини, с дугим свиленкастим влакнима која могу висити преко ивице.",
+      "hymenium": "Листићи су слободни, густи и широки; прво бели, затим ружичасти до смеђеружичасти. Базидије су четвороспорне; копче недостају.",
+      "stipe": "Дуга 6–25 cm и дебела 1–3 cm, бела до бледоокер, пуна, глатка, често савијена и сужена навише. Без прстена. Основу обавија велика трајна опнаста волва, прво беличаста, затим жућкаста до смеђа, често испуцала или љускава.",
+      "flesh": "Бело, меко и крхко, не мења боју на пресеку. Мирис слаб, понекад на ротквицу или земљу; укус благ.",
+      "sporePrint": "Отисак спора ружичаст до смеђеружичаст. Споре су глатке и елипсоидне; европски описи наводе 6,5–10,5 × 4,5–7 µm.",
+      "habitat": "На трулом дрвету лишћара, посебно бреста, јавора, букве, тополе и врбе, укључујући мртве делове живих стабала, пањеве и оборена дебла. Обично од лета до јесени: јун–септембар у средњој Европи, јул–новембар у Британији и Ирској. Сапротроф дрвета, а не паразит здравог ткива.",
+      "uses": "Јестива, али кулинарске оцене се крећу од добрих до осредњих. Због реткости и ризика замене са смртоносно отровним гљивама с волвом сакупљање за храну није препоручљиво.",
+      "confusion": "Volvariella caesiotincta је мања, са сивкастим клобуком на трулом дрвету. Volvopluteus gloiocephalus има гладак лепљив клобук и обично расте на тлу или компосту, не на деблима. Смртоносне Amanita phalloides и Amanita virosa имају беле листиће и бели отисак спора, обично прстен, и расту из тла; млади примерци са белим листићима захтевају посебан опрез.",
+      "notes": "Очување старих стабала и крупног мртвог дрвета чува станишта. Норвешка процена из 2021. сврстава врсту у скоро угрожене (Near Threatened); то је регионални, а не глобални статус.",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/volvariella-bombycina.php",
+        "https://botany.cz/cs/volvariella-bombycina/",
+        "https://www.myko.cz/myko-atlas/Volvariella-bombycina/",
+        "https://en.wikipedia.org/wiki/Volvariella_bombycina",
+        "https://www.mushroomexpert.com/volvariella_bombycina.html",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/28791",
+        "https://redlist.info/iucn/species_view/307781/"
+      ]
+    },
+    "sl": {
+      "description": "Velika saprotrofna goba, ki razkraja les listavcev in raste posamič ali v majhnih skupinah v gozdovih, parkih in vrtovih. Je široko razširjena, vendar večinoma ni pogosta; znana je iz Evrope, Azije, Afrike, obeh Amerik in Avstralije. Trosnjaki lahko poženejo iz ran ali dupel stoječih dreves visoko nad tlemi.",
+      "cap": "Širok 5–20 cm, sprva jajčast, pozneje zvonast do široko izbočen ali skoraj raven. Suh, bel do kremast, včasih v sredini rumeneč, z dolgimi svilnatimi vlakni, ki lahko segajo čez rob.",
+      "hymenium": "Lističi so prosti, gosti in široki; sprva beli, nato rožnati do rjavkasto rožnati. Bazidiji so štiritrosni; zaponke manjkajo.",
+      "stipe": "Dolg 6–25 cm in debel 1–3 cm, bel do bledo okrast, poln, gladek, pogosto ukrivljen in navzgor zožen. Brez obročka. Dno obdaja velika trajna kožnata ovojnica, sprva belkasta, pozneje rumenkasta do rjava, pogosto razpokana ali luskasta.",
+      "flesh": "Belo, mehko in krhko, na prerezu ne spremeni barve. Vonj šibek, včasih po redkvici ali zemlji; okus blag.",
+      "sporePrint": "Trosni prah rožnat do rjavkasto rožnat. Trosi so gladki in elipsoidni; evropski opisi navajajo 6,5–10,5 × 4,5–7 µm.",
+      "habitat": "Na razpadajočem lesu listavcev, zlasti brestov, javorjev, bukev, topolov in vrb, tudi na odmrlih delih živih dreves, štorih in podrtih deblih. Navadno od poletja do jeseni: junij–september v srednji Evropi, julij–november v Britaniji in na Irskem. Lesni saprotrof, ne zajedavec zdravih tkiv.",
+      "uses": "Užitna, vendar kulinarične ocene segajo od dobrih do povprečnih. Zaradi redkosti in nevarnosti zamenjave s smrtno strupenimi gobami z ovojnico nabiranje za hrano ni priporočljivo.",
+      "confusion": "Volvariella caesiotincta je manjša, s sivkastim klobukom na strohnelem lesu. Volvopluteus gloiocephalus ima gladek lepljiv klobuk in navadno raste na tleh ali kompostu, ne na deblih. Smrtno strupeni Amanita phalloides in Amanita virosa imata bele lističe in bel trosni prah, običajno obroček, ter rasteta iz tal; mladi primerki z belimi lističi zahtevajo posebno previdnost.",
+      "notes": "Ohranjanje starih dreves in debelega odmrlega lesa ohranja rastišča. Norveška ocena iz leta 2021 vrsto uvršča med potencialno ogrožene (Near Threatened); to je regionalni in ne svetovni status.",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/volvariella-bombycina.php",
+        "https://botany.cz/cs/volvariella-bombycina/",
+        "https://www.myko.cz/myko-atlas/Volvariella-bombycina/",
+        "https://en.wikipedia.org/wiki/Volvariella_bombycina",
+        "https://www.mushroomexpert.com/volvariella_bombycina.html",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/28791",
+        "https://redlist.info/iucn/species_view/307781/"
+      ]
+    },
+    "hu": {
+      "description": "Nagy termetű szaprotróf gomba, amely lombos fák faanyagát bontja, és egyesével vagy kis csoportokban nő erdőkben, parkokban és kertekben. Széles körben elterjedt, de többnyire nem gyakori; Európából, Ázsiából, Afrikából, Amerikából és Ausztráliából ismert. Termőtestei álló fák sebeiből vagy odvaiból, magasan a talaj fölött is előbújhatnak.",
+      "cap": "5–20 cm széles, eleinte tojásdad, majd harang alakú, szélesen domború vagy csaknem lapos. Száraz, fehér–krémszínű, középen olykor sárgul, hosszú selymes szálakkal, amelyek túlnyúlhatnak a peremén.",
+      "hymenium": "Lemezei szabadon állók, sűrűk és szélesek; fiatalon fehérek, később rózsásak, majd barnásrózsaszínűek. Bazídiumai négyspórásak; csatok nincsenek.",
+      "stipe": "6–25 cm hosszú és 1–3 cm vastag, fehér–halvány okkerszínű, tömör, sima, gyakran görbült és felfelé elvékonyodó. Gallérja nincs. Tövének nagy, maradandó, hártyás bocskora eleinte fehéres, később sárgás–barna, gyakran repedezett vagy pikkelyes.",
+      "flesh": "Fehér, puha és törékeny, vágásra nem változik. Szaga gyenge, olykor retekre vagy földre emlékeztet; íze enyhe.",
+      "sporePrint": "Spórapora rózsaszínű–barnásrózsaszínű. Spórái simák, ellipszoidok; az európai leírások szerint 6,5–10,5 × 4,5–7 µm méretűek.",
+      "habitat": "Lombos fák, különösen szil, juhar, bükk, nyár és fűz korhadó faanyagán, élő fák elhalt részein, tuskókon és kidőlt törzseken nő. Többnyire nyártól őszig: Közép-Európában június–szeptember, Britanniában és Írországban július–november között. Fán élő szaprotróf, nem az egészséges szövetek élősködője.",
+      "uses": "Ehető, de konyhai értékét jótól közepesig ítélik. Ritkasága és a halálosan mérgező, bocskoros gombákkal való összetévesztés veszélye miatt étkezési gyűjtése nem ajánlott.",
+      "confusion": "A Volvariella caesiotincta kisebb, szürkés kalapú, korhadt fán nő. A Volvopluteus gloiocephalus kalapja sima és tapadós; rendszerint talajon vagy komposzton, nem törzseken terem. A halálosan mérgező Amanita phalloides és Amanita virosa lemezei és spórapora fehérek, rendszerint gallérjuk van, és talajból nőnek; a fiatal, fehér lemezű példányok különös óvatosságot igényelnek.",
+      "notes": "Az idős fák és a vastag holtfa megtartása megőrzi élőhelyét. A 2021-es norvég értékelés szerint mérsékelten fenyegetett (Near Threatened); ez regionális, nem globális besorolás. Magyarországon 2021-ben az év gombája volt.",
+      "label": "óriás bocskorosgomba",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/volvariella-bombycina.php",
+        "https://botany.cz/cs/volvariella-bombycina/",
+        "https://www.myko.cz/myko-atlas/Volvariella-bombycina/",
+        "https://en.wikipedia.org/wiki/Volvariella_bombycina",
+        "https://www.mushroomexpert.com/volvariella_bombycina.html",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/28791",
+        "https://redlist.info/iucn/species_view/307781/",
+        "https://tudomanyplaza.hu/orias-bocskorosgomba-a-2021-ev-gombaja/"
+      ]
+    },
+    "ro": {
+      "description": "O ciupercă saprotrofă mare, care descompune lemnul foioaselor și crește izolat sau în grupuri mici în păduri, parcuri și grădini. Este larg răspândită, dar în general neobișnuită, semnalată în Europa, Asia, Africa, Americi și Australia. Corpurile fructifere pot apărea în răni sau scorburi ale arborilor în picioare, mult deasupra solului.",
+      "cap": "Lată de 5–20 cm, inițial ovoidală, apoi campanulată, larg convexă sau aproape plată. Uscată, albă până la crem, uneori îngălbenind în centru, cu fibre lungi mătăsoase ce pot depăși marginea.",
+      "hymenium": "Lamele libere, dese și late; inițial albe, apoi roz până la roz-bruniu. Bazidii cu patru spori; ansele lipsesc.",
+      "stipe": "Lung de 6–25 cm și gros de 1–3 cm, alb până la ocru palid, plin, neted, adesea curbat și îngustat în sus. Fără inel. Baza este închisă într-o volvă mare, persistentă, membranoasă, inițial albicioasă, apoi gălbuie până la brună, adesea crăpată sau solzoasă.",
+      "flesh": "Albă, moale și fragilă, nu se schimbă la tăiere. Miros slab, uneori de ridiche sau pământ; gust blând.",
+      "sporePrint": "Pulberea sporilor roz până la roz-bruniu. Sporii sunt netezi și elipsoidali; descrierile europene indică 6,5–10,5 × 4,5–7 µm.",
+      "habitat": "Pe lemn de foioase în descompunere, mai ales ulm, arțar, fag, plop și salcie, inclusiv părți moarte ale arborilor vii, cioate și trunchiuri căzute. De obicei din vară până în toamnă: iunie–septembrie în Europa Centrală, iulie–noiembrie în Marea Britanie și Irlanda. Saprotrof al lemnului, nu parazit al țesuturilor sănătoase.",
+      "uses": "Comestibilă, dar aprecierile culinare variază de la bune la mediocre. Raritatea și riscul de confuzie cu ciuperci mortale prevăzute cu volvă fac nerecomandată culegerea pentru hrană.",
+      "confusion": "Volvariella caesiotincta este mai mică, cu pălărie cenușie, pe lemn putred. Volvopluteus gloiocephalus are pălăria netedă și lipicioasă și crește de obicei pe sol sau compost, nu pe trunchiuri. Mortalele Amanita phalloides și Amanita virosa au lamele și pulberea sporilor albe, de obicei inel, și cresc din sol; exemplarele tinere cu lamele albe necesită prudență deosebită.",
+      "notes": "Păstrarea arborilor bătrâni și a lemnului mort gros conservă habitatul. Evaluarea norvegiană din 2021 consideră specia aproape amenințată (Near Threatened); statutul este regional, nu global.",
+      "label": "burete păros",
+      "names": [
+        "opincuță"
+      ],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/volvariella-bombycina.php",
+        "https://botany.cz/cs/volvariella-bombycina/",
+        "https://www.myko.cz/myko-atlas/Volvariella-bombycina/",
+        "https://en.wikipedia.org/wiki/Volvariella_bombycina",
+        "https://www.mushroomexpert.com/volvariella_bombycina.html",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/28791",
+        "https://redlist.info/iucn/species_view/307781/",
+        "https://ro.wikipedia.org/wiki/Volvariella_bombycina"
+      ]
+    },
+    "ar": {
+      "description": "فطر رمّي كبير يحلل خشب الأشجار عريضة الأوراق، وينمو منفردًا أو في مجموعات صغيرة في الغابات والحدائق والمتنزهات. واسع الانتشار لكنه غير شائع عمومًا، وقد سُجل في أوروبا وآسيا وأفريقيا والأمريكتين وأستراليا. قد تظهر أجسامه الثمرية من جروح الأشجار القائمة أو تجاويفها على ارتفاع كبير عن الأرض.",
+      "cap": "بعرض ٥–٢٠ cm، بيضية أولًا ثم جرسية إلى محدبة بشكل واسع أو شبه مسطحة. جافة، بيضاء إلى قشدية، وقد تصفر في الوسط، ومغطاة بألياف حريرية طويلة قد تتدلى خارج الحافة.",
+      "hymenium": "الصفائح حرة ومتراصة وعريضة؛ بيضاء في الصغر ثم وردية إلى وردية بنية. الدعامات رباعية الأبواغ؛ الوصلات المشبكية غائبة.",
+      "stipe": "بطول ٦–٢٥ cm وسمك ١–٣ cm، بيضاء إلى مغرة باهتة، مصمتة وملساء وغالبًا منحنية وتضيق إلى الأعلى. بلا حلقة. تحيط بالقاعدة حافظة غشائية كبيرة مستديمة، بيضاء أولًا ثم مصفرة إلى بنية، وغالبًا متشققة أو حرشفية.",
+      "flesh": "أبيض ولين وهش، ولا يتغير عند القطع. الرائحة خفيفة، أحيانًا كالفجل أو التراب؛ والطعم معتدل.",
+      "sporePrint": "بصمة الأبواغ وردية إلى وردية بنية. الأبواغ ملساء وإهليلجية؛ وتورد الأوصاف الأوروبية قياسات ٦٫٥–١٠٫٥ × ٤٫٥–٧ µm.",
+      "habitat": "على الخشب المتحلل للأشجار عريضة الأوراق، وخاصة الدردار والقيقب والزان والحور والصفصاف، بما في ذلك الأجزاء الميتة من الأشجار الحية والجذوع المقطوعة والساقطة. عادة من الصيف إلى الخريف: يونيو–سبتمبر في وسط أوروبا، ويوليو–نوفمبر في بريطانيا وأيرلندا. يحلل الخشب ولا يتطفل على الأنسجة السليمة.",
+      "uses": "صالح للأكل، لكن تقييم جودته يتراوح من جيد إلى متوسط. ندرته وخطر الخلط بينه وبين الفطريات القاتلة ذات الحافظة القاعدية يجعلان جمعه للطعام غير مستحسن.",
+      "confusion": "Volvariella caesiotincta أصغر، بقبعة رمادية على الخشب المتعفن. أما Volvopluteus gloiocephalus فقبعته ملساء لزجة، وينمو عادة على التربة أو السماد لا على الجذوع. الفطران القاتلان Amanita phalloides وAmanita virosa لهما صفائح وبصمة أبواغ بيضاء، وحلقة عادة، وينموان من التربة؛ وتستلزم العينات الفتية ذات الصفائح البيضاء حذرًا خاصًا.",
+      "notes": "الإبقاء على الأشجار القديمة والخشب الميت الكبير يحفظ الموائل. يصنفه التقييم النرويجي لعام ٢٠٢١ قريبًا من التهديد (Near Threatened)؛ وهذه حالة إقليمية وليست عالمية.",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/volvariella-bombycina.php",
+        "https://botany.cz/cs/volvariella-bombycina/",
+        "https://www.myko.cz/myko-atlas/Volvariella-bombycina/",
+        "https://en.wikipedia.org/wiki/Volvariella_bombycina",
+        "https://www.mushroomexpert.com/volvariella_bombycina.html",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/28791",
+        "https://redlist.info/iucn/species_view/307781/"
+      ]
+    },
+    "fa": {
+      "description": "قارچ ساپروتروف بزرگی که چوب درختان پهن‌برگ را تجزیه می‌کند و به‌تنهایی یا در گروه‌های کوچک در جنگل‌ها، پارک‌ها و باغ‌ها می‌روید. پراکنش گسترده‌ای دارد، اما عموماً کم‌یاب است و از اروپا، آسیا، آفریقا، قاره‌های آمریکا و استرالیا گزارش شده است. اندام‌های بارده ممکن است از زخم‌ها یا حفره‌های درختان ایستاده، در ارتفاع زیاد از زمین بیرون بیایند.",
+      "cap": "پهنای آن ۵–۲۰ cm است؛ ابتدا تخم‌مرغی و سپس زنگوله‌ای تا محدب گسترده یا تقریباً تخت می‌شود. خشک، سفید تا کرم، گاهی در مرکز زردشونده، با الیاف ابریشمی بلند که ممکن است از لبه آویزان شوند.",
+      "hymenium": "تیغه‌ها آزاد، فشرده و پهن‌اند؛ ابتدا سفید و سپس صورتی تا صورتی مایل به قهوه‌ای می‌شوند. بازیدی‌ها چهارهاگی‌اند؛ اتصالات گیره‌ای وجود ندارند.",
+      "stipe": "به طول ۶–۲۵ cm و ضخامت ۱–۳ cm، سفید تا اخرایی کم‌رنگ، توپر، صاف، اغلب خمیده و به‌سوی بالا باریک‌شونده است. حلقه ندارد. قاعده در غلاف غشایی بزرگ و پایداری قرار دارد که ابتدا سفیدفام، سپس زردفام تا قهوه‌ای و اغلب ترک‌خورده یا فلس‌دار است.",
+      "flesh": "سفید، نرم و شکننده است و با برش تغییر رنگ نمی‌دهد. بو ضعیف، گاهی شبیه تربچه یا خاک، و طعم ملایم است.",
+      "sporePrint": "نقش هاگ صورتی تا صورتی مایل به قهوه‌ای است. هاگ‌ها صاف و بیضوی‌اند؛ در توصیف‌های اروپایی اندازهٔ ۶٫۵–۱۰٫۵ × ۴٫۵–۷ µm ذکر شده است.",
+      "habitat": "روی چوب پوسیدهٔ درختان پهن‌برگ، به‌ویژه نارون، افرا، راش، صنوبر و بید، از جمله بخش‌های مردهٔ درختان زنده، کنده‌ها و تنه‌های افتاده می‌روید. معمولاً از تابستان تا پاییز: ژوئن–سپتامبر در اروپای مرکزی و ژوئیه–نوامبر در بریتانیا و ایرلند. ساپروتروف چوب است، نه انگل بافت سالم.",
+      "uses": "خوراکی است، اما ارزش خوراکی از نظر طعم خوب تا متوسط ارزیابی می‌شود. کم‌یابی و خطر اشتباه با قارچ‌های مرگبار غلاف‌دار، جمع‌آوری آن برای خوردن را نامناسب می‌کند.",
+      "confusion": "Volvariella caesiotincta کوچک‌تر است و کلاهک خاکستری‌فام دارد و روی چوب پوسیده می‌روید. Volvopluteus gloiocephalus کلاهک صاف و چسبناک دارد و معمولاً روی خاک یا کمپوست، نه تنه‌ها، می‌روید. گونه‌های مرگبار Amanita phalloides و Amanita virosa تیغه‌ها و نقش هاگ سفید، معمولاً حلقه دارند و از خاک می‌رویند؛ نمونه‌های جوان با تیغه‌های سفید به احتیاط ویژه نیاز دارند.",
+      "notes": "نگه‌داشتن درختان پیر و چوب مردهٔ درشت زیستگاه را حفظ می‌کند. ارزیابی نروژ در سال ۲۰۲۱ گونه را نزدیک تهدید (Near Threatened) دانسته است؛ این وضعیت منطقه‌ای است، نه جهانی.",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/volvariella-bombycina.php",
+        "https://botany.cz/cs/volvariella-bombycina/",
+        "https://www.myko.cz/myko-atlas/Volvariella-bombycina/",
+        "https://en.wikipedia.org/wiki/Volvariella_bombycina",
+        "https://www.mushroomexpert.com/volvariella_bombycina.html",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/28791",
+        "https://redlist.info/iucn/species_view/307781/"
+      ]
+    },
+    "he": {
+      "description": "פטרייה ספרוטרופית גדולה המפרקת עץ של עצים רחבי עלים, וגדלה ביחידות או בקבוצות קטנות ביערות, בפארקים ובגנים. תפוצתה רחבה אך לרוב אינה שכיחה; היא דווחה באירופה, באסיה, באפריקה, ביבשות אמריקה ובאוסטרליה. גופי הפרי עשויים לצאת מפצעים או מחללים בעצים עומדים, גבוה מעל הקרקע.",
+      "cap": "ברוחב 5–20 cm, בתחילה דמוי ביצה ובהמשך פעמוני עד קמור לרוחב או כמעט שטוח. יבש, לבן עד צבע קרם, לעיתים מצהיב במרכז, ומכוסה סיבים משיים ארוכים העשויים לבלוט מעבר לשוליים.",
+      "hymenium": "הדפים חופשיים, צפופים ורחבים; בתחילה לבנים ואחר כך ורודים עד ורודים־חומים. הבסידיות בעלות ארבעה נבגים; אין חיבורי אבזם.",
+      "stipe": "אורכה 6–25 cm ועובייה 1–3 cm, לבנה עד אוכרה חיוורת, מלאה, חלקה, לעיתים קרובות כפופה וצרה כלפי מעלה. אין טבעת. הבסיס עטוף בנרתיק קרומי גדול ומתמיד, בתחילה לבנבן ואחר כך צהבהב עד חום, ולעיתים קרובות סדוק או קשקשי.",
+      "flesh": "לבן, רך ושביר, אינו משנה צבע בחיתוך. הריח חלש, לעיתים מזכיר צנון או אדמה; הטעם עדין.",
+      "sporePrint": "תדפיס הנבגים ורוד עד ורוד־חום. הנבגים חלקים ואליפסואידיים; התיאורים האירופיים מציינים 6.5–10.5 × 4.5–7 µm.",
+      "habitat": "על עץ מתפרק של עצים רחבי עלים, במיוחד בוקיצה, אדר, אשור, צפצפה וערבה, לרבות חלקים מתים בעצים חיים, גדמים וגזעים שנפלו. בדרך כלל מהקיץ עד הסתיו: יוני–ספטמבר במרכז אירופה, יולי–נובמבר בבריטניה ובאירלנד. מפרקת עץ ולא טפילה של רקמות בריאות.",
+      "uses": "אכילה, אך ההערכות הקולינריות נעות בין טובה לבינונית. נדירותה והסיכון לבלבול עם פטריות קטלניות בעלות נרתיק הופכים את איסופה למאכל לבלתי מומלץ.",
+      "confusion": "Volvariella caesiotincta קטנה יותר, בעלת כובע אפרפר על עץ רקוב. ל־Volvopluteus gloiocephalus כובע חלק ודביק והיא גדלה בדרך כלל בקרקע או בקומפוסט, לא על גזעים. ל־Amanita phalloides ול־Amanita virosa הקטלניות דפים ותדפיס נבגים לבנים, לרוב טבעת, והן צומחות מהקרקע; פרטים צעירים בעלי דפים לבנים מחייבים זהירות מיוחדת.",
+      "notes": "שימור עצים זקנים ועץ מת עבה שומר על בית הגידול. ההערכה הנורווגית משנת 2021 מדרגת את המין כקרוב לאיום (Near Threatened); זהו מעמד אזורי ולא עולמי.",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/volvariella-bombycina.php",
+        "https://botany.cz/cs/volvariella-bombycina/",
+        "https://www.myko.cz/myko-atlas/Volvariella-bombycina/",
+        "https://en.wikipedia.org/wiki/Volvariella_bombycina",
+        "https://www.mushroomexpert.com/volvariella_bombycina.html",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/28791",
+        "https://redlist.info/iucn/species_view/307781/"
+      ]
+    },
+    "hi": {
+      "description": "चौड़ी पत्ती वाले पेड़ों की लकड़ी का अपघटन करने वाला बड़ा मृतोपजीवी कवक, जो जंगलों, पार्कों और बगीचों में अकेला या छोटे समूहों में उगता है। इसका वितरण व्यापक है, लेकिन यह सामान्यतः कम मिलता है; यूरोप, एशिया, अफ्रीका, दोनों अमेरिकी महाद्वीपों और ऑस्ट्रेलिया से दर्ज है। फलनकाय खड़े पेड़ों के घावों या खोखले भागों से जमीन के काफी ऊपर निकल सकते हैं।",
+      "cap": "चौड़ाई 5–20 cm, शुरू में अंडाकार, बाद में घंटीनुमा से चौड़े उभार वाली या लगभग चपटी। सूखी, सफेद से क्रीम रंग की, कभी बीच में पीली पड़ती हुई; लंबे रेशमी तंतु किनारे से बाहर लटक सकते हैं।",
+      "hymenium": "गलफड़े डंठल से मुक्त, घने और चौड़े होते हैं; पहले सफेद, फिर गुलाबी से भूरापन लिए गुलाबी। बेसिडियम चार बीजाणुओं वाले होते हैं; क्लैम्प संयोजन अनुपस्थित हैं।",
+      "stipe": "लंबाई 6–25 cm और मोटाई 1–3 cm, सफेद से हल्के गेरुए रंग का, ठोस, चिकना, अक्सर मुड़ा हुआ और ऊपर की ओर पतला। वलय नहीं होता। आधार एक बड़े स्थायी झिल्लीदार वॉल्वा में घिरा होता है, जो पहले सफेद-सा, फिर पीला-सा से भूरा तथा अक्सर फटा या शल्कयुक्त होता है।",
+      "flesh": "सफेद, मुलायम और भंगुर, काटने पर रंग नहीं बदलता। गंध हल्की, कभी मूली जैसी या मिट्टी जैसी; स्वाद सौम्य।",
+      "sporePrint": "बीजाणु छाप गुलाबी से भूरापन लिए गुलाबी। बीजाणु चिकने और दीर्घवृत्ताभ होते हैं; यूरोपीय विवरणों में माप 6.5–10.5 × 4.5–7 µm है।",
+      "habitat": "चौड़ी पत्ती वाले पेड़ों, विशेषकर एल्म, मेपल, बीच, पॉपलर और विलो की सड़ती लकड़ी पर, जिसमें जीवित पेड़ों के मृत भाग, ठूंठ और गिरे तने भी शामिल हैं। सामान्यतः गर्मियों से शरद तक: मध्य यूरोप में जून–सितंबर, ब्रिटेन और आयरलैंड में जुलाई–नवंबर। यह लकड़ी का मृतोपजीवी है, स्वस्थ ऊतकों का परजीवी नहीं।",
+      "uses": "खाने योग्य है, लेकिन पाक गुणवत्ता अच्छी से औसत तक मानी जाती है। इसकी दुर्लभता और वॉल्वा वाले प्राणघातक मशरूमों से भ्रम के जोखिम के कारण भोजन के लिए संग्रह उचित नहीं है।",
+      "confusion": "Volvariella caesiotincta छोटा होता है और सड़ी लकड़ी पर उगने वाली धूसर टोपी रखता है। Volvopluteus gloiocephalus की टोपी चिकनी और चिपचिपी होती है और वह सामान्यतः मिट्टी या कम्पोस्ट पर उगता है, तनों पर नहीं। प्राणघातक Amanita phalloides और Amanita virosa के गलफड़े और बीजाणु छाप सफेद होते हैं, सामान्यतः वलय होता है और वे मिट्टी से उगते हैं; सफेद गलफड़ों वाले युवा नमूनों में विशेष सावधानी आवश्यक है।",
+      "notes": "पुराने पेड़ों और मोटी मृत लकड़ी को बनाए रखने से आवास सुरक्षित रहता है। नॉर्वे के 2021 के आकलन में इसे संकट के निकट (Near Threatened) रखा गया है; यह क्षेत्रीय स्थिति है, वैश्विक नहीं।",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/volvariella-bombycina.php",
+        "https://botany.cz/cs/volvariella-bombycina/",
+        "https://www.myko.cz/myko-atlas/Volvariella-bombycina/",
+        "https://en.wikipedia.org/wiki/Volvariella_bombycina",
+        "https://www.mushroomexpert.com/volvariella_bombycina.html",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/28791",
+        "https://redlist.info/iucn/species_view/307781/"
+      ]
+    },
+    "id": {
+      "description": "Jamur saprotrof besar yang menguraikan kayu pohon berdaun lebar, tumbuh sendiri atau dalam kelompok kecil di hutan, taman, dan kebun. Persebarannya luas tetapi umumnya tidak sering ditemukan, dengan catatan dari Eropa, Asia, Afrika, Amerika, dan Australia. Tubuh buah dapat muncul dari luka atau rongga pohon yang masih berdiri, jauh di atas tanah.",
+      "cap": "Lebar 5–20 cm, mula-mula berbentuk telur, lalu seperti lonceng hingga cembung lebar atau hampir rata. Kering, putih hingga krem, kadang menguning di tengah, dengan serat panjang menyerupai sutra yang dapat menjuntai melewati tepi.",
+      "hymenium": "Bilah bebas, rapat, dan lebar; awalnya putih, kemudian merah muda hingga merah muda kecokelatan. Basidium menghasilkan empat spora; sambungan apit tidak ada.",
+      "stipe": "Panjang 6–25 cm dan tebal 1–3 cm, putih hingga oker pucat, padat, halus, sering melengkung dan meruncing ke atas. Tanpa cincin. Pangkal diselubungi volva besar yang menetap dan bermembran, mula-mula keputihan, kemudian kekuningan hingga cokelat, sering retak atau bersisik.",
+      "flesh": "Putih, lunak, dan rapuh, tidak berubah warna saat dipotong. Bau lemah, kadang seperti lobak atau tanah; rasa ringan.",
+      "sporePrint": "Cetakan spora merah muda hingga merah muda kecokelatan. Spora halus dan elipsoid; deskripsi Eropa mencatat ukuran 6,5–10,5 × 4,5–7 µm.",
+      "habitat": "Pada kayu pohon berdaun lebar yang membusuk, terutama elm, maple, beech, poplar, dan willow, termasuk bagian mati pohon hidup, tunggul, dan batang tumbang. Biasanya musim panas hingga gugur: Juni–September di Eropa Tengah, Juli–November di Britania dan Irlandia. Saprotrof kayu, bukan parasit jaringan sehat.",
+      "uses": "Dapat dimakan, tetapi penilaian kulinernya berkisar dari baik hingga biasa saja. Kelangkaannya dan risiko tertukar dengan jamur mematikan yang memiliki volva membuat pengumpulan untuk pangan tidak disarankan.",
+      "confusion": "Volvariella caesiotincta lebih kecil, bertudung keabu-abuan pada kayu lapuk. Volvopluteus gloiocephalus bertudung halus dan lengket serta biasanya tumbuh di tanah atau kompos, bukan batang. Amanita phalloides dan Amanita virosa yang mematikan memiliki bilah serta cetakan spora putih, biasanya bercincin, dan tumbuh dari tanah; spesimen muda berbilah putih memerlukan kewaspadaan khusus.",
+      "notes": "Mempertahankan pohon tua dan kayu mati berukuran besar melestarikan habitat. Penilaian Norwegia tahun 2021 menempatkannya sebagai hampir terancam (Near Threatened); status ini bersifat regional, bukan global.",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/volvariella-bombycina.php",
+        "https://botany.cz/cs/volvariella-bombycina/",
+        "https://www.myko.cz/myko-atlas/Volvariella-bombycina/",
+        "https://en.wikipedia.org/wiki/Volvariella_bombycina",
+        "https://www.mushroomexpert.com/volvariella_bombycina.html",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/28791",
+        "https://redlist.info/iucn/species_view/307781/"
+      ]
+    },
+    "ja": {
+      "description": "広葉樹の木材を分解する大型の腐生性のきのこで、森林、公園、庭園に単生または小群生します。ヨーロッパ、アジア、アフリカ、南北アメリカ、オーストラリアに広く分布しますが、一般に多くはありません。立木の傷や空洞から、地面よりかなり高い位置に子実体が発生することもあります。",
+      "cap": "幅5–20 cmで、初めは卵形、やがて鐘形から広いまんじゅう形、ほぼ平らになります。乾性で白色からクリーム色、中央が黄変することがあり、長い絹状の繊維が縁から垂れ下がる場合があります。",
+      "hymenium": "ひだは離生し、密で幅広く、初めは白色、のちに桃色から褐色を帯びた桃色になります。担子器は4胞子性で、クランプ結合はありません。",
+      "stipe": "長さ6–25 cm、太さ1–3 cmで、白色から淡い黄土色、中実、平滑で、しばしば曲がり、上方に細くなります。つばはありません。基部は大きく永存性のある膜質のつぼに包まれ、初めは白っぽく、のちに黄色がかって褐色となり、しばしばひび割れたり鱗片状になります。",
+      "flesh": "白色で柔らかくもろく、切っても変色しません。においは弱く、ときにダイコンや土を思わせ、味は穏やかです。",
+      "sporePrint": "胞子紋は桃色から褐色を帯びた桃色です。胞子は平滑な楕円体で、ヨーロッパの記載では6.5–10.5 × 4.5–7 µmです。",
+      "habitat": "ニレ、カエデ、ブナ、ポプラ、ヤナギなどの広葉樹の腐朽材に発生し、生木の枯死部、切り株、倒木にも見られます。通常は夏から秋で、中央ヨーロッパでは6–9月、イギリスとアイルランドでは7–11月です。木材を分解する腐生菌で、健康な組織の寄生菌ではありません。",
+      "uses": "食用ですが、食味の評価は良好から平凡まで分かれます。発生が少なく、つぼを持つ致死性の毒きのこと取り違える危険があるため、食用採集は勧められません。",
+      "confusion": "Volvariella caesiotinctaはより小さく、灰色がかった傘を持ち、腐朽材に発生します。Volvopluteus gloiocephalusの傘は平滑で粘り、通常は幹ではなく土や堆肥から発生します。致死性のAmanita phalloidesとAmanita virosaはひだと胞子紋が白く、通常つばがあり、土から発生します。ひだが白い幼菌には特に注意が必要です。",
+      "notes": "老木や太い枯死材を残すことは生育環境の保全につながります。ノルウェーの2021年の評価では準絶滅危惧（Near Threatened）で、これは世界全体ではなく地域的な評価です。",
+      "label": "キヌオオフクロタケ",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/volvariella-bombycina.php",
+        "https://botany.cz/cs/volvariella-bombycina/",
+        "https://www.myko.cz/myko-atlas/Volvariella-bombycina/",
+        "https://en.wikipedia.org/wiki/Volvariella_bombycina",
+        "https://www.mushroomexpert.com/volvariella_bombycina.html",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/28791",
+        "https://redlist.info/iucn/species_view/307781/",
+        "https://www.env.go.jp/content/900511587.pdf"
+      ]
+    },
+    "ko": {
+      "description": "활엽수 목재를 분해하는 대형 부생성 버섯으로, 숲과 공원, 정원에서 홀로 또는 작은 무리로 자랍니다. 유럽, 아시아, 아프리카, 아메리카와 오스트레일리아에 널리 분포하지만 대체로 흔하지 않습니다. 서 있는 나무의 상처나 구멍에서 지면보다 상당히 높은 곳에 자실체가 생기기도 합니다.",
+      "cap": "너비는 5–20 cm이며 처음에는 달걀 모양이고, 나중에는 종 모양에서 넓게 볼록하거나 거의 편평해집니다. 표면은 건조하고 흰색에서 크림색이며, 때로 중앙이 노래지고 긴 비단 같은 섬유가 가장자리 밖으로 늘어질 수 있습니다.",
+      "hymenium": "주름살은 떨어진형이고 촘촘하며 넓습니다. 처음에는 흰색이고 나중에는 분홍색에서 갈색을 띤 분홍색이 됩니다. 담자기는 4포자성이며 꺾쇠연결은 없습니다.",
+      "stipe": "길이 6–25 cm, 굵기 1–3 cm로 흰색에서 옅은 황토색이며, 속이 차고 매끄럽습니다. 흔히 휘고 위로 가늘어집니다. 턱받이는 없습니다. 밑동은 크고 오래 남는 막질 대주머니에 싸이며, 처음에는 희다가 황색을 거쳐 갈색이 되고 흔히 갈라지거나 비늘 모양이 됩니다.",
+      "flesh": "흰색이고 부드러우며 잘 부서지고 절단해도 변색하지 않습니다. 냄새는 약하고 때로 무나 흙과 비슷하며 맛은 순합니다.",
+      "sporePrint": "포자문은 분홍색에서 갈색을 띤 분홍색입니다. 포자는 매끄러운 타원체이며 유럽의 기재에서는 6.5–10.5 × 4.5–7 µm입니다.",
+      "habitat": "느릅나무, 단풍나무, 너도밤나무, 포플러, 버드나무 등 활엽수의 썩는 목재에서 자라며, 살아 있는 나무의 죽은 부분과 그루터기, 쓰러진 줄기도 포함합니다. 보통 여름부터 가을까지이며 중부 유럽에서는 6–9월, 영국과 아일랜드에서는 7–11월입니다. 목재를 분해하는 부생균이지 건강한 조직의 기생균은 아닙니다.",
+      "uses": "식용이지만 요리 가치는 좋다는 평가부터 평범하다는 평가까지 다양합니다. 드물고 대주머니가 있는 치명적인 독버섯과 혼동할 위험이 있어 식용 채집은 권장하지 않습니다.",
+      "confusion": "Volvariella caesiotincta는 더 작고 회색빛 갓을 지니며 썩은 목재에서 자랍니다. Volvopluteus gloiocephalus는 갓이 매끄럽고 끈적하며 보통 줄기가 아닌 토양이나 퇴비에서 자랍니다. 치명적인 Amanita phalloides와 Amanita virosa는 주름살과 포자문이 흰색이고 보통 턱받이가 있으며 땅에서 자랍니다. 흰 주름살을 가진 어린 개체는 특히 주의해야 합니다.",
+      "notes": "노목과 굵은 고사목을 남겨 두면 서식지를 보전할 수 있습니다. 노르웨이의 2021년 평가는 이 종을 준위협(Near Threatened)으로 분류하며, 이는 세계적 등급이 아닌 지역적 등급입니다.",
+      "label": "흰비단털버섯",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/volvariella-bombycina.php",
+        "https://botany.cz/cs/volvariella-bombycina/",
+        "https://www.myko.cz/myko-atlas/Volvariella-bombycina/",
+        "https://en.wikipedia.org/wiki/Volvariella_bombycina",
+        "https://www.mushroomexpert.com/volvariella_bombycina.html",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/28791",
+        "https://redlist.info/iucn/species_view/307781/",
+        "https://db.koreascholar.com/Article/Detail/420211"
+      ]
+    },
+    "zh": {
+      "description": "大型腐生菇類，分解闊葉樹木材，在森林、公園及庭園中單生或小群生。分布廣泛但通常不常見，歐洲、亞洲、非洲、美洲及澳洲都有紀錄。子實體有時從直立樹木的傷口或樹洞長出，位置可遠高於地面。",
+      "cap": "寬5–20 cm，初為卵形，後呈鐘形至寬凸形或近乎平展。表面乾燥，白至乳白色，中央有時變黃，覆有長絲狀纖維，可懸垂於邊緣之外。",
+      "hymenium": "菌褶離生、密集而寬，幼時白色，後轉粉紅至褐粉紅色。擔子具4枚擔孢子；無扣子體。",
+      "stipe": "長6–25 cm、粗1–3 cm，白至淡赭色，實心、平滑，常彎曲並向上漸細。無菌環。基部包在大型、持久的膜質菌托中，菌托初為淡白色，後轉淡黃至褐色，常龜裂或呈鱗片狀。",
+      "flesh": "白色、柔軟而易碎，切開不變色。氣味微弱，有時似蘿蔔或泥土；味淡。",
+      "sporePrint": "孢子印粉紅至褐粉紅色。孢子平滑、橢球形；歐洲描述的尺寸為6.5–10.5 × 4.5–7 µm。",
+      "habitat": "生於闊葉樹的腐朽木材，尤其是榆、楓、山毛櫸、楊及柳，也包括活樹的枯死部位、樹樁及倒木。通常在夏至秋季出現：中歐為6–9月，英國及愛爾蘭為7–11月。屬於木材腐生菌，而非健康組織的寄生菌。",
+      "uses": "可食，但烹飪評價從良好到普通不等。由於少見，且可能與具菌托的致命毒菇混淆，不建議採集食用。",
+      "confusion": "Volvariella caesiotincta較小，菌蓋灰色，生於朽木。Volvopluteus gloiocephalus的菌蓋平滑、黏濕，通常生於土壤或堆肥，而非樹幹。致命的Amanita phalloides與Amanita virosa具有白色菌褶及白色孢子印，通常有菌環，並從土壤長出；菌褶仍白的幼菇尤其需要謹慎。",
+      "notes": "保留老樹及粗大的枯死木材有助維護棲地。挪威2021年的評估列為近危（Near Threatened），這是區域而非全球等級。",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/volvariella-bombycina.php",
+        "https://botany.cz/cs/volvariella-bombycina/",
+        "https://www.myko.cz/myko-atlas/Volvariella-bombycina/",
+        "https://en.wikipedia.org/wiki/Volvariella_bombycina",
+        "https://www.mushroomexpert.com/volvariella_bombycina.html",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/28791",
+        "https://redlist.info/iucn/species_view/307781/"
+      ]
+    },
+    "tr": {
+      "description": "Yapraklı ağaç odununu ayrıştıran, ormanlarda, parklarda ve bahçelerde tek tek veya küçük gruplar hâlinde gelişen büyük bir saprotrof mantardır. Avrupa, Asya, Afrika, Amerika ve Avustralya'dan bildirilmiştir; geniş yayılışlı olsa da genellikle sık görülmez. Meyve gövdeleri ayakta duran ağaçların yara veya kovuklarından, yerden oldukça yüksekte çıkabilir.",
+      "cap": "5–20 cm genişliğinde, başlangıçta yumurta biçiminde, sonra çan biçiminden genişçe dışbükey veya neredeyse düz hâle gelir. Kuru, beyazdan krem rengine, bazen ortası sararan yapıdadır; uzun ipeksi lifleri kenardan sarkabilir.",
+      "hymenium": "Lameller serbest, sık ve geniştir; başlangıçta beyaz, sonra pembe ile kahverengimsi pembe arasındadır. Bazidyumlar dört sporludur; toka bağlantıları yoktur.",
+      "stipe": "6–25 cm uzunluğunda ve 1–3 cm kalınlığında, beyazdan soluk okraya değişen renkte, içi dolu, düzgün, çoğu kez eğri ve yukarı doğru daralandır. Halkası yoktur. Tabanı büyük, kalıcı, zarımsı bir volva sarar; önce beyazımsı, sonra sarımsıdan kahverengiye döner ve çoğu kez çatlaklı veya pulludur.",
+      "flesh": "Beyaz, yumuşak ve kırılgandır; kesilince renk değiştirmez. Kokusu hafif, bazen turp veya toprak gibidir; tadı yumuşaktır.",
+      "sporePrint": "Spor izi pembe ile kahverengimsi pembe arasındadır. Sporlar düzgün ve elipsoittir; Avrupa betimlemelerinde 6,5–10,5 × 4,5–7 µm verilir.",
+      "habitat": "Başta karaağaç, akçaağaç, kayın, kavak ve söğüt olmak üzere yapraklı ağaçların çürüyen odununda, canlı ağaçların ölü kısımlarında, kütüklerde ve devrilmiş gövdelerde gelişir. Genellikle yazdan sonbahara kadar: Orta Avrupa'da haziran–eylül, Britanya ve İrlanda'da temmuz–kasım. Bir odun saprotrofudur, sağlıklı dokuların paraziti değildir.",
+      "uses": "Yenilebilir, ancak mutfak değeri iyi ile vasat arasında değerlendirilir. Seyrekliği ve volvalı ölümcül mantarlarla karıştırılma riski nedeniyle yemek için toplanması önerilmez.",
+      "confusion": "Volvariella caesiotincta daha küçük, grimsi şapkalı ve çürük odun üzerinde gelişir. Volvopluteus gloiocephalus düzgün, yapışkan şapkalıdır ve genellikle gövdelerde değil toprak veya kompost üzerinde büyür. Ölümcül Amanita phalloides ve Amanita virosa beyaz lamellere ve beyaz spor izine, genellikle halkaya sahiptir ve topraktan çıkar; beyaz lamelli genç örnekler özel dikkat gerektirir.",
+      "notes": "Yaşlı ağaçları ve iri ölü odunu korumak yaşam alanını muhafaza eder. Norveç'in 2021 değerlendirmesi türü tehdide yakın (Near Threatened) sayar; bu küresel değil bölgesel bir durumdur.",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/volvariella-bombycina.php",
+        "https://botany.cz/cs/volvariella-bombycina/",
+        "https://www.myko.cz/myko-atlas/Volvariella-bombycina/",
+        "https://en.wikipedia.org/wiki/Volvariella_bombycina",
+        "https://www.mushroomexpert.com/volvariella_bombycina.html",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/28791",
+        "https://redlist.info/iucn/species_view/307781/"
       ]
     }
   }

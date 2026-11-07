@@ -111,6 +111,8 @@ function href(path, lang) {
 }
 
 var FLOWER_ORIGIN = "https://whatsthatflower.com";
+var FLOWER_PLAY_URL = "https://play.google.com/store/apps/details?id=sk.ab.herbs";
+var FLOWER_APP_STORE_URL = "https://apps.apple.com/us/app/whats-that-flower/id1449982118";
 var PLAY_URL = "https://play.google.com/store/apps/details?id=sk.ab.shrooms";
 var APP_STORE_URL = "https://apps.apple.com/us/app/whats-that-mushroom/id6826707489";
 var APP_PRIVACY = "https://storage.googleapis.com/abshrooms-resources/misc/PrivacyPolicyofWhatsthatmushroom.htm";
@@ -124,6 +126,10 @@ function flowerUrl(lang) {
     return FLOWER_ORIGIN + "/" + code + "/";
   }
   return FLOWER_ORIGIN + "/";
+}
+
+function flowerIdentifyUrl(lang) {
+  return flowerUrl(lang) + "identify/";
 }
 
 var relatedInstalled = false;
@@ -208,6 +214,40 @@ function storeLinks(lang) {
       '<a href="' + APP_STORE_URL + '" data-store="app_store">' +
         '<img class="store-badge store-badge-apple" src="/images/app-store-badge.svg" alt="' + esc(copy.storeApple) + '">' +
       "</a>" +
+    "</div>"
+  );
+}
+
+function flowerStoreLinks(lang) {
+  var copy = t(lang);
+  return (
+    '<div class="stores stores-lg">' +
+      '<a href="' + FLOWER_PLAY_URL + '" data-store="google_play" data-sister="1">' +
+        '<img class="store-badge" src="/images/google-play-badge.png" alt="' + esc(copy.storePlay) + '">' +
+      "</a>" +
+      '<a href="' + FLOWER_APP_STORE_URL + '" data-store="app_store" data-sister="1">' +
+        '<img class="store-badge store-badge-apple" src="/images/app-store-badge.svg" alt="' + esc(copy.storeApple) + '">' +
+      "</a>" +
+    "</div>"
+  );
+}
+
+function guidePair(lang) {
+  var copy = t(lang);
+  return (
+    '<div class="guide-pair">' +
+      '<div class="guide-card">' +
+        "<h2>" + esc(copy.appInApp) + "</h2>" +
+        '<p class="lede">' + esc(copy.keyLede) + "</p>" +
+        '<p><a href="' + href("/identify", lang) + '">' + esc(copy.keyOpen) + "</a></p>" +
+        storeLinks(lang) +
+      "</div>" +
+      '<div class="guide-card">' +
+        "<h2>" + esc(copy.plantInApp) + "</h2>" +
+        '<p class="lede">' + esc(copy.plantLede) + "</p>" +
+        '<p><a href="' + flowerIdentifyUrl(lang) + '" data-sister-place="guide">' + esc(copy.sisterSite) + "</a></p>" +
+        flowerStoreLinks(lang) +
+      "</div>" +
     "</div>"
   );
 }
@@ -1079,10 +1119,7 @@ function home(lang) {
         "</div>" +
       "</section>" +
       '<section class="band identify-band">' +
-        "<h2>" + esc(copy.keyTitle) + "</h2>" +
-        '<p class="lede">' + esc(copy.keyLede) + "</p>" +
-        '<p><a href="' + href("/identify", lang) + '">' + esc(copy.keyOpen) + "</a></p>" +
-        storeLinks(lang) +
+        guidePair(lang) +
       "</section>" +
     "</div>";
   return { title: copy.app, description: copy.homeDesc, html: shell(lang, page, true) };
@@ -1640,11 +1677,7 @@ function aboutPage(lang) {
         "</div>" +
       "</section>" +
       '<section class="band identify-band">' +
-        "<h2>" + esc(copy.keyTitle) + "</h2>" +
-        '<p class="lede">' + esc(copy.keyLede) + "</p>" +
-        '<p><a href="' + href("/identify", lang) + '">' + esc(copy.keyOpen) + "</a></p>" +
-        storeLinks(lang) +
-        '<p class="about-sister">' + esc(copy.aboutSister) + ' <a href="' + flowerUrl(lang) + '">' + esc(copy.sisterSite) + "</a></p>" +
+        guidePair(lang) +
       "</section>" +
     "</div>";
   return { title: copy.about + " — " + copy.app, description: copy.aboutSeo, html: shell(lang, page, "about") };
@@ -2005,9 +2038,13 @@ document.addEventListener("click", function (event) {
     trackMushroom(speciesName, source);
   }
   var store = link.getAttribute("data-store");
-  if (store === "google_play" || store === "app_store") trackStore(store);
+  if (store === "google_play" || store === "app_store") {
+    if (link.hasAttribute("data-sister")) trackSister(store, url.hostname);
+    else trackStore(store);
+  }
   if (url.hostname === "whatsthatflower.com") {
-    trackSister(link.closest(".about-sister") ? "about" : "footer");
+    var sisterPlace = link.getAttribute("data-sister-place");
+    trackSister(sisterPlace || (link.closest(".about-sister") ? "about" : "footer"));
   }
   if (url.origin !== location.origin) return;
   if (event.metaKey || event.ctrlKey || event.shiftKey || event.altKey || event.button !== 0) return;

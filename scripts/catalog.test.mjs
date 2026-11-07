@@ -132,6 +132,9 @@ const ABOUT_KEYS = [
   'keyTitle',
   'keyLede',
   'keyOpen',
+  'appInApp',
+  'plantInApp',
+  'plantLede',
   'aboutSister',
   'sisterSite',
   'aboutSeo',
@@ -432,10 +435,20 @@ test('store badges sit where the flower site puts them', () => {
       assert.ok(page.html.includes(`alt="${esc(copy.storeApple)}"`), `${language.code} apple`);
       assert.equal(page.html.includes('app-banner'), false, `${language.code} static shell`);
     }
-    const homeBand = home.html.slice(home.html.indexOf('class="band identify-band"'));
-    assert.ok(homeBand.indexOf(play) > homeBand.indexOf(esc(copy.keyOpen)), `${language.code} home`);
-    const aboutBand = about.html.slice(about.html.lastIndexOf('class="band identify-band"'));
-    assert.ok(aboutBand.indexOf(play) < aboutBand.indexOf('about-sister'), `${language.code} about`);
+    const flowerPlay = 'https://play.google.com/store/apps/details?id=sk.ab.herbs';
+    const flowerApple = 'https://apps.apple.com/us/app/whats-that-flower/id1449982118';
+    const flowerIdentify = `https://whatsthatflower.com${language.code === 'en' ? '' : '/' + language.code}/identify/`;
+    for (const page of [home, about]) {
+      const band = page.html.slice(page.html.indexOf('class="band identify-band"'));
+      assert.ok(band.indexOf(esc(copy.appInApp)) < band.indexOf(esc(copy.plantInApp)), `${language.code} order`);
+      assert.ok(band.indexOf(esc(copy.keyOpen)) < band.indexOf(play), `${language.code} mushroom key`);
+      assert.ok(band.indexOf(play) < band.indexOf(flowerPlay), `${language.code} stores`);
+      assert.ok(band.includes(flowerApple), `${language.code} apple`);
+      assert.ok(band.includes(flowerIdentify), `${language.code} flower web`);
+      assert.ok(band.includes('data-sister="1"'), `${language.code} sister stores`);
+    }
+    assert.equal(identify.html.includes('sk.ab.herbs'), false, `${language.code} identify`);
+    assert.equal(species.html.includes('sk.ab.herbs'), false, `${language.code} species`);
     const filters = identify.html.slice(
       identify.html.indexOf('class="identify-filters"'),
       identify.html.indexOf('class="identify-results"')
