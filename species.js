@@ -101828,5 +101828,837 @@ export const CATALOG = [
         notes: "Persoon описав вид 1797 р.; Fries санкціонував назву.",
       }
     }
+  },
+{
+  "id": 126,
+  "name": "Russula virescens",
+  "author": "(Schaeff.) Fr.",
+  "edibility": "choice",
+  "hymenium": "gills",
+  "where": [
+    "ground"
+  ],
+  "color": [
+    "green",
+    "yellow",
+    "white"
+  ],
+  "added": "2026-11-06",
+  "family": "Russulaceae",
+  "genus": "Russula",
+  "order": "Russulales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Russulales",
+    "Russulaceae",
+    "Russula"
+  ],
+  "summary": [
+    "Russulales",
+    "Russulaceae",
+    "Russula"
+  ],
+  "capFrom": 4,
+  "capTo": 15,
+  "stipeHeightFrom": 2.5,
+  "stipeHeightTo": 12,
+  "stipeThickFrom": 1.5,
+  "stipeThickTo": 5,
+  "fruitingFrom": 6,
+  "fruitingTo": 10,
+  "label": {
+    "en": "greencracked brittlegill",
+    "ja": "アイタケ",
+    "ko": "기와버섯",
+    "zh": "變綠紅菇",
+    "sk": "plávka zelenkastá",
+    "cs": "holubinka nazelenalá",
+    "de": "Grüngefelderter Täubling",
+    "fr": "russule verdoyante",
+    "es": "gorro verde",
+    "it": "colombina verde",
+    "bg": "зелена гълъбка",
+    "ru": "сыроежка зеленоватая",
+    "uk": "сироїжка луската",
+    "sr": "голубача",
+    "pl": "gołąbek zielonawy",
+    "hu": "varashátú galambgomba",
+    "ro": "oițe",
+    "hr": "golubača",
+    "sl": "zelenkasta golobica",
+    "nl": "Ruwe russula",
+    "da": "spanskgrøn skørhat",
+    "no": "rutekremle",
+    "sv": "rutkremla",
+    "fi": "ruutuhapero",
+    "et": "areoolpilvik"
+  },
+  "names": {
+    "en": ["green-cracking russula", "quilted green russula"],
+    "fr": ["palomet"],
+    "es": ["seta de cura", "gibelurdiña"],
+    "it": ["verdone"]
+  },
+  "plate": STORAGE + "photos/Russulales/Russulaceae/Russula_virescens/Russula_virescens@1600.webp",
+  "plateGrid": STORAGE + "photos/Russulales/Russulaceae/Russula_virescens/Russula_virescens@400.webp",
+  "plateCredit": {
+    "author": "L. Dufour (supplied source mark / publication credit; individual draughtsperson not independently established)",
+    "credit": "L. Dufour, Atlas des champignons comestibles et vénéneux (1891), pl. 30, no. 66. Individual draughtsperson unverified. Supplied prepared plate bears L. Dufour mark.",
+    "license": "Historical source public domain (1891); supplied prepared derivative provenance beyond supplied mark unverified",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Atlas_des_champignons_comestibles_et_v%C3%A9n%C3%A9neux_(Planche_30)_(6358020211).jpg"
+  },
+  "photos": [
+    {
+      "src": STORAGE + "photos/Russulales/Russulaceae/Russula_virescens/rv1.webp",
+      "author": "Björn Sothmann (Flickr: Björn S...)",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File%3AGreen-cracking%20Russula%20-%20Russula%20virescens%20%2823627794868%29.jpg"
+    },
+    {
+      "src": STORAGE + "photos/Russulales/Russulaceae/Russula_virescens/rv2.webp",
+      "author": "Björn Sothmann (Flickr: Björn S...)",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File%3AGreen-cracking%20Russula%20-%20Russula%20virescens%20%2836809338303%29.jpg"
+    },
+    {
+      "src": STORAGE + "photos/Russulales/Russulaceae/Russula_virescens/rv3.webp",
+      "author": "Lukas Large",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File%3ALukas%20Large%20-%20Russula%20virescens%20%2853127942902%29.jpg"
+    },
+    {
+      "src": STORAGE + "photos/Russulales/Russulaceae/Russula_virescens/rv4.webp",
+      "author": "Paffka",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File%3ARussula%20virescens2.JPG"
+    },
+    {
+      "src": STORAGE + "photos/Russulales/Russulaceae/Russula_virescens/rv5.webp",
+      "author": "Paffka",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File%3ARussula%20virescens3.JPG"
+    }
+  ],
+  "text": {
+    "en": {
+      "description": "A robust, ground-fruiting ectomycorrhizal mushroom of deciduous and mixed woodland, recorded across Europe, much of Asia and North Africa. It occurs singly or in small groups and is especially associated with mature broadleaf trees. Its frequency varies regionally, and it can fruit even during relatively dry weather.",
+      "cap": "4–15 cm across; initially almost spherical to convex, later flattened and often depressed centrally. Pale green, grey-green or verdigris, fading ochre or cream, with darker angular patches separated by pale cracks. Dry and matt to velvety, sometimes greasy when wet; the skin peels with difficulty, farther in wet weather. The margin may become faintly grooved.",
+      "hymenium": "Gills white, later cream, crowded at first and more widely spaced with age, narrowly attached to nearly free. Often forked and linked by cross-veins; brittle at maturity and liable to rusty-brown spotting.",
+      "stipe": "2.5–12 cm long and 1.5–5 cm thick; cylindrical or tapering at the base, white, firm and solid when young, later spongy inside. Smooth to finely wrinkled, sometimes powdery near the top; bruising and age may produce rusty-brown stains. No ring or volva.",
+      "flesh": "White, thick and initially very firm, becoming brittle and spongy with age; damaged areas may slowly brown. Odour faint or slightly fruity; flavour mild and nutty.",
+      "sporePrint": "White to pale cream. Spores broadly ellipsoid to nearly spherical, 5.5–10 × 4.5–8 µm, with low warts and variable fine connections, sometimes forming an incomplete network.",
+      "habitat": "On soil in light deciduous or mixed woods, chiefly with oaks, beech, birch and sweet chestnut, favouring non-calcareous or slightly acidic ground. Occasionally recorded in coniferous woods. Fruits mainly June–October in continental Europe, August–October in Britain and Ireland.",
+      "uses": "A highly regarded edible mushroom with a firm texture, used fried, sautéed, grilled, in soups or stews. Drying enhances its nutty flavour. Correct identification is essential because young green-capped mushrooms can include deadly species.",
+      "confusion": "Russula aeruginea and Russula heterophylla usually have smooth rather than strongly quilted caps. Amanita phalloides is deadly and has a ring and a volva enclosing the swollen stipe base, unlike this species. North American Russula parvovirescens is smaller, often bluer-green, with larger cap patches and a lined margin; Russula crustosa has a more variably coloured, moist-sticky cap and a darker yellow spore print.",
+      "notes": "A global assessment made in 2024 and published in 2025 rates the species Least Concern. North American records under this name include a complex of distinct species; they should not automatically be treated as the European species. The cap's quilted pattern may be poorly developed in young fruit bodies.",
+      "label": "greencracked brittlegill",
+      "names": [
+        "green-cracking russula",
+        "quilted green russula"
+      ],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/russula-virescens.php",
+        "https://botany.cz/cs/russula-virescens/",
+        "https://www.myko.cz/myko-atlas/Russula-virescens/",
+        "https://en.wikipedia.org/wiki/Russula_virescens",
+        "https://www.iucnredlist.org/species/230148498/260413110"
+      ]
+    },
+    "tr": {
+      "description": "Yaprak döken ve karışık ormanlarda toprak üzerinde meyve veren, Avrupa, Asya’nın büyük bölümü ve Kuzey Afrika’dan kaydedilmiş, iri yapılı ektomikorizal bir mantardır. Tek tek veya küçük gruplar hâlinde, özellikle olgun geniş yapraklı ağaçlarla birlikte görülür. Sıklığı bölgeye göre değişir; nispeten kuru havalarda bile meyve gövdeleri oluşturabilir.",
+      "cap": "4–15 cm genişliğinde; başlangıçta neredeyse küresel veya dışbükey, sonra yassı ve çoğunlukla ortası çöküktür. Soluk yeşil, gri-yeşil veya bakır pası yeşili, zamanla okra ya da krem rengine solar; açık renkli çatlaklarla ayrılmış koyu, köşeli parçalar taşır. Kuruyken mat veya kadifemsi, ıslakken bazen yağlıdır; üst deri zor soyulur, nemli havada daha içeri kadar ayrılabilir. Kenar hafif oluklu olabilir.",
+      "hymenium": "Lameller beyaz, sonra krem rengi, önce sık, yaşlandıkça daha seyrektir; sapa dar biçimde bağlı veya neredeyse serbesttir. Sıklıkla çatallanır ve enine damarlarla birleşir; olgunken kırılgandır, pas kahverengisi lekeler gelişebilir.",
+      "stipe": "2,5–12 cm uzunluğunda ve 1,5–5 cm kalınlığında; silindirik veya tabana doğru daralan, beyaz, gençken sert ve dolu, sonra içi süngerimsidir. Düz veya ince buruşuk, üstte bazen unumsudur; ezilme ve yaşlanma pas kahverengisi lekelere yol açabilir. Halka ve volva yoktur.",
+      "flesh": "Beyaz, kalın ve başlangıçta çok sert, yaşlandıkça kırılgan ve süngerimsidir; yaralı bölgeler yavaşça kahverengileşebilir. Koku hafif veya biraz meyvemsi, tat yumuşak ve fındıksıdır.",
+      "sporePrint": "Spor izi beyaz ile soluk krem arasındadır. Sporlar geniş elipsoit veya neredeyse küresel, 5,5–10 × 4,5–8 µm; alçak siğiller ve değişken ince bağlantılar taşır, bazen tamamlanmamış bir ağ oluşturur.",
+      "habitat": "Aydınlık yaprak döken veya karışık ormanlarda toprakta, başlıca meşe, kayın, huş ve kestane ile; kireçsiz veya hafif asitli zemini tercih eder. Bazen iğne yapraklı ormanlardan da kaydedilmiştir. Kıta Avrupası’nda çoğunlukla haziran–ekim, Britanya ve İrlanda’da ağustos–ekim arasında meyve verir.",
+      "uses": "Sert dokulu, çok değer verilen yenilebilir bir mantardır; kızartılarak, sotelenerek, ızgarada, çorba ve güveçlerde kullanılır. Kurutma fındıksı aromasını güçlendirir. Genç yeşil şapkalı mantarlar arasında ölümcül türler de bulunduğundan doğru teşhis zorunludur.",
+      "confusion": "Russula aeruginea ve Russula heterophylla genellikle belirgin mozaik çatlaklar yerine düzgün şapkalara sahiptir. Amanita phalloides ölümcüldür ve bu türden farklı olarak halkası ile şişkin sap tabanını çevreleyen volvası vardır. Kuzey Amerika’daki Russula parvovirescens daha küçük, çoğunlukla daha mavimsi yeşil, daha büyük şapka parçalı ve çizgili kenarlıdır; Russula crustosa daha değişken renkli, nemliyken yapışkan şapkaya ve daha koyu sarı spor izine sahiptir.",
+      "notes": "2024’te yapılan ve 2025’te yayımlanan küresel değerlendirme, türü Asgari Endişe (Least Concern) kategorisinde değerlendirir. Kuzey Amerika’da bu adla verilen kayıtlar farklı türlerden oluşan bir kompleksi kapsar; otomatik olarak Avrupa türü kabul edilmemelidir. Şapkanın mozaik deseni genç meyve gövdelerinde zayıf gelişmiş olabilir.",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/russula-virescens.php",
+        "https://botany.cz/cs/russula-virescens/",
+        "https://www.myko.cz/myko-atlas/Russula-virescens/",
+        "https://en.wikipedia.org/wiki/Russula_virescens",
+        "https://www.iucnredlist.org/species/230148498/260413110"
+      ]
+    },
+    "id": {
+      "description": "Jamur ektomikoriza bertubuh kokoh yang membentuk tubuh buah di tanah hutan gugur dan hutan campuran, tercatat di Eropa, sebagian besar Asia, serta Afrika Utara. Tumbuh sendiri atau dalam kelompok kecil, terutama berasosiasi dengan pohon berdaun lebar yang dewasa. Kelimpahannya berbeda antardaerah dan dapat berbuah bahkan saat cuaca relatif kering.",
+      "cap": "Lebar 4–15 cm; mula-mula hampir bulat atau cembung, kemudian mendatar dan sering cekung di tengah. Hijau pucat, hijau kelabu atau hijau patina tembaga, memudar menjadi oker atau krem, dengan petak bersudut lebih gelap yang dipisahkan retakan pucat. Kering dan kusam hingga seperti beludru, terkadang berminyak saat basah; kulit sulit dikelupas, lebih jauh dalam cuaca lembap. Tepi dapat menjadi sedikit beralur.",
+      "hymenium": "Bilah putih, kemudian krem, rapat pada awalnya dan lebih renggang seiring umur, melekat sempit hingga hampir bebas. Sering bercabang dan dihubungkan urat melintang; rapuh saat dewasa dan dapat bernoda cokelat karat.",
+      "stipe": "Panjang 2,5–12 cm dan tebal 1,5–5 cm; silindris atau mengecil ke pangkal, putih, kokoh dan padat saat muda, kemudian bagian dalam seperti spons. Licin hingga berkerut halus, terkadang bertepung dekat puncak; memar dan penuaan dapat menghasilkan noda cokelat karat. Tanpa cincin atau volva.",
+      "flesh": "Putih, tebal, dan sangat padat pada awalnya, menjadi rapuh serta seperti spons seiring umur; bagian yang rusak dapat perlahan mencokelat. Bau lemah atau agak seperti buah; rasa lembut dan menyerupai kacang.",
+      "sporePrint": "Cetakan spora putih hingga krem pucat. Spora elipsoid lebar hingga hampir bulat, 5,5–10 × 4,5–8 µm, berkutil rendah dengan hubungan tipis yang bervariasi, kadang membentuk jala tidak lengkap.",
+      "habitat": "Di tanah hutan gugur atau campuran yang terang, terutama bersama ek, beech, birch, dan kastanya manis, menyukai tanah tidak berkapur atau agak asam. Sesekali tercatat di hutan konifer. Berbuah terutama Juni–Oktober di Eropa daratan, Agustus–Oktober di Britania dan Irlandia.",
+      "uses": "Jamur pangan yang sangat dihargai, bertekstur padat, digunakan untuk digoreng, ditumis, dipanggang, dalam sup atau rebusan. Pengeringan memperkuat rasa kacangnya. Identifikasi yang tepat mutlak diperlukan karena jamur muda bertudung hijau juga mencakup spesies mematikan.",
+      "confusion": "Russula aeruginea dan Russula heterophylla biasanya bertudung licin, bukan berpola retak mosaik yang jelas. Amanita phalloides mematikan dan, berbeda dengan spesies ini, memiliki cincin serta volva yang membungkus pangkal tangkai membengkak. Russula parvovirescens dari Amerika Utara lebih kecil, sering lebih hijau kebiruan, dengan petak tudung lebih besar dan tepi bergaris; Russula crustosa bertudung lebih beragam warnanya, lengket saat lembap, dan bercetakan spora kuning lebih gelap.",
+      "notes": "Penilaian global pada 2024 yang diterbitkan pada 2025 menempatkan spesies ini dalam kategori Risiko Rendah (Least Concern). Catatan Amerika Utara dengan nama ini mencakup kompleks spesies berbeda dan tidak boleh otomatis dianggap sebagai spesies Eropa. Pola petak tudung dapat belum berkembang jelas pada tubuh buah muda.",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/russula-virescens.php",
+        "https://botany.cz/cs/russula-virescens/",
+        "https://www.myko.cz/myko-atlas/Russula-virescens/",
+        "https://en.wikipedia.org/wiki/Russula_virescens",
+        "https://www.iucnredlist.org/species/230148498/260413110"
+      ]
+    },
+    "ja": {
+      "description": "落葉樹林や混交林の地上に発生する、がっしりした外生菌根性のキノコです。ヨーロッパ、アジアの広い範囲、北アフリカで記録されています。単生または小群生し、特に成熟した広葉樹と結び付きます。出現頻度には地域差があり、比較的乾燥した天候でも子実体を形成することがあります。",
+      "cap": "直径4–15 cmです。初めはほぼ球形からまんじゅう形で、後に平らに開き、中央がくぼむことがよくあります。淡緑色、灰緑色、緑青色で、黄土色やクリーム色に退色し、淡い亀裂の間に濃い角張った斑が残ります。乾くとつやがなくビロード状で、ぬれるとやや脂状になることがあります。表皮ははがれにくく、湿った時はより内側まではがれます。縁に浅い溝が出ることがあります。",
+      "hymenium": "ひだは白色からクリーム色で、初めは密、老成するとやや疎になります。柄に狭く付き、ほぼ離生となることもあります。しばしば分岐し、横脈でつながります。成熟するともろく、さび褐色のしみを生じることがあります。",
+      "stipe": "長さ2.5–12 cm、太さ1.5–5 cmです。円筒形または基部が細く、白色で、若い時は硬く中実、後に内部が海綿状になります。表面は平滑から細かいしわがあり、上部に粉を帯びることがあります。傷や老成でさび褐色のしみが出ることがあります。つばとつぼはありません。",
+      "flesh": "白色で厚く、初めは非常に硬いですが、老成するともろく海綿状になります。傷ついた部分はゆっくり褐変することがあります。においは弱いか、やや果実様で、味は穏やかなナッツ様です。",
+      "sporePrint": "胞子紋は白色から淡いクリーム色です。胞子は広楕円形からほぼ球形、5.5–10 × 4.5–8 µmで、低いいぼと変化に富む細い連結があり、不完全な網目を作ることもあります。",
+      "habitat": "明るい落葉樹林や混交林の土壌上に発生し、主にナラ類、ブナ類、カバノキ類、ヨーロッパグリと共生します。石灰質でない土壌や弱酸性土壌を好み、針葉樹林でも時折記録されます。主な発生期はヨーロッパ大陸で6–10月、イギリスとアイルランドで8–10月です。",
+      "uses": "歯応えのある肉質で高く評価される食用菌で、炒め物、ソテー、焼き物、スープ、煮込みに使われます。乾燥するとナッツ様の風味が強まります。緑色の傘を持つ幼菌には致死的な種も含まれるため、正確な同定が不可欠です。",
+      "confusion": "Russula aerugineaとRussula heterophyllaの傘は通常平滑で、強いモザイク状のひび割れはありません。Amanita phalloidesは致死的な毒を持ち、本種とは異なり、つばと膨らんだ柄の基部を包むつぼがあります。北米のRussula parvovirescensは小型で、青緑色が強く、傘の斑が大きく縁に条線があります。Russula crustosaは傘の色がより変化に富み、湿ると粘り、胞子紋はより濃い黄色です。",
+      "notes": "2024年に実施され2025年に公表された世界的な評価では、低懸念（Least Concern）とされています。 北米でこの名が使われる記録には複数の別種が含まれ、ヨーロッパの種と自動的に同一視すべきではありません。傘のモザイク模様は若い子実体では目立たないことがあります。",
+      "label": "アイタケ",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/russula-virescens.php",
+        "https://botany.cz/cs/russula-virescens/",
+        "https://www.myko.cz/myko-atlas/Russula-virescens/",
+        "https://en.wikipedia.org/wiki/Russula_virescens",
+        "https://www.iucnredlist.org/species/230148498/260413110",
+        "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%BF%E3%82%B1"
+      ]
+    },
+    "ko": {
+      "description": "낙엽수림과 혼합림의 땅에서 자실체를 만드는 튼튼한 외생균근성 버섯으로, 유럽과 아시아의 넓은 지역, 북아프리카에 기록되어 있습니다. 홀로 또는 작은 무리를 이루며, 특히 다 자란 활엽수와 연관됩니다. 지역마다 출현 빈도가 다르고 비교적 건조한 날씨에도 자실체를 만들 수 있습니다.",
+      "cap": "지름은 4–15 cm이며, 처음에는 거의 구형에서 볼록한 모양이다가 나중에 편평해지고 가운데가 오목해지는 경우가 많습니다. 연녹색, 회녹색 또는 녹청색이며 황토색이나 크림색으로 바래고, 연한 균열 사이에 짙은 각진 조각이 남습니다. 마르면 무광택에서 벨벳 질감이고 젖으면 때로 기름기가 돕니다. 표피는 잘 벗겨지지 않지만 습할 때는 더 안쪽까지 벗겨집니다. 가장자리에 희미한 홈이 생길 수 있습니다.",
+      "hymenium": "주름살은 흰색에서 크림색으로 변하며 처음에는 빽빽하고 나이가 들수록 성깁니다. 대에 좁게 붙거나 거의 떨어집니다. 흔히 갈라지고 가로맥으로 연결되며, 성숙하면 부서지기 쉽고 녹슨 갈색 반점이 생길 수 있습니다.",
+      "stipe": "길이 2.5–12 cm, 굵기 1.5–5 cm입니다. 원통형이거나 밑으로 가늘어지며 흰색이고, 어릴 때는 단단하고 속이 차 있지만 나중에는 내부가 해면질이 됩니다. 매끈하거나 잔주름이 있고 위쪽에 가루가 끼기도 합니다. 상처와 노화로 녹슨 갈색 얼룩이 생길 수 있습니다. 턱받이와 대주머니는 없습니다.",
+      "flesh": "흰색이고 두꺼우며 처음에는 매우 단단하지만 나이가 들면 잘 부서지고 해면질이 됩니다. 손상된 곳은 천천히 갈변할 수 있습니다. 냄새는 약하거나 약간 과일 향이 나며, 맛은 순하고 견과류와 비슷합니다.",
+      "sporePrint": "포자문은 흰색에서 연한 크림색입니다. 포자는 넓은 타원형에서 거의 구형이고 5.5–10 × 4.5–8 µm이며, 낮은 돌기와 다양한 가는 연결선이 있어 때로 불완전한 그물무늬를 이룹니다.",
+      "habitat": "밝은 낙엽수림이나 혼합림의 토양에서 주로 참나무류, 너도밤나무류, 자작나무류 및 유럽밤나무와 함께 자라며, 비석회질 또는 약산성 토양을 선호합니다. 드물게 침엽수림에서도 기록됩니다. 주로 유럽 대륙에서 6–10월, 영국과 아일랜드에서 8–10월에 발생합니다.",
+      "uses": "단단한 식감으로 높이 평가되는 식용버섯이며 볶거나 굽고, 수프와 스튜에도 씁니다. 건조하면 견과류 같은 풍미가 강해집니다. 어린 녹색 갓 버섯에는 치명적인 종도 있으므로 정확한 동정이 필수입니다.",
+      "confusion": "Russula aeruginea와 Russula heterophylla는 보통 갓이 매끈하며 뚜렷한 모자이크형 균열이 없습니다. Amanita phalloides는 치명적인 독버섯으로, 이 종과 달리 턱받이와 부푼 대 밑부분을 감싸는 대주머니가 있습니다. 북미의 Russula parvovirescens는 더 작고 흔히 청록색이 강하며 갓 조각이 크고 가장자리에 줄무늬가 있습니다. Russula crustosa는 갓 색이 더 다양하고 습할 때 끈적이며 포자문은 더 짙은 노란색입니다.",
+      "notes": "2024년에 이루어져 2025년에 발표된 전 세계 평가는 이 종을 관심대상(Least Concern)으로 분류합니다. 북미에서 이 이름으로 기록된 버섯에는 여러 독립 종이 포함되므로 유럽 종과 자동으로 같다고 보아서는 안 됩니다. 어린 자실체에서는 갓의 모자이크 무늬가 약하게 발달할 수 있습니다.",
+      "label": "기와버섯",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/russula-virescens.php",
+        "https://botany.cz/cs/russula-virescens/",
+        "https://www.myko.cz/myko-atlas/Russula-virescens/",
+        "https://en.wikipedia.org/wiki/Russula_virescens",
+        "https://www.iucnredlist.org/species/230148498/260413110",
+        "https://ko.wikipedia.org/wiki/%EA%B8%B0%EC%99%80%EB%B2%84%EC%84%AF"
+      ]
+    },
+    "zh": {
+      "description": "一種粗壯、在地面形成子實體的外生菌根真菌，生於落葉林及混合林，記錄分布於歐洲、亞洲大部分地區和北非。單生或小群生，尤其與成熟的闊葉樹相關。各地常見程度不一，在相對乾燥的天氣中也能形成子實體。",
+      "cap": "直徑4–15 cm；初期近球形至凸形，後來平展，中央常凹陷。淡綠、灰綠或銅綠色，逐漸褪為赭色或乳油色，較深的角狀斑塊由淺色裂縫分隔。乾時無光澤至絨毛狀，潮濕時有時略呈油潤；表皮不易剝離，濕時可剝得較深。邊緣可能出現淺溝。",
+      "hymenium": "菌褶白色，後轉乳油色，初期緻密，隨老熟而較疏，狹幅連接蕈柄至近離生。常分叉並有橫脈相連；成熟時易碎，可出現鏽褐色斑點。",
+      "stipe": "長2.5–12 cm，粗1.5–5 cm；圓柱形或向基部漸細，白色，幼時堅實且實心，後來內部呈海綿狀。表面平滑至有細皺，頂端有時帶粉；受傷和老熟可產生鏽褐色斑點。無菌環及菌托。",
+      "flesh": "白色、厚，初期很堅實，隨老熟變脆、呈海綿狀；受損部位可能緩慢褐變。氣味微弱或略帶果香，滋味溫和、似堅果。",
+      "sporePrint": "孢子印白色至淡乳油色。孢子寬橢圓形至近球形，5.5–10 × 4.5–8 µm，有低疣及多變的細連線，有時形成不完整網紋。",
+      "habitat": "生於明亮落葉林或混合林的土壤，主要與櫟、山毛櫸、樺及歐洲栗共生，偏好非石灰質或微酸性土壤。偶爾也記錄於針葉林。歐洲大陸主要在6–10月形成子實體，英國及愛爾蘭為8–10月。",
+      "uses": "肉質堅實、評價很高的食用菇，可煎、炒、烤，或用於湯及燉菜。乾燥可增強堅果風味。正確鑑定極為重要，因為綠色蕈傘的幼菇也可能屬於致命物種。",
+      "confusion": "Russula aeruginea及Russula heterophylla的蕈傘通常平滑，沒有明顯的拼塊狀裂紋。Amanita phalloides具有致命毒性，與本種不同，帶菌環，膨大的蕈柄基部有菌托包圍。北美的Russula parvovirescens較小，常更偏藍綠色，斑塊較大且傘緣有條紋；Russula crustosa的傘色變化較多，潮濕時黏，孢子印為較深的黃色。",
+      "notes": "2024年進行、2025年公布的全球評估將本種列為無危（Least Concern）。 北美以此名稱發表的記錄包含數個獨立物種，不應自動視為歐洲的同一物種。幼子實體的拼塊狀傘面紋路可能尚不明顯。",
+      "label": "變綠紅菇",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/russula-virescens.php",
+        "https://botany.cz/cs/russula-virescens/",
+        "https://www.myko.cz/myko-atlas/Russula-virescens/",
+        "https://en.wikipedia.org/wiki/Russula_virescens",
+        "https://www.iucnredlist.org/species/230148498/260413110",
+        "https://zh.wikipedia.org/wiki/%E8%AE%8A%E7%B6%A0%E7%B4%85%E8%8F%87"
+      ]
+    },
+    "sk": {
+      "description": "Robustná ektomykorízna huba rastúca na zemi v listnatých a zmiešaných lesoch, zaznamenaná v Európe, vo veľkej časti Ázie a v severnej Afrike. Plodnice vyrastajú jednotlivo alebo v malých skupinách, najmä pri dospelých listnatých stromoch. Jej hojnosť sa regionálne líši a môže plodiť aj za pomerne suchého počasia.",
+      "cap": "Klobúk má priemer 4–15 cm; za mladi je takmer guľovitý až klenutý, neskôr plochý a často v strede prehĺbený. Je bledozelený, sivozelený alebo medenkovozelený, blednúci do okrova či krémova, s tmavšími hranatými políčkami oddelenými bledými prasklinami. Za sucha je matný až zamatový, za vlhka niekedy mastný; pokožka sa ťažko olupuje, za vlhka ďalej od okraja. Okraj môže byť jemne ryhovaný.",
+      "hymenium": "Lupene sú biele, neskôr krémové, spočiatku husté a vekom redšie, úzko pripojené až takmer voľné. Často sú vidlené a priečne žilkované, v dospelosti krehké, náchylné na hrdzavohnedé škvrny.",
+      "stipe": "Hlúbik je 2,5–12 cm dlhý a 1,5–5 cm hrubý, valcovitý alebo smerom k báze zúžený, biely, za mladi pevný a plný, neskôr vnútri špongiovitý. Je hladký až jemne vrásčitý, pri vrchole niekedy oinovatený; po otlačení a starnutím môže hrdzavohnedo škvrnatieť. Nemá prsteň ani pošvu.",
+      "flesh": "Dužina je biela, hrubá, spočiatku veľmi pevná, vekom krehká a špongiovitá; poškodené miesta môžu pomaly hnednúť. Vôňa je slabá až jemne ovocná, chuť mierna, oriešková.",
+      "sporePrint": "Výtrusný prach je biely až bledokrémový. Výtrusy sú široko elipsoidné až takmer guľovité, 5,5–10 × 4,5–8 µm, s nízkymi bradavkami a premenlivými jemnými spojkami, niekedy tvoriacimi neúplnú sieťku.",
+      "habitat": "Rastie na pôde vo svetlých listnatých a zmiešaných lesoch, najmä pri duboch, bukoch, brezách a gaštanoch jedlých, uprednostňuje nevápenaté až mierne kyslé pôdy. Príležitostne sa uvádza aj z ihličnatých lesov. V kontinentálnej Európe plodí najmä od júna do októbra, v Británii a Írsku od augusta do októbra.",
+      "uses": "Vysoko cenená jedlá huba s pevnou konzistenciou, používaná na vyprážanie, opekanie, grilovanie, do polievok a dusených jedál. Sušenie zvýrazňuje orieškovú chuť. Správne určenie je nevyhnutné, pretože medzi mladými hubami so zeleným klobúkom sú aj smrteľne jedovaté druhy.",
+      "confusion": "Russula aeruginea a Russula heterophylla majú zvyčajne hladký, nie výrazne políčkovito rozpukaný klobúk. Amanita phalloides je smrteľne jedovatá a na rozdiel od tohto druhu má prsteň a pošvu obaľujúcu zhrubnutú bázu hlúbika. Severoamerická Russula parvovirescens je menšia, často modrozelenejšia, s väčšími políčkami a ryhovaným okrajom; Russula crustosa má farebne premenlivejší, za vlhka lepkavý klobúk a tmavší žltý výtrusný prach.",
+      "notes": "Celosvetové hodnotenie z roku 2024, zverejnené v roku 2025, ho zaraďuje medzi málo dotknuté druhy (Least Concern). Severoamerické nálezy pod týmto menom zahŕňajú komplex samostatných druhov; nemožno ich automaticky stotožňovať s európskym druhom. Políčkovitá kresba klobúka môže byť u mladých plodníc slabo vyvinutá.",
+      "label": "plávka zelenkastá",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/russula-virescens.php",
+        "https://botany.cz/cs/russula-virescens/",
+        "https://www.myko.cz/myko-atlas/Russula-virescens/",
+        "https://en.wikipedia.org/wiki/Russula_virescens",
+        "https://www.iucnredlist.org/species/230148498/260413110",
+        "https://mykospol.sk/wp-content/uploads/2019/04/Spravodajca_c-242000.pdf"
+      ]
+    },
+    "cs": {
+      "description": "Robustní ektomykorhizní houba rostoucí na zemi v listnatých a smíšených lesích, zaznamenaná v Evropě, ve velké části Asie a v severní Africe. Plodnice vyrůstají jednotlivě nebo v malých skupinách, zejména u vzrostlých listnatých stromů. Její hojnost se regionálně liší a může plodit i za poměrně suchého počasí.",
+      "cap": "Klobouk má průměr 4–15 cm; zprvu je téměř kulovitý až vyklenutý, později plochý a často uprostřed vmáčklý. Je světle zelený, šedozelený nebo měděnkově zelený, blednoucí do okrova či krémova, s tmavšími hranatými políčky oddělenými světlými prasklinami. Za sucha matný až sametový, za vlhka někdy mastný; pokožka se obtížně slupuje, za vlhka dále od okraje. Okraj může být jemně rýhovaný.",
+      "hymenium": "Lupeny jsou bílé, později krémové, zprvu husté a s věkem řidší, úzce připojené až téměř volné. Často jsou vidlené a příčně žilnatě propojené, v dospělosti křehké a náchylné k rezavohnědému skvrnění.",
+      "stipe": "Třeň je dlouhý 2,5–12 cm a tlustý 1,5–5 cm, válcovitý nebo k bázi zúžený, bílý, zprvu pevný a plný, později uvnitř houbovitý. Hladký až jemně vrásčitý, při vrcholu někdy ojíněný; otlačením a stářím může rezavohnědě skvrnit. Bez prstenu a pochvy.",
+      "flesh": "Dužnina je bílá, tlustá a zprvu velmi pevná, stářím křehká a houbovitá; poškozená místa mohou pomalu hnědnout. Vůně slabá až lehce ovocná, chuť mírná a oříšková.",
+      "sporePrint": "Výtrusný prach je bílý až světle krémový. Výtrusy jsou široce elipsoidní až téměř kulovité, 5,5–10 × 4,5–8 µm, s nízkými bradavkami a proměnlivými jemnými spojkami, někdy vytvářejícími neúplnou síťku.",
+      "habitat": "Roste na půdě ve světlých listnatých a smíšených lesích, zejména u dubů, buků, bříz a kaštanovníků jedlých, přednostně na nevápenatých až mírně kyselých půdách. Občas se uvádí i z jehličnatých lesů. V kontinentální Evropě plodí hlavně od června do října, v Británii a Irsku od srpna do října.",
+      "uses": "Vysoce ceněná jedlá houba pevné konzistence, používaná ke smažení, opékání, grilování, do polévek a dušených pokrmů. Sušení zvýrazňuje oříškovou chuť. Správné určení je nezbytné, protože mezi mladými houbami se zeleným kloboukem jsou i smrtelně jedovaté druhy.",
+      "confusion": "Russula aeruginea a Russula heterophylla mají obvykle hladký, nikoli výrazně políčkovitě rozpraskaný klobouk. Amanita phalloides je smrtelně jedovatá a na rozdíl od tohoto druhu má prsten a pochvu obklopující ztlustlou bázi třeně. Severoamerická Russula parvovirescens je menší, často modrozelenější, s většími políčky a rýhovaným okrajem; Russula crustosa má barevně proměnlivější, za vlhka lepkavý klobouk a tmavší žlutý výtrusný prach.",
+      "notes": "Celosvětové hodnocení z roku 2024, zveřejněné v roce 2025, jej řadí mezi málo dotčené druhy (Least Concern). Severoamerické nálezy pod tímto jménem zahrnují komplex samostatných druhů; nelze je automaticky ztotožňovat s evropským druhem. Políčkovitá kresba klobouku může být u mladých plodnic slabě vyvinutá.",
+      "label": "holubinka nazelenalá",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/russula-virescens.php",
+        "https://botany.cz/cs/russula-virescens/",
+        "https://www.myko.cz/myko-atlas/Russula-virescens/",
+        "https://en.wikipedia.org/wiki/Russula_virescens",
+        "https://www.iucnredlist.org/species/230148498/260413110"
+      ]
+    },
+    "de": {
+      "description": "Ein kräftiger, am Boden fruchtender Ektomykorrhizapilz aus Laub- und Mischwäldern, der in Europa, weiten Teilen Asiens und Nordafrika nachgewiesen ist. Er wächst einzeln oder in kleinen Gruppen, besonders bei älteren Laubbäumen. Seine Häufigkeit ist regional unterschiedlich; Fruchtkörper können auch bei vergleichsweise trockenem Wetter erscheinen.",
+      "cap": "4–15 cm breit; anfangs fast kugelig bis gewölbt, später ausgebreitet und oft mittig vertieft. Blassgrün, graugrün oder spangrün, nach Ocker oder Creme verblassend, mit dunkleren eckigen Feldern zwischen hellen Rissen. Trocken matt bis samtig, bei Nässe bisweilen schmierig; die Huthaut lässt sich schwer, bei Nässe weiter abziehen. Der Rand kann schwach gerieft sein.",
+      "hymenium": "Lamellen weiß, später cremefarben, zunächst gedrängt, im Alter entfernter stehend, schmal angewachsen bis fast frei. Häufig gegabelt und queraderig verbunden; reif brüchig und zu rostbraunen Flecken neigend.",
+      "stipe": "2,5–12 cm lang und 1,5–5 cm dick; zylindrisch oder zur Basis verjüngt, weiß, jung fest und voll, später innen schwammig. Glatt bis fein runzelig, oben gelegentlich bereift; Druckstellen und Alter können rostbraune Flecken verursachen. Ohne Ring und Volva.",
+      "flesh": "Weiß, dick und anfangs sehr fest, im Alter brüchig und schwammig; verletzte Stellen können langsam bräunen. Geruch schwach oder leicht fruchtig, Geschmack mild und nussig.",
+      "sporePrint": "Weiß bis blass cremefarben. Sporen breit ellipsoid bis fast kugelig, 5,5–10 × 4,5–8 µm, mit niedrigen Warzen und unterschiedlich ausgeprägten feinen Verbindungen, die bisweilen ein unvollständiges Netz bilden.",
+      "habitat": "Auf Erde in lichten Laub- und Mischwäldern, besonders bei Eichen, Buchen, Birken und Esskastanien, bevorzugt auf kalkarmen bis leicht sauren Böden. Gelegentlich auch in Nadelwäldern nachgewiesen. Fruchtet in Kontinentaleuropa hauptsächlich Juni–Oktober, in Großbritannien und Irland August–Oktober.",
+      "uses": "Ein sehr geschätzter Speisepilz mit fester Konsistenz, der gebraten, geschmort, gegrillt sowie in Suppen und Eintöpfen verwendet wird. Trocknen verstärkt das nussige Aroma. Eine sichere Bestimmung ist unerlässlich, da unter jungen grünhütigen Pilzen auch tödlich giftige Arten sind.",
+      "confusion": "Russula aeruginea und Russula heterophylla besitzen meist glatte statt stark gefelderte Hüte. Amanita phalloides ist tödlich giftig und hat im Gegensatz zu dieser Art einen Ring sowie eine Volva um die verdickte Stielbasis. Die nordamerikanische Russula parvovirescens ist kleiner, oft bläulicher grün, mit größeren Hutfeldern und gerieftem Rand; Russula crustosa hat einen farblich variableren, bei Nässe klebrigen Hut und dunkler gelbes Sporenpulver.",
+      "notes": "Eine globale Bewertung von 2024, veröffentlicht 2025, stuft die Art als nicht gefährdet (Least Concern) ein. Nordamerikanische Funde unter diesem Namen umfassen einen Komplex eigenständiger Arten und dürfen nicht automatisch der europäischen Art gleichgesetzt werden. Bei jungen Fruchtkörpern kann die Hutfelderung schwach ausgeprägt sein.",
+      "label": "Grüngefelderter Täubling",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/russula-virescens.php",
+        "https://botany.cz/cs/russula-virescens/",
+        "https://www.myko.cz/myko-atlas/Russula-virescens/",
+        "https://en.wikipedia.org/wiki/Russula_virescens",
+        "https://www.iucnredlist.org/species/230148498/260413110",
+        "https://de.wikipedia.org/wiki/Gr%C3%BCngefelderter%20T%C3%A4ubling"
+      ]
+    },
+    "fr": {
+      "description": "Un champignon robuste, ectomycorhizien, fructifiant au sol dans les bois feuillus et mixtes, signalé en Europe, dans une grande partie de l’Asie et en Afrique du Nord. Il pousse isolément ou en petits groupes, surtout auprès d’arbres feuillus adultes. Sa fréquence varie selon les régions et il peut fructifier par temps relativement sec.",
+      "cap": "4–15 cm de diamètre ; d’abord presque sphérique à convexe, puis étalé, souvent déprimé au centre. Vert pâle, gris-vert ou vert-de-gris, pâlissant vers l’ocre ou le crème, avec des plaques anguleuses plus sombres séparées par des fissures claires. Sec et mat à velouté, parfois gras par temps humide ; la cuticule se pèle difficilement, plus loin par temps humide. La marge peut devenir légèrement sillonnée.",
+      "hymenium": "Lames blanches puis crème, d’abord serrées, plus espacées avec l’âge, étroitement adnées à presque libres. Souvent fourchues et reliées par des veines transversales ; cassantes à maturité, pouvant se tacher de brun rouille.",
+      "stipe": "2,5–12 cm de long et 1,5–5 cm d’épaisseur ; cylindrique ou aminci à la base, blanc, ferme et plein jeune, puis spongieux à l’intérieur. Lisse à finement ridé, parfois poudré au sommet ; le vieillissement et les meurtrissures peuvent provoquer des taches brun rouille. Sans anneau ni volve.",
+      "flesh": "Blanche, épaisse et très ferme au début, devenant cassante et spongieuse avec l’âge ; les blessures peuvent brunir lentement. Odeur faible ou légèrement fruitée ; saveur douce, de noisette.",
+      "sporePrint": "Sporée blanche à crème pâle. Spores largement ellipsoïdes à presque sphériques, 5,5–10 × 4,5–8 µm, à verrues basses et fines connexions variables, formant parfois un réseau incomplet.",
+      "habitat": "Sur le sol des bois clairs, feuillus ou mixtes, surtout avec les chênes, hêtres, bouleaux et châtaigniers, de préférence sur sol non calcaire ou légèrement acide. Parfois signalé dans les bois de conifères. Fructifie principalement de juin à octobre en Europe continentale, d’août à octobre en Grande-Bretagne et en Irlande.",
+      "uses": "Un comestible très apprécié, de texture ferme, utilisé poêlé, sauté, grillé, en soupe ou en ragoût. Le séchage renforce sa saveur de noisette. Une identification certaine est indispensable, car de jeunes champignons à chapeau vert peuvent appartenir à des espèces mortelles.",
+      "confusion": "Russula aeruginea et Russula heterophylla ont généralement un chapeau lisse plutôt que fortement craquelé en plaques. Amanita phalloides est mortelle et porte un anneau ainsi qu’une volve entourant la base renflée du pied, contrairement à cette espèce. La nord-américaine Russula parvovirescens est plus petite, souvent plus bleu-vert, à grandes plaques et marge striée ; Russula crustosa possède un chapeau de couleur plus variable, visqueux à l’humidité, et une sporée jaune plus foncé.",
+      "notes": "Une évaluation mondiale réalisée en 2024 et publiée en 2025 classe l’espèce en préoccupation mineure (Least Concern). Les récoltes nord-américaines sous ce nom comprennent un complexe d’espèces distinctes ; elles ne doivent pas être assimilées automatiquement à l’espèce européenne. Le dessin en plaques peut être peu développé chez les jeunes fructifications.",
+      "label": "russule verdoyante",
+      "names": [
+        "palomet"
+      ],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/russula-virescens.php",
+        "https://botany.cz/cs/russula-virescens/",
+        "https://www.myko.cz/myko-atlas/Russula-virescens/",
+        "https://en.wikipedia.org/wiki/Russula_virescens",
+        "https://www.iucnredlist.org/species/230148498/260413110",
+        "https://fr.wikipedia.org/wiki/Russule%20verdoyante"
+      ]
+    },
+    "es": {
+      "description": "Un hongo robusto, ectomicorrícico, que fructifica en el suelo de bosques caducifolios y mixtos, citado en Europa, gran parte de Asia y el norte de África. Crece aislado o en pequeños grupos, especialmente asociado a árboles de hoja ancha maduros. Su frecuencia varía regionalmente y puede fructificar incluso con tiempo relativamente seco.",
+      "cap": "4–15 cm de diámetro; al principio casi esférico o convexo, después aplanado y a menudo deprimido en el centro. Verde pálido, gris verdoso o verde cardenillo, palideciendo a ocre o crema, con placas angulosas más oscuras separadas por grietas claras. Seco, mate o aterciopelado, a veces grasiento en húmedo; la cutícula se pela con dificultad, más lejos del borde cuando está húmeda. El margen puede volverse ligeramente acanalado.",
+      "hymenium": "Láminas blancas, después crema, apretadas al principio y más separadas con la edad, estrechamente adheridas a casi libres. A menudo bifurcadas y unidas por venas transversales; frágiles al madurar, con tendencia a mancharse de pardo herrumbroso.",
+      "stipe": "2,5–12 cm de largo y 1,5–5 cm de grosor; cilíndrico o atenuado en la base, blanco, firme y macizo de joven, después esponjoso por dentro. Liso o finamente arrugado, a veces pulverulento cerca del ápice; la edad y las magulladuras pueden producir manchas pardo herrumbrosas. Sin anillo ni volva.",
+      "flesh": "Blanca, gruesa y muy firme al principio, volviéndose quebradiza y esponjosa con la edad; las zonas dañadas pueden pardear lentamente. Olor débil o ligeramente afrutado; sabor suave y a frutos secos.",
+      "sporePrint": "Esporada blanca a crema pálido. Esporas anchamente elipsoidales a casi esféricas, 5,5–10 × 4,5–8 µm, con verrugas bajas y finas conexiones variables, que a veces forman una red incompleta.",
+      "habitat": "En el suelo de bosques claros caducifolios o mixtos, principalmente con robles, hayas, abedules y castaños, preferentemente en terrenos no calizos o ligeramente ácidos. Ocasionalmente citada en bosques de coníferas. Fructifica sobre todo de junio a octubre en Europa continental, y de agosto a octubre en Gran Bretaña e Irlanda.",
+      "uses": "Comestible muy apreciado, de textura firme, empleado frito, salteado, a la parrilla, en sopas o guisos. El secado intensifica su sabor a frutos secos. Es esencial identificarlo correctamente, pues entre los hongos jóvenes de sombrero verde hay especies mortales.",
+      "confusion": "Russula aeruginea y Russula heterophylla suelen tener el sombrero liso, no marcadamente cuarteado. Amanita phalloides es mortal y tiene anillo y una volva que envuelve la base engrosada del pie, a diferencia de esta especie. La norteamericana Russula parvovirescens es menor, a menudo más azul verdosa, con placas mayores y margen estriado; Russula crustosa tiene un sombrero de color más variable, pegajoso en húmedo, y esporada amarillo más oscuro.",
+      "notes": "Una evaluación mundial realizada en 2024 y publicada en 2025 clasifica la especie como de preocupación menor (Least Concern). Los registros norteamericanos bajo este nombre incluyen un complejo de especies distintas; no deben atribuirse automáticamente a la especie europea. El cuarteado del sombrero puede estar poco desarrollado en ejemplares jóvenes.",
+      "label": "gorro verde",
+      "names": [
+        "seta de cura",
+        "gibelurdiña"
+      ],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/russula-virescens.php",
+        "https://botany.cz/cs/russula-virescens/",
+        "https://www.myko.cz/myko-atlas/Russula-virescens/",
+        "https://en.wikipedia.org/wiki/Russula_virescens",
+        "https://www.iucnredlist.org/species/230148498/260413110",
+        "https://gd.eppo.int/taxon/RUSSVR"
+      ]
+    },
+    "it": {
+      "description": "Un fungo robusto, ectomicorrizico, che fruttifica sul terreno nei boschi di latifoglie e misti, segnalato in Europa, in gran parte dell’Asia e in Nordafrica. Cresce isolato o in piccoli gruppi, soprattutto associato a latifoglie mature. La frequenza varia secondo la regione e può fruttificare anche con tempo relativamente secco.",
+      "cap": "Largo 4–15 cm; dapprima quasi sferico o convesso, poi appianato e spesso depresso al centro. Verde pallido, grigioverde o verderame, scolorente all’ocra o al crema, con placche angolose più scure separate da fessure chiare. Asciutto e opaco o vellutato, talora untuoso da bagnato; la cuticola si asporta con difficoltà, più estesamente con l’umidità. Il margine può diventare debolmente solcato.",
+      "hymenium": "Lamelle bianche, poi crema, inizialmente fitte e più distanziate con l’età, strettamente adnate o quasi libere. Spesso forcate e collegate da venature trasversali; fragili a maturità, soggette a macchie bruno ruggine.",
+      "stipe": "Lungo 2,5–12 cm e spesso 1,5–5 cm; cilindrico o assottigliato alla base, bianco, sodo e pieno da giovane, poi spugnoso internamente. Liscio o finemente rugoso, talora pruinoso presso l’apice; con l’età e alla pressione può macchiarsi di bruno ruggine. Senza anello né volva.",
+      "flesh": "Bianca, spessa e inizialmente molto soda, poi fragile e spugnosa con l’età; le lesioni possono imbrunire lentamente. Odore debole o lievemente fruttato; sapore mite, di nocciola.",
+      "sporePrint": "Sporata bianca o crema pallido. Spore largamente ellissoidali o quasi sferiche, 5,5–10 × 4,5–8 µm, con basse verruche e sottili connessioni variabili, talora formanti un reticolo incompleto.",
+      "habitat": "Sul terreno in boschi luminosi di latifoglie o misti, soprattutto con querce, faggi, betulle e castagni, preferendo suoli non calcarei o leggermente acidi. Occasionalmente segnalato nei boschi di conifere. Fruttifica principalmente da giugno a ottobre nell’Europa continentale, da agosto a ottobre in Gran Bretagna e Irlanda.",
+      "uses": "Commestibile molto apprezzato, di consistenza soda, utilizzato fritto, saltato, alla griglia, in zuppe e stufati. L’essiccazione intensifica il sapore di nocciola. È essenziale un’identificazione corretta, perché fra i giovani funghi dal cappello verde figurano specie mortali.",
+      "confusion": "Russula aeruginea e Russula heterophylla hanno di solito il cappello liscio anziché fortemente tassellato. Amanita phalloides è mortale e presenta anello e volva che avvolge la base ingrossata del gambo, diversamente da questa specie. La nordamericana Russula parvovirescens è più piccola, spesso più verde-bluastra, con placche maggiori e margine striato; Russula crustosa ha un cappello dai colori più variabili, viscoso da umido, e una sporata gialla più scura.",
+      "notes": "Una valutazione globale del 2024, pubblicata nel 2025, classifica la specie a minor preoccupazione (Least Concern). Le segnalazioni nordamericane con questo nome comprendono un complesso di specie distinte e non vanno attribuite automaticamente alla specie europea. La tassellatura del cappello può essere poco sviluppata nei giovani esemplari.",
+      "label": "colombina verde",
+      "names": [
+        "verdone"
+      ],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/russula-virescens.php",
+        "https://botany.cz/cs/russula-virescens/",
+        "https://www.myko.cz/myko-atlas/Russula-virescens/",
+        "https://en.wikipedia.org/wiki/Russula_virescens",
+        "https://www.iucnredlist.org/species/230148498/260413110",
+        "https://gd.eppo.int/taxon/RUSSVR"
+      ]
+    },
+    "ar": {
+      "description": "فطر قوي البنية يكوّن أجسامه الثمرية على التربة في الغابات النفضية والمختلطة، ويقيم علاقة جذرية فطرية خارجية مع الأشجار. سُجل في أوروبا وأجزاء واسعة من آسيا وشمال أفريقيا. ينمو منفردًا أو في مجموعات صغيرة، ولا سيما قرب الأشجار عريضة الأوراق البالغة. تتفاوت وفرته إقليميًا، وقد يثمر حتى في طقس جاف نسبيًا.",
+      "cap": "قطرها ٤–١٥ cm؛ تكون في البداية شبه كروية إلى محدبة، ثم تنبسط وغالبًا تنخفض في المركز. لونها أخضر شاحب أو رمادي مخضر أو أخضر زنجاري، ويبهت إلى المغري أو الكريمي، مع رقع زاويّة أغمق تفصلها شقوق فاتحة. سطحها جاف ومطفأ إلى مخملي، وقد يصبح دهنيًا عند البلل؛ يصعب تقشير الجلد، لكنه ينفصل لمسافة أبعد في الرطوبة. قد تظهر أخاديد خفيفة على الحافة.",
+      "hymenium": "الصفائح بيضاء ثم كريمية، متزاحمة أولًا ثم تتباعد مع العمر، ضيقة الاتصال بالساق إلى شبه حرة. كثيرًا ما تتفرع وتتصل بعروق عرضية؛ تصبح هشة عند النضج وقد تحمل بقعًا بنية صدئية.",
+      "stipe": "طولها ٢٫٥–١٢ cm وسمكها ١٫٥–٥ cm؛ أسطوانية أو متضيقة نحو القاعدة، بيضاء، متماسكة ومصمتة في الصغر ثم إسفنجية من الداخل. ملساء إلى دقيقة التجعد، وأحيانًا مسحوقية قرب القمة؛ قد يسبب الرض والتقدم في العمر بقعًا بنية صدئية. لا حلقة ولا غمد عند القاعدة.",
+      "flesh": "أبيض وسميك وشديد التماسك أولًا، ثم يصبح هشًا وإسفنجيًا مع العمر؛ قد تسمر المواضع المصابة ببطء. الرائحة ضعيفة أو فاكهية قليلًا، والطعم لطيف يشبه المكسرات.",
+      "sporePrint": "طبعة الأبواغ بيضاء إلى كريمية شاحبة. الأبواغ إهليلجية عريضة إلى شبه كروية، ٥٫٥–١٠ × ٤٫٥–٨ µm، ذات ثآليل منخفضة وروابط دقيقة متفاوتة قد تشكل شبكة غير مكتملة.",
+      "habitat": "على التربة في الغابات النفضية أو المختلطة المفتوحة، خصوصًا مع البلوط والزان والبتولا والكستناء الحلوة، مفضلًا التربة غير الكلسية أو الحمضية قليلًا. يسجل أحيانًا في الغابات الصنوبرية. يثمر أساسًا من يونيو إلى أكتوبر في أوروبا القارية، ومن أغسطس إلى أكتوبر في بريطانيا وأيرلندا.",
+      "uses": "فطر مأكول عالي التقدير ذو قوام متماسك، يُستخدم مقليًا أو مشوحًا أو مشويًا وفي الحساء واليخنات. يعزز التجفيف نكهته الشبيهة بالمكسرات. التعرف الدقيق ضروري لأن الفطريات الصغيرة ذات القبعات الخضراء قد تشمل أنواعًا قاتلة.",
+      "confusion": "تكون قبعات Russula aeruginea وRussula heterophylla عادة ملساء وليست شديدة التشقق إلى رقع. النوع Amanita phalloides قاتل، وله حلقة وغمد يحيط بقاعدة الساق المتضخمة، بخلاف هذا النوع. النوع الأميركي الشمالي Russula parvovirescens أصغر وغالبًا أكثر زرقة في خضرته، برقع أكبر وحافة مخططة؛ أما Russula crustosa فقبعته أكثر تنوعًا في اللون ولزجة عند الرطوبة، وطبعة أبواغه أصفر أغمق.",
+      "notes": "يصنف تقييم عالمي أُجري عام ٢٠٢٤ ونُشر عام ٢٠٢٥ النوع ضمن فئة غير مهدد (Least Concern). تشمل السجلات الأميركية الشمالية بهذا الاسم مجموعة من الأنواع المستقلة، ولا ينبغي اعتبارها تلقائيًا النوع الأوروبي نفسه. قد يكون نمط الرقع على القبعة ضعيف التطور في الأجسام الثمرية الفتية.",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/russula-virescens.php",
+        "https://botany.cz/cs/russula-virescens/",
+        "https://www.myko.cz/myko-atlas/Russula-virescens/",
+        "https://en.wikipedia.org/wiki/Russula_virescens",
+        "https://www.iucnredlist.org/species/230148498/260413110"
+      ]
+    },
+    "fa": {
+      "description": "قارچی تنومند و دارای همزیستی قارچ‌ریشه‌ای بیرونی است که روی خاک جنگل‌های خزان‌کننده و آمیخته باردهی می‌کند و از اروپا، بخش بزرگی از آسیا و شمال آفریقا گزارش شده است. تک‌تک یا در گروه‌های کوچک، به‌ویژه همراه درختان پهن‌برگ بالغ می‌روید. فراوانی آن منطقه‌به‌منطقه متفاوت است و حتی در هوای نسبتاً خشک نیز می‌تواند بار بدهد.",
+      "cap": "پهنای آن ۴–۱۵ cm است؛ ابتدا تقریباً کروی تا محدب، سپس تخت و اغلب در مرکز فرورفته می‌شود. سبز کم‌رنگ، خاکستری‌سبز یا سبز زنگاری است و به اُخرایی یا کرم می‌گراید؛ لکه‌های زاویه‌دار تیره‌تر را شکاف‌های روشن از هم جدا می‌کنند. خشک و مات تا مخملی است و گاهی در رطوبت حالت چرب دارد؛ پوست به‌سختی جدا می‌شود، اما در هوای مرطوب تا فاصلهٔ بیشتری کنده می‌شود. لبه ممکن است اندکی شیاردار شود.",
+      "hymenium": "تیغه‌ها سفید و سپس کرم‌اند، ابتدا فشرده و با افزایش سن دورتر از هم، با اتصال باریک به پایه تا تقریباً آزاد. اغلب منشعب و با رگ‌های عرضی به هم پیوسته‌اند؛ هنگام بلوغ شکننده می‌شوند و ممکن است لکه‌های قهوه‌ای زنگاری بگیرند.",
+      "stipe": "طول ۲٫۵–۱۲ cm و ضخامت ۱٫۵–۵ cm؛ استوانه‌ای یا رو به قاعده باریک‌شونده، سفید، در جوانی سفت و توپر و سپس درون آن اسفنجی است. صاف تا ریزچروک، گاهی نزدیک رأس پودری؛ آسیب و پیری ممکن است لکه‌های قهوه‌ای زنگاری ایجاد کند. حلقه و غلاف ندارد.",
+      "flesh": "سفید، ضخیم و ابتدا بسیار سفت است، با افزایش سن شکننده و اسفنجی می‌شود؛ بخش‌های آسیب‌دیده ممکن است آهسته قهوه‌ای شوند. بو ضعیف یا اندکی میوه‌ای و مزه ملایم و آجیلی است.",
+      "sporePrint": "چاپ هاگ سفید تا کرم کم‌رنگ است. هاگ‌ها بیضوی پهن تا تقریباً کروی، به ابعاد ۵٫۵–۱۰ × ۴٫۵–۸ µm، با زگیل‌های کوتاه و پیوندهای ظریف متغیرند که گاه شبکه‌ای ناقص می‌سازند.",
+      "habitat": "روی خاک جنگل‌های روشن خزان‌کننده یا آمیخته، عمدتاً همراه بلوط، راش، توس و شاه‌بلوط خوراکی، با ترجیح خاک غیرآهکی یا کمی اسیدی. گاه از جنگل‌های سوزنی‌برگ نیز گزارش می‌شود. باردهی عمدتاً ژوئن تا اکتبر در اروپای قاره‌ای و اوت تا اکتبر در بریتانیا و ایرلند است.",
+      "uses": "قارچ خوراکی بسیار ارزشمندی با بافت سفت است که سرخ‌کرده، تفت‌داده، کبابی و در سوپ و خوراک استفاده می‌شود. خشک‌کردن طعم آجیلی آن را تقویت می‌کند. شناسایی درست ضروری است، زیرا قارچ‌های جوان با کلاهک سبز ممکن است شامل گونه‌های کشنده باشند.",
+      "confusion": "کلاهک Russula aeruginea و Russula heterophylla معمولاً صاف است و ترک‌خوردگی موزاییکی شدید ندارد. گونهٔ Amanita phalloides کشنده است و برخلاف این گونه، حلقه و غلافی پیرامون قاعدهٔ متورم پایه دارد. گونهٔ آمریکای شمالی Russula parvovirescens کوچک‌تر و اغلب سبزآبی‌تر، با لکه‌های بزرگ‌تر و لبهٔ خط‌دار است؛ Russula crustosa کلاهکی با رنگ متغیرتر و چسبناک در رطوبت و چاپ هاگ زرد تیره‌تر دارد.",
+      "notes": "ارزیابی جهانی انجام‌شده در ۲۰۲۴ و منتشرشده در ۲۰۲۵، این گونه را در ردهٔ کمترین نگرانی (Least Concern) قرار می‌دهد. گزارش‌های آمریکای شمالی با این نام مجموعه‌ای از گونه‌های مجزا را در بر می‌گیرند و نباید خودکار با گونهٔ اروپایی یکسان دانسته شوند. الگوی موزاییکی کلاهک در اندام‌های باردهٔ جوان ممکن است کم‌رشد باشد.",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/russula-virescens.php",
+        "https://botany.cz/cs/russula-virescens/",
+        "https://www.myko.cz/myko-atlas/Russula-virescens/",
+        "https://en.wikipedia.org/wiki/Russula_virescens",
+        "https://www.iucnredlist.org/species/230148498/260413110"
+      ]
+    },
+    "he": {
+      "description": "פטרייה חסונה היוצרת גופי פרי על הקרקע ביערות נשירים ומעורבים ומקיימת קשר אקטומיקוריזי עם עצים. היא תועדה באירופה, בחלקים נרחבים של אסיה ובצפון אפריקה. גדלה ביחידות או בקבוצות קטנות, בעיקר לצד עצים רחבי עלים בוגרים. שכיחותה משתנה בין אזורים והיא יכולה להניב גם במזג אוויר יבש יחסית.",
+      "cap": "קוטר 4–15 cm; בתחילה כמעט כדורי עד קמור, ובהמשך שטוח ולעיתים קרובות שקוע במרכז. ירוק בהיר, אפור־ירוק או ירוק כפטינת נחושת, הדוהה לאוכרה או לקרם, עם מקטעים זוויתיים כהים יותר המופרדים בסדקים בהירים. יבש ומט עד קטיפתי, לפעמים שמנוני כשהוא רטוב; העור מתקלף בקושי, ולמרחק רב יותר בלחות. השוליים עשויים להיחרץ מעט.",
+      "hymenium": "הדפים לבנים ואחר כך קרמיים, צפופים בתחילה ומרווחים יותר עם הגיל, מחוברים לרגל בחיבור צר עד כמעט חופשיים. לעיתים קרובות מסועפים ומחוברים בעורקים רוחביים; בבגרות הם שבירים ועלולים לקבל כתמים חומים־חלודים.",
+      "stipe": "אורך 2.5–12 cm ועובי 1.5–5 cm; גלילית או מצטמצמת לבסיס, לבנה, מוצקה ומלאה בצעירותה ובהמשך ספוגית מבפנים. חלקה עד מקומטת בעדינות, לעיתים אבקתית סמוך לקצה העליון; פציעה והזדקנות עשויות ליצור כתמים חומים־חלודים. ללא טבעת או נרתיק.",
+      "flesh": "לבן, עבה וקשיח מאוד בתחילה, נעשה שביר וספוגי עם הגיל; אזורים פגועים עשויים להשחים לאט. הריח חלש או פירותי מעט, והטעם עדין ואגוזי.",
+      "sporePrint": "תדפיס הנבגים לבן עד קרם חיוור. הנבגים אליפסואידיים רחבים עד כמעט כדוריים, 5.5–10 × 4.5–8 µm, בעלי יבלות נמוכות וקשרים דקים משתנים, היוצרים לעיתים רשת חלקית.",
+      "habitat": "על הקרקע ביערות נשירים או מעורבים מוארים, בעיקר עם אלונים, אשורים, שדרים וערמונים מתוקים, תוך העדפת קרקע לא גירנית או חומצית מעט. תועדה לעיתים גם ביערות מחטניים. מניבה בעיקר ביוני–אוקטובר באירופה היבשתית ובאוגוסט–אוקטובר בבריטניה ובאירלנד.",
+      "uses": "פטריית מאכל מוערכת מאוד בעלת מרקם מוצק, המשמשת לטיגון, להקפצה, לצלייה, למרקים ולתבשילים. הייבוש מחזק את טעמה האגוזי. זיהוי מדויק חיוני, שכן בין הפטריות הצעירות בעלות הכובע הירוק יש גם מינים קטלניים.",
+      "confusion": "לרוב הכובעים של Russula aeruginea ושל Russula heterophylla חלקים, ולא סדוקים מאוד למקטעים. Amanita phalloides קטלנית, ובניגוד למין זה יש לה טבעת ונרתיק המקיף את בסיס הרגל המעובה. Russula parvovirescens מצפון אמריקה קטנה יותר, לעיתים קרובות כחולה־ירוקה יותר, עם מקטעים גדולים יותר ושוליים מפוספסים; ל־Russula crustosa צבע כובע משתנה יותר, משטח דביק בלחות ותדפיס נבגים צהוב כהה יותר.",
+      "notes": "הערכה עולמית שנערכה ב־2024 ופורסמה ב־2025 מסווגת את המין ללא חשש (Least Concern). הדיווחים מצפון אמריקה תחת שם זה כוללים מכלול של מינים נפרדים ואין לזהותם אוטומטית עם המין האירופי. דוגמת המקטעים בכובע עשויה להיות חלשה בגופי פרי צעירים.",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/russula-virescens.php",
+        "https://botany.cz/cs/russula-virescens/",
+        "https://www.myko.cz/myko-atlas/Russula-virescens/",
+        "https://en.wikipedia.org/wiki/Russula_virescens",
+        "https://www.iucnredlist.org/species/230148498/260413110"
+      ]
+    },
+    "hi": {
+      "description": "पर्णपाती और मिश्रित वनों की मिट्टी पर फलनकाय बनाने वाला एक मजबूत बाह्य कवकमूल-सहजीवी कवक है, जो यूरोप, एशिया के बड़े भाग और उत्तरी अफ्रीका में दर्ज है। यह अकेले या छोटे समूहों में उगता है, विशेषकर परिपक्व चौड़ी पत्ती वाले वृक्षों के साथ। इसकी प्रचुरता क्षेत्रानुसार बदलती है और अपेक्षाकृत शुष्क मौसम में भी फलन हो सकता है।",
+      "cap": "चौड़ाई 4–15 cm; शुरुआत में लगभग गोलाकार से उत्तल, बाद में चपटी और अक्सर बीच में धँसी हुई। हल्की हरी, धूसर-हरी या ताँबे की हरी परत जैसी, जो गेरुए या क्रीम रंग में फीकी पड़ती है; गहरे कोणीय खंड हल्की दरारों से अलग होते हैं। सूखी और फीकी से मखमली, गीली होने पर कभी चिकनाईयुक्त; त्वचा कठिनाई से उतरती है, नमी में अधिक भीतर तक उतर सकती है। किनारा थोड़ा खाँचेदार हो सकता है।",
+      "hymenium": "गलफड़े सफेद, फिर क्रीम रंग के होते हैं; पहले घने और उम्र के साथ अधिक दूर-दूर, डंठल से संकीर्ण रूप से जुड़े या लगभग स्वतंत्र। अक्सर शाखित और आड़ी शिराओं से जुड़े; परिपक्व होने पर भंगुर और जंग-भूरे धब्बों वाले हो सकते हैं।",
+      "stipe": "लंबाई 2.5–12 cm और मोटाई 1.5–5 cm; बेलनाकार या आधार की ओर पतला, सफेद, युवा अवस्था में दृढ़ और ठोस, बाद में भीतर स्पंजी। चिकना से बारीक झुर्रीदार, कभी शीर्ष के पास चूर्णिल; चोट और उम्र से जंग-भूरे धब्बे बन सकते हैं। छल्ला और वॉल्वा नहीं होते।",
+      "flesh": "सफेद, मोटा और शुरुआत में बहुत दृढ़, उम्र के साथ भंगुर और स्पंजी; क्षतिग्रस्त भाग धीरे-धीरे भूरे हो सकते हैं। गंध हल्की या कुछ फल जैसी; स्वाद सौम्य और मेवे जैसा।",
+      "sporePrint": "बीजाणु-छाप सफेद से हल्की क्रीम। बीजाणु चौड़े दीर्घवृत्ताकार से लगभग गोलाकार, 5.5–10 × 4.5–8 µm, छोटी मस्सेनुमा उभारों और परिवर्तनशील महीन जोड़ वाली सतह के साथ, जो कभी अधूरा जाल बनाती है।",
+      "habitat": "खुले पर्णपाती या मिश्रित वनों की मिट्टी पर, मुख्यतः बलूत, बीच, बर्च और मीठे शाहबलूत के साथ, गैर-चूनेदार या थोड़ी अम्लीय भूमि को पसंद करता है। कभी-कभी शंकुधारी वनों में भी दर्ज है। महाद्वीपीय यूरोप में मुख्यतः जून–अक्टूबर और ब्रिटेन तथा आयरलैंड में अगस्त–अक्टूबर में फलन होता है।",
+      "uses": "दृढ़ बनावट वाला अत्यंत पसंद किया जाने वाला खाद्य मशरूम; इसे तलकर, हल्का भूनकर, ग्रिल करके तथा सूप और स्टू में उपयोग करते हैं। सुखाने से मेवे जैसा स्वाद बढ़ता है। सही पहचान अनिवार्य है, क्योंकि हरी टोपी वाले युवा मशरूमों में घातक प्रजातियाँ भी होती हैं।",
+      "confusion": "Russula aeruginea और Russula heterophylla की टोपी आम तौर पर चिकनी होती है, स्पष्ट खंडित मोज़ेक जैसी नहीं। Amanita phalloides घातक है और इस प्रजाति के विपरीत उसमें छल्ला तथा फूले हुए डंठल-आधार को घेरे हुए वॉल्वा होता है। उत्तरी अमेरिका की Russula parvovirescens छोटी, अक्सर अधिक नीली-हरी, बड़े टोपी-खंडों और धारियों वाले किनारे की होती है; Russula crustosa की टोपी का रंग अधिक परिवर्तनशील, नमी में चिपचिपा और बीजाणु-छाप अधिक गहरी पीली होती है।",
+      "notes": "2024 में किए गए और 2025 में प्रकाशित वैश्विक आकलन में इसे संकटमुक्त (Least Concern) श्रेणी में रखा गया है। उत्तरी अमेरिका में इस नाम से दर्ज नमूने अलग-अलग प्रजातियों के एक समूह में आते हैं; उन्हें स्वतः यूरोपीय प्रजाति नहीं मानना चाहिए। युवा फलनकायों में टोपी का खंडित पैटर्न कम विकसित हो सकता है।",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/russula-virescens.php",
+        "https://botany.cz/cs/russula-virescens/",
+        "https://www.myko.cz/myko-atlas/Russula-virescens/",
+        "https://en.wikipedia.org/wiki/Russula_virescens",
+        "https://www.iucnredlist.org/species/230148498/260413110"
+      ]
+    },
+    "bg": {
+      "description": "Едра ектомикоризна гъба, която образува плодни тела върху почвата в широколистни и смесени гори, известна от Европа, голяма част от Азия и Северна Африка. Расте поединично или на малки групи, особено край възрастни широколистни дървета. Честотата ѝ варира по райони и може да плододава дори при сравнително сухо време.",
+      "cap": "Широка 4–15 cm; отначало почти кълбовидна до изпъкнала, по-късно плоска и често вдлъбната в средата. Бледозелена, сивозелена или меднозелена, избледняваща до охрена или кремава, с по-тъмни ъгловати полета, разделени от светли пукнатини. Суха и матова до кадифена, понякога мазна при влага; кожицата се обелва трудно, по-навътре при влажно време. Ръбът може да стане слабо набразден.",
+      "hymenium": "Пластинките са бели, после кремави, първоначално гъсти, с възрастта по-редки, тясно прикрепени до почти свободни. Често раздвоени и свързани с напречни жилки; зрели са крехки и могат да получат ръждивокафяви петна.",
+      "stipe": "Дълго 2,5–12 cm и дебело 1,5–5 cm; цилиндрично или стесняващо се към основата, бяло, младо твърдо и плътно, по-късно гъбесто отвътре. Гладко до фино набръчкано, понякога напрашено на върха; нараняванията и стареенето могат да причинят ръждивокафяви петна. Без пръстен и волва.",
+      "flesh": "Бяло, дебело и първоначално много твърдо, с възрастта крехко и гъбесто; наранените места могат бавно да покафенеят. Мирисът е слаб или леко плодов, вкусът мек и орехов.",
+      "sporePrint": "Споровият прашец е бял до бледокремав. Спорите са широко елипсоидни до почти кълбовидни, 5,5–10 × 4,5–8 µm, с ниски брадавици и променливи фини връзки, понякога образуващи непълна мрежа.",
+      "habitat": "Върху почва в светли широколистни или смесени гори, главно с дъбове, букове, брези и ядливи кестени, предпочитайки неваровити или слабо кисели терени. Понякога е установена в иглолистни гори. Плододава главно юни–октомври в континентална Европа, август–октомври във Великобритания и Ирландия.",
+      "uses": "Високо ценена ядлива гъба с твърда текстура, използвана пържена, сотирана, печена на скара, в супи и яхнии. Сушенето засилва ореховия вкус. Правилното определяне е решаващо, защото сред младите гъби със зелена гугла има и смъртоносни видове.",
+      "confusion": "Russula aeruginea и Russula heterophylla обикновено имат гладки, а не силно мозаично напукани гугли. Amanita phalloides е смъртоносна и за разлика от този вид има пръстен и волва около удебелената основа на пънчето. Северноамериканската Russula parvovirescens е по-дребна, често по-синьозелена, с по-големи полета и набразден ръб; Russula crustosa има по-променлив цвят на гуглата, лепкава при влага, и по-тъмножълт споров прашец.",
+      "notes": "Глобална оценка от 2024 г., публикувана през 2025 г., определя вида като слабо засегнат (Least Concern). Северноамериканските находки под това име включват комплекс от отделни видове и не бива автоматично да се отъждествяват с европейския вид. Мозаичният рисунък на гуглата може да е слабо развит при младите плодни тела.",
+      "label": "зелена гълъбка",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/russula-virescens.php",
+        "https://botany.cz/cs/russula-virescens/",
+        "https://www.myko.cz/myko-atlas/Russula-virescens/",
+        "https://en.wikipedia.org/wiki/Russula_virescens",
+        "https://www.iucnredlist.org/species/230148498/260413110",
+        "https://bg.wikipedia.org/wiki/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0%20%D0%B3%D1%8A%D0%BB%D1%8A%D0%B1%D0%BA%D0%B0"
+      ]
+    },
+    "ru": {
+      "description": "Крупный наземный эктомикоризный гриб лиственных и смешанных лесов, отмеченный в Европе, значительной части Азии и Северной Африке. Растёт одиночно или небольшими группами, особенно в связи со взрослыми широколиственными деревьями. Частота встречаемости различается по регионам; плодовые тела могут появляться даже в сравнительно сухую погоду.",
+      "cap": "Диаметром 4–15 cm; вначале почти шаровидная или выпуклая, позднее плоская, часто вдавленная в центре. Бледно-зелёная, серо-зелёная или медно-зелёная, выцветающая до охристой либо кремовой, с более тёмными угловатыми участками, разделёнными светлыми трещинами. Сухая, матовая или бархатистая, во влажности иногда жирная; кожица снимается трудно, при намокании дальше от края. Край может стать слабо бороздчатым.",
+      "hymenium": "Пластинки белые, затем кремовые, сначала частые, с возрастом более редкие, узко приросшие до почти свободных. Часто разветвлены и соединены поперечными жилками; зрелые ломкие, склонны к ржаво-бурым пятнам.",
+      "stipe": "Длиной 2,5–12 cm и толщиной 1,5–5 cm; цилиндрическая или суженная к основанию, белая, молодая плотная и сплошная, позднее внутри губчатая. Гладкая или мелкоморщинистая, иногда мучнистая наверху; повреждения и старение могут вызывать ржаво-бурые пятна. Кольца и вольвы нет.",
+      "flesh": "Белая, толстая, вначале очень плотная, с возрастом ломкая и губчатая; повреждённые участки могут медленно буреть. Запах слабый или слегка фруктовый, вкус мягкий, ореховый.",
+      "sporePrint": "Споровый порошок белый до бледно-кремового. Споры широкоэллипсоидные до почти шаровидных, 5,5–10 × 4,5–8 µm, с низкими бородавками и изменчивыми тонкими перемычками, иногда образующими неполную сеточку.",
+      "habitat": "На почве в светлых лиственных и смешанных лесах, преимущественно с дубами, буками, берёзами и съедобными каштанами, предпочитает неизвестковые или слабокислые почвы. Изредка отмечается в хвойных лесах. Плодоносит главным образом в июне–октябре в континентальной Европе, в августе–октябре в Великобритании и Ирландии.",
+      "uses": "Высоко ценимый съедобный гриб с плотной консистенцией; его жарят, пассеруют, готовят на гриле, добавляют в супы и тушёные блюда. Сушка усиливает ореховый вкус. Точное определение необходимо, поскольку среди молодых зеленошляпочных грибов есть смертельно ядовитые виды.",
+      "confusion": "Russula aeruginea и Russula heterophylla обычно имеют гладкие, а не сильно растрескавшиеся на поля шляпки. Amanita phalloides смертельно ядовита и, в отличие от этого вида, имеет кольцо и вольву вокруг утолщённого основания ножки. Североамериканская Russula parvovirescens мельче, часто более сине-зелёная, с крупными полями на шляпке и полосатым краем; Russula crustosa имеет более изменчивую окраску шляпки, липкую во влажности поверхность и более тёмный жёлтый споровый порошок.",
+      "notes": "Глобальная оценка 2024 года, опубликованная в 2025 году, относит вид к категории вызывающих наименьшие опасения (Least Concern). Североамериканские находки под этим названием включают комплекс самостоятельных видов; их нельзя автоматически приравнивать к европейскому виду. Мозаичный рисунок шляпки у молодых плодовых тел может быть слабо развит.",
+      "label": "сыроежка зеленоватая",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/russula-virescens.php",
+        "https://botany.cz/cs/russula-virescens/",
+        "https://www.myko.cz/myko-atlas/Russula-virescens/",
+        "https://en.wikipedia.org/wiki/Russula_virescens",
+        "https://www.iucnredlist.org/species/230148498/260413110",
+        "https://ru.wikipedia.org/wiki/%D0%A1%D1%8B%D1%80%D0%BE%D0%B5%D0%B6%D0%BA%D0%B0%20%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D1%82%D0%B0%D1%8F"
+      ]
+    },
+    "uk": {
+      "description": "Масивний наземний ектомікоризний гриб листяних і мішаних лісів, відомий у Європі, значній частині Азії та Північній Африці. Росте поодинці або невеликими групами, особливо у зв’язку з дорослими широколистяними деревами. Частота трапляння різниться за регіонами; може плодоносити навіть за порівняно сухої погоди.",
+      "cap": "Діаметром 4–15 cm; спочатку майже куляста або опукла, згодом плоска, часто втиснута посередині. Блідо-зелена, сіро-зелена чи мідно-зелена, вицвітає до вохристої або кремової, з темнішими кутастими ділянками, розділеними світлими тріщинами. Суха, матова або оксамитова, у вологу погоду іноді масна; шкірка знімається важко, у вологому стані далі від краю. Край може стати слабкоборозенчастим.",
+      "hymenium": "Пластинки білі, згодом кремові, спочатку густі, з віком рідші, вузько прирослі до майже вільних. Часто розгалужені й з’єднані поперечними жилками; зрілі крихкі, можуть мати іржаво-бурі плями.",
+      "stipe": "Завдовжки 2,5–12 cm і завтовшки 1,5–5 cm; циліндрична або звужена до основи, біла, молода щільна й суцільна, згодом губчаста всередині. Гладка або дрібнозморшкувата, іноді борошниста вгорі; пошкодження та старіння можуть спричиняти іржаво-бурі плями. Без кільця й вольви.",
+      "flesh": "М’якуш білий, товстий, спочатку дуже щільний, з віком крихкий і губчастий; пошкоджені місця можуть повільно буріти. Запах слабкий або злегка фруктовий, смак м’який, горіховий.",
+      "sporePrint": "Споровий порошок білий до блідо-кремового. Спори широкоеліпсоїдні до майже кулястих, 5,5–10 × 4,5–8 µm, з низькими бородавками й мінливими тонкими перемичками, що іноді утворюють неповну сіточку.",
+      "habitat": "На ґрунті у світлих листяних або мішаних лісах, переважно з дубами, буками, березами та їстівними каштанами, надає перевагу невапняковим або слабокислим ґрунтам. Іноді відома з хвойних лісів. Плодоносить здебільшого в червні–жовтні в континентальній Європі, у серпні–жовтні у Великій Британії та Ірландії.",
+      "uses": "Високо цінований їстівний гриб зі щільною консистенцією; його смажать, пасерують, готують на грилі, використовують у супах і тушкованих стравах. Сушіння посилює горіховий смак. Правильне визначення необхідне, адже серед молодих зеленошапинкових грибів є смертельно отруйні види.",
+      "confusion": "Russula aeruginea і Russula heterophylla зазвичай мають гладкі, а не сильно розтріскані на поля шапинки. Amanita phalloides смертельно отруйна й, на відміну від цього виду, має кільце та вольву навколо потовщеної основи ніжки. Північноамериканська Russula parvovirescens дрібніша, часто синьозеленіша, з більшими полями й смугастим краєм; Russula crustosa має мінливіше забарвлення шапинки, липку у вологу погоду поверхню та темніший жовтий споровий порошок.",
+      "notes": "Глобальна оцінка 2024 року, опублікована 2025 року, відносить вид до категорії з найменшим ризиком (Least Concern). Північноамериканські знахідки під цією назвою охоплюють комплекс окремих видів; їх не слід автоматично ототожнювати з європейським видом. Мозаїчний малюнок шапинки в молодих плодових тіл може бути слабко розвинений.",
+      "label": "сироїжка луската",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/russula-virescens.php",
+        "https://botany.cz/cs/russula-virescens/",
+        "https://www.myko.cz/myko-atlas/Russula-virescens/",
+        "https://en.wikipedia.org/wiki/Russula_virescens",
+        "https://www.iucnredlist.org/species/230148498/260413110",
+        "https://uk.wikipedia.org/wiki/%D0%A1%D0%B8%D1%80%D0%BE%D1%97%D0%B6%D0%BA%D0%B0%20%D0%BB%D1%83%D1%81%D0%BA%D0%B0%D1%82%D0%B0"
+      ]
+    },
+    "sr": {
+      "description": "Крупна ектомикоризна гљива која плодоноси на тлу у листопадним и мешовитим шумама, забележена у Европи, већем делу Азије и северној Африци. Расте појединачно или у малим групама, нарочито уз одрасла широколисна стабла. Учесталост се разликује по областима, а може плодоносити и по релативно сувом времену.",
+      "cap": "Широк 4–15 cm; испрва готово лоптаст до испупчен, касније раван и често удубљен у средини. Бледозелен, сивозелен или зелен попут патине, бледи у окер или крем боју, са тамнијим угластим пољима раздвојеним светлим пукотинама. Сув и мат до баршунаст, понекад мастан када је влажан; кожица се тешко љушти, дубље по влажном времену. Ивица може постати благо избраздана.",
+      "hymenium": "Листићи су бели, потом кремасти, испрва густи, са старошћу ређи, уско прирасли до готово слободни. Често рачвасти и повезани попречним жилицама; у зрелости крти и склони рђастосмеђим пегама.",
+      "stipe": "Дуга 2,5–12 cm и дебела 1,5–5 cm; цилиндрична или сужена ка основи, бела, млада чврста и пуна, касније сунђераста изнутра. Глатка до фино наборана, понекад брашнаста при врху; повреде и старост могу изазвати рђастосмеђе мрље. Без прстена и волве.",
+      "flesh": "Бело, дебело и испрва веома чврсто, старењем крто и сунђерасто; оштећена места могу полако посмеђети. Мирис слаб или благо воћан, укус благ и орашаст.",
+      "sporePrint": "Отисак спора бео до бледокремаст. Споре широко елипсоидне до готово лоптасте, 5,5–10 × 4,5–8 µm, са ниским брадавицама и променљивим танким везама, које понекад граде непотпуну мрежу.",
+      "habitat": "На тлу у светлим листопадним или мешовитим шумама, углавном уз храстове, букве, брезе и питоме кестене, радо на некречњачком или благо киселом тлу. Повремено забележена у четинарским шумама. Плодоноси претежно од јуна до октобра у континенталној Европи, од августа до октобра у Британији и Ирској.",
+      "uses": "Веома цењена јестива гљива чврсте текстуре, користи се пржена, сотирана, печена на роштиљу, у супама и варивима. Сушење појачава орашаст укус. Тачно одређивање је неопходно јер међу младим гљивама зелених шешира има и смртоносних врста.",
+      "confusion": "Russula aeruginea и Russula heterophylla обично имају гладак, а не изразито мозаично испуцао шешир. Amanita phalloides је смртоносна и, за разлику од ове врсте, има прстен и волву око задебљале основе дршке. Северноамеричка Russula parvovirescens је мања, често плавозеленија, са већим пољима и пругастом ивицом; Russula crustosa има променљивију боју шешира, лепљивог када је влажан, и тамније жут отисак спора.",
+      "notes": "Глобална процена из 2024, објављена 2025. године, сврстава врсту у најмање угрожене (Least Concern). Северноамерички налази под овим именом обухватају комплекс засебних врста и не смеју се аутоматски изједначавати са европском врстом. Мозаична шара шешира може бити слабо развијена код младих плодних тела.",
+      "label": "голубача",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/russula-virescens.php",
+        "https://botany.cz/cs/russula-virescens/",
+        "https://www.myko.cz/myko-atlas/Russula-virescens/",
+        "https://en.wikipedia.org/wiki/Russula_virescens",
+        "https://www.iucnredlist.org/species/230148498/260413110",
+        "https://sr.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D1%83%D0%B1%D0%B0%D1%87%D0%B0"
+      ]
+    },
+    "lt": {
+      "description": "Stambus, dirvoje vaisiakūnius formuojantis ektomikorizinis grybas iš lapuočių ir mišrių miškų, užregistruotas Europoje, didelėje Azijos dalyje ir Šiaurės Afrikoje. Auga pavieniui arba nedidelėmis grupėmis, ypač prie brandžių lapuočių. Dažnumas skirtinguose regionuose nevienodas, vaisiakūniai gali išaugti net gana sausu oru.",
+      "cap": "4–15 cm skersmens; iš pradžių beveik rutuliška arba išgaubta, vėliau plokščia, dažnai įdubusi centre. Blyškiai žalia, pilkai žalia ar vario patinos spalvos, blunkanti iki ochros ar kreminės, su tamsesniais kampuotais ploteliais tarp šviesių plyšių. Sausa matinė arba aksominė, drėgna kartais riebi; luobelė sunkiai lupasi, drėgnu oru nusilupa toliau. Kraštas gali tapti nežymiai vagotas.",
+      "hymenium": "Lakšteliai balti, vėliau kreminiai, iš pradžių tankūs, senstant retesni, siaurai priaugę arba beveik laisvi. Dažnai šakoti ir sujungti skersinėmis gyslelėmis; subrendę trapūs, linkę rudai rūdėtai dėmėtis.",
+      "stipe": "2,5–12 cm ilgio ir 1,5–5 cm storio; cilindriškas arba smailėjantis prie pagrindo, baltas, jaunas tvirtas ir pilnaviduris, vėliau viduje kempiniškas. Lygus arba smulkiai raukšlėtas, viršuje kartais miltuotas; pažeidus ir senstant gali atsirasti rudai rūdėtų dėmių. Be žiedo ir išnaros.",
+      "flesh": "Trama balta, stora, iš pradžių labai tvirta, vėliau trapi ir kempiniška; pažeistos vietos gali lėtai ruduoti. Kvapas silpnas arba kiek vaisinis, skonis švelnus, riešutinis.",
+      "sporePrint": "Sporų atspaudas baltas arba blyškiai kreminis. Sporos plačiai elipsoidinės arba beveik rutuliškos, 5,5–10 × 4,5–8 µm, su žemomis karputėmis ir įvairiomis plonomis jungtimis, kartais sudarančiomis nepilną tinklelį.",
+      "habitat": "Dirvoje šviesiuose lapuočių ir mišriuose miškuose, daugiausia su ąžuolais, bukais, beržais ir valgomaisiais kaštainiais, mėgsta nekalkingą arba silpnai rūgštų dirvožemį. Kartais aptinkamas spygliuočių miškuose. Vaisiakūniai daugiausia birželį–spalį žemyninėje Europoje, rugpjūtį–spalį Britanijoje ir Airijoje.",
+      "uses": "Labai vertinamas valgomasis grybas tvirtos tekstūros, vartojamas keptas keptuvėje ar ant grotelių, troškiniuose ir sriubose. Džiovinimas paryškina riešutinį skonį. Būtinas tikslus atpažinimas, nes tarp jaunų žaliakepurių grybų yra ir mirtinai nuodingų rūšių.",
+      "confusion": "Russula aeruginea ir Russula heterophylla kepurėlės paprastai lygios, ne stipriai mozaikiškai sutrūkinėjusios. Amanita phalloides mirtinai nuodinga ir, kitaip nei ši rūšis, turi žiedą bei išnarą aplink sustorėjusį koto pagrindą. Šiaurės Amerikos Russula parvovirescens smulkesnė, dažnai melsvai žalesnė, didesniais kepurėlės ploteliais ir ruožuotu kraštu; Russula crustosa kepurėlė įvairesnių spalvų, drėgna lipni, sporų atspaudas tamsiau geltonas.",
+      "notes": "2024 m. atliktas ir 2025 m. paskelbtas pasaulinis vertinimas priskiria rūšį nekeliančių susirūpinimo kategorijai (Least Concern). Šiaurės Amerikos radiniai šiuo vardu apima atskirų rūšių kompleksą ir neturi būti savaime tapatinami su Europos rūšimi. Jaunų vaisiakūnių kepurėlės mozaika gali būti silpnai išreikšta.",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/russula-virescens.php",
+        "https://botany.cz/cs/russula-virescens/",
+        "https://www.myko.cz/myko-atlas/Russula-virescens/",
+        "https://en.wikipedia.org/wiki/Russula_virescens",
+        "https://www.iucnredlist.org/species/230148498/260413110"
+      ]
+    },
+    "lv": {
+      "description": "Spēcīga ektomikorizas sēne, kas veido augļķermeņus uz zemes lapu koku un jauktos mežos, reģistrēta Eiropā, lielā Āzijas daļā un Ziemeļāfrikā. Aug pa vienai vai nelielās grupās, īpaši pie pieaugušiem platlapju kokiem. Sastopamība reģionos atšķiras, un tā var ražot augļķermeņus arī samērā sausā laikā.",
+      "cap": "4–15 cm plata; sākumā gandrīz lodveida līdz izliekta, vēlāk plakana, bieži ar iedobumu centrā. Bāli zaļa, pelēkzaļa vai vara patinas zaļa, izbalē līdz okera vai krēmkrāsai, ar tumšākiem stūrainiem laukumiem starp gaišām plaisām. Sausa matēta līdz samtaina, mitrumā reizēm taukaina; virsmiziņa grūti novelkama, mitrā laikā tālāk. Mala var kļūt vāji rievota.",
+      "hymenium": "Lapiņas baltas, vēlāk krēmkrāsā, sākumā ciešas, ar vecumu retākas, šauri pieaugušas līdz gandrīz brīvām. Bieži dakšveidā sazarotas un savienotas ar šķērsdzīslām; nobriedušas trauslas, var rasties rūsganbrūni plankumi.",
+      "stipe": "2,5–12 cm garš un 1,5–5 cm resns; cilindrisks vai sašaurināts pie pamatnes, balts, jauns stingrs un pilns, vēlāk iekšpusē porains. Gluds līdz smalki krunkains, augšdaļā reizēm miltains; ievainojumi un novecošana var radīt rūsganbrūnus plankumus. Bez gredzena un maksts.",
+      "flesh": "Mīkstums balts, biezs un sākumā ļoti stingrs, ar vecumu trausls un porains; bojātās vietas var lēni brūnēt. Smarža vāja vai nedaudz augļaina, garša maiga un riekstaina.",
+      "sporePrint": "Sporu nospiedums balts līdz bāli krēmkrāsas. Sporas plati elipsoidālas līdz gandrīz lodveida, 5,5–10 × 4,5–8 µm, ar zemām kārpiņām un mainīgiem smalkiem savienojumiem, kas dažkārt veido nepilnīgu tīklojumu.",
+      "habitat": "Uz augsnes gaišos lapu koku vai jauktos mežos, galvenokārt ar ozoliem, dižskābaržiem, bērziem un ēdamajām kastaņām, dodot priekšroku nekaļķainai vai nedaudz skābai augsnei. Reizēm reģistrēta skujkoku mežos. Galvenokārt augļo jūnijā–oktobrī kontinentālajā Eiropā, augustā–oktobrī Lielbritānijā un Īrijā.",
+      "uses": "Augsti vērtēta ēdama sēne ar stingru tekstūru, lietojama cepta, sautēta, grilēta, zupās un sautējumos. Žāvēšana pastiprina riekstaino garšu. Pareiza noteikšana ir būtiska, jo starp jaunām sēnēm ar zaļu cepurīti ir arī nāvējošas sugas.",
+      "confusion": "Russula aeruginea un Russula heterophylla cepurītes parasti ir gludas, nevis izteikti mozaīkveidā saplaisājušas. Amanita phalloides ir nāvējoša un atšķirībā no šīs sugas tai ir gredzens un maksts ap paplašināto kātiņa pamatni. Ziemeļamerikas Russula parvovirescens ir mazāka, bieži zilganzaļāka, ar lielākiem cepurītes laukumiem un svītrotu malu; Russula crustosa cepurītes krāsa ir mainīgāka, mitrumā tā ir lipīga, sporu nospiedums tumšāk dzeltens.",
+      "notes": "2024. gada globālais novērtējums, kas publicēts 2025. gadā, sugu klasificē kā drošu (Least Concern). Ziemeļamerikas atradumi ar šo nosaukumu ietver atsevišķu sugu kompleksu, un tos nedrīkst automātiski pielīdzināt Eiropas sugai. Jauniem augļķermeņiem cepurītes mozaīka var būt vāji attīstīta.",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/russula-virescens.php",
+        "https://botany.cz/cs/russula-virescens/",
+        "https://www.myko.cz/myko-atlas/Russula-virescens/",
+        "https://en.wikipedia.org/wiki/Russula_virescens",
+        "https://www.iucnredlist.org/species/230148498/260413110"
+      ]
+    },
+    "pl": {
+      "description": "Masywny grzyb ektomikoryzowy, owocnikujący na ziemi w lasach liściastych i mieszanych, notowany w Europie, dużej części Azji i Afryce Północnej. Rośnie pojedynczo lub w małych grupach, szczególnie przy dojrzałych drzewach liściastych. Częstość występowania jest regionalnie zróżnicowana; może owocnikować nawet przy stosunkowo suchej pogodzie.",
+      "cap": "Średnica 4–15 cm; początkowo niemal kulisty lub wypukły, później płaski, często z zagłębieniem pośrodku. Bladozielony, szarozielony lub grynszpanowy, blednący do ochrowego bądź kremowego, z ciemniejszymi kanciastymi poletkami oddzielonymi jasnymi pęknięciami. Suchy, matowy lub aksamitny, czasem tłustawy podczas wilgoci; skórka schodzi trudno, przy wilgoci dalej od brzegu. Brzeg może być lekko rowkowany.",
+      "hymenium": "Blaszki białe, później kremowe, początkowo gęste, z wiekiem rzadsze, wąsko przyrośnięte do niemal wolnych. Często rozwidlone i połączone poprzecznymi żyłkami; dojrzałe kruche, podatne na rdzawobrązowe plamy.",
+      "stipe": "Długi na 2,5–12 cm, gruby na 1,5–5 cm; cylindryczny lub zwężający się ku podstawie, biały, za młodu jędrny i pełny, później wewnątrz gąbczasty. Gładki lub delikatnie pomarszczony, czasem oprószony u szczytu; starzejąc się i po ugnieceniu może rdzawobrązowo plamić. Bez pierścienia i pochwy.",
+      "flesh": "Biały, gruby, początkowo bardzo twardy, z wiekiem kruchy i gąbczasty; uszkodzone miejsca mogą powoli brązowieć. Zapach słaby lub lekko owocowy, smak łagodny, orzechowy.",
+      "sporePrint": "Wysyp biały do bladokremowego. Zarodniki szeroko elipsoidalne do niemal kulistych, 5,5–10 × 4,5–8 µm, z niskimi brodawkami i zmiennymi, cienkimi połączeniami, niekiedy tworzącymi niepełną siateczkę.",
+      "habitat": "Na glebie w widnych lasach liściastych i mieszanych, głównie z dębami, bukami, brzozami i kasztanami jadalnymi, chętnie na podłożu bezwapiennym lub lekko kwaśnym. Sporadycznie notowany w lasach iglastych. Owocnikuje przede wszystkim od czerwca do października w kontynentalnej Europie, od sierpnia do października w Wielkiej Brytanii i Irlandii.",
+      "uses": "Bardzo ceniony grzyb jadalny o jędrnej konsystencji, używany do smażenia, grillowania, zup i potraw duszonych. Suszenie wzmacnia orzechowy smak. Prawidłowe oznaczenie jest konieczne, ponieważ wśród młodych zielonokapeluszowych grzybów są też gatunki śmiertelnie trujące.",
+      "confusion": "Russula aeruginea i Russula heterophylla mają zwykle gładkie, a nie silnie poletkowato popękane kapelusze. Amanita phalloides jest śmiertelnie trująca i w odróżnieniu od tego gatunku ma pierścień oraz pochwę otaczającą zgrubiałą podstawę trzonu. Północnoamerykańska Russula parvovirescens jest mniejsza, często bardziej niebieskozielona, z większymi poletkami i prążkowanym brzegiem; Russula crustosa ma bardziej zmienną barwę kapelusza, lepkiego na mokro, i ciemniejszy żółty wysyp.",
+      "notes": "Globalna ocena z 2024 roku, opublikowana w 2025 roku, zalicza gatunek do kategorii najmniejszej troski (Least Concern). Północnoamerykańskie doniesienia pod tą nazwą obejmują kompleks odrębnych gatunków i nie powinny być automatycznie utożsamiane z gatunkiem europejskim. Poletkowaty wzór kapelusza może być słabo rozwinięty u młodych owocników.",
+      "label": "gołąbek zielonawy",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/russula-virescens.php",
+        "https://botany.cz/cs/russula-virescens/",
+        "https://www.myko.cz/myko-atlas/Russula-virescens/",
+        "https://en.wikipedia.org/wiki/Russula_virescens",
+        "https://www.iucnredlist.org/species/230148498/260413110",
+        "https://pl.wikipedia.org/wiki/Go%C5%82%C4%85bek%20zielonawy"
+      ]
+    },
+    "hu": {
+      "description": "Robusztus, a talajon termő, ektomikorrhizás gomba lombos és elegyes erdőkben, Európából, Ázsia nagy részéről és Észak-Afrikából ismert. Egyesével vagy kis csoportokban nő, különösen idősebb lombos fákhoz kapcsolódva. Gyakorisága területenként változó; viszonylag száraz időben is teremhet.",
+      "cap": "4–15 cm széles; kezdetben majdnem gömbölyű vagy domború, később lapos, közepén gyakran bemélyedő. Halványzöld, szürkészöld vagy rézrozsdazöld, okkeresre vagy krémszínűre fakul, sötétebb szögletes foltjait világos repedések választják el. Szárazon matt vagy bársonyos, nedvesen néha zsíros; bőre nehezen húzható le, nedvesen beljebb is. Széle enyhén barázdássá válhat.",
+      "hymenium": "Lemezei fehérek, később krémszínűek, eleinte sűrűek, idővel ritkábbak, keskenyen a tönkhöz nőttek vagy majdnem szabadok. Gyakran elágazók és keresztirányú erekkel összekötöttek; éretten törékenyek, rozsdabarna foltok jelenhetnek meg rajtuk.",
+      "stipe": "2,5–12 cm hosszú és 1,5–5 cm vastag; hengeres vagy alul elkeskenyedő, fehér, fiatalon szilárd és tömör, később belül szivacsos. Sima vagy finoman ráncos, felül néha deres; nyomásra és öregedve rozsdabarnán foltosodhat. Gallérja és bocskora nincs.",
+      "flesh": "Fehér, vastag és eleinte nagyon kemény, idővel törékeny és szivacsos; sérült részei lassan barnulhatnak. Szaga gyenge vagy enyhén gyümölcsös, íze enyhe, dióra emlékeztető.",
+      "sporePrint": "Spórapora fehér vagy halvány krémszínű. Spórái szélesen ellipszoidok vagy majdnem gömbölyűek, 5,5–10 × 4,5–8 µm méretűek; alacsony szemölcseiket változó finom összeköttetések kapcsolják össze, néha hiányos hálózatot alkotva.",
+      "habitat": "Világos lombos vagy elegyes erdők talaján, főleg tölgy, bükk, nyír és szelídgesztenye mellett, elsősorban mészmentes vagy enyhén savanyú talajon. Néha fenyvesekből is jelzik. Kontinentális Európában főként júniustól októberig, Nagy-Britanniában és Írországban augusztustól októberig terem.",
+      "uses": "Nagyra becsült, szilárd állagú ehető gomba, sütve, pirítva, grillezve, levesekben és ragukban használják. A szárítás kiemeli diós ízét. A biztos azonosítás elengedhetetlen, mert a fiatal zöld kalapú gombák között halálosan mérgező fajok is vannak.",
+      "confusion": "A Russula aeruginea és a Russula heterophylla kalapja rendszerint sima, nem erősen mozaikos. Az Amanita phalloides halálosan mérgező, és e fajtól eltérően gallérja, valamint megvastagodott tönkalapját körülvevő bocskora van. Az észak-amerikai Russula parvovirescens kisebb, gyakran kékeszöldebb, nagyobb kalapfoltokkal és bordázott széllel; a Russula crustosa változatosabb színű kalapja nedvesen ragadós, spórapora sötétebb sárga.",
+      "notes": "A 2024-ben készült, 2025-ben közzétett globális értékelés szerint a faj nem fenyegetett (Least Concern). Az e név alatt közölt észak-amerikai adatok több különálló faj együttesét jelentik, ezért nem tekinthetők automatikusan az európai fajnak. A kalap mozaikos mintázata fiatal termőtesteken gyengén fejlett lehet. Magyarországon 2008-ban a varashátú galambgomba volt az év gombája.",
+      "label": "varashátú galambgomba",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/russula-virescens.php",
+        "https://botany.cz/cs/russula-virescens/",
+        "https://www.myko.cz/myko-atlas/Russula-virescens/",
+        "https://en.wikipedia.org/wiki/Russula_virescens",
+        "https://www.iucnredlist.org/species/230148498/260413110",
+        "https://hu.wikipedia.org/wiki/Varash%C3%A1t%C3%BA%20galambgomba",
+        "https://www.diszpolgar.hu/az-ev-gombaja-mezei-szegfugomba"
+      ]
+    },
+    "ro": {
+      "description": "O ciupercă robustă, ectomicorizică, ce fructifică pe sol în păduri de foioase și mixte, semnalată în Europa, în mare parte a Asiei și în Africa de Nord. Crește izolat sau în grupuri mici, asociată mai ales cu arbori foioși maturi. Frecvența variază regional și poate fructifica chiar pe vreme relativ uscată.",
+      "cap": "Cu diametrul de 4–15 cm; inițial aproape sferică până la convexă, apoi aplatizată și adesea adâncită central. Verde-pal, cenușiu-verzuie sau verde cocleală, decolorându-se spre ocru ori crem, cu plăci unghiulare mai închise separate de crăpături deschise. Uscată și mată până la catifelată, uneori unsuroasă la umezeală; cuticula se desprinde greu, mai mult pe vreme umedă. Marginea poate deveni slab brăzdată.",
+      "hymenium": "Lamelele sunt albe, apoi crem, inițial dese, mai distanțate cu vârsta, îngust aderente până la aproape libere. Frecvent bifurcate și unite prin nervuri transversale; fragile la maturitate și predispuse la pete brun-ruginii.",
+      "stipe": "Lung de 2,5–12 cm și gros de 1,5–5 cm; cilindric sau îngustat spre bază, alb, ferm și plin când este tânăr, apoi spongios în interior. Neted până la fin zbârcit, uneori prăfos spre vârf; lovirea și îmbătrânirea pot produce pete brun-ruginii. Fără inel sau volvă.",
+      "flesh": "Albă, groasă și inițial foarte fermă, devenind fragilă și spongioasă cu vârsta; zonele lezate se pot brunifica lent. Miros slab sau ușor fructat; gust blând, de nucă.",
+      "sporePrint": "Pulbere sporiferă albă până la crem-pal. Sporii sunt larg elipsoidali până la aproape sferici, de 5,5–10 × 4,5–8 µm, cu veruci joase și conexiuni fine variabile, uneori formând o rețea incompletă.",
+      "habitat": "Pe sol în păduri luminoase de foioase sau mixte, mai ales cu stejari, fagi, mesteceni și castani comestibili, preferând terenurile necalcaroase sau ușor acide. Ocazional semnalată în păduri de conifere. Fructifică în principal în iunie–octombrie în Europa continentală, august–octombrie în Marea Britanie și Irlanda.",
+      "uses": "O ciupercă comestibilă foarte apreciată, cu textură fermă, folosită prăjită, sotată, la grătar, în supe și tocane. Uscarea intensifică aroma de nucă. Identificarea corectă este esențială, deoarece printre ciupercile tinere cu pălărie verde există și specii mortale.",
+      "confusion": "Russula aeruginea și Russula heterophylla au de obicei pălăria netedă, nu puternic crăpată în plăci. Amanita phalloides este mortală și are inel și o volvă în jurul bazei îngroșate a piciorului, spre deosebire de această specie. Russula parvovirescens din America de Nord este mai mică, adesea mai albăstrui-verzuie, cu plăci mai mari și margine striată; Russula crustosa are pălăria de culoare mai variabilă, lipicioasă la umezeală, și pulbere sporiferă galben mai închis.",
+      "notes": "O evaluare globală din 2024, publicată în 2025, clasifică specia drept neamenințată cu dispariția (Least Concern). Semnalările nord-americane sub acest nume includ un complex de specii distincte și nu trebuie atribuite automat speciei europene. Desenul mozaicat al pălăriei poate fi slab dezvoltat la exemplarele tinere.",
+      "label": "oițe",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/russula-virescens.php",
+        "https://botany.cz/cs/russula-virescens/",
+        "https://www.myko.cz/myko-atlas/Russula-virescens/",
+        "https://en.wikipedia.org/wiki/Russula_virescens",
+        "https://www.iucnredlist.org/species/230148498/260413110",
+        "https://ro.wikipedia.org/wiki/Russula%20virescens"
+      ]
+    },
+    "pt": {
+      "description": "Um cogumelo robusto, ectomicorrízico, que frutifica no solo de bosques de folhosas e mistos, registado na Europa, em grande parte da Ásia e no Norte de África. Cresce isolado ou em pequenos grupos, sobretudo associado a árvores de folha larga maduras. A frequência varia regionalmente e pode frutificar mesmo com tempo relativamente seco.",
+      "cap": "4–15 cm de diâmetro; inicialmente quase esférico a convexo, depois aplanado e frequentemente deprimido ao centro. Verde-pálido, verde-acinzentado ou verde de verdete, desvanecendo para ocre ou creme, com placas angulosas mais escuras separadas por fendas claras. Seco, mate a aveludado, por vezes gorduroso quando húmido; a cutícula desprende-se dificilmente, mais extensamente com humidade. A margem pode tornar-se ligeiramente sulcada.",
+      "hymenium": "Lamelas brancas, depois creme, inicialmente apertadas e mais espaçadas com a idade, estreitamente aderentes a quase livres. Muitas vezes bifurcadas e ligadas por veias transversais; frágeis na maturidade, podendo apresentar manchas castanho-ferrugíneas.",
+      "stipe": "2,5–12 cm de comprimento e 1,5–5 cm de espessura; cilíndrico ou afilado na base, branco, firme e maciço em jovem, depois esponjoso por dentro. Liso a finamente enrugado, por vezes pulverulento perto do ápice; as lesões e a idade podem causar manchas castanho-ferrugíneas. Sem anel nem volva.",
+      "flesh": "Branca, espessa e inicialmente muito firme, tornando-se quebradiça e esponjosa com a idade; as zonas danificadas podem acastanhar lentamente. Odor fraco ou ligeiramente frutado; sabor suave, a frutos secos.",
+      "sporePrint": "Esporada branca a creme-pálido. Esporos largamente elipsoidais a quase esféricos, 5,5–10 × 4,5–8 µm, com verrugas baixas e finas ligações variáveis, formando por vezes uma rede incompleta.",
+      "habitat": "No solo de bosques luminosos de folhosas ou mistos, principalmente com carvalhos, faias, bétulas e castanheiros, preferindo terrenos não calcários ou ligeiramente ácidos. Ocasionalmente registado em bosques de coníferas. Frutifica sobretudo de junho a outubro na Europa continental, de agosto a outubro na Grã-Bretanha e Irlanda.",
+      "uses": "Um comestível muito apreciado, de textura firme, usado frito, salteado, grelhado, em sopas e guisados. A secagem intensifica o sabor a frutos secos. A identificação correta é essencial, pois entre os cogumelos jovens de chapéu verde existem espécies mortais.",
+      "confusion": "Russula aeruginea e Russula heterophylla têm geralmente chapéus lisos, não fortemente reticulados por fendas. Amanita phalloides é mortal e, ao contrário desta espécie, tem anel e uma volva que envolve a base engrossada do pé. A norte-americana Russula parvovirescens é menor, frequentemente mais verde-azulada, com placas maiores e margem estriada; Russula crustosa tem um chapéu de cor mais variável, pegajoso quando húmido, e esporada amarelo mais escuro.",
+      "notes": "Uma avaliação global de 2024, publicada em 2025, classifica a espécie como Pouco Preocupante (Least Concern). Os registos norte-americanos sob este nome incluem um complexo de espécies distintas e não devem ser automaticamente atribuídos à espécie europeia. O padrão em placas do chapéu pode estar pouco desenvolvido nos exemplares jovens.",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/russula-virescens.php",
+        "https://botany.cz/cs/russula-virescens/",
+        "https://www.myko.cz/myko-atlas/Russula-virescens/",
+        "https://en.wikipedia.org/wiki/Russula_virescens",
+        "https://www.iucnredlist.org/species/230148498/260413110"
+      ]
+    },
+    "hr": {
+      "description": "Robusna ektomikorizna gljiva koja plodi na tlu u listopadnim i miješanim šumama, zabilježena u Europi, većem dijelu Azije i sjevernoj Africi. Raste pojedinačno ili u malim skupinama, osobito uz odrasla širokolisna stabla. Učestalost joj regionalno varira, a može ploditi i za razmjerno suha vremena.",
+      "cap": "Širok 4–15 cm; isprva gotovo kuglast do ispupčen, poslije plosnat i često udubljen u sredini. Blijedozelen, sivozelen ili zelen poput patine, blijedi u oker ili krem boju, s tamnijim uglatim poljima odijeljenima svijetlim pukotinama. Suh i mat do baršunast, katkad mastan za vlažna vremena; kožica se teško guli, po vlažnom vremenu dublje. Rub može postati blago izbrazdan.",
+      "hymenium": "Listići su bijeli, poslije kremasti, isprva gusti, starenjem rjeđi, usko prirasli do gotovo slobodni. Često račvasti i povezani poprečnim žilicama; u zrelosti lomljivi i skloni hrđavosmeđim pjegama.",
+      "stipe": "Dug 2,5–12 cm i debeo 1,5–5 cm; valjkast ili sužen prema bazi, bijel, mlad čvrst i pun, poslije iznutra spužvast. Gladak do sitno naboran, katkad brašnast pri vrhu; oštećenja i starost mogu uzrokovati hrđavosmeđe mrlje. Bez prstena i ovoja.",
+      "flesh": "Bijelo, debelo i isprva vrlo čvrsto, starenjem krhko i spužvasto; oštećena mjesta mogu polako posmeđiti. Miris slab ili blago voćan, okus blag i orašast.",
+      "sporePrint": "Otisak spora bijel do blijedokremast. Spore široko elipsoidne do gotovo kuglaste, 5,5–10 × 4,5–8 µm, s niskim bradavicama i promjenjivim tankim vezama, koje katkad tvore nepotpunu mrežu.",
+      "habitat": "Na tlu u svijetlim listopadnim ili miješanim šumama, ponajprije uz hrastove, bukve, breze i pitome kestene, radije na nevapnenačkom ili blago kiselom tlu. Povremeno zabilježena u crnogoričnim šumama. Plodi uglavnom od lipnja do listopada u kontinentalnoj Europi, od kolovoza do listopada u Britaniji i Irskoj.",
+      "uses": "Vrlo cijenjena jestiva gljiva čvrste teksture, koristi se pržena, pirjana, pečena na roštilju te u juhama i varivima. Sušenje pojačava orašast okus. Točno određivanje ključno je jer među mladim gljivama zelenih klobuka ima i smrtonosnih vrsta.",
+      "confusion": "Russula aeruginea i Russula heterophylla obično imaju gladak, a ne izrazito mozaično ispucan klobuk. Amanita phalloides je smrtonosna te za razliku od ove vrste ima prsten i ovoj oko zadebljane baze stručka. Sjevernoamerička Russula parvovirescens je manja, često plavozelenija, s većim poljima na klobuku i crtastim rubom; Russula crustosa ima promjenjiviju boju klobuka, ljepljivog kad je vlažan, te tamnije žut otisak spora.",
+      "notes": "Globalna procjena iz 2024., objavljena 2025., svrstava vrstu u najmanje zabrinjavajuće (Least Concern). Sjevernoamerički nalazi pod ovim nazivom obuhvaćaju kompleks zasebnih vrsta i ne smiju se automatski poistovjećivati s europskom vrstom. Mozaični uzorak klobuka u mladih plodišta može biti slabo razvijen.",
+      "label": "golubača",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/russula-virescens.php",
+        "https://botany.cz/cs/russula-virescens/",
+        "https://www.myko.cz/myko-atlas/Russula-virescens/",
+        "https://en.wikipedia.org/wiki/Russula_virescens",
+        "https://www.iucnredlist.org/species/230148498/260413110",
+        "https://hr.wikipedia.org/wiki/Goluba%C4%8Da"
+      ]
+    },
+    "sl": {
+      "description": "Čokata ektomikorizna goba, ki raste na tleh v listnatih in mešanih gozdovih, zabeležena v Evropi, velikem delu Azije in severni Afriki. Raste posamično ali v majhnih skupinah, zlasti ob odraslih listavcih. Pogostnost se med območji razlikuje; trosnjaki se lahko razvijejo tudi ob razmeroma suhem vremenu.",
+      "cap": "Širok 4–15 cm; sprva skoraj kroglast do izbočen, pozneje raven in pogosto udrt na sredini. Bledo zelen, sivo zelen ali bakreno zelen, bledi v okrasto ali smetanasto barvo, s temnejšimi oglatimi polji med svetlimi razpokami. Suh in mat do žameten, v vlagi včasih masten; kožica se težko lupi, v vlagi dlje proti sredini. Rob lahko postane rahlo žlebast.",
+      "hymenium": "Lističi so beli, pozneje smetanasti, sprva gosti, s starostjo redkejši, ozko prirasli do skoraj prosti. Pogosto viličasti in povezani s prečnimi žilicami; zreli so krhki in lahko dobijo rjasto rjave pege.",
+      "stipe": "Dolg 2,5–12 cm in debel 1,5–5 cm; valjast ali proti dnišču zožen, bel, mlad čvrst in poln, pozneje znotraj gobast. Gladek do drobno naguban, pri vrhu včasih poprhnjen; poškodbe in starost lahko povzročijo rjasto rjave lise. Brez obročka in ovojnice.",
+      "flesh": "Belo, debelo in sprva zelo čvrsto, s starostjo krhko in gobasto; poškodovana mesta lahko počasi porjavijo. Vonj šibek ali rahlo saden, okus blag in po oreščkih.",
+      "sporePrint": "Trosni odtis je bel do bledo smetanast. Trosi široko elipsoidni do skoraj kroglasti, 5,5–10 × 4,5–8 µm, z nizkimi bradavicami in različno razvitimi tankimi povezavami, ki včasih tvorijo nepopolno mrežo.",
+      "habitat": "Na tleh v svetlih listnatih ali mešanih gozdovih, predvsem ob hrastih, bukvah, brezah in pravih kostanjih, najraje na neapnenčastih ali rahlo kislih tleh. Občasno zabeležena v iglastih gozdovih. Raste predvsem od junija do oktobra v celinski Evropi, od avgusta do oktobra v Britaniji in na Irskem.",
+      "uses": "Zelo cenjena užitna goba čvrste teksture, uporabljena ocvrta, pražena, pečena na žaru ter v juhah in enolončnicah. Sušenje okrepi okus po oreščkih. Pravilna določitev je nujna, saj so med mladimi zelenoklobučnimi gobami tudi smrtno strupene vrste.",
+      "confusion": "Russula aeruginea in Russula heterophylla imata navadno gladek in ne izrazito poljasto razpokan klobuk. Amanita phalloides je smrtno strupena in ima v nasprotju s to vrsto obroček ter ovojnico okrog odebeljenega dnišča beta. Severnoameriška Russula parvovirescens je manjša, pogosto bolj modro zelena, z večjimi polji in nažlebljenim robom; Russula crustosa ima barvno bolj spremenljiv, v vlagi lepljiv klobuk in temneje rumen trosni odtis.",
+      "notes": "Svetovna ocena iz leta 2024, objavljena leta 2025, vrsto uvršča med najmanj ogrožene (Least Concern). Severnoameriške najdbe pod tem imenom obsegajo kompleks samostojnih vrst in jih ne smemo samodejno enačiti z evropsko vrsto. Poljasti vzorec klobuka je lahko pri mladih trosnjakih slabo razvit.",
+      "label": "zelenkasta golobica",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/russula-virescens.php",
+        "https://botany.cz/cs/russula-virescens/",
+        "https://www.myko.cz/myko-atlas/Russula-virescens/",
+        "https://en.wikipedia.org/wiki/Russula_virescens",
+        "https://www.iucnredlist.org/species/230148498/260413110",
+        "https://sl.wikipedia.org/wiki/Zelenkasta%20golobica"
+      ]
+    },
+    "nl": {
+      "description": "Een forse, op de grond vruchtvormende ectomycorrhizavormende paddenstoel van loof- en gemengde bossen, bekend uit Europa, grote delen van Azië en Noord-Afrika. Hij groeit alleen of in kleine groepen, vooral bij volwassen loofbomen. De talrijkheid verschilt per regio en hij kan ook bij relatief droog weer vruchtlichamen vormen.",
+      "cap": "4–15 cm breed; eerst bijna bolrond tot gewelfd, later vlak en vaak centraal ingedrukt. Bleekgroen, grijsgroen of kopergroen, verblekend naar oker of crème, met donkerdere hoekige velden tussen lichte barsten. Droog en mat tot fluwelig, soms vettig bij vocht; de hoedhuid is moeilijk afpelbaar, bij nat weer verder. De rand kan zwak gegroefd worden.",
+      "hymenium": "Lamellen wit, later crème, aanvankelijk dicht opeen en op oudere leeftijd verder uiteen, smal aangehecht tot bijna vrij. Vaak gevorkt en door dwarsaders verbonden; op volwassen leeftijd broos en gevoelig voor roestbruine vlekken.",
+      "stipe": "2,5–12 cm lang en 1,5–5 cm dik; cilindrisch of naar de basis versmald, wit, jong stevig en vol, later vanbinnen sponsachtig. Glad tot fijn gerimpeld, soms bovenaan bepoederd; drukplekken en ouderdom kunnen roestbruine vlekken veroorzaken. Zonder ring of beurs.",
+      "flesh": "Wit, dik en aanvankelijk zeer stevig, later broos en sponsachtig; beschadigde plekken kunnen langzaam bruin worden. Geur zwak of iets fruitig; smaak mild en nootachtig.",
+      "sporePrint": "Wit tot bleek crème. Sporen breed ellipsvormig tot bijna bolrond, 5,5–10 × 4,5–8 µm, met lage wratten en wisselende fijne verbindingen, soms een onvolledig netwerk vormend.",
+      "habitat": "Op de grond in lichte loof- en gemengde bossen, vooral bij eiken, beuken, berken en tamme kastanjes, bij voorkeur op kalkarme of licht zure bodem. Soms ook gemeld uit naaldbossen. Vruchtvorming vooral juni–oktober in continentaal Europa en augustus–oktober in Groot-Brittannië en Ierland.",
+      "uses": "Een zeer gewaardeerde eetbare paddenstoel met stevige structuur, gebruikt gebakken, gesauteerd, gegrild, in soep of stoofschotels. Drogen versterkt de nootachtige smaak. Juiste determinatie is essentieel, want onder jonge groenhoedige paddenstoelen zijn ook dodelijke soorten.",
+      "confusion": "Russula aeruginea en Russula heterophylla hebben meestal gladde in plaats van sterk gebarsten, mozaïekachtige hoeden. Amanita phalloides is dodelijk en heeft, anders dan deze soort, een ring en een beurs rond de verdikte steelbasis. De Noord-Amerikaanse Russula parvovirescens is kleiner, vaak blauwer groen, met grotere hoedvelden en een gestreepte rand; Russula crustosa heeft een variabeler gekleurde, bij vocht kleverige hoed en een donkerder gele sporenprint.",
+      "notes": "Een wereldwijde beoordeling uit 2024, gepubliceerd in 2025, classificeert de soort als niet bedreigd (Least Concern). Noord-Amerikaanse meldingen onder deze naam omvatten een complex van afzonderlijke soorten en mogen niet automatisch aan de Europese soort worden toegeschreven. Het gebarsten hoedpatroon kan bij jonge vruchtlichamen weinig ontwikkeld zijn.",
+      "label": "Ruwe russula",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/russula-virescens.php",
+        "https://botany.cz/cs/russula-virescens/",
+        "https://www.myko.cz/myko-atlas/Russula-virescens/",
+        "https://en.wikipedia.org/wiki/Russula_virescens",
+        "https://www.iucnredlist.org/species/230148498/260413110",
+        "https://nl.wikipedia.org/wiki/Ruwe%20russula"
+      ]
+    },
+    "da": {
+      "description": "En kraftig, jordboende ektomykorrhizadannende svamp fra løvskov og blandingsskov, registreret i Europa, store dele af Asien og Nordafrika. Den vokser enkeltvis eller i små grupper, især ved ældre løvtræer. Hyppigheden varierer regionalt, og den kan danne frugtlegemer selv i forholdsvis tørt vejr.",
+      "cap": "4–15 cm bred; først næsten kugleformet til hvælvet, senere flad og ofte nedtrykt i midten. Bleggrøn, grågrøn eller irgrøn, falmende til okker eller creme, med mørkere kantede felter adskilt af lyse revner. Tør og mat til fløjlsagtig, undertiden fedtet i fugtigt vejr; hathuden er svær at trække af, men løsner sig længere ind i fugt. Randen kan blive svagt furet.",
+      "hymenium": "Lamellerne er hvide, senere cremefarvede, først tætte og med alderen mere spredte, smalt tilhæftede til næsten frie. Ofte gaffeldelte og forbundet af tværårer; skøre som modne og tilbøjelige til rustbrune pletter.",
+      "stipe": "2,5–12 cm lang og 1,5–5 cm tyk; cylindrisk eller tilspidset mod basis, hvid, fast og massiv som ung, senere svampet indvendig. Glat til fint rynket, undertiden pudret øverst; tryk og alder kan give rustbrune pletter. Uden ring og skede.",
+      "flesh": "Hvidt, tykt og først meget fast, med alderen skørt og svampet; beskadigede steder kan langsomt brune. Lugten er svag eller let frugtagtig, smagen mild og nøddeagtig.",
+      "sporePrint": "Hvidt til blegt cremefarvet sporestøv. Sporer bredt ellipsoidiske til næsten kugleformede, 5,5–10 × 4,5–8 µm, med lave vorter og varierende fine forbindelser, der undertiden danner et ufuldstændigt net.",
+      "habitat": "På jord i lyse løv- og blandingsskove, især ved eg, bøg, birk og ægte kastanje, helst på kalkfattig eller let sur bund. Lejlighedsvis registreret i nåleskov. Frugtlegemer ses især juni–oktober i det kontinentale Europa og august–oktober i Storbritannien og Irland.",
+      "uses": "En højt værdsat spisesvamp med fast konsistens, brugt stegt, sauteret, grillet samt i supper og gryderetter. Tørring fremhæver nøddesmagen. Sikker bestemmelse er afgørende, da unge grønne hatsvampe også omfatter dødelige arter.",
+      "confusion": "Russula aeruginea og Russula heterophylla har normalt glatte frem for stærkt mosaikrevnede hatte. Amanita phalloides er dødelig og har i modsætning til denne art ring og en skede om den opsvulmede stokbasis. Den nordamerikanske Russula parvovirescens er mindre, ofte mere blågrøn, med større hatfelter og stribet rand; Russula crustosa har mere varierende hatfarver, klæbrig hat i fugt og mørkere gult sporestøv.",
+      "notes": "En global vurdering fra 2024, offentliggjort i 2025, klassificerer arten som livskraftig (Least Concern). Nordamerikanske fund under dette navn omfatter et kompleks af forskellige arter og bør ikke automatisk regnes som den europæiske art. Hattens mosaikmønster kan være svagt udviklet hos unge frugtlegemer.",
+      "label": "spanskgrøn skørhat",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/russula-virescens.php",
+        "https://botany.cz/cs/russula-virescens/",
+        "https://www.myko.cz/myko-atlas/Russula-virescens/",
+        "https://en.wikipedia.org/wiki/Russula_virescens",
+        "https://www.iucnredlist.org/species/230148498/260413110",
+        "https://www.naturbasen.dk/art/4324/spanskgroen-skoerhat"
+      ]
+    },
+    "no": {
+      "description": "En kraftig, jordboende ektomykorrhizadannende sopp fra løvskog og blandingsskog, kjent fra Europa, store deler av Asia og Nord-Afrika. Den vokser enkeltvis eller i små grupper, særlig ved eldre løvtrær. Forekomsten varierer regionalt, og den kan danne fruktlegemer også i forholdsvis tørt vær.",
+      "cap": "4–15 cm bred; først nesten kuleformet til hvelvet, senere flat og ofte nedsenket i midten. Blekgrønn, grågrønn eller irrgrønn, blekner til oker eller krem, med mørkere kantete felter mellom lyse sprekker. Tørr og matt til fløyelsaktig, av og til fet i fuktig vær; hatthuden løsner vanskelig, men kan trekkes lenger av når den er våt. Kanten kan bli svakt furet.",
+      "hymenium": "Skivene er hvite, senere kremfarget, først tette og mer glisne med alderen, smalt tilvokste til nesten frie. Ofte gaffeldelte og forbundet med tverrårer; sprø ved modning og kan få rustbrune flekker.",
+      "stipe": "2,5–12 cm lang og 1,5–5 cm tykk; sylindrisk eller avsmalnende mot basis, hvit, fast og massiv som ung, senere svampaktig inni. Glatt til fint rynket, av og til pudret øverst; trykk og aldring kan gi rustbrune flekker. Uten ring og slire.",
+      "flesh": "Hvitt, tykt og først svært fast, blir sprøtt og svampaktig med alderen; skadde partier kan langsomt brunes. Lukten er svak eller lett fruktaktig, smaken mild og nøtteaktig.",
+      "sporePrint": "Hvitt til blekt kremfarget sporepulver. Sporene er bredt ellipsoide til nesten kuleformede, 5,5–10 × 4,5–8 µm, med lave vorter og varierende fine forbindelser som noen ganger danner et ufullstendig nett.",
+      "habitat": "På jord i lys løv- og blandingsskog, særlig med eik, bøk, bjørk og ekte kastanje, helst på kalkfattig eller svakt sur mark. Av og til registrert i barskog. Fruktlegemer finnes særlig juni–oktober i det kontinentale Europa og august–oktober i Storbritannia og Irland.",
+      "uses": "En høyt verdsatt matsopp med fast konsistens, brukt stekt, sautert, grillet og i supper eller gryteretter. Tørking fremhever nøttesmaken. Sikker bestemmelse er avgjørende, siden unge grønnhattede sopper også kan være dødelige arter.",
+      "confusion": "Russula aeruginea og Russula heterophylla har vanligvis glatte, ikke tydelig rutete hatter. Amanita phalloides er dødelig og har, i motsetning til denne arten, ring og slire rundt den oppsvulmede stilkbasis. Nordamerikanske Russula parvovirescens er mindre, ofte mer blågrønn, med større hattfelter og stripet kant; Russula crustosa har mer varierende hattfarger, klebrig hatt i fukt og mørkere gult sporepulver.",
+      "notes": "En global vurdering fra 2024, publisert i 2025, klassifiserer arten som livskraftig (Least Concern). Nordamerikanske funn under dette navnet omfatter et kompleks av ulike arter og må ikke automatisk regnes som den europeiske arten. Hattens rutemønster kan være lite utviklet hos unge fruktlegemer.",
+      "label": "rutekremle",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/russula-virescens.php",
+        "https://botany.cz/cs/russula-virescens/",
+        "https://www.myko.cz/myko-atlas/Russula-virescens/",
+        "https://en.wikipedia.org/wiki/Russula_virescens",
+        "https://www.iucnredlist.org/species/230148498/260413110",
+        "https://no.wikipedia.org/wiki/Rutekremle"
+      ]
+    },
+    "sv": {
+      "description": "En kraftig, marklevande ektomykorrhizabildande svamp från löv- och blandskog, rapporterad i Europa, stora delar av Asien och Nordafrika. Den växer ensam eller i små grupper, framför allt vid äldre lövträd. Förekomsten varierar regionalt och fruktkroppar kan bildas även under relativt torrt väder.",
+      "cap": "4–15 cm bred; först nästan klotformig till välvd, senare utbredd och ofta nedsänkt i mitten. Blekgrön, grågrön eller ärggrön, bleknande till ockra eller gräddfärg, med mörkare kantiga fält mellan ljusa sprickor. Torr och matt till sammetsartad, ibland fet i väta; hatthuden är svår att dra av men lossnar längre in vid fukt. Kanten kan bli svagt fårad.",
+      "hymenium": "Skivorna är vita, senare gräddfärgade, först täta och glesare med åldern, smalt vidvuxna till nästan fria. Ofta gaffelgrenade och förenade av tvärådror; spröda som mogna och kan få rostbruna fläckar.",
+      "stipe": "2,5–12 cm lång och 1,5–5 cm tjock; cylindrisk eller avsmalnande mot basen, vit, fast och fylld som ung, senare svampig inuti. Slät till fint rynkig, ibland pudrad upptill; tryck och ålder kan ge rostbruna fläckar. Utan ring eller strumpa.",
+      "flesh": "Vitt, tjockt och först mycket fast, blir sprött och svampigt med åldern; skadade partier kan långsamt brunfärgas. Lukten är svag eller lätt fruktig, smaken mild och nötaktig.",
+      "sporePrint": "Vitt till blekt gräddfärgat sporavtryck. Sporer brett ellipsoida till nästan klotformiga, 5,5–10 × 4,5–8 µm, med låga vårtor och varierande fina förbindelser, ibland bildande ett ofullständigt nät.",
+      "habitat": "På marken i ljus löv- och blandskog, främst med ek, bok, björk och äkta kastanj, helst på kalkfattig eller svagt sur mark. Ibland rapporterad i barrskog. Fruktkroppar främst juni–oktober i kontinentala Europa och augusti–oktober i Storbritannien och Irland.",
+      "uses": "En högt uppskattad matsvamp med fast konsistens, som steks, sauteras, grillas eller används i soppor och grytor. Torkning förstärker nötsmaken. Säker bestämning är nödvändig, eftersom unga grönhattade svampar även kan tillhöra dödliga arter.",
+      "confusion": "Russula aeruginea och Russula heterophylla har vanligen släta snarare än tydligt rutmönstrade hattar. Amanita phalloides är dödlig och har, till skillnad från denna art, ring och strumpa runt den uppsvällda fotbasen. Den nordamerikanska Russula parvovirescens är mindre, ofta mer blågrön, med större hattfält och strimmig kant; Russula crustosa har mer varierande hattfärger, klibbig hatt vid väta och mörkare gult sporavtryck.",
+      "notes": "En global bedömning från 2024, publicerad 2025, klassificerar arten som livskraftig (Least Concern). Nordamerikanska fynd under detta namn omfattar ett komplex av skilda arter och ska inte automatiskt räknas till den europeiska arten. Hattens rutmönster kan vara svagt utvecklat hos unga fruktkroppar.",
+      "label": "rutkremla",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/russula-virescens.php",
+        "https://botany.cz/cs/russula-virescens/",
+        "https://www.myko.cz/myko-atlas/Russula-virescens/",
+        "https://en.wikipedia.org/wiki/Russula_virescens",
+        "https://www.iucnredlist.org/species/230148498/260413110",
+        "https://laji.fi/taxon/MX.236376"
+      ]
+    },
+    "fi": {
+      "description": "Tukeva, maassa itiöemiä muodostava ektomykorritsasieni lehti- ja sekametsissä. Sitä on tavattu Euroopassa, suuressa osassa Aasiaa ja Pohjois-Afrikassa. Se kasvaa yksittäin tai pieninä ryhminä, erityisesti varttuneiden lehtipuiden seuralaisena. Yleisyys vaihtelee alueittain, ja itiöemiä voi kehittyä myös melko kuivalla säällä.",
+      "cap": "4–15 cm leveä; aluksi lähes pallomainen tai kupera, myöhemmin laakea ja usein keskeltä painunut. Vaaleanvihreä, harmaanvihreä tai patinanvihreä, haalistuu okran- tai kermanväriseksi. Tummempia kulmikkaita laikkuja erottavat vaaleat halkeamat. Kuivana himmeä tai samettinen, kosteana joskus rasvainen; pintakelmu irtoaa huonosti, kostealla pidemmälle. Reuna voi uurteistua heikosti.",
+      "hymenium": "Heltat ovat valkoiset, myöhemmin kermanväriset, aluksi tiheät ja vanhemmiten harvemmat, kapealti tasatyviset tai lähes irtotyviset. Usein haaroittuvat ja poikkisuonten yhdistämät, kypsinä hauraat ja voivat saada ruosteenruskeita täpliä.",
+      "stipe": "2,5–12 cm pitkä ja 1,5–5 cm paksu; lieriömäinen tai tyveen kapeneva, valkoinen, nuorena kiinteä ja täysi, myöhemmin sisältä sienimäinen. Sileä tai hienoryppyinen, yläosasta joskus jauheinen; painumat ja ikääntyminen voivat aiheuttaa ruosteenruskeita täpliä. Ei rengasta eikä tuppia.",
+      "flesh": "Valkoista, paksua ja aluksi hyvin kiinteää, vanhemmiten haurasta ja sienimäistä; vauriokohdat voivat hitaasti ruskettua. Tuoksu heikko tai hieman hedelmäinen, maku mieto ja pähkinäinen.",
+      "sporePrint": "Itiöpöly valkoista tai vaalean kermanväristä. Itiöt leveän ellipsoidisia tai lähes pallomaisia, 5,5–10 × 4,5–8 µm. Matalia syyliä yhdistävät vaihtelevat ohuet harjanteet, joskus epätäydelliseksi verkoksi.",
+      "habitat": "Maassa valoisissa lehti- ja sekametsissä, etenkin tammien, pyökkien, koivujen ja jalokastanjoiden seurassa, mieluiten kalkittomalla tai lievästi happamalla maalla. Toisinaan tavattu havumetsissä. Itiöemiä pääasiassa kesä–lokakuussa Manner-Euroopassa, elo–lokakuussa Britanniassa ja Irlannissa.",
+      "uses": "Arvostettu ruokasieni, jonka rakenne on kiinteä. Sitä paistetaan, kuullotetaan ja grillataan sekä käytetään keitoissa ja pataruoissa. Kuivaaminen voimistaa pähkinäistä makua. Oikea tunnistus on välttämätön, sillä nuoriin vihreälakkisiin sieniin kuuluu myös tappavia lajeja.",
+      "confusion": "Russula aeruginea ja Russula heterophylla ovat yleensä sileälakkisia, eivät voimakkaasti ruudullisesti halkeilevia. Amanita phalloides on tappava ja sillä on tästä lajista poiketen rengas ja paksuuntunutta jalan tyveä ympäröivä tuppi. Pohjoisamerikkalainen Russula parvovirescens on pienempi, usein sinivihreämpi, laikkunsa suurempia ja lakin reuna uurteinen; Russula crustosa on väriltään vaihtelevampi, kosteana tahmea ja itiöpölyltään tummemman keltainen.",
+      "notes": "Vuonna 2024 tehty ja 2025 julkaistu maailmanlaajuinen arvio luokittelee lajin elinvoimaiseksi (Least Concern). Pohjois-Amerikasta tällä nimellä ilmoitetut löydöt käsittävät useiden erillisten lajien ryhmän eikä niitä tule automaattisesti yhdistää eurooppalaiseen lajiin. Lakin ruutukuvio voi olla nuorissa itiöemissä heikosti kehittynyt.",
+      "label": "ruutuhapero",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/russula-virescens.php",
+        "https://botany.cz/cs/russula-virescens/",
+        "https://www.myko.cz/myko-atlas/Russula-virescens/",
+        "https://en.wikipedia.org/wiki/Russula_virescens",
+        "https://www.iucnredlist.org/species/230148498/260413110",
+        "https://laji.fi/taxon/MX.236376"
+      ]
+    },
+    "et": {
+      "description": "Tüse maapinnal viljuv ektomükoriisaseen leht- ja segametsadest, teada Euroopast, suurest osast Aasiast ning Põhja-Aafrikast. Kasvab üksikult või väikeste rühmadena, eeskätt vanemate lehtpuude lähedal. Sagedus varieerub piirkonniti ning viljakehi võib tekkida ka suhteliselt kuiva ilmaga.",
+      "cap": "Kübar on 4–15 cm lai, algul peaaegu kerajas kuni kumer, hiljem lame ja sageli keskelt lohkus. Kahvaturoheline, hallikasroheline või vasekarvaroheline, pleekides ookerjaks või kreemjaks; tumedamaid nurgelisi laike eraldavad heledad praod. Kuivalt matt kuni sametine, märjalt vahel rasvane; kübaranahk eemaldub raskesti, niiskes kaugemale. Serv võib muutuda nõrgalt vaoliseks.",
+      "hymenium": "Eoslehekesed on valged, hiljem kreemjad, algul tihedalt ja vananedes hõredamalt asetunud, kitsalt jalale kinnitunud kuni peaaegu vabad. Sageli harunevad ja ristsoontega ühendatud; küpselt haprad ning võivad saada roostepruune laike.",
+      "stipe": "Jalg on 2,5–12 cm pikk ja 1,5–5 cm jäme, silinderjas või aluse suunas ahenev, valge, noorelt tugev ja täis, hiljem seest käsnjas. Sile kuni peenelt kortsuline, tipus vahel jahukirmeline; muljumisel ja vananedes võivad tekkida roostepruunid laigud. Rõngas ja tupp puuduvad.",
+      "flesh": "Seeneliha on valge, paks ja algul väga tugev, vananedes habras ja käsnjas; kahjustatud kohad võivad aeglaselt pruunistuda. Lõhn nõrk või veidi puuviljane, maitse mahe ja pähkline.",
+      "sporePrint": "Eospulber valge kuni kahvatukreemjas. Eosed laialt ellipsoidsed kuni peaaegu kerajad, 5,5–10 × 4,5–8 µm, madalate näsade ja muutlike peente ühendustega, mis mõnikord moodustavad mittetäieliku võrgu.",
+      "habitat": "Mullal valgusküllastes leht- ja segametsades, peamiselt tammede, pöökide, kaskede ja harilike kastanipuude juures, eelistades lubjavaest või veidi happelist pinnast. Vahel leitud okasmetsadest. Viljub peamiselt juunist oktoobrini Mandri-Euroopas, augustist oktoobrini Suurbritannias ja Iirimaal.",
+      "uses": "Hinnatud tugeva tekstuuriga söögiseen, mida praetakse, hautatakse ja grillitakse ning kasutatakse suppides ja pajaroogades. Kuivatamine tugevdab pähklist maitset. Õige määrang on hädavajalik, sest noorte rohelise kübaraga seente hulgas on ka surmavalt mürgiseid liike.",
+      "confusion": "Russula aeruginea ja Russula heterophylla kübarad on tavaliselt siledad, mitte tugevalt ruuduliselt pragunenud. Amanita phalloides on surmavalt mürgine ning erinevalt sellest liigist on tal rõngas ja paisunud jalaalust ümbritsev tupp. Põhja-Ameerika Russula parvovirescens on väiksem, sageli sinakasrohelisem, suuremate kübaralaikude ja triibulise servaga; Russula crustosa kübar on muutlikuma värviga ning märjalt kleepuv, eospulber tumedam kollane.",
+      "notes": "2024. aasta ülemaailmne hinnang, mis avaldati 2025. aastal, liigitab liigi soodsas seisundis olevaks (Least Concern). Põhja-Ameerika leiud selle nime all hõlmavad eri liikide kompleksi ning neid ei tohiks automaatselt samastada Euroopa liigiga. Noortel viljakehadel võib kübara ruuduline muster olla nõrgalt arenenud.",
+      "label": "areoolpilvik",
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/russula-virescens.php",
+        "https://botany.cz/cs/russula-virescens/",
+        "https://www.myko.cz/myko-atlas/Russula-virescens/",
+        "https://en.wikipedia.org/wiki/Russula_virescens",
+        "https://www.iucnredlist.org/species/230148498/260413110",
+        "https://et.wikipedia.org/wiki/Areoolpilvik"
+      ]
+    }
   }
+}
 ];

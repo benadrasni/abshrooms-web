@@ -701,13 +701,22 @@ function genusCell(entry, lang, mark) {
   );
 }
 
-function cell(species, lang, third, spoken, mark) {
+// A stored label that repeats the Latin name is not a vernacular.
+function speciesVernacular(species, lang) {
   var raw = species.label && species.label[lang] ? String(species.label[lang]).trim() : "";
-  var label = raw ? displayName(raw, "", lang) : "";
+  if (!raw || fold(raw) === fold(species.name)) return "";
+  return displayName(raw, "", lang);
+}
+
+function cell(species, lang, third, spoken, mark) {
+  var label = speciesVernacular(species, lang);
   var badge = mark && mark.text
     ? '<div class="year' + (mark.state ? " state" : "") + '">' + esc(mark.text) + "</div>"
     : "";
   var alt = label ? esc(label + ", " + species.name) : esc(species.name);
+  var group = third
+    ? '<div class="g' + (spoken ? " spoken" : "") + '">' + esc(third) + "</div>"
+    : "";
   return (
     '<a class="cell" href="' + href("/mushroom/" + encodeURIComponent(species.name), lang) + '">' +
       '<div class="art"><img src="' + esc(species.plateGrid) + '" alt="' + alt + '"></div>' +
@@ -715,7 +724,7 @@ function cell(species, lang, third, spoken, mark) {
       (label
         ? '<div class="n">' + esc(label) + '</div><div class="l latin">' + esc(species.name) + "</div>"
         : '<div class="n latin">' + esc(species.name) + "</div>") +
-      '<div class="g' + (spoken ? " spoken" : "") + '">' + esc(third) + "</div>" +
+      group +
     "</a>"
   );
 }
@@ -910,6 +919,10 @@ function listPage(lang, id) {
         ? { text: String(entry.year) }
         : null;
     if (entry.genus) return genusCell(entry, lang, mark);
+    // No vernacular: the card is the Latin name alone.
+    if (!speciesVernacular(entry.species, lang)) {
+      return cell(entry.species, lang, "", false, mark);
+    }
     var spoken = taxonLabel(entry.species.family, lang);
     return cell(
       entry.species,

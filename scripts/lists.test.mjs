@@ -83,6 +83,42 @@ test('2016 on the German and Hungarian year lists is Collybia personata', () => 
   assert.equal(hungary.find((row) => row.year === 2016).name, 'Collybia personata');
 });
 
+function cellHtml(html, href) {
+  const start = html.indexOf(href);
+  assert.ok(start >= 0, href);
+  return html.slice(start, html.indexOf('</a>', start));
+}
+
+test('a list shows only the Latin name when the species has no vernacular', () => {
+  const english = viewModel({ lang: 'en', view: 'list', key: 'deadly-poisonous', search: '' });
+  const rimosa = cellHtml(english.html, 'href="/mushroom/Amanita%20rimosa/"');
+  assert.match(rimosa, /class="n latin">Amanita rimosa</);
+  assert.doesNotMatch(rimosa, /class="l latin"/);
+  assert.doesNotMatch(rimosa, /class="g"/);
+
+  const death = cellHtml(english.html, 'href="/mushroom/Amanita%20phalloides/"');
+  assert.match(death, /class="n">death cap</);
+  assert.match(death, /class="l latin">Amanita phalloides</);
+  assert.match(death, /class="g">Amanitaceae</);
+
+  const italian = viewModel({ lang: 'it', view: 'list', key: 'deadly-poisonous', search: '' });
+  const bell = cellHtml(italian.html, 'href="/it/mushroom/Galerina%20marginata/"');
+  assert.match(bell, /class="n latin">Galerina marginata</);
+  assert.doesNotMatch(bell, /galerina marginata/);
+  assert.doesNotMatch(bell, /class="l latin"/);
+  assert.doesNotMatch(bell, /class="g"/);
+
+  const hindi = viewModel({ lang: 'hi', view: 'list', key: 'deadly-poisonous', search: '' });
+  const hindiCap = cellHtml(hindi.html, 'href="/hi/mushroom/Amanita%20phalloides/"');
+  assert.match(hindiCap, /class="n latin">Amanita phalloides</);
+  assert.doesNotMatch(hindiCap, /class="g"/);
+
+  const family = viewModel({ lang: 'en', view: 'family', key: 'Amanitaceae', search: '' });
+  const onFamily = cellHtml(family.html, 'href="/mushroom/Amanita%20rimosa/"');
+  assert.match(onFamily, /class="n latin">Amanita rimosa</);
+  assert.match(onFamily, /class="g">Amanita</);
+});
+
 test('the Estonian year list keeps a genus pick as a genus', () => {
   const rows = listSpecies('mushroom-of-the-year-et');
   assert.equal(rows[0].genus, 'Heterobasidion');
@@ -140,7 +176,6 @@ const YEAR_LIST_GAPS = [
   ['mushroom-of-the-year-lv', 2007, 'Aspropaxillus giganteus'],
   ['mushroom-of-the-year-lv', 2006, 'Sarcosoma globosum'],
   ['mushroom-of-the-year-lv', 2005, 'Phaeolepiota aurea'],
-  ['mushroom-of-the-year-hu', 2008, 'Russula virescens'],
   ['mushroom-of-the-year-hu', 2011, 'Amanita caesarea'],
   ['mushroom-of-the-year-hu', 2013, 'Agaricus bohusii'],
   ['mushroom-of-the-year-hu', 2017, 'Omphalotus olearius'],
