@@ -123247,8 +123247,8 @@ export const CATALOG = [
   ],
   "capFrom": 5,
   "capTo": 25,
-  "plate": STORAGE + "photos/Polyporales/Meruliaceae/Climacodon_septentrionalis/Climacodon_septentrionalis@1600.webp",
-  "plateGrid": STORAGE + "photos/Polyporales/Meruliaceae/Climacodon_septentrionalis/Climacodon_septentrionalis@400.webp",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Meruliaceae/Climacodon_septentrionalis/Climacodon_septentrionalis@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Meruliaceae/Climacodon_septentrionalis/Climacodon_septentrionalis@400.webp",
   "plateCredit": {
     "author": "Unknown (existing source mark is not inventoried as artist)",
     "credit": "Local supplied illustration; creator/publication unverified. Existing Gemini source mark retained as pixels.",
@@ -123258,35 +123258,35 @@ export const CATALOG = [
   },
   "photos": [
     {
-      "src": STORAGE + "photos/Polyporales/Meruliaceae/Climacodon_septentrionalis/cs1.webp",
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Meruliaceae/Climacodon_septentrionalis/cs1.webp",
       "author": "Cephas",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Climacodon_septentrionalis_UL_01.jpg"
     },
     {
-      "src": STORAGE + "photos/Polyporales/Meruliaceae/Climacodon_septentrionalis/cs2.webp",
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Meruliaceae/Climacodon_septentrionalis/cs2.webp",
       "author": "Cephas",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
       "source": "https://commons.wikimedia.org/wiki/File:Climacodon_septentrionalis_UL_02.jpg"
     },
     {
-      "src": STORAGE + "photos/Polyporales/Meruliaceae/Climacodon_septentrionalis/cs3.webp",
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Meruliaceae/Climacodon_septentrionalis/cs3.webp",
       "author": "Marc-Olivier Beausoleil",
       "license": "CC BY",
       "licenseUrl": "https://creativecommons.org/licenses/by/",
       "source": "https://www.inaturalist.org/observations/399650410"
     },
     {
-      "src": STORAGE + "photos/Polyporales/Meruliaceae/Climacodon_septentrionalis/cs4.webp",
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Meruliaceae/Climacodon_septentrionalis/cs4.webp",
       "author": "Bernadette Kavanaugh",
       "license": "CC BY",
       "licenseUrl": "https://creativecommons.org/licenses/by/",
       "source": "https://www.inaturalist.org/observations/130853896"
     },
     {
-      "src": STORAGE + "photos/Polyporales/Meruliaceae/Climacodon_septentrionalis/cs5.webp",
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Meruliaceae/Climacodon_septentrionalis/cs5.webp",
       "author": "Юрий Носков",
       "license": "CC0 1.0",
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
@@ -123295,7 +123295,22 @@ export const CATALOG = [
   ],
   "names": {},
   "label": {
-    "lv": "ziemeļu klimakodone"
+    "lv": "ziemeļu klimakodone",
+    "sk": "zubček severský",
+    "cs": "šindelovník severský",
+    "da": "kæmpepigsvamp",
+    "de": "Nördlicher Stachelseitling",
+    "en": "northern tooth fungus",
+    "et": "kobar-põhjanarmik",
+    "fi": "kääpäorakas",
+    "fr": "hydne septentrional",
+    "ja": "エゾハリタケ",
+    "ko": "수염버섯",
+    "lt": "šiaurinis dyglenis",
+    "no": "trappepiggsopp",
+    "pl": "zębniczek północny",
+    "ru": "климакодон северный",
+    "sv": "grentaggsvamp"
   },
   "text": {
     "en": {
@@ -123717,7 +123732,8 @@ export const CATALOG = [
         "https://www.minnesotaseasons.com/Fungi/Northern_Tooth.html",
         "https://lister.artsdatabanken.no/rodlisteforarter/2021/18625",
         "https://doi.org/10.1007/s10267-011-0128-1"
-      ]
+      ],
+      "label": "ziemeļu klimakodone"
     },
     "lt": {
       "description": "Didelis vienmetis medienoje augantis grybas, paplitęs Šiaurės pusrutulio vidutinių platumų miškuose, parkuose ir alėjose Europoje, šiaurės rytų Azijoje bei Šiaurės Amerikoje. Persidengiantys vaisiakūniai sudaro ryškias sankaupas ant senų medžių. Parazituoja gyvuose medžiuose ir gali toliau skaidyti jų medieną medžiams žuvus.",
@@ -123738,8 +123754,10 @@ export const CATALOG = [
         "https://pl.wikipedia.org/wiki/Zębniczek_północny",
         "https://www.minnesotaseasons.com/Fungi/Northern_Tooth.html",
         "https://lister.artsdatabanken.no/rodlisteforarter/2021/18625",
-        "https://doi.org/10.1007/s10267-011-0128-1"
-      ]
+        "https://doi.org/10.1007/s10267-011-0128-1",
+        "https://gamtostyrimai.lt/wp-content/uploads/2024/12/2024_Grybu_savadas_web.pdf"
+      ],
+      "label": "šiaurinis dyglenis"
     },
     "hr": {
       "description": "Velika jednogodišnja gljiva koja raste na drvu u umjerenim područjima sjeverne polutke, poznata iz šuma, parkova i drvoreda Europe, sjeveroistočne Azije i Sjeverne Amerike. Preklopljena plodišta tvore uočljive nakupine na starim stablima. Parazitira na živim stablima te nakon njihove smrti može nastaviti razgrađivati drvo.",
@@ -124028,8 +124046,10 @@ export const CATALOG = [
         "https://pl.wikipedia.org/wiki/Zębniczek_północny",
         "https://www.minnesotaseasons.com/Fungi/Northern_Tooth.html",
         "https://lister.artsdatabanken.no/rodlisteforarter/2021/18625",
-        "https://doi.org/10.1007/s10267-011-0128-1"
-      ]
+        "https://doi.org/10.1007/s10267-011-0128-1",
+        "https://www.kjmycology.or.kr/wp-content/uploads/2025/02/KJM-3301-07.pdf"
+      ],
+      "label": "수염버섯"
     },
     "id": {
       "description": "Jamur kayu besar semusim dari wilayah beriklim sedang di Belahan Bumi Utara, dikenal dari hutan, taman, dan deretan pohon di Eropa, Asia timur laut, dan Amerika Utara. Tubuh buah yang saling menumpuk membentuk massa mencolok pada pohon tua. Jamur ini menjadi parasit pada pohon hidup dan dapat terus menguraikan kayunya setelah pohon mati.",
@@ -124075,6 +124095,30 @@ export const CATALOG = [
         "https://doi.org/10.1007/s10267-011-0128-1"
       ]
     }
+  },
+  "sources": {
+    "ko": [
+      "https://www.mushroomexpert.com/climacodon_septentrionalis.html",
+      "https://naturschutzbund.at/pilz-leser/items/id-2020-noerdlicher-stachelseitling.html",
+      "https://arbres.ccdmd.qc.ca/fiche/hydne-septentrional",
+      "https://www.funga.fi/Karstenia/Karstenia%2027-2%201987-2.pdf",
+      "https://pl.wikipedia.org/wiki/Zębniczek_północny",
+      "https://www.minnesotaseasons.com/Fungi/Northern_Tooth.html",
+      "https://lister.artsdatabanken.no/rodlisteforarter/2021/18625",
+      "https://doi.org/10.1007/s10267-011-0128-1",
+      "https://www.kjmycology.or.kr/wp-content/uploads/2025/02/KJM-3301-07.pdf"
+    ],
+    "lt": [
+      "https://www.mushroomexpert.com/climacodon_septentrionalis.html",
+      "https://naturschutzbund.at/pilz-leser/items/id-2020-noerdlicher-stachelseitling.html",
+      "https://arbres.ccdmd.qc.ca/fiche/hydne-septentrional",
+      "https://www.funga.fi/Karstenia/Karstenia%2027-2%201987-2.pdf",
+      "https://pl.wikipedia.org/wiki/Zębniczek_północny",
+      "https://www.minnesotaseasons.com/Fungi/Northern_Tooth.html",
+      "https://lister.artsdatabanken.no/rodlisteforarter/2021/18625",
+      "https://doi.org/10.1007/s10267-011-0128-1",
+      "https://gamtostyrimai.lt/wp-content/uploads/2024/12/2024_Grybu_savadas_web.pdf"
+    ]
   }
 },
 {
@@ -124117,8 +124161,8 @@ export const CATALOG = [
   "stipeHeightTo": 7,
   "stipeThickFrom": 0.4,
   "stipeThickTo": 1,
-  "plate": STORAGE + "photos/Agaricales/Omphalinaceae/Infundibulicybe_gibba/Infundibulicybe_gibba@1600.webp",
-  "plateGrid": STORAGE + "photos/Agaricales/Omphalinaceae/Infundibulicybe_gibba/Infundibulicybe_gibba@400.webp",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Omphalinaceae/Infundibulicybe_gibba/Infundibulicybe_gibba@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Omphalinaceae/Infundibulicybe_gibba/Infundibulicybe_gibba@400.webp",
   "plateCredit": {
     "author": "Unknown (individual illustrator unverified; publication credited separately)",
     "credit": "After figure30, plate15, L. Dufour, Atlas des champignons comestibles et vénéneux (Paris: Paul Klincksieck,1891); individual illustrator unverified. Existing local L. Dufour mark preserved, not verified as an original autograph.",
@@ -124128,41 +124172,72 @@ export const CATALOG = [
   },
   "photos": [
     {
-      "src": STORAGE + "photos/Agaricales/Omphalinaceae/Infundibulicybe_gibba/ig1.webp",
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Omphalinaceae/Infundibulicybe_gibba/ig1.webp",
       "author": "empressmoth",
       "license": "CC0 1.0",
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source": "https://www.inaturalist.org/observations/245359952"
     },
     {
-      "src": STORAGE + "photos/Agaricales/Omphalinaceae/Infundibulicybe_gibba/ig2.webp",
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Omphalinaceae/Infundibulicybe_gibba/ig2.webp",
       "author": "Tero Linjama",
       "license": "CC0 1.0",
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source": "https://www.inaturalist.org/observations/92886080"
     },
     {
-      "src": STORAGE + "photos/Agaricales/Omphalinaceae/Infundibulicybe_gibba/ig3.webp",
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Omphalinaceae/Infundibulicybe_gibba/ig3.webp",
       "author": "Sigrid Jakob",
       "license": "CC0 1.0",
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source": "https://www.inaturalist.org/observations/134778559"
     },
     {
-      "src": STORAGE + "photos/Agaricales/Omphalinaceae/Infundibulicybe_gibba/ig4.webp",
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Omphalinaceae/Infundibulicybe_gibba/ig4.webp",
       "author": "T. Pedro Hafermann",
       "license": "CC0 1.0",
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source": "https://www.inaturalist.org/observations/85211345"
     },
     {
-      "src": STORAGE + "photos/Agaricales/Omphalinaceae/Infundibulicybe_gibba/ig5.webp",
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Omphalinaceae/Infundibulicybe_gibba/ig5.webp",
       "author": "Sim Elliott",
       "license": "CC0 1.0",
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source": "https://www.inaturalist.org/observations/193645630"
     }
   ],
+  "names": {
+    "sk": [
+      "lievik obyčajný",
+      "vranie uško"
+    ]
+  },
+  "label": {
+    "sk": "strmuľka lievikovitá",
+    "bg": "фуниевидна орешарка",
+    "cs": "strmělka nálevkovitá",
+    "da": "almindelig tragthat",
+    "de": "Ockerbrauner Trichterling",
+    "en": "common funnel",
+    "es": "clitocibe embudado",
+    "et": "tavalehtrik",
+    "fi": "suppilomalikka",
+    "fr": "clitocybe en entonnoir",
+    "hr": "mala martinčica",
+    "hu": "sereges tölcsérgomba",
+    "it": "imbutino",
+    "ja": "カヤタケ",
+    "lt": "dauburinė taurena",
+    "lv": "parastā piltuvene",
+    "nl": "Slanke trechterzwam",
+    "no": "sommertraktsopp",
+    "pl": "lejkogłówka żółtobrązowa",
+    "ru": "говорушка ворончатая",
+    "sl": "rjavkasta livka",
+    "sv": "sommartrattskivling",
+    "uk": "клітоцибе їстівний"
+  },
   "text": {
     "en": {
       "description": "A terrestrial, gilled mushroom that grows in groups, arcs or rings among woodland litter. It is widespread and common in Europe and is also recorded in temperate Asia and North America. Its mycelium feeds by decomposing dead plant material.",
@@ -124231,8 +124306,10 @@ export const CATALOG = [
         "https://www.albertamushrooms.ca/2026/09/05/infundibulicybe-gibba/",
         "https://en.wikipedia.org/wiki/Infundibulicybe_gibba",
         "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A4%E3%82%BF%E3%82%B1",
-        "https://doi.org/10.1002/hlca.19760590718"
-      ]
+        "https://doi.org/10.1002/hlca.19760590718",
+        "https://vr-balkan.net/pic/2830_PKDB_%28por161%29_Mushrooms-small.pdf"
+      ],
+      "label": "фуниевидна орешарка"
     },
     "zh": {
       "description": "地生的有褶菇類，在林地枯落物間成群、呈弧形或環狀生長。在歐洲分布廣泛且常見，也見於溫帶亞洲與北美洲。菌絲體藉分解死亡植物物質取得養分。",
@@ -124275,8 +124352,10 @@ export const CATALOG = [
         "https://www.albertamushrooms.ca/2026/09/05/infundibulicybe-gibba/",
         "https://en.wikipedia.org/wiki/Infundibulicybe_gibba",
         "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A4%E3%82%BF%E3%82%B1",
-        "https://doi.org/10.1002/hlca.19760590718"
-      ]
+        "https://doi.org/10.1002/hlca.19760590718",
+        "https://cromushrooms.eu/images/files/popisgljivazaispite.pdf"
+      ],
+      "label": "mala martinčica"
     },
     "cs": {
       "description": "Pozemní lupenatá houba rostoucí ve skupinách, obloucích nebo kruzích v lesním opadu. Je rozšířená a běžná v Evropě, zaznamenaná také v mírném pásmu Asie a Severní Ameriky. Podhoubí získává živiny rozkladem odumřelých rostlinných zbytků.",
@@ -124320,8 +124399,11 @@ export const CATALOG = [
         "https://www.albertamushrooms.ca/2026/09/05/infundibulicybe-gibba/",
         "https://en.wikipedia.org/wiki/Infundibulicybe_gibba",
         "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A4%E3%82%BF%E3%82%B1",
-        "https://doi.org/10.1002/hlca.19760590718"
-      ]
+        "https://doi.org/10.1002/hlca.19760590718",
+        "https://api.gbif.org/v1/species/334907838",
+        "https://api.gbif.org/v1/species/334907838/vernacularNames?limit=1000"
+      ],
+      "label": "almindelig tragthat"
     },
     "nl": {
       "description": "Een op de grond groeiende plaatjeszwam die in groepen, bogen of kringen tussen bosstrooisel verschijnt. De soort is wijdverbreid en algemeen in Europa en ook gemeld uit gematigd Azië en Noord-Amerika. Het mycelium voedt zich door dood plantenmateriaal af te breken.",
@@ -124366,8 +124448,10 @@ export const CATALOG = [
         "https://www.albertamushrooms.ca/2026/09/05/infundibulicybe-gibba/",
         "https://en.wikipedia.org/wiki/Infundibulicybe_gibba",
         "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A4%E3%82%BF%E3%82%B1",
-        "https://doi.org/10.1002/hlca.19760590718"
-      ]
+        "https://doi.org/10.1002/hlca.19760590718",
+        "https://lva.eelis.ee/default.aspx?id=1506348505"
+      ],
+      "label": "tavalehtrik"
     },
     "fi": {
       "description": "Maassa kasvava helttasieni, joka muodostaa ryhmiä, kaaria tai renkaita metsän karikkeeseen. Se on Euroopassa laajalle levinnyt ja yleinen, ja sitä on tavattu myös Aasian lauhkeilla alueilla ja Pohjois-Amerikassa. Rihmasto saa ravintonsa hajottamalla kuollutta kasviainesta.",
@@ -124510,8 +124594,10 @@ export const CATALOG = [
         "https://www.albertamushrooms.ca/2026/09/05/infundibulicybe-gibba/",
         "https://en.wikipedia.org/wiki/Infundibulicybe_gibba",
         "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A4%E3%82%BF%E3%82%B1",
-        "https://doi.org/10.1002/hlca.19760590718"
-      ]
+        "https://doi.org/10.1002/hlca.19760590718",
+        "https://www.gombacsoda.hu/gombaszakellenor-fajlista"
+      ],
+      "label": "sereges tölcsérgomba"
     },
     "id": {
       "description": "Jamur berlamela yang tumbuh di tanah, berkelompok, membentuk busur atau lingkaran di antara serasah hutan. Tersebar luas dan umum di Eropa, serta tercatat di Asia beriklim sedang dan Amerika Utara. Miseliumnya memperoleh nutrisi dengan menguraikan bahan tumbuhan mati.",
@@ -124626,8 +124712,10 @@ export const CATALOG = [
         "https://www.albertamushrooms.ca/2026/09/05/infundibulicybe-gibba/",
         "https://en.wikipedia.org/wiki/Infundibulicybe_gibba",
         "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A4%E3%82%BF%E3%82%B1",
-        "https://doi.org/10.1002/hlca.19760590718"
-      ]
+        "https://doi.org/10.1002/hlca.19760590718",
+        "https://www.silava.lv/images/articles/Latvijas-Vegetacija/2024-34/2024-LatVeg-34.pdf"
+      ],
+      "label": "parastā piltuvene"
     },
     "lt": {
       "description": "Ant žemės augantis lakštabudis, miško paklotėje sudarantis grupes, lankus ar ratus. Europoje plačiai paplitęs ir dažnas, taip pat aptinkamas vidutinio klimato Azijoje ir Šiaurės Amerikoje. Grybiena maitinasi skaidydama negyvas augalines liekanas.",
@@ -124648,8 +124736,10 @@ export const CATALOG = [
         "https://www.albertamushrooms.ca/2026/09/05/infundibulicybe-gibba/",
         "https://en.wikipedia.org/wiki/Infundibulicybe_gibba",
         "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A4%E3%82%BF%E3%82%B1",
-        "https://doi.org/10.1002/hlca.19760590718"
-      ]
+        "https://doi.org/10.1002/hlca.19760590718",
+        "https://gamtostyrimai.lt/wp-content/uploads/2024/12/2024_Grybu_savadas_web.pdf"
+      ],
+      "label": "dauburinė taurena"
     },
     "no": {
       "description": "En bakkevoksende skivesopp som vokser i grupper, buer eller ringer i skogens strølag. Den er utbredt og vanlig i Europa og også registrert i tempererte deler av Asia og Nord-Amerika. Mycelet får næring ved å bryte ned dødt plantemateriale.",
@@ -124670,8 +124760,11 @@ export const CATALOG = [
         "https://www.albertamushrooms.ca/2026/09/05/infundibulicybe-gibba/",
         "https://en.wikipedia.org/wiki/Infundibulicybe_gibba",
         "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A4%E3%82%BF%E3%82%B1",
-        "https://doi.org/10.1002/hlca.19760590718"
-      ]
+        "https://doi.org/10.1002/hlca.19760590718",
+        "https://api.gbif.org/v1/species/168071197",
+        "https://api.gbif.org/v1/species/168071197/vernacularNames?limit=1000"
+      ],
+      "label": "sommertraktsopp"
     },
     "fa": {
       "description": "قارچی زمینی و تیغه‌دار که در بستر بقایای گیاهی جنگل به‌صورت گروهی، کمانی یا حلقوی رشد می‌کند. در اروپا گسترده و فراوان است و از آسیای معتدل و آمریکای شمالی نیز گزارش شده است. ریسه‌های آن با تجزیهٔ مواد گیاهی مرده تغذیه می‌کنند.",
@@ -124801,6 +124894,11 @@ export const CATALOG = [
       "uses": "V častiach Európy sa tradične konzumujú najmä mladé klobúky, pričom tuhé hlúbiky sa odstraňujú. Japonské nálezy uvádzané pod týmto menom sa po zistení muskarínu považujú za jedovaté. Konzumácia sa neodporúča; tepelná úprava nie je overeným riešením tohto rizika.",
       "confusion": "Infundibulicybe costata má výraznejšie rebrovaný okraj a klobúk s KOH reaguje červenohnedo. Infundibulicybe squamulosa má jemne šupinkatý stred klobúka. Paralepista flaccida je červenohnedšia a má jemne bradavičnaté výtrusy. Bledé plodnice sa podobajú aj veľmi jedovatým belavým druhom rodu Clitocybe.",
       "notes": "Boli zaznamenané čarovné kruhy s priemerom takmer 10 m.",
+      "label": "strmuľka lievikovitá",
+      "names": [
+        "lievik obyčajný",
+        "vranie uško"
+      ],
       "sourceUrls": [
         "https://www.first-nature.com/fungi/clitocybe-gibba.php",
         "https://www.myko.cz/myko-atlas/Infundibulicybe-gibba/",
@@ -124853,8 +124951,10 @@ export const CATALOG = [
         "https://www.albertamushrooms.ca/2026/09/05/infundibulicybe-gibba/",
         "https://en.wikipedia.org/wiki/Infundibulicybe_gibba",
         "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A4%E3%82%BF%E3%82%B1",
-        "https://doi.org/10.1002/hlca.19760590718"
-      ]
+        "https://doi.org/10.1002/hlca.19760590718",
+        "https://www.zdravgozd.si/dat/gradivo/22.pdf"
+      ],
+      "label": "rjavkasta livka"
     },
     "es": {
       "description": "Una seta terrestre con láminas que crece en grupos, arcos o corros entre la hojarasca forestal. Está ampliamente distribuida y es común en Europa, y también se ha registrado en Asia templada y Norteamérica. Su micelio se nutre descomponiendo restos vegetales muertos.",
@@ -124944,9 +125044,125 @@ export const CATALOG = [
         "https://www.albertamushrooms.ca/2026/09/05/infundibulicybe-gibba/",
         "https://en.wikipedia.org/wiki/Infundibulicybe_gibba",
         "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A4%E3%82%BF%E3%82%B1",
-        "https://doi.org/10.1002/hlca.19760590718"
-      ]
+        "https://doi.org/10.1002/hlca.19760590718",
+        "https://uk.wikipedia.org/wiki/Clitocybe_gibba"
+      ],
+      "label": "клітоцибе їстівний"
     }
+  },
+  "sources": {
+    "bg": [
+      "https://www.first-nature.com/fungi/clitocybe-gibba.php",
+      "https://www.myko.cz/myko-atlas/Infundibulicybe-gibba/",
+      "https://www.aranzadi.eus/buscador-micologico/ficha/1-1-003.02.08.03.12.00",
+      "https://www.englishfungi.org/Species/Infundibulicybe%20gibba",
+      "https://www.albertamushrooms.ca/2026/09/05/infundibulicybe-gibba/",
+      "https://en.wikipedia.org/wiki/Infundibulicybe_gibba",
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A4%E3%82%BF%E3%82%B1",
+      "https://doi.org/10.1002/hlca.19760590718",
+      "https://vr-balkan.net/pic/2830_PKDB_%28por161%29_Mushrooms-small.pdf"
+    ],
+    "da": [
+      "https://www.first-nature.com/fungi/clitocybe-gibba.php",
+      "https://www.myko.cz/myko-atlas/Infundibulicybe-gibba/",
+      "https://www.aranzadi.eus/buscador-micologico/ficha/1-1-003.02.08.03.12.00",
+      "https://www.englishfungi.org/Species/Infundibulicybe%20gibba",
+      "https://www.albertamushrooms.ca/2026/09/05/infundibulicybe-gibba/",
+      "https://en.wikipedia.org/wiki/Infundibulicybe_gibba",
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A4%E3%82%BF%E3%82%B1",
+      "https://doi.org/10.1002/hlca.19760590718",
+      "https://api.gbif.org/v1/species/334907838",
+      "https://api.gbif.org/v1/species/334907838/vernacularNames?limit=1000"
+    ],
+    "et": [
+      "https://www.first-nature.com/fungi/clitocybe-gibba.php",
+      "https://www.myko.cz/myko-atlas/Infundibulicybe-gibba/",
+      "https://www.aranzadi.eus/buscador-micologico/ficha/1-1-003.02.08.03.12.00",
+      "https://www.englishfungi.org/Species/Infundibulicybe%20gibba",
+      "https://www.albertamushrooms.ca/2026/09/05/infundibulicybe-gibba/",
+      "https://en.wikipedia.org/wiki/Infundibulicybe_gibba",
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A4%E3%82%BF%E3%82%B1",
+      "https://doi.org/10.1002/hlca.19760590718",
+      "https://lva.eelis.ee/default.aspx?id=1506348505"
+    ],
+    "hr": [
+      "https://www.first-nature.com/fungi/clitocybe-gibba.php",
+      "https://www.myko.cz/myko-atlas/Infundibulicybe-gibba/",
+      "https://www.aranzadi.eus/buscador-micologico/ficha/1-1-003.02.08.03.12.00",
+      "https://www.englishfungi.org/Species/Infundibulicybe%20gibba",
+      "https://www.albertamushrooms.ca/2026/09/05/infundibulicybe-gibba/",
+      "https://en.wikipedia.org/wiki/Infundibulicybe_gibba",
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A4%E3%82%BF%E3%82%B1",
+      "https://doi.org/10.1002/hlca.19760590718",
+      "https://cromushrooms.eu/images/files/popisgljivazaispite.pdf"
+    ],
+    "hu": [
+      "https://www.first-nature.com/fungi/clitocybe-gibba.php",
+      "https://www.myko.cz/myko-atlas/Infundibulicybe-gibba/",
+      "https://www.aranzadi.eus/buscador-micologico/ficha/1-1-003.02.08.03.12.00",
+      "https://www.englishfungi.org/Species/Infundibulicybe%20gibba",
+      "https://www.albertamushrooms.ca/2026/09/05/infundibulicybe-gibba/",
+      "https://en.wikipedia.org/wiki/Infundibulicybe_gibba",
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A4%E3%82%BF%E3%82%B1",
+      "https://doi.org/10.1002/hlca.19760590718",
+      "https://www.gombacsoda.hu/gombaszakellenor-fajlista"
+    ],
+    "lt": [
+      "https://www.first-nature.com/fungi/clitocybe-gibba.php",
+      "https://www.myko.cz/myko-atlas/Infundibulicybe-gibba/",
+      "https://www.aranzadi.eus/buscador-micologico/ficha/1-1-003.02.08.03.12.00",
+      "https://www.englishfungi.org/Species/Infundibulicybe%20gibba",
+      "https://www.albertamushrooms.ca/2026/09/05/infundibulicybe-gibba/",
+      "https://en.wikipedia.org/wiki/Infundibulicybe_gibba",
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A4%E3%82%BF%E3%82%B1",
+      "https://doi.org/10.1002/hlca.19760590718",
+      "https://gamtostyrimai.lt/wp-content/uploads/2024/12/2024_Grybu_savadas_web.pdf"
+    ],
+    "lv": [
+      "https://www.first-nature.com/fungi/clitocybe-gibba.php",
+      "https://www.myko.cz/myko-atlas/Infundibulicybe-gibba/",
+      "https://www.aranzadi.eus/buscador-micologico/ficha/1-1-003.02.08.03.12.00",
+      "https://www.englishfungi.org/Species/Infundibulicybe%20gibba",
+      "https://www.albertamushrooms.ca/2026/09/05/infundibulicybe-gibba/",
+      "https://en.wikipedia.org/wiki/Infundibulicybe_gibba",
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A4%E3%82%BF%E3%82%B1",
+      "https://doi.org/10.1002/hlca.19760590718",
+      "https://www.silava.lv/images/articles/Latvijas-Vegetacija/2024-34/2024-LatVeg-34.pdf"
+    ],
+    "no": [
+      "https://www.first-nature.com/fungi/clitocybe-gibba.php",
+      "https://www.myko.cz/myko-atlas/Infundibulicybe-gibba/",
+      "https://www.aranzadi.eus/buscador-micologico/ficha/1-1-003.02.08.03.12.00",
+      "https://www.englishfungi.org/Species/Infundibulicybe%20gibba",
+      "https://www.albertamushrooms.ca/2026/09/05/infundibulicybe-gibba/",
+      "https://en.wikipedia.org/wiki/Infundibulicybe_gibba",
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A4%E3%82%BF%E3%82%B1",
+      "https://doi.org/10.1002/hlca.19760590718",
+      "https://api.gbif.org/v1/species/168071197",
+      "https://api.gbif.org/v1/species/168071197/vernacularNames?limit=1000"
+    ],
+    "sl": [
+      "https://www.first-nature.com/fungi/clitocybe-gibba.php",
+      "https://www.myko.cz/myko-atlas/Infundibulicybe-gibba/",
+      "https://www.aranzadi.eus/buscador-micologico/ficha/1-1-003.02.08.03.12.00",
+      "https://www.englishfungi.org/Species/Infundibulicybe%20gibba",
+      "https://www.albertamushrooms.ca/2026/09/05/infundibulicybe-gibba/",
+      "https://en.wikipedia.org/wiki/Infundibulicybe_gibba",
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A4%E3%82%BF%E3%82%B1",
+      "https://doi.org/10.1002/hlca.19760590718",
+      "https://www.zdravgozd.si/dat/gradivo/22.pdf"
+    ],
+    "uk": [
+      "https://www.first-nature.com/fungi/clitocybe-gibba.php",
+      "https://www.myko.cz/myko-atlas/Infundibulicybe-gibba/",
+      "https://www.aranzadi.eus/buscador-micologico/ficha/1-1-003.02.08.03.12.00",
+      "https://www.englishfungi.org/Species/Infundibulicybe%20gibba",
+      "https://www.albertamushrooms.ca/2026/09/05/infundibulicybe-gibba/",
+      "https://en.wikipedia.org/wiki/Infundibulicybe_gibba",
+      "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A4%E3%82%BF%E3%82%B1",
+      "https://doi.org/10.1002/hlca.19760590718",
+      "https://uk.wikipedia.org/wiki/Clitocybe_gibba"
+    ]
   }
 },
 {
@@ -124992,8 +125208,8 @@ export const CATALOG = [
   "stipeHeightTo": 12,
   "stipeThickFrom": 0.5,
   "stipeThickTo": 2,
-  "plate": STORAGE + "photos/Agaricales/Agaricaceae/Leucocoprinus_leucothites/Leucocoprinus_leucothites@1600.webp",
-  "plateGrid": STORAGE + "photos/Agaricales/Agaricaceae/Leucocoprinus_leucothites/Leucocoprinus_leucothites@400.webp",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Leucocoprinus_leucothites/Leucocoprinus_leucothites@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Leucocoprinus_leucothites/Leucocoprinus_leucothites@400.webp",
   "plateCredit": {
     "author": "",
     "credit": "Icones Farlowianae (1929), plate11, W.G.Farlow; descriptive text E.A.Burt. Scan: Biodiversity Heritage Library, CC BY2.0. Individual illustrator unverified. Specimens rearranged and scan paper removed; added editorial signature requested by Adrian.",
@@ -125003,41 +125219,70 @@ export const CATALOG = [
   },
   "photos": [
     {
-      "src": STORAGE + "photos/Agaricales/Agaricaceae/Leucocoprinus_leucothites/ll1.webp",
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Leucocoprinus_leucothites/ll1.webp",
       "author": "Andy Kleinhesselink",
       "license": "CC0-1.0",
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source": "https://www.inaturalist.org/observations/9499910"
     },
     {
-      "src": STORAGE + "photos/Agaricales/Agaricaceae/Leucocoprinus_leucothites/ll2.webp",
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Leucocoprinus_leucothites/ll2.webp",
       "author": "Diego Blanco",
       "license": "CC0-1.0",
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source": "https://www.inaturalist.org/observations/62651746"
     },
     {
-      "src": STORAGE + "photos/Agaricales/Agaricaceae/Leucocoprinus_leucothites/ll3.webp",
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Leucocoprinus_leucothites/ll3.webp",
       "author": "Peter Gabler",
       "license": "CC0-1.0",
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source": "https://www.inaturalist.org/observations/34108879"
     },
     {
-      "src": STORAGE + "photos/Agaricales/Agaricaceae/Leucocoprinus_leucothites/ll4.webp",
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Leucocoprinus_leucothites/ll4.webp",
       "author": "Monika Fischer",
       "license": "CC0-1.0",
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source": "https://www.inaturalist.org/observations/311148689"
     },
     {
-      "src": STORAGE + "photos/Agaricales/Agaricaceae/Leucocoprinus_leucothites/ll5.webp",
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Leucocoprinus_leucothites/ll5.webp",
       "author": "cgmayers",
       "license": "CC0-1.0",
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source": "https://www.inaturalist.org/observations/62119249"
     }
   ],
+  "names": {
+    "sk": [
+      "bedľovník biely"
+    ]
+  },
+  "label": {
+    "sk": "bedlica ružovolupeňová",
+    "cs": "bedla zardělá",
+    "da": "rosabladet silkehat",
+    "de": "Rosablättriger Schirmpilz",
+    "en": "white dapperling",
+    "es": "lepiota blanca",
+    "fi": "valkoukonsieni",
+    "fr": "lépiote pudique",
+    "he": "לבקנית חלקה",
+    "hu": "fehér tarlógomba",
+    "ja": "シロカラカサタケ",
+    "lt": "šilkinis balsvis",
+    "lv": "riekstu sārtsporene",
+    "nl": "Blanke champignonparasol",
+    "no": "narresjampinjong",
+    "pl": "czubnik pospolity",
+    "ro": "buretele alb al porumbeilor",
+    "ru": "белошампиньон румянящийся",
+    "sl": "rožnolistni kukmakovec",
+    "sv": "champinjonfjällskivling",
+    "uk": "білопечериця рум’яніюча",
+    "zh": "堅實環柄菇"
+  },
   "text": {
     "en": {
       "description": "A terrestrial gilled mushroom, often growing in scattered groups on disturbed or grassy ground. Widespread in temperate parts of the Northern Hemisphere, including Europe and North America, with records also from the Southern Hemisphere. Its mycelium decomposes dead organic matter.",
@@ -125073,7 +125318,9 @@ export const CATALOG = [
       "confusion": "Amanita phalloides, Amanita verna a Amanita virosa majú na báze hlúbika pošvu. Druhy rodu Agaricus majú v dospelosti tmavohnedé lupene a hnedý výtrusný prach. Chlorophyllum molybdites má hnedé šupiny na klobúku a zelenkastý výtrusný prach.",
       "notes": "Pesticídy používané na trávnikoch môžu kontaminovať plodnice.",
       "label": "bedlica ružovolupeňová",
-      "names": [],
+      "names": [
+        "bedľovník biely"
+      ],
       "sourceUrls": [
         "https://explore.beatymuseum.ubc.ca/mushroomsup/L_leucothites.html",
         "https://www.myko.cz/myko-atlas/Leucoagaricus-leucothites/",
@@ -125117,8 +125364,11 @@ export const CATALOG = [
         "https://explore.beatymuseum.ubc.ca/mushroomsup/L_leucothites.html",
         "https://www.myko.cz/myko-atlas/Leucoagaricus-leucothites/",
         "https://www.first-nature.com/fungi/leucoagaricus-leucothites.php",
-        "https://www.gobe.si/Gobe/LeucoagaricusLeucothites"
-      ]
+        "https://www.gobe.si/Gobe/LeucoagaricusLeucothites",
+        "https://api.gbif.org/v1/species/119288801",
+        "https://api.gbif.org/v1/species/119288801/vernacularNames?limit=1000"
+      ],
+      "label": "Rosablättriger Schirmpilz"
     },
     "fr": {
       "description": "Un champignon terricole à lames, poussant souvent en groupes dispersés sur les sols remaniés ou herbeux. Répandu dans les régions tempérées de l’hémisphère Nord, notamment en Europe et en Amérique du Nord, il est aussi signalé dans l’hémisphère Sud. Son mycélium décompose la matière organique morte.",
@@ -125135,8 +125385,11 @@ export const CATALOG = [
         "https://explore.beatymuseum.ubc.ca/mushroomsup/L_leucothites.html",
         "https://www.myko.cz/myko-atlas/Leucoagaricus-leucothites/",
         "https://www.first-nature.com/fungi/leucoagaricus-leucothites.php",
-        "https://www.gobe.si/Gobe/LeucoagaricusLeucothites"
-      ]
+        "https://www.gobe.si/Gobe/LeucoagaricusLeucothites",
+        "https://api.gbif.org/v1/species/222024679",
+        "https://api.gbif.org/v1/species/222024679/vernacularNames?limit=1000"
+      ],
+      "label": "lépiote pudique"
     },
     "es": {
       "description": "Un hongo terrestre con láminas, que suele crecer en grupos dispersos sobre suelos alterados o herbosos. Está extendido por las regiones templadas del hemisferio norte, incluidas Europa y Norteamérica, y también se ha registrado en el hemisferio sur. Su micelio descompone materia orgánica muerta.",
@@ -125153,8 +125406,10 @@ export const CATALOG = [
         "https://explore.beatymuseum.ubc.ca/mushroomsup/L_leucothites.html",
         "https://www.myko.cz/myko-atlas/Leucoagaricus-leucothites/",
         "https://www.first-nature.com/fungi/leucoagaricus-leucothites.php",
-        "https://www.gobe.si/Gobe/LeucoagaricusLeucothites"
-      ]
+        "https://www.gobe.si/Gobe/LeucoagaricusLeucothites",
+        "https://www.cerveradepisuerga.eu/setas-listado.php?Buscar=&Clasificacion=Buena&Mostrar=0"
+      ],
+      "label": "lepiota blanca"
     },
     "it": {
       "description": "Un fungo terricolo a lamelle, spesso in gruppi sparsi su terreni disturbati o erbosi. Diffuso nelle regioni temperate dell’emisfero settentrionale, comprese Europa e Nordamerica, è segnalato anche nell’emisfero meridionale. Il micelio decompone la materia organica morta.",
@@ -125207,8 +125462,11 @@ export const CATALOG = [
         "https://explore.beatymuseum.ubc.ca/mushroomsup/L_leucothites.html",
         "https://www.myko.cz/myko-atlas/Leucoagaricus-leucothites/",
         "https://www.first-nature.com/fungi/leucoagaricus-leucothites.php",
-        "https://www.gobe.si/Gobe/LeucoagaricusLeucothites"
-      ]
+        "https://www.gobe.si/Gobe/LeucoagaricusLeucothites",
+        "https://api.gbif.org/v1/species/152470069",
+        "https://api.gbif.org/v1/species/152470069/vernacularNames?limit=1000"
+      ],
+      "label": "Blanke champignonparasol"
     },
     "da": {
       "description": "En jordboende bladhat, som ofte vokser i spredte grupper på forstyrret eller græsklædt jord. Vidt udbredt i tempererede dele af den nordlige halvkugle, herunder Europa og Nordamerika, og også kendt fra den sydlige halvkugle. Myceliet nedbryder dødt organisk materiale.",
@@ -125225,8 +125483,11 @@ export const CATALOG = [
         "https://explore.beatymuseum.ubc.ca/mushroomsup/L_leucothites.html",
         "https://www.myko.cz/myko-atlas/Leucoagaricus-leucothites/",
         "https://www.first-nature.com/fungi/leucoagaricus-leucothites.php",
-        "https://www.gobe.si/Gobe/LeucoagaricusLeucothites"
-      ]
+        "https://www.gobe.si/Gobe/LeucoagaricusLeucothites",
+        "https://api.gbif.org/v1/species/334908462",
+        "https://api.gbif.org/v1/species/334908462/vernacularNames?limit=1000"
+      ],
+      "label": "rosabladet silkehat"
     },
     "no": {
       "description": "En jordboende skivesopp som ofte vokser i spredte grupper på forstyrret eller gresskledd jord. Vidt utbredt i tempererte deler av den nordlige halvkule, inkludert Europa og Nord-Amerika, og også kjent fra den sørlige halvkule. Mycelet bryter ned dødt organisk materiale.",
@@ -125244,8 +125505,10 @@ export const CATALOG = [
         "https://www.myko.cz/myko-atlas/Leucoagaricus-leucothites/",
         "https://www.first-nature.com/fungi/leucoagaricus-leucothites.php",
         "https://www.gobe.si/Gobe/LeucoagaricusLeucothites",
-        "https://lister.artsdatabanken.no/rodlisteforarter/2021/22814"
-      ]
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/22814",
+        "https://soppognyttevekster.no/wp-content/uploads/2024/05/NORMLISTEN-I-WEBFORMAT-2024.pdf"
+      ],
+      "label": "narresjampinjong"
     },
     "sv": {
       "description": "En marklevande skivling som ofta växer i spridda grupper på störd eller gräsbevuxen mark. Utbredd i tempererade delar av norra halvklotet, bland annat Europa och Nordamerika, och även rapporterad från södra halvklotet. Mycelet bryter ned dött organiskt material.",
@@ -125262,8 +125525,11 @@ export const CATALOG = [
         "https://explore.beatymuseum.ubc.ca/mushroomsup/L_leucothites.html",
         "https://www.myko.cz/myko-atlas/Leucoagaricus-leucothites/",
         "https://www.first-nature.com/fungi/leucoagaricus-leucothites.php",
-        "https://www.gobe.si/Gobe/LeucoagaricusLeucothites"
-      ]
+        "https://www.gobe.si/Gobe/LeucoagaricusLeucothites",
+        "https://api.gbif.org/v1/species/160018732",
+        "https://api.gbif.org/v1/species/160018732/vernacularNames?limit=1000"
+      ],
+      "label": "champinjonfjällskivling"
     },
     "pl": {
       "description": "Naziemny grzyb blaszkowy, często rosnący w rozproszonych grupach na glebie naruszonej lub porośniętej trawą. Rozpowszechniony w umiarkowanych rejonach półkuli północnej, w tym w Europie i Ameryce Północnej, notowany również na półkuli południowej. Grzybnia rozkłada martwą materię organiczną.",
@@ -125280,8 +125546,10 @@ export const CATALOG = [
         "https://explore.beatymuseum.ubc.ca/mushroomsup/L_leucothites.html",
         "https://www.myko.cz/myko-atlas/Leucoagaricus-leucothites/",
         "https://www.first-nature.com/fungi/leucoagaricus-leucothites.php",
-        "https://www.gobe.si/Gobe/LeucoagaricusLeucothites"
-      ]
+        "https://www.gobe.si/Gobe/LeucoagaricusLeucothites",
+        "https://pl.wikipedia.org/wiki/Czubnik_pospolity"
+      ],
+      "label": "czubnik pospolity"
     },
     "hu": {
       "description": "Talajon növő lemezes gomba, amely gyakran elszórt csoportokban jelenik meg bolygatott vagy füves területeken. Az északi félteke mérsékelt vidékein, így Európában és Észak-Amerikában széles körben elterjedt, és a déli féltekéről is ismert. Micéliuma elhalt szerves anyagot bont le.",
@@ -125298,8 +125566,10 @@ export const CATALOG = [
         "https://explore.beatymuseum.ubc.ca/mushroomsup/L_leucothites.html",
         "https://www.myko.cz/myko-atlas/Leucoagaricus-leucothites/",
         "https://www.first-nature.com/fungi/leucoagaricus-leucothites.php",
-        "https://www.gobe.si/Gobe/LeucoagaricusLeucothites"
-      ]
+        "https://www.gobe.si/Gobe/LeucoagaricusLeucothites",
+        "https://www.gombacsoda.hu/gombaszakellenor-fajlista"
+      ],
+      "label": "fehér tarlógomba"
     },
     "ro": {
       "description": "O ciupercă tericolă cu lamele, care crește adesea în grupuri răzlețe pe soluri deranjate sau înierbate. Răspândită în regiunile temperate ale emisferei nordice, inclusiv Europa și America de Nord, este semnalată și în emisfera sudică. Miceliul descompune materia organică moartă.",
@@ -125316,8 +125586,10 @@ export const CATALOG = [
         "https://explore.beatymuseum.ubc.ca/mushroomsup/L_leucothites.html",
         "https://www.myko.cz/myko-atlas/Leucoagaricus-leucothites/",
         "https://www.first-nature.com/fungi/leucoagaricus-leucothites.php",
-        "https://www.gobe.si/Gobe/LeucoagaricusLeucothites"
-      ]
+        "https://www.gobe.si/Gobe/LeucoagaricusLeucothites",
+        "https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006"
+      ],
+      "label": "buretele alb al porumbeilor"
     },
     "hr": {
       "description": "Prizemna listićava gljiva koja često raste u raštrkanim skupinama na poremećenom ili travnatom tlu. Rasprostranjena je u umjerenim područjima sjeverne polutke, uključujući Europu i Sjevernu Ameriku, a zabilježena je i na južnoj polutki. Micelij razgrađuje mrtvu organsku tvar.",
@@ -125408,8 +125680,10 @@ export const CATALOG = [
         "https://explore.beatymuseum.ubc.ca/mushroomsup/L_leucothites.html",
         "https://www.myko.cz/myko-atlas/Leucoagaricus-leucothites/",
         "https://www.first-nature.com/fungi/leucoagaricus-leucothites.php",
-        "https://www.gobe.si/Gobe/LeucoagaricusLeucothites"
-      ]
+        "https://www.gobe.si/Gobe/LeucoagaricusLeucothites",
+        "https://ru.wikipedia.org/wiki/Белошампиньон_румянящийся"
+      ],
+      "label": "белошампиньон румянящийся"
     },
     "uk": {
       "description": "Наземний пластинчастий гриб, що часто росте розсіяними групами на порушеному або трав’янистому ґрунті. Поширений у помірних областях Північної півкулі, зокрема в Європі та Північній Америці; відомий також із Південної півкулі. Міцелій розкладає відмерлу органічну речовину.",
@@ -125426,8 +125700,10 @@ export const CATALOG = [
         "https://explore.beatymuseum.ubc.ca/mushroomsup/L_leucothites.html",
         "https://www.myko.cz/myko-atlas/Leucoagaricus-leucothites/",
         "https://www.first-nature.com/fungi/leucoagaricus-leucothites.php",
-        "https://www.gobe.si/Gobe/LeucoagaricusLeucothites"
-      ]
+        "https://www.gobe.si/Gobe/LeucoagaricusLeucothites",
+        "http://gribi.net.ua/uk/leucoagaricus-leucothites/"
+      ],
+      "label": "білопечериця рум’яніюча"
     },
     "tr": {
       "description": "Bozulmuş veya çimenli topraklarda çoğunlukla dağınık gruplar hâlinde yetişen, toprak üzerinde gelişen lamelli bir mantardır. Avrupa ve Kuzey Amerika dâhil Kuzey Yarımküre’nin ılıman kesimlerinde yaygındır; Güney Yarımküre’den de kayıtları vardır. Miselyumu ölü organik maddeleri parçalar.",
@@ -125480,8 +125756,11 @@ export const CATALOG = [
         "https://explore.beatymuseum.ubc.ca/mushroomsup/L_leucothites.html",
         "https://www.myko.cz/myko-atlas/Leucoagaricus-leucothites/",
         "https://www.first-nature.com/fungi/leucoagaricus-leucothites.php",
-        "https://www.gobe.si/Gobe/LeucoagaricusLeucothites"
-      ]
+        "https://www.gobe.si/Gobe/LeucoagaricusLeucothites",
+        "https://api.gbif.org/v1/species/258018867",
+        "https://api.gbif.org/v1/species/258018867/vernacularNames?limit=1000"
+      ],
+      "label": "valkoukonsieni"
     },
     "lv": {
       "description": "Uz zemes augoša lapiņu sēne, bieži izklaidētās grupās uz traucētas vai zālainas augsnes. Plaši izplatīta Ziemeļu puslodes mērenajos apgabalos, tostarp Eiropā un Ziemeļamerikā, un zināma arī Dienvidu puslodē. Sēņotne noārda atmirušās organiskās vielas.",
@@ -125498,8 +125777,10 @@ export const CATALOG = [
         "https://explore.beatymuseum.ubc.ca/mushroomsup/L_leucothites.html",
         "https://www.myko.cz/myko-atlas/Leucoagaricus-leucothites/",
         "https://www.first-nature.com/fungi/leucoagaricus-leucothites.php",
-        "https://www.gobe.si/Gobe/LeucoagaricusLeucothites"
-      ]
+        "https://www.gobe.si/Gobe/LeucoagaricusLeucothites",
+        "https://www.silava.lv/images/articles/Latvijas-Vegetacija/2024-34/2024-LatVeg-34.pdf"
+      ],
+      "label": "riekstu sārtsporene"
     },
     "lt": {
       "description": "Ant žemės augantis lakštabudinis grybas, dažnai pasirodantis išsibarsčiusiomis grupėmis pažeistame ar žolėtame dirvožemyje. Paplitęs Šiaurės pusrutulio vidutinėse platumose, įskaitant Europą ir Šiaurės Ameriką, žinomas ir Pietų pusrutulyje. Grybiena skaido negyvas organines medžiagas.",
@@ -125516,8 +125797,10 @@ export const CATALOG = [
         "https://explore.beatymuseum.ubc.ca/mushroomsup/L_leucothites.html",
         "https://www.myko.cz/myko-atlas/Leucoagaricus-leucothites/",
         "https://www.first-nature.com/fungi/leucoagaricus-leucothites.php",
-        "https://www.gobe.si/Gobe/LeucoagaricusLeucothites"
-      ]
+        "https://www.gobe.si/Gobe/LeucoagaricusLeucothites",
+        "https://gamtostyrimai.lt/wp-content/uploads/2024/12/2024_Grybu_savadas_web.pdf"
+      ],
+      "label": "šilkinis balsvis"
     },
     "id": {
       "description": "Jamur berlamela yang tumbuh di tanah, sering dalam kelompok terpencar pada tanah terganggu atau berumput. Tersebar luas di wilayah beriklim sedang di Belahan Bumi Utara, termasuk Eropa dan Amerika Utara, serta tercatat di Belahan Bumi Selatan. Miseliumnya menguraikan bahan organik mati.",
@@ -125552,8 +125835,11 @@ export const CATALOG = [
         "https://explore.beatymuseum.ubc.ca/mushroomsup/L_leucothites.html",
         "https://www.myko.cz/myko-atlas/Leucoagaricus-leucothites/",
         "https://www.first-nature.com/fungi/leucoagaricus-leucothites.php",
-        "https://www.gobe.si/Gobe/LeucoagaricusLeucothites"
-      ]
+        "https://www.gobe.si/Gobe/LeucoagaricusLeucothites",
+        "https://api.gbif.org/v1/species/237271434",
+        "https://api.gbif.org/v1/species/237271434/verbatim"
+      ],
+      "label": "堅實環柄菇"
     },
     "ja": {
       "description": "地上に生えるひだのあるきのこで、攪乱された土壌や草地に点々と群生することが多いです。ヨーロッパや北アメリカを含む北半球の温帯に広く分布し、南半球からも記録されています。菌糸は枯死した有機物を分解します。",
@@ -125570,8 +125856,12 @@ export const CATALOG = [
         "https://explore.beatymuseum.ubc.ca/mushroomsup/L_leucothites.html",
         "https://www.myko.cz/myko-atlas/Leucoagaricus-leucothites/",
         "https://www.first-nature.com/fungi/leucoagaricus-leucothites.php",
-        "https://www.gobe.si/Gobe/LeucoagaricusLeucothites"
-      ]
+        "https://www.gobe.si/Gobe/LeucoagaricusLeucothites",
+        "https://api.gbif.org/v1/species/324964544",
+        "https://api.gbif.org/v1/species/324964544/vernacularNames",
+        "https://doi.org/10.15468/crzeuv"
+      ],
+      "label": "シロカラカサタケ"
     },
     "ko": {
       "description": "땅에서 자라는 주름살버섯으로, 교란된 토양이나 풀밭에서 흩어진 무리를 이루는 경우가 많습니다. 유럽과 북아메리카를 포함한 북반구 온대 지역에 널리 분포하며 남반구에서도 기록됩니다. 균사체는 죽은 유기물을 분해합니다.",
@@ -125624,8 +125914,10 @@ export const CATALOG = [
         "https://explore.beatymuseum.ubc.ca/mushroomsup/L_leucothites.html",
         "https://www.myko.cz/myko-atlas/Leucoagaricus-leucothites/",
         "https://www.first-nature.com/fungi/leucoagaricus-leucothites.php",
-        "https://www.gobe.si/Gobe/LeucoagaricusLeucothites"
-      ]
+        "https://www.gobe.si/Gobe/LeucoagaricusLeucothites",
+        "https://www.mushrooms.org.il/item/415"
+      ],
+      "label": "לבקנית חלקה"
     },
     "ar": {
       "description": "فطر أرضي ذو صفائح، ينمو غالبًا في مجموعات متناثرة على تربة مضطربة أو مغطاة بالعشب. واسع الانتشار في المناطق المعتدلة من نصف الكرة الشمالي، بما فيها أوروبا وأمريكا الشمالية، ومسجل أيضًا في نصف الكرة الجنوبي. تحلل خيوطه الفطرية المواد العضوية الميتة.",
@@ -125663,6 +125955,144 @@ export const CATALOG = [
         "https://www.gobe.si/Gobe/LeucoagaricusLeucothites"
       ]
     }
+  },
+  "sources": {
+    "da": [
+      "https://explore.beatymuseum.ubc.ca/mushroomsup/L_leucothites.html",
+      "https://www.myko.cz/myko-atlas/Leucoagaricus-leucothites/",
+      "https://www.first-nature.com/fungi/leucoagaricus-leucothites.php",
+      "https://www.gobe.si/Gobe/LeucoagaricusLeucothites",
+      "https://api.gbif.org/v1/species/334908462",
+      "https://api.gbif.org/v1/species/334908462/vernacularNames?limit=1000"
+    ],
+    "de": [
+      "https://explore.beatymuseum.ubc.ca/mushroomsup/L_leucothites.html",
+      "https://www.myko.cz/myko-atlas/Leucoagaricus-leucothites/",
+      "https://www.first-nature.com/fungi/leucoagaricus-leucothites.php",
+      "https://www.gobe.si/Gobe/LeucoagaricusLeucothites",
+      "https://api.gbif.org/v1/species/119288801",
+      "https://api.gbif.org/v1/species/119288801/vernacularNames?limit=1000"
+    ],
+    "es": [
+      "https://explore.beatymuseum.ubc.ca/mushroomsup/L_leucothites.html",
+      "https://www.myko.cz/myko-atlas/Leucoagaricus-leucothites/",
+      "https://www.first-nature.com/fungi/leucoagaricus-leucothites.php",
+      "https://www.gobe.si/Gobe/LeucoagaricusLeucothites",
+      "https://www.cerveradepisuerga.eu/setas-listado.php?Buscar=&Clasificacion=Buena&Mostrar=0"
+    ],
+    "fi": [
+      "https://explore.beatymuseum.ubc.ca/mushroomsup/L_leucothites.html",
+      "https://www.myko.cz/myko-atlas/Leucoagaricus-leucothites/",
+      "https://www.first-nature.com/fungi/leucoagaricus-leucothites.php",
+      "https://www.gobe.si/Gobe/LeucoagaricusLeucothites",
+      "https://api.gbif.org/v1/species/258018867",
+      "https://api.gbif.org/v1/species/258018867/vernacularNames?limit=1000"
+    ],
+    "fr": [
+      "https://explore.beatymuseum.ubc.ca/mushroomsup/L_leucothites.html",
+      "https://www.myko.cz/myko-atlas/Leucoagaricus-leucothites/",
+      "https://www.first-nature.com/fungi/leucoagaricus-leucothites.php",
+      "https://www.gobe.si/Gobe/LeucoagaricusLeucothites",
+      "https://api.gbif.org/v1/species/222024679",
+      "https://api.gbif.org/v1/species/222024679/vernacularNames?limit=1000"
+    ],
+    "he": [
+      "https://explore.beatymuseum.ubc.ca/mushroomsup/L_leucothites.html",
+      "https://www.myko.cz/myko-atlas/Leucoagaricus-leucothites/",
+      "https://www.first-nature.com/fungi/leucoagaricus-leucothites.php",
+      "https://www.gobe.si/Gobe/LeucoagaricusLeucothites",
+      "https://www.mushrooms.org.il/item/415"
+    ],
+    "hu": [
+      "https://explore.beatymuseum.ubc.ca/mushroomsup/L_leucothites.html",
+      "https://www.myko.cz/myko-atlas/Leucoagaricus-leucothites/",
+      "https://www.first-nature.com/fungi/leucoagaricus-leucothites.php",
+      "https://www.gobe.si/Gobe/LeucoagaricusLeucothites",
+      "https://www.gombacsoda.hu/gombaszakellenor-fajlista"
+    ],
+    "ja": [
+      "https://explore.beatymuseum.ubc.ca/mushroomsup/L_leucothites.html",
+      "https://www.myko.cz/myko-atlas/Leucoagaricus-leucothites/",
+      "https://www.first-nature.com/fungi/leucoagaricus-leucothites.php",
+      "https://www.gobe.si/Gobe/LeucoagaricusLeucothites",
+      "https://api.gbif.org/v1/species/324964544",
+      "https://api.gbif.org/v1/species/324964544/vernacularNames",
+      "https://doi.org/10.15468/crzeuv"
+    ],
+    "lt": [
+      "https://explore.beatymuseum.ubc.ca/mushroomsup/L_leucothites.html",
+      "https://www.myko.cz/myko-atlas/Leucoagaricus-leucothites/",
+      "https://www.first-nature.com/fungi/leucoagaricus-leucothites.php",
+      "https://www.gobe.si/Gobe/LeucoagaricusLeucothites",
+      "https://gamtostyrimai.lt/wp-content/uploads/2024/12/2024_Grybu_savadas_web.pdf"
+    ],
+    "lv": [
+      "https://explore.beatymuseum.ubc.ca/mushroomsup/L_leucothites.html",
+      "https://www.myko.cz/myko-atlas/Leucoagaricus-leucothites/",
+      "https://www.first-nature.com/fungi/leucoagaricus-leucothites.php",
+      "https://www.gobe.si/Gobe/LeucoagaricusLeucothites",
+      "https://www.silava.lv/images/articles/Latvijas-Vegetacija/2024-34/2024-LatVeg-34.pdf"
+    ],
+    "nl": [
+      "https://explore.beatymuseum.ubc.ca/mushroomsup/L_leucothites.html",
+      "https://www.myko.cz/myko-atlas/Leucoagaricus-leucothites/",
+      "https://www.first-nature.com/fungi/leucoagaricus-leucothites.php",
+      "https://www.gobe.si/Gobe/LeucoagaricusLeucothites",
+      "https://api.gbif.org/v1/species/152470069",
+      "https://api.gbif.org/v1/species/152470069/vernacularNames?limit=1000"
+    ],
+    "no": [
+      "https://explore.beatymuseum.ubc.ca/mushroomsup/L_leucothites.html",
+      "https://www.myko.cz/myko-atlas/Leucoagaricus-leucothites/",
+      "https://www.first-nature.com/fungi/leucoagaricus-leucothites.php",
+      "https://www.gobe.si/Gobe/LeucoagaricusLeucothites",
+      "https://lister.artsdatabanken.no/rodlisteforarter/2021/22814",
+      "https://soppognyttevekster.no/wp-content/uploads/2024/05/NORMLISTEN-I-WEBFORMAT-2024.pdf"
+    ],
+    "pl": [
+      "https://explore.beatymuseum.ubc.ca/mushroomsup/L_leucothites.html",
+      "https://www.myko.cz/myko-atlas/Leucoagaricus-leucothites/",
+      "https://www.first-nature.com/fungi/leucoagaricus-leucothites.php",
+      "https://www.gobe.si/Gobe/LeucoagaricusLeucothites",
+      "https://pl.wikipedia.org/wiki/Czubnik_pospolity"
+    ],
+    "ro": [
+      "https://explore.beatymuseum.ubc.ca/mushroomsup/L_leucothites.html",
+      "https://www.myko.cz/myko-atlas/Leucoagaricus-leucothites/",
+      "https://www.first-nature.com/fungi/leucoagaricus-leucothites.php",
+      "https://www.gobe.si/Gobe/LeucoagaricusLeucothites",
+      "https://lege5.ro/gratuit/ha2tcnbr/lista-ciupercilor-comestibile-din-flora-spontana-a-caror-recoltare-sau-achizitie-si-comercializare-sunt-permise-ordin-246-2006"
+    ],
+    "ru": [
+      "https://explore.beatymuseum.ubc.ca/mushroomsup/L_leucothites.html",
+      "https://www.myko.cz/myko-atlas/Leucoagaricus-leucothites/",
+      "https://www.first-nature.com/fungi/leucoagaricus-leucothites.php",
+      "https://www.gobe.si/Gobe/LeucoagaricusLeucothites",
+      "https://ru.wikipedia.org/wiki/Белошампиньон_румянящийся"
+    ],
+    "sv": [
+      "https://explore.beatymuseum.ubc.ca/mushroomsup/L_leucothites.html",
+      "https://www.myko.cz/myko-atlas/Leucoagaricus-leucothites/",
+      "https://www.first-nature.com/fungi/leucoagaricus-leucothites.php",
+      "https://www.gobe.si/Gobe/LeucoagaricusLeucothites",
+      "https://api.gbif.org/v1/species/160018732",
+      "https://api.gbif.org/v1/species/160018732/vernacularNames?limit=1000"
+    ],
+    "uk": [
+      "https://explore.beatymuseum.ubc.ca/mushroomsup/L_leucothites.html",
+      "https://www.myko.cz/myko-atlas/Leucoagaricus-leucothites/",
+      "https://www.first-nature.com/fungi/leucoagaricus-leucothites.php",
+      "https://www.gobe.si/Gobe/LeucoagaricusLeucothites",
+      "http://gribi.net.ua/uk/leucoagaricus-leucothites/"
+    ],
+    "zh": [
+      "https://explore.beatymuseum.ubc.ca/mushroomsup/L_leucothites.html",
+      "https://www.myko.cz/myko-atlas/Leucoagaricus-leucothites/",
+      "https://www.first-nature.com/fungi/leucoagaricus-leucothites.php",
+      "https://www.gobe.si/Gobe/LeucoagaricusLeucothites",
+      "https://api.gbif.org/v1/species/237271434",
+      "https://api.gbif.org/v1/species/237271434/verbatim"
+    ]
   }
 },
 {
@@ -125706,8 +126136,8 @@ export const CATALOG = [
   "stipeHeightTo": 10,
   "stipeThickFrom": 1,
   "stipeThickTo": 4,
-  "plate": STORAGE + "photos/Agaricales/Agaricaceae/Agaricus_bitorquis/Agaricus_bitorquis@1600.webp",
-  "plateGrid": STORAGE + "photos/Agaricales/Agaricaceae/Agaricus_bitorquis/Agaricus_bitorquis@400.webp",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_bitorquis/Agaricus_bitorquis@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_bitorquis/Agaricus_bitorquis@400.webp",
   "plateCredit": {
     "author": "Giacomo Bresadola",
     "credit": "Giacomo Bresadola, Psalliota campestris var. edulis, Iconographia Mycologica 17, plate 825 (1931), supplied Commons scan. Matching drawing motifs appear in I funghi mangerecci e velenosi, 2nd ed. (1906), plate LIV, captioned Bresadola dis. US rights rationale for the supplied 1931 arrangement remains unestablished. Editorial G. Bresadola signature added at Adrian request, not an authenticated autograph.",
@@ -125717,41 +126147,71 @@ export const CATALOG = [
   },
   "photos": [
     {
-      "src": STORAGE + "photos/Agaricales/Agaricaceae/Agaricus_bitorquis/ab1.webp",
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_bitorquis/ab1.webp",
       "author": "Влад",
       "license": "CC0-1.0",
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source": "https://www.inaturalist.org/observations/117984292"
     },
     {
-      "src": STORAGE + "photos/Agaricales/Agaricaceae/Agaricus_bitorquis/ab2.webp",
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_bitorquis/ab2.webp",
       "author": "Силаева Татьяна Борисовна",
       "license": "CC0-1.0",
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source": "https://www.inaturalist.org/observations/373524709"
     },
     {
-      "src": STORAGE + "photos/Agaricales/Agaricaceae/Agaricus_bitorquis/ab3.webp",
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_bitorquis/ab3.webp",
       "author": "T. Pedro Hafermann",
       "license": "CC0-1.0",
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source": "https://www.inaturalist.org/observations/116682719"
     },
     {
-      "src": STORAGE + "photos/Agaricales/Agaricaceae/Agaricus_bitorquis/ab4.webp",
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_bitorquis/ab4.webp",
       "author": "Hubert Sztyler",
       "license": "CC0-1.0",
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source": "https://www.inaturalist.org/observations/306693107"
     },
     {
-      "src": STORAGE + "photos/Agaricales/Agaricaceae/Agaricus_bitorquis/ab5.webp",
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_bitorquis/ab5.webp",
       "author": "Sigrid Jakob",
       "license": "CC0-1.0",
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "source": "https://www.inaturalist.org/observations/407907730"
     }
   ],
+  "names": {
+    "zh": [
+      "大肥菇"
+    ]
+  },
+  "label": {
+    "sk": "pečiarka obyčajná",
+    "cs": "pečárka opásaná",
+    "da": "vej-champignon",
+    "de": "Scheidenegerling",
+    "en": "pavement mushroom",
+    "es": "champiñón de doble anillo",
+    "et": "linnašampinjon",
+    "fi": "puistoherkkusieni",
+    "fr": "agaric à deux anneaux",
+    "he": "פקועה כפולת-טבעת",
+    "hr": "dvoprstenasta pečurka",
+    "hu": "ízletes csiperke",
+    "it": "prataiolo dai due anelli",
+    "lt": "dvižiedis pievagrybis",
+    "lv": "pilsētas atmatene",
+    "nl": "Straatchampignon",
+    "no": "bysjampinjong",
+    "pl": "pieczarka miejska",
+    "ro": "ciupercă albă termofilă",
+    "ru": "шампиньон двукольцевой",
+    "sl": "mestni kukmak",
+    "sv": "vägchampinjon",
+    "uk": "печериця їстівна"
+  },
   "text": {
     "en": {
       "description": "A robust terrestrial gilled mushroom associated with disturbed ground. Recorded across Europe and parts of North America, it is uncommon to rare in much of Britain and Ireland. It grows singly or in small groups, decomposing dead organic matter in soil.",
@@ -125874,8 +126334,11 @@ export const CATALOG = [
       "sourceUrls": [
         "https://www.first-nature.com/fungi/agaricus-bitorquis.php",
         "https://www.myko.cz/myko-atlas/Agaricus-bitorquis/",
-        "https://www.gobe.si/Gobe/AgaricusBitorquis"
-      ]
+        "https://www.gobe.si/Gobe/AgaricusBitorquis",
+        "https://api.gbif.org/v1/species/100272045",
+        "https://api.gbif.org/v1/species/100272045/vernacularNames?limit=1000"
+      ],
+      "label": "champiñón de doble anillo"
     },
     "it": {
       "description": "Un robusto fungo terricolo a lamelle, associato a terreni disturbati. Segnalato in Europa e in parte del Nordamerica, è poco comune o raro in gran parte di Gran Bretagna e Irlanda. Cresce isolato o in piccoli gruppi, decomponendo la materia organica morta del suolo.",
@@ -125928,8 +126391,11 @@ export const CATALOG = [
       "sourceUrls": [
         "https://www.first-nature.com/fungi/agaricus-bitorquis.php",
         "https://www.myko.cz/myko-atlas/Agaricus-bitorquis/",
-        "https://www.gobe.si/Gobe/AgaricusBitorquis"
-      ]
+        "https://www.gobe.si/Gobe/AgaricusBitorquis",
+        "https://api.gbif.org/v1/species/124593516",
+        "https://api.gbif.org/v1/species/124593516/vernacularNames?limit=1000"
+      ],
+      "label": "Straatchampignon"
     },
     "da": {
       "description": "En kraftig jordboende bladhat knyttet til forstyrret jord. Kendt fra Europa og dele af Nordamerika, men usædvanlig til sjælden i store dele af Storbritannien og Irland. Vokser enkeltvis eller i små grupper og nedbryder dødt organisk materiale i jorden.",
@@ -125945,8 +126411,11 @@ export const CATALOG = [
       "sourceUrls": [
         "https://www.first-nature.com/fungi/agaricus-bitorquis.php",
         "https://www.myko.cz/myko-atlas/Agaricus-bitorquis/",
-        "https://www.gobe.si/Gobe/AgaricusBitorquis"
-      ]
+        "https://www.gobe.si/Gobe/AgaricusBitorquis",
+        "https://api.gbif.org/v1/species/334908553",
+        "https://api.gbif.org/v1/species/334908553/vernacularNames?limit=1000"
+      ],
+      "label": "vej-champignon"
     },
     "no": {
       "description": "En kraftig jordboende skivesopp knyttet til forstyrret jord. Kjent fra Europa og deler av Nord-Amerika, men uvanlig til sjelden i store deler av Storbritannia og Irland. Vokser enkeltvis eller i små grupper og bryter ned dødt organisk materiale i jorden.",
@@ -125962,8 +126431,11 @@ export const CATALOG = [
       "sourceUrls": [
         "https://www.first-nature.com/fungi/agaricus-bitorquis.php",
         "https://www.myko.cz/myko-atlas/Agaricus-bitorquis/",
-        "https://www.gobe.si/Gobe/AgaricusBitorquis"
-      ]
+        "https://www.gobe.si/Gobe/AgaricusBitorquis",
+        "https://api.gbif.org/v1/species/168081586",
+        "https://api.gbif.org/v1/species/168081586/vernacularNames?limit=1000"
+      ],
+      "label": "bysjampinjong"
     },
     "sv": {
       "description": "En kraftig marklevande skivling knuten till störd mark. Känd från Europa och delar av Nordamerika, men ovanlig till sällsynt i stora delar av Storbritannien och Irland. Växer ensam eller i små grupper och bryter ned dött organiskt material i jorden.",
@@ -126019,8 +126491,10 @@ export const CATALOG = [
       "sourceUrls": [
         "https://www.first-nature.com/fungi/agaricus-bitorquis.php",
         "https://www.myko.cz/myko-atlas/Agaricus-bitorquis/",
-        "https://www.gobe.si/Gobe/AgaricusBitorquis"
-      ]
+        "https://www.gobe.si/Gobe/AgaricusBitorquis",
+        "https://www.gombacsoda.hu/gombaszakellenor-fajlista"
+      ],
+      "label": "ízletes csiperke"
     },
     "ro": {
       "description": "O ciupercă tericolă robustă cu lamele, asociată solurilor deranjate. Semnalată în Europa și părți ale Americii de Nord, este puțin frecventă până la rară în mare parte din Marea Britanie și Irlanda. Crește solitar sau în grupuri mici, descompunând materia organică moartă din sol.",
@@ -126036,8 +126510,11 @@ export const CATALOG = [
       "sourceUrls": [
         "https://www.first-nature.com/fungi/agaricus-bitorquis.php",
         "https://www.myko.cz/myko-atlas/Agaricus-bitorquis/",
-        "https://www.gobe.si/Gobe/AgaricusBitorquis"
-      ]
+        "https://www.gobe.si/Gobe/AgaricusBitorquis",
+        "https://agroromania.manager.ro/articole/stiri/ing-vasile-ciorcas-unde-pot-fi-cultivate-ciupercile-albe-termofile-agaricus-edulis-9707.html",
+        "https://ro.wikipedia.org/wiki/Agaricus_bitorquis"
+      ],
+      "label": "ciupercă albă termofilă"
     },
     "hr": {
       "description": "Robusna prizemna listićava gljiva povezana s poremećenim tlom. Zabilježena u Europi i dijelovima Sjeverne Amerike, a u velikom dijelu Britanije i Irske nije česta do rijetka. Raste pojedinačno ili u manjim skupinama i razgrađuje mrtvu organsku tvar u tlu.",
@@ -126053,8 +126530,10 @@ export const CATALOG = [
       "sourceUrls": [
         "https://www.first-nature.com/fungi/agaricus-bitorquis.php",
         "https://www.myko.cz/myko-atlas/Agaricus-bitorquis/",
-        "https://www.gobe.si/Gobe/AgaricusBitorquis"
-      ]
+        "https://www.gobe.si/Gobe/AgaricusBitorquis",
+        "https://cromushrooms.eu/images/files/popisgljivazaispite.pdf"
+      ],
+      "label": "dvoprstenasta pečurka"
     },
     "sl": {
       "description": "Robustna talna lističasta goba, povezana z motenimi tlemi. Znana iz Evrope in delov Severne Amerike, v velikem delu Britanije in Irske pa je neobičajna do redka. Raste posamično ali v majhnih skupinah in razkraja odmrlo organsko snov v tleh.",
@@ -126123,8 +126602,10 @@ export const CATALOG = [
       "sourceUrls": [
         "https://www.first-nature.com/fungi/agaricus-bitorquis.php",
         "https://www.myko.cz/myko-atlas/Agaricus-bitorquis/",
-        "https://www.gobe.si/Gobe/AgaricusBitorquis"
-      ]
+        "https://www.gobe.si/Gobe/AgaricusBitorquis",
+        "https://ru.wikipedia.org/wiki/Шампиньон_двукольцевой"
+      ],
+      "label": "шампиньон двукольцевой"
     },
     "uk": {
       "description": "Міцний наземний пластинчастий гриб порушених ґрунтів. Відомий у Європі й частинах Північної Америки; у значній частині Британії та Ірландії нечастий або рідкісний. Росте поодинці чи невеликими групами й розкладає відмерлу органічну речовину в ґрунті.",
@@ -126140,8 +126621,10 @@ export const CATALOG = [
       "sourceUrls": [
         "https://www.first-nature.com/fungi/agaricus-bitorquis.php",
         "https://www.myko.cz/myko-atlas/Agaricus-bitorquis/",
-        "https://www.gobe.si/Gobe/AgaricusBitorquis"
-      ]
+        "https://www.gobe.si/Gobe/AgaricusBitorquis",
+        "https://uk.wikipedia.org/wiki/Agaricus_bitorquis"
+      ],
+      "label": "печериця їстівна"
     },
     "tr": {
       "description": "Bozulmuş topraklarla ilişkili, güçlü yapılı, toprakta yetişen lamelli bir mantardır. Avrupa ve Kuzey Amerika’nın bazı kesimlerinde kayıtlıdır; Britanya ve İrlanda’nın büyük bölümünde seyrek veya nadirdir. Tek tek ya da küçük gruplar hâlinde büyür ve topraktaki ölü organik maddeleri ayrıştırır.",
@@ -126174,8 +126657,10 @@ export const CATALOG = [
       "sourceUrls": [
         "https://www.first-nature.com/fungi/agaricus-bitorquis.php",
         "https://www.myko.cz/myko-atlas/Agaricus-bitorquis/",
-        "https://www.gobe.si/Gobe/AgaricusBitorquis"
-      ]
+        "https://www.gobe.si/Gobe/AgaricusBitorquis",
+        "https://lva.eelis.ee/default.aspx?id=1506348505"
+      ],
+      "label": "linnašampinjon"
     },
     "fi": {
       "description": "Tukevatekoinen maassa kasvava helttasieni, joka liittyy häirittyihin maihin. Tunnetaan Euroopasta ja osista Pohjois-Amerikkaa; suuressa osassa Britanniaa ja Irlantia se on niukka tai harvinainen. Kasvaa yksittäin tai pieninä ryhminä ja hajottaa maaperän kuollutta orgaanista ainesta.",
@@ -126191,8 +126676,11 @@ export const CATALOG = [
       "sourceUrls": [
         "https://www.first-nature.com/fungi/agaricus-bitorquis.php",
         "https://www.myko.cz/myko-atlas/Agaricus-bitorquis/",
-        "https://www.gobe.si/Gobe/AgaricusBitorquis"
-      ]
+        "https://www.gobe.si/Gobe/AgaricusBitorquis",
+        "https://api.gbif.org/v1/species/258019040",
+        "https://api.gbif.org/v1/species/258019040/vernacularNames?limit=1000"
+      ],
+      "label": "puistoherkkusieni"
     },
     "lv": {
       "description": "Spēcīga, uz zemes augoša lapiņu sēne, saistīta ar traucētu augsni. Zināma Eiropā un daļā Ziemeļamerikas, bet lielā daļā Lielbritānijas un Īrijas ir nebieža līdz reta. Aug pa vienai vai nelielās grupās, noārdot atmirušās organiskās vielas augsnē.",
@@ -126266,7 +126754,12 @@ export const CATALOG = [
       "sourceUrls": [
         "https://www.first-nature.com/fungi/agaricus-bitorquis.php",
         "https://www.myko.cz/myko-atlas/Agaricus-bitorquis/",
-        "https://www.gobe.si/Gobe/AgaricusBitorquis"
+        "https://www.gobe.si/Gobe/AgaricusBitorquis",
+        "https://api.gbif.org/v1/species/221509758",
+        "https://api.gbif.org/v1/species/221509758/verbatim"
+      ],
+      "names": [
+        "大肥菇"
       ]
     },
     "ja": {
@@ -126334,8 +126827,10 @@ export const CATALOG = [
       "sourceUrls": [
         "https://www.first-nature.com/fungi/agaricus-bitorquis.php",
         "https://www.myko.cz/myko-atlas/Agaricus-bitorquis/",
-        "https://www.gobe.si/Gobe/AgaricusBitorquis"
-      ]
+        "https://www.gobe.si/Gobe/AgaricusBitorquis",
+        "https://www.mushrooms.org.il/item/8"
+      ],
+      "label": "פקועה כפולת-טבעת"
     },
     "ar": {
       "description": "فطر أرضي متين ذو صفائح، يرتبط بالتربة المضطربة. مسجل في أوروبا وأجزاء من أمريكا الشمالية، لكنه غير شائع إلى نادر في معظم بريطانيا وأيرلندا. ينمو منفردًا أو في مجموعات صغيرة، محللًا المواد العضوية الميتة في التربة.",
@@ -126371,6 +126866,93 @@ export const CATALOG = [
         "https://www.gobe.si/Gobe/AgaricusBitorquis"
       ]
     }
+  },
+  "sources": {
+    "da": [
+      "https://www.first-nature.com/fungi/agaricus-bitorquis.php",
+      "https://www.myko.cz/myko-atlas/Agaricus-bitorquis/",
+      "https://www.gobe.si/Gobe/AgaricusBitorquis",
+      "https://api.gbif.org/v1/species/334908553",
+      "https://api.gbif.org/v1/species/334908553/vernacularNames?limit=1000"
+    ],
+    "es": [
+      "https://www.first-nature.com/fungi/agaricus-bitorquis.php",
+      "https://www.myko.cz/myko-atlas/Agaricus-bitorquis/",
+      "https://www.gobe.si/Gobe/AgaricusBitorquis",
+      "https://api.gbif.org/v1/species/100272045",
+      "https://api.gbif.org/v1/species/100272045/vernacularNames?limit=1000"
+    ],
+    "et": [
+      "https://www.first-nature.com/fungi/agaricus-bitorquis.php",
+      "https://www.myko.cz/myko-atlas/Agaricus-bitorquis/",
+      "https://www.gobe.si/Gobe/AgaricusBitorquis",
+      "https://lva.eelis.ee/default.aspx?id=1506348505"
+    ],
+    "fi": [
+      "https://www.first-nature.com/fungi/agaricus-bitorquis.php",
+      "https://www.myko.cz/myko-atlas/Agaricus-bitorquis/",
+      "https://www.gobe.si/Gobe/AgaricusBitorquis",
+      "https://api.gbif.org/v1/species/258019040",
+      "https://api.gbif.org/v1/species/258019040/vernacularNames?limit=1000"
+    ],
+    "he": [
+      "https://www.first-nature.com/fungi/agaricus-bitorquis.php",
+      "https://www.myko.cz/myko-atlas/Agaricus-bitorquis/",
+      "https://www.gobe.si/Gobe/AgaricusBitorquis",
+      "https://www.mushrooms.org.il/item/8"
+    ],
+    "hr": [
+      "https://www.first-nature.com/fungi/agaricus-bitorquis.php",
+      "https://www.myko.cz/myko-atlas/Agaricus-bitorquis/",
+      "https://www.gobe.si/Gobe/AgaricusBitorquis",
+      "https://cromushrooms.eu/images/files/popisgljivazaispite.pdf"
+    ],
+    "hu": [
+      "https://www.first-nature.com/fungi/agaricus-bitorquis.php",
+      "https://www.myko.cz/myko-atlas/Agaricus-bitorquis/",
+      "https://www.gobe.si/Gobe/AgaricusBitorquis",
+      "https://www.gombacsoda.hu/gombaszakellenor-fajlista"
+    ],
+    "nl": [
+      "https://www.first-nature.com/fungi/agaricus-bitorquis.php",
+      "https://www.myko.cz/myko-atlas/Agaricus-bitorquis/",
+      "https://www.gobe.si/Gobe/AgaricusBitorquis",
+      "https://api.gbif.org/v1/species/124593516",
+      "https://api.gbif.org/v1/species/124593516/vernacularNames?limit=1000"
+    ],
+    "no": [
+      "https://www.first-nature.com/fungi/agaricus-bitorquis.php",
+      "https://www.myko.cz/myko-atlas/Agaricus-bitorquis/",
+      "https://www.gobe.si/Gobe/AgaricusBitorquis",
+      "https://api.gbif.org/v1/species/168081586",
+      "https://api.gbif.org/v1/species/168081586/vernacularNames?limit=1000"
+    ],
+    "ro": [
+      "https://www.first-nature.com/fungi/agaricus-bitorquis.php",
+      "https://www.myko.cz/myko-atlas/Agaricus-bitorquis/",
+      "https://www.gobe.si/Gobe/AgaricusBitorquis",
+      "https://agroromania.manager.ro/articole/stiri/ing-vasile-ciorcas-unde-pot-fi-cultivate-ciupercile-albe-termofile-agaricus-edulis-9707.html",
+      "https://ro.wikipedia.org/wiki/Agaricus_bitorquis"
+    ],
+    "ru": [
+      "https://www.first-nature.com/fungi/agaricus-bitorquis.php",
+      "https://www.myko.cz/myko-atlas/Agaricus-bitorquis/",
+      "https://www.gobe.si/Gobe/AgaricusBitorquis",
+      "https://ru.wikipedia.org/wiki/Шампиньон_двукольцевой"
+    ],
+    "uk": [
+      "https://www.first-nature.com/fungi/agaricus-bitorquis.php",
+      "https://www.myko.cz/myko-atlas/Agaricus-bitorquis/",
+      "https://www.gobe.si/Gobe/AgaricusBitorquis",
+      "https://uk.wikipedia.org/wiki/Agaricus_bitorquis"
+    ],
+    "zh": [
+      "https://www.first-nature.com/fungi/agaricus-bitorquis.php",
+      "https://www.myko.cz/myko-atlas/Agaricus-bitorquis/",
+      "https://www.gobe.si/Gobe/AgaricusBitorquis",
+      "https://api.gbif.org/v1/species/221509758",
+      "https://api.gbif.org/v1/species/221509758/verbatim"
+    ]
   }
 }
 ];
