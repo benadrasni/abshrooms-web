@@ -39,22 +39,27 @@ export const TAXA = {
   },
   Boletales: {
     rank: "order",
+    lv: "beku rinda",
     sk: "hríbotvaré"
   },
   Agaricales: {
     rank: "order",
+    lv: "atmateņu rinda",
     sk: "pečiarkotvaré"
   },
   Cantharellales: {
     rank: "order",
+    lv: "gaileņu rinda",
     sk: "kuriatkotvaré"
   },
   Pezizales: {
     rank: "order",
+    lv: "kaussēņu rinda",
     sk: "kustriebkotvaré"
   },
   Boletaceae: {
     rank: "family",
+    lv: "beku dzimta",
     sk: "hríbovité",
     cs: "hřibovité",
     de: "Steinpilzverwandte",
@@ -83,6 +88,7 @@ export const TAXA = {
   },
   Hygrophoraceae: {
     rank: "family",
+    lv: "gliemezeņu dzimta",
     sk: "šťavnačkovité",
     cs: "šťavnatkovité",
     pl: "wodnichowate"
@@ -105,6 +111,7 @@ export const TAXA = {
   },
   Amanitaceae: {
     rank: "family",
+    lv: "mušmiru dzimta",
     sk: "muchotrávkovité",
     cs: "muchomůrkovité",
     de: "Wulstlingsverwandte",
@@ -114,6 +121,7 @@ export const TAXA = {
   },
   Agaricaceae: {
     rank: "family",
+    lv: "atmateņu dzimta",
     sk: "pečiarkovité",
     cs: "pečárkovité",
     de: "Champignonverwandte",
@@ -123,6 +131,7 @@ export const TAXA = {
   },
   Hydnaceae: {
     rank: "family",
+    lv: "adateņu dzimta",
     sk: "jelenkovité",
     cs: "lišákovité",
     pl: "kolczakowate"
@@ -139,6 +148,7 @@ export const TAXA = {
   },
   Morchellaceae: {
     rank: "family",
+    lv: "lāčpurnu dzimta",
     sk: "smrčkovité",
     cs: "smržovité",
     hu: "kucsmagombafélék",
@@ -243,6 +253,7 @@ export const TAXA = {
   },
   Polyporales: {
     rank: "order",
+    lv: "poliporu rinda",
     sk: "trúdnikotvaré"
   },
   Grifolaceae: {
@@ -254,6 +265,7 @@ export const TAXA = {
   },
   Polyporaceae: {
     rank: "family",
+    lv: "poliporu jeb piepjusēņu dzimta",
     sk: "trúdnikovité",
     cs: "chorošovité",
     de: "Stielporlingsverwandte",
@@ -312,6 +324,7 @@ export const TAXA = {
   },
   Strophariaceae: {
     rank: "family",
+    lv: "virpainīšu dzimta",
     sk: "golierovkovité",
     cs: "límcovkovité",
     de: "Träuschlingsverwandte",
@@ -344,10 +357,12 @@ export const TAXA = {
   },
   Russulales: {
     rank: "order",
+    lv: "bērzlapju rinda",
     sk: "plávkotvaré"
   },
   Russulaceae: {
     rank: "family",
+    lv: "bērzlapju dzimta",
     sk: "plávkovité",
     cs: "holubinkovité",
     de: "Täublingsverwandte",
@@ -356,6 +371,7 @@ export const TAXA = {
   },
   Auriscalpiaceae: {
     rank: "family",
+    lv: "ausenīšu dzimta",
     sk: "lyžičkovcovité",
     cs: "lžičkovcovité",
     de: "Ohrlöffelstachelingsverwandte",
@@ -378,6 +394,7 @@ export const TAXA = {
   },
   Cortinariaceae: {
     rank: "family",
+    lv: "tīmekleņu dzimta",
     sk: "pavučinovcovité",
     cs: "pavučincovité",
     de: "Schleierlingsverwandte",
@@ -393,6 +410,7 @@ export const TAXA = {
   },
   Fistulinaceae: {
     rank: "family",
+    lv: "akneņu dzimta",
     sk: "pečeňovcovité",
     cs: "pstřeňovité",
     de: "Leberreischlingsverwandte",
@@ -424,10 +442,12 @@ export const TAXA = {
     sk: "vláknica"
   },
   Thelephorales: {
-    rank: "order"
+    rank: "order",
+    lv: "kārpsēņu rinda"
   },
   Bankeraceae: {
     rank: "family",
+    lv: "bankeru dzimta",
     sk: "korkovkovité",
     cs: "bělozubovité",
     de: "Weißsporstachelingsverwandte",
@@ -435,6 +455,7 @@ export const TAXA = {
   },
   Paxillaceae: {
     rank: "family",
+    lv: "mieteņu dzimta",
     sk: "čechračkovité",
     cs: "čechratkovité",
     fr: "paxillacées",
@@ -446,6 +467,7 @@ export const TAXA = {
   },
   Sparassidaceae: {
     rank: "family",
+    lv: "kazbāržu dzimta",
     sk: "kučierkovité",
     cs: "kotrčovité",
     de: "Gluckenverwandte",
@@ -457,6 +479,7 @@ export const TAXA = {
   },
   Tricholomataceae: {
     rank: "family",
+    lv: "pūkaiņu dzimta",
     sk: "čírovkovité",
     cs: "čirůvkovité",
     de: "Ritterlingsverwandte",
@@ -498,6 +521,7 @@ export const TAXA = {
   },
   Entolomataceae: {
     rank: "family",
+    lv: "sārtlapīšu dzimta",
     sk: "hodvábnicovité",
     cs: "závojenkovité",
     de: "Rötlingsverwandte",
@@ -509,6 +533,7 @@ export const TAXA = {
   },
   Phallaceae: {
     rank: "family",
+    lv: "zemestauku dzimta",
     sk: "hadovkovité",
     cs: "hadovkovité",
     de: "Stinkmorchelverwandte",
@@ -520,6 +545,7 @@ export const TAXA = {
   },
   Phallales: {
     rank: "order",
+    lv: "zemestauku rinda",
     sk: "hadovkotvaré"
   },
   Phallus: {
@@ -528,6 +554,7 @@ export const TAXA = {
   },
   Auriculariaceae: {
     rank: "family",
+    lv: "ausaiņu dzimta",
     sk: "uchovkovité",
     cs: "boltcovitkovité",
     de: "Ohrlappenpilzverwandte",
@@ -537,7 +564,8 @@ export const TAXA = {
     rank: "subclass"
   },
   Auriculariales: {
-    rank: "order"
+    rank: "order",
+    lv: "ausaiņu rinda"
   },
   Auricularia: {
     rank: "genus"
@@ -547,6 +575,7 @@ export const TAXA = {
   },
   Lycoperdaceae: {
     rank: "family",
+    lv: "pūpēžu dzimta",
     sk: "prášnicovité",
     fr: "lycoperdacées",
     pl: "purchawkowate"
@@ -574,7 +603,8 @@ export const TAXA = {
     rank: "subclass"
   },
   Hypocreales: {
-    rank: "order"
+    rank: "order",
+    lv: "hipokreju rinda"
   },
   Hypocreaceae: {
     rank: "family",
@@ -599,6 +629,7 @@ export const TAXA = {
   },
   Hericiaceae: {
     rank: "family",
+    lv: "dižadateņu dzimta",
     sk: "koralovcovité",
     cs: "korálovcovité",
     de: "Stachelbartverwandte",
@@ -610,6 +641,7 @@ export const TAXA = {
   },
   Gomphaceae: {
     rank: "family",
+    lv: "cūkaušu dzimta",
     sk: "lievikovcovité",
     cs: "stročkovcovité",
     pl: "siatkoblaszkowate"
@@ -624,6 +656,7 @@ export const TAXA = {
   },
   Gomphales: {
     rank: "order",
+    lv: "cūkaušu rinda",
     sk: "lievikovcotvaré"
   },
   Serpulaceae: {
@@ -636,6 +669,7 @@ export const TAXA = {
   },
   Tuberaceae: {
     rank: "family",
+    lv: "trifeļu dzimta",
     sk: "hľuzovkovité",
     cs: "lanýžovité",
     pl: "truflowate"
@@ -645,6 +679,7 @@ export const TAXA = {
   },
   Nidulariaceae: {
     rank: "family",
+    lv: "ligzdenīšu dzimta",
     sk: "hniezdovcovité",
     de: "Nestlingsverwandte",
     fr: "champignons nids d'oiseaux"
@@ -678,10 +713,12 @@ export const TAXA = {
     rank: "genus"
   },
   Leotiales: {
-    rank: "order"
+    rank: "order",
+    lv: "leociju rinda"
   },
   Leotiaceae: {
     rank: "family",
+    lv: "leociju dzimta",
     sk: "patyčkovité"
   },
   Leotia: {
@@ -730,6 +767,7 @@ export const TAXA = {
   },
   Clavariaceae: {
     rank: "family",
+    lv: "vāleņu dzimta",
     sk: "kyjačikovité"
   },
   Clavaria: {
@@ -761,6 +799,7 @@ export const TAXA = {
   },
   Helvellaceae: {
     rank: "family",
+    lv: "rumpuču dzimta",
     sk: "chriapačovité"
   },
   Helvella: {
@@ -776,6 +815,7 @@ export const TAXA = {
   },
   Albatrellaceae: {
     rank: "family",
+    lv: "aitpiepju dzimta",
     sk: "krásnopórovcovité"
   },
   Albatrellus: {
@@ -799,5 +839,9 @@ export const TAXA = {
   Volvariellaceae: {
     rank: "family",
     sk: "pošvovcovité"
-  }
+  },
+  Climacodon: {rank: "genus"},
+  Meruliaceae: {rank: "family", lv: "zeltporu dzimta"},
+  Infundibulicybe: {rank: "genus"},
+  Omphalinaceae: {rank: "family"}
 };

@@ -505,8 +505,8 @@ function identifyPage(lang, search, seasonOpen) {
   var seasonCounts = optionCounts(selection, "season");
   var matches = CATALOG.filter(function (species) { return matchesSelection(species, selection); });
   matches.sort(function (a, b) {
-    var left = displayName(a.label[lang], a.name, lang);
-    var right = displayName(b.label[lang], b.name, lang);
+    var left = displayName(a.label ? a.label[lang] : "", a.name, lang);
+    var right = displayName(b.label ? b.label[lang] : "", b.name, lang);
     return left.localeCompare(right, locale);
   });
   var openUnder = { under: "", where: selection.where, color: selection.color, season: selection.season };
@@ -1008,7 +1008,7 @@ function searchHits(query, lang) {
     if (score < 99) hits.push({ kind: kind, name: name, label: spoken, score: score });
   });
   CATALOG.forEach(function (species) {
-    var names = [species.name].concat(species.label[lang] ? [species.label[lang]] : [], species.names[lang] || [], species.synonyms || []);
+    var names = [species.name].concat((species.label && species.label[lang]) ? [species.label[lang]] : [], (species.names && species.names[lang]) || [], species.synonyms || []);
     var mushroomScore = 99;
     names.forEach(function (name) {
       var folded = fold(name);
@@ -1538,7 +1538,7 @@ function mushroomPage(lang, key) {
   var familySpoken = taxonLabel(species.family, lang);
   var orderSpoken = taxonLabel(species.order, lang);
   var genusSpoken = taxonLabel(species.genus, lang);
-  var aka = species.names[lang] || [];
+  var aka = (species.names && species.names[lang]) || [];
   var edible = species.edibility === "choice" || species.edibility === "edible" || species.edibility === "edible_with_caution";
   var heading = spoken
     ? '<h1 class="common">' + esc(spoken) + "</h1>" +
