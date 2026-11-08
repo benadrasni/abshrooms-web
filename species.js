@@ -139365,5 +139365,1400 @@ export const CATALOG = [
   "id": 139,
   "added": "2026-11-08",
   "citation": "Führ. Pilzk. (Zerbst): 72 (1871)"
+},
+{
+  "name": "Hericium americanum",
+  "author": "Ginns",
+  "family": "Hericiaceae",
+  "genus": "Hericium",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Russulales",
+    "Hericiaceae",
+    "Hericium"
+  ],
+  "edibility": "edible",
+  "hymenium": "teeth",
+  "where": [
+    "wood"
+  ],
+  "color": [
+    "white",
+    "yellow",
+    "red",
+    "brown"
+  ],
+  "capFrom": 10,
+  "capTo": 20,
+  "label": {
+    "ar": "Hericium americanum",
+    "bg": "Hericium americanum",
+    "cs": "Hericium americanum",
+    "da": "Hericium americanum",
+    "de": "Hericium americanum",
+    "en": "bear's head tooth",
+    "es": "Hericium americanum",
+    "et": "Hericium americanum",
+    "fa": "Hericium americanum",
+    "fi": "Hericium americanum",
+    "fr": "hydne d'Amérique",
+    "he": "Hericium americanum",
+    "hi": "Hericium americanum",
+    "hr": "Hericium americanum",
+    "hu": "Hericium americanum",
+    "id": "Hericium americanum",
+    "it": "Hericium americanum",
+    "ja": "Hericium americanum",
+    "ko": "Hericium americanum",
+    "lt": "Hericium americanum",
+    "lv": "Hericium americanum",
+    "nl": "Hericium americanum",
+    "no": "Hericium americanum",
+    "pl": "Hericium americanum",
+    "pt": "Hericium americanum",
+    "ro": "Hericium americanum",
+    "ru": "Hericium americanum",
+    "sk": "Hericium americanum",
+    "sl": "Hericium americanum",
+    "sr": "Hericium americanum",
+    "sv": "Hericium americanum",
+    "tr": "Hericium americanum",
+    "uk": "Hericium americanum",
+    "zh": "Hericium americanum"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [],
+    "en": [
+      "bear's head tooth fungus"
+    ],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [],
+    "en": [
+      "https://www.mushroomexpert.com/hericium_americanum.html",
+      "https://mushroomexpert.com/fungionwood/teeth%20and%20spine/species%20pages/Hericium%20americanum.htm",
+      "https://archive.botany.wisc.edu/tvolk/jan2003.html",
+      "https://www.mycoquebec.org/scripts/fiche_pdf.php?dest=D&tag=Hericium+americanum"
+    ],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [
+      "https://www.mycoquebec.org/scripts/fiche_pdf.php?dest=D&tag=Hericium+americanum"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "text": {
+    "ar": {
+      "description": "فطر محلل للخشب موطنه الأصلي شرق أمريكا الشمالية، إلى الشرق من السهول الكبرى. تظهر أجسامه الثمرية عادة منفردة أو في مجموعات على الأشجار عريضة الأوراق، ويمكنه استعمار جروح الأشجار الحية والخشب الميت على السواء. يتغذى أساسًا تغذية رمية، وقد يكون طفيليًا أيضًا.",
+      "cap": "لا توجد قبعة حقيقية. يتفرع الجسم الثمري بكثافة تفرعًا ثنائيًا، ويبلغ عرضه ١٠–٢٠ cm، وأحيانًا ٣٠ cm، وارتفاعه ١٢–٣٠ cm. يكون مائلًا إلى البياض أولًا، وقد يصفر أو يميل إلى الوردي أو البني مع التقدم في العمر.",
+      "hymenium": "يغطي السطح المنتج للأبواغ أشواكًا متدلية طولها ٠٫٥–٢ cm، وأحيانًا ٤ cm، تتجمع أساسًا عند أطراف الفروع. تبلغ أبعاد البازيديات ٢٥–٣٠ × ٥–٧ µm، وتحمل وصلات مشبكية عند قواعدها.",
+      "stipe": "لا توجد ساق متميزة؛ تنشأ الفروع من قاعدة مشتركة متجذرة ومثبتة بالخشب.",
+      "flesh": "أبيض، متين وهش، ولا يتغير لونه عند القطع. الرائحة والطعم غير مميزين.",
+      "sporePrint": "أبيض. تبلغ أبعاد الأبواغ ٥–٧ × ٤٫٥–٦ µm، وهي شبه كروية إلى إهليلجية، دقيقة الخشونة جدًا أو تبدو ملساء، وتُظهر تفاعلًا أميلويديًا قويًا.",
+      "habitat": "على جذوع الأشجار عريضة الأوراق الميتة وأروماتها، أو في جروح الأشجار الحية عريضة الأوراق؛ ونادرًا على المخروطيات. يثمر من يوليو إلى أكتوبر في كيبيك، ومن أغسطس إلى نوفمبر أساسًا في شرق الولايات المتحدة.",
+      "uses": "صالح للأكل وهو صغير؛ تُقدّر الأجسام الثمرية المطهية لنكهتها الشبيهة بالكركند. ويُزرع أيضًا على نشارة الخشب.",
+      "confusion": "يتميز Hericium coralloides بتفرع أكثر تباعدًا وأشواك أقصر. ويكوّن Hericium erinaceus كتلة غير متفرعة. ويعيش Hericium abietis أساسًا على المخروطيات في غرب أمريكا الشمالية.",
+      "notes": "قد تشبه الأجسام الثمرية الصغيرة الأنواع غير المتفرعة قبل نمو الفروع؛ وقد يلزم فحص عينات ناضجة وصفات مجهرية للوصول إلى تحديد موثوق.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Дърворазграждаща гъба, естествено разпространена в източната част на Северна Америка, на изток от Големите равнини. Обикновено образува плодни тела поединично или на групи върху широколистни дървета и заселва както рани по живи дървета, така и мъртва дървесина. Тя е предимно сапротрофна, но може да бъде и паразитна.",
+      "cap": "Няма същинска шапка. Плътно вилужно разклоненото плодно тяло е широко 10–20 cm, понякога 30 cm, и високо 12–30 cm. Първоначално е белезникаво, а с възрастта може да стане жълтеникаво, розово или кафеникаво.",
+      "hymenium": "Спороносната повърхност покрива висящи шипчета, дълги 0,5–2 cm, понякога 4 cm, събрани главно по върховете на разклоненията. Базидиите са 25–30 × 5–7 µm и имат катарами в основата.",
+      "stipe": "Няма обособено пънче; разклоненията излизат от обща вкореняваща се основа, прикрепена към дървесината.",
+      "flesh": "Бяло, жилаво и крехко, без промяна при разрязване. Мирисът и вкусът са слабо изразени.",
+      "sporePrint": "Бял. Спорите са 5–7 × 4,5–6 µm, почти сферични до елипсоидни, много фино грапави или привидно гладки и силно амилоидни.",
+      "habitat": "Върху мъртви стволове и пънове на широколистни дървета или в рани по живи широколистни дървета, рядко върху иглолистни. Плододава от юли до октомври в Квебек и главно от август до ноември в източната част на Съединените щати.",
+      "uses": "Ядлива в млада възраст; сготвените плодни тела се ценят заради вкуса, напомнящ омар. Отглежда се и върху дървени стърготини.",
+      "confusion": "Hericium coralloides е по-рехаво разклонен и има по-къси шипчета. Hericium erinaceus образува неразклонена маса. Hericium abietis расте главно върху иглолистни дървета в западната част на Северна Америка.",
+      "notes": "Младите плодни тела може да приличат на неразклонени видове, преди да се развият разклоненията; за надеждно определяне може да са нужни зрели екземпляри и микроскопични белези.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "cs": {
+      "description": "Dřevokazná houba původní ve východní části Severní Ameriky, rozšířená východně od Velkých plání. Obvykle vytváří plodnice jednotlivě nebo ve skupinách na listnáčích a osídluje poranění živých stromů i odumřelé dřevo. Živí se především saprotrofně, může však být také parazitická.",
+      "cap": "Klasický klobouk chybí. Hustě vidličnatě větvená plodnice je široká 10–20 cm, výjimečně 30 cm, a vysoká 12–30 cm. Zpočátku je bělavá, stářím může žloutnout, růžovět nebo hnědnout.",
+      "hymenium": "Výtrusorodá vrstva pokrývá převislé ostny dlouhé 0,5–2 cm, někdy 4 cm, sdružené hlavně na koncích větví. Bazidie měří 25–30 × 5–7 µm a na bázi mají přezky.",
+      "stipe": "Samostatný třeň chybí; větve vyrůstají ze společné kořenující báze přirostlé ke dřevu.",
+      "flesh": "Bílá, houževnatá a křehká, na řezu nemění barvu. Vůně a chuť jsou nevýrazné.",
+      "sporePrint": "Bílý. Výtrusy měří 5–7 × 4,5–6 µm, jsou téměř kulovité až elipsoidní, velmi jemně drsné nebo zdánlivě hladké a silně amyloidní.",
+      "habitat": "Na odumřelých kmenech a pařezech listnáčů nebo v poraněních živých listnatých stromů, vzácně na jehličnanech. V Québecu plodí od července do října, na východě Spojených států hlavně od srpna do listopadu.",
+      "uses": "V mládí jedlá; tepelně upravené plodnice jsou ceněny pro chuť připomínající humra. Pěstuje se také na pilinách.",
+      "confusion": "Hericium coralloides má volnější větvení a kratší ostny. Hericium erinaceus tvoří nevětvenou masu. Hericium abietis roste především na jehličnanech v západní části Severní Ameriky.",
+      "notes": "Mladé plodnice mohou před rozvinutím větví připomínat nevětvené druhy; ke spolehlivému určení mohou být nutné zralé plodnice a mikroskopické znaky.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "da": {
+      "description": "En vednedbrydende svamp, som er hjemmehørende i det østlige Nordamerika øst for Great Plains. Frugtlegemerne vokser normalt enkeltvis eller i grupper på løvtræ og kan kolonisere både sår i levende træer og dødt ved. Arten lever især saprotroft, men kan muligvis også være parasitisk.",
+      "cap": "En egentlig hat mangler. Det tæt gaffelgrenede frugtlegeme er 10–20 cm bredt, undertiden 30 cm, og 12–30 cm højt. Det er først hvidligt og kan med alderen blive gulligt, rosa eller brunligt.",
+      "hymenium": "Det sporedannende lag dækker hængende pigge, som er 0,5–2 cm lange, undertiden 4 cm, især samlet i bundter ved grenenes spidser. Basidierne måler 25–30 × 5–7 µm og har øskner ved basis.",
+      "stipe": "En særskilt stok mangler; grenene udgår fra en fælles, rodfæstet basis, der sidder fast på træet.",
+      "flesh": "Hvidt, sejt og skørt, uforanderligt ved gennemskæring. Lugt og smag er svage.",
+      "sporePrint": "Hvidt. Sporerne måler 5–7 × 4,5–6 µm, er næsten kugleformede til ellipsoidiske, meget fint ru eller tilsyneladende glatte og stærkt amyloide.",
+      "habitat": "På døde løvtræsstammer og stubbe eller i sår på levende løvtræer, sjældent på nåletræer. Frugter fra juli til oktober i Québec og især fra august til november i det østlige USA.",
+      "uses": "Spiselig som ung; tilberedte frugtlegemer værdsættes for en hummerlignende smag. Arten dyrkes også på savsmuld.",
+      "confusion": "Hericium coralloides er mere åbent forgrenet og har kortere pigge. Hericium erinaceus danner en ugrenet masse. Hericium abietis vokser især på nåletræer i det vestlige Nordamerika.",
+      "notes": "Unge frugtlegemer kan ligne ugrenede arter, før grenene udvikles; modne eksemplarer og mikroskopiske kendetegn kan være nødvendige for en sikker bestemmelse.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "de": {
+      "description": "Ein holzzersetzender Pilz, der im östlichen Nordamerika östlich der Great Plains heimisch ist. Die Fruchtkörper erscheinen gewöhnlich einzeln oder in Gruppen an Laubhölzern; besiedelt werden sowohl Wunden lebender Bäume als auch totes Holz. Die Art lebt vorwiegend saprotroph, möglicherweise aber auch parasitisch.",
+      "cap": "Ein eigentlicher Hut fehlt. Der dicht gabelig verzweigte Fruchtkörper ist 10–20 cm breit, gelegentlich 30 cm, und 12–30 cm hoch. Anfangs weißlich, kann er im Alter gelbliche, rosafarbene oder bräunliche Töne annehmen.",
+      "hymenium": "Die sporenbildende Schicht bedeckt herabhängende, 0,5–2 cm, manchmal 4 cm lange Stacheln, die vor allem an den Astenden gebündelt stehen. Die Basidien messen 25–30 × 5–7 µm und besitzen Basalschnallen.",
+      "stipe": "Ein abgegrenzter Stiel fehlt; die Äste entspringen einer gemeinsamen, wurzelnden und am Holz angewachsenen Basis.",
+      "flesh": "Weiß, zäh und brüchig, im Schnitt unveränderlich. Geruch und Geschmack sind unauffällig.",
+      "sporePrint": "Weiß. Die Sporen messen 5–7 × 4,5–6 µm, sind nahezu kugelig bis ellipsoid, sehr fein rau oder scheinbar glatt und stark amyloid.",
+      "habitat": "An abgestorbenen Laubholzstämmen und -stümpfen oder in Wunden lebender Laubbäume, selten an Nadelholz. Die Fruchtzeit liegt in Québec im Juli–Oktober, im Osten der Vereinigten Staaten hauptsächlich im August–November.",
+      "uses": "Jung essbar; gegarte Fruchtkörper werden wegen ihres hummerähnlichen Geschmacks geschätzt. Die Art wird auch auf Sägemehl kultiviert.",
+      "confusion": "Hericium coralloides ist lockerer verzweigt und besitzt kürzere Stacheln. Hericium erinaceus bildet eine unverzweigte Masse. Hericium abietis besiedelt vor allem Nadelbäume im westlichen Nordamerika.",
+      "notes": "Junge Fruchtkörper können vor der Ausbildung der Äste unverzweigten Arten ähneln; für eine zuverlässige Bestimmung können reife Exemplare und mikroskopische Merkmale erforderlich sein.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "en": {
+      "description": "A wood-decaying fungus native to eastern North America, occurring east of the Great Plains. It usually fruits singly or in groups on hardwoods and can colonize wounded living trees as well as dead timber. It is primarily saprotrophic and may also be parasitic.",
+      "cap": "No conventional cap. The densely forked fruit body is 10–20 cm wide, occasionally 30 cm, and 12–30 cm high; initially whitish, it may become yellowish, pinkish or brownish with age.",
+      "hymenium": "The spore-bearing surface covers hanging teeth, 0.5–2 cm long, sometimes 4 cm, clustered mainly at branch tips. Basidia are 25–30 × 5–7 µm, with basal clamps.",
+      "stipe": "There is no distinct stipe; the branches arise from a shared, rooting base attached to the wood.",
+      "flesh": "White, tough and brittle, unchanged when cut. Odour and taste are indistinct.",
+      "sporePrint": "White. Spores are 5–7 × 4.5–6 µm, nearly spherical to ellipsoid, very finely roughened or apparently smooth, and strongly amyloid.",
+      "habitat": "On dead hardwood logs and stumps, or in wounds on living hardwoods; rarely on conifers. Fruits in July–October in Québec and mainly August–November in the eastern United States.",
+      "uses": "Edible when young; cooked fruit bodies are valued for a lobster-like flavour. The fungus is also cultivated on sawdust.",
+      "confusion": "Hericium coralloides has more open branching and shorter teeth. Hericium erinaceus forms an unbranched mass. Hericium abietis chiefly inhabits conifers in western North America.",
+      "notes": "Young fruit bodies may resemble unbranched species before the branches develop; mature specimens and microscopic characters can be needed for reliable identification.",
+      "names": [
+        "bear's head tooth fungus"
+      ],
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/hericium_americanum.html",
+        "https://mushroomexpert.com/fungionwood/teeth%20and%20spine/species%20pages/Hericium%20americanum.htm",
+        "https://archive.botany.wisc.edu/tvolk/jan2003.html",
+        "https://www.mycoquebec.org/scripts/fiche_pdf.php?dest=D&tag=Hericium+americanum"
+      ],
+      "label": "bear's head tooth"
+    },
+    "es": {
+      "description": "Un hongo descomponedor de la madera, nativo del este de Norteamérica, al este de las Grandes Llanuras. Suele fructificar solo o en grupos sobre frondosas y coloniza tanto las heridas de árboles vivos como la madera muerta. Es principalmente saprótrofo, aunque también puede ser parásito.",
+      "cap": "Sin sombrero propiamente dicho. El cuerpo fructífero, densamente ramificado en horquillas, mide 10–20 cm de ancho, ocasionalmente 30 cm, y 12–30 cm de alto. Al principio es blanquecino y con la edad puede adquirir tonos amarillentos, rosados o parduscos.",
+      "hymenium": "La superficie fértil recubre aguijones colgantes de 0,5–2 cm de longitud, a veces 4 cm, agrupados sobre todo en los extremos de las ramas. Los basidios miden 25–30 × 5–7 µm y presentan fíbulas basales.",
+      "stipe": "No tiene un pie diferenciado; las ramas nacen de una base común, radicante, adherida a la madera.",
+      "flesh": "Blanca, tenaz y quebradiza, sin cambios al corte. Olor y sabor poco definidos.",
+      "sporePrint": "Blanca. Las esporas miden 5–7 × 4,5–6 µm, son casi esféricas a elipsoidales, muy finamente rugosas o aparentemente lisas y fuertemente amiloides.",
+      "habitat": "En troncos y tocones muertos de frondosas o en heridas de frondosas vivas; rara vez en coníferas. Fructifica de julio a octubre en Quebec y principalmente de agosto a noviembre en el este de Estados Unidos.",
+      "uses": "Comestible de joven; los ejemplares cocinados se aprecian por su sabor parecido al bogavante. También se cultiva sobre serrín.",
+      "confusion": "Hericium coralloides tiene una ramificación más abierta y aguijones más cortos. Hericium erinaceus forma una masa sin ramificar. Hericium abietis habita principalmente en coníferas del oeste de Norteamérica.",
+      "notes": "Los cuerpos fructíferos jóvenes pueden parecerse a especies no ramificadas antes de desarrollar las ramas; para identificarlos con fiabilidad pueden ser necesarios ejemplares maduros y caracteres microscópicos.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Puitu lagundav seen, mis on pärismaine Põhja-Ameerika idaosas, Suurest tasandikust idas. Viljakehad kasvavad tavaliselt üksikult või rühmadena lehtpuudel ning seen võib asustada nii elusate puude vigastusi kui ka surnud puitu. Ta on peamiselt saprotroofne, kuid võib olla ka parasiitne.",
+      "cap": "Tüüpiline kübar puudub. Tihedalt harkjalt harunev viljakeha on 10–20 cm lai, mõnikord 30 cm, ja 12–30 cm kõrge. Algul valkjas viljakeha võib vananedes muutuda kollakaks, roosakaks või pruunikaks.",
+      "hymenium": "Eoseid moodustav pind katab rippuvaid, 0,5–2 cm pikkusi, mõnikord 4 cm pikkusi narmaid, mis paiknevad kimpudena peamiselt harude tippudes. Eoskannad on 25–30 × 5–7 µm ning nende alusel on pandlad.",
+      "stipe": "Eraldi jalg puudub; harud lähtuvad ühiselt juurduvalt aluselt, mis kinnitub puidule.",
+      "flesh": "Valge, sitke ja habras, lõikamisel värv ei muutu. Lõhn ja maitse on nõrgad.",
+      "sporePrint": "Valge. Eosed on 5–7 × 4,5–6 µm, peaaegu kerajad kuni ellipsoidsed, väga peenelt karedad või näiliselt siledad ning tugevalt amüloidsed.",
+      "habitat": "Surnud lehtpuutüvedel ja kändudel või elusate lehtpuude vigastustes, harva okaspuudel. Viljub Québecis juulist oktoobrini ja USA idaosas peamiselt augustist novembrini.",
+      "uses": "Noorelt söödav; küpsetatud viljakehi hinnatakse homaarilaadse maitse tõttu. Seent kasvatatakse ka saepurul.",
+      "confusion": "Hericium coralloides on hõredamalt harunev ja lühemate narmastega. Hericium erinaceus moodustab harunemata massi. Hericium abietis kasvab peamiselt okaspuudel Põhja-Ameerika lääneosas.",
+      "notes": "Noored viljakehad võivad enne harude arenemist meenutada harunemata liike; usaldusväärseks määramiseks võib vaja minna küpseid viljakehi ja mikroskoopilisi tunnuseid.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fa": {
+      "description": "قارچی تجزیه‌کنندهٔ چوب که بومی شرق آمریکای شمالی، در شرق دشت‌های بزرگ است. اندام‌های بارده معمولاً به‌صورت تکی یا گروهی روی درختان پهن‌برگ پدید می‌آیند و قارچ می‌تواند هم زخم درختان زنده و هم چوب مرده را اشغال کند. عمدتاً ساپروتروف است، اما ممکن است انگل نیز باشد.",
+      "cap": "کلاهک معمولی ندارد. اندام بارده با انشعاب‌های دوشاخه و متراکم، ۱۰–۲۰ cm پهنا، گاه ۳۰ cm، و ۱۲–۳۰ cm ارتفاع دارد. ابتدا سفیدفام است و با افزایش سن ممکن است زردفام، صورتی یا قهوه‌ای‌فام شود.",
+      "hymenium": "سطح تولیدکنندهٔ هاگ، خارهای آویخته به طول ۰٫۵–۲ cm، گاه ۴ cm، را می‌پوشاند که عمدتاً در انتهای شاخه‌ها دسته‌دسته قرار دارند. بازیدیوم‌ها ۲۵–۳۰ × ۵–۷ µm هستند و در قاعده اتصال گیره‌ای دارند.",
+      "stipe": "پایهٔ مجزایی ندارد؛ شاخه‌ها از قاعده‌ای مشترک و ریشه‌مانند که به چوب متصل است بیرون می‌آیند.",
+      "flesh": "سفید، سفت و شکننده است و با برش تغییر رنگ نمی‌دهد. بو و مزه مشخص نیستند.",
+      "sporePrint": "سفید است. هاگ‌ها ۵–۷ × ۴٫۵–۶ µm، تقریباً کروی تا بیضوی، بسیار ریززبر یا ظاهراً صاف هستند و واکنش آمیلوئیدی قوی دارند.",
+      "habitat": "روی تنه‌ها و کنده‌های مردهٔ درختان پهن‌برگ یا در زخم درختان پهن‌برگ زنده می‌روید؛ به‌ندرت روی مخروطیان دیده می‌شود. در کبک از ژوئیه تا اکتبر و در شرق ایالات متحده بیشتر از اوت تا نوامبر باردهی می‌کند.",
+      "uses": "در جوانی خوراکی است؛ اندام‌های باردهٔ پخته به‌دلیل طعمی شبیه لابستر ارزشمندند. روی خاک‌اره نیز پرورش داده می‌شود.",
+      "confusion": "Hericium coralloides انشعاب‌های بازتر و خارهای کوتاه‌تری دارد. Hericium erinaceus توده‌ای بدون انشعاب می‌سازد. Hericium abietis بیشتر روی مخروطیان غرب آمریکای شمالی می‌روید.",
+      "notes": "اندام‌های باردهٔ جوان پیش از رشد شاخه‌ها ممکن است به گونه‌های بدون انشعاب شباهت داشته باشند؛ برای شناسایی مطمئن ممکن است نمونه‌های بالغ و ویژگی‌های میکروسکوپی لازم باشند.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Lahottajasieni, joka on alkuperäinen itäisessä Pohjois-Amerikassa, Suurten tasankojen itäpuolella. Itiöemät kasvavat tavallisesti yksittäin tai ryhminä lehtipuilla; sieni voi asuttaa sekä elävien puiden vaurioita että kuollutta puuta. Se on pääasiassa saprotrofinen, mutta voi mahdollisesti elää myös loisena.",
+      "cap": "Varsinainen lakki puuttuu. Tiheästi haarautuva itiöemä on 10–20 cm leveä, joskus 30 cm, ja 12–30 cm korkea. Aluksi se on valkeahko ja voi vanhetessaan muuttua kellertäväksi, vaaleanpunertavaksi tai ruskehtavaksi.",
+      "hymenium": "Itiöitä tuottava pinta peittää riippuvia, 0,5–2 cm pitkiä, joskus 4 cm pitkiä piikkejä, jotka ovat kimppuina pääasiassa haarojen kärjissä. Basidiot ovat 25–30 × 5–7 µm, ja niiden tyvellä on sinkilät.",
+      "stipe": "Erillistä jalkaa ei ole; haarat kasvavat yhteisestä, juurtuvasta tyvestä, joka kiinnittyy puuhun.",
+      "flesh": "Valkoista, sitkeää ja haurasta, leikkauspinta ei muuta väriään. Haju ja maku ovat mietoja.",
+      "sporePrint": "Valkoinen. Itiöt ovat 5–7 × 4,5–6 µm, lähes pallomaisia tai ellipsoidisia, hyvin hienosti karheita tai näennäisesti sileitä ja voimakkaasti amyloidisia.",
+      "habitat": "Kuolleilla lehtipuunrungoilla ja kannoilla tai elävien lehtipuiden vaurioissa, harvoin havupuilla. Itiöemiä muodostuu Québecissä heinä–lokakuussa ja Yhdysvaltain itäosissa etenkin elo–marraskuussa.",
+      "uses": "Nuorena syötävä; kypsennettyjä itiöemiä arvostetaan hummeria muistuttavan maun vuoksi. Sientä viljellään myös sahanpurulla.",
+      "confusion": "Hericium coralloides haarautuu ilmavammin ja sillä on lyhyemmät piikit. Hericium erinaceus muodostaa haarattoman massan. Hericium abietis kasvaa pääasiassa havupuilla läntisessä Pohjois-Amerikassa.",
+      "notes": "Nuoret itiöemät voivat ennen haarojen kehittymistä muistuttaa haarattomia lajeja; luotettava tunnistus voi edellyttää kypsiä itiöemiä ja mikroskooppisia tuntomerkkejä.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fr": {
+      "description": "Un champignon décomposeur du bois, indigène de l’est de l’Amérique du Nord, à l’est des Grandes Plaines. Il fructifie généralement seul ou en groupes sur les feuillus et colonise aussi bien les blessures des arbres vivants que le bois mort. Il est surtout saprotrophe, mais peut aussi être parasite.",
+      "cap": "Pas de chapeau véritable. Le basidiome densément ramifié en fourches mesure 10–20 cm de largeur, parfois 30 cm, et 12–30 cm de hauteur. D’abord blanchâtre, il peut jaunir, rosir ou brunir avec l’âge.",
+      "hymenium": "La surface sporifère couvre des aiguillons pendants de 0,5–2 cm de longueur, parfois 4 cm, regroupés surtout aux extrémités des rameaux. Les basides mesurent 25–30 × 5–7 µm et sont bouclées à la base.",
+      "stipe": "Pas de pied distinct ; les rameaux naissent d’une base commune, radicante, fixée au bois.",
+      "flesh": "Blanche, tenace et cassante, immuable à la coupe. Odeur et saveur indistinctes.",
+      "sporePrint": "Blanche. Les spores mesurent 5–7 × 4,5–6 µm, sont subglobuleuses à ellipsoïdes, très finement rugueuses ou apparemment lisses et fortement amyloïdes.",
+      "habitat": "Sur les billes et souches mortes de feuillus, ou dans les blessures de feuillus vivants, rarement sur les conifères. Fructifie de juillet à octobre au Québec et surtout d’août à novembre dans l’est des États-Unis.",
+      "uses": "Comestible jeune ; les basidiomes cuits sont appréciés pour leur saveur rappelant le homard. Il se cultive aussi sur sciure de bois.",
+      "confusion": "Hericium coralloides est plus lâchement ramifié et possède des aiguillons plus courts. Hericium erinaceus forme une masse non ramifiée. Hericium abietis pousse surtout sur les conifères de l’ouest de l’Amérique du Nord.",
+      "notes": "Avant le développement des rameaux, les jeunes basidiomes peuvent ressembler à des espèces non ramifiées ; des spécimens mûrs et des caractères microscopiques peuvent être nécessaires pour une identification fiable.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.mycoquebec.org/scripts/fiche_pdf.php?dest=D&tag=Hericium+americanum"
+      ],
+      "label": "hydne d'Amérique"
+    },
+    "he": {
+      "description": "פטרייה מפרקת עץ שמוצאה במזרח אמריקה הצפונית, ממזרח למישורים הגדולים. גופי הפרי מופיעים בדרך כלל ביחידות או בקבוצות על עצים רחבי עלים, והיא יכולה להתיישב הן בפצעים בעצים חיים והן בעץ מת. אורח חייה בעיקר ספרוטרופי, אך ייתכן שהיא גם טפילית.",
+      "cap": "אין כובע רגיל. גוף הפרי מתפצל בצפיפות לענפים מזלגיים, רוחבו 10–20 cm, לעיתים 30 cm, וגובהו 12–30 cm. בתחילה הוא לבנבן, ועם הגיל עשוי להצהיב או לקבל גוון ורדרד או חום.",
+      "hymenium": "המשטח המייצר נבגים מכסה שיניים תלויות באורך 0.5–2 cm, לעיתים 4 cm, המרוכזות בעיקר בקצות הענפים. מידות הבסידיומים 25–30 × 5–7 µm, ובבסיסם חיבורי מהדק.",
+      "stipe": "אין רגל מובחנת; הענפים יוצאים מבסיס משותף דמוי שורש המחובר לעץ.",
+      "flesh": "לבן, קשיח ושביר, ואינו משנה צבע בחיתוך. הריח והטעם אינם בולטים.",
+      "sporePrint": "לבנה. מידות הנבגים 5–7 × 4.5–6 µm, צורתם כמעט כדורית עד אליפסואידית, פניהם מחוספסים בעדינות רבה או נראים חלקים, והם אמילואידיים מאוד.",
+      "habitat": "על גזעים וגדמים מתים של עצים רחבי עלים או בפצעים של עצים רחבי עלים חיים; לעיתים נדירות על מחטניים. מניבה מיולי עד אוקטובר בקוויבק ובעיקר מאוגוסט עד נובמבר במזרח ארצות הברית.",
+      "uses": "אכילה בצעירותה; גופי פרי מבושלים מוערכים בזכות טעמם המזכיר לובסטר. מגדלים אותה גם על נסורת.",
+      "confusion": "למין Hericium coralloides הסתעפות פתוחה יותר ושיניים קצרות יותר. Hericium erinaceus יוצר גוש שאינו מסועף. Hericium abietis גדל בעיקר על מחטניים במערב אמריקה הצפונית.",
+      "notes": "גופי פרי צעירים עשויים להידמות למינים לא מסועפים לפני התפתחות הענפים; לזיהוי אמין עשויים להידרש פרטים בשלים ותכונות מיקרוסקופיות.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "पूर्वी उत्तरी अमेरिका में ग्रेट प्लेन्स के पूर्व का मूल निवासी, लकड़ी का अपघटन करने वाला कवक। इसके फलनकाय आमतौर पर चौड़ी पत्ती वाले पेड़ों पर अकेले या समूहों में उगते हैं। यह जीवित पेड़ों के घावों और मृत लकड़ी, दोनों पर बस सकता है। यह मुख्यतः मृतोपजीवी है, लेकिन परजीवी भी हो सकता है।",
+      "cap": "सामान्य टोपी नहीं होती। घनी, द्विशाखित शाखाओं वाला फलनकाय 10–20 cm चौड़ा, कभी-कभी 30 cm, और 12–30 cm ऊँचा होता है। शुरू में सफेद-सा होता है और उम्र के साथ पीलापन, गुलाबीपन या भूरापन ले सकता है।",
+      "hymenium": "बीजाणु बनाने वाली सतह नीचे लटकते काँटों को ढकती है, जो 0.5–2 cm लंबे, कभी-कभी 4 cm, और मुख्यतः शाखाओं के सिरों पर गुच्छों में होते हैं। बेसिडिया का आकार 25–30 × 5–7 µm होता है और उनके आधार पर क्लैम्प संबंध होते हैं।",
+      "stipe": "अलग डंठल नहीं होता; शाखाएँ लकड़ी से जुड़े एक साझा, जड़-जैसे आधार से निकलती हैं।",
+      "flesh": "सफेद, सख्त और भंगुर; काटने पर रंग नहीं बदलता। गंध और स्वाद विशिष्ट नहीं होते।",
+      "sporePrint": "सफेद। बीजाणु 5–7 × 4.5–6 µm के, लगभग गोल से दीर्घवृत्ताभ, बहुत महीन खुरदरे या देखने में चिकने और प्रबल रूप से अमाइलॉइड होते हैं।",
+      "habitat": "चौड़ी पत्ती वाले पेड़ों के मृत तनों और ठूँठों या ऐसे जीवित पेड़ों के घावों पर; शंकुधारी पेड़ों पर विरले। क्यूबेक में जुलाई–अक्टूबर और पूर्वी संयुक्त राज्य अमेरिका में मुख्यतः अगस्त–नवंबर में फलन होता है।",
+      "uses": "युवा अवस्था में खाद्य; पकाए हुए फलनकाय लॉब्स्टर-जैसे स्वाद के लिए पसंद किए जाते हैं। इसे लकड़ी के बुरादे पर भी उगाया जाता है।",
+      "confusion": "Hericium coralloides की शाखाएँ अधिक खुली होती हैं और काँटे छोटे होते हैं। Hericium erinaceus बिना शाखाओं वाला पिंड बनाता है। Hericium abietis मुख्यतः पश्चिमी उत्तरी अमेरिका के शंकुधारी पेड़ों पर उगता है।",
+      "notes": "शाखाएँ विकसित होने से पहले युवा फलनकाय बिना शाखाओं वाली प्रजातियों जैसे लग सकते हैं; विश्वसनीय पहचान के लिए परिपक्व नमूनों और सूक्ष्मदर्शीय लक्षणों की आवश्यकता हो सकती है।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Gljiva koja razgrađuje drvo, autohtona u istočnom dijelu Sjeverne Amerike, istočno od Velikih ravnica. Plodišta obično rastu pojedinačno ili u skupinama na listačama te mogu naseliti i rane živih stabala i mrtvo drvo. Pretežno je saprotrofna, ali može biti i parazitska.",
+      "cap": "Nema pravog klobuka. Gusto viličasto razgranato plodište široko je 10–20 cm, povremeno 30 cm, i visoko 12–30 cm. U početku je bjelkasto, a starenjem može postati žućkasto, ružičasto ili smećkasto.",
+      "hymenium": "Sporonosna površina prekriva viseće bodljice duge 0,5–2 cm, ponekad 4 cm, skupljene uglavnom na vrhovima grana. Bazidiji mjere 25–30 × 5–7 µm i imaju kopče pri bazi.",
+      "stipe": "Nema izdvojenog stručka; grane izrastaju iz zajedničke, ukorjenjujuće baze pričvršćene za drvo.",
+      "flesh": "Bijelo, žilavo i krhko, ne mijenja boju na prerezu. Miris i okus su neizraženi.",
+      "sporePrint": "Bijela. Spore mjere 5–7 × 4,5–6 µm, gotovo su kuglaste do elipsoidne, vrlo sitno hrapave ili naizgled glatke i snažno amiloidne.",
+      "habitat": "Na mrtvim deblima i panjevima listača ili u ranama živih listača, rijetko na četinjačama. Plodi od srpnja do listopada u Québecu, a na istoku Sjedinjenih Država uglavnom od kolovoza do studenoga.",
+      "uses": "Jestiva dok je mlada; toplinski obrađena plodišta cijene se zbog okusa nalik jastogu. Uzgaja se i na piljevini.",
+      "confusion": "Hericium coralloides ima rahlije grananje i kraće bodljice. Hericium erinaceus stvara nerazgranatu masu. Hericium abietis raste uglavnom na četinjačama u zapadnom dijelu Sjeverne Amerike.",
+      "notes": "Mlada plodišta prije razvoja grana mogu nalikovati nerazgranatim vrstama; za pouzdano određivanje mogu biti potrebni zreli primjerci i mikroskopska obilježja.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Észak-Amerika keleti részén, a Nagy-síkságtól keletre őshonos fakorhasztó gomba. Termőtestei rendszerint egyesével vagy csoportosan jelennek meg lombos fákon; élő fák sérüléseit és elhalt faanyagot egyaránt benépesíthet. Elsősorban szaprotróf életmódú, de esetleg parazita is lehet.",
+      "cap": "Nincs valódi kalapja. Sűrűn, villásan elágazó termőteste 10–20 cm széles, esetenként 30 cm, és 12–30 cm magas. Kezdetben fehéres, idővel sárgás, rózsás vagy barnás lehet.",
+      "hymenium": "A spóratermő réteg 0,5–2 cm hosszú, néha 4 cm-es, lelógó tüskéket borít, amelyek főként az ágvégeken csomókba rendeződnek. A bazídiumok mérete 25–30 × 5–7 µm, tövükön csatok vannak.",
+      "stipe": "Nincs elkülönülő tönkje; az ágak közös, gyökerező, a faanyaghoz rögzülő alapból erednek.",
+      "flesh": "Fehér, szívós és törékeny, vágáskor nem változik a színe. Szaga és íze jellegtelen.",
+      "sporePrint": "Fehér. A spórák 5–7 × 4,5–6 µm-esek, közel gömbölyűek vagy ellipszoidok, nagyon finoman érdesek vagy látszólag simák, erősen amiloidok.",
+      "habitat": "Elhalt lombos fák törzsén és tuskóin, illetve élő lombos fák sebeiben nő, ritkán fenyőkön. Québecben júliustól októberig, az Egyesült Államok keleti részén főként augusztustól novemberig terem.",
+      "uses": "Fiatalon ehető; hőkezelt termőtesteit homárra emlékeztető ízükért kedvelik. Fűrészporon is termesztik.",
+      "confusion": "A Hericium coralloides lazábban elágazó, tüskéi rövidebbek. A Hericium erinaceus el nem ágazó tömeget alkot. A Hericium abietis főként fenyőkön él Észak-Amerika nyugati részén.",
+      "notes": "Fiatal termőtestei az ágak kialakulása előtt el nem ágazó fajokra emlékeztethetnek; a biztos azonosításhoz érett példányokra és mikroszkópos bélyegekre lehet szükség.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "id": {
+      "description": "Jamur pengurai kayu yang berasal dari Amerika Utara bagian timur, di sebelah timur Great Plains. Tubuh buah biasanya tumbuh sendiri atau berkelompok pada pohon berdaun lebar, dan jamur ini dapat mengolonisasi luka pohon hidup maupun kayu mati. Sifatnya terutama saprotrof, tetapi mungkin juga parasit.",
+      "cap": "Tidak memiliki tudung sejati. Tubuh buah yang bercabang menggarpu dengan rapat lebarnya 10–20 cm, kadang-kadang 30 cm, dan tingginya 12–30 cm. Mula-mula berwarna keputihan, lalu dapat menjadi kekuningan, merah muda atau kecokelatan seiring usia.",
+      "hymenium": "Permukaan penghasil spora menutupi duri menggantung sepanjang 0,5–2 cm, kadang-kadang 4 cm, yang berkelompok terutama di ujung cabang. Basidium berukuran 25–30 × 5–7 µm dan memiliki sambungan apit di pangkalnya.",
+      "stipe": "Tidak ada tangkai yang jelas; cabang tumbuh dari pangkal bersama yang berakar dan melekat pada kayu.",
+      "flesh": "Putih, liat dan rapuh, tidak berubah warna saat dipotong. Bau dan rasa tidak khas.",
+      "sporePrint": "Putih. Spora berukuran 5–7 × 4,5–6 µm, hampir bulat hingga elipsoid, sangat halus kekasaran permukaannya atau tampak licin, serta sangat amiloid.",
+      "habitat": "Pada batang dan tunggul mati pohon berdaun lebar atau luka pohon berdaun lebar yang masih hidup; jarang pada konifer. Berbuah pada Juli–Oktober di Québec dan terutama Agustus–November di Amerika Serikat bagian timur.",
+      "uses": "Dapat dimakan saat muda; tubuh buah yang dimasak dihargai karena rasanya menyerupai lobster. Jamur ini juga dibudidayakan pada serbuk gergaji.",
+      "confusion": "Hericium coralloides memiliki percabangan lebih renggang dan duri lebih pendek. Hericium erinaceus membentuk massa tanpa cabang. Hericium abietis terutama hidup pada konifer di Amerika Utara bagian barat.",
+      "notes": "Tubuh buah muda dapat menyerupai spesies yang tidak bercabang sebelum cabangnya berkembang; spesimen matang dan ciri mikroskopis mungkin diperlukan untuk identifikasi yang dapat diandalkan.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un fungo decompositore del legno, originario dell’America settentrionale orientale, a est delle Grandi Pianure. Fruttifica generalmente isolato o in gruppi sulle latifoglie e colonizza sia le ferite degli alberi vivi sia il legno morto. È soprattutto saprotrofo, ma può essere anche parassita.",
+      "cap": "Manca un vero cappello. Il corpo fruttifero, densamente ramificato a forcella, è largo 10–20 cm, occasionalmente 30 cm, e alto 12–30 cm. Inizialmente biancastro, può diventare giallastro, rosato o brunastro con l’età.",
+      "hymenium": "La superficie fertile ricopre aculei pendenti lunghi 0,5–2 cm, talvolta 4 cm, riuniti soprattutto alle estremità dei rami. I basidi misurano 25–30 × 5–7 µm e hanno giunti a fibbia basali.",
+      "stipe": "Non esiste un gambo distinto; i rami sorgono da una base comune, radicante, aderente al legno.",
+      "flesh": "Bianca, tenace e fragile, immutabile al taglio. Odore e sapore indistinti.",
+      "sporePrint": "Bianca. Le spore misurano 5–7 × 4,5–6 µm, sono quasi sferiche o ellissoidali, finemente rugose o apparentemente lisce e fortemente amiloidi.",
+      "habitat": "Su tronchi e ceppaie morte di latifoglie o nelle ferite di latifoglie vive, raramente su conifere. Fruttifica da luglio a ottobre nel Québec e soprattutto da agosto a novembre negli Stati Uniti orientali.",
+      "uses": "Commestibile da giovane; gli esemplari cotti sono apprezzati per il sapore simile all’astice. Viene coltivato anche sulla segatura.",
+      "confusion": "Hericium coralloides ha una ramificazione più aperta e aculei più corti. Hericium erinaceus forma una massa non ramificata. Hericium abietis cresce soprattutto sulle conifere dell’America settentrionale occidentale.",
+      "notes": "I corpi fruttiferi giovani possono assomigliare a specie non ramificate prima dello sviluppo dei rami; per un’identificazione affidabile possono essere necessari esemplari maturi e caratteri microscopici.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "北米東部のグレートプレーンズ以東を原産地とする木材腐朽菌。通常は広葉樹に単生または群生し、枯れた木材だけでなく生きた木の傷にも定着する。主に腐生性だが、寄生性を示す可能性もある。",
+      "cap": "通常の傘はない。密に二又分枝する子実体は幅10–20 cm、ときに30 cm、高さ12–30 cm。初めは白っぽく、老成すると黄色、桃色、褐色を帯びることがある。",
+      "hymenium": "胞子を形成する表面は、主に枝先に束生する垂れ下がった針を覆う。針の長さは0.5–2 cm、ときに4 cm。担子器は25–30 × 5–7 µmで、基部にかすがい連結がある。",
+      "stipe": "明瞭な柄はなく、枝は木材に付着した共通の根状の基部から生じる。",
+      "flesh": "白色で、強靭だがもろく、切っても変色しない。においと味に際立った特徴はない。",
+      "sporePrint": "白色。胞子は5–7 × 4.5–6 µm、ほぼ球形から楕円形で、ごく微細な粗面をもつか平滑に見え、強いアミロイド性を示す。",
+      "habitat": "広葉樹の倒木や切り株、または生きた広葉樹の傷に生じ、まれに針葉樹にも生える。発生期はケベック州では7月–10月、米国東部では主に8月–11月。",
+      "uses": "幼時は食用とされ、加熱調理した子実体はロブスターに似た風味で好まれる。おがくずによる栽培も行われる。",
+      "confusion": "Hericium coralloidesは枝分かれがより疎で、針が短い。Hericium erinaceusは分枝しない塊を形成する。Hericium abietisは主に北米西部の針葉樹に生える。",
+      "notes": "幼い子実体は枝が発達する前には分枝しない種に似ることがあり、確実な同定には成熟した標本と顕微鏡的特徴が必要な場合がある。",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ko": {
+      "description": "북아메리카 동부의 그레이트플레인스 동쪽 지역에 자생하는 목재 부후균이다. 보통 활엽수에서 자실체가 홀로 또는 무리 지어 발생하며, 죽은 목재뿐 아니라 살아 있는 나무의 상처에도 정착한다. 주로 부생성이지만 기생성일 가능성도 있다.",
+      "cap": "일반적인 갓은 없다. 촘촘하게 두 갈래로 분지하는 자실체는 너비가 10–20 cm, 때로는 30 cm이고 높이는 12–30 cm이다. 처음에는 희며 나이가 들면 노란빛, 분홍빛 또는 갈색빛을 띨 수 있다.",
+      "hymenium": "포자를 만드는 표면은 주로 가지 끝에 다발로 모인 늘어진 침을 덮는다. 침은 길이가 0.5–2 cm, 때로는 4 cm이다. 담자기는 25–30 × 5–7 µm이며 기부에 꺾쇠연결이 있다.",
+      "stipe": "뚜렷한 대는 없으며 가지들은 목재에 붙은 공통의 뿌리 모양 기부에서 나온다.",
+      "flesh": "흰색이며 질기면서도 잘 부서지고, 잘라도 색이 변하지 않는다. 냄새와 맛은 뚜렷하지 않다.",
+      "sporePrint": "흰색이다. 포자는 5–7 × 4.5–6 µm이고 거의 구형에서 타원형이며, 표면이 아주 미세하게 거칠거나 매끈해 보이고 강한 아밀로이드성을 띤다.",
+      "habitat": "죽은 활엽수의 줄기와 그루터기 또는 살아 있는 활엽수의 상처에서 자라며 드물게 침엽수에서도 발생한다. 퀘벡에서는 7월–10월, 미국 동부에서는 주로 8월–11월에 발생한다.",
+      "uses": "어릴 때 식용하며, 익힌 자실체는 바닷가재와 비슷한 풍미로 선호된다. 톱밥을 이용한 재배도 이루어진다.",
+      "confusion": "Hericium coralloides는 가지가 더 성기게 갈라지고 침이 더 짧다. Hericium erinaceus는 분지하지 않는 덩어리를 이룬다. Hericium abietis는 주로 북아메리카 서부의 침엽수에서 자란다.",
+      "notes": "어린 자실체는 가지가 발달하기 전에는 분지하지 않는 종과 닮을 수 있어, 정확한 동정에 성숙한 표본과 현미경적 특징이 필요할 수 있다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Medieną ardantis grybas, savaime paplitęs rytinėje Šiaurės Amerikos dalyje, į rytus nuo Didžiųjų lygumų. Vaisiakūniai paprastai auga pavieniui arba grupėmis ant lapuočių; grybas įsikuria ir gyvų medžių žaizdose, ir negyvoje medienoje. Jis daugiausia saprotrofinis, bet gali būti ir parazitinis.",
+      "cap": "Įprastos kepurėlės nėra. Tankiai šakutėmis išsišakojęs vaisiakūnis yra 10–20 cm pločio, kartais 30 cm, ir 12–30 cm aukščio. Iš pradžių balkšvas, senstant gali tapti gelsvas, rausvas ar rusvas.",
+      "hymenium": "Sporas gaminantis paviršius dengia kabančius 0,5–2 cm ilgio, kartais 4 cm ilgio dyglius, susitelkusius daugiausia šakų viršūnėse. Bazidės yra 25–30 × 5–7 µm dydžio, su sagtimis prie pagrindo.",
+      "stipe": "Atskiro koto nėra; šakos išauga iš bendro, įsišaknijančio pagrindo, prisitvirtinusio prie medienos.",
+      "flesh": "Baltas, tamprus ir trapus, perpjovus spalvos nekeičia. Kvapas ir skonis neryškūs.",
+      "sporePrint": "Baltas. Sporos yra 5–7 × 4,5–6 µm dydžio, beveik rutuliškos arba elipsoidinės, labai smulkiai šiurkščios ar atrodančios lygios, stipriai amiloidinės.",
+      "habitat": "Ant negyvų lapuočių kamienų ir kelmų arba gyvų lapuočių žaizdose, retai ant spygliuočių. Kvebeke vaisiakūniai pasirodo liepą–spalį, o rytinėje JAV dalyje daugiausia rugpjūtį–lapkritį.",
+      "uses": "Jaunas valgomas; termiškai paruošti vaisiakūniai vertinami dėl omarą primenančio skonio. Grybas taip pat auginamas pjuvenose.",
+      "confusion": "Hericium coralloides šakojasi rečiau ir turi trumpesnius dyglius. Hericium erinaceus sudaro nešakotą masę. Hericium abietis daugiausia auga ant spygliuočių vakarinėje Šiaurės Amerikos dalyje.",
+      "notes": "Jauni vaisiakūniai, kol neišsivystė šakos, gali priminti nešakotas rūšis; patikimam nustatymui gali reikėti subrendusių vaisiakūnių ir mikroskopinių požymių.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lv": {
+      "description": "Koksni noārdoša sēne, kuras dabiskais areāls ir Ziemeļamerikas austrumos, uz austrumiem no Lielajiem līdzenumiem. Augļķermeņi parasti aug pa vienam vai grupās uz lapkokiem; sēne apdzīvo gan dzīvu koku ievainojumus, gan atmirušu koksni. Tā ir galvenokārt saprotrofa, bet var būt arī parazītiska.",
+      "cap": "Īstas cepurītes nav. Blīvi dakšveidā sazarotais augļķermenis ir 10–20 cm plats, reizēm 30 cm, un 12–30 cm augsts. Sākumā bālgans, novecojot tas var kļūt dzeltenīgs, sārts vai brūngans.",
+      "hymenium": "Sporas veidojošā virsma klāj nokarenas, 0,5–2 cm garas, reizēm 4 cm garas adatiņas, kas sakopotas galvenokārt zaru galos. Bazīdijas ir 25–30 × 5–7 µm lielas, ar sprādzēm pie pamatnes.",
+      "stipe": "Atsevišķa kātiņa nav; zari izaug no kopīgas, sakņveidā nostiprinātas pamatnes, kas piestiprināta koksnei.",
+      "flesh": "Balts, sīksts un trausls, griezumā krāsu nemaina. Smarža un garša ir neizteikta.",
+      "sporePrint": "Balta. Sporas ir 5–7 × 4,5–6 µm lielas, gandrīz lodveida līdz elipsoidālas, ļoti smalki raupjas vai šķietami gludas un stipri amiloīdas.",
+      "habitat": "Uz atmirušiem lapkoku stumbriem un celmiem vai dzīvu lapkoku ievainojumos, reti uz skujkokiem. Kvebekā augļķermeņi veidojas no jūlija līdz oktobrim, ASV austrumos galvenokārt no augusta līdz novembrim.",
+      "uses": "Jauna ir ēdama; termiski apstrādātus augļķermeņus novērtē omāram līdzīgās garšas dēļ. Sēni audzē arī zāģskaidās.",
+      "confusion": "Hericium coralloides zarojums ir skrajāks un adatiņas īsākas. Hericium erinaceus veido nesazarotu masu. Hericium abietis aug galvenokārt uz skujkokiem Ziemeļamerikas rietumos.",
+      "notes": "Jauni augļķermeņi pirms zaru attīstīšanās var atgādināt nesazarotas sugas; drošai noteikšanai var būt vajadzīgi nobrieduši eksemplāri un mikroskopiskās pazīmes.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "nl": {
+      "description": "Een houtafbrekende schimmel die inheems is in oostelijk Noord-Amerika, ten oosten van de Great Plains. De vruchtlichamen verschijnen gewoonlijk alleen of in groepen op loofhout; zowel wonden van levende bomen als dood hout worden gekoloniseerd. De soort leeft voornamelijk saprotroof, maar mogelijk ook parasitair.",
+      "cap": "Een echte hoed ontbreekt. Het dicht gevorkt vertakte vruchtlichaam is 10–20 cm breed, soms 30 cm, en 12–30 cm hoog. Aanvankelijk witachtig, kan het bij veroudering gelig, rozeachtig of bruinachtig worden.",
+      "hymenium": "De sporenvormende laag bedekt hangende stekels van 0,5–2 cm lang, soms 4 cm, vooral gebundeld aan de uiteinden van de takken. De basidiën meten 25–30 × 5–7 µm en hebben basale gespen.",
+      "stipe": "Een afzonderlijke steel ontbreekt; de takken ontspringen aan een gemeenschappelijke, wortelende basis die aan het hout vastzit.",
+      "flesh": "Wit, taai en bros, onveranderlijk bij doorsnijden. Geur en smaak zijn onopvallend.",
+      "sporePrint": "Wit. De sporen meten 5–7 × 4,5–6 µm, zijn bijna bolvormig tot ellipsoïde, zeer fijn ruw of schijnbaar glad en sterk amyloïde.",
+      "habitat": "Op dode stammen en stronken van loofbomen of in wonden van levende loofbomen, zelden op naaldbomen. Vruchtvorming van juli tot oktober in Québec en vooral van augustus tot november in het oosten van de Verenigde Staten.",
+      "uses": "Jong eetbaar; bereide vruchtlichamen worden gewaardeerd om hun kreeftachtige smaak. De soort wordt ook op zaagsel gekweekt.",
+      "confusion": "Hericium coralloides is opener vertakt en heeft kortere stekels. Hericium erinaceus vormt een onvertakte massa. Hericium abietis groeit vooral op naaldbomen in westelijk Noord-Amerika.",
+      "notes": "Jonge vruchtlichamen kunnen vóór de ontwikkeling van de takken op onvertakte soorten lijken; voor betrouwbare identificatie kunnen rijpe exemplaren en microscopische kenmerken nodig zijn.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "no": {
+      "description": "En vednedbrytende sopp som er hjemmehørende i det østlige Nord-Amerika, øst for Great Plains. Fruktlegemene vokser vanligvis enkeltvis eller i grupper på løvtrær og kan kolonisere både sår i levende trær og dødt trevirke. Arten lever hovedsakelig saprotroft, men kan muligens også være parasittisk.",
+      "cap": "En egentlig hatt mangler. Det tett gaffelgrenede fruktlegemet er 10–20 cm bredt, iblant 30 cm, og 12–30 cm høyt. Det er først hvitaktig og kan med alderen bli gulaktig, rosa eller brunaktig.",
+      "hymenium": "Det sporedannende laget dekker hengende pigger, 0,5–2 cm lange, iblant 4 cm, hovedsakelig samlet i knipper ved grenspissene. Basidiene måler 25–30 × 5–7 µm og har bøyler ved basis.",
+      "stipe": "En tydelig stilk mangler; grenene utgår fra en felles, rotlignende forankret basis som er festet til veden.",
+      "flesh": "Hvitt, seigt og sprøtt, uforandret ved gjennomskjæring. Lukt og smak er svake.",
+      "sporePrint": "Hvitt. Sporene måler 5–7 × 4,5–6 µm, er nesten kuleformede til ellipsoide, svært fint ru eller tilsynelatende glatte og sterkt amyloide.",
+      "habitat": "På døde løvtrestammer og stubber eller i sår på levende løvtrær, sjelden på bartrær. Fruktlegemer dannes juli–oktober i Québec og hovedsakelig august–november i det østlige USA.",
+      "uses": "Spiselig som ung; tilberedte fruktlegemer verdsettes for sin hummerlignende smak. Arten dyrkes også på sagflis.",
+      "confusion": "Hericium coralloides er mer åpent forgrenet og har kortere pigger. Hericium erinaceus danner en uforgrenet masse. Hericium abietis vokser hovedsakelig på bartrær i det vestlige Nord-Amerika.",
+      "notes": "Unge fruktlegemer kan ligne uforgrenede arter før grenene utvikles; modne eksemplarer og mikroskopiske kjennetegn kan være nødvendige for sikker artsbestemmelse.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "pl": {
+      "description": "Grzyb rozkładający drewno, rodzimy we wschodniej części Ameryki Północnej, na wschód od Wielkich Równin. Zazwyczaj tworzy owocniki pojedynczo lub w grupach na drzewach liściastych i zasiedla zarówno rany żywych drzew, jak i martwe drewno. Jest głównie saprotrofem, lecz może być także pasożytem.",
+      "cap": "Brak typowego kapelusza. Gęsto, widlasto rozgałęziony owocnik ma 10–20 cm szerokości, czasem 30 cm, oraz 12–30 cm wysokości. Początkowo białawy, z wiekiem może żółknąć, różowieć lub brązowieć.",
+      "hymenium": "Warstwa zarodnikotwórcza pokrywa zwisające kolce o długości 0,5–2 cm, niekiedy 4 cm, skupione głównie na końcach gałązek. Podstawki mają wymiary 25–30 × 5–7 µm i sprzążki u nasady.",
+      "stipe": "Brak wyraźnego trzonu; gałęzie wyrastają ze wspólnej, korzeniącej się nasady przytwierdzonej do drewna.",
+      "flesh": "Biały, łykowaty i kruchy, nie zmienia barwy po przekrojeniu. Zapach i smak są niewyraźne.",
+      "sporePrint": "Biały. Zarodniki mają wymiary 5–7 × 4,5–6 µm, są niemal kuliste do elipsoidalnych, bardzo drobno szorstkie lub pozornie gładkie i silnie amyloidalne.",
+      "habitat": "Na martwych pniach i pniakach drzew liściastych lub w ranach żywych drzew liściastych, rzadko na iglastych. Owocnikuje od lipca do października w Quebecu, a na wschodzie Stanów Zjednoczonych głównie od sierpnia do listopada.",
+      "uses": "Jadalny za młodu; gotowane owocniki ceni się za smak przypominający homara. Jest również uprawiany na trocinach.",
+      "confusion": "Hericium coralloides ma luźniejsze rozgałęzienia i krótsze kolce. Hericium erinaceus tworzy nierozgałęzioną masę. Hericium abietis rośnie głównie na drzewach iglastych w zachodniej części Ameryki Północnej.",
+      "notes": "Młode owocniki przed rozwinięciem gałęzi mogą przypominać gatunki nierozgałęzione; do pewnego oznaczenia mogą być potrzebne dojrzałe okazy i cechy mikroskopowe.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "pt": {
+      "description": "Um fungo decompositor da madeira, nativo da parte oriental da América do Norte, a leste das Grandes Planícies. Frutifica geralmente isolado ou em grupos sobre folhosas e coloniza tanto feridas de árvores vivas como madeira morta. É sobretudo saprotrófico, mas pode também ser parasita.",
+      "cap": "Não possui um verdadeiro chapéu. O corpo frutífero, densamente ramificado em forquilhas, mede 10–20 cm de largura, ocasionalmente 30 cm, e 12–30 cm de altura. Inicialmente esbranquiçado, pode tornar-se amarelado, rosado ou acastanhado com a idade.",
+      "hymenium": "A superfície fértil cobre agulhões pendentes com 0,5–2 cm de comprimento, por vezes 4 cm, agrupados sobretudo nas extremidades dos ramos. Os basídios medem 25–30 × 5–7 µm e apresentam fíbulas basais.",
+      "stipe": "Não existe um pé distinto; os ramos nascem de uma base comum, radicante, aderente à madeira.",
+      "flesh": "Branca, tenaz e quebradiça, sem alteração ao corte. Odor e sabor indistintos.",
+      "sporePrint": "Branca. Os esporos medem 5–7 × 4,5–6 µm, são quase esféricos a elipsoides, muito finamente rugosos ou aparentemente lisos e fortemente amiloides.",
+      "habitat": "Em troncos e cepos mortos de folhosas ou em feridas de folhosas vivas, raramente em coníferas. Frutifica de julho a outubro no Quebeque e sobretudo de agosto a novembro no leste dos Estados Unidos.",
+      "uses": "Comestível quando jovem; os exemplares cozinhados são apreciados pelo sabor semelhante ao da lagosta. Também é cultivado em serradura.",
+      "confusion": "Hericium coralloides apresenta ramificação mais aberta e agulhões mais curtos. Hericium erinaceus forma uma massa não ramificada. Hericium abietis habita sobretudo coníferas no oeste da América do Norte.",
+      "notes": "Os corpos frutíferos jovens podem assemelhar-se a espécies não ramificadas antes de desenvolverem os ramos; podem ser necessários exemplares maduros e caracteres microscópicos para uma identificação fiável.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "O ciupercă ce descompune lemnul, nativă în estul Americii de Nord, la est de Marile Câmpii. Fructifică de obicei izolat sau în grupuri pe foioase și poate coloniza atât rănile arborilor vii, cât și lemnul mort. Este în principal saprotrofă, dar poate fi și parazită.",
+      "cap": "Nu are o pălărie propriu-zisă. Corpul fructifer, dens ramificat în furci, are 10–20 cm lățime, ocazional 30 cm, și 12–30 cm înălțime. Inițial albicios, poate deveni gălbui, rozaliu sau brun cu vârsta.",
+      "hymenium": "Suprafața sporiferă acoperă țepi atârnători de 0,5–2 cm lungime, uneori 4 cm, grupați mai ales la vârfurile ramurilor. Basidiile măsoară 25–30 × 5–7 µm și prezintă anse la bază.",
+      "stipe": "Nu există un picior distinct; ramurile pornesc dintr-o bază comună, înrădăcinată, fixată de lemn.",
+      "flesh": "Albă, tenace și casantă, fără modificări la tăiere. Mirosul și gustul sunt slab definite.",
+      "sporePrint": "Albă. Sporii măsoară 5–7 × 4,5–6 µm, sunt aproape sferici până la elipsoidali, foarte fin rugoși sau aparent netezi și puternic amiloizi.",
+      "habitat": "Pe trunchiuri și cioate moarte de foioase sau în rănile foioaselor vii, rareori pe conifere. Fructifică din iulie până în octombrie în Québec și mai ales din august până în noiembrie în estul Statelor Unite.",
+      "uses": "Comestibilă când este tânără; exemplarele gătite sunt apreciate pentru gustul asemănător homarului. Este cultivată și pe rumeguș.",
+      "confusion": "Hericium coralloides are ramificații mai răsfirate și țepi mai scurți. Hericium erinaceus formează o masă neramificată. Hericium abietis trăiește mai ales pe conifere în vestul Americii de Nord.",
+      "notes": "Corpurile fructifere tinere pot semăna cu specii neramificate înainte de dezvoltarea ramurilor; pentru o identificare sigură pot fi necesare exemplare mature și caractere microscopice.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Дереворазрушающий гриб, естественно распространённый на востоке Северной Америки, к востоку от Великих равнин. Обычно образует плодовые тела поодиночке или группами на лиственных деревьях и заселяет как раны живых деревьев, так и мёртвую древесину. Преимущественно сапротроф, но может быть и паразитом.",
+      "cap": "Настоящей шляпки нет. Густо вильчато разветвлённое плодовое тело имеет ширину 10–20 cm, иногда 30 cm, и высоту 12–30 cm. Сначала беловатое, с возрастом оно может становиться желтоватым, розоватым или буроватым.",
+      "hymenium": "Спороносный слой покрывает свисающие шипики длиной 0,5–2 cm, иногда 4 cm, собранные в пучки преимущественно на концах ветвей. Базидии размером 25–30 × 5–7 µm, с пряжками у основания.",
+      "stipe": "Обособленной ножки нет; ветви отходят от общего укореняющегося основания, прикреплённого к древесине.",
+      "flesh": "Белая, жёсткая и ломкая, на срезе не меняет окраску. Запах и вкус невыразительные.",
+      "sporePrint": "Белый. Споры размером 5–7 × 4,5–6 µm, почти шаровидные до эллипсоидных, очень мелко шероховатые или кажущиеся гладкими, сильно амилоидные.",
+      "habitat": "На мёртвых стволах и пнях лиственных деревьев или в ранах живых лиственных деревьев, редко на хвойных. Плодоносит с июля по октябрь в Квебеке и преимущественно с августа по ноябрь на востоке США.",
+      "uses": "Съедобен в молодом возрасте; приготовленные плодовые тела ценятся за вкус, напоминающий омара. Выращивается также на опилках.",
+      "confusion": "Hericium coralloides отличается более рыхлым ветвлением и короткими шипиками. Hericium erinaceus образует неразветвлённую массу. Hericium abietis растёт главным образом на хвойных деревьях на западе Северной Америки.",
+      "notes": "Молодые плодовые тела до развития ветвей могут напоминать неразветвлённые виды; для надёжного определения могут потребоваться зрелые экземпляры и микроскопические признаки.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sk": {
+      "description": "Drevokazná huba pôvodná vo východnej časti Severnej Ameriky, rozšírená východne od Veľkých prérií. Zvyčajne tvorí plodnice jednotlivo alebo v skupinách na listnáčoch a osídľuje poranenia živých stromov aj odumreté drevo. Živí sa najmä saprotrofne, môže však byť aj parazitická.",
+      "cap": "Klasický klobúk chýba. Husto vidlicovito rozkonárená plodnica je široká 10–20 cm, výnimočne 30 cm, a vysoká 12–30 cm. Spočiatku je belavá, vekom môže žltnúť, ružovieť alebo hnednúť.",
+      "hymenium": "Výtrusorodá vrstva pokrýva visiace ostne dlhé 0,5–2 cm, niekedy 4 cm, zoskupené najmä na koncoch konárov. Bazídiá merajú 25–30 × 5–7 µm a na báze majú pracky.",
+      "stipe": "Samostatný hlúbik chýba; konáre vyrastajú zo spoločnej koreňujúcej bázy prirastenej k drevu.",
+      "flesh": "Biela, húževnatá a krehká, na reze nemení farbu. Vôňa a chuť sú nevýrazné.",
+      "sporePrint": "Biely. Výtrusy merajú 5–7 × 4,5–6 µm, sú takmer guľovité až elipsoidné, veľmi jemne drsné alebo zdanlivo hladké a silne amyloidné.",
+      "habitat": "Na odumretých kmeňoch a pňoch listnáčov alebo v poraneniach živých listnatých stromov, zriedka na ihličnanoch. V Québecu plodí od júla do októbra, na východe Spojených štátov najmä od augusta do novembra.",
+      "uses": "V mladosti jedlá; tepelne upravené plodnice sa cenia pre chuť pripomínajúcu homára. Pestuje sa aj na pilinách.",
+      "confusion": "Hericium coralloides má voľnejšie rozkonárenie a kratšie ostne. Hericium erinaceus tvorí nerozkonárenú masu. Hericium abietis rastie najmä na ihličnanoch v západnej časti Severnej Ameriky.",
+      "notes": "Mladé plodnice môžu pred rozvinutím konárov pripomínať nerozkonárené druhy; na spoľahlivé určenie môžu byť potrebné zrelé plodnice a mikroskopické znaky.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sl": {
+      "description": "Gliva, ki razkraja les, je domorodna v vzhodnem delu Severne Amerike, vzhodno od Velikih planjav. Trosnjaki navadno rastejo posamično ali v skupinah na listavcih; gliva lahko naseli tako rane živih dreves kot odmrl les. Je predvsem saprotrofna, lahko pa tudi zajedavska.",
+      "cap": "Pravega klobuka ni. Gosto viličasto razvejen trosnjak je širok 10–20 cm, občasno 30 cm, in visok 12–30 cm. Sprva je belkast, s staranjem pa lahko postane rumenkast, rožnat ali rjavkast.",
+      "hymenium": "Trosovnica prekriva viseče bodice, dolge 0,5–2 cm, včasih 4 cm, združene predvsem na koncih vej. Bazidiji merijo 25–30 × 5–7 µm in imajo zaponke ob osnovi.",
+      "stipe": "Ločenega beta ni; veje izraščajo iz skupne, koreninaste osnove, pritrjene na les.",
+      "flesh": "Belo, žilavo in krhko, ob prerezu ne spremeni barve. Vonj in okus sta neizrazita.",
+      "sporePrint": "Bel. Trosi merijo 5–7 × 4,5–6 µm, so skoraj kroglasti do elipsoidni, zelo drobno hrapavi ali navidezno gladki in močno amiloidni.",
+      "habitat": "Na odmrlih deblih in štorih listavcev ali v ranah živih listavcev, redko na iglavcih. V Québecu tvori trosnjake od julija do oktobra, v vzhodnem delu Združenih držav pa predvsem od avgusta do novembra.",
+      "uses": "Užitna, ko je mlada; toplotno obdelani trosnjaki so cenjeni zaradi okusa, podobnega jastogu. Gojijo jo tudi na žagovini.",
+      "confusion": "Hericium coralloides je redkeje razvejen in ima krajše bodice. Hericium erinaceus tvori nerazvejano gmoto. Hericium abietis raste predvsem na iglavcih v zahodnem delu Severne Amerike.",
+      "notes": "Mladi trosnjaki lahko pred razvojem vej spominjajo na nerazvejane vrste; za zanesljivo določitev so lahko potrebni zreli primerki in mikroskopski znaki.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sr": {
+      "description": "Гљива која разграђује дрво, самоникла у источном делу Северне Америке, источно од Великих равница. Плодоносна тела обично расту појединачно или у групама на лишћарима и могу населити и ране живог дрвећа и мртво дрво. Претежно је сапротрофна, али може бити и паразитска.",
+      "cap": "Нема правог шешира. Густо виљушкасто разгранато плодоносно тело широко је 10–20 cm, понекад 30 cm, и високо 12–30 cm. У почетку је беличасто, а са старењем може постати жућкасто, ружичасто или смеђкасто.",
+      "hymenium": "Спороносна површина прекрива висеће бодљице дуге 0,5–2 cm, понекад 4 cm, сакупљене претежно на врховима грана. Базидије мере 25–30 × 5–7 µm и имају копче при основи.",
+      "stipe": "Нема издвојене дршке; гране полазе из заједничке, укорењујуће основе причвршћене за дрво.",
+      "flesh": "Бело, жилаво и крто, без промене боје на пресеку. Мирис и укус су неизразити.",
+      "sporePrint": "Бела. Споре мере 5–7 × 4,5–6 µm, готово су лоптасте до елипсоидне, веома фино храпаве или наизглед глатке и јако амилоидне.",
+      "habitat": "На мртвим стаблима и пањевима лишћара или у ранама живих лишћара, ретко на четинарима. Плодоноси од јула до октобра у Квебеку и углавном од августа до новембра у источном делу Сједињених Држава.",
+      "uses": "Јестива док је млада; термички обрађена плодоносна тела цењена су због укуса налик јастогу. Узгаја се и на пиљевини.",
+      "confusion": "Hericium coralloides има растреситије гранање и краће бодљице. Hericium erinaceus образује неразгранату масу. Hericium abietis расте углавном на четинарима у западном делу Северне Америке.",
+      "notes": "Млада плодоносна тела пре развоја грана могу личити на неразгранате врсте; за поуздано одређивање могу бити потребни зрели примерци и микроскопске особине.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En vednedbrytande svamp med naturlig utbredning i östra Nordamerika, öster om Great Plains. Fruktkropparna växer vanligen ensamma eller i grupper på lövträd och kan kolonisera såväl sår på levande träd som död ved. Arten lever främst saprotroft, men kan möjligen också vara parasitisk.",
+      "cap": "En egentlig hatt saknas. Den tätt gaffelgrenade fruktkroppen är 10–20 cm bred, ibland 30 cm, och 12–30 cm hög. Den är först vitaktig och kan med åldern bli gulaktig, rosa eller brunaktig.",
+      "hymenium": "Det sporbildande skiktet täcker hängande taggar, 0,5–2 cm långa, ibland 4 cm, samlade främst i knippen vid grenspetsarna. Basidierna mäter 25–30 × 5–7 µm och har söljor vid basen.",
+      "stipe": "En tydlig fot saknas; grenarna utgår från en gemensam, rotlikt förankrad bas som sitter fast i veden.",
+      "flesh": "Vitt, segt och sprött, oföränderligt vid snitt. Lukt och smak är obetydliga.",
+      "sporePrint": "Vitt. Sporerna mäter 5–7 × 4,5–6 µm, är nästan klotformiga till ellipsoida, mycket fint sträva eller till synes släta och starkt amyloida.",
+      "habitat": "På döda lövträdsstammar och stubbar eller i sår på levande lövträd, sällan på barrträd. Fruktkroppar bildas juli–oktober i Québec och främst augusti–november i östra USA.",
+      "uses": "Ätlig som ung; tillagade fruktkroppar uppskattas för sin hummerliknande smak. Arten odlas också på sågspån.",
+      "confusion": "Hericium coralloides har öppnare förgrening och kortare taggar. Hericium erinaceus bildar en oförgrenad massa. Hericium abietis växer främst på barrträd i västra Nordamerika.",
+      "notes": "Unga fruktkroppar kan likna oförgrenade arter innan grenarna utvecklas; mogna exemplar och mikroskopiska kännetecken kan behövas för säker artbestämning.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "tr": {
+      "description": "Kuzey Amerika’nın doğusunda, Büyük Ovalar’ın doğu kesiminde doğal olarak bulunan, odunu ayrıştıran bir mantardır. Genellikle geniş yapraklı ağaçlarda tek tek ya da gruplar hâlinde meyve gövdeleri oluşturur; hem canlı ağaçların yaralarını hem ölü odunu kolonileştirebilir. Başlıca saprotroftur, ancak parazit de olabilir.",
+      "cap": "Gerçek bir şapkası yoktur. Sık çatallanan meyve gövdesi 10–20 cm genişliğinde, bazen 30 cm, ve 12–30 cm yüksekliğindedir. Başlangıçta beyazımsıdır; yaşlandıkça sarımsı, pembemsi veya kahverengimsi olabilir.",
+      "hymenium": "Spor üreten yüzey, çoğunlukla dalların uçlarında demetler oluşturan, 0,5–2 cm uzunluğunda, bazen 4 cm’ye ulaşan sarkık dikenleri kaplar. Bazidyumlar 25–30 × 5–7 µm boyutlarındadır ve tabanlarında toka bağlantıları bulunur.",
+      "stipe": "Belirgin bir sapı yoktur; dallar, oduna bağlı, köklenen ortak bir tabandan çıkar.",
+      "flesh": "Beyaz, dayanıklı ve kırılgandır; kesildiğinde renk değiştirmez. Kokusu ve tadı belirgin değildir.",
+      "sporePrint": "Beyazdır. Sporlar 5–7 × 4,5–6 µm boyutlarında, küreye yakın ila elipsoit, çok ince pürüzlü ya da görünüşte düzgün yüzeyli ve kuvvetle amiloittir.",
+      "habitat": "Ölü geniş yapraklı ağaçların kütük ve gövdelerinde veya canlı geniş yapraklı ağaçların yaralarında, nadiren iğne yapraklılarda yetişir. Québec’te temmuz–ekim, ABD’nin doğusunda ağırlıkla ağustos–kasım aylarında meyve verir.",
+      "uses": "Gençken yenebilir; pişmiş örnekler ıstakozu andıran tatlarıyla beğenilir. Talaş üzerinde de yetiştirilir.",
+      "confusion": "Hericium coralloides daha seyrek dallanır ve daha kısa dikenlere sahiptir. Hericium erinaceus dallanmamış bir kütle oluşturur. Hericium abietis başlıca Kuzey Amerika’nın batısındaki iğne yapraklılarda yetişir.",
+      "notes": "Genç meyve gövdeleri, dalları gelişmeden önce dallanmayan türlere benzeyebilir; güvenilir teşhis için olgun örnekler ve mikroskobik özellikler gerekebilir.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Дереворуйнівний гриб, природно поширений у східній частині Північної Америки, на схід від Великих рівнин. Зазвичай утворює плодові тіла поодинці або групами на листяних деревах і заселяє як рани живих дерев, так і мертву деревину. Переважно сапротроф, але може бути й паразитом.",
+      "cap": "Справжньої шапинки немає. Густо вилчасто розгалужене плодове тіло має ширину 10–20 cm, зрідка 30 cm, і висоту 12–30 cm. Спочатку білувате, з віком воно може ставати жовтуватим, рожевуватим або буруватим.",
+      "hymenium": "Спороносний шар вкриває звислі шипики завдовжки 0,5–2 cm, іноді 4 cm, зібрані переважно на кінцях гілок. Базидії розміром 25–30 × 5–7 µm, із пряжками біля основи.",
+      "stipe": "Окремої ніжки немає; гілки відходять від спільної вкоріненої основи, прикріпленої до деревини.",
+      "flesh": "Біла, жорстка й ламка, на зрізі не змінює забарвлення. Запах і смак невиразні.",
+      "sporePrint": "Білий. Спори розміром 5–7 × 4,5–6 µm, майже кулясті до еліпсоїдних, дуже дрібно шорсткі або на вигляд гладенькі, сильно амілоїдні.",
+      "habitat": "На мертвих стовбурах і пнях листяних дерев або в ранах живих листяних дерев, зрідка на хвойних. Плодоносить із липня до жовтня у Квебеку й переважно із серпня до листопада на сході США.",
+      "uses": "Їстівний у молодому віці; приготовані плодові тіла цінують за смак, що нагадує омара. Вирощують також на тирсі.",
+      "confusion": "Hericium coralloides має більш розріджене галуження та коротші шипики. Hericium erinaceus утворює нерозгалужену масу. Hericium abietis росте переважно на хвойних деревах на заході Північної Америки.",
+      "notes": "Молоді плодові тіла до розвитку гілок можуть нагадувати нерозгалужені види; для надійного визначення можуть знадобитися зрілі зразки та мікроскопічні ознаки.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "zh": {
+      "description": "一種原生於北美洲東部、大平原以東地區的木材腐朽菌。通常在闊葉樹上單生或群生，既可定殖於枯木，也可生長在活樹的傷口處。主要營腐生生活，但也可能具有寄生性。",
+      "cap": "沒有典型的菌傘。子實體密集叉狀分枝，寬10–20 cm，偶達30 cm，高12–30 cm。初為近白色，隨老熟可能轉為淡黃色、粉紅色或淡褐色。",
+      "hymenium": "產孢表面覆蓋於下垂的菌刺上，菌刺長0.5–2 cm，有時達4 cm，主要叢生於枝端。擔子為25–30 × 5–7 µm，基部具鎖狀聯合。",
+      "stipe": "沒有明顯菌柄；各分枝由共同的生根狀基部長出，基部附著於木材。",
+      "flesh": "白色，堅韌而易脆斷，切開不變色。氣味及味道不明顯。",
+      "sporePrint": "白色。孢子為5–7 × 4.5–6 µm，近球形至橢圓形，表面極細微粗糙或看似平滑，呈強烈澱粉質反應。",
+      "habitat": "生於闊葉樹的枯倒木、樹樁或活樹傷口，罕見於針葉樹。魁北克的出菇期為7月–10月，美國東部則主要為8月–11月。",
+      "uses": "幼時可食；煮熟的子實體因帶有類似龍蝦的風味而受到喜愛，也可用木屑栽培。",
+      "confusion": "Hericium coralloides分枝較疏鬆、菌刺較短。Hericium erinaceus形成不分枝的團塊。Hericium abietis主要生於北美洲西部的針葉樹上。",
+      "notes": "幼小子實體在分枝尚未發育時可能與不分枝的種類相似；可靠鑑定有時需要成熟標本及顯微特徵。",
+      "names": [],
+      "sourceUrls": []
+    }
+  },
+  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Russulales/Hericiaceae/Hericium_americanum/Hericium_americanum@1600.webp",
+  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Russulales/Hericiaceae/Hericium_americanum/Hericium_americanum@400.webp",
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Russulales/Hericiaceae/Hericium_americanum/ha1.webp",
+      "author": "Jason Webb",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/402110202"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Russulales/Hericiaceae/Hericium_americanum/ha2.webp",
+      "author": "Bethany Teigen",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/399145188"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Russulales/Hericiaceae/Hericium_americanum/ha3.webp",
+      "author": "Marcus Popovich",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/314870950"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Russulales/Hericiaceae/Hericium_americanum/ha4.webp",
+      "author": "Sara L Giles",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/240236252"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Russulales/Hericiaceae/Hericium_americanum/ha5.webp",
+      "author": "Aubrey Inkster",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/400109038"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Russulales/Hericiaceae/Hericium_americanum/Hericium_americanum@1600.webp",
+      "author": "Unknown; owner-supplied artwork",
+      "license": "User supplied; redistribution rights not independently established",
+      "sourceUrl": "supplied_original.png",
+      "existingMark": "Gemini; retained once, no attribution/authorship authentication"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Russulales/Hericiaceae/Hericium_americanum/ha1.webp",
+      "author": "Jason Webb",
+      "license": "CC0 1.0 Universal",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/402110202",
+      "attribution": "no rights reserved",
+      "adaptation": "Centered true source square crop; downsampled to1024, WebP90/method6; no padding, stretching, upscaling, human removal, retouching or generation."
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Russulales/Hericiaceae/Hericium_americanum/ha2.webp",
+      "author": "Bethany Teigen",
+      "license": "CC0 1.0 Universal",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/399145188",
+      "attribution": "no rights reserved",
+      "adaptation": "Centered true source square crop; downsampled to1024, WebP90/method6; no padding, stretching, upscaling, human removal, retouching or generation."
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Russulales/Hericiaceae/Hericium_americanum/ha3.webp",
+      "author": "Marcus Popovich",
+      "license": "CC0 1.0 Universal",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/314870950",
+      "attribution": "no rights reserved",
+      "adaptation": "Centered true source square crop; downsampled to1024, WebP90/method6; no padding, stretching, upscaling, human removal, retouching or generation."
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Russulales/Hericiaceae/Hericium_americanum/ha4.webp",
+      "author": "Sara L Giles",
+      "license": "CC0 1.0 Universal",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/240236252",
+      "attribution": "no rights reserved",
+      "adaptation": "Centered true source square crop; downsampled to1024, WebP90/method6; no padding, stretching, upscaling, human removal, retouching or generation."
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Russulales/Hericiaceae/Hericium_americanum/ha5.webp",
+      "author": "Aubrey Inkster",
+      "license": "CC0 1.0 Universal",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/400109038",
+      "attribution": "no rights reserved",
+      "adaptation": "Centered true source square crop; downsampled to1024, WebP90/method6; no padding, stretching, upscaling, human removal, retouching or generation."
+    }
+  ],
+  "reserved": false,
+  "order": "Russulales",
+  "summary": [
+    "Russulales",
+    "Hericiaceae",
+    "Hericium"
+  ],
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Russulales/Hericiaceae/Hericium_americanum/Hericium_americanum@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Russulales/Hericiaceae/Hericium_americanum/Hericium_americanum@400.webp",
+  "plateCredit": {
+    "author": "Unknown; owner-supplied artwork",
+    "credit": "Existing requested Gemini mark retained once; not authenticated authorship.",
+    "license": "User supplied; redistribution rights not independently established",
+    "source": "supplied_original.png"
+  },
+  "fruitingFrom": 7,
+  "fruitingTo": 11,
+  "id": 140,
+  "added": "2026-11-08",
+  "citation": "Mycotaxon 20(1): 43 (1984)",
+  "illustrationProvenance": {
+    "tool": "Pillow + OpenCV deterministic alpha-only segmentation; no generation",
+    "sourceFormat": "JPEG",
+    "sourceDimensions": [
+      896,
+      1200
+    ],
+    "sourceSHA256": "55e1416bb018a7dc051280e7a3b643cca7f93df5c968f9bf53b7d90b5ae6e6ee",
+    "backgroundSHA256": "d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c",
+    "alphaPNG": "artwork_rgba.png",
+    "mask": "artwork_alpha_mask.png",
+    "cropBBox": [
+      101,
+      143,
+      791,
+      1109
+    ],
+    "uniformScale": 2.028985507246377,
+    "placement": [
+      100,
+      220
+    ],
+    "composedArtworkDimensions": [
+      1400,
+      1960
+    ],
+    "interiorRGBChangedPixels": 0,
+    "allSourceRGBChangedPixels": 0,
+    "transparentPixels": 650362,
+    "opaquePixels": 412862,
+    "partialAlphaPixels": 11976,
+    "paleInteriorsProtected": true,
+    "preservedObjects": [
+      "main entire branched fungus",
+      "entire diagonal log",
+      "detached branch/cut section",
+      "existing Gemini mark including its punctuation"
+    ],
+    "signatureTreatment": "Existing requested Gemini mark retained once; zero added marks. No authenticated creator, rights or species identity inferred.",
+    "contours": [
+      {
+        "area": 51074.0,
+        "box": [
+          102,
+          817,
+          323,
+          291
+        ]
+      },
+      {
+        "area": 356085.5,
+        "box": [
+          114,
+          144,
+          676,
+          784
+        ]
+      }
+    ],
+    "paleCoreProtectionPolygons": [
+      [
+        [
+          137,
+          873
+        ],
+        [
+          163,
+          862
+        ],
+        [
+          194,
+          867
+        ],
+        [
+          214,
+          879
+        ],
+        [
+          242,
+          889
+        ],
+        [
+          272,
+          909
+        ],
+        [
+          296,
+          928
+        ],
+        [
+          331,
+          943
+        ],
+        [
+          362,
+          957
+        ],
+        [
+          392,
+          982
+        ],
+        [
+          410,
+          1010
+        ],
+        [
+          419,
+          1034
+        ],
+        [
+          396,
+          1025
+        ],
+        [
+          369,
+          1007
+        ],
+        [
+          337,
+          995
+        ],
+        [
+          306,
+          981
+        ],
+        [
+          272,
+          964
+        ],
+        [
+          237,
+          949
+        ],
+        [
+          199,
+          928
+        ],
+        [
+          166,
+          914
+        ],
+        [
+          143,
+          909
+        ],
+        [
+          136,
+          891
+        ]
+      ],
+      [
+        [
+          235,
+          834
+        ],
+        [
+          247,
+          832
+        ],
+        [
+          249,
+          852
+        ],
+        [
+          245,
+          866
+        ],
+        [
+          249,
+          878
+        ],
+        [
+          272,
+          909
+        ],
+        [
+          290,
+          922
+        ],
+        [
+          276,
+          920
+        ],
+        [
+          258,
+          909
+        ],
+        [
+          242,
+          892
+        ],
+        [
+          237,
+          875
+        ],
+        [
+          234,
+          861
+        ]
+      ],
+      [
+        [
+          350,
+          851
+        ],
+        [
+          362,
+          851
+        ],
+        [
+          368,
+          864
+        ],
+        [
+          364,
+          877
+        ],
+        [
+          363,
+          891
+        ],
+        [
+          374,
+          921
+        ],
+        [
+          387,
+          939
+        ],
+        [
+          405,
+          960
+        ],
+        [
+          417,
+          979
+        ],
+        [
+          420,
+          1003
+        ],
+        [
+          412,
+          996
+        ],
+        [
+          399,
+          977
+        ],
+        [
+          377,
+          957
+        ],
+        [
+          364,
+          945
+        ],
+        [
+          354,
+          923
+        ],
+        [
+          350,
+          902
+        ],
+        [
+          348,
+          884
+        ]
+      ],
+      [
+        [
+          123,
+          880
+        ],
+        [
+          151,
+          867
+        ],
+        [
+          177,
+          866
+        ],
+        [
+          206,
+          879
+        ],
+        [
+          226,
+          888
+        ],
+        [
+          252,
+          906
+        ],
+        [
+          280,
+          921
+        ],
+        [
+          316,
+          938
+        ],
+        [
+          349,
+          948
+        ],
+        [
+          381,
+          967
+        ],
+        [
+          403,
+          993
+        ],
+        [
+          420,
+          1020
+        ],
+        [
+          422,
+          1041
+        ],
+        [
+          397,
+          1029
+        ],
+        [
+          375,
+          1015
+        ],
+        [
+          344,
+          1004
+        ],
+        [
+          322,
+          998
+        ],
+        [
+          292,
+          982
+        ],
+        [
+          264,
+          966
+        ],
+        [
+          232,
+          948
+        ],
+        [
+          199,
+          933
+        ],
+        [
+          167,
+          920
+        ],
+        [
+          146,
+          912
+        ],
+        [
+          126,
+          912
+        ]
+      ],
+      [
+        [
+          354,
+          847
+        ],
+        [
+          365,
+          852
+        ],
+        [
+          370,
+          862
+        ],
+        [
+          369,
+          874
+        ],
+        [
+          362,
+          885
+        ],
+        [
+          363,
+          896
+        ],
+        [
+          369,
+          913
+        ],
+        [
+          378,
+          927
+        ],
+        [
+          392,
+          946
+        ],
+        [
+          394,
+          927
+        ],
+        [
+          403,
+          949
+        ],
+        [
+          404,
+          960
+        ],
+        [
+          417,
+          979
+        ],
+        [
+          419,
+          995
+        ],
+        [
+          422,
+          1032
+        ],
+        [
+          411,
+          1011
+        ],
+        [
+          402,
+          997
+        ],
+        [
+          388,
+          981
+        ],
+        [
+          368,
+          963
+        ],
+        [
+          355,
+          948
+        ],
+        [
+          346,
+          927
+        ],
+        [
+          341,
+          908
+        ],
+        [
+          341,
+          888
+        ],
+        [
+          344,
+          866
+        ]
+      ],
+      [
+        [
+          286,
+          861
+        ],
+        [
+          296,
+          858
+        ],
+        [
+          306,
+          861
+        ],
+        [
+          309,
+          868
+        ],
+        [
+          313,
+          879
+        ],
+        [
+          326,
+          892
+        ],
+        [
+          333,
+          906
+        ],
+        [
+          338,
+          919
+        ],
+        [
+          354,
+          934
+        ],
+        [
+          363,
+          949
+        ],
+        [
+          351,
+          955
+        ],
+        [
+          335,
+          943
+        ],
+        [
+          315,
+          926
+        ],
+        [
+          301,
+          908
+        ],
+        [
+          293,
+          892
+        ],
+        [
+          288,
+          875
+        ]
+      ],
+      [
+        [
+          235,
+          830
+        ],
+        [
+          245,
+          827
+        ],
+        [
+          254,
+          831
+        ],
+        [
+          257,
+          839
+        ],
+        [
+          251,
+          848
+        ],
+        [
+          247,
+          854
+        ],
+        [
+          249,
+          865
+        ],
+        [
+          257,
+          878
+        ],
+        [
+          269,
+          892
+        ],
+        [
+          282,
+          906
+        ],
+        [
+          296,
+          919
+        ],
+        [
+          283,
+          922
+        ],
+        [
+          268,
+          912
+        ],
+        [
+          253,
+          898
+        ],
+        [
+          240,
+          882
+        ],
+        [
+          231,
+          866
+        ],
+        [
+          227,
+          853
+        ],
+        [
+          228,
+          840
+        ]
+      ]
+    ],
+    "backgroundSourceDimensions": [
+      1067,
+      1600
+    ],
+    "backgroundCanvasDimensions": [
+      1600,
+      2400
+    ],
+    "generation": false,
+    "repainting": false,
+    "stretching": false,
+    "sourcePaperRemoved": true,
+    "visualReview": "PASS: full supplied source, actual-alpha checker, official400/full-size composition and detached pale anatomy inspected. Original RGB unchanged; all depicted specimens/log/section/mark retained without generation or repainting. Signature is faint but readable at400; no duplicate added. Source identity/rights remain unverified.",
+    "alphaPNGSHA256": "4ccbaf45ebfdd341120f52c694db0722eed5d10f34d1740f6a2f3b0ba45cc088",
+    "maskSHA256": "2b7c9beef95debd4dcea63a05ea7021a8d69c29ac295d380584072650df4cca8",
+    "recipeSHA256": "3a8d6c6d724ae951405c682208ae9dc8c550a801eaa64a9201de42c40001bc00",
+    "officialFiles": [
+      {
+        "path": "media/Hericium_americanum@1600.webp",
+        "bytes": 430752,
+        "sha256": "f0a421b0fe18538055da0816f3cc2df7e2f6105b68fceca9a2901bfd85f7ad27"
+      },
+      {
+        "path": "media/Hericium_americanum@400.webp",
+        "bytes": 54424,
+        "sha256": "88ba8470acd41f7c2f0b5aa578c6eefe149f0d474a29016101f5e21ffc98ccd5"
+      }
+    ]
+  }
 }
 ];
