@@ -859,7 +859,8 @@ export const TAXA = {
     sk: "kalichovkovité"
   },
   Squamanitaceae: {
-    rank: "family"
+    rank: "family",
+    sk: "parazitnicovité"
   },
   Phaeolepiota: {
     rank: "genus"
@@ -875,9 +876,11 @@ export const TAXA = {
   },
   Pluteaceae: {
     rank: "family",
-    lv: "jumteņu dzimta"
+    lv: "jumteņu dzimta",
+    sk: "štítovkovité"
   },
   Pluteus: {
-    rank: "genus"
+    rank: "genus",
+    sk: "štítovka"
   }
 };
