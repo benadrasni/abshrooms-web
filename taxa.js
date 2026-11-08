@@ -841,7 +841,33 @@ export const TAXA = {
     sk: "pošvovcovité"
   },
   Climacodon: {rank: "genus"},
-  Meruliaceae: {rank: "family", lv: "zeltporu dzimta"},
-  Infundibulicybe: {rank: "genus"},
-  Omphalinaceae: {rank: "family"}
+  Meruliaceae: {
+    rank: "family",
+    lv: "zeltporu dzimta",
+    sk: "žilnačkovité"
+  },
+  Infundibulicybe: {
+    rank: "genus",
+    sk: "strmuľka"
+  },
+  Omphalina: {
+    rank: "genus",
+    sk: "kalichovka"
+  },
+  Omphalinaceae: {
+    rank: "family",
+    sk: "kalichovkovité"
+  },
+  Squamanitaceae: {
+    rank: "family"
+  },
+  Phaeolepiota: {
+    rank: "genus"
+  },
+  Phlebiopsis: {
+    rank: "genus"
+  },
+  Desarmillaria: {
+    rank: "genus"
+  }
 };

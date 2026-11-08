@@ -126954,5 +126954,5722 @@ export const CATALOG = [
       "https://api.gbif.org/v1/species/221509758/verbatim"
     ]
   }
+},
+{
+  "latin": "Phaeolepiota aurea",
+  "id": 132,
+  "family": "Squamanitaceae",
+  "genus": "Phaeolepiota",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Agaricales",
+    "Squamanitaceae",
+    "Phaeolepiota"
+  ],
+  "capFrom": 5,
+  "capTo": 20,
+  "stipeHeightFrom": 8,
+  "stipeHeightTo": 20,
+  "stipeThickFrom": 1,
+  "stipeThickTo": 3,
+  "edibility": "poisonous",
+  "hymenium": "gills",
+  "where": [
+    "ground"
+  ],
+  "color": [
+    "yellow",
+    "brown"
+  ],
+  "fruitingFrom": 8,
+  "fruitingTo": 11,
+  "illustrationUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Squamanitaceae/Phaeolepiota_aurea/Phaeolepiota_aurea@1600.webp",
+  "photoUrls": [
+    "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Squamanitaceae/Phaeolepiota_aurea/pa1.webp",
+    "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Squamanitaceae/Phaeolepiota_aurea/pa2.webp",
+    "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Squamanitaceae/Phaeolepiota_aurea/pa3.webp",
+    "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Squamanitaceae/Phaeolepiota_aurea/pa4.webp",
+    "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Squamanitaceae/Phaeolepiota_aurea/pa5.webp"
+  ],
+  "label": {
+    "en": "golden bootleg",
+    "sk": "zrnuľa zlatá",
+    "cs": "bedlovnice zlatá",
+    "de": "Goldfarbener Glimmerschüppling",
+    "fr": "pholiote dorée",
+    "it": "fungo dei Pirenei",
+    "nl": "Goudhoed",
+    "fi": "kultasieni",
+    "sv": "gyllenskivling",
+    "no": "gullskjellsopp",
+    "da": "gyldenhat",
+    "ja": "コガネタケ",
+    "uk": "феолепіота золотиста",
+    "ko": "턱받이금버섯",
+    "lv": "zelta brūnsardzene",
+    "lt": "auksuotoji smulkiažvynė",
+    "pl": "aksamitkówka złota",
+    "sl": "bleščava luskarica",
+    "hr": "zlatna štitarka",
+    "zh": "金褐傘",
+    "hu": "szemcsés aranygomba",
+    "et": "kuldmampel"
+  },
+  "names": {
+    "en": [
+      "golden cap"
+    ],
+    "sk": [],
+    "cs": [
+      "šupinovka zlatá"
+    ],
+    "de": [],
+    "fr": [],
+    "it": [
+      "caciola"
+    ],
+    "nl": [],
+    "fi": [
+      "kultakehnäsieni"
+    ],
+    "sv": [],
+    "no": [],
+    "da": [],
+    "ja": [
+      "キナコタケ"
+    ],
+    "uk": [],
+    "ko": [],
+    "lv": [],
+    "lt": [],
+    "pl": [
+      "aksamitka złota"
+    ],
+    "sl": [],
+    "hr": [],
+    "zh": [
+      "皺蓋羅鱗傘"
+    ],
+    "hu": [],
+    "et": []
+  },
+  "sources": {
+    "en": [
+      "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+      "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+      "https://botany.cz/cs/phaeolepiota-aurea/",
+      "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+      "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+      "https://www.mycopedia.ch/pilze/5764.htm",
+      "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+      "https://www.gobe.si/Gobe/PhaeolepiotaAurea"
+    ],
+    "sk": [
+      "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+      "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+      "https://botany.cz/cs/phaeolepiota-aurea/",
+      "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+      "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+      "https://www.mycopedia.ch/pilze/5764.htm",
+      "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+      "https://www.gobe.si/Gobe/PhaeolepiotaAurea"
+    ],
+    "cs": [
+      "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+      "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+      "https://botany.cz/cs/phaeolepiota-aurea/",
+      "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+      "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+      "https://www.mycopedia.ch/pilze/5764.htm",
+      "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+      "https://www.gobe.si/Gobe/PhaeolepiotaAurea"
+    ],
+    "de": [
+      "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+      "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+      "https://botany.cz/cs/phaeolepiota-aurea/",
+      "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+      "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+      "https://www.mycopedia.ch/pilze/5764.htm",
+      "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+      "https://www.gobe.si/Gobe/PhaeolepiotaAurea",
+      "https://de.wikipedia.org/wiki/Goldfarbener_Glimmersch%C3%BCppling"
+    ],
+    "fr": [
+      "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+      "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+      "https://botany.cz/cs/phaeolepiota-aurea/",
+      "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+      "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+      "https://www.mycopedia.ch/pilze/5764.htm",
+      "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+      "https://www.gobe.si/Gobe/PhaeolepiotaAurea"
+    ],
+    "es": [
+      "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+      "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+      "https://botany.cz/cs/phaeolepiota-aurea/",
+      "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+      "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+      "https://www.mycopedia.ch/pilze/5764.htm",
+      "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+      "https://www.gobe.si/Gobe/PhaeolepiotaAurea"
+    ],
+    "it": [
+      "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+      "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+      "https://botany.cz/cs/phaeolepiota-aurea/",
+      "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+      "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+      "https://www.mycopedia.ch/pilze/5764.htm",
+      "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+      "https://www.gobe.si/Gobe/PhaeolepiotaAurea",
+      "https://valsanagra.it/inventario/fungo-dei-pirenei/"
+    ],
+    "pt": [
+      "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+      "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+      "https://botany.cz/cs/phaeolepiota-aurea/",
+      "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+      "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+      "https://www.mycopedia.ch/pilze/5764.htm",
+      "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+      "https://www.gobe.si/Gobe/PhaeolepiotaAurea"
+    ],
+    "nl": [
+      "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+      "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+      "https://botany.cz/cs/phaeolepiota-aurea/",
+      "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+      "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+      "https://www.mycopedia.ch/pilze/5764.htm",
+      "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+      "https://www.gobe.si/Gobe/PhaeolepiotaAurea",
+      "https://www.verspreidingsatlas.nl/0107010"
+    ],
+    "pl": [
+      "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+      "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+      "https://botany.cz/cs/phaeolepiota-aurea/",
+      "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+      "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+      "https://www.mycopedia.ch/pilze/5764.htm",
+      "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+      "https://www.gobe.si/Gobe/PhaeolepiotaAurea",
+      "https://pl.wikipedia.org/wiki/Aksamitk%C3%B3wka_z%C5%82ota"
+    ],
+    "ru": [
+      "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+      "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+      "https://botany.cz/cs/phaeolepiota-aurea/",
+      "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+      "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+      "https://www.mycopedia.ch/pilze/5764.htm",
+      "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+      "https://www.gobe.si/Gobe/PhaeolepiotaAurea"
+    ],
+    "uk": [
+      "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+      "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+      "https://botany.cz/cs/phaeolepiota-aurea/",
+      "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+      "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+      "https://www.mycopedia.ch/pilze/5764.htm",
+      "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+      "https://www.gobe.si/Gobe/PhaeolepiotaAurea",
+      "https://api.gbif.org/v1/species/2535253/vernacularNames?limit=1000"
+    ],
+    "bg": [
+      "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+      "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+      "https://botany.cz/cs/phaeolepiota-aurea/",
+      "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+      "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+      "https://www.mycopedia.ch/pilze/5764.htm",
+      "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+      "https://www.gobe.si/Gobe/PhaeolepiotaAurea"
+    ],
+    "hr": [
+      "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+      "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+      "https://botany.cz/cs/phaeolepiota-aurea/",
+      "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+      "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+      "https://www.mycopedia.ch/pilze/5764.htm",
+      "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+      "https://www.gobe.si/Gobe/PhaeolepiotaAurea",
+      "https://hr.wikipedia.org/wiki/Zlatna_%C5%A1titarka"
+    ],
+    "sr": [
+      "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+      "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+      "https://botany.cz/cs/phaeolepiota-aurea/",
+      "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+      "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+      "https://www.mycopedia.ch/pilze/5764.htm",
+      "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+      "https://www.gobe.si/Gobe/PhaeolepiotaAurea"
+    ],
+    "sl": [
+      "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+      "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+      "https://botany.cz/cs/phaeolepiota-aurea/",
+      "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+      "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+      "https://www.mycopedia.ch/pilze/5764.htm",
+      "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+      "https://www.gobe.si/Gobe/PhaeolepiotaAurea"
+    ],
+    "ro": [
+      "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+      "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+      "https://botany.cz/cs/phaeolepiota-aurea/",
+      "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+      "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+      "https://www.mycopedia.ch/pilze/5764.htm",
+      "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+      "https://www.gobe.si/Gobe/PhaeolepiotaAurea"
+    ],
+    "hu": [
+      "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+      "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+      "https://botany.cz/cs/phaeolepiota-aurea/",
+      "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+      "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+      "https://www.mycopedia.ch/pilze/5764.htm",
+      "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+      "https://www.gobe.si/Gobe/PhaeolepiotaAurea",
+      "https://gombaszaki.hu/wp-content/uploads/2020/02/Gombanevjegyzek_2017.04.26_lm_ml_gsz_nyb.pdf"
+    ],
+    "da": [
+      "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+      "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+      "https://botany.cz/cs/phaeolepiota-aurea/",
+      "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+      "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+      "https://www.mycopedia.ch/pilze/5764.htm",
+      "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+      "https://www.gobe.si/Gobe/PhaeolepiotaAurea",
+      "https://api.gbif.org/v1/species/2535253/vernacularNames?limit=1000"
+    ],
+    "no": [
+      "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+      "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+      "https://botany.cz/cs/phaeolepiota-aurea/",
+      "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+      "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+      "https://www.mycopedia.ch/pilze/5764.htm",
+      "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+      "https://www.gobe.si/Gobe/PhaeolepiotaAurea",
+      "https://no.wikipedia.org/wiki/Gullskjellsopp",
+      "https://elurikkus.ee/app/taxonomy/taxon/164378"
+    ],
+    "sv": [
+      "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+      "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+      "https://botany.cz/cs/phaeolepiota-aurea/",
+      "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+      "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+      "https://www.mycopedia.ch/pilze/5764.htm",
+      "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+      "https://www.gobe.si/Gobe/PhaeolepiotaAurea",
+      "https://sv.wikipedia.org/wiki/Gyllenskivling"
+    ],
+    "fi": [
+      "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+      "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+      "https://botany.cz/cs/phaeolepiota-aurea/",
+      "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+      "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+      "https://www.mycopedia.ch/pilze/5764.htm",
+      "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+      "https://www.gobe.si/Gobe/PhaeolepiotaAurea",
+      "https://fi.wikipedia.org/wiki/Kultasieni"
+    ],
+    "et": [
+      "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+      "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+      "https://botany.cz/cs/phaeolepiota-aurea/",
+      "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+      "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+      "https://www.mycopedia.ch/pilze/5764.htm",
+      "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+      "https://www.gobe.si/Gobe/PhaeolepiotaAurea",
+      "https://elurikkus.ee/app/taxonomy/taxon/164378"
+    ],
+    "lv": [
+      "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+      "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+      "https://botany.cz/cs/phaeolepiota-aurea/",
+      "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+      "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+      "https://www.mycopedia.ch/pilze/5764.htm",
+      "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+      "https://www.gobe.si/Gobe/PhaeolepiotaAurea"
+    ],
+    "lt": [
+      "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+      "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+      "https://botany.cz/cs/phaeolepiota-aurea/",
+      "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+      "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+      "https://www.mycopedia.ch/pilze/5764.htm",
+      "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+      "https://www.gobe.si/Gobe/PhaeolepiotaAurea",
+      "https://lt.wikipedia.org/wiki/Auksuotoji_smulkia%C5%BEvyn%C4%97"
+    ],
+    "tr": [
+      "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+      "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+      "https://botany.cz/cs/phaeolepiota-aurea/",
+      "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+      "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+      "https://www.mycopedia.ch/pilze/5764.htm",
+      "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+      "https://www.gobe.si/Gobe/PhaeolepiotaAurea"
+    ],
+    "id": [
+      "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+      "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+      "https://botany.cz/cs/phaeolepiota-aurea/",
+      "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+      "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+      "https://www.mycopedia.ch/pilze/5764.htm",
+      "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+      "https://www.gobe.si/Gobe/PhaeolepiotaAurea"
+    ],
+    "zh": [
+      "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+      "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+      "https://botany.cz/cs/phaeolepiota-aurea/",
+      "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+      "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+      "https://www.mycopedia.ch/pilze/5764.htm",
+      "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+      "https://www.gobe.si/Gobe/PhaeolepiotaAurea",
+      "https://taieol.tw/pages/145201"
+    ],
+    "ja": [
+      "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+      "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+      "https://botany.cz/cs/phaeolepiota-aurea/",
+      "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+      "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+      "https://www.mycopedia.ch/pilze/5764.htm",
+      "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+      "https://www.gobe.si/Gobe/PhaeolepiotaAurea",
+      "https://api.gbif.org/v1/species/2535253/vernacularNames?limit=1000"
+    ],
+    "ko": [
+      "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+      "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+      "https://botany.cz/cs/phaeolepiota-aurea/",
+      "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+      "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+      "https://www.mycopedia.ch/pilze/5764.htm",
+      "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+      "https://www.gobe.si/Gobe/PhaeolepiotaAurea",
+      "https://www.nihhs.go.kr/mushroom/psnMush/content0109.do"
+    ],
+    "hi": [
+      "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+      "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+      "https://botany.cz/cs/phaeolepiota-aurea/",
+      "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+      "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+      "https://www.mycopedia.ch/pilze/5764.htm",
+      "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+      "https://www.gobe.si/Gobe/PhaeolepiotaAurea"
+    ],
+    "he": [
+      "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+      "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+      "https://botany.cz/cs/phaeolepiota-aurea/",
+      "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+      "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+      "https://www.mycopedia.ch/pilze/5764.htm",
+      "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+      "https://www.gobe.si/Gobe/PhaeolepiotaAurea"
+    ],
+    "ar": [
+      "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+      "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+      "https://botany.cz/cs/phaeolepiota-aurea/",
+      "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+      "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+      "https://www.mycopedia.ch/pilze/5764.htm",
+      "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+      "https://www.gobe.si/Gobe/PhaeolepiotaAurea"
+    ],
+    "fa": [
+      "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+      "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+      "https://botany.cz/cs/phaeolepiota-aurea/",
+      "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+      "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+      "https://www.mycopedia.ch/pilze/5764.htm",
+      "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+      "https://www.gobe.si/Gobe/PhaeolepiotaAurea"
+    ]
+  },
+  "text": {
+    "en": {
+      "description": "A large, gregarious, soil-inhabiting mushroom distributed across Eurasia and North America. It occurs especially in nutrient-rich, disturbed places, sometimes producing conspicuous groups or fairy rings. Its local abundance varies markedly, and in some regions it is uncommon.",
+      "cap": "The cap is 5–20 cm wide, exceptionally 30 cm, initially rounded, becoming broadly convex or nearly flat, sometimes with a low umbo. It is dry, golden yellow to orange-brown, finely granular, with veil fragments often fringing the margin.",
+      "hymenium": "The crowded gills are pale cream to yellowish, becoming ochre-brown. Attachment is described as nearly free to attached, sometimes with a short decurrent tooth. Basidia are four-spored; hymenial cystidia are absent.",
+      "stipe": "The solid stipe is 8–20 cm long and 1–3 cm thick, cylindrical to club-shaped. A substantial membranous ring persists; above it the surface is pale and smooth, below it golden-brown, granular and longitudinally wrinkled.",
+      "flesh": "The firm flesh is whitish to pale yellow and can yellow or darken after cutting, especially in the stipe. Odour varies from faint to aromatic or bitter-almond-like.",
+      "sporePrint": "The spore print is ochre to light yellow-brown. Spores are narrowly ellipsoidal to spindle-shaped, smooth to minutely roughened, inamyloid, 10–14 × 5–6 µm.",
+      "habitat": "A soil and litter saprotroph, growing in groups on nitrogen-rich ground in parks, gardens, woodland edges and roadsides, often among nettles. European fruiting is chiefly August–November.",
+      "uses": "Poisonous: do not eat. Severe vomiting and diarrhoea have been reported. It contains cyanide compounds; cooking does not reliably make it safe. The precise contribution of cyanide to the reported gastrointestinal poisonings remains uncertain.",
+      "confusion": "Gymnopilus junonius grows on wood, has a scaly rather than granular cap and darker spores. Cystoderma amianthinum is much smaller.",
+      "notes": "The fruit bodies can accumulate cadmium. Older reports of edibility conflict with documented poisonings and must not be treated as evidence of safety.",
+      "names": [
+        "golden cap"
+      ],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+        "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+        "https://botany.cz/cs/phaeolepiota-aurea/",
+        "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+        "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+        "https://www.mycopedia.ch/pilze/5764.htm",
+        "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+        "https://www.gobe.si/Gobe/PhaeolepiotaAurea"
+      ],
+      "label": "golden bootleg"
+    },
+    "sk": {
+      "description": "Veľká saprotrofná huba rastúca na pôde v skupinách, rozšírená v Eurázii a Severnej Amerike. Vyskytuje sa najmä na živinami bohatých, narušených miestach, kde niekedy tvorí nápadné skupiny alebo čarovné kruhy. Jej početnosť sa výrazne líši a v niektorých oblastiach je vzácna.",
+      "cap": "Klobúk má priemer 5–20 cm, výnimočne 30 cm, spočiatku je zaoblený, neskôr široko klenutý až takmer plochý, niekedy s nízkym hrboľom. Je suchý, zlatožltý až oranžovohnedý, jemne zrnitý, na okraji často so zvyškami závoja.",
+      "hymenium": "Husté lupene sú bledokrémové až žltkasté, neskôr okrovohnedé. Ich pripojenie sa opisuje ako takmer voľné až prirastené, niekedy s krátkym zbiehavým zúbkom. Bazídiá sú štvorvýtrusné; hymeniálne cystidy chýbajú.",
+      "stipe": "Plný hlúbik je dlhý 8–20 cm a hrubý 1–3 cm, valcovitý až kyjakovitý. Výrazný blanitý prsteň pretrváva; nad ním je povrch bledý a hladký, pod ním zlatohnedý, zrnitý a pozdĺžne vrásčitý.",
+      "flesh": "Pevná dužina je belavá až bledožltá a po rozrezaní môže žltnúť alebo tmavnúť, najmä v hlúbiku. Vôňa je nevýrazná až aromatická alebo pripomína horké mandle.",
+      "sporePrint": "Výtrusný prach je okrový až svetložltohnedý. Výtrusy sú úzko elipsoidné až vretenovité, hladké až jemne drsné, neamyloidné, 10–14 × 5–6 µm.",
+      "habitat": "Pôdny a opadový saprotrof rastúci v skupinách na dusíkom bohatej pôde v parkoch, záhradách, na okrajoch lesov a ciest, často medzi žihľavou. V Európe plodí najmä od augusta do novembra.",
+      "uses": "Jedovatá: nekonzumovať. Boli zaznamenané prudké vracanie a hnačky. Obsahuje kyanidové zlúčeniny; tepelná úprava nezaručuje bezpečnosť. Presný podiel kyanidu na zaznamenaných tráviacich otravách zostáva neistý.",
+      "confusion": "Gymnopilus junonius rastie na dreve, má šupinatý, nie zrnitý klobúk a tmavšie výtrusy. Cystoderma amianthinum je oveľa menšia.",
+      "notes": "Plodnice môžu hromadiť kadmium. Staršie údaje o jedlosti odporujú doloženým otravám a nemožno ich považovať za dôkaz bezpečnosti.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+        "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+        "https://botany.cz/cs/phaeolepiota-aurea/",
+        "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+        "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+        "https://www.mycopedia.ch/pilze/5764.htm",
+        "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+        "https://www.gobe.si/Gobe/PhaeolepiotaAurea"
+      ],
+      "label": "zrnuľa zlatá"
+    },
+    "cs": {
+      "description": "Velká houba rostoucí ve skupinách na půdě, rozšířená v Eurasii a Severní Americe. Vyskytuje se především na živinami bohatých, narušených místech, někdy v nápadných skupinách nebo čarodějných kruzích. Její místní hojnost výrazně kolísá a v některých oblastech je vzácná.",
+      "cap": "Klobouk je široký 5–20 cm, výjimečně 30 cm, zprvu zaoblený, později široce vyklenutý až téměř plochý, někdy s nízkým hrbolem. Je suchý, zlatožlutý až oranžovohnědý, jemně zrnitý, na okraji často se zbytky závoje.",
+      "hymenium": "Husté lupeny jsou světle krémové až nažloutlé, později okrově hnědé. Připojení se popisuje jako téměř volné až přirostlé, někdy s krátkým sbíhavým zoubkem. Bazidie jsou čtyřvýtrusé; hymeniální cystidy chybějí.",
+      "stipe": "Plný třeň je dlouhý 8–20 cm a tlustý 1–3 cm, válcovitý až kyjovitý. Výrazný blanitý prsten přetrvává; nad ním je povrch bledý a hladký, pod ním zlatohnědý, zrnitý a podélně vrásčitý.",
+      "flesh": "Pevná dužnina je bělavá až světle žlutá a po rozříznutí může žloutnout nebo tmavnout, zejména ve třeni. Vůně je nevýrazná až aromatická nebo připomíná hořké mandle.",
+      "sporePrint": "Výtrusný prach je okrový až světle žlutohnědý. Výtrusy jsou úzce elipsoidní až vřetenovité, hladké až jemně drsné, neamyloidní, 10–14 × 5–6 µm.",
+      "habitat": "Půdní a opadový saprotrof rostoucí ve skupinách na dusíkem bohaté půdě v parcích, zahradách, na okrajích lesů a cest, často mezi kopřivami. V Evropě plodí především od srpna do listopadu.",
+      "uses": "Jedovatá: nekonzumovat. Byly zaznamenány prudké zvracení a průjmy. Obsahuje kyanidové sloučeniny; tepelná úprava nezaručuje bezpečnost. Přesný podíl kyanidu na zaznamenaných zažívacích otravách zůstává nejistý.",
+      "confusion": "Gymnopilus junonius roste na dřevě, má šupinatý, nikoli zrnitý klobouk a tmavší výtrusy. Cystoderma amianthinum je mnohem menší.",
+      "notes": "Plodnice mohou hromadit kadmium. Starší údaje o jedlosti odporují doloženým otravám a nelze je považovat za důkaz bezpečnosti.",
+      "names": [
+        "šupinovka zlatá"
+      ],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+        "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+        "https://botany.cz/cs/phaeolepiota-aurea/",
+        "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+        "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+        "https://www.mycopedia.ch/pilze/5764.htm",
+        "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+        "https://www.gobe.si/Gobe/PhaeolepiotaAurea"
+      ],
+      "label": "bedlovnice zlatá"
+    },
+    "de": {
+      "description": "Ein großer, gesellig auf Erde wachsender Pilz, der in Eurasien und Nordamerika verbreitet ist. Er besiedelt besonders nährstoffreiche, gestörte Standorte und bildet mitunter auffällige Gruppen oder Hexenringe. Seine örtliche Häufigkeit schwankt stark; in manchen Regionen ist er selten.",
+      "cap": "Der Hut ist 5–20 cm breit, ausnahmsweise 30 cm, anfangs rundlich, später breit gewölbt bis fast flach, manchmal mit niedrigem Buckel. Er ist trocken, goldgelb bis orangebraun und feinkörnig; am Rand hängen oft Velumreste.",
+      "hymenium": "Die dicht stehenden Lamellen sind blass cremefarben bis gelblich, später ockerbraun. Ihr Ansatz wird als fast frei bis angewachsen beschrieben, teils mit kurzem herablaufendem Zahn. Die Basidien sind viersporig; Hymenialzystiden fehlen.",
+      "stipe": "Der volle Stiel ist 8–20 cm lang und 1–3 cm dick, zylindrisch bis keulig. Ein kräftiger häutiger Ring bleibt erhalten; darüber ist die Oberfläche blass und glatt, darunter goldbraun, körnig und längsrunzelig.",
+      "flesh": "Das feste Fleisch ist weißlich bis blassgelb und kann nach dem Anschneiden besonders im Stiel gilben oder nachdunkeln. Der Geruch reicht von schwach bis aromatisch oder bittermandelartig.",
+      "sporePrint": "Das Sporenpulver ist ockerfarben bis hell gelbbraun. Die Sporen sind schmal ellipsoid bis spindelförmig, glatt bis fein rau, inamyloid und 10–14 × 5–6 µm groß.",
+      "habitat": "Ein Boden- und Streusaprotroph, der gesellig auf stickstoffreichen Böden in Parks, Gärten, an Waldrändern und Straßenrändern wächst, oft zwischen Brennnesseln. In Europa erscheinen die Fruchtkörper vorwiegend von August bis November.",
+      "uses": "Giftig: nicht essen. Heftiges Erbrechen und Durchfall wurden dokumentiert. Er enthält Cyanidverbindungen; Kochen macht ihn nicht zuverlässig unschädlich. Der genaue Anteil des Cyanids an den berichteten Magen-Darm-Vergiftungen ist weiterhin unklar.",
+      "confusion": "Gymnopilus junonius wächst auf Holz, besitzt einen schuppigen statt körnigen Hut und dunklere Sporen. Cystoderma amianthinum ist wesentlich kleiner.",
+      "notes": "Die Fruchtkörper können Cadmium anreichern. Ältere Angaben zur Essbarkeit widersprechen dokumentierten Vergiftungen und sind kein Beleg für Unbedenklichkeit.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+        "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+        "https://botany.cz/cs/phaeolepiota-aurea/",
+        "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+        "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+        "https://www.mycopedia.ch/pilze/5764.htm",
+        "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+        "https://www.gobe.si/Gobe/PhaeolepiotaAurea",
+        "https://de.wikipedia.org/wiki/Goldfarbener_Glimmersch%C3%BCppling"
+      ],
+      "label": "Goldfarbener Glimmerschüppling"
+    },
+    "fr": {
+      "description": "Un grand champignon terrestre grégaire, répandu en Eurasie et en Amérique du Nord. Il occupe surtout des sites perturbés riches en nutriments et forme parfois des groupes spectaculaires ou des ronds de sorcières. Son abondance locale varie fortement et il est peu commun dans certaines régions.",
+      "cap": "Le chapeau mesure 5–20 cm de diamètre, exceptionnellement 30 cm, d'abord arrondi, puis largement convexe ou presque plat, parfois à petit mamelon. Sec, jaune doré à brun orangé et finement granuleux, il porte souvent des fragments de voile à la marge.",
+      "hymenium": "Les lames serrées sont crème pâle à jaunâtres, puis brun ochracé. Leur insertion est décrite comme presque libre à adnée, parfois avec une courte dent décurrente. Les basides sont tétrasporiques ; les cystides hyméniales sont absentes.",
+      "stipe": "Le pied plein mesure 8–20 cm de haut et 1–3 cm d'épaisseur, cylindrique à clavé. Un ample anneau membraneux persiste ; au-dessus, la surface est pâle et lisse, au-dessous brun doré, granuleuse et ridée longitudinalement.",
+      "flesh": "La chair ferme, blanchâtre à jaune pâle, peut jaunir ou foncer à la coupe, surtout dans le pied. L'odeur varie de faible à aromatique ou évoquant l'amande amère.",
+      "sporePrint": "La sporée est ocre à brun-jaune clair. Les spores, étroitement ellipsoïdales à fusiformes, lisses à finement rugueuses et non amyloïdes, mesurent 10–14 × 5–6 µm.",
+      "habitat": "Saprotrophe du sol et de la litière, poussant en groupes sur des terrains riches en azote dans les parcs, jardins, lisières et bords de routes, souvent parmi les orties. En Europe, il fructifie surtout d'août à novembre.",
+      "uses": "Toxique : ne pas consommer. Des vomissements et diarrhées violents ont été signalés. Il contient des composés cyanurés ; la cuisson ne le rend pas sûrement inoffensif. Le rôle précis du cyanure dans les intoxications digestives rapportées reste incertain.",
+      "confusion": "Gymnopilus junonius pousse sur le bois, possède un chapeau écailleux plutôt que granuleux et des spores plus foncées. Cystoderma amianthinum est beaucoup plus petit.",
+      "notes": "Les fructifications peuvent accumuler du cadmium. Les anciennes mentions de comestibilité contredisent des intoxications documentées et ne constituent pas une preuve d'innocuité.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+        "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+        "https://botany.cz/cs/phaeolepiota-aurea/",
+        "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+        "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+        "https://www.mycopedia.ch/pilze/5764.htm",
+        "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+        "https://www.gobe.si/Gobe/PhaeolepiotaAurea"
+      ],
+      "label": "pholiote dorée"
+    },
+    "es": {
+      "description": "Un hongo terrestre grande y gregario, distribuido por Eurasia y Norteamérica. Aparece especialmente en lugares alterados ricos en nutrientes, formando a veces grupos llamativos o corros de brujas. Su abundancia local varía mucho y en algunas regiones es poco común.",
+      "cap": "El sombrero mide 5–20 cm de diámetro, excepcionalmente 30 cm; al principio es redondeado, después ampliamente convexo o casi plano, a veces con un mamelón bajo. Es seco, amarillo dorado a pardo anaranjado, finamente granuloso y suele conservar restos del velo en el margen.",
+      "hymenium": "Las láminas apretadas son crema pálido a amarillentas, después pardo ocráceo. Su inserción se describe como casi libre a adherida, a veces con un corto diente decurrente. Los basidios son tetraspóricos; faltan cistidios himeniales.",
+      "stipe": "El pie macizo mide 8–20 cm de largo y 1–3 cm de grosor, cilíndrico a claviforme. Persiste un amplio anillo membranoso; por encima la superficie es pálida y lisa, por debajo pardo dorado, granulosa y arrugada longitudinalmente.",
+      "flesh": "La carne firme es blanquecina a amarillo pálido y puede amarillear u oscurecer al corte, sobre todo en el pie. El olor varía de débil a aromático o semejante a almendras amargas.",
+      "sporePrint": "La esporada es ocre a pardo amarillento claro. Las esporas son estrechamente elipsoidales a fusiformes, lisas a finamente rugosas, inamiloides, de 10–14 × 5–6 µm.",
+      "habitat": "Saprótrofo del suelo y la hojarasca, crece en grupos sobre terrenos ricos en nitrógeno en parques, jardines, lindes forestales y márgenes de caminos, a menudo entre ortigas. En Europa fructifica principalmente de agosto a noviembre.",
+      "uses": "Tóxica: no consumir. Se han registrado vómitos y diarreas intensos. Contiene compuestos de cianuro; cocinarla no garantiza su seguridad. La contribución exacta del cianuro a las intoxicaciones gastrointestinales descritas sigue siendo incierta.",
+      "confusion": "Gymnopilus junonius crece en madera, tiene un sombrero escamoso en vez de granuloso y esporas más oscuras. Cystoderma amianthinum es mucho más pequeño.",
+      "notes": "Los cuerpos fructíferos pueden acumular cadmio. Las antiguas afirmaciones de comestibilidad contradicen intoxicaciones documentadas y no demuestran que sea segura.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+        "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+        "https://botany.cz/cs/phaeolepiota-aurea/",
+        "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+        "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+        "https://www.mycopedia.ch/pilze/5764.htm",
+        "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+        "https://www.gobe.si/Gobe/PhaeolepiotaAurea"
+      ]
+    },
+    "it": {
+      "description": "Un grande fungo terricolo gregario, diffuso in Eurasia e Nordamerica. Compare soprattutto in luoghi disturbati ricchi di nutrienti, talvolta formando gruppi vistosi o cerchi delle streghe. L'abbondanza locale varia notevolmente e in alcune regioni è poco comune.",
+      "cap": "Il cappello misura 5–20 cm, eccezionalmente 30 cm, dapprima arrotondato, poi largamente convesso o quasi piano, talvolta con un basso umbone. È asciutto, giallo dorato a bruno aranciato, finemente granuloso, spesso con resti di velo al margine.",
+      "hymenium": "Le lamelle fitte sono crema pallido a giallastre, poi bruno ocraceo. L'inserzione è descritta da quasi libera ad adnata, talvolta con un breve dentino decorrente. I basidi sono tetrasporici; i cistidi imeniali sono assenti.",
+      "stipe": "Il gambo pieno misura 8–20 cm di lunghezza e 1–3 cm di spessore, cilindrico a clavato. Persiste un ampio anello membranoso; sopra la superficie è pallida e liscia, sotto bruno dorato, granulosa e rugosa longitudinalmente.",
+      "flesh": "La carne soda è biancastra a giallo pallido e può ingiallire o scurire al taglio, soprattutto nel gambo. L'odore varia da debole ad aromatico o simile a mandorle amare.",
+      "sporePrint": "L'impronta sporale è ocra a bruno-giallo chiaro. Le spore sono strettamente ellissoidali a fusiformi, lisce a finemente ruvide, inamiloidi, di 10–14 × 5–6 µm.",
+      "habitat": "Saprotrofo del suolo e della lettiera, cresce in gruppi su terreni ricchi di azoto in parchi, giardini, margini boschivi e stradali, spesso fra le ortiche. In Europa fruttifica soprattutto da agosto a novembre.",
+      "uses": "Velenoso: non consumare. Sono stati segnalati vomito e diarrea violenti. Contiene composti del cianuro; la cottura non lo rende sicuramente innocuo. Il contributo preciso del cianuro alle intossicazioni gastrointestinali documentate resta incerto.",
+      "confusion": "Gymnopilus junonius cresce sul legno, ha un cappello squamoso anziché granuloso e spore più scure. Cystoderma amianthinum è molto più piccolo.",
+      "notes": "I corpi fruttiferi possono accumulare cadmio. Le vecchie indicazioni di commestibilità contrastano con intossicazioni documentate e non dimostrano la sicurezza alimentare.",
+      "names": [
+        "caciola"
+      ],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+        "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+        "https://botany.cz/cs/phaeolepiota-aurea/",
+        "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+        "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+        "https://www.mycopedia.ch/pilze/5764.htm",
+        "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+        "https://www.gobe.si/Gobe/PhaeolepiotaAurea",
+        "https://valsanagra.it/inventario/fungo-dei-pirenei/"
+      ],
+      "label": "fungo dei Pirenei"
+    },
+    "pt": {
+      "description": "Um cogumelo terrestre grande e gregário, distribuído pela Eurásia e América do Norte. Ocorre sobretudo em locais perturbados ricos em nutrientes, formando por vezes grupos vistosos ou anéis de fadas. A abundância local varia muito e nalgumas regiões é pouco comum.",
+      "cap": "O chapéu mede 5–20 cm de largura, excecionalmente 30 cm, inicialmente arredondado, depois amplamente convexo ou quase plano, por vezes com um pequeno mamelão. É seco, amarelo-dourado a castanho-alaranjado, finamente granuloso, frequentemente com restos de véu na margem.",
+      "hymenium": "As lamelas apertadas são creme-pálido a amareladas, tornando-se castanho-ocráceas. A inserção é descrita como quase livre a aderente, por vezes com um curto dente decorrente. Os basídios são tetraspóricos; faltam cistídios himeniais.",
+      "stipe": "O pé maciço mede 8–20 cm de comprimento e 1–3 cm de espessura, cilíndrico a claviforme. Persiste um anel membranoso amplo; acima dele a superfície é pálida e lisa, abaixo castanho-dourada, granulosa e longitudinalmente enrugada.",
+      "flesh": "A carne firme é esbranquiçada a amarelo-pálida e pode amarelecer ou escurecer ao corte, sobretudo no pé. O cheiro varia de fraco a aromático ou semelhante a amêndoas amargas.",
+      "sporePrint": "A impressão esporal é ocre a castanho-amarelada clara. Os esporos são estreitamente elipsoidais a fusiformes, lisos a finamente rugosos, inamiloides, com 10–14 × 5–6 µm.",
+      "habitat": "Saprotrofo do solo e da folhada, cresce em grupos em terrenos ricos em azoto, em parques, jardins, orlas de bosques e bermas de estradas, muitas vezes entre urtigas. Na Europa frutifica principalmente de agosto a novembro.",
+      "uses": "Venenoso: não consumir. Foram registados vómitos e diarreia intensos. Contém compostos de cianeto; cozinhar não garante a segurança. A contribuição exata do cianeto para as intoxicações gastrointestinais registadas permanece incerta.",
+      "confusion": "Gymnopilus junonius cresce em madeira, tem chapéu escamoso em vez de granuloso e esporos mais escuros. Cystoderma amianthinum é muito mais pequeno.",
+      "notes": "Os corpos frutíferos podem acumular cádmio. As antigas indicações de comestibilidade contradizem intoxicações documentadas e não constituem prova de segurança.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+        "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+        "https://botany.cz/cs/phaeolepiota-aurea/",
+        "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+        "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+        "https://www.mycopedia.ch/pilze/5764.htm",
+        "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+        "https://www.gobe.si/Gobe/PhaeolepiotaAurea"
+      ]
+    },
+    "nl": {
+      "description": "Een grote, groepsgewijs op de grond groeiende paddenstoel, verspreid over Eurazië en Noord-Amerika. Hij komt vooral voor op voedselrijke, verstoorde plekken en vormt soms opvallende groepen of heksenkringen. De plaatselijke talrijkheid wisselt sterk; in sommige gebieden is hij zeldzaam.",
+      "cap": "De hoed is 5–20 cm breed, bij uitzondering 30 cm, eerst afgerond, later breed gewelfd of vrijwel vlak, soms met een lage bult. Hij is droog, goudgeel tot oranjebruin en fijnkorrelig, vaak met velumresten langs de rand.",
+      "hymenium": "De dicht opeenstaande plaatjes zijn bleekcrème tot geelachtig en worden okerbruin. De aanhechting wordt omschreven als bijna vrij tot aangehecht, soms met een kort aflopend tandje. De basidiën zijn viersporig; hymeniale cystiden ontbreken.",
+      "stipe": "De volle steel is 8–20 cm lang en 1–3 cm dik, cilindrisch tot knotsvormig. Een forse vliezige ring blijft aanwezig; erboven is het oppervlak bleek en glad, eronder goudbruin, korrelig en overlangs gerimpeld.",
+      "flesh": "Het stevige vlees is witachtig tot bleekgeel en kan na doorsnijden vergelen of donkerder worden, vooral in de steel. De geur varieert van zwak tot aromatisch of bitteramandelachtig.",
+      "sporePrint": "De sporenprint is oker tot licht geelbruin. De sporen zijn smal ellipsoïd tot spoelvormig, glad tot fijn ruw, inamyloïd en 10–14 × 5–6 µm groot.",
+      "habitat": "Een bodem- en strooiselsaprotroof, die groepsgewijs groeit op stikstofrijke grond in parken, tuinen, bosranden en wegbermen, vaak tussen brandnetels. In Europa verschijnen de vruchtlichamen vooral van augustus tot november.",
+      "uses": "Giftig: niet eten. Hevig braken en diarree zijn gemeld. Hij bevat cyanideverbindingen; koken maakt hem niet betrouwbaar veilig. De precieze bijdrage van cyanide aan de gemelde maag-darmvergiftigingen blijft onzeker.",
+      "confusion": "Gymnopilus junonius groeit op hout, heeft een schubbige in plaats van korrelige hoed en donkerdere sporen. Cystoderma amianthinum is veel kleiner.",
+      "notes": "De vruchtlichamen kunnen cadmium ophopen. Oudere vermeldingen van eetbaarheid spreken gedocumenteerde vergiftigingen tegen en bewijzen geen veiligheid.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+        "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+        "https://botany.cz/cs/phaeolepiota-aurea/",
+        "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+        "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+        "https://www.mycopedia.ch/pilze/5764.htm",
+        "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+        "https://www.gobe.si/Gobe/PhaeolepiotaAurea",
+        "https://www.verspreidingsatlas.nl/0107010"
+      ],
+      "label": "Goudhoed"
+    },
+    "pl": {
+      "description": "Duży grzyb naziemny, rosnący gromadnie, występujący w Eurazji i Ameryce Północnej. Zasiedla zwłaszcza miejsca zaburzone, bogate w składniki odżywcze, czasem tworząc okazałe grupy lub czarcie kręgi. Jego miejscowa liczebność znacznie się różni, a w niektórych regionach jest rzadki.",
+      "cap": "Kapelusz ma szerokość 5–20 cm, wyjątkowo 30 cm, początkowo jest zaokrąglony, później szeroko wypukły lub niemal płaski, czasem z niskim garbkiem. Jest suchy, złotożółty do pomarańczowobrązowego, drobno ziarnisty, często z resztkami osłony na brzegu.",
+      "hymenium": "Gęste blaszki są bladokremowe do żółtawych, później ochrowobrązowe. Ich przyczep opisuje się jako niemal wolny do przyrośniętego, czasem z krótkim zbiegającym ząbkiem. Podstawki są czterozarodnikowe; cystyd hymenialnych brak.",
+      "stipe": "Pełny trzon ma długość 8–20 cm i grubość 1–3 cm, jest walcowaty do maczugowatego. Zachowuje się wydatny błoniasty pierścień; nad nim powierzchnia jest blada i gładka, pod nim złotobrązowa, ziarnista i podłużnie pomarszczona.",
+      "flesh": "Zwarty miąższ jest białawy do bladożółtego, po przecięciu może żółknąć lub ciemnieć, zwłaszcza w trzonie. Zapach jest słaby do aromatycznego lub przypomina gorzkie migdały.",
+      "sporePrint": "Wysyp zarodników jest ochrowy do jasnożółtobrązowego. Zarodniki są wąsko elipsoidalne do wrzecionowatych, gładkie do drobno szorstkich, nieamyloidalne, 10–14 × 5–6 µm.",
+      "habitat": "Saprotrof gleby i ściółki, rosnący grupami na podłożu bogatym w azot, w parkach, ogrodach, na skrajach lasów i poboczach dróg, często wśród pokrzyw. W Europie owocnikuje głównie od sierpnia do listopada.",
+      "uses": "Trujący: nie spożywać. Opisano silne wymioty i biegunkę. Zawiera związki cyjankowe; gotowanie nie zapewnia bezpieczeństwa. Dokładny udział cyjanku w opisanych zatruciach żołądkowo-jelitowych pozostaje niepewny.",
+      "confusion": "Gymnopilus junonius rośnie na drewnie, ma łuskowaty, a nie ziarnisty kapelusz i ciemniejsze zarodniki. Cystoderma amianthinum jest znacznie mniejsza.",
+      "notes": "Owocniki mogą gromadzić kadm. Starsze doniesienia o jadalności są sprzeczne z udokumentowanymi zatruciami i nie stanowią dowodu bezpieczeństwa.",
+      "names": [
+        "aksamitka złota"
+      ],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+        "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+        "https://botany.cz/cs/phaeolepiota-aurea/",
+        "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+        "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+        "https://www.mycopedia.ch/pilze/5764.htm",
+        "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+        "https://www.gobe.si/Gobe/PhaeolepiotaAurea",
+        "https://pl.wikipedia.org/wiki/Aksamitk%C3%B3wka_z%C5%82ota"
+      ],
+      "label": "aksamitkówka złota"
+    },
+    "ru": {
+      "description": "Крупный наземный гриб, растущий группами и распространённый в Евразии и Северной Америке. Особенно характерен для богатых питательными веществами нарушенных местообитаний, где иногда образует заметные скопления или ведьмины круги. Местная численность сильно различается; в некоторых регионах он редок.",
+      "cap": "Шляпка шириной 5–20 см, изредка 30 см, сначала округлая, затем широко выпуклая или почти плоская, иногда с невысоким бугорком. Поверхность сухая, золотисто-жёлтая до оранжево-коричневой, мелкозернистая; по краю часто остаются фрагменты покрывала.",
+      "hymenium": "Частые пластинки бледно-кремовые до желтоватых, позднее охристо-коричневые. Прикрепление описывают как почти свободное до приросшего, иногда с коротким нисходящим зубцом. Базидии четырёхспоровые; гимениальные цистиды отсутствуют.",
+      "stipe": "Сплошная ножка длиной 8–20 см и толщиной 1–3 см, цилиндрическая до булавовидной. Крупное плёнчатое кольцо сохраняется; выше него поверхность бледная и гладкая, ниже золотисто-коричневая, зернистая и продольно морщинистая.",
+      "flesh": "Плотная мякоть беловатая до бледно-жёлтой, после разрезания может желтеть или темнеть, особенно в ножке. Запах от слабого до ароматного или напоминающего горький миндаль.",
+      "sporePrint": "Споровый порошок охристый до светло-жёлто-коричневого. Споры узкоэллипсоидные до веретеновидных, гладкие до мелкошероховатых, неамилоидные, 10–14 × 5–6 мкм.",
+      "habitat": "Почвенный и подстилочный сапротроф, растущий группами на богатой азотом почве в парках, садах, на опушках и обочинах, часто среди крапивы. В Европе плодоносит преимущественно с августа по ноябрь.",
+      "uses": "Ядовит: не употреблять в пищу. Зарегистрированы сильная рвота и диарея. Содержит цианидные соединения; приготовление не гарантирует безопасности. Точный вклад цианида в описанные желудочно-кишечные отравления остаётся неясным.",
+      "confusion": "Gymnopilus junonius растёт на древесине, имеет чешуйчатую, а не зернистую шляпку и более тёмные споры. Cystoderma amianthinum значительно мельче.",
+      "notes": "Плодовые тела могут накапливать кадмий. Старые сведения о съедобности противоречат документированным отравлениям и не доказывают безопасности.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+        "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+        "https://botany.cz/cs/phaeolepiota-aurea/",
+        "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+        "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+        "https://www.mycopedia.ch/pilze/5764.htm",
+        "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+        "https://www.gobe.si/Gobe/PhaeolepiotaAurea"
+      ]
+    },
+    "uk": {
+      "description": "Великий наземний гриб, що росте групами та поширений у Євразії й Північній Америці. Трапляється переважно на порушених, багатих на поживні речовини ділянках, іноді утворюючи помітні скупчення або відьмині кола. Місцева чисельність значно різниться; у деяких регіонах він рідкісний.",
+      "cap": "Шапинка завширшки 5–20 см, зрідка 30 см, спочатку округла, згодом широкоопукла або майже плоска, іноді з невисоким горбком. Суха, золотисто-жовта до оранжево-коричневої, дрібнозерниста; край часто облямований рештками покривала.",
+      "hymenium": "Густі пластинки блідо-кремові до жовтуватих, згодом вохристо-коричневі. Прикріплення описують як майже вільне до прирослого, іноді з коротким низхідним зубцем. Базидії чотириспорові; гіменіальні цистиди відсутні.",
+      "stipe": "Суцільна ніжка завдовжки 8–20 см і завтовшки 1–3 см, циліндрична до булавоподібної. Велике плівчасте кільце зберігається; над ним поверхня бліда й гладенька, під ним золотисто-коричнева, зерниста та поздовжньо зморшкувата.",
+      "flesh": "Щільний м'якуш білуватий до блідо-жовтого, після розрізання може жовтіти або темніти, особливо в ніжці. Запах від слабкого до ароматного або подібного до гіркого мигдалю.",
+      "sporePrint": "Споровий порошок вохристий до світло-жовто-коричневого. Спори вузькоеліпсоїдні до веретеноподібних, гладенькі до дрібношорстких, неамілоїдні, 10–14 × 5–6 мкм.",
+      "habitat": "Ґрунтовий і підстилковий сапротроф, росте групами на багатому на азот ґрунті в парках, садах, на узліссях та узбіччях, часто серед кропиви. У Європі плодоносить переважно із серпня до листопада.",
+      "uses": "Отруйний: не споживати. Зафіксовано сильне блювання й діарею. Містить ціанідні сполуки; приготування не гарантує безпеки. Точний внесок ціаніду в описані шлунково-кишкові отруєння залишається непевним.",
+      "confusion": "Gymnopilus junonius росте на деревині, має лускату, а не зернисту шапинку й темніші спори. Cystoderma amianthinum значно менша.",
+      "notes": "Плодові тіла можуть накопичувати кадмій. Давні повідомлення про їстівність суперечать задокументованим отруєнням і не доводять безпечності.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+        "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+        "https://botany.cz/cs/phaeolepiota-aurea/",
+        "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+        "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+        "https://www.mycopedia.ch/pilze/5764.htm",
+        "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+        "https://www.gobe.si/Gobe/PhaeolepiotaAurea",
+        "https://api.gbif.org/v1/species/2535253/vernacularNames?limit=1000"
+      ],
+      "label": "феолепіота золотиста"
+    },
+    "bg": {
+      "description": "Едра наземна гъба, растяща на групи, разпространена в Евразия и Северна Америка. Среща се предимно на нарушени места, богати на хранителни вещества, понякога образувайки забележими групи или самодивски кръгове. Местното изобилие варира силно, а в някои райони е рядка.",
+      "cap": "Гуглата е широка 5–20 cm, по изключение 30 cm, отначало закръглена, после широко изпъкнала или почти плоска, понякога с ниска гърбица. Суха, златистожълта до оранжевокафява, ситнозърнеста, често с остатъци от покривалото по ръба.",
+      "hymenium": "Гъстите ламели са бледокремави до жълтеникави, по-късно охренокафяви. Прикрепването се описва като почти свободно до сраснало, понякога с късо низбягващо зъбче. Базидиите са четириспорови; химениални цистидии липсват.",
+      "stipe": "Плътното пънче е дълго 8–20 cm и дебело 1–3 cm, цилиндрично до бухалковидно. Запазва се широк ципест пръстен; над него повърхността е бледа и гладка, под него златистокафява, зърнеста и надлъжно набръчкана.",
+      "flesh": "Твърдото месо е белезникаво до бледожълто и след срязване може да пожълтее или потъмнее, особено в пънчето. Миризмата варира от слаба до ароматна или напомняща горчиви бадеми.",
+      "sporePrint": "Споровият прашец е охрен до светложълтокафяв. Спорите са тясно елипсоидни до вретеновидни, гладки до фино грапави, неамилоидни, 10–14 × 5–6 µm.",
+      "habitat": "Почвен и постилъчен сапротроф, расте на групи върху богати на азот почви в паркове, градини, покрай гори и пътища, често сред коприва. В Европа плододава главно от август до ноември.",
+      "uses": "Отровна: да не се консумира. Съобщавани са силно повръщане и диария. Съдържа цианидни съединения; готвенето не гарантира безопасност. Точният принос на цианида към описаните стомашно-чревни отравяния остава несигурен.",
+      "confusion": "Gymnopilus junonius расте върху дървесина, има люспеста вместо зърнеста гугла и по-тъмни спори. Cystoderma amianthinum е много по-дребна.",
+      "notes": "Плодните тела могат да натрупват кадмий. Старите сведения за ядливост противоречат на документирани отравяния и не са доказателство за безопасност.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+        "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+        "https://botany.cz/cs/phaeolepiota-aurea/",
+        "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+        "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+        "https://www.mycopedia.ch/pilze/5764.htm",
+        "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+        "https://www.gobe.si/Gobe/PhaeolepiotaAurea"
+      ]
+    },
+    "hr": {
+      "description": "Velika gljiva koja raste u skupinama na tlu, rasprostranjena u Euroaziji i Sjevernoj Americi. Osobito nastanjuje poremećena mjesta bogata hranjivim tvarima, ponekad tvoreći upadljive skupine ili vilinske krugove. Lokalna brojnost znatno varira i u nekim je područjima rijetka.",
+      "cap": "Klobuk je širok 5–20 cm, iznimno 30 cm, isprva zaobljen, kasnije široko ispupčen ili gotovo ravan, ponekad s niskom grbicom. Suh je, zlatnožut do narančastosmeđ, sitno zrnat, često s ostacima ovoja na rubu.",
+      "hymenium": "Gusti listići blijedokremasti su do žućkasti, zatim okersmeđi. Pričvršćenje se opisuje kao gotovo slobodno do priraslo, ponekad s kratkim silaznim zupcem. Bazidiji su četverosporni; himenijalne cistide nedostaju.",
+      "stipe": "Puni stručak dug je 8–20 cm i debeo 1–3 cm, valjkast do batinast. Istaknut opnasti prsten ostaje prisutan; iznad njega površina je blijeda i glatka, ispod zlatnosmeđa, zrnata i uzdužno naborana.",
+      "flesh": "Čvrsto meso bjelkasto je do blijedožuto i nakon rezanja može požutjeti ili potamnjeti, osobito u stručku. Miris varira od slabog do aromatičnog ili nalik gorkim bademima.",
+      "sporePrint": "Otisak spora oker je do svijetložutosmeđ. Spore su usko elipsoidne do vretenaste, glatke do sitno hrapave, neamiloidne, 10–14 × 5–6 µm.",
+      "habitat": "Saprotrof tla i stelje, raste u skupinama na tlu bogatom dušikom u parkovima, vrtovima, na rubovima šuma i uz ceste, često među koprivama. U Europi plodonosi uglavnom od kolovoza do studenoga.",
+      "uses": "Otrovna: ne jesti. Zabilježeni su jako povraćanje i proljev. Sadrži cijanidne spojeve; kuhanje ne jamči sigurnost. Točan doprinos cijanida opisanim probavnim otrovanjima ostaje neizvjestan.",
+      "confusion": "Gymnopilus junonius raste na drvu, ima ljuskav, a ne zrnat klobuk i tamnije spore. Cystoderma amianthinum mnogo je manja.",
+      "notes": "Plodišta mogu nakupljati kadmij. Stariji navodi o jestivosti proturječe dokumentiranim otrovanjima i ne dokazuju sigurnost.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+        "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+        "https://botany.cz/cs/phaeolepiota-aurea/",
+        "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+        "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+        "https://www.mycopedia.ch/pilze/5764.htm",
+        "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+        "https://www.gobe.si/Gobe/PhaeolepiotaAurea",
+        "https://hr.wikipedia.org/wiki/Zlatna_%C5%A1titarka"
+      ],
+      "label": "zlatna štitarka"
+    },
+    "sr": {
+      "description": "Велика гљива која расте у групама на земљи, распрострањена у Евроазији и Северној Америци. Нарочито насељава нарушена места богата хранљивим материјама, понекад стварајући упадљиве групе или вилинске кругове. Локална бројност знатно варира и у неким областима је ретка.",
+      "cap": "Шешир је широк 5–20 cm, изузетно 30 cm, најпре заобљен, затим широко испупчен или готово раван, понекад са ниским испупчењем. Сув је, златножут до наранџастосмеђ, ситно зрнаст, често са остацима вела на ободу.",
+      "hymenium": "Густи листићи су бледокремасти до жућкасти, касније окерсмеђи. Прираштање се описује као готово слободно до прирасло, понекад са кратким силазним зупцем. Базидије су четвороспорне; хименијалне цистиде недостају.",
+      "stipe": "Пуна дршка је дуга 8–20 cm и дебела 1–3 cm, ваљкаста до батинаста. Изражен опнасти прстен остаје присутан; изнад њега површина је бледа и глатка, испод златносмеђа, зрнаста и уздужно наборана.",
+      "flesh": "Чврсто месо је беличасто до бледожуто и после сечења може пожутети или потамнети, нарочито у дршци. Мирис варира од слабог до ароматичног или налик горким бадемима.",
+      "sporePrint": "Отисак спора је окер до светложутосмеђ. Споре су уско елипсоидне до вретенасте, глатке до ситно храпаве, неамилоидне, 10–14 × 5–6 µm.",
+      "habitat": "Сапротроф земљишта и стеље, расте у групама на тлу богатом азотом у парковима, вртовима, на рубовима шума и поред путева, често међу копривама. У Европи плодоноси углавном од августа до новембра.",
+      "uses": "Отровна: не јести. Забележени су јако повраћање и пролив. Садржи цијанидна једињења; кување не гарантује безбедност. Тачан допринос цијанида описаним пробавним тровањима остаје неизвестан.",
+      "confusion": "Gymnopilus junonius расте на дрвету, има љуспаст, а не зрнаст шешир и тамније споре. Cystoderma amianthinum је много мања.",
+      "notes": "Плодна тела могу накупљати кадмијум. Старији наводи о јестивости противрече документованим тровањима и не доказују безбедност.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+        "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+        "https://botany.cz/cs/phaeolepiota-aurea/",
+        "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+        "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+        "https://www.mycopedia.ch/pilze/5764.htm",
+        "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+        "https://www.gobe.si/Gobe/PhaeolepiotaAurea"
+      ]
+    },
+    "sl": {
+      "description": "Velika goba, ki raste v skupinah na tleh in je razširjena v Evraziji ter Severni Ameriki. Pojavlja se predvsem na motenih rastiščih, bogatih s hranili, včasih v opaznih skupinah ali pravljičnih kolobarjih. Krajevna številčnost močno niha, ponekod je redka.",
+      "cap": "Klobuk je širok 5–20 cm, izjemoma 30 cm, sprva zaobljen, nato široko izbočen ali skoraj raven, včasih z nizko grbico. Je suh, zlato rumen do oranžno rjav, drobno zrnat, na robu pogosto z ostanki zastirala.",
+      "hymenium": "Gosti lističi so bledo smetanasti do rumenkasti, pozneje okrasto rjavi. Priraščanje je opisano kot skoraj prosto do priraslo, včasih s kratkim navzdol potekajočim zobcem. Bazidiji so štiritrosni; himenijske cistide manjkajo.",
+      "stipe": "Poln bet je dolg 8–20 cm in debel 1–3 cm, valjast do kijast. Izrazit kožnat obroček ostane; nad njim je površina bleda in gladka, pod njim zlato rjava, zrnata in vzdolžno nagubana.",
+      "flesh": "Čvrsto meso je belkasto do bledo rumeno in lahko po prerezu porumeni ali potemni, zlasti v betu. Vonj je šibek do aromatičen ali podoben grenkim mandljem.",
+      "sporePrint": "Trosni prah je okrast do svetlo rumeno rjav. Trosi so ozko elipsoidni do vretenasti, gladki do drobno hrapavi, neamiloidni, veliki 10–14 × 5–6 µm.",
+      "habitat": "Saprotrof tal in opada, raste v skupinah na tleh, bogatih z dušikom, v parkih, vrtovih, na gozdnih robovih in ob cestah, pogosto med koprivami. V Evropi plodi predvsem od avgusta do novembra.",
+      "uses": "Strupena: ne uživajte. Poročali so o močnem bruhanju in driski. Vsebuje cianidne spojine; kuhanje ne zagotavlja varnosti. Natančen prispevek cianida k opisanim prebavnim zastrupitvam ostaja negotov.",
+      "confusion": "Gymnopilus junonius raste na lesu, ima luskast namesto zrnatega klobuka in temnejše trose. Cystoderma amianthinum je precej manjša.",
+      "notes": "Trosnjaki lahko kopičijo kadmij. Starejše navedbe o užitnosti nasprotujejo dokumentiranim zastrupitvam in niso dokaz varnosti.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+        "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+        "https://botany.cz/cs/phaeolepiota-aurea/",
+        "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+        "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+        "https://www.mycopedia.ch/pilze/5764.htm",
+        "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+        "https://www.gobe.si/Gobe/PhaeolepiotaAurea"
+      ],
+      "label": "bleščava luskarica"
+    },
+    "ro": {
+      "description": "O ciupercă tericolă mare, gregară, răspândită în Eurasia și America de Nord. Apare mai ales în locuri perturbate, bogate în nutrienți, formând uneori grupuri spectaculoase sau cercuri de vrăjitoare. Abundența locală variază mult, iar în unele regiuni este rară.",
+      "cap": "Pălăria are 5–20 cm lățime, excepțional 30 cm, inițial rotunjită, apoi larg convexă sau aproape plată, uneori cu un gurgui scund. Este uscată, galben-aurie până la brun-portocalie, fin granulată, adesea cu resturi de văl la margine.",
+      "hymenium": "Lamelele dese sunt crem-pal până la gălbui, devenind brun-ocracee. Inserția este descrisă ca aproape liberă până la aderentă, uneori cu un dințișor decurent scurt. Basidiile sunt tetrasporice; cistidele himeniale lipsesc.",
+      "stipe": "Piciorul plin are 8–20 cm lungime și 1–3 cm grosime, cilindric până la clavat. Un inel membranos amplu persistă; deasupra suprafața este palidă și netedă, dedesubt brun-aurie, granulată și zbârcită longitudinal.",
+      "flesh": "Carnea fermă este albicioasă până la galben-pal și poate îngălbeni sau deveni mai închisă după tăiere, mai ales în picior. Mirosul variază de la slab la aromat ori asemănător migdalelor amare.",
+      "sporePrint": "Amprenta sporală este ocru până la brun-gălbui deschis. Sporii sunt îngust elipsoidali până la fusiformi, netezi până la fin rugoși, neamiloizi, de 10–14 × 5–6 µm.",
+      "habitat": "Saprotrof al solului și litierei, crește în grupuri pe terenuri bogate în azot din parcuri, grădini, margini de pădure și de drum, adesea printre urzici. În Europa fructifică mai ales din august până în noiembrie.",
+      "uses": "Otrăvitoare: nu consumați. Au fost raportate vărsături și diaree severe. Conține compuși ai cianurii; gătirea nu garantează siguranța. Contribuția exactă a cianurii la intoxicațiile gastrointestinale raportate rămâne incertă.",
+      "confusion": "Gymnopilus junonius crește pe lemn, are pălărie solzoasă în loc de granulată și spori mai întunecați. Cystoderma amianthinum este mult mai mică.",
+      "notes": "Corpurile fructifere pot acumula cadmiu. Vechile afirmații privind comestibilitatea contrazic intoxicațiile documentate și nu reprezintă dovezi de siguranță.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+        "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+        "https://botany.cz/cs/phaeolepiota-aurea/",
+        "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+        "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+        "https://www.mycopedia.ch/pilze/5764.htm",
+        "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+        "https://www.gobe.si/Gobe/PhaeolepiotaAurea"
+      ]
+    },
+    "hu": {
+      "description": "Nagy termetű, csoportosan a talajon növő gomba, Eurázsiában és Észak-Amerikában elterjedt. Különösen tápanyagban gazdag, bolygatott helyeken fordul elő, olykor feltűnő csoportokat vagy boszorkányköröket alkot. Helyi gyakorisága erősen változó, egyes vidékeken ritka.",
+      "cap": "Kalapja 5–20 cm széles, kivételesen 30 cm, kezdetben lekerekített, majd szélesen domború vagy csaknem lapos, olykor alacsony púppal. Száraz, aranysárga vagy narancsbarna, finoman szemcsés, szélén gyakran burokmaradványokkal.",
+      "hymenium": "Sűrű lemezei halvány krémszínűek vagy sárgásak, később okkerbarnák. Csatlakozásukat majdnem szabadként vagy tönkhöz nőttként írják le, olykor rövid lefutó foggal. A bazídiumok négyspórásak; himeniális cisztídiumok nincsenek.",
+      "stipe": "Tömör tönkje 8–20 cm hosszú és 1–3 cm vastag, hengeres vagy bunkós. Feltűnő, hártyás gallérja megmarad; fölötte a felszín halvány és sima, alatta aranybarna, szemcsés és hosszában ráncolt.",
+      "flesh": "Tömör húsa fehéres vagy halványsárga, vágás után sárgulhat vagy sötétedhet, különösen a tönkben. Szaga gyenge, aromás vagy keserűmandulára emlékeztető.",
+      "sporePrint": "Spórapora okker vagy világos sárgásbarna. Spórái keskeny ellipszoidok vagy orsó alakúak, simák vagy finoman érdesek, inamiloidok, 10–14 × 5–6 µm méretűek.",
+      "habitat": "Talaj- és avarlakó szaprotróf, nitrogénben gazdag talajon, parkokban, kertekben, erdőszéleken és utak mentén, gyakran csalán között nő csoportosan. Európában főként augusztustól novemberig terem.",
+      "uses": "Mérgező: ne fogyasszuk. Súlyos hányást és hasmenést jelentettek. Cianidvegyületeket tartalmaz; a főzés nem teszi megbízhatóan biztonságossá. A cianid pontos szerepe a leírt gyomor-bél rendszeri mérgezésekben bizonytalan.",
+      "confusion": "A Gymnopilus junonius fán nő, kalapja pikkelyes, nem szemcsés, spórái sötétebbek. A Cystoderma amianthinum jóval kisebb.",
+      "notes": "A termőtestek kadmiumot halmozhatnak fel. A régebbi ehetőségi adatok ellentmondanak a dokumentált mérgezéseknek, és nem bizonyítják a biztonságosságot.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+        "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+        "https://botany.cz/cs/phaeolepiota-aurea/",
+        "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+        "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+        "https://www.mycopedia.ch/pilze/5764.htm",
+        "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+        "https://www.gobe.si/Gobe/PhaeolepiotaAurea",
+        "https://gombaszaki.hu/wp-content/uploads/2020/02/Gombanevjegyzek_2017.04.26_lm_ml_gsz_nyb.pdf"
+      ],
+      "label": "szemcsés aranygomba"
+    },
+    "da": {
+      "description": "En stor, selskabeligt jordboende svamp, udbredt i Eurasien og Nordamerika. Den findes især på næringsrige, forstyrrede steder, undertiden i iøjnefaldende grupper eller hekseringe. Den lokale hyppighed varierer betydeligt, og i nogle områder er den usædvanlig.",
+      "cap": "Hatten er 5–20 cm bred, undtagelsesvis 30 cm, først afrundet, senere bredt hvælvet eller næsten flad, undertiden med en lav pukkel. Den er tør, gyldengul til orangebrun og finkornet, ofte med slørrester langs randen.",
+      "hymenium": "De tætte lameller er blegt cremefarvede til gullige, senere okkerbrune. Tilhæftningen beskrives som næsten fri til tilvokset, undertiden med en kort nedløbende tand. Basidierne er firesporede; hymeniale cystider mangler.",
+      "stipe": "Den massive stok er 8–20 cm lang og 1–3 cm tyk, cylindrisk til kølleformet. En kraftig, hindeagtig ring bevares; over den er overfladen bleg og glat, under den gyldenbrun, kornet og længderynket.",
+      "flesh": "Det faste kød er hvidligt til bleggult og kan gulne eller mørkne efter gennemskæring, især i stokken. Lugten varierer fra svag til aromatisk eller bittermandelagtig.",
+      "sporePrint": "Sporeaftrykket er okkerfarvet til lyst gulbrunt. Sporerne er smalt ellipsoidiske til tenformede, glatte til fint ru, inamyloide og 10–14 × 5–6 µm store.",
+      "habitat": "En jord- og førnesaprotrof, der vokser i grupper på kvælstofrig jord i parker, haver, skovbryn og vejkanter, ofte mellem nælder. I Europa kommer frugtlegemerne hovedsageligt fra august til november.",
+      "uses": "Giftig: må ikke spises. Voldsom opkastning og diarré er dokumenteret. Den indeholder cyanidforbindelser; kogning gør den ikke pålideligt sikker. Cyanids præcise bidrag til de beskrevne mave-tarm-forgiftninger er fortsat usikkert.",
+      "confusion": "Gymnopilus junonius vokser på træ, har en skællet frem for kornet hat og mørkere sporer. Cystoderma amianthinum er langt mindre.",
+      "notes": "Frugtlegemerne kan ophobe cadmium. Ældre oplysninger om spiselighed strider mod dokumenterede forgiftninger og beviser ikke sikkerhed.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+        "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+        "https://botany.cz/cs/phaeolepiota-aurea/",
+        "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+        "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+        "https://www.mycopedia.ch/pilze/5764.htm",
+        "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+        "https://www.gobe.si/Gobe/PhaeolepiotaAurea",
+        "https://api.gbif.org/v1/species/2535253/vernacularNames?limit=1000"
+      ],
+      "label": "gyldenhat"
+    },
+    "no": {
+      "description": "En stor, gruppevoksende jordboende sopp, utbredt i Eurasia og Nord-Amerika. Den forekommer særlig på næringsrike, forstyrrede steder og danner av og til iøynefallende grupper eller hekseringer. Den lokale mengden varierer betydelig, og i noen regioner er den uvanlig.",
+      "cap": "Hatten er 5–20 cm bred, unntaksvis 30 cm, først avrundet, senere bredt hvelvet eller nesten flat, noen ganger med en lav pukkel. Den er tørr, gyllengul til oransjebrun og finkornet, ofte med slørrester langs kanten.",
+      "hymenium": "De tette skivene er blekt kremfargede til gulaktige, senere okerbrune. Festet beskrives som nesten fritt til tilvokst, iblant med en kort nedløpende tann. Basidiene er firesporede; hymeniale cystider mangler.",
+      "stipe": "Den massive stilken er 8–20 cm lang og 1–3 cm tykk, sylindrisk til kølleformet. En kraftig, hinneaktig ring blir sittende; over den er overflaten blek og glatt, under den gyllenbrun, kornet og lengderynket.",
+      "flesh": "Det faste kjøttet er hvitaktig til blekgult og kan gulne eller mørkne etter gjennomskjæring, særlig i stilken. Lukten varierer fra svak til aromatisk eller bittermandelaktig.",
+      "sporePrint": "Sporeavtrykket er okerfarget til lyst gulbrunt. Sporene er smalt ellipsoide til spoleformede, glatte til fint ru, inamyloide og 10–14 × 5–6 µm store.",
+      "habitat": "En jord- og strøsaprotrof som vokser i grupper på nitrogenrik jord i parker, hager, skogkanter og veikanter, ofte blant nesler. I Europa dannes fruktlegemer hovedsakelig fra august til november.",
+      "uses": "Giftig: må ikke spises. Kraftig oppkast og diaré er rapportert. Den inneholder cyanidforbindelser; koking gjør den ikke pålitelig trygg. Cyanidets nøyaktige bidrag til de beskrevne mage-tarm-forgiftningene er fortsatt usikkert.",
+      "confusion": "Gymnopilus junonius vokser på ved, har en skjellaktig snarere enn kornet hatt og mørkere sporer. Cystoderma amianthinum er mye mindre.",
+      "notes": "Fruktlegemene kan akkumulere kadmium. Eldre opplysninger om spiselighet strider mot dokumenterte forgiftninger og er ikke bevis på trygghet.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+        "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+        "https://botany.cz/cs/phaeolepiota-aurea/",
+        "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+        "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+        "https://www.mycopedia.ch/pilze/5764.htm",
+        "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+        "https://www.gobe.si/Gobe/PhaeolepiotaAurea",
+        "https://no.wikipedia.org/wiki/Gullskjellsopp",
+        "https://elurikkus.ee/app/taxonomy/taxon/164378"
+      ],
+      "label": "gullskjellsopp"
+    },
+    "sv": {
+      "description": "En stor, gruppväxande marksvamp, utbredd i Eurasien och Nordamerika. Den förekommer särskilt på näringsrika, störda platser och bildar ibland påfallande grupper eller häxringar. Den lokala rikligheten varierar mycket och i vissa områden är den ovanlig.",
+      "cap": "Hatten är 5–20 cm bred, undantagsvis 30 cm, först rundad, senare brett välvd eller nästan plan, ibland med en låg puckel. Den är torr, gyllengul till orangebrun och finkornig, ofta med hyllerester längs kanten.",
+      "hymenium": "De täta skivorna är blekt gräddfärgade till gulaktiga och blir ockrabruna. Fästet beskrivs som nästan fritt till vidvuxet, ibland med en kort nedlöpande tand. Basidierna är fyrsporiga; hymeniala cystider saknas.",
+      "stipe": "Den kompakta foten är 8–20 cm lång och 1–3 cm tjock, cylindrisk till klubbformig. En kraftig, hinnartad ring finns kvar; ovanför den är ytan blek och slät, nedanför gyllenbrun, kornig och längsrynkig.",
+      "flesh": "Det fasta köttet är vitaktigt till blekgult och kan gulna eller mörkna efter genomskärning, särskilt i foten. Lukten varierar från svag till aromatisk eller bittermandellik.",
+      "sporePrint": "Sporavtrycket är ockra till ljust gulbrunt. Sporerna är smalt ellipsoida till spolformiga, släta till fint sträva, inamyloida och 10–14 × 5–6 µm stora.",
+      "habitat": "En mark- och förnasaprotrof som växer i grupper på kväverik mark i parker, trädgårdar, skogsbryn och vägkanter, ofta bland nässlor. I Europa bildas fruktkropparna främst från augusti till november.",
+      "uses": "Giftig: ät inte. Kraftiga kräkningar och diarréer har rapporterats. Den innehåller cyanidföreningar; tillagning gör den inte pålitligt säker. Cyanidens exakta bidrag till de rapporterade mag-tarm-förgiftningarna är fortfarande osäkert.",
+      "confusion": "Gymnopilus junonius växer på ved, har en fjällig i stället för kornig hatt och mörkare sporer. Cystoderma amianthinum är mycket mindre.",
+      "notes": "Fruktkropparna kan ansamla kadmium. Äldre uppgifter om ätlighet strider mot dokumenterade förgiftningar och bevisar inte säkerhet.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+        "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+        "https://botany.cz/cs/phaeolepiota-aurea/",
+        "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+        "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+        "https://www.mycopedia.ch/pilze/5764.htm",
+        "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+        "https://www.gobe.si/Gobe/PhaeolepiotaAurea",
+        "https://sv.wikipedia.org/wiki/Gyllenskivling"
+      ],
+      "label": "gyllenskivling"
+    },
+    "fi": {
+      "description": "Suuri, ryhmissä maassa kasvava sieni, jota esiintyy Euraasiassa ja Pohjois-Amerikassa. Se suosii ravinteikkaita, häiriintyneitä kasvupaikkoja ja muodostaa toisinaan näyttäviä ryhmiä tai noidankehiä. Paikallinen runsaus vaihtelee huomattavasti, ja joillakin alueilla se on harvinainen.",
+      "cap": "Lakki on 5–20 cm leveä, poikkeuksellisesti 30 cm, aluksi pyöristynyt, myöhemmin laakean kupera tai lähes tasainen, joskus matalasti kohoumallinen. Se on kuiva, kullankeltainen tai oranssinruskea ja hienorakeinen; reunassa on usein suojusjätteitä.",
+      "hymenium": "Tiheät heltat ovat vaalean kermanväriset tai kellertävät, myöhemmin okranruskeat. Kiinnittymistä kuvataan lähes irtonaiseksi tai tasatyviseksi, joskus lyhyellä johteisella hampaalla. Basidiot ovat neli-itiöisiä; hymenion kystidit puuttuvat.",
+      "stipe": "Täyteinen jalka on 8–20 cm pitkä ja 1–3 cm paksu, lieriömäinen tai nuijamainen. Vahva kalvomainen rengas säilyy; sen yläpuolinen pinta on vaalea ja sileä, alapuoli kullanruskea, rakeinen ja pitkittäisryppyinen.",
+      "flesh": "Kiinteä malto on valkeahkoa tai vaaleankeltaista ja voi leikattaessa kellastua tai tummua, erityisesti jalassa. Haju vaihtelee heikosta aromaattiseen tai karvasmantelimaiseen.",
+      "sporePrint": "Itiöpöly on okraa tai vaalean kellanruskeaa. Itiöt ovat kapean ellipsoidisia tai sukkulamaisia, sileitä tai hienokarheita, inamyloideja, kooltaan 10–14 × 5–6 µm.",
+      "habitat": "Maaperän ja karikkeen lahottaja, joka kasvaa ryhmissä typpipitoisella maalla puistoissa, puutarhoissa, metsänreunoilla ja tienvarsilla, usein nokkosten joukossa. Euroopassa itiöemiä esiintyy pääasiassa elo–marraskuussa.",
+      "uses": "Myrkyllinen: ei saa syödä. Voimakasta oksentelua ja ripulia on raportoitu. Sieni sisältää syanidiyhdisteitä; kypsentäminen ei tee siitä luotettavasti turvallista. Syanidin tarkka osuus raportoiduissa ruoansulatuskanavan myrkytyksissä on epävarma.",
+      "confusion": "Gymnopilus junonius kasvaa puulla, sen lakki on suomuinen eikä rakeinen, ja itiöt ovat tummemmat. Cystoderma amianthinum on paljon pienempi.",
+      "notes": "Itiöemät voivat kerätä kadmiumia. Vanhat syötävyystiedot ovat ristiriidassa dokumentoitujen myrkytysten kanssa eivätkä osoita turvallisuutta.",
+      "names": [
+        "kultakehnäsieni"
+      ],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+        "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+        "https://botany.cz/cs/phaeolepiota-aurea/",
+        "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+        "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+        "https://www.mycopedia.ch/pilze/5764.htm",
+        "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+        "https://www.gobe.si/Gobe/PhaeolepiotaAurea",
+        "https://fi.wikipedia.org/wiki/Kultasieni"
+      ],
+      "label": "kultasieni"
+    },
+    "et": {
+      "description": "Suur, rühmadena maapinnal kasvav seen, mis on levinud Euraasias ja Põhja-Ameerikas. Esineb eeskätt toitainerikastes häiritud kasvukohtades, moodustades mõnikord silmatorkavaid kogumikke või nõiaringe. Kohalik arvukus erineb märgatavalt ja mõnes piirkonnas on ta haruldane.",
+      "cap": "Kübar on 5–20 cm lai, erandina 30 cm, algul ümar, hiljem laialt kumer või peaaegu lame, mõnikord madala kühmuga. See on kuiv, kuldkollane kuni oranžikaspruun, peeneteraline, serval sageli loorijäänustega.",
+      "hymenium": "Tihedad eoslehed on kahvatukreemjad kuni kollakad, muutudes ookerpruuniks. Kinnitumist kirjeldatakse peaaegu vabast kuni külge kasvanuni, vahel lühikese laskuva hambaga. Basiidid on neljaeoselised; hümeeni tsüstiidid puuduvad.",
+      "stipe": "Täis jalg on 8–20 cm pikk ja 1–3 cm jäme, silinderjas kuni nuiakujuline. Tugev nahkjas rõngas püsib; sellest ülal on pind kahvatu ja sile, all kuldpruun, teraline ning pikikortsuline.",
+      "flesh": "Tihe seeneliha on valkjas kuni kahvatukollane ning võib lõikamisel kollastuda või tumeneda, eriti jalas. Lõhn varieerub nõrgast aromaatse või mõrumandlilaadseni.",
+      "sporePrint": "Eosetolm on ookerjas kuni helekollakaspruun. Eosed on kitsalt ellipsoidsed kuni käävjad, siledad kuni peenelt karedad, mitteamüloidsed, 10–14 × 5–6 µm.",
+      "habitat": "Mulla ja varise saprotroof, kasvab rühmadena lämmastikurikkal pinnasel parkides, aedades, metsaservades ja teeäärtes, sageli nõgeste vahel. Euroopas viljub peamiselt augustist novembrini.",
+      "uses": "Mürgine: mitte süüa. On kirjeldatud tugevat oksendamist ja kõhulahtisust. Sisaldab tsüaniidiühendeid; kuumtöötlemine ei taga ohutust. Tsüaniidi täpne osa kirjeldatud seedetraktimürgistustes on endiselt ebaselge.",
+      "confusion": "Gymnopilus junonius kasvab puidul, tal on soomuseline, mitte teraline kübar ja tumedamad eosed. Cystoderma amianthinum on palju väiksem.",
+      "notes": "Viljakehad võivad koguda kaadmiumi. Varasemad söödavusteated on vastuolus dokumenteeritud mürgistustega ega tõesta ohutust.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+        "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+        "https://botany.cz/cs/phaeolepiota-aurea/",
+        "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+        "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+        "https://www.mycopedia.ch/pilze/5764.htm",
+        "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+        "https://www.gobe.si/Gobe/PhaeolepiotaAurea",
+        "https://elurikkus.ee/app/taxonomy/taxon/164378"
+      ],
+      "label": "kuldmampel"
+    },
+    "lv": {
+      "description": "Liela, grupās uz augsnes augoša sēne, izplatīta Eirāzijā un Ziemeļamerikā. Sastopama galvenokārt barības vielām bagātās, traucētās vietās, reizēm veidojot iespaidīgas grupas vai raganu apļus. Vietējā sastopamība ievērojami atšķiras, un dažos reģionos tā ir reta.",
+      "cap": "Cepurīte ir 5–20 cm plata, izņēmuma gadījumā 30 cm, sākumā noapaļota, vēlāk plaši izliekta vai gandrīz plakana, reizēm ar zemu pauguru. Tā ir sausa, zeltaini dzeltena līdz oranži brūna, smalkgraudaina, malā bieži ar plīvura paliekām.",
+      "hymenium": "Ciešās lapiņas ir bāli krēmkrāsas līdz dzeltenīgas, vēlāk okerbrūnas. Piestiprinājums aprakstīts kā gandrīz brīvs līdz pieaudzis, reizēm ar īsu nolaidenu zobiņu. Bazīdijas ir četrsporu; himēnija cistīdu nav.",
+      "stipe": "Pilnais kātiņš ir 8–20 cm garš un 1–3 cm resns, cilindrisks līdz vālesveida. Saglabājas izteikts plēvains gredzens; virs tā virsma ir bāla un gluda, zem tā zeltaini brūna, graudaina un gareniski krokota.",
+      "flesh": "Stingrais mīkstums ir bālgans līdz bāli dzeltens un griezumā var dzeltēt vai kļūt tumšāks, īpaši kātiņā. Smarža ir vāja līdz aromātiska vai rūgto mandeļu smaržai līdzīga.",
+      "sporePrint": "Sporu nospiedums ir okera līdz gaiši dzeltenbrūns. Sporas ir šauri elipsoidālas līdz vārpstveida, gludas līdz smalki raupjas, neamiloīdas, 10–14 × 5–6 µm.",
+      "habitat": "Augsnes un nobiru saprotrofs, aug grupās ar slāpekli bagātā augsnē parkos, dārzos, mežmalās un ceļmalās, bieži starp nātrēm. Eiropā augļķermeņi parādās galvenokārt no augusta līdz novembrim.",
+      "uses": "Indīga: neēst. Ziņots par spēcīgu vemšanu un caureju. Satur cianīda savienojumus; gatavošana negarantē drošumu. Cianīda precīzā loma aprakstītajos kuņģa un zarnu saindēšanās gadījumos joprojām nav skaidra.",
+      "confusion": "Gymnopilus junonius aug uz koksnes, tam ir zvīņaina, nevis graudaina cepurīte un tumšākas sporas. Cystoderma amianthinum ir daudz mazāka.",
+      "notes": "Augļķermeņi var uzkrāt kadmiju. Agrākās norādes par ēdamību ir pretrunā dokumentētajiem saindēšanās gadījumiem un nepierāda drošumu.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+        "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+        "https://botany.cz/cs/phaeolepiota-aurea/",
+        "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+        "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+        "https://www.mycopedia.ch/pilze/5764.htm",
+        "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+        "https://www.gobe.si/Gobe/PhaeolepiotaAurea"
+      ],
+      "label": "zelta brūnsardzene"
+    },
+    "lt": {
+      "description": "Didelis, grupėmis ant dirvos augantis grybas, paplitęs Eurazijoje ir Šiaurės Amerikoje. Dažniausiai aptinkamas maisto medžiagų turtingose, pažeistose vietose, kartais sudaro įspūdingas grupes ar raganų ratus. Vietinis gausumas labai skiriasi, kai kuriuose regionuose jis retas.",
+      "cap": "Kepurėlė 5–20 cm pločio, išimtinai 30 cm, iš pradžių apvali, vėliau plačiai išgaubta arba beveik plokščia, kartais su žemu gūbreliu. Sausa, aukso geltonumo iki oranžiškai rudos, smulkiai grūdėta, pakraštyje dažnai lieka šydo liekanų.",
+      "hymenium": "Tankūs lakšteliai blyškiai kreminiai iki gelsvų, vėliau ochriškai rudi. Prisitvirtinimas aprašomas nuo beveik laisvo iki priaugusio, kartais su trumpu nuolaidžiu danteliu. Bazidijos ketursporės; himenio cistidžių nėra.",
+      "stipe": "Pilnaviduris kotas 8–20 cm ilgio ir 1–3 cm storio, cilindriškas iki buožiško. Išlieka stambus plėvelinis žiedas; virš jo paviršius blyškus ir lygus, žemiau auksarudis, grūdėtas ir išilgai raukšlėtas.",
+      "flesh": "Tvirta trama balsva iki blyškiai gelsvos, perpjovus gali pagelsti arba patamsėti, ypač kote. Kvapas nuo silpno iki aromatingo arba primenančio karčiuosius migdolus.",
+      "sporePrint": "Sporų atspaudas ochros iki šviesiai gelsvai rudos spalvos. Sporos siaurai elipsoidinės iki verpstiškų, lygios iki smulkiai šiurkščių, neamiloidinės, 10–14 × 5–6 µm.",
+      "habitat": "Dirvos ir paklotės saprotrofas, augantis grupėmis azoto turtingame dirvožemyje parkuose, soduose, pamiškėse ir pakelėse, dažnai tarp dilgėlių. Europoje vaisiakūniai dažniausiai auga rugpjūtį–lapkritį.",
+      "uses": "Nuodingas: nevalgyti. Užfiksuotas stiprus vėmimas ir viduriavimas. Turi cianido junginių; gaminimas negarantuoja saugumo. Tikslus cianido indėlis į aprašytus virškinimo trakto apsinuodijimus lieka neaiškus.",
+      "confusion": "Gymnopilus junonius auga ant medienos, jo kepurėlė žvynuota, o ne grūdėta, sporos tamsesnės. Cystoderma amianthinum daug mažesnis.",
+      "notes": "Vaisiakūniai gali kaupti kadmį. Senesni duomenys apie valgomumą prieštarauja dokumentuotiems apsinuodijimams ir neįrodo saugumo.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+        "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+        "https://botany.cz/cs/phaeolepiota-aurea/",
+        "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+        "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+        "https://www.mycopedia.ch/pilze/5764.htm",
+        "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+        "https://www.gobe.si/Gobe/PhaeolepiotaAurea",
+        "https://lt.wikipedia.org/wiki/Auksuotoji_smulkia%C5%BEvyn%C4%97"
+      ],
+      "label": "auksuotoji smulkiažvynė"
+    },
+    "tr": {
+      "description": "Avrasya ve Kuzey Amerika'da yayılış gösteren, toprak üzerinde gruplar hâlinde yetişen iri bir mantardır. Özellikle besince zengin, bozulmuş alanlarda görülür; bazen dikkat çekici kümeler veya cadı halkaları oluşturur. Yerel bolluğu büyük ölçüde değişir ve bazı bölgelerde nadirdir.",
+      "cap": "Şapka 5–20 cm, istisna olarak 30 cm genişliğindedir; başlangıçta yuvarlak, sonra geniş dışbükey veya hemen hemen düz, bazen alçak bir tepeciklidir. Kuru, altın sarısı ile turuncu kahverengi arasında ve ince taneciklidir; kenarda sıklıkla örtü kalıntıları bulunur.",
+      "hymenium": "Sık lameller soluk krem ile sarımsı arasında olup zamanla okra kahverengine döner. Sapa bağlantıları hemen hemen serbestten yapışık duruma kadar değişir; bazen kısa, aşağı uzanan bir diş vardır. Bazidyumlar dört sporludur; himeniyal sistidyumlar yoktur.",
+      "stipe": "İçi dolu sap 8–20 cm uzunluğunda ve 1–3 cm kalınlığında, silindirik ile topuz biçimli arasındadır. Belirgin, zarımsı halka kalıcıdır; üstündeki yüzey soluk ve düz, altındaki altın kahverengi, tanecikli ve boyuna kırışıktır.",
+      "flesh": "Sıkı et beyazımsı ile soluk sarı arasındadır; kesildikten sonra özellikle sapta sararabilir veya koyulaşabilir. Koku hafiften aromatiğe veya acıbadem benzerine kadar değişir.",
+      "sporePrint": "Spor izi okra ile açık sarı kahverengi arasındadır. Sporlar dar elipsoit ile iğ biçimli arasında, düz ile ince pürüzlü arasında, amiloit olmayan, 10–14 × 5–6 µm boyutundadır.",
+      "habitat": "Toprak ve döküntü saprotrofudur; parklarda, bahçelerde, orman kenarlarında ve yol kıyılarında, sıkça ısırganlar arasında azotça zengin toprakta gruplar oluşturur. Avrupa'da çoğunlukla ağustostan kasıma kadar meyve verir.",
+      "uses": "Zehirlidir: yemeyin. Şiddetli kusma ve ishal bildirilmiştir. Siyanür bileşikleri içerir; pişirme güvenli olmasını garanti etmez. Siyanürün bildirilen mide-bağırsak zehirlenmelerine kesin katkısı belirsizdir.",
+      "confusion": "Gymnopilus junonius odun üzerinde yetişir, tanecikli yerine pullu şapkası ve daha koyu sporları vardır. Cystoderma amianthinum çok daha küçüktür.",
+      "notes": "Meyve gövdeleri kadmiyum biriktirebilir. Eski yenilebilirlik iddiaları belgelenmiş zehirlenmelerle çelişir ve güvenlilik kanıtı değildir.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+        "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+        "https://botany.cz/cs/phaeolepiota-aurea/",
+        "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+        "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+        "https://www.mycopedia.ch/pilze/5764.htm",
+        "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+        "https://www.gobe.si/Gobe/PhaeolepiotaAurea"
+      ]
+    },
+    "id": {
+      "description": "Jamur tanah berukuran besar yang tumbuh berkelompok dan tersebar di Eurasia serta Amerika Utara. Terutama ditemukan di tempat terganggu yang kaya unsur hara, terkadang membentuk kelompok mencolok atau lingkaran peri. Kelimpahan setempat sangat bervariasi dan di beberapa wilayah jamur ini jarang ditemukan.",
+      "cap": "Tudung berdiameter 5–20 cm, luar biasa hingga 30 cm; awalnya membulat, kemudian cembung melebar atau hampir rata, kadang dengan tonjolan rendah. Permukaannya kering, kuning keemasan hingga cokelat jingga, berbutir halus, sering dengan sisa selubung di tepinya.",
+      "hymenium": "Bilah rapat berwarna krem pucat hingga kekuningan, lalu cokelat oker. Pelekatannya dilaporkan hampir bebas hingga melekat, terkadang dengan gigi pendek yang menurun. Basidium berspora empat; sistidium himenial tidak ada.",
+      "stipe": "Tangkai padat panjangnya 8–20 cm dan tebalnya 1–3 cm, berbentuk silinder hingga gada. Cincin membran yang jelas tetap bertahan; permukaan di atasnya pucat dan halus, di bawahnya cokelat keemasan, berbutir dan berkerut memanjang.",
+      "flesh": "Daging padat berwarna keputihan hingga kuning pucat dan dapat menguning atau menggelap setelah dipotong, terutama pada tangkai. Bau bervariasi dari lemah hingga aromatik atau menyerupai almon pahit.",
+      "sporePrint": "Cetak spora berwarna oker hingga cokelat kekuningan muda. Spora berbentuk elipsoid sempit hingga gelendong, halus hingga bertekstur kasar halus, tidak amiloid, berukuran 10–14 × 5–6 µm.",
+      "habitat": "Saprotrof tanah dan serasah yang tumbuh berkelompok di tanah kaya nitrogen di taman, kebun, tepi hutan dan tepi jalan, sering di antara jelatang. Di Eropa, tubuh buah terutama muncul dari Agustus hingga November.",
+      "uses": "Beracun: jangan dimakan. Muntah dan diare hebat telah dilaporkan. Mengandung senyawa sianida; memasak tidak menjamin keamanannya. Kontribusi pasti sianida terhadap keracunan saluran cerna yang dilaporkan masih belum jelas.",
+      "confusion": "Gymnopilus junonius tumbuh pada kayu, bertudung bersisik alih-alih berbutir dan memiliki spora lebih gelap. Cystoderma amianthinum jauh lebih kecil.",
+      "notes": "Tubuh buah dapat mengakumulasi kadmium. Pernyataan lama mengenai kelayakan konsumsi bertentangan dengan kasus keracunan terdokumentasi dan bukan bukti keamanan.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+        "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+        "https://botany.cz/cs/phaeolepiota-aurea/",
+        "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+        "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+        "https://www.mycopedia.ch/pilze/5764.htm",
+        "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+        "https://www.gobe.si/Gobe/PhaeolepiotaAurea"
+      ]
+    },
+    "zh": {
+      "description": "一種大型、群生的地生菇類，分布於歐亞大陸及北美洲。主要出現在養分豐富、受擾動的環境，有時形成醒目的群落或仙環。各地的數量差異很大，在部分地區並不常見。",
+      "cap": "菌蓋寬 5–20 公分，少數可達 30 公分；初期圓隆，後期呈寬凸形至近乎平展，有時中央略隆起。表面乾燥，金黃色至橙褐色，具細顆粒，邊緣常留有菌幕殘片。",
+      "hymenium": "菌褶密集，初為淡乳白色至淡黃色，後呈赭褐色。著生方式被描述為近離生至直生，有時帶短小的下延齒。擔子具四孢子；未見子實層囊狀體。",
+      "stipe": "菌柄實心，長 8–20 公分、粗 1–3 公分，圓柱形至棒狀。明顯的膜質菌環持久；環上表面色淡而平滑，環下呈金褐色、顆粒狀，具縱向皺紋。",
+      "flesh": "菌肉堅實，白色至淡黃色，切開後可能變黃或變深，尤以菌柄為甚。氣味由微弱到芳香不等，或似苦杏仁。",
+      "sporePrint": "孢子印呈赭色至淺黃褐色。孢子呈狹橢圓形至紡錘形，表面平滑至微粗糙，非澱粉質，大小為 10–14 × 5–6 微米。",
+      "habitat": "土壤及枯落物腐生菌，在富含氮的公園、庭園、林緣及路旁土壤上群生，常見於蕁麻之間。歐洲主要於八月至十一月出菇。",
+      "uses": "有毒，請勿食用。已有劇烈嘔吐及腹瀉的報告。含有氰化物相關化合物，烹煮無法可靠確保安全。氰化物對已報告腸胃中毒的確切影響仍不明。",
+      "confusion": "Gymnopilus junonius 生於木材上，菌蓋具鱗片而非顆粒，孢子顏色較深。Cystoderma amianthinum 的體型小得多。",
+      "notes": "子實體可能累積鎘。舊資料中的可食說法與已記錄的中毒案例相矛盾，不能作為安全證據。",
+      "names": [
+        "皺蓋羅鱗傘"
+      ],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+        "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+        "https://botany.cz/cs/phaeolepiota-aurea/",
+        "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+        "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+        "https://www.mycopedia.ch/pilze/5764.htm",
+        "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+        "https://www.gobe.si/Gobe/PhaeolepiotaAurea",
+        "https://taieol.tw/pages/145201"
+      ],
+      "label": "金褐傘"
+    },
+    "ja": {
+      "description": "ユーラシアと北アメリカに分布し、地上に群生する大型のきのこです。特に養分が豊富な攪乱された場所に生え、目立つ群落や菌輪をつくることもあります。地域によって発生量は大きく異なり、まれな地域もあります。",
+      "cap": "傘は幅 5–20 cm、ときに 30 cm で、初めは丸く、のちに広いまんじゅう形からほぼ平らになり、中央が低く盛り上がることもあります。表面は乾燥し、黄金色から橙褐色で細かな粒状です。縁には被膜の残片がよく見られます。",
+      "hymenium": "ひだは密で、淡いクリーム色から黄色がかり、のちに黄土褐色になります。柄への付き方はほぼ離生から直生と記載され、短い垂生歯を伴うこともあります。担子器は四胞子性で、子実層のシスチジアはありません。",
+      "stipe": "柄は中実で長さ 8–20 cm、太さ 1–3 cm、円柱形からこん棒形です。目立つ膜質のつばが残り、その上は淡色で平滑、下は黄金褐色で粒状、縦じわがあります。",
+      "flesh": "肉は締まり、白っぽい色から淡黄色で、切ると特に柄で黄変したり暗色になったりすることがあります。においは弱いものから芳香性、苦いアーモンドを思わせるものまで変化します。",
+      "sporePrint": "胞子紋は黄土色から淡い黄褐色です。胞子は細長い楕円形から紡錘形で、平滑から微細な粗面、非アミロイド性、大きさは 10–14 × 5–6 µm です。",
+      "habitat": "土壌や落葉を分解する腐生菌です。窒素に富む公園、庭、林縁、道端の土に群生し、イラクサ類の間にもよく生えます。ヨーロッパでは主に8月から11月に発生します。",
+      "uses": "有毒です。食べないでください。激しい嘔吐や下痢が報告されています。シアン化物関連の化合物を含み、加熱しても安全とはいえません。報告された胃腸中毒におけるシアン化物の正確な寄与は不明です。",
+      "confusion": "Gymnopilus junonius は木に生え、傘は粒状ではなく鱗片状で、胞子の色が濃くなります。Cystoderma amianthinum ははるかに小型です。",
+      "notes": "子実体はカドミウムを蓄積することがあります。古い資料の食用という記載は、記録された中毒事例と矛盾しており、安全性の証拠にはなりません。",
+      "names": [
+        "キナコタケ"
+      ],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+        "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+        "https://botany.cz/cs/phaeolepiota-aurea/",
+        "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+        "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+        "https://www.mycopedia.ch/pilze/5764.htm",
+        "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+        "https://www.gobe.si/Gobe/PhaeolepiotaAurea",
+        "https://api.gbif.org/v1/species/2535253/vernacularNames?limit=1000"
+      ],
+      "label": "コガネタケ"
+    },
+    "ko": {
+      "description": "유라시아와 북아메리카에 분포하며 땅 위에 무리 지어 나는 대형 버섯입니다. 특히 영양분이 풍부한 교란된 장소에서 자라며, 때로는 눈에 띄는 무리나 균륜을 이룹니다. 지역별 발생량 차이가 크고 일부 지역에서는 드뭅니다.",
+      "cap": "갓은 너비 5–20 cm이며 드물게 30 cm에 이릅니다. 처음에는 둥글고 나중에는 넓게 볼록하거나 거의 편평해지며, 가운데가 낮게 솟기도 합니다. 표면은 건조하고 황금빛 노란색에서 주황빛 갈색이며 미세한 알갱이가 있고, 가장자리에는 흔히 피막 잔재가 남습니다.",
+      "hymenium": "주름살은 촘촘하고 연한 크림색에서 누르스름하다가 황토갈색이 됩니다. 대에 붙는 방식은 거의 떨어져 붙은 형태부터 바르게 붙은 형태까지로 기록되며, 짧게 내려붙는 이가 있기도 합니다. 담자기는 4포자성이며 자실층 낭상체는 없습니다.",
+      "stipe": "속이 찬 대는 길이 8–20 cm, 굵기 1–3 cm로 원통형에서 곤봉형입니다. 뚜렷한 막질 턱받이가 남으며, 그 위는 옅고 매끄럽고 아래는 황금빛 갈색으로 알갱이와 세로 주름이 있습니다.",
+      "flesh": "단단한 살은 희끄무레하거나 연한 노란색이며, 자른 뒤 특히 대에서 노랗게 변하거나 어두워질 수 있습니다. 냄새는 약하거나 향긋하며 쓴 아몬드와 비슷하기도 합니다.",
+      "sporePrint": "포자문은 황토색에서 연한 황갈색입니다. 포자는 좁은 타원형에서 방추형이고 매끄럽거나 미세하게 거칠며 비아밀로이드성이고, 크기는 10–14 × 5–6 µm입니다.",
+      "habitat": "토양과 낙엽을 분해하는 부생균으로, 질소가 풍부한 공원, 정원, 숲 가장자리와 길가의 토양에서 무리 지어 나며 쐐기풀 사이에서도 흔히 나타납니다. 유럽에서는 주로 8월부터 11월까지 발생합니다.",
+      "uses": "독버섯이므로 먹지 마십시오. 심한 구토와 설사가 보고되었습니다. 시안화물 관련 화합물을 포함하며, 조리해도 안전을 보장할 수 없습니다. 보고된 위장관 중독에서 시안화물의 정확한 기여도는 불확실합니다.",
+      "confusion": "Gymnopilus junonius는 목재에서 자라며 갓이 알갱이 모양이 아니라 비늘 모양이고 포자가 더 짙습니다. Cystoderma amianthinum은 훨씬 작습니다.",
+      "notes": "자실체는 카드뮴을 축적할 수 있습니다. 오래된 식용 기록은 문서화된 중독 사례와 모순되며 안전성의 근거가 되지 않습니다.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+        "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+        "https://botany.cz/cs/phaeolepiota-aurea/",
+        "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+        "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+        "https://www.mycopedia.ch/pilze/5764.htm",
+        "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+        "https://www.gobe.si/Gobe/PhaeolepiotaAurea",
+        "https://www.nihhs.go.kr/mushroom/psnMush/content0109.do"
+      ],
+      "label": "턱받이금버섯"
+    },
+    "hi": {
+      "description": "एक बड़ा, समूहों में जमीन पर उगने वाला मशरूम, जो यूरेशिया और उत्तरी अमेरिका में पाया जाता है। यह विशेष रूप से पोषक तत्वों से भरपूर, बाधित स्थानों में उगता है और कभी-कभी बड़े समूह या परी-वृत्त बनाता है। स्थानीय प्रचुरता बहुत अलग-अलग होती है और कुछ क्षेत्रों में यह दुर्लभ है।",
+      "cap": "टोपी 5–20 सेमी चौड़ी, असाधारण रूप से 30 सेमी तक होती है; शुरू में गोल, फिर चौड़ी उत्तल या लगभग समतल, कभी बीच में हल्का उभार लिए होती है। यह सूखी, सुनहरी पीली से नारंगी-भूरी और बारीक दानेदार होती है; किनारे पर अक्सर आवरण के अवशेष रहते हैं।",
+      "hymenium": "सघन गलफड़े हल्के क्रीम से पीले होते हैं और बाद में गेरुए-भूरे हो जाते हैं। डंठल से जुड़ाव लगभग मुक्त से सीधे जुड़ा हुआ बताया गया है, कभी छोटी नीचे उतरती दाँत जैसी संरचना के साथ। बेसिडिया चार बीजाणुओं वाले होते हैं; हाइमेनियम में सिस्टिडिया अनुपस्थित हैं।",
+      "stipe": "ठोस डंठल 8–20 सेमी लंबा और 1–3 सेमी मोटा, बेलनाकार से गदा जैसा होता है। स्पष्ट झिल्लीदार वलय बना रहता है; उसके ऊपर सतह हल्की और चिकनी, नीचे सुनहरी भूरी, दानेदार और लंबवत झुर्रीदार होती है।",
+      "flesh": "सघन गूदा सफेद-सा से हल्का पीला होता है और काटने पर, खासकर डंठल में, पीला या गहरा हो सकता है। गंध हल्की से सुगंधित या कड़वे बादाम जैसी होती है।",
+      "sporePrint": "बीजाणु-छाप गेरुई से हल्की पीली-भूरी होती है। बीजाणु संकीर्ण दीर्घवृत्तीय से तकुआकार, चिकने से बारीक खुरदरे, गैर-अमाइलॉइड और 10–14 × 5–6 माइक्रोमीटर के होते हैं।",
+      "habitat": "मिट्टी और पत्ती-कूड़े का मृतोपजीवी, जो नाइट्रोजन-समृद्ध मिट्टी में पार्कों, बगीचों, वन-किनारों और सड़कों के पास, अक्सर बिच्छू-बूटी के बीच समूहों में उगता है। यूरोप में फलन मुख्यतः अगस्त से नवंबर तक होता है।",
+      "uses": "विषैला: न खाएँ। तेज उल्टी और दस्त की घटनाएँ दर्ज हैं। इसमें सायनाइड संबंधी यौगिक होते हैं; पकाने से सुरक्षा सुनिश्चित नहीं होती। दर्ज जठरांत्रीय विषाक्तताओं में सायनाइड का सटीक योगदान अनिश्चित है।",
+      "confusion": "Gymnopilus junonius लकड़ी पर उगता है, उसकी टोपी दानेदार के बजाय शल्कदार होती है और बीजाणु अधिक गहरे होते हैं। Cystoderma amianthinum बहुत छोटा होता है।",
+      "notes": "फलनकाय कैडमियम संचित कर सकते हैं। खाने योग्य होने के पुराने दावे दर्ज विषाक्तताओं से मेल नहीं खाते और सुरक्षा का प्रमाण नहीं हैं।",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+        "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+        "https://botany.cz/cs/phaeolepiota-aurea/",
+        "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+        "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+        "https://www.mycopedia.ch/pilze/5764.htm",
+        "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+        "https://www.gobe.si/Gobe/PhaeolepiotaAurea"
+      ]
+    },
+    "he": {
+      "description": "פטריית קרקע גדולה הגדלה בקבוצות, הנפוצה באירואסיה ובאמריקה הצפונית. היא מופיעה בעיקר בבתי גידול מופרעים ועשירים בחומרי הזנה, ולעיתים יוצרת קבוצות בולטות או מעגלי פיות. השפע המקומי משתנה מאוד, ובאזורים מסוימים היא נדירה.",
+      "cap": "רוחב הכובע 5–20 ס״מ, ובמקרים חריגים 30 ס״מ. בתחילה הוא מעוגל ובהמשך קמור ורחב או כמעט שטוח, לעיתים בעל גבנון נמוך. פניו יבשים, צהובים־זהובים עד חומים־כתומים וגרגריים בעדינות, ובשוליו נותרים לעיתים קרובות שרידי מעטה.",
+      "hymenium": "הדפים הצפופים בצבע קרם חיוור עד צהבהב, ובהמשך חום־אוכרה. חיבורם לרגל מתואר ככמעט חופשי עד מחובר, לעיתים עם שן קצרה היורדת לאורך הרגל. הבסידיות נושאות ארבעה נבגים; ציסטידיות בהימניום חסרות.",
+      "stipe": "הרגל מלאה, אורכה 8–20 ס״מ ועובייה 1–3 ס״מ, גלילית עד דמוית אלה. טבעת קרומית בולטת נשארת; מעליה המשטח חיוור וחלק, ומתחתיה חום־זהוב, גרגרי ומקומט לאורכו.",
+      "flesh": "הבשר מוצק, לבנבן עד צהוב חיוור, ועשוי להצהיב או להתכהות לאחר חיתוך, במיוחד ברגל. הריח נע בין חלש לארומטי או מזכיר שקדים מרים.",
+      "sporePrint": "תדפיס הנבגים בצבע אוכרה עד חום־צהבהב בהיר. הנבגים אליפסואידיים צרים עד דמויי כישור, חלקים עד מחוספסים בעדינות, אינם עמילואידיים, וגודלם 10–14 × 5–6 מיקרומטר.",
+      "habitat": "ספרוטרוף של קרקע ונשר, הגדל בקבוצות בקרקע עשירה בחנקן בפארקים, בגינות, בשולי יער ובצדי דרכים, לעיתים קרובות בין סרפדים. באירופה גופי הפרי מופיעים בעיקר מאוגוסט עד נובמבר.",
+      "uses": "רעילה: אין לאכול. דווח על הקאות ושלשולים קשים. היא מכילה תרכובות ציאניד; בישול אינו מבטיח בטיחות. תרומתו המדויקת של הציאניד להרעלות מערכת העיכול שדווחו עדיין אינה ודאית.",
+      "confusion": "Gymnopilus junonius גדלה על עץ, בעלת כובע קשקשי ולא גרגרי ונבגים כהים יותר. Cystoderma amianthinum קטנה בהרבה.",
+      "notes": "גופי הפרי עלולים לצבור קדמיום. טענות ישנות בדבר אכילות סותרות הרעלות מתועדות ואינן ראיה לבטיחות.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+        "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+        "https://botany.cz/cs/phaeolepiota-aurea/",
+        "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+        "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+        "https://www.mycopedia.ch/pilze/5764.htm",
+        "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+        "https://www.gobe.si/Gobe/PhaeolepiotaAurea"
+      ]
+    },
+    "ar": {
+      "description": "فطر أرضي كبير ينمو في مجموعات وينتشر في أوراسيا وأمريكا الشمالية. يوجد خصوصًا في المواقع المضطربة الغنية بالمغذيات، وقد يشكل تجمعات لافتة أو حلقات دائرية. تتفاوت وفرته المحلية كثيرًا، ويعد نادرًا في بعض المناطق.",
+      "cap": "يبلغ عرض القبعة ٥–٢٠ سم، ونادرًا ٣٠ سم، وتكون مستديرة أولًا ثم محدبة عريضة أو شبه مسطحة، وأحيانًا ذات نتوء مركزي منخفض. سطحها جاف وأصفر ذهبي إلى بني برتقالي ودقيق الحبيبات، وغالبًا تبقى بقايا الغشاء على الحافة.",
+      "hymenium": "الصفائح متقاربة، كريمية شاحبة إلى مصفرة، ثم بنية مغرية. يوصف اتصالها بالساق بأنه شبه حر إلى ملتصق، وأحيانًا مع سن قصير نازل. البازيديات رباعية الأبواغ؛ وتغيب السيستيدات في الطبقة الخصبة.",
+      "stipe": "الساق مصمتة، بطول ٨–٢٠ سم وسمك ١–٣ سم، أسطوانية إلى هراوية. تبقى حلقة غشائية واضحة؛ والسطح فوقها شاحب وأملس، وتحتها بني ذهبي وحبيبي ومتجعد طوليًا.",
+      "flesh": "اللحم متماسك، مائل إلى البياض حتى أصفر شاحب، وقد يصفر أو يغمق بعد القطع، خصوصًا في الساق. تتراوح الرائحة بين ضعيفة وعطرية أو شبيهة باللوز المر.",
+      "sporePrint": "بصمة الأبواغ مغرية إلى بنية مصفرة فاتحة. الأبواغ إهليلجية ضيقة إلى مغزلية، ملساء إلى خشنة بدقة، غير أميلويدية، وأبعادها ١٠–١٤ × ٥–٦ ميكرومتر.",
+      "habitat": "مترمم في التربة والفرشة النباتية، ينمو في مجموعات على تربة غنية بالنيتروجين في المتنزهات والحدائق وحواف الغابات وجوانب الطرق، وغالبًا بين نباتات القراص. يظهر في أوروبا أساسًا من أغسطس إلى نوفمبر.",
+      "uses": "سام: لا يؤكل. سُجل قيء وإسهال شديدان. يحتوي على مركبات السيانيد؛ ولا يضمن الطهي سلامته. لا تزال مساهمة السيانيد الدقيقة في حالات التسمم الهضمي المبلغ عنها غير مؤكدة.",
+      "confusion": "ينمو Gymnopilus junonius على الخشب، وله قبعة حرشفية لا حبيبية وأبواغ أغمق. أما Cystoderma amianthinum فأصغر بكثير.",
+      "notes": "قد تراكم الأجسام الثمرية الكادميوم. تتعارض الادعاءات القديمة بصلاحيته للأكل مع حالات التسمم الموثقة، ولا تعد دليلًا على السلامة.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+        "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+        "https://botany.cz/cs/phaeolepiota-aurea/",
+        "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+        "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+        "https://www.mycopedia.ch/pilze/5764.htm",
+        "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+        "https://www.gobe.si/Gobe/PhaeolepiotaAurea"
+      ]
+    },
+    "fa": {
+      "description": "قارچی بزرگ و خاک‌زی است که به‌صورت گروهی رشد می‌کند و در اوراسیا و آمریکای شمالی پراکنش دارد. به‌ویژه در زیستگاه‌های دست‌خورده و غنی از مواد مغذی دیده می‌شود و گاهی گروه‌های چشمگیر یا حلقه‌های پریان تشکیل می‌دهد. فراوانی محلی بسیار متفاوت است و در برخی مناطق کمیاب است.",
+      "cap": "کلاهک ۵–۲۰ سانتی‌متر پهنا دارد و به‌ندرت به ۳۰ سانتی‌متر می‌رسد؛ ابتدا گرد، سپس پهن و محدب یا تقریباً مسطح است و گاهی برآمدگی مرکزی کوتاهی دارد. سطح آن خشک، زرد طلایی تا قهوه‌ای نارنجی و ریزدانه است و اغلب بقایای پوشش در لبه دیده می‌شود.",
+      "hymenium": "تیغه‌های متراکم کرم کم‌رنگ تا زردفام‌اند و سپس قهوه‌ای اخرایی می‌شوند. اتصال آن‌ها تقریباً آزاد تا چسبیده توصیف شده و گاهی دندانه‌ای کوتاه و پایین‌رونده دارد. بازیدیوم‌ها چهارهاگی‌اند؛ سیستیدیوم‌های هیمنیومی وجود ندارند.",
+      "stipe": "پایه توپر، به طول ۸–۲۰ و ضخامت ۱–۳ سانتی‌متر، استوانه‌ای تا گرزی است. حلقه غشایی برجسته باقی می‌ماند؛ سطح بالای آن کم‌رنگ و صاف و پایین آن قهوه‌ای طلایی، دانه‌دار و دارای چین‌های طولی است.",
+      "flesh": "گوشت سفت، سفیدفام تا زرد کم‌رنگ است و پس از برش، به‌ویژه در پایه، ممکن است زرد یا تیره شود. بو از ضعیف تا معطر یا شبیه بادام تلخ متغیر است.",
+      "sporePrint": "نقش هاگ اخرایی تا قهوه‌ای زردفام روشن است. هاگ‌ها بیضوی باریک تا دوکی، صاف تا اندکی زبر، غیرآمیلوئیدی و به اندازه ۱۰–۱۴ × ۵–۶ میکرومتر هستند.",
+      "habitat": "ساپروتروف خاک و لاشبرگ است و به‌صورت گروهی روی خاک غنی از نیتروژن در پارک‌ها، باغ‌ها، حاشیه جنگل و کنار جاده‌ها، اغلب میان گزنه‌ها رشد می‌کند. در اروپا عمدتاً از اوت تا نوامبر اندام بارده تولید می‌کند.",
+      "uses": "سمی است: نخورید. استفراغ و اسهال شدید گزارش شده است. ترکیبات سیانیدی دارد و پختن، ایمنی آن را تضمین نمی‌کند. سهم دقیق سیانید در مسمومیت‌های گوارشی گزارش‌شده همچنان نامشخص است.",
+      "confusion": "Gymnopilus junonius روی چوب رشد می‌کند، کلاهکی فلس‌دار به‌جای دانه‌دار و هاگ‌های تیره‌تر دارد. Cystoderma amianthinum بسیار کوچک‌تر است.",
+      "notes": "اندام‌های بارده ممکن است کادمیم انباشته کنند. ادعاهای قدیمی درباره خوراکی‌بودن با مسمومیت‌های مستند سازگار نیستند و مدرکی برای ایمنی نیستند.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/phaeolepiota-aurea.php",
+        "https://www.myko.cz/myko-atlas/Phaeolepiota-aurea/",
+        "https://botany.cz/cs/phaeolepiota-aurea/",
+        "https://www.mycopedia.ch/literatur/szp/phaeolepiota_2009_05.pdf",
+        "https://imafungus.biomedcentral.com/articles/10.1186/s43008-021-00057-z",
+        "https://www.mycopedia.ch/pilze/5764.htm",
+        "https://www.latvijasdaba.lv/senes/phaeolepiota-aurea-matt-fr-mairekonradmaubl/",
+        "https://www.gobe.si/Gobe/PhaeolepiotaAurea"
+      ]
+    }
+  },
+  "name": "Phaeolepiota aurea",
+  "author": "(Bull.) R. Maire ex Konrad & Maubl.",
+  "added": "2026-11-07",
+  "order": "Agaricales",
+  "summary": [
+    "Agaricales",
+    "Squamanitaceae",
+    "Phaeolepiota"
+  ],
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Squamanitaceae/Phaeolepiota_aurea/Phaeolepiota_aurea@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Squamanitaceae/Phaeolepiota_aurea/Phaeolepiota_aurea@400.webp",
+  "plateCredit": {
+    "author": "",
+    "credit": "Pierre Bulliard, Herbier de la France, vol.2, plate92(1782[1781–82]), L’Agaric doré / Agaricus aureus. Copy and scan: New York Botanical Garden, LuEsther T.Mertz Library, via Internet Archive. Individual engraver not separately established. Public-domain1782 work; scan metadata NOT_IN_COPYRIGHT. Paper/frame/printed labels removed; original arrangement and all six illustrated representations retained on standard background. Added editorial “P. Bulliard” typesetting, not authenticated autograph or engraver attribution.",
+    "license": "Public domain:1782 work; NYBG scan metadata NOT_IN_COPYRIGHT",
+    "licenseUrl": "",
+    "source": "https://archive.org/details/herbierdelafranc4996bull/page/n179/mode/1up"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Squamanitaceae/Phaeolepiota_aurea/pa1.webp",
+      "author": "ahaukka",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/60729228"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Squamanitaceae/Phaeolepiota_aurea/pa2.webp",
+      "author": "Ben Keen",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/96192382"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Squamanitaceae/Phaeolepiota_aurea/pa3.webp",
+      "author": "Bethany Teigen",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/62007946"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Squamanitaceae/Phaeolepiota_aurea/pa4.webp",
+      "author": "Jean-Paul Boerekamps",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/63088159"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Squamanitaceae/Phaeolepiota_aurea/pa5.webp",
+      "author": "Piermario Maculan",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/190822513"
+    }
+  ],
+  "latinFallback": [
+    "ar",
+    "bg",
+    "es",
+    "fa",
+    "he",
+    "hi",
+    "id",
+    "pt",
+    "ro",
+    "ru",
+    "sr",
+    "tr"
+  ]
+},
+{
+  "name": "Phlebiopsis gigantea",
+  "author": "(Fr.) Jülich",
+  "family": "Phanerochaetaceae",
+  "genus": "Phlebiopsis",
+  "order": "Polyporales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Polyporales",
+    "Phanerochaetaceae",
+    "Phlebiopsis"
+  ],
+  "summary": [
+    "Polyporales",
+    "Phanerochaetaceae",
+    "Phlebiopsis"
+  ],
+  "edibility": "inedible",
+  "hymenium": "smooth",
+  "where": [
+    "wood"
+  ],
+  "color": [
+    "white",
+    "yellow",
+    "red",
+    "brown",
+    "dark"
+  ],
+  "capTo": 100,
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Phanerochaetaceae/Phlebiopsis_gigantea/Phlebiopsis_gigantea@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Phanerochaetaceae/Phlebiopsis_gigantea/Phlebiopsis_gigantea@400.webp",
+  "plateCredit": {
+    "author": "Gemini (per owner-provided provenance)",
+    "credit": "Original Gemini mark retained; no additional signature.",
+    "license": "User supplied; redistribution license not independently established",
+    "licenseUrl": "",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Phanerochaetaceae/Phlebiopsis_gigantea/Phlebiopsis_gigantea@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Phanerochaetaceae/Phlebiopsis_gigantea/pg1.webp",
+      "author": "Michel Langeveld",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/321642042"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Phanerochaetaceae/Phlebiopsis_gigantea/pg2.webp",
+      "author": "Jan Puzio",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/259529357"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Phanerochaetaceae/Phlebiopsis_gigantea/pg3.webp",
+      "author": "Michel Langeveld",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/255531158"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Phanerochaetaceae/Phlebiopsis_gigantea/pg4.webp",
+      "author": "Michel Langeveld",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/105621241"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Phanerochaetaceae/Phlebiopsis_gigantea/pg5.webp",
+      "author": "Jean-Paul Boerekamps",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/105433985"
+    }
+  ],
+  "label": {
+    "en": "conifer parchment",
+    "fr": "phlébie géante",
+    "sk": "pažilnačka ihličnanová",
+    "ru": "флебиопсис гигантский",
+    "cs": "kornatec obrovský",
+    "de": "Großer Zystidenrindenpilz",
+    "nl": "Dennenharszwam",
+    "da": "kæmpebarksvamp",
+    "fi": "harmaaorvakka",
+    "sv": "pergamentsvamp",
+    "no": "stor barksopp",
+    "et": "hiidkoorik",
+    "lv": "lielā pergamentsēne",
+    "lt": "didysis raukšliagrybenis",
+    "hu": "óriás terülőgomba",
+    "sl": "cemprinova nagubanka",
+    "pl": "korownica okazała",
+    "ja": "カミカワタケ",
+    "ko": "좀아교고약버섯",
+    "zh": "巨大顯絲菌",
+    "uk": "флебіопсис гігантський",
+    "bg": "Гигантски флебиопсис"
+  },
+  "names": {
+    "en": [],
+    "fr": [],
+    "sk": [],
+    "ru": [
+      "пениофора гигантская"
+    ],
+    "cs": [],
+    "de": [],
+    "nl": [
+      "Denneharszwam"
+    ],
+    "da": [],
+    "fi": [],
+    "sv": [],
+    "no": [],
+    "et": [],
+    "lv": [],
+    "lt": [],
+    "hu": [],
+    "sl": [],
+    "pl": [
+      "korownica olbrzymia",
+      "żylica olbrzymia",
+      "powłocznik olbrzymi",
+      "osnówka olbrzymia",
+      "grzyb składowy",
+      "żylak olbrzymi"
+    ],
+    "ja": [],
+    "ko": [],
+    "zh": [],
+    "uk": [
+      "пеніофора гігантська"
+    ],
+    "bg": []
+  },
+  "sources": {
+    "en": [
+      {
+        "group": "name",
+        "name": "Index Fungorum 319885",
+        "href": "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=319885"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum 319885",
+        "href": "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordId=319885"
+      },
+      {
+        "group": "name",
+        "name": "GBIF accepted species8899548",
+        "href": "https://www.gbif.org/species/8899548"
+      },
+      {
+        "group": "text",
+        "name": "Cornell University biological control profile",
+        "href": "https://biocontrol.entomology.cornell.edu/pathogens/phlebiopsis.php"
+      },
+      {
+        "group": "text",
+        "name": "English Fungi — Leif Goodwin",
+        "href": "https://www.englishfungi.org/Species/Phlebiopsis%20gigantea"
+      },
+      {
+        "group": "text",
+        "name": "Грибы Сибири species atlas",
+        "href": "https://mycology.su/phlebiopsis-gigantea.html"
+      },
+      {
+        "group": "text",
+        "name": "Nahuby.sk species atlas",
+        "href": "https://www.nahuby.sk/atlas-hub/Phlebiopsis-gigantea/pazilnacka-ihlicnanova/ID3006"
+      },
+      {
+        "group": "text",
+        "name": "Polish species article; published guide/checklist references",
+        "href": "https://pl.wikipedia.org/wiki/%C5%BBylica_olbrzymia"
+      },
+      {
+        "group": "name",
+        "name": "Government of Canada TERMIUM Plus",
+        "href": "https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html?i=&index=alt&lang=eng&srchtxt=PHLEBIA+GIGANTEA"
+      }
+    ],
+    "sk": [
+      {
+        "group": "name",
+        "name": "Index Fungorum 319885",
+        "href": "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=319885"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum 319885",
+        "href": "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordId=319885"
+      },
+      {
+        "group": "name",
+        "name": "GBIF accepted species8899548",
+        "href": "https://www.gbif.org/species/8899548"
+      },
+      {
+        "group": "text",
+        "name": "Cornell University biological control profile",
+        "href": "https://biocontrol.entomology.cornell.edu/pathogens/phlebiopsis.php"
+      },
+      {
+        "group": "text",
+        "name": "English Fungi — Leif Goodwin",
+        "href": "https://www.englishfungi.org/Species/Phlebiopsis%20gigantea"
+      },
+      {
+        "group": "text",
+        "name": "Грибы Сибири species atlas",
+        "href": "https://mycology.su/phlebiopsis-gigantea.html"
+      },
+      {
+        "group": "text",
+        "name": "Nahuby.sk species atlas",
+        "href": "https://www.nahuby.sk/atlas-hub/Phlebiopsis-gigantea/pazilnacka-ihlicnanova/ID3006"
+      },
+      {
+        "group": "text",
+        "name": "Polish species article; published guide/checklist references",
+        "href": "https://pl.wikipedia.org/wiki/%C5%BBylica_olbrzymia"
+      },
+      {
+        "group": "name",
+        "name": "Nahuby.sk species atlas",
+        "href": "https://www.nahuby.sk/atlas-hub/Phlebiopsis-gigantea/pazilnacka-ihlicnanova/ID3006"
+      }
+    ],
+    "cs": [
+      {
+        "group": "name",
+        "name": "Index Fungorum 319885",
+        "href": "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=319885"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum 319885",
+        "href": "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordId=319885"
+      },
+      {
+        "group": "name",
+        "name": "GBIF accepted species8899548",
+        "href": "https://www.gbif.org/species/8899548"
+      },
+      {
+        "group": "text",
+        "name": "Cornell University biological control profile",
+        "href": "https://biocontrol.entomology.cornell.edu/pathogens/phlebiopsis.php"
+      },
+      {
+        "group": "text",
+        "name": "English Fungi — Leif Goodwin",
+        "href": "https://www.englishfungi.org/Species/Phlebiopsis%20gigantea"
+      },
+      {
+        "group": "text",
+        "name": "Грибы Сибири species atlas",
+        "href": "https://mycology.su/phlebiopsis-gigantea.html"
+      },
+      {
+        "group": "text",
+        "name": "Nahuby.sk species atlas",
+        "href": "https://www.nahuby.sk/atlas-hub/Phlebiopsis-gigantea/pazilnacka-ihlicnanova/ID3006"
+      },
+      {
+        "group": "text",
+        "name": "Polish species article; published guide/checklist references",
+        "href": "https://pl.wikipedia.org/wiki/%C5%BBylica_olbrzymia"
+      },
+      {
+        "group": "name",
+        "name": "Masaryk University mycology excursion list",
+        "href": "https://www.sci.muni.cz/botany/mycology/mykexk16.htm"
+      }
+    ],
+    "de": [
+      {
+        "group": "name",
+        "name": "Index Fungorum 319885",
+        "href": "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=319885"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum 319885",
+        "href": "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordId=319885"
+      },
+      {
+        "group": "name",
+        "name": "GBIF accepted species8899548",
+        "href": "https://www.gbif.org/species/8899548"
+      },
+      {
+        "group": "text",
+        "name": "Cornell University biological control profile",
+        "href": "https://biocontrol.entomology.cornell.edu/pathogens/phlebiopsis.php"
+      },
+      {
+        "group": "text",
+        "name": "English Fungi — Leif Goodwin",
+        "href": "https://www.englishfungi.org/Species/Phlebiopsis%20gigantea"
+      },
+      {
+        "group": "text",
+        "name": "Грибы Сибири species atlas",
+        "href": "https://mycology.su/phlebiopsis-gigantea.html"
+      },
+      {
+        "group": "text",
+        "name": "Nahuby.sk species atlas",
+        "href": "https://www.nahuby.sk/atlas-hub/Phlebiopsis-gigantea/pazilnacka-ihlicnanova/ID3006"
+      },
+      {
+        "group": "text",
+        "name": "Polish species article; published guide/checklist references",
+        "href": "https://pl.wikipedia.org/wiki/%C5%BBylica_olbrzymia"
+      },
+      {
+        "group": "name",
+        "name": "DGfM German fungal taxon list via GBIF",
+        "href": "https://api.gbif.org/v1/species/8899548/vernacularNames?limit=100"
+      }
+    ],
+    "fr": [
+      {
+        "group": "name",
+        "name": "Index Fungorum 319885",
+        "href": "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=319885"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum 319885",
+        "href": "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordId=319885"
+      },
+      {
+        "group": "name",
+        "name": "GBIF accepted species8899548",
+        "href": "https://www.gbif.org/species/8899548"
+      },
+      {
+        "group": "text",
+        "name": "Cornell University biological control profile",
+        "href": "https://biocontrol.entomology.cornell.edu/pathogens/phlebiopsis.php"
+      },
+      {
+        "group": "text",
+        "name": "English Fungi — Leif Goodwin",
+        "href": "https://www.englishfungi.org/Species/Phlebiopsis%20gigantea"
+      },
+      {
+        "group": "text",
+        "name": "Грибы Сибири species atlas",
+        "href": "https://mycology.su/phlebiopsis-gigantea.html"
+      },
+      {
+        "group": "text",
+        "name": "Nahuby.sk species atlas",
+        "href": "https://www.nahuby.sk/atlas-hub/Phlebiopsis-gigantea/pazilnacka-ihlicnanova/ID3006"
+      },
+      {
+        "group": "text",
+        "name": "Polish species article; published guide/checklist references",
+        "href": "https://pl.wikipedia.org/wiki/%C5%BBylica_olbrzymia"
+      },
+      {
+        "group": "name",
+        "name": "Government of Canada TERMIUM Plus",
+        "href": "https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html?i=&index=alt&lang=eng&srchtxt=PHLEBIA+GIGANTEA"
+      }
+    ],
+    "nl": [
+      {
+        "group": "name",
+        "name": "Index Fungorum 319885",
+        "href": "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=319885"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum 319885",
+        "href": "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordId=319885"
+      },
+      {
+        "group": "name",
+        "name": "GBIF accepted species8899548",
+        "href": "https://www.gbif.org/species/8899548"
+      },
+      {
+        "group": "text",
+        "name": "Cornell University biological control profile",
+        "href": "https://biocontrol.entomology.cornell.edu/pathogens/phlebiopsis.php"
+      },
+      {
+        "group": "text",
+        "name": "English Fungi — Leif Goodwin",
+        "href": "https://www.englishfungi.org/Species/Phlebiopsis%20gigantea"
+      },
+      {
+        "group": "text",
+        "name": "Грибы Сибири species atlas",
+        "href": "https://mycology.su/phlebiopsis-gigantea.html"
+      },
+      {
+        "group": "text",
+        "name": "Nahuby.sk species atlas",
+        "href": "https://www.nahuby.sk/atlas-hub/Phlebiopsis-gigantea/pazilnacka-ihlicnanova/ID3006"
+      },
+      {
+        "group": "text",
+        "name": "Polish species article; published guide/checklist references",
+        "href": "https://pl.wikipedia.org/wiki/%C5%BBylica_olbrzymia"
+      },
+      {
+        "group": "name",
+        "name": "Nederlands Soortenregister via GBIF",
+        "href": "https://api.gbif.org/v1/species/8899548/vernacularNames?limit=100"
+      }
+    ],
+    "pl": [
+      {
+        "group": "name",
+        "name": "Index Fungorum 319885",
+        "href": "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=319885"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum 319885",
+        "href": "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordId=319885"
+      },
+      {
+        "group": "name",
+        "name": "GBIF accepted species8899548",
+        "href": "https://www.gbif.org/species/8899548"
+      },
+      {
+        "group": "text",
+        "name": "Cornell University biological control profile",
+        "href": "https://biocontrol.entomology.cornell.edu/pathogens/phlebiopsis.php"
+      },
+      {
+        "group": "text",
+        "name": "English Fungi — Leif Goodwin",
+        "href": "https://www.englishfungi.org/Species/Phlebiopsis%20gigantea"
+      },
+      {
+        "group": "text",
+        "name": "Грибы Сибири species atlas",
+        "href": "https://mycology.su/phlebiopsis-gigantea.html"
+      },
+      {
+        "group": "text",
+        "name": "Nahuby.sk species atlas",
+        "href": "https://www.nahuby.sk/atlas-hub/Phlebiopsis-gigantea/pazilnacka-ihlicnanova/ID3006"
+      },
+      {
+        "group": "text",
+        "name": "Polish species article; published guide/checklist references",
+        "href": "https://pl.wikipedia.org/wiki/%C5%BBylica_olbrzymia"
+      },
+      {
+        "group": "name",
+        "name": "Grzyby.pl; Polish species article citing published national guides",
+        "href": "https://www.grzyby.pl/gatunki/Phlebiopsis_gigantea.htm"
+      },
+      {
+        "group": "name",
+        "name": "Grzyby.pl; Polish species article citing published national guides",
+        "href": "https://pl.wikipedia.org/wiki/%C5%BBylica_olbrzymia"
+      }
+    ],
+    "ru": [
+      {
+        "group": "name",
+        "name": "Index Fungorum 319885",
+        "href": "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=319885"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum 319885",
+        "href": "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordId=319885"
+      },
+      {
+        "group": "name",
+        "name": "GBIF accepted species8899548",
+        "href": "https://www.gbif.org/species/8899548"
+      },
+      {
+        "group": "text",
+        "name": "Cornell University biological control profile",
+        "href": "https://biocontrol.entomology.cornell.edu/pathogens/phlebiopsis.php"
+      },
+      {
+        "group": "text",
+        "name": "English Fungi — Leif Goodwin",
+        "href": "https://www.englishfungi.org/Species/Phlebiopsis%20gigantea"
+      },
+      {
+        "group": "text",
+        "name": "Грибы Сибири species atlas",
+        "href": "https://mycology.su/phlebiopsis-gigantea.html"
+      },
+      {
+        "group": "text",
+        "name": "Nahuby.sk species atlas",
+        "href": "https://www.nahuby.sk/atlas-hub/Phlebiopsis-gigantea/pazilnacka-ihlicnanova/ID3006"
+      },
+      {
+        "group": "text",
+        "name": "Polish species article; published guide/checklist references",
+        "href": "https://pl.wikipedia.org/wiki/%C5%BBylica_olbrzymia"
+      },
+      {
+        "group": "name",
+        "name": "Грибы Сибири species atlas",
+        "href": "https://mycology.su/phlebiopsis-gigantea.html"
+      }
+    ],
+    "uk": [
+      {
+        "group": "name",
+        "name": "Index Fungorum 319885",
+        "href": "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=319885"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum 319885",
+        "href": "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordId=319885"
+      },
+      {
+        "group": "name",
+        "name": "GBIF accepted species8899548",
+        "href": "https://www.gbif.org/species/8899548"
+      },
+      {
+        "group": "text",
+        "name": "Cornell University biological control profile",
+        "href": "https://biocontrol.entomology.cornell.edu/pathogens/phlebiopsis.php"
+      },
+      {
+        "group": "text",
+        "name": "English Fungi — Leif Goodwin",
+        "href": "https://www.englishfungi.org/Species/Phlebiopsis%20gigantea"
+      },
+      {
+        "group": "text",
+        "name": "Грибы Сибири species atlas",
+        "href": "https://mycology.su/phlebiopsis-gigantea.html"
+      },
+      {
+        "group": "text",
+        "name": "Nahuby.sk species atlas",
+        "href": "https://www.nahuby.sk/atlas-hub/Phlebiopsis-gigantea/pazilnacka-ihlicnanova/ID3006"
+      },
+      {
+        "group": "text",
+        "name": "Polish species article; published guide/checklist references",
+        "href": "https://pl.wikipedia.org/wiki/%C5%BBylica_olbrzymia"
+      },
+      {
+        "group": "name",
+        "name": "National Forestry University of Ukraine scientific bulletin 2010,20.4,p49",
+        "href": "https://nv.nltu.edu.ua/Archive/2010/20_4/49_Slobodian_20_4.pdf"
+      },
+      {
+        "group": "name",
+        "name": "National Forestry University of Ukraine scientific bulletin 2010,20.4,p49",
+        "href": "https://nv.nltu.edu.ua/Archive/2009/19_15/38_Kra.pdf"
+      },
+      {
+        "group": "name",
+        "name": "National Forestry University of Ukraine scientific bulletin 2010,20.4,p49",
+        "href": "https://studfile.net/preview/12418504/page:47/"
+      }
+    ],
+    "bg": [
+      {
+        "group": "name",
+        "name": "Index Fungorum 319885",
+        "href": "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=319885"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum 319885",
+        "href": "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordId=319885"
+      },
+      {
+        "group": "name",
+        "name": "GBIF accepted species8899548",
+        "href": "https://www.gbif.org/species/8899548"
+      },
+      {
+        "group": "text",
+        "name": "Cornell University biological control profile",
+        "href": "https://biocontrol.entomology.cornell.edu/pathogens/phlebiopsis.php"
+      },
+      {
+        "group": "text",
+        "name": "English Fungi — Leif Goodwin",
+        "href": "https://www.englishfungi.org/Species/Phlebiopsis%20gigantea"
+      },
+      {
+        "group": "text",
+        "name": "Грибы Сибири species atlas",
+        "href": "https://mycology.su/phlebiopsis-gigantea.html"
+      },
+      {
+        "group": "text",
+        "name": "Nahuby.sk species atlas",
+        "href": "https://www.nahuby.sk/atlas-hub/Phlebiopsis-gigantea/pazilnacka-ihlicnanova/ID3006"
+      },
+      {
+        "group": "text",
+        "name": "Polish species article; published guide/checklist references",
+        "href": "https://pl.wikipedia.org/wiki/%C5%BBylica_olbrzymia"
+      },
+      {
+        "group": "name",
+        "name": "Manatarka.org Bulgarian specialist fungal atlas",
+        "href": "https://manatarka.org/phlebiopsis-gigantea/"
+      }
+    ],
+    "hr": [
+      {
+        "group": "name",
+        "name": "Index Fungorum 319885",
+        "href": "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=319885"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum 319885",
+        "href": "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordId=319885"
+      },
+      {
+        "group": "name",
+        "name": "GBIF accepted species8899548",
+        "href": "https://www.gbif.org/species/8899548"
+      },
+      {
+        "group": "text",
+        "name": "Cornell University biological control profile",
+        "href": "https://biocontrol.entomology.cornell.edu/pathogens/phlebiopsis.php"
+      },
+      {
+        "group": "text",
+        "name": "English Fungi — Leif Goodwin",
+        "href": "https://www.englishfungi.org/Species/Phlebiopsis%20gigantea"
+      },
+      {
+        "group": "text",
+        "name": "Грибы Сибири species atlas",
+        "href": "https://mycology.su/phlebiopsis-gigantea.html"
+      },
+      {
+        "group": "text",
+        "name": "Nahuby.sk species atlas",
+        "href": "https://www.nahuby.sk/atlas-hub/Phlebiopsis-gigantea/pazilnacka-ihlicnanova/ID3006"
+      },
+      {
+        "group": "text",
+        "name": "Polish species article; published guide/checklist references",
+        "href": "https://pl.wikipedia.org/wiki/%C5%BBylica_olbrzymia"
+      }
+    ],
+    "sr": [
+      {
+        "group": "name",
+        "name": "Index Fungorum 319885",
+        "href": "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=319885"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum 319885",
+        "href": "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordId=319885"
+      },
+      {
+        "group": "name",
+        "name": "GBIF accepted species8899548",
+        "href": "https://www.gbif.org/species/8899548"
+      },
+      {
+        "group": "text",
+        "name": "Cornell University biological control profile",
+        "href": "https://biocontrol.entomology.cornell.edu/pathogens/phlebiopsis.php"
+      },
+      {
+        "group": "text",
+        "name": "English Fungi — Leif Goodwin",
+        "href": "https://www.englishfungi.org/Species/Phlebiopsis%20gigantea"
+      },
+      {
+        "group": "text",
+        "name": "Грибы Сибири species atlas",
+        "href": "https://mycology.su/phlebiopsis-gigantea.html"
+      },
+      {
+        "group": "text",
+        "name": "Nahuby.sk species atlas",
+        "href": "https://www.nahuby.sk/atlas-hub/Phlebiopsis-gigantea/pazilnacka-ihlicnanova/ID3006"
+      },
+      {
+        "group": "text",
+        "name": "Polish species article; published guide/checklist references",
+        "href": "https://pl.wikipedia.org/wiki/%C5%BBylica_olbrzymia"
+      }
+    ],
+    "sl": [
+      {
+        "group": "name",
+        "name": "Index Fungorum 319885",
+        "href": "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=319885"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum 319885",
+        "href": "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordId=319885"
+      },
+      {
+        "group": "name",
+        "name": "GBIF accepted species8899548",
+        "href": "https://www.gbif.org/species/8899548"
+      },
+      {
+        "group": "text",
+        "name": "Cornell University biological control profile",
+        "href": "https://biocontrol.entomology.cornell.edu/pathogens/phlebiopsis.php"
+      },
+      {
+        "group": "text",
+        "name": "English Fungi — Leif Goodwin",
+        "href": "https://www.englishfungi.org/Species/Phlebiopsis%20gigantea"
+      },
+      {
+        "group": "text",
+        "name": "Грибы Сибири species atlas",
+        "href": "https://mycology.su/phlebiopsis-gigantea.html"
+      },
+      {
+        "group": "text",
+        "name": "Nahuby.sk species atlas",
+        "href": "https://www.nahuby.sk/atlas-hub/Phlebiopsis-gigantea/pazilnacka-ihlicnanova/ID3006"
+      },
+      {
+        "group": "text",
+        "name": "Polish species article; published guide/checklist references",
+        "href": "https://pl.wikipedia.org/wiki/%C5%BBylica_olbrzymia"
+      },
+      {
+        "group": "name",
+        "name": "Mikološka zveza Slovenije, Operativni seznam gliv Slovenije 2013",
+        "href": "https://www.zdravgozd.si/dat/gradivo/22.pdf"
+      }
+    ],
+    "hu": [
+      {
+        "group": "name",
+        "name": "Index Fungorum 319885",
+        "href": "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=319885"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum 319885",
+        "href": "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordId=319885"
+      },
+      {
+        "group": "name",
+        "name": "GBIF accepted species8899548",
+        "href": "https://www.gbif.org/species/8899548"
+      },
+      {
+        "group": "text",
+        "name": "Cornell University biological control profile",
+        "href": "https://biocontrol.entomology.cornell.edu/pathogens/phlebiopsis.php"
+      },
+      {
+        "group": "text",
+        "name": "English Fungi — Leif Goodwin",
+        "href": "https://www.englishfungi.org/Species/Phlebiopsis%20gigantea"
+      },
+      {
+        "group": "text",
+        "name": "Грибы Сибири species atlas",
+        "href": "https://mycology.su/phlebiopsis-gigantea.html"
+      },
+      {
+        "group": "text",
+        "name": "Nahuby.sk species atlas",
+        "href": "https://www.nahuby.sk/atlas-hub/Phlebiopsis-gigantea/pazilnacka-ihlicnanova/ID3006"
+      },
+      {
+        "group": "text",
+        "name": "Polish species article; published guide/checklist references",
+        "href": "https://pl.wikipedia.org/wiki/%C5%BBylica_olbrzymia"
+      },
+      {
+        "group": "name",
+        "name": "Hungarian approved fungal name list 2017",
+        "href": "https://gombaszaki.hu/wp-content/uploads/2020/02/Gombanevjegyzek_2017.04.26_lm_ml_gsz_nyb.pdf"
+      }
+    ],
+    "ro": [
+      {
+        "group": "name",
+        "name": "Index Fungorum 319885",
+        "href": "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=319885"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum 319885",
+        "href": "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordId=319885"
+      },
+      {
+        "group": "name",
+        "name": "GBIF accepted species8899548",
+        "href": "https://www.gbif.org/species/8899548"
+      },
+      {
+        "group": "text",
+        "name": "Cornell University biological control profile",
+        "href": "https://biocontrol.entomology.cornell.edu/pathogens/phlebiopsis.php"
+      },
+      {
+        "group": "text",
+        "name": "English Fungi — Leif Goodwin",
+        "href": "https://www.englishfungi.org/Species/Phlebiopsis%20gigantea"
+      },
+      {
+        "group": "text",
+        "name": "Грибы Сибири species atlas",
+        "href": "https://mycology.su/phlebiopsis-gigantea.html"
+      },
+      {
+        "group": "text",
+        "name": "Nahuby.sk species atlas",
+        "href": "https://www.nahuby.sk/atlas-hub/Phlebiopsis-gigantea/pazilnacka-ihlicnanova/ID3006"
+      },
+      {
+        "group": "text",
+        "name": "Polish species article; published guide/checklist references",
+        "href": "https://pl.wikipedia.org/wiki/%C5%BBylica_olbrzymia"
+      }
+    ],
+    "da": [
+      {
+        "group": "name",
+        "name": "Index Fungorum 319885",
+        "href": "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=319885"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum 319885",
+        "href": "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordId=319885"
+      },
+      {
+        "group": "name",
+        "name": "GBIF accepted species8899548",
+        "href": "https://www.gbif.org/species/8899548"
+      },
+      {
+        "group": "text",
+        "name": "Cornell University biological control profile",
+        "href": "https://biocontrol.entomology.cornell.edu/pathogens/phlebiopsis.php"
+      },
+      {
+        "group": "text",
+        "name": "English Fungi — Leif Goodwin",
+        "href": "https://www.englishfungi.org/Species/Phlebiopsis%20gigantea"
+      },
+      {
+        "group": "text",
+        "name": "Грибы Сибири species atlas",
+        "href": "https://mycology.su/phlebiopsis-gigantea.html"
+      },
+      {
+        "group": "text",
+        "name": "Nahuby.sk species atlas",
+        "href": "https://www.nahuby.sk/atlas-hub/Phlebiopsis-gigantea/pazilnacka-ihlicnanova/ID3006"
+      },
+      {
+        "group": "text",
+        "name": "Polish species article; published guide/checklist references",
+        "href": "https://pl.wikipedia.org/wiki/%C5%BBylica_olbrzymia"
+      },
+      {
+        "group": "name",
+        "name": "Aarhus University Danish Red List",
+        "href": "https://roedliste.au.dk/data.asp?ID=4403&gruppeID=87"
+      }
+    ],
+    "no": [
+      {
+        "group": "name",
+        "name": "Index Fungorum 319885",
+        "href": "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=319885"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum 319885",
+        "href": "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordId=319885"
+      },
+      {
+        "group": "name",
+        "name": "GBIF accepted species8899548",
+        "href": "https://www.gbif.org/species/8899548"
+      },
+      {
+        "group": "text",
+        "name": "Cornell University biological control profile",
+        "href": "https://biocontrol.entomology.cornell.edu/pathogens/phlebiopsis.php"
+      },
+      {
+        "group": "text",
+        "name": "English Fungi — Leif Goodwin",
+        "href": "https://www.englishfungi.org/Species/Phlebiopsis%20gigantea"
+      },
+      {
+        "group": "text",
+        "name": "Грибы Сибири species atlas",
+        "href": "https://mycology.su/phlebiopsis-gigantea.html"
+      },
+      {
+        "group": "text",
+        "name": "Nahuby.sk species atlas",
+        "href": "https://www.nahuby.sk/atlas-hub/Phlebiopsis-gigantea/pazilnacka-ihlicnanova/ID3006"
+      },
+      {
+        "group": "text",
+        "name": "Polish species article; published guide/checklist references",
+        "href": "https://pl.wikipedia.org/wiki/%C5%BBylica_olbrzymia"
+      },
+      {
+        "group": "name",
+        "name": "eElurikkus / PlutoF; Norwegian national checklist via GBIF",
+        "href": "https://elurikkus.ee/app/taxonomy/taxon/165074"
+      }
+    ],
+    "sv": [
+      {
+        "group": "name",
+        "name": "Index Fungorum 319885",
+        "href": "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=319885"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum 319885",
+        "href": "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordId=319885"
+      },
+      {
+        "group": "name",
+        "name": "GBIF accepted species8899548",
+        "href": "https://www.gbif.org/species/8899548"
+      },
+      {
+        "group": "text",
+        "name": "Cornell University biological control profile",
+        "href": "https://biocontrol.entomology.cornell.edu/pathogens/phlebiopsis.php"
+      },
+      {
+        "group": "text",
+        "name": "English Fungi — Leif Goodwin",
+        "href": "https://www.englishfungi.org/Species/Phlebiopsis%20gigantea"
+      },
+      {
+        "group": "text",
+        "name": "Грибы Сибири species atlas",
+        "href": "https://mycology.su/phlebiopsis-gigantea.html"
+      },
+      {
+        "group": "text",
+        "name": "Nahuby.sk species atlas",
+        "href": "https://www.nahuby.sk/atlas-hub/Phlebiopsis-gigantea/pazilnacka-ihlicnanova/ID3006"
+      },
+      {
+        "group": "text",
+        "name": "Polish species article; published guide/checklist references",
+        "href": "https://pl.wikipedia.org/wiki/%C5%BBylica_olbrzymia"
+      },
+      {
+        "group": "name",
+        "name": "FinBIF Swedish-language name; corroborated by Dyntaxa via GBIF",
+        "href": "https://laji.fi/taxon/MX.205740?showTree=true"
+      }
+    ],
+    "fi": [
+      {
+        "group": "name",
+        "name": "Index Fungorum 319885",
+        "href": "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=319885"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum 319885",
+        "href": "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordId=319885"
+      },
+      {
+        "group": "name",
+        "name": "GBIF accepted species8899548",
+        "href": "https://www.gbif.org/species/8899548"
+      },
+      {
+        "group": "text",
+        "name": "Cornell University biological control profile",
+        "href": "https://biocontrol.entomology.cornell.edu/pathogens/phlebiopsis.php"
+      },
+      {
+        "group": "text",
+        "name": "English Fungi — Leif Goodwin",
+        "href": "https://www.englishfungi.org/Species/Phlebiopsis%20gigantea"
+      },
+      {
+        "group": "text",
+        "name": "Грибы Сибири species atlas",
+        "href": "https://mycology.su/phlebiopsis-gigantea.html"
+      },
+      {
+        "group": "text",
+        "name": "Nahuby.sk species atlas",
+        "href": "https://www.nahuby.sk/atlas-hub/Phlebiopsis-gigantea/pazilnacka-ihlicnanova/ID3006"
+      },
+      {
+        "group": "text",
+        "name": "Polish species article; published guide/checklist references",
+        "href": "https://pl.wikipedia.org/wiki/%C5%BBylica_olbrzymia"
+      },
+      {
+        "group": "name",
+        "name": "Finnish Biodiversity Information Facility",
+        "href": "https://laji.fi/taxon/MX.205740?showTree=true"
+      }
+    ],
+    "et": [
+      {
+        "group": "name",
+        "name": "Index Fungorum 319885",
+        "href": "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=319885"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum 319885",
+        "href": "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordId=319885"
+      },
+      {
+        "group": "name",
+        "name": "GBIF accepted species8899548",
+        "href": "https://www.gbif.org/species/8899548"
+      },
+      {
+        "group": "text",
+        "name": "Cornell University biological control profile",
+        "href": "https://biocontrol.entomology.cornell.edu/pathogens/phlebiopsis.php"
+      },
+      {
+        "group": "text",
+        "name": "English Fungi — Leif Goodwin",
+        "href": "https://www.englishfungi.org/Species/Phlebiopsis%20gigantea"
+      },
+      {
+        "group": "text",
+        "name": "Грибы Сибири species atlas",
+        "href": "https://mycology.su/phlebiopsis-gigantea.html"
+      },
+      {
+        "group": "text",
+        "name": "Nahuby.sk species atlas",
+        "href": "https://www.nahuby.sk/atlas-hub/Phlebiopsis-gigantea/pazilnacka-ihlicnanova/ID3006"
+      },
+      {
+        "group": "text",
+        "name": "Polish species article; published guide/checklist references",
+        "href": "https://pl.wikipedia.org/wiki/%C5%BBylica_olbrzymia"
+      },
+      {
+        "group": "name",
+        "name": "University of Tartu eElurikkus / PlutoF",
+        "href": "https://elurikkus.ee/app/taxonomy/taxon/165074"
+      }
+    ],
+    "lv": [
+      {
+        "group": "name",
+        "name": "Index Fungorum 319885",
+        "href": "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=319885"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum 319885",
+        "href": "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordId=319885"
+      },
+      {
+        "group": "name",
+        "name": "GBIF accepted species8899548",
+        "href": "https://www.gbif.org/species/8899548"
+      },
+      {
+        "group": "text",
+        "name": "Cornell University biological control profile",
+        "href": "https://biocontrol.entomology.cornell.edu/pathogens/phlebiopsis.php"
+      },
+      {
+        "group": "text",
+        "name": "English Fungi — Leif Goodwin",
+        "href": "https://www.englishfungi.org/Species/Phlebiopsis%20gigantea"
+      },
+      {
+        "group": "text",
+        "name": "Грибы Сибири species atlas",
+        "href": "https://mycology.su/phlebiopsis-gigantea.html"
+      },
+      {
+        "group": "text",
+        "name": "Nahuby.sk species atlas",
+        "href": "https://www.nahuby.sk/atlas-hub/Phlebiopsis-gigantea/pazilnacka-ihlicnanova/ID3006"
+      },
+      {
+        "group": "text",
+        "name": "Polish species article; published guide/checklist references",
+        "href": "https://pl.wikipedia.org/wiki/%C5%BBylica_olbrzymia"
+      },
+      {
+        "group": "name",
+        "name": "Latvian State Forest Research Institute Silava",
+        "href": "https://www.silava.lv/petnieciba/petijumi/lielas-pergamentsenes-nozime-saknu-piepes-micelija-izplatibas-ierobezosana-eglu-un-priezu-celmos"
+      }
+    ],
+    "lt": [
+      {
+        "group": "name",
+        "name": "Index Fungorum 319885",
+        "href": "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=319885"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum 319885",
+        "href": "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordId=319885"
+      },
+      {
+        "group": "name",
+        "name": "GBIF accepted species8899548",
+        "href": "https://www.gbif.org/species/8899548"
+      },
+      {
+        "group": "text",
+        "name": "Cornell University biological control profile",
+        "href": "https://biocontrol.entomology.cornell.edu/pathogens/phlebiopsis.php"
+      },
+      {
+        "group": "text",
+        "name": "English Fungi — Leif Goodwin",
+        "href": "https://www.englishfungi.org/Species/Phlebiopsis%20gigantea"
+      },
+      {
+        "group": "text",
+        "name": "Грибы Сибири species atlas",
+        "href": "https://mycology.su/phlebiopsis-gigantea.html"
+      },
+      {
+        "group": "text",
+        "name": "Nahuby.sk species atlas",
+        "href": "https://www.nahuby.sk/atlas-hub/Phlebiopsis-gigantea/pazilnacka-ihlicnanova/ID3006"
+      },
+      {
+        "group": "text",
+        "name": "Polish species article; published guide/checklist references",
+        "href": "https://pl.wikipedia.org/wiki/%C5%BBylica_olbrzymia"
+      },
+      {
+        "group": "name",
+        "name": "Gamtos tyrimų centras, Lietuvos grybų sąvadas 2024",
+        "href": "https://gamtostyrimai.lt/wp-content/uploads/2024/12/2024_Grybu_savadas_web.pdf"
+      }
+    ],
+    "it": [
+      {
+        "group": "name",
+        "name": "Index Fungorum 319885",
+        "href": "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=319885"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum 319885",
+        "href": "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordId=319885"
+      },
+      {
+        "group": "name",
+        "name": "GBIF accepted species8899548",
+        "href": "https://www.gbif.org/species/8899548"
+      },
+      {
+        "group": "text",
+        "name": "Cornell University biological control profile",
+        "href": "https://biocontrol.entomology.cornell.edu/pathogens/phlebiopsis.php"
+      },
+      {
+        "group": "text",
+        "name": "English Fungi — Leif Goodwin",
+        "href": "https://www.englishfungi.org/Species/Phlebiopsis%20gigantea"
+      },
+      {
+        "group": "text",
+        "name": "Грибы Сибири species atlas",
+        "href": "https://mycology.su/phlebiopsis-gigantea.html"
+      },
+      {
+        "group": "text",
+        "name": "Nahuby.sk species atlas",
+        "href": "https://www.nahuby.sk/atlas-hub/Phlebiopsis-gigantea/pazilnacka-ihlicnanova/ID3006"
+      },
+      {
+        "group": "text",
+        "name": "Polish species article; published guide/checklist references",
+        "href": "https://pl.wikipedia.org/wiki/%C5%BBylica_olbrzymia"
+      }
+    ],
+    "es": [
+      {
+        "group": "name",
+        "name": "Index Fungorum 319885",
+        "href": "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=319885"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum 319885",
+        "href": "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordId=319885"
+      },
+      {
+        "group": "name",
+        "name": "GBIF accepted species8899548",
+        "href": "https://www.gbif.org/species/8899548"
+      },
+      {
+        "group": "text",
+        "name": "Cornell University biological control profile",
+        "href": "https://biocontrol.entomology.cornell.edu/pathogens/phlebiopsis.php"
+      },
+      {
+        "group": "text",
+        "name": "English Fungi — Leif Goodwin",
+        "href": "https://www.englishfungi.org/Species/Phlebiopsis%20gigantea"
+      },
+      {
+        "group": "text",
+        "name": "Грибы Сибири species atlas",
+        "href": "https://mycology.su/phlebiopsis-gigantea.html"
+      },
+      {
+        "group": "text",
+        "name": "Nahuby.sk species atlas",
+        "href": "https://www.nahuby.sk/atlas-hub/Phlebiopsis-gigantea/pazilnacka-ihlicnanova/ID3006"
+      },
+      {
+        "group": "text",
+        "name": "Polish species article; published guide/checklist references",
+        "href": "https://pl.wikipedia.org/wiki/%C5%BBylica_olbrzymia"
+      }
+    ],
+    "pt": [
+      {
+        "group": "name",
+        "name": "Index Fungorum 319885",
+        "href": "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=319885"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum 319885",
+        "href": "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordId=319885"
+      },
+      {
+        "group": "name",
+        "name": "GBIF accepted species8899548",
+        "href": "https://www.gbif.org/species/8899548"
+      },
+      {
+        "group": "text",
+        "name": "Cornell University biological control profile",
+        "href": "https://biocontrol.entomology.cornell.edu/pathogens/phlebiopsis.php"
+      },
+      {
+        "group": "text",
+        "name": "English Fungi — Leif Goodwin",
+        "href": "https://www.englishfungi.org/Species/Phlebiopsis%20gigantea"
+      },
+      {
+        "group": "text",
+        "name": "Грибы Сибири species atlas",
+        "href": "https://mycology.su/phlebiopsis-gigantea.html"
+      },
+      {
+        "group": "text",
+        "name": "Nahuby.sk species atlas",
+        "href": "https://www.nahuby.sk/atlas-hub/Phlebiopsis-gigantea/pazilnacka-ihlicnanova/ID3006"
+      },
+      {
+        "group": "text",
+        "name": "Polish species article; published guide/checklist references",
+        "href": "https://pl.wikipedia.org/wiki/%C5%BBylica_olbrzymia"
+      }
+    ],
+    "tr": [
+      {
+        "group": "name",
+        "name": "Index Fungorum 319885",
+        "href": "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=319885"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum 319885",
+        "href": "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordId=319885"
+      },
+      {
+        "group": "name",
+        "name": "GBIF accepted species8899548",
+        "href": "https://www.gbif.org/species/8899548"
+      },
+      {
+        "group": "text",
+        "name": "Cornell University biological control profile",
+        "href": "https://biocontrol.entomology.cornell.edu/pathogens/phlebiopsis.php"
+      },
+      {
+        "group": "text",
+        "name": "English Fungi — Leif Goodwin",
+        "href": "https://www.englishfungi.org/Species/Phlebiopsis%20gigantea"
+      },
+      {
+        "group": "text",
+        "name": "Грибы Сибири species atlas",
+        "href": "https://mycology.su/phlebiopsis-gigantea.html"
+      },
+      {
+        "group": "text",
+        "name": "Nahuby.sk species atlas",
+        "href": "https://www.nahuby.sk/atlas-hub/Phlebiopsis-gigantea/pazilnacka-ihlicnanova/ID3006"
+      },
+      {
+        "group": "text",
+        "name": "Polish species article; published guide/checklist references",
+        "href": "https://pl.wikipedia.org/wiki/%C5%BBylica_olbrzymia"
+      }
+    ],
+    "id": [
+      {
+        "group": "name",
+        "name": "Index Fungorum 319885",
+        "href": "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=319885"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum 319885",
+        "href": "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordId=319885"
+      },
+      {
+        "group": "name",
+        "name": "GBIF accepted species8899548",
+        "href": "https://www.gbif.org/species/8899548"
+      },
+      {
+        "group": "text",
+        "name": "Cornell University biological control profile",
+        "href": "https://biocontrol.entomology.cornell.edu/pathogens/phlebiopsis.php"
+      },
+      {
+        "group": "text",
+        "name": "English Fungi — Leif Goodwin",
+        "href": "https://www.englishfungi.org/Species/Phlebiopsis%20gigantea"
+      },
+      {
+        "group": "text",
+        "name": "Грибы Сибири species atlas",
+        "href": "https://mycology.su/phlebiopsis-gigantea.html"
+      },
+      {
+        "group": "text",
+        "name": "Nahuby.sk species atlas",
+        "href": "https://www.nahuby.sk/atlas-hub/Phlebiopsis-gigantea/pazilnacka-ihlicnanova/ID3006"
+      },
+      {
+        "group": "text",
+        "name": "Polish species article; published guide/checklist references",
+        "href": "https://pl.wikipedia.org/wiki/%C5%BBylica_olbrzymia"
+      }
+    ],
+    "ja": [
+      {
+        "group": "name",
+        "name": "Index Fungorum 319885",
+        "href": "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=319885"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum 319885",
+        "href": "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordId=319885"
+      },
+      {
+        "group": "name",
+        "name": "GBIF accepted species8899548",
+        "href": "https://www.gbif.org/species/8899548"
+      },
+      {
+        "group": "text",
+        "name": "Cornell University biological control profile",
+        "href": "https://biocontrol.entomology.cornell.edu/pathogens/phlebiopsis.php"
+      },
+      {
+        "group": "text",
+        "name": "English Fungi — Leif Goodwin",
+        "href": "https://www.englishfungi.org/Species/Phlebiopsis%20gigantea"
+      },
+      {
+        "group": "text",
+        "name": "Грибы Сибири species atlas",
+        "href": "https://mycology.su/phlebiopsis-gigantea.html"
+      },
+      {
+        "group": "text",
+        "name": "Nahuby.sk species atlas",
+        "href": "https://www.nahuby.sk/atlas-hub/Phlebiopsis-gigantea/pazilnacka-ihlicnanova/ID3006"
+      },
+      {
+        "group": "text",
+        "name": "Polish species article; published guide/checklist references",
+        "href": "https://pl.wikipedia.org/wiki/%C5%BBylica_olbrzymia"
+      },
+      {
+        "group": "name",
+        "name": "大菌輪 exact species nomenclature page",
+        "href": "https://mycoscouter.coolblog.jp/daikinrin/Pages/Phlebiopsis_gigantea_319885.html"
+      }
+    ],
+    "ko": [
+      {
+        "group": "name",
+        "name": "Index Fungorum 319885",
+        "href": "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=319885"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum 319885",
+        "href": "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordId=319885"
+      },
+      {
+        "group": "name",
+        "name": "GBIF accepted species8899548",
+        "href": "https://www.gbif.org/species/8899548"
+      },
+      {
+        "group": "text",
+        "name": "Cornell University biological control profile",
+        "href": "https://biocontrol.entomology.cornell.edu/pathogens/phlebiopsis.php"
+      },
+      {
+        "group": "text",
+        "name": "English Fungi — Leif Goodwin",
+        "href": "https://www.englishfungi.org/Species/Phlebiopsis%20gigantea"
+      },
+      {
+        "group": "text",
+        "name": "Грибы Сибири species atlas",
+        "href": "https://mycology.su/phlebiopsis-gigantea.html"
+      },
+      {
+        "group": "text",
+        "name": "Nahuby.sk species atlas",
+        "href": "https://www.nahuby.sk/atlas-hub/Phlebiopsis-gigantea/pazilnacka-ihlicnanova/ID3006"
+      },
+      {
+        "group": "text",
+        "name": "Polish species article; published guide/checklist references",
+        "href": "https://pl.wikipedia.org/wiki/%C5%BBylica_olbrzymia"
+      },
+      {
+        "group": "name",
+        "name": "Korean Journal of Mycology, List of Recorded Korean Aphyllophorales",
+        "href": "https://www.kjmycology.or.kr/wp-content/uploads/2025/02/KJM-3301-07.pdf"
+      }
+    ],
+    "zh": [
+      {
+        "group": "name",
+        "name": "Index Fungorum 319885",
+        "href": "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=319885"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum 319885",
+        "href": "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordId=319885"
+      },
+      {
+        "group": "name",
+        "name": "GBIF accepted species8899548",
+        "href": "https://www.gbif.org/species/8899548"
+      },
+      {
+        "group": "text",
+        "name": "Cornell University biological control profile",
+        "href": "https://biocontrol.entomology.cornell.edu/pathogens/phlebiopsis.php"
+      },
+      {
+        "group": "text",
+        "name": "English Fungi — Leif Goodwin",
+        "href": "https://www.englishfungi.org/Species/Phlebiopsis%20gigantea"
+      },
+      {
+        "group": "text",
+        "name": "Грибы Сибири species atlas",
+        "href": "https://mycology.su/phlebiopsis-gigantea.html"
+      },
+      {
+        "group": "text",
+        "name": "Nahuby.sk species atlas",
+        "href": "https://www.nahuby.sk/atlas-hub/Phlebiopsis-gigantea/pazilnacka-ihlicnanova/ID3006"
+      },
+      {
+        "group": "text",
+        "name": "Polish species article; published guide/checklist references",
+        "href": "https://pl.wikipedia.org/wiki/%C5%BBylica_olbrzymia"
+      },
+      {
+        "group": "name",
+        "name": "Taiwan Biodiversity Network / TaiCOL t0042670",
+        "href": "https://www.tbn.org.tw/taxa/2c04656c-2625-4743-af39-66db2469fb20"
+      }
+    ],
+    "ar": [
+      {
+        "group": "name",
+        "name": "Index Fungorum 319885",
+        "href": "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=319885"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum 319885",
+        "href": "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordId=319885"
+      },
+      {
+        "group": "name",
+        "name": "GBIF accepted species8899548",
+        "href": "https://www.gbif.org/species/8899548"
+      },
+      {
+        "group": "text",
+        "name": "Cornell University biological control profile",
+        "href": "https://biocontrol.entomology.cornell.edu/pathogens/phlebiopsis.php"
+      },
+      {
+        "group": "text",
+        "name": "English Fungi — Leif Goodwin",
+        "href": "https://www.englishfungi.org/Species/Phlebiopsis%20gigantea"
+      },
+      {
+        "group": "text",
+        "name": "Грибы Сибири species atlas",
+        "href": "https://mycology.su/phlebiopsis-gigantea.html"
+      },
+      {
+        "group": "text",
+        "name": "Nahuby.sk species atlas",
+        "href": "https://www.nahuby.sk/atlas-hub/Phlebiopsis-gigantea/pazilnacka-ihlicnanova/ID3006"
+      },
+      {
+        "group": "text",
+        "name": "Polish species article; published guide/checklist references",
+        "href": "https://pl.wikipedia.org/wiki/%C5%BBylica_olbrzymia"
+      }
+    ],
+    "fa": [
+      {
+        "group": "name",
+        "name": "Index Fungorum 319885",
+        "href": "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=319885"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum 319885",
+        "href": "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordId=319885"
+      },
+      {
+        "group": "name",
+        "name": "GBIF accepted species8899548",
+        "href": "https://www.gbif.org/species/8899548"
+      },
+      {
+        "group": "text",
+        "name": "Cornell University biological control profile",
+        "href": "https://biocontrol.entomology.cornell.edu/pathogens/phlebiopsis.php"
+      },
+      {
+        "group": "text",
+        "name": "English Fungi — Leif Goodwin",
+        "href": "https://www.englishfungi.org/Species/Phlebiopsis%20gigantea"
+      },
+      {
+        "group": "text",
+        "name": "Грибы Сибири species atlas",
+        "href": "https://mycology.su/phlebiopsis-gigantea.html"
+      },
+      {
+        "group": "text",
+        "name": "Nahuby.sk species atlas",
+        "href": "https://www.nahuby.sk/atlas-hub/Phlebiopsis-gigantea/pazilnacka-ihlicnanova/ID3006"
+      },
+      {
+        "group": "text",
+        "name": "Polish species article; published guide/checklist references",
+        "href": "https://pl.wikipedia.org/wiki/%C5%BBylica_olbrzymia"
+      }
+    ],
+    "he": [
+      {
+        "group": "name",
+        "name": "Index Fungorum 319885",
+        "href": "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=319885"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum 319885",
+        "href": "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordId=319885"
+      },
+      {
+        "group": "name",
+        "name": "GBIF accepted species8899548",
+        "href": "https://www.gbif.org/species/8899548"
+      },
+      {
+        "group": "text",
+        "name": "Cornell University biological control profile",
+        "href": "https://biocontrol.entomology.cornell.edu/pathogens/phlebiopsis.php"
+      },
+      {
+        "group": "text",
+        "name": "English Fungi — Leif Goodwin",
+        "href": "https://www.englishfungi.org/Species/Phlebiopsis%20gigantea"
+      },
+      {
+        "group": "text",
+        "name": "Грибы Сибири species atlas",
+        "href": "https://mycology.su/phlebiopsis-gigantea.html"
+      },
+      {
+        "group": "text",
+        "name": "Nahuby.sk species atlas",
+        "href": "https://www.nahuby.sk/atlas-hub/Phlebiopsis-gigantea/pazilnacka-ihlicnanova/ID3006"
+      },
+      {
+        "group": "text",
+        "name": "Polish species article; published guide/checklist references",
+        "href": "https://pl.wikipedia.org/wiki/%C5%BBylica_olbrzymia"
+      }
+    ],
+    "hi": [
+      {
+        "group": "name",
+        "name": "Index Fungorum 319885",
+        "href": "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=319885"
+      },
+      {
+        "group": "name",
+        "name": "Species Fungorum 319885",
+        "href": "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordId=319885"
+      },
+      {
+        "group": "name",
+        "name": "GBIF accepted species8899548",
+        "href": "https://www.gbif.org/species/8899548"
+      },
+      {
+        "group": "text",
+        "name": "Cornell University biological control profile",
+        "href": "https://biocontrol.entomology.cornell.edu/pathogens/phlebiopsis.php"
+      },
+      {
+        "group": "text",
+        "name": "English Fungi — Leif Goodwin",
+        "href": "https://www.englishfungi.org/Species/Phlebiopsis%20gigantea"
+      },
+      {
+        "group": "text",
+        "name": "Грибы Сибири species atlas",
+        "href": "https://mycology.su/phlebiopsis-gigantea.html"
+      },
+      {
+        "group": "text",
+        "name": "Nahuby.sk species atlas",
+        "href": "https://www.nahuby.sk/atlas-hub/Phlebiopsis-gigantea/pazilnacka-ihlicnanova/ID3006"
+      },
+      {
+        "group": "text",
+        "name": "Polish species article; published guide/checklist references",
+        "href": "https://pl.wikipedia.org/wiki/%C5%BBylica_olbrzymia"
+      }
+    ]
+  },
+  "text": {
+    "en": {
+      "description": "A widespread saprotrophic crust fungus of conifer wood, recorded in North and Central America, Europe, East Africa and southern Asia. It is an early colonizer of newly exposed wood and causes white rot, contributing to decomposition and competing with other wood-inhabiting fungi.",
+      "cap": "No cap is formed. Flat, spreading crusts can extend to 100 cm across and are 1 mm thick or less, young crusts up to 0.5 mm. Whitish, cream or grey to ochraceous or pinkish-buff, with a paler fibrillose margin; they crack and lift at the edges when dry.",
+      "hymenium": "Smooth to lumpy, minutely velvety from projecting, thick-walled, crystal-encrusted cystidia, 50–80 × 10–15 µm. Basidia are narrowly club-shaped, four-spored, 25–30 × 4–5 µm.",
+      "stipe": "No stipe; the crust is directly attached to wood.",
+      "flesh": "Thin, firm and cartilaginous when young, becoming dry and cracked. Odour indistinct.",
+      "sporePrint": "White deposit. Spores smooth, thin-walled, nonamyloid, narrowly ellipsoidal to nearly cylindrical, 4.5–8 × 2.5–3.5 µm; published ranges vary.",
+      "habitat": "On dead conifer trunks, stumps and branches, especially pine, also spruce, fir and hemlock; occasionally hardwood and stored timber. Fruits autumn to spring in Britain, late summer to autumn in Siberia, with year-round records in Slovakia.",
+      "uses": "Inedible.",
+      "confusion": "Phaeophlebiopsis ravenelii differs chiefly in smaller spores. Sebacina epigaea spreads over soil and litter as well as wood and has very different basidia. Microscopy is needed to separate similar crusts.",
+      "notes": "Cultures applied to fresh conifer stumps help suppress Heterobasidion root rot through competition and hyphal interference. Asexual oidia form by mycelial fragmentation; their natural role is uncertain. Forestry use is not evidence of food or medicinal safety.",
+      "sourceUrls": [
+        "https://biocontrol.entomology.cornell.edu/pathogens/phlebiopsis.php",
+        "https://www.englishfungi.org/Species/Phlebiopsis%20gigantea",
+        "https://mycology.su/phlebiopsis-gigantea.html",
+        "https://www.nahuby.sk/atlas-hub/Phlebiopsis-gigantea/pazilnacka-ihlicnanova/ID3006",
+        "https://pl.wikipedia.org/wiki/%C5%BBylica_olbrzymia"
+      ],
+      "label": "conifer parchment",
+      "names": []
+    },
+    "sk": {
+      "description": "Rozšírená saprotrofná kôrovitá huba na dreve ihličnanov, zaznamenaná v Severnej a Strednej Amerike, Európe, východnej Afrike a južnej Ázii. Patrí medzi prvých osídlencov čerstvo obnaženého dreva a spôsobuje bielu hnilobu, čím sa podieľa na jeho rozklade a súťaží s inými drevokaznými hubami.",
+      "cap": "Klobúk sa netvorí. Ploché rozliate plodnice môžu dosahovať šírku 100 cm a hrúbku najviac 1 mm, za mladi do 0,5 mm. Sú belavé, krémové alebo sivé až okrové či ružovobéžové, s bledším vláknitým okrajom; za sucha praskajú a na okrajoch sa oddeľujú od podkladu.",
+      "hymenium": "Hladký až hrboľatý povrch je pod lupou zamatový pre vyčnievajúce hrubostenné cystidy pokryté kryštálmi, veľké 50–80 × 10–15 µm. Bazídiá sú úzko kyjakovité, štvorvýtrusné, 25–30 × 4–5 µm.",
+      "stipe": "Hlúbik chýba; plodnica prirastá priamo k drevu.",
+      "flesh": "Tenká, pevná, za mladi chrupavkovitá, neskôr suchá a popraskaná. Vôňa je nevýrazná.",
+      "sporePrint": "Výtrusný prach je biely. Výtrusy sú hladké, tenkostenné, neamyloidné, úzko elipsoidné až takmer valcovité, 4,5–8 × 2,5–3,5 µm; publikované rozsahy sa líšia.",
+      "habitat": "Na odumretých kmeňoch, pňoch a konároch ihličnanov, najmä borovíc, ale aj smrekov, jedlí a jedľovcov; zriedkavejšie na listnáčoch a skladovanom dreve. V Británii plodí od jesene do jari, na Sibíri od konca leta do jesene, na Slovensku sú nálezy celoročné.",
+      "uses": "Nejedlá.",
+      "confusion": "Phaeophlebiopsis ravenelii sa odlišuje predovšetkým menšími výtrusmi. Sebacina epigaea prerastá okrem dreva aj pôdu a opad a má výrazne odlišné bazídiá. Na rozlíšenie podobných kôrovitých húb je potrebné mikroskopovanie.",
+      "notes": "Kultúry aplikované na čerstvé pne ihličnanov pomáhajú potláčať koreňovú hnilobu spôsobenú rodom Heterobasidion konkurenciou a vzájomným pôsobením hýf. Nepohlavné oídiá vznikajú rozpadom mycélia; ich úloha v prírode nie je istá. Lesnícke využitie nie je dôkazom bezpečnosti pri konzumácii ani liečebnom použití.",
+      "sourceUrls": [
+        "https://www.nahuby.sk/atlas-hub/Phlebiopsis-gigantea/pazilnacka-ihlicnanova/ID3006"
+      ],
+      "label": "pažilnačka ihličnanová",
+      "names": []
+    },
+    "cs": {
+      "description": "Rozšířená saprotrofní kornatcovitá houba na dřevě jehličnanů, zaznamenaná v Severní a Střední Americe, Evropě, východní Africe a jižní Asii. Patří k prvním osídlovatelům čerstvě obnaženého dřeva a způsobuje bílou hnilobu, čímž přispívá k rozkladu a konkuruje jiným dřevokazným houbám.",
+      "cap": "Klobouk se netvoří. Ploché rozlité plodnice mohou dosahovat šířky 100 cm a tloušťky nejvýše 1 mm, v mládí do 0,5 mm. Jsou bělavé, krémové či šedé až okrové nebo růžově béžové, s bledším vláknitým okrajem; za sucha praskají a na okrajích se odchlipují.",
+      "hymenium": "Hladký až hrbolatý povrch je pod lupou sametový díky vyčnívajícím silnostěnným cystidám pokrytým krystaly, 50–80 × 10–15 µm. Bazidie jsou úzce kyjovité, čtyřvýtrusné, 25–30 × 4–5 µm.",
+      "stipe": "Třeň chybí; plodnice přirůstá přímo ke dřevu.",
+      "flesh": "Tenká, pevná, v mládí chrupavčitá, později suchá a popraskaná. Vůně je nevýrazná.",
+      "sporePrint": "Výtrusný prach je bílý. Výtrusy jsou hladké, tenkostěnné, neamyloidní, úzce elipsoidní až téměř válcovité, 4,5–8 × 2,5–3,5 µm; publikovaná rozmezí se liší.",
+      "habitat": "Na odumřelých kmenech, pařezech a větvích jehličnanů, hlavně borovic, také smrků, jedlí a jedlovců; příležitostně na listnáčích a skladovaném dřevě. V Británii plodí od podzimu do jara, na Sibiři od konce léta do podzimu, na Slovensku jsou celoroční nálezy.",
+      "uses": "Nejedlá.",
+      "confusion": "Phaeophlebiopsis ravenelii se liší především menšími výtrusy. Sebacina epigaea porůstá kromě dřeva také půdu a opad a má zcela odlišné bazidie. Podobné kornatcovité houby je nutné rozlišovat mikroskopicky.",
+      "notes": "Kultury aplikované na čerstvé pařezy jehličnanů pomáhají konkurencí a vzájemným působením hyf potlačovat kořenovou hnilobu způsobenou rodem Heterobasidion. Nepohlavní oidie vznikají rozpadem mycelia; jejich úloha v přírodě není jistá. Lesnické využití nedokládá bezpečnost potravinového ani léčebného použití.",
+      "sourceUrls": [
+        "https://www.sci.muni.cz/botany/mycology/mykexk16.htm"
+      ],
+      "label": "kornatec obrovský",
+      "names": []
+    },
+    "de": {
+      "description": "Ein weit verbreiteter saprotropher Krustenpilz an Nadelholz, nachgewiesen in Nord- und Mittelamerika, Europa, Ostafrika und Südasien. Er besiedelt frisch freigelegtes Holz frühzeitig und verursacht Weißfäule. Dadurch trägt er zum Holzabbau bei und konkurriert mit anderen holzbewohnenden Pilzen.",
+      "cap": "Ein Hut fehlt. Die flach ausgebreiteten Krusten können 100 cm breit werden und sind höchstens 1 mm dick, jung bis 0,5 mm. Sie sind weißlich, cremefarben oder grau bis ockerlich oder rosabeige, mit hellerem faserigem Rand; trocken reißen sie auf und lösen sich am Rand ab.",
+      "hymenium": "Glatt bis höckerig, durch vorstehende dickwandige, kristallbesetzte Zystiden von 50–80 × 10–15 µm unter der Lupe fein samtig. Die Basidien sind schmal keulenförmig, viersporig, 25–30 × 4–5 µm.",
+      "stipe": "Kein Stiel; die Kruste haftet unmittelbar am Holz.",
+      "flesh": "Dünn, fest und jung knorpelig, später trocken und rissig. Geruch unauffällig.",
+      "sporePrint": "Sporenpulver weiß. Sporen glatt, dünnwandig, inamyloid, schmal ellipsoidisch bis fast zylindrisch, 4,5–8 × 2,5–3,5 µm; veröffentlichte Größenbereiche variieren.",
+      "habitat": "An abgestorbenen Nadelholzstämmen, Stümpfen und Ästen, besonders Kiefer, auch Fichte, Tanne und Hemlocktanne; gelegentlich an Laubholz und gelagertem Holz. Fruktifiziert in Großbritannien von Herbst bis Frühjahr, in Sibirien von Spätsommer bis Herbst; in der Slowakei ganzjährig nachgewiesen.",
+      "uses": "Ungenießbar.",
+      "confusion": "Phaeophlebiopsis ravenelii unterscheidet sich vor allem durch kleinere Sporen. Sebacina epigaea überzieht neben Holz auch Erde und Streu und besitzt ganz andere Basidien. Ähnliche Krustenpilze müssen mikroskopisch unterschieden werden.",
+      "notes": "Auf frische Nadelholzstümpfe aufgebrachte Kulturen helfen durch Konkurrenz und Hypheninterferenz, Heterobasidion-Wurzelfäule zu unterdrücken. Ungeschlechtliche Oidien entstehen durch Myzelfragmentierung; ihre natürliche Rolle ist unklar. Die forstliche Nutzung belegt keine Unbedenklichkeit als Lebensmittel oder Heilmittel.",
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/8899548/vernacularNames?limit=100"
+      ],
+      "label": "Großer Zystidenrindenpilz",
+      "names": []
+    },
+    "fr": {
+      "description": "Un champignon saprotrophe en croûte, largement répandu sur le bois de conifères, signalé en Amérique du Nord et centrale, en Europe, en Afrique orientale et en Asie méridionale. Il colonise précocement le bois fraîchement exposé et provoque une pourriture blanche, contribuant à sa décomposition et concurrençant d’autres champignons lignicoles.",
+      "cap": "Pas de chapeau. Les croûtes plates et étalées peuvent atteindre 100 cm de largeur et ne dépassent pas 1 mm d’épaisseur, jusqu’à 0,5 mm lorsqu’elles sont jeunes. Blanchâtres, crème ou grises à ochracées ou beige rosé, à marge fibrilleuse plus pâle, elles se fissurent et se décollent aux bords en séchant.",
+      "hymenium": "Lisse à bosselé, finement velouté sous la loupe grâce aux cystides saillantes, à paroi épaisse et incrustées de cristaux, de 50–80 × 10–15 µm. Les basides sont étroitement clavées, tétrasporiques, de 25–30 × 4–5 µm.",
+      "stipe": "Pas de pied ; la croûte adhère directement au bois.",
+      "flesh": "Mince, ferme et cartilagineuse à l’état jeune, puis sèche et fissurée. Odeur peu marquée.",
+      "sporePrint": "Sporée blanche. Spores lisses, à paroi mince, non amyloïdes, étroitement ellipsoïdales à presque cylindriques, de 4,5–8 × 2,5–3,5 µm ; les intervalles publiés varient.",
+      "habitat": "Sur les troncs, souches et branches morts de conifères, surtout de pins, mais aussi d’épicéas, sapins et tsugas ; occasionnellement sur feuillus et bois entreposé. Fructification de l’automne au printemps en Grande-Bretagne, de la fin de l’été à l’automne en Sibérie, avec des observations toute l’année en Slovaquie.",
+      "uses": "Non comestible.",
+      "confusion": "Phaeophlebiopsis ravenelii diffère surtout par ses spores plus petites. Sebacina epigaea recouvre le sol et la litière aussi bien que le bois et possède des basides très différentes. L’examen microscopique est nécessaire pour séparer les croûtes semblables.",
+      "notes": "Des cultures appliquées sur les souches fraîches de conifères aident à limiter la pourriture racinaire due à Heterobasidion par compétition et interférence hyphale. Des oïdies asexuées se forment par fragmentation du mycélium ; leur rôle naturel reste incertain. L’usage forestier ne prouve pas l’innocuité alimentaire ou médicinale.",
+      "sourceUrls": [
+        "https://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-eng.html?i=&index=alt&lang=eng&srchtxt=PHLEBIA+GIGANTEA"
+      ],
+      "label": "phlébie géante",
+      "names": []
+    },
+    "nl": {
+      "description": "Een wijdverspreide saprotrofe korstzwam op naaldhout, bekend uit Noord- en Midden-Amerika, Europa, Oost-Afrika en Zuid-Azië. De soort koloniseert pas blootgelegd hout vroeg en veroorzaakt witrot, waardoor zij bijdraagt aan de afbraak en concurreert met andere houtbewonende schimmels.",
+      "cap": "Een hoed ontbreekt. De vlak uitgespreide korsten kunnen 100 cm breed worden en zijn hoogstens 1 mm dik, jong tot 0,5 mm. Ze zijn witachtig, crème of grijs tot okerkleurig of rozeachtig beige, met een blekere vezelige rand; bij uitdroging barsten ze en laten de randen los.",
+      "hymenium": "Glad tot bobbelig, onder de loep fijn fluwelig door uitstekende dikwandige, met kristallen bezette cystiden van 50–80 × 10–15 µm. Basidiën smal knotsvormig, viersporig, 25–30 × 4–5 µm.",
+      "stipe": "Geen steel; de korst zit rechtstreeks op het hout vast.",
+      "flesh": "Dun, stevig en jong kraakbeenachtig, later droog en gebarsten. Geur onopvallend.",
+      "sporePrint": "Sporenafdruk wit. Sporen glad, dunwandig, niet-amyloïd, smal ellipsoïd tot bijna cilindrisch, 4,5–8 × 2,5–3,5 µm; gepubliceerde meetbereiken verschillen.",
+      "habitat": "Op dode naaldhoutstammen, stronken en takken, vooral den, ook spar, zilverspar en hemlockspar; soms op loofhout en opgeslagen hout. Vruchtlichamen van herfst tot voorjaar in Groot-Brittannië, van late zomer tot herfst in Siberië; in Slowakije het hele jaar waargenomen.",
+      "uses": "Oneetbaar.",
+      "confusion": "Phaeophlebiopsis ravenelii verschilt vooral door kleinere sporen. Sebacina epigaea groeit behalve op hout ook over grond en strooisel en heeft heel andere basidiën. Vergelijkbare korstzwammen vereisen microscopisch onderzoek.",
+      "notes": "Culturen op verse naaldhoutstronken helpen Heterobasidion-wortelrot te onderdrukken door concurrentie en hyfeninterferentie. Ongeslachtelijke oïdiën ontstaan door fragmentatie van het mycelium; hun natuurlijke rol is onzeker. Bosbouwkundig gebruik bewijst geen veiligheid als voedsel of geneesmiddel.",
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/8899548/vernacularNames?limit=100"
+      ],
+      "label": "Dennenharszwam",
+      "names": [
+        "Denneharszwam"
+      ]
+    },
+    "pl": {
+      "description": "Rozpowszechniony saprotroficzny grzyb kortycjoidalny drewna iglastego, notowany w Ameryce Północnej i Środkowej, Europie, Afryce Wschodniej i południowej Azji. Wcześnie zasiedla świeżo odsłonięte drewno i powoduje białą zgniliznę, przyczyniając się do rozkładu oraz konkurując z innymi grzybami nadrzewnymi.",
+      "cap": "Nie tworzy kapelusza. Płasko rozpostarte owocniki mogą osiągać 100 cm szerokości i najwyżej 1 mm grubości, za młodu do 0,5 mm. Są białawe, kremowe lub szare do ochrowych czy różowobeżowych, z jaśniejszym włóknistym brzegiem; wysychając, pękają i odstają na brzegach.",
+      "hymenium": "Gładki do guzkowatego, pod lupą delikatnie aksamitny dzięki wystającym grubościennym cystydom pokrytym kryształami, 50–80 × 10–15 µm. Podstawki są wąsko maczugowate, czterozarodnikowe, 25–30 × 4–5 µm.",
+      "stipe": "Trzonu brak; owocnik przylega bezpośrednio do drewna.",
+      "flesh": "Cienki, zwarty i za młodu chrząstkowaty, później suchy i spękany. Zapach niewyraźny.",
+      "sporePrint": "Wysyp zarodników biały. Zarodniki gładkie, cienkościenne, nieamyloidalne, wąsko elipsoidalne do niemal cylindrycznych, 4,5–8 × 2,5–3,5 µm; opublikowane zakresy wymiarów różnią się.",
+      "habitat": "Na martwych pniach, pniakach i gałęziach drzew iglastych, zwłaszcza sosen, także świerków, jodeł i choin; niekiedy na drewnie liściastym i składowanym. Owocnikuje od jesieni do wiosny w Wielkiej Brytanii, od późnego lata do jesieni na Syberii, a na Słowacji notowana przez cały rok.",
+      "uses": "Niejadalny.",
+      "confusion": "Phaeophlebiopsis ravenelii różni się głównie mniejszymi zarodnikami. Sebacina epigaea pokrywa oprócz drewna także glebę i ściółkę oraz ma zupełnie inne podstawki. Podobne grzyby kortycjoidalne wymagają rozróżnienia mikroskopowego.",
+      "notes": "Kultury nanoszone na świeże pniaki drzew iglastych pomagają ograniczać zgniliznę korzeni wywoływaną przez Heterobasidion dzięki konkurencji i oddziaływaniu strzępek. Bezpłciowe oidia powstają przez fragmentację grzybni; ich rola w przyrodzie jest niepewna. Zastosowanie w leśnictwie nie dowodzi bezpieczeństwa spożywczego ani leczniczego.",
+      "sourceUrls": [
+        "https://www.grzyby.pl/gatunki/Phlebiopsis_gigantea.htm",
+        "https://pl.wikipedia.org/wiki/%C5%BBylica_olbrzymia"
+      ],
+      "label": "korownica okazała",
+      "names": [
+        "korownica olbrzymia",
+        "żylica olbrzymia",
+        "powłocznik olbrzymi",
+        "osnówka olbrzymia",
+        "grzyb składowy",
+        "żylak olbrzymi"
+      ]
+    },
+    "ru": {
+      "description": "Широко распространённый сапротрофный корковый гриб хвойной древесины, отмеченный в Северной и Центральной Америке, Европе, Восточной Африке и Южной Азии. Рано заселяет свежеобнажённую древесину и вызывает белую гниль, участвуя в её разложении и конкурируя с другими деревообитающими грибами.",
+      "cap": "Шляпка не образуется. Плоские распростёртые корки могут достигать 100 см в поперечнике при толщине не более 1 мм, в молодости до 0,5 мм. Беловатые, кремовые или серые до охристых либо розовато-бежевых, с более светлым волокнистым краем; при высыхании растрескиваются и отстают по краям.",
+      "hymenium": "Гладкий до бугорчатого, под лупой мелкобархатистый из-за выступающих толстостенных цистид, инкрустированных кристаллами, 50–80 × 10–15 мкм. Базидии узкобулавовидные, четырёхспоровые, 25–30 × 4–5 мкм.",
+      "stipe": "Ножка отсутствует; корка непосредственно прикреплена к древесине.",
+      "flesh": "Тонкая, плотная, в молодости хрящеватая, позднее сухая и растрескавшаяся. Запах невыраженный.",
+      "sporePrint": "Споровый порошок белый. Споры гладкие, тонкостенные, неамилоидные, узкоэллипсоидные до почти цилиндрических, 4,5–8 × 2,5–3,5 мкм; опубликованные диапазоны различаются.",
+      "habitat": "На мёртвых стволах, пнях и ветвях хвойных, особенно сосны, также ели, пихты и тсуги; изредка на лиственной и складируемой древесине. Плодоносит с осени до весны в Британии, с конца лета до осени в Сибири; в Словакии отмечается круглый год.",
+      "uses": "Несъедобен.",
+      "confusion": "Phaeophlebiopsis ravenelii отличается прежде всего более мелкими спорами. Sebacina epigaea покрывает не только древесину, но и почву и подстилку, а её базидии существенно отличаются. Для различения сходных корковых грибов необходима микроскопия.",
+      "notes": "Культуры, наносимые на свежие пни хвойных, помогают подавлять корневую гниль, вызываемую Heterobasidion, за счёт конкуренции и гифального взаимодействия. Бесполые оидии возникают при фрагментации мицелия; их роль в природе неясна. Лесохозяйственное применение не доказывает пищевую или лечебную безопасность.",
+      "sourceUrls": [
+        "https://mycology.su/phlebiopsis-gigantea.html"
+      ],
+      "label": "флебиопсис гигантский",
+      "names": [
+        "пениофора гигантская"
+      ]
+    },
+    "uk": {
+      "description": "Поширений сапротрофний кірковий гриб хвойної деревини, відомий у Північній і Центральній Америці, Європі, Східній Африці та Південній Азії. Рано заселяє щойно оголену деревину й спричиняє білу гниль, беручи участь у її розкладанні та конкуруючи з іншими дереворуйнівними грибами.",
+      "cap": "Шапинка не утворюється. Плоскі розпростерті кірки можуть досягати 100 см завширшки й мають товщину не більше 1 мм, у молодому віці до 0,5 мм. Вони білуваті, кремові або сірі до вохристих чи рожевувато-бежевих, зі світлішим волокнистим краєм; висихаючи, розтріскуються й відстають по краях.",
+      "hymenium": "Гладенька до горбкуватої поверхня під лупою дрібнооксамитова через виступаючі товстостінні цистиди, інкрустовані кристалами, 50–80 × 10–15 мкм. Базидії вузькобулавоподібні, чотириспорові, 25–30 × 4–5 мкм.",
+      "stipe": "Ніжки немає; кірка безпосередньо прикріплена до деревини.",
+      "flesh": "Тонка, щільна, у молодому віці хрящувата, згодом суха й розтріскана. Запах невиразний.",
+      "sporePrint": "Споровий порошок білий. Спори гладенькі, тонкостінні, неамілоїдні, вузькоеліпсоподібні до майже циліндричних, 4,5–8 × 2,5–3,5 мкм; опубліковані діапазони різняться.",
+      "habitat": "На мертвих стовбурах, пнях і гілках хвойних, особливо сосни, також ялини, ялиці та тсуги; зрідка на листяній і складованій деревині. Плодоносить від осені до весни у Великій Британії, від кінця літа до осені в Сибіру; у Словаччині відомі цілорічні знахідки.",
+      "uses": "Неїстівний.",
+      "confusion": "Phaeophlebiopsis ravenelii відрізняється передусім дрібнішими спорами. Sebacina epigaea вкриває не лише деревину, а й ґрунт і підстилку та має зовсім інші базидії. Подібні кіркові гриби потрібно розрізняти мікроскопічно.",
+      "notes": "Культури, які наносять на свіжі пні хвойних, допомагають пригнічувати кореневу гниль, спричинену Heterobasidion, завдяки конкуренції та взаємодії гіф. Безстатеві оїдії утворюються внаслідок фрагментації міцелію; їхня роль у природі неясна. Лісогосподарське застосування не доводить харчової чи лікувальної безпечності.",
+      "sourceUrls": [
+        "https://nv.nltu.edu.ua/Archive/2010/20_4/49_Slobodian_20_4.pdf",
+        "https://nv.nltu.edu.ua/Archive/2009/19_15/38_Kra.pdf",
+        "https://studfile.net/preview/12418504/page:47/"
+      ],
+      "label": "флебіопсис гігантський",
+      "names": [
+        "пеніофора гігантська"
+      ]
+    },
+    "bg": {
+      "description": "Широко разпространена сапротрофна корова гъба по иглолистна дървесина, известна от Северна и Централна Америка, Европа, Източна Африка и Южна Азия. Рано заселва прясно оголена дървесина и причинява бяло гниене, като участва в разграждането ѝ и се конкурира с други дървообитаващи гъби.",
+      "cap": "Гугла не се образува. Плоските разпрострени кори могат да достигнат 100 cm ширина и са дебели не повече от 1 mm, младите до 0,5 mm. Белезникави, кремави или сиви до охрени или розовобежови, с по-светъл влакнест ръб; при изсъхване се напукват и се отделят по краищата.",
+      "hymenium": "Гладка до бучеста повърхност, под лупа фино кадифена заради издадени дебелостенни цистиди, покрити с кристали, 50–80 × 10–15 µm. Базидиите са тясно боздуганести, четириспорови, 25–30 × 4–5 µm.",
+      "stipe": "Няма пънче; кората е прикрепена направо към дървесината.",
+      "flesh": "Тънко, плътно и хрущяловидно в млада възраст, по-късно сухо и напукано. Миризмата е неотчетлива.",
+      "sporePrint": "Споровият прашец е бял. Спорите са гладки, тънкостенни, неамилоидни, тясно елипсовидни до почти цилиндрични, 4,5–8 × 2,5–3,5 µm; публикуваните диапазони се различават.",
+      "habitat": "По мъртви стъбла, пънове и клони на иглолистни, особено бор, също смърч, ела и тсуга; понякога по широколистна и складирана дървесина. Плододава от есента до пролетта във Великобритания, от късното лято до есента в Сибир, а в Словакия е отбелязвана целогодишно.",
+      "uses": "Неядлива.",
+      "confusion": "Phaeophlebiopsis ravenelii се отличава главно по по-дребните спори. Sebacina epigaea покрива освен дървесина и почва и постилка и има съвсем различни базидии. Сходните корови гъби трябва да се различават микроскопски.",
+      "notes": "Култури, нанасяни върху пресни пънове на иглолистни, помагат да се потиска кореновото гниене от Heterobasidion чрез конкуренция и взаимодействие на хифите. Безполови оидии се образуват при фрагментация на мицела; ролята им в природата е неясна. Горскостопанската употреба не доказва безопасност като храна или лекарство.",
+      "sourceUrls": [
+        "https://manatarka.org/phlebiopsis-gigantea/"
+      ],
+      "label": "Гигантски флебиопсис",
+      "names": []
+    },
+    "hr": {
+      "description": "Raširena saprotrofna korasta gljiva na drvu četinjača, zabilježena u Sjevernoj i Srednjoj Americi, Europi, istočnoj Africi i južnoj Aziji. Rano naseljava tek otkriveno drvo i uzrokuje bijelu trulež, pridonoseći njegovoj razgradnji i natječući se s drugim lignikolnim gljivama.",
+      "cap": "Klobuk se ne razvija. Plosnate razlivene kore mogu biti široke do 100 cm i debele najviše 1 mm, mlade do 0,5 mm. Bjelkaste su, krem ili sive do okeraste ili ružičastobež, sa svjetlijim vlaknastim rubom; sušenjem pucaju i odvajaju se na rubovima.",
+      "hymenium": "Glatka do kvrgava površina pod povećalom je fino baršunasta zbog izbočenih debelostjenih cistida obloženih kristalima, 50–80 × 10–15 µm. Bazidiji su usko batićasti, s četiri spore, 25–30 × 4–5 µm.",
+      "stipe": "Stručak ne postoji; kora je izravno pričvršćena za drvo.",
+      "flesh": "Tanko, čvrsto i u mladosti hrskavičasto, kasnije suho i ispucano. Miris je neizražen.",
+      "sporePrint": "Otisak spora je bijel. Spore su glatke, tankostjene, neamiloidne, usko elipsoidne do gotovo valjkaste, 4,5–8 × 2,5–3,5 µm; objavljeni rasponi razlikuju se.",
+      "habitat": "Na mrtvim deblima, panjevima i granama četinjača, osobito borova, ali i smreka, jela i čuga; ponekad na listopadnom i uskladištenom drvu. U Britaniji plodi od jeseni do proljeća, u Sibiru od kasnog ljeta do jeseni, a u Slovačkoj ima nalaza tijekom cijele godine.",
+      "uses": "Nejestiva.",
+      "confusion": "Phaeophlebiopsis ravenelii razlikuje se ponajprije manjim sporama. Sebacina epigaea osim drva prekriva i tlo i listinac te ima potpuno drukčije bazidije. Slične koraste gljive treba razlikovati mikroskopski.",
+      "notes": "Kulture nanesene na svježe panjeve četinjača pomažu suzbijati trulež korijena koju uzrokuje Heterobasidion, kompeticijom i međudjelovanjem hifa. Nespolne oidije nastaju fragmentacijom micelija; njihova uloga u prirodi nije jasna. Šumarska primjena ne dokazuje sigurnost za prehranu ni liječenje.",
+      "sourceUrls": []
+    },
+    "sr": {
+      "description": "Распрострањена сапротрофна кораста гљива на дрвету четинара, забележена у Северној и Средњој Америци, Европи, источној Африци и јужној Азији. Рано насељава тек откривено дрво и изазива белу трулеж, доприносећи његовом разлагању и такмичећи се са другим лигниколним гљивама.",
+      "cap": "Шешир се не образује. Пљоснате разливене коре могу бити широке до 100 cm и дебеле највише 1 mm, младе до 0,5 mm. Беличасте су, крем или сиве до окерасте или ружичастобеж, са светлијим влакнастим рубом; сушењем пуцају и одвајају се на ивицама.",
+      "hymenium": "Глатка до квргава површина под лупом је фино баршунаста због испупчених дебелозидних цистида прекривених кристалима, 50–80 × 10–15 µm. Базидије су уско батинасте, са четири споре, 25–30 × 4–5 µm.",
+      "stipe": "Дршка не постоји; кора је непосредно причвршћена за дрво.",
+      "flesh": "Танко, чврсто и у младости хрскавичаво, касније суво и испуцало. Мирис је неизражен.",
+      "sporePrint": "Отисак спора је бео. Споре су глатке, танкозиде, неамилоидне, уско елипсоидне до готово ваљкасте, 4,5–8 × 2,5–3,5 µm; објављени распони се разликују.",
+      "habitat": "На мртвим стаблима, пањевима и гранама четинара, нарочито борова, али и смрча, јела и чуга; понекад на листопадном и ускладиштеном дрвету. У Британији плоди од јесени до пролећа, у Сибиру од касног лета до јесени, а у Словачкој има налаза током целе године.",
+      "uses": "Нејестива.",
+      "confusion": "Phaeophlebiopsis ravenelii се разликује пре свега мањим спорама. Sebacina epigaea осим дрвета прекрива и земљиште и стељу и има сасвим другачије базидије. Сличне корасте гљиве треба разликовати микроскопски.",
+      "notes": "Културе наношене на свеже пањеве четинара помажу сузбијању трулежи корена коју изазива Heterobasidion, такмичењем и међусобним деловањем хифа. Бесполне оидије настају фрагментацијом мицелијума; њихова улога у природи није јасна. Шумарска примена не доказује безбедност као храна или лек.",
+      "sourceUrls": []
+    },
+    "sl": {
+      "description": "Razširjena saprotrofna skorjasta goba na lesu iglavcev, zabeležena v Severni in Srednji Ameriki, Evropi, vzhodni Afriki in južni Aziji. Zgodaj naseli sveže izpostavljen les in povzroča belo trohnobo, s čimer prispeva k njegovemu razkroju in tekmuje z drugimi lesnimi glivami.",
+      "cap": "Klobuk se ne razvije. Ploščate, razlite skorje so lahko široke do 100 cm in debele največ 1 mm, mlade do 0,5 mm. So belkaste, kremne ali sive do okraste ali rožnato bež, s svetlejšim vlaknatim robom; ko se sušijo, razpokajo in na robovih odstopijo.",
+      "hymenium": "Gladka do grbasta površina je pod lupo drobno žametna zaradi štrlečih debelostenskih cistid s kristali, 50–80 × 10–15 µm. Bazidiji so ozko betičasti, štiritrosni, 25–30 × 4–5 µm.",
+      "stipe": "Beta ni; skorja je neposredno pritrjena na les.",
+      "flesh": "Tanko, čvrsto in v mladosti hrustančasto, pozneje suho in razpokano. Vonj je neizrazit.",
+      "sporePrint": "Trosni prah je bel. Trosi so gladki, tankostenski, neamiloidni, ozko elipsoidni do skoraj valjasti, 4,5–8 × 2,5–3,5 µm; objavljeni razponi se razlikujejo.",
+      "habitat": "Na odmrlih deblih, štorih in vejah iglavcev, zlasti bora, pa tudi smreke, jelke in čuge; občasno na listavcih in skladiščenem lesu. V Britaniji plodi od jeseni do pomladi, v Sibiriji od poznega poletja do jeseni, na Slovaškem pa so najdbe vse leto.",
+      "uses": "Neužitna.",
+      "confusion": "Phaeophlebiopsis ravenelii se razlikuje predvsem po manjših trosih. Sebacina epigaea poleg lesa prerašča tudi tla in opad ter ima povsem drugačne bazidije. Podobne skorjaste glive je treba ločiti mikroskopsko.",
+      "notes": "Kulture, nanesene na sveže štore iglavcev, s tekmovanjem in medsebojnim delovanjem hif pomagajo zatirati koreninsko trohnobo, ki jo povzroča Heterobasidion. Nespolne oidije nastanejo z drobljenjem micelija; njihova vloga v naravi ni jasna. Gozdarska uporaba ne dokazuje varnosti za prehrano ali zdravljenje.",
+      "sourceUrls": [
+        "https://www.zdravgozd.si/dat/gradivo/22.pdf"
+      ],
+      "label": "cemprinova nagubanka",
+      "names": []
+    },
+    "hu": {
+      "description": "Elterjedt szaprotróf, kéregszerű gomba fenyőfélék faanyagán, Észak- és Közép-Amerikából, Európából, Kelet-Afrikából és Dél-Ázsiából ismert. Korán megtelepszik a frissen szabaddá vált fán, fehérkorhadást okoz, részt vesz a fa lebontásában, és más fán élő gombákkal versenyez.",
+      "cap": "Kalapot nem fejleszt. A lapos, szétterülő kérgek 100 cm szélesek is lehetnek, vastagságuk legfeljebb 1 mm, fiatalon legfeljebb 0,5 mm. Fehéresek, krémszínűek vagy szürkék, okkeresek vagy rózsásbézsek, világosabb, szálas szegéllyel; kiszáradva berepedeznek és a szélükön felválnak.",
+      "hymenium": "Sima vagy dudoros, nagyító alatt finoman bársonyos a kiálló, vastag falú, kristályokkal borított, 50–80 × 10–15 µm-es cisztidák miatt. A bazídiumok keskenyen bunkósak, négyspórásak, 25–30 × 4–5 µm-esek.",
+      "stipe": "Tönkje nincs; a kéreg közvetlenül a fához tapad.",
+      "flesh": "Vékony, szilárd, fiatalon porcos, később száraz és repedezett. Szaga jellegtelen.",
+      "sporePrint": "Spórapora fehér. Spórái simák, vékony falúak, nem amiloidok, keskenyen ellipszoidok vagy majdnem hengeresek, 4,5–8 × 2,5–3,5 µm-esek; a közölt mérettartományok eltérnek.",
+      "habitat": "Elhalt tűlevelű törzseken, tuskókon és ágakon, főleg fenyőn, továbbá lucfenyőn, jegenyefenyőn és hemlokfenyőn; alkalmanként lombos fán és tárolt faanyagon. Nagy-Britanniában ősztől tavaszig, Szibériában nyár végétől őszig terem, Szlovákiában egész évben előfordul.",
+      "uses": "Nem ehető.",
+      "confusion": "A Phaeophlebiopsis ravenelii főként kisebb spóráival tér el. A Sebacina epigaea a fán kívül talajt és avart is beborít, bazídiumai pedig egészen eltérőek. A hasonló kéreggombák elkülönítése mikroszkópos vizsgálatot igényel.",
+      "notes": "Friss fenyőtuskókra juttatott tenyészetei versengés és hifakölcsönhatás révén segítik a Heterobasidion okozta gyökérkorhadás visszaszorítását. Ivartalan oídiumai a micélium feldarabolódásával jönnek létre; természetes szerepük bizonytalan. Erdészeti használata nem bizonyítja élelmiszerként vagy gyógyszerként való biztonságosságát.",
+      "sourceUrls": [
+        "https://gombaszaki.hu/wp-content/uploads/2020/02/Gombanevjegyzek_2017.04.26_lm_ml_gsz_nyb.pdf"
+      ],
+      "label": "óriás terülőgomba",
+      "names": []
+    },
+    "ro": {
+      "description": "O ciupercă saprotrofă crustoasă, larg răspândită pe lemnul coniferelor, semnalată în America de Nord și Centrală, Europa, Africa de Est și Asia de Sud. Colonizează timpuriu lemnul proaspăt expus și produce putregai alb, contribuind la descompunere și concurând alte ciuperci lignicole.",
+      "cap": "Nu formează pălărie. Crustele plate și întinse pot ajunge la 100 cm lățime și au cel mult 1 mm grosime, cele tinere până la 0,5 mm. Sunt albicioase, crem sau cenușii până la ocru sau bej-rozalii, cu margine fibriloasă mai deschisă; la uscare crapă și se desprind pe margini.",
+      "hymenium": "Netedă până la noduroasă, fin catifelată la lupă datorită cistidelor proeminente, cu pereți groși, incrustate cu cristale, de 50–80 × 10–15 µm. Bazidiile sunt îngust claviforme, tetrasporice, de 25–30 × 4–5 µm.",
+      "stipe": "Nu are picior; crusta este prinsă direct de lemn.",
+      "flesh": "Subțire, fermă și cartilaginoasă când e tânără, apoi uscată și crăpată. Mirosul este nedistinct.",
+      "sporePrint": "Sporada este albă. Sporii sunt netezi, cu pereți subțiri, neamiloizi, îngust elipsoidali până aproape cilindrici, de 4,5–8 × 2,5–3,5 µm; intervalele publicate diferă.",
+      "habitat": "Pe trunchiuri, cioturi și ramuri moarte de conifere, mai ales de pin, dar și de molid, brad și tsuga; ocazional pe foioase și lemn depozitat. Fructifică din toamnă până primăvara în Marea Britanie, de la sfârșitul verii până toamna în Siberia, iar în Slovacia este semnalată tot anul.",
+      "uses": "Necomestibilă.",
+      "confusion": "Phaeophlebiopsis ravenelii diferă mai ales prin sporii mai mici. Sebacina epigaea acoperă, pe lângă lemn, și solul și litiera și are bazidii foarte diferite. Crustele asemănătoare trebuie separate microscopic.",
+      "notes": "Culturile aplicate pe cioturi proaspete de conifere ajută la suprimarea putregaiului rădăcinilor cauzat de Heterobasidion prin competiție și interferență hifală. Oidiile asexuate se formează prin fragmentarea miceliului; rolul lor natural este incert. Folosirea în silvicultură nu dovedește siguranța alimentară sau medicinală.",
+      "sourceUrls": []
+    },
+    "da": {
+      "description": "En vidt udbredt saprotrof skorpesvamp på nåletræ, kendt fra Nord- og Mellemamerika, Europa, Østafrika og Sydasien. Den koloniserer nyligt blotlagt træ tidligt og forårsager hvidmuld, hvorved den bidrager til nedbrydningen og konkurrerer med andre træboende svampe.",
+      "cap": "Der dannes ingen hat. De flade, udbredte skorper kan blive 100 cm brede og er højst 1 mm tykke, unge op til 0,5 mm. De er hvidlige, cremefarvede eller grå til okkerfarvede eller rosabeige med en lysere, trådet rand; ved udtørring revner de og løsner sig langs kanterne.",
+      "hymenium": "Glat til knudret, fint fløjlsagtig under lup på grund af fremstående, tykvæggede, krystalbesatte cystider på 50–80 × 10–15 µm. Basidierne er smalt kølleformede, firesporede, 25–30 × 4–5 µm.",
+      "stipe": "Ingen stok; skorpen sidder direkte fast på træet.",
+      "flesh": "Tyndt, fast og bruskagtigt som ungt, senere tørt og revnet. Lugten er utydelig.",
+      "sporePrint": "Sporeaftrykket er hvidt. Sporerne er glatte, tyndvæggede, ikke-amyloide, smalt ellipsoidiske til næsten cylindriske, 4,5–8 × 2,5–3,5 µm; de publicerede intervaller varierer.",
+      "habitat": "På døde stammer, stubbe og grene af nåletræ, især fyr, også gran, ædelgran og hemlok; undertiden løvtræ og oplagret træ. Frugtlegemer fra efterår til forår i Storbritannien, fra sensommer til efterår i Sibirien, med fund året rundt i Slovakiet.",
+      "uses": "Uspiselig.",
+      "confusion": "Phaeophlebiopsis ravenelii adskiller sig især ved mindre sporer. Sebacina epigaea vokser ud over træ også over jord og førne og har helt anderledes basidier. Lignende skorpesvampe må adskilles mikroskopisk.",
+      "notes": "Kulturer på friske nåletræsstubbe hjælper med at hæmme Heterobasidion-rodråd gennem konkurrence og hyfeinterferens. Ukønnede oidier dannes ved fragmentering af myceliet; deres rolle i naturen er usikker. Skovbrugsmæssig anvendelse dokumenterer ikke sikkerhed som fødevare eller lægemiddel.",
+      "sourceUrls": [
+        "https://roedliste.au.dk/data.asp?ID=4403&gruppeID=87"
+      ],
+      "label": "kæmpebarksvamp",
+      "names": []
+    },
+    "no": {
+      "description": "En vidt utbredt saprotrof barksopp på barved, registrert i Nord- og Mellom-Amerika, Europa, Øst-Afrika og Sør-Asia. Den koloniserer nylig blottlagt ved tidlig og gir hvitråte, slik at den bidrar til nedbrytningen og konkurrerer med andre vedboende sopper.",
+      "cap": "Ingen hatt dannes. De flate, utbredte skorpene kan bli 100 cm brede og er høyst 1 mm tykke, unge opptil 0,5 mm. De er hvitaktige, kremfargede eller grå til okerfargede eller rosabeige, med lysere, fibrilløs kant; ved tørking sprekker de og løsner i kantene.",
+      "hymenium": "Glatt til knudrete, fint fløyelsaktig under lupe på grunn av utstående, tykkveggede, krystallbesatte cystider på 50–80 × 10–15 µm. Basidiene er smalt kølleformede, firesporede, 25–30 × 4–5 µm.",
+      "stipe": "Ingen stilk; skorpen sitter direkte på veden.",
+      "flesh": "Tynt, fast og bruskaktig som ungt, senere tørt og oppsprukket. Lukten er utydelig.",
+      "sporePrint": "Sporeavtrykket er hvitt. Sporene er glatte, tynnveggede, ikke-amyloide, smalt ellipsoide til nesten sylindriske, 4,5–8 × 2,5–3,5 µm; publiserte intervaller varierer.",
+      "habitat": "På døde bartrestammer, stubber og greiner, særlig furu, også gran, edelgran og hemlokk; av og til løvved og lagret tømmer. Fruktlegemer fra høst til vår i Storbritannia, fra sensommer til høst i Sibir, med helårsfunn i Slovakia.",
+      "uses": "Uspiselig.",
+      "confusion": "Phaeophlebiopsis ravenelii skiller seg først og fremst ved mindre sporer. Sebacina epigaea vokser over jord og strø i tillegg til ved og har svært ulike basidier. Lignende barksopper må skilles mikroskopisk.",
+      "notes": "Kulturer på ferske bartrestubber bidrar til å hemme Heterobasidion-rotråte gjennom konkurranse og hyfeinterferens. Ukjønnede oidier dannes ved oppdeling av mycelet; deres naturlige rolle er usikker. Bruk i skogbruket dokumenterer ikke trygghet som mat eller medisin.",
+      "sourceUrls": [
+        "https://elurikkus.ee/app/taxonomy/taxon/165074"
+      ],
+      "label": "stor barksopp",
+      "names": []
+    },
+    "sv": {
+      "description": "En vitt utbredd saprotrof skinnsvamp på barrved, noterad i Nord- och Centralamerika, Europa, Östafrika och Sydasien. Den koloniserar nyligen blottad ved tidigt och orsakar vitröta, vilket bidrar till nedbrytningen och medför konkurrens med andra vedlevande svampar.",
+      "cap": "Ingen hatt bildas. De platta, utbredda skorporna kan bli 100 cm breda och är högst 1 mm tjocka, unga upp till 0,5 mm. De är vitaktiga, gräddfärgade eller grå till ockrafärgade eller rosabeige, med ljusare fibrillös kant; vid torka spricker de och lossnar i kanterna.",
+      "hymenium": "Slät till knölig, fint sammetsartad under lupp genom utskjutande, tjockväggiga, kristallklädda cystider på 50–80 × 10–15 µm. Basidierna är smalt klubbformiga, fyrsporiga, 25–30 × 4–5 µm.",
+      "stipe": "Ingen fot; skorpan sitter direkt på veden.",
+      "flesh": "Tunt, fast och broskartat som ungt, senare torrt och sprucket. Lukten är obetydlig.",
+      "sporePrint": "Sporavtrycket är vitt. Sporerna är släta, tunnväggiga, icke-amyloida, smalt ellipsoida till nästan cylindriska, 4,5–8 × 2,5–3,5 µm; publicerade intervall varierar.",
+      "habitat": "På döda barrträdsstammar, stubbar och grenar, främst tall, även gran, ädelgran och hemlock; ibland på lövved och lagrat virke. Fruktkroppar från höst till vår i Storbritannien, från sensommar till höst i Sibirien, med fynd året runt i Slovakien.",
+      "uses": "Oätlig.",
+      "confusion": "Phaeophlebiopsis ravenelii skiljer sig främst genom mindre sporer. Sebacina epigaea växer över mark och förna förutom ved och har helt andra basidier. Liknande skinnsvampar måste skiljas mikroskopiskt.",
+      "notes": "Kulturer på färska barrträdsstubbar hjälper till att hämma Heterobasidion-rotröta genom konkurrens och hyfinterferens. Könlösa oidier bildas genom fragmentering av mycelet; deras naturliga roll är osäker. Användning inom skogsbruk bevisar inte säkerhet som livsmedel eller läkemedel.",
+      "sourceUrls": [
+        "https://laji.fi/taxon/MX.205740?showTree=true"
+      ],
+      "label": "pergamentsvamp",
+      "names": []
+    },
+    "fi": {
+      "description": "Laajalle levinnyt havupuulla elävä lahottajasieni, jota on tavattu Pohjois- ja Keski-Amerikassa, Euroopassa, Itä-Afrikassa ja Etelä-Aasiassa. Se asuttaa vastikään paljastunutta puuta varhain ja aiheuttaa valkolahoa, osallistuen puun hajotukseen ja kilpaillen muiden puussa elävien sienten kanssa.",
+      "cap": "Lakkia ei muodostu. Litteät, alustanmyötäiset itiöemät voivat ulottua 100 cm:n levyisiksi ja ovat enintään 1 mm:n paksuisia, nuorina enintään 0,5 mm. Väri on valkeahko, kermanvärinen tai harmaa, myös okranvärinen tai vaaleanpunertavan beige; reuna on vaaleampi ja säikeinen. Kuivuessaan ne halkeilevat ja irtoavat reunoilta.",
+      "hymenium": "Sileä tai kyhmyinen, luupilla hienon samettinen ulkonevien, paksuseinäisten, kiteiden peittämien kystidien vuoksi; niiden koko on 50–80 × 10–15 µm. Basidiot ovat kapean nuijamaisia, neli-itiöisiä, 25–30 × 4–5 µm.",
+      "stipe": "Jalkaa ei ole; itiöemä kiinnittyy suoraan puuhun.",
+      "flesh": "Ohutta, kiinteää ja nuorena rustomaista, myöhemmin kuivaa ja halkeillutta. Haju on heikko.",
+      "sporePrint": "Itiöpöly on valkoista. Itiöt ovat sileitä, ohutseinäisiä, amyloidittomia, kapean ellipsoidisia tai lähes lieriömäisiä, 4,5–8 × 2,5–3,5 µm; julkaistut kokovälit vaihtelevat.",
+      "habitat": "Kuolleilla havupuiden rungoilla, kannoilla ja oksilla, etenkin männyllä, myös kuusella, pihdalla ja hemlokilla; joskus lehtipuulla ja varastoidulla puutavaralla. Itiöemiä Britanniassa syksystä kevääseen, Siperiassa loppukesästä syksyyn, Slovakiassa havaintoja ympäri vuoden.",
+      "uses": "Syötäväksi kelpaamaton.",
+      "confusion": "Phaeophlebiopsis ravenelii eroaa ennen kaikkea pienempien itiöidensä perusteella. Sebacina epigaea kasvaa puun lisäksi maan ja karikkeen päällä, ja sen basidiot ovat hyvin erilaiset. Samankaltaisten kuorimaisten sienten erottaminen vaatii mikroskooppitutkimusta.",
+      "notes": "Tuoreille havupuukannoille levitetyt viljelmät auttavat torjumaan Heterobasidion-juurikääpälahoa kilpailun ja sienirihmojen välisen vaikutuksen avulla. Suvuttomia oidiosporeja syntyy rihmaston pirstoutumisesta; niiden luontainen tehtävä on epäselvä. Metsätalouskäyttö ei osoita turvallisuutta ravintona tai lääkkeenä.",
+      "sourceUrls": [
+        "https://laji.fi/taxon/MX.205740?showTree=true"
+      ],
+      "label": "harmaaorvakka",
+      "names": []
+    },
+    "et": {
+      "description": "Laialt levinud saprotroofne koorikjas seen okaspuupuidul, teada Põhja- ja Kesk-Ameerikast, Euroopast, Ida-Aafrikast ja Lõuna-Aasiast. See asustab värskelt paljastunud puitu varakult ja tekitab valgemädanikku, aidates puitu lagundada ning konkureerides teiste puidul elavate seentega.",
+      "cap": "Kübarat ei moodustu. Lamedad liibuvad koorikud võivad ulatuda 100 cm laiuseni ning on kuni 1 mm paksused, noorelt kuni 0,5 mm. Valkjad, kreemjad või hallid kuni ookerjad või roosakasbeežid, heledama kiulise servaga; kuivades pragunevad ja irduvad servadest.",
+      "hymenium": "Sile kuni kühmuline, luubiga vaadates peenelt sametine väljaulatuvate paksuseinaliste kristallidega kaetud tsüstiidide tõttu, 50–80 × 10–15 µm. Basiidid on kitsalt nuiakujulised, neljaeoselised, 25–30 × 4–5 µm.",
+      "stipe": "Jalga pole; koorik kinnitub vahetult puidule.",
+      "flesh": "Õhuke, tihke ja noorelt kõhrjas, hiljem kuiv ja pragunenud. Lõhn on nõrk.",
+      "sporePrint": "Eospulber on valge. Eosed on siledad, õhukeseseinalised, mitteamüloidsed, kitsalt ellipsoidsed kuni peaaegu silinderjad, 4,5–8 × 2,5–3,5 µm; avaldatud mõõduvahemikud erinevad.",
+      "habitat": "Surnud okaspuutüvedel, kändudel ja okstel, eeskätt männil, samuti kuusel, nulul ja tsuugal; vahel lehtpuidul ja ladustatud puidul. Suurbritannias viljub sügisest kevadeni, Siberis hilissuvest sügiseni; Slovakkias leidub vaatlusi aasta läbi.",
+      "uses": "Mittesöödav.",
+      "confusion": "Phaeophlebiopsis ravenelii erineb eeskätt väiksemate eoste poolest. Sebacina epigaea katab lisaks puidule ka mulda ja kõdu ning selle basiidid on hoopis teistsugused. Sarnaste koorikseente eristamiseks on vaja mikroskoopiat.",
+      "notes": "Värsketele okaspuukändudele kantud kultuurid aitavad konkurentsi ja hüüfide vastastikuse toime kaudu tõrjuda Heterobasidion-juuremädanikku. Suguta oiidid tekivad seeneniidistiku killustumisel; nende looduslik roll on ebaselge. Kasutamine metsanduses ei tõesta ohutust toidu või ravimina.",
+      "sourceUrls": [
+        "https://elurikkus.ee/app/taxonomy/taxon/165074"
+      ],
+      "label": "hiidkoorik",
+      "names": []
+    },
+    "lv": {
+      "description": "Plaši izplatīta saprotrofa klājeniska sēne uz skujkoku koksnes, konstatēta Ziemeļamerikā un Centrālamerikā, Eiropā, Austrumāfrikā un Dienvidāzijā. Tā agri apdzīvo svaigi atsegtu koksni un izraisa balto trupi, piedaloties koksnes noārdīšanā un konkurējot ar citām koksnē dzīvojošām sēnēm.",
+      "cap": "Cepurīte neveidojas. Plakanie, izplestie augļķermeņi var sasniegt 100 cm platumu un ir ne vairāk kā 1 mm biezi, jauni līdz 0,5 mm. Bālgani, krēmkrāsas vai pelēki līdz okerkrāsas vai sārti bēši, ar gaišāku šķiedrainu malu; izžūstot plaisā un malās atdalās no substrāta.",
+      "hymenium": "Gluda līdz pauguraina virsma zem lupas ir smalki samtaina izvirzītu, biezsienu, ar kristāliem klātu cistīdu dēļ, 50–80 × 10–15 µm. Bazīdijas šauri vālesveidīgas, četrsporu, 25–30 × 4–5 µm.",
+      "stipe": "Kātiņa nav; augļķermenis piestiprināts tieši pie koksnes.",
+      "flesh": "Plāns, stingrs un jaunībā skrimšļains, vēlāk sauss un saplaisājis. Smarža neizteikta.",
+      "sporePrint": "Sporu nobirums balts. Sporas gludas, plānsienu, neamiloīdas, šauri elipsoidālas līdz gandrīz cilindriskas, 4,5–8 × 2,5–3,5 µm; publicētie izmēru diapazoni atšķiras.",
+      "habitat": "Uz atmirušiem skujkoku stumbriem, celmiem un zariem, īpaši priedēm, arī eglēm, balteglēm un tsugām; reizēm uz lapkoku un uzglabātas koksnes. Lielbritānijā augļķermeņi no rudens līdz pavasarim, Sibīrijā no vasaras beigām līdz rudenim; Slovākijā atradumi visu gadu.",
+      "uses": "Neēdama.",
+      "confusion": "Phaeophlebiopsis ravenelii atšķiras galvenokārt ar mazākām sporām. Sebacina epigaea klāj ne vien koksni, bet arī augsni un nobiras, un tai ir pavisam atšķirīgas bazīdijas. Līdzīgu klājenisko sēņu atšķiršanai vajadzīga mikroskopēšana.",
+      "notes": "Kultūras, kas uzklātas svaigiem skujkoku celmiem, ar konkurenci un hifu mijiedarbību palīdz ierobežot Heterobasidion izraisīto sakņu trupi. Bezdzimuma oīdijas rodas, fragmentējoties micēlijam; to loma dabā nav skaidra. Izmantošana mežsaimniecībā nepierāda drošumu pārtikā vai ārstniecībā.",
+      "sourceUrls": [
+        "https://www.silava.lv/petnieciba/petijumi/lielas-pergamentsenes-nozime-saknu-piepes-micelija-izplatibas-ierobezosana-eglu-un-priezu-celmos"
+      ],
+      "label": "lielā pergamentsēne",
+      "names": []
+    },
+    "lt": {
+      "description": "Plačiai paplitęs saprotrofinis plutinis grybas ant spygliuočių medienos, aptinkamas Šiaurės ir Centrinėje Amerikoje, Europoje, Rytų Afrikoje ir Pietų Azijoje. Anksti apgyvendina šviežiai atidengtą medieną ir sukelia baltąjį puvinį, prisidėdamas prie jos skaidymo ir konkuruodamas su kitais medienoje gyvenančiais grybais.",
+      "cap": "Kepurėlės nesudaro. Plokšti, išplitę vaisiakūniai gali siekti 100 cm plotį, būna ne storesni kaip 1 mm, jauni iki 0,5 mm. Balkšvi, kreminiai ar pilki iki ochros spalvos arba rausvai smėliniai, šviesesniu plaušingu pakraščiu; džiūdami sutrūkinėja ir pakraščiuose atsiskiria nuo pagrindo.",
+      "hymenium": "Lygus ar gumbuotas paviršius po lupa smulkiai aksominis dėl išsikišusių storasienių kristalais padengtų cistidžių, 50–80 × 10–15 µm. Bazidijos siauros buožiškos, ketursporės, 25–30 × 4–5 µm.",
+      "stipe": "Koto nėra; vaisiakūnis tiesiogiai priaugęs prie medienos.",
+      "flesh": "Plona, standi, jauna kremzliška, vėliau sausa ir suskilinėjusi. Kvapas neryškus.",
+      "sporePrint": "Sporų atspaudas baltas. Sporos lygios, plonasienės, neamiloidinės, siaurai elipsoidinės iki beveik cilindriškų, 4,5–8 × 2,5–3,5 µm; paskelbti matmenų intervalai skiriasi.",
+      "habitat": "Ant negyvų spygliuočių kamienų, kelmų ir šakų, ypač pušų, taip pat eglių, kėnių ir cūgų; kartais ant lapuočių ir sandėliuojamos medienos. Britanijoje vaisiakūnius augina nuo rudens iki pavasario, Sibire nuo vasaros pabaigos iki rudens; Slovakijoje radiniai registruoti visus metus.",
+      "uses": "Nevalgomas.",
+      "confusion": "Phaeophlebiopsis ravenelii daugiausia skiriasi mažesnėmis sporomis. Sebacina epigaea dengia ne tik medieną, bet ir dirvą bei nuokritas, o jos bazidijos labai skirtingos. Panašiems plutiniams grybams atskirti reikia mikroskopijos.",
+      "notes": "Kultūros, užneštos ant šviežių spygliuočių kelmų, konkurencija ir hifų sąveika padeda slopinti Heterobasidion sukeliamą šaknų puvinį. Nelytinės oidijos susidaro fragmentuojantis grybienai; jų vaidmuo gamtoje neaiškus. Naudojimas miškininkystėje neįrodo maistinio ar gydomojo saugumo.",
+      "sourceUrls": [
+        "https://gamtostyrimai.lt/wp-content/uploads/2024/12/2024_Grybu_savadas_web.pdf"
+      ],
+      "label": "didysis raukšliagrybenis",
+      "names": []
+    },
+    "it": {
+      "description": "Un fungo saprotrofo crostoso ampiamente diffuso sul legno di conifere, segnalato in America settentrionale e centrale, Europa, Africa orientale e Asia meridionale. Colonizza precocemente il legno appena esposto e provoca carie bianca, contribuendo alla decomposizione e competendo con altri funghi lignicoli.",
+      "cap": "Non forma un cappello. Le croste piatte ed espanse possono raggiungere 100 cm di larghezza e non superano 1 mm di spessore, da giovani fino a 0,5 mm. Biancastre, crema o grigie fino a ocracee o beige rosate, con margine fibrilloso più chiaro; seccando si screpolano e si staccano ai bordi.",
+      "hymenium": "Liscio o bitorzoluto, finemente vellutato alla lente per i cistidi sporgenti, a parete spessa e incrostati di cristalli, di 50–80 × 10–15 µm. I basidi sono strettamente clavati, tetrasporici, di 25–30 × 4–5 µm.",
+      "stipe": "Privo di gambo; la crosta aderisce direttamente al legno.",
+      "flesh": "Sottile, soda e cartilaginosa da giovane, poi secca e screpolata. Odore poco distinto.",
+      "sporePrint": "Sporata bianca. Spore lisce, a parete sottile, non amiloidi, strettamente ellissoidali o quasi cilindriche, di 4,5–8 × 2,5–3,5 µm; gli intervalli pubblicati variano.",
+      "habitat": "Su tronchi, ceppi e rami morti di conifere, soprattutto pino, anche abete rosso, abete bianco e tsuga; occasionalmente su latifoglie e legname immagazzinato. Fruttifica dall’autunno alla primavera in Gran Bretagna, dalla tarda estate all’autunno in Siberia, con segnalazioni durante tutto l’anno in Slovacchia.",
+      "uses": "Non commestibile.",
+      "confusion": "Phaeophlebiopsis ravenelii differisce soprattutto per le spore più piccole. Sebacina epigaea ricopre, oltre al legno, terreno e lettiera e possiede basidi molto diversi. Per distinguere croste simili occorre l’esame microscopico.",
+      "notes": "Colture applicate a ceppi freschi di conifere aiutano a contenere il marciume radicale da Heterobasidion mediante competizione e interferenza ifale. Oidi asessuati si formano per frammentazione del micelio; il loro ruolo naturale è incerto. L’impiego forestale non dimostra sicurezza alimentare o medicinale.",
+      "sourceUrls": []
+    },
+    "es": {
+      "description": "Un hongo saprótrofo costroso ampliamente distribuido sobre madera de coníferas, citado en América del Norte y Central, Europa, África oriental y Asia meridional. Coloniza pronto la madera recién expuesta y provoca pudrición blanca, contribuyendo a su descomposición y compitiendo con otros hongos lignícolas.",
+      "cap": "No forma sombrero. Las costras planas y extendidas pueden alcanzar 100 cm de anchura y tienen como máximo 1 mm de grosor, las jóvenes hasta 0,5 mm. Son blanquecinas, crema o grises hasta ocráceas o beige rosadas, con margen fibriloso más pálido; al secarse se agrietan y se desprenden por los bordes.",
+      "hymenium": "Liso a abultado, finamente aterciopelado bajo la lupa por los cistidios sobresalientes, de pared gruesa e incrustados de cristales, de 50–80 × 10–15 µm. Los basidios son estrechamente claviformes, tetraspóricos, de 25–30 × 4–5 µm.",
+      "stipe": "Sin pie; la costra se adhiere directamente a la madera.",
+      "flesh": "Delgada, firme y cartilaginosa de joven, después seca y agrietada. Olor poco marcado.",
+      "sporePrint": "Esporada blanca. Esporas lisas, de pared fina, no amiloides, estrechamente elipsoidales a casi cilíndricas, de 4,5–8 × 2,5–3,5 µm; los intervalos publicados varían.",
+      "habitat": "Sobre troncos, tocones y ramas muertos de coníferas, especialmente pino, también pícea, abeto y tsuga; ocasionalmente sobre frondosas y madera almacenada. Fructifica de otoño a primavera en Gran Bretaña, de finales de verano a otoño en Siberia, con registros durante todo el año en Eslovaquia.",
+      "uses": "No comestible.",
+      "confusion": "Phaeophlebiopsis ravenelii se diferencia principalmente por sus esporas más pequeñas. Sebacina epigaea recubre suelo y hojarasca además de madera y tiene basidios muy distintos. Es necesario el examen microscópico para separar costras semejantes.",
+      "notes": "Los cultivos aplicados a tocones frescos de coníferas ayudan a suprimir la pudrición radical por Heterobasidion mediante competencia e interferencia hifal. Los oidios asexuales se forman por fragmentación del micelio; su función natural es incierta. El uso forestal no demuestra seguridad alimentaria ni medicinal.",
+      "sourceUrls": []
+    },
+    "pt": {
+      "description": "Um fungo saprotrófico crostoso amplamente distribuído na madeira de coníferas, registado na América do Norte e Central, Europa, África Oriental e Ásia Meridional. Coloniza cedo a madeira recém-exposta e provoca podridão branca, contribuindo para a decomposição e competindo com outros fungos lignícolas.",
+      "cap": "Não forma chapéu. As crostas planas e estendidas podem atingir 100 cm de largura e têm, no máximo, 1 mm de espessura, as jovens até 0,5 mm. São esbranquiçadas, creme ou cinzentas até ocráceas ou bege-rosadas, com margem fibrilhosa mais pálida; ao secarem, fissuram e desprendem-se nas margens.",
+      "hymenium": "Liso a irregularmente noduloso, finamente aveludado à lupa devido aos cistídios salientes, de parede espessa e incrustados de cristais, com 50–80 × 10–15 µm. Os basídios são estreitamente claviformes, tetraspóricos, com 25–30 × 4–5 µm.",
+      "stipe": "Sem pé; a crosta adere diretamente à madeira.",
+      "flesh": "Delgada, firme e cartilaginosa quando jovem, tornando-se seca e fissurada. Odor pouco distinto.",
+      "sporePrint": "Esporada branca. Esporos lisos, de parede fina, não amiloides, estreitamente elipsoidais a quase cilíndricos, com 4,5–8 × 2,5–3,5 µm; os intervalos publicados variam.",
+      "habitat": "Em troncos, cepos e ramos mortos de coníferas, sobretudo pinheiros, também píceas, abetos e tsugas; ocasionalmente em folhosas e madeira armazenada. Frutifica do outono à primavera na Grã-Bretanha, do fim do verão ao outono na Sibéria, com registos durante todo o ano na Eslováquia.",
+      "uses": "Não comestível.",
+      "confusion": "Phaeophlebiopsis ravenelii distingue-se sobretudo pelos esporos mais pequenos. Sebacina epigaea reveste solo e manta morta, além de madeira, e possui basídios muito diferentes. O exame microscópico é necessário para separar crostas semelhantes.",
+      "notes": "As culturas aplicadas a cepos frescos de coníferas ajudam a suprimir a podridão radicular por Heterobasidion através de competição e interferência hifal. Os oídios assexuados formam-se por fragmentação do micélio; o seu papel natural é incerto. A utilização florestal não comprova segurança alimentar ou medicinal.",
+      "sourceUrls": []
+    },
+    "tr": {
+      "description": "Kozalaklı ağaç odununda yaşayan, Kuzey ve Orta Amerika, Avrupa, Doğu Afrika ve Güney Asya’da kaydedilmiş, yaygın bir saprotrof kabuk mantarıdır. Yeni açığa çıkan odunu erken kolonize eder ve beyaz çürüklüğe yol açar; böylece ayrışmaya katkı sağlar ve diğer odun mantarlarıyla rekabet eder.",
+      "cap": "Şapka oluşmaz. Yassı, yayılan kabuklar 100 cm genişliğe ulaşabilir; kalınlıkları en fazla 1 mm, gençken 0,5 mm’ye kadardır. Beyazımsı, krem veya griden okraya ya da pembemsi beje değişir; kenar daha soluk ve liflidir. Kuruyunca çatlar ve kenarları kalkar.",
+      "hymenium": "Düz ile yumrulu arasında değişir; büyüteç altında, dışarı uzanan kalın çeperli ve kristallerle kaplı 50–80 × 10–15 µm boyutlarındaki sistidlerden dolayı ince kadifemsi görünür. Bazidiyumlar dar topuz biçimli, dört sporlu, 25–30 × 4–5 µm’dir.",
+      "stipe": "Sap yoktur; kabuk doğrudan oduna bağlıdır.",
+      "flesh": "İnce, sıkı ve gençken kıkırdaksıdır; sonra kurur ve çatlar. Koku belirgin değildir.",
+      "sporePrint": "Spor izi beyazdır. Sporlar düz, ince çeperli, amiloid olmayan, dar elipsoitten hemen hemen silindiriğe kadar değişen biçimde, 4,5–8 × 2,5–3,5 µm’dir; yayımlanmış aralıklar farklılık gösterir.",
+      "habitat": "Ölü kozalaklı ağaç gövdeleri, kütükleri ve dalları üzerinde; özellikle çamda, ayrıca ladin, göknar ve tsugada; bazen geniş yapraklı odununda ve depolanmış kerestede bulunur. Britanya’da sonbahardan ilkbahara, Sibirya’da yaz sonundan sonbahara kadar meyve verir; Slovakya’da yıl boyunca kayıtları vardır.",
+      "uses": "Yenmez.",
+      "confusion": "Phaeophlebiopsis ravenelii esas olarak daha küçük sporlarıyla ayrılır. Sebacina epigaea odunun yanı sıra toprak ve döküntüyü de kaplar ve bazidiyumları çok farklıdır. Benzer kabuk mantarlarını ayırmak için mikroskobik inceleme gerekir.",
+      "notes": "Taze kozalaklı kütüklerine uygulanan kültürler, rekabet ve hif etkileşimiyle Heterobasidion kök çürüklüğünü baskılamaya yardımcı olur. Eşeysiz oidyumlar miselyumun parçalanmasıyla oluşur; doğadaki rolleri belirsizdir. Ormancılıkta kullanılması, gıda veya tıbbi kullanım güvenliğini kanıtlamaz.",
+      "sourceUrls": []
+    },
+    "id": {
+      "description": "Jamur saprotrof berbentuk kerak yang tersebar luas pada kayu konifer, tercatat di Amerika Utara dan Tengah, Eropa, Afrika Timur, dan Asia Selatan. Jamur ini merupakan pengkoloni awal kayu yang baru terbuka dan menyebabkan pelapukan putih, sehingga membantu penguraian serta bersaing dengan jamur penghuni kayu lainnya.",
+      "cap": "Tidak membentuk tudung. Kerak pipih yang melebar dapat mencapai lebar 100 cm dan tebal paling banyak 1 mm, saat muda hingga 0,5 mm. Warnanya keputihan, krem atau abu-abu hingga oker atau krem kemerahan, dengan tepi berserat yang lebih pucat; mengering dengan retakan dan tepi terangkat.",
+      "hymenium": "Permukaannya halus hingga berbonggol, tampak seperti beludru halus di bawah lup karena sistidia menonjol, berdinding tebal, berlapis kristal, berukuran 50–80 × 10–15 µm. Basidium berbentuk gada ramping, menghasilkan empat spora, berukuran 25–30 × 4–5 µm.",
+      "stipe": "Tidak bertangkai; kerak melekat langsung pada kayu.",
+      "flesh": "Tipis, padat dan menyerupai tulang rawan saat muda, kemudian kering dan retak. Bau tidak khas.",
+      "sporePrint": "Cetak spora putih. Spora halus, berdinding tipis, tidak amiloid, elipsoid sempit hingga hampir silindris, 4,5–8 × 2,5–3,5 µm; rentang ukuran yang diterbitkan bervariasi.",
+      "habitat": "Pada batang, tunggul dan cabang konifer mati, terutama pinus, juga spruce, fir dan hemlock; sesekali pada kayu pohon berdaun lebar dan kayu simpanan. Berbuah dari musim gugur hingga musim semi di Britania, dari akhir musim panas hingga musim gugur di Siberia; di Slovakia tercatat sepanjang tahun.",
+      "uses": "Tidak dapat dimakan.",
+      "confusion": "Phaeophlebiopsis ravenelii terutama berbeda karena sporanya lebih kecil. Sebacina epigaea menutupi tanah dan serasah selain kayu serta memiliki basidium yang sangat berbeda. Kerak serupa perlu dibedakan secara mikroskopis.",
+      "notes": "Kultur yang diaplikasikan pada tunggul konifer segar membantu menekan busuk akar oleh Heterobasidion melalui persaingan dan interferensi hifa. Oidia aseksual terbentuk melalui fragmentasi miselium; perannya di alam belum jelas. Penggunaan dalam kehutanan tidak membuktikan keamanan sebagai pangan atau obat.",
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "針葉樹材に生育する広域分布の腐生性の背着生菌で、北米、中米、ヨーロッパ、東アフリカ、南アジアで記録されています。新たに露出した木材に早期に定着し、白色腐朽を起こして分解に寄与するとともに、ほかの木材生息菌と競合します。",
+      "cap": "傘は形成しません。平たく広がる子実体は幅100 cmに達することがあり、厚さは1 mm以下、若いものは0.5 mm以下です。白色がかった色、クリーム色、灰色から黄土色、淡い桃色を帯びたベージュ色になり、縁はより淡色で繊維状です。乾燥するとひび割れ、縁が基質から離れます。",
+      "hymenium": "表面は平滑からこぶ状で、厚壁で結晶に覆われた突出するシスチジアにより、ルーペでは微細なビロード状に見えます。シスチジアは50–80 × 10–15 µmです。担子器は細いこん棒形で4胞子性、25–30 × 4–5 µmです。",
+      "stipe": "柄はなく、子実体は木材に直接付着します。",
+      "flesh": "薄く、しっかりしており、若いときは軟骨質で、のちに乾いてひび割れます。においは目立ちません。",
+      "sporePrint": "胞子紋は白色です。胞子は平滑、薄壁、非アミロイドで、細い楕円形からほぼ円筒形、4.5–8 × 2.5–3.5 µmです。報告された大きさの範囲には違いがあります。",
+      "habitat": "枯れた針葉樹の幹、切り株、枝に発生し、特にマツ類のほか、トウヒ類、モミ類、ツガ類にも生育します。広葉樹材や貯蔵木材にも時に見られます。英国では秋から春、シベリアでは夏の終わりから秋に子実体を形成し、スロバキアでは通年の記録があります。",
+      "uses": "食用になりません。",
+      "confusion": "Phaeophlebiopsis raveneliiは主に胞子がより小さいことで異なります。Sebacina epigaeaは木材だけでなく土壌や落葉も覆い、担子器が大きく異なります。似た背着生菌の区別には顕微鏡観察が必要です。",
+      "notes": "新鮮な針葉樹の切り株に施用した培養菌は、競合と菌糸間の干渉によりHeterobasidionによる根腐れを抑えるのに役立ちます。無性の分節胞子は菌糸の断片化によって生じますが、自然界での役割は不明確です。林業での利用は、食品や医薬としての安全性を示すものではありません。",
+      "sourceUrls": [
+        "https://mycoscouter.coolblog.jp/daikinrin/Pages/Phlebiopsis_gigantea_319885.html"
+      ],
+      "label": "カミカワタケ",
+      "names": []
+    },
+    "ko": {
+      "description": "침엽수 목재에 사는 널리 분포하는 부생성 고약형 균류로, 북아메리카와 중앙아메리카, 유럽, 동아프리카, 남아시아에서 기록되었습니다. 새로 노출된 목재에 일찍 정착하여 백색부후를 일으키며, 목재 분해에 기여하고 다른 목재 서식 균류와 경쟁합니다.",
+      "cap": "갓을 형성하지 않습니다. 평평하게 퍼진 자실체는 너비 100 cm에 이를 수 있으며, 두께는 1 mm 이하, 어릴 때는 0.5 mm 이하입니다. 희끄무레한 색, 크림색 또는 회색에서 황토색이나 분홍빛 베이지색을 띠고, 가장자리는 더 옅으며 섬유상입니다. 마르면 갈라지고 가장자리가 기질에서 들뜹니다.",
+      "hymenium": "표면은 매끈하거나 울퉁불퉁하며, 벽이 두껍고 결정으로 덮인 돌출된 낭상체 때문에 확대경으로 보면 미세한 벨벳상입니다. 낭상체는 50–80 × 10–15 µm입니다. 담자기는 가는 곤봉형이며 4포자성이고, 25–30 × 4–5 µm입니다.",
+      "stipe": "대가 없으며 자실체는 목재에 직접 붙습니다.",
+      "flesh": "얇고 단단하며 어릴 때는 연골질이고, 나중에는 말라 갈라집니다. 냄새는 뚜렷하지 않습니다.",
+      "sporePrint": "포자문은 흰색입니다. 포자는 매끈하고 벽이 얇으며 비아밀로이드성이고, 좁은 타원형에서 거의 원통형이며 4.5–8 × 2.5–3.5 µm입니다. 보고된 크기 범위에는 차이가 있습니다.",
+      "habitat": "죽은 침엽수의 줄기, 그루터기와 가지에 발생하며 특히 소나무류, 그 밖에 가문비나무류, 전나무류와 솔송나무류에도 자랍니다. 때로는 활엽수 목재와 저장된 목재에도 발생합니다. 영국에서는 가을부터 봄까지, 시베리아에서는 늦여름부터 가을까지 자실체를 형성하며, 슬로바키아에는 연중 기록이 있습니다.",
+      "uses": "식용하지 않습니다.",
+      "confusion": "Phaeophlebiopsis ravenelii는 주로 더 작은 포자로 구별됩니다. Sebacina epigaea는 목재뿐 아니라 토양과 낙엽층도 덮고 담자기가 매우 다릅니다. 비슷한 고약형 균류를 구별하려면 현미경 검사가 필요합니다.",
+      "notes": "신선한 침엽수 그루터기에 적용한 배양체는 경쟁과 균사 간 간섭을 통해 Heterobasidion의 뿌리썩음을 억제하는 데 도움이 됩니다. 무성 분절포자는 균사체의 단편화로 형성되며, 자연에서의 역할은 불확실합니다. 임업에서 사용된다는 사실은 식품이나 의약품으로서의 안전성을 입증하지 않습니다.",
+      "sourceUrls": [
+        "https://www.kjmycology.or.kr/wp-content/uploads/2025/02/KJM-3301-07.pdf"
+      ],
+      "label": "좀아교고약버섯",
+      "names": []
+    },
+    "zh": {
+      "description": "一種廣泛分布於針葉樹材上的腐生性殼狀真菌，北美洲、中美洲、歐洲、東非及南亞均有紀錄。它會早期定殖於新近暴露的木材，引起白腐，參與木材分解，並與其他棲息木材的真菌競爭。",
+      "cap": "不形成菌蓋。平展的殼狀子實體寬度可達100 cm，厚度不超過1 mm，幼時可達0.5 mm。呈灰白色、乳白色或灰色至赭色或粉米色，邊緣較淡且呈纖維狀；乾燥時龜裂，邊緣會翹離基質。",
+      "hymenium": "表面平滑至瘤狀，因突出的厚壁、結晶包覆囊狀體，在放大鏡下呈細微絨狀。囊狀體為50–80 × 10–15 µm。擔子呈狹棒狀，四孢子型，25–30 × 4–5 µm。",
+      "stipe": "無菌柄；子實體直接附著於木材。",
+      "flesh": "薄而堅實，幼時呈軟骨質，後來乾燥並龜裂。氣味不明顯。",
+      "sporePrint": "孢子印白色。孢子平滑、薄壁、非澱粉質反應，呈狹橢圓形至近圓柱形，4.5–8 × 2.5–3.5 µm；已發表的尺寸範圍有所差異。",
+      "habitat": "生於枯死針葉樹的樹幹、樹樁和枝條，尤其松類，也見於雲杉類、冷杉類及鐵杉類；偶見於闊葉樹材及貯存木材。英國於秋季至春季形成子實體，西伯利亞為夏末至秋季，斯洛伐克則全年有紀錄。",
+      "uses": "不可食用。",
+      "confusion": "Phaeophlebiopsis ravenelii主要以較小的孢子區別。Sebacina epigaea除木材外，也覆蓋土壤與落葉層，且擔子明顯不同。相似的殼狀真菌須以顯微鏡檢查區分。",
+      "notes": "將培養菌施於新鮮針葉樹樁，可藉由競爭與菌絲間的干擾，協助抑制Heterobasidion引起的根腐病。無性分節孢子由菌絲體斷裂形成，其自然作用尚不確定。林業用途不代表作為食品或藥物具有安全性。",
+      "sourceUrls": [
+        "https://www.tbn.org.tw/taxa/2c04656c-2625-4743-af39-66db2469fb20"
+      ],
+      "label": "巨大顯絲菌",
+      "names": []
+    },
+    "ar": {
+      "description": "فطر قشري رمّي واسع الانتشار على خشب المخروطيات، مسجل في أمريكا الشمالية والوسطى وأوروبا وشرق أفريقيا وجنوب آسيا. يستعمر الخشب المكشوف حديثًا في مرحلة مبكرة ويسبب العفن الأبيض، مما يسهم في تحلله ويجعله ينافس فطريات أخرى تعيش في الخشب.",
+      "cap": "لا تتكون قبعة. قد يبلغ عرض القشور المسطحة المنتشرة ١٠٠ cm، ولا يزيد سمكها على ١ mm، وفي صغرها يصل إلى ٠٫٥ mm. لونها مائل إلى الأبيض أو كريمي أو رمادي إلى مغري أو بيج وردي، بحافة ليفية أشحب؛ تتشقق عند الجفاف وترتفع أطرافها عن الركيزة.",
+      "hymenium": "السطح أملس إلى متكتل، ويبدو مخمليًا دقيقًا تحت العدسة بسبب السيستيدات البارزة سميكة الجدار والمكسوة بالبلورات، وأبعادها ٥٠–٨٠ × ١٠–١٥ µm. البازيديات ضيقة هراوية الشكل، تحمل أربعة أبواغ، وأبعادها ٢٥–٣٠ × ٤–٥ µm.",
+      "stipe": "لا توجد ساق؛ تلتصق القشرة مباشرة بالخشب.",
+      "flesh": "رقيق ومتماسك وغضروفي في الصغر، ثم يجف ويتشقق. الرائحة غير مميزة.",
+      "sporePrint": "طبعة الأبواغ بيضاء. الأبواغ ملساء رقيقة الجدار، غير أميلويدية، ضيقة إهليلجية إلى شبه أسطوانية، وأبعادها ٤٫٥–٨ × ٢٫٥–٣٫٥ µm؛ تختلف النطاقات المنشورة.",
+      "habitat": "على جذوع المخروطيات الميتة وجذوعها المقطوعة وأغصانها، ولا سيما الصنوبر، وكذلك التنوب والشوح والتسوغا؛ وأحيانًا على خشب الأشجار عريضة الأوراق والخشب المخزن. يثمر من الخريف إلى الربيع في بريطانيا، ومن أواخر الصيف إلى الخريف في سيبيريا، مع تسجيلات على مدار العام في سلوفاكيا.",
+      "uses": "غير صالح للأكل.",
+      "confusion": "يختلف Phaeophlebiopsis ravenelii أساسًا بصغر أبواغه. يغطي Sebacina epigaea التربة والفرشة العضوية إضافة إلى الخشب، وله بازيديات مختلفة جدًا. يلزم الفحص المجهري للفصل بين القشور المتشابهة.",
+      "notes": "تساعد المزارع الفطرية المطبقة على جذوع المخروطيات المقطوعة حديثًا في كبح تعفن الجذور الذي يسببه Heterobasidion من خلال المنافسة والتداخل بين الخيوط الفطرية. تتكون الأويديات اللاجنسية بتجزؤ الغزل الفطري؛ ودورها الطبيعي غير مؤكد. الاستعمال في الغابات ليس دليلًا على الأمان الغذائي أو الطبي.",
+      "sourceUrls": []
+    },
+    "fa": {
+      "description": "قارچی ساپروتروف و پوسته‌ای با پراکنش گسترده روی چوب سوزنی‌برگان است که در آمریکای شمالی و مرکزی، اروپا، شرق آفریقا و جنوب آسیا گزارش شده است. چوب تازه آشکارشده را زود اشغال می‌کند و با ایجاد پوسیدگی سفید، در تجزیهٔ آن نقش دارد و با دیگر قارچ‌های چوب‌زی رقابت می‌کند.",
+      "cap": "کلاهک تشکیل نمی‌دهد. پوسته‌های تخت و گسترده می‌توانند تا ۱۰۰ cm پهنا داشته باشند و ضخامتشان حداکثر ۱ mm، در جوانی تا ۰٫۵ mm است. رنگ آن‌ها سفیدفام، کرم یا خاکستری تا اُخرایی یا بژ صورتی است و حاشیه‌ای روشن‌تر و رشته‌ای دارند؛ هنگام خشک‌شدن ترک می‌خورند و لبه‌ها از بستر بلند می‌شوند.",
+      "hymenium": "سطح صاف تا برجسته است و زیر ذره‌بین، به‌علت سیستیدهای بیرون‌زده، ضخیم‌دیواره و پوشیده از بلور، ظاهری مخملی و ظریف دارد. سیستیدها ۵۰–۸۰ × ۱۰–۱۵ µm هستند. بازیدی‌ها باریک و گرزی‌شکل، چهارهاگی و به‌اندازهٔ ۲۵–۳۰ × ۴–۵ µm هستند.",
+      "stipe": "ساقه ندارد؛ پوسته مستقیماً به چوب متصل است.",
+      "flesh": "نازک، سفت و در جوانی غضروفی است و سپس خشک و ترک‌خورده می‌شود. بوی مشخصی ندارد.",
+      "sporePrint": "نقش هاگ سفید است. هاگ‌ها صاف، نازک‌دیواره، غیرآمیلوئیدی و بیضوی باریک تا تقریباً استوانه‌ای، به‌اندازهٔ ۴٫۵–۸ × ۲٫۵–۳٫۵ µm هستند؛ دامنه‌های منتشرشده متفاوت‌اند.",
+      "habitat": "روی تنه‌ها، کنده‌ها و شاخه‌های مردهٔ سوزنی‌برگان، به‌ویژه کاج و نیز نوئل، نراد و تسوگا؛ گاهی روی چوب پهن‌برگان و چوب انبارشده دیده می‌شود. در بریتانیا از پاییز تا بهار و در سیبری از اواخر تابستان تا پاییز باردهی می‌کند؛ در اسلواکی در سراسر سال ثبت شده است.",
+      "uses": "خوراکی نیست.",
+      "confusion": "Phaeophlebiopsis ravenelii عمدتاً با هاگ‌های کوچک‌تر متفاوت است. Sebacina epigaea علاوه بر چوب، خاک و لاشبرگ را هم می‌پوشاند و بازیدی‌های بسیار متفاوتی دارد. برای تمایز پوسته‌های مشابه، بررسی میکروسکوپی لازم است.",
+      "notes": "کشت‌های به‌کاررفته روی کنده‌های تازهٔ سوزنی‌برگان از راه رقابت و تداخل ریسه‌ای به مهار پوسیدگی ریشه ناشی از Heterobasidion کمک می‌کنند. اوئیدی‌های غیرجنسی با قطعه‌قطعه‌شدن میسلیوم ایجاد می‌شوند؛ نقش طبیعی آن‌ها نامشخص است. کاربرد جنگلداری دلیلی بر ایمنی غذایی یا دارویی نیست.",
+      "sourceUrls": []
+    },
+    "he": {
+      "description": "פטרייה קרומית ספרוטרופית הנפוצה על עץ מחטניים, שתועדה בצפון אמריקה ובמרכזה, באירופה, במזרח אפריקה ובדרום אסיה. היא מתיישבת מוקדם על עץ שנחשף לאחרונה וגורמת לריקבון לבן, וכך תורמת לפירוקו ומתחרה בפטריות אחרות החיות בעץ.",
+      "cap": "לא נוצר כובע. הקרומים השטוחים והמתפשטים עשויים להגיע לרוחב של 100 cm, ועוביים אינו עולה על 1 mm; בצעירותם עד 0.5 mm. צבעם לבנבן, קרם או אפור עד אוכרה או בז׳ ורדרד, והשוליים סיביים ובהירים יותר. בהתייבשות הם נסדקים ומתרוממים בשוליים.",
+      "hymenium": "המשטח חלק עד גבשושי, ונראה קטיפתי בעדשה מגדלת בשל ציסטידות בולטות, עבות דופן ומצופות גבישים, שגודלן 50–80 × 10–15 µm. הבסידיות דמויות אלה צרה, נושאות ארבעה נבגים, וגודלן 25–30 × 4–5 µm.",
+      "stipe": "אין רגל; הקרום מחובר ישירות לעץ.",
+      "flesh": "דק, מוצק וסחוסי בצעירותו, ובהמשך יבש וסדוק. הריח אינו מובהק.",
+      "sporePrint": "הדפס הנבגים לבן. הנבגים חלקים, דקי דופן, לא עמילואידיים, אליפסואידיים צרים עד כמעט גליליים, בגודל 4.5–8 × 2.5–3.5 µm; הטווחים שפורסמו משתנים.",
+      "habitat": "על גזעים, גדמים וענפים מתים של מחטניים, בעיקר אורן, וגם אשוחית, אשוח וצוגה; לעיתים על עץ רחבי עלים ועל עץ מאוחסן. גופי הפרי מופיעים מהסתיו עד האביב בבריטניה, מסוף הקיץ עד הסתיו בסיביר, ובסלובקיה תועדו לאורך כל השנה.",
+      "uses": "לא למאכל.",
+      "confusion": "Phaeophlebiopsis ravenelii נבדלת בעיקר בנבגים קטנים יותר. Sebacina epigaea מכסה גם קרקע ונשר נוסף על עץ, והבסידיות שלה שונות מאוד. נדרשת בדיקה מיקרוסקופית כדי להבחין בין קרומים דומים.",
+      "notes": "תרביות המיושמות על גדמים טריים של מחטניים מסייעות לדכא ריקבון שורשים של Heterobasidion באמצעות תחרות והפרעה בין קורים. אוידיות אל־מיניות נוצרות מהתפרקות התפטיר למקטעים; תפקידן הטבעי אינו ודאי. שימוש ביערנות אינו מעיד על בטיחות כמזון או כתרופה.",
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "शंकुधारी पेड़ों की लकड़ी पर उगने वाला व्यापक रूप से वितरित मृतोपजीवी पपड़ीदार कवक है, जो उत्तरी और मध्य अमेरिका, यूरोप, पूर्वी अफ्रीका तथा दक्षिणी एशिया में दर्ज है। यह नई खुली लकड़ी पर जल्दी बसता है और सफेद सड़न पैदा करता है, जिससे अपघटन में योगदान देता तथा अन्य लकड़ीवासी कवकों से प्रतिस्पर्धा करता है।",
+      "cap": "टोपी नहीं बनती। सपाट, फैली हुई पपड़ियाँ 100 cm तक चौड़ी और अधिकतम 1 mm मोटी हो सकती हैं; नई अवस्था में मोटाई 0.5 mm तक होती है। रंग सफेदी लिए, क्रीम या धूसर से गेरुआ अथवा गुलाबी-बेज होता है और किनारा हल्का तथा रेशेदार होता है। सूखने पर दरारें पड़ती हैं और किनारे आधार से उठ जाते हैं।",
+      "hymenium": "सतह चिकनी से उभरी हुई होती है और बाहर निकले मोटी भित्ति वाले, क्रिस्टल-आवृत सिस्टिडिया के कारण आवर्धक लेंस में महीन मखमली दिखती है। सिस्टिडिया 50–80 × 10–15 µm के होते हैं। बेसिडियम संकरे गदाकार, चार बीजाणुओं वाले और 25–30 × 4–5 µm के होते हैं।",
+      "stipe": "डंठल नहीं होता; पपड़ी सीधे लकड़ी से जुड़ी होती है।",
+      "flesh": "पतला, दृढ़ और नई अवस्था में उपास्थि जैसा, बाद में सूखा और दरारयुक्त। गंध अस्पष्ट होती है।",
+      "sporePrint": "बीजाणु छाप सफेद होती है। बीजाणु चिकने, पतली भित्ति वाले, गैर-अमाइलॉइड, संकरे दीर्घवृत्ताकार से लगभग बेलनाकार तथा 4.5–8 × 2.5–3.5 µm के होते हैं; प्रकाशित आकार-सीमाएँ अलग-अलग हैं।",
+      "habitat": "मृत शंकुधारी तनों, ठूँठों और शाखाओं पर, विशेषकर चीड़ तथा स्प्रूस, फर और हेमलॉक पर; कभी-कभी चौड़ी पत्ती वाले पेड़ों की लकड़ी और भंडारित लकड़ी पर भी मिलता है। ब्रिटेन में पतझड़ से वसंत तक, साइबेरिया में गर्मियों के अंत से पतझड़ तक फलन होता है; स्लोवाकिया में साल भर के अभिलेख हैं।",
+      "uses": "अखाद्य।",
+      "confusion": "Phaeophlebiopsis ravenelii मुख्यतः छोटे बीजाणुओं से अलग पहचाना जाता है। Sebacina epigaea लकड़ी के अलावा मिट्टी और पत्ती-कचरे को भी ढकता है तथा उसके बेसिडियम बहुत अलग होते हैं। समान पपड़ीदार कवकों को अलग करने के लिए सूक्ष्मदर्शी जाँच आवश्यक है।",
+      "notes": "शंकुधारियों के ताजा ठूँठों पर लगाए गए संवर्धन प्रतिस्पर्धा और कवक-तंतुओं के पारस्परिक हस्तक्षेप से Heterobasidion की जड़ सड़न दबाने में मदद करते हैं। अलैंगिक ओइडिया कवकजाल के खंडन से बनते हैं; प्रकृति में उनकी भूमिका अनिश्चित है। वानिकी में उपयोग भोजन या औषधि के रूप में सुरक्षा का प्रमाण नहीं है।",
+      "sourceUrls": []
+    }
+  },
+  "id": 133,
+  "added": "2026-11-07"
+},
+{
+  "id": 134,
+  "name": "Tricholoma focale",
+  "author": "(Fr.) Ricken",
+  "family": "Tricholomataceae",
+  "genus": "Tricholoma",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Agaricales",
+    "Tricholomataceae",
+    "Tricholoma"
+  ],
+  "edibility": "inedible",
+  "hymenium": "gills",
+  "where": [
+    "ground"
+  ],
+  "color": [
+    "brown",
+    "yellow",
+    "red",
+    "green"
+  ],
+  "capFrom": 4,
+  "capTo": 12,
+  "stipeHeightFrom": 4,
+  "stipeHeightTo": 10,
+  "stipeThickFrom": 1,
+  "stipeThickTo": 4,
+  "fruitingFrom": 8,
+  "fruitingTo": 11,
+  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Tricholomataceae/Tricholoma_focale/Tricholoma_focale@1600.webp",
+  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Tricholomataceae/Tricholoma_focale/Tricholoma_focale@400.webp",
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Tricholomataceae/Tricholoma_focale/tf1.webp",
+      "author": "ionafraser",
+      "license": "CC-BY",
+      "licenseUrl": "https://creativecommons.org/licenses/by/",
+      "source": "https://www.inaturalist.org/observations/397221520"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Tricholomataceae/Tricholoma_focale/tf2.webp",
+      "author": "Alan Rockefeller",
+      "license": "CC-BY",
+      "licenseUrl": "https://creativecommons.org/licenses/by/",
+      "source": "https://www.inaturalist.org/observations/102591776"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Tricholomataceae/Tricholoma_focale/tf3.webp",
+      "author": "mycowalt",
+      "license": "CC-BY-SA",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/",
+      "source": "https://www.inaturalist.org/observations/9577547"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Tricholomataceae/Tricholoma_focale/tf4.webp",
+      "author": "Josep Fracés Balaguer",
+      "license": "CC-BY",
+      "licenseUrl": "https://creativecommons.org/licenses/by/",
+      "source": "https://www.inaturalist.org/observations/410950836"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Tricholomataceae/Tricholoma_focale/tf5.webp",
+      "author": "juniperus_com",
+      "license": "CC-BY",
+      "licenseUrl": "https://creativecommons.org/licenses/by/",
+      "source": "https://www.inaturalist.org/observations/242544460"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Agaricales/Tricholomataceae/Tricholoma_focale/Tricholoma_focale@1600.webp",
+      "author": "Unknown; owner-supplied artwork",
+      "license": "User supplied; redistribution rights not independently established",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Tricholomataceae/Tricholoma_focale/Tricholoma_focale@1600.webp",
+      "existingMark": "J.B.Barla (visible embedded cursive lettering), retained unchanged; authenticity and authorship not established",
+      "sourceDescription": "Owner-supplied Tricholoma focale.png (actual JPEG896x1200); sourceSHA256 f8ccff70d2105154b0bc5704b2ac834457122f6abad54b1d67a6572d900b0089. True alpha extraction, original RGB and existing J.B.Barla mark retained; no authenticated artist/generator or established redistribution license. Anatomical caveat retained in illustrationProvenance."
+    },
+    {
+      "role": "photo1",
+      "author": "ionafraser",
+      "license": "CC-BY",
+      "licenseUrl": "https://creativecommons.org/licenses/by/",
+      "sourceUrl": "https://www.inaturalist.org/observations/397221520",
+      "path": "photos/Agaricales/Tricholomataceae/Tricholoma_focale/tf1.webp",
+      "adaptation": "True centered square crop, downsampled to1024px, WebP encoding; no padding, stretch or upscale",
+      "attribution": "(c) ionafraser, some rights reserved (CC BY)"
+    },
+    {
+      "role": "photo2",
+      "author": "Alan Rockefeller",
+      "license": "CC-BY",
+      "licenseUrl": "https://creativecommons.org/licenses/by/",
+      "sourceUrl": "https://www.inaturalist.org/observations/102591776",
+      "path": "photos/Agaricales/Tricholomataceae/Tricholoma_focale/tf2.webp",
+      "adaptation": "True centered square crop, downsampled to1024px, WebP encoding; no padding, stretch or upscale",
+      "attribution": "(c) Alan Rockefeller, some rights reserved (CC BY)"
+    },
+    {
+      "role": "photo3",
+      "author": "mycowalt",
+      "license": "CC-BY-SA",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/",
+      "sourceUrl": "https://www.inaturalist.org/observations/9577547",
+      "path": "photos/Agaricales/Tricholomataceae/Tricholoma_focale/tf3.webp",
+      "adaptation": "True centered square crop, downsampled to1024px, WebP encoding; no padding, stretch or upscale",
+      "attribution": "(c) mycowalt, some rights reserved (CC BY-SA)"
+    },
+    {
+      "role": "photo4",
+      "author": "Josep Fracés Balaguer",
+      "license": "CC-BY",
+      "licenseUrl": "https://creativecommons.org/licenses/by/",
+      "sourceUrl": "https://www.inaturalist.org/observations/410950836",
+      "path": "photos/Agaricales/Tricholomataceae/Tricholoma_focale/tf4.webp",
+      "adaptation": "True centered1365-square crop, downsampled1024px; no padding/stretch/upscale/retouch",
+      "attribution": "(c) Josep Fracés Balaguer, some rights reserved (CC BY)"
+    },
+    {
+      "role": "photo5",
+      "author": "juniperus_com",
+      "license": "CC-BY",
+      "licenseUrl": "https://creativecommons.org/licenses/by/",
+      "sourceUrl": "https://www.inaturalist.org/observations/242544460",
+      "path": "photos/Agaricales/Tricholomataceae/Tricholoma_focale/tf5.webp",
+      "adaptation": "True centered square crop, downsampled to1024px, WebP encoding; no padding, stretch or upscale",
+      "attribution": "(c) juniperus_com, some rights reserved (CC BY)"
+    }
+  ],
+  "label": {
+    "en": "booted knight",
+    "sk": "čírovka prsteňová",
+    "ar": "Tricholoma focale",
+    "bg": "опасана есенна гъба",
+    "cs": "čirůvka límcová",
+    "da": "halsbånd-ridderhat",
+    "de": "Halsband-Ritterling",
+    "es": "Tricholoma focale",
+    "et": "Tricholoma focale",
+    "fa": "Tricholoma focale",
+    "fi": "kaulusvalmuska",
+    "fr": "tricholome cravaté",
+    "he": "Tricholoma focale",
+    "hi": "Tricholoma focale",
+    "hr": "Tricholoma focale",
+    "hu": "galléros pereszke",
+    "id": "Tricholoma focale",
+    "it": "Tricholoma focale",
+    "ja": "Tricholoma focale",
+    "ko": "Tricholoma focale",
+    "lt": "žieduotasis baltikas",
+    "lv": "gredzenotā pūkaine",
+    "nl": "Halsdoekridderzwam",
+    "no": "teglrød kragemusserong",
+    "pl": "gąska ognista",
+    "pt": "Tricholoma focale",
+    "ro": "Tricholoma focale",
+    "ru": "рядовка опёнковидная",
+    "sl": "ovratniška kolobarnica",
+    "sr": "Tricholoma focale",
+    "sv": "kragmusseron",
+    "tr": "Tricholoma focale",
+    "uk": "рядовка опенькоподібна",
+    "zh": "Tricholoma focale"
+  },
+  "names": {
+    "en": [],
+    "sk": [],
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "рядовка перевязанная"
+    ],
+    "sl": [],
+    "sr": [],
+    "sv": [
+      "kråsmusseron"
+    ],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "en": [
+      "https://www.mushroomexpert.com/tricholoma_focale.html",
+      "https://www.first-nature.com/fungi/tricholoma-focale.php",
+      "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+      "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+      "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/"
+    ],
+    "sk": [
+      "https://www.mushroomexpert.com/tricholoma_focale.html",
+      "https://www.first-nature.com/fungi/tricholoma-focale.php",
+      "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+      "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+      "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/",
+      "https://mykospol.sk/wp-content/uploads/2023/02/Spravodajca_55_web.pdf"
+    ],
+    "ar": [
+      "https://www.mushroomexpert.com/tricholoma_focale.html",
+      "https://www.first-nature.com/fungi/tricholoma-focale.php",
+      "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+      "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+      "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/"
+    ],
+    "bg": [
+      "https://www.mushroomexpert.com/tricholoma_focale.html",
+      "https://www.first-nature.com/fungi/tricholoma-focale.php",
+      "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+      "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+      "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/",
+      "https://bg.wikipedia.org/wiki/Опасана_есенна_гъба"
+    ],
+    "cs": [
+      "https://www.mushroomexpert.com/tricholoma_focale.html",
+      "https://www.first-nature.com/fungi/tricholoma-focale.php",
+      "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+      "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+      "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/"
+    ],
+    "da": [
+      "https://www.mushroomexpert.com/tricholoma_focale.html",
+      "https://www.first-nature.com/fungi/tricholoma-focale.php",
+      "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+      "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+      "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/",
+      "https://roedliste.au.dk/data.asp?ID=2011&gruppeID=90"
+    ],
+    "de": [
+      "https://www.mushroomexpert.com/tricholoma_focale.html",
+      "https://www.first-nature.com/fungi/tricholoma-focale.php",
+      "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+      "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+      "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/",
+      "https://api.gbif.org/v1/species/119275202/vernacularNames"
+    ],
+    "es": [
+      "https://www.mushroomexpert.com/tricholoma_focale.html",
+      "https://www.first-nature.com/fungi/tricholoma-focale.php",
+      "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+      "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+      "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/"
+    ],
+    "et": [
+      "https://www.mushroomexpert.com/tricholoma_focale.html",
+      "https://www.first-nature.com/fungi/tricholoma-focale.php",
+      "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+      "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+      "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/"
+    ],
+    "fa": [
+      "https://www.mushroomexpert.com/tricholoma_focale.html",
+      "https://www.first-nature.com/fungi/tricholoma-focale.php",
+      "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+      "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+      "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/"
+    ],
+    "fi": [
+      "https://www.mushroomexpert.com/tricholoma_focale.html",
+      "https://www.first-nature.com/fungi/tricholoma-focale.php",
+      "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+      "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+      "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/",
+      "https://laji.fi/taxon/MX.73041"
+    ],
+    "fr": [
+      "https://www.mushroomexpert.com/tricholoma_focale.html",
+      "https://www.first-nature.com/fungi/tricholoma-focale.php",
+      "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+      "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+      "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/",
+      "https://uicn.fr/wp-content/uploads/2024/04/tableau-liste-rouge-champignons-bolets-lactaires-tricholomes-de-france-metropolitaine.pdf"
+    ],
+    "he": [
+      "https://www.mushroomexpert.com/tricholoma_focale.html",
+      "https://www.first-nature.com/fungi/tricholoma-focale.php",
+      "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+      "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+      "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/"
+    ],
+    "hi": [
+      "https://www.mushroomexpert.com/tricholoma_focale.html",
+      "https://www.first-nature.com/fungi/tricholoma-focale.php",
+      "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+      "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+      "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/"
+    ],
+    "hr": [
+      "https://www.mushroomexpert.com/tricholoma_focale.html",
+      "https://www.first-nature.com/fungi/tricholoma-focale.php",
+      "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+      "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+      "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/"
+    ],
+    "hu": [
+      "https://www.mushroomexpert.com/tricholoma_focale.html",
+      "https://www.first-nature.com/fungi/tricholoma-focale.php",
+      "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+      "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+      "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/",
+      "https://hu.wikipedia.org/wiki/Magyarország_bazídiumosgomba-fajainak_listája"
+    ],
+    "id": [
+      "https://www.mushroomexpert.com/tricholoma_focale.html",
+      "https://www.first-nature.com/fungi/tricholoma-focale.php",
+      "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+      "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+      "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/"
+    ],
+    "it": [
+      "https://www.mushroomexpert.com/tricholoma_focale.html",
+      "https://www.first-nature.com/fungi/tricholoma-focale.php",
+      "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+      "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+      "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/"
+    ],
+    "ja": [
+      "https://www.mushroomexpert.com/tricholoma_focale.html",
+      "https://www.first-nature.com/fungi/tricholoma-focale.php",
+      "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+      "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+      "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/"
+    ],
+    "ko": [
+      "https://www.mushroomexpert.com/tricholoma_focale.html",
+      "https://www.first-nature.com/fungi/tricholoma-focale.php",
+      "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+      "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+      "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/"
+    ],
+    "lt": [
+      "https://www.mushroomexpert.com/tricholoma_focale.html",
+      "https://www.first-nature.com/fungi/tricholoma-focale.php",
+      "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+      "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+      "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/",
+      "https://lt.wikipedia.org/wiki/Žieduotasis_baltikas"
+    ],
+    "lv": [
+      "https://www.mushroomexpert.com/tricholoma_focale.html",
+      "https://www.first-nature.com/fungi/tricholoma-focale.php",
+      "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+      "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+      "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/"
+    ],
+    "nl": [
+      "https://www.mushroomexpert.com/tricholoma_focale.html",
+      "https://www.first-nature.com/fungi/tricholoma-focale.php",
+      "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+      "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+      "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/",
+      "https://www.verspreidingsatlas.nl/0137130"
+    ],
+    "no": [
+      "https://www.mushroomexpert.com/tricholoma_focale.html",
+      "https://www.first-nature.com/fungi/tricholoma-focale.php",
+      "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+      "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+      "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/",
+      "https://api.gbif.org/v1/species/168070728/vernacularNames"
+    ],
+    "pl": [
+      "https://www.mushroomexpert.com/tricholoma_focale.html",
+      "https://www.first-nature.com/fungi/tricholoma-focale.php",
+      "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+      "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+      "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/",
+      "https://pl.wikipedia.org/wiki/Gąska_ognista"
+    ],
+    "pt": [
+      "https://www.mushroomexpert.com/tricholoma_focale.html",
+      "https://www.first-nature.com/fungi/tricholoma-focale.php",
+      "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+      "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+      "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/"
+    ],
+    "ro": [
+      "https://www.mushroomexpert.com/tricholoma_focale.html",
+      "https://www.first-nature.com/fungi/tricholoma-focale.php",
+      "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+      "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+      "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/"
+    ],
+    "ru": [
+      "https://www.mushroomexpert.com/tricholoma_focale.html",
+      "https://www.first-nature.com/fungi/tricholoma-focale.php",
+      "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+      "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+      "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/",
+      "https://ru.wikipedia.org/wiki/Рядовка_опёнковидная"
+    ],
+    "sl": [
+      "https://www.mushroomexpert.com/tricholoma_focale.html",
+      "https://www.first-nature.com/fungi/tricholoma-focale.php",
+      "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+      "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+      "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/",
+      "https://www.gobe.si/Gobe/TricholomaFocale"
+    ],
+    "sr": [
+      "https://www.mushroomexpert.com/tricholoma_focale.html",
+      "https://www.first-nature.com/fungi/tricholoma-focale.php",
+      "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+      "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+      "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/"
+    ],
+    "sv": [
+      "https://www.mushroomexpert.com/tricholoma_focale.html",
+      "https://www.first-nature.com/fungi/tricholoma-focale.php",
+      "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+      "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+      "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/",
+      "https://api.gbif.org/v1/species/160015747/vernacularNames"
+    ],
+    "tr": [
+      "https://www.mushroomexpert.com/tricholoma_focale.html",
+      "https://www.first-nature.com/fungi/tricholoma-focale.php",
+      "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+      "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+      "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/"
+    ],
+    "uk": [
+      "https://www.mushroomexpert.com/tricholoma_focale.html",
+      "https://www.first-nature.com/fungi/tricholoma-focale.php",
+      "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+      "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+      "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/",
+      "https://uk.wikipedia.org/wiki/Рядовка_опенькоподібна"
+    ],
+    "zh": [
+      "https://www.mushroomexpert.com/tricholoma_focale.html",
+      "https://www.first-nature.com/fungi/tricholoma-focale.php",
+      "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+      "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+      "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/"
+    ]
+  },
+  "text": {
+    "en": {
+      "description": "A robust ectomycorrhizal mushroom of conifer woodland, occurring in Europe, Asia and northern or montane North America. It forms partnerships with tree roots rather than decaying wood. Abundance varies greatly: it can be frequent in northern pine forests but is scarce in many other European regions.",
+      "cap": "The cap is 4–12 cm wide, rarely 15 cm, initially convex with an inrolled margin, later nearly flat. The surface is sticky when moist, then dry and radially fibrous to scaly; orange-brown to reddish brown, sometimes with olive tones, and often darker centrally. Older caps may crack.",
+      "hymenium": "The gills are whitish, later cream with rusty brown spots, notched or narrowly attached to the stipe, sometimes almost free. Short gills are interspersed. Basidia have four sterigmata; cheilocystidia and pleurocystidia are absent.",
+      "stipe": "The stipe is 4–10 cm long and 1–4 cm thick, solid, often tapering towards the base. A white cottony ring becomes brownish and may collapse. Above it the surface is smooth and whitish; below it orange-brown fibres and scales form a bootlike covering.",
+      "flesh": "The flesh is firm and whitish, not changing colour when cut. The smell is usually strongly mealy, sometimes cucumber-like; the taste can be unpleasant or bitter.",
+      "sporePrint": "The spore print is white. Spores are smooth, ellipsoid and inamyloid, 4.5–6.5 × 3.5–4.5 µm in European descriptions.",
+      "habitat": "On nutrient-poor sandy ground under pines, sometimes spruce or fir, alone or in groups. Fruiting mainly August–November in Europe, autumn into winter in warmer North American areas.",
+      "uses": "Not recommended for eating. Published assessments range from edible but poor to inedible or mildly poisonous, with digestive upsets reported. Boiling is not treated here as proof of safety.",
+      "confusion": "Tricholoma aurantium lacks a true cottony partial veil. Tricholoma matsutake usually has a grey-brown cap without the strong orange tones. Tricholoma colossus is larger, its cut flesh pinkens, and it lacks the mealy smell.",
+      "notes": "Dense mats of mycelium can give the surrounding soil a strong mealy smell.",
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/tricholoma_focale.html",
+        "https://www.first-nature.com/fungi/tricholoma-focale.php",
+        "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+        "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+        "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/"
+      ],
+      "label": "booted knight"
+    },
+    "sk": {
+      "description": "Robustná ektomykorízna huba ihličnatých lesov, rozšírená v Európe, Ázii a v severných alebo horských oblastiach Severnej Ameriky. Spolužije s koreňmi stromov, nerozkladá drevo. Jej hojnosť sa výrazne líši: v severných borovicových lesoch môže byť častá, kým v mnohých iných európskych oblastiach je vzácna.",
+      "cap": "Klobúk je široký 4–12 cm, zriedka 15 cm, spočiatku klenutý s podvinutým okrajom, neskôr takmer plochý. Povrch je za vlhka lepkavý, potom suchý, radiálne vláknitý až šupinkatý; oranžovohnedý až červenohnedý, niekedy s olivovými odtieňmi a často tmavším stredom. Staršie klobúky môžu praskať.",
+      "hymenium": "Lupene sú belavé, neskôr krémové s hrdzavohnedými škvrnami, pri hlúbiku vykrojené alebo úzko pripojené, niekedy takmer voľné. Striedajú sa s kratšími lupeňmi. Bazídiá majú štyri sterigmy; cheilocystidy a pleurocystidy chýbajú.",
+      "stipe": "Hlúbik je dlhý 4–10 cm a hrubý 1–4 cm, plný, často sa smerom k báze zužuje. Biely vatovitý prsteň hnedne a môže ovisnúť. Nad ním je povrch hladký a belavý, pod ním oranžovohnedé vlákna a šupiny vytvárajú obal pripomínajúci čižmu.",
+      "flesh": "Dužina je pevná a belavá, na reze nemení farbu. Vôňa býva silno múčna, niekedy pripomína uhorku; chuť môže byť nepríjemná alebo horká.",
+      "sporePrint": "Výtrusný prach je biely. Výtrusy sú hladké, elipsoidné a neamyloidné, v európskych opisoch merajú 4,5–6,5 × 3,5–4,5 µm.",
+      "habitat": "Rastie jednotlivo alebo v skupinách na chudobnej piesočnatej pôde pod borovicami, niekedy pod smrekmi či jedľami. V Európe tvorí plodnice najmä od augusta do novembra, v teplejších oblastiach Severnej Ameriky od jesene do zimy.",
+      "uses": "Na konzumáciu sa neodporúča. Publikované hodnotenia siahajú od jedlej, ale málo hodnotnej huby po nejedlú či mierne jedovatú; uvádzajú sa tráviace ťažkosti. Prevarenie sa tu nepovažuje za dôkaz bezpečnosti.",
+      "confusion": "Tricholoma aurantium nemá pravý vatovitý čiastočný závoj. Tricholoma matsutake má zvyčajne sivohnedý klobúk bez výrazných oranžových odtieňov. Tricholoma colossus je väčšia, jej dužina na reze ružovie a nemá múčnu vôňu.",
+      "notes": "Husté vrstvy podhubia môžu okolitej pôde dodávať silnú múčnu vôňu.",
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/tricholoma_focale.html",
+        "https://www.first-nature.com/fungi/tricholoma-focale.php",
+        "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+        "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+        "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/",
+        "https://mykospol.sk/wp-content/uploads/2023/02/Spravodajca_55_web.pdf"
+      ],
+      "label": "čírovka prsteňová"
+    },
+    "ar": {
+      "description": "فطر قوي البنية مكوّن للميكورايزا الخارجية في الغابات الصنوبرية، يوجد في أوروبا وآسيا والمناطق الشمالية أو الجبلية من أمريكا الشمالية. يتشارك مع جذور الأشجار بدلًا من تحليل الخشب. تتفاوت وفرته كثيرًا؛ فقد يشيع في غابات الصنوبر الشمالية، لكنه نادر في مناطق أوروبية أخرى كثيرة.",
+      "cap": "يبلغ عرض القبعة ٤–١٢ سم، ونادرًا ١٥ سم؛ تكون محدبة أولًا بحافة ملتفة إلى الداخل، ثم تكاد تنبسط. سطحها لزج عند الرطوبة، ثم جاف ذو ألياف شعاعية إلى حراشف؛ بني برتقالي إلى بني محمر، وأحيانًا بدرجات زيتونية، وغالبًا أغمق في الوسط. قد تتشقق القبعات القديمة.",
+      "hymenium": "الصفائح مبيضة، ثم كريمية ذات بقع بنية صدئية، مثلومة أو ضيقة الاتصال بالساق، وأحيانًا شبه حرة. تتخللها صفائح قصيرة. تحمل البازيديات أربع ذنيبات؛ وتغيب السيستيدات الحافية والوجهية.",
+      "stipe": "يبلغ طول الساق ٤–١٠ سم وسمكها ١–٤ سم، وهي مصمتة وغالبًا تضيق نحو القاعدة. تصبح الحلقة البيضاء القطنية بنية وقد تنهار. فوقها يكون السطح أملس مبيضًا؛ وتحتها تكوّن ألياف وحراشف بنية برتقالية غطاءً يشبه الحذاء الطويل.",
+      "flesh": "اللحم متماسك ومبيض، ولا يتغير لونه عند القطع. رائحته عادة قوية دقيقية، وأحيانًا تشبه الخيار؛ وقد يكون طعمه غير مستساغ أو مرًا.",
+      "sporePrint": "طبعة الأبواغ بيضاء. الأبواغ ملساء وإهليلجية وغير أميلويدية، وقياسها في الأوصاف الأوروبية ٤٫٥–٦٫٥ × ٣٫٥–٤٫٥ ميكرومتر.",
+      "habitat": "ينمو منفردًا أو في مجموعات على تربة رملية فقيرة بالمغذيات تحت الصنوبر، وأحيانًا التنوب أو الشوح. يثمر أساسًا من أغسطس إلى نوفمبر في أوروبا، ومن الخريف إلى الشتاء في المناطق الأدفأ من أمريكا الشمالية.",
+      "uses": "لا يُنصح بأكله. تتراوح التقييمات المنشورة بين صالح للأكل لكنه رديء، وغير صالح للأكل أو سام قليلًا، مع تقارير عن اضطرابات هضمية. لا يُعد الغلي هنا دليلًا على الأمان.",
+      "confusion": "يفتقر Tricholoma aurantium إلى حجاب جزئي قطني حقيقي. تكون قبعة Tricholoma matsutake عادة بنية رمادية دون الدرجات البرتقالية القوية. أما Tricholoma colossus فأكبر حجمًا، ويحمر لحمه ورديًا عند القطع، ويفتقر إلى الرائحة الدقيقية.",
+      "notes": "قد تكسب حصائر الغزل الفطري الكثيفة التربة المحيطة رائحة دقيقية قوية.",
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/tricholoma_focale.html",
+        "https://www.first-nature.com/fungi/tricholoma-focale.php",
+        "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+        "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+        "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/"
+      ]
+    },
+    "bg": {
+      "description": "Едра ектомикоризна гъба на иглолистните гори, срещаща се в Европа, Азия и северните или планинските части на Северна Америка. Тя съжителства с корените на дърветата, вместо да разгражда дървесина. Честотата ѝ варира силно: може да е обичайна в северни борови гори, но е рядка в много други европейски райони.",
+      "cap": "Шапката е широка 4–12 cm, рядко 15 cm, първоначално изпъкнала с подвити краища, по-късно почти плоска. Повърхността е лепкава във влажно време, после суха и радиално влакнеста до люспеста; оранжевокафява до червеникавокафява, понякога с маслинени оттенъци и често по-тъмна в центъра. Старите шапки могат да се напукат.",
+      "hymenium": "Ламелите са белезникави, по-късно кремави с ръждивокафяви петна, изрязани или тясно прикрепени към пънчето, понякога почти свободни. Между тях има по-къси ламели. Базидиите имат четири стеригми; хейлоцистиди и плевроцистиди липсват.",
+      "stipe": "Пънчето е дълго 4–10 cm и дебело 1–4 cm, плътно, често стесняващо се към основата. Белият памуковиден пръстен покафенява и може да слегне. Над него повърхността е гладка и белезникава; отдолу оранжевокафяви влакна и люспи образуват обвивка като ботуш.",
+      "flesh": "Месото е твърдо и белезникаво, без промяна на цвета при разрязване. Миризмата обикновено е силно брашнена, понякога на краставица; вкусът може да е неприятен или горчив.",
+      "sporePrint": "Споровият прашец е бял. Спорите са гладки, елипсоидни и неамилоидни, 4,5–6,5 × 3,5–4,5 µm в европейските описания.",
+      "habitat": "Върху бедна песъчлива почва под борове, понякога смърчове или ели, единично или на групи. Плододава главно от август до ноември в Европа, от есента до зимата в по-топлите части на Северна Америка.",
+      "uses": "Не се препоръчва за консумация. Публикуваните оценки варират от ядлива, но малоценна до неядлива или слабо отровна, като се съобщават храносмилателни разстройства. Варенето тук не се приема за доказателство за безопасност.",
+      "confusion": "Tricholoma aurantium няма истинско памуковидно частично покривало. Tricholoma matsutake обикновено има сивокафява шапка без силни оранжеви тонове. Tricholoma colossus е по-едра, месото ѝ порозовява при разрязване и няма брашнена миризма.",
+      "notes": "Плътни пластове мицел могат да придадат силна брашнена миризма на околната почва.",
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/tricholoma_focale.html",
+        "https://www.first-nature.com/fungi/tricholoma-focale.php",
+        "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+        "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+        "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/",
+        "https://bg.wikipedia.org/wiki/Опасана_есенна_гъба"
+      ],
+      "label": "опасана есенна гъба"
+    },
+    "cs": {
+      "description": "Robustní ektomykorhizní houba jehličnatých lesů, rozšířená v Evropě, Asii a v severních či horských oblastech Severní Ameriky. Žije v soužití s kořeny stromů, nerozkládá dřevo. Její hojnost se výrazně liší: v severních borových lesích může být častá, ale v mnoha jiných evropských oblastech je vzácná.",
+      "cap": "Klobouk je široký 4–12 cm, vzácně 15 cm, zprvu vyklenutý s podvinutým okrajem, později téměř plochý. Povrch je za vlhka lepkavý, poté suchý, radiálně vláknitý až šupinkatý; oranžovohnědý až červenohnědý, někdy s olivovými odstíny a často tmavším středem. Starší klobouky mohou praskat.",
+      "hymenium": "Lupeny jsou bělavé, později krémové s rezavohnědými skvrnami, u třeně vykrojené nebo úzce připojené, někdy téměř volné. Střídají se s lupénky. Bazidie mají čtyři sterigmata; cheilocystidy a pleurocystidy chybějí.",
+      "stipe": "Třeň je dlouhý 4–10 cm a tlustý 1–4 cm, plný, často se k bázi zužuje. Bílý vatovitý prsten hnědne a může splihnout. Nad ním je povrch hladký a bělavý; pod ním tvoří oranžovohnědá vlákna a šupiny obal připomínající vysokou botu.",
+      "flesh": "Dužnina je pevná a bělavá, na řezu nemění barvu. Vůně bývá silně moučná, někdy okurková; chuť může být nepříjemná nebo hořká.",
+      "sporePrint": "Výtrusný prach je bílý. Výtrusy jsou hladké, elipsoidní a neamyloidní, v evropských popisech měří 4,5–6,5 × 3,5–4,5 µm.",
+      "habitat": "Roste jednotlivě nebo ve skupinách na chudé písčité půdě pod borovicemi, někdy pod smrky či jedlemi. V Evropě plodí hlavně od srpna do listopadu, v teplejších oblastech Severní Ameriky od podzimu do zimy.",
+      "uses": "Ke konzumaci se nedoporučuje. Publikovaná hodnocení sahají od jedlé, ale málo hodnotné houby po nejedlou či mírně jedovatou; uvádějí se zažívací potíže. Povaření se zde nepokládá za důkaz bezpečnosti.",
+      "confusion": "Tricholoma aurantium nemá pravý vatovitý částečný závoj. Tricholoma matsutake má obvykle šedohnědý klobouk bez výrazných oranžových odstínů. Tricholoma colossus je větší, její dužnina na řezu růžoví a nemá moučnou vůni.",
+      "notes": "Husté vrstvy podhoubí mohou okolní půdě dodávat silnou moučnou vůni.",
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/tricholoma_focale.html",
+        "https://www.first-nature.com/fungi/tricholoma-focale.php",
+        "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+        "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+        "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/"
+      ],
+      "label": "čirůvka límcová"
+    },
+    "da": {
+      "description": "En kraftig ektomykorrhizadannende svamp i nåleskove, udbredt i Europa, Asien og det nordlige eller bjergrige Nordamerika. Den lever sammen med træernes rødder i stedet for at nedbryde ved. Hyppigheden varierer stærkt: Den kan være almindelig i nordlige fyrreskove, men er sjælden i mange andre europæiske egne.",
+      "cap": "Hatten er 4–12 cm bred, sjældent 15 cm, først hvælvet med indrullet rand, senere næsten flad. Overfladen er klæbrig i fugtigt vejr, derefter tør og radiært fibret til skællet; orangebrun til rødbrun, undertiden med olivengrønne toner og ofte mørkere midte. Gamle hatte kan sprække.",
+      "hymenium": "Lamellerne er hvidlige, senere cremefarvede med rustbrune pletter, udrandede eller smalt tilhæftede til stokken, undertiden næsten frie. Korte lameller er indskudt. Basidierne har fire sterigmer; cheilocystider og pleurocystider mangler.",
+      "stipe": "Stokken er 4–10 cm lang og 1–4 cm tyk, massiv og ofte tilspidset mod basis. En hvid, vatagtig ring bliver brunlig og kan falde sammen. Ovenfor er overfladen glat og hvidlig; nedenfor danner orangebrune fibre og skæl en støvleagtig beklædning.",
+      "flesh": "Kødet er fast og hvidligt uden farveændring ved gennemskæring. Lugten er oftest stærkt melagtig, undertiden agurkeagtig; smagen kan være ubehagelig eller bitter.",
+      "sporePrint": "Sporestøvet er hvidt. Sporerne er glatte, ellipsoidiske og inamyloide, 4,5–6,5 × 3,5–4,5 µm i europæiske beskrivelser.",
+      "habitat": "På næringsfattig sandjord under fyr, undertiden gran eller ædelgran, enkeltvis eller i grupper. Frugtlegemer ses især august–november i Europa, fra efterår til vinter i varmere nordamerikanske områder.",
+      "uses": "Anbefales ikke til spisning. Publicerede vurderinger spænder fra spiselig, men ringe, til uspiselig eller svagt giftig, og fordøjelsesbesvær er rapporteret. Kogning betragtes ikke her som bevis på sikkerhed.",
+      "confusion": "Tricholoma aurantium mangler et ægte vatagtigt delsvøb. Tricholoma matsutake har oftest en gråbrun hat uden kraftige orange toner. Tricholoma colossus er større, kødet bliver rosa ved gennemskæring, og mellugten mangler.",
+      "notes": "Tætte myceliemåtter kan give den omgivende jord en kraftig mellugt.",
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/tricholoma_focale.html",
+        "https://www.first-nature.com/fungi/tricholoma-focale.php",
+        "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+        "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+        "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/",
+        "https://roedliste.au.dk/data.asp?ID=2011&gruppeID=90"
+      ],
+      "label": "halsbånd-ridderhat"
+    },
+    "de": {
+      "description": "Ein kräftiger Ektomykorrhizapilz der Nadelwälder, der in Europa, Asien sowie im nördlichen oder gebirgigen Nordamerika vorkommt. Er lebt mit Baumwurzeln zusammen, statt Holz abzubauen. Seine Häufigkeit schwankt stark: In nördlichen Kiefernwäldern kann er häufig sein, in vielen anderen europäischen Regionen ist er selten.",
+      "cap": "Der Hut ist 4–12 cm breit, selten 15 cm, zunächst gewölbt mit eingerolltem Rand, später fast flach. Die Oberfläche ist bei Feuchtigkeit klebrig, dann trocken und radialfaserig bis schuppig; orangebraun bis rotbraun, manchmal mit Olivtönen und oft dunklerer Mitte. Ältere Hüte können aufreißen.",
+      "hymenium": "Die Lamellen sind weißlich, später cremefarben mit rostbraunen Flecken, ausgebuchtet oder schmal am Stiel angewachsen, manchmal fast frei. Kürzere Lamellen sind eingemischt. Die Basidien tragen vier Sterigmen; Cheilo- und Pleurozystiden fehlen.",
+      "stipe": "Der Stiel ist 4–10 cm lang und 1–4 cm dick, voll und zur Basis oft verjüngt. Ein weißer, wattiger Ring wird bräunlich und kann zusammenfallen. Darüber ist die Oberfläche glatt und weißlich; darunter bilden orangebraune Fasern und Schuppen eine stiefelartige Bekleidung.",
+      "flesh": "Das Fleisch ist fest und weißlich, im Anschnitt unveränderlich. Der Geruch ist meist stark mehlig, manchmal gurkenartig; der Geschmack kann unangenehm oder bitter sein.",
+      "sporePrint": "Das Sporenpulver ist weiß. Die Sporen sind glatt, ellipsoid und inamyloid; europäische Beschreibungen nennen 4,5–6,5 × 3,5–4,5 µm.",
+      "habitat": "Einzeln oder gesellig auf nährstoffarmem Sandboden unter Kiefern, gelegentlich Fichten oder Tannen. Fruchtkörper erscheinen in Europa vor allem von August bis November, in wärmeren nordamerikanischen Gebieten vom Herbst bis in den Winter.",
+      "uses": "Zum Verzehr nicht empfohlen. Veröffentlichte Bewertungen reichen von essbar, aber minderwertig bis ungenießbar oder schwach giftig; Verdauungsbeschwerden werden berichtet. Abkochen gilt hier nicht als Nachweis der Unbedenklichkeit.",
+      "confusion": "Tricholoma aurantium fehlt ein echtes wattiges Teilvelum. Tricholoma matsutake hat meist einen graubraunen Hut ohne kräftige Orangetöne. Tricholoma colossus ist größer, sein Fleisch rötet sich rosa im Anschnitt und riecht nicht mehlig.",
+      "notes": "Dichte Myzelmatten können dem umgebenden Boden einen starken Mehlgeruch verleihen.",
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/tricholoma_focale.html",
+        "https://www.first-nature.com/fungi/tricholoma-focale.php",
+        "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+        "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+        "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/",
+        "https://api.gbif.org/v1/species/119275202/vernacularNames"
+      ],
+      "label": "Halsband-Ritterling"
+    },
+    "es": {
+      "description": "Un hongo ectomicorrícico robusto de los bosques de coníferas, presente en Europa, Asia y las regiones septentrionales o montañosas de Norteamérica. Se asocia con las raíces de los árboles en lugar de descomponer madera. Su abundancia varía mucho: puede ser frecuente en pinares del norte, pero escasea en muchas otras regiones europeas.",
+      "cap": "El sombrero mide 4–12 cm de anchura, raramente 15 cm, al principio convexo y con el margen enrollado, después casi plano. La superficie es pegajosa en húmedo, luego seca y radialmente fibrillosa a escamosa; pardo anaranjada a pardo rojiza, a veces con tonos oliváceos y a menudo más oscura en el centro. Los sombreros viejos pueden agrietarse.",
+      "hymenium": "Las láminas son blanquecinas, después crema con manchas pardo herrumbrosas, escotadas o estrechamente unidas al pie, a veces casi libres. Se intercalan laminillas. Los basidios tienen cuatro esterigmas; faltan queilocistidios y pleurocistidios.",
+      "stipe": "El pie mide 4–10 cm de longitud y 1–4 cm de grosor, es macizo y suele estrecharse hacia la base. Un anillo blanco algodonoso se vuelve parduzco y puede desplomarse. Por encima es liso y blanquecino; por debajo, fibras y escamas pardo anaranjadas forman una cobertura semejante a una bota.",
+      "flesh": "La carne es firme y blanquecina, inmutable al corte. El olor suele ser intensamente harinoso, a veces a pepino; el sabor puede ser desagradable o amargo.",
+      "sporePrint": "La esporada es blanca. Las esporas son lisas, elipsoidales e inamiloides, de 4,5–6,5 × 3,5–4,5 µm en las descripciones europeas.",
+      "habitat": "En suelo arenoso pobre bajo pinos, a veces píceas o abetos, aislado o en grupos. Fructifica principalmente de agosto a noviembre en Europa y del otoño al invierno en las zonas más cálidas de Norteamérica.",
+      "uses": "No se recomienda su consumo. Las valoraciones publicadas van de comestible mediocre a no comestible o ligeramente tóxico, con trastornos digestivos descritos. Hervirlo no se considera aquí una prueba de seguridad.",
+      "confusion": "Tricholoma aurantium carece de un verdadero velo parcial algodonoso. Tricholoma matsutake suele tener un sombrero gris parduzco sin tonos anaranjados intensos. Tricholoma colossus es mayor, su carne se vuelve rosada al corte y carece del olor harinoso.",
+      "notes": "Las densas mantas de micelio pueden dar al suelo circundante un fuerte olor harinoso.",
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/tricholoma_focale.html",
+        "https://www.first-nature.com/fungi/tricholoma-focale.php",
+        "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+        "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+        "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/"
+      ]
+    },
+    "et": {
+      "description": "Tugev okasmetsade ektomükoriisat moodustav seen, mis esineb Euroopas, Aasias ning Põhja-Ameerika põhja- ja mägipiirkondades. Ta elab sümbioosis puujuurtega ega lagunda puitu. Arvukus erineb suuresti: põhjapoolsetes männikutes võib ta olla sage, paljudes muudes Euroopa piirkondades aga haruldane.",
+      "cap": "Kübar on 4–12 cm lai, harva 15 cm, algul kumer ja sissekeerdunud servaga, hiljem peaaegu lame. Pind on niiskena kleepuv, seejärel kuiv ning radiaalkiuline kuni soomuseline; oranžikaspruun kuni punakaspruun, vahel oliivitoonidega ja sageli tumedama keskosaga. Vanad kübarad võivad lõheneda.",
+      "hymenium": "Eoslehekesed on valkjad, hiljem kreemikad ja roostepruunide laikudega, sälguga või kitsalt jalale kinnitunud, vahel peaaegu vabad. Vahel on lühemaid eoslehekesi. Basiididel on neli sterigmat; keilo- ja pleurotsüstiidid puuduvad.",
+      "stipe": "Jalg on 4–10 cm pikk ja 1–4 cm jäme, täis ning sageli aluse poole ahenev. Valge vatjas rõngas pruunistub ja võib kokku vajuda. Sellest ülal on pind sile ja valkjas, allpool moodustavad oranžikaspruunid kiud ja soomused saapataolise katte.",
+      "flesh": "Seeneliha on tihke ja valkjas ega muuda lõikel värvi. Lõhn on enamasti tugevasti jahune, vahel kurgitaoline; maitse võib olla ebameeldiv või mõru.",
+      "sporePrint": "Eospulber on valge. Eosed on siledad, ellipsoidsed ja inamüloidsed, Euroopa kirjeldustes 4,5–6,5 × 3,5–4,5 µm.",
+      "habitat": "Kasvab üksikult või rühmadena toitainetevaesel liivasel pinnasel mändide, vahel kuuskede või nulgude all. Viljakehad ilmuvad Euroopas peamiselt augustist novembrini, Põhja-Ameerika soojematel aladel sügisest talveni.",
+      "uses": "Söömiseks ei soovitata. Avaldatud hinnangud ulatuvad söödavast, kuid väheväärtuslikust mittesöödava või nõrgalt mürgiseni; on teatatud seedehäiretest. Kupatamist ei käsitleta siin ohutuse tõendina.",
+      "confusion": "Tricholoma aurantium ei moodusta tõelist vatjat osaloori. Tricholoma matsutake kübar on tavaliselt hallikaspruun, tugevate oranžide toonideta. Tricholoma colossus on suurem, tema liha muutub lõikel roosaks ning jahulõhn puudub.",
+      "notes": "Tihedad seeneniidistikumatid võivad anda ümbritsevale pinnasele tugeva jahulõhna.",
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/tricholoma_focale.html",
+        "https://www.first-nature.com/fungi/tricholoma-focale.php",
+        "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+        "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+        "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/"
+      ]
+    },
+    "fa": {
+      "description": "قارچی تنومند و اکتومیکوریزا در جنگل‌های سوزنی‌برگ است که در اروپا، آسیا و نواحی شمالی یا کوهستانی آمریکای شمالی دیده می‌شود. به‌جای تجزیهٔ چوب، با ریشهٔ درختان همزیستی دارد. فراوانی آن بسیار متغیر است؛ در جنگل‌های کاج شمالی می‌تواند رایج باشد، اما در بسیاری از دیگر مناطق اروپا کمیاب است.",
+      "cap": "کلاهک ۴–۱۲ سانتی‌متر پهنا دارد، به‌ندرت ۱۵ سانتی‌متر؛ ابتدا محدب و لبهٔ آن به داخل پیچیده است و سپس تقریباً تخت می‌شود. سطح آن در رطوبت چسبناک، سپس خشک و دارای رشته‌های شعاعی تا فلس است؛ قهوه‌ای‌نارنجی تا قهوه‌ای‌سرخ، گاه با ته‌رنگ زیتونی و اغلب در مرکز تیره‌تر. کلاهک‌های پیر ممکن است ترک بخورند.",
+      "hymenium": "تیغه‌ها سفیدفام، سپس کرم با لکه‌های قهوه‌ای زنگاری هستند؛ با فرورفتگی یا اتصالی باریک به پایه می‌پیوندند و گاهی تقریباً آزادند. تیغه‌های کوتاه نیز میان آن‌ها قرار دارند. بازیدیوم‌ها چهار استریگما دارند؛ کیلوسیستیدیوم و پلوروسیستیدیوم وجود ندارد.",
+      "stipe": "پایه ۴–۱۰ سانتی‌متر طول و ۱–۴ سانتی‌متر ضخامت دارد، توپر است و اغلب به‌سوی قاعده باریک می‌شود. حلقهٔ سفید پنبه‌مانند قهوه‌ای می‌شود و ممکن است فروریزد. بالای آن سطح صاف و سفیدفام است؛ پایین آن رشته‌ها و فلس‌های قهوه‌ای‌نارنجی پوششی چکمه‌مانند می‌سازند.",
+      "flesh": "گوشت سفت و سفیدفام است و با برش تغییر رنگ نمی‌دهد. بو معمولاً شدیداً آردی و گاهی شبیه خیار است؛ مزه می‌تواند ناخوشایند یا تلخ باشد.",
+      "sporePrint": "نقش هاگ سفید است. هاگ‌ها صاف، بیضوی و غیرآمیلوئیدی‌اند و در توصیف‌های اروپایی ۴٫۵–۶٫۵ × ۳٫۵–۴٫۵ میکرومتر اندازه دارند.",
+      "habitat": "روی خاک شنی کم‌مواد، زیر کاج و گاهی نوئل یا نراد، تکی یا گروهی می‌روید. باردهی در اروپا بیشتر از اوت تا نوامبر و در نواحی گرم‌تر آمریکای شمالی از پاییز تا زمستان است.",
+      "uses": "خوردن آن توصیه نمی‌شود. ارزیابی‌های منتشرشده از خوراکی اما کم‌کیفیت تا غیرخوراکی یا اندکی سمی متفاوت‌اند و ناراحتی‌های گوارشی گزارش شده است. جوشاندن در اینجا مدرک بی‌خطر بودن به شمار نمی‌رود.",
+      "confusion": "Tricholoma aurantium پردهٔ جزئی پنبه‌مانند واقعی ندارد. کلاهک Tricholoma matsutake معمولاً خاکستری‌قهوه‌ای است و ته‌رنگ نارنجی قوی ندارد. Tricholoma colossus بزرگ‌تر است، گوشتش با برش صورتی می‌شود و بوی آردی ندارد.",
+      "notes": "لایه‌های متراکم میسلیوم می‌توانند به خاک پیرامون بوی آردی شدیدی بدهند.",
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/tricholoma_focale.html",
+        "https://www.first-nature.com/fungi/tricholoma-focale.php",
+        "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+        "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+        "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/"
+      ]
+    },
+    "fi": {
+      "description": "Tukeva havumetsien ektomykorritsasieni, jota esiintyy Euroopassa, Aasiassa sekä Pohjois-Amerikan pohjoisilla ja vuoristoisilla alueilla. Se elää puiden juurten kanssa symbioosissa eikä lahota puuta. Runsaus vaihtelee paljon: pohjoisissa männiköissä se voi olla yleinen, mutta monilla muilla Euroopan alueilla se on harvinainen.",
+      "cap": "Lakki on 4–12 cm leveä, harvoin 15 cm, aluksi kupera ja sisäänkiertyneäreunainen, myöhemmin lähes laakea. Pinta on kosteana tahmea, sitten kuiva ja säteittäissäikeinen tai suomuinen; oranssinruskea tai punaruskea, joskus oliivinsävyinen ja usein keskeltä tummempi. Vanhat lakit voivat halkeilla.",
+      "hymenium": "Heltat ovat vaaleat, myöhemmin kermanväriset ja ruosteenruskeatäpläiset, kolotyviset tai kapealti jalkaan kiinnittyneet, joskus lähes irtotyviset. Välihelttoja on mukana. Basidioissa on neljä sterigmaa; cheilo- ja pleurokystidejä ei ole.",
+      "stipe": "Jalka on 4–10 cm pitkä ja 1–4 cm paksu, täyteinen ja usein tyveen suippeneva. Valkoinen pumpulimainen rengas ruskettuu ja voi painua kasaan. Sen yläpuolella pinta on sileä ja vaalea, alapuolella oranssinruskeat säikeet ja suomut muodostavat saapasmaisen peitteen.",
+      "flesh": "Malto on kiinteää ja vaaleaa eikä muuta väriä leikattaessa. Haju on yleensä voimakkaan jauhomainen, joskus kurkkumainen; maku voi olla epämiellyttävä tai karvas.",
+      "sporePrint": "Itiöpöly on valkoista. Itiöt ovat sileitä, ellipsoidisia ja inamyloideja, eurooppalaisissa kuvauksissa 4,5–6,5 × 3,5–4,5 µm.",
+      "habitat": "Kasvaa yksittäin tai ryhmissä vähäravinteisella hiekkamaalla mäntyjen, joskus kuusten tai pihtojen alla. Itiöemiä muodostuu Euroopassa pääasiassa elo–marraskuussa, Pohjois-Amerikan lämpimämmillä alueilla syksystä talveen.",
+      "uses": "Ei suositella syötäväksi. Julkaistut arviot vaihtelevat syötävästä mutta huonolaatuisesta syötäväksi kelpaamattomaan tai lievästi myrkylliseen, ja ruoansulatusoireita on raportoitu. Keittämistä ei tässä pidetä turvallisuuden takeena.",
+      "confusion": "Tricholoma aurantium ei muodosta aitoa pumpulimaista osasuojusta. Tricholoma matsutake on tavallisesti harmaanruskealakkinen ilman voimakkaita oranssin sävyjä. Tricholoma colossus on suurempi, sen malto punertuu leikatessa ja jauhohaju puuttuu.",
+      "notes": "Tiheät rihmastomatot voivat antaa ympäröivälle maalle voimakkaan jauhomaisen hajun.",
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/tricholoma_focale.html",
+        "https://www.first-nature.com/fungi/tricholoma-focale.php",
+        "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+        "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+        "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/",
+        "https://laji.fi/taxon/MX.73041"
+      ],
+      "label": "kaulusvalmuska"
+    },
+    "fr": {
+      "description": "Un champignon ectomycorhizien robuste des bois de conifères, présent en Europe, en Asie et dans les régions septentrionales ou montagneuses d’Amérique du Nord. Il s’associe aux racines des arbres plutôt que de décomposer le bois. Son abondance varie fortement : fréquent dans certaines pinèdes nordiques, il est rare dans beaucoup d’autres régions européennes.",
+      "cap": "Le chapeau mesure 4–12 cm de large, rarement 15 cm, d’abord convexe à marge enroulée, puis presque plat. Sa surface, collante à l’humidité puis sèche, est radialement fibrilleuse à squamuleuse, brun orangé à brun rougeâtre, parfois olivâtre et souvent plus sombre au centre. Les vieux chapeaux peuvent se crevasser.",
+      "hymenium": "Les lames sont blanchâtres, puis crème tachées de brun rouille, échancrées ou étroitement attachées au pied, parfois presque libres. Des lamellules s’intercalent. Les basides portent quatre stérigmates ; les cheilocystides et pleurocystides sont absentes.",
+      "stipe": "Le pied mesure 4–10 cm de long et 1–4 cm d’épaisseur, est plein et souvent atténué à la base. Un anneau cotonneux blanc brunit et peut s’affaisser. Au-dessus, la surface est lisse et blanchâtre ; au-dessous, des fibres et écailles brun orangé forment une gaine évoquant une botte.",
+      "flesh": "La chair est ferme et blanchâtre, immuable à la coupe. L’odeur est généralement fortement farineuse, parfois évoquant le concombre ; la saveur peut être désagréable ou amère.",
+      "sporePrint": "La sporée est blanche. Les spores sont lisses, ellipsoïdes et non amyloïdes, mesurant 4,5–6,5 × 3,5–4,5 µm dans les descriptions européennes.",
+      "habitat": "Sur sol sableux pauvre, sous les pins, parfois les épicéas ou les sapins, isolément ou en groupes. Fructifie surtout d’août à novembre en Europe, de l’automne à l’hiver dans les régions plus chaudes d’Amérique du Nord.",
+      "uses": "Consommation déconseillée. Les appréciations publiées vont de comestible médiocre à non comestible ou légèrement toxique, avec des troubles digestifs signalés. L’ébullition n’est pas considérée ici comme une preuve d’innocuité.",
+      "confusion": "Tricholoma aurantium n’a pas de véritable voile partiel cotonneux. Tricholoma matsutake a généralement un chapeau gris-brun sans tons orangés prononcés. Tricholoma colossus est plus grand, sa chair rosit à la coupe et n’a pas d’odeur farineuse.",
+      "notes": "Des nappes denses de mycélium peuvent donner au sol environnant une forte odeur de farine.",
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/tricholoma_focale.html",
+        "https://www.first-nature.com/fungi/tricholoma-focale.php",
+        "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+        "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+        "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/",
+        "https://uicn.fr/wp-content/uploads/2024/04/tableau-liste-rouge-champignons-bolets-lactaires-tricholomes-de-france-metropolitaine.pdf"
+      ],
+      "label": "tricholome cravaté"
+    },
+    "he": {
+      "description": "פטרייה חסונה היוצרת אקטומיקוריזה ביערות מחטניים, ומצויה באירופה, באסיה ובאזורים הצפוניים או ההרריים של אמריקה הצפונית. היא מקיימת שותפות עם שורשי עצים במקום לפרק עץ. שכיחותה משתנה מאוד: היא עשויה להיות נפוצה ביערות אורן צפוניים, אך נדירה באזורים רבים אחרים באירופה.",
+      "cap": "רוחב הכובע 4–12 ס״מ, לעיתים נדירות 15 ס״מ; בתחילה הוא קמור ושוליו גלולים פנימה, ובהמשך כמעט שטוח. פניו דביקים כשהם לחים, אחר כך יבשים ובעלי סיבים רדיאליים עד קשקשים; חומים־כתומים עד חומים־אדמדמים, לעיתים בגוני זית, ולרוב כהים יותר במרכז. כובעים זקנים עשויים להיסדק.",
+      "hymenium": "הדפים לבנבנים, ובהמשך בצבע קרם עם כתמים חומים־חלודיים, מפורצים או מחוברים לרגל בחיבור צר, ולעיתים כמעט חופשיים. ביניהם משולבים דפים קצרים. לבסידיות ארבע סטריגמות; ציסטידות בשולי הדפים ועל פניהם חסרות.",
+      "stipe": "אורך הרגל 4–10 ס״מ ועובייה 1–4 ס״מ; היא מלאה ולעיתים קרובות מצטמצמת לכיוון הבסיס. טבעת לבנה וכותנתית משחימה ועשויה להתמוטט. מעליה המשטח חלק ולבנבן; מתחתיה סיבים וקשקשים חומים־כתומים יוצרים כיסוי דמוי מגף.",
+      "flesh": "הבשר מוצק ולבנבן ואינו משנה צבע בחיתוך. הריח בדרך כלל קמחי חזק, ולעיתים דמוי מלפפון; הטעם עשוי להיות לא נעים או מר.",
+      "sporePrint": "הדפס הנבגים לבן. הנבגים חלקים, אליפסואידיים ואינם עמילואידיים, בגודל 4.5–6.5 × 3.5–4.5 מיקרומטר בתיאורים אירופיים.",
+      "habitat": "על קרקע חולית דלה בחומרי הזנה, מתחת לאורנים ולעיתים לאשוחים או לאשוחיות, ביחידות או בקבוצות. גופי הפרי מופיעים באירופה בעיקר מאוגוסט עד נובמבר, ובאזורים חמים יותר באמריקה הצפונית מהסתיו אל תוך החורף.",
+      "uses": "לא מומלצת לאכילה. הערכות שפורסמו נעות מאכילה אך באיכות נמוכה ועד לא ראויה למאכל או רעילה במקצת, עם דיווחים על הפרעות עיכול. הרתחה אינה נחשבת כאן להוכחה לבטיחות.",
+      "confusion": "ל־Tricholoma aurantium אין צעיף חלקי כותנתי אמיתי. ל־Tricholoma matsutake יש בדרך כלל כובע חום־אפור ללא גוונים כתומים חזקים. Tricholoma colossus גדולה יותר, בשרה מווריד בחיתוך ואין לה ריח קמחי.",
+      "notes": "מרבדים צפופים של תפטיר עשויים להקנות לקרקע שסביבם ריח קמחי חזק.",
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/tricholoma_focale.html",
+        "https://www.first-nature.com/fungi/tricholoma-focale.php",
+        "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+        "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+        "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/"
+      ]
+    },
+    "hi": {
+      "description": "शंकुधारी वनों का एक मजबूत एक्टोमाइकोराइज़ल कवक, जो यूरोप, एशिया और उत्तरी अमेरिका के उत्तरी या पर्वतीय क्षेत्रों में मिलता है। यह लकड़ी को विघटित करने के बजाय पेड़ों की जड़ों के साथ सहजीवन बनाता है। इसकी प्रचुरता बहुत बदलती है: उत्तरी चीड़ वनों में यह आम हो सकता है, लेकिन यूरोप के कई अन्य क्षेत्रों में दुर्लभ है।",
+      "cap": "टोपी 4–12 सेमी चौड़ी, विरले 15 सेमी होती है। शुरू में उत्तल और किनारा अंदर की ओर मुड़ा होता है, बाद में लगभग सपाट हो जाती है। सतह नम होने पर चिपचिपी, फिर सूखी और अरीय रेशेदार से शल्कदार होती है; नारंगी-भूरी से लाल-भूरी, कभी जैतूनी आभा वाली और प्रायः बीच में अधिक गहरी। पुरानी टोपियाँ फट सकती हैं।",
+      "hymenium": "गलफड़े सफेद-से, बाद में जंग-भूरे धब्बों वाले क्रीम रंग के होते हैं। वे डंठल से खाँचेदार या संकरे जुड़ाव वाले, कभी लगभग मुक्त होते हैं। बीच में छोटे गलफड़े होते हैं। बेसिडिया पर चार स्टेरिग्मा होते हैं; कीलोसिस्टिडिया और प्ल्यूरोसिस्टिडिया अनुपस्थित हैं।",
+      "stipe": "डंठल 4–10 सेमी लंबा और 1–4 सेमी मोटा, ठोस होता है और अक्सर आधार की ओर पतला होता है। सफेद रूई-जैसा छल्ला भूरा पड़ता है और ढह सकता है। उसके ऊपर सतह चिकनी और सफेद-सी होती है; नीचे नारंगी-भूरे रेशे और शल्क बूट-जैसा आवरण बनाते हैं।",
+      "flesh": "गूदा दृढ़ और सफेद-सा होता है, काटने पर रंग नहीं बदलता। गंध आम तौर पर तीखी आटे-जैसी, कभी खीरे-जैसी होती है; स्वाद अप्रिय या कड़वा हो सकता है।",
+      "sporePrint": "बीजाणु-छाप सफेद होती है। बीजाणु चिकने, दीर्घवृत्ताभ और इनएमिलॉइड होते हैं; यूरोपीय विवरणों में आकार 4.5–6.5 × 3.5–4.5 माइक्रोमीटर है।",
+      "habitat": "पोषक तत्वों से गरीब रेतीली मिट्टी में चीड़ के नीचे, कभी स्प्रूस या फ़र के नीचे, अकेले या समूहों में उगता है। यूरोप में मुख्यतः अगस्त–नवंबर और उत्तरी अमेरिका के अधिक गर्म क्षेत्रों में शरद ऋतु से सर्दियों तक फलन होता है।",
+      "uses": "खाने की सलाह नहीं दी जाती। प्रकाशित आकलन खाने योग्य लेकिन घटिया से लेकर अखाद्य या हल्के विषैले तक हैं; पाचन संबंधी परेशानियाँ भी दर्ज हैं। यहाँ उबालने को सुरक्षित होने का प्रमाण नहीं माना गया है।",
+      "confusion": "Tricholoma aurantium में असली रूई-जैसा आंशिक आवरण नहीं होता। Tricholoma matsutake की टोपी प्रायः धूसर-भूरी होती है, जिसमें गहरे नारंगी रंग नहीं होते। Tricholoma colossus बड़ा होता है, उसका गूदा काटने पर गुलाबी पड़ता है और उसमें आटे-जैसी गंध नहीं होती।",
+      "notes": "कवक-जाल की घनी चटाइयाँ आसपास की मिट्टी में तेज आटे-जैसी गंध पैदा कर सकती हैं।",
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/tricholoma_focale.html",
+        "https://www.first-nature.com/fungi/tricholoma-focale.php",
+        "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+        "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+        "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/"
+      ]
+    },
+    "hr": {
+      "description": "Robusna ektomikorizna gljiva crnogoričnih šuma, rasprostranjena u Europi, Aziji te sjevernim ili planinskim dijelovima Sjeverne Amerike. Živi u zajednici s korijenjem drveća, a ne razgrađuje drvo. Učestalost joj jako varira: u sjevernim borovim šumama može biti česta, ali je rijetka u mnogim drugim europskim područjima.",
+      "cap": "Klobuk je širok 4–12 cm, rijetko 15 cm, isprva ispupčen s podvijenim rubom, poslije gotovo ravan. Površina je ljepljiva po vlažnom vremenu, zatim suha i radijalno vlaknasta do ljuskava; narančastosmeđa do crvenosmeđa, ponekad maslinastih tonova i često tamnija u sredini. Stari klobuci mogu ispucati.",
+      "hymenium": "Listići su bjelkasti, kasnije kremasti s hrđavosmeđim pjegama, urezani ili usko prirasli uz stručak, ponekad gotovo slobodni. Između njih su kraći listići. Bazidiji imaju četiri sterigme; heilocistide i pleurocistide nedostaju.",
+      "stipe": "Stručak je dug 4–10 cm i debeo 1–4 cm, pun, često sužen prema bazi. Bijeli pamučasti prsten postaje smeđkast i može se slegnuti. Iznad njega površina je glatka i bjelkasta; ispod narančastosmeđa vlakna i ljuske tvore ovojnicu nalik čizmi.",
+      "flesh": "Meso je čvrsto i bjelkasto, na prerezu ne mijenja boju. Miris je obično snažno brašnast, ponekad nalik krastavcu; okus može biti neugodan ili gorak.",
+      "sporePrint": "Otrusina je bijela. Spore su glatke, elipsoidne i neamiloidne, u europskim opisima 4,5–6,5 × 3,5–4,5 µm.",
+      "habitat": "Na hranjivima siromašnom pjeskovitom tlu pod borovima, ponekad smrekama ili jelama, pojedinačno ili u skupinama. Plodi uglavnom od kolovoza do studenoga u Europi, od jeseni do zime u toplijim dijelovima Sjeverne Amerike.",
+      "uses": "Ne preporučuje se za jelo. Objavljene procjene sežu od jestive, ali slabe kvalitete do nejestive ili blago otrovne, uz zabilježene probavne smetnje. Prokuhavanje se ovdje ne smatra dokazom sigurnosti.",
+      "confusion": "Tricholoma aurantium nema pravi pamučasti djelomični ovoj. Tricholoma matsutake obično ima sivosmeđ klobuk bez izrazitih narančastih tonova. Tricholoma colossus veća je, meso joj na prerezu poružičasti i nema brašnast miris.",
+      "notes": "Guste prostirke micelija mogu okolnom tlu dati snažan brašnast miris.",
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/tricholoma_focale.html",
+        "https://www.first-nature.com/fungi/tricholoma-focale.php",
+        "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+        "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+        "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/"
+      ]
+    },
+    "hu": {
+      "description": "Robusztus, ektomikorrhizás gomba a fenyőerdőkben, Európában, Ázsiában, valamint Észak-Amerika északi és hegyvidéki területein fordul elő. A fák gyökereivel él együtt, nem faanyagot bont. Gyakorisága erősen változó: az északi erdeifenyvesekben gyakori lehet, Európa sok más vidékén azonban ritka.",
+      "cap": "A kalap 4–12 cm széles, ritkán 15 cm, kezdetben domború, begöngyölt szélű, később csaknem lapos. Felszíne nedvesen ragadós, majd száraz, sugarasan szálas vagy pikkelyes; narancsbarna vagy vörösbarna, olykor olívás árnyalatú, közepe gyakran sötétebb. Az idősebb kalapok berepedezhetnek.",
+      "hymenium": "A lemezek fehéresek, később krémszínűek rozsdabarna foltokkal, kikanyarodók vagy keskenyen a tönkhöz nőttek, olykor majdnem szabadok. Rövidebb köztes lemezek is vannak. A bazídiumok négy sterigmát viselnek; keilo- és pleurocisztídiumok hiányoznak.",
+      "stipe": "A tönk 4–10 cm hosszú és 1–4 cm vastag, tömör, töve felé gyakran elvékonyodik. Fehér, vattás gallérja megbarnul és összeeshet. Fölötte sima és fehéres, alatta narancsbarna szálak és pikkelyek csizmaszerű borítást képeznek.",
+      "flesh": "A hús kemény és fehéres, vágásra nem változik. Szaga többnyire erősen lisztes, néha uborkára emlékeztet; íze kellemetlen vagy keserű lehet.",
+      "sporePrint": "A spórapor fehér. A spórák simák, ellipszoidok és inamiloidok, az európai leírásokban 4,5–6,5 × 3,5–4,5 µm méretűek.",
+      "habitat": "Tápanyagszegény homoktalajon, erdeifenyők, néha luc- vagy jegenyefenyők alatt, magányosan vagy csoportosan nő. Európában főleg augusztustól novemberig terem, Észak-Amerika melegebb területein ősztől télig.",
+      "uses": "Fogyasztása nem ajánlott. A közölt értékelések az ehető, de értéktelentől a nem ehető vagy enyhén mérgezőig terjednek; emésztési panaszokról is beszámoltak. Az előfőzés itt nem tekinthető a biztonság bizonyítékának.",
+      "confusion": "A Tricholoma aurantium valódi vattás részleges burkot nem képez. A Tricholoma matsutake kalapja többnyire szürkésbarna, erős narancsos árnyalatok nélkül. A Tricholoma colossus nagyobb, húsa vágásra rózsaszínű lesz, és nincs lisztszaga.",
+      "notes": "A sűrű micéliumszőnyegek a környező talajnak is erős lisztszagot adhatnak.",
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/tricholoma_focale.html",
+        "https://www.first-nature.com/fungi/tricholoma-focale.php",
+        "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+        "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+        "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/",
+        "https://hu.wikipedia.org/wiki/Magyarország_bazídiumosgomba-fajainak_listája"
+      ],
+      "label": "galléros pereszke"
+    },
+    "id": {
+      "description": "Jamur ektomikoriza bertubuh kokoh dari hutan konifer, terdapat di Eropa, Asia, serta wilayah utara atau pegunungan Amerika Utara. Jamur ini bermitra dengan akar pohon, bukan menguraikan kayu. Kelimpahannya sangat bervariasi: dapat umum di hutan pinus utara, tetapi langka di banyak wilayah Eropa lainnya.",
+      "cap": "Tudung lebarnya 4–12 cm, jarang 15 cm, awalnya cembung dengan tepi menggulung ke dalam, kemudian hampir rata. Permukaannya lengket saat lembap, lalu kering dan berserat radial hingga bersisik; cokelat jingga sampai cokelat kemerahan, terkadang bernuansa zaitun dan sering lebih gelap di tengah. Tudung tua dapat retak.",
+      "hymenium": "Bilah berwarna keputihan, lalu krem dengan bercak cokelat karat, berlekuk atau melekat sempit pada tangkai, terkadang hampir bebas. Bilah pendek tersisip di antaranya. Basidium memiliki empat sterigma; keilosistidium dan pleurosistidium tidak ada.",
+      "stipe": "Tangkai panjangnya 4–10 cm dan tebalnya 1–4 cm, padat, sering meruncing ke pangkal. Cincin putih seperti kapas menjadi kecokelatan dan dapat mengempis. Di atasnya permukaan halus dan keputihan; di bawahnya serat serta sisik cokelat jingga membentuk selubung seperti sepatu bot.",
+      "flesh": "Dagingnya padat dan keputihan, tidak berubah warna saat dipotong. Baunya biasanya kuat seperti tepung, terkadang seperti mentimun; rasanya dapat tidak enak atau pahit.",
+      "sporePrint": "Cetak spora berwarna putih. Spora halus, elipsoid dan inamiloid, berukuran 4,5–6,5 × 3,5–4,5 µm dalam deskripsi Eropa.",
+      "habitat": "Di tanah berpasir miskin hara di bawah pinus, terkadang spruce atau fir, sendiri atau berkelompok. Berbuah terutama Agustus–November di Eropa, dari musim gugur hingga musim dingin di wilayah Amerika Utara yang lebih hangat.",
+      "uses": "Tidak disarankan untuk dimakan. Penilaian terbitan berkisar dari dapat dimakan tetapi bermutu rendah hingga tidak dapat dimakan atau sedikit beracun, dengan laporan gangguan pencernaan. Perebusan di sini tidak dianggap sebagai bukti keamanan.",
+      "confusion": "Tricholoma aurantium tidak memiliki velum parsial sejati yang seperti kapas. Tricholoma matsutake biasanya bertudung cokelat kelabu tanpa nuansa jingga kuat. Tricholoma colossus lebih besar, dagingnya menjadi merah muda saat dipotong dan tidak berbau tepung.",
+      "notes": "Hamparan miselium yang padat dapat membuat tanah di sekitarnya berbau tepung kuat.",
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/tricholoma_focale.html",
+        "https://www.first-nature.com/fungi/tricholoma-focale.php",
+        "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+        "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+        "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/"
+      ]
+    },
+    "it": {
+      "description": "Un fungo ectomicorrizico robusto dei boschi di conifere, presente in Europa, Asia e nelle regioni settentrionali o montuose del Nord America. Si associa alle radici degli alberi anziché decomporre il legno. L’abbondanza varia molto: può essere frequente nelle pinete settentrionali, ma è raro in molte altre regioni europee.",
+      "cap": "Il cappello misura 4–12 cm di larghezza, raramente 15 cm, dapprima convesso con margine involuto, poi quasi piano. La superficie è appiccicosa con l’umidità, poi asciutta, radialmente fibrillosa fino a squamulosa; bruno-aranciata o bruno-rossastra, talvolta con toni olivastri e spesso più scura al centro. I cappelli vecchi possono screpolarsi.",
+      "hymenium": "Le lamelle sono biancastre, poi crema con macchie bruno-ruggine, smarginate o strettamente attaccate al gambo, talvolta quasi libere. Sono intercalate da lamellule. I basidi hanno quattro sterigmi; cheilocistidi e pleurocistidi sono assenti.",
+      "stipe": "Il gambo è lungo 4–10 cm e spesso 1–4 cm, pieno e spesso assottigliato alla base. L’anello bianco e cotonoso imbrunisce e può afflosciarsi. Sopra è liscio e biancastro; sotto, fibre e squame bruno-aranciate formano un rivestimento simile a uno stivale.",
+      "flesh": "La carne è soda e biancastra, immutabile al taglio. L’odore è generalmente fortemente farinaceo, talvolta di cetriolo; il sapore può essere sgradevole o amaro.",
+      "sporePrint": "La sporata è bianca. Le spore sono lisce, ellissoidali e inamiloidi, di 4,5–6,5 × 3,5–4,5 µm nelle descrizioni europee.",
+      "habitat": "Su terreno sabbioso povero di nutrienti sotto pini, talvolta abeti rossi o bianchi, isolato o in gruppi. Fruttifica soprattutto da agosto a novembre in Europa, dall’autunno all’inverno nelle zone più calde del Nord America.",
+      "uses": "Consumo sconsigliato. Le valutazioni pubblicate vanno da commestibile scadente a non commestibile o debolmente velenoso, con disturbi digestivi segnalati. La bollitura non è qui considerata una prova di sicurezza.",
+      "confusion": "Tricholoma aurantium non possiede un vero velo parziale cotonoso. Tricholoma matsutake ha solitamente un cappello grigio-bruno senza forti toni aranciati. Tricholoma colossus è più grande, la sua carne diventa rosa al taglio e manca l’odore farinaceo.",
+      "notes": "Fitti tappeti miceliari possono conferire al terreno circostante un forte odore di farina.",
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/tricholoma_focale.html",
+        "https://www.first-nature.com/fungi/tricholoma-focale.php",
+        "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+        "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+        "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/"
+      ]
+    },
+    "ja": {
+      "description": "ヨーロッパ、アジア、北アメリカの北部や山地に分布する、針葉樹林のがっしりした外生菌根菌です。木材を分解するのではなく、樹木の根と共生します。発生量には大きな地域差があり、北方のマツ林ではよく見られることがありますが、ヨーロッパの多くの地域ではまれです。",
+      "cap": "傘は幅4–12 cm、まれに15 cmで、初めは縁が内側に巻いたまんじゅう形、後にほぼ平らになります。表面は湿ると粘り、後に乾いて放射状の繊維状から鱗片状になります。橙褐色から赤褐色で、ときにオリーブ色を帯び、中央が濃いことが多いです。古い傘はひび割れることがあります。",
+      "hymenium": "ひだは白っぽく、後にクリーム色となり、さび褐色の斑点が出ます。柄に湾生または狭く付着し、ときにほぼ離生します。短いひだも交じります。担子器には4本の小柄があり、縁シスチジアと側シスチジアはありません。",
+      "stipe": "柄は長さ4–10 cm、太さ1–4 cmで、中実、基部に向かって細くなることが多いです。白い綿毛状のつばは褐色を帯び、しぼむことがあります。つばより上は滑らかで白っぽく、下は橙褐色の繊維や鱗片で長靴状に覆われます。",
+      "flesh": "肉は硬く白っぽく、切っても変色しません。においは通常強い粉臭で、ときにキュウリに似ます。味は不快または苦いことがあります。",
+      "sporePrint": "胞子紋は白色です。胞子は平滑な楕円体で非アミロイド性、ヨーロッパの記載では4.5–6.5 × 3.5–4.5 µmです。",
+      "habitat": "養分の乏しい砂質土壌で、マツ、ときにトウヒやモミの下に単生または群生します。ヨーロッパでは主に8–11月、北アメリカの比較的温暖な地域では秋から冬に発生します。",
+      "uses": "食用は勧められません。文献の評価は、食べられるが質が低いものから、食用不適または弱い有毒まで分かれ、消化器症状も報告されています。ここでは、ゆでることを安全性の証明とはみなしません。",
+      "confusion": "Tricholoma aurantiumには本当の綿毛状の内被膜がありません。Tricholoma matsutakeの傘は通常灰褐色で、強い橙色を帯びません。Tricholoma colossusはより大型で、切ると肉が桃色を帯び、粉臭がありません。",
+      "notes": "密な菌糸のマットによって、周囲の土に強い粉臭が生じることがあります。",
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/tricholoma_focale.html",
+        "https://www.first-nature.com/fungi/tricholoma-focale.php",
+        "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+        "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+        "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/"
+      ]
+    },
+    "ko": {
+      "description": "유럽, 아시아와 북아메리카 북부 또는 산악 지역에 분포하는 침엽수림의 튼튼한 외생균근성 버섯입니다. 목재를 분해하는 대신 나무뿌리와 공생합니다. 개체수는 지역에 따라 크게 달라 북쪽 소나무숲에서는 흔할 수 있지만 유럽의 다른 많은 지역에서는 드뭅니다.",
+      "cap": "갓은 폭 4–12 cm, 드물게 15 cm이며, 처음에는 가장자리가 안으로 말린 볼록한 형태였다가 거의 편평해집니다. 표면은 습할 때 끈적이고 나중에는 건조하며 방사상 섬유질에서 인편상으로 변합니다. 주황갈색에서 적갈색이고 때로 올리브색을 띠며 중앙이 더 짙은 경우가 많습니다. 오래된 갓은 갈라질 수 있습니다.",
+      "hymenium": "주름살은 희끄무레하다가 크림색이 되며 녹슨 갈색 반점이 생깁니다. 대에 홈붙음이거나 좁게 붙고 때로 거의 떨어져 있습니다. 짧은 주름살이 섞여 있습니다. 담자기에는 소병이 4개 있으며 날낭상체와 측낭상체는 없습니다.",
+      "stipe": "대는 길이 4–10 cm, 굵기 1–4 cm이며 속이 차 있고 밑동 쪽으로 가늘어지는 경우가 많습니다. 흰 솜털 같은 턱받이는 갈색을 띠고 주저앉을 수 있습니다. 위쪽은 매끈하고 희끄무레하며 아래쪽은 주황갈색 섬유와 인편으로 장화처럼 덮입니다.",
+      "flesh": "살은 단단하고 희끄무레하며 잘라도 변색하지 않습니다. 냄새는 대개 강한 밀가루 냄새이며 때로 오이와 비슷합니다. 맛은 불쾌하거나 쓸 수 있습니다.",
+      "sporePrint": "포자문은 흰색입니다. 포자는 매끈한 타원체이며 비아밀로이드성으로, 유럽의 기재에서는 4.5–6.5 × 3.5–4.5 µm입니다.",
+      "habitat": "양분이 적은 모래땅에서 소나무, 때로 가문비나무나 전나무 아래에 홀로 또는 무리 지어 납니다. 유럽에서는 주로 8–11월, 북아메리카의 더 따뜻한 지역에서는 가을부터 겨울까지 발생합니다.",
+      "uses": "섭취를 권장하지 않습니다. 문헌의 평가는 먹을 수 있으나 품질이 낮다는 것부터 식용 부적합 또는 약한 독성이 있다는 것까지 다르며 소화기 이상도 보고되었습니다. 여기에서는 삶는 것을 안전성의 증거로 보지 않습니다.",
+      "confusion": "Tricholoma aurantium에는 진정한 솜털 모양 부분피막이 없습니다. Tricholoma matsutake의 갓은 대개 회갈색으로 뚜렷한 주황색이 없습니다. Tricholoma colossus는 더 크고 자른 살이 분홍색으로 변하며 밀가루 냄새가 없습니다.",
+      "notes": "조밀한 균사 매트가 주변 흙에 강한 밀가루 냄새를 줄 수 있습니다.",
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/tricholoma_focale.html",
+        "https://www.first-nature.com/fungi/tricholoma-focale.php",
+        "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+        "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+        "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/"
+      ]
+    },
+    "lt": {
+      "description": "Stambus spygliuočių miškų ektomikorizinis grybas, paplitęs Europoje, Azijoje ir šiaurinėse ar kalnuotose Šiaurės Amerikos vietovėse. Jis gyvena kartu su medžių šaknimis, o ne ardo medieną. Gausumas labai skiriasi: šiauriniuose pušynuose gali būti dažnas, tačiau daugelyje kitų Europos regionų yra retas.",
+      "cap": "Kepurėlė 4–12 cm pločio, retai 15 cm, iš pradžių iškili, užsirietusiu kraštu, vėliau beveik plokščia. Paviršius drėgnas lipnus, vėliau sausas, spinduliškai plaušuotas ar žvynuotas; oranžiškai rudas arba rausvai rudas, kartais su alyvuogių atspalviais ir dažnai tamsesniu viduriu. Senos kepurėlės gali suskilti.",
+      "hymenium": "Lakšteliai balsvi, vėliau kreminiai su rūdžių rudumo dėmėmis, iškirptiniai arba siaurai priaugę prie koto, kartais beveik laisvi. Tarp jų yra trumpesnių lakštelių. Bazidijos turi keturias sterigmas; cheilocistidžių ir pleurocistidžių nėra.",
+      "stipe": "Kotas 4–10 cm ilgio ir 1–4 cm storio, pilnaviduris, dažnai smailėjantis prie pagrindo. Baltas vatiškas žiedas paruduoja ir gali susmukti. Virš jo paviršius lygus ir balsvas; žemiau oranžiškai rudi plaušai bei žvynai sudaro batą primenantį apvalkalą.",
+      "flesh": "Trama tvirta ir balsva, perpjauta spalvos nekeičia. Kvapas dažniausiai stipriai miltinis, kartais agurkų; skonis gali būti nemalonus arba kartus.",
+      "sporePrint": "Sporų milteliai balti. Sporos lygios, elipsoidinės ir neamiloidinės, Europos aprašuose 4,5–6,5 × 3,5–4,5 µm.",
+      "habitat": "Auga pavieniui arba grupėmis skurdžioje smėlingoje dirvoje po pušimis, kartais eglėmis ar kėniais. Europoje vaisiakūniai pasirodo daugiausia rugpjūtį–lapkritį, šiltesnėse Šiaurės Amerikos vietovėse nuo rudens iki žiemos.",
+      "uses": "Valgyti nerekomenduojama. Paskelbti vertinimai svyruoja nuo valgomo, bet menkaverčio iki nevalgomo ar silpnai nuodingo; pranešama apie virškinimo sutrikimus. Apvirimas čia nelaikomas saugumo įrodymu.",
+      "confusion": "Tricholoma aurantium neturi tikro vatiško dalinio šydo. Tricholoma matsutake kepurėlė paprastai pilkai ruda, be ryškių oranžinių atspalvių. Tricholoma colossus stambesnis, jo trama perpjauta rausvėja ir neturi miltinio kvapo.",
+      "notes": "Tankūs grybienos kilimai gali suteikti aplinkinei dirvai stiprų miltų kvapą.",
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/tricholoma_focale.html",
+        "https://www.first-nature.com/fungi/tricholoma-focale.php",
+        "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+        "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+        "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/",
+        "https://lt.wikipedia.org/wiki/Žieduotasis_baltikas"
+      ],
+      "label": "žieduotasis baltikas"
+    },
+    "lv": {
+      "description": "Spēcīga skujkoku mežu ektomikorizas sēne, kas sastopama Eiropā, Āzijā un Ziemeļamerikas ziemeļu vai kalnu apvidos. Tā dzīvo kopā ar koku saknēm, nevis noārda koksni. Sastopamība ļoti atšķiras: ziemeļu priežu mežos tā var būt bieža, bet daudzos citos Eiropas reģionos ir reta.",
+      "cap": "Cepurīte ir 4–12 cm plata, reti 15 cm, sākumā izliekta ar ieritinātu malu, vēlāk gandrīz plakana. Virsma mitrumā lipīga, pēc tam sausa un radiāli šķiedraina līdz zvīņaina; oranžbrūna līdz sarkanbrūna, reizēm ar olīvkrāsas toņiem un bieži tumšāku vidu. Vecas cepurītes var plaisāt.",
+      "hymenium": "Lapiņas ir bālganas, vēlāk krēmkrāsas ar rūsganbrūniem plankumiem, izrobotas vai šauri pieaugušas kātiņam, reizēm gandrīz brīvas. Starp tām ir īsākas lapiņas. Bazīdijām ir četras sterigmas; heilocistīdu un pleirocistīdu nav.",
+      "stipe": "Kātiņš ir 4–10 cm garš un 1–4 cm resns, pilns, bieži sašaurinās pie pamatnes. Balts, vatei līdzīgs gredzens kļūst brūngans un var sakļauties. Virs tā virsma ir gluda un bālgana; zem tā oranžbrūnas šķiedras un zvīņas veido zābakam līdzīgu pārklājumu.",
+      "flesh": "Mīkstums ir stingrs un bālgans, griezumā krāsu nemaina. Smarža parasti stipri miltaina, reizēm līdzīga gurķim; garša var būt nepatīkama vai rūgta.",
+      "sporePrint": "Sporu masa ir balta. Sporas ir gludas, elipsoidālas un neamiloīdas, Eiropas aprakstos 4,5–6,5 × 3,5–4,5 µm.",
+      "habitat": "Aug pa vienai vai grupās barības vielām nabadzīgā smilšainā augsnē zem priedēm, reizēm eglēm vai balteglēm. Eiropā augļķermeņi veidojas galvenokārt augustā–novembrī, siltākajos Ziemeļamerikas apvidos no rudens līdz ziemai.",
+      "uses": "Ēšanai nav ieteicama. Publicētie vērtējumi svārstās no ēdamas, bet mazvērtīgas līdz neēdamai vai vāji indīgai; ziņots par gremošanas traucējumiem. Novārīšana šeit netiek uzskatīta par drošības pierādījumu.",
+      "confusion": "Tricholoma aurantium nav īsta vataina daļējā plīvura. Tricholoma matsutake cepurīte parasti ir pelēkbrūna bez spilgti oranžiem toņiem. Tricholoma colossus ir lielāka, tās mīkstums griezumā sārtojas un tam nav miltainās smaržas.",
+      "notes": "Blīvi micēlija paklāji var piešķirt apkārtējai augsnei stipru miltainu smaržu.",
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/tricholoma_focale.html",
+        "https://www.first-nature.com/fungi/tricholoma-focale.php",
+        "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+        "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+        "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/"
+      ],
+      "label": "gredzenotā pūkaine"
+    },
+    "nl": {
+      "description": "Een forse ectomycorrhizapaddenstoel van naaldbossen, voorkomend in Europa, Azië en noordelijke of bergachtige delen van Noord-Amerika. Hij leeft samen met boomwortels in plaats van hout af te breken. De talrijkheid varieert sterk: in noordelijke dennenbossen kan hij algemeen zijn, maar in veel andere Europese gebieden is hij zeldzaam.",
+      "cap": "De hoed is 4–12 cm breed, zelden 15 cm, eerst gewelfd met ingerolde rand, later vrijwel vlak. Het oppervlak is kleverig bij vocht, daarna droog en radiaal vezelig tot schubbig; oranjebruin tot roodbruin, soms met olijftinten en vaak een donkerder centrum. Oude hoeden kunnen barsten.",
+      "hymenium": "De lamellen zijn witachtig, later crème met roestbruine vlekken, uitgebocht of smal aan de steel gehecht, soms vrijwel vrij. Kortere lamellen zijn tussengevoegd. De basidiën dragen vier sterigmen; cheilocystiden en pleurocystiden ontbreken.",
+      "stipe": "De steel is 4–10 cm lang en 1–4 cm dik, gevuld en vaak naar de basis versmald. Een witte, wattige ring wordt bruinachtig en kan inzakken. Daarboven is het oppervlak glad en witachtig; daaronder vormen oranjebruine vezels en schubben een laarsachtige bekleding.",
+      "flesh": "Het vlees is stevig en witachtig en verkleurt niet bij doorsnijden. De geur is meestal sterk melig, soms komkommerachtig; de smaak kan onaangenaam of bitter zijn.",
+      "sporePrint": "De sporenafdruk is wit. De sporen zijn glad, ellipsoïd en inamyloïd, in Europese beschrijvingen 4,5–6,5 × 3,5–4,5 µm.",
+      "habitat": "Op voedselarme zandgrond onder dennen, soms sparren of zilversparren, alleen of in groepen. Vruchtlichamen verschijnen in Europa vooral van augustus tot november, in warmere Noord-Amerikaanse gebieden van de herfst tot in de winter.",
+      "uses": "Consumptie wordt afgeraden. Gepubliceerde beoordelingen lopen uiteen van eetbaar maar minderwaardig tot oneetbaar of licht giftig, met meldingen van spijsverteringsklachten. Afkoken geldt hier niet als bewijs van veiligheid.",
+      "confusion": "Tricholoma aurantium mist een echt wattig deelvelum. Tricholoma matsutake heeft meestal een grijsbruine hoed zonder uitgesproken oranje tinten. Tricholoma colossus is groter, het vlees wordt roze bij doorsnijden en mist de melige geur.",
+      "notes": "Dichte myceliummatten kunnen de omringende bodem een sterke meelgeur geven.",
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/tricholoma_focale.html",
+        "https://www.first-nature.com/fungi/tricholoma-focale.php",
+        "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+        "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+        "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/",
+        "https://www.verspreidingsatlas.nl/0137130"
+      ],
+      "label": "Halsdoekridderzwam"
+    },
+    "no": {
+      "description": "En kraftig ektomykorrhizadannende sopp i barskog, utbredt i Europa, Asia og nordlige eller fjellrike deler av Nord-Amerika. Den lever sammen med trerøtter i stedet for å bryte ned ved. Hyppigheten varierer mye: Den kan være vanlig i nordlige furuskoger, men er sjelden i mange andre europeiske områder.",
+      "cap": "Hatten er 4–12 cm bred, sjelden 15 cm, først hvelvet med innrullet kant, senere nesten flat. Overflaten er klebrig i fuktig vær, deretter tørr og radiært fibret til skjellet; oransjebrun til rødbrun, noen ganger med oliventoner og ofte mørkere midtparti. Eldre hatter kan sprekke.",
+      "hymenium": "Skivene er hvitaktige, senere kremfargede med rustbrune flekker, utrandede eller smalt festet til stilken, noen ganger nesten frie. Korte skiver er innskutt. Basidiene har fire sterigmer; cheilocystider og pleurocystider mangler.",
+      "stipe": "Stilken er 4–10 cm lang og 1–4 cm tykk, massiv og ofte avsmalnende mot basis. En hvit, bomullsaktig ring blir brunlig og kan falle sammen. Over ringen er overflaten glatt og hvitaktig; under danner oransjebrune fibre og skjell en støvellignende bekledning.",
+      "flesh": "Kjøttet er fast og hvitaktig uten fargeendring ved gjennomskjæring. Lukten er vanligvis sterkt melaktig, noen ganger agurkaktig; smaken kan være ubehagelig eller bitter.",
+      "sporePrint": "Sporepulveret er hvitt. Sporene er glatte, ellipsoide og inamyloide, 4,5–6,5 × 3,5–4,5 µm i europeiske beskrivelser.",
+      "habitat": "På næringsfattig sandjord under furu, noen ganger gran eller edelgran, enkeltvis eller i grupper. Fruktlegemer kommer særlig august–november i Europa, fra høst til vinter i varmere nordamerikanske områder.",
+      "uses": "Anbefales ikke som mat. Publiserte vurderinger spenner fra spiselig, men mindreverdig, til uspiselig eller svakt giftig, og fordøyelsesbesvær er rapportert. Koking regnes ikke her som bevis på trygghet.",
+      "confusion": "Tricholoma aurantium mangler et ekte bomullsaktig delsvøp. Tricholoma matsutake har vanligvis gråbrun hatt uten kraftige oransjetoner. Tricholoma colossus er større, kjøttet blir rosa ved gjennomskjæring, og mellukten mangler.",
+      "notes": "Tette mycelmatter kan gi jorden omkring en sterk mellukt.",
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/tricholoma_focale.html",
+        "https://www.first-nature.com/fungi/tricholoma-focale.php",
+        "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+        "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+        "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/",
+        "https://api.gbif.org/v1/species/168070728/vernacularNames"
+      ],
+      "label": "teglrød kragemusserong"
+    },
+    "pl": {
+      "description": "Masywny grzyb ektomikoryzowy lasów iglastych, występujący w Europie, Azji oraz północnych i górskich rejonach Ameryki Północnej. Żyje w symbiozie z korzeniami drzew, zamiast rozkładać drewno. Jego liczebność jest bardzo zróżnicowana: w północnych borach sosnowych może być częsty, lecz w wielu innych regionach Europy jest rzadki.",
+      "cap": "Kapelusz ma szerokość 4–12 cm, rzadko 15 cm, początkowo jest wypukły z podwiniętym brzegiem, później niemal płaski. Powierzchnia jest lepka w wilgoci, następnie sucha, promieniście włóknista do łuseczkowatej; pomarańczowobrązowa do czerwonobrązowej, czasem oliwkowa i często ciemniejsza w środku. Starsze kapelusze mogą pękać.",
+      "hymenium": "Blaszki są białawe, później kremowe z rdzawobrązowymi plamami, wykrojone lub wąsko przyrośnięte do trzonu, czasem niemal wolne. Występują międzyblaszki. Podstawki mają cztery sterygmy; cheilocystyd i pleurocystyd brak.",
+      "stipe": "Trzon ma długość 4–10 cm i grubość 1–4 cm, jest pełny, często zwężony ku podstawie. Biały, watowaty pierścień brązowieje i może opadać. Powyżej powierzchnia jest gładka i biaława; poniżej pomarańczowobrązowe włókna i łuski tworzą osłonę podobną do cholewy buta.",
+      "flesh": "Miąższ jest jędrny i białawy, nie zmienia barwy po przekrojeniu. Zapach zwykle silnie mączny, niekiedy ogórkowy; smak bywa nieprzyjemny lub gorzki.",
+      "sporePrint": "Wysyp zarodników jest biały. Zarodniki są gładkie, elipsoidalne i nieamyloidalne, w europejskich opisach mają 4,5–6,5 × 3,5–4,5 µm.",
+      "habitat": "Rośnie pojedynczo lub w grupach na ubogiej piaszczystej glebie pod sosnami, czasem świerkami lub jodłami. W Europie owocuje głównie od sierpnia do listopada, w cieplejszych rejonach Ameryki Północnej od jesieni do zimy.",
+      "uses": "Spożywanie nie jest zalecane. Opublikowane oceny wahają się od jadalnego, lecz mało wartościowego do niejadalnego lub lekko trującego; odnotowano zaburzenia trawienne. Obgotowania nie traktuje się tutaj jako dowodu bezpieczeństwa.",
+      "confusion": "Tricholoma aurantium nie ma prawdziwej watowatej osłony częściowej. Tricholoma matsutake ma zwykle szarobrązowy kapelusz bez mocnych pomarańczowych odcieni. Tricholoma colossus jest większy, jego miąższ różowieje na przekroju i nie ma mącznego zapachu.",
+      "notes": "Gęste maty grzybni mogą nadawać otaczającej glebie silny mączny zapach.",
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/tricholoma_focale.html",
+        "https://www.first-nature.com/fungi/tricholoma-focale.php",
+        "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+        "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+        "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/",
+        "https://pl.wikipedia.org/wiki/Gąska_ognista"
+      ],
+      "label": "gąska ognista"
+    },
+    "pt": {
+      "description": "Um cogumelo ectomicorrízico robusto dos bosques de coníferas, presente na Europa, Ásia e nas regiões setentrionais ou montanhosas da América do Norte. Associa-se às raízes das árvores em vez de decompor madeira. A abundância varia muito: pode ser frequente nos pinhais do norte, mas é raro em muitas outras regiões europeias.",
+      "cap": "O chapéu mede 4–12 cm de largura, raramente 15 cm, inicialmente convexo com margem enrolada, depois quase plano. A superfície é pegajosa quando húmida, depois seca e radialmente fibrilosa a escamosa; castanho-alaranjada a castanho-avermelhada, por vezes com tons oliváceos e frequentemente mais escura no centro. Os chapéus velhos podem rachar.",
+      "hymenium": "As lâminas são esbranquiçadas, depois creme com manchas castanho-ferrugíneas, escotadas ou estreitamente ligadas ao pé, por vezes quase livres. Intercalam-se lamélulas. Os basídios têm quatro esterigmas; não há queilocistídios nem pleurocistídios.",
+      "stipe": "O pé mede 4–10 cm de comprimento e 1–4 cm de espessura, é maciço e afunila frequentemente para a base. Um anel branco e algodonoso torna-se acastanhado e pode abater. Acima dele a superfície é lisa e esbranquiçada; abaixo, fibras e escamas castanho-alaranjadas formam uma cobertura semelhante a uma bota.",
+      "flesh": "A carne é firme e esbranquiçada, não mudando de cor ao corte. O cheiro é geralmente fortemente farináceo, por vezes a pepino; o sabor pode ser desagradável ou amargo.",
+      "sporePrint": "A esporada é branca. Os esporos são lisos, elipsoidais e inamilóides, com 4,5–6,5 × 3,5–4,5 µm nas descrições europeias.",
+      "habitat": "Em solo arenoso pobre em nutrientes, sob pinheiros, por vezes píceas ou abetos, isolado ou em grupos. Frutifica sobretudo de agosto a novembro na Europa e do outono ao inverno nas zonas mais quentes da América do Norte.",
+      "uses": "Consumo desaconselhado. As avaliações publicadas vão de comestível medíocre a não comestível ou ligeiramente venenoso, havendo relatos de perturbações digestivas. A fervura não é aqui considerada prova de segurança.",
+      "confusion": "Tricholoma aurantium não tem um verdadeiro véu parcial algodonoso. Tricholoma matsutake apresenta habitualmente um chapéu cinzento-acastanhado sem tons alaranjados fortes. Tricholoma colossus é maior, a carne fica rosada ao corte e não apresenta cheiro farináceo.",
+      "notes": "Tapetes densos de micélio podem conferir ao solo envolvente um forte cheiro a farinha.",
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/tricholoma_focale.html",
+        "https://www.first-nature.com/fungi/tricholoma-focale.php",
+        "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+        "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+        "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/"
+      ]
+    },
+    "ro": {
+      "description": "O ciupercă ectomicorizantă robustă a pădurilor de conifere, răspândită în Europa, Asia și în regiunile nordice sau montane ale Americii de Nord. Trăiește în asociere cu rădăcinile arborilor, nu descompune lemnul. Abundența variază mult: poate fi frecventă în pădurile nordice de pin, dar este rară în multe alte regiuni europene.",
+      "cap": "Pălăria are 4–12 cm lățime, rar 15 cm, inițial convexă cu marginea răsucită spre interior, apoi aproape plată. Suprafața este lipicioasă pe umezeală, ulterior uscată, radial fibriloasă până la solzoasă; brun-portocalie până la brun-roșcată, uneori cu nuanțe măslinii și adesea mai închisă central. Pălăriile bătrâne pot crăpa.",
+      "hymenium": "Lamelele sunt albicioase, apoi crem cu pete brun-ruginii, emarginate sau îngust atașate de picior, uneori aproape libere. Sunt intercalate lameluțe. Basidiile au patru sterigme; cheilocistidele și pleurocistidele lipsesc.",
+      "stipe": "Piciorul are 4–10 cm lungime și 1–4 cm grosime, este plin și adesea se îngustează spre bază. Inelul alb, vatos, devine maroniu și se poate lăsa. Deasupra lui suprafața este netedă și albicioasă; dedesubt, fibrele și solzii brun-portocalii formează un înveliș ca o cizmă.",
+      "flesh": "Carnea este fermă și albicioasă, nu își schimbă culoarea la tăiere. Mirosul este de obicei puternic făinos, uneori de castravete; gustul poate fi neplăcut sau amar.",
+      "sporePrint": "Pulberea sporilor este albă. Sporii sunt netezi, elipsoidali și neamiloizi, de 4,5–6,5 × 3,5–4,5 µm în descrierile europene.",
+      "habitat": "Pe sol nisipos sărac în nutrienți, sub pini, uneori molizi sau brazi, izolată ori în grupuri. Fructifică mai ales din august până în noiembrie în Europa, din toamnă până iarna în zonele mai calde ale Americii de Nord.",
+      "uses": "Consumul nu este recomandat. Evaluările publicate variază de la comestibilă, dar slabă calitativ, la necomestibilă sau ușor otrăvitoare, fiind raportate tulburări digestive. Fierberea nu este considerată aici o dovadă de siguranță.",
+      "confusion": "Tricholoma aurantium nu are un văl parțial vatos adevărat. Tricholoma matsutake are de obicei pălăria cenușiu-brună, fără nuanțe portocalii puternice. Tricholoma colossus este mai mare, carnea se colorează roz la tăiere și nu are miros făinos.",
+      "notes": "Covorașele dense de miceliu pot da solului din jur un miros puternic de făină.",
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/tricholoma_focale.html",
+        "https://www.first-nature.com/fungi/tricholoma-focale.php",
+        "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+        "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+        "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/"
+      ]
+    },
+    "ru": {
+      "description": "Крепкий эктомикоризный гриб хвойных лесов, встречающийся в Европе, Азии и северных или горных районах Северной Америки. Он образует симбиоз с корнями деревьев, а не разлагает древесину. Обилие сильно различается: в северных сосняках он может быть обычен, но во многих других европейских регионах редок.",
+      "cap": "Шляпка шириной 4–12 см, редко 15 см, сначала выпуклая с подвёрнутым краем, позднее почти плоская. Поверхность во влажную погоду клейкая, затем сухая, радиально-волокнистая до чешуйчатой; оранжево-коричневая до красно-коричневой, иногда с оливковыми оттенками и часто более тёмным центром. Старые шляпки могут растрескиваться.",
+      "hymenium": "Пластинки беловатые, позднее кремовые с ржаво-коричневыми пятнами, выемчатые или узко приросшие к ножке, иногда почти свободные. Есть короткие пластиночки. Базидии имеют четыре стеригмы; хейлоцистиды и плевроцистиды отсутствуют.",
+      "stipe": "Ножка длиной 4–10 см и толщиной 1–4 см, сплошная, часто сужается к основанию. Белое ватообразное кольцо буреет и может опадать. Над ним поверхность гладкая и беловатая; ниже оранжево-коричневые волокна и чешуйки образуют похожий на сапог покров.",
+      "flesh": "Мякоть плотная и беловатая, на срезе не меняет цвет. Запах обычно сильный мучной, иногда огуречный; вкус может быть неприятным или горьким.",
+      "sporePrint": "Споровый порошок белый. Споры гладкие, эллипсоидные и неамилоидные, в европейских описаниях 4,5–6,5 × 3,5–4,5 мкм.",
+      "habitat": "Растёт одиночно или группами на бедной песчаной почве под соснами, иногда елями или пихтами. В Европе плодоносит главным образом с августа по ноябрь, в более тёплых районах Северной Америки с осени до зимы.",
+      "uses": "Употреблять в пищу не рекомендуется. Опубликованные оценки варьируют от съедобного, но низкокачественного до несъедобного или слабо ядовитого; сообщается о расстройствах пищеварения. Отваривание здесь не считается доказательством безопасности.",
+      "confusion": "Tricholoma aurantium не имеет настоящего ватообразного частного покрывала. Tricholoma matsutake обычно отличается серо-коричневой шляпкой без выраженных оранжевых тонов. Tricholoma colossus крупнее, его мякоть розовеет на срезе и не имеет мучного запаха.",
+      "notes": "Плотные маты мицелия могут придавать окружающей почве сильный мучной запах.",
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/tricholoma_focale.html",
+        "https://www.first-nature.com/fungi/tricholoma-focale.php",
+        "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+        "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+        "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/",
+        "https://ru.wikipedia.org/wiki/Рядовка_опёнковидная"
+      ],
+      "label": "рядовка опёнковидная",
+      "names": [
+        "рядовка перевязанная"
+      ]
+    },
+    "sl": {
+      "description": "Čokata ektomikorizna goba iglastih gozdov, razširjena v Evropi, Aziji ter severnih ali gorskih predelih Severne Amerike. Živi v sožitju s koreninami dreves, namesto da bi razkrajala les. Pogostost se močno razlikuje: v severnih borovih gozdovih je lahko pogosta, v mnogih drugih evropskih območjih pa redka.",
+      "cap": "Klobuk je širok 4–12 cm, redko 15 cm, sprva izbočen z zavihanim robom, pozneje skoraj raven. Površina je v vlagi lepljiva, nato suha in radialno vlaknasta do luskasta; oranžnorjava do rdečerjava, včasih z olivnimi odtenki in pogosto temnejša na sredini. Stari klobuki lahko razpokajo.",
+      "hymenium": "Lističi so belkasti, pozneje kremasti z rjastorjavimi pegami, izrezani ali ozko prirasli na bet, včasih skoraj prosti. Vmes so krajši lističi. Bazidiji imajo štiri sterigme; heilocistide in plevrocistide manjkajo.",
+      "stipe": "Bet je dolg 4–10 cm in debel 1–4 cm, poln, pogosto zožen proti dnišču. Bel bombažast obroček porjavi in se lahko sesede. Nad njim je površina gladka in belkasta; pod njim oranžnorjava vlakna in luske tvorijo škornju podobno prevleko.",
+      "flesh": "Meso je čvrsto in belkasto, ob prerezu ne spremeni barve. Vonj je navadno močno mokast, včasih po kumarah; okus je lahko neprijeten ali grenak.",
+      "sporePrint": "Trosni prah je bel. Trosi so gladki, elipsoidni in neamiloidni, v evropskih opisih 4,5–6,5 × 3,5–4,5 µm.",
+      "habitat": "Na s hranili revnih peščenih tleh pod bori, včasih smrekami ali jelkami, posamično ali v skupinah. V Evropi rodi predvsem od avgusta do novembra, v toplejših delih Severne Amerike od jeseni do zime.",
+      "uses": "Uživanje ni priporočljivo. Objavljene ocene segajo od užitne, a manj kakovostne do neužitne ali blago strupene; poročajo tudi o prebavnih težavah. Prekuhavanje tukaj ne velja za dokaz varnosti.",
+      "confusion": "Tricholoma aurantium nima pravega bombažastega delnega zastirala. Tricholoma matsutake ima navadno sivorjav klobuk brez izrazitih oranžnih tonov. Tricholoma colossus je večja, njeno meso na prerezu porožnati in nima mokastega vonja.",
+      "notes": "Goste preproge micelija lahko okoliški prsti dajo močan mokast vonj.",
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/tricholoma_focale.html",
+        "https://www.first-nature.com/fungi/tricholoma-focale.php",
+        "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+        "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+        "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/",
+        "https://www.gobe.si/Gobe/TricholomaFocale"
+      ],
+      "label": "ovratniška kolobarnica"
+    },
+    "sr": {
+      "description": "Робусна ектомикоризна гљива четинарских шума, распрострањена у Европи, Азији и северним или планинским деловима Северне Америке. Живи у заједници с корењем дрвећа, уместо да разграђује дрво. Учесталост јој веома варира: у северним боровим шумама може бити честа, али је ретка у многим другим европским областима.",
+      "cap": "Шешир је широк 4–12 cm, ретко 15 cm, испрва испупчен с подвијеном ивицом, касније готово раван. Површина је лепљива по влажном времену, затим сува и радијално влакнаста до љуспаста; наранџастосмеђа до црвеносмеђа, понекад маслинастих тонова и често тамнија у средини. Стари шешири могу испуцати.",
+      "hymenium": "Листићи су беличасти, касније кремасти с рђастосмеђим пегама, урезани или уско прирасли уз дршку, понекад готово слободни. Између њих су краћи листићи. Базидије имају четири стеригме; хеилоцистиде и плеуроцистиде недостају.",
+      "stipe": "Дршка је дуга 4–10 cm и дебела 1–4 cm, пуна, често сужена ка основи. Бели памучасти прстен постаје смеђкаст и може се слегнути. Изнад њега површина је глатка и беличаста; испод наранџастосмеђа влакна и љуспе образују омотач налик чизми.",
+      "flesh": "Месо је чврсто и беличасто, на пресеку не мења боју. Мирис је обично снажно брашнаст, понекад налик краставцу; укус може бити непријатан или горак.",
+      "sporePrint": "Отисак спора је бео. Споре су глатке, елипсоидне и неамилоидне, у европским описима 4,5–6,5 × 3,5–4,5 µm.",
+      "habitat": "На хранљивим материјама сиромашном песковитом земљишту под боровима, понекад смрчама или јелама, појединачно или у групама. У Европи плодоноси углавном од августа до новембра, у топлијим деловима Северне Америке од јесени до зиме.",
+      "uses": "Не препоручује се за јело. Објављене процене крећу се од јестиве, али слабог квалитета до нејестиве или благо отровне, уз забележене пробавне сметње. Прокувавање се овде не сматра доказом безбедности.",
+      "confusion": "Tricholoma aurantium нема прави памучасти делимични вео. Tricholoma matsutake обично има сивосмеђ шешир без изражених наранџастих тонова. Tricholoma colossus је већа, месо јој на пресеку поружичасти и нема брашнаст мирис.",
+      "notes": "Густе простирке мицелијума могу околном земљишту дати снажан брашнаст мирис.",
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/tricholoma_focale.html",
+        "https://www.first-nature.com/fungi/tricholoma-focale.php",
+        "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+        "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+        "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/"
+      ]
+    },
+    "sv": {
+      "description": "En kraftig ektomykorrhizabildande svamp i barrskog, förekommande i Europa, Asien och norra eller bergiga delar av Nordamerika. Den lever tillsammans med trädrötter i stället för att bryta ned ved. Förekomsten varierar starkt: den kan vara vanlig i nordliga tallskogar men är sällsynt i många andra europeiska områden.",
+      "cap": "Hatten är 4–12 cm bred, sällan 15 cm, först välvd med inrullad kant, senare nästan platt. Ytan är klibbig i fuktigt väder, sedan torr och radiärt trådig till fjällig; orangebrun till rödbrun, ibland med olivtoner och ofta mörkare mitt. Äldre hattar kan spricka.",
+      "hymenium": "Skivorna är vitaktiga, senare gräddfärgade med rostbruna fläckar, urnupna eller smalt fästade vid foten, ibland nästan fria. Kortare skivor är inskjutna. Basidierna har fyra sterigmer; cheilocystider och pleurocystider saknas.",
+      "stipe": "Foten är 4–10 cm lång och 1–4 cm tjock, massiv och ofta avsmalnande mot basen. En vit, bomullslik ring blir brunaktig och kan falla ihop. Ovanför är ytan slät och vitaktig; nedanför bildar orangebruna trådar och fjäll en stövellik beklädnad.",
+      "flesh": "Köttet är fast och vitaktigt och ändrar inte färg vid snitt. Lukten är vanligen starkt mjölig, ibland gurklik; smaken kan vara obehaglig eller bitter.",
+      "sporePrint": "Sporpulvret är vitt. Sporerna är släta, ellipsoida och inamyloida, 4,5–6,5 × 3,5–4,5 µm i europeiska beskrivningar.",
+      "habitat": "På näringsfattig sandmark under tall, ibland gran eller ädelgran, ensam eller i grupper. Fruktkroppar kommer främst augusti–november i Europa, från höst till vinter i varmare nordamerikanska områden.",
+      "uses": "Rekommenderas inte som matsvamp. Publicerade bedömningar varierar från ätlig men undermålig till oätlig eller svagt giftig, med rapporter om matsmältningsbesvär. Kokning räknas här inte som bevis på säkerhet.",
+      "confusion": "Tricholoma aurantium saknar ett äkta bomullslikt delhylle. Tricholoma matsutake har vanligen gråbrun hatt utan starka orange toner. Tricholoma colossus är större, köttet blir rosa vid snitt och saknar mjöllukten.",
+      "notes": "Täta mycelmattor kan ge den omgivande jorden en stark mjöllukt.",
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/tricholoma_focale.html",
+        "https://www.first-nature.com/fungi/tricholoma-focale.php",
+        "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+        "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+        "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/",
+        "https://api.gbif.org/v1/species/160015747/vernacularNames"
+      ],
+      "label": "kragmusseron",
+      "names": [
+        "kråsmusseron"
+      ]
+    },
+    "tr": {
+      "description": "Avrupa, Asya ve Kuzey Amerika’nın kuzey veya dağlık kesimlerinde görülen, iğne yapraklı ormanlara özgü iri bir ektomikorizal mantardır. Odunu ayrıştırmak yerine ağaç kökleriyle ortaklık kurar. Bolluğu çok değişkendir: kuzeydeki çam ormanlarında sık görülebilirken Avrupa’nın birçok başka bölgesinde seyrektir.",
+      "cap": "Şapka 4–12 cm genişliğinde, nadiren 15 cm’dir; başlangıçta kenarı içe kıvrık ve dışbükey, daha sonra neredeyse düzdür. Yüzeyi nemliyken yapışkan, ardından kuru ve ışınsal lifli ile pulludur; turuncu-kahverengiden kızıl kahverengiye değişir, bazen zeytuni tonludur ve merkezi çoğunlukla daha koyudur. Yaşlı şapkalar çatlayabilir.",
+      "hymenium": "Lameller beyazımsı, daha sonra pas kahverengi lekeli krem rengindedir; sapa çentikli veya dar bağlanır, bazen neredeyse serbesttir. Aralarında kısa lameller bulunur. Bazidyumlar dört sterigma taşır; keilosistidyum ve pleurosistidyum bulunmaz.",
+      "stipe": "Sap 4–10 cm uzunluğunda ve 1–4 cm kalınlığındadır, içi doludur ve çoğunlukla tabana doğru daralır. Beyaz, pamuksu halka kahverengileşir ve çökebilir. Üst kısmı düzgün ve beyazımsı; alt kısmı turuncu-kahverengi lif ve pullardan oluşan çizme benzeri bir örtüyle kaplıdır.",
+      "flesh": "Et sert ve beyazımsıdır, kesilince renk değiştirmez. Kokusu genellikle güçlü biçimde unsu, bazen salatalığı andırır; tadı hoş olmayan veya acı olabilir.",
+      "sporePrint": "Spor izi beyazdır. Sporlar düz yüzeyli, elipsoit ve inamiloittir; Avrupa betimlemelerinde 4,5–6,5 × 3,5–4,5 µm boyutundadır.",
+      "habitat": "Besince fakir kumlu toprakta, çamların, bazen ladin veya göknarların altında tek tek ya da gruplar hâlinde yetişir. Avrupa’da başlıca ağustos–kasım aylarında, Kuzey Amerika’nın daha sıcak bölgelerinde sonbahardan kışa kadar meyve gövdesi oluşturur.",
+      "uses": "Yenmesi önerilmez. Yayımlanan değerlendirmeler yenilebilir ama düşük kaliteli ile yenmez veya hafif zehirli arasında değişir; sindirim bozuklukları bildirilmiştir. Kaynatma burada güvenli olduğunun kanıtı sayılmaz.",
+      "confusion": "Tricholoma aurantium gerçek pamuksu kısmi örtüden yoksundur. Tricholoma matsutake genellikle belirgin turuncu tonlar içermeyen gri-kahverengi şapkaya sahiptir. Tricholoma colossus daha büyüktür, kesilen eti pembeye döner ve unsu kokusu yoktur.",
+      "notes": "Yoğun miselyum örtüleri çevredeki toprağa güçlü bir un kokusu verebilir.",
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/tricholoma_focale.html",
+        "https://www.first-nature.com/fungi/tricholoma-focale.php",
+        "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+        "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+        "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/"
+      ]
+    },
+    "uk": {
+      "description": "Міцний ектомікоризний гриб хвойних лісів, що трапляється в Європі, Азії та північних або гірських районах Північної Америки. Він утворює симбіоз із коренями дерев, а не розкладає деревину. Чисельність дуже різниться: у північних сосняках він може бути звичайним, проте в багатьох інших європейських регіонах рідкісний.",
+      "cap": "Шапинка завширшки 4–12 см, зрідка 15 см, спочатку опукла з підгорнутим краєм, згодом майже плоска. Поверхня у вологу погоду клейка, потім суха, радіально-волокниста до лускатої; оранжево-коричнева до червоно-коричневої, інколи з оливковими відтінками й часто темніша в центрі. Старі шапинки можуть тріскатися.",
+      "hymenium": "Пластинки білуваті, згодом кремові з іржаво-коричневими плямами, виїмчасті або вузько прирослі до ніжки, іноді майже вільні. Є коротші пластиночки. Базидії мають чотири стеригми; хейлоцистиди та плевроцистиди відсутні.",
+      "stipe": "Ніжка завдовжки 4–10 см і завтовшки 1–4 см, суцільна, часто звужується до основи. Біле ватоподібне кільце буріє й може осідати. Над ним поверхня гладенька й білувата; нижче оранжево-коричневі волокна та лусочки утворюють покрив, схожий на чобіт.",
+      "flesh": "М’якуш щільний і білуватий, на зрізі не змінює забарвлення. Запах зазвичай сильний борошняний, іноді огірковий; смак може бути неприємним або гірким.",
+      "sporePrint": "Споровий порошок білий. Спори гладенькі, еліпсоїдні та неамілоїдні, у європейських описах 4,5–6,5 × 3,5–4,5 мкм.",
+      "habitat": "Росте поодинці або групами на бідному піщаному ґрунті під соснами, іноді ялинами чи ялицями. У Європі плодоносить переважно із серпня до листопада, у тепліших районах Північної Америки з осені до зими.",
+      "uses": "Споживати не рекомендується. Опубліковані оцінки коливаються від їстівного, але малоцінного до неїстівного або слабко отруйного; повідомляють про розлади травлення. Відварювання тут не вважається доказом безпечності.",
+      "confusion": "Tricholoma aurantium не має справжнього ватоподібного часткового покривала. Tricholoma matsutake зазвичай має сіро-коричневу шапинку без виразних оранжевих тонів. Tricholoma colossus більший, його м’якуш рожевіє на зрізі й не має борошняного запаху.",
+      "notes": "Щільні мати міцелію можуть надавати навколишньому ґрунту сильного борошняного запаху.",
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/tricholoma_focale.html",
+        "https://www.first-nature.com/fungi/tricholoma-focale.php",
+        "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+        "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+        "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/",
+        "https://uk.wikipedia.org/wiki/Рядовка_опенькоподібна"
+      ],
+      "label": "рядовка опенькоподібна"
+    },
+    "zh": {
+      "description": "一種生長於針葉林的粗壯外生菌根真菌，分布於歐洲、亞洲及北美洲北部或山區。它與樹根共生，而非分解木材。各地數量差異很大：在北方松林中可能常見，但在歐洲許多其他地區相當稀少。",
+      "cap": "菌蓋寬4–12公分，罕達15公分，初期凸起、邊緣內捲，後來近乎平展。表面潮濕時黏，之後乾燥，具有放射狀纖維至鱗片；橙褐色至紅褐色，有時帶橄欖色調，中央常較深。老熟菌蓋可能龜裂。",
+      "hymenium": "菌褶初為白色調，後呈乳油色並出現鏽褐色斑點，凹生或狹窄地連接菌柄，有時近乎離生。其間夾有短菌褶。擔子具有4個小梗；無褶緣囊狀體及褶面囊狀體。",
+      "stipe": "菌柄長4–10公分、粗1–4公分，實心，常向基部漸細。白色棉絮狀菌環後變褐，可能塌縮。環上表面平滑、帶白色；環下的橙褐色纖維與鱗片形成靴狀覆層。",
+      "flesh": "菌肉結實、帶白色，切開不變色。氣味通常有濃烈的麵粉味，有時似小黃瓜；味道可能不佳或帶苦味。",
+      "sporePrint": "孢子印為白色。孢子表面平滑、橢球形，非澱粉質；歐洲描述記載為4.5–6.5 × 3.5–4.5微米。",
+      "habitat": "單生或群生於松樹下養分貧乏的砂質土壤，有時也在雲杉或冷杉下。歐洲主要於8–11月出菇，北美洲較溫暖地區則從秋季延至冬季。",
+      "uses": "不建議食用。文獻評價從可食但品質差，到不可食或輕微有毒不等，並有消化不適的報告。此處不將水煮視為安全的證明。",
+      "confusion": "Tricholoma aurantium沒有真正的棉絮狀內菌幕。Tricholoma matsutake的菌蓋通常為灰褐色，缺乏強烈橙色調。Tricholoma colossus較大，菌肉切開後變粉紅色，且無麵粉味。",
+      "notes": "密集的菌絲墊可使周圍土壤帶有濃烈的麵粉氣味。",
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/tricholoma_focale.html",
+        "https://www.first-nature.com/fungi/tricholoma-focale.php",
+        "https://burkeherbarium.org/imagecollection/taxon.php?Taxon=Tricholoma+focale",
+        "https://www.myko.cz/myko-atlas/Tricholoma-focale/",
+        "https://www.latvijasdaba.lv/senes/tricholoma-focale-fr-ricken/"
+      ]
+    }
+  },
+  "order": "Agaricales",
+  "summary": [
+    "Agaricales",
+    "Tricholomataceae",
+    "Tricholoma"
+  ],
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Tricholomataceae/Tricholoma_focale/Tricholoma_focale@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Tricholomataceae/Tricholoma_focale/Tricholoma_focale@400.webp",
+  "plateCredit": {
+    "author": "Unknown; owner-supplied artwork",
+    "credit": "Existing J.B.Barla mark retained, not authenticated authorship. Owner-supplied; true alpha extraction, no added signature.",
+    "license": "User supplied; redistribution rights not independently established",
+    "licenseUrl": "",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Tricholomataceae/Tricholoma_focale/Tricholoma_focale@1600.webp"
+  },
+  "added": "2026-11-07"
+},
+{
+  "name": "Desarmillaria caespitosa",
+  "author": "(Berk.) Antonín, J.E. Stewart & Medel",
+  "citation": "Mycologia 113(4): 781 (2021)",
+  "edibility": "edible_with_caution",
+  "hymenium": "gills",
+  "where": [
+    "wood"
+  ],
+  "color": [
+    "yellow",
+    "brown"
+  ],
+  "fruitingFrom": 6,
+  "fruitingTo": 11,
+  "capFrom": 3,
+  "capTo": 6,
+  "stipeHeightFrom": 4.5,
+  "stipeHeightTo": 8,
+  "stipeThickFrom": 0.5,
+  "stipeThickTo": 1,
+  "id": 135,
+  "added": "2026-11-07",
+  "family": "Physalacriaceae",
+  "genus": "Desarmillaria",
+  "order": "Agaricales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Agaricales",
+    "Physalacriaceae",
+    "Desarmillaria"
+  ],
+  "summary": [
+    "Agaricales",
+    "Physalacriaceae",
+    "Desarmillaria"
+  ],
+  "text": {
+    "en": {
+      "description": "A wood-inhabiting fungus of eastern and central North America, also recorded in Mexico and Costa Rica. It forms dense clusters at tree bases and over buried roots, acting both as a root pathogen and as a decomposer of dead wood in forests, orchards and urban settings.",
+      "cap": "The cap is typically 3–6 cm wide, convex to flat or depressed, dry, yellowish to tawny brown, with darker scales concentrated near the centre.",
+      "hymenium": "Gills are attached to slightly decurrent, whitish, becoming pinkish or brownish; short gills are frequent.",
+      "stipe": "The stipe is 4.5–8 cm long and 0.5–1 cm thick, fibrous, tapering downward, with fused bases and no ring.",
+      "flesh": "Flesh is whitish to watery tan and does not change colour when cut.",
+      "sporePrint": "The spore print is white to yellowish white; spores are smooth, ellipsoid, typically 6.5–8.5 × 4.5–5.5 µm, and inamyloid.",
+      "habitat": "It fruits on stumps and buried wood, especially hardwood roots, mainly from June to November; lawns may conceal its woody substrate.",
+      "uses": "Edible only with caution after thorough cooking; insufficient cooking can cause serious stomach upset. Tough stipes are often discarded, and individual intolerance is possible.",
+      "confusion": "Armillaria mellea usually has a ring and a sticky cap. Poisonous Omphalotus illudens is orange with a smooth cap. Deadly Galerina marginata has brown spores and may lose its ring.",
+      "notes": "The similar European Desarmillaria tabescens is a separate species; older transatlantic records under that name need reassessment."
+    },
+    "sk": {
+      "description": "Drevokazná huba východnej a strednej časti Severnej Ameriky, zaznamenaná aj v Mexiku a Kostarike. Vytvára husté trsy pri bázach stromov a nad pochovanými koreňmi. V lesoch, sadoch a mestskom prostredí parazituje na koreňoch a rozkladá odumreté drevo.",
+      "cap": "Klobúk má zvyčajne šírku 3–6 cm, je klenutý až plochý alebo vtlačený, suchý, žltkastý až žltohnedý, s tmavšími šupinkami sústredenými pri strede.",
+      "hymenium": "Lupene sú prirastené až mierne zbiehavé, belavé, neskôr ružovkasté alebo hnedasté; časté sú kratšie lupienky.",
+      "stipe": "Hlúbik je dlhý 4,5–8 cm a hrubý 0,5–1 cm, vláknitý, nadol zúžený, so zrastenými bázami a bez prsteňa.",
+      "flesh": "Dužina je belavá až vodnato žltohnedá a na reze nemení farbu.",
+      "sporePrint": "Výtrusný prach je biely až žltkastobiely; výtrusy sú hladké, elipsoidné, zvyčajne 6,5–8,5 × 4,5–5,5 µm, neamyloidné.",
+      "habitat": "Rastie na pňoch a pochovanom dreve, najmä na koreňoch listnáčov, prevažne od júna do novembra; trávnik môže zakrývať drevný substrát.",
+      "uses": "Jedlá iba s výhradou po dôkladnej tepelnej úprave; nedostatočná úprava môže vyvolať vážne žalúdočné ťažkosti. Tuhé hlúbiky sa často odstraňujú a možná je individuálna neznášanlivosť.",
+      "confusion": "Armillaria mellea má zvyčajne prsteň a lepkavý klobúk. Jedovatá Omphalotus illudens je oranžová s hladkým klobúkom. Smrteľne jedovatá Galerina marginata má hnedé výtrusy a môže stratiť prsteň.",
+      "notes": "Podobná európska Desarmillaria tabescens je samostatný druh; staršie záznamy z oboch strán Atlantiku pod týmto menom si vyžadujú prehodnotenie."
+    },
+    "cs": {
+      "description": "Dřevokazná houba východní a střední části Severní Ameriky, zaznamenaná také v Mexiku a Kostarice. Vytváří husté trsy u bází stromů a nad pohřbenými kořeny. V lesích, sadech a městském prostředí parazituje na kořenech a rozkládá odumřelé dřevo.",
+      "cap": "Klobouk bývá široký 3–6 cm, vyklenutý až plochý nebo vmáčklý, suchý, nažloutlý až žlutohnědý, s tmavšími šupinkami soustředěnými uprostřed.",
+      "hymenium": "Lupeny jsou přirostlé až mírně sbíhavé, bělavé, později narůžovělé nebo nahnědlé; časté jsou lupénky.",
+      "stipe": "Třeň je dlouhý 4,5–8 cm a tlustý 0,5–1 cm, vláknitý, dolů zúžený, se srostlými bázemi a bez prstenu.",
+      "flesh": "Dužnina je bělavá až vodnatě žlutohnědá a na řezu nemění barvu.",
+      "sporePrint": "Výtrusný prach je bílý až nažloutle bílý; výtrusy jsou hladké, elipsoidní, obvykle 6,5–8,5 × 4,5–5,5 µm, neamyloidní.",
+      "habitat": "Roste na pařezech a pohřbeném dřevě, zejména na kořenech listnáčů, především od června do listopadu; trávník může zakrývat dřevní substrát.",
+      "uses": "Jedlá pouze s výhradou po důkladné tepelné úpravě; nedostatečná úprava může vyvolat vážné žaludeční potíže. Tuhé třeně se často odstraňují a možná je individuální nesnášenlivost.",
+      "confusion": "Armillaria mellea má obvykle prsten a lepkavý klobouk. Jedovatá Omphalotus illudens je oranžová s hladkým kloboukem. Smrtelně jedovatá Galerina marginata má hnědé výtrusy a může ztratit prsten.",
+      "notes": "Podobná evropská Desarmillaria tabescens je samostatný druh; starší záznamy z obou stran Atlantiku pod tímto jménem vyžadují přehodnocení."
+    },
+    "de": {
+      "description": "Ein holzbewohnender Pilz des östlichen und mittleren Nordamerikas, auch aus Mexiko und Costa Rica bekannt. Er bildet dichte Büschel an Stammfüßen und über vergrabenen Wurzeln und wirkt in Wäldern, Obstgärten und städtischen Lebensräumen sowohl als Wurzelparasit als auch als Zersetzer abgestorbenen Holzes.",
+      "cap": "Der Hut ist meist 3–6 cm breit, gewölbt bis flach oder vertieft, trocken, gelblich bis ockerbraun, mit dunkleren, zur Mitte hin gehäuften Schuppen.",
+      "hymenium": "Die Lamellen sind angewachsen bis leicht herablaufend, weißlich, später rosa oder bräunlich; Zwischenlamellen sind häufig.",
+      "stipe": "Der Stiel ist 4,5–8 cm lang und 0,5–1 cm dick, faserig, nach unten verjüngt, mit verwachsenen Basen und ohne Ring.",
+      "flesh": "Das Fleisch ist weißlich bis wässrig hellbraun und verfärbt sich beim Anschneiden nicht.",
+      "sporePrint": "Das Sporenpulver ist weiß bis gelblich weiß; die Sporen sind glatt, ellipsoid, meist 6,5–8,5 × 4,5–5,5 µm groß und inamyloid.",
+      "habitat": "Er fruchtet vor allem von Juni bis November an Stümpfen und vergrabenem Holz, besonders an Laubholzwurzeln; Rasen kann das Holzsubstrat verdecken.",
+      "uses": "Nur mit Vorbehalt nach gründlichem Garen essbar; unzureichendes Garen kann schwere Magenbeschwerden verursachen. Zähe Stiele werden oft entfernt; individuelle Unverträglichkeit ist möglich.",
+      "confusion": "Armillaria mellea hat meist einen Ring und einen klebrigen Hut. Die giftige Omphalotus illudens ist orange und hat einen glatten Hut. Die tödlich giftige Galerina marginata hat braune Sporen und kann ihren Ring verlieren.",
+      "notes": "Die ähnliche europäische Desarmillaria tabescens ist eine eigene Art; ältere transatlantische Nachweise unter diesem Namen müssen neu bewertet werden."
+    },
+    "fr": {
+      "description": "Un champignon lignicole de l'est et du centre de l'Amérique du Nord, également signalé au Mexique et au Costa Rica. Il forme des touffes denses au pied des arbres et sur les racines enfouies, parasitant les racines et décomposant le bois mort dans les forêts, vergers et milieux urbains.",
+      "cap": "Le chapeau mesure généralement 3–6 cm de large, est convexe puis plat ou déprimé, sec, jaunâtre à brun fauve, avec des écailles plus foncées concentrées au centre.",
+      "hymenium": "Les lames sont adnées à légèrement décurrentes, blanchâtres puis rosâtres ou brunâtres ; les lamellules sont fréquentes.",
+      "stipe": "Le pied mesure 4,5–8 cm de long et 0,5–1 cm d'épaisseur, est fibreux, aminci vers le bas, sans anneau, avec des bases soudées.",
+      "flesh": "La chair est blanchâtre à brun clair aqueux et ne change pas de couleur à la coupe.",
+      "sporePrint": "La sporée est blanche à blanc jaunâtre ; les spores sont lisses, ellipsoïdes, généralement de 6,5–8,5 × 4,5–5,5 µm, et non amyloïdes.",
+      "habitat": "Il fructifie sur les souches et le bois enfoui, surtout les racines de feuillus, principalement de juin à novembre ; une pelouse peut masquer le substrat ligneux.",
+      "uses": "Comestible uniquement avec précaution après cuisson complète ; une cuisson insuffisante peut provoquer de graves troubles gastriques. Les pieds coriaces sont souvent éliminés et une intolérance individuelle est possible.",
+      "confusion": "Armillaria mellea possède généralement un anneau et un chapeau collant. Omphalotus illudens, toxique, est orange avec un chapeau lisse. Galerina marginata, mortelle, possède des spores brunes et peut perdre son anneau.",
+      "notes": "La similaire Desarmillaria tabescens européenne est une espèce distincte ; les anciens signalements transatlantiques sous ce nom nécessitent un réexamen."
+    },
+    "es": {
+      "description": "Un hongo lignícola del este y centro de Norteamérica, registrado también en México y Costa Rica. Forma grupos densos en las bases de los árboles y sobre raíces enterradas; actúa como patógeno de raíces y descomponedor de madera muerta en bosques, huertos y entornos urbanos.",
+      "cap": "El sombrero suele medir 3–6 cm de ancho, es convexo a plano o deprimido, seco, amarillento a pardo leonado, con escamas más oscuras concentradas en el centro.",
+      "hymenium": "Las láminas son adheridas a ligeramente decurrentes, blanquecinas, después rosadas o parduzcas; las laminillas son frecuentes.",
+      "stipe": "El pie mide 4,5–8 cm de largo y 0,5–1 cm de grosor, es fibroso, se estrecha hacia abajo y carece de anillo; las bases están fusionadas.",
+      "flesh": "La carne es blanquecina a pardo claro acuoso y no cambia de color al cortarla.",
+      "sporePrint": "La esporada es blanca a blanco amarillento; las esporas son lisas, elipsoidales, generalmente de 6,5–8,5 × 4,5–5,5 µm, e inamiloides.",
+      "habitat": "Fructifica en tocones y madera enterrada, especialmente raíces de frondosas, principalmente de junio a noviembre; el césped puede ocultar el sustrato leñoso.",
+      "uses": "Comestible solo con precaución tras una cocción completa; una cocción insuficiente puede causar trastornos gástricos graves. Los pies duros suelen desecharse y puede haber intolerancia individual.",
+      "confusion": "Armillaria mellea suele tener anillo y sombrero pegajoso. Omphalotus illudens, venenosa, es naranja con sombrero liso. Galerina marginata, mortal, tiene esporas pardas y puede perder el anillo.",
+      "notes": "La semejante Desarmillaria tabescens europea es una especie distinta; los registros transatlánticos antiguos bajo ese nombre requieren revisión."
+    },
+    "it": {
+      "description": "Un fungo lignicolo dell'America settentrionale orientale e centrale, segnalato anche in Messico e Costa Rica. Forma cespi densi alla base degli alberi e sulle radici interrate, agendo sia da patogeno radicale sia da decompositore del legno morto in boschi, frutteti e ambienti urbani.",
+      "cap": "Il cappello è generalmente largo 3–6 cm, convesso poi piano o depresso, asciutto, giallastro o bruno fulvo, con squame più scure concentrate al centro.",
+      "hymenium": "Le lamelle sono adnate o leggermente decorrenti, biancastre, poi rosate o brunastre; le lamellule sono frequenti.",
+      "stipe": "Il gambo è lungo 4,5–8 cm e spesso 0,5–1 cm, fibroso, assottigliato verso il basso, privo di anello e con basi saldate.",
+      "flesh": "La carne è biancastra o bruno chiaro acquoso e non cambia colore al taglio.",
+      "sporePrint": "La sporata è bianca o bianco giallastra; le spore sono lisce, ellissoidali, generalmente di 6,5–8,5 × 4,5–5,5 µm, e inamiloidi.",
+      "habitat": "Fruttifica su ceppaie e legno interrato, soprattutto radici di latifoglie, principalmente da giugno a novembre; i prati possono nascondere il substrato legnoso.",
+      "uses": "Commestibile solo con cautela dopo accurata cottura; una cottura insufficiente può causare gravi disturbi gastrici. I gambi coriacei vengono spesso scartati ed è possibile un'intolleranza individuale.",
+      "confusion": "Armillaria mellea presenta solitamente anello e cappello vischioso. La velenosa Omphalotus illudens è arancione con cappello liscio. La mortale Galerina marginata ha spore brune e può perdere l'anello.",
+      "notes": "La simile Desarmillaria tabescens europea è una specie distinta; le vecchie segnalazioni transatlantiche con questo nome richiedono una revisione."
+    },
+    "pt": {
+      "description": "Um fungo lenhícola do leste e centro da América do Norte, também registado no México e na Costa Rica. Forma tufos densos na base das árvores e sobre raízes enterradas, atuando como patogénio das raízes e decompositor de madeira morta em florestas, pomares e espaços urbanos.",
+      "cap": "O chapéu tem geralmente 3–6 cm de largura, é convexo a plano ou deprimido, seco, amarelado a castanho-fulvo, com escamas mais escuras concentradas no centro.",
+      "hymenium": "As lâminas são aderentes a ligeiramente decorrentes, esbranquiçadas, depois rosadas ou acastanhadas; as lamélulas são frequentes.",
+      "stipe": "O estipe mede 4,5–8 cm de comprimento e 0,5–1 cm de espessura, é fibroso, afunilado para baixo, sem anel e com bases fundidas.",
+      "flesh": "A carne é esbranquiçada a castanho-claro aquoso e não muda de cor ao corte.",
+      "sporePrint": "A esporada é branca a branco-amarelada; os esporos são lisos, elipsoidais, geralmente de 6,5–8,5 × 4,5–5,5 µm, e inamiloides.",
+      "habitat": "Frutifica em cepos e madeira enterrada, sobretudo raízes de folhosas, principalmente de junho a novembro; os relvados podem ocultar o substrato lenhoso.",
+      "uses": "Comestível apenas com precaução após cozedura completa; uma cozedura insuficiente pode provocar problemas gástricos graves. Os estipes duros são frequentemente rejeitados e pode ocorrer intolerância individual.",
+      "confusion": "Armillaria mellea tem geralmente anel e chapéu pegajoso. A venenosa Omphalotus illudens é alaranjada com chapéu liso. A mortal Galerina marginata tem esporos castanhos e pode perder o anel.",
+      "notes": "A semelhante Desarmillaria tabescens europeia é uma espécie distinta; os registos transatlânticos antigos sob esse nome necessitam de reavaliação."
+    },
+    "nl": {
+      "description": "Een houtbewonende paddenstoel uit oostelijk en centraal Noord-Amerika, ook gemeld uit Mexico en Costa Rica. Hij vormt dichte bundels aan boomvoeten en boven begraven wortels en leeft zowel als wortelpathogeen als afbreker van dood hout in bossen, boomgaarden en stedelijke omgevingen.",
+      "cap": "De hoed is meestal 3–6 cm breed, bol tot vlak of ingedeukt, droog, gelig tot geelbruin, met donkerdere schubben vooral in het midden.",
+      "hymenium": "De lamellen zijn aangehecht tot licht aflopend, witachtig, later rozig of bruinachtig; korte lamellen komen veel voor.",
+      "stipe": "De steel is 4,5–8 cm lang en 0,5–1 cm dik, vezelig, naar beneden versmald, zonder ring en met vergroeide steelvoeten.",
+      "flesh": "Het vlees is witachtig tot waterig lichtbruin en verkleurt niet bij doorsnijden.",
+      "sporePrint": "De sporenprint is wit tot geelachtig wit; de sporen zijn glad, ellipsoïd, meestal 6,5–8,5 × 4,5–5,5 µm en niet-amyloïd.",
+      "habitat": "Hij vormt vruchtlichamen op stronken en begraven hout, vooral loofboomwortels, voornamelijk van juni tot november; gazons kunnen het houtsubstraat verbergen.",
+      "uses": "Alleen met voorbehoud eetbaar na grondig verhitten; onvoldoende verhitting kan ernstige maagklachten veroorzaken. Taaie stelen worden vaak weggegooid en individuele intolerantie is mogelijk.",
+      "confusion": "Armillaria mellea heeft meestal een ring en een kleverige hoed. De giftige Omphalotus illudens is oranje met een gladde hoed. De dodelijke Galerina marginata heeft bruine sporen en kan haar ring verliezen.",
+      "notes": "De gelijkende Europese Desarmillaria tabescens is een aparte soort; oudere trans-Atlantische meldingen onder die naam moeten opnieuw worden beoordeeld."
+    },
+    "pl": {
+      "description": "Grzyb związany z drewnem we wschodniej i środkowej Ameryce Północnej, odnotowany również w Meksyku i Kostaryce. Tworzy gęste kępy u podstaw drzew i nad zakopanymi korzeniami, będąc patogenem korzeni oraz organizmem rozkładającym martwe drewno w lasach, sadach i środowisku miejskim.",
+      "cap": "Kapelusz ma zwykle 3–6 cm szerokości, jest wypukły do płaskiego lub wklęsłego, suchy, żółtawy do płowobrązowego, z ciemniejszymi łuseczkami skupionymi w środku.",
+      "hymenium": "Blaszki są przyrośnięte do lekko zbiegających, białawe, później różowawe lub brązowawe; częste są międzyblaszki.",
+      "stipe": "Trzon ma 4,5–8 cm długości i 0,5–1 cm grubości, jest włóknisty, zwęża się ku dołowi, nie ma pierścienia, a podstawy są zrośnięte.",
+      "flesh": "Miąższ jest białawy do wodnisto jasnobrązowego i nie zmienia barwy po przecięciu.",
+      "sporePrint": "Wysyp zarodników jest biały do żółtawobiałego; zarodniki są gładkie, elipsoidalne, zwykle 6,5–8,5 × 4,5–5,5 µm, nieamyloidalne.",
+      "habitat": "Owocnikuje na pniakach i zakopanym drewnie, szczególnie korzeniach drzew liściastych, głównie od czerwca do listopada; trawnik może zasłaniać drewniane podłoże.",
+      "uses": "Jadalny wyłącznie z ostrożnością po dokładnym ugotowaniu; niedostateczna obróbka może powodować poważne dolegliwości żołądkowe. Twarde trzony często się odrzuca; możliwa jest indywidualna nietolerancja.",
+      "confusion": "Armillaria mellea ma zwykle pierścień i lepki kapelusz. Trujący Omphalotus illudens jest pomarańczowy z gładkim kapeluszem. Śmiertelnie trująca Galerina marginata ma brązowe zarodniki i może utracić pierścień.",
+      "notes": "Podobna europejska Desarmillaria tabescens jest odrębnym gatunkiem; starsze transatlantyckie doniesienia pod tą nazwą wymagają ponownej oceny."
+    },
+    "ru": {
+      "description": "Деревообитающий гриб восточной и центральной частей Северной Америки, отмеченный также в Мексике и Коста-Рике. Образует плотные сростки у оснований деревьев и над погребёнными корнями, поражает корни и разлагает мёртвую древесину в лесах, садах и городской среде.",
+      "cap": "Шляпка обычно 3–6 см шириной, выпуклая, затем плоская или вдавленная, сухая, желтоватая до охристо-коричневой, с более тёмными чешуйками преимущественно в центре.",
+      "hymenium": "Пластинки приросшие до слегка нисходящих, беловатые, позднее розоватые или коричневатые; часты короткие пластиночки.",
+      "stipe": "Ножка длиной 4,5–8 см и толщиной 0,5–1 см, волокнистая, суженная книзу, без кольца, сросшаяся основаниями с соседними ножками.",
+      "flesh": "Мякоть беловатая до водянисто-светло-коричневой, на срезе не меняет цвет.",
+      "sporePrint": "Споровый порошок белый до желтовато-белого; споры гладкие, эллипсоидные, обычно 6,5–8,5 × 4,5–5,5 мкм, неамилоидные.",
+      "habitat": "Плодоносит на пнях и погребённой древесине, особенно корнях лиственных деревьев, преимущественно с июня по ноябрь; газон может скрывать древесный субстрат.",
+      "uses": "Съедобен только с осторожностью после тщательной тепловой обработки; недостаточная обработка может вызвать тяжёлое расстройство желудка. Жёсткие ножки часто удаляют; возможна индивидуальная непереносимость.",
+      "confusion": "Armillaria mellea обычно имеет кольцо и клейкую шляпку. Ядовитый Omphalotus illudens оранжевый, с гладкой шляпкой. Смертельно ядовитая Galerina marginata имеет коричневые споры и может терять кольцо.",
+      "notes": "Сходная европейская Desarmillaria tabescens является отдельным видом; старые трансатлантические находки под этим названием требуют пересмотра."
+    },
+    "uk": {
+      "description": "Дереворуйнівний гриб східної та центральної частин Північної Америки, відомий також із Мексики й Коста-Рики. Утворює щільні пучки біля основ дерев і над похованими коренями, уражає корені та розкладає мертву деревину в лісах, садах і міському середовищі.",
+      "cap": "Шапинка зазвичай завширшки 3–6 см, опукла до плоскої або вдавленої, суха, жовтувата до вохристо-коричневої, з темнішими лусочками переважно в центрі.",
+      "hymenium": "Пластинки прирослі до злегка низхідних, білуваті, пізніше рожевуваті або коричнюваті; часто є короткі пластиночки.",
+      "stipe": "Ніжка завдовжки 4,5–8 см і завтовшки 0,5–1 см, волокниста, звужена донизу, без кільця, зі зрослими основами.",
+      "flesh": "М'якуш білуватий до водянисто-світло-коричневого, на зрізі не змінює кольору.",
+      "sporePrint": "Споровий порошок білий до жовтувато-білого; спори гладенькі, еліпсоїдні, зазвичай 6,5–8,5 × 4,5–5,5 мкм, неамілоїдні.",
+      "habitat": "Плодоносить на пнях і похованій деревині, особливо коренях листяних дерев, переважно з червня до листопада; газон може приховувати деревний субстрат.",
+      "uses": "Їстівний лише з обережністю після ретельного приготування; недостатня теплова обробка може спричинити тяжкий розлад шлунка. Жорсткі ніжки часто відкидають; можлива індивідуальна непереносимість.",
+      "confusion": "Armillaria mellea зазвичай має кільце й клейку шапинку. Отруйний Omphalotus illudens оранжевий, із гладенькою шапинкою. Смертельно отруйна Galerina marginata має коричневі спори й може втрачати кільце.",
+      "notes": "Подібна європейська Desarmillaria tabescens є окремим видом; давні трансатлантичні знахідки під цією назвою потребують перегляду."
+    },
+    "bg": {
+      "description": "Дърворазрушаваща гъба от източната и централната част на Северна Америка, регистрирана и в Мексико и Коста Рика. Образува гъсти туфи при основите на дърветата и над заровени корени, като причинява заболявания на корените и разгражда мъртва дървесина в гори, овощни градини и градска среда.",
+      "cap": "Гуглата обикновено е широка 3–6 cm, изпъкнала до плоска или вдлъбната, суха, жълтеникава до охренокафява, с по-тъмни люспици предимно в центъра.",
+      "hymenium": "Ламелите са прираснали до слабо низбягващи, белезникави, по-късно розовеещи или кафеникави; късите ламели са чести.",
+      "stipe": "Пънчето е дълго 4,5–8 cm и дебело 0,5–1 cm, влакнесто, стесняващо се надолу, без пръстен и със сраснали основи.",
+      "flesh": "Месото е белезникаво до воднисто светлокафяво и не променя цвета си при разрязване.",
+      "sporePrint": "Споровият прашец е бял до жълтеникавобял; спорите са гладки, елипсоидни, обикновено 6,5–8,5 × 4,5–5,5 µm, неамилоидни.",
+      "habitat": "Плододава върху пънове и заровена дървесина, особено корени на широколистни дървета, главно от юни до ноември; тревните площи могат да скриват дървесния субстрат.",
+      "uses": "Ядлива само с повишено внимание след старателно сготвяне; недостатъчната обработка може да причини тежко стомашно разстройство. Жилавите пънчета често се отстраняват; възможна е индивидуална непоносимост.",
+      "confusion": "Armillaria mellea обикновено има пръстен и лепкава гугла. Отровната Omphalotus illudens е оранжева с гладка гугла. Смъртоносно отровната Galerina marginata има кафяви спори и може да загуби пръстена си.",
+      "notes": "Сходната европейска Desarmillaria tabescens е отделен вид; старите трансатлантически сведения под това име изискват преоценка."
+    },
+    "hr": {
+      "description": "Gljiva koja raste na drvu u istočnoj i središnjoj Sjevernoj Americi, zabilježena i u Meksiku i Kostariki. Stvara guste busene uz podnožja stabala i iznad zatrpanog korijenja, djelujući kao uzročnik bolesti korijena i razlagač mrtvog drva u šumama, voćnjacima i gradskim sredinama.",
+      "cap": "Klobuk je obično širok 3–6 cm, konveksan do ravan ili udubljen, suh, žućkast do žutosmeđ, s tamnijim ljuskicama uglavnom u sredini.",
+      "hymenium": "Listići su prirasli do blago silazni, bjelkasti, poslije ružičasti ili smećkasti; česti su kraći listići.",
+      "stipe": "Stručak je dug 4,5–8 cm i debeo 0,5–1 cm, vlaknast, sužen prema dolje, bez prstena i sa sraslim bazama.",
+      "flesh": "Meso je bjelkasto do vodenasto svijetlosmeđe i ne mijenja boju na prerezu.",
+      "sporePrint": "Otisak spora bijel je do žućkastobijel; spore su glatke, elipsoidne, obično 6,5–8,5 × 4,5–5,5 µm, neamiloidne.",
+      "habitat": "Plodi na panjevima i zatrpanom drvu, osobito korijenju bjelogorice, uglavnom od lipnja do studenoga; travnjaci mogu skrivati drvenu podlogu.",
+      "uses": "Jestiva samo uz oprez nakon temeljite termičke obrade; nedovoljna obrada može prouzročiti ozbiljne želučane tegobe. Žilavi stručci često se odbacuju; moguća je individualna nepodnošljivost.",
+      "confusion": "Armillaria mellea obično ima prsten i ljepljiv klobuk. Otrovna Omphalotus illudens narančasta je i glatkog klobuka. Smrtno otrovna Galerina marginata ima smeđe spore i može izgubiti prsten.",
+      "notes": "Slična europska Desarmillaria tabescens zasebna je vrsta; stariji transatlantski nalazi pod tim imenom zahtijevaju novu procjenu."
+    },
+    "sr": {
+      "description": "Гљива која расте на дрвету у источној и средишњој Северној Америци, забележена и у Мексику и Костарики. Ствара густе бусене уз основе стабала и изнад затрпаног корења, изазива болести корена и разлаже мртво дрво у шумама, воћњацима и градским срединама.",
+      "cap": "Шешир је обично широк 3–6 cm, испупчен до раван или удубљен, сув, жућкаст до жутосмеђ, са тамнијим љуспицама претежно у средини.",
+      "hymenium": "Листићи су прирасли до благо силазни, беличасти, касније ружичасти или смеђкасти; чести су краћи листићи.",
+      "stipe": "Дршка је дуга 4,5–8 cm и дебела 0,5–1 cm, влакнаста, сужена надоле, без прстена и са сраслим основама.",
+      "flesh": "Месо је беличасто до воденасто светлосмеђе и не мења боју на пресеку.",
+      "sporePrint": "Отисак спора је бео до жућкастобео; споре су глатке, елипсоидне, обично 6,5–8,5 × 4,5–5,5 µm, неамилоидне.",
+      "habitat": "Плодоноси на пањевима и затрпаном дрвету, нарочито корењу лишћара, углавном од јуна до новембра; травњаци могу скривати дрвену подлогу.",
+      "uses": "Јестива само уз опрез после темељне термичке обраде; недовољна обрада може изазвати озбиљне желудачне тегобе. Жилаве дршке често се одбацују; могућа је индивидуална неподношљивост.",
+      "confusion": "Armillaria mellea обично има прстен и лепљив шешир. Отровна Omphalotus illudens је наранџаста са глатким шеширом. Смртно отровна Galerina marginata има смеђе споре и може изгубити прстен.",
+      "notes": "Слична европска Desarmillaria tabescens је посебна врста; старији трансатлантски налази под тим именом захтевају поновну процену."
+    },
+    "sl": {
+      "description": "Lesna gliva vzhodnega in osrednjega dela Severne Amerike, zabeležena tudi v Mehiki in Kostariki. Tvori goste šope ob dniščih dreves in nad zakopanimi koreninami ter v gozdovih, sadovnjakih in mestnem okolju povzroča bolezni korenin in razkraja odmrli les.",
+      "cap": "Klobuk je običajno širok 3–6 cm, izbočen do raven ali udrt, suh, rumenkast do rumenorjav, s temnejšimi luskami predvsem na sredini.",
+      "hymenium": "Lističi so prirasli do rahlo porasli po betu, belkasti, pozneje rožnati ali rjavkasti; pogosti so krajši lističi.",
+      "stipe": "Bet je dolg 4,5–8 cm in debel 0,5–1 cm, vlaknat, navzdol zožen, brez obročka in z zraslimi dnišči.",
+      "flesh": "Meso je belkasto do vodeno svetlorjavo in na prerezu ne spremeni barve.",
+      "sporePrint": "Trosni prah je bel do rumenkasto bel; trosi so gladki, elipsoidni, običajno 6,5–8,5 × 4,5–5,5 µm, neamiloidni.",
+      "habitat": "Raste na štorih in zakopanem lesu, predvsem koreninah listavcev, večinoma od junija do novembra; trata lahko prikriva lesno podlago.",
+      "uses": "Užitna le s pridržkom po temeljiti toplotni obdelavi; nezadostna obdelava lahko povzroči hude želodčne težave. Žilave bete pogosto zavržemo; možna je individualna preobčutljivost.",
+      "confusion": "Armillaria mellea ima navadno obroček in lepljiv klobuk. Strupena Omphalotus illudens je oranžna z gladkim klobukom. Smrtno strupena Galerina marginata ima rjave trose in lahko izgubi obroček.",
+      "notes": "Podobna evropska Desarmillaria tabescens je samostojna vrsta; starejše čezatlantske navedbe pod tem imenom zahtevajo ponovno presojo."
+    },
+    "ro": {
+      "description": "O ciupercă lignicolă din estul și centrul Americii de Nord, semnalată și în Mexic și Costa Rica. Formează tufe dense la baza arborilor și deasupra rădăcinilor îngropate, acționând ca agent patogen al rădăcinilor și descompunător al lemnului mort în păduri, livezi și medii urbane.",
+      "cap": "Pălăria are de obicei 3–6 cm lățime, este convexă până la plată sau deprimată, uscată, gălbuie până la brun-ocru, cu solzi mai închiși concentrați în centru.",
+      "hymenium": "Lamelele sunt aderente până la ușor decurente, albicioase, apoi rozalii sau brune; lamelele scurte sunt frecvente.",
+      "stipe": "Piciorul are 4,5–8 cm lungime și 0,5–1 cm grosime, este fibros, îngustat în jos, fără inel și cu bazele concrescute.",
+      "flesh": "Carnea este albicioasă până la brun-deschis apos și nu își schimbă culoarea la tăiere.",
+      "sporePrint": "Amprenta sporală este albă până la alb-gălbuie; sporii sunt netezi, elipsoidali, de obicei 6,5–8,5 × 4,5–5,5 µm, neamiloizi.",
+      "habitat": "Fructifică pe cioate și lemn îngropat, mai ales rădăcini de foioase, în principal din iunie până în noiembrie; gazonul poate ascunde substratul lemnos.",
+      "uses": "Comestibilă numai cu precauție după gătire temeinică; prepararea insuficientă poate provoca tulburări gastrice grave. Picioarele tari sunt adesea aruncate și este posibilă intoleranța individuală.",
+      "confusion": "Armillaria mellea are de obicei inel și pălărie lipicioasă. Omphalotus illudens, otrăvitoare, este portocalie cu pălărie netedă. Galerina marginata, mortală, are spori bruni și își poate pierde inelul.",
+      "notes": "Specia europeană asemănătoare Desarmillaria tabescens este distinctă; vechile înregistrări transatlantice sub acest nume necesită reevaluare."
+    },
+    "hu": {
+      "description": "Észak-Amerika keleti és középső részén élő, fán növő gomba, amelyet Mexikóban és Costa Ricában is feljegyeztek. Sűrű csokrokat alkot a fák tövénél és betemetett gyökerek fölött; erdőkben, gyümölcsösökben és városi környezetben gyökérkórokozóként és az elhalt fa lebontójaként egyaránt él.",
+      "cap": "A kalap rendszerint 3–6 cm széles, domború, majd lapos vagy bemélyedő, száraz, sárgás vagy sárgásbarna, középen tömörülő sötétebb pikkelyekkel.",
+      "hymenium": "A lemezek a tönkhöz nőttek vagy kissé lefutók, fehéresek, később rózsásak vagy barnásak; gyakoriak a rövid lemezek.",
+      "stipe": "A tönk 4,5–8 cm hosszú és 0,5–1 cm vastag, rostos, lefelé keskenyedik, töve összenőtt a szomszédos tönkökével, gallérja nincs.",
+      "flesh": "A hús fehéres vagy vizenyős világosbarna, vágásra nem színeződik el.",
+      "sporePrint": "A spórapor fehér vagy sárgásfehér; a spórák simák, ellipszoidok, rendszerint 6,5–8,5 × 4,5–5,5 µm méretűek, inamiloidok.",
+      "habitat": "Tuskókon és betemetett fán, főleg lombos fák gyökerein terem, elsősorban júniustól novemberig; a gyep elrejtheti a faanyagot.",
+      "uses": "Csak fenntartással, alapos hőkezelés után ehető; az elégtelen hőkezelés súlyos gyomorpanaszokat okozhat. A szívós tönköket gyakran eldobják; egyéni érzékenység előfordulhat.",
+      "confusion": "Az Armillaria mellea rendszerint galléros és ragadós kalapú. A mérgező Omphalotus illudens narancssárga, kalapja sima. A halálosan mérgező Galerina marginata spórái barnák, gallérját elveszítheti.",
+      "notes": "A hasonló európai Desarmillaria tabescens külön faj; az ezen a néven közölt régebbi, az Atlanti-óceán mindkét oldaláról származó adatok felülvizsgálatra szorulnak."
+    },
+    "da": {
+      "description": "En trælevende svamp fra det østlige og centrale Nordamerika, også registreret i Mexico og Costa Rica. Den danner tætte knipper ved træbaser og over begravede rødder og lever både som rodpatogen og nedbryder af dødt ved i skove, frugtplantager og bymiljøer.",
+      "cap": "Hatten er typisk 3–6 cm bred, hvælvet til flad eller nedtrykt, tør, gullig til gulbrun, med mørkere skæl samlet mod midten.",
+      "hymenium": "Lamellerne er tilvoksede til let nedløbende, hvidlige, senere rosa eller brunlige; korte lameller er hyppige.",
+      "stipe": "Stokken er 4,5–8 cm lang og 0,5–1 cm tyk, fibret, tilspidset nedad, uden ring og med sammenvoksede baser.",
+      "flesh": "Kødet er hvidligt til vandet lysebrunt og skifter ikke farve ved gennemskæring.",
+      "sporePrint": "Sporeaftrykket er hvidt til gullighvidt; sporerne er glatte, ellipsoidiske, typisk 6,5–8,5 × 4,5–5,5 µm og inamyloide.",
+      "habitat": "Den frugter på stubbe og begravet ved, især løvtrærødder, hovedsagelig fra juni til november; græsplæner kan skjule træsubstratet.",
+      "uses": "Kun spiselig med forbehold efter grundig tilberedning; utilstrækkelig tilberedning kan give alvorlige maveproblemer. Seje stokke kasseres ofte, og individuel intolerance er mulig.",
+      "confusion": "Armillaria mellea har som regel ring og klæbrig hat. Den giftige Omphalotus illudens er orange med glat hat. Den dødeligt giftige Galerina marginata har brune sporer og kan miste sin ring.",
+      "notes": "Den lignende europæiske Desarmillaria tabescens er en særskilt art; ældre transatlantiske fund under dette navn skal genvurderes."
+    },
+    "no": {
+      "description": "En vedlevende sopp fra østlige og sentrale Nord-Amerika, også registrert i Mexico og Costa Rica. Den danner tette knipper ved stammebaser og over nedgravde røtter, og lever både som rotpatogen og nedbryter av død ved i skoger, frukthager og bymiljøer.",
+      "cap": "Hatten er vanligvis 3–6 cm bred, hvelvet til flat eller nedtrykt, tørr, gulaktig til gulbrun, med mørkere skjell samlet mot midten.",
+      "hymenium": "Skivene er tilvokste til svakt nedløpende, hvitaktige, senere rosa eller brunlige; korte skiver er vanlige.",
+      "stipe": "Stilken er 4,5–8 cm lang og 0,5–1 cm tykk, fibret, avsmalnende nedover, uten ring og med sammenvokste baser.",
+      "flesh": "Kjøttet er hvitaktig til vannaktig lysebrunt og endrer ikke farge ved gjennomskjæring.",
+      "sporePrint": "Sporeavtrykket er hvitt til gulhvitt; sporene er glatte, ellipsoide, vanligvis 6,5–8,5 × 4,5–5,5 µm og inamyloide.",
+      "habitat": "Den fruktifiserer på stubber og nedgravd ved, særlig løvtrerøtter, hovedsakelig fra juni til november; plener kan skjule vedsubstratet.",
+      "uses": "Bare spiselig med forbehold etter grundig varmebehandling; utilstrekkelig tilberedning kan gi alvorlige mageproblemer. Seige stilker kastes ofte, og individuell intoleranse er mulig.",
+      "confusion": "Armillaria mellea har vanligvis ring og klebrig hatt. Den giftige Omphalotus illudens er oransje med glatt hatt. Den dødelig giftige Galerina marginata har brune sporer og kan miste ringen.",
+      "notes": "Den lignende europeiske Desarmillaria tabescens er en egen art; eldre transatlantiske funn under dette navnet må vurderes på nytt."
+    },
+    "sv": {
+      "description": "En vedlevande svamp från östra och centrala Nordamerika, även noterad i Mexiko och Costa Rica. Den bildar täta tuvor vid trädbaser och över begravda rötter och lever både som rotpatogen och nedbrytare av död ved i skogar, fruktodlingar och stadsmiljöer.",
+      "cap": "Hatten är vanligen 3–6 cm bred, välvd till plan eller nedtryckt, torr, gulaktig till gulbrun, med mörkare fjäll samlade mot mitten.",
+      "hymenium": "Skivorna är vidvuxna till svagt nedlöpande, vitaktiga, senare rosa eller brunaktiga; korta skivor är vanliga.",
+      "stipe": "Foten är 4,5–8 cm lång och 0,5–1 cm tjock, fibrig, avsmalnande nedåt, utan ring och med sammanvuxna baser.",
+      "flesh": "Köttet är vitaktigt till vattnigt ljusbrunt och ändrar inte färg vid genomskärning.",
+      "sporePrint": "Sporavtrycket är vitt till gulvitt; sporerna är släta, ellipsoida, vanligen 6,5–8,5 × 4,5–5,5 µm och inamyloida.",
+      "habitat": "Den bildar fruktkroppar på stubbar och begravd ved, särskilt lövträdsrötter, främst från juni till november; gräsmattor kan dölja vedsubstratet.",
+      "uses": "Endast ätlig med förbehåll efter grundlig tillagning; otillräcklig tillagning kan ge allvarliga magbesvär. Sega fötter kasseras ofta och individuell intolerans är möjlig.",
+      "confusion": "Armillaria mellea har vanligen ring och klibbig hatt. Den giftiga Omphalotus illudens är orange med slät hatt. Den dödligt giftiga Galerina marginata har bruna sporer och kan förlora sin ring.",
+      "notes": "Den liknande europeiska Desarmillaria tabescens är en egen art; äldre transatlantiska fynd under det namnet behöver omprövas."
+    },
+    "fi": {
+      "description": "Itäisessä ja keskisessä Pohjois-Amerikassa puulla kasvava sieni, jota on tavattu myös Meksikossa ja Costa Ricassa. Se muodostaa tiheitä kimppuja puiden tyville ja hautautuneiden juurten päälle sekä toimii juurten taudinaiheuttajana ja kuolleen puun lahottajana metsissä, hedelmätarhoissa ja kaupunkiympäristöissä.",
+      "cap": "Lakki on tavallisesti 3–6 cm leveä, kupera, myöhemmin laakea tai painunut, kuiva, kellertävästä kellanruskeaan; tummemmat suomut keskittyvät lakin keskelle.",
+      "hymenium": "Heltat ovat tasatyviset tai hieman johteiset, valkeahkot, myöhemmin punertavat tai ruskehtavat; lyhyitä helttoja on runsaasti.",
+      "stipe": "Jalka on 4,5–8 cm pitkä ja 0,5–1 cm paksu, säikeinen ja alaspäin kapeneva; tyvet ovat yhteenkasvaneet eikä rengasta ole.",
+      "flesh": "Malto on valkeahkoa tai vetisen vaaleanruskeaa eikä muuta väriään leikattaessa.",
+      "sporePrint": "Itiöpöly on valkoista tai kellanvalkoista; itiöt ovat sileitä, ellipsoidisia, tavallisesti 6,5–8,5 × 4,5–5,5 µm ja inamyloidisia.",
+      "habitat": "Itiöemiä kasvaa kannoilla ja hautautuneella puulla, erityisesti lehtipuiden juurilla, pääasiassa kesäkuusta marraskuuhun; nurmikko voi peittää puualustan.",
+      "uses": "Syötävä vain varauksin perusteellisen kypsennyksen jälkeen; riittämätön kypsennys voi aiheuttaa vakavia vatsavaivoja. Sitkeät jalat poistetaan usein, ja yksilöllinen yliherkkyys on mahdollinen.",
+      "confusion": "Armillaria mellea on yleensä renkaallinen ja sen lakki on tahmea. Myrkyllinen Omphalotus illudens on oranssi ja sileälakkinen. Tappavan myrkyllisen Galerina marginata -lajin itiöt ovat ruskeita ja sen rengas voi kadota.",
+      "notes": "Samannäköinen eurooppalainen Desarmillaria tabescens on eri laji; vanhat Atlantin molemmin puolin tällä nimellä ilmoitetut havainnot on arvioitava uudelleen."
+    },
+    "et": {
+      "description": "Puidul kasvav seen Põhja-Ameerika ida- ja keskosast, leitud ka Mehhikost ja Costa Ricast. Moodustab tihedaid kogumikke puude jalamil ja maetud juurte kohal ning toimib juurte haigustekitaja ja surnud puidu lagundajana metsades, viljapuuaedades ja linnakeskkonnas.",
+      "cap": "Kübar on tavaliselt 3–6 cm lai, kumer kuni lame või nõgus, kuiv, kollakas kuni kollakaspruun, keskossa koondunud tumedamate soomustega.",
+      "hymenium": "Eoslehed on jalale külge kasvanud kuni veidi laskuvad, valkjad, hiljem roosakad või pruunikad; lühikesed eoslehed on sagedased.",
+      "stipe": "Jalg on 4,5–8 cm pikk ja 0,5–1 cm paks, kiuline, allapoole ahenev, kokkukasvanud alustega ja rõngata.",
+      "flesh": "Seeneliha on valkjas kuni vesiselt helepruun ega muuda lõikamisel värvi.",
+      "sporePrint": "Eosetolm on valge kuni kollakasvalge; eosed on siledad, ellipsoidsed, tavaliselt 6,5–8,5 × 4,5–5,5 µm ja mitteamüloidsed.",
+      "habitat": "Viljakehad kasvavad kändudel ja maetud puidul, eriti lehtpuujuurtel, peamiselt juunist novembrini; muru võib puitsubstraati varjata.",
+      "uses": "Söödav üksnes ettevaatusega pärast põhjalikku kuumtöötlust; ebapiisav kuumtöötlus võib põhjustada tõsiseid kõhuvaevusi. Sitked jalad visatakse sageli ära ja võimalik on individuaalne talumatus.",
+      "confusion": "Armillaria mellea on tavaliselt rõngaga ja kleepuva kübaraga. Mürgine Omphalotus illudens on oranž ja sileda kübaraga. Surmavalt mürgisel Galerina marginata liigil on pruunid eosed ja rõngas võib kaduda.",
+      "notes": "Sarnane Euroopa Desarmillaria tabescens on eraldi liik; vanad Atlandi-ülesed teated selle nime all vajavad ümberhindamist."
+    },
+    "lv": {
+      "description": "Koksnē augoša sēne no Ziemeļamerikas austrumu un centrālās daļas, konstatēta arī Meksikā un Kostarikā. Veido blīvus cerus pie koku pamatiem un virs apraktām saknēm, izraisot sakņu slimības un noārdot atmirušu koksni mežos, augļu dārzos un pilsētvidē.",
+      "cap": "Cepurīte parasti ir 3–6 cm plata, izliekta līdz plakana vai iedobta, sausa, dzeltenīga līdz dzeltenbrūna, ar tumšākām zvīņām galvenokārt centrā.",
+      "hymenium": "Lapiņas ir pieaugušas līdz nedaudz gar kātiņu nolaidenas, bālganas, vēlāk sārtas vai brūnganas; bieži ir īsākas lapiņas.",
+      "stipe": "Kātiņš ir 4,5–8 cm garš un 0,5–1 cm resns, šķiedrains, uz leju sašaurināts, bez gredzena un ar saaugušām pamatnēm.",
+      "flesh": "Mīkstums ir bālgans līdz ūdeņaini gaišbrūns un griezumā nemaina krāsu.",
+      "sporePrint": "Sporu nospiedums ir balts līdz dzeltenbalts; sporas ir gludas, elipsoidālas, parasti 6,5–8,5 × 4,5–5,5 µm, neamiloīdas.",
+      "habitat": "Augļķermeņi aug uz celmiem un apraktas koksnes, īpaši lapkoku saknēm, galvenokārt no jūnija līdz novembrim; zāliens var slēpt koksnes substrātu.",
+      "uses": "Ēdama tikai ar piesardzību pēc rūpīgas termiskās apstrādes; nepietiekama apstrāde var izraisīt smagus kuņģa darbības traucējumus. Sīkstos kātiņus bieži izmet; iespējama individuāla nepanesība.",
+      "confusion": "Armillaria mellea parasti ir ar gredzenu un lipīgu cepurīti. Indīgā Omphalotus illudens ir oranža ar gludu cepurīti. Nāvējoši indīgajai Galerina marginata ir brūnas sporas, un tā var zaudēt gredzenu.",
+      "notes": "Līdzīgā Eiropas Desarmillaria tabescens ir atsevišķa suga; senākie transatlantiskie ziņojumi ar šo nosaukumu jāpārvērtē."
+    },
+    "lt": {
+      "description": "Medienoje augantis grybas iš rytinės ir centrinės Šiaurės Amerikos dalies, aptiktas ir Meksikoje bei Kosta Rikoje. Sudaro tankias puokštes prie medžių pagrindo ir virš užkastų šaknų, sukelia šaknų ligas ir skaido negyvą medieną miškuose, soduose bei miestų aplinkoje.",
+      "cap": "Kepurėlė paprastai 3–6 cm pločio, išgaubta, vėliau plokščia arba įdubusi, sausa, gelsva iki gelsvai rudos, su tamsesniais žvyneliais daugiausia centre.",
+      "hymenium": "Lakšteliai priaugtiniai arba šiek tiek nuaugtiniai, balkšvi, vėliau rausvi ar rusvi; dažni trumpesni lakšteliai.",
+      "stipe": "Kotas 4,5–8 cm ilgio ir 0,5–1 cm storio, plaušuotas, žemyn siaurėjantis, be žiedo, su suaugusiais pagrindais.",
+      "flesh": "Trama balkšva iki vandeningai šviesiai rudos, perpjauta spalvos nekeičia.",
+      "sporePrint": "Sporų atspaudas baltas iki gelsvai balto; sporos lygios, elipsoidinės, paprastai 6,5–8,5 × 4,5–5,5 µm, neamiloidinės.",
+      "habitat": "Vaisiakūniai auga ant kelmų ir užkastos medienos, ypač lapuočių šaknų, daugiausia nuo birželio iki lapkričio; veja gali slėpti medienos substratą.",
+      "uses": "Valgomas tik atsargiai, gerai termiškai apdorotas; nepakankamas apdorojimas gali sukelti sunkius skrandžio sutrikimus. Kieti kotai dažnai išmetami; galimas individualus netoleravimas.",
+      "confusion": "Armillaria mellea paprastai turi žiedą ir lipnią kepurėlę. Nuodingas Omphalotus illudens yra oranžinis, lygia kepurėle. Mirtinai nuodinga Galerina marginata turi rudas sporas ir gali prarasti žiedą.",
+      "notes": "Panaši europinė Desarmillaria tabescens yra atskira rūšis; senesnius abiejose Atlanto pusėse šiuo vardu skelbtus radinius reikia iš naujo įvertinti."
+    },
+    "tr": {
+      "description": "Kuzey Amerika'nın doğu ve orta kesimlerinde odun üzerinde yaşayan, Meksika ve Kosta Rika'da da kaydedilmiş bir mantardır. Ağaç diplerinde ve gömülü köklerin üzerinde sık kümeler oluşturur; ormanlarda, meyve bahçelerinde ve kentsel ortamlarda hem kök hastalığı etmeni hem de ölü odun ayrıştırıcısıdır.",
+      "cap": "Şapka genellikle 3–6 cm genişliğinde, dışbükeyden düz veya çökük biçime geçen, kuru, sarımsı ile sarımsı kahverengi arasında, merkezde yoğunlaşan daha koyu pulludur.",
+      "hymenium": "Lameller sapa bitişik veya hafifçe inen, beyazımsı, sonraları pembemsi ya da kahverengimsidir; kısa lameller sıktır.",
+      "stipe": "Sap 4,5–8 cm uzunluğunda ve 0,5–1 cm kalınlığında, lifli, aşağı doğru daralan, tabanları birleşik ve halkasızdır.",
+      "flesh": "Etli kısım beyazımsı ile sulu açık kahverengi arasında olup kesildiğinde renk değiştirmez.",
+      "sporePrint": "Spor izi beyaz ile sarımsı beyaz arasındadır; sporlar düzgün, elipsoit, genellikle 6,5–8,5 × 4,5–5,5 µm boyutunda ve amiloit değildir.",
+      "habitat": "Başlıca hazirandan kasıma kadar kütüklerde ve gömülü odunlarda, özellikle geniş yapraklı ağaçların köklerinde meyve verir; çimler odunsu ortamı gizleyebilir.",
+      "uses": "Yalnızca iyice pişirildikten sonra ihtiyatla yenebilir; yetersiz pişirme ciddi mide rahatsızlıklarına yol açabilir. Sert saplar çoğunlukla atılır ve kişisel tahammülsüzlük görülebilir.",
+      "confusion": "Armillaria mellea genellikle halkalı ve yapışkan şapkalıdır. Zehirli Omphalotus illudens turuncu ve düzgün şapkalıdır. Ölümcül Galerina marginata kahverengi sporludur ve halkasını kaybedebilir.",
+      "notes": "Benzer Avrupa türü Desarmillaria tabescens ayrı bir türdür; bu ad altındaki eski transatlantik kayıtların yeniden değerlendirilmesi gerekir."
+    },
+    "ar": {
+      "description": "فطر يعيش على الخشب في شرق أمريكا الشمالية ووسطها، وسُجل أيضًا في المكسيك وكوستاريكا. ينمو في عناقيد كثيفة عند قواعد الأشجار وفوق الجذور المدفونة، ويسبب أمراض الجذور ويحلل الخشب الميت في الغابات والبساتين والبيئات الحضرية.",
+      "cap": "يبلغ عرض القبعة عادة ٣–٦ cm، وتكون محدبة ثم مسطحة أو منخفضة، جافة، مائلة إلى الصفرة أو بنية مصفرة، مع حراشف أدكن تتركز قرب الوسط.",
+      "hymenium": "الصفائح ملتصقة بالساق إلى نازلة قليلًا عليها، مبيضة ثم وردية أو بنية؛ وتكثر الصفائح القصيرة.",
+      "stipe": "يبلغ طول الساق ٤٫٥–٨ cm وسمكها ٠٫٥–١ cm، وهي ليفية تضيق نحو الأسفل، بقواعد ملتحمة ومن دون حلقة.",
+      "flesh": "اللحم مبيض إلى بني فاتح مائي، ولا يتغير لونه عند القطع.",
+      "sporePrint": "طبعة الأبواغ بيضاء إلى بيضاء مصفرة؛ والأبواغ ملساء إهليلجية، تبلغ عادة ٦٫٥–٨٫٥ × ٤٫٥–٥٫٥ µm، وغير أميلويدية.",
+      "habitat": "يثمر على الجذوع المقطوعة والخشب المدفون، خصوصًا جذور الأشجار عريضة الأوراق، أساسًا من يونيو إلى نوفمبر؛ وقد تخفي المروج الركيزة الخشبية.",
+      "uses": "صالح للأكل بحذر فقط بعد الطهي الجيد؛ فالطهي غير الكافي قد يسبب اضطرابات شديدة في المعدة. غالبًا ما تُستبعد السيقان القاسية، وقد يحدث عدم تحمل فردي.",
+      "confusion": "يملك Armillaria mellea عادة حلقة وقبعة لزجة. أما Omphalotus illudens السام فلونه برتقالي وقبعته ملساء. ولدى Galerina marginata القاتل أبواغ بنية، وقد يفقد حلقته.",
+      "notes": "النوع الأوروبي المشابه Desarmillaria tabescens نوع مستقل؛ وتحتاج السجلات القديمة عبر الأطلسي تحت هذا الاسم إلى إعادة تقييم."
+    },
+    "fa": {
+      "description": "قارچی چوب‌زی در شرق و مرکز آمریکای شمالی است که از مکزیک و کاستاریکا نیز گزارش شده است. در پای درختان و روی ریشه‌های مدفون، دسته‌های متراکم تشکیل می‌دهد و در جنگل‌ها، باغ‌های میوه و محیط‌های شهری هم عامل بیماری ریشه و هم تجزیه‌کنندهٔ چوب مرده است.",
+      "cap": "کلاهک معمولاً ۳–۶ cm پهنا دارد، محدب تا تخت یا فرورفته، خشک، زردفام تا قهوه‌ای مایل به زرد است و فلس‌های تیره‌تر آن نزدیک مرکز متمرکزند.",
+      "hymenium": "تیغه‌ها به ساقه چسبیده‌اند یا اندکی روی آن پایین می‌روند؛ سفیدفام‌اند و سپس صورتی یا قهوه‌ای می‌شوند. تیغه‌های کوتاه فراوان‌اند.",
+      "stipe": "ساقه ۴٫۵–۸ cm طول و ۰٫۵–۱ cm ضخامت دارد، الیافی است، به‌سوی پایین باریک می‌شود، پایه‌های به‌هم‌پیوسته دارد و فاقد حلقه است.",
+      "flesh": "گوشت سفیدفام تا قهوه‌ای روشن آبکی است و با بریدن تغییر رنگ نمی‌دهد.",
+      "sporePrint": "نقش هاگ سفید تا سفید مایل به زرد است؛ هاگ‌ها صاف، بیضوی، معمولاً ۶٫۵–۸٫۵ × ۴٫۵–۵٫۵ µm و غیرآمیلوئیدی هستند.",
+      "habitat": "روی کنده‌ها و چوب مدفون، به‌ویژه ریشه‌های درختان پهن‌برگ، عمدتاً از ژوئن تا نوامبر میوه می‌دهد؛ چمن ممکن است بستر چوبی را پنهان کند.",
+      "uses": "فقط با احتیاط و پس از پخت کامل خوراکی است؛ پخت ناکافی می‌تواند ناراحتی شدید معده ایجاد کند. ساقه‌های سفت اغلب دور ریخته می‌شوند و عدم تحمل فردی ممکن است رخ دهد.",
+      "confusion": "Armillaria mellea معمولاً حلقه و کلاهک چسبناک دارد. Omphalotus illudens سمی، نارنجی و دارای کلاهک صاف است. Galerina marginata کشنده، هاگ‌های قهوه‌ای دارد و ممکن است حلقه‌اش را از دست بدهد.",
+      "notes": "گونهٔ مشابه اروپایی Desarmillaria tabescens گونه‌ای مستقل است؛ گزارش‌های قدیمی دو سوی اقیانوس اطلس با این نام نیازمند ارزیابی دوباره‌اند."
+    },
+    "he": {
+      "description": "פטרייה החיה על עץ במזרח ובמרכז אמריקה הצפונית, שתועדה גם במקסיקו ובקוסטה ריקה. היא יוצרת צברים צפופים בבסיסי עצים ומעל שורשים קבורים, ופועלת הן כמחוללת מחלות שורש והן כמפרקת עץ מת ביערות, במטעים ובסביבה העירונית.",
+      "cap": "הכובע בדרך כלל ברוחב 3–6 cm, קמור עד שטוח או שקוע, יבש, צהבהב עד חום צהבהב, ובעל קשקשים כהים יותר המרוכזים סמוך למרכז.",
+      "hymenium": "הדפים מחוברים לרגל עד יורדים עליה מעט, לבנבנים ובהמשך ורדרדים או חומים; דפים קצרים שכיחים.",
+      "stipe": "הרגל באורך 4.5–8 cm ובעובי 0.5–1 cm, סיבית, הולכת וצרה כלפי מטה, עם בסיסים מאוחים וללא טבעת.",
+      "flesh": "הבשר לבנבן עד חום בהיר מימי ואינו משנה צבע בחיתוך.",
+      "sporePrint": "הדפס הנבגים לבן עד לבן צהבהב; הנבגים חלקים, אליפסואידיים, בדרך כלל בגודל 6.5–8.5 × 4.5–5.5 µm, ואינם עמילואידיים.",
+      "habitat": "גופי הפרי מופיעים על גדמים ועץ קבור, בעיקר שורשי עצים רחבי עלים, בעיקר מיוני עד נובמבר; מדשאות עשויות להסתיר את המצע העצי.",
+      "uses": "אכילה רק בזהירות ולאחר בישול יסודי; בישול לא מספיק עלול לגרום להפרעות קיבה קשות. לעיתים קרובות משליכים את הרגליים הקשיחות, וייתכן חוסר סבילות אישי.",
+      "confusion": "למין Armillaria mellea יש בדרך כלל טבעת וכובע דביק. המין הרעיל Omphalotus illudens כתום ובעל כובע חלק. למין הקטלני Galerina marginata נבגים חומים, והוא עלול לאבד את הטבעת.",
+      "notes": "המין האירופי הדומה Desarmillaria tabescens הוא מין נפרד; תיעודים ישנים משני עברי האוקיינוס האטלנטי תחת שם זה דורשים הערכה מחדש."
+    },
+    "hi": {
+      "description": "पूर्वी और मध्य उत्तरी अमेरिका में लकड़ी पर उगने वाला कवक, जो मेक्सिको और कोस्टा रिका में भी दर्ज है। यह पेड़ों के आधार और दबी जड़ों के ऊपर घने गुच्छे बनाता है तथा जंगलों, फलों के बागों और शहरी क्षेत्रों में जड़ों में रोग पैदा करने और मृत लकड़ी को विघटित करने का काम करता है।",
+      "cap": "टोपी आमतौर पर 3–6 cm चौड़ी, उत्तल से सपाट या बीच में धँसी, सूखी, पीली आभा वाली से पीताभ भूरी होती है; गहरे रंग के शल्क केंद्र के पास अधिक होते हैं।",
+      "hymenium": "गिल्स डंठल से जुड़ी या उस पर थोड़ी नीचे उतरती हैं, सफेद आभा वाली और बाद में गुलाबी या भूरी होती हैं; छोटी गिल्स अक्सर मिलती हैं।",
+      "stipe": "डंठल 4.5–8 cm लंबा और 0.5–1 cm मोटा, रेशेदार, नीचे की ओर पतला, जुड़े आधारों वाला और छल्ले रहित होता है।",
+      "flesh": "गूदा सफेद आभा वाला से पानीदार हल्का भूरा होता है और काटने पर रंग नहीं बदलता।",
+      "sporePrint": "बीजाणु छाप सफेद से पीली आभा वाली सफेद होती है; बीजाणु चिकने, दीर्घवृत्ताभ, आमतौर पर 6.5–8.5 × 4.5–5.5 µm और गैर-अमाइलॉइड होते हैं।",
+      "habitat": "यह ठूँठों और दबी लकड़ी, खासकर चौड़ी पत्ती वाले पेड़ों की जड़ों पर मुख्यतः जून से नवंबर तक फलन करता है; घास का मैदान लकड़ी के आधार को छिपा सकता है।",
+      "uses": "अच्छी तरह पकाने के बाद ही सावधानी के साथ खाद्य है; अधपका खाने से पेट की गंभीर परेशानी हो सकती है। कड़े डंठल अक्सर फेंक दिए जाते हैं और कुछ लोगों को व्यक्तिगत असहिष्णुता हो सकती है।",
+      "confusion": "Armillaria mellea में आमतौर पर छल्ला और चिपचिपी टोपी होती है। विषाक्त Omphalotus illudens नारंगी और चिकनी टोपी वाला होता है। घातक Galerina marginata के बीजाणु भूरे होते हैं और उसका छल्ला झड़ सकता है।",
+      "notes": "यूरोप की मिलती-जुलती Desarmillaria tabescens अलग प्रजाति है; अटलांटिक के दोनों ओर इस नाम से दर्ज पुराने अभिलेखों की फिर से जाँच आवश्यक है।"
+    },
+    "id": {
+      "description": "Jamur penghuni kayu dari bagian timur dan tengah Amerika Utara, juga tercatat di Meksiko dan Kosta Rika. Jamur ini membentuk rumpun rapat di pangkal pohon dan di atas akar terpendam, serta menjadi penyebab penyakit akar dan pengurai kayu mati di hutan, kebun buah, dan lingkungan perkotaan.",
+      "cap": "Tudung biasanya selebar 3–6 cm, cembung hingga mendatar atau cekung, kering, kekuningan hingga cokelat kekuningan, dengan sisik lebih gelap yang terkumpul di dekat pusat.",
+      "hymenium": "Lamela melekat hingga sedikit menurun pada tangkai, keputihan lalu merah muda atau kecokelatan; lamela pendek sering dijumpai.",
+      "stipe": "Tangkai sepanjang 4,5–8 cm dan setebal 0,5–1 cm, berserat, meruncing ke bawah, berpangkal menyatu, dan tidak bercincin.",
+      "flesh": "Daging berwarna keputihan hingga cokelat muda berair dan tidak berubah warna saat dipotong.",
+      "sporePrint": "Jejak spora berwarna putih hingga putih kekuningan; spora halus, elipsoid, biasanya 6,5–8,5 × 4,5–5,5 µm, dan tidak amiloid.",
+      "habitat": "Tubuh buah muncul pada tunggul dan kayu terpendam, terutama akar pohon berdaun lebar, terutama dari Juni hingga November; halaman berumput dapat menyembunyikan substrat kayu.",
+      "uses": "Dapat dimakan hanya dengan hati-hati setelah dimasak hingga matang sempurna; pemasakan yang tidak memadai dapat menyebabkan gangguan lambung serius. Tangkai liat sering dibuang dan intoleransi individu dapat terjadi.",
+      "confusion": "Armillaria mellea biasanya memiliki cincin dan tudung lengket. Omphalotus illudens yang beracun berwarna jingga dengan tudung halus. Galerina marginata yang mematikan memiliki spora cokelat dan dapat kehilangan cincinnya.",
+      "notes": "Desarmillaria tabescens dari Eropa yang tampak serupa merupakan spesies tersendiri; catatan lama dari kedua sisi Atlantik dengan nama itu perlu dinilai ulang."
+    },
+    "ja": {
+      "description": "北アメリカ東部と中央部の木材に生育する菌で、メキシコとコスタリカでも記録されています。樹木の根元や埋もれた根の上に密な株を作り、森林、果樹園、都市環境で根の病原菌と枯死木材の分解者の両方として働きます。",
+      "cap": "傘は通常幅3–6 cmで、凸形から平らまたはくぼんだ形になり、乾燥し、黄色がかった色から黄褐色です。中央付近に濃色の鱗片が集まります。",
+      "hymenium": "ひだは直生からやや垂生で、白っぽく、後に桃色や褐色を帯びます。短いひだが多く見られます。",
+      "stipe": "柄は長さ4.5–8 cm、太さ0.5–1 cmで、繊維質、下方へ細まり、基部が互いに癒合し、つばはありません。",
+      "flesh": "肉は白っぽい色から水っぽい淡褐色で、切っても変色しません。",
+      "sporePrint": "胞子紋は白色から黄白色です。胞子は平滑な楕円体で、通常6.5–8.5 × 4.5–5.5 µm、非アミロイドです。",
+      "habitat": "主に6月から11月に、切り株や埋もれた木材、特に広葉樹の根に発生します。芝生では木質の基質が隠れていることがあります。",
+      "uses": "十分に加熱した場合に限り、注意を要する食用菌です。加熱不足では重い胃の不調を起こすことがあります。硬い柄はよく取り除かれ、個人によっては不耐性があります。",
+      "confusion": "Armillaria melleaは通常つばがあり、傘に粘りがあります。有毒なOmphalotus illudensは橙色で傘が平滑です。致死的なGalerina marginataは褐色の胞子を持ち、つばが失われることがあります。",
+      "notes": "よく似たヨーロッパのDesarmillaria tabescensは別種です。この名で記録された古い大西洋両岸の資料は再検討が必要です。"
+    },
+    "ko": {
+      "description": "북아메리카 동부와 중부에서 나무에 자라며 멕시코와 코스타리카에서도 기록된 균류입니다. 나무 밑동과 묻힌 뿌리 위에 빽빽한 무리를 이루고, 숲과 과수원 및 도시 환경에서 뿌리 병원균이자 죽은 나무의 분해자로 살아갑니다.",
+      "cap": "갓은 보통 너비 3–6 cm이며 볼록하다가 편평해지거나 오목해집니다. 표면은 건조하고 누르스름한 색에서 황갈색을 띠며, 더 짙은 인편이 중앙 부근에 모여 있습니다.",
+      "hymenium": "주름살은 대에 붙거나 약간 내리붙으며, 희끄무레하다가 분홍빛이나 갈색을 띱니다. 짧은 주름살이 흔합니다.",
+      "stipe": "대는 길이 4.5–8 cm, 굵기 0.5–1 cm이고 섬유질이며 아래로 가늘어집니다. 밑부분이 서로 붙어 있고 턱받이는 없습니다.",
+      "flesh": "살은 희끄무레한 색에서 물기 있는 연한 갈색이며, 잘라도 변색하지 않습니다.",
+      "sporePrint": "포자문은 흰색에서 황백색입니다. 포자는 매끄러운 타원체이고 보통 6.5–8.5 × 4.5–5.5 µm이며 비아밀로이드성입니다.",
+      "habitat": "주로 6월부터 11월까지 그루터기와 묻힌 나무, 특히 활엽수 뿌리에서 발생합니다. 잔디밭에서는 목질 기질이 가려질 수 있습니다.",
+      "uses": "충분히 익힌 뒤에만 주의해서 먹을 수 있습니다. 덜 익히면 심한 위장 장애를 일으킬 수 있습니다. 질긴 대는 흔히 버리며 개인에 따라 불내성이 나타날 수 있습니다.",
+      "confusion": "Armillaria mellea는 보통 턱받이가 있고 갓이 끈적합니다. 독버섯 Omphalotus illudens는 주황색이며 갓이 매끄럽습니다. 치명적인 Galerina marginata는 갈색 포자가 있고 턱받이가 사라질 수 있습니다.",
+      "notes": "비슷하게 생긴 유럽의 Desarmillaria tabescens는 별개의 종입니다. 이 이름으로 기록된 과거 대서양 양안의 자료는 재검토가 필요합니다."
+    },
+    "zh": {
+      "description": "一種生長於北美洲東部與中部木材上的真菌，墨西哥與哥斯大黎加也有紀錄。它在樹基與埋藏的根部上方密集叢生，在森林、果園及都市環境中既是根部病原菌，也能分解枯死木材。",
+      "cap": "菌蓋通常寬3–6 cm，由凸形變為平展或凹陷，乾燥，淡黃色至黃褐色，中央附近集中著較深色的鱗片。",
+      "hymenium": "菌褶直生至略為延生，初為略帶白色，後轉為粉紅色或褐色；短菌褶常見。",
+      "stipe": "菌柄長4.5–8 cm、粗0.5–1 cm，具纖維質，向下漸細，基部相互癒合，沒有菌環。",
+      "flesh": "菌肉略帶白色至水浸狀淡褐色，切開後不變色。",
+      "sporePrint": "孢子印白色至淡黃白色；孢子平滑、橢球形，通常為6.5–8.5 × 4.5–5.5 µm，非澱粉質。",
+      "habitat": "主要於6月至11月在樹樁與埋藏木材上出菇，尤其是闊葉樹根部；草坪可能遮住其木質基質。",
+      "uses": "僅在充分煮熟後才可謹慎食用；烹煮不足可能造成嚴重胃部不適。堅韌的菌柄常被丟棄，個人也可能出現不耐受反應。",
+      "confusion": "Armillaria mellea通常具有菌環且菌蓋黏。有毒的Omphalotus illudens呈橙色，菌蓋平滑。劇毒致命的Galerina marginata具有褐色孢子，菌環也可能脫落。",
+      "notes": "外觀相似的歐洲Desarmillaria tabescens是另一個物種；過去以此名稱記錄的大西洋兩岸資料需要重新評估。"
+    }
+  },
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Desarmillaria_caespitosa/Desarmillaria_caespitosa@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Desarmillaria_caespitosa/Desarmillaria_caespitosa@400.webp",
+  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Desarmillaria_caespitosa/Desarmillaria_caespitosa@1600.webp",
+  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Desarmillaria_caespitosa/Desarmillaria_caespitosa@400.webp",
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Agaricales/Physalacriaceae/Desarmillaria_caespitosa/Desarmillaria_caespitosa@1600.webp",
+      "author": null,
+      "license": "unverified user-supplied artwork",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Desarmillaria_caespitosa/Desarmillaria_caespitosa@1600.webp",
+      "sourceDescription": "Owner-supplied Desarmillaria caespitosa.png; unverified artist/rights/species attribution; no readable signature. Reviewed clipping and stylized gill caveats retained in illustrationProvenance."
+    },
+    {
+      "role": "photo",
+      "path": "photos/Agaricales/Physalacriaceae/Desarmillaria_caespitosa/photo_1.webp",
+      "author": "natalie",
+      "authorCaveat": "observation uploader; photo record CC0 attribution says no rights reserved",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/101656611"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Agaricales/Physalacriaceae/Desarmillaria_caespitosa/photo_2.webp",
+      "author": "Nonbinary-Naturalist",
+      "authorCaveat": "observation uploader; photo record CC0 attribution says no rights reserved",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/246013350"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Agaricales/Physalacriaceae/Desarmillaria_caespitosa/photo_3.webp",
+      "author": "fritzsche03",
+      "authorCaveat": "observation uploader; photo record CC0 attribution says no rights reserved",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/311491739"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Agaricales/Physalacriaceae/Desarmillaria_caespitosa/photo_4.webp",
+      "author": "Karen McCabe",
+      "authorCaveat": "observation uploader; photo record CC0 attribution says no rights reserved",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/241619703"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Agaricales/Physalacriaceae/Desarmillaria_caespitosa/photo_5.webp",
+      "author": "Karen McCabe",
+      "authorCaveat": "observation uploader; photo record CC0 attribution says no rights reserved",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/243070526"
+    }
+  ],
+  "illustrationProvenance": {
+    "sourceDimensions": [
+      896,
+      1200
+    ],
+    "sourceSha256": "2fdb16b6ca8dc079ec2fad284cbc58374b79deb065b00a096b550626ab0418fc",
+    "foregroundBBox": [
+      16,
+      529,
+      895,
+      1182
+    ],
+    "uniformScale": 1.5927189988623436,
+    "components": 8,
+    "interiorRGB": "unchanged source RGB in specimens_alpha.png; resize only for plate",
+    "provenance": "User supplied file; artist, redistribution rights and species attribution not verified. No signature added.",
+    "caveats": [
+      "Original right edge already clips a cap; no reconstruction performed.",
+      "Strongly stylized decurrent gills and two isolated sections require anatomical review.",
+      "No readable artist signature apparent in supplied image."
+    ],
+    "tool": "Pillow/NumPy/SciPy deterministic alpha extraction, no generation"
+  },
+  "plateCredit": {
+    "author": "",
+    "credit": "Owner-supplied artwork; artist and redistribution rights unverified; reviewed original clipping/stylized gills, no added signature.",
+    "license": "unverified user-supplied artwork",
+    "licenseUrl": "",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Desarmillaria_caespitosa/Desarmillaria_caespitosa@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Desarmillaria_caespitosa/photo_1.webp",
+      "author": "natalie",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/101656611"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Desarmillaria_caespitosa/photo_2.webp",
+      "author": "Nonbinary-Naturalist",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/246013350"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Desarmillaria_caespitosa/photo_3.webp",
+      "author": "fritzsche03",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/311491739"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Desarmillaria_caespitosa/photo_4.webp",
+      "author": "Karen McCabe",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/241619703"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Desarmillaria_caespitosa/photo_5.webp",
+      "author": "Karen McCabe",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/243070526"
+    }
+  ],
+  "label": {
+    "en": "ringless honey mushroom"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [],
+    "en": [],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "ar": [
+      "https://mdc.mo.gov/discover-nature/field-guide/ringless-honey-mushroom",
+      "https://www.mushroomexpert.com/armillaria_tabescens.html",
+      "https://doi.org/10.1080/00275514.2021.1890969",
+      "https://www.researchgate.net/publication/351230895_Desarmillaria_caespitosa_a_North_American_vicariant_of_D_tabescens",
+      "https://www.indexfungorum.org/names/namesrecord.asp?RecordID=837370",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=837370",
+      "https://api.gbif.org/v1/species/12258431"
+    ],
+    "bg": [
+      "https://mdc.mo.gov/discover-nature/field-guide/ringless-honey-mushroom",
+      "https://www.mushroomexpert.com/armillaria_tabescens.html",
+      "https://doi.org/10.1080/00275514.2021.1890969",
+      "https://www.researchgate.net/publication/351230895_Desarmillaria_caespitosa_a_North_American_vicariant_of_D_tabescens",
+      "https://www.indexfungorum.org/names/namesrecord.asp?RecordID=837370",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=837370",
+      "https://api.gbif.org/v1/species/12258431"
+    ],
+    "cs": [
+      "https://mdc.mo.gov/discover-nature/field-guide/ringless-honey-mushroom",
+      "https://www.mushroomexpert.com/armillaria_tabescens.html",
+      "https://doi.org/10.1080/00275514.2021.1890969",
+      "https://www.researchgate.net/publication/351230895_Desarmillaria_caespitosa_a_North_American_vicariant_of_D_tabescens",
+      "https://www.indexfungorum.org/names/namesrecord.asp?RecordID=837370",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=837370",
+      "https://api.gbif.org/v1/species/12258431"
+    ],
+    "da": [
+      "https://mdc.mo.gov/discover-nature/field-guide/ringless-honey-mushroom",
+      "https://www.mushroomexpert.com/armillaria_tabescens.html",
+      "https://doi.org/10.1080/00275514.2021.1890969",
+      "https://www.researchgate.net/publication/351230895_Desarmillaria_caespitosa_a_North_American_vicariant_of_D_tabescens",
+      "https://www.indexfungorum.org/names/namesrecord.asp?RecordID=837370",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=837370",
+      "https://api.gbif.org/v1/species/12258431"
+    ],
+    "de": [
+      "https://mdc.mo.gov/discover-nature/field-guide/ringless-honey-mushroom",
+      "https://www.mushroomexpert.com/armillaria_tabescens.html",
+      "https://doi.org/10.1080/00275514.2021.1890969",
+      "https://www.researchgate.net/publication/351230895_Desarmillaria_caespitosa_a_North_American_vicariant_of_D_tabescens",
+      "https://www.indexfungorum.org/names/namesrecord.asp?RecordID=837370",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=837370",
+      "https://api.gbif.org/v1/species/12258431"
+    ],
+    "en": [
+      "https://mdc.mo.gov/discover-nature/field-guide/ringless-honey-mushroom",
+      "https://www.mushroomexpert.com/armillaria_tabescens.html",
+      "https://doi.org/10.1080/00275514.2021.1890969",
+      "https://www.researchgate.net/publication/351230895_Desarmillaria_caespitosa_a_North_American_vicariant_of_D_tabescens",
+      "https://www.indexfungorum.org/names/namesrecord.asp?RecordID=837370",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=837370",
+      "https://api.gbif.org/v1/species/12258431"
+    ],
+    "es": [
+      "https://mdc.mo.gov/discover-nature/field-guide/ringless-honey-mushroom",
+      "https://www.mushroomexpert.com/armillaria_tabescens.html",
+      "https://doi.org/10.1080/00275514.2021.1890969",
+      "https://www.researchgate.net/publication/351230895_Desarmillaria_caespitosa_a_North_American_vicariant_of_D_tabescens",
+      "https://www.indexfungorum.org/names/namesrecord.asp?RecordID=837370",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=837370",
+      "https://api.gbif.org/v1/species/12258431"
+    ],
+    "et": [
+      "https://mdc.mo.gov/discover-nature/field-guide/ringless-honey-mushroom",
+      "https://www.mushroomexpert.com/armillaria_tabescens.html",
+      "https://doi.org/10.1080/00275514.2021.1890969",
+      "https://www.researchgate.net/publication/351230895_Desarmillaria_caespitosa_a_North_American_vicariant_of_D_tabescens",
+      "https://www.indexfungorum.org/names/namesrecord.asp?RecordID=837370",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=837370",
+      "https://api.gbif.org/v1/species/12258431"
+    ],
+    "fa": [
+      "https://mdc.mo.gov/discover-nature/field-guide/ringless-honey-mushroom",
+      "https://www.mushroomexpert.com/armillaria_tabescens.html",
+      "https://doi.org/10.1080/00275514.2021.1890969",
+      "https://www.researchgate.net/publication/351230895_Desarmillaria_caespitosa_a_North_American_vicariant_of_D_tabescens",
+      "https://www.indexfungorum.org/names/namesrecord.asp?RecordID=837370",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=837370",
+      "https://api.gbif.org/v1/species/12258431"
+    ],
+    "fi": [
+      "https://mdc.mo.gov/discover-nature/field-guide/ringless-honey-mushroom",
+      "https://www.mushroomexpert.com/armillaria_tabescens.html",
+      "https://doi.org/10.1080/00275514.2021.1890969",
+      "https://www.researchgate.net/publication/351230895_Desarmillaria_caespitosa_a_North_American_vicariant_of_D_tabescens",
+      "https://www.indexfungorum.org/names/namesrecord.asp?RecordID=837370",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=837370",
+      "https://api.gbif.org/v1/species/12258431"
+    ],
+    "fr": [
+      "https://mdc.mo.gov/discover-nature/field-guide/ringless-honey-mushroom",
+      "https://www.mushroomexpert.com/armillaria_tabescens.html",
+      "https://doi.org/10.1080/00275514.2021.1890969",
+      "https://www.researchgate.net/publication/351230895_Desarmillaria_caespitosa_a_North_American_vicariant_of_D_tabescens",
+      "https://www.indexfungorum.org/names/namesrecord.asp?RecordID=837370",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=837370",
+      "https://api.gbif.org/v1/species/12258431"
+    ],
+    "he": [
+      "https://mdc.mo.gov/discover-nature/field-guide/ringless-honey-mushroom",
+      "https://www.mushroomexpert.com/armillaria_tabescens.html",
+      "https://doi.org/10.1080/00275514.2021.1890969",
+      "https://www.researchgate.net/publication/351230895_Desarmillaria_caespitosa_a_North_American_vicariant_of_D_tabescens",
+      "https://www.indexfungorum.org/names/namesrecord.asp?RecordID=837370",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=837370",
+      "https://api.gbif.org/v1/species/12258431"
+    ],
+    "hi": [
+      "https://mdc.mo.gov/discover-nature/field-guide/ringless-honey-mushroom",
+      "https://www.mushroomexpert.com/armillaria_tabescens.html",
+      "https://doi.org/10.1080/00275514.2021.1890969",
+      "https://www.researchgate.net/publication/351230895_Desarmillaria_caespitosa_a_North_American_vicariant_of_D_tabescens",
+      "https://www.indexfungorum.org/names/namesrecord.asp?RecordID=837370",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=837370",
+      "https://api.gbif.org/v1/species/12258431"
+    ],
+    "hr": [
+      "https://mdc.mo.gov/discover-nature/field-guide/ringless-honey-mushroom",
+      "https://www.mushroomexpert.com/armillaria_tabescens.html",
+      "https://doi.org/10.1080/00275514.2021.1890969",
+      "https://www.researchgate.net/publication/351230895_Desarmillaria_caespitosa_a_North_American_vicariant_of_D_tabescens",
+      "https://www.indexfungorum.org/names/namesrecord.asp?RecordID=837370",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=837370",
+      "https://api.gbif.org/v1/species/12258431"
+    ],
+    "hu": [
+      "https://mdc.mo.gov/discover-nature/field-guide/ringless-honey-mushroom",
+      "https://www.mushroomexpert.com/armillaria_tabescens.html",
+      "https://doi.org/10.1080/00275514.2021.1890969",
+      "https://www.researchgate.net/publication/351230895_Desarmillaria_caespitosa_a_North_American_vicariant_of_D_tabescens",
+      "https://www.indexfungorum.org/names/namesrecord.asp?RecordID=837370",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=837370",
+      "https://api.gbif.org/v1/species/12258431"
+    ],
+    "id": [
+      "https://mdc.mo.gov/discover-nature/field-guide/ringless-honey-mushroom",
+      "https://www.mushroomexpert.com/armillaria_tabescens.html",
+      "https://doi.org/10.1080/00275514.2021.1890969",
+      "https://www.researchgate.net/publication/351230895_Desarmillaria_caespitosa_a_North_American_vicariant_of_D_tabescens",
+      "https://www.indexfungorum.org/names/namesrecord.asp?RecordID=837370",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=837370",
+      "https://api.gbif.org/v1/species/12258431"
+    ],
+    "it": [
+      "https://mdc.mo.gov/discover-nature/field-guide/ringless-honey-mushroom",
+      "https://www.mushroomexpert.com/armillaria_tabescens.html",
+      "https://doi.org/10.1080/00275514.2021.1890969",
+      "https://www.researchgate.net/publication/351230895_Desarmillaria_caespitosa_a_North_American_vicariant_of_D_tabescens",
+      "https://www.indexfungorum.org/names/namesrecord.asp?RecordID=837370",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=837370",
+      "https://api.gbif.org/v1/species/12258431"
+    ],
+    "ja": [
+      "https://mdc.mo.gov/discover-nature/field-guide/ringless-honey-mushroom",
+      "https://www.mushroomexpert.com/armillaria_tabescens.html",
+      "https://doi.org/10.1080/00275514.2021.1890969",
+      "https://www.researchgate.net/publication/351230895_Desarmillaria_caespitosa_a_North_American_vicariant_of_D_tabescens",
+      "https://www.indexfungorum.org/names/namesrecord.asp?RecordID=837370",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=837370",
+      "https://api.gbif.org/v1/species/12258431"
+    ],
+    "ko": [
+      "https://mdc.mo.gov/discover-nature/field-guide/ringless-honey-mushroom",
+      "https://www.mushroomexpert.com/armillaria_tabescens.html",
+      "https://doi.org/10.1080/00275514.2021.1890969",
+      "https://www.researchgate.net/publication/351230895_Desarmillaria_caespitosa_a_North_American_vicariant_of_D_tabescens",
+      "https://www.indexfungorum.org/names/namesrecord.asp?RecordID=837370",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=837370",
+      "https://api.gbif.org/v1/species/12258431"
+    ],
+    "lt": [
+      "https://mdc.mo.gov/discover-nature/field-guide/ringless-honey-mushroom",
+      "https://www.mushroomexpert.com/armillaria_tabescens.html",
+      "https://doi.org/10.1080/00275514.2021.1890969",
+      "https://www.researchgate.net/publication/351230895_Desarmillaria_caespitosa_a_North_American_vicariant_of_D_tabescens",
+      "https://www.indexfungorum.org/names/namesrecord.asp?RecordID=837370",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=837370",
+      "https://api.gbif.org/v1/species/12258431"
+    ],
+    "lv": [
+      "https://mdc.mo.gov/discover-nature/field-guide/ringless-honey-mushroom",
+      "https://www.mushroomexpert.com/armillaria_tabescens.html",
+      "https://doi.org/10.1080/00275514.2021.1890969",
+      "https://www.researchgate.net/publication/351230895_Desarmillaria_caespitosa_a_North_American_vicariant_of_D_tabescens",
+      "https://www.indexfungorum.org/names/namesrecord.asp?RecordID=837370",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=837370",
+      "https://api.gbif.org/v1/species/12258431"
+    ],
+    "nl": [
+      "https://mdc.mo.gov/discover-nature/field-guide/ringless-honey-mushroom",
+      "https://www.mushroomexpert.com/armillaria_tabescens.html",
+      "https://doi.org/10.1080/00275514.2021.1890969",
+      "https://www.researchgate.net/publication/351230895_Desarmillaria_caespitosa_a_North_American_vicariant_of_D_tabescens",
+      "https://www.indexfungorum.org/names/namesrecord.asp?RecordID=837370",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=837370",
+      "https://api.gbif.org/v1/species/12258431"
+    ],
+    "no": [
+      "https://mdc.mo.gov/discover-nature/field-guide/ringless-honey-mushroom",
+      "https://www.mushroomexpert.com/armillaria_tabescens.html",
+      "https://doi.org/10.1080/00275514.2021.1890969",
+      "https://www.researchgate.net/publication/351230895_Desarmillaria_caespitosa_a_North_American_vicariant_of_D_tabescens",
+      "https://www.indexfungorum.org/names/namesrecord.asp?RecordID=837370",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=837370",
+      "https://api.gbif.org/v1/species/12258431"
+    ],
+    "pl": [
+      "https://mdc.mo.gov/discover-nature/field-guide/ringless-honey-mushroom",
+      "https://www.mushroomexpert.com/armillaria_tabescens.html",
+      "https://doi.org/10.1080/00275514.2021.1890969",
+      "https://www.researchgate.net/publication/351230895_Desarmillaria_caespitosa_a_North_American_vicariant_of_D_tabescens",
+      "https://www.indexfungorum.org/names/namesrecord.asp?RecordID=837370",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=837370",
+      "https://api.gbif.org/v1/species/12258431"
+    ],
+    "pt": [
+      "https://mdc.mo.gov/discover-nature/field-guide/ringless-honey-mushroom",
+      "https://www.mushroomexpert.com/armillaria_tabescens.html",
+      "https://doi.org/10.1080/00275514.2021.1890969",
+      "https://www.researchgate.net/publication/351230895_Desarmillaria_caespitosa_a_North_American_vicariant_of_D_tabescens",
+      "https://www.indexfungorum.org/names/namesrecord.asp?RecordID=837370",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=837370",
+      "https://api.gbif.org/v1/species/12258431"
+    ],
+    "ro": [
+      "https://mdc.mo.gov/discover-nature/field-guide/ringless-honey-mushroom",
+      "https://www.mushroomexpert.com/armillaria_tabescens.html",
+      "https://doi.org/10.1080/00275514.2021.1890969",
+      "https://www.researchgate.net/publication/351230895_Desarmillaria_caespitosa_a_North_American_vicariant_of_D_tabescens",
+      "https://www.indexfungorum.org/names/namesrecord.asp?RecordID=837370",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=837370",
+      "https://api.gbif.org/v1/species/12258431"
+    ],
+    "ru": [
+      "https://mdc.mo.gov/discover-nature/field-guide/ringless-honey-mushroom",
+      "https://www.mushroomexpert.com/armillaria_tabescens.html",
+      "https://doi.org/10.1080/00275514.2021.1890969",
+      "https://www.researchgate.net/publication/351230895_Desarmillaria_caespitosa_a_North_American_vicariant_of_D_tabescens",
+      "https://www.indexfungorum.org/names/namesrecord.asp?RecordID=837370",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=837370",
+      "https://api.gbif.org/v1/species/12258431"
+    ],
+    "sk": [
+      "https://mdc.mo.gov/discover-nature/field-guide/ringless-honey-mushroom",
+      "https://www.mushroomexpert.com/armillaria_tabescens.html",
+      "https://doi.org/10.1080/00275514.2021.1890969",
+      "https://www.researchgate.net/publication/351230895_Desarmillaria_caespitosa_a_North_American_vicariant_of_D_tabescens",
+      "https://www.indexfungorum.org/names/namesrecord.asp?RecordID=837370",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=837370",
+      "https://api.gbif.org/v1/species/12258431"
+    ],
+    "sl": [
+      "https://mdc.mo.gov/discover-nature/field-guide/ringless-honey-mushroom",
+      "https://www.mushroomexpert.com/armillaria_tabescens.html",
+      "https://doi.org/10.1080/00275514.2021.1890969",
+      "https://www.researchgate.net/publication/351230895_Desarmillaria_caespitosa_a_North_American_vicariant_of_D_tabescens",
+      "https://www.indexfungorum.org/names/namesrecord.asp?RecordID=837370",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=837370",
+      "https://api.gbif.org/v1/species/12258431"
+    ],
+    "sr": [
+      "https://mdc.mo.gov/discover-nature/field-guide/ringless-honey-mushroom",
+      "https://www.mushroomexpert.com/armillaria_tabescens.html",
+      "https://doi.org/10.1080/00275514.2021.1890969",
+      "https://www.researchgate.net/publication/351230895_Desarmillaria_caespitosa_a_North_American_vicariant_of_D_tabescens",
+      "https://www.indexfungorum.org/names/namesrecord.asp?RecordID=837370",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=837370",
+      "https://api.gbif.org/v1/species/12258431"
+    ],
+    "sv": [
+      "https://mdc.mo.gov/discover-nature/field-guide/ringless-honey-mushroom",
+      "https://www.mushroomexpert.com/armillaria_tabescens.html",
+      "https://doi.org/10.1080/00275514.2021.1890969",
+      "https://www.researchgate.net/publication/351230895_Desarmillaria_caespitosa_a_North_American_vicariant_of_D_tabescens",
+      "https://www.indexfungorum.org/names/namesrecord.asp?RecordID=837370",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=837370",
+      "https://api.gbif.org/v1/species/12258431"
+    ],
+    "tr": [
+      "https://mdc.mo.gov/discover-nature/field-guide/ringless-honey-mushroom",
+      "https://www.mushroomexpert.com/armillaria_tabescens.html",
+      "https://doi.org/10.1080/00275514.2021.1890969",
+      "https://www.researchgate.net/publication/351230895_Desarmillaria_caespitosa_a_North_American_vicariant_of_D_tabescens",
+      "https://www.indexfungorum.org/names/namesrecord.asp?RecordID=837370",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=837370",
+      "https://api.gbif.org/v1/species/12258431"
+    ],
+    "uk": [
+      "https://mdc.mo.gov/discover-nature/field-guide/ringless-honey-mushroom",
+      "https://www.mushroomexpert.com/armillaria_tabescens.html",
+      "https://doi.org/10.1080/00275514.2021.1890969",
+      "https://www.researchgate.net/publication/351230895_Desarmillaria_caespitosa_a_North_American_vicariant_of_D_tabescens",
+      "https://www.indexfungorum.org/names/namesrecord.asp?RecordID=837370",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=837370",
+      "https://api.gbif.org/v1/species/12258431"
+    ],
+    "zh": [
+      "https://mdc.mo.gov/discover-nature/field-guide/ringless-honey-mushroom",
+      "https://www.mushroomexpert.com/armillaria_tabescens.html",
+      "https://doi.org/10.1080/00275514.2021.1890969",
+      "https://www.researchgate.net/publication/351230895_Desarmillaria_caespitosa_a_North_American_vicariant_of_D_tabescens",
+      "https://www.indexfungorum.org/names/namesrecord.asp?RecordID=837370",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=837370",
+      "https://api.gbif.org/v1/species/12258431"
+    ]
+  }
 }
 ];
