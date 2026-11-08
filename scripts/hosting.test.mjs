@@ -17,6 +17,19 @@ const TEMPLATE = `<!DOCTYPE html>
 </html>
 `;
 
+test('app-ads.txt authorizes the AdMob publishers at the site root', () => {
+  const text = fs.readFileSync(new URL('../public/app-ads.txt', import.meta.url), 'utf8');
+  const lines = text.split('\n').filter((line) => line.length > 0);
+  assert.equal(text.includes('\r'), false);
+  assert.equal(text.endsWith('\n'), true);
+  assert.equal(lines.length, 65);
+  assert.equal(lines[0], 'google.com, pub-9168609554680870, DIRECT, f08c47fec0942fa0');
+  assert.equal(lines.includes('google.com, pub-4417568961191754, DIRECT, f08c47fec0942fa0'), false);
+  assert.equal(lines.includes('facebook.com, 4375977579095780, DIRECT, c3e20eee3f780d68'), true);
+  assert.equal(lines.includes('applovin.com, 14a548bbdba6c5ed4fab178013d2af86, DIRECT'), true);
+  assert.equal(lines.at(-1), 'rubiconproject.com, 17328, RESELLER, 0bfd66d529a55807');
+});
+
 test('hosting does not rewrite unknown paths onto the app shell', () => {
   const hosting = JSON.parse(fs.readFileSync(new URL('../firebase.json', import.meta.url), 'utf8')).hosting;
   assert.equal(hosting.public, 'build');
