@@ -869,5 +869,15 @@ export const TAXA = {
   },
   Desarmillaria: {
     rank: "genus"
+  },
+  Rhodotus: {
+    rank: "genus"
+  },
+  Pluteaceae: {
+    rank: "family",
+    lv: "jumteņu dzimta"
+  },
+  Pluteus: {
+    rank: "genus"
   }
 };

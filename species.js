@@ -134039,5 +134039,3917 @@ export const CATALOG = [
       "https://api.gbif.org/v1/species/2549725"
     ]
   }
+},
+{
+  "name": "Rhodotus palmatus",
+  "author": "(Bull.) Maire",
+  "citation": "Bull. Trimestriel Soc. Mycol. France 40(4): 308 (1926) [1924]",
+  "edibility": "inedible",
+  "hymenium": "gills",
+  "where": [
+    "wood"
+  ],
+  "color": [
+    "red",
+    "yellow"
+  ],
+  "capFrom": 3,
+  "capTo": 10,
+  "stipeHeightFrom": 3,
+  "stipeHeightTo": 7,
+  "stipeThickFrom": 1,
+  "stipeThickTo": 1.5,
+  "id": 137,
+  "added": "2026-11-08",
+  "family": "Physalacriaceae",
+  "genus": "Rhodotus",
+  "order": "Agaricales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Agaricales",
+    "Physalacriaceae",
+    "Rhodotus"
+  ],
+  "summary": [
+    "Agaricales",
+    "Physalacriaceae",
+    "Rhodotus"
+  ],
+  "text": {
+    "en": {
+      "description": "A fleshy wood-decaying mushroom found in Europe, growing singly or in small groups on rotting hardwood, especially elm. It favours damp woodland with fallen timber and is uncommon in many regions.",
+      "cap": "The cap is 3–10 cm wide, convex then flatter, salmon-pink to peach, with thick gelatinous skin and often a network of raised veins.",
+      "hymenium": "The gills are pinkish, moderately spaced, attached to nearly free.",
+      "stipe": "The stem is 3–7 cm long and 1–1.5 cm thick, curved, pinkish and paler than the cap, with whitish fibrils and no ring. It may exude red or orange droplets.",
+      "flesh": "The flesh is white; the cap skin is thick and gelatinous.",
+      "sporePrint": "The spore print is very pale pink. Spores are globose, finely warted, 5–7 µm across and inamyloid.",
+      "habitat": "It grows on well-rotted hardwood trunks and branches, especially elm; July to November in Britain and Ireland.",
+      "uses": "Generally considered inedible.",
+      "confusion": "Rhodotus reticeps, a North American relative, is genetically distinct and tends to have larger spores. Rhodotus asperior has smaller, more ellipsoid spores with coarser ornamentation.",
+      "notes": "Loss of elm and removal of fallen dead wood threaten its habitat.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+        "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+        "https://portal.nature.cz/w/druh-20306",
+        "https://doi.org/10.66974/347ec34e",
+        "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+        "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+        "https://species.data.kew.org/species/200961",
+        "https://api.gbif.org/v1/species/2537058",
+        "https://www.inaturalist.org/taxon_changes/175547",
+        "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540",
+        "https://api.gbif.org/v1/species/2537058/vernacularNames?limit=1000"
+      ],
+      "label": "wrinkled peach"
+    },
+    "sk": {
+      "description": "Mäsitá drevokazná huba vyskytujúca sa v Európe, rastúca jednotlivo alebo v malých skupinách na rozkladajúcom sa dreve listnáčov, najmä brestov. Uprednostňuje vlhké lesy s popadaným drevom a v mnohých oblastiach je zriedkavá.",
+      "cap": "Klobúk je široký 3–10 cm, klenutý, neskôr plochejší, lososovoružový až broskyňový, s hrubou rôsolovitou pokožkou a často so sieťou vystupujúcich žiliek.",
+      "hymenium": "Lupene sú ružovkasté, stredne husté, prirastené až takmer voľné.",
+      "stipe": "Hlúbik je dlhý 3–7 cm a hrubý 1–1,5 cm, zakrivený, ružovkastý a bledší než klobúk, s belavými vláknami, bez prsteňa. Môže vylučovať červené alebo oranžové kvapôčky.",
+      "flesh": "Dužina je biela; pokožka klobúka je hrubá a rôsolovitá.",
+      "sporePrint": "Výtrusný prach je veľmi bledoružový. Výtrusy sú guľovité, jemne bradavičnaté, s priemerom 5–7 µm a neamyloidné.",
+      "habitat": "Rastie na silne rozložených kmeňoch a konároch listnáčov, najmä brestov; v Británii a Írsku od júla do novembra.",
+      "uses": "Všeobecne sa považuje za nejedlú.",
+      "confusion": "Severoamerický príbuzný druh Rhodotus reticeps je geneticky odlišný a máva väčšie výtrusy. Rhodotus asperior má menšie, elipsoidnejšie výtrusy s hrubšou ornamentikou.",
+      "notes": "Úbytok brestov a odstraňovanie spadnutého mŕtveho dreva ohrozujú jej biotop.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+        "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+        "https://portal.nature.cz/w/druh-20306",
+        "https://doi.org/10.66974/347ec34e",
+        "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+        "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+        "https://species.data.kew.org/species/200961",
+        "https://api.gbif.org/v1/species/2537058",
+        "https://www.inaturalist.org/taxon_changes/175547",
+        "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540",
+        "https://api.gbif.org/v1/species/2537058/vernacularNames?limit=1000"
+      ],
+      "label": "červenáčik obyčajný"
+    },
+    "cs": {
+      "description": "Masitá dřevokazná houba vyskytující se v Evropě, rostoucí jednotlivě nebo v malých skupinách na rozkládajícím se dřevě listnáčů, zejména jilmů. Upřednostňuje vlhké lesy s padlým dřevem a v mnoha oblastech je vzácná.",
+      "cap": "Klobouk je široký 3–10 cm, vyklenutý, později plošší, lososově růžový až broskvový, s tlustou rosolovitou pokožkou a často se sítí vystouplých žilek.",
+      "hymenium": "Lupeny jsou narůžovělé, středně husté, přirostlé až téměř volné.",
+      "stipe": "Třeň je dlouhý 3–7 cm a tlustý 1–1,5 cm, zakřivený, narůžovělý a světlejší než klobouk, s bělavými vlákny, bez prstenu. Může vylučovat červené nebo oranžové kapičky.",
+      "flesh": "Dužnina je bílá; pokožka klobouku je tlustá a rosolovitá.",
+      "sporePrint": "Výtrusný prach je velmi světle růžový. Výtrusy jsou kulovité, jemně bradavčité, o průměru 5–7 µm a neamyloidní.",
+      "habitat": "Roste na silně rozložených kmenech a větvích listnáčů, zejména jilmů; v Británii a Irsku od července do listopadu.",
+      "uses": "Obecně se považuje za nejedlou.",
+      "confusion": "Severoamerický příbuzný druh Rhodotus reticeps je geneticky odlišný a mívá větší výtrusy. Rhodotus asperior má menší, elipsoidnější výtrusy s hrubší ornamentikou.",
+      "notes": "Úbytek jilmů a odstraňování padlého mrtvého dřeva ohrožují její biotop.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+        "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+        "https://portal.nature.cz/w/druh-20306",
+        "https://doi.org/10.66974/347ec34e",
+        "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+        "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+        "https://species.data.kew.org/species/200961",
+        "https://api.gbif.org/v1/species/2537058",
+        "https://www.inaturalist.org/taxon_changes/175547",
+        "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540",
+        "https://api.gbif.org/v1/species/2537058/vernacularNames?limit=1000"
+      ],
+      "label": "hlívovec ostnovýtrusý"
+    },
+    "de": {
+      "description": "Ein fleischiger, holzzersetzender Pilz Europas, der einzeln oder in kleinen Gruppen auf morschem Laubholz, besonders Ulme, wächst. Er bevorzugt feuchte Wälder mit liegendem Holz und ist in vielen Regionen selten.",
+      "cap": "Der Hut ist 3–10 cm breit, gewölbt, später flacher, lachsrosa bis pfirsichfarben, mit dicker gelatinöser Haut und oft einem Netz erhabener Adern.",
+      "hymenium": "Die Lamellen sind rosa, mäßig dicht stehend, angewachsen bis fast frei.",
+      "stipe": "Der Stiel ist 3–7 cm lang und 1–1,5 cm dick, gekrümmt, rosa und heller als der Hut, mit weißlichen Fasern und ohne Ring. Er kann rote oder orangefarbene Tropfen ausscheiden.",
+      "flesh": "Das Fleisch ist weiß; die Huthaut ist dick und gelatinös.",
+      "sporePrint": "Das Sporenpulver ist sehr blassrosa. Die Sporen sind kugelig, feinwarzig, 5–7 µm breit und inamyloid.",
+      "habitat": "Er wächst auf stark vermorschten Laubholzstämmen und Ästen, besonders Ulme; in Großbritannien und Irland von Juli bis November.",
+      "uses": "Er gilt allgemein als ungenießbar.",
+      "confusion": "Der nordamerikanische Verwandte Rhodotus reticeps ist genetisch verschieden und hat tendenziell größere Sporen. Rhodotus asperior hat kleinere, stärker ellipsoide Sporen mit gröberem Ornament.",
+      "notes": "Der Rückgang der Ulmen und die Entfernung liegenden Totholzes bedrohen seinen Lebensraum.",
+      "names": [
+        "Adernseitling",
+        "Rosa Adernseitling"
+      ],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+        "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+        "https://portal.nature.cz/w/druh-20306",
+        "https://doi.org/10.66974/347ec34e",
+        "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+        "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+        "https://species.data.kew.org/species/200961",
+        "https://api.gbif.org/v1/species/2537058",
+        "https://www.inaturalist.org/taxon_changes/175547",
+        "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540",
+        "https://api.gbif.org/v1/species/2537058/vernacularNames?limit=1000"
+      ],
+      "label": "Orangerötlicher Adernseitling"
+    },
+    "fr": {
+      "description": "Un champignon charnu décomposeur de bois présent en Europe, poussant seul ou en petits groupes sur le bois pourri de feuillus, surtout d’orme. Il préfère les boisements humides avec du bois tombé et reste peu commun dans de nombreuses régions.",
+      "cap": "Le chapeau mesure 3–10 cm de large, convexe puis plus aplati, rose saumon à couleur pêche, avec une peau épaisse et gélatineuse, souvent parcourue d’un réseau de veines en relief.",
+      "hymenium": "Les lames sont rosâtres, moyennement espacées, adnées à presque libres.",
+      "stipe": "Le pied mesure 3–7 cm de long et 1–1,5 cm d’épaisseur, est courbé, rosâtre et plus pâle que le chapeau, avec des fibrilles blanchâtres et sans anneau. Il peut exsuder des gouttelettes rouges ou orange.",
+      "flesh": "La chair est blanche ; la peau du chapeau est épaisse et gélatineuse.",
+      "sporePrint": "La sporée est rose très pâle. Les spores sont globuleuses, finement verruqueuses, de 5–7 µm de diamètre et non amyloïdes.",
+      "habitat": "Il pousse sur des troncs et branches de feuillus très décomposés, surtout d’orme ; de juillet à novembre en Grande-Bretagne et en Irlande.",
+      "uses": "Généralement considéré comme non comestible.",
+      "confusion": "Rhodotus reticeps, espèce apparentée nord-américaine, est génétiquement distinct et tend à avoir des spores plus grandes. Rhodotus asperior possède des spores plus petites, plus ellipsoïdes et à ornementation plus grossière.",
+      "notes": "Le déclin des ormes et l’enlèvement du bois mort tombé menacent son habitat.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+        "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+        "https://portal.nature.cz/w/druh-20306",
+        "https://doi.org/10.66974/347ec34e",
+        "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+        "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+        "https://species.data.kew.org/species/200961",
+        "https://api.gbif.org/v1/species/2537058",
+        "https://www.inaturalist.org/taxon_changes/175547",
+        "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540",
+        "https://api.gbif.org/v1/species/2537058/vernacularNames?limit=1000"
+      ],
+      "label": "Rhodotus réticulé"
+    },
+    "es": {
+      "description": "Un hongo carnoso descomponedor de madera presente en Europa, que crece solo o en pequeños grupos sobre madera podrida de frondosas, especialmente olmo. Prefiere bosques húmedos con madera caída y es poco común en muchas regiones.",
+      "cap": "El sombrero mide 3–10 cm de anchura, convexo y después más aplanado, de rosa salmón a color melocotón, con piel gruesa y gelatinosa y a menudo una red de venas elevadas.",
+      "hymenium": "Las láminas son rosadas, moderadamente espaciadas, adheridas a casi libres.",
+      "stipe": "El pie mide 3–7 cm de longitud y 1–1,5 cm de grosor, es curvado, rosado y más pálido que el sombrero, con fibrillas blanquecinas y sin anillo. Puede exudar gotas rojas o anaranjadas.",
+      "flesh": "La carne es blanca; la piel del sombrero es gruesa y gelatinosa.",
+      "sporePrint": "La esporada es rosa muy pálido. Las esporas son globosas, finamente verrugosas, de 5–7 µm de diámetro e inamiloides.",
+      "habitat": "Crece sobre troncos y ramas muy podridos de frondosas, especialmente olmo; de julio a noviembre en Gran Bretaña e Irlanda.",
+      "uses": "Generalmente se considera no comestible.",
+      "confusion": "Rhodotus reticeps, pariente norteamericano, es genéticamente distinto y tiende a tener esporas mayores. Rhodotus asperior tiene esporas menores, más elipsoidales y con ornamentación más gruesa.",
+      "notes": "La pérdida de olmos y la retirada de madera muerta caída amenazan su hábitat.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+        "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+        "https://portal.nature.cz/w/druh-20306",
+        "https://doi.org/10.66974/347ec34e",
+        "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+        "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+        "https://species.data.kew.org/species/200961",
+        "https://api.gbif.org/v1/species/2537058",
+        "https://www.inaturalist.org/taxon_changes/175547",
+        "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540"
+      ]
+    },
+    "it": {
+      "description": "Un fungo carnoso lignicolo presente in Europa, che cresce isolato o in piccoli gruppi sul legno marcescente di latifoglie, soprattutto olmo. Predilige boschi umidi con legno caduto ed è poco comune in molte regioni.",
+      "cap": "Il cappello è largo 3–10 cm, convesso poi più appiattito, rosa salmone o color pesca, con cuticola spessa e gelatinosa e spesso un reticolo di venature rilevate.",
+      "hymenium": "Le lamelle sono rosate, moderatamente spaziate, adnate o quasi libere.",
+      "stipe": "Il gambo è lungo 3–7 cm e spesso 1–1,5 cm, ricurvo, rosato e più pallido del cappello, con fibrille biancastre e senza anello. Può essudare goccioline rosse o arancioni.",
+      "flesh": "La carne è bianca; la cuticola del cappello è spessa e gelatinosa.",
+      "sporePrint": "La sporata è rosa molto pallido. Le spore sono globose, finemente verrucose, di 5–7 µm di diametro e inamiloidi.",
+      "habitat": "Cresce su tronchi e rami molto decomposti di latifoglie, soprattutto olmo; da luglio a novembre in Gran Bretagna e Irlanda.",
+      "uses": "Generalmente considerato non commestibile.",
+      "confusion": "Rhodotus reticeps, affine nordamericano, è geneticamente distinto e tende ad avere spore più grandi. Rhodotus asperior ha spore più piccole, più ellissoidali e con ornamentazione più grossolana.",
+      "notes": "La perdita degli olmi e la rimozione del legno morto caduto minacciano il suo habitat.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+        "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+        "https://portal.nature.cz/w/druh-20306",
+        "https://doi.org/10.66974/347ec34e",
+        "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+        "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+        "https://species.data.kew.org/species/200961",
+        "https://api.gbif.org/v1/species/2537058",
+        "https://www.inaturalist.org/taxon_changes/175547",
+        "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540",
+        "https://www.nnb.isprambiente.it/it/eventi-e-notizie/notizie-dalla-rete-dei-partner/specie-di-fungo-raro-avvistato-durante-attivita-in-campo-con-studenti"
+      ],
+      "label": "fungo pesca rugosa"
+    },
+    "pt": {
+      "description": "Um cogumelo carnudo decompositor de madeira presente na Europa, que cresce isolado ou em pequenos grupos sobre madeira apodrecida de folhosas, sobretudo olmo. Prefere bosques húmidos com madeira caída e é pouco comum em muitas regiões.",
+      "cap": "O chapéu tem 3–10 cm de largura, convexo e depois mais achatado, rosa-salmão a cor de pêssego, com pele espessa e gelatinosa e frequentemente uma rede de nervuras salientes.",
+      "hymenium": "As lâminas são rosadas, moderadamente espaçadas, aderentes a quase livres.",
+      "stipe": "O pé mede 3–7 cm de comprimento e 1–1,5 cm de espessura, é curvo, rosado e mais pálido que o chapéu, com fibrilhas esbranquiçadas e sem anel. Pode exsudar gotas vermelhas ou alaranjadas.",
+      "flesh": "A carne é branca; a pele do chapéu é espessa e gelatinosa.",
+      "sporePrint": "A esporada é rosa muito pálido. Os esporos são globosos, finamente verrugosos, com 5–7 µm de diâmetro e inamiloides.",
+      "habitat": "Cresce em troncos e ramos muito apodrecidos de folhosas, sobretudo olmo; de julho a novembro na Grã-Bretanha e Irlanda.",
+      "uses": "Geralmente considerado não comestível.",
+      "confusion": "Rhodotus reticeps, parente norte-americano, é geneticamente distinto e tende a ter esporos maiores. Rhodotus asperior tem esporos menores, mais elipsoidais e com ornamentação mais grosseira.",
+      "notes": "A perda de olmos e a remoção de madeira morta caída ameaçam o seu habitat.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+        "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+        "https://portal.nature.cz/w/druh-20306",
+        "https://doi.org/10.66974/347ec34e",
+        "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+        "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+        "https://species.data.kew.org/species/200961",
+        "https://api.gbif.org/v1/species/2537058",
+        "https://www.inaturalist.org/taxon_changes/175547",
+        "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540"
+      ]
+    },
+    "nl": {
+      "description": "Een vlezige houtafbrekende paddenstoel uit Europa, die alleen of in kleine groepen op rottend loofhout groeit, vooral iep. Hij verkiest vochtige bossen met gevallen hout en is in veel streken ongewoon.",
+      "cap": "De hoed is 3–10 cm breed, gewelfd en later vlakker, zalmroze tot perzikkleurig, met een dikke gelatineuze huid en vaak een netwerk van verheven aderen.",
+      "hymenium": "De lamellen zijn roze, matig uiteenstaand, aangehecht tot vrijwel vrij.",
+      "stipe": "De steel is 3–7 cm lang en 1–1,5 cm dik, gebogen, roze en bleker dan de hoed, met witachtige vezeltjes en zonder ring. Hij kan rode of oranje druppeltjes afscheiden.",
+      "flesh": "Het vlees is wit; de hoedhuid is dik en gelatineus.",
+      "sporePrint": "De sporenprint is zeer bleekroze. De sporen zijn bolvormig, fijn wrattig, 5–7 µm breed en inamyloïd.",
+      "habitat": "Hij groeit op sterk verrotte loofhoutstammen en takken, vooral iep; in Groot-Brittannië en Ierland van juli tot november.",
+      "uses": "Wordt algemeen als oneetbaar beschouwd.",
+      "confusion": "De Noord-Amerikaanse verwant Rhodotus reticeps is genetisch verschillend en heeft doorgaans grotere sporen. Rhodotus asperior heeft kleinere, meer ellipsoïde sporen met grovere ornamentatie.",
+      "notes": "Het verlies van iepen en het verwijderen van liggend dood hout bedreigen zijn leefgebied.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+        "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+        "https://portal.nature.cz/w/druh-20306",
+        "https://doi.org/10.66974/347ec34e",
+        "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+        "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+        "https://species.data.kew.org/species/200961",
+        "https://api.gbif.org/v1/species/2537058",
+        "https://www.inaturalist.org/taxon_changes/175547",
+        "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540",
+        "https://api.gbif.org/v1/species/2537058/vernacularNames?limit=1000"
+      ],
+      "label": "zalmzwam"
+    },
+    "da": {
+      "description": "En kødet, trænedbrydende svamp fra Europa, der vokser enkeltvis eller i små grupper på rådnende løvtræ, især elm. Den foretrækker fugtige skove med væltet træ og er usædvanlig i mange områder.",
+      "cap": "Hatten er 3–10 cm bred, hvælvet og senere fladere, lakserosa til ferskenfarvet, med tyk gelatinøs hud og ofte et net af hævede årer.",
+      "hymenium": "Lamellerne er rosa, moderat spredte, tilvoksede til næsten frie.",
+      "stipe": "Stokken er 3–7 cm lang og 1–1,5 cm tyk, krum, rosa og lysere end hatten, med hvidlige fibriller og uden ring. Den kan udskille røde eller orange dråber.",
+      "flesh": "Kødet er hvidt; hathuden er tyk og gelatinøs.",
+      "sporePrint": "Sporeaftrykket er meget blegrosa. Sporerne er kugleformede, fint vortede, 5–7 µm brede og inamyloide.",
+      "habitat": "Den vokser på stærkt nedbrudte løvtræsstammer og grene, især elm; fra juli til november i Storbritannien og Irland.",
+      "uses": "Regnes generelt for uspiselig.",
+      "confusion": "Den nordamerikanske slægtning Rhodotus reticeps er genetisk forskellig og har tendens til større sporer. Rhodotus asperior har mindre, mere ellipsoidiske sporer med grovere ornamentering.",
+      "notes": "Tab af elm og fjernelse af liggende dødt ved truer dens levested.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+        "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+        "https://portal.nature.cz/w/druh-20306",
+        "https://doi.org/10.66974/347ec34e",
+        "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+        "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+        "https://species.data.kew.org/species/200961",
+        "https://api.gbif.org/v1/species/2537058",
+        "https://www.inaturalist.org/taxon_changes/175547",
+        "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540",
+        "https://api.gbif.org/v1/species/2537058/vernacularNames?limit=1000"
+      ],
+      "label": "ferskenhat"
+    },
+    "no": {
+      "description": "En kjøttfull, vednedbrytende sopp fra Europa som vokser enkeltvis eller i små grupper på råtnende løvtreved, særlig alm. Den foretrekker fuktig skog med nedfalt ved og er uvanlig i mange områder.",
+      "cap": "Hatten er 3–10 cm bred, hvelvet og senere flatere, lakserosa til ferskenfarget, med tykk gelatinøs hud og ofte et nett av opphøyde årer.",
+      "hymenium": "Skivene er rosa, middels tettstilte, tilvokste til nesten frie.",
+      "stipe": "Stilken er 3–7 cm lang og 1–1,5 cm tykk, krum, rosa og blekere enn hatten, med hvitaktige fibriller og uten ring. Den kan skille ut røde eller oransje dråper.",
+      "flesh": "Kjøttet er hvitt; hatthuden er tykk og gelatinøs.",
+      "sporePrint": "Sporeavtrykket er svært blekrosa. Sporene er kuleformede, fint vortete, 5–7 µm brede og inamyloide.",
+      "habitat": "Den vokser på sterkt nedbrutte løvtrestammer og greiner, særlig alm; fra juli til november i Storbritannia og Irland.",
+      "uses": "Regnes generelt som uspiselig.",
+      "confusion": "Den nordamerikanske slektningen Rhodotus reticeps er genetisk forskjellig og har gjerne større sporer. Rhodotus asperior har mindre, mer ellipsoide sporer med grovere ornamentering.",
+      "notes": "Tap av alm og fjerning av liggende død ved truer leveområdet.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+        "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+        "https://portal.nature.cz/w/druh-20306",
+        "https://doi.org/10.66974/347ec34e",
+        "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+        "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+        "https://species.data.kew.org/species/200961",
+        "https://api.gbif.org/v1/species/2537058",
+        "https://www.inaturalist.org/taxon_changes/175547",
+        "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540",
+        "https://api.gbif.org/v1/species/2537058/vernacularNames?limit=1000"
+      ],
+      "label": "ferskenpote"
+    },
+    "sv": {
+      "description": "En köttig, vednedbrytande svamp från Europa som växer ensam eller i små grupper på ruttnande lövved, särskilt alm. Den föredrar fuktig skog med nedfallen ved och är ovanlig i många områden.",
+      "cap": "Hatten är 3–10 cm bred, välvd och senare plattare, laxrosa till persikofärgad, med tjock gelatinös hud och ofta ett nät av upphöjda ådror.",
+      "hymenium": "Skivorna är rosa, måttligt glesa, vidvuxna till nästan fria.",
+      "stipe": "Foten är 3–7 cm lång och 1–1,5 cm tjock, böjd, rosa och blekare än hatten, med vitaktiga fibriller och utan ring. Den kan utsöndra röda eller orange droppar.",
+      "flesh": "Köttet är vitt; hatthuden är tjock och gelatinös.",
+      "sporePrint": "Sporavtrycket är mycket blekrosa. Sporerna är klotrunda, fint vårtiga, 5–7 µm breda och inamyloida.",
+      "habitat": "Den växer på starkt förmultnade lövträdsstammar och grenar, särskilt alm; från juli till november i Storbritannien och Irland.",
+      "uses": "Betraktas allmänt som oätlig.",
+      "confusion": "Den nordamerikanska släktingen Rhodotus reticeps är genetiskt skild och har vanligen större sporer. Rhodotus asperior har mindre, mer ellipsoida sporer med grövre ornamentering.",
+      "notes": "Förlust av alm och borttagning av liggande död ved hotar dess livsmiljö.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+        "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+        "https://portal.nature.cz/w/druh-20306",
+        "https://doi.org/10.66974/347ec34e",
+        "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+        "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+        "https://species.data.kew.org/species/200961",
+        "https://api.gbif.org/v1/species/2537058",
+        "https://www.inaturalist.org/taxon_changes/175547",
+        "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540",
+        "https://api.gbif.org/v1/species/2537058/vernacularNames?limit=1000"
+      ],
+      "label": "ådermussling"
+    },
+    "fi": {
+      "description": "Euroopassa esiintyvä mehevä lahottajasieni, joka kasvaa yksittäin tai pieninä ryhminä lahoavalla lehtipuulla, etenkin jalavalla. Se suosii kosteita metsiä, joissa on kaatunutta puuta, ja on monilla alueilla harvinainen.",
+      "cap": "Lakki on 3–10 cm leveä, kupera ja myöhemmin laakeampi, lohenpunainen tai persikanvärinen. Pintakelmu on paksu ja hyytelömäinen, usein koholla olevien suonten verkkomainen.",
+      "hymenium": "Heltat ovat vaaleanpunertavat, kohtalaisen harvat, tasatyviset tai lähes irtotyviset.",
+      "stipe": "Jalka on 3–7 cm pitkä ja 1–1,5 cm paksu, kaareva, vaaleanpunertava ja lakkia vaaleampi, valkeasäikeinen ja renkaaton. Se voi erittää punaisia tai oransseja pisaroita.",
+      "flesh": "Malto on valkoista; lakin pintakelmu on paksu ja hyytelömäinen.",
+      "sporePrint": "Itiöpöly on hyvin vaaleanpunaista. Itiöt ovat pallomaisia, hienonystyisiä, 5–7 µm leveitä ja inamyloideja.",
+      "habitat": "Kasvaa pitkälle lahonneilla lehtipuiden rungoilla ja oksilla, etenkin jalavalla; Britanniassa ja Irlannissa heinäkuusta marraskuuhun.",
+      "uses": "Pidetään yleisesti syötäväksi kelpaamattomana.",
+      "confusion": "Pohjoisamerikkalainen sukulaislaji Rhodotus reticeps on geneettisesti erillinen, ja sen itiöt ovat yleensä suurempia. Rhodotus asperior -lajin itiöt ovat pienempiä, ellipsoidimpia ja karkeammin koristeisia.",
+      "notes": "Jalavien väheneminen ja maahan kaatuneen lahopuun poistaminen uhkaavat sen elinympäristöä.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+        "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+        "https://portal.nature.cz/w/druh-20306",
+        "https://doi.org/10.66974/347ec34e",
+        "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+        "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+        "https://species.data.kew.org/species/200961",
+        "https://api.gbif.org/v1/species/2537058",
+        "https://www.inaturalist.org/taxon_changes/175547",
+        "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540"
+      ]
+    },
+    "et": {
+      "description": "Euroopas esinev lihakas puitu lagundav seen, mis kasvab üksikult või väikeste rühmadena kõduneval lehtpuidul, eriti jalakal. Eelistab niiskeid metsi, kus leidub mahalangenud puitu, ning on paljudes piirkondades haruldane.",
+      "cap": "Kübar on 3–10 cm lai, kumer, hiljem lamedam, lõheroosa kuni virsikukarva, paksu sültja nahaga ja sageli kõrgemate soonte võrgustikuga.",
+      "hymenium": "Eoslehekesed on roosakad, mõõdukalt hõredad, jalale kinnitunud kuni peaaegu vabad.",
+      "stipe": "Jalg on 3–7 cm pikk ja 1–1,5 cm jäme, kõver, roosakas ja kübarast heledam, valkjate kiududega ning rõngata. Võib eritada punaseid või oranže tilku.",
+      "flesh": "Seeneliha on valge; kübaranahk on paks ja sültjas.",
+      "sporePrint": "Eospulber on väga kahvaturoosa. Eosed on kerajad, peenelt näsalised, 5–7 µm laiad ja inamüloidsed.",
+      "habitat": "Kasvab tugevasti kõdunenud lehtpuutüvedel ja okstel, eriti jalakal; Suurbritannias ja Iirimaal juulist novembrini.",
+      "uses": "Peetakse üldiselt mittesöödavaks.",
+      "confusion": "Põhja-Ameerika sugulasliik Rhodotus reticeps on geneetiliselt eristuv ja tavaliselt suuremate eostega. Rhodotus asperior on väiksemate, ellipsoidsemate ja jämedama ornamentatsiooniga eostega.",
+      "notes": "Jalakate vähenemine ja mahalangenud surnud puidu eemaldamine ohustavad tema elupaika.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+        "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+        "https://portal.nature.cz/w/druh-20306",
+        "https://doi.org/10.66974/347ec34e",
+        "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+        "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+        "https://species.data.kew.org/species/200961",
+        "https://api.gbif.org/v1/species/2537058",
+        "https://www.inaturalist.org/taxon_changes/175547",
+        "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540",
+        "https://api.gbif.org/v1/species/2537058/vernacularNames?limit=1000"
+      ],
+      "label": "roosa võrkheinik"
+    },
+    "lv": {
+      "description": "Eiropā sastopama gaļīga koksni noārdoša sēne, kas aug atsevišķi vai nelielās grupās uz trūdošas lapu koku koksnes, īpaši gobām un vīksnām. Tā dod priekšroku mitriem mežiem ar kritalām un daudzviet ir reta.",
+      "cap": "Cepurīte ir 3–10 cm plata, izliekta, vēlāk plakanāka, lašsārta līdz persikkrāsas, ar biezu želejveida virsmiziņu un bieži ar izceltu dzīslu tīklu.",
+      "hymenium": "Lapiņas ir sārtas, mēreni retas, pieaugušas līdz gandrīz brīvām.",
+      "stipe": "Kātiņš ir 3–7 cm garš un 1–1,5 cm resns, izliekts, sārts un bālāks par cepurīti, ar bālganām šķiedrām un bez gredzena. Tas var izdalīt sarkanus vai oranžus pilienus.",
+      "flesh": "Mīkstums ir balts; cepurītes virsmiziņa ir bieza un želejveida.",
+      "sporePrint": "Sporu nospiedums ir ļoti bāli sārts. Sporas ir lodveida, smalki kārpainas, 5–7 µm platas un neamiloīdas.",
+      "habitat": "Aug uz stipri satrūdējušiem lapu koku stumbriem un zariem, īpaši gobām un vīksnām; Lielbritānijā un Īrijā no jūlija līdz novembrim.",
+      "uses": "Parasti uzskata par neēdamu.",
+      "confusion": "Ziemeļamerikas radniecīgā suga Rhodotus reticeps ir ģenētiski atšķirīga, un tās sporas mēdz būt lielākas. Rhodotus asperior sporas ir mazākas, elipsoidālākas un ar rupjāku ornamentāciju.",
+      "notes": "Gobu un vīksnu samazināšanās un kritušo atmirušo koku izvākšana apdraud tās dzīvotni.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+        "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+        "https://portal.nature.cz/w/druh-20306",
+        "https://doi.org/10.66974/347ec34e",
+        "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+        "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+        "https://species.data.kew.org/species/200961",
+        "https://api.gbif.org/v1/species/2537058",
+        "https://www.inaturalist.org/taxon_changes/175547",
+        "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540",
+        "https://api.gbif.org/v1/species/2537058/vernacularNames?limit=1000"
+      ],
+      "label": "vēdekļa sārtaine"
+    },
+    "lt": {
+      "description": "Europoje aptinkamas mėsingas medieną ardantis grybas, augantis pavieniui arba mažomis grupėmis ant pūvančios lapuočių, ypač guobų, medienos. Mėgsta drėgnus miškus su išvirtusiais medžiais ir daugelyje vietovių yra retas.",
+      "cap": "Kepurėlė 3–10 cm pločio, išgaubta, vėliau plokštesnė, lašišos rausvumo ar persikų spalvos, su stora drebučių pavidalo odele ir dažnai iškilių gyslų tinklu.",
+      "hymenium": "Lakšteliai rausvi, vidutiniškai reti, priaugę ar beveik laisvi.",
+      "stipe": "Kotas 3–7 cm ilgio ir 1–1,5 cm storio, lenktas, rausvas ir blyškesnis už kepurėlę, su balkšvomis skaidulomis, be žiedo. Gali išskirti raudonus ar oranžinius lašelius.",
+      "flesh": "Trama balta; kepurėlės odelė stora ir drebučių pavidalo.",
+      "sporePrint": "Sporų atspaudas labai šviesiai rausvas. Sporos rutuliškos, smulkiai karpotos, 5–7 µm pločio ir neamiloidinės.",
+      "habitat": "Auga ant stipriai supuvusių lapuočių kamienų ir šakų, ypač guobų; Britanijoje ir Airijoje nuo liepos iki lapkričio.",
+      "uses": "Paprastai laikomas nevalgomu.",
+      "confusion": "Šiaurės Amerikos gimininga rūšis Rhodotus reticeps genetiškai skiriasi ir paprastai turi didesnes sporas. Rhodotus asperior sporos mažesnės, elipsoidiškesnės ir su stambesniais ornamentais.",
+      "notes": "Guobų nykimas ir nuvirtusios negyvos medienos šalinimas kelia grėsmę jo buveinei.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+        "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+        "https://portal.nature.cz/w/druh-20306",
+        "https://doi.org/10.66974/347ec34e",
+        "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+        "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+        "https://species.data.kew.org/species/200961",
+        "https://api.gbif.org/v1/species/2537058",
+        "https://www.inaturalist.org/taxon_changes/175547",
+        "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540",
+        "https://api.gbif.org/v1/species/2537058/vernacularNames?limit=1000"
+      ],
+      "label": "gyslotoji kremzliabudė"
+    },
+    "pl": {
+      "description": "Mięsisty grzyb rozkładający drewno, występujący w Europie, rosnący pojedynczo lub w niewielkich grupach na próchniejącym drewnie liściastym, zwłaszcza wiązów. Preferuje wilgotne lasy z powalonym drewnem i w wielu regionach jest rzadki.",
+      "cap": "Kapelusz ma 3–10 cm szerokości, jest wypukły, później bardziej płaski, łososioworóżowy do brzoskwiniowego, z grubą galaretowatą skórką i często siatką wypukłych żyłek.",
+      "hymenium": "Blaszki są różowawe, średnio gęste, przyrośnięte do niemal wolnych.",
+      "stipe": "Trzon ma 3–7 cm długości i 1–1,5 cm grubości, jest wygięty, różowawy i jaśniejszy niż kapelusz, z białawymi włókienkami, bez pierścienia. Może wydzielać czerwone lub pomarańczowe krople.",
+      "flesh": "Miąższ jest biały; skórka kapelusza jest gruba i galaretowata.",
+      "sporePrint": "Wysyp zarodników jest bardzo bladoróżowy. Zarodniki są kuliste, drobno brodawkowane, szerokości 5–7 µm i nieamyloidalne.",
+      "habitat": "Rośnie na silnie rozłożonych pniach i gałęziach drzew liściastych, zwłaszcza wiązów; w Wielkiej Brytanii i Irlandii od lipca do listopada.",
+      "uses": "Powszechnie uznawany za niejadalny.",
+      "confusion": "Północnoamerykański krewniak Rhodotus reticeps jest genetycznie odrębny i zwykle ma większe zarodniki. Rhodotus asperior ma mniejsze, bardziej elipsoidalne zarodniki z grubszą ornamentacją.",
+      "notes": "Zanik wiązów i usuwanie powalonego martwego drewna zagrażają jego siedliskom.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+        "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+        "https://portal.nature.cz/w/druh-20306",
+        "https://doi.org/10.66974/347ec34e",
+        "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+        "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+        "https://species.data.kew.org/species/200961",
+        "https://api.gbif.org/v1/species/2537058",
+        "https://www.inaturalist.org/taxon_changes/175547",
+        "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540",
+        "https://api.gbif.org/v1/species/2537058/vernacularNames?limit=1000"
+      ],
+      "label": "żyłkowiec różowawy"
+    },
+    "hu": {
+      "description": "Európában előforduló húsos, farontó gomba, amely egyesével vagy kis csoportokban nő korhadó lombos faanyagon, különösen szilen. A kidőlt faanyagban gazdag, nedves erdőket kedveli, és sok térségben ritka.",
+      "cap": "Kalapja 3–10 cm széles, domború, később laposabb, lazacrózsaszín vagy barackszínű, vastag kocsonyás bőrrel és gyakran kiemelkedő erek hálózatával.",
+      "hymenium": "Lemezei rózsásak, közepesen ritkák, tönkhöz nőttek vagy csaknem szabadok.",
+      "stipe": "Tönkje 3–7 cm hosszú és 1–1,5 cm vastag, görbült, rózsás és a kalapnál halványabb, fehéres szálakkal, gallér nélkül. Vörös vagy narancssárga cseppeket választhat ki.",
+      "flesh": "Húsa fehér; a kalapbőr vastag és kocsonyás.",
+      "sporePrint": "Spórapora igen halvány rózsaszínű. Spórái gömbölyűek, finoman szemölcsösek, 5–7 µm szélesek és inamiloidok.",
+      "habitat": "Erősen korhadt lombosfatörzseken és ágakon, különösen szilen nő; Nagy-Britanniában és Írországban júliustól novemberig.",
+      "uses": "Általában nem ehetőnek tartják.",
+      "confusion": "Az észak-amerikai rokon Rhodotus reticeps genetikailag elkülönül, és spórái többnyire nagyobbak. A Rhodotus asperior spórái kisebbek, ellipszoidabbak és durvábban díszítettek.",
+      "notes": "A szilfák fogyatkozása és a kidőlt holtfa eltávolítása veszélyezteti élőhelyét.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+        "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+        "https://portal.nature.cz/w/druh-20306",
+        "https://doi.org/10.66974/347ec34e",
+        "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+        "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+        "https://species.data.kew.org/species/200961",
+        "https://api.gbif.org/v1/species/2537058",
+        "https://www.inaturalist.org/taxon_changes/175547",
+        "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540",
+        "https://api.gbif.org/v1/species/2537058/vernacularNames?limit=1000"
+      ],
+      "label": "tönkös kacskagomba"
+    },
+    "ro": {
+      "description": "O ciupercă cărnoasă care descompune lemnul, întâlnită în Europa, crescând izolat sau în grupuri mici pe lemn putred de foioase, mai ales ulm. Preferă pădurile umede cu lemn căzut și este rară în multe regiuni.",
+      "cap": "Pălăria are 3–10 cm lățime, convexă, apoi mai aplatizată, roz-somon până la culoarea piersicii, cu pieliță groasă, gelatinoasă și adesea o rețea de nervuri proeminente.",
+      "hymenium": "Lamelele sunt rozalii, moderat distanțate, aderente până la aproape libere.",
+      "stipe": "Piciorul are 3–7 cm lungime și 1–1,5 cm grosime, curbat, rozaliu și mai palid decât pălăria, cu fibrile albicioase și fără inel. Poate exsuda picături roșii sau portocalii.",
+      "flesh": "Carnea este albă; pielița pălăriei este groasă și gelatinoasă.",
+      "sporePrint": "Amprenta sporilor este roz foarte pal. Sporii sunt globuloși, fin verucoși, de 5–7 µm în diametru și neamiloizi.",
+      "habitat": "Crește pe trunchiuri și ramuri foarte putrezite de foioase, mai ales ulm; din iulie până în noiembrie în Marea Britanie și Irlanda.",
+      "uses": "În general considerată necomestibilă.",
+      "confusion": "Rhodotus reticeps, rudă nord-americană, este distinct genetic și tinde să aibă spori mai mari. Rhodotus asperior are spori mai mici, mai elipsoidali și cu ornamentație mai grosieră.",
+      "notes": "Dispariția ulmilor și îndepărtarea lemnului mort căzut îi amenință habitatul.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+        "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+        "https://portal.nature.cz/w/druh-20306",
+        "https://doi.org/10.66974/347ec34e",
+        "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+        "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+        "https://species.data.kew.org/species/200961",
+        "https://api.gbif.org/v1/species/2537058",
+        "https://www.inaturalist.org/taxon_changes/175547",
+        "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540",
+        "https://ro.wikipedia.org/wiki/Piersic%C4%83_uscat%C4%83"
+      ],
+      "label": "piersică uscată"
+    },
+    "sl": {
+      "description": "Mesnata lesna goba, ki jo najdemo v Evropi in raste posamično ali v majhnih skupinah na trohnečem lesu listavcev, zlasti brestov. Najraje ima vlažne gozdove s padlim lesom in je v številnih krajih redka.",
+      "cap": "Klobuk je širok 3–10 cm, izbočen, pozneje bolj sploščen, lososovo rožnat do breskov, z debelo želatinasto kožico in pogosto z mrežo dvignjenih žilic.",
+      "hymenium": "Lističi so rožnati, srednje gosti, prirasli do skoraj prosti.",
+      "stipe": "Bet je dolg 3–7 cm in debel 1–1,5 cm, ukrivljen, rožnat in svetlejši od klobuka, z belkastimi vlakenci, brez obročka. Lahko izloča rdeče ali oranžne kapljice.",
+      "flesh": "Meso je belo; kožica klobuka je debela in želatinasta.",
+      "sporePrint": "Trosni prah je zelo bledorožnat. Trosi so kroglasti, drobno bradavičasti, široki 5–7 µm in neamiloidni.",
+      "habitat": "Raste na močno strohnelih deblih in vejah listavcev, zlasti brestov; v Britaniji in na Irskem od julija do novembra.",
+      "uses": "Na splošno velja za neužitno.",
+      "confusion": "Severnoameriški sorodnik Rhodotus reticeps je genetsko ločen in ima navadno večje trose. Rhodotus asperior ima manjše, bolj elipsoidne trose z bolj grobo ornamentacijo.",
+      "notes": "Izginjanje brestov in odstranjevanje padlega odmrlega lesa ogrožata njen življenjski prostor.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+        "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+        "https://portal.nature.cz/w/druh-20306",
+        "https://doi.org/10.66974/347ec34e",
+        "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+        "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+        "https://species.data.kew.org/species/200961",
+        "https://api.gbif.org/v1/species/2537058",
+        "https://www.inaturalist.org/taxon_changes/175547",
+        "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540",
+        "https://api.gbif.org/v1/species/2537058/vernacularNames?limit=1000"
+      ],
+      "label": "brazdasti klobučar"
+    },
+    "hr": {
+      "description": "Mesnata gljiva koja razgrađuje drvo, prisutna u Europi, raste pojedinačno ili u malim skupinama na trulom drvu listača, osobito brijesta. Voli vlažne šume s oborenim drvom i u mnogim je područjima rijetka.",
+      "cap": "Klobuk je širok 3–10 cm, ispupčen, poslije plosnatiji, lososovoružičast do boje breskve, s debelom želatinoznom kožicom i često mrežom izdignutih žilica.",
+      "hymenium": "Listići su ružičasti, umjereno razmaknuti, prirasli do gotovo slobodni.",
+      "stipe": "Stručak je dug 3–7 cm i debeo 1–1,5 cm, zakrivljen, ružičast i bljeđi od klobuka, s bjelkastim vlakancima, bez prstena. Može izlučivati crvene ili narančaste kapljice.",
+      "flesh": "Meso je bijelo; kožica klobuka debela je i želatinozna.",
+      "sporePrint": "Otisak spora vrlo je blijedoružičast. Spore su kuglaste, sitno bradavičaste, široke 5–7 µm i neamiloidne.",
+      "habitat": "Raste na jako trulim deblima i granama listača, osobito brijesta; od srpnja do studenoga u Britaniji i Irskoj.",
+      "uses": "Općenito se smatra nejestivom.",
+      "confusion": "Sjevernoamerički srodnik Rhodotus reticeps genetski je odvojen i obično ima veće spore. Rhodotus asperior ima manje, elipsoidnije spore s grubljom ornamentacijom.",
+      "notes": "Nestajanje brijestova i uklanjanje oborenog mrtvog drva ugrožavaju njezino stanište.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+        "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+        "https://portal.nature.cz/w/druh-20306",
+        "https://doi.org/10.66974/347ec34e",
+        "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+        "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+        "https://species.data.kew.org/species/200961",
+        "https://api.gbif.org/v1/species/2537058",
+        "https://www.inaturalist.org/taxon_changes/175547",
+        "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540"
+      ]
+    },
+    "sr": {
+      "description": "Месната гљива која разграђује дрво, присутна у Европи, расте појединачно или у малим групама на трулом дрвету лишћара, нарочито бреста. Воли влажне шуме са обореним дрветом и у многим је подручјима ретка.",
+      "cap": "Шешир је широк 3–10 cm, испупчен, касније пљоснатији, лососоворужичаст до боје брескве, са дебелом желатинозном кожицом и често мрежом издигнутих жилица.",
+      "hymenium": "Листићи су ружичасти, умерено размакнути, прирасли до готово слободни.",
+      "stipe": "Дршка је дуга 3–7 cm и дебела 1–1,5 cm, закривљена, ружичаста и блеђа од шешира, са беличастим влаканцима, без прстена. Може излучивати црвене или наранџасте капљице.",
+      "flesh": "Месо је бело; кожица шешира је дебела и желатинозна.",
+      "sporePrint": "Отисак спора је врло бледоружичаст. Споре су лоптасте, ситно брадавичасте, широке 5–7 µm и неамилоидне.",
+      "habitat": "Расте на јако трулим деблима и гранама лишћара, нарочито бреста; од јула до новембра у Британији и Ирској.",
+      "uses": "Углавном се сматра нејестивом.",
+      "confusion": "Северноамерички сродник Rhodotus reticeps генетски је одвојен и обично има веће споре. Rhodotus asperior има мање, елипсоидније споре са грубљом орнаментацијом.",
+      "notes": "Нестајање брестова и уклањање обореног мртвог дрвета угрожавају њено станиште.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+        "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+        "https://portal.nature.cz/w/druh-20306",
+        "https://doi.org/10.66974/347ec34e",
+        "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+        "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+        "https://species.data.kew.org/species/200961",
+        "https://api.gbif.org/v1/species/2537058",
+        "https://www.inaturalist.org/taxon_changes/175547",
+        "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540"
+      ]
+    },
+    "bg": {
+      "description": "Месеста дървесиноразграждаща гъба, срещаща се в Европа, която расте поединично или на малки групи върху гниеща широколистна дървесина, особено бряст. Предпочита влажни гори с паднали дървета и в много области е рядка.",
+      "cap": "Шапката е широка 3–10 cm, изпъкнала, после по-плоска, сьомгово-розова до прасковена, с дебела желатинозна кожица и често мрежа от изпъкнали жилки.",
+      "hymenium": "Ламелите са розовеещи, умерено раздалечени, прикрепени до почти свободни.",
+      "stipe": "Пънчето е дълго 3–7 cm и дебело 1–1,5 cm, извито, розовеещо и по-бледо от шапката, с белезникави влакънца и без пръстен. Може да отделя червени или оранжеви капчици.",
+      "flesh": "Месото е бяло; кожицата на шапката е дебела и желатинозна.",
+      "sporePrint": "Споровият отпечатък е много бледорозов. Спорите са кълбовидни, фино брадавичести, широки 5–7 µm и неамилоидни.",
+      "habitat": "Расте по силно изгнили стволове и клони на широколистни дървета, особено бряст; от юли до ноември във Великобритания и Ирландия.",
+      "uses": "Обикновено се смята за неядлива.",
+      "confusion": "Северноамериканският сроден вид Rhodotus reticeps е генетично различен и обикновено има по-едри спори. Rhodotus asperior има по-дребни, по-елипсоидни спори с по-груба орнаментация.",
+      "notes": "Намаляването на брястовете и отстраняването на падналата мъртва дървесина застрашават местообитанието ѝ.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+        "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+        "https://portal.nature.cz/w/druh-20306",
+        "https://doi.org/10.66974/347ec34e",
+        "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+        "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+        "https://species.data.kew.org/species/200961",
+        "https://api.gbif.org/v1/species/2537058",
+        "https://www.inaturalist.org/taxon_changes/175547",
+        "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540"
+      ]
+    },
+    "ru": {
+      "description": "Мясистый дереворазрушающий гриб Европы, растущий одиночно или небольшими группами на гниющей древесине лиственных пород, особенно вяза. Предпочитает влажные леса с валежником и во многих регионах встречается редко.",
+      "cap": "Шляпка шириной 3–10 см, выпуклая, затем более плоская, лососёво-розовая до персиковой, с толстой студенистой кожицей и часто сеткой приподнятых жилок.",
+      "hymenium": "Пластинки розоватые, умеренно редкие, приросшие до почти свободных.",
+      "stipe": "Ножка длиной 3–7 см и толщиной 1–1,5 см, изогнутая, розоватая и бледнее шляпки, с беловатыми волоконцами, без кольца. Может выделять красные или оранжевые капли.",
+      "flesh": "Мякоть белая; кожица шляпки толстая и студенистая.",
+      "sporePrint": "Споровый отпечаток очень бледно-розовый. Споры шаровидные, мелкобородавчатые, шириной 5–7 мкм, неамилоидные.",
+      "habitat": "Растёт на сильно сгнивших стволах и ветвях лиственных пород, особенно вяза; в Британии и Ирландии с июля по ноябрь.",
+      "uses": "Обычно считается несъедобным.",
+      "confusion": "Североамериканский родственник Rhodotus reticeps генетически обособлен и обычно имеет более крупные споры. У Rhodotus asperior споры мельче, более эллипсоидные, с более грубой орнаментацией.",
+      "notes": "Исчезновение вязов и удаление валежной мёртвой древесины угрожают его местообитаниям.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+        "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+        "https://portal.nature.cz/w/druh-20306",
+        "https://doi.org/10.66974/347ec34e",
+        "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+        "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+        "https://species.data.kew.org/species/200961",
+        "https://api.gbif.org/v1/species/2537058",
+        "https://www.inaturalist.org/taxon_changes/175547",
+        "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540",
+        "https://api.gbif.org/v1/species/2537058/vernacularNames?limit=1000"
+      ],
+      "label": "родотус дланевидный"
+    },
+    "uk": {
+      "description": "М’ясистий дереворуйнівний гриб Європи, що росте поодинці або невеликими групами на гнилій деревині листяних порід, особливо в’яза. Віддає перевагу вологим лісам із поваленими деревами й у багатьох регіонах трапляється рідко.",
+      "cap": "Шапинка завширшки 3–10 см, опукла, згодом пласкіша, лососево-рожева до персикової, з товстою драглистою шкіркою та часто сіткою піднятих жилок.",
+      "hymenium": "Пластинки рожевуваті, помірно рідкі, прирослі до майже вільних.",
+      "stipe": "Ніжка завдовжки 3–7 см і завтовшки 1–1,5 см, вигнута, рожевувата й блідіша за шапинку, з білуватими волоконцями, без кільця. Може виділяти червоні або оранжеві краплі.",
+      "flesh": "М’якуш білий; шкірка шапинки товста й драглиста.",
+      "sporePrint": "Споровий відбиток дуже блідо-рожевий. Спори кулясті, дрібнобородавчасті, завширшки 5–7 мкм, неамілоїдні.",
+      "habitat": "Росте на сильно перегнилих стовбурах і гілках листяних порід, особливо в’яза; у Британії та Ірландії від липня до листопада.",
+      "uses": "Зазвичай вважається неїстівним.",
+      "confusion": "Північноамериканський родич Rhodotus reticeps генетично відокремлений і зазвичай має більші спори. У Rhodotus asperior спори менші, більш еліпсоїдні, з грубішою орнаментацією.",
+      "notes": "Зникнення в’язів і видалення поваленої мертвої деревини загрожують його оселищам.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+        "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+        "https://portal.nature.cz/w/druh-20306",
+        "https://doi.org/10.66974/347ec34e",
+        "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+        "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+        "https://species.data.kew.org/species/200961",
+        "https://api.gbif.org/v1/species/2537058",
+        "https://www.inaturalist.org/taxon_changes/175547",
+        "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540",
+        "https://api.gbif.org/v1/species/2537058/vernacularNames?limit=1000"
+      ],
+      "label": "родот пальчастий"
+    },
+    "tr": {
+      "description": "Avrupa’da bulunan etli, odun çürüten bir mantardır; çürümüş yapraklı ağaç odununda, özellikle karaağaçta, tek tek veya küçük gruplar halinde yetişir. Devrilmiş odun bulunan nemli ormanları tercih eder ve birçok bölgede seyrektir.",
+      "cap": "Şapka 3–10 cm genişliğinde, önce dışbükey, sonra daha yassı, somon pembesi ile şeftali rengi arasındadır; kalın, jelatinimsi derisi ve çoğu zaman kabarık damarlardan oluşan bir ağı vardır.",
+      "hymenium": "Lameller pembemsi, orta aralıklı, sapa bitişik veya hemen hemen serbesttir.",
+      "stipe": "Sap 3–7 cm uzunluğunda ve 1–1,5 cm kalınlığında, eğri, pembemsi ve şapkadan daha soluktur; beyazımsı lifçikler taşır, halkası yoktur. Kırmızı veya turuncu damlacıklar salgılayabilir.",
+      "flesh": "Eti beyazdır; şapka derisi kalın ve jelatinimsidir.",
+      "sporePrint": "Spor izi çok soluk pembedir. Sporlar küresel, ince siğilli, 5–7 µm çapında ve inamiloiddir.",
+      "habitat": "İyice çürümüş yapraklı ağaç gövde ve dallarında, özellikle karaağaçta yetişir; Britanya ve İrlanda’da temmuzdan kasıma kadar görülür.",
+      "uses": "Genellikle yenmez kabul edilir.",
+      "confusion": "Kuzey Amerikalı akrabası Rhodotus reticeps genetik olarak farklıdır ve sporları genellikle daha büyüktür. Rhodotus asperior daha küçük, daha elipsoit ve daha kaba süslü sporlara sahiptir.",
+      "notes": "Karaağaçların azalması ve devrilmiş ölü odunun kaldırılması yaşam alanını tehdit eder.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+        "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+        "https://portal.nature.cz/w/druh-20306",
+        "https://doi.org/10.66974/347ec34e",
+        "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+        "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+        "https://species.data.kew.org/species/200961",
+        "https://api.gbif.org/v1/species/2537058",
+        "https://www.inaturalist.org/taxon_changes/175547",
+        "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540"
+      ]
+    },
+    "id": {
+      "description": "Jamur berdaging pengurai kayu yang ditemukan di Eropa, tumbuh sendiri atau dalam kelompok kecil pada kayu lapuk pohon berdaun lebar, terutama elm. Menyukai hutan lembap dengan kayu tumbang dan jarang ditemukan di banyak wilayah.",
+      "cap": "Tudung selebar 3–10 cm, cembung lalu lebih mendatar, berwarna merah muda salmon hingga persik, dengan kulit tebal menyerupai gel dan sering memiliki jaringan urat timbul.",
+      "hymenium": "Bilah berwarna merah muda, berjarak sedang, melekat hingga hampir bebas.",
+      "stipe": "Tangkai sepanjang 3–7 cm dan setebal 1–1,5 cm, melengkung, merah muda dan lebih pucat daripada tudung, dengan serabut keputihan tanpa cincin. Dapat mengeluarkan tetesan merah atau jingga.",
+      "flesh": "Daging berwarna putih; kulit tudung tebal dan menyerupai gel.",
+      "sporePrint": "Cetakan spora berwarna merah muda sangat pucat. Spora berbentuk bulat, berkutil halus, berdiameter 5–7 µm dan inamiloid.",
+      "habitat": "Tumbuh pada batang dan cabang pohon berdaun lebar yang sangat lapuk, terutama elm; Juli hingga November di Britania dan Irlandia.",
+      "uses": "Umumnya dianggap tidak dapat dimakan.",
+      "confusion": "Kerabat Amerika Utara, Rhodotus reticeps, berbeda secara genetik dan cenderung memiliki spora lebih besar. Rhodotus asperior memiliki spora lebih kecil, lebih elipsoid, dengan ornamen lebih kasar.",
+      "notes": "Berkurangnya elm dan pembuangan kayu mati yang tumbang mengancam habitatnya.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+        "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+        "https://portal.nature.cz/w/druh-20306",
+        "https://doi.org/10.66974/347ec34e",
+        "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+        "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+        "https://species.data.kew.org/species/200961",
+        "https://api.gbif.org/v1/species/2537058",
+        "https://www.inaturalist.org/taxon_changes/175547",
+        "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540"
+      ]
+    },
+    "hi": {
+      "description": "यूरोप में पाया जाने वाला यह मांसल कवक सड़ी हुई चौड़ी पत्ती वाले पेड़ों की लकड़ी, विशेषकर एल्म, पर अकेले या छोटे समूहों में उगता है और लकड़ी का अपघटन करता है। यह गिरी हुई लकड़ी वाले नम वनों को पसंद करता है और कई क्षेत्रों में असामान्य है।",
+      "cap": "टोपी 3–10 सेमी चौड़ी, पहले उत्तल और बाद में अधिक चपटी, सामन-गुलाबी से आड़ू रंग की होती है। इसकी त्वचा मोटी और जिलेटिन जैसी होती है और उस पर अक्सर उभरी शिराओं का जाल होता है।",
+      "hymenium": "गलफड़े गुलाबी, मध्यम दूरी पर, तने से जुड़े हुए से लगभग मुक्त होते हैं।",
+      "stipe": "तना 3–7 सेमी लंबा और 1–1.5 सेमी मोटा, मुड़ा हुआ, गुलाबी तथा टोपी से हल्का होता है। उस पर सफेद रेशे होते हैं और वलय नहीं होता। उससे लाल या नारंगी बूंदें निकल सकती हैं।",
+      "flesh": "गूदा सफेद होता है; टोपी की त्वचा मोटी और जिलेटिन जैसी होती है।",
+      "sporePrint": "बीजाणु छाप बहुत हल्की गुलाबी होती है। बीजाणु गोल, बारीक मस्सेदार, 5–7 माइक्रोमीटर व्यास के और इनैमिलॉइड होते हैं।",
+      "habitat": "यह अत्यधिक सड़े हुए चौड़ी पत्ती वाले पेड़ों के तनों और शाखाओं, विशेषकर एल्म, पर उगता है; ब्रिटेन और आयरलैंड में जुलाई से नवंबर तक मिलता है।",
+      "uses": "आम तौर पर इसे अखाद्य माना जाता है।",
+      "confusion": "उत्तर अमेरिकी संबंधी Rhodotus reticeps आनुवंशिक रूप से अलग है और उसके बीजाणु सामान्यतः बड़े होते हैं। Rhodotus asperior के बीजाणु छोटे, अधिक दीर्घवृत्ताकार और मोटे अलंकरण वाले होते हैं।",
+      "notes": "एल्म की कमी और गिरी हुई मृत लकड़ी को हटाना इसके आवास के लिए खतरे हैं।",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+        "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+        "https://portal.nature.cz/w/druh-20306",
+        "https://doi.org/10.66974/347ec34e",
+        "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+        "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+        "https://species.data.kew.org/species/200961",
+        "https://api.gbif.org/v1/species/2537058",
+        "https://www.inaturalist.org/taxon_changes/175547",
+        "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540"
+      ]
+    },
+    "ja": {
+      "description": "ヨーロッパで見られる肉質の木材腐朽菌で、特にニレなどの広葉樹の腐った材に単生または小群生します。倒木のある湿った森林を好み、多くの地域でまれです。",
+      "cap": "傘は幅3–10 cmで、初めは丸く盛り上がり、後に平らになります。サーモンピンクから桃色で、厚いゼラチン質の表皮があり、盛り上がった脈が網目を作ることがよくあります。",
+      "hymenium": "ひだは淡いピンク色で、間隔は中程度、直生からほぼ離生です。",
+      "stipe": "柄は長さ3–7 cm、太さ1–1.5 cmで、曲がり、傘より淡いピンク色です。白っぽい繊維があり、つばはありません。赤色や橙色の液滴を出すことがあります。",
+      "flesh": "肉は白色です。傘の表皮は厚く、ゼラチン質です。",
+      "sporePrint": "胞子紋はごく淡いピンク色です。胞子は球形で、細かいいぼがあり、直径5–7 µm、非アミロイドです。",
+      "habitat": "特にニレなどの広葉樹のよく腐った幹や枝に発生します。イギリスとアイルランドでは7月から11月に見られます。",
+      "uses": "一般に食用には適さないとされています。",
+      "confusion": "北米の近縁種Rhodotus reticepsは遺伝的に異なり、胞子がより大きい傾向があります。Rhodotus asperiorは胞子がより小さく、より楕円形で、表面の装飾がより粗くなっています。",
+      "notes": "ニレの減少と倒れた枯れ木の除去が生育環境を脅かしています。",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+        "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+        "https://portal.nature.cz/w/druh-20306",
+        "https://doi.org/10.66974/347ec34e",
+        "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+        "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+        "https://species.data.kew.org/species/200961",
+        "https://api.gbif.org/v1/species/2537058",
+        "https://www.inaturalist.org/taxon_changes/175547",
+        "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540"
+      ]
+    },
+    "ko": {
+      "description": "유럽에서 발견되는 살이 두툼한 목재 부후균으로, 특히 느릅나무 같은 활엽수의 썩은 목재에 홀로 또는 작은 무리로 자랍니다. 쓰러진 나무가 있는 습한 숲을 좋아하며 여러 지역에서 드뭅니다.",
+      "cap": "갓은 너비 3–10 cm로 볼록하다가 점차 편평해집니다. 연어빛 분홍색에서 복숭아색이며, 두꺼운 젤라틴질 껍질과 흔히 솟아오른 맥이 이루는 그물무늬가 있습니다.",
+      "hymenium": "주름살은 분홍빛이며 간격은 중간 정도이고, 대에 붙거나 거의 떨어져 있습니다.",
+      "stipe": "대는 길이 3–7 cm, 굵기 1–1.5 cm로 굽어 있으며 갓보다 연한 분홍빛입니다. 희끄무레한 섬유가 있고 턱받이는 없습니다. 붉거나 주황색인 물방울을 분비할 수 있습니다.",
+      "flesh": "살은 흰색이며 갓 껍질은 두껍고 젤라틴질입니다.",
+      "sporePrint": "포자문은 매우 연한 분홍색입니다. 포자는 구형이고 미세한 사마귀가 있으며 지름 5–7 µm이고 비아밀로이드성입니다.",
+      "habitat": "특히 느릅나무 같은 활엽수의 심하게 썩은 줄기와 가지에서 자랍니다. 영국과 아일랜드에서는 7월부터 11월까지 발생합니다.",
+      "uses": "일반적으로 식용에 적합하지 않은 것으로 여깁니다.",
+      "confusion": "북미의 근연종 Rhodotus reticeps는 유전적으로 다르며 포자가 더 큰 경향이 있습니다. Rhodotus asperior는 포자가 더 작고 타원형에 가까우며 표면 장식이 더 거칩니다.",
+      "notes": "느릅나무의 감소와 쓰러진 고사목 제거가 서식지를 위협합니다.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+        "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+        "https://portal.nature.cz/w/druh-20306",
+        "https://doi.org/10.66974/347ec34e",
+        "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+        "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+        "https://species.data.kew.org/species/200961",
+        "https://api.gbif.org/v1/species/2537058",
+        "https://www.inaturalist.org/taxon_changes/175547",
+        "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540"
+      ]
+    },
+    "zh": {
+      "description": "這是一種在歐洲可見、肉質且分解木材的真菌，單生或小群生於腐爛的闊葉樹木材上，尤其是榆木。喜好有倒木的潮濕林地，在許多地區並不常見。",
+      "cap": "菌蓋寬3–10公分，初凸起，後變得較平，呈鮭粉紅色至桃色，表皮厚而膠質，常有隆起的網狀脈紋。",
+      "hymenium": "菌褶帶粉紅色，間距中等，與菌柄相連至近乎離生。",
+      "stipe": "菌柄長3–7公分、粗1–1.5公分，彎曲，帶粉紅色且比菌蓋淡，有白色細纖維，無菌環。有時會分泌紅色或橙色液滴。",
+      "flesh": "菌肉白色；菌蓋表皮厚而膠質。",
+      "sporePrint": "孢子印呈極淡粉紅色。孢子球形，有細小疣突，直徑5–7微米，非澱粉質。",
+      "habitat": "生長於高度腐爛的闊葉樹樹幹及枝條，尤其是榆木；在英國與愛爾蘭的出現期為7月至11月。",
+      "uses": "一般認為不可食用。",
+      "confusion": "北美近緣種Rhodotus reticeps在遺傳上不同，孢子通常較大。Rhodotus asperior的孢子較小、較偏橢圓形，表面紋飾也較粗。",
+      "notes": "榆樹減少及清除倒落的枯木，會威脅其棲地。",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+        "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+        "https://portal.nature.cz/w/druh-20306",
+        "https://doi.org/10.66974/347ec34e",
+        "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+        "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+        "https://species.data.kew.org/species/200961",
+        "https://api.gbif.org/v1/species/2537058",
+        "https://www.inaturalist.org/taxon_changes/175547",
+        "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540"
+      ]
+    },
+    "he": {
+      "description": "פטרייה בשרנית מפרקת עץ המצויה באירופה, וגדלה ביחידות או בקבוצות קטנות על עץ רקוב של רחבי עלים, במיוחד בוקיצה. היא מעדיפה יערות לחים עם עצים שנפלו, ואינה שכיחה באזורים רבים.",
+      "cap": "הכובע ברוחב 3–10 ס״מ, קמור ובהמשך שטוח יותר, בגוון ורוד סלמון עד אפרסק, עם עור עבה וג׳לטיני ולעיתים קרובות רשת של עורקים בולטים.",
+      "hymenium": "הדפים ורדרדים, מרווחים במידה בינונית, מחוברים לרגל עד כמעט חופשיים.",
+      "stipe": "הרגל באורך 3–7 ס״מ ובעובי 1–1.5 ס״מ, מעוקלת, ורדרדה ובהירה מן הכובע, עם סיבים לבנבנים וללא טבעת. היא עשויה להפריש טיפות אדומות או כתומות.",
+      "flesh": "הבשר לבן; עור הכובע עבה וג׳לטיני.",
+      "sporePrint": "טביעת הנבגים ורודה חיוורת מאוד. הנבגים כדוריים, בעלי יבלות עדינות, בקוטר 5–7 מיקרומטר ואינם עמילואידיים.",
+      "habitat": "גדלה על גזעים וענפים רקובים מאוד של רחבי עלים, במיוחד בוקיצה; בבריטניה ובאירלנד מיולי עד נובמבר.",
+      "uses": "נחשבת בדרך כלל בלתי ראויה למאכל.",
+      "confusion": "המין הצפון־אמריקאי הקרוב Rhodotus reticeps נבדל גנטית ונוטה לנבגים גדולים יותר. ל־Rhodotus asperior נבגים קטנים יותר, אליפסואידיים יותר ובעלי עיטור גס יותר.",
+      "notes": "היעלמות הבוקיצות וסילוק עצים מתים שנפלו מאיימים על בית הגידול שלה.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+        "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+        "https://portal.nature.cz/w/druh-20306",
+        "https://doi.org/10.66974/347ec34e",
+        "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+        "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+        "https://species.data.kew.org/species/200961",
+        "https://api.gbif.org/v1/species/2537058",
+        "https://www.inaturalist.org/taxon_changes/175547",
+        "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540"
+      ]
+    },
+    "ar": {
+      "description": "فطر لحمي محلل للخشب يوجد في أوروبا، وينمو منفردًا أو في مجموعات صغيرة على خشب الأشجار عريضة الأوراق المتعفن، ولا سيما الدردار. يفضل الغابات الرطبة التي تحتوي على أخشاب ساقطة، وهو غير شائع في مناطق كثيرة.",
+      "cap": "عرض القبعة ٣–١٠ سم، محدبة ثم تصبح أكثر تسطحًا، وردية سلمونية إلى لون الخوخ، ذات جلد سميك هلامي، وغالبًا ما تحمل شبكة من عروق بارزة.",
+      "hymenium": "الصفائح وردية، متوسطة التباعد، متصلة بالساق إلى شبه حرة.",
+      "stipe": "طول الساق ٣–٧ سم وسمكها ١–١٫٥ سم، منحنية ووردية وأفتح من القبعة، ذات ألياف بيضاء خفيفة ومن دون حلقة. قد تفرز قطرات حمراء أو برتقالية.",
+      "flesh": "اللحم أبيض؛ جلد القبعة سميك وهلامي.",
+      "sporePrint": "بصمة الأبواغ وردية باهتة جدًا. الأبواغ كروية، دقيقة الثآليل، قطرها ٥–٧ ميكرومتر، وغير أميلويدية.",
+      "habitat": "ينمو على جذوع وأغصان الأشجار عريضة الأوراق شديدة التعفن، وخاصة الدردار؛ من يوليو إلى نوفمبر في بريطانيا وأيرلندا.",
+      "uses": "يعد عمومًا غير صالح للأكل.",
+      "confusion": "قريبه في أمريكا الشمالية Rhodotus reticeps متميز وراثيًا، وتميل أبواغه إلى أن تكون أكبر. أبواغ Rhodotus asperior أصغر وأكثر إهليلجية وذات زخرفة أخشن.",
+      "notes": "تراجع أشجار الدردار وإزالة الأخشاب الميتة الساقطة يهددان موئله.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+        "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+        "https://portal.nature.cz/w/druh-20306",
+        "https://doi.org/10.66974/347ec34e",
+        "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+        "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+        "https://species.data.kew.org/species/200961",
+        "https://api.gbif.org/v1/species/2537058",
+        "https://www.inaturalist.org/taxon_changes/175547",
+        "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540"
+      ]
+    },
+    "fa": {
+      "description": "قارچی گوشتی و تجزیه‌کنندهٔ چوب است که در اروپا، به‌تنهایی یا در گروه‌های کوچک روی چوب پوسیدهٔ درختان پهن‌برگ، به‌ویژه نارون، می‌روید. جنگل‌های مرطوب دارای چوب افتاده را ترجیح می‌دهد و در بسیاری از مناطق کم‌یاب است.",
+      "cap": "کلاهک ۳–۱۰ سانتی‌متر پهنا دارد، ابتدا محدب و سپس تخت‌تر است، به رنگ صورتی سالمونی تا هلویی، با پوست ضخیم و ژلاتینی و اغلب شبکه‌ای از رگبرگ‌های برجسته.",
+      "hymenium": "تیغه‌ها صورتی، با فاصلهٔ متوسط و متصل به پایه تا تقریباً آزاد هستند.",
+      "stipe": "پایه ۳–۷ سانتی‌متر طول و ۱–۱٫۵ سانتی‌متر ضخامت دارد، خمیده، صورتی و کم‌رنگ‌تر از کلاهک است، با رشته‌های سفیدفام و بدون حلقه. ممکن است قطره‌های قرمز یا نارنجی ترشح کند.",
+      "flesh": "گوشت سفید است؛ پوست کلاهک ضخیم و ژلاتینی است.",
+      "sporePrint": "نقش هاگ بسیار صورتی کم‌رنگ است. هاگ‌ها کروی، با زگیل‌های ریز، به قطر ۵–۷ میکرومتر و غیرآمیلوئیدی هستند.",
+      "habitat": "روی تنه‌ها و شاخه‌های بسیار پوسیدهٔ درختان پهن‌برگ، به‌ویژه نارون، می‌روید؛ در بریتانیا و ایرلند از ژوئیه تا نوامبر دیده می‌شود.",
+      "uses": "عموماً غیرخوراکی دانسته می‌شود.",
+      "confusion": "خویشاوند آمریکای شمالی آن، Rhodotus reticeps، از نظر ژنتیکی متمایز است و معمولاً هاگ‌های بزرگ‌تری دارد. Rhodotus asperior هاگ‌های کوچک‌تر، بیضوی‌تر و با تزئینات درشت‌تر دارد.",
+      "notes": "کاهش نارون‌ها و برداشتن چوب‌های مردهٔ افتاده زیستگاه آن را تهدید می‌کند.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+        "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+        "https://portal.nature.cz/w/druh-20306",
+        "https://doi.org/10.66974/347ec34e",
+        "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+        "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+        "https://species.data.kew.org/species/200961",
+        "https://api.gbif.org/v1/species/2537058",
+        "https://www.inaturalist.org/taxon_changes/175547",
+        "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540"
+      ]
+    }
+  },
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Rhodotus_palmatus/Rhodotus_palmatus@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Rhodotus_palmatus/Rhodotus_palmatus@400.webp",
+  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Rhodotus_palmatus/Rhodotus_palmatus@1600.webp",
+  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Rhodotus_palmatus/Rhodotus_palmatus@400.webp",
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Agaricales/Physalacriaceae/Rhodotus_palmatus/Rhodotus_palmatus@1600.webp",
+      "author": "Unverified; existing J. Sowerby source mark retained at owner request, not authenticated authorship",
+      "license": "Unverified owner-supplied artwork",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Rhodotus_palmatus/Rhodotus_palmatus@1600.webp",
+      "sourceDescription": "Owner-supplied Rhodotus palmatus.png; existing J. Sowerby mark preserved at owner request, NOT authenticated authorship. Artist/rights/generation/species accuracy unknown; dorsal netting not clearly depicted and stylized gill arrangement retained without repaint."
+    },
+    {
+      "role": "illustration_thumbnail",
+      "path": "photos/Agaricales/Physalacriaceae/Rhodotus_palmatus/Rhodotus_palmatus@400.webp",
+      "author": "Unverified",
+      "license": "Unverified owner-supplied artwork",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Rhodotus_palmatus/Rhodotus_palmatus@400.webp",
+      "sourceDescription": "Owner-supplied Rhodotus palmatus.png; existing J. Sowerby mark preserved at owner request, NOT authenticated authorship. Artist/rights/generation/species accuracy unknown; dorsal netting not clearly depicted and stylized gill arrangement retained without repaint."
+    },
+    {
+      "role": "photo",
+      "path": "photos/Agaricales/Physalacriaceae/Rhodotus_palmatus/photo_1.webp",
+      "author": "iNaturalist uploader barkay99; API attribution: no rights reserved",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/194096626"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Agaricales/Physalacriaceae/Rhodotus_palmatus/photo_2.webp",
+      "author": "iNaturalist uploader pilmar; API attribution: no rights reserved",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/97705835"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Agaricales/Physalacriaceae/Rhodotus_palmatus/photo_3.webp",
+      "author": "iNaturalist uploader drtimk; API attribution: no rights reserved",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/144993193"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Agaricales/Physalacriaceae/Rhodotus_palmatus/photo_4.webp",
+      "author": "iNaturalist uploader steve_mcwilliam; API attribution: no rights reserved",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/34653607"
+    },
+    {
+      "role": "photo",
+      "path": "photos/Agaricales/Physalacriaceae/Rhodotus_palmatus/photo_5.webp",
+      "author": "iNaturalist uploader fungiary; API attribution: no rights reserved",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/140909302"
+    }
+  ],
+  "illustrationProvenance": {
+    "sourceDimensions": [
+      896,
+      1200
+    ],
+    "sourceSha256": "c23c31ee61dc231f2e1bb9640aaee478eceb51ab4940f8e9664d0075c7edbed5",
+    "foregroundBBox": [
+      46,
+      159,
+      827,
+      1132
+    ],
+    "uniformScale": 1.792573623559539,
+    "sourceRGBRetainedPixelIdentity": true,
+    "actualAlpha": true,
+    "opaqueRectanglePasted": false,
+    "paleInteriorsProtected": true,
+    "originalArrangementRetained": true,
+    "existingMark": "J. Sowerby, bottom right, retained as source pixels.",
+    "requestedCredit": "J. Sowerby",
+    "addedSignature": false,
+    "editorialCreditDecision": "Requested visible credit already exists on supplied image; preserved, no duplicate or forged autograph added. This is not authenticated historical authorship.",
+    "artist": "Unverified; user-requested J. Sowerby credit is not independent attribution.",
+    "license": "Unverified owner-supplied artwork",
+    "generationHistory": "Unknown",
+    "method": "Pillow/NumPy/SciPy/OpenCV deterministic contour/GrabCut alpha extraction; no generation, anatomy repaint or RGB modification.",
+    "caveats": [
+      "Cluster and lower longitudinal section preserved; pale interiors protected.",
+      "The image does not clearly show the characteristic dorsal reticulation; cap/gill arrangement is stylized and exact species attribution cannot be authenticated from the supplied file.",
+      "Existing J. Sowerby mark is not proof of historical artist, rights or generation history.",
+      "Manual exterior boundary/window separation is reviewable segmentation, not reconstruction; checker and source contour supplied."
+    ],
+    "originalSourcePath": "/Users/adrianbenko/Downloads/Rhodotus palmatus.png",
+    "sourceAuthorization": "Owner pt947u supplied exact image and requested visible J. Sowerby credit; existing source mark preserved, no duplicate added. STAGING ONLY.",
+    "sourceUrl": null,
+    "rightsClearance": "Unknown; neither a signature nor user supply establishes license or historical authorship.",
+    "outputDimensions": {
+      "plate": [
+        1600,
+        2400
+      ],
+      "thumbnail": [
+        400,
+        600
+      ]
+    },
+    "visualQA": "Final plate/checker/source contour inspected: full cluster, separate longitudinal section, pale interiors, source arrangement and existing mark retained; exterior/interstem paper removed. Fine edge separation remains a reviewable judgment."
+  },
+  "plateCredit": {
+    "author": "",
+    "credit": "Owner-supplied artwork; existing J. Sowerby mark retained, not authenticated authorship. Artist/rights/generation/species accuracy unverified; netting not clearly depicted, stylized gills preserved.",
+    "license": "unverified owner-supplied artwork",
+    "licenseUrl": "",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Rhodotus_palmatus/Rhodotus_palmatus@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Rhodotus_palmatus/photo_1.webp",
+      "author": "iNaturalist uploader barkay99; API attribution: no rights reserved",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/194096626"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Rhodotus_palmatus/photo_2.webp",
+      "author": "iNaturalist uploader pilmar; API attribution: no rights reserved",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/97705835"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Rhodotus_palmatus/photo_3.webp",
+      "author": "iNaturalist uploader drtimk; API attribution: no rights reserved",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/144993193"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Rhodotus_palmatus/photo_4.webp",
+      "author": "iNaturalist uploader steve_mcwilliam; API attribution: no rights reserved",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/34653607"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Physalacriaceae/Rhodotus_palmatus/photo_5.webp",
+      "author": "iNaturalist uploader fungiary; API attribution: no rights reserved",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/140909302"
+    }
+  ],
+  "label": {
+    "en": "wrinkled peach",
+    "sk": "červenáčik obyčajný",
+    "cs": "hlívovec ostnovýtrusý",
+    "de": "Orangerötlicher Adernseitling",
+    "fr": "Rhodotus réticulé",
+    "da": "ferskenhat",
+    "nl": "zalmzwam",
+    "lt": "gyslotoji kremzliabudė",
+    "no": "ferskenpote",
+    "lv": "vēdekļa sārtaine",
+    "et": "roosa võrkheinik",
+    "pl": "żyłkowiec różowawy",
+    "hu": "tönkös kacskagomba",
+    "sl": "brazdasti klobučar",
+    "sv": "ådermussling",
+    "uk": "родот пальчастий",
+    "ru": "родотус дланевидный",
+    "it": "fungo pesca rugosa",
+    "ro": "piersică uscată"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [
+      "Adernseitling",
+      "Rosa Adernseitling"
+    ],
+    "en": [],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "ar": [
+      "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+      "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+      "https://portal.nature.cz/w/druh-20306",
+      "https://doi.org/10.66974/347ec34e",
+      "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+      "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+      "https://species.data.kew.org/species/200961",
+      "https://api.gbif.org/v1/species/2537058",
+      "https://www.inaturalist.org/taxon_changes/175547",
+      "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540"
+    ],
+    "bg": [
+      "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+      "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+      "https://portal.nature.cz/w/druh-20306",
+      "https://doi.org/10.66974/347ec34e",
+      "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+      "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+      "https://species.data.kew.org/species/200961",
+      "https://api.gbif.org/v1/species/2537058",
+      "https://www.inaturalist.org/taxon_changes/175547",
+      "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540"
+    ],
+    "cs": [
+      "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+      "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+      "https://portal.nature.cz/w/druh-20306",
+      "https://doi.org/10.66974/347ec34e",
+      "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+      "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+      "https://species.data.kew.org/species/200961",
+      "https://api.gbif.org/v1/species/2537058",
+      "https://www.inaturalist.org/taxon_changes/175547",
+      "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540",
+      "https://api.gbif.org/v1/species/2537058/vernacularNames?limit=1000"
+    ],
+    "da": [
+      "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+      "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+      "https://portal.nature.cz/w/druh-20306",
+      "https://doi.org/10.66974/347ec34e",
+      "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+      "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+      "https://species.data.kew.org/species/200961",
+      "https://api.gbif.org/v1/species/2537058",
+      "https://www.inaturalist.org/taxon_changes/175547",
+      "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540",
+      "https://api.gbif.org/v1/species/2537058/vernacularNames?limit=1000"
+    ],
+    "de": [
+      "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+      "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+      "https://portal.nature.cz/w/druh-20306",
+      "https://doi.org/10.66974/347ec34e",
+      "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+      "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+      "https://species.data.kew.org/species/200961",
+      "https://api.gbif.org/v1/species/2537058",
+      "https://www.inaturalist.org/taxon_changes/175547",
+      "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540",
+      "https://api.gbif.org/v1/species/2537058/vernacularNames?limit=1000"
+    ],
+    "en": [
+      "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+      "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+      "https://portal.nature.cz/w/druh-20306",
+      "https://doi.org/10.66974/347ec34e",
+      "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+      "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+      "https://species.data.kew.org/species/200961",
+      "https://api.gbif.org/v1/species/2537058",
+      "https://www.inaturalist.org/taxon_changes/175547",
+      "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540",
+      "https://api.gbif.org/v1/species/2537058/vernacularNames?limit=1000"
+    ],
+    "es": [
+      "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+      "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+      "https://portal.nature.cz/w/druh-20306",
+      "https://doi.org/10.66974/347ec34e",
+      "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+      "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+      "https://species.data.kew.org/species/200961",
+      "https://api.gbif.org/v1/species/2537058",
+      "https://www.inaturalist.org/taxon_changes/175547",
+      "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540"
+    ],
+    "et": [
+      "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+      "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+      "https://portal.nature.cz/w/druh-20306",
+      "https://doi.org/10.66974/347ec34e",
+      "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+      "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+      "https://species.data.kew.org/species/200961",
+      "https://api.gbif.org/v1/species/2537058",
+      "https://www.inaturalist.org/taxon_changes/175547",
+      "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540",
+      "https://api.gbif.org/v1/species/2537058/vernacularNames?limit=1000"
+    ],
+    "fa": [
+      "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+      "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+      "https://portal.nature.cz/w/druh-20306",
+      "https://doi.org/10.66974/347ec34e",
+      "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+      "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+      "https://species.data.kew.org/species/200961",
+      "https://api.gbif.org/v1/species/2537058",
+      "https://www.inaturalist.org/taxon_changes/175547",
+      "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540"
+    ],
+    "fi": [
+      "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+      "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+      "https://portal.nature.cz/w/druh-20306",
+      "https://doi.org/10.66974/347ec34e",
+      "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+      "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+      "https://species.data.kew.org/species/200961",
+      "https://api.gbif.org/v1/species/2537058",
+      "https://www.inaturalist.org/taxon_changes/175547",
+      "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540"
+    ],
+    "fr": [
+      "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+      "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+      "https://portal.nature.cz/w/druh-20306",
+      "https://doi.org/10.66974/347ec34e",
+      "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+      "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+      "https://species.data.kew.org/species/200961",
+      "https://api.gbif.org/v1/species/2537058",
+      "https://www.inaturalist.org/taxon_changes/175547",
+      "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540",
+      "https://api.gbif.org/v1/species/2537058/vernacularNames?limit=1000"
+    ],
+    "he": [
+      "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+      "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+      "https://portal.nature.cz/w/druh-20306",
+      "https://doi.org/10.66974/347ec34e",
+      "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+      "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+      "https://species.data.kew.org/species/200961",
+      "https://api.gbif.org/v1/species/2537058",
+      "https://www.inaturalist.org/taxon_changes/175547",
+      "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540"
+    ],
+    "hi": [
+      "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+      "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+      "https://portal.nature.cz/w/druh-20306",
+      "https://doi.org/10.66974/347ec34e",
+      "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+      "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+      "https://species.data.kew.org/species/200961",
+      "https://api.gbif.org/v1/species/2537058",
+      "https://www.inaturalist.org/taxon_changes/175547",
+      "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540"
+    ],
+    "hr": [
+      "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+      "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+      "https://portal.nature.cz/w/druh-20306",
+      "https://doi.org/10.66974/347ec34e",
+      "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+      "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+      "https://species.data.kew.org/species/200961",
+      "https://api.gbif.org/v1/species/2537058",
+      "https://www.inaturalist.org/taxon_changes/175547",
+      "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540"
+    ],
+    "hu": [
+      "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+      "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+      "https://portal.nature.cz/w/druh-20306",
+      "https://doi.org/10.66974/347ec34e",
+      "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+      "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+      "https://species.data.kew.org/species/200961",
+      "https://api.gbif.org/v1/species/2537058",
+      "https://www.inaturalist.org/taxon_changes/175547",
+      "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540",
+      "https://api.gbif.org/v1/species/2537058/vernacularNames?limit=1000"
+    ],
+    "id": [
+      "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+      "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+      "https://portal.nature.cz/w/druh-20306",
+      "https://doi.org/10.66974/347ec34e",
+      "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+      "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+      "https://species.data.kew.org/species/200961",
+      "https://api.gbif.org/v1/species/2537058",
+      "https://www.inaturalist.org/taxon_changes/175547",
+      "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540"
+    ],
+    "it": [
+      "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+      "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+      "https://portal.nature.cz/w/druh-20306",
+      "https://doi.org/10.66974/347ec34e",
+      "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+      "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+      "https://species.data.kew.org/species/200961",
+      "https://api.gbif.org/v1/species/2537058",
+      "https://www.inaturalist.org/taxon_changes/175547",
+      "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540",
+      "https://www.nnb.isprambiente.it/it/eventi-e-notizie/notizie-dalla-rete-dei-partner/specie-di-fungo-raro-avvistato-durante-attivita-in-campo-con-studenti"
+    ],
+    "ja": [
+      "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+      "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+      "https://portal.nature.cz/w/druh-20306",
+      "https://doi.org/10.66974/347ec34e",
+      "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+      "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+      "https://species.data.kew.org/species/200961",
+      "https://api.gbif.org/v1/species/2537058",
+      "https://www.inaturalist.org/taxon_changes/175547",
+      "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540"
+    ],
+    "ko": [
+      "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+      "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+      "https://portal.nature.cz/w/druh-20306",
+      "https://doi.org/10.66974/347ec34e",
+      "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+      "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+      "https://species.data.kew.org/species/200961",
+      "https://api.gbif.org/v1/species/2537058",
+      "https://www.inaturalist.org/taxon_changes/175547",
+      "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540"
+    ],
+    "lt": [
+      "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+      "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+      "https://portal.nature.cz/w/druh-20306",
+      "https://doi.org/10.66974/347ec34e",
+      "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+      "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+      "https://species.data.kew.org/species/200961",
+      "https://api.gbif.org/v1/species/2537058",
+      "https://www.inaturalist.org/taxon_changes/175547",
+      "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540",
+      "https://api.gbif.org/v1/species/2537058/vernacularNames?limit=1000"
+    ],
+    "lv": [
+      "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+      "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+      "https://portal.nature.cz/w/druh-20306",
+      "https://doi.org/10.66974/347ec34e",
+      "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+      "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+      "https://species.data.kew.org/species/200961",
+      "https://api.gbif.org/v1/species/2537058",
+      "https://www.inaturalist.org/taxon_changes/175547",
+      "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540",
+      "https://api.gbif.org/v1/species/2537058/vernacularNames?limit=1000"
+    ],
+    "nl": [
+      "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+      "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+      "https://portal.nature.cz/w/druh-20306",
+      "https://doi.org/10.66974/347ec34e",
+      "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+      "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+      "https://species.data.kew.org/species/200961",
+      "https://api.gbif.org/v1/species/2537058",
+      "https://www.inaturalist.org/taxon_changes/175547",
+      "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540",
+      "https://api.gbif.org/v1/species/2537058/vernacularNames?limit=1000"
+    ],
+    "no": [
+      "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+      "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+      "https://portal.nature.cz/w/druh-20306",
+      "https://doi.org/10.66974/347ec34e",
+      "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+      "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+      "https://species.data.kew.org/species/200961",
+      "https://api.gbif.org/v1/species/2537058",
+      "https://www.inaturalist.org/taxon_changes/175547",
+      "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540",
+      "https://api.gbif.org/v1/species/2537058/vernacularNames?limit=1000"
+    ],
+    "pl": [
+      "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+      "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+      "https://portal.nature.cz/w/druh-20306",
+      "https://doi.org/10.66974/347ec34e",
+      "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+      "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+      "https://species.data.kew.org/species/200961",
+      "https://api.gbif.org/v1/species/2537058",
+      "https://www.inaturalist.org/taxon_changes/175547",
+      "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540",
+      "https://api.gbif.org/v1/species/2537058/vernacularNames?limit=1000"
+    ],
+    "pt": [
+      "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+      "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+      "https://portal.nature.cz/w/druh-20306",
+      "https://doi.org/10.66974/347ec34e",
+      "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+      "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+      "https://species.data.kew.org/species/200961",
+      "https://api.gbif.org/v1/species/2537058",
+      "https://www.inaturalist.org/taxon_changes/175547",
+      "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540"
+    ],
+    "ro": [
+      "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+      "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+      "https://portal.nature.cz/w/druh-20306",
+      "https://doi.org/10.66974/347ec34e",
+      "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+      "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+      "https://species.data.kew.org/species/200961",
+      "https://api.gbif.org/v1/species/2537058",
+      "https://www.inaturalist.org/taxon_changes/175547",
+      "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540",
+      "https://ro.wikipedia.org/wiki/Piersic%C4%83_uscat%C4%83"
+    ],
+    "ru": [
+      "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+      "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+      "https://portal.nature.cz/w/druh-20306",
+      "https://doi.org/10.66974/347ec34e",
+      "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+      "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+      "https://species.data.kew.org/species/200961",
+      "https://api.gbif.org/v1/species/2537058",
+      "https://www.inaturalist.org/taxon_changes/175547",
+      "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540",
+      "https://api.gbif.org/v1/species/2537058/vernacularNames?limit=1000"
+    ],
+    "sk": [
+      "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+      "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+      "https://portal.nature.cz/w/druh-20306",
+      "https://doi.org/10.66974/347ec34e",
+      "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+      "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+      "https://species.data.kew.org/species/200961",
+      "https://api.gbif.org/v1/species/2537058",
+      "https://www.inaturalist.org/taxon_changes/175547",
+      "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540",
+      "https://api.gbif.org/v1/species/2537058/vernacularNames?limit=1000"
+    ],
+    "sl": [
+      "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+      "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+      "https://portal.nature.cz/w/druh-20306",
+      "https://doi.org/10.66974/347ec34e",
+      "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+      "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+      "https://species.data.kew.org/species/200961",
+      "https://api.gbif.org/v1/species/2537058",
+      "https://www.inaturalist.org/taxon_changes/175547",
+      "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540",
+      "https://api.gbif.org/v1/species/2537058/vernacularNames?limit=1000"
+    ],
+    "sr": [
+      "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+      "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+      "https://portal.nature.cz/w/druh-20306",
+      "https://doi.org/10.66974/347ec34e",
+      "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+      "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+      "https://species.data.kew.org/species/200961",
+      "https://api.gbif.org/v1/species/2537058",
+      "https://www.inaturalist.org/taxon_changes/175547",
+      "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540"
+    ],
+    "sv": [
+      "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+      "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+      "https://portal.nature.cz/w/druh-20306",
+      "https://doi.org/10.66974/347ec34e",
+      "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+      "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+      "https://species.data.kew.org/species/200961",
+      "https://api.gbif.org/v1/species/2537058",
+      "https://www.inaturalist.org/taxon_changes/175547",
+      "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540",
+      "https://api.gbif.org/v1/species/2537058/vernacularNames?limit=1000"
+    ],
+    "tr": [
+      "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+      "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+      "https://portal.nature.cz/w/druh-20306",
+      "https://doi.org/10.66974/347ec34e",
+      "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+      "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+      "https://species.data.kew.org/species/200961",
+      "https://api.gbif.org/v1/species/2537058",
+      "https://www.inaturalist.org/taxon_changes/175547",
+      "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540"
+    ],
+    "uk": [
+      "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+      "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+      "https://portal.nature.cz/w/druh-20306",
+      "https://doi.org/10.66974/347ec34e",
+      "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+      "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+      "https://species.data.kew.org/species/200961",
+      "https://api.gbif.org/v1/species/2537058",
+      "https://www.inaturalist.org/taxon_changes/175547",
+      "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540",
+      "https://api.gbif.org/v1/species/2537058/vernacularNames?limit=1000"
+    ],
+    "zh": [
+      "https://www.first-nature.com/fungi/rhodotus-palmatus.php",
+      "https://daphne.sk/wp-content/uploads/2023/01/CITY-NATURE_Huby-skladacka_web.pdf",
+      "https://portal.nature.cz/w/druh-20306",
+      "https://doi.org/10.66974/347ec34e",
+      "https://www.murrilliajournal.com/publications/volume-2-issue-2/birkebak-et-al-2026-rhodotus-reticeps",
+      "https://www.speciesfungorum.org/names/NamesRecord.asp?RecordID=200961",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=200961",
+      "https://species.data.kew.org/species/200961",
+      "https://api.gbif.org/v1/species/2537058",
+      "https://www.inaturalist.org/taxon_changes/175547",
+      "https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=473540"
+    ]
+  },
+  "displayLabels": {
+    "ar": "Rhodotus palmatus",
+    "bg": "Rhodotus palmatus",
+    "cs": "hlívovec ostnovýtrusý",
+    "da": "ferskenhat",
+    "de": "Orangerötlicher Adernseitling",
+    "en": "wrinkled peach",
+    "es": "Rhodotus palmatus",
+    "et": "roosa võrkheinik",
+    "fa": "Rhodotus palmatus",
+    "fi": "Rhodotus palmatus",
+    "fr": "Rhodotus réticulé",
+    "he": "Rhodotus palmatus",
+    "hi": "Rhodotus palmatus",
+    "hr": "Rhodotus palmatus",
+    "hu": "tönkös kacskagomba",
+    "id": "Rhodotus palmatus",
+    "it": "fungo pesca rugosa",
+    "ja": "Rhodotus palmatus",
+    "ko": "Rhodotus palmatus",
+    "lt": "gyslotoji kremzliabudė",
+    "lv": "vēdekļa sārtaine",
+    "nl": "zalmzwam",
+    "no": "ferskenpote",
+    "pl": "żyłkowiec różowawy",
+    "pt": "Rhodotus palmatus",
+    "ro": "piersică uscată",
+    "ru": "родотус дланевидный",
+    "sk": "červenáčik obyčajný",
+    "sl": "brazdasti klobučar",
+    "sr": "Rhodotus palmatus",
+    "sv": "ådermussling",
+    "tr": "Rhodotus palmatus",
+    "uk": "родот пальчастий",
+    "zh": "Rhodotus palmatus"
+  }
+},
+{
+  "name": "Pluteus cervinus",
+  "author": "(Schaeff.) P. Kumm.",
+  "family": "Pluteaceae",
+  "genus": "Pluteus",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Agaricales",
+    "Pluteaceae",
+    "Pluteus"
+  ],
+  "edibility": "edible_with_caution",
+  "hymenium": "gills",
+  "where": [
+    "wood"
+  ],
+  "color": [
+    "brown",
+    "dark"
+  ],
+  "capFrom": 4.5,
+  "capTo": 10,
+  "stipeHeightFrom": 5,
+  "stipeHeightTo": 13,
+  "stipeThickFrom": 0.5,
+  "stipeThickTo": 1.5,
+  "label": {
+    "en": "deer shield",
+    "sk": "štítovka jelenia",
+    "ar": "Pluteus cervinus",
+    "bg": "еленова гъба",
+    "cs": "štítovka jelení",
+    "da": "sodfarvet skærmhat",
+    "de": "Rehbrauner Dachpilz",
+    "es": "plúteo cervino",
+    "et": "põdranapsik",
+    "fa": "Pluteus cervinus",
+    "fi": "koivulahorusokas",
+    "fr": "plutée couleur de cerf",
+    "he": "Pluteus cervinus",
+    "hi": "Pluteus cervinus",
+    "hr": "Pluteus cervinus",
+    "hu": "barna csengettyűgomba",
+    "id": "Pluteus cervinus",
+    "it": "pluteo cervino",
+    "ja": "ウラベニガサ",
+    "ko": "난버섯",
+    "lt": "elninė skydabudė",
+    "lv": "briežu jumtene",
+    "nl": "Gewone hertenzwam",
+    "no": "skjermsopp",
+    "pl": "drobnołuszczak jeleni",
+    "pt": "plúteo-cervino",
+    "ro": "ciuperca cerbilor",
+    "ru": "плютей олений",
+    "sl": "jelenova ščitovka",
+    "sr": "јеленска кровњача",
+    "sv": "hjortskölding",
+    "tr": "Pluteus cervinus",
+    "uk": "плютей оленячий",
+    "zh": "Pluteus cervinus"
+  },
+  "names": {
+    "en": [
+      "deer mushroom",
+      "fawn mushroom"
+    ],
+    "sk": [],
+    "ar": [],
+    "bg": [
+      "горделивка"
+    ],
+    "cs": [],
+    "da": [],
+    "de": [
+      "Hirschbrauner Dachpilz"
+    ],
+    "es": [],
+    "et": [
+      "pruun kelpseen"
+    ],
+    "fa": [],
+    "fi": [],
+    "fr": [
+      "plutée du cerf"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "változékony csengettyűgomba"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [
+      "シカタケ"
+    ],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [
+      "chapéu-de-veado"
+    ],
+    "ro": [],
+    "ru": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [
+      "плютей бурий",
+      "оленячий гриб"
+    ],
+    "zh": []
+  },
+  "sources": {
+    "en": [
+      "https://www.mushroomexpert.com/pluteus_cervinus.html",
+      "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+      "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+      "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+      "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+      "https://species.wikimedia.org/wiki/Pluteus_cervinus"
+    ],
+    "sk": [
+      "https://www.mushroomexpert.com/pluteus_cervinus.html",
+      "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+      "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+      "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+      "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+      "https://species.wikimedia.org/wiki/Pluteus_cervinus"
+    ],
+    "ar": [
+      "https://www.mushroomexpert.com/pluteus_cervinus.html",
+      "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+      "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+      "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+      "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom"
+    ],
+    "bg": [
+      "https://www.mushroomexpert.com/pluteus_cervinus.html",
+      "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+      "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+      "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+      "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+      "https://manatarka.org/pluteus-cervinus/"
+    ],
+    "cs": [
+      "https://www.mushroomexpert.com/pluteus_cervinus.html",
+      "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+      "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+      "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+      "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom"
+    ],
+    "da": [
+      "https://www.mushroomexpert.com/pluteus_cervinus.html",
+      "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+      "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+      "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+      "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+      "https://www.naturbasen.dk/art/3206/sodfarvet-skaermhat"
+    ],
+    "de": [
+      "https://www.mushroomexpert.com/pluteus_cervinus.html",
+      "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+      "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+      "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+      "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+      "https://species.wikimedia.org/wiki/Pluteus_cervinus"
+    ],
+    "es": [
+      "https://www.mushroomexpert.com/pluteus_cervinus.html",
+      "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+      "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+      "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+      "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+      "https://www.aranzadi.eus/buscador-micologico/ficha/1-1-003.04.02.01.07.00"
+    ],
+    "et": [
+      "https://www.mushroomexpert.com/pluteus_cervinus.html",
+      "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+      "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+      "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+      "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+      "https://elurikkus.ee/app/taxonomy/taxon/167981"
+    ],
+    "fa": [
+      "https://www.mushroomexpert.com/pluteus_cervinus.html",
+      "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+      "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+      "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+      "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom"
+    ],
+    "fi": [
+      "https://www.mushroomexpert.com/pluteus_cervinus.html",
+      "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+      "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+      "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+      "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+      "https://laji.fi/en/taxon/MX.5014104"
+    ],
+    "fr": [
+      "https://www.mushroomexpert.com/pluteus_cervinus.html",
+      "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+      "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+      "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+      "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+      "https://fr.wikipedia.org/wiki/Pluteus_cervinus",
+      "https://taxref.mnhn.fr/taxref-web/taxa/38811"
+    ],
+    "he": [
+      "https://www.mushroomexpert.com/pluteus_cervinus.html",
+      "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+      "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+      "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+      "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom"
+    ],
+    "hi": [
+      "https://www.mushroomexpert.com/pluteus_cervinus.html",
+      "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+      "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+      "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+      "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom"
+    ],
+    "hr": [
+      "https://www.mushroomexpert.com/pluteus_cervinus.html",
+      "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+      "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+      "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+      "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom"
+    ],
+    "hu": [
+      "https://www.mushroomexpert.com/pluteus_cervinus.html",
+      "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+      "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+      "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+      "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+      "https://gombaszaki.hu/wp-content/uploads/2020/02/Gombanevjegyzek_2017.04.26_lm_ml_gsz_nyb.pdf"
+    ],
+    "id": [
+      "https://www.mushroomexpert.com/pluteus_cervinus.html",
+      "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+      "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+      "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+      "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom"
+    ],
+    "it": [
+      "https://www.mushroomexpert.com/pluteus_cervinus.html",
+      "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+      "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+      "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+      "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+      "https://www.monaconatureencyclopedia.com/pluteus-cervinus/"
+    ],
+    "ja": [
+      "https://www.mushroomexpert.com/pluteus_cervinus.html",
+      "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+      "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+      "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+      "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+      "https://s-kinokonokai.sakura.ne.jp/kinoko/common/urabenigasa.htm"
+    ],
+    "ko": [
+      "https://www.mushroomexpert.com/pluteus_cervinus.html",
+      "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+      "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+      "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+      "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+      "https://www.nibr.go.kr/aiibook/catImage/39/Basidiomycota.pdf"
+    ],
+    "lt": [
+      "https://www.mushroomexpert.com/pluteus_cervinus.html",
+      "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+      "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+      "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+      "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+      "https://gamtostyrimai.lt/wp-content/uploads/2024/12/2024_Grybu_savadas_web.pdf"
+    ],
+    "lv": [
+      "https://www.mushroomexpert.com/pluteus_cervinus.html",
+      "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+      "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+      "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+      "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+      "https://www.latvijasdaba.lv/senes/pluteus-cervinus-schaeff-p-kumm/"
+    ],
+    "nl": [
+      "https://www.mushroomexpert.com/pluteus_cervinus.html",
+      "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+      "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+      "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+      "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+      "https://bioportal.naturalis.nl/nl/taxon/pluteus_cervinus"
+    ],
+    "no": [
+      "https://www.mushroomexpert.com/pluteus_cervinus.html",
+      "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+      "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+      "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+      "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+      "https://lister.artsdatabanken.no/rodlisteforarter/2021/32172"
+    ],
+    "pl": [
+      "https://www.mushroomexpert.com/pluteus_cervinus.html",
+      "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+      "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+      "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+      "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+      "https://atlas.grzybiarze.eu/pluteus-cervinus/"
+    ],
+    "pt": [
+      "https://www.mushroomexpert.com/pluteus_cervinus.html",
+      "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+      "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+      "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+      "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom"
+    ],
+    "ro": [
+      "https://www.mushroomexpert.com/pluteus_cervinus.html",
+      "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+      "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+      "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+      "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+      "https://ro.wikipedia.org/wiki/Pluteus_cervinus"
+    ],
+    "ru": [
+      "https://www.mushroomexpert.com/pluteus_cervinus.html",
+      "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+      "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+      "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+      "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+      "https://species.wikimedia.org/wiki/Pluteus_cervinus"
+    ],
+    "sl": [
+      "https://www.mushroomexpert.com/pluteus_cervinus.html",
+      "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+      "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+      "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+      "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+      "https://www.gobe.si/Gobe/PluteusCervinus"
+    ],
+    "sr": [
+      "https://www.mushroomexpert.com/pluteus_cervinus.html",
+      "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+      "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+      "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+      "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+      "https://sr.wikipedia.org/sr-ec/Pluteus_cervinus"
+    ],
+    "sv": [
+      "https://www.mushroomexpert.com/pluteus_cervinus.html",
+      "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+      "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+      "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+      "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+      "https://sv.wikipedia.org/wiki/Hjortsk%C3%B6lding"
+    ],
+    "tr": [
+      "https://www.mushroomexpert.com/pluteus_cervinus.html",
+      "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+      "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+      "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+      "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom"
+    ],
+    "uk": [
+      "https://www.mushroomexpert.com/pluteus_cervinus.html",
+      "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+      "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+      "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+      "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+      "http://dc.smnh.org/species/detail/species-9716.html"
+    ],
+    "zh": [
+      "https://www.mushroomexpert.com/pluteus_cervinus.html",
+      "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+      "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+      "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+      "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom"
+    ]
+  },
+  "text": {
+    "en": {
+      "description": "A saprotrophic woodland mushroom widespread in Europe and temperate eastern North America, with confirmed but less frequent western North American records. It decomposes dead wood, including buried fragments that can make fruit bodies appear to grow from soil.",
+      "cap": "The cap is 4.5–10 cm wide, convex then nearly flat, sometimes broadly umbonate. It is pale to dark brown, sometimes olive-grey, radially fibrous and slightly sticky when wet.",
+      "hymenium": "Gills are free, crowded, white then pink. Thick-walled gill-face cystidia bear 2–5 apical hooks; clamp connections are absent from the cap cuticle.",
+      "stipe": "The stipe is 5–13 cm long and 0.5–1.5 cm thick, whitish with brown longitudinal fibres, often broader at the base. There is no ring or volva.",
+      "flesh": "The flesh is soft, white and unchanging when cut, with a faint or radishlike smell.",
+      "sporePrint": "The spore print is brownish pink. Spores are smooth, ellipsoid, inamyloid, 6–8 × 4.5–6 µm.",
+      "habitat": "Alone or in groups on decaying hardwood, less often conifer wood. Fruiting from spring to autumn, sometimes in mild winters.",
+      "uses": "Reported edible but poor; illness has been reported, so gathering for food is not recommended. Poisonous lookalikes make identification errors dangerous.",
+      "confusion": "Pluteus atromarginatus has dark gill edges. Pluteus pouzarianus usually grows on conifer wood and has clamp connections in the cap cuticle.",
+      "notes": "Closely related Pluteus exilis and Pluteus rangifer cannot always be separated by appearance; microscopy or DNA may be needed.",
+      "label": "deer shield",
+      "names": [
+        "deer mushroom",
+        "fawn mushroom"
+      ],
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/pluteus_cervinus.html",
+        "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+        "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+        "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+        "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+        "https://species.wikimedia.org/wiki/Pluteus_cervinus"
+      ]
+    },
+    "sk": {
+      "description": "Saprotrofná lesná huba rozšírená v Európe a miernom pásme východnej časti Severnej Ameriky, s potvrdenými, ale menej častými nálezmi na západe Severnej Ameriky. Rozkladá mŕtve drevo vrátane zahrabaných úlomkov, preto sa môže zdať, že plodnice vyrastajú z pôdy.",
+      "cap": "Klobúk je široký 4,5–10 cm, spočiatku klenutý, neskôr takmer plochý, niekedy so širokým hrboľom. Je svetlohnedý až tmavohnedý, niekedy olivovosivý, radiálne vláknitý a za vlhka mierne lepkavý.",
+      "hymenium": "Lupene sú voľné, husté, najprv biele, neskôr ružové. Hrubostenné pleurocystidy majú na vrchole 2–5 háčikov; v pokožke klobúka chýbajú pracky.",
+      "stipe": "Hlúbik je dlhý 5–13 cm a hrubý 0,5–1,5 cm, belavý s hnedými pozdĺžnymi vláknami, často rozšírený pri báze. Prsteň ani pošva nie sú prítomné.",
+      "flesh": "Dužina je mäkká, biela, na reze nemení farbu a má slabú alebo reďkovkovú vôňu.",
+      "sporePrint": "Výtrusný prach je hnedastoružový. Výtrusy sú hladké, elipsoidné, neamyloidné, 6–8 × 4,5–6 µm.",
+      "habitat": "Rastie jednotlivo alebo v skupinách na rozkladajúcom sa dreve listnáčov, zriedkavejšie ihličnanov. Plodnice tvorí od jari do jesene, niekedy aj počas miernych zím.",
+      "uses": "Uvádza sa ako jedlá, ale málo hodnotná; zaznamenané sú aj zdravotné ťažkosti, preto sa zber na konzumáciu neodporúča. Zámena s jedovatými druhmi je nebezpečná.",
+      "confusion": "Pluteus atromarginatus má tmavé ostrie lupeňov. Pluteus pouzarianus zvyčajne rastie na dreve ihličnanov a v pokožke klobúka má pracky.",
+      "notes": "Blízke druhy Pluteus exilis a Pluteus rangifer nemožno vždy rozlíšiť podľa vzhľadu; môže byť potrebná mikroskopia alebo analýza DNA.",
+      "label": "štítovka jelenia",
+      "names": [],
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/pluteus_cervinus.html",
+        "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+        "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+        "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+        "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+        "https://species.wikimedia.org/wiki/Pluteus_cervinus"
+      ]
+    },
+    "cs": {
+      "description": "Saprotrofní lesní houba rozšířená v Evropě a mírném pásmu východní části Severní Ameriky, s potvrzenými, ale méně častými nálezy na západě Severní Ameriky. Rozkládá mrtvé dřevo včetně zahrabaných úlomků, takže plodnice mohou zdánlivě vyrůstat z půdy.",
+      "cap": "Klobouk je široký 4,5–10 cm, zprvu vyklenutý, později téměř plochý, někdy se širokým hrbolem. Je světle až tmavě hnědý, někdy olivově šedý, radiálně vláknitý a za vlhka mírně lepkavý.",
+      "hymenium": "Lupeny jsou volné, husté, zprvu bílé, později růžové. Tlustostěnné pleurocystidy mají na vrcholu 2–5 háčků; v pokožce klobouku chybějí přezky.",
+      "stipe": "Třeň je dlouhý 5–13 cm a tlustý 0,5–1,5 cm, bělavý s hnědými podélnými vlákny, u báze často rozšířený. Prsten ani pochva nejsou přítomny.",
+      "flesh": "Dužnina je měkká, bílá, na řezu nemění barvu a má slabou nebo ředkvovou vůni.",
+      "sporePrint": "Výtrusný prach je hnědavě růžový. Výtrusy jsou hladké, elipsoidní, neamyloidní, 6–8 × 4,5–6 µm.",
+      "habitat": "Roste jednotlivě nebo ve skupinách na rozkládajícím se dřevě listnáčů, méně často jehličnanů. Plodí od jara do podzimu, někdy i za mírných zim.",
+      "uses": "Uvádí se jako jedlá, ale málo hodnotná; byly hlášeny i zdravotní potíže, proto se sběr k jídlu nedoporučuje. Záměna s jedovatými druhy je nebezpečná.",
+      "confusion": "Pluteus atromarginatus má tmavé ostří lupenů. Pluteus pouzarianus obvykle roste na dřevě jehličnanů a v pokožce klobouku má přezky.",
+      "notes": "Blízké druhy Pluteus exilis a Pluteus rangifer nelze vždy rozlišit podle vzhledu; může být nutná mikroskopie nebo analýza DNA.",
+      "label": "štítovka jelení",
+      "names": [],
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/pluteus_cervinus.html",
+        "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+        "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+        "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+        "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom"
+      ]
+    },
+    "de": {
+      "description": "Ein saprotropher Waldpilz, der in Europa und im gemäßigten östlichen Nordamerika weit verbreitet ist; aus dem westlichen Nordamerika liegen bestätigte, aber seltenere Nachweise vor. Er zersetzt Totholz, auch vergrabene Holzreste, sodass die Fruchtkörper scheinbar aus dem Boden wachsen können.",
+      "cap": "Der Hut ist 4,5–10 cm breit, zunächst gewölbt, später fast flach, manchmal breit gebuckelt. Er ist hell- bis dunkelbraun, mitunter olivgrau, radialfaserig und bei Nässe leicht klebrig.",
+      "hymenium": "Die Lamellen sind frei, dicht stehend, anfangs weiß, später rosa. Dickwandige Pleurozystiden tragen 2–5 apikale Haken; in der Huthaut fehlen Schnallen.",
+      "stipe": "Der Stiel ist 5–13 cm lang und 0,5–1,5 cm dick, weißlich mit braunen Längsfasern, an der Basis oft verbreitert. Ring und Volva fehlen.",
+      "flesh": "Das Fleisch ist weich und weiß, verfärbt sich beim Anschneiden nicht und riecht schwach oder rettichartig.",
+      "sporePrint": "Das Sporenpulver ist bräunlich rosa. Die Sporen sind glatt, ellipsoid und inamyloid, 6–8 × 4,5–6 µm.",
+      "habitat": "Einzeln oder in Gruppen auf morschem Laubholz, seltener auf Nadelholz. Fruchtkörper erscheinen vom Frühjahr bis zum Herbst, manchmal auch in milden Wintern.",
+      "uses": "Als essbar, aber minderwertig beschrieben; Erkrankungen nach dem Verzehr wurden gemeldet, daher wird vom Sammeln zu Speisezwecken abgeraten. Verwechslungen mit giftigen Arten sind gefährlich.",
+      "confusion": "Pluteus atromarginatus hat dunkle Lamellenschneiden. Pluteus pouzarianus wächst meist auf Nadelholz und besitzt Schnallen in der Huthaut.",
+      "notes": "Die nah verwandten Arten Pluteus exilis und Pluteus rangifer lassen sich äußerlich nicht immer unterscheiden; Mikroskopie oder DNA-Analysen können nötig sein.",
+      "label": "Rehbrauner Dachpilz",
+      "names": [
+        "Hirschbrauner Dachpilz"
+      ],
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/pluteus_cervinus.html",
+        "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+        "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+        "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+        "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+        "https://species.wikimedia.org/wiki/Pluteus_cervinus"
+      ]
+    },
+    "fr": {
+      "description": "Un champignon forestier saprotrophe répandu en Europe et dans les régions tempérées de l’est de l’Amérique du Nord, avec des observations confirmées mais moins fréquentes dans l’ouest nord-américain. Il décompose le bois mort, même enfoui, ce qui peut donner l’impression que les fructifications poussent dans le sol.",
+      "cap": "Le chapeau mesure 4,5–10 cm de large, d’abord convexe puis presque plat, parfois largement mamelonné. Brun clair à brun foncé, parfois gris olivâtre, il est radialement fibrilleux et légèrement collant par temps humide.",
+      "hymenium": "Les lames sont libres, serrées, blanches puis roses. Les pleurocystides à paroi épaisse portent 2–5 crochets apicaux ; la cuticule du chapeau est dépourvue de boucles.",
+      "stipe": "Le pied mesure 5–13 cm de long et 0,5–1,5 cm d’épaisseur, blanchâtre à fibrilles longitudinales brunes, souvent élargi à la base. Il n’a ni anneau ni volve.",
+      "flesh": "La chair est molle, blanche, immuable à la coupe, avec une odeur faible ou rappelant le radis.",
+      "sporePrint": "La sporée est rose brunâtre. Les spores sont lisses, ellipsoïdales, non amyloïdes, de 6–8 × 4,5–6 µm.",
+      "habitat": "Seul ou en groupes sur le bois de feuillus en décomposition, plus rarement sur celui des conifères. Fructification du printemps à l’automne, parfois lors des hivers doux.",
+      "uses": "Décrit comme comestible mais médiocre ; des malaises ont été signalés, aussi sa récolte alimentaire est déconseillée. Les confusions avec des espèces toxiques rendent les erreurs d’identification dangereuses.",
+      "confusion": "Pluteus atromarginatus a l’arête des lames sombre. Pluteus pouzarianus pousse généralement sur le bois de conifères et possède des boucles dans la cuticule du chapeau.",
+      "notes": "Les espèces proches Pluteus exilis et Pluteus rangifer ne sont pas toujours séparables à l’œil ; la microscopie ou une analyse de l’ADN peut être nécessaire.",
+      "label": "plutée couleur de cerf",
+      "names": [
+        "plutée du cerf"
+      ],
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/pluteus_cervinus.html",
+        "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+        "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+        "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+        "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+        "https://fr.wikipedia.org/wiki/Pluteus_cervinus",
+        "https://taxref.mnhn.fr/taxref-web/taxa/38811"
+      ]
+    },
+    "es": {
+      "description": "Un hongo forestal saprótrofo extendido por Europa y el este templado de Norteamérica, con registros confirmados pero menos frecuentes en el oeste norteamericano. Descompone madera muerta, incluidos fragmentos enterrados que pueden hacer que las fructificaciones parezcan surgir del suelo.",
+      "cap": "El sombrero mide 4,5–10 cm de ancho, es convexo y después casi plano, a veces con un mamelón ancho. De pardo claro a oscuro, en ocasiones gris oliváceo, es radialmente fibrilloso y ligeramente viscoso en húmedo.",
+      "hymenium": "Las láminas son libres, apretadas, blancas y después rosadas. Los pleurocistidios de pared gruesa llevan 2–5 ganchos apicales; la cutícula del sombrero carece de fíbulas.",
+      "stipe": "El pie mide 5–13 cm de largo y 0,5–1,5 cm de grosor, es blanquecino con fibras longitudinales pardas y suele ensancharse en la base. No tiene anillo ni volva.",
+      "flesh": "La carne es blanda, blanca e inmutable al corte, con olor débil o a rábano.",
+      "sporePrint": "La esporada es rosada pardusca. Las esporas son lisas, elipsoidales e inamiloides, de 6–8 × 4,5–6 µm.",
+      "habitat": "Solitario o en grupos sobre madera de frondosas en descomposición, menos a menudo de coníferas. Fructifica de primavera a otoño, a veces en inviernos suaves.",
+      "uses": "Se describe como comestible de escaso valor; se han comunicado malestares, por lo que no se recomienda recolectarlo para comer. Los parecidos venenosos hacen peligrosos los errores de identificación.",
+      "confusion": "Pluteus atromarginatus tiene la arista de las láminas oscura. Pluteus pouzarianus suele crecer sobre madera de coníferas y tiene fíbulas en la cutícula del sombrero.",
+      "notes": "Las especies próximas Pluteus exilis y Pluteus rangifer no siempre se distinguen por su aspecto; puede ser necesario recurrir a la microscopía o al ADN.",
+      "label": "plúteo cervino",
+      "names": [],
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/pluteus_cervinus.html",
+        "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+        "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+        "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+        "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+        "https://www.aranzadi.eus/buscador-micologico/ficha/1-1-003.04.02.01.07.00"
+      ]
+    },
+    "it": {
+      "description": "Un fungo forestale saprotrofo diffuso in Europa e nell’America settentrionale orientale temperata, con ritrovamenti confermati ma meno frequenti nell’ovest nordamericano. Decompone legno morto, compresi frammenti interrati che possono far sembrare i corpi fruttiferi cresciuti dal terreno.",
+      "cap": "Il cappello è largo 4,5–10 cm, convesso poi quasi piano, talvolta largamente umbonato. È da bruno chiaro a scuro, a volte grigio olivastro, radialmente fibrilloso e leggermente viscoso da bagnato.",
+      "hymenium": "Le lamelle sono libere, fitte, bianche poi rosa. I pleurocistidi a parete spessa hanno 2–5 uncini apicali; nella cuticola del cappello mancano i giunti a fibbia.",
+      "stipe": "Il gambo è lungo 5–13 cm e spesso 0,5–1,5 cm, biancastro con fibrille longitudinali brune, spesso allargato alla base. Anello e volva sono assenti.",
+      "flesh": "La carne è morbida, bianca e immutabile al taglio, con odore debole o rafanoide.",
+      "sporePrint": "La sporata è rosa brunastro. Le spore sono lisce, ellissoidali, non amiloidi, 6–8 × 4,5–6 µm.",
+      "habitat": "Solitario o in gruppi su legno di latifoglie in decomposizione, più raramente su conifere. Fruttifica dalla primavera all’autunno, talvolta negli inverni miti.",
+      "uses": "Descritto come commestibile ma scadente; sono stati segnalati malesseri, pertanto se ne sconsiglia la raccolta alimentare. Gli errori di identificazione sono pericolosi per la somiglianza con specie velenose.",
+      "confusion": "Pluteus atromarginatus ha il filo delle lamelle scuro. Pluteus pouzarianus cresce solitamente su legno di conifere e presenta giunti a fibbia nella cuticola del cappello.",
+      "notes": "Le specie affini Pluteus exilis e Pluteus rangifer non sono sempre distinguibili dall’aspetto; possono essere necessari microscopia o analisi del DNA.",
+      "label": "pluteo cervino",
+      "names": [],
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/pluteus_cervinus.html",
+        "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+        "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+        "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+        "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+        "https://www.monaconatureencyclopedia.com/pluteus-cervinus/"
+      ]
+    },
+    "pt": {
+      "description": "Um cogumelo florestal saprotrófico disseminado na Europa e na região temperada oriental da América do Norte, com registos confirmados mas menos frequentes no oeste norte-americano. Decompõe madeira morta, incluindo fragmentos enterrados que podem fazer parecer que os corpos frutíferos nascem do solo.",
+      "cap": "O chapéu mede 4,5–10 cm de largura, é convexo e depois quase plano, por vezes com um umbo largo. Castanho-claro a escuro, ocasionalmente cinzento-oliváceo, é radialmente fibrilhoso e ligeiramente viscoso quando molhado.",
+      "hymenium": "As lâminas são livres, muito juntas, brancas e depois rosadas. Os pleurocistídios de parede espessa têm 2–5 ganchos apicais; a cutícula do chapéu não tem fíbulas.",
+      "stipe": "O pé mede 5–13 cm de comprimento e 0,5–1,5 cm de espessura, é esbranquiçado com fibras longitudinais castanhas e frequentemente mais largo na base. Não tem anel nem volva.",
+      "flesh": "A carne é macia, branca e imutável ao corte, com odor fraco ou a rabanete.",
+      "sporePrint": "A esporada é rosa-acastanhada. Os esporos são lisos, elipsoidais, não amiloides, com 6–8 × 4,5–6 µm.",
+      "habitat": "Isolado ou em grupos sobre madeira de folhosas em decomposição, menos frequentemente de coníferas. Frutifica da primavera ao outono, por vezes em invernos amenos.",
+      "uses": "Descrito como comestível mas pouco apreciado; há relatos de indisposição, pelo que não se recomenda a colheita para consumo. A semelhança com espécies venenosas torna perigosos os erros de identificação.",
+      "confusion": "Pluteus atromarginatus tem a aresta das lâminas escura. Pluteus pouzarianus cresce geralmente em madeira de coníferas e tem fíbulas na cutícula do chapéu.",
+      "notes": "As espécies próximas Pluteus exilis e Pluteus rangifer nem sempre se distinguem pelo aspeto; podem ser necessárias microscopia ou análise de ADN.",
+      "label": "plúteo-cervino",
+      "names": [
+        "chapéu-de-veado"
+      ],
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/pluteus_cervinus.html",
+        "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+        "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+        "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+        "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom"
+      ]
+    },
+    "nl": {
+      "description": "Een saprotrofe bospaddenstoel die wijdverbreid is in Europa en het gematigde oosten van Noord-Amerika, met bevestigde maar minder frequente vondsten in westelijk Noord-Amerika. Hij breekt dood hout af, ook begraven houtresten waardoor vruchtlichamen uit de grond lijken te groeien.",
+      "cap": "De hoed is 4,5–10 cm breed, eerst gewelfd en later bijna vlak, soms met een brede umbo. Hij is licht- tot donkerbruin, soms olijfgrijs, radiaal vezelig en bij nat weer enigszins kleverig.",
+      "hymenium": "De lamellen zijn vrij, dicht opeenstaand, eerst wit en later roze. Dikwandige pleurocystiden dragen 2–5 apicale haken; gespen ontbreken in de hoedhuid.",
+      "stipe": "De steel is 5–13 cm lang en 0,5–1,5 cm dik, witachtig met bruine lengtevezels en vaak verbreed aan de basis. Ring en volva ontbreken.",
+      "flesh": "Het vlees is zacht en wit, verkleurt niet bij doorsnijden en ruikt zwak of naar radijs.",
+      "sporePrint": "De sporenprint is bruinroze. De sporen zijn glad, ellipsoïd, inamyloïd, 6–8 × 4,5–6 µm.",
+      "habitat": "Alleen of in groepen op rottend loofhout, minder vaak op naaldhout. Vruchtvorming van het voorjaar tot het najaar, soms in zachte winters.",
+      "uses": "Beschreven als eetbaar maar weinig smakelijk; er zijn ziekteverschijnselen gemeld, daarom wordt verzamelen voor consumptie afgeraden. Verwarring met giftige soorten maakt determinatiefouten gevaarlijk.",
+      "confusion": "Pluteus atromarginatus heeft donkere lamelsneden. Pluteus pouzarianus groeit meestal op naaldhout en heeft gespen in de hoedhuid.",
+      "notes": "De nauw verwante Pluteus exilis en Pluteus rangifer zijn niet altijd op uiterlijk te onderscheiden; microscopie of DNA-onderzoek kan nodig zijn.",
+      "label": "Gewone hertenzwam",
+      "names": [],
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/pluteus_cervinus.html",
+        "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+        "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+        "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+        "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+        "https://bioportal.naturalis.nl/nl/taxon/pluteus_cervinus"
+      ]
+    },
+    "da": {
+      "description": "En saprotrof skovsvamp, der er vidt udbredt i Europa og det tempererede østlige Nordamerika, med bekræftede, men mindre hyppige fund i det vestlige Nordamerika. Den nedbryder dødt træ, også nedgravede stumper, så frugtlegemerne kan se ud til at vokse fra jorden.",
+      "cap": "Hatten er 4,5–10 cm bred, først hvælvet og senere næsten flad, undertiden med en bred pukkel. Den er lys- til mørkebrun, sommetider olivengrå, radiært fibret og let klæbrig i vådt vejr.",
+      "hymenium": "Lamellerne er frie, tætte, først hvide og senere rosa. Tykvæggede cystider på lamelfladerne har 2–5 kroge i spidsen; hathuden mangler øskner.",
+      "stipe": "Stokken er 5–13 cm lang og 0,5–1,5 cm tyk, hvidlig med brune længdefibre og ofte bredere ved basis. Ring og skede mangler.",
+      "flesh": "Kødet er blødt og hvidt, skifter ikke farve ved gennemskæring og har en svag eller radiseagtig lugt.",
+      "sporePrint": "Sporestøvet er brunligt rosa. Sporerne er glatte, ellipsoide, inamyloide, 6–8 × 4,5–6 µm.",
+      "habitat": "Enkeltvis eller i grupper på råddent løvtræ, sjældnere nåletræ. Frugtlegemer fra forår til efterår, undertiden i milde vintre.",
+      "uses": "Beskrives som spiselig, men af ringe kvalitet; sygdomstilfælde er rapporteret, så indsamling til mad frarådes. Giftige forvekslingsarter gør fejlbestemmelse farlig.",
+      "confusion": "Pluteus atromarginatus har mørke lamelægge. Pluteus pouzarianus vokser normalt på nåletræ og har øskner i hathuden.",
+      "notes": "De nærtstående Pluteus exilis og Pluteus rangifer kan ikke altid skelnes på udseendet; mikroskopi eller DNA-analyse kan være nødvendig.",
+      "label": "sodfarvet skærmhat",
+      "names": [],
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/pluteus_cervinus.html",
+        "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+        "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+        "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+        "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+        "https://www.naturbasen.dk/art/3206/sodfarvet-skaermhat"
+      ]
+    },
+    "sv": {
+      "description": "En saprotrof skogssvamp som är utbredd i Europa och det tempererade östra Nordamerika, med bekräftade men mer sällsynta fynd i västra Nordamerika. Den bryter ned död ved, även begravda vedrester som kan få fruktkropparna att verka växa ur marken.",
+      "cap": "Hatten är 4,5–10 cm bred, först välvd och sedan nästan plan, ibland med en bred puckel. Den är ljus- till mörkbrun, ibland olivgrå, radiärt trådig och svagt klibbig i väta.",
+      "hymenium": "Skivorna är fria, täta, först vita och sedan rosa. Tjockväggiga cystider på skivytorna har 2–5 krokar i toppen; söljor saknas i hatthuden.",
+      "stipe": "Foten är 5–13 cm lång och 0,5–1,5 cm tjock, vitaktig med bruna längsgående fibrer och ofta bredare vid basen. Ring och strumpa saknas.",
+      "flesh": "Köttet är mjukt och vitt, ändrar inte färg vid snitt och har svag eller rättikliknande lukt.",
+      "sporePrint": "Sporpulvret är brunrosa. Sporerna är släta, ellipsoida och inamyloida, 6–8 × 4,5–6 µm.",
+      "habitat": "Ensamt eller i grupper på murken lövved, mer sällan barrved. Fruktkroppar från vår till höst, ibland under milda vintrar.",
+      "uses": "Uppges vara ätlig men av låg kvalitet; sjukdomsfall har rapporterats, så insamling för mat rekommenderas inte. Giftiga förväxlingsarter gör felbestämning farlig.",
+      "confusion": "Pluteus atromarginatus har mörka skiveggar. Pluteus pouzarianus växer oftast på barrved och har söljor i hatthuden.",
+      "notes": "De närstående Pluteus exilis och Pluteus rangifer kan inte alltid skiljas åt på utseendet; mikroskopi eller DNA-analys kan behövas.",
+      "label": "hjortskölding",
+      "names": [],
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/pluteus_cervinus.html",
+        "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+        "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+        "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+        "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+        "https://sv.wikipedia.org/wiki/Hjortsk%C3%B6lding"
+      ]
+    },
+    "no": {
+      "description": "En saprotrof skogsopp som er utbredt i Europa og det tempererte østlige Nord-Amerika, med bekreftede, men sjeldnere funn i det vestlige Nord-Amerika. Den bryter ned dødt trevirke, også nedgravde rester som kan få fruktlegemene til å se ut som om de vokser fra jorda.",
+      "cap": "Hatten er 4,5–10 cm bred, først hvelvet og senere nesten flat, noen ganger med en bred pukkel. Den er lys- til mørkebrun, av og til olivengrå, radiært fibret og svakt klebrig i fuktig vær.",
+      "hymenium": "Skivene er frie, tette, først hvite og senere rosa. Tykkveggede cystider på skiveflatene har 2–5 kroker i spissen; bøylekoblinger mangler i hatthuden.",
+      "stipe": "Stilken er 5–13 cm lang og 0,5–1,5 cm tykk, hvitaktig med brune lengdefibre og ofte bredere ved basis. Ring og slire mangler.",
+      "flesh": "Kjøttet er mykt og hvitt, endrer ikke farge ved gjennomskjæring og har svak eller reddiklignende lukt.",
+      "sporePrint": "Sporepulveret er brunrosa. Sporene er glatte, ellipsoide og inamyloide, 6–8 × 4,5–6 µm.",
+      "habitat": "Enkeltvis eller i grupper på råttent løvtrevirke, sjeldnere bartrevirke. Fruktlegemer fra vår til høst, noen ganger i milde vintre.",
+      "uses": "Oppgis som spiselig, men av lav kvalitet; sykdomstilfeller er rapportert, så innsamling til mat frarådes. Giftige forvekslingsarter gjør feilbestemmelse farlig.",
+      "confusion": "Pluteus atromarginatus har mørke skiveegger. Pluteus pouzarianus vokser vanligvis på bartrevirke og har bøylekoblinger i hatthuden.",
+      "notes": "De nærstående Pluteus exilis og Pluteus rangifer kan ikke alltid skilles på utseendet; mikroskopi eller DNA-analyse kan være nødvendig.",
+      "label": "skjermsopp",
+      "names": [],
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/pluteus_cervinus.html",
+        "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+        "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+        "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+        "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/32172"
+      ]
+    },
+    "fi": {
+      "description": "Lahottajasieni, joka on laajalle levinnyt Euroopassa ja Pohjois-Amerikan lauhkeissa itäosissa; läntisestä Pohjois-Amerikasta on varmistettuja mutta harvinaisempia havaintoja. Se hajottaa kuollutta puuta, myös maahan hautautuneita paloja, jolloin itiöemät voivat näyttää kasvavan maasta.",
+      "cap": "Lakki on 4,5–10 cm leveä, aluksi kupera ja myöhemmin lähes laakea, joskus laakean kyhmyinen. Se on vaalean- tai tummanruskea, toisinaan oliivinharmaa, säteittäissäikeinen ja märkänä hieman tahmea.",
+      "hymenium": "Heltat ovat irtotyviset, tiheät, aluksi valkoiset ja myöhemmin vaaleanpunaiset. Helttapinnoilla olevissa paksuseinäisissä kystideissä on kärjessä 2–5 koukkua; lakin pintakelmun rihmoista puuttuvat sinkilät.",
+      "stipe": "Jalka on 5–13 cm pitkä ja 0,5–1,5 cm paksu, valkeahko ja ruskean pitkittäissäikeinen, usein tyvestä leveämpi. Rengas ja tuppi puuttuvat.",
+      "flesh": "Malto on pehmeää ja valkoista eikä muuta väriä leikattaessa; tuoksu on heikko tai retiisimäinen.",
+      "sporePrint": "Itiöpöly on ruskeanvaaleanpunaista. Itiöt ovat sileitä, ellipsoideja ja inamyloideja, 6–8 × 4,5–6 µm.",
+      "habitat": "Yksittäin tai ryhmissä lahoavalla lehtipuulla, harvemmin havupuulla. Itiöemiä keväästä syksyyn, joskus leutoina talvina.",
+      "uses": "Sitä pidetään syötävänä mutta heikkolaatuisena; sairastumisia on raportoitu, joten keräämistä ruoaksi ei suositella. Myrkylliset näköislajit tekevät määritysvirheistä vaarallisia.",
+      "confusion": "Pluteus atromarginatus -lajilla on tummat helttaterät. Pluteus pouzarianus kasvaa yleensä havupuulla, ja sen lakin pintakelmun rihmoissa on sinkilöitä.",
+      "notes": "Lähisukuisia lajeja Pluteus exilis ja Pluteus rangifer ei aina voi erottaa ulkonäöstä; mikroskopiaa tai DNA-tutkimusta voidaan tarvita.",
+      "label": "koivulahorusokas",
+      "names": [],
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/pluteus_cervinus.html",
+        "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+        "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+        "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+        "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+        "https://laji.fi/en/taxon/MX.5014104"
+      ]
+    },
+    "et": {
+      "description": "Saprotroofne metsaseen, mis on laialt levinud Euroopas ja Põhja-Ameerika parasvöötmelises idaosas; Põhja-Ameerika lääneosast on kinnitatud, kuid harvemaid leide. See lagundab surnud puitu, ka maetud puidutükke, mistõttu viljakehad võivad näida kasvavat mullast.",
+      "cap": "Kübar on 4,5–10 cm lai, algul kumer ja hiljem peaaegu lame, vahel laia kühmuga. See on hele- kuni tumepruun, mõnikord oliivhall, radiaalselt kiuline ja märjana kergelt kleepuv.",
+      "hymenium": "Eoslehekesed on vabad, tihedad, algul valged, hiljem roosad. Paksuseinalistel eoslehekeste pinna tsüstiididel on tipus 2–5 konksu; kübaranahas puuduvad pandlad.",
+      "stipe": "Jalg on 5–13 cm pikk ja 0,5–1,5 cm jäme, valkjas, pruunide pikikiududega ning sageli alusel laiem. Rõngas ja tupp puuduvad.",
+      "flesh": "Seeneliha on pehme ja valge, lõigates värvi ei muuda; lõhn on nõrk või redist meenutav.",
+      "sporePrint": "Eospulber on pruunikasroosa. Eosed on siledad, ellipsoidsed ja inamüloidsed, 6–8 × 4,5–6 µm.",
+      "habitat": "Üksikult või rühmadena laguneval lehtpuupuidul, harvem okaspuupuidul. Viljub kevadest sügiseni, mõnikord pehmetel talvedel.",
+      "uses": "Peetakse söödavaks, kuid väheväärtuslikuks; on teatatud haigestumistest, seetõttu toiduks korjamist ei soovitata. Mürgised sarnased liigid muudavad määramisvead ohtlikuks.",
+      "confusion": "Pluteus atromarginatus on tumedate eoslehekeste servadega. Pluteus pouzarianus kasvab tavaliselt okaspuupuidul ja selle kübaranahas on pandlad.",
+      "notes": "Lähedasi liike Pluteus exilis ja Pluteus rangifer ei saa alati välimuse järgi eristada; vaja võib olla mikroskoopiat või DNA-analüüsi.",
+      "label": "põdranapsik",
+      "names": [
+        "pruun kelpseen"
+      ],
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/pluteus_cervinus.html",
+        "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+        "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+        "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+        "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+        "https://elurikkus.ee/app/taxonomy/taxon/167981"
+      ]
+    },
+    "lv": {
+      "description": "Saprotrofa meža sēne, kas plaši izplatīta Eiropā un Ziemeļamerikas mērenās joslas austrumdaļā; Ziemeļamerikas rietumos ir apstiprināti, bet retāki atradumi. Tā noārda atmirušu koksni, arī apraktus gabalus, tāpēc augļķermeņi var šķietami augt no augsnes.",
+      "cap": "Cepurīte ir 4,5–10 cm plata, sākumā izliekta, vēlāk gandrīz plakana, dažreiz ar platu pauguru. Tā ir gaiši līdz tumši brūna, reizēm olīvpelēka, radiāli šķiedraina un mitrumā mazliet lipīga.",
+      "hymenium": "Lapiņas ir brīvas, ciešas, sākumā baltas, vēlāk sārtas. Biezsienu cistīdām uz lapiņu virsmām galotnē ir 2–5 āķi; cepurītes virsmiziņā nav sprādžu.",
+      "stipe": "Kātiņš ir 5–13 cm garš un 0,5–1,5 cm resns, bālgans ar brūnām gareniskām šķiedrām, pie pamata bieži platāks. Gredzena un maksts nav.",
+      "flesh": "Mīkstums ir mīksts, balts, griezumā nemaina krāsu, ar vāju vai redīsiem līdzīgu smaržu.",
+      "sporePrint": "Sporu masa ir brūngani sārta. Sporas ir gludas, elipsoidālas un neamiloīdas, 6–8 × 4,5–6 µm.",
+      "habitat": "Pa vienai vai grupās uz trūdošas lapu koku koksnes, retāk uz skujkokiem. Augļķermeņi veidojas no pavasara līdz rudenim, reizēm maigās ziemās.",
+      "uses": "Aprakstīta kā ēdama, bet mazvērtīga; ziņots par saslimšanām, tāpēc vākšana pārtikai nav ieteicama. Indīgas līdzīgās sugas padara noteikšanas kļūdas bīstamas.",
+      "confusion": "Pluteus atromarginatus ir tumšas lapiņu šķautnes. Pluteus pouzarianus parasti aug uz skujkoku koksnes, un tās cepurītes virsmiziņā ir sprādzes.",
+      "notes": "Tuvas sugas Pluteus exilis un Pluteus rangifer ne vienmēr var atšķirt pēc izskata; var būt vajadzīga mikroskopija vai DNS analīze.",
+      "label": "briežu jumtene",
+      "names": [],
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/pluteus_cervinus.html",
+        "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+        "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+        "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+        "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+        "https://www.latvijasdaba.lv/senes/pluteus-cervinus-schaeff-p-kumm/"
+      ]
+    },
+    "lt": {
+      "description": "Saprotrofinis miško grybas, paplitęs Europoje ir vidutinio klimato rytinėje Šiaurės Amerikos dalyje; vakarinėje Šiaurės Amerikoje radiniai patvirtinti, bet retesni. Jis skaido negyvą medieną, taip pat užkastus jos gabalus, todėl vaisiakūniai gali atrodyti augantys iš dirvožemio.",
+      "cap": "Kepurėlė 4,5–10 cm pločio, iš pradžių išgaubta, vėliau beveik plokščia, kartais su plačiu gūbreliu. Ji šviesiai ar tamsiai ruda, kartais alyvuogių atspalvio pilka, spinduliškai plaušuota, šlapia šiek tiek lipni.",
+      "hymenium": "Lakšteliai laisvi, tankūs, iš pradžių balti, vėliau rožiniai. Storasienės lakštelių paviršiaus cistidės viršūnėje turi 2–5 kabliukus; kepurėlės luobelėje sagčių nėra.",
+      "stipe": "Kotas 5–13 cm ilgio ir 0,5–1,5 cm storio, balkšvas su rudais išilginiais plaušais, ties pagrindu dažnai platesnis. Žiedo ir išnaros nėra.",
+      "flesh": "Trama minkšta, balta, perpjauta spalvos nekeičia, silpno arba ridikėlius primenančio kvapo.",
+      "sporePrint": "Sporų atspaudas rusvai rožinis. Sporos lygios, elipsoidinės, neamiloidinės, 6–8 × 4,5–6 µm.",
+      "habitat": "Pavieniui ar grupėmis ant pūvančios lapuočių, rečiau spygliuočių medienos. Vaisiakūniai pasirodo nuo pavasario iki rudens, kartais švelniomis žiemomis.",
+      "uses": "Laikomas valgomu, bet menkaverčiu; pranešta apie negalavimus, todėl rinkti maistui nerekomenduojama. Dėl nuodingų panašių rūšių atpažinimo klaidos pavojingos.",
+      "confusion": "Pluteus atromarginatus lakštelių briaunos tamsios. Pluteus pouzarianus dažniausiai auga ant spygliuočių medienos ir turi sagtis kepurėlės luobelėje.",
+      "notes": "Artimas rūšis Pluteus exilis ir Pluteus rangifer ne visada galima atskirti iš išvaizdos; gali reikėti mikroskopijos arba DNR tyrimo.",
+      "label": "elninė skydabudė",
+      "names": [],
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/pluteus_cervinus.html",
+        "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+        "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+        "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+        "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+        "https://gamtostyrimai.lt/wp-content/uploads/2024/12/2024_Grybu_savadas_web.pdf"
+      ]
+    },
+    "hu": {
+      "description": "Európában és Észak-Amerika mérsékelt éghajlatú keleti részén elterjedt, szaprotróf erdei gomba; Észak-Amerika nyugati részén igazolt, de ritkább előfordulásai vannak. Elhalt faanyagot bont, az eltemetett fadarabokat is, ezért termőtestei látszólag a talajból nőhetnek.",
+      "cap": "Kalapja 4,5–10 cm széles, kezdetben domború, később csaknem lapos, néha széles púppal. Világos- vagy sötétbarna, olykor olívszürke, sugarasan szálas és nedvesen enyhén ragadós.",
+      "hymenium": "Lemezei szabadon állók, sűrűk, kezdetben fehérek, később rózsaszínűek. A lemezlapok vastag falú cisztidáin 2–5 csúcsi kampó van; a kalapbőr hifáin nincsenek csatok.",
+      "stipe": "Tönkje 5–13 cm hosszú és 0,5–1,5 cm vastag, fehéres, barna hosszanti szálakkal, tövénél gyakran szélesebb. Gallérja és bocskora nincs.",
+      "flesh": "Húsa puha, fehér, vágásra nem színeződik el; szaga gyenge vagy retekszerű.",
+      "sporePrint": "Spórapora barnás rózsaszínű. Spórái simák, ellipszoidok, nem amiloidok, 6–8 × 4,5–6 µm méretűek.",
+      "habitat": "Egyesével vagy csoportosan korhadó lombos faanyagon, ritkábban fenyőfán terem. Tavasztól őszig, néha enyhe teleken is hoz termőtestet.",
+      "uses": "Ehető, de gyenge minőségű gombaként írják le; rosszulléteket is jelentettek, ezért étkezési célú gyűjtése nem ajánlott. A mérgező hasonmások miatt a téves azonosítás veszélyes.",
+      "confusion": "A Pluteus atromarginatus lemezélei sötétek. A Pluteus pouzarianus rendszerint fenyőfán nő, és a kalapbőrében csatok vannak.",
+      "notes": "A közeli rokon Pluteus exilis és Pluteus rangifer külső megjelenésük alapján nem mindig különíthető el; mikroszkópos vagy DNS-vizsgálat válhat szükségessé.",
+      "label": "barna csengettyűgomba",
+      "names": [
+        "változékony csengettyűgomba"
+      ],
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/pluteus_cervinus.html",
+        "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+        "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+        "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+        "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+        "https://gombaszaki.hu/wp-content/uploads/2020/02/Gombanevjegyzek_2017.04.26_lm_ml_gsz_nyb.pdf"
+      ]
+    },
+    "ro": {
+      "description": "O ciupercă forestieră saprotrofă răspândită în Europa și în estul temperat al Americii de Nord, cu semnalări confirmate, dar mai rare, în vestul Americii de Nord. Descompune lemnul mort, inclusiv fragmentele îngropate, astfel încât corpurile fructifere pot părea că ies din sol.",
+      "cap": "Pălăria are 4,5–10 cm lățime, este convexă apoi aproape plană, uneori cu un gurgui larg. Culoarea variază de la brun-deschis la brun-închis, uneori cu nuanțe cenușiu-măslinii; suprafața este radial fibroasă și ușor lipicioasă pe vreme umedă.",
+      "hymenium": "Lamelele sunt libere, dese, inițial albe, apoi roz. Pleurocistidele cu pereți groși au 2–5 cârlige apicale; în cuticula pălăriei lipsesc conexiunile în cataramă.",
+      "stipe": "Piciorul are 5–13 cm lungime și 0,5–1,5 cm grosime, este albicios cu fibre longitudinale brune, adesea mai lat la bază. Nu are inel sau volvă.",
+      "flesh": "Carnea este moale, albă, nu își schimbă culoarea la tăiere și are un miros slab sau de ridiche.",
+      "sporePrint": "Pulberea sporilor este roz-brunie. Sporii sunt netezi, elipsoidali, neamiloizi, de 6–8 × 4,5–6 µm.",
+      "habitat": "Solitară sau în grupuri pe lemn de foioase în descompunere, mai rar de conifere. Fructifică din primăvară până toamna, uneori în iernile blânde.",
+      "uses": "Este descrisă ca fiind comestibilă, dar de slabă calitate; s-au raportat îmbolnăviri, de aceea recoltarea pentru consum nu este recomandată. Asemănarea cu specii otrăvitoare face periculoase erorile de identificare.",
+      "confusion": "Pluteus atromarginatus are muchiile lamelelor întunecate. Pluteus pouzarianus crește de obicei pe lemn de conifere și are conexiuni în cataramă în cuticula pălăriei.",
+      "notes": "Speciile înrudite Pluteus exilis și Pluteus rangifer nu pot fi întotdeauna separate după aspect; poate fi necesară microscopia sau analiza ADN.",
+      "label": "ciuperca cerbilor",
+      "names": [],
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/pluteus_cervinus.html",
+        "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+        "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+        "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+        "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+        "https://ro.wikipedia.org/wiki/Pluteus_cervinus"
+      ]
+    },
+    "pl": {
+      "description": "Saprotroficzny grzyb leśny szeroko rozpowszechniony w Europie i umiarkowanej strefie wschodniej Ameryki Północnej, z potwierdzonymi, lecz rzadszymi stanowiskami na zachodzie tego kontynentu. Rozkłada martwe drewno, również zakopane fragmenty, przez co owocniki mogą pozornie wyrastać z gleby.",
+      "cap": "Kapelusz ma szerokość 4,5–10 cm, jest początkowo wypukły, później prawie płaski, czasem z szerokim garbkiem. Ma barwę od jasnobrązowej do ciemnobrązowej, niekiedy oliwkowoszarą; powierzchnia jest promieniście włóknista, w wilgoci lekko lepka.",
+      "hymenium": "Blaszki są wolne, gęste, początkowo białe, później różowe. Grubościenne pleurocystydy mają 2–5 haczyków na szczycie; w skórce kapelusza brak sprzążek.",
+      "stipe": "Trzon ma 5–13 cm długości i 0,5–1,5 cm grubości, jest białawy z brązowymi podłużnymi włókienkami, często szerszy u nasady. Brak pierścienia i pochwy.",
+      "flesh": "Miąższ jest miękki, biały, nie zmienia koloru po przekrojeniu; zapach słaby lub rzodkiewkowy.",
+      "sporePrint": "Wysyp zarodników jest brązoworóżowy. Zarodniki są gładkie, elipsoidalne, nieamyloidalne, 6–8 × 4,5–6 µm.",
+      "habitat": "Pojedynczo lub w grupach na rozkładającym się drewnie liściastym, rzadziej iglastym. Owocnikuje od wiosny do jesieni, czasem podczas łagodnych zim.",
+      "uses": "Opisywany jako jadalny, lecz mało wartościowy; zgłaszano zachorowania, dlatego zbieranie do spożycia nie jest zalecane. Podobne gatunki trujące sprawiają, że błędy w oznaczeniu są niebezpieczne.",
+      "confusion": "Pluteus atromarginatus ma ciemne ostrza blaszek. Pluteus pouzarianus rośnie zwykle na drewnie iglastym i ma sprzążki w skórce kapelusza.",
+      "notes": "Blisko spokrewnionych Pluteus exilis i Pluteus rangifer nie zawsze da się rozróżnić po wyglądzie; może być potrzebne badanie mikroskopowe lub DNA.",
+      "label": "drobnołuszczak jeleni",
+      "names": [],
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/pluteus_cervinus.html",
+        "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+        "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+        "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+        "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+        "https://atlas.grzybiarze.eu/pluteus-cervinus/"
+      ]
+    },
+    "bg": {
+      "description": "Сапротрофна горска гъба, широко разпространена в Европа и умерените източни части на Северна Америка, с потвърдени, но по-редки находки в западната част на континента. Разгражда мъртва дървесина, включително заровени късове, така че плодните тела може привидно да растат от почвата.",
+      "cap": "Шапката е широка 4,5–10 cm, изпъкнала, по-късно почти плоска, понякога с широка гърбица. Светло- до тъмнокафява, понякога маслиненосива, радиално влакнеста и леко лепкава при влага.",
+      "hymenium": "Ламелите са свободни, гъсти, отначало бели, после розови. Дебелостенните плевроцистиди имат 2–5 кукички на върха; в кожицата на шапката липсват катарами.",
+      "stipe": "Пънчето е дълго 5–13 cm и дебело 0,5–1,5 cm, белезникаво с кафяви надлъжни влакна, често по-широко в основата. Няма пръстен или волва.",
+      "flesh": "Месото е меко, бяло и не променя цвета си при разрязване; миризмата е слаба или наподобява репички.",
+      "sporePrint": "Споровият прашец е кафеникаворозов. Спорите са гладки, елипсоидни, неамилоидни, 6–8 × 4,5–6 µm.",
+      "habitat": "Единично или на групи върху разлагаща се дървесина от широколистни, по-рядко иглолистни дървета. Плододава от пролетта до есента, понякога през меки зими.",
+      "uses": "Описвана е като ядлива, но малоценна; съобщавани са неразположения, затова събирането за храна не се препоръчва. Отровните двойници правят грешките в определянето опасни.",
+      "confusion": "Pluteus atromarginatus има тъмни ръбове на ламелите. Pluteus pouzarianus обикновено расте върху иглолистна дървесина и има катарами в кожицата на шапката.",
+      "notes": "Близките видове Pluteus exilis и Pluteus rangifer невинаги могат да се разграничат по външен вид; може да е необходима микроскопия или ДНК анализ.",
+      "label": "еленова гъба",
+      "names": [
+        "горделивка"
+      ],
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/pluteus_cervinus.html",
+        "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+        "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+        "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+        "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+        "https://manatarka.org/pluteus-cervinus/"
+      ]
+    },
+    "ru": {
+      "description": "Сапротрофный лесной гриб, широко распространённый в Европе и умеренной зоне востока Северной Америки; на западе Северной Америки находки подтверждены, но встречаются реже. Разлагает мёртвую древесину, в том числе погребённые фрагменты, поэтому плодовые тела могут казаться растущими из почвы.",
+      "cap": "Шляпка шириной 4,5–10 см, сначала выпуклая, затем почти плоская, иногда с широким бугорком. От светло- до тёмно-коричневой, порой оливково-серая, радиально-волокнистая и слегка клейкая во влажную погоду.",
+      "hymenium": "Пластинки свободные, частые, сначала белые, затем розовые. Толстостенные плевроцистиды несут 2–5 верхушечных крючков; в кожице шляпки пряжки отсутствуют.",
+      "stipe": "Ножка длиной 5–13 см и толщиной 0,5–1,5 см, беловатая с коричневыми продольными волокнами, часто расширенная у основания. Кольца и вольвы нет.",
+      "flesh": "Мякоть мягкая, белая, не меняет цвет на срезе; запах слабый или редечный.",
+      "sporePrint": "Споровый порошок коричневато-розовый. Споры гладкие, эллипсоидные, неамилоидные, 6–8 × 4,5–6 мкм.",
+      "habitat": "Одиночно или группами на разлагающейся древесине лиственных, реже хвойных деревьев. Плодоносит с весны до осени, иногда мягкой зимой.",
+      "uses": "Описывается как съедобный, но малоценный; сообщалось о недомоганиях, поэтому сбор для еды не рекомендуется. Ядовитые двойники делают ошибки определения опасными.",
+      "confusion": "Pluteus atromarginatus отличается тёмными краями пластинок. Pluteus pouzarianus обычно растёт на хвойной древесине и имеет пряжки в кожице шляпки.",
+      "notes": "Близкие виды Pluteus exilis и Pluteus rangifer не всегда различимы по внешнему виду; могут потребоваться микроскопия или анализ ДНК.",
+      "label": "плютей олений",
+      "names": [],
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/pluteus_cervinus.html",
+        "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+        "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+        "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+        "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+        "https://species.wikimedia.org/wiki/Pluteus_cervinus"
+      ]
+    },
+    "uk": {
+      "description": "Сапротрофний лісовий гриб, поширений у Європі та помірній зоні сходу Північної Америки; на заході Північної Америки знахідки підтверджені, але рідші. Розкладає мертву деревину, зокрема поховані уламки, через що плодові тіла можуть здаватися такими, що ростуть із ґрунту.",
+      "cap": "Шапинка завширшки 4,5–10 см, спочатку опукла, згодом майже плоска, іноді з широким горбком. Від світло- до темно-коричневої, часом оливково-сіра, радіально-волокниста й трохи клейка за вогкості.",
+      "hymenium": "Пластинки вільні, густі, спочатку білі, згодом рожеві. Товстостінні плевроцистиди мають 2–5 гачків на верхівці; у шкірці шапинки пряжок немає.",
+      "stipe": "Ніжка завдовжки 5–13 см і завтовшки 0,5–1,5 см, білувата з коричневими поздовжніми волокнами, часто розширена біля основи. Кільця та піхви немає.",
+      "flesh": "М’якуш м’який, білий, на зрізі кольору не змінює; запах слабкий або редьковий.",
+      "sporePrint": "Споровий порошок коричнювато-рожевий. Спори гладенькі, еліпсоїдні, неамілоїдні, 6–8 × 4,5–6 мкм.",
+      "habitat": "Поодинці або групами на деревині листяних, рідше хвойних дерев, що розкладається. Плодоносить від весни до осені, іноді м’якої зими.",
+      "uses": "Описується як їстівний, але малоцінний; повідомляли про нездужання, тому збирати для їжі не рекомендується. Отруйні двійники роблять помилки визначення небезпечними.",
+      "confusion": "Pluteus atromarginatus має темні краї пластинок. Pluteus pouzarianus зазвичай росте на хвойній деревині та має пряжки у шкірці шапинки.",
+      "notes": "Близькі види Pluteus exilis і Pluteus rangifer не завжди можна розрізнити за виглядом; можуть знадобитися мікроскопія або аналіз ДНК.",
+      "label": "плютей оленячий",
+      "names": [
+        "плютей бурий",
+        "оленячий гриб"
+      ],
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/pluteus_cervinus.html",
+        "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+        "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+        "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+        "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+        "http://dc.smnh.org/species/detail/species-9716.html"
+      ]
+    },
+    "sr": {
+      "description": "Сапротрофна шумска гљива широко распрострањена у Европи и умереним источним деловима Северне Америке, са потврђеним али ређим налазима на западу Северне Америке. Разлаже мртво дрво, укључујући закопане комаде, па плодна тела могу изгледати као да расту из земље.",
+      "cap": "Шешир је широк 4,5–10 cm, испрва испупчен, потом готово раван, понекад са широком грбом. Светло- до тамносмеђ, понекад маслинастосив, радијално влакнаст и благо лепљив када је влажан.",
+      "hymenium": "Листићи су слободни, густи, најпре бели, затим ружичасти. Плеуроцистидије дебелих зидова имају 2–5 кукица на врху; у кожици шешира нема копчи.",
+      "stipe": "Дршка је дуга 5–13 cm и дебела 0,5–1,5 cm, беличаста са смеђим уздужним влакнима, често шира при основи. Нема прстена ни волве.",
+      "flesh": "Месо је меко, бело, не мења боју на пресеку, слабог мириса или мириса на ротквицу.",
+      "sporePrint": "Отисак спора је смеђеружичаст. Споре су глатке, елипсоидне, неамилоидне, 6–8 × 4,5–6 µm.",
+      "habitat": "Појединачно или у групама на трулом дрвету лишћара, ређе четинара. Плодоноси од пролећа до јесени, понекад током благих зима.",
+      "uses": "Описана је као јестива, али слабе вредности; пријављена су обољења, па се сакупљање за јело не препоручује. Отровне сличне врсте чине грешке у одређивању опасним.",
+      "confusion": "Pluteus atromarginatus има тамне ивице листића. Pluteus pouzarianus обично расте на дрвету четинара и има копче у кожици шешира.",
+      "notes": "Блиске врсте Pluteus exilis и Pluteus rangifer не могу се увек разликовати по изгледу; могу бити потребни микроскопија или анализа ДНК.",
+      "label": "јеленска кровњача",
+      "names": [],
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/pluteus_cervinus.html",
+        "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+        "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+        "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+        "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+        "https://sr.wikipedia.org/sr-ec/Pluteus_cervinus"
+      ]
+    },
+    "hr": {
+      "description": "Saprotrofna šumska gljiva rasprostranjena u Europi i umjerenim istočnim dijelovima Sjeverne Amerike, s potvrđenim, ali rjeđim nalazima na zapadu Sjeverne Amerike. Razgrađuje mrtvo drvo, uključujući zakopane komade, pa plodna tijela mogu izgledati kao da rastu iz tla.",
+      "cap": "Klobuk je širok 4,5–10 cm, najprije ispupčen, zatim gotovo ravan, ponekad sa širokom grbom. Svijetlo- do tamnosmeđ, katkada maslinastosiv, radijalno vlaknast i blago ljepljiv kada je mokar.",
+      "hymenium": "Listići su slobodni, gusti, najprije bijeli, zatim ružičasti. Pleurocistide debelih stijenki imaju 2–5 kukica na vrhu; u kožici klobuka nema kopči.",
+      "stipe": "Stručak je dug 5–13 cm i debeo 0,5–1,5 cm, bjelkast sa smeđim uzdužnim vlaknima, često širi pri dnu. Nema prstena ni ovoja.",
+      "flesh": "Meso je mekano, bijelo, ne mijenja boju na prerezu, slabog mirisa ili mirisa na rotkvicu.",
+      "sporePrint": "Otrusina je smeđoružičasta. Spore su glatke, elipsoidne, neamiloidne, 6–8 × 4,5–6 µm.",
+      "habitat": "Pojedinačno ili u skupinama na trulom drvu listača, rjeđe četinjača. Plodonosi od proljeća do jeseni, ponekad tijekom blagih zima.",
+      "uses": "Opisana je kao jestiva, ali slabe vrijednosti; prijavljene su zdravstvene tegobe, pa se skupljanje za jelo ne preporučuje. Otrovne slične vrste čine pogreške pri određivanju opasnima.",
+      "confusion": "Pluteus atromarginatus ima tamne oštrice listića. Pluteus pouzarianus obično raste na drvu četinjača i ima kopče u kožici klobuka.",
+      "notes": "Bliske vrste Pluteus exilis i Pluteus rangifer ne mogu se uvijek razlikovati po izgledu; mogu biti potrebne mikroskopija ili analiza DNA.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/pluteus_cervinus.html",
+        "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+        "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+        "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+        "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom"
+      ]
+    },
+    "sl": {
+      "description": "Saprotrofna gozdna goba, razširjena v Evropi in zmernih vzhodnih predelih Severne Amerike, s potrjenimi, a redkejšimi najdbami na zahodu Severne Amerike. Razkraja odmrli les, tudi zakopane koščke, zato lahko trosnjaki navidezno rastejo iz tal.",
+      "cap": "Klobuk je širok 4,5–10 cm, sprva izbočen, nato skoraj raven, včasih s široko grbo. Je svetlo do temno rjav, včasih olivno siv, radialno vlaknat in v mokrem rahlo lepljiv.",
+      "hymenium": "Lističi so prosti, gosti, sprva beli, nato rožnati. Debelostenske plevrocistide imajo na vrhu 2–5 kaveljčkov; v kožici klobuka ni zaponk.",
+      "stipe": "Bet je dolg 5–13 cm in debel 0,5–1,5 cm, belkast z rjavimi vzdolžnimi vlakni, ob dnišču pogosto širši. Obročka in ovojnice ni.",
+      "flesh": "Meso je mehko, belo in na prerezu ne spremeni barve; vonj je šibek ali po redkvici.",
+      "sporePrint": "Trosni prah je rjavkasto rožnat. Trosi so gladki, elipsoidni in neamiloidni, 6–8 × 4,5–6 µm.",
+      "habitat": "Posamično ali v skupinah na razpadajočem lesu listavcev, redkeje iglavcev. Trosnjaki se pojavljajo od pomladi do jeseni, včasih tudi v milih zimah.",
+      "uses": "Opisana je kot užitna, a malo vredna; poročali so o slabostih, zato nabiranje za hrano ni priporočljivo. Strupene podobne vrste naredijo napake pri določanju nevarne.",
+      "confusion": "Pluteus atromarginatus ima temne ostrinke lističev. Pluteus pouzarianus navadno raste na lesu iglavcev in ima zaponke v kožici klobuka.",
+      "notes": "Sorodnih vrst Pluteus exilis in Pluteus rangifer ni vedno mogoče ločiti po videzu; potrebna je lahko mikroskopija ali analiza DNK.",
+      "label": "jelenova ščitovka",
+      "names": [],
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/pluteus_cervinus.html",
+        "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+        "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+        "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+        "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+        "https://www.gobe.si/Gobe/PluteusCervinus"
+      ]
+    },
+    "ja": {
+      "description": "ヨーロッパと北アメリカ東部の温帯に広く分布する、森林の腐生性きのこです。北アメリカ西部でも確認されていますが、記録は比較的少ないです。枯れ木を分解し、埋もれた木片から発生する場合には、子実体が地面から生えているように見えることがあります。",
+      "cap": "傘は幅4.5–10 cmで、初めはまんじゅう形、後にほぼ平らになり、中央が幅広く盛り上がることもあります。淡褐色から暗褐色、ときにオリーブ灰色で、放射状の繊維模様があり、濡れるとやや粘ります。",
+      "hymenium": "ひだは離生し、密で、初めは白く、後に桃色になります。ひだの側面にある厚壁のシスチジアには先端に2–5本の鉤があり、傘の表皮にはクランプ結合がありません。",
+      "stipe": "柄は長さ5–13 cm、太さ0.5–1.5 cmで、白っぽく、褐色の縦の繊維があり、基部が太くなることが多いです。つばもつぼもありません。",
+      "flesh": "肉は柔らかく白色で、切っても変色しません。においは弱いか、ダイコンのようです。",
+      "sporePrint": "胞子紋は褐色を帯びた桃色です。胞子は平滑な楕円体で非アミロイド性、6–8 × 4.5–6 µmです。",
+      "habitat": "広葉樹の腐った木に単生または群生し、針葉樹には比較的まれです。春から秋に発生し、暖冬には冬にも見られます。",
+      "uses": "食用とされますが質は低く、体調不良の報告もあるため、食べる目的の採集は勧められません。有毒な類似種があり、誤同定は危険です。",
+      "confusion": "Pluteus atromarginatusはひだの縁が暗色です。Pluteus pouzarianusは通常針葉樹の木に発生し、傘の表皮にクランプ結合があります。",
+      "notes": "近縁のPluteus exilisやPluteus rangiferとは外見だけでは常に区別できるとは限らず、顕微鏡観察やDNA解析が必要な場合があります。",
+      "label": "ウラベニガサ",
+      "names": [
+        "シカタケ"
+      ],
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/pluteus_cervinus.html",
+        "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+        "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+        "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+        "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+        "https://s-kinokonokai.sakura.ne.jp/kinoko/common/urabenigasa.htm"
+      ]
+    },
+    "ko": {
+      "description": "유럽과 북아메리카 동부 온대 지역에 널리 분포하는 산림의 부생성 버섯입니다. 북아메리카 서부에서도 확인되지만 기록은 비교적 적습니다. 땅에 묻힌 나무 조각을 포함한 죽은 나무를 분해하므로 자실체가 흙에서 돋는 것처럼 보일 수 있습니다.",
+      "cap": "갓은 너비 4.5–10 cm이며 처음에는 볼록하다가 거의 평평해지고 때로는 중앙이 넓게 솟습니다. 연한 갈색에서 짙은 갈색이며 때로는 올리브 회색입니다. 방사상 섬유 무늬가 있고 젖으면 약간 끈적입니다.",
+      "hymenium": "주름살은 떨어진형으로 촘촘하고, 처음에는 흰색이다가 분홍색으로 변합니다. 주름살 면의 두꺼운 벽을 가진 낭상체에는 끝에 2–5개의 갈고리가 있으며, 갓 표피에는 꺾쇠연결이 없습니다.",
+      "stipe": "대는 길이 5–13 cm, 굵기 0.5–1.5 cm이며 흰빛 바탕에 갈색 세로 섬유가 있고 밑동이 더 굵은 경우가 많습니다. 턱받이와 대주머니는 없습니다.",
+      "flesh": "살은 부드럽고 흰색이며 자른 뒤에도 변색하지 않습니다. 냄새는 약하거나 무 냄새와 비슷합니다.",
+      "sporePrint": "포자문은 갈색을 띤 분홍색입니다. 포자는 매끄러운 타원체이며 비아밀로이드성이고, 크기는 6–8 × 4.5–6 µm입니다.",
+      "habitat": "썩는 활엽수 나무에 홀로 또는 무리 지어 자라며 침엽수에는 덜 흔합니다. 봄부터 가을까지 발생하고 때로는 온화한 겨울에도 발생합니다.",
+      "uses": "식용이지만 품질이 낮다고 알려져 있으며 섭취 후 이상 증상도 보고되어 식용 채집은 권장하지 않습니다. 독성이 있는 유사종 때문에 동정 오류는 위험합니다.",
+      "confusion": "Pluteus atromarginatus는 주름살 날이 어둡습니다. Pluteus pouzarianus는 보통 침엽수 나무에 자라며 갓 표피에 꺾쇠연결이 있습니다.",
+      "notes": "근연종인 Pluteus exilis와 Pluteus rangifer는 외관만으로 항상 구별할 수 있는 것은 아니며, 현미경 관찰이나 DNA 분석이 필요할 수 있습니다.",
+      "label": "난버섯",
+      "names": [],
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/pluteus_cervinus.html",
+        "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+        "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+        "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+        "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom",
+        "https://www.nibr.go.kr/aiibook/catImage/39/Basidiomycota.pdf"
+      ]
+    },
+    "zh": {
+      "description": "一種森林腐生菇類，廣泛分布於歐洲及北美洲東部溫帶地區，在北美洲西部也有確定紀錄，但較少見。它分解枯木，包括埋在土中的木屑，因此子實體有時看似直接從土壤長出。",
+      "cap": "菌蓋寬4.5–10 cm，初期凸起，後近乎平展，有時中央寬廣隆起。顏色由淺褐至深褐，偶帶橄欖灰色，具放射狀纖維紋，潮濕時略黏。",
+      "hymenium": "菌褶離生、密集，初白色，後轉粉紅色。菌褶側面的厚壁囊狀體頂端有2–5個鉤；菌蓋表皮無鎖狀聯合。",
+      "stipe": "菌柄長5–13 cm，粗0.5–1.5 cm，呈白色，帶褐色縱向纖維，基部常較粗。無菌環或菌托。",
+      "flesh": "菌肉柔軟、白色，切開不變色，氣味淡或似蘿蔔。",
+      "sporePrint": "孢子印為褐粉紅色。孢子光滑、橢圓體形、非澱粉質，大小6–8 × 4.5–6 µm。",
+      "habitat": "單生或群生於腐朽的闊葉樹木材，針葉樹木材上較少見。自春季至秋季出菇，暖冬時偶爾也會發生。",
+      "uses": "雖被記載為可食，但食用品質不佳，且有食後不適的報告，因此不建議採集食用。有毒的相似種類使誤認具有危險性。",
+      "confusion": "Pluteus atromarginatus的菌褶邊緣呈深色。Pluteus pouzarianus通常生於針葉樹木材，菌蓋表皮具鎖狀聯合。",
+      "notes": "近緣的Pluteus exilis與Pluteus rangifer並非總能僅憑外觀區分，有時需要顯微觀察或DNA分析。",
+      "names": [],
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/pluteus_cervinus.html",
+        "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+        "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+        "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+        "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom"
+      ]
+    },
+    "tr": {
+      "description": "Avrupa ve Kuzey Amerika’nın ılıman doğu kesimlerinde yaygın bir saprotrof orman mantarıdır; Kuzey Amerika’nın batısında doğrulanmış, ancak daha seyrek kayıtları vardır. Gömülü parçalar dâhil ölü odunu ayrıştırır; bu nedenle meyve gövdeleri topraktan çıkıyormuş gibi görünebilir.",
+      "cap": "Şapka 4,5–10 cm genişliğinde, önce dışbükey, sonra hemen hemen düz, bazen genişçe tümseklidir. Açık ila koyu kahverengi, bazen zeytin grisi, ışınsal lifli ve ıslakken hafif yapışkandır.",
+      "hymenium": "Lameller serbest, sık, önce beyaz, sonra pembedir. Lamel yüzlerindeki kalın çeperli sistitlerin ucunda 2–5 kanca bulunur; şapka derisinde toka bağlantıları yoktur.",
+      "stipe": "Sap 5–13 cm uzunluğunda ve 0,5–1,5 cm kalınlığında, kahverengi boyuna liflerle beyazımsı ve çoğunlukla dipte daha geniştir. Halka ve volva yoktur.",
+      "flesh": "Et yumuşak, beyaz ve kesilince değişmeyen renktedir; kokusu hafif ya da turp benzeridir.",
+      "sporePrint": "Spor izi kahverengimsi pembedir. Sporlar pürüzsüz, elipsoit, inamiloittir; 6–8 × 4,5–6 µm boyutundadır.",
+      "habitat": "Çürüyen geniş yapraklı ağaç odununda tek tek veya gruplar hâlinde, daha seyrek olarak iğne yapraklı odununda yetişir. İlkbahardan sonbahara, bazen ılıman kışlarda meyve verir.",
+      "uses": "Yenilebilir, ancak düşük nitelikli olarak bildirilir; rahatsızlık vakaları da bildirildiğinden yemek için toplanması önerilmez. Zehirli benzerleri teşhis hatalarını tehlikeli kılar.",
+      "confusion": "Pluteus atromarginatus koyu lamel kenarlarına sahiptir. Pluteus pouzarianus genellikle iğne yapraklı odununda yetişir ve şapka derisinde toka bağlantıları vardır.",
+      "notes": "Yakın akraba Pluteus exilis ve Pluteus rangifer görünüşle her zaman ayrılamaz; mikroskopi veya DNA incelemesi gerekebilir.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/pluteus_cervinus.html",
+        "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+        "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+        "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+        "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom"
+      ]
+    },
+    "id": {
+      "description": "Jamur hutan saprotrof yang tersebar luas di Eropa dan wilayah beriklim sedang di bagian timur Amerika Utara, dengan catatan terkonfirmasi tetapi lebih jarang di bagian barat Amerika Utara. Jamur ini menguraikan kayu mati, termasuk potongan yang terkubur sehingga tubuh buah tampak tumbuh dari tanah.",
+      "cap": "Tudung lebarnya 4,5–10 cm, mula-mula cembung lalu hampir rata, terkadang berpunuk lebar. Warnanya cokelat muda hingga tua, kadang abu-abu zaitun, berserat radial dan agak lengket saat basah.",
+      "hymenium": "Bilah bebas, rapat, semula putih lalu merah muda. Sistidia berdinding tebal pada permukaan bilah memiliki 2–5 kait di ujungnya; kutikula tudung tidak memiliki sambungan apit.",
+      "stipe": "Tangkai panjangnya 5–13 cm dan tebalnya 0,5–1,5 cm, keputihan dengan serat memanjang berwarna cokelat, sering melebar di pangkal. Tidak ada cincin atau volva.",
+      "flesh": "Daging lunak, putih dan tidak berubah warna saat dipotong, dengan bau samar atau seperti lobak.",
+      "sporePrint": "Cetak spora berwarna merah muda kecokelatan. Spora halus, elipsoid, inamiloid, berukuran 6–8 × 4,5–6 µm.",
+      "habitat": "Tumbuh sendiri atau berkelompok pada kayu pohon berdaun lebar yang membusuk, lebih jarang pada kayu konifer. Berbuah dari musim semi hingga musim gugur, kadang pada musim dingin yang ringan.",
+      "uses": "Dilaporkan dapat dimakan tetapi bermutu rendah; gangguan kesehatan pernah dilaporkan, sehingga pengumpulan untuk pangan tidak disarankan. Kemiripan dengan jenis beracun membuat kesalahan identifikasi berbahaya.",
+      "confusion": "Pluteus atromarginatus memiliki tepi bilah gelap. Pluteus pouzarianus biasanya tumbuh pada kayu konifer dan memiliki sambungan apit pada kutikula tudung.",
+      "notes": "Kerabat dekat Pluteus exilis dan Pluteus rangifer tidak selalu dapat dibedakan dari penampilan; pemeriksaan mikroskopis atau DNA mungkin diperlukan.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/pluteus_cervinus.html",
+        "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+        "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+        "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+        "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom"
+      ]
+    },
+    "ar": {
+      "description": "فطر غابي مترمم واسع الانتشار في أوروبا والمناطق المعتدلة بشرق أمريكا الشمالية، مع سجلات مؤكدة لكنها أقل شيوعًا في غرب أمريكا الشمالية. يحلل الخشب الميت، بما فيه القطع المدفونة التي قد تجعل الأجسام الثمرية تبدو نامية من التربة.",
+      "cap": "يبلغ عرض القبعة ٤٫٥–١٠ سم، وتكون محدبة ثم شبه مسطحة، وأحيانًا ذات حدبة عريضة. لونها بني فاتح إلى داكن، وأحيانًا رمادي زيتوني؛ سطحها ذو ألياف شعاعية ولزج قليلًا عند البلل.",
+      "hymenium": "الصفائح حرة ومزدحمة، بيضاء أولًا ثم وردية. تحمل السيستيدات سميكة الجدران على وجوه الصفائح ٢–٥ خطاطيف قمية؛ وتغيب الوصلات المشبكية عن قشيرة القبعة.",
+      "stipe": "يبلغ طول الساق ٥–١٣ سم وسمكها ٠٫٥–١٫٥ سم، وهي مبيضة بألياف بنية طولية، وغالبًا أعرض عند القاعدة. لا توجد حلقة أو غلاف قاعدي.",
+      "flesh": "اللحم طري وأبيض، لا يتغير لونه عند القطع، ورائحته ضعيفة أو تشبه الفجل.",
+      "sporePrint": "طبعة الأبواغ وردية بنية. الأبواغ ملساء وإهليلجية وغير أميلويدية، وقياسها ٦–٨ × ٤٫٥–٦ ميكرومتر.",
+      "habitat": "ينمو منفردًا أو في مجموعات على خشب الأشجار عريضة الأوراق المتحلل، وأقل شيوعًا على خشب الصنوبريات. يثمر من الربيع إلى الخريف، وأحيانًا في الشتاء المعتدل.",
+      "uses": "يوصف بأنه صالح للأكل لكنه رديء؛ وقد أُبلغ عن حالات مرض، لذا لا يُنصح بجمعه للطعام. تجعل الأنواع السامة المشابهة أخطاء التعرف خطرة.",
+      "confusion": "يتميز Pluteus atromarginatus بحواف صفائح داكنة. ينمو Pluteus pouzarianus عادة على خشب الصنوبريات، وله وصلات مشبكية في قشيرة القبعة.",
+      "notes": "لا يمكن دائمًا تمييز النوعين القريبين Pluteus exilis وPluteus rangifer بالمظهر؛ وقد يلزم الفحص المجهري أو تحليل الحمض النووي DNA.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/pluteus_cervinus.html",
+        "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+        "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+        "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+        "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom"
+      ]
+    },
+    "fa": {
+      "description": "قارچی جنگلی و ساپروتروف است که در اروپا و نواحی معتدل شرق آمریکای شمالی پراکندگی گسترده دارد؛ در غرب آمریکای شمالی نیز گزارش‌های تأییدشده ولی کم‌تعدادتری دارد. چوب مرده، از جمله قطعات مدفون را تجزیه می‌کند و ممکن است اندام‌های بارده آن ظاهراً از خاک برویند.",
+      "cap": "کلاهک ۴٫۵–۱۰ سانتی‌متر پهنا دارد؛ ابتدا محدب و سپس تقریباً تخت است و گاهی برآمدگی پهنی دارد. رنگ آن قهوه‌ای روشن تا تیره و گاهی خاکستری زیتونی است؛ الیاف شعاعی دارد و هنگام خیس بودن کمی چسبناک است.",
+      "hymenium": "تیغه‌ها آزاد، فشرده، ابتدا سفید و سپس صورتی هستند. سیستیدهای ضخیم‌دیواره روی سطح تیغه‌ها در نوک خود ۲–۵ قلاب دارند؛ در پوست کلاهک اتصالات گیره‌ای وجود ندارد.",
+      "stipe": "پایه ۵–۱۳ سانتی‌متر طول و ۰٫۵–۱٫۵ سانتی‌متر ضخامت دارد، سفیدفام با الیاف طولی قهوه‌ای است و اغلب در قاعده پهن‌تر می‌شود. حلقه و ولوا ندارد.",
+      "flesh": "گوشت نرم و سفید است و با برش تغییر رنگ نمی‌دهد؛ بوی آن ضعیف یا شبیه ترب است.",
+      "sporePrint": "نقش هاگ صورتی مایل به قهوه‌ای است. هاگ‌ها صاف، بیضوی و غیرآمیلوئیدی هستند و ۶–۸ × ۴٫۵–۶ میکرومتر اندازه دارند.",
+      "habitat": "به‌تنهایی یا گروهی روی چوب در حال پوسیدن درختان پهن‌برگ و به‌ندرت روی چوب سوزنی‌برگان می‌روید. از بهار تا پاییز و گاهی در زمستان‌های ملایم باردهی می‌کند.",
+      "uses": "خوراکی ولی کم‌کیفیت گزارش شده است؛ موارد بیماری نیز گزارش شده، بنابراین جمع‌آوری برای خوراک توصیه نمی‌شود. گونه‌های سمی مشابه، اشتباه در شناسایی را خطرناک می‌کنند.",
+      "confusion": "لبه تیغه‌های Pluteus atromarginatus تیره است. Pluteus pouzarianus معمولاً روی چوب سوزنی‌برگان می‌روید و در پوست کلاهک اتصالات گیره‌ای دارد.",
+      "notes": "گونه‌های نزدیک Pluteus exilis و Pluteus rangifer را همیشه نمی‌توان از ظاهر جدا کرد؛ ممکن است بررسی میکروسکوپی یا DNA لازم باشد.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/pluteus_cervinus.html",
+        "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+        "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+        "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+        "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom"
+      ]
+    },
+    "he": {
+      "description": "פטריית יער ספרוטרופית הנפוצה באירופה ובמזרח הממוזג של אמריקה הצפונית, עם תיעוד מאומת אך שכיח פחות במערב אמריקה הצפונית. היא מפרקת עץ מת, לרבות שברים קבורים העשויים לגרום לגופי הפרי להיראות כאילו הם צומחים מן הקרקע.",
+      "cap": "הכובע ברוחב 4.5–10 ס״מ, קמור בתחילה ואחר כך כמעט שטוח, לעיתים עם בליטה מרכזית רחבה. צבעו חום בהיר עד כהה, לעיתים אפור זיתי, הוא בעל סיבים רדיאליים ומעט דביק כשהוא רטוב.",
+      "hymenium": "הדפים חופשיים וצפופים, לבנים בתחילה ואחר כך ורודים. לציסטידות עבות הדופן שעל פני הדפים יש 2–5 ווים בקצה; חיבורי אבזם חסרים בשכבת הכיסוי של הכובע.",
+      "stipe": "הרגל באורך 5–13 ס״מ ובעובי 0.5–1.5 ס״מ, לבנבנה עם סיבים חומים לאורכה, ולעיתים קרובות רחבה יותר בבסיס. אין טבעת או נרתיק בבסיס.",
+      "flesh": "הבשר רך ולבן ואינו משנה צבע בחיתוך; ריחו חלש או מזכיר צנון.",
+      "sporePrint": "תדפיס הנבגים ורוד חום. הנבגים חלקים, אליפסואידיים ולא עמילניים, בגודל 6–8 × 4.5–6 מיקרומטר.",
+      "habitat": "בודדת או בקבוצות על עץ נשיר נרקב, ולעיתים רחוקות יותר על עץ מחטני. מניבה מהאביב ועד הסתיו, לפעמים גם בחורפים מתונים.",
+      "uses": "מדווחת כאכילה אך באיכות נמוכה; דווחו מקרי מחלה, ולכן איסוף למאכל אינו מומלץ. מינים רעילים דומים הופכים טעויות בזיהוי למסוכנות.",
+      "confusion": "למין Pluteus atromarginatus שולי דפים כהים. Pluteus pouzarianus צומחת לרוב על עץ מחטני ויש לה חיבורי אבזם בשכבת הכיסוי של הכובע.",
+      "notes": "לא תמיד ניתן להבדיל במראה בין המינים הקרובים Pluteus exilis ו־Pluteus rangifer; ייתכן שיידרשו מיקרוסקופיה או בדיקת DNA.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/pluteus_cervinus.html",
+        "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+        "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+        "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+        "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom"
+      ]
+    },
+    "hi": {
+      "description": "यूरोप और उत्तरी अमेरिका के समशीतोष्ण पूर्वी भाग में व्यापक रूप से पाया जाने वाला मृतोपजीवी वन कवक है; उत्तरी अमेरिका के पश्चिम में भी इसके प्रमाणित, लेकिन कम सामान्य अभिलेख हैं। यह दबी हुई लकड़ी के टुकड़ों सहित मृत लकड़ी को विघटित करता है, जिससे फलनकाय मिट्टी से उगते हुए लग सकते हैं।",
+      "cap": "टोपी 4.5–10 cm चौड़ी होती है, पहले उत्तल और फिर लगभग चपटी, कभी-कभी बीच में चौड़ा उभार होता है। यह हल्के से गहरे भूरे, कभी जैतूनी धूसर रंग की, अरीय रेशेदार और गीली होने पर थोड़ी चिपचिपी होती है।",
+      "hymenium": "गलफड़े स्वतंत्र, घने, पहले सफेद और फिर गुलाबी होते हैं। गलफड़ों की सतह के मोटी भित्ति वाले सिस्टिडिया के सिरों पर 2–5 हुक होते हैं; टोपी की ऊपरी त्वचा में क्लैम्प जोड़ नहीं होते।",
+      "stipe": "डंठल 5–13 cm लंबा और 0.5–1.5 cm मोटा, सफेदी लिए और भूरे अनुदैर्ध्य रेशों वाला होता है; आधार प्रायः चौड़ा होता है। वलय या आधार का खोल नहीं होता।",
+      "flesh": "गूदा मुलायम और सफेद होता है, काटने पर रंग नहीं बदलता; गंध हल्की या मूली जैसी होती है।",
+      "sporePrint": "बीजाणु छाप भूरापन लिए गुलाबी होती है। बीजाणु चिकने, दीर्घवृत्ताभ होते हैं और अमाइलॉइड अभिक्रिया नहीं देते, आकार 6–8 × 4.5–6 µm है।",
+      "habitat": "सड़ती चौड़ी पत्ती वाले वृक्षों की लकड़ी पर अकेले या समूह में, शंकुधारी लकड़ी पर कम मिलता है। वसंत से पतझड़ तक और कभी हल्की सर्दियों में फलन करता है।",
+      "uses": "इसे खाद्य लेकिन घटिया माना गया है; बीमारी की घटनाएँ भी बताई गई हैं, इसलिए भोजन के लिए संग्रह की सलाह नहीं दी जाती। मिलती-जुलती विषैली प्रजातियों के कारण पहचान की भूल खतरनाक है।",
+      "confusion": "Pluteus atromarginatus के गलफड़ों के किनारे गहरे होते हैं। Pluteus pouzarianus सामान्यतः शंकुधारी लकड़ी पर उगता है और टोपी की ऊपरी त्वचा में क्लैम्प जोड़ होते हैं।",
+      "notes": "निकट संबंधी Pluteus exilis और Pluteus rangifer को केवल रूप से हमेशा अलग नहीं किया जा सकता; सूक्ष्मदर्शी जाँच या DNA विश्लेषण आवश्यक हो सकता है।",
+      "names": [],
+      "sourceUrls": [
+        "https://www.mushroomexpert.com/pluteus_cervinus.html",
+        "https://www.first-nature.com/fungi/pluteus-cervinus.php",
+        "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/pluteus-cervinus/",
+        "https://www.myko.cz/myko-atlas/Pluteus-cervinus/",
+        "https://mdc.mo.gov/discover-nature/field-guide/fawn-mushroom"
+      ]
+    }
+  },
+  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Pluteaceae/Pluteus_cervinus/Pluteus_cervinus@1600.webp",
+  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Pluteaceae/Pluteus_cervinus/Pluteus_cervinus@400.webp",
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Pluteaceae/Pluteus_cervinus/photo_1.webp",
+      "author": "Petr Harant",
+      "license": "CC-BY",
+      "licenseUrl": "https://creativecommons.org/licenses/by/",
+      "source": "https://www.inaturalist.org/observations/409939199"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Pluteaceae/Pluteus_cervinus/photo_2.webp",
+      "author": "Unknown photographer; uploader jadekf (CC0 dedication)",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/",
+      "source": "https://www.inaturalist.org/observations/409883346"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Pluteaceae/Pluteus_cervinus/photo_3.webp",
+      "author": "victor laborde",
+      "license": "CC-BY",
+      "licenseUrl": "https://creativecommons.org/licenses/by/",
+      "source": "https://www.inaturalist.org/observations/410134127"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Pluteaceae/Pluteus_cervinus/photo_4.webp",
+      "author": "fernium",
+      "license": "CC-BY",
+      "licenseUrl": "https://creativecommons.org/licenses/by/",
+      "source": "https://www.inaturalist.org/observations/397846348"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Pluteaceae/Pluteus_cervinus/photo_5.webp",
+      "author": "Vincent B.",
+      "license": "CC-BY",
+      "licenseUrl": "https://creativecommons.org/licenses/by/",
+      "source": "https://www.inaturalist.org/observations/393454987"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Agaricales/Pluteaceae/Pluteus_cervinus/Pluteus_cervinus@1600.webp",
+      "author": "Unknown; owner-supplied artwork",
+      "license": "User supplied; redistribution rights not independently established",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Pluteaceae/Pluteus_cervinus/Pluteus_cervinus@1600.webp",
+      "existingMark": "J. C. Schäffer; existing matching mark preserved; not authenticated authorship",
+      "sourceDescription": "Owner-supplied Pluteus cervinus.png; existing J. C. Schäffer mark preserved, NOT authenticated authorship. Creator/generator/rights/species accuracy unverified. Source SHA256 0a7080725d20ac7350a749cc938fe56f6e15db88e5a9fdec54a6f6cc7812ebe8"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Agaricales/Pluteaceae/Pluteus_cervinus/photo_1.webp",
+      "author": "Petr Harant",
+      "license": "CC-BY",
+      "licenseUrl": "https://creativecommons.org/licenses/by/",
+      "sourceUrl": "https://www.inaturalist.org/observations/409939199",
+      "attribution": "(c) Petr Harant, some rights reserved (CC BY)",
+      "adaptation": "Centered true square crop from original; downsampled1024; WebP quality90; no padding, stretching, upscaling, retouching or generation",
+      "licenseVersion": null
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Agaricales/Pluteaceae/Pluteus_cervinus/photo_2.webp",
+      "author": "Unknown photographer; uploader jadekf (CC0 dedication)",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/",
+      "sourceUrl": "https://www.inaturalist.org/observations/409883346",
+      "attribution": "no rights reserved",
+      "adaptation": "Centered true square crop from original; downsampled1024; WebP quality90; no padding, stretching, upscaling, retouching or generation",
+      "licenseVersion": null
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Agaricales/Pluteaceae/Pluteus_cervinus/photo_3.webp",
+      "author": "victor laborde",
+      "license": "CC-BY",
+      "licenseUrl": "https://creativecommons.org/licenses/by/",
+      "sourceUrl": "https://www.inaturalist.org/observations/410134127",
+      "attribution": "(c) victor laborde, some rights reserved (CC BY)",
+      "adaptation": "Centered true square crop from original; downsampled1024; WebP quality90; no padding, stretching, upscaling, retouching or generation",
+      "licenseVersion": null
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Agaricales/Pluteaceae/Pluteus_cervinus/photo_4.webp",
+      "author": "fernium",
+      "license": "CC-BY",
+      "licenseUrl": "https://creativecommons.org/licenses/by/",
+      "sourceUrl": "https://www.inaturalist.org/observations/397846348",
+      "attribution": "(c) fernium, some rights reserved (CC BY)",
+      "adaptation": "Centered true square crop from original; downsampled1024; WebP quality90; no padding, stretching, upscaling, retouching or generation",
+      "licenseVersion": null
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Agaricales/Pluteaceae/Pluteus_cervinus/photo_5.webp",
+      "author": "Vincent B.",
+      "license": "CC-BY",
+      "licenseUrl": "https://creativecommons.org/licenses/by/",
+      "sourceUrl": "https://www.inaturalist.org/observations/393454987",
+      "attribution": "(c) Vincent B., some rights reserved (CC BY)",
+      "adaptation": "Centered true square crop from original; downsampled1024; WebP quality90; no padding, stretching, upscaling, retouching or generation",
+      "licenseVersion": null
+    }
+  ],
+  "reserved": false,
+  "order": "Agaricales",
+  "summary": [
+    "Agaricales",
+    "Pluteaceae",
+    "Pluteus"
+  ],
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Pluteaceae/Pluteus_cervinus/Pluteus_cervinus@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Pluteaceae/Pluteus_cervinus/Pluteus_cervinus@400.webp",
+  "plateCredit": {
+    "author": "Unknown; owner-supplied artwork",
+    "credit": "Existing requested J. C. Schäffer mark retained; not authenticated authorship; no new signature",
+    "license": "User supplied; redistribution rights not independently established",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Pluteaceae/Pluteus_cervinus/Pluteus_cervinus@1600.webp"
+  },
+  "fruitingFrom": 4,
+  "fruitingTo": 11,
+  "id": 138,
+  "added": "2026-11-08",
+  "citation": "Führ. Pilzk. (Zerbst): 99 (1871)",
+  "illustrationProvenance": {
+    "tool": "Python Pillow + OpenCV deterministic alpha matte; no image generation",
+    "sourceDimensions": [
+      1024,
+      1024
+    ],
+    "sourceFormat": "JPEG",
+    "sourceSHA256": "0a7080725d20ac7350a749cc938fe56f6e15db88e5a9fdec54a6f6cc7812ebe8",
+    "backgroundSHA256": "d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c",
+    "silhouettePolygons": [
+      [
+        [
+          330,
+          177
+        ],
+        [
+          344,
+          140
+        ],
+        [
+          369,
+          106
+        ],
+        [
+          407,
+          70
+        ],
+        [
+          447,
+          40
+        ],
+        [
+          475,
+          26
+        ],
+        [
+          500,
+          20
+        ],
+        [
+          520,
+          22
+        ],
+        [
+          552,
+          37
+        ],
+        [
+          582,
+          56
+        ],
+        [
+          618,
+          83
+        ],
+        [
+          647,
+          106
+        ],
+        [
+          672,
+          128
+        ],
+        [
+          693,
+          149
+        ],
+        [
+          700,
+          169
+        ],
+        [
+          673,
+          184
+        ],
+        [
+          644,
+          192
+        ],
+        [
+          604,
+          198
+        ],
+        [
+          562,
+          201
+        ],
+        [
+          530,
+          201
+        ],
+        [
+          533,
+          243
+        ],
+        [
+          530,
+          284
+        ],
+        [
+          531,
+          331
+        ],
+        [
+          536,
+          391
+        ],
+        [
+          545,
+          452
+        ],
+        [
+          551,
+          497
+        ],
+        [
+          558,
+          539
+        ],
+        [
+          571,
+          577
+        ],
+        [
+          589,
+          602
+        ],
+        [
+          615,
+          610
+        ],
+        [
+          626,
+          616
+        ],
+        [
+          635,
+          615
+        ],
+        [
+          641,
+          624
+        ],
+        [
+          648,
+          626
+        ],
+        [
+          648,
+          640
+        ],
+        [
+          644,
+          657
+        ],
+        [
+          636,
+          670
+        ],
+        [
+          622,
+          681
+        ],
+        [
+          606,
+          690
+        ],
+        [
+          591,
+          690
+        ],
+        [
+          577,
+          685
+        ],
+        [
+          566,
+          675
+        ],
+        [
+          557,
+          659
+        ],
+        [
+          552,
+          641
+        ],
+        [
+          548,
+          615
+        ],
+        [
+          545,
+          586
+        ],
+        [
+          543,
+          559
+        ],
+        [
+          537,
+          533
+        ],
+        [
+          527,
+          498
+        ],
+        [
+          518,
+          463
+        ],
+        [
+          510,
+          424
+        ],
+        [
+          501,
+          383
+        ],
+        [
+          495,
+          344
+        ],
+        [
+          491,
+          310
+        ],
+        [
+          488,
+          275
+        ],
+        [
+          488,
+          245
+        ],
+        [
+          491,
+          219
+        ],
+        [
+          493,
+          202
+        ],
+        [
+          462,
+          203
+        ],
+        [
+          422,
+          199
+        ],
+        [
+          385,
+          195
+        ],
+        [
+          352,
+          185
+        ]
+      ],
+      [
+        [
+          140,
+          374
+        ],
+        [
+          151,
+          345
+        ],
+        [
+          174,
+          312
+        ],
+        [
+          204,
+          276
+        ],
+        [
+          228,
+          250
+        ],
+        [
+          250,
+          222
+        ],
+        [
+          273,
+          199
+        ],
+        [
+          289,
+          189
+        ],
+        [
+          305,
+          192
+        ],
+        [
+          322,
+          207
+        ],
+        [
+          340,
+          231
+        ],
+        [
+          359,
+          255
+        ],
+        [
+          382,
+          277
+        ],
+        [
+          402,
+          302
+        ],
+        [
+          427,
+          324
+        ],
+        [
+          446,
+          343
+        ],
+        [
+          452,
+          360
+        ],
+        [
+          439,
+          379
+        ],
+        [
+          421,
+          391
+        ],
+        [
+          401,
+          397
+        ],
+        [
+          373,
+          406
+        ],
+        [
+          345,
+          409
+        ],
+        [
+          329,
+          409
+        ],
+        [
+          327,
+          433
+        ],
+        [
+          331,
+          458
+        ],
+        [
+          341,
+          480
+        ],
+        [
+          365,
+          493
+        ],
+        [
+          391,
+          502
+        ],
+        [
+          421,
+          515
+        ],
+        [
+          453,
+          529
+        ],
+        [
+          484,
+          539
+        ],
+        [
+          479,
+          546
+        ],
+        [
+          476,
+          550
+        ],
+        [
+          480,
+          557
+        ],
+        [
+          473,
+          565
+        ],
+        [
+          457,
+          562
+        ],
+        [
+          428,
+          551
+        ],
+        [
+          398,
+          543
+        ],
+        [
+          363,
+          536
+        ],
+        [
+          331,
+          532
+        ],
+        [
+          300,
+          528
+        ],
+        [
+          266,
+          522
+        ],
+        [
+          238,
+          516
+        ],
+        [
+          213,
+          511
+        ],
+        [
+          206,
+          500
+        ],
+        [
+          199,
+          494
+        ],
+        [
+          196,
+          484
+        ],
+        [
+          184,
+          480
+        ],
+        [
+          183,
+          469
+        ],
+        [
+          202,
+          466
+        ],
+        [
+          193,
+          459
+        ],
+        [
+          178,
+          450
+        ],
+        [
+          168,
+          437
+        ],
+        [
+          180,
+          436
+        ],
+        [
+          205,
+          445
+        ],
+        [
+          230,
+          454
+        ],
+        [
+          254,
+          460
+        ],
+        [
+          266,
+          461
+        ],
+        [
+          269,
+          440
+        ],
+        [
+          276,
+          413
+        ],
+        [
+          249,
+          412
+        ],
+        [
+          219,
+          407
+        ],
+        [
+          191,
+          399
+        ],
+        [
+          161,
+          388
+        ]
+      ],
+      [
+        [
+          181,
+          687
+        ],
+        [
+          185,
+          659
+        ],
+        [
+          195,
+          634
+        ],
+        [
+          211,
+          611
+        ],
+        [
+          236,
+          589
+        ],
+        [
+          264,
+          572
+        ],
+        [
+          290,
+          564
+        ],
+        [
+          319,
+          559
+        ],
+        [
+          344,
+          561
+        ],
+        [
+          374,
+          571
+        ],
+        [
+          405,
+          588
+        ],
+        [
+          431,
+          613
+        ],
+        [
+          452,
+          640
+        ],
+        [
+          465,
+          668
+        ],
+        [
+          475,
+          699
+        ],
+        [
+          473,
+          719
+        ],
+        [
+          467,
+          735
+        ],
+        [
+          458,
+          750
+        ],
+        [
+          448,
+          764
+        ],
+        [
+          437,
+          777
+        ],
+        [
+          426,
+          789
+        ],
+        [
+          415,
+          794
+        ],
+        [
+          400,
+          797
+        ],
+        [
+          411,
+          849
+        ],
+        [
+          421,
+          878
+        ],
+        [
+          431,
+          908
+        ],
+        [
+          442,
+          934
+        ],
+        [
+          456,
+          956
+        ],
+        [
+          468,
+          977
+        ],
+        [
+          475,
+          988
+        ],
+        [
+          469,
+          997
+        ],
+        [
+          456,
+          998
+        ],
+        [
+          444,
+          991
+        ],
+        [
+          431,
+          974
+        ],
+        [
+          421,
+          950
+        ],
+        [
+          413,
+          926
+        ],
+        [
+          401,
+          896
+        ],
+        [
+          389,
+          868
+        ],
+        [
+          376,
+          840
+        ],
+        [
+          365,
+          819
+        ],
+        [
+          343,
+          818
+        ],
+        [
+          313,
+          819
+        ],
+        [
+          284,
+          810
+        ],
+        [
+          259,
+          797
+        ],
+        [
+          236,
+          777
+        ],
+        [
+          216,
+          756
+        ],
+        [
+          200,
+          735
+        ],
+        [
+          189,
+          715
+        ]
+      ],
+      [
+        [
+          647,
+          587
+        ],
+        [
+          660,
+          572
+        ],
+        [
+          680,
+          562
+        ],
+        [
+          699,
+          559
+        ],
+        [
+          721,
+          564
+        ],
+        [
+          744,
+          569
+        ],
+        [
+          768,
+          575
+        ],
+        [
+          793,
+          583
+        ],
+        [
+          814,
+          593
+        ],
+        [
+          833,
+          609
+        ],
+        [
+          849,
+          627
+        ],
+        [
+          862,
+          650
+        ],
+        [
+          876,
+          683
+        ],
+        [
+          888,
+          713
+        ],
+        [
+          899,
+          740
+        ],
+        [
+          899,
+          758
+        ],
+        [
+          890,
+          761
+        ],
+        [
+          879,
+          750
+        ],
+        [
+          860,
+          737
+        ],
+        [
+          837,
+          725
+        ],
+        [
+          817,
+          710
+        ],
+        [
+          801,
+          690
+        ],
+        [
+          792,
+          673
+        ],
+        [
+          775,
+          690
+        ],
+        [
+          755,
+          720
+        ],
+        [
+          734,
+          753
+        ],
+        [
+          713,
+          787
+        ],
+        [
+          694,
+          820
+        ],
+        [
+          682,
+          850
+        ],
+        [
+          678,
+          874
+        ],
+        [
+          671,
+          888
+        ],
+        [
+          662,
+          876
+        ],
+        [
+          651,
+          861
+        ],
+        [
+          648,
+          844
+        ],
+        [
+          653,
+          820
+        ],
+        [
+          665,
+          794
+        ],
+        [
+          682,
+          769
+        ],
+        [
+          703,
+          741
+        ],
+        [
+          720,
+          717
+        ],
+        [
+          738,
+          689
+        ],
+        [
+          748,
+          669
+        ],
+        [
+          748,
+          651
+        ],
+        [
+          735,
+          638
+        ],
+        [
+          715,
+          627
+        ],
+        [
+          693,
+          614
+        ],
+        [
+          671,
+          600
+        ]
+      ]
+    ],
+    "otherPreservedObjects": "four round details, radial detail, existing J. C. Schäffer mark",
+    "signatureTreatment": "Existing matching source mark retained; nothing added. Authenticity/authorship not independently established.",
+    "cropBBox": [
+      142,
+      22,
+      1010,
+      1018
+    ],
+    "uniformScale": 1.6129032258064515,
+    "placement": [
+      100,
+      397
+    ],
+    "composedArtworkDimensions": [
+      1400,
+      1606
+    ],
+    "interiorRGBChangedPixels": 0,
+    "transparentPixels": 811316,
+    "opaquePixels": 231254,
+    "partialAlphaPixels": 6006,
+    "paleInteriorsProtected": true,
+    "fullSourcePreserved": true,
+    "generation": false,
+    "repainting": false,
+    "stretching": false,
+    "rights": "Owner-supplied; creator/generator/license/redistribution rights unverified; mark is not proof of historical authorship",
+    "anatomyCaveat": "Illustrated round and radial details are not certified spores/cystidia. Species identity of supplied art is unverified; diagnostic hooked cystidia cannot be inferred from this drawing."
+  },
+  "displayLabels": {
+    "en": "deer shield",
+    "sk": "štítovka jelenia",
+    "ar": "Pluteus cervinus",
+    "bg": "еленова гъба",
+    "cs": "štítovka jelení",
+    "da": "sodfarvet skærmhat",
+    "de": "Rehbrauner Dachpilz",
+    "es": "plúteo cervino",
+    "et": "põdranapsik",
+    "fa": "Pluteus cervinus",
+    "fi": "koivulahorusokas",
+    "fr": "plutée couleur de cerf",
+    "he": "Pluteus cervinus",
+    "hi": "Pluteus cervinus",
+    "hr": "Pluteus cervinus",
+    "hu": "barna csengettyűgomba",
+    "id": "Pluteus cervinus",
+    "it": "pluteo cervino",
+    "ja": "ウラベニガサ",
+    "ko": "난버섯",
+    "lt": "elninė skydabudė",
+    "lv": "briežu jumtene",
+    "nl": "Gewone hertenzwam",
+    "no": "skjermsopp",
+    "pl": "drobnołuszczak jeleni",
+    "pt": "plúteo-cervino",
+    "ro": "ciuperca cerbilor",
+    "ru": "плютей олений",
+    "sl": "jelenova ščitovka",
+    "sr": "јеленска кровњача",
+    "sv": "hjortskölding",
+    "tr": "Pluteus cervinus",
+    "uk": "плютей оленячий",
+    "zh": "Pluteus cervinus"
+  }
 }
 ];
