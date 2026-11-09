@@ -140760,5 +140760,964 @@ export const CATALOG = [
       }
     ]
   }
+},
+{
+  "name": "Coprinellus domesticus",
+  "author": "(Bolton) Vilgalys, Hopple & Jacq. Johnson",
+  "family": "Psathyrellaceae",
+  "genus": "Coprinellus",
+  "order": "Agaricales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Agaricales",
+    "Psathyrellaceae",
+    "Coprinellus"
+  ],
+  "summary": [
+    "Agaricales",
+    "Psathyrellaceae",
+    "Coprinellus"
+  ],
+  "edibility": "inedible",
+  "hymenium": "gills",
+  "where": [
+    "wood"
+  ],
+  "color": [
+    "yellow",
+    "brown",
+    "white",
+    "dark"
+  ],
+  "capFrom": 3,
+  "capTo": 7,
+  "stipeHeightFrom": 4,
+  "stipeHeightTo": 10,
+  "stipeThickFrom": 0.4,
+  "stipeThickTo": 1,
+  "label": {
+    "ar": "Coprinellus domesticus",
+    "bg": "Coprinellus domesticus",
+    "cs": "hnojník domácí",
+    "da": "hus-blækhat",
+    "de": "Haus-Tintling",
+    "en": "firerug inkcap",
+    "es": "Coprinellus domesticus",
+    "et": "Coprinellus domesticus",
+    "fa": "Coprinellus domesticus",
+    "fi": "Coprinellus domesticus",
+    "fr": "coprin domestique",
+    "he": "Coprinellus domesticus",
+    "hi": "Coprinellus domesticus",
+    "hr": "Coprinellus domesticus",
+    "hu": "házi tintagomba",
+    "id": "Coprinellus domesticus",
+    "it": "Coprinellus domesticus",
+    "ja": "コキララタケ",
+    "ko": "Coprinellus domesticus",
+    "lt": "Coprinellus domesticus",
+    "lv": "Coprinellus domesticus",
+    "nl": "Grote viltinktzwam",
+    "no": "vedblekksopp",
+    "pl": "czernidłaczek podwórzowy",
+    "pt": "Coprinellus domesticus",
+    "ro": "Coprinellus domesticus",
+    "ru": "Coprinellus domesticus",
+    "sk": "hnojník okrový",
+    "sl": "domači tintovec",
+    "sr": "Coprinellus domesticus",
+    "sv": "vedbläcksvamp",
+    "tr": "Coprinellus domesticus",
+    "uk": "Coprinellus domesticus",
+    "zh": "Coprinellus domesticus"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [],
+    "en": [],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [
+      "czernidłak podwórzowy",
+      "czernidłak domowy"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [
+      "hnojník domáci"
+    ],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "https://www.myko.cz/myko-atlas/Coprinellus-domesticus/",
+      "https://cs.wikipedia.org/wiki/Hnojn%C3%ADk_dom%C3%A1c%C3%AD"
+    ],
+    "da": [
+      "https://www.naturbasen.dk/art/3625/hus-blaekhat"
+    ],
+    "de": [
+      "https://www.pilze-deutschland.de/organismen/coprinellus-domesticus-bolton-vilgalys-hopple-jacq-johnson-2001-1",
+      "https://de.wikipedia.org/wiki/Haus-Tintling"
+    ],
+    "en": [
+      "https://www.first-nature.com/fungi/coprinellus-domesticus.php",
+      "https://www.mushroomexpert.com/coprinellus_domesticus.html",
+      "https://www.mycoquebec.org/bas.php?gro=33&l=r&nom=Coprinellus+domesticus+%2F+Coprin+domestique&post=coprin&tag=Coprinellus+domesticus",
+      "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=474357",
+      "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=474357",
+      "https://www.gbif.org/species/2534604",
+      "https://de.wikipedia.org/wiki/Haus-Tintling",
+      "https://www.verspreidingsatlas.nl/0026180",
+      "https://artsdatabanken.no/arter/takson/37698",
+      "https://lister.artsdatabanken.no/rodlisteforarter/2021/14589"
+    ],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [
+      "https://www.mycoquebec.org/bas.php?gro=33&l=r&nom=Coprinellus+domesticus+%2F+Coprin+domestique&post=coprin&tag=Coprinellus+domesticus"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "https://hu.wikipedia.org/wiki/H%C3%A1zi_tintagomba"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [
+      "https://mycoscouter.coolblog.jp/daikinrin/Pages/Coprinellus_domesticus_474357.html",
+      "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%AD%E3%83%A9%E3%83%A9%E3%82%BF%E3%82%B1"
+    ],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [
+      "https://www.verspreidingsatlas.nl/0026180"
+    ],
+    "no": [
+      "https://artsdatabanken.no/arter/takson/37698",
+      "https://lister.artsdatabanken.no/rodlisteforarter/2021/14589"
+    ],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/Czernid%C5%82aczek_podw%C3%B3rzowy"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [
+      "https://www.nahuby.sk/atlas-hub/Coprinellus-domesticus/hnojnik-okrovy/hnojnik-domaci/ID1171"
+    ],
+    "sl": [
+      "https://www.gobe.si/Gobe/CoprinellusDomesticus"
+    ],
+    "sr": [],
+    "sv": [
+      "https://sv.wikipedia.org/wiki/Vedbl%C3%A4cksvamp"
+    ],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "text": {
+    "ar": {
+      "description": "فطر حبري صغير من أوروبا وأمريكا الشمالية ينمو منفردًا أو في مجموعات صغيرة على خشب الأشجار عريضة الأوراق المتحلل. تنبثق سيقانه غالبًا من بساط فطري صوفي برتقالي إلى بني صدئي، هو الأوزونيوم، ينتشر فوق الخشب. وهو رمّي التغذية، ويثمر أحيانًا داخل المباني على الخشب الرطب أو الأرضيات أو السجاد.",
+      "cap": "بيضوية وارتفاعها ١٫٥–٤ cm في الصغر، ثم جرسية إلى محدبة وعرضها ٣–٧ cm. لونها أصفر عسلي إلى مغري، ووسطها أدكن ويميل إلى البياض نحو الحافة؛ وتصبح رمادية مع التقدم في العمر ويبقى وسطها بنيًا. مخددة تخديدًا دقيقًا حتى الوسط تقريبًا، ومغطاة ببقايا غطاء حرشفية أو حبيبية مائلة إلى البياض حتى البني الباهت، قد تزول بالاحتكاك.",
+      "hymenium": "الصفائح ملتصقة إلى حرة، متزاحمة، عرضها ٣–٨ mm، كريمية بيضاء أولًا ثم رمادية وأخيرًا سوداء، وتتميع ذاتيًا. البازيديات رباعية الأبواغ، ١٨–٣٤ × ٨–٩ µm، وتحيط بكل منها ٣–٦ بازيديولات قصيرة. تبلغ أبعاد الأكياس الجانبية ٥٠–١٢٠ × ٣٠–٦٥ µm والأكياس الحافية ٣٠–١٠٠ × ٣٠–٦٠ µm.",
+      "stipe": "طولها ٤–١٠ cm وسمكها ٠٫٤–١ cm، أسطوانية بقاعدة منتفخة قليلًا قد تحمل حافة شبيهة بالفولفا. بيضاء حريرية مجوفة، صفراء مائلة إلى البني أحيانًا عند القاعدة، بلا حلقة. تنبثق عادة من أوزونيوم صوفي برتقالي إلى بني صدئي.",
+      "flesh": "رقيق جدًا وهش، أبيض؛ يتميع جزئيًا إلى سائل أسود مع التقدم في العمر. الرائحة والطعم غير مميزين.",
+      "sporePrint": "بني داكن جدًا إلى أسود. الأبواغ ٦–٩ × ٣٫٥–٥ µm، إهليلجية وتبدو جانبيًا بشكل حبة الفاصوليا، ملساء، ولها ثقب إنبات لا مركزي يصل عرضه إلى ١٫٢ µm.",
+      "habitat": "رمّي على الخشب الميت للأشجار عريضة الأوراق — الجذوع المقطوعة والجذوع الساقطة والفروع المتساقطة وقواعد الجذوع، مثل Fraxinus وQuercus وPopulus وAcer وAlnus — وكذلك على رقائق الخشب والخشب المدفون في الحدائق والمتنزهات. في المباني يظهر على الخشب الرطب في الأقبية وهياكل الأسقف وعلى الأرضيات وسجاد الحمامات. يثمر من أواخر مارس إلى نوفمبر، وفي أوروبا الوسطى خصوصًا من أبريل إلى يونيو؛ وفي بريطانيا من يونيو إلى نوفمبر.",
+      "uses": "غير صالح للأكل؛ لا قيمة له في الطهي.",
+      "confusion": "يكوّن Coprinellus radians أيضًا أوزونيوم، لكن أبواغه أكبر، ٨٫٥–١١٫٥ × ٥٫٥–٧ µm. ولدى Coprinellus ellisii غطاء أكثر بياضًا وكثافة، وتثخن حلقي أو شبيه بالفولفا عند قاعدة الساق، وأبواغ أضيق لا يتجاوز عرضها نحو ٣٫٧ µm. وينمو Coprinellus micaceus عادة في عناقيد أكبر، وقبعته أدكن ومغطاة بحبيبات لامعة تشبه الميكا، ولا يكوّن أوزونيوم، وأبواغه أكبر، ٧–١٠ × ٤٫٥–٦ µm. أما Coprinellus truncorum فقبعته أصغر، ١–٢٫٥ cm، وغطاؤه بلون جلد الغزال إلى بني مصفر، وأبواغه بيضوية، ٨–٩٫٥ × ٥–٦٫٥ µm. في غياب الأوزونيوم يلزم الفحص المجهري للتعرف الموثوق.",
+      "notes": "حدود النوع موضع خلاف: يدرج بعض المؤلفين Coprinellus ellisii، بل Coprinellus radians أيضًا، ضمن هذا النوع. لا يكون الأوزونيوم موجودًا دائمًا، لكنه يدوم أطول من الأجسام الثمرية قصيرة العمر. صنّفه تقييم أُجري في النرويج عام ٢٠٢١ ضمن فئة غير مهدد (Least Concern).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Малка мастилена гъба от Европа и Северна Америка, която расте поединично или на малки групи върху гниеща дървесина на широколистни дървета. Пънчетата ѝ често израстват от вълнеста оранжева до ръждивокафява мицелна постилка, озониум, която се разпростира по дървесината. Тя е сапротроф и понякога образува плодни тела на закрито върху влажна дървесина, подове или килими.",
+      "cap": "В млада възраст яйцевидна и висока 1,5–4 cm, после камбановидна до изпъкнала и широка 3–7 cm. Медено жълта до охрена, с по-тъмен център и белезникава към ръба; с възрастта посивява, а центърът остава кафеникав. Фино набраздена почти до центъра и покрита с белезникави до бледокафяви люспести или зърнести остатъци от було, които могат да се изтрият.",
+      "hymenium": "Ламелите са прираснали до свободни, гъсти, широки 3–8 mm, отначало кремавобели, после сиви и накрая черни, разтичащи се. Базидиите са четириспорови, 18–34 × 8–9 µm, всяка обградена от 3–6 брахибазидиоли. Плевроцистидите са 50–120 × 30–65 µm, а хейлоцистидите 30–100 × 30–60 µm.",
+      "stipe": "Дълго 4–10 cm и дебело 0,4–1 cm, цилиндрично, с леко удебелена основа, която може да носи волвовиден ръб. Бяло, копринено и кухо, в основата понякога жълтеникавокафеникаво, без пръстен. Обикновено израства от оранжев до ръждивокафяв вълнест озониум.",
+      "flesh": "Много тънко и крехко, бяло; с възрастта отчасти се разтича в черно. Мирисът и вкусът не са характерни.",
+      "sporePrint": "Много тъмнокафяв до черен. Спорите са 6–9 × 3,5–5 µm, елипсоидни и отстрани бобовидни, гладки, с ексцентрична пора за покълване, широка до 1,2 µm.",
+      "habitat": "Сапротроф върху мъртва дървесина на широколистни дървета – пънове, стволове, паднали клони и основи на стволове, например на ясен, дъб, топола, клен и елша – както и върху дървесни стърготини и заровена дървесина в градини и паркове. В сгради се появява върху влажна дървесина в мазета и покривни конструкции, върху подове и килимчета за баня. Плододава от края на март до ноември, в Централна Европа главно от април до юни; във Великобритания от юни до ноември.",
+      "uses": "Негодна за консумация; няма кулинарна стойност.",
+      "confusion": "Coprinellus radians също образува озониум, но има по-едри спори, 8,5–11,5 × 5,5–7 µm. Coprinellus ellisii има по-бяло и по-плътно було, пръстеновидно или волвовидно удебеление в основата на пънчето и по-тесни спори, широки най-много около 3,7 µm. Coprinellus micaceus обикновено расте на по-големи туфи, има по-тъмна шапка с блестящи, слюдоподобни зрънца, няма озониум и има по-едри спори, 7–10 × 4,5–6 µm. Coprinellus truncorum има по-малка шапка, 1–2,5 cm, жълтеникавокафеникаво до жълтокафяво було и яйцевидни спори 8–9,5 × 5–6,5 µm. Без озониум за сигурно определяне е нужен микроскоп.",
+      "notes": "Границите на вида са спорни: някои автори включват в него Coprinellus ellisii или дори Coprinellus radians. Озониумът не винаги е налице, но се запазва по-дълго от краткотрайните плодни тела. Оценка от 2021 г. в Норвегия я определя като незастрашена (Least Concern).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "cs": {
+      "description": "Malý hnojník Evropy a Severní Ameriky, který roste jednotlivě nebo v malých skupinách na rozkládajícím se dřevě listnáčů. Jeho třeně často vyrůstají z vlnatého oranžového až rezavě hnědého myceliového povlaku, ozonia, které se rozrůstá po dřevě. Je saprotrofní a někdy plodí i v interiéru na vlhkém dřevě, podlahách nebo kobercích.",
+      "cap": "V mládí vejčitý a vysoký 1,5–4 cm, poté zvonovitý až vyklenutý a široký 3–7 cm. Medově žlutý až okrový s tmavším středem a k okraji bělavý, stářím šedne a střed zůstává nahnědlý. Jemně rýhovaný téměř ke středu a pokrytý bělavými až světle hnědými šupinkovitými nebo zrnitými zbytky plachetky, které se mohou setřít.",
+      "hymenium": "Lupeny jsou připojené až volné, husté, široké 3–8 mm, nejprve krémově bílé, pak šedé a nakonec černé, roztékají se. Basidie jsou čtyřvýtrusé, 18–34 × 8–9 µm, každá obklopená 3–6 brachybasidiolami. Pleurocystidy měří 50–120 × 30–65 µm a cheilocystidy 30–100 × 30–60 µm.",
+      "stipe": "Dlouhý 4–10 cm a tlustý 0,4–1 cm, válcovitý s mírně ztlustlou bází, která může nést pochvovitý lem. Bílý, hedvábný a dutý, na bázi někdy žlutohnědavý, bez prstenu. Obvykle vyrůstá z oranžového až rezavě hnědého vlnatého ozonia.",
+      "flesh": "Velmi tenká a křehká, bílá; stářím se částečně roztéká do černa. Vůně a chuť nejsou výrazné.",
+      "sporePrint": "Velmi tmavě hnědý až černý. Výtrusy měří 6–9 × 3,5–5 µm, jsou elipsoidní, z boku fazolovité, hladké, s excentrickým klíčním pórem širokým do 1,2 µm.",
+      "habitat": "Saprotrofně na odumřelém dřevě listnáčů – na pařezech, kmenech, spadlých větvích a u báze kmenů, například jasanu, dubu, topolu, javoru a olše – a na dřevní štěpce a zahrabaném dřevě v zahradách a parcích. V budovách se objevuje na vlhkém dřevě ve sklepích a krovech, na podlahách a na koupelnových kobercích. Plodí od konce března do listopadu, ve střední Evropě hlavně v dubnu až červnu; v Británii od června do listopadu.",
+      "uses": "Nejedlý; nemá kulinářskou hodnotu.",
+      "confusion": "Coprinellus radians také tvoří ozonium, má však větší výtrusy, 8,5–11,5 × 5,5–7 µm. Coprinellus ellisii má bělejší a hustší plachetku, prstenovité nebo pochvovité ztluštění na bázi třeně a užší výtrusy, široké nejvýše asi 3,7 µm. Coprinellus micaceus obvykle roste ve větších trsech, má tmavší klobouk s lesklými, slídovitými zrníčky, chybí mu ozonium a má větší výtrusy, 7–10 × 4,5–6 µm. Coprinellus truncorum má menší klobouk, 1–2,5 cm, nažloutle hnědavou až žlutohnědou plachetku a vejčité výtrusy 8–9,5 × 5–6,5 µm. Bez ozonia je ke spolehlivému určení nutný mikroskop.",
+      "notes": "Hranice druhu jsou sporné: někteří autoři do něj zahrnují Coprinellus ellisii, nebo dokonce Coprinellus radians. Ozonium není vždy přítomno, ale přetrvává déle než krátce žijící plodnice. Hodnocení z roku 2021 v Norsku jej řadí mezi málo dotčené (Least Concern).",
+      "names": [],
+      "sourceUrls": [
+        "https://www.myko.cz/myko-atlas/Coprinellus-domesticus/",
+        "https://cs.wikipedia.org/wiki/Hnojn%C3%ADk_dom%C3%A1c%C3%AD"
+      ],
+      "label": "hnojník domácí"
+    },
+    "da": {
+      "description": "En lille blækhat fra Europa og Nordamerika, der vokser enkeltvis eller i små grupper på formuldende løvtræ. Stokkene udgår ofte fra en uldagtig, orange til rustbrun myceliemåtte, ozoniet, som breder sig over veddet. Den er saprotrof og danner undertiden frugtlegemer indendørs på fugtigt træ, gulve eller tæpper.",
+      "cap": "Som ung ægformet og 1,5–4 cm høj, derefter klokkeformet til hvælvet og 3–7 cm bred. Honninggul til okker med mørkere midte og hvidlig mod randen, med alderen grå med brunlig midte. Fint furet næsten til midten og dækket af hvidlige til lysebrune, skælagtige eller kornede velumrester, som kan gnides af.",
+      "hymenium": "Lameller tilhæftede til frie, tætte, 3–8 mm brede, først cremehvide, så grå og til sidst sorte, opløsende sig. Basidierne er firesporede, 18–34 × 8–9 µm, hver omgivet af 3–6 brachybasidioler. Pleurocystiderne måler 50–120 × 30–65 µm og cheilocystiderne 30–100 × 30–60 µm.",
+      "stipe": "4–10 cm lang og 0,4–1 cm tyk, cylindrisk med let opsvulmet basis, der kan bære en volvaagtig kant. Hvid, silkeagtig og hul, ved basis undertiden gulligbrun, uden ring. Udgår som regel fra et orange til rustbrunt, uldent ozonium.",
+      "flesh": "Meget tynd og skør, hvid; med alderen opløses det delvis til sort. Lugt og smag er ikke karakteristiske.",
+      "sporePrint": "Meget mørkebrunt til sort. Sporerne måler 6–9 × 3,5–5 µm, er ellipsoide og set fra siden bønneformede, glatte, med en excentrisk kimpore op til 1,2 µm bred.",
+      "habitat": "Saprotrof på dødt løvtræ – stubbe, stammer, nedfaldne grene og stammebaser, fx af ask, eg, poppel, ahorn og el – samt på flis og nedgravet træ i haver og parker. I bygninger optræder den på fugtigt træ i kældre og tagkonstruktioner, på gulve og på badeværelsestæpper. Frugtlegemer fra slutningen af marts til november, i Centraleuropa især april–juni; i Storbritannien juni–november.",
+      "uses": "Uspiselig; uden kulinarisk værdi.",
+      "confusion": "Coprinellus radians danner også et ozonium, men har større sporer, 8,5–11,5 × 5,5–7 µm. Coprinellus ellisii har et hvidere, tættere velum, en ring- til volvaagtig fortykkelse ved stokkens basis og smallere sporer, højst ca. 3,7 µm brede. Coprinellus micaceus vokser som regel i større knipper, har en mørkere hat med glitrende, glimmeragtige korn, mangler ozonium og har større sporer, 7–10 × 4,5–6 µm. Coprinellus truncorum har en mindre hat, 1–2,5 cm, et læderfarvet til gulbrunt velum og ægformede sporer på 8–9,5 × 5–6,5 µm. Uden ozonium kræves mikroskopi for en sikker bestemmelse.",
+      "notes": "Artsafgrænsningen er omstridt: nogle forfattere inddrager Coprinellus ellisii eller endda Coprinellus radians i denne art. Ozoniet er ikke altid til stede, men holder længere end de kortlivede frugtlegemer. En vurdering fra 2021 i Norge placerer den som livskraftig (Least Concern).",
+      "names": [],
+      "sourceUrls": [
+        "https://www.naturbasen.dk/art/3625/hus-blaekhat"
+      ],
+      "label": "hus-blækhat"
+    },
+    "de": {
+      "description": "Ein kleiner Tintling Europas und Nordamerikas, der einzeln oder in kleinen Gruppen auf vermodertem Laubholz wächst. Seine Stiele entspringen oft einem wolligen, orangen bis rostbraunen Myzelfilz, dem Ozonium, der sich über das Holz ausbreitet. Er lebt saprotroph und fruktifiziert manchmal auch in Gebäuden auf feuchtem Holz, Fußböden oder Teppichen.",
+      "cap": "Jung eiförmig und 1,5–4 cm hoch, dann glockig bis konvex und 3–7 cm breit. Honiggelb bis ocker mit dunklerer Mitte und zum Rand hin weißlich, im Alter grau werdend mit bräunlicher Mitte. Fein gerieft bis fast zur Mitte und mit weißlichen bis blassbraunen, schuppigen oder körnigen Velumresten bedeckt, die sich abreiben können.",
+      "hymenium": "Lamellen angeheftet bis frei, gedrängt, 3–8 mm breit, zuerst cremeweiß, dann grau und zuletzt schwarz, zerfließend. Die Basidien sind viersporig, 18–34 × 8–9 µm, jede von 3–6 Brachybasidiolen umgeben. Pleurozystiden messen 50–120 × 30–65 µm und Cheilozystiden 30–100 × 30–60 µm.",
+      "stipe": "4–10 cm lang und 0,4–1 cm dick, zylindrisch mit leicht verdickter Basis, die einen volvaartigen Saum tragen kann. Weiß, seidig und hohl, an der Basis manchmal gelblich braun, ohne Ring. Er entspringt meist einem orangen bis rostbraunen, wolligen Ozonium.",
+      "flesh": "Sehr dünn und zerbrechlich, weiß; im Alter zerfließt es teilweise schwarz. Geruch und Geschmack sind unauffällig.",
+      "sporePrint": "Sehr dunkelbraun bis schwarz. Die Sporen messen 6–9 × 3,5–5 µm, sind ellipsoid und in Seitenansicht bohnenförmig, glatt, mit exzentrischem Keimporus von bis zu 1,2 µm Breite.",
+      "habitat": "Saprotroph auf totem Laubholz – Stümpfen, Stämmen, abgefallenen Ästen und Stammbasen, etwa von Esche, Eiche, Pappel, Ahorn und Erle – sowie auf Holzhäcksel und vergrabenem Holz in Gärten und Parks. In Gebäuden erscheint er auf feuchtem Holz in Kellern und Dachstühlen, auf Fußböden und auf Badezimmerteppichen. Fruchtet von Ende März bis November, in Mitteleuropa vor allem von April bis Juni; in Großbritannien von Juni bis November.",
+      "uses": "Ungenießbar; ohne kulinarischen Wert.",
+      "confusion": "Coprinellus radians bildet ebenfalls ein Ozonium, hat aber größere Sporen, 8,5–11,5 × 5,5–7 µm. Coprinellus ellisii hat ein weißeres, dichteres Velum, eine ring- bis volvaartige Verdickung an der Stielbasis und schmalere Sporen, die höchstens etwa 3,7 µm breit sind. Coprinellus micaceus wächst meist in größeren Büscheln, hat einen dunkleren Hut mit glitzernden, glimmerartigen Körnchen, kein Ozonium und größere Sporen, 7–10 × 4,5–6 µm. Coprinellus truncorum hat einen kleineren Hut, 1–2,5 cm, ein lederfarbenes bis gelbbraunes Velum und eiförmige Sporen von 8–9,5 × 5–6,5 µm. Ohne Ozonium ist für eine sichere Bestimmung eine mikroskopische Untersuchung nötig.",
+      "notes": "Die Artabgrenzung ist umstritten: Manche Autoren schließen Coprinellus ellisii oder sogar Coprinellus radians in diese Art ein. Das Ozonium ist nicht immer vorhanden, bleibt aber länger bestehen als die kurzlebigen Fruchtkörper. Eine Bewertung von 2021 in Norwegen stuft ihn als ungefährdet (Least Concern) ein.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.pilze-deutschland.de/organismen/coprinellus-domesticus-bolton-vilgalys-hopple-jacq-johnson-2001-1",
+        "https://de.wikipedia.org/wiki/Haus-Tintling"
+      ],
+      "label": "Haus-Tintling"
+    },
+    "en": {
+      "description": "A small inkcap of Europe and North America that grows singly or in small groups on decaying broadleaf wood. Its stems often arise from a woolly orange to rust-brown mycelial mat, the ozonium, spreading over the wood. It is saprotrophic and sometimes fruits indoors on damp timber, flooring or carpets.",
+      "cap": "Ovoid and 1.5–4 cm high when young, then bell-shaped to convex and 3–7 cm across. Honey-yellow to ochre with a darker centre and whitish towards the margin, turning grey with a brownish centre in age. Finely grooved almost to the centre and covered with whitish to pale brown, scale-like or granular veil remnants that can wear off.",
+      "hymenium": "Gills adnexed to free, crowded, 3–8 mm broad, creamy white at first, then grey and finally black, deliquescing. Basidia are four-spored, 18–34 × 8–9 µm, each surrounded by 3–6 brachybasidioles. Pleurocystidia measure 50–120 × 30–65 µm and cheilocystidia 30–100 × 30–60 µm.",
+      "stipe": "4–10 cm long and 0.4–1 cm thick, cylindrical with a slightly swollen base that may bear a volva-like rim. White, silky and hollow, sometimes yellowish brown at the base, with no ring. It usually arises from an orange to rust-brown, woolly ozonium.",
+      "flesh": "Very thin and fragile, white; it partly liquefies to black in age. Smell and taste are not distinctive.",
+      "sporePrint": "Very dark brown to black. Spores are 6–9 × 3.5–5 µm, ellipsoid and bean-shaped in side view, smooth, with an eccentric germ pore up to 1.2 µm wide.",
+      "habitat": "Saprotrophic on dead broadleaf wood—stumps, logs, fallen branches and trunk bases, for example of ash, oak, poplar, maple and alder—and on wood chips and buried wood in gardens and parks. In buildings it appears on damp timber in cellars and roofs, on flooring and on bathroom carpets. Fruits from late March to November, mainly in April–June in Central Europe; in Britain June–November.",
+      "uses": "Inedible; it has no culinary value.",
+      "confusion": "Coprinellus radians also forms an ozonium but has larger spores, 8.5–11.5 × 5.5–7 µm. Coprinellus ellisii has a whiter, denser veil, a ring- or volva-like thickening at the stem base and narrower spores, at most about 3.7 µm wide. Coprinellus micaceus usually grows in larger clusters, has a darker cap with glistening, mica-like granules, lacks an ozonium and has larger spores, 7–10 × 4.5–6 µm. Coprinellus truncorum has a smaller cap, 1–2.5 cm, a buff to yellowish-brown veil and ovoid spores of 8–9.5 × 5–6.5 µm. Without an ozonium, microscopy is needed for a reliable identification.",
+      "notes": "Its species limits are debated: some authors include Coprinellus ellisii, or even Coprinellus radians, in this species. The ozonium is not always present but persists longer than the short-lived fruit bodies. A 2021 assessment in Norway rates it Least Concern.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/coprinellus-domesticus.php",
+        "https://www.mushroomexpert.com/coprinellus_domesticus.html",
+        "https://www.mycoquebec.org/bas.php?gro=33&l=r&nom=Coprinellus+domesticus+%2F+Coprin+domestique&post=coprin&tag=Coprinellus+domesticus",
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=474357",
+        "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=474357",
+        "https://www.gbif.org/species/2534604",
+        "https://de.wikipedia.org/wiki/Haus-Tintling",
+        "https://www.verspreidingsatlas.nl/0026180",
+        "https://artsdatabanken.no/arter/takson/37698",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/14589"
+      ],
+      "label": "firerug inkcap"
+    },
+    "es": {
+      "description": "Un pequeño coprino de Europa y Norteamérica que crece solitario o en pequeños grupos sobre madera de frondosas en descomposición. Sus pies nacen a menudo de un tapiz micelial lanoso, de color naranja a pardo herrumbroso, el ozonio, que se extiende sobre la madera. Es saprótrofo y a veces fructifica en interiores sobre madera húmeda, suelos de madera o alfombras.",
+      "cap": "Ovoide y de 1,5–4 cm de alto cuando es joven, después campanulado a convexo y de 3–7 cm de ancho. Amarillo miel a ocre con el centro más oscuro y blanquecino hacia el margen; con la edad se vuelve gris con el centro pardusco. Finamente estriado casi hasta el centro y cubierto de restos de velo blanquecinos a pardo pálido, escamosos o granulosos, que pueden desprenderse.",
+      "hymenium": "Láminas adnatas a libres, apretadas, de 3–8 mm de ancho, primero blanco crema, luego grises y finalmente negras, delicuescentes. Los basidios son tetraspóricos, de 18–34 × 8–9 µm, cada uno rodeado de 3–6 braquibasidiolos. Los pleurocistidios miden 50–120 × 30–65 µm y los queilocistidios 30–100 × 30–60 µm.",
+      "stipe": "De 4–10 cm de largo y 0,4–1 cm de grosor, cilíndrico, con la base ligeramente engrosada, que puede llevar un reborde volviforme. Blanco, sedoso y hueco, a veces pardo amarillento en la base, sin anillo. Suele nacer de un ozonio lanoso naranja a pardo herrumbroso.",
+      "flesh": "Muy delgada y frágil, blanca; con la edad se licúa parcialmente en negro. Olor y sabor no destacables.",
+      "sporePrint": "Pardo muy oscuro a negro. Las esporas miden 6–9 × 3,5–5 µm, son elipsoides y faseoliformes de perfil, lisas, con un poro germinativo excéntrico de hasta 1,2 µm de ancho.",
+      "habitat": "Saprótrofo sobre madera muerta de frondosas —tocones, troncos, ramas caídas y bases de troncos, por ejemplo de fresno, roble, álamo, arce y aliso— y sobre astillas de madera y madera enterrada en jardines y parques. En edificios aparece sobre madera húmeda de sótanos y tejados, en suelos de madera y en alfombras de baño. Fructifica desde finales de marzo hasta noviembre, sobre todo de abril a junio en Europa central; en Gran Bretaña de junio a noviembre.",
+      "uses": "No comestible; carece de valor culinario.",
+      "confusion": "Coprinellus radians también forma ozonio, pero tiene esporas mayores, de 8,5–11,5 × 5,5–7 µm. Coprinellus ellisii tiene un velo más blanco y denso, un engrosamiento anuliforme o volviforme en la base del pie y esporas más estrechas, de como máximo unos 3,7 µm de ancho. Coprinellus micaceus suele crecer en grupos mayores, tiene el sombrero más oscuro con gránulos brillantes como mica, carece de ozonio y tiene esporas mayores, de 7–10 × 4,5–6 µm. Coprinellus truncorum tiene un sombrero más pequeño, de 1–2,5 cm, un velo beige a pardo amarillento y esporas ovoides de 8–9,5 × 5–6,5 µm. Sin ozonio, se necesita el microscopio para una identificación fiable.",
+      "notes": "Los límites de la especie son discutidos: algunos autores incluyen en ella Coprinellus ellisii o incluso Coprinellus radians. El ozonio no siempre está presente, pero persiste más tiempo que los efímeros cuerpos fructíferos. Una evaluación de 2021 en Noruega lo clasifica como preocupación menor (Least Concern).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Väike tindik Euroopast ja Põhja-Ameerikast, mis kasvab üksikult või väikeste rühmadena kõdunenud lehtpuidul. Jalad tõusevad sageli villasest oranžist kuni roostepruunist seeneniidistiku matist, osooniumist, mis levib üle puidu. Liik on saprotroof ja moodustab mõnikord viljakehi ka siseruumides niiskel puidul, põrandatel või vaipadel.",
+      "cap": "Noorena munajas ja 1,5–4 cm kõrge, hiljem kellukjas kuni kumer ja 3–7 cm lai. Meekollane kuni ookerjas, keskelt tumedam ja serva poole valkjas, vanemana hall pruunika keskosaga. Peenelt vaoline peaaegu keskosani ja kaetud valkjate kuni helepruunide, soomusjate või teraliste katte jäänustega, mis võivad maha hõõruda.",
+      "hymenium": "Eoslehed on kinnitunud kuni vabad, tihedad, 3–8 mm laiad, algul kreemvalged, siis hallid ja lõpuks mustad, sulavad. Basiidid on neljaeoselised, 18–34 × 8–9 µm, igaüht ümbritseb 3–6 brahübasidiooli. Pleurotsüstiidid on 50–120 × 30–65 µm ja heilotsüstiidid 30–100 × 30–60 µm.",
+      "stipe": "4–10 cm pikk ja 0,4–1 cm jäme, silindriline, kergelt paksenenud alusega, millel võib olla tupesarnane äär. Valge, siidjas ja õõnes, alusel mõnikord kollakaspruunikas, rõngata. Tõuseb tavaliselt oranžist kuni roostepruunist villasest osooniumist.",
+      "flesh": "Väga õhuke ja habras, valge; vanemana sulab osaliselt mustaks. Lõhn ja maitse ei ole iseloomulikud.",
+      "sporePrint": "Väga tumepruun kuni must. Eosed on 6–9 × 3,5–5 µm, ellipsoidsed ja küljelt vaadates oakujulised, siledad, ekstsentrilise kuni 1,2 µm laiuse idupooriga.",
+      "habitat": "Saprotroof surnud lehtpuidul – kändudel, tüvedel, maha langenud okstel ja tüvede alusel, näiteks saarel, tammel, paplil, vahtral ja lepal – ning hakkepuidul ja maetud puidul aedades ja parkides. Hoonetes esineb niiskel puidul keldrites ja katusekonstruktsioonides, põrandatel ja vannitoavaipadel. Viljakehi märtsi lõpust novembrini, Kesk-Euroopas peamiselt aprillist juunini; Suurbritannias juunist novembrini.",
+      "uses": "Söögiks kõlbmatu; kulinaarne väärtus puudub.",
+      "confusion": "Ka Coprinellus radians moodustab osooniumi, kuid tema eosed on suuremad, 8,5–11,5 × 5,5–7 µm. Coprinellus ellisii katte on valgem ja tihedam, jala alusel on rõnga- või tupesarnane paksend ning eosed on kitsamad, kõige rohkem umbes 3,7 µm laiad. Coprinellus micaceus kasvab tavaliselt suuremates kogumikes, tema kübar on tumedam ja kaetud läikivate, vilgukivitaoliste teradega, osoonium puudub ning eosed on suuremad, 7–10 × 4,5–6 µm. Coprinellus truncorum kübar on väiksem, 1–2,5 cm, kate nahavärvi kuni kollakaspruun ja eosed munajad, 8–9,5 × 5–6,5 µm. Osooniumi puudumisel on usaldusväärseks määramiseks vaja mikroskoopi.",
+      "notes": "Liigi piirid on vaieldavad: mõned autorid arvavad sellesse liiki ka Coprinellus ellisii või isegi Coprinellus radians. Osoonium ei ole alati olemas, kuid püsib kauem kui lühiealised viljakehad. Norras 2021. aastal tehtud hinnang liigitab selle soodsas seisundis olevaks (Least Concern).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fa": {
+      "description": "قارچ جوهری کوچکی از اروپا و آمریکای شمالی که به‌صورت تکی یا در گروه‌های کوچک روی چوب در حال پوسیدن درختان پهن‌برگ می‌روید. ساقه‌های آن اغلب از فرشی پشمی از ریسه‌ها به رنگ نارنجی تا قهوه‌ای زنگاری، به نام اوزونیوم، که روی چوب گسترده می‌شود، بیرون می‌آیند. گندروی است و گاه در فضای بسته روی چوب مرطوب، کف‌پوش یا فرش نیز اندام باردهی تشکیل می‌دهد.",
+      "cap": "در جوانی تخم‌مرغی و به بلندی ۱٫۵–۴ cm، سپس زنگوله‌ای تا محدب و به پهنای ۳–۷ cm. زرد عسلی تا اخرایی، با مرکز تیره‌تر و به‌سوی حاشیه سفیدفام؛ با افزایش سن خاکستری می‌شود و مرکز قهوه‌ای‌فام می‌ماند. تقریباً تا مرکز به‌طور ظریف شیاردار و پوشیده از بقایای پوشش سفیدفام تا قهوه‌ای کم‌رنگ، فلس‌مانند یا دانه‌دار است که ممکن است ساییده شوند.",
+      "hymenium": "تیغه‌ها چسبیده تا آزاد، فشرده، به پهنای ۳–۸ mm، نخست سفید کرم، سپس خاکستری و سرانجام سیاه، و خودآبکی‌شونده‌اند. بازیدیوم‌ها چهارهاگی‌اند، ۱۸–۳۴ × ۸–۹ µm، و هر یک را ۳–۶ براکی‌بازیدیول احاطه کرده است. پلوروسیستیدها ۵۰–۱۲۰ × ۳۰–۶۵ µm و کیلوسیستیدها ۳۰–۱۰۰ × ۳۰–۶۰ µm هستند.",
+      "stipe": "به طول ۴–۱۰ cm و ضخامت ۰٫۴–۱ cm، استوانه‌ای با پایه‌ای اندکی متورم که ممکن است لبه‌ای ولوامانند داشته باشد. سفید، ابریشمی و توخالی، گاه در پایه زرد مایل به قهوه‌ای، بدون حلقه. معمولاً از اوزونیومی پشمی به رنگ نارنجی تا قهوه‌ای زنگاری بیرون می‌آید.",
+      "flesh": "بسیار نازک و شکننده، سفید؛ با افزایش سن تا حدی به مایعی سیاه تبدیل می‌شود. بو و مزه مشخصی ندارد.",
+      "sporePrint": "قهوه‌ای بسیار تیره تا سیاه. هاگ‌ها ۶–۹ × ۳٫۵–۵ µm، بیضوی و از نمای جانبی لوبیایی‌شکل، صاف، با منفذ رویشی خارج از مرکز به پهنای حداکثر ۱٫۲ µm.",
+      "habitat": "گندرو روی چوب مرده درختان پهن‌برگ — کنده‌ها، تنه‌ها، شاخه‌های افتاده و پای تنه‌ها، برای نمونه Fraxinus، Quercus، Populus، Acer و Alnus — و نیز روی تراشه‌های چوب و چوب مدفون در باغ‌ها و پارک‌ها. در ساختمان‌ها روی چوب مرطوب در زیرزمین‌ها و سازه‌های سقف، روی کف‌پوش‌ها و فرش‌های حمام ظاهر می‌شود. از اواخر مارس تا نوامبر باردهی می‌کند؛ در اروپای مرکزی بیشتر از آوریل تا ژوئن و در بریتانیا از ژوئن تا نوامبر.",
+      "uses": "خوراکی نیست؛ ارزش آشپزی ندارد.",
+      "confusion": "Coprinellus radians نیز اوزونیوم تشکیل می‌دهد، اما هاگ‌های بزرگ‌تری دارد، ۸٫۵–۱۱٫۵ × ۵٫۵–۷ µm. Coprinellus ellisii پوششی سفیدتر و متراکم‌تر، ضخیم‌شدگی حلقه‌مانند یا ولوامانند در پایه ساقه و هاگ‌های باریک‌تری دارد که پهنای آن‌ها حداکثر حدود ۳٫۷ µm است. Coprinellus micaceus معمولاً در دسته‌های بزرگ‌تر می‌روید، کلاهکی تیره‌تر با دانه‌های درخشان میکامانند دارد، اوزونیوم ندارد و هاگ‌هایش بزرگ‌ترند، ۷–۱۰ × ۴٫۵–۶ µm. Coprinellus truncorum کلاهکی کوچک‌تر، ۱–۲٫۵ cm، پوششی به رنگ پوست آهو تا قهوه‌ای مایل به زرد و هاگ‌های تخم‌مرغی ۸–۹٫۵ × ۵–۶٫۵ µm دارد. در نبود اوزونیوم، برای شناسایی مطمئن بررسی میکروسکوپی لازم است.",
+      "notes": "مرزهای این گونه محل بحث است: برخی نویسندگان Coprinellus ellisii و حتی Coprinellus radians را در این گونه می‌گنجانند. اوزونیوم همیشه حاضر نیست، اما بیش از اندام‌های باردهی کوتاه‌عمر پایدار می‌ماند. ارزیابی سال ۲۰۲۱ در نروژ آن را در رده کمترین نگرانی (Least Concern) قرار داده است.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Pieni mustesieni Euroopasta ja Pohjois-Amerikasta; se kasvaa yksittäin tai pieninä ryhminä lahoavalla lehtipuulla. Jalat lähtevät usein villamaisesta, oranssista tai ruosteenruskeasta rihmastomatosta, otsoniumista, joka leviää puun pinnalle. Laji on saprotrofi ja muodostaa joskus itiöemiä sisätiloissa kostealle puulle, lattioille tai matoille.",
+      "cap": "Nuorena munamainen ja 1,5–4 cm korkea, myöhemmin kellomainen tai kupera ja 3–7 cm leveä. Hunajankeltainen tai okra, keskeltä tummempi ja reunaa kohti vaalea, vanhana harmaa ja keskeltä ruskehtava. Hienosti uurteinen lähes keskustaan saakka, ja pinnalla on valkeahkoja tai vaaleanruskeita, suomumaisia tai rakeisia suojuksen jäänteitä, jotka voivat hankautua pois.",
+      "hymenium": "Heltat ovat kiinnittyneitä tai vapaita, tiheässä, 3–8 mm leveitä, aluksi kermanvalkoisia, sitten harmaita ja lopulta mustia, vetistyviä. Basidiot ovat neli-itiöisiä, 18–34 × 8–9 µm, ja kutakin ympäröi 3–6 brakybasidiolia. Pleurokystidit ovat 50–120 × 30–65 µm ja keilokystidit 30–100 × 30–60 µm.",
+      "stipe": "4–10 cm pitkä ja 0,4–1 cm paksu, lieriömäinen, tyvi hieman paksuuntunut ja siinä voi olla tuppimainen reunus. Valkoinen, silkkinen ja ontto, tyvestä joskus kellanruskehtava, ilman rengasta. Lähtee yleensä oranssista tai ruosteenruskeasta, villamaisesta otsoniumista.",
+      "flesh": "Hyvin ohut ja hauras, valkoinen; vanhana se vetistyy osittain mustaksi. Haju ja maku eivät ole tunnusomaisia.",
+      "sporePrint": "Hyvin tummanruskea tai musta. Itiöt ovat 6–9 × 3,5–5 µm, ellipsoideja ja sivulta katsottuna papumaisia, sileitä, ja niissä on epäkeskeinen, enintään 1,2 µm leveä itureikä.",
+      "habitat": "Saprotrofi kuolleella lehtipuulla – kannoilla, rungoilla, pudonneilla oksilla ja runkojen tyvillä, esimerkiksi saarnella, tammella, poppelilla, vaahteralla ja lepällä – sekä hakkeella ja maahan hautautuneella puulla puutarhoissa ja puistoissa. Rakennuksissa sitä tavataan kostealla puulla kellareissa ja ullakoilla, lattioilla ja kylpyhuoneen matoilla. Itiöemiä muodostuu maaliskuun lopulta marraskuuhun, Keski-Euroopassa etenkin huhti–kesäkuussa; Isossa-Britanniassa kesä–marraskuussa.",
+      "uses": "Syötäväksi kelpaamaton; ei ruokakäyttöarvoa.",
+      "confusion": "Myös Coprinellus radians muodostaa otsoniumin, mutta sen itiöt ovat suurempia, 8,5–11,5 × 5,5–7 µm. Coprinellus ellisii -lajilla on valkoisempi ja tiheämpi suojus, jalan tyvessä rengasmainen tai tuppimainen paksunnos ja kapeammat, enintään noin 3,7 µm leveät itiöt. Coprinellus micaceus kasvaa yleensä suurempina kimppuina, sen lakki on tummempi ja siinä on kimaltelevia, kiillemäisiä rakeita, siltä puuttuu otsonium ja sen itiöt ovat suurempia, 7–10 × 4,5–6 µm. Coprinellus truncorum -lajilla on pienempi, 1–2,5 cm:n lakki, nahanvärinen tai kellanruskea suojus ja munamaiset, 8–9,5 × 5–6,5 µm:n itiöt. Ilman otsoniumia luotettava määritys vaatii mikroskooppia.",
+      "notes": "Lajirajat ovat kiistanalaiset: jotkut tutkijat sisällyttävät tähän lajiin Coprinellus ellisii -lajin tai jopa Coprinellus radians -lajin. Otsonium ei ole aina näkyvissä, mutta se säilyy pidempään kuin lyhytikäiset itiöemät. Norjassa vuonna 2021 tehty arvio luokittelee sen elinvoimaiseksi (Least Concern).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fr": {
+      "description": "Un petit coprin d'Europe et d'Amérique du Nord qui pousse isolément ou en petits groupes sur le bois de feuillus en décomposition. Ses pieds naissent souvent d'un tapis mycélien laineux orange à brun rouille, l'ozonium, qui s'étend sur le bois. Il est saprotrophe et fructifie parfois à l'intérieur sur du bois humide, des planchers ou des tapis.",
+      "cap": "Ovoïde et haut de 1,5–4 cm lorsqu'il est jeune, puis campanulé à convexe et large de 3–7 cm. Jaune miel à ocre avec le centre plus foncé et blanchâtre vers la marge, il devient gris avec le centre brunâtre en vieillissant. Finement strié presque jusqu'au centre et couvert de restes de voile blanchâtres à brun pâle, squamuleux ou granuleux, qui peuvent s'effacer.",
+      "hymenium": "Lames adnées à libres, serrées, larges de 3–8 mm, d'abord blanc crème, puis grises et enfin noires, déliquescentes. Les basides sont tétrasporiques, 18–34 × 8–9 µm, chacune entourée de 3–6 brachybasidioles. Les pleurocystides mesurent 50–120 × 30–65 µm et les cheilocystides 30–100 × 30–60 µm.",
+      "stipe": "Long de 4–10 cm et épais de 0,4–1 cm, cylindrique avec une base légèrement renflée qui peut porter un rebord volviforme. Blanc, soyeux et creux, parfois brun jaunâtre à la base, sans anneau. Il naît généralement d'un ozonium laineux orange à brun rouille.",
+      "flesh": "Très mince et fragile, blanche ; elle se liquéfie partiellement en noir avec l'âge. Odeur et saveur non distinctives.",
+      "sporePrint": "Brun très foncé à noir. Les spores mesurent 6–9 × 3,5–5 µm, ellipsoïdes et phaséoliformes de profil, lisses, avec un pore germinatif excentrique large jusqu'à 1,2 µm.",
+      "habitat": "Saprotrophe sur le bois mort de feuillus — souches, troncs, branches tombées et bases de troncs, par exemple de frêne, de chêne, de peuplier, d'érable et d'aulne — ainsi que sur les copeaux et le bois enfoui dans les jardins et les parcs. Dans les bâtiments, il apparaît sur le bois humide des caves et des charpentes, sur les planchers et sur les tapis de salle de bains. Fructifie de fin mars à novembre, surtout d'avril à juin en Europe centrale ; en Grande-Bretagne de juin à novembre.",
+      "uses": "Non comestible ; sans intérêt culinaire.",
+      "confusion": "Coprinellus radians forme aussi un ozonium mais a des spores plus grandes, 8,5–11,5 × 5,5–7 µm. Coprinellus ellisii a un voile plus blanc et plus dense, un épaississement annuliforme ou volviforme à la base du pied et des spores plus étroites, larges d'environ 3,7 µm au plus. Coprinellus micaceus pousse généralement en touffes plus grandes, a un chapeau plus foncé avec des granules brillants comme du mica, n'a pas d'ozonium et a des spores plus grandes, 7–10 × 4,5–6 µm. Coprinellus truncorum a un chapeau plus petit, 1–2,5 cm, un voile chamois à brun jaunâtre et des spores ovoïdes de 8–9,5 × 5–6,5 µm. Sans ozonium, l'examen microscopique est nécessaire pour une identification fiable.",
+      "notes": "Les limites de l'espèce sont discutées : certains auteurs y incluent Coprinellus ellisii, voire Coprinellus radians. L'ozonium n'est pas toujours présent mais persiste plus longtemps que les fructifications éphémères. Une évaluation de 2021 en Norvège le classe en préoccupation mineure (Least Concern).",
+      "names": [],
+      "sourceUrls": [
+        "https://www.mycoquebec.org/bas.php?gro=33&l=r&nom=Coprinellus+domesticus+%2F+Coprin+domestique&post=coprin&tag=Coprinellus+domesticus"
+      ],
+      "label": "coprin domestique"
+    },
+    "he": {
+      "description": "פטריית דיו קטנה מאירופה ומצפון אמריקה, הגדלה ביחידות או בקבוצות קטנות על עץ נשירים מתפורר. רגליה צומחות לעיתים קרובות מתוך מרבד תפטיר צמרי בצבע כתום עד חום־חלוד, האוזוניום, המתפשט על פני העץ. היא ספרוטרופית ולעיתים מוציאה גופי פרי גם בתוך מבנים על עץ לח, רצפות או שטיחים.",
+      "cap": "בצעירותו ביצי וגובהו 1.5–4 cm, אחר כך פעמוני עד קמור ורוחבו 3–7 cm. צבעו צהוב־דבש עד אוקר, מרכזו כהה יותר והוא לבנבן לכיוון השוליים; עם הגיל הוא מאפיר ומרכזו נשאר חום. מחורץ דק כמעט עד המרכז ומכוסה שאריות מעטה לבנבנות עד חומות־חיוורות, קשקשיות או גרגריות, שעשויות להישפשף ולהיעלם.",
+      "hymenium": "הדפים צמודים עד חופשיים, צפופים, ברוחב 3–8 mm, בתחילה לבנים־שמנתיים, אחר כך אפורים ולבסוף שחורים, ומתנזלים. הבסידיות הן בעלות ארבעה נבגים, 18–34 × 8–9 µm, וכל אחת מהן מוקפת ב־3–6 ברכיבסידיולות. מידות הפלאורוציסטידות 50–120 × 30–65 µm ומידות הכאילוציסטידות 30–100 × 30–60 µm.",
+      "stipe": "אורכה 4–10 cm ועוביה 0.4–1 cm, גלילית, ובסיסה מעובה מעט ועשוי לשאת שפה דמוית נדן. לבנה, משיית וחלולה, בבסיסה לעיתים חומה־צהבהבה, ללא טבעת. בדרך כלל היא צומחת מתוך אוזוניום צמרי בצבע כתום עד חום־חלוד.",
+      "flesh": "דק ושברירי מאוד, לבן; עם הגיל הוא מתנזל בחלקו לנוזל שחור. הריח והטעם אינם מיוחדים.",
+      "sporePrint": "חומה כהה מאוד עד שחורה. מידות הנבגים 6–9 × 3.5–5 µm, הם אליפסואידיים ובמבט צד דמויי שעועית, חלקים, ובעלי נקבובית נביטה אקסצנטרית ברוחב של עד 1.2 µm.",
+      "habitat": "ספרוטרופית על עץ מת של עצים רחבי עלים — גדמים, גזעים, ענפים שנפלו ובסיסי גזעים, למשל של מילה, אלון, צפצפה, אדר ואלמון — וכן על שבבי עץ ועל עץ קבור בגינות ובפארקים. במבנים היא מופיעה על עץ לח במרתפים ובקונסטרוקציות גג, על רצפות ועל שטיחוני אמבטיה. מוציאה גופי פרי מסוף מרץ עד נובמבר, במרכז אירופה בעיקר באפריל–יוני; בבריטניה ביוני–נובמבר.",
+      "uses": "אינה אכילה; אין לה ערך קולינרי.",
+      "confusion": "גם Coprinellus radians יוצרת אוזוניום, אך נבגיה גדולים יותר, 8.5–11.5 × 5.5–7 µm. ל־Coprinellus ellisii מעטה לבן וצפוף יותר, עיבוי דמוי טבעת או נדן בבסיס הרגל ונבגים צרים יותר, ברוחב של כ־3.7 µm לכל היותר. Coprinellus micaceus גדלה בדרך כלל באשכולות גדולים יותר, כובעה כהה יותר ומכוסה גרגירים מבריקים דמויי נציץ, אין לה אוזוניום ונבגיה גדולים יותר, 7–10 × 4.5–6 µm. ל־Coprinellus truncorum כובע קטן יותר, 1–2.5 cm, מעטה בצבע עור צבי עד חום־צהבהב ונבגים ביציים של 8–9.5 × 5–6.5 µm. בהיעדר אוזוניום נדרש מיקרוסקופ לזיהוי אמין.",
+      "notes": "גבולות המין שנויים במחלוקת: יש מחברים הכוללים בו את Coprinellus ellisii ואף את Coprinellus radians. האוזוניום אינו נוכח תמיד, אך הוא מתקיים זמן רב יותר מגופי הפרי קצרי החיים. הערכה משנת 2021 בנורווגיה מסווגת אותה כ\"ללא חשש\" (Least Concern).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "यूरोप और उत्तरी अमेरिका की एक छोटी स्याही-छत्रक, जो चौड़ी पत्ती वाले पेड़ों की सड़ती लकड़ी पर अकेले या छोटे समूहों में उगती है। इसके डंठल अक्सर लकड़ी पर फैली ऊनी, नारंगी से जंग-भूरी कवकजाल की चटाई, ओज़ोनियम, से निकलते हैं। यह मृतजीवी है और कभी-कभी भवनों के भीतर नम लकड़ी, फ़र्श या कालीनों पर भी फलनकाय बनाती है।",
+      "cap": "युवा अवस्था में अंडाकार और 1.5–4 cm ऊँची, फिर घंटी के आकार से उत्तल और 3–7 cm चौड़ी। शहद-पीली से गेरुई, बीच का भाग अधिक गहरा और किनारे की ओर सफ़ेद-सी; उम्र के साथ धूसर हो जाती है और बीच का भाग भूरा-सा रहता है। लगभग बीच तक बारीक खाँचेदार और सफ़ेद-सी से हल्के भूरे, शल्क जैसे या दानेदार आवरण-अवशेषों से ढकी, जो रगड़कर हट सकते हैं।",
+      "hymenium": "गिल्स संलग्न से मुक्त, सघन, 3–8 mm चौड़े, पहले क्रीम-सफ़ेद, फिर धूसर और अंत में काले, स्वतः घुलकर तरल बनने वाले। बेसिडिया चार-बीजाणु वाले, 18–34 × 8–9 µm, और प्रत्येक 3–6 ब्रैकीबेसिडियोल से घिरा होता है। प्लूरोसिस्टिडिया 50–120 × 30–65 µm और चीलोसिस्टिडिया 30–100 × 30–60 µm के होते हैं।",
+      "stipe": "4–10 cm लंबा और 0.4–1 cm मोटा, बेलनाकार, आधार थोड़ा फूला हुआ, जिस पर वॉल्वा जैसा किनारा हो सकता है। सफ़ेद, रेशमी और खोखला, आधार पर कभी-कभी पीला-भूरा-सा, बिना छल्ले के। सामान्यतः नारंगी से जंग-भूरे ऊनी ओज़ोनियम से निकलता है।",
+      "flesh": "बहुत पतला और भुरभुरा, सफ़ेद; उम्र के साथ आंशिक रूप से काले तरल में बदल जाता है। गंध और स्वाद विशिष्ट नहीं होते।",
+      "sporePrint": "बहुत गहरा भूरा से काला। बीजाणु 6–9 × 3.5–5 µm, दीर्घवृत्ताकार और बगल से सेम के आकार के, चिकने, 1.2 µm तक चौड़े उत्केंद्री अंकुरण-छिद्र वाले होते हैं।",
+      "habitat": "चौड़ी पत्ती वाले पेड़ों की मृत लकड़ी पर मृतजीवी — ठूँठों, तनों, गिरी हुई शाखाओं और तनों के आधार पर, जैसे Fraxinus, Quercus, Populus, Acer और Alnus — तथा बगीचों और पार्कों में लकड़ी के टुकड़ों और दबी हुई लकड़ी पर। भवनों में यह तहखानों और छत के ढाँचों की नम लकड़ी, फ़र्श और स्नानघर के कालीनों पर दिखती है। मार्च के अंत से नवंबर तक फलन होता है, मध्य यूरोप में मुख्यतः अप्रैल–जून; ब्रिटेन में जून–नवंबर।",
+      "uses": "अखाद्य; इसका कोई पाक-मूल्य नहीं है।",
+      "confusion": "Coprinellus radians भी ओज़ोनियम बनाती है, पर उसके बीजाणु बड़े होते हैं, 8.5–11.5 × 5.5–7 µm। Coprinellus ellisii का आवरण अधिक सफ़ेद और सघन होता है, डंठल के आधार पर छल्ले या वॉल्वा जैसा मोटापन होता है और बीजाणु संकरे होते हैं, अधिकतम लगभग 3.7 µm चौड़े। Coprinellus micaceus आमतौर पर बड़े गुच्छों में उगती है, उसकी टोपी अधिक गहरी और अभ्रक जैसे चमकीले दानों से ढकी होती है, उसमें ओज़ोनियम नहीं होता और बीजाणु बड़े होते हैं, 7–10 × 4.5–6 µm। Coprinellus truncorum की टोपी छोटी, 1–2.5 cm, आवरण हल्के पीले-भूरे से पीले-भूरे और बीजाणु अंडाकार, 8–9.5 × 5–6.5 µm होते हैं। ओज़ोनियम न होने पर विश्वसनीय पहचान के लिए सूक्ष्मदर्शी आवश्यक है।",
+      "notes": "इस प्रजाति की सीमाएँ विवादित हैं: कुछ लेखक Coprinellus ellisii, यहाँ तक कि Coprinellus radians, को भी इसी प्रजाति में शामिल करते हैं। ओज़ोनियम हमेशा मौजूद नहीं होता, पर अल्पजीवी फलनकायों से अधिक समय तक बना रहता है। नॉर्वे में 2021 के एक आकलन ने इसे कम चिंताजनक (Least Concern) श्रेणी में रखा है।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Mala gljiva iz Europe i Sjeverne Amerike koja raste pojedinačno ili u malim skupinama na trulom drvu listača. Stručci joj često izrastaju iz vunaste narančaste do hrđavosmeđe micelijske prostirke, ozonija, koja se širi po drvu. Saprotrofna je i katkad plodonosi i u zatvorenom prostoru na vlažnom drvu, podovima ili tepisima.",
+      "cap": "U mladosti jajolik i visok 1,5–4 cm, zatim zvonolik do ispupčen i širok 3–7 cm. Medenožut do okerast, sa tamnijim središtem i bjelkast prema rubu; s vremenom posivi, a središte ostaje smećkasto. Fino izbrazdan gotovo do središta i prekriven bjelkastim do blijedosmeđim, ljuskastim ili zrnatim ostacima ovoja, koji se mogu otrti.",
+      "hymenium": "Listići su prirasli do slobodni, gusti, široki 3–8 mm, najprije krembijeli, zatim sivi i naposljetku crni, rastaču se. Bazidiji su četverosporni, 18–34 × 8–9 µm, svaki okružen s 3–6 brahibazidiola. Pleurocistide mjere 50–120 × 30–65 µm, a heilocistide 30–100 × 30–60 µm.",
+      "stipe": "Dug 4–10 cm i debeo 0,4–1 cm, valjkast, s blago zadebljanom osnovom koja može nositi volvasti rub. Bijel, svilenkast i šupalj, u osnovi katkad žućkastosmeđ, bez prstena. Obično izrasta iz narančastog do hrđavosmeđeg vunastog ozonija.",
+      "flesh": "Vrlo tanko i krhko, bijelo; s vremenom se djelomično rastače u crno. Miris i okus nisu karakteristični.",
+      "sporePrint": "Vrlo tamnosmeđ do crn. Spore su 6–9 × 3,5–5 µm, elipsoidne i sa strane grahaste, glatke, s ekscentričnom klicinom porom širokom do 1,2 µm.",
+      "habitat": "Saprotrofna na mrtvom drvu listača – panjevima, deblima, palim granama i osnovama debala, primjerice jasena, hrasta, topole, javora i johe – te na drvnoj sječki i zakopanom drvu u vrtovima i parkovima. U zgradama se javlja na vlažnom drvu u podrumima i krovištima, na podovima i na kupaonskim tepisima. Plodonosi od kraja ožujka do studenoga, u srednjoj Europi uglavnom od travnja do lipnja; u Britaniji od lipnja do studenoga.",
+      "uses": "Nejestiva; nema kulinarsku vrijednost.",
+      "confusion": "Coprinellus radians također tvori ozonij, ali ima krupnije spore, 8,5–11,5 × 5,5–7 µm. Coprinellus ellisii ima bjelji i gušći ovoj, prstenasto ili volvasto zadebljanje u osnovi stručka i uže spore, široke najviše oko 3,7 µm. Coprinellus micaceus obično raste u većim busenima, ima tamniji klobuk sa sjajnim zrncima nalik tinjcu, nema ozonij i ima krupnije spore, 7–10 × 4,5–6 µm. Coprinellus truncorum ima manji klobuk, 1–2,5 cm, ovoj boje divokoze do žućkastosmeđ i jajolike spore od 8–9,5 × 5–6,5 µm. Bez ozonija za pouzdanu identifikaciju potreban je mikroskop.",
+      "notes": "Granice vrste su sporne: neki autori u nju uključuju Coprinellus ellisii, pa čak i Coprinellus radians. Ozonij nije uvijek prisutan, ali traje dulje od kratkotrajnih plodišta. Procjena iz 2021. u Norveškoj svrstava je među najmanje zabrinjavajuće (Least Concern).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Kis termetű tintagomba Európából és Észak-Amerikából, amely egyesével vagy kisebb csoportokban nő korhadó lombosfán. Tönkjei gyakran gyapjas, narancssárga–rozsdabarna micéliumszövedékből, ózóniumból nőnek ki, amely szétterül a fán. Szaprotróf, és néha beltérben is terem nedves faanyagon, padlón vagy szőnyegen.",
+      "cap": "Fiatalon tojásdad és 1,5–4 cm magas, majd harang alakú vagy domború, 3–7 cm széles. Mézsárga–okkeres, közepe sötétebb, széle felé fehéres; idővel megszürkül, közepe barnás marad. Majdnem a közepéig finoman bordázott, felszínét fehéres–halványbarna, pikkely- vagy szemcseszerű burokmaradványok borítják, amelyek lekophatnak.",
+      "hymenium": "A lemezek tönkhöz nőttek vagy szabadok, sűrűk, 3–8 mm szélesek, eleinte krémfehérek, majd szürkék, végül feketék, elfolyósodók. A bazídiumok négyspórásak, 18–34 × 8–9 µm-esek, mindegyiket 3–6 brachibazidiolum veszi körül. A pleurocisztidák 50–120 × 30–65 µm, a cheilocisztidák 30–100 × 30–60 µm méretűek.",
+      "stipe": "4–10 cm hosszú és 0,4–1 cm vastag, hengeres, töve kissé megvastagodott, és bocskorszerű peremet viselhet. Fehér, selymes és üreges, töve néha sárgásbarnás, gyűrű nélküli. Többnyire narancssárga–rozsdabarna, gyapjas ózóniumból nő ki.",
+      "flesh": "Igen vékony és törékeny, fehér; idővel részben feketén elfolyósodik. Szaga és íze nem jellegzetes.",
+      "sporePrint": "Igen sötétbarna–fekete. A spórák 6–9 × 3,5–5 µm-esek, ellipszoidok, oldalnézetben bab alakúak, simák, excentrikus, legfeljebb 1,2 µm széles csírapórussal.",
+      "habitat": "Szaprotróf elhalt lombosfán – tuskókon, törzseken, lehullott ágakon és a törzsek tövén, például kőrisen, tölgyön, nyáron, juharon és égeren –, valamint faaprítékon és eltemetett faanyagon kertekben és parkokban. Épületekben nedves faanyagon jelenik meg pincékben és tetőszerkezetekben, padlón és fürdőszobai szőnyegeken. Március végétől novemberig terem, Közép-Európában főként áprilistól júniusig; Nagy-Britanniában júniustól novemberig.",
+      "uses": "Nem ehető; konyhai értéke nincs.",
+      "confusion": "A Coprinellus radians szintén ózóniumot fejleszt, de spórái nagyobbak, 8,5–11,5 × 5,5–7 µm-esek. A Coprinellus ellisii burka fehérebb és sűrűbb, tönkje tövén gyűrű- vagy bocskorszerű megvastagodás van, spórái keskenyebbek, legfeljebb mintegy 3,7 µm szélesek. A Coprinellus micaceus többnyire nagyobb csoportokban nő, kalapja sötétebb, csillogó, csillámszerű szemcsékkel, ózóniuma nincs, spórái nagyobbak, 7–10 × 4,5–6 µm-esek. A Coprinellus truncorum kalapja kisebb, 1–2,5 cm-es, burka bőrszínű–sárgásbarna, spórái tojásdadok, 8–9,5 × 5–6,5 µm-esek. Ózónium hiányában a biztos azonosításhoz mikroszkópos vizsgálat szükséges.",
+      "notes": "A faj határai vitatottak: egyes szerzők ide sorolják a Coprinellus ellisii fajt, sőt a Coprinellus radians fajt is. Az ózónium nem mindig van jelen, de tovább megmarad, mint a rövid életű termőtestek. Egy 2021-es norvégiai értékelés a nem veszélyeztetett (Least Concern) kategóriába sorolja.",
+      "names": [],
+      "sourceUrls": [
+        "https://hu.wikipedia.org/wiki/H%C3%A1zi_tintagomba"
+      ],
+      "label": "házi tintagomba"
+    },
+    "id": {
+      "description": "Jamur tinta kecil dari Eropa dan Amerika Utara yang tumbuh soliter atau dalam kelompok kecil pada kayu pohon berdaun lebar yang membusuk. Tangkainya sering muncul dari hamparan miselium berbulu wol berwarna jingga hingga cokelat karat, yaitu ozonium, yang menyebar di atas kayu. Jamur ini saprotrof dan kadang-kadang berbuah di dalam ruangan pada kayu lembap, lantai, atau karpet.",
+      "cap": "Saat muda bulat telur dan tingginya 1,5–4 cm, kemudian berbentuk lonceng hingga cembung dengan lebar 3–7 cm. Kuning madu hingga oker dengan bagian tengah lebih gelap dan keputihan ke arah tepi; seiring usia menjadi abu-abu dengan bagian tengah kecokelatan. Beralur halus hampir sampai ke tengah dan tertutup sisa selubung keputihan hingga cokelat pucat yang bersisik atau berbutir dan dapat terkikis.",
+      "hymenium": "Lamela menempel hingga bebas, rapat, lebar 3–8 mm, mula-mula putih krem, lalu abu-abu dan akhirnya hitam, mencair. Basidium bersepora empat, berukuran 18–34 × 8–9 µm, masing-masing dikelilingi 3–6 brakibasidiol. Pleurosistidia berukuran 50–120 × 30–65 µm dan keilosistidia 30–100 × 30–60 µm.",
+      "stipe": "Panjang 4–10 cm dan tebal 0,4–1 cm, silindris dengan pangkal sedikit menggembung yang dapat memiliki tepi menyerupai volva. Putih, berkilau seperti sutra, dan berongga, kadang-kadang cokelat kekuningan di pangkal, tanpa cincin. Biasanya muncul dari ozonium berbulu wol berwarna jingga hingga cokelat karat.",
+      "flesh": "Sangat tipis dan rapuh, putih; seiring usia sebagian mencair menjadi hitam. Bau dan rasanya tidak khas.",
+      "sporePrint": "Cokelat sangat gelap hingga hitam. Spora berukuran 6–9 × 3,5–5 µm, elipsoid dan berbentuk kacang merah bila dilihat dari samping, halus, dengan pori kecambah eksentrik selebar hingga 1,2 µm.",
+      "habitat": "Saprotrof pada kayu mati pohon berdaun lebar—tunggul, batang, cabang yang jatuh, dan pangkal batang, misalnya Fraxinus, Quercus, Populus, Acer, dan Alnus—serta pada serpihan kayu dan kayu yang terkubur di kebun dan taman. Di dalam bangunan jamur ini muncul pada kayu lembap di ruang bawah tanah dan rangka atap, di lantai, dan pada karpet kamar mandi. Berbuah dari akhir Maret hingga November, terutama April–Juni di Eropa Tengah; di Britania Juni–November.",
+      "uses": "Tidak dapat dimakan; tidak bernilai kuliner.",
+      "confusion": "Coprinellus radians juga membentuk ozonium tetapi memiliki spora lebih besar, 8,5–11,5 × 5,5–7 µm. Coprinellus ellisii memiliki selubung yang lebih putih dan lebih padat, penebalan menyerupai cincin atau volva di pangkal tangkai, serta spora lebih sempit, paling lebar sekitar 3,7 µm. Coprinellus micaceus biasanya tumbuh dalam rumpun lebih besar, tudungnya lebih gelap dengan butiran berkilau seperti mika, tidak memiliki ozonium, dan sporanya lebih besar, 7–10 × 4,5–6 µm. Coprinellus truncorum memiliki tudung lebih kecil, 1–2,5 cm, selubung berwarna kulit samak hingga cokelat kekuningan, dan spora bulat telur berukuran 8–9,5 × 5–6,5 µm. Tanpa ozonium, mikroskop diperlukan untuk identifikasi yang andal.",
+      "notes": "Batas spesiesnya diperdebatkan: sebagian penulis memasukkan Coprinellus ellisii, bahkan Coprinellus radians, ke dalam spesies ini. Ozonium tidak selalu ada, tetapi bertahan lebih lama daripada tubuh buah yang berumur pendek. Penilaian tahun 2021 di Norwegia menggolongkannya sebagai Risiko Rendah (Least Concern).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un piccolo coprino d'Europa e del Nord America che cresce isolato o in piccoli gruppi su legno di latifoglie in decomposizione. I suoi gambi nascono spesso da un feltro miceliare lanoso, da arancione a bruno ruggine, l'ozonio, che si estende sul legno. È saprotrofo e talvolta fruttifica al chiuso su legno umido, pavimenti o tappeti.",
+      "cap": "Ovoidale e alto 1,5–4 cm da giovane, poi campanulato o convesso e largo 3–7 cm. Giallo miele od ocra con il centro più scuro e biancastro verso il margine, con l'età diventa grigio con il centro brunastro. Finemente striato quasi fino al centro e coperto da residui velari biancastri o bruno chiaro, squamulosi o granulosi, che possono staccarsi.",
+      "hymenium": "Lamelle adnate o libere, fitte, larghe 3–8 mm, dapprima bianco crema, poi grigie e infine nere, deliquescenti. I basidi sono tetrasporici, 18–34 × 8–9 µm, ciascuno circondato da 3–6 brachibasidioli. I pleurocistidi misurano 50–120 × 30–65 µm e i cheilocistidi 30–100 × 30–60 µm.",
+      "stipe": "Lungo 4–10 cm e spesso 0,4–1 cm, cilindrico, con la base leggermente ingrossata che può portare un orlo simile a una volva. Bianco, sericeo e cavo, talvolta bruno giallastro alla base, senza anello. Di solito nasce da un ozonio lanoso da arancione a bruno ruggine.",
+      "flesh": "Molto sottile e fragile, bianca; con l'età si liquefà in parte in nero. Odore e sapore non distintivi.",
+      "sporePrint": "Bruno molto scuro o nero. Le spore misurano 6–9 × 3,5–5 µm, sono ellissoidali e fagioliformi di profilo, lisce, con un poro germinativo eccentrico largo fino a 1,2 µm.",
+      "habitat": "Saprotrofo su legno morto di latifoglie — ceppaie, tronchi, rami caduti e basi dei tronchi, per esempio di frassino, quercia, pioppo, acero e ontano — e su cippato e legno interrato in giardini e parchi. Negli edifici compare su legno umido di cantine e sottotetti, su pavimenti e su tappetini da bagno. Fruttifica da fine marzo a novembre, soprattutto da aprile a giugno in Europa centrale; in Gran Bretagna da giugno a novembre.",
+      "uses": "Non commestibile; privo di valore culinario.",
+      "confusion": "Coprinellus radians forma anch'esso un ozonio, ma ha spore più grandi, 8,5–11,5 × 5,5–7 µm. Coprinellus ellisii ha un velo più bianco e più denso, un ispessimento anulare o volviforme alla base del gambo e spore più strette, larghe al massimo circa 3,7 µm. Coprinellus micaceus cresce di solito in cespi più grandi, ha il cappello più scuro con granuli lucenti simili a mica, è privo di ozonio e ha spore più grandi, 7–10 × 4,5–6 µm. Coprinellus truncorum ha un cappello più piccolo, 1–2,5 cm, un velo da camoscio a bruno giallastro e spore ovoidali di 8–9,5 × 5–6,5 µm. In assenza di ozonio, per un'identificazione affidabile serve il microscopio.",
+      "notes": "I limiti della specie sono discussi: alcuni autori vi includono Coprinellus ellisii o perfino Coprinellus radians. L'ozonio non è sempre presente, ma persiste più a lungo dei corpi fruttiferi effimeri. Una valutazione del 2021 in Norvegia lo classifica a minore preoccupazione (Least Concern).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "ヨーロッパと北アメリカに分布する小型のヒトヨタケ類で、腐朽した広葉樹材上に単生または小群生する。柄はしばしば材の上に広がる、橙色から錆褐色の羊毛状の菌糸マット（オゾニウム）から生じる。腐生性で、ときに屋内の湿った木材、床板、カーペット上にも発生する。",
+      "cap": "幼時は卵形で高さ1.5–4 cm、のち鐘形から饅頭形となり径3–7 cm。蜂蜜色から黄土色で中央は濃色、縁部に向かって白っぽく、古くなると灰色になり中央は褐色を帯びる。ほぼ中央まで細かい溝線があり、白っぽいものから淡褐色の鱗片状または粒状の外被膜の破片に覆われるが、これは脱落しやすい。",
+      "hymenium": "ひだは上生から離生、密で、幅3–8 mm、初めクリーム白色、のち灰色、最後に黒色となり液化する。担子器は4胞子性で18–34 × 8–9 µm、それぞれ3–6個の短担子器様細胞（brachybasidiole）に囲まれる。側シスチジアは50–120 × 30–65 µm、縁シスチジアは30–100 × 30–60 µm。",
+      "stipe": "長さ4–10 cm、太さ0.4–1 cm、円柱形で基部はやや膨らみ、つぼ状の縁を伴うことがある。白色で絹状の光沢があり中空、基部はときに黄褐色を帯び、つばはない。通常、橙色から錆褐色の羊毛状のオゾニウムから生じる。",
+      "flesh": "非常に薄くもろく、白色。古くなると部分的に黒く液化する。においと味は特徴がない。",
+      "sporePrint": "非常に暗い褐色から黒色。胞子は6–9 × 3.5–5 µm、楕円形で側面観では豆形、平滑で、幅1.2 µmまでの偏心性の発芽孔がある。",
+      "habitat": "広葉樹の枯れ材上に腐生する。切り株、倒木、落枝、幹の基部（たとえばトネリコ属、ナラ属、ヤマナラシ属、カエデ属、ハンノキ属）のほか、庭園や公園のウッドチップや埋もれた材にも生える。建物内では地下室や屋根裏の湿った木材、床板、浴室のマット上に現れる。3月下旬から11月に発生し、中央ヨーロッパでは主に4–6月、イギリスでは6–11月。",
+      "uses": "食不適。食用価値はない。",
+      "confusion": "Coprinellus radiansもオゾニウムを形成するが、胞子がより大きく8.5–11.5 × 5.5–7 µm。Coprinellus ellisiiは外被膜がより白く密で、柄の基部につば状またはつぼ状の肥厚があり、胞子はより細く幅は最大約3.7 µm。Coprinellus micaceusは通常より大きな株をつくり、傘はより濃色で雲母状に光る粒に覆われ、オゾニウムを欠き、胞子はより大きく7–10 × 4.5–6 µm。Coprinellus truncorumは傘がより小さく1–2.5 cm、外被膜は淡黄褐色から黄褐色で、胞子は卵形、8–9.5 × 5–6.5 µm。オゾニウムがない場合、確実な同定には顕微鏡観察が必要である。",
+      "notes": "種の範囲には議論があり、Coprinellus ellisii、さらにはCoprinellus radiansを本種に含める著者もいる。オゾニウムは常に見られるわけではないが、短命な子実体より長く残る。2021年のノルウェーでの評価では低懸念（Least Concern）とされている。",
+      "names": [],
+      "sourceUrls": [
+        "https://mycoscouter.coolblog.jp/daikinrin/Pages/Coprinellus_domesticus_474357.html",
+        "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%AD%E3%83%A9%E3%83%A9%E3%82%BF%E3%82%B1"
+      ],
+      "label": "コキララタケ"
+    },
+    "ko": {
+      "description": "유럽과 북아메리카에 분포하는 작은 먹물버섯류로, 썩어 가는 활엽수 목재 위에 홀로 또는 작은 무리를 지어 자란다. 대는 흔히 목재 위로 퍼지는 양털 모양의 주황색에서 녹슨 듯한 갈색 균사 매트, 즉 오조니움에서 돋아난다. 부생성이며 때로는 실내의 축축한 목재, 마루, 카펫 위에서도 자실체를 만든다.",
+      "cap": "어릴 때는 달걀 모양이고 높이 1.5–4 cm이며, 이후 종 모양에서 볼록한 모양이 되고 지름 3–7 cm이다. 꿀빛 노란색에서 황토색이며 가운데가 더 짙고 가장자리 쪽은 희끄무레하며, 오래되면 회색이 되고 가운데는 갈색을 띤다. 거의 가운데까지 가는 홈선이 있고, 흰색에서 연한 갈색의 비늘 모양 또는 알갱이 모양 외피막 잔존물로 덮여 있으며 이는 떨어져 나갈 수 있다.",
+      "hymenium": "주름살은 올린주름살에서 떨어진주름살이고 빽빽하며 폭 3–8 mm, 처음에는 크림빛 흰색, 이후 회색, 마지막에는 검은색이 되며 액화한다. 담자기는 포자가 4개이고 18–34 × 8–9 µm이며, 각각 3–6개의 단담자기양 세포(brachybasidiole)로 둘러싸여 있다. 측낭상체는 50–120 × 30–65 µm, 연낭상체는 30–100 × 30–60 µm이다.",
+      "stipe": "길이 4–10 cm, 굵기 0.4–1 cm이며 원통형이고, 기부는 약간 부풀며 대주머니 모양의 테가 있을 수 있다. 흰색이고 비단 광택이 나며 속이 비어 있고, 기부는 때로 노란 갈색을 띠며 턱받이는 없다. 보통 주황색에서 녹슨 듯한 갈색의 양털 모양 오조니움에서 돋아난다.",
+      "flesh": "매우 얇고 부서지기 쉬우며 흰색이다. 오래되면 일부가 검게 액화한다. 냄새와 맛은 특징이 없다.",
+      "sporePrint": "매우 짙은 갈색에서 검은색이다. 포자는 6–9 × 3.5–5 µm이고 타원형이며 옆에서 보면 콩 모양이고 매끄러우며, 폭이 최대 1.2 µm인 편심성 발아공이 있다.",
+      "habitat": "활엽수의 죽은 목재에 부생한다. 그루터기, 줄기, 떨어진 가지, 줄기 밑동(예: 물푸레나무속, 참나무속, 사시나무속, 단풍나무속, 오리나무속)과 정원 및 공원의 나무 조각, 묻힌 목재에서 자란다. 건물에서는 지하실과 지붕 구조의 축축한 목재, 마루, 욕실 매트 위에 나타난다. 3월 말부터 11월까지 발생하며, 중부 유럽에서는 주로 4–6월, 영국에서는 6–11월이다.",
+      "uses": "식용 불가이며 식용 가치는 없다.",
+      "confusion": "Coprinellus radians도 오조니움을 만들지만 포자가 더 커서 8.5–11.5 × 5.5–7 µm이다. Coprinellus ellisii는 외피막이 더 희고 조밀하며, 대 기부에 턱받이 또는 대주머니 모양의 비후부가 있고, 포자가 더 좁아 폭이 최대 약 3.7 µm이다. Coprinellus micaceus는 보통 더 큰 다발로 자라고, 갓이 더 짙으며 운모처럼 반짝이는 알갱이로 덮이고, 오조니움이 없으며 포자가 더 커서 7–10 × 4.5–6 µm이다. Coprinellus truncorum은 갓이 더 작아 1–2.5 cm이고, 외피막은 담황갈색에서 노란 갈색이며, 포자는 달걀 모양으로 8–9.5 × 5–6.5 µm이다. 오조니움이 없을 때는 확실한 동정을 위해 현미경 관찰이 필요하다.",
+      "notes": "종의 범위에 대해서는 논란이 있어, 일부 학자는 Coprinellus ellisii나 심지어 Coprinellus radians까지 이 종에 포함한다. 오조니움은 항상 있는 것은 아니지만 수명이 짧은 자실체보다 오래 남는다. 2021년 노르웨이의 평가는 이 종을 최소 관심(Least Concern)으로 분류한다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Nedidelis mėšlagrybis, augantis Europoje ir Šiaurės Amerikoje pavieniui arba nedidelėmis grupėmis ant pūvančios lapuočių medienos. Jo kotai dažnai išauga iš vilnoniško, oranžinio iki rūdžių rudumo grybienos kilimėlio – ozonijaus, kuris plinta medienos paviršiumi. Jis yra saprotrofas ir kartais vaisiakūnius sudaro patalpose ant drėgnos medienos, grindų ar kilimų.",
+      "cap": "Jaunas kiaušiniškas ir 1,5–4 cm aukščio, vėliau varpiškas iki išgaubto ir 3–7 cm pločio. Medaus geltonumo iki ochros, viduryje tamsesnis, link krašto balsvas, senstant pilkėja, o vidurys lieka rusvas. Smulkiai vagotas beveik iki vidurio ir padengtas balsvomis iki šviesiai rudų, žvyneliškomis arba grūdėtomis šydo liekanomis, kurios gali nusitrinti.",
+      "hymenium": "Lakšteliai prisitvirtinę iki laisvų, tankūs, 3–8 mm pločio, iš pradžių kreminiai balti, vėliau pilki ir galiausiai juodi, susiskystinantys. Bazidės ketursporės, 18–34 × 8–9 µm, kiekvieną supa 3–6 brachibazidiolės. Pleurocistidės yra 50–120 × 30–65 µm, cheilocistidės – 30–100 × 30–60 µm.",
+      "stipe": "4–10 cm ilgio ir 0,4–1 cm storio, cilindriškas, šiek tiek pastorėjusiu pagrindu, ant kurio gali būti makšties pavidalo kraštelis. Baltas, šilkinis ir tuščiaviduris, ties pagrindu kartais gelsvai rusvas, be žiedo. Paprastai išauga iš oranžinio iki rūdžių rudumo vilnoniško ozonijaus.",
+      "flesh": "Labai plona ir trapi, balta; senstant iš dalies susiskystina juodai. Kvapas ir skonis neišsiskiria.",
+      "sporePrint": "Labai tamsiai rudas iki juodo. Sporos 6–9 × 3,5–5 µm, elipsoidinės, iš šono pupelės pavidalo, lygios, su ekscentrine iki 1,2 µm pločio dygimo pora.",
+      "habitat": "Saprotrofas ant negyvos lapuočių medienos – kelmų, kamienų, nukritusių šakų ir kamienų pamatų, pavyzdžiui, uosių, ąžuolų, tuopų, klevų ir alksnių, – taip pat ant medžio skiedrų ir užkastos medienos soduose bei parkuose. Pastatuose pasirodo ant drėgnos medienos rūsiuose ir stogų konstrukcijose, ant grindų ir vonios kambario kilimėlių. Vaisiakūniai susidaro nuo kovo pabaigos iki lapkričio, Vidurio Europoje daugiausia balandžio–birželio mėn.; Didžiojoje Britanijoje birželio–lapkričio mėn.",
+      "uses": "Nevalgomas; kulinarinės vertės neturi.",
+      "confusion": "Coprinellus radians taip pat sudaro ozonijų, tačiau jo sporos didesnės, 8,5–11,5 × 5,5–7 µm. Coprinellus ellisii šydas baltesnis ir tankesnis, koto pagrinde yra žiedo ar makšties pavidalo sustorėjimas, o sporos siauresnės, ne platesnės nei apie 3,7 µm. Coprinellus micaceus paprastai auga didesnėmis kekėmis, jo kepurėlė tamsesnė su blizgančiais, žėručio pavidalo grūdeliais, ozonijaus neturi, o sporos didesnės, 7–10 × 4,5–6 µm. Coprinellus truncorum kepurėlė mažesnė, 1–2,5 cm, šydas zomšinės spalvos iki gelsvai rudo, o sporos kiaušiniškos, 8–9,5 × 5–6,5 µm. Jei ozonijaus nėra, patikimam nustatymui reikia mikroskopo.",
+      "notes": "Rūšies ribos ginčytinos: kai kurie autoriai į šią rūšį įtraukia Coprinellus ellisii ar net Coprinellus radians. Ozonijus ne visada būna, tačiau išlieka ilgiau nei trumpaamžiai vaisiakūniai. 2021 m. Norvegijoje atliktas vertinimas jį priskiria mažiausiai susirūpinimo keliančioms rūšims (Least Concern).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lv": {
+      "description": "Neliela tintene no Eiropas un Ziemeļamerikas, kas aug pa vienai vai nelielās grupās uz trūdošas lapu koku koksnes. Tās kātiņi bieži izaug no vilnaina, oranža līdz rūsganbrūna micēlija paklāja – ozonija –, kas izplešas pa koksni. Tā ir saprotrofa un dažreiz veido augļķermeņus arī telpās uz mitras koksnes, grīdām vai paklājiem.",
+      "cap": "Jaunībā olveida un 1,5–4 cm augsta, vēlāk zvanveida līdz izliekta un 3–7 cm plata. Medus dzeltena līdz okera, ar tumšāku vidu un uz malu bālgana, vecumā kļūst pelēka ar brūnganu vidu. Smalki rievota gandrīz līdz vidum un klāta ar bālganām līdz gaiši brūnām, zvīņainām vai graudainām plīvura atliekām, kas var noberzties.",
+      "hymenium": "Lapiņas pieaugušas līdz brīvas, ciešas, 3–8 mm platas, sākumā krēmbaltas, tad pelēkas un visbeidzot melnas, izkūstošas. Bazīdijas ir četrsporu, 18–34 × 8–9 µm, katru ieskauj 3–6 brahibazidiolas. Pleirocistīdas ir 50–120 × 30–65 µm, bet heilocistīdas 30–100 × 30–60 µm.",
+      "stipe": "4–10 cm garš un 0,4–1 cm resns, cilindrisks, ar nedaudz paresninātu pamatni, kurai var būt makstveida maliņa. Balts, zīdains un dobs, pamatnē dažreiz dzeltenbrūngans, bez gredzena. Parasti izaug no oranža līdz rūsganbrūna, vilnaina ozonija.",
+      "flesh": "Ļoti plāna un trausla, balta; vecumā daļēji izkūst melnā šķidrumā. Smarža un garša nav raksturīgas.",
+      "sporePrint": "Ļoti tumši brūns līdz melns. Sporas ir 6–9 × 3,5–5 µm, elipsoīdas un no sāniem pupiņveida, gludas, ar ekscentrisku dīgļporu līdz 1,2 µm platumā.",
+      "habitat": "Saprotrofa uz atmirušas lapu koku koksnes – celmiem, stumbriem, nokritušiem zariem un stumbru pamatnēm, piemēram, oša, ozola, papeles, kļavas un alkšņa –, kā arī uz šķeldas un apraktas koksnes dārzos un parkos. Ēkās tā parādās uz mitras koksnes pagrabos un jumta konstrukcijās, uz grīdām un vannasistabas paklājiem. Augļķermeņi no marta beigām līdz novembrim, Centrāleiropā galvenokārt aprīlī–jūnijā; Lielbritānijā jūnijā–novembrī.",
+      "uses": "Neēdama; kulinārās vērtības nav.",
+      "confusion": "Arī Coprinellus radians veido ozoniju, taču tai ir lielākas sporas, 8,5–11,5 × 5,5–7 µm. Coprinellus ellisii ir baltāks un blīvāks plīvurs, kātiņa pamatnē gredzenveida vai makstveida sabiezējums un šaurākas sporas, ne platākas par aptuveni 3,7 µm. Coprinellus micaceus parasti aug lielākos puduros, tai ir tumšāka cepurīte ar mirdzošiem, vizlai līdzīgiem graudiņiem, nav ozonija un ir lielākas sporas, 7–10 × 4,5–6 µm. Coprinellus truncorum ir mazāka cepurīte, 1–2,5 cm, zamšakrāsas līdz dzeltenbrūns plīvurs un olveida sporas, 8–9,5 × 5–6,5 µm. Ja ozonija nav, drošai noteikšanai vajadzīgs mikroskops.",
+      "notes": "Sugas robežas ir diskutablas: daži autori šajā sugā iekļauj Coprinellus ellisii vai pat Coprinellus radians. Ozonijs ne vienmēr ir sastopams, taču saglabājas ilgāk nekā īslaicīgie augļķermeņi. Norvēģijā 2021. gadā veikts novērtējums to klasificē kā neapdraudētu (Least Concern).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "nl": {
+      "description": "Een kleine inktzwam van Europa en Noord-Amerika die alleen of in kleine groepjes op vermolmend loofhout groeit. De stelen ontspringen vaak aan een wollige, oranje tot roestbruine myceliummat, het ozonium, die zich over het hout uitbreidt. Hij is saprotroof en vormt soms binnenshuis vruchtlichamen op vochtig hout, vloeren of tapijten.",
+      "cap": "Jong eivormig en 1,5–4 cm hoog, daarna klokvormig tot gewelfd en 3–7 cm breed. Honinggeel tot oker met een donkerder midden en naar de rand toe witachtig, met de leeftijd grijs wordend met een bruinachtig midden. Fijn gegroefd tot bijna aan het midden en bedekt met witachtige tot lichtbruine, schubvormige of korrelige velumresten die kunnen afslijten.",
+      "hymenium": "Lamellen aangehecht tot vrij, dicht opeen, 3–8 mm breed, eerst crèmewit, dan grijs en ten slotte zwart, vervloeiend. De basidiën zijn viersporig, 18–34 × 8–9 µm, elk omgeven door 3–6 brachybasidiolen. Pleurocystiden meten 50–120 × 30–65 µm en cheilocystiden 30–100 × 30–60 µm.",
+      "stipe": "4–10 cm lang en 0,4–1 cm dik, cilindrisch met een iets verdikte voet die een volva-achtige rand kan dragen. Wit, zijdeachtig en hol, aan de voet soms geelbruin, zonder ring. Ontspringt meestal aan een oranje tot roestbruin, wollig ozonium.",
+      "flesh": "Zeer dun en breekbaar, wit; vervloeit met de leeftijd gedeeltelijk zwart. Geur en smaak zijn niet opvallend.",
+      "sporePrint": "Zeer donkerbruin tot zwart. De sporen meten 6–9 × 3,5–5 µm, zijn ellipsoïde en in zijaanzicht boonvormig, glad, met een excentrische kiempore tot 1,2 µm breed.",
+      "habitat": "Saprotroof op dood loofhout – stronken, stammen, afgevallen takken en stambases, bijvoorbeeld van es, eik, populier, esdoorn en els – en op houtsnippers en begraven hout in tuinen en parken. In gebouwen verschijnt hij op vochtig hout in kelders en kappen, op vloeren en op badmatten. Vormt vruchtlichamen van eind maart tot november, in Midden-Europa vooral van april tot juni; in Groot-Brittannië van juni tot november.",
+      "uses": "Oneetbaar; zonder culinaire waarde.",
+      "confusion": "Coprinellus radians vormt ook een ozonium, maar heeft grotere sporen, 8,5–11,5 × 5,5–7 µm. Coprinellus ellisii heeft een witter, dichter velum, een ring- tot volva-achtige verdikking aan de steelvoet en smallere sporen, hooguit ongeveer 3,7 µm breed. Coprinellus micaceus groeit meestal in grotere bundels, heeft een donkerdere hoed met glinsterende, glimmerachtige korreltjes, mist een ozonium en heeft grotere sporen, 7–10 × 4,5–6 µm. Coprinellus truncorum heeft een kleinere hoed, 1–2,5 cm, een zeemkleurig tot geelbruin velum en eivormige sporen van 8–9,5 × 5–6,5 µm. Zonder ozonium is microscopie nodig voor een betrouwbare determinatie.",
+      "notes": "De soortgrenzen zijn omstreden: sommige auteurs rekenen Coprinellus ellisii of zelfs Coprinellus radians tot deze soort. Het ozonium is niet altijd aanwezig, maar blijft langer bestaan dan de kortlevende vruchtlichamen. Een beoordeling uit 2021 in Noorwegen plaatst hem in de categorie niet bedreigd (Least Concern).",
+      "names": [],
+      "sourceUrls": [
+        "https://www.verspreidingsatlas.nl/0026180"
+      ],
+      "label": "Grote viltinktzwam"
+    },
+    "no": {
+      "description": "En liten blekksopp i Europa og Nord-Amerika som vokser enkeltvis eller i små grupper på morken lauvved. Stilkene springer ofte ut fra en ullen, oransje til rustbrun myselmatte, ozoniet, som brer seg utover veden. Den er saprotrof og danner av og til fruktlegemer innendørs på fuktig treverk, gulv eller tepper.",
+      "cap": "Som ung eggformet og 1,5–4 cm høy, deretter klokkeformet til hvelvet og 3–7 cm bred. Honninggul til oker med mørkere midte og hvitaktig mot kanten, med alderen grå med brunaktig midte. Fint furet nesten inn til midten og dekket av hvitaktige til lysebrune, skjellaktige eller kornete velumrester som kan gnis av.",
+      "hymenium": "Skiver tilvokste til frie, tette, 3–8 mm brede, først kremhvite, så grå og til slutt svarte, oppløsende. Basidiene er firesporede, 18–34 × 8–9 µm, hver omgitt av 3–6 brachybasidioler. Pleurocystidene måler 50–120 × 30–65 µm og cheilocystidene 30–100 × 30–60 µm.",
+      "stipe": "4–10 cm lang og 0,4–1 cm tykk, sylindrisk med svakt oppsvulmet basis som kan ha en volvaaktig kant. Hvit, silkeaktig og hul, ved basis iblant gulbrunaktig, uten ring. Springer vanligvis ut fra et oransje til rustbrunt, ullent ozonium.",
+      "flesh": "Svært tynt og skjørt, hvitt; med alderen løses det delvis opp til svart. Lukt og smak er ikke karakteristiske.",
+      "sporePrint": "Svært mørkebrunt til svart. Sporene måler 6–9 × 3,5–5 µm, er ellipsoide og i sideprofil bønneformede, glatte, med en eksentrisk spirepore opptil 1,2 µm bred.",
+      "habitat": "Saprotrof på død lauvved – stubber, stammer, nedfalne greiner og stammebaser, for eksempel av ask, eik, poppel, lønn og or – og på flis og nedgravd treverk i hager og parker. I bygninger opptrer den på fuktig treverk i kjellere og takkonstruksjoner, på gulv og på badetepper. Fruktlegemer fra slutten av mars til november, i Mellom-Europa særlig april–juni; i Storbritannia juni–november.",
+      "uses": "Uspiselig; uten kulinarisk verdi.",
+      "confusion": "Coprinellus radians danner også et ozonium, men har større sporer, 8,5–11,5 × 5,5–7 µm. Coprinellus ellisii har et hvitere, tettere velum, en ring- til volvaaktig fortykkelse ved stilkbasis og smalere sporer, høyst omtrent 3,7 µm brede. Coprinellus micaceus vokser vanligvis i større knipper, har en mørkere hatt med glitrende, glimmeraktige korn, mangler ozonium og har større sporer, 7–10 × 4,5–6 µm. Coprinellus truncorum har en mindre hatt, 1–2,5 cm, et lærfarget til gulbrunt velum og eggformede sporer på 8–9,5 × 5–6,5 µm. Uten ozonium trengs mikroskopi for sikker bestemmelse.",
+      "notes": "Artsavgrensningen er omstridt: noen forfattere regner Coprinellus ellisii eller til og med Coprinellus radians med i denne arten. Ozoniet er ikke alltid til stede, men varer lenger enn de kortlivede fruktlegemene. En vurdering fra 2021 i Norge plasserer den som livskraftig (Least Concern).",
+      "names": [],
+      "sourceUrls": [
+        "https://artsdatabanken.no/arter/takson/37698",
+        "https://lister.artsdatabanken.no/rodlisteforarter/2021/14589"
+      ],
+      "label": "vedblekksopp"
+    },
+    "pl": {
+      "description": "Niewielki grzyb z Europy i Ameryki Północnej, rosnący pojedynczo lub w małych grupach na butwiejącym drewnie drzew liściastych. Jego trzony często wyrastają z wełnistej, pomarańczowej do rdzawobrązowej maty grzybni, ozonium, rozrastającej się po drewnie. Jest saprotrofem i czasem owocnikuje w pomieszczeniach na wilgotnym drewnie, podłogach lub dywanach.",
+      "cap": "Młody jajowaty i wysoki na 1,5–4 cm, potem dzwonkowaty do wypukłego, o średnicy 3–7 cm. Miodowożółty do ochrowego, ze środkiem ciemniejszym i białawy ku brzegowi, z wiekiem szarzeje, a środek pozostaje brązowawy. Delikatnie prążkowany niemal do środka i pokryty białawymi do jasnobrązowych, łuseczkowatymi lub ziarnistymi resztkami osłony, które mogą się ścierać.",
+      "hymenium": "Blaszki przyrośnięte do wolnych, gęste, szerokie na 3–8 mm, początkowo kremowobiałe, potem szare i w końcu czarne, rozpływające się. Podstawki są czterozarodnikowe, 18–34 × 8–9 µm, każda otoczona 3–6 brachybazydiolami. Pleurocystydy mają 50–120 × 30–65 µm, a cheilocystydy 30–100 × 30–60 µm.",
+      "stipe": "Długość 4–10 cm, grubość 0,4–1 cm, walcowaty, z lekko zgrubiałą podstawą, która może mieć pochwowaty brzeżek. Biały, jedwabisty i pusty, u podstawy czasem żółtawobrązowawy, bez pierścienia. Zwykle wyrasta z pomarańczowego do rdzawobrązowego, wełnistego ozonium.",
+      "flesh": "Bardzo cienki i kruchy, biały; z wiekiem częściowo rozpływa się na czarno. Zapach i smak niewyraźne.",
+      "sporePrint": "Bardzo ciemnobrązowy do czarnego. Zarodniki mają 6–9 × 3,5–5 µm, są elipsoidalne, z boku fasolowate, gładkie, z ekscentryczną porą rostkową szeroką do 1,2 µm.",
+      "habitat": "Saprotrof na martwym drewnie drzew liściastych – pniakach, pniach, opadłych gałęziach i u podstawy pni, np. jesionu, dębu, topoli, klonu i olszy – a także na zrębkach i zakopanym drewnie w ogrodach i parkach. W budynkach pojawia się na wilgotnym drewnie w piwnicach i więźbach dachowych, na podłogach i na dywanikach łazienkowych. Owocniki od końca marca do listopada, w Europie Środkowej głównie od kwietnia do czerwca; w Wielkiej Brytanii od czerwca do listopada.",
+      "uses": "Niejadalny; bez wartości kulinarnej.",
+      "confusion": "Coprinellus radians również tworzy ozonium, ale ma większe zarodniki, 8,5–11,5 × 5,5–7 µm. Coprinellus ellisii ma bielszą i gęstszą osłonę, pierścieniowate lub pochwowate zgrubienie u podstawy trzonu i węższe zarodniki, szerokie najwyżej około 3,7 µm. Coprinellus micaceus rośnie zwykle w większych kępach, ma ciemniejszy kapelusz z błyszczącymi, przypominającymi mikę ziarenkami, nie ma ozonium i ma większe zarodniki, 7–10 × 4,5–6 µm. Coprinellus truncorum ma mniejszy kapelusz, 1–2,5 cm, płowożółtą do żółtobrązowej osłonę i jajowate zarodniki o wymiarach 8–9,5 × 5–6,5 µm. Bez ozonium do pewnego oznaczenia potrzebny jest mikroskop.",
+      "notes": "Granice gatunku są sporne: niektórzy autorzy włączają do niego Coprinellus ellisii, a nawet Coprinellus radians. Ozonium nie zawsze jest obecne, ale utrzymuje się dłużej niż krótkotrwałe owocniki. Ocena z 2021 roku w Norwegii zalicza go do gatunków najmniejszej troski (Least Concern).",
+      "names": [
+        "czernidłak podwórzowy",
+        "czernidłak domowy"
+      ],
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/Czernid%C5%82aczek_podw%C3%B3rzowy"
+      ],
+      "label": "czernidłaczek podwórzowy"
+    },
+    "pt": {
+      "description": "Um pequeno coprino da Europa e da América do Norte que cresce isolado ou em pequenos grupos sobre madeira de folhosas em decomposição. Os seus estipes nascem muitas vezes de um tapete micelial lanoso, laranja a castanho-ferrugíneo, o ozónio, que se estende sobre a madeira. É saprotrófico e por vezes frutifica no interior de edifícios sobre madeira húmida, soalhos ou tapetes.",
+      "cap": "Ovoide e com 1,5–4 cm de altura quando jovem, depois campanulado a convexo e com 3–7 cm de largura. Amarelo-mel a ocre, com o centro mais escuro e esbranquiçado para a margem; com a idade torna-se cinzento com o centro acastanhado. Finamente estriado quase até ao centro e coberto de restos do véu esbranquiçados a castanho-pálidos, escamosos ou granulosos, que podem desaparecer.",
+      "hymenium": "Lâminas adnexas a livres, apertadas, com 3–8 mm de largura, primeiro branco-creme, depois cinzentas e por fim negras, deliquescentes. Os basídios são tetraspóricos, 18–34 × 8–9 µm, cada um rodeado por 3–6 braquibasidíolos. Os pleurocistídios medem 50–120 × 30–65 µm e os queilocistídios 30–100 × 30–60 µm.",
+      "stipe": "Com 4–10 cm de comprimento e 0,4–1 cm de espessura, cilíndrico, com a base ligeiramente dilatada, que pode ter um rebordo semelhante a uma volva. Branco, sedoso e oco, por vezes castanho-amarelado na base, sem anel. Nasce geralmente de um ozónio lanoso laranja a castanho-ferrugíneo.",
+      "flesh": "Muito fina e frágil, branca; com a idade liquefaz-se parcialmente em negro. Odor e sabor pouco distintos.",
+      "sporePrint": "Castanho muito escuro a negro. Os esporos medem 6–9 × 3,5–5 µm, são elipsoides e em forma de feijão em vista lateral, lisos, com um poro germinativo excêntrico com até 1,2 µm de largura.",
+      "habitat": "Saprotrófico sobre madeira morta de folhosas — cepos, troncos, ramos caídos e bases de troncos, por exemplo de freixo, carvalho, choupo, bordo e amieiro — e sobre aparas de madeira e madeira enterrada em jardins e parques. Em edifícios aparece sobre madeira húmida em caves e telhados, em soalhos e em tapetes de casa de banho. Frutifica do final de março a novembro, sobretudo de abril a junho na Europa Central; na Grã-Bretanha de junho a novembro.",
+      "uses": "Não comestível; sem valor culinário.",
+      "confusion": "Coprinellus radians também forma ozónio, mas tem esporos maiores, 8,5–11,5 × 5,5–7 µm. Coprinellus ellisii tem um véu mais branco e mais denso, um espessamento anelar ou semelhante a volva na base do estipe e esporos mais estreitos, com no máximo cerca de 3,7 µm de largura. Coprinellus micaceus cresce geralmente em tufos maiores, tem o chapéu mais escuro com grânulos brilhantes semelhantes a mica, não tem ozónio e tem esporos maiores, 7–10 × 4,5–6 µm. Coprinellus truncorum tem um chapéu menor, 1–2,5 cm, um véu camurça a castanho-amarelado e esporos ovoides de 8–9,5 × 5–6,5 µm. Sem ozónio, é necessário o microscópio para uma identificação fiável.",
+      "notes": "Os limites da espécie são discutidos: alguns autores incluem nela Coprinellus ellisii ou mesmo Coprinellus radians. O ozónio nem sempre está presente, mas persiste mais tempo do que os efémeros corpos frutíferos. Uma avaliação de 2021 na Noruega classifica-o como pouco preocupante (Least Concern).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "O ciupercă mică din Europa și America de Nord, care crește solitar sau în grupuri mici pe lemn de foioase în descompunere. Picioarele pornesc adesea dintr-un covor micelian lânos, portocaliu până la brun-ruginiu, ozoniul, care se întinde pe lemn. Este saprotrofă și uneori fructifică în interior pe lemn umed, pardoseli sau covoare.",
+      "cap": "Ovoidală și înaltă de 1,5–4 cm în tinerețe, apoi campanulată până la convexă și lată de 3–7 cm. Galben-miere până la ocru, cu centrul mai închis și albicioasă spre margine; cu vârsta devine cenușie, cu centrul brun. Fin striată aproape până la centru și acoperită cu resturi de văl albicioase până la brun-pal, solzoase sau granulare, care se pot șterge.",
+      "hymenium": "Lamele adnate până la libere, dese, late de 3–8 mm, la început alb-crem, apoi cenușii și în final negre, deliquescente. Basidiile sunt tetrasporice, 18–34 × 8–9 µm, fiecare înconjurată de 3–6 brahibasidiole. Pleurocistidele măsoară 50–120 × 30–65 µm, iar cheilocistidele 30–100 × 30–60 µm.",
+      "stipe": "Lung de 4–10 cm și gros de 0,4–1 cm, cilindric, cu baza ușor îngroșată, care poate purta o bordură asemănătoare unei volve. Alb, mătăsos și gol, uneori brun-gălbui la bază, fără inel. De obicei pornește dintr-un ozoniu lânos portocaliu până la brun-ruginiu.",
+      "flesh": "Foarte subțire și fragilă, albă; cu vârsta se lichefiază parțial în negru. Miros și gust nedistinctive.",
+      "sporePrint": "Brun foarte închis până la negru. Sporii măsoară 6–9 × 3,5–5 µm, sunt elipsoidali și, din profil, în formă de bob de fasole, netezi, cu un por germinativ excentric de până la 1,2 µm lățime.",
+      "habitat": "Saprotrofă pe lemn mort de foioase — cioate, trunchiuri, ramuri căzute și baze de trunchiuri, de exemplu de frasin, stejar, plop, arțar și anin — precum și pe așchii de lemn și lemn îngropat în grădini și parcuri. În clădiri apare pe lemn umed în pivnițe și poduri, pe pardoseli și pe covorașe de baie. Fructifică de la sfârșitul lui martie până în noiembrie, mai ales în aprilie–iunie în Europa Centrală; în Marea Britanie în iunie–noiembrie.",
+      "uses": "Necomestibilă; fără valoare culinară.",
+      "confusion": "Coprinellus radians formează și el un ozoniu, dar are spori mai mari, 8,5–11,5 × 5,5–7 µm. Coprinellus ellisii are un văl mai alb și mai dens, o îngroșare inelară sau asemănătoare unei volve la baza piciorului și spori mai înguști, lați de cel mult circa 3,7 µm. Coprinellus micaceus crește de obicei în tufe mai mari, are pălăria mai închisă la culoare, cu granule strălucitoare ca mica, nu are ozoniu și are spori mai mari, 7–10 × 4,5–6 µm. Coprinellus truncorum are pălăria mai mică, 1–2,5 cm, un văl de culoarea pielii de căprioară până la brun-gălbui și spori ovoidali de 8–9,5 × 5–6,5 µm. În lipsa ozoniului, pentru o identificare sigură este necesar microscopul.",
+      "notes": "Limitele speciei sunt disputate: unii autori includ în ea Coprinellus ellisii sau chiar Coprinellus radians. Ozoniul nu este întotdeauna prezent, dar persistă mai mult decât corpurile fructifere efemere. O evaluare din 2021 în Norvegia o încadrează ca neamenințată (Least Concern).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Небольшой навозник Европы и Северной Америки, растущий поодиночке или небольшими группами на гниющей древесине лиственных пород. Его ножки часто вырастают из шерстистого оранжевого до ржаво-бурого мицелиального войлока — озониума, распространяющегося по древесине. Сапротроф; иногда плодоносит в помещениях на сырой древесине, полах или коврах.",
+      "cap": "В молодости яйцевидная, высотой 1,5–4 cm, затем колокольчатая до выпуклой, шириной 3–7 cm. Медово-жёлтая до охристой, с более тёмным центром и беловатая к краю; с возрастом сереет, центр остаётся буроватым. Тонко бороздчатая почти до центра и покрыта беловатыми до бледно-бурых чешуйчатыми или зернистыми остатками покрывала, которые могут стираться.",
+      "hymenium": "Пластинки приросшие до свободных, частые, шириной 3–8 mm, сначала кремово-белые, затем серые и наконец чёрные, расплывающиеся. Базидии четырёхспоровые, 18–34 × 8–9 µm, каждая окружена 3–6 брахибазидиолами. Плевроцистиды 50–120 × 30–65 µm, хейлоцистиды 30–100 × 30–60 µm.",
+      "stipe": "Длиной 4–10 cm и толщиной 0,4–1 cm, цилиндрическая, со слегка утолщённым основанием, на котором может быть вольвовидный ободок. Белая, шелковистая и полая, у основания иногда желтовато-буроватая, без кольца. Обычно вырастает из оранжевого до ржаво-бурого шерстистого озониума.",
+      "flesh": "Очень тонкая и хрупкая, белая; с возрастом частично расплывается в чёрную массу. Запах и вкус невыраженные.",
+      "sporePrint": "Очень тёмно-бурый до чёрного. Споры 6–9 × 3,5–5 µm, эллипсоидные, сбоку бобовидные, гладкие, с эксцентрической ростковой порой шириной до 1,2 µm.",
+      "habitat": "Сапротроф на мёртвой древесине лиственных пород — пнях, стволах, опавших ветвях и у основания стволов, например ясеня, дуба, тополя, клёна и ольхи, — а также на древесной щепе и погребённой древесине в садах и парках. В зданиях появляется на сырой древесине в подвалах и чердачных конструкциях, на полах и на ковриках в ванной. Плодоносит с конца марта по ноябрь, в Центральной Европе главным образом в апреле–июне; в Великобритании в июне–ноябре.",
+      "uses": "Несъедобен; кулинарной ценности не имеет.",
+      "confusion": "Coprinellus radians тоже образует озониум, но имеет более крупные споры, 8,5–11,5 × 5,5–7 µm. У Coprinellus ellisii покрывало белее и плотнее, у основания ножки кольцевидное или вольвовидное утолщение, а споры уже — не шире примерно 3,7 µm. Coprinellus micaceus обычно растёт более крупными пучками, имеет более тёмную шляпку с блестящими, похожими на слюду крупинками, не образует озониума и имеет более крупные споры, 7–10 × 4,5–6 µm. У Coprinellus truncorum шляпка меньше, 1–2,5 cm, покрывало от палево-коричневатого до желтовато-бурого и яйцевидные споры 8–9,5 × 5–6,5 µm. При отсутствии озониума для надёжного определения нужен микроскоп.",
+      "notes": "Границы вида спорны: некоторые авторы включают в него Coprinellus ellisii или даже Coprinellus radians. Озониум присутствует не всегда, но сохраняется дольше, чем недолговечные плодовые тела. Оценка 2021 года в Норвегии относит его к видам под наименьшей угрозой (Least Concern).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sk": {
+      "description": "Malý hnojník Európy a Severnej Ameriky, ktorý rastie jednotlivo alebo v malých skupinách na rozkladajúcom sa dreve listnáčov. Jeho hlúbiky často vyrastajú z vlnatého oranžového až hrdzavohnedého podhubového povlaku, ozónia, ktorý sa rozrastá po dreve. Je saprotrofný a niekedy plodí aj v interiéri na vlhkom dreve, podlahách alebo kobercoch.",
+      "cap": "V mladosti vajcovitý a vysoký 1,5–4 cm, potom zvoncovitý až vypuklý a široký 3–7 cm. Medovožltý až okrový s tmavším stredom a k okraju belavý, vekom sivne a stred zostáva hnedastý. Jemne ryhovaný takmer po stred a pokrytý belavými až bledohnedými šupinkovitými alebo zrnitými zvyškami plachietky, ktoré sa môžu zotrieť.",
+      "hymenium": "Lupene sú pripojené až voľné, husté, široké 3–8 mm, najprv krémovobiele, potom sivé a nakoniec čierne, roztekajú sa. Bazídiá sú štvorvýtrusné, 18–34 × 8–9 µm, každé obklopené 3–6 brachybazidiolami. Pleurocystidy merajú 50–120 × 30–65 µm a cheilocystidy 30–100 × 30–60 µm.",
+      "stipe": "Dlhý 4–10 cm a hrubý 0,4–1 cm, valcovitý s mierne zhrubnutou bázou, ktorá môže niesť pošvovitý lem. Biely, hodvábny a dutý, na báze niekedy žltohnedastý, bez prsteňa. Zvyčajne vyrastá z oranžového až hrdzavohnedého vlnatého ozónia.",
+      "flesh": "Veľmi tenká a krehká, biela; vekom sa čiastočne rozteká na čierno. Vôňa a chuť sú nevýrazné.",
+      "sporePrint": "Veľmi tmavohnedý až čierny. Výtrusy merajú 6–9 × 3,5–5 µm, sú elipsoidné, z boku fazuľovité, hladké, s excentrickou klíčnou pórou širokou do 1,2 µm.",
+      "habitat": "Saprotrofne na odumretom dreve listnáčov – na pňoch, kmeňoch, spadnutých konároch a pri báze kmeňov, napríklad jaseňa, duba, topoľa, javora a jelše – a na drevných štiepkach a zakopanom dreve v záhradách a parkoch. V budovách sa objavuje na vlhkom dreve v pivniciach a krovoch, na podlahách a na kúpeľňových kobercoch. Plodí od konca marca do novembra, v strednej Európe najmä v apríli až júni; v Británii od júna do novembra.",
+      "uses": "Nejedlý; nemá kulinársku hodnotu.",
+      "confusion": "Coprinellus radians tiež tvorí ozónium, má však väčšie výtrusy, 8,5–11,5 × 5,5–7 µm. Coprinellus ellisii má belšiu a hustejšiu plachietku, prsteňovité alebo pošvovité zhrubnutie na báze hlúbika a užšie výtrusy, široké najviac asi 3,7 µm. Coprinellus micaceus zvyčajne rastie vo väčších trsoch, má tmavší klobúk s lesklými, sľudovitými zrnkami, chýba mu ozónium a má väčšie výtrusy, 7–10 × 4,5–6 µm. Coprinellus truncorum má menší klobúk, 1–2,5 cm, nahnedlú až žltohnedú plachietku a vajcovité výtrusy 8–9,5 × 5–6,5 µm. Bez ozónia je na spoľahlivé určenie potrebný mikroskop.",
+      "notes": "Hranice druhu sú sporné: niektorí autori do neho zahŕňajú Coprinellus ellisii, ba aj Coprinellus radians. Ozónium nie je vždy prítomné, no pretrváva dlhšie ako krátko žijúce plodnice. Hodnotenie z roku 2021 v Nórsku ho radí medzi najmenej ohrozené druhy (Least Concern).",
+      "names": [
+        "hnojník domáci"
+      ],
+      "sourceUrls": [
+        "https://www.nahuby.sk/atlas-hub/Coprinellus-domesticus/hnojnik-okrovy/hnojnik-domaci/ID1171"
+      ],
+      "label": "hnojník okrový"
+    },
+    "sl": {
+      "description": "Majhna goba Evrope in Severne Amerike, ki raste posamič ali v majhnih skupinah na trhlem lesu listavcev. Beti pogosto izraščajo iz volnate, oranžne do rjastorjave podgobne preproge, ozonija, ki se razrašča po lesu. Je saprotrofna in včasih tvori trosnjake tudi v zaprtih prostorih na vlažnem lesu, tleh ali preprogah.",
+      "cap": "V mladosti jajčast in visok 1,5–4 cm, nato zvonast do izbočen in širok 3–7 cm. Medeno rumen do okrast, s temnejšim središčem in proti robu belkast; s starostjo posivi, središče ostane rjavkasto. Drobno progast skoraj do središča in pokrit z belkastimi do bledo rjavimi, luskastimi ali zrnatimi ostanki ovojnice, ki se lahko zbrišejo.",
+      "hymenium": "Lističi so priraščeni do prosti, gosti, široki 3–8 mm, sprva kremasto beli, nato sivi in nazadnje črni, razlivajoči se. Bazidiji so štirispori, 18–34 × 8–9 µm, vsak obdan s 3–6 brahibazidioli. Plevrocistide merijo 50–120 × 30–65 µm, heilocistide pa 30–100 × 30–60 µm.",
+      "stipe": "Dolg 4–10 cm in debel 0,4–1 cm, valjast, z rahlo odebeljeno osnovo, ki ima lahko nožnici podoben rob. Bel, svilnat in votel, ob osnovi včasih rumenkasto rjavkast, brez obročka. Navadno izrašča iz oranžnega do rjastorjavega volnatega ozonija.",
+      "flesh": "Zelo tanko in krhko, belo; s starostjo se delno razlije v črno. Vonj in okus nista značilna.",
+      "sporePrint": "Zelo temno rjav do črn. Trosi merijo 6–9 × 3,5–5 µm, so elipsoidni in s strani fižolasti, gladki, z ekscentrično kalično poro, široko do 1,2 µm.",
+      "habitat": "Saprotrofna na odmrlem lesu listavcev – štorih, deblih, odpadlih vejah in ob vznožju debel, na primer jesena, hrasta, topola, javorja in jelše – ter na lesnih sekancih in zakopanem lesu v vrtovih in parkih. V stavbah se pojavlja na vlažnem lesu v kleteh in ostrešjih, na tleh in na kopalniških preprogah. Trosnjake tvori od konca marca do novembra, v srednji Evropi predvsem od aprila do junija; v Veliki Britaniji od junija do novembra.",
+      "uses": "Neužitna; nima kulinarične vrednosti.",
+      "confusion": "Coprinellus radians prav tako tvori ozonij, vendar ima večje trose, 8,5–11,5 × 5,5–7 µm. Coprinellus ellisii ima belejšo in gostejšo ovojnico, obročkasto ali nožnici podobno odebelitev ob osnovi beta in ožje trose, široke največ okoli 3,7 µm. Coprinellus micaceus navadno raste v večjih šopih, ima temnejši klobuk z bleščečimi, sljudi podobnimi zrnci, nima ozonija in ima večje trose, 7–10 × 4,5–6 µm. Coprinellus truncorum ima manjši klobuk, 1–2,5 cm, usnjeno rjavkasto do rumenkasto rjavo ovojnico in jajčaste trose 8–9,5 × 5–6,5 µm. Brez ozonija je za zanesljivo določitev potreben mikroskop.",
+      "notes": "Meje vrste so sporne: nekateri avtorji vanjo vključujejo Coprinellus ellisii ali celo Coprinellus radians. Ozonij ni vedno prisoten, vendar obstane dlje kot kratkoživi trosnjaki. Ocena iz leta 2021 na Norveškem jo uvršča med najmanj ogrožene (Least Concern).",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gobe.si/Gobe/CoprinellusDomesticus"
+      ],
+      "label": "domači tintovec"
+    },
+    "sr": {
+      "description": "Мала гљива Европе и Северне Америке која расте појединачно или у малим групама на трулом дрвету лишћара. Дршке јој често израстају из вунасте наранџасте до рђастосмеђе мицелијске простирке, озонијума, која се шири по дрвету. Сапротрофна је и понекад плодоноси и у затвореном простору на влажном дрвету, подовима или теписима.",
+      "cap": "У младости јајаст и висок 1,5–4 cm, затим звонаст до испупчен и широк 3–7 cm. Медножут до окераст, са тамнијим средиштем и беличаст према ободу; с годинама посиви, а средиште остаје смеђкасто. Фино избраздан готово до средишта и прекривен беличастим до бледосмеђим, љуспастим или зрнастим остацима велума, који се могу отрти.",
+      "hymenium": "Листићи су прирасли до слободни, густи, широки 3–8 mm, најпре крембели, затим сиви и на крају црни, разливају се. Базидије су четвороспорне, 18–34 × 8–9 µm, свака окружена са 3–6 брахибазидиола. Плеуроцистиде мере 50–120 × 30–65 µm, а хеилоцистиде 30–100 × 30–60 µm.",
+      "stipe": "Дуга 4–10 cm и дебела 0,4–1 cm, ваљкаста, са благо задебљаном основом која може носити волвасти руб. Бела, свиласта и шупља, у основи понекад жућкастосмеђа, без прстена. Обично израста из наранџастог до рђастосмеђег вунастог озонијума.",
+      "flesh": "Веома танко и крхко, бело; с годинама се делимично разлива у црно. Мирис и укус нису карактеристични.",
+      "sporePrint": "Веома тамносмеђ до црн. Споре су 6–9 × 3,5–5 µm, елипсоидне и са стране пасуљасте, глатке, са ексцентричном клицином пором широком до 1,2 µm.",
+      "habitat": "Сапротрофна на мртвом дрвету лишћара – пањевима, стаблима, палим гранама и основама стабала, на пример јасена, храста, тополе, јавора и јове – као и на дрвеној сечки и закопаном дрвету у баштама и парковима. У зградама се јавља на влажном дрвету у подрумима и кровним конструкцијама, на подовима и на купатилским теписима. Плодоноси од краја марта до новембра, у средњој Европи углавном од априла до јуна; у Британији од јуна до новембра.",
+      "uses": "Нејестива; нема кулинарску вредност.",
+      "confusion": "Coprinellus radians такође образује озонијум, али има крупније споре, 8,5–11,5 × 5,5–7 µm. Coprinellus ellisii има белији и гушћи велум, прстенасто или волвасто задебљање у основи дршке и уже споре, широке највише око 3,7 µm. Coprinellus micaceus обично расте у већим бусенима, има тамнији шешир са сјајним зрнцима налик лискуну, нема озонијум и има крупније споре, 7–10 × 4,5–6 µm. Coprinellus truncorum има мањи шешир, 1–2,5 cm, велум боје дивокозе до жућкастосмеђ и јајасте споре од 8–9,5 × 5–6,5 µm. Без озонијума за поуздану идентификацију потребан је микроскоп.",
+      "notes": "Границе врсте су спорне: неки аутори у њу укључују Coprinellus ellisii, па чак и Coprinellus radians. Озонијум није увек присутан, али траје дуже од краткотрајних плодоносних тела. Процена из 2021. у Норвешкој сврстава је у најмање угрожене (Least Concern).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En liten bläcksvamp i Europa och Nordamerika som växer ensam eller i små grupper på murknande lövved. Foten utgår ofta från en ullig, orange till rostbrun mycelmatta, ozoniet, som breder ut sig över veden. Den är saprotrof och bildar ibland fruktkroppar inomhus på fuktigt trä, golv eller mattor.",
+      "cap": "Som ung äggformad och 1,5–4 cm hög, sedan klocklik till välvd och 3–7 cm bred. Honungsgul till ockra med mörkare mitt och vitaktig mot kanten, med åldern grå med brunaktig mitt. Fint fårad nästan till mitten och täckt av vitaktiga till ljusbruna, fjälliga eller korniga hylsterrester som kan nötas bort.",
+      "hymenium": "Skivor tillväxta till fria, täta, 3–8 mm breda, först gräddvita, sedan grå och till sist svarta, upplösande. Basidierna är fyrsporiga, 18–34 × 8–9 µm, var och en omgiven av 3–6 brachybasidioler. Pleurocystiderna mäter 50–120 × 30–65 µm och cheilocystiderna 30–100 × 30–60 µm.",
+      "stipe": "4–10 cm lång och 0,4–1 cm tjock, cylindrisk med något uppsvälld bas som kan bära en volvalik kant. Vit, silkig och ihålig, vid basen ibland gulbrunaktig, utan ring. Utgår vanligen från ett orange till rostbrunt, ulligt ozonium.",
+      "flesh": "Mycket tunt och skört, vitt; med åldern löses det delvis upp till svart. Lukt och smak är inte utmärkande.",
+      "sporePrint": "Mycket mörkbrunt till svart. Sporerna mäter 6–9 × 3,5–5 µm, är ellipsoida och i sidovy bönformade, släta, med en excentrisk groddpor upp till 1,2 µm bred.",
+      "habitat": "Saprotrof på död lövved – stubbar, stammar, nedfallna grenar och stambaser, till exempel av ask, ek, poppel, lönn och al – samt på flis och nedgrävt trä i trädgårdar och parker. I byggnader uppträder den på fuktigt trä i källare och vindar, på golv och på badrumsmattor. Fruktkroppar från slutet av mars till november, i Centraleuropa främst april–juni; i Storbritannien juni–november.",
+      "uses": "Oätlig; saknar kulinariskt värde.",
+      "confusion": "Coprinellus radians bildar också ett ozonium men har större sporer, 8,5–11,5 × 5,5–7 µm. Coprinellus ellisii har ett vitare, tätare hylle, en ring- till volvalik förtjockning vid fotbasen och smalare sporer, högst omkring 3,7 µm breda. Coprinellus micaceus växer vanligen i större tuvor, har en mörkare hatt med glittrande, glimmerlika korn, saknar ozonium och har större sporer, 7–10 × 4,5–6 µm. Coprinellus truncorum har en mindre hatt, 1–2,5 cm, ett läderfärgat till gulbrunt hylle och äggformade sporer på 8–9,5 × 5–6,5 µm. Utan ozonium krävs mikroskopi för en säker bestämning.",
+      "notes": "Artavgränsningen är omdiskuterad: vissa författare inbegriper Coprinellus ellisii eller till och med Coprinellus radians i arten. Ozoniet finns inte alltid men består längre än de kortlivade fruktkropparna. En bedömning från 2021 i Norge klassar den som livskraftig (Least Concern).",
+      "names": [],
+      "sourceUrls": [
+        "https://sv.wikipedia.org/wiki/Vedbl%C3%A4cksvamp"
+      ],
+      "label": "vedbläcksvamp"
+    },
+    "tr": {
+      "description": "Avrupa ve Kuzey Amerika'da çürümekte olan geniş yapraklı ağaç odunu üzerinde tek tek ya da küçük gruplar halinde yetişen küçük bir mürekkep mantarı. Sapları sıklıkla odunun üzerine yayılan yünümsü, turuncudan pas kahverengisine değişen bir miselyum örtüsünden, ozonyumdan çıkar. Saprotrofiktir ve bazen kapalı mekânlarda nemli ahşap, döşeme ya da halılar üzerinde meyve verir.",
+      "cap": "Gençken yumurta biçimli ve 1,5–4 cm yüksekliktedir, sonra çan biçiminden dışbükeye geçer ve 3–7 cm genişliğe ulaşır. Bal sarısından okere değişir, ortası daha koyu, kenara doğru beyazımsıdır; yaşlandıkça grileşir ve ortası kahverengimsi kalır. Neredeyse ortasına kadar ince oluklu olup beyazımsıdan soluk kahverengiye, pul ya da tanecik biçimli, silinebilen örtü kalıntılarıyla kaplıdır.",
+      "hymenium": "Lameller bitişikten serbeste, sık, 3–8 mm genişliğinde, önce krem beyaz, sonra gri ve sonunda siyahtır, eriyerek sıvılaşır. Bazidyumlar dört sporludur, 18–34 × 8–9 µm boyutundadır ve her biri 3–6 brakibazidiyolle çevrilidir. Pleurosistidyumlar 50–120 × 30–65 µm, keilosistidyumlar 30–100 × 30–60 µm ölçülerindedir.",
+      "stipe": "4–10 cm uzunluğunda ve 0,4–1 cm kalınlığında, silindirik, tabanı hafifçe şişkin ve volvaya benzer bir kenar taşıyabilir. Beyaz, ipeksi ve içi boştur, tabanda bazen sarımsı kahverengimsidir, halkası yoktur. Genellikle turuncudan pas kahverengisine değişen yünümsü bir ozonyumdan çıkar.",
+      "flesh": "Çok ince ve kırılgan, beyaz; yaşlandıkça kısmen siyah renkte sıvılaşır. Kokusu ve tadı belirgin değildir.",
+      "sporePrint": "Çok koyu kahverengiden siyaha. Sporlar 6–9 × 3,5–5 µm boyutunda, elipsoit ve yandan fasulye biçimli, düzgün yüzeylidir ve en fazla 1,2 µm genişliğinde eksantrik bir çimlenme poruna sahiptir.",
+      "habitat": "Ölü geniş yapraklı ağaç odunu üzerinde saprotrofiktir: kütükler, gövdeler, düşmüş dallar ve gövde dipleri, örneğin dişbudak, meşe, kavak, akçaağaç ve kızılağaç; ayrıca bahçe ve parklarda odun yongaları ile toprağa gömülü odun üzerinde. Binalarda bodrumlardaki ve çatılardaki nemli ahşapta, döşemelerde ve banyo halılarında görülür. Mart sonundan kasıma kadar meyve verir; Orta Avrupa'da başlıca nisan–haziran, Britanya'da haziran–kasım aylarında.",
+      "uses": "Yenmez; mutfakta değeri yoktur.",
+      "confusion": "Coprinellus radians da ozonyum oluşturur, ancak sporları daha büyüktür, 8,5–11,5 × 5,5–7 µm. Coprinellus ellisii'nin örtüsü daha beyaz ve yoğundur, sap tabanında halka ya da volva benzeri bir kalınlaşma bulunur ve sporları daha dardır, en fazla yaklaşık 3,7 µm genişliktedir. Coprinellus micaceus genellikle daha büyük kümeler halinde yetişir, şapkası daha koyudur ve parlak, mikaya benzeyen taneciklerle kaplıdır, ozonyumu yoktur ve sporları daha büyüktür, 7–10 × 4,5–6 µm. Coprinellus truncorum'un şapkası daha küçüktür, 1–2,5 cm, örtüsü güderi renginden sarımsı kahverengiye değişir ve sporları yumurta biçimli, 8–9,5 × 5–6,5 µm'dir. Ozonyum yoksa güvenilir bir tanımlama için mikroskop gerekir.",
+      "notes": "Türün sınırları tartışmalıdır: bazı yazarlar Coprinellus ellisii'yi, hatta Coprinellus radians'ı bu türe dahil eder. Ozonyum her zaman bulunmaz, ancak kısa ömürlü meyve gövdelerinden daha uzun süre kalır. Norveç'te 2021'de yapılan bir değerlendirme onu Asgari Endişe (Least Concern) kategorisinde sınıflandırır.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Невеликий гнойовик Європи та Північної Америки, що росте поодинці або невеликими групами на гниючій деревині листяних порід. Його ніжки часто виростають із вовнистого помаранчевого до іржаво-бурого міцеліального повсту — озоніуму, що поширюється деревиною. Сапротроф; іноді плодоносить у приміщеннях на вологій деревині, підлогах або килимах.",
+      "cap": "Замолоду яйцеподібний, заввишки 1,5–4 cm, згодом дзвоникоподібний до опуклого, завширшки 3–7 cm. Медово-жовтий до охристого, з темнішим центром і білуватий до краю; з віком сірішає, центр лишається буруватим. Тонко борозенчастий майже до центру і вкритий білуватими до блідо-бурих лускатими або зернистими рештками покривала, які можуть стиратися.",
+      "hymenium": "Пластинки прирослі до вільних, часті, завширшки 3–8 mm, спершу кремово-білі, потім сірі й нарешті чорні, розпливчасті. Базидії чотириспорові, 18–34 × 8–9 µm, кожну оточують 3–6 брахібазидіол. Плевроцистиди 50–120 × 30–65 µm, хейлоцистиди 30–100 × 30–60 µm.",
+      "stipe": "Завдовжки 4–10 cm і завтовшки 0,4–1 cm, циліндрична, з дещо потовщеною основою, на якій може бути вольвоподібний обідок. Біла, шовковиста й порожниста, біля основи іноді жовтувато-бурувата, без кільця. Зазвичай виростає з помаранчевого до іржаво-бурого вовнистого озоніуму.",
+      "flesh": "Дуже тонка й крихка, біла; з віком частково розпливається в чорну масу. Запах і смак невиразні.",
+      "sporePrint": "Дуже темно-бурий до чорного. Спори 6–9 × 3,5–5 µm, еліпсоїдні, збоку бобоподібні, гладенькі, з ексцентричною ростковою порою завширшки до 1,2 µm.",
+      "habitat": "Сапротроф на мертвій деревині листяних порід — пнях, стовбурах, опалих гілках і біля основи стовбурів, наприклад ясена, дуба, тополі, клена й вільхи, — а також на деревній трісці та похованій деревині в садах і парках. У будівлях з'являється на вологій деревині в підвалах і горищних конструкціях, на підлогах і на килимках у ванній. Плодоносить з кінця березня до листопада, у Центральній Європі переважно у квітні–червні; у Великій Британії у червні–листопаді.",
+      "uses": "Неїстівний; кулінарної цінності не має.",
+      "confusion": "Coprinellus radians також утворює озоніум, але має більші спори, 8,5–11,5 × 5,5–7 µm. У Coprinellus ellisii покривало біліше й щільніше, біля основи ніжки кільцеподібне або вольвоподібне потовщення, а спори вужчі — не ширші приблизно за 3,7 µm. Coprinellus micaceus зазвичай росте більшими пучками, має темнішу шапинку з блискучими, схожими на слюду крупинками, не утворює озоніуму і має більші спори, 7–10 × 4,5–6 µm. У Coprinellus truncorum шапинка менша, 1–2,5 cm, покривало від палево-коричнюватого до жовтувато-бурого і яйцеподібні спори 8–9,5 × 5–6,5 µm. За відсутності озоніуму для надійного визначення потрібен мікроскоп.",
+      "notes": "Межі виду дискусійні: деякі автори включають до нього Coprinellus ellisii або навіть Coprinellus radians. Озоніум присутній не завжди, але зберігається довше, ніж недовговічні плодові тіла. Оцінка 2021 року в Норвегії відносить його до видів, що викликають найменше занепокоєння (Least Concern).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "zh": {
+      "description": "一種分布於歐洲與北美洲的小型鬼傘類真菌，單生或小群生於腐朽的闊葉樹木材上。菌柄常自一片在木材上蔓延、羊毛狀、橙色至鏽褐色的菌絲墊（菌絲氈）長出。營腐生生活，有時也在室內潮濕的木材、地板或地毯上產生子實體。",
+      "cap": "幼時卵形，高1.5–4 cm，之後呈鐘形至凸鏡形，寬3–7 cm。蜜黃色至赭色，中央較深，向邊緣漸呈白色；老時轉灰，中央帶褐色。幾乎至中央具細條溝，並覆有白色至淡褐色、鱗片狀或顆粒狀的外菌幕殘片，易脫落。",
+      "hymenium": "菌褶直生至離生，密，寬3–8 mm，初為乳白色，後灰色，最後黑色並自溶液化。擔子具4個孢子，18–34 × 8–9 µm，每個擔子周圍有3–6個短擔子狀細胞（brachybasidiole）。側生囊狀體50–120 × 30–65 µm，緣生囊狀體30–100 × 30–60 µm。",
+      "stipe": "長4–10 cm，粗0.4–1 cm，圓柱形，基部稍膨大，可具類似菌托的邊緣。白色，具絲光，中空，基部有時帶黃褐色，無菌環。通常自橙色至鏽褐色、羊毛狀的菌絲氈長出。",
+      "flesh": "極薄而脆，白色；老時部分液化成黑色。氣味與味道不明顯。",
+      "sporePrint": "極深褐色至黑色。孢子6–9 × 3.5–5 µm，橢圓形，側面觀呈豆形，光滑，具寬至1.2 µm的偏生芽孔。",
+      "habitat": "腐生於闊葉樹枯木上，包括樹樁、倒木、落枝及樹幹基部，例如梣屬、櫟屬、楊屬、槭屬與榿木屬，也生於庭園和公園中的木屑與埋藏的木材上。在建築物中見於地下室與屋頂結構的潮濕木材、地板及浴室地墊上。3月下旬至11月出現，在中歐主要為4–6月；在英國為6–11月。",
+      "uses": "不可食用；無食用價值。",
+      "confusion": "Coprinellus radians也會形成菌絲氈，但孢子較大，8.5–11.5 × 5.5–7 µm。Coprinellus ellisii的外菌幕較白而緻密，柄基具環狀或菌托狀增厚，孢子較窄，寬最多約3.7 µm。Coprinellus micaceus通常形成較大的叢生，菌蓋顏色較深，覆有如雲母般閃亮的顆粒，不形成菌絲氈，孢子較大，7–10 × 4.5–6 µm。Coprinellus truncorum菌蓋較小，1–2.5 cm，外菌幕淡黃褐色至黃褐色，孢子卵形，8–9.5 × 5–6.5 µm。若無菌絲氈，須以顯微鏡檢查才能可靠鑑定。",
+      "notes": "本種的界限仍有爭議：部分學者將Coprinellus ellisii，甚至Coprinellus radians併入本種。菌絲氈並非總是存在，但比短命的子實體保存得更久。2021年挪威的一項評估將其列為無危（Least Concern）。",
+      "names": [],
+      "sourceUrls": []
+    }
+  },
+  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinellus_domesticus/Coprinellus_domesticus@1600.webp",
+  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinellus_domesticus/Coprinellus_domesticus@400.webp",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinellus_domesticus/Coprinellus_domesticus@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinellus_domesticus/Coprinellus_domesticus@400.webp",
+  "plateCredit": {
+    "author": "Unknown; owner-supplied artwork",
+    "credit": "Existing Gemini mark retained once; not authenticated authorship.",
+    "license": "User supplied; redistribution rights not independently established",
+    "source": "supplied_original.png"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinellus_domesticus/cd1.webp",
+      "author": "Bethany Teigen",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/82214581"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinellus_domesticus/cd2.webp",
+      "author": "Tulio Ballari",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/154266676"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinellus_domesticus/cd3.webp",
+      "author": "andrew2285",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/369868560"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinellus_domesticus/cd4.webp",
+      "author": "andrew2285",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/296755050"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinellus_domesticus/cd5.webp",
+      "author": "Robert Simcox",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/26963528"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Agaricales/Psathyrellaceae/Coprinellus_domesticus/Coprinellus_domesticus@1600.webp",
+      "author": "Unknown; owner-supplied artwork",
+      "license": "User supplied; redistribution rights not independently established",
+      "sourceUrl": "supplied_original.png",
+      "existingMark": "Gemini; retained once, no authorship/rights authentication"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Agaricales/Psathyrellaceae/Coprinellus_domesticus/cd1.webp",
+      "author": "Bethany Teigen",
+      "license": "CC0 1.0 Universal",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/82214581",
+      "photoUrl": "https://www.inaturalist.org/photos/134918357",
+      "attribution": "no rights reserved",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Agaricales/Psathyrellaceae/Coprinellus_domesticus/cd2.webp",
+      "author": "Tulio Ballari",
+      "license": "CC0 1.0 Universal",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/154266676",
+      "photoUrl": "https://www.inaturalist.org/photos/266538504",
+      "attribution": "no rights reserved",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Agaricales/Psathyrellaceae/Coprinellus_domesticus/cd3.webp",
+      "author": "andrew2285",
+      "license": "CC0 1.0 Universal",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/369868560",
+      "photoUrl": "https://www.inaturalist.org/photos/675647273",
+      "attribution": "no rights reserved",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Agaricales/Psathyrellaceae/Coprinellus_domesticus/cd4.webp",
+      "author": "andrew2285",
+      "license": "CC0 1.0 Universal",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/296755050",
+      "photoUrl": "https://www.inaturalist.org/photos/534378553",
+      "attribution": "no rights reserved",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Agaricales/Psathyrellaceae/Coprinellus_domesticus/cd5.webp",
+      "author": "Robert Simcox",
+      "license": "CC0 1.0 Universal",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/26963528",
+      "photoUrl": "https://www.inaturalist.org/photos/41904241",
+      "attribution": "no rights reserved",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    }
+  ],
+  "synonyms": [
+    "Agaricus domesticus Bolton",
+    "Coprinus domesticus (Bolton) Gray"
+  ],
+  "fruitingFrom": 3,
+  "fruitingTo": 11,
+  "reserved": false,
+  "id": 141,
+  "added": "2026-11-09",
+  "citation": "in Redhead, Vilgalys, Moncalvo, Johnson & Hopple, Taxon 50(1): 233 (2001)",
+  "illustrationProvenance": {
+    "tool": "Pillow + OpenCV deterministic alpha-only segmentation; no generation",
+    "sourceFile": "Coprinellus domesticus.png",
+    "sourceFormat": "JPEG",
+    "sourceFormatNote": "File named .png is actually JPEG/JFIF (Exif software Picasa); no source alpha; alpha produced by segmentation.",
+    "sourceDimensions": [
+      896,
+      1200
+    ],
+    "sourceSHA256": "42d36211772fd825db312adcbc080b54ff05b2a2b06dff1eea4c39f8ccccf1be",
+    "backgroundSHA256": "d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c",
+    "alphaPNG": "artwork_rgba.png",
+    "mask": "artwork_alpha_mask.png",
+    "cropBBox": [
+      116,
+      167,
+      809,
+      1110
+    ],
+    "uniformScale": 2.0202020202020203,
+    "placement": [
+      100,
+      247
+    ],
+    "composedArtworkDimensions": [
+      1400,
+      1905
+    ],
+    "allSourceRGBChangedPixels": 0,
+    "transparentPixels": 866312,
+    "opaquePixels": 196323,
+    "partialAlphaPixels": 12565,
+    "signatureBox": [
+      703,
+      1055,
+      814,
+      1119
+    ],
+    "signatureComponents": 3,
+    "signaturePixels": 497,
+    "preservedObjects": [
+      "expanded bell-shaped fruit body with full white stipe",
+      "young ochre-orange button with cream veil granules and stipe",
+      "fallen fruit body with dark gills, stipe and debris at stipe base",
+      "existing Gemini mark"
+    ],
+    "signatureTreatment": "Existing Gemini mark retained once; zero added marks. No creator, rights or species identity inferred.",
+    "contours": [
+      {
+        "area": 64204.0,
+        "box": [
+          375,
+          662,
+          433,
+          381
+        ]
+      },
+      {
+        "area": 53587.5,
+        "box": [
+          117,
+          528,
+          210,
+          404
+        ]
+      },
+      {
+        "area": 81776.5,
+        "box": [
+          249,
+          168,
+          412,
+          679
+        ]
+      }
+    ],
+    "backgroundSourceDimensions": [
+      1067,
+      1600
+    ],
+    "backgroundCanvasDimensions": [
+      1600,
+      2400
+    ],
+    "generation": false,
+    "repainting": false,
+    "stretching": false,
+    "sourcePaperRemoved": true,
+    "visualReview": "PASS: full supplied source, real-alpha checker, 2x full-size edge crops and the 1600/400 compositions inspected. Source RGB unchanged (0 changed pixels); all three fruit bodies (expanded cap with full stipe, veil-granulate young button, fallen fruit body with dark gills and debris at stipe base) and the single existing Gemini mark retained; no generation, repainting or stretching. Uniform scale 2.0202; single background, no double frame. Species identity, anatomy and rights unverified.",
+    "alphaPNGSHA256": "6f5dd2b800b66e4fe606c6cdc63cb4093d2a8aaddeeea16cec9f1496937b3b7a",
+    "maskSHA256": "40ba35ef0f6d6f4a3bf4c1c5f99b414b169d76b842711d5c069a0aee85912b44",
+    "recipeSHA256": "5acb739714810adce6dfdba64dcc80670ef6d7e34e6116bdfa80d5e5eb45d601",
+    "officialFiles": [
+      {
+        "path": "media/Coprinellus_domesticus@1600.webp",
+        "bytes": 211834,
+        "sha256": "6ec36ade55c032d4413591b96797459d26f7a609d0912dddf66e363ac6a5c94c"
+      },
+      {
+        "path": "media/Coprinellus_domesticus@400.webp",
+        "bytes": 27806,
+        "sha256": "4172376ce47f3492e477137fc7dd46e8ec8bf8c38a42be2d3b8f455f65fe5108"
+      }
+    ]
+  }
 }
 ];
