@@ -154,6 +154,9 @@ export const TAXA = {
     hu: "kucsmagombafélék",
     pl: "smardzowate"
   },
+  Pezizaceae: {
+    rank: "family"
+  },
   Mycenaceae: {
     rank: "family",
     sk: "prilbičkovité",
@@ -229,6 +232,9 @@ export const TAXA = {
   Morchella: {
     rank: "genus",
     sk: "smrčok"
+  },
+  Peziza: {
+    rank: "genus"
   },
   Pleurotus: {
     rank: "genus",
