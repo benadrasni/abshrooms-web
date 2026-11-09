@@ -50,7 +50,8 @@ export const TAXA = {
   Cantharellales: {
     rank: "order",
     lv: "gaileņu rinda",
-    sk: "kuriatkotvaré"
+    sk: "kuriatkotvaré",
+    pl: "pieprznikowce"
   },
   Pezizales: {
     rank: "order",
@@ -219,7 +220,9 @@ export const TAXA = {
   },
   Cantharellus: {
     rank: "genus",
-    sk: "kuriatko"
+    sk: "kuriatko",
+    cs: "liška",
+    pl: "pieprznik"
   },
   Craterellus: {
     rank: "genus",
@@ -888,5 +891,16 @@ export const TAXA = {
   Pluteus: {
     rank: "genus",
     sk: "štítovka"
+  },
+  Omphalotaceae: {
+    rank: "family",
+    cs: "hlívovníkovité",
+    fr: "omphalotacées",
+    pl: "kielichowcowate"
+  },
+  Omphalotus: {
+    rank: "genus",
+    sk: "kališník",
+    pl: "kielichowiec"
   }
 };

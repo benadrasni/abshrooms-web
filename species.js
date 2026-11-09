@@ -144581,5 +144581,3343 @@ export const CATALOG = [
     "rights": "User supplied; creator, generator, authorship and redistribution rights unverified",
     "anatomyVerified": false
   }
+},
+{
+  "name": "Amanita caesarea",
+  "author": "(Scop.) Pers.",
+  "family": "Amanitaceae",
+  "genus": "Amanita",
+  "order": "Agaricales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Agaricales",
+    "Amanitaceae",
+    "Amanita"
+  ],
+  "summary": [
+    "Agaricales",
+    "Amanitaceae",
+    "Amanita"
+  ],
+  "edibility": "choice",
+  "hymenium": "gills",
+  "where": [
+    "ground"
+  ],
+  "color": [
+    "red",
+    "yellow",
+    "white"
+  ],
+  "capFrom": 8.0,
+  "capTo": 20.0,
+  "stipeHeightFrom": 8.0,
+  "stipeHeightTo": 15.0,
+  "stipeThickFrom": 2.0,
+  "stipeThickTo": 3.0,
+  "label": {
+    "ar": "Amanita caesarea",
+    "bg": "булка",
+    "cs": "muchomůrka císařka",
+    "da": "kejser-fluesvamp",
+    "de": "Kaiserling",
+    "en": "Caesar's mushroom",
+    "es": "oronja",
+    "et": "Caesari kärbseseen",
+    "fa": "قارچ قیصر",
+    "fi": "keisarikärpässieni",
+    "fr": "amanite des Césars",
+    "he": "Amanita caesarea",
+    "hi": "Amanita caesarea",
+    "hr": "blagva",
+    "hu": "császárgalóca",
+    "id": "jamur caesar",
+    "it": "ovolo buono",
+    "ja": "セイヨウタマゴタケ",
+    "ko": "Amanita caesarea",
+    "lt": "karališkoji musmirė",
+    "lv": "cēzarmušmire",
+    "nl": "keizersamaniet",
+    "no": "keiserfluesopp",
+    "pl": "muchomor cesarski",
+    "pt": "ovo-de-rei",
+    "ro": "burete domnesc",
+    "ru": "цезарский гриб",
+    "sk": "muchotrávka cisárska",
+    "sl": "knežja mušnica",
+    "sr": "благва",
+    "sv": "kejsarflugsvamp",
+    "tr": "Amanita caesarea",
+    "uk": "мухомор Цезаря",
+    "zh": "橙蓋鵝膏"
+  },
+  "names": {
+    "ar": [],
+    "bg": [
+      "булка гъба"
+    ],
+    "cs": [
+      "muchomůrka císařská"
+    ],
+    "da": [],
+    "de": [
+      "Kaiserpilz",
+      "Orangegelber Wulstling"
+    ],
+    "en": [
+      "Caesar's amanita"
+    ],
+    "es": [
+      "amanita de los césares",
+      "yema de huevo",
+      "huevo de rey"
+    ],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [
+      "oronge",
+      "oronge vraie"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "császárgomba"
+    ],
+    "id": [],
+    "it": [
+      "ovolo reale"
+    ],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [
+      "laranjinha"
+    ],
+    "ro": [
+      "crăiță"
+    ],
+    "ru": [
+      "мухомор цезарский"
+    ],
+    "sk": [],
+    "sl": [],
+    "sr": [
+      "јајчара"
+    ],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": [
+      "橙蓋鵝膏菌"
+    ]
+  },
+  "sources": {
+    "ar": [],
+    "bg": [
+      "https://bg.wikipedia.org/wiki/Булка_(гъба)",
+      "https://www.gbif.org/species/5240269"
+    ],
+    "cs": [
+      "https://www.myko.cz/clanek326/",
+      "https://cs.wikipedia.org/wiki/Muchomůrka_císařka",
+      "https://www.gbif.org/species/5240269"
+    ],
+    "da": [
+      "https://www.gbif.org/species/5240269",
+      "https://commons.wikimedia.org/wiki/File:Amanita_caesarea.JPG"
+    ],
+    "de": [
+      "https://www.gbif.org/species/5240269",
+      "https://de.wikipedia.org/wiki/Kaiserling",
+      "https://gd.eppo.int/taxon/AMANCS"
+    ],
+    "en": [
+      "https://en.wikipedia.org/wiki/Amanita_caesarea",
+      "https://www.nahuby.sk/atlas-hub/Amanita-caesarea/muchotravka-cisarska/muchomurka-cisarka/ID285",
+      "https://www.myko.cz/clanek326/",
+      "https://www.ohoubach.cz/atlas-hub/detail/39/",
+      "https://kderostouhouby.cz/en/atlas/muchomurka-cisarka",
+      "https://lt.wikipedia.org/wiki/Karališkoji_musmirė",
+      "https://sv.wikipedia.org/wiki/Amanita_caesarea",
+      "https://www.monaconatureencyclopedia.com/amanita-caesarea/?lang=en",
+      "https://redlist.info/iucn/species_view/208468/",
+      "http://www.amanitaceae.org/content/uploaded/legacy/caesarea.html",
+      "https://de.wikipedia.org/wiki/Kaiserling",
+      "https://hu.wikipedia.org/wiki/Császárgalóca",
+      "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=208468",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=208468",
+      "https://www.gbif.org/species/5240269"
+    ],
+    "es": [
+      "https://www.gbif.org/species/5240269",
+      "https://gd.eppo.int/taxon/AMANCS",
+      "https://es.wikipedia.org/wiki/Amanita_caesarea"
+    ],
+    "et": [
+      "https://www.gbif.org/species/5240269"
+    ],
+    "fa": [
+      "https://fa.wikipedia.org/wiki/قارچ_قیصر"
+    ],
+    "fi": [
+      "https://fi.wikipedia.org/wiki/Keisarikärpässieni",
+      "https://www.wikidata.org/wiki/Q220662"
+    ],
+    "fr": [
+      "https://www.gbif.org/species/5240269",
+      "https://gd.eppo.int/taxon/AMANCS",
+      "https://fr.wikipedia.org/wiki/Oronge"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [
+      "https://hr.wikipedia.org/wiki/Blagva",
+      "https://www.gbif.org/species/5240269"
+    ],
+    "hu": [
+      "https://hu.wikipedia.org/wiki/Császárgalóca",
+      "https://www.gbif.org/species/5240269"
+    ],
+    "id": [
+      "https://id.wikipedia.org/wiki/Amanita_caesarea"
+    ],
+    "it": [
+      "https://www.gbif.org/species/5240269",
+      "https://gd.eppo.int/taxon/AMANCS",
+      "https://it.wikipedia.org/wiki/Amanita_caesarea"
+    ],
+    "ja": [
+      "https://www.gbif.org/species/5240269",
+      "https://ja.wikipedia.org/wiki/セイヨウタマゴタケ"
+    ],
+    "ko": [],
+    "lt": [
+      "https://lt.wikipedia.org/wiki/Karališkoji_musmirė",
+      "https://www.gbif.org/species/5240269"
+    ],
+    "lv": [
+      "https://lv.wikipedia.org/wiki/Mušmiru_dzimta"
+    ],
+    "nl": [
+      "https://www.gbif.org/species/5240269",
+      "https://commons.wikimedia.org/wiki/File:Amanita_caesarea.JPG"
+    ],
+    "no": [
+      "https://snl.no/keiserfluesopp",
+      "https://www.wikidata.org/wiki/Q220662"
+    ],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/Muchomor_cesarski",
+      "https://www.gbif.org/species/5240269"
+    ],
+    "pt": [
+      "https://pt.wikipedia.org/wiki/Amanita_caesarea",
+      "https://www.gbif.org/species/5240269"
+    ],
+    "ro": [
+      "https://ro.wikipedia.org/wiki/Amanita_caesarea",
+      "https://www.wikidata.org/wiki/Q220662"
+    ],
+    "ru": [
+      "https://ru.wikipedia.org/wiki/Цезарский_гриб",
+      "https://gd.eppo.int/taxon/AMANCS",
+      "https://www.gbif.org/species/5240269"
+    ],
+    "sk": [
+      "https://www.nahuby.sk/atlas-hub/Amanita-caesarea/muchotravka-cisarska/muchomurka-cisarka/ID285"
+    ],
+    "sl": [
+      "https://sl.wikipedia.org/wiki/Knežja_mušnica",
+      "https://www.gbif.org/species/5240269"
+    ],
+    "sr": [
+      "https://www.gbif.org/species/5240269",
+      "https://sr.wikipedia.org/wiki/Јајчара"
+    ],
+    "sv": [
+      "https://sv.wikipedia.org/wiki/Amanita_caesarea",
+      "https://commons.wikimedia.org/wiki/File:Amanita_caesarea.JPG"
+    ],
+    "tr": [],
+    "uk": [
+      "https://www.gbif.org/species/5240269",
+      "https://uk.wikipedia.org/wiki/Мухомор_Цезаря"
+    ],
+    "zh": [
+      "https://www.gbif.org/species/5240269",
+      "https://zh.wikipedia.org/wiki/橙盖鹅膏菌",
+      "https://kib.cas.cn/kxcb/kxtp/201606/t20160627_4628071.html"
+    ]
+  },
+  "text": {
+    "ar": {
+      "description": "فطر كبير لافت للنظر، قبعته ملساء برتقالية حمراء وصفائحه صفراء وساقه صفراء تحمل حلقة متدلية، ويرتفع من كيس أبيض سميك عند القاعدة. يفقس من بيضة بيضاء، وهو نوع محب للدفء في جنوب أوروبا وشمال أفريقيا، نادر ومتفرق شمال جبال الألب.",
+      "cap": "يبلغ قطر القبعة ٨–٢٠ cm، وتكون في البداية بيضوية مختبئة داخل الغلاف الأبيض، ثم نصف كروية فمحدبة وأخيراً مسطحة. سطحها أملس لامع ولزج قليلاً عند الرطوبة، برتقالي زاهٍ إلى برتقالي أحمر، يبهت نحو الحافة إلى الأصفر الذهبي، وغالباً ما يكون عارياً، ونادراً ما يحمل بقية أو بقيتين كبيرتين بيضاوين من الغلاف. الحافة مخططة بوضوح.",
+      "hymenium": "الصفائح حرة متقاربة وعريضة، صفراء باهتة في البداية ثم صفراء ذهبية عميقة.",
+      "stipe": "يبلغ طول الساق ٨–١٥ cm وسمكها ٢–٣ cm، وهي أسطوانية صفراء إلى صفراء ذهبية، ملساء أو زغبية رقيقة، وتصبح جوفاء مع التقدم في العمر. تحمل حلقة صفراء كبيرة متدلية غشائية مخططة على وجهها العلوي، وتستقر قاعدتها في فولفا بيضاء سميكة مفصصة كيسية الشكل منفصلة عن الساق.",
+      "flesh": "بيضاء، صفراء ذهبية تحت جلد القبعة وسطح الساق مباشرة، لا يتغير لونها عند القطع. الرائحة خفيفة ومستحبة، وتصبح كريهة في الأجسام الثمرية المسنة.",
+      "sporePrint": "طبعة الأبواغ بيضاء. الأبواغ إهليلجية، ملساء، شفافة، غير أميلويدية، ٩–١٣ × ٦–٨٫٥ µm.",
+      "habitat": "يكوّن جذوراً فطرية خارجية مع البلوط وأشجار عريضة الأوراق أخرى، ولا سيما الكستناء الحلوة والزان، وأحياناً مع الصنوبريات. ينمو منفرداً أو في مجموعات صغيرة في الغابات الدافئة الجافة المشمسة وعلى أطرافها وفي الفسحات، وغالباً على المنحدرات الجنوبية والتربة الرملية الحمضية، ولا يثمر إلا بعد فترات طويلة من حر الصيف يعقبها مطر. يظهر من يوليو إلى أكتوبر.",
+      "uses": "صالح للأكل وممتاز، يُقدَّر منذ العصر الروماني، لكنه للجامعين المتمرسين فقط. لا تقطف إلا الأجسام الثمرية المتفتحة تماماً التي تكون صفائحها وساقها وحلقتها صفراء بوضوح. البيوض المغلقة خطرة: فهي من الخارج تشبه بيوض Amanita phalloides القاتل وأنواع Amanita البيضاء القاتلة الأخرى، وقد تسبب هذا الخلط في حالات تسمم مميتة.",
+      "confusion": "لدى Amanita muscaria صفائح بيضاء وساق وحلقة بيضاوان، وبصلة تحيط بها أحزمة من بقايا الغلاف بدلاً من كيس حر، وعادة ثآليل بيضاء على القبعة قد يغسلها المطر. أما Amanita crocea فبلا حلقة وصفائحه مبيضة. ولدى Amanita phalloides القاتل قبعة مخضرة إلى مبيضة وصفائح بيضاء وحلقة بيضاء؛ وعند قطع بيضته طولياً تكون بيضاء من الداخل، بينما تُظهر بيضة هذا النوع قبعة صفراء برتقالية.",
+      "notes": "مدرج في القوائم الحمراء لكثير من البلدان الأوروبية ومنقرض في بولندا، لكنه مصنف عالمياً ضمن الأنواع غير المهددة. أنواع برتقالية مشابهة من أمريكا الشمالية وشرق آسيا، سُجلت سابقاً بهذا الاسم، تُعد اليوم أنواعاً مستقلة.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Голяма, ефектна гъба с гладка оранжевочервена шапка, жълти пластинки и жълто пънче с висящ пръстен, което израства от дебела бяла торбичка в основата. Излюпва се от бяло яйце и е топлолюбив вид от Южна Европа и Северна Африка, на север от Алпите рядък и пръснат.",
+      "cap": "Шапката е с диаметър 8–20 cm, отначало яйцевидна и скрита в бялото було, после полукълбеста, изпъкнала и накрая плоска. Повърхността е гладка, лъскава и при влага леко лепкава, ярко оранжева до оранжевочервена, към ръба избледнява до златистожълта, обикновено гола, рядко с едно или две големи бели парчета от булото. Ръбът е ясно набразден.",
+      "hymenium": "Пластинките са свободни, гъсти и широки, отначало бледожълти, после наситено златистожълти.",
+      "stipe": "Пънчето е дълго 8–15 cm и дебело 2–3 cm, цилиндрично, жълто до златистожълто, гладко или фино люспесто, с възрастта кухо. Носи голям, висящ, ципест жълт пръстен, набразден отгоре, а основата му стои в дебела, лопатеста, бяла торбовидна волва, свободно отделена от пънчето.",
+      "flesh": "Бяло, точно под кожицата на шапката и повърхността на пънчето златистожълто, при разрязване не променя цвета си. Мирисът е слаб и приятен, при старите плодни тела неприятен.",
+      "sporePrint": "Спорите на маса са бели. Спорите са елипсовидни, гладки, хиалинни и неамилоидни, 9–13 × 6–8,5 µm.",
+      "habitat": "Образува ектомикориза с дъбове и други широколистни дървета, особено с ядлив кестен и бук, а понякога и с иглолистни. Расте единично или на малки групи в топли, сухи и слънчеви гори, по горски окрайнини и поляни, често по южни склонове и кисели песъчливи почви, и плододава едва след дълги периоди на лятна жега, последвани от дъжд. Появява се от юли до октомври.",
+      "uses": "Отлична ядлива гъба, ценена още от римско време, но само за опитни гъбари. Берете само напълно разтворени плодни тела, чиито пластинки, пънче и пръстен са ясно жълти. Неразтворените яйца са опасни: отвън приличат на яйцата на смъртоносната Amanita phalloides и на други смъртоносни бели видове от род Amanita, а това объркване вече е причинявало смъртоносни отравяния.",
+      "confusion": "Amanita muscaria има бели пластинки, бяло пънче и пръстен, вместо свободна торбичка грудка с пояси от остатъци на булото и обикновено бели брадавички по шапката, които дъждът може да отмие. Amanita crocea няма пръстен и има белезникави пластинки. Смъртоносната Amanita phalloides има зеленикава до белезникава шапка, бели пластинки и бял пръстен; разрязано надлъж, яйцето ѝ е бяло отвътре, докато яйцето на този вид показва жълтооранжева шапка.",
+      "notes": "Включена е в червените списъци на много европейски страни и е изчезнала в Полша, но в световен мащаб е оценена като незастрашена. Сходни оранжеви видове от Северна Америка и Източна Азия, някога съобщавани под това име, днес се смятат за отделни видове.",
+      "names": [
+        "булка гъба"
+      ],
+      "sourceUrls": [
+        "https://bg.wikipedia.org/wiki/Булка_(гъба)",
+        "https://www.gbif.org/species/5240269"
+      ],
+      "label": "булка"
+    },
+    "cs": {
+      "description": "Velká, nápadná houba s hladkým oranžově červeným kloboukem, žlutými lupeny a žlutým třeněm s visícím prstenem, který vyrůstá z tlusté bílé pochvy na bázi. Líhne se z bílého vajíčka a je to teplomilný druh jižní Evropy a severní Afriky, na sever od Alp vzácný a roztroušený.",
+      "cap": "Klobouk má 8–20 cm v průměru, nejprve je vejčitý, ukrytý v bílé plachetce, pak polokulovitý, klenutý a nakonec plochý. Povrch je hladký, lesklý, za vlhka slabě lepkavý, zářivě oranžový až oranžově červený, k okraji přecházející do zlatožluté, obvykle lysý, jen vzácně s jedním či dvěma velkými bílými zbytky plachetky. Okraj je zřetelně rýhovaný.",
+      "hymenium": "Lupeny jsou volné, husté a široké, nejprve bledě žluté, pak sytě zlatožluté.",
+      "stipe": "Třeň je 8–15 cm dlouhý a 2–3 cm tlustý, válcovitý, žlutý až zlatožlutý, hladký nebo jemně vločkatý, stářím dutý. Nese velký, visící, blanitý žlutý prsten, na horní straně rýhovaný, a jeho báze vězí v tlusté, laločnaté, bílé vakovité pochvě, která volně odstává od třeně.",
+      "flesh": "Bílá, těsně pod pokožkou klobouku a třeně zlatožlutá, na řezu nemění barvu. Vůně je slabá a příjemná, u starých plodnic nepříjemná.",
+      "sporePrint": "Výtrusný prach bílý. Výtrusy jsou elipsoidní, hladké, hyalinní a neamyloidní, 9–13 × 6–8,5 µm.",
+      "habitat": "Ektomykorhizní houba dubů a jiných listnáčů, zejména kaštanovníku jedlého a buku, příležitostně i jehličnanů. Roste jednotlivě nebo v malých skupinách v teplých, suchých a slunných lesích, na okrajích lesů a na pasekách, často na jižních svazích a kyselých písčitých půdách, a plodnice tvoří až po dlouhých obdobích letních veder následovaných deštěm. Roste od července do října.",
+      "uses": "Výborná jedlá houba, ceněná už od římských dob, ale jen pro zkušené houbaře. Sbírejte pouze zcela rozevřené plodnice, které mají lupeny, třeň i prsten zřetelně žluté. Neotevřená vajíčka jsou nebezpečná: zvenku se podobají vajíčkům smrtelně jedovaté Amanita phalloides a dalších smrtelně jedovatých bílých druhů rodu Amanita a tato záměna už způsobila smrtelné otravy.",
+      "confusion": "Amanita muscaria má bílé lupeny, bílý třeň a prsten, místo volné pochvy hlízu s pásy zbytků plachetky a na klobouku obvykle bílé bradavky, které může smýt déšť. Amanita crocea nemá prsten a má bělavé lupeny. Smrtelně jedovatá Amanita phalloides má nazelenalý až bělavý klobouk, bílé lupeny a bílý prsten; její vajíčko je po podélném rozříznutí uvnitř bílé, zatímco vajíčko tohoto druhu ukazuje žlutooranžový klobouk.",
+      "notes": "Je zařazena do červených seznamů mnoha evropských zemí a v Polsku vyhynula, celosvětově je však hodnocena jako málo dotčená. Podobné oranžové druhy ze Severní Ameriky a východní Asie, dříve uváděné pod tímto jménem, se dnes považují za samostatné druhy.",
+      "names": [
+        "muchomůrka císařská"
+      ],
+      "sourceUrls": [
+        "https://www.myko.cz/clanek326/",
+        "https://cs.wikipedia.org/wiki/Muchomůrka_císařka",
+        "https://www.gbif.org/species/5240269"
+      ],
+      "label": "muchomůrka císařka"
+    },
+    "da": {
+      "description": "En stor, iøjnefaldende svamp med glat orangerød hat, gule lameller og gul stok med hængende ring, der vokser op af en tyk hvid sæk ved basis. Den klækkes af et hvidt æg og er en varmeelskende art i Sydeuropa og Nordafrika, sjælden og spredt nord for Alperne.",
+      "cap": "Hatten er 8–20 cm bred, først ægformet og skjult i det hvide hylster, siden halvkugleformet, hvælvet og til sidst flad. Overfladen er glat, skinnende og lidt klæbrig i fugtigt vejr, klart orange til orangerød, mod randen blegnende til gyldengul, som regel nøgen, sjældent med en eller to store hvide hylsterrester. Randen er tydeligt riflet.",
+      "hymenium": "Lamellerne er frie, tætte og brede, først blegt gule, siden dybt gyldengule.",
+      "stipe": "Stokken er 8–15 cm lang og 2–3 cm tyk, cylindrisk, gul til gyldengul, glat eller fint fnugget og bliver hul med alderen. Den bærer en stor, hængende, hindeagtig gul ring, der er riflet på oversiden, og basis sidder i en tyk, fliget, hvid sækformet volva, der står fri af stokken.",
+      "flesh": "Hvidt, gyldengult lige under hathuden og stokkens overflade, uforanderligt i snit. Lugten er svag og behagelig, ubehagelig hos gamle frugtlegemer.",
+      "sporePrint": "Sporefarve hvid. Sporerne er ellipsoide, glatte, hyaline og inamyloide, 9–13 × 6–8,5 µm.",
+      "habitat": "Danner mykorrhiza med eg og andre løvtræer, især ægte kastanje og bøg, af og til også med nåletræer. Den vokser enkeltvis eller i små grupper i varme, tørre og solrige skove, i skovbryn og lysninger, ofte på sydvendte skråninger og sur, sandet jord, og danner først frugtlegemer efter lange perioder med sommervarme efterfulgt af regn. Den forekommer fra juli til oktober.",
+      "uses": "Fremragende spisesvamp, værdsat siden romertiden, men kun for erfarne svampesamlere. Saml kun helt åbne frugtlegemer, hvis lameller, stok og ring alle er tydeligt gule. Uåbnede æg er farlige: udefra ligner de æggene af den dødeligt giftige Amanita phalloides og andre dødeligt giftige hvide Amanita-arter, og denne forveksling har forårsaget dødelige forgiftninger.",
+      "confusion": "Amanita muscaria har hvide lameller, hvid stok og ring, en knold med bælter af hylsterrester i stedet for en fri sæk og som regel hvide vorter på hatten, som regn kan vaske af. Amanita crocea mangler ring og har hvidlige lameller. Den dødeligt giftige Amanita phalloides har grønlig til hvidlig hat, hvide lameller og hvid ring; skåret på langs er dens æg hvidt indvendig, mens ægget hos denne art viser en gulorange hat.",
+      "notes": "Rødlistet i mange europæiske lande og uddød i Polen, men globalt vurderet som ikke truet. Lignende orange arter fra Nordamerika og Østasien, der tidligere blev ført under dette navn, regnes i dag som selvstændige arter.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/5240269",
+        "https://commons.wikimedia.org/wiki/File:Amanita_caesarea.JPG"
+      ],
+      "label": "kejser-fluesvamp"
+    },
+    "de": {
+      "description": "Ein großer, auffälliger Pilz mit glattem, orangerotem Hut, gelben Lamellen und gelbem Stiel mit hängendem Ring, der aus einer dicken weißen Hülle an der Basis wächst. Er schlüpft aus einem weißen Ei und ist eine wärmeliebende Art Südeuropas und Nordafrikas, nördlich der Alpen selten und zerstreut.",
+      "cap": "Der Hut ist 8–20 cm breit, zuerst eiförmig in der weißen Hülle verborgen, dann halbkugelig, gewölbt und schließlich flach. Die Oberfläche ist glatt, glänzend und feucht etwas klebrig, leuchtend orange bis orangerot, zum Rand hin goldgelb verblassend und meist kahl, nur selten mit ein oder zwei großen weißen Hüllresten. Der Rand ist deutlich gerieft.",
+      "hymenium": "Die Lamellen sind frei, gedrängt und breit, zuerst blassgelb, dann kräftig goldgelb.",
+      "stipe": "Der Stiel ist 8–15 cm lang und 2–3 cm dick, zylindrisch, gelb bis goldgelb, glatt oder fein flockig und im Alter hohl. Er trägt einen großen, hängenden, häutigen gelben Ring, der oberseits gerieft ist, und seine Basis steckt in einer dicken, gelappten, weißen sackartigen Volva, die frei vom Stiel absteht.",
+      "flesh": "Weiß, direkt unter der Huthaut und der Stieloberfläche goldgelb, im Schnitt nicht verfärbend. Der Geruch ist schwach und angenehm, bei alten Fruchtkörpern unangenehm.",
+      "sporePrint": "Sporenpulver weiß. Die Sporen sind ellipsoid, glatt, hyalin und inamyloid, 9–13 × 6–8,5 µm.",
+      "habitat": "Mykorrhizapilz von Eichen und anderen Laubbäumen, besonders Edelkastanie und Buche, gelegentlich auch von Nadelbäumen. Er wächst einzeln oder in kleinen Gruppen in warmen, trockenen, sonnigen Wäldern, an Waldrändern und auf Lichtungen, oft an Südhängen und auf sauren Sandböden, und fruchtet erst nach langen sommerlichen Hitzeperioden mit anschließendem Regen. Er erscheint von Juli bis Oktober.",
+      "uses": "Ausgezeichneter Speisepilz, seit der Römerzeit geschätzt, aber nur für erfahrene Sammler. Sammeln Sie nur voll geöffnete Fruchtkörper, deren Lamellen, Stiel und Ring alle deutlich gelb sind. Ungeöffnete Eier sind gefährlich: Von außen gleichen sie den Eiern der tödlich giftigen Amanita phalloides und anderer tödlich giftiger weißer Amanita-Arten, und diese Verwechslung hat schon tödliche Vergiftungen verursacht.",
+      "confusion": "Amanita muscaria hat weiße Lamellen, einen weißen Stiel und Ring, statt einer freien Hülle eine Knolle mit gürtelartigen Hüllresten und meist weiße Warzen auf dem Hut, die der Regen abwaschen kann. Amanita crocea hat keinen Ring und weißliche Lamellen. Die tödlich giftige Amanita phalloides hat einen grünlichen bis weißlichen Hut, weiße Lamellen und einen weißen Ring; längs durchgeschnitten ist ihr Ei innen weiß, während das Ei dieser Art einen gelborangen Hut zeigt.",
+      "notes": "In vielen europäischen Ländern auf der Roten Liste und in Polen ausgestorben, weltweit jedoch als nicht gefährdet eingestuft. Ähnliche orange Arten aus Nordamerika und Ostasien, früher unter diesem Namen geführt, gelten heute als eigene Arten.",
+      "names": [
+        "Kaiserpilz",
+        "Orangegelber Wulstling"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/5240269",
+        "https://de.wikipedia.org/wiki/Kaiserling",
+        "https://gd.eppo.int/taxon/AMANCS"
+      ],
+      "label": "Kaiserling"
+    },
+    "en": {
+      "description": "A large, showy mushroom with a smooth orange-red cap, yellow gills and a yellow stem with a hanging ring, rising from a thick white sac at the base. It hatches from a white egg and is a warmth-loving species of southern Europe and North Africa, rare and scattered north of the Alps.",
+      "cap": "The cap is 8–20 cm across, at first egg-shaped inside the white veil, then hemispherical, convex and finally flat. The surface is smooth, shiny and slightly sticky when wet, bright orange to orange-red, fading to golden yellow towards the margin, and usually bare, rarely with one or two large white veil patches. The margin is clearly striate.",
+      "hymenium": "The gills are free, crowded and broad, pale yellow at first and then deep golden yellow.",
+      "stipe": "The stipe is 8–15 cm long and 2–3 cm thick, cylindrical, yellow to golden yellow, smooth or finely floccose, and becomes hollow with age. It bears a large, hanging, membranous yellow ring that is striate on the upper side, and its base sits in a thick, lobed, white sac-like volva that stands free of the stem.",
+      "flesh": "White, golden yellow just beneath the cap and stem surface, and not changing colour when cut. The smell is faint and pleasant, becoming unpleasant in old fruit bodies.",
+      "sporePrint": "Spore deposit white. Spores are ellipsoid, smooth, hyaline and inamyloid, 9–13 × 6–8.5 µm.",
+      "habitat": "Ectomycorrhizal with oaks and other broadleaf trees, especially sweet chestnut and beech, and occasionally with conifers. It grows singly or in small groups in warm, dry, sunny woodland, at woodland edges and in clearings, often on south-facing slopes and acidic sandy soils, and fruits only after long spells of summer heat followed by rain. It appears from July to October.",
+      "uses": "Choice edible, prized since Roman times, but only for experienced collectors. Pick only fully opened fruit bodies whose gills, stem and ring are all clearly yellow. Unopened eggs are dangerous: from outside they look like the eggs of the deadly Amanita phalloides and other deadly white Amanita species, and this confusion has caused fatal poisonings.",
+      "confusion": "Amanita muscaria has white gills, a white stem and ring, a bulb ringed with veil remnants instead of a free sac, and usually white warts on the cap, which rain can wash off. Amanita crocea has no ring and whitish gills. The deadly Amanita phalloides has a greenish to whitish cap, white gills and a white ring; cut lengthwise, its egg is white inside, whereas the egg of this species shows a yellow-orange cap.",
+      "notes": "Red-listed in many European countries and extinct in Poland, but assessed globally as Least Concern. Similar orange species from North America and East Asia, once recorded under this name, are now treated as separate species.",
+      "names": [
+        "Caesar's amanita"
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/wiki/Amanita_caesarea",
+        "https://www.nahuby.sk/atlas-hub/Amanita-caesarea/muchotravka-cisarska/muchomurka-cisarka/ID285",
+        "https://www.myko.cz/clanek326/",
+        "https://www.ohoubach.cz/atlas-hub/detail/39/",
+        "https://kderostouhouby.cz/en/atlas/muchomurka-cisarka",
+        "https://lt.wikipedia.org/wiki/Karališkoji_musmirė",
+        "https://sv.wikipedia.org/wiki/Amanita_caesarea",
+        "https://www.monaconatureencyclopedia.com/amanita-caesarea/?lang=en",
+        "https://redlist.info/iucn/species_view/208468/",
+        "http://www.amanitaceae.org/content/uploaded/legacy/caesarea.html",
+        "https://de.wikipedia.org/wiki/Kaiserling",
+        "https://hu.wikipedia.org/wiki/Császárgalóca",
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=208468",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=208468",
+        "https://www.gbif.org/species/5240269"
+      ],
+      "label": "Caesar's mushroom"
+    },
+    "es": {
+      "description": "Una seta grande y vistosa con sombrero liso rojo anaranjado, láminas amarillas y pie amarillo con anillo colgante, que nace de un grueso saco blanco en la base. Eclosiona de un huevo blanco y es una especie termófila del sur de Europa y del norte de África, rara y dispersa al norte de los Alpes.",
+      "cap": "El sombrero mide 8–20 cm de diámetro, primero ovoide y oculto en el velo blanco, luego hemisférico, convexo y finalmente plano. La superficie es lisa, brillante y algo viscosa con humedad, naranja vivo a rojo anaranjado, palideciendo a amarillo dorado hacia el margen, por lo general desnuda, rara vez con una o dos grandes placas blancas de velo. El margen es claramente estriado.",
+      "hymenium": "Las láminas son libres, apretadas y anchas, primero amarillo pálido y luego amarillo dorado intenso.",
+      "stipe": "El pie mide 8–15 cm de largo y 2–3 cm de grosor, es cilíndrico, amarillo a amarillo dorado, liso o finamente flocoso, y se vuelve hueco con la edad. Lleva un gran anillo amarillo membranoso y colgante, estriado en la cara superior, y su base se asienta en una volva gruesa, lobulada, blanca y en forma de saco, libre del pie.",
+      "flesh": "Blanca, amarillo dorado justo bajo la cutícula del sombrero y la superficie del pie, inmutable al corte. El olor es débil y agradable, desagradable en los ejemplares viejos.",
+      "sporePrint": "Esporada blanca. Esporas elipsoides, lisas, hialinas y no amiloides, 9–13 × 6–8,5 µm.",
+      "habitat": "Ectomicorrícica con robles y otros árboles de hoja ancha, sobre todo castaño y haya, y ocasionalmente con coníferas. Crece aislada o en pequeños grupos en bosques cálidos, secos y soleados, en lindes y claros, a menudo en laderas orientadas al sur y en suelos arenosos ácidos, y solo fructifica tras largos periodos de calor estival seguidos de lluvia. Aparece de julio a octubre.",
+      "uses": "Comestible excelente, apreciada desde la época romana, pero solo para recolectores experimentados. Recoja únicamente ejemplares totalmente abiertos cuyas láminas, pie y anillo sean claramente amarillos. Los huevos cerrados son peligrosos: por fuera se parecen a los huevos de la mortal Amanita phalloides y de otras especies blancas mortales del género Amanita, y esta confusión ha causado intoxicaciones mortales.",
+      "confusion": "Amanita muscaria tiene láminas blancas, pie y anillo blancos, un bulbo con anillos de restos de velo en lugar de un saco libre y, por lo general, verrugas blancas en el sombrero que la lluvia puede eliminar. Amanita crocea no tiene anillo y sus láminas son blanquecinas. La mortal Amanita phalloides tiene el sombrero verdoso a blanquecino, láminas blancas y anillo blanco; cortado a lo largo, su huevo es blanco por dentro, mientras que el huevo de esta especie muestra un sombrero amarillo anaranjado.",
+      "notes": "Figura en las listas rojas de muchos países europeos y se ha extinguido en Polonia, pero a escala mundial se considera de preocupación menor. Especies anaranjadas similares de Norteamérica y Asia oriental, antes citadas con este nombre, se consideran hoy especies distintas.",
+      "names": [
+        "amanita de los césares",
+        "yema de huevo",
+        "huevo de rey"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/5240269",
+        "https://gd.eppo.int/taxon/AMANCS",
+        "https://es.wikipedia.org/wiki/Amanita_caesarea"
+      ],
+      "label": "oronja"
+    },
+    "et": {
+      "description": "Suur ja silmapaistev seen sileda oranžikaspunase kübara, kollaste eoslehtede ja rippuva rõngaga kollase jalaga, mis kasvab välja jalusel olevast paksust valgest tupest. See koorub valgest munast ning on Lõuna-Euroopa ja Põhja-Aafrika soojalembene liik, Alpidest põhja pool haruldane ja hajus.",
+      "cap": "Kübar on 8–20 cm lai, algul munajas ja valge katte sees peidus, siis poolkerajas, kumer ja lõpuks lame. Pind on sile, läikiv ja niiskelt veidi kleepuv, erkoranž kuni oranžikaspunane, serva poole kuldkollaseks tuhmuv, tavaliselt paljas, harva ühe-kahe suure valge katte jäänusega. Serv on selgelt vagune.",
+      "hymenium": "Eoslehed on vabad, tihedad ja laiad, algul kahvatukollased, hiljem sügavalt kuldkollased.",
+      "stipe": "Jalg on 8–15 cm pikk ja 2–3 cm jäme, silindriline, kollane kuni kuldkollane, sile või peenelt helbeline, vanalt õõnes. Sellel on suur, rippuv, kilejas kollane rõngas, mis on pealt vagune, ja jala alus istub paksus, hõlmisas, valges kotitaolises tupes, mis jalast vabalt eemale hoiab.",
+      "flesh": "Valge, otse kübaranaha ja jala pinna all kuldkollane, lõikel värvi ei muuda. Lõhn nõrk ja meeldiv, vanadel viljakehadel ebameeldiv.",
+      "sporePrint": "Eoslevi valge. Eosed on ellipsoidsed, siledad, hüaliinsed ja mitteamüloidsed, 9–13 × 6–8,5 µm.",
+      "habitat": "Moodustab ektomükoriisat tammede ja teiste lehtpuudega, eriti harilikku kastani ja pöögiga, mõnikord ka okaspuudega. Kasvab üksikult või väikeste rühmadena soojades, kuivades ja päikesepaistelistes metsades, metsaservadel ja raiesmikel, sageli lõunanõlvadel ja happelisel liivasel pinnasel, ning viljub alles pärast pikki suvise kuumuse perioode, millele järgneb vihm. Esineb juulist oktoobrini.",
+      "uses": "Suurepärane söögiseen, hinnatud juba Rooma ajast, kuid ainult kogenud korjajatele. Korjake ainult täielikult avanenud viljakehi, mille eoslehed, jalg ja rõngas on kõik selgelt kollased. Avanemata munad on ohtlikud: väljastpoolt sarnanevad need surmavalt mürgise Amanita phalloides ja teiste surmavalt mürgiste valgete Amanita perekonna liikide munadega ning selline segiajamine on juba põhjustanud surmaga lõppenud mürgistusi.",
+      "confusion": "Amanita muscaria eoslehed, jalg ja rõngas on valged, vaba tupe asemel on mugul katte jäänuste vöödega ning kübaral tavaliselt valged tüükad, mida vihm võib maha uhtuda. Amanita crocea on rõngata ja valkjate eoslehtedega. Surmavalt mürgise Amanita phalloides kübar on rohekas kuni valkjas, eoslehed ja rõngas valged; pikuti läbi lõigatuna on tema muna seest valge, selle liigi munas aga paistab kollakasoranž kübar.",
+      "notes": "Kantud paljude Euroopa riikide punastesse nimestikesse ja Poolas välja surnud, kuid ülemaailmselt hinnatud soodsas seisundis olevaks. Sarnased oranžid liigid Põhja-Ameerikast ja Ida-Aasiast, keda varem selle nime all märgiti, loetakse nüüd eraldi liikideks.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/5240269"
+      ],
+      "label": "Caesari kärbseseen"
+    },
+    "fa": {
+      "description": "قارچی بزرگ و چشمگیر با کلاهک صاف نارنجی‌قرمز، تیغه‌های زرد و پایه‌ای زرد با حلقه‌ای آویزان که از کیسه‌ای سفید و ضخیم در قاعده سر برمی‌آورد. از تخمی سفید بیرون می‌آید و گونه‌ای گرمادوست در جنوب اروپا و شمال آفریقاست که در شمال کوه‌های آلپ کمیاب و پراکنده است.",
+      "cap": "کلاهک ۸–۲۰ cm قطر دارد؛ ابتدا تخم‌مرغی و پنهان در پوشش سفید است، سپس نیم‌کروی، محدب و سرانجام صاف می‌شود. سطح آن صاف، براق و در رطوبت کمی چسبناک است، نارنجی روشن تا نارنجی‌قرمز، که به سوی لبه به زرد طلایی کم‌رنگ می‌شود، معمولاً برهنه و به‌ندرت با یک یا دو بقایای بزرگ سفید از پوشش. لبه آشکارا شیاردار است.",
+      "hymenium": "تیغه‌ها آزاد، فشرده و پهن‌اند، ابتدا زرد کم‌رنگ و سپس زرد طلایی پررنگ.",
+      "stipe": "پایه ۸–۱۵ cm بلند و ۲–۳ cm ضخیم، استوانه‌ای، زرد تا زرد طلایی، صاف یا با پرزهای ریز است و با افزایش سن توخالی می‌شود. حلقه‌ای بزرگ، آویزان، غشایی و زرد دارد که رویه‌ی بالایی آن شیاردار است و قاعده‌اش در ولوای سفید، ضخیم، لوب‌دار و کیسه‌مانندی نشسته که آزادانه از پایه جداست.",
+      "flesh": "سفید، درست زیر پوست کلاهک و سطح پایه زرد طلایی، و در برش تغییر رنگ نمی‌دهد. بو ضعیف و مطبوع است و در اندام‌های بارده پیر نامطبوع می‌شود.",
+      "sporePrint": "اثر هاگ سفید. هاگ‌ها بیضوی، صاف، شفاف و غیرآمیلوئیدند، ۹–۱۳ × ۶–۸٫۵ µm.",
+      "habitat": "با بلوط‌ها و دیگر درختان پهن‌برگ، به‌ویژه شاه‌بلوط خوراکی و راش، و گاهی با سوزنی‌برگان قارچ‌ریشه‌ی بیرونی می‌سازد. به‌تنهایی یا در گروه‌های کوچک در جنگل‌های گرم، خشک و آفتابی، در حاشیه‌ی جنگل و فضاهای باز، اغلب در شیب‌های جنوبی و خاک‌های شنی اسیدی می‌روید و تنها پس از دوره‌های طولانی گرمای تابستان که باران در پی دارند بار می‌دهد. از ژوئیه تا اکتبر دیده می‌شود.",
+      "uses": "خوراکی عالی که از دوران روم ارج نهاده شده، اما فقط برای جمع‌آوران باتجربه. تنها اندام‌های بارده‌ی کاملاً بازشده‌ای را بچینید که تیغه‌ها، پایه و حلقه‌ی آن‌ها همگی آشکارا زرد باشند. تخم‌های بسته خطرناک‌اند: از بیرون به تخم‌های Amanita phalloides کشنده و دیگر گونه‌های سفید کشنده‌ی Amanita شبیه‌اند و این اشتباه تاکنون مسمومیت‌های مرگبار به بار آورده است.",
+      "confusion": "Amanita muscaria تیغه‌های سفید، پایه و حلقه‌ی سفید، به جای کیسه‌ی آزاد پیازی با کمربندهایی از بقایای پوشش و معمولاً زگیل‌های سفید روی کلاهک دارد که باران می‌تواند آن‌ها را بشوید. Amanita crocea حلقه ندارد و تیغه‌هایش سفیدفام است. Amanita phalloides کشنده کلاهکی سبزفام تا سفیدفام، تیغه‌های سفید و حلقه‌ی سفید دارد؛ در برش طولی تخمش از درون سفید است، در حالی که تخم این گونه کلاهکی زرد‌نارنجی نشان می‌دهد.",
+      "notes": "در فهرست‌های سرخ بسیاری از کشورهای اروپایی آمده و در لهستان منقرض شده است، اما در سطح جهانی کم‌نگرانی ارزیابی شده است. گونه‌های نارنجی مشابه از آمریکای شمالی و شرق آسیا که پیش‌تر با این نام ثبت می‌شدند، اکنون گونه‌های جداگانه به شمار می‌روند.",
+      "names": [],
+      "sourceUrls": [
+        "https://fa.wikipedia.org/wiki/قارچ_قیصر"
+      ],
+      "label": "قارچ قیصر"
+    },
+    "fi": {
+      "description": "Suuri ja näyttävä sieni, jolla on sileä oranssinpunainen lakki, keltaiset heltat ja keltainen jalka, jossa on riippuva rengas, ja joka kasvaa tyven paksusta valkoisesta tupesta. Se kuoriutuu valkoisesta munasta ja on Etelä-Euroopan ja Pohjois-Afrikan lämpöä suosiva laji, Alppien pohjoispuolella harvinainen ja hajanainen.",
+      "cap": "Lakki on 8–20 cm leveä, aluksi munamainen ja valkoisen suojuksen kätkemä, sitten puolipallomainen, kupera ja lopulta tasainen. Pinta on sileä, kiiltävä ja kosteana hieman tahmea, kirkkaan oranssi tai oranssinpunainen, reunaa kohti kullankeltaiseksi haalistuva, yleensä paljas, harvoin yhden tai kahden suuren valkoisen suojusjäänteen peittämä. Reuna on selvästi uurteinen.",
+      "hymenium": "Heltat ovat vapaat, tiheät ja leveät, aluksi vaaleankeltaiset, sitten syvän kullankeltaiset.",
+      "stipe": "Jalka on 8–15 cm pitkä ja 2–3 cm paksu, lieriömäinen, keltainen tai kullankeltainen, sileä tai hienosti hiutaleinen ja vanhana ontto. Siinä on suuri, riippuva, kalvomainen keltainen rengas, jonka yläpinta on uurteinen, ja sen tyvi on paksussa, liuskaisessa, valkoisessa pussimaisessa tupessa, joka erottuu vapaasti jalasta.",
+      "flesh": "Valkoinen, aivan lakin pintakalvon ja jalan pinnan alla kullankeltainen, ei muuta väriä leikattaessa. Tuoksu on heikko ja miellyttävä, vanhoissa itiöemissä epämiellyttävä.",
+      "sporePrint": "Itiöjauhe valkoinen. Itiöt ovat ellipsoidisia, sileitä, hyaliineja ja amyloidittomia, 9–13 × 6–8,5 µm.",
+      "habitat": "Muodostaa sienijuuren tammien ja muiden lehtipuiden, erityisesti jalokastanjan ja pyökin, joskus myös havupuiden kanssa. Kasvaa yksittäin tai pieninä ryhminä lämpimissä, kuivissa ja aurinkoisissa metsissä, metsänreunoilla ja aukioilla, usein etelärinteillä ja happamilla hiekkamailla, ja tuottaa itiöemiä vasta pitkien kesähelteiden jälkeen, kun niitä seuraa sade. Sitä tavataan heinäkuusta lokakuuhun.",
+      "uses": "Erinomainen ruokasieni, arvostettu jo Rooman ajoista, mutta vain kokeneille sienestäjille. Kerää vain täysin avautuneita itiöemiä, joiden heltat, jalka ja rengas ovat kaikki selvästi keltaiset. Avautumattomat munat ovat vaarallisia: ulkoa ne muistuttavat tappavan myrkyllisen Amanita phalloides -lajin ja muiden tappavan myrkyllisten valkoisten Amanita-lajien munia, ja tämä sekaannus on jo aiheuttanut kuolemaan johtaneita myrkytyksiä.",
+      "confusion": "Amanita muscaria -lajilla on valkoiset heltat, valkoinen jalka ja rengas, vapaan tupen sijaan mukula, jota kiertävät suojusjäänteiden vyöt, ja lakissa yleensä valkoisia syyliä, jotka sade voi huuhtoa pois. Amanita crocea -lajilla ei ole rengasta ja sen heltat ovat valkeahkot. Tappavan myrkyllisellä Amanita phalloides -lajilla on vihertävä tai valkeahko lakki, valkoiset heltat ja valkoinen rengas; pituussuunnassa halkaistuna sen muna on sisältä valkoinen, kun taas tämän lajin munassa näkyy kellertävän oranssi lakki.",
+      "notes": "Laji on monien Euroopan maiden punaisilla listoilla ja hävinnyt Puolasta, mutta maailmanlaajuisesti se on arvioitu elinvoimaiseksi. Samankaltaisia oransseja lajeja Pohjois-Amerikasta ja Itä-Aasiasta, joita aiemmin kirjattiin tällä nimellä, pidetään nykyään erillisinä lajeina.",
+      "names": [],
+      "sourceUrls": [
+        "https://fi.wikipedia.org/wiki/Keisarikärpässieni",
+        "https://www.wikidata.org/wiki/Q220662"
+      ],
+      "label": "keisarikärpässieni"
+    },
+    "fr": {
+      "description": "Un grand champignon spectaculaire au chapeau lisse rouge orangé, aux lames jaunes et au pied jaune muni d’un anneau pendant, qui sort d’un épais sac blanc à la base. Il éclot d’un œuf blanc et c’est une espèce thermophile d’Europe du Sud et d’Afrique du Nord, rare et dispersée au nord des Alpes.",
+      "cap": "Le chapeau mesure 8–20 cm de diamètre, d’abord ovoïde, caché dans le voile blanc, puis hémisphérique, convexe et enfin plat. La surface est lisse, brillante et un peu visqueuse par temps humide, orange vif à rouge orangé, pâlissant en jaune doré vers la marge, généralement nue, rarement avec une ou deux grandes plaques blanches de voile. La marge est nettement striée.",
+      "hymenium": "Les lames sont libres, serrées et larges, d’abord jaune pâle puis jaune d’or soutenu.",
+      "stipe": "Le pied mesure 8–15 cm de long et 2–3 cm d’épaisseur ; il est cylindrique, jaune à jaune d’or, lisse ou finement floconneux, et devient creux avec l’âge. Il porte un grand anneau jaune membraneux et pendant, strié sur la face supérieure, et sa base est enfoncée dans une volve épaisse, lobée, blanche en forme de sac, libre du pied.",
+      "flesh": "Blanche, jaune d’or juste sous la cuticule du chapeau et la surface du pied, immuable à la coupe. L’odeur est faible et agréable, désagréable chez les vieux exemplaires.",
+      "sporePrint": "Sporée blanche. Spores ellipsoïdes, lisses, hyalines et non amyloïdes, 9–13 × 6–8,5 µm.",
+      "habitat": "Ectomycorhizien des chênes et d’autres feuillus, surtout du châtaignier et du hêtre, parfois aussi des conifères. Il pousse isolé ou en petits groupes dans les bois chauds, secs et ensoleillés, en lisière et dans les clairières, souvent sur les versants exposés au sud et sur sols sableux acides, et ne fructifie qu’après de longues périodes de chaleur estivale suivies de pluie. Il apparaît de juillet à octobre.",
+      "uses": "Excellent comestible, apprécié depuis l’époque romaine, mais réservé aux cueilleurs expérimentés. Ne récoltez que des exemplaires entièrement ouverts dont les lames, le pied et l’anneau sont tous nettement jaunes. Les œufs encore fermés sont dangereux : vus de l’extérieur, ils ressemblent aux œufs de la mortelle Amanita phalloides et d’autres espèces blanches mortelles du genre Amanita, et cette confusion a déjà causé des intoxications mortelles.",
+      "confusion": "Amanita muscaria a des lames blanches, un pied et un anneau blancs, un bulbe ceint de restes de voile au lieu d’un sac libre, et généralement des verrues blanches sur le chapeau, que la pluie peut emporter. Amanita crocea n’a pas d’anneau et a des lames blanchâtres. La mortelle Amanita phalloides a un chapeau verdâtre à blanchâtre, des lames blanches et un anneau blanc ; coupé dans la longueur, son œuf est blanc à l’intérieur, alors que l’œuf de cette espèce montre un chapeau jaune orangé.",
+      "notes": "Inscrite sur les listes rouges de nombreux pays européens et éteinte en Pologne, elle est pourtant évaluée à l’échelle mondiale comme préoccupation mineure. Des espèces orange semblables d’Amérique du Nord et d’Asie de l’Est, autrefois signalées sous ce nom, sont aujourd’hui considérées comme des espèces distinctes.",
+      "names": [
+        "oronge",
+        "oronge vraie"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/5240269",
+        "https://gd.eppo.int/taxon/AMANCS",
+        "https://fr.wikipedia.org/wiki/Oronge"
+      ],
+      "label": "amanite des Césars"
+    },
+    "he": {
+      "description": "פטרייה גדולה ובולטת בעלת כובע חלק אדום־כתום, למלים צהובות ורגל צהובה עם טבעת תלויה, הצומחת מתוך שק לבן ועבה בבסיסה. היא בוקעת מביצה לבנה והיא מין חובב חום של דרום אירופה וצפון אפריקה, נדיר ופזור מצפון להרי האלפים.",
+      "cap": "קוטר הכובע 8–20 cm; בתחילה הוא ביצי ומוסתר בתוך המעטה הלבן, אחר כך חצי־כדורי, קמור ולבסוף שטוח. פני הכובע חלקים, מבריקים ומעט דביקים בלחות, כתומים עזים עד אדומים־כתומים, דוהים לצהוב־זהוב לכיוון השוליים, לרוב חשופים ורק לעתים רחוקות עם שארית מעטה לבנה גדולה אחת או שתיים. השוליים מחורצים בבירור.",
+      "hymenium": "הלמלים חופשיות, צפופות ורחבות, בתחילה צהובות־חיוורות ואחר כך צהובות־זהובות עזות.",
+      "stipe": "אורך הרגל 8–15 cm ועוביה 2–3 cm; היא גלילית, צהובה עד צהובה־זהובה, חלקה או פתיתית דקות, ונעשית חלולה עם הגיל. עליה טבעת צהובה גדולה, תלויה וקרומית, מחורצת בצדה העליון, ובסיסה נתון בוולווה לבנה עבה, אונתית ושקית, הפרודה מהרגל.",
+      "flesh": "לבן, צהוב־זהוב ממש מתחת לעור הכובע ולפני הרגל, אינו משנה צבע בחיתוך. הריח חלש ונעים, ובגופי פרי זקנים אינו נעים.",
+      "sporePrint": "אבקת הנבגים לבנה. הנבגים אליפסואידיים, חלקים, שקופים ולא עמילואידיים, 9–13 × 6–8.5 µm.",
+      "habitat": "יוצרת אקטומיקוריזה עם אלונים ועצים רחבי עלים אחרים, בייחוד ערמון אכיל ואשור, ולעתים גם עם מחטניים. גדלה בודדת או בקבוצות קטנות ביערות חמים, יבשים ושטופי שמש, בשולי יערות ובקרחות, לעתים קרובות במדרונות דרומיים ובקרקע חולית חומצית, ומניבה גופי פרי רק לאחר תקופות ארוכות של חום קיצי שאחריהן גשם. מופיעה מיולי עד אוקטובר.",
+      "uses": "מאכל מעולה, מוערך עוד מימי רומא, אך רק לאוספים מנוסים. יש לקטוף רק גופי פרי שנפתחו לגמרי, שהלמלים, הרגל והטבעת שלהם צהובים בבירור. ביצים סגורות מסוכנות: מבחוץ הן דומות לביצים של Amanita phalloides הקטלנית ושל מיני Amanita לבנים קטלניים אחרים, ובלבול זה כבר גרם להרעלות קטלניות.",
+      "confusion": "ל־Amanita muscaria למלים לבנות, רגל וטבעת לבנות, פקעת עם חגורות של שאריות מעטה במקום שק חופשי, ולרוב יבלות לבנות על הכובע שהגשם עלול לשטוף. ל־Amanita crocea אין טבעת והלמלים שלה לבנבנות. ל־Amanita phalloides הקטלנית כובע ירקרק עד לבנבן, למלים לבנות וטבעת לבנה; בחיתוך לאורך הביצה שלה לבנה מבפנים, ואילו בביצה של מין זה נראה כובע צהוב־כתום.",
+      "notes": "רשומה ברשימות האדומות של מדינות אירופיות רבות ונכחדה בפולין, אך ברמה העולמית היא מוערכת כבסיכון מזערי. מינים כתומים דומים מצפון אמריקה וממזרח אסיה, שנרשמו בעבר בשם זה, נחשבים כיום למינים נפרדים.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "एक बड़ा, आकर्षक मशरूम, जिसकी टोपी चिकनी नारंगी-लाल, गिल पीले और तना पीला होता है, जिस पर लटकता हुआ छल्ला होता है, और जो आधार पर मोटी सफ़ेद थैली से उगता है। यह सफ़ेद अंडे से निकलता है और दक्षिणी यूरोप तथा उत्तरी अफ़्रीका की गर्मी-प्रिय प्रजाति है, आल्प्स के उत्तर में दुर्लभ और बिखरी हुई।",
+      "cap": "टोपी 8–20 cm चौड़ी होती है, पहले अंडाकार और सफ़ेद आवरण के भीतर छिपी, फिर अर्धगोलाकार, उत्तल और अंत में चपटी। सतह चिकनी, चमकदार और नमी में थोड़ी चिपचिपी, चटक नारंगी से नारंगी-लाल, किनारे की ओर सुनहरे पीले में फीकी, आमतौर पर नंगी, कभी-कभार एक-दो बड़े सफ़ेद आवरण-अवशेषों के साथ। किनारा स्पष्ट रूप से धारीदार होता है।",
+      "hymenium": "गिल मुक्त, घने और चौड़े होते हैं, पहले हल्के पीले और फिर गहरे सुनहरे पीले।",
+      "stipe": "तना 8–15 cm लंबा और 2–3 cm मोटा, बेलनाकार, पीले से सुनहरे पीले रंग का, चिकना या बारीक रोएँदार होता है और उम्र के साथ खोखला हो जाता है। इस पर एक बड़ा, लटकता, झिल्लीदार पीला छल्ला होता है जो ऊपरी तरफ़ धारीदार है, और इसका आधार एक मोटे, पालिदार, सफ़ेद थैलीनुमा वोल्वा में बैठा रहता है जो तने से अलग खड़ा रहता है।",
+      "flesh": "सफ़ेद, टोपी की त्वचा और तने की सतह के ठीक नीचे सुनहरा पीला, काटने पर रंग नहीं बदलता। गंध हल्की और सुखद होती है, पुराने फलन-पिंडों में अप्रिय।",
+      "sporePrint": "बीजाणु छाप सफ़ेद। बीजाणु दीर्घवृत्ताकार, चिकने, पारदर्शी और अमाइलॉइड-रहित, 9–13 × 6–8.5 µm।",
+      "habitat": "ओक और अन्य चौड़ी पत्ती वाले पेड़ों, विशेषकर मीठे चेस्टनट और बीच, और कभी-कभी शंकुधारी पेड़ों के साथ एक्टोमाइकोराइज़ा बनाता है। यह गर्म, सूखे और धूप वाले वनों, वन-किनारों और खुले स्थानों में, अक्सर दक्षिणमुखी ढलानों और अम्लीय रेतीली मिट्टी पर, अकेले या छोटे समूहों में उगता है, और केवल लंबी गर्मियों की तपिश के बाद होने वाली बारिश के बाद फलता है। यह जुलाई से अक्टूबर तक दिखाई देता है।",
+      "uses": "उत्कृष्ट खाद्य मशरूम, रोमन काल से सराहा गया, लेकिन केवल अनुभवी संग्राहकों के लिए। केवल पूरी तरह खुले फलन-पिंड ही तोड़ें, जिनके गिल, तना और छल्ला सभी स्पष्ट रूप से पीले हों। बंद अंडे ख़तरनाक होते हैं: बाहर से वे घातक Amanita phalloides और अन्य घातक सफ़ेद Amanita प्रजातियों के अंडों जैसे दिखते हैं, और इस भ्रम से घातक विषाक्तता हो चुकी है।",
+      "confusion": "Amanita muscaria के गिल सफ़ेद, तना और छल्ला सफ़ेद होते हैं, मुक्त थैली के बजाय आवरण-अवशेषों के घेरों वाला कंद होता है, और टोपी पर आमतौर पर सफ़ेद मस्से होते हैं जिन्हें बारिश धो सकती है। Amanita crocea में छल्ला नहीं होता और गिल सफ़ेद-से होते हैं। घातक Amanita phalloides की टोपी हरी-सी से सफ़ेद-सी, गिल सफ़ेद और छल्ला सफ़ेद होता है; लंबाई में काटने पर इसका अंडा भीतर से सफ़ेद होता है, जबकि इस प्रजाति के अंडे में पीली-नारंगी टोपी दिखती है।",
+      "notes": "यह कई यूरोपीय देशों की रेड लिस्ट में शामिल है और पोलैंड में विलुप्त हो चुकी है, लेकिन वैश्विक स्तर पर इसे कम चिंताजनक आँका गया है। उत्तरी अमेरिका और पूर्वी एशिया की मिलती-जुलती नारंगी प्रजातियाँ, जो पहले इस नाम से दर्ज की जाती थीं, अब अलग प्रजातियाँ मानी जाती हैं।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Velika, upadljiva gljiva glatkog narančastocrvenog klobuka, žutih listića i žutog stručka s visećim prstenom, koja izrasta iz debele bijele vreće na dnu. Izlegne se iz bijelog jajeta, a toploljubiva je vrsta južne Europe i sjeverne Afrike, sjeverno od Alpa rijetka i raštrkana.",
+      "cap": "Klobuk je promjera 8–20 cm, isprva jajolik i skriven u bijelom ovoju, zatim polukuglast, ispupčen i naposljetku ravan. Površina je glatka, sjajna i po vlazi malo ljepljiva, žarko narančasta do narančastocrvena, prema rubu blijedi u zlatnožutu, obično gola, rijetko s jednim ili dva velika bijela ostatka ovoja. Rub je jasno narebren.",
+      "hymenium": "Listići su slobodni, gusti i široki, isprva blijedožuti, zatim jarko zlatnožuti.",
+      "stipe": "Stručak je dug 8–15 cm i debeo 2–3 cm, valjkast, žut do zlatnožut, gladak ili fino pahuljičav, sa starošću šupalj. Nosi velik, viseći, opnasti žuti prsten, s gornje strane narebren, a dno mu je usađeno u debeli, režnjasti, bijeli vrećasti ovoj koji slobodno odstoji od stručka.",
+      "flesh": "Bijelo, tik ispod kožice klobuka i površine stručka zlatnožuto, na prerezu ne mijenja boju. Miris je slab i ugodan, kod starih plodišta neugodan.",
+      "sporePrint": "Otisak spora bijel. Spore su elipsoidne, glatke, hijaline i neamiloidne, 9–13 × 6–8,5 µm.",
+      "habitat": "Ektomikorizna s hrastovima i drugim listopadnim drvećem, osobito pitomim kestenom i bukvom, a povremeno i s četinjačama. Raste pojedinačno ili u malim skupinama u toplim, suhim i sunčanim šumama, na šumskim rubovima i čistinama, često na južnim padinama i kiselim pjeskovitim tlima, a plodišta stvara tek nakon dugih razdoblja ljetne žege praćenih kišom. Pojavljuje se od srpnja do listopada.",
+      "uses": "Izvrsna jestiva gljiva, cijenjena još od rimskih vremena, ali samo za iskusne gljivare. Berite samo potpuno otvorena plodišta kojima su listići, stručak i prsten jasno žuti. Zatvorena jaja su opasna: izvana nalikuju jajima smrtonosne Amanita phalloides i drugih smrtonosnih bijelih vrsta roda Amanita, a ta je zamjena već uzrokovala smrtonosna trovanja.",
+      "confusion": "Amanita muscaria ima bijele listiće, bijeli stručak i prsten, umjesto slobodne vreće gomolj s pojasevima ostataka ovoja i na klobuku obično bijele bradavice koje kiša može isprati. Amanita crocea nema prsten i ima bjelkaste listiće. Smrtonosna Amanita phalloides ima zelenkast do bjelkast klobuk, bijele listiće i bijeli prsten; prerezano po dužini, njezino je jaje iznutra bijelo, dok jaje ove vrste pokazuje žutonarančasti klobuk.",
+      "notes": "Nalazi se na crvenim popisima mnogih europskih zemalja i izumrla je u Poljskoj, ali je na svjetskoj razini procijenjena kao najmanje zabrinjavajuća. Slične narančaste vrste iz Sjeverne Amerike i istočne Azije, nekad bilježene pod ovim imenom, danas se smatraju zasebnim vrstama.",
+      "names": [],
+      "sourceUrls": [
+        "https://hr.wikipedia.org/wiki/Blagva",
+        "https://www.gbif.org/species/5240269"
+      ],
+      "label": "blagva"
+    },
+    "hu": {
+      "description": "Nagy, feltűnő gomba sima, narancsvörös kalappal, sárga lemezekkel és lelógó gallérú sárga tönkkel, amely a tövén lévő vastag fehér bocskorból nő ki. Fehér tojásból bújik elő, és Dél-Európa és Észak-Afrika melegkedvelő faja, az Alpoktól északra ritka és szórványos.",
+      "cap": "A kalap 8–20 cm átmérőjű, eleinte tojásdad és a fehér burokba rejtett, majd félgömb alakú, domború, végül lapos. Felülete sima, fényes, nedvesen kissé ragadós, élénk narancssárga vagy narancsvörös, a széle felé aranysárgára halványul, többnyire csupasz, ritkán egy-két nagy fehér burokmaradvánnyal. Széle feltűnően bordás.",
+      "hymenium": "A lemezek szabadok, sűrűk és szélesek, eleinte halványsárgák, később élénk aranysárgák.",
+      "stipe": "A tönk 8–15 cm hosszú és 2–3 cm vastag, hengeres, sárga vagy aranysárga, sima vagy finoman pelyhes, idősen üreges. Nagy, lelógó, hártyás sárga gallért visel, amely felül bordás, töve pedig vastag, karéjos, fehér, zsákszerű bocskorban ül, amely szabadon elálló a tönktől.",
+      "flesh": "Fehér, közvetlenül a kalapbőr és a tönk felszíne alatt aranysárga, vágásra nem színeződik. Illata gyenge és kellemes, idős termőtesteké kellemetlen.",
+      "sporePrint": "Spórapora fehér. A spórák ellipszoidok, simák, hialinok és nem amiloidok, 9–13 × 6–8,5 µm.",
+      "habitat": "Tölgyekkel és más lombos fákkal, főleg szelídgesztenyével és bükkel, alkalmanként tűlevelűekkel is ektomikorrhizát képez. Magányosan vagy kis csoportokban nő meleg, száraz, napos erdőkben, erdőszéleken és tisztásokon, gyakran déli lejtőkön és savanyú homoktalajon, és csak hosszú nyári hőségek utáni esőzések után terem. Júliustól októberig jelenik meg.",
+      "uses": "Kiváló ehető gomba, a római kor óta becsült, de csak tapasztalt gyűjtőknek való. Csak a teljesen kinyílt termőtesteket szedje, amelyeknek lemezei, tönkje és gallérja egyaránt egyértelműen sárga. A zárt tojások veszélyesek: kívülről a halálosan mérgező Amanita phalloides és más halálosan mérgező fehér Amanita fajok tojásaira hasonlítanak, és ez a tévesztés már halálos mérgezéseket okozott.",
+      "confusion": "Az Amanita muscaria lemezei, tönkje és gallérja fehér, szabad bocskor helyett burokmaradvány-övekkel díszített gumója van, kalapján pedig többnyire fehér szemölcsök ülnek, amelyeket az eső lemoshat. Az Amanita crocea gallértalan, lemezei fehéresek. A halálosan mérgező Amanita phalloides kalapja zöldes vagy fehéres, lemezei és gallérja fehér; hosszában kettévágva tojása belül fehér, míg ennek a fajnak a tojásában sárgásnarancs kalap látszik.",
+      "notes": "Számos európai ország vörös listáján szerepel, Lengyelországban kihalt, világviszonylatban azonban nem fenyegetettnek értékelik. Az Észak-Amerikából és Kelet-Ázsiából származó hasonló narancsszínű fajokat, amelyeket korábban e néven jegyeztek, ma önálló fajoknak tekintik.",
+      "names": [
+        "császárgomba"
+      ],
+      "sourceUrls": [
+        "https://hu.wikipedia.org/wiki/Császárgalóca",
+        "https://www.gbif.org/species/5240269"
+      ],
+      "label": "császárgalóca"
+    },
+    "id": {
+      "description": "Jamur besar dan mencolok dengan tudung halus merah jingga, bilah kuning, dan tangkai kuning bercincin menggantung, yang tumbuh dari kantong putih tebal di pangkalnya. Jamur ini menetas dari telur putih dan merupakan spesies penyuka hangat dari Eropa selatan dan Afrika Utara, jarang dan tersebar di utara Pegunungan Alpen.",
+      "cap": "Tudung berdiameter 8–20 cm, mula-mula berbentuk telur dan tersembunyi di dalam selubung putih, lalu setengah bulat, cembung, dan akhirnya datar. Permukaannya halus, mengilap, dan agak lengket saat basah, jingga cerah hingga merah jingga, memudar menjadi kuning keemasan ke arah tepi, biasanya gundul, jarang dengan satu atau dua sisa selubung putih yang besar. Tepinya jelas bergaris.",
+      "hymenium": "Bilah bebas, rapat, dan lebar, mula-mula kuning pucat lalu kuning keemasan pekat.",
+      "stipe": "Tangkai panjangnya 8–15 cm dan tebalnya 2–3 cm, silindris, kuning hingga kuning keemasan, halus atau berserpih halus, dan menjadi berongga seiring umur. Tangkai memiliki cincin kuning besar, menggantung, dan bermembran yang bergaris di sisi atas, dan pangkalnya duduk dalam volva putih tebal berlobus berbentuk kantong yang terlepas bebas dari tangkai.",
+      "flesh": "Putih, kuning keemasan tepat di bawah kulit tudung dan permukaan tangkai, tidak berubah warna saat dipotong. Baunya lemah dan menyenangkan, menjadi tidak sedap pada tubuh buah tua.",
+      "sporePrint": "Cetak spora putih. Spora elipsoid, halus, hialin, dan tidak amiloid, 9–13 × 6–8,5 µm.",
+      "habitat": "Membentuk ektomikoriza dengan pohon ek dan pohon berdaun lebar lain, terutama kastanye manis dan beech, kadang juga dengan konifer. Tumbuh soliter atau berkelompok kecil di hutan yang hangat, kering, dan cerah, di tepi hutan dan tempat terbuka, sering di lereng menghadap selatan dan tanah berpasir asam, dan hanya berbuah setelah periode panjang panas musim panas yang diikuti hujan. Muncul dari Juli hingga Oktober.",
+      "uses": "Jamur pangan istimewa yang dihargai sejak zaman Romawi, tetapi hanya untuk pengumpul berpengalaman. Petik hanya tubuh buah yang telah terbuka penuh dengan bilah, tangkai, dan cincin yang semuanya jelas kuning. Telur yang belum terbuka berbahaya: dari luar mirip telur Amanita phalloides yang mematikan dan spesies Amanita putih mematikan lainnya, dan kekeliruan ini telah menyebabkan keracunan fatal.",
+      "confusion": "Amanita muscaria memiliki bilah putih, tangkai dan cincin putih, umbi bercincin sisa selubung alih-alih kantong bebas, dan biasanya kutil putih pada tudung yang dapat tersapu hujan. Amanita crocea tidak bercincin dan bilahnya keputihan. Amanita phalloides yang mematikan memiliki tudung kehijauan hingga keputihan, bilah putih, dan cincin putih; bila dibelah memanjang, telurnya putih di dalam, sedangkan telur spesies ini memperlihatkan tudung kuning jingga.",
+      "notes": "Masuk daftar merah banyak negara Eropa dan punah di Polandia, tetapi secara global dinilai berisiko rendah. Spesies jingga serupa dari Amerika Utara dan Asia Timur, yang dulu dicatat dengan nama ini, kini dianggap spesies tersendiri.",
+      "names": [],
+      "sourceUrls": [
+        "https://id.wikipedia.org/wiki/Amanita_caesarea"
+      ],
+      "label": "jamur caesar"
+    },
+    "it": {
+      "description": "Un fungo grande e vistoso con cappello liscio rosso arancio, lamelle gialle e gambo giallo con anello pendente, che nasce da uno spesso sacco bianco alla base. Sguscia da un uovo bianco ed è una specie termofila dell’Europa meridionale e del Nord Africa, rara e sporadica a nord delle Alpi.",
+      "cap": "Il cappello misura 8–20 cm di diametro, dapprima ovoide e nascosto nel velo bianco, poi emisferico, convesso e infine piano. La superficie è liscia, lucida e un po’ vischiosa con l’umidità, arancio vivo fino a rosso arancio, sfumata in giallo oro verso il margine, di solito nuda, raramente con una o due grandi placche bianche di velo. Il margine è nettamente striato.",
+      "hymenium": "Le lamelle sono libere, fitte e larghe, dapprima giallo pallido, poi giallo oro intenso.",
+      "stipe": "Il gambo è lungo 8–15 cm e spesso 2–3 cm, cilindrico, da giallo a giallo oro, liscio o finemente fioccoso, e con l’età diventa cavo. Porta un grande anello giallo membranoso e pendente, striato sulla faccia superiore, e la base è infissa in una volva spessa, lobata, bianca e a sacco, libera dal gambo.",
+      "flesh": "Bianca, giallo oro subito sotto la cuticola del cappello e la superficie del gambo, immutabile al taglio. L’odore è debole e gradevole, sgradevole negli esemplari vecchi.",
+      "sporePrint": "Sporata bianca. Spore ellissoidi, lisce, ialine e non amiloidi, 9–13 × 6–8,5 µm.",
+      "habitat": "Ectomicorrizico con querce e altre latifoglie, soprattutto castagno e faggio, talvolta anche con conifere. Cresce isolato o in piccoli gruppi in boschi caldi, asciutti e soleggiati, ai margini dei boschi e nelle radure, spesso su versanti esposti a sud e su suoli sabbiosi acidi, e fruttifica solo dopo lunghi periodi di caldo estivo seguiti da pioggia. Compare da luglio a ottobre.",
+      "uses": "Commestibile eccellente, apprezzato fin dall’epoca romana, ma solo per raccoglitori esperti. Raccogliete soltanto esemplari completamente aperti con lamelle, gambo e anello tutti chiaramente gialli. Le uova ancora chiuse sono pericolose: dall’esterno somigliano alle uova della mortale Amanita phalloides e di altre specie bianche mortali del genere Amanita, e questa confusione ha già causato avvelenamenti mortali.",
+      "confusion": "Amanita muscaria ha lamelle bianche, gambo e anello bianchi, un bulbo cinto da resti di velo invece di un sacco libero e di solito verruche bianche sul cappello, che la pioggia può asportare. Amanita crocea non ha anello e ha lamelle biancastre. La mortale Amanita phalloides ha cappello da verdastro a biancastro, lamelle bianche e anello bianco; tagliato per il lungo, il suo uovo è bianco all’interno, mentre l’uovo di questa specie mostra un cappello giallo arancio.",
+      "notes": "È inserita nelle liste rosse di molti paesi europei ed è estinta in Polonia, ma a livello mondiale è valutata a rischio minimo. Specie arancioni simili del Nord America e dell’Asia orientale, un tempo riportate con questo nome, sono oggi considerate specie distinte.",
+      "names": [
+        "ovolo reale"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/5240269",
+        "https://gd.eppo.int/taxon/AMANCS",
+        "https://it.wikipedia.org/wiki/Amanita_caesarea"
+      ],
+      "label": "ovolo buono"
+    },
+    "ja": {
+      "description": "滑らかな橙赤色の傘、黄色いひだ、垂れ下がるつばのある黄色い柄をもち、基部の厚い白い袋から立ち上がる大型で目を引くきのこ。白い卵から生まれ出る南ヨーロッパと北アフリカの好熱性の種で、アルプス以北ではまれで散発的である。",
+      "cap": "傘は径8–20 cm、初め卵形で白い外被に包まれ、のち半球形、まんじゅう形を経て最後は平らに開く。表面は平滑で光沢があり、湿ると多少粘性があり、鮮やかな橙色から橙赤色で、縁に向かって黄金色にあせ、ふつう無毛で、まれに大きな白い外被の破片が一、二片残る。縁には明瞭な条線がある。",
+      "hymenium": "ひだは離生し、密で幅広く、初め淡黄色、のち濃い黄金色になる。",
+      "stipe": "柄は長さ8–15 cm、太さ2–3 cm、円柱形で黄色から黄金色、平滑または細かい綿くず状で、老成すると中空になる。上面に条線のある大きく垂れ下がる膜質の黄色いつばをもち、基部は柄から離れて立つ厚く裂片状の白い袋状のつぼに収まる。",
+      "flesh": "白色で、傘の表皮と柄の表面のすぐ下は黄金色、切っても変色しない。においは弱く快いが、古い子実体では不快になる。",
+      "sporePrint": "胞子紋は白色。胞子は楕円形、平滑、無色で非アミロイド、9–13 × 6–8.5 µm。",
+      "habitat": "ナラ類などの広葉樹、特にヨーロッパグリやブナと、時に針葉樹とも外生菌根をつくる。暖かく乾いた日当たりのよい林、林縁や林間の空き地に単生または小群生し、しばしば南向きの斜面や酸性の砂質土に生え、夏の長い高温期のあとに雨が降ってはじめて発生する。七月から十月に見られる。",
+      "uses": "古代ローマ時代から珍重される極上の食用きのこだが、経験豊富な採集者向けである。ひだ、柄、つばがすべてはっきり黄色い、完全に開いた子実体だけを採ること。開いていない卵は危険で、外見は猛毒のAmanita phalloidesやほかの猛毒の白いAmanita属の種の卵に似ており、この誤認による死亡中毒が起きている。",
+      "confusion": "Amanita muscariaはひだ、柄、つばが白く、遊離した袋の代わりに外被の残りが環状に並ぶ球根状の基部をもち、傘にはふつう雨で流れ落ちることのある白いいぼがある。Amanita croceaはつばがなく、ひだは白っぽい。猛毒のAmanita phalloidesは傘が緑がかった色から白っぽく、ひだとつばは白い。縦に切るとその卵は内部が白いが、本種の卵には黄橙色の傘が見える。",
+      "notes": "多くのヨーロッパ諸国のレッドリストに掲載され、ポーランドでは絶滅したが、世界的には低懸念と評価されている。かつてこの名で記録された北アメリカや東アジアの似た橙色の種は、現在では別種として扱われている。",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/5240269",
+        "https://ja.wikipedia.org/wiki/セイヨウタマゴタケ"
+      ],
+      "label": "セイヨウタマゴタケ"
+    },
+    "ko": {
+      "description": "매끈한 주황빛 빨간 갓, 노란 주름살, 늘어진 턱받이가 있는 노란 자루를 지니고 밑동의 두꺼운 흰 주머니에서 솟아오르는 크고 눈에 띄는 버섯이다. 흰 알에서 깨어 나오며 남유럽과 북아프리카의 따뜻한 곳을 좋아하는 종으로, 알프스 북쪽에서는 드물고 산발적이다.",
+      "cap": "갓은 지름 8–20 cm로, 처음에는 알 모양으로 흰 외피막 속에 숨어 있다가 반구형, 볼록형을 거쳐 마침내 편평해진다. 표면은 매끈하고 광택이 있으며 젖으면 약간 끈적이고, 선명한 주황색에서 주황빛 빨간색이며 가장자리 쪽으로 황금색으로 바래고, 대개 민둥하며 드물게 큰 흰 외피막 조각이 한두 개 남는다. 가장자리에는 뚜렷한 줄무늬가 있다.",
+      "hymenium": "주름살은 떨어진주름살로 빽빽하고 넓으며, 처음에는 연노란색이다가 짙은 황금색이 된다.",
+      "stipe": "자루는 길이 8–15 cm, 굵기 2–3 cm로 원통형이며 노란색에서 황금색이고, 매끈하거나 미세한 솜털 모양이며 오래되면 속이 빈다. 윗면에 줄무늬가 있는 크고 늘어진 막질의 노란 턱받이가 있고, 밑동은 자루에서 떨어져 선 두껍고 갈라진 흰 주머니 모양의 대주머니에 들어 있다.",
+      "flesh": "흰색이며 갓 표피와 자루 표면 바로 아래는 황금색이고, 자르면 색이 변하지 않는다. 냄새는 약하고 좋으나 오래된 자실체에서는 불쾌해진다.",
+      "sporePrint": "포자문은 흰색. 포자는 타원형이고 매끈하며 투명하고 비아밀로이드이며, 9–13 × 6–8.5 µm이다.",
+      "habitat": "참나무류와 다른 활엽수, 특히 유럽밤나무와 너도밤나무, 때로는 침엽수와도 외생균근을 형성한다. 따뜻하고 건조하며 햇볕이 잘 드는 숲, 숲 가장자리와 빈터에 홀로 또는 작은 무리로 나며, 흔히 남향 비탈과 산성 모래땅에서 자라고, 긴 여름 더위 뒤에 비가 내린 다음에야 발생한다. 칠월부터 시월까지 볼 수 있다.",
+      "uses": "고대 로마 시대부터 귀하게 여겨진 최고급 식용버섯이지만 경험 많은 채집가에게만 해당한다. 주름살, 자루, 턱받이가 모두 뚜렷이 노란, 완전히 펼쳐진 자실체만 채취하라. 열리지 않은 알은 위험하다. 겉보기에 맹독성 Amanita phalloides와 다른 맹독성 흰 Amanita 종의 알과 비슷하며, 이 혼동으로 치명적인 중독이 일어났다.",
+      "confusion": "Amanita muscaria는 주름살, 자루, 턱받이가 희고, 떨어진 주머니 대신 외피막 잔존물이 고리 모양으로 둘린 구근 모양 밑동이 있으며, 갓에는 대개 비에 씻겨 나갈 수 있는 흰 사마귀점이 있다. Amanita crocea는 턱받이가 없고 주름살이 희끄무레하다. 맹독성 Amanita phalloides는 갓이 녹색을 띠거나 희끄무레하고 주름살과 턱받이가 희다. 세로로 자르면 그 알은 속이 희지만, 이 종의 알에서는 노란 주황색 갓이 보인다.",
+      "notes": "많은 유럽 국가의 적색목록에 올라 있고 폴란드에서는 절멸했지만, 세계적으로는 관심대상으로 평가된다. 예전에 이 이름으로 기록된 북아메리카와 동아시아의 비슷한 주황색 종들은 현재 별개의 종으로 다루어진다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Didelis, įspūdingas grybas lygia oranžiškai raudona kepurėle, geltonais lakšteliais ir geltonu kotu su nukarusiu žiedu, išaugantis iš storo balto maišo pagrinde. Jis išsirita iš balto kiaušinio ir yra šilumamėgė Pietų Europos ir Šiaurės Afrikos rūšis, į šiaurę nuo Alpių reta ir pavienė.",
+      "cap": "Kepurėlė 8–20 cm skersmens, iš pradžių kiaušiniška ir paslėpta baltoje gaubtėje, vėliau pusrutuliška, iškili ir galiausiai plokščia. Paviršius lygus, blizgantis, drėgnas kiek lipnus, ryškiai oranžinis iki oranžiškai raudono, link krašto blunkantis iki auksiškai geltono, paprastai plikas, retai su viena ar dviem didelėmis baltomis gaubtės liekanomis. Kraštas aiškiai vagotas.",
+      "hymenium": "Lakšteliai laisvi, tankūs ir platūs, iš pradžių blyškiai geltoni, vėliau sodriai auksiškai geltoni.",
+      "stipe": "Kotas 8–15 cm ilgio ir 2–3 cm storio, cilindriškas, geltonas iki auksiškai geltono, lygus arba smulkiai dribsniuotas, senstant tuščiaviduris. Jis turi didelį, nukarusį, plėvišką geltoną žiedą, viršutinėje pusėje vagotą, o jo pagrindas įsitvirtinęs storoje, skiautėtoje, baltoje maišo pavidalo makštyje, laisvai atsiskyrusioje nuo koto.",
+      "flesh": "Balta, tiesiai po kepurėlės odele ir koto paviršiumi auksiškai geltona, perpjauta spalvos nekeičia. Kvapas silpnas ir malonus, senų vaisiakūnių nemalonus.",
+      "sporePrint": "Sporų milteliai balti. Sporos elipsoidinės, lygios, hialininės ir neamiloidinės, 9–13 × 6–8,5 µm.",
+      "habitat": "Sudaro ektomikorizę su ąžuolais ir kitais lapuočiais, ypač su valgomuoju kaštonu ir buku, kartais ir su spygliuočiais. Auga pavieniui arba nedidelėmis grupėmis šiltuose, sausuose ir saulėtuose miškuose, miško pakraščiuose ir laukymėse, dažnai pietiniuose šlaituose ir rūgščiuose smėlinguose dirvožemiuose, o vaisiakūnius sudaro tik po ilgų vasaros karščių, po kurių lyja. Pasirodo nuo liepos iki spalio.",
+      "uses": "Puikus valgomasis grybas, vertinamas nuo romėnų laikų, bet tik patyrusiems grybautojams. Rinkite tik visiškai atsivėrusius vaisiakūnius, kurių lakšteliai, kotas ir žiedas aiškiai geltoni. Neatsivėrę kiaušiniai pavojingi: iš išorės jie panašūs į mirtinai nuodingos Amanita phalloides ir kitų mirtinai nuodingų baltų Amanita genties rūšių kiaušinius, ir dėl tokios painiavos jau yra buvę mirtinų apsinuodijimų.",
+      "confusion": "Amanita muscaria turi baltus lakštelius, baltą kotą ir žiedą, vietoj laisvo maišo – gumbą su gaubtės liekanų juostomis ir paprastai baltas karpas ant kepurėlės, kurias gali nuplauti lietus. Amanita crocea neturi žiedo, jos lakšteliai balsvi. Mirtinai nuodinga Amanita phalloides turi žalsvą iki balsvos kepurėlę, baltus lakštelius ir baltą žiedą; perpjautas išilgai, jos kiaušinis viduje baltas, o šios rūšies kiaušinyje matyti gelsvai oranžinė kepurėlė.",
+      "notes": "Įrašyta į daugelio Europos šalių raudonuosius sąrašus ir išnykusi Lenkijoje, tačiau pasauliniu mastu vertinama kaip mažiausiai susirūpinimo keliančia. Panašios oranžinės rūšys iš Šiaurės Amerikos ir Rytų Azijos, kadaise nurodytos šiuo vardu, dabar laikomos atskiromis rūšimis.",
+      "names": [],
+      "sourceUrls": [
+        "https://lt.wikipedia.org/wiki/Karališkoji_musmirė",
+        "https://www.gbif.org/species/5240269"
+      ],
+      "label": "karališkoji musmirė"
+    },
+    "lv": {
+      "description": "Liela, krāšņa sēne ar gludu oranžsarkanu cepurīti, dzeltenām lapiņām un dzeltenu kātiņu ar nokarenu gredzenu, kas izaug no bieza, balta maisa pie pamatnes. Tā izšķiļas no baltas oliņas un ir siltummīloša Dienvideiropas un Ziemeļāfrikas suga, uz ziemeļiem no Alpiem reta un izkaisīta.",
+      "cap": "Cepurīte ir 8–20 cm diametrā, sākumā olveida un paslēpta baltajā plīvurā, tad puslodveida, izliekta un visbeidzot plakana. Virsma gluda, spīdīga, mitrumā nedaudz lipīga, spilgti oranža līdz oranžsarkana, uz malu izbalē līdz zeltaini dzeltenai, parasti kaila, reti ar vienu vai divām lielām baltām plīvura atliekām. Mala skaidri rievota.",
+      "hymenium": "Lapiņas brīvas, biezas un platas, sākumā bāli dzeltenas, vēlāk piesātināti zeltaini dzeltenas.",
+      "stipe": "Kātiņš 8–15 cm garš un 2–3 cm resns, cilindrisks, dzeltens līdz zeltaini dzeltens, gluds vai smalki pārslains, ar vecumu dobs. Tam ir liels, nokarens, plēvains dzeltens gredzens, augšpusē rievots, un tā pamatne atrodas biezā, daivainā, baltā maisveida makstī, kas brīvi atstāv no kātiņa.",
+      "flesh": "Balts, tieši zem cepurītes ādiņas un kātiņa virsmas zeltaini dzeltens, griezumā krāsu nemaina. Smarža vāja un patīkama, veciem augļķermeņiem nepatīkama.",
+      "sporePrint": "Sporu nospiedums balts. Sporas elipsoidālas, gludas, hialīnas un neamiloīdas, 9–13 × 6–8,5 µm.",
+      "habitat": "Veido ektomikorizu ar ozoliem un citiem lapu kokiem, īpaši ar ēdamo kastaņu un dižskābardi, dažkārt arī ar skujkokiem. Aug pa vienai vai nelielās grupās siltos, sausos un saulainos mežos, meža malās un laucēs, bieži dienvidu nogāzēs un skābās smilšainās augsnēs, un augļķermeņus veido tikai pēc ilgiem vasaras karstuma periodiem, kam seko lietus. Sastopama no jūlija līdz oktobrim.",
+      "uses": "Izcila ēdama sēne, novērtēta jau kopš romiešu laikiem, taču tikai pieredzējušiem sēņotājiem. Vāciet tikai pilnībā atvērušos augļķermeņus, kuriem lapiņas, kātiņš un gredzens ir skaidri dzelteni. Neatvērušās oliņas ir bīstamas: no ārpuses tās atgādina nāvējoši indīgās Amanita phalloides un citu nāvējoši indīgu baltu Amanita ģints sugu oliņas, un šāda sajaukšana jau ir izraisījusi nāvējošas saindēšanās.",
+      "confusion": "Amanita muscaria ir baltas lapiņas, balts kātiņš un gredzens, brīva maisa vietā bumbulis ar plīvura atlieku joslām un uz cepurītes parasti baltas kārpiņas, ko var nomazgāt lietus. Amanita crocea nav gredzena, un tās lapiņas ir bālganas. Nāvējoši indīgajai Amanita phalloides ir zaļgana līdz bālgana cepurīte, baltas lapiņas un balts gredzens; pārgriežot gareniski, tās oliņa iekšpusē ir balta, turpretī šīs sugas oliņā redzama dzeltenīgi oranža cepurīte.",
+      "notes": "Iekļauta daudzu Eiropas valstu sarkanajos sarakstos un Polijā izzudusi, taču pasaules mērogā novērtēta kā neapdraudēta. Līdzīgas oranžas sugas no Ziemeļamerikas un Austrumāzijas, kas agrāk minētas ar šo nosaukumu, tagad uzskata par atsevišķām sugām.",
+      "names": [],
+      "sourceUrls": [
+        "https://lv.wikipedia.org/wiki/Mušmiru_dzimta"
+      ],
+      "label": "cēzarmušmire"
+    },
+    "nl": {
+      "description": "Een grote, opvallende paddenstoel met een gladde oranjerode hoed, gele plaatjes en een gele steel met hangende ring, die oprijst uit een dikke witte zak aan de voet. Hij komt uit een wit ei tevoorschijn en is een warmteminnende soort van Zuid-Europa en Noord-Afrika, ten noorden van de Alpen zeldzaam en verspreid.",
+      "cap": "De hoed is 8–20 cm breed, eerst eivormig en verborgen in het witte velum, dan halfbolvormig, gewelfd en ten slotte vlak. Het oppervlak is glad, glanzend en bij vochtig weer iets kleverig, helder oranje tot oranjerood, naar de rand toe verblekend tot goudgeel, meestal kaal, zelden met een of twee grote witte velumresten. De rand is duidelijk gestreept.",
+      "hymenium": "De plaatjes zijn vrij, dicht opeen en breed, eerst bleekgeel, daarna diep goudgeel.",
+      "stipe": "De steel is 8–15 cm lang en 2–3 cm dik, cilindrisch, geel tot goudgeel, glad of fijn vlokkig, en wordt met de leeftijd hol. Hij draagt een grote, hangende, vliezige gele ring die aan de bovenzijde gestreept is, en de voet zit in een dikke, gelobde, witte zakvormige beurs die vrij van de steel afstaat.",
+      "flesh": "Wit, vlak onder de hoedhuid en het steeloppervlak goudgeel, onveranderlijk bij doorsnijden. De geur is zwak en aangenaam, bij oude vruchtlichamen onaangenaam.",
+      "sporePrint": "Sporenpoeder wit. De sporen zijn ellipsoïde, glad, hyalien en niet-amyloïde, 9–13 × 6–8,5 µm.",
+      "habitat": "Vormt mycorrhiza met eiken en andere loofbomen, vooral tamme kastanje en beuk, soms ook met naaldbomen. Hij groeit alleen of in kleine groepen in warme, droge en zonnige bossen, aan bosranden en op open plekken, vaak op zuidhellingen en zure zandgrond, en vormt pas vruchtlichamen na lange perioden van zomerhitte gevolgd door regen. Hij verschijnt van juli tot oktober.",
+      "uses": "Uitstekende eetbare soort, al sinds de Romeinse tijd geliefd, maar alleen voor ervaren verzamelaars. Pluk alleen volledig geopende vruchtlichamen waarvan plaatjes, steel en ring allemaal duidelijk geel zijn. Ongeopende eieren zijn gevaarlijk: van buiten lijken ze op de eieren van de dodelijk giftige Amanita phalloides en andere dodelijk giftige witte Amanita-soorten, en deze verwarring heeft al dodelijke vergiftigingen veroorzaakt.",
+      "confusion": "Amanita muscaria heeft witte plaatjes, een witte steel en ring, een knol met gordels van velumresten in plaats van een vrije zak, en meestal witte wratten op de hoed die door regen kunnen wegspoelen. Amanita crocea heeft geen ring en witachtige plaatjes. De dodelijk giftige Amanita phalloides heeft een groenachtige tot witachtige hoed, witte plaatjes en een witte ring; in de lengte doorgesneden is haar ei van binnen wit, terwijl het ei van deze soort een geeloranje hoed toont.",
+      "notes": "Staat op de rode lijsten van veel Europese landen en is in Polen uitgestorven, maar wordt wereldwijd als niet bedreigd beoordeeld. Vergelijkbare oranje soorten uit Noord-Amerika en Oost-Azië, vroeger onder deze naam vermeld, worden nu als afzonderlijke soorten beschouwd.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/5240269",
+        "https://commons.wikimedia.org/wiki/File:Amanita_caesarea.JPG"
+      ],
+      "label": "keizersamaniet"
+    },
+    "no": {
+      "description": "En stor, iøynefallende sopp med glatt oransjerød hatt, gule skiver og gul stilk med hengende ring, som vokser opp av en tykk hvit sekk ved basis. Den klekkes fra et hvitt egg og er en varmekjær art i Sør-Europa og Nord-Afrika, sjelden og spredt nord for Alpene.",
+      "cap": "Hatten er 8–20 cm bred, først eggformet og skjult i det hvite sløret, så halvkuleformet, hvelvet og til slutt flat. Overflaten er glatt, glinsende og litt klebrig i fuktig vær, klart oransje til oransjerød, blekner mot kanten til gullgul, vanligvis naken, sjelden med ett eller to store hvite sløravsnitt. Kanten er tydelig stripet.",
+      "hymenium": "Skivene er frie, tettstilte og brede, først blekgule, deretter dypt gullgule.",
+      "stipe": "Stilken er 8–15 cm lang og 2–3 cm tykk, sylindrisk, gul til gullgul, glatt eller fint flokket, og blir hul med alderen. Den har en stor, hengende, hinneaktig gul ring som er stripet på oversiden, og basis sitter i en tykk, fliket, hvit sekkformet slire som står fri fra stilken.",
+      "flesh": "Hvitt, gullgult like under hattehuden og stilkoverflaten, uforanderlig i snitt. Lukten er svak og behagelig, ubehagelig hos gamle fruktlegemer.",
+      "sporePrint": "Sporepulver hvitt. Sporene er ellipsoide, glatte, hyaline og inamyloide, 9–13 × 6–8,5 µm.",
+      "habitat": "Danner mykorrhiza med eik og andre løvtrær, særlig ekte kastanje og bøk, av og til også med bartrær. Den vokser enkeltvis eller i små grupper i varme, tørre og solrike skoger, i skogkanter og lysninger, ofte i sørvendte skråninger og på sur, sandig jord, og danner fruktlegemer først etter lange perioder med sommervarme etterfulgt av regn. Den opptrer fra juli til oktober.",
+      "uses": "Utmerket matsopp, verdsatt siden romertiden, men bare for erfarne sankere. Plukk bare helt åpne fruktlegemer der skivene, stilken og ringen alle er tydelig gule. Uåpnede egg er farlige: utenfra ligner de eggene til den dødelig giftige Amanita phalloides og andre dødelig giftige hvite Amanita-arter, og denne forvekslingen har ført til dødelige forgiftninger.",
+      "confusion": "Amanita muscaria har hvite skiver, hvit stilk og ring, en knoll med belter av slørrester i stedet for en fri sekk, og vanligvis hvite vorter på hatten som regn kan vaske bort. Amanita crocea mangler ring og har hvitaktige skiver. Den dødelig giftige Amanita phalloides har grønnlig til hvitaktig hatt, hvite skiver og hvit ring; skåret på langs er egget hvitt inni, mens egget til denne arten viser en gulorange hatt.",
+      "notes": "Rødlistet i mange europeiske land og utdødd i Polen, men globalt vurdert som livskraftig. Lignende oransje arter fra Nord-Amerika og Øst-Asia, som tidligere ble ført under dette navnet, regnes i dag som egne arter.",
+      "names": [],
+      "sourceUrls": [
+        "https://snl.no/keiserfluesopp",
+        "https://www.wikidata.org/wiki/Q220662"
+      ],
+      "label": "keiserfluesopp"
+    },
+    "pl": {
+      "description": "Duży, okazały grzyb o gładkim, pomarańczowoczerwonym kapeluszu, żółtych blaszkach i żółtym trzonie z wiszącym pierścieniem, wyrastający z grubej białej pochwy u podstawy. Wykluwa się z białego jaja i jest ciepłolubnym gatunkiem południowej Europy i Afryki Północnej, na północ od Alp rzadkim i rozproszonym.",
+      "cap": "Kapelusz ma 8–20 cm średnicy, początkowo jajowaty, ukryty w białej osłonie, potem półkulisty, wypukły, w końcu płaski. Powierzchnia jest gładka, błyszcząca, w wilgoci lekko lepka, jaskrawopomarańczowa do pomarańczowoczerwonej, ku brzegowi blednąca do złocistożółtej, zwykle naga, rzadko z jedną lub dwiema dużymi białymi resztkami osłony. Brzeg jest wyraźnie prążkowany.",
+      "hymenium": "Blaszki są wolne, gęste i szerokie, początkowo bladożółte, potem intensywnie złocistożółte.",
+      "stipe": "Trzon ma 8–15 cm długości i 2–3 cm grubości, jest walcowaty, żółty do złocistożółtego, gładki lub drobno kłaczkowaty, z wiekiem pusty. Ma duży, zwisający, błoniasty żółty pierścień, prążkowany od góry, a jego podstawa tkwi w grubej, klapowanej, białej workowatej pochwie, odstającej od trzonu.",
+      "flesh": "Biały, tuż pod skórką kapelusza i powierzchnią trzonu złocistożółty, na przekroju nie zmienia barwy. Zapach słaby i przyjemny, u starych owocników nieprzyjemny.",
+      "sporePrint": "Wysyp zarodników biały. Zarodniki elipsoidalne, gładkie, hialinowe i nieamyloidalne, 9–13 × 6–8,5 µm.",
+      "habitat": "Grzyb ektomikoryzowy dębów i innych drzew liściastych, zwłaszcza kasztana jadalnego i buka, czasem także drzew iglastych. Rośnie pojedynczo lub w małych grupach w ciepłych, suchych i słonecznych lasach, na skrajach lasów i polanach, często na południowych zboczach i kwaśnych glebach piaszczystych, a owocniki wytwarza dopiero po długich okresach letnich upałów, po których następują deszcze. Pojawia się od lipca do października.",
+      "uses": "Wyborny grzyb jadalny, ceniony od czasów rzymskich, ale tylko dla doświadczonych grzybiarzy. Zbieraj wyłącznie w pełni otwarte owocniki, których blaszki, trzon i pierścień są wyraźnie żółte. Nierozwinięte jaja są niebezpieczne: z zewnątrz przypominają jaja śmiertelnie trującej Amanita phalloides i innych śmiertelnie trujących białych gatunków z rodzaju Amanita, a ta pomyłka powodowała już śmiertelne zatrucia.",
+      "confusion": "Amanita muscaria ma białe blaszki, biały trzon i pierścień, zamiast wolnej pochwy bulwę z pierścieniami resztek osłony, a na kapeluszu zwykle białe brodawki, które deszcz może zmyć. Amanita crocea nie ma pierścienia i ma białawe blaszki. Śmiertelnie trująca Amanita phalloides ma zielonkawy do białawego kapelusz, białe blaszki i biały pierścień; po przecięciu wzdłuż jej jajo jest w środku białe, podczas gdy jajo tego gatunku ukazuje żółtopomarańczowy kapelusz.",
+      "notes": "Figuruje na czerwonych listach wielu krajów europejskich i wymarł w Polsce, jednak w skali światowej oceniany jest jako gatunek najmniejszej troski. Podobne pomarańczowe gatunki z Ameryki Północnej i Azji Wschodniej, dawniej notowane pod tą nazwą, uznaje się dziś za odrębne gatunki.",
+      "names": [],
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/Muchomor_cesarski",
+        "https://www.gbif.org/species/5240269"
+      ],
+      "label": "muchomor cesarski"
+    },
+    "pt": {
+      "description": "Um cogumelo grande e vistoso, com chapéu liso vermelho-alaranjado, lâminas amarelas e pé amarelo com anel pendente, que nasce de um espesso saco branco na base. Eclode de um ovo branco e é uma espécie termófila do sul da Europa e do norte de África, rara e dispersa a norte dos Alpes.",
+      "cap": "O chapéu mede 8–20 cm de diâmetro, primeiro ovoide e oculto no véu branco, depois hemisférico, convexo e por fim plano. A superfície é lisa, brilhante e algo viscosa com humidade, laranja-vivo a vermelho-alaranjado, desbotando para amarelo-dourado junto à margem, geralmente nua, raramente com uma ou duas grandes placas brancas de véu. A margem é nitidamente estriada.",
+      "hymenium": "As lâminas são livres, apertadas e largas, primeiro amarelo-pálidas e depois amarelo-douradas intensas.",
+      "stipe": "O pé mede 8–15 cm de comprimento e 2–3 cm de espessura, é cilíndrico, amarelo a amarelo-dourado, liso ou finamente flocoso, e torna-se oco com a idade. Tem um grande anel amarelo membranoso e pendente, estriado na face superior, e a base assenta numa volva espessa, lobada, branca e em forma de saco, livre do pé.",
+      "flesh": "Branca, amarelo-dourada logo abaixo da cutícula do chapéu e da superfície do pé, inalterável ao corte. O cheiro é fraco e agradável, desagradável nos exemplares velhos.",
+      "sporePrint": "Esporada branca. Esporos elipsoides, lisos, hialinos e não amiloides, 9–13 × 6–8,5 µm.",
+      "habitat": "Ectomicorrízico com carvalhos e outras folhosas, sobretudo castanheiro e faia, e ocasionalmente com coníferas. Cresce isolado ou em pequenos grupos em bosques quentes, secos e soalheiros, em orlas e clareiras, muitas vezes em encostas viradas a sul e em solos arenosos ácidos, e só frutifica após longos períodos de calor estival seguidos de chuva. Aparece de julho a outubro.",
+      "uses": "Comestível excelente, apreciado desde a época romana, mas apenas para apanhadores experientes. Colha apenas exemplares totalmente abertos cujas lâminas, pé e anel sejam todos claramente amarelos. Os ovos fechados são perigosos: por fora parecem-se com os ovos da mortal Amanita phalloides e de outras espécies brancas mortais do género Amanita, e esta confusão já causou intoxicações mortais.",
+      "confusion": "Amanita muscaria tem lâminas brancas, pé e anel brancos, um bolbo cingido por restos de véu em vez de um saco livre e geralmente verrugas brancas no chapéu, que a chuva pode remover. Amanita crocea não tem anel e tem lâminas esbranquiçadas. A mortal Amanita phalloides tem chapéu esverdeado a esbranquiçado, lâminas brancas e anel branco; cortado ao comprido, o seu ovo é branco por dentro, ao passo que o ovo desta espécie mostra um chapéu amarelo-alaranjado.",
+      "notes": "Consta das listas vermelhas de muitos países europeus e está extinto na Polónia, mas a nível mundial é avaliado como pouco preocupante. Espécies alaranjadas semelhantes da América do Norte e da Ásia Oriental, outrora registadas com este nome, são hoje consideradas espécies distintas.",
+      "names": [
+        "laranjinha"
+      ],
+      "sourceUrls": [
+        "https://pt.wikipedia.org/wiki/Amanita_caesarea",
+        "https://www.gbif.org/species/5240269"
+      ],
+      "label": "ovo-de-rei"
+    },
+    "ro": {
+      "description": "O ciupercă mare și spectaculoasă, cu pălărie netedă roșu-portocalie, lamele galbene și picior galben cu inel atârnând, care se ridică dintr-un sac gros și alb de la bază. Iese dintr-un ou alb și este o specie termofilă din sudul Europei și nordul Africii, rară și dispersată la nord de Alpi.",
+      "cap": "Pălăria are 8–20 cm în diametru, la început ovoidă și ascunsă în vălul alb, apoi emisferică, convexă și în final plată. Suprafața este netedă, lucioasă și ușor lipicioasă pe umezeală, portocaliu viu până la roșu-portocaliu, decolorându-se spre galben-auriu către margine, de obicei golașă, rar cu una sau două plăci mari albe de văl. Marginea este clar striată.",
+      "hymenium": "Lamelele sunt libere, dese și late, la început galben-pal, apoi galben-auriu intens.",
+      "stipe": "Piciorul are 8–15 cm lungime și 2–3 cm grosime, este cilindric, galben până la galben-auriu, neted sau fin flocos și devine gol cu vârsta. Poartă un inel mare, atârnând, membranos și galben, striat pe fața superioară, iar baza stă într-o volvă groasă, lobată, albă, în formă de sac, liberă față de picior.",
+      "flesh": "Albă, galben-aurie chiar sub cuticula pălăriei și suprafața piciorului, nu își schimbă culoarea la tăiere. Mirosul este slab și plăcut, neplăcut la exemplarele bătrâne.",
+      "sporePrint": "Sporii în masă albi. Sporii sunt elipsoidali, netezi, hialini și neamiloizi, 9–13 × 6–8,5 µm.",
+      "habitat": "Ectomicoriziană cu stejari și alte foioase, mai ales castanul comestibil și fagul, uneori și cu conifere. Crește solitar sau în grupuri mici în păduri calde, uscate și însorite, la liziere și în poieni, adesea pe versanți sudici și pe soluri nisipoase acide, și fructifică doar după perioade lungi de arșiță estivală urmate de ploi. Apare din iulie până în octombrie.",
+      "uses": "Comestibilă excelentă, prețuită încă din epoca romană, dar numai pentru culegătorii experimentați. Culegeți doar exemplare complet deschise, cu lamelele, piciorul și inelul toate clar galbene. Ouăle închise sunt periculoase: privite din afară, seamănă cu ouăle mortalei Amanita phalloides și ale altor specii albe mortale din genul Amanita, iar această confuzie a provocat deja intoxicații mortale.",
+      "confusion": "Amanita muscaria are lamele albe, picior și inel albe, un bulb încins cu resturi de văl în loc de un sac liber și de obicei negi albi pe pălărie, pe care ploaia îi poate spăla. Amanita crocea nu are inel și are lamele albicioase. Mortala Amanita phalloides are pălăria verzuie până la albicioasă, lamele albe și inel alb; tăiat pe lungime, oul ei este alb înăuntru, pe când oul acestei specii arată o pălărie galben-portocalie.",
+      "notes": "Figurează pe listele roșii ale multor țări europene și a dispărut din Polonia, dar la nivel mondial este evaluată ca neamenințată. Specii portocalii asemănătoare din America de Nord și Asia de Est, cândva semnalate sub acest nume, sunt astăzi considerate specii distincte.",
+      "names": [
+        "crăiță"
+      ],
+      "sourceUrls": [
+        "https://ro.wikipedia.org/wiki/Amanita_caesarea",
+        "https://www.wikidata.org/wiki/Q220662"
+      ],
+      "label": "burete domnesc"
+    },
+    "ru": {
+      "description": "Крупный эффектный гриб с гладкой оранжево-красной шляпкой, жёлтыми пластинками и жёлтой ножкой с свисающим кольцом, вырастающей из толстого белого мешка у основания. Он вылупляется из белого яйца и является теплолюбивым видом Южной Европы и Северной Африки, к северу от Альп редким и рассеянным.",
+      "cap": "Шляпка 8–20 cm в диаметре, сначала яйцевидная и скрытая в белом покрывале, затем полушаровидная, выпуклая и наконец плоская. Поверхность гладкая, блестящая, во влажную погоду слегка липкая, ярко-оранжевая до оранжево-красной, к краю бледнеющая до золотисто-жёлтой, обычно голая, редко с одним-двумя крупными белыми остатками покрывала. Край отчётливо бороздчатый.",
+      "hymenium": "Пластинки свободные, частые и широкие, сначала бледно-жёлтые, затем насыщенно золотисто-жёлтые.",
+      "stipe": "Ножка длиной 8–15 cm и толщиной 2–3 cm, цилиндрическая, жёлтая до золотисто-жёлтой, гладкая или тонкохлопьевидная, с возрастом полая. На ней крупное свисающее плёнчатое жёлтое кольцо, бороздчатое сверху, а основание сидит в толстой, лопастной, белой мешковидной вольве, свободно отстающей от ножки.",
+      "flesh": "Белая, сразу под кожицей шляпки и поверхностью ножки золотисто-жёлтая, на разрезе не меняет цвет. Запах слабый и приятный, у старых плодовых тел неприятный.",
+      "sporePrint": "Споровый порошок белый. Споры эллипсоидные, гладкие, гиалиновые и неамилоидные, 9–13 × 6–8,5 µm.",
+      "habitat": "Образует эктомикоризу с дубами и другими лиственными деревьями, особенно с каштаном посевным и буком, иногда и с хвойными. Растёт одиночно или небольшими группами в тёплых, сухих и солнечных лесах, на опушках и полянах, часто на южных склонах и кислых песчаных почвах, и плодоносит только после долгих периодов летней жары, за которыми следуют дожди. Встречается с июля по октябрь.",
+      "uses": "Превосходный съедобный гриб, ценимый со времён Древнего Рима, но только для опытных грибников. Собирайте лишь полностью раскрытые плодовые тела, у которых пластинки, ножка и кольцо отчётливо жёлтые. Нераскрытые яйца опасны: снаружи они похожи на яйца смертельно ядовитой Amanita phalloides и других смертельно ядовитых белых видов рода Amanita, и такая путаница уже приводила к смертельным отравлениям.",
+      "confusion": "У Amanita muscaria белые пластинки, белые ножка и кольцо, вместо свободного мешка клубень с поясками остатков покрывала и обычно белые бородавки на шляпке, которые может смыть дождь. У Amanita crocea нет кольца, а пластинки беловатые. У смертельно ядовитой Amanita phalloides шляпка зеленоватая до беловатой, пластинки и кольцо белые; в продольном разрезе её яйцо внутри белое, тогда как в яйце этого вида видна жёлто-оранжевая шляпка.",
+      "notes": "Внесён в красные списки многих европейских стран и исчез в Польше, но в мировом масштабе оценивается как вызывающий наименьшие опасения. Сходные оранжевые виды из Северной Америки и Восточной Азии, ранее приводившиеся под этим названием, теперь считаются отдельными видами.",
+      "names": [
+        "мухомор цезарский"
+      ],
+      "sourceUrls": [
+        "https://ru.wikipedia.org/wiki/Цезарский_гриб",
+        "https://gd.eppo.int/taxon/AMANCS",
+        "https://www.gbif.org/species/5240269"
+      ],
+      "label": "цезарский гриб"
+    },
+    "sk": {
+      "description": "Veľká, nápadná huba s hladkým oranžovočerveným klobúkom, žltými lupeňmi a žltým hlúbikom s visiacim prsteňom, ktorý vyrastá z hrubého bieleho vaku na báze. Vyliahne sa z bieleho vajíčka a je to teplomilný druh južnej Európy a severnej Afriky, na sever od Álp vzácny a roztrúsený.",
+      "cap": "Klobúk má 8–20 cm v priemere, najprv je vajcovitý, ukrytý v bielom obale, potom polguľovitý, klenutý a napokon plochý. Povrch je hladký, lesklý, za vlhka slabo lepkavý, žiarivo oranžový až oranžovočervený, k okraju prechádzajúci do zlatožltej, zvyčajne holý, len zriedka s jedným či dvoma veľkými bielymi zvyškami obalu. Okraj je zreteľne ryhovaný.",
+      "hymenium": "Lupene sú voľné, husté a široké, najprv bledožlté, potom sýto zlatožlté.",
+      "stipe": "Hlúbik je 8–15 cm dlhý a 2–3 cm hrubý, valcovitý, žltý až zlatožltý, hladký alebo jemne vločkatý, s vekom dutý. Nesie veľký, visiaci, blanitý žltý prsteň, na hornej strane ryhovaný, a jeho báza tkvie v hrubej, lalokovitej, bielej vakovitej pošve, ktorá voľne odstáva od hlúbika.",
+      "flesh": "Biela, tesne pod pokožkou klobúka a hlúbika zlatožltá, na reze nemení farbu. Vôňa je slabá a príjemná, u starých plodníc nepríjemná.",
+      "sporePrint": "Výtrusný prach biely. Výtrusy sú elipsoidné, hladké, hyalínne a neamyloidné, 9–13 × 6–8,5 µm.",
+      "habitat": "Ektomykorízna huba dubov a iných listnáčov, najmä gaštana jedlého a buka, príležitostne aj ihličnanov. Rastie jednotlivo alebo v malých skupinách v teplých, suchých a slnečných lesoch, na okrajoch lesov a na čistinách, často na južných svahoch a kyslých piesočnatých pôdach, a plodnice tvorí až po dlhých obdobiach letných horúčav nasledovaných dažďom. Rastie od júla do októbra.",
+      "uses": "Výborná jedlá huba, cenená už od rímskych čias, ale len pre skúsených hubárov. Zbierajte iba úplne roztvorené plodnice, ktoré majú lupene, hlúbik aj prsteň zreteľne žlté. Neotvorené vajíčka sú nebezpečné: zvonka sa podobajú vajíčkam smrteľne jedovatej Amanita phalloides a iných smrteľne jedovatých bielych druhov rodu Amanita a táto zámena už spôsobila smrteľné otravy.",
+      "confusion": "Amanita muscaria má biele lupene, biely hlúbik a prsteň, namiesto voľného vaku hľuzu s pásmi zvyškov obalu a na klobúku zvyčajne biele bradavičky, ktoré môže zmyť dážď. Amanita crocea nemá prsteň a má belavé lupene. Smrteľne jedovatá Amanita phalloides má zelenkastý až belavý klobúk, biele lupene a biely prsteň; jej vajíčko je po pozdĺžnom prerezaní vnútri biele, zatiaľ čo vajíčko tohto druhu ukazuje žltooranžový klobúk.",
+      "notes": "Je zaradená do červených zoznamov mnohých európskych krajín a v Poľsku vyhynula, celosvetovo je však hodnotená ako málo dotknutá. Podobné oranžové druhy zo Severnej Ameriky a východnej Ázie, kedysi uvádzané pod týmto menom, sa dnes považujú za samostatné druhy.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.nahuby.sk/atlas-hub/Amanita-caesarea/muchotravka-cisarska/muchomurka-cisarka/ID285"
+      ],
+      "label": "muchotrávka cisárska"
+    },
+    "sl": {
+      "description": "Velika, opazna goba z gladkim oranžno rdečim klobukom, rumenimi lističi in rumenim betom z visečim obročkom, ki zraste iz debele bele nožnice ob dnu. Izleže se iz belega jajca in je toploljubna vrsta južne Evrope in severne Afrike, severno od Alp redka in raztresena.",
+      "cap": "Klobuk meri 8–20 cm v premeru, sprva je jajčast in skrit v belem ovoju, nato polkroglast, izbočen in nazadnje raven. Površina je gladka, svetleča in v vlagi nekoliko lepljiva, živo oranžna do oranžno rdeča, proti robu bledi v zlato rumeno, navadno gola, le redko z eno ali dvema velikima belima ostankoma ovoja. Rob je izrazito progast.",
+      "hymenium": "Lističi so prosti, gosti in široki, sprva bledo rumeni, nato živo zlato rumeni.",
+      "stipe": "Bet je dolg 8–15 cm in debel 2–3 cm, valjast, rumen do zlato rumen, gladek ali drobno kosmičast, s starostjo votel. Nosi velik, viseč, kožnat rumen obroček, na zgornji strani progast, njegovo dno pa tiči v debeli, krpasti, beli vrečasti nožnici, ki prosto odstopa od beta.",
+      "flesh": "Belo, tik pod kožico klobuka in površino beta zlato rumeno, na prerezu ne spremeni barve. Vonj je šibak in prijeten, pri starih trosnjakih neprijeten.",
+      "sporePrint": "Trosni prah bel. Trosi so elipsoidni, gladki, hialini in neamiloidni, 9–13 × 6–8,5 µm.",
+      "habitat": "Ektomikorizna z hrasti in drugimi listavci, zlasti s pravim kostanjem in bukvijo, občasno tudi z iglavci. Raste posamič ali v majhnih skupinah v toplih, suhih in sončnih gozdovih, na gozdnih robovih in jasah, pogosto na južnih pobočjih in kislih peščenih tleh, trosnjake pa razvije šele po dolgih obdobjih poletne vročine, ki jim sledi dež. Pojavlja se od julija do oktobra.",
+      "uses": "Odlična užitna goba, cenjena že od rimskih časov, a le za izkušene gobarje. Nabirajte samo povsem odprte trosnjake, ki imajo lističe, bet in obroček jasno rumene. Zaprta jajca so nevarna: od zunaj so podobna jajcem smrtno strupene Amanita phalloides in drugih smrtno strupenih belih vrst rodu Amanita, ta zamenjava pa je že povzročila smrtne zastrupitve.",
+      "confusion": "Amanita muscaria ima bele lističe, bel bet in obroček, namesto proste nožnice gomolj s pasovi ostankov ovoja in na klobuku navadno bele bradavice, ki jih lahko spere dež. Amanita crocea nima obročka in ima belkaste lističe. Smrtno strupena Amanita phalloides ima zelenkast do belkast klobuk, bele lističe in bel obroček; po dolgem prerezano je njeno jajce znotraj belo, jajce te vrste pa pokaže rumeno oranžen klobuk.",
+      "notes": "Uvrščena je na rdeče sezname številnih evropskih držav in je na Poljskem izumrla, v svetovnem merilu pa je ocenjena kot neogrožena. Podobne oranžne vrste iz Severne Amerike in vzhodne Azije, nekoč navedene pod tem imenom, danes veljajo za samostojne vrste.",
+      "names": [],
+      "sourceUrls": [
+        "https://sl.wikipedia.org/wiki/Knežja_mušnica",
+        "https://www.gbif.org/species/5240269"
+      ],
+      "label": "knežja mušnica"
+    },
+    "sr": {
+      "description": "Велика, упадљива гљива глатког наранџастоцрвеног шешира, жутих листића и жуте дршке са висећим прстеном, која израста из дебеле беле вреће на дну. Излеже се из белог јајета и топлољубива је врста јужне Европе и северне Африке, северно од Алпа ретка и расута.",
+      "cap": "Шешир је пречника 8–20 cm, у почетку јајаст и скривен у белом овоју, затим полулоптаст, испупчен и на крају раван. Површина је глатка, сјајна и по влази мало лепљива, жарко наранџаста до наранџастоцрвена, према ободу бледи у златножуту, обично гола, ретко са једним или два велика бела остатка овоја. Обод је јасно избраздан.",
+      "hymenium": "Листићи су слободни, густи и широки, у почетку бледожути, затим јарко златножути.",
+      "stipe": "Дршка је дуга 8–15 cm и дебела 2–3 cm, ваљкаста, жута до златножута, глатка или фино пахуљичава, са старошћу шупља. Носи велики, висећи, опнасти жути прстен, са горње стране избраздан, а дно јој је усађено у дебелу, режњевиту, белу врећасту волву која слободно одстоји од дршке.",
+      "flesh": "Бело, тик испод кожице шешира и површине дршке златножуто, на пресеку не мења боју. Мирис је слаб и пријатан, код старих плодних тела непријатан.",
+      "sporePrint": "Отисак спора бео. Споре су елипсоидне, глатке, хијалине и неамилоидне, 9–13 × 6–8,5 µm.",
+      "habitat": "Ектомикоризна са храстовима и другим листопадним дрвећем, нарочито питомим кестеном и буквом, а повремено и са четинарима. Расте појединачно или у малим групама у топлим, сувим и сунчаним шумама, на рубовима шума и чистинама, често на јужним падинама и киселим песковитим земљиштима, а плодна тела образује тек после дугих периода летње жеге праћених кишом. Јавља се од јула до октобра.",
+      "uses": "Одлична јестива гљива, цењена још од римских времена, али само за искусне гљиваре. Берите само потпуно отворена плодна тела чији су листићи, дршка и прстен јасно жути. Затворена јаја су опасна: споља личе на јаја смртоносне Amanita phalloides и других смртоносних белих врста рода Amanita, а ова замена је већ изазвала смртоносна тровања.",
+      "confusion": "Amanita muscaria има беле листиће, белу дршку и прстен, уместо слободне вреће кртолу са појасевима остатака овоја и на шеширу обично беле брадавице које киша може спрати. Amanita crocea нема прстен и има беличасте листиће. Смртоносна Amanita phalloides има зеленкаст до беличаст шешир, беле листиће и бели прстен; пресечено по дужини, њено јаје је изнутра бело, док јаје ове врсте показује жутонаранџасти шешир.",
+      "notes": "Налази се на црвеним листама многих европских земаља и изумрла је у Пољској, али је на светском нивоу процењена као најмање угрожена. Сличне наранџасте врсте из Северне Америке и источне Азије, некада бележене под овим именом, данас се сматрају засебним врстама.",
+      "names": [
+        "јајчара"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/5240269",
+        "https://sr.wikipedia.org/wiki/Јајчара"
+      ],
+      "label": "благва"
+    },
+    "sv": {
+      "description": "En stor, iögonfallande svamp med slät orangeröd hatt, gula skivor och gul fot med hängande ring, som växer upp ur en tjock vit säck vid basen. Den kläcks ur ett vitt ägg och är en värmeälskande art i södra Europa och Nordafrika, sällsynt och spridd norr om Alperna.",
+      "cap": "Hatten är 8–20 cm bred, först äggformad och dold i det vita hyllet, sedan halvklotformad, välvd och till sist platt. Ytan är slät, glänsande och något klibbig i fuktigt väder, klart orange till orangeröd, mot kanten blekande till guldgul, vanligen kal, sällan med en eller två stora vita hylleplättar. Kanten är tydligt räfflad.",
+      "hymenium": "Skivorna är fria, täta och breda, först blekgula, sedan djupt guldgula.",
+      "stipe": "Foten är 8–15 cm lång och 2–3 cm tjock, cylindrisk, gul till guldgul, slät eller fint flockig, och blir ihålig med åldern. Den bär en stor, hängande, hinnaktig gul ring som är räfflad på ovansidan, och basen sitter i en tjock, flikig, vit säckformig strumpa som står fri från foten.",
+      "flesh": "Vitt, guldgult strax under hatthuden och fotens yta, oföränderligt i snitt. Lukten är svag och behaglig, obehaglig hos gamla fruktkroppar.",
+      "sporePrint": "Sporavtryck vitt. Sporerna är ellipsoida, släta, hyalina och inamyloida, 9–13 × 6–8,5 µm.",
+      "habitat": "Bildar mykorrhiza med ekar och andra lövträd, särskilt äkta kastanj och bok, ibland även med barrträd. Den växer ensam eller i små grupper i varma, torra och soliga skogar, i skogskanter och gläntor, ofta på sydsluttningar och sur sandig mark, och bildar fruktkroppar först efter långa perioder av sommarvärme följda av regn. Den förekommer från juli till oktober.",
+      "uses": "Utmärkt matsvamp, uppskattad sedan romartiden, men bara för erfarna svampplockare. Plocka endast helt utvecklade fruktkroppar vars skivor, fot och ring alla är tydligt gula. Oöppnade ägg är farliga: utifrån liknar de äggen av den dödligt giftiga Amanita phalloides och andra dödligt giftiga vita Amanita-arter, och denna förväxling har orsakat dödliga förgiftningar.",
+      "confusion": "Amanita muscaria har vita skivor, vit fot och ring, i stället för en fri säck en knöl omgiven av hylleringar, och vanligen vita vårtor på hatten som regn kan skölja bort. Amanita crocea saknar ring och har vitaktiga skivor. Den dödligt giftiga Amanita phalloides har grönaktig till vitaktig hatt, vita skivor och vit ring; skuret på längden är dess ägg vitt inuti, medan ägget hos denna art visar en gulorange hatt.",
+      "notes": "Rödlistad i många europeiska länder och utdöd i Polen, men globalt bedömd som livskraftig. Liknande orange arter från Nordamerika och Östasien, som tidigare fördes till detta namn, räknas i dag som egna arter.",
+      "names": [],
+      "sourceUrls": [
+        "https://sv.wikipedia.org/wiki/Amanita_caesarea",
+        "https://commons.wikimedia.org/wiki/File:Amanita_caesarea.JPG"
+      ],
+      "label": "kejsarflugsvamp"
+    },
+    "tr": {
+      "description": "Pürüzsüz turuncu-kırmızı şapkalı, sarı lamelli ve sarkık halkalı sarı saplı, tabanındaki kalın beyaz bir keseden yükselen büyük ve gösterişli bir mantar. Beyaz bir yumurtadan çıkar; Güney Avrupa ve Kuzey Afrika'nın sıcak seven bir türüdür, Alplerin kuzeyinde nadir ve dağınıktır.",
+      "cap": "Şapka 8–20 cm çapındadır; önce yumurta biçimli ve beyaz örtünün içinde gizlidir, sonra yarım küre biçimli, dışbükey ve en sonunda düz olur. Yüzeyi pürüzsüz, parlak ve nemliyken hafif yapışkandır; parlak turuncudan turuncu-kırmızıya değişir, kenara doğru altın sarısına solar, genellikle çıplaktır, nadiren bir iki büyük beyaz örtü kalıntısı taşır. Kenarı belirgin biçimde çizgilidir.",
+      "hymenium": "Lameller serbest, sık ve geniştir; önce soluk sarı, sonra koyu altın sarısıdır.",
+      "stipe": "Sap 8–15 cm uzunluğunda ve 2–3 cm kalınlığındadır; silindiriktir, sarıdan altın sarısına değişir, pürüzsüz ya da ince pullu olup yaşla içi boşalır. Üst yüzü çizgili, büyük, sarkık, zarsı sarı bir halka taşır; tabanı ise saptan serbestçe ayrılan kalın, loblu, beyaz, kese biçimli bir volvaya oturur.",
+      "flesh": "Beyaz, şapka derisinin ve sap yüzeyinin hemen altında altın sarısıdır, kesildiğinde renk değiştirmez. Kokusu hafif ve hoştur, yaşlı meyve gövdelerinde hoş değildir.",
+      "sporePrint": "Spor izi beyaz. Sporlar elipsoit, pürüzsüz, hiyalin ve amiloit olmayan, 9–13 × 6–8,5 µm.",
+      "habitat": "Meşeler ve diğer geniş yapraklı ağaçlarla, özellikle kestane ve kayınla, bazen de iğne yapraklılarla ektomikoriza oluşturur. Sıcak, kuru ve güneşli ormanlarda, orman kenarlarında ve açıklıklarda, çoğunlukla güneye bakan yamaçlarda ve asidik kumlu topraklarda tek tek ya da küçük gruplar hâlinde büyür ve ancak uzun yaz sıcaklarının ardından gelen yağmurlardan sonra meyve verir. Temmuzdan ekime kadar görülür.",
+      "uses": "Roma döneminden beri değer verilen çok lezzetli bir yenebilir mantar, ancak yalnızca deneyimli toplayıcılar için. Yalnızca lamelleri, sapı ve halkası açıkça sarı olan, tamamen açılmış meyve gövdelerini toplayın. Açılmamış yumurtalar tehlikelidir: dışarıdan ölümcül derecede zehirli Amanita phalloides ve diğer ölümcül beyaz Amanita türlerinin yumurtalarına benzerler ve bu karışıklık ölümcül zehirlenmelere yol açmıştır.",
+      "confusion": "Amanita muscaria beyaz lamellere, beyaz sap ve halkaya, serbest bir kese yerine örtü kalıntısı kuşaklı bir yumruya ve şapkasında genellikle yağmurun yıkayabileceği beyaz siğillere sahiptir. Amanita crocea halkasızdır ve lamelleri beyazımsıdır. Ölümcül Amanita phalloides yeşilimsiden beyazımsıya şapkaya, beyaz lamellere ve beyaz halkaya sahiptir; boyuna kesildiğinde yumurtasının içi beyazdır, oysa bu türün yumurtasında sarı-turuncu bir şapka görülür.",
+      "notes": "Birçok Avrupa ülkesinin kırmızı listesinde yer alır ve Polonya'da yok olmuştur, ancak küresel ölçekte asgari endişe kategorisinde değerlendirilir. Kuzey Amerika ve Doğu Asya'dan, eskiden bu adla kaydedilen benzer turuncu türler bugün ayrı türler olarak kabul edilir.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Великий ефектний гриб із гладким оранжево-червоним капелюшком, жовтими пластинками та жовтою ніжкою з звислим кільцем, що виростає з товстого білого мішка біля основи. Він вилуплюється з білого яйця і є теплолюбним видом Південної Європи та Північної Африки, на північ від Альп рідкісним і розсіяним.",
+      "cap": "Капелюшок 8–20 cm у діаметрі, спочатку яйцеподібний і схований у білому покривалі, згодом напівкулястий, опуклий і нарешті плаский. Поверхня гладенька, блискуча, у вологу погоду трохи липка, яскраво-оранжева до оранжево-червоної, до краю блідне до золотисто-жовтої, зазвичай гола, рідко з одним-двома великими білими залишками покривала. Край чітко борозенчастий.",
+      "hymenium": "Пластинки вільні, часті й широкі, спочатку блідо-жовті, потім насичено золотисто-жовті.",
+      "stipe": "Ніжка завдовжки 8–15 cm і завтовшки 2–3 cm, циліндрична, жовта до золотисто-жовтої, гладенька або тонкопластівчаста, з віком порожниста. На ній велике звисле плівчасте жовте кільце, борозенчасте зверху, а основа сидить у товстій, лопатевій, білій мішкоподібній вольві, що вільно відстає від ніжки.",
+      "flesh": "Біла, одразу під шкірочкою капелюшка й поверхнею ніжки золотисто-жовта, на розрізі не змінює кольору. Запах слабкий і приємний, у старих плодових тіл неприємний.",
+      "sporePrint": "Спорова маса біла. Спори еліпсоїдні, гладенькі, гіалінові й неамілоїдні, 9–13 × 6–8,5 µm.",
+      "habitat": "Утворює ектомікоризу з дубами та іншими листяними деревами, особливо з каштаном їстівним і буком, іноді й з хвойними. Росте поодинці або невеликими групами в теплих, сухих і сонячних лісах, на узліссях і галявинах, часто на південних схилах і кислих піщаних ґрунтах, і плодоносить лише після тривалих періодів літньої спеки, за якими йдуть дощі. Трапляється з липня по жовтень.",
+      "uses": "Чудовий їстівний гриб, цінований ще з часів Стародавнього Риму, але лише для досвідчених грибників. Збирайте тільки повністю розкриті плодові тіла, у яких пластинки, ніжка й кільце чітко жовті. Нерозкриті яйця небезпечні: ззовні вони схожі на яйця смертельно отруйної Amanita phalloides та інших смертельно отруйних білих видів роду Amanita, і така плутанина вже спричиняла смертельні отруєння.",
+      "confusion": "Amanita muscaria має білі пластинки, білі ніжку й кільце, замість вільного мішка бульбу з поясками залишків покривала і зазвичай білі бородавки на капелюшку, які може змити дощ. Amanita crocea не має кільця, а пластинки в неї білуваті. Смертельно отруйна Amanita phalloides має зеленуватий до білуватого капелюшок, білі пластинки й біле кільце; у поздовжньому розрізі її яйце всередині біле, тоді як у яйці цього виду видно жовто-оранжевий капелюшок.",
+      "notes": "Внесений до червоних списків багатьох європейських країн і зник у Польщі, але у світовому масштабі оцінюється як вид, що викликає найменші побоювання. Подібні оранжеві види з Північної Америки та Східної Азії, які раніше наводили під цією назвою, тепер вважають окремими видами.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/5240269",
+        "https://uk.wikipedia.org/wiki/Мухомор_Цезаря"
+      ],
+      "label": "мухомор Цезаря"
+    },
+    "zh": {
+      "description": "一種大型而醒目的蕈菇，菌蓋光滑呈橙紅色，菌褶黃色，黃色菌柄上有下垂的菌環，從基部厚實的白色囊中長出。它從白色的卵中破殼而出，是南歐和北非的喜溫物種，在阿爾卑斯山以北稀少而零星。",
+      "cap": "菌蓋直徑8–20 cm，初呈卵形並藏於白色外菌幕內，後呈半球形、凸鏡形，最後平展。表面光滑、有光澤，潮濕時稍黏，鮮橙色至橙紅色，向邊緣褪為金黃色，通常光禿，偶有一兩塊大的白色菌幕殘片。邊緣有明顯條紋。",
+      "hymenium": "菌褶離生，密而寬，初淡黃色，後轉為濃金黃色。",
+      "stipe": "菌柄長8–15 cm，粗2–3 cm，圓柱形，黃色至金黃色，平滑或有細小絮狀鱗片，老後中空。柄上有大型、下垂、膜質的黃色菌環，上表面有條紋；基部坐落於厚實、分裂、白色袋狀的菌托中，菌托與菌柄分離。",
+      "flesh": "白色，緊貼菌蓋表皮和菌柄表面之下呈金黃色，切開不變色。氣味微弱宜人，老熟子實體則有不快氣味。",
+      "sporePrint": "孢子印白色。孢子橢圓形，光滑，透明，非類澱粉質，9–13 × 6–8.5 µm。",
+      "habitat": "與櫟樹及其他闊葉樹，尤其是歐洲栗和山毛櫸形成外生菌根，偶爾也與針葉樹共生。單生或小群生於溫暖、乾燥、向陽的林中、林緣和林間空地，常見於朝南的坡地和酸性沙質土，只在漫長夏季高溫之後再遇降雨時才出菇。七月至十月可見。",
+      "uses": "自古羅馬時代即備受珍視的上等食用菌，但只適合經驗豐富的採集者。只採收完全展開、菌褶、菌柄和菌環都明顯呈黃色的子實體。未開的菌蛋很危險：從外觀看，它們與劇毒的Amanita phalloides及其他劇毒白色Amanita物種的菌蛋相似，這種混淆已造成致命中毒。",
+      "confusion": "Amanita muscaria的菌褶、菌柄和菌環均為白色，基部不是游離的囊而是帶有環狀菌幕殘餘的球莖，菌蓋上通常有可被雨水沖掉的白色疣。Amanita crocea沒有菌環，菌褶帶白色。劇毒的Amanita phalloides菌蓋帶綠色至白色，菌褶和菌環白色；縱切後其菌蛋內部為白色，而本種的菌蛋可見黃橙色菌蓋。",
+      "notes": "被列入許多歐洲國家的紅色名錄，並已在波蘭絕滅，但在全球層面被評為無危。北美洲和東亞相似的橙色物種，過去曾以此名記錄，現已被視為獨立物種。",
+      "names": [
+        "橙蓋鵝膏菌"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/5240269",
+        "https://zh.wikipedia.org/wiki/橙盖鹅膏菌",
+        "https://kib.cas.cn/kxcb/kxtp/201606/t20160627_4628071.html"
+      ],
+      "label": "橙蓋鵝膏"
+    }
+  },
+  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Amanita_caesarea/Amanita_caesarea@1600.webp",
+  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Amanita_caesarea/Amanita_caesarea@400.webp",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Amanita_caesarea/Amanita_caesarea@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Amanita_caesarea/Amanita_caesarea@400.webp",
+  "plateCredit": {
+    "author": "Owner-supplied artwork; visually matches L. Dufour, Atlas des champignons comestibles et vénéneux (1891), pl. 2 (unverified file chain)",
+    "credit": "Existing L. Dufour mark retained once; not authenticated authorship.",
+    "license": "Owner supplied; the 1891 plate is public domain per Commons/BHL; rights in the supplied derivative not independently established",
+    "source": "supplied_original.png"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Amanita_caesarea/ac1.webp",
+      "author": "Dimitǎr Boevski",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/368738603"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Amanita_caesarea/ac2.webp",
+      "author": "Ferenc Molnár",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/138815145"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Amanita_caesarea/ac3.webp",
+      "author": "Drumețul Dacic",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/244531280"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Amanita_caesarea/ac4.webp",
+      "author": "Lucian Clanet",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/410474377"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Amanita_caesarea/ac5.webp",
+      "author": "Manuela Fiorini",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/315230013"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Agaricales/Amanitaceae/Amanita_caesarea/Amanita_caesarea@1600.webp",
+      "author": "Owner-supplied artwork; visually matches L. Dufour, Atlas des champignons comestibles et vénéneux (1891), pl. 2 (unverified file chain)",
+      "license": "Owner supplied; the 1891 plate is public domain per Commons/BHL; rights in the supplied derivative not independently established",
+      "sourceUrl": "supplied_original.png",
+      "relatedSource": "https://commons.wikimedia.org/wiki/File:Atlas_des_champignons_comestibles_et_v%C3%A9n%C3%A9neux_(Planche_2)_BHL3270717.jpg",
+      "existingMark": "L. Dufour script mark; retained once, not on the 1891 scan, not authenticated"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Agaricales/Amanitaceae/Amanita_caesarea/ac1.webp",
+      "author": "Dimitǎr Boevski",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/368738603",
+      "photoUrl": "https://www.inaturalist.org/photos/673503189",
+      "attribution": "(c) Dimitǎr Boevski, some rights reserved (CC BY)",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Agaricales/Amanitaceae/Amanita_caesarea/ac2.webp",
+      "author": "Ferenc Molnár",
+      "license": "CC0 1.0 Universal",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/138815145",
+      "photoUrl": "https://www.inaturalist.org/photos/237320424",
+      "attribution": "no rights reserved",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Agaricales/Amanitaceae/Amanita_caesarea/ac3.webp",
+      "author": "Drumețul Dacic",
+      "license": "CC0 1.0 Universal",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/244531280",
+      "photoUrl": "https://www.inaturalist.org/photos/436196195",
+      "attribution": "no rights reserved",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Agaricales/Amanitaceae/Amanita_caesarea/ac4.webp",
+      "author": "Lucian Clanet",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/410474377",
+      "photoUrl": "https://www.inaturalist.org/photos/754933999",
+      "attribution": "(c) Lucian Clanet, some rights reserved (CC BY)",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Agaricales/Amanitaceae/Amanita_caesarea/ac5.webp",
+      "author": "Manuela Fiorini",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/315230013",
+      "photoUrl": "https://www.inaturalist.org/photos/569445052",
+      "attribution": "(c) Manuela Fiorini, some rights reserved (CC BY)",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    }
+  ],
+  "synonyms": [
+    "Agaricus caesareus Scop.",
+    "Hypophyllum caesareum (Scop.) Paulet",
+    "Venenarius caesareus (Scop.) Murrill",
+    "Volvoamanita caesarea (Scop.) E. Horak"
+  ],
+  "fruitingFrom": 7,
+  "fruitingTo": 10,
+  "reserved": false,
+  "id": 145,
+  "added": "2026-11-09",
+  "citation": "Pers., Syn. meth. fung. (Göttingen) 2: 252 (1801)",
+  "illustrationProvenance": {
+    "tool": "Pillow + OpenCV deterministic alpha-only segmentation; no generation",
+    "sourceFile": "Amanita caesarea.png",
+    "sourceFormat": "JPEG",
+    "sourceFormatNote": "File named .png is actually JPEG/JFIF; no source alpha; alpha produced by segmentation of the cream paper background.",
+    "sourceDimensions": [
+      896,
+      1200
+    ],
+    "sourceSHA256": "e8861d31c7dadd5ea9ebe85c0bbba0bff5850d7441fa82514d4d52f9f983949e",
+    "backgroundSHA256": "d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c",
+    "alphaPNG": "artwork_rgba.png",
+    "mask": "artwork_alpha_mask.png",
+    "cropBBox": [
+      151,
+      115,
+      819,
+      1134
+    ],
+    "uniformScale": 2.001962708537782,
+    "placement": [
+      131,
+      180
+    ],
+    "composedArtworkDimensions": [
+      1337,
+      2040
+    ],
+    "allSourceRGBChangedPixels": 0,
+    "transparentPixels": 775803,
+    "opaquePixels": 281944,
+    "partialAlphaPixels": 17453,
+    "looseSpeckPixelsKept": 6,
+    "signatureBox": [
+      688,
+      1085,
+      828,
+      1142
+    ],
+    "signatureComponents": 3,
+    "signaturePixels": 619,
+    "preservedObjects": [
+      "upright mature fruit body with smooth orange-red cap, pale yellow gills, yellow ring and stipe in a large white sac-like volva (centre)",
+      "second fruit body tilted to show yellow gills, ring and stipe in a torn white volva (left)",
+      "young fruit body (egg stage) with orange cap emerging from the white volva (lower centre)",
+      "outline longitudinal section of an egg showing the cap and yellow gill primordia (lower right)",
+      "existing L. Dufour mark"
+    ],
+    "signatureTreatment": "Existing L. Dufour mark retained once (matches the owner-requested signature text); zero added marks. The mark is not authenticated: no creator, historical attribution, rights or species identity inferred.",
+    "contours": [
+      {
+        "area": 2849.5,
+        "box": [
+          672,
+          843,
+          67,
+          145
+        ]
+      },
+      {
+        "area": 3139.5,
+        "box": [
+          575,
+          843,
+          69,
+          132
+        ]
+      },
+      {
+        "area": 34031.5,
+        "box": [
+          335,
+          815,
+          187,
+          225
+        ]
+      },
+      {
+        "area": 3136.5,
+        "box": [
+          552,
+          773,
+          210,
+          277
+        ]
+      },
+      {
+        "area": 238318.5,
+        "box": [
+          153,
+          117,
+          618,
+          788
+        ]
+      }
+    ],
+    "rejectedPaperVignetteContours": [
+      {
+        "area": 23535.0,
+        "box": [
+          173,
+          15,
+          708,
+          1170
+        ]
+      },
+      {
+        "area": 19851.0,
+        "box": [
+          15,
+          15,
+          531,
+          1170
+        ]
+      }
+    ],
+    "backgroundSourceDimensions": [
+      1067,
+      1600
+    ],
+    "backgroundCanvasDimensions": [
+      1600,
+      2400
+    ],
+    "generation": false,
+    "repainting": false,
+    "stretching": false,
+    "sourcePaperRemoved": true,
+    "visualReview": "PASS: transparency checker, plate preview and full-size crops inspected. Real alpha, four objects (two mature fruit bodies, the egg, the outline section with gill primordia) and the existing mark kept once; no double frame; section line work intact; uniform scale. Anatomy matches the 1891 plate. Colours follow the supplied file, not the scan.",
+    "probableSourceIdentification": {
+      "finding": "Visual match: the supplied image is a cleaned/retinted derivative of Léon Dufour, Atlas des champignons comestibles et vénéneux (Paris, 1891), Planche 2, figure \"N°3 Amanita cæsarea. Amanite des Césars (comestible)\". Same two mature fruit bodies, egg and egg section in identical poses.",
+      "commons": [
+        "https://commons.wikimedia.org/wiki/File:Atlas_des_champignons_comestibles_et_v%C3%A9n%C3%A9neux_(Planche_2)_BHL3270717.jpg",
+        "https://commons.wikimedia.org/wiki/File:Atlas_des_champignons_comestibles_et_v%C3%A9n%C3%A9neux_(Planche_2)_(6358013309).jpg"
+      ],
+      "bhl": "https://www.biodiversitylibrary.org/pageimage/3270717",
+      "commonsLicense": "Public domain (Commons/BHL metadata; artist field \"Dufour, L.\", 1891)",
+      "evidence": "sources/commons_dufour_plate2.json, sources/commons_pl2_bhl.jpg, sources/commons_pl2_flickr.jpg",
+      "differences": [
+        "Printed header \"Dufour, Champignons. / Planche 2\" and caption removed",
+        "Background replaced by a warmer paper tone; cap tint redder and gills/stipe yellower than the scan",
+        "A script \"L. Dufour\" mark at lower right is NOT present on the BHL/Flickr scans; it was added later, by an unknown process"
+      ],
+      "status": "Visual match only; no pixel-level or file-chain proof of how the supplied file was made. Public-domain status of the 1891 plate is per Commons/BHL and not independently verified; rights in the supplied derivative are unverified."
+    },
+    "signatureFindings": "The supplied file carries one script mark \"L. Dufour\" (matches the requested signature text). It is absent from the 1891 BHL scan, so it is a later addition, not an original autograph. It was kept exactly once and no mark was added. Léon Dufour is credited as the author of the 1891 Atlas on Commons/BHL; whether he drew the plate, and who added the script mark, is unverified.",
+    "alphaPNGSHA256": "a554629a7d7d1a0bfd1b3ab5928ac0cb91eaaf29063756d7303ab78a000c38b6",
+    "maskSHA256": "c3e26709b42d05de6ea8fc3aec75caa1be51a35069cc35c2f03690ea5d0f9fca",
+    "recipeSHA256": "de031d785d7612a8345852ac054fe3b3ea3790ab9c5ff7e966c6f83dbf39c81e",
+    "officialFiles": [
+      {
+        "path": "media/Amanita_caesarea@1600.webp",
+        "bytes": 200870,
+        "sha256": "79573ac95e59fed6f60f4b8912571298b9aa1289dc31649e939290235c5f76cb"
+      },
+      {
+        "path": "media/Amanita_caesarea@400.webp",
+        "bytes": 29078,
+        "sha256": "51d3f53afd0cd9bdfa145c8d0bf5eb9be7b98451b851d4783aa2ae74a16860ed"
+      }
+    ],
+    "rights": "Owner supplied. Visually matches the public-domain 1891 Dufour Atlas plate 2 (Commons/BHL), but the supplied file is a retinted derivative with an added script mark; rights in the derivative and the file chain are unverified",
+    "anatomyVerified": false
+  }
+},
+{
+  "name": "Omphalotus olearius",
+  "author": "(DC.) Singer",
+  "family": "Omphalotaceae",
+  "genus": "Omphalotus",
+  "order": "Agaricales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Agaricales",
+    "Omphalotaceae",
+    "Omphalotus"
+  ],
+  "summary": [
+    "Agaricales",
+    "Omphalotaceae",
+    "Omphalotus"
+  ],
+  "edibility": "poisonous",
+  "hymenium": "gills",
+  "where": [
+    "wood"
+  ],
+  "color": [
+    "yellow",
+    "brown"
+  ],
+  "capFrom": 4.0,
+  "capTo": 12.0,
+  "stipeHeightFrom": 4.0,
+  "stipeHeightTo": 12.0,
+  "stipeThickFrom": 0.7,
+  "stipeThickTo": 3.0,
+  "label": {
+    "ar": "Omphalotus olearius",
+    "bg": "горчива миризливка",
+    "cs": "hlívovník olivový",
+    "da": "Omphalotus olearius",
+    "de": "Dunkler Ölbaumtrichterling",
+    "en": "European jack-o'-lantern",
+    "es": "seta de olivo",
+    "et": "oliiv-laternseen",
+    "fa": "قارچ کدوفانوسی",
+    "fi": "öljypuusieni",
+    "fr": "pleurote de l'olivier",
+    "he": "טבורית הזית",
+    "hi": "Omphalotus olearius",
+    "hr": "otrovna zavodnica",
+    "hu": "világító tölcsérgomba",
+    "id": "Omphalotus olearius",
+    "it": "fungo dell'olivo",
+    "ja": "Omphalotus olearius",
+    "ko": "Omphalotus olearius",
+    "lt": "oranžinė alyvbudė",
+    "lv": "Omphalotus olearius",
+    "nl": "zuidelijke lantaarnzwam",
+    "no": "Omphalotus olearius",
+    "pl": "kielichowiec pomarańczowy",
+    "pt": "cogumelo-das-oliveiras",
+    "ro": "buricul măslinului",
+    "ru": "омфалот маслиновый",
+    "sk": "kališník hnedooranžový",
+    "sl": "oljkov livkar",
+    "sr": "заводница",
+    "sv": "Omphalotus olearius",
+    "tr": "ağulu mantar",
+    "uk": "омфалот оранжево-червоний",
+    "zh": "發光類臍菇"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "hlíva olivová"
+    ],
+    "da": [],
+    "de": [
+      "Dunkler Ölbaumpilz"
+    ],
+    "en": [
+      "jack-o'-lantern mushroom"
+    ],
+    "es": [
+      "seta del olivo"
+    ],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [
+      "clitocybe de l'olivier"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [
+      "fungo dell'ulivo"
+    ],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "вешенка оливковая"
+    ],
+    "sk": [],
+    "sl": [],
+    "sr": [
+      "брагара"
+    ],
+    "sv": [],
+    "tr": [],
+    "uk": [
+      "клітоцибе оранжево-червоний"
+    ],
+    "zh": [
+      "發光臍菇"
+    ]
+  },
+  "sources": {
+    "ar": [],
+    "bg": [
+      "https://bg.wikipedia.org/wiki/Горчива_миризливка",
+      "https://www.gbif.org/species/2538088"
+    ],
+    "cs": [
+      "https://cs.wikipedia.org/wiki/Hlívovník_olivový",
+      "https://www.gbif.org/species/2538088"
+    ],
+    "da": [],
+    "de": [
+      "https://de.wikipedia.org/wiki/Dunkler_Ölbaumtrichterling",
+      "https://www.gbif.org/species/2538088"
+    ],
+    "en": [
+      "https://en.wikipedia.org/wiki/Omphalotus_olearius",
+      "https://www.nahuby.sk/atlas-hub/Omphalotus-olearius/kalisnik-hnedooranzovy/ID181",
+      "https://de.wikipedia.org/wiki/Dunkler_Ölbaumtrichterling",
+      "https://es.wikipedia.org/wiki/Omphalotus_olearius",
+      "https://fr.wikipedia.org/wiki/Omphalotus_olearius",
+      "https://ru.wikipedia.org/wiki/Омфалот_маслиновый",
+      "https://cs.wikipedia.org/wiki/Hlívovník_olivový",
+      "https://nl.wikipedia.org/wiki/Zuidelijke_lantaarnzwam",
+      "https://www.mushroomexpert.com/omphalotus_illudens.html",
+      "https://www.cancer.gov/publications/dictionaries/cancer-drug/def/irofulven",
+      "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=288943",
+      "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=288943",
+      "https://www.gbif.org/species/2538088"
+    ],
+    "es": [
+      "https://es.wikipedia.org/wiki/Omphalotus_olearius",
+      "https://www.gbif.org/species/2538088"
+    ],
+    "et": [
+      "https://et.wikipedia.org/wiki/Laternseen"
+    ],
+    "fa": [
+      "https://fa.wikipedia.org/wiki/قارچ_کدوفانوسی"
+    ],
+    "fi": [
+      "https://fi.wikipedia.org/wiki/Öljypuusieni"
+    ],
+    "fr": [
+      "https://www.gbif.org/species/2538088",
+      "https://fr.wikipedia.org/wiki/Omphalotus_olearius"
+    ],
+    "he": [
+      "https://www.gbif.org/species/2538088",
+      "https://www.wikidata.org/wiki/Q1043730"
+    ],
+    "hi": [],
+    "hr": [
+      "https://hr.wikipedia.org/wiki/Otrovna_zavodnica",
+      "https://www.gbif.org/species/2538088"
+    ],
+    "hu": [
+      "https://hu.wikipedia.org/wiki/Világító_tölcsérgomba",
+      "https://www.gbif.org/species/2538088"
+    ],
+    "id": [],
+    "it": [
+      "https://www.gbif.org/species/2538088",
+      "https://funghimeteo.it/fungo-dell-olivo",
+      "https://it.wikipedia.org/wiki/Omphalotus_olearius"
+    ],
+    "ja": [],
+    "ko": [],
+    "lt": [
+      "https://www.gbif.org/species/2538088"
+    ],
+    "lv": [],
+    "nl": [
+      "https://nl.wikipedia.org/wiki/Zuidelijke_lantaarnzwam",
+      "https://www.gbif.org/species/2538088"
+    ],
+    "no": [],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/Kielichowiec_pomarańczowy",
+      "https://www.gbif.org/species/2538088"
+    ],
+    "pt": [
+      "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/omphalotus-olearius/"
+    ],
+    "ro": [
+      "https://ro.wikipedia.org/wiki/Omphalotus_olearius"
+    ],
+    "ru": [
+      "https://ru.wikipedia.org/wiki/Омфалот_маслиновый",
+      "https://www.gbif.org/species/2538088"
+    ],
+    "sk": [
+      "https://www.nahuby.sk/atlas-hub/Omphalotus-olearius/kalisnik-hnedooranzovy/ID181"
+    ],
+    "sl": [
+      "https://sl.wikipedia.org/wiki/Oljkov_livkar",
+      "https://www.gbif.org/species/2538088"
+    ],
+    "sr": [
+      "https://sr.wikipedia.org/wiki/Заводница"
+    ],
+    "sv": [],
+    "tr": [
+      "https://tr.wikipedia.org/wiki/Ağulu_mantar",
+      "https://www.gbif.org/species/2538088"
+    ],
+    "uk": [
+      "https://uk.wikipedia.org/wiki/Омфалот_оранжево-червоний"
+    ],
+    "zh": [
+      "https://baike.baidu.com/item/发光类脐菇",
+      "https://www.gbif.org/species/2538088"
+    ]
+  },
+  "text": {
+    "ar": {
+      "description": "فطر خيشومي سام برتقالي زاهٍ، ينمو في عناقيد كثيفة على الجذوع المقطوعة والجذور المدفونة وعند قواعد الأشجار عريضة الأوراق، ولا سيما الزيتون والبلوط. تمتد خياشيمه المتزاحمة بعيدًا على الساق وقد تتوهج توهجًا خافتًا في الظلام. وهو شائع حول البحر المتوسط ونادر في أوروبا الوسطى.",
+      "cap": "يبلغ قطر القبعة ٤–١٢ cm، تكون في البداية محدبة بحافة ملتفة إلى الداخل، ثم منبسطة، وأخيرًا منخفضة حتى قمعية، وغالبًا غير متمركزة وبحافة متموجة. السطح جاف لامع كالحرير، أصفر برتقالي إلى بني برتقالي بألياف شعاعية دقيقة أدكن، وأدكن ما يكون نحو المركز.",
+      "hymenium": "الخياشيم حقيقية، رقيقة ومتزاحمة وبعرض ٢–٦ mm، نازلة بعمق على الساق، ذهبية صفراء إلى برتقالية؛ وفي الأجسام الثمرية الطازجة قد تتوهج في الظلام بضوء أزرق مخضر خافت.",
+      "stipe": "يبلغ طول الساق ٤–١٢ cm وسمكها ٠٫٧–٣ cm، مصمتة، أسمك ما تكون تحت القبعة وتستدق نحو القاعدة، وغالبًا منحنية وغير متمركزة، بلون القبعة أو أشحب، ولبادية ناعمة. وعادةً ما تلتحم عدة سيقان عند القاعدة.",
+      "flesh": "أصفر إلى أصفر ذهبي مع مسحة حمراء، متماسك وليفي ومرن، برتقالي في الساق كلها. الرائحة غير لافتة.",
+      "sporePrint": "طبعة الأبواغ بيضاء مائلة، أحيانًا بمسحة صفراء. الأبواغ شبه كروية، ملساء، عديمة اللون، ٥–٧ × ٤٫٥–٥٫٦ µm.",
+      "habitat": "فطر محلل للخشب على الأشجار عريضة الأوراق، ولا سيما الزيتون والبلوط والكستناء الحلوة، ينمو في عناقيد كبيرة على الجذوع المقطوعة وقواعد الجذوع والجذور المدفونة، ويهاجم أحيانًا الأشجار الحية. وهو شائع في منطقة البحر المتوسط ونادر في أدفأ أجزاء أوروبا الوسطى. يظهر من يوليو إلى نوفمبر.",
+      "uses": "سام. يسبب تناوله قيئًا عنيفًا ومغصًا في البطن وإسهالًا تبدأ بعد نحو ساعة إلى ساعتين من الوجبة. ولا يكون قاتلًا عادةً، لكن حالات التسمم متكررة في جنوب أوروبا لأنه يُخلط بأنواع صالحة للأكل من جنس Cantharellus. ومن سمومه الإيلودين S.",
+      "confusion": "لدى Cantharellus cibarius ثنيات كليلة متفرعة بدل الخياشيم الحقيقية، وينمو منفردًا أو في مجموعات متفرقة على التربة لا في عناقيد على الخشب، ولحم ساقه أشحب. أما Hygrophoropsis aurantiaca فأصغر وله خياشيم برتقالية طرية متفرعة مرارًا. ويبدو Omphalotus illudens شبه مطابق ويُميَّز أساسًا بصفات مجهرية.",
+      "notes": "تتوهج الخياشيم والغزل الفطري توهجًا مخضرًا خافتًا في الظلام بفعل التألق الحيوي. وقد صار سم الإيلودين S، الذي تشترك فيه أنواع قريبة، منطلقًا للدواء التجريبي المضاد للسرطان إيروفولفين. وقد أثبتت دراسات جزيئية أن نوعًا شديد الشبه من أمريكا الشمالية، كان يُعدّ سابقًا ضربًا من هذا النوع، نوعٌ مستقل.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Ярко оранжева, отровна пластинчата гъба, която расте на гъсти туфи по пънове, заровени корени и в основата на широколистни дървета, особено маслини и дъбове. Гъстите ѝ пластинки се спускат дълбоко по пънчето и в тъмното могат слабо да светят. Тя е често срещана в Средиземноморието и рядка в Централна Европа.",
+      "cap": "Шапката е с диаметър 4–12 cm, отначало изпъкнала с подвит ръб, после плоска и накрая вдлъбната до фуниевидна, често ексцентрична и с вълнист ръб. Повърхността е суха и копринено лъскава, жълтооранжева до оранжевокафява с фини по-тъмни радиални влакна, най-тъмна към центъра.",
+      "hymenium": "Пластинките са истински пластинки, тънки, гъсти и широки 2–6 mm, силно низбягващи по пънчето, златистожълти до оранжеви; при свежите плодни тела в тъмното могат слабо да светят синкавозелено.",
+      "stipe": "Пънчето е дълго 4–12 cm и дебело 0,7–3 cm, плътно, най-дебело под шапката и изтънява към основата, често извито и ексцентрично, с цвета на шапката или по-бледо и фино филцесто. Няколко пънчета обикновено са сраснали в основата.",
+      "flesh": "Жълто до златистожълто месо с червеникав оттенък, твърдо, влакнесто и еластично, в цялото пънче оранжево. Мирисът е незабележим.",
+      "sporePrint": "Спорите на отпечатък са белезникави, понякога с жълтеникав оттенък. Спорите са почти кълбести, гладки и безцветни, 5–7 × 4,5–5,6 µm.",
+      "habitat": "Разграждаща дървесината гъба по широколистни дървета, особено маслина, дъбове и обикновен кестен, расте на големи туфи по пънове, основи на стволове и заровени корени, а понякога напада и живи дървета. Често срещана е в Средиземноморието и рядка в най-топлите части на Централна Европа. Появява се от юли до ноември.",
+      "uses": "Отровна. Консумацията причинява силно повръщане, коремни спазми и диария, които започват около един до два часа след храненето. Обикновено не е смъртоносна, но в Южна Европа отравянията са чести, защото се бърка с ядливи видове от рода Cantharellus. Сред токсините ѝ е илудин S.",
+      "confusion": "Cantharellus cibarius има вместо истински пластинки тъпи, разклонени гънки, расте поединично или на разредени групи по почвата, а не на туфи по дърво, и месото в пънчето му е по-бледо. Hygrophoropsis aurantiaca е по-дребна и има меки, многократно вилообразно разклонени оранжеви пластинки. Omphalotus illudens изглежда почти еднакво и се различава главно по микроскопски белези.",
+      "notes": "Пластинките и мицелът светят слабо зеленикаво в тъмното поради биолуминесценция. Токсинът илудин S, който имат и сродни видове, става отправна точка за експерименталното противораково лекарство ирофулвен. Много сходен северноамерикански вид, по-рано смятан за негов вариетет, според молекулярни изследвания се оказва самостоятелен вид.",
+      "names": [],
+      "sourceUrls": [
+        "https://bg.wikipedia.org/wiki/Горчива_миризливка",
+        "https://www.gbif.org/species/2538088"
+      ],
+      "label": "горчива миризливка"
+    },
+    "cs": {
+      "description": "Jasně oranžová jedovatá lupenatá houba, která roste v hustých trsech na pařezech, zasypaných kořenech a u báze listnatých stromů, hlavně olivovníků a dubů. Její husté lupeny dlouze sbíhají na třeň a ve tmě mohou slabě světélkovat. Je běžná ve Středomoří a ve střední Evropě je vzácná.",
+      "cap": "Klobouk má v průměru 4–12 cm, nejprve je klenutý s podvinutým okrajem, pak plochý a nakonec vmáčklý až nálevkovitý, často výstředný a se zvlněným okrajem. Povrch je suchý, hedvábně lesklý, žlutooranžový až oranžově hnědý s jemnými tmavšími paprsčitými vlákny a ke středu nejtmavší.",
+      "hymenium": "Lupeny jsou pravé, tenké, husté, 2–6 mm široké, dlouze sbíhají na třeň a jsou zlatožluté až oranžové; u čerstvých plodnic mohou ve tmě slabě modrozeleně světélkovat.",
+      "stipe": "Třeň je 4–12 cm dlouhý a 0,7–3 cm tlustý, plný, pod kloboukem nejtlustší a k bázi se zužuje, často zakřivený a výstředný, zbarvený jako klobouk nebo světlejší a jemně plstnatý. Několik třeňů bývá u báze srostlých.",
+      "flesh": "Žlutá až zlatožlutá s načervenalým nádechem, pevná, vláknitá a pružná, v celém třeni oranžová. Vůně je nenápadná.",
+      "sporePrint": "Výtrusný prach je bělavý, někdy se žlutavým nádechem. Výtrusy jsou téměř kulovité, hladké a bezbarvé, 5–7 × 4,5–5,6 µm.",
+      "habitat": "Dřevokazná houba listnatých stromů, hlavně olivovníků, dubů a kaštanovníku setého, roste ve velkých trsech na pařezech, bázích kmenů a zasypaných kořenech a někdy napadá i živé stromy. Ve Středomoří je běžná, v nejteplejších částech střední Evropy je vzácná. Roste od července do listopadu.",
+      "uses": "Jedovatá. Po požití způsobuje prudké zvracení, křeče v břiše a průjem, které začínají asi jednu až dvě hodiny po jídle. Obvykle není smrtelná, ale v jižní Evropě jsou otravy časté, protože se zaměňuje s jedlými druhy rodu Cantharellus. Mezi její toxiny patří illudin S.",
+      "confusion": "Cantharellus cibarius má místo pravých lupenů tupé, rozvětvené lišty, roste jednotlivě nebo v řídkých skupinách na zemi, ne v trsech na dřevě, a dužninu v třeni má světlejší. Hygrophoropsis aurantiaca je menší a má měkké, opakovaně vidličnatě větvené oranžové lupeny. Omphalotus illudens vypadá téměř stejně a liší se hlavně mikroskopickými znaky.",
+      "notes": "Lupeny i podhoubí ve tmě slabě nazelenale světélkují díky bioluminiscenci. Toxin illudin S, který mají i příbuzné druhy, se stal výchozím bodem pro experimentální protinádorové léčivo irofulven. Velmi podobný severoamerický druh, dříve považovaný za jeho varietu, se podle molekulárních studií ukázal jako samostatný druh.",
+      "names": [
+        "hlíva olivová"
+      ],
+      "sourceUrls": [
+        "https://cs.wikipedia.org/wiki/Hlívovník_olivový",
+        "https://www.gbif.org/species/2538088"
+      ],
+      "label": "hlívovník olivový"
+    },
+    "da": {
+      "description": "En klart orange, giftig lamelsvamp, der vokser i tætte knipper på stubbe, begravede rødder og ved foden af løvtræer, især oliven og eg. Dens tætte lameller løber langt ned ad stokken og kan lyse svagt i mørke. Den er almindelig omkring Middelhavet og sjælden i Centraleuropa.",
+      "cap": "Hatten måler 4–12 cm, først hvælvet med indrullet rand, siden flad og til sidst nedsænket til tragtformet, ofte excentrisk og med bølget rand. Overfladen er tør og silkeagtigt skinnende, gulorange til orangebrun med fine mørkere radiære fibre og mørkest mod midten.",
+      "hymenium": "Lamellerne er ægte lameller, tynde, tætte og 2–6 mm brede, langt nedløbende ad stokken, guldgule til orange; hos friske frugtlegemer kan de lyse svagt blågrønt i mørke.",
+      "stipe": "Stokken er 4–12 cm lang og 0,7–3 cm tyk, fyldt, tykkest under hatten og tilspidset mod basis, ofte krum og excentrisk, farvet som hatten eller blegere og fint filtet. Flere stokke er som regel sammenvoksede ved basis.",
+      "flesh": "Gult til guldgult med rødlig tone, fast, trævlet og elastisk, orange gennem hele stokken. Lugten er uanselig.",
+      "sporePrint": "Sporefarve hvidlig, undertiden med gullig tone. Sporerne er næsten runde, glatte og farveløse, 5–7 × 4,5–5,6 µm.",
+      "habitat": "En vednedbrydende svamp på løvtræer, især oliven, eg og ægte kastanje, der vokser i store knipper på stubbe, stammebaser og begravede rødder og undertiden angriber levende træer. Den er almindelig i Middelhavsområdet og sjælden i de varmeste dele af Centraleuropa. Den ses fra juli til november.",
+      "uses": "Giftig. Indtagelse giver voldsomme opkastninger, mavekramper og diarré, der begynder omkring en til to timer efter måltidet. Den er sædvanligvis ikke dødelig, men i Sydeuropa er forgiftninger hyppige, fordi den forveksles med spiselige arter af slægten Cantharellus. Blandt dens giftstoffer er illudin S.",
+      "confusion": "Cantharellus cibarius har butte, gaflede ribber i stedet for ægte lameller, vokser enkeltvis eller i løse grupper på jorden frem for i knipper på ved og har blegere kød i stokken. Hygrophoropsis aurantiaca er mindre og har bløde, gentagne gange gaflede orange lameller. Omphalotus illudens ser næsten ens ud og skelnes hovedsagelig på mikroskopiske kendetegn.",
+      "notes": "Lameller og mycelium lyser svagt grønligt i mørke ved bioluminescens. Giftstoffet illudin S, som også findes hos beslægtede arter, blev udgangspunkt for det eksperimentelle kræftmiddel irofulven. En meget lignende nordamerikansk art, der tidligere blev regnet som en varietet af denne, har ifølge molekylære undersøgelser vist sig at være en selvstændig art.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "de": {
+      "description": "Ein leuchtend orangefarbener, giftiger Lamellenpilz, der in dichten Büscheln an Stümpfen, vergrabenen Wurzeln und am Stammfuß von Laubbäumen wächst, vor allem an Oliven und Eichen. Seine gedrängten Lamellen laufen weit am Stiel herab und können im Dunkeln schwach leuchten. Er ist im Mittelmeerraum häufig und in Mitteleuropa selten.",
+      "cap": "Der Hut misst 4–12 cm, ist zuerst gewölbt mit eingerolltem Rand, dann flach und schließlich vertieft bis trichterförmig, oft exzentrisch und am Rand wellig. Die Oberfläche ist trocken und seidig glänzend, gelborange bis orangebraun mit feinen dunkleren radialen Fasern und zur Mitte hin am dunkelsten.",
+      "hymenium": "Die Lamellen sind echte Lamellen, dünn, gedrängt und 2–6 mm breit, laufen tief am Stiel herab und sind goldgelb bis orange; bei frischen Fruchtkörpern können sie im Dunkeln schwach blaugrün leuchten.",
+      "stipe": "Der Stiel ist 4–12 cm lang und 0,7–3 cm dick, voll, unter dem Hut am dicksten und zur Basis hin verjüngt, oft gebogen und exzentrisch, wie der Hut gefärbt oder blasser und fein filzig. Mehrere Stiele sind an der Basis meist miteinander verwachsen.",
+      "flesh": "Gelb bis goldgelb mit rötlichem Ton, fest, faserig und elastisch, im ganzen Stiel orange. Der Geruch ist unauffällig.",
+      "sporePrint": "Sporenpulver weißlich, manchmal mit gelblichem Ton. Die Sporen sind fast rund, glatt und farblos, 5–7 × 4,5–5,6 µm.",
+      "habitat": "Ein holzzersetzender Pilz an Laubbäumen, vor allem an Olivenbäumen, Eichen und Edelkastanien, der in großen Büscheln an Stümpfen, Stammbasen und vergrabenen Wurzeln wächst und manchmal auch lebende Bäume befällt. Im Mittelmeerraum ist er häufig, in den wärmsten Teilen Mitteleuropas selten. Er erscheint von Juli bis November.",
+      "uses": "Giftig. Der Verzehr verursacht heftiges Erbrechen, Bauchkrämpfe und Durchfall, die etwa eine bis zwei Stunden nach der Mahlzeit beginnen. Er ist meist nicht tödlich, doch in Südeuropa sind Vergiftungen häufig, weil er mit essbaren Cantharellus-Arten verwechselt wird. Zu seinen Giftstoffen gehört Illudin S.",
+      "confusion": "Cantharellus cibarius hat statt echter Lamellen stumpfe, gegabelte Leisten, wächst einzeln oder in lockeren Gruppen auf dem Boden statt in Büscheln an Holz und hat im Stiel blasseres Fleisch. Hygrophoropsis aurantiaca ist kleiner und hat weiche, mehrfach gegabelte orange Lamellen. Omphalotus illudens sieht fast gleich aus und wird vor allem mikroskopisch unterschieden.",
+      "notes": "Lamellen und Myzel leuchten im Dunkeln durch Biolumineszenz schwach grünlich. Der Giftstoff Illudin S, den auch verwandte Arten bilden, wurde zum Ausgangspunkt für das experimentelle Krebsmittel Irofulven. Eine sehr ähnliche nordamerikanische Art, früher als Varietät dieser Art behandelt, hat sich in molekularen Studien als eigene Art erwiesen.",
+      "names": [
+        "Dunkler Ölbaumpilz"
+      ],
+      "sourceUrls": [
+        "https://de.wikipedia.org/wiki/Dunkler_Ölbaumtrichterling",
+        "https://www.gbif.org/species/2538088"
+      ],
+      "label": "Dunkler Ölbaumtrichterling"
+    },
+    "en": {
+      "description": "A bright orange, poisonous gilled mushroom that grows in dense tufts from stumps, buried roots and the bases of broadleaf trees, especially olives and oaks. Its crowded gills run far down the stem and can glow faintly in the dark. It is common around the Mediterranean and rare in central Europe.",
+      "cap": "The cap is 4–12 cm across, at first convex with an inrolled margin, then flattened and finally depressed to funnel-shaped, often off-centre and wavy at the edge. The surface is dry and silky-shiny, yellow-orange to orange-brown with fine darker radial fibres, and darkest towards the centre.",
+      "hymenium": "The gills are true gills, thin, crowded and 2–6 mm broad, running deeply down the stipe, golden yellow to orange; in fresh fruit bodies they can glow a faint blue-green in the dark.",
+      "stipe": "The stipe is 4–12 cm long and 0.7–3 cm thick, solid, thickest under the cap and tapering towards the base, often curved and off-centre, coloured like the cap or paler, and finely felty. Several stipes are usually fused together at the base.",
+      "flesh": "Yellow to golden yellow with a reddish tint, firm, fibrous and elastic, and orange right through the stipe. The smell is inconspicuous.",
+      "sporePrint": "Spore deposit whitish, sometimes with a yellowish tint. Spores are almost round, smooth and colourless, 5–7 × 4.5–5.6 µm.",
+      "habitat": "A wood-decaying fungus of broadleaf trees, especially olive, oaks and sweet chestnut, growing in large tufts on stumps, trunk bases and buried roots, and sometimes attacking living trees. It is common in the Mediterranean region and rare in the warmest parts of central Europe. It appears from July to November.",
+      "uses": "Poisonous. Eating it causes violent vomiting, abdominal cramps and diarrhoea, starting about one to two hours after the meal. It is not usually fatal, but poisonings are frequent in southern Europe because it is mistaken for edible Cantharellus species. Its toxins include illudin S.",
+      "confusion": "Cantharellus cibarius has blunt, forked ridges instead of true gills, grows singly or in loose groups on soil rather than in tufts on wood, and has paler flesh inside the stipe. Hygrophoropsis aurantiaca is smaller and has soft, repeatedly forked orange gills. Omphalotus illudens looks almost the same and is separated mainly by microscopic features.",
+      "notes": "The gills and the mycelium glow faintly greenish in darkness through bioluminescence. The toxin illudin S, shared with related species, became the starting point for the experimental anticancer drug irofulven. A very similar North American species, once treated as a variety of this one, has been shown by molecular studies to be a separate species.",
+      "names": [
+        "jack-o'-lantern mushroom"
+      ],
+      "sourceUrls": [
+        "https://en.wikipedia.org/wiki/Omphalotus_olearius",
+        "https://www.nahuby.sk/atlas-hub/Omphalotus-olearius/kalisnik-hnedooranzovy/ID181",
+        "https://de.wikipedia.org/wiki/Dunkler_Ölbaumtrichterling",
+        "https://es.wikipedia.org/wiki/Omphalotus_olearius",
+        "https://fr.wikipedia.org/wiki/Omphalotus_olearius",
+        "https://ru.wikipedia.org/wiki/Омфалот_маслиновый",
+        "https://cs.wikipedia.org/wiki/Hlívovník_olivový",
+        "https://nl.wikipedia.org/wiki/Zuidelijke_lantaarnzwam",
+        "https://www.mushroomexpert.com/omphalotus_illudens.html",
+        "https://www.cancer.gov/publications/dictionaries/cancer-drug/def/irofulven",
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=288943",
+        "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=288943",
+        "https://www.gbif.org/species/2538088"
+      ],
+      "label": "European jack-o'-lantern"
+    },
+    "es": {
+      "description": "Un hongo de láminas, de color naranja vivo y venenoso, que crece en densos grupos cespitosos sobre tocones, raíces enterradas y en la base de árboles de hoja ancha, sobre todo olivos y robles. Sus láminas apretadas descienden mucho por el pie y pueden brillar débilmente en la oscuridad. Es común en el Mediterráneo y raro en Europa central.",
+      "cap": "El sombrero mide 4–12 cm, al principio convexo con el margen enrollado, luego aplanado y por último deprimido hasta embudado, a menudo excéntrico y con el borde ondulado. La superficie es seca y sedosa-brillante, de amarillo anaranjado a pardo anaranjado con finas fibras radiales más oscuras, y es más oscura hacia el centro.",
+      "hymenium": "Las láminas son láminas verdaderas, delgadas, apretadas y de 2–6 mm de ancho, muy decurrentes, de amarillo dorado a naranja; en los ejemplares frescos pueden emitir en la oscuridad un débil brillo verde azulado.",
+      "stipe": "El pie mide 4–12 cm de largo y 0,7–3 cm de grosor, es macizo, más grueso bajo el sombrero y se estrecha hacia la base, a menudo curvado y excéntrico, del color del sombrero o más pálido, y finamente afieltrado. Varios pies suelen estar soldados en la base.",
+      "flesh": "Amarilla a amarillo dorado con un tono rojizo, firme, fibrosa y elástica, anaranjada en todo el pie. El olor es poco apreciable.",
+      "sporePrint": "Esporada blanquecina, a veces con un tono amarillento. Esporas casi redondas, lisas e incoloras, de 5–7 × 4,5–5,6 µm.",
+      "habitat": "Hongo lignícola de árboles de hoja ancha, sobre todo olivo, robles y castaño, que crece en grandes grupos cespitosos sobre tocones, bases de troncos y raíces enterradas, y a veces ataca árboles vivos. Es común en la región mediterránea y raro en las zonas más cálidas de Europa central. Aparece de julio a noviembre.",
+      "uses": "Venenoso. Su consumo provoca vómitos violentos, calambres abdominales y diarrea, que comienzan entre una y dos horas después de la comida. No suele ser mortal, pero las intoxicaciones son frecuentes en el sur de Europa porque se confunde con especies comestibles del género Cantharellus. Entre sus toxinas está la iludina S.",
+      "confusion": "Cantharellus cibarius tiene pliegues romos y bifurcados en lugar de láminas verdaderas, crece solitario o en grupos laxos sobre el suelo y no en matas sobre la madera, y su carne es más pálida dentro del pie. Hygrophoropsis aurantiaca es más pequeño y tiene láminas naranjas blandas, bifurcadas repetidamente. Omphalotus illudens es casi idéntico y se distingue sobre todo por caracteres microscópicos.",
+      "notes": "Las láminas y el micelio brillan débilmente con un tono verdoso en la oscuridad por bioluminiscencia. La toxina iludina S, compartida con especies afines, fue el punto de partida del irofulveno, un fármaco anticanceroso experimental. Una especie norteamericana muy parecida, antes tratada como una variedad de esta, ha resultado ser una especie distinta según estudios moleculares.",
+      "names": [
+        "seta del olivo"
+      ],
+      "sourceUrls": [
+        "https://es.wikipedia.org/wiki/Omphalotus_olearius",
+        "https://www.gbif.org/species/2538088"
+      ],
+      "label": "seta de olivo"
+    },
+    "et": {
+      "description": "Erkoranž, mürgine eoslehtedega seen, mis kasvab tihedate kobaratena kändudel, maetud juurtel ja lehtpuude tüve alusel, eriti oliivipuudel ja tammedel. Tema tihedad eoslehed laskuvad kaugele jalale ja võivad pimedas nõrgalt helendada. Ta on tavaline Vahemere ümbruses ja haruldane Kesk-Euroopas.",
+      "cap": "Kübar on 4–12 cm lai, algul kumer sissepööratud servaga, siis lame ja lõpuks lohkjas kuni lehtrikujuline, sageli ekstsentriline ja laineja servaga. Pind on kuiv ja siidjalt läikiv, kollakasoranž kuni oranžikaspruun peente tumedamate radiaalsete kiududega, keskelt kõige tumedam.",
+      "hymenium": "Eoslehed on päris eoslehed, õhukesed, tihedad ja 2–6 mm laiad, kaugele jalale laskuvad, kuldkollased kuni oranžid; värsketel viljakehadel võivad need pimedas nõrgalt sinakasroheliselt helendada.",
+      "stipe": "Jalg on 4–12 cm pikk ja 0,7–3 cm jäme, täidisega, kübara all kõige jämedam ja aluse poole ahenev, sageli kõver ja ekstsentriline, kübaraga ühevärviline või kahvatum ning peenelt viltjas. Mitu jalga on tavaliselt aluselt kokku kasvanud.",
+      "flesh": "Kollane kuni kuldkollane punaka tooniga, tihke, kiuline ja elastne, kogu jalas oranž. Lõhn on tagasihoidlik.",
+      "sporePrint": "Eoste jäljend valkjas, mõnikord kollaka tooniga. Eosed on peaaegu ümarad, siledad ja värvitud, 5–7 × 4,5–5,6 µm.",
+      "habitat": "Lehtpuude puitu lagundav seen, eriti oliivipuul, tammedel ja harilikul kastanipuul, kasvab suurte kobaratena kändudel, tüvede alusel ja maetud juurtel ning ründab mõnikord ka elavaid puid. Ta on tavaline Vahemere piirkonnas ja haruldane Kesk-Euroopa soojemates osades. Ta esineb juulist novembrini.",
+      "uses": "Mürgine. Söömine põhjustab ägedat oksendamist, kõhukrampe ja kõhulahtisust, mis algavad umbes ühe kuni kahe tunni pärast söömist. Tavaliselt ei ole ta surmav, kuid Lõuna-Euroopas on mürgistused sagedased, sest teda aetakse segi söödavate perekonna Cantharellus liikidega. Tema toksiinide hulka kuulub illudiin S.",
+      "confusion": "Liigil Cantharellus cibarius on päris eoslehtede asemel tömbid, harunevad voldid, ta kasvab üksikult või hõredate rühmadena maapinnal, mitte kobaratena puidul, ning tema jala viljaliha on kahvatum. Hygrophoropsis aurantiaca on väiksem ning tal on pehmed, korduvalt harunevad oranžid eoslehed. Omphalotus illudens näeb välja peaaegu sama ja eristub peamiselt mikroskoopiliste tunnuste poolest.",
+      "notes": "Eoslehed ja seeneniidistik helendavad pimedas nõrgalt rohekalt bioluminestsentsi tõttu. Toksiin illudiin S, mida leidub ka sugulasliikidel, sai lähtepunktiks eksperimentaalsele vähiravimile irofulveenile. Väga sarnane Põhja-Ameerika liik, keda varem peeti selle liigi teisendiks, on molekulaaruuringute järgi osutunud eraldi liigiks.",
+      "names": [],
+      "sourceUrls": [
+        "https://et.wikipedia.org/wiki/Laternseen"
+      ],
+      "label": "oliiv-laternseen"
+    },
+    "fa": {
+      "description": "قارچی تیغه‌دار، نارنجی روشن و سمی که در دسته‌های انبوه روی کنده‌ها، ریشه‌های مدفون و پای درختان پهن‌برگ، به‌ویژه زیتون و بلوط، می‌روید. تیغه‌های فشرده‌اش تا پایین پایه امتداد می‌یابند و ممکن است در تاریکی به‌آرامی بدرخشند. در پیرامون مدیترانه رایج و در اروپای مرکزی نادر است.",
+      "cap": "کلاهک ۴–۱۲ cm قطر دارد، ابتدا محدب با لبه‌ی به داخل پیچیده، سپس پهن و سرانجام فرورفته تا قیفی‌شکل، اغلب نامتقارن و با لبه‌ی موج‌دار. سطح خشک و ابریشمی‌براق، زرد نارنجی تا قهوه‌ای نارنجی با الیاف شعاعی ظریف تیره‌تر، و به سمت مرکز تیره‌ترین است.",
+      "hymenium": "تیغه‌ها تیغه‌ی واقعی‌اند، نازک، فشرده و ۲–۶ mm پهنا، به‌شدت روی پایه پایین‌رونده، زرد طلایی تا نارنجی؛ در اندام‌های بارده‌ی تازه ممکن است در تاریکی نوری آبی‌سبز و کم‌رنگ بدهند.",
+      "stipe": "پایه ۴–۱۲ cm طول و ۰٫۷–۳ cm ضخامت دارد، توپر، زیر کلاهک ضخیم‌ترین و به سمت قاعده باریک‌شونده، اغلب خمیده و نامتقارن، هم‌رنگ کلاهک یا کم‌رنگ‌تر و به‌ظرافت نمدی. معمولاً چند پایه در قاعده به هم جوش خورده‌اند.",
+      "flesh": "زرد تا زرد طلایی با ته‌رنگ سرخ، سفت، رشته‌ای و کشسان، در سراسر پایه نارنجی. بو نامشخص است.",
+      "sporePrint": "اثر هاگ سفیدفام، گاهی با ته‌رنگ زرد. هاگ‌ها تقریباً گرد، صاف و بی‌رنگ‌اند، ۵–۷ × ۴٫۵–۵٫۶ µm.",
+      "habitat": "قارچی چوب‌تجزیه‌کن روی درختان پهن‌برگ، به‌ویژه زیتون، بلوط و شاه‌بلوط، که در دسته‌های بزرگ روی کنده‌ها، پای تنه‌ها و ریشه‌های مدفون می‌روید و گاهی به درختان زنده نیز حمله می‌کند. در منطقه‌ی مدیترانه رایج و در گرم‌ترین بخش‌های اروپای مرکزی نادر است. از ژوئیه تا نوامبر دیده می‌شود.",
+      "uses": "سمی. خوردن آن استفراغ شدید، دل‌پیچه و اسهال ایجاد می‌کند که حدود یک تا دو ساعت پس از غذا آغاز می‌شود. معمولاً کشنده نیست، اما مسمومیت در جنوب اروپا فراوان است، زیرا با گونه‌های خوراکی سرده‌ی Cantharellus اشتباه گرفته می‌شود. از جمله سموم آن ایلودین S است.",
+      "confusion": "Cantharellus cibarius به جای تیغه‌ی واقعی چین‌های کُند و منشعب دارد، تک یا در گروه‌های پراکنده روی خاک می‌روید نه در دسته روی چوب، و گوشت درون پایه‌اش کم‌رنگ‌تر است. Hygrophoropsis aurantiaca کوچک‌تر است و تیغه‌های نارنجی نرم و بارها دوشاخه دارد. Omphalotus illudens تقریباً همانند است و عمدتاً با ویژگی‌های میکروسکوپی جدا می‌شود.",
+      "notes": "تیغه‌ها و ریسه‌ها در تاریکی به سبب زیست‌تابی به‌آرامی سبزفام می‌درخشند. سم ایلودین S که در گونه‌های خویشاوند نیز هست، نقطه‌ی آغاز داروی آزمایشی ضدسرطان ایروفولون شد. گونه‌ای بسیار مشابه از آمریکای شمالی که پیش‌تر واریته‌ای از این گونه شمرده می‌شد، بر پایه‌ی مطالعات مولکولی گونه‌ای جداگانه است.",
+      "names": [],
+      "sourceUrls": [
+        "https://fa.wikipedia.org/wiki/قارچ_کدوفانوسی"
+      ],
+      "label": "قارچ کدوفانوسی"
+    },
+    "fi": {
+      "description": "Kirkkaan oranssi, myrkyllinen helttasieni, joka kasvaa tiheinä kimppuina kannoilla, maahan hautautuneilla juurilla ja lehtipuiden tyvellä, erityisesti oliivipuilla ja tammilla. Sen tiheät heltat laskeutuvat pitkälle jalalle ja voivat hehkua heikosti pimeässä. Se on yleinen Välimeren alueella ja harvinainen Keski-Euroopassa.",
+      "cap": "Lakki on 4–12 cm leveä, aluksi kupera ja reunaltaan sisäänkääntynyt, sitten tasainen ja lopulta painunut suppilomaiseksi, usein epäkeskinen ja reunaltaan aaltoileva. Pinta on kuiva ja silkkisen kiiltävä, kellanoranssi tai oranssinruskea, ja siinä on hienoja tummempia säteittäisiä säikeitä; keskeltä se on tummin.",
+      "hymenium": "Heltat ovat aitoja helttoja, ohuita, tiheitä ja 2–6 mm leveitä, pitkälle jalalle laskeutuvia, kullankeltaisia tai oransseja; tuoreissa itiöemissä ne voivat hehkua pimeässä heikosti sinivihreinä.",
+      "stipe": "Jalka on 4–12 cm pitkä ja 0,7–3 cm paksu, täyteinen, paksuimmillaan lakin alla ja tyveä kohti kapeneva, usein kaareva ja epäkeskinen, lakin värinen tai vaaleampi ja hienosti huopainen. Useat jalat ovat yleensä tyvestä yhteen kasvaneita.",
+      "flesh": "Keltainen tai kullankeltainen punertavin sävyin, kiinteä, säikeinen ja kimmoisa, koko jalassa oranssi. Haju on vähäinen.",
+      "sporePrint": "Itiöpöly vaalea, joskus kellertävä. Itiöt ovat lähes pyöreitä, sileitä ja värittömiä, 5–7 × 4,5–5,6 µm.",
+      "habitat": "Lehtipuiden puuta lahottava sieni, erityisesti oliivipuulla, tammilla ja jalokastanjalla, kasvaa suurina kimppuina kannoilla, runkojen tyvillä ja maahan hautautuneilla juurilla ja toisinaan lahottaa myös eläviä puita. Se on yleinen Välimeren alueella ja harvinainen Keski-Euroopan lämpimimmissä osissa. Sitä tavataan heinäkuusta marraskuuhun.",
+      "uses": "Myrkyllinen. Syöminen aiheuttaa rajua oksentelua, vatsakramppeja ja ripulia, jotka alkavat noin yhdestä kahteen tuntia aterian jälkeen. Se ei yleensä ole tappava, mutta Etelä-Euroopassa myrkytykset ovat yleisiä, koska se sekoitetaan Cantharellus-suvun syötäviin lajeihin. Sen myrkkyihin kuuluu illudiini S.",
+      "confusion": "Cantharellus cibarius -lajilla on aitojen helttojen sijaan tylppiä, haarovia poimuja, se kasvaa yksittäin tai harvoina ryhminä maassa eikä kimppuina puulla, ja sen jalan malto on vaaleampaa. Hygrophoropsis aurantiaca on pienempi, ja sillä on pehmeät, toistuvasti haarovat oranssit heltat. Omphalotus illudens näyttää lähes samalta ja erotetaan lähinnä mikroskooppisten tuntomerkkien perusteella.",
+      "notes": "Heltat ja rihmasto hehkuvat pimeässä heikosti vihertävinä bioluminesenssin ansiosta. Myrkky illudiini S, jota on myös sukulaislajeilla, tuli lähtökohdaksi kokeelliselle syöpälääkkeelle irofulveenille. Hyvin samankaltainen pohjoisamerikkalainen laji, jota aiemmin pidettiin tämän muunnoksena, on molekyylitutkimusten mukaan osoittautunut omaksi lajikseen.",
+      "names": [],
+      "sourceUrls": [
+        "https://fi.wikipedia.org/wiki/Öljypuusieni"
+      ],
+      "label": "öljypuusieni"
+    },
+    "fr": {
+      "description": "Un champignon à lames orange vif et toxique, qui pousse en touffes denses sur les souches, les racines enterrées et au pied des feuillus, surtout des oliviers et des chênes. Ses lames serrées descendent loin sur le pied et peuvent luire faiblement dans l'obscurité. Il est commun autour de la Méditerranée et rare en Europe centrale.",
+      "cap": "Le chapeau mesure 4–12 cm, d'abord convexe à marge enroulée, puis étalé et enfin déprimé à infundibuliforme, souvent excentré et à bord ondulé. La surface est sèche et soyeuse-brillante, jaune orangé à brun orangé avec de fines fibres radiales plus sombres, et plus foncée vers le centre.",
+      "hymenium": "Les lames sont de vraies lames, minces, serrées et larges de 2–6 mm, longuement décurrentes, jaune d'or à orange ; sur les spécimens frais, elles peuvent émettre dans l'obscurité une faible lueur bleu-vert.",
+      "stipe": "Le pied mesure 4–12 cm de long et 0,7–3 cm d'épaisseur, plein, plus épais sous le chapeau et aminci vers la base, souvent courbé et excentré, de la couleur du chapeau ou plus pâle, et finement feutré. Plusieurs pieds sont généralement soudés à la base.",
+      "flesh": "Jaune à jaune d'or avec une teinte rougeâtre, ferme, fibreuse et élastique, orange dans tout le pied. L'odeur est insignifiante.",
+      "sporePrint": "Sporée blanchâtre, parfois teintée de jaunâtre. Spores presque rondes, lisses et incolores, 5–7 × 4,5–5,6 µm.",
+      "habitat": "Champignon lignicole des feuillus, surtout de l'olivier, des chênes et du châtaignier, poussant en grosses touffes sur les souches, au pied des troncs et sur les racines enterrées, et attaquant parfois des arbres vivants. Il est commun dans la région méditerranéenne et rare dans les parties les plus chaudes de l'Europe centrale. Il apparaît de juillet à novembre.",
+      "uses": "Toxique. Sa consommation provoque des vomissements violents, des crampes abdominales et des diarrhées, qui débutent environ une à deux heures après le repas. Il n'est généralement pas mortel, mais les intoxications sont fréquentes dans le sud de l'Europe, car il est confondu avec des espèces comestibles du genre Cantharellus. Parmi ses toxines figure l'illudine S.",
+      "confusion": "Cantharellus cibarius porte des plis obtus et fourchus au lieu de vraies lames, pousse isolé ou en groupes lâches sur le sol plutôt qu'en touffes sur le bois, et a une chair plus pâle dans le pied. Hygrophoropsis aurantiaca est plus petit et a des lames orange molles, plusieurs fois fourchues. Omphalotus illudens est presque identique et s'en distingue surtout par des caractères microscopiques.",
+      "notes": "Les lames et le mycélium luisent faiblement en vert dans l'obscurité par bioluminescence. L'illudine S, toxine partagée avec des espèces apparentées, a servi de point de départ à l'irofulvène, un médicament anticancéreux expérimental. Une espèce nord-américaine très semblable, autrefois traitée comme une variété de celle-ci, s'est révélée être une espèce distincte d'après des études moléculaires.",
+      "names": [
+        "clitocybe de l'olivier"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2538088",
+        "https://fr.wikipedia.org/wiki/Omphalotus_olearius"
+      ],
+      "label": "pleurote de l'olivier"
+    },
+    "he": {
+      "description": "פטרייה בעלת למלים, כתומה עזה ורעילה, הגדלה באשכולות צפופים על גדמים, על שורשים קבורים ולמרגלות עצים רחבי עלים, בעיקר זיתים ואלונים. הלמלים הצפופים שלה יורדים הרחק לאורך הרגל ועשויים לזהור חלושות בחושך. היא נפוצה סביב הים התיכון ונדירה במרכז אירופה.",
+      "cap": "קוטר הכובע 4–12 cm, תחילה קמור ושוליו מגולגלים פנימה, אחר כך שטוח ולבסוף שקוע עד משפכי, לרוב אקסצנטרי ושוליו גליים. פני השטח יבשים ומבריקים כמשי, צהובים-כתומים עד חומים-כתומים עם סיבים רדיאליים דקים כהים יותר, והכהים ביותר לכיוון המרכז.",
+      "hymenium": "הלמלים הם למלים אמיתיים, דקים, צפופים וברוחב 2–6 mm, יורדים עמוק לאורך הרגל, צהובים-זהובים עד כתומים; בגופי פרי טריים הם עשויים לזהור בחושך באור כחלחל-ירקרק חלש.",
+      "stipe": "הרגל באורך 4–12 cm ובעובי 0.7–3 cm, מלאה, עבה ביותר מתחת לכובע ומצטמצמת לעבר הבסיס, לרוב מעוקלת ואקסצנטרית, בצבע הכובע או חיוורת ממנו, ולבידית דקה. בדרך כלל כמה רגליים מאוחות בבסיסן.",
+      "flesh": "צהובה עד צהובה-זהובה עם גוון אדמדם, מוצקה, סיבית וגמישה, כתומה לכל אורך הרגל. הריח אינו בולט.",
+      "sporePrint": "אבקת הנבגים לבנבנה, לעיתים בגוון צהבהב. הנבגים כמעט כדוריים, חלקים וחסרי צבע, 5–7 × 4.5–5.6 µm.",
+      "habitat": "פטרייה מפרקת עץ של עצים רחבי עלים, בעיקר זית, אלונים וערמון אכיל, הגדלה באשכולות גדולים על גדמים, בבסיסי גזעים ועל שורשים קבורים, ולעיתים תוקפת גם עצים חיים. היא נפוצה באזור הים התיכון ונדירה בחלקים החמים ביותר של מרכז אירופה. מופיעה מיולי עד נובמבר.",
+      "uses": "רעילה. אכילתה גורמת להקאות עזות, להתכווצויות בטן ולשלשול, המתחילים כשעה עד שעתיים אחרי הארוחה. בדרך כלל אינה קטלנית, אך הרעלות שכיחות בדרום אירופה משום שמחליפים אותה במינים אכילים מהסוג Cantharellus. בין רעלניה נמצא אילודין S.",
+      "confusion": "ל-Cantharellus cibarius יש קפלים קהים ומתפצלים במקום למלים אמיתיים, הוא גדל יחיד או בקבוצות דלילות על הקרקע ולא באשכולות על עץ, ובשרו בתוך הרגל חיוור יותר. Hygrophoropsis aurantiaca קטנה יותר ובעלת למלים כתומים רכים המתפצלים שוב ושוב. Omphalotus illudens נראית כמעט זהה ומובחנת בעיקר בתכונות מיקרוסקופיות.",
+      "notes": "הלמלים והתפטיר זוהרים בחושך זוהר ירקרק חלש בזכות ביולומינסנציה. הרעלן אילודין S, המשותף גם למינים קרובים, היה לנקודת המוצא לתרופה הניסיונית נגד סרטן אירופולבן. מין דומה מאוד מצפון אמריקה, שנחשב בעבר לזן של מין זה, הוכח במחקרים מולקולריים כמין נפרד.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2538088",
+        "https://www.wikidata.org/wiki/Q1043730"
+      ],
+      "label": "טבורית הזית"
+    },
+    "hi": {
+      "description": "एक चमकीला नारंगी, विषैला गिल वाला मशरूम, जो ठूँठों, दबी हुई जड़ों और चौड़ी पत्ती वाले पेड़ों, खासकर जैतून और बलूत, के आधार पर घने गुच्छों में उगता है। इसकी घनी गिलें डंठल पर दूर तक नीचे उतरती हैं और अँधेरे में हल्की चमक सकती हैं। यह भूमध्य सागर के आसपास आम है और मध्य यूरोप में दुर्लभ है।",
+      "cap": "टोपी 4–12 cm चौड़ी होती है, पहले उत्तल और किनारा अंदर मुड़ा हुआ, फिर चपटी और अंत में धँसी हुई से कीप के आकार की, अक्सर असमकेंद्री और लहरदार किनारे वाली। सतह सूखी और रेशम जैसी चमकदार, पीली-नारंगी से नारंगी-भूरी, जिस पर बारीक गहरे अरीय रेशे होते हैं, और केंद्र की ओर सबसे गहरी।",
+      "hymenium": "गिलें असली गिलें हैं, पतली, घनी और 2–6 mm चौड़ी, डंठल पर गहराई तक उतरती हुई, सुनहरी पीली से नारंगी; ताज़ा फलकायों में ये अँधेरे में हल्की नीली-हरी चमक दे सकती हैं।",
+      "stipe": "डंठल 4–12 cm लंबा और 0.7–3 cm मोटा, ठोस, टोपी के नीचे सबसे मोटा और आधार की ओर पतला, अक्सर मुड़ा हुआ और असमकेंद्री, टोपी के रंग का या उससे हल्का, और बारीक नमदे जैसा। कई डंठल आमतौर पर आधार पर जुड़े होते हैं।",
+      "flesh": "पीला से सुनहरा पीला, लालिमा लिए हुए, सख़्त, रेशेदार और लचीला, पूरे डंठल में नारंगी। गंध साधारण होती है।",
+      "sporePrint": "बीजाणु छाप सफ़ेद-सी, कभी-कभी पीलेपन के साथ। बीजाणु लगभग गोल, चिकने और रंगहीन, 5–7 × 4.5–5.6 µm।",
+      "habitat": "चौड़ी पत्ती वाले पेड़ों, खासकर जैतून, बलूत और मीठे चेस्टनट, की लकड़ी को सड़ाने वाला कवक, जो ठूँठों, तनों के आधार और दबी जड़ों पर बड़े गुच्छों में उगता है और कभी-कभी जीवित पेड़ों पर भी हमला करता है। यह भूमध्यसागरीय क्षेत्र में आम है और मध्य यूरोप के सबसे गर्म हिस्सों में दुर्लभ है। यह जुलाई से नवंबर तक दिखाई देता है।",
+      "uses": "विषैला। इसे खाने से तेज़ उल्टी, पेट में ऐंठन और दस्त होते हैं, जो भोजन के लगभग एक से दो घंटे बाद शुरू होते हैं। यह आमतौर पर जानलेवा नहीं होता, लेकिन दक्षिणी यूरोप में विषाक्तता अक्सर होती है क्योंकि इसे Cantharellus वंश की खाने योग्य प्रजातियाँ समझ लिया जाता है। इसके विषों में इल्यूडिन S शामिल है।",
+      "confusion": "Cantharellus cibarius में असली गिलों के बजाय कुंद, शाखित सिलवटें होती हैं, यह लकड़ी पर गुच्छों में नहीं बल्कि मिट्टी पर अकेले या बिखरे समूहों में उगता है, और इसके डंठल का गूदा हल्का होता है। Hygrophoropsis aurantiaca छोटा होता है और इसकी गिलें नरम, बार-बार द्विशाखित और नारंगी होती हैं। Omphalotus illudens लगभग एक जैसा दिखता है और मुख्य रूप से सूक्ष्मदर्शी लक्षणों से अलग किया जाता है।",
+      "notes": "गिलें और कवकजाल जैवदीप्ति के कारण अँधेरे में हल्की हरी चमक देते हैं। संबंधित प्रजातियों में भी पाया जाने वाला विष इल्यूडिन S प्रायोगिक कैंसर-रोधी दवा इरोफुल्वेन का आधार बना। उत्तरी अमेरिका की एक बहुत मिलती-जुलती प्रजाति, जिसे पहले इसकी एक किस्म माना जाता था, आणविक अध्ययनों से अलग प्रजाति सिद्ध हुई है।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Jarko narančasta, otrovna listićava gljiva koja raste u gustim busenima na panjevima, zakopanom korijenju i u podnožju listopadnog drveća, osobito masline i hrasta. Njezini gusti listići duboko se spuštaju niz stručak i u mraku mogu slabo svijetliti. Česta je u Sredozemlju, a rijetka u srednjoj Europi.",
+      "cap": "Klobuk je promjera 4–12 cm, najprije ispupčen s podvinutim rubom, zatim ravan i na kraju udubljen do ljevkast, često ekscentričan i valovita ruba. Površina je suha i svilenkasto sjajna, žutonarančasta do narančastosmeđa s finim tamnijim radijalnim vlakancima, a prema sredini je najtamnija.",
+      "hymenium": "Listići su pravi listići, tanki, gusti i široki 2–6 mm, duboko silazni niz stručak, zlatnožuti do narančasti; u svježih plodišta u mraku mogu slabo svijetliti plavozeleno.",
+      "stipe": "Stručak je dug 4–12 cm i debeo 0,7–3 cm, pun, najdeblji ispod klobuka i sužava se prema dnu, često savijen i ekscentričan, boje klobuka ili svjetliji te fino pustenast. Više stručaka obično je sraslo u podnožju.",
+      "flesh": "Žuto do zlatnožuto meso s crvenkastim tonom, čvrsto, vlaknasto i elastično, u cijelom stručku narančasto. Miris je neupadljiv.",
+      "sporePrint": "Otisak spora bjelkast, katkad sa žućkastim tonom. Spore su gotovo okrugle, glatke i bezbojne, 5–7 × 4,5–5,6 µm.",
+      "habitat": "Gljiva koja razgrađuje drvo listopadnog drveća, osobito masline, hrastova i pitomog kestena, raste u velikim busenima na panjevima, u podnožju debala i na zakopanom korijenju, a katkad napada i živa stabla. Česta je u sredozemnom području, a rijetka u najtoplijim dijelovima srednje Europe. Pojavljuje se od srpnja do studenoga.",
+      "uses": "Otrovna. Konzumacija izaziva snažno povraćanje, grčeve u trbuhu i proljev, koji počinju otprilike jedan do dva sata nakon obroka. Obično nije smrtonosna, ali su u južnoj Europi otrovanja česta jer se zamjenjuje s jestivim vrstama roda Cantharellus. Među njezinim toksinima je iludin S.",
+      "confusion": "Cantharellus cibarius umjesto pravih listića ima tupe, račvaste nabore, raste pojedinačno ili u rijetkim skupinama na tlu, a ne u busenima na drvu, i ima svjetlije meso u stručku. Hygrophoropsis aurantiaca je manja i ima meke, više puta račvaste narančaste listiće. Omphalotus illudens izgleda gotovo jednako i razlikuje se uglavnom mikroskopskim obilježjima.",
+      "notes": "Listići i micelij u mraku slabo zelenkasto svijetle zahvaljujući bioluminiscenciji. Toksin iludin S, koji imaju i srodne vrste, postao je polazište za eksperimentalni lijek protiv raka irofulven. Vrlo slična sjevernoamerička vrsta, nekoć smatrana njezinim varijetetom, prema molekularnim istraživanjima pokazala se zasebnom vrstom.",
+      "names": [],
+      "sourceUrls": [
+        "https://hr.wikipedia.org/wiki/Otrovna_zavodnica",
+        "https://www.gbif.org/species/2538088"
+      ],
+      "label": "otrovna zavodnica"
+    },
+    "hu": {
+      "description": "Élénk narancssárga, mérgező lemezes gomba, amely sűrű csokrokban nő tuskókon, földbe temetett gyökereken és lombos fák tövén, főleg olajfákon és tölgyeken. Sűrű lemezei messze lefutnak a tönkre, és a sötétben halványan világíthatnak. A Földközi-tenger vidékén gyakori, Közép-Európában ritka.",
+      "cap": "A kalap 4–12 cm átmérőjű, eleinte domború, begöngyölt szélű, később kiterül, végül bemélyed vagy tölcséres lesz, gyakran excentrikus és hullámos szélű. Felszíne száraz, selymesen fénylő, sárgásnarancs vagy narancsbarna, finom, sötétebb sugaras szálakkal, középen a legsötétebb.",
+      "hymenium": "A lemezek valódi lemezek, vékonyak, sűrűk, 2–6 mm szélesek, mélyen lefutók, aranysárgák vagy narancsszínűek; friss termőtesteken a sötétben halvány kékeszöld fénnyel világíthatnak.",
+      "stipe": "A tönk 4–12 cm hosszú és 0,7–3 cm vastag, tömör, a kalap alatt a legvastagabb és a tövénél elvékonyodik, gyakran görbe és excentrikus, a kalappal egyszínű vagy halványabb, finoman nemezes. Több tönk általában a tövénél összenőtt.",
+      "flesh": "Sárga vagy aranysárga vöröses árnyalattal, kemény, rostos és rugalmas, az egész tönkben narancsszínű. Szaga jellegtelen.",
+      "sporePrint": "Spórapora fehéres, néha sárgás árnyalatú. A spórák csaknem gömbölyűek, simák és színtelenek, 5–7 × 4,5–5,6 µm.",
+      "habitat": "Lombos fák fáját bontó gomba, főleg olajfán, tölgyeken és szelídgesztenyén, nagy csokrokban nő tuskókon, törzsek tövén és földbe temetett gyökereken, néha élő fákat is megtámad. A mediterrán térségben gyakori, Közép-Európa legmelegebb részein ritka. Júliustól novemberig terem.",
+      "uses": "Mérgező. Fogyasztása heves hányást, hasi görcsöket és hasmenést okoz, amelyek körülbelül egy-két órával az étkezés után kezdődnek. Általában nem halálos, de Dél-Európában gyakoriak a mérgezések, mert összetévesztik az ehető Cantharellus fajokkal. Toxinjai közé tartozik az illudin S.",
+      "confusion": "A Cantharellus cibarius termőrétege valódi lemezek helyett tompa, villásan elágazó lécekből áll, egyesével vagy laza csoportokban nő a talajon, nem csokrokban fán, és tönkjének húsa halványabb. A Hygrophoropsis aurantiaca kisebb, lemezei puhák, ismételten villásan elágazók és narancsszínűek. Az Omphalotus illudens szinte ugyanolyan, főleg mikroszkópos bélyegek alapján különíthető el.",
+      "notes": "A lemezek és a micélium a sötétben biolumineszcencia révén halványan zöldesen világítanak. A rokon fajokban is meglévő illudin S toxin lett a kiindulópontja az irofulven nevű kísérleti rákellenes gyógyszernek. Egy nagyon hasonló észak-amerikai fajról, amelyet korábban e faj változatának tekintettek, molekuláris vizsgálatok kimutatták, hogy önálló faj.",
+      "names": [],
+      "sourceUrls": [
+        "https://hu.wikipedia.org/wiki/Világító_tölcsérgomba",
+        "https://www.gbif.org/species/2538088"
+      ],
+      "label": "világító tölcsérgomba"
+    },
+    "id": {
+      "description": "Jamur berbilah yang berwarna jingga cerah dan beracun, tumbuh dalam rumpun rapat pada tunggul, akar yang terkubur, dan pangkal pohon berdaun lebar, terutama zaitun dan ek. Bilahnya yang rapat menurun jauh pada tangkai dan dapat berpendar samar dalam gelap. Jamur ini umum di sekitar Laut Tengah dan langka di Eropa Tengah.",
+      "cap": "Tudungnya berdiameter 4–12 cm, mula-mula cembung dengan tepi tergulung ke dalam, lalu mendatar dan akhirnya cekung hingga berbentuk corong, sering tidak simetris dan bertepi bergelombang. Permukaannya kering dan mengilap seperti sutra, jingga kekuningan hingga cokelat jingga dengan serat radial halus yang lebih gelap, paling gelap ke arah tengah.",
+      "hymenium": "Bilahnya adalah bilah sejati, tipis, rapat, lebar 2–6 mm, menurun jauh pada tangkai, kuning keemasan hingga jingga; pada tubuh buah yang segar, bilah dapat berpendar biru kehijauan samar dalam gelap.",
+      "stipe": "Tangkainya panjang 4–12 cm dan tebal 0,7–3 cm, padat, paling tebal di bawah tudung dan menyempit ke pangkal, sering melengkung dan tidak di tengah, berwarna seperti tudung atau lebih pucat, dan berbulu halus seperti kempa. Beberapa tangkai biasanya menyatu di pangkal.",
+      "flesh": "Kuning hingga kuning keemasan dengan semburat kemerahan, padat, berserat, dan elastis, jingga di seluruh tangkai. Baunya tidak mencolok.",
+      "sporePrint": "Cetakan spora keputihan, kadang dengan semburat kekuningan. Spora hampir bulat, halus, dan tidak berwarna, 5–7 × 4,5–5,6 µm.",
+      "habitat": "Jamur pelapuk kayu pohon berdaun lebar, terutama zaitun, ek, dan kastanye manis, tumbuh dalam rumpun besar pada tunggul, pangkal batang, dan akar yang terkubur, dan kadang menyerang pohon hidup. Jamur ini umum di kawasan Mediterania dan langka di bagian terhangat Eropa Tengah. Muncul dari Juli hingga November.",
+      "uses": "Beracun. Memakannya menyebabkan muntah hebat, kram perut, dan diare yang mulai sekitar satu hingga dua jam setelah makan. Biasanya tidak mematikan, tetapi keracunan sering terjadi di Eropa selatan karena jamur ini dikira spesies Cantharellus yang dapat dimakan. Racunnya antara lain illudin S.",
+      "confusion": "Cantharellus cibarius memiliki lipatan tumpul yang bercabang, bukan bilah sejati, tumbuh soliter atau dalam kelompok jarang di tanah, bukan dalam rumpun pada kayu, dan dagingnya di dalam tangkai lebih pucat. Hygrophoropsis aurantiaca lebih kecil dan memiliki bilah jingga yang lunak dan bercabang berulang kali. Omphalotus illudens tampak hampir sama dan dibedakan terutama dari ciri mikroskopis.",
+      "notes": "Bilah dan miselium berpendar samar kehijauan dalam gelap melalui bioluminesensi. Racun illudin S, yang juga dimiliki spesies kerabatnya, menjadi titik awal bagi obat antikanker eksperimental irofulven. Spesies Amerika Utara yang sangat mirip, yang dulu dianggap varietas dari spesies ini, terbukti melalui studi molekuler sebagai spesies tersendiri.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un fungo a lamelle arancione vivo e velenoso, che cresce in densi cespi su ceppaie, radici interrate e alla base di latifoglie, soprattutto olivi e querce. Le sue lamelle fitte scendono a lungo sul gambo e al buio possono emettere una debole luce. È comune nell'area mediterranea e raro nell'Europa centrale.",
+      "cap": "Il cappello misura 4–12 cm, prima convesso con margine involuto, poi spianato e infine depresso fino a imbutiforme, spesso eccentrico e con orlo ondulato. La superficie è asciutta e lucida come seta, da giallo-arancio a bruno-arancio con sottili fibrille radiali più scure, ed è più scura verso il centro.",
+      "hymenium": "Le lamelle sono vere lamelle, sottili, fitte e larghe 2–6 mm, fortemente decorrenti, da giallo oro ad arancio; negli esemplari freschi al buio possono emettere una debole luce blu-verde.",
+      "stipe": "Il gambo è lungo 4–12 cm e spesso 0,7–3 cm, pieno, più grosso sotto il cappello e assottigliato verso la base, spesso curvo ed eccentrico, dello stesso colore del cappello o più chiaro, e finemente feltrato. Di solito più gambi sono saldati alla base.",
+      "flesh": "Gialla fino a giallo oro con una sfumatura rossastra, soda, fibrosa ed elastica, arancione in tutto il gambo. L'odore è insignificante.",
+      "sporePrint": "Sporata biancastra, talvolta con una sfumatura giallastra. Spore quasi rotonde, lisce e incolori, 5–7 × 4,5–5,6 µm.",
+      "habitat": "Fungo lignicolo delle latifoglie, soprattutto olivo, querce e castagno, che cresce in grandi cespi su ceppaie, alla base dei tronchi e su radici interrate, e talvolta attacca alberi vivi. È comune nella regione mediterranea e raro nelle zone più calde dell'Europa centrale. Compare da luglio a novembre.",
+      "uses": "Velenoso. Il consumo provoca vomito violento, crampi addominali e diarrea, che iniziano circa una o due ore dopo il pasto. Di solito non è mortale, ma nell'Europa meridionale le intossicazioni sono frequenti perché viene scambiato per specie commestibili del genere Cantharellus. Tra le sue tossine c'è l'illudina S.",
+      "confusion": "Cantharellus cibarius ha pieghe ottuse e forcate invece di vere lamelle, cresce isolato o in gruppi radi sul terreno anziché in cespi sul legno, e ha la carne più chiara nel gambo. Hygrophoropsis aurantiaca è più piccolo e ha lamelle arancioni molli, ripetutamente forcate. Omphalotus illudens è quasi identico e si distingue soprattutto per caratteri microscopici.",
+      "notes": "Le lamelle e il micelio emettono al buio una debole luce verdastra per bioluminescenza. La tossina illudina S, comune a specie affini, è stata il punto di partenza per l'irofulvene, un farmaco antitumorale sperimentale. Una specie nordamericana molto simile, un tempo trattata come una sua varietà, si è rivelata una specie distinta in base a studi molecolari.",
+      "names": [
+        "fungo dell'ulivo"
+      ],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2538088",
+        "https://funghimeteo.it/fungo-dell-olivo",
+        "https://it.wikipedia.org/wiki/Omphalotus_olearius"
+      ],
+      "label": "fungo dell'olivo"
+    },
+    "ja": {
+      "description": "鮮やかな橙色をした有毒のひだのあるきのこで、切り株、地中に埋もれた根、広葉樹、特にオリーブやナラ類の根元に密に束生する。密なひだは柄に長く垂れ下がり、暗所でかすかに光ることがある。地中海沿岸では普通で、中部ヨーロッパではまれである。",
+      "cap": "傘は径4–12 cm、初め縁が内側に巻いた丸山形、のち平らに開き、最後には中央がくぼんで漏斗形となり、しばしば偏心的で縁は波打つ。表面は乾いて絹のような光沢があり、黄橙色から橙褐色で細かい濃色の放射状繊維があり、中央ほど濃い。",
+      "hymenium": "ひだは真のひだで、薄く密、幅2–6 mm、柄に深く垂生し、黄金色から橙色。新鮮な子実体では暗所でかすかに青緑色に光ることがある。",
+      "stipe": "柄は長さ4–12 cm、太さ0.7–3 cm、中実で傘の直下が最も太く基部に向かって細まり、しばしば曲がって偏心的、傘と同色かやや淡く、細かいフェルト状。通常は数本の柄が基部で癒着する。",
+      "flesh": "黄色から黄金色で赤みを帯び、硬く繊維質で弾力があり、柄の内部まで全体が橙色。においは目立たない。",
+      "sporePrint": "胞子紋は白っぽく、時に黄色みを帯びる。胞子はほぼ球形、平滑、無色で、5–7 × 4.5–5.6 µm。",
+      "habitat": "広葉樹、特にオリーブ、ナラ類、ヨーロッパグリの材を腐朽させるきのこで、切り株、幹の根元、地中に埋もれた根に大きな束になって発生し、時に生きた木も侵す。地中海地域では普通で、中部ヨーロッパの最も温暖な地域ではまれである。七月から十一月に見られる。",
+      "uses": "有毒。食べると激しい嘔吐、腹部のけいれん、下痢を起こし、食後およそ一、二時間で始まる。通常は致命的ではないが、食用のCantharellus属の種と間違えられるため、南ヨーロッパでは中毒がよく起こる。毒成分にはイルジンSが含まれる。",
+      "confusion": "Cantharellus cibariusは真のひだではなく鈍く分岐する襞をもち、材上に束生せず地上に単生または散生し、柄の内部の肉はより淡い。Hygrophoropsis aurantiacaはより小さく、柔らかく何度も二又に分岐する橙色のひだをもつ。Omphalotus illudensはほとんど同じに見え、主に顕微鏡的特徴で区別される。",
+      "notes": "ひだと菌糸体は生物発光により暗所でかすかに緑色に光る。近縁種にも含まれる毒素イルジンSは、実験的な抗がん剤イロフルベンの出発点となった。よく似た北アメリカの種は、かつて本種の変種とされたが、分子系統学的研究により別種であることが示された。",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ko": {
+      "description": "밝은 주황색의 독성 주름버섯으로, 그루터기, 땅에 묻힌 뿌리, 활엽수, 특히 올리브나무와 참나무류의 밑동에 빽빽한 다발로 자란다. 촘촘한 주름살은 자루를 따라 길게 내려가며 어둠 속에서 희미하게 빛날 수 있다. 지중해 주변에서는 흔하고 중부 유럽에서는 드물다.",
+      "cap": "갓은 지름 4–12 cm이며, 처음에는 가장자리가 안쪽으로 말린 둥근 산 모양이다가 평평하게 펴지고, 마지막에는 가운데가 오목해져 깔때기 모양이 되며, 흔히 한쪽으로 치우치고 가장자리가 물결 모양이다. 표면은 건조하고 비단 같은 광택이 있으며, 황주황색에서 주황갈색으로 가는 진한 방사상 섬유가 있고 가운데 쪽이 가장 진하다.",
+      "hymenium": "주름살은 진짜 주름살로, 얇고 촘촘하며 폭 2–6 mm이고, 자루를 따라 깊이 내려붙으며 황금색에서 주황색이다. 신선한 자실체에서는 어둠 속에서 희미한 청록색 빛을 낼 수 있다.",
+      "stipe": "자루는 길이 4–12 cm, 굵기 0.7–3 cm로 속이 차 있고, 갓 바로 아래가 가장 굵으며 밑동 쪽으로 가늘어지고, 흔히 휘어 있고 한쪽으로 치우치며, 갓과 같은 색이거나 더 연하고 미세한 펠트 모양이다. 보통 여러 자루가 밑동에서 붙어 있다.",
+      "flesh": "노란색에서 황금색으로 붉은 기가 돌고, 단단하고 섬유질이며 탄력이 있고, 자루 속까지 전체가 주황색이다. 냄새는 뚜렷하지 않다.",
+      "sporePrint": "포자문은 흰빛이며 때로 노란 기가 돈다. 포자는 거의 구형이고 매끄럽고 무색이며, 5–7 × 4.5–5.6 µm이다.",
+      "habitat": "활엽수, 특히 올리브나무, 참나무류, 유럽밤나무의 목재를 썩히는 버섯으로, 그루터기, 줄기 밑동, 땅에 묻힌 뿌리에 큰 다발로 자라며 때로 살아 있는 나무를 공격하기도 한다. 지중해 지역에서는 흔하고 중부 유럽의 가장 따뜻한 지역에서는 드물다. 칠월부터 십일월까지 볼 수 있다.",
+      "uses": "독버섯. 먹으면 격렬한 구토, 복부 경련, 설사가 일어나며, 식사 후 약 한두 시간 만에 시작된다. 보통 치명적이지는 않지만, 식용 Cantharellus 속 종으로 오인되어 남유럽에서는 중독이 잦다. 독성분으로 일루딘 S가 있다.",
+      "confusion": "Cantharellus cibarius는 진짜 주름살 대신 무디고 갈라지는 주름 능선이 있고, 목재 위에 다발로 나지 않고 땅 위에 홀로 또는 드문드문 무리 지어 나며, 자루 속살이 더 연하다. Hygrophoropsis aurantiaca는 더 작고 부드러우며 여러 번 두 갈래로 갈라지는 주황색 주름살이 있다. Omphalotus illudens는 거의 똑같아 보이며 주로 현미경적 특징으로 구별한다.",
+      "notes": "주름살과 균사체는 생물발광으로 어둠 속에서 희미한 초록빛을 낸다. 근연종에도 있는 독소 일루딘 S는 실험적 항암제 이로풀벤의 출발점이 되었다. 매우 비슷한 북아메리카 종은 한때 이 종의 변종으로 다루어졌으나, 분자 연구로 별개의 종임이 밝혀졌다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Ryškiai oranžinis, nuodingas lakštinis grybas, augantis tankiais kuokštais ant kelmų, užkastų šaknų ir lapuočių medžių kamienų papėdėje, ypač prie alyvmedžių ir ąžuolų. Jo tankūs lakšteliai toli nusileidžia ant kotelio ir tamsoje gali silpnai švytėti. Jis dažnas Viduržemio jūros regione ir retas Vidurio Europoje.",
+      "cap": "Kepurėlė 4–12 cm skersmens, iš pradžių išgaubta su įlenktu kraštu, vėliau plokščia ir galiausiai įdubusi iki piltuvėliškos, dažnai ekscentriška ir banguotu kraštu. Paviršius sausas ir šilkiškai blizgus, gelsvai oranžinis iki oranžiškai rudo su smulkiomis tamsesnėmis radialinėmis skaidulomis, centre tamsiausias.",
+      "hymenium": "Lakšteliai tikri, ploni, tankūs ir 2–6 mm pločio, toli nutekantys ant kotelio, aukso geltonumo iki oranžinių; šviežių vaisiakūnių lakšteliai tamsoje gali silpnai švytėti melsvai žaliai.",
+      "stipe": "Kotelis 4–12 cm ilgio ir 0,7–3 cm storio, pilnaviduris, storiausias po kepurėle ir siaurėjantis pamato link, dažnai išlinkęs ir ekscentriškas, kepurėlės spalvos arba blyškesnis ir smulkiai veltiniškas. Keli koteliai paprastai suaugę pamate.",
+      "flesh": "Geltona iki aukso geltonumo su rausvu atspalviu, standi, skaidulinga ir elastinga, visame kotelyje oranžinė. Kvapas neišsiskiriantis.",
+      "sporePrint": "Sporų atspaudas balsvas, kartais gelsvo atspalvio. Sporos beveik apvalios, lygios ir bespalvės, 5–7 × 4,5–5,6 µm.",
+      "habitat": "Lapuočių medieną ardantis grybas, ypač ant alyvmedžio, ąžuolų ir valgomojo kaštono, augantis dideliais kuokštais ant kelmų, kamienų papėdžių ir užkastų šaknų, kartais pažeidžiantis ir gyvus medžius. Jis dažnas Viduržemio jūros regione ir retas šilčiausiose Vidurio Europos dalyse. Pasirodo nuo liepos iki lapkričio.",
+      "uses": "Nuodingas. Suvalgius sukelia smarkų vėmimą, pilvo spazmus ir viduriavimą, kurie prasideda maždaug po vienos ar dviejų valandų po valgio. Paprastai jis nėra mirtinas, tačiau Pietų Europoje apsinuodijimai dažni, nes jis painiojamas su valgomosiomis Cantharellus genties rūšimis. Tarp jo toksinų yra iliudinas S.",
+      "confusion": "Cantharellus cibarius vietoj tikrų lakštelių turi bukas, šakotas raukšles, auga pavieniui arba retomis grupėmis ant dirvos, o ne kuokštais ant medienos, ir jo kotelio minkštimas blyškesnis. Hygrophoropsis aurantiaca mažesnis ir turi minkštus, daug kartų šakotus oranžinius lakštelius. Omphalotus illudens atrodo beveik taip pat ir skiriasi daugiausia mikroskopiniais požymiais.",
+      "notes": "Lakšteliai ir grybiena tamsoje dėl bioliuminescencijos silpnai žalsvai švyti. Toksinas iliudinas S, būdingas ir giminingoms rūšims, tapo atspirties tašku eksperimentiniam vaistui nuo vėžio irofulvenui. Labai panaši Šiaurės Amerikos rūšis, anksčiau laikyta šios rūšies varietetu, molekuliniais tyrimais pasirodė esanti atskira rūšis.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/2538088"
+      ],
+      "label": "oranžinė alyvbudė"
+    },
+    "lv": {
+      "description": "Spilgti oranža, indīga lapiņu sēne, kas aug blīvos ceros uz celmiem, apraktām saknēm un lapu koku stumbru pamatnē, īpaši pie olīvkokiem un ozoliem. Tās blīvās lapiņas tālu nolaižas uz kātiņa un tumsā var vāji spīdēt. Tā ir bieži sastopama Vidusjūras apkārtnē un reta Centrāleiropā.",
+      "cap": "Cepurīte ir 4–12 cm plata, sākumā izliekta ar ieliektu malu, vēlāk plakana un beigās iedobta līdz piltuvveida, bieži ekscentriska un ar viļņotu malu. Virsma ir sausa un zīdaini spīdīga, dzeltenoranža līdz oranžbrūna ar smalkām tumšākām radiālām šķiedrām, centrā vistumšākā.",
+      "hymenium": "Lapiņas ir īstas lapiņas, plānas, blīvas un 2–6 mm platas, tālu nolaižas uz kātiņa, zeltaini dzeltenas līdz oranžas; svaigiem augļķermeņiem tās tumsā var vāji spīdēt zilganzaļā krāsā.",
+      "stipe": "Kātiņš ir 4–12 cm garš un 0,7–3 cm resns, pilns, visresnākais zem cepurītes un uz pamatni sašaurinās, bieži izliekts un ekscentrisks, cepurītes krāsā vai bālāks un smalki filcains. Vairāki kātiņi parasti ir saauguši pamatnē.",
+      "flesh": "Dzeltena līdz zeltaini dzeltena ar sarkanīgu nokrāsu, stingra, šķiedraina un elastīga, visā kātiņā oranža. Smarža ir neuzkrītoša.",
+      "sporePrint": "Sporu nospiedums bālgans, dažkārt ar dzeltenīgu nokrāsu. Sporas ir gandrīz apaļas, gludas un bezkrāsainas, 5–7 × 4,5–5,6 µm.",
+      "habitat": "Lapu koku koksni noārdoša sēne, īpaši uz olīvkoka, ozoliem un ēdamā kastaņa, kas aug lielos ceros uz celmiem, stumbru pamatnēm un apraktām saknēm un dažkārt bojā arī dzīvus kokus. Tā ir bieži sastopama Vidusjūras reģionā un reta siltākajās Centrāleiropas daļās. Tā sastopama no jūlija līdz novembrim.",
+      "uses": "Indīga. Ēšana izraisa spēcīgu vemšanu, vēdera krampjus un caureju, kas sākas apmēram vienu līdz divas stundas pēc maltītes. Parasti tā nav nāvējoša, taču Dienvideiropā saindēšanās ir bieža, jo to sajauc ar ēdamām ģints Cantharellus sugām. Tās toksīnu vidū ir illudīns S.",
+      "confusion": "Cantharellus cibarius īsto lapiņu vietā ir strupas, sazarotas krokas, tā aug pa vienai vai retās grupās uz augsnes, nevis ceros uz koksnes, un tās kātiņa mīkstums ir bālāks. Hygrophoropsis aurantiaca ir mazāka, un tai ir mīkstas, atkārtoti dakšveidīgi sazarotas oranžas lapiņas. Omphalotus illudens izskatās gandrīz tāpat un atšķiras galvenokārt pēc mikroskopiskām pazīmēm.",
+      "notes": "Lapiņas un micēlijs tumsā bioluminiscences dēļ vāji zaļgani spīd. Toksīns illudīns S, kas ir arī radniecīgām sugām, kļuva par sākumpunktu eksperimentālām pretvēža zālēm irofulvēnam. Ļoti līdzīga Ziemeļamerikas suga, ko agrāk uzskatīja par šīs sugas varietāti, saskaņā ar molekulāriem pētījumiem izrādījusies atsevišķa suga.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "nl": {
+      "description": "Een feloranje, giftige plaatjeszwam die in dichte bundels groeit op stronken, begraven wortels en aan de voet van loofbomen, vooral olijfbomen en eiken. De dicht opeen staande plaatjes lopen ver af langs de steel en kunnen in het donker zwak oplichten. Hij is algemeen rond de Middellandse Zee en zeldzaam in Midden-Europa.",
+      "cap": "De hoed is 4–12 cm breed, eerst gewelfd met ingerolde rand, dan vlak en ten slotte ingedeukt tot trechtervormig, vaak excentrisch en met golvende rand. Het oppervlak is droog en zijdeachtig glanzend, geeloranje tot oranjebruin met fijne donkerdere radiale vezels, en het donkerst naar het midden.",
+      "hymenium": "De plaatjes zijn echte plaatjes, dun, dicht opeen en 2–6 mm breed, ver aflopend langs de steel, goudgeel tot oranje; bij verse vruchtlichamen kunnen ze in het donker zwak blauwgroen oplichten.",
+      "stipe": "De steel is 4–12 cm lang en 0,7–3 cm dik, vol, het dikst onder de hoed en naar de voet versmald, vaak gebogen en excentrisch, gekleurd als de hoed of bleker en fijn viltig. Meestal zijn meerdere stelen aan de voet vergroeid.",
+      "flesh": "Geel tot goudgeel met een roodachtige tint, stevig, vezelig en elastisch, oranje door de hele steel. De geur is onopvallend.",
+      "sporePrint": "Sporenprint witachtig, soms met een geelachtige tint. Sporen bijna rond, glad en kleurloos, 5–7 × 4,5–5,6 µm.",
+      "habitat": "Een houtafbrekende zwam van loofbomen, vooral olijf, eiken en tamme kastanje, die in grote bundels groeit op stronken, stamvoeten en begraven wortels en soms ook levende bomen aantast. Hij is algemeen in het Middellandse Zeegebied en zeldzaam in de warmste delen van Midden-Europa. Hij verschijnt van juli tot november.",
+      "uses": "Giftig. Eten veroorzaakt hevig braken, buikkrampen en diarree, die ongeveer een tot twee uur na de maaltijd beginnen. Hij is meestal niet dodelijk, maar in Zuid-Europa komen vergiftigingen vaak voor omdat hij wordt verward met eetbare soorten van het geslacht Cantharellus. Tot zijn gifstoffen behoort illudine S.",
+      "confusion": "Cantharellus cibarius heeft stompe, gevorkte lijsten in plaats van echte plaatjes, groeit alleen of in losse groepen op de grond in plaats van in bundels op hout, en heeft bleker vlees in de steel. Hygrophoropsis aurantiaca is kleiner en heeft zachte, herhaaldelijk gevorkte oranje plaatjes. Omphalotus illudens ziet er bijna hetzelfde uit en wordt vooral op microscopische kenmerken onderscheiden.",
+      "notes": "De plaatjes en het mycelium lichten in het donker zwak groenig op door bioluminescentie. De gifstof illudine S, die ook verwante soorten bezitten, werd het uitgangspunt voor het experimentele antikankermiddel irofulveen. Een sterk gelijkende Noord-Amerikaanse soort, vroeger als variëteit van deze soort beschouwd, is volgens moleculair onderzoek een aparte soort.",
+      "names": [],
+      "sourceUrls": [
+        "https://nl.wikipedia.org/wiki/Zuidelijke_lantaarnzwam",
+        "https://www.gbif.org/species/2538088"
+      ],
+      "label": "zuidelijke lantaarnzwam"
+    },
+    "no": {
+      "description": "En klart oransje, giftig skivesopp som vokser i tette knipper på stubber, begravde røtter og ved foten av løvtrær, særlig oliven og eik. De tette skivene løper langt ned på stilken og kan lyse svakt i mørket. Den er vanlig rundt Middelhavet og sjelden i Sentral-Europa.",
+      "cap": "Hatten er 4–12 cm bred, først hvelvet med innrullet kant, så flat og til slutt nedsenket til traktformet, ofte eksentrisk og med bølget kant. Overflaten er tørr og silkeaktig skinnende, guloransje til oransjebrun med fine mørkere radiære fibre og mørkest mot midten.",
+      "hymenium": "Skivene er ekte skiver, tynne, tette og 2–6 mm brede, langt nedløpende på stilken, gullgule til oransje; hos ferske fruktlegemer kan de lyse svakt blågrønt i mørket.",
+      "stipe": "Stilken er 4–12 cm lang og 0,7–3 cm tykk, fylt, tykkest under hatten og avsmalnende mot basis, ofte bøyd og eksentrisk, farget som hatten eller blekere og fint filtet. Flere stilker er vanligvis sammenvokst ved basis.",
+      "flesh": "Gult til gullgult med rødlig tone, fast, trådet og elastisk, oransje gjennom hele stilken. Lukten er uanselig.",
+      "sporePrint": "Sporefarge hvitaktig, iblant med gulaktig tone. Sporene er nesten runde, glatte og fargeløse, 5–7 × 4,5–5,6 µm.",
+      "habitat": "En vednedbrytende sopp på løvtrær, særlig oliven, eik og edelkastanje, som vokser i store knipper på stubber, stammebaser og begravde røtter og iblant angriper levende trær. Den er vanlig i Middelhavsområdet og sjelden i de varmeste delene av Sentral-Europa. Den opptrer fra juli til november.",
+      "uses": "Giftig. Inntak gir voldsomme oppkast, magekramper og diaré som begynner omtrent en til to timer etter måltidet. Den er vanligvis ikke dødelig, men i Sør-Europa er forgiftninger hyppige fordi den forveksles med spiselige arter i slekten Cantharellus. Blant giftstoffene er illudin S.",
+      "confusion": "Cantharellus cibarius har butte, gaffelgreinede ribber i stedet for ekte skiver, vokser enkeltvis eller i spredte grupper på bakken heller enn i knipper på ved og har blekere kjøtt i stilken. Hygrophoropsis aurantiaca er mindre og har myke, gjentatt gaffelgreinede oransje skiver. Omphalotus illudens ser nesten lik ut og skilles hovedsakelig på mikroskopiske kjennetegn.",
+      "notes": "Skivene og myceliet lyser svakt grønnaktig i mørket ved bioluminescens. Giftstoffet illudin S, som også finnes hos beslektede arter, ble utgangspunkt for det eksperimentelle kreftmiddelet irofulven. En svært lik nordamerikansk art, som tidligere ble regnet som en varietet av denne, har ifølge molekylære studier vist seg å være en egen art.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "pl": {
+      "description": "Jaskrawopomarańczowy, trujący grzyb blaszkowy, który rośnie w gęstych kępach na pniakach, zakopanych korzeniach i u podstawy drzew liściastych, zwłaszcza oliwek i dębów. Jego gęste blaszki daleko zbiegają na trzon i w ciemności mogą słabo świecić. Jest pospolity w rejonie Morza Śródziemnego, a w Europie Środkowej rzadki.",
+      "cap": "Kapelusz ma 4–12 cm średnicy, najpierw jest wypukły z podwiniętym brzegiem, potem płaski, a w końcu wklęsły do lejkowatego, często niecentryczny i z falistym brzegiem. Powierzchnia jest sucha i jedwabiście błyszcząca, żółtopomarańczowa do pomarańczowobrązowej, z delikatnymi ciemniejszymi promienistymi włókienkami, najciemniejsza ku środkowi.",
+      "hymenium": "Blaszki są prawdziwymi blaszkami, cienkie, gęste, szerokie na 2–6 mm, daleko zbiegające na trzon, złotożółte do pomarańczowych; u świeżych owocników mogą w ciemności słabo świecić niebieskozielono.",
+      "stipe": "Trzon ma 4–12 cm długości i 0,7–3 cm grubości, jest pełny, najgrubszy pod kapeluszem i zwęża się ku podstawie, często wygięty i niecentryczny, barwy kapelusza lub jaśniejszy, delikatnie filcowaty. Kilka trzonów jest zwykle zrośniętych u podstawy.",
+      "flesh": "Żółty do złotożółtego z czerwonawym odcieniem, jędrny, włóknisty i elastyczny, w całym trzonie pomarańczowy. Zapach niewyraźny.",
+      "sporePrint": "Wysyp zarodników białawy, czasem z żółtawym odcieniem. Zarodniki prawie kuliste, gładkie i bezbarwne, 5–7 × 4,5–5,6 µm.",
+      "habitat": "Grzyb rozkładający drewno drzew liściastych, zwłaszcza oliwek, dębów i kasztana jadalnego, rosnący w dużych kępach na pniakach, u nasady pni i na zakopanych korzeniach, czasem atakujący także żywe drzewa. Jest pospolity w regionie śródziemnomorskim i rzadki w najcieplejszych częściach Europy Środkowej. Pojawia się od lipca do listopada.",
+      "uses": "Trujący. Spożycie wywołuje gwałtowne wymioty, skurcze brzucha i biegunkę, które zaczynają się około jednej do dwóch godzin po posiłku. Zwykle nie jest śmiertelny, ale w Europie Południowej zatrucia są częste, ponieważ bywa mylony z jadalnymi gatunkami z rodzaju Cantharellus. Wśród jego toksyn jest iludyna S.",
+      "confusion": "Cantharellus cibarius ma zamiast prawdziwych blaszek tępe, rozwidlone listewki, rośnie pojedynczo lub w luźnych grupach na ziemi, a nie w kępach na drewnie, i ma jaśniejszy miąższ w trzonie. Hygrophoropsis aurantiaca jest mniejsza i ma miękkie, wielokrotnie rozwidlone pomarańczowe blaszki. Omphalotus illudens wygląda niemal tak samo i różni się głównie cechami mikroskopowymi.",
+      "notes": "Blaszki i grzybnia słabo świecą zielonkawo w ciemności dzięki bioluminescencji. Toksyna iludyna S, występująca też u gatunków pokrewnych, stała się punktem wyjścia dla eksperymentalnego leku przeciwnowotworowego irofulwenu. Bardzo podobny gatunek północnoamerykański, dawniej traktowany jako jego odmiana, okazał się w badaniach molekularnych odrębnym gatunkiem.",
+      "names": [],
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/Kielichowiec_pomarańczowy",
+        "https://www.gbif.org/species/2538088"
+      ],
+      "label": "kielichowiec pomarańczowy"
+    },
+    "pt": {
+      "description": "Um cogumelo de lâminas cor de laranja viva e venenoso, que cresce em tufos densos sobre cepos, raízes enterradas e na base de árvores folhosas, sobretudo oliveiras e carvalhos. As suas lâminas apertadas descem muito pelo pé e podem brilhar levemente no escuro. É comum em torno do Mediterrâneo e raro na Europa central.",
+      "cap": "O chapéu mede 4–12 cm, primeiro convexo com a margem enrolada, depois aplanado e por fim deprimido a afunilado, muitas vezes excêntrico e com o bordo ondulado. A superfície é seca e sedosa-brilhante, de amarelo-alaranjado a castanho-alaranjado com finas fibras radiais mais escuras, e mais escura para o centro.",
+      "hymenium": "As lâminas são lâminas verdadeiras, finas, apertadas e com 2–6 mm de largura, muito decorrentes, de amarelo-dourado a laranja; nos exemplares frescos podem emitir no escuro um ténue brilho verde-azulado.",
+      "stipe": "O pé mede 4–12 cm de comprimento e 0,7–3 cm de espessura, é cheio, mais grosso sob o chapéu e afunila para a base, muitas vezes curvo e excêntrico, da cor do chapéu ou mais pálido, e finamente feltrado. Vários pés estão normalmente soldados na base.",
+      "flesh": "Amarela a amarelo-dourado com um tom avermelhado, firme, fibrosa e elástica, cor de laranja em todo o pé. O cheiro é pouco notório.",
+      "sporePrint": "Esporada esbranquiçada, por vezes com um tom amarelado. Esporos quase redondos, lisos e incolores, 5–7 × 4,5–5,6 µm.",
+      "habitat": "Fungo lenhícola de árvores folhosas, sobretudo oliveira, carvalhos e castanheiro, que cresce em grandes tufos sobre cepos, bases de troncos e raízes enterradas, e por vezes ataca árvores vivas. É comum na região mediterrânica e raro nas zonas mais quentes da Europa central. Aparece de julho a novembro.",
+      "uses": "Venenoso. A sua ingestão provoca vómitos violentos, cólicas abdominais e diarreia, que começam cerca de uma a duas horas após a refeição. Normalmente não é mortal, mas as intoxicações são frequentes no sul da Europa porque é confundido com espécies comestíveis do género Cantharellus. Entre as suas toxinas está a iludina S.",
+      "confusion": "Cantharellus cibarius tem pregas rombas e bifurcadas em vez de lâminas verdadeiras, cresce isolado ou em grupos soltos no solo e não em tufos sobre madeira, e tem a carne mais pálida dentro do pé. Hygrophoropsis aurantiaca é mais pequeno e tem lâminas cor de laranja moles, repetidamente bifurcadas. Omphalotus illudens é quase idêntico e distingue-se sobretudo por caracteres microscópicos.",
+      "notes": "As lâminas e o micélio brilham levemente em tom esverdeado no escuro por bioluminescência. A toxina iludina S, partilhada com espécies aparentadas, foi o ponto de partida para o irofulveno, um fármaco anticancerígeno experimental. Uma espécie norte-americana muito semelhante, antes tratada como uma variedade desta, revelou-se uma espécie distinta segundo estudos moleculares.",
+      "names": [],
+      "sourceUrls": [
+        "https://museubiodiversidade.uevora.pt/elenco-de-especies/biodiversidade-actual/fungos/basidiomicetes/omphalotus-olearius/"
+      ],
+      "label": "cogumelo-das-oliveiras"
+    },
+    "ro": {
+      "description": "O ciupercă cu lamele, portocaliu aprins și otrăvitoare, care crește în tufe dese pe cioturi, rădăcini îngropate și la baza foioaselor, mai ales a măslinilor și stejarilor. Lamelele ei dese coboară mult pe picior și pot străluci slab în întuneric. Este comună în jurul Mediteranei și rară în Europa Centrală.",
+      "cap": "Pălăria are 4–12 cm, la început convexă cu marginea răsucită, apoi aplatizată și în final adâncită până la pâlnie, adesea excentrică și cu marginea ondulată. Suprafața este uscată și mătăsos-lucioasă, galben-portocalie până la brun-portocalie, cu fibre radiale fine mai închise, cea mai închisă spre centru.",
+      "hymenium": "Lamelele sunt lamele adevărate, subțiri, dese și late de 2–6 mm, puternic decurente, galben-aurii până la portocalii; la exemplarele proaspete pot emite în întuneric o lumină slabă albastru-verzuie.",
+      "stipe": "Piciorul are 4–12 cm lungime și 0,7–3 cm grosime, este plin, cel mai gros sub pălărie și se îngustează spre bază, adesea curbat și excentric, de culoarea pălăriei sau mai palid și fin pâslos. Mai multe picioare sunt de obicei concrescute la bază.",
+      "flesh": "Galbenă până la galben-aurie cu o nuanță roșiatică, fermă, fibroasă și elastică, portocalie în tot piciorul. Mirosul este nespecific.",
+      "sporePrint": "Sporada albicioasă, uneori cu o nuanță gălbuie. Sporii sunt aproape rotunzi, netezi și incolori, 5–7 × 4,5–5,6 µm.",
+      "habitat": "O ciupercă ce descompune lemnul foioaselor, mai ales al măslinului, stejarilor și castanului comestibil, crescând în tufe mari pe cioturi, la baza trunchiurilor și pe rădăcini îngropate, uneori atacând și arbori vii. Este comună în regiunea mediteraneeană și rară în zonele cele mai calde ale Europei Centrale. Apare din iulie până în noiembrie.",
+      "uses": "Otrăvitoare. Consumul provoacă vărsături violente, crampe abdominale și diaree, care încep la aproximativ una-două ore după masă. De obicei nu este mortală, dar în sudul Europei intoxicațiile sunt frecvente pentru că este confundată cu specii comestibile din genul Cantharellus. Printre toxinele ei se află iludina S.",
+      "confusion": "Cantharellus cibarius are în loc de lamele adevărate pliuri boante și bifurcate, crește solitar sau în grupuri rare pe sol, nu în tufe pe lemn, și are carnea mai palidă în picior. Hygrophoropsis aurantiaca este mai mică și are lamele portocalii moi, bifurcate repetat. Omphalotus illudens arată aproape la fel și se deosebește mai ales prin caractere microscopice.",
+      "notes": "Lamelele și miceliul strălucesc slab verzui în întuneric prin bioluminescență. Toxina iludina S, comună și speciilor înrudite, a devenit punctul de plecare pentru irofulven, un medicament anticancerigen experimental. O specie nord-americană foarte asemănătoare, tratată odinioară ca varietate a acesteia, s-a dovedit prin studii moleculare a fi o specie separată.",
+      "names": [],
+      "sourceUrls": [
+        "https://ro.wikipedia.org/wiki/Omphalotus_olearius"
+      ],
+      "label": "buricul măslinului"
+    },
+    "ru": {
+      "description": "Ярко-оранжевый ядовитый пластинчатый гриб, растущий густыми пучками на пнях, погребённых корнях и у основания лиственных деревьев, особенно олив и дубов. Его частые пластинки далеко нисходят на ножку и в темноте могут слабо светиться. Он обычен в Средиземноморье и редок в Центральной Европе.",
+      "cap": "Шляпка диаметром 4–12 cm, сначала выпуклая с подвёрнутым краем, затем плоская и в конце вдавленная до воронковидной, часто эксцентрическая и с волнистым краем. Поверхность сухая, шелковисто-блестящая, жёлто-оранжевая до оранжево-коричневой с тонкими более тёмными радиальными волокнами, к центру самая тёмная.",
+      "hymenium": "Пластинки настоящие, тонкие, частые, шириной 2–6 mm, сильно нисходящие на ножку, золотисто-жёлтые до оранжевых; у свежих плодовых тел они могут в темноте слабо светиться голубовато-зелёным светом.",
+      "stipe": "Ножка длиной 4–12 cm и толщиной 0,7–3 cm, сплошная, толще всего под шляпкой и сужается к основанию, часто изогнутая и эксцентрическая, одного цвета со шляпкой или светлее, тонковойлочная. Несколько ножек обычно срастаются у основания.",
+      "flesh": "Жёлтая до золотисто-жёлтой с красноватым оттенком, плотная, волокнистая и упругая, во всей ножке оранжевая. Запах невыраженный.",
+      "sporePrint": "Споровый порошок беловатый, иногда с желтоватым оттенком. Споры почти шаровидные, гладкие и бесцветные, 5–7 × 4,5–5,6 µm.",
+      "habitat": "Дереворазрушающий гриб лиственных деревьев, особенно оливы, дубов и каштана посевного, растёт крупными пучками на пнях, основаниях стволов и погребённых корнях, иногда поражает и живые деревья. Обычен в Средиземноморье и редок в самых тёплых частях Центральной Европы. Встречается с июля по ноябрь.",
+      "uses": "Ядовит. Употребление вызывает сильную рвоту, боли в животе и диарею, которые начинаются примерно через один-два часа после еды. Обычно не смертелен, но в Южной Европе отравления часты, потому что его путают со съедобными видами рода Cantharellus. Среди его токсинов есть иллудин S.",
+      "confusion": "У Cantharellus cibarius вместо настоящих пластинок тупые разветвлённые складки, он растёт поодиночке или рыхлыми группами на почве, а не пучками на древесине, и мякоть в ножке у него светлее. Hygrophoropsis aurantiaca мельче, с мягкими, многократно вильчато ветвящимися оранжевыми пластинками. Omphalotus illudens выглядит почти так же и отличается в основном микроскопическими признаками.",
+      "notes": "Пластинки и мицелий слабо светятся в темноте зеленоватым светом благодаря биолюминесценции. Токсин иллудин S, имеющийся и у родственных видов, стал отправной точкой для экспериментального противоопухолевого препарата ирофульвена. Очень похожий североамериканский вид, прежде считавшийся его разновидностью, по данным молекулярных исследований оказался самостоятельным видом.",
+      "names": [
+        "вешенка оливковая"
+      ],
+      "sourceUrls": [
+        "https://ru.wikipedia.org/wiki/Омфалот_маслиновый",
+        "https://www.gbif.org/species/2538088"
+      ],
+      "label": "омфалот маслиновый"
+    },
+    "sk": {
+      "description": "Jasne oranžová jedovatá lupeňovitá huba, ktorá rastie v hustých trsoch na pňoch, zakopaných koreňoch a pri báze listnatých stromov, najmä olív a dubov. Jej husté lupene hlboko zbiehajú na hlúbik a v tme môžu slabo svetielkovať. Je bežná v oblasti Stredozemného mora a v strednej Európe je vzácna.",
+      "cap": "Klobúk má v priemere 4–12 cm, najprv je klenutý s podvinutým okrajom, potom plochý a napokon vtlačený až lievikovitý, často výstredný a so zvlneným okrajom. Povrch je suchý, hodvábne lesklý, žltooranžový až oranžovohnedý s jemnými tmavšími radiálnymi vláknami a k stredu najtmavší.",
+      "hymenium": "Lupene sú pravé, tenké, husté, 2–6 mm široké, hlboko zbiehajú na hlúbik a sú zlatožlté až oranžové; v čerstvých plodniciach môžu v tme slabo modrozeleno svetielkovať.",
+      "stipe": "Hlúbik je 4–12 cm dlhý a 0,7–3 cm hrubý, plný, pod klobúkom najhrubší a smerom k báze sa zužuje, často zakrivený a výstredný, sfarbený ako klobúk alebo bledší a jemne plstnatý. Viacero hlúbikov býva pri báze zrastených.",
+      "flesh": "Žltá až zlatožltá s červenkastým odtieňom, pevná, vláknitá a pružná, v celom hlúbiku oranžová. Vôňa je nenápadná.",
+      "sporePrint": "Výtrusný prach je belavý, niekedy so žltkastým odtieňom. Výtrusy sú takmer guľovité, hladké a bezfarebné, 5–7 × 4,5–5,6 µm.",
+      "habitat": "Drevokazná huba listnatých stromov, najmä olív, dubov a gaštana jedlého, rastie vo veľkých trsoch na pňoch, bázach kmeňov a zakopaných koreňoch a niekedy napáda aj živé stromy. V oblasti Stredozemného mora je bežná, v najteplejších častiach strednej Európy je vzácna. Rastie od júla do novembra.",
+      "uses": "Jedovatá. Po požití spôsobuje prudké zvracanie, kŕče v bruchu a hnačku, ktoré sa začínajú asi jednu až dve hodiny po jedle. Zvyčajne nie je smrteľná, no v južnej Európe sú otravy časté, pretože sa zamieňa s jedlými druhmi rodu Cantharellus. Medzi jej toxíny patrí illudín S.",
+      "confusion": "Cantharellus cibarius má namiesto pravých lupeňov tupé, rozvetvené lišty, rastie jednotlivo alebo v riedkych skupinách na pôde, nie v trsoch na dreve, a dužinu v hlúbiku má bledšiu. Hygrophoropsis aurantiaca je menšia a má mäkké, opakovane vidlicovito rozvetvené oranžové lupene. Omphalotus illudens vyzerá takmer rovnako a odlišuje sa najmä mikroskopickými znakmi.",
+      "notes": "Lupene aj podhubie v tme slabo zelenkasto svetielkujú vďaka bioluminiscencii. Toxín illudín S, ktorý majú aj príbuzné druhy, sa stal východiskom pre experimentálne protirakovinové liečivo irofulvén. Veľmi podobný severoamerický druh, kedysi považovaný za jeho varietu, sa podľa molekulárnych štúdií ukázal ako samostatný druh.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.nahuby.sk/atlas-hub/Omphalotus-olearius/kalisnik-hnedooranzovy/ID181"
+      ],
+      "label": "kališník hnedooranžový"
+    },
+    "sl": {
+      "description": "Živo oranžna, strupena gliva z lističi, ki raste v gostih šopih na štorih, zakopanih koreninah in ob vznožju listavcev, zlasti oljk in hrastov. Njeni gosti lističi se daleč spuščajo po betu in lahko v temi šibko svetijo. Pogosta je v Sredozemlju, v srednji Evropi pa redka.",
+      "cap": "Klobuk meri 4–12 cm, sprva je izbočen z navzdol zavihanim robom, nato raven in nazadnje vdrt do lijakast, pogosto izsrediščen in z valovitim robom. Površina je suha in svilnato bleščeča, rumenooranžna do oranžnorjava z drobnimi temnejšimi radialnimi vlakni, proti sredini najtemnejša.",
+      "hymenium": "Lističi so pravi lističi, tanki, gosti in 2–6 mm široki, globoko se spuščajo po betu, zlatorumeni do oranžni; pri svežih trosnjakih lahko v temi šibko modrozeleno svetijo.",
+      "stipe": "Bet je 4–12 cm dolg in 0,7–3 cm debel, poln, pod klobukom najdebelejši in se proti dnu zožuje, pogosto ukrivljen in izsrediščen, barve klobuka ali svetlejši ter drobno polstenast. Več betov je navadno ob dnu zraščenih.",
+      "flesh": "Rumeno do zlatorumeno meso z rdečkastim odtenkom, čvrsto, vlaknato in prožno, v vsem betu oranžno. Vonj je neizrazit.",
+      "sporePrint": "Trosni prah belkast, včasih z rumenkastim odtenkom. Trosi so skoraj okrogli, gladki in brezbarvni, 5–7 × 4,5–5,6 µm.",
+      "habitat": "Gliva, ki razkraja les listavcev, zlasti oljke, hrastov in pravega kostanja, raste v velikih šopih na štorih, ob vznožju debel in na zakopanih koreninah, včasih pa napada tudi živa drevesa. V sredozemskem območju je pogosta, v najtoplejših delih srednje Evrope pa redka. Pojavlja se od julija do novembra.",
+      "uses": "Strupena. Uživanje povzroči močno bruhanje, trebušne krče in drisko, ki se začnejo približno eno do dve uri po obroku. Navadno ni smrtna, a so zastrupitve v južni Evropi pogoste, ker jo zamenjujejo z užitnimi vrstami rodu Cantharellus. Med njenimi toksini je iludin S.",
+      "confusion": "Cantharellus cibarius ima namesto pravih lističev tope, razcepljene letvice, raste posamič ali v rahlih skupinah na tleh in ne v šopih na lesu ter ima v betu svetlejše meso. Hygrophoropsis aurantiaca je manjša in ima mehke, večkrat razcepljene oranžne lističe. Omphalotus illudens je videti skoraj enako in se loči predvsem po mikroskopskih znakih.",
+      "notes": "Lističi in podgobje v temi zaradi bioluminiscence šibko zelenkasto svetijo. Toksin iludin S, ki ga imajo tudi sorodne vrste, je postal izhodišče za poskusno zdravilo proti raku irofulven. Zelo podobna severnoameriška vrsta, ki so jo nekoč obravnavali kot njeno varieteto, se je po molekularnih raziskavah izkazala za samostojno vrsto.",
+      "names": [],
+      "sourceUrls": [
+        "https://sl.wikipedia.org/wiki/Oljkov_livkar",
+        "https://www.gbif.org/species/2538088"
+      ],
+      "label": "oljkov livkar"
+    },
+    "sr": {
+      "description": "Јарко наранџаста, отровна листаста гљива која расте у густим бусенима на пањевима, закопаном корењу и у подножју листопадног дрвећа, нарочито маслине и храста. Њени густи листићи дубоко се спуштају низ дршку и у мраку могу слабо да светле. Честа је у Средоземљу, а ретка у средњој Европи.",
+      "cap": "Шешир је пречника 4–12 cm, најпре испупчен са подвијеним ободом, затим раван и на крају удубљен до левкаст, често ексцентричан и таласастог обода. Површина је сува и свиленкасто сјајна, жутонаранџаста до наранџастомрка са финим тамнијим радијалним влакнима, а ка средини је најтамнија.",
+      "hymenium": "Листићи су прави листићи, танки, густи и широки 2–6 mm, дубоко силазе низ дршку, златножути до наранџасти; код свежих плодних тела у мраку могу слабо да светле плавозелено.",
+      "stipe": "Дршка је дуга 4–12 cm и дебела 0,7–3 cm, пуна, најдебља испод шешира и сужава се ка дну, често повијена и ексцентрична, боје шешира или светлија и фино пустенаста. Више дршки је обично срасло у подножју.",
+      "flesh": "Жуто до златножуто месо са црвенкастим тоном, чврсто, влакнасто и еластично, у целој дршци наранџасто. Мирис је неупадљив.",
+      "sporePrint": "Отисак спора беличаст, понекад са жућкастим тоном. Споре су готово округле, глатке и безбојне, 5–7 × 4,5–5,6 µm.",
+      "habitat": "Гљива која разграђује дрво листопадног дрвећа, нарочито маслине, храстова и питомог кестена, расте у великим бусенима на пањевима, у подножју стабала и на закопаном корењу, а понекад напада и жива стабла. Честа је у медитеранском подручју, а ретка у најтоплијим деловима средње Европе. Појављује се од јула до новембра.",
+      "uses": "Отровна. Конзумирање изазива снажно повраћање, грчеве у стомаку и пролив, који почињу отприлике један до два сата после оброка. Обично није смртоносна, али су у јужној Европи тровања честа јер се меша са јестивим врстама рода Cantharellus. Међу њеним токсинима је илудин S.",
+      "confusion": "Cantharellus cibarius уместо правих листића има тупе, рачвасте наборе, расте појединачно или у ретким групама на земљи, а не у бусенима на дрвету, и има светлије месо у дршци. Hygrophoropsis aurantiaca је мања и има меке, више пута рачвасте наранџасте листиће. Omphalotus illudens изгледа готово исто и разликује се углавном микроскопским одликама.",
+      "notes": "Листићи и мицелијум у мраку слабо зеленкасто светле захваљујући биолуминисценцији. Токсин илудин S, који имају и сродне врсте, постао је полазиште за експериментални лек против рака ирофулвен. Веома слична северноамеричка врста, некада сматрана њеним варијететом, према молекуларним истраживањима показала се као засебна врста.",
+      "names": [
+        "брагара"
+      ],
+      "sourceUrls": [
+        "https://sr.wikipedia.org/wiki/Заводница"
+      ],
+      "label": "заводница"
+    },
+    "sv": {
+      "description": "En klart orange, giftig skivlingsvamp som växer i täta tuvor på stubbar, begravda rötter och vid foten av lövträd, särskilt olivträd och ekar. Dess täta skivor löper långt ned på foten och kan lysa svagt i mörker. Den är vanlig kring Medelhavet och sällsynt i Centraleuropa.",
+      "cap": "Hatten är 4–12 cm bred, först välvd med inrullad kant, sedan plan och till sist nedsänkt till trattformad, ofta excentrisk och med vågig kant. Ytan är torr och silkesglänsande, gulorange till orangebrun med fina mörkare radiära fibrer och mörkast mot mitten.",
+      "hymenium": "Skivorna är äkta skivor, tunna, täta och 2–6 mm breda, långt nedlöpande på foten, guldgula till orange; hos färska fruktkroppar kan de lysa svagt blågrönt i mörker.",
+      "stipe": "Foten är 4–12 cm lång och 0,7–3 cm tjock, fylld, tjockast under hatten och avsmalnande mot basen, ofta böjd och excentrisk, färgad som hatten eller blekare och fint filtad. Flera fötter är oftast sammanvuxna vid basen.",
+      "flesh": "Gult till guldgult med rödaktig ton, fast, trådigt och elastiskt, orange genom hela foten. Lukten är obetydlig.",
+      "sporePrint": "Sporavtryck vitaktigt, ibland med gulaktig ton. Sporerna är nästan runda, släta och färglösa, 5–7 × 4,5–5,6 µm.",
+      "habitat": "En vednedbrytande svamp på lövträd, särskilt oliv, ek och äkta kastanj, som växer i stora tuvor på stubbar, stambaser och begravda rötter och ibland angriper levande träd. Den är vanlig i Medelhavsområdet och sällsynt i de varmaste delarna av Centraleuropa. Den förekommer från juli till november.",
+      "uses": "Giftig. Förtäring orsakar häftiga kräkningar, magkramper och diarré som börjar ungefär en till två timmar efter måltiden. Den är vanligen inte dödlig, men i Sydeuropa är förgiftningar vanliga eftersom den förväxlas med ätliga arter i släktet Cantharellus. Bland dess gifter finns illudin S.",
+      "confusion": "Cantharellus cibarius har trubbiga, gaffelgrenade åsar i stället för äkta skivor, växer ensam eller i glesa grupper på marken i stället för i tuvor på ved och har blekare kött i foten. Hygrophoropsis aurantiaca är mindre och har mjuka, upprepat gaffelgrenade orange skivor. Omphalotus illudens ser nästan likadan ut och skiljs främst på mikroskopiska kännetecken.",
+      "notes": "Skivor och mycel lyser svagt grönaktigt i mörker genom bioluminescens. Giftet illudin S, som även finns hos besläktade arter, blev utgångspunkt för det experimentella cancerläkemedlet irofulven. En mycket lik nordamerikansk art, som tidigare behandlades som en varietet av denna, har enligt molekylära studier visat sig vara en egen art.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "tr": {
+      "description": "Parlak turuncu, zehirli, lamelli bir mantar; kütüklerde, toprağa gömülü köklerde ve geniş yapraklı ağaçların, özellikle zeytin ve meşelerin dibinde sık demetler hâlinde büyür. Sık lamelleri sapın aşağısına kadar uzanır ve karanlıkta hafifçe parlayabilir. Akdeniz çevresinde yaygın, Orta Avrupa'da nadirdir.",
+      "cap": "Şapka 4–12 cm çapındadır; önce kenarı içe kıvrık dışbükey, sonra düz ve en sonunda çukurlaşarak huni biçimli olur, çoğu zaman eksantrik ve kenarı dalgalıdır. Yüzey kuru ve ipeksi parlak, sarımsı turuncudan turuncu-kahverengiye kadar, ince ve daha koyu ışınsal liflidir; ortaya doğru en koyudur.",
+      "hymenium": "Lameller gerçek lamellerdir; ince, sık ve 2–6 mm genişliktedir, sapa doğru derince iner, altın sarısından turuncuya kadardır; taze meyve gövdelerinde karanlıkta hafif mavimsi yeşil parlayabilir.",
+      "stipe": "Sap 4–12 cm uzunluğunda ve 0,7–3 cm kalınlığındadır, dolu, şapkanın altında en kalın ve tabana doğru incelir, çoğu zaman eğri ve eksantriktir, şapka renginde ya da daha soluk ve ince keçemsidir. Birkaç sap genellikle tabanda kaynaşmıştır.",
+      "flesh": "Sarıdan altın sarısına, kırmızımsı tonlu, sıkı, lifli ve esnektir, sapın tamamında turuncudur. Kokusu belirgin değildir.",
+      "sporePrint": "Spor izi beyazımsı, bazen sarımsı tonlu. Sporlar neredeyse yuvarlak, düz ve renksizdir, 5–7 × 4,5–5,6 µm.",
+      "habitat": "Geniş yapraklı ağaçların, özellikle zeytin, meşe ve kestanenin odununu çürüten bir mantardır; kütüklerde, gövde diplerinde ve gömülü köklerde büyük demetler hâlinde büyür, bazen canlı ağaçlara da saldırır. Akdeniz bölgesinde yaygın, Orta Avrupa'nın en sıcak kesimlerinde nadirdir. Temmuzdan kasıma kadar görülür.",
+      "uses": "Zehirli. Yenmesi şiddetli kusma, karın krampları ve ishale yol açar; belirtiler yemekten yaklaşık bir ila iki saat sonra başlar. Genellikle öldürücü değildir, ancak yenebilen Cantharellus türleriyle karıştırıldığı için Güney Avrupa'da zehirlenmeler sıktır. Toksinleri arasında illudin S bulunur.",
+      "confusion": "Cantharellus cibarius gerçek lameller yerine küt, çatallanan kıvrımlara sahiptir, odun üzerinde demetler hâlinde değil, toprakta tek tek ya da seyrek gruplar hâlinde büyür ve sapındaki eti daha solgundur. Hygrophoropsis aurantiaca daha küçüktür ve yumuşak, tekrar tekrar çatallanan turuncu lamelleri vardır. Omphalotus illudens neredeyse aynı görünür ve başlıca mikroskobik özelliklerle ayrılır.",
+      "notes": "Lameller ve miselyum biyolüminesans sayesinde karanlıkta hafif yeşilimsi parlar. Akraba türlerde de bulunan illudin S toksini, deneysel kanser ilacı irofulvenin çıkış noktası olmuştur. Eskiden bu türün bir varyetesi sayılan çok benzer bir Kuzey Amerika türünün, moleküler çalışmalara göre ayrı bir tür olduğu gösterilmiştir.",
+      "names": [],
+      "sourceUrls": [
+        "https://tr.wikipedia.org/wiki/Ağulu_mantar",
+        "https://www.gbif.org/species/2538088"
+      ],
+      "label": "ağulu mantar"
+    },
+    "uk": {
+      "description": "Яскраво-помаранчевий отруйний пластинчастий гриб, що росте густими пучками на пнях, похованих коренях і біля основи листяних дерев, особливо олив і дубів. Його густі пластинки далеко сходять на ніжку й у темряві можуть слабко світитися. Він звичайний у Середземномор'ї та рідкісний у Центральній Європі.",
+      "cap": "Шапинка діаметром 4–12 cm, спочатку опукла з підвернутим краєм, потім плоска й зрештою вдавлена до лійкоподібної, часто ексцентрична та з хвилястим краєм. Поверхня суха, шовковисто-блискуча, жовто-помаранчева до помаранчево-коричневої з тонкими темнішими радіальними волокнами, до центру найтемніша.",
+      "hymenium": "Пластинки справжні, тонкі, густі, завширшки 2–6 mm, сильно низбіжні, золотисто-жовті до помаранчевих; у свіжих плодових тіл вони можуть у темряві слабко світитися блакитно-зеленим світлом.",
+      "stipe": "Ніжка завдовжки 4–12 cm і завтовшки 0,7–3 cm, суцільна, найтовща під шапинкою й звужується до основи, часто вигнута та ексцентрична, кольору шапинки або світліша, тонкоповстиста. Кілька ніжок зазвичай зростаються біля основи.",
+      "flesh": "Жовта до золотисто-жовтої з червонуватим відтінком, щільна, волокниста й пружна, в усій ніжці помаранчева. Запах невиразний.",
+      "sporePrint": "Спорова маса білувата, іноді з жовтуватим відтінком. Спори майже кулясті, гладенькі й безбарвні, 5–7 × 4,5–5,6 µm.",
+      "habitat": "Дереворуйнівний гриб листяних дерев, особливо оливи, дубів і каштана їстівного, росте великими пучками на пнях, основах стовбурів і похованих коренях, іноді уражує й живі дерева. Звичайний у Середземномор'ї та рідкісний у найтепліших частинах Центральної Європи. Трапляється з липня до листопада.",
+      "uses": "Отруйний. Вживання спричиняє сильне блювання, біль у животі й діарею, які починаються приблизно через одну-дві години після їжі. Зазвичай не смертельний, але в Південній Європі отруєння часті, бо його плутають із їстівними видами роду Cantharellus. Серед його токсинів є ілюдин S.",
+      "confusion": "У Cantharellus cibarius замість справжніх пластинок тупі розгалужені складки, він росте поодинці або нещільними групами на ґрунті, а не пучками на деревині, і м'якуш у ніжці в нього світліший. Hygrophoropsis aurantiaca дрібніша, з м'якими, багаторазово вилчасто розгалуженими помаранчевими пластинками. Omphalotus illudens виглядає майже так само й відрізняється переважно мікроскопічними ознаками.",
+      "notes": "Пластинки й міцелій слабко світяться в темряві зеленкуватим світлом завдяки біолюмінесценції. Токсин ілюдин S, наявний і в споріднених видів, став відправною точкою для експериментального протипухлинного препарату ірофульвену. Дуже схожий північноамериканський вид, якого раніше вважали його різновидом, за даними молекулярних досліджень виявився окремим видом.",
+      "names": [
+        "клітоцибе оранжево-червоний"
+      ],
+      "sourceUrls": [
+        "https://uk.wikipedia.org/wiki/Омфалот_оранжево-червоний"
+      ],
+      "label": "омфалот оранжево-червоний"
+    },
+    "zh": {
+      "description": "一種鮮橙色、有毒的具褶菇類，在樹樁、埋於土中的根及闊葉樹，尤其是油橄欖和櫟樹的基部密集叢生。其密集的菌褶沿柄長距離下延，在黑暗中可發出微弱的光。在地中海沿岸常見，在中歐則罕見。",
+      "cap": "菌蓋直徑4–12 cm，初時凸起，邊緣內捲，後平展，最後中央下陷至漏斗形，常偏生，邊緣呈波狀。表面乾燥，有絲綢般光澤，黃橙色至橙褐色，具細密較深色的放射狀纖維，向中央顏色最深。",
+      "hymenium": "菌褶為真正的菌褶，薄而密，寬2–6 mm，沿柄深度下延，金黃色至橙色；新鮮子實體的菌褶在黑暗中可發出微弱的藍綠色光。",
+      "stipe": "菌柄長4–12 cm，粗0.7–3 cm，實心，在菌蓋下方最粗，向基部漸細，常彎曲且偏生，與菌蓋同色或較淡，具細絨毛如氈。通常數根菌柄在基部相連。",
+      "flesh": "黃色至金黃色，帶紅色調，緊實、纖維質而有彈性，整個菌柄內部均為橙色。氣味不明顯。",
+      "sporePrint": "孢子印白色，有時帶黃色調。孢子近球形，光滑，無色，5–7 × 4.5–5.6 µm。",
+      "habitat": "一種分解闊葉樹木材的真菌，尤其見於油橄欖、櫟樹和歐洲栗，大叢生於樹樁、樹幹基部及埋於土中的根上，有時也侵害活樹。在地中海地區常見，在中歐最溫暖的地區罕見。七月至十一月可見。",
+      "uses": "有毒。誤食會引起劇烈嘔吐、腹部絞痛和腹瀉，約在進食後一至兩小時開始。通常不致命，但因常被誤認為可食的Cantharellus屬物種，在南歐中毒事件頻繁。其毒素包括隱陡頭菌素S。",
+      "confusion": "Cantharellus cibarius具鈍而分叉的稜褶而非真正的菌褶，單生或疏散群生於地上，而非叢生於木材上，菌柄內的菌肉顏色較淡。Hygrophoropsis aurantiaca較小，具柔軟、多次二叉分枝的橙色菌褶。Omphalotus illudens外觀幾乎相同，主要靠顯微特徵區分。",
+      "notes": "菌褶和菌絲體因生物發光而在黑暗中發出微弱的綠光。近緣種也含有的毒素隱陡頭菌素S，成為實驗性抗癌藥物伊洛福芬的研發起點。一種極為相似的北美物種，過去曾被視為本種的變種，分子研究已證實其為獨立物種。",
+      "names": [
+        "發光臍菇"
+      ],
+      "sourceUrls": [
+        "https://baike.baidu.com/item/发光类脐菇",
+        "https://www.gbif.org/species/2538088"
+      ],
+      "label": "發光類臍菇"
+    }
+  },
+  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Omphalotaceae/Omphalotus_olearius/Omphalotus_olearius@1600.webp",
+  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Omphalotaceae/Omphalotus_olearius/Omphalotus_olearius@400.webp",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Omphalotaceae/Omphalotus_olearius/Omphalotus_olearius@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Omphalotaceae/Omphalotus_olearius/Omphalotus_olearius@400.webp",
+  "plateCredit": {
+    "author": "Owner-supplied artwork; visually matches G. Bresadola, Iconographia Mycologica vol. V, tab. 285 (1928), \"Pleurotus olearius\" (unverified file chain)",
+    "credit": "Existing G. Bresadola mark retained once; not authenticated authorship.",
+    "license": "Owner supplied; the 1928 plate is public domain per Commons; rights in the supplied derivative not independently established",
+    "source": "supplied_original.png"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Omphalotaceae/Omphalotus_olearius/oo1.webp",
+      "author": "Drumețul Dacic",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/243769102"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Omphalotaceae/Omphalotus_olearius/oo2.webp",
+      "author": "Sarah Faulwetter",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/15385470"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Omphalotaceae/Omphalotus_olearius/oo3.webp",
+      "author": "Fabian Battiege",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/410357892"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Omphalotaceae/Omphalotus_olearius/oo4.webp",
+      "author": "MadMagpie",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/319559812"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Omphalotaceae/Omphalotus_olearius/oo5.webp",
+      "author": "moorebuesing",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/322721545"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Agaricales/Omphalotaceae/Omphalotus_olearius/Omphalotus_olearius@1600.webp",
+      "author": "Owner-supplied artwork; visually matches G. Bresadola, Iconographia Mycologica vol. V, tab. 285 (1928), \"Pleurotus olearius\" (unverified file chain)",
+      "license": "Owner supplied; the 1928 plate is public domain per Commons; rights in the supplied derivative not independently established",
+      "sourceUrl": "supplied_original.png",
+      "relatedSource": "https://commons.wikimedia.org/wiki/File:Bresadola_-_Pleurotus_olearius.png",
+      "existingMark": "G. Bresadola script mark; retained once, not on the Commons scan, not authenticated"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Agaricales/Omphalotaceae/Omphalotus_olearius/oo1.webp",
+      "author": "Drumețul Dacic",
+      "license": "CC0 1.0 Universal",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/243769102",
+      "photoUrl": "https://www.inaturalist.org/photos/434728776",
+      "attribution": "no rights reserved",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Agaricales/Omphalotaceae/Omphalotus_olearius/oo2.webp",
+      "author": "Sarah Faulwetter",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/15385470",
+      "photoUrl": "https://www.inaturalist.org/photos/23058140",
+      "attribution": "(c) Sarah Faulwetter, some rights reserved (CC BY)",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Agaricales/Omphalotaceae/Omphalotus_olearius/oo3.webp",
+      "author": "Fabian Battiege",
+      "license": "CC0 1.0 Universal",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/410357892",
+      "photoUrl": "https://www.inaturalist.org/photos/754688387",
+      "attribution": "no rights reserved",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Agaricales/Omphalotaceae/Omphalotus_olearius/oo4.webp",
+      "author": "MadMagpie",
+      "license": "CC0 1.0 Universal",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/319559812",
+      "photoUrl": "https://www.inaturalist.org/photos/577666643",
+      "attribution": "no rights reserved",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Agaricales/Omphalotaceae/Omphalotus_olearius/oo5.webp",
+      "author": "moorebuesing",
+      "license": "CC0 1.0 Universal",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/322721545",
+      "photoUrl": "https://www.inaturalist.org/photos/583864192",
+      "attribution": "no rights reserved",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    }
+  ],
+  "synonyms": [
+    "Agaricus olearius DC.",
+    "Pleurotus olearius (DC.) Gillet",
+    "Dryophila olearia (DC.) Quél.",
+    "Clitocybe olearia (DC.) Maire",
+    "Armillariella olearia (DC.) Singer"
+  ],
+  "fruitingFrom": 7,
+  "fruitingTo": 11,
+  "reserved": false,
+  "id": 146,
+  "added": "2026-11-09",
+  "citation": "Singer, Pap. Mich. Acad. Sci. 32: 133 (1948) [1946]",
+  "illustrationProvenance": {
+    "tool": "Pillow + OpenCV deterministic alpha-only segmentation; no generation",
+    "sourceFile": "Omphalotus olearius.png",
+    "sourceFormat": "JPEG",
+    "sourceFormatNote": "File named .png is actually JPEG/JFIF; no source alpha; alpha produced by segmentation of the cream paper background.",
+    "sourceDimensions": [
+      896,
+      1200
+    ],
+    "sourceSHA256": "25630bcef9a3a34eb44ce1a684a553ad5e27a8e8db789e5dcd674090e3989955",
+    "backgroundSHA256": "d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c",
+    "alphaPNG": "artwork_rgba.png",
+    "mask": "artwork_alpha_mask.png",
+    "cropBBox": [
+      82,
+      79,
+      857,
+      1178
+    ],
+    "uniformScale": 1.8064516129032258,
+    "placement": [
+      100,
+      207
+    ],
+    "composedArtworkDimensions": [
+      1400,
+      1985
+    ],
+    "allSourceRGBChangedPixels": 0,
+    "transparentPixels": 661442,
+    "opaquePixels": 379286,
+    "partialAlphaPixels": 34472,
+    "looseSpeckPixelsKept": 0,
+    "signatureBox": [
+      688,
+      1145,
+      868,
+      1186
+    ],
+    "signatureComponents": 5,
+    "signaturePixels": 805,
+    "preservedObjects": [
+      "two mature fruit bodies with depressed brown-orange caps, long decurrent yellow gills and tapering fibrillose stipes joined at the base (left/centre)",
+      "small young fruit body at the stipe base (left)",
+      "longitudinal section showing decurrent gills and solid flesh (lower centre)",
+      "line drawings: chain of hyphae (upper right), five spores, basidia/cystidia and subhymenial cells (lower right)",
+      "existing G. Bresadola mark"
+    ],
+    "signatureTreatment": "Existing G. Bresadola mark retained once (matches the owner-requested signature text); zero added marks. The mark is not authenticated: no creator, historical attribution, rights or species identity inferred.",
+    "contours": [
+      {
+        "area": 741.5,
+        "box": [
+          552,
+          1016,
+          32,
+          31
+        ]
+      },
+      {
+        "area": 919.0,
+        "box": [
+          520,
+          977,
+          34,
+          39
+        ]
+      },
+      {
+        "area": 1739.5,
+        "box": [
+          561,
+          972,
+          63,
+          61
+        ]
+      },
+      {
+        "area": 810.5,
+        "box": [
+          545,
+          936,
+          36,
+          34
+        ]
+      },
+      {
+        "area": 19387.0,
+        "box": [
+          581,
+          913,
+          233,
+          224
+        ]
+      },
+      {
+        "area": 109454.0,
+        "box": [
+          164,
+          497,
+          658,
+          623
+        ]
+      },
+      {
+        "area": 309510.0,
+        "box": [
+          83,
+          80,
+          669,
+          839
+        ]
+      }
+    ],
+    "rejectedPaperVignetteContours": [
+      {
+        "area": 24633.0,
+        "box": [
+          223,
+          15,
+          658,
+          1170
+        ]
+      },
+      {
+        "area": 24028.0,
+        "box": [
+          15,
+          15,
+          673,
+          1170
+        ]
+      }
+    ],
+    "enclosedPaperMadeTransparent": [
+      {
+        "area": 43514,
+        "box": [
+          308,
+          357,
+          179,
+          419
+        ]
+      },
+      {
+        "area": 1529,
+        "box": [
+          720,
+          592,
+          31,
+          110
+        ]
+      },
+      {
+        "area": 1499,
+        "box": [
+          745,
+          706,
+          54,
+          98
+        ]
+      },
+      {
+        "area": 1671,
+        "box": [
+          689,
+          927,
+          27,
+          120
+        ]
+      },
+      {
+        "area": 1271,
+        "box": [
+          659,
+          933,
+          28,
+          123
+        ]
+      },
+      {
+        "area": 2125,
+        "box": [
+          717,
+          934,
+          32,
+          136
+        ]
+      },
+      {
+        "area": 5236,
+        "box": [
+          617,
+          964,
+          175,
+          162
+        ]
+      },
+      {
+        "area": 906,
+        "box": [
+          707,
+          967,
+          16,
+          90
+        ]
+      }
+    ],
+    "backgroundSourceDimensions": [
+      1067,
+      1600
+    ],
+    "backgroundCanvasDimensions": [
+      1600,
+      2400
+    ],
+    "generation": false,
+    "repainting": false,
+    "stretching": false,
+    "sourcePaperRemoved": true,
+    "visualReview": "PASS: transparency checker, plate preview, source_vs_commons.jpg and six full-size tiles (fullsize_inspection/) inspected. Real alpha; enclosed paper between the stipes and inside the micro-drawings transparent; all objects (two mature fruit bodies, young fruit body, section, hyphae, five spores, basidia/cystidia, subhymenial cells) and the existing mark kept once; no double frame; uniform scale; line work intact. Colours follow the supplied file, not the scan. Anatomy matches tab. 285 but is not expert-verified.",
+    "probableSourceIdentification": {
+      "finding": "Visual match: the supplied image is a retinted/cleaned derivative of Giacomo Bresadola, Iconographia Mycologica vol. V, tab. 285 (1928), \"Pleurotus olearius\". Same two mature fruit bodies, young fruit body, longitudinal section and micro-drawings (hyphal chain, five spores, basidia/cystidia on subhymenial cells) in identical poses.",
+      "commons": "https://commons.wikimedia.org/wiki/File:Bresadola_-_Pleurotus_olearius.png",
+      "commonsLicense": "Public domain (Commons metadata; author Giacomo Bresadola, 1928)",
+      "evidence": "sources/commons_bresadola.json, sources/commons_bresadola_pleurotus_olearius.png (SHA256 c27d46e9530535b7e02603ce0b14a2d40ba327a377d31e9c851501d80751586b, byte-identical to ~/Downloads/Bresadola_-_Pleurotus_olearius.png on the Mac), source_vs_commons.jpg",
+      "differences": [
+        "Paper background toned cream instead of the grey-white scan",
+        "Section flesh whitish/pale buff instead of yellow-green; gill edges of section paler",
+        "Overall warmer, browner retint",
+        "Script \"G. Bresadola\" mark added lower right; not present on the Commons scan"
+      ]
+    },
+    "signatureFindings": "The supplied file carries one script mark \"G. Bresadola\" (matches the requested signature text). It is absent from the Commons scan of Iconographia Mycologica tab. 285, so it is a later addition, not an original autograph. It was kept exactly once and no mark was added. A signature request is not proof of authorship; Bresadola is credited as author of the Iconographia on Commons, but who prepared this derivative and added the mark is unverified.",
+    "fullSizeInspection": [
+      "fullsize_inspection/x0_y0.png",
+      "fullsize_inspection/x0_y1400.png",
+      "fullsize_inspection/x0_y700.png",
+      "fullsize_inspection/x800_y0.png",
+      "fullsize_inspection/x800_y1400.png",
+      "fullsize_inspection/x800_y700.png"
+    ],
+    "alphaPNGSHA256": "2b64e93f7a9c8f500395a8e934f68ff7d6f764047665ce75e7691fc8f565f6e4",
+    "maskSHA256": "f0368cd55ea57a0aba005855cfb79ee594e29486dbd2036e2f6b81fc9e2ffd6a",
+    "recipeSHA256": "5420ad9eabd2f96a9b79d22827f634fedfe563b7ebc0c81d33817b0e960fa146",
+    "officialFiles": [
+      {
+        "path": "media/Omphalotus_olearius@1600.webp",
+        "bytes": 313388,
+        "sha256": "1fda32e4b6db2f8c3c5088fc2d345f26f14da62f892517242fc7fac8e988a20f"
+      },
+      {
+        "path": "media/Omphalotus_olearius@400.webp",
+        "bytes": 47044,
+        "sha256": "ac81639353157baa0fd07ba3e9851c8cf8ea57739bc363467ab8a588e391cb8e"
+      }
+    ],
+    "rights": "Owner supplied. Visually matches the public-domain 1928 Bresadola, Iconographia Mycologica vol. V tab. 285 (Commons), but the supplied file is a retinted derivative with an added script mark; rights in the derivative and the file chain are unverified",
+    "anatomyVerified": false
+  }
+},
+{
+  "name": "Cantharellus californicus",
+  "author": "D. Arora & Dunham",
+  "family": "Hydnaceae",
+  "genus": "Cantharellus",
+  "order": "Cantharellales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Cantharellales",
+    "Hydnaceae",
+    "Cantharellus"
+  ],
+  "summary": [
+    "Cantharellales",
+    "Hydnaceae",
+    "Cantharellus"
+  ],
+  "edibility": "choice",
+  "hymenium": "ridges",
+  "where": [
+    "ground"
+  ],
+  "color": [
+    "yellow"
+  ],
+  "capFrom": 8.0,
+  "capTo": 30.0,
+  "stipeHeightFrom": 3.0,
+  "stipeHeightTo": 9.0,
+  "stipeThickFrom": 1.5,
+  "stipeThickTo": 4.0,
+  "label": {
+    "ar": "Cantharellus californicus",
+    "bg": "Cantharellus californicus",
+    "cs": "Cantharellus californicus",
+    "da": "Cantharellus californicus",
+    "de": "Cantharellus californicus",
+    "en": "California golden chanterelle",
+    "es": "Cantharellus californicus",
+    "et": "Cantharellus californicus",
+    "fa": "Cantharellus californicus",
+    "fi": "Cantharellus californicus",
+    "fr": "Cantharellus californicus",
+    "he": "Cantharellus californicus",
+    "hi": "Cantharellus californicus",
+    "hr": "Cantharellus californicus",
+    "hu": "Cantharellus californicus",
+    "id": "Cantharellus californicus",
+    "it": "Cantharellus californicus",
+    "ja": "Cantharellus californicus",
+    "ko": "Cantharellus californicus",
+    "lt": "Cantharellus californicus",
+    "lv": "Cantharellus californicus",
+    "nl": "Cantharellus californicus",
+    "no": "Cantharellus californicus",
+    "pl": "Cantharellus californicus",
+    "pt": "Cantharellus californicus",
+    "ro": "Cantharellus californicus",
+    "ru": "Cantharellus californicus",
+    "sk": "Cantharellus californicus",
+    "sl": "Cantharellus californicus",
+    "sr": "Cantharellus californicus",
+    "sv": "Cantharellus californicus",
+    "tr": "Cantharellus californicus",
+    "uk": "Cantharellus californicus",
+    "zh": "Cantharellus californicus"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [],
+    "en": [
+      "mud puppy",
+      "oak chanterelle"
+    ],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [],
+    "en": [
+      "https://doi.org/10.1007/s12231-008-9042-7",
+      "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240AB261",
+      "https://redlist.info/iucn/species_view/560546/",
+      "https://www.mykoweb.com/CAF/species/Cantharellus_californicus.html",
+      "https://www.mushroomexpert.com/cantharellus_californicus.html",
+      "https://bayareamushrooms.org/mushroommonth/chanterelle.html",
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=560546",
+      "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=560546",
+      "https://www.gbif.org/species/7865102",
+      "https://en.wikipedia.org/wiki/Cantharellus_californicus"
+    ],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "text": {
+    "ar": {
+      "description": "فطر كبير لحمي من جنس Cantharellus موطنه كاليفورنيا وشمال باها كاليفورنيا، ينمو منفردًا أو في مجموعات في طبقة الأوراق المتساقطة تحت أشجار البلوط دائمة الخضرة. يُعدّ أكبر أنواع جنس Cantharellus في العالم: إذ تزن الأجسام الثمرية الناضجة عادةً نصف كيلوغرام أو أكثر، والعينات التي يزيد وزنها على كيلوغرام واحد ليست نادرة.",
+      "cap": "عرضها ٨–٣٠ cm أو أكثر، محدبة عريضة في البداية، ثم متموجة أو مقعرة أو مزهرية الشكل أو غير منتظمة، وكثيرًا ما تحمل الكثير من التربة والأوراق الملتصقة. لونها أصفر برتقالي زاهٍ إلى باهت، وأحيانًا بمسحة مشمشية وردية شاحبة؛ وقد تميل القبعات الأكبر سنًا إلى البني أو تبهت في ضوء الشمس. ملساء في الطقس الرطب، دقيقة الألياف في صغرها وفي الطقس الجاف؛ وبعد لمسها مطولًا تظهر عليها بقع مغرة داكنة إلى بنية برتقالية.",
+      "hymenium": "طيات كليلة (خياشيم زائفة) نازلة بعمق على الساق، سمكها ١–٢ mm والمسافة بينها ٢–٤ mm، متفرعة ومتصلة ببعضها في الصغر؛ ومع التقدم في العمر تتعمق العروق المستعرضة حتى تبدو الطبقة الخصيبة في الغالب شبه مسامية. عادةً أفتح من القبعة لكنها مشوبة بلونها، وأحيانًا صفراء برتقالية زاهية أو وردية قليلًا. تبلغ أبعاد البازيديات ٨٠–٩٥ × ٦–٩ µm وتحمل ٤–٨ أبواغ؛ والوصلات الإبزيمية متفرقة وغير واضحة.",
+      "stipe": "طولها ٣–٩ cm وسمكها ١٫٥–٤ cm، مصمتة وقصيرة ممتلئة، عادةً متساوية أو مستدقة نحو القاعدة، وأحيانًا منتفخة قليلًا عند القاعدة. بلون القبعة أو أفتح، وغالبًا أغمق في المواضع التي لُمست. لا حلقة ولا كيس قاعدي.",
+      "flesh": "سميك وليفي، سميك جدًا في مركز القبعة لكنه نحو ٣ mm فقط قرب الحافة؛ أبيض باستثناء مسحة صفراء برتقالية تحت سطح القبعة مباشرة، ولا يتلون بوضوح عند القطع. الرائحة فاكهية خفيفة تذكّر باليقطين؛ والطعم معتدل عادةً، وإن كانت إحدى العينات المجموعة في ظروف شديدة الجفاف مُرّة جدًا.",
+      "sporePrint": "مصفرّة. الأبواغ ٧–١٢ × ٥–٨ µm، بمتوسط نحو ٩٫٣ × ٦٫٥ µm، شبه كروية إلى إهليلجية، ملساء، تحوي قطرات زيت كبيرة.",
+      "habitat": "يكوّن جذرًا فطريًا خارجيًا أساسًا مع Quercus agrifolia، وكذلك مع Quercus parvula var. shrevei وQuercus wislizeni وQuercus kelloggii وQuercus chrysolepis وNotholithocarpus densiflorus. ينمو على التربة في طبقة الأوراق المتساقطة في غابات البلوط والغابات المختلطة دائمة الخضرة، من شمال باها كاليفورنيا عبر كاليفورنيا الساحلية وفي سفوح سييرا نيفادا. يثمر أساسًا من نوفمبر إلى أبريل؛ وينضج كل جسم ثمري ببطء على مدى ثلاثة إلى ثمانية أسابيع أو أكثر.",
+      "uses": "فطر صالح للأكل ممتاز، يُجمع تجاريًا في كاليفورنيا منذ عقد ١٩٧٠ على الأقل؛ وكثيرًا ما يُباع بسعر أعلى من أنواع Cantharellus الأخرى لأنه يثمر في الشتاء والربيع، رغم أن بعض الطهاة يجدونه أكثر ليفية وأقل عطرًا. لا تأكل إلا العينات المعرّفة بيقين: فالفطر السام Omphalotus olivascens ينمو أيضًا في كاليفورنيا وقد يُخلط بينه وبين هذا النوع.",
+      "confusion": "للفطر السام Omphalotus olivascens خياشيم حقيقية رقيقة صفيحية، وألوان برتقالية بمسحات زيتونية، وساق غالبًا لامركزية، وينمو في عناقيد على الخشب أو عند قاعدة الأشجار عريضة الأوراق. أما Cantharellus formosus فهو عادةً أصغر وأنحف، بساق أطول وقبعة رمادية بنية ليفية في الطقس الجاف، وينمو مع الصنوبريات. ولـ Cantharellus roseocanus طبقة خصيبة أزهى وأكثر اصفرارًا، وينمو مع التنوب والصنوبر. ولـ Hygrophoropsis aurantiaca خياشيم حقيقية رقيقة برتقالية زاهية متفرعة. أما Turbinellus floccosus فبوقي الشكل بقبعة برتقالية حرشفية.",
+      "notes": "وصفه David Arora وSusie Dunham عام ٢٠٠٨ استنادًا إلى نمط شامل جُمع تحت Quercus agrifolia في مقاطعة مارين؛ وقبل ذلك كان يُسجَّل عادةً باسم Cantharellus cibarius. أقرب أقربائه Cantharellus formosus، ويختلف عنه أيضًا في الحمض النووي (DNA). ومنذ ١ يناير ٢٠٢٤ أصبح الفطر الرسمي لولاية كاليفورنيا بموجب القانون Assembly Bill ٢٦١ الموقّع في أكتوبر ٢٠٢٣. وتصنّفه القائمة الحمراء للاتحاد الدولي لحفظ الطبيعة IUCN (٢٠٢١) مبدئيًا ضمن فئة غير مهدد (Least Concern)، رغم أن فقدان الموائل، بما في ذلك الضرر الذي يلحقه مرض sudden oak death (Phytophthora ramorum) بـ Quercus agrifolia، يسبب على الأرجح تراجعًا في أعداده.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Голям, месест представител на рода Cantharellus от Калифорния и северната част на Долна Калифорния, който расте поединично или на групи в листната постилка под вечнозелени дъбове. Смята се за най-големия вид от рода Cantharellus в света: зрелите плодни тела обикновено тежат половин килограм или повече, а екземпляри над един килограм не са рядкост.",
+      "cap": "Широка 8–30 cm или повече, отначало широко изпъкнала, после вълнообразна, вдлъбната, вазовидна или неправилна, често с много полепнала пръст и листа. Ярко до матово жълтооранжева, понякога с бледа розовокайсиева отсянка; по-старите шапки може да покафенеят или да избледнеят на слънце. Гладка при влажно време, фино влакнеста като млада и при сухо време; след продължително докосване по нея се появяват тъмноохрени до оранжевокафяви петна.",
+      "hymenium": "Тъпи, дълбоко низбягващи гънки (лъжливи пластинки), дебели 1–2 mm и раздалечени на 2–4 mm, при младите плодни тела вилообразно разклонени и свързани помежду си; с възрастта напречните жилки се задълбочават, докато химениумът често изглежда почти порест. Обикновено по-бледи от шапката, но с оттенък от нейния цвят, понякога ярко жълтооранжеви или леко розови. Базидиите са 80–95 × 6–9 µm и носят по 4–8 спори; скобите са разпръснати и незабележими.",
+      "stipe": "Дълго 3–9 cm и дебело 1,5–4 cm, плътно и набито, обикновено еднакво дебело или стеснено към основата, понякога леко издуто при основата. С цвета на шапката или по-бледо, на докоснатите места често по-тъмно. Пръстен и волва липсват.",
+      "flesh": "Дебело и влакнесто, много дебело в центъра на шапката, но само около 3 mm близо до ръба; бяло, с изключение на жълтооранжев оттенък точно под повърхността на шапката, при разрязване не променя забележимо цвета си. Миризмата е слабо плодова, напомняща тиква; вкусът обикновено е мек, макар че една находка от много сухи условия беше силно горчива.",
+      "sporePrint": "Жълтеникав. Спори 7–12 × 5–8 µm, средно около 9,3 × 6,5 µm, почти кълбовидни до елипсоидни, гладки, с големи маслени капки.",
+      "habitat": "Образува ектомикориза предимно с Quercus agrifolia, а също и с Quercus parvula var. shrevei, Quercus wislizeni, Quercus kelloggii, Quercus chrysolepis и Notholithocarpus densiflorus. Расте на почвата в листната постилка на дъбови гори и вечнозелени смесени гори, от северната част на Долна Калифорния през крайбрежна Калифорния и в подножието на Сиера Невада. Плододава главно от ноември до април; отделните плодни тела узряват бавно, за три до осем седмици или повече.",
+      "uses": "Отлична ядлива гъба, събирана търговски в Калифорния поне от 1970-те години; често достига по-високи цени от другите видове от рода Cantharellus, защото плододава през зимата и пролетта, макар че някои готвачи я смятат за по-влакнеста и по-малко ароматна. Яжте само сигурно определени екземпляри: отровната Omphalotus olivascens също расте в Калифорния и може да бъде сбъркана с нея.",
+      "confusion": "Отровната Omphalotus olivascens има истински, тънки, плочести пластинки, оранжев цвят с маслинени тонове и често ексцентрично пънче и расте на туфи върху дърво или в основата на широколистни дървета. Cantharellus formosus обикновено е по-малък и по-строен, с по-дълго пънче и при сухо време със сивокафява влакнеста шапка, и расте с иглолистни дървета. Cantharellus roseocanus има по-ярък, по-жълт химениум и расте със смърч и бор. Hygrophoropsis aurantiaca има тънки, яркооранжеви, вилообразно разклонени истински пластинки. Turbinellus floccosus е тръбовиден, с люспеста оранжева шапка.",
+      "notes": "Описан е през 2008 г. от David Arora и Susie Dunham по холотип, събран под Quercus agrifolia в окръг Марин; преди това обикновено е бил отбелязван като Cantharellus cibarius. Най-близкият му роднина е Cantharellus formosus, от който се различава и по ДНК. От 1 януари 2024 г. е официалната гъба на щата Калифорния съгласно закона Assembly Bill 261, подписан през октомври 2023 г. Червеният списък на IUCN (2021) го оценява предварително като незастрашен (Least Concern), макар че загубата на местообитания, включително увреждането на Quercus agrifolia от болестта sudden oak death (Phytophthora ramorum), вероятно води до намаляване.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "cs": {
+      "description": "Velký, masitý zástupce rodu Cantharellus z Kalifornie a severní části Baja California, který roste jednotlivě nebo ve skupinách v listové opadance pod stálezelenými duby. Považuje se za největší druh rodu Cantharellus na světě: zralé plodnice běžně váží půl kilogramu i více a exempláře o hmotnosti přes jeden kilogram nejsou vzácné.",
+      "cap": "Široký 8–30 cm i více, zprvu široce klenutý, později zvlněný, prohloubený, vázovitý nebo nepravidelný, často s množstvím přilepené půdy a listí. Zářivě až matně žlutooranžový, někdy s bledým narůžověle meruňkovým nádechem; starší klobouky mohou hnědnout nebo na slunci vyblednout. Za vlhka hladký, v mládí a za sucha jemně vláknitý; po delší manipulaci se na něm tvoří tmavě okrové až oranžovohnědé skvrny.",
+      "hymenium": "Tupé, hluboko sbíhavé lišty (nepravé lupeny) tlusté 1–2 mm a vzdálené 2–4 mm, v mládí vidlicovitě větvené a propojené; s věkem se příčné žilky prohlubují, až hymenium často vypadá téměř pórovitě. Obvykle světlejší než klobouk, ale s nádechem jeho barvy, někdy zářivě žlutooranžové nebo slabě narůžovělé. Basidie měří 80–95 × 6–9 µm a nesou 4–8 výtrusů; přezky jsou roztroušené a nenápadné.",
+      "stipe": "Dlouhý 3–9 cm a tlustý 1,5–4 cm, plný a zavalitý, obvykle stejně tlustý nebo k bázi zúžený, někdy na bázi mírně ztlustlý. Barvy klobouku nebo světlejší, v místech doteku často tmavší. Prsten ani pochva nejsou.",
+      "flesh": "Silná a vláknitá, ve středu klobouku velmi silná, u okraje jen asi 3 mm; bílá, jen těsně pod povrchem klobouku se žlutooranžovým nádechem, po rozříznutí se znatelně nebarví. Vůně slabě ovocná, připomínající dýni; chuť obvykle mírná, i když jeden sběr z velmi suchých podmínek byl silně hořký.",
+      "sporePrint": "Nažloutlý. Výtrusy měří 7–12 × 5–8 µm, v průměru asi 9,3 × 6,5 µm, jsou téměř kulovité až elipsoidní, hladké, s velkými olejovými kapkami.",
+      "habitat": "Tvoří ektomykorhizu hlavně s dubem Quercus agrifolia, dále s Quercus parvula var. shrevei, Quercus wislizeni, Quercus kelloggii, Quercus chrysolepis a s druhem Notholithocarpus densiflorus. Roste na půdě v listové opadance v doubravách a smíšených stálezelených lesích, od severní části Baja California přes pobřežní Kalifornii a v podhůří pohoří Sierra Nevada. Plodí hlavně od listopadu do dubna; jednotlivé plodnice dozrávají pomalu, tři až osm týdnů i déle.",
+      "uses": "Výborná jedlá houba, v Kalifornii komerčně sbíraná nejméně od 1970. let; často dosahuje vyšších cen než jiné druhy rodu Cantharellus, protože plodí v zimě a na jaře, ačkoli někteří kuchaři ji považují za vláknitější a méně aromatickou. Jezte jen s jistotou určené plodnice: jedovatý Omphalotus olivascens roste rovněž v Kalifornii a lze jej s ní zaměnit.",
+      "confusion": "Jedovatý Omphalotus olivascens má pravé, tenké, destičkovité lupeny, oranžové zbarvení s olivovými tóny a často výstřední třeň a roste v trsech na dřevě nebo u báze listnatých stromů. Cantharellus formosus je obvykle menší a štíhlejší, s delším třeněm a za sucha s šedohnědým vláknitým kloboukem a roste u jehličnanů. Cantharellus roseocanus má zářivější, žlutější hymenium a roste u smrků a borovic. Hygrophoropsis aurantiaca má tenké, jasně oranžové, vidlicovitě větvené pravé lupeny. Turbinellus floccosus je trubkovitý se šupinatým oranžovým kloboukem.",
+      "notes": "Popsali jej v roce 2008 David Arora a Susie Dunham podle holotypu sebraného pod dubem Quercus agrifolia v okrese Marin; předtím se obvykle uváděl jako Cantharellus cibarius. Jeho nejbližším příbuzným je Cantharellus formosus, od něhož se liší i v DNA. Od 1. ledna 2024 je oficiální houbou státu Kalifornie podle zákona Assembly Bill 261 podepsaného v říjnu 2023. Červený seznam IUCN (2021) jej předběžně hodnotí jako málo dotčený (Least Concern), ačkoli ztráta stanovišť včetně poškození dubů Quercus agrifolia chorobou sudden oak death (Phytophthora ramorum) pravděpodobně způsobuje jeho úbytek.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "da": {
+      "description": "En stor, kødfuld art i slægten Cantharellus fra Californien og det nordlige Baja California, som vokser enkeltvis eller selskabeligt i løvførnen under stedsegrønne egetræer. Den regnes for den største Cantharellus-art i verden: modne frugtlegemer vejer ofte et halvt kilo eller mere, og eksemplarer på over et kilo er ikke sjældne.",
+      "cap": "8–30 cm eller mere bred, først bredt hvælvet, senere bølget, fordybet, vaseformet eller uregelmæssig, ofte med meget vedhængende jord og blade. Klart til mat gulorange, undertiden svagt lyst rosa-abrikosfarvet; ældre hatte kan blive brunere eller blegne i sollys. Glat i fugtigt vejr, fint trævlet som ung og i tørt vejr; efter længere tids håndtering opstår mørkt okkerfarvede til orangebrune pletter.",
+      "hymenium": "Butte, langt nedløbende lister (falske lameller), 1–2 mm tykke og 2–4 mm fra hinanden, gaffeldelte og forbundne hos unge frugtlegemer; med alderen bliver tværårerne dybere, indtil hymeniet ofte ser næsten poret ud. Som regel blegere end hatten men med et skær af dens farve, undertiden klart gulorange eller svagt rosa. Basidierne måler 80–95 × 6–9 µm og bærer 4–8 sporer; søljer er spredte og uanselige.",
+      "stipe": "3–9 cm lang og 1,5–4 cm tyk, massiv og kraftig, som regel lige tyk eller tilspidset mod basis, undertiden svagt opsvulmet ved basis. Farvet som hatten eller blegere, ofte mørkere hvor den er berørt. Ring og volva mangler.",
+      "flesh": "Tykt og trævlet, meget tykt i hattens midte men kun ca. 3 mm nær randen; hvidt bortset fra et gulorange skær lige under hattens overflade, misfarves ikke mærkbart ved snit. Lugten er svagt frugtagtig og minder om græskar; smagen er som regel mild, men en indsamling fra meget tørre forhold var stærkt bitter.",
+      "sporePrint": "Gullig. Sporer 7–12 × 5–8 µm, i gennemsnit ca. 9,3 × 6,5 µm, næsten kuglerunde til ellipsoide, glatte, med store oliedråber.",
+      "habitat": "Danner ektomykorrhiza især med Quercus agrifolia og desuden med Quercus parvula var. shrevei, Quercus wislizeni, Quercus kelloggii, Quercus chrysolepis og Notholithocarpus densiflorus. Vokser på jorden i løvførne i egeskove og stedsegrønne blandskove, fra det nordlige Baja California gennem kystnære dele af Californien og i Sierra Nevadas forbjerge. Frugtificerer hovedsagelig fra november til april; de enkelte frugtlegemer modner langsomt over tre til otte uger eller mere.",
+      "uses": "En fremragende spisesvamp, der er indsamlet kommercielt i Californien siden mindst 1970'erne; den opnår ofte højere priser end andre Cantharellus-arter, fordi den frugtificerer om vinteren og foråret, selv om nogle kokke finder den mere trævlet og mindre aromatisk. Spis kun eksemplarer, der er bestemt med sikkerhed: den giftige Omphalotus olivascens vokser også i Californien og kan forveksles med den.",
+      "confusion": "Den giftige Omphalotus olivascens har ægte, tynde, pladeformede lameller, orange farver med olivenfarvede toner og en ofte excentrisk stok og vokser i knipper på ved eller ved foden af løvtræer. Cantharellus formosus er som regel mindre og slankere, med længere stok og i tørt vejr en gråbrun trævlet hat, og vokser med nåletræer. Cantharellus roseocanus har et klarere, mere gult hymenium og vokser med gran og fyr. Hygrophoropsis aurantiaca har tynde, klart orange, gaffeldelte ægte lameller. Turbinellus floccosus er trompetformet med en skællet orange hat.",
+      "notes": "Beskrevet i 2008 af David Arora og Susie Dunham på grundlag af en holotype indsamlet under Quercus agrifolia i Marin County; før da blev den som regel registreret som Cantharellus cibarius. Dens nærmeste slægtning er Cantharellus formosus, som den også adskiller sig fra i DNA. Siden 1. januar 2024 har den været Californiens officielle statssvamp i henhold til loven Assembly Bill 261, der blev underskrevet i oktober 2023. IUCN's rødliste (2021) vurderer den foreløbigt som livskraftig (Least Concern), selv om tab af levesteder, herunder skader på Quercus agrifolia forårsaget af sygdommen sudden oak death (Phytophthora ramorum), sandsynligvis medfører en tilbagegang.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "de": {
+      "description": "Ein großer, fleischiger Vertreter der Gattung Cantharellus aus Kalifornien und dem nördlichen Baja California, der einzeln oder gesellig in der Laubstreu unter immergrünen Eichen wächst. Er gilt als die größte Cantharellus-Art der Welt: Reife Fruchtkörper wiegen häufig ein halbes Kilogramm oder mehr, und Exemplare von über einem Kilogramm sind nicht selten.",
+      "cap": "8–30 cm oder mehr breit, anfangs breit gewölbt, später wellig, vertieft, vasenförmig oder unregelmäßig, oft mit viel anhaftender Erde und Laub. Leuchtend bis matt gelborange, manchmal blass rosa-aprikosenfarben getönt; ältere Hüte können bräunen oder in der Sonne ausbleichen. Feucht glatt, jung und bei Trockenheit fein faserig; nach längerem Anfassen bilden sich dunkel ockerfarbene bis orangebraune Flecken.",
+      "hymenium": "Stumpfe, weit herablaufende Leisten (falsche Lamellen), 1–2 mm dick und 2–4 mm voneinander entfernt, jung gegabelt und verbunden; mit dem Alter vertiefen sich die Queradern, bis das Hymenium oft fast porig wirkt. Meist blasser als der Hut, aber in dessen Farbe getönt, manchmal leuchtend gelborange oder leicht rosa. Die Basidien messen 80–95 × 6–9 µm und tragen 4–8 Sporen; Schnallen sind zerstreut und unauffällig.",
+      "stipe": "3–9 cm lang und 1,5–4 cm dick, voll und gedrungen, meist gleich dick oder zur Basis verjüngt, manchmal an der Basis leicht verdickt. Wie der Hut gefärbt oder blasser, an berührten Stellen oft dunkler. Ring und Volva fehlen.",
+      "flesh": "Dick und faserig, in der Hutmitte sehr dick, am Rand nur etwa 3 mm; weiß, nur direkt unter der Huthaut gelborange getönt, beim Schneiden nicht merklich verfärbend. Geruch schwach fruchtig, an Kürbis erinnernd; Geschmack meist mild, eine Aufsammlung aus sehr trockenen Verhältnissen war jedoch stark bitter.",
+      "sporePrint": "Gelblich. Sporen 7–12 × 5–8 µm, im Mittel etwa 9,3 × 6,5 µm, fast kugelig bis ellipsoid, glatt, mit großen Öltropfen.",
+      "habitat": "Ektomykorrhizapilz, vor allem mit Quercus agrifolia, ferner mit Quercus parvula var. shrevei, Quercus wislizeni, Quercus kelloggii, Quercus chrysolepis und Notholithocarpus densiflorus. Wächst auf dem Boden in der Laubstreu von Eichenwäldern und immergrünen Mischwäldern, vom nördlichen Baja California über das küstennahe Kalifornien bis in die Vorberge der Sierra Nevada. Fruchtet hauptsächlich von November bis April; einzelne Fruchtkörper reifen langsam über drei bis acht Wochen oder länger.",
+      "uses": "Ein ausgezeichneter Speisepilz, der in Kalifornien mindestens seit den 1970er-Jahren gewerblich gesammelt wird; er erzielt oft höhere Preise als andere Cantharellus-Arten, weil er im Winter und Frühjahr fruchtet, obwohl manche Köche ihn faseriger und weniger aromatisch finden. Nur sicher bestimmte Fruchtkörper essen: Der giftige Omphalotus olivascens wächst ebenfalls in Kalifornien und kann mit ihm verwechselt werden.",
+      "confusion": "Der giftige Omphalotus olivascens hat echte, dünne, plattenförmige Lamellen, orange Farben mit olivfarbenen Tönen und einen oft exzentrischen Stiel und wächst büschelig auf Holz oder am Fuß von Laubbäumen. Cantharellus formosus ist meist kleiner und schlanker, hat einen längeren Stiel und bei Trockenheit einen graubraun faserigen Hut und wächst bei Nadelbäumen. Cantharellus roseocanus hat ein leuchtenderes, gelberes Hymenium und wächst bei Fichten und Kiefern. Hygrophoropsis aurantiaca hat dünne, leuchtend orange, gegabelte echte Lamellen. Turbinellus floccosus ist trompetenförmig mit einem schuppigen orangefarbenen Hut.",
+      "notes": "2008 von David Arora und Susie Dunham anhand eines unter Quercus agrifolia im Marin County gesammelten Holotypus beschrieben; zuvor wurde er meist als Cantharellus cibarius geführt. Sein nächster Verwandter ist Cantharellus formosus, von dem er sich auch in der DNA unterscheidet. Seit dem 1. Januar 2024 ist er der offizielle Staatspilz Kaliforniens, festgelegt durch das im Oktober 2023 unterzeichnete Gesetz Assembly Bill 261. Die Rote Liste der IUCN (2021) stuft ihn vorläufig als nicht gefährdet (Least Concern) ein, doch Lebensraumverlust, einschließlich der Schädigung von Quercus agrifolia durch die Krankheit sudden oak death (Phytophthora ramorum), verursacht wahrscheinlich einen Rückgang.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "en": {
+      "description": "A large, fleshy member of the genus Cantharellus from California and northern Baja California, growing singly or gregariously in leaf litter under live oaks. It is regarded as the largest Cantharellus species in the world: mature fruit bodies commonly weigh half a kilogram or more, and specimens of over one kilogram are not rare.",
+      "cap": "8–30 cm or more across, broadly convex at first, then wavy, concave, vase-shaped or irregular, often carrying much adhering soil and leaves. Bright to dull yellow-orange, sometimes tinged pale pinkish apricot; older caps may turn browner or bleach in sunlight. Smooth when wet, finely fibrillose when young and dry; after prolonged handling it develops dark ochre to orange-brown stains.",
+      "hymenium": "Blunt, deeply decurrent false gills (folds) 1–2 mm thick and 2–4 mm apart, forking and interconnected when young; with age the cross-veins deepen until the hymenium often looks almost poroid. Usually paler than the cap but tinged with its colour, sometimes bright yellow-orange or slightly pinkish. Basidia measure 80–95 × 6–9 µm and bear 4–8 spores; clamp connections are scattered and inconspicuous.",
+      "stipe": "3–9 cm long and 1.5–4 cm thick, solid and stout, usually equal or tapering towards the base, sometimes slightly swollen at the base. Coloured like the cap or paler, often darker where handled. There is no ring or volva.",
+      "flesh": "Thick and fibrous, very thick at the centre of the cap but only about 3 mm near the margin; white except for a yellow-orange tinge just beneath the cap surface, not staining appreciably when cut. The odour is faintly fruity, reminiscent of pumpkin; the taste is usually mild, though one collection from very dry conditions was strongly bitter.",
+      "sporePrint": "Yellowish. Spores 7–12 × 5–8 µm, on average about 9.3 × 6.5 µm, subglobose to ellipsoid, smooth, with large oil droplets.",
+      "habitat": "Ectomycorrhizal, mainly with coast live oak (Quercus agrifolia), and also with Quercus parvula var. shrevei, Quercus wislizeni, Quercus kelloggii, Quercus chrysolepis and tanoak (Notholithocarpus densiflorus). It grows on soil in leaf litter in oak woodlands and mixed evergreen forests, from northern Baja California through coastal California and in the Sierra Nevada foothills. Fruits mainly from November to April; individual fruit bodies mature slowly over three to eight weeks or more.",
+      "uses": "A choice edible, commercially harvested in California since at least the 1970s; it often fetches higher prices than other Cantharellus species because it fruits in winter and spring, although some chefs find it more fibrous and less fragrant. Eat only specimens identified with certainty: the poisonous Omphalotus olivascens also grows in California and can be mistaken for it.",
+      "confusion": "The poisonous Omphalotus olivascens has true, thin, plate-like gills, orange colours with olive tones and an often off-centre stipe, and grows in clusters on wood or at the base of hardwoods. Cantharellus formosus is usually smaller and slimmer, with a longer stipe and a greyish-brown fibrillose cap in dry weather, and grows with conifers. Cantharellus roseocanus has a brighter, yellower hymenium and grows with spruce and pine. Hygrophoropsis aurantiaca has thin, bright orange, forked true gills. Turbinellus floccosus is trumpet-shaped with a scaly orange cap.",
+      "notes": "Described in 2008 by David Arora and Susie Dunham from a holotype collected under Quercus agrifolia in Marin County; before that it was usually recorded as Cantharellus cibarius. Its nearest relative is Cantharellus formosus, from which it also differs in DNA. Since 1 January 2024 it has been the official state mushroom of California, under Assembly Bill 261 signed in October 2023. The IUCN Red List (2021) tentatively assesses it as Least Concern, although habitat loss, including damage to Quercus agrifolia from sudden oak death (Phytophthora ramorum), is probably causing a decline.",
+      "names": [
+        "mud puppy",
+        "oak chanterelle"
+      ],
+      "sourceUrls": [
+        "https://doi.org/10.1007/s12231-008-9042-7",
+        "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240AB261",
+        "https://redlist.info/iucn/species_view/560546/",
+        "https://www.mykoweb.com/CAF/species/Cantharellus_californicus.html",
+        "https://www.mushroomexpert.com/cantharellus_californicus.html",
+        "https://bayareamushrooms.org/mushroommonth/chanterelle.html",
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=560546",
+        "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=560546",
+        "https://www.gbif.org/species/7865102",
+        "https://en.wikipedia.org/wiki/Cantharellus_californicus"
+      ],
+      "label": "California golden chanterelle"
+    },
+    "es": {
+      "description": "Un miembro grande y carnoso del género Cantharellus de California y el norte de Baja California, que crece solitario o gregario en la hojarasca bajo encinos de hoja perenne. Se considera la especie de Cantharellus más grande del mundo: los cuerpos fructíferos maduros suelen pesar medio kilogramo o más, y los ejemplares de más de un kilogramo no son raros.",
+      "cap": "De 8–30 cm o más de diámetro, al principio ampliamente convexo, después ondulado, cóncavo, en forma de jarrón o irregular, a menudo con mucha tierra y hojas adheridas. De amarillo anaranjado vivo a apagado, a veces con un tono albaricoque rosado pálido; los sombreros viejos pueden pardear o decolorarse al sol. Liso cuando está húmedo, finamente fibriloso de joven y con tiempo seco; tras una manipulación prolongada desarrolla manchas ocre oscuro a pardo anaranjado.",
+      "hymenium": "Falsas láminas (pliegues) obtusas, muy decurrentes, de 1–2 mm de grosor y separadas 2–4 mm, bifurcadas e interconectadas en los ejemplares jóvenes; con la edad las venas transversales se profundizan hasta que el himenio suele parecer casi poroide. Normalmente más pálidas que el sombrero pero teñidas de su color, a veces amarillo anaranjado vivo o ligeramente rosadas. Los basidios miden 80–95 × 6–9 µm y llevan 4–8 esporas; las fíbulas son dispersas y poco visibles.",
+      "stipe": "De 3–9 cm de largo y 1,5–4 cm de grosor, macizo y robusto, generalmente cilíndrico o adelgazado hacia la base, a veces ligeramente engrosado en la base. Del color del sombrero o más pálido, a menudo más oscuro donde se ha manipulado. No tiene anillo ni volva.",
+      "flesh": "Gruesa y fibrosa, muy gruesa en el centro del sombrero pero de solo unos 3 mm cerca del margen; blanca salvo un tono amarillo anaranjado justo bajo la superficie del sombrero, sin mancharse apreciablemente al cortarla. Olor débilmente afrutado, que recuerda a la calabaza; sabor normalmente suave, aunque una recolección de condiciones muy secas resultó intensamente amarga.",
+      "sporePrint": "Amarillenta. Esporas de 7–12 × 5–8 µm, en promedio unas 9,3 × 6,5 µm, subglobosas a elipsoides, lisas, con grandes gotas de aceite.",
+      "habitat": "Ectomicorrícico, principalmente con Quercus agrifolia, y también con Quercus parvula var. shrevei, Quercus wislizeni, Quercus kelloggii, Quercus chrysolepis y Notholithocarpus densiflorus. Crece en el suelo, en la hojarasca de encinares y bosques mixtos perennifolios, desde el norte de Baja California por la California costera y en las estribaciones de Sierra Nevada. Fructifica sobre todo de noviembre a abril; cada cuerpo fructífero madura lentamente, a lo largo de tres a ocho semanas o más.",
+      "uses": "Un comestible excelente, recolectado comercialmente en California al menos desde la década de 1970; a menudo alcanza precios más altos que otras especies de Cantharellus porque fructifica en invierno y primavera, aunque algunos cocineros lo consideran más fibroso y menos aromático. Consuma solo ejemplares identificados con certeza: el venenoso Omphalotus olivascens también crece en California y puede confundirse con él.",
+      "confusion": "El venenoso Omphalotus olivascens tiene láminas verdaderas, finas y laminares, colores anaranjados con tonos oliváceos y un pie a menudo excéntrico, y crece en grupos sobre madera o en la base de árboles de hoja ancha. Cantharellus formosus suele ser más pequeño y esbelto, con un pie más largo y un sombrero fibriloso pardo grisáceo con tiempo seco, y crece con coníferas. Cantharellus roseocanus tiene un himenio más vivo y amarillo y crece con píceas y pinos. Hygrophoropsis aurantiaca tiene láminas verdaderas finas, de color naranja vivo y bifurcadas. Turbinellus floccosus tiene forma de trompeta y un sombrero anaranjado escamoso.",
+      "notes": "Descrito en 2008 por David Arora y Susie Dunham a partir de un holotipo recolectado bajo Quercus agrifolia en el condado de Marin; antes solía registrarse como Cantharellus cibarius. Su pariente más cercano es Cantharellus formosus, del que también se diferencia en el ADN. Desde el 1 de enero de 2024 es la seta oficial del estado de California, en virtud de la ley Assembly Bill 261 firmada en octubre de 2023. La Lista Roja de la UICN (2021) lo evalúa provisionalmente como de preocupación menor (Least Concern), aunque la pérdida de hábitat, incluido el daño a Quercus agrifolia por la enfermedad sudden oak death (Phytophthora ramorum), probablemente está causando un declive.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Suur ja lihakas perekonna Cantharellus liik Californiast ja Baja California põhjaosast, mis kasvab üksikult või rühmiti lehevarises igihaljaste tammede all. Seda peetakse maailma suurimaks Cantharellus’e liigiks: valminud viljakehad kaaluvad sageli pool kilogrammi või rohkem ning üle kilogrammi kaaluvad isendid pole haruldased.",
+      "cap": "Läbimõõt 8–30 cm või rohkem, algul laialt kumer, hiljem laineline, nõgus, vaasikujuline või ebakorrapärane, sageli rohke külgekleepunud mulla ja lehtedega. Erk- kuni tuhmkollakasoranž, vahel kahvatu roosaka aprikoositooniga; vanemad kübarad võivad pruunistuda või päikese käes pleekida. Niiskena sile, noorena ja kuiva ilmaga peenekiuline; pärast pikaajalist käsitsemist tekivad tumeookrad kuni oranžikaspruunid laigud.",
+      "hymenium": "Tömbid, kaugele jalale laskuvad voldid (näiv-eoslehekesed), 1–2 mm paksused ja 2–4 mm vahedega, noorena harunevad ja omavahel ühendatud; vanusega süvenevad põikisooned, kuni eoskiht näib sageli peaaegu poorjas. Tavaliselt kübarast heledamad, kuid selle värvitooniga, vahel erkkollakasoranžid või kergelt roosakad. Basiidid on 80–95 × 6–9 µm ja kannavad 4–8 eost; pandlad on hajusad ja vähemärgatavad.",
+      "stipe": "Pikkus 3–9 cm ja jämedus 1,5–4 cm, täidisega ja jässakas, tavaliselt ühtlaselt jäme või aluse poole ahenev, vahel alusel kergelt paksenenud. Kübara värvi või heledam, puudutatud kohtades sageli tumedam. Rõngast ega tuppe pole.",
+      "flesh": "Paks ja kiuline, kübara keskel väga paks, kuid serva lähedal ainult umbes 3 mm; valge, välja arvatud kollakasoranž toon vahetult kübara pinna all, lõikamisel märgatavalt ei värvu. Lõhn nõrgalt puuviljane, meenutab kõrvitsat; maitse tavaliselt mahe, kuigi üks väga kuivades tingimustes kogutud leid oli tugevalt mõru.",
+      "sporePrint": "Kollakas. Eosed 7–12 × 5–8 µm, keskmiselt umbes 9,3 × 6,5 µm, peaaegu kerajad kuni ellipsoidsed, siledad, suurte õlitilkadega.",
+      "habitat": "Moodustab ektomükoriisat peamiselt liigiga Quercus agrifolia, samuti liikidega Quercus parvula var. shrevei, Quercus wislizeni, Quercus kelloggii, Quercus chrysolepis ja Notholithocarpus densiflorus. Kasvab maapinnal lehevarises tammikutes ja igihaljastes segametsades, Baja California põhjaosast läbi California rannikupiirkondade ning Sierra Nevada jalamil. Viljub peamiselt novembrist aprillini; üksikud viljakehad valmivad aeglaselt kolme kuni kaheksa nädala või kauema jooksul.",
+      "uses": "Suurepärane söögiseen, mida on Californias kaubanduslikult korjatud vähemalt 1970. aastatest; selle hind on sageli kõrgem kui teistel Cantharellus’e liikidel, sest see viljub talvel ja kevadel, kuigi mõned kokad peavad seda kiulisemaks ja vähem aromaatseks. Sööge ainult kindlalt määratud isendeid: mürgine Omphalotus olivascens kasvab samuti Californias ja seda võib sellega segi ajada.",
+      "confusion": "Mürgisel liigil Omphalotus olivascens on päris, õhukesed, plaaditaolised eoslehekesed, oliivitoonidega oranž värvus ja sageli ekstsentriline jalg ning see kasvab kogumikena puidul või lehtpuude tüve aluses. Cantharellus formosus on tavaliselt väiksem ja saledam, pikema jalaga ning kuiva ilmaga hallikaspruuni kiulise kübaraga ja kasvab okaspuude juures. Liigil Cantharellus roseocanus on erksam, kollasem eoskiht ning see kasvab kuuskede ja mändide juures. Liigil Hygrophoropsis aurantiaca on õhukesed, erkoranžid, harunevad päris eoslehekesed. Turbinellus floccosus on trompetikujuline ja soomuselise oranži kübaraga.",
+      "notes": "Kirjeldasid 2008. aastal David Arora ja Susie Dunham Marini maakonnas liigi Quercus agrifolia alt kogutud holotüübi põhjal; varem registreeriti seda tavaliselt nimega Cantharellus cibarius. Selle lähim sugulane on Cantharellus formosus, millest see erineb ka DNA poolest. Alates 1. jaanuarist 2024 on see California ametlik osariigiseen oktoobris 2023 allkirjastatud seaduse Assembly Bill 261 alusel. IUCN-i punane nimestik (2021) hindab seda esialgu soodsas seisundis olevaks (Least Concern), kuigi elupaikade kadu, sealhulgas haiguse sudden oak death (Phytophthora ramorum) põhjustatud kahjustused liigile Quercus agrifolia, põhjustab tõenäoliselt arvukuse vähenemist.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fa": {
+      "description": "عضوی بزرگ و گوشتی از سردهٔ Cantharellus از کالیفرنیا و شمال باها کالیفرنیا که به‌تنهایی یا گروهی در لایهٔ برگ‌های ریخته زیر بلوط‌های همیشه‌سبز می‌روید. آن را بزرگ‌ترین گونهٔ Cantharellus در جهان می‌دانند: اندام‌های بارده بالغ معمولاً نیم کیلوگرم یا بیشتر وزن دارند و نمونه‌های بیش از یک کیلوگرم کمیاب نیستند.",
+      "cap": "پهنای ۸–۳۰ cm یا بیشتر، در آغاز پهن و کوژ، سپس موج‌دار، فرورفته، گلدانی‌شکل یا نامنظم، اغلب با مقدار زیادی خاک و برگ چسبیده. زرد نارنجی روشن تا مات، گاه با تهرنگ زردآلویی صورتی کم‌رنگ؛ کلاهک‌های مسن‌تر ممکن است قهوه‌ای‌تر شوند یا در آفتاب رنگ ببازند. در هوای مرطوب صاف، در جوانی و در هوای خشک با رشته‌های ریز؛ پس از دست‌زدن طولانی لکه‌های اُخرایی تیره تا قهوه‌ای نارنجی روی آن پدید می‌آید.",
+      "hymenium": "چین‌های کُند (تیغه‌های کاذب) که عمیقاً روی پایه پایین می‌روند، با ضخامت ۱–۲ mm و فاصلهٔ ۲–۴ mm، در جوانی دوشاخه و به هم پیوسته؛ با افزایش سن رگه‌های عرضی عمیق‌تر می‌شوند تا جایی که لایهٔ بارور اغلب تقریباً منفذدار به نظر می‌رسد. معمولاً کم‌رنگ‌تر از کلاهک اما با تهرنگ آن، گاه زرد نارنجی روشن یا اندکی صورتی. بازیدیوم‌ها ۸۰–۹۵ × ۶–۹ µm هستند و ۴–۸ هاگ دارند؛ اتصال‌های سگکی پراکنده و نامشخص‌اند.",
+      "stipe": "به طول ۳–۹ cm و ضخامت ۱٫۵–۴ cm، توپر و کوتاه و ستبر، معمولاً یکنواخت یا به سوی قاعده باریک‌شونده، گاه در قاعده اندکی متورم. هم‌رنگ کلاهک یا کم‌رنگ‌تر، و در جاهای لمس‌شده اغلب تیره‌تر. حلقه و ولوا ندارد.",
+      "flesh": "ضخیم و رشته‌ای، در مرکز کلاهک بسیار ضخیم اما نزدیک لبه تنها حدود ۳ mm؛ سفید به‌جز تهرنگی زرد نارنجی درست زیر سطح کلاهک، و در برش به‌طور محسوسی تغییر رنگ نمی‌دهد. بو اندکی میوه‌ای و یادآور کدو حلوایی؛ مزه معمولاً ملایم، هرچند یک نمونهٔ گردآوری‌شده در شرایط بسیار خشک به‌شدت تلخ بود.",
+      "sporePrint": "زردفام. هاگ‌ها ۷–۱۲ × ۵–۸ µm، به‌طور میانگین حدود ۹٫۳ × ۶٫۵ µm، تقریباً کروی تا بیضوی، صاف، با قطره‌های بزرگ روغن.",
+      "habitat": "عمدتاً با Quercus agrifolia و همچنین با Quercus parvula var. shrevei، Quercus wislizeni، Quercus kelloggii، Quercus chrysolepis و Notholithocarpus densiflorus قارچ‌ریشهٔ بیرونی تشکیل می‌دهد. روی خاک در لایهٔ برگ‌های ریختهٔ جنگل‌های بلوط و جنگل‌های آمیختهٔ همیشه‌سبز می‌روید، از شمال باها کالیفرنیا تا کالیفرنیای ساحلی و در دامنه‌های سیرا نوادا. عمدتاً از نوامبر تا آوریل بار می‌دهد؛ هر اندام بارده به‌کندی، در طی سه تا هشت هفته یا بیشتر، بالغ می‌شود.",
+      "uses": "قارچ خوراکی بسیار عالی که دست‌کم از دههٔ ۱۹۷۰ در کالیفرنیا به‌صورت تجاری برداشت می‌شود؛ چون در زمستان و بهار بار می‌دهد اغلب گران‌تر از دیگر گونه‌های Cantharellus فروخته می‌شود، هرچند برخی آشپزها آن را رشته‌ای‌تر و کم‌عطرتر می‌دانند. تنها نمونه‌هایی را بخورید که با اطمینان شناسایی شده‌اند: Omphalotus olivascens سمی نیز در کالیفرنیا می‌روید و ممکن است با آن اشتباه گرفته شود.",
+      "confusion": "Omphalotus olivascens سمی تیغه‌های حقیقی، نازک و صفحه‌مانند، رنگ نارنجی با ته‌مایه‌های زیتونی و پایه‌ای اغلب نامرکزی دارد و به‌صورت دسته‌ای روی چوب یا پای درختان پهن‌برگ می‌روید. Cantharellus formosus معمولاً کوچک‌تر و باریک‌تر است، پایه‌ای بلندتر و در هوای خشک کلاهکی خاکستری قهوه‌ای و رشته‌ای دارد و همراه سوزنی‌برگان می‌روید. Cantharellus roseocanus لایهٔ بارور روشن‌تر و زردتری دارد و همراه نوئل و کاج می‌روید. Hygrophoropsis aurantiaca تیغه‌های حقیقی نازک، نارنجی روشن و دوشاخه دارد. Turbinellus floccosus شیپوری‌شکل است و کلاهکی نارنجی و فلس‌دار دارد.",
+      "notes": "در سال ۲۰۰۸ David Arora و Susie Dunham آن را بر پایهٔ نمونهٔ اصلی (هولوتیپ) گردآوری‌شده زیر Quercus agrifolia در شهرستان مارین توصیف کردند؛ پیش از آن معمولاً با نام Cantharellus cibarius ثبت می‌شد. نزدیک‌ترین خویشاوند آن Cantharellus formosus است که در DNA نیز با آن تفاوت دارد. از ۱ ژانویهٔ ۲۰۲۴ به موجب قانون Assembly Bill ۲۶۱ که در اکتبر ۲۰۲۳ امضا شد، قارچ رسمی ایالت کالیفرنیا است. فهرست سرخ IUCN (۲۰۲۱) آن را به‌طور موقت در ردهٔ کمترین نگرانی (Least Concern) ارزیابی می‌کند، هرچند از دست رفتن زیستگاه، از جمله آسیب بیماری sudden oak death (Phytophthora ramorum) به Quercus agrifolia، احتمالاً موجب کاهش آن می‌شود.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Suuri, lihaisa Cantharellus-suvun laji Kaliforniasta ja Baja Californian pohjoisosasta; se kasvaa yksittäin tai ryhminä lehtikarikkeessa ikivihreiden tammien alla. Sitä pidetään maailman suurimpana Cantharellus-lajina: täysikasvuiset itiöemät painavat usein puoli kiloa tai enemmän, eivätkä yli kilon painoiset yksilöt ole harvinaisia.",
+      "cap": "Leveys 8–30 cm tai enemmän; aluksi leveän kupera, myöhemmin aaltoileva, kovera, maljakkomainen tai epäsäännöllinen, usein runsaan tarttuneen maan ja lehtien peittämä. Kirkkaan tai himmeän keltaoranssi, joskus vaalean punertavan aprikoosinsävyinen; vanhemmat lakit voivat ruskettua tai haalistua auringossa. Kosteana sileä, nuorena ja kuivalla säällä hienosti säikeinen; pitkän käsittelyn jälkeen siihen muodostuu tumman okranruskeita tai oranssinruskeita laikkuja.",
+      "hymenium": "Tylpät, pitkälle jalkaan laskeutuvat harjanteet (valeheltat), paksuus 1–2 mm ja väli 2–4 mm, nuorena haarautuvia ja toisiinsa yhdistyneitä; iän myötä poikittaissuonet syvenevät, kunnes itiöemän alapinta näyttää usein lähes huokoiselta. Yleensä lakkia vaaleammat mutta sen värin sävyttämät, joskus kirkkaan keltaoranssit tai hieman punertavat. Kantasolut ovat 80–95 × 6–9 µm ja kantavat 4–8 itiötä; soljet ovat hajanaisia ja huomaamattomia.",
+      "stipe": "Pituus 3–9 cm ja paksuus 1,5–4 cm, täyteläinen ja tanakka, yleensä tasapaksu tai tyveä kohti kapeneva, joskus tyvestä hieman paksuuntunut. Lakin värinen tai vaaleampi, kosketetuista kohdista usein tummempi. Rengasta ja tuppea ei ole.",
+      "flesh": "Paksu ja säikeinen, lakin keskellä hyvin paksu mutta reunan lähellä vain noin 3 mm; valkoinen lukuun ottamatta keltaoranssia sävyä aivan lakin pinnan alla, ei värjäydy leikattaessa merkittävästi. Haju heikon hedelmäinen, kurpitsaa muistuttava; maku yleensä mieto, vaikka eräs hyvin kuivista oloista kerätty näyte oli voimakkaan karvas.",
+      "sporePrint": "Kellertävä. Itiöt 7–12 × 5–8 µm, keskimäärin noin 9,3 × 6,5 µm, lähes pallomaisia tai ellipsoidisia, sileitä, suurine öljypisaroineen.",
+      "habitat": "Muodostaa ektomykorritsan pääasiassa Quercus agrifolia -tammen kanssa sekä lisäksi lajien Quercus parvula var. shrevei, Quercus wislizeni, Quercus kelloggii, Quercus chrysolepis ja Notholithocarpus densiflorus kanssa. Kasvaa maassa lehtikarikkeessa tammimetsissä ja ikivihreissä sekametsissä Baja Californian pohjoisosasta Kalifornian rannikkoalueiden kautta sekä Sierra Nevadan juurella. Itiöemiä muodostuu pääasiassa marraskuusta huhtikuuhun; yksittäiset itiöemät kypsyvät hitaasti kolmen–kahdeksan viikon aikana tai pidempään.",
+      "uses": "Erinomainen ruokasieni, jota on kerätty Kaliforniassa kaupallisesti ainakin 1970-luvulta lähtien; siitä maksetaan usein enemmän kuin muista Cantharellus-lajeista, koska se tekee itiöemiä talvella ja keväällä, vaikka jotkut kokit pitävät sitä säikeisempänä ja vähemmän aromaattisena. Syö vain varmasti tunnistettuja yksilöitä: myrkyllinen Omphalotus olivascens kasvaa myös Kaliforniassa, ja sen voi sekoittaa tähän lajiin.",
+      "confusion": "Myrkyllisellä Omphalotus olivascens -lajilla on aidot, ohuet, levymäiset heltat, oransseja värejä oliivinsävyin ja usein epäkeskinen jalka, ja se kasvaa kimppuina puulla tai lehtipuiden tyvellä. Cantharellus formosus on yleensä pienempi ja solakampi, sillä on pidempi jalka ja kuivalla säällä harmaanruskea, säikeinen lakki, ja se kasvaa havupuiden seurassa. Cantharellus roseocanus -lajilla on kirkkaampi, keltaisempi itiöemän alapinta, ja se kasvaa kuusten ja mäntyjen seurassa. Hygrophoropsis aurantiaca -lajilla on ohuet, kirkkaan oranssit, haarautuvat aidot heltat. Turbinellus floccosus on torvimainen, ja sen lakki on oranssi ja suomuinen.",
+      "notes": "David Arora ja Susie Dunham kuvasivat lajin vuonna 2008 Marin Countyssa Quercus agrifolia -tammen alta kerätyn holotyypin perusteella; sitä ennen se kirjattiin yleensä nimellä Cantharellus cibarius. Sen lähin sukulainen on Cantharellus formosus, josta se eroaa myös DNA:ltaan. Se on ollut 1. tammikuuta 2024 alkaen Kalifornian virallinen osavaltiosieni lokakuussa 2023 allekirjoitetun lain Assembly Bill 261 nojalla. IUCN:n punainen kirja (2021) arvioi sen alustavasti elinvoimaiseksi (Least Concern), vaikka elinympäristöjen häviäminen, mukaan lukien sudden oak death -taudin (Phytophthora ramorum) aiheuttamat vauriot Quercus agrifolia -tammille, todennäköisesti aiheuttaa taantumista.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fr": {
+      "description": "Un grand membre charnu du genre Cantharellus, originaire de Californie et du nord de la Basse-Californie, qui pousse isolément ou en groupes dans la litière de feuilles sous les chênes à feuillage persistant. Il est considéré comme la plus grande espèce de Cantharellus au monde : les fructifications mûres pèsent couramment un demi-kilogramme ou plus, et les spécimens de plus d’un kilogramme ne sont pas rares.",
+      "cap": "Large de 8–30 cm ou plus, d’abord largement convexe, puis ondulé, concave, en forme de vase ou irrégulier, souvent couvert de beaucoup de terre et de feuilles adhérentes. Jaune orangé vif à terne, parfois teinté d’abricot rosâtre pâle ; les chapeaux âgés peuvent brunir ou pâlir au soleil. Lisse par temps humide, finement fibrilleux jeune et par temps sec ; après une manipulation prolongée, il se tache d’ocre foncé à brun orangé.",
+      "hymenium": "Fausses lames (plis) obtuses, longuement décurrentes, épaisses de 1–2 mm et espacées de 2–4 mm, fourchues et reliées entre elles chez les jeunes ; avec l’âge, les veines transversales s’approfondissent jusqu’à donner souvent à l’hyménium un aspect presque poré. Généralement plus pâles que le chapeau mais teintées de sa couleur, parfois jaune orangé vif ou légèrement rosâtres. Les basides mesurent 80–95 × 6–9 µm et portent 4–8 spores ; les boucles sont éparses et discrètes.",
+      "stipe": "Long de 3–9 cm et épais de 1,5–4 cm, plein et trapu, généralement égal ou atténué vers la base, parfois légèrement renflé à la base. De la couleur du chapeau ou plus pâle, souvent plus foncé là où il a été manipulé. Ni anneau ni volve.",
+      "flesh": "Épaisse et fibreuse, très épaisse au centre du chapeau mais d’environ 3 mm seulement près de la marge ; blanche sauf une teinte jaune orangé juste sous la surface du chapeau, ne se tachant pas sensiblement à la coupe. Odeur faiblement fruitée, rappelant la citrouille ; saveur généralement douce, bien qu’une récolte faite par temps très sec ait été fortement amère.",
+      "sporePrint": "Jaunâtre. Spores 7–12 × 5–8 µm, en moyenne environ 9,3 × 6,5 µm, subglobuleuses à ellipsoïdes, lisses, à grosses gouttelettes lipidiques.",
+      "habitat": "Ectomycorhizien, principalement avec Quercus agrifolia, ainsi qu’avec Quercus parvula var. shrevei, Quercus wislizeni, Quercus kelloggii, Quercus chrysolepis et Notholithocarpus densiflorus. Il pousse sur le sol, dans la litière de feuilles des chênaies et des forêts mixtes sempervirentes, du nord de la Basse-Californie à la Californie côtière et dans les contreforts de la Sierra Nevada. Fructifie surtout de novembre à avril ; chaque fructification mûrit lentement, en trois à huit semaines ou plus.",
+      "uses": "Excellent comestible, récolté commercialement en Californie depuis au moins les années 1970 ; il se vend souvent plus cher que les autres espèces de Cantharellus parce qu’il fructifie en hiver et au printemps, bien que certains chefs le trouvent plus fibreux et moins parfumé. Ne consommez que des spécimens identifiés avec certitude : l’Omphalotus olivascens, toxique, pousse aussi en Californie et peut être confondu avec lui.",
+      "confusion": "L’Omphalotus olivascens, toxique, a de vraies lames minces en forme de lamelles, des couleurs orangées à reflets olive et un pied souvent excentré, et pousse en touffes sur le bois ou au pied des feuillus. Cantharellus formosus est généralement plus petit et plus élancé, avec un pied plus long et un chapeau fibrilleux gris-brun par temps sec, et pousse avec les conifères. Cantharellus roseocanus a un hyménium plus vif et plus jaune et pousse avec les épicéas et les pins. Hygrophoropsis aurantiaca a de vraies lames minces, orange vif et fourchues. Turbinellus floccosus est en forme de trompette avec un chapeau orangé squameux.",
+      "notes": "Décrit en 2008 par David Arora et Susie Dunham à partir d’un holotype récolté sous Quercus agrifolia dans le comté de Marin ; auparavant, il était généralement signalé comme Cantharellus cibarius. Son plus proche parent est Cantharellus formosus, dont il diffère aussi par l’ADN. Depuis le 1er janvier 2024, c’est le champignon officiel de l’État de Californie, en vertu de la loi Assembly Bill 261 signée en octobre 2023. La Liste rouge de l’UICN (2021) le classe provisoirement en préoccupation mineure (Least Concern), bien que la perte d’habitat, notamment les dégâts causés à Quercus agrifolia par la maladie sudden oak death (Phytophthora ramorum), provoque probablement un déclin.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "he": {
+      "description": "מין גדול ובשרני מהסוג Cantharellus מקליפורניה ומצפון באחה קליפורניה, הגדל ביחידים או בקבוצות בשכבת העלים המתים מתחת לאלונים ירוקי־עד. הוא נחשב למין הגדול ביותר בסוג Cantharellus בעולם: גופי פרי בוגרים שוקלים בדרך כלל חצי קילוגרם ויותר, ופרטים השוקלים יותר מקילוגרם אחד אינם נדירים.",
+      "cap": "רוחב 8–30 cm ויותר, בתחילה קמור ורחב, אחר כך גלי, שקוע, דמוי אגרטל או לא סדיר, ולעיתים קרובות נושא הרבה אדמה ועלים דבוקים. צהוב־כתום בוהק עד עמום, לפעמים בגוון משמשי ורדרד חיוור; כובעים ותיקים עשויים להשחים או לדהות בשמש. חלק במזג אוויר לח, סיבי דק בצעירותו ובמזג אוויר יבש; לאחר מגע ממושך מופיעים עליו כתמים אוכריים כהים עד חומים־כתומים.",
+      "hymenium": "רכסים קהים (זימים מדומים) היורדים עמוק על הרגל, בעובי 1–2 mm ובמרווח של 2–4 mm, מתפצלים ומחוברים זה לזה בצעירותם; עם הגיל מעמיקים העורקים הרוחביים עד שההימניום נראה לעיתים קרובות כמעט נקבובי. בדרך כלל בהירים מהכובע אך בגוון צבעו, לפעמים צהובים־כתומים בוהקים או ורדרדים מעט. הבזידיות במידות 80–95 × 6–9 µm ונושאות 4–8 נבגים; מחברי האבזם מפוזרים ואינם בולטים.",
+      "stipe": "אורך 3–9 cm ועובי 1.5–4 cm, מלאה וגוצה, בדרך כלל אחידה או מצרה לעבר הבסיס, לפעמים מעט תפוחה בבסיס. בצבע הכובע או בהירה ממנו, ולעיתים קרובות כהה יותר במקומות שנגעו בהם. אין טבעת ואין נדן.",
+      "flesh": "עבה וסיבית, עבה מאוד במרכז הכובע אך רק כ־3 mm ליד השוליים; לבנה, למעט גוון צהוב־כתום ממש מתחת לפני הכובע, ואינה משנה את צבעה באופן ניכר בחיתוך. הריח פירותי קלוש ומזכיר דלעת; הטעם בדרך כלל עדין, אם כי איסוף אחד מתנאים יבשים מאוד היה מר מאוד.",
+      "sporePrint": "צהבהב. הנבגים במידות 7–12 × 5–8 µm, בממוצע כ־9.3 × 6.5 µm, כמעט כדוריים עד אליפסואידיים, חלקים, עם טיפות שמן גדולות.",
+      "habitat": "יוצר מיקוריזה חיצונית בעיקר עם Quercus agrifolia, וגם עם Quercus parvula var. shrevei, Quercus wislizeni, Quercus kelloggii, Quercus chrysolepis ו־Notholithocarpus densiflorus. גדל על הקרקע בשכבת העלים המתים ביערות אלון וביערות מעורבים ירוקי־עד, מצפון באחה קליפורניה דרך קליפורניה החופית ולמרגלות הסיירה נבדה. מניב פרי בעיקר מנובמבר עד אפריל; כל גוף פרי מבשיל לאט, במשך שלושה עד שמונה שבועות ויותר.",
+      "uses": "פטרייה מאכל מעולה, הנאספת מסחרית בקליפורניה לפחות מאז שנות ה־1970; מחירה גבוה לעיתים קרובות ממחירם של מיני Cantharellus אחרים משום שהיא מניבה פרי בחורף ובאביב, אף שיש טבחים הסבורים שהיא סיבית יותר ופחות ריחנית. אכלו רק פרטים שזוהו בוודאות: Omphalotus olivascens הרעיל גדל גם הוא בקליפורניה ועלול להתחלף בה.",
+      "confusion": "ל־Omphalotus olivascens הרעיל יש זימים אמיתיים, דקים ודמויי לוחות, צבעים כתומים בגוונים זיתיים ורגל שלעיתים קרובות אינה מרכזית, והוא גדל באשכולות על עץ או בבסיס עצים רחבי עלים. Cantharellus formosus בדרך כלל קטן ודק יותר, בעל רגל ארוכה יותר וכובע סיבי אפור־חום במזג אוויר יבש, וגדל עם עצי מחט. ל־Cantharellus roseocanus הימניום בוהק וצהוב יותר, והוא גדל עם אשוחיות ואורנים. ל־Hygrophoropsis aurantiaca זימים אמיתיים דקים, כתומים בוהקים ומתפצלים. Turbinellus floccosus דמוי חצוצרה, עם כובע כתום קשקשי.",
+      "notes": "תואר ב־2008 על ידי David Arora ו־Susie Dunham על סמך הולוטיפוס שנאסף מתחת ל־Quercus agrifolia במחוז מרין; לפני כן נרשם בדרך כלל כ־Cantharellus cibarius. קרובו הקרוב ביותר הוא Cantharellus formosus, שממנו הוא נבדל גם ב־DNA. מאז 1 בינואר 2024 הוא פטריית המדינה הרשמית של קליפורניה, מכוח החוק Assembly Bill 261 שנחתם באוקטובר 2023. הרשימה האדומה של IUCN (2021) מעריכה אותו באופן זמני כמין ללא חשש (Least Concern), אם כי אובדן בתי גידול, כולל הנזק ל־Quercus agrifolia ממחלת sudden oak death (Phytophthora ramorum), גורם ככל הנראה לירידה.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "कैलिफ़ोर्निया और उत्तरी बाहा कैलिफ़ोर्निया का Cantharellus वंश का एक बड़ा, मांसल सदस्य, जो सदाबहार बलूत वृक्षों के नीचे पत्तियों की परत में अकेले या समूहों में उगता है। इसे विश्व की सबसे बड़ी Cantharellus प्रजाति माना जाता है: परिपक्व फलनकाय प्रायः आधा किलोग्राम या उससे अधिक भारी होते हैं, और एक किलोग्राम से अधिक के नमूने दुर्लभ नहीं हैं।",
+      "cap": "8–30 cm या उससे अधिक चौड़ी, आरंभ में चौड़ी उत्तल, बाद में लहरदार, अवतल, फूलदान के आकार की या अनियमित, प्रायः ढेर सारी चिपकी मिट्टी और पत्तियों के साथ। चमकीली से धुँधली पीली-नारंगी, कभी-कभी हल्की गुलाबी खुबानी आभा वाली; पुरानी टोपियाँ अधिक भूरी हो सकती हैं या धूप में फीकी पड़ सकती हैं। गीली होने पर चिकनी, युवावस्था में और सूखे मौसम में बारीक रेशेदार; देर तक छूने के बाद उस पर गहरे गेरुए से नारंगी-भूरे धब्बे बन जाते हैं।",
+      "hymenium": "कुंद, डंठल पर गहराई तक नीचे उतरती धारियाँ (छद्म गलफड़े), 1–2 mm मोटी और 2–4 mm की दूरी पर, युवावस्था में द्विशाखित और आपस में जुड़ी; आयु के साथ आड़ी शिराएँ गहरी होती जाती हैं, यहाँ तक कि हाइमेनियम प्रायः लगभग छिद्रिल दिखता है। सामान्यतः टोपी से हल्की, पर उसके रंग की आभा वाली, कभी-कभी चमकीली पीली-नारंगी या हल्की गुलाबी। बेसिडिया 80–95 × 6–9 µm के होते हैं और 4–8 बीजाणु धारण करते हैं; क्लैंप संयोजन बिखरे हुए और अस्पष्ट होते हैं।",
+      "stipe": "3–9 cm लंबा और 1.5–4 cm मोटा, ठोस और गठीला, सामान्यतः समान मोटाई का या आधार की ओर पतला, कभी-कभी आधार पर थोड़ा फूला हुआ। टोपी के रंग का या उससे हल्का, छुए गए स्थानों पर प्रायः अधिक गहरा। न छल्ला, न वोल्वा।",
+      "flesh": "मोटा और रेशेदार, टोपी के केंद्र में बहुत मोटा पर किनारे के पास केवल लगभग 3 mm; टोपी की सतह के ठीक नीचे पीली-नारंगी आभा को छोड़कर सफ़ेद, काटने पर रंग में उल्लेखनीय परिवर्तन नहीं होता। गंध हल्की फल जैसी, कद्दू की याद दिलाती; स्वाद सामान्यतः सौम्य, यद्यपि बहुत सूखी परिस्थितियों से एकत्र एक नमूना अत्यधिक कड़वा था।",
+      "sporePrint": "पीलापन लिए। बीजाणु 7–12 × 5–8 µm, औसतन लगभग 9.3 × 6.5 µm, लगभग गोलाकार से दीर्घवृत्ताकार, चिकने, बड़ी तेल-बूँदों सहित।",
+      "habitat": "मुख्यतः Quercus agrifolia के साथ, और Quercus parvula var. shrevei, Quercus wislizeni, Quercus kelloggii, Quercus chrysolepis तथा Notholithocarpus densiflorus के साथ भी बाह्य-कवकमूल बनाता है। बलूत वनों और सदाबहार मिश्रित वनों में पत्तियों की परत के बीच मिट्टी पर उगता है, उत्तरी बाहा कैलिफ़ोर्निया से तटीय कैलिफ़ोर्निया होते हुए सिएरा नेवादा की तलहटी तक। मुख्यतः नवंबर से अप्रैल तक फलता है; अलग-अलग फलनकाय तीन से आठ सप्ताह या उससे अधिक समय में धीरे-धीरे परिपक्व होते हैं।",
+      "uses": "एक उत्कृष्ट खाद्य कवक, जिसे कैलिफ़ोर्निया में कम से कम 1970 के दशक से व्यावसायिक रूप से एकत्र किया जाता है; सर्दी और वसंत में फलने के कारण इसकी कीमत प्रायः अन्य Cantharellus प्रजातियों से अधिक होती है, यद्यपि कुछ रसोइये इसे अधिक रेशेदार और कम सुगंधित मानते हैं। केवल निश्चित रूप से पहचाने गए नमूने ही खाएँ: विषैला Omphalotus olivascens भी कैलिफ़ोर्निया में उगता है और इससे भ्रमित किया जा सकता है।",
+      "confusion": "विषैले Omphalotus olivascens में सच्चे, पतले, पट्टिका जैसे गलफड़े, जैतूनी आभा वाला नारंगी रंग और प्रायः उत्केंद्री डंठल होता है, और यह लकड़ी पर या चौड़ी पत्ती वाले वृक्षों के आधार पर गुच्छों में उगता है। Cantharellus formosus सामान्यतः छोटा और पतला होता है, उसका डंठल लंबा और सूखे मौसम में टोपी धूसर-भूरी रेशेदार होती है, और यह शंकुधारी वृक्षों के साथ उगता है। Cantharellus roseocanus का हाइमेनियम अधिक चमकीला और पीला होता है और यह स्प्रूस तथा चीड़ के साथ उगता है। Hygrophoropsis aurantiaca में पतले, चमकीले नारंगी, द्विशाखित सच्चे गलफड़े होते हैं। Turbinellus floccosus तुरही के आकार का होता है, जिसकी टोपी नारंगी और शल्की होती है।",
+      "notes": "इसका वर्णन 2008 में David Arora और Susie Dunham ने मारिन काउंटी में Quercus agrifolia के नीचे एकत्र किए गए होलोटाइप के आधार पर किया; उससे पहले इसे प्रायः Cantharellus cibarius के रूप में दर्ज किया जाता था। इसका निकटतम संबंधी Cantharellus formosus है, जिससे यह DNA में भी भिन्न है। अक्टूबर 2023 में हस्ताक्षरित कानून Assembly Bill 261 के अंतर्गत 1 जनवरी 2024 से यह कैलिफ़ोर्निया का आधिकारिक राज्य कवक है। IUCN रेड लिस्ट (2021) इसे अस्थायी रूप से न्यूनतम चिंता (Least Concern) श्रेणी में रखती है, यद्यपि आवास की हानि, जिसमें sudden oak death (Phytophthora ramorum) रोग से Quercus agrifolia को होने वाली क्षति भी शामिल है, संभवतः इसकी संख्या में गिरावट ला रही है।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Velik, mesnat predstavnik roda Cantharellus iz Kalifornije i sjevernog dijela Donje Kalifornije, koji raste pojedinačno ili u skupinama u listincu pod zimzelenim hrastovima. Smatra se najvećom vrstom roda Cantharellus na svijetu: zrela plodišta obično teže pola kilograma ili više, a primjerci teži od jednog kilograma nisu rijetki.",
+      "cap": "Širok 8–30 cm ili više, isprva široko konveksan, zatim valovit, udubljen, vazast ili nepravilan, često s mnogo prilijepljene zemlje i lišća. Žarko do mutno žutonarančast, ponekad s blijedim ružičastim nijansama boje marelice; stariji šeširi mogu posmeđiti ili izblijedjeti na suncu. Gladak po vlažnom vremenu, u mladosti i po suhom vremenu fino vlaknast; nakon duljeg rukovanja na njemu nastaju tamnookerne do narančastosmeđe mrlje.",
+      "hymenium": "Tupi, duboko silazni nabori (lažni listići), debeli 1–2 mm i razmaknuti 2–4 mm, u mladim plodištima rašljasto razgranati i međusobno povezani; s vremenom se poprečne žilice produbljuju, dok himenij često ne izgleda gotovo porozno. Obično svjetliji od šešira, ali s nijansom njegove boje, ponekad žarko žutonarančasti ili blago ružičasti. Bazidiji su veliki 80–95 × 6–9 µm i nose 4–8 spora; kopče su raspršene i neupadljive.",
+      "stipe": "Dug 3–9 cm i debeo 1,5–4 cm, pun i zdepast, obično jednako debeo ili prema dnu sužen, ponekad pri dnu blago zadebljan. Boje šešira ili svjetliji, na dodirnutim mjestima često tamniji. Nema prstena ni ovojnice.",
+      "flesh": "Debelo i vlaknasto, u sredini šešira vrlo debelo, a uz rub samo oko 3 mm; bijelo, osim žutonarančaste nijanse odmah ispod površine šešira, na prerezu se primjetno ne mijenja. Miris slabo voćni, podsjeća na bundevu; okus obično blag, iako je jedan nalaz iz vrlo suhih uvjeta bio izrazito gorak.",
+      "sporePrint": "Žućkast. Spore 7–12 × 5–8 µm, prosječno oko 9,3 × 6,5 µm, gotovo kuglaste do elipsoidne, glatke, s velikim kapljicama ulja.",
+      "habitat": "Tvori ektomikorizu ponajprije s Quercus agrifolia, a također s Quercus parvula var. shrevei, Quercus wislizeni, Quercus kelloggii, Quercus chrysolepis i Notholithocarpus densiflorus. Raste na tlu u listincu hrastovih šuma i zimzelenih mješovitih šuma, od sjevernog dijela Donje Kalifornije kroz obalnu Kaliforniju te u podnožju Sierra Nevade. Plodi uglavnom od studenoga do travnja; pojedina plodišta sazrijevaju polako, tijekom tri do osam tjedana ili dulje.",
+      "uses": "Izvrsna jestiva gljiva, u Kaliforniji komercijalno sakupljana barem od 1970-ih; često postiže više cijene od drugih vrsta roda Cantharellus jer plodi zimi i u proljeće, iako je neki kuhari smatraju vlaknastijom i manje aromatičnom. Jedite samo sigurno određene primjerke: otrovna Omphalotus olivascens također raste u Kaliforniji i može se s njom zamijeniti.",
+      "confusion": "Otrovna Omphalotus olivascens ima prave, tanke, pločaste listiće, narančaste boje s maslinastim tonovima i često ekscentričan stručak te raste u busenima na drvu ili u podnožju listopadnog drveća. Cantharellus formosus obično je manji i vitkiji, s duljim stručkom i po suhom vremenu sivosmeđim vlaknastim šeširom, a raste uz četinjače. Cantharellus roseocanus ima žarkiji, žući himenij i raste uz smreke i borove. Hygrophoropsis aurantiaca ima tanke, žarko narančaste, rašljaste prave listiće. Turbinellus floccosus je trubast, s ljuskavim narančastim šeširom.",
+      "notes": "Opisali su je 2008. David Arora i Susie Dunham prema holotipu sakupljenom pod Quercus agrifolia u okrugu Marin; prije toga obično se bilježila kao Cantharellus cibarius. Najbliži srodnik joj je Cantharellus formosus, od kojeg se razlikuje i po DNK. Od 1. siječnja 2024. službena je gljiva savezne države Kalifornije prema zakonu Assembly Bill 261 potpisanom u listopadu 2023. Crveni popis IUCN-a (2021) privremeno je ocjenjuje kao najmanje zabrinjavajuću (Least Concern), iako gubitak staništa, uključujući oštećenje vrste Quercus agrifolia bolešću sudden oak death (Phytophthora ramorum), vjerojatno uzrokuje njezin pad.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "A Cantharellus nemzetség nagy, húsos képviselője Kaliforniából és Alsó-Kalifornia északi részéről, amely magányosan vagy csoportosan nő az örökzöld tölgyek alatti avarban. A világ legnagyobb Cantharellus-fajának tartják: kifejlett termőtestei gyakran fél kilogrammot vagy többet nyomnak, és az egy kilogrammnál nehezebb példányok sem ritkák.",
+      "cap": "8–30 cm vagy szélesebb, eleinte szélesen domború, később hullámos, bemélyedő, váza alakú vagy szabálytalan, gyakran sok rátapadt földdel és levéllel. Élénk vagy fakó sárgásnarancs, néha halvány rózsaszínes barackszín árnyalattal; az idősebb kalapok barnulhatnak vagy a napon kifakulhatnak. Nedvesen sima, fiatalon és száraz időben finoman szálas; hosszabb fogdosás után sötét okker- vagy narancsbarna foltok jelennek meg rajta.",
+      "hymenium": "Tompa, mélyen lefutó redők (állemezek), 1–2 mm vastagok és 2–4 mm-re vannak egymástól, fiatalon villásan elágazók és összekötöttek; idővel a keresztirányú erek elmélyülnek, míg a termőréteg gyakran szinte pórusosnak látszik. Rendszerint halványabbak a kalapnál, de annak színével árnyaltak, néha élénk sárgásnarancsok vagy enyhén rózsaszínesek. A bazídiumok 80–95 × 6–9 µm-esek, és 4–8 spórát viselnek; a csatok szórványosak és feltűnés nélküliek.",
+      "stipe": "3–9 cm hosszú és 1,5–4 cm vastag, tömör és zömök, rendszerint egyenletesen vastag vagy a töve felé keskenyedő, néha a tövénél enyhén megvastagodó. A kalappal egyszínű vagy halványabb, a megérintett helyeken gyakran sötétebb. Gallérja és bocskora nincs.",
+      "flesh": "Vastag és rostos, a kalap közepén nagyon vastag, a szél közelében azonban csak körülbelül 3 mm; fehér, csak közvetlenül a kalapbőr alatt sárgásnarancs árnyalatú, vágásra érdemben nem színeződik. Illata gyengén gyümölcsös, a tökre emlékeztet; íze többnyire enyhe, bár egy nagyon száraz körülmények között gyűjtött lelet erősen keserű volt.",
+      "sporePrint": "Sárgás. Spórái 7–12 × 5–8 µm-esek, átlagosan mintegy 9,3 × 6,5 µm-esek, csaknem gömbölyűek vagy ellipszoidok, simák, nagy olajcseppekkel.",
+      "habitat": "Ektomikorrhizás, főként a Quercus agrifolia, továbbá a Quercus parvula var. shrevei, a Quercus wislizeni, a Quercus kelloggii, a Quercus chrysolepis és a Notholithocarpus densiflorus partnere. A talajon nő, tölgyesek és örökzöld elegyes erdők avarjában, Alsó-Kalifornia északi részétől Kalifornia part menti vidékein át, valamint a Sierra Nevada előhegyeiben. Főként novembertől áprilisig terem; az egyes termőtestek lassan, három-nyolc hét vagy még több idő alatt érnek be.",
+      "uses": "Kiváló ehető gomba, amelyet Kaliforniában legalább az 1970-es évek óta gyűjtenek kereskedelmi céllal; gyakran drágább más Cantharellus-fajoknál, mert télen és tavasszal terem, bár egyes szakácsok rostosabbnak és kevésbé illatosnak tartják. Csak teljes biztonsággal azonosított példányokat fogyasszon: a mérgező Omphalotus olivascens szintén előfordul Kaliforniában, és összetéveszthető vele.",
+      "confusion": "A mérgező Omphalotus olivascens valódi, vékony, lapszerű lemezekkel, olívás árnyalatú narancsszínnel és gyakran excentrikus tönkkel rendelkezik, és csokrokban nő fán vagy lombos fák tövénél. A Cantharellus formosus rendszerint kisebb és karcsúbb, tönkje hosszabb, kalapja száraz időben szürkésbarnán szálas, és tűlevelűek alatt nő. A Cantharellus roseocanus termőrétege élénkebb, sárgább, és lucfenyők és erdeifenyők mellett nő. A Hygrophoropsis aurantiaca lemezei vékonyak, élénk narancsszínűek, villásan elágazók és valódiak. A Turbinellus floccosus trombita alakú, pikkelyes narancsszínű kalappal.",
+      "notes": "David Arora és Susie Dunham írta le 2008-ban egy Marin megyében, Quercus agrifolia alatt gyűjtött holotípus alapján; korábban rendszerint Cantharellus cibarius néven tartották nyilván. Legközelebbi rokona a Cantharellus formosus, amelytől DNS-ében is különbözik. 2024. január 1. óta Kalifornia hivatalos állami gombája a 2023 októberében aláírt Assembly Bill 261 törvény alapján. Az IUCN vörös listája (2021) ideiglenesen nem veszélyeztetettnek (Least Concern) minősíti, bár az élőhelyek pusztulása, köztük a Quercus agrifolia sudden oak death (Phytophthora ramorum) betegség okozta károsodása, valószínűleg állománycsökkenést okoz.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "id": {
+      "description": "Anggota genus Cantharellus yang besar dan berdaging dari California dan Baja California bagian utara, tumbuh tunggal atau berkelompok di serasah daun di bawah pohon ek yang selalu hijau. Spesies ini dianggap sebagai spesies Cantharellus terbesar di dunia: tubuh buah dewasa umumnya berbobot setengah kilogram atau lebih, dan spesimen lebih dari satu kilogram tidak jarang.",
+      "cap": "Lebar 8–30 cm atau lebih, mula-mula cembung lebar, kemudian bergelombang, cekung, berbentuk vas atau tidak beraturan, sering membawa banyak tanah dan daun yang melekat. Kuning-jingga cerah hingga kusam, kadang bernuansa aprikot kemerahmudaan pucat; tudung yang tua dapat menjadi lebih cokelat atau memudar di bawah sinar matahari. Halus saat basah, berserat halus saat muda dan pada cuaca kering; setelah lama dipegang muncul noda oker gelap hingga cokelat-jingga.",
+      "hymenium": "Lipatan tumpul (insang semu) yang sangat menurun ke tangkai, tebal 1–2 mm dan berjarak 2–4 mm, bercabang dan saling terhubung saat muda; seiring umur, urat melintang makin dalam hingga himenium sering tampak hampir berpori. Biasanya lebih pucat daripada tudung tetapi bernuansa warnanya, kadang kuning-jingga cerah atau sedikit kemerahmudaan. Basidium berukuran 80–95 × 6–9 µm dan membawa 4–8 spora; sambungan apit tersebar dan tidak mencolok.",
+      "stipe": "Panjang 3–9 cm dan tebal 1,5–4 cm, padat dan kekar, biasanya sama besar atau meruncing ke pangkal, kadang sedikit membengkak di pangkal. Berwarna seperti tudung atau lebih pucat, sering lebih gelap di bagian yang tersentuh. Tidak ada cincin maupun volva.",
+      "flesh": "Tebal dan berserat, sangat tebal di tengah tudung tetapi hanya sekitar 3 mm di dekat tepi; putih kecuali nuansa kuning-jingga tepat di bawah permukaan tudung, tidak berubah warna secara nyata saat dipotong. Baunya samar seperti buah, mengingatkan pada labu; rasanya biasanya lembut, meskipun satu koleksi dari kondisi sangat kering terasa sangat pahit.",
+      "sporePrint": "Kekuningan. Spora 7–12 × 5–8 µm, rata-rata sekitar 9,3 × 6,5 µm, hampir bulat hingga elipsoid, halus, dengan tetes minyak besar.",
+      "habitat": "Membentuk ektomikoriza terutama dengan Quercus agrifolia, serta dengan Quercus parvula var. shrevei, Quercus wislizeni, Quercus kelloggii, Quercus chrysolepis, dan Notholithocarpus densiflorus. Tumbuh di tanah dalam serasah daun di hutan ek dan hutan campuran selalu hijau, dari Baja California bagian utara melalui pesisir California dan di kaki pegunungan Sierra Nevada. Berbuah terutama dari November hingga April; tiap tubuh buah matang perlahan selama tiga hingga delapan minggu atau lebih.",
+      "uses": "Jamur pangan unggulan yang dipanen secara komersial di California setidaknya sejak tahun 1970-an; harganya sering lebih tinggi daripada spesies Cantharellus lain karena berbuah pada musim dingin dan musim semi, meskipun sebagian koki menganggapnya lebih berserat dan kurang harum. Hanya konsumsi spesimen yang teridentifikasi dengan pasti: Omphalotus olivascens yang beracun juga tumbuh di California dan dapat tertukar dengannya.",
+      "confusion": "Omphalotus olivascens yang beracun memiliki bilah sejati yang tipis seperti lempeng, warna jingga dengan nuansa zaitun, dan tangkai yang sering eksentris, serta tumbuh bergerombol pada kayu atau di pangkal pohon berdaun lebar. Cantharellus formosus biasanya lebih kecil dan ramping, dengan tangkai lebih panjang dan tudung berserat cokelat keabu-abuan saat cuaca kering, serta tumbuh bersama konifer. Cantharellus roseocanus memiliki himenium yang lebih cerah dan lebih kuning serta tumbuh bersama cemara dan pinus. Hygrophoropsis aurantiaca memiliki bilah sejati yang tipis, jingga terang, dan bercabang. Turbinellus floccosus berbentuk terompet dengan tudung jingga bersisik.",
+      "notes": "Dideskripsikan pada tahun 2008 oleh David Arora dan Susie Dunham berdasarkan holotipe yang dikumpulkan di bawah Quercus agrifolia di Marin County; sebelumnya biasanya dicatat sebagai Cantharellus cibarius. Kerabat terdekatnya adalah Cantharellus formosus, yang darinya ia juga berbeda secara DNA. Sejak 1 Januari 2024 spesies ini menjadi jamur resmi negara bagian California berdasarkan undang-undang Assembly Bill 261 yang ditandatangani pada Oktober 2023. Daftar Merah IUCN (2021) untuk sementara menilainya Risiko Rendah (Least Concern), meskipun hilangnya habitat, termasuk kerusakan Quercus agrifolia akibat penyakit sudden oak death (Phytophthora ramorum), kemungkinan menyebabkan penurunan.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un grande e carnoso membro del genere Cantharellus della California e della Bassa California settentrionale, che cresce isolato o gregario nella lettiera di foglie sotto le querce sempreverdi. È considerato la più grande specie di Cantharellus al mondo: i corpi fruttiferi maturi pesano comunemente mezzo chilogrammo o più ed esemplari di oltre un chilogrammo non sono rari.",
+      "cap": "Largo 8–30 cm o più, dapprima ampiamente convesso, poi ondulato, concavo, a forma di vaso o irregolare, spesso con molta terra e foglie aderenti. Da giallo-arancio vivace a spento, talvolta con una tinta albicocca rosata pallida; i cappelli vecchi possono imbrunire o sbiadire al sole. Liscio con tempo umido, finemente fibrilloso da giovane e con tempo secco; dopo una manipolazione prolungata sviluppa macchie da ocra scuro a bruno-arancio.",
+      "hymenium": "Pseudolamelle (pieghe) ottuse, lungamente decorrenti, spesse 1–2 mm e distanti 2–4 mm, forcate e interconnesse negli esemplari giovani; con l’età le venature trasversali si approfondiscono finché l’imenio appare spesso quasi poroide. Di solito più pallide del cappello ma soffuse del suo colore, talvolta giallo-arancio vivace o leggermente rosate. I basidi misurano 80–95 × 6–9 µm e portano 4–8 spore; i giunti a fibbia sono sparsi e poco evidenti.",
+      "stipe": "Lungo 3–9 cm e spesso 1,5–4 cm, pieno e tozzo, di solito cilindrico o attenuato verso la base, talvolta leggermente ingrossato alla base. Dello stesso colore del cappello o più pallido, spesso più scuro dove è stato maneggiato. Non ha anello né volva.",
+      "flesh": "Spessa e fibrosa, molto spessa al centro del cappello ma di soli 3 mm circa vicino al margine; bianca tranne una sfumatura giallo-arancio appena sotto la superficie del cappello, non si macchia sensibilmente al taglio. Odore debolmente fruttato, che ricorda la zucca; sapore di solito mite, anche se una raccolta in condizioni molto secche era fortemente amara.",
+      "sporePrint": "Giallastra. Spore 7–12 × 5–8 µm, in media circa 9,3 × 6,5 µm, subglobose o ellissoidi, lisce, con grandi gocce oleose.",
+      "habitat": "Ectomicorrizico, soprattutto con Quercus agrifolia, e anche con Quercus parvula var. shrevei, Quercus wislizeni, Quercus kelloggii, Quercus chrysolepis e Notholithocarpus densiflorus. Cresce sul terreno nella lettiera di foglie di querceti e boschi misti sempreverdi, dalla Bassa California settentrionale lungo la California costiera e sulle colline pedemontane della Sierra Nevada. Fruttifica soprattutto da novembre ad aprile; i singoli corpi fruttiferi maturano lentamente, in tre-otto settimane o più.",
+      "uses": "Ottimo commestibile, raccolto commercialmente in California almeno dagli anni 1970; spesso spunta prezzi più alti di altre specie di Cantharellus perché fruttifica in inverno e in primavera, anche se alcuni cuochi lo trovano più fibroso e meno profumato. Consumare solo esemplari identificati con certezza: il velenoso Omphalotus olivascens cresce anch’esso in California e può essere scambiato per questa specie.",
+      "confusion": "Il velenoso Omphalotus olivascens ha vere lamelle sottili e laminari, colori arancio con toni olivastri e un gambo spesso eccentrico, e cresce in cespi sul legno o alla base di latifoglie. Cantharellus formosus è di solito più piccolo e slanciato, con gambo più lungo e cappello fibrilloso grigio-bruno con tempo secco, e cresce con le conifere. Cantharellus roseocanus ha un imenio più vivace e più giallo e cresce con abeti rossi e pini. Hygrophoropsis aurantiaca ha vere lamelle sottili, arancio vivo e forcate. Turbinellus floccosus è a forma di tromba, con cappello arancio squamoso.",
+      "notes": "Descritto nel 2008 da David Arora e Susie Dunham sulla base di un olotipo raccolto sotto Quercus agrifolia nella contea di Marin; in precedenza veniva di solito registrato come Cantharellus cibarius. Il suo parente più stretto è Cantharellus formosus, da cui differisce anche nel DNA. Dal 1º gennaio 2024 è il fungo ufficiale dello Stato della California, in base alla legge Assembly Bill 261 firmata nell’ottobre 2023. La Lista rossa IUCN (2021) lo valuta provvisoriamente a rischio minimo (Least Concern), sebbene la perdita di habitat, compresi i danni a Quercus agrifolia causati dalla malattia sudden oak death (Phytophthora ramorum), stia probabilmente causando un declino.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "カリフォルニア州とバハ・カリフォルニア北部に分布するCantharellus属の大型で肉質の一種で、常緑性のナラ類（カシ類）の下の落葉層に単生または群生する。世界最大のCantharellus属の種とされ、成熟した子実体はふつう半キログラム以上の重さになり、一キログラムを超える個体も珍しくない。",
+      "cap": "径8–30 cm以上、初めは広い饅頭形、のち波打ち、くぼみ、花瓶形または不規則な形になり、しばしば多量の土や落葉が付着する。鮮やかなまたはくすんだ黄橙色で、ときに淡いピンクがかったアンズ色を帯びる。古い傘は褐色を増すか、日光で退色することがある。湿時は平滑、幼時や乾燥時は細かい繊維状。長く手で触れると暗い黄土色から橙褐色のしみが生じる。",
+      "hymenium": "鈍頭で柄に深く垂生する襞状の隆起（偽ひだ）は厚さ1–2 mm、間隔2–4 mmで、幼時は二叉分岐して互いに連絡する。成長につれ横脈が深まり、子実層はしばしばほとんど管孔状に見える。ふつう傘より淡いがその色を帯び、ときに鮮やかな黄橙色またはわずかにピンクがかる。担子器は80–95 × 6–9 µmで4–8個の胞子をつける。クランプは散在し目立たない。",
+      "stipe": "長さ3–9 cm、太さ1.5–4 cm、中実でずんぐりし、ふつう上下同大か基部に向かって細まり、ときに基部がわずかに膨らむ。傘と同色かより淡く、触れた部分はしばしば濃色になる。つばもつぼもない。",
+      "flesh": "厚く繊維質で、傘の中央では非常に厚いが、縁近くでは約3 mmにすぎない。傘の表皮直下がわずかに黄橙色を帯びるほかは白色で、切っても目立った変色はない。においはかすかに果実様でカボチャを思わせ、味はふつう温和だが、非常に乾燥した条件下で採集された一例は強い苦味があった。",
+      "sporePrint": "黄色味を帯びる。胞子は7–12 × 5–8 µm、平均約9.3 × 6.5 µm、類球形から楕円形、平滑で、大きな油滴を含む。",
+      "habitat": "主にQuercus agrifoliaと、またQuercus parvula var. shrevei、Quercus wislizeni、Quercus kelloggii、Quercus chrysolepis、Notholithocarpus densiflorusとも外生菌根を形成する。ナラ類の林や常緑混交林の落葉層の地上に発生し、バハ・カリフォルニア北部からカリフォルニア沿岸部、さらにシエラネバダ山脈の山麓に見られる。主に十一月から四月に発生し、個々の子実体は三～八週間以上かけてゆっくり成熟する。",
+      "uses": "優れた食用きのこで、カリフォルニアでは少なくとも1970年代から商業的に採取されている。冬から春に発生するため、しばしば他のCantharellus属の種より高値で取引されるが、繊維質で香りが弱いと考える料理人もいる。確実に同定された個体だけを食べること。有毒なOmphalotus olivascensもカリフォルニアに生え、本種と誤認されることがある。",
+      "confusion": "有毒なOmphalotus olivascensは薄い板状の真のひだ、オリーブ色を帯びた橙色、しばしば偏心生の柄をもち、材上や広葉樹の根元に束生する。Cantharellus formosusはふつうより小型で細身、柄が長く、乾燥時には傘が灰褐色の繊維状になり、針葉樹とともに生える。Cantharellus roseocanusは子実層がより鮮やかで黄色く、トウヒやマツとともに生える。Hygrophoropsis aurantiacaは薄く鮮やかな橙色で二叉分岐する真のひだをもつ。Turbinellus floccosusはラッパ形で、鱗片のある橙色の傘をもつ。",
+      "notes": "2008年にDavid AroraとSusie Dunhamが、マリン郡でQuercus agrifoliaの下から採集されたホロタイプに基づいて記載した。それ以前はふつうCantharellus cibariusとして記録されていた。最も近縁な種はCantharellus formosusで、DNAでも区別される。Assembly Bill 261（2023年十月署名）により、2024年1月1日からカリフォルニア州の公式の州のきのことなっている。IUCNレッドリスト（2021年）は暫定的に低懸念（Least Concern）と評価しているが、sudden oak death（Phytophthora ramorum）によるQuercus agrifoliaの被害を含む生息地の喪失によって、おそらく減少している。",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ko": {
+      "description": "캘리포니아와 바하칼리포르니아 북부에 분포하는 Cantharellus속의 크고 살이 많은 종으로, 상록성 참나무류 아래의 낙엽층에 홀로 또는 무리 지어 난다. 세계에서 가장 큰 Cantharellus속 종으로 여겨지며, 다 자란 자실체는 흔히 반 킬로그램 이상 나가고 일 킬로그램이 넘는 개체도 드물지 않다.",
+      "cap": "지름 8–30 cm 이상, 처음에는 넓은 둥근산 모양이다가 물결 모양, 오목한 모양, 꽃병 모양 또는 불규칙한 모양이 되며, 흔히 많은 흙과 낙엽이 달라붙어 있다. 선명하거나 칙칙한 황등색이며 때로 연한 분홍빛 살구색을 띤다. 오래된 갓은 더 갈색이 되거나 햇빛에 바랠 수 있다. 젖었을 때는 매끄럽고, 어릴 때와 건조할 때는 미세한 섬유상이다. 오래 만지면 짙은 황토색에서 주황빛 갈색의 얼룩이 생긴다.",
+      "hymenium": "무딘 주름 모양 융기(가짜 주름)가 자루에 깊게 내린주름으로 붙으며, 두께 1–2 mm, 간격 2–4 mm이고, 어릴 때는 두 갈래로 갈라지며 서로 연결된다. 나이가 들면 가로맥이 깊어져 자실층이 흔히 거의 관공 모양으로 보인다. 보통 갓보다 연하지만 갓 색을 띠며, 때로 선명한 황등색이거나 약간 분홍빛이다. 담자기는 80–95 × 6–9 µm이며 포자 4–8개를 단다. 꺾쇠연결은 흩어져 있고 눈에 잘 띄지 않는다.",
+      "stipe": "길이 3–9 cm, 굵기 1.5–4 cm, 속이 차 있고 굵고 짧으며, 보통 위아래 굵기가 같거나 밑동 쪽으로 가늘어지고, 때로 밑동이 약간 부푼다. 갓과 같은 색이거나 더 연하며, 만진 곳은 흔히 더 짙어진다. 턱받이와 대주머니가 없다.",
+      "flesh": "두껍고 섬유질이며, 갓 중앙에서는 매우 두껍지만 가장자리 근처에서는 약 3 mm에 불과하다. 갓 표면 바로 아래가 황등색을 띠는 것 외에는 흰색이며, 자르면 뚜렷하게 변색하지 않는다. 냄새는 희미한 과일 향으로 호박을 연상시키고, 맛은 보통 순하지만, 매우 건조한 조건에서 채집된 한 표본은 강하게 썼다.",
+      "sporePrint": "노르스름하다. 포자는 7–12 × 5–8 µm, 평균 약 9.3 × 6.5 µm, 아구형에서 타원형이며 매끄럽고 큰 기름방울을 가진다.",
+      "habitat": "주로 Quercus agrifolia와, 또한 Quercus parvula var. shrevei, Quercus wislizeni, Quercus kelloggii, Quercus chrysolepis, Notholithocarpus densiflorus와 외생균근을 형성한다. 참나무 숲과 상록 혼합림의 낙엽층 속 땅 위에 나며, 바하칼리포르니아 북부에서 캘리포니아 해안 지역을 거쳐 시에라네바다 산기슭에 분포한다. 주로 십일월부터 사월까지 발생하며, 개별 자실체는 세 주에서 여덟 주 이상에 걸쳐 천천히 성숙한다.",
+      "uses": "뛰어난 식용버섯으로, 캘리포니아에서 적어도 1970년대부터 상업적으로 채취되어 왔다. 겨울과 봄에 발생하기 때문에 다른 Cantharellus속 종보다 비싸게 거래되는 경우가 많지만, 일부 요리사는 더 질기고 향이 덜하다고 여긴다. 확실히 동정된 개체만 먹어야 한다. 독성이 있는 Omphalotus olivascens도 캘리포니아에 나며 이 종으로 오인될 수 있다.",
+      "confusion": "독성이 있는 Omphalotus olivascens는 얇은 판 모양의 진짜 주름살, 올리브빛을 띤 주황색, 흔히 편심형인 자루를 가지며 나무 위나 활엽수 밑동에 다발로 난다. Cantharellus formosus는 보통 더 작고 날씬하며 자루가 더 길고, 건조할 때 갓이 회갈색 섬유상이며 침엽수와 함께 난다. Cantharellus roseocanus는 자실층이 더 선명하고 노랗고 가문비나무와 소나무와 함께 난다. Hygrophoropsis aurantiaca는 얇고 선명한 주황색의 두 갈래로 갈라지는 진짜 주름살을 가진다. Turbinellus floccosus는 나팔 모양이며 비늘이 있는 주황색 갓을 가진다.",
+      "notes": "2008년 David Arora와 Susie Dunham이 마린 카운티의 Quercus agrifolia 아래에서 채집한 완모식표본을 바탕으로 기재했으며, 그 전에는 보통 Cantharellus cibarius로 기록되었다. 가장 가까운 근연종은 Cantharellus formosus이며 DNA에서도 구별된다. 2023년 시월에 서명된 Assembly Bill 261에 따라 2024년 1월 1일부터 캘리포니아주의 공식 주 버섯이다. IUCN 적색목록(2021)은 잠정적으로 관심대상(Least Concern)으로 평가하지만, sudden oak death(Phytophthora ramorum)로 인한 Quercus agrifolia 피해를 포함한 서식지 손실로 아마도 감소하고 있다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Didelis, mėsingas Cantharellus genties atstovas iš Kalifornijos ir šiaurinės Žemutinės Kalifornijos, augantis pavieniui arba grupėmis lapų paklotėje po visžaliais ąžuolais. Jis laikomas didžiausia Cantharellus rūšimi pasaulyje: subrendę vaisiakūniai paprastai sveria pusę kilogramo ar daugiau, o daugiau nei vieno kilogramo egzemplioriai nėra reti.",
+      "cap": "8–30 cm ar platesnė, iš pradžių plačiai išgaubta, vėliau banguota, įdubusi, vazos formos arba netaisyklinga, dažnai su daug prilipusio dirvožemio ir lapų. Ryškiai ar blankiai geltonai oranžinė, kartais su blyškiu rausvai abrikosiniu atspalviu; senesnės kepurėlės gali paruduoti arba saulėje išblukti. Drėgnu oru lygi, jauna ir sausu oru smulkiai plaušuota; ilgiau liečiama įgauna tamsiai ochrinių ar oranžiškai rudų dėmių.",
+      "hymenium": "Bukos, toli nubėgančios raukšlės (netikrosios lakštelės), 1–2 mm storio ir 2–4 mm atstumu viena nuo kitos, jaunų vaisiakūnių šakotos ir susijungusios; su amžiumi skersinės gyslos gilėja, kol himenis dažnai atrodo beveik poringas. Paprastai šviesesnės už kepurėlę, bet su jos spalvos atspalviu, kartais ryškiai geltonai oranžinės ar šiek tiek rausvos. Bazidės yra 80–95 × 6–9 µm ir neša 4–8 sporas; sagtys išsibarsčiusios ir nepastebimos.",
+      "stipe": "3–9 cm ilgio ir 1,5–4 cm storio, pilnaviduris ir kresnas, paprastai vienodo storio arba į pagrindą siaurėjantis, kartais ties pagrindu šiek tiek pastorėjęs. Kepurėlės spalvos arba šviesesnis, liestose vietose dažnai tamsesnis. Žiedo ir makšties nėra.",
+      "flesh": "Stora ir plaušuota, kepurėlės centre labai stora, bet prie krašto tik apie 3 mm; balta, išskyrus geltonai oranžinį atspalvį iškart po kepurėlės paviršiumi, perpjauta pastebimai nekeičia spalvos. Kvapas silpnai vaisinis, primenantis moliūgą; skonis paprastai švelnus, nors vienas labai sausomis sąlygomis surinktas pavyzdys buvo stipriai kartus.",
+      "sporePrint": "Gelsvos. Sporos 7–12 × 5–8 µm, vidutiniškai apie 9,3 × 6,5 µm, beveik rutuliškos iki elipsoidinių, lygios, su dideliais aliejaus lašais.",
+      "habitat": "Sudaro ektomikorizę daugiausia su Quercus agrifolia, taip pat su Quercus parvula var. shrevei, Quercus wislizeni, Quercus kelloggii, Quercus chrysolepis ir Notholithocarpus densiflorus. Auga ant dirvožemio lapų paklotėje ąžuolynuose ir visžaliuose mišriuose miškuose, nuo šiaurinės Žemutinės Kalifornijos per pakrančių Kaliforniją ir Siera Nevados papėdėse. Vaisiakūnius veda daugiausia nuo lapkričio iki balandžio; pavieniai vaisiakūniai bręsta lėtai, per tris–aštuonias savaites ar ilgiau.",
+      "uses": "Puikus valgomasis grybas, Kalifornijoje komerciškai renkamas mažiausiai nuo 1970-ųjų; jis dažnai brangesnis už kitas Cantharellus rūšis, nes vaisiakūnius veda žiemą ir pavasarį, nors kai kurie virtuvės šefai jį laiko plaušuotesniu ir mažiau aromatingu. Valgykite tik tikrai atpažintus egzempliorius: nuodingasis Omphalotus olivascens taip pat auga Kalifornijoje ir gali būti su juo supainiotas.",
+      "confusion": "Nuodingasis Omphalotus olivascens turi tikras, plonas, plokšteles primenančias lakšteles, oranžinę spalvą su alyvuogių atspalviais ir dažnai ekscentrinį kotą, ir auga kuokštais ant medienos arba lapuočių medžių papėdėje. Cantharellus formosus paprastai mažesnis ir lieknesnis, ilgesniu kotu ir sausu oru pilkšvai ruda plaušuota kepurėle, ir auga su spygliuočiais. Cantharellus roseocanus himenis ryškesnis, geltonesnis, ir jis auga prie eglių ir pušų. Hygrophoropsis aurantiaca turi plonas, ryškiai oranžines, šakotas tikras lakšteles. Turbinellus floccosus yra trimito formos, žvynuota oranžine kepurėle.",
+      "notes": "2008 m. jį aprašė David Arora ir Susie Dunham pagal holotipą, surinktą po Quercus agrifolia Marino apygardoje; anksčiau jis paprastai būdavo registruojamas kaip Cantharellus cibarius. Artimiausias jo giminaitis yra Cantharellus formosus, nuo kurio jis skiriasi ir DNR. Nuo 2024 m. sausio 1 d. jis yra oficialus Kalifornijos valstijos grybas pagal 2023 m. spalį pasirašytą įstatymą Assembly Bill 261. IUCN Raudonasis sąrašas (2021) preliminariai jį vertina kaip mažiausiai susirūpinimo keliančią rūšį (Least Concern), nors buveinių nykimas, įskaitant ligos sudden oak death (Phytophthora ramorum) daromą žalą Quercus agrifolia, tikriausiai lemia jo mažėjimą.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lv": {
+      "description": "Liels, gaļīgs ģints Cantharellus pārstāvis no Kalifornijas un Bahakalifornijas ziemeļu daļas, kas aug pa vienam vai grupās lapu nobirās zem mūžzaļajiem ozoliem. To uzskata par lielāko Cantharellus sugu pasaulē: nobrieduši augļķermeņi parasti sver pusi kilogramu vai vairāk, un eksemplāri, kas sver vairāk par vienu kilogramu, nav retums.",
+      "cap": "8–30 cm vai vairāk plata, sākumā plati izliekta, vēlāk viļņaina, ieliekta, vāzveida vai neregulāra, bieži ar daudz pielipušas augsnes un lapām. Spilgti līdz blāvi dzeltenoranža, dažkārt ar bālu, sārtu aprikožu nokrāsu; vecākas cepurītes var kļūt brūnākas vai saulē izbalēt. Mitrā laikā gluda, jaunībā un sausā laikā smalki šķiedraina; pēc ilgstošas aizskaršanas veidojas tumši okera līdz oranžbrūni plankumi.",
+      "hymenium": "Strupas, tālu lejup pa kātu nolaidenas krokas (neīstās lapiņas), 1–2 mm biezas un 2–4 mm attālumā cita no citas, jaunībā dakšveidīgi zarotas un savstarpēji savienotas; ar vecumu šķērsdzīslas padziļinās, līdz himēnijs bieži izskatās gandrīz porains. Parasti gaišākas par cepurīti, bet ar tās krāsas nokrāsu, dažkārt spilgti dzeltenoranžas vai viegli sārtas. Bazīdijas ir 80–95 × 6–9 µm un nes 4–8 sporas; sprādzes ir izkaisītas un neuzkrītošas.",
+      "stipe": "3–9 cm garš un 1,5–4 cm resns, pilns un drukns, parasti vienmērīgi resns vai uz pamatni sašaurināts, dažkārt pie pamatnes nedaudz paresnināts. Cepurītes krāsā vai gaišāks, aizskartās vietās bieži tumšāks. Gredzena un makstiņa nav.",
+      "flesh": "Bieza un šķiedraina, cepurītes vidū ļoti bieza, bet pie malas tikai aptuveni 3 mm; balta, izņemot dzeltenoranžu nokrāsu tieši zem cepurītes virsmas, griezumā manāmi nekrāsojas. Smarža vāji augļaina, atgādina ķirbi; garša parasti maiga, lai gan viens ļoti sausos apstākļos ievākts paraugs bija stipri rūgts.",
+      "sporePrint": "Dzeltenīgs. Sporas 7–12 × 5–8 µm, vidēji aptuveni 9,3 × 6,5 µm, gandrīz lodveida līdz elipsoidālas, gludas, ar lieliem eļļas pilieniem.",
+      "habitat": "Veido ektomikorizu galvenokārt ar Quercus agrifolia, kā arī ar Quercus parvula var. shrevei, Quercus wislizeni, Quercus kelloggii, Quercus chrysolepis un Notholithocarpus densiflorus. Aug uz augsnes lapu nobirās ozolu mežos un mūžzaļos jauktos mežos, no Bahakalifornijas ziemeļu daļas cauri Kalifornijas piekrastei un Sjerranevadas pakājē. Augļķermeņus veido galvenokārt no novembra līdz aprīlim; atsevišķi augļķermeņi nobriest lēni, trīs līdz astoņās nedēļās vai ilgāk.",
+      "uses": "Izcila ēdamsēne, ko Kalifornijā komerciāli vāc vismaz kopš 1970. gadiem; tā bieži maksā vairāk nekā citas Cantharellus sugas, jo augļķermeņus veido ziemā un pavasarī, lai gan daži pavāri to uzskata par šķiedraināku un mazāk aromātisku. Ēdiet tikai droši noteiktus eksemplārus: indīgā Omphalotus olivascens arī aug Kalifornijā, un to var sajaukt ar šo sugu.",
+      "confusion": "Indīgajai Omphalotus olivascens ir īstas, plānas, plāksnveida lapiņas, oranža krāsa ar olīvu toņiem un bieži ekscentrisks kāts, un tā aug ceros uz koksnes vai lapu koku pamatnē. Cantharellus formosus parasti ir mazāka un slaidāka, ar garāku kātu un sausā laikā pelēcīgi brūnu, šķiedrainu cepurīti, un aug pie skujkokiem. Cantharellus roseocanus ir spilgtāks, dzeltenāks himēnijs, un tā aug pie eglēm un priedēm. Hygrophoropsis aurantiaca ir plānas, spilgti oranžas, dakšveidīgi zarotas īstās lapiņas. Turbinellus floccosus ir taures formas ar zvīņainu, oranžu cepurīti.",
+      "notes": "2008. gadā to aprakstīja David Arora un Susie Dunham pēc holotipa, kas ievākts zem Quercus agrifolia Marinas apgabalā; agrāk to parasti reģistrēja kā Cantharellus cibarius. Tās tuvākā radiniece ir Cantharellus formosus, no kuras tā atšķiras arī pēc DNS. Kopš 2024. gada 1. janvāra tā ir Kalifornijas oficiālā štata sēne saskaņā ar 2023. gada oktobrī parakstīto likumu Assembly Bill 261. IUCN Sarkanais saraksts (2021) to provizoriski vērtē kā sugu, kurai draudi ir vismazākie (Least Concern), lai gan dzīvotņu zudums, tostarp slimības sudden oak death (Phytophthora ramorum) radītie Quercus agrifolia bojājumi, iespējams, izraisa tās sarukumu.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "nl": {
+      "description": "Een grote, vlezige vertegenwoordiger van het geslacht Cantharellus uit Californië en het noorden van Baja California, die alleen of in groepen groeit in het bladstrooisel onder groenblijvende eiken. Hij geldt als de grootste Cantharellus-soort ter wereld: rijpe vruchtlichamen wegen vaak een halve kilo of meer, en exemplaren van meer dan een kilo zijn niet zeldzaam.",
+      "cap": "8–30 cm of meer breed, eerst breed gewelfd, later golvend, ingedeukt, vaasvormig of onregelmatig, vaak met veel aanklevende aarde en bladeren. Helder tot dof geeloranje, soms bleek roze-abrikooskleurig getint; oudere hoeden kunnen bruiner worden of in de zon verbleken. Glad bij vochtig weer, fijn vezelig wanneer jong en bij droogte; na langdurig hanteren ontstaan donker okerkleurige tot oranjebruine vlekken.",
+      "hymenium": "Stompe, ver aflopende lijsten (valse plaatjes), 1–2 mm dik en 2–4 mm uit elkaar, bij jonge exemplaren gevorkt en onderling verbonden; met de leeftijd worden de dwarsaders dieper, tot het hymenium er vaak bijna poreus uitziet. Meestal bleker dan de hoed maar met diens kleur getint, soms helder geeloranje of licht rozeachtig. De basidiën meten 80–95 × 6–9 µm en dragen 4–8 sporen; gespen zijn verspreid en onopvallend.",
+      "stipe": "3–9 cm lang en 1,5–4 cm dik, massief en gedrongen, meestal even dik of naar de voet versmald, soms aan de voet licht verdikt. Gekleurd als de hoed of bleker, op aangeraakte plekken vaak donkerder. Ring en volva ontbreken.",
+      "flesh": "Dik en vezelig, in het midden van de hoed zeer dik maar bij de rand slechts ongeveer 3 mm; wit, behalve een geeloranje tint vlak onder de hoedhuid, verkleurt bij doorsnijden niet merkbaar. Geur zwak fruitig, aan pompoen herinnerend; smaak meestal mild, al was één vondst uit zeer droge omstandigheden sterk bitter.",
+      "sporePrint": "Geelachtig. Sporen 7–12 × 5–8 µm, gemiddeld ongeveer 9,3 × 6,5 µm, bijna bolvormig tot ellipsoïde, glad, met grote oliedruppels.",
+      "habitat": "Ectomycorrhizavormend, vooral met Quercus agrifolia, en ook met Quercus parvula var. shrevei, Quercus wislizeni, Quercus kelloggii, Quercus chrysolepis en Notholithocarpus densiflorus. Groeit op de grond in bladstrooisel van eikenbossen en groenblijvende gemengde bossen, van het noorden van Baja California via kustgebieden van Californië en in de uitlopers van de Sierra Nevada. Vrucht vooral van november tot april; afzonderlijke vruchtlichamen rijpen langzaam, in drie tot acht weken of langer.",
+      "uses": "Een uitstekende eetbare paddenstoel, in Californië commercieel geoogst sinds ten minste de jaren 1970; hij brengt vaak meer op dan andere Cantharellus-soorten omdat hij in winter en voorjaar vrucht draagt, al vinden sommige koks hem vezeliger en minder geurig. Eet alleen exemplaren die met zekerheid zijn gedetermineerd: de giftige Omphalotus olivascens groeit ook in Californië en kan ermee worden verward.",
+      "confusion": "De giftige Omphalotus olivascens heeft echte, dunne, plaatvormige lamellen, oranje kleuren met olijftinten en een vaak excentrische steel, en groeit in bundels op hout of aan de voet van loofbomen. Cantharellus formosus is meestal kleiner en slanker, met een langere steel en bij droogte een grijsbruin vezelige hoed, en groeit bij naaldbomen. Cantharellus roseocanus heeft een helderder, geler hymenium en groeit bij sparren en dennen. Hygrophoropsis aurantiaca heeft dunne, feloranje, gevorkte echte lamellen. Turbinellus floccosus is trompetvormig met een schubbige oranje hoed.",
+      "notes": "In 2008 beschreven door David Arora en Susie Dunham op basis van een holotype verzameld onder Quercus agrifolia in Marin County; daarvoor werd hij meestal als Cantharellus cibarius geregistreerd. Zijn naaste verwant is Cantharellus formosus, waarvan hij ook in het DNA verschilt. Sinds 1 januari 2024 is hij de officiële staatspaddenstoel van Californië, krachtens de in oktober 2023 ondertekende wet Assembly Bill 261. De Rode Lijst van de IUCN (2021) beoordeelt hem voorlopig als niet bedreigd (Least Concern), hoewel habitatverlies, waaronder schade aan Quercus agrifolia door de ziekte sudden oak death (Phytophthora ramorum), waarschijnlijk een achteruitgang veroorzaakt.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "no": {
+      "description": "En stor, kjøttfull art i slekten Cantharellus fra California og det nordlige Baja California, som vokser enkeltvis eller selskapelig i løvstrøet under eviggrønne eiker. Den regnes som den største Cantharellus-arten i verden: modne fruktlegemer veier ofte et halvt kilo eller mer, og eksemplarer på over ett kilo er ikke sjeldne.",
+      "cap": "8–30 cm eller mer bred, først bredt hvelvet, senere bølget, nedsenket, vaseformet eller uregelmessig, ofte med mye fastsittende jord og blader. Klart til matt guloransje, iblant svakt blekt rosa-aprikosfarget; eldre hatter kan bli brunere eller blekne i sollys. Glatt i fuktig vær, fint trådet som ung og i tørt vær; etter langvarig håndtering oppstår mørkt okerfargede til oransjebrune flekker.",
+      "hymenium": "Butte, langt nedløpende lister (falske skiver), 1–2 mm tykke og 2–4 mm fra hverandre, gaffeldelte og forbundne hos unge fruktlegemer; med alderen blir tverrårene dypere, til hymeniet ofte ser nesten poreaktig ut. Som regel blekere enn hatten, men med et skjær av dens farge, iblant klart guloransje eller svakt rosa. Basidiene måler 80–95 × 6–9 µm og bærer 4–8 sporer; bøyler er spredte og uanselige.",
+      "stipe": "3–9 cm lang og 1,5–4 cm tykk, massiv og kraftig, som regel jevntykk eller avsmalnende mot basis, iblant svakt oppsvulmet ved basis. Farget som hatten eller blekere, ofte mørkere der den er berørt. Ring og volva mangler.",
+      "flesh": "Tykt og trådet, svært tykt midt i hatten, men bare omkring 3 mm nær kanten; hvitt bortsett fra et guloransje skjær like under hattens overflate, misfarges ikke merkbart ved snitt. Lukten er svakt fruktaktig og minner om gresskar; smaken er som regel mild, men en innsamling fra svært tørre forhold var sterkt bitter.",
+      "sporePrint": "Gulaktig. Sporer 7–12 × 5–8 µm, i gjennomsnitt omkring 9,3 × 6,5 µm, nesten kuleformede til ellipsoide, glatte, med store oljedråper.",
+      "habitat": "Danner ektomykorrhiza særlig med Quercus agrifolia og dessuten med Quercus parvula var. shrevei, Quercus wislizeni, Quercus kelloggii, Quercus chrysolepis og Notholithocarpus densiflorus. Vokser på jorda i løvstrø i eikeskoger og eviggrønne blandingsskoger, fra det nordlige Baja California gjennom kystnære deler av California og i forfjellene til Sierra Nevada. Fruktifiserer hovedsakelig fra november til april; de enkelte fruktlegemene modnes langsomt over tre til åtte uker eller mer.",
+      "uses": "En utmerket matsopp som er sanket kommersielt i California siden minst 1970-tallet; den oppnår ofte høyere priser enn andre Cantharellus-arter fordi den fruktifiserer om vinteren og våren, selv om noen kokker synes den er mer trådet og mindre aromatisk. Spis bare eksemplarer som er bestemt med sikkerhet: den giftige Omphalotus olivascens vokser også i California og kan forveksles med den.",
+      "confusion": "Den giftige Omphalotus olivascens har ekte, tynne, plateformede skiver, oransje farger med olivenfargede toner og en ofte eksentrisk stilk, og vokser i knipper på ved eller ved foten av løvtrær. Cantharellus formosus er som regel mindre og slankere, med lengre stilk og i tørt vær en gråbrun trådet hatt, og vokser med bartrær. Cantharellus roseocanus har et klarere, gulere hymenium og vokser med gran og furu. Hygrophoropsis aurantiaca har tynne, klart oransje, gaffeldelte ekte skiver. Turbinellus floccosus er trompetformet med en skjellete oransje hatt.",
+      "notes": "Beskrevet i 2008 av David Arora og Susie Dunham på grunnlag av en holotype samlet under Quercus agrifolia i Marin County; før det ble den som regel registrert som Cantharellus cibarius. Dens nærmeste slektning er Cantharellus formosus, som den også skiller seg fra i DNA. Siden 1. januar 2024 har den vært Californias offisielle delstatssopp i henhold til loven Assembly Bill 261, som ble undertegnet i oktober 2023. IUCNs rødliste (2021) vurderer den foreløpig som livskraftig (Least Concern), selv om tap av leveområder, blant annet skader på Quercus agrifolia forårsaket av sykdommen sudden oak death (Phytophthora ramorum), trolig fører til en tilbakegang.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "pl": {
+      "description": "Duży, mięsisty przedstawiciel rodzaju Cantharellus z Kalifornii i północnej części Kalifornii Dolnej, rosnący pojedynczo lub gromadnie w ściółce liściowej pod zimozielonymi dębami. Uważany jest za największy gatunek rodzaju Cantharellus na świecie: dojrzałe owocniki zwykle ważą pół kilograma lub więcej, a okazy ważące ponad jeden kilogram nie są rzadkie.",
+      "cap": "Średnicy 8–30 cm lub więcej, początkowo szeroko wypukły, potem falisty, wklęsły, wazonowaty lub nieregularny, często z dużą ilością przylepionej ziemi i liści. Jaskrawo do matowo żółtopomarańczowy, czasem z bladym różowawo-morelowym odcieniem; starsze kapelusze mogą brązowieć lub płowieć na słońcu. Gładki w stanie wilgotnym, za młodu i w suchą pogodę delikatnie włókienkowaty; po dłuższym dotykaniu pojawiają się na nim ciemnoochrowe do pomarańczowobrązowych plamy.",
+      "hymenium": "Tępe, głęboko zbiegające listewki (fałszywe blaszki) grubości 1–2 mm, oddalone o 2–4 mm, za młodu rozwidlone i połączone; z wiekiem poprzeczne żyłki pogłębiają się, aż hymenium często wygląda niemal porowato. Zwykle jaśniejsze od kapelusza, ale z odcieniem jego barwy, czasem jaskrawo żółtopomarańczowe lub lekko różowawe. Podstawki mają 80–95 × 6–9 µm i wytwarzają 4–8 zarodników; sprzążki są rozproszone i niepozorne.",
+      "stipe": "Długości 3–9 cm i grubości 1,5–4 cm, pełny i krępy, zwykle równogruby lub zwężający się ku podstawie, czasem u podstawy lekko zgrubiały. Barwy kapelusza lub jaśniejszy, w miejscach dotyku często ciemniejszy. Brak pierścienia i pochwy.",
+      "flesh": "Gruby i włóknisty, bardzo gruby w środku kapelusza, przy brzegu tylko około 3 mm; biały, jedynie tuż pod skórką kapelusza z żółtopomarańczowym odcieniem, po przekrojeniu wyraźnie nie przebarwia się. Zapach słabo owocowy, przypominający dynię; smak zwykle łagodny, choć jeden zbiór z bardzo suchych warunków był silnie gorzki.",
+      "sporePrint": "Żółtawy. Zarodniki 7–12 × 5–8 µm, średnio około 9,3 × 6,5 µm, prawie kuliste do elipsoidalnych, gładkie, z dużymi kroplami oleju.",
+      "habitat": "Tworzy ektomikoryzę głównie z dębem Quercus agrifolia, a także z Quercus parvula var. shrevei, Quercus wislizeni, Quercus kelloggii, Quercus chrysolepis oraz z gatunkiem Notholithocarpus densiflorus. Rośnie na ziemi w ściółce liściowej w lasach dębowych i mieszanych lasach zimozielonych, od północnej części Kalifornii Dolnej przez przybrzeżną Kalifornię oraz na pogórzu Sierra Nevada. Owocniki pojawiają się głównie od listopada do kwietnia; pojedyncze owocniki dojrzewają powoli, przez trzy do ośmiu tygodni lub dłużej.",
+      "uses": "Wyborny grzyb jadalny, zbierany komercyjnie w Kalifornii co najmniej od lat 1970.; często osiąga wyższe ceny niż inne gatunki rodzaju Cantharellus, ponieważ owocnikuje zimą i wiosną, choć niektórzy kucharze uważają go za bardziej włóknisty i mniej aromatyczny. Spożywaj tylko okazy oznaczone z całą pewnością: trujący Omphalotus olivascens również rośnie w Kalifornii i może zostać z nim pomylony.",
+      "confusion": "Trujący Omphalotus olivascens ma prawdziwe, cienkie, płytkowate blaszki, pomarańczową barwę z oliwkowymi tonami i często mimośrodowy trzon, a rośnie w kępach na drewnie lub u podstawy drzew liściastych. Cantharellus formosus jest zwykle mniejszy i smuklejszy, z dłuższym trzonem i w suchą pogodę z szarobrązowym, włókienkowatym kapeluszem, i rośnie z drzewami iglastymi. Cantharellus roseocanus ma jaskrawsze, bardziej żółte hymenium i rośnie przy świerkach i sosnach. Hygrophoropsis aurantiaca ma cienkie, jaskrawopomarańczowe, rozwidlone prawdziwe blaszki. Turbinellus floccosus jest trąbkowaty, z łuskowatym pomarańczowym kapeluszem.",
+      "notes": "Opisany w 2008 roku przez Davida Arorę i Susie Dunham na podstawie holotypu zebranego pod dębem Quercus agrifolia w hrabstwie Marin; wcześniej zwykle notowano go jako Cantharellus cibarius. Jego najbliższym krewnym jest Cantharellus formosus, od którego różni się także DNA. Od 1 stycznia 2024 roku jest oficjalnym grzybem stanu Kalifornia na mocy ustawy Assembly Bill 261 podpisanej w październiku 2023 roku. Czerwona Lista IUCN (2021) wstępnie klasyfikuje go jako gatunek najmniejszej troski (Least Concern), choć utrata siedlisk, w tym niszczenie dębów Quercus agrifolia przez chorobę sudden oak death (Phytophthora ramorum), prawdopodobnie powoduje jego spadek liczebności.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "pt": {
+      "description": "Um membro grande e carnudo do gênero Cantharellus da Califórnia e do norte da Baixa Califórnia, que cresce isolado ou gregário na serapilheira sob carvalhos perenifólios. É considerado a maior espécie de Cantharellus do mundo: os corpos de frutificação maduros pesam frequentemente meio quilograma ou mais, e exemplares com mais de um quilograma não são raros.",
+      "cap": "Com 8–30 cm ou mais de diâmetro, inicialmente amplamente convexo, depois ondulado, côncavo, em forma de vaso ou irregular, muitas vezes com muita terra e folhas aderentes. Amarelo-alaranjado vivo a opaco, por vezes com um tom pálido de damasco rosado; os chapéus velhos podem escurecer ou descolorar ao sol. Liso quando úmido, finamente fibriloso quando jovem e em tempo seco; após manuseio prolongado desenvolve manchas ocre-escuras a marrom-alaranjadas.",
+      "hymenium": "Falsas lâminas (pregas) obtusas, longamente decorrentes, com 1–2 mm de espessura e afastadas 2–4 mm, bifurcadas e interligadas nos exemplares jovens; com a idade as nervuras transversais aprofundam-se até o himênio parecer muitas vezes quase poroide. Geralmente mais pálidas do que o chapéu mas tingidas da sua cor, por vezes amarelo-alaranjado vivo ou ligeiramente rosadas. Os basídios medem 80–95 × 6–9 µm e produzem 4–8 esporos; os grampos de conexão são dispersos e pouco visíveis.",
+      "stipe": "Com 3–9 cm de comprimento e 1,5–4 cm de espessura, maciço e robusto, geralmente cilíndrico ou afilado para a base, por vezes ligeiramente engrossado na base. Da cor do chapéu ou mais pálido, muitas vezes mais escuro onde foi manuseado. Não tem anel nem volva.",
+      "flesh": "Espessa e fibrosa, muito espessa no centro do chapéu mas com apenas cerca de 3 mm junto à margem; branca, exceto um tom amarelo-alaranjado logo abaixo da superfície do chapéu, não mancha de forma apreciável ao corte. Odor levemente frutado, a lembrar abóbora; sabor geralmente suave, embora uma colheita em condições muito secas fosse fortemente amarga.",
+      "sporePrint": "Amarelada. Esporos com 7–12 × 5–8 µm, em média cerca de 9,3 × 6,5 µm, subglobosos a elipsoides, lisos, com grandes gotas de óleo.",
+      "habitat": "Ectomicorrízico, sobretudo com Quercus agrifolia, e também com Quercus parvula var. shrevei, Quercus wislizeni, Quercus kelloggii, Quercus chrysolepis e Notholithocarpus densiflorus. Cresce no solo, na serapilheira de carvalhais e florestas mistas perenifólias, desde o norte da Baixa Califórnia pela Califórnia costeira e no sopé da Serra Nevada. Frutifica sobretudo de novembro a abril; cada corpo de frutificação amadurece lentamente, ao longo de três a oito semanas ou mais.",
+      "uses": "Um comestível excelente, colhido comercialmente na Califórnia pelo menos desde a década de 1970; atinge muitas vezes preços mais altos do que outras espécies de Cantharellus porque frutifica no inverno e na primavera, embora alguns chefs o considerem mais fibroso e menos aromático. Consuma apenas exemplares identificados com certeza: o venenoso Omphalotus olivascens também cresce na Califórnia e pode ser confundido com ele.",
+      "confusion": "O venenoso Omphalotus olivascens tem lâminas verdadeiras, finas e laminares, cores alaranjadas com tons oliváceos e um estipe muitas vezes excêntrico, e cresce em tufos sobre madeira ou na base de árvores folhosas. Cantharellus formosus é geralmente menor e esguio, com estipe mais comprido e chapéu fibriloso marrom-acinzentado em tempo seco, e cresce com coníferas. Cantharellus roseocanus tem um himênio mais vivo e amarelo e cresce com píceas e pinheiros. Hygrophoropsis aurantiaca tem lâminas verdadeiras finas, laranja-vivo e bifurcadas. Turbinellus floccosus tem forma de trompete e chapéu alaranjado escamoso.",
+      "notes": "Descrito em 2008 por David Arora e Susie Dunham a partir de um holótipo colhido sob Quercus agrifolia no condado de Marin; antes era geralmente registrado como Cantharellus cibarius. Seu parente mais próximo é Cantharellus formosus, do qual também difere no ADN. Desde 1 de janeiro de 2024 é o cogumelo oficial do estado da Califórnia, ao abrigo da lei Assembly Bill 261 assinada em outubro de 2023. A Lista Vermelha da UICN (2021) avalia-o provisoriamente como pouco preocupante (Least Concern), embora a perda de habitat, incluindo os danos em Quercus agrifolia causados pela doença sudden oak death (Phytophthora ramorum), esteja provavelmente causando um declínio.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "Un membru mare și cărnos al genului Cantharellus din California și din nordul Californiei de Jos, care crește solitar sau gregar în litiera de frunze de sub stejarii veșnic verzi. Este considerat cea mai mare specie de Cantharellus din lume: corpurile fructifere mature cântăresc frecvent o jumătate de kilogram sau mai mult, iar exemplarele de peste un kilogram nu sunt rare.",
+      "cap": "Lată de 8–30 cm sau mai mult, la început larg convexă, apoi ondulată, concavă, în formă de vază sau neregulată, adesea cu mult pământ și frunze aderente. Galben-portocalie vie până la mată, uneori cu o nuanță palidă de caisă rozalie; pălăriile mai vechi se pot brunifica sau decolora la soare. Netedă pe vreme umedă, fin fibriloasă când e tânără și pe vreme uscată; după manipulare îndelungată apar pete ocru-închis până la brun-portocalii.",
+      "hymenium": "Pliuri (lamele false) obtuze, lung decurente, groase de 1–2 mm și distanțate la 2–4 mm, bifurcate și interconectate la exemplarele tinere; odată cu vârsta, nervurile transversale se adâncesc până când himeniul pare adesea aproape poros. De obicei mai palide decât pălăria, dar nuanțate de culoarea ei, uneori galben-portocalii vii sau ușor rozalii. Bazidiile măsoară 80–95 × 6–9 µm și poartă 4–8 spori; ansele sunt răzlețe și discrete.",
+      "stipe": "Lung de 3–9 cm și gros de 1,5–4 cm, plin și robust, de obicei egal sau îngustat spre bază, uneori ușor umflat la bază. De culoarea pălăriei sau mai palid, adesea mai închis acolo unde a fost atins. Nu are inel și nici volvă.",
+      "flesh": "Groasă și fibroasă, foarte groasă în centrul pălăriei, dar de numai circa 3 mm lângă margine; albă, cu excepția unei nuanțe galben-portocalii chiar sub suprafața pălăriei, nu se colorează vizibil la tăiere. Mirosul este slab fructat, amintind de dovleac; gustul este de obicei blând, deși o recoltă din condiții foarte uscate a fost puternic amară.",
+      "sporePrint": "Gălbuie. Spori de 7–12 × 5–8 µm, în medie circa 9,3 × 6,5 µm, subglobuloși până la elipsoidali, netezi, cu picături mari de ulei.",
+      "habitat": "Formează ectomicorize în principal cu Quercus agrifolia, precum și cu Quercus parvula var. shrevei, Quercus wislizeni, Quercus kelloggii, Quercus chrysolepis și Notholithocarpus densiflorus. Crește pe sol, în litiera de frunze din pădurile de stejar și din pădurile mixte veșnic verzi, din nordul Californiei de Jos prin California de coastă și la poalele munților Sierra Nevada. Fructifică mai ales din noiembrie până în aprilie; fiecare corp fructifer se maturizează încet, în trei până la opt săptămâni sau mai mult.",
+      "uses": "O ciupercă comestibilă excelentă, recoltată comercial în California cel puțin din anii 1970; adesea obține prețuri mai mari decât alte specii de Cantharellus, deoarece fructifică iarna și primăvara, deși unii bucătari o consideră mai fibroasă și mai puțin aromată. Consumați doar exemplare identificate cu certitudine: otrăvitoarea Omphalotus olivascens crește și ea în California și poate fi confundată cu aceasta.",
+      "confusion": "Otrăvitoarea Omphalotus olivascens are lamele adevărate, subțiri, ca niște plăci, culori portocalii cu tonuri de măsliniu și un picior adesea excentric și crește în tufe pe lemn sau la baza foioaselor. Cantharellus formosus este de obicei mai mic și mai zvelt, cu picior mai lung și pe vreme uscată cu pălărie fibriloasă brun-cenușie, și crește cu conifere. Cantharellus roseocanus are un himeniu mai viu și mai galben și crește cu molizi și pini. Hygrophoropsis aurantiaca are lamele adevărate subțiri, portocaliu-aprins și bifurcate. Turbinellus floccosus are formă de trompetă, cu pălărie portocalie solzoasă.",
+      "notes": "Descrisă în 2008 de David Arora și Susie Dunham pe baza unui holotip colectat sub Quercus agrifolia în comitatul Marin; înainte era de obicei înregistrată ca Cantharellus cibarius. Ruda sa cea mai apropiată este Cantharellus formosus, de care se deosebește și prin ADN. Din 1 ianuarie 2024 este ciuperca oficială a statului California, conform legii Assembly Bill 261 semnate în octombrie 2023. Lista Roșie IUCN (2021) o evaluează provizoriu ca neamenințată (Least Concern), deși pierderea habitatului, inclusiv daunele produse la Quercus agrifolia de boala sudden oak death (Phytophthora ramorum), provoacă probabil un declin.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Крупный мясистый представитель рода Cantharellus из Калифорнии и северной части Нижней Калифорнии, растущий одиночно или группами в листовой подстилке под вечнозелёными дубами. Считается самым крупным видом рода Cantharellus в мире: зрелые плодовые тела обычно весят полкилограмма и больше, а экземпляры массой свыше одного килограмма не редкость.",
+      "cap": "Шириной 8–30 cm и более, сначала широковыпуклая, затем волнистая, вогнутая, вазовидная или неправильной формы, часто с большим количеством приставшей почвы и листьев. Ярко- или тускло-жёлто-оранжевая, иногда с бледным розовато-абрикосовым оттенком; старые шляпки могут буреть или выцветать на солнце. Во влажную погоду гладкая, в молодости и в сухую погоду тонковолокнистая; после долгого прикосновения на ней появляются тёмно-охристые или оранжево-бурые пятна.",
+      "hymenium": "Тупые, глубоко нисбегающие складки (ложные пластинки) толщиной 1–2 mm, расположенные на расстоянии 2–4 mm, у молодых плодовых тел вильчато ветвящиеся и соединённые между собой; с возрастом поперечные жилки углубляются, и гименофор часто выглядит почти пористым. Обычно бледнее шляпки, но с оттенком её цвета, иногда ярко-жёлто-оранжевые или слегка розоватые. Базидии размером 80–95 × 6–9 µm несут по 4–8 спор; пряжки рассеянные и малозаметные.",
+      "stipe": "Длиной 3–9 cm и толщиной 1,5–4 cm, сплошная и коренастая, обычно ровная или суженная к основанию, иногда у основания слегка утолщённая. Окрашена как шляпка или бледнее, в местах прикосновения часто темнее. Кольца и вольвы нет.",
+      "flesh": "Толстая и волокнистая, очень толстая в центре шляпки, но лишь около 3 mm у края; белая, кроме жёлто-оранжевого оттенка непосредственно под поверхностью шляпки, на срезе заметно не окрашивается. Запах слабый фруктовый, напоминающий тыкву; вкус обычно мягкий, хотя один сбор из очень сухих условий был сильно горьким.",
+      "sporePrint": "Желтоватый. Споры 7–12 × 5–8 µm, в среднем около 9,3 × 6,5 µm, почти шаровидные до эллипсоидных, гладкие, с крупными каплями масла.",
+      "habitat": "Образует эктомикоризу преимущественно с Quercus agrifolia, а также с Quercus parvula var. shrevei, Quercus wislizeni, Quercus kelloggii, Quercus chrysolepis и Notholithocarpus densiflorus. Растёт на почве в листовой подстилке дубовых лесов и вечнозелёных смешанных лесов, от северной части Нижней Калифорнии через прибрежную Калифорнию и в предгорьях Сьерра-Невады. Плодоносит главным образом с ноября по апрель; отдельные плодовые тела созревают медленно, за три–восемь недель или дольше.",
+      "uses": "Превосходный съедобный гриб, коммерчески заготавливаемый в Калифорнии по меньшей мере с 1970-х годов; он часто стоит дороже других видов рода Cantharellus, поскольку плодоносит зимой и весной, хотя некоторые повара считают его более волокнистым и менее ароматным. Употребляйте в пищу только достоверно определённые экземпляры: ядовитый Omphalotus olivascens тоже растёт в Калифорнии, и его можно спутать с этим видом.",
+      "confusion": "Ядовитый Omphalotus olivascens имеет настоящие тонкие пластинки, оранжевую окраску с оливковыми тонами и часто эксцентричную ножку и растёт пучками на древесине или у основания лиственных деревьев. Cantharellus formosus обычно мельче и стройнее, с более длинной ножкой и в сухую погоду с серовато-бурой волокнистой шляпкой, растёт с хвойными деревьями. У Cantharellus roseocanus гименофор ярче и желтее, он растёт с елями и соснами. Hygrophoropsis aurantiaca имеет тонкие ярко-оранжевые вильчатые настоящие пластинки. Turbinellus floccosus трубовидный, с чешуйчатой оранжевой шляпкой.",
+      "notes": "Описан в 2008 году Дэвидом Аророй и Сьюзи Данэм (David Arora, Susie Dunham) по голотипу, собранному под Quercus agrifolia в округе Марин; прежде его обычно регистрировали как Cantharellus cibarius. Ближайший родственник — Cantharellus formosus, от которого он отличается и по ДНК. С 1 января 2024 года это официальный гриб штата Калифорния согласно закону Assembly Bill 261, подписанному в октябре 2023 года. Красный список МСОП (2021) предварительно относит его к видам, вызывающим наименьшие опасения (Least Concern), хотя утрата местообитаний, включая повреждение Quercus agrifolia болезнью sudden oak death (Phytophthora ramorum), вероятно, ведёт к сокращению численности.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sk": {
+      "description": "Veľký, mäsitý zástupca rodu Cantharellus z Kalifornie a severnej časti Baja California, ktorý rastie jednotlivo alebo v skupinách v listovej opadanke pod vždyzelenými dubmi. Považuje sa za najväčší druh rodu Cantharellus na svete: zrelé plodnice bežne vážia pol kilogramu aj viac a exempláre s hmotnosťou nad jeden kilogram nie sú zriedkavé.",
+      "cap": "Široký 8–30 cm aj viac, spočiatku široko klenutý, neskôr zvlnený, preliačený, vázovitý alebo nepravidelný, často s množstvom prilepenej zeminy a lístia. Žiarivo až matne žltooranžový, niekedy s bledým ružovkasto marhuľovým nádychom; staršie klobúky môžu hnednúť alebo na slnku vyblednúť. Za vlhka hladký, v mladosti a za sucha jemne vláknitý; po dlhšom manipulovaní sa na ňom tvoria tmavookrové až oranžovohnedé škvrny.",
+      "hymenium": "Tupé, hlboko zbiehavé lišty (nepravé lupene) hrubé 1–2 mm a vzdialené 2–4 mm, v mladosti vidlicovito rozvetvené a pospájané; s vekom sa priečne žilky prehlbujú, až hymenium často vyzerá takmer pórovito. Zvyčajne svetlejšie ako klobúk, no s nádychom jeho farby, niekedy žiarivo žltooranžové alebo mierne ružovkasté. Bazídie merajú 80–95 × 6–9 µm a nesú 4–8 výtrusov; prezky sú roztrúsené a nenápadné.",
+      "stipe": "Dlhý 3–9 cm a hrubý 1,5–4 cm, plný a zavalitý, zvyčajne rovnako hrubý alebo k báze zúžený, niekedy na báze mierne zdurený. Farby klobúka alebo svetlejší, v miestach dotyku často tmavší. Prsteň ani pošva nie sú.",
+      "flesh": "Hrubá a vláknitá, v strede klobúka veľmi hrubá, pri okraji len asi 3 mm; biela, len tesne pod povrchom klobúka so žltooranžovým nádychom, po prerezaní sa výrazne nesfarbuje. Vôňa slabo ovocná, pripomínajúca tekvicu; chuť zvyčajne mierna, hoci jeden zber z veľmi suchých podmienok bol silne horký.",
+      "sporePrint": "Žltkastý. Výtrusy merajú 7–12 × 5–8 µm, v priemere asi 9,3 × 6,5 µm, sú takmer guľovité až elipsoidné, hladké, s veľkými olejovými kvapkami.",
+      "habitat": "Tvorí ektomykorízu najmä s dubom Quercus agrifolia, ďalej s Quercus parvula var. shrevei, Quercus wislizeni, Quercus kelloggii, Quercus chrysolepis a s druhom Notholithocarpus densiflorus. Rastie na pôde v listovej opadanke v dubových lesoch a zmiešaných vždyzelených lesoch, od severnej časti Baja California cez pobrežnú Kaliforniu a na úpätí pohoria Sierra Nevada. Plodí hlavne od novembra do apríla; jednotlivé plodnice dozrievajú pomaly, tri až osem týždňov aj dlhšie.",
+      "uses": "Výborná jedlá huba, v Kalifornii komerčne zbieraná najmenej od 1970-tych rokov; často dosahuje vyššie ceny ako iné druhy rodu Cantharellus, pretože plodí v zime a na jar, hoci niektorí kuchári ju považujú za vláknitejšiu a menej aromatickú. Jedzte iba s istotou určené plodnice: jedovatý Omphalotus olivascens rastie tiež v Kalifornii a možno ho s ňou zameniť.",
+      "confusion": "Jedovatý Omphalotus olivascens má pravé, tenké, doštičkovité lupene, oranžové sfarbenie s olivovými tónmi a často výstredný hlúbik a rastie v trsoch na dreve alebo pri báze listnatých stromov. Cantharellus formosus je zvyčajne menší a štíhlejší, s dlhším hlúbikom a za sucha so sivohnedým vláknitým klobúkom a rastie pri ihličnanoch. Cantharellus roseocanus má žiarivejšie, žltšie hymenium a rastie pri smrekoch a boroviciach. Hygrophoropsis aurantiaca má tenké, jasne oranžové, vidlicovito sa vetviace pravé lupene. Turbinellus floccosus je trúbkovitý so šupinatým oranžovým klobúkom.",
+      "notes": "Opísali ho v roku 2008 David Arora a Susie Dunham podľa holotypu zbieraného pod dubom Quercus agrifolia v okrese Marin; predtým sa zvyčajne evidoval ako Cantharellus cibarius. Jeho najbližším príbuzným je Cantharellus formosus, od ktorého sa líši aj v DNA. Od 1. januára 2024 je oficiálnou hubou štátu Kalifornia podľa zákona Assembly Bill 261 podpísaného v októbri 2023. Červený zoznam IUCN (2021) ho predbežne hodnotí ako najmenej ohrozený (Least Concern), hoci strata biotopov vrátane poškodenia dubov Quercus agrifolia chorobou sudden oak death (Phytophthora ramorum) pravdepodobne spôsobuje jeho úbytok.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sl": {
+      "description": "Velik, mesnat predstavnik rodu Cantharellus iz Kalifornije in severnega dela Spodnje Kalifornije, ki raste posamič ali v skupinah v listnem opadu pod zimzelenimi hrasti. Velja za največjo vrsto rodu Cantharellus na svetu: zreli trosnjaki običajno tehtajo pol kilograma ali več, primerki, težji od enega kilograma, pa niso redki.",
+      "cap": "Širok 8–30 cm ali več, sprva široko izbočen, nato valovit, vbočen, vazast ali nepravilen, pogosto z veliko prilepljene prsti in listja. Živo do motno rumenooranžen, včasih z bledim rožnatim odtenkom marelice; starejši klobuki lahko porjavijo ali na soncu zbledijo. Ob vlažnem vremenu gladek, v mladosti in ob suhem vremenu drobno vlaknat; po daljšem prijemanju se na njem pojavijo temno okraste do oranžnorjave lise.",
+      "hymenium": "Tope, globoko pobegle gube (nepravi listi), debele 1–2 mm in razmaknjene 2–4 mm, pri mladih trosnjakih vilasto razvejene in povezane; s starostjo se prečne žilice poglobijo, dokler himenij pogosto ne deluje skoraj luknjičasto. Običajno svetlejše od klobuka, a z odtenkom njegove barve, včasih živo rumenooranžne ali rahlo rožnate. Bazidiji merijo 80–95 × 6–9 µm in nosijo 4–8 trosov; zaponke so razpršene in neopazne.",
+      "stipe": "Dolg 3–9 cm in debel 1,5–4 cm, poln in čokat, običajno enako debel ali proti dnu zožen, včasih ob dnu rahlo odebeljen. Barve klobuka ali svetlejši, na prijetih mestih pogosto temnejši. Obročka in nožnice ni.",
+      "flesh": "Debelo in vlaknato, v sredini klobuka zelo debelo, ob robu pa le okoli 3 mm; belo, razen rumenooranžnega odtenka tik pod površino klobuka, ob prerezu se opazno ne obarva. Vonj je šibko sadni in spominja na bučo; okus je običajno mil, čeprav je bila ena najdba iz zelo suhih razmer močno grenka.",
+      "sporePrint": "Rumenkast. Trosi merijo 7–12 × 5–8 µm, v povprečju okoli 9,3 × 6,5 µm, so skoraj kroglasti do elipsoidni, gladki, z velikimi oljnimi kapljicami.",
+      "habitat": "Tvori ektomikorizo predvsem s Quercus agrifolia, pa tudi s Quercus parvula var. shrevei, Quercus wislizeni, Quercus kelloggii, Quercus chrysolepis in Notholithocarpus densiflorus. Raste na tleh v listnem opadu hrastovih gozdov in zimzelenih mešanih gozdov, od severnega dela Spodnje Kalifornije prek obalne Kalifornije ter ob vznožju Sierre Nevade. Trosnjake tvori predvsem od novembra do aprila; posamezni trosnjaki dozorevajo počasi, v treh do osmih tednih ali dlje.",
+      "uses": "Odlična užitna goba, ki jo v Kaliforniji komercialno nabirajo vsaj od 1970-ih let; pogosto dosega višje cene kot druge vrste rodu Cantharellus, ker tvori trosnjake pozimi in spomladi, čeprav jo nekateri kuharji štejejo za bolj vlaknato in manj aromatično. Uživajte le zanesljivo določene primerke: strupena Omphalotus olivascens prav tako raste v Kaliforniji in jo je mogoče zamenjati z njo.",
+      "confusion": "Strupena Omphalotus olivascens ima prave, tanke, ploščate lističe, oranžno barvo z olivnimi odtenki in pogosto izsrediščen bet ter raste v šopih na lesu ali ob vznožju listavcev. Cantharellus formosus je običajno manjši in vitkejši, z daljšim betom in ob suhem vremenu sivorjavim vlaknatim klobukom, raste pa ob iglavcih. Cantharellus roseocanus ima živahnejši, bolj rumen himenij in raste ob smrekah in borih. Hygrophoropsis aurantiaca ima tanke, živo oranžne, vilaste prave lističe. Turbinellus floccosus je trobentast, z luskastim oranžnim klobukom.",
+      "notes": "Leta 2008 sta jo opisala David Arora in Susie Dunham na podlagi holotipa, nabranega pod Quercus agrifolia v okrožju Marin; pred tem so jo običajno beležili kot Cantharellus cibarius. Njen najbližji sorodnik je Cantharellus formosus, od katerega se razlikuje tudi v DNK. Od 1. januarja 2024 je uradna goba zvezne države Kalifornije na podlagi zakona Assembly Bill 261, podpisanega oktobra 2023. Rdeči seznam IUCN (2021) jo začasno ocenjuje kot najmanj ogroženo (Least Concern), čeprav izguba habitatov, vključno s poškodbami vrste Quercus agrifolia zaradi bolezni sudden oak death (Phytophthora ramorum), verjetno povzroča njeno upadanje.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sr": {
+      "description": "Велики, меснати представник рода Cantharellus из Калифорније и северног дела Доње Калифорније, који расте појединачно или у групама у листинцу под зимзеленим храстовима. Сматра се највећом врстом рода Cantharellus на свету: зрела плодишта обично теже пола килограма или више, а примерци тежи од једног килограма нису ретки.",
+      "cap": "Широк 8–30 cm или више, у почетку широко испупчен, затим таласаст, удубљен, вазаст или неправилан, често са много прилепљене земље и лишћа. Живо до мутно жутонаранџаст, понекад са бледом ружичастом нијансом боје кајсије; старији шешири могу да посмеђе или избледе на сунцу. Гладак по влажном времену, у младости и по сувом времену фино влакнаст; после дужег руковања на њему настају тамноокерне до наранџастосмеђе мрље.",
+      "hymenium": "Тупи, дубоко силазни набори (лажни листићи), дебели 1–2 mm и размакнути 2–4 mm, код младих плодишта рачвасто разгранати и међусобно повезани; с временом се попречне жилице продубљују, док хименијум често не изгледа готово порозно. Обично светлији од шешира, али са нијансом његове боје, понекад живо жутонаранџасти или благо ружичасти. Базидије мере 80–95 × 6–9 µm и носе 4–8 спора; копче су раштркане и неупадљиве.",
+      "stipe": "Дуга 3–9 cm и дебела 1,5–4 cm, пуна и здепаста, обично једнако дебела или ка дну сужена, понекад при дну благо задебљана. Боје шешира или светлија, на додирнутим местима често тамнија. Нема прстена ни вулве.",
+      "flesh": "Дебело и влакнасто, у средини шешира веома дебело, а уз обод само око 3 mm; бело, осим жутонаранџасте нијансе непосредно испод површине шешира, на пресеку се приметно не мења. Мирис слабо воћни, подсећа на бундеву; укус обично благ, мада је један налаз из веома сувих услова био изразито горак.",
+      "sporePrint": "Жућкаст. Споре 7–12 × 5–8 µm, просечно око 9,3 × 6,5 µm, готово лоптасте до елипсоидне, глатке, са великим капљицама уља.",
+      "habitat": "Образује ектомикоризу пре свега са Quercus agrifolia, као и са Quercus parvula var. shrevei, Quercus wislizeni, Quercus kelloggii, Quercus chrysolepis и Notholithocarpus densiflorus. Расте на тлу у листинцу храстових шума и зимзелених мешовитих шума, од северног дела Доње Калифорније кроз приобалну Калифорнију и у подножју Сијера Неваде. Плоди углавном од новембра до априла; појединачна плодишта сазревају споро, током три до осам недеља или дуже.",
+      "uses": "Одлична јестива гљива, у Калифорнији комерцијално сакупљана најмање од 1970-их; често постиже више цене од других врста рода Cantharellus јер плоди зими и у пролеће, иако је неки кувари сматрају влакнастијом и мање ароматичном. Једите само поуздано одређене примерке: отровна Omphalotus olivascens такође расте у Калифорнији и може се с њом заменити.",
+      "confusion": "Отровна Omphalotus olivascens има праве, танке, плочасте листиће, наранџасту боју са маслинастим тоновима и често ексцентричну дршку и расте у бусенима на дрвету или у подножју листопадног дрвећа. Cantharellus formosus је обично мањи и витији, са дужом дршком и по сувом времену сивосмеђим влакнастим шеширом, и расте уз четинаре. Cantharellus roseocanus има живљи, жући хименијум и расте уз смрче и борове. Hygrophoropsis aurantiaca има танке, живо наранџасте, рачвасте праве листиће. Turbinellus floccosus је трубаст, са љуспастим наранџастим шеширом.",
+      "notes": "Описали су је 2008. године David Arora и Susie Dunham према холотипу сакупљеном под Quercus agrifolia у округу Марин; пре тога обично се бележила као Cantharellus cibarius. Најближи сродник јој је Cantharellus formosus, од којег се разликује и по ДНК. Од 1. јануара 2024. званична је гљива савезне државе Калифорније према закону Assembly Bill 261 потписаном у октобру 2023. Црвена листа IUCN (2021) привремено је оцењује као најмање угрожену (Least Concern), иако губитак станишта, укључујући оштећење врсте Quercus agrifolia болешћу sudden oak death (Phytophthora ramorum), вероватно узрокује њено опадање.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En stor, köttig art i släktet Cantharellus från Kalifornien och norra Baja California, som växer ensam eller i grupper i lövförnan under vintergröna ekar. Den anses vara världens största Cantharellus-art: mogna fruktkroppar väger ofta ett halvt kilo eller mer, och exemplar på över ett kilo är inte sällsynta.",
+      "cap": "8–30 cm eller mer bred, först brett välvd, senare vågig, nedsänkt, vasformad eller oregelbunden, ofta med mycket vidhäftande jord och löv. Klart till matt gulorange, ibland svagt blekt rosa-aprikosfärgad; äldre hattar kan bli brunare eller blekna i solljus. Slät i fuktigt väder, fint trådig som ung och i torrt väder; efter långvarig hantering uppstår mörkt ockrafärgade till orangebruna fläckar.",
+      "hymenium": "Trubbiga, långt nedlöpande åsar (falska skivor), 1–2 mm tjocka och 2–4 mm från varandra, gaffelgrenade och sammanbundna hos unga fruktkroppar; med åldern fördjupas tvärådrorna tills hymeniet ofta ser nästan poröst ut. Oftast blekare än hatten men med en ton av dess färg, ibland klart gulorange eller svagt rosa. Basidierna mäter 80–95 × 6–9 µm och bär 4–8 sporer; söljor är spridda och oansenliga.",
+      "stipe": "3–9 cm lång och 1,5–4 cm tjock, massiv och kraftig, oftast jämntjock eller avsmalnande mot basen, ibland svagt uppsvälld vid basen. Färgad som hatten eller blekare, ofta mörkare där den hanterats. Ring och volva saknas.",
+      "flesh": "Tjockt och trådigt, mycket tjockt i hattens mitt men bara omkring 3 mm nära kanten; vitt utom en gulorange ton strax under hattens yta, missfärgas inte märkbart vid snitt. Lukten är svagt fruktig och påminner om pumpa; smaken är oftast mild, men en insamling från mycket torra förhållanden var starkt bitter.",
+      "sporePrint": "Gulaktigt. Sporer 7–12 × 5–8 µm, i genomsnitt omkring 9,3 × 6,5 µm, nästan klotrunda till ellipsoida, släta, med stora oljedroppar.",
+      "habitat": "Bildar ektomykorrhiza främst med Quercus agrifolia och även med Quercus parvula var. shrevei, Quercus wislizeni, Quercus kelloggii, Quercus chrysolepis och Notholithocarpus densiflorus. Växer på marken i lövförna i ekskogar och vintergröna blandskogar, från norra Baja California genom kustnära Kalifornien och i Sierra Nevadas förberg. Fruktifierar främst från november till april; enskilda fruktkroppar mognar långsamt under tre till åtta veckor eller mer.",
+      "uses": "En utmärkt matsvamp som plockats kommersiellt i Kalifornien sedan åtminstone 1970-talet; den betingar ofta högre priser än andra Cantharellus-arter eftersom den fruktifierar på vintern och våren, även om vissa kockar tycker att den är trådigare och mindre aromatisk. Ät bara exemplar som artbestämts med säkerhet: den giftiga Omphalotus olivascens växer också i Kalifornien och kan förväxlas med den.",
+      "confusion": "Den giftiga Omphalotus olivascens har äkta, tunna, plattformade skivor, orange färger med olivfärgade toner och en ofta excentrisk fot, och växer i tuvor på ved eller vid foten av lövträd. Cantharellus formosus är oftast mindre och slankare, med längre fot och i torrt väder en gråbrun trådig hatt, och växer med barrträd. Cantharellus roseocanus har ett klarare, gulare hymenium och växer med gran och tall. Hygrophoropsis aurantiaca har tunna, klart orange, gaffelgrenade äkta skivor. Turbinellus floccosus är trumpetformad med en fjällig orange hatt.",
+      "notes": "Beskrevs 2008 av David Arora och Susie Dunham utifrån en holotyp insamlad under Quercus agrifolia i Marin County; dessförinnan registrerades den oftast som Cantharellus cibarius. Dess närmaste släkting är Cantharellus formosus, från vilken den också skiljer sig i DNA. Sedan den 1 januari 2024 är den Kaliforniens officiella delstatssvamp enligt lagen Assembly Bill 261, som undertecknades i oktober 2023. IUCN:s rödlista (2021) bedömer den preliminärt som livskraftig (Least Concern), även om förlust av livsmiljöer, bland annat skador på Quercus agrifolia orsakade av sjukdomen sudden oak death (Phytophthora ramorum), sannolikt leder till en minskning.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "tr": {
+      "description": "Kaliforniya ve Aşağı Kaliforniya'nın kuzeyinde yetişen, Cantharellus cinsinin iri ve etli bir üyesi; her dem yeşil meşelerin altındaki yaprak döküntüsünde tek tek ya da topluluklar halinde büyür. Dünyanın en büyük Cantharellus türü olarak kabul edilir: olgun meyve gövdeleri genellikle yarım kilogram ya da daha ağırdır ve bir kilogramı aşan örnekler nadir değildir.",
+      "cap": "8–30 cm ya da daha geniş; önce geniş dışbükey, sonra dalgalı, içbükey, vazo biçimli ya da düzensiz, çoğu zaman üzerine yapışmış bol toprak ve yaprakla. Parlak ila mat sarımsı turuncu, bazen soluk pembemsi kayısı tonlu; yaşlı şapkalar kahverengileşebilir ya da güneşte solabilir. Islakken düz, gençken ve kuru havada ince lifli; uzun süre ellendikten sonra koyu okra ila turuncumsu kahverengi lekeler oluşur.",
+      "hymenium": "Küt, sapa doğru uzun inen kıvrımlar (yalancı lameller) 1–2 mm kalınlıkta ve 2–4 mm aralıklıdır; gençken çatallanır ve birbirine bağlanır; yaşla birlikte enine damarlar derinleşir ve himenyum çoğu zaman neredeyse gözenekli görünür. Genellikle şapkadan soluktur ama onun rengine çalar, bazen parlak sarımsı turuncu ya da hafif pembemsidir. Bazidyumlar 80–95 × 6–9 µm boyutunda olup 4–8 spor taşır; tokalar dağınık ve göze çarpmayandır.",
+      "stipe": "3–9 cm uzunluğunda ve 1,5–4 cm kalınlığında, dolu ve tıknaz; genellikle eşit kalınlıkta ya da tabana doğru incelir, bazen tabanda hafifçe şişkindir. Şapka renginde ya da daha soluk, ellenen yerlerde çoğu zaman daha koyu. Halka ve volva yoktur.",
+      "flesh": "Kalın ve lifli; şapkanın ortasında çok kalın, kenara yakın yalnızca yaklaşık 3 mm; şapka yüzeyinin hemen altındaki sarımsı turuncu ton dışında beyaz, kesildiğinde belirgin biçimde renk değiştirmez. Kokusu hafif meyvemsi, balkabağını andırır; tadı genellikle yumuşaktır, ancak çok kuru koşullardan toplanan bir örnek oldukça acıydı.",
+      "sporePrint": "Sarımsı. Sporlar 7–12 × 5–8 µm, ortalama yaklaşık 9,3 × 6,5 µm, neredeyse küremsi ila elipsoit, düz, büyük yağ damlacıklı.",
+      "habitat": "Başta Quercus agrifolia olmak üzere Quercus parvula var. shrevei, Quercus wislizeni, Quercus kelloggii, Quercus chrysolepis ve Notholithocarpus densiflorus ile ektomikoriza oluşturur. Meşe ormanları ile her dem yeşil karışık ormanlarda yaprak döküntüsü içinde toprakta yetişir; Aşağı Kaliforniya'nın kuzeyinden kıyı Kaliforniya'sı boyunca ve Sierra Nevada eteklerinde bulunur. Başlıca kasımdan nisana kadar meyve verir; tek tek meyve gövdeleri üç ila sekiz hafta ya da daha uzun sürede yavaşça olgunlaşır.",
+      "uses": "Kaliforniya'da en az 1970'lerden beri ticari olarak toplanan, çok değerli bir yenebilir mantar; kışın ve ilkbaharda meyve verdiği için çoğu zaman diğer Cantharellus türlerinden daha yüksek fiyata satılır, ancak bazı aşçılar onu daha lifli ve daha az aromalı bulur. Yalnızca kesin olarak tanımlanmış örnekleri yiyin: zehirli Omphalotus olivascens de Kaliforniya'da yetişir ve onunla karıştırılabilir.",
+      "confusion": "Zehirli Omphalotus olivascens gerçek, ince, levha biçimli lamellere, zeytin tonlu turuncu renklere ve çoğu zaman eksantrik bir sapa sahiptir; odun üzerinde ya da geniş yapraklı ağaçların dibinde öbekler halinde büyür. Cantharellus formosus genellikle daha küçük ve narindir, sapı daha uzundur, kuru havada şapkası grimsi kahverengi liflidir ve iğne yapraklılarla birlikte büyür. Cantharellus roseocanus daha parlak, daha sarı bir himenyuma sahiptir ve ladin ile çamlarla birlikte büyür. Hygrophoropsis aurantiaca ince, parlak turuncu, çatallanan gerçek lamellere sahiptir. Turbinellus floccosus trompet biçimlidir ve pullu turuncu bir şapkası vardır.",
+      "notes": "2008'de David Arora ve Susie Dunham tarafından Marin County'de Quercus agrifolia altında toplanan bir holotipe dayanarak tanımlanmıştır; öncesinde genellikle Cantharellus cibarius olarak kaydedilirdi. En yakın akrabası Cantharellus formosus'tur ve ondan DNA bakımından da ayrılır. 1 Ocak 2024'ten beri, Ekim 2023'te imzalanan Assembly Bill 261 yasası uyarınca Kaliforniya'nın resmî eyalet mantarıdır. IUCN Kırmızı Listesi (2021) onu geçici olarak Asgari Endişe (Least Concern) kategorisinde değerlendirir, ancak sudden oak death (Phytophthora ramorum) hastalığının Quercus agrifolia'ya verdiği zarar da dahil olmak üzere yaşam alanı kaybı muhtemelen bir azalmaya yol açmaktadır.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Великий м’ясистий представник роду Cantharellus з Каліфорнії та північної частини Нижньої Каліфорнії, що росте поодинці або групами в листовій підстилці під вічнозеленими дубами. Вважається найбільшим видом роду Cantharellus у світі: зрілі плодові тіла зазвичай важать пів кілограма й більше, а екземпляри понад один кілограм не рідкість.",
+      "cap": "Завширшки 8–30 cm і більше, спершу широкоопукла, згодом хвиляста, увігнута, вазоподібна або неправильної форми, часто з великою кількістю налиплого ґрунту й листя. Яскраво- або тьмяно-жовто-помаранчева, іноді з блідим рожевувато-абрикосовим відтінком; старі шапки можуть буріти або вицвітати на сонці. У вологу погоду гладенька, змолоду та в суху погоду тонковолокниста; після тривалого торкання на ній з’являються темно-вохристі або помаранчево-бурі плями.",
+      "hymenium": "Тупі, глибоко низбіжні складки (несправжні пластинки) завтовшки 1–2 mm, розташовані на відстані 2–4 mm, у молодих плодових тіл вилчасто розгалужені й з’єднані між собою; з віком поперечні жилки поглиблюються, і гіменофор часто виглядає майже пористим. Зазвичай блідіші за шапку, але з відтінком її кольору, іноді яскраво-жовто-помаранчеві або злегка рожевуваті. Базидії розміром 80–95 × 6–9 µm несуть по 4–8 спор; пряжки розсіяні й малопомітні.",
+      "stipe": "Завдовжки 3–9 cm і завтовшки 1,5–4 cm, суцільна й кремезна, зазвичай рівна або звужена до основи, іноді біля основи злегка потовщена. Забарвлена як шапка або блідіша, у місцях дотику часто темніша. Кільця й вольви немає.",
+      "flesh": "Товста й волокниста, дуже товста в центрі шапки, але лише близько 3 mm біля краю; біла, за винятком жовто-помаранчевого відтінку безпосередньо під поверхнею шапки, на зрізі помітно не забарвлюється. Запах слабкий фруктовий, що нагадує гарбуз; смак зазвичай м’який, хоча один збір з дуже сухих умов був сильно гірким.",
+      "sporePrint": "Жовтуватий. Спори 7–12 × 5–8 µm, у середньому близько 9,3 × 6,5 µm, майже кулясті до еліпсоїдних, гладенькі, з великими краплями олії.",
+      "habitat": "Утворює ектомікоризу переважно з Quercus agrifolia, а також з Quercus parvula var. shrevei, Quercus wislizeni, Quercus kelloggii, Quercus chrysolepis і Notholithocarpus densiflorus. Росте на ґрунті в листовій підстилці дубових лісів і вічнозелених мішаних лісів, від північної частини Нижньої Каліфорнії через прибережну Каліфорнію та в передгір’ях Сьєрра-Невади. Плодоносить переважно з листопада по квітень; окремі плодові тіла дозрівають повільно, за три–вісім тижнів або довше.",
+      "uses": "Чудовий їстівний гриб, який комерційно заготовляють у Каліфорнії щонайменше з 1970-х років; він часто коштує дорожче за інші види роду Cantharellus, бо плодоносить узимку та навесні, хоча деякі кухарі вважають його волокнистішим і менш ароматним. Споживайте лише достовірно визначені екземпляри: отруйний Omphalotus olivascens також росте в Каліфорнії, і його можна сплутати з цим видом.",
+      "confusion": "Отруйний Omphalotus olivascens має справжні тонкі пластинки, помаранчеве забарвлення з оливковими тонами й часто ексцентричну ніжку та росте пучками на деревині або біля основи листяних дерев. Cantharellus formosus зазвичай дрібніший і стрункіший, з довшою ніжкою та в суху погоду з сірувато-бурою волокнистою шапкою, росте з хвойними деревами. У Cantharellus roseocanus гіменофор яскравіший і жовтіший, він росте з ялинами й соснами. Hygrophoropsis aurantiaca має тонкі яскраво-помаранчеві вилчасті справжні пластинки. Turbinellus floccosus трубоподібний, з лускатою помаранчевою шапкою.",
+      "notes": "Описаний 2008 року Девідом Аророю та Сьюзі Данем (David Arora, Susie Dunham) за голотипом, зібраним під Quercus agrifolia в окрузі Марін; раніше його зазвичай реєстрували як Cantharellus cibarius. Найближчий родич — Cantharellus formosus, від якого він відрізняється і за ДНК. З 1 січня 2024 року це офіційний гриб штату Каліфорнія згідно із законом Assembly Bill 261, підписаним у жовтні 2023 року. Червоний список МСОП (2021) попередньо відносить його до видів, що викликають найменше занепокоєння (Least Concern), хоча втрата оселищ, зокрема пошкодження Quercus agrifolia хворобою sudden oak death (Phytophthora ramorum), імовірно, спричиняє скорочення чисельності.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "zh": {
+      "description": "分布於加州及下加利福尼亞北部的Cantharellus屬大型肉質種類，於常綠櫟樹下的落葉層中單生或群生。被視為世界上最大的Cantharellus屬物種：成熟子實體通常重達半公斤以上，超過一公斤的個體亦不罕見。",
+      "cap": "寬8–30 cm或更寬，初為寬凸形，後呈波狀、凹陷、花瓶形或不規則形，常黏附大量泥土與落葉。鮮明至暗淡的黃橙色，有時帶淡粉紅杏色調；老熟菌蓋可能轉為較褐，或在日照下褪色。潮濕時平滑，幼時及乾燥時具細纖維；長時間觸摸後會出現暗赭色至橙褐色斑痕。",
+      "hymenium": "鈍圓、深延生的脊狀稜（假菌褶）厚1–2 mm，間距2–4 mm，幼時二叉分枝並互相連結；隨年齡增長，橫脈加深，子實層常呈近乎孔狀。通常較菌蓋淺但帶其色調，有時為鮮黃橙色或略帶粉紅色。擔子大小80–95 × 6–9 µm，著生4–8個孢子；鎖狀聯合散生且不明顯。",
+      "stipe": "長3–9 cm，粗1.5–4 cm，實心而粗壯，通常等粗或向基部漸細，有時基部略膨大。與菌蓋同色或較淺，觸摸處常變深。無菌環，亦無菌托。",
+      "flesh": "厚而具纖維，菌蓋中央極厚，但近邊緣處僅約3 mm；除菌蓋表皮下方略帶黃橙色外均為白色，切開後無明顯變色。氣味微弱、帶果香，令人聯想到南瓜；味道通常溫和，但曾有一份採自極乾燥環境的標本味道強烈苦澀。",
+      "sporePrint": "淡黃色。孢子7–12 × 5–8 µm，平均約9.3 × 6.5 µm，近球形至橢圓形，平滑，含大型油滴。",
+      "habitat": "主要與Quercus agrifolia形成外生菌根，亦與Quercus parvula var. shrevei、Quercus wislizeni、Quercus kelloggii、Quercus chrysolepis及Notholithocarpus densiflorus共生。生於櫟樹林及常綠混交林落葉層中的土壤上，分布自下加利福尼亞北部經加州沿海地區，並見於內華達山脈山麓。主要於十一月至翌年四月出菇；個別子實體成熟緩慢，需三至八週或更久。",
+      "uses": "上等食用菇，在加州至少自1970年代起即有商業採集；因於冬季及春季出菇，價格常高於其他Cantharellus屬物種，但部分廚師認為其纖維較多、香氣較淡。僅可食用確實鑑定的個體：有毒的Omphalotus olivascens同樣生長於加州，可能與本種混淆。",
+      "confusion": "有毒的Omphalotus olivascens具薄板狀的真菌褶、帶橄欖色調的橙色及常偏生的菌柄，叢生於木材上或闊葉樹基部。Cantharellus formosus通常較小、較纖細，菌柄較長，乾燥時菌蓋呈灰褐色纖維狀，與針葉樹共生。Cantharellus roseocanus的子實層較鮮明、較黃，與雲杉及松樹共生。Hygrophoropsis aurantiaca具薄而鮮橙色、二叉分枝的真菌褶。Turbinellus floccosus呈喇叭形，菌蓋橙色且具鱗片。",
+      "notes": "2008年由David Arora與Susie Dunham根據在馬林郡Quercus agrifolia下採得的正模標本描述；此前通常被記錄為Cantharellus cibarius。其最近緣種為Cantharellus formosus，兩者在DNA上亦有差異。依據2023年十月簽署的Assembly Bill 261，自2024年1月1日起成為加州的官方州蕈。IUCN紅色名錄（2021）暫評為無危（Least Concern），但棲地喪失，包括sudden oak death（Phytophthora ramorum）對Quercus agrifolia造成的損害，可能正導致其數量下降。",
+      "names": [],
+      "sourceUrls": []
+    }
+  },
+  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Cantharellus_californicus/Cantharellus_californicus@1600.webp",
+  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Cantharellus_californicus/Cantharellus_californicus@400.webp",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Cantharellus_californicus/Cantharellus_californicus@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Cantharellus_californicus/Cantharellus_californicus@400.webp",
+  "plateCredit": {
+    "author": "Unknown; owner-supplied artwork",
+    "credit": "Existing Gemini mark retained once; not authenticated authorship.",
+    "license": "User supplied; redistribution rights not independently established",
+    "source": "supplied_original.png"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Cantharellus_californicus/cc1.webp",
+      "author": "Barry Langdon-Lassagne",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/331262877"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Cantharellus_californicus/cc2.webp",
+      "author": "Alex Heyman",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/336421194"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Cantharellus_californicus/cc3.webp",
+      "author": "Chuck Wilson",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/334455612"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Cantharellus_californicus/cc4.webp",
+      "author": "Chuck Wilson",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/326314331"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Cantharellus_californicus/cc5.webp",
+      "author": "LJ Moore-McClelland",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/332376838"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Cantharellales/Hydnaceae/Cantharellus_californicus/Cantharellus_californicus@1600.webp",
+      "author": "Unknown; owner-supplied artwork",
+      "license": "User supplied; redistribution rights not independently established",
+      "sourceUrl": "supplied_original.png",
+      "existingMark": "Gemini; retained once, no authorship/rights authentication"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Cantharellales/Hydnaceae/Cantharellus_californicus/cc1.webp",
+      "author": "Barry Langdon-Lassagne",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/331262877",
+      "photoUrl": "https://www.inaturalist.org/photos/600898956",
+      "attribution": "(c) Barry Langdon-Lassagne, some rights reserved (CC BY)",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Cantharellales/Hydnaceae/Cantharellus_californicus/cc2.webp",
+      "author": "Alex Heyman",
+      "license": "CC0 1.0 Universal",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/336421194",
+      "photoUrl": "https://www.inaturalist.org/photos/611344916",
+      "attribution": "no rights reserved",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Cantharellales/Hydnaceae/Cantharellus_californicus/cc3.webp",
+      "author": "Chuck Wilson",
+      "license": "CC0 1.0 Universal",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/334455612",
+      "photoUrl": "https://www.inaturalist.org/photos/607376373",
+      "attribution": "no rights reserved",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Cantharellales/Hydnaceae/Cantharellus_californicus/cc4.webp",
+      "author": "Chuck Wilson",
+      "license": "CC0 1.0 Universal",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/326314331",
+      "photoUrl": "https://www.inaturalist.org/photos/590970494",
+      "attribution": "no rights reserved",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Cantharellales/Hydnaceae/Cantharellus_californicus/cc5.webp",
+      "author": "LJ Moore-McClelland",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/332376838",
+      "photoUrl": "https://www.inaturalist.org/photos/603187400",
+      "attribution": "(c) LJ Moore-McClelland, some rights reserved (CC BY)",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    }
+  ],
+  "synonyms": [],
+  "fruitingFrom": 11,
+  "fruitingTo": 4,
+  "reserved": false,
+  "id": 147,
+  "added": "2026-11-09",
+  "citation": "Econ. Bot. 62(3): 381 (2008)",
+  "illustrationProvenance": {
+    "tool": "Pillow + OpenCV deterministic alpha-only segmentation; no generation",
+    "sourceFile": "Cantharellus californicus.png",
+    "sourceFormat": "JPEG",
+    "sourceFormatNote": "File named .png is actually JPEG/JFIF (Exif software Picasa); no source alpha; alpha produced by segmentation.",
+    "sourceDimensions": [
+      896,
+      1200
+    ],
+    "sourceSHA256": "4149fc66fc0d5694ea6bb22a844d44b113d0a35f7960e235c184ef8ec429500c",
+    "backgroundSHA256": "d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c",
+    "alphaPNG": "artwork_rgba.png",
+    "mask": "artwork_alpha_mask.png",
+    "cropBBox": [
+      92,
+      100,
+      817,
+      1144
+    ],
+    "uniformScale": 1.9310344827586208,
+    "placement": [
+      100,
+      192
+    ],
+    "composedArtworkDimensions": [
+      1400,
+      2016
+    ],
+    "allSourceRGBChangedPixels": 0,
+    "transparentPixels": 742757,
+    "opaquePixels": 317368,
+    "partialAlphaPixels": 15075,
+    "signatureBox": [
+      720,
+      1092,
+      829,
+      1151
+    ],
+    "signatureComponents": 3,
+    "signaturePixels": 572,
+    "preservedObjects": [
+      "mature upright fruit body with wavy, lobed vase-shaped cap, decurrent forked ridges and stout stipe",
+      "fallen fruit body showing the ridged underside and a pale stipe with soil at the base",
+      "young button-stage fruit body with a soil-flecked cap and stout stipe",
+      "longitudinal section showing thick white flesh with a thin yellow-orange rim",
+      "existing Gemini mark"
+    ],
+    "signatureTreatment": "Existing Gemini mark retained once; zero added marks. No creator, rights or species identity inferred.",
+    "contours": [
+      {
+        "area": 58939.0,
+        "box": [
+          452,
+          684,
+          268,
+          379
+        ]
+      },
+      {
+        "area": 67688.5,
+        "box": [
+          136,
+          667,
+          259,
+          395
+        ]
+      },
+      {
+        "area": 75398.5,
+        "box": [
+          418,
+          323,
+          395,
+          330
+        ]
+      },
+      {
+        "area": 118194.0,
+        "box": [
+          93,
+          101,
+          459,
+          507
+        ]
+      }
+    ],
+    "backgroundSourceDimensions": [
+      1067,
+      1600
+    ],
+    "backgroundCanvasDimensions": [
+      1600,
+      2400
+    ],
+    "generation": false,
+    "repainting": false,
+    "stretching": false,
+    "sourcePaperRemoved": true,
+    "visualReview": "Full-size checker and composition inspected (art_fullsize_inspection.png, original_vs_composition.jpg): four objects and the Gemini mark kept whole with clean edges; soil specks on the button and fallen stipe base retained as source pixels; source paper removed, one standard background frame only; no double frame, no added mark.",
+    "alphaPNGSHA256": "2e428f6d3ccb848177a24a7ba0ddb3f92811ea673be363a288adb8e8e6eb4ff7",
+    "maskSHA256": "6f241431e16056188f64212a600a403fca7aac166edb08ca475ad1b987595bff",
+    "recipeSHA256": "7ee62c55631758179c737299c05600e52c3277869433d64c806549060fb9181d",
+    "officialFiles": [
+      {
+        "path": "media/Cantharellus_californicus@1600.webp",
+        "bytes": 307604,
+        "sha256": "0e5885fba946be7a6e91759d3e047c2ad8a689586609d3498ca0922839919446"
+      },
+      {
+        "path": "media/Cantharellus_californicus@400.webp",
+        "bytes": 39694,
+        "sha256": "6bd1228c3c0a122504ac5fbf617afa47a74dcbe4d62cbcc47968bc3ad7abbfbd"
+      }
+    ]
+  }
 }
 ];
