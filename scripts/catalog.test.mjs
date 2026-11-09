@@ -293,6 +293,35 @@ function escText(value) {
   }[ch]));
 }
 
+test('a species page shows only the Latin name when there is no vernacular', () => {
+  const italian = viewModel({ lang: 'it', view: 'mushroom', key: 'Galerina marginata', search: '' });
+  assert.match(italian.html, /<h1 class="common latin">Galerina marginata <span class="author">\(Batsch\) Kühner<\/span><\/h1>/);
+  assert.doesNotMatch(italian.html, /class="binomen/);
+  assert.doesNotMatch(italian.html, /galerina marginata/);
+  assert.match(italian.title, /^Galerina marginata — /);
+  assert.doesNotMatch(italian.title, /\(/);
+
+  const hindi = viewModel({ lang: 'hi', view: 'mushroom', key: 'Amanita phalloides', search: '' });
+  assert.match(hindi.html, /<h1 class="common latin">Amanita phalloides <span class="author">\(Vaill\. ex Fr\.\) Link<\/span><\/h1>/);
+  assert.doesNotMatch(hindi.html, /class="binomen/);
+  assert.match(hindi.title, /^Amanita phalloides — /);
+
+  const slovakLatin = viewModel({ lang: 'sk', view: 'mushroom', key: 'Hericium americanum', search: '' });
+  assert.match(slovakLatin.html, /<h1 class="common latin">Hericium americanum <span class="author">/);
+  assert.doesNotMatch(slovakLatin.html, /hericium americanum/);
+  assert.doesNotMatch(slovakLatin.html, /class="binomen/);
+
+  const english = viewModel({ lang: 'en', view: 'mushroom', key: 'Amanita phalloides', search: '' });
+  assert.match(english.html, /<h1 class="common">death cap<\/h1>/);
+  assert.match(english.html, /<div class="binomen latin">Amanita phalloides <span class="author">\(Vaill\. ex Fr\.\) Link<\/span><\/div>/);
+  assert.match(english.title, /^death cap \(Amanita phalloides\) — /);
+
+  const slovak = viewModel({ lang: 'sk', view: 'mushroom', key: 'Boletus edulis', search: '' });
+  assert.match(slovak.html, /<h1 class="common">hríb smrekový<\/h1>/);
+  assert.match(slovak.html, /<div class="binomen latin">Boletus edulis <span class="author">/);
+  assert.match(slovak.title, /^hríb smrekový \(Boletus edulis\) — /);
+});
+
 test('a species page shows the plate and photo credits stored on the record', () => {
   for (const species of CATALOG) {
     const page = viewModel({ lang: 'en', view: 'mushroom', key: species.name, search: '' });

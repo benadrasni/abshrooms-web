@@ -1533,8 +1533,7 @@ function mushroomPage(lang, key) {
   var species = findSpecies(key);
   if (!species) return missing(lang);
   var text = mushroomText(species, lang);
-  var raw = species.label && species.label[lang] ? String(species.label[lang]).trim() : "";
-  var spoken = raw ? displayName(raw, "", lang) : "";
+  var spoken = speciesVernacular(species, lang);
   var familySpoken = taxonLabel(species.family, lang);
   var orderSpoken = taxonLabel(species.order, lang);
   var genusSpoken = taxonLabel(species.genus, lang);
@@ -2140,6 +2139,7 @@ export {
   viewModel,
   parse,
   findSpecies,
+  speciesVernacular,
   taxonNames,
   visibleListIds,
   listSpecies,

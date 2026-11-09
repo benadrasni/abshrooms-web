@@ -11,6 +11,7 @@ import {
   COPY,
   LANGS,
   findSpecies,
+  speciesVernacular,
   taxonNames,
   viewModel,
   visibleListIds,
@@ -284,7 +285,7 @@ function main() {
     });
 
     CATALOG.forEach((species) => {
-      const label = species.label && species.label[lang];
+      const label = speciesVernacular(species, lang);
       emit(lang, ['mushroom', species.name], {
         view: 'mushroom',
         key: species.name,
