@@ -141719,5 +141719,2867 @@ export const CATALOG = [
       }
     ]
   }
+},
+{
+  "name": "Cantharellus formosus",
+  "author": "Corner",
+  "family": "Hydnaceae",
+  "genus": "Cantharellus",
+  "order": "Cantharellales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Cantharellales",
+    "Hydnaceae",
+    "Cantharellus"
+  ],
+  "summary": [
+    "Cantharellales",
+    "Hydnaceae",
+    "Cantharellus"
+  ],
+  "edibility": "choice",
+  "hymenium": "ridges",
+  "where": [
+    "ground"
+  ],
+  "color": [
+    "yellow"
+  ],
+  "capFrom": 2.0,
+  "capTo": 14.0,
+  "stipeHeightFrom": 4.0,
+  "stipeHeightTo": 8.0,
+  "stipeThickFrom": 0.4,
+  "stipeThickTo": 2.2,
+  "label": {
+    "ar": "Cantharellus formosus",
+    "bg": "Cantharellus formosus",
+    "cs": "Cantharellus formosus",
+    "da": "Cantharellus formosus",
+    "de": "Cantharellus formosus",
+    "en": "Pacific golden chanterelle",
+    "es": "Cantharellus formosus",
+    "et": "Cantharellus formosus",
+    "fa": "Cantharellus formosus",
+    "fi": "Cantharellus formosus",
+    "fr": "Cantharellus formosus",
+    "he": "Cantharellus formosus",
+    "hi": "Cantharellus formosus",
+    "hr": "Cantharellus formosus",
+    "hu": "Cantharellus formosus",
+    "id": "Cantharellus formosus",
+    "it": "Cantharellus formosus",
+    "ja": "Cantharellus formosus",
+    "ko": "Cantharellus formosus",
+    "lt": "Cantharellus formosus",
+    "lv": "Cantharellus formosus",
+    "nl": "Cantharellus formosus",
+    "no": "Cantharellus formosus",
+    "pl": "Cantharellus formosus",
+    "pt": "Cantharellus formosus",
+    "ro": "Cantharellus formosus",
+    "ru": "Cantharellus formosus",
+    "sk": "Cantharellus formosus",
+    "sl": "Cantharellus formosus",
+    "sr": "Cantharellus formosus",
+    "sv": "Cantharellus formosus",
+    "tr": "Cantharellus formosus",
+    "uk": "Cantharellus formosus",
+    "zh": "Cantharellus formosus"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [],
+    "en": [],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [],
+    "en": [
+      "https://www.mykoweb.com/CAF/PDF/Cantharellus%20formosus%20and%20the%20pacific%20golden%20chanterelle%20harvest%20in%20W%20NA.pdf",
+      "https://www.mykoweb.com/CAF/species/Cantharellus_formosus.html",
+      "https://www.mushroomexpert.com/cantharellus_formosus.html",
+      "https://explore.beatymuseum.ubc.ca/mushroomsup/C_formosus.html",
+      "https://www.fs.usda.gov/pnw/pubs/pnw_gtr576.pdf",
+      "https://www.iucnredlist.org/species/195922677/195927703",
+      "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=327480",
+      "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=327480",
+      "https://www.gbif.org/species/5466954",
+      "https://en.wikipedia.org/wiki/Cantharellus_formosus"
+    ],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "text": {
+    "ar": {
+      "description": "فرد لحمي قمعي الشكل من جنس Cantharellus في غرب أمريكا الشمالية، ينمو منفردًا أو متناثرًا أو في مجموعات صغيرة على أرض الغابات تحت الصنوبريات. يمتد نطاقه من شمال كاليفورنيا عبر أوريغون وواشنطن وكولومبيا البريطانية إلى جنوب شرق ألاسكا، ويكوّن جذورًا فطرية خارجية في الغابات الفتية والقديمة على حد سواء.",
+      "cap": "عرضها ٢–١٤ cm، محدبة في البداية بحافة ملتفة إلى الداخل، ثم مسطحة أو منخفضة قليلًا أو قمعية بحافة متموجة ومرتفعة. لونها أصفر برتقالي باهت إلى برتقالي، وأصفر برتقالي زاهٍ في الطقس الرطب، وسلموني إلى برتقالي وردي باهت في الظل الكثيف. تظهر طبقة سطحية رقيقة رمادية بنية بوضوح أكبر في الطقس الجاف، وقد تتشقق إلى حراشف صغيرة أدكن ملتصقة. السطح جاف، مخملي كالشمواه إلى أملس، ويصفرّ ببطء عند الضغط ثم يصبح مغريًا.",
+      "hymenium": "حواف بارزة كليلة جيدة التكوّن (صفائح كاذبة) يصل عمقها إلى ٢ mm، تنحدر بعيدًا على الساق، وتتفرع نحو الحافة، ومتقاربة إلى متباعدة نوعًا ما، وكثيرًا ما تتصل بعروق عرضية. لونها أصفر برتقالي شاحب، وعادة أفتح من القبعة وغالبًا بمسحة وردية، وضاربة إلى البياض أو برتقالية باهتة في الظل الكثيف؛ تصفرّ عند الضغط ثم تصبح مغرية. تحمل البازيديات ٤–٦ أبواغ ويبلغ قياسها ٨٦–١٢٠ × ٨–١١٫٦ µm؛ ولا توجد كيسات، أما الوصلات الكلّابية فوفيرة.",
+      "stipe": "طولها ٤–٨ cm وسمكها ٠٫٤–٢٫٢ cm، مصمتة، متساوية أو مستدقة نحو الأسفل وأحيانًا مفلطحة. بلون القبعة أو أفتح قليلًا، ملساء إلى ليفية دقيقة؛ تصفرّ عند الضغط ثم تصبح مغرية. لا حلقة لها ولا كيس.",
+      "flesh": "متماسك ولحمي، ضارب إلى البياض إلى أصفر شاحب، ويكون أكثر صفرة تحت الأسطح الملونة مباشرة. رائحته خفيفة، فاكهية لطيفة أو حلوة قليلًا؛ وطعمه معتدل، وأحيانًا فاكهي أو فلفلي قليلًا.",
+      "sporePrint": "أبيض مصفر. الأبواغ ٦٫٥–١٠ × ٤٫٧–٧ µm، ومعظمها ٧٫٢–٩٫٢ × ٤٫٧–٦٫١ µm، بيضوية عريضة إلى إهليلجية، ملساء، رقيقة الجدار، شفافة وغير نشوانية.",
+      "habitat": "يكوّن جذورًا فطرية خارجية مع الصنوبريات، ولا سيما Tsuga heterophylla وPseudotsuga menziesii وPicea sitchensis، وقد وُجد مرة في مشاجر شبه نقية من Pinus contorta على كثبان ساحلية. ينمو في الطحالب وفرشة الإبر، في الغابات الثانوية والقديمة، وهو شائع بوجه خاص في المشاجر الفتية إلى متوسطة العمر. تظهر أجسامه الثمرية من منتصف الصيف إلى أوائل الشتاء، وعلى ساحل كاليفورنيا حتى منتصف الشتاء.",
+      "uses": "فطر ممتاز للأكل، لحمه متماسك وطعمه معتدل فاكهي. وهو أهم أنواع جنس Cantharellus التي تُجمع تجاريًا في شمال غرب المحيط الهادئ، ويُباع في الأسواق المحلية والوطنية والدولية.",
+      "confusion": "لدى Cantharellus roseocanus حواف أزهى صفرة برتقالية، بشدة لون القبعة أو أدكن ومن دون مسحة وردية، وقبعة ملساء بلا حراشف لكن بغشاوة وردية عند الحافة، ولا يصفرّ فورًا عند الضغط، وطبعة أبواغه أدكن وصفراء برتقالية؛ وينمو غالبًا تحت التنوب والصنوبر. أما Cantharellus cascadensis فأصفر زاهٍ، وقد تبهت قبعته إلى البياض في الوسط، وقد تكون قاعدة ساقه بصلية. وCantharellus subalbidus ضارب إلى البياض كله، ولا يصفرّ إلا ببطء حيث يُلمس. وCantharellus cibarius نوع أوروبي طُبّق اسمه طويلًا وخطأً على العينات الغربية. ولدى Hygrophoropsis aurantiaca صفائح رقيقة برتقالية زاهية بدلًا من الحواف الكليلة. وTurbinellus floccosus أعمق شكلًا بوقيًا، وقبعته أزهى برتقالية وحرشفية. أما Omphalotus olivascens السام فله صفائح رقيقة شبيهة بالألواح بدرجات زيتونية، وينمو في عناقيد على الخشب.",
+      "notes": "سُجّلت عينات Cantharellus الذهبية الصفراء من غرب أمريكا الشمالية طويلًا باسم Cantharellus cibarius؛ ويتميز هذا النوع بصفاته وبيئته وحمضه النووي، إذ إن منطقة ITS في الحمض النووي الريبوسومي أطول بنحو ٢٠٠ زوج قاعدي. تتغير الألوان والسطح كثيرًا بحسب الطقس والضوء، ولا يزال التنوع الوراثي للعينات المنسوبة إلى هذا النوع بحاجة إلى دراسة. وهو الفطر الرسمي لولاية أوريغون منذ عام ١٩٩٩. صنّفه تقييم عالمي أُجري عام ٢٠٢١ ضمن فئة غير مهدد (Least Concern)، مع تزايد في أعداده.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Месест, фуниевиден представител на рода Cantharellus от западната част на Северна Америка, който расте поединично, разпръснато или на малки групи върху горската почва под иглолистни дървета. Разпространен е от Северна Калифорния през Орегон, Вашингтон и Британска Колумбия до Югоизточна Аляска и образува ектомикориза както в млади, така и в стари гори.",
+      "cap": "Широка 2–14 cm, в млада възраст изпъкнала с подвит ръб, по-късно плоска, плитко вдлъбната или фуниевидна с вълнист, повдигнат ръб. Матово оранжевожълта до оранжева, при влажно време яркооранжевожълта, в дълбока сянка сьомгова до розовеещо охрена. Тънък сивокафяв повърхностен слой е по-видим при сухо време и може да се напука на дребни, по-тъмни, прилепнали люспици. Повърхността е суха, велурена до гладка и при натиск бавно пожълтява, след което става охрена.",
+      "hymenium": "Тъпи, добре развити гънки (лъжливи пластинки), дълбоки до 2 mm, далеч низбягващи по пънчето; към ръба се разклоняват вилообразно, разположени са от гъсто до доста рядко и често са свързани с напречни жилки. Бледо оранжевожълти, обикновено по-светли от шапката и често с розов оттенък, в дълбока сянка белезникави до охрени; при натиск пожълтяват, след което стават охрени. Базидиите носят 4–6 спори и са с размери 86–120 × 8–11,6 µm; цистиди липсват, а скобите са многобройни.",
+      "stipe": "Дълго 4–8 cm и дебело 0,4–2,2 cm, плътно, еднакво дебело или стеснено надолу и понякога сплеснато. С цвета на шапката или малко по-светло, гладко до фино влакнесто; при натиск пожълтява, след което става охрено. Без пръстен и без волва.",
+      "flesh": "Твърдо и месесто, белезникаво до бледожълто, непосредствено под оцветените повърхности по-жълтеникаво. Мирисът е слаб, приятно плодов или леко сладникав; вкусът е мек, понякога леко плодов или лютив.",
+      "sporePrint": "Жълтеникавобял. Спори 6,5–10 × 4,7–7 µm, предимно 7,2–9,2 × 4,7–6,1 µm, широко яйцевидни до елипсоидни, гладки, тънкостенни, хиалинни и неамилоидни.",
+      "habitat": "Образува ектомикориза с иглолистни дървета, особено с Tsuga heterophylla, Pseudotsuga menziesii и Picea sitchensis, а веднъж е намерен в почти чисти насаждения от Pinus contorta върху крайбрежни дюни. Расте в мъх и иглолистна постеля, във вторични и стари гори и е особено чест в млади до средновъзрастни насаждения. Плодните тела се появяват от средата на лятото до началото на зимата, а по крайбрежието на Калифорния – до средата на зимата.",
+      "uses": "Отлична ядлива гъба с твърдо месо и мек, плодов вкус. Това е най-важният търговски събиран вид от рода Cantharellus в тихоокеанския северозапад, който се продава на местни, национални и международни пазари.",
+      "confusion": "Cantharellus roseocanus има по-ярко оранжевожълти гънки, също толкова наситени като шапката или по-тъмни и без розов оттенък, гладка шапка без люспици, но с розов налеп по ръба, при натиск не пожълтява веднага и има по-тъмен, оранжевожълт споров отпечатък; расте главно под смърчове и борове. Cantharellus cascadensis е яркожълт, шапката му в центъра може да избледнее до белезникава, а основата на пънчето може да е грудковидна. Cantharellus subalbidus е изцяло белезникав и на местата на допир пожълтява само бавно. Cantharellus cibarius е европейски вид, чието име дълго време погрешно е прилагано за западните находки. Hygrophoropsis aurantiaca има тънки, яркооранжеви пластинки вместо тъпи гънки. Turbinellus floccosus е по-дълбоко тръбовиден, с по-ярко оранжева, люспеста шапка. Отровният Omphalotus olivascens има тънки, плочести пластинки с маслинени оттенъци и расте на туфи върху дървесина.",
+      "notes": "Златистожълтите находки от рода Cantharellus от западната част на Северна Америка дълго време са записвани като Cantharellus cibarius; този вид се отличава по белези, екология и ДНК, като участъкът ITS в неговата рДНК е с около 200 базови двойки по-дълъг. Цветовете и повърхността силно се променят според времето и светлината, а генетичното разнообразие на находките, отнасяни към вида, все още изисква проучване. От 1999 г. е официалната гъба на щата Орегон. Глобална оценка от 2021 г. го причислява към незастрашените видове (Least Concern), с нарастваща численост.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "cs": {
+      "description": "Masitý, nálevkovitý zástupce rodu Cantharellus ze západu Severní Ameriky, který roste jednotlivě, roztroušeně nebo v malých skupinách na lesní půdě pod jehličnany. Vyskytuje se od severní Kalifornie přes Oregon, Washington a Britskou Kolumbii po jihovýchodní Aljašku a tvoří ektomykorhizu v mladých i starých lesích.",
+      "cap": "Široký 2–14 cm, v mládí klenutý s podvinutým okrajem, později plochý, mělce prohloubený nebo nálevkovitý se zvlněným, nahoru ohnutým okrajem. Matně oranžovožlutý až oranžový, za vlhka zářivě oranžovožlutý a v hlubokém stínu lososový až narůžověle žlutohnědý. Tenká šedohnědá povrchová vrstva je za sucha zřetelnější a může se rozpadat na drobné, tmavší, přitisklé šupinky. Povrch je suchý, semišový až hladký a po otlačení pomalu žloutne a pak okrovatí.",
+      "hymenium": "Tupé, dobře vyvinuté lišty (nepravé lupeny), hluboké do 2 mm, sbíhají daleko na třeň; k okraji se vidličnatě větví, jsou husté až dosti řídké a často příčně propojené. Bledě oranžovožluté, obvykle světlejší než klobouk a často s narůžovělým nádechem, v hlubokém stínu bělavé až žlutohnědé; po otlačení žloutnou a pak okrovatí. Basidie nesou 4–6 výtrusů a měří 86–120 × 8–11,6 µm; cystidy chybějí a přezky jsou hojné.",
+      "stipe": "Dlouhý 4–8 cm a tlustý 0,4–2,2 cm, plný, stejně tlustý nebo dolů zúžený a někdy smáčklý. Barvy klobouku nebo o něco světlejší, hladký až jemně vláknitý; po otlačení žloutne a pak okrovatí. Prsten ani pochva nejsou.",
+      "flesh": "Pevná a masitá, bělavá až bledě žlutá, těsně pod zbarvenými povrchy nažloutlejší. Vůně slabá, příjemně ovocná nebo slabě nasládlá; chuť mírná, někdy trochu ovocná nebo peprná.",
+      "sporePrint": "Nažloutle bílý. Výtrusy 6,5–10 × 4,7–7 µm, většinou 7,2–9,2 × 4,7–6,1 µm, široce vejčité až elipsoidní, hladké, tenkostěnné, hyalinní a neamyloidní.",
+      "habitat": "Tvoří ektomykorhizu s jehličnany, zejména s Tsuga heterophylla, Pseudotsuga menziesii a Picea sitchensis, a jednou byl zjištěn v téměř čistých porostech Pinus contorta na pobřežních dunách. Roste v mechu a jehličnatém opadu, v druhotných i starých lesích a je zvlášť hojný v mladých až středně starých porostech. Plodí od vrcholného léta do začátku zimy, na kalifornském pobřeží až do poloviny zimy.",
+      "uses": "Vynikající jedlá houba s pevnou dužninou a mírnou, ovocnou chutí. Je to nejdůležitější komerčně sbíraný druh rodu Cantharellus na pacifickém severozápadě a prodává se na místních, národních i mezinárodních trzích.",
+      "confusion": "Cantharellus roseocanus má zářivěji oranžovožluté lišty, stejně sytě zbarvené jako klobouk nebo tmavší a bez narůžovělého nádechu, hladký klobouk bez šupinek, ale s narůžovělým ojíněním na okraji, po otlačení hned nežloutne a má tmavší, oranžovožlutý výtrusný prach; roste hlavně u smrků a borovic. Cantharellus cascadensis je zářivě žlutý, jeho klobouk může uprostřed vyblednout do bělava a báze třeně bývá hlíznatá. Cantharellus subalbidus je celý bělavý a v místech doteku žloutne jen pomalu. Cantharellus cibarius je evropský druh, jehož jméno se dlouho mylně používalo pro západní sběry. Hygrophoropsis aurantiaca má tenké, jasně oranžové lupeny místo tupých lišt. Turbinellus floccosus je hlouběji trubkovitý se zářivěji oranžovým, šupinatým kloboukem. Jedovatý Omphalotus olivascens má tenké, destičkovité lupeny s olivovými tóny a roste v trsech na dřevě.",
+      "notes": "Zlatožluté sběry rodu Cantharellus ze západu Severní Ameriky se dlouho evidovaly jako Cantharellus cibarius; tento druh se odlišuje znaky, ekologií a DNA, přičemž jeho oblast ITS rDNA je asi o 200 párů bází delší. Barvy a povrch se silně mění podle počasí a světla a genetická proměnlivost sběrů k němu přiřazených ještě vyžaduje studium. Od roku 1999 je oficiální houbou státu Oregon. Globální hodnocení z roku 2021 jej řadí mezi málo dotčené druhy (Least Concern) s rostoucí populací.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "da": {
+      "description": "En kødfuld, tragtformet art i slægten Cantharellus fra det vestlige Nordamerika, der vokser enkeltvis, spredt eller i små grupper på skovbunden under nåletræer. Den findes fra det nordlige Californien gennem Oregon, Washington og British Columbia til det sydøstlige Alaska og danner ektomykorrhiza i både unge og gamle skove.",
+      "cap": "2–14 cm bred, som ung hvælvet med indrullet rand, siden flad, svagt fordybet eller tragtformet med bølget, opadbøjet rand. Mat orangegul til orange, i vådt vejr klart orangegul og i dyb skygge laksefarvet til rosa-læderfarvet. Et tyndt gråbrunt overfladelag bliver tydeligere i tørt vejr og kan bryde op i små, mørkere, tiltrykte skæl. Overfladen er tør, ruskindsagtig til glat og farves ved tryk langsomt gul og siden okker.",
+      "hymenium": "Butte, veludviklede lister (falske lameller), op til 2 mm dybe, løber langt ned ad stokken; de gaffeldeler sig mod randen, står tæt til ret fjernt og er ofte tværforbundne. Bleg orangegule, som regel blegere end hatten og ofte med et rosa skær, i dyb skygge hvidlige til læderfarvede, ved tryk gule og siden okker. Basidierne bærer 4–6 sporer og måler 86–120 × 8–11,6 µm; cystider mangler, og bøjler er talrige.",
+      "stipe": "4–8 cm lang og 0,4–2,2 cm tyk, fyldt, lige tyk eller tilspidset nedad og undertiden sammentrykt. Farvet som hatten eller lidt blegere, glat til fint trævlet, ved tryk gul og siden okker. Ring og volva mangler.",
+      "flesh": "Fast og kødfuldt, hvidligt til blegt gult, mere gulligt lige under de farvede overflader. Lugten er svag, behageligt frugtagtig eller svagt sødlig; smagen er mild, undertiden lidt frugtagtig eller peberagtig.",
+      "sporePrint": "Gullighvidt. Sporer 6,5–10 × 4,7–7 µm, oftest 7,2–9,2 × 4,7–6,1 µm, bredt ægformede til ellipsoide, glatte, tyndvæggede, hyaline og inamyloide.",
+      "habitat": "Ektomykorrhizadanner med nåletræer, især Tsuga heterophylla, Pseudotsuga menziesii og Picea sitchensis, og fundet én gang i næsten rene bevoksninger af Pinus contorta på kystklitter. Den vokser i mos og nåleførne, i sekundære og gamle skove og er særlig almindelig i unge til midaldrende bevoksninger. Frugtlegemer fra højsommer til tidlig vinter og ved Californiens kyst til midvinter.",
+      "uses": "En fremragende spisesvamp med fast kød og mild, frugtagtig smag. Den er den vigtigste kommercielt indsamlede Cantharellus-art i det pacifiske nordvest og sælges lokalt, nationalt og internationalt.",
+      "confusion": "Cantharellus roseocanus har klarere orangegule lister, der er lige så kraftigt farvede som hatten eller mørkere og uden rosa skær, en glat hat uden skæl, men med et rosa dug ved randen, farves ikke straks gul ved tryk og har et mørkere, orangegult sporefald; den vokser især ved gran og fyr. Cantharellus cascadensis er klart gul, dens hat kan blegne til hvidlig i midten, og stokkens basis kan være knoldet. Cantharellus subalbidus er hvidlig overalt og bliver kun langsomt gullig, hvor den berøres. Cantharellus cibarius er en europæisk art, hvis navn længe fejlagtigt blev brugt om vestlige fund. Hygrophoropsis aurantiaca har tynde, klart orange lameller i stedet for butte ribber. Turbinellus floccosus er dybere trompetformet med en klarere orange, skællet hat. Den giftige Omphalotus olivascens har tynde, pladeagtige lameller med olivenfarvede toner og vokser i knipper på ved.",
+      "notes": "Guldgule Cantharellus-fund fra det vestlige Nordamerika blev længe registreret som Cantharellus cibarius; denne art adskilles ved sine kendetegn, sin økologi og sit DNA, idet dens ITS-region i rDNA er omkring 200 basepar længere. Farver og overflade varierer stærkt med vejr og lys, og den genetiske variation mellem de fund, der henføres til den, mangler stadig at blive undersøgt. Den har været Oregons officielle statssvamp siden 1999. En global vurdering fra 2021 klassificerer den som ikke truet (Least Concern) med en voksende bestand.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "de": {
+      "description": "Ein fleischiger, trichterförmiger Vertreter der Gattung Cantharellus aus dem westlichen Nordamerika, der einzeln, verstreut oder in kleinen Gruppen auf dem Waldboden unter Nadelbäumen wächst. Er kommt vom nördlichen Kalifornien über Oregon, Washington und British Columbia bis ins südöstliche Alaska vor und bildet in jungen wie alten Wäldern Ektomykorrhiza.",
+      "cap": "2–14 cm breit, jung gewölbt mit eingerolltem Rand, dann flach, seicht vertieft oder trichterförmig mit welligem, aufgebogenem Rand. Matt orangegelb bis orange, bei nassem Wetter leuchtend orangegelb und in tiefem Schatten lachsfarben bis rosa-ledergelb. Eine dünne graubraune Oberflächenschicht tritt bei trockenem Wetter deutlicher hervor und kann in kleine, dunklere, anliegende Schüppchen aufbrechen. Die Oberfläche ist trocken, wildlederartig bis glatt und verfärbt sich bei Druck langsam gelb, dann ocker.",
+      "hymenium": "Stumpfe, gut entwickelte Leisten (falsche Lamellen), bis 2 mm tief, laufen weit am Stiel herab; sie gabeln sich zum Rand hin, stehen gedrängt bis ziemlich entfernt und sind oft queradrig verbunden. Blass orangegelb, meist heller als der Hut und oft mit rosa Schimmer, in tiefem Schatten weißlich bis ledergelb, bei Druck gelb, dann ocker verfärbend. Die Basidien tragen 4–6 Sporen und messen 86–120 × 8–11,6 µm; Zystiden fehlen, Schnallen sind reichlich vorhanden.",
+      "stipe": "4–8 cm lang und 0,4–2,2 cm dick, voll, gleich dick oder nach unten verjüngt und manchmal zusammengedrückt. Wie der Hut gefärbt oder etwas heller, glatt bis fein faserig, bei Druck gelb, dann ocker verfärbend. Ring und Volva fehlen.",
+      "flesh": "Fest und fleischig, weißlich bis blassgelb, direkt unter den gefärbten Oberflächen gelblicher. Geruch schwach, angenehm fruchtig oder leicht süßlich; Geschmack mild, mitunter etwas fruchtig oder pfeffrig.",
+      "sporePrint": "Gelblich weiß. Sporen 6,5–10 × 4,7–7 µm, meist 7,2–9,2 × 4,7–6,1 µm, breit eiförmig bis ellipsoid, glatt, dünnwandig, hyalin und inamyloid.",
+      "habitat": "Ektomykorrhizapilz von Nadelbäumen, vor allem Tsuga heterophylla, Pseudotsuga menziesii und Picea sitchensis, und einmal in nahezu reinen Beständen von Pinus contorta auf Küstendünen nachgewiesen. Er wächst in Moos und Nadelstreu, in Sekundär- und Altwäldern und ist in jungen bis mittelalten Beständen besonders häufig. Fruchtet vom Hochsommer bis in den Frühwinter, an der Küste Kaliforniens bis in den Hochwinter.",
+      "uses": "Ein ausgezeichneter Speisepilz mit festem Fleisch und mildem, fruchtigem Geschmack. Er ist die wichtigste kommerziell gesammelte Cantharellus-Art im pazifischen Nordwesten und wird auf lokalen, nationalen und internationalen Märkten verkauft.",
+      "confusion": "Cantharellus roseocanus hat leuchtender orangegelbe Leisten, die so kräftig wie der Hut oder dunkler gefärbt sind und keinen rosa Schimmer zeigen, einen glatten Hut ohne Schüppchen, aber mit rosa Reif am Rand, verfärbt sich bei Druck nicht sofort gelb und hat ein dunkleres, orangegelbes Sporenpulver; er wächst vor allem bei Fichten und Kiefern. Cantharellus cascadensis ist leuchtend gelb, sein Hut kann in der Mitte weißlich ausblassen und seine Stielbasis kann knollig sein. Cantharellus subalbidus ist insgesamt weißlich und färbt sich bei Berührung nur langsam gelblich. Cantharellus cibarius ist eine europäische Art, deren Name lange fälschlich auf westliche Funde angewandt wurde. Hygrophoropsis aurantiaca hat dünne, leuchtend orange Lamellen statt stumpfer Leisten. Turbinellus floccosus ist tiefer trompetenförmig und hat einen leuchtender orangen, schuppigen Hut. Der giftige Omphalotus olivascens hat dünne, blattartige Lamellen mit olivfarbenen Tönen und wächst büschelig auf Holz.",
+      "notes": "Goldgelbe Cantharellus-Funde aus dem westlichen Nordamerika wurden lange als Cantharellus cibarius geführt; diese Art unterscheidet sich durch Merkmale, Ökologie und DNA, wobei ihre ITS-Region der rDNA etwa 200 Basenpaare länger ist. Farben und Oberfläche schwanken stark mit Wetter und Licht, und die genetische Variation der ihr zugeordneten Funde bedarf noch der Untersuchung. Seit 1999 ist sie der offizielle Staatspilz von Oregon. Eine globale Bewertung von 2021 stuft sie als nicht gefährdet (Least Concern) mit zunehmender Population ein.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "en": {
+      "description": "A fleshy, funnel-shaped member of the genus Cantharellus in western North America, growing singly, scattered or in small clusters on the forest floor under conifers. It ranges from northern California through Oregon, Washington and British Columbia to south-eastern Alaska, and is ectomycorrhizal in both young and old forests.",
+      "cap": "2–14 cm across, convex with an inrolled margin when young, then flat, shallowly depressed or funnel-shaped with a wavy, uplifted margin. Dull orange-yellow to orange, bright orange-yellow in wet weather and salmon to rosy buff in deep shade. A thin greyish-brown surface layer becomes more visible in dry weather and may break up into small, darker, appressed scales. The surface is dry, suede-like to smooth, and slowly bruises yellow, then ochre.",
+      "hymenium": "Blunt, well-developed false gills (ridges), up to 2 mm deep, run far down the stipe; they fork towards the margin, are crowded to fairly distant and often cross-veined. Pale orange-yellow, usually paler than the cap and often with a pinkish cast, whitish to buff in deep shade, bruising yellow then ochre. Basidia bear 4–6 spores and measure 86–120 × 8–11.6 µm; cystidia are absent and clamp connections are abundant.",
+      "stipe": "4–8 cm long and 0.4–2.2 cm thick, solid, equal or tapering downwards and sometimes compressed. Coloured like the cap or slightly paler, smooth to finely fibrillose, bruising yellow then ochre. There is no ring or volva.",
+      "flesh": "Firm and fleshy, whitish to pale yellow, more yellowish just beneath the coloured surfaces. The odour is faint and pleasantly fruity or weakly sweet; the taste is mild, sometimes slightly fruity or peppery.",
+      "sporePrint": "Yellowish white. Spores 6.5–10 × 4.7–7 µm, mostly 7.2–9.2 × 4.7–6.1 µm, broadly ovoid to ellipsoid, smooth, thin-walled, hyaline and inamyloid.",
+      "habitat": "Ectomycorrhizal with conifers, especially Tsuga heterophylla, Pseudotsuga menziesii and Picea sitchensis, and once recorded in nearly pure Pinus contorta on coastal dunes. It grows in moss and needle litter, in second-growth and old-growth forests, and is especially common in young to middle-aged stands. Fruits from midsummer to early winter, continuing into mid-winter on the California coast.",
+      "uses": "A choice edible with firm flesh and a mild, fruity flavour. It is the most important commercially harvested Cantharellus species of the Pacific Northwest and is sold locally, nationally and internationally.",
+      "confusion": "Cantharellus roseocanus has brighter orange-yellow ridges that are as intense as or darker than the cap and lack a pinkish cast, a smooth cap without scales but with a pinkish bloom at the margin, no immediate yellow bruising and a darker, orange-yellow spore print; it grows mainly with spruce and pine. Cantharellus cascadensis is bright yellow, its cap can fade to whitish in the centre and its stipe base may be bulbous. Cantharellus subalbidus is whitish overall and only slowly stains yellowish where handled. Cantharellus cibarius is a European species whose name was long misapplied to western collections. Hygrophoropsis aurantiaca has thin, bright orange gills rather than blunt ridges. Turbinellus floccosus is more deeply trumpet-shaped, with a brighter orange, scaly cap. The poisonous Omphalotus olivascens has thin, plate-like gills with olive tones and grows in clusters on wood.",
+      "notes": "Golden-yellow Cantharellus collections from western North America were long recorded as Cantharellus cibarius; this species is separated by its features, ecology and DNA, its rDNA ITS region being about 200 base pairs longer. Its colours and surface vary strongly with weather and light, and genetic variation among collections assigned to it still needs study. It has been the state mushroom of Oregon since 1999. A 2021 global assessment rates it Least Concern, with an increasing population.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.mykoweb.com/CAF/PDF/Cantharellus%20formosus%20and%20the%20pacific%20golden%20chanterelle%20harvest%20in%20W%20NA.pdf",
+        "https://www.mykoweb.com/CAF/species/Cantharellus_formosus.html",
+        "https://www.mushroomexpert.com/cantharellus_formosus.html",
+        "https://explore.beatymuseum.ubc.ca/mushroomsup/C_formosus.html",
+        "https://www.fs.usda.gov/pnw/pubs/pnw_gtr576.pdf",
+        "https://www.iucnredlist.org/species/195922677/195927703",
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=327480",
+        "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=327480",
+        "https://www.gbif.org/species/5466954",
+        "https://en.wikipedia.org/wiki/Cantharellus_formosus"
+      ],
+      "label": "Pacific golden chanterelle"
+    },
+    "es": {
+      "description": "Un hongo carnoso en forma de embudo del género Cantharellus, propio del oeste de Norteamérica, que crece solitario, disperso o en pequeños grupos sobre el suelo del bosque bajo coníferas. Se distribuye desde el norte de California, pasando por Oregón, Washington y la Columbia Británica, hasta el sureste de Alaska, y es ectomicorrícico tanto en bosques jóvenes como viejos.",
+      "cap": "De 2–14 cm de diámetro, convexo y con el margen enrollado de joven, luego plano, ligeramente deprimido o en forma de embudo, con el margen ondulado y levantado. Amarillo anaranjado apagado a naranja, amarillo anaranjado brillante con tiempo húmedo y de salmón a beige rosado en sombra profunda. Una fina capa superficial pardo grisácea se hace más visible con tiempo seco y puede romperse en pequeñas escamas adpresas más oscuras. La superficie es seca, de aterciopelada como gamuza a lisa, y al rozarse amarillea lentamente y después se vuelve ocre.",
+      "hymenium": "Pliegues (falsas láminas) obtusos y bien desarrollados, de hasta 2 mm de profundidad, que descienden mucho por el pie; se bifurcan hacia el margen, son de apretados a bastante separados y a menudo están unidos por venas transversales. Amarillo anaranjado pálido, normalmente más pálidos que el sombrero y a menudo con un matiz rosado, de blanquecinos a beige en sombra profunda; al rozarse amarillean y luego se vuelven ocres. Los basidios llevan 4–6 esporas y miden 86–120 × 8–11,6 µm; no hay cistidios y las fíbulas son abundantes.",
+      "stipe": "De 4–8 cm de largo y 0,4–2,2 cm de grosor, macizo, cilíndrico o adelgazado hacia abajo y a veces comprimido. Del color del sombrero o algo más pálido, de liso a finamente fibriloso; al rozarse amarillea y luego se vuelve ocre. No tiene anillo ni volva.",
+      "flesh": "Firme y carnosa, blanquecina a amarillo pálido, más amarillenta justo bajo las superficies coloreadas. Olor débil, agradablemente afrutado o ligeramente dulce; sabor suave, a veces algo afrutado o picante.",
+      "sporePrint": "Blanco amarillento. Esporas de 6,5–10 × 4,7–7 µm, en su mayoría de 7,2–9,2 × 4,7–6,1 µm, ampliamente ovoides a elipsoides, lisas, de pared delgada, hialinas y no amiloides.",
+      "habitat": "Ectomicorrícico con coníferas, sobre todo Tsuga heterophylla, Pseudotsuga menziesii y Picea sitchensis, y registrado una vez en rodales casi puros de Pinus contorta en dunas costeras. Crece entre musgo y acículas, en bosques secundarios y primarios, y es especialmente común en masas jóvenes a de mediana edad. Fructifica desde pleno verano hasta comienzos del invierno, y en la costa de California continúa hasta mediados del invierno.",
+      "uses": "Comestible excelente, de carne firme y sabor suave y afrutado. Es la especie de Cantharellus de recolección comercial más importante del noroeste del Pacífico y se vende en mercados locales, nacionales e internacionales.",
+      "confusion": "Cantharellus roseocanus tiene pliegues de un amarillo anaranjado más brillante, tan intensos como el sombrero o más oscuros y sin matiz rosado, un sombrero liso sin escamas pero con una pruina rosada en el margen, no amarillea de inmediato al rozarse y su esporada es más oscura, amarillo anaranjada; crece sobre todo con píceas y pinos. Cantharellus cascadensis es amarillo brillante, su sombrero puede palidecer hasta blanquecino en el centro y la base del pie puede ser bulbosa. Cantharellus subalbidus es blanquecino en conjunto y solo amarillea lentamente al manipularlo. Cantharellus cibarius es una especie europea cuyo nombre se aplicó erróneamente durante mucho tiempo a las recolecciones occidentales. Hygrophoropsis aurantiaca tiene láminas finas de color naranja vivo en lugar de pliegues romos. Turbinellus floccosus tiene forma de trompeta más profunda y un sombrero escamoso de un naranja más vivo. El venenoso Omphalotus olivascens tiene láminas finas, en forma de placa, con tonos oliváceos y crece en grupos sobre madera.",
+      "notes": "Las recolecciones de Cantharellus de color amarillo dorado del oeste de Norteamérica se registraron durante mucho tiempo como Cantharellus cibarius; esta especie se distingue por sus caracteres, su ecología y su ADN, ya que su región ITS del rDNA es unos 200 pares de bases más larga. Sus colores y su superficie varían mucho según el tiempo y la luz, y la variación genética entre las recolecciones asignadas a ella aún requiere estudio. Es la seta oficial del estado de Oregón desde 1999. Una evaluación mundial de 2021 la clasifica como Preocupación menor (Least Concern), con una población en aumento.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Lihakas lehtrikujuline perekonna Cantharellus liik Põhja-Ameerika lääneosast, mis kasvab üksikult, hajusalt või väikeste rühmadena okaspuude all metsakõdul. Levila ulatub Põhja-Californiast Oregoni, Washingtoni ja Briti Columbia kaudu Kagu-Alaskani ning liik moodustab ektomükoriisat nii noortes kui ka vanades metsades.",
+      "cap": "Läbimõõt 2–14 cm, noorena kumer sissekeerdunud servaga, hiljem lame, madalalt lohkus või lehtrikujuline lainja ja ülespööratud servaga. Tuhmilt oranžikaskollane kuni oranž, niiske ilmaga erkoranžikaskollane ja sügavas varjus lõhevärvi kuni roosaka nahkjaspruunini. Õhuke hallikaspruun pinnakiht muutub kuiva ilmaga nähtavamaks ning võib laguneda väikesteks tumedamateks liibuvateks soomusteks. Pind on kuiv, seemisnahkjas kuni sile ning muutub vajutamisel aeglaselt kollaseks ja seejärel ookerjaks.",
+      "hymenium": "Nürid, hästi arenenud ribid (vale-eosled), kuni 2 mm sügavad, laskuvad kaugele jalale; need hargnevad serva poole, on tihedad kuni üsna hõredad ning sageli põikiroodudega ühendatud. Kahvatult oranžikaskollased, tavaliselt kübarast kahvatumad ja sageli roosaka varjundiga, sügavas varjus valkjad kuni nahkjaspruunid, vajutamisel muutuvad kollaseks ja seejärel ookerjaks. Basiidides on 4–6 eost ning need on 86–120 × 8–11,6 µm; tsüstiidid puuduvad ja pandlad on rohked.",
+      "stipe": "Pikkus 4–8 cm ja jämedus 0,4–2,2 cm, täidisega, ühtlase jämedusega või alla ahenev ning mõnikord lamenenud. Kübaraga sama värvi või veidi kahvatum, sile kuni peenkiulise pinnaga, vajutamisel muutub kollaseks ja seejärel ookerjaks. Rõngast ega tuppe ei ole.",
+      "flesh": "Tihke ja lihakas, valkjas kuni kahvatukollane, värviliste pindade all kollakam. Lõhn nõrk, meeldivalt puuviljane või kergelt magusjas; maitse mahe, mõnikord veidi puuviljane või pipraine.",
+      "sporePrint": "Kollakasvalge. Eosed 6,5–10 × 4,7–7 µm, enamasti 7,2–9,2 × 4,7–6,1 µm, laialt munajad kuni ellipsoidsed, siledad, õhukeseseinalised, värvitud ja mitteamüloidsed.",
+      "habitat": "Moodustab ektomükoriisat okaspuudega, eriti liikidega Tsuga heterophylla, Pseudotsuga menziesii ja Picea sitchensis, ning seda on üks kord leitud peaaegu puhastest Pinus contorta puistutest rannikuluidetel. Kasvab samblas ja okkakõdus, nii teisese kui ka vana metsa puistutes ning on eriti sage noortes kuni keskealistes puistutes. Viljakehad suve keskpaigast talve alguseni, California rannikul kesktalveni.",
+      "uses": "Suurepärane söögiseen tugeva viljaliha ning maheda puuviljase maitsega. See on Vaikse ookeani loodeosa tähtsaim kaubanduslikult korjatav Cantharellus'e liik ning seda müüakse kohalikul, riiklikul ja rahvusvahelisel turul.",
+      "confusion": "Liigil Cantharellus roseocanus on erksamad oranžikaskollased ribid, mis on sama tugeva värvusega kui kübar või tumedamad ega ole roosaka varjundiga, sile soomusteta kübar, mille serval on roosakas kirme; see ei muutu vajutamisel kohe kollaseks ning eoslehe jäljend on tumedam, oranžikaskollane. Kasvab peamiselt kuuskede ja mändidega. Cantharellus cascadensis on erekollane, selle kübar võib keskelt valkjaks pleekida ja jala alus võib olla mugulja. Cantharellus subalbidus on üleni valkjas ja muutub katsumisel vaid aeglaselt kollakaks. Cantharellus cibarius on Euroopa liik, kelle nime kasutati kaua ekslikult lääneosa leidude kohta. Hygrophoropsis aurantiaca on õhukeste erkoranžide eoslehtedega, mitte tömpide voltidega. Turbinellus floccosus on sügavamalt trompetikujuline ning erksamalt oranži soomuselise kübaraga. Mürgisel liigil Omphalotus olivascens on õhukesed plaadikujulised eosled oliivikate toonidega ning see kasvab kobaratena puidul.",
+      "notes": "Põhja-Ameerika lääneosa kuldkollaseid Cantharellus'e leide kirjendati kaua kui Cantharellus cibarius; see liik eristub tunnuste, ökoloogia ja DNA poolest, kusjuures selle rDNA ITS-piirkond on umbes 200 aluspaari võrra pikem. Värvus ja pind muutuvad tugevasti ilma ja valguse järgi ning sellele liigile omistatud leidude geneetiline varieeruvus vajab veel uurimist. Alates 1999. aastast on see Oregoni osariigi ametlik seen. 2021. aasta ülemaailmne hinnang liigitab selle soodsasse seisundisse (Least Concern), populatsioon suureneb.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fa": {
+      "description": "عضوی گوشتی و قیفی‌شکل از سردهٔ Cantharellus در غرب آمریکای شمالی که به‌صورت تکی، پراکنده یا در گروه‌های کوچک روی کف جنگل زیر درختان سوزنی‌برگ می‌روید. گسترهٔ آن از شمال کالیفرنیا از راه اورگن، واشینگتن و بریتیش کلمبیا تا جنوب‌شرقی آلاسکا است و هم در جنگل‌های جوان و هم در جنگل‌های کهن قارچ‌ریشهٔ بیرونی می‌سازد.",
+      "cap": "پهنای ۲–۱۴ cm، در جوانی کوژ با لبهٔ به درون پیچیده، سپس تخت، کمی فرورفته یا قیفی با لبهٔ موج‌دار و برگشته. زرد نارنجی مات تا نارنجی، در هوای مرطوب زرد نارنجی روشن، و در سایهٔ ژرف سالمونی تا نخودی صورتی. لایهٔ سطحی نازک خاکستری‌قهوه‌ای در هوای خشک آشکارتر می‌شود و ممکن است به فلس‌های ریز، تیره‌تر و چسبیده ترک بخورد. سطح خشک، جیرمانند تا صاف است و با فشار به‌آرامی زرد و سپس اُخرایی می‌شود.",
+      "hymenium": "برجستگی‌های کُند و به‌خوبی رشدیافته (تیغه‌های کاذب) به ژرفای حداکثر ۲ mm که تا پایین پایه کشیده می‌شوند؛ به‌سوی لبه دوشاخه می‌شوند، از فشرده تا نسبتاً تُنُک‌اند و اغلب با رگه‌های عرضی به هم می‌پیوندند. زرد نارنجی کم‌رنگ، معمولاً روشن‌تر از کلاهک و اغلب با ته‌رنگ صورتی، در سایهٔ ژرف سفیدفام تا نخودی؛ با فشار زرد و سپس اُخرایی می‌شوند. بازیدیوم‌ها ۴–۶ هاگ دارند و اندازهٔ آن‌ها ۸۶–۱۲۰ × ۸–۱۱٫۶ µm است؛ سیستیدیوم ندارد و اتصال‌های گیره‌ای فراوان‌اند.",
+      "stipe": "به درازای ۴–۸ cm و ستبرای ۰٫۴–۲٫۲ cm، توپر، یکنواخت یا رو به پایین باریک‌شونده و گاهی پهن‌شده. هم‌رنگ کلاهک یا کمی روشن‌تر، صاف تا ریزرشته‌ای؛ با فشار زرد و سپس اُخرایی می‌شود. حلقه و ولوا ندارد.",
+      "flesh": "سفت و گوشتی، سفیدفام تا زرد کم‌رنگ و درست زیر سطوح رنگی زردفام‌تر. بوی آن ملایم، به‌طرز خوشایندی میوه‌ای یا اندکی شیرین است؛ مزهٔ آن ملایم و گاهی اندکی میوه‌ای یا فلفلی است.",
+      "sporePrint": "سفید مایل به زرد. هاگ‌ها ۶٫۵–۱۰ × ۴٫۷–۷ µm، بیشتر ۷٫۲–۹٫۲ × ۴٫۷–۶٫۱ µm، تخم‌مرغی پهن تا بیضوی، صاف، نازک‌دیواره، شفاف و غیرآمیلوئید.",
+      "habitat": "با سوزنی‌برگان، به‌ویژه Tsuga heterophylla، Pseudotsuga menziesii و Picea sitchensis، قارچ‌ریشهٔ بیرونی می‌سازد و یک بار در توده‌های تقریباً خالص Pinus contorta روی تپه‌های ماسه‌ای ساحلی یافت شده است. در خزه و لاشبرگ سوزنی، در جنگل‌های ثانویه و کهن می‌روید و به‌ویژه در توده‌های جوان تا میان‌سال فراوان است. اندام‌های باردهی از میانهٔ تابستان تا آغاز زمستان و در کرانهٔ کالیفرنیا تا میانهٔ زمستان پدیدار می‌شوند.",
+      "uses": "قارچ خوراکی عالی با گوشت سفت و مزهٔ ملایم و میوه‌ای. این مهم‌ترین گونهٔ Cantharellus است که در شمال‌غرب اقیانوس آرام به‌صورت تجاری برداشت می‌شود و در بازارهای محلی، ملی و بین‌المللی فروخته می‌شود.",
+      "confusion": "Cantharellus roseocanus برجستگی‌هایی با زرد نارنجی زنده‌تر دارد که به شدت رنگ کلاهک یا تیره‌ترند و ته‌رنگ صورتی ندارند، کلاهکی صاف و بی‌فلس اما با غبار صورتی در لبه، با فشار بی‌درنگ زرد نمی‌شود و نقش هاگ آن تیره‌تر و زرد نارنجی است؛ بیشتر زیر نوئل‌ها و کاج‌ها می‌روید. Cantharellus cascadensis زرد روشن است، کلاهکش ممکن است در میانه تا سفیدفام کم‌رنگ شود و پایهٔ ساقه‌اش ممکن است پیازی باشد. Cantharellus subalbidus سراسر سفیدفام است و جایی که لمس شود تنها به‌آرامی زردفام می‌شود. Cantharellus cibarius گونه‌ای اروپایی است که نامش مدت‌ها به‌اشتباه برای نمونه‌های غربی به کار رفته است. Hygrophoropsis aurantiaca به‌جای برجستگی‌های کُند، تیغه‌های نازک و نارنجی روشن دارد. Turbinellus floccosus شیپوری‌شکل‌تر و ژرف‌تر است و کلاهکی نارنجی‌تر و فلس‌دار دارد. Omphalotus olivascens سمی تیغه‌های نازک و صفحه‌مانند با ته‌رنگ زیتونی دارد و به‌صورت دسته‌ای روی چوب می‌روید.",
+      "notes": "نمونه‌های زرد طلایی Cantharellus از غرب آمریکای شمالی مدت‌ها با نام Cantharellus cibarius ثبت می‌شدند؛ این گونه با ویژگی‌ها، بوم‌شناسی و دی‌ان‌ای جدا می‌شود و ناحیهٔ ITS در دی‌ان‌ای ریبوزومی آن حدود ۲۰۰ جفت‌باز بلندتر است. رنگ‌ها و سطح بسته به هوا و نور بسیار تغییر می‌کنند و تنوع ژنتیکی نمونه‌های منسوب به این گونه هنوز نیازمند بررسی است. از سال ۱۹۹۹ قارچ رسمی ایالت اورگن است. ارزیابی جهانی سال ۲۰۲۱ آن را در ردهٔ کمترین نگرانی (Least Concern) با جمعیتی رو به افزایش قرار داده است.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Lihaisa, suppilomainen Cantharellus-suvun laji läntisestä Pohjois-Amerikasta. Se kasvaa yksittäin, hajallaan tai pieninä ryhminä havupuiden alla metsänpohjalla. Levinneisyys ulottuu Pohjois-Kaliforniasta Oregonin, Washingtonin ja Brittiläisen Kolumbian kautta Kaakkois-Alaskaan, ja laji muodostaa ektomykorritsan sekä nuorissa että vanhoissa metsissä.",
+      "cap": "Leveys 2–14 cm, nuorena kupera ja reuna sisäänkääntynyt, myöhemmin tasainen, matalasti painunut tai suppilomainen, reuna aaltoileva ja kohoava. Himmeän oranssinkeltainen tai oranssi, märällä säällä kirkkaan oranssinkeltainen ja syvässä varjossa lohenpunainen tai ruusunruskehtava. Ohut harmaanruskea pintakerros näkyy selvemmin kuivalla säällä ja voi rikkoutua pieniksi, tummemmiksi, painuneiksi suomuiksi. Pinta on kuiva, mokkanahkamainen tai sileä ja tummuu painettaessa hitaasti keltaiseksi ja sitten okranväriseksi.",
+      "hymenium": "Tylpät, hyvin kehittyneet harjanteet (valeheltat), enintään 2 mm syvät, laskeutuvat pitkälle jalalle; ne haarautuvat reunaa kohti, ovat tiheässä tai melko harvassa ja usein poikittaissuonten yhdistämiä. Vaalean oranssinkeltaiset, yleensä lakkia vaaleammat ja usein punertavan vivahteiset, syvässä varjossa vaaleat tai nahanruskehtavat; painettaessa ne kellastuvat ja muuttuvat sitten okranvärisiksi. Kantasoluissa on 4–6 itiötä, ja ne ovat 86–120 × 8–11,6 µm; kystidit puuttuvat ja solkiliitokset ovat runsaita.",
+      "stipe": "Pituus 4–8 cm ja paksuus 0,4–2,2 cm, umpinainen, tasapaksu tai alaspäin kapeneva ja joskus litistynyt. Lakin värinen tai hieman vaaleampi, sileä tai hienosäikeinen; painettaessa kellastuva ja sitten okranvärinen. Rengasta ja tuppea ei ole.",
+      "flesh": "Kiinteä ja lihaisa, valkeahko tai vaaleankeltainen, värillisten pintojen alla keltaisempi. Haju heikko, miellyttävän hedelmäinen tai heikosti makeahko; maku mieto, joskus hieman hedelmäinen tai pippurinen.",
+      "sporePrint": "Kellertävänvalkoinen. Itiöt 6,5–10 × 4,7–7 µm, useimmiten 7,2–9,2 × 4,7–6,1 µm, leveän munanmuotoisia tai ellipsoidisia, sileitä, ohutseinäisiä, värittömiä ja amyloidittomia.",
+      "habitat": "Muodostaa ektomykorritsan havupuiden kanssa, erityisesti lajien Tsuga heterophylla, Pseudotsuga menziesii ja Picea sitchensis, ja se on tavattu kerran lähes puhtaista Pinus contorta -metsiköistä rannikkodyyneiltä. Se kasvaa sammalessa ja neulaskarikkeessa, sekä talousmetsissä että vanhoissa metsissä, ja se on erityisen yleinen nuorissa ja keski-ikäisissä metsiköissä. Itiöemiä keskikesästä alkutalveen, Kalifornian rannikolla sydäntalveen asti.",
+      "uses": "Erinomainen ruokasieni, jonka malto on kiinteä ja maku mieto ja hedelmäinen. Se on Tyynenmeren luoteisrannikon tärkein kaupallisesti kerätty Cantharellus-laji, ja sitä myydään paikallisesti, kansallisesti ja kansainvälisesti.",
+      "confusion": "Cantharellus roseocanus -lajilla on kirkkaamman oranssinkeltaiset harjanteet, jotka ovat yhtä voimakkaan värisiä kuin lakki tai tummempia eikä niissä ole punertavaa vivahdetta, sileä lakki ilman suomuja mutta reunassa punertava huurre; se ei kellastu heti painettaessa, ja sen itiöpöly on tummempi, oranssinkeltainen. Se kasvaa etupäässä kuusten ja mäntyjen kanssa. Cantharellus cascadensis on kirkkaankeltainen, sen lakki voi haalistua keskeltä vaaleaksi ja jalan tyvi voi olla mukulamainen. Cantharellus subalbidus on kauttaaltaan vaalea ja kellastuu käsiteltäessä vain hitaasti. Cantharellus cibarius on eurooppalainen laji, jonka nimeä käytettiin pitkään virheellisesti läntisistä löydöistä. Hygrophoropsis aurantiaca on ohuet, kirkkaan oranssit heltat tylppien poimujen sijaan. Turbinellus floccosus on syvemmin torvimainen, ja sen lakki on kirkkaamman oranssi ja suomuinen. Myrkyllisellä Omphalotus olivascens -lajilla on ohuet, levymäiset heltat, joissa on oliivinvihreitä sävyjä, ja se kasvaa kimppuina puulla.",
+      "notes": "Läntisen Pohjois-Amerikan kullankeltaiset Cantharellus-löydöt kirjattiin pitkään lajiksi Cantharellus cibarius; tämä laji erotetaan tuntomerkkien, ekologian ja DNA:n perusteella, ja sen rDNA:n ITS-alue on noin 200 emäsparia pidempi. Värit ja pinta vaihtelevat voimakkaasti sään ja valon mukaan, ja lajiin luettujen löytöjen geneettistä vaihtelua on vielä tutkittava. Se on ollut Oregonin virallinen osavaltiosieni vuodesta 1999. Vuoden 2021 maailmanlaajuinen arvio luokittelee sen elinvoimaiseksi (Least Concern), ja sen kanta kasvaa.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fr": {
+      "description": "Un champignon charnu en entonnoir du genre Cantharellus, propre à l'ouest de l'Amérique du Nord, poussant isolé, dispersé ou en petites touffes sur le sol forestier sous les conifères. Il s'étend du nord de la Californie à l'Oregon, à l'État de Washington et à la Colombie-Britannique, jusqu'au sud-est de l'Alaska, et forme des ectomycorhizes dans les jeunes comme dans les vieilles forêts.",
+      "cap": "De 2–14 cm de diamètre, convexe à marge enroulée lorsqu'il est jeune, puis plan, légèrement déprimé ou en entonnoir, à marge ondulée et relevée. Jaune orangé terne à orange, jaune orangé vif par temps humide, saumon à chamois rosé à l'ombre profonde. Une fine couche superficielle brun grisâtre devient plus visible par temps sec et peut se fragmenter en petites squames apprimées plus sombres. La surface est sèche, de veloutée comme du daim à lisse, et jaunit lentement au froissement avant de devenir ocre.",
+      "hymenium": "Plis (fausses lames) obtus et bien développés, profonds de 2 mm au plus, longuement décurrents sur le pied ; ils se fourchent vers la marge, sont serrés à assez espacés et souvent reliés par des veines transversales. Jaune orangé pâle, généralement plus pâles que le chapeau et souvent teintés de rose, blanchâtres à chamois à l'ombre profonde, jaunissant puis devenant ocre au froissement. Les basides portent 4–6 spores et mesurent 86–120 × 8–11,6 µm ; les cystides sont absentes et les boucles sont abondantes.",
+      "stipe": "Long de 4–8 cm et épais de 0,4–2,2 cm, plein, égal ou atténué vers le bas et parfois comprimé. Concolore au chapeau ou un peu plus pâle, lisse à finement fibrilleux, jaunissant puis devenant ocre au froissement. Ni anneau ni volve.",
+      "flesh": "Ferme et charnue, blanchâtre à jaune pâle, plus jaunâtre juste sous les surfaces colorées. Odeur faible, agréablement fruitée ou légèrement douce ; saveur douce, parfois un peu fruitée ou poivrée.",
+      "sporePrint": "Blanc jaunâtre. Spores de 6,5–10 × 4,7–7 µm, le plus souvent de 7,2–9,2 × 4,7–6,1 µm, largement ovoïdes à ellipsoïdes, lisses, à paroi mince, hyalines et non amyloïdes.",
+      "habitat": "Ectomycorhizien avec les conifères, surtout Tsuga heterophylla, Pseudotsuga menziesii et Picea sitchensis, et observé une fois dans des peuplements presque purs de Pinus contorta sur des dunes côtières. Il pousse dans la mousse et la litière d'aiguilles, dans les forêts de seconde venue et anciennes, et il est particulièrement commun dans les peuplements jeunes à d'âge moyen. Fructifie du plein été au début de l'hiver, et jusqu'au milieu de l'hiver sur la côte californienne.",
+      "uses": "Excellent comestible à chair ferme et à saveur douce et fruitée. C'est l'espèce de Cantharellus récoltée commercialement la plus importante du Nord-Ouest Pacifique ; elle est vendue sur les marchés locaux, nationaux et internationaux.",
+      "confusion": "Cantharellus roseocanus a des plis jaune orangé plus vifs, aussi intenses que le chapeau ou plus foncés et sans teinte rosée, un chapeau lisse sans squames mais avec une pruine rosée à la marge, ne jaunit pas immédiatement au froissement et donne une sporée plus foncée, jaune orangé ; il pousse surtout avec les épicéas et les pins. Cantharellus cascadensis est jaune vif, son chapeau peut pâlir jusqu'au blanchâtre au centre et la base de son pied peut être bulbeuse. Cantharellus subalbidus est blanchâtre dans l'ensemble et ne jaunit que lentement au toucher. Cantharellus cibarius est une espèce européenne dont le nom a longtemps été appliqué à tort aux récoltes de l'Ouest. Hygrophoropsis aurantiaca a de fines lames orange vif au lieu de plis obtus. Turbinellus floccosus est plus profondément en trompette, avec un chapeau squameux d'un orange plus vif. Le toxique Omphalotus olivascens a des lames minces en forme de lamelles vraies, à reflets olivâtres, et pousse en touffes sur le bois.",
+      "notes": "Les récoltes de Cantharellus jaune doré de l'ouest de l'Amérique du Nord ont longtemps été rapportées à Cantharellus cibarius ; cette espèce s'en distingue par ses caractères, son écologie et son ADN, sa région ITS de l'rDNA étant plus longue d'environ 200 paires de bases. Ses couleurs et sa surface varient fortement selon le temps et la lumière, et la variation génétique des récoltes qui lui sont attribuées reste à étudier. C'est le champignon officiel de l'État de l'Oregon depuis 1999. Une évaluation mondiale de 2021 le classe en Préoccupation mineure (Least Concern), avec une population en augmentation.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "he": {
+      "description": "מין בשרני דמוי משפך מהסוג Cantharellus ממערב צפון אמריקה, הגדל ביחידים, בפיזור או בקבוצות קטנות על קרקעית היער מתחת לעצי מחט. תפוצתו משתרעת מצפון קליפורניה דרך אורגון, וושינגטון וקולומביה הבריטית ועד דרום-מזרח אלסקה, והוא יוצר מיקוריזה חיצונית ביערות צעירים וותיקים כאחד.",
+      "cap": "רוחב 2–14 cm; בצעירותו קמור עם שוליים מגולגלים פנימה, ולאחר מכן שטוח, שקוע מעט או דמוי משפך עם שוליים גליים ומורמים. צהוב-כתום עמום עד כתום, צהוב-כתום עז במזג אוויר רטוב, ובצל עמוק בצבע סלמון עד בז' ורדרד. שכבת שטח דקה אפורה-חומה בולטת יותר במזג אוויר יבש ועשויה להיסדק לקשקשים קטנים, כהים יותר וצמודים. פני השטח יבשים, דמויי זמש עד חלקים, מצהיבים לאט בלחיצה ואחר כך נעשים אוכריים.",
+      "hymenium": "רכסים קהים ומפותחים היטב (זימים מדומים), עמוקים עד 2 mm, יורדים הרחק על הרגל; מתפצלים לעבר השוליים, צפופים עד דלילים למדי ולעיתים קרובות מחוברים בעורקים רוחביים. צהוב-כתום חיוור, בדרך כלל בהיר מהכובע ולעיתים קרובות בגוון ורדרד, ובצל עמוק לבנבן עד בז'; מצהיבים בלחיצה ואחר כך נעשים אוכריים. הבזידיות נושאות 4–6 נבגים ומידותיהן 86–120 × 8–11.6 µm; אין ציסטידות, ומחברי אבזם מצויים בשפע.",
+      "stipe": "אורך 4–8 cm ועובי 0.4–2.2 cm, מלאה, אחידה או מצרה כלפי מטה ולעיתים פחוסה. בצבע הכובע או מעט בהירה ממנו, חלקה עד סיבית דקה; מצהיבה בלחיצה ואחר כך נעשית אוכרית. אין טבעת ואין נדן.",
+      "flesh": "מוצקה ובשרנית, לבנבנה עד צהובה חיוורת, צהבהבה יותר ממש מתחת למשטחים הצבועים. ריח חלש, פירותי נעים או מתקתק מעט; טעם עדין, לעיתים פירותי או חריף מעט כפלפל.",
+      "sporePrint": "לבן-צהבהב. נבגים 6.5–10 × 4.7–7 µm, רובם 7.2–9.2 × 4.7–6.1 µm, ביציים רחבים עד אליפסואידיים, חלקים, דקי דופן, שקופים ואינם עמילואידיים.",
+      "habitat": "יוצר מיקוריזה חיצונית עם עצי מחט, במיוחד עם Tsuga heterophylla, Pseudotsuga menziesii ו-Picea sitchensis, ופעם אחת נמצא בעומדים כמעט טהורים של Pinus contorta על דיונות חוף. גדל בטחב ובשכבת מחטים, ביערות משניים וותיקים, ונפוץ במיוחד בעומדים צעירים עד בגיל בינוני. גופי הפרי מופיעים מאמצע הקיץ ועד תחילת החורף, ובחוף קליפורניה עד אמצע החורף.",
+      "uses": "פטרייה מצוינת למאכל, בעלת בשר מוצק וטעם עדין ופירותי. זהו המין החשוב ביותר בסוג Cantharellus הנאסף באופן מסחרי בצפון-מערב האוקיינוס השקט, והוא נמכר בשווקים מקומיים, לאומיים ובינלאומיים.",
+      "confusion": "ל-Cantharellus roseocanus רכסים בצהוב-כתום עז יותר, עזים כמו הכובע או כהים ממנו וללא גוון ורדרד, כובע חלק ללא קשקשים אך עם אבקה ורדרדה בשוליים; הוא אינו מצהיב מיד בלחיצה, ואבקת הנבגים שלו כהה יותר, צהובה-כתומה; הוא גדל בעיקר מתחת לאשוחיות ולאורנים. Cantharellus cascadensis צהוב עז, כובעו עשוי לדהות ללבנבן במרכז ובסיס רגלו עשוי להיות פקעתי. Cantharellus subalbidus לבנבן כולו ומצהיב רק לאט במקומות שנגעו בו. Cantharellus cibarius הוא מין אירופי ששמו יוחס זמן רב בטעות לאיסופים מהמערב. ל-Hygrophoropsis aurantiaca זימים דקים בכתום עז במקום רכסים קהים. Turbinellus floccosus דמוי חצוצרה עמוקה יותר, עם כובע קשקשי כתום עז יותר. Omphalotus olivascens הרעיל בעל זימים דקים דמויי לוחות בגוונים זיתיים, והוא גדל באשכולות על עץ.",
+      "notes": "איסופים זהובים-צהובים של Cantharellus ממערב צפון אמריקה נרשמו זמן רב כ-Cantharellus cibarius; מין זה נבדל בתכונותיו, באקולוגיה שלו ובדנ״א שלו, ואזור ה-ITS בדנ״א הריבוזומלי שלו ארוך בכ-200 זוגות בסיסים. הצבעים ופני השטח משתנים מאוד לפי מזג האוויר והאור, והמגוון הגנטי של האיסופים המיוחסים למין עדיין דורש מחקר. מאז 1999 הוא הפטרייה הרשמית של מדינת אורגון. הערכה עולמית משנת 2021 מסווגת אותו כמין ללא חשש (Least Concern), עם אוכלוסייה בעלייה.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "पश्चिमी उत्तरी अमेरिका का Cantharellus वंश का एक मांसल, कीप के आकार का सदस्य, जो शंकुधारी वृक्षों के नीचे वन-भूमि पर अकेले, बिखरे हुए या छोटे समूहों में उगता है। इसका विस्तार उत्तरी कैलिफ़ोर्निया से ओरेगन, वॉशिंगटन और ब्रिटिश कोलंबिया होते हुए दक्षिण-पूर्वी अलास्का तक है, और यह युवा तथा पुराने दोनों प्रकार के वनों में बाह्य-कवकमूल बनाता है।",
+      "cap": "2–14 cm चौड़ी; युवावस्था में भीतर मुड़े किनारे के साथ उत्तल, बाद में चपटी, हल्की धँसी हुई या कीप के आकार की, लहरदार और उठे हुए किनारे वाली। फीके नारंगी-पीले से नारंगी, गीले मौसम में चमकीली नारंगी-पीली, और घनी छाया में सामन-रंग से गुलाबी-बादामी। एक पतली धूसर-भूरी सतही परत सूखे मौसम में अधिक स्पष्ट होती है और छोटे, गहरे, चिपके हुए शल्कों में फट सकती है। सतह सूखी, साबर जैसी से चिकनी, दबाने पर धीरे-धीरे पीली और फिर गेरुई हो जाती है।",
+      "hymenium": "कुंद, सुविकसित धारियाँ (छद्म गलफड़े), 2 mm तक गहरी, डंठल पर दूर तक नीचे उतरती हुई; किनारे की ओर द्विशाखित, घनी से काफ़ी विरल और प्रायः आड़ी शिराओं से जुड़ी। हल्की नारंगी-पीली, सामान्यतः टोपी से हल्की और प्रायः गुलाबी आभा वाली, घनी छाया में सफ़ेद-सी से बादामी; दबाने पर पीली और फिर गेरुई हो जाती हैं। बेसिडिया 4–6 बीजाणु धारण करते हैं और 86–120 × 8–11.6 µm के होते हैं; सिस्टिडिया अनुपस्थित होते हैं और क्लैंप संयोजन प्रचुर होते हैं।",
+      "stipe": "4–8 cm लंबा और 0.4–2.2 cm मोटा, ठोस, समान या नीचे की ओर पतला और कभी-कभी चपटा। टोपी के रंग का या थोड़ा हल्का, चिकना से बारीक रेशेदार; दबाने पर पीला और फिर गेरुआ हो जाता है। न छल्ला, न वोल्वा।",
+      "flesh": "दृढ़ और मांसल, सफ़ेद-सा से हल्का पीला, रंगीन सतहों के ठीक नीचे अधिक पीलापन लिए। गंध हल्की, सुखद रूप से फलों जैसी या थोड़ी मीठी; स्वाद हल्का, कभी-कभी थोड़ा फलों जैसा या चरपरा।",
+      "sporePrint": "पीलापन लिए सफ़ेद। बीजाणु 6.5–10 × 4.7–7 µm, अधिकांशतः 7.2–9.2 × 4.7–6.1 µm, चौड़े अंडाकार से दीर्घवृत्ताकार, चिकने, पतली भित्ति वाले, पारदर्शी और अमाइलॉइड-रहित।",
+      "habitat": "यह शंकुधारियों, विशेषकर Tsuga heterophylla, Pseudotsuga menziesii और Picea sitchensis के साथ बाह्य-कवकमूल बनाता है, और एक बार तटीय टीलों पर लगभग शुद्ध Pinus contorta वनखंडों में भी पाया गया है। यह काई और सुई-पत्तियों के कूड़े में, द्वितीयक और पुराने वनों में उगता है, और युवा से मध्यम आयु के वनखंडों में विशेष रूप से आम है। फलनकाय मध्य-ग्रीष्म से आरंभिक शीत तक, और कैलिफ़ोर्निया के तट पर मध्य-शीत तक दिखाई देते हैं।",
+      "uses": "दृढ़ गूदे और हल्के, फलों जैसे स्वाद वाला एक उत्कृष्ट खाद्य कवक। यह प्रशांत उत्तर-पश्चिम में व्यावसायिक रूप से संग्रहित की जाने वाली Cantharellus की सबसे महत्वपूर्ण प्रजाति है और स्थानीय, राष्ट्रीय तथा अंतरराष्ट्रीय बाज़ारों में बिकती है।",
+      "confusion": "Cantharellus roseocanus की धारियाँ अधिक चटकीली नारंगी-पीली होती हैं, टोपी जितनी गहरी या उससे गहरी और गुलाबी आभा के बिना; इसकी टोपी शल्करहित और चिकनी होती है पर किनारे पर गुलाबी आभासी परत होती है, दबाने पर यह तुरंत पीला नहीं होता और इसकी बीजाणु छाप अधिक गहरी, नारंगी-पीली होती है; यह मुख्यतः स्प्रूस और चीड़ के नीचे उगता है। Cantharellus cascadensis चमकीला पीला होता है, इसकी टोपी बीच में सफ़ेद-सी फीकी पड़ सकती है और डंठल का आधार कंदाकार हो सकता है। Cantharellus subalbidus पूरा सफ़ेद-सा होता है और छूने की जगह केवल धीरे-धीरे पीलापन लेता है। Cantharellus cibarius एक यूरोपीय प्रजाति है जिसका नाम लंबे समय तक भूल से पश्चिमी संग्रहों पर लागू किया गया। Hygrophoropsis aurantiaca में कुंद धारियों के बजाय पतले, चमकीले नारंगी गलफड़े होते हैं। Turbinellus floccosus अधिक गहरा तुरही जैसा होता है, जिसकी टोपी अधिक चटकीली नारंगी और शल्कीय होती है। विषैले Omphalotus olivascens के गलफड़े पतले, पट्टिका जैसे और जैतूनी आभा वाले होते हैं, और यह लकड़ी पर गुच्छों में उगता है।",
+      "notes": "पश्चिमी उत्तरी अमेरिका के सुनहरे-पीले Cantharellus संग्रह लंबे समय तक Cantharellus cibarius के रूप में दर्ज किए गए; यह प्रजाति अपने लक्षणों, पारिस्थितिकी और डीएनए से भिन्न है, और इसके राइबोसोमल डीएनए का ITS क्षेत्र लगभग 200 क्षार-युग्म अधिक लंबा है। रंग और सतह मौसम और प्रकाश के अनुसार बहुत बदलते हैं, और इस प्रजाति को सौंपे गए संग्रहों की आनुवंशिक विविधता पर अभी शोध की आवश्यकता है। 1999 से यह ओरेगन राज्य का आधिकारिक कवक है। 2021 के एक वैश्विक आकलन ने इसे बढ़ती आबादी के साथ न्यूनतम चिंता (Least Concern) की श्रेणी में रखा है।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Mesnat, ljevkast predstavnik roda Cantharellus sa zapada Sjeverne Amerike koji raste pojedinačno, raštrkano ili u malim skupinama na šumskom tlu pod četinjačama. Rasprostranjen je od sjeverne Kalifornije preko Oregona, Washingtona i Britanske Kolumbije do jugoistočne Aljaske te tvori ektomikorizu u mladim i starim šumama.",
+      "cap": "Širok 2–14 cm, u mladosti izbočen s podvijenim rubom, kasnije ravan, plitko udubljen ili ljevkast s valovitim, uzdignutim rubom. Mutno narančastožut do narančast, po vlažnom vremenu jarko narančastožut, a u dubokoj sjeni boje lososa do ružičastosmeđe. Tanki sivosmeđi površinski sloj po suhom vremenu postaje uočljiviji i može se raspucati u sitne, tamnije, priljubljene ljuskice. Površina je suha, poput antilop-kože do glatka i na pritisak polako požuti, a zatim postane okerasta.",
+      "hymenium": "Tupe, dobro razvijene letvice (lažni listići), duboke do 2 mm, daleko silaze niz stručak; prema rubu se račvaju, guste su do prilično rijetke i često poprečno povezane. Blijedo narančastožute, obično svjetlije od klobuka i često s ružičastim odsjajem, u dubokoj sjeni bjelkaste do svijetlosmeđe; na pritisak požute, a zatim postanu okeraste. Bazidije nose 4–6 spora i mjere 86–120 × 8–11,6 µm; cistide nedostaju, a kopče su brojne.",
+      "stipe": "Dug 4–8 cm i debeo 0,4–2,2 cm, pun, jednako debeo ili prema dnu sužen i ponekad spljošten. Boje klobuka ili nešto svjetliji, gladak do fino vlaknast; na pritisak požuti, a zatim postane okerast. Nema vjenčića ni vrećice.",
+      "flesh": "Čvrsto i mesnato, bjelkasto do blijedožuto, neposredno ispod obojenih površina žućkastije. Miris je slab, ugodno voćni ili blago slatkast; okus je blag, ponekad lagano voćni ili paprenast.",
+      "sporePrint": "Žućkastobijel. Spore 6,5–10 × 4,7–7 µm, uglavnom 7,2–9,2 × 4,7–6,1 µm, široko jajolike do elipsoidne, glatke, tankih stijenki, hijaline i neamiloidne.",
+      "habitat": "Tvori ektomikorizu s četinjačama, osobito s Tsuga heterophylla, Pseudotsuga menziesii i Picea sitchensis, a jednom je zabilježen u gotovo čistim sastojinama Pinus contorta na obalnim dinama. Raste u mahovini i iglicama, u sekundarnim i starim šumama, a osobito je čest u mladim do srednjedobnim sastojinama. Plodišta se javljaju od sredine ljeta do početka zime, a na kalifornijskoj obali do sredine zime.",
+      "uses": "Izvrsna jestiva gljiva čvrstog mesa i blagog, voćnog okusa. Najvažnija je komercijalno sakupljana vrsta roda Cantharellus na pacifičkom sjeverozapadu i prodaje se na lokalnim, nacionalnim i međunarodnim tržištima.",
+      "confusion": "Cantharellus roseocanus ima jarkije narančastožute letvice, jednako intenzivne kao klobuk ili tamnije i bez ružičastog odsjaja, gladak klobuk bez ljuskica, ali s ružičastim mazom na rubu, na pritisak ne požuti odmah i ima tamniji, narančastožut otisak spora; raste uglavnom uz smreke i borove. Cantharellus cascadensis je jarko žut, klobuk mu u sredini može izblijedjeti do bjelkastog, a baza stručka može biti gomoljasta. Cantharellus subalbidus je posve bjelkast i na mjestima dodira tek polako požuti. Cantharellus cibarius je europska vrsta čije se ime dugo pogrešno primjenjivalo na zapadne nalaze. Hygrophoropsis aurantiaca ima tanke, jarko narančaste listiće umjesto tupih letvica. Turbinellus floccosus dublje je trubast, s jarkije narančastim, ljuskavim klobukom. Otrovni Omphalotus olivascens ima tanke, pločaste listiće s maslinastim tonovima i raste u busenima na drvu.",
+      "notes": "Zlatnožuti nalazi roda Cantharellus sa zapada Sjeverne Amerike dugo su bilježeni kao Cantharellus cibarius; ova se vrsta razlikuje obilježjima, ekologijom i DNK, a njezina je ITS regija u rDNA oko 200 parova baza dulja. Boje i površina snažno se mijenjaju ovisno o vremenu i svjetlu, a genetska raznolikost nalaza pripisanih ovoj vrsti još zahtijeva istraživanje. Od 1999. službena je gljiva savezne države Oregon. Globalna procjena iz 2021. svrstava je među najmanje zabrinjavajuće vrste (Least Concern), s rastućom populacijom.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Húsos, tölcsér alakú Cantharellus-faj Észak-Amerika nyugati részéről, amely magányosan, szórtan vagy kis csoportokban nő az erdő talaján, tűlevelűek alatt. Elterjedése Észak-Kaliforniától Oregonon, Washingtonon és Brit Columbián át Délkelet-Alaszkáig terjed, és fiatal és idős erdőkben egyaránt ektomikorrhizát képez.",
+      "cap": "Átmérője 2–14 cm, fiatalon domború, begöngyölt szélű, később lapos, sekélyen bemélyedő vagy tölcséres, hullámos, felhajló szélű. Fakó narancssárga vagy narancsszínű, nedves időben élénk narancssárga, mély árnyékban lazacszínű vagy rózsás okkerbarna. Vékony szürkésbarna felszíni rétege száraz időben jobban látszik, és apró, sötétebb, rásimuló pikkelyekre repedezhet. Felszíne száraz, velúrszerű vagy sima, nyomásra lassan megsárgul, majd okkeres lesz.",
+      "hymenium": "Tompa, jól fejlett redői (állemezei) legfeljebb 2 mm mélyek, messze lefutnak a tönkre; a szél felé villásan elágaznak, sűrűn vagy elég ritkán állnak, és gyakran harántereken kapcsolódnak. Halvány narancssárgák, rendszerint halványabbak a kalapnál, és gyakran rózsás árnyalatúak, mély árnyékban fehéresek vagy okkerbarnák; nyomásra megsárgulnak, majd okkeresek lesznek. A bazídiumok 4–6 spórát viselnek, méretük 86–120 × 8–11,6 µm; cisztidiumok nincsenek, csatok bőven vannak.",
+      "stipe": "4–8 cm hosszú és 0,4–2,2 cm vastag, tömött, egyenletesen vastag vagy lefelé elvékonyodó, néha lapított. A kalappal egyszínű vagy kissé halványabb, sima vagy finoman szálas; nyomásra megsárgul, majd okkeres lesz. Gallérja és bocskora nincs.",
+      "flesh": "Kemény és húsos, fehéres vagy halványsárga, közvetlenül a színes felszínek alatt sárgásabb. Illata gyenge, kellemesen gyümölcsös vagy enyhén édeskés; íze enyhe, néha kissé gyümölcsös vagy borsos.",
+      "sporePrint": "Sárgásfehér. Spórái 6,5–10 × 4,7–7 µm-esek, többnyire 7,2–9,2 × 4,7–6,1 µm-esek, szélesen tojásdadok vagy ellipszoidok, simák, vékony falúak, hialinok és nem amiloidok.",
+      "habitat": "Tűlevelűekkel, különösen Tsuga heterophylla, Pseudotsuga menziesii és Picea sitchensis fajokkal képez ektomikorrhizát, és egyszer szinte tiszta Pinus contorta-állományban is megtalálták tengerparti dűnéken. Mohában és tűavarban nő, másodlagos és idős erdőkben egyaránt, és különösen gyakori a fiatal és középkorú állományokban. Termőteste nyár derekától kora télig jelenik meg, a kaliforniai parton tél közepéig.",
+      "uses": "Kiváló ehető gomba kemény hússal és enyhe, gyümölcsös ízzel. A csendes-óceáni északnyugat legfontosabb kereskedelmi céllal gyűjtött Cantharellus-faja, amelyet helyi, országos és nemzetközi piacokon is árusítanak.",
+      "confusion": "A Cantharellus roseocanus redői élénkebb narancssárgák, ugyanolyan erős színűek, mint a kalap, vagy sötétebbek, és nincs rózsás árnyalatuk; kalapja sima, pikkelytelen, de szélén rózsás hamvú, nyomásra nem sárgul meg azonnal, spórapora sötétebb, narancssárga; főként lucfenyők és erdeifenyők alatt nő. A Cantharellus cascadensis élénksárga, kalapja középen fehéresre fakulhat, tönkje töve gumós lehet. A Cantharellus subalbidus egészében fehéres, és érintésre csak lassan sárgul. A Cantharellus cibarius európai faj, amelynek nevét sokáig tévesen alkalmazták a nyugati gyűjtésekre. A Hygrophoropsis aurantiaca vékony, élénk narancsszínű lemezeket visel tompa redők helyett. A Turbinellus floccosus mélyebben trombita alakú, kalapja élénkebb narancsszínű és pikkelyes. A mérgező Omphalotus olivascens vékony, lapszerű lemezei olívás árnyalatúak, és csoportosan nő fán.",
+      "notes": "Észak-Amerika nyugati részének aranysárga Cantharellus-gyűjtéseit sokáig Cantharellus cibarius néven tartották nyilván; ez a faj bélyegei, ökológiája és DNS-e alapján különül el, rDNS-ének ITS-régiója mintegy 200 bázispárral hosszabb. Színei és felszíne erősen változnak az időjárás és a fény szerint, és a hozzá sorolt gyűjtések genetikai változatosságát még vizsgálni kell. 1999 óta Oregon állam hivatalos gombája. Egy 2021-es globális értékelés a nem fenyegetett (Least Concern) kategóriába sorolja, állománya növekszik.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "id": {
+      "description": "Anggota genus Cantharellus yang berdaging dan berbentuk corong dari Amerika Utara bagian barat, tumbuh tunggal, tersebar, atau dalam kelompok kecil di lantai hutan di bawah pohon konifer. Sebarannya meliputi California utara melalui Oregon, Washington, dan British Columbia hingga Alaska tenggara, dan membentuk ektomikoriza di hutan muda maupun hutan tua.",
+      "cap": "Lebar 2–14 cm; cembung dengan tepi tergulung ke dalam saat muda, kemudian datar, sedikit cekung, atau berbentuk corong dengan tepi bergelombang dan terangkat. Kuning-jingga kusam hingga jingga, kuning-jingga cerah saat cuaca basah, salem hingga krem kemerahmudaan di tempat teduh. Lapisan permukaan tipis berwarna cokelat keabuan lebih tampak saat cuaca kering dan dapat retak menjadi sisik kecil, lebih gelap, dan menempel. Permukaannya kering, seperti suede hingga halus, perlahan menguning bila ditekan, lalu menjadi oker.",
+      "hymenium": "Rusuk tumpul yang berkembang baik (lamela palsu), dalamnya hingga 2 mm, menurun jauh pada tangkai; bercabang ke arah tepi, rapat hingga agak jarang, dan sering terhubung oleh urat melintang. Kuning-jingga pucat, biasanya lebih pucat daripada tudung dan sering bernuansa merah muda, keputihan hingga krem di tempat sangat teduh; menguning bila ditekan, lalu menjadi oker. Basidia membawa 4–6 spora dan berukuran 86–120 × 8–11,6 µm; sistidia tidak ada dan sambungan apit melimpah.",
+      "stipe": "Panjang 4–8 cm dan tebal 0,4–2,2 cm, padat, sama tebal atau meruncing ke bawah dan kadang pipih. Sewarna tudung atau sedikit lebih pucat, halus hingga berserat halus; menguning bila ditekan, lalu menjadi oker. Tanpa cincin dan tanpa volva.",
+      "flesh": "Padat dan berdaging, keputihan hingga kuning pucat, lebih kekuningan tepat di bawah permukaan yang berwarna. Baunya samar, harum seperti buah atau agak manis; rasanya lembut, kadang sedikit seperti buah atau pedas seperti merica.",
+      "sporePrint": "Putih kekuningan. Spora 6,5–10 × 4,7–7 µm, kebanyakan 7,2–9,2 × 4,7–6,1 µm, bulat telur lebar hingga elipsoid, halus, berdinding tipis, hialin, dan inamiloid.",
+      "habitat": "Membentuk ektomikoriza dengan konifer, terutama Tsuga heterophylla, Pseudotsuga menziesii, dan Picea sitchensis, dan pernah ditemukan sekali di tegakan Pinus contorta yang hampir murni di bukit pasir pantai. Tumbuh di lumut dan serasah daun jarum, di hutan sekunder maupun hutan tua, dan sangat umum di tegakan muda hingga setengah tua. Tubuh buah muncul dari pertengahan musim panas hingga awal musim dingin, dan di pesisir California hingga pertengahan musim dingin.",
+      "uses": "Jamur pangan yang sangat baik dengan daging padat dan rasa lembut seperti buah. Ini adalah spesies Cantharellus terpenting yang dipanen secara komersial di Pasifik Barat Laut dan dijual di pasar lokal, nasional, dan internasional.",
+      "confusion": "Cantharellus roseocanus memiliki rusuk kuning-jingga yang lebih cerah, sama pekat dengan tudung atau lebih gelap dan tanpa nuansa merah muda, tudung halus tanpa sisik tetapi dengan selaput tipis kemerahmudaan di tepinya, tidak segera menguning bila ditekan, dan cetakan spora lebih gelap berwarna kuning-jingga; tumbuh terutama di bawah pohon spruce dan pinus. Cantharellus cascadensis berwarna kuning cerah, tudungnya dapat memudar menjadi keputihan di tengah, dan pangkal tangkainya dapat menggembung. Cantharellus subalbidus seluruhnya keputihan dan hanya perlahan menguning di bagian yang dipegang. Cantharellus cibarius adalah spesies Eropa yang namanya lama keliru diterapkan pada koleksi dari wilayah barat. Hygrophoropsis aurantiaca memiliki lamela tipis berwarna jingga cerah, bukan rusuk tumpul. Turbinellus floccosus lebih dalam berbentuk terompet, dengan tudung bersisik berwarna jingga lebih cerah. Omphalotus olivascens yang beracun memiliki lamela tipis seperti lempeng dengan nuansa zaitun dan tumbuh berumpun di kayu.",
+      "notes": "Koleksi Cantharellus kuning keemasan dari Amerika Utara bagian barat lama dicatat sebagai Cantharellus cibarius; spesies ini dibedakan oleh ciri-ciri, ekologi, dan DNA, dengan wilayah ITS pada rDNA-nya sekitar 200 pasangan basa lebih panjang. Warna dan permukaannya sangat bervariasi menurut cuaca dan cahaya, dan keragaman genetik koleksi yang dikaitkan dengan spesies ini masih perlu diteliti. Sejak 1999 jamur ini menjadi jamur resmi negara bagian Oregon. Penilaian global tahun 2021 menggolongkannya sebagai risiko rendah (Least Concern), dengan populasi yang meningkat.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un fungo carnoso e imbutiforme del genere Cantharellus, proprio del Nord America occidentale, che cresce isolato, sparso o in piccoli gruppi sul suolo forestale sotto le conifere. È diffuso dalla California settentrionale, attraverso l'Oregon, lo stato di Washington e la Columbia Britannica, fino all'Alaska sud-orientale, ed è ectomicorrizico sia nei boschi giovani sia in quelli vecchi.",
+      "cap": "Largo 2–14 cm, convesso con margine involuto da giovane, poi piano, leggermente depresso o imbutiforme con margine ondulato e sollevato. Giallo-arancio spento fino ad arancio, giallo-arancio brillante con tempo umido e da salmone a camoscio rosato in ombra profonda. Un sottile strato superficiale bruno-grigiastro diventa più visibile con tempo asciutto e può frammentarsi in piccole squame appressate più scure. La superficie è asciutta, da scamosciata a liscia, e al tocco ingiallisce lentamente e poi diventa ocra.",
+      "hymenium": "Pliche (false lamelle) ottuse e ben sviluppate, profonde fino a 2 mm, lungamente decorrenti sul gambo; si biforcano verso il margine, sono da fitte ad abbastanza distanziate e spesso collegate da venature trasversali. Giallo-arancio pallido, di solito più pallide del cappello e spesso con una sfumatura rosata, da biancastre a camoscio in ombra profonda; al tocco ingialliscono e poi diventano ocra. I basidi portano 4–6 spore e misurano 86–120 × 8–11,6 µm; i cistidi sono assenti e i giunti a fibbia sono abbondanti.",
+      "stipe": "Lungo 4–8 cm e spesso 0,4–2,2 cm, pieno, cilindrico o attenuato verso il basso e talvolta compresso. Dello stesso colore del cappello o un po' più pallido, da liscio a finemente fibrilloso; al tocco ingiallisce e poi diventa ocra. Senza anello né volva.",
+      "flesh": "Soda e carnosa, biancastra o giallo pallido, più giallastra appena sotto le superfici colorate. Odore debole, gradevolmente fruttato o leggermente dolce; sapore mite, talvolta un po' fruttato o pepato.",
+      "sporePrint": "Bianco giallastro. Spore di 6,5–10 × 4,7–7 µm, per lo più 7,2–9,2 × 4,7–6,1 µm, largamente ovoidali o ellissoidali, lisce, a parete sottile, ialine e non amiloidi.",
+      "habitat": "Ectomicorrizico con conifere, soprattutto Tsuga heterophylla, Pseudotsuga menziesii e Picea sitchensis, e segnalato una volta in popolamenti quasi puri di Pinus contorta su dune costiere. Cresce tra muschio e lettiera di aghi, in foreste secondarie e vetuste, ed è particolarmente comune nei popolamenti giovani o di mezza età. Fruttifica da piena estate all'inizio dell'inverno e, sulla costa della California, fino a metà inverno.",
+      "uses": "Ottimo commestibile, dalla carne soda e dal sapore mite e fruttato. È la specie di Cantharellus raccolta commercialmente più importante del Pacifico nord-occidentale ed è venduta sui mercati locali, nazionali e internazionali.",
+      "confusion": "Cantharellus roseocanus ha pliche giallo-arancio più brillanti, intense quanto il cappello o più scure e prive di sfumatura rosata, un cappello liscio senza squame ma con una pruina rosata al margine, non ingiallisce subito al tocco e ha una sporata più scura, giallo-arancio; cresce soprattutto con abeti rossi e pini. Cantharellus cascadensis è giallo brillante, il suo cappello può sbiadire fino al biancastro al centro e la base del gambo può essere bulbosa. Cantharellus subalbidus è biancastro nel complesso e ingiallisce solo lentamente dove viene maneggiato. Cantharellus cibarius è una specie europea il cui nome è stato a lungo applicato erroneamente alle raccolte occidentali. Hygrophoropsis aurantiaca ha lamelle sottili arancione vivo anziché pieghe ottuse. Turbinellus floccosus è più profondamente a forma di tromba, con un cappello squamoso di un arancio più vivo. Il velenoso Omphalotus olivascens ha lamelle sottili e laminari con toni olivastri e cresce a cespi sul legno.",
+      "notes": "Le raccolte di Cantharellus giallo dorate del Nord America occidentale sono state a lungo registrate come Cantharellus cibarius; questa specie se ne distingue per caratteri, ecologia e DNA, poiché la sua regione ITS dell'rDNA è più lunga di circa 200 paia di basi. Colori e superficie variano molto con il tempo atmosferico e la luce, e la variabilità genetica tra le raccolte attribuite a essa richiede ancora studio. Dal 1999 è il fungo ufficiale dello stato dell'Oregon. Una valutazione globale del 2021 la classifica come Minor preoccupazione (Least Concern), con una popolazione in aumento.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "北アメリカ西部に分布するCantharellus属の肉質で漏斗形の一種で、針葉樹の下の林床に単生、散生、または小さな群れをなして発生する。カリフォルニア州北部からオレゴン州、ワシントン州、ブリティッシュコロンビア州を経てアラスカ州南東部まで分布し、若い森林でも古い森林でも外生菌根を形成する。",
+      "cap": "径2–14 cm、幼時は縁が内側に巻いた饅頭形、のち平らから浅くくぼみ、または漏斗形となり、縁は波打って反り返る。くすんだ橙黄色から橙色で、湿った天候では鮮やかな橙黄色、深い陰ではサーモン色から淡紅色を帯びた淡黄褐色。薄い灰褐色の表層は乾いた天候で目立ち、小さく暗色の圧着した鱗片に裂けることがある。表面は乾いてスエード状から平滑で、押すとゆっくり黄変し、のち黄土色になる。",
+      "hymenium": "鈍頭でよく発達した襞状の隆起（偽ひだ）は深さ2 mmまでで、柄に長く垂生し、縁に向かって二叉分岐し、密からやや疎で、しばしば横脈で連絡する。淡橙黄色で、ふつう傘より淡く、しばしば淡紅色を帯び、深い陰では白っぽいから淡黄褐色。押すと黄変し、のち黄土色になる。担子器は4–6個の胞子をつけ、大きさ86–120 × 8–11.6 µm。シスチジアはなく、クランプは多い。",
+      "stipe": "長さ4–8 cm、太さ0.4–2.2 cm、中実で、上下同大または下方に細まり、ときに扁平。傘と同色かやや淡く、平滑から細かい繊維状。押すと黄変し、のち黄土色になる。つばもつぼもない。",
+      "flesh": "硬く肉質で、白っぽいから淡黄色、着色した表面の直下ではより黄色みを帯びる。においはかすかで、快い果実様またはわずかに甘い。味は穏やかで、ときにわずかに果実様またはピリッとする。",
+      "sporePrint": "黄白色。胞子は6.5–10 × 4.7–7 µm、多くは7.2–9.2 × 4.7–6.1 µm、広卵形から楕円形で平滑、薄壁、無色、非アミロイド。",
+      "habitat": "針葉樹、特にTsuga heterophylla、Pseudotsuga menziesii、Picea sitchensisと外生菌根を形成し、海岸砂丘のPinus contortaのほぼ純林でも一度記録されている。コケや針葉の落葉層に、二次林と老齢林の両方で発生し、若齢から壮齢の林分で特に多い。子実体は夏の半ばから初冬まで、カリフォルニアの海岸では真冬まで発生する。",
+      "uses": "肉が硬く、穏やかで果実様の風味をもつ優れた食用菌。太平洋岸北西部で商業的に採取されるCantharellus属の中で最も重要な種であり、地元、国内、国際の市場で販売されている。",
+      "confusion": "Cantharellus roseocanusは偽ひだがより鮮やかな橙黄色で、傘と同じ濃さかそれより濃く淡紅色を帯びず、傘は鱗片がなく平滑だが縁に淡紅色の粉状の覆いがあり、押してもすぐには黄変せず、胞子紋はより濃い橙黄色で、主にトウヒ類やマツ類の下に生える。Cantharellus cascadensisは鮮黄色で、傘の中央が白っぽく退色することがあり、柄の基部が塊茎状になることがある。Cantharellus subalbidusは全体が白っぽく、触れた部分はゆっくりとしか黄変しない。Cantharellus cibariusはヨーロッパの種で、その名は長く誤って西部の標本に当てられてきた。Hygrophoropsis aurantiacaは鈍い隆起ではなく、薄く鮮やかな橙色のひだをもつ。Turbinellus floccosusはより深いらっぱ形で、傘はより鮮やかな橙色で鱗片がある。有毒のOmphalotus olivascensは薄い板状でオリーブ色を帯びたひだをもち、材上に束生する。",
+      "notes": "北アメリカ西部の金黄色のCantharellus属の標本は長くCantharellus cibariusとして記録されてきた。本種は形質、生態、DNAで区別され、rDNAのITS領域が約200塩基対長い。色と表面は天候や光によって大きく変わり、本種とされる標本の遺伝的多様性はなお研究を要する。1999年からオレゴン州の公式のキノコである。2021年の世界的評価では軽度懸念（Least Concern）とされ、個体数は増加している。",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ko": {
+      "description": "북아메리카 서부에 분포하는 Cantharellus속의 살집 있는 깔때기 모양의 한 종으로, 침엽수 아래 숲 바닥에 홀로, 흩어져서, 또는 작은 무리를 지어 자란다. 캘리포니아 북부에서 오리건, 워싱턴, 브리티시컬럼비아를 거쳐 알래스카 남동부까지 분포하며, 어린 숲과 오래된 숲 모두에서 외생균근을 형성한다.",
+      "cap": "지름 2–14 cm, 어릴 때는 가장자리가 안쪽으로 말린 볼록한 모양이고, 나중에 편평해지거나 얕게 오목해지거나 깔때기 모양이 되며 가장자리는 물결 모양으로 위로 젖혀진다. 칙칙한 주황빛 노란색에서 주황색이며, 습한 날씨에는 선명한 주황빛 노란색, 짙은 그늘에서는 연어색에서 분홍빛 담황갈색이다. 얇은 회갈색 표층은 건조한 날씨에 더 뚜렷해지며, 작고 더 어두운 압착된 비늘로 갈라질 수 있다. 표면은 건조하고 스웨이드 같거나 매끄러우며, 누르면 천천히 노랗게 변한 뒤 황토색이 된다.",
+      "hymenium": "뭉툭하고 잘 발달한 주름 모양의 융기(가짜 주름)는 깊이 2 mm까지이며 자루에 길게 내려붙고, 가장자리 쪽으로 두 갈래로 갈라지며, 촘촘하거나 다소 성기고, 흔히 가로맥으로 연결된다. 연한 주황빛 노란색으로 보통 갓보다 연하고 흔히 분홍빛을 띠며, 짙은 그늘에서는 희끄무레하거나 담황갈색이다. 누르면 노랗게 변한 뒤 황토색이 된다. 담자기는 포자를 4–6개 달며 크기는 86–120 × 8–11.6 µm이다. 낭상체는 없고 꺾쇠연결이 많다.",
+      "stipe": "길이 4–8 cm, 굵기 0.4–2.2 cm이며, 속이 차 있고, 위아래 굵기가 같거나 아래쪽으로 가늘어지며 때로 납작하다. 갓과 같은 색이거나 약간 연하고, 매끄럽거나 가는 섬유상이다. 누르면 노랗게 변한 뒤 황토색이 된다. 턱받이와 대주머니가 없다.",
+      "flesh": "단단하고 살집이 있으며, 희끄무레하거나 연한 노란색이고, 색을 띤 표면 바로 아래는 더 노르스름하다. 냄새는 약하고 기분 좋은 과일 향이거나 약간 달콤하다. 맛은 순하며 때로 약간 과일 같거나 얼얼하다.",
+      "sporePrint": "노란빛을 띤 흰색. 포자는 6.5–10 × 4.7–7 µm, 대부분 7.2–9.2 × 4.7–6.1 µm이며, 넓은 달걀형에서 타원형이고, 매끄럽고 벽이 얇으며 투명하고 비아밀로이드이다.",
+      "habitat": "침엽수, 특히 Tsuga heterophylla, Pseudotsuga menziesii, Picea sitchensis와 외생균근을 형성하며, 해안 사구의 거의 순림을 이룬 Pinus contorta 숲에서도 한 번 발견되었다. 이끼와 침엽 낙엽층에서, 이차림과 노령림 모두에서 자라며, 어린 숲에서 중간 나이의 숲까지 특히 흔하다. 자실체는 한여름부터 초겨울까지, 캘리포니아 해안에서는 한겨울까지 나타난다.",
+      "uses": "살이 단단하고 순하며 과일 같은 풍미를 지닌 훌륭한 식용 버섯이다. 태평양 북서부에서 상업적으로 채집되는 가장 중요한 Cantharellus속 종이며, 지역, 국내 및 국제 시장에서 판매된다.",
+      "confusion": "Cantharellus roseocanus는 융기가 더 선명한 주황빛 노란색으로 갓만큼 진하거나 더 진하고 분홍빛이 없으며, 갓은 비늘이 없이 매끄럽지만 가장자리에 분홍빛 가루 같은 막이 있고, 눌러도 바로 노랗게 변하지 않으며, 포자문은 더 진한 주황빛 노란색이고, 주로 가문비나무류와 소나무류 아래에서 자란다. Cantharellus cascadensis는 선명한 노란색이며, 갓 가운데가 희끄무레하게 바래기도 하고 자루 밑동이 덩이줄기 모양일 수 있다. Cantharellus subalbidus는 전체가 희끄무레하며, 만진 부분은 천천히만 노르스름해진다. Cantharellus cibarius는 유럽 종으로, 그 이름이 오랫동안 서부 표본에 잘못 적용되었다. Hygrophoropsis aurantiaca는 뭉툭한 융기 대신 얇고 선명한 주황색 주름을 가진다. Turbinellus floccosus는 더 깊은 나팔 모양이고 갓은 더 선명한 주황색에 비늘이 있다. 독버섯인 Omphalotus olivascens는 얇고 판 모양이며 올리브색을 띤 주름을 가지고 나무 위에 다발로 자란다.",
+      "notes": "북아메리카 서부의 황금빛 노란색 Cantharellus속 표본은 오랫동안 Cantharellus cibarius로 기록되었다. 이 종은 형질, 생태, DNA로 구별되며, rDNA의 ITS 영역이 약 200 염기쌍 더 길다. 색과 표면은 날씨와 빛에 따라 크게 달라지며, 이 종으로 분류된 표본의 유전적 다양성은 아직 연구가 필요하다. 1999년부터 오리건주의 공식 버섯이다. 2021년의 전 세계 평가는 이 종을 개체수가 증가하는 최소관심(Least Concern) 종으로 분류한다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Mėsinga, piltuvo formos Cantharellus genties rūšis iš vakarinės Šiaurės Amerikos, auganti pavieniui, išsibarsčiusi arba nedidelėmis grupėmis ant miško paklotės po spygliuočiais. Paplitusi nuo šiaurinės Kalifornijos per Oregoną, Vašingtoną ir Britų Kolumbiją iki pietryčių Aliaskos, sudaro ektomikorizę tiek jauniuose, tiek senuose miškuose.",
+      "cap": "2–14 cm skersmens, jauna išgaubta užsirietusiu kraštu, vėliau plokščia, negiliai įdubusi arba piltuvo formos banguotu, pakilusiu kraštu. Blankiai oranžiškai geltona iki oranžinės, drėgnu oru ryškiai oranžiškai geltona, giliame pavėsyje lašišinė iki rausvai gelsvai rusvos. Plonas pilkšvai rudas paviršiaus sluoksnis sausu oru tampa ryškesnis ir gali suskilti į smulkius, tamsesnius, prigludusius žvynelius. Paviršius sausas, zomšinis iki lygaus, paspaustas pamažu pagelsta, vėliau tampa ochriškas.",
+      "hymenium": "Bukos, gerai išsivysčiusios raukšlės (netikrieji lakšteliai), iki 2 mm gylio, toli nusileidžia kotu; jos šakojasi kepurėlės krašto link, yra tankios iki gana retų ir dažnai sujungtos skersinėmis gyslomis. Blyškiai oranžiškai geltonos, paprastai blyškesnės už kepurėlę ir dažnai rausvo atspalvio, giliame pavėsyje balsvos iki gelsvai rusvų; paspaustos pagelsta, vėliau tampa ochriškos. Bazidėse yra 4–6 sporos, jos 86–120 × 8–11,6 µm; cistidžių nėra, sagtelių gausu.",
+      "stipe": "4–8 cm ilgio ir 0,4–2,2 cm storio, pilnaviduris, vienodo storio arba žemyn siaurėjantis, kartais suplotas. Kepurėlės spalvos arba šiek tiek blyškesnis, lygus iki smulkiai plaušuoto, paspaustas pagelsta, vėliau tampa ochriškas. Žiedo ir makšties nėra.",
+      "flesh": "Tvirta ir mėsinga, balsva iki blyškiai geltonos, tiesiai po spalvotais paviršiais gelsvesnė. Kvapas silpnas, maloniai vaisinis arba lengvai saldokas; skonis švelnus, kartais šiek tiek vaisinis ar aitrokas.",
+      "sporePrint": "Gelsvai balti. Sporos 6,5–10 × 4,7–7 µm, dažniausiai 7,2–9,2 × 4,7–6,1 µm, plačiai kiaušiniškos iki elipsoidinių, lygios, plonasienės, bespalvės ir neamiloidinės.",
+      "habitat": "Sudaro ektomikorizę su spygliuočiais, ypač su Tsuga heterophylla, Pseudotsuga menziesii ir Picea sitchensis, ir kartą rasta beveik grynuose Pinus contorta medynuose pajūrio kopose. Auga samanose ir spyglių paklotėje, antriniuose ir senuose miškuose, ypač dažna jaunuose ir vidutinio amžiaus medynuose. Vaisiakūniai nuo vidurvasario iki žiemos pradžios, Kalifornijos pakrantėje iki žiemos vidurio.",
+      "uses": "Puikus valgomasis grybas tvirtu minkštimu ir švelniu, vaisiniu skoniu. Tai svarbiausia komerciškai renkama Cantharellus rūšis Ramiojo vandenyno šiaurės vakaruose, parduodama vietos, nacionalinėse ir tarptautinėse rinkose.",
+      "confusion": "Rūšies Cantharellus roseocanus raukšlės ryškiau oranžiškai geltonos, tokios pat intensyvios kaip kepurėlė arba tamsesnės ir be rausvo atspalvio, kepurėlė lygi, be žvynelių, bet su rausvu apnašu krašte; paspausta iš karto nepagelsta, o sporų atspaudas tamsesnis, oranžiškai geltonas. Ji auga daugiausia su eglėmis ir pušimis. Cantharellus cascadensis yra ryškiai geltona, jos kepurėlė centre gali išblukti iki balsvos, o koto pamatas gali būti gumbiškas. Cantharellus subalbidus yra visa balsva ir paliesta tik lėtai gelsta. Cantharellus cibarius yra Europos rūšis, kurios pavadinimas ilgai klaidingai taikytas vakariniams radiniams. Hygrophoropsis aurantiaca turi plonas, ryškiai oranžines lakšteles, o ne bukas rieves. Turbinellus floccosus yra giliau trimito formos, ryškiau oranžine, žvynuota kepurėle. Nuodingoji Omphalotus olivascens turi plonus, plokštelių pavidalo lakštelius alyvuogių atspalvio ir auga kekėmis ant medienos.",
+      "notes": "Vakarinės Šiaurės Amerikos auksiškai geltoni Cantharellus radiniai ilgai buvo registruojami kaip Cantharellus cibarius; ši rūšis išskiriama pagal požymius, ekologiją ir DNR, o jos rDNA ITS sritis yra maždaug 200 bazių porų ilgesnė. Spalvos ir paviršius stipriai kinta priklausomai nuo oro ir šviesos, o šiai rūšiai priskirtų radinių genetinę įvairovę dar reikia ištirti. Nuo 1999 m. ji yra oficialus Oregono valstijos grybas. 2021 m. pasaulinis vertinimas ją priskiria mažiausiai susirūpinimo keliančioms rūšims (Least Concern), populiacija didėja.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lv": {
+      "description": "Mīkstumaina, piltuvveida ģints Cantharellus suga no Ziemeļamerikas rietumiem, kas aug pa vienai, izklaidus vai nelielās grupās uz meža zemsedzes zem skujkokiem. Tā izplatīta no Kalifornijas ziemeļiem caur Oregonu, Vašingtonu un Britu Kolumbiju līdz Aļaskas dienvidaustrumiem un veido ektomikorizu gan jaunos, gan vecos mežos.",
+      "cap": "Diametrā 2–14 cm, jaunībā izliekta ar ieritinātu malu, vēlāk plakana, sekli iedobta vai piltuvveida ar viļņotu, paceltu malu. Blāvi oranždzeltena līdz oranža, mitrā laikā spilgti oranždzeltena un dziļā ēnā lašu krāsā līdz rozīgi gaiši brūna. Plāns pelēkbrūns virsmas slānis sausā laikā kļūst redzamāks un var sadalīties sīkās, tumšākās, piegulošās zvīņās. Virsma ir sausa, zamšaina līdz gluda un, piespiežot, lēni kļūst dzeltena, tad okerīga.",
+      "hymenium": "Strupas, labi attīstītas krokas (viltus lapiņas), līdz 2 mm dziļas, tālu nolaižas uz kātiņa; tās zarojas malas virzienā, ir ciešas līdz diezgan retas un bieži savienotas ar šķērsdzīslām. Bāli oranždzeltenas, parasti bālākas par cepurīti un bieži ar rozīgu nokrāsu, dziļā ēnā bālganas līdz gaiši brūnas; piespiežot kļūst dzeltenas, tad okerīgas. Bazīdijās ir 4–6 sporas, un tās ir 86–120 × 8–11,6 µm; cistīdu nav, un sprādzes ir daudz.",
+      "stipe": "4–8 cm garš un 0,4–2,2 cm resns, pilns, vienāda resnuma vai uz leju sašaurināts un dažreiz saplacināts. Cepurītes krāsā vai nedaudz bālāks, gluds līdz smalki šķiedrains; piespiežot kļūst dzeltens, tad okerīgs. Gredzena un makstiņas nav.",
+      "flesh": "Stingra un gaļīga, bālgana līdz gaiši dzeltena, tieši zem krāsainajām virsmām dzeltenīgāka. Smarža vāja, patīkami augļaina vai viegli saldena; garša maiga, dažreiz nedaudz augļaina vai piparaina.",
+      "sporePrint": "Dzeltenīgi balts. Sporas 6,5–10 × 4,7–7 µm, pārsvarā 7,2–9,2 × 4,7–6,1 µm, plati olveida līdz elipsoidālas, gludas, plānsienu, bezkrāsainas un neamiloīdas.",
+      "habitat": "Veido ektomikorizu ar skujkokiem, īpaši ar sugām Tsuga heterophylla, Pseudotsuga menziesii un Picea sitchensis, un vienreiz konstatēta gandrīz tīrās Pinus contorta audzēs piekrastes kāpās. Aug sūnās un skuju nobirās, gan sekundāros, gan vecos mežos un ir īpaši bieža jaunās līdz vidēja vecuma audzēs. Augļķermeņi no vasaras vidus līdz ziemas sākumam, Kalifornijas piekrastē līdz ziemas vidum.",
+      "uses": "Izcila ēdama sēne ar stingru mīkstumu un maigu, augļainu garšu. Tā ir svarīgākā komerciāli vāktā Cantharellus suga Klusā okeāna ziemeļrietumos un tiek pārdota vietējā, nacionālā un starptautiskā tirgū.",
+      "confusion": "Sugai Cantharellus roseocanus ir spilgtāk oranždzeltenas krokas, kas ir tikpat spilgtas kā cepurīte vai tumšākas un bez rozīgas nokrāsas, gluda cepurīte bez zvīņām, bet ar rozīgu apsarmi malā; piespiežot tā uzreiz nekļūst dzeltena, un tās sporu nospiedums ir tumšāks, oranždzeltens. Tā aug galvenokārt ar eglēm un priedēm. Cantharellus cascadensis ir spilgti dzeltena, tās cepurīte centrā var izbalēt līdz bālganai, un kātiņa pamatne var būt gumveida. Cantharellus subalbidus ir pilnībā bālgana un aizskarta tikai lēni kļūst dzeltenīga. Cantharellus cibarius ir Eiropas suga, kuras nosaukums ilgi kļūdaini attiecināts uz rietumu atradumiem. Hygrophoropsis aurantiaca ir plānas, spilgti oranžas lapiņas, nevis truli izciļņi. Turbinellus floccosus ir dziļāk taurveida, ar spilgtāk oranžu, zvīņainu cepurīti. Indīgajai sugai Omphalotus olivascens ir plānas, plātnēm līdzīgas lapiņas ar olīvkrāsas toņiem, un tā aug ceros uz koksnes.",
+      "notes": "Ziemeļamerikas rietumu zeltaini dzeltenie Cantharellus atradumi ilgi tika reģistrēti kā Cantharellus cibarius; šī suga atšķiras pēc pazīmēm, ekoloģijas un DNS, un tās rDNA ITS reģions ir apmēram par 200 bāzu pāriem garāks. Krāsa un virsma ļoti mainās atkarībā no laikapstākļiem un gaismas, un šai sugai piedēvēto atradumu ģenētiskā mainība vēl jāizpēta. Kopš 1999. gada tā ir Oregonas štata oficiālā sēne. 2021. gada globālais novērtējums to klasificē kā neapdraudētu sugu (Least Concern), un tās populācija pieaug.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "nl": {
+      "description": "Een vlezige, trechtervormige soort uit het geslacht Cantharellus uit het westen van Noord-Amerika, die alleen, verspreid of in kleine groepjes op de bosbodem onder naaldbomen groeit. Hij komt voor van Noord-Californië via Oregon, Washington en Brits-Columbia tot in het zuidoosten van Alaska en vormt ectomycorrhiza in zowel jonge als oude bossen.",
+      "cap": "2–14 cm breed, jong gewelfd met ingerolde rand, daarna vlak, ondiep verdiept of trechtervormig met golvende, opgerichte rand. Dof oranjegeel tot oranje, bij nat weer helder oranjegeel en in diepe schaduw zalmkleurig tot rozig lichtbruin. Een dunne grijsbruine oppervlaktelaag wordt bij droog weer duidelijker zichtbaar en kan uiteenvallen in kleine, donkerdere, aangedrukte schubjes. Het oppervlak is droog, suèdeachtig tot glad en verkleurt bij aanraking langzaam geel en daarna oker.",
+      "hymenium": "Stompe, goed ontwikkelde lijsten (valse plaatjes), tot 2 mm diep, lopen ver af langs de steel; ze vorken naar de rand toe, staan dicht tot vrij ver uiteen en zijn vaak dwars verbonden. Bleek oranjegeel, meestal bleker dan de hoed en vaak met een roze zweem, in diepe schaduw witachtig tot lichtbruin, bij aanraking geel en daarna oker verkleurend. De basidiën dragen 4–6 sporen en meten 86–120 × 8–11,6 µm; cystiden ontbreken en gespen zijn talrijk.",
+      "stipe": "4–8 cm lang en 0,4–2,2 cm dik, vol, gelijk dik of naar onderen versmald en soms samengedrukt. Gekleurd als de hoed of iets bleker, glad tot fijn vezelig, bij aanraking geel en daarna oker verkleurend. Ring en volva ontbreken.",
+      "flesh": "Stevig en vlezig, witachtig tot lichtgeel, net onder de gekleurde oppervlakken geliger. Geur zwak, aangenaam fruitig of licht zoetig; smaak zacht, soms wat fruitig of peperig.",
+      "sporePrint": "Geelachtig wit. Sporen 6,5–10 × 4,7–7 µm, meestal 7,2–9,2 × 4,7–6,1 µm, breed eivormig tot ellipsoïde, glad, dunwandig, hyalien en niet amyloïde.",
+      "habitat": "Ectomycorrhizaal met naaldbomen, vooral Tsuga heterophylla, Pseudotsuga menziesii en Picea sitchensis, en eenmaal gevonden in vrijwel zuivere opstanden van Pinus contorta op kustduinen. Hij groeit in mos en naaldstrooisel, in secundaire en oude bossen en is vooral algemeen in jonge tot middelbare opstanden. Vruchtlichamen verschijnen van hartje zomer tot het begin van de winter, aan de kust van Californië tot midden in de winter.",
+      "uses": "Een uitstekende eetbare paddenstoel met stevig vlees en een milde, fruitige smaak. Het is de belangrijkste commercieel geoogste Cantharellus-soort van het noordwesten aan de Stille Oceaan en wordt lokaal, nationaal en internationaal verkocht.",
+      "confusion": "Cantharellus roseocanus heeft helderder oranjegele lijsten die even intens als de hoed of donkerder zijn en geen roze zweem hebben, een gladde hoed zonder schubjes maar met een roze waas aan de rand, verkleurt bij aanraking niet direct geel en heeft een donkerdere, oranjegele sporenprint; hij groeit vooral bij sparren en dennen. Cantharellus cascadensis is helder geel, de hoed kan in het midden tot witachtig verbleken en de steelvoet kan knolvormig zijn. Cantharellus subalbidus is in zijn geheel witachtig en verkleurt bij aanraking slechts langzaam geelachtig. Cantharellus cibarius is een Europese soort waarvan de naam lang ten onrechte op westerse vondsten werd toegepast. Hygrophoropsis aurantiaca heeft dunne, feloranje plaatjes in plaats van stompe lijsten. Turbinellus floccosus is dieper trompetvormig, met een feller oranje, geschubde hoed. De giftige Omphalotus olivascens heeft dunne, bladachtige plaatjes met olijfkleurige tinten en groeit in bundels op hout.",
+      "notes": "Goudgele Cantharellus-vondsten uit het westen van Noord-Amerika werden lang als Cantharellus cibarius geregistreerd; deze soort onderscheidt zich door kenmerken, ecologie en DNA, waarbij haar ITS-regio van het rDNA ongeveer 200 baseparen langer is. Kleuren en oppervlak variëren sterk met weer en licht, en de genetische variatie tussen de aan haar toegeschreven vondsten moet nog worden onderzocht. Sinds 1999 is zij de officiële staatspaddenstoel van Oregon. Een wereldwijde beoordeling uit 2021 stuft haar in als niet bedreigd (Least Concern), met een toenemende populatie.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "no": {
+      "description": "En kjøttfull, traktformet art i slekten Cantharellus fra det vestlige Nord-Amerika, som vokser enkeltvis, spredt eller i små grupper på skogbunnen under bartrær. Den finnes fra Nord-California gjennom Oregon, Washington og British Columbia til det sørøstlige Alaska, og danner ektomykorrhiza i både unge og gamle skoger.",
+      "cap": "2–14 cm bred, hvelvet med innrullet kant som ung, senere flat, grunt nedsenket eller traktformet med bølget, oppbøyd kant. Matt oransjegul til oransje, klart oransjegul i vått vær og laksefarget til rosa-lærfarget i dyp skygge. Et tynt gråbrunt overflatelag blir tydeligere i tørt vær og kan sprekke opp i små, mørkere, tiltrykte skjell. Overflaten er tørr, semsket til glatt og farges sakte gul og deretter oker ved trykk.",
+      "hymenium": "Butte, godt utviklede lister (falske skiver), opptil 2 mm dype, løper langt ned på stilken; de gaffeldeler seg mot kanten, står tett til ganske glissent og er ofte tverrforbundet. Blekt oransjegule, som regel blekere enn hatten og ofte med et rosa skjær, hvitaktige til lærfargede i dyp skygge, farges gule og deretter oker ved trykk. Basidiene bærer 4–6 sporer og måler 86–120 × 8–11,6 µm; cystider mangler, og bøyler er tallrike.",
+      "stipe": "4–8 cm lang og 0,4–2,2 cm tykk, massiv, jevntykk eller avsmalnende nedover og iblant sammentrykt. Farget som hatten eller litt blekere, glatt til fint trådet, farges gul og deretter oker ved trykk. Ring og volva mangler.",
+      "flesh": "Fast og kjøttfullt, hvitaktig til blekt gult, mer gulaktig like under de fargede overflatene. Lukten er svak, behagelig fruktaktig eller svakt søtlig; smaken er mild, iblant litt fruktaktig eller pepperaktig.",
+      "sporePrint": "Gulhvitt. Sporer 6,5–10 × 4,7–7 µm, oftest 7,2–9,2 × 4,7–6,1 µm, bredt eggformede til ellipsoide, glatte, tynnveggede, hyaline og inamyloide.",
+      "habitat": "Ektomykorrhizadanner med bartrær, særlig Tsuga heterophylla, Pseudotsuga menziesii og Picea sitchensis, og funnet én gang i nesten rene bestander av Pinus contorta på kystsanddyner. Den vokser i mose og barstrø, i sekundær- og gammelskog og er særlig vanlig i unge til middelaldrende bestander. Fruktlegemer fra midtsommer til tidlig vinter, og på kysten av California fram til midtvinters.",
+      "uses": "En utmerket matsopp med fast kjøtt og mild, fruktig smak. Den er den viktigste kommersielt høstede Cantharellus-arten i det nordvestlige Stillehavsområdet og selges lokalt, nasjonalt og internasjonalt.",
+      "confusion": "Cantharellus roseocanus har klarere oransjegule lister som er like sterkt farget som hatten eller mørkere og mangler rosa skjær, en glatt hatt uten skjell men med en rosa dogg i kanten, farges ikke straks gul ved trykk og har et mørkere, oransjegult sporepulver; den vokser mest med gran og furu. Cantharellus cascadensis er klart gul, hatten kan blekne til hvitaktig i midten, og stilkbasisen kan være knollformet. Cantharellus subalbidus er hvitaktig over det hele og blir bare langsomt gulaktig der den berøres. Cantharellus cibarius er en europeisk art der navnet lenge feilaktig ble brukt om vestlige funn. Hygrophoropsis aurantiaca har tynne, klart oransje skiver i stedet for butte ribber. Turbinellus floccosus er dypere trompetformet, med en klarere oransje, skjellete hatt. Den giftige Omphalotus olivascens har tynne, plateaktige skiver med olivenfargede toner og vokser i knipper på ved.",
+      "notes": "Gullgule Cantharellus-funn fra det vestlige Nord-Amerika ble lenge registrert som Cantharellus cibarius; denne arten skilles ut ved sine kjennetegn, sin økologi og sitt DNA, og ITS-regionen i dens rDNA er omkring 200 basepar lengre. Farger og overflate varierer sterkt med vær og lys, og den genetiske variasjonen mellom funn som føres til den, trenger fortsatt å undersøkes. Den har vært Oregons offisielle delstatssopp siden 1999. En global vurdering fra 2021 klassifiserer den som livskraftig (Least Concern), med en økende bestand.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "pl": {
+      "description": "Mięsisty, lejkowaty przedstawiciel rodzaju Cantharellus z zachodniej części Ameryki Północnej, rosnący pojedynczo, w rozproszeniu lub w małych grupach na dnie lasu pod drzewami iglastymi. Występuje od północnej Kalifornii przez Oregon, Waszyngton i Kolumbię Brytyjską po południowo-wschodnią Alaskę; tworzy ektomikoryzę zarówno w młodych, jak i w starych lasach.",
+      "cap": "Średnicy 2–14 cm, za młodu wypukły z podwiniętym brzegiem, później płaski, płytko wklęsły lub lejkowaty, z falistym, uniesionym brzegiem. Matowo pomarańczowożółty do pomarańczowego, w mokrą pogodę jaskrawo pomarańczowożółty, a w głębokim cieniu łososiowy do różowawo płowego. Cienka szarobrązowa warstwa powierzchniowa staje się wyraźniejsza w suchą pogodę i może rozpadać się na drobne, ciemniejsze, przylegające łuseczki. Powierzchnia jest sucha, zamszowa do gładkiej, po uciśnięciu powoli żółknie, a potem staje się ochrowa.",
+      "hymenium": "Tępe, dobrze wykształcone listewki (fałszywe blaszki), głębokie do 2 mm, daleko zbiegają na trzon; widlasto rozgałęziają się ku brzegowi, są gęste do dość rzadkich i często połączone poprzecznymi żyłkami. Blado pomarańczowożółte, zwykle jaśniejsze od kapelusza i często z różowawym odcieniem, w głębokim cieniu białawe do płowych; po uciśnięciu żółkną, a potem stają się ochrowe. Podstawki wytwarzają 4–6 zarodników i mają 86–120 × 8–11,6 µm; cystyd brak, sprzążki są liczne.",
+      "stipe": "Długości 4–8 cm i grubości 0,4–2,2 cm, pełny, równogruby lub zwężający się ku dołowi, czasem spłaszczony. Barwy kapelusza lub nieco jaśniejszy, gładki do delikatnie włókienkowatego; po uciśnięciu żółknie, a potem staje się ochrowy. Brak pierścienia i pochwy.",
+      "flesh": "Jędrny i mięsisty, białawy do bladożółtego, tuż pod barwnymi powierzchniami bardziej żółtawy. Zapach słaby, przyjemnie owocowy lub lekko słodkawy; smak łagodny, czasem nieco owocowy lub pieprzny.",
+      "sporePrint": "Żółtawobiały. Zarodniki 6,5–10 × 4,7–7 µm, przeważnie 7,2–9,2 × 4,7–6,1 µm, szeroko jajowate do elipsoidalnych, gładkie, cienkościenne, bezbarwne i nieamyloidalne.",
+      "habitat": "Tworzy ektomikoryzę z drzewami iglastymi, zwłaszcza z Tsuga heterophylla, Pseudotsuga menziesii i Picea sitchensis; raz odnotowany w niemal czystych drzewostanach Pinus contorta na wydmach nadmorskich. Rośnie w mchu i ściółce z igliwia, w lasach wtórnych i starodrzewach, szczególnie często w drzewostanach młodych i w średnim wieku. Owocniki pojawiają się od pełni lata do początku zimy, a na wybrzeżu Kalifornii do połowy zimy.",
+      "uses": "Wyborny grzyb jadalny o jędrnym miąższu i łagodnym, owocowym smaku. Jest najważniejszym komercyjnie zbieranym gatunkiem z rodzaju Cantharellus na pacyficznym północnym zachodzie i jest sprzedawany na rynkach lokalnych, krajowych i międzynarodowych.",
+      "confusion": "Cantharellus roseocanus ma jaskrawiej pomarańczowożółte listewki, równie intensywne jak kapelusz lub ciemniejsze i bez różowawego odcienia, gładki kapelusz bez łuseczek, ale z różowawym nalotem na brzegu, nie żółknie od razu po uciśnięciu i ma ciemniejszy, pomarańczowożółty wysyp zarodników; rośnie głównie przy świerkach i sosnach. Cantharellus cascadensis jest jaskrawożółty, jego kapelusz może blednąć do białawego na środku, a podstawa trzonu bywa bulwiasta. Cantharellus subalbidus jest w całości białawy i w miejscach dotyku tylko powoli żółknie. Cantharellus cibarius to gatunek europejski, którego nazwę długo błędnie stosowano do zachodnich zbiorów. Hygrophoropsis aurantiaca ma cienkie, jaskrawopomarańczowe blaszki zamiast tępych listewek. Turbinellus floccosus jest głębiej trąbkowaty, z jaskrawiej pomarańczowym, łuskowatym kapeluszem. Trujący Omphalotus olivascens ma cienkie, płytkowate blaszki z oliwkowymi odcieniami i rośnie kępkami na drewnie.",
+      "notes": "Złocistożółte okazy z rodzaju Cantharellus z zachodniej części Ameryki Północnej długo notowano jako Cantharellus cibarius; ten gatunek wyróżnia się cechami, ekologią i DNA, a jego region ITS rDNA jest o około 200 par zasad dłuższy. Barwy i powierzchnia silnie zmieniają się zależnie od pogody i światła, a zmienność genetyczna przypisanych mu zbiorów wymaga jeszcze badań. Od 1999 roku jest oficjalnym grzybem stanu Oregon. Globalna ocena z 2021 roku klasyfikuje go jako gatunek najmniejszej troski (Least Concern), z rosnącą populacją.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "pt": {
+      "description": "Um fungo carnudo em forma de funil do gênero Cantharellus, próprio do oeste da América do Norte, que cresce isolado, disperso ou em pequenos grupos no solo da floresta sob coníferas. Distribui-se do norte da Califórnia, passando pelo Oregon, Washington e Colúmbia Britânica, até o sudeste do Alasca, e é ectomicorrízico tanto em florestas jovens quanto antigas.",
+      "cap": "Com 2–14 cm de diâmetro, convexo e com a margem enrolada quando jovem, depois plano, levemente deprimido ou em forma de funil, com a margem ondulada e levantada. Amarelo-alaranjado opaco a laranja, amarelo-alaranjado brilhante em tempo úmido e de salmão a bege-rosado em sombra profunda. Uma fina camada superficial castanho-acinzentada fica mais visível em tempo seco e pode se romper em pequenas escamas adpressas mais escuras. A superfície é seca, de camurçada a lisa, e ao ser manuseada amarelece lentamente e depois fica ocre.",
+      "hymenium": "Pregas (falsas lamelas) obtusas e bem desenvolvidas, com até 2 mm de profundidade, que descem bastante pelo estipe; bifurcam-se em direção à margem, são de próximas a bastante espaçadas e muitas vezes ligadas por veias transversais. Amarelo-alaranjado pálido, geralmente mais pálidas que o píleo e muitas vezes com um tom rosado, de esbranquiçadas a bege em sombra profunda; ao serem manuseadas amarelecem e depois ficam ocre. Os basídios têm 4–6 esporos e medem 86–120 × 8–11,6 µm; não há cistídios e as fíbulas são abundantes.",
+      "stipe": "Com 4–8 cm de comprimento e 0,4–2,2 cm de espessura, maciço, cilíndrico ou afinando para baixo e às vezes comprimido. Da cor do píleo ou um pouco mais pálido, de liso a finamente fibriloso; ao ser manuseado amarelece e depois fica ocre. Não tem anel nem volva.",
+      "flesh": "Firme e carnuda, esbranquiçada a amarelo-pálida, mais amarelada logo abaixo das superfícies coloridas. Odor fraco, agradavelmente frutado ou levemente adocicado; sabor suave, às vezes um pouco frutado ou apimentado.",
+      "sporePrint": "Branco-amarelada. Esporos de 6,5–10 × 4,7–7 µm, em sua maioria 7,2–9,2 × 4,7–6,1 µm, largamente ovoides a elipsoides, lisos, de parede fina, hialinos e inamiloides.",
+      "habitat": "Ectomicorrízico com coníferas, sobretudo Tsuga heterophylla, Pseudotsuga menziesii e Picea sitchensis, e registrado uma vez em povoamentos quase puros de Pinus contorta em dunas costeiras. Cresce entre musgo e serapilheira de acículas, em florestas secundárias e antigas, e é especialmente comum em povoamentos jovens a de meia-idade. Frutifica do auge do verão ao início do inverno e, no litoral da Califórnia, continua até meados do inverno.",
+      "uses": "Comestível de primeira, de carne firme e sabor suave e frutado. É a espécie de Cantharellus de colheita comercial mais importante do Noroeste Pacífico e é vendida nos mercados locais, nacionais e internacionais.",
+      "confusion": "Cantharellus roseocanus tem pregas de um amarelo-alaranjado mais brilhante, tão intensas quanto o píleo ou mais escuras e sem tom rosado, um píleo liso sem escamas mas com uma pruína rosada na margem, não amarelece de imediato ao ser manuseado e tem esporada mais escura, amarelo-alaranjada; cresce sobretudo com espruces e pinheiros. Cantharellus cascadensis é amarelo-brilhante, seu píleo pode desbotar até esbranquiçado no centro e a base do estipe pode ser bulbosa. Cantharellus subalbidus é esbranquiçado no conjunto e só amarelece lentamente onde é manuseado. Cantharellus cibarius é uma espécie europeia cujo nome foi por muito tempo aplicado erroneamente às coletas do oeste. Hygrophoropsis aurantiaca tem lamelas finas de cor laranja viva em vez de pregas rombas. Turbinellus floccosus tem forma de trombeta mais profunda, com um píleo escamoso de um laranja mais vivo. O venenoso Omphalotus olivascens tem lamelas finas, em forma de placa, com tons oliváceos, e cresce em tufos sobre madeira.",
+      "notes": "As coletas de Cantharellus amarelo-douradas do oeste da América do Norte foram por muito tempo registradas como Cantharellus cibarius; esta espécie distingue-se por seus caracteres, sua ecologia e seu DNA, sendo sua região ITS do rDNA cerca de 200 pares de bases mais longa. Suas cores e sua superfície variam muito com o tempo e a luz, e a variação genética entre as coletas atribuídas a ela ainda precisa de estudo. É o cogumelo oficial do estado do Oregon desde 1999. Uma avaliação global de 2021 a classifica como Pouco preocupante (Least Concern), com população em crescimento.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "Un reprezentant cărnos, în formă de pâlnie, al genului Cantharellus din vestul Americii de Nord, care crește solitar, răzlețit sau în grupuri mici pe solul pădurilor de conifere. Arealul său se întinde din nordul Californiei, prin Oregon, Washington și Columbia Britanică, până în sud-estul Alaskăi, și formează ectomicorize atât în pădurile tinere, cât și în cele bătrâne.",
+      "cap": "Lățime de 2–14 cm, convexă la început, cu marginea răsucită, apoi plată, ușor adâncită sau în formă de pâlnie, cu marginea ondulată și ridicată. Galben-portocaliu mat până la portocaliu, galben-portocaliu viu pe vreme umedă, somoniu până la roz-gălbui la umbră deasă. Un strat superficial subțire, brun-cenușiu, devine mai vizibil pe vreme uscată și se poate crăpa în solzișori mărunți, mai întunecați, lipiți. Suprafața este uscată, catifelată ca pielea întoarsă până la netedă și se îngălbenește lent la apăsare, apoi devine ocracee.",
+      "hymenium": "Creste obtuze, bine dezvoltate (pseudolame), adânci de până la 2 mm, mult decurente pe picior; se bifurcă spre margine, sunt dese până la destul de rare și adesea unite prin anastomoze transversale. Galben-portocaliu pal, de obicei mai deschise decât pălăria și adesea cu o nuanță rozalie, albicioase până la gălbui-brune la umbră deasă; se îngălbenesc la apăsare, apoi devin ocracee. Bazidiile poartă 4–6 spori și măsoară 86–120 × 8–11,6 µm; cistidele lipsesc, iar ansele sunt abundente.",
+      "stipe": "Lung de 4–8 cm și gros de 0,4–2,2 cm, plin, egal sau îngustat spre bază și uneori turtit. De culoarea pălăriei sau puțin mai deschis, neted până la fin fibros; se îngălbenește la apăsare, apoi devine ocraceu. Fără inel și fără volvă.",
+      "flesh": "Fermă și cărnoasă, albicioasă până la galben-pal, mai gălbuie chiar sub suprafețele colorate. Miros slab, plăcut fructat sau ușor dulceag; gust blând, uneori ușor fructat sau piperat.",
+      "sporePrint": "Alb-gălbui. Spori 6,5–10 × 4,7–7 µm, majoritatea 7,2–9,2 × 4,7–6,1 µm, larg ovoizi până la elipsoidali, netezi, cu perete subțire, hialini și neamiloizi.",
+      "habitat": "Formează ectomicorize cu conifere, mai ales cu Tsuga heterophylla, Pseudotsuga menziesii și Picea sitchensis, și a fost găsit o dată în arborete aproape pure de Pinus contorta pe dune de coastă. Crește în mușchi și litieră de ace, în păduri secundare și bătrâne, fiind deosebit de frecvent în arboretele tinere până la mijlocii. Fructifică de la mijlocul verii până la începutul iernii, iar pe coasta Californiei până la mijlocul iernii.",
+      "uses": "O ciupercă comestibilă excelentă, cu carne fermă și gust blând, fructat. Este cea mai importantă specie de Cantharellus recoltată comercial în nord-vestul Pacificului și se vinde pe piețe locale, naționale și internaționale.",
+      "confusion": "Cantharellus roseocanus are creste de un galben-portocaliu mai viu, la fel de intense ca pălăria sau mai închise și fără nuanță rozalie, pălăria netedă, fără solzișori, dar cu o pruină rozalie pe margine, nu se îngălbenește imediat la apăsare și are sporada mai închisă, galben-portocalie; crește mai ales sub molizi și pini. Cantharellus cascadensis este galben viu, pălăria i se poate decolora spre albicios la centru, iar baza piciorului poate fi bulboasă. Cantharellus subalbidus este albicios în întregime și se îngălbenește doar lent acolo unde este atins. Cantharellus cibarius este o specie europeană al cărei nume a fost aplicat mult timp greșit colecțiilor din vest. Hygrophoropsis aurantiaca are lame subțiri, de un portocaliu viu, în loc de creste obtuze. Turbinellus floccosus este mai adânc în formă de trompetă, cu pălăria de un portocaliu mai viu și solzoasă. Otrăvitorul Omphalotus olivascens are lame subțiri, ca niște plăci, cu tonuri măslinii și crește în tufe pe lemn.",
+      "notes": "Colecțiile galben-aurii de Cantharellus din vestul Americii de Nord au fost înregistrate mult timp drept Cantharellus cibarius; această specie se distinge prin caractere, ecologie și ADN, regiunea ITS din ADNr fiind cu aproximativ 200 de perechi de baze mai lungă. Culorile și suprafața variază puternic în funcție de vreme și lumină, iar diversitatea genetică a colecțiilor atribuite speciei necesită încă studiu. Din 1999 este ciuperca oficială a statului Oregon. O evaluare globală din 2021 o încadrează la risc minim (Least Concern), cu o populație în creștere.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Мясистый воронковидный представитель рода Cantharellus с запада Северной Америки, растущий одиночно, рассеянно или небольшими группами на лесной подстилке под хвойными деревьями. Распространён от северной Калифорнии через Орегон, Вашингтон и Британскую Колумбию до юго-восточной Аляски и образует эктомикоризу как в молодых, так и в старых лесах.",
+      "cap": "Шириной 2–14 cm, в молодости выпуклая с подвёрнутым краем, затем плоская, неглубоко вдавленная или воронковидная с волнистым приподнятым краем. Тускло-оранжево-жёлтая до оранжевой, во влажную погоду ярко-оранжево-жёлтая, в глубокой тени лососёвая до розовато-палевой. Тонкий серовато-коричневый поверхностный слой в сухую погоду заметнее и может растрескиваться на мелкие более тёмные прижатые чешуйки. Поверхность сухая, замшевидная до гладкой, при надавливании медленно желтеет, затем становится охристой.",
+      "hymenium": "Тупые, хорошо развитые складки (ложные пластинки) глубиной до 2 mm, далеко нисбегают на ножку; к краю вильчато ветвятся, расположены от частых до довольно редких и часто соединены поперечными перемычками. Бледно-оранжево-жёлтые, обычно светлее шляпки и часто с розоватым оттенком, в глубокой тени беловатые до палевых; при надавливании желтеют, затем становятся охристыми. Базидии несут 4–6 спор и имеют размер 86–120 × 8–11,6 µm; цистиды отсутствуют, пряжки многочисленны.",
+      "stipe": "Длиной 4–8 cm и толщиной 0,4–2,2 cm, плотная, ровная или суженная книзу, иногда сплюснутая. Одного цвета со шляпкой или немного светлее, гладкая до тонковолокнистой; при надавливании желтеет, затем становится охристой. Кольца и вольвы нет.",
+      "flesh": "Плотная и мясистая, беловатая до бледно-жёлтой, непосредственно под окрашенными поверхностями желтее. Запах слабый, приятно фруктовый или слегка сладковатый; вкус мягкий, иногда слегка фруктовый или перечный.",
+      "sporePrint": "Желтовато-белый. Споры 6,5–10 × 4,7–7 µm, большей частью 7,2–9,2 × 4,7–6,1 µm, широкояйцевидные до эллипсоидных, гладкие, тонкостенные, гиалиновые и неамилоидные.",
+      "habitat": "Образует эктомикоризу с хвойными, особенно с Tsuga heterophylla, Pseudotsuga menziesii и Picea sitchensis, а однажды был найден в почти чистых насаждениях Pinus contorta на прибрежных дюнах. Растёт во мху и хвойной подстилке, во вторичных и старовозрастных лесах и особенно обычен в молодых и средневозрастных насаждениях. Плодовые тела появляются с середины лета до начала зимы, а на калифорнийском побережье — до середины зимы.",
+      "uses": "Превосходный съедобный гриб с плотной мякотью и мягким фруктовым вкусом. Это важнейший коммерчески заготавливаемый вид рода Cantharellus на тихоокеанском северо-западе, который продаётся на местных, национальных и международных рынках.",
+      "confusion": "У Cantharellus roseocanus складки более ярко-оранжево-жёлтые, такие же насыщенные, как шляпка, или темнее и без розоватого оттенка, шляпка гладкая, без чешуек, но с розоватым налётом по краю, при надавливании он не желтеет сразу, а споровый порошок у него темнее, оранжево-жёлтый; растёт в основном под елями и соснами. Cantharellus cascadensis ярко-жёлтый, его шляпка в центре может выцветать до беловатой, а основание ножки бывает клубневидным. Cantharellus subalbidus целиком беловатый и в местах прикосновения желтеет лишь медленно. Cantharellus cibarius — европейский вид, название которого долго ошибочно применяли к западным сборам. У Hygrophoropsis aurantiaca тонкие ярко-оранжевые пластинки вместо тупых складок. Turbinellus floccosus глубже трубовидный, с более ярко-оранжевой чешуйчатой шляпкой. Ядовитый Omphalotus olivascens имеет тонкие, пластинчатые, оливково окрашенные пластинки и растёт пучками на древесине.",
+      "notes": "Золотисто-жёлтые сборы рода Cantharellus с запада Северной Америки долго регистрировались как Cantharellus cibarius; этот вид отличается признаками, экологией и ДНК, а его участок ITS в рДНК примерно на 200 пар оснований длиннее. Окраска и поверхность сильно меняются в зависимости от погоды и освещения, а генетическое разнообразие сборов, относимых к этому виду, ещё требует изучения. С 1999 года он является официальным грибом штата Орегон. Глобальная оценка 2021 года относит его к видам под наименьшей угрозой (Least Concern) с растущей численностью.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sk": {
+      "description": "Mäsitý, lievikovitý zástupca rodu Cantharellus zo západu Severnej Ameriky, ktorý rastie jednotlivo, roztrúsene alebo v malých skupinách na lesnej pôde pod ihličnanmi. Vyskytuje sa od severnej Kalifornie cez Oregon, Washington a Britskú Kolumbiu po juhovýchodnú Aljašku a tvorí ektomykorízu v mladých aj starých lesoch.",
+      "cap": "Široký 2–14 cm, v mladosti klenutý s podvinutým okrajom, neskôr plochý, plytko preliačený alebo lievikovitý so zvlneným, nahor ohnutým okrajom. Matne oranžovožltý až oranžový, za vlhka žiarivo oranžovožltý a v hlbokom tieni lososový až ružovkasto žltohnedý. Tenká sivohnedá povrchová vrstva je za sucha zreteľnejšia a môže sa rozpadať na drobné, tmavšie, pritlačené šupinky. Povrch je suchý, semišový až hladký a po otlačení pomaly žltne a potom okrovie.",
+      "hymenium": "Tupé, dobre vyvinuté lišty (nepravé lupene), hlboké do 2 mm, zbiehajú ďaleko na hlúbik; k okraju sa vidlicovito vetvia, sú husté až dosť riedke a často priečne pospájané. Bledo oranžovožlté, zvyčajne svetlejšie ako klobúk a často s ružovkastým nádychom, v hlbokom tieni belavé až žltohnedé; po otlačení žltnú a potom okrovejú. Bazídie nesú 4–6 výtrusov a merajú 86–120 × 8–11,6 µm; cystidy chýbajú a prezky sú hojné.",
+      "stipe": "Dlhý 4–8 cm a hrubý 0,4–2,2 cm, plný, rovnako hrubý alebo nadol zúžený a niekedy sploštený. Farby klobúka alebo o niečo svetlejší, hladký až jemne vláknitý; po otlačení žltne a potom okrovie. Prsteň ani pošva nie sú.",
+      "flesh": "Pevná a mäsitá, belavá až bledožltá, tesne pod sfarbenými povrchmi žltkastejšia. Vôňa slabá, príjemne ovocná alebo slabo sladkastá; chuť mierna, niekedy trochu ovocná alebo štipľavá.",
+      "sporePrint": "Žltkastobiely. Výtrusy merajú 6,5–10 × 4,7–7 µm, väčšinou 7,2–9,2 × 4,7–6,1 µm, sú široko vajcovité až elipsoidné, hladké, tenkostenné, hyalínne a neamyloidné.",
+      "habitat": "Tvorí ektomykorízu s ihličnanmi, najmä s Tsuga heterophylla, Pseudotsuga menziesii a Picea sitchensis, a raz bol zistený v takmer čistých porastoch Pinus contorta na pobrežných dunách. Rastie v machu a ihličnatej opadanke, v druhotných aj starých lesoch a je obzvlášť hojný v mladých až stredne starých porastoch. Plodí od vrcholného leta do začiatku zimy, na kalifornskom pobreží až do polovice zimy.",
+      "uses": "Výborná jedlá huba s pevnou dužinou a miernou, ovocnou chuťou. Je to najdôležitejší komerčne zbieraný druh rodu Cantharellus na pacifickom severozápade a predáva sa na miestnych, národných aj medzinárodných trhoch.",
+      "confusion": "Cantharellus roseocanus má žiarivejšie oranžovožlté lišty, rovnako sýto sfarbené ako klobúk alebo tmavšie a bez ružovkastého nádychu, hladký klobúk bez šupiniek, ale s ružovkastým ojínením na okraji, po otlačení hneď nežltne a má tmavší, oranžovožltý výtrusný prach; rastie hlavne pri smrekoch a boroviciach. Cantharellus cascadensis je žiarivo žltý, jeho klobúk môže v strede vyblednúť do belava a báza hlúbika býva hľuzovitá. Cantharellus subalbidus je celý belavý a v miestach dotyku žltne len pomaly. Cantharellus cibarius je európsky druh, ktorého meno sa dlho mylne používalo pre západné zbery. Hygrophoropsis aurantiaca má tenké, jasne oranžové lupene namiesto tupých líšt. Turbinellus floccosus je hlbšie trúbkovitý so žiarivejšie oranžovým, šupinatým klobúkom. Jedovatý Omphalotus olivascens má tenké, doštičkovité lupene s olivovými tónmi a rastie v trsoch na dreve.",
+      "notes": "Zlatožlté zbery rodu Cantharellus zo západu Severnej Ameriky sa dlho evidovali ako Cantharellus cibarius; tento druh sa odlišuje znakmi, ekológiou a DNA, pričom jeho oblasť ITS rDNA je asi o 200 párov báz dlhšia. Farby a povrch sa výrazne menia podľa počasia a svetla a genetická premenlivosť zberov k nemu priradených si ešte vyžaduje štúdium. Od roku 1999 je oficiálnou hubou štátu Oregon. Globálne hodnotenie z roku 2021 ho zaraďuje medzi najmenej ohrozené druhy (Least Concern) s rastúcou populáciou.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sl": {
+      "description": "Mesnat, lijakast predstavnik rodu Cantharellus z zahoda Severne Amerike, ki raste posamič, raztreseno ali v majhnih skupinah na gozdnih tleh pod iglavci. Razširjen je od severne Kalifornije prek Oregona, Washingtona in Britanske Kolumbije do jugovzhodne Aljaske ter tvori ektomikorizo v mladih in starih gozdovih.",
+      "cap": "Širok 2–14 cm, v mladosti izbočen z navihanim robom, pozneje raven, plitvo vdrt ali lijakast z valovitim, privzdignjenim robom. Motno oranžno rumen do oranžen, v mokrem vremenu živo oranžno rumen, v globoki senci lososov do rožnato usnjenorjav. Tanka sivorjava površinska plast je v suhem vremenu bolj vidna in se lahko razpoka v drobne, temnejše, prilegle luskice. Površina je suha, semišasta do gladka in na pritisk počasi porumeni, nato postane okrasta.",
+      "hymenium": "Tope, dobro razvite letve (nepravi lističi), globoke do 2 mm, daleč priraščeno tečejo po betu; proti robu se vilasto cepijo, so goste do precej redke in pogosto prečno povezane. Bledo oranžno rumene, običajno svetlejše od klobuka in pogosto z rožnatim odtenkom, v globoki senci belkaste do usnjenorjave; na pritisk porumenijo, nato postanejo okraste. Bazidiji nosijo 4–6 trosov in merijo 86–120 × 8–11,6 µm; cistid ni, zaponk je veliko.",
+      "stipe": "Dolg 4–8 cm in debel 0,4–2,2 cm, poln, enako debel ali navzdol zožen in včasih sploščen. Barve klobuka ali nekoliko svetlejši, gladek do drobno vlaknat; na pritisk porumeni, nato postane okrast. Obročka in nožnice ni.",
+      "flesh": "Čvrsto in mesnato, belkasto do bledo rumeno, tik pod obarvanimi površinami bolj rumenkasto. Vonj je šibak, prijetno sadežen ali rahlo sladkoben; okus je mil, včasih rahlo sadežen ali poprast.",
+      "sporePrint": "Rumenkasto bel. Trosi 6,5–10 × 4,7–7 µm, večinoma 7,2–9,2 × 4,7–6,1 µm, široko jajčasti do elipsoidni, gladki, tankostenski, hialini in neamiloidni.",
+      "habitat": "Tvori ektomikorizo z iglavci, zlasti s Tsuga heterophylla, Pseudotsuga menziesii in Picea sitchensis, enkrat pa je bil najden v skoraj čistih sestojih Pinus contorta na obalnih sipinah. Raste v mahu in iglicah, v drugotnih in starih gozdovih ter je posebno pogost v mladih do srednje starih sestojih. Trosnjaki se pojavljajo od sredine poletja do začetka zime, na kalifornijski obali do sredine zime.",
+      "uses": "Odlična užitna goba s čvrstim mesom in milim, sadežnim okusom. Je najpomembnejša komercialno nabrana vrsta rodu Cantharellus na pacifiškem severozahodu in se prodaja na lokalnih, nacionalnih in mednarodnih trgih.",
+      "confusion": "Cantharellus roseocanus ima živahneje oranžno rumene letve, enako intenzivne kot klobuk ali temnejše in brez rožnatega odtenka, gladek klobuk brez luskic, a z rožnatim poprhom na robu, na pritisk ne porumeni takoj in ima temnejši, oranžno rumen trosni prah; raste predvsem pod smrekami in borovci. Cantharellus cascadensis je živo rumen, njegov klobuk lahko v sredini zbledi do belkastega, baza beta pa je lahko gomoljasta. Cantharellus subalbidus je ves belkast in se ob dotiku le počasi obarva rumenkasto. Cantharellus cibarius je evropska vrsta, katere ime so dolgo napačno uporabljali za zahodne najdbe. Hygrophoropsis aurantiaca ima tanke, živo oranžne lističe namesto topih letev. Turbinellus floccosus je globlje trobentast, z živahneje oranžnim, luskastim klobukom. Strupeni Omphalotus olivascens ima tanke, ploščate listiće z olivnimi odtenki in raste v šopih na lesu.",
+      "notes": "Zlato rumene najdbe rodu Cantharellus z zahoda Severne Amerike so dolgo beležili kot Cantharellus cibarius; ta vrsta se loči po znakih, ekologiji in DNK, saj je njena regija ITS v rDNA dolga približno 200 baznih parov več. Barve in površina se močno spreminjajo glede na vreme in svetlobo, genetska raznolikost najdb, pripisanih tej vrsti, pa še potrebuje raziskave. Od leta 1999 je uradna goba zvezne države Oregon. Globalna ocena iz leta 2021 jo uvršča med najmanj ogrožene vrste (Least Concern), z naraščajočo populacijo.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sr": {
+      "description": "Меснат, левкаст представник рода Cantharellus са запада Северне Америке који расте појединачно, расуто или у малим групама на шумском тлу под четинарима. Распрострањен је од северне Калифорније преко Орегона, Вашингтона и Британске Колумбије до југоисточне Аљаске и образује ектомикоризу у младим и старим шумама.",
+      "cap": "Широк 2–14 cm, у младости испупчен са подвијеним ободом, касније раван, плитко удубљен или левкаст са таласастим, издигнутим ободом. Мутно наранџастожут до наранџаст, по влажном времену јарко наранџастожут, а у дубокој сенци боје лососа до ружичастоокерне. Танак сивосмеђи површински слој по сувом времену постаје уочљивији и може да испуца у ситне, тамније, приљубљене љуспице. Површина је сува, попут антилоп-коже до глатка и на притисак полако пожути, а затим постаје окераста.",
+      "hymenium": "Тупе, добро развијене летвице (лажни листићи), дубоке до 2 mm, далеко силазе низ дршку; према ободу се рачвају, густе су до прилично ретке и често попречно повезане. Бледо наранџастожуте, обично светлије од шешира и често са ружичастим одсјајем, у дубокој сенци беличасте до окерне; на притисак пожуте, а затим постају окерасте. Базидије носе 4–6 спора и мере 86–120 × 8–11,6 µm; цистида нема, а копчи има много.",
+      "stipe": "Дуга 4–8 cm и дебела 0,4–2,2 cm, пуна, једнако дебела или ка дну сужена и понекад спљоштена. Боје шешира или нешто светлија, глатка до фино влакнаста; на притисак пожути, а затим постаје окераста. Нема прстена ни вулве.",
+      "flesh": "Чврсто и меснато, беличасто до бледожуто, непосредно испод обојених површина жућкастије. Мирис је слаб, пријатно воћни или благо слаткаст; укус је благ, понекад благо воћни или бибераст.",
+      "sporePrint": "Жућкастобео. Споре 6,5–10 × 4,7–7 µm, углавном 7,2–9,2 × 4,7–6,1 µm, широко јајасте до елипсоидне, глатке, танких зидова, хијалинске и неамилоидне.",
+      "habitat": "Образује ектомикоризу са четинарима, нарочито са Tsuga heterophylla, Pseudotsuga menziesii и Picea sitchensis, а једном је забележен у готово чистим састојинама Pinus contorta на приобалним динама. Расте у маховини и четинама, у секундарним и старим шумама, а нарочито је чест у младим до средњедобним састојинама. Плодна тела се јављају од средине лета до почетка зиме, а на калифорнијској обали до средине зиме.",
+      "uses": "Одлична јестива гљива чврстог меса и благог, воћног укуса. Најважнија је комерцијално сакупљана врста рода Cantharellus на пацифичком северозападу и продаје се на локалним, националним и међународним тржиштима.",
+      "confusion": "Cantharellus roseocanus има јарче наранџастожуте летвице, једнако интензивне као шешир или тамније и без ружичастог одсјаја, гладак шешир без љуспица, али са ружичастом маглицом на ободу, на притисак не пожути одмах и има тамнији, наранџастожут отисак спора; расте углавном под смрчама и боровима. Cantharellus cascadensis је јарко жут, шешир му у средини може да избледи до беличастог, а основа дршке може бити кртоласта. Cantharellus subalbidus је сав беличаст и на местима додира тек полако пожути. Cantharellus cibarius је европска врста чије се име дуго погрешно примењивало на западне налазе. Hygrophoropsis aurantiaca има танке, јарко наранџасте листиће уместо тупих летвица. Turbinellus floccosus је дубље трубаст, са јарче наранџастим, љуспастим шеширом. Отровни Omphalotus olivascens има танке, плочасте листиће маслинастих тонова и расте у бусенима на дрвету.",
+      "notes": "Златножути налази рода Cantharellus са запада Северне Америке дуго су бележени као Cantharellus cibarius; ова врста се разликује обележјима, екологијом и ДНК, а њен ITS регион у рДНК дужи је за око 200 парова база. Боје и површина се снажно мењају у зависности од времена и светлости, а генетска разноликост налаза приписаних овој врсти још захтева истраживање. Од 1999. званична је гљива савезне државе Орегон. Глобална процена из 2021. сврстава је међу најмање угрожене врсте (Least Concern), са растућом популацијом.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En köttig, trattformad art i släktet Cantharellus från västra Nordamerika, som växer ensam, spridd eller i små grupper på skogsmarken under barrträd. Den förekommer från norra Kalifornien genom Oregon, Washington och British Columbia till sydöstra Alaska och bildar ektomykorrhiza i både unga och gamla skogar.",
+      "cap": "2–14 cm bred, som ung välvd med inrullad kant, sedan flat, grunt nedtryckt eller trattformad med vågig, uppåtböjd kant. Matt orangegul till orange, klart orangegul i vått väder och laxfärgad till rosa-läderfärgad i djup skugga. Ett tunt gråbrunt ytlager blir tydligare i torrt väder och kan spricka upp i små, mörkare, tryckta fjäll. Ytan är torr, mockaliknande till slät och färgas långsamt gul och sedan ockra vid tryck.",
+      "hymenium": "Trubbiga, väl utvecklade åsar (falska skivor), upp till 2 mm djupa, löper långt ned på foten; de grenar sig mot kanten, sitter tätt till ganska glest och är ofta tvärförbundna. Blekt orangegula, oftast blekare än hatten och ofta med en rosa ton, vitaktiga till läderfärgade i djup skugga, färgas gula och sedan ockra vid tryck. Basidierna bär 4–6 sporer och mäter 86–120 × 8–11,6 µm; cystider saknas och spännen är rikliga.",
+      "stipe": "4–8 cm lång och 0,4–2,2 cm tjock, massiv, jämntjock eller avsmalnande nedåt och ibland hoptryckt. Färgad som hatten eller något blekare, slät till fint fibrig, färgas gul och sedan ockra vid tryck. Ring och volva saknas.",
+      "flesh": "Fast och köttigt, vitaktigt till blekt gult, gulare strax under de färgade ytorna. Lukten är svag, behagligt fruktig eller svagt söt; smaken är mild, ibland något fruktig eller pepprig.",
+      "sporePrint": "Gulvitt. Sporer 6,5–10 × 4,7–7 µm, oftast 7,2–9,2 × 4,7–6,1 µm, brett äggrunda till ellipsoida, släta, tunnväggiga, hyalina och inamyloida.",
+      "habitat": "Ektomykorrhizabildare med barrträd, särskilt Tsuga heterophylla, Pseudotsuga menziesii och Picea sitchensis, och funnen en gång i nästan rena bestånd av Pinus contorta på kustdyner. Den växer i mossa och barrförna, i sekundär- och gammelskog och är särskilt vanlig i unga till medelålders bestånd. Fruktkroppar från högsommar till tidig vinter, och vid Kaliforniens kust in i midvintern.",
+      "uses": "En utmärkt matsvamp med fast kött och mild, fruktig smak. Den är den viktigaste kommersiellt insamlade Cantharellus-arten i nordvästra Stillahavsregionen och säljs lokalt, nationellt och internationellt.",
+      "confusion": "Cantharellus roseocanus har klarare orangegula åsar som är lika kraftigt färgade som hatten eller mörkare och saknar rosa ton, en slät hatt utan fjäll men med en rosa dagg i kanten, färgas inte genast gul vid tryck och har ett mörkare, orangegult sporavtryck; den växer främst med gran och tall. Cantharellus cascadensis är klart gul, hatten kan blekna till vitaktig i mitten och fotbasen kan vara knölformad. Cantharellus subalbidus är vitaktig överallt och gulnar bara långsamt där den hanteras. Cantharellus cibarius är en europeisk art vars namn länge felaktigt användes för västliga fynd. Hygrophoropsis aurantiaca har tunna, klart orange skivor i stället för trubbiga åsar. Turbinellus floccosus är djupare trumpetformad, med en klarare orange, fjällig hatt. Den giftiga Omphalotus olivascens har tunna, plattliknande skivor med olivfärgade toner och växer i tuvor på ved.",
+      "notes": "Guldgula Cantharellus-fynd från västra Nordamerika fördes länge till Cantharellus cibarius; denna art skiljs ut genom sina kännetecken, sin ekologi och sitt DNA, och ITS-regionen i dess rDNA är omkring 200 baspar längre. Färger och yta varierar starkt med väder och ljus, och den genetiska variationen mellan fynd som förs hit behöver fortfarande undersökas. Den har varit Oregons officiella delstatssvamp sedan 1999. En global bedömning från 2021 klassar den som livskraftig (Least Concern), med en ökande population.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "tr": {
+      "description": "Kuzey Amerika'nın batısında yetişen, etli, huni biçimli bir Cantharellus türü; iğne yapraklı ağaçların altında orman zemininde tek tek, dağınık ya da küçük gruplar halinde büyür. Kuzey Kaliforniya'dan Oregon, Washington ve Britanya Kolumbiyası üzerinden güneydoğu Alaska'ya kadar yayılır ve hem genç hem yaşlı ormanlarda ektomikoriza oluşturur.",
+      "cap": "2–14 cm genişliğinde; gençken kenarı içe kıvrık ve dışbükey, sonra düz, hafif çukur ya da huni biçimli, kenarı dalgalı ve kalkık. Mat turuncu-sarıdan turuncuya, nemli havada parlak turuncu-sarı, koyu gölgede somon renginden pembemsi devetüyüne. İnce, grimsi kahverengi bir yüzey tabakası kuru havada daha belirgin olur ve küçük, daha koyu, yatık pulcuklara çatlayabilir. Yüzey kuru, süet gibi ile pürüzsüz arasında; bastırınca yavaşça sararır, sonra okra rengine döner.",
+      "hymenium": "Küt, iyi gelişmiş sırtlar (yalancı lameller) 2 mm'ye kadar derin, sapa doğru uzun süre iner; kenara doğru çatallanır, sıktan oldukça seyreğe kadar dizilir ve sıklıkla enine damarlarla birleşir. Soluk turuncu-sarı, genellikle şapkadan açık ve çoğu zaman pembemsi tonlu, koyu gölgede beyazımsıdan devetüyüne; bastırınca sararır, sonra okra rengine döner. Bazidyumlar 4–6 spor taşır ve 86–120 × 8–11,6 µm boyutundadır; sistidyum yoktur, kıskaç bağlantıları boldur.",
+      "stipe": "4–8 cm uzunluğunda ve 0,4–2,2 cm kalınlığında, dolgun, eşit kalınlıkta ya da aşağıya doğru incelen ve bazen yassı. Şapkayla aynı renkte ya da biraz daha açık, pürüzsüz ile ince lifli arasında; bastırınca sararır, sonra okra rengine döner. Halka ve volva yoktur.",
+      "flesh": "Sıkı ve etli, beyazımsıdan soluk sarıya, renkli yüzeylerin hemen altında daha sarımsı. Kokusu hafif, hoş meyvemsi ya da hafifçe tatlımsı; tadı yumuşak, bazen hafif meyvemsi ya da biberli.",
+      "sporePrint": "Sarımsı beyaz. Sporlar 6,5–10 × 4,7–7 µm, çoğunlukla 7,2–9,2 × 4,7–6,1 µm, geniş yumurtamsıdan elipsoide, pürüzsüz, ince çeperli, hiyalin ve inamiloid.",
+      "habitat": "İğne yapraklılarla, özellikle Tsuga heterophylla, Pseudotsuga menziesii ve Picea sitchensis ile ektomikoriza oluşturur; bir kez de kıyı kumullarında neredeyse saf Pinus contorta meşcerelerinde bulunmuştur. Yosun ve iğne yaprak döküntüsünde, ikincil ve yaşlı ormanlarda yetişir; özellikle genç ile orta yaşlı meşcerelerde yaygındır. Meyve gövdeleri yaz ortasından kış başına kadar, Kaliforniya kıyısında ise kış ortasına kadar görülür.",
+      "uses": "Sıkı etli, yumuşak ve meyvemsi tatlı, mükemmel bir yenilebilir mantar. Pasifik Kuzeybatı'da ticari olarak toplanan en önemli Cantharellus türüdür ve yerel, ulusal ve uluslararası pazarlarda satılır.",
+      "confusion": "Cantharellus roseocanus'un sırtları daha canlı turuncu-sarı, şapka kadar yoğun ya da daha koyu ve pembemsi tonsuzdur; şapkası pulsuz ve pürüzsüzdür ama kenarında pembemsi bir pus bulunur, bastırınca hemen sararmaz ve spor izi daha koyu, turuncu-sarıdır; çoğunlukla ladin ve çamların altında yetişir. Cantharellus cascadensis parlak sarıdır, şapkası ortada beyazımsıya solabilir ve sap tabanı soğanlı olabilir. Cantharellus subalbidus baştan başa beyazımsıdır ve dokunulan yerlerde ancak yavaşça sararır. Cantharellus cibarius, adı uzun süre yanlışlıkla batıdaki örneklere uygulanmış bir Avrupa türüdür. Hygrophoropsis aurantiaca'da küt sırtlar yerine ince, parlak turuncu lameller bulunur. Turbinellus floccosus daha derin trompet biçimlidir ve şapkası daha canlı turuncu ve pulludur. Zehirli Omphalotus olivascens'in ince, levha gibi, zeytinî tonlu lamelleri vardır ve odun üzerinde kümeler halinde yetişir.",
+      "notes": "Kuzey Amerika'nın batısındaki altın sarısı Cantharellus örnekleri uzun süre Cantharellus cibarius olarak kaydedildi; bu tür özellikleri, ekolojisi ve DNA'sıyla ayrılır, rDNA'sındaki ITS bölgesi yaklaşık 200 baz çifti daha uzundur. Renkleri ve yüzeyi havaya ve ışığa göre büyük ölçüde değişir; bu türe atfedilen örneklerin genetik çeşitliliği hâlâ araştırılmayı bekliyor. 1999'dan beri Oregon eyaletinin resmî mantarıdır. 2021 tarihli küresel bir değerlendirme onu nüfusu artan, düşük endişe (Least Concern) kategorisinde bir tür olarak sınıflandırır.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "М'ясистий лійкоподібний представник роду Cantharellus із заходу Північної Америки, що росте поодинці, розсіяно або невеликими групами на лісовій підстилці під хвойними деревами. Поширений від північної Каліфорнії через Орегон, Вашингтон і Британську Колумбію до південно-східної Аляски та утворює ектомікоризу як у молодих, так і в старих лісах.",
+      "cap": "Завширшки 2–14 cm, змолоду опукла з підгорнутим краєм, згодом плоска, неглибоко вдавлена або лійкоподібна з хвилястим піднятим краєм. Тьмяно-оранжево-жовта до оранжевої, у вологу погоду яскраво-оранжево-жовта, у глибокій тіні лососева до рожевувато-палевої. Тонкий сірувато-коричневий поверхневий шар у суху погоду помітніший і може розтріскуватися на дрібні темніші притиснуті лусочки. Поверхня суха, замшоподібна до гладенької, при натисканні повільно жовтіє, потім стає охристою.",
+      "hymenium": "Тупі, добре розвинені складки (несправжні пластинки) завглибшки до 2 mm, далеко збігають на ніжку; до краю вилчасто розгалужуються, розташовані від частих до досить рідких і часто з'єднані поперечними перемичками. Блідо-оранжево-жовті, зазвичай світліші за шапинку й часто з рожевуватим відтінком, у глибокій тіні білуваті до палевих; при натисканні жовтіють, потім стають охристими. Базидії несуть 4–6 спор і мають розмір 86–120 × 8–11,6 µm; цистид немає, пряжки численні.",
+      "stipe": "Завдовжки 4–8 cm і завтовшки 0,4–2,2 cm, щільна, рівна або звужена донизу, іноді сплющена. Одного кольору з шапинкою або трохи світліша, гладенька до тонковолокнистої; при натисканні жовтіє, потім стає охристою. Кільця й вольви немає.",
+      "flesh": "Щільна й м'ясиста, білувата до блідо-жовтої, безпосередньо під забарвленими поверхнями жовтіша. Запах слабкий, приємно фруктовий або злегка солодкуватий; смак м'який, іноді злегка фруктовий або перцевий.",
+      "sporePrint": "Жовтувато-білий. Спори 6,5–10 × 4,7–7 µm, здебільшого 7,2–9,2 × 4,7–6,1 µm, широкояйцеподібні до еліпсоїдних, гладенькі, тонкостінні, гіалінові й неамілоїдні.",
+      "habitat": "Утворює ектомікоризу з хвойними, особливо з Tsuga heterophylla, Pseudotsuga menziesii та Picea sitchensis, а одного разу був знайдений у майже чистих насадженнях Pinus contorta на прибережних дюнах. Росте в моху й хвойній підстилці, у вторинних і старовікових лісах і особливо звичайний у молодих і середньовікових насадженнях. Плодові тіла з'являються від середини літа до початку зими, а на каліфорнійському узбережжі — до середини зими.",
+      "uses": "Чудовий їстівний гриб зі щільною м'якоттю та м'яким фруктовим смаком. Це найважливіший комерційно заготовлюваний вид роду Cantharellus на тихоокеанському північному заході, що продається на місцевих, національних і міжнародних ринках.",
+      "confusion": "У Cantharellus roseocanus складки яскравіше оранжево-жовті, такі ж насичені, як шапинка, або темніші й без рожевуватого відтінку, шапинка гладенька, без лусочок, але з рожевуватим нальотом по краю, при натисканні він не жовтіє одразу, а споровий порошок у нього темніший, оранжево-жовтий; росте переважно під ялинами й соснами. Cantharellus cascadensis яскраво-жовтий, його шапинка в центрі може вицвітати до білуватої, а основа ніжки буває бульбоподібною. Cantharellus subalbidus цілком білуватий і в місцях дотику жовтіє лише повільно. Cantharellus cibarius — європейський вид, назву якого довго помилково застосовували до західних зборів. У Hygrophoropsis aurantiaca тонкі яскраво-оранжеві пластинки замість тупих складок. Turbinellus floccosus глибше трубоподібний, з яскравіше-оранжевою лускатою шапинкою. Отруйний Omphalotus olivascens має тонкі, пластинчасті, оливково забарвлені пластинки й росте пучками на деревині.",
+      "notes": "Золотисто-жовті збори роду Cantharellus із заходу Північної Америки довго реєстрували як Cantharellus cibarius; цей вид відрізняється ознаками, екологією та ДНК, а його ділянка ITS у рДНК приблизно на 200 пар основ довша. Забарвлення й поверхня сильно змінюються залежно від погоди та освітлення, а генетичне різноманіття зборів, віднесених до цього виду, ще потребує вивчення. З 1999 року він є офіційним грибом штату Орегон. Глобальна оцінка 2021 року відносить його до видів, що викликають найменше занепокоєння (Least Concern), із зростаючою чисельністю.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "zh": {
+      "description": "北美洲西部Cantharellus屬中肉質、漏斗形的一種，於針葉樹下的林地上單生、散生，或成小群生長。分布自加州北部經俄勒岡、華盛頓及卑詩省至阿拉斯加東南部，在幼齡林與老齡林中皆形成外生菌根。",
+      "cap": "寬2–14 cm，幼時凸形，邊緣內捲，後變平展、淺凹或呈漏斗形，邊緣波狀並上翹。暗橙黃色至橙色，潮濕天氣時為鮮橙黃色，在濃蔭下呈鮭肉色至帶粉紅的淡黃褐色。薄的灰褐色表層在乾燥天氣時較明顯，並可裂成細小、較暗、緊貼的鱗片。表面乾燥，呈麂皮狀至平滑，按壓後緩慢變黃，後轉赭色。",
+      "hymenium": "鈍圓且發達的脊狀稜（假菌褶）深達2 mm，長延生至菌柄上；向邊緣二叉分枝，密至頗稀，常以橫脈相連。淡橙黃色，通常較菌蓋淺且常帶粉紅色調，在濃蔭下為白色至淡黃褐色；按壓後變黃，後轉赭色。擔子著生4–6個孢子，大小86–120 × 8–11.6 µm；無囊狀體，鎖狀聯合豐富。",
+      "stipe": "長4–8 cm，粗0.4–2.2 cm，實心，等粗或向下漸細，有時扁壓。與菌蓋同色或稍淺，平滑至具細纖維；按壓後變黃，後轉赭色。無菌環，亦無菌托。",
+      "flesh": "緊實而肉質，白色至淡黃色，緊鄰著色表面之下較黃。氣味淡，帶宜人的果香或微甜；味道溫和，有時略帶果味或辛辣。",
+      "sporePrint": "淡黃白色。孢子6.5–10 × 4.7–7 µm，多數為7.2–9.2 × 4.7–6.1 µm，寬卵形至橢圓形，平滑，薄壁，透明，非澱粉質。",
+      "habitat": "與針葉樹形成外生菌根，尤其是Tsuga heterophylla、Pseudotsuga menziesii及Picea sitchensis，並曾一次記錄於海岸沙丘上近乎純林的Pinus contorta林中。生於苔蘚及針葉落葉層中，見於次生林及老齡林，在幼齡至中齡林分中尤為常見。子實體自仲夏至初冬出現，在加州沿岸可延至隆冬。",
+      "uses": "優良的食用菌，肉質緊實，風味溫和而具果香。這是太平洋西北地區商業採集最重要的Cantharellus屬物種，於地方、全國及國際市場上販售。",
+      "confusion": "Cantharellus roseocanus的稜脊為更鮮豔的橙黃色，與菌蓋同樣濃或更深且不帶粉紅色調，菌蓋平滑無鱗片但邊緣有粉紅色粉霜，按壓後不會立即變黃，孢子印較深，呈橙黃色；主要生於雲杉類及松類樹下。Cantharellus cascadensis為鮮黃色，菌蓋中央可褪至近白色，菌柄基部可呈球莖狀。Cantharellus subalbidus全體白色，觸碰處僅緩慢變黃。Cantharellus cibarius為歐洲物種，其名稱長期被誤用於西部的標本。Hygrophoropsis aurantiaca具薄而鮮橙色的真菌褶，而非鈍圓的稜脊。Turbinellus floccosus更深地呈喇叭形，菌蓋為更鮮豔的橙色且具鱗片。有毒的Omphalotus olivascens具薄而呈板狀、帶橄欖色調的菌褶，叢生於木材上。",
+      "notes": "北美洲西部金黃色的Cantharellus屬標本長期被記錄為Cantharellus cibarius；本種在性狀、生態及DNA上有所區別，其rDNA的ITS區域約長200個鹼基對。顏色與表面隨天氣及光線變化甚大，歸於本種之標本的遺傳多樣性仍待研究。自1999年起為俄勒岡州的官方菌類。2021年的一項全球評估將其列為無危（Least Concern），族群數量呈增加趨勢。",
+      "names": [],
+      "sourceUrls": []
+    }
+  },
+  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Cantharellus_formosus/Cantharellus_formosus@1600.webp",
+  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Cantharellus_formosus/Cantharellus_formosus@400.webp",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Cantharellus_formosus/Cantharellus_formosus@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Cantharellus_formosus/Cantharellus_formosus@400.webp",
+  "plateCredit": {
+    "author": "Unknown; owner-supplied artwork",
+    "credit": "Existing Gemini mark retained once; not authenticated authorship.",
+    "license": "User supplied; redistribution rights not independently established",
+    "source": "supplied_original.png"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Cantharellus_formosus/cf1.webp",
+      "author": "Ben Keen",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/332068865"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Cantharellus_formosus/cf2.webp",
+      "author": "Sam Allon",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/327758555"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Cantharellus_formosus/cf3.webp",
+      "author": "Antonio Verdicchio",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/322330570"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Cantharellus_formosus/cf4.webp",
+      "author": "Ben Keen",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/327942113"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Cantharellus_formosus/cf5.webp",
+      "author": "Ben Keen",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/246710075"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Cantharellales/Hydnaceae/Cantharellus_formosus/Cantharellus_formosus@1600.webp",
+      "author": "Unknown; owner-supplied artwork",
+      "license": "User supplied; redistribution rights not independently established",
+      "sourceUrl": "supplied_original.png",
+      "existingMark": "Gemini; retained once, no authorship/rights authentication"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Cantharellales/Hydnaceae/Cantharellus_formosus/cf1.webp",
+      "author": "Ben Keen",
+      "license": "CC0 1.0 Universal",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/332068865",
+      "photoUrl": "https://www.inaturalist.org/photos/602551641",
+      "attribution": "no rights reserved",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Cantharellales/Hydnaceae/Cantharellus_formosus/cf2.webp",
+      "author": "Sam Allon",
+      "license": "CC0 1.0 Universal",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/327758555",
+      "photoUrl": "https://www.inaturalist.org/photos/593828934",
+      "attribution": "no rights reserved",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Cantharellales/Hydnaceae/Cantharellus_formosus/cf3.webp",
+      "author": "Antonio Verdicchio",
+      "license": "CC0 1.0 Universal",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/322330570",
+      "photoUrl": "https://www.inaturalist.org/photos/583080785",
+      "attribution": "no rights reserved",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Cantharellales/Hydnaceae/Cantharellus_formosus/cf4.webp",
+      "author": "Ben Keen",
+      "license": "CC0 1.0 Universal",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/327942113",
+      "photoUrl": "https://www.inaturalist.org/photos/594174889",
+      "attribution": "no rights reserved",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Cantharellales/Hydnaceae/Cantharellus_formosus/cf5.webp",
+      "author": "Ben Keen",
+      "license": "CC0 1.0 Universal",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/246710075",
+      "photoUrl": "https://www.inaturalist.org/photos/440484836",
+      "attribution": "no rights reserved",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    }
+  ],
+  "synonyms": [],
+  "fruitingFrom": 7,
+  "fruitingTo": 1,
+  "reserved": false,
+  "id": 142,
+  "added": "2026-11-09",
+  "citation": "Monogr. Cantharelloid Fungi: 45 (1966)",
+  "illustrationProvenance": {
+    "tool": "Pillow + OpenCV deterministic alpha-only segmentation; no generation",
+    "sourceFile": "Cantharellus formosus.png",
+    "sourceFormat": "JPEG",
+    "sourceFormatNote": "File named .png is actually JPEG/JFIF (Exif software Picasa); no source alpha; alpha produced by segmentation.",
+    "sourceDimensions": [
+      896,
+      1200
+    ],
+    "sourceSHA256": "e43d5fca9fe00bdb0516bce104a7238d9e3fd8df87881f649a88d7ef09593109",
+    "backgroundSHA256": "d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c",
+    "alphaPNG": "artwork_rgba.png",
+    "mask": "artwork_alpha_mask.png",
+    "cropBBox": [
+      104,
+      152,
+      846,
+      1174
+    ],
+    "uniformScale": 1.8867924528301887,
+    "placement": [
+      100,
+      236
+    ],
+    "composedArtworkDimensions": [
+      1400,
+      1928
+    ],
+    "allSourceRGBChangedPixels": 0,
+    "transparentPixels": 784374,
+    "opaquePixels": 277664,
+    "partialAlphaPixels": 13162,
+    "signatureBox": [
+      750,
+      1123,
+      867,
+      1181
+    ],
+    "signatureComponents": 3,
+    "signaturePixels": 389,
+    "preservedObjects": [
+      "large upright fruit body with wavy funnel-shaped cap, forked decurrent ridges, long tapering stipe and root/debris at base",
+      "small young fruit body with lobed cap and short stipe",
+      "fallen fruit body showing ridged underside and pale tapering stipe",
+      "existing Gemini mark"
+    ],
+    "signatureTreatment": "Existing Gemini mark retained once; zero added marks. No creator, rights or species identity inferred.",
+    "contours": [
+      {
+        "area": 90123.5,
+        "box": [
+          338,
+          712,
+          482,
+          372
+        ]
+      },
+      {
+        "area": 15778.5,
+        "box": [
+          507,
+          496,
+          150,
+          177
+        ]
+      },
+      {
+        "area": 175038.0,
+        "box": [
+          105,
+          153,
+          535,
+          743
+        ]
+      }
+    ],
+    "backgroundSourceDimensions": [
+      1067,
+      1600
+    ],
+    "backgroundCanvasDimensions": [
+      1600,
+      2400
+    ],
+    "generation": false,
+    "repainting": false,
+    "stretching": false,
+    "sourcePaperRemoved": true,
+    "visualReview": "PENDING",
+    "alphaPNGSHA256": "27dd76ae6eded00951eae81a5f385522a9ae0fc26e49a47aeff48e0ba2938dcd",
+    "maskSHA256": "52f28f0e5f2551b32235b43c473d0039e1d6a92b7921a16de44ce535bee2577e",
+    "recipeSHA256": "7af655248f0dda04927456ff5f7ca2770201791733fa07c4c56f6d844cfe65cf",
+    "officialFiles": [
+      {
+        "path": "media/Cantharellus_formosus@1600.webp",
+        "bytes": 239508,
+        "sha256": "02a7c87e91552237a7f26282be7f9fe0b5c20f556085de920bbccff6e7db1d06"
+      },
+      {
+        "path": "media/Cantharellus_formosus@400.webp",
+        "bytes": 32354,
+        "sha256": "7170c4b67aadb8bdd583b44a60ffb931818cf18e4b16877f49540955aaf6775a"
+      }
+    ]
+  }
+},
+{
+  "name": "Peziza ammophila",
+  "author": "Durieu & Lév.",
+  "family": "Pezizaceae",
+  "genus": "Peziza",
+  "order": "Pezizales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Ascomycota",
+    "Pezizomycotina",
+    "Pezizomycetes",
+    "Pezizomycetidae",
+    "Pezizales",
+    "Pezizaceae",
+    "Peziza"
+  ],
+  "summary": [
+    "Pezizales",
+    "Pezizaceae",
+    "Peziza"
+  ],
+  "edibility": "inedible",
+  "hymenium": "smooth",
+  "where": [
+    "ground"
+  ],
+  "color": [
+    "brown"
+  ],
+  "capFrom": 2.0,
+  "capTo": 5.0,
+  "label": {
+    "ar": "Peziza ammophila",
+    "bg": "Peziza ammophila",
+    "cs": "řasnatka písečná",
+    "da": "klit-bægersvamp",
+    "de": "Dünen-Becherling",
+    "en": "dune cup",
+    "es": "Peziza ammophila",
+    "et": "luiteliudik",
+    "fa": "Peziza ammophila",
+    "fi": "Peziza ammophila",
+    "fr": "Peziza ammophila",
+    "he": "שקערורית חולית",
+    "hi": "Peziza ammophila",
+    "hr": "Peziza ammophila",
+    "hu": "homoki csészegomba",
+    "id": "Peziza ammophila",
+    "it": "Peziza ammophila",
+    "ja": "Peziza ammophila",
+    "ko": "Peziza ammophila",
+    "lt": "smiltyninis ausūnis",
+    "lv": "smiltāju kaussēne",
+    "nl": "zandtulpje",
+    "no": "Peziza ammophila",
+    "pl": "kustrzebka piaskowa",
+    "pt": "Peziza ammophila",
+    "ro": "Peziza ammophila",
+    "ru": "Peziza ammophila",
+    "sk": "čiaška pieskomilná",
+    "sl": "Peziza ammophila",
+    "sr": "Peziza ammophila",
+    "sv": "dynskål",
+    "tr": "Peziza ammophila",
+    "uk": "Peziza ammophila",
+    "zh": "Peziza ammophila"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [],
+    "en": [],
+    "es": [],
+    "et": [
+      "liivliudik"
+    ],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [
+      "dynskålsvamp"
+    ],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "https://www.myko.cz/myko-atlas/Peziza-ammophila/"
+    ],
+    "da": [
+      "https://svampe.databasen.org/taxonomy/18151"
+    ],
+    "de": [
+      "https://123pilzsuche.de/daten/details/Duenen-Becherling.htm"
+    ],
+    "en": [
+      "https://www.first-nature.com/fungi/peziza-ammophila.php",
+      "https://www.mushroomexpert.com/peziza_ammophila.html",
+      "https://fungi.myspecies.info/all-fungi/peziza-ammophila",
+      "https://www.mycologen.nl/onderzoek/meetnet/zeereep-concept/typische-soorten/",
+      "https://ascomycete.org/2000-Pezizales/Species/Peziza-ammophila",
+      "https://www.myko.cz/myko-atlas/Peziza-ammophila/",
+      "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=235446",
+      "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=235446",
+      "https://www.gbif.org/species/5259322",
+      "https://en.wikipedia.org/wiki/Peziza_ammophila"
+    ],
+    "es": [],
+    "et": [
+      "https://et.wikipedia.org/wiki/Luiteliudik"
+    ],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "https://hu.wikipedia.org/wiki/Homoki_csészegomba"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [
+      "https://lt.wikipedia.org/wiki/Smiltyninis_ausūnis"
+    ],
+    "lv": [
+      "http://miko.ldm.gov.lv/2020_Peziza_ammophila.htm",
+      "https://lv.wikipedia.org/wiki/Smiltāju_kaussēne"
+    ],
+    "nl": [
+      "https://www.mycologen.nl/onderzoek/meetnet/zeereep-concept/typische-soorten/",
+      "https://www.verspreidingsatlas.nl/0662010",
+      "https://nl.wikipedia.org/wiki/Zandtulpje"
+    ],
+    "no": [],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/Kustrzebka_piaskowa",
+      "https://grzyby.pl/gatunki/Peziza_ammophila.htm"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [
+      "https://www.nahuby.sk/atlas-hub/Peziza-ammophila/ciaska-pieskomilna/ID2348"
+    ],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "text": {
+    "ar": {
+      "description": "فطر صغير هش على شكل كأس ينمو في الرمل العاري، يتطور مدفونًا بالكامل تقريبًا ثم ينفتح عند السطح في كأس بنية على شكل زهرة التوليب أو نجمة. وهو نادر، لكنه سُجّل في أماكن كثيرة من الكثبان الساحلية في أوروبا، منها بريطانيا وأيرلندا وهولندا وساحل بحر البلطيق، كما سُجّل في رمال المناطق الداخلية وشمال أفريقيا وأمريكا الشمالية.",
+      "cap": "لا توجد قبعة: الجسم الثمري كأس (أبوثيسيوم) عرضها ٢–٥ cm، وأحيانًا حتى ٧ cm، وارتفاعها ١٫٥–٣ cm. يبدأ كرةً جوفاء شبه مغلقة مدفونة في الرمل، ثم يندفع إلى السطح وينفتح، وتتمزق حافته إلى خمسة إلى عشرة فصوص عريضة مدببة تنثني غالبًا نحو الخارج فتمنحه شكلًا يشبه التوليب أو النجمة. السطح الخارجي مغرّي باهت إلى بني رمادي، دقيق الحبيبات ومغطى عادةً بقشرة من حبيبات الرمل.",
+      "hymenium": "السطح الداخلي الخصب أملس، بني متوسط إلى داكن، ويتراوح من البني المصفر إلى البني المحمر. الأكياس الزقية أسطوانية، ثمانية الأبواغ، مستدقة قليلًا نحو القاعدة، وأبعادها ١٨٠–٢٣٠ × ١٥–٢٠ µm؛ والخيوط العقيمة (البارافيزات) متفرقة وغير متفرعة ومقسمة بحواجز، عرضها ٣–٤ µm ومنتفخة قليلًا كالهراوة عند الطرف حيث تبلغ نحو ٦ µm.",
+      "stipe": "لا توجد ساق حقيقية. تجلس أجسام ثمرية كثيرة على قاعدة مدفونة شبيهة بالساق (ساق كاذبة) مكونة من خيوط فطرية متشابكة بشكل رخو تربط حبيبات الرمل معًا؛ وقد تكون قصيرة وسميكة أو متجذرة يصل طولها إلى ٥ cm، وبعض الأجسام الثمرية تخلو منها.",
+      "flesh": "رقيق، سمكه نحو ١–٢ mm، بني فاتح وهش جدًا، بلا رائحة مميزة.",
+      "sporePrint": "بصمة الأبواغ بيضاء. الأبواغ الزقية إهليلجية، ملساء، شفافة، سميكة الجدار نسبيًا وبلا قطرات زيتية، ١٤–١٨ × ٨–١٠٫٥ µm. أطراف الأكياس الزقية أميلويدية، وتصطبغ بلون أزرق شديد على شكل حلقة عند القمة في كاشف ملتزر.",
+      "habitat": "مترمم على المادة العضوية في الرمل، ولا سيما الجذور الميتة وبقايا أخرى لعشبة Ammophila arenaria. ينمو منفردًا أو في مجموعات صغيرة في الرمل العاري المتحرك للكثبان الساحلية الفتية، غالبًا على الجانب المحمي من الريح من الكثيب الأمامي، وكذلك في ترب رملية مكشوفة أخرى تكون كلسية عادةً. يثمر أساسًا من مايو إلى نوفمبر، وفي المناطق الساحلية المعتدلة حتى الشتاء.",
+      "uses": "لا يؤكل. الأجسام الثمرية مغطاة بالرمل دائمًا، ومثل كثير من فطريات الكأس يُرجَّح أنه سام نيئًا أو غير مطهو جيدًا ويسبب اضطرابات هضمية.",
+      "confusion": "Geopora arenicola، التي توجد أيضًا في رمل الكثبان، تبقى أصغر (حتى ٢ cm)، وتظل شبه كروية ومدفونة بالكامل، بلا ساق، ولا تنفتح إلا بثقب دائري صغير. Sarcosphaera coronaria أكبر بكثير (حتى ٢٠ cm)، سطحها الداخلي أبيض مائل إلى الليلكي، وتنمو مع الأشجار المخروطية في ترب المناطق الداخلية. Peziza vesiculosa أبهت لونًا، وتنمو غالبًا في عناقيد على السماد العضوي والسماد المتحلل وغيرها من الترب الغنية. الأجسام الثمرية المتفتحة من Geastrum تشكل هي الأخرى أذرعًا نجمية، لكنها تحتفظ بكيس أبواغ مركزي. أما الأعضاء الآخرون في معقد Peziza ammophila، مثل Peziza hellenica وPeziza oceanica، فيُميَّزون بالصفات المجهرية والحمض النووي.",
+      "notes": "تؤدي حبيبات الرمل التي تحملها الرياح وتسقط في كأس ناضجة إلى إطلاق الأبواغ. وقد بينت دراسات الحمض النووي أن هذا الاسم ظل طويلًا يشمل عدة أنواع خفية؛ وبالمعنى الضيق فإن النوع أوروبي أساسًا. وهو مدرج في القائمة الحمراء في هولندا بوصفه مهددًا بالانقراض.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Малка, крехка гъба с чашковидна форма от голия пясък, която се развива почти изцяло заровена и на повърхността се отваря в кафява чашка с форма на лале или звезда. Рядка е, но е съобщавана от много места в крайбрежните дюни на Европа, включително Великобритания, Ирландия, Нидерландия и Балтийското крайбрежие, както и от пясъци във вътрешността, Северна Африка и Северна Америка.",
+      "cap": "Шапка няма: плодното тяло е чашка (апотеций) с ширина 2–5 cm, понякога до 7 cm, и височина 1,5–3 cm. Отначало е куха, почти затворена сфера, заровена в пясъка, после се избутва до повърхността и се отваря, а ръбът се разкъсва на пет до десет широки, заострени дяла, които често се извиват навън и придават форма на лале или звезда. Външната повърхност е бледоохрена до сивокафява, фино зърнеста и обикновено покрита с коричка от песъчинки.",
+      "hymenium": "Фертилната вътрешна повърхност е гладка, средно до тъмнокафява, от жълтеникавокафява до червеникавокафява. Асците са цилиндрични, осемспорови, леко стеснени към основата и 180–230 × 15–20 µm; парафизите са редки, неразклонени и септирани, широки 3–4 µm и леко бухалковидни на върха, където достигат около 6 µm.",
+      "stipe": "Истинско пънче няма. Много плодни тела стоят върху заровена, подобна на пънче основа (псевдопънче) от рехаво преплетени хифи, които свързват песъчинките; тя може да е къса и дебела или вкореняваща се и дълга до 5 cm, а някои плодни тела нямат такава.",
+      "flesh": "Тънка, около 1–2 mm дебела, светлокафява и много крехка, без отличителна миризма.",
+      "sporePrint": "Споров прах бял. Аскоспорите са елипсовидни, гладки, хиалинни, сравнително дебелостенни и без маслени капки, 14–18 × 8–10,5 µm. Върховете на асците са амилоидни и в реактива на Мелцер се оцветяват интензивно синьо във вид на пръстен на върха.",
+      "habitat": "Сапротроф върху органична материя в пясъка, особено върху мъртвите корени и други остатъци от тревата Ammophila arenaria. Расте единично или на малки групи в гол, подвижен пясък на млади крайбрежни дюни, най-вече от подветрената страна на предната дюна, а също и на други открити, обикновено варовити песъчливи почви. Плододава главно от май до ноември, а в меките крайбрежни райони и през зимата.",
+      "uses": "Не се яде. Плодните тела винаги са покрити с пясък и, както много чашковидни гъби, вероятно е отровна сурова или недостатъчно термично обработена и причинява стомашно-чревни разстройства.",
+      "confusion": "Geopora arenicola, която също расте в дюнен пясък, остава по-малка (до 2 cm), остава почти сферична и изцяло заровена, няма пънче и се отваря само с малък кръгъл отвор. Sarcosphaera coronaria е много по-голяма (до 20 cm), има белезникава до люлякова вътрешна повърхност и расте с иглолистни дървета върху почви във вътрешността. Peziza vesiculosa е по-бледа, често расте на групи върху тор, компост и други богати почви. Отворените плодни тела на Geastrum също образуват звездовидни лъчи, но запазват централна спорова торбичка. Други членове на комплекса Peziza ammophila, като Peziza hellenica и Peziza oceanica, се различават по микроскопски белези и ДНК.",
+      "notes": "Носени от вятъра песъчинки, които падат в зряла чашка, предизвикват изхвърлянето на спорите. ДНК изследванията показват, че името дълго е обхващало няколко криптични вида; в тесен смисъл видът е предимно европейски. В Нидерландия е включен в Червения списък като застрашен.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "cs": {
+      "description": "Drobná, křehká miskovitá houba holého písku, která se vyvíjí téměř celá zahrabaná a na povrchu se otevírá do hnědé misky tvaru tulipánu nebo hvězdy. Je vzácná, ale uvádí se z mnoha lokalit na pobřežních dunách v Evropě včetně Velké Británie, Irska, Nizozemska a pobřeží Baltu a také z vnitrozemských písků, ze severní Afriky a ze Severní Ameriky.",
+      "cap": "Klobouk nemá: plodnice je miska (apothecium) široká 2–5 cm, občas až 7 cm, a vysoká 1,5–3 cm. Nejprve je to dutá, téměř uzavřená koule ponořená v písku, poté se vysune k povrchu a otevře a okraj se roztrhne v pět až deset širokých, špičatých laloků, které se často ohýbají ven, takže vzniká tvar tulipánu nebo hvězdy. Vnější povrch je bledě okrový až šedohnědý, jemně zrnitý a obvykle obalený zrnky písku.",
+      "hymenium": "Plodná vnitřní strana je hladká, středně až tmavě hnědá, od žlutohnědé po červenohnědou. Vřecka jsou válcovitá, osmivýtrusá, k bázi mírně zúžená a měří 180–230 × 15–20 µm; parafýzy jsou řídké, nevětvené a přehrádkované, 3–4 µm široké a na vrcholu mírně kyjovité, kde dosahují asi 6 µm.",
+      "stipe": "Pravý třeň chybí. Mnohé plodnice sedí na zahrabané, třeňovité bázi (pseudotřeni) z volně propletených hyf, které spojují zrnka písku; může být krátká a tlustá nebo kořenující a dlouhá až 5 cm a některé plodnice ji nemají vůbec.",
+      "flesh": "Tenká, asi 1–2 mm silná, světle hnědá a velmi křehká, bez výrazného pachu.",
+      "sporePrint": "Výtrusný prach bílý. Askospory jsou elipsoidní, hladké, hyalinní, poměrně tlustostěnné a bez olejových kapek, 14–18 × 8–10,5 µm. Vrcholy vřecek jsou amyloidní a v Melzerově činidle se v prstenci na vrcholu barví intenzivně modře.",
+      "habitat": "Saprotrofní na organické hmotě v písku, zejména na odumřelých kořenech a jiných zbytcích trav Ammophila arenaria. Roste jednotlivě nebo v malých skupinách v holém, pohyblivém písku mladých pobřežních dun, většinou na závětrné straně přední duny, a také na jiných otevřených, obvykle vápnitých písčitých půdách. Plodnice tvoří hlavně od května do listopadu a v mírných pobřežních oblastech až do zimy.",
+      "uses": "Nesbírá se k jídlu. Plodnice jsou vždy obalené pískem a jako mnoho miskovitých hub je syrová nebo nedostatečně tepelně upravená pravděpodobně jedovatá a způsobuje zažívací potíže.",
+      "confusion": "Geopora arenicola, která rovněž roste v dunovém písku, zůstává menší (do 2 cm), zůstává téměř kulovitá a celá zahrabaná, nemá třeň a otevírá se jen malým kulatým otvorem. Sarcosphaera coronaria je mnohem větší (do 20 cm), má bělavou až fialovou vnitřní stranu a roste s jehličnany na vnitrozemských půdách. Peziza vesiculosa je bledší, roste často v trsech a na hnoji, kompostu a jiných živných půdách. Otevřené plodnice rodu Geastrum také tvoří hvězdicovité cípy, ale ponechávají si střední výtrusný vak. Další členové komplexu Peziza ammophila, například Peziza hellenica a Peziza oceanica, se rozlišují podle mikroskopických znaků a DNA.",
+      "notes": "Zrnka písku zanesená větrem, která spadnou do zralé misky, spouštějí uvolnění výtrusů. Studie DNA ukázaly, že se pod tímto jménem dlouho skrývalo několik kryptických druhů; v užším smyslu je druh hlavně evropský. V Nizozemsku je v Červeném seznamu veden jako ohrožený.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.myko.cz/myko-atlas/Peziza-ammophila/"
+      ],
+      "label": "řasnatka písečná"
+    },
+    "da": {
+      "description": "En lille, skør bægersvamp i bart sand, som udvikler sig næsten helt nedgravet og åbner sig ved overfladen til et brunt, tulipan- eller stjerneformet bæger. Den er sjælden, men kendt fra mange steder i kystklitter i Europa, bl.a. Storbritannien, Irland, Nederlandene og Østersøkysten, og desuden fra indlandssand, Nordafrika og Nordamerika.",
+      "cap": "Der er ingen hat: frugtlegemet er et bæger (apothecium), 2–5 cm bredt, undertiden op til 7 cm, og 1,5–3 cm højt. Det begynder som en hul, næsten lukket kugle nedgravet i sandet, skyder sig derefter op til overfladen og åbner sig, og randen flænges i fem til ti brede, spidse lapper, der ofte bøjer udad og giver en tulipan- eller stjernelignende form. Ydersiden er bleg okker til gråbrun, fint kornet og som regel dækket af en skorpe af sandkorn.",
+      "hymenium": "Den fertile inderside er glat og mellem- til mørkebrun, varierende fra gulbrun til rødbrun. Sporesækkene er cylindriske, ottesporede, svagt tilspidsede mod basis og 180–230 × 15–20 µm; parafyserne er spredte, ugrenede og septerede, 3–4 µm brede og svagt køllede i spidsen, hvor de når ca. 6 µm.",
+      "stipe": "Der er ingen ægte stok. Mange frugtlegemer sidder på en nedgravet, stoklignende basis (pseudostok) af løst sammenflettede hyfer, som binder sandkorn sammen; den kan være kort og tyk eller rodagtig og op til 5 cm lang, og nogle frugtlegemer mangler den.",
+      "flesh": "Tyndt, ca. 1–2 mm tykt, lysebrunt og meget skørt, uden udpræget lugt.",
+      "sporePrint": "Sporepulver hvidt. Ascosporerne er ellipsoide, glatte, hyaline, temmelig tykvæggede og uden oliedråber, 14–18 × 8–10,5 µm. Sporesækkenes spidser er amyloide og farves i Melzers reagens kraftigt blå i en ring ved toppen.",
+      "habitat": "Saprotrof på organisk materiale i sand, især døde rødder og andre rester af hjælme (Ammophila arenaria). Den vokser enkeltvis eller i små grupper i bart, fygende sand i unge kystklitter, mest på læsiden af forklitten, og også på anden åben, som regel kalkholdig sandbund. Frugtlegemerne kommer især fra maj til november og i milde kystegne helt ind i vinteren.",
+      "uses": "Spises ikke. Frugtlegemerne er altid dækket af sand, og som mange bægersvampe er den sandsynligvis giftig rå eller utilstrækkeligt tilberedt og giver mave-tarm-gener.",
+      "confusion": "Geopora arenicola, der også findes i klitsand, forbliver mindre (op til 2 cm), forbliver næsten kugleformet og helt nedgravet, har ingen stok og åbner sig kun med et lille rundt hul. Sarcosphaera coronaria er langt større (op til 20 cm), har en hvidlig til lilla inderside og vokser med nåletræer på jord inde i landet. Peziza vesiculosa er blegere, vokser ofte i tuer og på gødning, kompost og anden næringsrig jord. Åbnede frugtlegemer af Geastrum danner også stjerneformede flige, men beholder en central sporesæk. Andre medlemmer af Peziza ammophila-komplekset, som Peziza hellenica og Peziza oceanica, adskilles ved mikroskopiske karakterer og DNA.",
+      "notes": "Sandkorn, som vinden fører ned i et modent bæger, udløser frigivelsen af sporerne. DNA-undersøgelser har vist, at navnet længe dækkede over flere kryptiske arter; i snæver forstand er arten mest europæisk. I Nederlandene står den på rødlisten som truet.",
+      "names": [],
+      "sourceUrls": [
+        "https://svampe.databasen.org/taxonomy/18151"
+      ],
+      "label": "klit-bægersvamp"
+    },
+    "de": {
+      "description": "Ein kleiner, brüchiger Becherpilz aus offenem Sand, der sich fast vollständig eingegraben entwickelt und sich an der Oberfläche zu einem braunen, tulpen- oder sternförmigen Becher öffnet. Er ist selten, wird aber vielfach von Küstendünen in Europa gemeldet, darunter Großbritannien, Irland, die Niederlande und die Ostseeküste, außerdem von Binnensanden, aus Nordafrika und aus Nordamerika.",
+      "cap": "Einen Hut gibt es nicht: Der Fruchtkörper ist ein Becher (Apothecium) von 2–5 cm Breite, gelegentlich bis 7 cm, und 1,5–3 cm Höhe. Er beginnt als hohle, fast geschlossene Kugel im Sand, schiebt sich dann bis an die Oberfläche und öffnet sich, wobei der Rand in fünf bis zehn breite, spitze Lappen einreißt, die sich oft nach außen biegen und ihm eine tulpen- oder sternähnliche Gestalt geben. Die Außenseite ist blass ocker bis graubraun, fein körnig und meist mit Sandkörnern verkrustet.",
+      "hymenium": "Die fruchtbare Innenseite ist glatt und mittel- bis dunkelbraun, mit Spielarten von gelblichbraun bis rotbraun. Die Asci sind zylindrisch, achtsporig, zur Basis hin leicht verjüngt und 180–230 × 15–20 µm groß; die Paraphysen sind spärlich, unverzweigt und septiert, 3–4 µm breit und an der Spitze leicht keulig auf etwa 6 µm erweitert.",
+      "stipe": "Ein echter Stiel fehlt. Viele Fruchtkörper sitzen auf einer eingegrabenen, stielartigen Basis (Pseudostiel) aus locker verflochtenen Hyphen, die Sandkörner zusammenhalten; sie kann kurz und dick oder wurzelnd und bis 5 cm lang sein, und manchen Fruchtkörpern fehlt sie ganz.",
+      "flesh": "Dünn, etwa 1–2 mm dick, blassbraun und sehr brüchig, ohne auffälligen Geruch.",
+      "sporePrint": "Sporenpulver weiß. Die Ascosporen sind ellipsoid, glatt, hyalin, ziemlich dickwandig und ohne Öltropfen, 14–18 × 8–10,5 µm. Die Ascusspitzen sind amyloid und färben sich in Melzers Reagenz in einem Ring am Scheitel kräftig blau.",
+      "habitat": "Saprotroph auf organischem Material im Sand, besonders auf abgestorbenen Wurzeln und anderen Resten des Strandhafers (Ammophila arenaria). Er wächst einzeln oder in kleinen Gruppen in offenem, wanderndem Sand junger Küstendünen, meist auf der Leeseite der Vordüne, und auch auf anderen offenen, meist kalkhaltigen Sandböden. Fruchtkörper erscheinen vor allem von Mai bis November, in milden Küstengebieten bis in den Winter.",
+      "uses": "Wird nicht gegessen. Die Fruchtkörper sind stets mit Sand verkrustet, und wie viele Becherpilze ist die Art roh oder ungenügend gegart wahrscheinlich giftig und verursacht Magen-Darm-Beschwerden.",
+      "confusion": "Geopora arenicola, ebenfalls im Dünensand, bleibt kleiner (bis 2 cm), bleibt fast kugelig und ganz eingegraben, hat keinen Stiel und öffnet sich nur mit einem kleinen runden Loch. Sarcosphaera coronaria ist viel größer (bis 20 cm), hat eine weißliche bis lila Innenseite und wächst mit Nadelbäumen auf Böden im Binnenland. Peziza vesiculosa ist blasser, wächst oft gebüschelt und auf Mist, Kompost und anderen nährstoffreichen Böden. Geöffnete Fruchtkörper von Geastrum bilden ebenfalls sternförmige Lappen, behalten aber einen zentralen Sporensack. Andere Mitglieder des Komplexes um Peziza ammophila, etwa Peziza hellenica und Peziza oceanica, werden anhand mikroskopischer Merkmale und der DNA unterschieden.",
+      "notes": "Vom Wind verwehte Sandkörner, die in einen reifen Becher fallen, lösen das Ausschleudern der Sporen aus. DNA-Untersuchungen haben gezeigt, dass sich unter dem Namen lange mehrere kryptische Arten verbargen; im engeren Sinn ist die Art vor allem europäisch. In den Niederlanden steht sie als stark gefährdet auf der Roten Liste.",
+      "names": [],
+      "sourceUrls": [
+        "https://123pilzsuche.de/daten/details/Duenen-Becherling.htm"
+      ],
+      "label": "Dünen-Becherling"
+    },
+    "en": {
+      "description": "A small, brittle cup fungus of bare sand that develops almost entirely buried and opens at the surface into a brown, tulip- or star-shaped cup. It is rare but widely reported on coastal dunes in Europe, including Britain, Ireland, the Netherlands and the Baltic coast, and also from inland sands, North Africa and North America.",
+      "cap": "There is no cap: the fruit body is a cup (apothecium) 2–5 cm across, occasionally up to 7 cm, and 1.5–3 cm tall. It begins as a hollow, almost closed sphere buried in the sand, then pushes up to the surface and opens, and the margin tears into five to ten broad, pointed lobes that often bend outwards, giving a tulip- or star-like shape. The outer surface is pale ochre to greyish brown, finely granular and usually crusted with sand grains.",
+      "hymenium": "The fertile inner surface is smooth and mid to dark brown, varying from yellowish brown to reddish brown. Asci are cylindrical, eight-spored, slightly tapered at the base and 180–230 × 15–20 µm; paraphyses are sparse, unbranched and septate, 3–4 µm wide and slightly club-shaped at the tip, where they reach about 6 µm.",
+      "stipe": "There is no true stipe. Many fruit bodies sit on a buried, stalk-like base (pseudostipe) of loosely interwoven hyphae that bind sand grains together; it may be short and thick or rooting and up to 5 cm long, and some fruit bodies have none.",
+      "flesh": "Thin, about 1–2 mm thick, pale brown and very brittle, with no distinctive odour.",
+      "sporePrint": "Spore deposit white. Ascospores are ellipsoid, smooth, hyaline, fairly thick-walled and without oil drops, 14–18 × 8–10.5 µm. The ascus tips are amyloid, staining intensely blue in a ring at the apex in Melzer's reagent.",
+      "habitat": "Saprotrophic on organic matter in sand, especially the dead roots and other remains of marram grass (Ammophila arenaria). It grows alone or in small groups in bare, shifting sand of young coastal dunes, mostly on the lee side of the foredune, and also on other open sandy soils, usually calcareous ones. It fruits mainly from May to November, and in mild coastal areas into winter.",
+      "uses": "Not eaten. The fruit bodies are always encrusted with sand, and like many cup fungi it is probably poisonous raw or undercooked, causing stomach upsets.",
+      "confusion": "Geopora arenicola, also found in dune sand, stays smaller (up to 2 cm), remains almost spherical and wholly buried, has no stalk and opens only by a small round hole. Sarcosphaera coronaria is much larger (up to 20 cm), has a whitish to lilac inner surface and grows with conifers on inland soil. Peziza vesiculosa is paler, often clustered and grows on manure, compost and other rich soils. Opened Geastrum fruit bodies also form star-like rays but keep a central spore sac. Other members of the Peziza ammophila complex, such as Peziza hellenica and Peziza oceanica, are separated by microscopic characters and DNA.",
+      "notes": "Wind-blown sand grains falling into a ripe cup trigger the release of its spores. DNA studies have shown that the name long covered several cryptic species; in the strict sense it is mainly European. It is red-listed as endangered in the Netherlands.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/peziza-ammophila.php",
+        "https://www.mushroomexpert.com/peziza_ammophila.html",
+        "https://fungi.myspecies.info/all-fungi/peziza-ammophila",
+        "https://www.mycologen.nl/onderzoek/meetnet/zeereep-concept/typische-soorten/",
+        "https://ascomycete.org/2000-Pezizales/Species/Peziza-ammophila",
+        "https://www.myko.cz/myko-atlas/Peziza-ammophila/",
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=235446",
+        "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=235446",
+        "https://www.gbif.org/species/5259322",
+        "https://en.wikipedia.org/wiki/Peziza_ammophila"
+      ],
+      "label": "dune cup"
+    },
+    "es": {
+      "description": "Hongo de copa pequeño y frágil de la arena desnuda, que se desarrolla casi totalmente enterrado y se abre en la superficie formando una copa parda en forma de tulipán o de estrella. Es raro, pero se ha citado en muchos lugares de las dunas costeras de Europa, entre ellos Gran Bretaña, Irlanda, los Países Bajos y la costa del Báltico, y también en arenas del interior, en el norte de África y en Norteamérica.",
+      "cap": "No tiene sombrero: el cuerpo fructífero es una copa (apotecio) de 2–5 cm de ancho, a veces hasta 7 cm, y de 1,5–3 cm de alto. Empieza como una esfera hueca casi cerrada enterrada en la arena, luego asciende hasta la superficie y se abre, y el margen se rasga en cinco a diez lóbulos anchos y puntiagudos que a menudo se curvan hacia fuera, lo que le da forma de tulipán o de estrella. La cara externa es ocre pálido a pardo grisáceo, finamente granulosa y normalmente incrustada de granos de arena.",
+      "hymenium": "La cara interna fértil es lisa y de color pardo medio a pardo oscuro, variando de pardo amarillento a pardo rojizo. Los ascos son cilíndricos, octospóricos, algo estrechados en la base y miden 180–230 × 15–20 µm; las paráfisis son escasas, no ramificadas y septadas, de 3–4 µm de ancho y ligeramente claviformes en el ápice, donde alcanzan unos 6 µm.",
+      "stipe": "No tiene un pie verdadero. Muchos cuerpos fructíferos se asientan sobre una base enterrada en forma de pie (pseudoestípite) de hifas laxamente entrelazadas que aglutinan los granos de arena; puede ser corta y gruesa o radicante y de hasta 5 cm de largo, y algunos cuerpos fructíferos carecen de ella.",
+      "flesh": "Delgada, de unos 1–2 mm de grosor, pardo pálida y muy frágil, sin olor destacable.",
+      "sporePrint": "Esporada blanca. Las ascosporas son elipsoidales, lisas, hialinas, de pared bastante gruesa y sin gotas lipídicas, de 14–18 × 8–10,5 µm. El ápice de los ascos es amiloide y se tiñe de azul intenso, en un anillo en el extremo, con el reactivo de Melzer.",
+      "habitat": "Saprótrofo sobre la materia orgánica de la arena, sobre todo en raíces muertas y otros restos del barrón (Ammophila arenaria). Crece solitario o en pequeños grupos en la arena desnuda y móvil de las dunas costeras jóvenes, sobre todo en la cara de sotavento de la duna delantera, y también en otros suelos arenosos abiertos, por lo general calizos. Fructifica sobre todo de mayo a noviembre y, en zonas costeras templadas, hasta el invierno.",
+      "uses": "No se consume. Los cuerpos fructíferos están siempre incrustados de arena y, como muchos hongos de copa, probablemente es tóxico crudo o poco cocinado y causa trastornos digestivos.",
+      "confusion": "Geopora arenicola, también presente en la arena de las dunas, es más pequeño (hasta 2 cm), permanece casi esférico y totalmente enterrado, no tiene pie y solo se abre por un pequeño orificio redondo. Sarcosphaera coronaria es mucho mayor (hasta 20 cm), tiene la cara interna blanquecina a lila y crece con coníferas en suelos del interior. Peziza vesiculosa es más pálido, a menudo crece en grupos apiñados y sobre estiércol, compost y otros suelos ricos. Los cuerpos fructíferos abiertos de Geastrum también forman lacinias estrelladas, pero conservan un saco esporífero central. Otros miembros del complejo de Peziza ammophila, como Peziza hellenica y Peziza oceanica, se separan por caracteres microscópicos y por el ADN.",
+      "notes": "Los granos de arena arrastrados por el viento que caen en una copa madura desencadenan la liberación de sus esporas. Los estudios de ADN han demostrado que el nombre abarcó durante mucho tiempo varias especies crípticas; en sentido estricto es sobre todo europea. En los Países Bajos figura en la lista roja como en peligro.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Väike, habras liudseen paljast liivast, mis areneb peaaegu täielikult maetuna ja avaneb pinnal pruuniks, tulbi- või tähekujuliseks liudiks. See on haruldane, kuid teda on teatatud paljudest kohtadest Euroopa rannikuluidetelt, sealhulgas Suurbritanniast, Iirimaalt, Madalmaadest ja Läänemere rannikult, samuti sisemaa liivadelt, Põhja-Aafrikast ja Põhja-Ameerikast.",
+      "cap": "Kübarat ei ole: viljakeha on liud (apoteetsium), 2–5 cm lai, mõnikord kuni 7 cm, ja 1,5–3 cm kõrge. Algul on see õõnes, peaaegu suletud kera liiva sees, seejärel tõuseb pinnale ja avaneb ning serv rebeneb viieks kuni kümneks laiaks teravatipuliseks hõlmaks, mis sageli painduvad väljapoole ja annavad tulbi- või tähesarnase kuju. Välispind on kahvatu ookerjas kuni hallikaspruun, peeneteraline ja tavaliselt liivateradega kaetud.",
+      "hymenium": "Viljakas sisepind on sile ning keskmiselt kuni tumepruun, varieerudes kollakaspruunist punakaspruunini. Kotid on silindrilised, kaheksaeoselised, aluse poole veidi ahenevad ja 180–230 × 15–20 µm; parafüüsid on hõredad, harunemata ja vaheseintega, 3–4 µm laiad ning tipul veidi nuijad, kus nad ulatuvad umbes 6 µm-ni.",
+      "stipe": "Päris jalga ei ole. Paljud viljakehad istuvad maetud, jalasarnasel alusel (näivjalal), mis koosneb lõdvalt põimunud hüüfidest, mis seovad liivaterad kokku; see võib olla lühike ja jäme või juurduv ja kuni 5 cm pikk ning mõnel viljakehal puudub see.",
+      "flesh": "Õhuke, umbes 1–2 mm paks, helepruun ja väga habras, ilma iseloomuliku lõhnata.",
+      "sporePrint": "Eospulber valge. Kotteosed on ellipsoidsed, siledad, värvitud, üsna paksuseinalised ja õlitilkadeta, 14–18 × 8–10,5 µm. Kottide tipud on amüloidsed ja värvuvad Melzeri reaktiivis tipul rõngana intensiivselt siniseks.",
+      "habitat": "Saprotroof liiva orgaanilisel ainel, eriti kõrrelise Ammophila arenaria surnud juurtel ja muudel jäänustel. Kasvab üksikult või väikeste rühmadena noorte rannikuluidete paljal, liikuval liival, enamasti eelluite tuulealusel küljel, samuti teistel avatud, tavaliselt lubjarikastel liivmuldadel. Viljub peamiselt maist novembrini, pehme kliimaga rannikualadel talveni.",
+      "uses": "Ei sööda. Viljakehad on alati liivaga kaetud ja nagu paljud liudseened on see toorelt või ebapiisavalt kuumtöödelduna tõenäoliselt mürgine ning põhjustab seedehäireid.",
+      "confusion": "Samuti luiteliivas kasvav Geopora arenicola jääb väiksemaks (kuni 2 cm), püsib peaaegu kerakujulisena ja täielikult maetuna, jalata ning avaneb vaid väikese ümara avaga. Sarcosphaera coronaria on palju suurem (kuni 20 cm), sisepind on valkjas kuni lilla ning ta kasvab okaspuudega sisemaa muldadel. Peziza vesiculosa on kahvatum, kasvab sageli kogumikena ning sõnnikul, kompostil ja muudel toitaineterikastel muldadel. Avanenud Geastrum'i viljakehad moodustavad samuti tähekujulisi hõlmu, kuid säilitavad keskse eostasku. Peziza ammophila kompleksi teised liikmed, näiteks Peziza hellenica ja Peziza oceanica, eristatakse mikroskoopiliste tunnuste ja DNA järgi.",
+      "notes": "Tuulega kantud liivaterad, mis kukuvad küpsesse liudi, vallandavad eoste vabanemise. DNA-uuringud on näidanud, et selle nime all varjus kaua mitu krüptilist liiki; kitsamas tähenduses on liik peamiselt Euroopas. Madalmaades on see punases nimestikus ohustatuna.",
+      "names": [
+        "liivliudik"
+      ],
+      "sourceUrls": [
+        "https://et.wikipedia.org/wiki/Luiteliudik"
+      ],
+      "label": "luiteliudik"
+    },
+    "fa": {
+      "description": "قارچی کوچک، شکننده و جام‌مانند در ماسهٔ برهنه که تقریباً به‌طور کامل مدفون رشد می‌کند و در سطح به جامی قهوه‌ای به شکل لاله یا ستاره باز می‌شود. کمیاب است، اما از جاهای بسیاری در تپه‌های ماسه‌ای ساحلی اروپا، از جمله بریتانیا، ایرلند، هلند و کرانهٔ دریای بالتیک، و نیز از ماسه‌های درون‌خشکی، شمال آفریقا و آمریکای شمالی گزارش شده است.",
+      "cap": "کلاهک ندارد: اندام بارده جامی (آپوتسیوم) به پهنای ۲–۵ cm، گاهی تا ۷ cm، و به بلندی ۱٫۵–۳ cm است. در آغاز گوی توخالی و تقریباً بسته‌ای است که در ماسه مدفون است، سپس به سطح رانده می‌شود و باز می‌شود و لبه‌اش به پنج تا ده لوب پهن و نوک‌تیز پاره می‌شود که اغلب به بیرون خم می‌شوند و شکلی شبیه لاله یا ستاره به آن می‌دهند. سطح بیرونی اُخرایی کم‌رنگ تا قهوه‌ای خاکستری، ریزدانه و معمولاً پوشیده از پوسته‌ای از دانه‌های ماسه است.",
+      "hymenium": "سطح درونی بارور صاف و قهوه‌ای میانه تا تیره است و از قهوه‌ای مایل به زرد تا قهوه‌ای مایل به سرخ تغییر می‌کند. آسک‌ها استوانه‌ای، هشت‌هاگی، اندکی باریک‌شونده به سوی پایه و به اندازهٔ ۱۸۰–۲۳۰ × ۱۵–۲۰ µm هستند؛ پارافیزها پراکنده، بی‌انشعاب و دیواره‌دار، به پهنای ۳–۴ µm و در نوک اندکی گرزی‌اند و در آنجا به حدود ۶ µm می‌رسند.",
+      "stipe": "پایهٔ حقیقی ندارد. بسیاری از اندام‌های بارده روی قاعده‌ای مدفون و پایه‌مانند (پایهٔ کاذب) از ریسه‌های سست درهم‌تنیده نشسته‌اند که دانه‌های ماسه را به هم می‌چسبانند؛ این قاعده ممکن است کوتاه و کلفت یا ریشه‌دار و تا ۵ cm بلند باشد و برخی اندام‌های بارده آن را ندارند.",
+      "flesh": "نازک، به ضخامت حدود ۱–۲ mm، قهوه‌ای روشن و بسیار شکننده، بدون بوی مشخص.",
+      "sporePrint": "اثر هاگ سفید. آسکوسپورها بیضوی، صاف، بی‌رنگ، با دیوارهٔ نسبتاً ضخیم و بدون قطرهٔ روغن، ۱۴–۱۸ × ۸–۱۰٫۵ µm هستند. نوک آسک‌ها آمیلوئید است و در معرف ملتزر به شکل حلقه‌ای در رأس به رنگ آبی پررنگ درمی‌آید.",
+      "habitat": "گندرو روی مادهٔ آلی در ماسه، به‌ویژه ریشه‌های مرده و دیگر بقایای گیاه علفی Ammophila arenaria. به‌تنهایی یا در گروه‌های کوچک در ماسهٔ برهنه و روان تپه‌های ماسه‌ای ساحلی جوان، بیشتر در سوی بادپناه تپهٔ پیشین، و نیز در دیگر خاک‌های ماسه‌ای باز و معمولاً آهکی می‌روید. بیشتر از ماه مه تا نوامبر بار می‌دهد و در نواحی ساحلی معتدل تا زمستان.",
+      "uses": "خوردنی نیست. اندام‌های بارده همیشه پوشیده از ماسه‌اند و مانند بسیاری از قارچ‌های جامی احتمالاً در حالت خام یا نیم‌پز سمی است و ناراحتی گوارشی ایجاد می‌کند.",
+      "confusion": "Geopora arenicola که آن نیز در ماسهٔ تپه‌ها یافت می‌شود، کوچک‌تر می‌ماند (تا ۲ cm)، تقریباً کروی و کاملاً مدفون باقی می‌ماند، پایه ندارد و تنها با سوراخ گرد کوچکی باز می‌شود. Sarcosphaera coronaria بسیار بزرگ‌تر است (تا ۲۰ cm)، سطح درونی سفیدفام تا یاسی دارد و همراه با سوزنی‌برگان در خاک‌های درون‌خشکی می‌روید. Peziza vesiculosa کم‌رنگ‌تر است، اغلب به‌صورت دسته‌ای و روی کود دامی، کمپوست و دیگر خاک‌های غنی می‌روید. اندام‌های بارده بازشدهٔ Geastrum نیز بازوهای ستاره‌مانند می‌سازند، اما کیسهٔ هاگ مرکزی را نگه می‌دارند. دیگر اعضای مجموعهٔ Peziza ammophila، مانند Peziza hellenica و Peziza oceanica، با ویژگی‌های میکروسکوپی و DNA از هم جدا می‌شوند.",
+      "notes": "دانه‌های ماسهٔ بادآورده که درون جامی رسیده می‌افتند، رهاسازی هاگ‌ها را برمی‌انگیزند. پژوهش‌های DNA نشان داده‌اند که این نام مدت‌ها چند گونهٔ پنهان را در بر می‌گرفت؛ در معنای محدود، این گونه عمدتاً اروپایی است. در هلند در فهرست سرخ با وضعیت در خطر انقراض ثبت شده است.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Pieni, hauras maljasieni, joka kasvaa paljaassa hiekassa: se kehittyy lähes kokonaan hautautuneena ja aukeaa pinnalla ruskeaksi, tulppaanin- tai tähdenmuotoiseksi maljaksi. Se on harvinainen, mutta siitä on ilmoituksia monilta Euroopan rannikkodyyneiltä, muun muassa Britanniasta, Irlannista, Alankomaista ja Itämeren rannikolta, sekä sisämaan hiekoilta, Pohjois-Afrikasta ja Pohjois-Amerikasta.",
+      "cap": "Lakkia ei ole: itiöemä on malja (apothecium), leveydeltään 2–5 cm, joskus jopa 7 cm, ja korkeudeltaan 1,5–3 cm. Se alkaa onttona, lähes umpinaisena pallona hiekan sisällä, nousee sitten pintaan ja aukeaa, ja reuna repeää viideksi–kymmeneksi leveäksi, suippokärkiseksi liuskaksi, jotka taipuvat usein ulospäin ja antavat tulppaanin- tai tähtimäisen muodon. Ulkopinta on vaalean okra tai harmaanruskea, hienorakeinen ja yleensä hiekanjyvien peittämä.",
+      "hymenium": "Itiöitä tuottava sisäpinta on sileä ja keski- tai tummanruskea, kellanruskeasta punaruskeaan vaihteleva. Kotelot ovat lieriömäisiä, kahdeksanitiöisiä, tyveä kohti hieman kapenevia ja kooltaan 180–230 × 15–20 µm; parafyysit ovat harvassa, haarattomia ja väliseinällisiä, 3–4 µm leveitä ja kärjestä hieman nuijamaisia, jossa ne ovat noin 6 µm leveitä.",
+      "stipe": "Varsinaista jalkaa ei ole. Monet itiöemät ovat hiekkaan hautautuneen, jalkamaisen tyven (valejalan) päällä; se koostuu löyhästi toisiinsa kietoutuneista rihmoista, jotka sitovat hiekanjyviä yhteen, ja voi olla lyhyt ja paksu tai juurehtiva ja jopa 5 cm pitkä, ja joiltakin itiöemiltä se puuttuu.",
+      "flesh": "Ohut, noin 1–2 mm paksu, vaaleanruskea ja hyvin hauras, ilman erityistä hajua.",
+      "sporePrint": "Itiöpöly valkoinen. Koteloitiöt ovat ellipsoidisia, sileitä, värittömiä, melko paksuseinäisiä ja ilman öljypisaroita, 14–18 × 8–10,5 µm. Kotelojen kärjet ovat amyloideja ja värjäytyvät Melzerin reagenssissa voimakkaan sinisiksi renkaana kärjessä.",
+      "habitat": "Lahottaja, joka kasvaa hiekan eloperäisellä aineksella, erityisesti rantakauran (Ammophila arenaria) kuolleilla juurilla ja muilla jäänteillä. Se kasvaa yksittäin tai pieninä ryhminä nuorten rannikkodyynien paljaassa, liikkuvassa hiekassa, enimmäkseen etudyynin suojanpuolella, sekä muilla avoimilla, yleensä kalkkipitoisilla hiekkamailla. Itiöemiä muodostuu pääasiassa toukokuusta marraskuuhun ja leudoilla rannikkoalueilla talveen saakka.",
+      "uses": "Ei syödä. Itiöemät ovat aina hiekan peitossa, ja kuten monet maljasienet se on todennäköisesti myrkyllinen raakana tai riittämättömästi kypsennettynä ja aiheuttaa vatsavaivoja.",
+      "confusion": "Myös dyynihiekassa kasvava Geopora arenicola jää pienemmäksi (enintään 2 cm), pysyy lähes pallomaisena ja kokonaan hautautuneena, on jalaton ja aukeaa vain pienestä pyöreästä reiästä. Sarcosphaera coronaria on paljon suurempi (enintään 20 cm), sen sisäpinta on valkeahko tai lila, ja se kasvaa havupuiden kanssa sisämaan maaperällä. Peziza vesiculosa on vaaleampi, kasvaa usein ryhminä ja lannassa, kompostissa ja muulla ravinteikkaalla maalla. Avautuneet Geastrum-itiöemät muodostavat nekin tähtimäisiä liuskoja, mutta niissä säilyy keskellä itiöpussi. Peziza ammophila -kompleksin muut lajit, kuten Peziza hellenica ja Peziza oceanica, erotetaan mikroskooppisten tuntomerkkien ja DNA:n perusteella.",
+      "notes": "Tuulen kuljettamat hiekanjyvät, jotka putoavat kypsään maljaan, laukaisevat itiöiden vapautumisen. DNA-tutkimukset ovat osoittaneet, että nimen alle kätkeytyi pitkään useita kryptisiä lajeja; suppeassa merkityksessä laji on pääasiassa eurooppalainen. Alankomaissa se on punaisella listalla luokassa erittäin uhanalainen.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fr": {
+      "description": "Petit champignon en coupe, fragile, des sables nus, qui se développe presque entièrement enterré et s'ouvre à la surface en une coupe brune en forme de tulipe ou d'étoile. Il est rare mais signalé en de nombreux endroits sur les dunes littorales d'Europe, notamment en Grande-Bretagne, en Irlande, aux Pays-Bas et sur les côtes de la Baltique, ainsi que sur des sables de l'intérieur, en Afrique du Nord et en Amérique du Nord.",
+      "cap": "Il n'y a pas de chapeau : le fruit est une coupe (apothécie) de 2–5 cm de large, parfois jusqu'à 7 cm, et de 1,5–3 cm de haut. Il naît sous la forme d'une sphère creuse presque fermée enfouie dans le sable, remonte ensuite jusqu'à la surface et s'ouvre, la marge se déchirant en cinq à dix lobes larges et pointus qui se recourbent souvent vers l'extérieur, d'où une forme de tulipe ou d'étoile. La face externe est ocre pâle à brun grisâtre, finement granuleuse et généralement incrustée de grains de sable.",
+      "hymenium": "La face interne fertile est lisse, brun moyen à brun foncé, variant du brun jaunâtre au brun rougeâtre. Les asques sont cylindriques, octosporés, légèrement atténués à la base et mesurent 180–230 × 15–20 µm ; les paraphyses sont peu nombreuses, non ramifiées et cloisonnées, larges de 3–4 µm et légèrement claviformes au sommet, où elles atteignent environ 6 µm.",
+      "stipe": "Il n'y a pas de vrai pied. De nombreux fruits reposent sur une base enterrée en forme de pied (pseudostipe) faite d'hyphes lâchement entrelacées qui agglomèrent les grains de sable ; elle peut être courte et épaisse ou radicante et longue jusqu'à 5 cm, et certains fruits en sont dépourvus.",
+      "flesh": "Mince, d'environ 1–2 mm d'épaisseur, brun pâle et très cassante, sans odeur particulière.",
+      "sporePrint": "Sporée blanche. Les ascospores sont ellipsoïdes, lisses, hyalines, à paroi assez épaisse et sans gouttelettes lipidiques, 14–18 × 8–10,5 µm. Le sommet des asques est amyloïde et se colore intensément en bleu, en anneau à l'apex, dans le réactif de Melzer.",
+      "habitat": "Saprotrophe sur la matière organique du sable, surtout sur les racines mortes et autres débris de l'oyat (Ammophila arenaria). Il pousse isolé ou en petits groupes dans le sable nu et mobile des jeunes dunes littorales, le plus souvent sur le versant sous le vent de la dune bordière, et aussi sur d'autres sols sableux ouverts, généralement calcaires. Il fructifie surtout de mai à novembre, et jusqu'en hiver dans les régions côtières douces.",
+      "uses": "Non consommé. Les fruits sont toujours incrustés de sable et, comme beaucoup de champignons en coupe, il est probablement toxique cru ou insuffisamment cuit et provoque des troubles digestifs.",
+      "confusion": "Geopora arenicola, présent lui aussi dans le sable des dunes, reste plus petit (jusqu'à 2 cm), demeure presque sphérique et entièrement enterré, n'a pas de pied et ne s'ouvre que par un petit trou rond. Sarcosphaera coronaria est bien plus grand (jusqu'à 20 cm), a une face interne blanchâtre à lilas et pousse avec les conifères sur les sols de l'intérieur. Peziza vesiculosa est plus pâle, souvent en touffes, et pousse sur le fumier, le compost et d'autres sols riches. Les fruits ouverts de Geastrum forment aussi des lanières en étoile mais gardent un sac sporifère central. D'autres membres du complexe Peziza ammophila, comme Peziza hellenica et Peziza oceanica, se distinguent par des caractères microscopiques et par l'ADN.",
+      "notes": "Les grains de sable apportés par le vent qui tombent dans une coupe mûre déclenchent la libération des spores. Des études de l'ADN ont montré que ce nom a longtemps recouvert plusieurs espèces cryptiques ; au sens strict, l'espèce est surtout européenne. Aux Pays-Bas, elle figure sur la liste rouge comme en danger.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "he": {
+      "description": "פטרייה קטנה ושבירה דמוית גביע מחול חשוף, המתפתחת כמעט כולה קבורה ונפתחת על פני השטח לגביע חום בצורת צבעוני או כוכב. היא נדירה, אך דווחה ממקומות רבים בדיונות החוף של אירופה, ובהם בריטניה, אירלנד, הולנד וחוף הים הבלטי, וכן מחולות פנים־היבשה, מצפון אפריקה ומצפון אמריקה.",
+      "cap": "אין כובע: גוף הפרי הוא גביע (אפותציום) ברוחב 2–5 cm, לעיתים עד 7 cm, ובגובה 1.5–3 cm. בתחילה הוא כדור חלול וכמעט סגור הקבור בחול, אחר כך נדחק אל פני השטח ונפתח, והשוליים נקרעים לחמש עד עשר אונות רחבות ומחודדות, שלעיתים קרובות מתכופפות כלפי חוץ ומקנות לו צורה של צבעוני או כוכב. המשטח החיצוני אוקרה חיוור עד חום־אפרפר, גרגרי דק ובדרך כלל מכוסה גרגרי חול.",
+      "hymenium": "המשטח הפנימי הפורה חלק, חום בינוני עד כהה, ומשתנה מחום־צהבהב עד חום־אדמדם. הנאדיות (אסקי) גליליות, בעלות שמונה נבגים, מצטמצמות מעט לעבר הבסיס ומידתן 180–230 × 15–20 µm; הפרפיזות דלילות, לא מסועפות ומחולקות במחיצות, ברוחב 3–4 µm ומעובות מעט בקצה, שם הן מגיעות לכ־6 µm.",
+      "stipe": "אין רגל אמיתית. גופי פרי רבים יושבים על בסיס קבור דמוי רגל (רגל מדומה) העשוי תפטירים שזורים ברפיון המלכדים גרגרי חול; הוא יכול להיות קצר ועבה או משתרש ובאורך עד 5 cm, ובחלק מגופי הפרי אין בסיס כזה כלל.",
+      "flesh": "דקה, בעובי של כ־1–2 mm, חומה בהירה ושבירה מאוד, ללא ריח מיוחד.",
+      "sporePrint": "הדפס הנבגים לבן. הנבגים (אסקוספורות) אליפטיים, חלקים, שקופים, בעלי דופן עבה למדי וללא טיפות שמן, 14–18 × 8–10.5 µm. קצות הנאדיות עמילואידיים ונצבעים בכחול עז בצורת טבעת בקודקוד בריאגנט מלצר.",
+      "habitat": "ספרוטרופית על חומר אורגני בחול, בעיקר על שורשים מתים ושרידים אחרים של העשב Ammophila arenaria. גדלה בודדת או בקבוצות קטנות בחול חשוף ונודד של דיונות חוף צעירות, בעיקר בצד המוגן מהרוח של הדיונה הקדמית, וגם בקרקעות חוליות פתוחות אחרות, לרוב גירניות. מניבה בעיקר ממאי עד נובמבר, ובאזורי חוף מתונים עד החורף.",
+      "uses": "אינה נאכלת. גופי הפרי מכוסים תמיד בחול, וכמו פטריות גביע רבות היא כנראה רעילה כשהיא לא מבושלת או מבושלת חלקית וגורמת להפרעות בעיכול.",
+      "confusion": "Geopora arenicola, הגדלה אף היא בחול דיונות, נשארת קטנה יותר (עד 2 cm), נשארת כמעט כדורית וקבורה כולה, חסרת רגל ונפתחת רק בפתח עגול קטן. Sarcosphaera coronaria גדולה בהרבה (עד 20 cm), המשטח הפנימי שלה לבנבן עד לילך, והיא גדלה עם עצי מחט בקרקעות פנים־היבשה. Peziza vesiculosa חיוורת יותר, גדלה לעיתים קרובות באשכולות ועל זבל, קומפוסט וקרקעות עשירות אחרות. גופי פרי פתוחים של Geastrum יוצרים גם הם זרועות דמויות כוכב, אך שומרים על שק נבגים מרכזי. חברים אחרים בקומפלקס Peziza ammophila, כמו Peziza hellenica ו־Peziza oceanica, מובחנים לפי תכונות מיקרוסקופיות ו־DNA.",
+      "notes": "גרגרי חול הנישאים ברוח ונופלים לתוך גביע בשל מעוררים את שחרור הנבגים. מחקרי DNA הראו כי השם כיסה זמן רב כמה מינים קריפטיים; במובן הצר המין הוא בעיקר אירופי. בהולנד הוא מופיע ברשימה האדומה כמין בסכנת הכחדה.",
+      "names": [],
+      "sourceUrls": [],
+      "label": "שקערורית חולית"
+    },
+    "hi": {
+      "description": "खुली रेत में उगने वाला एक छोटा, भंगुर प्याले जैसा कवक, जो लगभग पूरी तरह दबा हुआ विकसित होता है और सतह पर खुलकर ट्यूलिप या तारे के आकार का भूरा प्याला बनाता है। यह दुर्लभ है, पर यूरोप के तटीय रेत के टीलों पर अनेक स्थानों से दर्ज किया गया है, जिनमें ब्रिटेन, आयरलैंड, नीदरलैंड और बाल्टिक तट शामिल हैं, और भीतरी इलाक़ों की रेत, उत्तरी अफ़्रीका तथा उत्तरी अमेरिका से भी।",
+      "cap": "इसमें टोपी नहीं होती: फलकाय 2–5 cm चौड़ा, कभी-कभी 7 cm तक, और 1.5–3 cm ऊँचा एक प्याला (एपोथीसियम) है। आरंभ में यह रेत में दबा एक खोखला, लगभग बंद गोला होता है, फिर सतह तक ऊपर धकेलकर खुलता है, और इसका किनारा पाँच से दस चौड़े, नुकीले पालियों में फट जाता है जो अक्सर बाहर की ओर मुड़कर इसे ट्यूलिप या तारे जैसा रूप देते हैं। बाहरी सतह हल्की गेरुई से धूसर-भूरी, बारीक दानेदार और प्रायः रेत के कणों की परत से ढकी होती है।",
+      "hymenium": "उपजाऊ भीतरी सतह चिकनी और मध्यम से गहरी भूरी होती है, जो पीली-भूरी से लाल-भूरी तक बदलती है। ऐस्काई बेलनाकार, आठ बीजाणुओं वाले, आधार की ओर थोड़े पतले और 180–230 × 15–20 µm होते हैं; पैराफ़ाइसिस विरल, अशाखित और पटयुक्त, 3–4 µm चौड़े और सिरे पर थोड़े मुगदर जैसे होते हैं, जहाँ वे लगभग 6 µm तक पहुँचते हैं।",
+      "stipe": "वास्तविक डंठल नहीं होता। कई फलकाय रेत में दबे, डंठल जैसे आधार (छद्म-डंठल) पर बैठे होते हैं, जो ढीले गुँथे कवकतंतुओं से बना होता है और रेत के कणों को आपस में बाँधता है; यह छोटा और मोटा या जड़ जैसा और 5 cm तक लंबा हो सकता है, और कुछ फलकायों में यह होता ही नहीं।",
+      "flesh": "पतला, लगभग 1–2 mm मोटा, हल्का भूरा और बहुत भंगुर, कोई विशिष्ट गंध नहीं।",
+      "sporePrint": "बीजाणु छाप सफ़ेद। ऐस्कोबीजाणु दीर्घवृत्ताकार, चिकने, पारदर्शी, अपेक्षाकृत मोटी भित्ति वाले और तेल-बूँदों से रहित, 14–18 × 8–10.5 µm होते हैं। ऐस्काई के सिरे एमिलॉइड होते हैं और मेल्ज़र अभिकर्मक में शीर्ष पर एक वलय के रूप में गहरे नीले रंग के हो जाते हैं।",
+      "habitat": "रेत में मौजूद कार्बनिक पदार्थ पर मृतोपजीवी, विशेषकर घास Ammophila arenaria की मृत जड़ों और अन्य अवशेषों पर। यह युवा तटीय टीलों की खुली, खिसकती रेत में, अधिकतर अग्र टीले की हवा से ओट वाली ओर, और अन्य खुली, प्रायः चूनेदार रेतीली मिट्टियों पर अकेले या छोटे समूहों में उगता है। यह मुख्यतः मई से नवंबर तक फल देता है, और हल्की जलवायु वाले तटीय क्षेत्रों में सर्दियों तक।",
+      "uses": "खाया नहीं जाता। फलकाय हमेशा रेत से ढके रहते हैं, और कई प्याला कवकों की तरह यह कच्चा या अधपका होने पर संभवतः विषैला होता है और पेट की गड़बड़ी करता है।",
+      "confusion": "Geopora arenicola, जो टीलों की रेत में भी मिलता है, छोटा रहता है (2 cm तक), लगभग गोलाकार और पूरी तरह दबा रहता है, उसमें डंठल नहीं होता और वह केवल एक छोटे गोल छिद्र से खुलता है। Sarcosphaera coronaria कहीं बड़ा है (20 cm तक), उसकी भीतरी सतह सफ़ेद-सी से बैंगनी-सी होती है और वह भीतरी इलाक़ों की मिट्टी पर शंकुधारी वृक्षों के साथ उगता है। Peziza vesiculosa अधिक पीला होता है, अक्सर गुच्छों में और गोबर की खाद, कम्पोस्ट तथा अन्य उपजाऊ मिट्टियों पर उगता है। खुले हुए Geastrum फलकाय भी तारे जैसी भुजाएँ बनाते हैं, पर उनमें बीच में बीजाणु-थैली बनी रहती है। Peziza ammophila समूह के अन्य सदस्य, जैसे Peziza hellenica और Peziza oceanica, सूक्ष्मदर्शी लक्षणों और DNA से अलग पहचाने जाते हैं।",
+      "notes": "हवा से उड़कर पके प्याले में गिरने वाले रेत के कण बीजाणुओं के निकलने को प्रेरित करते हैं। DNA अध्ययनों से पता चला है कि यह नाम लंबे समय तक कई गुप्त प्रजातियों को समेटे रहा; संकीर्ण अर्थ में यह प्रजाति मुख्यतः यूरोपीय है। नीदरलैंड में यह लाल सूची में संकटग्रस्त के रूप में दर्ज है।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Mala, krhka gljiva u obliku zdjelice iz golog pijeska, koja se razvija gotovo potpuno ukopana i na površini otvara u smeđu zdjelicu u obliku tulipana ili zvijezde. Rijetka je, ali zabilježena na mnogim mjestima u obalnim dinama Europe, uključujući Veliku Britaniju, Irsku, Nizozemsku i baltičku obalu, kao i na pijescima u unutrašnjosti, u sjevernoj Africi i Sjevernoj Americi.",
+      "cap": "Klobuka nema: plodište je zdjelica (apotecij) široka 2–5 cm, ponekad do 7 cm, i visoka 1,5–3 cm. U početku je šuplja, gotovo zatvorena kugla ukopana u pijesak, zatim se probija na površinu i otvara, a rub se razdere u pet do deset širokih, šiljastih režnjeva koji se često savijaju prema van i daju joj oblik tulipana ili zvijezde. Vanjska površina je blijedo okerasta do sivosmeđa, sitno zrnata i obično prekrivena zrncima pijeska.",
+      "hymenium": "Plodna unutarnja površina je glatka, srednje do tamnosmeđa, od žućkastosmeđe do crvenkastosmeđe. Aski su valjkasti, s osam spora, prema bazi blago suženi i veličine 180–230 × 15–20 µm; parafize su rijetke, nerazgranate i septirane, široke 3–4 µm i na vrhu blago batićaste, gdje dosežu oko 6 µm.",
+      "stipe": "Pravog stručka nema. Mnoga plodišta sjede na ukopanoj osnovi nalik stručku (pseudostručku) od labavo isprepletenih hifa koje povezuju zrnca pijeska; može biti kratka i debela ili ukorijenjena i duga do 5 cm, a neka plodišta je nemaju.",
+      "flesh": "Tanko, debelo oko 1–2 mm, svijetlosmeđe i vrlo krhko, bez izrazitog mirisa.",
+      "sporePrint": "Otisak spora bijel. Askospore su elipsoidne, glatke, hijaline, prilično debelih stijenki i bez kapljica ulja, 14–18 × 8–10,5 µm. Vrhovi aska su amiloidni i u Melzerovu reagensu na vrhu se u obliku prstena intenzivno boje plavo.",
+      "habitat": "Saprotrof na organskoj tvari u pijesku, osobito na mrtvom korijenju i drugim ostacima trave Ammophila arenaria. Raste pojedinačno ili u malim skupinama na golom, pokretnom pijesku mladih obalnih dina, uglavnom na zavjetrinskoj strani prednje dine, a i na drugim otvorenim, obično vapnenastim pjeskovitim tlima. Plodišta se javljaju uglavnom od svibnja do studenoga, a u blagim obalnim područjima i do zime.",
+      "uses": "Ne jede se. Plodišta su uvijek prekrivena pijeskom, a kao i mnoge gljive zdjeličarke vjerojatno je otrovna sirova ili nedovoljno termički obrađena te izaziva probavne smetnje.",
+      "confusion": "Geopora arenicola, koja također raste u pijesku dina, ostaje manja (do 2 cm), ostaje gotovo kuglasta i potpuno ukopana, nema stručak i otvara se samo malim okruglim otvorom. Sarcosphaera coronaria je mnogo veća (do 20 cm), ima bjelkastu do lila unutarnju površinu i raste uz četinjače na tlima u unutrašnjosti. Peziza vesiculosa je bljeđa, često raste u skupinama na gnoju, kompostu i drugim bogatim tlima. Otvorena plodišta roda Geastrum također tvore zvjezdaste krakove, ali zadržavaju središnju vrećicu sa sporama. Drugi članovi kompleksa Peziza ammophila, poput Peziza hellenica i Peziza oceanica, razlikuju se po mikroskopskim obilježjima i DNK.",
+      "notes": "Vjetrom nošena zrnca pijeska koja padnu u zrelu zdjelicu pokreću izbacivanje spora. Istraživanja DNK pokazala su da je to ime dugo obuhvaćalo nekoliko kriptičnih vrsta; u užem smislu vrsta je uglavnom europska. U Nizozemskoj je na crvenom popisu kao ugrožena.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Kis termetű, törékeny, csésze alakú gomba a csupasz homokból, amely szinte teljesen eltemetve fejlődik, és a felszínen barna, tulipán vagy csillag alakú csészévé nyílik. Ritka, de Európa tengerparti dűnéiről sok helyről jelezték, többek között Nagy-Britanniából, Írországból, Hollandiából és a Balti-tenger partvidékéről, továbbá szárazföldi homokterületekről, Észak-Afrikából és Észak-Amerikából.",
+      "cap": "Kalapja nincs: a termőtest csésze (apotécium), 2–5 cm széles, alkalmanként 7 cm-ig, és 1,5–3 cm magas. Kezdetben üreges, majdnem zárt gömb a homokban, majd a felszínre tolódik és kinyílik, széle öt-tíz széles, hegyes karéjra hasad, amelyek gyakran kifelé hajlanak, így tulipán vagy csillag formájú lesz. Külső felülete halvány okkeres vagy szürkésbarna, finoman szemcsés, és rendszerint homokszemcsék borítják.",
+      "hymenium": "A termő belső felület sima, közép- vagy sötétbarna, sárgásbarnától vörösesbarnáig változó. A tömlők hengeresek, nyolcspórásak, a tövük felé kissé keskenyednek, méretük 180–230 × 15–20 µm; a parafízisek ritkásak, elágazás nélküliek és szeptáltak, 3–4 µm szélesek, csúcsukon enyhén bunkósak, ahol körülbelül 6 µm-t érnek el.",
+      "stipe": "Valódi tönkje nincs. Sok termőtest eltemetett, tönkszerű alapon (áltönkön) ül, amely lazán összefonódó hifákból áll, és ezek összetartják a homokszemcséket; lehet rövid és vaskos vagy gyökerező és 5 cm-ig hosszú, egyes termőtestekből pedig hiányzik.",
+      "flesh": "Vékony, mintegy 1–2 mm vastag, világosbarna és nagyon törékeny, jellegzetes szag nélkül.",
+      "sporePrint": "Spórapora fehér. Az aszkospórák ellipszoidok, simák, színtelenek, viszonylag vastag falúak és olajcsepp nélküliek, 14–18 × 8–10,5 µm. A tömlők csúcsa amiloid, Melzer-reagensben a csúcson gyűrűben élénk kékre színeződik.",
+      "habitat": "Szaprotróf a homok szerves anyagain, különösen az Ammophila arenaria nevű fűfaj elhalt gyökerein és egyéb maradványain. Magányosan vagy kis csoportokban nő fiatal tengerparti dűnék csupasz, mozgó homokján, főként az elődűne szél alatti oldalán, valamint más nyílt, többnyire meszes homoktalajokon. Főként májustól novemberig terem, enyhe tengerparti vidékeken egészen a télig.",
+      "uses": "Nem fogyasztják. A termőtestek mindig homokosak, és mint sok csésze alakú gomba, nyersen vagy nem kellően hőkezelve valószínűleg mérgező, és emésztési panaszokat okoz.",
+      "confusion": "A szintén dűnehomokban élő Geopora arenicola kisebb marad (legfeljebb 2 cm), majdnem gömb alakú és teljesen eltemetett marad, tönkje nincs, és csak egy kis kerek nyíláson nyílik. A Sarcosphaera coronaria sokkal nagyobb (legfeljebb 20 cm), belső felülete fehéres vagy lila, és tűlevelűekkel él szárazföldi talajokon. A Peziza vesiculosa halványabb, gyakran csoportosan nő, trágyán, komposzton és más tápanyagdús talajokon. A kinyílt Geastrum-termőtestek szintén csillagszerű karéjokat formálnak, de megtartják a központi spóratartó zsákot. A Peziza ammophila komplex más tagjai, például a Peziza hellenica és a Peziza oceanica, mikroszkopikus bélyegek és a DNS alapján különíthetők el.",
+      "notes": "A szél által hordott homokszemcsék, amelyek egy érett csészébe hullanak, kiváltják a spórák kilövellését. A DNS-vizsgálatok kimutatták, hogy a név alatt sokáig több kriptikus faj rejtőzött; szűkebb értelemben a faj főként európai. Hollandiában a vörös listán veszélyeztetettként szerepel.",
+      "names": [],
+      "sourceUrls": [
+        "https://hu.wikipedia.org/wiki/Homoki_csészegomba"
+      ],
+      "label": "homoki csészegomba"
+    },
+    "id": {
+      "description": "Jamur mangkuk kecil dan rapuh di pasir terbuka yang berkembang hampir seluruhnya terbenam dan membuka di permukaan menjadi mangkuk cokelat berbentuk tulip atau bintang. Jamur ini langka, tetapi dilaporkan dari banyak tempat di bukit pasir pantai Eropa, termasuk Britania, Irlandia, Belanda, dan pesisir Baltik, serta dari pasir di pedalaman, Afrika Utara, dan Amerika Utara.",
+      "cap": "Tidak ada tudung: tubuh buahnya berupa mangkuk (apotesium) selebar 2–5 cm, kadang hingga 7 cm, dan setinggi 1,5–3 cm. Mula-mula berupa bola berongga yang hampir tertutup dan terbenam di pasir, lalu terdorong ke permukaan dan membuka, dan tepinya robek menjadi lima hingga sepuluh cuping lebar dan runcing yang sering melengkung ke luar sehingga berbentuk seperti tulip atau bintang. Permukaan luar berwarna oker pucat hingga cokelat keabuan, berbutir halus, dan biasanya berkerak butiran pasir.",
+      "hymenium": "Permukaan dalam yang fertil halus dan berwarna cokelat sedang hingga gelap, bervariasi dari cokelat kekuningan hingga cokelat kemerahan. Askus berbentuk silinder, berspora delapan, sedikit meruncing ke pangkal, berukuran 180–230 × 15–20 µm; parafisis jarang, tidak bercabang, dan bersekat, lebar 3–4 µm dan sedikit menggada di ujung, tempat lebarnya mencapai sekitar 6 µm.",
+      "stipe": "Tidak ada tangkai sejati. Banyak tubuh buah duduk di atas pangkal terbenam yang menyerupai tangkai (tangkai semu) dari hifa yang terjalin longgar dan mengikat butiran pasir; pangkal ini bisa pendek dan tebal atau berakar dan panjangnya hingga 5 cm, dan sebagian tubuh buah tidak memilikinya.",
+      "flesh": "Tipis, tebal sekitar 1–2 mm, cokelat muda dan sangat rapuh, tanpa bau khas.",
+      "sporePrint": "Cetak spora putih. Askospora elipsoid, halus, hialin, berdinding cukup tebal dan tanpa tetes minyak, 14–18 × 8–10,5 µm. Ujung askus amiloid, berwarna biru pekat berbentuk cincin di puncaknya dalam reagen Melzer.",
+      "habitat": "Saprotrof pada bahan organik di pasir, terutama akar mati dan sisa lain rumput Ammophila arenaria. Tumbuh soliter atau dalam kelompok kecil di pasir terbuka yang bergerak pada bukit pasir pantai muda, kebanyakan di sisi bukit pasir depan yang terlindung dari angin, dan juga di tanah berpasir terbuka lain yang biasanya berkapur. Tubuh buah muncul terutama dari Mei hingga November, dan di daerah pantai yang beriklim lunak hingga musim dingin.",
+      "uses": "Tidak dimakan. Tubuh buahnya selalu berkerak pasir, dan seperti banyak jamur mangkuk, jamur ini kemungkinan beracun bila mentah atau kurang matang dan menyebabkan gangguan pencernaan.",
+      "confusion": "Geopora arenicola, yang juga ditemukan di pasir bukit pasir, tetap lebih kecil (hingga 2 cm), tetap hampir bulat dan seluruhnya terbenam, tidak bertangkai, dan hanya membuka melalui lubang bundar kecil. Sarcosphaera coronaria jauh lebih besar (hingga 20 cm), permukaan dalamnya keputihan hingga ungu muda, dan tumbuh bersama tumbuhan konifer di tanah pedalaman. Peziza vesiculosa lebih pucat, sering tumbuh bergerombol dan di pupuk kandang, kompos, serta tanah subur lainnya. Tubuh buah Geastrum yang telah membuka juga membentuk lengan seperti bintang, tetapi mempertahankan kantong spora di tengah. Anggota lain kompleks Peziza ammophila, seperti Peziza hellenica dan Peziza oceanica, dibedakan berdasarkan ciri mikroskopis dan DNA.",
+      "notes": "Butiran pasir yang terbawa angin dan jatuh ke dalam mangkuk yang matang memicu pelepasan spora. Studi DNA menunjukkan bahwa nama ini lama mencakup beberapa spesies kriptik; dalam arti sempit spesies ini terutama Eropa. Di Belanda jamur ini tercantum dalam daftar merah sebagai genting.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un piccolo fungo a coppa, fragile, delle sabbie nude, che si sviluppa quasi del tutto interrato e si apre in superficie in una coppa bruna a forma di tulipano o di stella. È raro ma segnalato in molte località delle dune costiere d'Europa, tra cui Gran Bretagna, Irlanda, Paesi Bassi e coste del Baltico, e inoltre su sabbie dell'interno, in Nordafrica e in Nordamerica.",
+      "cap": "Non c'è un cappello: il corpo fruttifero è una coppa (apotecio) larga 2–5 cm, talvolta fino a 7 cm, e alta 1,5–3 cm. Nasce come una sfera cava quasi chiusa sepolta nella sabbia, poi risale fino alla superficie e si apre, e il margine si lacera in cinque-dieci lobi larghi e appuntiti che spesso si piegano verso l'esterno, conferendole una forma a tulipano o a stella. La superficie esterna è ocra pallido fino a bruno-grigiastra, finemente granulosa e di solito incrostata di granelli di sabbia.",
+      "hymenium": "La superficie interna fertile è liscia, da bruno medio a bruno scuro, variando dal bruno-giallastro al bruno-rossastro. Gli aschi sono cilindrici, octosporici, leggermente attenuati alla base e misurano 180–230 × 15–20 µm; le parafisi sono scarse, non ramificate e settate, larghe 3–4 µm e leggermente clavate all'apice, dove raggiungono circa 6 µm.",
+      "stipe": "Non esiste un vero gambo. Molti corpi fruttiferi poggiano su una base interrata simile a un gambo (pseudostipite) formata da ife lassamente intrecciate che legano i granelli di sabbia; può essere corta e tozza oppure radicante e lunga fino a 5 cm, e alcuni corpi fruttiferi ne sono privi.",
+      "flesh": "Sottile, spessa circa 1–2 mm, bruno pallida e molto fragile, senza odore particolare.",
+      "sporePrint": "Sporata bianca. Le ascospore sono ellissoidali, lisce, ialine, con parete piuttosto spessa e prive di gocce lipidiche, 14–18 × 8–10,5 µm. L'apice degli aschi è amiloide e si colora intensamente di blu, ad anello all'estremità, nel reattivo di Melzer.",
+      "habitat": "Saprotrofo sulla materia organica della sabbia, soprattutto su radici morte e altri resti dell'ammofila (Ammophila arenaria). Cresce isolato o in piccoli gruppi nella sabbia nuda e mobile delle dune costiere giovani, per lo più sul versante sottovento della duna avanzata, e anche su altri suoli sabbiosi aperti, di solito calcarei. Fruttifica soprattutto da maggio a novembre e, nelle zone costiere miti, fino all'inverno.",
+      "uses": "Non viene consumato. I corpi fruttiferi sono sempre incrostati di sabbia e, come molti funghi a coppa, è probabilmente tossico crudo o poco cotto e provoca disturbi gastrointestinali.",
+      "confusion": "Geopora arenicola, anch'essa nella sabbia delle dune, resta più piccola (fino a 2 cm), rimane quasi sferica e del tutto interrata, non ha gambo e si apre solo con un piccolo foro rotondo. Sarcosphaera coronaria è molto più grande (fino a 20 cm), ha la superficie interna da biancastra a lilla e cresce con le conifere su suoli dell'interno. Peziza vesiculosa è più pallida, spesso cespitosa, e cresce su letame, compost e altri suoli ricchi. I corpi fruttiferi aperti di Geastrum formano anch'essi lacinie stellate, ma conservano un sacco sporifero centrale. Altri membri del complesso di Peziza ammophila, come Peziza hellenica e Peziza oceanica, si distinguono per caratteri microscopici e per il DNA.",
+      "notes": "I granelli di sabbia portati dal vento che cadono in una coppa matura innescano il rilascio delle spore. Gli studi del DNA hanno mostrato che il nome ha a lungo compreso diverse specie criptiche; in senso stretto la specie è soprattutto europea. Nei Paesi Bassi figura nella lista rossa come in pericolo.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "裸の砂地に生える小形でもろい椀状のきのこで、ほぼ全体が砂に埋もれた状態で発達し、地表で褐色のチューリップ形または星形の椀に開く。まれであるが、ヨーロッパの海岸砂丘の多くの地点から報告されており、イギリス、アイルランド、オランダ、バルト海沿岸などのほか、内陸の砂地、北アフリカ、北アメリカからも知られる。",
+      "cap": "傘はない。子実体は椀(子嚢盤)で、径2–5 cm、時に7 cmに達し、高さ1.5–3 cm。初めは砂の中に埋もれた中空でほぼ閉じた球形で、のちに地表へ押し上がって開き、縁は五〜十個の幅広く先のとがった裂片に裂け、裂片はしばしば外側に反り返ってチューリップ形または星形となる。外面は淡黄土色から灰褐色で、細かい粒状、通常は砂粒が固着して覆われる。",
+      "hymenium": "内側の子実層面は平滑で、中程度から濃い褐色、黄褐色から赤褐色まで変異する。子嚢は円筒形で八胞子性、基部に向かってやや細まり、180–230 × 15–20 µm。側糸はまばらで分枝せず隔壁があり、幅3–4 µm、先端はやや棍棒状で約6 µmに達する。",
+      "stipe": "真の柄はない。多くの子実体は、砂粒を結びつけるゆるく絡み合った菌糸からなる、埋もれた柄状の基部(偽柄)の上にのる。偽柄は短く太いか、根状で長さ5 cmに達することもあり、偽柄をもたない子実体もある。",
+      "flesh": "薄く、厚さ約1–2 mm、淡褐色で非常にもろく、特有のにおいはない。",
+      "sporePrint": "胞子紋は白色。子嚢胞子は楕円形、平滑、無色、やや厚壁で油滴を欠き、14–18 × 8–10.5 µm。子嚢の先端はアミロイドで、メルツァー試薬で頂部が環状に濃青色に染まる。",
+      "habitat": "砂中の有機物に生える腐生菌で、特にイネ科植物Ammophila arenariaの枯れた根やその他の残骸に生じる。若い海岸砂丘の裸で移動する砂地、主に前砂丘の風下側に単生または小群生し、ほかの開けた、通常は石灰質の砂質土壌にも生える。主に五月から十一月に発生し、温暖な沿岸地域では冬まで見られる。",
+      "uses": "食用にされない。子実体は常に砂にまみれており、多くの椀状のきのこと同様、生や加熱不十分ではおそらく有毒で、胃腸障害を起こす。",
+      "confusion": "同じく砂丘の砂に生えるGeopora arenicolaはより小さく(最大2 cm)、ほぼ球形で全体が埋もれたままで、柄がなく、小さな円い穴でしか開かない。Sarcosphaera coronariaははるかに大きく(最大20 cm)、内面は白っぽいものから藤色で、内陸の土壌に針葉樹とともに生える。Peziza vesiculosaはより淡色で、しばしば束生し、堆肥、厩肥などの肥えた土壌に生える。開いたGeastrumの子実体も星形の裂片をつくるが、中央に胞子袋を保つ。Peziza ammophila複合種群のほかのメンバー、たとえばPeziza hellenicaやPeziza oceanicaは、顕微鏡的形質とDNAによって区別される。",
+      "notes": "風に運ばれた砂粒が成熟した椀に落ちると、胞子の放出が引き起こされる。DNA研究により、この名は長らく複数の隠蔽種を含んでいたことが示されており、狭義には主にヨーロッパの種である。オランダではレッドリストで絶滅危惧(EN)とされている。",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ko": {
+      "description": "맨모래에 나는 작고 부서지기 쉬운 컵 모양의 균류로, 거의 완전히 묻힌 채 자라다가 지표에서 튤립 또는 별 모양의 갈색 컵으로 벌어진다. 드물지만 유럽의 해안 사구 여러 곳에서 보고되었으며, 영국, 아일랜드, 네덜란드, 발트해 연안 등이 포함되고, 내륙의 모래땅, 북아프리카, 북아메리카에서도 알려져 있다.",
+      "cap": "갓은 없다. 자실체는 컵(자낭반)으로 너비 2–5 cm, 때로 7 cm까지, 높이 1.5–3 cm이다. 처음에는 모래 속에 묻힌 속이 빈, 거의 닫힌 공 모양이며, 이후 지표로 밀려 올라와 벌어지고, 가장자리는 다섯에서 열 개의 넓고 끝이 뾰족한 열편으로 찢어지는데, 열편은 흔히 바깥쪽으로 젖혀져 튤립이나 별 같은 모양을 이룬다. 바깥 면은 연한 황토색에서 회갈색이며, 미세한 알갱이 모양이고 보통 모래알이 붙어 덮여 있다.",
+      "hymenium": "안쪽의 자실층 면은 매끄럽고 중간 갈색에서 짙은 갈색이며, 황갈색에서 적갈색까지 변이가 있다. 자낭은 원통형이고 여덟 개의 포자를 지니며, 기부 쪽으로 약간 가늘어지고 180–230 × 15–20 µm이다. 측사는 드물고 분지하지 않으며 격벽이 있고, 너비 3–4 µm, 끝은 약간 곤봉 모양으로 약 6 µm에 이른다.",
+      "stipe": "진짜 대는 없다. 많은 자실체는 모래알을 서로 엮는 느슨하게 얽힌 균사로 된, 묻힌 대 모양의 기부(가짜대) 위에 놓인다. 이 기부는 짧고 굵거나 뿌리 모양으로 길이 5 cm에 이르기도 하며, 없는 자실체도 있다.",
+      "flesh": "얇고, 두께 약 1–2 mm, 연갈색이며 매우 부서지기 쉽고, 특별한 냄새는 없다.",
+      "sporePrint": "포자문은 흰색. 자낭포자는 타원형이고 매끄러우며 무색, 벽이 꽤 두껍고 기름방울이 없으며 14–18 × 8–10.5 µm이다. 자낭 끝은 아밀로이드로, 멜처 시약에서 꼭대기가 고리 모양으로 짙은 청색으로 염색된다.",
+      "habitat": "모래 속 유기물에 나는 부생균으로, 특히 풀 Ammophila arenaria의 죽은 뿌리와 그 밖의 잔해에 난다. 어린 해안 사구의 맨모래, 움직이는 모래에서, 주로 전사구의 바람이 가려진 쪽에 홀로 또는 작은 무리로 나며, 다른 트인, 보통 석회질인 모래땅에도 난다. 주로 오월부터 십일월까지 발생하며, 온화한 해안 지역에서는 겨울까지 난다.",
+      "uses": "먹지 않는다. 자실체는 늘 모래로 덮여 있으며, 많은 컵 모양 균류처럼 날것이나 덜 익힌 상태에서는 아마도 독성이 있어 위장 장애를 일으킨다.",
+      "confusion": "역시 사구 모래에 나는 Geopora arenicola는 더 작고(최대 2 cm), 거의 공 모양으로 완전히 묻힌 채 남으며, 대가 없고 작은 둥근 구멍으로만 열린다. Sarcosphaera coronaria는 훨씬 크고(최대 20 cm), 안쪽 면이 흰색에서 연보라색이며, 내륙의 흙에서 침엽수와 함께 난다. Peziza vesiculosa는 더 연한 색이며, 흔히 다발로 나고 거름, 퇴비 및 그 밖의 비옥한 흙에 난다. 벌어진 Geastrum 자실체도 별 모양의 열편을 만들지만 가운데에 포자 주머니를 지닌다. Peziza ammophila 복합종의 다른 구성원, 예컨대 Peziza hellenica와 Peziza oceanica는 현미경적 형질과 DNA로 구별된다.",
+      "notes": "바람에 실려 온 모래알이 성숙한 컵 안으로 떨어지면 포자 방출이 일어난다. DNA 연구에 따르면 이 이름은 오랫동안 여러 은신종을 포함하고 있었으며, 좁은 의미로는 주로 유럽의 종이다. 네덜란드에서는 적색목록에 위기(EN)로 올라 있다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Nedidelis, trapus taurės formos grybas iš plikos smėlio dirvos, kuris vystosi beveik visiškai užkastas ir paviršiuje atsiveria į rudą tulpės ar žvaigždės formos taurelę. Jis retas, tačiau žinomas iš daugelio vietų Europos pajūrio kopose, tarp jų Didžiojoje Britanijoje, Airijoje, Nyderlanduose ir Baltijos pajūryje, taip pat iš žemyno smėlynų, Šiaurės Afrikos ir Šiaurės Amerikos.",
+      "cap": "Kepurėlės nėra: vaisiakūnis yra taurelė (apotecis), 2–5 cm skersmens, kartais iki 7 cm, ir 1,5–3 cm aukščio. Iš pradžių tai tuščiavidurė, beveik uždara smėlyje paslėpta rutulio formos sfera, kuri vėliau iškyla į paviršių ir atsiveria, o kraštas suplyšta į penkias–dešimt plačių, smailių skiaučių, dažnai atsilenkiančių į išorę, todėl įgauna tulpės ar žvaigždės pavidalą. Išorinis paviršius blyškiai ochrinis iki pilkšvai rudo, smulkiai grūdėtas ir paprastai aplipęs smėlio grūdeliais.",
+      "hymenium": "Vaisingas vidinis paviršius lygus, vidutiniškai iki tamsiai rudas, nuo gelsvai rudo iki rausvai rudo. Aukšliai cilindriški, aštuonsporiai, pamato link šiek tiek susiaurėję, 180–230 × 15–20 µm; parafizės retos, nešakotos ir su pertvaromis, 3–4 µm pločio, viršūnėje šiek tiek buožiškos, kur pasiekia apie 6 µm.",
+      "stipe": "Tikro koto nėra. Daugelis vaisiakūnių sėdi ant užkasto, kotą primenančio pagrindo (pseudokoto) iš laisvai susipynusių hifų, kurios sujungia smėlio grūdelius; jis gali būti trumpas ir storas arba šaknijantis ir iki 5 cm ilgio, o kai kurie vaisiakūniai jo neturi.",
+      "flesh": "Plona, apie 1–2 mm storio, šviesiai ruda ir labai trapi, be ryškaus kvapo.",
+      "sporePrint": "Sporų milteliai balti. Askosporos elipsoidinės, lygios, bespalvės, gana storasienės ir be aliejaus lašelių, 14–18 × 8–10,5 µm. Aukšlių viršūnės amiloidinės ir Melcerio reagente viršūnėje žiedu intensyviai nusidažo mėlynai.",
+      "habitat": "Saprotrofas, augantis ant organinių medžiagų smėlyje, ypač ant žolės Ammophila arenaria negyvų šaknų ir kitų liekanų. Auga pavieniui arba nedidelėmis grupėmis plikame, judriame jaunų pajūrio kopų smėlyje, dažniausiai priekinės kopos pavėjinėje pusėje, taip pat kituose atviruose, paprastai kalkinguose smėlinguose dirvožemiuose. Vaisiakūnius augina daugiausia nuo gegužės iki lapkričio, o švelnaus klimato pajūrio vietose iki žiemos.",
+      "uses": "Nevalgomas. Vaisiakūniai visada aplipę smėliu, ir kaip daugelis taurinių grybų jis tikriausiai yra nuodingas žalias arba nepakankamai termiškai apdorotas ir sukelia virškinimo sutrikimus.",
+      "confusion": "Taip pat kopų smėlyje auganti Geopora arenicola lieka mažesnė (iki 2 cm), išlieka beveik rutuliška ir visiškai užkasta, neturi koto ir atsiveria tik maža apvalia skylute. Sarcosphaera coronaria yra daug didesnė (iki 20 cm), jos vidinis paviršius balsvas iki alyvinio, ir ji auga su spygliuočiais žemyno dirvožemiuose. Peziza vesiculosa yra blyškesnė, dažnai auga kuokštais ant mėšlo, komposto ir kitų derlingų dirvožemių. Atsivėrę Geastrum vaisiakūniai taip pat sudaro žvaigždiškas skiautes, tačiau išlaiko centrinį sporų maišelį. Kiti Peziza ammophila komplekso nariai, pavyzdžiui, Peziza hellenica ir Peziza oceanica, atskiriami pagal mikroskopinius požymius ir DNR.",
+      "notes": "Vėjo nešami smėlio grūdeliai, įkritę į subrendusią taurelę, sukelia sporų išsviedimą. DNR tyrimai parodė, kad šiuo vardu ilgai buvo vadinamos kelios kriptinės rūšys; siaurąja prasme rūšis daugiausia europinė. Nyderlanduose ji įrašyta į Raudonąjį sąrašą kaip nykstanti.",
+      "names": [],
+      "sourceUrls": [
+        "https://lt.wikipedia.org/wiki/Smiltyninis_ausūnis"
+      ],
+      "label": "smiltyninis ausūnis"
+    },
+    "lv": {
+      "description": "Neliela, trausla kausveida sēne no kailām smiltīm, kas attīstās gandrīz pilnībā ierakta un virspusē atveras par brūnu tulpes vai zvaigznes formas kausu. Tā ir reta, taču zināma no daudzām vietām Eiropas piekrastes kāpās, tostarp Lielbritānijā, Īrijā, Nīderlandē un Baltijas jūras piekrastē, kā arī no iekšzemes smiltājiem, Ziemeļāfrikas un Ziemeļamerikas.",
+      "cap": "Cepurītes nav: augļķermenis ir kauss (apotēcijs), 2–5 cm plats, dažkārt līdz 7 cm, un 1,5–3 cm augsts. Sākumā tā ir doba, gandrīz slēgta lode smiltīs, kas pēc tam izspiežas līdz virspusei un atveras, un mala saplīst piecās līdz desmit platās, smailās daivās, kas bieži izliecas uz āru, piešķirot tulpes vai zvaigznes veidolu. Ārējā virsma ir gaiši okera līdz pelēcīgi brūna, smalki graudaina un parasti klāta ar smilšu graudiņiem.",
+      "hymenium": "Auglīgā iekšējā virsma ir gluda, vidēji līdz tumši brūna, no dzeltenīgi brūnas līdz sarkanbrūnai. Aski ir cilindriski, ar astoņām sporām, pie pamatnes nedaudz sašaurināti, 180–230 × 15–20 µm; parafīzes ir retas, nesazarotas un ar starpsienām, 3–4 µm platas un galā nedaudz vālesveidīgas, kur sasniedz aptuveni 6 µm.",
+      "stipe": "Īsta kātiņa nav. Daudzi augļķermeņi sēž uz ierakta, kātiņam līdzīga pamata (pseidokātiņa) no vaļīgi savītām hifām, kas sasaista smilšu graudiņus; tas var būt īss un resns vai sakņojošs un līdz 5 cm garš, un dažiem augļķermeņiem tā nav vispār.",
+      "flesh": "Plāns, aptuveni 1–2 mm biezs, gaiši brūns un ļoti trausls, bez izteiktas smaržas.",
+      "sporePrint": "Sporu nobirums balts. Askosporas ir elipsoidālas, gludas, bezkrāsainas, diezgan biezsienainas un bez eļļas pilieniem, 14–18 × 8–10,5 µm. Asku gali ir amiloīdi un Melcera reaģentā galotnē gredzenā intensīvi nokrāsojas zili.",
+      "habitat": "Saprotrofs uz organiskajām vielām smiltīs, īpaši uz smiltāju kāpuniedres (Ammophila arenaria) atmirušajām saknēm un citām atliekām. Aug pa vienam vai nelielās grupās jauno piekrastes kāpu kailās, kustīgās smiltīs, pārsvarā priekškāpas aizvēja pusē, kā arī citās atklātās, parasti kaļķainās smilšainās augsnēs. Augļķermeņus veido galvenokārt no maija līdz novembrim, maigāka klimata piekrastē līdz pat ziemai.",
+      "uses": "Netiek ēsta. Augļķermeņi vienmēr ir klāti ar smiltīm, un tāpat kā daudzas kausveida sēnes tā, visticamāk, ir indīga neapstrādāta vai nepietiekami termiski apstrādāta un izraisa gremošanas traucējumus.",
+      "confusion": "Arī kāpu smiltīs augošā Geopora arenicola paliek mazāka (līdz 2 cm), saglabājas gandrīz lodveida un pilnībā ierakta, tai nav kātiņa, un tā atveras tikai ar nelielu apaļu caurumu. Sarcosphaera coronaria ir daudz lielāka (līdz 20 cm), tās iekšējā virsma ir bālgana līdz ceriņkrāsas, un tā aug kopā ar skujkokiem iekšzemes augsnēs. Peziza vesiculosa ir bālāka, bieži aug ceros un uz kūtsmēsliem, komposta un citām barības vielām bagātām augsnēm. Atvērušies Geastrum augļķermeņi arī veido zvaigžņveida daivas, taču tiem saglabājas centrālais sporu maisiņš. Citi Peziza ammophila kompleksa locekļi, piemēram, Peziza hellenica un Peziza oceanica, tiek atšķirti pēc mikroskopiskajām pazīmēm un DNS.",
+      "notes": "Vēja nestie smilšu graudiņi, kas iekrīt nobriedušā kausā, izraisa sporu izmešanu. DNS pētījumi parādījuši, ka ar šo nosaukumu ilgi apzīmētas vairākas kriptiskas sugas; šaurākā nozīmē tā ir galvenokārt Eiropas suga. Nīderlandē tā iekļauta Sarkanajā sarakstā kā apdraudēta.",
+      "names": [],
+      "sourceUrls": [
+        "http://miko.ldm.gov.lv/2020_Peziza_ammophila.htm",
+        "https://lv.wikipedia.org/wiki/Smiltāju_kaussēne"
+      ],
+      "label": "smiltāju kaussēne"
+    },
+    "nl": {
+      "description": "Een kleine, brosse bekerzwam van kaal zand die zich vrijwel geheel ingegraven ontwikkelt en zich aan het oppervlak opent tot een bruine, tulp- of stervormige beker. Hij is zeldzaam maar wordt op veel plaatsen gemeld uit kustduinen in Europa, waaronder Groot-Brittannië, Ierland, Nederland en de Oostzeekust, en verder van zandgronden in het binnenland, uit Noord-Afrika en uit Noord-Amerika.",
+      "cap": "Er is geen hoed: het vruchtlichaam is een beker (apothecium) van 2–5 cm breed, soms tot 7 cm, en 1,5–3 cm hoog. Het begint als een holle, bijna gesloten bol in het zand, komt dan naar het oppervlak en gaat open, waarbij de rand in vijf tot tien brede, spitse slippen scheurt die vaak naar buiten buigen, zodat een tulp- of stervormige gedaante ontstaat. De buitenkant is bleek oker tot grijsbruin, fijn korrelig en meestal bedekt met vastgekleefde zandkorrels.",
+      "hymenium": "De vruchtbare binnenkant is glad en middel- tot donkerbruin, variërend van geelbruin tot roodbruin. De asci zijn cilindrisch, achtsporig, naar de basis iets versmald en 180–230 × 15–20 µm; de parafysen zijn schaars, onvertakt en gesepteerd, 3–4 µm breed en aan de top iets knotsvormig verbreed tot ongeveer 6 µm.",
+      "stipe": "Een echte steel ontbreekt. Veel vruchtlichamen staan op een ingegraven, steelachtige basis (pseudosteel) van los verweven hyfen die zandkorrels samenbinden; die kan kort en dik zijn of wortelend en tot 5 cm lang, en bij sommige vruchtlichamen ontbreekt hij.",
+      "flesh": "Dun, ongeveer 1–2 mm dik, lichtbruin en zeer broos, zonder opvallende geur.",
+      "sporePrint": "Sporenpoeder wit. De ascosporen zijn ellipsoïde, glad, hyalien, vrij dikwandig en zonder oliedruppels, 14–18 × 8–10,5 µm. De ascustoppen zijn amyloïde en kleuren in Melzers reagens in een ring aan de top intens blauw.",
+      "habitat": "Saprotroof op organisch materiaal in zand, vooral op dode wortels en andere resten van helm (Ammophila arenaria). Groeit alleen of in kleine groepen in kaal, stuivend zand van jonge kustduinen, meestal aan de lijzijde van de zeereep, en ook op andere open, meestal kalkrijke zandgronden. Vruchtlichamen verschijnen vooral van mei tot november, in milde kustgebieden tot in de winter.",
+      "uses": "Wordt niet gegeten. De vruchtlichamen zijn altijd met zand bedekt, en zoals veel bekerzwammen is de soort rauw of onvoldoende verhit waarschijnlijk giftig en veroorzaakt ze maag- en darmklachten.",
+      "confusion": "Geopora arenicola, eveneens in duinzand, blijft kleiner (tot 2 cm), blijft vrijwel bolvormig en geheel ingegraven, heeft geen steel en opent zich alleen met een klein rond gat. Sarcosphaera coronaria is veel groter (tot 20 cm), heeft een witachtige tot lila binnenkant en groeit bij naaldbomen op bodems in het binnenland. Peziza vesiculosa is bleker, groeit vaak in bundels en op mest, compost en andere voedselrijke bodems. Geopende vruchtlichamen van Geastrum vormen ook stervormige slippen, maar houden een centrale sporenzak. Andere leden van het Peziza ammophila-complex, zoals Peziza hellenica en Peziza oceanica, worden onderscheiden op microscopische kenmerken en DNA.",
+      "notes": "Door de wind meegevoerde zandkorrels die in een rijpe beker vallen, zetten het wegschieten van de sporen in gang. DNA-onderzoek heeft aangetoond dat onder de naam lang verscheidene cryptische soorten schuilgingen; in strikte zin is de soort vooral Europees. In Nederland staat ze als bedreigd op de Rode Lijst.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.mycologen.nl/onderzoek/meetnet/zeereep-concept/typische-soorten/",
+        "https://www.verspreidingsatlas.nl/0662010",
+        "https://nl.wikipedia.org/wiki/Zandtulpje"
+      ],
+      "label": "zandtulpje"
+    },
+    "no": {
+      "description": "En liten, skjør begersopp i bar sand som utvikler seg nesten helt nedgravd og åpner seg ved overflaten til et brunt, tulipan- eller stjerneformet beger. Den er sjelden, men er kjent fra mange steder i kystdyner i Europa, blant annet Storbritannia, Irland, Nederland og Østersjøkysten, og dessuten fra innlandssand, Nord-Afrika og Nord-Amerika.",
+      "cap": "Hatt mangler: fruktlegemet er et beger (apothecium), 2–5 cm bredt, av og til opptil 7 cm, og 1,5–3 cm høyt. Det begynner som en hul, nesten lukket kule nedgravd i sanden, skyver seg så opp til overflaten og åpner seg, og kanten revner i fem til ti brede, spisse lapper som ofte bøyer seg utover og gir en tulipan- eller stjernelignende form. Utsiden er blek oker til gråbrun, fint kornet og som regel dekket av en skorpe av sandkorn.",
+      "hymenium": "Den fertile innsiden er glatt og middels til mørkebrun, varierende fra gulbrun til rødbrun. Sporesekkene er sylindriske, åttesporede, svakt avsmalnende mot basis og 180–230 × 15–20 µm; parafysene er spredte, ugreinede og septerte, 3–4 µm brede og svakt kølleformede i tuppen, der de når omkring 6 µm.",
+      "stipe": "Ekte stilk mangler. Mange fruktlegemer sitter på en nedgravd, stilklignende basis (pseudostilk) av løst sammenflettede hyfer som binder sandkorn sammen; den kan være kort og tykk eller rotende og opptil 5 cm lang, og noen fruktlegemer mangler den.",
+      "flesh": "Tynt, omkring 1–2 mm tykt, lysebrunt og svært skjørt, uten påfallende lukt.",
+      "sporePrint": "Sporepulver hvitt. Ascosporene er ellipsoide, glatte, hyaline, ganske tykkveggede og uten oljedråper, 14–18 × 8–10,5 µm. Tuppen av sporesekkene er amyloid og farges i Melzers reagens kraftig blå i en ring ved toppen.",
+      "habitat": "Saprotrof på organisk materiale i sand, særlig døde røtter og andre rester av sandrør (Ammophila arenaria). Den vokser enkeltvis eller i små grupper i bar, flygende sand i unge kystdyner, mest på lesiden av fordynen, og også på annen åpen, som regel kalkholdig sandjord. Fruktlegemene kommer særlig fra mai til november og i milde kyststrøk inn i vinteren.",
+      "uses": "Spises ikke. Fruktlegemene er alltid dekket av sand, og som mange begersopper er den trolig giftig rå eller utilstrekkelig varmebehandlet og gir mage- og tarmplager.",
+      "confusion": "Geopora arenicola, som også vokser i dynesand, forblir mindre (opptil 2 cm), forblir nesten kuleformet og helt nedgravd, har ingen stilk og åpner seg bare med et lite, rundt hull. Sarcosphaera coronaria er mye større (opptil 20 cm), har en hvitaktig til lilla innside og vokser med bartrær på jord i innlandet. Peziza vesiculosa er blekere, vokser ofte i tuer og på gjødsel, kompost og annen næringsrik jord. Åpnede fruktlegemer av Geastrum danner også stjerneformede flikker, men beholder en sentral sporesekk. Andre medlemmer av Peziza ammophila-komplekset, som Peziza hellenica og Peziza oceanica, skilles ved mikroskopiske karakterer og DNA.",
+      "notes": "Vindførte sandkorn som faller ned i et modent beger, utløser frigjøringen av sporene. DNA-studier har vist at navnet lenge dekket flere kryptiske arter; i streng forstand er arten hovedsakelig europeisk. I Nederland er den rødlistet som sterkt truet.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "pl": {
+      "description": "Niewielki, kruchy grzyb o owocniku w kształcie miseczki, rosnący w nagim piasku, który rozwija się niemal całkowicie zagrzebany i otwiera się na powierzchni w brązową miseczkę w kształcie tulipana lub gwiazdy. Jest rzadki, ale notowany w wielu miejscach na nadmorskich wydmach w Europie, m.in. w Wielkiej Brytanii, Irlandii, Holandii i na wybrzeżu Bałtyku, a także na piaskach śródlądowych, w Afryce Północnej i w Ameryce Północnej.",
+      "cap": "Kapelusza brak: owocnik to miseczka (apotecjum) o szerokości 2–5 cm, czasem do 7 cm, i wysokości 1,5–3 cm. Początkowo jest to pusta w środku, prawie zamknięta kula zagrzebana w piasku, która następnie wysuwa się na powierzchnię i otwiera, a brzeg rozrywa się na pięć do dziesięciu szerokich, ostrych płatów, często wygiętych na zewnątrz, co nadaje jej kształt tulipana lub gwiazdy. Zewnętrzna powierzchnia jest bladoochrowa do szarobrązowej, drobno ziarnista i zwykle oblepiona ziarnami piasku.",
+      "hymenium": "Płodna wewnętrzna powierzchnia jest gładka, średnio- do ciemnobrązowej, od żółtobrązowej po czerwonobrązową. Worki są cylindryczne, ośmiozarodnikowe, lekko zwężone ku podstawie i mają 180–230 × 15–20 µm; wstawki są nieliczne, nierozgałęzione i septowane, o szerokości 3–4 µm, na szczycie lekko maczugowate, gdzie osiągają około 6 µm.",
+      "stipe": "Prawdziwego trzonu brak. Wiele owocników osadzonych jest na zagrzebanej, trzonopodobnej podstawie (pseudotrzonie) z luźno splecionych strzępek, które zlepiają ziarna piasku; może być krótka i gruba albo korzeniąca się i długa do 5 cm, a niektóre owocniki jej nie mają.",
+      "flesh": "Cienki, o grubości około 1–2 mm, jasnobrązowy i bardzo kruchy, bez wyraźnego zapachu.",
+      "sporePrint": "Wysyp zarodników biały. Askospory są elipsoidalne, gładkie, szkliste, dość grubościenne i bez kropli oleju, 14–18 × 8–10,5 µm. Szczyty worków są amyloidalne i w odczynniku Melzera barwią się intensywnie na niebiesko w pierścieniu przy wierzchołku.",
+      "habitat": "Saprotrof rozkładający materię organiczną w piasku, zwłaszcza obumarłe korzenie i inne szczątki piaskownicy zwyczajnej (Ammophila arenaria). Rośnie pojedynczo lub w małych grupach w nagim, ruchomym piasku młodych wydm nadmorskich, najczęściej po zawietrznej stronie wydmy przedniej, a także na innych otwartych, zwykle wapiennych glebach piaszczystych. Owocniki wytwarza głównie od maja do listopada, a w łagodnych rejonach nadmorskich aż do zimy.",
+      "uses": "Nie jest jadany. Owocniki są zawsze oblepione piaskiem, a jak wiele grzybów miseczkowatych jest on prawdopodobnie trujący na surowo lub po niedostatecznej obróbce termicznej i wywołuje dolegliwości żołądkowo-jelitowe.",
+      "confusion": "Geopora arenicola, rosnąca również w piasku wydm, pozostaje mniejsza (do 2 cm), niemal kulista i całkowicie zagrzebana, nie ma trzonu i otwiera się tylko małym okrągłym otworem. Sarcosphaera coronaria jest znacznie większa (do 20 cm), ma białawą do liliowej wewnętrzną powierzchnię i rośnie z drzewami iglastymi na glebach śródlądowych. Peziza vesiculosa jest bledsza, często rośnie w skupiskach, na oborniku, kompoście i innych żyznych glebach. Otwarte owocniki rodzaju Geastrum również tworzą gwiaździste płaty, ale zachowują środkowy worek zarodnikowy. Inne gatunki z kompleksu Peziza ammophila, takie jak Peziza hellenica i Peziza oceanica, rozróżnia się na podstawie cech mikroskopowych i DNA.",
+      "notes": "Ziarna piasku niesione wiatrem, które wpadają do dojrzałej miseczki, wyzwalają uwalnianie zarodników. Badania DNA wykazały, że pod tą nazwą długo kryło się kilka gatunków kryptycznych; w ścisłym znaczeniu jest to gatunek głównie europejski. W Holandii figuruje na czerwonej liście jako zagrożony.",
+      "names": [],
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/Kustrzebka_piaskowa",
+        "https://grzyby.pl/gatunki/Peziza_ammophila.htm"
+      ],
+      "label": "kustrzebka piaskowa"
+    },
+    "pt": {
+      "description": "Um pequeno fungo em forma de taça, frágil, das areias nuas, que se desenvolve quase totalmente enterrado e se abre à superfície numa taça castanha em forma de tulipa ou de estrela. É raro, mas está registado em muitos locais das dunas costeiras da Europa, incluindo a Grã-Bretanha, a Irlanda, os Países Baixos e a costa do Báltico, e também em areias do interior, no Norte de África e na América do Norte.",
+      "cap": "Não há chapéu: o corpo frutífero é uma taça (apotécio) com 2–5 cm de largura, por vezes até 7 cm, e 1,5–3 cm de altura. Começa como uma esfera oca quase fechada enterrada na areia, depois sobe até à superfície e abre-se, e a margem rasga-se em cinco a dez lobos largos e pontiagudos que muitas vezes se curvam para fora, dando-lhe forma de tulipa ou de estrela. A face externa é ocre-pálida a castanho-acinzentada, finamente granulosa e geralmente incrustada de grãos de areia.",
+      "hymenium": "A face interna fértil é lisa e castanha média a escura, variando de castanho-amarelada a castanho-avermelhada. Os ascos são cilíndricos, com oito esporos, ligeiramente estreitados na base e medem 180–230 × 15–20 µm; as paráfises são escassas, não ramificadas e septadas, com 3–4 µm de largura e ligeiramente claviformes no ápice, onde atingem cerca de 6 µm.",
+      "stipe": "Não há um verdadeiro pé. Muitos corpos frutíferos assentam numa base enterrada semelhante a um pé (pseudoestipe) de hifas frouxamente entrelaçadas que aglutinam os grãos de areia; pode ser curta e grossa ou radicante e com até 5 cm de comprimento, e alguns corpos frutíferos não a têm.",
+      "flesh": "Fina, com cerca de 1–2 mm de espessura, castanho-pálida e muito quebradiça, sem odor distinto.",
+      "sporePrint": "Esporada branca. Os ascósporos são elipsoides, lisos, hialinos, de parede bastante espessa e sem gotas lipídicas, 14–18 × 8–10,5 µm. O ápice dos ascos é amiloide e cora intensamente de azul, num anel na extremidade, no reagente de Melzer.",
+      "habitat": "Saprotrófico sobre matéria orgânica da areia, sobretudo raízes mortas e outros restos do estorno (Ammophila arenaria). Cresce isolado ou em pequenos grupos na areia nua e móvel das dunas costeiras jovens, sobretudo na vertente de sotavento da duna frontal, e também noutros solos arenosos abertos, geralmente calcários. Frutifica sobretudo de maio a novembro e, em zonas costeiras amenas, até ao inverno.",
+      "uses": "Não é consumido. Os corpos frutíferos estão sempre incrustados de areia e, como muitos fungos em forma de taça, é provavelmente tóxico cru ou mal cozinhado, causando perturbações gastrointestinais.",
+      "confusion": "Geopora arenicola, também presente na areia das dunas, mantém-se mais pequeno (até 2 cm), permanece quase esférico e totalmente enterrado, não tem pé e abre-se apenas por um pequeno orifício redondo. Sarcosphaera coronaria é muito maior (até 20 cm), tem a face interna esbranquiçada a lilás e cresce com coníferas em solos do interior. Peziza vesiculosa é mais pálida, muitas vezes cresce em tufos e sobre estrume, composto e outros solos ricos. Os corpos frutíferos abertos de Geastrum também formam lacínias em estrela, mas mantêm um saco de esporos central. Outros membros do complexo de Peziza ammophila, como Peziza hellenica e Peziza oceanica, distinguem-se por caracteres microscópicos e pelo ADN.",
+      "notes": "Os grãos de areia trazidos pelo vento que caem numa taça madura desencadeiam a libertação dos esporos. Estudos de ADN mostraram que o nome abrangeu durante muito tempo várias espécies crípticas; em sentido estrito é sobretudo europeia. Nos Países Baixos consta da lista vermelha como em perigo.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "O ciupercă mică și fragilă, în formă de cupă, din nisipul golaș, care se dezvoltă aproape complet îngropată și se deschide la suprafață într-o cupă brună, în formă de lalea sau de stea. Este rară, dar semnalată în multe locuri din dunele de coastă ale Europei, inclusiv în Marea Britanie, Irlanda, Țările de Jos și pe coasta Mării Baltice, precum și pe nisipuri din interior, în Africa de Nord și în America de Nord.",
+      "cap": "Nu are pălărie: corpul fructifer este o cupă (apoteciu) de 2–5 cm lățime, uneori până la 7 cm, și 1,5–3 cm înălțime. La început este o sferă goală, aproape închisă, îngropată în nisip, apoi iese la suprafață și se deschide, iar marginea se rupe în cinci până la zece lobi largi și ascuțiți, adesea răsfrânți în afară, care îi dau o formă de lalea sau de stea. Suprafața exterioară este ocru-pal până la brun-cenușie, fin granulară și de obicei acoperită cu o crustă de grăunțe de nisip.",
+      "hymenium": "Suprafața interioară fertilă este netedă, brun-mijlociu până la brun-închis, variind de la brun-gălbui la brun-roșcat. Ascele sunt cilindrice, cu opt spori, ușor îngustate spre bază și de 180–230 × 15–20 µm; parafizele sunt rare, neramificate și septate, late de 3–4 µm și ușor măciucate la vârf, unde ajung la aproximativ 6 µm.",
+      "stipe": "Nu are picior adevărat. Multe corpuri fructifere stau pe o bază îngropată, asemănătoare unui picior (pseudopicior), formată din hife împletite lax care leagă grăunțele de nisip; poate fi scurtă și groasă sau înrădăcinată și lungă de până la 5 cm, iar unele corpuri fructifere nu o au.",
+      "flesh": "Subțire, groasă de circa 1–2 mm, brun-deschisă și foarte fragilă, fără miros distinctiv.",
+      "sporePrint": "Sporata albă. Ascosporii sunt elipsoidali, netezi, hialini, cu perete destul de gros și fără picături de ulei, 14–18 × 8–10,5 µm. Vârfurile ascelor sunt amiloide și se colorează intens în albastru, sub formă de inel la apex, în reactivul Melzer.",
+      "habitat": "Saprotrofă pe materie organică din nisip, mai ales pe rădăcinile moarte și alte resturi ale ierbii Ammophila arenaria. Crește solitar sau în grupuri mici, în nisipul golaș și mobil al dunelor de coastă tinere, mai ales pe partea adăpostită de vânt a dunei frontale, și pe alte soluri nisipoase deschise, de obicei calcaroase. Fructifică mai ales din mai până în noiembrie, iar în zonele de coastă blânde până în iarnă.",
+      "uses": "Nu se consumă. Corpurile fructifere sunt mereu încrustate cu nisip și, ca multe ciuperci în formă de cupă, este probabil toxică crudă sau insuficient gătită, provocând tulburări digestive.",
+      "confusion": "Geopora arenicola, care crește tot în nisipul dunelor, rămâne mai mică (până la 2 cm), rămâne aproape sferică și complet îngropată, nu are picior și se deschide doar printr-un mic orificiu rotund. Sarcosphaera coronaria este mult mai mare (până la 20 cm), are suprafața interioară albicioasă până la liliachie și crește cu conifere pe soluri din interior. Peziza vesiculosa este mai palidă, crește adesea în grupuri dense și pe gunoi de grajd, compost și alte soluri bogate. Corpurile fructifere deschise de Geastrum formează și ele raze stelate, dar păstrează un sac sporifer central. Alți membri ai complexului Peziza ammophila, precum Peziza hellenica și Peziza oceanica, se deosebesc prin caractere microscopice și ADN.",
+      "notes": "Grăunțele de nisip purtate de vânt care cad într-o cupă matură declanșează eliberarea sporilor. Studiile ADN au arătat că numele a cuprins multă vreme mai multe specii criptice; în sens strict, specia este în principal europeană. În Țările de Jos figurează pe lista roșie ca periclitată.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Небольшой хрупкий чашевидный гриб голого песка, который развивается почти полностью погружённым и раскрывается на поверхности в бурую чашу в форме тюльпана или звезды. Редок, но известен из многих мест на прибрежных дюнах Европы, в том числе в Великобритании, Ирландии, Нидерландах и на побережье Балтийского моря, а также на песках внутри материка, в Северной Африке и Северной Америке.",
+      "cap": "Шляпки нет: плодовое тело — чаша (апотеций) шириной 2–5 cm, иногда до 7 cm, и высотой 1,5–3 cm. Сначала это полый, почти замкнутый шар, погружённый в песок; затем он выдвигается на поверхность и раскрывается, а край разрывается на пять–десять широких заострённых лопастей, которые часто отгибаются наружу, придавая форму тюльпана или звезды. Наружная поверхность бледно-охристая до серовато-бурой, мелкозернистая и обычно покрыта коркой песчинок.",
+      "hymenium": "Внутренняя спороносная поверхность гладкая, средне- до тёмно-бурой, от желтовато-бурой до красновато-бурой. Сумки цилиндрические, восьмиспоровые, слегка суженные к основанию, 180–230 × 15–20 µm; парафизы редкие, неветвящиеся, септированные, шириной 3–4 µm и слегка булавовидные на верхушке, где достигают около 6 µm.",
+      "stipe": "Настоящей ножки нет. Многие плодовые тела сидят на погружённом ножковидном основании (ложной ножке) из рыхло переплетённых гиф, скрепляющих песчинки; оно может быть коротким и толстым или укореняющимся и длиной до 5 cm, а у некоторых плодовых тел отсутствует.",
+      "flesh": "Тонкая, толщиной около 1–2 mm, светло-бурая, очень ломкая, без выраженного запаха.",
+      "sporePrint": "Споровый порошок белый. Аскоспоры эллипсоидные, гладкие, гиалиновые, довольно толстостенные, без капель масла, 14–18 × 8–10,5 µm. Верхушки сумок амилоидные: в реактиве Мельцера они интенсивно синеют кольцом на вершине.",
+      "habitat": "Сапротроф на органическом веществе в песке, особенно на отмерших корнях и других остатках злака Ammophila arenaria. Растёт одиночно или небольшими группами на голом подвижном песке молодых прибрежных дюн, преимущественно на подветренной стороне передней дюны, а также на других открытых, обычно известковых песчаных почвах. Плодоносит главным образом с мая по ноябрь, а в мягких прибрежных районах — до зимы.",
+      "uses": "Не употребляется в пищу. Плодовые тела всегда покрыты песком, и, как многие чашевидные грибы, он, вероятно, ядовит в сыром или недостаточно проваренном виде и вызывает расстройство пищеварения.",
+      "confusion": "Geopora arenicola, также растущая в дюнном песке, остаётся мельче (до 2 cm), остаётся почти шаровидной и полностью погружённой, не имеет ножки и раскрывается лишь небольшим круглым отверстием. Sarcosphaera coronaria гораздо крупнее (до 20 cm), имеет беловатую до лиловой внутреннюю поверхность и растёт с хвойными деревьями на почвах внутри материка. Peziza vesiculosa бледнее, часто растёт группами на навозе, компосте и других богатых почвах. Раскрывшиеся плодовые тела Geastrum тоже образуют звездчатые лопасти, но сохраняют центральный споровый мешочек. Другие члены комплекса Peziza ammophila, например Peziza hellenica и Peziza oceanica, различаются по микроскопическим признакам и ДНК.",
+      "notes": "Принесённые ветром песчинки, падающие в зрелую чашу, вызывают выброс спор. Исследования ДНК показали, что это название долго охватывало несколько криптических видов; в узком смысле вид в основном европейский. В Нидерландах внесён в Красный список как находящийся под угрозой исчезновения.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sk": {
+      "description": "Drobná, krehká miskovitá huba holého piesku, ktorá sa vyvíja takmer celá zahrabaná a na povrchu sa otvára do hnedej misky v tvare tulipánu alebo hviezdy. Je vzácna, ale uvádza sa z mnohých lokalít na pobrežných dunách v Európe vrátane Veľkej Británie, Írska, Holandska a pobrežia Baltu a tiež z vnútrozemských pieskov, zo severnej Afriky a zo Severnej Ameriky.",
+      "cap": "Klobúk nemá: plodnica je miska (apotécium) široká 2–5 cm, občas až 7 cm, a vysoká 1,5–3 cm. Najprv je to dutá, takmer uzavretá guľa ponorená v piesku, potom sa vysunie k povrchu a otvorí a okraj sa roztrhne na päť až desať širokých, špicatých lalokov, ktoré sa často ohýbajú von, takže vzniká tvar tulipánu alebo hviezdy. Vonkajší povrch je bledo okrový až sivohnedý, jemne zrnitý a zvyčajne obalený zrnkami piesku.",
+      "hymenium": "Plodná vnútorná strana je hladká, stredne až tmavohnedá, od žltohnedej po červenohnedú. Vrecká sú valcovité, osemvýtrusové, k báze mierne zúžené a merajú 180–230 × 15–20 µm; parafýzy sú riedke, nevetvené a prehrádkované, 3–4 µm široké a na vrchole mierne kyjakovité, kde dosahujú asi 6 µm.",
+      "stipe": "Pravý hlúbik chýba. Mnohé plodnice sedia na zahrabanej, hlúbikovitej báze (pseudohlúbiku) z voľne prepletených hýf, ktoré spájajú zrnká piesku; môže byť krátka a hrubá alebo koreňujúca a dlhá až 5 cm a niektoré plodnice ju nemajú vôbec.",
+      "flesh": "Tenká, asi 1–2 mm hrubá, bledohnedá a veľmi krehká, bez výraznej vône.",
+      "sporePrint": "Výtrusný prach biely. Askospóry sú elipsoidné, hladké, hyalínne, dosť hrubostenné a bez olejových kvapiek, 14–18 × 8–10,5 µm. Vrcholy vreciek sú amyloidné a v Melzerovom činidle sa v prstenci na vrchole sfarbujú intenzívne do modra.",
+      "habitat": "Saprotrofná na organickej hmote v piesku, najmä na odumretých koreňoch a iných zvyškoch tráv Ammophila arenaria. Rastie jednotlivo alebo v malých skupinách v holom, pohyblivom piesku mladých pobrežných dún, väčšinou na záveternej strane prednej duny, a tiež na iných otvorených, zvyčajne vápenatých piesočnatých pôdach. Plodnice tvorí najmä od mája do novembra a v miernych pobrežných oblastiach až do zimy.",
+      "uses": "Nezbiera sa na jedenie. Plodnice sú vždy obalené pieskom a ako mnohé miskovité huby je surová alebo nedostatočne tepelne upravená pravdepodobne jedovatá a spôsobuje tráviace ťažkosti.",
+      "confusion": "Geopora arenicola, ktorá tiež rastie v dunovom piesku, zostáva menšia (do 2 cm), ostáva takmer guľovitá a celá zahrabaná, nemá hlúbik a otvára sa len malým okrúhlym otvorom. Sarcosphaera coronaria je oveľa väčšia (do 20 cm), má belavú až fialovú vnútornú stranu a rastie s ihličnanmi na vnútrozemských pôdach. Peziza vesiculosa je bledšia, rastie často v trsoch a na hnoji, komposte a iných živných pôdach. Otvorené plodnice rodu Geastrum tiež tvoria hviezdicovité cípy, ale ponechávajú si stredný výtrusový vak. Ďalší členovia komplexu Peziza ammophila, napríklad Peziza hellenica a Peziza oceanica, sa rozlišujú podľa mikroskopických znakov a DNA.",
+      "notes": "Zrnká piesku naviate vetrom, ktoré spadnú do zrelej misky, spustia uvoľnenie výtrusov. Štúdie DNA ukázali, že pod týmto menom sa dlho skrývalo viacero kryptických druhov; v užšom zmysle je druh hlavne európsky. V Holandsku je v Červenom zozname vedený ako ohrozený.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.nahuby.sk/atlas-hub/Peziza-ammophila/ciaska-pieskomilna/ID2348"
+      ],
+      "label": "čiaška pieskomilná"
+    },
+    "sl": {
+      "description": "Majhna, krhka gliva v obliki čašice z golega peska, ki se razvija skoraj povsem zakopana in se na površju odpre v rjavo čašo v obliki tulipana ali zvezde. Je redka, vendar so jo zabeležili na številnih mestih v obalnih sipinah Evrope, med drugim v Veliki Britaniji, na Irskem, Nizozemskem in ob Baltiku, pa tudi na peskih v notranjosti, v severni Afriki in Severni Ameriki.",
+      "cap": "Klobuka ni: trosnjak je čaša (apotecij), široka 2–5 cm, včasih do 7 cm, in visoka 1,5–3 cm. Sprva je votla, skoraj zaprta krogla, zakopana v pesek, nato se prerine na površje in odpre, rob pa se raztrga v pet do deset širokih, koničastih krp, ki se pogosto upognejo navzven in ji dajo obliko tulipana ali zvezde. Zunanja površina je bledo okrasta do sivkasto rjava, drobno zrnata in navadno prekrita s peščenimi zrnci.",
+      "hymenium": "Plodna notranja površina je gladka, srednje do temno rjava, od rumenkasto rjave do rdečkasto rjave. Askusi so valjasti, osemtrosni, proti dnu rahlo zoženi in veliki 180–230 × 15–20 µm; parafize so redke, nerazvejane in pregrajene, široke 3–4 µm in na vrhu rahlo betičaste, kjer dosežejo okoli 6 µm.",
+      "stipe": "Pravega beta ni. Številni trosnjaki sedijo na zakopani, betu podobni osnovi (psevdobetu) iz ohlapno prepletenih hif, ki vežejo peščena zrnca; lahko je kratka in debela ali koreninasta in dolga do 5 cm, nekateri trosnjaki pa je nimajo.",
+      "flesh": "Tanko, debelo okoli 1–2 mm, svetlo rjavo in zelo krhko, brez izrazitega vonja.",
+      "sporePrint": "Trosni prah bel. Askospore so elipsoidne, gladke, hialine, razmeroma debelostene in brez oljnih kapljic, 14–18 × 8–10,5 µm. Vrhovi askusov so amiloidni in se v Melzerjevem reagentu na vrhu v obliki obroča intenzivno obarvajo modro.",
+      "habitat": "Saprotrof na organski snovi v pesku, zlasti na odmrlih koreninah in drugih ostankih trave Ammophila arenaria. Raste posamič ali v majhnih skupinah v golem, premičnem pesku mladih obalnih sipin, večinoma na zavetrni strani prednje sipine, pa tudi na drugih odprtih, navadno apnenčastih peščenih tleh. Trosnjaki se pojavljajo predvsem od maja do novembra, na milih obalnih območjih pa vse do zime.",
+      "uses": "Ni užitna. Trosnjaki so vedno prekriti s peskom, kot mnoge čašaste glive pa je verjetno strupena surova ali premalo toplotno obdelana in povzroča prebavne težave.",
+      "confusion": "Geopora arenicola, ki prav tako raste v pesku sipin, ostane manjša (do 2 cm), ostane skoraj kroglasta in povsem zakopana, nima beta in se odpre le z majhno okroglo odprtino. Sarcosphaera coronaria je precej večja (do 20 cm), ima belkasto do lila notranjo površino in raste z iglavci na tleh v notranjosti. Peziza vesiculosa je bledejša, pogosto raste v šopih ter na gnoju, kompostu in drugih bogatih tleh. Odprti trosnjaki rodu Geastrum prav tako tvorijo zvezdaste krpe, vendar ohranijo osrednjo trosno vrečko. Drugi člani kompleksa Peziza ammophila, kot sta Peziza hellenica in Peziza oceanica, se ločijo po mikroskopskih znakih in DNK.",
+      "notes": "Peščena zrnca, ki jih veter zanese v zrelo čašo, sprožijo izmet trosov. Raziskave DNK so pokazale, da je to ime dolgo zajemalo več kriptičnih vrst; v ožjem smislu je vrsta predvsem evropska. Na Nizozemskem je na rdečem seznamu kot prizadeta.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sr": {
+      "description": "Мала, крта гљива у облику пехарчића са голог песка, која се развија готово потпуно закопана и на површини се отвара у мрку чашицу у облику лале или звезде. Ретка је, али забележена на многим местима у приобалним динама Европе, укључујући Велику Британију, Ирску, Холандију и балтичку обалу, као и на песковима у унутрашњости, у северној Африци и Северној Америци.",
+      "cap": "Шешира нема: плодно тело је чашица (апотецијум) широка 2–5 cm, понекад до 7 cm, и висока 1,5–3 cm. У почетку је шупља, готово затворена лопта закопана у песак, затим избија на површину и отвара се, а ивица се цепа у пет до десет широких, шиљатих режњева који се често савијају ка споља и дају јој облик лале или звезде. Спољашња површина је бледо окераста до сивомрка, ситно зрнаста и обично прекривена зрнцима песка.",
+      "hymenium": "Плодна унутрашња површина је глатка, средње до тамномрка, од жућкастомрке до црвенкастомрке. Аскуси су ваљкасти, са осам спора, ка основи благо сужени и величине 180–230 × 15–20 µm; парафизе су ретке, неразгранате и септиране, широке 3–4 µm и на врху благо батинасте, где достижу око 6 µm.",
+      "stipe": "Праве дршке нема. Многа плодна тела седе на закопаној основи налик дршци (псеудодршци) од лабаво испреплетаних хифа које повезују зрнца песка; може бити кратка и дебела или укорењена и дуга до 5 cm, а нека плодна тела је немају.",
+      "flesh": "Танко, дебело око 1–2 mm, светломрко и веома крто, без изразитог мириса.",
+      "sporePrint": "Отисак спора бео. Аскоспоре су елипсоидне, глатке, хијалине, прилично дебелих зидова и без капљица уља, 14–18 × 8–10,5 µm. Врхови аскуса су амилоидни и у Мелцеровом реагенсу на врху се у облику прстена интензивно боје плаво.",
+      "habitat": "Сапротроф на органској материји у песку, нарочито на мртвом корењу и другим остацима траве Ammophila arenaria. Расте појединачно или у малим групама на голом, покретном песку младих приобалних дина, углавном на заветринској страни предње дине, а и на другим отвореним, обично кречњачким песковитим земљиштима. Плодна тела се јављају углавном од маја до новембра, а у благим приобалним подручјима и до зиме.",
+      "uses": "Не једе се. Плодна тела су увек прекривена песком, а као и многе пехарасте гљиве вероватно је отровна сирова или недовољно термички обрађена и изазива пробавне сметње.",
+      "confusion": "Geopora arenicola, која такође расте у песку дина, остаје мања (до 2 cm), остаје готово лоптаста и потпуно закопана, нема дршку и отвара се само малим округлим отвором. Sarcosphaera coronaria је много већа (до 20 cm), има беличасту до лила унутрашњу површину и расте уз четинаре на земљиштима у унутрашњости. Peziza vesiculosa је бледа, често расте у групама на стајњаку, компосту и другим богатим земљиштима. Отворена плодна тела рода Geastrum такође образују звездасте краке, али задржавају централну врећицу са спорама. Други чланови комплекса Peziza ammophila, као што су Peziza hellenica и Peziza oceanica, разликују се по микроскопским одликама и ДНК.",
+      "notes": "Зрнца песка која ношена ветром упадну у зрелу чашицу покрећу избацивање спора. Истраживања ДНК показала су да је ово име дуго обухватало неколико криптичних врста; у ужем смислу врста је углавном европска. У Холандији се на црвеној листи води као угрожена.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En liten, skör skålsvamp i bar sand som utvecklas nästan helt nedgrävd och öppnar sig vid ytan till en brun, tulpan- eller stjärnformad skål. Den är sällsynt men rapporteras från många platser i kustdyner i Europa, bland annat Storbritannien, Irland, Nederländerna och Östersjökusten, och även från inlandssand, Nordafrika och Nordamerika.",
+      "cap": "Hatt saknas: fruktkroppen är en skål (apothecium), 2–5 cm bred, ibland upp till 7 cm, och 1,5–3 cm hög. Den börjar som en ihålig, nästan sluten kula nedgrävd i sanden, tränger sedan upp till ytan och öppnar sig, och kanten rivs upp i fem till tio breda, spetsiga flikar som ofta böjer sig utåt och ger en tulpan- eller stjärnliknande form. Utsidan är blekt ockra till gråbrun, fint kornig och oftast inkrusterad med sandkorn.",
+      "hymenium": "Den fertila insidan är slät och mellan- till mörkbrun, varierande från gulbrun till rödbrun. Sporsäckarna är cylindriska, åttasporiga, något avsmalnande mot basen och 180–230 × 15–20 µm; parafyserna är glesa, ogrenade och septerade, 3–4 µm breda och svagt klubblika i spetsen, där de når omkring 6 µm.",
+      "stipe": "En äkta fot saknas. Många fruktkroppar sitter på en nedgrävd, fotliknande bas (pseudofot) av löst sammanflätade hyfer som binder ihop sandkorn; den kan vara kort och tjock eller rotande och upp till 5 cm lång, och vissa fruktkroppar saknar den.",
+      "flesh": "Tunt, omkring 1–2 mm tjockt, ljusbrunt och mycket sprött, utan påfallande lukt.",
+      "sporePrint": "Sporpulver vitt. Ascosporerna är ellipsoida, släta, hyalina, ganska tjockväggiga och utan oljedroppar, 14–18 × 8–10,5 µm. Sporsäckarnas spetsar är amyloida och färgas i Melzers reagens intensivt blå i en ring vid toppen.",
+      "habitat": "Saprotrof på organiskt material i sand, särskilt döda rötter och andra rester av sandrör (Ammophila arenaria). Den växer ensam eller i små grupper i bar, flygande sand i unga kustdyner, mest på läsidan av fördynen, och även på annan öppen, oftast kalkhaltig sandmark. Fruktkropparna kommer främst från maj till november och i milda kusttrakter in i vintern.",
+      "uses": "Äts inte. Fruktkropparna är alltid inkrusterade med sand, och som många skålsvampar är den troligen giftig rå eller otillräckligt tillagad och ger mag-tarmbesvär.",
+      "confusion": "Geopora arenicola, som också växer i dynsand, förblir mindre (upp till 2 cm), förblir nästan klotrund och helt nedgrävd, saknar fot och öppnar sig bara med ett litet runt hål. Sarcosphaera coronaria är mycket större (upp till 20 cm), har en vitaktig till lila insida och växer med barrträd på mark i inlandet. Peziza vesiculosa är blekare, växer ofta i tuvor och på gödsel, kompost och annan näringsrik mark. Öppnade fruktkroppar av Geastrum bildar också stjärnformade flikar men behåller en central sporsäck. Andra medlemmar av Peziza ammophila-komplexet, till exempel Peziza hellenica och Peziza oceanica, skiljs åt med mikroskopiska karaktärer och DNA.",
+      "notes": "Vindburna sandkorn som faller ned i en mogen skål utlöser frisläppandet av sporerna. DNA-studier har visat att namnet länge omfattade flera kryptiska arter; i strikt mening är arten främst europeisk. I Nederländerna är den rödlistad som starkt hotad.",
+      "names": [
+        "dynskålsvamp"
+      ],
+      "sourceUrls": [],
+      "label": "dynskål"
+    },
+    "tr": {
+      "description": "Çıplak kumda yaşayan, neredeyse tamamen gömülü olarak gelişen ve yüzeyde kahverengi, lale ya da yıldız biçimli bir kupaya açılan küçük, kırılgan bir kupa mantarı. Nadirdir, ancak Avrupa'nın kıyı kumullarında, aralarında Britanya, İrlanda, Hollanda ve Baltık kıyısının da bulunduğu pek çok yerden, ayrıca iç kesimlerdeki kumlardan, Kuzey Afrika'dan ve Kuzey Amerika'dan bildirilmiştir.",
+      "cap": "Şapka yoktur: meyve gövdesi 2–5 cm genişliğinde, bazen 7 cm'ye kadar ve 1,5–3 cm yüksekliğinde bir kupadır (apotesyum). Önce kuma gömülü, içi boş, neredeyse kapalı bir küre olarak başlar, sonra yüzeye çıkıp açılır ve kenarı beş ila on geniş, sivri loba yırtılır; loblar çoğu zaman dışa doğru kıvrılarak lale ya da yıldız benzeri bir biçim verir. Dış yüzey soluk okr ile grimsi kahverengi arası, ince taneli ve genellikle kum taneleriyle kabuk bağlamıştır.",
+      "hymenium": "Verimli iç yüzey düzgün, orta ile koyu kahverengi arası olup sarımsı kahverengiden kırmızımsı kahverengiye değişir. Askuslar silindirik, sekiz sporlu, tabana doğru hafifçe daralan ve 180–230 × 15–20 µm boyutundadır; parafizler seyrek, dallanmamış ve bölmeli, 3–4 µm genişliğinde ve uçta hafifçe topuzsu olup burada yaklaşık 6 µm'ye ulaşır.",
+      "stipe": "Gerçek bir sap yoktur. Birçok meyve gövdesi, kum tanelerini birbirine bağlayan gevşek örülü hiflerden oluşan, gömülü, sapa benzer bir taban (yalancı sap) üzerinde durur; bu taban kısa ve kalın ya da köklenen ve 5 cm'ye kadar uzun olabilir, bazı meyve gövdelerinde ise hiç bulunmaz.",
+      "flesh": "İnce, yaklaşık 1–2 mm kalınlığında, açık kahverengi ve çok kırılgan, belirgin bir kokusu yoktur.",
+      "sporePrint": "Spor izi beyaz. Askosporlar elipsoit, düzgün, hiyalin, oldukça kalın çeperli ve yağ damlacıksızdır, 14–18 × 8–10,5 µm. Askus uçları amiloittir ve Melzer ayıracında tepede bir halka şeklinde yoğun mavi boyanır.",
+      "habitat": "Kumdaki organik madde üzerinde, özellikle Ammophila arenaria adlı otun ölü kökleri ve diğer kalıntıları üzerinde saprotrof olarak yaşar. Genç kıyı kumullarının çıplak, hareketli kumunda, çoğunlukla ön kumulun rüzgâr altı yamacında, ayrıca diğer açık, genellikle kireçli kumlu topraklarda tek tek ya da küçük gruplar hâlinde büyür. Meyve gövdelerini başlıca mayıstan kasıma kadar, ılıman kıyı bölgelerinde ise kışa kadar verir.",
+      "uses": "Yenmez. Meyve gövdeleri her zaman kumla kaplıdır ve birçok kupa mantarı gibi çiğ ya da yeterince pişirilmemiş hâlde muhtemelen zehirlidir ve mide-bağırsak rahatsızlıklarına yol açar.",
+      "confusion": "Yine kumul kumunda bulunan Geopora arenicola daha küçük kalır (2 cm'ye kadar), neredeyse küre biçimli ve tamamen gömülü kalır, sapı yoktur ve yalnızca küçük, yuvarlak bir delikle açılır. Sarcosphaera coronaria çok daha büyüktür (20 cm'ye kadar), iç yüzeyi beyazımsı ile leylak rengi arasıdır ve iç kesimlerdeki topraklarda kozalaklı ağaçlarla birlikte büyür. Peziza vesiculosa daha soluktur, çoğunlukla öbekler hâlinde ve gübre, kompost ve diğer zengin topraklarda büyür. Açılmış Geastrum meyve gövdeleri de yıldız benzeri kollar oluşturur, ancak ortada bir spor kesesi taşır. Peziza ammophila kompleksinin Peziza hellenica ve Peziza oceanica gibi diğer üyeleri mikroskobik özellikler ve DNA ile ayrılır.",
+      "notes": "Rüzgârın taşıdığı kum tanelerinin olgun bir kupaya düşmesi sporların salınmasını tetikler. DNA çalışmaları, bu adın uzun süre birkaç kriptik türü kapsadığını göstermiştir; dar anlamda tür esas olarak Avrupalıdır. Hollanda'da kırmızı listede tehlikede olarak yer alır.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Невеликий крихкий чашоподібний гриб голого піску, який розвивається майже повністю зануреним і розкривається на поверхні в буру чашу у формі тюльпана або зірки. Рідкісний, але відомий з багатьох місць на прибережних дюнах Європи, зокрема у Великій Британії, Ірландії, Нідерландах і на узбережжі Балтійського моря, а також на пісках усередині материка, у Північній Африці та Північній Америці.",
+      "cap": "Шапки немає: плодове тіло — чаша (апотецій) завширшки 2–5 cm, іноді до 7 cm, і заввишки 1,5–3 cm. Спочатку це порожниста, майже замкнена куля, занурена в пісок; потім вона висувається на поверхню й розкривається, а край розривається на п'ять–десять широких загострених лопатей, які часто відгинаються назовні, надаючи форми тюльпана або зірки. Зовнішня поверхня блідо-вохриста до сірувато-бурої, дрібнозерниста і зазвичай укрита кіркою піщинок.",
+      "hymenium": "Внутрішня спороносна поверхня гладенька, середньо- до темно-бурої, від жовтувато-бурої до червонувато-бурої. Сумки циліндричні, восьмиспорові, трохи звужені до основи, 180–230 × 15–20 µm; парафізи нечисленні, нерозгалужені, септовані, завширшки 3–4 µm і трохи булавоподібні на верхівці, де сягають близько 6 µm.",
+      "stipe": "Справжньої ніжки немає. Багато плодових тіл сидять на зануреній ніжкоподібній основі (несправжній ніжці) з пухко переплетених гіф, що скріплюють піщинки; вона може бути короткою й товстою або вкорінною і завдовжки до 5 cm, а в деяких плодових тіл відсутня.",
+      "flesh": "Тонка, завтовшки близько 1–2 mm, світло-бура, дуже ламка, без вираженого запаху.",
+      "sporePrint": "Споровий порошок білий. Аскоспори еліпсоїдні, гладенькі, гіалінові, досить товстостінні, без крапель олії, 14–18 × 8–10,5 µm. Верхівки сумок амілоїдні: у реактиві Мельцера вони інтенсивно синіють кільцем на вершині.",
+      "habitat": "Сапротроф на органічній речовині в піску, особливо на відмерлих коренях та інших рештках злаку Ammophila arenaria. Росте поодинці або невеликими групами на голому рухомому піску молодих прибережних дюн, переважно на підвітряному боці передньої дюни, а також на інших відкритих, зазвичай вапнистих піщаних ґрунтах. Плодоносить переважно з травня по листопад, а в м'яких прибережних районах — до зими.",
+      "uses": "Не вживається в їжу. Плодові тіла завжди вкриті піском, і, як багато чашоподібних грибів, він, імовірно, отруйний у сирому або недостатньо провареному вигляді та спричиняє розлади травлення.",
+      "confusion": "Geopora arenicola, що також росте в дюнному піску, лишається меншою (до 2 cm), лишається майже кулястою і повністю зануреною, не має ніжки й розкривається лише невеликим круглим отвором. Sarcosphaera coronaria значно більша (до 20 cm), має білувату до бузкової внутрішню поверхню і росте з хвойними деревами на ґрунтах усередині материка. Peziza vesiculosa блідіша, часто росте групами на гної, компості та інших багатих ґрунтах. Розкриті плодові тіла Geastrum теж утворюють зірчасті лопаті, але зберігають центральний споровий мішечок. Інші члени комплексу Peziza ammophila, наприклад Peziza hellenica і Peziza oceanica, розрізняються за мікроскопічними ознаками та ДНК.",
+      "notes": "Принесені вітром піщинки, що падають у зрілу чашу, спричиняють викид спор. Дослідження ДНК показали, що ця назва довго охоплювала кілька криптичних видів; у вузькому розумінні вид переважно європейський. У Нідерландах занесений до Червоного списку як такий, що перебуває під загрозою зникнення.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "zh": {
+      "description": "一種生於裸露沙地的小型脆弱杯狀真菌，幾乎完全埋在沙中發育，於地表展開成褐色的鬱金香形或星形杯。雖屬稀有，但在歐洲海岸沙丘的許多地點都有記錄，包括英國、愛爾蘭、荷蘭和波羅的海沿岸，也見於內陸沙地、北非和北美洲。",
+      "cap": "沒有菌蓋：子實體為杯（子囊盤），寬2–5 cm，偶達7 cm，高1.5–3 cm。最初是埋在沙中的中空、近乎封閉的球體，之後向上推出地表並張開，邊緣撕裂成五至十片寬而尖的裂片，裂片常向外反捲，形成鬱金香或星狀的外形。外表面淡赭色至灰褐色，具細顆粒，通常黏附一層沙粒。",
+      "hymenium": "內側可育面平滑，中至深褐色，由黃褐色至紅褐色不等。子囊圓柱形，具八孢子，基部稍變細，180–230 × 15–20 µm；側絲稀疏，不分枝，具隔，寬3–4 µm，頂端略呈棒狀，可達約6 µm。",
+      "stipe": "沒有真正的菌柄。許多子實體著生於埋在沙中、似柄的基部（假柄）上，由鬆散交織的菌絲構成，將沙粒黏結在一起；假柄可短而粗，或呈根狀、長達5 cm，也有些子實體沒有假柄。",
+      "flesh": "薄，厚約1–2 mm，淡褐色，極脆，無特殊氣味。",
+      "sporePrint": "孢子印白色。子囊孢子橢圓形，平滑，透明，壁頗厚，不含油滴，14–18 × 8–10.5 µm。子囊頂端為類澱粉質，在梅爾澤試劑中於頂部呈環狀染成深藍色。",
+      "habitat": "腐生於沙中的有機質上，尤其是禾草Ammophila arenaria的枯根及其他殘體。單生或小群生於年輕海岸沙丘裸露而移動的沙中，多在前沙丘的背風面，也見於其他開闊、通常為石灰質的沙質土壤。主要於五月至十一月發生，在氣候溫和的沿海地區可延續到冬季。",
+      "uses": "不供食用。子實體總是沾滿沙粒，且與許多杯狀真菌一樣，生食或未煮熟時可能有毒，會引起腸胃不適。",
+      "confusion": "同樣生於沙丘沙中的Geopora arenicola較小（最大2 cm），始終近球形且完全埋於沙中，無柄，只以一個小圓孔開口。Sarcosphaera coronaria大得多（最大20 cm），內面白色至淡紫色，生於內陸土壤，與針葉樹共生。Peziza vesiculosa色較淡，常叢生，生於糞肥、堆肥和其他肥沃土壤上。張開的Geastrum子實體也形成星狀裂片，但中央保留孢子囊。Peziza ammophila複合群的其他成員，如Peziza hellenica和Peziza oceanica，須以顯微特徵和DNA區分。",
+      "notes": "被風吹來的沙粒落入成熟的杯中，會觸發孢子釋放。DNA研究顯示，這個名稱長期涵蓋數個隱存種；狹義上本種主要分布於歐洲。在荷蘭被列入紅色名錄，等級為瀕危。",
+      "names": [],
+      "sourceUrls": []
+    }
+  },
+  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Pezizaceae/Peziza_ammophila/Peziza_ammophila@1600.webp",
+  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Pezizaceae/Peziza_ammophila/Peziza_ammophila@400.webp",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Pezizaceae/Peziza_ammophila/Peziza_ammophila@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Pezizaceae/Peziza_ammophila/Peziza_ammophila@400.webp",
+  "plateCredit": {
+    "author": "Unknown; owner-supplied artwork",
+    "credit": "Existing Gemini mark retained once; not authenticated authorship.",
+    "license": "User supplied; redistribution rights not independently established",
+    "source": "supplied_original.png"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Pezizaceae/Peziza_ammophila/pa1.webp",
+      "author": "Katharine Khamhaengwong",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/327837026"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Pezizaceae/Peziza_ammophila/pa2.webp",
+      "author": "Gary Doughty",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/410572917"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Pezizaceae/Peziza_ammophila/pa3.webp",
+      "author": "empressmoth",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/138986692"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Pezizaceae/Peziza_ammophila/pa4.webp",
+      "author": "Michel Langeveld",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/307589713"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Pezizaceae/Peziza_ammophila/pa5.webp",
+      "author": "Michel Langeveld",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/249677841"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Pezizales/Pezizaceae/Peziza_ammophila/Peziza_ammophila@1600.webp",
+      "author": "Unknown; owner-supplied artwork",
+      "license": "User supplied; redistribution rights not independently established",
+      "sourceUrl": "supplied_original.png",
+      "existingMark": "Gemini; retained once, no authorship/rights authentication"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Pezizales/Pezizaceae/Peziza_ammophila/pa1.webp",
+      "author": "Katharine Khamhaengwong",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/327837026",
+      "photoUrl": "https://www.inaturalist.org/photos/593986043",
+      "attribution": "(c) Katharine Khamhaengwong, some rights reserved (CC BY)",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Pezizales/Pezizaceae/Peziza_ammophila/pa2.webp",
+      "author": "Gary Doughty",
+      "license": "CC0 1.0 Universal",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/410572917",
+      "photoUrl": "https://www.inaturalist.org/photos/755133316",
+      "attribution": "no rights reserved",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Pezizales/Pezizaceae/Peziza_ammophila/pa3.webp",
+      "author": "empressmoth",
+      "license": "CC0 1.0 Universal",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/138986692",
+      "photoUrl": "https://www.inaturalist.org/photos/237634066",
+      "attribution": "no rights reserved",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Pezizales/Pezizaceae/Peziza_ammophila/pa4.webp",
+      "author": "Michel Langeveld",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/307589713",
+      "photoUrl": "https://www.inaturalist.org/photos/554812680",
+      "attribution": "(c) Michel Langeveld, some rights reserved (CC BY)",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Pezizales/Pezizaceae/Peziza_ammophila/pa5.webp",
+      "author": "Michel Langeveld",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/249677841",
+      "photoUrl": "https://www.inaturalist.org/photos/446366818",
+      "attribution": "(c) Michel Langeveld, some rights reserved (CC BY)",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    }
+  ],
+  "synonyms": [
+    "Peziza ampliata var. ammophila (Durieu & Lév.) Quél.",
+    "Aleuria ammophila (Sacc.) Gillet",
+    "Tarzetta ammophila (Sacc.) Lambotte",
+    "Tarzetta ammophila (Durieu & Lév.) Theodor.",
+    "Geopyxis ammophila Sacc.",
+    "Sarcosphaera ammophila (Sacc.) Moesz"
+  ],
+  "fruitingFrom": 5,
+  "fruitingTo": 11,
+  "reserved": false,
+  "id": 143,
+  "added": "2026-11-09",
+  "citation": "in Durieu, Expl. Sci. Algérie, Bot. 1: tab. 28, fig. 2 (1848) [1846–49]",
+  "illustrationProvenance": {
+    "tool": "Pillow + OpenCV deterministic alpha-only segmentation; no generation",
+    "sourceFile": "Peziza ammophila.png",
+    "sourceFormat": "JPEG",
+    "sourceFormatNote": "File named .png is actually JPEG/JFIF (Exif software Picasa); no source alpha; alpha produced by segmentation of the cream paper background.",
+    "sourceDimensions": [
+      1024,
+      1024
+    ],
+    "sourceSHA256": "9e42c8826e2c4985269ec5aa49f92e87f01fdd11a224b785f78241290723353b",
+    "backgroundSHA256": "d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c",
+    "alphaPNG": "artwork_rgba.png",
+    "mask": "artwork_alpha_mask.png",
+    "cropBBox": [
+      87,
+      71,
+      961,
+      991
+    ],
+    "uniformScale": 1.6018306636155606,
+    "placement": [
+      100,
+      463
+    ],
+    "composedArtworkDimensions": [
+      1400,
+      1474
+    ],
+    "allSourceRGBChangedPixels": 0,
+    "transparentPixels": 767715,
+    "opaquePixels": 267431,
+    "partialAlphaPixels": 13430,
+    "looseSpeckPixelsKept": 0,
+    "signatureBox": [
+      840,
+      930,
+      960,
+      1000
+    ],
+    "signatureComponents": 3,
+    "signaturePixels": 575,
+    "preservedObjects": [
+      "closed young-to-opening globose apothecium with star-split margin, sandy granular exterior and short tapering stalk-like base (upper left)",
+      "cluster of several small cups with granular exteriors (upper right)",
+      "longitudinal section of an apothecium showing the dark hymenium, pale flesh and long tapering stalk-like base (centre)",
+      "existing Gemini mark"
+    ],
+    "signatureTreatment": "Existing Gemini mark retained once; zero added marks. No creator, rights or species identity inferred.",
+    "contours": [
+      {
+        "area": 80826.0,
+        "box": [
+          358,
+          458,
+          312,
+          512
+        ]
+      },
+      {
+        "area": 89900.0,
+        "box": [
+          88,
+          80,
+          336,
+          490
+        ]
+      },
+      {
+        "area": 97410.5,
+        "box": [
+          531,
+          72,
+          429,
+          357
+        ]
+      }
+    ],
+    "backgroundSourceDimensions": [
+      1067,
+      1600
+    ],
+    "backgroundCanvasDimensions": [
+      1600,
+      2400
+    ],
+    "generation": false,
+    "repainting": false,
+    "stretching": false,
+    "sourcePaperRemoved": true,
+    "visualReview": "PENDING",
+    "alphaPNGSHA256": "c606e8572fd4e5edc91c849fea5b2df6ccbea357259d9ac1b73879771d3038c4",
+    "maskSHA256": "cd4e60b5ca8bf87e72223e7ee1c8f6f11e2cf9ce38d2b12715aa5aca9a429f00",
+    "recipeSHA256": "019216462e2884dc2a7ce9c5e98b16744171f2e437c2f2499f8bcf13a3343eef",
+    "officialFiles": [
+      {
+        "path": "media/Peziza_ammophila@1600.webp",
+        "bytes": 221902,
+        "sha256": "7fc77ac3f9fea10adc04b00968e34d3c7e3238cf0a56dd313089a6ccad713d3b"
+      },
+      {
+        "path": "media/Peziza_ammophila@400.webp",
+        "bytes": 25400,
+        "sha256": "0dcb12b368fcf22b08dcf7bbea5cd64fc21f3e67e0c5b843907a63cfa145720d"
+      }
+    ],
+    "rights": "User supplied; creator, generator, authorship and redistribution rights unverified",
+    "anatomyVerified": false
+  }
+},
+{
+  "name": "Amanita strobiliformis",
+  "author": "(Paulet ex Vittad.) Bertill.",
+  "family": "Amanitaceae",
+  "genus": "Amanita",
+  "order": "Agaricales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Agaricales",
+    "Amanitaceae",
+    "Amanita"
+  ],
+  "summary": [
+    "Agaricales",
+    "Amanitaceae",
+    "Amanita"
+  ],
+  "edibility": "inedible",
+  "hymenium": "gills",
+  "where": [
+    "ground"
+  ],
+  "color": [
+    "white"
+  ],
+  "capFrom": 6.0,
+  "capTo": 15.0,
+  "stipeHeightFrom": 10.0,
+  "stipeHeightTo": 20.0,
+  "stipeThickFrom": 1.5,
+  "stipeThickTo": 4.0,
+  "label": {
+    "ar": "Amanita strobiliformis",
+    "bg": "шишарковидна мухоморка",
+    "cs": "muchomůrka šiškovitá",
+    "da": "flosset fluesvamp",
+    "de": "Fransiger Wulstling",
+    "en": "warted amanita",
+    "es": "Amanita strobiliformis",
+    "et": "loor-kärbseseen",
+    "fa": "Amanita strobiliformis",
+    "fi": "vanukärpässieni",
+    "fr": "amanite solitaire",
+    "he": "Amanita strobiliformis",
+    "hi": "Amanita strobiliformis",
+    "hr": "usamljena muhara",
+    "hu": "cafrangos galóca",
+    "id": "Amanita strobiliformis",
+    "it": "Amanita strobiliformis",
+    "ja": "Amanita strobiliformis",
+    "ko": "Amanita strobiliformis",
+    "lt": "Amanita strobiliformis",
+    "lv": "bārkstainā mušmire",
+    "nl": "franjeamaniet",
+    "no": "Amanita strobiliformis",
+    "pl": "muchomor szyszkowaty",
+    "pt": "Amanita strobiliformis",
+    "ro": "ciupercă franjurată",
+    "ru": "мухомор шишковидный",
+    "sk": "muchotrávka šiškovitá",
+    "sl": "velikoluska mušnica",
+    "sr": "брадавичава мухара",
+    "sv": "flockflugsvamp",
+    "tr": "Amanita strobiliformis",
+    "uk": "мухомор шишкоподібний",
+    "zh": "Amanita strobiliformis"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [],
+    "en": [
+      "European pine cone lepidella"
+    ],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "ar": [],
+    "bg": [
+      "https://bg.wikipedia.org/wiki/Шишарковидна_мухоморка"
+    ],
+    "cs": [
+      "https://www.myko.cz/myko-atlas/Amanita-strobiliformis/",
+      "https://cs.wikipedia.org/wiki/Muchomůrka_šiškovitá"
+    ],
+    "da": [
+      "https://svampe.databasen.org/taxonomy/10266",
+      "https://www.naturbasen.dk/art/7806/flosset-fluesvamp"
+    ],
+    "de": [
+      "https://de.wikipedia.org/wiki/Fransiger_Wulstling"
+    ],
+    "en": [
+      "https://www.first-nature.com/fungi/amanita-strobiliformis.php",
+      "http://www.amanitaceae.org/content/uploaded/legacy/strobfor.html",
+      "https://www.myko.cz/myko-atlas/Amanita-strobiliformis/",
+      "https://en.wikipedia.org/wiki/Amanita_strobiliformis",
+      "https://de.wikipedia.org/wiki/Fransiger_Wulstling",
+      "https://cs.wikipedia.org/wiki/Muchomůrka_šiškovitá",
+      "https://fr.wikipedia.org/wiki/Amanite_solitaire",
+      "https://it.wikipedia.org/wiki/Amanita_strobiliformis",
+      "https://hu.wikipedia.org/wiki/Cafrangos_galóca",
+      "https://pl.wikipedia.org/wiki/Muchomor_szyszkowaty",
+      "https://doi.org/10.1016/j.mycres.2007.08.015",
+      "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=153038",
+      "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=153038",
+      "https://www.gbif.org/species/5240217"
+    ],
+    "es": [],
+    "et": [
+      "https://et.wikipedia.org/wiki/Loor-kärbseseen"
+    ],
+    "fa": [],
+    "fi": [
+      "https://fi.wikipedia.org/wiki/Vanukärpässieni"
+    ],
+    "fr": [
+      "https://fr.wikipedia.org/wiki/Amanite_solitaire"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [
+      "https://hr.wikipedia.org/wiki/Usamljena_muhara"
+    ],
+    "hu": [
+      "https://hu.wikipedia.org/wiki/Cafrangos_galóca"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [
+      "https://www.latvijasdaba.lv/senes/amanita-strobiliformis-paulet-bertilloni/",
+      "https://lv.wikipedia.org/wiki/Bārkstainā_mušmire"
+    ],
+    "nl": [
+      "https://www.gbif.org/species/5240217"
+    ],
+    "no": [],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/Muchomor_szyszkowaty"
+    ],
+    "pt": [],
+    "ro": [
+      "https://ro.wikipedia.org/wiki/Amanita_strobiliformis"
+    ],
+    "ru": [
+      "https://ru.wikipedia.org/wiki/Мухомор_шишковидный"
+    ],
+    "sk": [
+      "https://www.nahuby.sk/atlas-hub/Amanita-strobiliformis/muchotravka-siskovita/muchomurka-siskovita/ID297"
+    ],
+    "sl": [
+      "https://sl.wikipedia.org/wiki/Velikoluska_mušnica"
+    ],
+    "sr": [
+      "https://sr.wikipedia.org/wiki/Bradavičava_muhara"
+    ],
+    "sv": [
+      "https://sv.wikipedia.org/wiki/Flockflugsvamp"
+    ],
+    "tr": [],
+    "uk": [
+      "http://gribi.net.ua/uk/amanita-strobiliformis/",
+      "https://uk.wikipedia.org/wiki/Мухомор_шишкоподібний"
+    ],
+    "zh": []
+  },
+  "text": {
+    "ar": {
+      "description": "فطر أرضي كبير ممتلئ ضارب إلى البياض، قبعته مكسوة ببقع طرية رمادية بيضاء من بقايا الغلاف، وساقه بصلية القاعدة متجذّرة عميقاً في التربة. وهو نوع أوروبي محب للدفء، شائع في أجزاء من منطقة البحر المتوسط، ومتناثر إلى نادر شمالاً حتى إنجلترا وهولندا ووسط أوروبا ومنطقة البلطيق.",
+      "cap": "يبلغ قطر القبعة ٦–١٥ cm، وأحياناً حتى ٢٥ cm، وتكون في البداية شبه كروية ثم محدّبة ثم مسطحة أو منخفضة قليلاً في النهاية. سطحها أبيض إلى قشدي، يصير من المركز رمادياً إلى بني رمادي باهت، ومغطى ببقع طرية سميكة مسطحة إلى زاويّة من الغلاف العام، بلون السطح نفسه أو أغمق، قد يجرفها المطر. والحافة غير مخططة وتتدلى منها بقايا غلاف ممزقة قطنية.",
+      "hymenium": "الصفائح حرة متزاحمة عريضة نسبياً، بيضاء في البداية ثم قشدية عند النضج، وحافتها زغبية دقيقة أو مسننة قليلاً.",
+      "stipe": "يبلغ طول الساق ١٠–٢٠ cm وسمكها ١٫٥–٤ cm، وهي بيضاء مصمتة أسطوانية، سطحها زغبي خشن إلى حرشفي دقيقي. وتنتفخ في الأسفل إلى بصلة كبيرة هراوية إلى لفتية الشكل مغروسة عميقاً في التربة، كثيراً ما تنتهي بطرف جذري قصير؛ وتحمل البصلة حلقة أو أكثر من بقايا الغلاف الرمادية، لكن لا يوجد كيس قاعدي (فولفا) على شكل جراب. والحلقة البيضاء العريضة قطنية دقيقية، مخططة من الأعلى وهشة، وكثيراً ما تتمزق أو تختفي مع التقدم في العمر.",
+      "flesh": "بيضاء سميكة متماسكة، لا يتغير لونها عند القطع. الرائحة غير مميزة أو تشبه الفجل قليلاً، وتوصف أحياناً بأنها جوزية لطيفة، وتصبح كريهة مع التقدم في العمر.",
+      "sporePrint": "طبعة الأبواغ بيضاء. الأبواغ إهليلجية عريضة، ملساء، شفافة، أميلويدية، ٩–١٣٫٥ × ٦–٨٫٥ µm.",
+      "habitat": "فطر جذري خارجي مع الأشجار عريضة الأوراق، ولا سيما البلوط والشَّوبك (الكاربينوس) والزان والزيزفون (Tilia)، وكذلك البندق. ينمو منفرداً أو في مجموعات صغيرة في الغابات الدافئة المفتوحة وعلى أطراف الغابات وفي الحدائق والشوارع المشجّرة وغيرها من المساحات الخضراء الحضرية، دائماً تقريباً على تربة كلسية أو قاعدية. يثمر من يونيو إلى نوفمبر، ومعظمه من يوليو إلى سبتمبر.",
+      "uses": "غير صالح للأكل. تعدّه المؤلفات الفرنسية والألمانية والإيطالية القديمة صالحاً للأكل، أما المؤلفات الحديثة في وسط أوروبا فتنصح بعدم أكله، إذ إنه سامّ قليلاً وهو نيء، كما أُفيد بوجود حمض الإيبوتينيك والموسيمول فيه دون تأكيد. كما أن لونه الأبيض وحلقته وقاعدته البصلية تجعل الخلط بينه وبين أنواع Amanita البيضاء القاتلة خطراً جسيماً.",
+      "confusion": "Amanita echinocephala أصغر عادة، وعلى قبعتها ثآليل منتصبة مدببة هرمية الشكل، وكثيراً ما يكون لصفائحها مسحة مخضرّة. أما Amanita vittadinii فساقها مكسوة بكثافة بحراشف بارزة، وليس لها بصلة منتفخة، وتنمو في العشب، غالباً في حدائق المدن. ولـ Amanita ovoidea بقع قليلة على القبعة وحافة دقيقية وكيس قاعدي كبير أبيض إلى قشدي مغرّي. أما Amanita virosa القاتلة فلها عادة قبعة ملساء عارية وكيس قاعدي جرابي. وللشكل الأبيض من Amanita citrina بقع أكثر تسطحاً على القبعة وساق أنعم ذات حلقة دائمة ورائحة البطاطس النيئة.",
+      "notes": "يراكم الفضة بدرجة فائقة، فيركّزها في أجسامه الثمرية بمستويات تفوق كثيراً مستوياتها في التربة المحيطة. ويبدو أنه ينتشر نحو الشمال ويُعثر عليه بشكل متزايد في المدن، ولا سيما تحت أشجار الزيزفون، ومع ذلك فهو مدرج في القوائم الحمراء لعدة دول أوروبية، منها بولندا والتشيك والدنمارك والسويد.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Голяма, масивна, белезникава гъба, растяща по почвата, с шапка, покрита с меки сивобели парчета от було, и с дълбоко вкоренено, грудесто пънче. Топлолюбив европейски вид, на места чест в части от Средиземноморието, а на север разпръснат до рядък чак до Англия, Нидерландия, Централна Европа и Балтийския регион.",
+      "cap": "Шапката е 6–15 cm в диаметър, по изключение до 25 cm, отначало почти кълбовидна, после изпъкнала и накрая плоска или леко вдлъбната. Повърхността е бяла до кремава, от центъра сивкава до бледо сивокафява, покрита с меки, дебели, плоски до ъгловати парчета от общото було със същия или по-тъмен цвят, които дъждът може да отмие. Ръбът не е набразден и по него висят разкъсани, памукообразни остатъци от було.",
+      "hymenium": "Пластинките са свободни, гъсти и доста широки, отначало бели, при зрялост кремави, с фино люспест или леко назъбен ръб.",
+      "stipe": "Пънчето е дълго 10–20 cm и дебело 1,5–4 cm, бяло, плътно и цилиндрично, с грубо люспеста до брашнесто-люспеста повърхност. Надолу преминава в голяма боздуганеста до репичковидна грудка, дълбоко потънала в почвата и често завършваща с къс коренообразен връх; грудката носи един или няколко пояса от сивкави остатъци от було, но няма торбовидна волва. Широкият бял пръстен е памукообразен и брашнест, отгоре набразден и крехък и с възрастта често се разкъсва или изчезва.",
+      "flesh": "Бяло, дебело и плътно, при разрязване не променя цвета си. Мирисът е неопределен или слабо на репичка, понякога описван като приятно орехов, и с възрастта става неприятен.",
+      "sporePrint": "Спорите на маса са бели. Спорите са широко елипсоидни, гладки, хиалинни и амилоидни, 9–13,5 × 6–8,5 µm.",
+      "habitat": "Образува ектомикориза с широколистни дървета, особено с дъб, габър, бук и липа (Tilia), а също и с леска. Расте поединично или на малки групи в топли, светли гори, по горски окрайнини и в паркове, алеи и други градски зелени площи, почти винаги на варовита или основна почва. Плододава от юни до ноември, най-често от юли до септември.",
+      "uses": "Негодна за ядене. По-стари френски, немски и италиански трудове я посочват като ядлива, но по-нови средноевропейски трудове съветват да не се яде, тъй като в сурово състояние е слабо отровна; съобщавани са в нея и иботенова киселина и мусцимол, но това не е потвърдено. Белият цвят, пръстенът и грудестата основа освен това правят объркването със смъртоносно отровни бели видове от род Amanita сериозна опасност.",
+      "confusion": "Amanita echinocephala обикновено е по-малка, има по шапката изправени, заострени, пирамидални брадавици и често пластинки със зеленикав оттенък. Amanita vittadinii има пънче, гъсто покрито с щръкнали люспи, няма задебелена грудка и расте в тревата, често в градски паркове. Amanita ovoidea има малко парчета по шапката, брашнест ръб и голяма бяла до охренокремава волва. Смъртоносно отровната Amanita virosa обикновено има гладка, гола шапка и торбовидна волва. Бялата форма на Amanita citrina има по-плоски парчета по шапката, по-гладко пънче с траен пръстен и мирис на суров картоф.",
+      "notes": "Хиперакумулира сребро и го концентрира в плодните тела далеч над нивата в околната почва. Изглежда, че се разпространява на север и все по-често се намира в градове, особено под липи, но въпреки това е включена в червените списъци на няколко европейски държави, сред които Полша, Чехия, Дания и Швеция.",
+      "names": [],
+      "sourceUrls": [
+        "https://bg.wikipedia.org/wiki/Шишарковидна_мухоморка"
+      ],
+      "label": "шишарковидна мухоморка"
+    },
+    "cs": {
+      "description": "Velká, mohutná, bělavá houba rostoucí na zemi, s kloboukem pokrytým měkkými šedobílými zbytky vela a s hluboko kořenující hlízovitou třeni. Je to teplomilný evropský druh, místy hojný ve Středomoří a směrem k severu roztroušený až vzácný až po Anglii, Nizozemsko, střední Evropu a Pobaltí.",
+      "cap": "Klobouk je široký 6–15 cm, výjimečně až 25 cm, zprvu téměř kulovitý, pak klenutý a nakonec plochý nebo mírně vmáčklý. Povrch je bílý až krémový, od středu šedavý až světle šedohnědý, pokrytý měkkými, tlustými, plochými až hranatými kusy celkového vela stejné nebo tmavší barvy, které může smýt déšť. Okraj není rýhovaný a visí z něj roztrhané, vatovité zbytky vela.",
+      "hymenium": "Lupeny jsou volné, husté a poměrně široké, zprvu bílé, v dospělosti krémové, s jemně vločkatým nebo slabě zoubkatým ostřím.",
+      "stipe": "Třeň je 10–20 cm dlouhý a 1,5–4 cm tlustý, bílý, plný a válcovitý, s hrubě vločkatým až moučnatě šupinatým povrchem. Dole přechází ve velkou kyjovitou až řepovitou hlízu hluboko zanořenou v půdě, často zakončenou krátkou kořenovitou špičkou; hlíza nese jeden nebo více kroužků šedavých zbytků vela, ale žádnou vakovitou pochvu. Široký bílý prsten je vatovitý a moučnatý, na horní straně rýhovaný a křehký a se stářím se často roztrhá nebo zmizí.",
+      "flesh": "Bílá, tlustá a pevná, na řezu nemění barvu. Vůně je nevýrazná nebo slabě ředkvičková, někdy popisovaná jako příjemně oříšková, se stářím se stává nepříjemnou.",
+      "sporePrint": "Výtrusný prach bílý. Výtrusy jsou široce elipsoidní, hladké, hyalinní a amyloidní, 9–13,5 × 6–8,5 µm.",
+      "habitat": "Ektomykorhizní s listnatými stromy, zejména s dubem, habrem, bukem a lípou (Tilia), také s lískou. Roste jednotlivě nebo v malých skupinách v teplých, světlých lesích, na okrajích lesů a v parcích, alejích a jiné městské zeleni, téměř vždy na vápnité nebo zásadité půdě. Plodnice tvoří od června do listopadu, nejčastěji od července do září.",
+      "uses": "Nejedlá. Starší francouzská, německá a italská díla ji uvádějí jako jedlou, novější středoevropská díla však od jejího pojídání odrazují, protože je za syrova slabě jedovatá; uváděla se v ní i kyselina ibotenová a muscimol, což však nebylo potvrzeno. Bílá barva, prsten a hlízovitá báze navíc činí záměnu se smrtelně jedovatými bílými druhy rodu Amanita vážným nebezpečím.",
+      "confusion": "Amanita echinocephala je obvykle menší, má na klobouku vzpřímené, špičaté, jehlanovité bradavky a lupeny často se zelenavým nádechem. Amanita vittadinii má třeň hustě pokrytý odstávajícími šupinami, nemá ztlustlou hlízu a roste v trávě, často v městských parcích. Amanita ovoidea má na klobouku málo zbytků vela, moučnatý okraj a velkou bílou až okrově krémovou pochvu. Smrtelně jedovatá Amanita virosa má obvykle hladký, holý klobouk a vakovitou pochvu. Bílá forma Amanita citrina má plošší zbytky vela na klobouku, hladší třeň s trvalým prstenem a pach syrových brambor.",
+      "notes": "Hyperakumuluje stříbro a koncentruje ho v plodnicích vysoko nad úroveň v okolní půdě. Zdá se, že se šíří na sever a stále častěji se nachází ve městech, zejména pod lípami, přesto je v několika evropských zemích včetně Polska, Česka, Dánska a Švédska zařazena do červených seznamů.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.myko.cz/myko-atlas/Amanita-strobiliformis/",
+        "https://cs.wikipedia.org/wiki/Muchomůrka_šiškovitá"
+      ],
+      "label": "muchomůrka šiškovitá"
+    },
+    "da": {
+      "description": "En stor, kraftig, hvidlig svamp på jorden med en hat dækket af bløde gråhvide velumflager og en dybt rodende, knoldet stok. Det er en varmekrævende europæisk art, almindelig i dele af Middelhavsområdet og mod nord spredt til sjælden helt op til England, Nederlandene, Mellemeuropa og Baltikum.",
+      "cap": "Hatten er 6–15 cm bred, undertiden op til 25 cm, først næsten kugleformet, så hvælvet og til sidst flad eller let nedtrykt. Overfladen er hvid til cremefarvet, fra midten grålig til bleg gråbrun, og dækket af bløde, tykke, flade til kantede flager af det almindelige velum i samme eller mørkere farve, som regn kan skylle af. Randen er ikke riflet og behængt med laset, vattet velumrester.",
+      "hymenium": "Lamellerne er fri, tætte og ret brede, først hvide og som modne cremefarvede, med fint fnugget eller let tandet æg.",
+      "stipe": "Stokken er 10–20 cm lang og 1,5–4 cm tyk, hvid, fyldt og cylindrisk, med groft fnugget til melet-skællet overflade. Forneden går den over i en stor kølle- til roeformet knold, der sidder dybt i jorden og ofte ender i en kort rodagtig spids; knolden bærer en eller flere ringe af grålige velumrester, men ingen sækformet volva. Den brede hvide ring er vattet og melet, riflet på oversiden og skrøbelig og rives ofte i stykker eller forsvinder med alderen.",
+      "flesh": "Hvidt, tykt og fast, uforanderligt ved snit. Lugten er ubetydelig eller svagt af radise, undertiden beskrevet som behageligt nøddeagtig, og bliver ubehagelig med alderen.",
+      "sporePrint": "Sporepulver hvidt. Sporerne er bredt ellipsoide, glatte, hyaline og amyloide, 9–13,5 × 6–8,5 µm.",
+      "habitat": "Danner ektomykorrhiza med løvtræer, især eg, avnbøg, bøg og lind (Tilia), samt hassel. Den vokser enkeltvis eller i små grupper i varme, lyse skove, i skovbryn og i parker, alléer og andre bynære grønne områder, næsten altid på kalkrig eller basisk jord. Den frugter fra juni til november, mest fra juli til september.",
+      "uses": "Uspiselig. Ældre franske, tyske og italienske værker angiver den som spiselig, men nyere mellemeuropæiske værker fraråder at spise den, da den er svagt giftig rå; der er også angivet ibotensyre og muscimol i den, men det er ikke bekræftet. Den hvide farve, ringen og den knoldede fod gør desuden forveksling med dødeligt giftige hvide Amanita-arter til en alvorlig fare.",
+      "confusion": "Amanita echinocephala er som regel mindre, har opretstående, spidse, pyramideformede vorter på hatten og ofte lameller med et grønligt skær. Amanita vittadinii har en stok tæt dækket af udstående skæl, ingen opsvulmet knold og vokser i græs, ofte i byparker. Amanita ovoidea har få flager på hatten, en melet rand og en stor hvid til okkercreme volva. Den dødeligt giftige Amanita virosa har som regel en glat, nøgen hat og en sækformet volva. Den hvide form af Amanita citrina har fladere flager på hatten, en glattere stok med blivende ring og lugt af rå kartoffel.",
+      "notes": "Den hyperakkumulerer sølv og koncentrerer det i frugtlegemerne langt over niveauet i den omgivende jord. Den ser ud til at brede sig mod nord og findes i stigende grad i byer, især under lindetræer, men den står alligevel på rødlisten i flere europæiske lande, blandt andet Polen, Tjekkiet, Danmark og Sverige.",
+      "names": [],
+      "sourceUrls": [
+        "https://svampe.databasen.org/taxonomy/10266",
+        "https://www.naturbasen.dk/art/7806/flosset-fluesvamp"
+      ],
+      "label": "flosset fluesvamp"
+    },
+    "de": {
+      "description": "Ein großer, kräftiger, weißlicher Bodenpilz mit einem Hut, der von weichen grauweißen Velumflocken bedeckt ist, und einem tief wurzelnden, knolligen Stiel. Er ist eine wärmeliebende europäische Art, in Teilen des Mittelmeerraums häufig und nach Norden zerstreut bis selten bis nach England, in die Niederlande, nach Mitteleuropa und ins Baltikum.",
+      "cap": "Der Hut misst 6–15 cm, gelegentlich bis 25 cm, ist zuerst fast kugelig, dann gewölbt und schließlich flach oder leicht niedergedrückt. Die Oberfläche ist weiß bis cremefarben, von der Mitte her gräulich bis blass graubraun, und mit weichen, dicken, flachen bis eckigen Flocken der Gesamthülle von gleicher oder dunklerer Farbe bedeckt, die der Regen abwaschen kann. Der Rand ist nicht gerieft und mit zerrissenen, watteartigen Velumresten behangen.",
+      "hymenium": "Die Lamellen sind frei, gedrängt und ziemlich breit, zuerst weiß und reif cremefarben, mit fein flockiger oder leicht gezähnelter Schneide.",
+      "stipe": "Der Stiel ist 10–20 cm lang und 1,5–4 cm dick, weiß, voll und zylindrisch, mit grob flockiger bis mehlig-schuppiger Oberfläche. Unten geht er in eine große keulen- bis rübenförmige Knolle über, die tief im Boden steckt und oft in einer kurzen wurzelartigen Spitze endet; die Knolle trägt einen oder mehrere Gürtel aus gräulichen Velumresten, aber keine sackartige Volva. Der breite weiße Ring ist watteartig und mehlig, oberseits gerieft und zerbrechlich und reißt im Alter oft ein oder verschwindet.",
+      "flesh": "Weiß, dick und fest, im Schnitt unveränderlich. Der Geruch ist unbedeutend oder schwach rettichartig, wird teils als angenehm nussartig beschrieben und wird im Alter unangenehm.",
+      "sporePrint": "Sporenpulver weiß. Die Sporen sind breit ellipsoid, glatt, hyalin und amyloid, 9–13,5 × 6–8,5 µm.",
+      "habitat": "Ektomykorrhizapilz von Laubbäumen, besonders Eiche, Hainbuche, Rotbuche und Linde (Tilia), auch Hasel. Er wächst einzeln oder in kleinen Gruppen in warmen, lichten Wäldern, an Waldrändern und in Parks, Alleen und anderen städtischen Grünflächen, fast immer auf kalkhaltigem oder basischem Boden. Er fruchtet von Juni bis November, meist von Juli bis September.",
+      "uses": "Ungenießbar. Ältere französische, deutsche und italienische Werke führen ihn als essbar, neuere mitteleuropäische Werke raten dagegen vom Verzehr ab, da er roh schwach giftig ist; auch Ibotensäure und Muscimol wurden für ihn angegeben, aber nicht bestätigt. Die weiße Farbe, der Ring und die knollige Basis machen zudem eine Verwechslung mit tödlich giftigen weißen Amanita-Arten zu einer ernsten Gefahr.",
+      "confusion": "Amanita echinocephala ist meist kleiner, trägt auf dem Hut aufrechte, spitze, pyramidenförmige Warzen und hat oft grünlich getönte Lamellen. Amanita vittadinii hat einen dicht mit abstehenden Schuppen besetzten Stiel, keine verdickte Knolle und wächst im Gras, oft in städtischen Parks. Amanita ovoidea hat auf dem Hut nur wenige Velumreste, einen mehligen Rand und eine große weiße bis ockercremefarbene Volva. Die tödlich giftige Amanita virosa hat meist einen glatten, kahlen Hut und eine sackartige Volva. Die weiße Form von Amanita citrina hat flachere Velumreste auf dem Hut, einen glatteren Stiel mit bleibendem Ring und riecht nach rohen Kartoffeln.",
+      "notes": "Er hyperakkumuliert Silber und reichert es in den Fruchtkörpern weit über die Werte im umgebenden Boden an. Er scheint sich nach Norden auszubreiten und wird zunehmend in Städten gefunden, besonders unter Linden, steht aber in mehreren europäischen Ländern auf der Roten Liste, darunter Polen, Tschechien, Dänemark und Schweden.",
+      "names": [],
+      "sourceUrls": [
+        "https://de.wikipedia.org/wiki/Fransiger_Wulstling"
+      ],
+      "label": "Fransiger Wulstling"
+    },
+    "en": {
+      "description": "A large, stout, whitish ground-dwelling mushroom with a cap clad in soft grey-white veil patches and a deeply rooting, bulbous stem. It is a warmth-loving European species, frequent in parts of the Mediterranean region and scattered to rare northwards to England, the Netherlands, Central Europe and the Baltic region.",
+      "cap": "The cap is 6–15 cm across, occasionally up to 25 cm, at first almost globose, then convex and finally flat or slightly depressed. The surface is white to cream, becoming greyish to pale greyish brown from the centre, and is covered with soft, thick, flat to angular patches of the universal veil, the same colour or darker, which rain can wash away. The margin is not striate and is hung with ragged, cottony veil remnants.",
+      "hymenium": "The gills are free, crowded and fairly broad, white at first and cream when mature, with a finely floccose or slightly toothed edge.",
+      "stipe": "The stipe is 10–20 cm long and 1.5–4 cm thick, white, solid and cylindrical, with a coarsely floccose to mealy-scaly surface. Below, it swells into a large club- to turnip-shaped bulb sunk deep in the soil, often ending in a short rooting point; the bulb bears one or more rings of greyish veil remnants but no sac-like volva. The broad white ring is cottony and mealy, striate on the upper side and fragile, and often tears or disappears with age.",
+      "flesh": "White, thick and firm, not changing colour when cut. The smell is indistinct or faintly of radish, sometimes described as pleasantly nutty, and becomes unpleasant with age.",
+      "sporePrint": "Spore deposit white. Spores are broadly ellipsoid, smooth, hyaline and amyloid, 9–13.5 × 6–8.5 µm.",
+      "habitat": "Ectomycorrhizal with broadleaf trees, especially oak, hornbeam, beech and lime (Tilia), and also hazel. It grows singly or in small groups in warm, open woodland, at woodland edges and in parks, avenues and other urban green spaces, almost always on calcareous or basic soil. It fruits from June to November, mostly from July to September.",
+      "uses": "Inedible. Older French, German and Italian works list it as edible, but recent Central European works advise against eating it, as it is mildly poisonous raw; ibotenic acid and muscimol have also been reported in it but not confirmed. Its white colour, ring and bulbous base also make confusion with deadly white Amanita species a serious danger.",
+      "confusion": "Amanita echinocephala is usually smaller and has erect, pointed, pyramidal warts on the cap and often a greenish tint to the gills. Amanita vittadinii has a stem densely covered with projecting scales, no swollen bulb, and grows in grass, often in town parks. Amanita ovoidea has few patches on the cap, a mealy margin and a large white to ochre-cream volva. The deadly Amanita virosa usually has a smooth, bare cap and a sac-like volva. The white form of Amanita citrina has flatter cap patches, a smoother stem with a persistent ring and a smell of raw potato.",
+      "notes": "It hyperaccumulates silver, concentrating it in the fruit bodies far above the levels in the surrounding soil. It appears to be spreading northwards and is increasingly found in towns, especially under lime trees, yet it is red-listed in several European countries, including Poland, Czechia, Denmark and Sweden.",
+      "names": [
+        "European pine cone lepidella"
+      ],
+      "sourceUrls": [
+        "https://www.first-nature.com/fungi/amanita-strobiliformis.php",
+        "http://www.amanitaceae.org/content/uploaded/legacy/strobfor.html",
+        "https://www.myko.cz/myko-atlas/Amanita-strobiliformis/",
+        "https://en.wikipedia.org/wiki/Amanita_strobiliformis",
+        "https://de.wikipedia.org/wiki/Fransiger_Wulstling",
+        "https://cs.wikipedia.org/wiki/Muchomůrka_šiškovitá",
+        "https://fr.wikipedia.org/wiki/Amanite_solitaire",
+        "https://it.wikipedia.org/wiki/Amanita_strobiliformis",
+        "https://hu.wikipedia.org/wiki/Cafrangos_galóca",
+        "https://pl.wikipedia.org/wiki/Muchomor_szyszkowaty",
+        "https://doi.org/10.1016/j.mycres.2007.08.015",
+        "https://www.indexfungorum.org/Names/NamesRecord.asp?RecordID=153038",
+        "https://www.speciesfungorum.org/names/Synonymy.asp?RecordID=153038",
+        "https://www.gbif.org/species/5240217"
+      ],
+      "label": "warted amanita"
+    },
+    "es": {
+      "description": "Una seta terrícola grande, robusta y blanquecina, con el sombrero cubierto de placas blandas de velo gris blanquecino y un pie bulboso profundamente enraizado. Es una especie europea termófila, frecuente en partes de la región mediterránea y dispersa a rara hacia el norte hasta Inglaterra, los Países Bajos, Europa central y la región báltica.",
+      "cap": "El sombrero mide 6–15 cm de diámetro, a veces hasta 25 cm; al principio es casi globoso, luego convexo y finalmente plano o algo deprimido. La superficie es blanca a crema, grisácea a pardo grisácea pálida desde el centro, y está cubierta de placas blandas, gruesas, planas a angulosas de velo general, del mismo color o más oscuras, que la lluvia puede arrastrar. El margen no es estriado y lleva restos de velo algodonosos y desgarrados.",
+      "hymenium": "Las láminas son libres, apretadas y bastante anchas, blancas al principio y crema en la madurez, con la arista finamente flocosa o algo dentada.",
+      "stipe": "El pie mide 10–20 cm de largo y 1,5–4 cm de grosor; es blanco, macizo y cilíndrico, con la superficie groseramente flocosa a harinoso-escamosa. Abajo se ensancha en un gran bulbo claviforme o napiforme hundido profundamente en el suelo, que a menudo termina en una corta punta radicante; el bulbo lleva uno o varios anillos de restos grisáceos del velo, pero no una volva en saco. El amplio anillo blanco es algodonoso y harinoso, estriado por encima y frágil, y con la edad a menudo se rompe o desaparece.",
+      "flesh": "Blanca, gruesa y firme, inmutable al corte. El olor es indistinto o débilmente a rábano, a veces descrito como agradable a avellana, y se vuelve desagradable con la edad.",
+      "sporePrint": "Esporada blanca. Esporas anchamente elipsoidales, lisas, hialinas y amiloides, 9–13,5 × 6–8,5 µm.",
+      "habitat": "Ectomicorrícica con frondosas, sobre todo robles, carpes, hayas y tilos (Tilia), y también avellanos. Crece aislada o en pequeños grupos en bosques cálidos y claros, en lindes de bosque y en parques, avenidas y otras zonas verdes urbanas, casi siempre sobre suelo calizo o básico. Fructifica de junio a noviembre, sobre todo de julio a septiembre.",
+      "uses": "No comestible. Obras francesas, alemanas e italianas antiguas la citan como comestible, pero obras recientes de Europa central desaconsejan consumirla, ya que es ligeramente tóxica en crudo; también se ha señalado en ella ácido iboténico y muscimol, sin confirmación. Además, su color blanco, su anillo y su base bulbosa hacen de la confusión con especies blancas mortales del género Amanita un peligro serio.",
+      "confusion": "Amanita echinocephala suele ser más pequeña, tiene en el sombrero verrugas erectas, puntiagudas y piramidales y a menudo láminas con tono verdoso. Amanita vittadinii tiene el pie densamente cubierto de escamas salientes, sin bulbo engrosado, y crece en la hierba, a menudo en parques urbanos. Amanita ovoidea tiene pocas placas en el sombrero, un margen harinoso y una gran volva blanca a crema ocrácea. La mortal Amanita virosa suele tener el sombrero liso y desnudo y una volva en saco. La forma blanca de Amanita citrina tiene placas más planas en el sombrero, un pie más liso con anillo persistente y olor a patata cruda.",
+      "notes": "Hiperacumula plata y la concentra en los cuerpos fructíferos muy por encima de los niveles del suelo circundante. Parece estar extendiéndose hacia el norte y se encuentra cada vez más en ciudades, sobre todo bajo tilos, pero figura en las listas rojas de varios países europeos, entre ellos Polonia, Chequia, Dinamarca y Suecia.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Suur, jässakas, valkjas maapinnal kasvav seen, mille kübarat katavad pehmed hallikasvalged loorilaigud ja mille jalg on sügavale juurduv ja mugulaga. See on soojalembene Euroopa liik, mis on Vahemere piirkonna osades sage ning põhja pool hajus kuni haruldane kuni Inglismaa, Madalmaade, Kesk-Euroopa ja Baltikumini.",
+      "cap": "Kübar on 6–15 cm lai, mõnikord kuni 25 cm, algul peaaegu kerajas, siis kumer ja lõpuks lame või veidi lohkjas. Pind on valge kuni kreemjas, keskelt hallikas kuni kahvatu hallikaspruun ning kaetud üldloori pehmete, paksude, lamedate kuni nurgeliste sama värvi või tumedamate laikudega, mida vihm võib maha uhtuda. Serv ei ole vagune ja sellelt ripuvad räbaldunud, vatjad loorijäänused.",
+      "hymenium": "Eoslehed on vabad, tihedad ja üsna laiad, algul valged ja küpsena kreemjad, peenelt helbelise või kergelt hambulise servaga.",
+      "stipe": "Jalg on 10–20 cm pikk ja 1,5–4 cm paks, valge, täidisega ja silinderjas, jämedalt helbelise kuni jahuja-soomuselise pinnaga. Allapoole läheb see üle suureks nui- kuni naerikujuliseks mugulaks, mis on sügaval mullas ja lõpeb sageli lühikese juurja otsaga; mugulal on üks või mitu vööd hallikaid loorijäänuseid, kuid kotjat tuppe ei ole. Lai valge rõngas on vatjas ja jahujas, ülaküljelt vaoline ja habras ning rebeneb või kaob vanusega sageli.",
+      "flesh": "Valge, paks ja tihke, lõikekohal värvi ei muuda. Lõhn on ebamäärane või nõrgalt rõikane, mõnikord kirjeldatud meeldivalt pähklisena, ja muutub vanusega ebameeldivaks.",
+      "sporePrint": "Eospulber valge. Eosed on laialt ellipsoidsed, siledad, hüaliinsed ja amüloidsed, 9–13,5 × 6–8,5 µm.",
+      "habitat": "Moodustab ektomükoriisa lehtpuudega, eriti tamme, valgepöögi, pöögi ja pärnaga (Tilia), samuti sarapuuga. Kasvab üksikult või väikeste rühmadena soojades valgusrikastes metsades, metsaservadel ning parkides, alleedel ja muudel linnahaljasaladel, peaaegu alati lubjarikkal või aluselisel mullal. Viljakehi moodustab juunist novembrini, peamiselt juulist septembrini.",
+      "uses": "Mittesöödav. Vanemad Prantsuse, Saksa ja Itaalia teosed peavad seda söödavaks, kuid uuemad Kesk-Euroopa teosed soovitavad seda mitte süüa, sest toorelt on see nõrgalt mürgine; selles on teatatud ka iboteenhappest ja muskimoolist, kuid seda pole kinnitatud. Lisaks teevad valge värvus, rõngas ja mugulaga alus segiajamise surmavalt mürgiste valgete Amanita liikidega tõsiseks ohuks.",
+      "confusion": "Amanita echinocephala on tavaliselt väiksem, kübaral on püstised, teravad, püramiidjad tüükad ja eoslehtedel sageli rohekas toon. Amanita vittadinii jalg on tihedalt kaetud eemalehoidvate soomustega, tal puudub jämenenud mugul ja ta kasvab rohus, sageli linnaparkides. Amanita ovoidea kübaral on vähe laike, serv on jahujas ning tupp suur, valge kuni ookerkreemjas. Surmavalt mürgisel Amanita virosa liigil on tavaliselt sile, paljas kübar ja kotjas tupp. Amanita citrina valgel vormil on kübaral lamedamad laigud, siledam jalg püsiva rõngaga ja toore kartuli lõhn.",
+      "notes": "See hüperakumuleerib hõbedat, koondades seda viljakehadesse palju suuremas kontsentratsioonis kui ümbritsevas mullas. Näib, et see levib põhja poole ja seda leitakse üha sagedamini linnadest, eriti pärnade alt, kuid siiski on see mitme Euroopa riigi punases nimestikus, sealhulgas Poolas, Tšehhis, Taanis ja Rootsis.",
+      "names": [],
+      "sourceUrls": [
+        "https://et.wikipedia.org/wiki/Loor-kärbseseen"
+      ],
+      "label": "loor-kärbseseen"
+    },
+    "fa": {
+      "description": "قارچی خاکزی، بزرگ، تنومند و سفیدفام با کلاهکی پوشیده از لکه‌های نرم خاکستری‌سفید بازمانده از پوشش و پایه‌ای پیازی که عمیقاً در خاک ریشه دوانده است. این گونه‌ای اروپایی و گرمادوست است که در بخش‌هایی از منطقهٔ مدیترانه فراوان است و به سمت شمال تا انگلستان، هلند، اروپای مرکزی و منطقهٔ بالتیک پراکنده تا کمیاب است.",
+      "cap": "قطر کلاهک ۶–۱۵ cm و گاهی تا ۲۵ cm است؛ ابتدا تقریباً کروی، سپس محدب و سرانجام صاف یا کمی فرورفته می‌شود. سطح آن سفید تا کرم است، از مرکز خاکستری تا قهوه‌ای خاکستری کم‌رنگ می‌شود و با لکه‌های نرم، ضخیم، تخت تا زاویه‌دار پوشش عمومی به همان رنگ یا تیره‌تر پوشیده است که باران می‌تواند آن‌ها را بشوید. حاشیه شیاردار نیست و بقایای پاره‌پاره و پنبه‌ای پوشش از آن آویزان است.",
+      "hymenium": "تیغه‌ها آزاد، فشرده و نسبتاً پهن‌اند، ابتدا سفید و در بلوغ کرم، با لبه‌ای ریز پرزدار یا اندکی دندانه‌دار.",
+      "stipe": "پایه ۱۰–۲۰ cm طول و ۱٫۵–۴ cm ضخامت دارد، سفید، توپر و استوانه‌ای است و سطحی درشت‌پرزدار تا آردی‌فلس‌دار دارد. در پایین به پیازی بزرگ گرزی تا شلغمی‌شکل پهن می‌شود که عمیقاً در خاک فرو رفته و اغلب به نوکی کوتاه و ریشه‌مانند ختم می‌شود؛ روی پیاز یک یا چند حلقه از بقایای خاکستری پوشش دیده می‌شود، اما ولوای کیسه‌ای وجود ندارد. حلقهٔ پهن سفید پنبه‌ای و آردی است، در سطح بالایی شیاردار و شکننده است و با افزایش سن اغلب پاره می‌شود یا از بین می‌رود.",
+      "flesh": "سفید، ضخیم و سفت، در برش تغییر رنگ نمی‌دهد. بو نامشخص یا اندکی شبیه تربچه است، گاهی خوشایند و فندقی توصیف می‌شود و با افزایش سن ناخوشایند می‌شود.",
+      "sporePrint": "اثر هاگ سفید. هاگ‌ها بیضوی پهن، صاف، شفاف و آمیلوئیدند، ۹–۱۳٫۵ × ۶–۸٫۵ µm.",
+      "habitat": "با درختان پهن‌برگ، به‌ویژه بلوط، ممرز، راش و نمدار (Tilia) و همچنین فندق، قارچ‌ریشهٔ بیرونی تشکیل می‌دهد. به‌صورت تکی یا در گروه‌های کوچک در جنگل‌های گرم و باز، در حاشیهٔ جنگل‌ها و در پارک‌ها، خیابان‌های درخت‌کاری‌شده و دیگر فضاهای سبز شهری، تقریباً همیشه روی خاک آهکی یا بازی می‌روید. از ژوئن تا نوامبر و بیشتر از ژوئیه تا سپتامبر میوه می‌دهد.",
+      "uses": "ناخوراکی. آثار قدیمی‌تر فرانسوی، آلمانی و ایتالیایی آن را خوراکی دانسته‌اند، اما آثار جدید اروپای مرکزی خوردن آن را توصیه نمی‌کنند، زیرا در حالت خام اندکی سمی است؛ وجود اسید ایبوتنیک و موسیمول نیز در آن گزارش شده، اما تأیید نشده است. افزون بر این، رنگ سفید، حلقه و پایهٔ پیازی آن اشتباه گرفتنش با گونه‌های سفید و کشندهٔ Amanita را به خطری جدی تبدیل می‌کند.",
+      "confusion": "Amanita echinocephala معمولاً کوچک‌تر است، روی کلاهک زگیل‌های راست، نوک‌تیز و هرمی دارد و تیغه‌هایش اغلب ته‌رنگ سبز دارند. پایهٔ Amanita vittadinii به‌طور فشرده از فلس‌های برجسته پوشیده است، پیاز متورم ندارد و در چمن، اغلب در پارک‌های شهری، می‌روید. Amanita ovoidea لکه‌های کمی روی کلاهک، حاشیه‌ای آردی و ولوایی بزرگ، سفید تا کرم اخرایی دارد. Amanita virosa کشنده معمولاً کلاهکی صاف و برهنه و ولوایی کیسه‌ای دارد. فرم سفید Amanita citrina لکه‌های تخت‌تری روی کلاهک، پایه‌ای صاف‌تر با حلقهٔ ماندگار و بوی سیب‌زمینی خام دارد.",
+      "notes": "نقره را به‌شدت انباشته می‌کند و آن را در اندام‌های بارده بسیار فراتر از سطح آن در خاک پیرامون متمرکز می‌سازد. به نظر می‌رسد که به سمت شمال گسترش می‌یابد و به‌طور فزاینده در شهرها، به‌ویژه زیر درختان نمدار، یافت می‌شود، با این حال در فهرست‌های قرمز چندین کشور اروپایی، از جمله لهستان، چک، دانمارک و سوئد، قرار دارد.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Suuri, tanakka, vaalea maassa kasvava sieni, jonka lakkia peittävät pehmeät harmaanvalkoiset suojuslaikut ja jonka jalka on syvälle juurehtiva ja mukulainen. Se on lämpöä vaativa eurooppalainen laji, joka on yleinen osissa Välimeren aluetta ja pohjoista kohti hajanainen tai harvinainen aina Englantiin, Alankomaihin, Keski-Eurooppaan ja Baltiaan asti.",
+      "cap": "Lakki on 6–15 cm leveä, joskus jopa 25 cm, aluksi lähes pallomainen, sitten kupera ja lopulta tasainen tai hieman painunut. Pinta on valkoinen tai kermanvärinen, keskeltä harmahtava tai vaalean harmaanruskea, ja sitä peittävät yleissuojuksen pehmeät, paksut, litteät tai kulmikkaat samanväriset tai tummemmat laikut, jotka sade voi huuhtoa pois. Reuna ei ole juovainen, ja siitä riippuu repaleisia, vanumaisia suojusjäänteitä.",
+      "hymenium": "Heltat ovat vapaat, tiheät ja melko leveät, aluksi valkoiset ja kypsinä kermanväriset, ja niiden särmä on hienosti hahtuvainen tai hieman hammaslaitainen.",
+      "stipe": "Jalka on 10–20 cm pitkä ja 1,5–4 cm paksu, valkoinen, täyteinen ja lieriömäinen, ja sen pinta on karkeasti hahtuvainen tai jauhoisen suomuinen. Alhaalta se laajenee suureksi nuija- tai nauriinmuotoiseksi mukulaksi, joka on syvällä maassa ja päättyy usein lyhyeen juurimaiseen kärkeen; mukulassa on yksi tai useampi vyö harmahtavia suojusjäänteitä, mutta pussimaista tuppea ei ole. Leveä valkoinen rengas on vanumainen ja jauhoinen, yläpuolelta juovainen ja hauras, ja se repeää tai häviää usein iän myötä.",
+      "flesh": "Valkoinen, paksu ja kiinteä, ei muuta väriä leikattaessa. Haju on mitäänsanomaton tai heikosti retiisimäinen, joskus miellyttävän pähkinäinen, ja muuttuu vanhetessa epämiellyttäväksi.",
+      "sporePrint": "Itiöpöly valkoinen. Itiöt ovat leveän ellipsoidisia, sileitä, hyaliineja ja amyloideja, 9–13,5 × 6–8,5 µm.",
+      "habitat": "Muodostaa ektomykorritsan lehtipuiden kanssa, erityisesti tammen, valkopyökin, pyökin ja lehmuksen (Tilia) sekä myös pähkinäpensaan kanssa. Kasvaa yksittäin tai pieninä ryhminä lämpimissä, valoisissa metsissä, metsänreunoissa sekä puistoissa, puistokujilla ja muilla kaupunkien viheralueilla, lähes aina kalkkipitoisella tai emäksisellä maalla. Itiöemiä muodostuu kesäkuusta marraskuuhun, enimmäkseen heinäkuusta syyskuuhun.",
+      "uses": "Syömäkelvoton. Vanhemmat ranskalaiset, saksalaiset ja italialaiset teokset mainitsevat sen syötävänä, mutta uudemmat keskieurooppalaiset teokset neuvovat olemaan syömättä sitä, koska se on raakana lievästi myrkyllinen; siitä on mainittu myös iboteenihappoa ja muskimolia, mutta tätä ei ole vahvistettu. Lisäksi valkoinen väri, rengas ja mukulainen tyvi tekevät sekaannuksesta tappavan myrkyllisiin valkoisiin Amanita-lajeihin vakavan vaaran.",
+      "confusion": "Amanita echinocephala on yleensä pienempi, sen lakissa on pystyjä, teräviä, pyramidimaisia syyliä ja heltoissa usein vihertävä sävy. Amanita vittadinii -lajin jalkaa peittävät tiheästi harottavat suomut, sillä ei ole paksuuntunutta mukulaa ja se kasvaa nurmella, usein kaupunkipuistoissa. Amanita ovoidea -lajin lakissa on vähän laikkuja, reuna on jauhoinen ja tuppi suuri, valkoinen tai okrankermanvärinen. Tappavan myrkyllisellä Amanita virosa -lajilla on yleensä sileä, paljas lakki ja pussimainen tuppi. Amanita citrina -lajin valkoisella muodolla on litteämmät laikut lakissa, sileämpi jalka ja pysyvä rengas sekä raa'an perunan haju.",
+      "notes": "Se hyperakkumuloi hopeaa ja rikastaa sitä itiöemiin moninkertaisesti ympäröivän maan pitoisuuksiin verrattuna. Se näyttää leviävän pohjoiseen ja sitä löydetään yhä useammin kaupungeista, erityisesti lehmusten alta, mutta se on silti punaisella listalla useissa Euroopan maissa, muun muassa Puolassa, Tšekissä, Tanskassa ja Ruotsissa.",
+      "names": [],
+      "sourceUrls": [
+        "https://fi.wikipedia.org/wiki/Vanukärpässieni"
+      ],
+      "label": "vanukärpässieni"
+    },
+    "fr": {
+      "description": "Un grand champignon terricole, trapu et blanchâtre, au chapeau couvert de plaques de voile gris-blanc molles et au pied bulbeux profondément enraciné. C'est une espèce européenne thermophile, fréquente dans certaines parties de la région méditerranéenne et dispersée à rare vers le nord jusqu'en Angleterre, aux Pays-Bas, en Europe centrale et dans la région balte.",
+      "cap": "Le chapeau mesure 6–15 cm de diamètre, parfois jusqu'à 25 cm ; d'abord presque globuleux, il devient convexe puis plan ou légèrement déprimé. La surface est blanche à crème, grisâtre à brun grisâtre pâle à partir du centre, et couverte de plaques molles, épaisses, plates à anguleuses de voile général, de même couleur ou plus foncées, que la pluie peut emporter. La marge n'est pas striée et porte des restes de voile cotonneux et déchiquetés.",
+      "hymenium": "Les lames sont libres, serrées et assez larges, blanches puis crème à maturité, avec une arête finement floconneuse ou légèrement dentée.",
+      "stipe": "Le pied mesure 10–20 cm de long et 1,5–4 cm d'épaisseur ; il est blanc, plein et cylindrique, à surface grossièrement floconneuse à farineuse-squamuleuse. Vers le bas, il s'élargit en un gros bulbe en massue ou en forme de navet, profondément enfoncé dans le sol et souvent terminé par une courte pointe radicante ; le bulbe porte un ou plusieurs bourrelets de restes de voile grisâtres, mais pas de volve en sac. Le large anneau blanc est cotonneux et farineux, strié sur le dessus et fragile, et se déchire ou disparaît souvent avec l'âge.",
+      "flesh": "Blanche, épaisse et ferme, immuable à la coupe. L'odeur est indistincte ou faiblement de radis, parfois décrite comme agréable de noisette, et devient désagréable avec l'âge.",
+      "sporePrint": "Sporée blanche. Spores largement ellipsoïdes, lisses, hyalines et amyloïdes, 9–13,5 × 6–8,5 µm.",
+      "habitat": "Ectomycorhizien avec les feuillus, surtout les chênes, les charmes, les hêtres et les tilleuls (Tilia), ainsi que les noisetiers. Il pousse isolé ou en petits groupes dans les bois chauds et clairs, en lisière et dans les parcs, les allées et d'autres espaces verts urbains, presque toujours sur sol calcaire ou basique. Il fructifie de juin à novembre, surtout de juillet à septembre.",
+      "uses": "Non comestible. Des ouvrages français, allemands et italiens anciens le donnent comme comestible, mais des ouvrages récents d'Europe centrale en déconseillent la consommation, car il est légèrement toxique cru ; la présence d'acide iboténique et de muscimol a aussi été signalée sans être confirmée. En outre, sa couleur blanche, son anneau et son pied bulbeux rendent la confusion avec des espèces blanches mortelles du genre Amanita très dangereuse.",
+      "confusion": "Amanita echinocephala est généralement plus petite, porte sur le chapeau des verrues dressées, pointues et pyramidales et a souvent des lames à reflet verdâtre. Amanita vittadinii a un pied densément couvert d'écailles saillantes, pas de bulbe renflé, et pousse dans l'herbe, souvent dans les parcs urbains. Amanita ovoidea a peu de plaques sur le chapeau, une marge farineuse et une grande volve blanche à crème ocré. La mortelle Amanita virosa a généralement un chapeau lisse et nu et une volve en sac. La forme blanche d'Amanita citrina a des plaques plus plates sur le chapeau, un pied plus lisse avec un anneau persistant et une odeur de pomme de terre crue.",
+      "notes": "Il hyperaccumule l'argent, qu'il concentre dans ses fructifications bien au-delà des teneurs du sol environnant. Il semble s'étendre vers le nord et se rencontre de plus en plus en ville, surtout sous les tilleuls, mais il figure sur les listes rouges de plusieurs pays européens, dont la Pologne, la Tchéquie, le Danemark et la Suède.",
+      "names": [],
+      "sourceUrls": [
+        "https://fr.wikipedia.org/wiki/Amanite_solitaire"
+      ],
+      "label": "amanite solitaire"
+    },
+    "he": {
+      "description": "פטרייה קרקעית גדולה, חסונה ולבנבנה, שכובעה מכוסה כתמי מעטה רכים אפורים-לבנים ורגלה בעלת פקעת ומשתרשת עמוק. זהו מין אירופי אוהב חום, נפוץ בחלקים מאזור הים התיכון, וצפונה מפוזר עד נדיר עד אנגליה, הולנד, מרכז אירופה ואזור הבלטי.",
+      "cap": "קוטר הכובע 6–15 cm, לעתים עד 25 cm; בתחילה הוא כמעט כדורי, אחר כך קמור ולבסוף שטוח או שקוע מעט. פני השטח לבנים עד קרם, ומהמרכז אפרפרים עד חומים-אפרפרים חיוורים, ומכוסים בכתמים רכים, עבים, שטוחים עד זוויתיים של המעטה הכללי, באותו צבע או כהים יותר, שהגשם עלול לשטוף. השוליים אינם מפוספסים, ותלויים מהם שרידי מעטה קרועים דמויי צמר גפן.",
+      "hymenium": "הזימים חופשיים, צפופים ורחבים למדי, בתחילה לבנים ובבגרות בצבע קרם, עם שפה פתיתית עדינה או משוננת מעט.",
+      "stipe": "אורך הרגל 10–20 cm ועוביה 1.5–4 cm; היא לבנה, מלאה וגלילית, ופניה פתיתיים גסים עד קשקשיים-קמחיים. בחלקה התחתון היא מתרחבת לפקעת גדולה דמוית אלה עד לפת, השקועה עמוק באדמה ולעתים קרובות מסתיימת בחוד קצר דמוי שורש; על הפקעת טבעת אחת או יותר של שרידי מעטה אפרפרים, אך אין נדן (וולווה) דמוי שק. הטבעת הלבנה הרחבה צמרית וקמחית, מפוספסת בצדה העליון ושבירה, ולעתים קרובות נקרעת או נעלמת עם הגיל.",
+      "flesh": "לבנה, עבה ומוצקה, אינה משנה צבע בחיתוך. הריח בלתי מובחן או דומה קלות לצנונית, לעתים מתואר כאגוזי נעים, ונעשה לא נעים עם הגיל.",
+      "sporePrint": "הדפס נבגים לבן. הנבגים אליפסואידיים רחבים, חלקים, שקופים ועמילואידיים, 9–13.5 × 6–8.5 µm.",
+      "habitat": "יוצרת שורשון חיצוני (אקטומיקוריזה) עם עצים רחבי עלים, במיוחד אלון, קרפינוס (שוח), אשור ותרזה (Tilia), וגם אלסר. גדלה בודדת או בקבוצות קטנות ביערות חמים ופתוחים, בשולי יערות ובפארקים, בשדרות ובשטחים ירוקים עירוניים אחרים, כמעט תמיד על קרקע גירית או בסיסית. היא מניבה מיוני עד נובמבר, בעיקר מיולי עד ספטמבר.",
+      "uses": "אינה ראויה למאכל. חיבורים צרפתיים, גרמניים ואיטלקיים ישנים מציינים אותה כראויה למאכל, אך חיבורים חדשים ממרכז אירופה ממליצים שלא לאכול אותה, משום שהיא רעילה במידה קלה כשאינה מבושלת; כמו כן דווח בה על חומצה איבוטנית ומוסצימול, אך הדבר לא אושר. בנוסף, צבעה הלבן, הטבעת ובסיסה הפקעתי הופכים את הבלבול עם מיני Amanita לבנים קטלניים לסכנה חמורה.",
+      "confusion": "Amanita echinocephala קטנה בדרך כלל, ועל כובעה יבלות זקופות, מחודדות ופירמידליות, ולזימיה לעתים קרובות גוון ירקרק. ל-Amanita vittadinii רגל המכוסה בצפיפות בקשקשים בולטים, אין לה פקעת נפוחה, והיא גדלה בעשב, לעתים קרובות בפארקים עירוניים. ל-Amanita ovoidea כתמים מעטים על הכובע, שוליים קמחיים ונדן גדול לבן עד קרם-אוכרה. ל-Amanita virosa הקטלנית יש בדרך כלל כובע חלק וחשוף ונדן דמוי שק. לצורה הלבנה של Amanita citrina כתמים שטוחים יותר על הכובע, רגל חלקה יותר עם טבעת קבועה וריח של תפוח אדמה נא.",
+      "notes": "היא צוברת כסף במידה יתרה ומרכזת אותו בגופי הפרי ברמות גבוהות בהרבה מאלה שבקרקע הסובבת. נראה שהיא מתפשטת צפונה ונמצאת יותר ויותר בערים, במיוחד מתחת לעצי תרזה, ועם זאת היא כלולה ברשימות האדומות של כמה מדינות באירופה, ובהן פולין, צ'כיה, דנמרק ושוודיה.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "ज़मीन पर उगने वाला एक बड़ा, गठीला, सफ़ेद-सा मशरूम, जिसकी टोपी आवरण के नरम धूसर-सफ़ेद धब्बों से ढकी रहती है और जिसका डंठल गहराई तक जड़ जमाए, कंदयुक्त होता है। यह गर्मी पसंद करने वाली यूरोपीय प्रजाति है, जो भूमध्यसागरीय क्षेत्र के कुछ भागों में आम है और उत्तर की ओर इंग्लैंड, नीदरलैंड, मध्य यूरोप और बाल्टिक क्षेत्र तक बिखरी हुई से लेकर दुर्लभ है।",
+      "cap": "टोपी 6–15 cm चौड़ी, कभी-कभी 25 cm तक, पहले लगभग गोलाकार, फिर उत्तल और अंत में चपटी या थोड़ी धँसी हुई होती है। सतह सफ़ेद से क्रीम, केंद्र से धूसर से हल्की धूसर-भूरी, और सामान्य आवरण के नरम, मोटे, चपटे से कोणीय धब्बों से ढकी रहती है, जो उसी रंग के या गहरे होते हैं और जिन्हें वर्षा बहा सकती है। किनारा धारीदार नहीं होता और उससे फटे हुए, रुई जैसे आवरण-अवशेष लटके रहते हैं।",
+      "hymenium": "गलफड़े मुक्त, घने और काफ़ी चौड़े, पहले सफ़ेद और परिपक्व होने पर क्रीम रंग के होते हैं, जिनका किनारा बारीक रोएँदार या हल्का दाँतेदार होता है।",
+      "stipe": "डंठल 10–20 cm लंबा और 1.5–4 cm मोटा, सफ़ेद, ठोस और बेलनाकार होता है, जिसकी सतह मोटे रोएँदार से आटे जैसी शल्कयुक्त होती है। नीचे यह एक बड़े गदा- से शलजम-आकार के कंद में फैल जाता है, जो मिट्टी में गहरा धँसा रहता है और अक्सर एक छोटी जड़ जैसी नोक में समाप्त होता है; कंद पर धूसर आवरण-अवशेषों के एक या अधिक छल्ले होते हैं, पर थैलीनुमा वॉल्वा नहीं होता। चौड़ा सफ़ेद छल्ला रुई जैसा और आटे जैसा, ऊपरी सतह पर धारीदार और भंगुर होता है, और उम्र के साथ अक्सर फट जाता है या लुप्त हो जाता है।",
+      "flesh": "सफ़ेद, मोटा और दृढ़, काटने पर रंग नहीं बदलता। गंध अस्पष्ट या हल्की मूली जैसी होती है, कभी-कभी सुखद अखरोट जैसी बताई जाती है, और उम्र के साथ अप्रिय हो जाती है।",
+      "sporePrint": "बीजाणु छाप सफ़ेद। बीजाणु चौड़े दीर्घवृत्ताकार, चिकने, पारदर्शी और एमाइलॉइड, 9–13.5 × 6–8.5 µm होते हैं।",
+      "habitat": "चौड़ी पत्ती वाले पेड़ों, विशेषकर बलूत (ओक), हॉर्नबीम, बीच और लिंडन (Tilia), तथा हेज़ल के साथ एक्टोमाइकोराइज़ा बनाता है। यह गर्म, खुले वनों, वन-किनारों तथा पार्कों, वृक्ष-पंक्तियों वाले मार्गों और अन्य शहरी हरित स्थलों में अकेला या छोटे समूहों में उगता है, लगभग हमेशा चूनायुक्त या क्षारीय मिट्टी पर। यह जून से नवंबर तक, अधिकतर जुलाई से सितंबर तक फलता है।",
+      "uses": "अखाद्य। पुरानी फ़्रांसीसी, जर्मन और इतालवी कृतियाँ इसे खाने योग्य बताती हैं, पर हाल की मध्य यूरोपीय कृतियाँ इसे न खाने की सलाह देती हैं, क्योंकि कच्चा होने पर यह हल्का विषैला है; इसमें आइबोटेनिक अम्ल और मस्किमॉल होने की भी सूचना मिली है, पर इसकी पुष्टि नहीं हुई है। इसके अलावा, इसका सफ़ेद रंग, छल्ला और कंदयुक्त आधार घातक सफ़ेद Amanita प्रजातियों से भ्रम को एक गंभीर ख़तरा बना देते हैं।",
+      "confusion": "Amanita echinocephala आम तौर पर छोटी होती है, उसकी टोपी पर सीधे, नुकीले, पिरामिडनुमा मस्से होते हैं और गलफड़ों में अक्सर हरी झलक होती है। Amanita vittadinii का डंठल उभरे हुए शल्कों से घना ढका होता है, उसमें फूला हुआ कंद नहीं होता और वह घास में, अक्सर शहरी पार्कों में उगती है। Amanita ovoidea की टोपी पर कम धब्बे, आटे जैसा किनारा और बड़ा सफ़ेद से गेरुआ-क्रीम वॉल्वा होता है। घातक Amanita virosa की टोपी आम तौर पर चिकनी, नंगी होती है और वॉल्वा थैलीनुमा होता है। Amanita citrina के सफ़ेद रूप में टोपी पर अधिक चपटे धब्बे, स्थायी छल्ले वाला अधिक चिकना डंठल और कच्चे आलू जैसी गंध होती है।",
+      "notes": "यह चाँदी का अति-संचय करता है और उसे अपने फलनकायों में आसपास की मिट्टी के स्तर से कहीं अधिक सांद्रित करता है। ऐसा लगता है कि यह उत्तर की ओर फैल रहा है और शहरों में, विशेषकर लिंडन वृक्षों के नीचे, अधिकाधिक पाया जा रहा है, फिर भी यह पोलैंड, चेकिया, डेनमार्क और स्वीडन सहित कई यूरोपीय देशों की लाल सूचियों में शामिल है।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Velika, zdepasta, bjelkasta gljiva koja raste na tlu, sa šeširom pokrivenim mekim sivobijelim krpicama ovoja i duboko ukorijenjenim, gomoljastim stručkom. Toploljubiva je europska vrsta, mjestimice česta u dijelovima Sredozemlja, a prema sjeveru raštrkana do rijetka sve do Engleske, Nizozemske, srednje Europe i Baltika.",
+      "cap": "Šešir je širok 6–15 cm, iznimno do 25 cm, najprije gotovo kuglast, zatim izbočen i na kraju plosnat ili blago udubljen. Površina je bijela do krem, od sredine sivkasta do blijedo sivosmeđa, prekrivena mekim, debelim, plosnatim do uglatim krpicama općeg ovoja iste ili tamnije boje, koje kiša može isprati. Rub nije narebren i s njega vise razderani, vatasti ostaci ovoja.",
+      "hymenium": "Listići su slobodni, gusti i prilično široki, najprije bijeli, u zrelosti krem, s fino pahuljičastim ili blago nazubljenim bridom.",
+      "stipe": "Stručak je dugačak 10–20 cm i debeo 1,5–4 cm, bijel, pun i valjkast, grubo pahuljičaste do brašnasto-ljuskave površine. Prema dolje prelazi u velik batićast do repast gomolj duboko uronjen u tlo, koji često završava kratkim korijenastim vrhom; na gomolju su jedan ili više prstenova sivkastih ostataka ovoja, ali nema vrećaste volve. Širok bijeli vjenčić je vatast i brašnast, s gornje strane narebren i krhak, a starenjem se često razdere ili nestane.",
+      "flesh": "Bijelo, debelo i čvrsto, na prerezu ne mijenja boju. Miris je neizražen ili slabo na rotkvicu, ponekad opisan kao ugodno orašast, a starenjem postaje neugodan.",
+      "sporePrint": "Otisak spora bijel. Spore su široko elipsoidne, glatke, hijaline i amiloidne, 9–13,5 × 6–8,5 µm.",
+      "habitat": "Ektomikorizna s listopadnim drvećem, osobito s hrastom, grabom, bukvom i lipom (Tilia), a i s lijeskom. Raste pojedinačno ili u malim skupinama u toplim, svijetlim šumama, na rubovima šuma te u parkovima, drvoredima i drugim gradskim zelenim površinama, gotovo uvijek na vapnenačkom ili bazičnom tlu. Plodi od lipnja do studenoga, najčešće od srpnja do rujna.",
+      "uses": "Nejestiva. Starija francuska, njemačka i talijanska djela navode je kao jestivu, ali novija srednjoeuropska djela savjetuju da se ne jede jer je u sirovom stanju blago otrovna; u njoj su navođeni i ibotenska kiselina i muscimol, ali to nije potvrđeno. Bijela boja, vjenčić i gomoljasta osnova osim toga čine zamjenu sa smrtonosnim bijelim vrstama roda Amanita ozbiljnom opasnošću.",
+      "confusion": "Amanita echinocephala obično je manja, na šeširu ima uspravne, šiljaste, piramidalne bradavice i često listiće sa zelenkastim odsjajem. Amanita vittadinii ima stručak gusto prekriven stršećim ljuskama, nema zadebljan gomolj i raste u travi, često u gradskim parkovima. Amanita ovoidea ima malo krpica na šeširu, brašnast rub i veliku bijelu do okerkrem volvu. Smrtonosna Amanita virosa obično ima gladak, gol šešir i vrećastu volvu. Bijela forma vrste Amanita citrina ima plosnatije krpice na šeširu, glađi stručak s trajnim vjenčićem i miris sirova krumpira.",
+      "notes": "Hiperakumulira srebro i koncentrira ga u plodištima daleko iznad razine u okolnom tlu. Čini se da se širi prema sjeveru i sve se češće nalazi u gradovima, osobito ispod lipa, no ipak je na crvenim popisima nekoliko europskih zemalja, među njima Poljske, Češke, Danske i Švedske.",
+      "names": [],
+      "sourceUrls": [
+        "https://hr.wikipedia.org/wiki/Usamljena_muhara"
+      ],
+      "label": "usamljena muhara"
+    },
+    "hu": {
+      "description": "Nagy, zömök, fehéres, talajon termő gomba, kalapját puha szürkésfehér burokfoltok borítják, tönkje mélyen gyökerező és gumós. Melegkedvelő európai faj, a Földközi-tenger vidékének egyes részein gyakori, északabbra szórványos vagy ritka, egészen Angliáig, Hollandiáig, Közép-Európáig és a Baltikumig.",
+      "cap": "A kalap 6–15 cm széles, kivételesen 25 cm-ig, eleinte majdnem gömb alakú, majd domború, végül lapos vagy kissé bemélyedő. Felszíne fehér vagy krémszínű, a közepétől szürkés vagy halvány szürkésbarna, és az univerzális burok puha, vastag, lapos vagy szögletes, azonos színű vagy sötétebb foltjai borítják, amelyeket az eső lemoshat. Széle nem bordás, és szakadozott, vattaszerű burokmaradványok csüngenek róla.",
+      "hymenium": "A lemezek szabadon állók, sűrűk és meglehetősen szélesek, eleinte fehérek, éretten krémszínűek, élük finoman pelyhes vagy enyhén fogazott.",
+      "stipe": "A tönk 10–20 cm hosszú és 1,5–4 cm vastag, fehér, tömött és hengeres, felszíne durván pelyhes vagy lisztes-pikkelyes. Lefelé nagy, bunkós vagy répa alakú gumóvá szélesedik, amely mélyen a talajba süllyed, és gyakran rövid gyökérszerű csúcsban végződik; a gumón egy vagy több gyűrűnyi szürkés burokmaradvány látható, de zsákszerű bocskor nincs. A széles fehér gallér vattaszerű és lisztes, felül bordázott és törékeny, idővel gyakran elszakad vagy eltűnik.",
+      "flesh": "Fehér, vastag és kemény, vágásra nem színeződik. Szaga jellegtelen vagy gyengén retekszerű, néha kellemesen dióillatúnak írják le, idősen kellemetlenné válik.",
+      "sporePrint": "Spórapor fehér. A spórák széles ellipszoidok, simák, hialinok és amiloidok, 9–13,5 × 6–8,5 µm.",
+      "habitat": "Ektomikorrhizás lombos fákkal, főleg tölggyel, gyertyánnal, bükkel és hárssal (Tilia), valamint mogyoróval. Magányosan vagy kis csoportokban terem meleg, világos erdőkben, erdőszéleken, valamint parkokban, fasorokban és más városi zöldterületeken, szinte mindig meszes vagy bázikus talajon. Júniustól novemberig terem, főként júliustól szeptemberig.",
+      "uses": "Nem ehető. Régebbi francia, német és olasz művek ehetőnek tartják, az újabb közép-európai művek viszont nem javasolják a fogyasztását, mert nyersen enyhén mérgező; iboténsavat és muszcimolt is közöltek belőle, de ezt nem erősítették meg. Fehér színe, gallérja és gumós töve miatt ráadásul a halálosan mérgező fehér Amanita-fajokkal való összetévesztése komoly veszély.",
+      "confusion": "Az Amanita echinocephala általában kisebb, kalapján felálló, hegyes, gúla alakú szemölcsök vannak, lemezei gyakran zöldes árnyalatúak. Az Amanita vittadinii tönkjét sűrűn borítják elálló pikkelyek, nincs megvastagodott gumója, és fűben terem, gyakran városi parkokban. Az Amanita ovoidea kalapján kevés burokfolt van, széle lisztes, bocskora nagy, fehér vagy okkeres krémszínű. A halálosan mérgező Amanita virosa kalapja általában sima és csupasz, bocskora zsákszerű. Az Amanita citrina fehér formájának laposabb burokfoltjai vannak a kalapon, simább tönkje maradandó gallérral, és nyers burgonya szaga van.",
+      "notes": "Hiperakkumulálja az ezüstöt: termőtesteiben a környező talajénál jóval nagyobb koncentrációban halmozza fel. Úgy tűnik, észak felé terjed, és egyre gyakrabban kerül elő városokban, főleg hársfák alatt, mégis több európai ország vörös listáján szerepel, köztük Lengyelországban, Csehországban, Dániában és Svédországban.",
+      "names": [],
+      "sourceUrls": [
+        "https://hu.wikipedia.org/wiki/Cafrangos_galóca"
+      ],
+      "label": "cafrangos galóca"
+    },
+    "id": {
+      "description": "Jamur tanah yang besar, kekar, dan keputihan dengan tudung berlapis tambalan selubung putih keabu-abuan yang lunak dan tangkai berumbi yang berakar dalam. Jamur ini adalah spesies Eropa yang menyukai kehangatan, cukup sering dijumpai di sebagian wilayah Mediterania dan ke arah utara tersebar hingga langka sampai ke Inggris, Belanda, Eropa Tengah, dan kawasan Baltik.",
+      "cap": "Tudung berdiameter 6–15 cm, kadang hingga 25 cm, mula-mula hampir bulat, lalu cembung dan akhirnya datar atau sedikit cekung. Permukaannya putih hingga krem, dari tengah keabu-abuan hingga cokelat keabu-abuan pucat, dan tertutup tambalan selubung universal yang lunak, tebal, datar hingga bersudut, berwarna sama atau lebih gelap, yang dapat tersapu hujan. Tepinya tidak bergaris dan bergantungan sisa selubung yang compang-camping seperti kapas.",
+      "hymenium": "Bilah bebas, rapat, dan cukup lebar, mula-mula putih dan krem saat matang, dengan tepi berserpih halus atau sedikit bergerigi.",
+      "stipe": "Tangkai panjangnya 10–20 cm dan tebalnya 1,5–4 cm, putih, padat, dan silindris, dengan permukaan berserpih kasar hingga bersisik bertepung. Di bagian bawah tangkai melebar menjadi umbi besar berbentuk gada hingga lobak yang terbenam dalam di tanah dan sering berakhir dengan ujung pendek menyerupai akar; umbi memiliki satu atau beberapa lingkaran sisa selubung keabu-abuan, tetapi tidak ada volva berbentuk kantong. Cincin putih yang lebar bertekstur kapas dan bertepung, bergaris di sisi atas dan rapuh, dan sering robek atau hilang seiring bertambahnya umur.",
+      "flesh": "Putih, tebal, dan padat, tidak berubah warna saat dipotong. Baunya tidak khas atau samar seperti lobak, kadang digambarkan menyenangkan seperti kacang, dan menjadi tidak sedap seiring bertambahnya umur.",
+      "sporePrint": "Cetak spora putih. Spora elipsoid lebar, halus, hialin, dan amiloid, 9–13,5 × 6–8,5 µm.",
+      "habitat": "Membentuk ektomikoriza dengan pohon berdaun lebar, terutama ek, hornbeam, beech, dan linden (Tilia), juga hazel. Tumbuh soliter atau dalam kelompok kecil di hutan hangat yang terbuka, di tepi hutan, serta di taman, jalan berpohon, dan ruang hijau perkotaan lainnya, hampir selalu di tanah berkapur atau basa. Berbuah dari Juni hingga November, terutama dari Juli hingga September.",
+      "uses": "Tidak dapat dimakan. Karya-karya Prancis, Jerman, dan Italia yang lebih lama menyebutnya dapat dimakan, tetapi karya-karya Eropa Tengah terbaru menyarankan agar tidak dimakan karena sedikit beracun bila mentah; asam ibotenat dan muskimol juga pernah dilaporkan di dalamnya, tetapi belum dipastikan. Selain itu, warna putih, cincin, serta pangkal berumbinya membuat tertukar dengan spesies Amanita putih yang mematikan menjadi bahaya serius.",
+      "confusion": "Amanita echinocephala biasanya lebih kecil, memiliki kutil tegak, runcing, dan berbentuk piramida pada tudung serta bilah yang sering bernuansa kehijauan. Amanita vittadinii memiliki tangkai yang rapat tertutup sisik mencuat, tanpa umbi membengkak, dan tumbuh di rerumputan, sering di taman kota. Amanita ovoidea memiliki sedikit tambalan pada tudung, tepi bertepung, dan volva besar berwarna putih hingga krem kuning tanah. Amanita virosa yang mematikan biasanya bertudung licin dan polos serta memiliki volva berbentuk kantong. Bentuk putih Amanita citrina memiliki tambalan tudung yang lebih datar, tangkai lebih halus dengan cincin yang menetap, dan bau kentang mentah.",
+      "notes": "Jamur ini menghiperakumulasi perak dan memusatkannya di tubuh buah jauh di atas kadar dalam tanah di sekitarnya. Jamur ini tampaknya menyebar ke utara dan makin sering ditemukan di kota, terutama di bawah pohon linden, tetapi tercantum dalam daftar merah beberapa negara Eropa, termasuk Polandia, Ceko, Denmark, dan Swedia.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un fungo terricolo grande, robusto e biancastro, con il cappello rivestito di morbide placche grigio-bianche di velo e un gambo bulboso profondamente radicante. È una specie europea termofila, frequente in parti della regione mediterranea e sparsa fino a rara verso nord fino all'Inghilterra, ai Paesi Bassi, all'Europa centrale e alla regione baltica.",
+      "cap": "Il cappello misura 6–15 cm di diametro, talvolta fino a 25 cm; dapprima quasi sferico, poi convesso e infine piano o leggermente depresso. La superficie è bianca o crema, dal centro grigiastra o bruno-grigiastra pallida, coperta di placche morbide, spesse, piatte o angolose di velo generale, dello stesso colore o più scure, che la pioggia può asportare. Il margine non è striato e porta resti di velo cotonosi e lacerati.",
+      "hymenium": "Le lamelle sono libere, fitte e piuttosto larghe, bianche e poi crema a maturità, con il filo finemente fioccoso o leggermente dentellato.",
+      "stipe": "Il gambo è lungo 10–20 cm e spesso 1,5–4 cm, bianco, pieno e cilindrico, con superficie grossolanamente fioccosa o farinoso-squamosa. In basso si allarga in un grosso bulbo claviforme o napiforme, profondamente infisso nel terreno e spesso terminante in una breve punta radicante; il bulbo porta uno o più cercini di resti grigiastri del velo, ma nessuna volva a sacco. L'ampio anello bianco è cotonoso e farinoso, striato superiormente e fragile, e con l'età spesso si lacera o scompare.",
+      "flesh": "Bianca, spessa e soda, immutabile al taglio. L'odore è indistinto o debolmente di rafano, talvolta descritto come gradevole di nocciola, e diventa sgradevole con l'età.",
+      "sporePrint": "Sporata bianca. Spore largamente ellissoidali, lisce, ialine e amiloidi, 9–13,5 × 6–8,5 µm.",
+      "habitat": "Ectomicorrizico con latifoglie, soprattutto querce, carpini, faggi e tigli (Tilia), anche noccioli. Cresce isolato o in piccoli gruppi in boschi caldi e radi, ai margini dei boschi e in parchi, viali e altre aree verdi urbane, quasi sempre su terreno calcareo o basico. Fruttifica da giugno a novembre, soprattutto da luglio a settembre.",
+      "uses": "Non commestibile. Opere francesi, tedesche e italiane più antiche lo indicano come commestibile, ma opere recenti dell'Europa centrale ne sconsigliano il consumo, poiché da crudo è debolmente tossico; vi sono stati segnalati anche acido ibotenico e muscimolo, senza conferma. Inoltre il colore bianco, l'anello e la base bulbosa rendono lo scambio con specie bianche mortali del genere Amanita un pericolo serio.",
+      "confusion": "Amanita echinocephala è di solito più piccola, ha sul cappello verruche erette, appuntite e piramidali e spesso lamelle con riflessi verdastri. Amanita vittadinii ha il gambo densamente coperto di squame sporgenti, nessun bulbo ingrossato e cresce nell'erba, spesso nei parchi cittadini. Amanita ovoidea ha poche placche sul cappello, un margine farinoso e una grande volva bianca o crema ocracea. La mortale Amanita virosa ha di solito un cappello liscio e nudo e una volva a sacco. La forma bianca di Amanita citrina ha placche più piatte sul cappello, un gambo più liscio con anello persistente e odore di patata cruda.",
+      "notes": "Iperaccumula l'argento, concentrandolo nei corpi fruttiferi ben al di sopra dei livelli del suolo circostante. Sembra in espansione verso nord e si trova sempre più spesso in città, soprattutto sotto i tigli, ma è inserito nelle liste rosse di diversi paesi europei, tra cui Polonia, Cechia, Danimarca e Svezia.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "地上に生える大型でがっしりした白っぽいきのこで、傘は柔らかい灰白色の外被の破片に覆われ、柄は深く根を下ろした塊茎状の基部をもつ。温暖を好むヨーロッパの種で、地中海地域の一部では普通に見られ、北へ向かってイングランド、オランダ、中央ヨーロッパ、バルト地域まで散発的からまれに分布する。",
+      "cap": "傘は径6–15 cm、時に25 cmに達し、初め球形に近く、のち饅頭形を経て平らかやや中くぼみになる。表面は白色からクリーム色で、中央から灰色ないし淡灰褐色を帯び、同色またはより濃色の、柔らかく厚い、平たいものから角ばったものまでの外被の破片に覆われ、これらは雨で洗い流されることがある。縁に条線はなく、ぼろぼろの綿状の被膜の残片が垂れ下がる。",
+      "hymenium": "ひだは離生し、密で比較的幅広く、初め白色、成熟するとクリーム色になり、縁は細かい綿くず状またはわずかに鋸歯状。",
+      "stipe": "柄は長さ10–20 cm、太さ1.5–4 cm、白色、中実で円柱形、表面は粗い綿くず状から粉状の鱗片状。下部は土中深くに埋まった大きな棍棒形ないしカブ形の塊茎状に膨らみ、しばしば短い根状の先端で終わる。塊茎には灰色を帯びた外被の残片が一つまたは数個の輪をなすが、袋状のつぼはない。幅広い白いつばは綿状で粉状、上面に条線があってもろく、古くなるとしばしば裂けるか消失する。",
+      "flesh": "白色で厚く、しまっており、切っても変色しない。においは特徴がないかかすかにダイコン様で、時に心地よいナッツ様とされ、古くなると不快になる。",
+      "sporePrint": "胞子紋は白色。胞子は広楕円形、平滑、無色でアミロイド、9–13.5 × 6–8.5 µm。",
+      "habitat": "広葉樹、とくにナラ類、シデ類、ブナ類、シナノキ類(Tilia)と、またハシバミ類とも外生菌根をつくる。暖かく明るい林、林縁、また公園、並木道やその他の都市緑地に単生または小群生し、ほとんど常に石灰質または塩基性の土壌に生える。六月から十一月に発生し、とくに七月から九月に多い。",
+      "uses": "食不適。古いフランス、ドイツ、イタリアの文献は食用としているが、近年の中央ヨーロッパの文献は生では弱い毒性があるとして食べないよう勧めており、イボテン酸とムッシモールを含むとの報告もあるが確認されていない。また、白い色、つば、塊茎状の基部のため、致死的な白色のAmanita属の種と取り違える危険は大きい。",
+      "confusion": "Amanita echinocephalaは通常より小さく、傘に直立した尖ったピラミッド形のいぼがあり、ひだはしばしば緑色を帯びる。Amanita vittadiniiは柄が突出した鱗片で密に覆われ、膨らんだ塊茎がなく、草地、しばしば都市の公園に生える。Amanita ovoideaは傘の破片が少なく、縁は粉状で、白色から黄土クリーム色の大きなつぼをもつ。致死的なAmanita virosaは通常、傘が平滑で裸、つぼは袋状である。Amanita citrinaの白色型は傘の破片がより平たく、柄はより平滑で永続するつばがあり、生のジャガイモのにおいがする。",
+      "notes": "銀を超集積し、子実体に周囲の土壌をはるかに上回る濃度で濃縮する。北へ分布を広げつつあるとみられ、都市、とくにシナノキ類の下でますます多く見つかっているが、ポーランド、チェコ、デンマーク、スウェーデンを含むヨーロッパのいくつかの国でレッドリストに掲載されている。",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ko": {
+      "description": "땅에서 자라는 크고 단단하며 희끄무레한 버섯으로, 갓은 부드러운 회백색 외피 조각으로 덮여 있고 대는 땅속 깊이 뿌리내린 덩이줄기 모양의 밑동을 가진다. 따뜻한 곳을 좋아하는 유럽 종으로, 지중해 지역 일부에서는 흔하며 북쪽으로는 잉글랜드, 네덜란드, 중부 유럽과 발트 지역까지 드문드문 또는 드물게 분포한다.",
+      "cap": "갓은 지름 6–15 cm, 때로 25 cm에 이르며, 처음에는 거의 구형이다가 볼록해지고 마침내 평평하거나 약간 오목해진다. 표면은 흰색에서 크림색이고 가운데부터 회색 또는 연한 회갈색을 띠며, 같은 색이거나 더 짙은, 부드럽고 두꺼우며 납작하거나 모난 전체 외피 조각으로 덮여 있는데, 이 조각들은 비에 씻겨 나갈 수 있다. 가장자리에는 줄무늬가 없고 해진 솜 모양의 외피 잔재가 늘어져 있다.",
+      "hymenium": "주름살은 끝붙은주름살로 빽빽하고 꽤 넓으며, 처음에는 흰색이고 성숙하면 크림색이 되며, 가장자리는 미세한 솜털 모양이거나 약간 톱니 모양이다.",
+      "stipe": "대는 길이 10–20 cm, 굵기 1.5–4 cm로 흰색이고 속이 차 있으며 원통형이고, 표면은 거친 솜털 모양에서 가루 같은 비늘 모양이다. 아래쪽은 땅속 깊이 묻힌 큰 곤봉 모양 또는 순무 모양의 덩이로 부풀며 흔히 짧은 뿌리 모양의 끝으로 끝난다. 덩이에는 회색빛 외피 잔재가 하나 또는 여러 개의 띠를 이루지만 자루 모양의 대주머니는 없다. 넓은 흰색 턱받이는 솜 같고 가루 같으며, 윗면에 줄무늬가 있고 잘 부서지며, 오래되면 흔히 찢어지거나 사라진다.",
+      "flesh": "흰색이고 두껍고 단단하며, 자르면 색이 변하지 않는다. 냄새는 뚜렷하지 않거나 희미하게 무 냄새가 나고, 때로 기분 좋은 견과 냄새로 묘사되며, 오래되면 불쾌해진다.",
+      "sporePrint": "포자문은 흰색. 포자는 넓은 타원형이고 매끄러우며 투명하고 아밀로이드성이며, 9–13.5 × 6–8.5 µm이다.",
+      "habitat": "활엽수, 특히 참나무, 서어나무, 너도밤나무, 피나무(Tilia), 그리고 개암나무와 외생균근을 형성한다. 따뜻하고 밝은 숲, 숲 가장자리, 그리고 공원, 가로수길과 그 밖의 도시 녹지에 홀로 또는 작은 무리로 나며, 거의 언제나 석회질 또는 염기성 토양에서 자란다. 유월부터 십일월까지 발생하며, 주로 칠월부터 구월까지 많다.",
+      "uses": "식용 부적합. 오래된 프랑스, 독일, 이탈리아 문헌은 식용으로 보지만, 최근 중부 유럽 문헌은 날것은 약한 독성이 있으므로 먹지 말 것을 권하며, 이보텐산과 무시몰이 들어 있다는 보고도 있으나 확인되지 않았다. 또한 흰색, 턱받이, 덩이 모양 밑동 때문에 치명적인 흰색 Amanita 종과 혼동할 위험이 크다.",
+      "confusion": "Amanita echinocephala는 대개 더 작고, 갓에 곧게 선 뾰족한 피라미드 모양의 사마귀가 있으며 주름살은 흔히 초록빛을 띤다. Amanita vittadinii는 대가 돌출한 비늘로 빽빽하게 덮여 있고 부푼 덩이가 없으며 풀밭, 흔히 도시 공원에서 자란다. Amanita ovoidea는 갓의 외피 조각이 적고 가장자리가 가루 모양이며 흰색에서 황토 크림색의 큰 대주머니를 가진다. 치명적인 Amanita virosa는 보통 갓이 매끄럽고 맨질하며 대주머니가 자루 모양이다. Amanita citrina의 흰색 형태는 갓의 조각이 더 납작하고, 대가 더 매끄러우며 오래 남는 턱받이가 있고, 생감자 냄새가 난다.",
+      "notes": "은을 초집적하여 자실체에 주변 토양보다 훨씬 높은 농도로 농축한다. 북쪽으로 퍼지고 있는 것으로 보이며 도시, 특히 피나무 아래에서 점점 더 자주 발견되지만, 폴란드, 체코, 덴마크, 스웨덴을 포함한 여러 유럽 국가의 적색 목록에 올라 있다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Didelis, kresnas, balsvas ant dirvožemio augantis grybas, kurio kepurę dengia minkšti pilkšvai balti šydo lopai, o kotas giliai įsišaknijęs ir gumbuotas. Tai šilumamėgė Europos rūšis, kai kuriose Viduržemio jūros regiono dalyse dažna, o šiaurės link išsibarsčiusi iki retos, iki pat Anglijos, Nyderlandų, Vidurio Europos ir Baltijos regiono.",
+      "cap": "Kepurė 6–15 cm skersmens, kartais iki 25 cm, iš pradžių beveik rutuliška, vėliau iškili ir galiausiai plokščia arba šiek tiek įdubusi. Paviršius baltas iki kreminio, nuo vidurio pilkšvas iki blyškiai pilkšvai rudo, padengtas minkštais, storais, plokščiais iki kampuotų bendrojo šydo lopais, tokios pat arba tamsesnės spalvos, kuriuos lietus gali nuplauti. Kraštas nevagotas, nuo jo kabo suplyšusios, vatiškos šydo liekanos.",
+      "hymenium": "Lakšteliai laisvi, tankūs ir gana platūs, iš pradžių balti, subrendę kreminiai, smulkiai dribsniuota arba šiek tiek dantyta briauna.",
+      "stipe": "Kotas 10–20 cm ilgio ir 1,5–4 cm storio, baltas, pilnaviduris ir cilindriškas, stambiai dribsniuotu iki miltuotai žvynuoto paviršiaus. Apačioje jis pereina į didelį buožišką iki ropiško gumbą, giliai įsiskverbusį į dirvožemį ir dažnai besibaigiantį trumpu šakniniu smaigaliu; ant gumbo yra viena ar kelios pilkšvų šydo liekanų juostos, bet maišiškos makšties nėra. Platus baltas žiedas vatiškas ir miltuotas, viršutinėje pusėje vagotas ir trapus, su amžiumi dažnai suplyšta arba išnyksta.",
+      "flesh": "Baltas, storas ir tvirtas, perpjautas spalvos nekeičia. Kvapas neryškus arba silpnai primena ridikus, kartais apibūdinamas kaip maloniai riešutinis, su amžiumi tampa nemalonus.",
+      "sporePrint": "Sporų milteliai balti. Sporos plačiai elipsoidinės, lygios, hialininės ir amiloidinės, 9–13,5 × 6–8,5 µm.",
+      "habitat": "Sudaro ektomikorizę su lapuočiais medžiais, ypač su ąžuolu, skroblu, buku ir liepa (Tilia), taip pat su lazdynu. Auga pavieniui arba nedidelėmis grupėmis šiltuose, šviesiuose miškuose, miško pakraščiuose ir parkuose, alėjose bei kitose miesto žaliosiose erdvėse, beveik visada kalkingame arba šarminiame dirvožemyje. Vaisiakūnius sudaro nuo birželio iki lapkričio, dažniausiai nuo liepos iki rugsėjo.",
+      "uses": "Nevalgomas. Senesniuose prancūzų, vokiečių ir italų veikaluose jis nurodomas kaip valgomas, tačiau naujesniuose Vidurio Europos veikaluose patariama jo nevalgyti, nes žalias jis silpnai nuodingas; jame buvo nurodyta ir iboteno rūgštis bei muscimolis, bet tai nepatvirtinta. Be to, balta spalva, žiedas ir gumbuotas pamatas daro supainiojimą su mirtinai nuodingomis baltomis Amanita genties rūšimis rimtu pavojumi.",
+      "confusion": "Amanita echinocephala paprastai mažesnė, ant kepurės turi stačias, smailias, piramidiškas karpas, o lakšteliai dažnai su žalsvu atspalviu. Amanita vittadinii kotas tankiai padengtas atsišiaušusiais žvynais, neturi sustorėjusio gumbo ir auga žolėje, dažnai miestų parkuose. Amanita ovoidea ant kepurės turi nedaug lopų, miltuotą kraštą ir didelę baltą iki ochriškai kreminės makštį. Mirtinai nuodinga Amanita virosa paprastai turi lygią, pliką kepurę ir maišišką makštį. Amanita citrina baltoji forma turi plokštesnius lopus ant kepurės, lygesnį kotą su išliekančiu žiedu ir žalių bulvių kvapą.",
+      "notes": "Jis hiperakumuliuoja sidabrą ir koncentruoja jį vaisiakūniuose gerokai didesniais kiekiais nei aplinkiniame dirvožemyje. Atrodo, kad jis plinta į šiaurę ir vis dažniau randamas miestuose, ypač po liepomis, tačiau yra įrašytas į kelių Europos šalių raudonuosius sąrašus, tarp jų Lenkijos, Čekijos, Danijos ir Švedijos.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lv": {
+      "description": "Liela, drukna, bālgana sēne, kas aug uz augsnes, ar cepurīti, ko klāj mīksti pelēcīgi balti plīvura plankumi, un ar dziļi iesakņotu, gumainu kātiņu. Tā ir siltumu mīloša Eiropas suga, vietām bieža Vidusjūras reģiona daļās, bet uz ziemeļiem izkaisīta līdz reta līdz pat Anglijai, Nīderlandei, Centrāleiropai un Baltijai.",
+      "cap": "Cepurīte ir 6–15 cm plata, reizēm līdz 25 cm, sākumā gandrīz lodveida, tad izliekta un beigās plakana vai nedaudz iedobta. Virsma ir balta līdz krēmkrāsas, no centra pelēcīga līdz gaiši pelēcīgi brūna, klāta ar mīkstiem, bieziem, plakaniem līdz stūrainiem kopējā plīvura plankumiem tādā pašā vai tumšākā krāsā, ko lietus var nomazgāt. Mala nav rievaina, un no tās karājas saplīsušas, vatei līdzīgas plīvura atliekas.",
+      "hymenium": "Lapiņas ir brīvas, biezas un diezgan platas, sākumā baltas, nobriedušas krēmkrāsas, ar smalki pārslainu vai nedaudz robainu šķautni.",
+      "stipe": "Kātiņš ir 10–20 cm garš un 1,5–4 cm resns, balts, pilns un cilindrisks, ar rupji pārslainu līdz miltaini zvīņainu virsmu. Lejpusē tas pāriet lielā vālesveida līdz rāceņveida gumā, kas dziļi iegrimis augsnē un bieži beidzas ar īsu saknei līdzīgu smaili; uz gumas ir viena vai vairākas pelēcīgu plīvura atlieku joslas, bet maisveida makstiņas nav. Platais baltais gredzens ir vatains un miltains, virspusē rievots un trausls, un ar vecumu bieži saplīst vai izzūd.",
+      "flesh": "Balts, biezs un stingrs, griezumā krāsu nemaina. Smarža ir neizteikta vai vāji atgādina redīsus, dažkārt aprakstīta kā patīkami riekstaina, un ar vecumu kļūst nepatīkama.",
+      "sporePrint": "Sporu nospiedums balts. Sporas ir plati elipsoīdas, gludas, hialīnas un amiloīdas, 9–13,5 × 6–8,5 µm.",
+      "habitat": "Veido ektomikorizu ar lapu kokiem, īpaši ar ozolu, skābardi, dižskābardi un liepu (Tilia), kā arī ar lazdu. Aug pa vienai vai nelielās grupās siltos, gaišos mežos, mežmalās un parkos, alejās un citās pilsētu zaļajās zonās, gandrīz vienmēr kaļķainā vai bāziskā augsnē. Augļķermeņi veidojas no jūnija līdz novembrim, visbiežāk no jūlija līdz septembrim.",
+      "uses": "Neēdama. Vecākos franču, vācu un itāļu darbos tā minēta kā ēdama, taču jaunākos Centrāleiropas darbos to neiesaka ēst, jo neapstrādāta tā ir vāji indīga; tajā minēta arī ibotēnskābe un muscimols, taču tas nav apstiprināts. Turklāt baltā krāsa, gredzens un gumainā pamatne padara sajaukšanu ar nāvējoši indīgām baltām Amanita ģints sugām par nopietnām briesmām.",
+      "confusion": "Amanita echinocephala parasti ir mazāka, tai uz cepurītes ir stāvas, smailas, piramīdveida kārpas un lapiņām bieži zaļgans nokrāsojums. Amanita vittadinii kātiņu blīvi klāj atliektas zvīņas, tai nav paresninātas gumas, un tā aug zālē, bieži pilsētu parkos. Amanita ovoidea uz cepurītes ir maz plankumu, mala ir miltaina un makstiņa liela, balta līdz okerkrēmkrāsas. Nāvējoši indīgajai Amanita virosa parasti ir gluda, kaila cepurīte un maisveida makstiņa. Amanita citrina baltajai formai ir plakanāki plankumi uz cepurītes, gludāks kātiņš ar paliekošu gredzenu un jēlu kartupeļu smarža.",
+      "notes": "Tā hiperakumulē sudrabu, koncentrējot to augļķermeņos daudz augstākā līmenī nekā apkārtējā augsnē. Šķiet, ka tā izplatās uz ziemeļiem un arvien biežāk sastopama pilsētās, īpaši zem liepām, tomēr tā ir iekļauta vairāku Eiropas valstu sarkanajos sarakstos, tostarp Polijā, Čehijā, Dānijā un Zviedrijā.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.latvijasdaba.lv/senes/amanita-strobiliformis-paulet-bertilloni/",
+        "https://lv.wikipedia.org/wiki/Bārkstainā_mušmire"
+      ],
+      "label": "bārkstainā mušmire"
+    },
+    "nl": {
+      "description": "Een grote, forse, witachtige paddenstoel op de grond, met een hoed vol zachte grijswitte velumplakken en een diep wortelende, knollige steel. Het is een warmteminnende Europese soort, vrij algemeen in delen van het Middellandse Zeegebied en naar het noorden verspreid tot zeldzaam tot in Engeland, Nederland, Midden-Europa en het Balticum.",
+      "cap": "De hoed is 6–15 cm breed, soms tot 25 cm, eerst bijna bolvormig, dan gewelfd en ten slotte vlak of iets ingedeukt. Het oppervlak is wit tot crème, vanuit het midden grijsachtig tot bleek grijsbruin, en bedekt met zachte, dikke, platte tot hoekige plakken van het algemeen velum, van dezelfde kleur of donkerder, die door regen kunnen afspoelen. De rand is niet gestreept en behangen met gerafelde, wattige velumresten.",
+      "hymenium": "De plaatjes zijn vrij, dicht opeen en vrij breed, eerst wit en rijp crème, met een fijn vlokkige of licht getande snede.",
+      "stipe": "De steel is 10–20 cm lang en 1,5–4 cm dik, wit, vol en cilindrisch, met een grof vlokkig tot melig-schubbig oppervlak. Onderaan gaat hij over in een grote knots- tot raapvormige knol die diep in de grond steekt en vaak eindigt in een korte wortelende punt; de knol draagt een of meer gordels van grijsachtige velumresten maar geen zakvormige beurs. De brede witte ring is wattig en melig, aan de bovenkant gestreept en breekbaar, en scheurt of verdwijnt vaak met de ouderdom.",
+      "flesh": "Wit, dik en stevig, verkleurt niet bij doorsnijden. De geur is onopvallend of zwak naar radijs, soms beschreven als aangenaam nootachtig, en wordt met de ouderdom onaangenaam.",
+      "sporePrint": "Sporenpoeder wit. Sporen breed ellipsoïde, glad, hyalien en amyloïde, 9–13,5 × 6–8,5 µm.",
+      "habitat": "Ectomycorrhizavormer met loofbomen, vooral eik, haagbeuk, beuk en linde (Tilia), en ook hazelaar. Groeit alleen of in kleine groepjes in warme, open bossen, aan bosranden en in parken, lanen en ander stedelijk groen, bijna altijd op kalkrijke of basische bodem. Vruchtlichamen verschijnen van juni tot november, vooral van juli tot september.",
+      "uses": "Oneetbaar. Oudere Franse, Duitse en Italiaanse werken noemen hem eetbaar, maar recente Midden-Europese werken raden af hem te eten, omdat hij rauw licht giftig is; ook iboteenzuur en muscimol zijn erin gemeld, maar niet bevestigd. Bovendien maken de witte kleur, de ring en de knollige voet verwarring met dodelijke witte Amanita-soorten een ernstig gevaar.",
+      "confusion": "Amanita echinocephala is meestal kleiner, heeft op de hoed rechtopstaande, spitse, piramidevormige wratten en vaak plaatjes met een groenige zweem. Amanita vittadinii heeft een steel die dicht bezet is met afstaande schubben, geen verdikte knol, en groeit in gras, vaak in stadsparken. Amanita ovoidea heeft weinig plakken op de hoed, een melige rand en een grote witte tot okercrème beurs. De dodelijke Amanita virosa heeft meestal een gladde, kale hoed en een zakvormige beurs. De witte vorm van Amanita citrina heeft plattere plakken op de hoed, een gladdere steel met blijvende ring en een geur van rauwe aardappel.",
+      "notes": "Hij hyperaccumuleert zilver en concentreert het in de vruchtlichamen ver boven de gehalten in de omringende bodem. Hij lijkt zich naar het noorden uit te breiden en wordt steeds vaker in steden gevonden, vooral onder linden, maar staat in verscheidene Europese landen op de Rode Lijst, waaronder Polen, Tsjechië, Denemarken en Zweden.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gbif.org/species/5240217"
+      ],
+      "label": "franjeamaniet"
+    },
+    "no": {
+      "description": "En stor, kraftig, hvitaktig sopp som vokser på bakken, med en hatt kledd i myke gråhvite velumflak og en dypt rotende, knollet stilk. Det er en varmekjær europeisk art, vanlig i deler av Middelhavsområdet og nordover spredt til sjelden helt til England, Nederland, Mellom-Europa og Baltikum.",
+      "cap": "Hatten er 6–15 cm bred, av og til opptil 25 cm, først nesten kuleformet, så hvelvet og til slutt flat eller litt nedtrykt. Overflaten er hvit til kremfarget, fra midten gråaktig til blekt gråbrun, og dekket av myke, tykke, flate til kantete flak av det universelle velet, i samme eller mørkere farge, som regn kan vaske bort. Kanten er ikke stripet og behengt med fillete, bomullsaktige velumrester.",
+      "hymenium": "Skivene er frie, tette og ganske brede, først hvite og som modne kremfargede, med fint flokket eller svakt tannet egg.",
+      "stipe": "Stilken er 10–20 cm lang og 1,5–4 cm tykk, hvit, fylt og sylindrisk, med grovt flokket til melet-skjellet overflate. Nederst går den over i en stor klubbe- til nepeformet knoll som sitter dypt i jorda og ofte ender i en kort rotaktig spiss; knollen bærer én eller flere ringer av gråaktige velumrester, men ingen sekkformet volva. Den brede hvite ringen er bomullsaktig og melet, stripet på oversiden og skjør, og revner eller forsvinner ofte med alderen.",
+      "flesh": "Hvitt, tykt og fast, uforanderlig i snitt. Lukten er uanselig eller svakt av reddik, av og til beskrevet som behagelig nøtteaktig, og blir ubehagelig med alderen.",
+      "sporePrint": "Sporepulver hvitt. Sporene er bredt ellipsoide, glatte, hyaline og amyloide, 9–13,5 × 6–8,5 µm.",
+      "habitat": "Danner ektomykorrhiza med løvtrær, særlig eik, agnbøk, bøk og lind (Tilia), og også hassel. Den vokser enkeltvis eller i små grupper i varme, lyse skoger, i skogkanter og i parker, alleer og andre grøntområder i byer, nesten alltid på kalkrik eller basisk jord. Den fruktifiserer fra juni til november, mest fra juli til september.",
+      "uses": "Uspiselig. Eldre franske, tyske og italienske verk oppgir den som spiselig, men nyere mellomeuropeiske verk fraråder å spise den, fordi den er svakt giftig rå; ibotensyre og muscimol er også oppgitt for den, men ikke bekreftet. Den hvite fargen, ringen og den knollete basen gjør dessuten forveksling med dødelig giftige hvite Amanita-arter til en alvorlig fare.",
+      "confusion": "Amanita echinocephala er som regel mindre, har opprette, spisse, pyramideformede vorter på hatten og ofte skiver med et grønnlig skjær. Amanita vittadinii har en stilk tett dekket av utstående skjell, ingen oppsvulmet knoll og vokser i gress, ofte i byparker. Amanita ovoidea har få flak på hatten, en melet kant og en stor hvit til okerkremfarget volva. Den dødelig giftige Amanita virosa har som regel en glatt, naken hatt og en sekkformet volva. Den hvite formen av Amanita citrina har flatere flak på hatten, en glattere stilk med varig ring og lukt av rå potet.",
+      "notes": "Den hyperakkumulerer sølv og konsentrerer det i fruktlegemene langt over nivåene i den omkringliggende jorda. Den ser ut til å spre seg nordover og finnes stadig oftere i byer, særlig under lindetrær, men står likevel på rødlistene i flere europeiske land, blant dem Polen, Tsjekkia, Danmark og Sverige.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "pl": {
+      "description": "Duży, masywny, białawy grzyb naziemny o kapeluszu pokrytym miękkimi szarobiałymi łatkami osłony i o głęboko zakorzenionym, bulwiastym trzonie. Jest to ciepłolubny gatunek europejski, miejscami częsty w rejonie śródziemnomorskim, a ku północy rozproszony do rzadkiego aż po Anglię, Holandię, Europę Środkową i rejon Bałtyku.",
+      "cap": "Kapelusz ma 6–15 cm średnicy, wyjątkowo do 25 cm, początkowo jest prawie kulisty, potem wypukły, a w końcu płaski lub lekko wklęsły. Powierzchnia jest biała do kremowej, od środka szarawa do jasnoszarobrązowej, pokryta miękkimi, grubymi, płaskimi do kanciastych łatkami osłony całkowitej tej samej barwy lub ciemniejszymi, które deszcz może zmyć. Brzeg nie jest prążkowany i zwisają z niego postrzępione, watowate resztki osłony.",
+      "hymenium": "Blaszki są wolne, gęste i dość szerokie, początkowo białe, w dojrzałości kremowe, z delikatnie kłaczkowatym lub lekko ząbkowanym ostrzem.",
+      "stipe": "Trzon ma 10–20 cm długości i 1,5–4 cm grubości, jest biały, pełny i walcowaty, o grubo kłaczkowatej do mączysto-łuseczkowatej powierzchni. U dołu przechodzi w dużą maczugowatą do rzepowatej bulwę głęboko tkwiącą w glebie, często zakończoną krótkim korzeniastym wyrostkiem; na bulwie są jeden lub kilka pierścieni szarawych resztek osłony, ale brak workowatej pochwy. Szeroki biały pierścień jest watowaty i mączysty, z wierzchu prążkowany i kruchy, z wiekiem często się rozrywa lub zanika.",
+      "flesh": "Biały, gruby i jędrny, na przekroju nie zmienia barwy. Zapach jest niewyraźny lub słabo rzodkiewkowy, czasem opisywany jako przyjemnie orzechowy, z wiekiem staje się nieprzyjemny.",
+      "sporePrint": "Wysyp zarodników biały. Zarodniki szeroko elipsoidalne, gładkie, hialinowe i amyloidalne, 9–13,5 × 6–8,5 µm.",
+      "habitat": "Tworzy ektomikoryzę z drzewami liściastymi, zwłaszcza z dębem, grabem, bukiem i lipą (Tilia), a także z leszczyną. Rośnie pojedynczo lub w małych grupach w ciepłych, widnych lasach, na obrzeżach lasów oraz w parkach, alejach i innej zieleni miejskiej, prawie zawsze na glebie wapiennej lub zasadowej. Owocniki wytwarza od czerwca do listopada, najczęściej od lipca do września.",
+      "uses": "Niejadalny. Starsze dzieła francuskie, niemieckie i włoskie podają go jako jadalny, natomiast nowsze dzieła środkowoeuropejskie odradzają jego spożywanie, ponieważ na surowo jest słabo trujący; podawano w nim też kwas ibotenowy i muscymol, czego jednak nie potwierdzono. Ponadto biała barwa, pierścień i bulwiasta podstawa sprawiają, że pomylenie go ze śmiertelnie trującymi białymi gatunkami z rodzaju Amanita jest poważnym zagrożeniem.",
+      "confusion": "Amanita echinocephala jest zwykle mniejsza, ma na kapeluszu sterczące, spiczaste, piramidalne brodawki i często blaszki z zielonkawym odcieniem. Amanita vittadinii ma trzon gęsto pokryty odstającymi łuskami, nie ma zgrubiałej bulwy i rośnie w trawie, często w parkach miejskich. Amanita ovoidea ma na kapeluszu niewiele łatek, mączysty brzeg i dużą białą do ochrowokremowej pochwę. Śmiertelnie trująca Amanita virosa ma zwykle gładki, nagi kapelusz i workowatą pochwę. Biała forma Amanita citrina ma bardziej płaskie łatki na kapeluszu, gładszy trzon z trwałym pierścieniem i zapach surowych ziemniaków.",
+      "notes": "Hiperakumuluje srebro, gromadząc je w owocnikach w stężeniach znacznie wyższych niż w otaczającej glebie. Wydaje się, że rozprzestrzenia się na północ i coraz częściej jest spotykany w miastach, zwłaszcza pod lipami, a mimo to figuruje na czerwonych listach kilku krajów europejskich, w tym Polski, Czech, Danii i Szwecji.",
+      "names": [],
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/Muchomor_szyszkowaty"
+      ],
+      "label": "muchomor szyszkowaty"
+    },
+    "pt": {
+      "description": "Um cogumelo terrícola grande, robusto e esbranquiçado, com o chapéu revestido de placas moles de véu branco-acinzentado e um pé bulboso profundamente enraizado. É uma espécie europeia termófila, frequente em partes da região mediterrânica e dispersa a rara para norte até à Inglaterra, aos Países Baixos, à Europa Central e à região báltica.",
+      "cap": "O chapéu mede 6–15 cm de diâmetro, por vezes até 25 cm; de início é quase globoso, depois convexo e por fim plano ou ligeiramente deprimido. A superfície é branca a creme, acinzentada a castanho-acinzentada pálida a partir do centro, e está coberta de placas moles, espessas, planas a angulosas de véu universal, da mesma cor ou mais escuras, que a chuva pode remover. A margem não é estriada e tem restos de véu algodonosos e esfarrapados.",
+      "hymenium": "As lâminas são livres, apertadas e bastante largas, brancas de início e creme na maturidade, com a aresta finamente flocosa ou ligeiramente denteada.",
+      "stipe": "O pé mede 10–20 cm de comprimento e 1,5–4 cm de espessura; é branco, cheio e cilíndrico, com a superfície grosseiramente flocosa a farinoso-escamosa. Em baixo alarga-se num grande bolbo claviforme a napiforme, enterrado profundamente no solo e muitas vezes terminado por uma curta ponta radicante; o bolbo tem um ou mais anéis de restos acinzentados do véu, mas nenhuma volva em saco. O largo anel branco é algodonoso e farinoso, estriado na face superior e frágil, e com a idade rasga-se ou desaparece com frequência.",
+      "flesh": "Branca, espessa e firme, imutável ao corte. O cheiro é indistinto ou levemente a rabanete, por vezes descrito como agradável a avelã, e torna-se desagradável com a idade.",
+      "sporePrint": "Esporada branca. Esporos largamente elipsoides, lisos, hialinos e amiloides, 9–13,5 × 6–8,5 µm.",
+      "habitat": "Ectomicorrízico com árvores folhosas, sobretudo carvalhos, carpas, faias e tílias (Tilia), e também aveleiras. Cresce isolado ou em pequenos grupos em bosques quentes e abertos, em orlas de bosque e em parques, avenidas e outros espaços verdes urbanos, quase sempre em solo calcário ou básico. Frutifica de junho a novembro, sobretudo de julho a setembro.",
+      "uses": "Não comestível. Obras francesas, alemãs e italianas mais antigas indicam-no como comestível, mas obras recentes da Europa Central desaconselham o seu consumo, por ser ligeiramente tóxico cru; também foram referidos ácido iboténico e muscimol, sem confirmação. Além disso, a cor branca, o anel e a base bulbosa tornam a confusão com espécies brancas mortais do género Amanita um perigo sério.",
+      "confusion": "Amanita echinocephala é geralmente mais pequena, tem no chapéu verrugas eretas, pontiagudas e piramidais e muitas vezes lâminas com tom esverdeado. Amanita vittadinii tem o pé densamente coberto de escamas salientes, nenhum bolbo dilatado, e cresce na erva, muitas vezes em parques urbanos. Amanita ovoidea tem poucas placas no chapéu, uma margem farinosa e uma grande volva branca a creme-ocrácea. A mortal Amanita virosa tem geralmente o chapéu liso e nu e uma volva em saco. A forma branca de Amanita citrina tem placas mais planas no chapéu, um pé mais liso com anel persistente e cheiro a batata crua.",
+      "notes": "Hiperacumula prata, concentrando-a nos corpos frutíferos muito acima dos níveis do solo circundante. Parece estar a expandir-se para norte e é cada vez mais encontrado em cidades, sobretudo sob tílias, mas consta das listas vermelhas de vários países europeus, incluindo a Polónia, a Chéquia, a Dinamarca e a Suécia.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "O ciupercă tericolă mare, robustă și albicioasă, cu pălăria acoperită de plăci moi de văl alb-cenușiu și cu un picior bulbos, adânc înrădăcinat. Este o specie europeană termofilă, frecventă în unele părți ale regiunii mediteraneene și răspândită sporadic până la rar spre nord, până în Anglia, Țările de Jos, Europa Centrală și regiunea baltică.",
+      "cap": "Pălăria are 6–15 cm în diametru, uneori până la 25 cm, la început aproape globuloasă, apoi convexă și în final plană sau ușor adâncită. Suprafața este albă până la crem, de la centru cenușie până la brun-cenușiu pal, și acoperită de plăci moi, groase, plate până la colțuroase ale vălului general, de aceeași culoare sau mai închise, pe care ploaia le poate spăla. Marginea nu este striată și are atârnate resturi de văl zdrențuite, vătoase.",
+      "hymenium": "Lamelele sunt libere, dese și destul de late, la început albe, la maturitate crem, cu muchia fin floconoasă sau ușor dințată.",
+      "stipe": "Piciorul are 10–20 cm lungime și 1,5–4 cm grosime, este alb, plin și cilindric, cu suprafața grosier floconoasă până la făinos-solzoasă. În jos se lărgește într-un bulb mare, măciucat până la napiform, adânc înfipt în sol, adesea terminat cu un vârf scurt radicant; bulbul poartă unul sau mai multe inele de resturi cenușii de văl, dar nu are volvă în formă de sac. Inelul larg, alb, este vătos și făinos, striat pe partea superioară și fragil și adesea se rupe sau dispare cu vârsta.",
+      "flesh": "Albă, groasă și fermă, nu se colorează la tăiere. Mirosul este nedistinct sau slab de ridiche, uneori descris ca plăcut de alune, și devine neplăcut cu vârsta.",
+      "sporePrint": "Amprenta sporilor albă. Sporii sunt larg elipsoidali, netezi, hialini și amiloizi, 9–13,5 × 6–8,5 µm.",
+      "habitat": "Ectomicorizantă cu foioase, mai ales cu stejarul, carpenul, fagul și teiul (Tilia), dar și cu alunul. Crește solitar sau în grupuri mici în păduri calde și luminoase, la marginea pădurilor și în parcuri, alei și alte spații verzi urbane, aproape întotdeauna pe sol calcaros sau bazic. Fructifică din iunie până în noiembrie, mai ales din iulie până în septembrie.",
+      "uses": "Necomestibilă. Lucrări franceze, germane și italiene mai vechi o dau drept comestibilă, dar lucrări recente din Europa Centrală nu recomandă consumul ei, deoarece este ușor toxică crudă; în ea au fost semnalate și acid ibotenic și muscimol, fără confirmare. În plus, culoarea albă, inelul și baza bulboasă fac din confuzia cu speciile albe mortale din genul Amanita un pericol serios.",
+      "confusion": "Amanita echinocephala este de obicei mai mică, are pe pălărie negi erecți, ascuțiți și piramidali și adesea lamele cu nuanță verzuie. Amanita vittadinii are piciorul acoperit des cu solzi depărtați, nu are bulb îngroșat și crește în iarbă, adesea în parcurile orașelor. Amanita ovoidea are puține plăci pe pălărie, o margine făinoasă și o volvă mare, albă până la crem-ocracee. Mortala Amanita virosa are de obicei pălăria netedă și goală și o volvă în formă de sac. Forma albă a Amanita citrina are plăci mai plate pe pălărie, un picior mai neted cu inel persistent și miros de cartof crud.",
+      "notes": "Hiperacumulează argintul, concentrându-l în corpurile fructifere mult peste nivelurile din solul înconjurător. Pare să se extindă spre nord și este găsită tot mai des în orașe, mai ales sub tei, totuși figurează pe listele roșii ale mai multor țări europene, între care Polonia, Cehia, Danemarca și Suedia.",
+      "names": [],
+      "sourceUrls": [
+        "https://ro.wikipedia.org/wiki/Amanita_strobiliformis"
+      ],
+      "label": "ciupercă franjurată"
+    },
+    "ru": {
+      "description": "Крупный, массивный, беловатый наземный гриб со шляпкой, покрытой мягкими серовато-белыми лоскутами покрывала, и с глубоко укореняющейся клубневидной ножкой. Это теплолюбивый европейский вид, местами частый в некоторых частях Средиземноморья и к северу рассеянный до редкого вплоть до Англии, Нидерландов, Центральной Европы и Прибалтики.",
+      "cap": "Шляпка 6–15 cm в диаметре, изредка до 25 cm, сначала почти шаровидная, затем выпуклая и наконец плоская или слегка вдавленная. Поверхность белая или кремовая, от центра сероватая или бледно-серовато-коричневая, покрыта мягкими, толстыми, плоскими или угловатыми лоскутами общего покрывала того же цвета или темнее, которые может смыть дождь. Край без рубчиков, с него свисают рваные ватообразные остатки покрывала.",
+      "hymenium": "Пластинки свободные, частые и довольно широкие, сначала белые, в зрелости кремовые, с тонко хлопьевидным или слегка зазубренным краем.",
+      "stipe": "Ножка 10–20 cm длиной и 1,5–4 cm толщиной, белая, сплошная и цилиндрическая, с грубо хлопьевидной или мучнисто-чешуйчатой поверхностью. Книзу она переходит в крупный булавовидный или репообразный клубень, глубоко погружённый в почву и часто заканчивающийся коротким корневидным острием; на клубне один или несколько поясков сероватых остатков покрывала, но мешковидной вольвы нет. Широкое белое кольцо ватообразное и мучнистое, сверху бороздчатое и хрупкое, с возрастом часто разрывается или исчезает.",
+      "flesh": "Белая, толстая и плотная, на срезе не меняет цвет. Запах невыраженный или слабо редечный, иногда описывается как приятный ореховый, с возрастом становится неприятным.",
+      "sporePrint": "Споровый порошок белый. Споры широкоэллипсоидные, гладкие, гиалиновые и амилоидные, 9–13,5 × 6–8,5 µm.",
+      "habitat": "Образует эктомикоризу с лиственными деревьями, особенно с дубом, грабом, буком и липой (Tilia), а также с лещиной. Растёт одиночно или небольшими группами в тёплых светлых лесах, на опушках, а также в парках, аллеях и других городских зелёных насаждениях, почти всегда на известковой или щелочной почве. Плодоносит с июня по ноябрь, чаще всего с июля по сентябрь.",
+      "uses": "Несъедобен. Старые французские, немецкие и итальянские труды указывают его как съедобный, но новые среднеевропейские труды не рекомендуют его есть, поскольку в сыром виде он слабоядовит; в нём также указывались иботеновая кислота и мусцимол, но это не подтверждено. Кроме того, белый цвет, кольцо и клубневидное основание делают смешение со смертельно ядовитыми белыми видами рода Amanita серьёзной опасностью.",
+      "confusion": "Amanita echinocephala обычно мельче, на шляпке у неё торчащие, заострённые, пирамидальные бородавки, а пластинки часто с зеленоватым оттенком. У Amanita vittadinii ножка густо покрыта оттопыренными чешуйками, утолщённого клубня нет, растёт она в траве, часто в городских парках. У Amanita ovoidea на шляпке мало лоскутов, край мучнистый, а вольва крупная, белая или охристо-кремовая. Смертельно ядовитая Amanita virosa обычно имеет гладкую голую шляпку и мешковидную вольву. Белая форма Amanita citrina имеет более плоские лоскуты на шляпке, более гладкую ножку с постоянным кольцом и запах сырого картофеля.",
+      "notes": "Гипернакапливает серебро, концентрируя его в плодовых телах намного выше уровня в окружающей почве. По-видимому, вид расселяется на север и всё чаще встречается в городах, особенно под липами, однако он внесён в красные списки нескольких европейских стран, в том числе Польши, Чехии, Дании и Швеции.",
+      "names": [],
+      "sourceUrls": [
+        "https://ru.wikipedia.org/wiki/Мухомор_шишковидный"
+      ],
+      "label": "мухомор шишковидный"
+    },
+    "sk": {
+      "description": "Veľká, mohutná, belavá huba rastúca na zemi, s klobúkom pokrytým mäkkými sivobielymi zvyškami plachtičky a s hlboko koreniacim hľuzovitým hlúbikom. Je to teplomilný európsky druh, miestami hojný v Stredomorí a smerom na sever roztrúsený až vzácny až po Anglicko, Holandsko, strednú Európu a Pobaltie.",
+      "cap": "Klobúk má 6–15 cm v priemere, výnimočne až 25 cm, najprv je takmer guľovitý, potom vyklenutý a napokon plochý alebo mierne vmačknutý. Povrch je biely až krémový, od stredu sivastý až bledo sivohnedý, pokrytý mäkkými, hrubými, plochými až hranatými kúskami celkovej plachtičky rovnakej alebo tmavšej farby, ktoré dážď môže zmyť. Okraj nie je ryhovaný a visia z neho roztrhané, vatovité zvyšky plachtičky.",
+      "hymenium": "Lupene sú voľné, husté a pomerne široké, najprv biele, v zrelosti krémové, s jemne vločkatým alebo slabo zúbkatým ostrím.",
+      "stipe": "Hlúbik je 10–20 cm dlhý a 1,5–4 cm hrubý, biely, plný a valcovitý, s hrubo vločkatým až múčnato šupinatým povrchom. Dolu prechádza do veľkej kyjovitej až repovitej hľuzy hlboko ponorenej v pôde, často zakončenej krátkym koreňovitým hrotom; na hľuze sú jeden alebo viac prstencov sivastých zvyškov plachtičky, ale nie vakovitá pošva. Široký biely prsteň je vatovitý a múčnatý, na hornej strane ryhovaný a krehký a vekom sa často roztrhne alebo zmizne.",
+      "flesh": "Biela, hrubá a pevná, na reze nemení farbu. Vôňa je nevýrazná alebo slabo reďkovková, niekedy opisovaná ako príjemne oriešková, vekom sa stáva nepríjemnou.",
+      "sporePrint": "Výtrusný prach biely. Výtrusy sú široko elipsoidné, hladké, hyalínne a amyloidné, 9–13,5 × 6–8,5 µm.",
+      "habitat": "Ektomykorízna s listnatými stromami, najmä s dubom, hrabom, bukom a lipou (Tilia), aj s lieskou. Rastie jednotlivo alebo v malých skupinách v teplých, svetlých lesoch, na okrajoch lesov a v parkoch, alejách a inej mestskej zeleni, takmer vždy na vápenatej alebo zásaditej pôde. Plodnice tvorí od júna do novembra, najčastejšie od júla do septembra.",
+      "uses": "Nejedlá. Staršie francúzske, nemecké a talianske diela ju uvádzajú ako jedlú, novšie stredoeurópske diela však neodporúčajú ju jesť, pretože je za surova slabo jedovatá; uvádzali sa v nej aj kyselina ibotenová a muscimol, čo však nebolo potvrdené. Biela farba, prsteň a hľuzovitá báza navyše robia zámenu so smrteľne jedovatými bielymi druhmi rodu Amanita vážnym nebezpečenstvom.",
+      "confusion": "Amanita echinocephala je zvyčajne menšia, má na klobúku vzpriamené, špicaté, ihlanovité bradavice a lupene často so zelenkastým nádychom. Amanita vittadinii má hlúbik husto pokrytý odstávajúcimi šupinami, nemá zhrubnutú hľuzu a rastie v tráve, často v mestských parkoch. Amanita ovoidea má na klobúku málo zvyškov plachtičky, múčnatý okraj a veľkú bielu až okrovo krémovú pošvu. Smrteľne jedovatá Amanita virosa má zvyčajne hladký, holý klobúk a vakovitú pošvu. Biela forma Amanita citrina má plochšie zvyšky plachtičky na klobúku, hladší hlúbik s trvalým prsteňom a vôňu surových zemiakov.",
+      "notes": "Hyperakumuluje striebro a koncentruje ho v plodniciach vysoko nad úroveň v okolitej pôde. Zdá sa, že sa šíri na sever a čoraz častejšie sa nachádza v mestách, najmä pod lipami, no v niekoľkých európskych krajinách vrátane Poľska, Česka, Dánska a Švédska je zaradená do červených zoznamov.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.nahuby.sk/atlas-hub/Amanita-strobiliformis/muchotravka-siskovita/muchomurka-siskovita/ID297"
+      ],
+      "label": "muchotrávka šiškovitá"
+    },
+    "sl": {
+      "description": "Velika, čokata, belkasta goba, ki raste na tleh, s klobukom, pokritim z mehkimi sivobelimi krpicami ovoja, in z globoko ukoreninjenim, gomoljastim betom. Je toploljubna evropska vrsta, ponekod pogosta v delih Sredozemlja, proti severu pa raztresena do redka vse do Anglije, Nizozemske, srednje Evrope in Baltika.",
+      "cap": "Klobuk meri 6–15 cm v premeru, izjemoma do 25 cm, sprva je skoraj kroglast, nato izbočen in nazadnje raven ali rahlo vdrt. Površina je bela do kremna, od sredine sivkasta do bledo sivorjava, pokrita z mehkimi, debelimi, ploščatimi do oglatimi krpicami splošnega ovoja enake ali temnejše barve, ki jih lahko spere dež. Rob ni progast in z njega visijo raztrgani, vatasti ostanki ovoja.",
+      "hymenium": "Lističi so prosti, gosti in precej široki, sprva beli, v zrelosti kremni, z drobno kosmičasto ali rahlo nazobčano ostrino.",
+      "stipe": "Bet je dolg 10–20 cm in debel 1,5–4 cm, bel, poln in valjast, z grobo kosmičasto do moknato luskasto površino. Navzdol prehaja v velik kijast do repast gomolj, globoko pogreznjen v tla, ki se pogosto konča s kratko koreninasto konico; na gomolju je en ali več obročev sivkastih ostankov ovoja, nožnice v obliki vreče pa ni. Širok bel obroček je vatast in moknat, na zgornji strani progast in krhek ter se s starostjo pogosto raztrga ali izgine.",
+      "flesh": "Belo, debelo in čvrsto, na prerezu ne spreminja barve. Vonj je nerazločen ali rahlo po redkvici, včasih opisan kot prijetno orehov, s starostjo postane neprijeten.",
+      "sporePrint": "Trosni prah bel. Trosi so široko elipsoidni, gladki, hialini in amiloidni, 9–13,5 × 6–8,5 µm.",
+      "habitat": "Ektomikorizna z listavci, zlasti s hrastom, gabrom, bukvijo in lipo (Tilia), pa tudi z leskom. Raste posamič ali v majhnih skupinah v toplih, svetlih gozdovih, na gozdnih robovih ter v parkih, drevoredih in drugih mestnih zelenih površinah, skoraj vedno na apnenčastih ali bazičnih tleh. Plodiči se pojavljajo od junija do novembra, največ od julija do septembra.",
+      "uses": "Neužitna. Starejša francoska, nemška in italijanska dela jo navajajo kot užitno, novejša srednjeevropska dela pa odsvetujejo njeno uživanje, ker je surova rahlo strupena; v njej so navajali tudi ibotensko kislino in muscimol, kar pa ni potrjeno. Bela barva, obroček in gomoljasto dno poleg tega naredijo zamenjavo s smrtno strupenimi belimi vrstami iz rodu Amanita za resno nevarnost.",
+      "confusion": "Amanita echinocephala je običajno manjša, ima na klobuku pokončne, koničaste, piramidaste bradavice in pogosto lističe z zelenkastim nadihom. Amanita vittadinii ima bet gosto pokrit s štrlečimi luskami, nima odebeljenega gomolja in raste v travi, pogosto v mestnih parkih. Amanita ovoidea ima na klobuku malo krpic, moknat rob in veliko belo do okrasto kremno nožnico. Smrtno strupena Amanita virosa ima običajno gladek, gol klobuk in vrečasto nožnico. Bela oblika vrste Amanita citrina ima bolj ploščate krpice na klobuku, bolj gladek bet s trajnim obročkom in vonj po surovem krompirju.",
+      "notes": "Hiperakumulira srebro in ga v plodiščih kopiči daleč nad ravnmi v okoliških tleh. Zdi se, da se širi proti severu in se vse pogosteje pojavlja v mestih, zlasti pod lipami, vendar je na rdečih seznamih več evropskih držav, med njimi Poljske, Češke, Danske in Švedske.",
+      "names": [],
+      "sourceUrls": [
+        "https://sl.wikipedia.org/wiki/Velikoluska_mušnica"
+      ],
+      "label": "velikoluska mušnica"
+    },
+    "sr": {
+      "description": "Велика, здепаста, беличаста гљива која расте на тлу, са шеширом прекривеним меким сивобелим крпицама овоја и дубоко укорењеном, кртоластом дршком. То је топлољубива европска врста, местимично честа у деловима Средоземља, а према северу раштркана до ретка све до Енглеске, Холандије, средње Европе и Балтика.",
+      "cap": "Шешир је широк 6–15 cm, изузетно до 25 cm, најпре готово лоптаст, затим испупчен и на крају раван или благо удубљен. Површина је бела до крем, од средине сивкаста до бледо сивосмеђа, прекривена меким, дебелим, равним до угластим крпицама општег овоја исте или тамније боје, које киша може да спере. Ивица није ребраста и са ње висе поцепани, ватасти остаци овоја.",
+      "hymenium": "Листићи су слободни, густи и прилично широки, најпре бели, у зрелости крем, са фино пахуљичастом или благо назубљеном ивицом.",
+      "stipe": "Дршка је дуга 10–20 cm и дебела 1,5–4 cm, бела, пуна и ваљкаста, грубо пахуљичасте до брашнасто-љуспасте површине. Наниже прелази у велику батинасту до репасту кртолу дубоко урођену у тло, која се често завршава кратким корењастим врхом; на кртоли се налази један или више прстенова сивкастих остатака овоја, али нема врећасте волве. Широк бели прстен је ватаст и брашнаст, са горње стране ребраст и крхак, а са старењем се често поцепа или нестане.",
+      "flesh": "Бело, дебело и чврсто, на пресеку не мења боју. Мирис је неизражен или слабо на ротквицу, понекад описан као пријатно орашаст, а са старењем постаје непријатан.",
+      "sporePrint": "Отисак спора бео. Споре су широко елипсоидне, глатке, хијалине и амилоидне, 9–13,5 × 6–8,5 µm.",
+      "habitat": "Ектомикоризна са листопадним дрвећем, нарочито са храстом, грабом, буквом и липом (Tilia), а и са леском. Расте појединачно или у малим групама у топлим, светлим шумама, на рубовима шума и у парковима, дрворедима и другим градским зеленим површинама, готово увек на кречњачком или базном тлу. Плоди од јуна до новембра, најчешће од јула до септембра.",
+      "uses": "Нејестива. Старија француска, немачка и италијанска дела наводе је као јестиву, али новија средњоевропска дела саветују да се не једе јер је у сировом стању благо отровна; у њој су навођени и иботенска киселина и мусцимол, али то није потврђено. Бела боја, прстен и кртоласта основа осим тога чине замену са смртоносним белим врстама рода Amanita озбиљном опасношћу.",
+      "confusion": "Amanita echinocephala је обично мања, на шеширу има усправне, шиљате, пирамидалне брадавице и често листиће са зеленкастим одсјајем. Amanita vittadinii има дршку густо прекривену штрчећим љуспама, нема задебљалу кртолу и расте у трави, често у градским парковима. Amanita ovoidea има мало крпица на шеширу, брашнасту ивицу и велику белу до окер-крем волву. Смртоносна Amanita virosa обично има гладак, го шешир и врећасту волву. Бела форма врсте Amanita citrina има равније крпице на шеширу, глађу дршку са трајним прстеном и мирис сировог кромпира.",
+      "notes": "Хиперакумулира сребро и концентрише га у плодним телима далеко изнад нивоа у околном тлу. Чини се да се шири ка северу и све чешће се налази у градовима, нарочито испод липа, али се ипак налази на црвеним листама неколико европских земаља, међу којима су Пољска, Чешка, Данска и Шведска.",
+      "names": [],
+      "sourceUrls": [
+        "https://sr.wikipedia.org/wiki/Bradavičava_muhara"
+      ],
+      "label": "брадавичава мухара"
+    },
+    "sv": {
+      "description": "En stor, kraftig, vitaktig marksvamp med en hatt klädd i mjuka gråvita hylleflagor och en djupt rotande, knölformig fot. Det är en värmeälskande europeisk art, vanlig i delar av Medelhavsområdet och norrut spridd till sällsynt ända upp till England, Nederländerna, Centraleuropa och Baltikum.",
+      "cap": "Hatten är 6–15 cm bred, ibland upp till 25 cm, först nästan klotformig, sedan välvd och till sist platt eller något nedtryckt. Ytan är vit till gräddfärgad, från mitten gråaktig till blekt gråbrun, och täckt av mjuka, tjocka, platta till kantiga flagor av det allmänna hyllet, i samma eller mörkare färg, som regn kan skölja bort. Kanten är inte strimmig och behängd med trasiga, bomullsartade hyllerester.",
+      "hymenium": "Skivorna är fria, täta och ganska breda, först vita och som mogna gräddfärgade, med fint flockig eller svagt tandad egg.",
+      "stipe": "Foten är 10–20 cm lång och 1,5–4 cm tjock, vit, fylld och cylindrisk, med grovt flockig till mjölig-fjällig yta. Nedtill övergår den i en stor klubb- till rovformig knöl som sitter djupt i jorden och ofta slutar i en kort rotliknande spets; knölen bär en eller flera gördlar av gråaktiga hyllerester men ingen säckformig strumpa. Den breda vita ringen är bomullsartad och mjölig, strimmig på ovansidan och skör, och spricker eller försvinner ofta med åldern.",
+      "flesh": "Vitt, tjockt och fast, oföränderligt i snitt. Lukten är obetydlig eller svagt av rädisa, ibland beskriven som behagligt nötaktig, och blir obehaglig med åldern.",
+      "sporePrint": "Sporpulver vitt. Sporerna är brett ellipsoida, släta, hyalina och amyloida, 9–13,5 × 6–8,5 µm.",
+      "habitat": "Bildar ektomykorrhiza med lövträd, särskilt ek, avenbok, bok och lind (Tilia), och även hassel. Den växer ensam eller i små grupper i varma, ljusa skogar, i skogsbryn och i parker, alléer och andra urbana grönområden, nästan alltid på kalkrik eller basisk mark. Den fruktifierar från juni till november, mest från juli till september.",
+      "uses": "Oätlig. Äldre franska, tyska och italienska verk anger den som ätlig, men nyare centraleuropeiska verk avråder från att äta den, eftersom den är svagt giftig rå; ibotensyra och muscimol har också angetts i den, men det är inte bekräftat. Den vita färgen, ringen och den knöliga basen gör dessutom förväxling med dödligt giftiga vita Amanita-arter till en allvarlig fara.",
+      "confusion": "Amanita echinocephala är oftast mindre, har upprätta, spetsiga, pyramidformade vårtor på hatten och ofta skivor med grönaktig ton. Amanita vittadinii har en fot tätt klädd med utstående fjäll, ingen uppsvälld knöl och växer i gräs, ofta i stadsparker. Amanita ovoidea har få flagor på hatten, en mjölig kant och en stor vit till ockragräddfärgad strumpa. Den dödligt giftiga Amanita virosa har oftast en slät, naken hatt och en säckformig strumpa. Den vita formen av Amanita citrina har plattare flagor på hatten, en slätare fot med kvarsittande ring och lukt av rå potatis.",
+      "notes": "Den hyperackumulerar silver och koncentrerar det i fruktkropparna långt över halterna i den omgivande jorden. Den tycks sprida sig norrut och påträffas allt oftare i städer, särskilt under lindar, men står ändå på rödlistan i flera europeiska länder, bland annat Polen, Tjeckien, Danmark och Sverige.",
+      "names": [],
+      "sourceUrls": [
+        "https://sv.wikipedia.org/wiki/Flockflugsvamp"
+      ],
+      "label": "flockflugsvamp"
+    },
+    "tr": {
+      "description": "Şapkası yumuşak grimsi beyaz örtü yamalarıyla kaplı, sapı derine kök salan ve yumrulu, toprakta yetişen büyük, iri yapılı, beyazımsı bir mantar. Sıcağı seven bir Avrupa türüdür; Akdeniz bölgesinin bazı kesimlerinde yaygındır, kuzeye doğru ise İngiltere, Hollanda, Orta Avrupa ve Baltık bölgesine kadar dağınık ile nadir arasında görülür.",
+      "cap": "Şapka 6–15 cm çapında, bazen 25 cm'ye kadar; önce neredeyse küre biçimli, sonra dışbükey ve sonunda düz ya da hafifçe çukurdur. Yüzeyi beyazdan kremaya, ortadan itibaren grimsiden soluk grimsi kahverengiye dönüşür ve genel örtünün aynı renkte ya da daha koyu, yumuşak, kalın, düz ila köşeli yamalarıyla kaplıdır; yağmur bu yamaları yıkayabilir. Kenarı çizgili değildir ve üzerinden yırtık, pamuksu örtü kalıntıları sarkar.",
+      "hymenium": "Lameller serbest, sık ve oldukça geniştir; önce beyaz, olgunlukta krem rengindedir, kenarları ince pullu ya da hafifçe dişlidir.",
+      "stipe": "Sap 10–20 cm uzunluğunda ve 1,5–4 cm kalınlığındadır; beyaz, dolu ve silindiriktir, yüzeyi kaba pullu ila unlu-pulludur. Aşağıda toprağa derinden gömülü, çoğu kez kısa köksü bir uçla biten büyük, topuz ila şalgam biçimli bir yumruya genişler; yumrunun üzerinde grimsi örtü kalıntılarından bir ya da birkaç halka bulunur, ancak torba biçimli volva yoktur. Geniş beyaz halka pamuksu ve unludur, üst yüzü çizgili ve kırılgandır ve yaşla birlikte çoğu kez yırtılır ya da kaybolur.",
+      "flesh": "Beyaz, kalın ve sıkı, kesilince renk değiştirmez. Kokusu belirsiz ya da hafifçe turp gibidir, bazen hoş bir fındık kokusu olarak tanımlanır ve yaşlandıkça hoş olmayan bir hal alır.",
+      "sporePrint": "Spor izi beyaz. Sporlar geniş elipsoit, düz, hiyalin ve amiloittir, 9–13,5 × 6–8,5 µm.",
+      "habitat": "Yapraklı ağaçlarla, özellikle meşe, gürgen, kayın ve ıhlamur (Tilia) ile, ayrıca fındıkla ektomikoriza oluşturur. Sıcak, açık ormanlarda, orman kenarlarında ve parklar, ağaçlı yollar ve diğer kentsel yeşil alanlarda, neredeyse her zaman kireçli ya da bazik toprakta tek tek ya da küçük gruplar halinde yetişir. Haziran'dan Kasım'a kadar, çoğunlukla Temmuz'dan Eylül'e kadar meyve verir.",
+      "uses": "Yenmez. Eski Fransız, Alman ve İtalyan eserleri onu yenilebilir olarak gösterir, ancak yeni Orta Avrupa eserleri çiğken hafif zehirli olduğu için yenmemesini önerir; içinde iboten asidi ve muskimol bulunduğu da bildirilmiş, ancak doğrulanmamıştır. Ayrıca beyaz rengi, halkası ve yumrulu tabanı, ölümcül zehirli beyaz Amanita türleriyle karıştırılmasını ciddi bir tehlike haline getirir.",
+      "confusion": "Amanita echinocephala genellikle daha küçüktür, şapkasında dik, sivri, piramit biçimli siğiller bulunur ve lamelleri çoğu kez yeşilimsi bir tona sahiptir. Amanita vittadinii'nin sapı çıkıntılı pullarla sıkıca kaplıdır, şişkin bir yumrusu yoktur ve çimenlerde, çoğu kez kent parklarında yetişir. Amanita ovoidea'nın şapkasında az sayıda yama, unlu bir kenar ve beyazdan okra-kremine büyük bir volva bulunur. Ölümcül zehirli Amanita virosa'nın genellikle düz, çıplak bir şapkası ve torba biçimli bir volvası vardır. Amanita citrina'nın beyaz formunun şapkasında daha yassı yamalar, kalıcı halkalı daha düz bir sap ve çiğ patates kokusu vardır.",
+      "notes": "Gümüşü hiperbiriktirir ve meyve gövdelerinde çevredeki topraktaki düzeylerin çok üzerinde yoğunlaştırır. Kuzeye doğru yayılıyor gibi görünür ve kentlerde, özellikle ıhlamur ağaçlarının altında giderek daha sık bulunur; buna karşın Polonya, Çekya, Danimarka ve İsveç dahil birçok Avrupa ülkesinin kırmızı listesinde yer alır.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Великий, масивний, білуватий наземний гриб із шапкою, вкритою м'якими сірувато-білими клаптями покривала, і з глибоко вкоріненою бульбоподібною ніжкою. Це теплолюбний європейський вид, місцями частий у деяких частинах Середземномор'я, а на північ розсіяний до рідкісного аж до Англії, Нідерландів, Центральної Європи та Прибалтики.",
+      "cap": "Шапка 6–15 cm у діаметрі, зрідка до 25 cm, спочатку майже куляста, потім опукла й нарешті плоска або злегка вдавлена. Поверхня біла або кремова, від центру сірувата або блідо-сірувато-коричнева, вкрита м'якими, товстими, плоскими або кутастими клаптями загального покривала того самого кольору або темнішими, які може змити дощ. Край без рубчиків, із нього звисають рвані ватоподібні залишки покривала.",
+      "hymenium": "Пластинки вільні, густі й досить широкі, спочатку білі, у зрілості кремові, з тонко пластівчастим або злегка зазубреним краєм.",
+      "stipe": "Ніжка 10–20 cm завдовжки і 1,5–4 cm завтовшки, біла, суцільна й циліндрична, з грубо пластівчастою або борошнисто-лускатою поверхнею. Донизу вона переходить у велику булавоподібну або ріпоподібну бульбу, глибоко занурену в ґрунт, яка часто закінчується коротким кореневидним вістрям; на бульбі один або кілька поясків сіруватих залишків покривала, але мішкоподібної вольви немає. Широке біле кільце ватоподібне й борошнисте, зверху борозенчасте та крихке, з віком часто розривається або зникає.",
+      "flesh": "Біла, товста й щільна, на зрізі не змінює кольору. Запах невиразний або слабко редьковий, іноді описується як приємний горіховий, з віком стає неприємним.",
+      "sporePrint": "Споровий порошок білий. Спори широкоеліпсоїдні, гладкі, гіалінові та амілоїдні, 9–13,5 × 6–8,5 µm.",
+      "habitat": "Утворює ектомікоризу з листяними деревами, особливо з дубом, грабом, буком і липою (Tilia), а також із ліщиною. Росте поодинці або невеликими групами в теплих світлих лісах, на узліссях, а також у парках, алеях та інших міських зелених насадженнях, майже завжди на вапнистому або лужному ґрунті. Плодоносить з червня по листопад, найчастіше з липня по вересень.",
+      "uses": "Неїстівний. Старі французькі, німецькі та італійські праці вказують його як їстівний, але новіші середньоєвропейські праці не радять його їсти, оскільки в сирому вигляді він слабко отруйний; у ньому також зазначали іботенову кислоту й мусцимол, але це не підтверджено. Крім того, білий колір, кільце й бульбоподібна основа роблять сплутування зі смертельно отруйними білими видами роду Amanita серйозною небезпекою.",
+      "confusion": "Amanita echinocephala зазвичай дрібніша, на шапці має стирчачі, загострені, пірамідальні бородавки, а пластинки часто із зеленкуватим відтінком. У Amanita vittadinii ніжка густо вкрита відстовбурченими лусочками, потовщеної бульби немає, росте вона в траві, часто в міських парках. У Amanita ovoidea на шапці мало клаптів, край борошнистий, а вольва велика, біла або вохристо-кремова. Смертельно отруйна Amanita virosa зазвичай має гладку голу шапку й мішкоподібну вольву. Біла форма Amanita citrina має пласкіші клапті на шапці, гладкішу ніжку з постійним кільцем і запах сирої картоплі.",
+      "notes": "Гіперакумулює срібло, концентруючи його в плодових тілах значно вище за рівень у навколишньому ґрунті. Схоже, вид поширюється на північ і дедалі частіше трапляється в містах, особливо під липами, проте його внесено до червоних списків кількох європейських країн, зокрема Польщі, Чехії, Данії та Швеції.",
+      "names": [],
+      "sourceUrls": [
+        "http://gribi.net.ua/uk/amanita-strobiliformis/",
+        "https://uk.wikipedia.org/wiki/Мухомор_шишкоподібний"
+      ],
+      "label": "мухомор шишкоподібний"
+    },
+    "zh": {
+      "description": "一種生於地上、大型粗壯、帶白色的蕈菇，菌蓋覆有柔軟的灰白色菌幕殘片，菌柄基部呈塊莖狀並深深紮根於土中。這是一個喜溫暖的歐洲物種，在地中海地區部分地方常見，向北零散至稀少分布，直到英格蘭、荷蘭、中歐和波羅的海地區。",
+      "cap": "菌蓋直徑6–15 cm，偶達25 cm，初近球形，後呈凸鏡形，最後平展或略凹陷。表面白色至奶油色，自中央起帶灰色至淡灰褐色，覆有柔軟、厚實、扁平至多角形的外菌幕殘片，顏色相同或較深，可被雨水沖掉。邊緣無條紋，懸垂破碎的棉絮狀菌幕殘餘。",
+      "hymenium": "菌褶離生、密集且相當寬，初白色，成熟時奶油色，褶緣具細絮狀或略呈鋸齒狀。",
+      "stipe": "菌柄長10–20 cm，粗1.5–4 cm，白色，實心，圓柱形，表面粗絮狀至粉質鱗片狀。下部膨大成深埋土中的大型棒狀至蕪菁狀塊莖，常以短根狀尖端結束；塊莖上有一至數圈灰色菌幕殘餘，但沒有囊狀菌托。寬大的白色菌環呈棉絮狀和粉質，上表面有條紋，易碎，老時常破裂或消失。",
+      "flesh": "白色，厚而緊實，切開不變色。氣味不明顯或微似蘿蔔，有時被描述為宜人的堅果味，老時變得難聞。",
+      "sporePrint": "孢子印白色。孢子寬橢圓形，光滑，透明，類澱粉質，9–13.5 × 6–8.5 µm。",
+      "habitat": "與闊葉樹形成外生菌根，尤其是櫟樹、鵝耳櫪、山毛櫸和椴樹(Tilia)，也與榛樹共生。單生或小群生於溫暖明亮的林中、林緣以及公園、林蔭道和其他城市綠地，幾乎總是在石灰質或鹼性土壤上。六月至十一月發生，以七月至九月最多。",
+      "uses": "不宜食用。較早的法國、德國和義大利著作列為可食，但近年中歐著作因其生食有輕微毒性而建議勿食；也曾報告其含有伊博坦酸和蠅蕈醇，但未獲證實。此外，其白色、菌環和塊莖狀基部，使其與致命的白色Amanita物種混淆成為嚴重的危險。",
+      "confusion": "Amanita echinocephala通常較小，菌蓋上有直立、尖銳的金字塔形疣，菌褶常帶綠色調。Amanita vittadinii的菌柄密被翹起的鱗片，沒有膨大的塊莖，生於草地，常見於城市公園。Amanita ovoidea菌蓋殘片少，邊緣粉質，具大型白色至赭奶油色菌托。致命的Amanita virosa通常菌蓋光滑無殘片，菌托囊狀。Amanita citrina的白色型菌蓋殘片較扁平，菌柄較光滑且具宿存菌環，並有生馬鈴薯氣味。",
+      "notes": "它能超量累積銀，使子實體中的濃度遠高於周圍土壤。它似乎正在向北擴展，越來越常在城市中發現，尤其是椴樹下，但仍被列入數個歐洲國家的紅色名錄，包括波蘭、捷克、丹麥和瑞典。",
+      "names": [],
+      "sourceUrls": []
+    }
+  },
+  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Amanita_strobiliformis/Amanita_strobiliformis@1600.webp",
+  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Amanita_strobiliformis/Amanita_strobiliformis@400.webp",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Amanita_strobiliformis/Amanita_strobiliformis@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Amanita_strobiliformis/Amanita_strobiliformis@400.webp",
+  "plateCredit": {
+    "author": "Unknown; owner-supplied artwork",
+    "credit": "Existing Gemini mark retained once; not authenticated authorship.",
+    "license": "User supplied; redistribution rights not independently established",
+    "source": "supplied_original.png"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Amanita_strobiliformis/as1.webp",
+      "author": "Irene Saltini",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/57528011"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Amanita_strobiliformis/as2.webp",
+      "author": "Tomas Pocius",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/124438581"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Amanita_strobiliformis/as3.webp",
+      "author": "ÖkopatóPál",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/219706457"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Amanita_strobiliformis/as4.webp",
+      "author": "TerranuX",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/93608486"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Amanita_strobiliformis/as5.webp",
+      "author": "Elias",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/182837099"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Agaricales/Amanitaceae/Amanita_strobiliformis/Amanita_strobiliformis@1600.webp",
+      "author": "Unknown; owner-supplied artwork",
+      "license": "User supplied; redistribution rights not independently established",
+      "sourceUrl": "supplied_original.png",
+      "existingMark": "Gemini; retained once, no authorship/rights authentication"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Agaricales/Amanitaceae/Amanita_strobiliformis/as1.webp",
+      "author": "Irene Saltini",
+      "license": "CC0 1.0 Universal",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/57528011",
+      "photoUrl": "https://www.inaturalist.org/photos/91770356",
+      "attribution": "no rights reserved",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Agaricales/Amanitaceae/Amanita_strobiliformis/as2.webp",
+      "author": "Tomas Pocius",
+      "license": "CC0 1.0 Universal",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/124438581",
+      "photoUrl": "https://www.inaturalist.org/photos/210916871",
+      "attribution": "no rights reserved",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Agaricales/Amanitaceae/Amanita_strobiliformis/as3.webp",
+      "author": "ÖkopatóPál",
+      "license": "CC0 1.0 Universal",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/219706457",
+      "photoUrl": "https://www.inaturalist.org/photos/388913767",
+      "attribution": "no rights reserved",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Agaricales/Amanitaceae/Amanita_strobiliformis/as4.webp",
+      "author": "TerranuX",
+      "license": "CC0 1.0 Universal",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/93608486",
+      "photoUrl": "https://www.inaturalist.org/photos/155168040",
+      "attribution": "no rights reserved",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Agaricales/Amanitaceae/Amanita_strobiliformis/as5.webp",
+      "author": "Elias",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/182837099",
+      "photoUrl": "https://www.inaturalist.org/photos/318864686",
+      "attribution": "(c) Elias, some rights reserved (CC BY)",
+      "adaptation": "Centered true-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    }
+  ],
+  "synonyms": [
+    "Agaricus strobiliformis Paulet ex Vittad.",
+    "Amanita solitaria var. strobiliformis (Paulet ex Vittad.) Costantin & L.M. Dufour",
+    "Amanita pellita var. strobiliformis (Paulet ex Vittad.) Konrad & Maubl.",
+    "Lepidella strobiliformis (Paulet ex Vittad.) E.-J. Gilbert & Kühner",
+    "Armillaria strobiliformis (Paulet ex Vittad.) Locq.",
+    "Amanita solitaria f. strobiliformis (Paulet ex Vittad.) Cetto",
+    "Lepiota strobiliformis (Paulet ex Vittad.) Gillet"
+  ],
+  "fruitingFrom": 6,
+  "fruitingTo": 11,
+  "reserved": false,
+  "id": 144,
+  "added": "2026-11-09",
+  "citation": "Bertill., in Dechambre, Dict. Encyclop. Sci. Médic. (Paris) 1(3): 499 (1866)",
+  "illustrationProvenance": {
+    "tool": "Pillow + OpenCV deterministic alpha-only segmentation; no generation",
+    "sourceFile": "Amanita strobiliformis.png",
+    "sourceFormat": "JPEG",
+    "sourceFormatNote": "File named .png is actually JPEG/JFIF; no source alpha; alpha produced by segmentation of the cream paper background.",
+    "sourceDimensions": [
+      896,
+      1200
+    ],
+    "sourceSHA256": "595f1a4e9ac44c715b96fbe08cdeabf4f374af29b9192ea8ac453cdeca3779b5",
+    "backgroundSHA256": "d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c",
+    "alphaPNG": "artwork_rgba.png",
+    "mask": "artwork_alpha_mask.png",
+    "cropBBox": [
+      41,
+      118,
+      821,
+      1114
+    ],
+    "uniformScale": 1.794871794871795,
+    "placement": [
+      100,
+      306
+    ],
+    "composedArtworkDimensions": [
+      1400,
+      1788
+    ],
+    "allSourceRGBChangedPixels": 0,
+    "transparentPixels": 705336,
+    "opaquePixels": 354347,
+    "partialAlphaPixels": 15517,
+    "looseSpeckPixelsKept": 0,
+    "signatureBox": [
+      700,
+      1070,
+      790,
+      1122
+    ],
+    "signatureComponents": 3,
+    "signaturePixels": 391,
+    "preservedObjects": [
+      "mature fruit body with flat-convex white cap bearing scattered pale floccose warts, hanging cream ring and shaggy-scaly stipe on a bulbous base with brownish soil-stained volva remnants (centre)",
+      "fallen fruit body showing the underside with crowded white free gills, torn ring, scaly stipe and soil-encrusted basal bulb (lower left)",
+      "young button with globose densely warted cap on a swollen bulbous base (right)",
+      "existing Gemini mark"
+    ],
+    "signatureTreatment": "Existing Gemini mark retained once; zero added marks. No creator, rights or species identity inferred.",
+    "contours": [
+      {
+        "area": 132344.0,
+        "box": [
+          42,
+          613,
+          573,
+          494
+        ]
+      },
+      {
+        "area": 57999.0,
+        "box": [
+          600,
+          576,
+          219,
+          391
+        ]
+      },
+      {
+        "area": 163663.5,
+        "box": [
+          197,
+          119,
+          547,
+          761
+        ]
+      }
+    ],
+    "rejectedPaperVignetteContours": [
+      {
+        "area": 2730.5,
+        "box": [
+          312,
+          1165,
+          404,
+          20
+        ]
+      },
+      {
+        "area": 2668.0,
+        "box": [
+          788,
+          1000,
+          93,
+          185
+        ]
+      },
+      {
+        "area": 22999.0,
+        "box": [
+          193,
+          15,
+          688,
+          969
+        ]
+      },
+      {
+        "area": 8629.0,
+        "box": [
+          15,
+          15,
+          124,
+          678
+        ]
+      }
+    ],
+    "backgroundSourceDimensions": [
+      1067,
+      1600
+    ],
+    "backgroundCanvasDimensions": [
+      1600,
+      2400
+    ],
+    "generation": false,
+    "repainting": false,
+    "stretching": false,
+    "sourcePaperRemoved": true,
+    "visualReview": "PENDING",
+    "alphaPNGSHA256": "7ccd2a4b18acff3d1a8340ea081abe76f5ff8db29e66ee80ae57738633e71d9e",
+    "maskSHA256": "af8d0f83bc94c7039a8388594c885fdea3af50edcfba57f1b0163108cb39a5f3",
+    "recipeSHA256": "bfe19271afb6975d01537461ecad39e08575a711fb64d15bc3f927c8128b7b43",
+    "officialFiles": [
+      {
+        "path": "media/Amanita_strobiliformis@1600.webp",
+        "bytes": 297840,
+        "sha256": "0f01ea2934b7a9302269345f11d823d6a845b4685eec6042f4e7fdd1e6668155"
+      },
+      {
+        "path": "media/Amanita_strobiliformis@400.webp",
+        "bytes": 36354,
+        "sha256": "06ea66ae76ef5727a882371b00d96d32892b416481dc063e3d69d7c0b1ac7432"
+      }
+    ],
+    "rights": "User supplied; creator, generator, authorship and redistribution rights unverified",
+    "anatomyVerified": false
+  }
 }
 ];
