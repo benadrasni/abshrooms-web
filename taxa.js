@@ -197,7 +197,8 @@ export const TAXA = {
     sk: "podhríb"
   },
   Caloboletus: {
-    rank: "genus"
+    rank: "genus",
+    sk: "hríb"
   },
   Amanita: {
     rank: "genus",
@@ -250,7 +251,8 @@ export const TAXA = {
     pl: "boczniaczkowate"
   },
   Pleurocybella: {
-    rank: "genus"
+    rank: "genus",
+    sk: "hlivuľa"
   },
   Porotheleaceae: {
     rank: "family",
@@ -272,7 +274,8 @@ export const TAXA = {
     sk: "trsovnicovité"
   },
   Grifola: {
-    rank: "genus"
+    rank: "genus",
+    sk: "trsovnica"
   },
   Polyporaceae: {
     rank: "family",
@@ -393,7 +396,8 @@ export const TAXA = {
     sk: "trsovcovité"
   },
   Heterobasidion: {
-    rank: "genus"
+    rank: "genus",
+    sk: "koreňovka"
   },
   Lactarius: {
     rank: "genus",
@@ -522,7 +526,8 @@ export const TAXA = {
     rank: "family"
   },
   Kuehneromyces: {
-    rank: "genus"
+    rank: "genus",
+    sk: "šupinačka"
   },
   Galerinaceae: {
     rank: "family",
@@ -610,7 +615,8 @@ export const TAXA = {
     sk: "strmuľka"
   },
   Collybia: {
-    rank: "genus"
+    rank: "genus",
+    sk: "peniazovka"
   },
   Hypocreomycetidae: {
     rank: "subclass"
@@ -638,7 +644,8 @@ export const TAXA = {
     pl: "maczużnikowate"
   },
   Cordyceps: {
-    rank: "genus"
+    rank: "genus",
+    sk: "žezlovka"
   },
   Hericiaceae: {
     rank: "family",
@@ -678,7 +685,8 @@ export const TAXA = {
     pl: "stroczkowate"
   },
   Serpula: {
-    rank: "genus"
+    rank: "genus",
+    sk: "drevokaz"
   },
   Tuberaceae: {
     rank: "family",
@@ -688,7 +696,8 @@ export const TAXA = {
     pl: "truflowate"
   },
   Choiromyces: {
-    rank: "genus"
+    rank: "genus",
+    sk: "bielohľuzovka"
   },
   Nidulariaceae: {
     rank: "family",
@@ -723,7 +732,8 @@ export const TAXA = {
     sk: "cenangiovité"
   },
   Mitrula: {
-    rank: "genus"
+    rank: "genus",
+    sk: "čiapočka"
   },
   Leotiales: {
     rank: "order",
@@ -735,13 +745,15 @@ export const TAXA = {
     sk: "patyčkovité"
   },
   Leotia: {
-    rank: "genus"
+    rank: "genus",
+    sk: "klincovka"
   },
   Chlorociboriaceae: {
     rank: "family"
   },
   Chlorociboria: {
-    rank: "genus"
+    rank: "genus",
+    sk: "zelenica"
   },
   Diplocystidiaceae: {
     rank: "family"
@@ -751,13 +763,18 @@ export const TAXA = {
     sk: "hviezdovec"
   },
   Phanerochaetaceae: {
-    rank: "family"
+    rank: "family",
+    sk: "kôrnatecovité"
   },
   Terana: {
     rank: "genus",
     sk: "kôrnatec",
     cs: "kornatec",
     pl: "pięknoskórnik"
+  },
+  Phanerochaete: {
+    rank: "genus",
+    sk: "kôrnatec"
   },
   Psathyrellaceae: {
     rank: "family",
@@ -767,16 +784,19 @@ export const TAXA = {
   },
   Coprinellus: {
     rank: "genus",
+    sk: "hnojník",
     pl: "czernidłaczek"
   },
   Parasola: {
     rank: "genus"
   },
   Hymenopellis: {
-    rank: "genus"
+    rank: "genus",
+    sk: "sliznačka"
   },
   Lactifluus: {
-    rank: "genus"
+    rank: "genus",
+    sk: "rýdzik"
   },
   Clavariaceae: {
     rank: "family",
@@ -784,13 +804,15 @@ export const TAXA = {
     sk: "kyjačikovité"
   },
   Clavaria: {
-    rank: "genus"
+    rank: "genus",
+    sk: "kyjačik"
   },
   Phyllotopsis: {
     rank: "genus"
   },
   Hohenbuehelia: {
-    rank: "genus"
+    rank: "genus",
+    sk: "lastúrka"
   },
   Mycena: {
     rank: "genus",
@@ -808,7 +830,8 @@ export const TAXA = {
     sk: "trámovkovité"
   },
   Neolentinus: {
-    rank: "genus"
+    rank: "genus",
+    sk: "húževnatec"
   },
   Helvellaceae: {
     rank: "family",
@@ -816,7 +839,8 @@ export const TAXA = {
     sk: "chriapačovité"
   },
   Helvella: {
-    rank: "genus"
+    rank: "genus",
+    sk: "chriapač"
   },
   Hymenogastraceae: {
     rank: "family",
@@ -840,10 +864,12 @@ export const TAXA = {
     rank: "family"
   },
   Melanoleuca: {
-    rank: "genus"
+    rank: "genus",
+    sk: "tmavuľka"
   },
   Hebeloma: {
-    rank: "genus"
+    rank: "genus",
+    sk: "slzivka"
   },
   Volvariella: {
     rank: "genus",
@@ -853,7 +879,7 @@ export const TAXA = {
     rank: "family",
     sk: "pošvovcovité"
   },
-  Climacodon: {rank: "genus"},
+  Climacodon: {rank: "genus", sk: "zubček"},
   Meruliaceae: {
     rank: "family",
     lv: "zeltporu dzimta",
@@ -876,16 +902,19 @@ export const TAXA = {
     sk: "parazitnicovité"
   },
   Phaeolepiota: {
-    rank: "genus"
+    rank: "genus",
+    sk: "zrnuľa"
   },
   Phlebiopsis: {
-    rank: "genus"
+    rank: "genus",
+    sk: "pažilnačka"
   },
   Desarmillaria: {
     rank: "genus"
   },
   Rhodotus: {
-    rank: "genus"
+    rank: "genus",
+    sk: "červenáčik"
   },
   Pluteaceae: {
     rank: "family",
@@ -916,19 +945,27 @@ export const TAXA = {
     rank: "family",
     lv: "agreņu dzimta",
     cs: "ohnivcovité",
-    da: "pragtbægerfamilien"
+    da: "pragtbægerfamilien",
+    sk: "ohnivcovité"
   },
   Microstoma: {
     rank: "genus",
+    sk: "ohnivček",
     cs: "ohnivec",
     fi: "kukkamaljakkaat",
     lt: "mikrostoma"
   },
+  Sarcoscypha: {
+    rank: "genus",
+    sk: "ohnivec"
+  },
   Sarcosomataceae: {
-    rank: "family"
+    rank: "family",
+    sk: "mäsovcovité"
   },
   Sarcosoma: {
-    rank: "genus"
+    rank: "genus",
+    sk: "mäsovec"
   },
   Chorioactidaceae: {
     rank: "family"
@@ -937,6 +974,10 @@ export const TAXA = {
     rank: "genus"
   },
   Aspropaxillus: {
+    rank: "genus",
+    sk: "čechratec"
+  },
+  Bovista: {
     rank: "genus"
   }
 };

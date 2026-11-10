@@ -123247,6 +123247,8 @@ export const CATALOG = [
   ],
   "capFrom": 5,
   "capTo": 25,
+  "fruitingFrom": 7,
+  "fruitingTo": 11,
   "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Meruliaceae/Climacodon_septentrionalis/Climacodon_septentrionalis@1600.webp",
   "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Meruliaceae/Climacodon_septentrionalis/Climacodon_septentrionalis@400.webp",
   "plateCredit": {
@@ -124161,6 +124163,8 @@ export const CATALOG = [
   "stipeHeightTo": 7,
   "stipeThickFrom": 0.4,
   "stipeThickTo": 1,
+  "fruitingFrom": 6,
+  "fruitingTo": 11,
   "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Omphalinaceae/Infundibulicybe_gibba/Infundibulicybe_gibba@1600.webp",
   "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Omphalinaceae/Infundibulicybe_gibba/Infundibulicybe_gibba@400.webp",
   "plateCredit": {
@@ -125208,6 +125212,8 @@ export const CATALOG = [
   "stipeHeightTo": 12,
   "stipeThickFrom": 0.5,
   "stipeThickTo": 2,
+  "fruitingFrom": 5,
+  "fruitingTo": 11,
   "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Leucocoprinus_leucothites/Leucocoprinus_leucothites@1600.webp",
   "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Leucocoprinus_leucothites/Leucocoprinus_leucothites@400.webp",
   "plateCredit": {
@@ -126136,6 +126142,8 @@ export const CATALOG = [
   "stipeHeightTo": 10,
   "stipeThickFrom": 1,
   "stipeThickTo": 4,
+  "fruitingFrom": 5,
+  "fruitingTo": 11,
   "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_bitorquis/Agaricus_bitorquis@1600.webp",
   "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_bitorquis/Agaricus_bitorquis@400.webp",
   "plateCredit": {
@@ -128358,6 +128366,8 @@ export const CATALOG = [
     "dark"
   ],
   "capTo": 100,
+  "fruitingFrom": 1,
+  "fruitingTo": 12,
   "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Phanerochaetaceae/Phlebiopsis_gigantea/Phlebiopsis_gigantea@1600.webp",
   "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Phanerochaetaceae/Phlebiopsis_gigantea/Phlebiopsis_gigantea@400.webp",
   "plateCredit": {
@@ -132691,6 +132701,8 @@ export const CATALOG = [
   "capTo": 19,
   "stipeHeightTo": 10,
   "stipeThickTo": 2,
+  "fruitingFrom": 4,
+  "fruitingTo": 11,
   "id": 136,
   "added": "2026-11-07",
   "family": "Polyporaceae",
@@ -134059,6 +134071,8 @@ export const CATALOG = [
   "stipeHeightTo": 7,
   "stipeThickFrom": 1,
   "stipeThickTo": 1.5,
+  "fruitingFrom": 7,
+  "fruitingTo": 11,
   "id": 137,
   "added": "2026-11-08",
   "family": "Physalacriaceae",
@@ -140045,7 +140059,7 @@ export const CATALOG = [
       "path": "photos/Russulales/Hericiaceae/Hericium_americanum/Hericium_americanum@1600.webp",
       "author": "Unknown; owner-supplied artwork",
       "license": "User supplied; redistribution rights not independently established",
-      "sourceUrl": "supplied_original.png",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Russulales/Hericiaceae/Hericium_americanum/Hericium_americanum@1600.webp",
       "existingMark": "Gemini; retained once, no attribution/authorship authentication"
     },
     {
@@ -140117,7 +140131,7 @@ export const CATALOG = [
     "author": "Unknown; owner-supplied artwork",
     "credit": "Existing requested Gemini mark retained once; not authenticated authorship.",
     "license": "User supplied; redistribution rights not independently established",
-    "source": "supplied_original.png"
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Russulales/Hericiaceae/Hericium_americanum/Hericium_americanum@1600.webp"
   },
   "fruitingFrom": 7,
   "fruitingTo": 11,
@@ -141495,7 +141509,7 @@ export const CATALOG = [
     "author": "Unknown; owner-supplied artwork",
     "credit": "Existing Gemini mark retained once; not authenticated authorship.",
     "license": "User supplied; redistribution rights not independently established",
-    "source": "supplied_original.png"
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinellus_domesticus/Coprinellus_domesticus@1600.webp"
   },
   "photos": [
     {
@@ -141540,7 +141554,7 @@ export const CATALOG = [
       "path": "photos/Agaricales/Psathyrellaceae/Coprinellus_domesticus/Coprinellus_domesticus@1600.webp",
       "author": "Unknown; owner-supplied artwork",
       "license": "User supplied; redistribution rights not independently established",
-      "sourceUrl": "supplied_original.png",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Psathyrellaceae/Coprinellus_domesticus/Coprinellus_domesticus@1600.webp",
       "existingMark": "Gemini; retained once, no authorship/rights authentication"
     },
     {
@@ -142372,7 +142386,7 @@ export const CATALOG = [
     "author": "Unknown; owner-supplied artwork",
     "credit": "Existing Gemini mark retained once; not authenticated authorship.",
     "license": "User supplied; redistribution rights not independently established",
-    "source": "supplied_original.png"
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Cantharellus_formosus/Cantharellus_formosus@1600.webp"
   },
   "photos": [
     {
@@ -142417,7 +142431,7 @@ export const CATALOG = [
       "path": "photos/Cantharellales/Hydnaceae/Cantharellus_formosus/Cantharellus_formosus@1600.webp",
       "author": "Unknown; owner-supplied artwork",
       "license": "User supplied; redistribution rights not independently established",
-      "sourceUrl": "supplied_original.png",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Cantharellus_formosus/Cantharellus_formosus@1600.webp",
       "existingMark": "Gemini; retained once, no authorship/rights authentication"
     },
     {
@@ -143311,7 +143325,7 @@ export const CATALOG = [
     "author": "Unknown; owner-supplied artwork",
     "credit": "Existing Gemini mark retained once; not authenticated authorship.",
     "license": "User supplied; redistribution rights not independently established",
-    "source": "supplied_original.png"
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Pezizaceae/Peziza_ammophila/Peziza_ammophila@1600.webp"
   },
   "photos": [
     {
@@ -143356,7 +143370,7 @@ export const CATALOG = [
       "path": "photos/Pezizales/Pezizaceae/Peziza_ammophila/Peziza_ammophila@1600.webp",
       "author": "Unknown; owner-supplied artwork",
       "license": "User supplied; redistribution rights not independently established",
-      "sourceUrl": "supplied_original.png",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Pezizaceae/Peziza_ammophila/Peziza_ammophila@1600.webp",
       "existingMark": "Gemini; retained once, no authorship/rights authentication"
     },
     {
@@ -144311,7 +144325,7 @@ export const CATALOG = [
     "author": "Unknown; owner-supplied artwork",
     "credit": "Existing Gemini mark retained once; not authenticated authorship.",
     "license": "User supplied; redistribution rights not independently established",
-    "source": "supplied_original.png"
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Amanita_strobiliformis/Amanita_strobiliformis@1600.webp"
   },
   "photos": [
     {
@@ -144356,7 +144370,7 @@ export const CATALOG = [
       "path": "photos/Agaricales/Amanitaceae/Amanita_strobiliformis/Amanita_strobiliformis@1600.webp",
       "author": "Unknown; owner-supplied artwork",
       "license": "User supplied; redistribution rights not independently established",
-      "sourceUrl": "supplied_original.png",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Amanita_strobiliformis/Amanita_strobiliformis@1600.webp",
       "existingMark": "Gemini; retained once, no authorship/rights authentication"
     },
     {
@@ -145507,7 +145521,7 @@ export const CATALOG = [
     "author": "Owner-supplied artwork; visually matches L. Dufour, Atlas des champignons comestibles et vénéneux (1891), pl. 2 (unverified file chain)",
     "credit": "Existing L. Dufour mark retained once; not authenticated authorship.",
     "license": "Owner supplied; the 1891 plate is public domain per Commons/BHL; rights in the supplied derivative not independently established",
-    "source": "supplied_original.png"
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Amanita_caesarea/Amanita_caesarea@1600.webp"
   },
   "photos": [
     {
@@ -145552,7 +145566,7 @@ export const CATALOG = [
       "path": "photos/Agaricales/Amanitaceae/Amanita_caesarea/Amanita_caesarea@1600.webp",
       "author": "Owner-supplied artwork; visually matches L. Dufour, Atlas des champignons comestibles et vénéneux (1891), pl. 2 (unverified file chain)",
       "license": "Owner supplied; the 1891 plate is public domain per Commons/BHL; rights in the supplied derivative not independently established",
-      "sourceUrl": "supplied_original.png",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Amanitaceae/Amanita_caesarea/Amanita_caesarea@1600.webp",
       "relatedSource": "https://commons.wikimedia.org/wiki/File:Atlas_des_champignons_comestibles_et_v%C3%A9n%C3%A9neux_(Planche_2)_BHL3270717.jpg",
       "existingMark": "L. Dufour script mark; retained once, not on the 1891 scan, not authenticated"
     },
@@ -146646,7 +146660,7 @@ export const CATALOG = [
     "author": "Owner-supplied artwork; visually matches G. Bresadola, Iconographia Mycologica vol. V, tab. 285 (1928), \"Pleurotus olearius\" (unverified file chain)",
     "credit": "Existing G. Bresadola mark retained once; not authenticated authorship.",
     "license": "Owner supplied; the 1928 plate is public domain per Commons; rights in the supplied derivative not independently established",
-    "source": "supplied_original.png"
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Omphalotaceae/Omphalotus_olearius/Omphalotus_olearius@1600.webp"
   },
   "photos": [
     {
@@ -146691,7 +146705,7 @@ export const CATALOG = [
       "path": "photos/Agaricales/Omphalotaceae/Omphalotus_olearius/Omphalotus_olearius@1600.webp",
       "author": "Owner-supplied artwork; visually matches G. Bresadola, Iconographia Mycologica vol. V, tab. 285 (1928), \"Pleurotus olearius\" (unverified file chain)",
       "license": "Owner supplied; the 1928 plate is public domain per Commons; rights in the supplied derivative not independently established",
-      "sourceUrl": "supplied_original.png",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Omphalotaceae/Omphalotus_olearius/Omphalotus_olearius@1600.webp",
       "relatedSource": "https://commons.wikimedia.org/wiki/File:Bresadola_-_Pleurotus_olearius.png",
       "existingMark": "G. Bresadola script mark; retained once, not on the Commons scan, not authenticated"
     },
@@ -147688,7 +147702,7 @@ export const CATALOG = [
     "author": "Unknown; owner-supplied artwork",
     "credit": "Existing Gemini mark retained once; not authenticated authorship.",
     "license": "User supplied; redistribution rights not independently established",
-    "source": "supplied_original.png"
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Cantharellus_californicus/Cantharellus_californicus@1600.webp"
   },
   "photos": [
     {
@@ -147733,7 +147747,7 @@ export const CATALOG = [
       "path": "photos/Cantharellales/Hydnaceae/Cantharellus_californicus/Cantharellus_californicus@1600.webp",
       "author": "Unknown; owner-supplied artwork",
       "license": "User supplied; redistribution rights not independently established",
-      "sourceUrl": "supplied_original.png",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Cantharellales/Hydnaceae/Cantharellus_californicus/Cantharellus_californicus@1600.webp",
       "existingMark": "Gemini; retained once, no authorship/rights authentication"
     },
     {
@@ -148714,7 +148728,7 @@ export const CATALOG = [
     "author": "Unknown; owner-supplied artwork",
     "credit": "Existing Gemini mark retained once; not authenticated authorship.",
     "license": "User supplied; redistribution rights not independently established",
-    "source": "supplied_original.png"
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Phanerochaetaceae/Hapalopilus_croceus/Hapalopilus_croceus@1600.webp"
   },
   "photos": [
     {
@@ -148759,7 +148773,7 @@ export const CATALOG = [
       "path": "photos/Polyporales/Phanerochaetaceae/Hapalopilus_croceus/Hapalopilus_croceus@1600.webp",
       "author": "Unknown; owner-supplied artwork",
       "license": "User supplied; redistribution rights not independently established",
-      "sourceUrl": "supplied_original.png",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Polyporales/Phanerochaetaceae/Hapalopilus_croceus/Hapalopilus_croceus@1600.webp",
       "existingMark": "Gemini; retained once, no authorship/rights authentication"
     },
     {
@@ -149663,7 +149677,7 @@ export const CATALOG = [
     "author": "Unknown; owner-supplied artwork",
     "credit": "Existing Gemini mark retained once; not authenticated authorship.",
     "license": "User supplied; redistribution rights not independently established",
-    "source": "supplied_original.png"
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Thelephorales/Bankeraceae/Hydnellum_mirabile/Hydnellum_mirabile@1600.webp"
   },
   "photos": [
     {
@@ -149708,7 +149722,7 @@ export const CATALOG = [
       "path": "photos/Thelephorales/Bankeraceae/Hydnellum_mirabile/Hydnellum_mirabile@1600.webp",
       "author": "Unknown; owner-supplied artwork",
       "license": "User supplied; redistribution rights not independently established",
-      "sourceUrl": "supplied_original.png",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Thelephorales/Bankeraceae/Hydnellum_mirabile/Hydnellum_mirabile@1600.webp",
       "existingMark": "Gemini; retained once, no authorship/rights authentication"
     },
     {
@@ -150689,7 +150703,7 @@ export const CATALOG = [
     "author": "Unknown; owner-supplied artwork",
     "credit": "Existing Gemini mark retained once; not authenticated authorship.",
     "license": "User supplied; redistribution rights not independently established",
-    "source": "supplied_original.png"
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcoscyphaceae/Microstoma_protractum/Microstoma_protractum@1600.webp"
   },
   "photos": [
     {
@@ -150734,7 +150748,7 @@ export const CATALOG = [
       "path": "photos/Pezizales/Sarcoscyphaceae/Microstoma_protractum/Microstoma_protractum@1600.webp",
       "author": "Unknown; owner-supplied artwork",
       "license": "User supplied; redistribution rights not independently established",
-      "sourceUrl": "supplied_original.png",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcoscyphaceae/Microstoma_protractum/Microstoma_protractum@1600.webp",
       "existingMark": "Gemini; retained once, no authorship/rights authentication"
     },
     {
@@ -151721,7 +151735,7 @@ export const CATALOG = [
     "author": "Unknown; owner-supplied artwork",
     "credit": "Existing Gemini mark retained once; not authenticated authorship.",
     "license": "User supplied; redistribution rights not independently established",
-    "source": "supplied_original.png"
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcosomataceae/Sarcosoma_globosum/Sarcosoma_globosum@1600.webp"
   },
   "photos": [
     {
@@ -151766,7 +151780,7 @@ export const CATALOG = [
       "path": "photos/Pezizales/Sarcosomataceae/Sarcosoma_globosum/Sarcosoma_globosum@1600.webp",
       "author": "Unknown; owner-supplied artwork",
       "license": "User supplied; redistribution rights not independently established",
-      "sourceUrl": "supplied_original.png",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Sarcosomataceae/Sarcosoma_globosum/Sarcosoma_globosum@1600.webp",
       "existingMark": "Gemini; retained once, no authorship/rights authentication"
     },
     {
@@ -152612,7 +152626,7 @@ export const CATALOG = [
     "author": "Unknown; owner-supplied artwork",
     "credit": "Existing Gemini mark retained once; not authenticated authorship.",
     "license": "User supplied; redistribution rights not independently established",
-    "source": "supplied_original.png"
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Chorioactidaceae/Chorioactis_geaster/Chorioactis_geaster@1600.webp"
   },
   "photos": [
     {
@@ -152657,7 +152671,7 @@ export const CATALOG = [
       "path": "photos/Pezizales/Chorioactidaceae/Chorioactis_geaster/Chorioactis_geaster@1600.webp",
       "author": "Unknown; owner-supplied artwork",
       "license": "User supplied; redistribution rights not independently established",
-      "sourceUrl": "supplied_original.png",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Pezizales/Chorioactidaceae/Chorioactis_geaster/Chorioactis_geaster@1600.webp",
       "existingMark": "Gemini; retained once, no authorship/rights authentication"
     },
     {
@@ -153750,7 +153764,7 @@ export const CATALOG = [
     "author": "J. Sowerby",
     "credit": "Credit \"J. Sowerby\" as requested (metadata only). The art registers to James Sowerby, Coloured Figures of English Fungi t.244 (Agaricus giganteus, 1800, public domain); the supplied file is a processed digital derivative (upscaled/cleaned/outpainted; modern \"J. Sowerby\" script mark added; plate number and imprint removed). The mark is not proof of authorship.",
     "license": "Underlying drawing public domain (Sowerby d. 1822); rights in the processed derivative unverified",
-    "source": "supplied_original.png"
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Tricholomataceae/Aspropaxillus_giganteus/Aspropaxillus_giganteus@1600.webp"
   },
   "photos": [
     {
@@ -153795,7 +153809,7 @@ export const CATALOG = [
       "path": "photos/Agaricales/Tricholomataceae/Aspropaxillus_giganteus/Aspropaxillus_giganteus@1600.webp",
       "author": "J. Sowerby (credit as requested; underlying PD plate t.244; processed derivative of unverified origin)",
       "license": "Underlying drawing public domain (Sowerby d. 1822); rights in the processed derivative unverified",
-      "sourceUrl": "supplied_original.png",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Tricholomataceae/Aspropaxillus_giganteus/Aspropaxillus_giganteus@1600.webp",
       "basedOn": [
         "https://commons.wikimedia.org/wiki/File:Coloured_Figures_of_English_Fungi_or_Mushrooms_-_t._244.png",
         "https://commons.wikimedia.org/wiki/File:James_Sowerby00.jpg"
@@ -154082,6 +154096,1000 @@ export const CATALOG = [
         "path": "media/Aspropaxillus_giganteus@400.webp",
         "bytes": 33294,
         "sha256": "c0ee5d4f172f376f016c50734c4e731a149b9f6f6eb4d88153dd9df8d294b0c9"
+      }
+    ]
+  }
+},
+{
+  "name": "Bovista paludosa",
+  "author": "Lév.",
+  "family": "Lycoperdaceae",
+  "genus": "Bovista",
+  "order": "Agaricales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Agaricales",
+    "Lycoperdaceae",
+    "Bovista"
+  ],
+  "summary": [
+    "Agaricales",
+    "Lycoperdaceae",
+    "Bovista"
+  ],
+  "edibility": "inedible",
+  "hymenium": "gleba",
+  "where": [
+    "ground",
+    "grass"
+  ],
+  "color": [
+    "white",
+    "brown"
+  ],
+  "capFrom": 1.0,
+  "capTo": 5.0,
+  "stipeHeightFrom": null,
+  "stipeHeightTo": null,
+  "stipeThickFrom": null,
+  "stipeThickTo": null,
+  "label": {
+    "ar": "Bovista paludosa",
+    "bg": "Bovista paludosa",
+    "cs": "prášivka bažinná",
+    "da": "Bovista paludosa",
+    "de": "Sumpf-Bovist",
+    "en": "fen puffball",
+    "es": "Bovista paludosa",
+    "et": "soo-maamuna",
+    "fa": "Bovista paludosa",
+    "fi": "lettotuhkelo",
+    "fr": "boviste des marais",
+    "he": "Bovista paludosa",
+    "hi": "Bovista paludosa",
+    "hr": "Bovista paludosa",
+    "hu": "lápi pöfeteg",
+    "id": "Bovista paludosa",
+    "it": "Bovista paludosa",
+    "ja": "Bovista paludosa",
+    "ko": "Bovista paludosa",
+    "lt": "pelkinė vilktabokė",
+    "lv": "Bovista paludosa",
+    "nl": "Bovista paludosa",
+    "no": "myrrøyksopp",
+    "pl": "kurzawka bagienna",
+    "pt": "Bovista paludosa",
+    "ro": "Bovista paludosa",
+    "ru": "порховка болотная",
+    "sk": "fúkavec močiarny",
+    "sl": "Bovista paludosa",
+    "sr": "Bovista paludosa",
+    "sv": "sumpäggsvamp",
+    "tr": "Bovista paludosa",
+    "uk": "порхавка болотяна",
+    "zh": "Bovista paludosa"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [],
+    "en": [
+      "fen bovist"
+    ],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [
+      "vesse-de-loup des marais"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [
+      "sumpröksvamp"
+    ],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "https://api.gbif.org/v1/species/2535215/vernacularNames",
+      "https://redlist.info/iucn/species_view/209589/"
+    ],
+    "da": [],
+    "de": [
+      "https://api.gbif.org/v1/species/2535215/vernacularNames",
+      "https://naturschutzbund.at/pilz-leser/items/id-2017-sumpf-bovist.html",
+      "https://redlist.info/iucn/species_view/209589/",
+      "https://de.wikipedia.org/wiki/Pilz_des_Jahres_(%C3%96sterreich)"
+    ],
+    "en": [
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=209589",
+      "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=209589",
+      "https://www.gbif.org/species/2535215",
+      "https://redlist.info/iucn/species_view/209589/",
+      "https://www.iucnredlist.org/species/125433484/125435455",
+      "https://naturschutzbund.at/pilz-leser/items/id-2017-sumpf-bovist.html",
+      "https://api.gbif.org/v1/species/2535215/vernacularNames"
+    ],
+    "es": [],
+    "et": [
+      "https://et.wikipedia.org/wiki/Soo-maamuna",
+      "https://api.gbif.org/v1/species/2535215/vernacularNames"
+    ],
+    "fa": [],
+    "fi": [
+      "https://api.gbif.org/v1/species/2535215/vernacularNames"
+    ],
+    "fr": [
+      "https://redlist.info/iucn/species_view/209589/",
+      "https://api.gbif.org/v1/species/2535215/vernacularNames"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "https://api.gbif.org/v1/species/2535215/vernacularNames"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [
+      "https://api.gbif.org/v1/species/2535215/vernacularNames"
+    ],
+    "lv": [],
+    "nl": [],
+    "no": [
+      "https://redlist.info/iucn/species_view/209589/",
+      "https://api.gbif.org/v1/species/2535215/vernacularNames"
+    ],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/Kurzawka_bagienna",
+      "https://api.gbif.org/v1/species/2535215/vernacularNames"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://api.gbif.org/v1/species/2535215/vernacularNames"
+    ],
+    "sk": [
+      "https://redlist.info/iucn/species_view/209589/",
+      "https://api.gbif.org/v1/species/2535215/vernacularNames"
+    ],
+    "sl": [],
+    "sr": [],
+    "sv": [
+      "https://api.gbif.org/v1/species/2535215/vernacularNames",
+      "https://sv.wikipedia.org/wiki/Sump%C3%A4ggsvamp"
+    ],
+    "tr": [],
+    "uk": [
+      "https://api.gbif.org/v1/species/2535215/vernacularNames",
+      "https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%85%D0%B0%D0%B2%D0%BA%D0%B0_%D0%B1%D0%BE%D0%BB%D0%BE%D1%82%D1%8F%D0%BD%D0%B0"
+    ],
+    "zh": []
+  },
+  "text": {
+    "ar": {
+      "description": "فطر كروي صغير ونادر من جنس Bovista ينمو بين الطحالب في المستنقعات القلوية والسبخات والمروج الرطبة. أجسامه الثمرية بيضاء إلى قشدية، كروية إلى كمثرية الشكل، يبلغ عرضها عادةً ١–٥ cm، وتجلس على قاعدة متضيقة مثبتة في الطحلب. يُعرف من أوروبا وآسيا ويتناقص مع تجفيف الأراضي الرطبة.",
+      "cap": "لا توجد قبعة: الجسم الثمري كله كرة كروية أو كمثرية أو قصيرة الساق، عرضها ١–٥ cm وارتفاعها ١–٦ cm. الغلاف الخارجي أبيض ناصع وأملس، يتشقق أحيانًا قليلًا إلى رقع مع التقدم في العمر، ثم يجف إلى رقائق رقيقة مائلة إلى البياض. الغلاف الداخلي تحته رقيق جدًا يشبه الرق، بني مصفر أولًا ثم بني محمر إلى بني مسود، وأحيانًا ذو لمعان نحاسي، وينفتح عند القمة بشق صغير أو ثقب غير منتظم.",
+      "hymenium": "لا توجد صفائح. تتكون الأبواغ في الداخل، في الغليبة، وهي بيضاء متماسكة في الصغر ثم زيتونية إلى بنية زيتونية ومسحوقية. تملأ قاعدة عقيمة مقسمة إلى حجيرات وبنفس اللون الجزء السفلي المتضيق وتندمج تدريجيًا مع الغليبة؛ ولا يوجد عمود مركزي.",
+      "stipe": "لا توجد ساق حقيقية. يتضيق الجزء السفلي إلى قاعدة عقيمة شبيهة بالساق يصل ارتفاعها إلى نحو ٣٫٥ cm، وغالبًا ما تكون منقرة أو مطوية ومستدقة نحو الأسفل. يتشابك غزله الفطري مع الطحالب المحيطة.",
+      "flesh": "لا يكون الداخل أبيض ومتماسكًا إلا في الأجسام الثمرية الصغيرة، وسرعان ما يصبح زيتونيًا ومسحوقيًا. لا تذكر المصادر المرجوع إليها رائحة أو طعمًا مميزًا.",
+      "sporePrint": "كتلة الأبواغ بنية زيتونية. الأبواغ كروية، قطرها ٤–٥ µm، منقطة بدقة إلى ثؤلولية قليلًا، ولكل منها سويق طويل عديم اللون طوله ٦٫٥–١٥ µm. خيوط الشعيرات البوغية بنية زيتونية ومتفرعة تفرعًا ثنائيًا.",
+      "habitat": "مترمم بين الطحالب مثل Sphagnum وDrepanocladus وCalliergonella وعلى بقايا السعد، غالبًا في المستنقعات القلوية إلى المتعادلة والمروج الرطبة، وأيضًا في مستنقعات الينابيع والبراري الرطبة وأحيانًا في المستنقعات الخثية المرتفعة. يوجد من الأراضي المنخفضة إلى الجبال، وفي جبال الألب حتى ٢٢٥٠ مترًا، ويُعرف من أوروبا وآسيا؛ أما السجلات القديمة من أمريكا الشمالية فغير مؤكدة. يثمر من يونيو إلى أكتوبر، وخاصة في أواخر الصيف والخريف.",
+      "uses": "لا يُستخدم في الطهي. وهو نادر، مصنف معرضًا للخطر في القائمة الحمراء العالمية، ومدرج في القوائم الحمراء الوطنية لكثير من الدول الأوروبية، ومحمي بالقانون في فنلندا وبولندا، لذا لا ينبغي جمعه.",
+      "confusion": "موئله الرطب الغني بالطحالب مميز. قد ينمو Lycoperdon caudatum وLycoperdon muscorum في الأماكن نفسها، لكن غلافهما الخارجي ثؤلولي دقيق إلى شائك. أما Bovista plumbea وBovista nigrescens فينموان في المراعي الجافة ويفتقران إلى القاعدة المتضيقة المثبتة في الطحلب.",
+      "notes": "وصفه جوزيف هنري ليفيليه عام ١٨٤٦ من عينات كانت تنمو على التربة مع طحلب الخث (Sphagnum) في فرنسا. ثم نقله دي توني إلى Calvatia عام ١٨٨٨، ونقله باتويار إلى Bovistella عام ١٩٠٢، لكنه يُصنف اليوم مجددًا ضمن Bovista. ويعني النعت paludosa «المستنقعي». وفي عام ٢٠١٩ صُنف معرضًا للخطر على المستوى العالمي، لأن التجفيف واستخراج الخث والتلوث بالمغذيات تدمر مستنقعاته.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Малка и рядка гъба от род Bovista, която расте сред мъхове в низинни торфища, мочурища и влажни ливади. Нейните бели до кремави плодни тела са кълбовидни до крушовидни, обикновено широки 1–5 cm, и седят върху стеснена основа, закрепена в мъха. Видът е известен от Европа и Азия и намалява с пресушаването на влажните зони.",
+      "cap": "Шапка няма: цялото плодно тяло е кълбовидно, крушовидно или късо дръжковидно кълбо, широко 1–5 cm и високо 1–6 cm. Външната обвивка е чисто бяла и гладка, с възрастта понякога леко напукана на полета, след което изсъхва на тънки белезникави парченца. Вътрешната обвивка под нея е много тънка и пергаментова, отначало жълтокафява, по-късно червеникавокафява до черникавокафява, понякога с меден отблясък, и се отваря на върха с малка цепнатина или неправилен отвор.",
+      "hymenium": "Пластинки няма. Спорите се образуват вътре, в глебата, която отначало е бяла и плътна, а после маслинена до маслиненокафява и прахообразна. Камерна стерилна основа със същия цвят изпълва стеснената долна част и постепенно преминава в глебата; колумела няма.",
+      "stipe": "Истинско пънче няма. Долната част се стеснява в пънчевидна стерилна основа, висока до около 3,5 cm, често ямчеста или нагъната и стесняваща се надолу. Мицелът ѝ е преплетен с околните мъхове.",
+      "flesh": "Вътрешността е бяла и плътна само при младите плодни тела и скоро става маслинена и прахообразна. Използваните източници не посочват отличителна миризма или вкус.",
+      "sporePrint": "Спорната маса е маслиненокафява. Спорите са кълбовидни, 4–5 µm, финно точковидни до слабо брадавичести, и всяка има дълга безцветна дръжчица с дължина 6,5–15 µm. Нишките на капилициума са маслиненокафяви и вилообразно разклонени.",
+      "habitat": "Сапротроф сред мъхове като Sphagnum, Drepanocladus и Calliergonella и върху остатъци от острици, най-често в алкални до неутрални низинни торфища и влажни ливади, също в изворни торфища, влажни пустеещи земи и понякога във високи торфища. Среща се от низините до планините, в Алпите до 2250 м, и е известен от Европа и Азия; старите съобщения от Северна Америка не са потвърдени. Образува плодни тела от юни до октомври, главно в края на лятото и през есента.",
+      "uses": "Не се използва за храна. Видът е рядък, в глобалния Червен списък е оценен като уязвим, включен е в националните червени списъци на много европейски страни и е защитен със закон във Финландия и Полша, затова не бива да се бере.",
+      "confusion": "Характерно е мъховитото му влажно местообитание. Lycoperdon caudatum и Lycoperdon muscorum могат да растат на същите места, но имат финно брадавичеста до бодлива външна обвивка. Bovista plumbea и Bovista nigrescens растат в сухи тревни площи и нямат стеснена основа, закрепена в мъха.",
+      "notes": "Жозеф-Анри Левейе описва вида през 1846 г. по екземпляри, растящи във Франция върху почва сред сфагнум (Sphagnum). По-късно Де Тони го премества в Calvatia през 1888 г., а Патуяр в Bovistella през 1902 г., но днес видът отново е включен в Bovista. Епитетът paludosa означава „блатна“. През 2019 г. видът е оценен като уязвим в световен мащаб, защото пресушаването, добивът на торф и замърсяването с хранителни вещества унищожават неговите торфища.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "cs": {
+      "description": "Malá a vzácná houba z rodu Bovista, která roste mezi mechy na slatiništích, rašeliništích a vlhkých loukách. Její bílé až krémové plodnice jsou kulovité až hruškovité, obvykle 1–5 cm široké, a sedí na zúžené bázi ukotvené v mechu. Je známa z Evropy a Asie a ubývá s odvodňováním mokřadů.",
+      "cap": "Klobouk chybí: celá plodnice je kulovitá, hruškovitá nebo krátce stopkatá koule, 1–5 cm široká a 1–6 cm vysoká. Vnější vrstva obalu je čistě bílá a hladká, stářím někdy jemně políčkovitě rozpraskaná, pak zasychá v tenké bělavé šupinky. Vnitřní vrstva pod ní je velmi tenká a pergamenová, nejprve žlutohnědá, později červenohnědá až černohnědá, někdy s měděným leskem, a na vrcholu se otevírá malou štěrbinou nebo nepravidelným otvorem.",
+      "hymenium": "Lupeny chybějí. Výtrusy vznikají uvnitř, v glebě, která je zprvu bílá a pevná, pak olivová až olivově hnědá a prášková. Komůrkovitá sterilní báze stejné barvy vyplňuje zúženou spodní část a plynule přechází v glebu; středový sloupek chybí.",
+      "stipe": "Pravý třeň chybí. Spodní část se zužuje v třeňovitou sterilní bázi vysokou asi do 3,5 cm, často důlkatou nebo zřasenou a dolů zúženou. Její podhoubí je propletené s okolními mechy.",
+      "flesh": "Vnitřek je bílý a pevný jen u mladých plodnic a brzy olivově hnědne a práškovatí. Výrazná vůně ani chuť se v použitých pramenech neuvádí.",
+      "sporePrint": "Výtrusný prach je olivově hnědý. Výtrusy jsou kulovité, 4–5 µm v průměru, jemně tečkované až slabě bradavčité a každá má dlouhou bezbarvou stopku dlouhou 6,5–15 µm. Vlákna kapilicia jsou olivově hnědá a vidličnatě větvená.",
+      "habitat": "Saprotrof mezi mechy, například rodů Sphagnum, Drepanocladus a Calliergonella, a na zbytcích ostřic, nejčastěji na zásaditých až neutrálních slatiništích a vlhkých loukách, také na prameništích, vlhkých vřesovištích a ojediněle na vrchovištích. Vyskytuje se od nížin po hory, v Alpách až do 2250 m, a je známa z Evropy a Asie; staré údaje ze Severní Ameriky nejsou potvrzeny. Plodnice tvoří od června do října, hlavně koncem léta a na podzim.",
+      "uses": "Kuchyňsky se nevyužívá. Je vzácná, v celosvětovém červeném seznamu je hodnocena jako zranitelná, figuruje v národních červených seznamech mnoha evropských zemí a ve Finsku a v Polsku je chráněna zákonem, proto by se neměla sbírat.",
+      "confusion": "Typické je její mechové mokřadní stanoviště. Lycoperdon caudatum a Lycoperdon muscorum mohou růst na stejných místech, ale mají vnější obal jemně bradavčitý až ostnitý. Bovista plumbea a Bovista nigrescens rostou na suchých travnatých plochách a nemají zúženou bázi ukotvenou v mechu.",
+      "notes": "Joseph-Henri Léveillé ji popsal v roce 1846 podle exemplářů rostoucích na půdě s rašeliníkem (Sphagnum) ve Francii. Později ji De Toni v roce 1888 přeřadil do rodu Calvatia a Patouillard v roce 1902 do rodu Bovistella, dnes je však opět řazena do rodu Bovista. Druhové jméno paludosa znamená „bažinná“. V roce 2019 byla celosvětově vyhodnocena jako zranitelná, protože odvodňování, těžba rašeliny a znečištění živinami ničí její slatiniště.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2535215/vernacularNames",
+        "https://redlist.info/iucn/species_view/209589/"
+      ],
+      "label": "prášivka bažinná"
+    },
+    "da": {
+      "description": "En lille, sjælden bugsvamp i slægten Bovista, der vokser mellem mosser i rigkær, moser og våde enge. De hvide til cremefarvede frugtlegemer er kuglerunde til pæreformede, som regel 1–5 cm brede, og sidder på en indsnævret basis, der er forankret i mosset. Arten kendes fra Europa og Asien og går tilbage, efterhånden som vådområder drænes.",
+      "cap": "Der er ingen hat: hele frugtlegemet er en kuglerund, pæreformet eller kort stilket kugle, 1–5 cm bred og 1–6 cm høj. Den ydre hinde er rent hvid og glat, med alderen undertiden let felteret, og tørrer derefter ind til tynde hvidlige flager. Den indre hinde nedenunder er meget tynd og pergamentagtig, først gulbrun, senere rødbrun til sortbrun, undertiden med kobberagtig glans, og åbner sig i toppen med en lille spalte eller et uregelmæssigt hul.",
+      "hymenium": "Der er ingen lameller. Sporerne dannes indeni, i gleba, som er hvid og fast hos unge eksemplarer og siden oliven til olivenbrun og støvet. En kammeret steril basis i samme farve udfylder den indsnævrede nederste del og går jævnt over i gleba; en columella mangler.",
+      "stipe": "Der er ingen egentlig stok. Den nederste del indsnævres til en stokagtig steril basis op til omkring 3,5 cm høj, ofte grubet eller foldet og tilspidset nedad. Myceliet er sammenfiltret med de omgivende mosser.",
+      "flesh": "Indersiden er kun hvid og fast i unge frugtlegemer og bliver snart olivenfarvet og støvet. De anvendte kilder angiver ingen markant lugt eller smag.",
+      "sporePrint": "Sporemassen er olivenbrun. Sporerne er kuglerunde, 4–5 µm, fint punkterede til svagt vortede, og hver har en lang farveløs stilk på 6,5–15 µm. Capillitiets tråde er olivenbrune og gaffeldelte.",
+      "habitat": "Saprotrof mellem mosser som Sphagnum, Drepanocladus og Calliergonella og på rester af star, mest i basiske til neutrale rigkær og våde enge, også i kildevæld, våde heder og af og til i højmoser. Den forekommer fra lavlandet til bjergene, i Alperne op til 2250 m, og kendes fra Europa og Asien; gamle angivelser fra Nordamerika er ubekræftede. Den sætter frugtlegemer fra juni til oktober, især i sensommeren og om efteråret.",
+      "uses": "Den har ingen anvendelse i køkkenet. Den er sjælden, vurderet som sårbar på den globale rødliste, står på de nationale rødlister i mange europæiske lande og er lovbeskyttet i Finland og Polen, så den bør ikke indsamles.",
+      "confusion": "Det mosrige, våde levested er karakteristisk. Lycoperdon caudatum og Lycoperdon muscorum kan vokse de samme steder, men har en fint vortet til pigget ydre hinde. Bovista plumbea og Bovista nigrescens vokser på tørre græsarealer og mangler den indsnævrede basis forankret i mos.",
+      "notes": "Joseph-Henri Léveillé beskrev den i 1846 ud fra eksemplarer, der voksede på jord med tørvemos (Sphagnum) i Frankrig. Senere flyttede De Toni den til Calvatia i 1888 og Patouillard til Bovistella i 1902, men i dag placeres den igen i Bovista. Artsnavnet paludosa betyder \"fra sumpe\". I 2019 blev den vurderet som sårbar på verdensplan, fordi dræning, tørvegravning og næringsstofforurening ødelægger dens kær.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "de": {
+      "description": "Ein kleiner, seltener Bauchpilz der Gattung Bovista, der zwischen Moosen in Niedermooren, Mooren und Feuchtwiesen wächst. Seine weißen bis cremefarbenen Fruchtkörper sind kugelig bis birnförmig, meist 1–5 cm breit, und sitzen auf einer verschmälerten, im Moos verankerten Basis. Er ist aus Europa und Asien bekannt und geht mit der Entwässerung von Feuchtgebieten zurück.",
+      "cap": "Ein Hut fehlt: Der ganze Fruchtkörper ist kugelig, birnförmig oder kurz gestielt-kopfig, 1–5 cm breit und 1–6 cm hoch. Die äußere Hülle ist rein weiß und glatt, im Alter bisweilen etwas felderig, und trocknet dann zu dünnen weißlichen Fetzen ein. Die innere Hülle darunter ist hauchdünn und pergamentartig, zuerst gelbbraun, später rot- bis schwarzbraun, bisweilen mit kupferrötlichem Schimmer, und öffnet sich am Scheitel mit einem kleinen Spalt oder einem unregelmäßigen Loch.",
+      "hymenium": "Lamellen fehlen. Die Sporen entstehen im Inneren, in der Gleba, die jung weiß und fest, dann oliv bis olivbraun und pulverig ist. Eine gekammerte sterile Basis gleicher Farbe füllt den verschmälerten unteren Teil und geht allmählich in die Gleba über; eine Columella fehlt.",
+      "stipe": "Ein echter Stiel fehlt. Der untere Teil verschmälert sich zu einer stielartigen sterilen Basis von bis zu etwa 3,5 cm Höhe, die oft grubig bis faltig und nach unten verjüngt ist. Ihr Myzel ist mit den umgebenden Moosen verfilzt.",
+      "flesh": "Das Innere ist nur in jungen Fruchtkörpern weiß und fest und wird bald oliv und pulverig. Ein auffälliger Geruch oder Geschmack wird in den herangezogenen Quellen nicht angegeben.",
+      "sporePrint": "Die Sporenmasse ist olivbraun. Die Sporen sind kugelig, 4–5 µm groß, fein punktiert bis schwach warzig und tragen jeweils einen langen farblosen Stiel von 6,5–15 µm Länge. Die Capillitiumfasern sind olivbraun und gegabelt.",
+      "habitat": "Saprotroph zwischen Moosen wie Sphagnum, Drepanocladus und Calliergonella und auf Seggenresten, meist in basenreichen bis neutralen Niedermooren und Feuchtwiesen, auch in Quellmooren, nassen Heiden und selten in Hochmooren. Er kommt vom Tiefland bis ins Gebirge vor, in den Alpen bis 2250 m, und ist aus Europa und Asien bekannt; alte Angaben aus Nordamerika sind unbestätigt. Er fruchtet von Juni bis Oktober, vor allem im Spätsommer und Herbst.",
+      "uses": "Er wird nicht als Speisepilz genutzt. Er ist selten, auf der weltweiten Roten Liste als gefährdet eingestuft, steht auf den nationalen Roten Listen vieler europäischer Länder und ist in Finnland und Polen gesetzlich geschützt; er sollte daher nicht gesammelt werden.",
+      "confusion": "Kennzeichnend ist sein moosreicher Feuchtstandort. Lycoperdon caudatum und Lycoperdon muscorum können an denselben Stellen wachsen, haben aber eine fein warzige bis stachelige äußere Hülle. Bovista plumbea und Bovista nigrescens wachsen auf trockenen Rasen und haben keine verschmälerte, im Moos verankerte Basis.",
+      "notes": "Pilz des Jahres 2017 in Österreich. Joseph-Henri Léveillé beschrieb ihn 1846 nach Exemplaren, die in Frankreich auf Erde mit Torfmoos (Sphagnum) wuchsen. Später stellte ihn De Toni 1888 zu Calvatia und Patouillard 1902 zu Bovistella, heute steht er jedoch wieder in Bovista. Das Epitheton paludosa bedeutet „sumpfbewohnend“. 2019 wurde er weltweit als gefährdet eingestuft, weil Entwässerung, Torfabbau und Nährstoffeintrag seine Niedermoore zerstören.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2535215/vernacularNames",
+        "https://naturschutzbund.at/pilz-leser/items/id-2017-sumpf-bovist.html",
+        "https://redlist.info/iucn/species_view/209589/",
+        "https://de.wikipedia.org/wiki/Pilz_des_Jahres_(%C3%96sterreich)"
+      ],
+      "label": "Sumpf-Bovist"
+    },
+    "en": {
+      "description": "A small, rare puffball of the genus Bovista that grows among mosses in fens, mires and wet meadows. Its white to cream fruit bodies are globose to pear-shaped, usually 1–5 cm across, and sit on a narrowed base anchored in the moss. It is known from Europe and Asia and is declining as wetlands are drained.",
+      "cap": "There is no cap: the whole fruit body is a globose, pear-shaped or short-stalked ball, 1–5 cm across and 1–6 cm tall. The outer skin is pure white and smooth, sometimes slightly cracked into patches with age, and then dries into thin whitish flakes. The inner skin beneath is very thin and papery, yellow-brown at first and later red-brown to blackish brown, sometimes with a coppery sheen, and it opens at the top by a small slit or an irregular hole.",
+      "hymenium": "There are no gills. The spores form inside, in the gleba, which is white and firm when young, then olive to olive-brown and powdery. A chambered sterile base of the same colour fills the narrowed lower part and merges with the gleba; there is no central column.",
+      "stipe": "There is no true stem. The lower part narrows into a stem-like sterile base up to about 3.5 cm tall, often pitted or folded and tapering downwards. Its mycelium is matted together with the surrounding mosses.",
+      "flesh": "The interior is white and firm only in young fruit bodies and soon turns olive and powdery. No distinctive smell or taste is reported in the sources consulted.",
+      "sporePrint": "The spore mass is olive-brown. The spores are globose, 4–5 µm across, finely punctate to slightly warted, and each has a long colourless stalk 6.5–15 µm long. The capillitium threads are olive-brown and forked.",
+      "habitat": "Saprotrophic among mosses such as Sphagnum, Drepanocladus and Calliergonella and on sedge remains, mostly in alkaline to neutral fens and wet meadows, also in spring mires, wet heaths and occasionally raised bogs. It occurs from the lowlands to the mountains, in the Alps up to 2250 m, and is known from Europe and Asia; old reports from North America are unconfirmed. It fruits from June to October, mainly in late summer and autumn.",
+      "uses": "It has no culinary use. It is rare, is assessed as Vulnerable on the global Red List, appears on the national Red Lists of many European countries and is protected by law in Finland and Poland, so it should not be collected.",
+      "confusion": "Its mossy wetland habitat is characteristic. Lycoperdon caudatum and Lycoperdon muscorum can grow in the same places but have a finely warted to spiny outer skin. Bovista plumbea and Bovista nigrescens grow in dry grassland and lack the narrowed base anchored in moss.",
+      "notes": "Joseph-Henri Léveillé described it in 1846 from specimens growing on soil with Sphagnum in France. It was later moved to Calvatia by De Toni in 1888 and to Bovistella by Patouillard in 1902, but it is now placed in Bovista again. The epithet paludosa means \"of marshes\". In 2019 it was assessed as Vulnerable worldwide because drainage, peat cutting and nutrient pollution are destroying its fens.",
+      "names": [
+        "fen bovist"
+      ],
+      "sourceUrls": [
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=209589",
+        "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=209589",
+        "https://www.gbif.org/species/2535215",
+        "https://redlist.info/iucn/species_view/209589/",
+        "https://www.iucnredlist.org/species/125433484/125435455",
+        "https://naturschutzbund.at/pilz-leser/items/id-2017-sumpf-bovist.html",
+        "https://api.gbif.org/v1/species/2535215/vernacularNames"
+      ],
+      "label": "fen puffball"
+    },
+    "es": {
+      "description": "Un pequeño y raro hongo globoso del género Bovista que crece entre musgos en turberas bajas, trampales y prados húmedos. Sus carpóforos blancos a crema son globosos a piriformes, normalmente de 1–5 cm de ancho, y se asientan sobre una base estrechada anclada en el musgo. Se conoce de Europa y Asia y retrocede a medida que se drenan los humedales.",
+      "cap": "No hay sombrero: todo el carpóforo es una bola globosa, piriforme o brevemente pedicelada, de 1–5 cm de ancho y 1–6 cm de alto. El exoperidio es blanco puro y liso, a veces algo areolado con la edad, y luego se seca en finas escamas blanquecinas. El endoperidio que hay debajo es muy fino y apergaminado, primero pardo amarillento y después pardo rojizo a pardo negruzco, a veces con brillo cobrizo, y se abre en el ápice por una pequeña ranura o un orificio irregular.",
+      "hymenium": "No hay láminas. Las esporas se forman en el interior, en la gleba, que es blanca y firme en los ejemplares jóvenes y luego oliva a pardo oliváceo y pulverulenta. Una subgleba celular del mismo color rellena la parte inferior estrechada y pasa gradualmente a la gleba; no hay columela.",
+      "stipe": "No hay pie verdadero. La parte inferior se estrecha en una base estéril en forma de pie de hasta unos 3,5 cm de alto, a menudo alveolada o plegada y atenuada hacia abajo. Su micelio está entretejido con los musgos que la rodean.",
+      "flesh": "El interior solo es blanco y firme en los carpóforos jóvenes y pronto se vuelve oliváceo y pulverulento. Las fuentes consultadas no indican olor ni sabor destacables.",
+      "sporePrint": "La masa de esporas es pardo oliva. Las esporas son globosas, de 4–5 µm, finamente punteadas a ligeramente verrugosas, y cada una tiene un largo pedicelo incoloro de 6,5–15 µm. Las hifas del capilicio son pardo oliváceas y ramificadas en horquilla.",
+      "habitat": "Saprótrofo entre musgos como Sphagnum, Drepanocladus y Calliergonella y sobre restos de cárices, sobre todo en turberas bajas alcalinas a neutras y prados húmedos, también en manantiales turbosos, brezales húmedos y a veces en turberas altas. Vive desde las tierras bajas hasta la montaña, en los Alpes hasta 2250 m, y se conoce de Europa y Asia; las antiguas citas de Norteamérica no están confirmadas. Fructifica de junio a octubre, sobre todo a finales del verano y en otoño.",
+      "uses": "No tiene uso culinario. Es raro, está evaluado como vulnerable en la lista roja mundial, figura en las listas rojas nacionales de muchos países europeos y está protegido por ley en Finlandia y Polonia, por lo que no debe recolectarse.",
+      "confusion": "Su hábitat húmedo y musgoso es característico. Lycoperdon caudatum y Lycoperdon muscorum pueden crecer en los mismos lugares, pero tienen el exoperidio finamente verrugoso a espinoso. Bovista plumbea y Bovista nigrescens crecen en pastizales secos y carecen de la base estrechada anclada en el musgo.",
+      "notes": "Joseph-Henri Léveillé lo describió en 1846 a partir de ejemplares que crecían sobre tierra con esfagnos (Sphagnum) en Francia. Más tarde De Toni lo trasladó a Calvatia en 1888 y Patouillard a Bovistella en 1902, pero hoy vuelve a situarse en Bovista. El epíteto paludosa significa «de los pantanos». En 2019 se evaluó como vulnerable a escala mundial porque el drenaje, la extracción de turba y la contaminación por nutrientes destruyen sus turberas.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Väike ja haruldane perekonna Bovista kõhtseen, mis kasvab samblate seas madalsoodes, soodes ja niisketel niitudel. Selle valged kuni kreemikad viljakehad on kerajad kuni pirnjad, tavaliselt 1–5 cm laiad, ja istuvad ahenenud, samblasse kinnitunud alusel. Liik on teada Euroopast ja Aasiast ning taandub märgalade kuivendamisega.",
+      "cap": "Kübarat ei ole: kogu viljakeha on keraja, pirnja või lühikese jalaga kera, 1–5 cm lai ja 1–6 cm kõrge. Väliskest on puhasvalge ja sile, vananedes mõnikord veidi ruuduliselt lõhenenud, ning kuivab seejärel õhukesteks valkjateks helvesteks. Selle all olev sisekest on väga õhuke ja pärgamenditaoline, algul kollakaspruun, hiljem punakaspruun kuni mustjaspruun, mõnikord vasekarva läikega, ning avaneb tipus väikese pilu või ebakorrapärase avaga.",
+      "hymenium": "Eoslehti ei ole. Eosed tekivad seesmiselt, glebas, mis on noorelt valge ja tihke, hiljem oliivjas kuni oliivpruun ja tolmjas. Sama värvi kambriline steriilne alus täidab ahenenud alaosa ja läheb järk-järgult glebaks üle; kolumella puudub.",
+      "stipe": "Päris jalga ei ole. Alaosa aheneb jalataoliseks steriilseks aluseks, mis on kuni umbes 3,5 cm kõrge, sageli lohkjas või volditud ja allapoole ahenev. Selle seeneniidistik on ümbritsevate samblatega läbi põimunud.",
+      "flesh": "Sisemus on valge ja tihke ainult noortel viljakehadel ning muutub peagi oliivjaks ja tolmjaks. Kasutatud allikad iseloomulikku lõhna ega maitset ei maini.",
+      "sporePrint": "Eosmass on oliivpruun. Eosed on kerajad, 4–5 µm, peenelt täpilised kuni nõrgalt tüükalised, ja igaühel on pikk värvitu varreke pikkusega 6,5–15 µm. Kapillitsiumi niidid on oliivpruunid ja kaheharulised.",
+      "habitat": "Saprotroof samblate, näiteks Sphagnum, Drepanocladus ja Calliergonella, seas ning tarnade jäänustel, peamiselt aluselistes kuni neutraalsetes madalsoodes ja niisketel niitudel, ka allikasoodes, niisketel nõmmedel ja mõnikord rabades. Ta esineb madalikest mägedeni, Alpides kuni 2250 m kõrgusel, ja on teada Euroopast ja Aasiast; vanad teated Põhja-Ameerikast on kinnitamata. Viljakehi moodustab juunist oktoobrini, peamiselt hilissuvel ja sügisel.",
+      "uses": "Toiduks seda ei kasutata. See on haruldane, ülemaailmses punases nimestikus hinnatud ohualtiks, kantud paljude Euroopa riikide punastesse nimestikesse ning Soomes ja Poolas seadusega kaitstud, mistõttu seda ei tohiks korjata.",
+      "confusion": "Iseloomulik on selle samblarikas märg kasvukoht. Lycoperdon caudatum ja Lycoperdon muscorum võivad kasvada samades kohtades, kuid nende väliskest on peenelt tüükaline kuni ogaline. Bovista plumbea ja Bovista nigrescens kasvavad kuivadel rohumaadel ega oma ahenenud, samblasse kinnitunud alust.",
+      "notes": "Joseph-Henri Léveillé kirjeldas liiki 1846. aastal Prantsusmaal turbasambla (Sphagnum) seas pinnasel kasvanud eksemplaride põhjal. Hiljem paigutas De Toni selle 1888. aastal perekonda Calvatia ja Patouillard 1902. aastal perekonda Bovistella, kuid tänapäeval kuulub see taas perekonda Bovista. Liiginimi paludosa tähendab „soodes kasvav“. 2019. aastal hinnati liik ülemaailmselt ohualtiks, sest kuivendamine, turba kaevandamine ja toitainereostus hävitavad selle madalsoid.",
+      "names": [],
+      "sourceUrls": [
+        "https://et.wikipedia.org/wiki/Soo-maamuna",
+        "https://api.gbif.org/v1/species/2535215/vernacularNames"
+      ],
+      "label": "soo-maamuna"
+    },
+    "fa": {
+      "description": "قارچی کوچک و کمیاب از سردهٔ Bovista که در میان خزه‌ها در مرداب‌های قلیایی، باتلاق‌ها و چمنزارهای مرطوب می‌روید. اندام‌های بارده‌اش سفید تا کرم، کروی تا گلابی‌شکل و معمولاً ۱–۵ cm پهنا دارند و روی پایه‌ای باریک‌شده و لنگرانداخته در خزه قرار می‌گیرند. این گونه از اروپا و آسیا شناخته شده و با زهکشی تالاب‌ها رو به کاهش است.",
+      "cap": "کلاهک ندارد: کل اندام بارده گوی کروی، گلابی‌شکل یا کوتاه‌پایه‌ای است با پهنای ۱–۵ cm و بلندی ۱–۶ cm. پوستهٔ بیرونی سفید خالص و صاف است، با افزایش سن گاهی کمی به‌صورت خانه‌خانه ترک می‌خورد و سپس به تکه‌های نازک سفیدفام خشک می‌شود. پوستهٔ درونی زیر آن بسیار نازک و پوست‌نوشته‌مانند است، نخست قهوه‌ای مایل به زرد و بعد قهوه‌ای مایل به سرخ تا قهوه‌ای سیاه‌فام، گاهی با جلای مسی، و در نوک با شکافی کوچک یا سوراخی نامنظم باز می‌شود.",
+      "hymenium": "تیغه ندارد. هاگ‌ها در درون، در گلبا، پدید می‌آیند که در جوانی سفید و سفت است و سپس زیتونی تا قهوه‌ای زیتونی و پودری می‌شود. پایه‌ای سترون و حجره‌دار به همان رنگ بخش پایینی باریک‌شده را پر می‌کند و به‌تدریج به گلبا می‌پیوندد؛ ستون مرکزی ندارد.",
+      "stipe": "پایهٔ واقعی ندارد. بخش پایینی به پایه‌ای سترون و پایه‌مانند تا بلندی حدود ۳٫۵ cm باریک می‌شود که اغلب گودال‌دار یا چین‌دار است و به سوی پایین باریک می‌شود. ریسه‌های آن با خزه‌های پیرامون درهم تنیده‌اند.",
+      "flesh": "درون آن فقط در اندام‌های بارده جوان سفید و سفت است و زود زیتونی و پودری می‌شود. منابع بررسی‌شده بو یا مزهٔ مشخصی گزارش نکرده‌اند.",
+      "sporePrint": "تودهٔ هاگ قهوه‌ای زیتونی است. هاگ‌ها کروی، ۴–۵ µm، ریزنقطه‌دار تا کمی زگیل‌دار هستند و هر کدام دمک بلند بی‌رنگی به طول ۶٫۵–۱۵ µm دارد. رشته‌های کاپیلیسیوم قهوه‌ای زیتونی و دوشاخه‌اند.",
+      "habitat": "گندرو در میان خزه‌هایی مانند Sphagnum، Drepanocladus و Calliergonella و روی بقایای جگن، بیشتر در مرداب‌های قلیایی تا خنثی و چمنزارهای مرطوب، همچنین در باتلاق‌های چشمه‌ای، خلنگ‌زارهای مرطوب و گاهی در باتلاق‌های برآمده. از دشت‌های پست تا کوهستان دیده می‌شود، در آلپ تا ۲۲۵۰ متر، و از اروپا و آسیا شناخته شده است؛ گزارش‌های قدیمی از آمریکای شمالی تأیید نشده‌اند. از ژوئن تا اکتبر، به‌ویژه در اواخر تابستان و پاییز، بار می‌دهد.",
+      "uses": "کاربرد خوراکی ندارد. کمیاب است، در فهرست سرخ جهانی آسیب‌پذیر ارزیابی شده، در فهرست‌های سرخ ملی بسیاری از کشورهای اروپایی آمده و در فنلاند و لهستان به حکم قانون حفاظت می‌شود، پس نباید آن را چید.",
+      "confusion": "زیستگاه مرطوب و پرخزهٔ آن مشخصه‌ای بارز است. Lycoperdon caudatum و Lycoperdon muscorum ممکن است در همان جاها برویند، اما پوستهٔ بیرونی‌شان ریززگیل‌دار تا خاردار است. Bovista plumbea و Bovista nigrescens در علفزارهای خشک می‌رویند و پایهٔ باریک‌شدهٔ لنگرانداخته در خزه ندارند.",
+      "notes": "ژوزف آنری لوویه آن را در سال ۱۸۴۶ از نمونه‌هایی که در فرانسه روی خاک همراه با خزهٔ تورب (Sphagnum) می‌روییدند توصیف کرد. سپس دو تونی در سال ۱۸۸۸ آن را به Calvatia و پاتویار در سال ۱۹۰۲ به Bovistella منتقل کردند، اما امروز دوباره در Bovista جای دارد. صفت گونه‌ای paludosa به معنای «مردابی» است. در سال ۲۰۱۹ در سطح جهانی آسیب‌پذیر ارزیابی شد، زیرا زهکشی، برداشت تورب و آلودگی مواد مغذی مرداب‌هایش را نابود می‌کنند.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Pieni ja harvinainen Bovista-suvun kupusieni, joka kasvaa sammalten seassa lettosoilla, soilla ja kosteilla niityillä. Sen valkoiset tai kermanväriset itiöemät ovat pallomaisia tai päärynämäisiä, yleensä 1–5 cm leveitä, ja ne istuvat kapenevalla, sammaleeseen kiinnittyneellä tyvellä. Laji tunnetaan Euroopasta ja Aasiasta, ja se taantuu kosteikkojen ojituksen myötä.",
+      "cap": "Lakkia ei ole: koko itiöemä on pallomainen, päärynämäinen tai lyhytjalkainen pallo, 1–5 cm leveä ja 1–6 cm korkea. Ulkokuori on puhtaanvalkoinen ja sileä, vanhana joskus hieman ruutumaisesti halkeillut, ja kuivuu sitten ohuiksi vaaleiksi hiutaleiksi. Sen alla oleva sisäkuori on hyvin ohut ja pergamenttimainen, aluksi kellanruskea, myöhemmin punaruskea tai mustanruskea, joskus kuparinhohtoinen, ja aukeaa huipusta pienellä raolla tai epäsäännöllisellä reiällä.",
+      "hymenium": "Heltoja ei ole. Itiöt muodostuvat sisällä, glebassa, joka on nuorena valkoinen ja kiinteä, myöhemmin oliivinvärinen tai oliivinruskea ja jauhoinen. Samanvärinen kammioinen steriili tyviosa täyttää kapenevan alaosan ja vaihtuu vähitellen glebaksi; kolumellaa ei ole.",
+      "stipe": "Varsinaista jalkaa ei ole. Alaosa kapenee jalkamaiseksi steriiliksi tyveksi, joka on enintään noin 3,5 cm korkea, usein kuoppainen tai poimuinen ja alaspäin kapeneva. Sen rihmasto on punoutunut ympäröiviin sammaliin.",
+      "flesh": "Sisus on valkoinen ja kiinteä vain nuorissa itiöemissä ja muuttuu pian oliivinväriseksi ja jauhoiseksi. Käytetyissä lähteissä ei mainita erityistä hajua tai makua.",
+      "sporePrint": "Itiömassa on oliivinruskea. Itiöt ovat pallomaisia, 4–5 µm, hienosti pisteisiä tai heikosti nystyisiä, ja jokaisessa on pitkä väritön ruoti, joka on 6,5–15 µm pitkä. Kapillitiumin rihmat ovat oliivinruskeita ja haarautuvat kahtia.",
+      "habitat": "Lahottaja, joka kasvaa sammalten, kuten Sphagnum-, Drepanocladus- ja Calliergonella-sukujen, seassa ja sarojen jäänteillä, enimmäkseen emäksisillä tai neutraaleilla letoilla ja kosteilla niityillä, myös lähdesoilla, kosteilla nummilla ja joskus keidassoilla. Sitä tavataan alavilta mailta vuoristoon, Alpeilla aina 2250 m:iin asti, ja se tunnetaan Euroopasta ja Aasiasta; vanhat tiedot Pohjois-Amerikasta ovat vahvistamattomia. Se tuottaa itiöemiä kesäkuusta lokakuuhun, etenkin loppukesällä ja syksyllä.",
+      "uses": "Sillä ei ole ruokakäyttöä. Se on harvinainen, maailmanlaajuisella punaisella listalla vaarantunut, kansallisilla punaisilla listoilla monessa Euroopan maassa ja lailla rauhoitettu Suomessa ja Puolassa, joten sitä ei pidä kerätä.",
+      "confusion": "Sammaleinen kosteikkoympäristö on tunnusomainen. Lycoperdon caudatum ja Lycoperdon muscorum voivat kasvaa samoilla paikoilla, mutta niiden ulkokuori on hienosti nystyinen tai piikkinen. Bovista plumbea ja Bovista nigrescens kasvavat kuivilla nurmilla, eikä niillä ole kapenevaa, sammaleeseen kiinnittynyttä tyveä.",
+      "notes": "Joseph-Henri Léveillé kuvasi lajin vuonna 1846 Ranskasta kerätyistä yksilöistä, jotka kasvoivat maassa rahkasammalen (Sphagnum) seassa. Myöhemmin De Toni siirsi sen sukuun Calvatia vuonna 1888 ja Patouillard sukuun Bovistella vuonna 1902, mutta nykyään se kuuluu jälleen sukuun Bovista. Lajinimi paludosa tarkoittaa ”soilla kasvava”. Vuonna 2019 se arvioitiin maailmanlaajuisesti vaarantuneeksi, koska ojitus, turpeenotto ja ravinnekuormitus tuhoavat sen lettoja.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2535215/vernacularNames"
+      ],
+      "label": "lettotuhkelo"
+    },
+    "fr": {
+      "description": "Une petite vesse-de-loup rare du genre Bovista qui pousse parmi les mousses dans les bas-marais, les tourbières et les prairies humides. Ses fructifications blanches à crème sont globuleuses à piriformes, larges en général de 1–5 cm, et reposent sur une base rétrécie ancrée dans la mousse. Elle est connue d'Europe et d'Asie et régresse avec le drainage des zones humides.",
+      "cap": "Il n'y a pas de chapeau : toute la fructification est une boule globuleuse, piriforme ou brièvement stipitée, large de 1–5 cm et haute de 1–6 cm. L'exopéridium est blanc pur et lisse, parfois un peu aréolé avec l'âge, puis se dessèche en fins lambeaux blanchâtres. L'endopéridium en dessous est très mince et parcheminé, d'abord brun jaune, puis brun rouge à brun noirâtre, parfois à reflet cuivré, et s'ouvre au sommet par une petite fente ou un trou irrégulier.",
+      "hymenium": "Il n'y a pas de lames. Les spores se forment à l'intérieur, dans la glèbe, blanche et ferme chez le jeune, puis olive à brun olive et pulvérulente. Une base stérile cloisonnée de même couleur remplit la partie inférieure rétrécie et passe progressivement à la glèbe ; il n'y a pas de columelle.",
+      "stipe": "Il n'y a pas de vrai pied. La partie inférieure se rétrécit en une base stérile en forme de pied, haute d'environ 3,5 cm au plus, souvent alvéolée ou plissée et atténuée vers le bas. Son mycélium est feutré avec les mousses environnantes.",
+      "flesh": "L'intérieur n'est blanc et ferme que dans les jeunes fructifications et devient vite olive et pulvérulent. Aucune odeur ni saveur particulière n'est signalée dans les sources consultées.",
+      "sporePrint": "La masse sporale est brun olive. Les spores sont globuleuses, de 4–5 µm, finement ponctuées à légèrement verruqueuses, et portent chacune un long pédicelle incolore de 6,5–15 µm. Les filaments du capillitium sont brun olive et fourchus.",
+      "habitat": "Saprotrophe parmi les mousses telles que Sphagnum, Drepanocladus et Calliergonella et sur des débris de laîches, surtout dans les bas-marais alcalins à neutres et les prairies humides, aussi dans les sources tufeuses, les landes humides et parfois les tourbières bombées. Elle se rencontre de la plaine à la montagne, dans les Alpes jusqu'à 2250 m, et est connue d'Europe et d'Asie ; d'anciennes mentions d'Amérique du Nord ne sont pas confirmées. Elle fructifie de juin à octobre, surtout en fin d'été et en automne.",
+      "uses": "Elle n'a aucun usage culinaire. Elle est rare, évaluée comme vulnérable sur la liste rouge mondiale, figure sur les listes rouges nationales de nombreux pays européens et est protégée par la loi en Finlande et en Pologne ; il ne faut donc pas la récolter.",
+      "confusion": "Son habitat humide et moussu est caractéristique. Lycoperdon caudatum et Lycoperdon muscorum peuvent pousser aux mêmes endroits mais ont un exopéridium finement verruqueux à épineux. Bovista plumbea et Bovista nigrescens poussent dans les pelouses sèches et n'ont pas de base rétrécie ancrée dans la mousse.",
+      "notes": "Joseph-Henri Léveillé l'a décrite en 1846 d'après des spécimens poussant sur la terre parmi les sphaignes (Sphagnum) en France. Elle a ensuite été placée dans Calvatia par De Toni en 1888, puis dans Bovistella par Patouillard en 1902, mais elle est de nouveau classée dans Bovista. L'épithète paludosa signifie « des marais ». En 2019, elle a été évaluée comme vulnérable à l'échelle mondiale, car le drainage, l'extraction de tourbe et la pollution par les nutriments détruisent ses bas-marais.",
+      "names": [
+        "vesse-de-loup des marais"
+      ],
+      "sourceUrls": [
+        "https://redlist.info/iucn/species_view/209589/",
+        "https://api.gbif.org/v1/species/2535215/vernacularNames"
+      ],
+      "label": "boviste des marais"
+    },
+    "he": {
+      "description": "פטרייה כדורית קטנה ונדירה מהסוג Bovista, הגדלה בין טחבים בביצות בסיסיות, בביצות כבול ובאחו לח. גופי הפרי שלה לבנים עד קרמיים, כדוריים עד דמויי אגס, בדרך כלל ברוחב 1–5 cm, ויושבים על בסיס מוצר המעוגן בטחב. היא ידועה מאירופה ומאסיה ונעלמת עם ניקוז שטחי הביצות.",
+      "cap": "אין כובע: גוף הפרי כולו הוא כדור עגול, דמוי אגס או בעל רגל קצרה, ברוחב 1–5 cm ובגובה 1–6 cm. הקליפה החיצונית לבנה צחה וחלקה, לעיתים נסדקת מעט לשדות עם הגיל, ואחר כך מתייבשת לפתיתים דקים לבנבנים. הקליפה הפנימית שמתחתיה דקה מאוד ודמוית קלף, תחילה חומה-צהבהבה, אחר כך חומה-אדמדמה עד חומה-שחרחרה, לעיתים בברק נחושתי, והיא נפתחת בקודקוד בסדק קטן או בחור לא סדיר.",
+      "hymenium": "אין דפים. הנבגים נוצרים בפנים, בגלבה, שהיא לבנה ומוצקה בצעירותה ואחר כך זיתית עד חומה-זיתית ואבקתית. בסיס עקר מחולק לתאים באותו צבע ממלא את החלק התחתון המוצר ועובר בהדרגה לגלבה; אין עמוד מרכזי.",
+      "stipe": "אין רגל של ממש. החלק התחתון מוצר לבסיס עקר דמוי רגל שגובהו עד כ-3.5 cm, לעיתים קרובות מגומם או מקומט ומתחדד כלפי מטה. התפטיר שלו שזור בטחבים שמסביב.",
+      "flesh": "הפנים לבן ומוצק רק בגופי פרי צעירים והופך במהרה לזיתי ואבקתי. המקורות שנבדקו אינם מציינים ריח או טעם מיוחדים.",
+      "sporePrint": "מסת הנבגים חומה-זיתית. הנבגים כדוריים, 4–5 µm, מנוקדים דק עד יבלוליים מעט, ולכל אחד עוקץ ארוך חסר צבע באורך 6.5–15 µm. חוטי הקפיליציום חומים-זיתיים ומתפצלים במזלג.",
+      "habitat": "מפרק בין טחבים כגון Sphagnum, Drepanocladus ו-Calliergonella ועל שרידי גומא, בעיקר בביצות בסיסיות עד ניטרליות ובאחו לח, וגם בביצות מעיינות, בבתות לחות ולעיתים בביצות כבול מוגבהות. הוא מופיע מהשפלה ועד ההרים, בהרי האלפים עד 2250 מטר, וידוע מאירופה ומאסיה; דיווחים ישנים מצפון אמריקה לא אומתו. הוא מניב מיוני עד אוקטובר, בעיקר בסוף הקיץ ובסתיו.",
+      "uses": "אין לו שימוש קולינרי. הוא נדיר, מוערך כפגיע ברשימה האדומה העולמית, מופיע ברשימות האדומות הלאומיות של מדינות אירופיות רבות ומוגן בחוק בפינלנד ובפולין, ולכן אין לאסוף אותו.",
+      "confusion": "בית הגידול הלח והעשיר בטחבים אופייני לו. Lycoperdon caudatum ו-Lycoperdon muscorum עשויים לגדול באותם מקומות, אך הקליפה החיצונית שלהם יבלולית דק עד קוצנית. Bovista plumbea ו-Bovista nigrescens גדלים בשטחי עשב יבשים וחסר להם הבסיס המוצר המעוגן בטחב.",
+      "notes": "ז'וזף-אנרי לבייה תיאר אותו ב-1846 על פי פרטים שגדלו על הקרקע עם טחב כבול (Sphagnum) בצרפת. מאוחר יותר העביר אותו דה טוני ב-1888 ל-Calvatia ופאטויאר ב-1902 ל-Bovistella, אך כיום הוא שוב משויך ל-Bovista. שם המין paludosa פירושו \"של הביצות\". ב-2019 הוא הוערך כפגיע ברמה העולמית, משום שניקוז, כריית כבול וזיהום בחומרי הזנה הורסים את ביצותיו.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "Bovista वंश का एक छोटा और दुर्लभ गेंदनुमा कवक, जो क्षारीय दलदलों, पीट-भूमियों और नम घास के मैदानों में काई के बीच उगता है। इसके सफ़ेद से क्रीम रंग के फलनकाय गोल से नाशपाती के आकार के होते हैं, आमतौर पर 1–5 cm चौड़े, और काई में जमे एक सँकरे आधार पर टिके रहते हैं। यह यूरोप और एशिया से ज्ञात है और आर्द्रभूमियों के सुखाए जाने के साथ घट रहा है।",
+      "cap": "टोपी नहीं होती: पूरा फलनकाय गोल, नाशपाती के आकार का या छोटे डंठल वाला गोला होता है, 1–5 cm चौड़ा और 1–6 cm ऊँचा। बाहरी आवरण शुद्ध सफ़ेद और चिकना होता है, उम्र के साथ कभी-कभी हल्का खानों में चटक जाता है, और फिर सूखकर पतले सफ़ेद-से टुकड़ों में बदल जाता है। उसके नीचे का भीतरी आवरण बहुत पतला और चर्मपत्र जैसा होता है, पहले पीलापन लिए भूरा, बाद में लालिमा लिए भूरा से काला-भूरा, कभी-कभी ताँबे जैसी चमक के साथ, और शीर्ष पर एक छोटी दरार या अनियमित छेद से खुलता है।",
+      "hymenium": "गलफड़े नहीं होते। बीजाणु भीतर, ग्लेबा में बनते हैं, जो युवा अवस्था में सफ़ेद और ठोस होता है और फिर जैतूनी से जैतूनी-भूरा और चूर्णी हो जाता है। उसी रंग का कक्षयुक्त बंध्य आधार सँकरे निचले भाग को भरता है और धीरे-धीरे ग्लेबा में मिल जाता है; केंद्रीय स्तंभ नहीं होता।",
+      "stipe": "असली डंठल नहीं होता। निचला भाग लगभग 3.5 cm तक ऊँचे डंठल जैसे बंध्य आधार में सँकरा हो जाता है, जो अक्सर गड्ढेदार या सिलवटदार होता है और नीचे की ओर पतला होता जाता है। इसका कवकजाल आसपास की काई से गुँथा रहता है।",
+      "flesh": "भीतरी भाग केवल युवा फलनकायों में सफ़ेद और ठोस होता है और जल्द ही जैतूनी और चूर्णी हो जाता है। देखे गए स्रोतों में कोई विशिष्ट गंध या स्वाद दर्ज नहीं है।",
+      "sporePrint": "बीजाणु-पुंज जैतूनी-भूरा होता है। बीजाणु गोल, 4–5 µm, बारीक बिंदुदार से हल्के मस्सेदार होते हैं, और हर एक में 6.5–15 µm लंबा एक लंबा रंगहीन डंठल होता है। कैपिलिशियम के तंतु जैतूनी-भूरे और द्विशाखित होते हैं।",
+      "habitat": "Sphagnum, Drepanocladus और Calliergonella जैसी काइयों के बीच और मोथा-घास के अवशेषों पर उगने वाला मृतजीवी, अधिकतर क्षारीय से उदासीन दलदलों और नम घास के मैदानों में, और झरना-दलदलों, नम झाड़ीदार मैदानों तथा कभी-कभी उभरे पीट-दलदलों में भी। यह निचले मैदानों से पहाड़ों तक, आल्प्स में 2250 मीटर तक मिलता है, और यूरोप और एशिया से ज्ञात है; उत्तरी अमेरिका के पुराने अभिलेख पुष्ट नहीं हैं। यह जून से अक्टूबर तक, मुख्यतः देर गर्मियों और शरद ऋतु में फलता है।",
+      "uses": "इसका कोई पाक उपयोग नहीं है। यह दुर्लभ है, वैश्विक लाल सूची में असुरक्षित आँका गया है, कई यूरोपीय देशों की राष्ट्रीय लाल सूचियों में शामिल है और फ़िनलैंड और पोलैंड में कानून द्वारा संरक्षित है, इसलिए इसे एकत्र नहीं करना चाहिए।",
+      "confusion": "इसका काई से भरा नम आवास विशिष्ट है। Lycoperdon caudatum और Lycoperdon muscorum उन्हीं स्थानों पर उग सकते हैं, पर उनका बाहरी आवरण बारीक मस्सेदार से काँटेदार होता है। Bovista plumbea और Bovista nigrescens सूखे घास के मैदानों में उगते हैं और उनमें काई में जमा सँकरा आधार नहीं होता।",
+      "notes": "जोसेफ़-आंरी लेवेये ने 1846 में फ़्रांस में पीट काई (Sphagnum) के साथ मिट्टी पर उगे नमूनों के आधार पर इसका वर्णन किया। बाद में दे तोनी ने 1888 में इसे Calvatia में और पातुइयार ने 1902 में Bovistella में स्थानांतरित किया, पर अब इसे फिर से Bovista में रखा जाता है। जाति-विशेषण paludosa का अर्थ है \"दलदलों का\"। 2019 में इसे विश्व स्तर पर असुरक्षित आँका गया, क्योंकि जल-निकासी, पीट खनन और पोषक प्रदूषण इसके दलदलों को नष्ट कर रहे हैं।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Mala i rijetka gljiva puhara iz roda Bovista koja raste među mahovinama na niskim cretovima, močvarama i vlažnim livadama. Njezina bijela do krem plodišta kuglasta su do kruškolika, obično široka 1–5 cm, i sjede na suženoj osnovi usidrenoj u mahovini. Poznata je iz Europe i Azije i nestaje kako se močvarna staništa isušuju.",
+      "cap": "Klobuka nema: cijelo plodište kuglasta je, kruškolika ili kratko drškasta lopta, široka 1–5 cm i visoka 1–6 cm. Vanjska ovojnica čisto je bijela i glatka, sa starošću katkad lagano poljasto ispucala, a zatim se suši u tanke bjelkaste krpice. Unutarnja ovojnica ispod nje vrlo je tanka i pergamentasta, isprva žutosmeđa, kasnije crvenkastosmeđa do crnosmeđa, katkad bakrenasta sjaja, a na vrhu se otvara malim prorezom ili nepravilnim otvorom.",
+      "hymenium": "Listića nema. Spore nastaju iznutra, u glebi, koja je u mladosti bijela i čvrsta, a zatim maslinasta do maslinastosmeđa i praškasta. Komoričasta sterilna osnova iste boje ispunjava suženi donji dio i postupno prelazi u glebu; kolumele nema.",
+      "stipe": "Prave stručke nema. Donji se dio sužava u stručkoliku sterilnu osnovu visoku do oko 3,5 cm, često jamičastu ili naboranu i prema dolje suženu. Njezin je micelij isprepleten s okolnim mahovinama.",
+      "flesh": "Unutrašnjost je bijela i čvrsta samo u mladim plodištima i ubrzo postaje maslinasta i praškasta. Korišteni izvori ne navode izražen miris ni okus.",
+      "sporePrint": "Masa spora maslinastosmeđa je. Spore su kuglaste, 4–5 µm, sitno točkaste do slabo bradavičaste, a svaka ima dugu bezbojnu drškicu dugu 6,5–15 µm. Niti kapilicija maslinastosmeđe su i viličasto razgranate.",
+      "habitat": "Saprotrof među mahovinama poput rodova Sphagnum, Drepanocladus i Calliergonella i na ostacima šaševa, najčešće na bazičnim do neutralnim niskim cretovima i vlažnim livadama, također na izvorišnim cretovima, vlažnim vrištinama i katkad na visokim cretovima. Raste od nizina do planina, u Alpama do 2250 m, a poznata je iz Europe i Azije; stari podaci iz Sjeverne Amerike nisu potvrđeni. Plodišta razvija od lipnja do listopada, ponajviše krajem ljeta i u jesen.",
+      "uses": "Nema kulinarsku primjenu. Rijetka je, na svjetskom crvenom popisu procijenjena kao osjetljiva, nalazi se na nacionalnim crvenim popisima mnogih europskih zemalja i zakonom je zaštićena u Finskoj i Poljskoj, pa je ne treba sabirati.",
+      "confusion": "Karakteristično je njezino mahovinasto, vlažno stanište. Lycoperdon caudatum i Lycoperdon muscorum mogu rasti na istim mjestima, ali imaju sitno bradavičastu do bodljikavu vanjsku ovojnicu. Bovista plumbea i Bovista nigrescens rastu na suhim travnjacima i nemaju suženu osnovu usidrenu u mahovini.",
+      "notes": "Joseph-Henri Léveillé opisao ju je 1846. prema primjercima koji su u Francuskoj rasli na tlu među tresetarima (Sphagnum). Kasnije ju je De Toni 1888. premjestio u Calvatia, a Patouillard 1902. u Bovistella, no danas je ponovno svrstana u Bovista. Epitet paludosa znači „močvarna”. Godine 2019. procijenjena je kao osjetljiva na svjetskoj razini jer isušivanje, vađenje treseta i onečišćenje hranjivim tvarima uništavaju njezine cretove.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Kis termetű, ritka pöfeteggomba a Bovista nemzetségből, amely mohák között nő rétlápokon, lápokon és nedves réteken. Fehér vagy krémszínű termőtestei gömbölyűek vagy körte alakúak, általában 1–5 cm szélesek, és keskenyedő, a mohában rögzülő alapon ülnek. Európából és Ázsiából ismert, és a vizes élőhelyek lecsapolásával visszaszorul.",
+      "cap": "Kalapja nincs: az egész termőtest gömbölyű, körte alakú vagy rövid tönkszerű gömb, 1–5 cm széles és 1–6 cm magas. A külső burok tiszta fehér és sima, idősen néha kissé mezőkre repedezett, majd vékony fehéres foszlányokká szárad. Az alatta lévő belső burok nagyon vékony és pergamenszerű, eleinte sárgásbarna, később vörösbarna vagy feketésbarna, néha rezes fényű, és a csúcsán kis réssel vagy szabálytalan nyílással nyílik.",
+      "hymenium": "Lemezei nincsenek. A spórák belül, a glebában képződnek, amely fiatalon fehér és tömör, később olajzöld vagy olajbarna és porszerű. Az azonos színű, kamrás, steril alap kitölti a keskenyedő alsó részt, és fokozatosan megy át a glebába; columellája nincs.",
+      "stipe": "Valódi tönkje nincs. Az alsó rész tönkszerű steril alappá keskenyedik, amely legfeljebb mintegy 3,5 cm magas, gyakran gödörkés vagy ráncos, és lefelé elvékonyodik. Micéliuma összeszövődik a környező mohákkal.",
+      "flesh": "Belseje csak a fiatal termőtestekben fehér és tömör, hamar olajszínűvé és porszerűvé válik. A felhasznált források nem említenek jellegzetes szagot vagy ízt.",
+      "sporePrint": "A spóratömeg olajbarna. A spórák gömbölyűek, 4–5 µm-esek, finoman pontozottak vagy gyengén szemölcsösek, és mindegyiknek hosszú, színtelen, 6,5–15 µm-es nyele van. A capillitium fonalai olajbarnák és villásan elágazók.",
+      "habitat": "Szaprotróf mohák, például Sphagnum, Drepanocladus és Calliergonella között, valamint sásmaradványokon, főként bázikus vagy semleges rétlápokon és nedves réteken, továbbá forráslápokon, nedves fenyéreken és néha dagadólápokon. Az alföldektől a hegyvidékig előfordul, az Alpokban 2250 m-ig, és Európából és Ázsiából ismert; a régi észak-amerikai adatok megerősítetlenek. Júniustól októberig terem, főként nyár végén és ősszel.",
+      "uses": "Konyhai felhasználása nincs. Ritka, a globális vörös listán sebezhetőként értékelték, számos európai ország nemzeti vörös listáján szerepel, Finnországban és Lengyelországban törvény védi, ezért nem szabad gyűjteni.",
+      "confusion": "Mohás, vizes élőhelye jellegzetes. A Lycoperdon caudatum és a Lycoperdon muscorum ugyanazokon a helyeken nőhet, de külső burkuk finoman szemölcsös vagy tüskés. A Bovista plumbea és a Bovista nigrescens száraz gyepekben nő, és nincs keskenyedő, a mohában rögzülő alapjuk.",
+      "notes": "Joseph-Henri Léveillé 1846-ban írta le Franciaországban, tőzegmoha (Sphagnum) közt a talajon nőtt példányok alapján. Később De Toni 1888-ban a Calvatia, Patouillard 1902-ben a Bovistella nemzetségbe sorolta, ma azonban ismét a Bovista nemzetségbe tartozik. A paludosa fajnév jelentése „mocsári”. 2019-ben világszinten sebezhetőnek minősítették, mert a lecsapolás, a tőzegkitermelés és a tápanyagterhelés pusztítja rétlápjait.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2535215/vernacularNames"
+      ],
+      "label": "lápi pöfeteg"
+    },
+    "id": {
+      "description": "Jamur bola kecil dan langka dari genus Bovista yang tumbuh di antara lumut di rawa gambut basa, lahan basah, dan padang rumput lembap. Tubuh buahnya yang putih hingga krem berbentuk bulat hingga seperti buah pir, biasanya selebar 1–5 cm, dan duduk di atas pangkal yang menyempit dan tertanam di lumut. Jamur ini dikenal dari Eropa dan Asia dan semakin berkurang seiring dikeringkannya lahan basah.",
+      "cap": "Tidak ada tudung: seluruh tubuh buah berupa bola bulat, seperti buah pir, atau bertangkai pendek, selebar 1–5 cm dan setinggi 1–6 cm. Kulit luarnya putih bersih dan halus, kadang sedikit retak berpetak seiring umur, lalu mengering menjadi serpihan tipis keputihan. Kulit dalam di bawahnya sangat tipis dan seperti perkamen, mula-mula cokelat kekuningan, kemudian cokelat kemerahan hingga cokelat kehitaman, kadang berkilau tembaga, dan membuka di puncak melalui celah kecil atau lubang tak beraturan.",
+      "hymenium": "Tidak ada bilah. Spora terbentuk di bagian dalam, di gleba, yang putih dan padat saat muda, lalu berwarna zaitun hingga cokelat zaitun dan bertepung. Pangkal steril berbilik dengan warna yang sama mengisi bagian bawah yang menyempit dan berangsur menyatu dengan gleba; tidak ada kolumela.",
+      "stipe": "Tidak ada tangkai sejati. Bagian bawah menyempit menjadi pangkal steril menyerupai tangkai setinggi sekitar 3,5 cm, sering berlekuk atau berlipat dan meruncing ke bawah. Miseliumnya terjalin dengan lumut di sekitarnya.",
+      "flesh": "Bagian dalam hanya putih dan padat pada tubuh buah muda dan segera menjadi berwarna zaitun dan bertepung. Sumber yang dirujuk tidak menyebutkan bau atau rasa yang khas.",
+      "sporePrint": "Massa sporanya cokelat zaitun. Sporanya bulat, 4–5 µm, berbintik halus hingga sedikit berkutil, dan masing-masing memiliki tangkai panjang tak berwarna sepanjang 6,5–15 µm. Benang kapilisiumnya cokelat zaitun dan bercabang dua.",
+      "habitat": "Saprotrof di antara lumut seperti Sphagnum, Drepanocladus, dan Calliergonella serta pada sisa teki-tekian, terutama di rawa gambut basa hingga netral dan padang rumput lembap, juga di rawa mata air, padang semak basah, dan kadang di rawa gambut tinggi. Jamur ini ditemukan dari dataran rendah hingga pegunungan, di Pegunungan Alpen hingga 2250 m, dan dikenal dari Eropa dan Asia; laporan lama dari Amerika Utara belum terkonfirmasi. Tubuh buahnya muncul dari Juni hingga Oktober, terutama pada akhir musim panas dan musim gugur.",
+      "uses": "Jamur ini tidak dimanfaatkan sebagai makanan. Jamur ini langka, dinilai rentan dalam Daftar Merah global, tercantum dalam Daftar Merah nasional banyak negara Eropa, dan dilindungi undang-undang di Finlandia dan Polandia, sehingga tidak boleh dikumpulkan.",
+      "confusion": "Habitat lahan basah yang berlumut merupakan ciri khasnya. Lycoperdon caudatum dan Lycoperdon muscorum dapat tumbuh di tempat yang sama, tetapi kulit luarnya berkutil halus hingga berduri. Bovista plumbea dan Bovista nigrescens tumbuh di padang rumput kering dan tidak memiliki pangkal menyempit yang tertanam di lumut.",
+      "notes": "Joseph-Henri Léveillé mendeskripsikannya pada 1846 dari spesimen yang tumbuh di tanah bersama lumut gambut (Sphagnum) di Prancis. Kemudian De Toni memindahkannya ke Calvatia pada 1888 dan Patouillard ke Bovistella pada 1902, tetapi kini jamur ini kembali ditempatkan dalam Bovista. Epitet paludosa berarti \"dari rawa\". Pada 2019 jamur ini dinilai rentan secara global karena pengeringan, penambangan gambut, dan pencemaran nutrien merusak rawa-rawanya.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un piccolo e raro gasteromicete del genere Bovista che cresce tra i muschi nelle torbiere basse, nelle paludi e nei prati umidi. I suoi corpi fruttiferi da bianchi a crema sono da globosi a piriformi, di solito larghi 1–5 cm, e poggiano su una base ristretta ancorata nel muschio. È noto in Europa e in Asia ed è in regresso con il drenaggio delle zone umide.",
+      "cap": "Non c'è cappello: l'intero corpo fruttifero è una palla globosa, piriforme o brevemente stipitata, larga 1–5 cm e alta 1–6 cm. L'esoperidio è bianco puro e liscio, talvolta un po' areolato con l'età, e poi si secca in sottili lembi biancastri. L'endoperidio sottostante è molto sottile e pergamenaceo, prima bruno-giallastro, poi bruno-rossastro fino a bruno-nerastro, talvolta con riflessi ramati, e si apre all'apice con una piccola fessura o un foro irregolare.",
+      "hymenium": "Non ci sono lamelle. Le spore si formano all'interno, nella gleba, bianca e soda da giovane, poi olivastra fino a bruno-olivastra e polverulenta. Una subgleba a piccole camere dello stesso colore riempie la parte inferiore ristretta e passa gradualmente nella gleba; manca la columella.",
+      "stipe": "Non c'è un vero gambo. La parte inferiore si restringe in una base sterile simile a un gambo, alta fino a circa 3,5 cm, spesso alveolata o pieghettata e attenuata verso il basso. Il suo micelio è intrecciato con i muschi circostanti.",
+      "flesh": "L'interno è bianco e sodo solo nei corpi fruttiferi giovani e presto diventa olivastro e polverulento. Le fonti consultate non riportano odore o sapore particolari.",
+      "sporePrint": "La massa sporale è bruno-olivastra. Le spore sono globose, di 4–5 µm, finemente punteggiate o leggermente verrucose, e ognuna porta un lungo pedicello incolore di 6,5–15 µm. Le ife del capillizio sono bruno-olivastre e biforcate.",
+      "habitat": "Saprotrofo tra muschi come Sphagnum, Drepanocladus e Calliergonella e su resti di carici, soprattutto in torbiere basse da alcaline a neutre e prati umidi, anche in sorgenti torbose, brughiere umide e talvolta torbiere alte. Si trova dalla pianura alla montagna, nelle Alpi fino a 2250 m, ed è noto in Europa e in Asia; le vecchie segnalazioni dal Nord America non sono confermate. Fruttifica da giugno a ottobre, soprattutto a fine estate e in autunno.",
+      "uses": "Non ha alcun uso alimentare. È raro, è valutato vulnerabile nella lista rossa mondiale, compare nelle liste rosse nazionali di molti paesi europei ed è protetto per legge in Finlandia e in Polonia, quindi non va raccolto.",
+      "confusion": "Il suo habitat umido e muscoso è caratteristico. Lycoperdon caudatum e Lycoperdon muscorum possono crescere negli stessi luoghi, ma hanno l'esoperidio da finemente verrucoso ad aculeato. Bovista plumbea e Bovista nigrescens crescono nei prati aridi e non hanno la base ristretta ancorata nel muschio.",
+      "notes": "Joseph-Henri Léveillé lo descrisse nel 1846 da esemplari che crescevano sul terreno tra gli sfagni (Sphagnum) in Francia. In seguito De Toni lo spostò in Calvatia nel 1888 e Patouillard in Bovistella nel 1902, ma oggi è di nuovo collocato in Bovista. L'epiteto paludosa significa «delle paludi». Nel 2019 è stato valutato vulnerabile a livello mondiale perché il drenaggio, l'estrazione della torba e l'inquinamento da nutrienti distruggono le sue torbiere.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "Bovista属の小さく珍しい腹菌類で、アルカリ性の低層湿原、湿地、湿った草地のコケの間に生える。白色からクリーム色の子実体は球形から洋梨形で、ふつう径1–5 cm、コケに固定された細まった基部の上にのる。ヨーロッパとアジアから知られ、湿地の排水とともに減少している。",
+      "cap": "傘はない。子実体全体が球形、洋梨形または短い柄のある球で、径1–5 cm、高さ1–6 cm。外皮は純白で平滑、古くなるとときにわずかに亀甲状にひび割れ、その後乾いて薄い白っぽい破片になる。その下の内皮はごく薄く羊皮紙状で、はじめ黄褐色、のち赤褐色から黒褐色になり、ときに銅色の光沢を帯び、頂部の小さな裂け目または不規則な孔で開く。",
+      "hymenium": "ひだはない。胞子は内部のグレバでつくられ、グレバは若いうちは白色で締まり、のちオリーブ色からオリーブ褐色の粉状になる。同色の小室状の不稔基部が細まった下部を満たし、しだいにグレバへ移行する。中軸はない。",
+      "stipe": "本当の柄はない。下部は高さおよそ3.5 cmまでの柄状の不稔基部へと細まり、しばしばくぼみやしわがあり、下方へ細くなる。菌糸は周囲のコケと絡み合っている。",
+      "flesh": "内部が白く締まっているのは若い子実体だけで、すぐにオリーブ色の粉状になる。参照した資料には特徴的なにおいや味の記載はない。",
+      "sporePrint": "胞子塊はオリーブ褐色。胞子は球形で径4–5 µm、細かい点状からわずかにいぼ状で、それぞれ長さ6.5–15 µmの長い無色の柄をもつ。弾糸はオリーブ褐色で二叉に分岐する。",
+      "habitat": "Sphagnum、Drepanocladus、Calliergonellaなどのコケの間やスゲ類の残渣上に生える腐生菌で、主にアルカリ性から中性の低層湿原や湿った草地に見られ、湧水湿地、湿ったヒース、ときに高層湿原にも出る。低地から山地まで分布し、アルプスでは標高2250メートルまで見られ、ヨーロッパとアジアから知られる。北アメリカからの古い記録は確認されていない。六月から十月にかけて、主に晩夏から秋に発生する。",
+      "uses": "食用にはされない。珍しい種で、世界のレッドリストで危急種と評価され、ヨーロッパの多くの国の国別レッドリストに載り、フィンランドとポーランドでは法律で保護されているため、採取すべきではない。",
+      "confusion": "コケの多い湿地という生育環境が特徴的である。Lycoperdon caudatumとLycoperdon muscorumは同じ場所に生えることがあるが、外皮が細かいいぼ状からとげ状である。Bovista plumbeaとBovista nigrescensは乾いた草地に生え、コケに固定された細まった基部をもたない。",
+      "notes": "ジョゼフ＝アンリ・レヴェイエが1846年に、フランスでミズゴケ（Sphagnum）とともに地上に生えていた標本に基づいて記載した。その後、デ・トーニが1888年にCalvatiaへ、パトゥイヤールが1902年にBovistellaへ移したが、現在は再びBovistaに置かれている。種小名paludosaは「沼地の」を意味する。2019年には、排水、泥炭採掘、栄養塩による汚染が生育地の湿原を破壊しているため、世界的に危急種と評価された。",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ko": {
+      "description": "알칼리성 저층습원, 습지, 축축한 풀밭의 이끼 사이에서 자라는 Bovista속의 작고 희귀한 복균류이다. 흰색에서 크림색의 자실체는 공 모양에서 서양배 모양이며 보통 지름 1–5 cm이고, 이끼에 고정된 좁아진 기부 위에 놓인다. 유럽과 아시아에서 알려져 있으며 습지가 배수되면서 줄어들고 있다.",
+      "cap": "갓이 없다. 자실체 전체가 공 모양, 서양배 모양 또는 짧은 자루가 있는 구형으로 지름 1–5 cm, 높이 1–6 cm이다. 외피는 순백색이고 매끄러우며 오래되면 때로 약간 거북등 모양으로 갈라지고, 이후 말라 얇은 흰빛 조각이 된다. 그 아래의 내피는 매우 얇고 양피지 같으며, 처음에는 황갈색이다가 나중에 적갈색에서 흑갈색이 되고, 때로 구릿빛 광택을 띠며, 꼭대기의 작은 틈이나 불규칙한 구멍으로 열린다.",
+      "hymenium": "주름살이 없다. 포자는 내부의 기본체에서 만들어지며, 기본체는 어릴 때 흰색이고 단단하다가 올리브색에서 올리브갈색이 되어 가루 모양이 된다. 같은 색의 작은 방으로 된 불임성 기부가 좁아진 아래쪽을 채우고 점차 기본체로 이어지며, 중축은 없다.",
+      "stipe": "진짜 대가 없다. 아래쪽은 높이 약 3.5 cm까지의 대 모양 불임성 기부로 좁아지며, 흔히 오목하거나 주름지고 아래로 가늘어진다. 균사는 주변의 이끼와 얽혀 있다.",
+      "flesh": "내부는 어린 자실체에서만 희고 단단하며 곧 올리브색 가루 모양이 된다. 참고한 자료에는 뚜렷한 냄새나 맛이 기록되어 있지 않다.",
+      "sporePrint": "포자 덩어리는 올리브갈색이다. 포자는 구형으로 지름 4–5 µm이며, 미세한 점무늬에서 약한 사마귀 모양이고, 각각 길이 6.5–15 µm의 긴 무색 자루가 있다. 탄사는 올리브갈색이며 두 갈래로 갈라진다.",
+      "habitat": "Sphagnum, Drepanocladus, Calliergonella 같은 이끼 사이와 사초류 잔해 위에서 자라는 부생균으로, 주로 알칼리성에서 중성의 저층습원과 축축한 풀밭에서, 또한 용천 습원, 습한 황야, 때로는 고층습원에서도 발견된다. 저지대에서 산지까지 나타나며 알프스에서는 해발 2250미터까지 자라고, 유럽과 아시아에서 알려져 있다. 북아메리카의 옛 기록은 확인되지 않았다. 유월부터 시월까지, 주로 늦여름과 가을에 발생한다.",
+      "uses": "식용으로 쓰이지 않는다. 희귀종으로 세계 적색목록에서 취약종으로 평가되었고, 여러 유럽 국가의 국가 적색목록에 올라 있으며, 핀란드와 폴란드에서는 법으로 보호되므로 채집해서는 안 된다.",
+      "confusion": "이끼가 많은 습지 서식지가 특징적이다. Lycoperdon caudatum과 Lycoperdon muscorum은 같은 곳에서 자랄 수 있지만 외피가 미세한 사마귀 모양에서 가시 모양이다. Bovista plumbea와 Bovista nigrescens는 건조한 풀밭에서 자라며 이끼에 고정된 좁아진 기부가 없다.",
+      "notes": "조제프앙리 레베이예가 1846년에 프랑스에서 물이끼(Sphagnum)와 함께 땅 위에 자라던 표본을 바탕으로 기재했다. 이후 데 토니가 1888년에 Calvatia로, 파투이야르가 1902년에 Bovistella로 옮겼으나, 현재는 다시 Bovista에 속한다. 종소명 paludosa는 '늪의'라는 뜻이다. 2019년에는 배수, 이탄 채굴, 영양염 오염이 서식지인 습원을 파괴하고 있어 세계적으로 취약종으로 평가되었다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Nedidelis, retas Bovista genties grybas, augantis tarp samanų žemapelkėse, pelkėse ir drėgnose pievose. Jo balti ar kreminiai vaisiakūniai yra rutuliški ar kriaušiški, paprastai 1–5 cm pločio, ir sėdi ant susiaurėjusio, samanose įsitvirtinusio pagrindo. Rūšis žinoma iš Europos ir Azijos ir nyksta sausinant šlapynes.",
+      "cap": "Kepurėlės nėra: visas vaisiakūnis yra rutuliškas, kriaušiškas ar trumpakotis rutulys, 1–5 cm pločio ir 1–6 cm aukščio. Išorinis apvalkalas grynai baltas ir lygus, senstant kartais šiek tiek suskilinėjęs laukeliais, o vėliau sudžiūsta į plonas balsvas skiauteles. Vidinis apvalkalas po juo labai plonas ir pergamentiškas, iš pradžių gelsvai rudas, vėliau rausvai rudas iki juosvai rudo, kartais su variniu blizgesiu, ir viršūnėje atsiveria nedideliu plyšiu ar netaisyklinga anga.",
+      "hymenium": "Lakštelių nėra. Sporos susidaro viduje, glebos audinyje, kuris jaunas baltas ir tvirtas, vėliau alyvinis iki alyvmedžio rudumo ir dulkantis. To paties atspalvio kamerinis sterilus pagrindas užpildo susiaurėjusią apatinę dalį ir palaipsniui pereina į glebą; kolumelės nėra.",
+      "stipe": "Tikro koto nėra. Apatinė dalis susiaurėja į kotą primenantį sterilų pagrindą iki maždaug 3,5 cm aukščio, dažnai duobėtą ar raukšlėtą ir žemyn smailėjantį. Jo grybiena susipynusi su aplinkinėmis samanomis.",
+      "flesh": "Vidus baltas ir tvirtas tik jaunų vaisiakūnių, o netrukus tampa alyvinis ir dulkantis. Naudotuose šaltiniuose ryškus kvapas ar skonis nenurodomas.",
+      "sporePrint": "Sporų masė alyvmedžio rudumo. Sporos rutuliškos, 4–5 µm, smulkiai taškuotos iki silpnai karpuotų, ir kiekviena turi ilgą bespalvį kotelį, kurio ilgis 6,5–15 µm. Kapilicijaus siūlai alyvmedžio rudumo ir šakoti dvišakai.",
+      "habitat": "Saprotrofas, augantis tarp samanų, pavyzdžiui, Sphagnum, Drepanocladus ir Calliergonella, ir ant viksvų liekanų, dažniausiai šarminėse iki neutralių žemapelkėse ir drėgnose pievose, taip pat šaltiniuotose pelkėse, drėgnuose viržynuose ir kartais aukštapelkėse. Aptinkamas nuo lygumų iki kalnų, Alpėse iki 2250 m, ir žinomas iš Europos ir Azijos; seni duomenys iš Šiaurės Amerikos nepatvirtinti. Vaisiakūnius sudaro nuo birželio iki spalio, daugiausia vasaros pabaigoje ir rudenį.",
+      "uses": "Maistui nenaudojamas. Jis retas, pasauliniame Raudonajame sąraše įvertintas kaip pažeidžiamas, įtrauktas į daugelio Europos šalių nacionalinius Raudonuosius sąrašus ir įstatymu saugomas Suomijoje ir Lenkijoje, todėl jo rinkti nereikėtų.",
+      "confusion": "Būdinga jo samanota, šlapia augimvietė. Lycoperdon caudatum ir Lycoperdon muscorum gali augti tose pačiose vietose, tačiau jų išorinis apvalkalas smulkiai karpuotas iki dygliuoto. Bovista plumbea ir Bovista nigrescens auga sausose žolėse ir neturi susiaurėjusio, samanose įsitvirtinusio pagrindo.",
+      "notes": "Joseph-Henri Léveillé jį aprašė 1846 m. pagal egzempliorius, augusius Prancūzijoje ant dirvožemio tarp kiminų (Sphagnum). Vėliau De Toni 1888 m. jį perkėlė į Calvatia, o Patouillard 1902 m. – į Bovistella, tačiau dabar jis vėl priskiriamas Bovista. Rūšies epitetas paludosa reiškia „pelkių“. 2019 m. jis pasauliniu mastu įvertintas kaip pažeidžiamas, nes sausinimas, durpių kasyba ir maistinių medžiagų tarša naikina jo žemapelkes.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2535215/vernacularNames"
+      ],
+      "label": "pelkinė vilktabokė"
+    },
+    "lv": {
+      "description": "Neliela, reta ģints Bovista pūpēžveidīga sēne, kas aug starp sūnām zāļu purvos, purvos un mitrās pļavās. Tās baltie līdz krēmīgie augļķermeņi ir lodveida līdz bumbierveida, parasti 1–5 cm plati, un atrodas uz sašaurinātas, sūnās nostiprinātas pamatnes. Suga zināma no Eiropas un Āzijas, un tā sarūk, jo mitrāji tiek nosusināti.",
+      "cap": "Cepurītes nav: viss augļķermenis ir lodveida, bumbierveida vai īsi kātaina bumba, 1–5 cm plata un 1–6 cm augsta. Ārējais apvalks ir tīri balts un gluds, ar vecumu dažkārt nedaudz lauciņveidīgi saplaisājis, un pēc tam izžūst plānās bālganās plēksnēs. Iekšējais apvalks zem tā ir ļoti plāns un pergamentveida, sākumā dzeltenbrūns, vēlāk sarkanbrūns līdz melnbrūns, dažkārt ar varainu spīdumu, un atveras virsotnē ar nelielu spraugu vai neregulāru caurumu.",
+      "hymenium": "Lapiņu nav. Sporas veidojas iekšpusē, glebā, kas jaunībā ir balta un stingra, vēlāk olīvkrāsas līdz olīvbrūna un putekļaina. Tādas pašas krāsas kamerveida sterila pamatne aizpilda sašaurināto apakšdaļu un pakāpeniski pāriet glebā; kolumellas nav.",
+      "stipe": "Īsta kātiņa nav. Apakšdaļa sašaurinās kātiņveida sterilā pamatnē līdz apmēram 3,5 cm augstumam, bieži bedrainā vai krokotā un uz leju sašaurinātā. Tās micēlijs ir savijies ar apkārtējām sūnām.",
+      "flesh": "Iekšpuse ir balta un stingra tikai jauniem augļķermeņiem un drīz kļūst olīvkrāsas un putekļaina. Izmantotajos avotos izteikta smarža vai garša nav minēta.",
+      "sporePrint": "Sporu masa ir olīvbrūna. Sporas ir lodveida, 4–5 µm, smalki punktotas līdz vāji kārpainas, un katrai ir garš bezkrāsains kātiņš 6,5–15 µm garumā. Kapilīcija pavedieni ir olīvbrūni un dakšveidīgi zaroti.",
+      "habitat": "Saprotrofs starp sūnām, piemēram, Sphagnum, Drepanocladus un Calliergonella, un uz grīšļu atliekām, galvenokārt bāziskos līdz neitrālos zāļu purvos un mitrās pļavās, arī avoksnājos, mitros virsājos un dažkārt augstajos purvos. Sastopama no zemienēm līdz kalniem, Alpos līdz 2250 m augstumam, un zināma no Eiropas un Āzijas; senas ziņas no Ziemeļamerikas nav apstiprinātas. Augļķermeņus veido no jūnija līdz oktobrim, galvenokārt vasaras beigās un rudenī.",
+      "uses": "Kulinārijā to neizmanto. Tā ir reta, pasaules Sarkanajā sarakstā novērtēta kā jutīga, iekļauta daudzu Eiropas valstu nacionālajos Sarkanajos sarakstos un ar likumu aizsargāta Somijā un Polijā, tāpēc to nevajadzētu vākt.",
+      "confusion": "Raksturīga ir tās sūnaina, mitra augtene. Lycoperdon caudatum un Lycoperdon muscorum var augt tajās pašās vietās, bet tiem ir smalki kārpains līdz dzeloņains ārējais apvalks. Bovista plumbea un Bovista nigrescens aug sausos zālājos, un tiem nav sašaurinātas, sūnās nostiprinātas pamatnes.",
+      "notes": "Joseph-Henri Léveillé to aprakstīja 1846. gadā pēc eksemplāriem, kas Francijā auga uz augsnes starp sfagniem (Sphagnum). Vēlāk De Toni 1888. gadā to pārcēla uz Calvatia un Patouillard 1902. gadā uz Bovistella, taču tagad tā atkal tiek iekļauta Bovista. Sugas epitets paludosa nozīmē “purvu”. 2019. gadā tā pasaulē tika novērtēta kā jutīga, jo nosusināšana, kūdras ieguve un barības vielu piesārņojums iznīcina tās zāļu purvus.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "nl": {
+      "description": "Een kleine, zeldzame buikzwam uit het geslacht Bovista die tussen mossen groeit in laagveen, moerassen en natte graslanden. De witte tot crèmekleurige vruchtlichamen zijn bolvormig tot peervormig, meestal 1–5 cm breed, en zitten op een versmalde, in het mos verankerde voet. De soort is bekend uit Europa en Azië en gaat achteruit doordat natte gebieden worden ontwaterd.",
+      "cap": "Er is geen hoed: het hele vruchtlichaam is een bolvormige, peervormige of kort gesteelde bol, 1–5 cm breed en 1–6 cm hoog. De buitenste huid is zuiver wit en glad, met de leeftijd soms licht gevelderd, en droogt dan op tot dunne witachtige snippers. De binnenste huid daaronder is zeer dun en perkamentachtig, eerst geelbruin, later roodbruin tot zwartbruin, soms met een koperachtige glans, en opent aan de top met een kleine spleet of een onregelmatig gat.",
+      "hymenium": "Er zijn geen plaatjes. De sporen ontstaan binnenin, in de gleba, die jong wit en stevig is en daarna olijf- tot olijfbruin en poederig wordt. Een gekamerde steriele basis van dezelfde kleur vult het versmalde onderste deel en gaat geleidelijk over in de gleba; een columella ontbreekt.",
+      "stipe": "Er is geen echte steel. Het onderste deel versmalt tot een steelachtige steriele basis van tot ongeveer 3,5 cm hoog, vaak putjesachtig of geplooid en naar onderen versmald. Het mycelium is verweven met de omringende mossen.",
+      "flesh": "Het inwendige is alleen in jonge vruchtlichamen wit en stevig en wordt al snel olijfkleurig en poederig. De geraadpleegde bronnen vermelden geen opvallende geur of smaak.",
+      "sporePrint": "De sporenmassa is olijfbruin. De sporen zijn bolvormig, 4–5 µm, fijn gestippeld tot zwak wrattig, en hebben elk een lang kleurloos steeltje van 6,5–15 µm. De capillitiumdraden zijn olijfbruin en gevorkt.",
+      "habitat": "Saprotroof tussen mossen zoals Sphagnum, Drepanocladus en Calliergonella en op resten van zeggen, vooral in basenrijk tot neutraal laagveen en natte graslanden, ook in bronvenen, natte heiden en soms in hoogveen. De soort komt voor van het laagland tot in de bergen, in de Alpen tot 2250 m, en is bekend uit Europa en Azië; oude meldingen uit Noord-Amerika zijn onbevestigd. Vruchtlichamen verschijnen van juni tot oktober, vooral in de nazomer en de herfst.",
+      "uses": "De soort heeft geen culinaire waarde. Ze is zeldzaam, staat op de wereldwijde Rode Lijst als kwetsbaar, staat op de nationale Rode Lijsten van veel Europese landen en is wettelijk beschermd in Finland en Polen; verzamel haar daarom niet.",
+      "confusion": "Het mosrijke, natte milieu is kenmerkend. Lycoperdon caudatum en Lycoperdon muscorum kunnen op dezelfde plekken groeien, maar hebben een fijn wrattige tot stekelige buitenste huid. Bovista plumbea en Bovista nigrescens groeien in droge graslanden en missen de versmalde, in mos verankerde voet.",
+      "notes": "Joseph-Henri Léveillé beschreef de soort in 1846 naar exemplaren die in Frankrijk op grond met veenmos (Sphagnum) groeiden. Later plaatste De Toni haar in 1888 in Calvatia en Patouillard in 1902 in Bovistella, maar tegenwoordig staat ze weer in Bovista. Het epitheton paludosa betekent 'van moerassen'. In 2019 werd ze wereldwijd als kwetsbaar beoordeeld omdat ontwatering, turfwinning en vermesting haar laagvenen vernietigen.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "no": {
+      "description": "En liten, sjelden buksopp i slekten Bovista som vokser blant moser i rikmyr, myr og fuktige enger. De hvite til kremfargede fruktlegemene er kuleformede til pæreformede, vanligvis 1–5 cm brede, og sitter på en innsnevret basis som er forankret i mosen. Arten er kjent fra Europa og Asia og går tilbake når våtmarker dreneres.",
+      "cap": "Det finnes ingen hatt: hele fruktlegemet er en kuleformet, pæreformet eller kort stilket ball, 1–5 cm bred og 1–6 cm høy. Det ytre skallet er rent hvitt og glatt, med alderen av og til litt oppsprukket i felter, og tørker så inn til tynne hvitaktige flak. Det indre skallet under er svært tynt og pergamentaktig, først gulbrunt, senere rødbrunt til svartbrunt, av og til med kobberaktig glans, og åpner seg i toppen med en liten spalte eller et uregelmessig hull.",
+      "hymenium": "Det finnes ingen skiver. Sporene dannes inni, i gleba, som er hvit og fast hos unge eksemplarer og deretter oliven til olivenbrun og støvete. En kamret steril basis i samme farge fyller den innsnevrede nedre delen og går gradvis over i gleba; en columella mangler.",
+      "stipe": "Det finnes ingen ekte stilk. Den nedre delen smalner inn til en stilkaktig steril basis opptil omkring 3,5 cm høy, ofte gropete eller foldet og avsmalnende nedover. Myceliet er sammenfiltret med mosene rundt.",
+      "flesh": "Innsiden er bare hvit og fast i unge fruktlegemer og blir snart olivenfarget og støvete. Kildene som er brukt, oppgir ingen tydelig lukt eller smak.",
+      "sporePrint": "Sporemassen er olivenbrun. Sporene er kuleformede, 4–5 µm, fint punkterte til svakt vortete, og hver har en lang fargeløs stilk på 6,5–15 µm. Kapillitietrådene er olivenbrune og gaffelgreinede.",
+      "habitat": "Saprotrof blant moser som Sphagnum, Drepanocladus og Calliergonella og på rester av starr, mest i baserike til nøytrale rikmyrer og fuktige enger, også i kildemyrer, fuktige heier og av og til i høymyrer. Den forekommer fra lavlandet til fjellet, i Alpene opptil 2250 m, og er kjent fra Europa og Asia; gamle angivelser fra Nord-Amerika er ubekreftede. Den danner fruktlegemer fra juni til oktober, særlig på sensommeren og høsten.",
+      "uses": "Den har ingen bruk i matlaging. Den er sjelden, vurdert som sårbar på den globale rødlisten, står på de nasjonale rødlistene i mange europeiske land og er lovbeskyttet i Finland og Polen, så den bør ikke samles inn.",
+      "confusion": "Det mosrike, våte voksestedet er karakteristisk. Lycoperdon caudatum og Lycoperdon muscorum kan vokse på de samme stedene, men har et fint vortete til piggete ytre skall. Bovista plumbea og Bovista nigrescens vokser på tørre gressmarker og mangler den innsnevrede basisen forankret i mose.",
+      "notes": "Joseph-Henri Léveillé beskrev den i 1846 etter eksemplarer som vokste på jord med torvmose (Sphagnum) i Frankrike. Senere flyttet De Toni den til Calvatia i 1888 og Patouillard til Bovistella i 1902, men i dag plasseres den igjen i Bovista. Artsnavnet paludosa betyr «fra myrer». I 2019 ble den vurdert som sårbar globalt fordi grøfting, torvuttak og næringsforurensning ødelegger myrene den vokser i.",
+      "names": [],
+      "sourceUrls": [
+        "https://redlist.info/iucn/species_view/209589/",
+        "https://api.gbif.org/v1/species/2535215/vernacularNames"
+      ],
+      "label": "myrrøyksopp"
+    },
+    "pl": {
+      "description": "Mały, rzadki grzyb z rodzaju Bovista, rosnący wśród mchów na torfowiskach niskich, mokradłach i wilgotnych łąkach. Jego białe do kremowych owocniki są kuliste do gruszkowatych, zwykle o średnicy 1–5 cm, i osadzone na zwężonej podstawie zakotwiczonej w mchu. Znany jest z Europy i Azji i ustępuje wraz z osuszaniem mokradeł.",
+      "cap": "Kapelusza brak: cały owocnik jest kulisty, gruszkowaty lub krótko trzonkowaty, o średnicy 1–5 cm i wysokości 1–6 cm. Okrywa zewnętrzna jest czysto biała i gładka, z wiekiem czasem drobno spękana na poletka, a potem zasycha w cienkie białawe łuseczki. Okrywa wewnętrzna jest bardzo cienka i pergaminowata, początkowo żółtobrązowa, później czerwonobrązowa do czarnobrązowej, czasem z miedzianym połyskiem, i otwiera się na szczycie małą szczeliną lub nieregularnym otworem.",
+      "hymenium": "Blaszek brak. Zarodniki powstają wewnątrz, w glebie, która za młodu jest biała i zwarta, potem oliwkowa do oliwkowobrązowej i pylista. Komorowate podglebie tej samej barwy wypełnia zwężoną dolną część i stopniowo przechodzi w glebę; kolumelli brak.",
+      "stipe": "Prawdziwego trzonu brak. Dolna część zwęża się w trzonowatą, płonną podstawę o wysokości do około 3,5 cm, często dołeczkowatą lub pomarszczoną i zwężoną ku dołowi. Jej grzybnia jest spleciona z otaczającymi mchami.",
+      "flesh": "Wnętrze jest białe i zwarte tylko w młodych owocnikach, a wkrótce staje się oliwkowe i pyliste. W wykorzystanych źródłach nie podano wyraźnego zapachu ani smaku.",
+      "sporePrint": "Masa zarodników jest oliwkowobrązowa. Zarodniki są kuliste, o średnicy 4–5 µm, drobno punktowane do słabo brodawkowatych, a każdy ma długi bezbarwny trzonek o długości 6,5–15 µm. Strzępki włośni są oliwkowobrązowe i rozwidlone.",
+      "habitat": "Saprotrof wśród mchów, np. z rodzajów Sphagnum, Drepanocladus i Calliergonella, oraz na resztkach turzyc, najczęściej na zasadowych do obojętnych torfowiskach niskich i wilgotnych łąkach, także na źródliskach, wilgotnych wrzosowiskach i rzadko na torfowiskach wysokich. Występuje od niżu po góry, w Alpach do 2250 m, i jest znany z Europy i Azji; dawne doniesienia z Ameryki Północnej nie są potwierdzone. Owocniki wytwarza od czerwca do października, głównie późnym latem i jesienią.",
+      "uses": "Nie ma zastosowania kulinarnego. Jest rzadki, na światowej czerwonej liście ma status gatunku narażonego, figuruje na krajowych czerwonych listach wielu państw europejskich i jest prawnie chroniony w Finlandii i w Polsce, dlatego nie należy go zbierać.",
+      "confusion": "Charakterystyczne jest jego omszałe, podmokłe siedlisko. Lycoperdon caudatum i Lycoperdon muscorum mogą rosnąć w tych samych miejscach, ale mają drobno brodawkowatą do kolczastej okrywę zewnętrzną. Bovista plumbea i Bovista nigrescens rosną na suchych murawach i nie mają zwężonej podstawy zakotwiczonej w mchu.",
+      "notes": "Joseph-Henri Léveillé opisał go w 1846 roku na podstawie okazów rosnących na ziemi z torfowcem (Sphagnum) we Francji. Później De Toni przeniósł go w 1888 roku do rodzaju Calvatia, a Patouillard w 1902 roku do rodzaju Bovistella, obecnie jednak znów zalicza się go do rodzaju Bovista. Epitet paludosa oznacza „bagienny”. W 2019 roku uznano go w skali świata za gatunek narażony, ponieważ osuszanie, wydobycie torfu i zanieczyszczenie biogenami niszczą jego torfowiska.",
+      "names": [],
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/Kurzawka_bagienna",
+        "https://api.gbif.org/v1/species/2535215/vernacularNames"
+      ],
+      "label": "kurzawka bagienna"
+    },
+    "pt": {
+      "description": "Um pequeno e raro fungo globoso do género Bovista que cresce entre musgos em turfeiras baixas, pântanos e prados húmidos. Os seus corpos frutíferos brancos a creme são globosos a piriformes, geralmente com 1–5 cm de largura, e assentam numa base estreitada ancorada no musgo. É conhecido da Europa e da Ásia e está em declínio à medida que as zonas húmidas são drenadas.",
+      "cap": "Não há chapéu: todo o corpo frutífero é uma bola globosa, piriforme ou curtamente pedicelada, com 1–5 cm de largura e 1–6 cm de altura. O exoperídio é branco puro e liso, por vezes um pouco areolado com a idade, e depois seca em finas escamas esbranquiçadas. O endoperídio por baixo é muito fino e apergaminhado, primeiro castanho-amarelado e depois castanho-avermelhado a castanho-escuro quase negro, por vezes com brilho acobreado, e abre-se no ápice por uma pequena fenda ou um orifício irregular.",
+      "hymenium": "Não há lâminas. Os esporos formam-se no interior, na gleba, que é branca e firme quando jovem e depois oliva a castanho-oliváceo e pulverulenta. Uma subgleba celular da mesma cor preenche a parte inferior estreitada e passa gradualmente à gleba; não há columela.",
+      "stipe": "Não há pé verdadeiro. A parte inferior estreita-se numa base estéril em forma de pé com até cerca de 3,5 cm de altura, muitas vezes alveolada ou pregueada e atenuada para baixo. O seu micélio está entrelaçado com os musgos em redor.",
+      "flesh": "O interior só é branco e firme nos corpos frutíferos jovens e depressa se torna oliváceo e pulverulento. As fontes consultadas não referem cheiro nem sabor marcantes.",
+      "sporePrint": "A massa de esporos é castanho-olivácea. Os esporos são globosos, com 4–5 µm, finamente pontuados a ligeiramente verrugosos, e cada um tem um longo pedicelo incolor com 6,5–15 µm. As hifas do capilício são castanho-oliváceas e bifurcadas.",
+      "habitat": "Sapróbio entre musgos como Sphagnum, Drepanocladus e Calliergonella e sobre restos de carriços, sobretudo em turfeiras baixas alcalinas a neutras e prados húmidos, também em nascentes turfosas, charnecas húmidas e por vezes turfeiras altas. Ocorre das terras baixas às montanhas, nos Alpes até 2250 m, e é conhecido da Europa e da Ásia; registos antigos da América do Norte não estão confirmados. Frutifica de junho a outubro, sobretudo no fim do verão e no outono.",
+      "uses": "Não tem uso culinário. É raro, está avaliado como vulnerável na lista vermelha mundial, consta das listas vermelhas nacionais de muitos países europeus e está protegido por lei na Finlândia e na Polónia, pelo que não deve ser colhido.",
+      "confusion": "O seu habitat húmido e musgoso é característico. Lycoperdon caudatum e Lycoperdon muscorum podem crescer nos mesmos locais, mas têm o exoperídio finamente verrugoso a espinhoso. Bovista plumbea e Bovista nigrescens crescem em prados secos e não têm a base estreitada ancorada no musgo.",
+      "notes": "Joseph-Henri Léveillé descreveu-o em 1846 a partir de exemplares que cresciam no solo com esfagnos (Sphagnum) em França. Mais tarde De Toni transferiu-o para Calvatia em 1888 e Patouillard para Bovistella em 1902, mas hoje está de novo colocado em Bovista. O epíteto paludosa significa «dos pântanos». Em 2019 foi avaliado como vulnerável a nível mundial porque a drenagem, a extração de turfa e a poluição por nutrientes destroem as suas turfeiras.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "O ciupercă mică și rară din genul Bovista, care crește printre mușchi în mlaștini eutrofe, turbării și pajiști umede. Corpurile ei fructifere albe până la crem sunt globuloase până la piriforme, de obicei late de 1–5 cm, și stau pe o bază îngustată, ancorată în mușchi. Este cunoscută din Europa și Asia și se împuținează pe măsură ce zonele umede sunt drenate.",
+      "cap": "Nu există pălărie: întregul corp fructifer este o sferă globuloasă, piriformă sau scurt pediculată, lată de 1–5 cm și înaltă de 1–6 cm. Exoperidia este alb pur și netedă, uneori ușor areolată odată cu vârsta, apoi se usucă în fâșii subțiri albicioase. Endoperidia de dedesubt este foarte subțire și pergamentoasă, întâi brun-gălbuie, apoi brun-roșcată până la brun-negricioasă, uneori cu luciu arămiu, și se deschide la vârf printr-o mică fantă sau un orificiu neregulat.",
+      "hymenium": "Nu există lamele. Sporii se formează în interior, în glebă, care este albă și fermă la tinerețe, apoi oliv până la brun-oliv și pulverulentă. O subglebă celulară de aceeași culoare umple partea inferioară îngustată și trece treptat în glebă; columela lipsește.",
+      "stipe": "Nu există picior adevărat. Partea inferioară se îngustează într-o bază sterilă asemănătoare unui picior, înaltă de până la circa 3,5 cm, adesea alveolată sau plisată și subțiată în jos. Miceliul ei este împâslit cu mușchii din jur.",
+      "flesh": "Interiorul este alb și ferm doar la corpurile fructifere tinere și devine curând oliv și pulverulent. Sursele consultate nu menționează miros sau gust distinctiv.",
+      "sporePrint": "Masa sporilor este brun-oliv. Sporii sunt globuloși, de 4–5 µm, fin punctați până la slab verucoși, și fiecare are un pedicel lung, incolor, de 6,5–15 µm. Hifele capilitiului sunt brun-oliv și bifurcate.",
+      "habitat": "Saprotrofă printre mușchi precum Sphagnum, Drepanocladus și Calliergonella și pe resturi de rogoz, mai ales în mlaștini eutrofe alcaline până la neutre și pajiști umede, de asemenea în izvoare turboase, landuri umede și uneori în turbării oligotrofe. Apare de la câmpie până la munte, în Alpi până la 2250 m, și este cunoscută din Europa și Asia; vechile semnalări din America de Nord nu sunt confirmate. Fructifică din iunie până în octombrie, mai ales la sfârșitul verii și toamna.",
+      "uses": "Nu are utilizare culinară. Este rară, evaluată ca vulnerabilă pe lista roșie mondială, figurează pe listele roșii naționale ale multor țări europene și este protejată prin lege în Finlanda și Polonia, de aceea nu trebuie culeasă.",
+      "confusion": "Habitatul ei umed și bogat în mușchi este caracteristic. Lycoperdon caudatum și Lycoperdon muscorum pot crește în aceleași locuri, dar au exoperidia fin verucoasă până la spinoasă. Bovista plumbea și Bovista nigrescens cresc în pajiști uscate și nu au baza îngustată ancorată în mușchi.",
+      "notes": "Joseph-Henri Léveillé a descris-o în 1846 după exemplare care creșteau pe sol cu mușchi de turbă (Sphagnum) în Franța. Ulterior De Toni a mutat-o în Calvatia în 1888, iar Patouillard în Bovistella în 1902, dar astăzi este din nou încadrată în Bovista. Epitetul paludosa înseamnă „de mlaștină”. În 2019 a fost evaluată ca vulnerabilă la nivel mondial, deoarece drenarea, extragerea turbei și poluarea cu nutrienți îi distrug mlaștinile.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Небольшой редкий гастеромицет из рода Bovista, растущий среди мхов на низинных болотах, топях и сырых лугах. Его белые или кремовые плодовые тела шаровидные или грушевидные, обычно 1–5 cm в ширину, и сидят на суженном основании, закреплённом во мху. Вид известен из Европы и Азии и сокращается по мере осушения болот.",
+      "cap": "Шляпки нет: всё плодовое тело представляет собой шаровидный, грушевидный или коротконогий шар шириной 1–5 cm и высотой 1–6 cm. Наружная оболочка чисто-белая и гладкая, с возрастом иногда слегка растрескивается на участки, затем засыхает в тонкие беловатые лоскутки. Внутренняя оболочка под ней очень тонкая и пергаментная, сначала жёлто-бурая, позднее красно-бурая до чёрно-бурой, иногда с медным отливом, и открывается на вершине небольшой щелью или неправильным отверстием.",
+      "hymenium": "Пластинок нет. Споры образуются внутри, в глебе, которая в молодости белая и плотная, затем оливковая до оливково-бурой и порошистая. Ячеистое стерильное основание того же цвета заполняет суженную нижнюю часть и постепенно переходит в глебу; колумеллы нет.",
+      "stipe": "Настоящей ножки нет. Нижняя часть сужается в ножковидное стерильное основание высотой примерно до 3,5 cm, часто ямчатое или складчатое и сужающееся книзу. Его мицелий переплетён с окружающими мхами.",
+      "flesh": "Внутренняя часть белая и плотная только у молодых плодовых тел и вскоре становится оливковой и порошистой. В использованных источниках выраженный запах или вкус не указаны.",
+      "sporePrint": "Споровая масса оливково-бурая. Споры шаровидные, 4–5 µm, мелкоточечные до слабо бородавчатых, и у каждой есть длинная бесцветная ножка длиной 6,5–15 µm. Нити капиллиция оливково-бурые и вильчато ветвящиеся.",
+      "habitat": "Сапротроф среди мхов, например Sphagnum, Drepanocladus и Calliergonella, и на остатках осок, чаще всего на щелочных или нейтральных низинных болотах и сырых лугах, также на ключевых болотах, сырых пустошах и иногда на верховых болотах. Встречается от низменностей до гор, в Альпах до 2250 м, известен из Европы и Азии; старые указания из Северной Америки не подтверждены. Плодоносит с июня по октябрь, в основном в конце лета и осенью.",
+      "uses": "В пищу не используется. Вид редкий, в глобальном Красном списке оценён как уязвимый, внесён в национальные красные списки многих европейских стран и охраняется законом в Финляндии и Польше, поэтому собирать его не следует.",
+      "confusion": "Характерно его моховое, сырое местообитание. Lycoperdon caudatum и Lycoperdon muscorum могут расти в тех же местах, но имеют мелкобородавчатую или шиповатую наружную оболочку. Bovista plumbea и Bovista nigrescens растут на сухих лугах и не имеют суженного основания, закреплённого во мху.",
+      "notes": "Жозеф-Анри Левейе описал вид в 1846 году по экземплярам, росшим во Франции на почве среди сфагнума (Sphagnum). Позднее Де Тони в 1888 году перенёс его в Calvatia, а Патуйяр в 1902 году — в Bovistella, но сейчас вид снова относят к Bovista. Эпитет paludosa означает «болотная». В 2019 году вид был признан уязвимым в мировом масштабе, потому что осушение, добыча торфа и загрязнение биогенными веществами уничтожают его болота.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2535215/vernacularNames"
+      ],
+      "label": "порховка болотная"
+    },
+    "sk": {
+      "description": "Malá a vzácna huba z rodu Bovista, ktorá rastie medzi machmi na slatinách, rašeliniskách a vlhkých lúkach. Jej biele až krémové plodnice sú guľovité až hruškovité, zvyčajne 1–5 cm široké, a sedia na zúženej báze ukotvenej v machu. Je známa z Európy a Ázie a ubúda s odvodňovaním mokradí.",
+      "cap": "Klobúk chýba: celá plodnica je guľovitá, hruškovitá alebo krátko stopkatá guľa, 1–5 cm široká a 1–6 cm vysoká. Vonkajšia vrstva obalu je čisto biela a hladká, vekom niekedy jemne políčkovito rozpraskaná, potom zasychá na tenké belavé šupinky. Vnútorná vrstva pod ňou je veľmi tenká a pergamenovitá, najprv žltohnedá, neskôr červenohnedá až čiernohnedá, niekedy s medeným leskom, a na vrchole sa otvára malou štrbinou alebo nepravidelným otvorom.",
+      "hymenium": "Lupene chýbajú. Výtrusy vznikajú vo vnútri, v glébe, ktorá je za mlada biela a pevná, potom olivová až olivovohnedá a prášková. Komôrkovitá sterilná báza rovnakej farby vypĺňa zúženú spodnú časť a plynulo prechádza do gléby; stredový stĺpik chýba.",
+      "stipe": "Pravý hlúbik chýba. Spodná časť sa zužuje do hlúbikovitej sterilnej bázy vysokej asi do 3,5 cm, často jamkovitej alebo zriasenej a nadol zúženej. Jej podhubie je spletené s okolitými machmi.",
+      "flesh": "Vnútro je biele a pevné len v mladých plodniciach a čoskoro olivovie a mení sa na prach. Výrazná vôňa ani chuť sa v použitých prameňoch neuvádza.",
+      "sporePrint": "Výtrusný prach je olivovohnedý. Výtrusy sú guľovité, 4–5 µm v priemere, jemne bodkovité až slabo bradavičnaté a každý má dlhú bezfarebnú stopku dlhú 6,5–15 µm. Vlákna kapilícia sú olivovohnedé a vidlicovito rozvetvené.",
+      "habitat": "Saprotrof medzi machmi, napríklad rodov Sphagnum, Drepanocladus a Calliergonella, a na zvyškoch ostríc, najčastejšie na zásaditých až neutrálnych slatinách a vlhkých lúkach, aj na prameniskách, vlhkých vresoviskách a ojedinele na vrchoviskách. Vyskytuje sa od nížin po hory, v Alpách až do 2250 m, a je známa z Európy a Ázie; staré údaje zo Severnej Ameriky nie sú potvrdené. Plodnice tvorí od júna do októbra, najmä koncom leta a na jeseň.",
+      "uses": "Na kuchynské účely sa nepoužíva. Je vzácna, v celosvetovom červenom zozname je hodnotená ako zraniteľná, figuruje v národných červených zoznamoch mnohých európskych krajín a vo Fínsku a v Poľsku je chránená zákonom, preto by sa nemala zbierať.",
+      "confusion": "Typické je jej machnaté mokraďové stanovište. Lycoperdon caudatum a Lycoperdon muscorum môžu rásť na rovnakých miestach, ale ich vonkajší obal je jemne bradavičnatý až ostnitý. Bovista plumbea a Bovista nigrescens rastú na suchých trávnatých plochách a nemajú zúženú bázu ukotvenú v machu.",
+      "notes": "Joseph-Henri Léveillé ju opísal v roku 1846 podľa exemplárov rastúcich na pôde s rašelinníkom (Sphagnum) vo Francúzsku. Neskôr ju De Toni v roku 1888 preradil do rodu Calvatia a Patouillard v roku 1902 do rodu Bovistella, dnes je však opäť zaradená do rodu Bovista. Druhové meno paludosa znamená „bažinná“. V roku 2019 bola celosvetovo vyhodnotená ako zraniteľná, pretože odvodňovanie, ťažba rašeliny a znečistenie živinami ničia jej slatiny.",
+      "names": [],
+      "sourceUrls": [
+        "https://redlist.info/iucn/species_view/209589/",
+        "https://api.gbif.org/v1/species/2535215/vernacularNames"
+      ],
+      "label": "fúkavec močiarny"
+    },
+    "sl": {
+      "description": "Majhna, redka gliva iz rodu Bovista, ki raste med mahovi na nizkih barjih, močvirjih in vlažnih travnikih. Njeni beli do kremasti trosnjaki so kroglasti do hruškasti, navadno široki 1–5 cm, in sedijo na zoženi osnovi, zasidrani v mahu. Znana je iz Evrope in Azije ter izginja z izsuševanjem mokrišč.",
+      "cap": "Klobuka ni: celoten trosnjak je kroglasta, hruškasta ali kratkobetna krogla, široka 1–5 cm in visoka 1–6 cm. Zunanja ovojnica je čisto bela in gladka, s starostjo včasih rahlo poljasto razpokana, nato se posuši v tanke belkaste krpice. Notranja ovojnica pod njo je zelo tanka in pergamentasta, sprva rumenkasto rjava, pozneje rdečkasto rjava do črnikasto rjava, včasih z bakrenim leskom, in se na vrhu odpre z majhno režo ali nepravilno odprtino.",
+      "hymenium": "Lističev ni. Trosi nastajajo v notranjosti, v glebi, ki je v mladosti bela in čvrsta, nato olivna do olivno rjava in prašnata. Prekatasta sterilna osnova enake barve zapolnjuje zoženi spodnji del in postopno prehaja v glebo; kolumele ni.",
+      "stipe": "Pravega beta ni. Spodnji del se zoži v betu podobno sterilno osnovo, visoko do približno 3,5 cm, pogosto jamičasto ali nagubano in navzdol zoženo. Njen micelij je prepleten z okoliškimi mahovi.",
+      "flesh": "Notranjost je bela in čvrsta le pri mladih trosnjakih in kmalu postane olivna in prašnata. Uporabljeni viri ne navajajo izrazitega vonja ali okusa.",
+      "sporePrint": "Trosni prah je olivno rjav. Trosi so kroglasti, 4–5 µm, drobno pikčasti do rahlo bradavičasti, in vsak ima dolg brezbarven pecelj, dolg 6,5–15 µm. Niti kapilicija so olivno rjave in vilasto razvejane.",
+      "habitat": "Saprotrof med mahovi, kot so Sphagnum, Drepanocladus in Calliergonella, ter na ostankih šašev, največkrat na bazičnih do nevtralnih nizkih barjih in vlažnih travnikih, tudi na izvirnih barjih, vlažnih vresiščih in včasih na visokih barjih. Pojavlja se od nižin do gora, v Alpah do 2250 m, in je znana iz Evrope in Azije; stari podatki iz Severne Amerike niso potrjeni. Trosnjake razvija od junija do oktobra, predvsem pozno poleti in jeseni.",
+      "uses": "V kulinariki se ne uporablja. Je redka, na svetovnem rdečem seznamu ocenjena kot ranljiva, navedena na nacionalnih rdečih seznamih številnih evropskih držav ter z zakonom zavarovana na Finskem in Poljskem, zato je ne nabirajte.",
+      "confusion": "Značilno je njeno mahovnato, mokrotno rastišče. Lycoperdon caudatum in Lycoperdon muscorum lahko rasteta na istih mestih, vendar imata drobno bradavičasto do bodičasto zunanjo ovojnico. Bovista plumbea in Bovista nigrescens rasteta na suhih travnikih in nimata zožene osnove, zasidrane v mahu.",
+      "notes": "Joseph-Henri Léveillé jo je opisal leta 1846 po primerkih, ki so v Franciji rasli na tleh med šotnimi mahovi (Sphagnum). Pozneje jo je De Toni leta 1888 prestavil v Calvatia, Patouillard pa leta 1902 v Bovistella, danes pa je spet uvrščena v Bovista. Epitet paludosa pomeni »močvirska«. Leta 2019 je bila v svetovnem merilu ocenjena kot ranljiva, ker izsuševanje, izkopavanje šote in onesnaževanje s hranili uničujejo njena nizka barja.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sr": {
+      "description": "Мала и ретка гљива из рода Bovista која расте међу маховинама на ниским тресетиштима, мочварама и влажним ливадама. Њена бела до крем плодишта лоптаста су до крушколика, обично широка 1–5 cm, и седе на суженој основи усидреној у маховини. Позната је из Европе и Азије и нестаје како се мочварна станишта исушују.",
+      "cap": "Шешира нема: цело плодиште је лоптаста, крушколика или кратко дршкаста лопта, широка 1–5 cm и висока 1–6 cm. Спољни омотач је чисто бео и гладак, са старошћу понекад благо пољасто испуцао, а затим се суши у танке беличасте крпице. Унутрашњи омотач испод њега веома је танак и пергаментаст, најпре жутосмеђ, касније црвенкастосмеђ до црносмеђ, понекад бакренастог сјаја, и на врху се отвара малим прорезом или неправилним отвором.",
+      "hymenium": "Листића нема. Споре настају изнутра, у глеби, која је у младости бела и чврста, а затим маслинаста до маслинастосмеђа и прашкаста. Коморичаста стерилна основа исте боје испуњава сужени доњи део и постепено прелази у глебу; колумеле нема.",
+      "stipe": "Праве дршке нема. Доњи део се сужава у дршколику стерилну основу високу до око 3,5 cm, често јамичасту или наборану и према доле сужену. Њен мицелијум је испреплетан са околним маховинама.",
+      "flesh": "Унутрашњост је бела и чврста само код младих плодишта и убрзо постаје маслинаста и прашкаста. Коришћени извори не наводе изражен мирис ни укус.",
+      "sporePrint": "Маса спора је маслинастосмеђа. Споре су лоптасте, 4–5 µm, ситно тачкасте до слабо брадавичасте, и свака има дугу безбојну дршчицу дугу 6,5–15 µm. Нити капилицијума су маслинастосмеђе и виличасто разгранате.",
+      "habitat": "Сапротроф међу маховинама као што су Sphagnum, Drepanocladus и Calliergonella и на остацима шаша, најчешће на базичним до неутралним ниским тресетиштима и влажним ливадама, такође на изворишним тресетиштима, влажним вриштинама и понекад на високим тресетиштима. Расте од низија до планина, у Алпима до 2250 м, и позната је из Европе и Азије; стари подаци из Северне Америке нису потврђени. Плодишта развија од јуна до октобра, највише крајем лета и у јесен.",
+      "uses": "Нема кулинарску примену. Ретка је, на светској црвеној листи процењена као рањива, налази се на националним црвеним листама многих европских земаља и законом је заштићена у Финској и Пољској, па је не треба сакупљати.",
+      "confusion": "Карактеристично је њено маховинасто, влажно станиште. Lycoperdon caudatum и Lycoperdon muscorum могу расти на истим местима, али имају ситно брадавичаст до бодљикав спољни омотач. Bovista plumbea и Bovista nigrescens расту на сувим травњацима и немају сужену основу усидрену у маховини.",
+      "notes": "Жозеф-Анри Левеје описао ју је 1846. према примерцима који су у Француској расли на тлу међу тресетницама (Sphagnum). Касније ју је Де Тони 1888. преместио у Calvatia, а Патујар 1902. у Bovistella, али је данас поново сврстана у Bovista. Епитет paludosa значи „мочварна”. Године 2019. процењена је као рањива на светском нивоу јер исушивање, вађење тресета и загађење хранљивим материјама уништавају њена тресетишта.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En liten, sällsynt buksvamp i släktet Bovista som växer bland mossor i rikkärr, myrar och fuktängar. De vita till krämfärgade fruktkropparna är klotrunda till päronformade, vanligen 1–5 cm breda, och sitter på en avsmalnande bas som är förankrad i mossan. Arten är känd från Europa och Asien och minskar när våtmarker dikas ut.",
+      "cap": "Det finns ingen hatt: hela fruktkroppen är en klotrund, päronformad eller kort skaftad boll, 1–5 cm bred och 1–6 cm hög. Det yttre höljet är rent vitt och slätt, med åldern ibland något rutigt sprucket, och torkar sedan in till tunna vitaktiga flagor. Det inre höljet därunder är mycket tunt och pergamentartat, först gulbrunt, senare rödbrunt till svartbrunt, ibland med kopparaktig glans, och öppnar sig i toppen med en liten springa eller ett oregelbundet hål.",
+      "hymenium": "Det finns inga skivor. Sporerna bildas inuti, i gleban, som är vit och fast hos unga exemplar och sedan oliv till olivbrun och pulvrig. En kammarindelad steril bas i samma färg fyller den avsmalnande nedre delen och övergår gradvis i gleban; en columella saknas.",
+      "stipe": "Det finns ingen äkta fot. Den nedre delen smalnar av till en fotliknande steril bas upp till omkring 3,5 cm hög, ofta gropig eller veckad och avsmalnande nedåt. Myceliet är sammanflätat med de omgivande mossorna.",
+      "flesh": "Insidan är vit och fast bara hos unga fruktkroppar och blir snart olivfärgad och pulvrig. De använda källorna anger ingen tydlig lukt eller smak.",
+      "sporePrint": "Spormassan är olivbrun. Sporerna är klotrunda, 4–5 µm, fint punkterade till svagt vårtiga, och var och en har ett långt färglöst skaft på 6,5–15 µm. Capillitiets trådar är olivbruna och gaffelgrenade.",
+      "habitat": "Saprotrof bland mossor som Sphagnum, Drepanocladus och Calliergonella och på starrester, mest i basrika till neutrala rikkärr och fuktängar, även i källkärr, fuktiga hedar och ibland i högmossar. Den förekommer från låglandet till fjällen, i Alperna upp till 2250 m, och är känd från Europa och Asien; gamla uppgifter från Nordamerika är obekräftade. Den bildar fruktkroppar från juni till oktober, främst på sensommaren och hösten.",
+      "uses": "Den används inte i matlagning. Den är sällsynt, bedöms som sårbar på den globala rödlistan, finns på de nationella rödlistorna i många europeiska länder och är lagskyddad i Finland och Polen, så den bör inte samlas in.",
+      "confusion": "Den mossrika, blöta växtplatsen är karakteristisk. Lycoperdon caudatum och Lycoperdon muscorum kan växa på samma ställen men har ett fint vårtigt till taggigt yttre hölje. Bovista plumbea och Bovista nigrescens växer på torra gräsmarker och saknar den avsmalnande basen förankrad i mossa.",
+      "notes": "Joseph-Henri Léveillé beskrev den 1846 efter exemplar som växte på jord med vitmossa (Sphagnum) i Frankrike. Senare flyttade De Toni den till Calvatia 1888 och Patouillard till Bovistella 1902, men i dag placeras den åter i Bovista. Artepitetet paludosa betyder ”från kärr”. År 2019 bedömdes den som sårbar globalt eftersom dikning, torvbrytning och näringsläckage förstör dess kärr.",
+      "names": [
+        "sumpröksvamp"
+      ],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2535215/vernacularNames",
+        "https://sv.wikipedia.org/wiki/Sump%C3%A4ggsvamp"
+      ],
+      "label": "sumpäggsvamp"
+    },
+    "tr": {
+      "description": "Bovista cinsine ait, sazlıklarda, bataklıklarda ve nemli çayırlarda yosunlar arasında yetişen küçük ve nadir bir puf mantarı. Beyazdan kreme değişen meyve gövdeleri küresel ile armut biçimli arasında, genellikle 1–5 cm genişliğindedir ve yosuna tutunmuş daralan bir taban üzerinde durur. Avrupa ve Asya'dan bilinir ve sulak alanlar kurutuldukça azalmaktadır.",
+      "cap": "Şapka yoktur: meyve gövdesinin tamamı küresel, armut biçimli ya da kısa saplı bir top olup 1–5 cm genişliğinde ve 1–6 cm yüksekliğindedir. Dış zar saf beyaz ve pürüzsüzdür, yaşlandıkça bazen hafifçe alanlara ayrılarak çatlar, sonra ince beyazımsı pullar hâlinde kurur. Altındaki iç zar çok ince ve parşömen gibidir; önce sarımsı kahverengi, sonra kırmızımsı kahverengiden siyahımsı kahverengiye döner, bazen bakırımsı bir parlaklık taşır ve tepede küçük bir yarık ya da düzensiz bir delikle açılır.",
+      "hymenium": "Lamel yoktur. Sporlar içeride, genç örneklerde beyaz ve sıkı olan, sonra zeytin renginden zeytin kahverengisine dönen ve toz hâline gelen glebada oluşur. Aynı renkte odacıklı steril bir taban daralan alt kısmı doldurur ve yavaş yavaş glebaya geçer; kolumella yoktur.",
+      "stipe": "Gerçek bir sap yoktur. Alt kısım, en fazla yaklaşık 3,5 cm yüksekliğinde, çoğu zaman çukurlu ya da kıvrımlı ve aşağıya doğru incelen sap benzeri steril bir tabana daralır. Miselyumu çevredeki yosunlarla iç içe geçmiştir.",
+      "flesh": "İç kısım yalnızca genç meyve gövdelerinde beyaz ve sıkıdır, kısa sürede zeytin rengine döner ve toz hâline gelir. Başvurulan kaynaklarda belirgin bir koku ya da tat bildirilmemiştir.",
+      "sporePrint": "Spor kütlesi zeytin kahverengisidir. Sporlar küresel, 4–5 µm, ince noktalı ile hafif siğilli arasındadır ve her birinin 6,5–15 µm uzunluğunda uzun, renksiz bir sapçığı vardır. Kapillisyum iplikleri zeytin kahverengisi ve çatallıdır.",
+      "habitat": "Sphagnum, Drepanocladus ve Calliergonella gibi yosunlar arasında ve saz kalıntıları üzerinde yaşayan saprotrof bir türdür; çoğunlukla bazikten nötre değişen sazlıklarda ve nemli çayırlarda, ayrıca kaynak bataklıklarında, nemli fundalıklarda ve bazen yüksek turbalıklarda bulunur. Ovalardan dağlara kadar, Alplerde 2250 m'ye dek görülür ve Avrupa ile Asya'dan bilinir; Kuzey Amerika'dan eski kayıtlar doğrulanmamıştır. Hazirandan ekime kadar, özellikle yaz sonunda ve sonbaharda meyve verir.",
+      "uses": "Mutfakta kullanılmaz. Nadirdir, küresel Kırmızı Liste'de hassas olarak değerlendirilmiştir, birçok Avrupa ülkesinin ulusal Kırmızı Listelerinde yer alır ve Finlandiya ile Polonya'da yasayla korunur; bu nedenle toplanmamalıdır.",
+      "confusion": "Yosunlu, nemli yaşam alanı ayırt edicidir. Lycoperdon caudatum ve Lycoperdon muscorum aynı yerlerde yetişebilir, ancak dış zarları ince siğilliden dikenliye kadar değişir. Bovista plumbea ve Bovista nigrescens kuru çayırlarda yetişir ve yosuna tutunmuş daralan bir tabanları yoktur.",
+      "notes": "Joseph-Henri Léveillé türü 1846'da Fransa'da turba yosunu (Sphagnum) arasında toprakta yetişen örneklerden tanımladı. Daha sonra De Toni onu 1888'de Calvatia cinsine, Patouillard ise 1902'de Bovistella cinsine aktardı, ancak bugün yeniden Bovista içinde yer alır. Tür adı paludosa \"bataklıklara ait\" anlamına gelir. 2019'da küresel ölçekte hassas olarak değerlendirildi, çünkü drenaj, turba çıkarımı ve besin kirliliği sazlıklarını yok etmektedir.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Невеликий рідкісний гастероміцет із роду Bovista, що росте серед мохів на низинних болотах, трясовинах і вологих луках. Його білі або кремові плодові тіла кулясті або грушоподібні, зазвичай 1–5 cm завширшки, і сидять на звуженій основі, закріпленій у моху. Вид відомий з Європи та Азії і скорочується в міру осушення боліт.",
+      "cap": "Шапинки немає: усе плодове тіло є кулястою, грушоподібною або коротконіжковою кулею завширшки 1–5 cm і заввишки 1–6 cm. Зовнішня оболонка чисто-біла й гладенька, з віком іноді злегка розтріскується на ділянки, а потім засихає тонкими білуватими клаптиками. Внутрішня оболонка під нею дуже тонка й пергаментна, спершу жовто-бура, пізніше червоно-бура до чорно-бурої, іноді з мідним відблиском, і відкривається на верхівці невеликою щілиною або неправильним отвором.",
+      "hymenium": "Пластинок немає. Спори утворюються всередині, у глебі, яка змолоду біла й щільна, потім оливкова до оливково-бурої й порошиста. Комірчаста стерильна основа того самого кольору заповнює звужену нижню частину й поступово переходить у глебу; колумели немає.",
+      "stipe": "Справжньої ніжки немає. Нижня частина звужується в ніжкоподібну стерильну основу заввишки приблизно до 3,5 cm, часто ямчасту або складчасту й звужену донизу. Її міцелій переплетений з навколишніми мохами.",
+      "flesh": "Внутрішня частина біла й щільна лише в молодих плодових тілах і незабаром стає оливковою й порошистою. У використаних джерелах виразний запах чи смак не зазначено.",
+      "sporePrint": "Спорова маса оливково-бура. Спори кулясті, 4–5 µm, дрібнокрапчасті до слабко бородавчастих, і кожна має довгу безбарвну ніжку завдовжки 6,5–15 µm. Нитки капіліцію оливково-бурі й вилчасто розгалужені.",
+      "habitat": "Сапротроф серед мохів, наприклад Sphagnum, Drepanocladus і Calliergonella, та на рештках осок, найчастіше на лужних або нейтральних низинних болотах і вологих луках, також на джерельних болотах, вологих пустищах і зрідка на верхових болотах. Трапляється від низовин до гір, в Альпах до 2250 м, відомий з Європи та Азії; старі повідомлення з Північної Америки не підтверджені. Плодоносить з червня по жовтень, переважно наприкінці літа й восени.",
+      "uses": "У їжу не використовується. Вид рідкісний, у глобальному Червоному списку оцінений як уразливий, внесений до національних червоних списків багатьох європейських країн і охороняється законом у Фінляндії та Польщі, тому збирати його не слід.",
+      "confusion": "Характерне його мохове, вологе місцезростання. Lycoperdon caudatum і Lycoperdon muscorum можуть рости в тих самих місцях, але мають дрібнобородавчасту або шипувату зовнішню оболонку. Bovista plumbea і Bovista nigrescens ростуть на сухих луках і не мають звуженої основи, закріпленої в моху.",
+      "notes": "Жозеф-Анрі Левеє описав вид у 1846 році за зразками, що росли у Франції на ґрунті серед сфагнуму (Sphagnum). Пізніше Де Тоні в 1888 році переніс його до Calvatia, а Патуяр у 1902 році — до Bovistella, але нині вид знову відносять до Bovista. Епітет paludosa означає «болотяна». У 2019 році вид визнано вразливим у світовому масштабі, бо осушення, видобування торфу й забруднення поживними речовинами знищують його болота.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/2535215/vernacularNames",
+        "https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%85%D0%B0%D0%B2%D0%BA%D0%B0_%D0%B1%D0%BE%D0%BB%D0%BE%D1%82%D1%8F%D0%BD%D0%B0"
+      ],
+      "label": "порхавка болотяна"
+    },
+    "zh": {
+      "description": "一種小型而稀有的Bovista屬腹菌，生長在鹼性低位沼澤、濕地和潮濕草甸的苔蘚之間。其白色至奶油色的子實體呈球形至梨形，通常寬1–5 cm，坐落在固定於苔蘚中的收窄基部上。已知分布於歐洲和亞洲，並隨著濕地被排乾而減少。",
+      "cap": "沒有菌蓋：整個子實體是一個球形、梨形或具短柄的球，寬1–5 cm、高1–6 cm。外包被純白而光滑，老時有時略呈龜裂狀，之後乾縮成薄的白色碎片。其下的內包被極薄，呈羊皮紙狀，起初黃褐色，後變紅褐色至黑褐色，有時帶銅色光澤，並在頂部以小裂縫或不規則孔口開裂。",
+      "hymenium": "沒有菌褶。孢子在內部的產孢組織中形成，產孢組織幼時白色而緊實，後變為橄欖色至橄欖褐色並呈粉狀。同色的小室狀不育基部填滿收窄的下部，並逐漸過渡到產孢組織；沒有中軸。",
+      "stipe": "沒有真正的菌柄。下部收窄成高約3.5 cm以內的柄狀不育基部，常有凹坑或皺褶，並向下漸細。其菌絲與周圍的苔蘚交織在一起。",
+      "flesh": "內部只有在幼嫩子實體中才是白色而緊實，很快就變成橄欖色並呈粉狀。所參考的資料未記載明顯的氣味或味道。",
+      "sporePrint": "孢子團橄欖褐色。孢子球形，直徑4–5 µm，具細點至略有小疣，且每個都帶有長6.5–15 µm的無色長柄。孢絲橄欖褐色，呈二叉分枝。",
+      "habitat": "腐生於Sphagnum、Drepanocladus和Calliergonella等苔蘚之間及薹草殘體上，主要見於鹼性至中性的低位沼澤和潮濕草甸，也見於泉水沼澤、潮濕石南荒原，偶見於高位泥炭沼澤。從低地到山地均有分布，在阿爾卑斯山可達海拔2250米，已知分布於歐洲和亞洲；北美洲的舊記錄尚未得到證實。六月至十月發生，主要在夏末和秋季。",
+      "uses": "沒有食用價值。本種稀有，在全球紅色名錄中被評為易危，列入許多歐洲國家的國家紅色名錄，並在芬蘭和波蘭受法律保護，因此不應採集。",
+      "confusion": "其長滿苔蘚的濕地生境很有特徵。Lycoperdon caudatum和Lycoperdon muscorum可生長在相同地點，但外包被有細疣至刺。Bovista plumbea和Bovista nigrescens生長在乾燥草地上，沒有固定於苔蘚中的收窄基部。",
+      "notes": "約瑟夫-亨利·萊韋耶於1846年根據在法國與泥炭蘚（Sphagnum）一同生長於地上的標本描述了本種。後來德托尼於1888年將其移入Calvatia，帕圖亞爾於1902年將其移入Bovistella，但現在又重新歸入Bovista。種加詞paludosa意為「沼澤的」。2019年，由於排水、泥炭開採和營養鹽污染正在破壞其沼澤生境，本種在全球範圍內被評為易危。",
+      "names": [],
+      "sourceUrls": []
+    }
+  },
+  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Bovista_paludosa/Bovista_paludosa@1600.webp",
+  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Bovista_paludosa/Bovista_paludosa@400.webp",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Bovista_paludosa/Bovista_paludosa@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Bovista_paludosa/Bovista_paludosa@400.webp",
+  "plateCredit": {
+    "author": "Gemini",
+    "credit": "Credit \"Gemini\" as requested (metadata only). The supplied image is a 19th-century-style colour illustration that appears AI-generated (cursive \"Gemini\" mark bottom right, Picasa-processed JPEG named .png, no matching historical plate found); it is not a documented botanical plate. The mark is not proof of authorship.",
+    "license": "Rights unverified (AI-generated image; no human author or licence documented)",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Bovista_paludosa/Bovista_paludosa@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Bovista_paludosa/bp1.webp",
+      "author": "June Erlandsen Høgås",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.gbif.org/occurrence/4864803351"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Bovista_paludosa/bp2.webp",
+      "author": "Michal Honskus",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/374283632"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Bovista_paludosa/bp3.webp",
+      "author": "Geir Gaarder",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.gbif.org/occurrence/3886459447"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Bovista_paludosa/bp4.webp",
+      "author": "Perry Gunnar Larsen",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.gbif.org/occurrence/5841758065"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Bovista_paludosa/bp5.webp",
+      "author": "Michal Honskus",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/374283632"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Agaricales/Lycoperdaceae/Bovista_paludosa/Bovista_paludosa@1600.webp",
+      "author": "Gemini (credit as requested; AI-generated illustration of unverified rights)",
+      "license": "Rights unverified (AI-generated image; no human author or licence documented)",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Lycoperdaceae/Bovista_paludosa/Bovista_paludosa@1600.webp",
+      "basedOn": [],
+      "existingMark": "\"Gemini\" cursive script mark bottom right; retained once exactly as found; no authorship/rights authentication"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Agaricales/Lycoperdaceae/Bovista_paludosa/bp1.webp",
+      "author": "June Erlandsen Høgås",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.gbif.org/occurrence/4864803351",
+      "photoUrl": "https://www.artsobservasjoner.no/MediaLibrary/2024/5/38315d0f-24cc-496b-9784-6d53e198edbd_image.jpg",
+      "attribution": "© June Erlandsen Høgås, CC BY 4.0, via Artsobservasjoner via GBIF occurrence 4864803351",
+      "adaptation": "True-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Agaricales/Lycoperdaceae/Bovista_paludosa/bp2.webp",
+      "author": "Michal Honskus",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/374283632",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/684101692/original.jpg",
+      "attribution": "© Michal Honskus, CC BY 4.0, via iNaturalist observation 374283632 / GBIF occurrence 6412949734",
+      "adaptation": "True-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Agaricales/Lycoperdaceae/Bovista_paludosa/bp3.webp",
+      "author": "Geir Gaarder",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.gbif.org/occurrence/3886459447",
+      "photoUrl": "https://www.artsobservasjoner.no/MediaLibrary/2022/11/9d63e7aa-2993-4231-ae85-bffaf9362cb4_image.jpg",
+      "attribution": "© Geir Gaarder, CC BY 4.0, via Artsobservasjoner via GBIF occurrence 3886459447",
+      "adaptation": "True-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Agaricales/Lycoperdaceae/Bovista_paludosa/bp4.webp",
+      "author": "Perry Gunnar Larsen",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.gbif.org/occurrence/5841758065",
+      "photoUrl": "https://www.artsobservasjoner.no/MediaLibrary/2025/10/51528646-6682-488f-91a0-016bd1a0245a_image.jpg",
+      "attribution": "© Perry Gunnar Larsen, CC BY 4.0, via Artsobservasjoner via GBIF occurrence 5841758065",
+      "adaptation": "True-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Agaricales/Lycoperdaceae/Bovista_paludosa/bp5.webp",
+      "author": "Michal Honskus",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/374283632",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/684101750/original.jpg",
+      "attribution": "© Michal Honskus, CC BY 4.0, via iNaturalist observation 374283632 / GBIF occurrence 6412949734",
+      "adaptation": "True-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    }
+  ],
+  "synonyms": [
+    "Calvatia paludosa",
+    "Bovistella paludosa"
+  ],
+  "fruitingFrom": 6,
+  "fruitingTo": 10,
+  "reserved": false,
+  "id": 154,
+  "added": "2026-11-10",
+  "citation": "Annls Sci. Nat., Bot., sér. 3 5: 163 (1846)",
+  "illustrationProvenance": {
+    "paperHolesRemoved": [],
+    "paperResidualP995": 2.3691274367699484,
+    "contrastThreshold": 6,
+    "tool": "Pillow + OpenCV deterministic alpha-only segmentation; no generation",
+    "sourceFile": "Bovista paludosa.png",
+    "sourceFormat": "JPEG",
+    "sourceFormatNote": "File named .png is actually JPEG/JFIF (Exif software Picasa); no source alpha; alpha produced by segmentation.",
+    "sourceDimensions": [
+      896,
+      1200
+    ],
+    "sourceSHA256": "e82fddfdd8adc1cc0a1d386d7e8df8030855a106efe050ab3c71471bf13121a8",
+    "backgroundSHA256": "d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c",
+    "alphaPNG": "artwork_rgba.png",
+    "mask": "artwork_alpha_mask.png",
+    "cropBBox": [
+      79,
+      375,
+      833,
+      1147
+    ],
+    "uniformScale": 1.856763925729443,
+    "placement": [
+      100,
+      483
+    ],
+    "composedArtworkDimensions": [
+      1400,
+      1433
+    ],
+    "allSourceRGBChangedPixels": 0,
+    "transparentPixels": 933334,
+    "opaquePixels": 131352,
+    "partialAlphaPixels": 10514,
+    "signatureBox": [
+      748,
+      1106,
+      828,
+      1152
+    ],
+    "signatureComponents": 3,
+    "signaturePixels": 342,
+    "preservedObjects": [
+      "left: young fruit body, white, globose with a narrowed pleated pseudostem and fine root-like mycelial strands",
+      "centre: larger pear-shaped fruit body, cream with brown and ochre flecks (outer skin breaking into patches), narrowed base with mycelial strands",
+      "right: mature fruit body with dark grey-brown, wrinkled papery inner skin and an irregular apical opening, mycelial strands below",
+      "existing hand-script \"Gemini\" mark at bottom right"
+    ],
+    "signatureTreatment": "Existing \"Gemini\" script mark retained once exactly as found (alpha only); no mark added, painted or removed; the requested signature \"Gemini\" is used as the art credit in metadata only. The mark is not proof of authorship; no creator, rights or species identity inferred.",
+    "contours": [
+      {
+        "area": 30014.5,
+        "box": [
+          80,
+          440,
+          176,
+          322
+        ]
+      },
+      {
+        "area": 41209.0,
+        "box": [
+          600,
+          416,
+          232,
+          312
+        ]
+      },
+      {
+        "area": 62811.5,
+        "box": [
+          304,
+          376,
+          264,
+          407
+        ]
+      }
+    ],
+    "backgroundSourceDimensions": [
+      1067,
+      1600
+    ],
+    "backgroundCanvasDimensions": [
+      1600,
+      2400
+    ],
+    "generation": false,
+    "repainting": false,
+    "stretching": false,
+    "sourcePaperRemoved": true,
+    "visualReview": "Full-size checker and composition inspected: all three fruit bodies and their fine mycelial strands kept whole (a thin pale paper fringe remains along some strands); paper and vignette removed by robust paper-only fit; existing Gemini mark kept once, in its original relative position; one standard background frame only; no double frame, no added mark.",
+    "requestedCredit": "Gemini",
+    "creditUse": "metadata only (art credit field); not painted or added",
+    "visibleMarks": [
+      "one cursive hand-script \"Gemini\" at bottom right (~x756-819, y1114-1145 in the 896x1200 source)",
+      "no plate number, no imprint line, no other text"
+    ],
+    "provenanceAssessment": {
+      "verdict": "AI-GENERATED illustration in a 19th-century plate style (consistent with Google Gemini image generation); not a scan of a historical plate",
+      "evidence": [
+        "The supplied mark reads \"Gemini\", the name of an image-generating AI model, in a modern cursive font",
+        "File named .png is a 896x1200 JPEG with Exif software Picasa and no source/download metadata, the same pattern as earlier Gemini-supplied art in this catalogue",
+        "No plate number, artist, engraver or publisher imprint; no historical plate of Bovista paludosa with this layout was identified",
+        "Uniformly smooth re-toned paper with a synthetic vignette, and texture typical of generated imagery"
+      ],
+      "anatomyCaveat": "Generally consistent with published descriptions (small white to cream globose-pyriform fruit bodies with a narrowed pleated base, outer skin breaking up, dark brown papery inner skin opening at the top, attachment by mycelial strands in moss), but the conspicuous brown/ochre flecking of the middle figure and the root-like strands are stylised; not a verified scientific illustration",
+      "rights": "Unverified; AI-generated output, no human author identified"
+    },
+    "alphaPNGSHA256": "9aabab9bc251128d7c1f3b5eb442a70fe120e48cad568f7130a90df4e198baab",
+    "maskSHA256": "b30ff25163675b54b3c96e156cb9e8593430a97206ef5e6816a13393a095db66",
+    "recipeSHA256": "fc524dfddc0fd641773e6ef625845478f70902973c9fc9ae4a53c1b2ab8219c7",
+    "officialFiles": [
+      {
+        "path": "media/Bovista_paludosa@1600.webp",
+        "bytes": 129420,
+        "sha256": "f028f1c21347cd5deff59d09023a494285bc5f084e77fe2a03aadfacf6bb7b6b"
+      },
+      {
+        "path": "media/Bovista_paludosa@400.webp",
+        "bytes": 18010,
+        "sha256": "ee4250c425dcce4974c09c5251e4c9524457a78a29e22cf13dee68d5c8fed119"
       }
     ]
   }
