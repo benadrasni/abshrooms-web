@@ -979,5 +979,8 @@ export const TAXA = {
   },
   Bovista: {
     rank: "genus"
+  },
+  Phaeoclavulina: {
+    rank: "genus"
   }
 };

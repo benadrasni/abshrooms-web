@@ -155093,5 +155093,3025 @@ export const CATALOG = [
       }
     ]
   }
+},
+{
+  "name": "Phaeoclavulina roellinii",
+  "author": "(Schild) Giachini",
+  "family": "Gomphaceae",
+  "genus": "Phaeoclavulina",
+  "order": "Gomphales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Phallomycetidae",
+    "Gomphales",
+    "Gomphaceae",
+    "Phaeoclavulina"
+  ],
+  "summary": [
+    "Gomphales",
+    "Gomphaceae",
+    "Phaeoclavulina"
+  ],
+  "edibility": "inedible",
+  "hymenium": "smooth",
+  "where": [
+    "ground",
+    "grass"
+  ],
+  "color": [
+    "yellow",
+    "brown"
+  ],
+  "capFrom": 1.0,
+  "capTo": 2.5,
+  "stipeHeightFrom": null,
+  "stipeHeightTo": null,
+  "stipeThickFrom": 0.1,
+  "stipeThickTo": 0.4,
+  "label": {
+    "ar": "Phaeoclavulina roellinii",
+    "bg": "Phaeoclavulina roellinii",
+    "cs": "kuřátka Roelliniho",
+    "da": "steppe-koralsvamp",
+    "de": "Steppen-Koralle",
+    "en": "Phaeoclavulina roellinii",
+    "es": "Phaeoclavulina roellinii",
+    "et": "Phaeoclavulina roellinii",
+    "fa": "Phaeoclavulina roellinii",
+    "fi": "Phaeoclavulina roellinii",
+    "fr": "clavaire des graviers",
+    "he": "Phaeoclavulina roellinii",
+    "hi": "Phaeoclavulina roellinii",
+    "hr": "Phaeoclavulina roellinii",
+    "hu": "Phaeoclavulina roellinii",
+    "id": "Phaeoclavulina roellinii",
+    "it": "Phaeoclavulina roellinii",
+    "ja": "Phaeoclavulina roellinii",
+    "ko": "Phaeoclavulina roellinii",
+    "lt": "Phaeoclavulina roellinii",
+    "lv": "Phaeoclavulina roellinii",
+    "nl": "steppekoraalzwam",
+    "no": "Phaeoclavulina roellinii",
+    "pl": "Phaeoclavulina roellinii",
+    "pt": "Phaeoclavulina roellinii",
+    "ro": "Phaeoclavulina roellinii",
+    "ru": "Phaeoclavulina roellinii",
+    "sk": "Phaeoclavulina roellinii",
+    "sl": "Phaeoclavulina roellinii",
+    "sr": "Phaeoclavulina roellinii",
+    "sv": "stäppfingersvamp",
+    "tr": "Phaeoclavulina roellinii",
+    "uk": "Phaeoclavulina roellinii",
+    "zh": "Phaeoclavulina roellinii"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [
+      "Steppenkoralle"
+    ],
+    "en": [],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "ar": [],
+    "bg": [],
+    "cs": [
+      "https://api.gbif.org/v1/species/7921747/vernacularNames"
+    ],
+    "da": [
+      "https://svampe.databasen.org/taxon/67514"
+    ],
+    "de": [
+      "https://myk.univie.ac.at/wp-content/uploads/2023/12/Pilz_des_Jahres_2024_OEMG.pdf",
+      "https://naturschutzbund.at/pilz-leser/items/2024-steppen-koralle.html",
+      "https://de.wikipedia.org/wiki/Pilz_des_Jahres_(%C3%96sterreich)",
+      "https://api.gbif.org/v1/species/5238524/vernacularNames"
+    ],
+    "en": [
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=512966",
+      "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=512966",
+      "https://www.gbif.org/species/7921747",
+      "https://redlist.info/iucn/species_view/322276/",
+      "https://www.englishfungi.org/Species/Phaeoclavulina%20roellinii",
+      "https://myk.univie.ac.at/wp-content/uploads/2023/12/Pilz_des_Jahres_2024_OEMG.pdf"
+    ],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [
+      "https://api.gbif.org/v1/species/7921747/vernacularNames"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [
+      "https://nl.wikipedia.org/wiki/Steppekoraalzwam",
+      "https://www.verspreidingsatlas.nl/0389220",
+      "https://api.gbif.org/v1/species/7921747/vernacularNames"
+    ],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [
+      "https://sv.wikipedia.org/wiki/St%C3%A4ppfingersvamp",
+      "https://api.gbif.org/v1/species/7921747/vernacularNames",
+      "https://redlist.info/iucn/species_view/322276/"
+    ],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "text": {
+    "ar": {
+      "description": "فطر مرجاني صغير مكتنز كثيف التفرع يعيش في المروج المفتوحة الجافة الفقيرة بالمغذيات على التربة الكلسية أو الرملية، وفي السهوب الصخرية والكثبان الساحلية الرمادية، ولا يُعرف على وجه اليقين إلا من مواقع متفرقة في أوروبا، ولا سيما السويد وهولندا والدنمارك وألمانيا وسويسرا والنمسا والتشيك؛ أما التسجيلات من بلدان أوروبية أخرى وتسجيل وحيد من المكسيك فغير مؤكدة.",
+      "cap": "لا توجد قبعة منفصلة. الجسم الثمري مرجان منخفض مكتنز، ارتفاعه عادةً ٢–٣٫٥ cm وعرضه ١–٢٫٥ cm، ونادرًا ما يبلغ ارتفاعه نحو ٥ cm، ويتفرع مرارًا منذ الجزء السفلي أو الأوسط. الفروع متزاحمة منتصبة منحنية قليلًا ومتجعدة طوليًا، وزوايا تفرعها ضيقة على شكل U إلى V، وتنتهي بأطراف صغيرة مدببة كثيرة. يكون في صغره أصفر باهتًا إلى قشدي اللون، ثم أصفر مغريًا إلى بني مغري، وكثيرًا ما تكتسب الأجسام الثمرية الأكبر سنًا مسحة مخضرة أو زيتونية.",
+      "hymenium": "السطح الحامل للأبواغ أملس ويغطي الفروع. على الأجسام الثمرية الطازجة تحوّله قطرة من KOH سريعًا إلى البني الفاتح أو الكستنائي أو البني الأرجواني الداكن، بينما لا يتفاعل اللحم. البازيديات هراوية ضيقة، نحو ٣٨–٧٠ × ٥–٧(–٨) µm، رباعية الأبواغ عادةً، ولها مشبك عند القاعدة.",
+      "stipe": "لا توجد إلا قاعدة قصيرة بسيطة، سمكها عادةً ١–٤ mm فقط، وكثيرًا ما تكون غائرة عميقًا في التربة. طرفها السفلي أبيض، ويحمل جذامير بيضاء متفرعة واضحة مغطاة ببلورات نجمية الشكل.",
+      "flesh": "اللحم مائل إلى البياض، متماسك لكنه هش، ولا يتغير لونه عند القطع. الرائحة معدومة أو ترابية خفيفة، والطعم غير مميز. الجهاز الخيطي أحادي النمط؛ للخيوط مشابك، وهي منتفخة في بعض المواضع عند الحواجز.",
+      "sporePrint": "بصمة الأبواغ صفراء. الأبواغ دمعية ضيقة إلى أسطوانية إهليلجية، نحو ٥–٨(–٩) × ٣–٤٫٥ µm، ذات زائدة قمية واضحة وجدار أصفر مخضر مزين بدقة بثآليل إلى أشواك قصيرة ارتفاعها ٠٫٢–٠٫٥ µm.",
+      "habitat": "يرجح أنه رمّي التغذية، وينمو منفردًا أو في مجموعات صغيرة على الأرض بين الطحالب المنخفضة، وغالبًا في بسط كثيفة من Hypnum، وبين الأشنات الأرضية مثل Cladonia، في المروج الجافة وشبه الجافة المتناثرة أو المرعية أو المدوسة، وعلى الشواطئ ذات الطابع السهبي وفي السهوب الصخرية فوق الرمل الكلسي أو الحصى أو الحجر الجيري أو الصخر البركاني. يثمر من أواخر الصيف إلى أوائل الشتاء، وكثيرًا ما يظهر حتى نوفمبر.",
+      "uses": "يُعد غير صالح للأكل وربما سامًا.",
+      "confusion": "النوع Phaeoclavulina flaccida شبه مطابق وأبواغه تكاد تكون نفسها، لكنه ينمو أساسًا في الغابات، وقد يتبين أن الاثنين نوع واحد؛ ويساعد تفاعل الطبقة الخصبة مع KOH على تمييز P. roellinii. أما P. clavarioides فساقه غير متفرعة في معظمها وفروعه في القمة أساسًا، وطعمه مر، وبلورات جذاميره مختلفة الشكل. ويخضرّ P. abietina أيضًا لكنه ينمو تحت المخروطيات. وينمو P. decurrens مع الأشجار المتساقطة الأوراق، ولـ P. eumorpha أبواغ أكبر وبلورات غير منتظمة على الجذامير، أما P. quercus-ilicis المتوسطي فينمو في فرشة الأشجار عريضة الأوراق. وقد يُخلط الجسم الثمري المجموع من دون جذاميره البيضاء أيضًا مع P. murrillii أو مع أنواع من Clavulinopsis وRamariopsis.",
+      "notes": "يصنفه تقييم أُجري عام ٢٠١٩ على المستوى العالمي معرضًا للخطر (Vulnerable): فقد كان مؤكدًا آنذاك من أقل من ٣٠ موقعًا، وهو مرتبط بالمروج الكلسية الجافة، وهي موئل تراجع في أجزاء من أوروبا خلال القرن الماضي بنسبة تصل إلى ٩٠% بسبب ترك الرعي والتسميد والتحمض والحراثة والاستغلال العمراني. وللسويد خطة عمل وطنية خاصة به. وفي هولندا تم التعرف عليه أول مرة عام ٢٠١٣ في الكثبان الساحلية، حيث يرجح أن بعض التسجيلات القديمة لـ P. abietina تعود إليه.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Малка, набита, гъсто разклонена коралова гъба на открити, сухи и бедни на хранителни вещества варовити или песъчливи тревища, скални степи и сиви крайбрежни дюни, известна със сигурност само от разпръснати находища в Европа, главно в Швеция, Нидерландия, Дания, Германия, Швейцария, Австрия и Чехия; данните от други европейски страни и единична находка от Мексико не са потвърдени.",
+      "cap": "Отделна шапка няма. Плодното тяло е нисък, набит корал, обикновено висок 2–3,5 cm и широк 1–2,5 cm, рядко висок до около 5 cm, който се разклонява многократно още от долната или средната част. Сгъстените клонки са изправени, леко извити и надлъжно набръчкани, с тесни разклонения във форма на U или V, и завършват с многобройни дребни заострени връхчета. Млада е бледожълта до кремава, по-късно охреножълта до охренокафява, а по-старите плодни тела често придобиват зеленикави или маслинени оттенъци.",
+      "hymenium": "Спороносната повърхност е гладка и покрива клонките. При пресни плодни тела капка KOH бързо я оцветява светлокафяво, кестеняво или тъмно пурпурнокафяво, докато месото не реагира. Базидиите са тясно бухалковидни, около 38–70 × 5–7(–8) µm, обикновено четириспорови, с катарама в основата.",
+      "stipe": "Има само къса, проста основа, обикновено дебела едва 1–4 mm и често дълбоко потънала в почвата. Най-долната ѝ част е бяла и носи забележими бели, разклонени ризоморфи, покрити със звездовидни кристали.",
+      "flesh": "Месото е белезникаво, плътно, но крехко, и при разрязване не променя цвета си. Миризма липсва или е слабо землиста, а вкусът е неотчетлив. Хифната система е мономитична; хифите имат катарами и на места са подути при преградите.",
+      "sporePrint": "Споровият отпечатък е жълт. Спорите са тясно капковидни до цилиндрично-елипсоидни, около 5–8(–9) × 3–4,5 µm, с ясен апикулус и зеленикавожълта стена, фино орнаментирана с брадавички до къси шипчета с височина 0,2–0,5 µm.",
+      "habitat": "Вероятно е сапротроф и расте поединично или на малки групи на земята сред ниски мъхове, често в гъсти килими от Hypnum, и почвени лишеи като Cladonia, в редки, пасищни или утъпкани сухи и полусухи тревища, степоподобни морски брегове и скални степи върху варовит пясък, чакъл, варовик или вулканска скала. Образува плодни тела от късното лято до ранната зима, често още през ноември.",
+      "uses": "Смята се за негодна за ядене и вероятно отровна.",
+      "confusion": "Phaeoclavulina flaccida е почти еднаква и има почти същите спори, но расте главно в гори, и двете може да се окажат един вид; реакцията на химения с KOH помага да се разпознае P. roellinii. P. clavarioides има предимно неразклонено пънче с клонки главно на върха, горчив вкус и различно оформени кристали по ризоморфите. P. abietina също позеленява, но расте под иглолистни дървета. P. decurrens расте при широколистни дървета, P. eumorpha има по-големи спори и неправилни кристали по ризоморфите, а средиземноморската P. quercus-ilicis расте в постилката на широколистни дървета. Плодно тяло, събрано без белите си ризоморфи, може да бъде объркано и с P. murrillii или с видове от родовете Clavulinopsis и Ramariopsis.",
+      "notes": "Оценка от 2019 г. я определя в световен мащаб като уязвима (Vulnerable): тогава тя е била потвърдена от по-малко от 30 находища и е свързана със сухи варовити тревища — местообитание, което в части от Европа през последния век е намаляло с до 90 % заради изоставената паша, торенето, вкисляването, разораването и застрояването. Швеция има национален план за действие за нея. В Нидерландия е разпозната за първи път през 2013 г. в крайбрежните дюни, където някои по-стари находки на P. abietina вероятно принадлежат към нея.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "cs": {
+      "description": "Malá, zavalitá, hustě větvená korálovitá houba otevřených, suchých a na živiny chudých vápnitých nebo písčitých trávníků, skalních stepí a šedých pobřežních dun, s jistotou známá jen z roztroušených lokalit v Evropě, hlavně ze Švédska, Nizozemska, Dánska, Německa, Švýcarska, Rakouska a Česka; údaje z dalších evropských zemí a jediný nález z Mexika nejsou potvrzené.",
+      "cap": "Samostatný klobouk chybí. Plodnice je nízký, zavalitý korálovitý útvar, obvykle 2–3,5 cm vysoký a 1–2,5 cm široký, vzácně až asi 5 cm vysoký, který se opakovaně větví už od spodní nebo střední části. Hustě nahloučené větve jsou vzpřímené, poněkud zahnuté a podélně vrásčité, s úzkými paždími tvaru U až V, a končí četnými drobnými špičatými hroty. Zamlada je bledě žlutá až krémová, později okrově žlutá až okrově hnědá a starší plodnice často dostávají nazelenalé nebo olivové tóny.",
+      "hymenium": "Výtrusorodý povrch je hladký a pokrývá větve. Na čerstvých plodnicích jej kapka KOH rychle zbarví světle hnědě až kaštanově nebo tmavě purpurově hnědě, zatímco dužnina nereaguje. Bazidie jsou úzce kyjovité, asi 38–70 × 5–7(–8) µm, obvykle čtyřvýtrusé, s přezkou na bázi.",
+      "stipe": "Třeň tvoří jen krátká, jednoduchá báze, obvykle jen 1–4 mm tlustá a často hluboko zanořená v půdě. Její nejspodnější část je bílá a nese nápadné bílé, větvené rhizomorfy pokryté hvězdicovitými krystaly.",
+      "flesh": "Dužnina je bělavá, pevná, ale křehká a na řezu nemění barvu. Vůně chybí nebo je slabě zemitá a chuť je nevýrazná. Hyfový systém je monomitický; hyfy mají přezky a u sept jsou místy nadmuté.",
+      "sporePrint": "Výtrusný prach je žlutý. Výtrusy jsou úzce kapkovité až válcovitě elipsoidní, asi 5–8(–9) × 3–4,5 µm, se zřetelným apikulem a nazelenale žlutou stěnou jemně zdobenou bradavkami až krátkými ostny vysokými 0,2–0,5 µm.",
+      "habitat": "Je pravděpodobně saprotrofní a roste jednotlivě nebo v malých skupinách na zemi mezi nízkými mechy, často v hustých porostech rodu Hypnum, a půdními lišejníky, například rodu Cladonia, v řídkých, spásaných nebo sešlapávaných suchých a polosuchých trávnících, na stepních pobřežích a ve skalních stepích na vápnitém písku, štěrku, vápenci nebo vulkanické hornině. Plodnice tvoří od pozdního léta do počátku zimy, často ještě v listopadu.",
+      "uses": "Je považována za nejedlou a možná jedovatou.",
+      "confusion": "Phaeoclavulina flaccida je téměř shodná a má téměř stejné výtrusy, roste však hlavně v lese a oba druhy se mohou ukázat jako jeden; reakce hymenia s KOH pomáhá rozpoznat P. roellinii. P. clavarioides má převážně nevětvený třeň s větvemi hlavně na vrcholu, hořkou chuť a jinak tvarované krystaly na rhizomorfách. P. abietina také zelená, roste však pod jehličnany. P. decurrens roste u listnáčů, P. eumorpha má větší výtrusy a nepravidelné krystaly na rhizomorfách a středomořská P. quercus-ilicis roste v opadu listnatých dřevin. Plodnici sebranou bez bílých rhizomorf lze zaměnit také s P. murrillii nebo s druhy rodů Clavulinopsis a Ramariopsis.",
+      "notes": "Hodnocení z roku 2019 ji celosvětově uvádí jako zranitelnou: tehdy byla potvrzena z méně než 30 lokalit a je vázána na suché vápnité trávníky, stanoviště, které v částech Evropy za poslední století ubylo až o 90 % kvůli opuštění pastvy, hnojení, acidifikaci, rozorání a zástavbě. Švédsko pro ni má národní akční plán. V Nizozemsku byla poprvé rozpoznána v roce 2013 v pobřežních dunách, kde některé starší údaje o P. abietina pravděpodobně patří k ní.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/7921747/vernacularNames"
+      ],
+      "label": "kuřátka Roelliniho"
+    },
+    "da": {
+      "description": "En lille, kompakt og tæt forgrenet koralsvamp på åbne, tørre og næringsfattige kalk- eller sandoverdrev, klippesteppe og grå kystklitter, som med sikkerhed kun kendes fra spredte lokaliteter i Europa, især Sverige, Nederlandene, Danmark, Tyskland, Schweiz, Østrig og Tjekkiet; angivelser fra andre europæiske lande og et enkelt fund fra Mexico er ubekræftede.",
+      "cap": "Der er ingen egentlig hat. Frugtlegemet er en lav, kompakt koral, oftest 2–3,5 cm høj og 1–2,5 cm bred, sjældent op til omkring 5 cm høj, der forgrener sig gentagne gange fra den nedre eller midterste del. De tætstillede grene er oprette, lidt buede og rynkede på langs, med smalle U- til V-formede grenvinkler, og ender i talrige små spidse spidser. Ung er den blegt gul til cremefarvet, senere okkergul til okkerbrun, og ældre frugtlegemer får ofte grønlige eller olivenfarvede toner.",
+      "hymenium": "Den sporebærende overflade er glat og dækker grenene. På friske frugtlegemer farver en dråbe KOH den hurtigt lysebrun til kastanjebrun eller mørkt purpurbrun, mens kødet ikke reagerer. Basidierne er smalt køllede, omkring 38–70 × 5–7(–8) µm, oftest firesporede, med en bøjle ved basis.",
+      "stipe": "Der er kun en kort, enkel basis, oftest kun 1–4 mm tyk og ofte dybt sænket ned i jorden. Den yderste basis er hvid og bærer iøjnefaldende hvide, forgrenede rhizomorfer, der er dækket af stjerneformede krystaller.",
+      "flesh": "Kødet er hvidligt, fast men skørt og skifter ikke farve, når det skæres. Lugten mangler eller er svagt jordagtig, og smagen er ubetydelig. Hyfesystemet er monomitisk; hyferne har bøjler og er stedvis opsvulmede ved skillevæggene.",
+      "sporePrint": "Sporefarven er gul. Sporerne er smalt dråbeformede til cylindrisk-ellipsoide, omkring 5–8(–9) × 3–4,5 µm, med tydelig apikulus og en grønliggul væg, der er fint besat med vorter til korte pigge 0,2–0,5 µm høje.",
+      "habitat": "Den er sandsynligvis saprotrof og vokser enkeltvis eller i små grupper på jorden mellem lave mosser, ofte tætte tæpper af Hypnum, og jordlaver som Cladonia, i åbne, græssede eller nedtrådte tørre og halvtørre græsarealer, stepagtige strande og klippesteppe på kalkholdigt sand, grus, kalksten eller vulkansk bjergart. Den danner frugtlegemer fra sensommer til tidlig vinter, ofte så sent som i november.",
+      "uses": "Den regnes for uspiselig og muligvis giftig.",
+      "confusion": "Phaeoclavulina flaccida er næsten identisk og har næsten de samme sporer, men vokser mest i skov, og de to kan vise sig at være én art; KOH-reaktionen på hymeniet hjælper med at kende P. roellinii. P. clavarioides har en overvejende ugrenet stok med grene mest i toppen, bitter smag og anderledes formede krystaller på rhizomorferne. P. abietina bliver også grønlig, men vokser under nåletræer. P. decurrens vokser ved løvtræer, P. eumorpha har større sporer og uregelmæssige krystaller på rhizomorferne, og den middelhavsudbredte P. quercus-ilicis vokser i førne af løvtræer. Et frugtlegeme, der er samlet uden de hvide rhizomorfer, kan også forveksles med P. murrillii eller med arter af Clavulinopsis og Ramariopsis.",
+      "notes": "En vurdering fra 2019 angiver den som globalt sårbar (Vulnerable): den var da bekræftet fra færre end 30 lokaliteter og er knyttet til tørre kalkoverdrev, et levested, der i dele af Europa i det sidste århundrede er gået tilbage med op til 90 % på grund af ophørt græsning, gødskning, forsuring, opdyrkning og bebyggelse. Sverige har et nationalt handlingsprogram for den. I Nederlandene blev den først erkendt i 2013 i kystklitterne, hvor nogle ældre fund af P. abietina sandsynligvis hører til den.",
+      "names": [],
+      "sourceUrls": [
+        "https://svampe.databasen.org/taxon/67514"
+      ],
+      "label": "steppe-koralsvamp"
+    },
+    "de": {
+      "description": "Ein kleiner, gedrungener, dicht verzweigter Korallenpilz offener, trockener und nährstoffarmer Kalk- oder Sandmagerrasen, Felssteppen und Graudünen der Küste, der sicher nur von verstreuten Fundorten in Europa bekannt ist, vor allem aus Schweden, den Niederlanden, Dänemark, Deutschland, der Schweiz, Österreich und Tschechien; Meldungen aus weiteren europäischen Ländern und ein einzelner Fund aus Mexiko sind unbestätigt.",
+      "cap": "Ein eigener Hut fehlt. Der Fruchtkörper ist eine niedrige, gedrungene Koralle, meist 2–3,5 cm hoch und 1–2,5 cm breit, selten bis etwa 5 cm hoch, und verzweigt sich schon vom unteren oder mittleren Teil an mehrfach. Die dicht stehenden Äste sind aufrecht, etwas gebogen und längs runzelig, mit schmalen U- bis V-förmigen Gabelungen, und enden in zahlreichen kleinen spitzen Zähnchen. Jung ist er blassgelb bis cremefarben, später ockergelb bis ockerbraun, und ältere Fruchtkörper nehmen oft grünliche oder olivfarbene Töne an.",
+      "hymenium": "Die sporentragende Oberfläche ist glatt und überzieht die Äste. An frischen Fruchtkörpern färbt ein Tropfen KOH sie rasch hellbraun bis kastanienbraun oder dunkel purpurbraun, während das Fleisch nicht reagiert. Die Basidien sind schmal keulenförmig, etwa 38–70 × 5–7(–8) µm groß, meist viersporig und haben an der Basis eine Schnalle.",
+      "stipe": "Es gibt nur einen kurzen, einfachen Strunk, meist nur 1–4 mm dick und oft tief in den Boden eingesenkt. Seine äußerste Basis ist weiß und trägt auffällige weiße, verzweigte Rhizomorphen, die mit sternförmigen Kristallen besetzt sind.",
+      "flesh": "Das Fleisch ist weißlich, fest, aber brüchig und verfärbt sich beim Anschneiden nicht. Ein Geruch fehlt oder ist schwach erdig, der Geschmack ist unauffällig. Das Hyphensystem ist monomitisch; die Hyphen haben Schnallen und sind an den Septen stellenweise angeschwollen.",
+      "sporePrint": "Das Sporenpulver ist gelb. Die Sporen sind schmal tropfenförmig bis zylindrisch-ellipsoid, etwa 5–8(–9) × 3–4,5 µm groß, mit deutlichem Apikulus und einer grünlich gelben Wand, die fein mit Warzen bis kurzen Stacheln von 0,2–0,5 µm Höhe besetzt ist.",
+      "habitat": "Er lebt vermutlich saprotroph und wächst einzeln oder in kleinen Gruppen am Boden zwischen niedrigen Moosen, oft in dichten Polstern von Hypnum, und Bodenflechten wie Cladonia, in lückigen, beweideten oder betretenen Trocken- und Halbtrockenrasen, steppenartigen Küstenstreifen und Felssteppen auf kalkhaltigem Sand, Kies, Kalkstein oder vulkanischem Gestein. Er fruchtet vom Spätsommer bis zum Frühwinter, oft noch im November.",
+      "uses": "Er gilt als ungenießbar und möglicherweise giftig.",
+      "confusion": "Phaeoclavulina flaccida ist fast identisch und hat nahezu gleiche Sporen, wächst aber vor allem im Wald, und beide könnten sich als eine Art erweisen; die KOH-Reaktion des Hymeniums hilft, P. roellinii zu erkennen. P. clavarioides hat einen größtenteils unverzweigten Stiel mit Ästen vor allem an der Spitze, einen bitteren Geschmack und anders geformte Kristalle an den Rhizomorphen. P. abietina wird ebenfalls grünlich, wächst aber unter Nadelbäumen. P. decurrens wächst bei Laubbäumen, P. eumorpha hat größere Sporen und unregelmäßige Kristalle an den Rhizomorphen, und die mediterrane P. quercus-ilicis wächst in der Streu von Laubbäumen. Ein ohne seine weißen Rhizomorphen gesammelter Fruchtkörper könnte auch mit P. murrillii oder mit Arten von Clavulinopsis und Ramariopsis verwechselt werden.",
+      "notes": "Pilz des Jahres 2024 in Österreich. Eine Bewertung von 2019 stuft ihn weltweit als gefährdet (Vulnerable) ein: Er war damals von weniger als 30 Fundorten bestätigt und ist an trockene Kalkmagerrasen gebunden, einen Lebensraum, der in Teilen Europas im letzten Jahrhundert durch aufgegebene Beweidung, Düngung, Versauerung, Umbruch und Erschließung um bis zu 90 % zurückgegangen ist. Schweden hat für ihn einen nationalen Aktionsplan. In den Niederlanden wurde er 2013 erstmals in den Küstendünen erkannt, wo manche älteren Meldungen von P. abietina wahrscheinlich zu ihm gehören.",
+      "names": [
+        "Steppenkoralle"
+      ],
+      "sourceUrls": [
+        "https://myk.univie.ac.at/wp-content/uploads/2023/12/Pilz_des_Jahres_2024_OEMG.pdf",
+        "https://naturschutzbund.at/pilz-leser/items/2024-steppen-koralle.html",
+        "https://de.wikipedia.org/wiki/Pilz_des_Jahres_(%C3%96sterreich)",
+        "https://api.gbif.org/v1/species/5238524/vernacularNames"
+      ],
+      "label": "Steppen-Koralle"
+    },
+    "en": {
+      "description": "A small, compact, densely branched coral fungus of open, dry and nutrient-poor calcareous or sandy grassland, rock steppe and grey coastal dunes, known with certainty only from scattered sites in Europe, chiefly Sweden, the Netherlands, Denmark, Germany, Switzerland, Austria and Czechia; reports from other European countries and a single record from Mexico are unconfirmed.",
+      "cap": "There is no separate cap. The fruit body is a low, compact coral usually 2–3.5 cm tall and 1–2.5 cm across, rarely up to about 5 cm tall, branching repeatedly from the lower or middle part. The crowded branches are upright, somewhat curved and longitudinally wrinkled, with narrow U- to V-shaped forks, and end in numerous small pointed tips. It is pale yellow to cream when young and becomes ochre-yellow to ochre-brown, and older fruit bodies often take on greenish or olive tints.",
+      "hymenium": "The spore-bearing surface is smooth and covers the branches. On fresh fruit bodies a drop of KOH quickly turns it pale brown to chestnut or dark purplish brown, while the flesh does not react. Basidia are narrowly club-shaped, about 38–70 × 5–7(–8) µm, usually four-spored, with a clamp at the base.",
+      "stipe": "There is only a short, simple base, usually just 1–4 mm thick and often deeply sunk in the soil. Its extreme base is white and bears conspicuous white, branched rhizomorphs covered in star-shaped crystals.",
+      "flesh": "The flesh is whitish, firm but brittle, and does not change colour when cut. The smell is absent to faintly earthy and the taste is indistinct. The hyphal system is monomitic; the hyphae have clamp connections and are locally swollen at the septa.",
+      "sporePrint": "The spore print is yellow. Spores are narrowly teardrop-shaped to cylindrical-ellipsoid, about 5–8(–9) × 3–4.5 µm, with a distinct apiculus and a greenish-yellow wall finely ornamented with warts to short spines 0.2–0.5 µm high.",
+      "habitat": "It is probably saprotrophic and fruits singly or in small groups on the ground among low mosses, often dense carpets of Hypnum, and ground lichens such as Cladonia, in sparse, grazed or trampled dry and semi-dry grassland, steppe-like seashores and rock steppes on calcareous sand, gravel, limestone or volcanic rock. It fruits from late summer to early winter, often as late as November.",
+      "uses": "It is regarded as inedible and possibly poisonous.",
+      "confusion": "Phaeoclavulina flaccida is almost identical and has nearly the same spores, but grows mainly in woodland, and the two may prove to be one species; the KOH reaction of the hymenium helps to recognise P. roellinii. P. clavarioides has a largely unbranched stem with branches mainly at the top, a bitter taste and differently shaped crystals on its rhizomorphs. P. abietina also turns greenish but grows under conifers. P. decurrens grows with deciduous trees, P. eumorpha has larger spores and irregular crystals on its rhizomorphs, and the Mediterranean P. quercus-ilicis grows in the litter of broadleaved trees. A fruit body collected without its white rhizomorphs could also be mistaken for P. murrillii or for species of Clavulinopsis and Ramariopsis.",
+      "notes": "A 2019 assessment lists it as globally Vulnerable: it was then confirmed from fewer than 30 localities and is confined to dry calcareous grasslands, a habitat that has declined by up to 90% in parts of Europe over the last century through abandoned grazing, fertilisation, acidification, cultivation and exploitation for development. Sweden has a national action plan for it. In the Netherlands it was first recognised in 2013 in the coastal dunes, where some older records of P. abietina probably belong to it.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=512966",
+        "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=512966",
+        "https://www.gbif.org/species/7921747",
+        "https://redlist.info/iucn/species_view/322276/",
+        "https://www.englishfungi.org/Species/Phaeoclavulina%20roellinii",
+        "https://myk.univie.ac.at/wp-content/uploads/2023/12/Pilz_des_Jahres_2024_OEMG.pdf"
+      ]
+    },
+    "es": {
+      "description": "Hongo coraloide pequeño, compacto y densamente ramificado de pastizales abiertos, secos y pobres en nutrientes sobre suelos calcáreos o arenosos, estepas rocosas y dunas grises costeras, conocido con certeza solo de localidades dispersas de Europa, sobre todo en Suecia, los Países Bajos, Dinamarca, Alemania, Suiza, Austria y Chequia; las citas de otros países europeos y un único registro de México no están confirmadas.",
+      "cap": "No tiene un sombrero separado. El cuerpo fructífero es un coral bajo y compacto, normalmente de 2–3,5 cm de alto y 1–2,5 cm de ancho, rara vez de hasta unos 5 cm de alto, que se ramifica repetidamente desde la parte inferior o media. Las ramas, apretadas, son erguidas, algo curvadas y arrugadas longitudinalmente, con axilas estrechas en forma de U o de V, y terminan en numerosas puntas pequeñas y agudas. De joven es amarillo pálido a crema, luego amarillo ocre a pardo ocre, y los ejemplares viejos adquieren a menudo tonos verdosos u oliváceos.",
+      "hymenium": "La superficie fértil es lisa y cubre las ramas. En ejemplares frescos, una gota de KOH la vuelve rápidamente pardo pálido a castaño o pardo púrpura oscuro, mientras que la carne no reacciona. Los basidios son estrechamente claviformes, de unos 38–70 × 5–7(–8) µm, normalmente tetraspóricos, con una fíbula en la base.",
+      "stipe": "Solo hay una base corta y simple, normalmente de apenas 1–4 mm de grosor y a menudo hundida profundamente en el suelo. Su extremo basal es blanco y lleva llamativos rizomorfos blancos y ramificados, cubiertos de cristales estrellados.",
+      "flesh": "La carne es blanquecina, firme pero quebradiza, y no cambia de color al corte. El olor es nulo o débilmente terroso y el sabor poco definido. El sistema hifal es monomítico; las hifas tienen fíbulas y están localmente engrosadas en los septos.",
+      "sporePrint": "La esporada es amarilla. Las esporas son estrechamente lacrimiformes a cilíndrico-elipsoides, de unos 5–8(–9) × 3–4,5 µm, con un apículo marcado y una pared amarillo verdosa finamente ornamentada con verrugas o espinas cortas de 0,2–0,5 µm de alto.",
+      "habitat": "Probablemente es saprótrofo y crece solitario o en pequeños grupos en el suelo entre musgos bajos, a menudo densas alfombras de Hypnum, y líquenes terrícolas como Cladonia, en pastizales secos y semisecos abiertos, pastoreados o pisoteados, costas de aspecto estepario y estepas rocosas sobre arena calcárea, grava, caliza o roca volcánica. Fructifica desde finales del verano hasta principios del invierno, a menudo aún en noviembre.",
+      "uses": "Se considera no comestible y posiblemente tóxico.",
+      "confusion": "Phaeoclavulina flaccida es casi idéntica y tiene esporas casi iguales, pero crece sobre todo en bosques, y ambas podrían resultar ser una sola especie; la reacción del himenio con KOH ayuda a reconocer P. roellinii. P. clavarioides tiene un pie en gran parte sin ramificar, con ramas sobre todo en el ápice, sabor amargo y cristales de otra forma en los rizomorfos. P. abietina también verdea, pero crece bajo coníferas. P. decurrens crece con árboles de hoja caduca, P. eumorpha tiene esporas más grandes y cristales irregulares en los rizomorfos, y la mediterránea P. quercus-ilicis crece en la hojarasca de frondosas. Un ejemplar recogido sin sus rizomorfos blancos también podría confundirse con P. murrillii o con especies de Clavulinopsis y Ramariopsis.",
+      "notes": "Una evaluación de 2019 lo clasifica a escala mundial como vulnerable (Vulnerable): entonces estaba confirmado en menos de 30 localidades y está ligado a los pastizales calcáreos secos, un hábitat que en partes de Europa ha disminuido hasta un 90 % en el último siglo por el abandono del pastoreo, la fertilización, la acidificación, el cultivo y la urbanización. Suecia tiene un plan de acción nacional para él. En los Países Bajos se reconoció por primera vez en 2013 en las dunas costeras, donde algunas citas antiguas de P. abietina probablemente le corresponden.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Väike, jässakas ja tihedalt harunev korallseen, mis kasvab avatud, kuivadel ja toitainevaestel lubja- või liivaniitudel, kaljustepides ja hallidel rannikuluidetel ning on kindlalt teada vaid hajusatest leiukohtadest Euroopas, peamiselt Rootsist, Madalmaadest, Taanist, Saksamaalt, Šveitsist, Austriast ja Tšehhist; teated teistest Euroopa riikidest ja üksik leid Mehhikost on kinnitamata.",
+      "cap": "Eraldi kübarat ei ole. Viljakeha on madal ja jässakas korall, tavaliselt 2–3,5 cm kõrge ja 1–2,5 cm lai, harva kuni umbes 5 cm kõrge, mis haruneb korduvalt juba alumisest või keskmisest osast. Tihedalt koos olevad harud on püstised, veidi kõverad ja pikuti kortsulised, kitsaste U- kuni V-kujuliste harunemiskohtadega, ning lõpevad arvukate väikeste teravate tippudega. Noorelt on see kahvatukollane kuni kreemjas, hiljem ookerkollane kuni ookerpruun ja vanemad viljakehad omandavad sageli rohekaid või oliivjaid toone.",
+      "hymenium": "Eoseid kandev pind on sile ja katab harusid. Värsketel viljakehadel muudab tilk KOH-d selle kiiresti helepruuniks kuni kastanpruuniks või tumedalt purpurpruuniks, kuid viljaliha ei reageeri. Basiidid on kitsalt nuijakujulised, umbes 38–70 × 5–7(–8) µm, tavaliselt neljaeoselised, aluses pannal.",
+      "stipe": "Jalaks on vaid lühike lihtne alus, tavaliselt ainult 1–4 mm jäme ja sageli sügavale mulda vajunud. Selle päris alumine osa on valge ja kannab silmatorkavaid valgeid harunevaid risomorfe, mida katavad tähtjad kristallid.",
+      "flesh": "Viljaliha on valkjas, tihke, kuid rabe ega muuda lõikamisel värvi. Lõhn puudub või on nõrgalt mullane ja maitse on ebamäärane. Hüüfisüsteem on monomiitne; hüüfidel on pandlad ja need on vaheseinte juures kohati paisunud.",
+      "sporePrint": "Eoslima on kollane. Eosed on kitsalt tilgakujulised kuni silindrilis-ellipsoidsed, umbes 5–8(–9) × 3–4,5 µm, selge apikulusega ja rohekaskollase seinaga, mida katavad peened tüükad kuni lühikesed 0,2–0,5 µm kõrgused ogad.",
+      "habitat": "Tõenäoliselt on see saproob ja kasvab üksikult või väikeste rühmadena maapinnal madalate samblate, sageli tihedate Hypnum-vaipade, ja maapinnasamblike, näiteks Cladonia, vahel hõredatel, karjatatud või tallatud kuivadel ja poolkuivadel rohumaadel, stepisarnastel mererandadel ja kaljustepides lubjarikkal liival, kruusal, lubjakivil või vulkaanilisel kivimil. Viljakehi moodustab hilissuvest varatalveni, sageli veel novembris.",
+      "uses": "Seda peetakse mittesöödavaks ja võimalik, et mürgiseks.",
+      "confusion": "Phaeoclavulina flaccida on peaaegu sarnane ja tal on peaaegu samasugused eosed, kuid see kasvab peamiselt metsas ning need kaks võivad osutuda üheks liigiks; eoskihi KOH-reaktsioon aitab P. roellinii ära tunda. P. clavarioides on enamasti harunemata jalaga, mille harud on peamiselt tipus, mõru maitsega ja teistsuguse kujuga kristallidega risomorfidel. Ka P. abietina muutub rohekaks, kuid kasvab okaspuude all. P. decurrens kasvab lehtpuude juures, P. eumorpha on suuremate eoste ja ebakorrapäraste kristallidega risomorfidel ning Vahemere-äärne P. quercus-ilicis kasvab lehtpuude varises. Ilma valgete risomorfideta korjatud viljakeha võib segi ajada ka P. murrillii või Clavulinopsis- ja Ramariopsis-perekonna liikidega.",
+      "notes": "2019. aasta hinnangus on see üleilmselt ohualdis (Vulnerable): see oli tollal kinnitatud vähem kui 30 leiukohast ja on seotud kuivade lubjarikaste rohumaadega, elupaigaga, mis on osas Euroopas viimase sajandi jooksul vähenenud kuni 90% karjatamise lõppemise, väetamise, hapestumise, ülesharimise ja ehitustegevuse tõttu. Rootsil on selle jaoks riiklik tegevuskava. Madalmaades tunti see esimest korda ära 2013. aastal rannikuluidetel, kus osa P. abietina vanemaid leide kuulub tõenäoliselt sellele liigile.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fa": {
+      "description": "قارچ مرجانی کوچک، فشرده و انبوه‌شاخه‌ای که در علفزارهای باز، خشک و کم‌مایهٔ آهکی یا شنی، استپ‌های سنگی و تپه‌های شنی خاکستری ساحلی می‌روید و با اطمینان فقط از مکان‌های پراکنده‌ای در اروپا، به‌ویژه سوئد، هلند، دانمارک، آلمان، سوئیس، اتریش و چک، شناخته شده است؛ گزارش‌ها از دیگر کشورهای اروپایی و یک یافتهٔ منفرد از مکزیک تأیید نشده‌اند.",
+      "cap": "کلاهک جداگانه‌ای ندارد. اندام باردهی مرجانی کوتاه و فشرده است، معمولاً به بلندی ۲–۳٫۵ cm و پهنای ۱–۲٫۵ cm، و به‌ندرت تا حدود ۵ cm بلندی، که از بخش پایینی یا میانی بارها شاخه می‌دهد. شاخه‌های انبوه راست، اندکی خمیده و در درازا چین‌خورده‌اند، با زاویه‌های انشعاب باریک U یا V شکل، و به نوک‌های کوچک و تیز فراوانی ختم می‌شوند. در جوانی زرد کم‌رنگ تا کرم است، سپس زرد اُخرایی تا قهوه‌ای اُخرایی می‌شود و اندام‌های باردهی مسن‌تر اغلب رنگ‌مایهٔ سبزگون یا زیتونی می‌گیرند.",
+      "hymenium": "سطح هاگ‌دار صاف است و شاخه‌ها را می‌پوشاند. روی اندام‌های باردهی تازه، یک قطره KOH آن را به‌سرعت قهوه‌ای روشن، شاه‌بلوطی یا قهوه‌ای ارغوانی تیره می‌کند، در حالی که گوشت واکنشی نشان نمی‌دهد. بازیدیوم‌ها باریک و گرزی‌شکل‌اند، حدود ۳۸–۷۰ × ۵–۷(–۸) µm، معمولاً چهارهاگی، با یک گیره در قاعده.",
+      "stipe": "فقط پایه‌ای کوتاه و ساده دارد که معمولاً تنها ۱–۴ mm ضخامت دارد و اغلب عمیقاً در خاک فرو رفته است. انتهای پایینی آن سفید است و ریزومورف‌های سفید و منشعب آشکاری دارد که با بلورهای ستاره‌ای پوشیده شده‌اند.",
+      "flesh": "گوشت سفیدگون، سفت ولی شکننده است و هنگام برش تغییر رنگ نمی‌دهد. بو ندارد یا بوی خاکی ضعیفی دارد و مزه‌اش نامشخص است. سامانهٔ ریسه‌ای تک‌ریختی است؛ ریسه‌ها گیره دارند و در برخی جاها کنار دیواره‌ها متورم‌اند.",
+      "sporePrint": "اثر هاگ زرد است. هاگ‌ها اشکی‌شکل باریک تا استوانه‌ای-بیضوی‌اند، حدود ۵–۸(–۹) × ۳–۴٫۵ µm، با زائدهٔ رأسی آشکار و دیوارهٔ زرد مایل به سبز که با زگیل‌های ریز تا خارهای کوتاه به بلندی ۰٫۲–۰٫۵ µm آراسته شده است.",
+      "habitat": "احتمالاً گندروی است و به‌تنهایی یا در گروه‌های کوچک روی زمین در میان خزه‌های کوتاه، اغلب فرش‌های انبوه Hypnum، و گلسنگ‌های خاکزی مانند Cladonia می‌روید؛ در علفزارهای خشک و نیمه‌خشک تُنُک، چراشده یا لگدکوب‌شده، کرانه‌های استپ‌مانند دریا و استپ‌های سنگی بر شن آهکی، شن‌ریزه، سنگ آهک یا سنگ آتشفشانی. از اواخر تابستان تا اوایل زمستان، اغلب حتی در نوامبر، بار می‌دهد.",
+      "uses": "خوراکی نیست و ممکن است سمی باشد.",
+      "confusion": "گونهٔ Phaeoclavulina flaccida تقریباً یکسان است و هاگ‌هایش نیز تقریباً همانند است، اما بیشتر در جنگل می‌روید و ممکن است این دو یک گونه از کار درآیند؛ واکنش لایهٔ بارور با KOH به شناخت P. roellinii کمک می‌کند. P. clavarioides پایه‌ای بیشتر بی‌شاخه دارد که شاخه‌هایش بیشتر در نوک‌اند، مزه‌اش تلخ است و بلورهای ریزومورف‌هایش شکل دیگری دارند. P. abietina نیز سبزگون می‌شود اما زیر درختان سوزنی‌برگ می‌روید. P. decurrens همراه درختان خزان‌کننده می‌روید، P. eumorpha هاگ‌های بزرگ‌تر و بلورهای نامنظم بر ریزومورف‌ها دارد، و P. quercus-ilicis مدیترانه‌ای در خاکبرگ درختان پهن‌برگ می‌روید. اندام باردهی که بدون ریزومورف‌های سفیدش چیده شود ممکن است با P. murrillii یا گونه‌هایی از Clavulinopsis و Ramariopsis نیز اشتباه گرفته شود.",
+      "notes": "ارزیابی سال ۲۰۱۹ آن را در سطح جهانی آسیب‌پذیر (Vulnerable) طبقه‌بندی می‌کند: در آن زمان از کمتر از ۳۰ مکان تأیید شده بود و به علفزارهای خشک آهکی وابسته است، زیستگاهی که در بخش‌هایی از اروپا در سدهٔ گذشته بر اثر رها شدن چرا، کوددهی، اسیدی شدن، شخم و ساخت‌وساز تا ۹۰% کاهش یافته است. سوئد برنامهٔ اقدام ملی برای آن دارد. در هلند نخستین بار در سال ۲۰۱۳ در تپه‌های شنی ساحلی شناسایی شد، جایی که برخی گزارش‌های قدیمی‌تر P. abietina احتمالاً به این گونه تعلق دارند.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Pieni, tanakka ja tiheästi haarova haarakkasieni, joka kasvaa avoimilla, kuivilla ja vähäravinteisilla kalkki- tai hiekkaniityillä, kalliosteppeillä ja harmailla rannikkodyyneillä ja tunnetaan varmasti vain hajanaisilta paikoilta Euroopasta, lähinnä Ruotsista, Alankomaista, Tanskasta, Saksasta, Sveitsistä, Itävallasta ja Tšekistä; ilmoitukset muista Euroopan maista ja yksittäinen havainto Meksikosta ovat vahvistamattomia.",
+      "cap": "Erillistä lakkia ei ole. Itiöemä on matala ja tanakka korallimainen kasvusto, yleensä 2–3,5 cm korkea ja 1–2,5 cm leveä, harvoin jopa noin 5 cm korkea, ja se haarautuu toistuvasti jo alaosasta tai keskiosasta. Tiheät haarat ovat pystyjä, hieman kaartuvia ja pitkittäin ryppyisiä, haarautumiskohdat kapeita ja U- tai V-muotoisia, ja ne päättyvät lukuisiin pieniin teräviin kärkiin. Nuorena se on vaaleankeltainen tai kermanvärinen, myöhemmin okrankeltainen tai okranruskea, ja vanhemmat itiöemät saavat usein vihertäviä tai oliivinvärisiä sävyjä.",
+      "hymenium": "Itiöitä tuottava pinta on sileä ja peittää haarat. Tuoreissa itiöemissä tippa KOH:ta värjää sen nopeasti vaaleanruskeaksi, kastanjanruskeaksi tai tumman purppuranruskeaksi, mutta malto ei reagoi. Kantasolut ovat kapean nuijamaisia, noin 38–70 × 5–7(–8) µm, yleensä nelisporisia, ja niiden tyvessä on solki.",
+      "stipe": "Jalkana on vain lyhyt ja yksinkertainen tyvi, yleensä vain 1–4 mm paksu ja usein syvällä maassa. Sen alin osa on valkoinen, ja siinä on selvästi näkyviä valkoisia, haarovia rihmastojänteitä, joita peittävät tähtimäiset kiteet.",
+      "flesh": "Malto on vaaleahko, kiinteä mutta hauras eikä muuta väriään leikattaessa. Hajua ei ole tai se on heikosti maamainen, ja maku on mieto. Rihmastojärjestelmä on monomiittinen; rihmoissa on solkia, ja ne ovat paikoin turvonneita väliseinien kohdalla.",
+      "sporePrint": "Itiöpöly on keltainen. Itiöt ovat kapean pisaranmuotoisia tai lieriömäisen ellipsoidisia, noin 5–8(–9) × 3–4,5 µm, ja niissä on selvä apikulus ja vihertävänkeltainen seinämä, jota koristavat hienot nystyt tai lyhyet piikit, korkeudeltaan 0,2–0,5 µm.",
+      "habitat": "Se on luultavasti lahottaja ja kasvaa yksittäin tai pieninä ryhminä maassa matalien sammalten, usein tiheiden Hypnum-kasvustojen, ja maajäkälien, kuten Cladonia-lajien, seassa harvoilla, laidunnetuilla tai tallatuilla kuivilla ja puolikuivilla niityillä, aromaisilla merenrannoilla ja kalliosteppeillä kalkkipitoisella hiekalla, soralla, kalkkikivellä tai vulkaanisella kivellä. Itiöemiä muodostuu loppukesästä alkutalveen, usein vielä marraskuussa.",
+      "uses": "Sitä pidetään syötäväksi kelpaamattomana ja mahdollisesti myrkyllisenä.",
+      "confusion": "Phaeoclavulina flaccida on lähes samanlainen ja sillä on melkein samanlaiset itiöt, mutta se kasvaa lähinnä metsissä, ja ne voivat osoittautua yhdeksi lajiksi; itiökerroksen KOH-reaktio auttaa tunnistamaan P. roellinii -lajin. P. clavarioides -lajilla on enimmäkseen haaraton jalka, jonka haarat ovat lähinnä latvassa, kitkerä maku ja erimuotoiset kiteet rihmastojänteissä. Myös P. abietina vihertyy, mutta se kasvaa havupuiden alla. P. decurrens kasvaa lehtipuiden seurassa, P. eumorpha -lajilla on suuremmat itiöt ja epäsäännölliset kiteet rihmastojänteissä, ja Välimeren alueen P. quercus-ilicis kasvaa lehtipuiden karikkeessa. Ilman valkoisia rihmastojänteitä kerätty itiöemä voidaan sekoittaa myös P. murrillii -lajiin tai Clavulinopsis- ja Ramariopsis-sukujen lajeihin.",
+      "notes": "Vuoden 2019 arvioinnissa se on luokiteltu maailmanlaajuisesti vaarantuneeksi (Vulnerable): se oli tuolloin varmistettu alle 30 paikalta, ja se on sidoksissa kuiviin kalkkiniittyihin, elinympäristöön, joka on osissa Eurooppaa viime vuosisadan aikana vähentynyt jopa 90 % laidunnuksen loppumisen, lannoituksen, happamoitumisen, viljelyyn ottamisen ja rakentamisen vuoksi. Ruotsilla on sitä varten kansallinen toimintaohjelma. Alankomaissa se tunnistettiin ensimmäisen kerran vuonna 2013 rannikon dyyneillä, joilla osa P. abietina -lajin vanhemmista havainnoista kuuluu todennäköisesti siihen.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fr": {
+      "description": "Petit champignon coralloïde trapu et densément ramifié des pelouses ouvertes, sèches et pauvres en nutriments sur calcaire ou sable, des steppes rocheuses et des dunes grises littorales, connu avec certitude seulement de sites dispersés en Europe, surtout en Suède, aux Pays-Bas, au Danemark, en Allemagne, en Suisse, en Autriche et en Tchéquie ; les mentions d’autres pays européens et une unique mention du Mexique ne sont pas confirmées.",
+      "cap": "Il n’y a pas de chapeau distinct. Le sporophore est un corail bas et trapu, généralement haut de 2–3,5 cm et large de 1–2,5 cm, rarement jusqu’à environ 5 cm de haut, qui se ramifie à plusieurs reprises dès la partie inférieure ou moyenne. Les rameaux serrés sont dressés, un peu arqués et ridés en long, avec des aisselles étroites en U ou en V, et se terminent par de nombreuses petites pointes aiguës. Il est jaune pâle à crème dans la jeunesse, puis jaune ocre à brun ocre, et les sporophores âgés prennent souvent des teintes verdâtres ou olive.",
+      "hymenium": "La surface fertile est lisse et recouvre les rameaux. Sur les sporophores frais, une goutte de KOH la colore rapidement en brun pâle à brun châtain ou brun pourpre foncé, tandis que la chair ne réagit pas. Les basides sont étroitement claviformes, d’environ 38–70 × 5–7(–8) µm, généralement tétrasporiques, avec une boucle à la base.",
+      "stipe": "Il n’y a qu’une base courte et simple, généralement épaisse de seulement 1–4 mm et souvent profondément enfoncée dans le sol. Son extrême base est blanche et porte des rhizomorphes blancs et ramifiés bien visibles, couverts de cristaux étoilés.",
+      "flesh": "La chair est blanchâtre, ferme mais cassante, et ne change pas de couleur à la coupe. L’odeur est nulle à faiblement terreuse et la saveur indistincte. Le système hyphal est monomitique ; les hyphes sont bouclées et localement renflées aux cloisons.",
+      "sporePrint": "La sporée est jaune. Les spores sont étroitement lacrymiformes à cylindro-ellipsoïdes, d’environ 5–8(–9) × 3–4,5 µm, avec un apicule net et une paroi jaune verdâtre finement ornée de verrues à courtes épines hautes de 0,2–0,5 µm.",
+      "habitat": "Il est probablement saprotrophe et pousse isolé ou en petits groupes sur le sol parmi des mousses basses, souvent des tapis denses de Hypnum, et des lichens terricoles comme Cladonia, dans des pelouses sèches et semi-sèches clairsemées, pâturées ou piétinées, sur des rivages d’allure steppique et dans des steppes rocheuses, sur sable calcaire, gravier, calcaire ou roche volcanique. Il fructifie de la fin de l’été au début de l’hiver, souvent encore en novembre.",
+      "uses": "Il est considéré comme non comestible et peut-être toxique.",
+      "confusion": "Phaeoclavulina flaccida est presque identique et a des spores presque semblables, mais pousse surtout en forêt, et les deux pourraient se révéler être une seule espèce ; la réaction de l’hyménium au KOH aide à reconnaître P. roellinii. P. clavarioides a un pied en grande partie non ramifié avec des rameaux surtout au sommet, une saveur amère et des cristaux de forme différente sur ses rhizomorphes. P. abietina verdit aussi, mais pousse sous les conifères. P. decurrens pousse avec les feuillus, P. eumorpha a des spores plus grandes et des cristaux irréguliers sur ses rhizomorphes, et la méditerranéenne P. quercus-ilicis pousse dans la litière des feuillus. Un sporophore récolté sans ses rhizomorphes blancs pourrait aussi être confondu avec P. murrillii ou avec des espèces de Clavulinopsis et de Ramariopsis.",
+      "notes": "Une évaluation de 2019 le classe comme vulnérable (Vulnerable) à l’échelle mondiale : il n’était alors confirmé que dans moins de 30 localités et il est lié aux pelouses calcaires sèches, un habitat qui a régressé jusqu’à 90 % dans certaines parties de l’Europe au cours du siècle dernier en raison de l’abandon du pâturage, de la fertilisation, de l’acidification, de la mise en culture et de l’aménagement. La Suède dispose pour lui d’un plan d’action national. Aux Pays-Bas, il a été reconnu pour la première fois en 2013 dans les dunes littorales, où certaines anciennes mentions de P. abietina se rapportent probablement à lui.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/7921747/vernacularNames"
+      ],
+      "label": "clavaire des graviers"
+    },
+    "he": {
+      "description": "פטרייה אלמוגית קטנה, דחוסה ומסועפת בצפיפות של כרי עשב פתוחים, יבשים ודלי מזון על קרקע גירית או חולית, ערבות סלעיות ודיונות חוף אפורות, הידועה בוודאות רק מאתרים פזורים באירופה, בעיקר בשוודיה, בהולנד, בדנמרק, בגרמניה, בשווייץ, באוסטריה ובצ'כיה; דיווחים ממדינות אחרות באירופה ותיעוד יחיד ממקסיקו אינם מאומתים.",
+      "cap": "אין כובע נפרד. גוף הפרי הוא אלמוג נמוך ודחוס, בדרך כלל בגובה 2–3.5 cm וברוחב 1–2.5 cm, לעיתים רחוקות עד כ-5 cm גובה, המסתעף שוב ושוב כבר מהחלק התחתון או האמצעי. הענפים הצפופים זקופים, מעט מעוקלים ומקומטים לאורכם, עם מפצלים צרים בצורת U עד V, ומסתיימים בקצוות קטנים וחדים רבים. בצעירותו הוא צהוב חיוור עד קרם, אחר כך צהוב-אוקר עד חום-אוקר, וגופי פרי מבוגרים מקבלים לעיתים קרובות גוונים ירקרקים או זיתיים.",
+      "hymenium": "המשטח נושא הנבגים חלק ומכסה את הענפים. בגופי פרי טריים טיפת KOH צובעת אותו במהירות בחום בהיר, ערמוני או חום-סגלגל כהה, ואילו הבשר אינו מגיב. הבזידיות אלתיות צרות, כ-38–70 × 5–7(–8) µm, בדרך כלל ארבע-נבגיות, עם אבזם בבסיסן.",
+      "stipe": "יש רק בסיס קצר ופשוט, בדרך כלל בעובי 1–4 mm בלבד ולעיתים קרובות שקוע עמוק בקרקע. קצהו התחתון לבן ונושא ריזומורפים לבנים ומסועפים בולטים המכוסים בגבישים כוכביים.",
+      "flesh": "הבשר לבנבן, מוצק אך פריך, ואינו משנה צבע בחיתוך. הריח חסר או אדמתי קלות והטעם אינו מובחן. מערכת התפטירים מונומיטית; לתפטירים יש אבזמים, ובמקומות מסוימים הם תפוחים ליד המחיצות.",
+      "sporePrint": "טביעת הנבגים צהובה. הנבגים בצורת דמעה צרה עד גליליים-אליפסואידיים, כ-5–8(–9) × 3–4.5 µm, עם אפיקולוס ברור ודופן צהבהבה-ירקרקה המעוטרת דק ביבלות עד קוצים קצרים בגובה 0.2–0.5 µm.",
+      "habitat": "ככל הנראה היא ספרוטרופית וגדלה ביחידות או בקבוצות קטנות על הקרקע בין טחבים נמוכים, לעיתים קרובות מרבדים צפופים של Hypnum, וחזזיות קרקע כגון Cladonia, בכרי עשב יבשים ויבשים-למחצה דלילים, מרועים או דרוסים, בחופי ים דמויי ערבה ובערבות סלעיות על חול גירי, חצץ, אבן גיר או סלע געשי. היא מניבה מסוף הקיץ ועד תחילת החורף, לעיתים קרובות עוד בנובמבר.",
+      "uses": "היא נחשבת לא אכילה ואולי רעילה.",
+      "confusion": "Phaeoclavulina flaccida כמעט זהה ונבגיה כמעט אותם נבגים, אך היא גדלה בעיקר ביער, וייתכן שיתברר ששתיהן מין אחד; תגובת ההימניום ל-KOH מסייעת לזהות את P. roellinii. ל-P. clavarioides רגל שרובה אינה מסועפת, עם ענפים בעיקר בפסגה, טעם מר וגבישים בצורה שונה על הריזומורפים. גם P. abietina מוריקה, אך גדלה מתחת לעצי מחט. P. decurrens גדלה ליד עצים נשירים, ל-P. eumorpha נבגים גדולים יותר וגבישים לא סדירים על הריזומורפים, ו-P. quercus-ilicis הים-תיכונית גדלה בשלכת של עצים רחבי עלים. גוף פרי שנאסף בלי הריזומורפים הלבנים שלו עלול להתבלבל גם עם P. murrillii או עם מינים של Clavulinopsis ו-Ramariopsis.",
+      "notes": "הערכה משנת 2019 מסווגת אותה ברמה העולמית כפגיעה (Vulnerable): היא אומתה אז מפחות מ-30 אתרים והיא קשורה לכרי עשב גיריים יבשים, בית גידול שבחלקים מאירופה הצטמצם במאה האחרונה בעד 90% עקב הפסקת הרעייה, דישון, החמצה, חריש ובינוי. לשוודיה יש תוכנית פעולה לאומית עבורה. בהולנד היא זוהתה לראשונה בשנת 2013 בדיונות החוף, שם כנראה חלק מהרישומים הישנים של P. abietina שייכים לה.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "यह एक छोटा, ठोस और घनी शाखाओं वाला प्रवाल-जैसा कवक है, जो खुले, सूखे और पोषक-तत्वों में कम चूनेदार या रेतीले घास के मैदानों, चट्टानी स्टेपी और तटीय धूसर रेत के टीलों में मिलता है; यह निश्चित रूप से केवल यूरोप के बिखरे हुए स्थलों से ज्ञात है, मुख्यतः स्वीडन, नीदरलैंड्स, डेनमार्क, जर्मनी, स्विट्ज़रलैंड, ऑस्ट्रिया और चेकिया से; अन्य यूरोपीय देशों से मिली सूचनाएँ और मेक्सिको का एकमात्र अभिलेख पुष्ट नहीं हैं।",
+      "cap": "इसकी कोई अलग टोपी नहीं होती। फलकाय एक नीचा, ठोस प्रवाल होता है, आमतौर पर 2–3.5 cm ऊँचा और 1–2.5 cm चौड़ा, कभी-कभार लगभग 5 cm तक ऊँचा, जो निचले या बीच के भाग से ही बार-बार शाखित होता है। सटी हुई शाखाएँ सीधी खड़ी, कुछ मुड़ी हुई और लंबाई में झुर्रीदार होती हैं, उनके द्विभाजन संकरे U से V आकार के होते हैं, और वे अनेक छोटे नुकीले सिरों में समाप्त होती हैं। युवा अवस्था में यह हल्का पीला से क्रीम रंग का होता है, फिर गेरुआ-पीला से गेरुआ-भूरा हो जाता है, और पुराने फलकायों में अक्सर हरापन या जैतूनी आभा आ जाती है।",
+      "hymenium": "बीजाणु बनाने वाली सतह चिकनी होती है और शाखाओं को ढकती है। ताज़े फलकायों पर KOH की एक बूँद इसे जल्दी ही हल्का भूरा, कत्थई या गहरा बैंगनी-भूरा कर देती है, जबकि गूदा कोई प्रतिक्रिया नहीं देता। बेसिडिया संकरे गदा-आकार के, लगभग 38–70 × 5–7(–8) µm, आमतौर पर चार बीजाणुओं वाले होते हैं और उनके आधार पर एक क्लैंप होता है।",
+      "stipe": "केवल एक छोटा, सरल आधार होता है, जो आमतौर पर केवल 1–4 mm मोटा होता है और अक्सर मिट्टी में गहराई तक धँसा रहता है। इसका सबसे निचला भाग सफ़ेद होता है और उस पर तारे-जैसे क्रिस्टलों से ढके स्पष्ट सफ़ेद, शाखित राइज़ोमॉर्फ होते हैं।",
+      "flesh": "गूदा सफ़ेद-सा, कसा हुआ पर भंगुर होता है और काटने पर रंग नहीं बदलता। गंध नहीं होती या हल्की मिट्टी जैसी होती है, और स्वाद अस्पष्ट होता है। कवकतंतु तंत्र मोनोमिटिक है; कवकतंतुओं में क्लैंप होते हैं और वे पटों के पास कहीं-कहीं फूले हुए होते हैं।",
+      "sporePrint": "बीजाणु छाप पीली होती है। बीजाणु संकरे अश्रु-आकार से बेलनाकार-दीर्घवृत्ताकार, लगभग 5–8(–9) × 3–4.5 µm होते हैं, उनमें स्पष्ट एपिकुलस होता है और हरी-पीली भित्ति पर 0.2–0.5 µm ऊँचे महीन मस्से से लेकर छोटे काँटे होते हैं।",
+      "habitat": "यह संभवतः मृतजीवी है और अकेले या छोटे समूहों में ज़मीन पर नीची काइयों, अक्सर Hypnum की घनी परतों, और Cladonia जैसे भूमि-लाइकेनों के बीच उगता है; यह विरल, चराई वाले या रौंदे गए सूखे और अर्ध-सूखे घास के मैदानों, स्टेपी-जैसे समुद्री तटों और चट्टानी स्टेपी में चूनेदार रेत, बजरी, चूना-पत्थर या ज्वालामुखीय चट्टान पर मिलता है। यह देर गर्मियों से शुरुआती सर्दियों तक, अक्सर नवंबर तक, फलता है।",
+      "uses": "इसे अखाद्य और संभवतः विषैला माना जाता है।",
+      "confusion": "Phaeoclavulina flaccida लगभग एक-जैसा है और उसके बीजाणु भी लगभग वैसे ही हैं, पर वह मुख्यतः वनों में उगता है, और दोनों एक ही प्रजाति सिद्ध हो सकते हैं; हाइमेनियम की KOH प्रतिक्रिया P. roellinii को पहचानने में मदद करती है। P. clavarioides का डंठल अधिकतर अशाखित होता है और शाखाएँ मुख्यतः शीर्ष पर होती हैं, स्वाद कड़वा होता है और राइज़ोमॉर्फ पर क्रिस्टलों का आकार अलग होता है। P. abietina भी हरा पड़ता है, पर शंकुधारी वृक्षों के नीचे उगता है। P. decurrens पर्णपाती वृक्षों के साथ उगता है, P. eumorpha के बीजाणु बड़े और राइज़ोमॉर्फ पर क्रिस्टल अनियमित होते हैं, और भूमध्यसागरीय P. quercus-ilicis चौड़ी पत्ती वाले वृक्षों के पत्तों के ढेर में उगता है। सफ़ेद राइज़ोमॉर्फ के बिना एकत्र किया गया फलकाय P. murrillii या Clavulinopsis और Ramariopsis की प्रजातियों से भी भ्रमित हो सकता है।",
+      "notes": "2019 के एक आकलन में इसे वैश्विक स्तर पर असुरक्षित (Vulnerable) श्रेणी में रखा गया है: उस समय यह 30 से कम स्थलों से पुष्ट था और सूखे चूनेदार घास के मैदानों से जुड़ा है, जो एक ऐसा आवास है जो यूरोप के कुछ भागों में पिछली सदी में चराई छूटने, उर्वरक डालने, अम्लीकरण, जुताई और निर्माण-कार्य के कारण 90% तक घट गया है। स्वीडन में इसके लिए एक राष्ट्रीय कार्य योजना है। नीदरलैंड्स में इसे पहली बार 2013 में तटीय टीलों में पहचाना गया, जहाँ P. abietina के कुछ पुराने अभिलेख संभवतः इसी के हैं।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Mala, zdepasta, gusto razgranata koraljasta gljiva otvorenih, suhih i na hranjiva siromašnih vapnenačkih ili pjeskovitih travnjaka, kamenjarskih stepa i sivih obalnih dina, sa sigurnošću poznata samo s raštrkanih nalazišta u Europi, ponajviše u Švedskoj, Nizozemskoj, Danskoj, Njemačkoj, Švicarskoj, Austriji i Češkoj; nalazi iz drugih europskih zemalja i jedan nalaz iz Meksika nisu potvrđeni.",
+      "cap": "Zaseban klobuk ne postoji. Plodno tijelo je nizak, zdepast koralj, obično visok 2–3,5 cm i širok 1–2,5 cm, rijetko visok do oko 5 cm, koji se višestruko grana već od donjeg ili srednjeg dijela. Zbijene grančice su uspravne, pomalo savijene i uzdužno naborane, s uskim račvama oblika slova U ili V, a završavaju brojnim sitnim šiljastim vršcima. Mlada je blijedožuta do krem, poslije okerastožuta do okerastosmeđa, a starija plodna tijela često poprime zelenkaste ili maslinaste tonove.",
+      "hymenium": "Površina koja nosi spore je glatka i prekriva grančice. Na svježim plodnim tijelima kap KOH brzo je oboji svijetlosmeđe, kestenjasto ili tamno purpurnosmeđe, dok meso ne reagira. Bazidije su usko batičaste, oko 38–70 × 5–7(–8) µm, obično sa četiri spore, s kopčom u osnovi.",
+      "stipe": "Postoji samo kratka, jednostavna osnova, obično debela svega 1–4 mm i često duboko uronjena u tlo. Njezin donji kraj je bijel i nosi uočljive bijele, razgranate rizomorfe prekrivene zvjezdastim kristalima.",
+      "flesh": "Meso je bjelkasto, čvrsto, ali krhko, i na rezu ne mijenja boju. Miris je odsutan ili slabo zemljast, a okus neizražen. Hifni sustav je monomitičan; hife imaju kopče i mjestimice su nabubrene uz septe.",
+      "sporePrint": "Otisak spora je žut. Spore su usko kapljičaste do valjkasto elipsoidne, oko 5–8(–9) × 3–4,5 µm, s jasnim apikulom i zelenkastožutom stijenkom fino ukrašenom bradavicama do kratkih bodlji visokih 0,2–0,5 µm.",
+      "habitat": "Vjerojatno je saprotrof i raste pojedinačno ili u malim skupinama na tlu među niskim mahovinama, često u gustim sagovima roda Hypnum, i prizemnim lišajevima poput roda Cladonia, u rijetkim, napasivanim ili ugaženim suhim i polusuhim travnjacima, na stepolikim obalama i u kamenjarskim stepama na vapnenačkom pijesku, šljunku, vapnencu ili vulkanskoj stijeni. Plodna tijela tvori od kasnog ljeta do rane zime, često još u studenom.",
+      "uses": "Smatra se nejestivom i možda otrovnom.",
+      "confusion": "Phaeoclavulina flaccida gotovo je jednaka i ima gotovo iste spore, ali raste uglavnom u šumi, pa bi se obje mogle pokazati jednom vrstom; reakcija himenija s KOH pomaže prepoznati P. roellinii. P. clavarioides ima uglavnom nerazgranat stručak s grančicama ponajviše pri vrhu, gorak okus i drukčije oblikovane kristale na rizomorfima. P. abietina također zeleni, ali raste ispod četinjača. P. decurrens raste uz listopadno drveće, P. eumorpha ima veće spore i nepravilne kristale na rizomorfima, a sredozemna P. quercus-ilicis raste u listincu listača. Plodno tijelo ubrano bez bijelih rizomorfa moglo bi se zamijeniti i s P. murrillii ili s vrstama rodova Clavulinopsis i Ramariopsis.",
+      "notes": "Procjena iz 2019. svrstava je na svjetskoj razini među osjetljive vrste (Vulnerable): tada je bila potvrđena s manje od 30 nalazišta i vezana je uz suhe vapnenačke travnjake, stanište koje se u dijelovima Europe u posljednjem stoljeću smanjilo i do 90 % zbog napuštanja ispaše, gnojidbe, zakiseljavanja, preoravanja i izgradnje. Švedska za nju ima nacionalni akcijski plan. U Nizozemskoj je prvi put prepoznata 2013. u obalnim dinama, gdje neki stariji nalazi P. abietina vjerojatno pripadaju njoj.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Kicsi, zömök, sűrűn elágazó korallgomba, amely nyílt, száraz és tápanyagszegény meszes vagy homokos gyepekben, sziklagyepekben és szürke tengerparti dűnéken él, és biztosan csak szórványos európai lelőhelyekről ismert, főként Svédországból, Hollandiából, Dániából, Németországból, Svájcból, Ausztriából és Csehországból; a további európai országokból származó adatok és egyetlen mexikói lelet nincsenek megerősítve.",
+      "cap": "Különálló kalapja nincs. A termőtest alacsony, zömök korall, általában 2–3,5 cm magas és 1–2,5 cm széles, ritkán körülbelül 5 cm magasra is megnő, és már az alsó vagy középső részétől ismételten elágazik. A sűrűn álló ágak felállók, kissé ívesek és hosszában ráncosak, szűk U- vagy V-alakú elágazási szögekkel, és számos apró, hegyes csúcsban végződnek. Fiatalon halványsárga vagy krémszínű, később okkersárga vagy okkerbarna, az idősebb termőtestek pedig gyakran zöldes vagy olívás árnyalatot kapnak.",
+      "hymenium": "A spóratermő felszín sima, és az ágakat borítja. Friss termőtesten egy csepp KOH gyorsan halványbarnára, gesztenyebarnára vagy sötét bíborbarnára színezi, a hús viszont nem reagál. A bazídiumok keskeny bunkó alakúak, körülbelül 38–70 × 5–7(–8) µm-esek, többnyire négyspórásak, tövükön csattal.",
+      "stipe": "Csak egy rövid, egyszerű tönkrésze van, általában csupán 1–4 mm vastag, és gyakran mélyen a talajba süllyed. Legalsó része fehér, és feltűnő fehér, elágazó rizomorfákat visel, amelyeket csillag alakú kristályok borítanak.",
+      "flesh": "A hús fehéres, kemény, de törékeny, és vágásra nem színeződik. Szaga nincs vagy gyengén földszerű, íze jellegtelen. A hifarendszer monomitikus; a hifák csatosak, és a szeptumoknál helyenként duzzadtak.",
+      "sporePrint": "A spórapor sárga. A spórák keskeny csepp alakúak vagy hengeres-ellipszoidok, körülbelül 5–8(–9) × 3–4,5 µm-esek, jól látható apikulusszal és zöldessárga fallal, amelyet finom szemölcsök vagy 0,2–0,5 µm magas rövid tüskék díszítenek.",
+      "habitat": "Valószínűleg szaprotróf, és egyesével vagy kis csoportokban nő a talajon alacsony mohák, gyakran sűrű Hypnum-gyepek, valamint talajlakó zuzmók, például Cladonia fajok között, ritkás, legeltetett vagy taposott száraz és félszáraz gyepekben, sztyeppszerű tengerpartokon és sziklagyepekben, meszes homokon, kavicson, mészkövön vagy vulkáni kőzeten. Késő nyártól kora télig terem, gyakran még novemberben is.",
+      "uses": "Ehetetlennek és talán mérgezőnek tartják.",
+      "confusion": "A Phaeoclavulina flaccida szinte azonos, és spórái is majdnem ugyanolyanok, de főként erdőben nő, és a kettő akár egy fajnak is bizonyulhat; a himénium KOH-reakciója segít felismerni a P. roellinii fajt. A P. clavarioides tönkje nagyrészt elágazás nélküli, ágai főleg a csúcson vannak, íze keserű, és rizomorfáin másféle alakú kristályok ülnek. A P. abietina szintén zöldül, de tűlevelűek alatt nő. A P. decurrens lombos fák mellett nő, a P. eumorpha spórái nagyobbak, rizomorfáin szabálytalan kristályok vannak, a mediterrán P. quercus-ilicis pedig lombos fák avarjában nő. A fehér rizomorfák nélkül gyűjtött termőtest a P. murrillii fajjal vagy a Clavulinopsis és Ramariopsis nemzetség fajaival is összetéveszthető.",
+      "notes": "Egy 2019-es értékelés világszinten sebezhetőnek (Vulnerable) minősíti: akkor kevesebb mint 30 lelőhelyről volt megerősítve, és a száraz meszes gyepekhez kötődik, egy olyan élőhelyhez, amely Európa egyes részein az elmúlt évszázadban akár 90%-kal is csökkent a legeltetés felhagyása, a trágyázás, a savanyodás, a feltörés és a beépítés miatt. Svédországban nemzeti cselekvési terv készült a védelmére. Hollandiában 2013-ban ismerték fel először a tengerparti dűnékben, ahol a P. abietina néhány régebbi adata valószínűleg erre a fajra vonatkozik.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "id": {
+      "description": "Jamur karang kecil, kompak, dan bercabang rapat yang hidup di padang rumput terbuka, kering, dan miskin hara di tanah berkapur atau berpasir, stepa berbatu, serta bukit pasir pantai yang kelabu; dengan pasti hanya diketahui dari lokasi-lokasi tersebar di Eropa, terutama Swedia, Belanda, Denmark, Jerman, Swiss, Austria, dan Ceko; laporan dari negara Eropa lainnya dan satu catatan dari Meksiko belum dikonfirmasi.",
+      "cap": "Tidak ada tudung tersendiri. Tubuh buahnya berupa karang rendah dan kompak, biasanya tinggi 2–3,5 cm dan lebar 1–2,5 cm, jarang hingga sekitar 5 cm tingginya, yang bercabang berulang kali sejak bagian bawah atau tengah. Cabang-cabangnya rapat, tegak, agak melengkung, dan berkerut memanjang, dengan ketiak cabang sempit berbentuk U hingga V, serta berakhir dengan banyak ujung kecil yang runcing. Saat muda berwarna kuning pucat hingga krem, lalu kuning oker hingga cokelat oker, dan tubuh buah tua sering memperoleh nuansa kehijauan atau zaitun.",
+      "hymenium": "Permukaan penghasil spora halus dan menutupi cabang-cabang. Pada tubuh buah segar, setetes KOH dengan cepat mengubahnya menjadi cokelat pucat, cokelat kastanye, atau cokelat keunguan gelap, sedangkan dagingnya tidak bereaksi. Basidia berbentuk gada sempit, sekitar 38–70 × 5–7(–8) µm, biasanya bersepora empat, dengan sambungan apit di pangkalnya.",
+      "stipe": "Hanya ada pangkal pendek yang sederhana, biasanya hanya setebal 1–4 mm dan sering terbenam dalam di tanah. Ujung paling bawahnya putih dan membawa rizomorf putih bercabang yang mencolok, tertutup kristal berbentuk bintang.",
+      "flesh": "Dagingnya keputihan, padat tetapi rapuh, dan tidak berubah warna ketika dipotong. Baunya tidak ada atau samar seperti tanah, dan rasanya tidak khas. Sistem hifanya monomitik; hifa memiliki sambungan apit dan setempat menggembung di dekat sekat.",
+      "sporePrint": "Cetakan sporanya kuning. Spora berbentuk tetes air sempit hingga silindris-elipsoid, sekitar 5–8(–9) × 3–4,5 µm, dengan apikulus jelas dan dinding kuning kehijauan yang berhias halus berupa kutil hingga duri pendek setinggi 0,2–0,5 µm.",
+      "habitat": "Jamur ini kemungkinan besar saprotrof dan tumbuh soliter atau dalam kelompok kecil di tanah di antara lumut rendah, sering hamparan rapat Hypnum, dan lumut kerak tanah seperti Cladonia, di padang rumput kering dan setengah kering yang jarang, digembalai, atau terinjak, di pantai bercorak stepa, dan di stepa berbatu di atas pasir berkapur, kerikil, batu kapur, atau batuan vulkanik. Tubuh buah muncul dari akhir musim panas hingga awal musim dingin, sering masih pada bulan November.",
+      "uses": "Jamur ini dianggap tidak dapat dimakan dan mungkin beracun.",
+      "confusion": "Phaeoclavulina flaccida hampir identik dan sporanya hampir sama, tetapi terutama tumbuh di hutan, dan keduanya mungkin ternyata satu spesies; reaksi himenium terhadap KOH membantu mengenali P. roellinii. P. clavarioides memiliki tangkai yang sebagian besar tidak bercabang dengan cabang terutama di puncak, rasa pahit, dan kristal berbentuk lain pada rizomorfnya. P. abietina juga menjadi kehijauan, tetapi tumbuh di bawah pohon konifer. P. decurrens tumbuh bersama pohon gugur daun, P. eumorpha memiliki spora lebih besar dan kristal tidak beraturan pada rizomorfnya, sedangkan P. quercus-ilicis dari Mediterania tumbuh di serasah pohon berdaun lebar. Tubuh buah yang dikumpulkan tanpa rizomorf putihnya juga dapat tertukar dengan P. murrillii atau dengan spesies Clavulinopsis dan Ramariopsis.",
+      "notes": "Penilaian tahun 2019 menggolongkannya secara global sebagai rentan (Vulnerable): saat itu jamur ini dikonfirmasi dari kurang dari 30 lokasi dan terikat pada padang rumput berkapur yang kering, habitat yang di sebagian Eropa telah menyusut hingga 90% selama abad terakhir akibat berhentinya penggembalaan, pemupukan, pengasaman, pembajakan, dan pembangunan. Swedia memiliki rencana aksi nasional untuknya. Di Belanda jamur ini pertama kali dikenali pada tahun 2013 di bukit pasir pantai, tempat sebagian catatan lama P. abietina kemungkinan termasuk spesies ini.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Piccolo fungo coralloide, tozzo e fittamente ramificato, di praterie aperte, aride e povere di nutrienti su suoli calcarei o sabbiosi, steppe rocciose e dune grigie costiere, noto con certezza solo da località sparse in Europa, soprattutto in Svezia, Paesi Bassi, Danimarca, Germania, Svizzera, Austria e Cechia; le segnalazioni da altri paesi europei e un’unica segnalazione dal Messico non sono confermate.",
+      "cap": "Non c’è un cappello distinto. Il corpo fruttifero è un corallo basso e tozzo, di solito alto 2–3,5 cm e largo 1–2,5 cm, raramente alto fino a circa 5 cm, che si ramifica ripetutamente già dalla parte inferiore o mediana. I rami fitti sono eretti, un po’ incurvati e rugosi in senso longitudinale, con ascelle strette a U o a V, e terminano con numerose piccole punte acute. Da giovane è giallo pallido o crema, poi giallo ocra o bruno ocra, e i corpi fruttiferi vecchi assumono spesso toni verdastri o olivastri.",
+      "hymenium": "La superficie fertile è liscia e riveste i rami. Sui corpi fruttiferi freschi una goccia di KOH la colora rapidamente di bruno pallido, castano o bruno porpora scuro, mentre la carne non reagisce. I basidi sono strettamente claviformi, di circa 38–70 × 5–7(–8) µm, di solito tetrasporici, con un giunto a fibbia alla base.",
+      "stipe": "C’è solo una base corta e semplice, di solito spessa appena 1–4 mm e spesso profondamente infossata nel terreno. L’estremità basale è bianca e porta vistose rizomorfe bianche e ramificate, coperte di cristalli stellati.",
+      "flesh": "La carne è biancastra, soda ma fragile, e al taglio non cambia colore. L’odore è assente o debolmente terroso e il sapore indistinto. Il sistema ifale è monomitico; le ife hanno giunti a fibbia e sono localmente rigonfie ai setti.",
+      "sporePrint": "La sporata è gialla. Le spore sono strettamente lacrimiformi o cilindrico-ellissoidi, di circa 5–8(–9) × 3–4,5 µm, con apicolo evidente e parete giallo verdastra finemente ornata di verruche o brevi spine alte 0,2–0,5 µm.",
+      "habitat": "È probabilmente saprotrofo e cresce isolato o in piccoli gruppi sul terreno tra muschi bassi, spesso fitti tappeti di Hypnum, e licheni terricoli come Cladonia, in praterie aride e semiaride rade, pascolate o calpestate, su coste di aspetto steppico e in steppe rocciose, su sabbia calcarea, ghiaia, calcare o roccia vulcanica. Fruttifica dalla fine dell’estate all’inizio dell’inverno, spesso ancora a novembre.",
+      "uses": "È considerato non commestibile e forse tossico.",
+      "confusion": "Phaeoclavulina flaccida è quasi identica e ha spore quasi uguali, ma cresce soprattutto nei boschi, e le due potrebbero rivelarsi un’unica specie; la reazione dell’imenio al KOH aiuta a riconoscere P. roellinii. P. clavarioides ha un gambo in gran parte non ramificato con rami soprattutto all’apice, sapore amaro e cristalli di forma diversa sulle rizomorfe. Anche P. abietina inverdisce, ma cresce sotto le conifere. P. decurrens cresce con latifoglie, P. eumorpha ha spore più grandi e cristalli irregolari sulle rizomorfe, e la mediterranea P. quercus-ilicis cresce nella lettiera di latifoglie. Un corpo fruttifero raccolto senza le rizomorfe bianche potrebbe essere scambiato anche per P. murrillii o per specie di Clavulinopsis e Ramariopsis.",
+      "notes": "Una valutazione del 2019 lo classifica a livello mondiale come vulnerabile (Vulnerable): allora era confermato in meno di 30 località ed è legato alle praterie calcaree aride, un habitat che in parti d’Europa nell’ultimo secolo si è ridotto fino al 90% per abbandono del pascolo, concimazione, acidificazione, messa a coltura e urbanizzazione. La Svezia ha per esso un piano d’azione nazionale. Nei Paesi Bassi è stato riconosciuto per la prima volta nel 2013 nelle dune costiere, dove alcune vecchie segnalazioni di P. abietina probabilmente si riferiscono a esso.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "開けた乾燥した貧栄養の石灰質または砂質の草地、岩石ステップ、灰色の海岸砂丘に生える、小型でずんぐりとし、密に分枝するホウキタケ型のきのこで、確実に知られているのはヨーロッパの点在する産地のみで、主にスウェーデン、オランダ、デンマーク、ドイツ、スイス、オーストリア、チェコである。ヨーロッパの他の国々からの報告とメキシコからの唯一の記録は確認されていない。",
+      "cap": "独立した傘はない。子実体は低くずんぐりとしたサンゴ状で、通常高さ2–3.5 cm、幅1–2.5 cm、まれに高さ約5 cmに達し、下部または中部から繰り返し分枝する。密集した枝は直立し、やや曲がり、縦にしわがあり、分岐部は狭いU字形からV字形で、多数の小さな尖った先端に終わる。若いときは淡黄色からクリーム色、のち黄土黄色から黄土褐色になり、古い子実体はしばしば緑色やオリーブ色を帯びる。",
+      "hymenium": "胞子をつくる面は平滑で枝を覆う。新鮮な子実体ではKOHを一滴たらすと速やかに淡褐色から栗色、または暗紫褐色に変わるが、肉は反応しない。担子器は細い棍棒形で、約38–70 × 5–7(–8) µm、通常4胞子性で、基部にクランプがある。",
+      "stipe": "短く単純な基部があるだけで、太さは通常わずか1–4 mmで、しばしば土中深く埋もれる。最下部は白く、星形の結晶に覆われた目立つ白い分枝した根状菌糸束をつける。",
+      "flesh": "肉は白っぽく、締まっているがもろく、切っても変色しない。においはないか、かすかに土臭く、味ははっきりしない。菌糸系は一菌糸型で、菌糸にはクランプがあり、隔壁のところで部分的に膨らむ。",
+      "sporePrint": "胞子紋は黄色。胞子は細い涙滴形から円柱状楕円形で、約5–8(–9) × 3–4.5 µm、明瞭なアピクルスがあり、緑黄色の壁は高さ0.2–0.5 µmの細かいいぼから短いとげで装飾される。",
+      "habitat": "おそらく腐生性で、低いコケ類、しばしばHypnumの密なマット、およびCladoniaなどの地上生地衣類の間の地上に単生または小群生する。まばらで放牧または踏圧を受けた乾燥・半乾燥草地、ステップ状の海岸、岩石ステップの石灰質の砂、礫、石灰岩または火山岩の上に見られる。晩夏から初冬にかけて発生し、11月になっても見られることが多い。",
+      "uses": "食用不適で、有毒の可能性もあるとされる。",
+      "confusion": "Phaeoclavulina flaccidaはほぼ同じで胞子もほとんど変わらないが、主に林内に生え、両者は同一種と判明する可能性もある。子実層のKOH反応はP. roelliniiの識別に役立つ。P. clavarioidesは柄の大部分が分枝せず、枝は主に先端部にあり、味は苦く、根状菌糸束上の結晶の形が異なる。P. abietinaも緑変するが、針葉樹の下に生える。P. decurrensは落葉樹とともに生え、P. eumorphaは胞子が大きく根状菌糸束上の結晶が不規則で、地中海地域のP. quercus-ilicisは広葉樹の落葉層に生える。白い根状菌糸束を付けずに採集した子実体は、P. murrilliiやClavulinopsis属、Ramariopsis属の種とも間違えられうる。",
+      "notes": "2019年の評価では世界的に危急種(Vulnerable)とされている。当時確認されていた産地は30か所未満で、乾燥した石灰質草地に依存しており、この生息地はヨーロッパの一部で前世紀の間に放牧の放棄、施肥、酸性化、耕作、開発によって最大90%減少した。スウェーデンには本種のための国の行動計画がある。オランダでは2013年に海岸砂丘で初めて認識され、そこでのP. abietinaの古い記録の一部はおそらく本種である。",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ko": {
+      "description": "트이고 건조하며 영양이 부족한 석회질 또는 모래질 초지, 암석 스텝, 회색 해안 사구에 나는 작고 땅딸막하며 빽빽하게 가지를 치는 산호형 버섯으로, 확실하게는 유럽의 흩어진 산지에서만 알려져 있으며 주로 스웨덴, 네덜란드, 덴마크, 독일, 스위스, 오스트리아, 체코에서 기록되었다. 유럽의 다른 나라들과 멕시코의 단 한 건의 기록은 확인되지 않았다.",
+      "cap": "따로 갓은 없다. 자실체는 낮고 땅딸막한 산호 모양으로 보통 높이 2–3.5 cm, 너비 1–2.5 cm이고 드물게 높이 약 5 cm까지 자라며, 아래쪽이나 중간 부분부터 거듭 가지를 친다. 촘촘한 가지는 곧추서고 약간 휘며 세로로 주름지고, 갈라지는 곳은 좁은 U자형에서 V자형이며, 수많은 작고 뾰족한 끝으로 끝난다. 어릴 때는 연한 노란색에서 크림색이고, 나중에 황토노란색에서 황토갈색이 되며, 오래된 자실체는 흔히 녹색이나 올리브색 기운을 띤다.",
+      "hymenium": "포자를 만드는 표면은 매끈하고 가지를 덮는다. 신선한 자실체에 KOH를 한 방울 떨어뜨리면 빠르게 연갈색, 밤색 또는 짙은 자갈색으로 변하지만 살은 반응하지 않는다. 담자기는 좁은 곤봉형이고 약 38–70 × 5–7(–8) µm이며, 보통 포자가 4개이고 기부에 꺾쇠연결이 있다.",
+      "stipe": "짧고 단순한 기부만 있으며, 굵기는 보통 1–4 mm에 불과하고 흔히 땅속 깊이 묻혀 있다. 맨 아래쪽은 흰색이며 별 모양 결정으로 덮인 뚜렷한 흰색의 갈라진 근상균사속이 붙어 있다.",
+      "flesh": "살은 흰빛을 띠고 단단하지만 부서지기 쉬우며 자르면 색이 변하지 않는다. 냄새는 없거나 약하게 흙냄새가 나고 맛은 뚜렷하지 않다. 균사 조직은 일균사형이며, 균사에는 꺾쇠연결이 있고 격벽 부근이 군데군데 부풀어 있다.",
+      "sporePrint": "포자문은 노란색이다. 포자는 좁은 눈물방울형에서 원통형-타원체형이고 약 5–8(–9) × 3–4.5 µm이며, 뚜렷한 돌기점이 있고 녹황색 벽은 높이 0.2–0.5 µm의 가는 사마귀 돌기에서 짧은 가시로 장식되어 있다.",
+      "habitat": "아마도 부생성이며, 낮은 이끼류, 흔히 빽빽한 Hypnum 융단과 Cladonia 같은 땅 위 지의류 사이의 땅에 홀로 또는 작은 무리로 난다. 듬성듬성하거나 방목 또는 답압을 받은 건조·반건조 초지, 스텝 같은 해안, 암석 스텝의 석회질 모래, 자갈, 석회암 또는 화산암 위에서 볼 수 있다. 늦여름부터 초겨울까지 발생하며, 11월에도 흔히 보인다.",
+      "uses": "식용할 수 없으며 독이 있을 수도 있는 것으로 여겨진다.",
+      "confusion": "Phaeoclavulina flaccida는 거의 똑같고 포자도 거의 같지만 주로 숲에서 나며, 두 종이 하나의 종으로 밝혀질 수도 있다. 자실층의 KOH 반응은 P. roellinii를 알아보는 데 도움이 된다. P. clavarioides는 자루가 대부분 갈라지지 않고 가지가 주로 꼭대기에 있으며, 맛이 쓰고 근상균사속의 결정 모양이 다르다. P. abietina도 녹색으로 변하지만 침엽수 아래에 난다. P. decurrens는 낙엽수와 함께 나고, P. eumorpha는 포자가 더 크고 근상균사속의 결정이 불규칙하며, 지중해의 P. quercus-ilicis는 활엽수 낙엽층에 난다. 흰 근상균사속 없이 채집한 자실체는 P. murrillii나 Clavulinopsis 및 Ramariopsis 종과도 혼동될 수 있다.",
+      "notes": "2019년 평가에서는 전 세계적으로 취약종(Vulnerable)으로 분류된다. 당시 확인된 산지는 30곳 미만이었고, 건조한 석회질 초지에 의존하는데, 이 서식지는 유럽 일부 지역에서 지난 세기 동안 방목 중단, 시비, 산성화, 경작, 개발으로 최대 90%까지 줄었다. 스웨덴에는 이 종을 위한 국가 행동 계획이 있다. 네덜란드에서는 2013년 해안 사구에서 처음 인식되었으며, 그곳의 P. abietina 옛 기록 일부는 아마 이 종에 해당할 것이다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Mažas, kresnas, tankiai šakotas koralinis grybas, augantis atvirose, sausose ir maistingųjų medžiagų stokojančiose kalkingose ar smėlingose pievose, uolinėse stepėse ir pilkosiose pajūrio kopose; patikimai žinomas tik iš pavienių vietų Europoje, daugiausia Švedijoje, Nyderlanduose, Danijoje, Vokietijoje, Šveicarijoje, Austrijoje ir Čekijoje; pranešimai iš kitų Europos šalių ir vienintelis radinys Meksikoje nepatvirtinti.",
+      "cap": "Atskiros kepurėlės nėra. Vaisiakūnis – žemas, kresnas koralas, paprastai 2–3,5 cm aukščio ir 1–2,5 cm pločio, retai iki maždaug 5 cm aukščio, pakartotinai šakotas jau nuo apatinės ar vidurinės dalies. Susispaudusios šakelės stačios, šiek tiek išlinkusios ir išilgai raukšlėtos, su siauromis U ar V formos išsišakojimo vietomis, ir baigiasi gausiomis mažomis smailiomis viršūnėlėmis. Jaunas jis blyškiai geltonas ar kreminis, vėliau ochriškai geltonas ar ochriškai rudas, o senesni vaisiakūniai dažnai įgauna žalsvų ar alyvinių atspalvių.",
+      "hymenium": "Sporas nešantis paviršius lygus ir dengia šakeles. Ant šviežių vaisiakūnių KOH lašas jį greitai nudažo šviesiai rudai, kaštoniškai ar tamsiai purpuriškai rudai, o minkštimas nereaguoja. Bazidės siaurai buožiškos, apie 38–70 × 5–7(–8) µm, dažniausiai keturių sporų, su sagtimi prie pagrindo.",
+      "stipe": "Yra tik trumpas, paprastas pagrindas, paprastai tik 1–4 mm storio ir dažnai giliai įsmigęs į dirvą. Jo pati apačia balta, su ryškiais baltais, šakotais rizomorfais, padengtais žvaigždiškais kristalais.",
+      "flesh": "Minkštimas balsvas, tvirtas, bet trapus, perpjautas spalvos nekeičia. Kvapo nėra arba jis silpnai žemiškas, skonis neišsiskiriantis. Hifų sistema monomitinė; hifos su sagtimis, prie pertvarų vietomis išsipūtusios.",
+      "sporePrint": "Sporų milteliai geltoni. Sporos siaurai lašo formos ar cilindriškai elipsoidinės, apie 5–8(–9) × 3–4,5 µm, su aiškiu apikulu ir žalsvai geltona sienele, smulkiai padengta karpelėmis ar trumpais 0,2–0,5 µm aukščio dygliukais.",
+      "habitat": "Tikriausiai saprotrofas; auga pavieniui ar mažomis grupėmis ant žemės tarp žemų samanų, dažnai tankių Hypnum kilimų, ir dirvinių kerpių, pavyzdžiui, Cladonia, retose, ganomose ar mindomose sausose ir pusiau sausose pievose, stepinio pobūdžio pajūriuose ir uolinėse stepėse ant kalkingo smėlio, žvyro, klinčių ar vulkaninių uolienų. Vaisiakūnius sudaro nuo vėlyvos vasaros iki ankstyvos žiemos, dažnai dar lapkritį.",
+      "uses": "Laikomas nevalgomu ir galbūt nuodingu.",
+      "confusion": "Phaeoclavulina flaccida beveik tokia pati ir turi beveik tokias pačias sporas, bet auga daugiausia miškuose, ir abi gali pasirodyti esančios viena rūšis; himenio reakcija su KOH padeda atpažinti P. roellinii. P. clavarioides turi daugiausia nešakotą kotą su šakelėmis daugiausia viršuje, kartų skonį ir kitokios formos kristalus ant rizomorfų. P. abietina taip pat žaliuoja, bet auga po spygliuočiais. P. decurrens auga prie lapuočių, P. eumorpha turi didesnes sporas ir netaisyklingus kristalus ant rizomorfų, o Viduržemio jūros regiono P. quercus-ilicis auga lapuočių paklotėje. Be baltų rizomorfų surinktą vaisiakūnį taip pat galima supainioti su P. murrillii arba su Clavulinopsis ir Ramariopsis rūšimis.",
+      "notes": "2019 m. vertinime jis pasauliniu mastu priskirtas pažeidžiamoms rūšims (Vulnerable): tada jis buvo patvirtintas mažiau nei 30 vietų ir yra susijęs su sausomis kalkingomis pievomis – buveine, kuri kai kuriose Europos dalyse per pastarąjį šimtmetį sumažėjo iki 90 % dėl nutraukto ganymo, tręšimo, rūgštėjimo, arimo ir užstatymo. Švedija turi jam skirtą nacionalinį veiksmų planą. Nyderlanduose jis pirmą kartą atpažintas 2013 m. pajūrio kopose, kur dalis senesnių P. abietina radinių greičiausiai priklauso jam.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lv": {
+      "description": "Neliela, drukna, blīvi zarota koraļveida sēne, kas aug atklātos, sausos un barības vielām nabadzīgos kaļķainos vai smilšainos zālājos, klinšu stepēs un pelēkajās piekrastes kāpās; ar pārliecību zināma tikai no izkaisītām vietām Eiropā, galvenokārt Zviedrijā, Nīderlandē, Dānijā, Vācijā, Šveicē, Austrijā un Čehijā; ziņas no citām Eiropas valstīm un viens atradums Meksikā nav apstiprināti.",
+      "cap": "Atsevišķas cepurītes nav. Augļķermenis ir zems, drukns koralis, parasti 2–3,5 cm augsts un 1–2,5 cm plats, reti līdz aptuveni 5 cm augsts, kas atkārtoti zarojas jau no apakšējās vai vidējās daļas. Ciešie zari ir stāvi, nedaudz izliekti un gareniski krunkaini, ar šaurām U vai V veida žāklēm, un beidzas ar daudzām sīkām smailām galotnēm. Jaunībā tā ir bāli dzeltena līdz krēmkrāsas, vēlāk okerdzeltena līdz okerbrūna, un vecāki augļķermeņi bieži iegūst zaļganus vai olīvkrāsas toņus.",
+      "hymenium": "Sporas nesošā virsma ir gluda un klāj zarus. Uz svaigiem augļķermeņiem KOH piliens to ātri iekrāso gaiši brūnu, kastaņbrūnu vai tumši purpurbrūnu, bet mīkstums nereaģē. Bazīdijas ir šauri vālesveida, apmēram 38–70 × 5–7(–8) µm, parasti četrsporu, ar sprādzi pie pamatnes.",
+      "stipe": "Ir tikai īsa, vienkārša pamatne, parasti tikai 1–4 mm resna un bieži dziļi iegrimusi augsnē. Tās pati apakšdaļa ir balta un nes uzkrītošas baltas, zarotas rizomorfas, kas klātas ar zvaigžņveida kristāliem.",
+      "flesh": "Mīkstums ir bālgans, stingrs, bet trausls, un griezumā krāsu nemaina. Smaržas nav vai tā ir vāji zemaina, un garša ir neizteikta. Hifu sistēma ir monomītiska; hifām ir sprādzes, un pie starpsienām tās vietām ir uzbriedušas.",
+      "sporePrint": "Sporu pulveris ir dzeltens. Sporas ir šauri pilienveida līdz cilindriski elipsoīdas, apmēram 5–8(–9) × 3–4,5 µm, ar skaidru apikulu un zaļgani dzeltenu sieniņu, ko smalki klāj kārpiņas līdz īsi 0,2–0,5 µm augsti dzelonīši.",
+      "habitat": "Tā, iespējams, ir saprotrofa un aug pa vienai vai nelielās grupās uz zemes starp zemām sūnām, bieži blīvos Hypnum paklājos, un augsnes ķērpjiem, piemēram, Cladonia, retos, noganītos vai nomīdītos sausos un pussausos zālājos, stepveida jūrmalās un klinšu stepēs uz kaļķainām smiltīm, grants, kaļķakmens vai vulkāniskiem iežiem. Augļķermeņus veido no vēlas vasaras līdz agrai ziemai, bieži vēl novembrī.",
+      "uses": "To uzskata par neēdamu un, iespējams, indīgu.",
+      "confusion": "Phaeoclavulina flaccida ir gandrīz identiska, ar gandrīz tādām pašām sporām, bet aug galvenokārt mežā, un abas var izrādīties viena suga; himēnija reakcija ar KOH palīdz atpazīt P. roellinii. P. clavarioides ir lielākoties nezarots kātiņš ar zariem galvenokārt galotnē, rūgta garša un citādas formas kristāli uz rizomorfām. Arī P. abietina kļūst zaļgana, bet aug zem skujkokiem. P. decurrens aug pie lapu kokiem, P. eumorpha ir lielākas sporas un neregulāri kristāli uz rizomorfām, bet Vidusjūras P. quercus-ilicis aug lapu koku nobirās. Augļķermeni, kas savākts bez baltajām rizomorfām, var sajaukt arī ar P. murrillii vai ar Clavulinopsis un Ramariopsis sugām.",
+      "notes": "2019. gada novērtējumā tā pasaulē klasificēta kā jutīga (Vulnerable): toreiz tā bija apstiprināta mazāk nekā 30 atradnēs un ir saistīta ar sausiem kaļķainiem zālājiem — dzīvotni, kas daļā Eiropas pēdējā gadsimtā sarukusi līdz pat 90 % ganīšanas pārtraukšanas, mēslošanas, paskābināšanās, uzaršanas un apbūves dēļ. Zviedrijā tai ir nacionālais rīcības plāns. Nīderlandē tā pirmo reizi atpazīta 2013. gadā piekrastes kāpās, kur daļa vecāku P. abietina atradumu, visticamāk, attiecas uz to.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "nl": {
+      "description": "Een kleine, gedrongen, dicht vertakte koraalzwam van open, droge en voedselarme kalkrijke of zandige graslanden, rotssteppen en grijze kustduinen, die met zekerheid alleen bekend is van verspreide vindplaatsen in Europa, vooral in Zweden, Nederland, Denemarken, Duitsland, Zwitserland, Oostenrijk en Tsjechië; meldingen uit andere Europese landen en één vondst uit Mexico zijn niet bevestigd.",
+      "cap": "Er is geen afzonderlijke hoed. Het vruchtlichaam is een lage, gedrongen koraal van meestal 2–3,5 cm hoog en 1–2,5 cm breed, zelden tot ongeveer 5 cm hoog, die al vanaf het onderste of middelste deel herhaaldelijk vertakt. De dicht opeenstaande takken zijn omhoog gericht, enigszins gebogen en in de lengte gerimpeld, met smalle U- tot V-vormige vertakkingspunten, en eindigen in talrijke kleine spitse punten. Jong is hij bleekgeel tot crème, later okergeel tot okerbruin, en oudere vruchtlichamen krijgen vaak groenige of olijfkleurige tinten.",
+      "hymenium": "Het sporenvormende oppervlak is glad en bedekt de takken. Bij verse vruchtlichamen kleurt een druppel KOH het snel lichtbruin tot kastanjebruin of donker paarsbruin, terwijl het vlees niet reageert. De basidia zijn smal knotsvormig, ongeveer 38–70 × 5–7(–8) µm, meestal viersporig, met een gesp aan de basis.",
+      "stipe": "Er is alleen een korte, enkelvoudige voet, meestal slechts 1–4 mm dik en vaak diep in de bodem verzonken. De uiterste basis is wit en draagt opvallende witte, vertakte rizomorfen die bedekt zijn met stervormige kristallen.",
+      "flesh": "Het vlees is witachtig, stevig maar breekbaar, en verkleurt niet bij doorsnijden. De geur is afwezig tot zwak aards en de smaak is onopvallend. Het hyfensysteem is monomitisch; de hyfen hebben gespen en zijn bij de septa plaatselijk opgezwollen.",
+      "sporePrint": "De sporenprint is geel. De sporen zijn smal druppelvormig tot cilindrisch-ellipsoïd, ongeveer 5–8(–9) × 3–4,5 µm, met een duidelijke apiculus en een groenig gele wand die fijn bezet is met wratjes tot korte stekeltjes van 0,2–0,5 µm hoog.",
+      "habitat": "Hij is waarschijnlijk saprotroof en groeit alleen of in kleine groepjes op de grond tussen lage mossen, vaak in dichte tapijten van Hypnum, en bodemkorstmossen zoals Cladonia, in open, begraasde of betreden droge en halfdroge graslanden, steppeachtige kusten en rotssteppen op kalkrijk zand, grind, kalksteen of vulkanisch gesteente. Hij vormt vruchtlichamen van de late zomer tot het begin van de winter, vaak nog in november.",
+      "uses": "Hij geldt als oneetbaar en mogelijk giftig.",
+      "confusion": "Phaeoclavulina flaccida is vrijwel identiek en heeft bijna dezelfde sporen, maar groeit vooral in bossen, en beide kunnen één soort blijken te zijn; de KOH-reactie van het hymenium helpt om P. roellinii te herkennen. P. clavarioides heeft een grotendeels onvertakte steel met takken vooral bovenaan, een bittere smaak en anders gevormde kristallen op de rizomorfen. P. abietina wordt ook groenig, maar groeit onder naaldbomen. P. decurrens groeit bij loofbomen, P. eumorpha heeft grotere sporen en onregelmatige kristallen op de rizomorfen, en de mediterrane P. quercus-ilicis groeit in het strooisel van loofbomen. Een vruchtlichaam dat zonder de witte rizomorfen is verzameld, kan ook worden verward met P. murrillii of met soorten van Clavulinopsis en Ramariopsis.",
+      "notes": "Een beoordeling uit 2019 stuft hem wereldwijd in als kwetsbaar (Vulnerable): hij was toen van minder dan 30 vindplaatsen bevestigd en is gebonden aan droge kalkgraslanden, een leefgebied dat in delen van Europa in de afgelopen eeuw met tot 90% is afgenomen door het stoppen van begrazing, bemesting, verzuring, omploegen en bebouwing. Zweden heeft er een nationaal actieplan voor. In Nederland werd hij in 2013 voor het eerst herkend in de kustduinen, waar een deel van de oudere meldingen van P. abietina waarschijnlijk op deze soort betrekking heeft.",
+      "names": [],
+      "sourceUrls": [
+        "https://nl.wikipedia.org/wiki/Steppekoraalzwam",
+        "https://www.verspreidingsatlas.nl/0389220",
+        "https://api.gbif.org/v1/species/7921747/vernacularNames"
+      ],
+      "label": "steppekoraalzwam"
+    },
+    "no": {
+      "description": "En liten, kompakt og tett forgreinet korallsopp på åpne, tørre og næringsfattige kalk- eller sandenger, steinsteppe og grå kystdyner, som med sikkerhet bare er kjent fra spredte lokaliteter i Europa, særlig i Sverige, Nederland, Danmark, Tyskland, Sveits, Østerrike og Tsjekkia; angivelser fra andre europeiske land og ett enkelt funn fra Mexico er ubekreftet.",
+      "cap": "Det finnes ingen egentlig hatt. Fruktlegemet er en lav, kompakt korall, oftest 2–3,5 cm høy og 1–2,5 cm bred, sjelden opptil omkring 5 cm høy, som forgreiner seg gjentatte ganger fra den nedre eller midtre delen. De tettstilte greinene er opprette, litt bøyde og rynkete på langs, med smale U- til V-formede greinvinkler, og ender i tallrike små spisse topper. Ung er den blekgul til kremfarget, senere okergul til okerbrun, og eldre fruktlegemer får ofte grønnaktige eller olivenfargede toner.",
+      "hymenium": "Den sporebærende overflaten er glatt og dekker greinene. På ferske fruktlegemer farger en dråpe KOH den raskt lysebrun til kastanjebrun eller mørkt purpurbrun, mens kjøttet ikke reagerer. Basidiene er smalt kølleformede, omkring 38–70 × 5–7(–8) µm, oftest firesporede, med en bøyle ved basis.",
+      "stipe": "Det finnes bare en kort, enkel basis, oftest bare 1–4 mm tykk og ofte dypt nedsenket i jorda. Den ytterste basisen er hvit og bærer iøynefallende hvite, forgreinede rhizomorfer dekket av stjerneformede krystaller.",
+      "flesh": "Kjøttet er hvitaktig, fast men sprøtt og endrer ikke farge når det skjæres. Lukten mangler eller er svakt jordaktig, og smaken er utydelig. Hyfesystemet er monomittisk; hyfene har bøyler og er stedvis oppsvulmet ved septa.",
+      "sporePrint": "Sporepulveret er gult. Sporene er smalt dråpeformede til sylindrisk-ellipsoide, omkring 5–8(–9) × 3–4,5 µm, med tydelig apikulus og en grønngul vegg som er fint besatt med vorter til korte pigger 0,2–0,5 µm høye.",
+      "habitat": "Den er trolig saprotrof og vokser enkeltvis eller i små grupper på bakken blant lave moser, ofte tette tepper av Hypnum, og jordlav som Cladonia, i glisne, beitede eller nedtråkkede tørre og halvtørre gressmarker, steppeaktige strender og steinstepper på kalkholdig sand, grus, kalkstein eller vulkansk bergart. Den danner fruktlegemer fra sensommeren til tidlig vinter, ofte så sent som i november.",
+      "uses": "Den regnes som uspiselig og muligens giftig.",
+      "confusion": "Phaeoclavulina flaccida er nesten identisk og har nesten de samme sporene, men vokser mest i skog, og de to kan vise seg å være én art; KOH-reaksjonen på hymeniet hjelper til å kjenne igjen P. roellinii. P. clavarioides har en for det meste ugreinet stilk med greiner mest i toppen, bitter smak og annerledes formede krystaller på rhizomorfene. P. abietina blir også grønnaktig, men vokser under bartrær. P. decurrens vokser ved løvtrær, P. eumorpha har større sporer og uregelmessige krystaller på rhizomorfene, og den middelhavsutbredte P. quercus-ilicis vokser i strø av løvtrær. Et fruktlegeme som er samlet uten de hvite rhizomorfene, kan også forveksles med P. murrillii eller med arter av Clavulinopsis og Ramariopsis.",
+      "notes": "En vurdering fra 2019 angir den som globalt sårbar (Vulnerable): den var da bekreftet fra færre enn 30 lokaliteter og er knyttet til tørre kalkenger, et leveområde som i deler av Europa i løpet av det siste hundreåret har gått tilbake med opptil 90 % på grunn av opphørt beite, gjødsling, forsuring, oppdyrking og utbygging. Sverige har et nasjonalt handlingsprogram for den. I Nederland ble den først gjenkjent i 2013 i kystdynene, der noen eldre funn av P. abietina trolig hører til den.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "pl": {
+      "description": "Mały, przysadzisty, gęsto rozgałęziony grzyb koralowaty otwartych, suchych i ubogich w składniki pokarmowe muraw wapiennych lub piaszczystych, stepów skalnych i szarych wydm nadmorskich, znany z pewnością tylko z rozproszonych stanowisk w Europie, głównie w Szwecji, Holandii, Danii, Niemczech, Szwajcarii, Austrii i Czechach; doniesienia z innych krajów europejskich i jedno notowanie z Meksyku są niepotwierdzone.",
+      "cap": "Brak osobnego kapelusza. Owocnik jest niskim, przysadzistym koralem, zwykle o wysokości 2–3,5 cm i szerokości 1–2,5 cm, rzadko do około 5 cm wysokości, wielokrotnie rozgałęzionym już od dolnej lub środkowej części. Stłoczone gałązki są wzniesione, nieco wygięte i podłużnie pomarszczone, z wąskimi rozwidleniami w kształcie litery U lub V, i kończą się licznymi drobnymi, ostrymi ząbkami. Młody jest bladożółty do kremowego, potem ochrowożółty do ochrowobrązowego, a starsze owocniki często przybierają zielonkawe lub oliwkowe odcienie.",
+      "hymenium": "Powierzchnia zarodnikonośna jest gładka i pokrywa gałązki. Na świeżych owocnikach kropla KOH szybko barwi ją na jasnobrązowo do kasztanowobrązowego lub ciemnopurpurowobrązowego, podczas gdy miąższ nie reaguje. Podstawki są wąsko maczugowate, około 38–70 × 5–7(–8) µm, zwykle czterozarodnikowe, ze sprzążką u nasady.",
+      "stipe": "Jest tylko krótka, prosta podstawa, zwykle grubości zaledwie 1–4 mm i często głęboko zagłębiona w glebie. Jej sam spód jest biały i nosi wyraźne białe, rozgałęzione ryzomorfy pokryte gwiazdkowatymi kryształami.",
+      "flesh": "Miąższ jest białawy, jędrny, ale kruchy, i nie zmienia barwy po przekrojeniu. Zapach jest niewyczuwalny lub słabo ziemisty, a smak niewyraźny. System strzępkowy jest monomityczny; strzępki mają sprzążki i są miejscami rozdęte przy przegrodach.",
+      "sporePrint": "Wysyp zarodników jest żółty. Zarodniki są wąsko łezkowate do cylindryczno-elipsoidalnych, około 5–8(–9) × 3–4,5 µm, z wyraźnym apikulusem i zielonkawożółtą ścianą drobno ornamentowaną brodawkami do krótkich kolców o wysokości 0,2–0,5 µm.",
+      "habitat": "Prawdopodobnie jest saprotrofem i rośnie pojedynczo lub w małych grupach na ziemi wśród niskich mchów, często w gęstych darniach Hypnum, oraz porostów naziemnych, takich jak Cladonia, w luźnych, wypasanych lub wydeptywanych murawach suchych i półsuchych, na stepowych wybrzeżach i w stepach skalnych na wapiennym piasku, żwirze, wapieniu lub skałach wulkanicznych. Owocniki wytwarza od późnego lata do wczesnej zimy, często jeszcze w listopadzie.",
+      "uses": "Uważany jest za niejadalny i być może trujący.",
+      "confusion": "Phaeoclavulina flaccida jest niemal identyczna i ma prawie takie same zarodniki, ale rośnie głównie w lasach, a oba gatunki mogą okazać się jednym; reakcja hymenium z KOH pomaga rozpoznać P. roellinii. P. clavarioides ma w większości nierozgałęziony trzon z gałązkami głównie na szczycie, gorzki smak i inaczej ukształtowane kryształy na ryzomorfach. P. abietina również zielenieje, ale rośnie pod drzewami iglastymi. P. decurrens rośnie przy drzewach liściastych, P. eumorpha ma większe zarodniki i nieregularne kryształy na ryzomorfach, a śródziemnomorska P. quercus-ilicis rośnie w ściółce drzew liściastych. Owocnik zebrany bez białych ryzomorf można też pomylić z P. murrillii lub z gatunkami Clavulinopsis i Ramariopsis.",
+      "notes": "Ocena z 2019 roku klasyfikuje go na świecie jako narażonego (Vulnerable): był wtedy potwierdzony z mniej niż 30 stanowisk i jest związany z suchymi murawami wapiennymi, siedliskiem, które w części Europy w ostatnim stuleciu zmniejszyło się nawet o 90% z powodu zaniechania wypasu, nawożenia, zakwaszenia, zaorywania i zabudowy. Szwecja ma dla niego krajowy plan działań. W Holandii po raz pierwszy rozpoznano go w 2013 roku na wydmach nadmorskich, gdzie część starszych notowań P. abietina prawdopodobnie dotyczy właśnie jego.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "pt": {
+      "description": "Pequeno fungo coraloide, compacto e densamente ramificado, de prados abertos, secos e pobres em nutrientes sobre calcário ou areia, estepes rochosas e dunas cinzentas costeiras, conhecido com certeza apenas de locais dispersos na Europa, sobretudo na Suécia, nos Países Baixos, na Dinamarca, na Alemanha, na Suíça, na Áustria e na Chéquia; os registos de outros países europeus e um único registo do México não estão confirmados.",
+      "cap": "Não há um chapéu distinto. O corpo frutífero é um coral baixo e compacto, geralmente com 2–3,5 cm de altura e 1–2,5 cm de largura, raramente até cerca de 5 cm de altura, que se ramifica repetidamente a partir da parte inferior ou média. Os ramos apertados são eretos, um pouco curvos e enrugados longitudinalmente, com axilas estreitas em forma de U ou V, e terminam em numerosas pequenas pontas agudas. Quando jovem é amarelo-pálido a creme, depois amarelo-ocre a castanho-ocre, e os corpos frutíferos velhos ganham muitas vezes tons esverdeados ou oliváceos.",
+      "hymenium": "A superfície fértil é lisa e cobre os ramos. Em corpos frutíferos frescos, uma gota de KOH torna-a rapidamente castanho-pálida a castanho-avermelhada ou castanho-púrpura escura, enquanto a carne não reage. Os basídios são estreitamente claviformes, com cerca de 38–70 × 5–7(–8) µm, geralmente tetraspóricos, com uma ansa na base.",
+      "stipe": "Há apenas uma base curta e simples, geralmente com apenas 1–4 mm de espessura e muitas vezes profundamente enterrada no solo. A extremidade basal é branca e tem rizomorfos brancos e ramificados bem visíveis, cobertos de cristais estrelados.",
+      "flesh": "A carne é esbranquiçada, firme mas quebradiça, e não muda de cor ao corte. O cheiro é nulo a levemente terroso e o sabor indistinto. O sistema hifal é monomítico; as hifas têm ansas e são localmente dilatadas nos septos.",
+      "sporePrint": "A esporada é amarela. Os esporos são estreitamente lacrimiformes a cilíndrico-elipsoides, com cerca de 5–8(–9) × 3–4,5 µm, apículo nítido e parede amarelo-esverdeada finamente ornamentada com verrugas a espinhos curtos de 0,2–0,5 µm de altura.",
+      "habitat": "É provavelmente saprotrófico e cresce isolado ou em pequenos grupos no solo entre musgos baixos, muitas vezes tapetes densos de Hypnum, e líquenes terrícolas como Cladonia, em prados secos e semissecos ralos, pastoreados ou pisoteados, em costas de aspeto estépico e em estepes rochosas sobre areia calcária, cascalho, calcário ou rocha vulcânica. Frutifica do fim do verão ao início do inverno, muitas vezes ainda em novembro.",
+      "uses": "É considerado não comestível e possivelmente tóxico.",
+      "confusion": "Phaeoclavulina flaccida é quase idêntica e tem esporos quase iguais, mas cresce sobretudo em bosques, e as duas podem vir a revelar-se uma só espécie; a reação do himénio ao KOH ajuda a reconhecer P. roellinii. P. clavarioides tem um pé em grande parte não ramificado, com ramos sobretudo no topo, sabor amargo e cristais de outra forma nos rizomorfos. P. abietina também esverdeia, mas cresce sob coníferas. P. decurrens cresce junto a árvores de folha caduca, P. eumorpha tem esporos maiores e cristais irregulares nos rizomorfos, e a mediterrânica P. quercus-ilicis cresce na folhada de folhosas. Um corpo frutífero colhido sem os rizomorfos brancos também pode ser confundido com P. murrillii ou com espécies de Clavulinopsis e Ramariopsis.",
+      "notes": "Uma avaliação de 2019 classifica-o a nível mundial como vulnerável (Vulnerable): estava então confirmado em menos de 30 localidades e está ligado a prados calcários secos, um habitat que em partes da Europa diminuiu até 90% no último século devido ao abandono do pastoreio, à fertilização, à acidificação, ao cultivo e à urbanização. A Suécia tem um plano de ação nacional para ele. Nos Países Baixos foi reconhecido pela primeira vez em 2013 nas dunas costeiras, onde alguns registos antigos de P. abietina provavelmente lhe pertencem.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "Ciupercă coraloidă mică, îndesată și deas ramificată, a pajiștilor deschise, uscate și sărace în nutrienți pe calcar sau nisip, a stepelor stâncoase și a dunelor cenușii de coastă, cunoscută cu certitudine doar din locuri răzlețe din Europa, mai ales din Suedia, Țările de Jos, Danemarca, Germania, Elveția, Austria și Cehia; semnalările din alte țări europene și o singură semnalare din Mexic nu sunt confirmate.",
+      "cap": "Nu există o pălărie separată. Corpul fructifer este un coral scund și îndesat, de obicei înalt de 2–3,5 cm și lat de 1–2,5 cm, rareori înalt de până la circa 5 cm, care se ramifică repetat încă din partea inferioară sau mijlocie. Ramurile înghesuite sunt erecte, ușor curbate și încrețite longitudinal, cu axile înguste în formă de U până la V, și se termină în numeroase vârfuri mici și ascuțite. Tânără este galben-pal până la crem, apoi galben-ocru până la brun-ocru, iar corpurile fructifere bătrâne capătă adesea nuanțe verzui sau oliv.",
+      "hymenium": "Suprafața fertilă este netedă și acoperă ramurile. Pe corpurile fructifere proaspete, o picătură de KOH o colorează rapid în brun-pal până la castaniu sau brun-purpuriu închis, în timp ce carnea nu reacționează. Bazidiile sunt îngust claviforme, de circa 38–70 × 5–7(–8) µm, de obicei cu patru spori, cu o cataramă la bază.",
+      "stipe": "Există doar o bază scurtă și simplă, de obicei groasă de numai 1–4 mm și adesea adânc îngropată în sol. Extremitatea ei bazală este albă și poartă rizomorfe albe, ramificate, bine vizibile, acoperite cu cristale stelate.",
+      "flesh": "Carnea este albicioasă, fermă dar casantă, și nu își schimbă culoarea la tăiere. Mirosul lipsește sau este slab pământos, iar gustul este neutru. Sistemul hifal este monomitic; hifele au catarame și sunt pe alocuri umflate la septe.",
+      "sporePrint": "Sporograma este galbenă. Sporii sunt îngust lacrimiformi până la cilindric-elipsoidali, de circa 5–8(–9) × 3–4,5 µm, cu apicul distinct și perete galben-verzui, fin ornamentat cu negi până la spini scurți înalți de 0,2–0,5 µm.",
+      "habitat": "Este probabil saprotrofă și crește solitar sau în grupuri mici pe sol, printre mușchi scunzi, adesea covoare dese de Hypnum, și licheni tericoli precum Cladonia, în pajiști uscate și semiuscate rare, pășunate sau călcate, pe țărmuri cu aspect de stepă și în stepe stâncoase, pe nisip calcaros, pietriș, calcar sau rocă vulcanică. Fructifică de la sfârșitul verii până la începutul iernii, adesea încă în noiembrie.",
+      "uses": "Este considerată necomestibilă și posibil toxică.",
+      "confusion": "Phaeoclavulina flaccida este aproape identică și are spori aproape la fel, dar crește mai ales în păduri, iar cele două s-ar putea dovedi o singură specie; reacția himeniului cu KOH ajută la recunoașterea P. roellinii. P. clavarioides are un picior în mare parte neramificat, cu ramuri mai ales la vârf, gust amar și cristale de altă formă pe rizomorfe. P. abietina se înverzește și ea, dar crește sub conifere. P. decurrens crește lângă foioase, P. eumorpha are spori mai mari și cristale neregulate pe rizomorfe, iar mediteraneana P. quercus-ilicis crește în litiera foioaselor. Un corp fructifer cules fără rizomorfele albe ar putea fi confundat și cu P. murrillii sau cu specii de Clavulinopsis și Ramariopsis.",
+      "notes": "O evaluare din 2019 o încadrează la nivel mondial ca vulnerabilă (Vulnerable): era atunci confirmată din mai puțin de 30 de localități și este legată de pajiștile calcaroase uscate, un habitat care în părți ale Europei s-a redus în ultimul secol cu până la 90% din cauza abandonării pășunatului, a fertilizării, a acidifierii, a arăturilor și a exploatării terenurilor. Suedia are pentru ea un plan național de acțiune. În Țările de Jos a fost recunoscută pentru prima dată în 2013 în dunele de coastă, unde unele semnalări mai vechi de P. abietina îi aparțin probabil.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Небольшой, плотный, густо разветвлённый коралловидный гриб открытых, сухих и бедных питательными веществами известковых или песчаных лугов, каменистых степей и серых приморских дюн, достоверно известный лишь из разрозненных местонахождений в Европе, главным образом в Швеции, Нидерландах, Дании, Германии, Швейцарии, Австрии и Чехии; сведения из других европейских стран и единственная находка из Мексики не подтверждены.",
+      "cap": "Отдельной шляпки нет. Плодовое тело — низкий плотный коралл, обычно высотой 2–3,5 cm и шириной 1–2,5 cm, редко до примерно 5 cm в высоту, многократно ветвящийся уже от нижней или средней части. Тесно сидящие веточки прямостоячие, слегка изогнутые и продольно морщинистые, с узкими U- или V-образными пазухами, и заканчиваются многочисленными мелкими заострёнными верхушками. В молодости он бледно-жёлтый до кремового, затем охряно-жёлтый до охряно-бурого, а старые плодовые тела часто приобретают зеленоватые или оливковые оттенки.",
+      "hymenium": "Спороносная поверхность гладкая и покрывает веточки. На свежих плодовых телах капля KOH быстро окрашивает её в светло-бурый, каштановый или тёмный пурпурно-бурый цвет, тогда как мякоть не реагирует. Базидии узкобулавовидные, около 38–70 × 5–7(–8) µm, обычно четырёхспоровые, с пряжкой в основании.",
+      "stipe": "Есть лишь короткое простое основание, обычно толщиной всего 1–4 mm и часто глубоко погружённое в почву. Самый низ его белый и несёт заметные белые ветвистые ризоморфы, покрытые звёздчатыми кристаллами.",
+      "flesh": "Мякоть беловатая, плотная, но ломкая, на срезе не меняет цвет. Запах отсутствует или слабо землистый, вкус невыраженный. Гифальная система мономитическая; гифы с пряжками, местами вздутые у септ.",
+      "sporePrint": "Споровый порошок жёлтый. Споры узкокаплевидные до цилиндрически-эллипсоидных, около 5–8(–9) × 3–4,5 µm, с отчётливым апикулюсом и зеленовато-жёлтой стенкой, тонко орнаментированной бородавочками или короткими шипиками высотой 0,2–0,5 µm.",
+      "habitat": "Вероятно, сапротроф; растёт одиночно или небольшими группами на земле среди низких мхов, часто в плотных коврах Hypnum, и напочвенных лишайников, таких как Cladonia, на разреженных, выпасаемых или вытаптываемых сухих и полусухих лугах, степных морских побережьях и каменистых степях на известковом песке, гравии, известняке или вулканических породах. Плодоносит с конца лета до начала зимы, часто ещё в ноябре.",
+      "uses": "Считается несъедобным и, возможно, ядовитым.",
+      "confusion": "Phaeoclavulina flaccida почти идентична и имеет почти такие же споры, но растёт в основном в лесу, и оба вида могут оказаться одним; реакция гимения с KOH помогает распознать P. roellinii. У P. clavarioides ножка в основном неразветвлённая, с веточками главным образом на верхушке, вкус горький и кристаллы на ризоморфах иной формы. P. abietina тоже зеленеет, но растёт под хвойными деревьями. P. decurrens растёт с лиственными деревьями, у P. eumorpha споры крупнее и кристаллы на ризоморфах неправильные, а средиземноморская P. quercus-ilicis растёт в подстилке лиственных деревьев. Плодовое тело, собранное без белых ризоморф, можно спутать также с P. murrillii или с видами родов Clavulinopsis и Ramariopsis.",
+      "notes": "Оценка 2019 года относит его в мировом масштабе к уязвимым видам (Vulnerable): тогда он был подтверждён менее чем из 30 местонахождений и связан с сухими известковыми лугами — местообитанием, которое в ряде частей Европы за последнее столетие сократилось до 90 % из-за прекращения выпаса, удобрения, закисления, распашки и застройки. В Швеции для него действует национальная программа мер. В Нидерландах его впервые распознали в 2013 году в приморских дюнах, где часть старых находок P. abietina, вероятно, относится к нему.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sk": {
+      "description": "Malá, zavalitá, husto rozkonárená koralovitá huba otvorených, suchých a na živiny chudobných vápnitých alebo piesočnatých trávnikov, skalných stepí a sivých pobrežných dún, ktorá je s istotou známa len z roztrúsených lokalít v Európe, najmä zo Švédska, Holandska, Dánska, Nemecka, Švajčiarska, Rakúska a Česka; údaje z ďalších európskych krajín a jediný nález z Mexika nie sú potvrdené.",
+      "cap": "Samostatný klobúk chýba. Plodnica je nízky, zavalitý koralovitý útvar, zvyčajne 2–3,5 cm vysoký a 1–2,5 cm široký, zriedka až asi 5 cm vysoký, ktorý sa opakovane konári už od dolnej alebo strednej časti. Husto natlačené konáriky sú vzpriamené, trochu zahnuté a pozdĺžne vráskavé, s úzkymi rázsochami v tvare U až V, a končia početnými drobnými špicatými hrotmi. Za mladi je bledožltá až krémová, neskôr okrovožltá až okrovohnedá a staršie plodnice často dostávajú zelenkasté alebo olivové tóny.",
+      "hymenium": "Výtrusorodý povrch je hladký a pokrýva konáriky. Na čerstvých plodniciach ho kvapka KOH rýchlo sfarbí do svetlohneda až gaštanovohneda alebo tmavo purpurovohneda, kým dužina nereaguje. Bazídiá sú úzko kyjakovité, asi 38–70 × 5–7(–8) µm, zvyčajne štvorvýtrusné, so sponkou na báze.",
+      "stipe": "Hlúbik tvorí len krátka, jednoduchá báza, zvyčajne len 1–4 mm hrubá a často hlboko ponorená v pôde. Jej úplná spodná časť je biela a nesie nápadné biele, rozkonárené rizomorfy pokryté hviezdicovitými kryštálmi.",
+      "flesh": "Dužina je belavá, pevná, ale krehká a po prerezaní nemení farbu. Vôňa chýba alebo je slabo zemitá a chuť je nevýrazná. Hyfový systém je monomitický; hyfy majú pracky a pri septách sú miestami nadmuté.",
+      "sporePrint": "Výtrusný prach je žltý. Výtrusy sú úzko kvapkovité až valcovito elipsoidné, asi 5–8(–9) × 3–4,5 µm, so zreteľným apikulom a zelenkastožltou stenou jemne zdobenou bradavkami až krátkymi ostňami vysokými 0,2–0,5 µm.",
+      "habitat": "Je pravdepodobne saprotrofná a rastie jednotlivo alebo v malých skupinách na zemi medzi nízkymi machmi, často v hustých porastoch rodu Hypnum, a pôdnymi lišajníkmi, napríklad rodu Cladonia, v riedkych, spásaných alebo vyšliapaných suchých a polosuchých trávnikoch, na stepných pobrežiach a v skalných stepiach na vápnitom piesku, štrku, vápenci alebo vulkanickej hornine. Plodnice tvorí od neskorého leta do začiatku zimy, často ešte v novembri.",
+      "uses": "Považuje sa za nejedlú a možno jedovatú.",
+      "confusion": "Phaeoclavulina flaccida je takmer rovnaká a má takmer rovnaké výtrusy, rastie však najmä v lese a oba druhy sa môžu ukázať ako jeden; reakcia hymenia s KOH pomáha rozoznať P. roellinii. P. clavarioides má prevažne nerozkonárenú stopku s konárikmi najmä na vrchole, horkú chuť a inak tvarované kryštály na rizomorfách. P. abietina tiež zelenie, rastie však pod ihličnanmi. P. decurrens rastie pri listnáčoch, P. eumorpha má väčšie výtrusy a nepravidelné kryštály na rizomorfách a stredomorská P. quercus-ilicis rastie v opade listnatých drevín. Plodnicu zozbieranú bez bielych rizomorf možno zameniť aj s P. murrillii alebo s druhmi rodov Clavulinopsis a Ramariopsis.",
+      "notes": "Hodnotenie z roku 2019 ju celosvetovo uvádza ako zraniteľnú: vtedy bola potvrdená z menej ako 30 lokalít a je viazaná na suché vápnité trávniky, biotop, ktorý v častiach Európy za posledné storočie ubudol až o 90 % pre opustenie pastvy, hnojenie, okysľovanie, rozoranie a zástavbu. Švédsko má pre ňu národný akčný plán. V Holandsku ju prvý raz rozoznali v roku 2013 v pobrežných dunách, kde niektoré staršie údaje o P. abietina pravdepodobne patria k nej.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sl": {
+      "description": "Majhna, čokata, gosto razvejana koralasta goba odprtih, suhih in s hranili revnih apnenčastih ali peščenih travišč, skalnih step in sivih obalnih sipin, z gotovostjo znana le z raztresenih nahajališč v Evropi, predvsem na Švedskem, Nizozemskem, Danskem, v Nemčiji, Švici, Avstriji in na Češkem; navedbe iz drugih evropskih držav in posamezna najdba iz Mehike niso potrjene.",
+      "cap": "Samostojnega klobuka ni. Trosnjak je nizka, čokata korala, običajno visoka 2–3,5 cm in široka 1–2,5 cm, redko visoka do približno 5 cm, ki se večkrat razveji že od spodnjega ali srednjega dela. Natlačene veje so pokončne, nekoliko ukrivljene in vzdolžno nagubane, z ozkimi rogovilami v obliki črke U ali V, in se končajo s številnimi drobnimi koničastimi vršički. Mlada je bledo rumena do kremasta, pozneje okrasto rumena do okrasto rjava, starejši trosnjaki pa pogosto dobijo zelenkaste ali olivne odtenke.",
+      "hymenium": "Trosovna površina je gladka in prekriva veje. Na svežih trosnjakih jo kapljica KOH hitro obarva svetlo rjavo, kostanjevo ali temno škrlatno rjavo, meso pa ne reagira. Bazidiji so ozko kijasti, približno 38–70 × 5–7(–8) µm, navadno štirisporni, s sponko ob dnu.",
+      "stipe": "Ima le kratko, preprosto osnovo, običajno debelo komaj 1–4 mm in pogosto globoko pogreznjeno v tla. Njen spodnji konec je bel in nosi opazne bele, razvejane rizomorfe, prekrite z zvezdastimi kristali.",
+      "flesh": "Meso je belkasto, čvrsto, a krhko, in na prerezu ne spremeni barve. Vonja ni ali je rahlo zemeljski, okus je neizrazit. Sistem hif je monomitičen; hife imajo sponke in so ob pregradah ponekod napihnjene.",
+      "sporePrint": "Trosni prah je rumen. Trosi so ozko kapljičasti do valjasto elipsoidni, približno 5–8(–9) × 3–4,5 µm, z izrazitim apikulom in zelenkasto rumeno steno, drobno okrašeno z bradavicami do kratkimi bodicami, visokimi 0,2–0,5 µm.",
+      "habitat": "Verjetno je saprotrof in raste posamič ali v majhnih skupinah na tleh med nizkimi mahovi, pogosto v gostih preprogah rodu Hypnum, in talnimi lišaji, kot je Cladonia, na redkih, pašenih ali pohojenih suhih in polsuhih traviščih, stepastih obalah in skalnih stepah na apnenčastem pesku, produ, apnencu ali vulkanski kamnini. Trosnjake tvori od poznega poletja do zgodnje zime, pogosto še novembra.",
+      "uses": "Velja za neužitno in morda strupeno.",
+      "confusion": "Phaeoclavulina flaccida je skoraj enaka in ima skoraj enake trose, vendar raste predvsem v gozdu, in obe bi se lahko izkazali za eno vrsto; reakcija himenija s KOH pomaga prepoznati P. roellinii. P. clavarioides ima večinoma nerazvejan bet z vejami predvsem na vrhu, grenak okus in drugače oblikovane kristale na rizomorfih. Tudi P. abietina pozeleni, vendar raste pod iglavci. P. decurrens raste ob listavcih, P. eumorpha ima večje trose in nepravilne kristale na rizomorfih, sredozemska P. quercus-ilicis pa raste v listnem opadu listavcev. Trosnjak, nabran brez belih rizomorfov, bi lahko zamenjali tudi s P. murrillii ali z vrstami rodov Clavulinopsis in Ramariopsis.",
+      "notes": "Ocena iz leta 2019 jo na svetovni ravni uvršča med ranljive vrste (Vulnerable): takrat je bila potrjena z manj kot 30 nahajališč in je vezana na suha apnenčasta travišča, habitat, ki se je v delih Evrope v zadnjem stoletju zmanjšal tudi za 90 % zaradi opuščanja paše, gnojenja, zakisljevanja, preoravanja in pozidave. Švedska ima zanjo nacionalni akcijski načrt. Na Nizozemskem so jo prvič prepoznali leta 2013 v obalnih sipinah, kjer nekateri starejši podatki o P. abietina verjetno pripadajo njej.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sr": {
+      "description": "Мала, здепаста, густо разграната кораласта гљива отворених, сувих и хранљивим материјама сиромашних кречњачких или песковитих травњака, камените степе и сивих приобалних дина, са сигурношћу позната само са раштрканих налазишта у Европи, највише у Шведској, Холандији, Данској, Немачкој, Швајцарској, Аустрији и Чешкој; подаци из других европских земаља и један налаз из Мексика нису потврђени.",
+      "cap": "Посебан шешир не постоји. Плодно тело је низак, здепаст корал, обично висок 2–3,5 cm и широк 1–2,5 cm, ретко висок до око 5 cm, који се више пута грана већ од доњег или средњег дела. Збијене гранчице су усправне, донекле повијене и уздужно наборане, са уским рачвама у облику слова U или V, и завршавају се бројним ситним шиљатим врховима. Млада је бледожута до крем боје, касније окержута до окермрка, а старија плодна тела често добијају зеленкасте или маслинасте тонове.",
+      "hymenium": "Површина која носи споре је глатка и прекрива гранчице. На свежим плодним телима кап KOH брзо је обоји светломрко, кестењасто или тамно пурпурномрко, док месо не реагује. Базидије су уско батинасте, око 38–70 × 5–7(–8) µm, обично са четири споре, са копчом у основи.",
+      "stipe": "Постоји само кратка, једноставна основа, обично дебела свега 1–4 mm и често дубоко утонула у земљу. Њен доњи крај је бео и носи упадљиве беле, разгранате ризоморфе прекривене звездастим кристалима.",
+      "flesh": "Месо је беличасто, чврсто али крто, и на пресеку не мења боју. Мириса нема или је слабо земљаст, а укус је неизражен. Хифни систем је мономитичан; хифе имају копче и местимично су надувене код септи.",
+      "sporePrint": "Отисак спора је жут. Споре су уско капљичасте до ваљкасто елипсоидне, око 5–8(–9) × 3–4,5 µm, са јасним апикулусом и зеленкастожутим зидом фино украшеним брадавицама до кратких бодљи високих 0,2–0,5 µm.",
+      "habitat": "Вероватно је сапротроф и расте појединачно или у малим групама на тлу међу ниским маховинама, често у густим теписима рода Hypnum, и приземним лишајевима као што је Cladonia, на ретким, напасаним или угаженим сувим и полусувим травњацима, степоликим обалама и каменитим степама на кречњачком песку, шљунку, кречњаку или вулканској стени. Плодна тела образује од касног лета до ране зиме, често још у новембру.",
+      "uses": "Сматра се нејестивом и можда отровном.",
+      "confusion": "Phaeoclavulina flaccida је готово иста и има готово исте споре, али расте углавном у шуми, па би се обе могле показати као једна врста; реакција хименијума са KOH помаже да се препозна P. roellinii. P. clavarioides има углавном неразгранату дршку са гранама највише при врху, горак укус и другачије обликоване кристале на ризоморфама. P. abietina такође зелени, али расте испод четинара. P. decurrens расте уз листопадно дрвеће, P. eumorpha има веће споре и неправилне кристале на ризоморфама, а медитеранска P. quercus-ilicis расте у листинцу лишћара. Плодно тело убрано без белих ризоморфи могло би се заменити и са P. murrillii или са врстама родова Clavulinopsis и Ramariopsis.",
+      "notes": "Процена из 2019. сврстава је на светском нивоу међу рањиве врсте (Vulnerable): тада је била потврђена са мање од 30 налазишта и везана је за суве кречњачке травњаке, станиште које се у деловима Европе у последњем веку смањило и до 90 % због напуштања испаше, ђубрења, закисељавања, разоравања и изградње. Шведска за њу има национални акциони план. У Холандији је први пут препозната 2013. у приобалним динама, где неки старији налази P. abietina вероватно припадају њој.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En liten, kompakt och tätt förgrenad fingersvamp på öppna, torra och näringsfattiga kalk- eller sandmarker, alvarliknande hällmarker och grå kustdyner, som med säkerhet bara är känd från spridda lokaler i Europa, främst i Sverige, Nederländerna, Danmark, Tyskland, Schweiz, Österrike och Tjeckien; uppgifter från andra europeiska länder och ett enstaka fynd från Mexiko är obekräftade.",
+      "cap": "Någon egentlig hatt finns inte. Fruktkroppen är en låg, kompakt korall, oftast 2–3,5 cm hög och 1–2,5 cm bred, sällan upp till omkring 5 cm hög, som förgrenar sig upprepade gånger redan från den nedre eller mittersta delen. De tätt sittande grenarna är upprätta, något böjda och längsrynkiga, med smala U- till V-formade grenvinklar, och slutar i många små spetsiga toppar. Ung är den blekgul till krämfärgad, senare ockragul till ockrabrun, och äldre fruktkroppar får ofta grönaktiga eller olivfärgade toner.",
+      "hymenium": "Den sporbildande ytan är slät och täcker grenarna. På färska fruktkroppar färgar en droppe KOH den snabbt ljusbrun till kastanjebrun eller mörkt purpurbrun, medan köttet inte reagerar. Basidierna är smalt klubbformade, omkring 38–70 × 5–7(–8) µm, oftast fyrsporiga, med ett söljeutskott vid basen.",
+      "stipe": "Det finns bara en kort, enkel bas, oftast bara 1–4 mm tjock och ofta djupt nedsänkt i jorden. Den yttersta basen är vit och bär iögonfallande vita, förgrenade rhizomorfer som är täckta av stjärnformiga kristaller.",
+      "flesh": "Köttet är vitaktigt, fast men sprött och ändrar inte färg i snitt. Lukten saknas eller är svagt jordaktig och smaken är obetydlig. Hyfsystemet är monomitiskt; hyferna har söljor och är på sina ställen uppsvällda vid septa.",
+      "sporePrint": "Sporpulvret är gult. Sporerna är smalt droppformade till cylindriskt ellipsoida, omkring 5–8(–9) × 3–4,5 µm, med tydlig apikulus och en grönaktigt gul vägg som är fint besatt med vårtor till korta taggar 0,2–0,5 µm höga.",
+      "habitat": "Den är troligen saprotrof och växer enstaka eller i små grupper på marken bland låga mossor, ofta täta mattor av Hypnum, och marklavar som Cladonia, i glesa, betade eller upptrampade torra och halvtorra gräsmarker, stäppartade havsstränder och hällmarker på kalkhaltig sand, grus, kalksten eller vulkaniskt berg. Den bildar fruktkroppar från sensommaren till förvintern, ofta så sent som i november.",
+      "uses": "Den anses oätlig och möjligen giftig.",
+      "confusion": "Phaeoclavulina flaccida är nästan identisk och har nästan likadana sporer, men växer främst i skog, och de två kan visa sig vara en och samma art; KOH-reaktionen på hymeniet hjälper till att känna igen P. roellinii. P. clavarioides har en till största delen ogrenad fot med grenar främst i toppen, besk smak och annorlunda formade kristaller på rhizomorferna. P. abietina blir också grönaktig men växer under barrträd. P. decurrens växer vid lövträd, P. eumorpha har större sporer och oregelbundna kristaller på rhizomorferna, och den medelhavsväxande P. quercus-ilicis växer i förna av lövträd. En fruktkropp som plockats utan sina vita rhizomorfer kan också förväxlas med P. murrillii eller med arter av Clavulinopsis och Ramariopsis.",
+      "notes": "En bedömning från 2019 anger den som globalt sårbar (Vulnerable): den var då bekräftad från färre än 30 lokaler och är bunden till torra kalkgräsmarker, en livsmiljö som i delar av Europa under det senaste seklet har minskat med upp till 90 % genom upphört bete, gödsling, försurning, uppodling och exploatering. Sverige har ett nationellt åtgärdsprogram för den. I Nederländerna upptäcktes den första gången 2013 i kustdynerna, där en del äldre fynd av P. abietina troligen hör till den.",
+      "names": [],
+      "sourceUrls": [
+        "https://sv.wikipedia.org/wiki/St%C3%A4ppfingersvamp",
+        "https://api.gbif.org/v1/species/7921747/vernacularNames",
+        "https://redlist.info/iucn/species_view/322276/"
+      ],
+      "label": "stäppfingersvamp"
+    },
+    "tr": {
+      "description": "Açık, kuru ve besince fakir kireçli ya da kumlu çayırların, kayalık bozkırların ve gri kıyı kumullarının küçük, tıknaz, sık dallanan bir mercan mantarıdır; kesin olarak yalnızca Avrupa'daki dağınık yerlerden, başlıca İsveç, Hollanda, Danimarka, Almanya, İsviçre, Avusturya ve Çekya'dan bilinir; diğer Avrupa ülkelerinden gelen kayıtlar ve Meksika'dan tek bir kayıt doğrulanmamıştır.",
+      "cap": "Ayrı bir şapkası yoktur. Meyve gövdesi alçak, tıknaz bir mercan biçimindedir; genellikle 2–3,5 cm yüksekliğinde ve 1–2,5 cm genişliğindedir, nadiren yaklaşık 5 cm'ye kadar yükselir ve daha alt ya da orta kısmından itibaren tekrar tekrar dallanır. Sık dizilmiş dallar diktir, biraz kıvrıktır ve boyuna kırışıktır; çatalları dar U ya da V biçimindedir ve çok sayıda küçük sivri uçla sona erer. Gençken soluk sarı ile krem arasındadır, sonra koyu sarı-okr ile okr-kahverengiye döner; yaşlı meyve gövdeleri çoğu zaman yeşilimsi ya da zeytuni tonlar alır.",
+      "hymenium": "Spor taşıyan yüzey düzdür ve dalları kaplar. Taze meyve gövdelerinde bir damla KOH onu hızla açık kahverengi, kestane rengi ya da koyu morumsu kahverengiye boyar; et ise tepki vermez. Bazidyumlar dar topuz biçimlidir, yaklaşık 38–70 × 5–7(–8) µm boyutundadır, genellikle dört sporludur ve tabanlarında bir kanca bağlantısı bulunur.",
+      "stipe": "Yalnızca kısa, basit bir taban vardır; genellikle yalnızca 1–4 mm kalınlığındadır ve çoğu zaman toprağa derince gömülüdür. En alt kısmı beyazdır ve yıldız biçimli kristallerle kaplı, göze çarpan beyaz, dallanmış rizomorflar taşır.",
+      "flesh": "Et beyazımsıdır, sıkı ama kırılgandır ve kesildiğinde renk değiştirmez. Kokusu yoktur ya da hafifçe topraksıdır, tadı belirsizdir. Hif sistemi monomitiktir; hiflerde kanca bağlantıları vardır ve bölmelerin yanında yer yer şişkindir.",
+      "sporePrint": "Spor izi sarıdır. Sporlar dar damla biçiminden silindirik-elipsoide kadar değişir, yaklaşık 5–8(–9) × 3–4,5 µm boyutundadır, belirgin bir apikulusa ve 0,2–0,5 µm yüksekliğinde ince siğillerden kısa dikenlere kadar süslemeleri olan yeşilimsi sarı bir çepere sahiptir.",
+      "habitat": "Büyük olasılıkla saprotroftur; tek tek ya da küçük gruplar halinde, alçak yosunlar, çoğu zaman sık Hypnum örtüleri ve Cladonia gibi toprak likenleri arasında, seyrek, otlatılan ya da çiğnenen kuru ve yarı kuru çayırlarda, bozkır görünümlü deniz kıyılarında ve kayalık bozkırlarda kireçli kum, çakıl, kireçtaşı ya da volkanik kaya üzerinde yerde yetişir. Yaz sonundan kış başına kadar, çoğu zaman kasımda bile meyve verir.",
+      "uses": "Yenmez ve muhtemelen zehirli kabul edilir.",
+      "confusion": "Phaeoclavulina flaccida neredeyse aynıdır ve sporları da hemen hemen aynıdır, ancak daha çok ormanda yetişir ve ikisinin tek bir tür olduğu ortaya çıkabilir; himenyumun KOH tepkisi P. roellinii'yi tanımaya yardım eder. P. clavarioides'in sapı büyük ölçüde dalsızdır ve dalları çoğunlukla tepededir, tadı acıdır ve rizomorflarındaki kristallerin biçimi farklıdır. P. abietina da yeşillenir, ancak iğne yapraklı ağaçların altında yetişir. P. decurrens yaprak döken ağaçlarla birlikte yetişir, P. eumorpha'nın sporları daha büyük ve rizomorf kristalleri düzensizdir, Akdeniz'e özgü P. quercus-ilicis ise geniş yapraklı ağaçların döküntüsünde yetişir. Beyaz rizomorfları olmadan toplanan bir meyve gövdesi P. murrillii ya da Clavulinopsis ve Ramariopsis türleriyle de karıştırılabilir.",
+      "notes": "2019 tarihli bir değerlendirme onu küresel ölçekte duyarlı (Vulnerable) olarak sınıflandırır: o sırada 30'dan az yerden doğrulanmıştı ve kuru kireçli çayırlara bağlıdır; bu yaşam alanı Avrupa'nın bazı bölgelerinde son yüzyılda otlatmanın bırakılması, gübreleme, asitlenme, sürülme ve yapılaşma nedeniyle %90'a varan oranda azalmıştır. İsveç'in bu tür için ulusal bir eylem planı vardır. Hollanda'da ilk kez 2013'te kıyı kumullarında tanınmıştır; buradaki bazı eski P. abietina kayıtları büyük olasılıkla bu türe aittir.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Невеликий, щільний, густо розгалужений кораловидний гриб відкритих, сухих і бідних на поживні речовини вапнякових або піщаних луків, кам’янистих степів і сірих приморських дюн, достовірно відомий лише з розрізнених місцезнаходжень у Європі, головно у Швеції, Нідерландах, Данії, Німеччині, Швейцарії, Австрії та Чехії; відомості з інших європейських країн і єдина знахідка з Мексики не підтверджені.",
+      "cap": "Окремої шапки немає. Плодове тіло — низький щільний корал, зазвичай заввишки 2–3,5 cm і завширшки 1–2,5 cm, рідко до приблизно 5 cm заввишки, що багаторазово галузиться вже від нижньої або середньої частини. Тісно розташовані гілочки прямовисні, трохи вигнуті й поздовжньо зморшкуваті, з вузькими U- або V-подібними пазухами, і закінчуються численними дрібними загостреними верхівками. Молодий він блідо-жовтий до кремового, згодом охряно-жовтий до охряно-бурого, а старі плодові тіла часто набувають зеленкуватих або оливкових відтінків.",
+      "hymenium": "Спороносна поверхня гладка й укриває гілочки. На свіжих плодових тілах крапля KOH швидко забарвлює її у світло-бурий, каштановий або темний пурпурово-бурий колір, тоді як м’якуш не реагує. Базидії вузькобулавоподібні, близько 38–70 × 5–7(–8) µm, зазвичай чотириспорові, з пряжкою в основі.",
+      "stipe": "Є лише коротка проста основа, зазвичай завтовшки всього 1–4 mm і часто глибоко занурена в ґрунт. Найнижча її частина біла й несе помітні білі розгалужені ризоморфи, вкриті зірчастими кристалами.",
+      "flesh": "М’якуш білуватий, щільний, але ламкий, на розрізі не змінює кольору. Запах відсутній або слабко землистий, смак невиразний. Гіфальна система мономітична; гіфи з пряжками, місцями роздуті біля септ.",
+      "sporePrint": "Споровий порошок жовтий. Спори вузькокраплеподібні до циліндрично-еліпсоїдних, близько 5–8(–9) × 3–4,5 µm, з чітким апікулюсом і зеленкувато-жовтою стінкою, тонко орнаментованою бородавочками або короткими шипиками заввишки 0,2–0,5 µm.",
+      "habitat": "Імовірно, сапротроф; росте поодинці або невеликими групами на землі серед низьких мохів, часто в щільних килимах Hypnum, і наземних лишайників, як-от Cladonia, на розріджених, випасуваних або витоптаних сухих і напівсухих луках, степових морських узбережжях і кам’янистих степах на вапняковому піску, гравії, вапняку чи вулканічних породах. Плодоносить від кінця літа до початку зими, часто ще в листопаді.",
+      "uses": "Вважається неїстівним і, можливо, отруйним.",
+      "confusion": "Phaeoclavulina flaccida майже ідентична й має майже такі самі спори, але росте переважно в лісі, і обидва види можуть виявитися одним; реакція гіменію з KOH допомагає розпізнати P. roellinii. У P. clavarioides ніжка здебільшого нерозгалужена, з гілочками переважно на верхівці, смак гіркий і кристали на ризоморфах іншої форми. P. abietina теж зеленіє, але росте під хвойними деревами. P. decurrens росте з листяними деревами, у P. eumorpha спори більші й кристали на ризоморфах неправильні, а середземноморська P. quercus-ilicis росте в підстилці листяних дерев. Плодове тіло, зібране без білих ризоморф, можна сплутати також із P. murrillii або з видами родів Clavulinopsis і Ramariopsis.",
+      "notes": "Оцінка 2019 року відносить його у світовому масштабі до вразливих видів (Vulnerable): тоді його було підтверджено менш ніж із 30 місцезнаходжень, і він пов’язаний із сухими вапняковими луками — оселищем, яке в частині Європи за останнє століття скоротилося до 90 % через припинення випасання, удобрення, закислення, розорювання та забудови. У Швеції для нього діє національна програма заходів. У Нідерландах його вперше розпізнали 2013 року в приморських дюнах, де частина старіших знахідок P. abietina, імовірно, належить до нього.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "zh": {
+      "description": "一種小型、粗短而密集分枝的珊瑚狀真菌，生於開闊、乾燥且貧瘠的石灰質或沙質草地、岩石草原和灰色海岸沙丘，確切記錄僅來自歐洲零星分布的地點，主要在瑞典、荷蘭、丹麥、德國、瑞士、奧地利和捷克；其他歐洲國家的記錄及墨西哥的唯一記錄尚未證實。",
+      "cap": "沒有獨立的菌蓋。子實體為低矮粗短的珊瑚狀，通常高2–3.5 cm、寬1–2.5 cm，偶爾高達約5 cm，自下部或中部即反覆分枝。分枝密集、直立、略彎曲並具縱向皺紋，分叉處呈狹窄的U形至V形，末端有許多細小尖銳的頂端。幼時淡黃色至奶油色，後變為赭黃色至赭褐色，老熟子實體常帶綠色或橄欖色調。",
+      "hymenium": "產孢面平滑，覆蓋於分枝上。新鮮子實體滴上一滴KOH後迅速變為淡褐色至栗褐色或暗紫褐色，而菌肉不起反應。擔子細棒狀，約38–70 × 5–7(–8) µm，通常具四個孢子，基部有鎖狀聯合。",
+      "stipe": "僅有短而簡單的基部，通常僅粗1–4 mm，常深埋於土中。最底端白色，帶有明顯的白色分枝根狀菌索，表面覆有星狀結晶。",
+      "flesh": "菌肉白色，緊實但易碎，切開後不變色。無氣味或略帶土味，味道不明顯。菌絲系統為單系型；菌絲具鎖狀聯合，在隔膜處局部膨大。",
+      "sporePrint": "孢子印黃色。孢子狹淚滴形至圓柱狀橢圓形，約5–8(–9) × 3–4.5 µm，具明顯的尖突，綠黃色的壁上有高0.2–0.5 µm的細疣至短刺紋飾。",
+      "habitat": "可能為腐生菌，單生或小群生於地面低矮苔蘚之間，常在濃密的Hypnum苔蘚墊中，也與Cladonia等地生地衣混生，見於稀疏、受放牧或踐踏的乾燥及半乾燥草地、草原狀海岸和岩石草原，基質為石灰質沙、礫石、石灰岩或火山岩。發生期從夏末至初冬，常遲至十一月仍可見。",
+      "uses": "被視為不可食用，且可能有毒。",
+      "confusion": "Phaeoclavulina flaccida幾乎相同，孢子也近乎一致，但主要生於林中，兩者可能被證實為同一物種；子實層的KOH反應有助於辨認P. roellinii。P. clavarioides的柄大部分不分枝，分枝主要在頂部，味苦，根狀菌索上的結晶形狀不同。P. abietina也會變綠，但生於針葉樹下。P. decurrens與落葉樹相伴而生，P. eumorpha孢子較大且根狀菌索上的結晶不規則，地中海的P. quercus-ilicis則生於闊葉樹落葉層中。若採集時未帶白色根狀菌索，子實體也可能與P. murrillii或Clavulinopsis、Ramariopsis屬的物種混淆。",
+      "notes": "2019年的一項評估將其在全球列為易危（Vulnerable）：當時僅在不到30個地點得到確認，且依賴乾燥的石灰質草地；在歐洲部分地區，這種棲地在過去一個世紀因放牧停止、施肥、酸化、開墾和開發而減少多達90%。瑞典為其制定了國家行動計畫。在荷蘭，它於2013年首次在海岸沙丘中被辨識，當地部分較早的P. abietina記錄可能屬於本種。",
+      "names": [],
+      "sourceUrls": []
+    }
+  },
+  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Gomphales/Gomphaceae/Phaeoclavulina_roellinii/Phaeoclavulina_roellinii@1600.webp",
+  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Gomphales/Gomphaceae/Phaeoclavulina_roellinii/Phaeoclavulina_roellinii@400.webp",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Gomphales/Gomphaceae/Phaeoclavulina_roellinii/Phaeoclavulina_roellinii@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Gomphales/Gomphaceae/Phaeoclavulina_roellinii/Phaeoclavulina_roellinii@400.webp",
+  "plateCredit": {
+    "author": "Gemini",
+    "credit": "Credit \"Gemini\" as requested (metadata only; owner t28u, same as Bovista paludosa ID 154). The supplied image is a 19th-century-style colour illustration that appears AI-generated (cursive \"Gemini\" mark bottom right, Picasa-processed JPEG named .png, no matching historical plate found); it is not a documented botanical plate. The mark is not proof of authorship.",
+    "license": "Rights unverified (AI-generated image; no human author or licence documented)",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Gomphales/Gomphaceae/Phaeoclavulina_roellinii/Phaeoclavulina_roellinii@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Gomphales/Gomphaceae/Phaeoclavulina_roellinii/pr1.webp",
+      "author": "Michel Langeveld",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/141206171"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Gomphales/Gomphaceae/Phaeoclavulina_roellinii/pr2.webp",
+      "author": "Michel Langeveld",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/141206171"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Gomphales/Gomphaceae/Phaeoclavulina_roellinii/pr3.webp",
+      "author": "Michel Langeveld",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/141206171"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Gomphales/Gomphaceae/Phaeoclavulina_roellinii/pr4.webp",
+      "author": "Michel Langeveld",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/141206171"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Gomphales/Gomphaceae/Phaeoclavulina_roellinii/Phaeoclavulina_roellinii@1600.webp",
+      "author": "Gemini (credit as requested; AI-generated illustration of unverified rights)",
+      "license": "Rights unverified (AI-generated image; no human author or licence documented)",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Gomphales/Gomphaceae/Phaeoclavulina_roellinii/Phaeoclavulina_roellinii@1600.webp",
+      "basedOn": [],
+      "existingMark": "\"Gemini\" cursive script mark bottom right (with both i-dots); retained once exactly as found; no new mark painted; no authorship/rights authentication"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Gomphales/Gomphaceae/Phaeoclavulina_roellinii/pr1.webp",
+      "author": "Michel Langeveld",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/141206171",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/241848090/original.jpg",
+      "attribution": "© Michel Langeveld, CC BY 4.0, via iNaturalist observation 141206171 / GBIF occurrence 4978474318",
+      "adaptation": "True-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Gomphales/Gomphaceae/Phaeoclavulina_roellinii/pr2.webp",
+      "author": "Michel Langeveld",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/141206171",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/241848212/original.jpg",
+      "attribution": "© Michel Langeveld, CC BY 4.0, via iNaturalist observation 141206171 / GBIF occurrence 4978474318",
+      "adaptation": "True-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Gomphales/Gomphaceae/Phaeoclavulina_roellinii/pr3.webp",
+      "author": "Michel Langeveld",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/141206171",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/241848078/original.jpg",
+      "attribution": "© Michel Langeveld, CC BY 4.0, via iNaturalist observation 141206171 / GBIF occurrence 4978474318",
+      "adaptation": "True-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Gomphales/Gomphaceae/Phaeoclavulina_roellinii/pr4.webp",
+      "author": "Michel Langeveld",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/141206171",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/241848146/original.jpg",
+      "attribution": "© Michel Langeveld, CC BY 4.0, via iNaturalist observation 141206171 / GBIF occurrence 4978474318",
+      "adaptation": "True-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    }
+  ],
+  "synonyms": [
+    "Ramaria roellinii"
+  ],
+  "fruitingFrom": 8,
+  "fruitingTo": 12,
+  "reserved": false,
+  "id": 155,
+  "added": "2026-11-10",
+  "citation": "Mycotaxon 115: 194 (2011)",
+  "illustrationProvenance": {
+    "paperHolesRemoved": [
+      {
+        "area": 169.5,
+        "box": [
+          374,
+          647,
+          12,
+          18
+        ]
+      },
+      {
+        "area": 3360.0,
+        "box": [
+          143,
+          487,
+          43,
+          120
+        ]
+      },
+      {
+        "area": 2992.0,
+        "box": [
+          272,
+          373,
+          33,
+          156
+        ]
+      },
+      {
+        "area": 225.0,
+        "box": [
+          277,
+          339,
+          14,
+          22
+        ]
+      },
+      {
+        "area": 2765.0,
+        "box": [
+          198,
+          334,
+          37,
+          140
+        ]
+      }
+    ],
+    "paperResidualP995": 3.066719204472175,
+    "contrastThreshold": 6,
+    "tool": "Pillow + OpenCV deterministic alpha-only segmentation; no generation",
+    "sourceFile": "Phaeoclavulina roellinii.png",
+    "sourceFormat": "JPEG",
+    "sourceFormatNote": "File named .png is actually JPEG/JFIF (Exif software Picasa); no source alpha; alpha produced by segmentation.",
+    "sourceDimensions": [
+      896,
+      1200
+    ],
+    "sourceSHA256": "e7d9e3bc289efeb30d083e3b4bbbd47ba17e5d0acd953ff04b0fec36de937e52",
+    "backgroundSHA256": "d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c",
+    "alphaPNG": "artwork_rgba.png",
+    "mask": "artwork_alpha_mask.png",
+    "cropBBox": [
+      55,
+      167,
+      844,
+      1147
+    ],
+    "uniformScale": 1.7743979721166032,
+    "placement": [
+      100,
+      330
+    ],
+    "composedArtworkDimensions": [
+      1400,
+      1739
+    ],
+    "allSourceRGBChangedPixels": 0,
+    "transparentPixels": 763642,
+    "opaquePixels": 295914,
+    "partialAlphaPixels": 15644,
+    "signatureBox": [
+      744,
+      1094,
+      838,
+      1146
+    ],
+    "signatureComponents": 3,
+    "signaturePixels": 411,
+    "preservedObjects": [
+      "left: a smaller, sparsely branched ochre-orange coral fruit body with a white, tapered base",
+      "right: a larger, densely and repeatedly branched ochre-yellow coral fruit body with a white base and fine white basal mycelial strands",
+      "existing hand-script \"Gemini\" mark at bottom right"
+    ],
+    "signatureTreatment": "Existing \"Gemini\" script mark retained once exactly as found (alpha only, both i-dots kept); no mark added, painted or removed; the requested signature \"Gemini\" is used as the art credit in metadata only (t28u). The mark is not proof of authorship; no creator, rights or species identity inferred.",
+    "contours": [
+      {
+        "area": 215032.0,
+        "box": [
+          345,
+          273,
+          498,
+          695
+        ]
+      },
+      {
+        "area": 94301.0,
+        "box": [
+          56,
+          168,
+          320,
+          531
+        ]
+      }
+    ],
+    "backgroundSourceDimensions": [
+      1067,
+      1600
+    ],
+    "backgroundCanvasDimensions": [
+      1600,
+      2400
+    ],
+    "generation": false,
+    "repainting": false,
+    "stretching": false,
+    "sourcePaperRemoved": true,
+    "visualReview": "Full-size inspection: both coral figures whole (left sparse orange-ochre coral with white tapered base; right dense ochre coral with white base and root-like strands); 5 enclosed paper gaps between branches removed; some small paper pockets remain inside the dense right figure; thin pale fringe at edges; the single Gemini mark retained with both i-dots (alpha 235); no double frame, nothing added, painted or repainted. Stylised: the left figure is more orange than the species and neither figure shows the fine ochre-greenish ageing; broadly compatible with a small branched Phaeoclavulina.",
+    "requestedCredit": "Gemini",
+    "creditUse": "Owner t28u \"signature Gemini\": plate credit/author \"Gemini\" as metadata only, same as Bovista paludosa (ID 154). Existing marks kept exactly as found; no new mark painted. AI-generated art, rights unverified.",
+    "visibleMarks": [
+      "one cursive hand-script \"Gemini\" at bottom right (~x751-830, y1112-1146; script body plus two i-dots in the 896x1200 source)",
+      "no plate number, no imprint line, no other text"
+    ],
+    "provenanceAssessment": {
+      "verdict": "Appears AI-GENERATED (19th-century plate style; cursive \"Gemini\" mark, the name of an image-generating AI model), not a scan of a documented historical plate",
+      "evidence": [
+        "Supplied mark reads \"Gemini\" in a modern cursive font",
+        "File named .png is an 896x1200 JPEG with Exif software Picasa and no source metadata, the same pattern as earlier owner-supplied Gemini art (IDs 140-144, 147-152, 154)",
+        "No plate number, artist, engraver or publisher imprint",
+        "Uniform re-toned paper with synthetic vignette"
+      ],
+      "anatomyCaveat": "Broadly consistent with published descriptions (small ochre-yellow to ochre-brown coral with repeatedly branched upright branches, fine pointed tips and white base with white rhizomorphs), but stylised; the left figure is more orange and more sparsely branched than described, and the right figure looks larger and denser than the sourced up to ~5 cm fruit bodies. Not a verified scientific illustration.",
+      "rights": "Unverified; owner-supplied, apparently AI-generated; no human author or licence documented"
+    },
+    "steering": [
+      "t27u use supplied file",
+      "t28u signature Gemini"
+    ],
+    "alphaPNGSHA256": "0924106efc35e7e715514cc96391349807f0f24fdff43145f0191b6a3d2c266e",
+    "maskSHA256": "38fbdfa36e8f8044158342bc4cef4229562de37dbc13d5926af6b8a10c942496",
+    "recipeSHA256": "bbb1d64d2ab634c067668f459d70bfb05db1e84db97f439098fbcc2e5bba635b",
+    "officialFiles": [
+      {
+        "path": "media/Phaeoclavulina_roellinii@1600.webp",
+        "bytes": 301718,
+        "sha256": "9ba9119206a09aa9539412e13115ad156072706a3dfdb6a2084aa1b05dfa4848"
+      },
+      {
+        "path": "media/Phaeoclavulina_roellinii@400.webp",
+        "bytes": 35682,
+        "sha256": "400ece2361877abe106b429374cbed72856e9b4913bfae9340afb2c784da8965"
+      }
+    ]
+  }
+},
+{
+  "name": "Agaricus bohusii",
+  "author": "Bon",
+  "family": "Agaricaceae",
+  "genus": "Agaricus",
+  "order": "Agaricales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Agaricales",
+    "Agaricaceae",
+    "Agaricus"
+  ],
+  "summary": [
+    "Agaricales",
+    "Agaricaceae",
+    "Agaricus"
+  ],
+  "edibility": "edible",
+  "hymenium": "gills",
+  "where": [
+    "ground",
+    "grass"
+  ],
+  "color": [
+    "brown",
+    "white"
+  ],
+  "capFrom": 5.0,
+  "capTo": 15.0,
+  "stipeHeightFrom": 7.0,
+  "stipeHeightTo": 20.0,
+  "stipeThickFrom": 1.0,
+  "stipeThickTo": 3.0,
+  "label": {
+    "ar": "Agaricus bohusii",
+    "bg": "Бохусова печурка",
+    "cs": "pečárka Bohusova",
+    "da": "krumskællet champignon",
+    "de": "Spindelfüßiger Champignon",
+    "en": "medusa mushroom",
+    "es": "Agaricus bohusii",
+    "et": "Agaricus bohusii",
+    "fa": "Agaricus bohusii",
+    "fi": "Agaricus bohusii",
+    "fr": "agaric à pied en fuseau",
+    "he": "Agaricus bohusii",
+    "hi": "Agaricus bohusii",
+    "hr": "Agaricus bohusii",
+    "hu": "csoportos csiperke",
+    "id": "Agaricus bohusii",
+    "it": "Agaricus bohusii",
+    "ja": "Agaricus bohusii",
+    "ko": "Agaricus bohusii",
+    "lt": "Agaricus bohusii",
+    "lv": "Agaricus bohusii",
+    "nl": "spoelvoetchampignon",
+    "no": "Agaricus bohusii",
+    "pl": "pieczarka kępkowa",
+    "pt": "Agaricus bohusii",
+    "ro": "Agaricus bohusii",
+    "ru": "шампиньон Богуса",
+    "sk": "pečiarka trsovitá",
+    "sl": "šopasti kukmak",
+    "sr": "Agaricus bohusii",
+    "sv": "Agaricus bohusii",
+    "tr": "Agaricus bohusii",
+    "uk": "Agaricus bohusii",
+    "zh": "Agaricus bohusii"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [],
+    "en": [],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [
+      "psalliote à pied en fuseau"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [],
+    "sk": [],
+    "sl": [],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "ar": [],
+    "bg": [
+      "https://species.wikimedia.org/wiki/Agaricus_bohusii",
+      "https://bg.wikipedia.org/wiki/%D0%91%D0%BE%D1%85%D1%83%D1%81%D0%BE%D0%B2%D0%B0_%D0%BF%D0%B5%D1%87%D1%83%D1%80%D0%BA%D0%B0"
+    ],
+    "cs": [
+      "https://www.myko.cz/myko-atlas/Agaricus-bohusii/",
+      "https://cs.wikipedia.org/wiki/Pe%C4%8D%C3%A1rka_Bohusova"
+    ],
+    "da": [
+      "https://svampe.databasen.org/taxon/40128",
+      "https://api.gbif.org/v1/species/5243385/vernacularNames"
+    ],
+    "de": [
+      "https://api.gbif.org/v1/species/5243385/vernacularNames"
+    ],
+    "en": [
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=108651",
+      "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=108651",
+      "https://www.gbif.org/species/5243385",
+      "https://www.first-nature.com/fungi/agaricus-bohusii.php",
+      "https://www.myko.cz/myko-atlas/Agaricus-bohusii/",
+      "https://www.gobe.si/Gobe/AgaricusBohusii",
+      "https://www.gombacsoda.hu/gombak/csoportos_csiperke",
+      "https://nl.wikipedia.org/wiki/Spoelvoetchampignon",
+      "https://pl.wikipedia.org/wiki/Pieczarka_k%C4%99pkowa",
+      "https://bg.wikipedia.org/wiki/%D0%91%D0%BE%D1%85%D1%83%D1%81%D0%BE%D0%B2%D0%B0_%D0%BF%D0%B5%D1%87%D1%83%D1%80%D0%BA%D0%B0",
+      "https://doi.org/10.1016/j.foodres.2012.06.013",
+      "https://species.wikimedia.org/wiki/Agaricus_bohusii",
+      "https://api.gbif.org/v1/species/5243385/vernacularNames"
+    ],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [
+      "https://api.gbif.org/v1/species/5243385/vernacularNames",
+      "https://www.mycodb.fr/fiche.php?genre=Agaricus&espece=bohusii"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "https://www.gombacsoda.hu/gombak/csoportos_csiperke",
+      "https://hu.wikipedia.org/wiki/Csoportos_csiperke"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [
+      "https://api.gbif.org/v1/species/5243385/vernacularNames",
+      "https://www.verspreidingsatlas.nl/0001120",
+      "https://nl.wikipedia.org/wiki/Spoelvoetchampignon"
+    ],
+    "no": [],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/Pieczarka_k%C4%99pkowa"
+    ],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "https://species.wikimedia.org/wiki/Agaricus_bohusii"
+    ],
+    "sk": [
+      "https://www.nahuby.sk/atlas-hub/Agaricus-bohusii/pecierka-trsovita/ID904"
+    ],
+    "sl": [
+      "https://www.gobe.si/Gobe/AgaricusBohusii"
+    ],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "text": {
+    "ar": {
+      "description": "فطر كبير ومكتنز ذو صفائح، ينمو عادة في عناقيد متراصة تلتحم فيها قواعد السيقان بعضها ببعض. لا يُعرف إلا من أوروبا: فهو نادر في الجزر البريطانية وأيرلندا وهولندا وبلجيكا، وواسع الانتشار لكنه غير شائع في المجر، ويُذكر أنه شائع في صربيا.",
+      "cap": "قطرها ٥–١٥ cm، وقد يبلغ استثنائياً ٢٠ cm. في الطور المبكر جداً نصف كروية بحافة ملتفة إلى الداخل وسطح أملس بني، ثم محدبة إلى مسطحة، وتتشقق ما عدا مركزها إلى حراشف خشنة بنية داكنة مثلثة ذات أطراف مدببة منثنية إلى الخلف، مرتبة في حلقات متحدة المركز على خلفية بيضاء مائلة إلى البني الفاتح. لا تتفاعل مع KOH.",
+      "hymenium": "الصفائح حرة ومتزاحمة، تبقى بيضاء مدة طويلة، ثم وردية رمادية إلى وردية بلون اللحم، وأخيراً بنية شوكولاتية إلى بنية مسودّة، بحافة أفتح؛ تحمرّ عند الضغط. البازيديات رباعية الأبواغ؛ الكيلوسيستيدات كثيرة وهراوية.",
+      "stipe": "طولها عادة ٧–٢٠ cm وأحياناً حتى ٢٥ cm، وسمكها ١–٣ cm وقد يبلغ ٤ cm؛ أسطوانية إلى مغزلية، تضيق إلى قاعدة مدببة جذرية غالباً ما تكون عميقة في التربة، وتلتحم قواعد الأجسام الثمرية المتجاورة. فوق الحلقة بيضاء ملساء، وتحتها ليفية بنية، تسمرّ عند الضغط وتصبح بنية محمرة حيث تُجرح. الحلقة عالية سميكة مزدوجة ذات حافة بنية مسننة، وغالباً ما تظهر قرب القاعدة حلقة أو حلقتان شبيهتان بالغمد.",
+      "flesh": "بيضاء اللون ومتماسكة، سميكة في القبعة وبنية في الساق؛ عند القطع تتحول إلى الوردي ثم الأحمر النبيذي، ثم ببطء إلى البني المحمر. الرائحة والطعم لطيفان، فطريان.",
+      "sporePrint": "بني شوكولاتي إلى بني داكن. الأبواغ بيضوية إلى شبه كروية، ملساء، بنية، ٥–٨ × ٤٫٥–٦ µm.",
+      "habitat": "رمّي على تربة عميقة غنية بالدبال، غالباً طينية أو جيدة التسميد، وعلى السماد العضوي، في الغابات عريضة الأوراق والمختلطة مع البلوط والنير والدردار والقيقب والمران أو الحور، ونادراً تحت المخروطيات، وكذلك في الحدائق العامة والبساتين والسياجات النباتية وعلى جوانب الطرق وفي المقابر. يثمر من يوليو إلى نوفمبر، عادة في عناقيد متراصة من ٥–١٢ جسماً ثمرياً أو أكثر؛ وقد تزن المستعمرة الواحدة أكثر من ١ kg.",
+      "uses": "صالح للأكل ويُعدّ جيداً، ولا سيما وهو صغير. ولأنه نادر ومحمي في المجر، فالأفضل تركه في مكانه.",
+      "confusion": "لدى Agaricus subperonatus أيضاً قبعة حرشفية، لكن حراشفه ملتصقة بلا أطراف مدببة، ولا ينمو في عناقيد. ولدى Agaricus phaeolepidotus حراشف بنية أدق بكثير وبنية أنحف ورائحة كريهة، ويسبب اضطرابات معدية معوية. أما Agaricus augustus فأكبر وتفوح منه رائحة اللوز المر، ولا يكوّن Agaricus sylvaticus عناقيد بهذا الحجم. ويصفرّ Agaricus xanthodermus السام عند قاعدة الساق وتفوح منه رائحة الفينول. وقد تُخلط الأجسام الثمرية الصغيرة بأنواع Amanita البيضاء، التي لها صفائح بيضاء وقاعدة ساق منتفخة درنية.",
+      "notes": "محمي في المجر. وفي بلغاريا مهدد بالانقراض بشدة (Critically Endangered)؛ إذ لا تُعرف هناك سوى جمهرتين تهددهما قطع الأشجار والبناء والسياحة والحرائق والجمع للأكل. وفي بولندا كان معروفاً حتى عام ٢٠٠٣ من موقع واحد فقط، واقتُرح تصنيفه هناك نوعاً مهدداً بالانقراض. تحتوي الأجسام الثمرية على γ-توكوفيرول (فيتامين E) ومركبات فينولية وأحماض عضوية ذات نشاط قوي مضاد للأكسدة.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Голяма, масивна гъба с ламели, която обикновено расте на плътни туфи, с основите на пънчетата сраснали помежду си. Известна е само от Европа: на Британските острови и в Ирландия, в Нидерландия и Белгия е рядка, в Унгария е разпространена, но не е често срещана, а от Сърбия се съобщава като често срещана.",
+      "cap": "Диаметър 5–15 cm, по изключение до 20 cm. Съвсем млада е полусферична, с подвит ръб и гладка кафява повърхност, после изпъкнала до сплескана и, с изключение на центъра, напукана на едри, тъмнокафяви, триъгълни люспи с отгънати, заострени върхове, подредени в концентрични кръгове върху белезникава до светлокафява основа. С KOH не реагира.",
+      "hymenium": "Ламели свободни и гъсти, дълго белезникави, после сивкаворозови до месесторозови и накрая шоколадовокафяви до черникавокафяви, с по-светъл ръб; при натиск почервеняват. Базидии четириспорови; хейлоцистиди многобройни, бухалковидни.",
+      "stipe": "Обикновено 7–20 cm дълго, понякога до 25 cm, и 1–3 cm дебело, понякога до 4 cm; цилиндрично до вретеновидно, стеснено в заострена, вкореняваща се основа, която често е дълбоко в почвата, като основите на съседните плодни тела са сраснали. Над пръстена белезникаво и гладко, под него влакнесто и кафеникаво, при натиск покафенява и на повредените места става червеникавокафяво. Пръстенът е високо, дебел и двоен, с кафеникав, назъбен ръб, а близо до основата често се виждат един или два ръкавовидни пръстена.",
+      "flesh": "Белезникаво и твърдо, дебело в шапката, кафеникаво в пънчето; при разрязване порозовява до винено червено, а после бавно става червеникавокафяво. Мирис и вкус приятни, на гъба.",
+      "sporePrint": "Шоколадовокафяв до тъмнокафяв. Спори яйцевидни до почти кълбовидни, гладки, кафяви, 5–8 × 4,5–6 µm.",
+      "habitat": "Сапротроф върху дълбоки, богати на хумус, често глинести или добре наторени почви и върху компост, в широколистни и смесени гори с дъб, габър, бряст, клен, ясен или топола, рядко под иглолистни, както и в паркове, градини, жив плет, крайпътни ивици и гробища. Плодни тела образува от юли до ноември, обикновено на плътни туфи от 5–12 или повече плодни тела; една колония може да тежи над 1 kg.",
+      "uses": "Ядлива и смятана за добра, особено млада. Тъй като е рядка, а в Унгария защитена, най-добре е да се остави да расте.",
+      "confusion": "Agaricus subperonatus също има люспеста шапка, но люспите му са прилепнали, без заострени върхове, и не расте на туфи. Agaricus phaeolepidotus има много по-фини кафяви люспи, по-стройно телосложение и неприятна миризма и причинява стомашно-чревни разстройства. Agaricus augustus е по-голяма и мирише на горчиви бадеми, а Agaricus sylvaticus не образува толкова големи туфи. Отровната Agaricus xanthodermus пожълтява в основата на пънчето и мирише на фенол. Младите плодни тела могат да се сбъркат с белите видове от рода Amanita, които имат бели ламели и грудковидно удебелена основа на пънчето.",
+      "notes": "Защитена в Унгария. В България е критично застрашена (Critically Endangered); известни са само две находища, застрашени от сечи, строителство, туризъм, пожари и събиране за храна. В Полша до 2003 г. е била известна само от едно находище и там е предложена за застрашен вид. Плодните тела съдържат γ-токоферол (витамин E), фенолни съединения и органични киселини със силно антиоксидантно действие.",
+      "names": [],
+      "sourceUrls": [
+        "https://species.wikimedia.org/wiki/Agaricus_bohusii",
+        "https://bg.wikipedia.org/wiki/%D0%91%D0%BE%D1%85%D1%83%D1%81%D0%BE%D0%B2%D0%B0_%D0%BF%D0%B5%D1%87%D1%83%D1%80%D0%BA%D0%B0"
+      ],
+      "label": "Бохусова печурка"
+    },
+    "cs": {
+      "description": "Velká, mohutná lupenatá houba, která obvykle roste v těsných trsech se srostlými bázemi třeňů. Je známa jen z Evropy: na Britských ostrovech a v Irsku, v Nizozemsku a Belgii je vzácná, v Maďarsku rozšířená, ale nikoli hojná, a ze Srbska se uvádí jako hojná.",
+      "cap": "5–15 cm v průměru, výjimečně až 20 cm. Zcela mladý je polokulovitý s podvinutým okrajem a hladkým hnědým povrchem, pak klenutý až zploštělý a kromě středu rozpraskaný v hrubé, tmavě hnědé, trojúhelníkovité šupiny s odstávajícími, špičatými konci, uspořádané v soustředných kruzích na bělavém až světle hnědém podkladu. S KOH nereaguje.",
+      "hymenium": "Lupeny volné a husté, dlouho bělavé, pak šedorůžové až masově růžové a nakonec čokoládově hnědé až černohnědé, se světlejším ostřím; po otlačení červenají. Basidie čtyřvýtrusé; cheilocystidy hojné, kyjovité.",
+      "stipe": "Obvykle 7–20 cm dlouhý, někdy až 25 cm, a 1–3 cm tlustý, ojediněle až 4 cm; válcovitý až vřetenovitý, zúžený do špičaté, kořenující báze, která bývá hluboko v půdě, a báze sousedních plodnic jsou srostlé. Nad prstenem bělavý a hladký, pod ním vláknitý a nahnědlý, na otlačených místech hnědne a při poranění se barví červenohnědě. Prsten je vysoko posazený, tlustý a dvojitý, s nahnědlým, zoubkatým okrajem, a u báze bývá vidět jeden nebo dva pochvovité prstence.",
+      "flesh": "Bělavá a pevná, v klobouku silná, v třeni nahnědlá; po rozříznutí růžoví až vínově červená a pak pomalu červenohnědne. Vůně a chuť příjemné, houbové.",
+      "sporePrint": "Čokoládově hnědý až tmavě hnědý. Výtrusy vejčité až téměř kulovité, hladké, hnědé, 5–8 × 4,5–6 µm.",
+      "habitat": "Saprotrof na hluboké, humózní, často jílovité nebo dobře pohnojené půdě a na kompostu, v listnatých a smíšených lesích s dubem, habrem, jilmem, javorem, jasanem nebo topolem, vzácně pod jehličnany, a v parcích, zahradách, živých plotech, u cest a na hřbitovech. Plodnice tvoří od července do listopadu, obvykle v těsných trsech po 5–12 i více plodnicích; jedna kolonie může vážit přes 1 kg.",
+      "uses": "Jedlá a považuje se za dobrou, zvláště za mlada. Protože je vzácná a v Maďarsku chráněná, je nejlepší ji nechat růst.",
+      "confusion": "Agaricus subperonatus má také šupinatý klobouk, ale jeho šupiny jsou přitisklé, bez špičatých konců, a neroste v trsech. Agaricus phaeolepidotus má mnohem jemnější hnědé šupiny, štíhlejší stavbu a nepříjemný pach a způsobuje zažívací potíže. Agaricus augustus je větší a voní hořkými mandlemi a Agaricus sylvaticus netvoří tak velké trsy. Jedovatý Agaricus xanthodermus na bázi třeně žloutne a páchne fenolem. Mladé plodnice lze zaměnit s bílými druhy rodu Amanita, které mají bílé lupeny a hlízovitě rozšířenou bázi třeně.",
+      "notes": "V Maďarsku je chráněná. V Bulharsku je kriticky ohrožená (Critically Endangered); jsou tam známy jen dvě populace, které ohrožuje těžba dřeva, výstavba, turistika, požáry a sběr k jídlu. V Polsku byla do roku 2003 známa z jediné lokality a byla tam navržena mezi ohrožené druhy. Plodnice obsahují γ-tokoferol (vitamin E), fenolické sloučeniny a organické kyseliny se silnou antioxidační aktivitou.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.myko.cz/myko-atlas/Agaricus-bohusii/",
+        "https://cs.wikipedia.org/wiki/Pe%C4%8D%C3%A1rka_Bohusova"
+      ],
+      "label": "pečárka Bohusova"
+    },
+    "da": {
+      "description": "En stor, kraftig bladhat, der som regel vokser i tætte knipper med stokkenes basis vokset sammen. Den kendes kun fra Europa: på De Britiske Øer og i Irland, i Nederlandene og Belgien er den sjælden, i Ungarn udbredt, men ikke almindelig, og fra Serbien angives den som almindelig.",
+      "cap": "5–15 cm bred, undtagelsesvis op til 20 cm. Helt ung halvkugleformet med indrullet rand og glat, brun overflade, siden hvælvet til fladtrykt og, undtagen i midten, opbrudt i grove, mørkebrune, trekantede skæl med tilbagebøjede, spidse ender, ordnet i koncentriske ringe på en hvidlig til lysebrun bund. Ingen reaktion med KOH.",
+      "hymenium": "Lameller fri og tætte, længe hvidlige, siden gråligt rosa til kødrosa og til sidst chokoladebrune til sortbrune, med lysere æg; de rødmer ved tryk. Basidier firsporede; cheilocystider talrige, kølleformede.",
+      "stipe": "Som regel 7–20 cm lang, undertiden op til 25 cm, og 1–3 cm tyk, af og til op til 4 cm; cylindrisk til tenformet, tilspidset mod en spids, rodagtig basis, der ofte sidder dybt i jorden, og nabofrugtlegemernes baser er vokset sammen. Hvidlig og glat over ringen, trævlet og brunlig under den, brunende ved tryk og rødbrun, hvor den beskadiges. Ringen sidder højt, er tyk og dobbelt, med brunlig, tandet rand, og nær basis ses ofte en eller to skedeagtige ringe.",
+      "flesh": "Hvidligt og fast, tykt i hatten, brunligt i stokken; ved gennemskæring bliver det rosa til vinrødt og siden langsomt rødbrunt. Lugt og smag behagelige, svampeagtige.",
+      "sporePrint": "Chokoladebrunt til mørkebrunt. Sporer ægformede til næsten kugleformede, glatte, brune, 5–8 × 4,5–6 µm.",
+      "habitat": "Saprotrof på dyb, humusrig, ofte leret eller godt gødet jord og på kompost, i løv- og blandskov med eg, avnbøg, elm, ahorn, ask eller poppel, sjældent under nåletræer, samt i parker, haver, hække, vejkanter og på kirkegårde. Den danner frugtlegemer fra juli til november, som regel i tætte knipper med 5–12 eller flere frugtlegemer; én koloni kan veje over 1 kg.",
+      "uses": "Spiselig og regnes for god, især som ung. Da den er sjælden og fredet i Ungarn, bør den helst få lov at stå.",
+      "confusion": "Agaricus subperonatus har også en skællet hat, men dens skæl ligger fladt uden spidse ender, og den vokser ikke i knipper. Agaricus phaeolepidotus har langt finere brune skæl, en spinklere bygning og en ubehagelig lugt og giver mave-tarm-forgiftning. Agaricus augustus er større og lugter af bitre mandler, og Agaricus sylvaticus danner ikke så store knipper. Den giftige Agaricus xanthodermus gulner ved stokkens basis og lugter af fenol. Unge frugtlegemer kan forveksles med hvide Amanita-arter, som har hvide lameller og en knoldformet stokbasis.",
+      "notes": "Fredet i Ungarn. Kritisk truet (Critically Endangered) i Bulgarien, hvor kun to bestande kendes, truet af skovhugst, byggeri, turisme, brande og indsamling til spisebrug. I Polen var den i 2003 kun kendt fra en enkelt lokalitet og blev dér foreslået som truet. Frugtlegemerne indeholder γ-tocopherol (E-vitamin), phenoliske forbindelser og organiske syrer med stærk antioxidant virkning.",
+      "names": [],
+      "sourceUrls": [
+        "https://svampe.databasen.org/taxon/40128",
+        "https://api.gbif.org/v1/species/5243385/vernacularNames"
+      ],
+      "label": "krumskællet champignon"
+    },
+    "de": {
+      "description": "Ein großer, kräftiger Blätterpilz, der meist in dichten Büscheln mit miteinander verwachsenen Stielbasen wächst. Er ist nur aus Europa bekannt: auf den Britischen Inseln und in Irland, in den Niederlanden und Belgien ist er selten, in Ungarn weit verbreitet, aber nicht häufig, und aus Serbien wird er als häufig angegeben.",
+      "cap": "5–15 cm breit, ausnahmsweise bis 20 cm. Ganz jung halbkugelig mit eingerolltem Rand und glatter brauner Oberfläche, dann gewölbt bis abgeflacht und außer in der Mitte in grobe, dunkelbraune, dreieckige Schuppen mit zurückgebogenen, spitzen Enden aufgerissen, die konzentrisch auf weißlichem bis hellbraunem Grund angeordnet sind. Keine Reaktion mit KOH.",
+      "hymenium": "Lamellen frei und gedrängt, lange weißlich, dann graurosa bis fleischrosa und schließlich schokoladenbraun bis schwarzbraun, mit hellerer Schneide; auf Druck röten sie. Basidien viersporig; Cheilozystiden zahlreich, keulenförmig.",
+      "stipe": "Meist 7–20 cm lang, manchmal bis 25 cm, und 1–3 cm dick, gelegentlich bis 4 cm; zylindrisch bis spindelförmig, in eine spitze, wurzelnde Basis verjüngt, die oft tief im Boden steckt, wobei die Basen benachbarter Fruchtkörper verwachsen sind. Über dem Ring weißlich und glatt, darunter faserig und bräunlich, auf Druck bräunend und an verletzten Stellen rotbraun verfärbend. Der Ring sitzt hoch, ist dick und doppelt, mit bräunlichem, gezähntem Rand, und nahe der Basis zeigen sich oft ein oder zwei scheidenartige Ringzonen.",
+      "flesh": "Weißlich und fest, im Hut dick, im Stiel bräunlich; im Schnitt rosa bis weinrot und dann langsam rotbraun verfärbend. Geruch und Geschmack angenehm pilzartig.",
+      "sporePrint": "Schokoladenbraun bis dunkelbraun. Sporen eiförmig bis fast kugelig, glatt, braun, 5–8 × 4,5–6 µm.",
+      "habitat": "Saprobiont auf tiefgründigem, humusreichem, oft lehmigem oder gut gedüngtem Boden und auf Kompost, in Laub- und Mischwäldern mit Eiche, Hainbuche, Ulme, Ahorn, Esche oder Pappel, selten unter Nadelbäumen, sowie in Parks, Gärten, Hecken, an Wegrändern und auf Friedhöfen. Er fruktifiziert von Juli bis November, meist in dichten Büscheln aus 5–12 oder mehr Fruchtkörpern; eine Kolonie kann über 1 kg wiegen.",
+      "uses": "Essbar und als gut geschätzt, besonders jung. Da er selten und in Ungarn geschützt ist, lässt man ihn am besten stehen.",
+      "confusion": "Agaricus subperonatus hat ebenfalls einen schuppigen Hut, doch seine Schuppen liegen flach an, ohne spitze Enden, und er wächst nicht büschelig. Agaricus phaeolepidotus hat viel feinere braune Schuppen, einen schlankeren Wuchs und einen unangenehmen Geruch und verursacht Magen-Darm-Beschwerden. Agaricus augustus ist größer und riecht nach Bittermandeln, und Agaricus sylvaticus bildet keine so großen Büschel. Der giftige Agaricus xanthodermus gilbt an der Stielbasis und riecht nach Phenol. Junge Fruchtkörper könnten mit weißen Amanita-Arten verwechselt werden, die weiße Lamellen und eine knollig verdickte Stielbasis haben.",
+      "notes": "In Ungarn geschützt. In Bulgarien vom Aussterben bedroht (Critically Endangered); dort sind nur zwei Populationen bekannt, die durch Holzeinschlag, Bebauung, Tourismus, Brände und das Sammeln als Speisepilz gefährdet sind. In Polen war er bis 2003 nur von einem einzigen Fundort bekannt und wurde dort als stark gefährdet vorgeschlagen. Die Fruchtkörper enthalten γ-Tocopherol (Vitamin E), phenolische Verbindungen und organische Säuren mit starker antioxidativer Wirkung.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/5243385/vernacularNames"
+      ],
+      "label": "Spindelfüßiger Champignon"
+    },
+    "en": {
+      "description": "A large, stout gilled mushroom that usually grows in tight clusters with the bases of the stems joined together. It is known only from Europe: it is rare in Britain and Ireland, the Netherlands and Belgium, widespread but not common in Hungary, and reported as common in Serbia.",
+      "cap": "5–15 cm across, exceptionally up to 20 cm. Hemispherical with an inrolled margin and a smooth brown surface when very young, then convex to flattened and, except at the centre, broken into coarse, dark brown, triangular scales with recurved, pointed tips, arranged in concentric rings on a whitish to pale brown ground. No reaction with KOH.",
+      "hymenium": "Gills free and crowded, long remaining whitish, then greyish pink to flesh pink and finally chocolate to blackish brown, with a paler edge; they redden when bruised. Basidia four-spored; cheilocystidia abundant and club-shaped.",
+      "stipe": "Usually 7–20 cm long, sometimes up to 25 cm, and 1–3 cm thick, occasionally up to 4 cm; cylindrical to spindle-shaped, narrowing to a pointed, rooting base that is often deep in the soil, with the bases of neighbouring fruit bodies fused. Whitish and smooth above the ring, fibrous and brownish below, bruising brown and turning reddish brown where damaged. The ring is high, thick and double, with a brownish, toothed edge, and one or two sheath-like rings often show near the base.",
+      "flesh": "Whitish and firm, thick in the cap, brownish in the stipe; when cut it turns pink to wine red and then slowly reddish brown. Odour and taste pleasant and mushroomy.",
+      "sporePrint": "Chocolate brown to dark brown. Spores ovoid to subglobose, smooth, brown, 5–8 × 4.5–6 µm.",
+      "habitat": "Saprotrophic on deep, humus-rich, often clayey or well-fertilised soil and on compost, in broadleaf and mixed woods with oak, hornbeam, elm, maple, ash or poplar, rarely under conifers, and in parks, gardens, hedges, road verges and churchyards. It fruits from July to November, usually in tight clusters of 5–12 or more fruit bodies; one colony can weigh more than 1 kg.",
+      "uses": "Edible and regarded as good, especially when young. Because it is rare, and protected in Hungary, it is best left where it grows.",
+      "confusion": "Agaricus subperonatus also has a scaly cap, but its scales lie flat without pointed tips and it does not grow in clusters. Agaricus phaeolepidotus has much finer brown scales, a slighter build and an unpleasant smell, and causes gastric upsets. Agaricus augustus is larger and smells of bitter almonds, and Agaricus sylvaticus does not form such large clusters. Poisonous Agaricus xanthodermus stains yellow at the stipe base and smells of phenol. Young buttons could be mistaken for white Amanita species, which have white gills and a swollen stipe base.",
+      "notes": "Protected in Hungary. Critically endangered in Bulgaria, where only two populations are known, threatened by logging, building, tourism, fires and collecting for food. By 2003 it was known from a single site in Poland and was proposed as endangered there. The fruit bodies contain γ-tocopherol (vitamin E), phenolic compounds and organic acids with strong antioxidant activity.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=108651",
+        "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=108651",
+        "https://www.gbif.org/species/5243385",
+        "https://www.first-nature.com/fungi/agaricus-bohusii.php",
+        "https://www.myko.cz/myko-atlas/Agaricus-bohusii/",
+        "https://www.gobe.si/Gobe/AgaricusBohusii",
+        "https://www.gombacsoda.hu/gombak/csoportos_csiperke",
+        "https://nl.wikipedia.org/wiki/Spoelvoetchampignon",
+        "https://pl.wikipedia.org/wiki/Pieczarka_k%C4%99pkowa",
+        "https://bg.wikipedia.org/wiki/%D0%91%D0%BE%D1%85%D1%83%D1%81%D0%BE%D0%B2%D0%B0_%D0%BF%D0%B5%D1%87%D1%83%D1%80%D0%BA%D0%B0",
+        "https://doi.org/10.1016/j.foodres.2012.06.013",
+        "https://species.wikimedia.org/wiki/Agaricus_bohusii",
+        "https://api.gbif.org/v1/species/5243385/vernacularNames"
+      ],
+      "label": "medusa mushroom"
+    },
+    "es": {
+      "description": "Una seta grande y robusta con láminas que suele crecer en ramilletes apretados, con las bases de los pies soldadas entre sí. Solo se conoce de Europa: es rara en las islas británicas e Irlanda, los Países Bajos y Bélgica, está extendida pero no es común en Hungría y se cita como común en Serbia.",
+      "cap": "5–15 cm de diámetro, excepcionalmente hasta 20 cm. Muy joven es hemisférico, con el margen enrollado y la superficie lisa y parda, luego convexo a aplanado y, salvo en el centro, disociado en escamas gruesas, pardo oscuro, triangulares, con puntas agudas y levantadas, dispuestas en círculos concéntricos sobre un fondo blanquecino a pardo pálido. No reacciona con KOH.",
+      "hymenium": "Láminas libres y apretadas, blanquecinas durante mucho tiempo, luego rosa grisáceo a rosa carne y finalmente pardo chocolate a pardo negruzco, con la arista más pálida; enrojecen al rozarlas. Basidios tetraspóricos; queilocistidios abundantes, claviformes.",
+      "stipe": "Normalmente de 7–20 cm de largo, a veces hasta 25 cm, y 1–3 cm de grosor, en ocasiones hasta 4 cm; cilíndrico a fusiforme, estrechado en una base puntiaguda y radicante que a menudo está profundamente hundida en el suelo, con las bases de los ejemplares vecinos soldadas. Blanquecino y liso por encima del anillo, fibriloso y pardusco por debajo, se oscurece al roce y se vuelve pardo rojizo donde se daña. El anillo es alto, grueso y doble, con el borde pardusco y dentado, y cerca de la base suelen verse uno o dos rodetes envainantes.",
+      "flesh": "Blanquecina y firme, gruesa en el sombrero, parduzca en el pie; al corte se vuelve rosa a rojo vinoso y después lentamente pardo rojiza. Olor y sabor agradables, fúngicos.",
+      "sporePrint": "Pardo chocolate a pardo oscuro. Esporas ovoides a subglobosas, lisas, pardas, 5–8 × 4,5–6 µm.",
+      "habitat": "Saprótrofo en suelos profundos, ricos en humus, a menudo arcillosos o bien abonados, y en compost, en bosques de frondosas y mixtos con roble, carpe, olmo, arce, fresno o álamo, rara vez bajo coníferas, y en parques, jardines, setos, cunetas y cementerios. Fructifica de julio a noviembre, normalmente en ramilletes apretados de 5–12 o más ejemplares; una colonia puede pesar más de 1 kg.",
+      "uses": "Comestible y considerada buena, sobre todo joven. Como es rara, y está protegida en Hungría, es mejor dejarla donde crece.",
+      "confusion": "Agaricus subperonatus también tiene el sombrero escamoso, pero sus escamas son aplicadas, sin puntas agudas, y no crece en ramilletes. Agaricus phaeolepidotus tiene escamas pardas mucho más finas, un porte más esbelto y un olor desagradable, y causa trastornos gastrointestinales. Agaricus augustus es más grande y huele a almendras amargas, y Agaricus sylvaticus no forma ramilletes tan grandes. El tóxico Agaricus xanthodermus amarillea en la base del pie y huele a fenol. Los ejemplares jóvenes podrían confundirse con especies blancas del género Amanita, que tienen láminas blancas y la base del pie bulbosa.",
+      "notes": "Protegida en Hungría. En peligro crítico (Critically Endangered) en Bulgaria, donde solo se conocen dos poblaciones, amenazadas por la tala, la construcción, el turismo, los incendios y la recolección para consumo. En Polonia, en 2003 solo se conocía de una localidad y allí se propuso como especie en peligro. Los cuerpos fructíferos contienen γ-tocoferol (vitamina E), compuestos fenólicos y ácidos orgánicos con una fuerte actividad antioxidante.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Suur, jässakas lehikseen, mis kasvab tavaliselt tihedate kogumikena, jalgade alused omavahel kokku kasvanud. Seda tuntakse ainult Euroopast: Briti saartel ja Iirimaal, Madalmaades ja Belgias on see haruldane, Ungaris laialt levinud, kuid mitte sage, ning Serbiast on seda teatatud sagedasena.",
+      "cap": "Läbimõõt 5–15 cm, erandlikult kuni 20 cm. Päris noorena poolkerajas, sissekeerdunud servaga ja sileda pruuni pinnaga, hiljem kumer kuni lame ning keskosa välja arvatud lõhenenud jämedateks, tumepruunideks, kolmnurksteks soomusteks, mille teravad otsad on tagasi pöördunud ja mis paiknevad kontsentriliste ringidena valkjal kuni helepruunil põhjal. KOH-ga ei reageeri.",
+      "hymenium": "Eosleheküljed vabad ja tihedad, kaua valkjad, siis hallikasroosad kuni lihakasroosad ja lõpuks šokolaadipruunid kuni mustjaspruunid, heledama servaga; vajutamisel punetuvad. Basiidid neljaeoselised; heilotsüstiidid rohked, nuijajad.",
+      "stipe": "Tavaliselt 7–20 cm pikk, mõnikord kuni 25 cm, ja 1–3 cm jäme, vahel kuni 4 cm; silindriline kuni värtnakujuline, ahenedes teravaks juurduvaks aluseks, mis on sageli sügaval mullas, ning naabruses olevate viljakehade alused on kokku kasvanud. Rõnga kohal valkjas ja sile, allpool kiuline ja pruunikas, vajutamisel pruunistuv ja vigastatud kohtades punakaspruuniks muutuv. Rõngas paikneb kõrgel, on paks ja kahekordne, pruunika hambulise servaga, ning aluse lähedal on sageli näha üks või kaks tupetaolist rõngast.",
+      "flesh": "Valkjas ja tihke, kübaras paks, jalas pruunikas; lõikamisel muutub roosaks kuni veinipunaseks ja seejärel aeglaselt punakaspruuniks. Lõhn ja maitse meeldivad, seenelõhnalised.",
+      "sporePrint": "Šokolaadipruun kuni tumepruun. Eosed munajad kuni peaaegu kerajad, siledad, pruunid, 5–8 × 4,5–6 µm.",
+      "habitat": "Saprotroof sügaval, huumusrikkal, sageli savisel või hästi väetatud mullal ja kompostil, lehi- ja segametsades tamme, valgepöögi, jalaka, vahtra, saare või papli all, harva okaspuude all, samuti parkides, aedades, hekkides, teeservadel ja kalmistutel. Viljakehi moodustab juulist novembrini, tavaliselt tihedate kogumikena 5–12 või enamast viljakehast; üks koloonia võib kaaluda üle 1 kg.",
+      "uses": "Söödav ja heaks peetud, eriti noorena. Kuna see on haruldane ja Ungaris kaitse all, on parem jätta see kasvama.",
+      "confusion": "Ka liigil Agaricus subperonatus on soomuseline kübar, kuid selle soomused on liibuvad, teravate otsteta, ja see ei kasva kogumikena. Liigil Agaricus phaeolepidotus on palju peenemad pruunid soomused, saledam kasv ja ebameeldiv lõhn ning see põhjustab seedehäireid. Agaricus augustus on suurem ja lõhnab mõrumandli järele ning Agaricus sylvaticus ei moodusta nii suuri kogumikke. Mürgine Agaricus xanthodermus kollastub jala alusel ja lõhnab fenooli järele. Noori viljakehi võib segi ajada valgete Amanita liikidega, millel on valged eoslehed ja mugulja paksendiga jala alus.",
+      "notes": "Ungaris kaitse all. Bulgaarias äärmiselt ohustatud (Critically Endangered); seal on teada vaid kaks populatsiooni, mida ohustavad metsaraie, ehitustegevus, turism, tulekahjud ja korjamine toiduks. Poolas oli see 2003. aastaks teada ainult ühest leiukohast ja seal tehti ettepanek arvata see eriti ohustatud liikide hulka. Viljakehad sisaldavad γ-tokoferooli (E-vitamiini), fenoolseid ühendeid ja tugeva antioksüdantse toimega orgaanilisi happeid.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fa": {
+      "description": "قارچی بزرگ و تنومند با تیغه که معمولاً در دسته‌های فشرده می‌روید و پایه‌های ساقه‌ها به هم جوش خورده‌اند. تنها از اروپا شناخته شده است: در جزایر بریتانیا و ایرلند، هلند و بلژیک کمیاب است، در مجارستان گسترده اما نه رایج، و از صربستان رایج گزارش شده است.",
+      "cap": "قطر ۵–۱۵ cm و به‌طور استثنایی تا ۲۰ cm. در جوانی بسیار زود نیم‌کروی با لبه‌ای به درون پیچیده و سطحی صاف و قهوه‌ای، سپس محدب تا پهن، و به‌جز مرکز به فلس‌های درشت، قهوه‌ای تیره و سه‌گوش با نوک‌های تیز و برگشته شکاف برمی‌دارد که به صورت حلقه‌های هم‌مرکز روی زمینه‌ای سفیدفام تا قهوه‌ای روشن چیده شده‌اند. با KOH واکنش نمی‌دهد.",
+      "hymenium": "تیغه‌ها آزاد و فشرده، مدتی طولانی سفیدفام، سپس صورتی خاکستری تا صورتی گوشتی و سرانجام قهوه‌ای شکلاتی تا قهوه‌ای سیاه‌فام، با لبه‌ای روشن‌تر؛ با فشار سرخ می‌شوند. بازیدیوم‌ها چهارهاگی؛ کیلوسیستیدها فراوان و گرزی.",
+      "stipe": "معمولاً به طول ۷–۲۰ cm، گاهی تا ۲۵ cm، و ضخامت ۱–۳ cm، گاه تا ۴ cm؛ استوانه‌ای تا دوکی، باریک‌شونده به پایه‌ای تیز و ریشه‌دار که اغلب در عمق خاک است، و پایه‌های اندام‌های بارده مجاور به هم جوش خورده‌اند. بالای حلقه سفیدفام و صاف، زیر آن رشته‌ای و قهوه‌ای‌فام، با فشار قهوه‌ای می‌شود و در جای آسیب‌دیده قهوه‌ای مایل به سرخ می‌گردد. حلقه بالا قرار دارد، ضخیم و دوتایی است و لبه‌ای قهوه‌ای‌فام و دندانه‌دار دارد، و نزدیک پایه اغلب یک یا دو حلقهٔ غلاف‌مانند دیده می‌شود.",
+      "flesh": "سفیدفام و سفت، در کلاهک ضخیم و در ساقه قهوه‌ای‌فام؛ در برش صورتی تا سرخ شرابی و سپس آرام‌آرام قهوه‌ای مایل به سرخ می‌شود. بو و مزه خوشایند و قارچی.",
+      "sporePrint": "قهوه‌ای شکلاتی تا قهوه‌ای تیره. هاگ‌ها تخم‌مرغی تا تقریباً کروی، صاف، قهوه‌ای، ۵–۸ × ۴٫۵–۶ µm.",
+      "habitat": "گندروی روی خاک عمیق و سرشار از هوموس، اغلب رسی یا خوب کوددهی‌شده، و روی کمپوست، در جنگل‌های پهن‌برگ و آمیخته با بلوط، ممرز، نارون، افرا، زبان‌گنجشک یا صنوبر، به‌ندرت زیر سوزنی‌برگان، و نیز در پارک‌ها، باغ‌ها، پرچین‌ها، کنارهٔ جاده‌ها و گورستان‌ها. از ژوئیه تا نوامبر میوه می‌دهد، معمولاً در دسته‌های فشرده از ۵–۱۲ اندام بارده یا بیشتر؛ یک کلنی می‌تواند بیش از ۱ kg وزن داشته باشد.",
+      "uses": "خوراکی و خوب شمرده می‌شود، به‌ویژه در جوانی. چون کمیاب است و در مجارستان حمایت می‌شود، بهتر است در جای خود رها شود.",
+      "confusion": "Agaricus subperonatus نیز کلاهکی فلس‌دار دارد، اما فلس‌هایش چسبیده و بدون نوک تیزند و در دسته نمی‌روید. Agaricus phaeolepidotus فلس‌های قهوه‌ای بسیار ریزتر، ساختاری باریک‌تر و بویی ناخوشایند دارد و ناراحتی گوارشی ایجاد می‌کند. Agaricus augustus بزرگ‌تر است و بوی بادام تلخ می‌دهد، و Agaricus sylvaticus دسته‌هایی به این بزرگی نمی‌سازد. Agaricus xanthodermus سمی در پایهٔ ساقه زرد می‌شود و بوی فنل می‌دهد. اندام‌های بارده جوان را ممکن است با گونه‌های سفید Amanita اشتباه گرفت که تیغه‌های سفید و پایهٔ ساقهٔ پیازی‌شکل دارند.",
+      "notes": "در مجارستان حمایت می‌شود. در بلغارستان در معرض خطر انقراض بحرانی (Critically Endangered) است؛ تنها دو جمعیت از آن شناخته شده که قطع درختان، ساخت‌وساز، گردشگری، آتش‌سوزی و چیدن برای خوراک تهدیدشان می‌کند. در لهستان تا سال ۲۰۰۳ تنها از یک رویشگاه شناخته شده بود و در آنجا برای فهرست گونه‌های در خطر پیشنهاد شد. اندام‌های بارده حاوی γ-توکوفرول (ویتامین E)، ترکیبات فنولی و اسیدهای آلی با فعالیت آنتی‌اکسیدانی قوی‌اند.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Suuri, tukeva helttasieni, joka kasvaa yleensä tiiviinä kimppuina jalkojen tyvien ollessa yhteenkasvaneita. Se tunnetaan vain Euroopasta: Brittein saarilla ja Irlannissa, Alankomaissa ja Belgiassa se on harvinainen, Unkarissa laajalle levinnyt mutta ei yleinen, ja Serbiasta se ilmoitetaan yleiseksi.",
+      "cap": "Läpimitta 5–15 cm, poikkeuksellisesti jopa 20 cm. Aivan nuorena puolipallomainen, reuna sisäänkäpertynyt ja pinta sileä ja ruskea, myöhemmin kupera tai litistynyt ja keskustaa lukuun ottamatta repeillyt karkeiksi, tummanruskeiksi, kolmiomaisiksi suomuiksi, joiden terävät kärjet ovat taaksepäin taipuneet ja jotka ovat samankeskisinä kehinä vaaleaa tai vaaleanruskeaa pohjaa vasten. Ei reagoi KOH:n kanssa.",
+      "hymenium": "Heltat vapaat ja tiheät, pitkään vaaleat, sitten harmahtavan tai lihanpunertavan vaaleanpunaiset ja lopulta suklaanruskeat tai mustanruskeat, särmä vaaleampi; painettaessa ne punertuvat. Kantasolut nelisiitiöisiä; särmäkystidit runsaita, nuijamaisia.",
+      "stipe": "Yleensä 7–20 cm pitkä, joskus jopa 25 cm, ja 1–3 cm paksu, toisinaan jopa 4 cm; lieriömäinen tai värttinämäinen, kapenee teräväksi, juurehtivaksi tyveksi, joka on usein syvällä maassa, ja vierekkäisten itiöemien tyvet ovat yhteenkasvaneita. Renkaan yläpuolella vaalea ja sileä, alapuolella kuituinen ja ruskehtava, ruskettuu painettaessa ja muuttuu punaruskeaksi vaurioituneista kohdista. Rengas on korkealla, paksu ja kaksinkertainen, reuna ruskehtava ja hammaslaitainen, ja tyven lähellä näkyy usein yksi tai kaksi tuppimaista rengasta.",
+      "flesh": "Vaalea ja kiinteä, lakissa paksu, jalassa ruskehtava; leikattaessa se muuttuu vaaleanpunaiseksi tai viininpunaiseksi ja sitten hitaasti punaruskeaksi. Haju ja maku miellyttävät, sienimäiset.",
+      "sporePrint": "Suklaanruskea tai tummanruskea. Itiöt munanmuotoisia tai lähes pallomaisia, sileitä, ruskeita, 5–8 × 4,5–6 µm.",
+      "habitat": "Lahottaja syvällä, runsashumuksisella, usein savisella tai hyvin lannoitetulla maalla ja kompostissa, lehti- ja sekametsissä tammen, valkopyökin, jalavan, vaahteran, saarnen tai poppelin alla, harvoin havupuiden alla, sekä puistoissa, puutarhoissa, pensasaidoissa, tienvarsilla ja hautausmailla. Itiöemiä muodostuu heinäkuusta marraskuuhun, yleensä tiiviinä 5–12 tai useamman itiöemän kimppuina; yksi yhdyskunta voi painaa yli 1 kg.",
+      "uses": "Syötävä ja hyvänä pidetty, etenkin nuorena. Koska se on harvinainen ja Unkarissa rauhoitettu, se on parasta jättää paikalleen.",
+      "confusion": "Myös Agaricus subperonatus -lajilla on suomuinen lakki, mutta sen suomut ovat painautuneita ilman teräviä kärkiä, eikä se kasva kimppuina. Agaricus phaeolepidotus -lajilla on paljon hienommat ruskeat suomut, hennompi rakenne ja epämiellyttävä haju, ja se aiheuttaa maha-suolistovaivoja. Agaricus augustus on suurempi ja tuoksuu karvasmantelilta, eikä Agaricus sylvaticus muodosta yhtä suuria kimppuja. Myrkyllinen Agaricus xanthodermus kellastuu jalan tyvestä ja haisee fenolilta. Nuoria itiöemiä voi sekoittaa valkoisiin Amanita-lajeihin, joilla on valkoiset heltat ja mukulamaisesti paksuuntunut jalan tyvi.",
+      "notes": "Rauhoitettu Unkarissa. Bulgariassa äärimmäisen uhanalainen (Critically Endangered); siellä tunnetaan vain kaksi esiintymää, joita uhkaavat hakkuut, rakentaminen, matkailu, palot ja keruu ruoaksi. Puolassa se tunnettiin vuoteen 2003 mennessä vain yhdeltä kasvupaikalta, ja sitä ehdotettiin siellä erittäin uhanalaiseksi. Itiöemät sisältävät γ-tokoferolia (E-vitamiinia), fenoliyhdisteitä ja orgaanisia happoja, joilla on voimakas antioksidanttivaikutus.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fr": {
+      "description": "Grand champignon à lames robuste qui pousse généralement en touffes serrées aux bases des pieds soudées entre elles. Il n’est connu que d’Europe : rare dans les îles Britanniques et en Irlande, aux Pays-Bas et en Belgique, répandu mais peu commun en Hongrie, il est signalé comme commun en Serbie.",
+      "cap": "5–15 cm de diamètre, exceptionnellement jusqu’à 20 cm. Hémisphérique à marge enroulée et à surface brune et lisse chez les très jeunes exemplaires, puis convexe à aplani et, sauf au centre, dissocié en grosses squames brun foncé, triangulaires, à pointes aiguës et retroussées, disposées en cercles concentriques sur un fond blanchâtre à brun pâle. Pas de réaction à la KOH.",
+      "hymenium": "Lames libres et serrées, longtemps blanchâtres, puis rose grisâtre à rose chair et enfin brun chocolat à brun noirâtre, à arête plus pâle ; elles rougissent au froissement. Basides tétrasporiques ; cheilocystides abondantes, claviformes.",
+      "stipe": "Généralement 7–20 cm de long, parfois jusqu’à 25 cm, et 1–3 cm d’épaisseur, parfois jusqu’à 4 cm ; cylindrique à fusiforme, atténué en une base pointue et radicante souvent profondément enfoncée dans le sol, les bases des carpophores voisins étant soudées. Blanchâtre et lisse au-dessus de l’anneau, fibrilleux et brunâtre au-dessous, brunissant au toucher et devenant brun rougeâtre aux endroits abîmés. L’anneau est haut placé, épais et double, à bord brunâtre et denté, et un ou deux bourrelets engainants sont souvent visibles près de la base.",
+      "flesh": "Blanchâtre et ferme, épaisse dans le chapeau, brunâtre dans le pied ; à la coupe, elle rosit jusqu’au rouge vineux, puis brunit lentement en brun rougeâtre. Odeur et saveur agréables, fongiques.",
+      "sporePrint": "Brun chocolat à brun foncé. Spores ovoïdes à subglobuleuses, lisses, brunes, 5–8 × 4,5–6 µm.",
+      "habitat": "Saprotrophe sur sol profond, riche en humus, souvent argileux ou bien fumé, et sur compost, dans les forêts feuillues et mixtes avec chêne, charme, orme, érable, frêne ou peuplier, rarement sous conifères, ainsi que dans les parcs, jardins, haies, bords de route et cimetières. Il fructifie de juillet à novembre, généralement en touffes serrées de 5–12 carpophores ou plus ; une colonie peut peser plus de 1 kg.",
+      "uses": "Comestible et considéré comme bon, surtout jeune. Comme il est rare, et protégé en Hongrie, mieux vaut le laisser sur place.",
+      "confusion": "Agaricus subperonatus a aussi un chapeau squameux, mais ses squames sont appliquées, sans pointes aiguës, et il ne pousse pas en touffes. Agaricus phaeolepidotus a des squames brunes beaucoup plus fines, une silhouette plus grêle et une odeur désagréable, et provoque des troubles digestifs. Agaricus augustus est plus grand et sent l’amande amère, et Agaricus sylvaticus ne forme pas d’aussi grandes touffes. Le toxique Agaricus xanthodermus jaunit à la base du pied et sent le phénol. Les jeunes exemplaires pourraient être confondus avec les espèces blanches du genre Amanita, qui ont des lames blanches et une base du pied renflée en bulbe.",
+      "notes": "Protégé en Hongrie. En danger critique (Critically Endangered) en Bulgarie, où seules deux populations sont connues, menacées par l’exploitation forestière, la construction, le tourisme, les incendies et la cueillette pour la consommation. En Pologne, il n’était connu en 2003 que d’une seule station et y a été proposé comme espèce en danger. Les carpophores contiennent du γ-tocophérol (vitamine E), des composés phénoliques et des acides organiques dotés d’une forte activité antioxydante.",
+      "names": [
+        "psalliote à pied en fuseau"
+      ],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/5243385/vernacularNames",
+        "https://www.mycodb.fr/fiche.php?genre=Agaricus&espece=bohusii"
+      ],
+      "label": "agaric à pied en fuseau"
+    },
+    "he": {
+      "description": "פטרייה גדולה וחסונה בעלת זימים, הגדלה בדרך כלל באשכולות צפופים שבסיסי רגליהם מאוחים זה לזה. היא ידועה רק מאירופה: באיים הבריטיים ובאירלנד, בהולנד ובבלגיה היא נדירה, בהונגריה נפוצה אך אינה שכיחה, ומסרביה היא מדווחת כשכיחה.",
+      "cap": "קוטר 5–15 cm, ובאופן חריג עד 20 cm. בצעירותה המוקדמת חצי כדורי, עם שוליים מגולגלים פנימה ופני שטח חלקים וחומים, אחר כך קמור עד שטוח, ולמעט במרכז מתבקע לקשקשים גסים, חומים כהים ומשולשים בעלי קצוות מחודדים ומופנים לאחור, הערוכים במעגלים קונצנטריים על רקע לבנבן עד חום בהיר. אין תגובה עם KOH.",
+      "hymenium": "זימים חופשיים וצפופים, לבנבנים זמן רב, אחר כך ורודים־אפרפרים עד ורוד בשרי ולבסוף חומים כשוקולד עד חומים־שחרחרים, עם שפה בהירה יותר; הם מאדימים בלחיצה. הבזידיות ארבע־נבגיות; הכילוציסטידות רבות ואלתיות.",
+      "stipe": "בדרך כלל באורך 7–20 cm, לעתים עד 25 cm, ובעובי 1–3 cm, מדי פעם עד 4 cm; גלילית עד כישורית, מצרה לבסיס מחודד ומשריש הנמצא לעתים קרובות עמוק באדמה, ובסיסי גופי הפרי הסמוכים מאוחים. מעל הטבעת לבנבנה וחלקה, מתחתיה סיבית וחומחומה, משחימה בלחיצה ונעשית חומה־אדמדמה במקום שנפגע. הטבעת גבוהה, עבה וכפולה, בעלת שפה חומחומה ומשוננת, וליד הבסיס נראות לעתים קרובות טבעת אחת או שתיים דמויות נדן.",
+      "flesh": "לבנבנה ומוצקה, עבה בכובע וחומחומה ברגל; בחיתוך היא מוורידה עד אדום יין ואחר כך הופכת לאט לחומה־אדמדמה. ריח וטעם נעימים, פטרייתיים.",
+      "sporePrint": "חום שוקולד עד חום כהה. נבגים ביציים עד כמעט כדוריים, חלקים, חומים, 5–8 × 4.5–6 µm.",
+      "habitat": "ספרוטרופית בקרקע עמוקה ועשירה בחומוס, לעתים קרובות חרסיתית או מזובלת היטב, ובקומפוסט, ביערות נשירים ומעורבים עם אלון, קרפינוס, בוקיצה, אדר, מילה או צפצפה, לעתים רחוקות מתחת למחטניים, וכן בפארקים, בגנים, בגדרות חיות, בשולי דרכים ובבתי קברות. היא מניבה מיולי עד נובמבר, בדרך כלל באשכולות צפופים של 5–12 גופי פרי או יותר; מושבה אחת עשויה לשקול יותר מ־1 kg.",
+      "uses": "אכילה ונחשבת טובה, בייחוד בצעירותה. מאחר שהיא נדירה ומוגנת בהונגריה, מוטב להשאיר אותה במקומה.",
+      "confusion": "גם ל־Agaricus subperonatus יש כובע קשקשי, אך קשקשיו צמודים וללא קצוות מחודדים, והוא אינו גדל באשכולות. ל־Agaricus phaeolepidotus קשקשים חומים עדינים בהרבה, מבנה דק יותר וריח לא נעים, והיא גורמת להפרעות במערכת העיכול. Agaricus augustus גדולה יותר ומדיפה ריח של שקדים מרים, ו־Agaricus sylvaticus אינה יוצרת אשכולות גדולים כל כך. Agaricus xanthodermus הרעילה מצהיבה בבסיס הרגל ומדיפה ריח של פנול. גופי פרי צעירים עלולים להתבלבל עם מיני Amanita לבנים, שלהם זימים לבנים ובסיס רגל תפוח כפקעת.",
+      "notes": "מוגנת בהונגריה. בבולגריה היא בסכנת הכחדה חמורה (Critically Endangered); ידועות שם רק שתי אוכלוסיות, המאוימות על ידי כריתת עצים, בנייה, תיירות, שריפות ואיסוף למאכל. בפולין היא הייתה ידועה עד 2003 מאתר יחיד, והוצע שם לסווג אותה כמין בסכנת הכחדה. גופי הפרי מכילים γ־טוקופרול (ויטמין E), תרכובות פנוליות וחומצות אורגניות בעלות פעילות נוגדת חמצון חזקה.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hi": {
+      "description": "यह एक बड़ा, गठीला गिल वाला कवक है, जो आमतौर पर घने गुच्छों में उगता है और इसके डंठलों के आधार आपस में जुड़े रहते हैं। यह केवल यूरोप से ज्ञात है: ब्रिटिश द्वीपों और आयरलैंड, नीदरलैंड्स और बेल्जियम में यह दुर्लभ है, हंगरी में व्यापक रूप से फैला है पर आम नहीं, और सर्बिया से इसे आम बताया गया है।",
+      "cap": "5–15 cm चौड़ी, अपवादस्वरूप 20 cm तक। बहुत कम उम्र में अर्धगोलाकार, भीतर मुड़े किनारे और चिकनी भूरी सतह वाली, फिर उत्तल से चपटी, और बीच के हिस्से को छोड़कर मोटे, गहरे भूरे, त्रिकोणीय शल्कों में फट जाती है जिनके नुकीले सिरे पीछे को मुड़े होते हैं; ये शल्क सफ़ेद-से से हल्की भूरी पृष्ठभूमि पर संकेंद्रित वलयों में सजे होते हैं। KOH से कोई प्रतिक्रिया नहीं।",
+      "hymenium": "गिल मुक्त और घने, लंबे समय तक सफ़ेद-से, फिर धूसर गुलाबी से मांस-गुलाबी और अंत में चॉकलेटी भूरे से काले-भूरे, किनारा अधिक हल्का; दबाने पर लाल पड़ जाते हैं। बेसिडिया चार-बीजाणु वाले; कीलोसिस्टिडिया प्रचुर और मुगदर-आकार के।",
+      "stipe": "आमतौर पर 7–20 cm लंबा, कभी-कभी 25 cm तक, और 1–3 cm मोटा, कभी-कभार 4 cm तक; बेलनाकार से तर्कु-आकार, एक नुकीले, जड़ जैसे आधार की ओर पतला, जो अक्सर मिट्टी में गहरा धँसा रहता है, और पड़ोसी फलनकायों के आधार आपस में जुड़े होते हैं। वलय के ऊपर सफ़ेद-सा और चिकना, नीचे रेशेदार और भूरा-सा, दबाने पर भूरा पड़ता है और जहाँ चोट लगे वहाँ लाल-भूरा हो जाता है। वलय ऊँचाई पर, मोटा और दोहरा, भूरे-से दाँतेदार किनारे वाला होता है, और आधार के पास अक्सर एक या दो म्यान जैसे वलय दिखते हैं।",
+      "flesh": "सफ़ेद-सा और दृढ़, टोपी में मोटा, डंठल में भूरा-सा; काटने पर गुलाबी से वाइन-लाल हो जाता है और फिर धीरे-धीरे लाल-भूरा। गंध और स्वाद सुखद, कवक जैसे।",
+      "sporePrint": "चॉकलेटी भूरे से गहरे भूरे। बीजाणु अंडाकार से लगभग गोलाकार, चिकने, भूरे, 5–8 × 4.5–6 µm।",
+      "habitat": "यह गहरी, ह्यूमस-समृद्ध, अक्सर चिकनी या अच्छी तरह खाद डाली गई मिट्टी पर और कम्पोस्ट पर उगने वाला मृतजीवी है, जो बलूत, हॉर्नबीम, एल्म, मेपल, ऐश या पॉपलर वाले चौड़ी पत्ती और मिश्रित वनों में, शायद ही कभी शंकुधारी पेड़ों के नीचे, और पार्कों, बगीचों, बाड़ों, सड़क किनारों और कब्रिस्तानों में मिलता है। यह जुलाई से नवंबर तक फल देता है, आमतौर पर 5–12 या अधिक फलनकायों के घने गुच्छों में; एक कॉलोनी का वज़न 1 kg से अधिक हो सकता है।",
+      "uses": "खाने योग्य और अच्छा माना जाता है, विशेषकर कम उम्र में। चूँकि यह दुर्लभ है और हंगरी में संरक्षित है, इसे वहीं उगने देना सबसे अच्छा है।",
+      "confusion": "Agaricus subperonatus की टोपी भी शल्कयुक्त होती है, पर उसके शल्क चिपके हुए होते हैं, नुकीले सिरों के बिना, और यह गुच्छों में नहीं उगता। Agaricus phaeolepidotus के भूरे शल्क कहीं अधिक महीन, बनावट पतली और गंध अप्रिय होती है, और यह पेट-आँत की गड़बड़ी पैदा करता है। Agaricus augustus बड़ा होता है और कड़वे बादाम जैसी गंध देता है, और Agaricus sylvaticus इतने बड़े गुच्छे नहीं बनाता। ज़हरीला Agaricus xanthodermus डंठल के आधार पर पीला पड़ता है और फ़ीनॉल जैसी गंध देता है। छोटे फलनकायों को सफ़ेद Amanita प्रजातियों से भ्रमित किया जा सकता है, जिनके गिल सफ़ेद होते हैं और डंठल का आधार कंद की तरह फूला होता है।",
+      "notes": "हंगरी में संरक्षित। बुल्गारिया में गंभीर रूप से संकटग्रस्त (Critically Endangered), जहाँ केवल दो आबादियाँ ज्ञात हैं, जिन्हें पेड़ कटाई, निर्माण, पर्यटन, आग और खाने के लिए संग्रह से ख़तरा है। पोलैंड में 2003 तक यह केवल एक स्थल से ज्ञात था और वहाँ इसे संकटग्रस्त प्रजाति के रूप में प्रस्तावित किया गया। फलनकायों में γ-टोकोफ़ेरॉल (विटामिन E), फ़ीनॉलिक यौगिक और प्रबल एंटीऑक्सीडेंट क्रिया वाले कार्बनिक अम्ल होते हैं।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Velika, čvrsta listićava gljiva koja obično raste u gustim busenima, sa sraslim osnovama stručaka. Poznata je samo iz Europe: na Britanskom otočju i u Irskoj, u Nizozemskoj i Belgiji je rijetka, u Mađarskoj raširena, ali nije česta, a iz Srbije se navodi kao česta.",
+      "cap": "Promjer 5–15 cm, iznimno do 20 cm. Sasvim mlad polukuglast, s uvrnutim rubom i glatkom smeđom površinom, zatim izbočen do spljošten i, osim u sredini, raspucan u grube, tamnosmeđe, trokutaste ljuske s povijenim, šiljastim vrhovima, raspoređene u koncentrične krugove na bjelkastoj do svijetlosmeđoj podlozi. S KOH ne reagira.",
+      "hymenium": "Listići slobodni i gusti, dugo bjelkasti, zatim sivkastoružičasti do boje mesa i na kraju čokoladnosmeđi do crnosmeđi, sa svjetlijim bridom; na pritisak pocrvene. Bazidije četverosporne; heilocistide brojne, batičaste.",
+      "stipe": "Obično 7–20 cm dug, ponekad do 25 cm, i 1–3 cm debeo, katkad do 4 cm; valjkast do vretenast, sužen u šiljastu, korijenastu osnovu koja je često duboko u tlu, a osnove susjednih plodišta su srasle. Iznad vjenčića bjelkast i gladak, ispod vlaknast i smećkast, na pritisak posmeđi, a na oštećenim mjestima postaje crvenkastosmeđ. Vjenčić je visoko, debeo i dvostruk, sa smećkastim, nazubljenim rubom, a uz osnovu se često vide jedan ili dva rukavcasta prstena.",
+      "flesh": "Bjelkasto i čvrsto, u klobuku debelo, u stručku smećkasto; prerezano postaje ružičasto do vinskocrveno, a zatim polako crvenkastosmeđe. Miris i okus ugodni, na gljivu.",
+      "sporePrint": "Čokoladnosmeđi do tamnosmeđi. Spore jajolike do gotovo kuglaste, glatke, smeđe, 5–8 × 4,5–6 µm.",
+      "habitat": "Saprotrof na dubokom, humusnom, često glinastom ili dobro pognojenom tlu i na kompostu, u listopadnim i mješovitim šumama s hrastom, grabom, brijestom, javorom, jasenom ili topolom, rijetko pod četinjačama, te u parkovima, vrtovima, živicama, uz putove i na grobljima. Plodišta stvara od srpnja do studenoga, obično u gustim busenima od 5–12 ili više plodišta; jedna kolonija može težiti više od 1 kg.",
+      "uses": "Jestiva i smatra se dobrom, osobito mlada. Budući da je rijetka, a u Mađarskoj zaštićena, najbolje ju je ostaviti da raste.",
+      "confusion": "Agaricus subperonatus također ima ljuskav klobuk, ali su mu ljuske priljubljene, bez šiljastih vrhova, i ne raste u busenima. Agaricus phaeolepidotus ima mnogo sitnije smeđe ljuske, vitkiju građu i neugodan miris te uzrokuje probavne smetnje. Agaricus augustus je veći i miriše na gorke bademe, a Agaricus sylvaticus ne stvara tako velike busene. Otrovni Agaricus xanthodermus žuti na osnovi stručka i zaudara na fenol. Mlada plodišta mogla bi se zamijeniti s bijelim vrstama roda Amanita, koje imaju bijele listiće i gomoljasto zadebljanu osnovu stručka.",
+      "notes": "U Mađarskoj je zaštićena. U Bugarskoj je kritično ugrožena (Critically Endangered); ondje su poznate samo dvije populacije, koje ugrožavaju sječa šuma, gradnja, turizam, požari i sakupljanje za jelo. U Poljskoj je do 2003. bila poznata samo s jednog nalazišta i ondje je predložena kao ugrožena vrsta. Plodišta sadrže γ-tokoferol (vitamin E), fenolne spojeve i organske kiseline snažnog antioksidacijskog djelovanja.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Nagy, zömök lemezes gomba, amely általában szoros csoportokban nő, a tönkök tövei összenőnek. Csak Európából ismert: a Brit-szigeteken és Írországban, Hollandiában és Belgiumban ritka, Magyarországon elterjedt, de nem gyakori, Szerbiából pedig gyakoriként jelzik.",
+      "cap": "5–15 cm átmérőjű, kivételesen 20 cm-es is lehet. Egészen fiatalon félgömb alakú, begöngyölt szélű, sima, barna felszínű, később domború, majd ellaposodó, és a közepe kivételével durva, sötétbarna, háromszögletű, visszahajló, hegyes végű pikkelyekre repedezik, amelyek koncentrikus körökben ülnek a fehéres vagy halványbarna alapon. KOH-val nem reagál.",
+      "hymenium": "Lemezei szabadok és sűrűk, sokáig fehéresek, majd szürkésrózsaszínek vagy hússzínű rózsaszínek, végül csokoládébarnák vagy feketésbarnák, élük világosabb; nyomásra pirosodnak. Bazídiumai négyspórásak; cheilocisztídiumai bőségesek, bunkósak.",
+      "stipe": "Általában 7–20 cm hosszú, néha 25 cm-es is, és 1–3 cm vastag, olykor 4 cm-es is; hengeres vagy orsó alakú, hegyes, gyökerező tőbe keskenyedik, amely gyakran mélyen a talajban van, a szomszédos termőtestek tövei pedig összenőnek. A gallér felett fehéres és sima, alatta szálas és barnás, nyomásra barnul, sérülésre vörösbarnán színeződik. A gallér magasan ül, vastag és kettős, barnás, fogazott szélű, a tő közelében pedig gyakran egy vagy két bocskorszerű gyűrű látszik.",
+      "flesh": "Fehéres és kemény, a kalapban vastag, a tönkben barnás; vágásra rózsaszínűre vagy borvörösre színeződik, majd lassan vörösbarnára vált. Szaga és íze kellemes, gombaszerű.",
+      "sporePrint": "Csokoládébarna vagy sötétbarna. Spórái tojásdadok vagy majdnem gömbölydedek, simák, barnák, 5–8 × 4,5–6 µm-esek.",
+      "habitat": "Szaprotróf a mély, humuszban gazdag, gyakran agyagos vagy jól trágyázott talajon és komposzton, lomb- és elegyes erdőkben tölgy, gyertyán, szil, juhar, kőris vagy nyár alatt, ritkán tűlevelűek alatt, valamint parkokban, kertekben, sövényekben, utak mentén és temetőkben. Júliustól novemberig terem, általában 5–12 vagy több termőtestből álló szoros csoportokban; egy telep tömege meghaladhatja az 1 kg-ot.",
+      "uses": "Ehető, és jónak tartják, különösen fiatalon. Mivel ritka, és Magyarországon védett, legjobb a helyén hagyni.",
+      "confusion": "Az Agaricus subperonatus kalapja szintén pikkelyes, de pikkelyei laposan simulnak, hegyes vég nélkül, és nem nő csoportosan. Az Agaricus phaeolepidotus pikkelyei sokkal finomabbak, termete karcsúbb, szaga kellemetlen, és emésztőrendszeri panaszokat okoz. Az Agaricus augustus nagyobb és keserűmandula-szagú, az Agaricus sylvaticus pedig nem alkot ilyen nagy csoportokat. A mérgező Agaricus xanthodermus a tönk tövén sárgul, és fenolszagú. A fiatal termőtestek összetéveszthetők a fehér Amanita-fajokkal, amelyeknek fehérek a lemezeik, és gumósan megvastagodott a tönkük töve.",
+      "notes": "Magyarországon védett. Bulgáriában kritikusan veszélyeztetett (Critically Endangered); ott csak két populációja ismert, amelyeket fakitermelés, beépítés, turizmus, tüzek és étkezési célú gyűjtés fenyeget. Lengyelországban 2003-ig csak egyetlen lelőhelyről volt ismert, és ott a kipusztulással fenyegetett kategóriába javasolták sorolni. A termőtestek γ-tokoferolt (E-vitamint), fenolos vegyületeket és erős antioxidáns hatású szerves savakat tartalmaznak. Magyarországon 2013-ban és 2026-ban az év gombája volt.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gombacsoda.hu/gombak/csoportos_csiperke",
+        "https://hu.wikipedia.org/wiki/Csoportos_csiperke"
+      ],
+      "label": "csoportos csiperke"
+    },
+    "id": {
+      "description": "Jamur berinsang yang besar dan kekar, biasanya tumbuh dalam rumpun rapat dengan pangkal tangkai yang menyatu satu sama lain. Jamur ini hanya diketahui dari Eropa: langka di Kepulauan Britania dan Irlandia, Belanda, dan Belgia, tersebar luas tetapi tidak umum di Hongaria, dan dilaporkan umum di Serbia.",
+      "cap": "Diameter 5–15 cm, sesekali hingga 20 cm. Saat sangat muda berbentuk setengah bola dengan tepi tergulung ke dalam dan permukaan halus berwarna cokelat, lalu cembung hingga datar dan, kecuali di bagian tengah, pecah menjadi sisik kasar berwarna cokelat tua berbentuk segitiga dengan ujung runcing yang melengkung ke atas, tersusun dalam lingkaran konsentris di atas dasar keputihan hingga cokelat pucat. Tidak bereaksi dengan KOH.",
+      "hymenium": "Bilah bebas dan rapat, lama berwarna keputihan, lalu merah muda keabu-abuan hingga merah muda daging dan akhirnya cokelat seperti cokelat batangan hingga cokelat kehitaman, dengan tepi lebih pucat; memerah bila ditekan. Basidium bersepora empat; keilosistidium melimpah, berbentuk gada.",
+      "stipe": "Biasanya panjang 7–20 cm, kadang hingga 25 cm, dan tebal 1–3 cm, sesekali hingga 4 cm; silindris hingga berbentuk gelendong, menyempit ke pangkal runcing yang berakar dan sering terbenam dalam di tanah, dengan pangkal tubuh buah yang berdekatan saling menyatu. Di atas cincin keputihan dan halus, di bawahnya berserat dan kecokelatan, menjadi cokelat bila ditekan dan cokelat kemerahan bila rusak. Cincin terletak tinggi, tebal dan ganda, dengan tepi kecokelatan dan bergerigi, dan di dekat pangkal sering terlihat satu atau dua cincin mirip selubung.",
+      "flesh": "Keputihan dan padat, tebal di tudung, kecokelatan di tangkai; bila dipotong berubah merah muda hingga merah anggur, lalu perlahan cokelat kemerahan. Bau dan rasa enak, khas jamur.",
+      "sporePrint": "Cokelat seperti cokelat batangan hingga cokelat tua. Spora bulat telur hingga hampir bulat, halus, cokelat, 5–8 × 4,5–6 µm.",
+      "habitat": "Saprotrof pada tanah dalam yang kaya humus, sering berlempung atau dipupuk dengan baik, dan pada kompos, di hutan daun lebar dan hutan campuran dengan ek, hornbeam, elm, maple, ash, atau poplar, jarang di bawah konifer, serta di taman, kebun, pagar tanaman, tepi jalan, dan pemakaman. Berbuah dari Juli hingga November, biasanya dalam rumpun rapat berisi 5–12 tubuh buah atau lebih; satu koloni dapat berbobot lebih dari 1 kg.",
+      "uses": "Dapat dimakan dan dianggap enak, terutama saat muda. Karena langka dan dilindungi di Hongaria, sebaiknya dibiarkan tumbuh di tempatnya.",
+      "confusion": "Agaricus subperonatus juga bertudung bersisik, tetapi sisiknya menempel tanpa ujung runcing dan tidak tumbuh berumpun. Agaricus phaeolepidotus memiliki sisik cokelat yang jauh lebih halus, perawakan lebih ramping, dan bau tidak sedap, serta menyebabkan gangguan pencernaan. Agaricus augustus lebih besar dan berbau almon pahit, sedangkan Agaricus sylvaticus tidak membentuk rumpun sebesar itu. Agaricus xanthodermus yang beracun menguning di pangkal tangkai dan berbau fenol. Tubuh buah muda dapat tertukar dengan spesies Amanita berwarna putih, yang berbilah putih dan berpangkal tangkai menggembung seperti umbi.",
+      "notes": "Dilindungi di Hongaria. Kritis (Critically Endangered) di Bulgaria, tempat hanya dua populasi yang diketahui, terancam oleh penebangan, pembangunan, pariwisata, kebakaran, dan pengumpulan untuk dimakan. Di Polandia, hingga 2003 jamur ini hanya diketahui dari satu lokasi dan diusulkan di sana sebagai spesies terancam punah. Tubuh buahnya mengandung γ-tokoferol (vitamin E), senyawa fenolik, dan asam organik dengan aktivitas antioksidan yang kuat.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un grande fungo a lamelle, robusto, che cresce di solito in cespi serrati con le basi dei gambi saldate tra loro. È noto solo in Europa: è raro nelle Isole Britanniche e in Irlanda, nei Paesi Bassi e in Belgio, diffuso ma non comune in Ungheria e segnalato come comune in Serbia.",
+      "cap": "5–15 cm di diametro, eccezionalmente fino a 20 cm. Da molto giovane emisferico, con margine involuto e superficie liscia e bruna, poi convesso fino ad appianato e, tranne al centro, dissociato in grosse squame bruno scuro, triangolari, con punte acute e rivolte all’insù, disposte in cerchi concentrici su fondo biancastro o bruno chiaro. Nessuna reazione con KOH.",
+      "hymenium": "Lamelle libere e fitte, a lungo biancastre, poi rosa grigiastro o rosa carne e infine bruno cioccolato o bruno nerastro, con filo più chiaro; arrossano se toccate. Basidi tetrasporici; cheilocistidi abbondanti, clavati.",
+      "stipe": "Di solito lungo 7–20 cm, a volte fino a 25 cm, e spesso 1–3 cm, talvolta fino a 4 cm; cilindrico o fusiforme, assottigliato in una base appuntita e radicante, spesso profondamente infissa nel terreno, con le basi dei carpofori vicini saldate. Biancastro e liscio sopra l’anello, fibrilloso e brunastro sotto, imbrunisce alla pressione e diventa bruno rossastro dove viene danneggiato. L’anello è alto, spesso e doppio, con orlo brunastro e dentellato, e vicino alla base si notano spesso uno o due cercini a guaina.",
+      "flesh": "Biancastra e soda, spessa nel cappello, brunastra nel gambo; al taglio diventa rosa o rosso vinoso e poi lentamente bruno rossastra. Odore e sapore gradevoli, fungini.",
+      "sporePrint": "Bruno cioccolato o bruno scuro. Spore ovoidali o subglobose, lisce, brune, 5–8 × 4,5–6 µm.",
+      "habitat": "Saprotrofo su suolo profondo, ricco di humus, spesso argilloso o ben concimato, e su compost, in boschi di latifoglie e misti con quercia, carpino, olmo, acero, frassino o pioppo, raramente sotto conifere, e in parchi, giardini, siepi, bordi delle strade e cimiteri. Fruttifica da luglio a novembre, di solito in cespi serrati di 5–12 o più carpofori; una colonia può superare 1 kg di peso.",
+      "uses": "Commestibile e considerato buono, soprattutto da giovane. Poiché è raro, e protetto in Ungheria, è meglio lasciarlo dove cresce.",
+      "confusion": "Anche Agaricus subperonatus ha il cappello squamoso, ma le sue squame sono appressate, senza punte acute, e non cresce in cespi. Agaricus phaeolepidotus ha squame brune molto più fini, una corporatura più esile e un odore sgradevole, e provoca disturbi gastrointestinali. Agaricus augustus è più grande e profuma di mandorla amara, e Agaricus sylvaticus non forma cespi così grandi. Il tossico Agaricus xanthodermus ingiallisce alla base del gambo e odora di fenolo. Gli esemplari giovani potrebbero essere scambiati per specie bianche del genere Amanita, che hanno lamelle bianche e base del gambo bulbosa.",
+      "notes": "Protetto in Ungheria. In pericolo critico (Critically Endangered) in Bulgaria, dove sono note solo due popolazioni, minacciate da tagli boschivi, edificazione, turismo, incendi e raccolta a scopo alimentare. In Polonia nel 2003 era noto di una sola stazione ed è stato proposto come specie in pericolo. I carpofori contengono γ-tocoferolo (vitamina E), composti fenolici e acidi organici con forte attività antiossidante.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "大型でがっしりしたひだのあるきのこで、ふつう柄の基部が互いに癒着した密な株を作って生える。ヨーロッパからのみ知られ、ブリテン諸島とアイルランド、オランダ、ベルギーでは稀、ハンガリーでは広く分布するが普通ではなく、セルビアでは普通と報告されている。",
+      "cap": "径5–15 cm、例外的に20 cmに達する。ごく若いうちは半球形で縁は内側に巻き、表面は平滑で褐色、のち饅頭形から平らになり、中央部を除いて粗く暗褐色の三角形の鱗片に裂ける。鱗片の先は尖って反り返り、白色から淡褐色の地に同心円状に並ぶ。KOHに反応しない。",
+      "hymenium": "ひだは離生で密、長く白っぽく、のち灰桃色から肉桃色、最後にチョコレート褐色から黒褐色となり、縁はより淡色；押すと赤変する。担子器は4胞子性；縁シスチジアは多数、こん棒形。",
+      "stipe": "長さはふつう7–20 cm、時に25 cmに達し、太さ1–3 cm、時に4 cm；円柱形から紡錘形で、先の尖った根状の基部へ細まり、基部はしばしば土中深くにあり、隣り合う子実体の基部は癒着する。つばより上は白っぽく平滑、下は繊維状で褐色を帯び、押すと褐変し、傷つくと赤褐色になる。つばは高位につき、厚く二重で、縁は褐色を帯び歯牙状。基部近くにはしばしば鞘状の環が1–2個見られる。",
+      "flesh": "白っぽく締まり、傘では厚く、柄では褐色を帯びる；切ると桃色からワインレッドに変わり、のちゆっくり赤褐色になる。においと味は快く、きのこ臭。",
+      "sporePrint": "チョコレート褐色から暗褐色。胞子は卵形から類球形、平滑、褐色、5–8 × 4.5–6 µm。",
+      "habitat": "深く腐植に富み、しばしば粘土質またはよく施肥された土壌や堆肥上に生える腐生菌で、オーク、シデ、ニレ、カエデ、トネリコ、ポプラなどの広葉樹林や混交林に、稀に針葉樹下に、また公園、庭、生け垣、道端、墓地に発生する。7月から11月に、ふつう5–12本以上の子実体からなる密な株で発生する；一つのコロニーが1 kgを超えることもある。",
+      "uses": "食用で、特に若いものは良いとされる。稀で、ハンガリーでは保護されているため、採らずに残すのがよい。",
+      "confusion": "Agaricus subperonatusも鱗片のある傘をもつが、鱗片は圧着して先が尖らず、株にならない。Agaricus phaeolepidotusは褐色の鱗片がずっと細かく、より華奢で不快なにおいがあり、胃腸障害を起こす。Agaricus augustusはより大きく苦扁桃のにおいがあり、Agaricus sylvaticusはこれほど大きな株を作らない。有毒のAgaricus xanthodermusは柄の基部が黄変し、フェノール臭がある。若い子実体は、白いひだと塊茎状に膨らんだ柄の基部をもつ白色のAmanita属の種と間違えられることがある。",
+      "notes": "ハンガリーでは保護されている。ブルガリアでは深刻な絶滅危惧種（Critically Endangered）で、知られている個体群は二つだけであり、伐採、開発、観光、火災、食用の採取に脅かされている。ポーランドでは2003年までに一か所でのみ知られ、絶滅危惧種として提案された。子実体はγ-トコフェロール（ビタミンE）、フェノール化合物、強い抗酸化活性をもつ有機酸を含む。",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ko": {
+      "description": "대형의 튼실한 주름버섯으로, 보통 대의 기부가 서로 붙은 빽빽한 다발을 이루어 자란다. 유럽에서만 알려져 있으며, 영국 제도와 아일랜드, 네덜란드와 벨기에에서는 드물고, 헝가리에서는 널리 분포하지만 흔하지 않으며, 세르비아에서는 흔하다고 보고되었다.",
+      "cap": "지름 5–15 cm, 예외적으로 20 cm까지 자란다. 아주 어릴 때는 반구형이고 가장자리가 안쪽으로 말리며 표면은 매끄러운 갈색이다. 이후 둥근 산 모양에서 편평해지고, 중앙을 제외하고 거칠고 짙은 갈색의 삼각형 인편으로 갈라진다. 인편 끝은 뾰족하게 뒤로 젖혀지며 흰색에서 연갈색 바탕에 동심원으로 배열된다. KOH에 반응하지 않는다.",
+      "hymenium": "주름살은 끝붙은주름살이고 빽빽하며, 오랫동안 흰색을 띠다가 회분홍색에서 살구빛 분홍색, 마지막에는 초콜릿 갈색에서 흑갈색이 되고 가장자리는 더 연하다. 누르면 붉어진다. 담자기는 포자 4개를 만들고, 연낭상체는 풍부하며 곤봉형이다.",
+      "stipe": "길이는 보통 7–20 cm, 때로 25 cm, 굵기 1–3 cm, 가끔 4 cm이다. 원통형에서 방추형이며, 뾰족하고 뿌리 모양인 기부로 가늘어지는데 기부는 흔히 흙 속 깊이 있고, 이웃한 자실체의 기부가 서로 붙는다. 턱받이 위는 흰색이고 매끄러우며 아래는 섬유질에 갈색을 띠고, 누르면 갈색으로 변하며 상처 난 곳은 적갈색이 된다. 턱받이는 높이 붙고 두꺼운 이중이며 가장자리는 갈색을 띠고 톱니 모양이다. 기부 가까이에 칼집 모양의 고리가 한두 개 보이는 경우가 많다.",
+      "flesh": "흰색이고 단단하며 갓에서는 두껍고 대에서는 갈색을 띤다. 자르면 분홍색에서 와인색으로 변했다가 천천히 적갈색이 된다. 냄새와 맛은 좋은 버섯 향이다.",
+      "sporePrint": "초콜릿 갈색에서 짙은 갈색. 포자는 달걀형에서 아구형이고 매끄러우며 갈색, 5–8 × 4.5–6 µm이다.",
+      "habitat": "깊고 부식질이 풍부하며 흔히 점토질이거나 거름기가 많은 흙과 퇴비 위에서 자라는 부생균으로, 참나무, 서어나무, 느릅나무, 단풍나무, 물푸레나무, 포플러가 있는 활엽수림과 혼합림에서, 드물게는 침엽수 아래에서, 또 공원, 정원, 생울타리, 길가, 묘지에서 난다. 7월부터 11월까지 보통 5–12개 이상의 자실체가 빽빽한 다발을 이루어 발생하며, 한 군락의 무게가 1 kg을 넘기도 한다.",
+      "uses": "식용이며 특히 어릴 때 맛이 좋다고 여겨진다. 드물고 헝가리에서는 보호종이므로 그대로 두는 것이 가장 좋다.",
+      "confusion": "Agaricus subperonatus도 인편이 있는 갓을 가지지만 인편이 눌어붙어 있고 끝이 뾰족하지 않으며 다발로 자라지 않는다. Agaricus phaeolepidotus는 갈색 인편이 훨씬 가늘고 체형이 더 가늘며 불쾌한 냄새가 나고 위장 장애를 일으킨다. Agaricus augustus는 더 크고 쓴 아몬드 냄새가 나며, Agaricus sylvaticus는 이렇게 큰 다발을 이루지 않는다. 독성이 있는 Agaricus xanthodermus는 대 기부가 노랗게 변하고 페놀 냄새가 난다. 어린 자실체는 흰 주름살과 덩이 모양으로 부푼 대 기부를 가진 흰색 Amanita속 종과 혼동될 수 있다.",
+      "notes": "헝가리에서 보호종이다. 불가리아에서는 위급 단계의 멸종위기종 (Critically Endangered)으로, 알려진 개체군은 두 곳뿐이며 벌채, 개발, 관광, 화재, 식용 채취로 위협받는다. 폴란드에서는 2003년까지 단 한 곳에서만 알려졌으며, 그곳에서 멸종위기종으로 제안되었다. 자실체에는 γ-토코페롤(비타민 E), 페놀 화합물, 강한 항산화 활성을 지닌 유기산이 들어 있다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Didelis, tvirtas lakštinis grybas, kuris paprastai auga tankiais kuokštais, kotų pamatams suaugus tarpusavyje. Jis žinomas tik iš Europos: Didžiosios Britanijos salose ir Airijoje, Nyderlanduose ir Belgijoje jis retas, Vengrijoje paplitęs plačiai, bet nėra dažnas, o iš Serbijos nurodomas kaip dažnas.",
+      "cap": "Skersmuo 5–15 cm, išimtiniais atvejais iki 20 cm. Visai jaunas pusrutulio formos, užsirietusiu kraštu ir lygiu rudu paviršiumi, vėliau išgaubtas ar suplokštėjęs ir, išskyrus vidurį, suskilęs į stambius, tamsiai rudus, trikampius žvynus atlenktais, smailiais galais, išsidėsčiusius koncentriniais ratais ant balsvo ar šviesiai rudo pagrindo. Su KOH nereaguoja.",
+      "hymenium": "Lakšteliai laisvi ir tankūs, ilgai balsvi, vėliau pilkšvai rausvi ar mėsos rausvumo, galiausiai šokoladiniai rudi ar juosvai rudi, šviesesne briauna; paspausti parausta. Bazidės ketursporės; cheilocistidės gausios, buožiškos.",
+      "stipe": "Paprastai 7–20 cm ilgio, kartais iki 25 cm, ir 1–3 cm storio, retkarčiais iki 4 cm; cilindriškas ar verpstiškas, susiaurėjęs į smailą, šaknijantį pamatą, kuris dažnai būna giliai dirvoje, o gretimų vaisiakūnių pamatai suaugę. Virš žiedo balsvas ir lygus, žemiau pluoštuotas ir rusvas, paspaustas paruduoja, o pažeistose vietose tampa rausvai rudas. Žiedas aukštai, storas ir dvigubas, rusvu, dantytu kraštu, o prie pamato dažnai matyti vienas ar du makštiški žiedai.",
+      "flesh": "Balsva ir tvirta, kepurėje stora, kote rusva; perpjauta parausta iki vyno raudonumo, paskui pamažu tampa rausvai ruda. Kvapas ir skonis malonūs, grybiški.",
+      "sporePrint": "Šokoladinės rudos iki tamsiai rudos spalvos. Sporos kiaušiniškos ar beveik rutuliškos, lygios, rudos, 5–8 × 4,5–6 µm.",
+      "habitat": "Saprotrofas ant gilios, humusingos, dažnai molingos ar gerai patręštos dirvos ir ant komposto, lapuočių ir mišriuose miškuose su ąžuolais, skroblais, guobomis, klevais, uosiais ar tuopomis, retai po spygliuočiais, taip pat parkuose, soduose, gyvatvorėse, pakelėse ir kapinėse. Vaisiakūnius sudaro nuo liepos iki lapkričio, paprastai tankiais 5–12 ar daugiau vaisiakūnių kuokštais; viena kolonija gali sverti daugiau kaip 1 kg.",
+      "uses": "Valgomas ir laikomas geru, ypač jaunas. Kadangi jis retas, o Vengrijoje saugomas, geriausia palikti jį augti.",
+      "confusion": "Agaricus subperonatus kepurė taip pat žvynuota, bet jo žvynai prigludę, be smailių galų, ir jis neauga kuokštais. Agaricus phaeolepidotus žvynai daug smulkesni, jis laibesnis, nemalonaus kvapo ir sukelia virškinimo sutrikimų. Agaricus augustus yra didesnis ir kvepia karčiaisiais migdolais, o Agaricus sylvaticus nesudaro tokių didelių kuokštų. Nuodingas Agaricus xanthodermus kotas prie pamato pagelsta, jis kvepia fenoliu. Jaunus vaisiakūnius galima supainioti su baltomis Amanita rūšimis, kurių lakšteliai balti, o koto pamatas gumbiškai sustorėjęs.",
+      "notes": "Vengrijoje saugomas. Bulgarijoje kritiškai nykstantis (Critically Endangered); ten žinomos tik dvi populiacijos, kurioms gresia miškų kirtimas, statybos, turizmas, gaisrai ir rinkimas maistui. Lenkijoje iki 2003 m. jis buvo žinomas tik iš vienos radavietės ir ten pasiūlytas priskirti nykstančioms rūšims. Vaisiakūniuose yra γ-tokoferolio (vitamino E), fenolinių junginių ir organinių rūgščių, pasižyminčių stipriu antioksidaciniu poveikiu.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lv": {
+      "description": "Liela, stingra lapiņu sēne, kas parasti aug blīvos ceros ar kopā saaugušiem kātu pamatiem. Tā zināma tikai no Eiropas: Britu salās un Īrijā, Nīderlandē un Beļģijā tā ir reta, Ungārijā plaši izplatīta, bet ne bieža, un no Serbijas tā tiek minēta kā bieža.",
+      "cap": "Diametrs 5–15 cm, izņēmuma gadījumos līdz 20 cm. Pavisam jauna puslodes formas ar ieritinātu malu un gludu brūnu virsmu, vēlāk izliekta līdz saplacināta un, izņemot centru, saplaisājusi rupjās, tumši brūnās, trīsstūrainās zvīņās ar atliektiem, smailiem galiem, kas izkārtotas koncentriskos lokos uz bālgana līdz gaiši brūna pamata. Ar KOH nereaģē.",
+      "hymenium": "Lapiņas brīvas un biezas, ilgi bālganas, tad pelēcīgi sārtas līdz miesas sārtas un visbeidzot šokolādes brūnas līdz melnbrūnas, ar gaišāku malu; spiežot tās kļūst sarkanīgas. Bazīdijas četrsporu; heilocistīdas daudz, vālesveida.",
+      "stipe": "Parasti 7–20 cm garš, dažreiz līdz 25 cm, un 1–3 cm resns, reizēm līdz 4 cm; cilindrisks līdz vārpstveida, sašaurināts smailā, sakņojošā pamatā, kas bieži atrodas dziļi augsnē, un blakus esošo augļķermeņu pamati ir saauguši. Virs gredzena bālgans un gluds, zem tā šķiedrains un brūngans, spiežot brūnē un bojātās vietās kļūst sarkanbrūns. Gredzens novietots augstu, biezs un dubults, ar brūnganu, robotu malu, un pie pamata bieži redzami viens vai divi makstveida gredzeni.",
+      "flesh": "Bālgana un stingra, cepurē bieza, kātā brūngana; pārgriežot kļūst sārta līdz vīnsarkana un pēc tam lēnām sarkanbrūna. Smarža un garša patīkama, sēņu.",
+      "sporePrint": "Šokolādes brūns līdz tumši brūns. Sporas olveida līdz gandrīz lodveida, gludas, brūnas, 5–8 × 4,5–6 µm.",
+      "habitat": "Saprotrofs uz dziļas, trūdvielām bagātas, bieži mālainas vai labi mēslotas augsnes un uz komposta, lapu koku un jauktos mežos ar ozoliem, skābaržiem, gobām, kļavām, ošiem vai papelēm, reti zem skujkokiem, kā arī parkos, dārzos, dzīvžogos, ceļmalās un kapsētās. Augļķermeņus veido no jūlija līdz novembrim, parasti blīvos ceros pa 5–12 un vairāk augļķermeņiem; viena kolonija var svērt vairāk nekā 1 kg.",
+      "uses": "Ēdama un tiek uzskatīta par labu, īpaši jauna. Tā kā tā ir reta un Ungārijā aizsargāta, labāk to atstāt augam.",
+      "confusion": "Arī sugai Agaricus subperonatus ir zvīņaina cepure, taču tās zvīņas ir piegulošas, bez smailiem galiem, un tā neaug ceros. Sugai Agaricus phaeolepidotus ir daudz smalkākas brūnas zvīņas, slaidāka uzbūve un nepatīkama smarža, un tā izraisa gremošanas traucējumus. Agaricus augustus ir lielāka un smaržo pēc rūgtajām mandelēm, bet Agaricus sylvaticus neveido tik lielus cerus. Indīgā Agaricus xanthodermus kāta pamatā dzeltē un smird pēc fenola. Jaunus augļķermeņus var sajaukt ar baltajām Amanita sugām, kurām ir baltas lapiņas un gumveidīgi paresnināts kāta pamats.",
+      "notes": "Ungārijā aizsargāta. Bulgārijā kritiski apdraudēta (Critically Endangered); tur zināmas tikai divas populācijas, kuras apdraud mežizstrāde, apbūve, tūrisms, ugunsgrēki un vākšana pārtikai. Polijā līdz 2003. gadam tā bija zināma tikai no vienas atradnes, un tur tika ierosināts to atzīt par izzūdošu. Augļķermeņi satur γ-tokoferolu (E vitamīnu), fenola savienojumus un organiskās skābes ar spēcīgu antioksidantu iedarbību.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "nl": {
+      "description": "Een grote, stevige plaatjeszwam die meestal in dichte bundels groeit, met de voeten aan de basis met elkaar vergroeid. Hij is alleen uit Europa bekend: op de Britse Eilanden en in Ierland, in Nederland en België is hij zeldzaam, in Hongarije wijdverbreid maar niet algemeen, en uit Servië wordt hij als algemeen gemeld.",
+      "cap": "5–15 cm breed, uitzonderlijk tot 20 cm. Heel jong halfbolvormig met een ingerolde rand en een glad, bruin oppervlak, daarna gewelfd tot afgeplat en, behalve in het midden, opengebroken in grove, donkerbruine, driehoekige schubben met teruggebogen, spitse punten, in concentrische kringen op een witachtige tot lichtbruine ondergrond. Geen reactie met KOH.",
+      "hymenium": "Plaatjes vrij en dichtopeen, lang witachtig, dan grijsroze tot vleesroze en ten slotte chocoladebruin tot zwartbruin, met een lichtere snede; bij kneuzen kleuren ze rood. Basidiën viersporig; cheilocystiden talrijk, knotsvormig.",
+      "stipe": "Meestal 7–20 cm lang, soms tot 25 cm, en 1–3 cm dik, soms tot 4 cm; cilindrisch tot spoelvormig, versmald tot een spitse, wortelende basis die vaak diep in de grond zit, waarbij de voeten van naburige vruchtlichamen vergroeid zijn. Boven de ring witachtig en glad, eronder vezelig en bruinachtig, bij kneuzen bruin wordend en op beschadigde plekken roodbruin verkleurend. De ring zit hoog, is dik en dubbel, met een bruinachtige, getande rand, en bij de basis zijn vaak een of twee scheedeachtige ringen te zien.",
+      "flesh": "Witachtig en stevig, dik in de hoed, bruinachtig in de steel; bij doorsnijden roze tot wijnrood en daarna langzaam roodbruin verkleurend. Geur en smaak aangenaam, paddenstoelachtig.",
+      "sporePrint": "Chocoladebruin tot donkerbruin. Sporen eivormig tot bijna bolvormig, glad, bruin, 5–8 × 4,5–6 µm.",
+      "habitat": "Saprotroof op diepe, humusrijke, vaak kleiige of goed bemeste grond en op compost, in loof- en gemengde bossen met eik, haagbeuk, iep, esdoorn, es of populier, zelden onder naaldbomen, en in parken, tuinen, heggen, wegbermen en op kerkhoven. Hij vormt vruchtlichamen van juli tot november, meestal in dichte bundels van 5–12 of meer exemplaren; één kolonie kan meer dan 1 kg wegen.",
+      "uses": "Eetbaar en als goed beschouwd, vooral jong. Omdat hij zeldzaam is, en in Hongarije beschermd, laat men hem het best staan.",
+      "confusion": "Agaricus subperonatus heeft ook een geschubde hoed, maar zijn schubben liggen plat aan, zonder spitse punten, en hij groeit niet in bundels. Agaricus phaeolepidotus heeft veel fijnere bruine schubben, een slankere bouw en een onaangename geur, en veroorzaakt maag-darmklachten. Agaricus augustus is groter en ruikt naar bittere amandelen, en Agaricus sylvaticus vormt geen zulke grote bundels. De giftige Agaricus xanthodermus vergeelt aan de steelvoet en ruikt naar fenol. Jonge exemplaren zouden verward kunnen worden met witte Amanita-soorten, die witte plaatjes en een knolvormig verdikte steelvoet hebben.",
+      "notes": "Beschermd in Hongarije. Ernstig bedreigd (Critically Endangered) in Bulgarije, waar slechts twee populaties bekend zijn, bedreigd door houtkap, bebouwing, toerisme, branden en het verzamelen voor consumptie. In Polen was hij tot 2003 slechts van één vindplaats bekend en werd hij daar als bedreigd voorgesteld. De vruchtlichamen bevatten γ-tocoferol (vitamine E), fenolische verbindingen en organische zuren met een sterke antioxiderende werking.",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/5243385/vernacularNames",
+        "https://www.verspreidingsatlas.nl/0001120",
+        "https://nl.wikipedia.org/wiki/Spoelvoetchampignon"
+      ],
+      "label": "spoelvoetchampignon"
+    },
+    "no": {
+      "description": "En stor, kraftig skivesopp som vanligvis vokser i tette knipper med stilkbasene grodd sammen. Den er bare kjent fra Europa: på De britiske øyer og i Irland, i Nederland og Belgia er den sjelden, i Ungarn utbredt, men ikke vanlig, og fra Serbia oppgis den som vanlig.",
+      "cap": "5–15 cm bred, unntaksvis opptil 20 cm. Helt ung halvkuleformet med innrullet kant og glatt, brun overflate, deretter hvelvet til flattrykt og, unntatt i midten, oppsprukket i grove, mørkebrune, trekantede skjell med tilbakebøyde, spisse ender, ordnet i konsentriske ringer på hvitaktig til lysebrun bunn. Ingen reaksjon med KOH.",
+      "hymenium": "Skiver frie og tette, lenge hvitaktige, deretter gråaktig rosa til kjøttrosa og til slutt sjokoladebrune til svartbrune, med lysere egg; de rødmer ved trykk. Basidier firsporede; cheilocystider tallrike, kølleformede.",
+      "stipe": "Vanligvis 7–20 cm lang, iblant opptil 25 cm, og 1–3 cm tykk, av og til opptil 4 cm; sylindrisk til spoleformet, avsmalnende mot en spiss, rotende base som ofte sitter dypt i jorda, og basene til nabofruktlegemene er grodd sammen. Hvitaktig og glatt over ringen, trådet og brunaktig under, brunende ved trykk og rødbrun der den skades. Ringen sitter høyt, er tykk og dobbel, med brunaktig, tannet kant, og nær basen ses ofte én eller to sliraktige ringer.",
+      "flesh": "Hvitaktig og fast, tykt i hatten, brunaktig i stilken; ved gjennomskjæring blir det rosa til vinrødt og deretter langsomt rødbrunt. Lukt og smak behagelige, soppaktige.",
+      "sporePrint": "Sjokoladebrunt til mørkebrunt. Sporer eggformede til nesten kuleformede, glatte, brune, 5–8 × 4,5–6 µm.",
+      "habitat": "Saprotrof på dyp, moldrik, ofte leirholdig eller godt gjødslet jord og på kompost, i løv- og blandingsskog med eik, agnbøk, alm, lønn, ask eller poppel, sjelden under bartrær, og i parker, hager, hekker, veikanter og på kirkegårder. Den danner fruktlegemer fra juli til november, vanligvis i tette knipper med 5–12 eller flere fruktlegemer; én koloni kan veie over 1 kg.",
+      "uses": "Spiselig og regnes som god, særlig som ung. Siden den er sjelden, og fredet i Ungarn, bør den helst få stå.",
+      "confusion": "Agaricus subperonatus har også en skjellete hatt, men skjellene ligger flatt uten spisse ender, og den vokser ikke i knipper. Agaricus phaeolepidotus har mye finere brune skjell, en spinklere bygning og en ubehagelig lukt, og den gir mage-tarmplager. Agaricus augustus er større og lukter bitre mandler, og Agaricus sylvaticus danner ikke så store knipper. Den giftige Agaricus xanthodermus gulner ved stilkbasen og lukter fenol. Unge fruktlegemer kan forveksles med hvite Amanita-arter, som har hvite skiver og en knollformet stilkbase.",
+      "notes": "Fredet i Ungarn. Kritisk truet (Critically Endangered) i Bulgaria, der bare to bestander er kjent, truet av hogst, utbygging, turisme, brann og innsamling til mat. I Polen var den i 2003 bare kjent fra én lokalitet og ble der foreslått som sterkt truet. Fruktlegemene inneholder γ-tokoferol (vitamin E), fenoliske forbindelser og organiske syrer med sterk antioksidantvirkning.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "pl": {
+      "description": "Duży, masywny grzyb blaszkowy, który zwykle rośnie w zwartych kępach o zrośniętych podstawach trzonów. Znany jest tylko z Europy: na Wyspach Brytyjskich i w Irlandii, w Holandii i Belgii jest rzadki, na Węgrzech szeroko rozprzestrzeniony, ale nie pospolity, a z Serbii podawany jako pospolity.",
+      "cap": "Średnica 5–15 cm, wyjątkowo do 20 cm. U bardzo młodych owocników półkulisty, z podwiniętym brzegiem i gładką brązową powierzchnią, potem wypukły do spłaszczonego i, poza środkiem, spękany na grube, ciemnobrązowe, trójkątne łuski o odgiętych, ostrych końcach, ułożone koncentrycznie na białawym do jasnobrązowego tle. Nie reaguje z KOH.",
+      "hymenium": "Blaszki wolne i gęste, długo białawe, potem szaroróżowe do cielistoróżowych, w końcu czekoladowobrązowe do czarnobrązowych, z jaśniejszym ostrzem; po uciśnięciu czerwienieją. Podstawki czterozarodnikowe; cheilocystydy liczne, maczugowate.",
+      "stipe": "Zwykle 7–20 cm długości, czasem do 25 cm, i 1–3 cm grubości, niekiedy do 4 cm; walcowaty do wrzecionowatego, zwężony w ostrą, korzeniącą się podstawę, często głęboko tkwiącą w glebie, a podstawy sąsiednich owocników są zrośnięte. Nad pierścieniem białawy i gładki, poniżej włóknisty i brązowawy, po uciśnięciu brązowieje, a w miejscach uszkodzeń barwi się na czerwonobrązowo. Pierścień wysoko osadzony, gruby i podwójny, z brązowawym, ząbkowanym brzegiem; przy podstawie często widać jeden lub dwa pochwiaste pierścienie.",
+      "flesh": "Białawy i jędrny, w kapeluszu gruby, w trzonie brązowawy; po przekrojeniu różowieje do winnoczerwonego, a potem powoli brązowieje na czerwonobrązowo. Zapach i smak przyjemne, grzybowe.",
+      "sporePrint": "Czekoladowobrązowy do ciemnobrązowego. Zarodniki jajowate do prawie kulistych, gładkie, brązowe, 5–8 × 4,5–6 µm.",
+      "habitat": "Saprotrof na głębokiej, próchnicznej, często gliniastej lub dobrze nawożonej glebie i na kompoście, w lasach liściastych i mieszanych z dębem, grabem, wiązem, klonem, jesionem lub topolą, rzadko pod drzewami iglastymi, a także w parkach, ogrodach, żywopłotach, na poboczach dróg i na cmentarzach. Owocniki wytwarza od lipca do listopada, zwykle w zwartych kępach liczących 5–12 lub więcej owocników; jedna kolonia może ważyć ponad 1 kg.",
+      "uses": "Jadalny i uważany za dobry, zwłaszcza młody. Ponieważ jest rzadki, a na Węgrzech chroniony, najlepiej zostawić go na miejscu.",
+      "confusion": "Agaricus subperonatus również ma łuskowaty kapelusz, ale jego łuski są przylegające, bez ostrych końców, i nie rośnie w kępach. Agaricus phaeolepidotus ma znacznie drobniejsze brązowe łuski, smuklejszą budowę i nieprzyjemny zapach, a powoduje dolegliwości żołądkowe. Agaricus augustus jest większy i pachnie gorzkimi migdałami, a Agaricus sylvaticus nie tworzy tak dużych kęp. Trujący Agaricus xanthodermus żółknie u podstawy trzonu i pachnie fenolem. Młode owocniki można pomylić z białymi gatunkami z rodzaju Amanita, które mają białe blaszki i bulwiasto zgrubiałą podstawę trzonu.",
+      "notes": "Na Węgrzech jest pod ochroną. W Bułgarii jest krytycznie zagrożony (Critically Endangered); znane są tam tylko dwie populacje, którym zagraża wyrąb lasu, zabudowa, turystyka, pożary i zbiór do jedzenia. W Polsce do 2003 roku był znany z jednego stanowiska i zaproponowano uznanie go tam za gatunek wymierający. Owocniki zawierają γ-tokoferol (witaminę E), związki fenolowe i kwasy organiczne o silnym działaniu przeciwutleniającym.",
+      "names": [],
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/Pieczarka_k%C4%99pkowa"
+      ],
+      "label": "pieczarka kępkowa"
+    },
+    "pt": {
+      "description": "Um cogumelo de lâminas grande e robusto que costuma crescer em tufos compactos, com as bases dos pés soldadas entre si. É conhecido apenas da Europa: é raro nas ilhas Britânicas e na Irlanda, nos Países Baixos e na Bélgica, difundido mas não comum na Hungria e referido como comum na Sérvia.",
+      "cap": "5–15 cm de diâmetro, excecionalmente até 20 cm. Muito jovem é hemisférico, com a margem enrolada e a superfície lisa e castanha, depois convexo a aplanado e, exceto no centro, dissociado em escamas grossas, castanho-escuras, triangulares, com pontas agudas e reviradas, dispostas em círculos concêntricos sobre um fundo esbranquiçado a castanho-pálido. Sem reação com KOH.",
+      "hymenium": "Lâminas livres e apertadas, durante muito tempo esbranquiçadas, depois rosa-acinzentadas a cor-de-carne e por fim castanho-chocolate a castanho-enegrecidas, com a aresta mais pálida; avermelham ao serem tocadas. Basídios tetraspóricos; queilocistídios abundantes, claviformes.",
+      "stipe": "Normalmente com 7–20 cm de comprimento, por vezes até 25 cm, e 1–3 cm de espessura, ocasionalmente até 4 cm; cilíndrico a fusiforme, estreitando numa base pontiaguda e radicante, muitas vezes profundamente enterrada no solo, com as bases dos exemplares vizinhos soldadas. Esbranquiçado e liso acima do anel, fibriloso e acastanhado abaixo, escurece ao toque e torna-se castanho-avermelhado onde é danificado. O anel é alto, espesso e duplo, com o bordo acastanhado e denteado, e junto à base veem-se muitas vezes um ou dois anéis em forma de bainha.",
+      "flesh": "Esbranquiçada e firme, espessa no chapéu, acastanhada no pé; ao corte fica rosada a vermelho-vinho e depois lentamente castanho-avermelhada. Cheiro e sabor agradáveis, a cogumelo.",
+      "sporePrint": "Castanho-chocolate a castanho-escuro. Esporos ovoides a subglobosos, lisos, castanhos, 5–8 × 4,5–6 µm.",
+      "habitat": "Saprotrófico em solos profundos, ricos em húmus, muitas vezes argilosos ou bem estrumados, e em composto, em bosques de folhosas e mistos com carvalho, carpino, ulmeiro, bordo, freixo ou choupo, raramente sob coníferas, e em parques, jardins, sebes, bermas de estrada e cemitérios. Frutifica de julho a novembro, normalmente em tufos compactos de 5–12 ou mais exemplares; uma colónia pode pesar mais de 1 kg.",
+      "uses": "Comestível e considerado bom, sobretudo jovem. Como é raro, e protegido na Hungria, é melhor deixá-lo onde cresce.",
+      "confusion": "Agaricus subperonatus também tem o chapéu escamoso, mas as escamas são aplicadas, sem pontas agudas, e não cresce em tufos. Agaricus phaeolepidotus tem escamas castanhas muito mais finas, um porte mais esguio e um cheiro desagradável, e causa perturbações gastrointestinais. Agaricus augustus é maior e cheira a amêndoa amarga, e Agaricus sylvaticus não forma tufos tão grandes. O tóxico Agaricus xanthodermus amarelece na base do pé e cheira a fenol. Os exemplares jovens podem ser confundidos com espécies brancas do género Amanita, que têm lâminas brancas e a base do pé bolbosa.",
+      "notes": "Protegido na Hungria. Criticamente em perigo (Critically Endangered) na Bulgária, onde só se conhecem duas populações, ameaçadas pelo abate de árvores, construção, turismo, incêndios e colheita para consumo. Na Polónia, em 2003 só era conhecido de uma localidade e foi aí proposto como espécie em perigo. Os corpos frutíferos contêm γ-tocoferol (vitamina E), compostos fenólicos e ácidos orgânicos com forte atividade antioxidante.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "O ciupercă mare și robustă cu lamele, care crește de obicei în tufe strânse, cu bazele piciorului concrescute. Este cunoscută doar din Europa: este rară în Insulele Britanice și Irlanda, în Țările de Jos și Belgia, răspândită, dar nu comună, în Ungaria și semnalată ca fiind comună în Serbia.",
+      "cap": "5–15 cm în diametru, excepțional până la 20 cm. La exemplarele foarte tinere emisferică, cu marginea răsucită și suprafața netedă, brună, apoi convexă până la aplatizată și, cu excepția centrului, desfăcută în solzi grosieri, brun-închis, triunghiulari, cu vârfuri ascuțite și răsfrânte, dispuși în cercuri concentrice pe un fond albicios până la brun-pal. Nu reacționează cu KOH.",
+      "hymenium": "Lamele libere și dese, mult timp albicioase, apoi roz-cenușii până la roz ca carnea și în final brun-ciocolatii până la brun-negricioase, cu muchia mai deschisă; se înroșesc la atingere. Bazidii tetrasporice; cheilocistide abundente, claviforme.",
+      "stipe": "De obicei lung de 7–20 cm, uneori până la 25 cm, și gros de 1–3 cm, ocazional până la 4 cm; cilindric până la fusiform, îngustat într-o bază ascuțită, radicantă, adesea adânc înfiptă în sol, iar bazele exemplarelor vecine sunt concrescute. Deasupra inelului albicios și neted, dedesubt fibros și brun, se brunifică la atingere și devine brun-roșcat unde este rănit. Inelul este sus, gros și dublu, cu marginea brună și dințată, iar lângă bază se văd adesea unul sau două inele în formă de teacă.",
+      "flesh": "Albicioasă și fermă, groasă în pălărie, brună în picior; la tăiere devine roz până la roșu-vinos și apoi încet brun-roșcată. Miros și gust plăcute, de ciupercă.",
+      "sporePrint": "Brun-ciocolatiu până la brun-închis. Spori ovoidali până la subglobuloși, netezi, bruni, 5–8 × 4,5–6 µm.",
+      "habitat": "Saprotrofă pe soluri adânci, bogate în humus, adesea argiloase sau bine îngrășate, și pe compost, în păduri de foioase și amestecate cu stejar, carpen, ulm, arțar, frasin sau plop, rar sub conifere, precum și în parcuri, grădini, garduri vii, margini de drum și cimitire. Fructifică din iulie până în noiembrie, de obicei în tufe strânse de 5–12 sau mai multe exemplare; o colonie poate cântări peste 1 kg.",
+      "uses": "Comestibilă și considerată bună, mai ales tânără. Fiind rară, și protejată în Ungaria, este mai bine lăsată unde crește.",
+      "confusion": "Agaricus subperonatus are de asemenea pălăria solzoasă, dar solzii sunt aplicați, fără vârfuri ascuțite, și nu crește în tufe. Agaricus phaeolepidotus are solzi bruni mult mai fini, o statură mai zveltă și un miros neplăcut și provoacă tulburări gastrointestinale. Agaricus augustus este mai mare și miroase a migdale amare, iar Agaricus sylvaticus nu formează tufe atât de mari. Toxicul Agaricus xanthodermus se îngălbenește la baza piciorului și miroase a fenol. Exemplarele tinere ar putea fi confundate cu speciile albe din genul Amanita, care au lamele albe și baza piciorului bulboasă.",
+      "notes": "Protejată în Ungaria. Critic periclitată (Critically Endangered) în Bulgaria, unde se cunosc doar două populații, amenințate de tăierile de pădure, construcții, turism, incendii și culesul pentru consum. În Polonia era cunoscută în 2003 dintr-o singură localitate și a fost propusă acolo ca specie periclitată. Corpurile fructifere conțin γ-tocoferol (vitamina E), compuși fenolici și acizi organici cu o puternică activitate antioxidantă.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ru": {
+      "description": "Крупный, мясистый пластинчатый гриб, который обычно растёт плотными пучками со сросшимися основаниями ножек. Известен только из Европы: на Британских островах и в Ирландии, в Нидерландах и Бельгии редок, в Венгрии широко распространён, но нечаст, а из Сербии указывается как обычный.",
+      "cap": "Диаметр 5–15 cm, в виде исключения до 20 cm. Совсем молодая шляпка полушаровидная, с подвёрнутым краем и гладкой коричневой поверхностью, затем выпуклая до уплощённой и, кроме центра, растрескивается на грубые тёмно-коричневые треугольные чешуйки с отогнутыми заострёнными кончиками, расположенные концентрическими кругами на беловатом или светло-коричневом фоне. С KOH не реагирует.",
+      "hymenium": "Пластинки свободные и частые, долго беловатые, затем серовато-розовые или телесно-розовые и наконец шоколадно-коричневые или черновато-коричневые, с более светлым краем; при надавливании краснеют. Базидии четырёхспоровые; хейлоцистиды многочисленные, булавовидные.",
+      "stipe": "Обычно 7–20 cm длиной, иногда до 25 cm, и 1–3 cm толщиной, изредка до 4 cm; цилиндрическая или веретеновидная, сужена в заострённое укореняющееся основание, часто глубоко погружённое в почву, причём основания соседних плодовых тел срастаются. Над кольцом беловатая и гладкая, ниже волокнистая и буроватая, при надавливании буреет, а в местах повреждения становится красновато-коричневой. Кольцо расположено высоко, толстое и двойное, с буроватым зубчатым краем, а у основания часто видны одно или два влагалищевидных кольца.",
+      "flesh": "Беловатая и плотная, толстая в шляпке, буроватая в ножке; на срезе розовеет до винно-красной, затем медленно становится красновато-коричневой. Запах и вкус приятные, грибные.",
+      "sporePrint": "Шоколадно-коричневый до тёмно-коричневого. Споры яйцевидные до почти шаровидных, гладкие, коричневые, 5–8 × 4,5–6 µm.",
+      "habitat": "Сапротроф на глубокой, богатой гумусом, часто глинистой или хорошо удобренной почве и на компосте, в лиственных и смешанных лесах с дубом, грабом, вязом, клёном, ясенем или тополем, редко под хвойными, а также в парках, садах, живых изгородях, на обочинах дорог и кладбищах. Плодоносит с июля по ноябрь, обычно плотными пучками из 5–12 и более плодовых тел; одна колония может весить более 1 kg.",
+      "uses": "Съедобен и считается хорошим, особенно молодым. Поскольку он редок, а в Венгрии охраняется, его лучше оставить на месте.",
+      "confusion": "Agaricus subperonatus тоже имеет чешуйчатую шляпку, но его чешуйки прижатые, без заострённых кончиков, и он не растёт пучками. Agaricus phaeolepidotus имеет гораздо более мелкие коричневые чешуйки, более стройное сложение и неприятный запах и вызывает желудочно-кишечные расстройства. Agaricus augustus крупнее и пахнет горьким миндалём, а Agaricus sylvaticus не образует таких крупных пучков. Ядовитый Agaricus xanthodermus желтеет в основании ножки и пахнет фенолом. Молодые плодовые тела можно спутать с белыми видами рода Amanita, у которых белые пластинки и клубневидно утолщённое основание ножки.",
+      "notes": "Охраняется в Венгрии. В Болгарии находится в критическом состоянии (Critically Endangered); там известны лишь две популяции, которым угрожают вырубка леса, застройка, туризм, пожары и сбор в пищу. В Польше к 2003 году был известен лишь из одного местонахождения и был предложен там как исчезающий вид. Плодовые тела содержат γ-токоферол (витамин E), фенольные соединения и органические кислоты с сильной антиоксидантной активностью.",
+      "names": [],
+      "sourceUrls": [
+        "https://species.wikimedia.org/wiki/Agaricus_bohusii"
+      ],
+      "label": "шампиньон Богуса"
+    },
+    "sk": {
+      "description": "Veľká, mohutná lupeňovitá huba, ktorá zvyčajne rastie v tesných trsoch so zrastenými bázami hlúbikov. Je známa len z Európy: na Britských ostrovoch a v Írsku, v Holandsku a Belgicku je vzácna, v Maďarsku rozšírená, ale nie hojná, a zo Srbska sa uvádza ako hojná.",
+      "cap": "5–15 cm v priemere, výnimočne až 20 cm. Celkom mladý je pologuľovitý s podvinutým okrajom a hladkým hnedým povrchom, potom vypuklý až sploštený a okrem stredu rozpraskaný na hrubé, tmavohnedé, trojuholníkové šupiny so zahnutými, špicatými koncami, usporiadané v sústredných kruhoch na belavom až svetlohnedom podklade. S KOH nereaguje.",
+      "hymenium": "Lupene voľné a husté, dlho belavé, potom sivoružové až mäsovoružové a nakoniec čokoládovohnedé až čiernohnedé, so svetlejším ostrím; pri otlačení červenajú. Bazídie štvorvýtrusné; cheilocystídy hojné, kyjakovité.",
+      "stipe": "Zvyčajne 7–20 cm dlhý, niekedy až 25 cm, a 1–3 cm hrubý, ojedinele až 4 cm; valcovitý až vretenovitý, zúžený do špicatej, koreňujúcej bázy, ktorá je často hlboko v pôde, a bázy susedných plodníc sú zrastené. Nad prsteňom belavý a hladký, pod ním vláknitý a hnedastý, na otlačených miestach hnedne a pri poranení sa farbí červenohnedo. Prsteň je vysoko položený, hrubý a dvojitý, s hnedastým, zúbkovaným okrajom, a pri báze často vidno jeden alebo dva pošvovité prstence.",
+      "flesh": "Belavá a pevná, v klobúku hrubá, v hlúbiku hnedastá; po rozrezaní ružovie až vínovo červenie a potom pomaly hnedočervenie. Vôňa a chuť príjemné, hubové.",
+      "sporePrint": "Čokoládovohnedý až tmavohnedý. Výtrusy vajcovité až takmer guľovité, hladké, hnedé, 5–8 × 4,5–6 µm.",
+      "habitat": "Saprotrof na hlbokej, humóznej, často ílovitej alebo dobre pohnojenej pôde a na komposte, v listnatých a zmiešaných lesoch s dubom, hrabom, brestom, javorom, jaseňom alebo topoľom, zriedka pod ihličnanmi, a v parkoch, záhradách, živých plotoch, pri cestách a na cintorínoch. Plodnice tvorí od júla do novembra, zvyčajne v tesných trsoch po 5–12 a viac plodníc; jedna kolónia môže vážiť viac ako 1 kg.",
+      "uses": "Jedlá a považuje sa za dobrú, najmä za mlada. Keďže je vzácna a v Maďarsku chránená, najlepšie je nechať ju rásť.",
+      "confusion": "Agaricus subperonatus má tiež šupinatý klobúk, ale jeho šupiny sú pritisnuté, bez špicatých koncov, a nerastie v trsoch. Agaricus phaeolepidotus má oveľa jemnejšie hnedé šupiny, útlejšiu stavbu a nepríjemný pach a spôsobuje tráviace ťažkosti. Agaricus augustus je väčší a vonia horkými mandľami a Agaricus sylvaticus netvorí také veľké trsy. Jedovatý Agaricus xanthodermus na báze hlúbika žltne a páchne fenolom. Mladé plodnice by sa dali zameniť s bielymi druhmi rodu Amanita, ktoré majú biele lupene a hľuzovito rozšírenú bázu hlúbika.",
+      "notes": "V Maďarsku je chránená. V Bulharsku je kriticky ohrozená; sú tam známe len dve populácie, ktoré ohrozuje ťažba dreva, výstavba, turistika, požiare a zber na jedenie. V Poľsku bola do roku 2003 známa z jedinej lokality a navrhli ju tam zaradiť medzi ohrozené druhy. Plodnice obsahujú γ-tokoferol (vitamín E), fenolové zlúčeniny a organické kyseliny so silnou antioxidačnou aktivitou.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.nahuby.sk/atlas-hub/Agaricus-bohusii/pecierka-trsovita/ID904"
+      ],
+      "label": "pečiarka trsovitá"
+    },
+    "sl": {
+      "description": "Velika, čvrsta lističasta goba, ki običajno raste v gostih šopih, z zraslimi osnovami betov. Znana je le iz Evrope: na Britanskem otočju in Irskem, na Nizozemskem in v Belgiji je redka, na Madžarskem razširjena, vendar ne pogosta, iz Srbije pa jo navajajo kot pogosto.",
+      "cap": "Premer 5–15 cm, izjemoma do 20 cm. Čisto mlad polkroglast, z uvihanim robom in gladko rjavo površino, nato izbočen do sploščen in, razen na sredini, razpokan v grobe, temno rjave, trikotne luske z zavihanimi, koničastimi konicami, razporejene v koncentričnih krogih na belkasti do svetlo rjavi podlagi. S KOH ne reagira.",
+      "hymenium": "Lističi prosti in gosti, dolgo belkasti, nato sivkasto rožnati do mesnato rožnati in nazadnje čokoladno rjavi do črnikasto rjavi, s svetlejšim rezilom; na pritisk pordečijo. Bazidiji štiritrosni; heilocistide številne, kijaste.",
+      "stipe": "Običajno 7–20 cm dolg, včasih do 25 cm, in 1–3 cm debel, občasno do 4 cm; valjast do vretenast, zožen v koničasto, koreninasto osnovo, ki je pogosto globoko v tleh, osnove sosednjih trosnjakov pa so zrasle. Nad obročkom belkast in gladek, pod njim vlaknat in rjavkast, na pritisk porjavi in na poškodovanih mestih postane rdečkasto rjav. Obroček je visoko, debel in dvojen, z rjavkastim, nazobčanim robom, ob osnovi pa sta pogosto vidna en ali dva nožnici podobna obročka.",
+      "flesh": "Belkasto in čvrsto, v klobuku debelo, v betu rjavkasto; prerezano postane rožnato do vinsko rdeče in nato počasi rdečkasto rjavo. Vonj in okus prijetna, gobja.",
+      "sporePrint": "Čokoladno rjav do temno rjav. Trosi jajčasti do skoraj kroglasti, gladki, rjavi, 5–8 × 4,5–6 µm.",
+      "habitat": "Saprotrof na globokih, s humusom bogatih, pogosto ilovnatih ali dobro gnojenih tleh in na kompostu, v listnatih in mešanih gozdovih s hrastom, belim gabrom, brestom, javorjem, jesenom ali topolom, redko pod iglavci, ter v parkih, vrtovih, živih mejah, ob cestah in na pokopališčih. Trosnjake tvori od julija do novembra, običajno v gostih šopih po 5–12 ali več trosnjakov; ena kolonija lahko tehta več kot 1 kg.",
+      "uses": "Užitna in velja za dobro, zlasti mlada. Ker je redka, na Madžarskem pa zavarovana, jo je najbolje pustiti rasti.",
+      "confusion": "Tudi Agaricus subperonatus ima luskast klobuk, vendar so njegove luske prilegle, brez koničastih konic, in ne raste v šopih. Agaricus phaeolepidotus ima veliko drobnejše rjave luske, vitkejšo rast in neprijeten vonj ter povzroča prebavne težave. Agaricus augustus je večji in diši po grenkih mandljih, Agaricus sylvaticus pa ne tvori tako velikih šopov. Strupeni Agaricus xanthodermus na osnovi beta porumeni in smrdi po fenolu. Mlade trosnjake bi lahko zamenjali z belimi vrstami rodu Amanita, ki imajo bele lističe in gomoljasto odebeljeno osnovo beta.",
+      "notes": "Na Madžarskem je zavarovana. V Bolgariji je skrajno ogrožena (Critically Endangered); tam sta znani le dve populaciji, ki ju ogrožajo sečnja, gradnja, turizem, požari in nabiranje za hrano. Na Poljskem je bila do leta 2003 znana le z enega nahajališča in so jo tam predlagali za ogroženo vrsto. Trosnjaki vsebujejo γ-tokoferol (vitamin E), fenolne spojine in organske kisline z močnim antioksidativnim delovanjem.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.gobe.si/Gobe/AgaricusBohusii"
+      ],
+      "label": "šopasti kukmak"
+    },
+    "sr": {
+      "description": "Велика, чврста листаста гљива која обично расте у густим бусенима, са сраслим основама дршки. Позната је само из Европе: на Британским острвима и у Ирској, у Холандији и Белгији је ретка, у Мађарској распрострањена, али није честа, а из Србије се наводи као честа.",
+      "cap": "Пречник 5–15 cm, изузетно до 20 cm. Сасвим млад полулоптаст, са увијеним ободом и глатком смеђом површином, затим испупчен до спљоштен и, осим у средини, испуцао у грубе, тамносмеђе, троугласте љуспе са повијеним, шиљатим врховима, распоређене у концентричне кругове на беличастој до светлосмеђој подлози. Са KOH не реагује.",
+      "hymenium": "Листићи слободни и густи, дуго беличасти, затим сивкасторужичасти до боје меса и најзад чоколадносмеђи до црносмеђи, са светлијом ивицом; на притисак поцрвене. Базидије четвороспорне; хеилоцистиде бројне, батинасте.",
+      "stipe": "Обично 7–20 cm дуга, понекад до 25 cm, и 1–3 cm дебела, понекад до 4 cm; ваљкаста до вретенаста, сужена у шиљату, корениту основу која је често дубоко у земљи, а основе суседних плодних тела су срасле. Изнад прстена беличаста и глатка, испод влакнаста и смеђкаста, на притисак посмеђи, а на оштећеним местима постаје црвенкастосмеђа. Прстен је високо, дебео и двострук, са смеђкастом, назубљеном ивицом, а уз основу се често виде један или два рукавчаста прстена.",
+      "flesh": "Беличасто и чврсто, у шеширу дебело, у дршци смеђкасто; пресечено постаје ружичасто до винскоцрвено, а затим полако црвенкастосмеђе. Мирис и укус пријатни, на гљиву.",
+      "sporePrint": "Чоколадносмеђ до тамносмеђ. Споре јајасте до скоро лоптасте, глатке, смеђе, 5–8 × 4,5–6 µm.",
+      "habitat": "Сапротроф на дубоком, хумусном, често глиновитом или добро нађубреном земљишту и на компосту, у листопадним и мешовитим шумама са храстом, грабом, брестом, јавором, јасеном или тополом, ретко под четинарима, као и у парковима, баштама, живим оградама, поред путева и на гробљима. Плодна тела образује од јула до новембра, обично у густим бусенима од 5–12 или више плодних тела; једна колонија може тежити више од 1 kg.",
+      "uses": "Јестива и сматра се добром, нарочито млада. Пошто је ретка, а у Мађарској заштићена, најбоље је оставити је да расте.",
+      "confusion": "Agaricus subperonatus такође има љуспаст шешир, али су му љуспе прилегле, без шиљатих врхова, и не расте у бусенима. Agaricus phaeolepidotus има много ситније смеђе љуспе, виткију грађу и непријатан мирис и изазива желудачно-цревне тегобе. Agaricus augustus је већи и мирише на горке бадеме, а Agaricus sylvaticus не образује тако велике бусене. Отровни Agaricus xanthodermus жути на основи дршке и заудара на фенол. Млада плодна тела могла би се заменити са белим врстама рода Amanita, које имају беле листиће и кртоласто задебљалу основу дршке.",
+      "notes": "У Мађарској је заштићена. У Бугарској је критично угрожена (Critically Endangered); тамо су познате само две популације, које угрожавају сеча шума, градња, туризам, пожари и сакупљање за јело. У Пољској је до 2003. била позната само са једног налазишта и тамо је предложена као угрожена врста. Плодна тела садрже γ-токоферол (витамин E), фенолна једињења и органске киселине снажног антиоксидативног деловања.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "sv": {
+      "description": "En stor, kraftig skivling som oftast växer i täta tuvor med fotbaserna sammanvuxna. Den är bara känd från Europa: på Brittiska öarna och i Irland, i Nederländerna och Belgien är den sällsynt, i Ungern spridd men inte vanlig, och från Serbien uppges den vara vanlig.",
+      "cap": "5–15 cm bred, undantagsvis upp till 20 cm. Helt ung halvklotformad med inrullad kant och slät, brun yta, sedan välvd till utbredd och, utom i mitten, uppsprucken i grova, mörkbruna, triangulära fjäll med tillbakaböjda, spetsiga ändar, ordnade i koncentriska ringar på vitaktig till ljusbrun botten. Ingen reaktion med KOH.",
+      "hymenium": "Skivor fria och täta, länge vitaktiga, sedan gråaktigt rosa till köttrosa och till sist chokladbruna till svartbruna, med ljusare egg; de rodnar vid tryck. Basidier fyrsporiga; cheilocystider rikliga, klubbformade.",
+      "stipe": "Oftast 7–20 cm lång, ibland upp till 25 cm, och 1–3 cm tjock, ibland upp till 4 cm; cylindrisk till spolformig, avsmalnande mot en spetsig, rotande bas som ofta sitter djupt i jorden, och grannfruktkropparnas baser är sammanvuxna. Vitaktig och slät ovanför ringen, trådig och brunaktig nedanför, brunnande vid tryck och rödbrun där den skadas. Ringen sitter högt, är tjock och dubbel, med brunaktig, tandad kant, och nära basen syns ofta en eller två slidlika ringar.",
+      "flesh": "Vitaktigt och fast, tjockt i hatten, brunaktigt i foten; i snitt blir det rosa till vinrött och sedan långsamt rödbrunt. Lukt och smak behagliga, svampaktiga.",
+      "sporePrint": "Chokladbrunt till mörkbrunt. Sporer äggformade till nästan klotformade, släta, bruna, 5–8 × 4,5–6 µm.",
+      "habitat": "Saprotrof på djup, mullrik, ofta lerig eller välgödslad jord och på kompost, i löv- och blandskog med ek, avenbok, alm, lönn, ask eller poppel, sällan under barrträd, samt i parker, trädgårdar, häckar, vägkanter och på kyrkogårdar. Den bildar fruktkroppar från juli till november, oftast i täta tuvor med 5–12 eller fler fruktkroppar; en koloni kan väga över 1 kg.",
+      "uses": "Ätlig och anses god, särskilt som ung. Eftersom den är sällsynt, och fridlyst i Ungern, bör den helst lämnas kvar.",
+      "confusion": "Agaricus subperonatus har också en fjällig hatt, men dess fjäll ligger tryckta utan spetsiga ändar, och den växer inte i tuvor. Agaricus phaeolepidotus har mycket finare bruna fjäll, en spädare byggnad och en obehaglig lukt, och den ger mag-tarmbesvär. Agaricus augustus är större och luktar bittermandel, och Agaricus sylvaticus bildar inte så stora tuvor. Den giftiga Agaricus xanthodermus gulnar vid fotbasen och luktar fenol. Unga fruktkroppar kan förväxlas med vita Amanita-arter, som har vita skivor och en knölformigt uppsvälld fotbas.",
+      "notes": "Fridlyst i Ungern. Akut hotad (Critically Endangered) i Bulgarien, där bara två populationer är kända, hotade av avverkning, bebyggelse, turism, bränder och insamling för mat. I Polen var den 2003 bara känd från en enda lokal och föreslogs där som starkt hotad. Fruktkropparna innehåller γ-tokoferol (vitamin E), fenoliska föreningar och organiska syror med stark antioxidativ verkan.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "tr": {
+      "description": "Genellikle sap tabanları birbirine kaynaşmış sıkı kümeler hâlinde büyüyen, büyük ve iri yapılı, lamelli bir mantar. Yalnızca Avrupa'dan bilinir: Britanya Adaları ile İrlanda'da, Hollanda ve Belçika'da nadirdir, Macaristan'da yaygın ama sık değildir, Sırbistan'dan ise sık rastlanan bir tür olarak bildirilir.",
+      "cap": "Çapı 5–15 cm, istisnai olarak 20 cm'ye kadar. Çok gençken yarım küre biçiminde, kenarı içe kıvrık ve yüzeyi düz kahverengidir; sonra dışbükeyden yassılaşmışa döner ve merkez dışında, beyazımsı ile açık kahverengi bir zemin üzerinde eş merkezli halkalar hâlinde dizilmiş, uçları sivri ve geriye kıvrık, kaba, koyu kahverengi, üçgen pullara ayrılır. KOH ile tepkime vermez.",
+      "hymenium": "Lameller serbest ve sık, uzun süre beyazımsı, sonra grimsi pembe ile ten pembesi ve sonunda çikolata kahverengisi ile siyahımsı kahverengi, ağzı daha açık renkli; basınçla kızarır. Bazidyumlar dört sporlu; keilosistitler bol, topuz biçimli.",
+      "stipe": "Genellikle 7–20 cm uzunluğunda, bazen 25 cm'ye kadar, ve 1–3 cm kalınlığında, ara sıra 4 cm'ye kadar; silindirikten iğ biçimine, çoğu zaman toprağın derinlerinde duran sivri, köklenen bir tabana doğru incelir ve komşu meyve gövdelerinin tabanları kaynaşmıştır. Halkanın üstünde beyazımsı ve düz, altında lifli ve kahverengimsi; basınçla kahverengileşir, zarar gördüğü yerde kırmızımsı kahverengiye döner. Halka yüksekte, kalın ve çifttir, kenarı kahverengimsi ve dişlidir; tabana yakın yerde çoğu zaman bir ya da iki kın benzeri halka görülür.",
+      "flesh": "Beyazımsı ve sıkı, şapkada kalın, sapta kahverengimsi; kesildiğinde pembeden şarap kırmızısına döner, sonra yavaşça kırmızımsı kahverengiye geçer. Kokusu ve tadı hoş, mantar gibidir.",
+      "sporePrint": "Çikolata kahverengisi ile koyu kahverengi. Sporlar yumurtamsı ile neredeyse küremsi, düz, kahverengi, 5–8 × 4,5–6 µm.",
+      "habitat": "Derin, humusça zengin, çoğu zaman killi ya da iyi gübrelenmiş toprakta ve kompostta, meşe, gürgen, karaağaç, akçaağaç, dişbudak ya da kavak bulunan yaprak döken ve karışık ormanlarda, nadiren iğne yapraklıların altında, ayrıca parklarda, bahçelerde, çitlerde, yol kenarlarında ve mezarlıklarda yetişen bir saprotroftur. Temmuzdan kasıma kadar, genellikle 5–12 ya da daha fazla meyve gövdesinden oluşan sıkı kümeler hâlinde ürün verir; tek bir koloni 1 kg'dan fazla gelebilir.",
+      "uses": "Yenebilir ve özellikle gençken iyi kabul edilir. Nadir olduğu ve Macaristan'da koruma altında bulunduğu için yerinde bırakılması en iyisidir.",
+      "confusion": "Agaricus subperonatus'un şapkası da pulludur, ancak pulları sivri uçsuz ve yatıktır, kümeler hâlinde de büyümez. Agaricus phaeolepidotus çok daha ince kahverengi pullara, daha narin bir yapıya ve hoş olmayan bir kokuya sahiptir ve mide-bağırsak rahatsızlıklarına yol açar. Agaricus augustus daha büyüktür ve acı badem kokar; Agaricus sylvaticus ise bu kadar büyük kümeler oluşturmaz. Zehirli Agaricus xanthodermus sap tabanında sararır ve fenol kokar. Genç meyve gövdeleri, beyaz lamelli ve sap tabanı yumru biçiminde şişkin olan beyaz Amanita türleriyle karıştırılabilir.",
+      "notes": "Macaristan'da koruma altındadır. Bulgaristan'da kritik derecede tehlike altındadır (Critically Endangered); orada yalnızca iki popülasyonu bilinir ve bunlar ağaç kesimi, yapılaşma, turizm, yangınlar ve yemek için toplama tehdidi altındadır. Polonya'da 2003'e kadar yalnızca tek bir yerden biliniyordu ve orada tehlike altındaki türler arasına alınması önerildi. Meyve gövdeleri γ-tokoferol (E vitamini), fenolik bileşikler ve güçlü antioksidan etkili organik asitler içerir.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Великий, м’ясистий пластинчастий гриб, який зазвичай росте щільними пучками зі зрослими основами ніжок. Відомий лише з Європи: на Британських островах та в Ірландії, у Нідерландах і Бельгії рідкісний, в Угорщині поширений, але нечастий, а із Сербії наводиться як звичайний.",
+      "cap": "Діаметр 5–15 cm, у виняткових випадках до 20 cm. Зовсім молодий капелюшок напівкулястий, з підгорнутим краєм і гладенькою коричневою поверхнею, згодом опуклий до сплощеного і, крім центру, розтріскується на грубі темно-коричневі трикутні лусочки з відігнутими загостреними кінчиками, розташовані концентричними колами на білуватому або світло-коричневому тлі. З KOH не реагує.",
+      "hymenium": "Пластинки вільні й часті, довго білуваті, потім сірувато-рожеві або тілесно-рожеві й зрештою шоколадно-коричневі або чорнувато-коричневі, зі світлішим краєм; при натисканні червоніють. Базидії чотириспорові; хейлоцистиди численні, булавоподібні.",
+      "stipe": "Зазвичай 7–20 cm завдовжки, іноді до 25 cm, і 1–3 cm завтовшки, зрідка до 4 cm; циліндрична або веретеноподібна, звужена в загострену вкорінену основу, часто глибоко занурену в ґрунт, причому основи сусідніх плодових тіл зростаються. Над кільцем білувата й гладенька, нижче волокниста й бурувата, при натисканні буріє, а в місцях пошкодження стає червонувато-коричневою. Кільце розташоване високо, товсте й подвійне, з буруватим зубчастим краєм, а біля основи часто видно одне чи два піхвоподібні кільця.",
+      "flesh": "Білувата й щільна, товста в капелюшку, бурувата в ніжці; на зрізі рожевіє до винно-червоної, потім повільно стає червонувато-коричневою. Запах і смак приємні, грибні.",
+      "sporePrint": "Шоколадно-коричневий до темно-коричневого. Спори яйцеподібні до майже кулястих, гладенькі, коричневі, 5–8 × 4,5–6 µm.",
+      "habitat": "Сапротроф на глибокому, багатому на гумус, часто глинистому або добре удобреному ґрунті та на компості, у листяних і мішаних лісах з дубом, грабом, в’язом, кленом, ясенем або тополею, рідко під хвойними, а також у парках, садах, живоплотах, на узбіччях доріг і цвинтарях. Плодоносить з липня по листопад, зазвичай щільними пучками з 5–12 і більше плодових тіл; одна колонія може важити понад 1 kg.",
+      "uses": "Їстівний і вважається добрим, особливо молодим. Оскільки він рідкісний, а в Угорщині охороняється, його краще залишити на місці.",
+      "confusion": "Agaricus subperonatus також має лускатий капелюшок, але його лусочки притиснуті, без загострених кінчиків, і він не росте пучками. Agaricus phaeolepidotus має значно дрібніші коричневі лусочки, стрункішу будову й неприємний запах і спричиняє шлунково-кишкові розлади. Agaricus augustus більший і пахне гірким мигдалем, а Agaricus sylvaticus не утворює таких великих пучків. Отруйний Agaricus xanthodermus жовтіє в основі ніжки й пахне фенолом. Молоді плодові тіла можна сплутати з білими видами роду Amanita, які мають білі пластинки й бульбоподібно потовщену основу ніжки.",
+      "notes": "Охороняється в Угорщині. У Болгарії перебуває під критичною загрозою (Critically Endangered); там відомі лише дві популяції, яким загрожують вирубування лісу, забудова, туризм, пожежі та збирання в їжу. У Польщі до 2003 року був відомий лише з одного місцезнаходження і там його запропоновали як зникаючий вид. Плодові тіла містять γ-токоферол (вітамін E), фенольні сполуки й органічні кислоти з сильною антиоксидантною активністю.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "zh": {
+      "description": "一種大型、粗壯的具褶菇類，通常成密集叢生，菌柄基部彼此癒合。僅知分布於歐洲：在不列顛群島和愛爾蘭、荷蘭和比利時稀有，在匈牙利分布廣泛但不常見，在塞爾維亞則據報常見。",
+      "cap": "直徑5–15 cm，偶可達20 cm。極幼時半球形，邊緣內捲，表面光滑、褐色，後呈凸鏡形至平展，除中央外裂成粗大、暗褐色的三角形鱗片，鱗片尖端銳而反捲，呈同心環排列於白色至淡褐色的底色上。遇KOH無反應。",
+      "hymenium": "菌褶離生、密，長期呈白色，後轉灰粉紅色至肉粉紅色，最後為巧克力褐色至黑褐色，褶緣較淡；受壓變紅。擔子具四孢；緣囊狀體豐富，棒狀。",
+      "stipe": "通常長7–20 cm，有時達25 cm，粗1–3 cm，偶達4 cm；圓柱形至紡錘形，向下漸細成尖而具假根的基部，基部常深入土中，相鄰子實體的基部互相癒合。菌環以上白色、光滑，以下纖維狀、帶褐色，受壓變褐，受傷處變紅褐色。菌環位置高，厚而雙層，邊緣帶褐色並具齒；近基部常可見一至兩圈鞘狀環帶。",
+      "flesh": "白色、緊實，菌蓋中厚，菌柄中帶褐色；切開後變粉紅色至酒紅色，然後緩慢轉為紅褐色。氣味和味道宜人，具菇味。",
+      "sporePrint": "巧克力褐色至暗褐色。孢子卵形至近球形，光滑，褐色，5–8 × 4.5–6 µm。",
+      "habitat": "腐生於深厚、富含腐殖質、常為黏質或施肥良好的土壤及堆肥上，見於有櫟、鵝耳櫪、榆、槭、白蠟樹或楊的闊葉林和混交林，少見於針葉樹下，也見於公園、庭園、樹籬、路旁和墓地。7月至11月出菇，通常為5–12個或更多子實體的密集叢生；一個群落可重逾1 kg。",
+      "uses": "可食，被認為品質良好，尤以幼時為佳。由於稀有且在匈牙利受保護，最好留在原處。",
+      "confusion": "Agaricus subperonatus的菌蓋同樣有鱗片，但鱗片平伏、無尖端，且不叢生。Agaricus phaeolepidotus的褐色鱗片細得多，體形較纖細，有難聞氣味，並會引起腸胃不適。Agaricus augustus較大，有苦杏仁氣味；Agaricus sylvaticus則不形成如此大的叢。有毒的Agaricus xanthodermus在菌柄基部變黃，並有酚味。幼小子實體可能被誤認為白色的Amanita屬物種，後者菌褶白色，菌柄基部呈球莖狀膨大。",
+      "notes": "在匈牙利受保護。在保加利亞為極危物種（Critically Endangered），當地僅知兩個族群，受伐木、建設、旅遊、火災和採食威脅。在波蘭，至2003年僅知一處產地，當地已建議將其列為瀕危物種。子實體含γ-生育酚（維生素E）、酚類化合物及具強抗氧化活性的有機酸。",
+      "names": [],
+      "sourceUrls": []
+    }
+  },
+  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_bohusii/Agaricus_bohusii@1600.webp",
+  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_bohusii/Agaricus_bohusii@400.webp",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_bohusii/Agaricus_bohusii@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_bohusii/Agaricus_bohusii@400.webp",
+  "plateCredit": {
+    "author": "Gemini",
+    "credit": "Credit \"Gemini\" as requested (metadata only; owner t29u, same as Bovista paludosa ID 154 and Phaeoclavulina roellinii ID 155). The supplied image is a 19th-century-style colour illustration that appears AI-generated (cursive \"Gemini\" mark bottom right, Picasa-processed JPEG named .png, no matching historical plate found); it is not a documented botanical plate. The mark is not proof of authorship.",
+    "license": "Rights unverified (AI-generated image; no human author or licence documented)",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_bohusii/Agaricus_bohusii@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_bohusii/ab1.webp",
+      "author": "Zeke Marshall",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/93687277"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_bohusii/ab2.webp",
+      "author": "Piermario Maculan",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/93642350"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_bohusii/ab3.webp",
+      "author": "Piermario Maculan",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/134762280"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_bohusii/ab4.webp",
+      "author": "szegedigombasz",
+      "license": "CC0 1.0 Universal",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://www.inaturalist.org/observations/179483729"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_bohusii/ab5.webp",
+      "author": "Ross Krisztina",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/255316160"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Agaricales/Agaricaceae/Agaricus_bohusii/Agaricus_bohusii@1600.webp",
+      "author": "Gemini (credit as requested; AI-generated illustration of unverified rights)",
+      "license": "Rights unverified (AI-generated image; no human author or licence documented)",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Agaricales/Agaricaceae/Agaricus_bohusii/Agaricus_bohusii@1600.webp",
+      "basedOn": [],
+      "existingMark": "\"Gemini\" cursive script mark bottom right; retained once exactly as found; no new mark painted; no authorship/rights authentication"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Agaricales/Agaricaceae/Agaricus_bohusii/ab1.webp",
+      "author": "Zeke Marshall",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/93687277",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/155313966/original.jpeg",
+      "attribution": "© Zeke Marshall, CC BY 4.0, via iNaturalist observation 93687277 / GBIF occurrence 3355603983",
+      "adaptation": "True-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Agaricales/Agaricaceae/Agaricus_bohusii/ab2.webp",
+      "author": "Piermario Maculan",
+      "license": "CC0 1.0 Universal",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/93642350",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/155229816/original.jpg",
+      "attribution": "Piermario Maculan, CC0 1.0 (no rights reserved), via iNaturalist observation 93642350 / GBIF occurrence 3355618950",
+      "adaptation": "True-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Agaricales/Agaricaceae/Agaricus_bohusii/ab3.webp",
+      "author": "Piermario Maculan",
+      "license": "CC0 1.0 Universal",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/134762280",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/229760802/original.jpg",
+      "attribution": "Piermario Maculan, CC0 1.0 (no rights reserved), via iNaturalist observation 134762280 / GBIF occurrence 4954628757",
+      "adaptation": "True-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Agaricales/Agaricaceae/Agaricus_bohusii/ab4.webp",
+      "author": "szegedigombasz",
+      "license": "CC0 1.0 Universal",
+      "licenseVersion": "1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/179483729",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/312484719/original.jpeg",
+      "attribution": "szegedigombasz, CC0 1.0 (no rights reserved), via iNaturalist observation 179483729 / GBIF occurrence 4430455980",
+      "adaptation": "True-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Agaricales/Agaricaceae/Agaricus_bohusii/ab5.webp",
+      "author": "Ross Krisztina",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/255316160",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/457527819/original.jpeg",
+      "attribution": "© Ross Krisztina, CC BY 4.0, via iNaturalist observation 255316160 / GBIF occurrence 5062928016",
+      "adaptation": "True-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    }
+  ],
+  "synonyms": [],
+  "fruitingFrom": 7,
+  "fruitingTo": 11,
+  "reserved": false,
+  "id": 156,
+  "added": "2026-11-10",
+  "citation": "Docums Mycol. 13(no. 49): 56 (1983)",
+  "illustrationProvenance": {
+    "paperHolesRemoved": [],
+    "holeRemovalDisabled": "All 12 candidate enclosed low-contrast regions were pale stipe/ring interiors; kept opaque",
+    "paperPatchesExcluded": [
+      {
+        "area": 813.0,
+        "box": [
+          808,
+          1079,
+          37,
+          62
+        ],
+        "medianContrast": 7.361425870773756
+      }
+    ],
+    "edgePaperPixelsPeeled": 8132,
+    "paperResidualP995": 1.7300861376183783,
+    "contrastThreshold": 6,
+    "tool": "Pillow + OpenCV deterministic alpha-only segmentation; no generation",
+    "sourceFile": "Agaricus bohusii.png",
+    "sourceFormat": "JPEG",
+    "sourceFormatNote": "File named .png is actually JPEG/JFIF (Exif software Picasa); no source alpha; alpha produced by segmentation.",
+    "sourceDimensions": [
+      896,
+      1200
+    ],
+    "sourceSHA256": "a5391f88c71a48f237914225f04ff97cbe29d154b220e4a3e2ea8ee88b085e6b",
+    "backgroundSHA256": "d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c",
+    "alphaPNG": "artwork_rgba.png",
+    "mask": "artwork_alpha_mask.png",
+    "cropBBox": [
+      63,
+      151,
+      857,
+      1158
+    ],
+    "uniformScale": 1.7632241813602014,
+    "placement": [
+      100,
+      312
+    ],
+    "composedArtworkDimensions": [
+      1400,
+      1776
+    ],
+    "allSourceRGBChangedPixels": 0,
+    "transparentPixels": 697847,
+    "opaquePixels": 353559,
+    "partialAlphaPixels": 23794,
+    "signatureBox": [
+      600,
+      1104,
+      706,
+      1162
+    ],
+    "signatureComponents": 3,
+    "signaturePixels": 542,
+    "preservedObjects": [
+      "upper left: a young closed fruit body with a hemispherical cap covered in concentric brown scales and a short, bulbous whitish stipe",
+      "right: a mature upright fruit body with a convex, coarsely scaly brown cap, a large pendant ring, and a whitish fibrillose, spindle-shaped stipe tapering to a scurfy base",
+      "lower left: a fruit body lying on its side showing the pink-brown free gills, the ring and a long curved stipe with a club-shaped base",
+      "existing hand-script \"Gemini\" mark at bottom right"
+    ],
+    "signatureTreatment": "Existing \"Gemini\" script mark retained once exactly as found (alpha only, both i-dots kept); no mark added, painted or removed; the requested signature \"Gemini\" is used as the art credit in metadata only (t29u, Bovista 154 / Phaeoclavulina 155 precedent). The mark is not proof of authorship; no creator, rights or species identity inferred.",
+    "contours": [
+      {
+        "area": 153552.5,
+        "box": [
+          64,
+          640,
+          589,
+          464
+        ],
+        "medianContrast": 116.44756667088338
+      },
+      {
+        "area": 164396.5,
+        "box": [
+          328,
+          232,
+          528,
+          684
+        ],
+        "medianContrast": 99.50444076841738
+      },
+      {
+        "area": 50360.5,
+        "box": [
+          95,
+          152,
+          233,
+          320
+        ],
+        "medianContrast": 134.71871089968312
+      }
+    ],
+    "backgroundSourceDimensions": [
+      1067,
+      1600
+    ],
+    "backgroundCanvasDimensions": [
+      1600,
+      2400
+    ],
+    "generation": false,
+    "repainting": false,
+    "stretching": false,
+    "sourcePaperRemoved": true,
+    "visualReview": "SEE art_visual_review in art_provenance (set after full-size inspection)",
+    "requestedCredit": "Gemini",
+    "creditUse": "Owner t29u \"signature Gemini\": plate credit/author \"Gemini\" as metadata only, same as Bovista paludosa (ID 154) and Phaeoclavulina roellinii (ID 155). Existing marks kept exactly as found; no new mark painted. AI-generated art, rights unverified.",
+    "visibleMarks": [
+      "one cursive hand-script \"Gemini\" at bottom right (~x607-698, y1112-1156 in the 896x1200 source; script body plus i-dots)",
+      "no plate number, no imprint line, no other text"
+    ],
+    "provenanceAssessment": {
+      "verdict": "Appears AI-GENERATED (19th-century plate style; cursive \"Gemini\" mark, the name of an image-generating AI model), not a scan of a documented historical plate",
+      "evidence": [
+        "Supplied mark reads \"Gemini\" in a modern cursive font",
+        "File named .png is an 896x1200 JPEG with Exif software Picasa and no source metadata, the same pattern as earlier owner-supplied Gemini art (IDs 140-144, 147-155)",
+        "No plate number, artist, engraver or publisher imprint",
+        "Uniform re-toned paper with synthetic vignette",
+        "A CC BY-SA 2.0 Commons photo of Agaricus bohusii (Flickr 33229461686, Lukas from London) was downloaded to the same Downloads folder 2 minutes earlier; it may have been a reference for the generation, but no derivation is established and none is claimed"
+      ],
+      "anatomyCaveat": "Broadly consistent with published descriptions (coarse brown upturned scales on a paler ground, large double/pendant ring, spindle-shaped tapering stipe, pink then brown free gills), but stylised and drawn as three SEPARATE fruit bodies: the species typically grows in tight caespitose clusters with fused, rooting stipe bases, which the plate does not show; the reddening/browning of cut flesh is not shown. Not a verified scientific illustration.",
+      "rights": "Unverified; owner-supplied, apparently AI-generated; no human author or licence documented"
+    },
+    "alphaPNGSHA256": "5469ca0d9da9bb9a85ebdf0ac127f7fef8afd50f9c7174be38a13bf9fe9a5f82",
+    "maskSHA256": "d8d74e6c99c8c4aeac2c5837a8710c7e35f3a8036caef89cff3772bf1370bab0",
+    "recipeSHA256": "f3767c0070d5d7e61e6288d68ed7f0c39240cb578faae1c0bb53eed87c222822",
+    "officialFiles": [
+      {
+        "path": "media/Agaricus_bohusii@1600.webp",
+        "bytes": 374624,
+        "sha256": "eaec32c6bb73f7ba162a8289b724bc2800080d03e5b1512ace7eac287b27b737"
+      },
+      {
+        "path": "media/Agaricus_bohusii@400.webp",
+        "bytes": 43588,
+        "sha256": "28507cc131a70e8cb66c7f5c4b4b30029f5803bb4c5df13b6d0eed1bed2bc61f"
+      }
+    ]
+  }
+},
+{
+  "name": "Suillus collinitus",
+  "author": "(Fr.) Kuntze",
+  "family": "Suillaceae",
+  "genus": "Suillus",
+  "order": "Boletales",
+  "path": [
+    "Fungi",
+    "Dikarya",
+    "Basidiomycota",
+    "Agaricomycotina",
+    "Agaricomycetes",
+    "Agaricomycetidae",
+    "Boletales",
+    "Suillaceae",
+    "Suillus"
+  ],
+  "summary": [
+    "Boletales",
+    "Suillaceae",
+    "Suillus"
+  ],
+  "edibility": "edible",
+  "hymenium": "tubes",
+  "where": [
+    "ground",
+    "grass"
+  ],
+  "color": [
+    "brown",
+    "yellow"
+  ],
+  "capFrom": 4.0,
+  "capTo": 12.0,
+  "stipeHeightFrom": 4.0,
+  "stipeHeightTo": 8.0,
+  "stipeThickFrom": 1.0,
+  "stipeThickTo": 2.5,
+  "label": {
+    "ar": "Suillus collinitus",
+    "bg": "розовокрака масловка",
+    "cs": "klouzek žíhaný",
+    "da": "rosafodet slimrørhat",
+    "de": "Ringloser Butterpilz",
+    "en": "Suillus collinitus",
+    "es": "Suillus collinitus",
+    "et": "roosa tatik",
+    "fa": "Suillus collinitus",
+    "fi": "Suillus collinitus",
+    "fr": "bolet à base rose",
+    "he": "אורנית נימים",
+    "hi": "Suillus collinitus",
+    "hr": "Suillus collinitus",
+    "hu": "rózsástövű fenyőtinóru",
+    "id": "Suillus collinitus",
+    "it": "Suillus collinitus",
+    "ja": "Suillus collinitus",
+    "ko": "Suillus collinitus",
+    "lt": "rausvakotis kazlėkas",
+    "lv": "Suillus collinitus",
+    "nl": "valse melkboleet",
+    "no": "Suillus collinitus",
+    "pl": "maślak rdzawobrązowy",
+    "pt": "Suillus collinitus",
+    "ro": "pitoașcă fără inel",
+    "ru": "маслёнок неокольцованный",
+    "sk": "masliak kopcový",
+    "sl": "brezobročna lupljivka",
+    "sr": "зракасти боричар",
+    "sv": "mörk grynsopp",
+    "tr": "Suillus collinitus",
+    "uk": "Suillus collinitus",
+    "zh": "Suillus collinitus"
+  },
+  "names": {
+    "ar": [],
+    "bg": [],
+    "cs": [],
+    "da": [],
+    "de": [
+      "Ringloser Butter-Röhrling",
+      "Rosafüßiger Körnchen-Röhrling"
+    ],
+    "en": [],
+    "es": [],
+    "et": [],
+    "fa": [],
+    "fi": [],
+    "fr": [
+      "bolet à mycélium rose"
+    ],
+    "he": [],
+    "hi": [],
+    "hr": [],
+    "hu": [],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [],
+    "lv": [],
+    "nl": [],
+    "no": [],
+    "pl": [],
+    "pt": [],
+    "ro": [],
+    "ru": [
+      "маслёнок рыжий"
+    ],
+    "sk": [],
+    "sl": [
+      "brezobročna maslenka"
+    ],
+    "sr": [],
+    "sv": [],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "sources": {
+    "ar": [],
+    "bg": [
+      "https://manatarka.org/suillus-collinitus/",
+      "https://www.catalogueoflife.org/data/taxon/53F3Q"
+    ],
+    "cs": [
+      "https://www.myko.cz/myko-atlas/Suillus-collinitus/",
+      "https://botany.cz/cs/suillus-collinitus/"
+    ],
+    "da": [
+      "https://api.gbif.org/v1/species/9104622/vernacularNames",
+      "https://svampe.databasen.org/taxon/20728"
+    ],
+    "de": [
+      "https://api.gbif.org/v1/species/9104622/vernacularNames",
+      "https://de.wikipedia.org/wiki/Ringloser_Butterpilz"
+    ],
+    "en": [
+      "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=306571",
+      "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=306571",
+      "https://www.gbif.org/species/9104622",
+      "https://www.catalogueoflife.org/data/taxon/53F3Q",
+      "https://www.first-nature.com/fungi/suillus-collinitus.php",
+      "https://www.myko.cz/myko-atlas/Suillus-collinitus/",
+      "https://www.gobe.si/Gobe/SuillusCollinitus",
+      "https://en.wikipedia.org/wiki/Suillus_collinitus",
+      "https://it.wikipedia.org/wiki/Suillus_collinitus",
+      "https://nl.wikipedia.org/wiki/Valse_melkboleet",
+      "https://doi.org/10.1016/j.pedobi.2009.06.003"
+    ],
+    "es": [],
+    "et": [
+      "http://vana.loodusajakiri.ee/eesti_loodus/artikkel2522_2509.html",
+      "https://www.loodusajakiri.ee/tunne-loodust-harilik-kivipuravik-tema-pere-ja-muud-kivipuravikud/"
+    ],
+    "fa": [],
+    "fi": [],
+    "fr": [
+      "https://api.gbif.org/v1/species/9104622/vernacularNames",
+      "https://www.mycodb.fr/fiche.php?genre=Suillus&espece=collinitus",
+      "https://fr.wikipedia.org/wiki/Suillus_collinitus",
+      "https://www.catalogueoflife.org/data/taxon/53F3Q"
+    ],
+    "he": [
+      "https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%A8%D7%A0%D7%99%D7%AA_%D7%A0%D7%99%D7%9E%D7%99%D7%9D"
+    ],
+    "hi": [],
+    "hr": [],
+    "hu": [
+      "https://gombaszaki.hu/wp-content/uploads/2020/02/Gombanevjegyzek_2017.04.26_lm_ml_gsz_nyb.pdf",
+      "https://hu.wikipedia.org/wiki/R%C3%B3zs%C3%A1st%C3%B6v%C5%B1_feny%C5%91tin%C3%B3ru"
+    ],
+    "id": [],
+    "it": [],
+    "ja": [],
+    "ko": [],
+    "lt": [
+      "https://gamtostyrimai.lt/wp-content/uploads/2024/12/2024_Grybu_savadas_web.pdf"
+    ],
+    "lv": [],
+    "nl": [
+      "https://api.gbif.org/v1/species/9104622/vernacularNames",
+      "https://nl.wikipedia.org/wiki/Valse_melkboleet"
+    ],
+    "no": [],
+    "pl": [
+      "https://pl.wikipedia.org/wiki/Ma%C5%9Blak_rdzawobr%C4%85zowy",
+      "https://www.grzyby.pl/gatunki/Suillus_collinitus.htm"
+    ],
+    "pt": [],
+    "ro": [
+      "https://ro.wikipedia.org/wiki/Suillus_collinitus"
+    ],
+    "ru": [
+      "https://toadstool.ru/spisok-rodov/suillus/suillus-collinitus/",
+      "https://tihaya-ohota.ru/basa/basidiomycota/agaricomycetes/boletales/suillaceae/suillus/collinitus.php"
+    ],
+    "sk": [
+      "https://www.nahuby.sk/atlas-hub/Suillus-collinitus/masliak-kopcovy/klouzek-zihany/ID1990",
+      "https://mykospol.sk/wp-content/uploads/2019/04/Spravodajca_c-302004.pdf"
+    ],
+    "sl": [
+      "https://www.gobe-zveza.si/literatura-mzs/",
+      "https://www.gobe.si/Gobe/SuillusCollinitus"
+    ],
+    "sr": [
+      "https://sr.wikipedia.org/wiki/%D0%97%D1%80%D0%B0%D0%BA%D0%B0%D1%81%D1%82%D0%B8_%D0%B1%D0%BE%D1%80%D0%B8%D1%87%D0%B0%D1%80"
+    ],
+    "sv": [
+      "https://api.gbif.org/v1/species/9104622/vernacularNames",
+      "https://laji.fi/taxon/MX.236438"
+    ],
+    "tr": [],
+    "uk": [],
+    "zh": []
+  },
+  "text": {
+    "ar": {
+      "description": "فطر أنبوبي متوسط الحجم ذو قبعة بنية لزجة ومن دون حلقة، ينمو مع أشجار الصنوبر ثنائية الإبر، غالباً في الترب الكلسية وكثيراً في مجموعات كبيرة. يُعرف بالألياف الشعاعية الداكنة في جلد القبعة وبالغزل الفطري الوردي عند قاعدة الساق. وهو شائع حول البحر المتوسط وأندر نحو الشمال.",
+      "cap": "قطرها ٤–١٢ cm، وقد يبلغ استثنائياً ١٨ cm؛ نصف كروية في البداية ثم محدبة إلى مسطحة، وحافتها ملتفة إلى الداخل في الصغر ثم حادة وأحياناً متموجة. بنية محمرة إلى بنية كستنائية أو بنية مصفرة، مع ألياف شعاعية مغروسة أدكن تمنحها مظهراً مخططاً. ملساء ودبقة، ولزجة في الطقس الرطب؛ ويُقشر جلدها بسهولة.",
+      "hymenium": "أنابيب يصل طولها إلى ١ cm، ملتصقة إلى نازلة قليلاً على الساق، صفراء باهتة أولاً ثم صفراء زيتونية وأخيراً بنية زيتونية. المسام صغيرة ومضلعة، بلون الأنابيب نفسه؛ وخلافاً للأنواع المشابهة لا تفرز قطرات حليبية. البازيديات رباعية الأبواغ.",
+      "stipe": "طولها ٤–٨ cm وسمكها ١–٢٫٥ cm، أسطوانية أو مستدقة نحو القاعدة، متماسكة ومصمتة، من دون حلقة. صفراء ليمونية في أعلاها وأكثر سمرة في أسفلها، منقطة بحبيبات تبدأ قطرات صافية إلى كهرمانية ثم تجف نقاطاً بنية محمرة. القاعدة وردية ومغلفة بغزل فطري وردي قد يبهت إلى المبيض في الطقس الجاف.",
+      "flesh": "مبيض إلى أصفر باهت، أصفر ليموني فوق الأنابيب وتحت سطح الساق، ومائل إلى الوردي في قاعدة الساق؛ طري ولا يتغير لونه عند القطع. الرائحة ضعيفة والطعم معتدل أو حامض قليلاً. يصبح رمادياً ليلكياً مع KOH، ورمادياً مع كبريتات الحديد، ومحمراً مع الأمونيا.",
+      "sporePrint": "بني مغرّي إلى بني زيتوني. الأبواغ مغزلية ملساء، صفراء باهتة تحت المجهر، ٨–١٠٫٥ × ٣–٤٫٥ µm.",
+      "habitat": "يكوّن جذوراً فطرية خارجية مع الصنوبر ثنائي الإبر، ولا سيما الصنوبر الحلبي (Pinus halepensis)، وكذلك مع الصنوبر الأسود والصنوبر الثمري والصنوبر الاسكتلندي (Pinus nigra, Pinus pinea, Pinus sylvestris)، وبخاصة في الترب الكلسية. ينمو في غابات الصنوبر ومزارعه وعلى أطراف الغابات وفي الحدائق والأماكن العشبية قرب أشجار الصنوبر، عادةً في مجموعات. وهو محب للحرارة وشائع في منطقة البحر المتوسط، حيث يثمر من أكتوبر إلى فبراير؛ وأبعد شمالاً يكون نادراً وينمو من يوليو إلى نوفمبر. ينتشر في أوروبا كلها، وسُجّل أيضاً في أستراليا وإيران وكولومبيا.",
+      "uses": "صالح للأكل لكنه متوسط القيمة فقط؛ وأفضله الأجسام الثمرية الفتية. يُنزع جلد القبعة اللزج قبل الطهو لأنه يجعل الأطباق لزجة وقد يكون مليناً. يُستعمل في الحساء واليخنات، ويُقلى أو يُخلل أو يُجفف.",
+      "confusion": "أشبه الأنواع به Suillus granulatus: قبعته أفتح وملساء بلا ألياف داكنة، ومسامه الفتية تفرز قطرات بيضاء حليبية، وقاعدة ساقه وغزله الفطري مبيضان. وينمو Suillus luteus أيضاً تحت الصنوبر لكن له حلقة غشائية. أما Suillus mediterraneensis فقبعته أفتح ولحمه أصفر زاهٍ، وSuillus variegatus قبعته أجف وحبيبية لبادية. وينمو Suillus tridentinus في ترب كلسية مماثلة لكن مع الأرزية فقط.",
+      "notes": "هو أكثر شركاء الجذور الفطرية الخارجية شيوعاً للصنوبر الحلبي، وهي شجرة تُزرع على نطاق واسع لمكافحة التعرية في منطقة البحر المتوسط، ويُستخدم لتلقيح الشتلات في التشجير. ويمكن للجذور التي يستعمرها أن تنجو من حرائق متكررة. وخيوطه الفطرية مغطاة ببلورات حمض الأكساليك التي تخفض pH التربة وتقلل رعي ذيليات القفز من نوع Folsomia candida. وتحتوي الأجسام الثمرية على التوكوفيرولات (فيتامين E) ذات النشاط المضاد للأكسدة. وهو مدرج في القائمة الحمراء في هولندا بوصفه مهدداً بالانقراض (Endangered).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "bg": {
+      "description": "Средно голяма гъба с тръбест хименофор, лепкава кафява шапка и без пръстен, която расте с двуиглени борове, най-често на варовити почви и нерядко на големи групи. Разпознава се по тъмните радиални влакна в кожицата на шапката и по розовия мицел в основата на пънчето. Обичайна е около Средиземно море, а на север е по-рядка.",
+      "cap": "Диаметър 4–12 cm, по изключение до 18 cm; отначало полусферична, после изпъкнала до сплескана, с ръб, който при младите гъби е подвит, а по-късно остър и понякога вълнист. Червеникавокафява до кестеновокафява или жълтеникавокафява, с по-тъмни врастнали радиални влакна, които ѝ придават набразден вид. Гладка и лепкава, слузеста във влажно време; кожицата се бели лесно.",
+      "hymenium": "Тръбички дълги до 1 cm, прираснали до леко низбягващи, отначало бледожълти, после маслиненожълти и накрая маслиненокафяви. Порите са малки и ъгловати, със същия цвят като тръбичките; за разлика от сходните видове не отделят млечни капки. Базидиите са четириспорови.",
+      "stipe": "Дълго 4–8 cm и дебело 1–2,5 cm, цилиндрично или стеснено към основата, твърдо и плътно, без пръстен. Горе лимоненожълто, по-надолу по-кафяво, осеяно със зрънца, които започват като бистри до кехлибарени капчици и засъхват в червеникавокафяви точки. Основата е розова и обвита в розов мицел, който при сухо време може да избледнее до белезникав.",
+      "flesh": "Белезникаво до бледожълто, над тръбичките и под повърхността на пънчето лимоненожълто, в основата на пънчето розовеещо; меко и не променя цвета си при разрязване. Мирис слаб, вкус мек или леко кисел. С KOH става лилаво-сиво, с железен сулфат сивкаво, а с амоняк червеникаво.",
+      "sporePrint": "Охровокафяв до маслиненокафяв. Спори вретеновидни, гладки, под микроскоп бледожълти, 8–10,5 × 3–4,5 µm.",
+      "habitat": "Образува ектомикориза с двуиглени борове, особено с алепския бор (Pinus halepensis), а също с черния бор, пинията и белия бор (Pinus nigra, Pinus pinea, Pinus sylvestris), предимно на варовити почви. Расте в борови гори и насаждения, по горски покрайнини, в паркове и тревисти места край борове, обикновено на групи. Топлолюбива е и обичайна в Средиземноморието, където плододава от октомври до февруари; по на север е рядка и расте от юли до ноември. Среща се в цяла Европа и е съобщавана също от Австралия, Иран и Колумбия.",
+      "uses": "Ядлива, но се цени само умерено; най-добри са младите плодни тела. Лепкавата кожица на шапката се отстранява преди готвене, защото прави ястията слузести и може да има слабително действие. Използва се в супи и яхнии, пържена, маринована или сушена.",
+      "confusion": "Най-много прилича на Suillus granulatus: неговата шапка е по-светла и гладка, без тъмни влакна, младите му пори отделят млечнобели капки, а основата на пънчето и мицелът са белезникави. Suillus luteus също расте под борове, но има ципест пръстен. Suillus mediterraneensis има по-светла шапка и яркожълто месо, а Suillus variegatus има по-суха, зърнесто-плъстеста шапка. Suillus tridentinus расте на сходни варовити почви, но само с лиственица.",
+      "notes": "Тя е най-честият ектомикоризен партньор на алепския бор — дърво, широко засаждано срещу ерозия в Средиземноморието, и се използва за инокулиране на фиданки при залесяване. Колонизираните от нея корени могат да оцелеят при повтарящи се пожари. Хифите ѝ са покрити с кристали на оксалова киселина, които понижават pH на почвата и намаляват изяждането ѝ от колембола Folsomia candida. Плодните тела съдържат токофероли (витамин E) с антиоксидантно действие. В Нидерландия е включена в Червения списък като застрашена (Endangered).",
+      "names": [],
+      "sourceUrls": [
+        "https://manatarka.org/suillus-collinitus/",
+        "https://www.catalogueoflife.org/data/taxon/53F3Q"
+      ],
+      "label": "розовокрака масловка"
+    },
+    "cs": {
+      "description": "Středně velký hřibovitý druh se slizkým hnědým kloboukem a bez prstenu, který roste s dvoujehličnatými borovicemi, většinou na vápnitých půdách a často ve velkých skupinách. Poznáme ho podle tmavých paprsčitých vláken v pokožce klobouku a růžového mycelia na bázi třeně. Hojný je kolem Středozemního moře, směrem na sever je vzácnější.",
+      "cap": "4–12 cm široký, výjimečně až 18 cm; zprvu polokulovitý, pak klenutý až plochý, s okrajem, který je v mládí podvinutý a později ostrý a někdy zvlněný. Červenohnědý až kaštanově nebo žlutohnědý, s tmavšími vrostlými paprsčitými vlákny, která mu dávají žíhaný vzhled. Hladký a lepkavý, za vlhka slizký; pokožka se snadno slupuje.",
+      "hymenium": "Rourky až 1 cm dlouhé, přirostlé až mírně sbíhavé, zprvu bledě žluté, pak olivově žluté a nakonec olivově hnědé. Póry malé a hranaté, stejné barvy jako rourky; na rozdíl od podobných druhů nevylučují mléčné kapky. Basidie čtyřvýtrusé.",
+      "stipe": "4–8 cm dlouhý a 1–2,5 cm tlustý, válcovitý nebo k bázi zúžený, pevný a plný, bez prstenu. Nahoře citronově žlutý, níže hnědší, posetý zrnky, která vznikají jako čiré až jantarové kapky a zasychají na červenohnědé tečky. Báze je růžová a obalená růžovým myceliem, které za sucha může vyblednout do bělava.",
+      "flesh": "Bělavá až bledě žlutá, nad rourkami a pod povrchem třeně citronově žlutá, v bázi třeně narůžovělá; měkká a na řezu nemění barvu. Vůně slabá, chuť mírná nebo slabě nakyslá. S KOH se barví lilákově šedě, se síranem železnatým šedavě a s amoniakem načervenale.",
+      "sporePrint": "Okrově hnědý až olivově hnědý. Výtrusy vřetenovité, hladké, pod mikroskopem bledě žluté, 8–10,5 × 3–4,5 µm.",
+      "habitat": "Ektomykorhizní s dvoujehličnatými borovicemi, zejména s borovicí halepskou (Pinus halepensis), a také s borovicí černou, pinií a lesní (Pinus nigra, Pinus pinea, Pinus sylvestris), hlavně na vápnitých půdách. Roste v borových lesích a výsadbách, na okrajích lesů a v parcích a travnatých místech u borovic, obvykle ve skupinách. Je teplomilný a v oblasti Středomoří hojný, kde plodnice tvoří od října do února; severněji je vzácný a roste od července do listopadu. Vyskytuje se v celé Evropě a uvádí se také z Austrálie, Íránu a Kolumbie.",
+      "uses": "Jedlý, ale ceněný jen průměrně; nejlepší jsou mladé plodnice. Slizkou pokožku klobouku před vařením sloupněte, protože jídlo zaslizuje a může působit projímavě. Používá se do polévek a dušených jídel, smažený, nakládaný nebo sušený.",
+      "confusion": "Nejpodobnější je Suillus granulatus: má světlejší a hladký klobouk bez tmavých vláken, jeho mladé póry vylučují mléčně bílé kapky a báze třeně i mycelium jsou bělavé. Suillus luteus roste také pod borovicemi, ale má blanitý prsten. Suillus mediterraneensis má světlejší klobouk a jasně žlutou dužninu a Suillus variegatus má sušší, zrnitě plstnatý klobouk. Suillus tridentinus roste na podobných vápnitých půdách, ale jen s modřínem.",
+      "notes": "Je nejčastějším ektomykorhizním partnerem borovice halepské, dřeviny hojně vysazované proti erozi ve Středomoří, a používá se k očkování sazenic při zalesňování. Kořeny osídlené touto houbou dokážou přežít opakované požáry. Její hyfy pokrývají krystaly kyseliny šťavelové, které snižují pH půdy a omezují okus chvostoskokem Folsomia candida. Plodnice obsahují tokoferoly (vitamin E) s antioxidační aktivitou. V Nizozemsku je v červeném seznamu veden jako ohrožený (Endangered).",
+      "names": [],
+      "sourceUrls": [
+        "https://www.myko.cz/myko-atlas/Suillus-collinitus/",
+        "https://botany.cz/cs/suillus-collinitus/"
+      ],
+      "label": "klouzek žíhaný"
+    },
+    "da": {
+      "description": "En mellemstor rørhat med slimet brun hat og uden ring, der vokser sammen med tonålede fyrretræer, mest på kalkholdig jord og ofte i store grupper. Den kendes på de mørke, radiære fibre i hathuden og det lyserøde mycelium ved stokkens basis. Den er almindelig omkring Middelhavet og sjældnere mod nord.",
+      "cap": "4–12 cm bred, undtagelsesvis op til 18 cm; først halvkugleformet, siden hvælvet til udfladet, med en rand, der er indrullet hos unge frugtlegemer og senere skarp og undertiden bølget. Rødbrun til kastanje- eller gulbrun, med mørkere indvoksede radiære fibre, der giver den et stribet udseende. Glat og klæbrig, slimet i vådt vejr; hathuden kan let trækkes af.",
+      "hymenium": "Rør op til 1 cm lange, tilvoksede til let nedløbende, først blegt gule, siden olivengule og til sidst olivenbrune. Porer små og kantede, med samme farve som rørene; i modsætning til lignende arter udskiller de ikke mælkehvide dråber. Basidier firesporede.",
+      "stipe": "4–8 cm lang og 1–2,5 cm tyk, cylindrisk eller tilspidset mod basis, fast og fyldt, uden ring. Citrongul foroven og mere brunlig nedadtil, besat med korn, der begynder som klare til ravgule dråber og tørrer ind til rødbrune prikker. Basis er lyserød og omgivet af lyserødt mycelium, som kan blegne til hvidligt i tørt vejr.",
+      "flesh": "Hvidlig til blegt gul, citrongul over rørene og under stokkens overflade, rosa i stokkens basis; blødt og uden farveændring ved snit. Lugt svag, smag mild eller let syrlig. Det bliver lilla-gråt med KOH, gråligt med jernsulfat og rødligt med ammoniak.",
+      "sporePrint": "Okkerbrunt til olivenbrunt. Sporer spindelformede, glatte, blegt gule i mikroskop, 8–10,5 × 3–4,5 µm.",
+      "habitat": "Ektomykorrhiza med tonålede fyrretræer, især aleppofyr (Pinus halepensis), og også med østrigsk fyr, pinje og skovfyr (Pinus nigra, Pinus pinea, Pinus sylvestris), mest på kalkholdig jord. Den vokser i fyrreskove og -plantager, i skovbryn og i parker og på græsklædte steder nær fyrretræer, som regel i grupper. Den er varmeelskende og almindelig i Middelhavsområdet, hvor den frugter fra oktober til februar; længere mod nord er den sjælden og frugter fra juli til november. Den findes i hele Europa og er også meldt fra Australien, Iran og Colombia.",
+      "uses": "Spiselig, men kun moderat værdsat; unge frugtlegemer er bedst. Træk den slimede hathud af før tilberedning, da den gør retterne slimede og kan virke afførende. Den bruges i supper og gryderetter, stegt, syltet eller tørret.",
+      "confusion": "Suillus granulatus ligner mest: dens hat er lysere og glat, uden mørke fibre, dens unge porer udskiller mælkehvide dråber, og stokkens basis og myceliet er hvidlige. Suillus luteus vokser også under fyr, men har en hindeagtig ring. Suillus mediterraneensis har en lysere hat og klart gult kød, og Suillus variegatus har en tørrere, kornet-filtet hat. Suillus tridentinus vokser på lignende kalkholdig jord, men kun med lærk.",
+      "notes": "Den er den hyppigste ektomykorrhizapartner for aleppofyr, et træ der plantes meget mod erosion i Middelhavsområdet, og den bruges til at pode kimplanter ved skovrejsning. Rødder, den har koloniseret, kan overleve gentagne brande. Dens hyfer er dækket af oxalsyrekrystaller, som sænker jordens pH og mindsker græsning fra springhalen Folsomia candida. Frugtlegemerne indeholder tocopheroler (vitamin E) med antioxidant virkning. I Nederlandene står den på rødlisten som moderat truet (Endangered).",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/9104622/vernacularNames",
+        "https://svampe.databasen.org/taxon/20728"
+      ],
+      "label": "rosafodet slimrørhat"
+    },
+    "de": {
+      "description": "Ein mittelgroßer Röhrling mit schmierigem braunem Hut und ohne Ring, der mit zweinadeligen Kiefern wächst, meist auf kalkhaltigen Böden und oft in großen Gruppen. Erkennbar ist er an den dunklen, radialen Fasern in der Huthaut und am rosa Myzel an der Stielbasis. Rund um das Mittelmeer ist er häufig, nach Norden hin seltener.",
+      "cap": "4–12 cm breit, ausnahmsweise bis 18 cm; zuerst halbkugelig, dann gewölbt bis abgeflacht, mit einem Rand, der jung eingerollt und später scharf und manchmal wellig ist. Rotbraun bis kastanien- oder gelbbraun, mit dunkleren, eingewachsenen radialen Fasern, die ihm ein gestreiftes Aussehen geben. Glatt und klebrig, bei Nässe schleimig; die Huthaut lässt sich leicht abziehen.",
+      "hymenium": "Röhren bis 1 cm lang, angewachsen bis leicht herablaufend, zuerst blassgelb, dann olivgelb und schließlich olivbraun. Poren klein und eckig, gleichfarbig mit den Röhren; anders als bei ähnlichen Arten scheiden sie keine milchigen Tröpfchen aus. Basidien viersporig.",
+      "stipe": "4–8 cm lang und 1–2,5 cm dick, zylindrisch oder zur Basis hin verjüngt, fest und voll, ohne Ring. Oben zitronengelb, darunter bräunlicher, mit Körnchen besetzt, die als klare bis bernsteingelbe Tröpfchen beginnen und zu rotbraunen Punkten eintrocknen. Die Basis ist rosa und von rosa Myzel umhüllt, das bei Trockenheit weißlich verblassen kann.",
+      "flesh": "Weißlich bis blassgelb, über den Röhren und unter der Stieloberfläche zitronengelb, in der Stielbasis rosa getönt; weich, an Schnittstellen nicht verfärbend. Geruch schwach, Geschmack mild oder leicht säuerlich. Mit KOH lilagrau, mit Eisensulfat gräulich und mit Ammoniak rötlich.",
+      "sporePrint": "Ockerbraun bis olivbraun. Sporen spindelförmig, glatt, unter dem Mikroskop blassgelb, 8–10,5 × 3–4,5 µm.",
+      "habitat": "Ektomykorrhizapilz zweinadeliger Kiefern, vor allem der Aleppo-Kiefer (Pinus halepensis), daneben der Schwarz-, Pinien- und Waldkiefer (Pinus nigra, Pinus pinea, Pinus sylvestris), überwiegend auf Kalkböden. Er wächst in Kiefernwäldern und -pflanzungen, an Waldrändern sowie in Parks und an grasigen Stellen bei Kiefern, meist gesellig. Er ist wärmeliebend und im Mittelmeerraum häufig, wo er von Oktober bis Februar fruktifiziert; weiter nördlich ist er selten und erscheint von Juli bis November. Er kommt in ganz Europa vor und wurde auch aus Australien, dem Iran und Kolumbien gemeldet.",
+      "uses": "Essbar, aber nur mäßig geschätzt; junge Fruchtkörper sind am besten. Die schleimige Huthaut vor dem Kochen abziehen, da sie Gerichte schleimig macht und abführend wirken kann. Er wird für Suppen und Schmorgerichte verwendet, gebraten, eingelegt oder getrocknet.",
+      "confusion": "Am ähnlichsten ist Suillus granulatus: Sein Hut ist heller und glatt, ohne dunkle Fasern, seine jungen Poren scheiden milchweiße Tröpfchen aus, und Stielbasis und Myzel sind weißlich. Suillus luteus wächst ebenfalls unter Kiefern, hat aber einen häutigen Ring. Suillus mediterraneensis hat einen helleren Hut und leuchtend gelbes Fleisch, Suillus variegatus einen trockeneren, körnig-filzigen Hut. Suillus tridentinus wächst auf ähnlichen Kalkböden, aber nur mit Lärchen.",
+      "notes": "Er ist der häufigste Ektomykorrhizapartner der Aleppo-Kiefer, eines im Mittelmeerraum vielfach gegen Erosion gepflanzten Baumes, und wird zur Beimpfung von Setzlingen bei der Aufforstung eingesetzt. Von ihm besiedelte Wurzeln können wiederholte Brände überstehen. Seine Hyphen sind mit Oxalsäurekristallen überzogen, die den pH-Wert des Bodens senken und den Fraß durch den Springschwanz Folsomia candida verringern. Die Fruchtkörper enthalten Tocopherole (Vitamin E) mit antioxidativer Wirkung. In den Niederlanden steht er auf der Roten Liste als stark gefährdet (Endangered).",
+      "names": [
+        "Ringloser Butter-Röhrling",
+        "Rosafüßiger Körnchen-Röhrling"
+      ],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/9104622/vernacularNames",
+        "https://de.wikipedia.org/wiki/Ringloser_Butterpilz"
+      ],
+      "label": "Ringloser Butterpilz"
+    },
+    "en": {
+      "description": "A medium-sized bolete with a slimy brown cap and no ring that grows with two-needled pines, mostly on limy soils and often in large groups. It is recognised by the dark radial streaks in the cap skin and the pink mycelium at the stipe base. It is common around the Mediterranean and rarer further north.",
+      "cap": "4–12 cm across, exceptionally up to 18 cm; hemispherical at first, then convex to flattened, with a margin that is inrolled when young and later sharp and sometimes wavy. Reddish brown to chestnut or yellowish brown, with darker innate radial fibres that give it a streaked look. Smooth and sticky, slimy in wet weather; the skin peels off easily.",
+      "hymenium": "Tubes up to 1 cm long, adnate to slightly decurrent, pale yellow at first, then olive yellow and finally olive brown. Pores small and angular, the same colour as the tubes; unlike similar species they do not exude milky droplets. Basidia four-spored.",
+      "stipe": "4–8 cm long and 1–2.5 cm thick, cylindrical or narrowing towards the base, firm and solid, without a ring. Lemon yellow at the top and browner below, dotted with granules that begin as clear to amber droplets and dry to reddish-brown dots. The base is pink and wrapped in pink mycelium, which can fade to whitish in dry weather.",
+      "flesh": "Whitish to pale yellow, lemon yellow above the tubes and under the stipe surface, pinkish in the stipe base; soft, and not changing colour when cut. Smell weak, taste mild or slightly sour. It turns lilac-grey with KOH, greyish with iron sulfate and reddish with ammonia.",
+      "sporePrint": "Ochre brown to olive brown. Spores fusiform, smooth, pale yellow under the microscope, 8–10.5 × 3–4.5 µm.",
+      "habitat": "Ectomycorrhizal with two-needled pines, especially Aleppo pine (Pinus halepensis), and also with black, stone and Scots pine (Pinus nigra, Pinus pinea, Pinus sylvestris), mainly on calcareous soils. It grows in pine woods and plantations, along wood edges and in parks and grassy places near pines, usually in groups. It is thermophilic and common in the Mediterranean region, where it fruits from October to February; further north it is rare and fruits from July to November. It occurs throughout Europe and has also been reported from Australia, Iran and Colombia.",
+      "uses": "Edible but only moderately regarded; young fruit bodies are best. Peel off the slimy cap skin before cooking, as it makes dishes slimy and can act as a laxative. It is used in soups and stews, fried, pickled or dried.",
+      "confusion": "Suillus granulatus is the closest lookalike: its cap is paler and smooth, without dark streaks, its young pores exude milky white droplets, and its stipe base and mycelium are whitish. Suillus luteus also grows under pines but has a membranous ring. Suillus mediterraneensis has a paler cap and bright yellow flesh, and Suillus variegatus has a drier, granular-felty cap. Suillus tridentinus grows on similar limy soils but only with larch.",
+      "notes": "It is the commonest ectomycorrhizal partner of Aleppo pine, a tree widely planted against erosion in the Mediterranean, and is used to inoculate seedlings in reforestation. Roots colonised by it can survive repeated fires. Its hyphae are coated with oxalic acid crystals that lower soil pH and reduce grazing by the springtail Folsomia candida. The fruit bodies contain tocopherols (vitamin E) with antioxidant activity. It is red-listed as endangered in the Netherlands.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.speciesfungorum.org/Names/NamesRecord.asp?RecordID=306571",
+        "https://www.speciesfungorum.org/Names/SynSpecies.asp?RecordID=306571",
+        "https://www.gbif.org/species/9104622",
+        "https://www.catalogueoflife.org/data/taxon/53F3Q",
+        "https://www.first-nature.com/fungi/suillus-collinitus.php",
+        "https://www.myko.cz/myko-atlas/Suillus-collinitus/",
+        "https://www.gobe.si/Gobe/SuillusCollinitus",
+        "https://en.wikipedia.org/wiki/Suillus_collinitus",
+        "https://it.wikipedia.org/wiki/Suillus_collinitus",
+        "https://nl.wikipedia.org/wiki/Valse_melkboleet",
+        "https://doi.org/10.1016/j.pedobi.2009.06.003"
+      ]
+    },
+    "es": {
+      "description": "Un boleto de tamaño mediano, con sombrero pardo viscoso y sin anillo, que vive asociado a pinos de dos acículas, sobre todo en suelos calizos y a menudo en grandes grupos. Se reconoce por las fibras radiales oscuras de la cutícula del sombrero y por el micelio rosa en la base del pie. Es común en torno al Mediterráneo y más raro hacia el norte.",
+      "cap": "4–12 cm de diámetro, excepcionalmente hasta 18 cm; primero hemisférico, luego convexo a aplanado, con el margen enrollado en los ejemplares jóvenes y después agudo y a veces ondulado. Pardo rojizo a castaño o pardo amarillento, con fibras radiales innatas más oscuras que le dan un aspecto rayado. Liso y pegajoso, viscoso con tiempo húmedo; la cutícula se separa con facilidad.",
+      "hymenium": "Tubos de hasta 1 cm de largo, adnatos a algo decurrentes, primero amarillo pálido, luego amarillo oliváceo y finalmente pardo oliváceo. Poros pequeños y angulosos, del mismo color que los tubos; a diferencia de especies parecidas, no exudan gotitas lechosas. Basidios tetraspóricos.",
+      "stipe": "4–8 cm de largo y 1–2,5 cm de grosor, cilíndrico o estrechado hacia la base, firme y macizo, sin anillo. Amarillo limón en lo alto y más pardo abajo, salpicado de gránulos que nacen como gotitas transparentes a ambarinas y se secan en puntos pardo rojizos. La base es rosa y está envuelta en micelio rosa, que puede palidecer hasta blanquecino con tiempo seco.",
+      "flesh": "Blanquecina a amarillo pálido, amarillo limón sobre los tubos y bajo la superficie del pie, rosada en la base del pie; blanda e inmutable al corte. Olor débil, sabor suave o ligeramente ácido. Se vuelve gris lila con KOH, grisácea con sulfato de hierro y rojiza con amoníaco.",
+      "sporePrint": "Pardo ocráceo a pardo oliváceo. Esporas fusiformes, lisas, amarillo pálido al microscopio, 8–10,5 × 3–4,5 µm.",
+      "habitat": "Ectomicorrícico con pinos de dos acículas, sobre todo con el pino carrasco (Pinus halepensis), y también con el pino laricio, el pino piñonero y el pino silvestre (Pinus nigra, Pinus pinea, Pinus sylvestris), principalmente en suelos calizos. Crece en pinares y repoblaciones, en lindes de bosque y en parques y lugares herbosos cerca de pinos, normalmente en grupos. Es termófilo y común en la región mediterránea, donde fructifica de octubre a febrero; más al norte es raro y aparece de julio a noviembre. Está presente en toda Europa y también se ha citado en Australia, Irán y Colombia.",
+      "uses": "Comestible, pero solo moderadamente apreciado; los ejemplares jóvenes son los mejores. Conviene retirar la cutícula viscosa del sombrero antes de cocinarlo, porque vuelve viscosos los platos y puede ser laxante. Se usa en sopas y guisos, frito, en conserva o seco.",
+      "confusion": "Suillus granulatus es el más parecido: su sombrero es más claro y liso, sin fibras oscuras, sus poros jóvenes exudan gotitas blanco lechosas, y la base del pie y el micelio son blanquecinos. Suillus luteus también crece bajo pinos, pero tiene un anillo membranoso. Suillus mediterraneensis tiene el sombrero más claro y la carne amarillo vivo, y Suillus variegatus tiene el sombrero más seco, granuloso-afieltrado. Suillus tridentinus crece en suelos calizos parecidos, pero solo con alerce.",
+      "notes": "Es el socio ectomicorrícico más frecuente del pino carrasco, árbol muy plantado contra la erosión en el Mediterráneo, y se emplea para inocular plántulas en repoblaciones. Las raíces que coloniza pueden sobrevivir a incendios repetidos. Sus hifas están recubiertas de cristales de ácido oxálico, que bajan el pH del suelo y reducen el consumo por el colémbolo Folsomia candida. Los cuerpos fructíferos contienen tocoferoles (vitamina E) con actividad antioxidante. En los Países Bajos figura en la lista roja como en peligro (Endangered).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "et": {
+      "description": "Keskmise suurusega torikseen limase pruuni kübara ja rõngata jalaga, mis kasvab koos kaheokkaliste mändidega, enamasti lubjarikkal mullal ja sageli suurte rühmadena. Ta on äratuntav kübaranaha tumedate radiaalsete kiudude ja jala aluse roosa seeneniidistiku järgi. Vahemere ümbruses on ta tavaline, põhja pool haruldasem.",
+      "cap": "Läbimõõt 4–12 cm, erandjuhul kuni 18 cm; algul poolkerajas, hiljem kumer kuni lame, serv noorena sissepoole rullunud, hiljem terav ja mõnikord laineline. Punakaspruun kuni kastanpruun või kollakaspruun, tumedamate kinnikasvanud radiaalsete kiududega, mis annavad talle triibulise ilme. Sile ja kleepuv, niiske ilmaga limane; nahk tõmbub kergesti maha.",
+      "hymenium": "Torukesed kuni 1 cm pikad, kinnikasvanud kuni veidi alanevad, algul helekollased, siis oliivkollased ja lõpuks oliivpruunid. Poorid väikesed ja nurgelised, torukestega sama värvi; erinevalt sarnastest liikidest ei eritu neist piimjaid tilku. Kandud neljaeoselised.",
+      "stipe": "Pikkus 4–8 cm ja jämedus 1–2,5 cm, silindriline või aluse poole ahenev, tugev ja täidisega, rõngata. Ülaosas sidrunkollane, allpool pruunim, kaetud teradega, mis tekivad selgete kuni merevaigukollaste tilkadena ja kuivavad punakaspruunideks täppideks. Alus on roosa ja ümbritsetud roosa seeneniidistikuga, mis võib kuiva ilmaga kahvatuda valkjaks.",
+      "flesh": "Valkjas kuni helekollane, torukeste kohal ja jala pinna all sidrunkollane, jala aluses roosakas; pehme ja lõikamisel värvi ei muuda. Lõhn nõrk, maitse mahe või kergelt hapukas. KOH-ga muutub lillakashalliks, raudsulfaadiga hallikaks ja ammoniaagiga punakaks.",
+      "sporePrint": "Ookerpruun kuni oliivpruun. Eosed käävjad, siledad, mikroskoobis helekollased, 8–10,5 × 3–4,5 µm.",
+      "habitat": "Moodustab ektomükoriisat kaheokkaliste mändidega, eriti Aleppo männiga (Pinus halepensis), samuti musta männi, piinia ja hariliku männiga (Pinus nigra, Pinus pinea, Pinus sylvestris), peamiselt lubjarikkal mullal. Kasvab männimetsades ja -istandikes, metsaservadel ning parkides ja rohustunud kohtades mändide lähedal, tavaliselt rühmiti. Ta on soojalembene ja Vahemere piirkonnas tavaline, kus viljub oktoobrist veebruarini; põhja pool on ta haruldane ja kasvab juulist novembrini. Ta esineb kogu Euroopas ning teda on teatatud ka Austraaliast, Iraanist ja Colombiast.",
+      "uses": "Söödav, kuid hinnatud vaid mõõdukalt; parimad on noored viljakehad. Koori limane kübaranahk enne valmistamist, sest see muudab toidu limaseks ja võib mõjuda lahtistavalt. Teda kasutatakse suppides ja hautistes, praetuna, marineerituna või kuivatatuna.",
+      "confusion": "Kõige sarnasem on Suillus granulatus: selle kübar on heledam ja sile, tumedate kiududeta, noored poorid eritavad piimvalgeid tilku ning jala alus ja seeneniidistik on valkjad. Suillus luteus kasvab samuti mändide all, kuid tal on kilejas rõngas. Suillus mediterraneensis on heledama kübara ja erekollase viljalihaga ning Suillus variegatus kuivema, teralis-viltja kübaraga. Suillus tridentinus kasvab sarnasel lubjarikkal mullal, kuid ainult koos lehisega.",
+      "notes": "Ta on Aleppo männi kõige sagedasem ektomükoriisapartner; seda puud istutatakse Vahemere piirkonnas laialdaselt erosiooni vastu ning seenega nakatatakse metsauuendusel istikuid. Tema asustatud juured võivad üle elada korduvaid põlenguid. Tema seeneniidid on kaetud oblikhappe kristallidega, mis alandavad mulla pH-d ja vähendavad hooghännalise Folsomia candida toitumist. Viljakehad sisaldavad antioksüdantse toimega tokoferoole (vitamiin E). Madalmaades on ta punases nimestikus ohustatud liigina (Endangered). Eestis kasvab ta väga harva.",
+      "names": [],
+      "sourceUrls": [
+        "http://vana.loodusajakiri.ee/eesti_loodus/artikkel2522_2509.html",
+        "https://www.loodusajakiri.ee/tunne-loodust-harilik-kivipuravik-tema-pere-ja-muud-kivipuravikud/"
+      ],
+      "label": "roosa tatik"
+    },
+    "fa": {
+      "description": "قارچی لوله‌دار با اندازهٔ متوسط، کلاهک قهوه‌ای لزج و بدون حلقه که با کاج‌های دوسوزنی می‌روید، بیشتر در خاک‌های آهکی و اغلب در گروه‌های بزرگ. آن را از روی رشته‌های شعاعی تیره در پوست کلاهک و میسلیوم صورتی در پای ساقه می‌شناسند. در پیرامون دریای مدیترانه فراوان است و به سوی شمال کمیاب‌تر می‌شود.",
+      "cap": "قطر ۴–۱۲ cm و به‌طور استثنایی تا ۱۸ cm؛ نخست نیم‌کره‌ای، سپس محدب تا تخت، با لبه‌ای که در جوانی به درون پیچیده و بعد تیز و گاهی موج‌دار است. قهوه‌ای مایل به قرمز تا قهوه‌ای بلوطی یا قهوه‌ای مایل به زرد، با رشته‌های شعاعی فرورفتهٔ تیره‌تر که ظاهری راه‌راه به آن می‌دهند. صاف و چسبناک، در هوای مرطوب لزج؛ پوست آن به‌آسانی کنده می‌شود.",
+      "hymenium": "لوله‌ها تا ۱ cm بلند، چسبیده تا کمی پایین‌رونده، نخست زرد کم‌رنگ، سپس زرد زیتونی و سرانجام قهوه‌ای زیتونی. منافذ کوچک و زاویه‌دار، هم‌رنگ لوله‌ها؛ برخلاف گونه‌های مشابه، قطره‌های شیری ترشح نمی‌کنند. بازیدیوم‌ها چهارهاگی‌اند.",
+      "stipe": "طول ۴–۸ cm و ضخامت ۱–۲٫۵ cm، استوانه‌ای یا به سوی پایه باریک‌شونده، سفت و توپر، بدون حلقه. در بالا زرد لیمویی و پایین‌تر قهوه‌ای‌تر، پوشیده از دانه‌هایی که نخست قطره‌های شفاف تا کهربایی‌اند و با خشک شدن به نقطه‌های قهوه‌ای مایل به قرمز تبدیل می‌شوند. پایه صورتی است و در میسلیوم صورتی پیچیده شده که در هوای خشک ممکن است تا سفیدفام رنگ ببازد.",
+      "flesh": "سفیدفام تا زرد کم‌رنگ، بالای لوله‌ها و زیر سطح ساقه زرد لیمویی، در پایهٔ ساقه صورتی‌فام؛ نرم و در برش تغییر رنگ نمی‌دهد. بو ضعیف، مزه ملایم یا کمی ترش. با KOH خاکستری یاسی، با سولفات آهن خاکستری‌فام و با آمونیاک مایل به قرمز می‌شود.",
+      "sporePrint": "قهوه‌ای اُخرایی تا قهوه‌ای زیتونی. هاگ‌ها دوکی‌شکل، صاف، زیر میکروسکوپ زرد کم‌رنگ، ۸–۱۰٫۵ × ۳–۴٫۵ µm.",
+      "habitat": "با کاج‌های دوسوزنی، به‌ویژه کاج حلب (Pinus halepensis)، و نیز با کاج سیاه، کاج چتری و کاج جنگلی (Pinus nigra, Pinus pinea, Pinus sylvestris) میکوریز بیرونی می‌سازد، بیشتر در خاک‌های آهکی. در جنگل‌ها و کشتزارهای کاج، در حاشیهٔ جنگل‌ها و در پارک‌ها و جاهای چمن‌زار نزدیک کاج‌ها، معمولاً به‌صورت گروهی می‌روید. گرمادوست است و در منطقهٔ مدیترانه فراوان است و در آنجا از اکتبر تا فوریه میوه می‌دهد؛ در شمال‌تر کمیاب است و از ژوئیه تا نوامبر می‌روید. در سراسر اروپا یافت می‌شود و از استرالیا، ایران و کلمبیا نیز گزارش شده است.",
+      "uses": "خوراکی است اما فقط ارزش متوسطی دارد؛ اندام‌های بارده جوان بهترین‌اند. پوست لزج کلاهک را پیش از پختن جدا کنید، زیرا غذا را لزج می‌کند و ممکن است ملین باشد. در سوپ و خورش به کار می‌رود، یا سرخ، ترشی یا خشک می‌شود.",
+      "confusion": "بیشترین شباهت را Suillus granulatus دارد: کلاهکش روشن‌تر و صاف و بدون رشته‌های تیره است، منافذ جوانش قطره‌های سفید شیری ترشح می‌کنند و پایهٔ ساقه و میسلیوم آن سفیدفام‌اند. Suillus luteus هم زیر کاج می‌روید اما حلقه‌ای غشایی دارد. Suillus mediterraneensis کلاهکی روشن‌تر و گوشتی زرد روشن دارد و Suillus variegatus کلاهکی خشک‌تر و دانه‌دار ـ نمدی. Suillus tridentinus در خاک‌های آهکی مشابه می‌روید، اما فقط همراه با لاریکس.",
+      "notes": "رایج‌ترین شریک میکوریز بیرونی کاج حلب است؛ درختی که در مدیترانه به‌طور گسترده برای مقابله با فرسایش کاشته می‌شود، و برای مایه‌زنی نهال‌ها در جنگل‌کاری به کار می‌رود. ریشه‌هایی که آن‌ها را کلنی می‌کند می‌توانند از آتش‌سوزی‌های پیاپی جان سالم به در برند. ریسه‌هایش با بلورهای اسید اگزالیک پوشیده‌اند که pH خاک را پایین می‌آورند و چرای پادمان Folsomia candida را کاهش می‌دهند. اندام‌های بارده توکوفرول‌ها (ویتامین E) با فعالیت ضداکسایشی دارند. در هلند در فهرست سرخ به‌عنوان در معرض خطر انقراض (Endangered) ثبت شده است.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fi": {
+      "description": "Keskikokoinen tatti, jolla on limainen ruskea lakki eikä rengasta ja joka kasvaa kaksineulasisten mäntyjen kanssa, useimmiten kalkkipitoisella maalla ja usein suurina ryhminä. Sen tunnistaa lakin pintakalvon tummista säteittäisistä säikeistä ja jalan tyven vaaleanpunaisesta rihmastosta. Välimeren ympäristössä se on yleinen ja pohjoisempana harvinaisempi.",
+      "cap": "Läpimitta 4–12 cm, poikkeuksellisesti jopa 18 cm; aluksi puolipallomainen, sitten kupera tai litistynyt, ja reuna on nuorena sisäänkääntynyt, myöhemmin terävä ja joskus aaltoileva. Punaruskea, kastanjanruskea tai kellanruskea, ja siinä on tummempia sisäänkasvaneita säteittäisiä säikeitä, jotka antavat juovaisen ulkonäön. Sileä ja tahmea, kosteana limainen; pintakalvo irtoaa helposti.",
+      "hymenium": "Pillit enintään 1 cm pitkiä, kiinnittyneitä tai hieman jalalle laskeutuvia, aluksi vaaleankeltaisia, sitten oliivinkeltaisia ja lopulta oliivinruskeita. Huokoset pieniä ja kulmikkaita, pillien värisiä; toisin kuin samankaltaiset lajit, ne eivät eritä maitomaisia pisaroita. Kantaitiöemät neliitiöisiä.",
+      "stipe": "Pituus 4–8 cm ja paksuus 1–2,5 cm, lieriömäinen tai tyveä kohti kapeneva, kiinteä ja täyteinen, ilman rengasta. Yläosasta sitruunankeltainen ja alempana ruskeampi, ja siinä on jyväsiä, jotka syntyvät kirkkaina tai meripihkanvärisinä pisaroina ja kuivuvat punaruskeiksi pilkuiksi. Tyvi on vaaleanpunainen ja vaaleanpunaisen rihmaston peittämä, ja rihmasto voi kuivalla säällä haalistua vaaleaksi.",
+      "flesh": "Valkeahko tai vaaleankeltainen, pillien yläpuolelta ja jalan pinnan alta sitruunankeltainen, jalan tyvestä punertava; pehmeä eikä muuta väriään leikattaessa. Haju heikko, maku mieto tai hieman hapahko. Se muuttuu KOH:lla liilanharmaaksi, rautasulfaatilla harmahtavaksi ja ammoniakilla punertavaksi.",
+      "sporePrint": "Okranruskea tai oliivinruskea. Itiöt sukkulamaisia, sileitä, mikroskoopissa vaaleankeltaisia, 8–10,5 × 3–4,5 µm.",
+      "habitat": "Muodostaa ektomykorritsan kaksineulasisten mäntyjen kanssa, etenkin aleponmännyn (Pinus halepensis), ja myös euroopanmustamännyn, kartiomännyn ja metsämännyn (Pinus nigra, Pinus pinea, Pinus sylvestris) kanssa, pääasiassa kalkkipitoisella maalla. Se kasvaa mäntymetsissä ja -istutuksissa, metsänreunoilla sekä puistoissa ja ruohoisilla paikoilla mäntyjen lähellä, tavallisesti ryhminä. Se on lämpöä suosiva ja yleinen Välimeren alueella, jossa se tekee itiöemiä lokakuusta helmikuuhun; pohjoisempana se on harvinainen ja kasvaa heinäkuusta marraskuuhun. Sitä esiintyy koko Euroopassa, ja se on ilmoitettu myös Australiasta, Iranista ja Kolumbiasta.",
+      "uses": "Syötävä, mutta vain kohtalaisen arvostettu; nuoret itiöemät ovat parhaita. Kuori limainen lakin pintakalvo ennen kypsentämistä, koska se tekee ruoasta limaisen ja voi toimia ulostavasti. Sitä käytetään keittoihin ja muhennoksiin, paistettuna, säilöttynä tai kuivattuna.",
+      "confusion": "Suillus granulatus muistuttaa sitä eniten: sen lakki on vaaleampi ja sileä ilman tummia säikeitä, sen nuoret huokoset erittävät maidonvalkoisia pisaroita, ja jalan tyvi ja rihmasto ovat valkeahkoja. Suillus luteus kasvaa myös mäntyjen alla, mutta sillä on kalvomainen rengas. Suillus mediterraneensis on lakiltaan vaaleampi ja maltoltaan kirkkaankeltainen, ja Suillus variegatus on lakiltaan kuivempi ja jyväsmäisen huopainen. Suillus tridentinus kasvaa samankaltaisilla kalkkimailla, mutta vain lehtikuusen kanssa.",
+      "notes": "Se on aleponmännyn yleisin ektomykorritsakumppani; puuta istutetaan Välimeren alueella laajalti eroosiota vastaan, ja sienellä ympätään taimia metsityksessä. Sen kolonisoimat juuret voivat selvitä toistuvista paloista. Sen sienirihmat ovat oksaalihappokiteiden peittämiä, mikä alentaa maan pH:ta ja vähentää hyppyhäntäisen Folsomia candida aiheuttamaa syöntiä. Itiöemät sisältävät tokoferoleja (E-vitamiini), joilla on antioksidanttivaikutusta. Alankomaissa se on punaisella listalla luokiteltu erittäin uhanalaiseksi (Endangered).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "fr": {
+      "description": "Un bolet de taille moyenne au chapeau brun visqueux et sans anneau, qui pousse avec les pins à deux aiguilles, surtout sur sol calcaire et souvent en grandes troupes. On le reconnaît aux fibrilles radiales sombres de la cuticule et au mycélium rose à la base du pied. Il est commun autour de la Méditerranée et plus rare vers le nord.",
+      "cap": "4–12 cm de diamètre, exceptionnellement jusqu'à 18 cm ; d'abord hémisphérique, puis convexe à aplani, la marge enroulée dans la jeunesse, ensuite aiguë et parfois ondulée. Brun rougeâtre à brun châtain ou brun jaunâtre, avec des fibrilles radiales innées plus sombres qui lui donnent un aspect vergeté. Lisse et collant, visqueux par temps humide ; la cuticule se pèle facilement.",
+      "hymenium": "Tubes longs de 1 cm au plus, adnés à légèrement décurrents, d'abord jaune pâle, puis jaune olive et enfin brun olive. Pores petits et anguleux, de la couleur des tubes ; contrairement aux espèces voisines, ils n'exsudent pas de gouttelettes laiteuses. Basides tétrasporiques.",
+      "stipe": "4–8 cm de long et 1–2,5 cm d'épaisseur, cylindrique ou atténué vers la base, ferme et plein, sans anneau. Jaune citron au sommet et plus brun vers le bas, ponctué de granulations qui naissent sous forme de gouttelettes claires à ambrées et sèchent en points brun rougeâtre. La base est rose et enveloppée d'un mycélium rose, qui peut pâlir jusqu'au blanchâtre par temps sec.",
+      "flesh": "Blanchâtre à jaune pâle, jaune citron au-dessus des tubes et sous la surface du pied, rosâtre à la base du pied ; molle et immuable à la coupe. Odeur faible, saveur douce ou légèrement acidulée. Elle devient gris lilas avec KOH, grisâtre avec le sulfate de fer et rougeâtre avec l'ammoniaque.",
+      "sporePrint": "Brun ocre à brun olive. Spores fusiformes, lisses, jaune pâle au microscope, 8–10,5 × 3–4,5 µm.",
+      "habitat": "Ectomycorhizien des pins à deux aiguilles, surtout du pin d'Alep (Pinus halepensis), mais aussi du pin noir, du pin parasol et du pin sylvestre (Pinus nigra, Pinus pinea, Pinus sylvestris), principalement sur sol calcaire. Il pousse dans les pinèdes et les plantations, en lisière de bois, ainsi que dans les parcs et les endroits herbeux près des pins, généralement en troupes. Thermophile, il est commun dans la région méditerranéenne, où il fructifie d'octobre à février ; plus au nord, il est rare et apparaît de juillet à novembre. Il est présent dans toute l'Europe et a aussi été signalé en Australie, en Iran et en Colombie.",
+      "uses": "Comestible, mais d'intérêt moyen ; les jeunes sporophores sont les meilleurs. Retirez la cuticule visqueuse avant la cuisson, car elle rend les plats gluants et peut être laxative. On l'utilise dans les soupes et les ragoûts, poêlé, conservé au vinaigre ou séché.",
+      "confusion": "Suillus granulatus est le plus ressemblant : son chapeau est plus pâle et lisse, sans fibrilles sombres, ses jeunes pores exsudent des gouttelettes blanc laiteux, et la base du pied comme le mycélium sont blanchâtres. Suillus luteus pousse aussi sous les pins, mais porte un anneau membraneux. Suillus mediterraneensis a un chapeau plus pâle et une chair jaune vif, et Suillus variegatus un chapeau plus sec, granuleux-feutré. Suillus tridentinus pousse sur des sols calcaires semblables, mais uniquement avec le mélèze.",
+      "notes": "C'est le partenaire ectomycorhizien le plus fréquent du pin d'Alep, arbre très planté contre l'érosion en Méditerranée, et il sert à inoculer les plants lors des reboisements. Les racines qu'il colonise peuvent survivre à des incendies répétés. Ses hyphes sont couvertes de cristaux d'acide oxalique qui abaissent le pH du sol et réduisent le broutage par le collembole Folsomia candida. Les sporophores contiennent des tocophérols (vitamine E) à activité antioxydante. Aux Pays-Bas, il figure sur la liste rouge comme espèce en danger (Endangered).",
+      "names": [
+        "bolet à mycélium rose"
+      ],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/9104622/vernacularNames",
+        "https://www.mycodb.fr/fiche.php?genre=Suillus&espece=collinitus",
+        "https://fr.wikipedia.org/wiki/Suillus_collinitus",
+        "https://www.catalogueoflife.org/data/taxon/53F3Q"
+      ],
+      "label": "bolet à base rose"
+    },
+    "he": {
+      "description": "בוליטית בינונית בגודלה בעלת כובע חום ודביק וללא טבעת, הגדלה עם אורנים דו־מחטיים, בעיקר בקרקעות גירניות ולעיתים קרובות בקבוצות גדולות. אפשר לזהות אותה לפי הסיבים הרדיאליים הכהים בעור הכובע ולפי התפטיר הוורוד בבסיס הרגל. היא נפוצה סביב הים התיכון ונדירה יותר צפונה.",
+      "cap": "קוטר 4–12 cm, ובאופן חריג עד 18 cm; בתחילה חצי־כדורי, אחר כך קמור עד שטוח, ושוליו מגולגלים פנימה בצעירות ובהמשך חדים ולעיתים גליים. חום־אדמדם עד חום ערמוני או חום־צהבהב, עם סיבים רדיאליים כהים יותר הצמודים לעור ומקנים לו מראה מפוספס. חלק ודביק, רירי במזג אוויר לח; העור מתקלף בקלות.",
+      "hymenium": "צינורות באורך של עד 1 cm, צמודים עד גולשים מעט לרגל, בתחילה צהובים־חיוורים, אחר כך צהובים־זיתיים ולבסוף חומים־זיתיים. הנקבים קטנים ומצולעים, בצבע הצינורות; בשונה ממינים דומים הם אינם מפרישים טיפות חלביות. הבסידיות ארבע־נבגיות.",
+      "stipe": "אורכה 4–8 cm ועוביה 1–2.5 cm, גלילית או מצטרת לעבר הבסיס, מוצקה ומלאה, ללא טבעת. בחלקה העליון צהובה כלימון ולמטה חומה יותר, מנוקדת בגרגירים שמתחילים כטיפות שקופות עד ענבריות ומתייבשים לנקודות חומות־אדמדמות. הבסיס ורוד ועטוף בתפטיר ורוד, שעלול לדהות ללבנבן במזג אוויר יבש.",
+      "flesh": "לבנבן עד צהוב־חיוור, צהוב לימוני מעל הצינורות ומתחת לפני הרגל, ורדרד בבסיס הרגל; רך ואינו משנה צבע בחיתוך. ריח חלש, טעם עדין או חמצמץ מעט. עם KOH הוא נצבע אפור־לילך, עם ברזל גופרתי אפרפר ועם אמוניה אדמדם.",
+      "sporePrint": "חום־אוקר עד חום־זיתי. נבגים דמויי כישור, חלקים, צהובים־חיוורים במיקרוסקופ, 8–10.5 × 3–4.5 µm.",
+      "habitat": "יוצרת מיקוריזה חיצונית עם אורנים דו־מחטיים, בעיקר עם אורן ירושלים (Pinus halepensis), וגם עם אורן שחור, אורן הצנובר ואורן הבנה (Pinus nigra, Pinus pinea, Pinus sylvestris), בעיקר בקרקעות גירניות. גדלה ביערות אורנים ובנטיעות, בשולי יער, בפארקים ובמקומות עשבוניים ליד אורנים, בדרך כלל בקבוצות. היא אוהבת חום ונפוצה באזור הים התיכון, שם היא מניבה מאוקטובר עד פברואר; צפונה יותר היא נדירה וגדלה מיולי עד נובמבר. היא מצויה בכל אירופה ודווחה גם מאוסטרליה, מאיראן ומקולומביה.",
+      "uses": "פטריית מאכל, אך הערכתה בינונית בלבד; הפרטים הצעירים הם הטובים ביותר. יש לקלף את עור הכובע הרירי לפני הבישול, כי הוא הופך את המאכל לרירי ועלול לפעול כמשלשל. משתמשים בה במרקים ובתבשילים, מטוגנת, כבושה או מיובשת.",
+      "confusion": "הדומה לה ביותר היא Suillus granulatus: כובעה בהיר וחלק יותר, ללא סיבים כהים, נקביה הצעירים מפרישים טיפות לבנות כחלב, ובסיס הרגל והתפטיר לבנבנים. Suillus luteus גדלה אף היא תחת אורנים, אך יש לה טבעת קרומית. ל־Suillus mediterraneensis כובע בהיר יותר ובשר צהוב עז, ול־Suillus variegatus כובע יבש יותר, גרגירי־לבדי. Suillus tridentinus גדלה בקרקעות גירניות דומות, אך רק עם לגש.",
+      "notes": "היא השותפה המיקוריזית הנפוצה ביותר של אורן ירושלים, עץ הניטע בהרחבה נגד סחף באזור הים התיכון, ומשמשת לחיסון שתילים בייעור. שורשים שהיא מאכלסת מסוגלים לשרוד שריפות חוזרות. תפטיריה מכוסים בגבישי חומצה אוקסלית, המורידים את ה־pH של הקרקע ומפחיתים את הכרסום בידי קפזן הזנב Folsomia candida. גופי הפרי מכילים טוקופרולים (ויטמין E) בעלי פעילות נוגדת חמצון. בהולנד היא רשומה ברשימה האדומה כמין בסכנת הכחדה (Endangered). בישראל היא נפוצה מאוד ומופיעה בדצמבר–ינואר בחורשות אורנים וברושים, ובדצמבר 2024 נבחרה בכנס פטריות הבר לפטרייה הישראלית.",
+      "names": [],
+      "sourceUrls": [
+        "https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%A8%D7%A0%D7%99%D7%AA_%D7%A0%D7%99%D7%9E%D7%99%D7%9D"
+      ],
+      "label": "אורנית נימים"
+    },
+    "hi": {
+      "description": "मध्यम आकार का एक बोलीट कवक, जिसकी टोपी भूरी और चिपचिपी होती है और जिसमें छल्ला नहीं होता; यह दो सुइयों वाले चीड़ों के साथ उगता है, अधिकतर चूनेदार मिट्टी पर और अक्सर बड़े समूहों में। इसे टोपी की त्वचा में गहरे अरीय रेशों और डंठल के आधार पर गुलाबी कवकजाल से पहचाना जाता है। यह भूमध्य सागर के आसपास आम है और उत्तर की ओर दुर्लभ होता जाता है।",
+      "cap": "4–12 cm चौड़ी, अपवादस्वरूप 18 cm तक; पहले अर्धगोलाकार, फिर उत्तल से चपटी, किनारा युवावस्था में भीतर मुड़ा हुआ और बाद में तीखा तथा कभी-कभी लहरदार। लालिमा लिए भूरी से कत्थई भूरी या पीलापन लिए भूरी, गहरे धँसे हुए अरीय रेशों के साथ, जो इसे धारीदार रूप देते हैं। चिकनी और चिपचिपी, गीले मौसम में लसलसी; त्वचा आसानी से छिल जाती है।",
+      "hymenium": "नलिकाएँ 1 cm तक लंबी, डंठल से जुड़ी से लेकर थोड़ी नीचे उतरती हुई, पहले हल्की पीली, फिर जैतूनी पीली और अंत में जैतूनी भूरी। छिद्र छोटे और कोणीय, नलिकाओं के ही रंग के; मिलती-जुलती प्रजातियों के विपरीत ये दूधिया बूँदें नहीं छोड़ते। बेसिडिया चार-बीजाणुक।",
+      "stipe": "4–8 cm लंबा और 1–2.5 cm मोटा, बेलनाकार या आधार की ओर पतला, कड़ा और ठोस, बिना छल्ले का। ऊपर नींबू-पीला और नीचे अधिक भूरा, दानों से भरा, जो पहले पारदर्शी से अंबर रंग की बूँदों के रूप में बनते हैं और सूखकर लालिमा लिए भूरे बिंदु बन जाते हैं। आधार गुलाबी होता है और गुलाबी कवकजाल से ढका रहता है, जो सूखे मौसम में फीका पड़कर सफ़ेद-सा हो सकता है।",
+      "flesh": "सफ़ेद-सा से हल्का पीला, नलिकाओं के ऊपर और डंठल की सतह के नीचे नींबू-पीला, डंठल के आधार में गुलाबी-सा; मुलायम, और काटने पर रंग नहीं बदलता। गंध हल्की, स्वाद मृदु या हल्का खट्टा। KOH से यह बकाइनी-धूसर, आयरन सल्फ़ेट से धूसर-सा और अमोनिया से लालिमा लिए हो जाता है।",
+      "sporePrint": "गेरुआ भूरा से जैतूनी भूरा। बीजाणु तर्कुरूपी, चिकने, सूक्ष्मदर्शी में हल्के पीले, 8–10.5 × 3–4.5 µm।",
+      "habitat": "दो सुइयों वाले चीड़ों के साथ बाह्य कवकमूल बनाता है, विशेषकर अलेप्पो चीड़ (Pinus halepensis) के साथ, और काले चीड़, स्टोन चीड़ तथा स्कॉट्स चीड़ (Pinus nigra, Pinus pinea, Pinus sylvestris) के साथ भी, मुख्यतः चूनेदार मिट्टी पर। यह चीड़ के वनों और बागानों में, वन किनारों पर तथा चीड़ के पास पार्कों और घास वाली जगहों में, आम तौर पर समूहों में उगता है। यह ऊष्मा-प्रिय है और भूमध्यसागरीय क्षेत्र में आम है, जहाँ यह अक्टूबर से फ़रवरी तक फलता है; और उत्तर में यह दुर्लभ है तथा जुलाई से नवंबर तक उगता है। यह पूरे यूरोप में मिलता है और ऑस्ट्रेलिया, ईरान और कोलंबिया से भी दर्ज किया गया है।",
+      "uses": "खाने योग्य, पर केवल सामान्य रूप से सराहा जाता है; युवा फलनकाय सबसे अच्छे होते हैं। पकाने से पहले टोपी की लसलसी त्वचा उतार दें, क्योंकि वह व्यंजन को लसलसा बनाती है और रेचक प्रभाव डाल सकती है। इसे सूप और स्टू में, तलकर, अचार बनाकर या सुखाकर उपयोग किया जाता है।",
+      "confusion": "सबसे अधिक मिलता-जुलता Suillus granulatus है: इसकी टोपी अधिक हल्के रंग की और चिकनी होती है, बिना गहरे रेशों के, इसके युवा छिद्र दूधिया सफ़ेद बूँदें छोड़ते हैं, और डंठल का आधार तथा कवकजाल सफ़ेद-से होते हैं। Suillus luteus भी चीड़ के नीचे उगता है, पर उसमें झिल्लीदार छल्ला होता है। Suillus mediterraneensis की टोपी अधिक हल्की और गूदा चटक पीला होता है, और Suillus variegatus की टोपी अधिक सूखी, दानेदार-नमदेदार होती है। Suillus tridentinus इसी तरह की चूनेदार मिट्टी पर उगता है, पर केवल लार्च के साथ।",
+      "notes": "यह अलेप्पो चीड़ का सबसे आम बाह्य कवकमूल साझेदार है, जो भूमध्यसागरीय क्षेत्र में कटाव रोकने के लिए बड़े पैमाने पर लगाया जाने वाला पेड़ है, और वनरोपण में पौधों के टीकाकरण के लिए इसका उपयोग होता है। इसके द्वारा उपनिवेशित जड़ें बार-बार की आग से बच सकती हैं। इसके कवकतंतु ऑक्सैलिक अम्ल के क्रिस्टलों से ढके रहते हैं, जो मिट्टी का pH घटाते हैं और स्प्रिंगटेल Folsomia candida द्वारा चराई को कम करते हैं। फलनकायों में प्रतिऑक्सीकारक सक्रियता वाले टोकोफ़ेरॉल (विटामिन E) होते हैं। नीदरलैंड्स में यह लाल सूची में संकटग्रस्त (Endangered) के रूप में दर्ज है।",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hr": {
+      "description": "Srednje velika vrganjevka sa sluzavim smeđim klobukom i bez vjenčića, koja raste s dvoigličastim borovima, uglavnom na vapnenastom tlu i često u velikim skupinama. Prepoznaje se po tamnim, radijalnim vlaknima u kožici klobuka i ružičastom miceliju na dnu stručka. Česta je oko Sredozemlja, a prema sjeveru rjeđa.",
+      "cap": "Promjer 4–12 cm, iznimno do 18 cm; isprva polukuglast, zatim izbočen do spljošten, s rubom koji je u mladosti podvijen, a poslije oštar i katkad valovit. Crvenkastosmeđ do kestenjastosmeđ ili žućkastosmeđ, s tamnijim uraslim radijalnim vlaknima koja mu daju prugast izgled. Gladak i ljepljiv, po vlažnom vremenu sluzav; kožica se lako guli.",
+      "hymenium": "Cjevčice do 1 cm duge, prirasle do blago silazne, isprva blijedožute, zatim maslinastožute i na kraju maslinastosmeđe. Pore male i uglaste, iste boje kao cjevčice; za razliku od sličnih vrsta ne izlučuju mliječne kapljice. Bazidije četverosporne.",
+      "stipe": "Dug 4–8 cm i debeo 1–2,5 cm, valjkast ili prema dnu sužen, čvrst i pun, bez vjenčića. Pri vrhu limunastožut, niže smeđi, posut zrncima koja nastaju kao prozirne do jantarne kapljice i suše se u crvenkastosmeđe točkice. Dno je ružičasto i obavijeno ružičastim micelijem, koji po suhom vremenu može izblijedjeti do bjelkastog.",
+      "flesh": "Bjelkasto do blijedožuto, iznad cjevčica i ispod površine stručka limunastožuto, u dnu stručka ružičasto; mekano i na prerezu ne mijenja boju. Miris slab, okus blag ili lagano kiselkast. S KOH postaje lila-sivo, sa željeznim sulfatom sivkasto, a s amonijakom crvenkasto.",
+      "sporePrint": "Okerastosmeđ do maslinastosmeđ. Spore vretenaste, glatke, pod mikroskopom blijedožute, 8–10,5 × 3–4,5 µm.",
+      "habitat": "Ektomikorizna vrsta dvoigličastih borova, osobito alepskog bora (Pinus halepensis), a i crnog bora, pinije i običnog bora (Pinus nigra, Pinus pinea, Pinus sylvestris), uglavnom na vapnenastom tlu. Raste u borovim šumama i nasadima, na rubovima šuma te u parkovima i na travnatim mjestima blizu borova, obično u skupinama. Toploljubna je i česta u sredozemnom području, gdje plodišta stvara od listopada do veljače; sjevernije je rijetka i raste od srpnja do studenoga. Rasprostranjena je po cijeloj Europi, a zabilježena je i u Australiji, Iranu i Kolumbiji.",
+      "uses": "Jestiva, ali tek osrednje cijenjena; najbolja su mlada plodišta. Sluzavu kožicu klobuka prije kuhanja oguliti jer jelo čini sluzavim i može djelovati laksativno. Koristi se za juhe i variva, pržena, ukiseljena ili sušena.",
+      "confusion": "Najsličnija je Suillus granulatus: ima svjetliji i gladak klobuk bez tamnih vlakana, njezine mlade pore izlučuju mliječnobijele kapljice, a dno stručka i micelij su bjelkasti. Suillus luteus također raste pod borovima, ali ima opnasti vjenčić. Suillus mediterraneensis ima svjetliji klobuk i jarko žuto meso, a Suillus variegatus suši, zrnasto-pustenast klobuk. Suillus tridentinus raste na sličnom vapnenastom tlu, ali samo uz ariš.",
+      "notes": "Najčešći je ektomikorizni partner alepskog bora, stabla koje se na Sredozemlju mnogo sadi protiv erozije, i koristi se za cijepljenje sadnica pri pošumljavanju. Korijenje koje naseli može preživjeti ponovljene požare. Njezine hife prekrivaju kristali oksalne kiseline koji snižavaju pH tla i smanjuju ispašu skokuna Folsomia candida. Plodišta sadrže tokoferole (vitamin E) s antioksidativnim djelovanjem. U Nizozemskoj je na crvenom popisu kao ugrožena vrsta (Endangered).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "hu": {
+      "description": "Közepes termetű, nyálkás barna kalapú, gallér nélküli tinóru, amely kéttűs fenyőkkel él együtt, többnyire meszes talajon és gyakran nagy csoportokban. Felismerhető a kalapbőr sötét, sugaras szálairól és a tönk tövének rózsaszín micéliumáról. A Földközi-tenger környékén gyakori, észak felé ritkább.",
+      "cap": "Átmérője 4–12 cm, kivételesen 18 cm-ig; eleinte félgömb alakú, majd domború vagy laposan kiterülő, széle fiatalon begöngyölt, később éles és néha hullámos. Vörösesbarna, gesztenyebarna vagy sárgásbarna, sötétebb, benőtt sugaras szálakkal, amelyektől csíkozottnak tűnik. Sima és ragacsos, nedves időben nyálkás; bőre könnyen lehúzható.",
+      "hymenium": "A csövek legfeljebb 1 cm hosszúak, tönkhöz nőttek vagy kissé lefutók, eleinte halványsárgák, majd olívsárgák, végül olívbarnák. A pórusok kicsik és szögletesek, a csövekkel egyszínűek; a hasonló fajoktól eltérően nem választanak ki tejszerű cseppeket. A bazídiumok négyspórásak.",
+      "stipe": "4–8 cm hosszú és 1–2,5 cm vastag, hengeres vagy a töve felé keskenyedő, kemény és tömött, gallér nélküli. Felül citromsárga, lejjebb barnább, szemcsékkel pettyezett, amelyek átlátszó vagy borostyánsárga cseppekként kezdődnek, és vörösesbarna pontokká száradnak. A töve rózsaszín, és rózsaszín micélium borítja, amely száraz időben fehéresre fakulhat.",
+      "flesh": "Fehéres vagy halványsárga, a csövek fölött és a tönk felszíne alatt citromsárga, a tönk tövében rózsaszínes; puha, vágásra nem színeződik el. Szaga gyenge, íze enyhe vagy kissé savanykás. KOH-val lilásszürkére, vas-szulfáttal szürkésre, ammóniával vörösesre színeződik.",
+      "sporePrint": "Okkerbarna vagy olívbarna. A spórák orsó alakúak, simák, mikroszkóp alatt halványsárgák, 8–10,5 × 3–4,5 µm.",
+      "habitat": "Kéttűs fenyőkkel képez ektomikorrhizát, főként az aleppói fenyővel (Pinus halepensis), valamint a feketefenyővel, a mandulafenyővel és az erdeifenyővel (Pinus nigra, Pinus pinea, Pinus sylvestris), elsősorban meszes talajon. Fenyőerdőkben és -ültetvényekben, erdőszéleken, valamint parkokban és füves helyeken terem fenyők közelében, rendszerint csoportosan. Melegkedvelő, a mediterrán térségben gyakori, ott októbertől februárig terem; északabbra ritka, és júliustól novemberig jelenik meg. Egész Európában előfordul, és jelezték Ausztráliából, Iránból és Kolumbiából is.",
+      "uses": "Ehető, de csak közepesen értékelik; a fiatal termőtestek a legjobbak. A nyálkás kalapbőrt főzés előtt húzzuk le, mert nyálkássá teszi az ételt, és hashajtó hatású lehet. Levesekbe és raguba teszik, sütik, savanyítják vagy szárítják.",
+      "confusion": "Leginkább a Suillus granulatus hasonlít rá: kalapja világosabb és sima, sötét szálak nélkül, fiatal pórusai tejfehér cseppeket választanak ki, tönkje töve és micéliuma fehéres. A Suillus luteus szintén fenyők alatt nő, de hártyás gallérja van. A Suillus mediterraneensis kalapja világosabb, húsa élénksárga, a Suillus variegatus kalapja pedig szárazabb, szemcsés-nemezes. A Suillus tridentinus hasonló meszes talajon nő, de csak vörösfenyővel.",
+      "notes": "Az aleppói fenyő leggyakoribb ektomikorrhizás partnere; ezt a fát a mediterrán térségben széles körben ültetik az erózió ellen, a gombával pedig a csemetéket oltják be az erdősítéskor. Az általa kolonizált gyökerek ismétlődő tüzeket is túlélhetnek. Hifáit oxálsavkristályok borítják, amelyek csökkentik a talaj pH-ját, és mérséklik a Folsomia candida ugróvillás rágását. A termőtestek antioxidáns hatású tokoferolokat (E-vitamin) tartalmaznak. Hollandiában a vörös listán veszélyeztetettként (Endangered) szerepel.",
+      "names": [],
+      "sourceUrls": [
+        "https://gombaszaki.hu/wp-content/uploads/2020/02/Gombanevjegyzek_2017.04.26_lm_ml_gsz_nyb.pdf",
+        "https://hu.wikipedia.org/wiki/R%C3%B3zs%C3%A1st%C3%B6v%C5%B1_feny%C5%91tin%C3%B3ru"
+      ],
+      "label": "rózsástövű fenyőtinóru"
+    },
+    "id": {
+      "description": "Jamur bolete berukuran sedang dengan tudung cokelat berlendir dan tanpa cincin, yang tumbuh bersama pinus berdaun jarum dua, sebagian besar di tanah berkapur dan sering dalam kelompok besar. Jamur ini dikenali dari serat radial gelap pada kulit tudung dan miselium merah muda di pangkal tangkai. Jamur ini umum di sekitar Laut Tengah dan lebih jarang ke arah utara.",
+      "cap": "Lebar 4–12 cm, kadang-kadang hingga 18 cm; mula-mula setengah bulat, lalu cembung hingga mendatar, dengan tepi yang menggulung ke dalam saat muda, kemudian tajam dan terkadang bergelombang. Cokelat kemerahan hingga cokelat kastanye atau cokelat kekuningan, dengan serat radial tertanam yang lebih gelap sehingga tampak bergaris. Halus dan lengket, berlendir saat cuaca basah; kulitnya mudah dikupas.",
+      "hymenium": "Tabung panjangnya hingga 1 cm, melekat hingga sedikit menurun pada tangkai, mula-mula kuning pucat, lalu kuning zaitun dan akhirnya cokelat zaitun. Pori kecil dan bersudut, berwarna sama dengan tabung; berbeda dari spesies serupa, pori tidak mengeluarkan tetesan seperti susu. Basidium berspora empat.",
+      "stipe": "Panjang 4–8 cm dan tebal 1–2,5 cm, silindris atau menyempit ke arah pangkal, padat dan pejal, tanpa cincin. Kuning lemon di bagian atas dan lebih cokelat di bawah, berbintik butiran yang awalnya berupa tetesan bening hingga kuning ambar lalu mengering menjadi titik cokelat kemerahan. Pangkalnya merah muda dan diselubungi miselium merah muda, yang dapat memudar menjadi keputihan saat cuaca kering.",
+      "flesh": "Keputihan hingga kuning pucat, kuning lemon di atas tabung dan di bawah permukaan tangkai, kemerahmudaan di pangkal tangkai; lunak dan tidak berubah warna bila dipotong. Bau lemah, rasa lembut atau agak asam. Berubah abu-abu lila dengan KOH, keabu-abuan dengan besi sulfat, dan kemerahan dengan amonia.",
+      "sporePrint": "Cokelat oker hingga cokelat zaitun. Spora berbentuk gelendong, halus, kuning pucat di bawah mikroskop, 8–10,5 × 3–4,5 µm.",
+      "habitat": "Membentuk ektomikoriza dengan pinus berdaun jarum dua, terutama pinus aleppo (Pinus halepensis), dan juga dengan pinus hitam, pinus payung, dan pinus skotlandia (Pinus nigra, Pinus pinea, Pinus sylvestris), terutama di tanah berkapur. Tumbuh di hutan dan perkebunan pinus, di tepi hutan, serta di taman dan tempat berumput dekat pinus, biasanya berkelompok. Jamur ini menyukai kehangatan dan umum di kawasan Mediterania, tempat ia berbuah dari Oktober hingga Februari; lebih ke utara jamur ini jarang dan tumbuh dari Juli hingga November. Jamur ini terdapat di seluruh Eropa dan juga dilaporkan dari Australia, Iran, dan Kolombia.",
+      "uses": "Dapat dimakan, tetapi hanya cukup dihargai; tubuh buah muda paling baik. Kupas kulit tudung yang berlendir sebelum dimasak, karena kulit itu membuat masakan berlendir dan dapat bersifat pencahar. Jamur ini dipakai dalam sup dan masakan rebus, digoreng, diasinkan, atau dikeringkan.",
+      "confusion": "Suillus granulatus paling mirip: tudungnya lebih pucat dan halus tanpa serat gelap, pori mudanya mengeluarkan tetesan putih susu, dan pangkal tangkai serta miseliumnya keputihan. Suillus luteus juga tumbuh di bawah pinus, tetapi memiliki cincin bermembran. Suillus mediterraneensis bertudung lebih pucat dengan daging kuning cerah, dan Suillus variegatus bertudung lebih kering dan berbutir seperti kempa. Suillus tridentinus tumbuh di tanah berkapur yang serupa, tetapi hanya bersama larch.",
+      "notes": "Jamur ini adalah mitra ektomikoriza paling umum bagi pinus aleppo, pohon yang banyak ditanam untuk mencegah erosi di Mediterania, dan dipakai untuk menginokulasi bibit dalam reboisasi. Akar yang dikolonisasinya dapat bertahan dari kebakaran berulang. Hifanya dilapisi kristal asam oksalat yang menurunkan pH tanah dan mengurangi pemakanan oleh ekor pegas Folsomia candida. Tubuh buahnya mengandung tokoferol (vitamin E) dengan aktivitas antioksidan. Di Belanda jamur ini masuk daftar merah sebagai terancam (Endangered).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "it": {
+      "description": "Un boleto di taglia media, con cappello bruno viscido e senza anello, che vive con i pini a due aghi, per lo più su suoli calcarei e spesso in grandi gruppi. Si riconosce dalle fibrille radiali scure della cuticola del cappello e dal micelio rosa alla base del gambo. È comune attorno al Mediterraneo e più raro verso nord.",
+      "cap": "4–12 cm di diametro, eccezionalmente fino a 18 cm; dapprima emisferico, poi convesso-appianato, con il margine involuto negli esemplari giovani, poi acuto e talvolta ondulato. Bruno rossastro, castano o bruno giallastro, con fibrille radiali innate più scure che gli danno un aspetto striato. Liscio e appiccicoso, viscido con tempo umido; la cuticola si separa facilmente.",
+      "hymenium": "Tubuli lunghi fino a 1 cm, adnati o leggermente decorrenti, dapprima giallo pallido, poi giallo oliva e infine bruno oliva. Pori piccoli e angolosi, dello stesso colore dei tubuli; a differenza di specie simili non emettono goccioline lattiginose. Basidi tetrasporici.",
+      "stipe": "4–8 cm di lunghezza e 1–2,5 cm di spessore, cilindrico o attenuato verso la base, sodo e pieno, senza anello. Giallo limone in alto e più bruno in basso, punteggiato di granulazioni che nascono come goccioline limpide o ambrate e seccando diventano punti bruno rossastri. La base è rosa e avvolta da micelio rosa, che con tempo secco può sbiadire fino al biancastro.",
+      "flesh": "Biancastra o giallo pallido, giallo limone sopra i tubuli e sotto la superficie del gambo, rosata alla base del gambo; molle e immutabile al taglio. Odore debole, sapore dolce o leggermente acidulo. Diventa grigio-lilla con KOH, grigiastra con solfato di ferro e rossastra con ammoniaca.",
+      "sporePrint": "Bruno ocra o bruno oliva. Spore fusiformi, lisce, giallo pallido al microscopio, 8–10,5 × 3–4,5 µm.",
+      "habitat": "Ectomicorrizico con i pini a due aghi, soprattutto il pino d'Aleppo (Pinus halepensis), e anche con pino nero, pino domestico e pino silvestre (Pinus nigra, Pinus pinea, Pinus sylvestris), soprattutto su suoli calcarei. Cresce in pinete e rimboschimenti, ai margini dei boschi e in parchi e luoghi erbosi vicino ai pini, di solito in gruppi. È termofilo e comune nella regione mediterranea, dove fruttifica da ottobre a febbraio; più a nord è raro e compare da luglio a novembre. È presente in tutta Europa ed è stato segnalato anche in Australia, Iran e Colombia.",
+      "uses": "Commestibile, ma solo mediocremente apprezzato; i giovani esemplari sono i migliori. Togliere la cuticola viscida del cappello prima della cottura, perché rende viscidi i piatti e può avere effetto lassativo. Si usa in zuppe e stufati, fritto, sott'aceto o essiccato.",
+      "confusion": "Il più simile è Suillus granulatus: il suo cappello è più chiaro e liscio, senza fibrille scure, i pori giovani emettono goccioline bianco latte, e la base del gambo e il micelio sono biancastri. Anche Suillus luteus cresce sotto i pini, ma ha un anello membranoso. Suillus mediterraneensis ha il cappello più chiaro e la carne giallo vivo, e Suillus variegatus ha il cappello più asciutto, granuloso-feltrato. Suillus tridentinus cresce su suoli calcarei simili, ma solo con il larice.",
+      "notes": "È il partner ectomicorrizico più frequente del pino d'Aleppo, albero molto piantato contro l'erosione nel Mediterraneo, e viene usato per inoculare le piantine nei rimboschimenti. Le radici che colonizza possono sopravvivere a incendi ripetuti. Le sue ife sono rivestite di cristalli di acido ossalico che abbassano il pH del suolo e riducono il pascolo del collembolo Folsomia candida. I corpi fruttiferi contengono tocoferoli (vitamina E) con attività antiossidante. Nei Paesi Bassi è nella lista rossa come specie in pericolo (Endangered).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ja": {
+      "description": "ぬめりのある褐色の傘をもち、つばのない中型のイグチで、二葉松とともに生え、多くは石灰質の土壌に、しばしば大きな群れをなして発生する。傘の表皮にある暗色の放射状の繊維と、柄の基部の桃色の菌糸で見分けられる。地中海沿岸に多く、北へ行くほど少なくなる。",
+      "cap": "径4–12 cm、例外的に18 cmに達する。初め半球形、のち丸山形から平らに開き、縁は若いうち内側に巻き、のち鋭くなり、ときに波打つ。赤褐色から栗褐色または黄褐色で、より暗色の圧着した放射状の繊維があり、条線状に見える。平滑で粘着性があり、湿ると強いぬめりを帯びる。表皮は容易にはがれる。",
+      "hymenium": "管孔は長さ1 cmまで、直生からやや垂生、初め淡黄色、のちオリーブ黄色、最後にオリーブ褐色。孔口は小さく角ばり、管孔と同色。よく似た種と異なり、乳白色の液滴を出さない。担子器は4胞子性。",
+      "stipe": "長さ4–8 cm、太さ1–2.5 cm、円柱形または基部に向かって細まり、硬く中実で、つばはない。頂部はレモン黄色、下方はより褐色を帯び、透明から琥珀色の液滴として生じ乾いて赤褐色の点となる粒点に覆われる。基部は桃色で桃色の菌糸に包まれ、乾燥時には白っぽく色あせることがある。",
+      "flesh": "白っぽいから淡黄色、管孔の上部と柄の表面下はレモン黄色、柄の基部は桃色を帯びる。柔らかく、切っても変色しない。においは弱く、味は温和またはわずかに酸味がある。KOHで灰紫色、硫酸鉄で灰色がかり、アンモニアで赤みを帯びる。",
+      "sporePrint": "黄土褐色からオリーブ褐色。胞子は紡錘形、平滑、顕微鏡下で淡黄色、8–10.5 × 3–4.5 µm。",
+      "habitat": "二葉松と外生菌根を形成し、とくにアレッポマツ（Pinus halepensis）、またヨーロッパクロマツ、イタリアカサマツ、ヨーロッパアカマツ（Pinus nigra, Pinus pinea, Pinus sylvestris）と結びつき、主に石灰質の土壌に生える。マツ林や植林地、林縁、マツの近くの公園や草地に、ふつう群生する。好熱性で地中海地域に多く、そこでは10月から2月に発生する。より北では稀で、7月から11月に発生する。ヨーロッパ全域に分布し、オーストラリア、イラン、コロンビアからも報告されている。",
+      "uses": "食用だが評価は中程度にとどまり、若い子実体がよい。ぬめりのある傘の表皮は料理を粘らせ、緩下作用を示すことがあるため、調理前にむいておく。スープや煮込みに使うほか、炒め物、酢漬け、乾燥品にする。",
+      "confusion": "最もよく似るのはSuillus granulatusで、傘はより淡色で平滑、暗色の繊維がなく、若い孔口から乳白色の液滴を出し、柄の基部と菌糸は白っぽい。Suillus luteusもマツの下に生えるが、膜質のつばがある。Suillus mediterraneensisは傘がより淡色で肉が鮮黄色、Suillus variegatusは傘がより乾いて粒状フェルト状。Suillus tridentinusは同様の石灰質土壌に生えるが、カラマツとだけ結びつく。",
+      "notes": "アレッポマツの最も一般的な外生菌根の相手であり、この木は地中海地域で侵食防止のため広く植えられ、本種は植林の際に苗木へ接種される。本種が定着した根は繰り返す火災を生き延びることができる。菌糸はシュウ酸の結晶に覆われ、これが土壌のpHを下げ、トビムシの一種Folsomia candidaによる食害を減らす。子実体は抗酸化作用をもつトコフェロール（ビタミンE）を含む。オランダではレッドリストに絶滅危惧種（Endangered）として掲載されている。",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ko": {
+      "description": "점액질의 갈색 갓을 지니고 턱받이가 없는 중간 크기의 그물버섯류로, 두 잎 소나무류와 함께 자라며 주로 석회질 토양에서, 흔히 큰 무리를 이루어 발생한다. 갓 표피의 어두운 방사상 섬유와 대 밑동의 분홍색 균사로 알아볼 수 있다. 지중해 주변에서 흔하며 북쪽으로 갈수록 드물다.",
+      "cap": "지름 4–12 cm, 예외적으로 18 cm에 이른다. 처음에는 반구형이다가 둥근 산 모양을 거쳐 편평해지며, 가장자리는 어릴 때 안쪽으로 말리고 나중에는 날카로워지며 때로 물결 모양이 된다. 적갈색에서 밤갈색 또는 황갈색이며, 더 어두운 방사상 섬유가 표피에 박혀 있어 줄무늬처럼 보인다. 매끄럽고 끈적이며 습하면 점액질이 된다. 표피는 쉽게 벗겨진다.",
+      "hymenium": "관공은 길이 1 cm까지이고 대에 붙거나 약간 내려 붙으며, 처음에는 연한 노란색이다가 올리브 노란색을 거쳐 마지막에 올리브 갈색이 된다. 구멍은 작고 각지며 관공과 같은 색이다. 비슷한 종과 달리 젖빛 방울을 내지 않는다. 담자기는 4포자형이다.",
+      "stipe": "길이 4–8 cm, 굵기 1–2.5 cm로 원통형이거나 밑동 쪽으로 가늘어지며, 단단하고 속이 차 있고 턱받이가 없다. 위쪽은 레몬 노란색, 아래쪽은 더 갈색이며, 투명하거나 호박색인 방울로 생겼다가 말라서 적갈색 점이 되는 알갱이로 덮여 있다. 밑동은 분홍색이고 분홍색 균사에 싸여 있으며, 건조할 때는 희끄무레하게 바랠 수 있다.",
+      "flesh": "희끄무레하거나 연한 노란색이고, 관공 위와 대 표면 아래는 레몬 노란색, 대 밑동은 분홍빛을 띤다. 부드럽고 자르면 색이 변하지 않는다. 냄새는 약하고 맛은 순하거나 약간 시큼하다. KOH에 회보라색, 황산철에 회색빛, 암모니아에 붉은빛으로 변한다.",
+      "sporePrint": "황토 갈색에서 올리브 갈색. 포자는 방추형이고 매끄러우며 현미경 아래 연한 노란색, 8–10.5 × 3–4.5 µm이다.",
+      "habitat": "두 잎 소나무류와 외생균근을 이루며, 특히 알레포소나무(Pinus halepensis), 그리고 유럽흑송, 이탈리아돌소나무, 구주소나무(Pinus nigra, Pinus pinea, Pinus sylvestris)와 함께 주로 석회질 토양에서 자란다. 소나무 숲과 조림지, 숲 가장자리, 그리고 소나무 근처의 공원과 풀밭에서 보통 무리 지어 자란다. 고온성이며 지중해 지역에서 흔하고, 그곳에서는 10월부터 2월까지 발생한다. 더 북쪽에서는 드물며 7월부터 11월까지 발생한다. 유럽 전역에 분포하며 오스트레일리아, 이란, 콜롬비아에서도 보고되었다.",
+      "uses": "식용이지만 평가는 보통 정도이며, 어린 자실체가 가장 좋다. 점액질의 갓 표피는 요리를 끈적하게 만들고 설사를 일으킬 수 있으므로 조리 전에 벗겨 낸다. 수프와 스튜에 쓰거나 볶거나 절이거나 말려서 쓴다.",
+      "confusion": "가장 닮은 종은 Suillus granulatus로, 갓이 더 연한 색이고 매끄러우며 어두운 섬유가 없고, 어린 구멍에서 젖빛 흰 방울을 내며, 대 밑동과 균사가 희끄무레하다. Suillus luteus도 소나무 아래에서 자라지만 막질의 턱받이가 있다. Suillus mediterraneensis는 갓이 더 연하고 살이 선명한 노란색이며, Suillus variegatus는 갓이 더 마르고 알갱이 모양의 펠트질이다. Suillus tridentinus는 비슷한 석회질 토양에서 자라지만 낙엽송과만 함께 자란다.",
+      "notes": "알레포소나무의 가장 흔한 외생균근 동반자로, 이 나무는 지중해 지역에서 침식 방지를 위해 널리 심어지며, 이 버섯은 조림 때 묘목에 접종하는 데 쓰인다. 이 버섯이 정착한 뿌리는 반복되는 화재에도 살아남을 수 있다. 균사는 옥살산 결정으로 덮여 있어 토양의 pH를 낮추고 톡토기 Folsomia candida의 섭식을 줄인다. 자실체에는 항산화 활성이 있는 토코페롤(비타민 E)이 들어 있다. 네덜란드에서는 적색목록에 위기종(Endangered)으로 올라 있다.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "lt": {
+      "description": "Vidutinio dydžio baravykinis grybas gleivėta ruda kepurėle ir be žiedo, augantis su dviejų spyglių pušimis, dažniausiai kalkingame dirvožemyje ir dažnai didelėmis grupėmis. Jį galima atpažinti iš tamsių radialių skaidulų kepurėlės odelėje ir rausvos grybienos kotelio pagrinde. Jis dažnas aplink Viduržemio jūrą, o šiauriau retesnis.",
+      "cap": "Skersmuo 4–12 cm, išimtiniais atvejais iki 18 cm; iš pradžių pusrutulio formos, vėliau išgaubta iki plokščios, kraštas jaunų vaisiakūnių užsirietęs, vėliau aštrus ir kartais banguotas. Rausvai ruda iki kaštoninės ar gelsvai rudos, su tamsesnėmis įaugusiomis radialiomis skaidulomis, dėl kurių atrodo dryžuota. Lygi ir lipni, drėgnu oru gleivėta; odelė lengvai nusilupa.",
+      "hymenium": "Vamzdeliai iki 1 cm ilgio, prisitvirtinę iki šiek tiek nusileidžiančių, iš pradžių blyškiai geltoni, vėliau alyvuogiškai geltoni ir galiausiai alyvuogiškai rudi. Poros mažos ir kampuotos, tokios pat spalvos kaip vamzdeliai; kitaip nei panašios rūšys, jos neišskiria pieniškų lašelių. Bazidės ketursporės.",
+      "stipe": "4–8 cm ilgio ir 1–2,5 cm storio, cilindriškas arba į pagrindą siaurėjantis, tvirtas ir pilnaviduris, be žiedo. Viršuje citrinų geltonumo, žemiau rudesnis, nusėtas grūdeliais, kurie atsiranda kaip skaidrūs ar gintariniai lašeliai ir išdžiūsta į rausvai rudus taškelius. Pagrindas rausvas ir apgaubtas rausva grybiena, kuri sausu oru gali išblukti iki balsvos.",
+      "flesh": "Balsva iki blyškiai geltonos, virš vamzdelių ir po kotelio paviršiumi citrinų geltonumo, kotelio pagrinde rausvoka; minkšta ir perpjauta nekeičia spalvos. Kvapas silpnas, skonis švelnus arba šiek tiek rūgštokas. Nuo KOH nusidažo alyviškai pilkai, nuo geležies sulfato pilkšvai, o nuo amoniako rausvai.",
+      "sporePrint": "Ochriškai ruda iki alyvuogiškai rudos. Sporos verpstiškos, lygios, mikroskopu blyškiai geltonos, 8–10,5 × 3–4,5 µm.",
+      "habitat": "Sudaro ektomikorizę su dviejų spyglių pušimis, ypač su Alepo pušimi (Pinus halepensis), taip pat su juodąja, pinija ir paprastąja pušimi (Pinus nigra, Pinus pinea, Pinus sylvestris), daugiausia kalkingame dirvožemyje. Auga pušynuose ir pušų želdiniuose, miško pakraščiuose, parkuose ir žolėtose vietose prie pušų, paprastai grupėmis. Jis šilumamėgis ir dažnas Viduržemio jūros regione, kur vaisiakūnius augina nuo spalio iki vasario; šiauriau jis retas ir auga nuo liepos iki lapkričio. Paplitęs visoje Europoje, taip pat nurodytas Australijoje, Irane ir Kolumbijoje.",
+      "uses": "Valgomas, bet vertinamas tik vidutiniškai; geriausi jauni vaisiakūniai. Prieš gaminant nulupkite gleivėtą kepurėlės odelę, nes ji daro patiekalus gleivėtus ir gali veikti laisvinančiai. Naudojamas sriuboms ir troškiniams, kepamas, marinuojamas arba džiovinamas.",
+      "confusion": "Panašiausias yra Suillus granulatus: jo kepurėlė šviesesnė ir lygi, be tamsių skaidulų, jauno vaisiakūnio poros išskiria pieno baltumo lašelius, o kotelio pagrindas ir grybiena balsvi. Suillus luteus taip pat auga po pušimis, bet turi plėvišką žiedą. Suillus mediterraneensis turi šviesesnę kepurėlę ir ryškiai geltoną minkštimą, o Suillus variegatus – sausesnę, grūdėtai veltinę kepurėlę. Suillus tridentinus auga panašiame kalkingame dirvožemyje, bet tik su maumedžiais.",
+      "notes": "Tai dažniausias Alepo pušies ektomikorizės partneris; šis medis Viduržemio jūros regione plačiai sodinamas nuo erozijos, o grybu užkrečiami sodinukai atkuriant miškus. Jo kolonizuotos šaknys gali išgyventi pasikartojančius gaisrus. Jo hifes dengia oksalo rūgšties kristalai, kurie mažina dirvožemio pH ir riboja šokuolio Folsomia candida mitybą. Vaisiakūniuose yra antioksidacinių savybių turinčių tokoferolių (vitaminas E). Nyderlanduose jis įrašytas į Raudonąjį sąrašą kaip nykstantis (Endangered).",
+      "names": [],
+      "sourceUrls": [
+        "https://gamtostyrimai.lt/wp-content/uploads/2024/12/2024_Grybu_savadas_web.pdf"
+      ],
+      "label": "rausvakotis kazlėkas"
+    },
+    "lv": {
+      "description": "Vidēji liela beka ar gļotainu brūnu cepurīti un bez gredzena, kas aug kopā ar divskuju priedēm, pārsvarā kaļķainā augsnē un bieži lielās grupās. To var atpazīt pēc tumšajām radiālajām šķiedrām cepurītes miziņā un sārtā micēlija kātiņa pamatnē. Tā ir bieža Vidusjūras apkārtnē, bet tālāk uz ziemeļiem retāka.",
+      "cap": "Diametrs 4–12 cm, izņēmuma gadījumos līdz 18 cm; sākumā puslodveida, vēlāk izliekta līdz plakana, ar malu, kas jaunām sēnēm ir ieliekta, vēlāk asa un dažreiz viļņaina. Sarkanbrūna līdz kastaņbrūna vai dzeltenbrūna, ar tumšākām ieaugušām radiālām šķiedrām, kas piešķir svītrainu izskatu. Gluda un lipīga, mitrā laikā gļotaina; miziņa viegli nolobās.",
+      "hymenium": "Stobriņi līdz 1 cm gari, pieauguši līdz nedaudz nolaidīgi, sākumā gaiši dzelteni, tad olīvdzelteni un beigās olīvbrūni. Poras mazas un stūrainas, tādā pašā krāsā kā stobriņi; atšķirībā no līdzīgām sugām tās neizdala pienveidīgus pilienus. Bazīdijas četrsporu.",
+      "stipe": "4–8 cm garš un 1–2,5 cm resns, cilindrisks vai uz pamatni sašaurināts, stingrs un pilns, bez gredzena. Augšdaļā citrondzeltens, lejāk brūnāks, klāts ar graudiņiem, kas sākumā ir dzidri līdz dzintardzelteni pilieni un sakalst sarkanbrūnos punktiņos. Pamatne ir sārta un ietīta sārtā micēlijā, kas sausā laikā var izbalēt līdz bālganam.",
+      "flesh": "Bālgana līdz gaiši dzeltena, virs stobriņiem un zem kātiņa virsmas citrondzeltena, kātiņa pamatnē sārtena; mīksta un griezumā krāsu nemaina. Smarža vāja, garša maiga vai viegli skābena. Ar KOH kļūst lillīgi pelēka, ar dzelzs sulfātu pelēcīga un ar amonjaku sarkanīga.",
+      "sporePrint": "Okerbrūni līdz olīvbrūni. Sporas vārpstveida, gludas, mikroskopā gaiši dzeltenas, 8–10,5 × 3–4,5 µm.",
+      "habitat": "Veido ektomikorizu ar divskuju priedēm, īpaši ar Alepo priedi (Pinus halepensis), kā arī ar melno priedi, pīniju un parasto priedi (Pinus nigra, Pinus pinea, Pinus sylvestris), galvenokārt kaļķainā augsnē. Aug priežu mežos un stādījumos, meža malās, kā arī parkos un zālainās vietās pie priedēm, parasti grupās. Tā ir siltummīloša un bieža Vidusjūras reģionā, kur augļķermeņus veido no oktobra līdz februārim; tālāk uz ziemeļiem tā ir reta un aug no jūlija līdz novembrim. Sastopama visā Eiropā, un ziņots arī par atradnēm Austrālijā, Irānā un Kolumbijā.",
+      "uses": "Ēdama, taču vērtēta tikai vidēji; vislabākās ir jaunas sēnes. Pirms gatavošanas nolobiet gļotaino cepurītes miziņu, jo tā padara ēdienu gļotainu un var darboties caurejoši. To izmanto zupās un sautējumos, cep, marinē vai žāvē.",
+      "confusion": "Vislīdzīgākā ir Suillus granulatus: tās cepurīte ir gaišāka un gluda, bez tumšām šķiedrām, jaunās poras izdala pienbaltus pilienus, bet kātiņa pamatne un micēlijs ir bālgani. Suillus luteus arī aug zem priedēm, bet tai ir plēvains gredzens. Suillus mediterraneensis ir gaišāka cepurīte un spilgti dzeltens mīkstums, bet Suillus variegatus – sausāka, graudaini filcaina cepurīte. Suillus tridentinus aug līdzīgā kaļķainā augsnē, bet tikai kopā ar lapeglēm.",
+      "notes": "Tā ir Alepo priedes biežākā ektomikorizas partnere; šo koku Vidusjūras reģionā plaši stāda pret eroziju, un ar sēni inficē stādus mežu atjaunošanā. Tās kolonizētās saknes var pārdzīvot atkārtotus ugunsgrēkus. Tās hifas klāj skābeņskābes kristāli, kas pazemina augsnes pH un mazina lēcastes Folsomia candida barošanos. Augļķermeņi satur tokoferolus (E vitamīns) ar antioksidantu iedarbību. Nīderlandē tā iekļauta Sarkanajā sarakstā kā apdraudēta (Endangered).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "nl": {
+      "description": "Een middelgrote boleet met een slijmerige bruine hoed en zonder ring, die samenleeft met tweenaaldige dennen, meestal op kalkrijke grond en vaak in grote groepen. Hij is te herkennen aan de donkere radiale vezels in de hoedhuid en het roze mycelium aan de steelvoet. Rond de Middellandse Zee is hij algemeen, verder naar het noorden zeldzamer.",
+      "cap": "4–12 cm breed, uitzonderlijk tot 18 cm; eerst halfbolvormig, dan gewelfd tot afgeplat, met een rand die jong ingerold en later scherp en soms golvend is. Roodbruin tot kastanjebruin of geelbruin, met donkerdere ingegroeide radiale vezels die hem een gestreept uiterlijk geven. Glad en kleverig, bij nat weer slijmerig; de huid is gemakkelijk af te trekken.",
+      "hymenium": "Buisjes tot 1 cm lang, aangehecht tot iets aflopend, eerst bleekgeel, dan olijfgeel en ten slotte olijfbruin. Poriën klein en hoekig, even gekleurd als de buisjes; anders dan bij gelijkende soorten scheiden ze geen melkachtige druppeltjes af. Basidiën viersporig.",
+      "stipe": "4–8 cm lang en 1–2,5 cm dik, cilindrisch of naar de voet toe versmald, stevig en vol, zonder ring. Bovenaan citroengeel en lager bruiner, bezet met korreltjes die beginnen als heldere tot amberkleurige druppeltjes en indrogen tot roodbruine stippen. De voet is roze en omhuld door roze mycelium, dat bij droogte tot witachtig kan verbleken.",
+      "flesh": "Witachtig tot bleekgeel, citroengeel boven de buisjes en onder het steeloppervlak, roze getint in de steelvoet; zacht en niet verkleurend bij doorsnijden. Geur zwak, smaak zacht of licht zurig. Het kleurt lilagrijs met KOH, grijsachtig met ijzersulfaat en roodachtig met ammoniak.",
+      "sporePrint": "Okerbruin tot olijfbruin. Sporen spoelvormig, glad, onder de microscoop bleekgeel, 8–10,5 × 3–4,5 µm.",
+      "habitat": "Ectomycorrhizavormer bij tweenaaldige dennen, vooral de aleppoden (Pinus halepensis), en ook de zwarte den, de parasolden en de grove den (Pinus nigra, Pinus pinea, Pinus sylvestris), vooral op kalkrijke grond. Hij groeit in dennenbossen en -aanplantingen, langs bosranden en in parken en op grazige plekken bij dennen, meestal in groepen. Hij is warmteminnend en algemeen in het Middellandse Zeegebied, waar hij vruchtlichamen vormt van oktober tot februari; verder naar het noorden is hij zeldzaam en verschijnt hij van juli tot november. Hij komt in heel Europa voor en is ook gemeld uit Australië, Iran en Colombia.",
+      "uses": "Eetbaar, maar slechts matig gewaardeerd; jonge vruchtlichamen zijn het best. Trek de slijmerige hoedhuid voor het koken af, omdat die gerechten slijmerig maakt en laxerend kan werken. Hij wordt gebruikt in soepen en stoofschotels, gebakken, ingelegd of gedroogd.",
+      "confusion": "Suillus granulatus lijkt er het meest op: zijn hoed is lichter en glad, zonder donkere vezels, zijn jonge poriën scheiden melkwitte druppeltjes af, en steelvoet en mycelium zijn witachtig. Suillus luteus groeit ook onder dennen, maar heeft een vliezige ring. Suillus mediterraneensis heeft een lichtere hoed en heldergeel vlees, en Suillus variegatus een drogere, korrelig-viltige hoed. Suillus tridentinus groeit op vergelijkbare kalkrijke grond, maar alleen bij lariks.",
+      "notes": "Hij is de meest voorkomende ectomycorrhizapartner van de aleppoden, een boom die rond de Middellandse Zee veel tegen erosie wordt aangeplant, en wordt gebruikt om zaailingen te enten bij herbebossing. Wortels die hij koloniseert, kunnen herhaalde branden overleven. Zijn hyfen zijn bedekt met oxaalzuurkristallen die de pH van de bodem verlagen en vraat door het springstaartje Folsomia candida verminderen. De vruchtlichamen bevatten tocoferolen (vitamine E) met antioxiderende werking. In Nederland is hij vrij zeldzaam, vaak langs schelpenpaden, en staat hij op de Rode Lijst als bedreigd (Endangered).",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/9104622/vernacularNames",
+        "https://nl.wikipedia.org/wiki/Valse_melkboleet"
+      ],
+      "label": "valse melkboleet"
+    },
+    "no": {
+      "description": "En middels stor rørsopp med slimete brun hatt og uten ring, som vokser sammen med tonålede furutrær, mest på kalkrik jord og ofte i store grupper. Den kjennes på de mørke, radiære fibrene i hattehuden og det rosa myceliet ved stilkbasis. Den er vanlig rundt Middelhavet og sjeldnere lenger nord.",
+      "cap": "4–12 cm bred, unntaksvis opptil 18 cm; først halvkuleformet, så hvelvet til flat, med en kant som er innrullet hos unge eksemplarer og senere skarp og iblant bølget. Rødbrun til kastanjebrun eller gulbrun, med mørkere innvokste radiære fibre som gir den et stripete utseende. Glatt og klebrig, slimete i vått vær; hattehuden er lett å trekke av.",
+      "hymenium": "Rør opptil 1 cm lange, tilvokste til svakt nedløpende, først blekgule, så olivengule og til slutt olivenbrune. Porer små og kantete, med samme farge som rørene; i motsetning til lignende arter skiller de ikke ut melkehvite dråper. Basidier firesporede.",
+      "stipe": "4–8 cm lang og 1–2,5 cm tykk, sylindrisk eller avsmalnende mot basis, fast og fylt, uten ring. Sitrongul øverst og brunere nedover, besatt med korn som begynner som klare til ravgule dråper og tørker inn til rødbrune prikker. Basis er rosa og omgitt av rosa mycel, som kan blekne til hvitaktig i tørt vær.",
+      "flesh": "Hvitaktig til blekgult, sitrongult over rørene og under stilkoverflaten, rosaaktig i stilkbasis; mykt og uten fargeendring når det skjæres. Lukt svak, smak mild eller svakt syrlig. Det blir lillagrå med KOH, gråaktig med jernsulfat og rødlig med ammoniakk.",
+      "sporePrint": "Okerbrunt til olivenbrunt. Sporer spoleformede, glatte, blekgule i mikroskop, 8–10,5 × 3–4,5 µm.",
+      "habitat": "Ektomykorrhiza med tonålede furutrær, særlig aleppofuru (Pinus halepensis), og også med svartfuru, pinje og vanlig furu (Pinus nigra, Pinus pinea, Pinus sylvestris), mest på kalkrik jord. Den vokser i furuskog og plantefelt, i skogkanter og i parker og på gressdekte steder nær furu, vanligvis i grupper. Den er varmekjær og vanlig i Middelhavsområdet, der den fruktifiserer fra oktober til februar; lenger nord er den sjelden og vokser fra juli til november. Den finnes i hele Europa og er også rapportert fra Australia, Iran og Colombia.",
+      "uses": "Spiselig, men bare middels verdsatt; unge fruktlegemer er best. Trekk av den slimete hattehuden før tilberedning, fordi den gjør rettene slimete og kan virke avførende. Den brukes i supper og gryteretter, stekt, syltet eller tørket.",
+      "confusion": "Suillus granulatus ligner mest: hatten er lysere og glatt, uten mørke fibre, de unge porene skiller ut melkehvite dråper, og stilkbasis og mycel er hvitaktige. Suillus luteus vokser også under furu, men har en hinneaktig ring. Suillus mediterraneensis har lysere hatt og klart gult kjøtt, og Suillus variegatus har en tørrere, kornet-filtet hatt. Suillus tridentinus vokser på lignende kalkrik jord, men bare med lerk.",
+      "notes": "Den er den vanligste ektomykorrhizapartneren til aleppofuru, et tre som plantes mye mot erosjon i Middelhavsområdet, og brukes til å pode småplanter ved skogplanting. Røtter den har kolonisert, kan overleve gjentatte branner. Hyfene er dekket av oksalsyrekrystaller som senker jordas pH og reduserer beiting fra spretthalen Folsomia candida. Fruktlegemene inneholder tokoferoler (vitamin E) med antioksidantvirkning. I Nederland er den rødlistet som sterkt truet (Endangered).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "pl": {
+      "description": "Średniej wielkości borowikowiec ze śluzowatym brązowym kapeluszem i bez pierścienia, rosnący z sosnami dwuigłowymi, przeważnie na glebach wapiennych i często w dużych grupach. Rozpoznaje się go po ciemnych, promienistych włókienkach w skórce kapelusza i różowej grzybni u podstawy trzonu. Jest pospolity w rejonie Morza Śródziemnego, a dalej na północ rzadszy.",
+      "cap": "Średnica 4–12 cm, wyjątkowo do 18 cm; początkowo półkulisty, potem wypukły do płaskiego, z brzegiem u młodych owocników podwiniętym, później ostrym i niekiedy falistym. Czerwonobrązowy do kasztanowobrązowego lub żółtobrązowego, z ciemniejszymi, wrośniętymi promienistymi włókienkami, które nadają mu prążkowany wygląd. Gładki i lepki, w wilgotną pogodę śluzowaty; skórka łatwo się ściąga.",
+      "hymenium": "Rurki do 1 cm długości, przyrośnięte do lekko zbiegających, początkowo bladożółte, potem oliwkowożółte, a w końcu oliwkowobrązowe. Pory małe i kanciaste, tej samej barwy co rurki; w odróżnieniu od podobnych gatunków nie wydzielają mlecznych kropelek. Podstawki czterozarodnikowe.",
+      "stipe": "Długość 4–8 cm, grubość 1–2,5 cm, walcowaty lub zwężający się ku podstawie, twardy i pełny, bez pierścienia. U góry cytrynowożółty, niżej bardziej brązowy, pokryty ziarenkami, które powstają jako przezroczyste do bursztynowych kropelki i zasychają w czerwonobrązowe punkty. Podstawa jest różowa i otoczona różową grzybnią, która w suchą pogodę może blednąć do białawej.",
+      "flesh": "Białawy do bladożółtego, nad rurkami i pod powierzchnią trzonu cytrynowożółty, w podstawie trzonu różowawy; miękki i niezmieniający barwy po przekrojeniu. Zapach słaby, smak łagodny lub lekko kwaskowaty. Z KOH barwi się na liliowoszaro, z siarczanem żelaza na szarawo, a z amoniakiem na czerwonawo.",
+      "sporePrint": "Ochrowobrązowy do oliwkowobrązowego. Zarodniki wrzecionowate, gładkie, pod mikroskopem bladożółte, 8–10,5 × 3–4,5 µm.",
+      "habitat": "Tworzy ektomikoryzę z sosnami dwuigłowymi, zwłaszcza z sosną alepską (Pinus halepensis), a także z sosną czarną, piniową i zwyczajną (Pinus nigra, Pinus pinea, Pinus sylvestris), głównie na glebach wapiennych. Rośnie w lasach i uprawach sosnowych, na skrajach lasów oraz w parkach i miejscach trawiastych w pobliżu sosen, zwykle w grupach. Jest ciepłolubny i pospolity w rejonie śródziemnomorskim, gdzie owocniki pojawiają się od października do lutego; dalej na północ jest rzadki i rośnie od lipca do listopada. Występuje w całej Europie, notowano go też w Australii, Iranie i Kolumbii.",
+      "uses": "Jadalny, ale ceniony tylko umiarkowanie; najlepsze są młode owocniki. Przed przyrządzeniem należy zdjąć śluzowatą skórkę kapelusza, bo czyni potrawy śliskimi i może działać przeczyszczająco. Używa się go do zup i duszonych potraw, smaży, marynuje lub suszy.",
+      "confusion": "Najbardziej podobny jest Suillus granulatus: ma jaśniejszy, gładki kapelusz bez ciemnych włókienek, jego młode pory wydzielają mlecznobiałe kropelki, a podstawa trzonu i grzybnia są białawe. Suillus luteus również rośnie pod sosnami, ale ma błoniasty pierścień. Suillus mediterraneensis ma jaśniejszy kapelusz i jaskrawożółty miąższ, a Suillus variegatus suchszy, ziarnisto-filcowaty kapelusz. Suillus tridentinus rośnie na podobnych glebach wapiennych, ale tylko z modrzewiem.",
+      "notes": "Jest najczęstszym partnerem ektomikoryzowym sosny alepskiej, drzewa sadzonego powszechnie w rejonie śródziemnomorskim przeciw erozji, i służy do szczepienia sadzonek przy zalesianiu. Korzenie przez niego skolonizowane potrafią przetrwać powtarzające się pożary. Jego strzępki pokrywają kryształy kwasu szczawiowego, które obniżają pH gleby i ograniczają żerowanie skoczogonka Folsomia candida. Owocniki zawierają tokoferole (witamina E) o działaniu przeciwutleniającym. W Holandii figuruje na czerwonej liście jako zagrożony (Endangered). W Polsce jest rzadki.",
+      "names": [],
+      "sourceUrls": [
+        "https://pl.wikipedia.org/wiki/Ma%C5%9Blak_rdzawobr%C4%85zowy",
+        "https://www.grzyby.pl/gatunki/Suillus_collinitus.htm"
+      ],
+      "label": "maślak rdzawobrązowy"
+    },
+    "pt": {
+      "description": "Um boleto de tamanho médio, com chapéu castanho viscoso e sem anel, que vive associado a pinheiros de duas agulhas, sobretudo em solos calcários e muitas vezes em grandes grupos. Reconhece-se pelas fibras radiais escuras na cutícula do chapéu e pelo micélio cor-de-rosa na base do pé. É comum em torno do Mediterrâneo e mais raro para norte.",
+      "cap": "4–12 cm de diâmetro, excecionalmente até 18 cm; primeiro hemisférico, depois convexo a aplanado, com a margem enrolada nos exemplares jovens e mais tarde aguda e por vezes ondulada. Castanho-avermelhado a castanho ou castanho-amarelado, com fibras radiais inatas mais escuras que lhe dão um aspeto estriado. Liso e pegajoso, viscoso com tempo húmido; a cutícula separa-se facilmente.",
+      "hymenium": "Tubos até 1 cm de comprimento, adnatos a ligeiramente decorrentes, primeiro amarelo-pálidos, depois amarelo-oliváceos e por fim castanho-oliváceos. Poros pequenos e angulosos, da mesma cor dos tubos; ao contrário de espécies semelhantes, não exsudam gotículas leitosas. Basídios tetraspóricos.",
+      "stipe": "4–8 cm de comprimento e 1–2,5 cm de espessura, cilíndrico ou estreitado para a base, firme e cheio, sem anel. Amarelo-limão no topo e mais acastanhado em baixo, pontilhado de grânulos que surgem como gotículas transparentes a cor de âmbar e secam em pontos castanho-avermelhados. A base é cor-de-rosa e envolta em micélio cor-de-rosa, que pode desbotar para esbranquiçado com tempo seco.",
+      "flesh": "Esbranquiçada a amarelo-pálida, amarelo-limão acima dos tubos e sob a superfície do pé, rosada na base do pé; mole e sem mudar de cor ao corte. Cheiro fraco, sabor suave ou ligeiramente ácido. Fica cinzento-lilás com KOH, acinzentada com sulfato de ferro e avermelhada com amoníaco.",
+      "sporePrint": "Castanho-ocre a castanho-oliváceo. Esporos fusiformes, lisos, amarelo-pálidos ao microscópio, 8–10,5 × 3–4,5 µm.",
+      "habitat": "Ectomicorrízico com pinheiros de duas agulhas, sobretudo o pinheiro-de-alepo (Pinus halepensis), e também com o pinheiro-negro, o pinheiro-manso e o pinheiro-silvestre (Pinus nigra, Pinus pinea, Pinus sylvestris), principalmente em solos calcários. Cresce em pinhais e plantações, em orlas de bosques e em parques e locais relvados perto de pinheiros, geralmente em grupos. É termófilo e comum na região mediterrânica, onde frutifica de outubro a fevereiro; mais a norte é raro e aparece de julho a novembro. Ocorre em toda a Europa e foi também assinalado na Austrália, no Irão e na Colômbia.",
+      "uses": "Comestível, mas apenas moderadamente apreciado; os exemplares jovens são os melhores. Retire a cutícula viscosa do chapéu antes de cozinhar, porque torna os pratos viscosos e pode ter efeito laxante. Usa-se em sopas e guisados, frito, em conserva ou seco.",
+      "confusion": "Suillus granulatus é o mais parecido: o chapéu é mais claro e liso, sem fibras escuras, os poros jovens exsudam gotículas branco-leitosas, e a base do pé e o micélio são esbranquiçados. Suillus luteus também cresce sob pinheiros, mas tem um anel membranoso. Suillus mediterraneensis tem o chapéu mais claro e a carne amarelo-viva, e Suillus variegatus tem o chapéu mais seco, granuloso-feltrado. Suillus tridentinus cresce em solos calcários semelhantes, mas apenas com lariço.",
+      "notes": "É o parceiro ectomicorrízico mais frequente do pinheiro-de-alepo, árvore muito plantada contra a erosão no Mediterrâneo, e é usado para inocular plântulas em reflorestações. As raízes por ele colonizadas conseguem sobreviver a incêndios repetidos. As suas hifas estão revestidas de cristais de ácido oxálico, que baixam o pH do solo e reduzem o consumo pelo colêmbolo Folsomia candida. Os corpos frutíferos contêm tocoferóis (vitamina E) com atividade antioxidante. Nos Países Baixos consta da lista vermelha como em perigo (Endangered).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "ro": {
+      "description": "Un burete cu tuburi de mărime mijlocie, cu pălăria brună, vâscoasă, și fără inel, care trăiește împreună cu pinii cu două ace, mai ales pe soluri calcaroase și adesea în grupuri mari. Se recunoaște după fibrele radiale întunecate din cuticula pălăriei și după miceliul roz de la baza piciorului. Este comun în jurul Mării Mediterane și mai rar spre nord.",
+      "cap": "Diametru de 4–12 cm, excepțional până la 18 cm; la început emisferică, apoi convexă până la aplatizată, cu marginea răsucită în jos la exemplarele tinere, mai târziu ascuțită și uneori ondulată. Brun-roșiatică până la brun-castanie sau brun-gălbuie, cu fibre radiale înnăscute mai închise, care îi dau un aspect vărgat. Netedă și lipicioasă, mucilaginoasă pe vreme umedă; cuticula se jupoaie ușor.",
+      "hymenium": "Tuburi lungi de până la 1 cm, aderente până la ușor decurente, la început galben-pal, apoi galben-oliv și în final brun-oliv. Pori mici și unghiulari, de aceeași culoare cu tuburile; spre deosebire de speciile asemănătoare, nu exsudă picături lăptoase. Bazidii cu patru spori.",
+      "stipe": "Lung de 4–8 cm și gros de 1–2,5 cm, cilindric sau îngustat spre bază, tare și plin, fără inel. Galben-lămâiu în partea de sus și mai brun în jos, presărat cu granule care apar ca picături limpezi până la chihlimbarii și se usucă în puncte brun-roșiatice. Baza este roz și învelită de un miceliu roz, care se poate decolora până la albicios pe vreme uscată.",
+      "flesh": "Albicioasă până la galben-pal, galben-lămâie deasupra tuburilor și sub suprafața piciorului, rozalie la baza piciorului; moale și nu se colorează la tăiere. Miros slab, gust blând sau ușor acrișor. Cu KOH se colorează gri-liliachiu, cu sulfat de fier cenușiu, iar cu amoniac roșiatic.",
+      "sporePrint": "Brun-ocru până la brun-oliv. Spori fusiformi, netezi, galben-pal la microscop, 8–10,5 × 3–4,5 µm.",
+      "habitat": "Ectomicoriză cu pinii cu două ace, mai ales cu pinul de Alep (Pinus halepensis), dar și cu pinul negru, pinul de Italia și pinul silvestru (Pinus nigra, Pinus pinea, Pinus sylvestris), în special pe soluri calcaroase. Crește în păduri și plantații de pin, la marginea pădurilor, în parcuri și în locuri ierboase de lângă pini, de obicei în grupuri. Este termofil și comun în regiunea mediteraneană, unde fructifică din octombrie până în februarie; mai la nord este rar și apare din iulie până în noiembrie. Este prezent în toată Europa și a fost semnalat și în Australia, Iran și Columbia.",
+      "uses": "Comestibil, dar doar moderat apreciat; cele mai bune sunt exemplarele tinere. Cuticula vâscoasă a pălăriei trebuie îndepărtată înainte de gătit, deoarece face mâncarea mucilaginoasă și poate avea efect laxativ. Se folosește în supe și tocănițe, prăjit, murat sau uscat.",
+      "confusion": "Cel mai asemănător este Suillus granulatus: pălăria lui este mai deschisă la culoare și netedă, fără fibre întunecate, porii tineri exsudă picături alb-lăptoase, iar baza piciorului și miceliul sunt albicioase. Suillus luteus crește tot sub pini, dar are un inel membranos. Suillus mediterraneensis are pălăria mai deschisă și carnea galben-aprins, iar Suillus variegatus are pălăria mai uscată, granulos-pâsloasă. Suillus tridentinus crește pe soluri calcaroase asemănătoare, dar numai cu laricele.",
+      "notes": "Este cel mai frecvent partener ectomicorizic al pinului de Alep, un arbore plantat pe scară largă împotriva eroziunii în zona mediteraneană, și se folosește la inocularea puieților în împăduriri. Rădăcinile colonizate de el pot supraviețui unor incendii repetate. Hifele sale sunt acoperite cu cristale de acid oxalic, care scad pH-ul solului și reduc consumul de către colembola Folsomia candida. Corpurile fructifere conțin tocoferoli (vitamina E) cu activitate antioxidantă. În Țările de Jos figurează pe lista roșie ca specie periclitată (Endangered).",
+      "names": [],
+      "sourceUrls": [
+        "https://ro.wikipedia.org/wiki/Suillus_collinitus"
+      ],
+      "label": "pitoașcă fără inel"
+    },
+    "ru": {
+      "description": "Трубчатый гриб среднего размера со слизистой коричневой шляпкой и без кольца, растущий с двухвойными соснами, чаще на известковых почвах и нередко большими группами. Его узнают по тёмным радиальным волокнам в кожице шляпки и розовому мицелию у основания ножки. Обычен вокруг Средиземного моря, севернее встречается реже.",
+      "cap": "Диаметр 4–12 cm, изредка до 18 cm; сначала полушаровидная, затем выпуклая до плоской, край у молодых грибов подвёрнут, позже острый и иногда волнистый. Красновато-коричневая, каштановая или желтовато-коричневая, с более тёмными вросшими радиальными волокнами, придающими ей штриховатый вид. Гладкая и клейкая, в сырую погоду слизистая; кожица легко снимается.",
+      "hymenium": "Трубочки длиной до 1 cm, приросшие или слегка нисходящие, сначала бледно-жёлтые, затем оливково-жёлтые и в конце оливково-коричневые. Поры мелкие, угловатые, одного цвета с трубочками; в отличие от похожих видов не выделяют млечных капель. Базидии четырёхспоровые.",
+      "stipe": "Длина 4–8 cm, толщина 1–2,5 cm, цилиндрическая или суженная к основанию, плотная и сплошная, без кольца. Вверху лимонно-жёлтая, ниже более бурая, покрыта гранулами, которые появляются как прозрачные или янтарные капли и засыхают в красновато-коричневые точки. Основание розовое и окутано розовым мицелием, который в сухую погоду может выцветать до беловатого.",
+      "flesh": "Беловатая или бледно-жёлтая, над трубочками и под поверхностью ножки лимонно-жёлтая, в основании ножки розоватая; мягкая, на срезе цвет не меняет. Запах слабый, вкус мягкий или слегка кисловатый. От KOH окрашивается в сиренево-серый цвет, от сульфата железа становится сероватой, от аммиака красноватой.",
+      "sporePrint": "Охристо-коричневый до оливково-коричневого. Споры веретеновидные, гладкие, под микроскопом бледно-жёлтые, 8–10,5 × 3–4,5 µm.",
+      "habitat": "Образует эктомикоризу с двухвойными соснами, особенно с сосной алеппской (Pinus halepensis), а также с сосной чёрной, пинией и сосной обыкновенной (Pinus nigra, Pinus pinea, Pinus sylvestris), преимущественно на известковых почвах. Растёт в сосновых лесах и посадках, на опушках, в парках и на травянистых местах рядом с соснами, обычно группами. Теплолюбивый вид, обычный в Средиземноморье, где плодоносит с октября по февраль; севернее он редок и растёт с июля по ноябрь. Встречается по всей Европе, известен также из Австралии, Ирана и Колумбии.",
+      "uses": "Съедобен, но ценится лишь умеренно; лучше всего молодые плодовые тела. Слизистую кожицу шляпки перед приготовлением снимают, так как она делает блюда слизистыми и может действовать как слабительное. Используется в супах и рагу, жареным, маринованным или сушёным.",
+      "confusion": "Больше всего похож Suillus granulatus: его шляпка светлее и гладкая, без тёмных волокон, молодые поры выделяют молочно-белые капли, а основание ножки и мицелий беловатые. Suillus luteus тоже растёт под соснами, но имеет плёнчатое кольцо. У Suillus mediterraneensis шляпка светлее, а мякоть ярко-жёлтая, у Suillus variegatus шляпка суше, зернисто-войлочная. Suillus tridentinus растёт на сходных известковых почвах, но только с лиственницей.",
+      "notes": "Это самый частый эктомикоризный партнёр сосны алеппской — дерева, которое в Средиземноморье широко сажают против эрозии; гриб используют для инокуляции сеянцев при лесовосстановлении. Колонизированные им корни способны пережить повторные пожары. Его гифы покрыты кристаллами щавелевой кислоты, которые снижают pH почвы и уменьшают поедание ногохвосткой Folsomia candida. Плодовые тела содержат токоферолы (витамин E) с антиоксидантной активностью. В Нидерландах вид внесён в Красный список как находящийся под угрозой (Endangered).",
+      "names": [
+        "маслёнок рыжий"
+      ],
+      "sourceUrls": [
+        "https://toadstool.ru/spisok-rodov/suillus/suillus-collinitus/",
+        "https://tihaya-ohota.ru/basa/basidiomycota/agaricomycetes/boletales/suillaceae/suillus/collinitus.php"
+      ],
+      "label": "маслёнок неокольцованный"
+    },
+    "sk": {
+      "description": "Stredne veľký hríbovitý druh so slizkým hnedým klobúkom a bez prsteňa, ktorý rastie s dvojihličnatými borovicami, väčšinou na vápenatých pôdach a často vo veľkých skupinách. Spoznáme ho podľa tmavých radiálnych vlákien v pokožke klobúka a ružového mycélia na báze hlúbika. Bežný je okolo Stredozemného mora, smerom na sever je vzácnejší.",
+      "cap": "4–12 cm široký, výnimočne až 18 cm; najprv pologuľovitý, potom vypuklý až plochý, s okrajom, ktorý je v mladosti podvinutý a neskôr ostrý a niekedy zvlnený. Červenohnedý až gaštanovohnedý alebo žltohnedý, s tmavšími vrastenými radiálnymi vláknami, ktoré mu dávajú pruhovaný vzhľad. Hladký a lepkavý, za vlhka slizký; pokožka sa ľahko zlupuje.",
+      "hymenium": "Rúrky do 1 cm dlhé, prirastené až mierne zbiehavé, najprv bledožlté, potom olivovožlté a napokon olivovohnedé. Póry malé a hranaté, rovnakej farby ako rúrky; na rozdiel od podobných druhov nevylučujú mliečne kvapôčky. Bazídie štvorvýtrusné.",
+      "stipe": "4–8 cm dlhý a 1–2,5 cm hrubý, valcovitý alebo k báze zúžený, pevný a plný, bez prsteňa. Navrchu citrónovožltý, nižšie hnedší, posiaty zrnkami, ktoré vznikajú ako číre až jantárové kvapôčky a zasychajú na červenohnedé bodky. Báza je ružová a obalená ružovým mycéliom, ktoré za sucha môže vyblednúť do belava.",
+      "flesh": "Belavá až bledožltá, nad rúrkami a pod povrchom hlúbika citrónovožltá, v báze hlúbika ružovkastá; mäkká a na reze nemení farbu. Vôňa slabá, chuť mierna alebo slabo kyslastá. S KOH sa farbí fialkastosivo, so síranom železnatým sivasto a s amoniakom červenkasto.",
+      "sporePrint": "Okrovohnedý až olivovohnedý. Výtrusy vretenovité, hladké, pod mikroskopom bledožlté, 8–10,5 × 3–4,5 µm.",
+      "habitat": "Ektomykorízny s dvojihličnatými borovicami, najmä s borovicou alepskou (Pinus halepensis), a tiež s borovicou čiernou, pínia a lesnou (Pinus nigra, Pinus pinea, Pinus sylvestris), hlavne na vápenatých pôdach. Rastie v borových lesoch a výsadbách, na okrajoch lesov a v parkoch a trávnatých miestach pri borovicách, zvyčajne v skupinách. Je teplomilný a v oblasti Stredozemného mora bežný, kde plodnice tvorí od októbra do februára; severnejšie je vzácny a rastie od júla do novembra. Vyskytuje sa v celej Európe a uvádza sa aj z Austrálie, Iránu a Kolumbie.",
+      "uses": "Jedlý, no cenený len priemerne; najlepšie sú mladé plodnice. Slizkú pokožku klobúka pred varením zlúpte, pretože jedlo zaslizuje a môže pôsobiť preháňavo. Používa sa do polievok a dusených jedál, vyprážaný, nakladaný alebo sušený.",
+      "confusion": "Najpodobnejší je Suillus granulatus: má svetlejší a hladký klobúk bez tmavých vlákien, jeho mladé póry vylučujú mliečnobiele kvapôčky a báza hlúbika aj mycélium sú belavé. Suillus luteus rastie tiež pod borovicami, ale má blanitý prsteň. Suillus mediterraneensis má svetlejší klobúk a jasne žltú dužinu a Suillus variegatus má suchší, zrnitoplstnatý klobúk. Suillus tridentinus rastie na podobných vápenatých pôdach, ale len so smrekovcom.",
+      "notes": "Je najčastejším ektomykoríznym partnerom borovice alepskej, dreviny široko vysádzanej proti erózii v Stredomorí, a používa sa na očkovanie sadeníc pri zalesňovaní. Korene osídlené touto hubou dokážu prežiť opakované požiare. Jej hýfy pokrývajú kryštály kyseliny šťaveľovej, ktoré znižujú pH pôdy a obmedzujú požieranie chvostoskokom Folsomia candida. Plodnice obsahujú tokoferoly (vitamín E) s antioxidačnou aktivitou. V Holandsku je v červenom zozname zaradený medzi ohrozené druhy.",
+      "names": [],
+      "sourceUrls": [
+        "https://www.nahuby.sk/atlas-hub/Suillus-collinitus/masliak-kopcovy/klouzek-zihany/ID1990",
+        "https://mykospol.sk/wp-content/uploads/2019/04/Spravodajca_c-302004.pdf"
+      ],
+      "label": "masliak kopcový"
+    },
+    "sl": {
+      "description": "Srednje velika goba s sluzastim rjavim klobukom in brez obročka, ki raste z dvoigličnimi borovci, večinoma na apnenčastih tleh in pogosto v velikih skupinah. Prepoznamo jo po temnih, radialnih vlaknih v kožici klobuka in rožnatem miceliju ob dnu beta. Pogosta je okoli Sredozemlja, proti severu pa redkejša.",
+      "cap": "Širok 4–12 cm, izjemoma do 18 cm; sprva polkroglast, nato izbočen do sploščen, z robom, ki je pri mladih podvihan, pozneje oster in včasih valovit. Rdečkasto rjav do kostanjevo ali rumenkasto rjav, s temnejšimi vraščenimi radialnimi vlakni, zaradi katerih je videti progast. Gladek in lepljiv, v vlažnem vremenu sluzast; kožica se zlahka olupi.",
+      "hymenium": "Cevke do 1 cm dolge, priraščene do rahlo pobegle, sprva bledo rumene, nato olivno rumene in nazadnje olivno rjave. Luknjice majhne in oglate, iste barve kot cevke; za razliko od podobnih vrst ne izločajo mlečnih kapljic. Bazidiji štiritrosni.",
+      "stipe": "Dolg 4–8 cm in debel 1–2,5 cm, valjast ali proti dnu zožen, čvrst in poln, brez obročka. Zgoraj citronasto rumen, niže bolj rjav, posut z zrnci, ki nastanejo kot prozorne do jantarne kapljice in se posušijo v rdečkasto rjave pike. Dno je rožnato in obdano z rožnatim micelijem, ki lahko v suhem vremenu zbledi do belkastega.",
+      "flesh": "Belkasto do bledo rumeno, nad cevkami in pod površino beta citronasto rumeno, v dnu beta rožnato; mehko in na prerezu ne spreminja barve. Vonj šibek, okus blag ali rahlo kiselkast. S KOH se obarva lilasto sivo, z železovim sulfatom sivkasto in z amonijakom rdečkasto.",
+      "sporePrint": "Okrasto rjav do olivno rjav. Trosi vretenasti, gladki, pod mikroskopom bledo rumeni, 8–10,5 × 3–4,5 µm.",
+      "habitat": "Ektomikorizna vrsta dvoigličnih borovcev, zlasti alepskega bora (Pinus halepensis), pa tudi črnega bora, pinije in rdečega bora (Pinus nigra, Pinus pinea, Pinus sylvestris), predvsem na apnenčastih tleh. Raste v borovih gozdovih in nasadih, na gozdnih robovih ter v parkih in na travnatih mestih blizu borovcev, običajno v skupinah. Je toploljubna in v sredozemskem območju pogosta, kjer plodiča tvori od oktobra do februarja; severneje je redka in raste od julija do novembra. Pojavlja se po vsej Evropi, navajajo pa jo tudi iz Avstralije, Irana in Kolumbije.",
+      "uses": "Užitna, vendar le zmerno cenjena; najboljša so mlada plodiča. Sluzasto kožico klobuka pred kuhanjem olupite, ker naredi jed sluzasto in lahko deluje odvajalno. Uporablja se za juhe in enolončnice, ocvrta, vložena ali posušena.",
+      "confusion": "Najbolj podobna je Suillus granulatus: ima svetlejši in gladek klobuk brez temnih vlaken, njene mlade luknjice izločajo mlečno bele kapljice, dno beta in micelij pa sta belkasta. Suillus luteus prav tako raste pod borovci, vendar ima kožnat obroček. Suillus mediterraneensis ima svetlejši klobuk in živo rumeno meso, Suillus variegatus pa bolj suh, zrnato pustenast klobuk. Suillus tridentinus raste na podobnih apnenčastih tleh, a le z macesnom.",
+      "notes": "Je najpogostejši ektomikorizni partner alepskega bora, drevesa, ki ga v Sredozemlju veliko sadijo proti eroziji, in se uporablja za cepljenje sadik pri pogozdovanju. Korenine, ki jih naseli, lahko preživijo ponavljajoče se požare. Njene hife prekrivajo kristali oksalne kisline, ki znižujejo pH tal in zmanjšujejo objedanje skakača Folsomia candida. Plodiča vsebujejo tokoferole (vitamin E) z antioksidativnim delovanjem. Na Nizozemskem je na rdečem seznamu uvrščena med prizadete vrste (Endangered).",
+      "names": [
+        "brezobročna maslenka"
+      ],
+      "sourceUrls": [
+        "https://www.gobe-zveza.si/literatura-mzs/",
+        "https://www.gobe.si/Gobe/SuillusCollinitus"
+      ],
+      "label": "brezobročna lupljivka"
+    },
+    "sr": {
+      "description": "Средње крупна гљива са цевчицама, слузавим смеђим шеширом и без прстена, која расте с двоигличастим боровима, углавном на кречњачком земљишту и често у великим групама. Препознаје се по тамним радијалним влакнима у кожици шешира и ружичастом мицелијуму у дну стручка. Честа је око Средоземног мора, а ка северу ређа.",
+      "cap": "Пречник 4–12 cm, изузетно до 18 cm; у почетку полулоптаст, затим испупчен до спљоштен, с ивицом која је код младих гљива подвијена, касније оштра и понекад таласаста. Црвенкастосмеђ до кестењастосмеђ или жућкастосмеђ, с тамнијим ураслим радијалним влакнима која му дају пругаст изглед. Гладак и лепљив, по влажном времену слузав; кожица се лако љушти.",
+      "hymenium": "Цевчице дугачке до 1 cm, прирасле до благо силазне, у почетку бледожуте, затим маслинастожуте и на крају маслинастосмеђе. Поре мале и угласте, исте боје као цевчице; за разлику од сличних врста не излучују млечне капљице. Базидије четвороспорне.",
+      "stipe": "Дугачак 4–8 cm и дебео 1–2,5 cm, ваљкаст или ка дну сужен, чврст и пун, без прстена. При врху лимунжут, ниже смеђи, посут зрнцима која настају као провидне до ћилибарне капљице и суше се у црвенкастосмеђе тачкице. Дно је ружичасто и обавијено ружичастим мицелијумом, који по сувом времену може избледети до беличастог.",
+      "flesh": "Беличасто до бледожуто, изнад цевчица и испод површине стручка лимунжуто, у дну стручка ружичасто; меко и на пресеку не мења боју. Мирис слаб, укус благ или благо киселкаст. Са KOH постаје лила-сиво, са гвожђе-сулфатом сивкасто, а са амонијаком црвенкасто.",
+      "sporePrint": "Окерсмеђ до маслинастосмеђ. Споре вретенасте, глатке, под микроскопом бледожуте, 8–10,5 × 3–4,5 µm.",
+      "habitat": "Гради ектомикоризу с двоигличастим боровима, нарочито с алепским бором (Pinus halepensis), а и с црним бором, пинијом и белим бором (Pinus nigra, Pinus pinea, Pinus sylvestris), углавном на кречњачком земљишту. Расте у боровим шумама и засадима, на ободима шума, у парковима и на травнатим местима близу борова, обично у групама. Топлољубива је и честа у средоземном подручју, где плодоноси од октобра до фебруара; северније је ретка и расте од јула до новембра. Распрострањена је у целој Европи, а забележена је и у Аустралији, Ирану и Колумбији.",
+      "uses": "Јестива, али тек осредње цењена; најбоља су млада плодна тела. Слузаву кожицу шешира пре кувања треба огулити, јер јело чини слузавим и може деловати лаксативно. Користи се за супе и вариво, пржена, укисељена или сушена.",
+      "confusion": "Најсличнија је Suillus granulatus: шешир јој је светлији и гладак, без тамних влакана, младе поре излучују млечнобеле капљице, а дно стручка и мицелијум су беличасти. Suillus luteus такође расте под боровима, али има опнаст прстен. Suillus mediterraneensis има светлији шешир и јаркожуто месо, а Suillus variegatus сувљи, зрнасто-пустенаст шешир. Suillus tridentinus расте на сличном кречњачком земљишту, али само уз ариш.",
+      "notes": "Најчешћи је ектомикоризни партнер алепског бора, дрвета које се на Средоземљу много сади против ерозије, и користи се за инокулацију садница при пошумљавању. Корење које насели може да преживи поновљене пожаре. Њене хифе прекривају кристали оксалне киселине који снижавају pH земљишта и смањују испашу колемболе Folsomia candida. Плодна тела садрже токофероле (витамин E) с антиоксидативним деловањем. У Холандији је на црвеној листи као угрожена врста (Endangered).",
+      "names": [],
+      "sourceUrls": [
+        "https://sr.wikipedia.org/wiki/%D0%97%D1%80%D0%B0%D0%BA%D0%B0%D1%81%D1%82%D0%B8_%D0%B1%D0%BE%D1%80%D0%B8%D1%87%D0%B0%D1%80"
+      ],
+      "label": "зракасти боричар"
+    },
+    "sv": {
+      "description": "En medelstor sopp med slemmig brun hatt och utan ring, som växer tillsammans med tvåbarriga tallar, oftast på kalkrik mark och ofta i stora grupper. Den känns igen på de mörka, radiära fibrerna i hatthuden och det rosa myceliet vid fotens bas. Den är vanlig kring Medelhavet och sällsyntare längre norrut.",
+      "cap": "4–12 cm bred, undantagsvis upp till 18 cm; först halvklotformig, sedan välvd till utbredd, med en kant som är inrullad hos unga exemplar och senare skarp och ibland vågig. Rödbrun till kastanjebrun eller gulbrun, med mörkare inväxta radiära fibrer som ger den ett strimmigt utseende. Slät och klibbig, slemmig i fuktigt väder; hatthuden går lätt att dra av.",
+      "hymenium": "Rör upp till 1 cm långa, fastvuxna till svagt nedlöpande, först blekgula, sedan olivgula och till sist olivbruna. Porer små och kantiga, med samma färg som rören; till skillnad från liknande arter avsöndrar de inga mjölkvita droppar. Basidier fyrsporiga.",
+      "stipe": "4–8 cm lång och 1–2,5 cm tjock, cylindrisk eller avsmalnande mot basen, fast och fylld, utan ring. Citrongul upptill och brunare nedåt, beströdd med korn som börjar som klara till bärnstensgula droppar och torkar till rödbruna prickar. Basen är rosa och omgiven av rosa mycel, som kan blekna till vitaktigt i torrt väder.",
+      "flesh": "Vitaktigt till blekgult, citrongult ovanför rören och under fotens yta, rosaaktigt i fotens bas; mjukt och utan färgförändring vid snitt. Lukt svag, smak mild eller svagt syrlig. Det blir lilagrått med KOH, gråaktigt med järnsulfat och rödaktigt med ammoniak.",
+      "sporePrint": "Ockrabrunt till olivbrunt. Sporer spolformiga, släta, blekgula i mikroskop, 8–10,5 × 3–4,5 µm.",
+      "habitat": "Ektomykorrhiza med tvåbarriga tallar, särskilt aleppotall (Pinus halepensis), och även med svarttall, pinje och tall (Pinus nigra, Pinus pinea, Pinus sylvestris), främst på kalkrik mark. Den växer i tallskogar och planteringar, i skogsbryn och i parker och på gräsbevuxna platser nära tallar, vanligen i grupper. Den är värmeälskande och vanlig i Medelhavsområdet, där den bildar fruktkroppar från oktober till februari; längre norrut är den sällsynt och växer från juli till november. Den förekommer i hela Europa och har även rapporterats från Australien, Iran och Colombia.",
+      "uses": "Ätlig men bara måttligt uppskattad; unga fruktkroppar är bäst. Dra av den slemmiga hatthuden före tillagning, eftersom den gör rätterna slemmiga och kan verka laxerande. Den används i soppor och grytor, stekt, inlagd eller torkad.",
+      "confusion": "Suillus granulatus är mest lik: dess hatt är ljusare och slät, utan mörka fibrer, dess unga porer avsöndrar mjölkvita droppar, och fotens bas och mycel är vitaktiga. Suillus luteus växer också under tall men har en hinnaktig ring. Suillus mediterraneensis har ljusare hatt och klargult kött, och Suillus variegatus har en torrare, kornig-filtig hatt. Suillus tridentinus växer på liknande kalkrik mark men bara med lärk.",
+      "notes": "Den är aleppotallens vanligaste ektomykorrhizapartner, ett träd som planteras mycket mot erosion i Medelhavsområdet, och används för att ympa plantor vid återbeskogning. Rötter som den koloniserat kan överleva upprepade bränder. Dess hyfer är täckta av oxalsyrakristaller som sänker markens pH och minskar betning av hoppstjärten Folsomia candida. Fruktkropparna innehåller tokoferoler (vitamin E) med antioxidativ verkan. I Nederländerna är den rödlistad som starkt hotad (Endangered).",
+      "names": [],
+      "sourceUrls": [
+        "https://api.gbif.org/v1/species/9104622/vernacularNames",
+        "https://laji.fi/taxon/MX.236438"
+      ],
+      "label": "mörk grynsopp"
+    },
+    "tr": {
+      "description": "Yapışkan kahverengi şapkalı ve halkasız, orta büyüklükte bir borulu mantar; iki iğneli çamlarla birlikte, çoğunlukla kireçli topraklarda ve sıklıkla büyük gruplar hâlinde yetişir. Şapka derisindeki koyu, ışınsal lifler ve sap tabanındaki pembe misel ile tanınır. Akdeniz çevresinde yaygındır, kuzeye doğru daha nadirdir.",
+      "cap": "Çapı 4–12 cm, istisnai olarak 18 cm'ye kadar; önce yarım küre biçiminde, sonra dışbükey ile yassı arası, kenarı gençken içe kıvrık, sonra keskin ve bazen dalgalı. Kırmızımsı kahverengiden kestane kahverengisine veya sarımsı kahverengiye kadar, ona çizgili bir görünüm veren daha koyu, gömülü ışınsal liflerle. Düz ve yapışkan, nemli havada sümüksü; derisi kolayca soyulur.",
+      "hymenium": "Borucuklar 1 cm'ye kadar uzun, sapa bitişik ile hafifçe sapa doğru inen arası, önce soluk sarı, sonra zeytin sarısı ve sonunda zeytin kahverengisi. Gözenekler küçük ve köşeli, borucuklarla aynı renkte; benzer türlerin aksine sütümsü damlacıklar salgılamaz. Bazidyumlar dört sporlu.",
+      "stipe": "4–8 cm uzunluğunda ve 1–2,5 cm kalınlığında, silindirik veya tabana doğru daralan, sert ve dolu, halkasız. Üstte limon sarısı, aşağıda daha kahverengimsi; berrak ile kehribar renkli damlacıklar olarak başlayıp kırmızımsı kahverengi noktalara kuruyan taneciklerle kaplı. Taban pembedir ve kurak havada beyazımsıya solabilen pembe miselle sarılıdır.",
+      "flesh": "Beyazımsı ile soluk sarı arası, borucukların üstünde ve sap yüzeyinin altında limon sarısı, sap tabanında pembemsi; yumuşak ve kesildiğinde renk değiştirmez. Kokusu zayıf, tadı hafif veya biraz ekşimsi. KOH ile leylak grisine, demir sülfatla grimsiye ve amonyakla kırmızımsıya döner.",
+      "sporePrint": "Aşı boyası kahverengisi ile zeytin kahverengisi arası. Sporlar iğ biçiminde, düz, mikroskopta soluk sarı, 8–10,5 × 3–4,5 µm.",
+      "habitat": "İki iğneli çamlarla, özellikle Halep çamı (Pinus halepensis) ile, ayrıca karaçam, fıstıkçamı ve sarıçam (Pinus nigra, Pinus pinea, Pinus sylvestris) ile ektomikoriza oluşturur; daha çok kireçli topraklarda. Çam ormanlarında ve ağaçlandırmalarda, orman kenarlarında, parklarda ve çamların yakınındaki çimenli yerlerde, genellikle gruplar hâlinde yetişir. Sıcaksever olup Akdeniz bölgesinde yaygındır ve orada ekimden şubata kadar meyve verir; daha kuzeyde nadirdir ve temmuzdan kasıma kadar görülür. Avrupa'nın her yerinde bulunur ve Avustralya, İran ve Kolombiya'dan da kaydedilmiştir.",
+      "uses": "Yenir, ancak yalnızca orta derecede beğenilir; en iyileri genç meyve gövdeleridir. Yemekleri sümüksü yaptığı ve müshil etkisi gösterebildiği için yapışkan şapka derisini pişirmeden önce soyun. Çorbalarda ve yahnilerde kullanılır, kızartılır, turşusu yapılır veya kurutulur.",
+      "confusion": "En çok Suillus granulatus'a benzer: onun şapkası daha açık renkli ve düzdür, koyu lifleri yoktur, genç gözenekleri süt beyazı damlacıklar salgılar, sap tabanı ve miseli beyazımsıdır. Suillus luteus da çamların altında yetişir, ancak zarımsı bir halkası vardır. Suillus mediterraneensis'in şapkası daha açık, eti parlak sarıdır; Suillus variegatus'un şapkası ise daha kuru ve taneli keçemsidir. Suillus tridentinus benzer kireçli topraklarda, ama yalnızca melez ağacıyla birlikte yetişir.",
+      "notes": "Akdeniz'de erozyona karşı yaygın olarak dikilen Halep çamının en sık ektomikoriza ortağıdır ve ağaçlandırmada fidanları aşılamak için kullanılır. Kolonize ettiği kökler tekrarlanan yangınlardan sağ çıkabilir. Hifleri, toprağın pH değerini düşüren ve kolembol Folsomia candida'nın beslenmesini azaltan oksalik asit kristalleriyle kaplıdır. Meyve gövdeleri antioksidan etkili tokoferoller (E vitamini) içerir. Hollanda'da kırmızı listede tehlike altında (Endangered) olarak yer alır.",
+      "names": [],
+      "sourceUrls": []
+    },
+    "uk": {
+      "description": "Трубчастий гриб середнього розміру зі слизуватим коричневим капелюшком і без кільця, що росте з двохвойними соснами, переважно на вапнистих ґрунтах і часто великими групами. Його впізнають за темними радіальними волокнами в шкірці капелюшка та рожевим міцелієм біля основи ніжки. Поширений навколо Середземного моря, далі на північ трапляється рідше.",
+      "cap": "Діаметр 4–12 cm, зрідка до 18 cm; спершу напівкулястий, потім опуклий до плоского, край у молодих грибів підгорнутий, пізніше гострий і часом хвилястий. Червонувато-коричневий, каштановий або жовтувато-коричневий, з темнішими врослими радіальними волокнами, що надають йому штрихуватого вигляду. Гладенький і липкий, у вологу погоду слизуватий; шкірка легко знімається.",
+      "hymenium": "Трубочки завдовжки до 1 cm, прирослі або трохи низбіжні, спершу блідо-жовті, потім оливково-жовті й зрештою оливково-коричневі. Пори дрібні, кутасті, одного кольору з трубочками; на відміну від схожих видів не виділяють молочних крапель. Базидії чотириспорові.",
+      "stipe": "Завдовжки 4–8 cm і завтовшки 1–2,5 cm, циліндрична або звужена до основи, щільна й суцільна, без кільця. Угорі лимонно-жовта, нижче бурувата, вкрита гранулами, що з'являються як прозорі або бурштинові краплі й засихають у червонувато-коричневі цятки. Основа рожева й оповита рожевим міцелієм, який у суху погоду може вицвітати до білуватого.",
+      "flesh": "Білувата або блідо-жовта, над трубочками й під поверхнею ніжки лимонно-жовта, в основі ніжки рожевувата; м'яка, на розрізі кольору не змінює. Запах слабкий, смак м'який або злегка кислуватий. Від KOH забарвлюється в бузково-сірий колір, від сульфату заліза стає сіруватою, від аміаку червонуватою.",
+      "sporePrint": "Охристо-коричневий до оливково-коричневого. Спори веретеноподібні, гладенькі, під мікроскопом блідо-жовті, 8–10,5 × 3–4,5 µm.",
+      "habitat": "Утворює ектомікоризу з двохвойними соснами, особливо із сосною алеппською (Pinus halepensis), а також із сосною чорною, пінією та сосною звичайною (Pinus nigra, Pinus pinea, Pinus sylvestris), переважно на вапнистих ґрунтах. Росте в соснових лісах і насадженнях, на узліссях, у парках і на трав'янистих місцях поблизу сосен, зазвичай групами. Теплолюбний вид, звичайний у Середземномор'ї, де плодоносить з жовтня по лютий; північніше він рідкісний і росте з липня по листопад. Трапляється по всій Європі, відомий також з Австралії, Ірану та Колумбії.",
+      "uses": "Їстівний, але цінується лише помірно; найкращі молоді плодові тіла. Слизувату шкірку капелюшка перед приготуванням знімають, бо вона робить страви слизуватими й може діяти як проносне. Використовується в супах і рагу, смаженим, маринованим або сушеним.",
+      "confusion": "Найбільше схожий Suillus granulatus: його капелюшок світліший і гладенький, без темних волокон, молоді пори виділяють молочно-білі краплі, а основа ніжки й міцелій білуваті. Suillus luteus теж росте під соснами, але має плівчасте кільце. У Suillus mediterraneensis капелюшок світліший, а м'якуш яскраво-жовтий, у Suillus variegatus капелюшок сухіший, зернисто-повстистий. Suillus tridentinus росте на подібних вапнистих ґрунтах, але лише з модриною.",
+      "notes": "Це найчастіший ектомікоризний партнер сосни алеппської — дерева, яке в Середземномор'ї широко висаджують проти ерозії; гриб використовують для інокуляції сіянців під час лісовідновлення. Колонізоване ним коріння здатне пережити повторні пожежі. Його гіфи вкриті кристалами щавлевої кислоти, які знижують pH ґрунту й зменшують виїдання ногохвісткою Folsomia candida. Плодові тіла містять токофероли (вітамін E) з антиоксидантною активністю. У Нідерландах вид занесено до Червоного списку як такий, що перебуває під загрозою (Endangered).",
+      "names": [],
+      "sourceUrls": []
+    },
+    "zh": {
+      "description": "一種中型的牛肝菌，菌蓋褐色而黏滑，菌柄無菌環，與二針松類共生，多生於石灰質土壤，常大群發生。可由菌蓋表皮的暗色放射狀纖維及菌柄基部的粉紅色菌絲辨認。在地中海沿岸常見，越往北越少見。",
+      "cap": "直徑4–12 cm，偶可達18 cm；初為半球形，後為凸鏡形至平展，邊緣幼時內捲，後變銳利，有時呈波狀。紅褐色至栗褐色或黃褐色，具較深色的內生放射狀纖維，使其呈條紋狀。平滑而具黏性，潮濕時黏滑；表皮易剝離。",
+      "hymenium": "菌管長達1 cm，直生至稍延生，初為淡黃色，後為橄欖黃色，最後為橄欖褐色。管孔小而多角形，與菌管同色；與相似種不同，不分泌乳白色液滴。擔子具四孢子。",
+      "stipe": "長4–8 cm，粗1–2.5 cm，圓柱形或向基部漸細，堅實而實心，無菌環。頂部檸檬黃色，下部較褐，佈滿顆粒點，顆粒初為透明至琥珀色的液滴，乾後成為紅褐色小點。基部粉紅色，包有粉紅色菌絲，乾燥時可褪為近白色。",
+      "flesh": "白色至淡黃色，菌管上方及菌柄表皮下檸檬黃色，菌柄基部帶粉紅色；柔軟，切開後不變色。氣味弱，味道溫和或略帶酸味。遇KOH變為灰紫色，遇硫酸亞鐵變灰色，遇氨水變紅色。",
+      "sporePrint": "赭褐色至橄欖褐色。孢子紡錘形，平滑，在顯微鏡下呈淡黃色，8–10.5 × 3–4.5 µm。",
+      "habitat": "與二針松類形成外生菌根，尤其是阿勒坡松（Pinus halepensis），亦與歐洲黑松、義大利石松及歐洲赤松（Pinus nigra, Pinus pinea, Pinus sylvestris）共生，主要生於石灰質土壤。生於松林及人工林、林緣，以及松樹附近的公園和草地，通常群生。喜溫暖，在地中海地區常見，當地於10月至2月發生；更北方則罕見，於7月至11月發生。分布於全歐洲，澳洲、伊朗及哥倫比亞亦有記錄。",
+      "uses": "可食，但評價僅屬一般；以幼嫩子實體為佳。烹調前應剝除黏滑的菌蓋表皮，因其會使菜餚黏稠，並可能有輕瀉作用。可用於湯品和燉菜，或煎炒、醃漬、乾燥。",
+      "confusion": "最相似的是Suillus granulatus：其菌蓋較淺色且平滑，無暗色纖維，幼時管孔分泌乳白色液滴，菌柄基部及菌絲帶白色。Suillus luteus亦生於松樹下，但具膜質菌環。Suillus mediterraneensis菌蓋較淺，菌肉鮮黃色；Suillus variegatus菌蓋較乾，呈顆粒狀氈毛。Suillus tridentinus生於相似的石灰質土壤，但僅與落葉松共生。",
+      "notes": "它是阿勒坡松最常見的外生菌根共生菌；阿勒坡松在地中海地區廣泛栽植以防止土壤侵蝕，本種則用於造林時為苗木接種。被它定殖的根系可在反覆火災後存活。其菌絲覆有草酸結晶，可降低土壤pH，並減少跳蟲Folsomia candida的取食。子實體含有具抗氧化活性的生育酚（維生素E）。在荷蘭被列入紅色名錄的瀕危等級（Endangered）。",
+      "names": [],
+      "sourceUrls": []
+    }
+  },
+  "illustration": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Suillaceae/Suillus_collinitus/Suillus_collinitus@1600.webp",
+  "thumbnail": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Suillaceae/Suillus_collinitus/Suillus_collinitus@400.webp",
+  "plate": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Suillaceae/Suillus_collinitus/Suillus_collinitus@1600.webp",
+  "plateGrid": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Suillaceae/Suillus_collinitus/Suillus_collinitus@400.webp",
+  "plateCredit": {
+    "author": "L. Dufour",
+    "credit": "L. Dufour, Atlas des champignons comestibles et vénéneux (Paris, 1891), Planche 63, No. 138 \"Boletus collinitus, Bolet visqueux\" (via Biodiversity Heritage Library / Wikimedia Commons). Credit \"L. Dufour\" as requested (t30u); the supplied file is a cleaned derivative (captions removed, recentred) whose \"L. Dufour\" script mark was added during cleaning and is not proof of authorship.",
+    "license": "Public domain (1891 plate; Commons \"Public domain\"). Cleaning of the derivative undocumented.",
+    "source": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Suillaceae/Suillus_collinitus/Suillus_collinitus@1600.webp"
+  },
+  "photos": [
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Suillaceae/Suillus_collinitus/sc1.webp",
+      "author": "otiegoat",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/144802680"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Suillaceae/Suillus_collinitus/sc2.webp",
+      "author": "Michel Langeveld",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/60051967"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Suillaceae/Suillus_collinitus/sc3.webp",
+      "author": "Carlos Muñoz-Amezcua",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/139506108"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Suillaceae/Suillus_collinitus/sc4.webp",
+      "author": "Gergely Nigg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/244898970"
+    },
+    {
+      "src": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Suillaceae/Suillus_collinitus/sc5.webp",
+      "author": "Kristian Bosak",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.inaturalist.org/observations/144038307"
+    }
+  ],
+  "figures": [
+    {
+      "role": "illustration",
+      "path": "photos/Boletales/Suillaceae/Suillus_collinitus/Suillus_collinitus@1600.webp",
+      "author": "L. Dufour (Atlas des champignons comestibles et vénéneux, 1891, Pl. 63 No. 138; cleaned derivative)",
+      "license": "Public domain (1891 plate; Commons \"Public domain\"). Cleaning of the derivative undocumented.",
+      "sourceUrl": "https://storage.googleapis.com/abshrooms-resources/photos/Boletales/Suillaceae/Suillus_collinitus/Suillus_collinitus@1600.webp",
+      "basedOn": [
+        "https://commons.wikimedia.org/wiki/File:Atlas_des_champignons_comestibles_et_v%C3%A9n%C3%A9neux_(Planche_63)_(6358028329).jpg",
+        "https://www.flickr.com/photos/biodivlibrary/6358028329"
+      ],
+      "existingMark": "\"L. Dufour\" cursive mark bottom right, added by the (undocumented) cleaner; retained once exactly as found; no new mark painted"
+    },
+    {
+      "role": "photo1",
+      "path": "photos/Boletales/Suillaceae/Suillus_collinitus/sc1.webp",
+      "author": "otiegoat",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/144802680",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/248616640/original.jpeg",
+      "attribution": "© otiegoat, CC BY 4.0, via iNaturalist observation 144802680 / GBIF occurrence 4430415105",
+      "adaptation": "True-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo2",
+      "path": "photos/Boletales/Suillaceae/Suillus_collinitus/sc2.webp",
+      "author": "Michel Langeveld",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/60051967",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/95997512/original.jpg",
+      "attribution": "© Michel Langeveld, CC BY 4.0, via iNaturalist observation 60051967 / GBIF occurrence 4909254456",
+      "adaptation": "True-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo3",
+      "path": "photos/Boletales/Suillaceae/Suillus_collinitus/sc3.webp",
+      "author": "Carlos Muñoz-Amezcua",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/139506108",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/238622293/original.jpeg",
+      "attribution": "© Carlos Muñoz-Amezcua, CC BY 4.0, via iNaturalist observation 139506108 / GBIF occurrence 3985767878",
+      "adaptation": "True-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo4",
+      "path": "photos/Boletales/Suillaceae/Suillus_collinitus/sc4.webp",
+      "author": "Gergely Nigg",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/244898970",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/436922632/original.jpeg",
+      "attribution": "© Gergely Nigg, CC BY 4.0, via iNaturalist observation 244898970 / GBIF occurrence 4952270503",
+      "adaptation": "True-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    },
+    {
+      "role": "photo5",
+      "path": "photos/Boletales/Suillaceae/Suillus_collinitus/sc5.webp",
+      "author": "Kristian Bosak",
+      "license": "CC BY 4.0",
+      "licenseVersion": "4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://www.inaturalist.org/observations/144038307",
+      "photoUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/247135827/original.jpg",
+      "attribution": "© Kristian Bosak, CC BY 4.0, via iNaturalist observation 144038307 / GBIF occurrence 4014984727",
+      "adaptation": "True-source square crop, downsampled to 1024, WebP q90/method 6; no padding, stretching, upscaling, retouching or generation."
+    }
+  ],
+  "synonyms": [
+    "Boletus collinitus",
+    "Viscipellis collinita",
+    "Ixocomus collinitus",
+    "Boletus granulatus var. roseobasis",
+    "Suillus roseobasis",
+    "Suillus fluryi",
+    "Suillus fluryi var. aureus",
+    "Suillus collinitus var. aureus"
+  ],
+  "fruitingFrom": 7,
+  "fruitingTo": 2,
+  "reserved": false,
+  "id": 157,
+  "added": "2026-11-10",
+  "citation": "Revis. gen. pl. (Leipzig) 3(3): 536 (1898)",
+  "illustrationProvenance": {
+    "paperPatchesExcluded": [
+      {
+        "area": 146.5,
+        "box": [
+          817,
+          1104,
+          20,
+          18
+        ],
+        "medianContrast": 6.739735124447243
+      }
+    ],
+    "edgePaperPixelsPeeled": 879,
+    "paperResidualP995": 1.8673247797803885,
+    "contrastThreshold": 6,
+    "contours": [
+      {
+        "area": 26360.5,
+        "box": [
+          173,
+          465,
+          167,
+          295
+        ],
+        "medianContrast": 77.779211641817
+      },
+      {
+        "area": 74447.5,
+        "box": [
+          368,
+          368,
+          360,
+          472
+        ],
+        "medianContrast": 54.20209386114634
+      }
+    ],
+    "cropBBox": [
+      172,
+      367,
+      849,
+      1177
+    ],
+    "uniformScale": 2.06794682422452,
+    "placement": [
+      100,
+      362
+    ],
+    "composedArtworkDimensions": [
+      1400,
+      1675
+    ],
+    "signatureBox": [
+      722,
+      1128,
+      856,
+      1182
+    ],
+    "signatureComponents": 4,
+    "signaturePixels": 604,
+    "transparentPixels": 969008,
+    "opaquePixels": 97882,
+    "partialAlphaPixels": 8310,
+    "sourceFormat": "JPEG",
+    "sourceDimensions": [
+      896,
+      1200
+    ],
+    "sourceSHA256": "175a92a51ec720f36b3b0856ccbe08d8ec884d5e7c5ea67d38e9ae0fd78948ad",
+    "backgroundSHA256": "d32f4fc04c907d25e2a18840a96ffde977a0b519b21882c9cb305e5dc3e99f7c",
+    "backgroundSourceDimensions": [
+      1067,
+      1600
+    ],
+    "paperHolesRemoved": [],
+    "holeRemovalDisabled": "Enclosed low-contrast regions were pale stipe interiors; kept opaque",
+    "tool": "Pillow + OpenCV deterministic alpha-only segmentation; no generation",
+    "sourceFile": "Suillus collinitus.png",
+    "sourceFormatNote": "File named .png is actually JPEG/JFIF (Exif software Picasa), RGB, no source alpha; alpha produced by segmentation.",
+    "alphaPNG": "artwork_rgba.png",
+    "mask": "artwork_alpha_mask.png",
+    "allSourceRGBChangedPixels": 0,
+    "backgroundCanvasDimensions": [
+      1600,
+      2400
+    ],
+    "generation": false,
+    "repainting": false,
+    "stretching": false,
+    "sourcePaperRemoved": true,
+    "preservedObjects": [
+      "left: a smaller fruit body with a convex golden-yellow to ochre cap, yellow tube layer and a cylindrical pale stipe dotted with brownish granules, frayed mycelial base",
+      "right: a larger fruit body with a broad, wavy pale yellow-green cap with a few darker streaks, yellow pores, and a long pale stipe with fine granules and a fibrillose basal tuft",
+      "existing hand-script \"L. Dufour\" mark at bottom right"
+    ],
+    "signatureTreatment": "Existing \"L. Dufour\" script mark retained once exactly as found (alpha only); no mark added, painted or removed. The requested signature \"L. Dufour\" is used as the plate credit in metadata only. The mark is NOT proof of authorship: the comparison shows it was added during the cleaning of the scan (the original plate carries no signature, only printed captions).",
+    "requestedCredit": "L. Dufour",
+    "creditUse": "Owner t30u \"signature L. Dufour\": plateCredit author \"L. Dufour\" (metadata), same form as Suillus luteus ID 18. Supported by provenance: the figures are Dufour's plate.",
+    "visibleMarks": [
+      "one cursive \"L. Dufour\" at bottom right (~x729-847, y1137-1174 in the 896x1200 source)",
+      "no plate number, captions, imprint or other text (all removed from the original plate)"
+    ],
+    "provenanceAssessment": {
+      "verdict": "DERIVATIVE OF A DOCUMENTED PUBLIC-DOMAIN PLATE: the two figures are No. 138 \"Boletus collinitus. Bolet visqueux\" from Léon Dufour, Atlas des champignons comestibles et vénéneux (Paris, 1891), Planche 63 (No. 137 Boletus bovinus on the same plate is not included).",
+      "source": {
+        "work": "L. Dufour, Atlas des champignons comestibles et vénéneux (1891), Planche 63, No. 138",
+        "commons": "https://commons.wikimedia.org/wiki/File:Atlas_des_champignons_comestibles_et_v%C3%A9n%C3%A9neux_(Planche_63)_(6358028329).jpg",
+        "flickrBHL": "https://www.flickr.com/photos/biodivlibrary/6358028329",
+        "commonsArtist": "Dufour, L.",
+        "commonsLicense": "Public domain",
+        "date": "1891",
+        "evidenceFiles": [
+          "sources/commons_dufour_pl63.json",
+          "sources/dufour_planche63_flickr6358028329.jpg",
+          "dufour_plate63_comparison.jpg"
+        ]
+      },
+      "evidence": [
+        "Side-by-side comparison (dufour_plate63_comparison.jpg): same two figures, shapes, colours, granule pattern and basal tufts as Planche 63 No. 138",
+        "Supplied file removes the plate header, the No. 137/138 captions and the No. 137 figure; the paper is re-toned and the figures are recentred",
+        "The cursive \"L. Dufour\" mark is absent from the plate: it was added by whoever cleaned the image",
+        "Picasa JPEG named .png, 896x1200, the same pipeline as earlier owner-supplied cleaned/AI images"
+      ],
+      "authorship": "Plate authorship verified to the level of the BHL/Commons record (Atlas by L. Dufour, artist field \"Dufour, L.\"); the chromolithograph artist/engraver is not separately named in that record. The cleaner/tool of the derivative is undocumented (unverified).",
+      "rights": "Source plate: public domain (1891; Commons \"Public domain\", BHL Flickr). Derivative cleaning: no rights statement; a faithful restoration of a PD work adds no clear new rights, but the cleaner is unverified.",
+      "anatomyCaveat": "Historic concept: the caps are pale yellow-green to golden ochre with few streaks, whereas the modern S. collinitus has a reddish-brown to chestnut cap with dark radial fibres; the pink stipe base/mycelium is not shown. Closer to a yellow form (cf. var. aureus/fluryi) or to Dufour's 1891 concept. Decision for Adrian."
+    },
+    "art_visual_review": "Full-size inspection (art_fullsize_inspection.png, transparency_checker.png): clean alpha edges, no paper halo, no clipped anatomy; both figures, stipe granules and basal tufts intact; source RGB unchanged; signature kept as found.",
+    "visualReview": "See art_visual_review",
+    "alphaPNGSHA256": "7c2c7e4472f059e4709b62bcc8e77f33ded7cdb274c40730539ce5a108052f08",
+    "maskSHA256": "3eec7c8f357a3709a8e0dcb5c6f83450f8b73052d0f987ea23719a8d448e13e7",
+    "recipeSHA256": "b62dc503e9c2952df0a520df1ee0a17d831c310532de902db53b5382c8277d40",
+    "officialFiles": [
+      {
+        "path": "media/Suillus_collinitus@1600.webp",
+        "bytes": 102504,
+        "sha256": "4900d93690b21682175f53b8072085a31059caaf9444f0f203fba778520aebcd"
+      },
+      {
+        "path": "media/Suillus_collinitus@400.webp",
+        "bytes": 13650,
+        "sha256": "802230f6d837a36092afa9b9b8033b53682ed21c57825883fe0c1f4ff69389c7"
+      }
+    ]
+  }
 }
 ];
